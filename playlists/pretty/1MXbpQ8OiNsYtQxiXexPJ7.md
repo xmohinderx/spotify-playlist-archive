@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1MXbpQ8OiNsYtQxiXexPJ7.md) - [plain]
 
 > The sun is setting and the night takes over\. Enjoy these while letting the evening play on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 460 likes - 44 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 460 likes - 44 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/1MXbpQ8OiNsYtQxiXexPJ7.md) - [plain]
 | 27 | [Sidestep Your Grave](https://open.spotify.com/track/3NFw3NsrNVOyGljjRDbfmG) | [Andrew Duhon](https://open.spotify.com/artist/68HziuR2jVOJHuVhJM4H2l) | [The Moorings](https://open.spotify.com/album/1CLMMxoXlaXymWlsmK1A0L) | 3:05 |
 | 28 | [Native State](https://open.spotify.com/track/3eZOtkZYvOYJJgUJWyNipA) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Native State](https://open.spotify.com/album/59ojCT6Jx8dtTGkrS1YXMh) | 4:14 |
 | 29 | [Ruins](https://open.spotify.com/track/0wQxi1GhjRxhAn5xdt0THz) | [Demi Louise](https://open.spotify.com/artist/2fmwEMhexjs7GyOUdd1VJt) | [Ruins](https://open.spotify.com/album/76vB5F3ifH5JnZv6S6kjX3) | 3:57 |
-| 30 | [Poor Man's Son](https://open.spotify.com/track/6nYCdW3cDkm9VMOhpyjz0L) | [Bastard Sons of Johnny Cash](https://open.spotify.com/artist/7J7zkant0HwoShdwP6FHbe) | [New Old Story](https://open.spotify.com/album/3ogmRHye16x4jSRHyeepjE) | 4:03 |
+| 30 | [Poor Man's Son](https://open.spotify.com/track/6nYCdW3cDkm9VMOhpyjz0L) | [Bastard Sons of Johnny Cash](https://open.spotify.com/artist/7J7zkant0HwoShdwP6FHbe) | [New Old Story](https://open.spotify.com/album/3ogmRHye16x4jSRHyeepjE) | 0:29 |
 | 31 | [Misplaced](https://open.spotify.com/track/7AKsTwGKBlNQxDf2D6AQvt) | [The Acorn](https://open.spotify.com/artist/1fQObup5M4oSgLVDBnt22v) | [No Ghost](https://open.spotify.com/album/2TvF3T3FykvWh0SiyKGIfA) | 3:39 |
 | 32 | [Pretty Polly](https://open.spotify.com/track/5ZCSxBtSpyvHvEvGuXuTEr) | [Vandaveer](https://open.spotify.com/artist/3SP3zwx9ot2sOEf80VJA5A) | [Oh, Willie, Please...](https://open.spotify.com/album/7nDcfCxLFJaMJ1dGv9sHS5) | 3:48 |
 | 33 | [Love Is Gone](https://open.spotify.com/track/3zy6yAAXV9jrKZWbtoePoq) | [Oxford & Co.](https://open.spotify.com/artist/1eJEB18LdtPqjCJgSNUEGy) | [Oxford & Co.](https://open.spotify.com/album/5lr1wdOjAiOMpbncRiahRv) | 3:46 |

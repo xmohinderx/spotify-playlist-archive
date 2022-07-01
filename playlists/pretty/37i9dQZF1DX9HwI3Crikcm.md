@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 
 > Relive last night's fun with jigs and reels out of Ireland – alongside trad tracks inspired and influenced by Celtic traditions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,292 likes - 86 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,354 likes - 86 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 | 5 | [Molly Bán / Flowers of Edinburgh / Famous Ballymote](https://open.spotify.com/track/39YDPbenTXsY93zKizoqvn) | [Ciaran Tourish](https://open.spotify.com/artist/7JgJRLk3nWbYCeMyzSXXMj) | [Down the Line](https://open.spotify.com/album/4BPjPP2T4DW4lk5gHHsJcf) | 3:28 |
 | 6 | [The Gap of Dreams / Nia’s Jig / The Beekeeper](https://open.spotify.com/track/5MH17KACijBOpJZ6VGVibO) | [Altan](https://open.spotify.com/artist/6koEjb4607APXtFtjxvA5T) | [The Gap of Dreams](https://open.spotify.com/album/0eMD7KitnmLQH2cPLdsn0v) | 5:20 |
 | 7 | [She Hasn't the Thing She Thought She Had / Denis Murphy's / Abbey's Green Isle](https://open.spotify.com/track/4b1WBCojHWnAPbBbCUSJTE) | [Danú](https://open.spotify.com/artist/0Mm3mSg0GPDZwSI1fdznTV) | [Ten Thousand Miles](https://open.spotify.com/album/18Sw7E8tqhuNfWRPoBJzKL) | 3:42 |
-| 8 | [Bodhran](https://open.spotify.com/track/6LVEYsHd4qJ1WtJZ9xhr2X) | [Young Dubliners](https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj) | [Red](https://open.spotify.com/album/6u2FSfckWObCgQvVz38WQe) | 2:12 |
+| 8 | [Bodhran](https://open.spotify.com/track/6LVEYsHd4qJ1WtJZ9xhr2X) | [Young Dubliners](https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj) | [Red](https://open.spotify.com/album/6u2FSfckWObCgQvVz38WQe) | 0:29 |
 | 9 | [The Mountain Road / Old Concertina Reel \(2 Reels\) \[Live\]](https://open.spotify.com/track/0Oh03sjYtG61Cju0IeO0dd) | [Frankie Gavin](https://open.spotify.com/artist/5repE3sF3Q4joYE2ZJvqQK), [Arty McGlynn](https://open.spotify.com/artist/6ujxf9hiPIBdwz3fRCueZy), [Aidan Coffey](https://open.spotify.com/artist/5uQDb5rnV4uavRr0cfyXzp) | [Irlande \(Live\)](https://open.spotify.com/album/5nBZLZBNajJ5LkWM5HuDHy) | 3:36 |
 | 10 | [The Rocky Road to Dublin / The American Polka](https://open.spotify.com/track/4akhlPKimkDKwOyJbKnugt) | [We Banjo 3](https://open.spotify.com/artist/10jo3zVGDsW6qs3JVs9tfD) | [Gather the Good](https://open.spotify.com/album/52GcASolw4fAfosClZlqOK) | 3:57 |
 | 11 | [Goodbye Girls I'm Going to Boston](https://open.spotify.com/track/4CH9ggXUaWwkvcGoQATrmO) | [Laura Feddersen](https://open.spotify.com/artist/5C0s1exsc0UT1MytdU7kKZ), [Joel Wennerstrom](https://open.spotify.com/artist/0CS4kanxTgf7zAq0dxBBhl), [Owen Marshall](https://open.spotify.com/artist/1fhC0AGIoLHS9qd0GszMDI) | [Wooden Nickels](https://open.spotify.com/album/2wVPCnqgiRIChDqUH9jeIa) | 3:28 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 | 32 | [Dolan's 6AM](https://open.spotify.com/track/0VxzXknxAYjvcUL0GfAExj) | [Beoga](https://open.spotify.com/artist/659fOqEHzm3jL8AeWuOwXO) | [How to Tune a Fish](https://open.spotify.com/album/109AfeLBR9SSBrbMFq0YA6) | 3:35 |
 | 33 | [Dot the Dragon's Eyes](https://open.spotify.com/track/5wdyCgTrwctSgjLhwdUWnK) | [Hanneke Cassel](https://open.spotify.com/artist/7b1EPAPT0r2pf6Qxp7A8DU) | [Dot the Dragon's Eyes](https://open.spotify.com/album/6boaBUAF6rXnLKo7tdw4SG) | 3:49 |
 | 34 | [Coolderry Bridge / The Whistling Postman / The Mills Are Grinding](https://open.spotify.com/track/5Id7Tp8vsvfLDFoUMVjyrn) | [The Fiddle Case](https://open.spotify.com/artist/4sk1ZccF7bAlhBzdg5lgta) | [The Fiddle Case](https://open.spotify.com/album/0yYB4Ok5TqjpUztuzXjoIl) | 4:26 |
-| 35 | [Lady Montgomery: Lady Montgomery / Mutts Favourite / Up Da Stroods Da Sailor Goes](https://open.spotify.com/track/33XkqtATDmL4irlRL4UtCY) | [Session A9](https://open.spotify.com/artist/4Ct4nuuRWcidF89g3fihxa) | [Live at Celtic Connections](https://open.spotify.com/album/0uHn7KjyHN65b9dvU1qzDp) | 4:18 |
+| 35 | [Lady Montgomery: Lady Montgomery / Mutts Favourite / Up Da Stroods Da Sailor Goes](https://open.spotify.com/track/33XkqtATDmL4irlRL4UtCY) | [Session A9](https://open.spotify.com/artist/4Ct4nuuRWcidF89g3fihxa) | [Live at Celtic Connections](https://open.spotify.com/album/0uHn7KjyHN65b9dvU1qzDp) | 0:29 |
 | 36 | [My Love Is In America](https://open.spotify.com/track/6AIa3GdTUb2TsCj5SuGnS7) | [Martin Hayes & Dennis Cahill](https://open.spotify.com/artist/1IQBZU3rKOAaZaI9b3tFto) | [The Lonesome Touch](https://open.spotify.com/album/608ZQ0B9bYpnfIMmgbIN7w) | 3:39 |
 | 37 | [Echo](https://open.spotify.com/track/7ltSWDRkYI2DoFJiv77XUz) | [Talisk](https://open.spotify.com/artist/1khU7sW2d95qMTDnyDfzBT) | [Abyss](https://open.spotify.com/album/4u7B3DAWWTgROfynsq9Fnf) | 4:55 |
 | 38 | [Tuttle's Reel](https://open.spotify.com/track/55T8dngArgGkHMA5a46jK6) | [Lorkin O'Reilly](https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l) | [Heaven Depends](https://open.spotify.com/album/3TZjNSWnlMnNiQGJtwoGp5) | 1:18 |

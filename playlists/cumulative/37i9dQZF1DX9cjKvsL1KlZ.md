@@ -4,7 +4,7 @@
 
 > Sounds of New York curated by Sidetalk, New York’s one\-minute street show
 
-151 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/0rqcdEr09hY4EkqH1rg5qo)
+151 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/0rqcdEr09hY4EkqH1rg5qo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Trilla \(feat\. A$AP Nast & A$AP Twelvyy\)](https://open.spotify.com/track/3DtOW3gzNTy5SgLWhwOdFW) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [A$AP NAST](https://open.spotify.com/artist/1uLYUm2A6kpFYAECfAFoH1), [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P) | [LIVE.LOVE.A$AP](https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5) | 4:04 | 2022-03-01 | 2022-06-19 |
 | [Trust](https://open.spotify.com/track/4VqFPmogUJw9NHBKxUKtiw) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Trust](https://open.spotify.com/album/4P3x3MxVxNUBN0y7z98RC3) | 2:08 | 2022-03-01 | 2022-03-26 |
 | [TRY SHIT \(feat\. Jay Critch\)](https://open.spotify.com/track/1SiK7K8mSWHd5zSBaOEBst) | [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn), [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [WORLD GOT ME FUCKED UP, Vol\. 1](https://open.spotify.com/album/6y7mcLV51J3lCgAyKjXO2h) | 2:56 | 2022-05-10 | 2022-06-04 |
-| [Twirlanta](https://open.spotify.com/track/3DHB4RzX7kWcpjjFtcmWqh) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [The Blixky Tape 2](https://open.spotify.com/album/42eCvSjk8vGZP9hKEXUsYI) | 2:58 | 2022-06-03 |  |
+| [Twirlanta](https://open.spotify.com/track/3DHB4RzX7kWcpjjFtcmWqh) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [The Blixky Tape 2](https://open.spotify.com/album/42eCvSjk8vGZP9hKEXUsYI) | 0:29 | 2022-06-03 |  |
 | [U Dumb \(feat\. Nrok & Dinero Daboss\)](https://open.spotify.com/track/3q2osQpZy2ythKkump0pDz) | [Nems](https://open.spotify.com/artist/1jSMH3JqXunssXcsZSKTJ4), [Nrok](https://open.spotify.com/artist/6fiTAFFORnuXJoLkEAcmj3), [Dinero Daboss](https://open.spotify.com/artist/63AMXpJiEXVBk1QBNHagai) | [CONGO](https://open.spotify.com/album/5UZv9Hpp6vTFgQuSVyJhaZ) | 2:18 | 2022-05-10 | 2022-06-04 |
 | [UP THE SCORE \(feat\. 22Gz & Maxo Kream\)](https://open.spotify.com/track/3rR3hHT5VOtyK2XawVEf0Q) | [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn), [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [WORLD GOT ME FUCKED UP, Vol\. 1](https://open.spotify.com/album/6y7mcLV51J3lCgAyKjXO2h) | 3:17 | 2022-06-03 |  |
 | [Waddup \- GoonMix](https://open.spotify.com/track/6GLSP9BNDTDEZ57rQTehjJ) | [Lago 2.0](https://open.spotify.com/artist/4UeJtkEZKEsyPwR0wYJKPc) | [Waddup \(GoonMix\)](https://open.spotify.com/album/1o9Jf9sCHwsf14vPQ2lRU8) | 2:01 | 2022-06-17 |  |

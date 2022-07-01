@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI1rlvkdQnb.md) - [plain]
 
 > Soft, relaxing music for workout recovery.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,706 likes - 113 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,731 likes - 113 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI1rlvkdQnb.md) - [plain]
 | 5 | [Cassie](https://open.spotify.com/track/3AJAKCETcSZ4QGpehqvySl) | [Elfva](https://open.spotify.com/artist/5kie64trGheZwIDvvwBHF1) | [Cassie](https://open.spotify.com/album/5dJjrW2grnoec37fXIFhsQ) | 3:27 |
 | 6 | [Changes Within](https://open.spotify.com/track/4hdZ8pWXvypfP0FrQTVwCs) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [A Moment of Peace](https://open.spotify.com/album/5tmAu34wwfkAzZrQZZqa3M) | 2:55 |
 | 7 | [Secret Message](https://open.spotify.com/track/6hF7fW0UptdNRovONZT3JJ) | [Clouds of Calm](https://open.spotify.com/artist/4aFC3M76kBNOVNH1YIvtaD) | [Secret Message](https://open.spotify.com/album/6sVGOHFLrN1sbHnMkkWK3d) | 2:59 |
-| 8 | [Just Breathe](https://open.spotify.com/track/3EnyFtygU4ttiEnyjV4FZd) | [Edmund’s Oasis](https://open.spotify.com/artist/2iR51m8sjXwFULuJkterrJ) | [Just Breathe](https://open.spotify.com/album/7uU4GMQIYTWkmJ7sstbqFN) | 2:43 |
+| 8 | [Just Breathe](https://open.spotify.com/track/3EnyFtygU4ttiEnyjV4FZd) | [Edmund’s Oasis](https://open.spotify.com/artist/2iR51m8sjXwFULuJkterrJ) | [Just Breathe](https://open.spotify.com/album/7uU4GMQIYTWkmJ7sstbqFN) | 0:29 |
 | 9 | [Take Me Home](https://open.spotify.com/track/0ZGteveKS9XMCxDtjehnG3) | [Gemma Casimaty](https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC) | [Take Me Home](https://open.spotify.com/album/6t5ja4OhtMyp49oY9FjN4f) | 3:29 |
 | 10 | [Sajama](https://open.spotify.com/track/16lkqroAzQvli59vxKjvpF) | [Connie Li](https://open.spotify.com/artist/2pQHm9K7nA97zJGOYhfXau) | [Sajama](https://open.spotify.com/album/6MSBAT2vZRcoi3Ez6TMzV6) | 3:06 |
 | 11 | [Across The Purple Expanse](https://open.spotify.com/track/1nh7NOJDfy3oewkGM6u08b) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [Across The Purple Expanse](https://open.spotify.com/album/4Qc09SX2XC8YlP1Hggb3Jd) | 2:14 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI1rlvkdQnb.md) - [plain]
 | 45 | [Enlightened Sense](https://open.spotify.com/track/1KHrVFRoVabN7vXoSK3sAP) | [Perceived Present](https://open.spotify.com/artist/0df4GNs9AAMEQQsggBKxU2) | [Enlightened Sense](https://open.spotify.com/album/0Dot5yCiD9YoITgdlpuWC2) | 2:33 |
 | 46 | [Huitussi](https://open.spotify.com/track/5gDjNqBVupjXg9FpgVQ68c) | [Sayulita](https://open.spotify.com/artist/1TZG0boEXBMRfxjj1nH6TM) | [Huitussi](https://open.spotify.com/album/64u7zy3JliXzjqK9T3H4Zd) | 2:57 |
 | 47 | [Sigiriya](https://open.spotify.com/track/11tgd8lU2eFk0DNqMTEqtT) | [Varsha Macias](https://open.spotify.com/artist/0q4K7lXcRz4xbItRjTtidc) | [Sigiriya](https://open.spotify.com/album/5g8sBXRvCTBMo1WKcvny1f) | 2:48 |
-| 48 | [Salaio](https://open.spotify.com/track/3JtiHgyAOj8mvHUi5zR3Sq) | [De Seu](https://open.spotify.com/artist/1cnFAHOmH9W9QqZYhNSoMs) | [Salaio](https://open.spotify.com/album/1wp9I2G3CzvuTB8LpBQ52k) | 2:36 |
+| 48 | [Salaio](https://open.spotify.com/track/3JtiHgyAOj8mvHUi5zR3Sq) | [De Seu](https://open.spotify.com/artist/1cnFAHOmH9W9QqZYhNSoMs) | [Salaio](https://open.spotify.com/album/1wp9I2G3CzvuTB8LpBQ52k) | 0:29 |
 | 49 | [Insua](https://open.spotify.com/track/4jAgDrorjMDaqWCB8oVzK1) | [Nordesía](https://open.spotify.com/artist/6sbqijgtC98MAYaPcH3cuu) | [Insua](https://open.spotify.com/album/5AUkwgbTPKrkYs6cyHadxv) | 2:41 |
 | 50 | [Aurora](https://open.spotify.com/track/4NpJcnYkIb7H8SU0ZX39uZ) | [Lectus](https://open.spotify.com/artist/2JolphwQB4Yg7sLfSsoJuk) | [Labyrinth](https://open.spotify.com/album/7kDDMsSrGUGfHa5cCx4Oes) | 2:50 |
 | 51 | [Miho no Matsubara](https://open.spotify.com/track/216t4yl7TJeh6nlmF7mBOK) | [Miu Hayashi](https://open.spotify.com/artist/3PeAcdPlMSYVJyaUprwEWS) | [Miho no Matsubara](https://open.spotify.com/album/4Rj6DPJPIkkJqI27djmanN) | 2:53 |

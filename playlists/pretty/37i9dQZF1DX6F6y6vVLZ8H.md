@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F6y6vVLZ8H.md) - [plain]
 
 > A collection of songs from <a href="spotify:user:nytrvduf711vc7ja3kv9vwgnm">Tony Hawk's Pro Skater 1 + 2</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,659 likes - 53 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,706 likes - 53 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,17 +34,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F6y6vVLZ8H.md) - [plain]
 | 24 | [May 16](https://open.spotify.com/track/2y2E0ix0iJWQWUMmlbTWjg) | [Lagwagon](https://open.spotify.com/artist/66riGCPfih1Xqk81dDvpvf) | [Let's Talk About Feelings](https://open.spotify.com/album/3Em5AaNRlG0G2ktBYDNQaz) | 2:56 |
 | 25 | [Bomb Drop](https://open.spotify.com/track/1MAnAUtRTzqnviymxYHTAg) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Sound the Alarm](https://open.spotify.com/album/64ygJgQjUX8peOKPjGm8AX) | 3:06 |
 | 26 | [bloody valentine](https://open.spotify.com/track/1bWEngw5tAF7vWByrf5Oy5) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [bloody valentine](https://open.spotify.com/album/268JRqKvCGhDrbqH74sDFz) | 3:25 |
-| 27 | [Bass](https://open.spotify.com/track/22ws6uOt1pfpG1fP8I0QGo) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Hopsin](https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [Bass](https://open.spotify.com/album/1b2mpMMbxX80y87DKi6xwn) | 3:53 |
+| 27 | [Bass](https://open.spotify.com/track/22ws6uOt1pfpG1fP8I0QGo) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Hopsin](https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [Bass](https://open.spotify.com/album/1b2mpMMbxX80y87DKi6xwn) | 0:29 |
 | 28 | [No Cigar](https://open.spotify.com/track/3KLkRy9l3us98SIp6mmxkk) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Pennybridge Pioneers](https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC) | 2:43 |
 | 29 | [Let's Ride](https://open.spotify.com/track/7fZBLUmhCMvIWQbigBPpOo) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Let's Ride](https://open.spotify.com/album/2m1guXMoPRTLjxzOhiJ765) | 3:24 |
 | 30 | [Pin the Tail on the Donkey](https://open.spotify.com/track/5G1ExEKtOyNbF9pIzSR98C) | [Naughty By Nature](https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC) | [Naughty By Nature](https://open.spotify.com/album/7f2uv1aSmzTMlPXDFiZCra) | 3:47 |
 | 31 | [Blood Brothers](https://open.spotify.com/track/2Ll44WxlG2eiqL6NtEnf8M) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Infest](https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m) | 3:33 |
 | 32 | [Mid 20's Skateboarder](https://open.spotify.com/track/6NiVbUwxuTETC56The3Sup) | [Pkew Pkew Pkew](https://open.spotify.com/artist/2wLjuls619sr3fihBDQigt) | [Pkew Pkew Pkew](https://open.spotify.com/album/2tFF5agrKKsDEtnh8gg1JD) | 2:07 |
-| 33 | [When Worlds Collide](https://open.spotify.com/track/6aF5JtQSrh7wNrkDE9B0My) | [Powerman 5000](https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC) | [Tonight The Stars Revolt](https://open.spotify.com/album/3Z3yndLeHs01iYPSNzTBBk) | 2:57 |
+| 33 | [When Worlds Collide](https://open.spotify.com/track/6aF5JtQSrh7wNrkDE9B0My) | [Powerman 5000](https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC) | [Tonight The Stars Revolt](https://open.spotify.com/album/3Z3yndLeHs01iYPSNzTBBk) | 0:29 |
 | 34 | [Jerry Was A Race Car Driver](https://open.spotify.com/track/19C0LKY3DCcQtuviPJNy5d) | [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx) | [Sailing The Seas Of Cheese](https://open.spotify.com/album/2sjF68plsvYE7M3FaMf6rD) | 3:10 |
 | 35 | [Guerrilla Radio](https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [The Battle Of Los Angeles](https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX) | 3:26 |
-| 36 | [She's Famous Now](https://open.spotify.com/track/3acefyyfBIV0ed0n4WAJea) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Why Do They Rock So Hard](https://open.spotify.com/album/77ONgv2XviPXVVQo7kFfmA) | 3:05 |
-| 37 | [Deathwire](https://open.spotify.com/track/68XsbWfxcvmlAVukxPVy9d) | [Rough Francis](https://open.spotify.com/artist/60uXjIudDRbL8LIWwYk2sQ) | [Deathwire](https://open.spotify.com/album/3MYhb46f5Vusrzt58E6uot) | 3:09 |
+| 36 | [She's Famous Now](https://open.spotify.com/track/3acefyyfBIV0ed0n4WAJea) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Why Do They Rock So Hard](https://open.spotify.com/album/77ONgv2XviPXVVQo7kFfmA) | 0:29 |
+| 37 | [Deathwire](https://open.spotify.com/track/68XsbWfxcvmlAVukxPVy9d) | [Rough Francis](https://open.spotify.com/artist/60uXjIudDRbL8LIWwYk2sQ) | [Deathwire](https://open.spotify.com/album/3MYhb46f5Vusrzt58E6uot) | 0:29 |
 | 38 | [Let Me In](https://open.spotify.com/track/5U2djvPDRMcW4JjKuETuWa) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [Let Me In](https://open.spotify.com/album/2whX6MD0PMqPW5De20AaU6) | 2:38 |
 | 39 | [Shutdown](https://open.spotify.com/track/22okfZRLfP6hxuplYUGef6) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Shutdown](https://open.spotify.com/album/0xCAtTLLKHVXXRG3QszG7Y) | 3:08 |
 | 40 | [Run It up Pt\. II](https://open.spotify.com/track/16oNPQ2sVbzZyAscp4SFHD) | [Spilt Milk](https://open.spotify.com/artist/5a4YbQRezrArmu3VxdMGao) | [Run It up Pt\. II](https://open.spotify.com/album/723LwYSgRF5wC9niD819eF) | 2:34 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F6y6vVLZ8H.md) - [plain]
 | 52 | [Slow Learner](https://open.spotify.com/track/3anIPGbdjxjkbwtHoBG4W4) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Street Worms](https://open.spotify.com/album/7GCnSXQc6H4vF8TU7hSdSk) | 3:11 |
 | 53 | [All My Friends Are Nobodies](https://open.spotify.com/track/0ImdOZzfzWSIkB4ToC2buF) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [All My Friends Are Nobodies](https://open.spotify.com/album/6VTNdekziQXzcf4gvy9hcM) | 3:03 |
 
-Snapshot ID: `MTY1NjU1MTczNiwwMDAwMDAwMDBlNWU2N2Y4Y2QyZDBiM2E4NDIxNWJjYTE0ZWI1OTY5`
+Snapshot ID: `MTY1NjYzOTIyOSwwMDAwMDAwMDBlNWU2N2Y4Y2QyZDBiM2E4NDIxNWJjYTE0ZWI1OTY5`

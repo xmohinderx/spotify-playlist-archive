@@ -4,7 +4,7 @@
 
 > Raw, emotional, and acoustic\. Cover: Taj Mahal
 
-105 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/6OR1PRarcE5A0vVZdgyZgB)
+105 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/6OR1PRarcE5A0vVZdgyZgB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Castle](https://open.spotify.com/track/2QIbD38FhRqXHOeQC3SiYu) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ) | 3:28 | 2020-08-11 |  |
 | [Coffee Blues](https://open.spotify.com/track/16GdiwewBf99MhUSVsxUBe) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Complete Studio Recordings](https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ) | 3:47 | 2020-08-11 |  |
 | [Cross Creek Road](https://open.spotify.com/track/6sfZbIO4O4BtgE0mJ20zFg) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Neckbone Stew](https://open.spotify.com/album/5WaGSIkfMgfuJ0Yd9FNyKb) | 3:01 | 2020-08-11 |  |
-| [Cross Road Blues](https://open.spotify.com/track/1TrGdXSgiBm8W68D2K1COG) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 2:29 | 2020-08-11 |  |
+| [Cross Road Blues](https://open.spotify.com/track/1TrGdXSgiBm8W68D2K1COG) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 0:29 | 2020-08-11 |  |
 | [Death Letter](https://open.spotify.com/track/516maf2eNSuB5pTB1NedlN) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [Covered Tracks: Vol\. 2](https://open.spotify.com/album/41VD7CenbVd2qOPNLZiE5K) | 4:23 | 2021-06-04 |  |
 | [Death Letter](https://open.spotify.com/track/0tHs5XPwU1k43SICp9yOKv) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Forever On My Mind](https://open.spotify.com/album/4wwt3VrchcH3YD3VSjd1B9) | 5:51 | 2022-03-18 |  |
 | [Death Row](https://open.spotify.com/track/4gFPqVg2MRvQGkSo7PhkOd) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Gone to Texas](https://open.spotify.com/album/5XaNKUWehrwuVY6lGsLFkQ) | 4:07 | 2020-08-11 |  |
@@ -57,7 +57,7 @@
 | [I'm So Lonely](https://open.spotify.com/track/6BsaK0v4nm49vNd5ccHyRX) | [The Holmes Brothers](https://open.spotify.com/artist/7Ks9lt2zomYkmOeLv0PbHW) | [Simple Truths](https://open.spotify.com/album/0njoBaMuox6zxRG9Is8WRF) | 4:40 | 2020-08-11 |  |
 | [It Would Be Better for the Bad to Be Good](https://open.spotify.com/track/2YwGnpyl0H4H7gecQ3NilN) | [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [It Would Be Better for the Bad to Be Good](https://open.spotify.com/album/6eNCE1II4uKptOSZ3dB02Y) | 3:33 | 2022-05-20 |  |
 | [Johnny law](https://open.spotify.com/track/4z9Je08Qpyfn6q7bbiqmW5) | [William Elliott Whitmore](https://open.spotify.com/artist/55N838yCXjxLVkBkIM5pnf) | [Animals In The Dark](https://open.spotify.com/album/3WjgDAPVhWl6cdc7q3EM1R) | 4:29 | 2020-08-11 |  |
-| [Kansas City Blues](https://open.spotify.com/track/58TQAkARupFHoHVQ00Yj9S) | [Steve Howell](https://open.spotify.com/artist/3xJEpa8iyCscYkG3XlIxBU), [Jason Weinheimer](https://open.spotify.com/artist/4SVe1RgQ8VnJ5Lgb6NodF3) | [A Hundred Years from Today](https://open.spotify.com/album/2h4vnUECqd75oUIBehBMYl) | 3:07 | 2020-08-11 |  |
+| [Kansas City Blues](https://open.spotify.com/track/58TQAkARupFHoHVQ00Yj9S) | [Steve Howell](https://open.spotify.com/artist/3xJEpa8iyCscYkG3XlIxBU), [Jason Weinheimer](https://open.spotify.com/artist/4SVe1RgQ8VnJ5Lgb6NodF3) | [A Hundred Years from Today](https://open.spotify.com/album/2h4vnUECqd75oUIBehBMYl) | 0:29 | 2020-08-11 |  |
 | [Keep Your Lamp Trimmed And Burning](https://open.spotify.com/track/1iilSLhyTDanY7cCPwZ3tl) | [Corey Harris](https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH) | [Between Midnight And Day](https://open.spotify.com/album/5Ac9bCzeHTohN8KxBwDkzl) | 2:54 | 2020-08-11 |  |
 | [Lead Me On](https://open.spotify.com/track/6i7pokV2JiF1et71olScGO) | [Kelly Joe Phelps](https://open.spotify.com/artist/7MGPOWrHHrTJcviOWNbKEF) | [Lead Me On \(15 Year Anniversary Edition\)](https://open.spotify.com/album/4YQ7qU3Se2TBdFg7FpROPs) | 4:47 | 2020-08-11 |  |
 | [Let's Have Some Fun](https://open.spotify.com/track/4krvAl6zfhfDfWL1KdvQAa) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Black Wind Howlin'](https://open.spotify.com/album/7iVYk6SKIzwsUf11kxoNS6) | 4:27 | 2020-08-11 |  |

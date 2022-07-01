@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\) cover: Cautious Clay
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,368 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,395 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 33 | [Scissors](https://open.spotify.com/track/7DaFmydulTDDndxR7q4ZGt) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [Scissors](https://open.spotify.com/album/3Q7ztq5q819kn2aqdGzGVh) | 2:37 |
 | 34 | [Michael](https://open.spotify.com/track/5niZJWbyibvP1huOd2XUde) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Michael](https://open.spotify.com/album/12uiCiql0IX6dT6yMXEwGq) | 2:45 |
 | 35 | [Caged Birds Don't Sing](https://open.spotify.com/track/59yTchIo69gcv6QK4lGcdJ) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [LET ME OUT I'M FREE!](https://open.spotify.com/album/4osFZQaMRxkx5DsfYVBhOG) | 3:29 |
-| 36 | [Bento Box](https://open.spotify.com/track/1tUdhJYNkVlIeeww7m33DJ) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Bento Box](https://open.spotify.com/album/09etgwlYWXr867yvh6AwEi) | 3:23 |
+| 36 | [Bento Box](https://open.spotify.com/track/1tUdhJYNkVlIeeww7m33DJ) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Bento Box](https://open.spotify.com/album/09etgwlYWXr867yvh6AwEi) | 3:25 |
 | 37 | [Memories](https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Memories](https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd) | 4:08 |
 | 38 | [CHAMPAGNE](https://open.spotify.com/track/07FODcDcgXtr42gXgQ9D0M) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [CHAMPAGNE](https://open.spotify.com/album/7oNiw8m4TvJt5qGPtnyHxs) | 3:00 |
 | 39 | [Tek It](https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Running](https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG) | 3:11 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 86 | [Magazines](https://open.spotify.com/track/3jqkxkAoFA9T3ohkLmaeJs) | [Finding Hope](https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg) | [Magazines](https://open.spotify.com/album/5qiV1lVO8EGxnIwcBXtSJ2) | 2:43 |
 | 87 | [Never Be Okay](https://open.spotify.com/track/3suBx1FwnByNTLB0ba8LOA) | [Lilianna Wilde](https://open.spotify.com/artist/0Dt97GvTO4dxdBYqyxLwLY) | [Never Be Okay](https://open.spotify.com/album/5aE1KqucFKgRHuusbV1S1P) | 2:16 |
 | 88 | [HOLD ON](https://open.spotify.com/track/6V0QJXTeEjlf8IGLg41Xxs) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [HOLD ON](https://open.spotify.com/album/3MO5VVGYYxolic0GrkB1JI) | 3:50 |
-| 89 | [In Your Body](https://open.spotify.com/track/2VRJKXrqR4ztn6WgJ28R9r) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [In Your Body](https://open.spotify.com/album/3esx5NZ3vrZ3bWkurnWRmX) | 3:23 |
+| 89 | [In Your Body](https://open.spotify.com/track/2VRJKXrqR4ztn6WgJ28R9r) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [In Your Body](https://open.spotify.com/album/3esx5NZ3vrZ3bWkurnWRmX) | 0:29 |
 | 90 | [Path](https://open.spotify.com/track/1NKjucBIJZW67Q6MAD96dM) | [Tess Roby](https://open.spotify.com/artist/6LRMOu9O4czC6WcNZWIpOh) | [Path](https://open.spotify.com/album/0gR17mkWzcgXjWbwQCMHyc) | 3:28 |
 | 91 | [Crutches](https://open.spotify.com/track/4MdxHfa5fmIdvPwYXM56gS) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Crutches](https://open.spotify.com/album/4U59RIA6eisih8TNjz7CzP) | 2:50 |
 | 92 | [Instabeat](https://open.spotify.com/track/4vH7mM5XBFyKXwDFbryT3r) | [Ludic](https://open.spotify.com/artist/6wSoQBJtmwMzGBYjF2tOPs) | [Instabeat](https://open.spotify.com/album/3kIQGJjwncGJkq2z09vN24) | 3:37 |

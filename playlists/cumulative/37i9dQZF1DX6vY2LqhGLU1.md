@@ -4,7 +4,7 @@
 
 > Enjoy Christmas songs that are staples at the home of your favorite artists\.  Cover: Phil Wickham
 
-30 songs - 1 hr 47 min - [published](https://open.spotify.com/playlist/4R8F66wNxVjPIlXGl9Pnll)
+30 songs - 1 hr 45 min - [published](https://open.spotify.com/playlist/4R8F66wNxVjPIlXGl9Pnll)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Have Yourself A Merry Little Christmas \- Remix/Remastered](https://open.spotify.com/track/5bCPOIKgaGefeBUyS9DxHF) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Christmas](https://open.spotify.com/album/3r4C6wYkCYL65QjkU5oJ8y) | 2:48 | 2020-12-21 |  |
 | [Holy, Holy, Holy](https://open.spotify.com/track/6GjYRXGmP1CQrAb9ORvaFV) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/6ZCbYO3B5eslkY3zHdss4A) | 3:50 | 2020-12-21 |  |
 | [Hope Has A Name](https://open.spotify.com/track/5beWUJJQZUBgunstmXk6Ge) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Hope Has A Name](https://open.spotify.com/album/33GHItPpQKdgbwPn3oYEGY) | 4:04 | 2020-12-21 |  |
-| [I Heard the Bells On Christmas Day](https://open.spotify.com/track/2s7rn7BTwqXLy22JSyzR3t) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Classic Christmas Album](https://open.spotify.com/album/0oVkzRJmRZ3cIdvKAxZc6U) | 2:28 | 2020-12-21 |  |
+| [I Heard the Bells On Christmas Day](https://open.spotify.com/track/2s7rn7BTwqXLy22JSyzR3t) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Classic Christmas Album](https://open.spotify.com/album/0oVkzRJmRZ3cIdvKAxZc6U) | 0:29 | 2020-12-21 |  |
 | [I'll Be Home For Christmas \(If Only In My Dreams\) \- Remastered 1999](https://open.spotify.com/track/0AY6UDs5EyeW45oQkEpsly) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 3:10 | 2020-12-21 |  |
 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 3:26 | 2020-12-21 |  |
 | [Joy To The World \(Joyful, Joyful\)](https://open.spotify.com/track/3jNKU4TL5IjPADdAIu6acS) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Christmas: Acoustic Sessions](https://open.spotify.com/album/0oCDrLbb3lxDiYcti6Jquv) | 4:17 | 2020-12-21 |  |

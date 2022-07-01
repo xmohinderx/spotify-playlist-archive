@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: Sacha
 
-632 songs - 1 day 9 hr 57 min - [published](https://open.spotify.com/playlist/6guBJqgtXaO0mvdeL4JtNk)
+632 songs - 1 day 9 hr 51 min - [published](https://open.spotify.com/playlist/6guBJqgtXaO0mvdeL4JtNk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Dirt Boy](https://open.spotify.com/track/6597G23rfhLQJzPdg1O2Ea) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP) | [DIRT BOY Vol\. 2 \- EP](https://open.spotify.com/album/5GxmYOO0WVJTuHo9pBeopz) | 3:12 | 2021-12-31 | 2022-02-26 |
 | [Dirt On It](https://open.spotify.com/track/3I7Vr3ajbvP7QcNpcc4byg) | [Noah Hicks](https://open.spotify.com/artist/32KwPw06eWXhBWBYFE2BvO) | [Dirt On It](https://open.spotify.com/album/05wxKuce6kPOFZ5wdM07dH) | 2:34 | 2022-04-01 | 2022-04-16 |
 | [Dirt Road \(Remix\) \(feat\. BRELAND\)](https://open.spotify.com/track/3xGnEIb8czDRlGZjbAITlL) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Dirt Road \(Remix\) \(feat\. BRELAND\)](https://open.spotify.com/album/6yU40tDImCqU2RrXGvh9Fo) | 2:35 | 2022-03-25 | 2022-04-16 |
-| [Distraction](https://open.spotify.com/track/5e13nAMzDVRfCyHLB9rd5Y) | [Brandon Ray](https://open.spotify.com/artist/7uOj7ISCtmaA0BctMszzAw) | [Distraction](https://open.spotify.com/album/4dq9ZUZBmB939KhTBJsfQQ) | 3:18 | 2022-04-22 |  |
+| [Distraction](https://open.spotify.com/track/5e13nAMzDVRfCyHLB9rd5Y) | [Brandon Ray](https://open.spotify.com/artist/7uOj7ISCtmaA0BctMszzAw) | [Distraction](https://open.spotify.com/album/4dq9ZUZBmB939KhTBJsfQQ) | 0:29 | 2022-04-22 |  |
 | [Do\-Si\-Don'tcha](https://open.spotify.com/track/0qk6tNgMU23rAofqdKxJOb) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Last Call \- EP](https://open.spotify.com/album/0rZ8EVQ6yTaf8RkTRnBtw5) | 3:01 | 2022-02-25 | 2022-04-02 |
 | [Doin' It Right](https://open.spotify.com/track/5BmL9dvw8RYAqFZRZOx1hU) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Doin' It Right](https://open.spotify.com/album/6ndo9jE0Vmg3wm6gAuitPw) | 3:00 | 2022-04-15 | 2022-05-14 |
 | [Don't It Sound Alright](https://open.spotify.com/track/58UvLeYJXtFkbkUP3lU6YK) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Don't It Sound Alright](https://open.spotify.com/album/3zLyedIJvUMz9V6iLeFPlv) | 3:38 | 2022-04-01 | 2022-05-20 |
@@ -597,7 +597,7 @@
 | [When You're Lonely](https://open.spotify.com/track/3NRULQPEu8U0MSvsGLHD2L) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [When You're Lonely](https://open.spotify.com/album/2I4EipZG2JFzWXP1Dh50FG) | 3:14 | 2021-12-31 | 2022-02-26 |
 | [When You're Sober](https://open.spotify.com/track/1gzu63ypvgW16KsfyELCoH) | [Kali Arcaris](https://open.spotify.com/artist/6GLZpLl64nlqfxnnP1Czjg) | [When You're Sober](https://open.spotify.com/album/2sK14UBWr9ChSgEaBAX7AQ) | 3:40 | 2022-05-25 |  |
 | [When's It Gonna Happen](https://open.spotify.com/track/0h0PVL7SoC7l4sJ5AYQZX5) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [When's It Gonna Happen](https://open.spotify.com/album/7nQ3jAmRGhlHQOB66gWtad) | 3:37 | 2022-01-14 | 2022-03-26 |
-| [Where Did All The Cowboys Go](https://open.spotify.com/track/2P5yyV1EA4CCqRhjXKro5p) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Be That Girl](https://open.spotify.com/album/7inCR1hQvn6iWSEbDsAXvR) | 3:15 | 2022-03-25 |  |
+| [Where Did All The Cowboys Go](https://open.spotify.com/track/2P5yyV1EA4CCqRhjXKro5p) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Be That Girl](https://open.spotify.com/album/7inCR1hQvn6iWSEbDsAXvR) | 0:29 | 2022-03-25 |  |
 | [Where Did We Go?](https://open.spotify.com/track/6SSRCtm4TGw2AZyl8LGhsO) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Where Did We Go?](https://open.spotify.com/album/1oM7SEjpzN7ZvOIcfRvlLs) | 2:46 | 2022-04-15 | 2022-05-20 |
 | [Where We Started](https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:02 | 2022-04-01 | 2022-05-28 |
 | [Where'd You Learn How To Do That](https://open.spotify.com/track/4Do7NhvafmOQENTNAus874) | [Dean Brody](https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak) | [Where'd You Learn How To Do That](https://open.spotify.com/album/7v5wPGa49lcZiDyMdJe1zq) | 2:54 | 2022-05-13 |  |

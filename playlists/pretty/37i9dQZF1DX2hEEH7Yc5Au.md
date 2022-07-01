@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來支持女性音樂人的精采表現！Cover: 陳珊妮 \(Sandee Chan\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,177 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,180 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 5 | [怪美的](https://open.spotify.com/track/0cONHWTIfgEpAuVwbbwGgc) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Ugly Beauty](https://open.spotify.com/album/7HFFEjrwzZNpbee44SJnn9) | 3:02 |
 | 6 | [心靈的冒險](https://open.spotify.com/track/7jr0ZMd8L9yT76ZMQL6Nel) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [心靈的冒險](https://open.spotify.com/album/0FpsxHkBeat4TclF1958p6) | 3:44 |
 | 7 | [遠距離練習 \(電影《我是真的討厭異地戀》主題曲\)](https://open.spotify.com/track/5pk0iFUSN5iiVzeUcAP3U2) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [遠距離練習 \(電影《我是真的討厭異地戀》主題曲\)](https://open.spotify.com/album/0pI3r6arJZNrPQnewiKTbI) | 5:12 |
-| 8 | [懸日](https://open.spotify.com/track/6zbBfKc4ghXAGtzuXAQptf) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju) | 4:37 |
+| 8 | [懸日](https://open.spotify.com/track/6zbBfKc4ghXAGtzuXAQptf) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju) | 0:29 |
 | 9 | [查有此人 \- 電視劇 《茶金》主題曲](https://open.spotify.com/track/4jNBdaDWebxUPzWlTR3A4t) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [查有此人 \(電視劇 《茶金》主題曲\)](https://open.spotify.com/album/7GGF4MlH5BXGKxOLDNczs8) | 5:02 |
 | 10 | [以年為單位的愛情\(電影《以年為單位的戀愛》片尾主題曲\)](https://open.spotify.com/track/5f939ccwoOJXxU2Sj6RxU4) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [以年為單位的愛情\(電影《以年為單位的戀愛》片尾主題曲\)](https://open.spotify.com/album/7vLFjY35aHSs0xwkzCTVAR) | 4:31 |
 | 11 | [精神分裂 \- 2ession](https://open.spotify.com/track/6xkrU79K5AKdBo3FvNLc4p) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [2ession](https://open.spotify.com/album/55zxCUQ3WL7Pmjps4ROlrT) | 3:13 |

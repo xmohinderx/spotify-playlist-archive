@@ -4,7 +4,7 @@
 
 > Dance Machi Dance<br/>Cover : Thiruchitrambalam
 
-53 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/5euAYrk2QZepE3nHrD48ke)
+53 songs - 3 hr 10 min - [published](https://open.spotify.com/playlist/5euAYrk2QZepE3nHrD48ke)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Jigidi Killaadi \(From "Pattas"\)](https://open.spotify.com/track/0OgazYID6CUlSeiAoeuf5B) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW) | [Jigidi Killaadi \(From "Pattas"\)](https://open.spotify.com/album/5hoVfWGxDJhhqJHdooUJkh) | 3:38 | 2021-12-01 |  |
 | [Jolly O Gymkhana \(From "Beast"\)](https://open.spotify.com/track/6lpbzOMBOYHRsp6WEMvRvn) | [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jolly O Gymkhana \(From "Beast"\)](https://open.spotify.com/album/2mtWpU8LaaIDWGA3dtGEUC) | 3:28 | 2022-03-19 |  |
 | [Kadhal Psycho \(From "Saaho"\)](https://open.spotify.com/track/36BwgojDYh1SOmZ6gG7WqR) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Kadhal Psycho \(From "Saaho"\)](https://open.spotify.com/album/3Q8ydcSlU4QA8a7GCkU51y) | 2:46 | 2021-12-01 |  |
-| [Kutty Pattas](https://open.spotify.com/track/7AHKnQ6XB5l7GL4pTJWLZn) | [Santhosh Dhayanidhi](https://open.spotify.com/artist/45W4EDnXayqLZPpJQJAKN3), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [Kutty Pattas](https://open.spotify.com/album/2Ea9r6jaWYTgPGUB5ipQDs) | 3:59 | 2021-12-01 |  |
+| [Kutty Pattas](https://open.spotify.com/track/7AHKnQ6XB5l7GL4pTJWLZn) | [Santhosh Dhayanidhi](https://open.spotify.com/artist/45W4EDnXayqLZPpJQJAKN3), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [Kutty Pattas](https://open.spotify.com/album/2Ea9r6jaWYTgPGUB5ipQDs) | 0:29 | 2021-12-01 |  |
 | [Mangalyam](https://open.spotify.com/track/7n5Jcqw85WSfJHrMXsk5N2) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Roshini JKV](https://open.spotify.com/artist/5e7jC00VGhxRpK5f9ahXhX) | [Eeswaran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/01o6a3aUODtx67UiWJnABf) | 4:20 | 2021-12-01 |  |
 | [Master the Blaster \(From "Master"\)](https://open.spotify.com/track/2cVJDlu9jmkPUeuJxA6v8i) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Bjorn Surrao](https://open.spotify.com/artist/6WaQm4n7YfvvH7r94yMAeu) | [Master the Blaster \(From "Master"\)](https://open.spotify.com/album/5WJcoXdTMji80ZtFDQgZrL) | 1:32 | 2021-12-01 |  |
 | [Meherezylaa \- From "Maanaadu"](https://open.spotify.com/track/2kAZP4MIGCitpBHn358pgU) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Bhavatharini](https://open.spotify.com/artist/03iJDZgebs4CLNrriGzyw4), [Rizwan](https://open.spotify.com/artist/51CkNYOrEaNCFHaW5XHeQ5) | [Meherezylaa \(From "Maanaadu"\)](https://open.spotify.com/album/7sZ0rgDMsrmo98UY0z98c9) | 4:19 | 2021-12-01 |  |

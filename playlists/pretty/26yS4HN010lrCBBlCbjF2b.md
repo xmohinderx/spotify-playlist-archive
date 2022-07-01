@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/26yS4HN010lrCBBlCbjF2b.md) - [plain]
 
 > Hultsfredsfestivalen 2012 går av stapeln den 14:e juni och pågår t.om\. den 16:e\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30 likes - 93 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 30 likes - 93 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/26yS4HN010lrCBBlCbjF2b.md) - [plain]
 | 85 | [Looking At You \- Moullinex Remix](https://open.spotify.com/track/5O0WzNyUaPd0nhxuxOe8XE) | [Zimmer](https://open.spotify.com/artist/2pts5B2shsEtIVC4onTFKb), [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr) | [Horizontal Disco \(Remixes\)](https://open.spotify.com/album/5AhOUfZ4SimJf31RQTENGd) | 5:52 |
 | 86 | [Catalina](https://open.spotify.com/track/0WQmEvQjbDVy5nTUinWaeV) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr) | [Chocolat EP](https://open.spotify.com/album/4xrymERvvVZdufA8jTksiN) | 8:23 |
 | 87 | [Bassi Falsi](https://open.spotify.com/track/53CS3Zx3whOQRtopjxXOWf) | [Fare Soldi](https://open.spotify.com/artist/6UtwowzqB8BGG2RJ2D7kx1) | [Bassi Falsi](https://open.spotify.com/album/2GYLCY0L4UnbZ1Dfyxqasf) | 4:08 |
-| 88 | [Fog Dancers \(Studio Barnhus Remix\)](https://open.spotify.com/track/3lbb0D4sEfHOmooFTCXrV8) | [Piroth](https://open.spotify.com/artist/0KOwOb7crLz8FovliMf7nL), [Studio Barnhus](https://open.spotify.com/artist/3BQyyXUJs39bwh0o4W2Pvs) | [Piroth Remixed](https://open.spotify.com/album/3xfWptAtEhRKx8gacItfEA) | 5:54 |
+| 88 | [Fog Dancers \(Studio Barnhus Remix\)](https://open.spotify.com/track/3lbb0D4sEfHOmooFTCXrV8) | [Piroth](https://open.spotify.com/artist/0KOwOb7crLz8FovliMf7nL), [Studio Barnhus](https://open.spotify.com/artist/3BQyyXUJs39bwh0o4W2Pvs) | [Piroth Remixed](https://open.spotify.com/album/3xfWptAtEhRKx8gacItfEA) | 0:29 |
 | 89 | [Driller](https://open.spotify.com/track/4fupTfZ6R3X7JrFfVMXFmB) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [Born Free 1](https://open.spotify.com/album/1SE2V5W0ie2cn3pmEuT54c) | 6:40 |
 | 90 | [Troll \- Original Mix](https://open.spotify.com/track/1NY8DKH5VnnBBmytMeJdTQ) | [Qulinez](https://open.spotify.com/artist/6d7AYr4nvqHPhfPaDLLeRU) | [Troll](https://open.spotify.com/album/6PYHg7xcz0M2bZEml9cRba) | 6:06 |
 | 91 | [Hela livet var ett disco](https://open.spotify.com/track/5I2OjdgZWSkY4Cbsle3K4g) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Prinsen av Peking](https://open.spotify.com/album/4AFcwwOL0XcZE5hnHN3Fjc) | 4:06 |

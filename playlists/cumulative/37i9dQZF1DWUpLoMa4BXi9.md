@@ -4,7 +4,7 @@
 
 > Listen to narrated stories from your family's favorite Disney movies like The Lion King, Toy Story, and The Little Mermaid.
 
-30 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/1nKz5ZRJY1LWTupsfqOrkH)
+30 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/1nKz5ZRJY1LWTupsfqOrkH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Monsters, Inc.](https://open.spotify.com/track/7ETl2ZrFKwLjS9Lzivpg3G) | [Dom De Luise](https://open.spotify.com/artist/2o76Naw3g8vbPe18S9Hscy) | [Songs and Story: Monsters, Inc.](https://open.spotify.com/album/6PekV9VFO61iS9M1qqUZPg) | 22:23 | 2021-05-24 |  |
 | [Mulan](https://open.spotify.com/track/7hbhqm0b0MZkxmvy4koUtV) | [June Foray](https://open.spotify.com/artist/74QodIrto2Mb8RcA06EuUa) | [Songs and Story: Mulan](https://open.spotify.com/album/1VAL3EDyf93TIh7DvHsUZJ) | 18:40 | 2021-05-24 |  |
 | [Peter Pan](https://open.spotify.com/track/6DcUpWBWAM3Ayqhs8vdqrW) | [Nolan North](https://open.spotify.com/artist/6BKh5PiiIVM7K2aTtS60cU) | [Songs and Story: Peter Pan](https://open.spotify.com/album/1PYq2vd60V10HsdOWjfpTH) | 7:50 | 2021-05-24 |  |
-| [Pocahontas](https://open.spotify.com/track/5OOJEvD0XGaLo02p4bswY6) | [Roy Dotrice](https://open.spotify.com/artist/5DB0TjFJRAPRUdfIVWYJXm) | [Songs and Story: Pocahontas](https://open.spotify.com/album/6uCMCobTioiSEnMgUle7uj) | 15:47 | 2021-05-24 |  |
+| [Pocahontas](https://open.spotify.com/track/5OOJEvD0XGaLo02p4bswY6) | [Roy Dotrice](https://open.spotify.com/artist/5DB0TjFJRAPRUdfIVWYJXm) | [Songs and Story: Pocahontas](https://open.spotify.com/album/6uCMCobTioiSEnMgUle7uj) | 0:29 | 2021-05-24 |  |
 | [Sleeping Beauty](https://open.spotify.com/track/5igPvKQ6hLqSVLGibysbSw) | [Cindy Robinson](https://open.spotify.com/artist/7Cky42ttadk7opBWW0yi38) | [Songs and Story: Sleeping Beauty](https://open.spotify.com/album/0g9VcAua5r6AIaQs2BINWu) | 19:03 | 2021-05-24 |  |
 | [Snow White and the Seven Dwarfs](https://open.spotify.com/track/0x7Q063J96VqFLKIKnlZEM) | [Mary D'Arcy](https://open.spotify.com/artist/6QSxC78BCVazLwA28o0sDc) | [Songs and Story: Snow White](https://open.spotify.com/album/2cWFLGizkUaUWDjMeh7wP8) | 13:24 | 2021-05-24 |  |
 | [Tangled](https://open.spotify.com/track/16IKUZbb64LoX2sOrdxFeb) | [Cindy Robinson](https://open.spotify.com/artist/7Cky42ttadk7opBWW0yi38) | [Songs and Story: Tangled](https://open.spotify.com/album/1E8pqXmmxlhn8soDCXabfF) | 20:21 | 2021-05-24 |  |

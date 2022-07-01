@@ -4,14 +4,14 @@
 
 > Popaganda jubilerar, då festivalen nu fyller 10 år\. Sommarens upplaga arrangeras vid Eriksdalsbadet i Stockholm, den 24 \- 25 augusti\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
-22 songs - 1 hr 25 min - [published](https://open.spotify.com/playlist/56uihmwZdFckzmKALLBzRD)
+22 songs - 1 hr 17 min - [published](https://open.spotify.com/playlist/56uihmwZdFckzmKALLBzRD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [9 Crimes](https://open.spotify.com/track/5GZEeowhvSieFDiR8fQ2im) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [9](https://open.spotify.com/album/25gOFTD048bIqswkdmG0FH) | 3:37 | 2014-03-20 |  |
+| [9 Crimes](https://open.spotify.com/track/5GZEeowhvSieFDiR8fQ2im) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [9](https://open.spotify.com/album/25gOFTD048bIqswkdmG0FH) | 0:29 | 2014-03-20 |  |
 | [A Heart Like Yours In A Time Like This](https://open.spotify.com/track/0JPOW16Am40O7645VdDr3L) | [Deportees](https://open.spotify.com/artist/64WsK4rMjSwnyuzTPFHVH4) | [Islands & Shores](https://open.spotify.com/album/0CcemDxth7sipgWhMj3TvZ) | 6:18 | 2014-03-20 |  |
 | [Barnens ö](https://open.spotify.com/track/1MwitWogRB9PS6yi9RjFRJ) | [Love Antell](https://open.spotify.com/artist/1NsCBCpJLNQstRoKr4oS0G) | [Gatorna tillhör oss](https://open.spotify.com/album/5J3bD2tzyHMiELErfPu4fB) | 4:43 | 2014-03-20 |  |
-| [Beväpna dig med vingar](https://open.spotify.com/track/6HGm0lE0Oh7pdOVBFKdFLY) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Beväpna dig med vingar](https://open.spotify.com/album/2xMq0DLaCb66hJ2pt5Y6m8) | 5:16 | 2014-03-20 |  |
+| [Beväpna dig med vingar](https://open.spotify.com/track/6HGm0lE0Oh7pdOVBFKdFLY) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Beväpna dig med vingar](https://open.spotify.com/album/2xMq0DLaCb66hJ2pt5Y6m8) | 0:29 | 2014-03-20 |  |
 | [Blue Cassette](https://open.spotify.com/track/7H1s0HR8tIVEGrFDkEggEF) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p) | [Pala](https://open.spotify.com/album/3CfnmPHkIIMRaIGYTgp6PF) | 3:31 | 2014-03-20 |  |
 | [Bring Us Closer Together](https://open.spotify.com/track/7AZcRVaCaewwKx3coErtHW) | [Hooray For Earth](https://open.spotify.com/artist/6nWFpsxlVUMJW6epD1DAan) | [True Loves](https://open.spotify.com/album/405Qw2K0QaD0Fw1kc00Qcq) | 4:27 | 2014-03-20 |  |
 | [Choir of Wolves](https://open.spotify.com/track/3cr2ObVsLULmGVt7yrrcXJ) | [Vulkano](https://open.spotify.com/artist/2S4n5c3lzji3iJcUxV4cIX) | [Choir of Wolves](https://open.spotify.com/album/6kDnbKQeJ3Bvl7DQkL5u6X) | 2:41 | 2014-03-20 |  |

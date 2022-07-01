@@ -4,12 +4,12 @@
 
 > 
 
-20 songs - 1 hr 12 min - [published](https://open.spotify.com/playlist/2bNJImpOFadP18HTciRrWh)
+20 songs - 1 hr 9 min - [published](https://open.spotify.com/playlist/2bNJImpOFadP18HTciRrWh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Animals \[Mix Cut\]](https://open.spotify.com/track/7KXD7pCpbW4nuDIuvetS1o) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Hardwell Presents Revealed Volume 4 \[Mixed Version\]](https://open.spotify.com/album/42WbfOLR1arO0LTO1jf6eq) | 2:21 | 2013-06-26 |  |
-| [Center of the Universe \- Radio Edit](https://open.spotify.com/track/1CrEfdjH1puM8uZnmFHKZ1) | [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [Center of the Universe \(Original Radio Edit\)](https://open.spotify.com/album/0wYiObBT8ve2JQnbMmOLYe) | 3:37 | 2013-06-26 |  |
+| [Center of the Universe \- Radio Edit](https://open.spotify.com/track/1CrEfdjH1puM8uZnmFHKZ1) | [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [Center of the Universe \(Original Radio Edit\)](https://open.spotify.com/album/0wYiObBT8ve2JQnbMmOLYe) | 0:29 | 2013-06-26 |  |
 | [Don't You Worry Child \- Radio Edit](https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Don't You Worry Child](https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY) | 3:32 | 2013-06-26 |  |
 | [Drinking from the Bottle \(feat\. Tinie Tempah\)](https://open.spotify.com/track/1oHxIPqJyvAYHy0PVrDU98) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 4:00 | 2013-06-26 |  |
 | [Easy \- Radio Edit](https://open.spotify.com/track/5OSJZlfxZwR5jreQSy6r2O) | [Mat Zo](https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1), [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Easy](https://open.spotify.com/album/3LEt4EbyHyfllGhqKC4YC0) | 3:33 | 2013-06-26 |  |

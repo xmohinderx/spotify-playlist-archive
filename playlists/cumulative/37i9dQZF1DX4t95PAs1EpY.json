@@ -150,7 +150,7 @@
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 140106,
+      "duration_ms": 29048,
       "name": "Artwork",
       "url": "https://open.spotify.com/track/5J5NcN1lGvb3Yo794ohu8f"
     },
@@ -484,7 +484,7 @@
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 156923,
+      "duration_ms": 29048,
       "name": "Carvings",
       "url": "https://open.spotify.com/track/6z4JNDNIHHrLz79QET2jrA"
     },
@@ -1534,6 +1534,28 @@
     },
     {
       "album": {
+        "name": "its okay",
+        "url": "https://open.spotify.com/album/2ZfnMmS443GRt3qgTas9D0"
+      },
+      "artists": [
+        {
+          "name": "Emtee Beats",
+          "url": "https://open.spotify.com/artist/29HYZQ5nVtKxmvfx18NdAH"
+        },
+        {
+          "name": "CHG",
+          "url": "https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130918,
+      "name": "its okay",
+      "url": "https://open.spotify.com/track/6RJ2W3VAicJPG6GuhdwiW7"
+    },
+    {
+      "album": {
         "name": "Jazz Has Many Faces",
         "url": "https://open.spotify.com/album/5U13M8p2FQMbI9IZUffHDN"
       },
@@ -2264,6 +2286,28 @@
     },
     {
       "album": {
+        "name": "Nightingale",
+        "url": "https://open.spotify.com/album/4leEHF6m89G1SStxfVdbyY"
+      },
+      "artists": [
+        {
+          "name": "S\u00e1tyr",
+          "url": "https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf"
+        },
+        {
+          "name": "Joshua Woolf",
+          "url": "https://open.spotify.com/artist/7gsouQpb8mmnAurmljtPDK"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144965,
+      "name": "Nightingale",
+      "url": "https://open.spotify.com/track/6tQpVsbFEkjg3kEAdO5ASH"
+    },
+    {
+      "album": {
         "name": "Noctuid",
         "url": "https://open.spotify.com/album/6BeJ3YeH0fa238tN2WqMZk"
       },
@@ -2554,7 +2598,7 @@
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 153846,
+      "duration_ms": 29048,
       "name": "positive",
       "url": "https://open.spotify.com/track/6EXzpGmH1gpvQclBz4GcfR"
     },
@@ -3244,7 +3288,7 @@
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 148361,
+      "duration_ms": 29048,
       "name": "Sunset Over Paris",
       "url": "https://open.spotify.com/track/4A7HE0qtkcaueIdBqTQIKK"
     },

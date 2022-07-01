@@ -4,7 +4,7 @@
 
 > Pack your backpack and get ready for school!
 
-39 songs - 1 hr 29 min - [published](https://open.spotify.com/playlist/2HVuCHulCqBb0FSZwQjcCr)
+39 songs - 1 hr 26 min - [published](https://open.spotify.com/playlist/2HVuCHulCqBb0FSZwQjcCr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Circle Time Song](https://open.spotify.com/track/4JuRVHHhJKnmHVbvm0u4XW) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Kids Songs for Back to School](https://open.spotify.com/album/107Xpt2jjyZrhHbXXEag0l) | 2:16 | 2021-08-26 |  |
 | [Clean it Up \(School\)](https://open.spotify.com/track/0lp8YTINVSiPkCdK2Upn25) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04) | [Alphabet Rockers](https://open.spotify.com/album/1rlnpqydyDSjS4vffFUC9W) | 2:20 | 2021-08-26 |  |
 | [Clean Up](https://open.spotify.com/track/65ov783J0qmUZkQqnjEb33) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Top 33 Circle Time Songs](https://open.spotify.com/album/6NykWbuxKO6ivJajGYbOgW) | 0:56 | 2021-08-26 |  |
-| [Clothes on, Eat Breakfast, Brush Teeth, Put on Shoes, and off to School!](https://open.spotify.com/track/1bn3Vl8uswXR23F8o19L1c) | [Daniel Tiger’s Neighborhood](https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG) | [Daniel Tiger's Neighborhood: Life's Little Lessons](https://open.spotify.com/album/0EXRR50ZF6em87fGK4ViUu) | 1:11 | 2021-08-26 |  |
+| [Clothes on, Eat Breakfast, Brush Teeth, Put on Shoes, and off to School!](https://open.spotify.com/track/1bn3Vl8uswXR23F8o19L1c) | [Daniel Tiger’s Neighborhood](https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG) | [Daniel Tiger's Neighborhood: Life's Little Lessons](https://open.spotify.com/album/0EXRR50ZF6em87fGK4ViUu) | 0:29 | 2021-08-26 |  |
 | [Count & Move](https://open.spotify.com/track/2su98ur3mUwDzbgWKQWILW) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Classroom Songs](https://open.spotify.com/album/5aEadEk3YW3nJZ0RPXAOKh) | 1:09 | 2021-08-26 |  |
 | [Count All The Numbers](https://open.spotify.com/track/2TCBIR59eURlcsYRGJphMM) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Count All The Numbers](https://open.spotify.com/album/6IpSkg9lMncPY2kYq9Kzvg) | 2:23 | 2021-08-26 |  |
 | [DOING SCIENCE!](https://open.spotify.com/track/3hBkktzrnPbzpbiKaBr6oB) | [The Aquabats!](https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s) | [Super Show! Vol\. 1 \(Music from The Aquabats! Super Show! Soundtrack\)](https://open.spotify.com/album/3IrSAQW0Hzh2o4qwoPAmOx) | 2:50 | 2021-08-26 |  |
@@ -36,7 +36,7 @@
 | [Look At All The Letters](https://open.spotify.com/track/5zif2TsjlvUDhe4PEa1gvE) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Look At All The Letters](https://open.spotify.com/album/61APcLVK3Sok8ur4c5aKA1) | 2:36 | 2021-08-26 |  |
 | [Outside Inside](https://open.spotify.com/track/3zfuWX6OTeGwdedqZG6fIK) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Outside Voices](https://open.spotify.com/album/0Pesak1vor7VVB7IbKmcgY) | 2:55 | 2021-08-26 |  |
 | [Playground Sharing Song](https://open.spotify.com/track/56YuLvSbBxQpyMIb6fjV7y) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Back to School](https://open.spotify.com/album/69or5KAxesV56FleRsIfbb) | 1:46 | 2021-08-26 |  |
-| [Ready Set Go!](https://open.spotify.com/track/2NdPviXMOzvJ6JIotl50CL) | [Divi Roxx Kids](https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR), [Divinity Roxx](https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI) | [Ready Set Go!](https://open.spotify.com/album/3cO1RRSX4z4AcrINOuCKAP) | 2:51 | 2021-08-26 |  |
+| [Ready Set Go!](https://open.spotify.com/track/2NdPviXMOzvJ6JIotl50CL) | [Divi Roxx Kids](https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR), [Divinity Roxx](https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI) | [Ready Set Go!](https://open.spotify.com/album/3cO1RRSX4z4AcrINOuCKAP) | 0:29 | 2021-08-26 |  |
 | [Sammy the School Bus](https://open.spotify.com/track/3nQFL40GzF3F8SJPgiomd2) | [Gecko's Garage](https://open.spotify.com/artist/2xHbxPlwNRVcJR3P3vjtX7), [Toddler Fun Learning](https://open.spotify.com/artist/6J7tunc4bHIFmzTevQ2J6Q) | [Cars, Trucks and Buses with Gecko!](https://open.spotify.com/album/6594786EydH2PJk33SCMa7) | 2:06 | 2021-08-26 |  |
 | [School Bus Song](https://open.spotify.com/track/6wtg3Ub1gFM1CC71xqBacl) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Getting Ready! Daily Routines with LittleBabyBum](https://open.spotify.com/album/5e3g4sr61xiOfEy6wJu7As) | 2:00 | 2021-08-26 |  |
 | [Scientific Method Song](https://open.spotify.com/track/1VJzt4CeuWXNwTISfWYYW3) | [Have Fun Teaching](https://open.spotify.com/artist/705Z0iFTodc8kuWuq6s5ah) | [Science Songs](https://open.spotify.com/album/1SuAdgI7e9osUMADAoIPtC) | 3:08 | 2021-08-26 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05VdJQ1gtnD.md) - [plain]
 
 > Warming instrumental guitar for sitting by the fire.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,159 likes - 157 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,201 likes - 157 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05VdJQ1gtnD.md) - [plain]
 | 37 | [I come in peace](https://open.spotify.com/track/6vzJpiB46qngBEYfoHnvKE) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [I come in peace](https://open.spotify.com/album/7pPCXg7hJKAKPaWJCPmcwj) | 1:58 |
 | 38 | [Low Hanging Fruit](https://open.spotify.com/track/4Cjmwt8CPG0zusrNcnavxZ) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Low Hanging Fruit](https://open.spotify.com/album/1reJ7jRbbumaDTAabKziE6) | 3:59 |
 | 39 | [Coiseachd](https://open.spotify.com/track/6wtYnLV9sHnK1lL0t7NCyd) | [Maya Eden](https://open.spotify.com/artist/6rBVac1sBnoJsn9PbezokS) | [Coiseachd](https://open.spotify.com/album/3w97nwtlxNTKWZBxhlocnw) | 2:46 |
-| 40 | [Long Ago](https://open.spotify.com/track/660XH9scfuNHY2vU0Ct5lv) | [Peaceful Green](https://open.spotify.com/artist/599IEilpy3m4OmWd2pD3Du) | [Long Ago](https://open.spotify.com/album/7d8B7P8xOr5CNN0w8IEJTE) | 3:22 |
-| 41 | [I'm Coming Home To You](https://open.spotify.com/track/2fPgNS9Q6hMc0vzO4RLuEY) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [I'm Coming Home To You](https://open.spotify.com/album/0k1LPi3NvLhSpzOygfuD8Z) | 2:12 |
+| 40 | [Long Ago](https://open.spotify.com/track/660XH9scfuNHY2vU0Ct5lv) | [Peaceful Green](https://open.spotify.com/artist/599IEilpy3m4OmWd2pD3Du) | [Long Ago](https://open.spotify.com/album/7d8B7P8xOr5CNN0w8IEJTE) | 0:29 |
+| 41 | [I'm Coming Home To You](https://open.spotify.com/track/2fPgNS9Q6hMc0vzO4RLuEY) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [I'm Coming Home To You](https://open.spotify.com/album/0k1LPi3NvLhSpzOygfuD8Z) | 0:29 |
 | 42 | [Blue River](https://open.spotify.com/track/4H37WSMDCFhcThyII8qadN) | [Lester Hope](https://open.spotify.com/artist/3tgc4N85veoQX4jjx62ivq) | [Blue River](https://open.spotify.com/album/2Ia0ecssrRep5zHZERBCC8) | 3:32 |
 | 43 | [Archetype](https://open.spotify.com/track/3i47adxdexT9O3A6o8VO9Z) | [Amine Ortega](https://open.spotify.com/artist/1LtfdXtx0vZJG76Ggr6NJc) | [Follow Me](https://open.spotify.com/album/0uWeeD2szjk9swnC0elm0e) | 3:12 |
 | 44 | [L'heure de l'harmonie](https://open.spotify.com/track/7818YjCizM6uEh7gjYzVdj) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [L'heure de l'harmonie](https://open.spotify.com/album/0P6Ka37RvhKX8a8AjrGdhc) | 2:19 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05VdJQ1gtnD.md) - [plain]
 | 47 | [raven](https://open.spotify.com/track/5o6X2A8XqhphXjR5kpIQXy) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [raven](https://open.spotify.com/album/0XUjhMDUqt4OxUujlgZTgl) | 3:56 |
 | 48 | [Evenings at Point Reyes](https://open.spotify.com/track/2OZrAhYxb2v5ZCFGb7QrD6) | [Riverkin](https://open.spotify.com/artist/4xsqwbF6mpNckpRPn4AEBr) | [Two Trees](https://open.spotify.com/album/2qNkOL7MgmDaFpTGCiqUZd) | 2:54 |
 | 49 | [Stream](https://open.spotify.com/track/0iQJKde2ceeY5iu7zX4b6s) | [Masaaki Kishibe](https://open.spotify.com/artist/4D9ADmnRSSpkyrnofqLa7b) | [Stream](https://open.spotify.com/album/4r9WzvRUBLaFP6qep8wHPE) | 2:41 |
-| 50 | [Life of Joy](https://open.spotify.com/track/5nnB2HZH1683ya7AryXY7E) | [Nick Neon](https://open.spotify.com/artist/3xdbwxCQZIeD6AChx3aYxg) | [Life of Joy](https://open.spotify.com/album/7yDXJuDQGEobPOVq16lD6j) | 2:31 |
+| 50 | [Life of Joy](https://open.spotify.com/track/5nnB2HZH1683ya7AryXY7E) | [Nick Neon](https://open.spotify.com/artist/3xdbwxCQZIeD6AChx3aYxg) | [Life of Joy](https://open.spotify.com/album/7yDXJuDQGEobPOVq16lD6j) | 0:29 |
 | 51 | [Asian Delight](https://open.spotify.com/track/0EQOLN8bCteRj62De3MLSn) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [Asian Delight](https://open.spotify.com/album/3EhfE5X0ILlNI30Yt3trQ2) | 3:28 |
 | 52 | [Lakeside](https://open.spotify.com/track/2Igh5u0Gj6TtitvFY2eRhB) | [Kit Degas](https://open.spotify.com/artist/4JnwupXUsT1x9UZHN6v4Ri) | [Lakeside](https://open.spotify.com/album/6Mw4gVTRoLSiY964SJDYR6) | 2:05 |
 | 53 | [Sunset on the Farmland](https://open.spotify.com/track/5tvM2CxNOcCBY7Z2H9Xa12) | [Tapperstand](https://open.spotify.com/artist/5qiy3uNvNQrZycAMo6dOgH) | [Shapes in the Sky](https://open.spotify.com/album/7sxQpqFUHwHhz9xnUmUKol) | 2:51 |
@@ -123,7 +123,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05VdJQ1gtnD.md) - [plain]
 | 113 | [Featherlight](https://open.spotify.com/track/2TVL6DZBZh2kqTalIKspbn) | [Tom Retnikoff](https://open.spotify.com/artist/0bJDHQakbAm5Ymjux31AgO) | [Featherlight](https://open.spotify.com/album/4hUgipvuMuSRfOFfeNTDi4) | 2:17 |
 | 114 | [Second Wind](https://open.spotify.com/track/3IntMBeVlT8SfcqSLDGJsn) | [Northside](https://open.spotify.com/artist/1dNJvEGHHgzCsXqfXuMxYy) | [Second Wind](https://open.spotify.com/album/00nScRMmuLvmAywU5VPdln) | 4:05 |
 | 115 | [While You Waited](https://open.spotify.com/track/6HRH0Y8gia8VPbWC016Om3) | [Czarina Frost](https://open.spotify.com/artist/3iidbcDBg4BOBD5a927q0Q) | [While You Waited](https://open.spotify.com/album/3NIH1WpZiLV1eQo3UhlM7b) | 1:58 |
-| 116 | [Kind & Generous](https://open.spotify.com/track/5OM5dE5QyrXSAHDiNELsta) | [Ferah Vargas](https://open.spotify.com/artist/7I2QqjVyk5dDrmPSiJgT1h) | [Kind & Generous](https://open.spotify.com/album/0RYH3vRRJP2wY0IZnhxg8R) | 3:21 |
+| 116 | [Kind & Generous](https://open.spotify.com/track/5OM5dE5QyrXSAHDiNELsta) | [Ferah Vargas](https://open.spotify.com/artist/7I2QqjVyk5dDrmPSiJgT1h) | [Kind & Generous](https://open.spotify.com/album/0RYH3vRRJP2wY0IZnhxg8R) | 0:29 |
 | 117 | [Come To My Window](https://open.spotify.com/track/2PbBN3RdEoS9EmNcmZzUHh) | [Arturo Jimenes](https://open.spotify.com/artist/5YTMkCli769bhvfuUrjKbr) | [Come To My Window](https://open.spotify.com/album/0E0UTRTQUYrcOpO7bZoovG) | 3:29 |
 | 118 | [Seven Trees](https://open.spotify.com/track/4M44CM7HweGJPxTk0Aei8P) | [Lee Young](https://open.spotify.com/artist/50oK46NA905UBCOIRWBU5Z) | [Seven Trees](https://open.spotify.com/album/0SlOD5vmrLv445yvH0AmbV) | 2:27 |
 | 119 | [waking up in a new world](https://open.spotify.com/track/3q0Nbk3V4XgpOXpS4IWHTJ) | [Victor Santos](https://open.spotify.com/artist/1VIfeRsZv9cw7shAwqBDOW) | [Roses](https://open.spotify.com/album/09p5h5U8OsTHA9dIaXGVes) | 4:43 |
@@ -140,7 +140,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05VdJQ1gtnD.md) - [plain]
 | 130 | [My Open Hand](https://open.spotify.com/track/6R002TAO3XRDQOJzG32TSz) | [Dawn, Dawn, Dawn](https://open.spotify.com/artist/6qT731U8rSadVUrqDvGakd) | [My Open Hand](https://open.spotify.com/album/63kRYmNU9WK1ys1ZlozROi) | 3:11 |
 | 131 | [Wood Circles](https://open.spotify.com/track/2gyh1Z3wAP2gChERJJG52c) | [Atacustico](https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk) | [Wood Circles](https://open.spotify.com/album/7xr8qnA4cvLLuHmiUEpGer) | 2:54 |
 | 132 | [Followers of Dulcamara \- Slow Version](https://open.spotify.com/track/0h7ybibxvsUyifufT1Mt3S) | [Lasse Ivonen](https://open.spotify.com/artist/4FLrO7HeEPdqMGIzKZwl5f), [Karl Brawner](https://open.spotify.com/artist/2Z4V4DkLwbHylyxdXyvr0g) | [Followers of Dulcamara \(Slow Version\)](https://open.spotify.com/album/2ZsjtlGyBS06mSYGHun9VH) | 4:08 |
-| 133 | [Little Memories](https://open.spotify.com/track/1GwZ8CJtCKMjR3bZPxMuYX) | [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [Little Memories](https://open.spotify.com/album/7zuMQmofglFthbWdpYZec0) | 2:33 |
+| 133 | [Little Memories](https://open.spotify.com/track/1GwZ8CJtCKMjR3bZPxMuYX) | [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [Little Memories](https://open.spotify.com/album/7zuMQmofglFthbWdpYZec0) | 0:29 |
 | 134 | [Cherry Blossom](https://open.spotify.com/track/3Eg6NOSgAuaA3wmTcvDFUI) | [Czarina Frost](https://open.spotify.com/artist/3iidbcDBg4BOBD5a927q0Q), [Sam Blakelock](https://open.spotify.com/artist/4f11jn3jO1VfqCaRPvqfsR) | [Cherry Blossom](https://open.spotify.com/album/2lIfecqavjn0OLbc1YCapM) | 1:50 |
 | 135 | [The Long And Winding Road](https://open.spotify.com/track/1txWPldboDI7OkZ5TJGt6h) | [Osvaldo Di Dio](https://open.spotify.com/artist/6p8n2sv9gmOFxQ7Qa0kXTP) | [The Long And Winding Road](https://open.spotify.com/album/0Nkr6bSskmyBqFhp1jFX1M) | 3:31 |
 | 136 | [In the Makeup of the Sun \- Instrumental Version](https://open.spotify.com/track/2yyUytDg93W9yK40uENJg6) | [Christian Wannerwall](https://open.spotify.com/artist/4Z3m4U4Qm1b8EFpcws68kh) | [In the Makeup of the Sun \(Instrumental Version\)](https://open.spotify.com/album/1h90KBYEpVefz7oqZbpYFx) | 1:39 |

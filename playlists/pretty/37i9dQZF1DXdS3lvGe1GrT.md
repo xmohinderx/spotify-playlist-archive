@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Sam Johnston \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,975 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,101 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 27 | [Dead Friends](https://open.spotify.com/track/3AvW6daGmZOBr9L2fQRflQ) | [Owen FitzGerald](https://open.spotify.com/artist/1KJz4wb91yi5bL2bl5AGeO) | [Dead Friends](https://open.spotify.com/album/2slUbrVetCmEm1w74MpMAi) | 4:13 |
 | 28 | [Paper \- Radio Edit](https://open.spotify.com/track/5czpVZPVy2xQaDwNM8INEt) | [Rona Mac](https://open.spotify.com/artist/0FMzSeL7vGgUfFqkBk9FaF) | [Paper \(Radio Edit\)](https://open.spotify.com/album/2fdef6vdtwVALzYrVf3U5C) | 3:53 |
 | 29 | [The Movie of Us](https://open.spotify.com/track/7F1D9wnYqR3y6Gd5UkiTOj) | [Darryl Rahn](https://open.spotify.com/artist/2eogPRB3PTDU7KOd99s4UA) | [The Movie of Us](https://open.spotify.com/album/1W6ErGuu81Pwr5Lh7h0nOG) | 3:24 |
-| 30 | [Golden Spoon](https://open.spotify.com/track/5TtUQ2fh1JzntGcB3mA54l) | [Bats](https://open.spotify.com/artist/4iuECUfKK1Iulmgxt5MObO) | [Blue Cabinet](https://open.spotify.com/album/4qW90vfNhN8R9H1OUhFLfD) | 4:04 |
+| 30 | [Golden Spoon](https://open.spotify.com/track/5TtUQ2fh1JzntGcB3mA54l) | [Bats](https://open.spotify.com/artist/4iuECUfKK1Iulmgxt5MObO) | [Blue Cabinet](https://open.spotify.com/album/4qW90vfNhN8R9H1OUhFLfD) | 0:29 |
 | 31 | [Jigsaw](https://open.spotify.com/track/16NDgpxqIktl0Uluplcz9A) | [Emma Worley](https://open.spotify.com/artist/4uKFpcmOUIswqq7B1c1Zdv) | [Sentimentalist](https://open.spotify.com/album/3iFfF1trCX7iUwWf28iJ2w) | 3:26 |
 | 32 | [Clockwork](https://open.spotify.com/track/06MAgI9FF2nWUDoJSork3Z) | [Ghost Woman](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Clockwork](https://open.spotify.com/album/0UKHelKXNZsPdWNamldnb4) | 2:21 |
 | 33 | [River Run](https://open.spotify.com/track/1725wOjQopDGXUqD6n7Cu6) | [Julia Logan](https://open.spotify.com/artist/1HWgpUIHDxJCLCFueK17D0) | [River Run](https://open.spotify.com/album/5SIs2da6wmXQw4OFcPsTtp) | 4:25 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 79 | [Find Her in the Grass](https://open.spotify.com/track/0QpgXknYVO9nf0zRDZXAgY) | [Iona Zajac](https://open.spotify.com/artist/5XIL7iEbCKJIz14Gqd58Y7) | [Find Her in the Grass](https://open.spotify.com/album/3TBnIxX2ZjZTZXeq1w8bMn) | 3:27 |
 | 80 | [Take Hold](https://open.spotify.com/track/54whhMrWnF7wlggVA3o5Z6) | [Wylder](https://open.spotify.com/artist/3NC9z86LKq4XWgrkpGcgJy) | [Take Hold](https://open.spotify.com/album/4t0nbJCVIRUDWCEfYFoEZj) | 3:29 |
 | 81 | [Fault Lines](https://open.spotify.com/track/0IWAEtB2BD50eC874I9rHm) | [Colyn Cameron](https://open.spotify.com/artist/0I9HepF8rMt7q4csPxg47t) | [Fault Lines](https://open.spotify.com/album/7odRJxbB9XE3zHt009Errk) | 3:50 |
-| 82 | [Runaway Train \- GemsOnVHS Field Recording](https://open.spotify.com/track/4O1aKNl9yUxYCA91MoI1tQ) | [Josh Okeefe](https://open.spotify.com/artist/78zgfaEwcftA55VFMvTwAw), [GemsOnVHS](https://open.spotify.com/artist/7t78CwAbQIA6DKAKUKBYgl) | [Runaway Train \(GemsOnVHS Field Recording\)](https://open.spotify.com/album/2OSLlqhpnY4kMsgeiwVefV) | 3:01 |
+| 82 | [Runaway Train \- GemsOnVHS Field Recording](https://open.spotify.com/track/4O1aKNl9yUxYCA91MoI1tQ) | [Josh Okeefe](https://open.spotify.com/artist/78zgfaEwcftA55VFMvTwAw), [GemsOnVHS](https://open.spotify.com/artist/7t78CwAbQIA6DKAKUKBYgl) | [Runaway Train \(GemsOnVHS Field Recording\)](https://open.spotify.com/album/2OSLlqhpnY4kMsgeiwVefV) | 0:29 |
 | 83 | [The Other Side \(As the Sun Comes Up\)](https://open.spotify.com/track/2Oni7JsrxjPxl7qDJwD8Kh) | [Lydia Kaseta](https://open.spotify.com/artist/0raB78RFxZwDhT8LQFtahl) | [The Other Side \(As the Sun Comes Up\)](https://open.spotify.com/album/2lIxAt8sf6wrmxoVeXbemm) | 4:01 |
 | 84 | [I hope I dream of stars when I'm dying](https://open.spotify.com/track/0WSdVqnwYFC2paZgEgUJSQ) | [Piper Dumont](https://open.spotify.com/artist/13OJ3TEgbX0Ur5VbNjciEM) | [I hope I dream of stars when I'm dying](https://open.spotify.com/album/2ZiGBvpodIdW8NoL3u1ClO) | 3:12 |
 | 85 | [Falling for a Friend](https://open.spotify.com/track/0bVdwfTLrlL5TSvQdbLVOB) | [Zander Hawley](https://open.spotify.com/artist/0lfHZCO5590Y3vuuNEXcwZ) | [Falling for a Friend](https://open.spotify.com/album/5ilYcLW8z4y0D4F5QaqheC) | 3:37 |
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 91 | [Rebound](https://open.spotify.com/track/7ij9YUpNZYy1DpfRj8IiIV) | [Tom Freund](https://open.spotify.com/artist/3YwhoOWrHJZrk5XzE3WXkT) | [Rebound](https://open.spotify.com/album/4FZ9HKVDjQhSSUqfpOMwzP) | 4:50 |
 | 92 | [I Guess I Don't Love You](https://open.spotify.com/track/1vmgbf5JfzqUqfHA8Mydke) | [Shayan Regan](https://open.spotify.com/artist/4MqBmgnfLeYmizJVpJz65k) | [A Poison With An Aftertaste](https://open.spotify.com/album/4ay37DHosEREgTdRHbjvKf) | 3:01 |
 | 93 | [House to Build a Home](https://open.spotify.com/track/42hfPOzBwNLwE6Dp6uBK9w) | [Matt Koziol](https://open.spotify.com/artist/2FxP1QGYEVLE2pI1TBBDQs) | [House to Build a Home](https://open.spotify.com/album/58udoklAQtzD1c8XfN4med) | 3:17 |
-| 94 | [Mary](https://open.spotify.com/track/5mPfliRSVA7EXhHuJLfFz9) | [Sydney Layne](https://open.spotify.com/artist/6gCW563dCbPKR1ma9HULIl) | [Mary](https://open.spotify.com/album/19GC6OUNJwtNE8yb7BkDPp) | 3:34 |
+| 94 | [Mary](https://open.spotify.com/track/5mPfliRSVA7EXhHuJLfFz9) | [Sydney Layne](https://open.spotify.com/artist/6gCW563dCbPKR1ma9HULIl) | [Mary](https://open.spotify.com/album/19GC6OUNJwtNE8yb7BkDPp) | 0:29 |
 | 95 | [mama](https://open.spotify.com/track/3JT1HTp2jSF9EbFYoXya68) | [BODE](https://open.spotify.com/artist/6Y5yfIGFf8KBsa4amo2gvj) | [mama](https://open.spotify.com/album/4aYDVap5RkEGK38GTLNeWU) | 3:50 |
 | 96 | [turning blue](https://open.spotify.com/track/61mVqkXlFqQe7xocjBaiTT) | [Alexa Cirri](https://open.spotify.com/artist/0jitaHotzcSiJNkm4amOOr) | [turning blue](https://open.spotify.com/album/2qvGjMIQdMLyQ1McV34u7m) | 2:25 |
 | 97 | [Acid](https://open.spotify.com/track/4JDluTPvsFmOooV9mt69bb) | [Brooke Garwood](https://open.spotify.com/artist/35RoqIMBXm2rYaD3UOzyW6) | [Acid](https://open.spotify.com/album/0zZ03JriJmcAFjRhW3ntCu) | 4:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Gloria
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,259 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,268 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,13 +35,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 25 | [O Que Me Faz?](https://open.spotify.com/track/5hR1g8yO81j6tgSXEeTGau) | [Tributo Ao Tempo](https://open.spotify.com/artist/3yIiGpuO5YzQfzqIPbONbY), [Serginho Moah](https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1) | [O Que Me Faz?](https://open.spotify.com/album/26lqAUZY9uGGoye38GIYnP) | 3:45 |
 | 26 | [O Amor Machuca Demais](https://open.spotify.com/track/1b6M0tk69Qrcz8lxHpU82U) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [O Amor Machuca Demais](https://open.spotify.com/album/2FVmfh4CBS9MnwDaXvBCwB) | 3:08 |
 | 27 | [Mente Blindada](https://open.spotify.com/track/1V0bLFzFT6s3UYcx5buRAd) | [SONGZ](https://open.spotify.com/artist/4IEdb4XbOL3tYsrkqjwfhI) | [Mente Blindada](https://open.spotify.com/album/2OpV6iAAIBcwDrLh8bAGlf) | 2:53 |
-| 28 | [Nasci Pra Chorar](https://open.spotify.com/track/2ic5BZuPlp4HLH8JOlTqwS) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [O Futuro Pertence À...Jovem Guarda](https://open.spotify.com/album/6tmMkqINb8TkUxyxwtqSwb) | 3:00 |
+| 28 | [Nasci Pra Chorar](https://open.spotify.com/track/2ic5BZuPlp4HLH8JOlTqwS) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [O Futuro Pertence À...Jovem Guarda](https://open.spotify.com/album/6tmMkqINb8TkUxyxwtqSwb) | 0:29 |
 | 29 | [Selva de Concreto](https://open.spotify.com/track/2ZHLPehoFYRKLwJCxotHYw) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07) | [Selva de Concreto](https://open.spotify.com/album/3kgRDWQ5lPQcJZqQV4YO2n) | 3:32 |
 | 30 | [Acaso](https://open.spotify.com/track/2wSLrkw84GBlAzyEGjnTih) | [Taigo](https://open.spotify.com/artist/0mS8emPKSszolKVZVR9fO8) | [Acaso](https://open.spotify.com/album/4bjYx9mngwSOXVRNXpZzT9) | 3:58 |
 | 31 | [Andando de SK8](https://open.spotify.com/track/2J8hc2jstcvn7yH3fbvOEb) | [Tchello](https://open.spotify.com/artist/7m7zHLfw3T0SAZxYVRrE5h) | [Andando de SK8](https://open.spotify.com/album/5xHLWqJjt6svcBPyvvXfl1) | 2:40 |
 | 32 | [Carta pro Futuro](https://open.spotify.com/track/2Tq3XVQ3iWVVxX2hDZhNyn) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Guxta](https://open.spotify.com/artist/3LutKkAZcYI7vS81R2yJjy) | [Cartas](https://open.spotify.com/album/1pBoUcfZM0WaiOlAEb7TRb) | 3:32 |
 | 33 | [Anestesiado](https://open.spotify.com/track/148IPSNoDbIEVdfwIIsxHx) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [Anestesiado](https://open.spotify.com/album/4o3Aga2Oc5GbQNNE6dJySZ) | 2:54 |
-| 34 | [Complexo](https://open.spotify.com/track/2u3a7VO5uB9xQlycZj1FOh) | [Dupoint](https://open.spotify.com/artist/54GML44bZteHh8aoqc644G) | [Simples Como Tem Que Ser](https://open.spotify.com/album/0WkYLnLlNroMfXDltInQJb) | 2:45 |
+| 34 | [Complexo](https://open.spotify.com/track/2u3a7VO5uB9xQlycZj1FOh) | [Dupoint](https://open.spotify.com/artist/54GML44bZteHh8aoqc644G) | [Simples Como Tem Que Ser](https://open.spotify.com/album/0WkYLnLlNroMfXDltInQJb) | 0:29 |
 | 35 | [Madri](https://open.spotify.com/track/5TZB7FD8GDhzd9qS8BK4B3) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Madri](https://open.spotify.com/album/01Kqulu74DLpLs7NVW8L80) | 2:58 |
 | 36 | [Chá](https://open.spotify.com/track/4GaUS9fESqZsMdk7aqnexu) | [H o u d i n i](https://open.spotify.com/artist/2xysuV21VYh93dle4QZq7T), [iceboy999](https://open.spotify.com/artist/1PK0jb0W4nrxZItuuCUwXK), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Chá](https://open.spotify.com/album/4gSJ0HsE10n2Ci2nDfg9kg) | 3:17 |
 | 37 | [Hora do Brasil](https://open.spotify.com/track/1oFIcBntvDjPU1tZ0yNYIN) | [Notívagos](https://open.spotify.com/artist/0llzGPxlorxbuUUwg04Emr) | [Hora do Brasil](https://open.spotify.com/album/73UFcMw5mHNqu682gX6vqx) | 3:15 |

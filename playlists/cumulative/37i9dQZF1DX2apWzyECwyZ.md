@@ -4,7 +4,7 @@
 
 > Yo Hago Lo Que Me Da La Gana
 
-121 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/2oRRt5n35mCQnCecgmXO5z)
+121 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/2oRRt5n35mCQnCecgmXO5z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Estamos Bien](https://open.spotify.com/track/7glCSQqV5o6NU88Cn4zPZn) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Estamos Bien](https://open.spotify.com/album/4BTzqI5BYJZscSgm1TUncT) | 3:28 | 2022-05-06 |  |
 | [Está Cabrón Ser Yo](https://open.spotify.com/track/4saHEjXw7O1NXJOzBkUKKG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:47 | 2022-05-06 |  |
 | [Está Rico](https://open.spotify.com/track/2wRkBumdItthjYP9XknImg) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6), [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Está Rico](https://open.spotify.com/album/3ztJAikTd2AHTixfSPG185) | 3:35 | 2022-05-06 |  |
-| [Explícale](https://open.spotify.com/track/48yAM9xWBwT4Ac9G1y20rw) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Explícale](https://open.spotify.com/album/0uy8Xibq7kusvI4BqGZMMM) | 3:43 | 2022-05-06 |  |
+| [Explícale](https://open.spotify.com/track/48yAM9xWBwT4Ac9G1y20rw) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Explícale](https://open.spotify.com/album/0uy8Xibq7kusvI4BqGZMMM) | 0:29 | 2022-05-06 |  |
 | [Hablamos Mañana](https://open.spotify.com/track/1V8XneTrX6kKeoxYbk4x6h) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:00 | 2022-05-06 |  |
 | [HACIENDO QUE ME AMAS](https://open.spotify.com/track/26QApq0cuO9brJigr0C0W4) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:37 | 2022-05-06 |  |
 | [Hasta Que Dios Diga](https://open.spotify.com/track/06s3QtMJVXw1AJX3UfvZG1) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 4:06 | 2022-05-06 |  |

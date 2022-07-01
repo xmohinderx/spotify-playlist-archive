@@ -4,7 +4,7 @@
 
 > Relax and slip into this eclectic mix of reggae infused tracks.
 
-50 songs - 2 hr 43 min - [published](https://open.spotify.com/playlist/46NRebXBh8HX6qp1qL56cG)
+50 songs - 2 hr 37 min - [published](https://open.spotify.com/playlist/46NRebXBh8HX6qp1qL56cG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Lockdown](https://open.spotify.com/track/0izUjTuDrUy2FgQOSRALSU) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Lockdown](https://open.spotify.com/album/0tJs3Wig9YBdDG8jGKeLq6) | 2:59 | 2021-10-28 |  |
 | [Magic](https://open.spotify.com/track/2md0a0rA0bpwS45hy6suj4) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [KES the Band](https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH), [Jimmy October](https://open.spotify.com/artist/7ymbjgoFo1FSdcVCKjxQUn), [Etienne Charles](https://open.spotify.com/artist/4JykHd21q5YnsKDekqnqD3) | [Hello](https://open.spotify.com/album/3pIpTzmFJulw4vtUQ3oEQA) | 4:10 | 2021-10-28 |  |
 | [Make Me Feel](https://open.spotify.com/track/7AMZspzuS0GTepZu4EBc9f) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 3:10 | 2021-10-28 |  |
-| [Make Me Feel \(feat\. Rick Ross & Ari Lennox\)](https://open.spotify.com/track/683pmH1N542FzPKKvs0Aqs) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Make Me Feel](https://open.spotify.com/album/5debgHMJNijFtEvXbR6LS0) | 3:12 | 2021-10-28 |  |
+| [Make Me Feel \(feat\. Rick Ross & Ari Lennox\)](https://open.spotify.com/track/683pmH1N542FzPKKvs0Aqs) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Make Me Feel](https://open.spotify.com/album/5debgHMJNijFtEvXbR6LS0) | 0:29 | 2021-10-28 |  |
 | [Money Call](https://open.spotify.com/track/4Xa68Oy7He9wkodJuRQEXW) | [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [The Familiar Stranger](https://open.spotify.com/album/31r2AedXvvd13nNpVRfcC6) | 3:54 | 2021-10-28 |  |
 | [Mood Forever](https://open.spotify.com/track/1RxSIa8oMMPzBjjpKsgN3S) | [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Mood Forever](https://open.spotify.com/album/3DDk8Okv8KjmnlOwSALaH9) | 2:54 | 2021-10-28 |  |
 | [My Girl \(with Jesse Royal\)](https://open.spotify.com/track/7aoFX5COiBtWVtPrICoIPN) | [Through The Roots](https://open.spotify.com/artist/3kXFPAfFzG0LrudmtGM6Yc), [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1) | [My Girl \(with Jesse Royal\)](https://open.spotify.com/album/7oJPNVO1uedU2le7WqIFFq) | 2:47 | 2021-10-28 |  |
@@ -56,7 +56,7 @@
 | [Sunrise](https://open.spotify.com/track/6s2oKDMKjbJy2Jq5q3Iej6) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv), [Derrick Sound](https://open.spotify.com/artist/6K2wSa8g588RRkVb0ZPkqo) | [Sunrise](https://open.spotify.com/album/4eZqd5GZGYhX98s7Z8ciG3) | 3:04 | 2021-10-28 |  |
 | [Trouble](https://open.spotify.com/track/3OuLmkQmyawqrMAC3w5Wjt) | [Cashh](https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua) | [Trouble](https://open.spotify.com/album/4YALDeVXSEaWeqe9hHax86) | 3:36 | 2021-10-28 |  |
 | [Wag1 \(feat\. WSTRN\)](https://open.spotify.com/track/3ewnXMFcLUCoYkWvxsUA5K) | [Cashh](https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua), [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs) | [Wag1 \(feat\. WSTRN\)](https://open.spotify.com/album/3A7uzh4630SBNb4nUfhrz5) | 3:23 | 2021-10-28 |  |
-| [Well Excellent](https://open.spotify.com/track/7uX7niEFrJFmj3SFHsnwkL) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Jr\. Demus](https://open.spotify.com/artist/2P7kXO4UzC2NHSHRmtdWlb) | [Well Excellent](https://open.spotify.com/album/4of34K5GjdYXRcfLKwjHKG) | 3:36 | 2021-10-28 |  |
+| [Well Excellent](https://open.spotify.com/track/7uX7niEFrJFmj3SFHsnwkL) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Jr\. Demus](https://open.spotify.com/artist/2P7kXO4UzC2NHSHRmtdWlb) | [Well Excellent](https://open.spotify.com/album/4of34K5GjdYXRcfLKwjHKG) | 0:29 | 2021-10-28 |  |
 | [Woii](https://open.spotify.com/track/10J8eHB9Yajz8NODmjpjvt) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 3:28 | 2021-10-28 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

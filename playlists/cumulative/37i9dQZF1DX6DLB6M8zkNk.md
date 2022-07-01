@@ -4,7 +4,7 @@
 
 > POV: you're the main character in a romance novel.
 
-50 songs - 3 hr 5 min - [published](https://open.spotify.com/playlist/1jUeEpyytwUQzwgV0C0mkW)
+50 songs - 3 hr 3 min - [published](https://open.spotify.com/playlist/1jUeEpyytwUQzwgV0C0mkW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Tewkesbury's Trail](https://open.spotify.com/track/7i6aVrjKTpxz0I2G3IubY9) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Enola Holmes \(Music from the Netflix Film\)](https://open.spotify.com/album/6sFS4WAvywzoeormyV0tA5) | 1:41 | 2022-02-14 |  |
 | [thank u, next](https://open.spotify.com/track/66iP3U2QOKgevrnrbWk53S) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton \(Covers from the Netflix Original Series\)](https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe) | 3:26 | 2022-02-14 | 2022-04-07 |
 | [The Balcony Scene \(From "Romeo and Juliet"\)](https://open.spotify.com/track/5X5x6oRSCHtHEz28ncMVd5) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Paul Bateman](https://open.spotify.com/artist/5V7l2e1oLF7oSzpvdaDenk) | [Classic FM At The Movies](https://open.spotify.com/album/5TI5SRLYZyS9R9tYEkrB1O) | 5:48 | 2022-02-14 |  |
-| [The Dance](https://open.spotify.com/track/3h3dJgoTzyn1N6HN8Lan5g) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn), [Latvian Radio Choir](https://open.spotify.com/artist/1FPk3Fo5EyBYOxEiT2V0jP), [BBC National Orchestra Of Wales](https://open.spotify.com/artist/1fhEh9FpKs42GFeqerlBUf) | [War & Peace \(Original Soundtrack by Martin Phipps\)](https://open.spotify.com/album/783EdYKCbDqS0I6TrCGCnl) | 3:01 | 2022-02-14 |  |
+| [The Dance](https://open.spotify.com/track/3h3dJgoTzyn1N6HN8Lan5g) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn), [Latvian Radio Choir](https://open.spotify.com/artist/1FPk3Fo5EyBYOxEiT2V0jP), [BBC National Orchestra Of Wales](https://open.spotify.com/artist/1fhEh9FpKs42GFeqerlBUf) | [War & Peace \(Original Soundtrack by Martin Phipps\)](https://open.spotify.com/album/783EdYKCbDqS0I6TrCGCnl) | 0:29 | 2022-02-14 |  |
 | [The Portrait](https://open.spotify.com/track/0yIM3MDx8UTwueyoZJobsb) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [Titanic: Original Motion Picture Soundtrack \- Collector's Anniversary Edition](https://open.spotify.com/album/3XwgFTxiWxep4s1VjPEaHs) | 4:43 | 2022-02-14 |  |
 | [The Princess Diaries Waltz \- Score](https://open.spotify.com/track/60vDJQPOMYUkL388zPpuNT) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [The Princess Diaries](https://open.spotify.com/album/5kLlsgivbVFDYAngLjfEZZ) | 2:09 | 2022-02-14 |  |
 | [Unrequited Love](https://open.spotify.com/track/71Y4MDtbPbwgASI7RXSSCO) | [Ari Posner](https://open.spotify.com/artist/563dtu7YhG2vW5KPAwMgC4), [Amin Bhatia](https://open.spotify.com/artist/3GvnGpA4bEqkq9FDeA2NEv) | [Anne With An E \(Music From The Netflix Original Series\)](https://open.spotify.com/album/18zn6reTQDMH7c3dxgpRGM) | 2:30 | 2022-02-14 | 2022-04-07 |

@@ -4,7 +4,7 @@
 
 > The official Ozark playlist with all the music from Season 4.
 
-34 songs - 2 hr 15 min - [published](https://open.spotify.com/playlist/5U25p66mg1TN4sZewAZ6iz)
+34 songs - 2 hr 11 min - [published](https://open.spotify.com/playlist/5U25p66mg1TN4sZewAZ6iz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Renegade](https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Pieces Of Eight](https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D) | 4:17 | 2022-04-29 |  |
 | [Represent](https://open.spotify.com/track/6DPrhGVJ1WTZvM9fKptnGe) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | 4:12 | 2022-04-29 |  |
 | [Right Down the Line](https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [City to City](https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf) | 4:27 | 2022-04-29 |  |
-| [They Reminisce Over You \(T.R.O.Y.\)](https://open.spotify.com/track/2Mb3zpobD0CvJGWv6NpsPy) | [Pete Rock & C.L\. Smooth](https://open.spotify.com/artist/3fJ60AcIgLzQkVitEvA7uq) | [Mecca And The Soul Brother](https://open.spotify.com/album/2AgTKAULjbHpqqtyI53hdp) | 4:46 | 2022-04-29 |  |
+| [They Reminisce Over You \(T.R.O.Y.\)](https://open.spotify.com/track/2Mb3zpobD0CvJGWv6NpsPy) | [Pete Rock & C.L\. Smooth](https://open.spotify.com/artist/3fJ60AcIgLzQkVitEvA7uq) | [Mecca And The Soul Brother](https://open.spotify.com/album/2AgTKAULjbHpqqtyI53hdp) | 0:29 | 2022-04-29 |  |
 | [Tierra Mexicana](https://open.spotify.com/track/6aOk5gS3qpezQlxecsuAvt) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Tierra Mexicana](https://open.spotify.com/album/6K88N3YYc9DxTkCjGi2eIp) | 2:33 | 2022-04-29 |  |
 | [Twilight Zone](https://open.spotify.com/track/3ztKHejzVoxJRKSZHFFMdJ) | [Golden Earring](https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS) | [The Long Versions \- Part One](https://open.spotify.com/album/2qZLEQ9KsfExIhQKJF3VkD) | 7:58 | 2022-04-29 |  |
 | [Untitled \(feat\. Scar\)](https://open.spotify.com/track/68qkEjGepczQDzuhxH5anO) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Scar](https://open.spotify.com/artist/0sywmyZ8FiRChMptufCVUS) | [R.A.P\. Music](https://open.spotify.com/album/5EAhUoAz1G3WTvIfGZvmrh) | 3:53 | 2022-04-29 |  |

@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFJtzvDHN4L.md) - [plain]
 
 > Relaxing soundtracks to help you escape and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 656,085 likes - 54 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 656,152 likes - 54 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Together Again](https://open.spotify.com/track/2hnA4tmaBMisNvz4TOl1Rk) | [Stephen Rennicks](https://open.spotify.com/artist/1qwshnqmsxCWhZAnBIISeL) | [Normal People \(Original Score from the Television Series\)](https://open.spotify.com/album/3WsKQ06VJYFnl5msx295V9) | 2:53 |
 | 2 | [Any Other Name](https://open.spotify.com/track/33B1XmfncHqnfkrYZIcHbD) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [American Beauty \(Original Motion Picture Score\)](https://open.spotify.com/album/11y3Dzg44npGsTWKtmuzTW) | 4:06 |
 | 3 | [Road To Perdition](https://open.spotify.com/track/1ybtJbR4ARqmjl6dD2VtYU) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Road To Perdition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7v9u5bUHm2tpSC7ZL4hZBG) | 3:55 |
-| 4 | [Over The Pines](https://open.spotify.com/track/2gAIy3MuCMOZUejECGPBUa) | [Ben Sollee](https://open.spotify.com/artist/3Zzs4IqjV4b0yEFWqRv1si), [Time For Three](https://open.spotify.com/artist/5GK2hLwkSIVQSaQMTAmLbk) | [Over The Pines \(from the Motion Picture "Land"\)](https://open.spotify.com/album/2tCF0m1P1g25NcPfv0Sfjj) | 3:11 |
+| 4 | [Over The Pines](https://open.spotify.com/track/2gAIy3MuCMOZUejECGPBUa) | [Ben Sollee](https://open.spotify.com/artist/3Zzs4IqjV4b0yEFWqRv1si), [Time For Three](https://open.spotify.com/artist/5GK2hLwkSIVQSaQMTAmLbk) | [Over The Pines \(from the Motion Picture "Land"\)](https://open.spotify.com/album/2tCF0m1P1g25NcPfv0Sfjj) | 0:29 |
 | 5 | [Different Kinds Of Cry](https://open.spotify.com/track/0MPFNeTFeGL6JEQxl7KWcf) | [Alexis Grapsas](https://open.spotify.com/artist/3dkswBquw5Ss899vAX7DP6) | [Trigonometry \(Original Series Soundtrack\)](https://open.spotify.com/album/5JqHZ5DrkG010tg32Bnh70) | 3:33 |
 | 6 | [The Mind’s Eye](https://open.spotify.com/track/0RYvm6Wf0Z82UuH28lyV5J) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Never Look Away \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0n57OBgkXOdrBngFeje285) | 2:48 |
 | 7 | [No Ball Games \(Original Motion Picture Soundtrack\)](https://open.spotify.com/track/4HUsC4vT6Aqeql8FKLfnbJ) | [Patrick Jonsson](https://open.spotify.com/artist/5wedfwksIuL9RVB3VpGxcl) | [No Ball Games \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4BIRDDEZoEEsDsEnXvb4Kg) | 2:01 |
 | 8 | [Danger of Hell](https://open.spotify.com/track/2xfg6YnYSHbrPjGWjuQHVS) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [The Green Mile \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Rppm3cesOg9mL5oaIeLCc) | 2:27 |
 | 9 | [What I Really Wanted](https://open.spotify.com/track/7IoZ5JlxMkGhk4Xvi19Hyo) | [Clinton Shorter](https://open.spotify.com/artist/23Vu6ClvSnmNSbz3ODd3iJ) | [The Expanse Season 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/7wAz7kEaaZ80CWhGdBA7h1) | 2:38 |
-| 10 | [Miss Sloane Solo](https://open.spotify.com/track/45SUuwxzQQzvnAaMjuM5XZ) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Miss Sloane \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yZ9kWiGkJ3i6fxWw9cxV9) | 2:07 |
+| 10 | [Miss Sloane Solo](https://open.spotify.com/track/45SUuwxzQQzvnAaMjuM5XZ) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Miss Sloane \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yZ9kWiGkJ3i6fxWw9cxV9) | 0:29 |
 | 11 | [Doug](https://open.spotify.com/track/4n4q1FZ84xHhZRdexhFz0X) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Inez & Doug & Kira \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6HwPJRFbqGPu9bw4z0FKze) | 1:53 |
 | 12 | [The Gift Of Mortality \- Instrumental](https://open.spotify.com/track/4ZnQXH7WqUCbzffYaeSMRM) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [Bicentennial Man \- Original Motion Picture Soundtrack](https://open.spotify.com/album/7zp6npGMq8bwq6z9944ExA) | 6:10 |
 | 13 | [Come Back to Us](https://open.spotify.com/track/44sVQfPdCTGM5JLBRHUngc) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [1917 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6HiTc4Cu7pOdO5mA8PInRs) | 5:39 |

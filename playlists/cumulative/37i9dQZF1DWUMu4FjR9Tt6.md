@@ -4,7 +4,7 @@
 
 > Check out the official playlist from Umbrella Academy\. Watch now on Netflix.
 
-87 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/7b1BQYuQIj2i5nZNS1UeKq)
+87 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/7b1BQYuQIj2i5nZNS1UeKq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Another One Bites The Dust](https://open.spotify.com/track/291RmMazWAmDitFuD6NJCv) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game](https://open.spotify.com/album/1h0j80HhdzIMsUGUFiVkqa) | 3:35 | 2022-06-22 |  |
 | [Bach, JS: Partita for Solo Violin No\. 2 in D Minor, BWV 1004: V\. Chaconne](https://open.spotify.com/track/5Z1kjTgKJVWvEizpZc3G1S) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA) | [Bach \- Solo Violin Sonatas](https://open.spotify.com/album/0knRC3vjeWfuxfQ2EHlKEj) | 15:46 | 2022-06-17 |  |
 | [Bad Guy](https://open.spotify.com/track/0iM1Ioz4N4p7MU1DKyqsov) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Bad Guy](https://open.spotify.com/album/2oU2YsoVW3KG0jIlDXWIkx) | 2:37 | 2022-06-17 |  |
-| [Be Thankful You're You](https://open.spotify.com/track/2FUCIb2sFCJ6ODJh4knB5Y) | [Fern Jones](https://open.spotify.com/artist/4lCa0KPb4ZCqrVtrfSGAdu) | [The Glory Road](https://open.spotify.com/album/5ekSwa7f9Oaft4iMjs1P4J) | 2:26 | 2022-06-17 |  |
+| [Be Thankful You're You](https://open.spotify.com/track/2FUCIb2sFCJ6ODJh4knB5Y) | [Fern Jones](https://open.spotify.com/artist/4lCa0KPb4ZCqrVtrfSGAdu) | [The Glory Road](https://open.spotify.com/album/5ekSwa7f9Oaft4iMjs1P4J) | 0:29 | 2022-06-17 |  |
 | [Beyond the Sea](https://open.spotify.com/track/3KzgdYUlqV6TOG7JCmx2Wg) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [That's All](https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn) | 2:52 | 2022-06-17 |  |
 | [Bibbidi\-Bobbidi\-Boo \(The Magic Song\) \- As heard in the Netflix series The Umbrella Academy](https://open.spotify.com/track/2ghZP9SEs9NrvcOk0VgQJn) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [The Essential Perry Como](https://open.spotify.com/album/6guLNpxip1tU3OYWNkPksw) | 2:19 | 2022-06-17 |  |
 | [Bitter Taste](https://open.spotify.com/track/4gS0C89Jlx8Zx4853NYRLY) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Bitter Taste](https://open.spotify.com/album/5FW8hrEzkgu2MXf1Dy6yjF) | 4:26 | 2022-06-22 |  |
@@ -70,7 +70,7 @@
 | [Polk Salad Annie](https://open.spotify.com/track/0jtz7Ia3HahOqXWnKad0rn) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Black & White](https://open.spotify.com/album/71upkCAZBdlRRxoSbG8wvQ) | 3:43 | 2022-06-17 |  |
 | [Quando Quando Quando](https://open.spotify.com/track/03MOcbkkoNLjP0G91iODSB) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm) | [A Man Without Love](https://open.spotify.com/album/2zQM1HOK5OnDGF1SSWExnE) | 3:21 | 2022-06-22 |  |
 | [Renegade](https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Pieces Of Eight](https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D) | 4:17 | 2022-06-17 |  |
-| [Ride Wit Me](https://open.spotify.com/track/3Gf5nttwcX9aaSQXRWidEZ) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [City Spud](https://open.spotify.com/artist/3L2SIGZah4QZSvN4wC8rHl) | [Country Grammar](https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE) | 4:51 | 2022-06-22 |  |
+| [Ride Wit Me](https://open.spotify.com/track/3Gf5nttwcX9aaSQXRWidEZ) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [City Spud](https://open.spotify.com/artist/3L2SIGZah4QZSvN4wC8rHl) | [Country Grammar](https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE) | 0:29 | 2022-06-22 |  |
 | [Right Back Where We Started From](https://open.spotify.com/track/00s8dO3RWrFkBqC9JIy6ag) | [Maxine Nightingale](https://open.spotify.com/artist/6jQ9UtYXqNfVnPkrH1Xxwi) | [Right Back Where We Started From](https://open.spotify.com/album/3YXcrd6u44J13at4UmDKEX) | 3:12 | 2022-06-17 |  |
 | [Rocket Fuel \(feat\. De La Soul\)](https://open.spotify.com/track/3ZTRTKx8uqpzqqWOA3JyNN) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Rocket Fuel \(feat\. De La Soul\)](https://open.spotify.com/album/5X3i6maFdxK5xyO5bXGoQ6) | 3:15 | 2022-06-17 |  |
 | [Run Boy Run](https://open.spotify.com/track/0boS4e6uXwp3zAvz1mLxZS) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9) | [The Golden Age](https://open.spotify.com/album/7oRzNo0PkoRJlvI9Eocyf2) | 3:33 | 2022-06-17 |  |

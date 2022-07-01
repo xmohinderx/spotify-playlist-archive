@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6edLYxYHo9.md) - [plain]
 
 > Soundtrack your 2022 resolutions with Corey Calliet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,265 likes - 59 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,264 likes - 59 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6edLYxYHo9.md) - [plain]
 | 10 | [Give No Fxk](https://open.spotify.com/track/6ZelF5APDN5r6XnFqcnvWR) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Give No Fxk](https://open.spotify.com/album/5PGZpfzDkbbTvhDAuZlSQo) | 3:44 |
 | 11 | [3500 \(feat\. Future & 2 Chainz\)](https://open.spotify.com/track/1SGt65i9AnXYdDQt1AtDRH) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Rodeo \(Expanded Edition\)](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 7:41 |
 | 12 | [wonderful](https://open.spotify.com/track/1cZlBZwnwGPtYeRIeQcoFh) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 3:36 |
-| 13 | [Texas Cyclone](https://open.spotify.com/track/2oFdrFpXDgPcszmfWaKboI) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Sauce Ghetto Gospel 2](https://open.spotify.com/album/0VtMPojCVDeVpSYDi2cLZA) | 2:12 |
+| 13 | [Texas Cyclone](https://open.spotify.com/track/2oFdrFpXDgPcszmfWaKboI) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Sauce Ghetto Gospel 2](https://open.spotify.com/album/0VtMPojCVDeVpSYDi2cLZA) | 0:29 |
 | 14 | [Scorpio](https://open.spotify.com/track/0LlFMKD7MAHwOqkIBsHui6) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain: Reloaded](https://open.spotify.com/album/78L6XKTChkf0M5SK3oogk3) | 2:45 |
 | 15 | [HIGH](https://open.spotify.com/track/7cZxllNvqJrFaU4op9YvK6) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [DJ Luke Nasty](https://open.spotify.com/artist/1yZwlOVsfrp4wb6d29KkGM) | [HIGH](https://open.spotify.com/album/0GQDQ69wAjCuWWre6M4pgA) | 2:50 |
 | 16 | [GYALIS](https://open.spotify.com/track/7wpyrkjEgz7W1vNYDxMKrF) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [GYALIS](https://open.spotify.com/album/7GbE1XjMbpkSxGkmUr7Ck4) | 1:45 |

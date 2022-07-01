@@ -4,7 +4,7 @@
 
 > Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.
 
-134 songs - 7 hr 35 min - [published](https://open.spotify.com/playlist/46D1kuTc3MCeOAm8azvkgm)
+134 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/46D1kuTc3MCeOAm8azvkgm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Bittersweet \(feat\. LeeHi\)](https://open.spotify.com/track/347PJwH4XqRbeaKaIW9sX3) | [WONWOO](https://open.spotify.com/artist/3rHcBT06Vb1XGVUWhDALZt), [MINGYU](https://open.spotify.com/artist/5gUpo0BRmo6EOTbyU3z5Ay), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Bittersweet \(feat\. LeeHi\)](https://open.spotify.com/album/6qVk855QPCh57noNeeHMXQ) | 2:54 | 2022-05-27 |  |
 | [BOOMBOOM](https://open.spotify.com/track/0pWxUlYb3EM2WkcTJfwBdP) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Seventeen 3rd Mini Album ’Going Seventeen’](https://open.spotify.com/album/3wXGFboFgcK9ezbPuSrKk9) | 3:26 | 2022-05-27 |  |
 | [BRING IT](https://open.spotify.com/track/047A83COIzAFLcZKLz20MP) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 2ND ALBUM 'TEEN, AGE'](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:31 | 2022-05-27 |  |
-| [CALL CALL CALL!](https://open.spotify.com/track/28teoB4Tqk3Oh3YrLnM4uh) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [WE MAKE YOU](https://open.spotify.com/album/3Rbfzy3NnA4k4zchrKla4v) | 3:19 | 2022-05-27 |  |
+| [CALL CALL CALL!](https://open.spotify.com/track/28teoB4Tqk3Oh3YrLnM4uh) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [WE MAKE YOU](https://open.spotify.com/album/3Rbfzy3NnA4k4zchrKla4v) | 0:29 | 2022-05-27 |  |
 | [CHANGE UP](https://open.spotify.com/track/6j6wUN8whCYTwxCg9R240U) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 2ND ALBUM 'TEEN, AGE'](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:07 | 2022-05-27 |  |
 | [Chilli](https://open.spotify.com/track/3uu2pifU1Cpc1U61XgaT8g) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 6TH MINI ALBUM 'YOU MADE MY DAWN'](https://open.spotify.com/album/1Or4crj0DlitdTRp36TjnT) | 3:03 | 2022-05-27 |  |
 | [Chocolate](https://open.spotify.com/track/7rV15Xh25w9pPG85z8i8l6) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw), [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Chocolate \(From Monthly Project 2016 February Yoon Jong Shin\)](https://open.spotify.com/album/5RXIdbtLV1Gpy2PHbV8CXk) | 4:32 | 2022-05-27 |  |
@@ -105,7 +105,7 @@
 | [PANG!](https://open.spotify.com/track/1ZpiUfzl9P0pMkA03xqmUy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 2:58 | 2022-05-27 |  |
 | [Pinwheel](https://open.spotify.com/track/2NvrIHgujKttUQyx2uUMY9) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 2ND ALBUM 'TEEN, AGE'](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:39 | 2022-05-27 |  |
 | [Pretty U](https://open.spotify.com/track/1117juaaAkSIUsQxTmmcKM) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [FIRST 'LOVE&LETTER'](https://open.spotify.com/album/50BrkBakrLWufmTLjCVBwn) | 3:27 | 2022-05-27 |  |
-| [Q&A](https://open.spotify.com/track/1pHCzbRvRFg59Kvc7WHckN) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Q&A](https://open.spotify.com/album/4qpCDSbJiez1wPcplEv2ET) | 3:40 | 2022-05-27 |  |
+| [Q&A](https://open.spotify.com/track/1pHCzbRvRFg59Kvc7WHckN) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Q&A](https://open.spotify.com/album/4qpCDSbJiez1wPcplEv2ET) | 0:29 | 2022-05-27 |  |
 | [Ready to love](https://open.spotify.com/track/2FymmKBuog0loCuNXMwQID) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 8th Mini Album 'Your Choice'](https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc) | 3:06 | 2022-05-27 |  |
 | [Rock](https://open.spotify.com/track/17MlnACcP3VDE7xHMaToGF) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 2nd Mini Album 'Boys Be'](https://open.spotify.com/album/18aXrsD7zdPD6NSIfdwExD) | 3:11 | 2022-05-27 |  |
 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 | 2022-05-27 |  |

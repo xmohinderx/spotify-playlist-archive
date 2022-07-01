@@ -4,7 +4,7 @@
 
 > 
 
-49 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/1MjE13kc60EnOngrO2VUiK)
+49 songs - 3 hr 10 min - [published](https://open.spotify.com/playlist/1MjE13kc60EnOngrO2VUiK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [If I Ain't Got You](https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 3:48 | 2013-06-26 |  |
 | [It's My Life](https://open.spotify.com/track/19EQUqnUXEeiBrY10JhPEF) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [The Singles Collection](https://open.spotify.com/album/5UboUMYc2I41ROlQrY1Qcb) | 3:45 | 2013-06-26 |  |
 | [Jesus Walks](https://open.spotify.com/track/79ek2oolIYyGUO4aVK5IY2) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The College Dropout \(Explicit\)](https://open.spotify.com/album/1NRRN5RWwfuLmQdjshz0L7) | 3:13 | 2013-06-26 |  |
-| [Lean Back](https://open.spotify.com/track/6H7w7e8zC8QYJyqe7fZHVa) | [Terror Squad](https://open.spotify.com/artist/2BvzbqWWwLN11XGBYgDZzx) | [True Story](https://open.spotify.com/album/08eiFlUJxBR5wQy7k2cUBk) | 4:07 | 2013-06-26 |  |
+| [Lean Back](https://open.spotify.com/track/6H7w7e8zC8QYJyqe7fZHVa) | [Terror Squad](https://open.spotify.com/artist/2BvzbqWWwLN11XGBYgDZzx) | [True Story](https://open.spotify.com/album/08eiFlUJxBR5wQy7k2cUBk) | 0:29 | 2013-06-26 |  |
 | [Leave \(Get Out\)](https://open.spotify.com/track/6nnq5ztdhqwgqdVWRotJon) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [JoJo](https://open.spotify.com/album/2lsjps4t4rUqisyI7v1Q4S) | 4:01 | 2013-06-26 |  |
 | [Locked Up](https://open.spotify.com/track/46txlkRpOA5RRkytXVSUwn) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble](https://open.spotify.com/album/6xiTv7aaHhJZxB97XcGOsr) | 3:55 | 2013-06-26 |  |
 | [Me, Myself and I](https://open.spotify.com/track/3pxJuMLjNPtiC0fX8EHFlF) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/06v9eHnqhMK2tbM2Iz3p0Y) | 5:01 | 2013-06-26 |  |

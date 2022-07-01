@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NpTNK48oe2.md) - [plain]
 
 > Hasta allá donde tú te encuentres te ha de llegar mi olvido.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,386 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,417 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NpTNK48oe2.md) - [plain]
 | 36 | [Te Acuerdas? Popurrí: Te Dedico Esta Canción/Costumbres/La Más Querida/No Me Vuelvo a Enamorar/Fue un Placer Conocerte/He Venido a Pedirte Perdón](https://open.spotify.com/track/5Q2QKpi3rMP2Dlteq9aMGU) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel Con Banda..\. El Recodo](https://open.spotify.com/album/3noaO4I0Z1RCHltgBtmabl) | 5:54 |
 | 37 | [Te Llegará Mi Olvido](https://open.spotify.com/track/6UJAHl1NDh8Nroa27mIKDZ) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Te Llegará Mi Olvido](https://open.spotify.com/album/1wPQmJqHHgHe8dTuP1yTAQ) | 2:16 |
 | 38 | [Te Sigo Amando](https://open.spotify.com/track/3Bn5su26JosHjkbIrxgz0j) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Ella](https://open.spotify.com/album/0BAsKASCKXy1Gi7hdGNXIX) | 2:45 |
-| 39 | [Tu Abandono](https://open.spotify.com/track/2fdWAsOrZDwNhAk7CA67Fb) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [10 De Los Grandes De Juan Gabriel](https://open.spotify.com/album/4pTqllwyGiIb7kD9Jvg6EP) | 1:50 |
+| 39 | [Tu Abandono](https://open.spotify.com/track/2fdWAsOrZDwNhAk7CA67Fb) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [10 De Los Grandes De Juan Gabriel](https://open.spotify.com/album/4pTqllwyGiIb7kD9Jvg6EP) | 0:29 |
 | 40 | [Mi Más Bello Error](https://open.spotify.com/track/3VHFJxC16uBgLDrkRsaK2a) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel](https://open.spotify.com/album/43k4po9vUTVv54kNCBXWcT) | 3:28 |
 | 41 | [Te Vas A Quedar Con Las Ganas](https://open.spotify.com/track/6IjQk0AgIBie621VHdrwnM) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel](https://open.spotify.com/album/43k4po9vUTVv54kNCBXWcT) | 3:32 |
 | 42 | [Huerfano Soy](https://open.spotify.com/track/6swi26ZTLJQ00DTuRDZwh0) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel Con Banda..\. El Recodo](https://open.spotify.com/album/3noaO4I0Z1RCHltgBtmabl) | 2:51 |

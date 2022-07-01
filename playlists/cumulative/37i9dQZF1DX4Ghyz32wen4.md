@@ -4,7 +4,7 @@
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Foto: Paulo Londra
 
-70 songs - 3 hr 52 min - [published](https://open.spotify.com/playlist/7tURDhchLm4ApuqHMwUzSU)
+70 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/7tURDhchLm4ApuqHMwUzSU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [No Fui Capaz](https://open.spotify.com/track/1AVypZ5M1qJGeWQN5uoSfQ) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [No Fui Capaz](https://open.spotify.com/album/2CifF4Nqm1rpv6i3sNxFba) | 3:33 | 2022-04-25 |  |
 | [No Inventes](https://open.spotify.com/track/2AU1zlNbI0GcxeWPG04eLU) | [Peps Milflores](https://open.spotify.com/artist/4L5GEUMr41snQ1eTlbLNwo), [Geovanni Leon](https://open.spotify.com/artist/0XvbQt3qMLLJw8jDES1x9D), [Jizz](https://open.spotify.com/artist/74VBh3o2WAWbQjsQrle0Ab) | [Lealtad](https://open.spotify.com/album/5jwMSAfyCpV5sNkp7eXPnb) | 3:16 | 2022-04-25 |  |
 | [No Sabe Igual](https://open.spotify.com/track/6EOtXcUQza8Ct4R2gyLWFl) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [No Sabe Igual](https://open.spotify.com/album/4hU6NEWq45slvWt16hEgX3) | 2:16 | 2022-04-25 |  |
-| [Notificación](https://open.spotify.com/track/62SKI7ByCAOwSbuUa7B0A5) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d), [Nana Bersa](https://open.spotify.com/artist/7IzUZBSNYIuW7R5neM3AVq) | [Notificación](https://open.spotify.com/album/6mZCJgPgr9WytD7jrl56nB) | 3:42 | 2022-04-25 |  |
+| [Notificación](https://open.spotify.com/track/62SKI7ByCAOwSbuUa7B0A5) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d), [Nana Bersa](https://open.spotify.com/artist/7IzUZBSNYIuW7R5neM3AVq) | [Notificación](https://open.spotify.com/album/6mZCJgPgr9WytD7jrl56nB) | 0:29 | 2022-04-25 |  |
 | [NOW](https://open.spotify.com/track/5gJuYaon5zaZahQyAd0LVx) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [NOW](https://open.spotify.com/album/5uLwxrxExey2DMjxYTEnMC) | 3:12 | 2022-04-25 |  |
 | [Otra Cosa](https://open.spotify.com/track/6x9R4S1aazZdd40qO4PMFa) | [Jona Camacho](https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP), [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [Otra Cosa](https://open.spotify.com/album/2eSm1XW0wbnObahsf5Dtr1) | 3:12 | 2022-04-25 |  |
 | [Para Qué Regresas](https://open.spotify.com/track/29R2zvgyIWqAerVBq1JWsl) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Para Qué Regresas](https://open.spotify.com/album/6NBM3RbIBcoezqh5A4hev8) | 2:28 | 2022-04-25 |  |

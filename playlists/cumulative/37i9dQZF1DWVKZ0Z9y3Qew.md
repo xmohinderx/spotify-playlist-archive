@@ -4,7 +4,7 @@
 
 > Pacific Northwest music breaking waves\. Cover, Umi
 
-162 songs - 7 hr 33 min - [published](https://open.spotify.com/playlist/7rrnuxThUr8V2Q5Pzc1Cr6)
+162 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/7rrnuxThUr8V2Q5Pzc1Cr6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [My woah](https://open.spotify.com/track/2z6M2SBWc10nDLDBwgC6QV) | [Mr\. Nicenice](https://open.spotify.com/artist/48AUU9vzI5JFzr6vVL1P9v) | [My woah](https://open.spotify.com/album/3SCIBaQk0NzyppwAAvzLbs) | 2:30 | 2022-05-27 |  |
 | [Needed You](https://open.spotify.com/track/1Qn8mMhoTxM5hPM1mukzZq) | [Lewie](https://open.spotify.com/artist/7tvCXmeh7MlNtmfKMN2H8Q) | [Needed You](https://open.spotify.com/album/45qbJexoJLTfErZgylADx7) | 2:08 | 2022-05-13 |  |
 | [NEW DRANK](https://open.spotify.com/track/5zIEWkDZxu8cqzBKJ5g7eB) | [Max Marz](https://open.spotify.com/artist/4fKDnAyOiVw2oKUD82Cqjb) | [MADNESS!](https://open.spotify.com/album/6P0uP0GND1Ww4fIzLZ2J8i) | 1:22 | 2022-04-02 |  |
-| [NINETY THREE](https://open.spotify.com/track/2Zu9OdTLET13gLeuggdJtL) | [Taylar Elizza Beth](https://open.spotify.com/artist/0XE4mkNAnSI2molchwNfGQ), [WD4D](https://open.spotify.com/artist/53QqYQtqceXhifEin57aM3) | [NINETY THREE](https://open.spotify.com/album/0YtHZWV4FiEUYC1nZxPH9H) | 2:56 | 2022-04-02 |  |
+| [NINETY THREE](https://open.spotify.com/track/2Zu9OdTLET13gLeuggdJtL) | [Taylar Elizza Beth](https://open.spotify.com/artist/0XE4mkNAnSI2molchwNfGQ), [WD4D](https://open.spotify.com/artist/53QqYQtqceXhifEin57aM3) | [NINETY THREE](https://open.spotify.com/album/0YtHZWV4FiEUYC1nZxPH9H) | 0:29 | 2022-04-02 |  |
 | [No Hook](https://open.spotify.com/track/0JZVhTaxhMQkLNlWHN3esU) | [Keezy Kay](https://open.spotify.com/artist/0BxreeuwIADVriLOyYSxBK) | [Enigma](https://open.spotify.com/album/1Zm3t2Fb7DvhgPORFKVaAe) | 2:55 | 2022-05-27 |  |
 | [No Rhythm](https://open.spotify.com/track/6rVx734V2JbkbTmu4pAJs2) | [MikeJack3200](https://open.spotify.com/artist/1DsOlo169ovaAx19956vOb), [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [No Rhythm](https://open.spotify.com/album/2XH1Y9HQthd1USkXAzQ1Xm) | 2:58 | 2022-02-18 | 2022-03-18 |
 | [Noose!](https://open.spotify.com/track/2euhTNe39KrprZFUqPw768) | [MADEFRMPAIN](https://open.spotify.com/artist/5jyEanHTRpRXfblXelhlZU), [Jango](https://open.spotify.com/artist/5sB5Fubu4hC9D8NOlTuqJ6), [LVFFY](https://open.spotify.com/artist/00VeieEaWyoeR6qtsqL5kw), [Mykal Gannon](https://open.spotify.com/artist/0vxe2Pt6DycSTbdGWLrpy8) | [Noose!](https://open.spotify.com/album/6tyP4E9ZcSD4MRghxfNRCH) | 3:19 | 2022-03-18 | 2022-04-02 |

@@ -4,7 +4,7 @@
 
 > Reggae music for dogs that know what’s up.
 
-52 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/2Fuyw5LCFsf6fNCZdyK7YB)
+52 songs - 3 hr 6 min - [published](https://open.spotify.com/playlist/2Fuyw5LCFsf6fNCZdyK7YB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,8 +27,8 @@
 | [Kingston Town](https://open.spotify.com/track/2OHQhOiGIYaXqqJVIMpNrF) | [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Soul Pirate](https://open.spotify.com/album/3hhWPRjFBsNYm3v3nbOqQC) | 3:12 | 2020-01-10 |  |
 | [Life](https://open.spotify.com/track/2OW7O0i5KH33BUiDod0gve) | [Bob Andy](https://open.spotify.com/artist/6GFAZnwXhNER0WS76WMpS4) | [Pied Piper \- The Best of Bob & Marcia](https://open.spotify.com/album/0G2bhhYFafOJExUbKOVcsA) | 3:42 | 2020-01-10 |  |
 | [Lights Out](https://open.spotify.com/track/07kZfWFKcU7spoxuTEudtS) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [Reggae Gold 2019](https://open.spotify.com/album/5cfZ5mWTwZwyzSSgDeiFN6) | 3:23 | 2020-01-10 |  |
-| [Living It Up](https://open.spotify.com/track/6JKDAb81DiChlgYbTAuYNe) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Living It Up](https://open.spotify.com/album/4OavmBCfycKnIYUiZv7fPk) | 4:00 | 2020-01-10 |  |
-| [Love And Affection](https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u) | [Pressure](https://open.spotify.com/artist/009IKtLg2rg2QMbvNtWaoh) | [Reggae Gold 2007](https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X) | 4:18 | 2020-01-10 |  |
+| [Living It Up](https://open.spotify.com/track/6JKDAb81DiChlgYbTAuYNe) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Living It Up](https://open.spotify.com/album/4OavmBCfycKnIYUiZv7fPk) | 0:29 | 2020-01-10 |  |
+| [Love And Affection](https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u) | [Pressure](https://open.spotify.com/artist/009IKtLg2rg2QMbvNtWaoh) | [Reggae Gold 2007](https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X) | 0:29 | 2020-01-10 |  |
 | [Love and Inity](https://open.spotify.com/track/1SPQH6bVjEUluloWGjWGzw) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Mr\. Marley](https://open.spotify.com/album/53OvQ2dHF8oZh5L23oODgP) | 4:02 | 2020-01-10 |  |
 | [Love Overdue](https://open.spotify.com/track/0ClaCaTK8BdOSsP4FZbkio) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Love Overdue](https://open.spotify.com/album/4Gf8tEQ1cRQq9qnErm0TfA) | 3:27 | 2020-01-10 |  |
 | [Loving You In Dub](https://open.spotify.com/track/7GrE7TxZgCqYL2jSAiia5h) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm), [Da'ville](https://open.spotify.com/artist/4kV9mrNI60H24Jj55wjKfw) | [Etana In Dub](https://open.spotify.com/album/564Zk4j8ByOPGLrYN266ag) | 3:59 | 2020-01-10 |  |

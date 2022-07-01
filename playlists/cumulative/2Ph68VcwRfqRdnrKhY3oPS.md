@@ -4,7 +4,7 @@
 
 > A charming musical touch to the most significant moment in your life.
 
-62 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/4DqjqL6QPrEIXrZLQSjdhH)
+62 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/4DqjqL6QPrEIXrZLQSjdhH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Fools For Each Other](https://open.spotify.com/track/78cFP4KrcUeEx06XI5y0UX) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [The Platinum Collection](https://open.spotify.com/album/3CMo0YXSLogLdDNduUDFw9) | 4:17 | 2014-03-04 |  |
 | [From This Moment On](https://open.spotify.com/track/7aDcS8ufyLrf6IqTloqfI1) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [Bryan White](https://open.spotify.com/artist/45kyLFJs5SIEqyzfVopuSc) | [Come On Over](https://open.spotify.com/album/5Ji9gLL9thCA79usDNBi7M) | 4:41 | 2014-03-04 |  |
 | [God Gave Me You](https://open.spotify.com/track/0w9LJae3sVlZlH2CnxTInF) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Red River Blue \(Deluxe Edition\)](https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ) | 3:49 | 2014-03-04 |  |
-| [Heartbeats](https://open.spotify.com/track/7BzhqmRj3iOZXqMHqiifHr) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Imperial Recordings Best Of](https://open.spotify.com/album/6v5e6P19VdYAy73GGjRDBV) | 2:40 | 2014-03-04 |  |
+| [Heartbeats](https://open.spotify.com/track/7BzhqmRj3iOZXqMHqiifHr) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Imperial Recordings Best Of](https://open.spotify.com/album/6v5e6P19VdYAy73GGjRDBV) | 0:29 | 2014-03-04 |  |
 | [History In The Making](https://open.spotify.com/track/1J4HTEFSDx9DWyJVH5uv1b) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Learn To Live](https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK) | 3:29 | 2014-03-04 |  |
 | [How Do I Live](https://open.spotify.com/track/5VJlvaPufnazmTvt2sHQqc) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Greatest Hits](https://open.spotify.com/album/6mcwghwWeSp1Ol1IpsYDOM) | 4:26 | 2014-03-04 |  |
 | [I Cross My Heart](https://open.spotify.com/track/0nzAL0VNodLMlIh0Yl3eSN) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Best Of \(Deluxe Edition\)](https://open.spotify.com/album/2syxP3j7sO6A5NiRPt37H3) | 3:29 | 2014-03-04 |  |
@@ -44,7 +44,7 @@
 | [Me and You](https://open.spotify.com/track/2n8feXSostJLdPSgNuWalW) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Me And You](https://open.spotify.com/album/5aG9PNqK9jLLJoehlNXlwW) | 3:40 | 2014-03-04 |  |
 | [My Best Friend](https://open.spotify.com/track/0TITWbP9cAwrMhOAVFPSSV) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Number One Hits](https://open.spotify.com/album/2H2XBOxn7GzKRcXpeYKUIn) | 4:39 | 2014-03-04 |  |
 | [Never Alone](https://open.spotify.com/track/1Htslsoir8CIhBAp715vxm) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P), [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Never Alone](https://open.spotify.com/album/1NM3K3fcIrt6xIgE9CXcaS) | 3:41 | 2014-03-04 |  |
-| [Only Love](https://open.spotify.com/track/0gU7XaWTFbfWt3ZxUT4nmI) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Aimless Love](https://open.spotify.com/album/3rnk4AHvr43nlyJY42iQM8) | 3:29 | 2014-03-04 |  |
+| [Only Love](https://open.spotify.com/track/0gU7XaWTFbfWt3ZxUT4nmI) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Aimless Love](https://open.spotify.com/album/3rnk4AHvr43nlyJY42iQM8) | 0:29 | 2014-03-04 |  |
 | [Only Time](https://open.spotify.com/track/0prw5XSbHLmKsctDEdeBuA) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [Only Time](https://open.spotify.com/album/0c4CTDOVv8MAU2T2znmhra) | 3:37 | 2014-03-04 |  |
 | [She Is My Everything](https://open.spotify.com/track/3yJGIhIzntrjL1kSVXQuVl) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Fair & Square](https://open.spotify.com/album/2wNjUecPR5b9xPVKKq5a9i) | 4:25 | 2014-03-04 |  |
 | [She's Everything](https://open.spotify.com/track/3dAgQFdruU8ufWc5GE05xC) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Time Well Wasted](https://open.spotify.com/album/32LSfRBN2QI84fkkVX0edr) | 4:26 | 2014-03-04 |  |
@@ -53,7 +53,7 @@
 | [The Keeper Of The Stars](https://open.spotify.com/track/5WEK4szbQp9c7ZK6LkYd9k) | [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [No Ordinary Man](https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu) | 4:07 | 2014-03-04 |  |
 | [The Love In Your Eyes](https://open.spotify.com/track/3USxMmW6gDVAQvixssJyTc) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [20th Century Masters: The Millennium Collection: Best Of George Jones](https://open.spotify.com/album/495RJcXuyz2LErGY7KKurF) | 3:52 | 2014-03-04 |  |
 | [The Way I Am](https://open.spotify.com/track/2ZNJ9WW2gJpk7yxEI5knSA) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Girls and Boys](https://open.spotify.com/album/1tSCn4jEgNWSDxf9c3pQ2c) | 2:15 | 2014-03-04 |  |
-| [The Woman with You](https://open.spotify.com/track/38svIEZx14taLmeQQfMFDv) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [When The Sun Goes Down \(Deluxe Version\)](https://open.spotify.com/album/5xpXkqZo7ljnrvWSMpxxOn) | 4:30 | 2014-03-04 |  |
+| [The Woman with You](https://open.spotify.com/track/38svIEZx14taLmeQQfMFDv) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [When The Sun Goes Down \(Deluxe Version\)](https://open.spotify.com/album/5xpXkqZo7ljnrvWSMpxxOn) | 0:29 | 2014-03-04 |  |
 | [Then](https://open.spotify.com/track/3XKbdb9GB6u3hsnUklQTav) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [American Saturday Night](https://open.spotify.com/album/0GCQzPEkcFv8bR90sJf41x) | 5:21 | 2014-03-04 |  |
 | [There You'll Be \- 2007 Remaster](https://open.spotify.com/track/1s2khOWzC99udpUaPICLJI) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [The Hits](https://open.spotify.com/album/7fvl3dOnDrv9rq5IBmLbAa) | 3:40 | 2014-03-04 |  |
 | [Til Kingdom Come](https://open.spotify.com/track/1wQXj5bgxyZQ2XmE2X9s6n) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:10 | 2014-03-04 |  |
@@ -68,7 +68,7 @@
 | [You & Me](https://open.spotify.com/track/1qHXpsRP2gwteJCPUrc9wA) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Big Whiskey and the GrooGrux King](https://open.spotify.com/album/0rbGx96lGWaTAPgd1a9fWR) | 5:40 | 2014-03-04 |  |
 | [You Had Me from Hello](https://open.spotify.com/track/4jQvuRdc8l5M5nmbQlusa0) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Greatest Hits](https://open.spotify.com/album/7hBQCzlr7jYkwvwBiLIDSp) | 3:50 | 2014-03-04 |  |
 | [You Save Me](https://open.spotify.com/track/0UgHkodbptL6XQBfT5HOK1) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [The Road And The Radio](https://open.spotify.com/album/5uMLCobPh02IG3fyH0Dzec) | 3:55 | 2014-03-04 |  |
-| [You Won't Ever Be Lonely](https://open.spotify.com/track/0wfr8FjpLXIO1YjqEyVCg5) | [Andy Griggs](https://open.spotify.com/artist/7CyJIUpcWZK2zFM6gKLKvD) | [You Won' t Ever Be Lonely](https://open.spotify.com/album/3CTLrEYxd3j14KtSWvp3RQ) | 3:30 | 2014-03-04 |  |
+| [You Won't Ever Be Lonely](https://open.spotify.com/track/0wfr8FjpLXIO1YjqEyVCg5) | [Andy Griggs](https://open.spotify.com/artist/7CyJIUpcWZK2zFM6gKLKvD) | [You Won' t Ever Be Lonely](https://open.spotify.com/album/3CTLrEYxd3j14KtSWvp3RQ) | 0:29 | 2014-03-04 |  |
 | [You're My Better Half](https://open.spotify.com/track/06ySRvEnrUxZZ9ml3VO2TY) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greatest Hits](https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK) | 3:59 | 2014-03-04 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

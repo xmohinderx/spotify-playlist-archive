@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LrQBSMX6aK.md) - [plain]
 
 > Classical compositions from Ravi Shankar and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,334 likes - 50 songs - 13 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,356 likes - 50 songs - 12 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LrQBSMX6aK.md) - [plain]
 | 25 | [Rag Hussaini Kanra](https://open.spotify.com/track/4Dzq2WpTelyXINu0EpUMzn) | [Pandit Jasraj](https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0), [Swapan Chaudhuri](https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT) | [Pandit Jasraj \- Vocal](https://open.spotify.com/album/4Nr3N7QxTWcpuAopdM2xwh) | 44:28 |
 | 26 | [Thunbam Nergayil](https://open.spotify.com/track/10G3lz19WDI0NZgXBniZZo) | [Bombay Jayashri](https://open.spotify.com/artist/5OTt6O4Q22YsqZDaWV6FqC) | [Bramhananadam](https://open.spotify.com/album/5jExejZsjI5bMUaXLvpgeJ) | 8:05 |
 | 27 | [Chandrakaush Alap](https://open.spotify.com/track/4hrp2BLqRV6XO2oOp5IVeY) | [Nikhil Banerjee](https://open.spotify.com/artist/7ieM2QOG3mf89WSTAfGvu1) | [Chandrakaush Khamaj 1967](https://open.spotify.com/album/4fY7XyZhcMPXyqXo5FOkh7) | 20:24 |
-| 28 | [Raga Kamod \- Madhalaya Deepchandi Taal](https://open.spotify.com/track/1lNbSKhPB1vD1MfM8SwpFY) | [Rajan Mishra](https://open.spotify.com/artist/5ctgUVR3rh12mXvFckKVp9), [Sajan Mishra](https://open.spotify.com/artist/4s03GMsBoEBO7LnPhawd9p) | [Ahead of Time](https://open.spotify.com/album/3laPhQ11JQ7pU2gmn2WGt5) | 15:31 |
+| 28 | [Raga Kamod \- Madhalaya Deepchandi Taal](https://open.spotify.com/track/1lNbSKhPB1vD1MfM8SwpFY) | [Rajan Mishra](https://open.spotify.com/artist/5ctgUVR3rh12mXvFckKVp9), [Sajan Mishra](https://open.spotify.com/artist/4s03GMsBoEBO7LnPhawd9p) | [Ahead of Time](https://open.spotify.com/album/3laPhQ11JQ7pU2gmn2WGt5) | 0:29 |
 | 29 | [Enduku Peddalavale Shankarabharanam Adi](https://open.spotify.com/track/0hOORzZm7ol1HDVxflkySj) | [T\. M\. Krishna](https://open.spotify.com/artist/46SVKeOGxlqIAzE0BKXQWM) | [Ekanta: T\. M\. Krishna](https://open.spotify.com/album/7bkAVhQMLs1geCqrQj4Vmo) | 22:34 |
 | 30 | [Dhun in Raga Mishra Pilu](https://open.spotify.com/track/0Ft7ehrvzxaSx4Z7TYz9CU) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Fazal Qureshi](https://open.spotify.com/artist/4pM7882XwZYuY67tfYztMS), [Rajiv Chaurasia](https://open.spotify.com/artist/2EqW2WtNgugbWtlMqyphd3), [Nandu Kamat](https://open.spotify.com/artist/0gfpwV8BF3XiMtbWgH1AKO) | [Raga Darbari Kannada & Dhun in Rag Mishra Pilu](https://open.spotify.com/album/2tIWCH1Sx2Lxk6C8Rk1qS9) | 15:09 |
 | 31 | [Talam: Mahalakshmi Tala \- 9 1/2 Beats \- Pancha Nadai Pallavi \(Ragam Tanam Pallavi\)](https://open.spotify.com/track/5b7IIUpOXAEemY8vs2vBlE) | [L\. Shankar](https://open.spotify.com/artist/5X75aYCKG5hS5yONW4IPRr), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6), [T.H\. Vinayakram](https://open.spotify.com/artist/6kF3zpdpcHSckhA72oPCGd), [Caroline](https://open.spotify.com/artist/6AzTL1nWrksi2yfFMM6bAn) | [Pancha Nadai Pallavi](https://open.spotify.com/album/4PIGHrAEFWv6RG5ywsX96p) | 31:15 |

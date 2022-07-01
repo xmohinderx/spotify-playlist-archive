@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKm45BTdcDy.md) - [plain]
 
 > Check out these young 'uns singing your favorite country tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,251 likes - 46 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,253 likes - 46 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Growing Up](https://open.spotify.com/track/2qLlnVfkyIMtkViemtRtYb) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Growing Up](https://open.spotify.com/album/56Y7sj73J1tdMkXgRPSaMX) | 3:34 |
+| 1 | [Growing Up](https://open.spotify.com/track/2qLlnVfkyIMtkViemtRtYb) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Growing Up](https://open.spotify.com/album/56Y7sj73J1tdMkXgRPSaMX) | 0:29 |
 | 2 | [Jesus Take The Wheel](https://open.spotify.com/track/0gfgzAMjCwAXQEiOM453w3) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Country](https://open.spotify.com/album/7hWtJpqG1iPZZZS0pwHkRD) | 3:42 |
 | 3 | [It’s ‘Cause I Am](https://open.spotify.com/track/7JjymfuNMxQgOQJ4mGOdbg) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Real To Me](https://open.spotify.com/album/5DyBJlrOGNzxvGPkKAS8b4) | 2:46 |
 | 4 | [I Don't Know What Is](https://open.spotify.com/track/3BklUBGO6YzQTPBTetGvrb) | [Tegan Marie](https://open.spotify.com/artist/3Hb3tbO5BuOLQF6ehZvt4P) | [I Don't Know What Is](https://open.spotify.com/album/71I2oRpDOFdoLDyopWPC7L) | 3:32 |

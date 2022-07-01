@@ -4,7 +4,7 @@
 
 > Le meilleur du hip\-hop québécois en 2021: les choix de notre équipe éditoriale. Photo: Lost
 
-50 songs - 2 hr 39 min - [published](https://open.spotify.com/playlist/0coijtqe33Y0PEyuzfRFFn)
+50 songs - 2 hr 36 min - [published](https://open.spotify.com/playlist/0coijtqe33Y0PEyuzfRFFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Devil May Cry](https://open.spotify.com/track/3iw9cmv0VuAhwLI9HPkcx6) | [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc), [Alpha Wann](https://open.spotify.com/artist/7yeFMUrYTY5cAZx0GKXnti) | [Carnaval de Finesse 2 : Les Chroniques d'un Jeune Entrepreneur](https://open.spotify.com/album/6XHp29DWqSqCS2UIZislPO) | 2:42 | 2021-12-07 |  |
 | [Dollars Canadiens](https://open.spotify.com/track/5wARoeQdrxp8lnJ6AzBTY0) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [LOSTALGIK \(2LUXE\)](https://open.spotify.com/album/1hCxmaFKOjRfj0dGieA2IK) | 2:37 | 2021-12-07 |  |
 | [Double vision](https://open.spotify.com/track/5b8ejMaA6qpep9IdAS2EKe) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Double vision](https://open.spotify.com/album/2gSKjDu2BgrXnrcKryoz1o) | 2:48 | 2021-12-07 |  |
-| [Drug Factory](https://open.spotify.com/track/25cwy0Ze40gkeX7y2xUEPC) | [YH](https://open.spotify.com/artist/3js5jvTuoFgetWV7s8EVT5) | [Phenomeno](https://open.spotify.com/album/4SsBxJSyfnuFY7J5uJWePw) | 3:28 | 2021-12-07 |  |
+| [Drug Factory](https://open.spotify.com/track/25cwy0Ze40gkeX7y2xUEPC) | [YH](https://open.spotify.com/artist/3js5jvTuoFgetWV7s8EVT5) | [Phenomeno](https://open.spotify.com/album/4SsBxJSyfnuFY7J5uJWePw) | 0:29 | 2021-12-07 |  |
 | [Enquête Préliminaire](https://open.spotify.com/track/6hsCe1aeXX2ewBnibLrkcO) | [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [Enquête Balistique](https://open.spotify.com/album/3HnBansKikHJY2g6OkJ3Yx) | 2:14 | 2021-12-07 |  |
 | [Fast Noodle](https://open.spotify.com/track/6mxKvveVPbQCg7qK9G1Nr1) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2) | [Fast Noodle](https://open.spotify.com/album/58IhGetIkd71ESIMd8V8uV) | 2:45 | 2021-12-07 |  |
 | [G.O.A.T.S.](https://open.spotify.com/track/11ZF1nEGhkEkqSXQV8fdum) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o), [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Couleurs primaires](https://open.spotify.com/album/1WVNY4GQrxTg3ckth2BpKT) | 4:07 | 2021-12-07 |  |

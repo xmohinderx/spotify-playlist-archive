@@ -4,7 +4,7 @@
 
 > New R&B/Soul from independent artists & labels every Wednesday\. Cover: Reggie Becton
 
-518 songs - 1 day 3 hr 32 min - [published](https://open.spotify.com/playlist/1joOFBFfrfPA6SUyTqQm6o)
+518 songs - 1 day 3 hr 23 min - [published](https://open.spotify.com/playlist/1joOFBFfrfPA6SUyTqQm6o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Are We OK?](https://open.spotify.com/track/7EvR8W21LfjtKM4GTZEqbd) | [Vicky Farewell](https://open.spotify.com/artist/6LpKqwp5tMWhUS3Cosbwb4) | [Are We OK?](https://open.spotify.com/album/5ACwMaN5xjOaUfSWY0deG2) | 3:34 | 2022-01-26 | 2022-03-17 |
 | [b r e a t h e](https://open.spotify.com/track/7tImEdPjymnkct5JuBeKHc) | [c i r u](https://open.spotify.com/artist/3QbGzV6Q0FWM2QOYGXWzlu), [T££KAY](https://open.spotify.com/artist/20kYuYDnROwFgsEqncI37Q) | [b r e a t h e](https://open.spotify.com/album/3SbFrYQ14SZoge8uiHTQP3) | 2:59 | 2022-02-02 | 2022-03-31 |
 | [B.N.D](https://open.spotify.com/track/2WJqKEJ5TGjK2DojGrRo9K) | [Thaïs Lona](https://open.spotify.com/artist/4p4EZdDlVzZsBwyt8NfX9S) | [CUBE](https://open.spotify.com/album/7g8SnE1LmkwBtOaDXpFV3E) | 4:17 | 2022-05-26 |  |
-| [Baby Mother](https://open.spotify.com/track/6ORFADv7mmOJ0Ko2VcfD1F) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [Stuart Brignell](https://open.spotify.com/artist/4EWsTyHQ5GG3EoffwiXiRd) | [Baby Mother](https://open.spotify.com/album/7ayBY19uK7nYo1I8p3TFW0) | 4:35 | 2022-05-11 |  |
+| [Baby Mother](https://open.spotify.com/track/6ORFADv7mmOJ0Ko2VcfD1F) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [Stuart Brignell](https://open.spotify.com/artist/4EWsTyHQ5GG3EoffwiXiRd) | [Baby Mother](https://open.spotify.com/album/7ayBY19uK7nYo1I8p3TFW0) | 0:29 | 2022-05-11 |  |
 | [Babymama](https://open.spotify.com/track/0K0HrU0HtABBttPYv2h6xV) | [Jeunesaint](https://open.spotify.com/artist/7cVhbi4q498qnpR64Cwr2y) | [Babymama](https://open.spotify.com/album/6k1Up8kX5trQNVIyDkN7j5) | 3:24 | 2022-02-16 | 2022-03-12 |
 | [Bach To The Future](https://open.spotify.com/track/0CTa7Tzm3xKUtirAV2AOAR) | [Kyla Charter](https://open.spotify.com/artist/7wzZ8mQWZVqlMRVoctu4Z9) | [Bach To The Future](https://open.spotify.com/album/07yiAwV5iuadm9PdRv44sw) | 2:41 | 2022-04-13 | 2022-05-21 |
 | [Backseat](https://open.spotify.com/track/4lrBaqy14ETjGPLa4As2eU) | [Paradi$e](https://open.spotify.com/artist/2tm8nTANMwZuGECwgumqc5) | [Backseat](https://open.spotify.com/album/5wDDGpCtTKSpskfGvHcyfN) | 2:40 | 2022-03-30 | 2022-05-19 |
@@ -88,7 +88,7 @@
 | [call me](https://open.spotify.com/track/08LM7R14M7xXvi7KJcF3WS) | [Tatianna Maenza](https://open.spotify.com/artist/66yAasJrE9lxWvbqIXDF3K) | [call me](https://open.spotify.com/album/6uUlEbUkTNxw324AZBhIbB) | 3:13 | 2022-02-23 | 2022-03-24 |
 | [Call On Me](https://open.spotify.com/track/1m8aLC8QjGPK4ZZPraw7BE) | [Lehla Samia](https://open.spotify.com/artist/2zccufvTKHx7wnPhVxxweb) | [Call On Me](https://open.spotify.com/album/0lBeSg0kqvdbMpEgVhjI83) | 2:15 | 2022-05-04 |  |
 | [Can We](https://open.spotify.com/track/3KnP27rDPSD6dJGmelSTGL) | [Tianie](https://open.spotify.com/artist/1QZOwd2hrrcrl8BV7l3LCt), [Rosehardt](https://open.spotify.com/artist/4r6z3Bx1rDiuqkyKGXGvSN) | [Can We](https://open.spotify.com/album/2GUOej8Wpn6rtyGhOG7FFw) | 2:54 | 2021-12-01 | 2022-01-13 |
-| [Can't Help Myself](https://open.spotify.com/track/6QlWVgJiRRC6IbaW6TSmwB) | [Eric Zayne](https://open.spotify.com/artist/5HMNsIi6AQplZELW9jeLjd) | [Can't Help Myself](https://open.spotify.com/album/14zKEx62p2QYnFb8gyP7qJ) | 3:56 | 2022-05-04 |  |
+| [Can't Help Myself](https://open.spotify.com/track/6QlWVgJiRRC6IbaW6TSmwB) | [Eric Zayne](https://open.spotify.com/artist/5HMNsIi6AQplZELW9jeLjd) | [Can't Help Myself](https://open.spotify.com/album/14zKEx62p2QYnFb8gyP7qJ) | 0:29 | 2022-05-04 |  |
 | [Can't Make It Right](https://open.spotify.com/track/1hzoqVVayl8ciUFhK1ERo7) | [Jackson Owens](https://open.spotify.com/artist/33jhdrAHX9sSFzdKpYd2ke) | [Can't Make It Right](https://open.spotify.com/album/1PbkNhZFbE74q2OjdKpeol) | 3:32 | 2022-02-23 | 2022-03-24 |
 | [Can't Trust U](https://open.spotify.com/track/6j0YZhCegUh1jJCqoA5d8J) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Can't Trust U](https://open.spotify.com/album/0lx2MQiLXIanQWiJJGnM5g) | 2:44 | 2021-12-01 | 2022-01-13 |
 | [Can't Wait](https://open.spotify.com/track/6P8PBbcXeIBxoThtF8yq38) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [Can't Wait](https://open.spotify.com/album/29UTEWJkBTdpIMCrXH8x4N) | 3:27 | 2022-01-26 | 2022-03-12 |
@@ -230,7 +230,7 @@
 | [How You Dare](https://open.spotify.com/track/7H1WPMQRUEn8d0CribbqFT) | [Benny Atlas](https://open.spotify.com/artist/6IXnkjY4xozfLmaA0DxuoS) | [How You Dare](https://open.spotify.com/album/1xM33omdjNTxSloNSNQEKx) | 3:28 | 2021-12-01 | 2022-01-13 |
 | [Hurricane](https://open.spotify.com/track/2AqzZgdcBS0wcmSu6BBvyv) | [Liyah Knight](https://open.spotify.com/artist/5We4m1ZNMQBteKJNc7CvhF) | [Traveller's Guide](https://open.spotify.com/album/3c7dCl3zJcGbdc6M9J45bB) | 2:48 | 2022-01-12 | 2022-02-03 |
 | [Hurricane](https://open.spotify.com/track/4kBkD5qWlRlZXAYVSztETX) | [Shanuka](https://open.spotify.com/artist/57wiktlw2QICiizAd9s2ny) | [Hurricane](https://open.spotify.com/album/6GWkW0A9C6WNAM0sozjrsN) | 4:14 | 2022-03-16 | 2022-04-28 |
-| [hurt \(feat\. Somni\)](https://open.spotify.com/track/03SQMh0CFBDYSrqmbk5hWH) | [Criibaby](https://open.spotify.com/artist/6gQzBYh1naIayoJA567ATQ), [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [hurt](https://open.spotify.com/album/24Krp20zsgYBvpisHMRBLI) | 2:12 | 2022-06-09 |  |
+| [hurt \(feat\. Somni\)](https://open.spotify.com/track/03SQMh0CFBDYSrqmbk5hWH) | [Criibaby](https://open.spotify.com/artist/6gQzBYh1naIayoJA567ATQ), [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [hurt](https://open.spotify.com/album/24Krp20zsgYBvpisHMRBLI) | 0:29 | 2022-06-09 |  |
 | [Hymn](https://open.spotify.com/track/2fGiwQIUWDauKSYgosdlhN) | [Josh Dillon](https://open.spotify.com/artist/5oMcE7NWSdStKb6sMUzA32) | [Hymn](https://open.spotify.com/album/2xRw2iiMHx52vMaZ9ewQRF) | 4:11 | 2022-04-27 | 2022-06-10 |
 | [I Am Here](https://open.spotify.com/track/1Iga4nvd90LUmnAtZUWtJD) | [David Blank](https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6), [ilromantico](https://open.spotify.com/artist/2sr0qRaLGhipr4ATCjpjCh) | [I Am Here](https://open.spotify.com/album/5dAGMbvVau4vUVr1y8i9G2) | 2:51 | 2021-12-01 | 2022-01-13 |
 | [I Don't Miss You](https://open.spotify.com/track/6WHo0fIzK3z68ddqkXJcUR) | [Kitt](https://open.spotify.com/artist/1hsAuVzLaC3fM5xk2PpdSy), [Teon Gibbs](https://open.spotify.com/artist/6C526McCewIs40ZHQLrmZm) | [State of Mind](https://open.spotify.com/album/28OZ9yigKEWW29T8jOOS8F) | 3:50 | 2022-06-09 |  |

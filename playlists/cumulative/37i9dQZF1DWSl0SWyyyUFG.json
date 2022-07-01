@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 276540,
       "name": "A Gozar",
       "url": "https://open.spotify.com/track/6PVeZNxyYK1ta2qmbJJRaT"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 142253,
       "name": "Al Mismo Nivel",
       "url": "https://open.spotify.com/track/3j4JOeXU20JrrYGHXCr1EY"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 166823,
       "name": "Anda Borracho El Buey",
       "url": "https://open.spotify.com/track/4fCBHIPstTkPivVYoPMZ5d"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 182040,
       "name": "Cu\u00e1nto Me Cuesta",
       "url": "https://open.spotify.com/track/006f4XC6oHnIKCYvlI5gbD"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 235554,
       "name": "C\u00f3mo Te Voy A Olvidar",
       "url": "https://open.spotify.com/track/67CMw3dhM3fsSeNxXgFqcL"
@@ -527,7 +527,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 149346,
       "name": "El Anonimo",
       "url": "https://open.spotify.com/track/1teRpnRo534fWUj6uDwVkr"
@@ -599,7 +599,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 187946,
       "name": "El Disgusto",
       "url": "https://open.spotify.com/track/7m62E9JAXqUwJeQz4WjLzv"
@@ -618,7 +618,7 @@
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 195306,
+      "duration_ms": 29048,
       "name": "El Final De Nuestra Historia",
       "url": "https://open.spotify.com/track/31REg67eoHJSvMLUcEmGNj"
     },
@@ -707,7 +707,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 163693,
       "name": "El Ranchero Chido",
       "url": "https://open.spotify.com/track/12wG2c9gS7pwSndBZTB4XI"
@@ -725,7 +725,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 176889,
       "name": "El Teterete",
       "url": "https://open.spotify.com/track/4hwq3Fwh2YotxDBndS8cKk"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 177800,
       "name": "Fue Tan Poco Tu Cari\u00f1o",
       "url": "https://open.spotify.com/track/6qm7ozFRARBhjOfvhygUNn"
@@ -1093,7 +1093,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 174453,
       "name": "La Fea",
       "url": "https://open.spotify.com/track/5pYQp20M7Ul2W1Q7fYhVrh"
@@ -1129,10 +1129,28 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 145426,
       "name": "La L\u00e1mpara",
       "url": "https://open.spotify.com/track/4N9cZZk8n3mUp2o5HnDagr"
+    },
+    {
+      "album": {
+        "name": "Se Me Canso El Corazon",
+        "url": "https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169933,
+      "name": "La Mal Pagadora",
+      "url": "https://open.spotify.com/track/5OtKohCIOvdG6DTkfALU2h"
     },
     {
       "album": {
@@ -1184,7 +1202,7 @@
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 161226,
+      "duration_ms": 29048,
       "name": "La Noche Que Murio Chicago",
       "url": "https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd"
     },
@@ -1219,7 +1237,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 176426,
       "name": "La Talega Del Caf\u00e9",
       "url": "https://open.spotify.com/track/3Zpz5sWTBmuVHFkzZ5RDnB"
@@ -1561,7 +1579,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 142773,
       "name": "Ojitos Verdes",
       "url": "https://open.spotify.com/track/2IQNiCvRnwTmd2Ddo2QR5Q"
@@ -1687,7 +1705,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 177706,
       "name": "Que Bonito",
       "url": "https://open.spotify.com/track/35Z9JAZSJ4RfeoqZ17nC9F"
@@ -1957,7 +1975,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 229626,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/1aiTVvxEdbXXtVReLcPOmp"
@@ -2047,7 +2065,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 153727,
       "name": "Te He de Querer",
       "url": "https://open.spotify.com/track/2aXkdMPXokMlYPPyRvrr8g"

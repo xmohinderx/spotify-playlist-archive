@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 
 > The hottest Anime hits of the 90s\. 1990年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,032 likes - 51 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,121 likes - 51 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 | 10 | [CHA\-LA HEAD\-CHA\-LA \(2005 ver.\) \(ドラゴンボールZ\)](https://open.spotify.com/track/40rB6GShOHTdu8ZZZZtVG8) | [Hironobu Kageyama](https://open.spotify.com/artist/6qTKdHuHW9MFnjfV3JYmz8) | [CHA\-LA HEAD\-CHA\-LA \(2005 ver.\)](https://open.spotify.com/album/6ODDOBJd06l5Cb5qTbS5qt) | 4:13 |
 | 11 | [あなただけ見つめてる](https://open.spotify.com/track/0e4jGLY8dwOnhniy2Hdtzc) | [Maki Ohguro](https://open.spotify.com/artist/2iTndWRSbuvR1tQkXzT59b) | [Greatest Hits 1991\-2016 \~All Singles + \~](https://open.spotify.com/album/7H21cTv0viuP7vGAbPu5wA) | 4:42 |
 | 12 | [ギリギリchop](https://open.spotify.com/track/6UUmbqYhL4p8W70bCzfOpx) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [ギリギリchop](https://open.spotify.com/album/2xvUnnVWLk2tEPlbtOBpOd) | 3:57 |
-| 13 | [めざせポケモンマスター \-20th Anniversary\-](https://open.spotify.com/track/3ELgk6SEzS1e1BKqdIh252) | [Rica Matsumoto](https://open.spotify.com/artist/72GURBGvhqtUrJctxI6tE9) | [めざせポケモンマスター \-20th Anniversary\-](https://open.spotify.com/album/3KBzzDchZ4hNeBngIHASeu) | 4:19 |
+| 13 | [めざせポケモンマスター \-20th Anniversary\-](https://open.spotify.com/track/3ELgk6SEzS1e1BKqdIh252) | [Rica Matsumoto](https://open.spotify.com/artist/72GURBGvhqtUrJctxI6tE9) | [めざせポケモンマスター \-20th Anniversary\-](https://open.spotify.com/album/3KBzzDchZ4hNeBngIHASeu) | 0:29 |
 | 14 | [Tank!](https://open.spotify.com/track/2VqRxxZFbC0uZaTJcZY36c) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [「COWBOY BEBOP」オリジナルサウンドトラック](https://open.spotify.com/album/6cYPbwsAFAcddFuGeXMR7l) | 3:29 |
 | 15 | [名探偵コナン メイン・テーマ \- 摩天楼ヴァージョン](https://open.spotify.com/track/5vWYRXIw88ZKaOjsvFuWus) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 時計じかけの摩天楼 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/1KvpgzU0FqKKvneATY175e) | 2:27 |
 | 16 | [DAN DAN 心魅かれてく](https://open.spotify.com/track/0F1G4ssr0RMdm9h0GEbt40) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [TODAY IS ANOTHER DAY](https://open.spotify.com/album/7nGUYK8tHjuKsHgq3qIDhE) | 4:29 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 | 18 | [葛飾ラプソディー](https://open.spotify.com/track/0Db5hjUbBwh3EdcuVRbMMj) | [Kôhei Dojima](https://open.spotify.com/artist/4xIGdXa6w9eWUoVnEsZNJ9) | [葛飾ラプソディー](https://open.spotify.com/album/2tJpQBIrw5JKRli1wBONs7) | 2:48 |
 | 19 | [ブルーウォーター](https://open.spotify.com/track/6V9J5JmJC5kki2m7e2X9HG) | [森川美穂](https://open.spotify.com/artist/0cJFRLKH4rhk9pDOukq0gn) | [森川美穂ベストコレクション Be Free](https://open.spotify.com/album/32v1HLUwrJvtWeHqXa3PhZ) | 4:30 |
 | 20 | [マイ フレンド](https://open.spotify.com/track/4mt3qRk1HWnk4kyvjbp8Jk) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [マイ フレンド](https://open.spotify.com/album/0pZXSUADHSImR5emCEln8R) | 4:19 |
-| 21 | [魂のルフラン](https://open.spotify.com/track/4pjQ19ATjMCMFqnEF75O9T) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [魂のルフラン](https://open.spotify.com/album/7j1OdqnevNe9r0mwxOmh15) | 5:14 |
+| 21 | [魂のルフラン](https://open.spotify.com/track/4pjQ19ATjMCMFqnEF75O9T) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [魂のルフラン](https://open.spotify.com/album/7j1OdqnevNe9r0mwxOmh15) | 0:29 |
 | 22 | [SEVENTH MOON](https://open.spotify.com/track/2fr0y91m0KzMkIpkOAOCtL) | [Fire Bomber](https://open.spotify.com/artist/5e2LjlxY6UbtaRq7yZfBqO), [BASARA NEKKI](https://open.spotify.com/artist/3P94aBFfSL9ZKcLpDOlbN2) | [「マクロス7」ULTRA FIRE!! Fire Bomber Best Album](https://open.spotify.com/album/3AaxqZ3d4vCWRyJuR40yHr) | 5:24 |
 | 23 | [ゲッターロボ號 \(ゲッターロボ號\)](https://open.spotify.com/track/5oWCL1JWKTWfWNj0tAzwK5) | [Ichirou Mizuki](https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24) | [永井豪ヒーロー伝説 鋼鉄魔神篇](https://open.spotify.com/album/4khnrd3qIG0miG9HvJz0hL) | 3:08 |
 | 24 | [Around The World](https://open.spotify.com/track/1gsbM54z2EPqErHfiPIIhy) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [頭文字D Final Best Collection](https://open.spotify.com/album/6MbFICztIWFvQAiOfdB0Qx) | 5:06 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 | 40 | [約束はいらない](https://open.spotify.com/track/0DU2Iw0OYOYPX4kMOZo2dl) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [グレープフルーツ](https://open.spotify.com/album/3DoNxjRSTZnR4NLrQZhTFO) | 3:32 |
 | 41 | [さよなら文明](https://open.spotify.com/track/5P5sWf8z8yvVS81BpNKYHx) | [Bakufu Slump](https://open.spotify.com/artist/38S2jSY9Fr0AcZZWMrKuqC) | [決定版! 爆風スランプ大全集](https://open.spotify.com/album/1cEp9b0ylPPPxkgCD0W3Kd) | 3:15 |
 | 42 | [虚空の迷宮](https://open.spotify.com/track/7w7BTGHrb0TOJDJtkBS3SL) | [Seikima\-II](https://open.spotify.com/artist/3xl8koA4X7WDnRYSmjYeDa) | [XXX \-THE ULTIMATE WORST\-](https://open.spotify.com/album/5BjhOyL2SL0DfQIAfKV41f) | 4:18 |
-| 43 | [通学路](https://open.spotify.com/track/4aPWrSvOPs0TEfQviAvjAb) | [Whiteberry](https://open.spotify.com/artist/76oZZyUq2OsR4uvuZVYdPn) | [\(初\)](https://open.spotify.com/album/5N2CPtTbsPdd706lfTJiUj) | 4:05 |
-| 44 | [さぁ](https://open.spotify.com/track/72zujXU2gjddcwOw48spLR) | [Surface](https://open.spotify.com/artist/7c3NwFEgdzvFdGIa7wku5K) | [Phase](https://open.spotify.com/album/46ZYjyPcLKOIVG6ckePek9) | 3:14 |
+| 43 | [通学路](https://open.spotify.com/track/4aPWrSvOPs0TEfQviAvjAb) | [Whiteberry](https://open.spotify.com/artist/76oZZyUq2OsR4uvuZVYdPn) | [\(初\)](https://open.spotify.com/album/5N2CPtTbsPdd706lfTJiUj) | 0:29 |
+| 44 | [さぁ](https://open.spotify.com/track/72zujXU2gjddcwOw48spLR) | [Surface](https://open.spotify.com/artist/7c3NwFEgdzvFdGIa7wku5K) | [Phase](https://open.spotify.com/album/46ZYjyPcLKOIVG6ckePek9) | 0:29 |
 | 45 | [輝きは君の中に](https://open.spotify.com/track/04uMxC39AD3awh5DoNdyP5) | [Yume Suzuki](https://open.spotify.com/artist/3DafdgrWjaJJ9pHUtnKUvt) | [決定盤「NINKU\-忍空\-」アニメ主題歌&キャラソン大全集\(+BGM集\)](https://open.spotify.com/album/2bxLROOE511QJ9NCQUB5xx) | 4:39 |
 | 46 | [もののけ姫\(もののけ姫\)](https://open.spotify.com/track/5omQL0li1emtsxFOj0Byf5) | [Yoshikazu Mera](https://open.spotify.com/artist/1gMSjp1uxOKC3VWRTWKaJ2) | [スタジオジブリの歌 \-増補盤\-](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 3:32 |
 | 47 | [Wild Flowers](https://open.spotify.com/track/4rNiul4j7pF83pAVPO1EYW) | [Ramar](https://open.spotify.com/artist/5ockHlAqpBTuTGxCaIDWSx) | [BRIDGE \-RAMAR THE BEST!!\-](https://open.spotify.com/album/3aIHt2Y6pg8KXmn0Wy6pTe) | 4:34 |

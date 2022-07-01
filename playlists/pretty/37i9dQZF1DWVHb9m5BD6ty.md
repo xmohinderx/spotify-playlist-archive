@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHb9m5BD6ty.md) - [plain]
 
 > The best in Black music from Ireland\. Cover: Soulé
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,833 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,832 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHb9m5BD6ty.md) - [plain]
 | 23 | [You and I](https://open.spotify.com/track/7j9DRB3AzXxQNRHAY3RfAx) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [You and I](https://open.spotify.com/album/0H7AadTjFvdH0XYB2oVuCe) | 3:12 |
 | 24 | [Cookie Chips](https://open.spotify.com/track/4rnj9LIIotxPIe9qih7tjb) | [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Cam O'bi](https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ) | [Cookie Chips](https://open.spotify.com/album/5SQN3CSp07nyRLwH2akBLn) | 4:19 |
 | 25 | [Know You](https://open.spotify.com/track/30GaxnloZ9ayDQwnz3RW6e) | [Monjola](https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6) | [Know You](https://open.spotify.com/album/1Pprnco4ZZclQx5nHSKPDs) | 3:10 |
-| 26 | [Seven](https://open.spotify.com/track/1t8G3u5OSk1fCx6p2qfvx6) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Seven](https://open.spotify.com/album/1QKWxr9CgCYTjctWwOMj9I) | 2:20 |
+| 26 | [Seven](https://open.spotify.com/track/1t8G3u5OSk1fCx6p2qfvx6) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Seven](https://open.spotify.com/album/1QKWxr9CgCYTjctWwOMj9I) | 0:29 |
 | 27 | [Luv N' Money](https://open.spotify.com/track/7Da2T8KU3NBm9j0pJtR6RN) | [Keemz](https://open.spotify.com/artist/2g2D97ebuBzFHgeE8TRb6P) | [Luv N' Money](https://open.spotify.com/album/0Ly2d4rq63yq7qzdq4gh0Z) | 2:37 |
 | 28 | [Anseo](https://open.spotify.com/track/2VxCFajDagmquFM9gH5qbJ) | [Denise Chaila](https://open.spotify.com/artist/2VjvDoPMZvWItuivXdoe5Y) | [GO Bravely](https://open.spotify.com/album/3F5NOIN8QC02Sd2XEYFrvk) | 2:35 |
 | 29 | [Letting You Know](https://open.spotify.com/track/3lt7UEgLnIFdNSbm5BzAW6) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Letting You Know](https://open.spotify.com/album/6eAACSfsRHEqRhP5QI8Tkr) | 3:04 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHb9m5BD6ty.md) - [plain]
 | 36 | [VVS](https://open.spotify.com/track/3ugMBgYSxaeDOeC9cSsDiC) | [7th Obi](https://open.spotify.com/artist/7f9KVZ7zHnzxe9whnC1EgY) | [Love & Goodluck](https://open.spotify.com/album/4WpQjczRdhsvKkoksb3SYa) | 2:36 |
 | 37 | [SNEAKY SNEAKY](https://open.spotify.com/track/166ISgUbZrnJxjJqlBAOhR) | [Hellberg](https://open.spotify.com/artist/1kgxTtyF91VaqLD3J6Krd5), [Jafaris](https://open.spotify.com/artist/69hGavzu5tphYU1EIY0yEg) | [SNEAKY SNEAKY](https://open.spotify.com/album/7GXA3qINtDthojuNF7xxMS) | 2:10 |
 | 38 | [Ozone](https://open.spotify.com/track/3XlzfJroAlma6ejkMV5yEc) | [JyellowL](https://open.spotify.com/artist/7zWrMTItje9ZjKK2XWTPle) | [2020 DIvision](https://open.spotify.com/album/56bUDLsQUdL6CKrVTCTQFC) | 3:17 |
-| 39 | [Garden](https://open.spotify.com/track/50iDsxVvLyArwlS5PUuiy3) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [What Should We Do This Summer ?](https://open.spotify.com/album/63SUShWKQ0g7ttqbgN8b2P) | 3:12 |
+| 39 | [Garden](https://open.spotify.com/track/50iDsxVvLyArwlS5PUuiy3) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [What Should We Do This Summer ?](https://open.spotify.com/album/63SUShWKQ0g7ttqbgN8b2P) | 0:29 |
 | 40 | [Trapped](https://open.spotify.com/track/44aOl91V0gvzcW2gBS4WCs) | [Panch](https://open.spotify.com/artist/4559cnfJUfk6DFLNt9ENpO) | [Trapped](https://open.spotify.com/album/1hKsgvyuvtOAD0SA9iwBXQ) | 2:57 |
 | 41 | [Brown](https://open.spotify.com/track/0GF6BvdfcZIufzB8otZTzT) | [Ama Millieir](https://open.spotify.com/artist/4IrUxLaGY463W3WD3ABWCa) | [Brown](https://open.spotify.com/album/7no3izZxAhxrQTas2QKoZo) | 3:00 |
 | 42 | [Shining](https://open.spotify.com/track/0KW1G9rKXlALday2nNAjNd) | [BoyW1DR](https://open.spotify.com/artist/6FTMDtJd40DcXsEOSMNImb) | [Shining](https://open.spotify.com/album/0mWrV1xXwbYAXuOkC7KK9Y) | 3:09 |

@@ -4,7 +4,7 @@
 
 > Hip\-Hop's next generation takes over SXSW! Cover: <a href="spotify:artist:3Gm5F95VdRxW3mqCn8RPBJ">Aminè</a>.
 
-25 songs - 1 hr 23 min - [published](https://open.spotify.com/playlist/72UNrENEEBF6ughBYsTycT)
+25 songs - 1 hr 20 min - [published](https://open.spotify.com/playlist/72UNrENEEBF6ughBYsTycT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Bouncin'](https://open.spotify.com/track/2dAvcYkyqCzmJNCjhF9SlZ) | [Nick Grant](https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3) | [Return of the Cool](https://open.spotify.com/album/3J55Ez08LgsIp78X8lOLdZ) | 2:53 | 2017-02-27 |  |
 | [Crew \(feat\. Brent Faiyaz & Shy Glizzy\)](https://open.spotify.com/track/3jEtESxn2ngF25DMD6vbBg) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [Crew \(feat\. Brent Faiyaz & Shy Glizzy\)](https://open.spotify.com/album/4Ysy1MEXCD5HjO0VBDfBgj) | 2:57 | 2017-02-27 |  |
 | [Diddy Bop \(feat\. Cam O'bi & Raury\)](https://open.spotify.com/track/6JvfBzqZmSiEG5MjM7OcSY) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Cam O'bi](https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ), [Raury](https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ) | [Telefone](https://open.spotify.com/album/18Scpsg5OV1iYNtSaCsjwz) | 3:28 | 2017-02-27 |  |
-| [Dirty Taurus](https://open.spotify.com/track/5HvvNQEd62bveJqT1raHbw) | [Charlie Heat & Ant Beale](https://open.spotify.com/artist/4pKfsREfxKSfQQBSs4mZfk) | [No Rain No Flowers](https://open.spotify.com/album/2KQu5msu6KXKMdZRhYD9Rh) | 3:13 | 2017-02-27 |  |
+| [Dirty Taurus](https://open.spotify.com/track/5HvvNQEd62bveJqT1raHbw) | [Charlie Heat & Ant Beale](https://open.spotify.com/artist/4pKfsREfxKSfQQBSs4mZfk) | [No Rain No Flowers](https://open.spotify.com/album/2KQu5msu6KXKMdZRhYD9Rh) | 0:29 | 2017-02-27 |  |
 | [Don't Knock On My Door](https://open.spotify.com/track/0MIpa4KMqDwigRcMi8uXdD) | [Tdot illdude](https://open.spotify.com/artist/4gcBXAL1iwHPIrf1LdVsKg) | [Don't Knock On My Door](https://open.spotify.com/album/2XX5ugT8pXjXiircILouYl) | 3:36 | 2017-02-27 |  |
 | [Everyday We Lit](https://open.spotify.com/track/40Hf6BV0EugJhs6BgzG35Q) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Everyday We Lit](https://open.spotify.com/album/3ELbr7P38NRRUnzghOUk2e) | 3:17 | 2017-02-27 |  |
 | [Fruit Punch](https://open.spotify.com/track/0lpRp9KzzMbC0w1uiL7H7f) | [Kaiydo](https://open.spotify.com/artist/6y02TEMv71ArWB2qhIaQ5m) | [Fruit Punch](https://open.spotify.com/album/0oeJCHQwiz5dQhMuiFlhhM) | 3:41 | 2017-02-27 |  |

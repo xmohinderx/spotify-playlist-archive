@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92T9KVmPAYW.md) - [plain]
 
 > Classic Ambient and Environmental music made in Japan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,292 likes - 47 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,343 likes - 47 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92T9KVmPAYW.md) - [plain]
 | 16 | [See The Light \(Abridged\)](https://open.spotify.com/track/0Fcr8todn7RFAUrSWbURAj) | [Fumio Miyashita](https://open.spotify.com/artist/1x5s5AcJ440n1gmUU0Tvgr) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 6:50 |
 | 17 | [Clouds](https://open.spotify.com/track/0S9lwd7JF9878QQ6tuuIQg) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 5:54 |
 | 18 | [A Tale](https://open.spotify.com/track/7xCVZnISlnQ2v30xD6qGY1) | [Synagetic Voice Orchestra](https://open.spotify.com/artist/4ajIjToZA6Hfqo3U2vQqeN) | [Heisei No Oto: Japanese Left\-field Pop From The CD Age, 1989\-1996](https://open.spotify.com/album/6EosUnPLduZ3HV9BKJBdts) | 5:35 |
-| 19 | [雪](https://open.spotify.com/track/6Yob39WAE8Um7Dox1ch886) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Seventh Garden](https://open.spotify.com/album/3zPHBf3UoBjK0nQEUz1gCi) | 5:49 |
+| 19 | [雪](https://open.spotify.com/track/6Yob39WAE8Um7Dox1ch886) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Seventh Garden](https://open.spotify.com/album/3zPHBf3UoBjK0nQEUz1gCi) | 0:29 |
 | 20 | [8・31](https://open.spotify.com/track/5MBJ5sufk0wQdkmLMUmv5Q) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [DANZINDAN\-POJIDON \(New Master Edition\)](https://open.spotify.com/album/5pOZiyJq4YQcTLkV3TyFjX) | 2:35 |
 | 21 | [Candy Floss](https://open.spotify.com/track/2ZtH2scL0aDBizjDrqewIW) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [Commissions: 1977\-2000](https://open.spotify.com/album/7cJG9ELM7LsyAD5kQOmoMq) | 2:58 |
 | 22 | [Ishiura \(Abridged\)](https://open.spotify.com/track/5p4jRUhL9DRX8mbITOJRiS) | [Toshi Tsuchitori](https://open.spotify.com/artist/7hXNts8FQfZudbAwVv5AWx) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 5:13 |

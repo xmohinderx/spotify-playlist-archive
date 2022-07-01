@@ -4,13 +4,13 @@
 
 > Gentle classical music to help you relax and reflect.
 
-27 songs - 1 hr 23 min - [published](https://open.spotify.com/playlist/5X2uSgbooDuJBwhTBFmpAA)
+27 songs - 1 hr 20 min - [published](https://open.spotify.com/playlist/5X2uSgbooDuJBwhTBFmpAA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Bach, JS: Cello Suite No\. 1 in G Major, BWV 1007: I\. Prelude](https://open.spotify.com/track/0w6LWDuhdyzzIgNJDjrtrh) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Gautier Capuçon](https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI) | [Souvenirs](https://open.spotify.com/album/3dVenVnBtNXJUB8P59BVw2) | 2:52 | 2021-11-15 |  |
 | [Bach, JS: Cello Suite No\. 1 in G Major, BWV 1007: V\. Menuets I & II](https://open.spotify.com/track/44oYIGVYYdwnAGpL2J1pjD) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Gautier Capuçon](https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI) | [Souvenirs](https://open.spotify.com/album/3dVenVnBtNXJUB8P59BVw2) | 3:43 | 2021-11-15 |  |
-| [Bach, JS: English Suite No\. 1 in A Major, BWV 806: II\. Allemande](https://open.spotify.com/track/27a8oVN05SOgwDwRJFcygr) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Piotr Anderszewski](https://open.spotify.com/artist/0ndw1tUehEV3tnnYUnqFw9) | [Bach, JS: English Suites Nos 1, 3 & 5](https://open.spotify.com/album/0atPfDc4y8UX6ljvewegMX) | 3:57 | 2021-11-15 |  |
+| [Bach, JS: English Suite No\. 1 in A Major, BWV 806: II\. Allemande](https://open.spotify.com/track/27a8oVN05SOgwDwRJFcygr) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Piotr Anderszewski](https://open.spotify.com/artist/0ndw1tUehEV3tnnYUnqFw9) | [Bach, JS: English Suites Nos 1, 3 & 5](https://open.spotify.com/album/0atPfDc4y8UX6ljvewegMX) | 0:29 | 2021-11-15 |  |
 | [Bach, JS: Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/4E0ffAbyTUJ5r57WfBtRLn) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Le Poète du piano](https://open.spotify.com/album/5e0hqGrjuazjIvaCNLGKVk) | 2:03 | 2021-11-15 |  |
 | [Bach, JS: Keyboard Partita No\. 1 in B\-Flat Major, BWV 825: II\. Allemande](https://open.spotify.com/track/5O18rD3HLXnHzgYhX1JE6D) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Piotr Anderszewski](https://open.spotify.com/artist/0ndw1tUehEV3tnnYUnqFw9) | [Bach: Partitas Nos\. 1, 3 & 6](https://open.spotify.com/album/4AfccVPHUrtjjgs0bq4cp2) | 3:11 | 2021-11-15 |  |
 | [Bach, JS: Keyboard Partita No\. 1 in B\-Flat Major, BWV 825: V\. Menuet I](https://open.spotify.com/track/2W9s2KTpwzumzZmdRDKmJT) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Piotr Anderszewski](https://open.spotify.com/artist/0ndw1tUehEV3tnnYUnqFw9) | [Bach: Partitas Nos\. 1, 3 & 6](https://open.spotify.com/album/4AfccVPHUrtjjgs0bq4cp2) | 1:26 | 2021-11-15 |  |

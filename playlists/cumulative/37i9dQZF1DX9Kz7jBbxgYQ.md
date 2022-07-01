@@ -4,7 +4,7 @@
 
 > Home to the best of South Asian Indie scene\. Cover: Abdul Hannan
 
-74 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/3EgngKMIU7QCN4I9Kyv7gp)
+74 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/3EgngKMIU7QCN4I9Kyv7gp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [ur sweater](https://open.spotify.com/track/5Dm6An47nSw89nSu0KHdtg) | [Barney Sku](https://open.spotify.com/artist/77ziiu02mos4YrZ4mpWO0v), [friexza](https://open.spotify.com/artist/3DGKUbhwIE6KEIbpJhp5Cq) | [ur sweater](https://open.spotify.com/album/2Ai8C3NJ1DOKA0Fl9uUuRX) | 3:20 | 2022-05-20 |  |
 | [Valley of the Hills](https://open.spotify.com/track/4WTXH3F4P3vHmRbpZeTYn3) | [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo), [Trey Schafer](https://open.spotify.com/artist/091DrNc7RWkJYwVFI9aA8X) | [Valley of the Hills](https://open.spotify.com/album/1wY4EpeDljm1P4zJ2ls8s6) | 2:29 | 2022-05-20 |  |
 | [Weli Ho](https://open.spotify.com/track/3xoeyCTIlvBaLuTmewPRwL) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Weli Ho](https://open.spotify.com/album/7CgXTd6AhH7tNNBq8soFu7) | 3:20 | 2022-05-20 |  |
-| [Yaari](https://open.spotify.com/track/2a2k6Ny2nMhwEvCoa8nnnU) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Yaari](https://open.spotify.com/album/4l1LuBBpG0vEI6VqbPHcxG) | 2:55 | 2022-05-20 |  |
+| [Yaari](https://open.spotify.com/track/2a2k6Ny2nMhwEvCoa8nnnU) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Yaari](https://open.spotify.com/album/4l1LuBBpG0vEI6VqbPHcxG) | 0:29 | 2022-05-20 |  |
 | [Yaqeen](https://open.spotify.com/track/4hgBwvVJqdCDxgULc926qf) | [Poor Rich Boy](https://open.spotify.com/artist/2DtZwsXs6iF0xOAF17ziBP) | [Yaqeen](https://open.spotify.com/album/3r5cMfjMehfJPCVRdrlwmt) | 3:54 | 2022-05-20 |  |
 | [Zakir](https://open.spotify.com/track/6RtnuC14DOUrvpRgS6WMQX) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Zakir](https://open.spotify.com/album/2EsxYdY99R9jF31YveCUZN) | 3:41 | 2022-05-20 |  |
 | [Zindagi Ki Goud Mein](https://open.spotify.com/track/0wA7aUIOOynbdIyF6AIejn) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Zindagi Ki Goud Mein](https://open.spotify.com/album/6ZdIpnlVpCcv7ZOS5jC2Ci) | 3:36 | 2022-05-20 |  |

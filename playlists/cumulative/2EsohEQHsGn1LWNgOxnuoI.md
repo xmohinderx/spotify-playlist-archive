@@ -4,7 +4,7 @@
 
 > 
 
-60 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/73tky4aL2PbScmccRNgg08)
+60 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/73tky4aL2PbScmccRNgg08)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Bopong](https://open.spotify.com/track/7uHNrkIJCr7QtaHeRxTXrL) | [Gamelan Semara Pegulingan](https://open.spotify.com/artist/7JLtmFFoZOOamNWkYTgK2q) | [Music of Bali](https://open.spotify.com/album/1sflSkdOKKe0kE96cN5Tzy) | 4:37 | 2013-06-18 |  |
 | [Canto de Ossanha](https://open.spotify.com/track/2TDf04arGq5CrZiYlduMVY) | [Baden Powell](https://open.spotify.com/artist/0VSgciOd32tP2Yna1w4vDr), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [Os Afro Samba \(feat\. Vinicius de Moraes\)](https://open.spotify.com/album/0Loxjsl5DmgzD8lO5qrVcD) | 4:17 | 2013-06-18 |  |
 | [Chan Chan](https://open.spotify.com/track/6Zh1zzzZSF9V1jEUWlFRr4) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/4g0dGimxnz4S2pvMknYjEx) | 4:18 | 2013-06-18 |  |
-| [Cler Achel](https://open.spotify.com/track/5uscjCcGU5eMxCoN2o1ACp) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Aman Iman: Water Is Life](https://open.spotify.com/album/74HnW4H7keYtcEM65MZ1sr) | 4:27 | 2013-06-18 |  |
+| [Cler Achel](https://open.spotify.com/track/5uscjCcGU5eMxCoN2o1ACp) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Aman Iman: Water Is Life](https://open.spotify.com/album/74HnW4H7keYtcEM65MZ1sr) | 0:29 | 2013-06-18 |  |
 | [Conte De L'Incrovable Amour](https://open.spotify.com/track/5k2sprCz7xZRzWTlZjbAbg) | [Anouar Brahem](https://open.spotify.com/artist/1aO9NulHwrE9pxHXFfCIoM) | [Africa North](https://open.spotify.com/album/3jn0tINHSIUjjTHNl3SQOg) | 10:50 | 2013-06-18 |  |
 | [Corcovado \- Quiet Nights Of Quiet Stars](https://open.spotify.com/track/5i2sgqnzaxYpvXmGAB592h) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto \(Classics International Version\)](https://open.spotify.com/album/5p7LZlOPMvScCXw5M77xyV) | 4:13 | 2013-06-18 |  |
 | [Cómo Puedes Vivir Contigo Mismo?](https://open.spotify.com/track/4VJ0N1INhV301imjFjTc14) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Rebeldes](https://open.spotify.com/album/0FbaelnFRq9PaSmi2w1PJC) | 4:21 | 2013-06-18 |  |

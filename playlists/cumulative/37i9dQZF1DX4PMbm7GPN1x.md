@@ -4,7 +4,7 @@
 
 > Relive the 80s disco era with these hits\. Cover\- Bappi Lahiri
 
-50 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/6SfeW0XptP9Kbsct3VXOcx)
+50 songs - 4 hr 43 min - [published](https://open.spotify.com/playlist/6SfeW0XptP9Kbsct3VXOcx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Disco Station \- Haathkadi / Soundtrack Version](https://open.spotify.com/track/3SHBWYlE2P7zzHWNoOUJpj) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Haathkadi](https://open.spotify.com/album/6uCths8m5Ae3gQJuFIaToq) | 6:53 | 2021-11-16 |  |
 | [Dum Dee Dee Dum](https://open.spotify.com/track/3ilnBa1Fn11NXwhjAqZfx4) | [Nazia Hassan](https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR), [Zoheb Hassan](https://open.spotify.com/artist/5pT8Tq6kM9sXknMXpgI19B) | [Young Tarang](https://open.spotify.com/album/2EnmsTN6QbJmiw0udWFB5O) | 4:19 | 2021-11-16 |  |
 | [Gunmaster G\-9](https://open.spotify.com/track/6kAVYOf6CbuLO7odHTiRJu) | [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN), [Annette Pinto](https://open.spotify.com/artist/1iAJP0fds4MdLGjha2ahDt) | [Surakksha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2y96C5codhCZcwTr8inaLU) | 5:17 | 2021-11-16 |  |
-| [Hari Om Hari](https://open.spotify.com/track/01XB8eBdOVeSzNGIRQqqv7) | [Usha Uthup](https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa) | [Pyaara Dushman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1EGYsYtquqd98zUrLOn53B) | 6:38 | 2021-11-16 |  |
+| [Hari Om Hari](https://open.spotify.com/track/01XB8eBdOVeSzNGIRQqqv7) | [Usha Uthup](https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa) | [Pyaara Dushman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1EGYsYtquqd98zUrLOn53B) | 0:29 | 2021-11-16 |  |
 | [I Am A Disco Dancer](https://open.spotify.com/track/5IvBhmCrAHyNRIqBQ0n00Q) | [Vijay Benedict](https://open.spotify.com/artist/0LyiuqDYSPZCXAuEkPJ8jZ) | [Disco Dancer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HWHznN9Yi0HBMYWxifg3S) | 7:47 | 2021-11-16 |  |
 | [Jaana](https://open.spotify.com/track/1a7zy1Iouc7jnGew6Up2Ai) | [Nazia Hassan](https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR), [Zoheb Hassan](https://open.spotify.com/artist/5pT8Tq6kM9sXknMXpgI19B) | [Star](https://open.spotify.com/album/26siYxrJglhhCtAsv1hoP0) | 4:51 | 2021-11-16 |  |
 | [Jawani Janeman](https://open.spotify.com/track/32S5nqTsMlizQPTG6MwSqN) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Namak Halaal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1JuMfPhV42wJD0dcjn9ZX3) | 5:35 | 2021-11-16 |  |

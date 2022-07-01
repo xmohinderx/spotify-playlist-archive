@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: Jeanne Added",
+  "description": "The best French indie tracks right now. Cover: Ad\u00e8le Castillon",
   "name": "Made in France",
   "published_playlist_ids": [
     "4VHp6F7a0Cbt6kPL2n6clC"
@@ -41,6 +41,24 @@
       "duration_ms": 141206,
       "name": "4D",
       "url": "https://open.spotify.com/track/0zBReAArWqGJRftWzmys9V"
+    },
+    {
+      "album": {
+        "name": "Acapulco",
+        "url": "https://open.spotify.com/album/12jNNrFsrsFhBVKFkdvDBI"
+      },
+      "artists": [
+        {
+          "name": "Emma Hoet",
+          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185913,
+      "name": "Acapulco",
+      "url": "https://open.spotify.com/track/2zx4cyrEkfZHIwJcYEHyDB"
     },
     {
       "album": {
@@ -225,7 +243,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 265000,
       "name": "Burn",
       "url": "https://open.spotify.com/track/2zkXYQrGkffMqvQvYrtxg8"
@@ -680,6 +698,24 @@
     },
     {
       "album": {
+        "name": "Fantasy Girl",
+        "url": "https://open.spotify.com/album/2PPmrh2GUeD42U42NWMO9v"
+      },
+      "artists": [
+        {
+          "name": "Nova\u00e9 Lita",
+          "url": "https://open.spotify.com/artist/1tZ9lQ62KmVFephCl3hfB6"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126582,
+      "name": "Fantasy Girl",
+      "url": "https://open.spotify.com/track/75CoiQTM3XHWSmm4XlfM20"
+    },
+    {
+      "album": {
         "name": "Flashdance",
         "url": "https://open.spotify.com/album/2EVsAOPUeB6o1SNJVH3bQg"
       },
@@ -861,7 +897,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 221733,
       "name": "Holidays",
       "url": "https://open.spotify.com/track/2R0tA1s4ZzSqrgBDMMCXZl"
@@ -1099,7 +1135,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 207701,
       "name": "L'\u00c9T\u00c9",
       "url": "https://open.spotify.com/track/0rwsEAo5cS4jMcPOznBEpo"
@@ -1425,6 +1461,28 @@
       "duration_ms": 201720,
       "name": "Looking Backward",
       "url": "https://open.spotify.com/track/3fdocuLx6MshLRTtXSWvqr"
+    },
+    {
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/0w4szfJWUyvDX0zHhGHUPS"
+      },
+      "artists": [
+        {
+          "name": "Nusky & Vaati",
+          "url": "https://open.spotify.com/artist/4hQg3HQhXpqDWA0xi8rplg"
+        },
+        {
+          "name": "Clea Vincent",
+          "url": "https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250384,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/2DdwX6AeNWHtM2MDVBwosk"
     },
     {
       "album": {
@@ -1760,6 +1818,24 @@
     },
     {
       "album": {
+        "name": "Oiseau de Paradis",
+        "url": "https://open.spotify.com/album/5FKhkWVXjUjJZXFQlSkh4b"
+      },
+      "artists": [
+        {
+          "name": "Montmartre",
+          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173786,
+      "name": "Oiseau de Paradis",
+      "url": "https://open.spotify.com/track/2lPuLP88b7BUiJuh1jurXV"
+    },
+    {
+      "album": {
         "name": "bedroom walls",
         "url": "https://open.spotify.com/album/4HeMF37gL9maj7PD2lZ1q8"
       },
@@ -1995,7 +2071,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 192989,
       "name": "Psychopath",
       "url": "https://open.spotify.com/track/2yyBy2p36rPZnfa1G1PjDI"
@@ -2021,6 +2097,24 @@
       "duration_ms": 268520,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/1SwdyY367WF7OwvOZl2yml"
+    },
+    {
+      "album": {
+        "name": "11 mai 2020",
+        "url": "https://open.spotify.com/album/0BoigvsL13ZlJ54rbTryoq"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9lie",
+          "url": "https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170097,
+      "name": "Rengaine",
+      "url": "https://open.spotify.com/track/11oSV1uWeXCF4jSzwpZffA"
     },
     {
       "album": {
@@ -2657,7 +2751,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 195178,
       "name": "Yellow Car",
       "url": "https://open.spotify.com/track/1odBJEdR7AiENyd6w42kQU"

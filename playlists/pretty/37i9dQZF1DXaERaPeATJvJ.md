@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 
 > Penggalan lagu lama dari kancah musik independen\. Cover: The Sastro
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,628 likes - 83 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,651 likes - 83 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 | 47 | [2 AM](https://open.spotify.com/track/71x7IYQXrCv8Pd2CX39oQm) | [Monday Math Class](https://open.spotify.com/artist/2TEO3mpRZL9jXJakMGTF3J) | [Volume 1 \- Ep](https://open.spotify.com/album/6cHlFXEzCz5A4zIIy0hdNX) | 4:32 |
 | 48 | [Konservatif](https://open.spotify.com/track/7qUkZhXym0LCTdcmwhGO3b) | [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [The Adams](https://open.spotify.com/album/78DE7OzE8yFEcfkGQ7L024) | 4:51 |
 | 49 | [Spoken](https://open.spotify.com/track/208KDxFGSAbH5ZYA1ktBuk) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn) | [Time for a Change / Time to Move On](https://open.spotify.com/album/7lbJEFQEGUs1pBQfOcbdKV) | 5:17 |
-| 50 | [Jatuh Cinta Itu Biasa Saja](https://open.spotify.com/track/0IrujRv0WMILH3wlFKndh6) | [Efek Rumah Kaca](https://open.spotify.com/artist/3uSvD31crYEsBLuiAFD02b) | [Efek Rumah Kaca](https://open.spotify.com/album/5PENwZWWNzHhPfYcvvv2Kf) | 5:14 |
+| 50 | [Jatuh Cinta Itu Biasa Saja](https://open.spotify.com/track/0IrujRv0WMILH3wlFKndh6) | [Efek Rumah Kaca](https://open.spotify.com/artist/3uSvD31crYEsBLuiAFD02b) | [Efek Rumah Kaca](https://open.spotify.com/album/5PENwZWWNzHhPfYcvvv2Kf) | 0:29 |
 | 51 | [Biara](https://open.spotify.com/track/2G38QfmlWGmAnMISsx6EeV) | [Sieve](https://open.spotify.com/artist/6UtGpQD2GgpZBkU3WlqcJB) | [Biara](https://open.spotify.com/album/3v1Q7EALIjc7mB1PRVfDTQ) | 2:27 |
 | 52 | [Nonton Srimulat](https://open.spotify.com/track/43YNype2Bng8TrSkWD3htz) | [BANDEMPO](https://open.spotify.com/artist/0JKGXfROquGhxuydA0tvOx) | [Bandempo 20th Anniversary](https://open.spotify.com/album/2XO48VaowaWFOvY48Sia4y) | 3:20 |
 | 53 | [Satu Mimpi](https://open.spotify.com/track/4xbWESPCXzpARtbmb5hqp5) | [Waiting Room](https://open.spotify.com/artist/720vBDH1DJ0UaLXmfTMs46) | [Propaganda](https://open.spotify.com/album/6qTGWkGYvVv3Y5HtJ10cpi) | 3:19 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 | 59 | [Tarian](https://open.spotify.com/track/1QVHsfLzOrsoKJTbRnbWZS) | [L'Alphalpha](https://open.spotify.com/artist/46ipdIq678HcnKpQqYFPuh) | [Von Stufe Zu Stufe](https://open.spotify.com/album/3xBAgVZ2bjZeUbRmO4CMUH) | 5:16 |
 | 60 | [I'm OK](https://open.spotify.com/track/69xEITRbwTnRYEBGTdy3Kp) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Electroduce Yourself](https://open.spotify.com/album/2BhBRPic40xAcJMKMt8Fzk) | 3:51 |
 | 61 | [Pop Kinetik](https://open.spotify.com/track/5g2V3uYWkLJJYFDPsny0La) | [rumahsakit](https://open.spotify.com/artist/1Foqp2ngVCEaD2xKanB7QP) | [1+2](https://open.spotify.com/album/5XepVOJPD8w4yF9SaKduLG) | 3:41 |
-| 62 | [Lucky Man](https://open.spotify.com/track/4bT1XPdIz61IdDUXUwIXvj) | [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ) | [Friends](https://open.spotify.com/album/4UktwuqbTJJFnsuDhkf7kb) | 2:36 |
+| 62 | [Lucky Man](https://open.spotify.com/track/4bT1XPdIz61IdDUXUwIXvj) | [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ) | [Friends](https://open.spotify.com/album/4UktwuqbTJJFnsuDhkf7kb) | 0:29 |
 | 63 | [Another Song for Her](https://open.spotify.com/track/5wR3uyU7yPCQaDp2cSq9c7) | [Holy City Rollers](https://open.spotify.com/artist/1xX7RmaDFxsvVtR9l8qJ4v) | [First Chapter of Allordia](https://open.spotify.com/album/7DVn7xIvYUsPGFjLwTeJff) | 4:10 |
 | 64 | [Amerika](https://open.spotify.com/track/4brj3kqJtL7DIiA7vxAbyy) | [Armada Racun](https://open.spotify.com/artist/4eQQrNIgQpYGk0MvdNHncq) | [La Peste](https://open.spotify.com/album/2ymuB5HHTqFqKDN6y2ADwa) | 2:31 |
 | 65 | [Am I Robot?](https://open.spotify.com/track/5ctYnyGG80tnqygzIAAVhD) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Love And Turbo Action](https://open.spotify.com/album/10Mz59hmubT7MRukNG29OA) | 3:39 |

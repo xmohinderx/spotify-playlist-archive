@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-[Matt Johnson](https://open.spotify.com/user/117687144) - 8,946 likes - 114 songs - 6 hr 20 min
+[Matt Johnson](https://open.spotify.com/user/117687144) - 8,947 likes - 114 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 12 | [Last Request \(Recorded at Bush Studios\) \- Live; Acoustic](https://open.spotify.com/track/35H5pzqUFrwU1A3iUxP1XQ) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Live Sessions](https://open.spotify.com/album/1oCZj5R2pLKiHyTH7QUkGa) | 3:13 |
 | 13 | [Walking on Sunshine \- Acoustic](https://open.spotify.com/track/2kOE6vW8uWheLITP2JYRPD) | [Richard Watts](https://open.spotify.com/artist/3cGb8b9Zwvka0MWD5RyMDI) | [Walking on Sunshine \(Acoustic\)](https://open.spotify.com/album/2jOhaWAGLkqVFBK2kTI7fX) | 2:59 |
 | 14 | [Fields Of Gold](https://open.spotify.com/track/5vtOJrmovXGxGsnAck694H) | [Eva Cassidy](https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew) | [Songbird](https://open.spotify.com/album/14vOTJhsfQIlJeHgLajs7r) | 4:42 |
-| 15 | [Wonderwall \- Acoustic](https://open.spotify.com/track/19YPudY9wVuadI8IaFOmIZ) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [Wonderwall \(Acoustic\)](https://open.spotify.com/album/2bWC9zgX6UiPqThc6TtYsF) | 3:16 |
+| 15 | [Wonderwall \- Acoustic](https://open.spotify.com/track/19YPudY9wVuadI8IaFOmIZ) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [Wonderwall \(Acoustic\)](https://open.spotify.com/album/2bWC9zgX6UiPqThc6TtYsF) | 0:29 |
 | 16 | [Say Something \- Live from Spotify NYC](https://open.spotify.com/track/43cKoF3PLrsJSqGKgeqagV) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) | [Spotify Sessions](https://open.spotify.com/album/4ipsAUmKH4ieH5Yh9tln9t) | 4:03 |
 | 17 | [Sit Down \- Acoustic](https://open.spotify.com/track/5dGgyreFnyXsYTRW7vV7Xy) | [Ben Weighill](https://open.spotify.com/artist/6yAU69cTqYRuizldebquYb) | [Sit Down \(Acoustic\)](https://open.spotify.com/album/58BKYmicaHsxUzmIfjkJvo) | 2:47 |
 | 18 | [Issues \- Acoustic](https://open.spotify.com/track/7M8d1oa1Rfvik0RRHT12wt) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Issues \(Acoustic\)](https://open.spotify.com/album/7KjPQYz7xPvZ7mwfATL1E1) | 2:55 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 28 | [Jealous](https://open.spotify.com/track/4L2K7JKseFCBoHMZEAszW0) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Jealous](https://open.spotify.com/album/2JgVVnno2fzdmV1BqwdQBi) | 4:47 |
 | 29 | [Rise Up \- Acoustic](https://open.spotify.com/track/1qmCoha1HrkCVInVnfhpPC) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [Rise Up \(Acoustic\)](https://open.spotify.com/album/1QC3l2jIGCX0FeIXZgIgLW) | 3:16 |
 | 30 | [Make Me \(Cry\) \- Acoustic Version](https://open.spotify.com/track/6pP5RJbBH6eKR8BCYX3MSU) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Make Me \(Cry\) \[Acoustic Version\]](https://open.spotify.com/album/7xOsE3ZVZveBZfRdCzY3Uk) | 3:52 |
-| 31 | [My Girl \- Acoustic](https://open.spotify.com/track/3IrZMd0p8R1MQab6pVpZnt) | [Tiffany Alvord](https://open.spotify.com/artist/2wNlZ2Vp23Sbv1DHgizbCb) | [My Girl \(Acoustic\)](https://open.spotify.com/album/7uSfzlPMIh8ZE26jYMS8OY) | 3:00 |
+| 31 | [My Girl \- Acoustic](https://open.spotify.com/track/3IrZMd0p8R1MQab6pVpZnt) | [Tiffany Alvord](https://open.spotify.com/artist/2wNlZ2Vp23Sbv1DHgizbCb) | [My Girl \(Acoustic\)](https://open.spotify.com/album/7uSfzlPMIh8ZE26jYMS8OY) | 0:29 |
 | 32 | [Bitter Sweet Symphony](https://open.spotify.com/track/2gcgIegEsUm4xKKWhLxOFx) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Bitter Sweet Symphony](https://open.spotify.com/album/2xXixzfakAmF34WzT8xxbS) | 3:22 |
 | 33 | [You Make My Dreams \- Acoustic](https://open.spotify.com/track/0u9jiSe6t4MLdkpTvg3Kdv) | [Hailey Gardiner](https://open.spotify.com/artist/77bmDZbZ65uoGKVTIzKcEc) | [You Make My Dreams \(Acoustic\)](https://open.spotify.com/album/3rWfZ8M7iIGKFybwCIXZTk) | 2:34 |
 | 34 | [Heaven Is a Place on Earth](https://open.spotify.com/track/08OaKNPulJY5P2czPt7PKY) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Heaven Is a Place on Earth](https://open.spotify.com/album/0kkxOv9HJxOquoIxt0QDPm) | 3:13 |
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 94 | [Starving \- Acoustic](https://open.spotify.com/track/3otAtzQb3f7adNdiCgdECo) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Starving \(Acoustic\)](https://open.spotify.com/album/2rTG6XOfAwNyfwjACFKN16) | 3:01 |
 | 95 | [Don’t Look Back In Anger \- Acoustic](https://open.spotify.com/track/3PkHsRaRZSkIEVc3UmJu16) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [Don’t Look Back In Anger \(Acoustic\)](https://open.spotify.com/album/0OQ08gOxNKQF2REAMJcz7c) | 3:29 |
 | 96 | [Human \- Acoustic](https://open.spotify.com/track/70fdF045x3n1ahv7MG6Z4H) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Remixes\)](https://open.spotify.com/album/4RtiPIrZPPG8iPZC9xQnP3) | 3:49 |
-| 97 | [She's Electric \- Acoustic](https://open.spotify.com/track/7Fqmr5xwLksBUgku1bfBFO) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [She's Electric \(Acoustic\)](https://open.spotify.com/album/1vdMBDG6eCCsInfSiIqc0E) | 3:36 |
+| 97 | [She's Electric \- Acoustic](https://open.spotify.com/track/7Fqmr5xwLksBUgku1bfBFO) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [She's Electric \(Acoustic\)](https://open.spotify.com/album/1vdMBDG6eCCsInfSiIqc0E) | 0:29 |
 | 98 | [Symphony \(feat\. Zara Larsson\) \- Acoustic Version](https://open.spotify.com/track/06R0AVKrZM91OJf1ubm80d) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Symphony \(feat\. Zara Larsson\) \[Acoustic\]](https://open.spotify.com/album/2ixRAW2pBgisVTmYKiJca0) | 3:36 |
 | 99 | [Show Me Love \- Acoustic](https://open.spotify.com/track/3K6XGKHABwuTGex94DRZuy) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Show Me Love \(Acoustic\)](https://open.spotify.com/album/1pKNXryic0E9p65bLM25MP) | 3:11 |
 | 100 | [Wings \- Acoustic](https://open.spotify.com/track/6RABQoaafYVilegWAT8iQK) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Wings \(Acoustic\)](https://open.spotify.com/album/0zKFZC6ieoYGW8IRvRWmoh) | 3:42 |

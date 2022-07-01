@@ -19,7 +19,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 89790,
       "name": "-Out",
       "url": "https://open.spotify.com/track/7aD3SBHCmZRnXxU2vYaEEQ"
@@ -337,7 +337,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 301960,
       "name": "Bird",
       "url": "https://open.spotify.com/track/6V18xIigW3Om7UyzyRUQEr"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 206972,
       "name": "Comply",
       "url": "https://open.spotify.com/track/7CD9nNvUKrDITWSKQ7B5ZU"
@@ -583,7 +583,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 365120,
       "name": "Crown of Sparrows",
       "url": "https://open.spotify.com/track/2iun2sZQLxJ5eezBZXNQ1E"
@@ -602,7 +602,7 @@
       "date_added": "2019-11-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 210000,
+      "duration_ms": 29048,
       "name": "Dark Clouds",
       "url": "https://open.spotify.com/track/19LVFbUPz580TCg9Ix8CWw"
     },
@@ -709,7 +709,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 464373,
       "name": "Ekki M\u00fakk",
       "url": "https://open.spotify.com/track/6vHRHxt4D2odA3DUUdTfKg"
@@ -919,7 +919,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 198946,
       "name": "Half The World Away",
       "url": "https://open.spotify.com/track/3m3Ic148ONaCBx8tGmtkHH"
@@ -963,7 +963,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 237826,
       "name": "Heading Home",
       "url": "https://open.spotify.com/track/4Nj7jHfEE44ppiAmVex7yJ"
@@ -982,7 +982,7 @@
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 160240,
+      "duration_ms": 29048,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/7BzhqmRj3iOZXqMHqiifHr"
     },
@@ -1183,7 +1183,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 250346,
       "name": "Last Ships",
       "url": "https://open.spotify.com/track/6Zt2prtf9IhxEUOto4jXH9"
@@ -1227,6 +1227,24 @@
     {
       "album": {
         "name": "Love Songs For Robots",
+        "url": "https://open.spotify.com/album/6ssJcFWde5qznoMHGM0XOs"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "date_added": "2018-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 29048,
+      "name": "Love Songs For Robots",
+      "url": "https://open.spotify.com/track/3XlDJDs3udH7l0H7bwk0WY"
+    },
+    {
+      "album": {
+        "name": "Love Songs For Robots",
         "url": "https://open.spotify.com/album/7IflPn7VDPvJJhVVpqYDNN"
       },
       "artists": [
@@ -1241,24 +1259,6 @@
       "duration_ms": 217606,
       "name": "Love Songs For Robots",
       "url": "https://open.spotify.com/track/0677QPrIf4L4c3VxEbMLvM"
-    },
-    {
-      "album": {
-        "name": "Love Songs For Robots",
-        "url": "https://open.spotify.com/album/6ssJcFWde5qznoMHGM0XOs"
-      },
-      "artists": [
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        }
-      ],
-      "date_added": "2018-11-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 217606,
-      "name": "Love Songs For Robots",
-      "url": "https://open.spotify.com/track/3XlDJDs3udH7l0H7bwk0WY"
     },
     {
       "album": {
@@ -1292,7 +1292,7 @@
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 229986,
+      "duration_ms": 29048,
       "name": "Made of gold",
       "url": "https://open.spotify.com/track/5SRdU8ZiqR39RDEy4yku1K"
     },
@@ -1309,7 +1309,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 330106,
       "name": "Mary",
       "url": "https://open.spotify.com/track/6dtB54Z7eICDUOPq3QwXuo"
@@ -1399,7 +1399,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 565720,
       "name": "My Dove, My Lamb",
       "url": "https://open.spotify.com/track/1arBwH3cCITd3MRAr2sn4d"
@@ -1483,7 +1483,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 274973,
       "name": "Neverending Fountain - Alt. Version",
       "url": "https://open.spotify.com/track/77qe3JNMJjOr3HFGR3JJP0"
@@ -1520,7 +1520,7 @@
       "date_added": "2019-09-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 240946,
+      "duration_ms": 29048,
       "name": "Noise",
       "url": "https://open.spotify.com/track/1nWhdD40KXZgvoh8KpnjSJ"
     },
@@ -1555,7 +1555,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 221053,
       "name": "One Half",
       "url": "https://open.spotify.com/track/4gDTwTId75QePmzeZ2woCQ"
@@ -1609,7 +1609,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 165320,
       "name": "Our Love's Funeral",
       "url": "https://open.spotify.com/track/11nv4KdXavlqZqTGHfAAbL"
@@ -1808,7 +1808,7 @@
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 209046,
+      "duration_ms": 29048,
       "name": "Sleep",
       "url": "https://open.spotify.com/track/4qwViLgn7s6gdHLnhZrOzH"
     },
@@ -1843,7 +1843,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 240560,
       "name": "Smother",
       "url": "https://open.spotify.com/track/1drUAdX3NY4dTieuxdedLY"
@@ -1897,7 +1897,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 232000,
       "name": "Sticky Leaves",
       "url": "https://open.spotify.com/track/0GOEs6J9NmgFMR03fE0hdQ"
@@ -1933,7 +1933,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 214680,
       "name": "Sunsetz",
       "url": "https://open.spotify.com/track/69UqtTHfUKAJweQwEStRzC"
@@ -1969,7 +1969,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 201176,
       "name": "The Choir",
       "url": "https://open.spotify.com/track/40qg0fkDONxEDrAPfxccHc"
@@ -2171,7 +2171,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 217146,
       "name": "Untitled 1",
       "url": "https://open.spotify.com/track/4mZlbfoM261nrxvqHgmDQ5"
@@ -2189,7 +2189,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 298586,
       "name": "Wash.",
       "url": "https://open.spotify.com/track/3g9mw4A8vdljOKgwrit88g"
@@ -2207,7 +2207,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 298586,
       "name": "Wash.",
       "url": "https://open.spotify.com/track/7q4THqtOTcUmWtuRDMobIG"
@@ -2298,7 +2298,7 @@
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 268097,
+      "duration_ms": 29048,
       "name": "White Sun",
       "url": "https://open.spotify.com/track/24fnXxDPHUMu9xwvUMEhoR"
     },

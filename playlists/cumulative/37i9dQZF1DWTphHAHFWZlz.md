@@ -4,7 +4,7 @@
 
 > El sonido del nuevo rock argentino esta acá\. Foto: Las Sombras.
 
-100 songs - 5 hr 49 min - not published yet
+100 songs - 5 hr 47 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Relajar](https://open.spotify.com/track/1kwQdi5SzOveKrlgEEfDnR) | [Rey Hindú](https://open.spotify.com/artist/0IdZ8iwao6oUqBJ2gfjSIW) | [Relajar](https://open.spotify.com/album/4XyQAtwJkj8XGLr1uObFWF) | 3:21 | 2022-06-29 |  |
 | [Revelado](https://open.spotify.com/track/2K822m6CHGBliLJqG9JkHt) | [Los Burritos](https://open.spotify.com/artist/20pbYX3EUvtEdG3Cjx9qG1) | [Revelado](https://open.spotify.com/album/1dWi6jCXNTxxCrpMd7aB5q) | 3:10 | 2022-06-29 |  |
 | [Royal Surf](https://open.spotify.com/track/6NFpSOagciiNbJoM91kjSq) | [La Skandalosa Tripulación](https://open.spotify.com/artist/3dTtKHXPMLmyevUFZO941G) | [Royal Surf](https://open.spotify.com/album/5D2bxX6GYBrz1IAPIJEE1J) | 3:54 | 2022-06-29 |  |
-| [Se Va Lejos](https://open.spotify.com/track/1z6YhJS25796qL3BvWCjhG) | [Superchería](https://open.spotify.com/artist/357XNr9zK8hSYbqT6prx4v) | [Superchería](https://open.spotify.com/album/7AJDzOjQ47jiQ35HteffDM) | 2:35 | 2022-06-29 |  |
+| [Se Va Lejos](https://open.spotify.com/track/1z6YhJS25796qL3BvWCjhG) | [Superchería](https://open.spotify.com/artist/357XNr9zK8hSYbqT6prx4v) | [Superchería](https://open.spotify.com/album/7AJDzOjQ47jiQ35HteffDM) | 0:29 | 2022-06-29 |  |
 | [Si No Te Tengo](https://open.spotify.com/track/0gNKibTjLyncHpWg9762P7) | [Tobías Arribillaga](https://open.spotify.com/artist/39Qb5pWWJrCaj7Ol7KTJPZ) | [Si No Te Tengo](https://open.spotify.com/album/1EMnEjwGfNDrzW5ZiFxAzL) | 2:52 | 2022-06-29 |  |
 | [Si Vienes](https://open.spotify.com/track/5ALrML18YCwXe9u4SwMKqS) | [Vozenoff](https://open.spotify.com/artist/0hASTHk8Lmdj2zAHvkfsfW), [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Si Vienes](https://open.spotify.com/album/5X2BAo2WXOz4pdacNwzK58) | 3:10 | 2022-06-29 |  |
 | [Siguiendo la Huella No Llego a París](https://open.spotify.com/track/14G1wMnTXGuvPckgAoZmiw) | [Viva Elástico](https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ) | [Siguiendo la Huella No Llego a París](https://open.spotify.com/album/3AcIAJ1kHSJAAyl0Cu9n3P) | 2:58 | 2022-06-29 |  |

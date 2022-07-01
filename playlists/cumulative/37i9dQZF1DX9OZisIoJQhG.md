@@ -4,7 +4,7 @@
 
 > Uplifting classical melodies to help you rise and shine.
 
-46 songs - 2 hr 40 min - [published](https://open.spotify.com/playlist/0QgKCcn9LhdDwr9yfJHm5c)
+46 songs - 2 hr 37 min - [published](https://open.spotify.com/playlist/0QgKCcn9LhdDwr9yfJHm5c)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Dawn \- From "Pride & Prejudice" Soundtrack](https://open.spotify.com/track/2k2MprlqkmDMKKOOWGREzW) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Pride and Prejudice \- OST](https://open.spotify.com/album/5pV86WRRdbyIdK3YkS7rOI) | 2:38 | 2022-02-04 |  |
 | [Dolly, Op\. 56: 1\. Berceuse](https://open.spotify.com/track/3NbAsIxDL0fVgNuCLD152P) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL), [Marielle Labèque](https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09) | [Fauré: Dolly Suite; Nocturnes; Barcarolles; Impromptus](https://open.spotify.com/album/1VMXYuxv7jwh3XzPZtoELi) | 2:56 | 2022-02-04 |  |
 | [Four Seasons Variation \(Arr\. for Piano from Violin Concerto, RV 297, "Winter": II\. Largo by Svetoslav Karparov\)](https://open.spotify.com/track/7jezOL1bXEUmQtbCKFrmof) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp) | [Family](https://open.spotify.com/album/1Jnd4ZqS9ev1hT6Fj0JRlP) | 2:01 | 2022-02-04 |  |
-| [Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/5bu9A6uphPWg39RC3ZKeku) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [Bach: The Goldberg Variations, BWV 988 \(1981 Gould Remaster\)](https://open.spotify.com/album/1aCpHSQE5ghxibsQ5gkBe0) | 3:04 | 2022-02-04 |  |
+| [Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/5bu9A6uphPWg39RC3ZKeku) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [Bach: The Goldberg Variations, BWV 988 \(1981 Gould Remaster\)](https://open.spotify.com/album/1aCpHSQE5ghxibsQ5gkBe0) | 0:29 | 2022-02-04 |  |
 | [Guiding Light](https://open.spotify.com/track/6DsGXu4Hii9LyNPLexGCwU) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Guiding Light](https://open.spotify.com/album/1OsTAPPpJmkQh8uyeZJRfa) | 3:17 | 2022-02-04 |  |
 | [Holberg Suite, Op\. 40: II\. Sarabande \(Andante\)](https://open.spotify.com/track/4SXNho7ARXRuvxEIXa4uJ0) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Gothenburg Symphony Orchestra](https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2), [Neeme Järvi](https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps) | [Grieg: Holberg Suite; Lyric Suite](https://open.spotify.com/album/1svqZTOGQ1yT4t3p5IRDZX) | 3:14 | 2022-02-04 | 2022-05-26 |
 | [Kinderszenen, Op\. 15: No\. 1, Von fremden Ländern und Menschen](https://open.spotify.com/track/4vi9pBR7yJhBzGaNu0k1gj) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Vladimir Horowitz](https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq) | [Schumann: Kinderszenen; Arabesque; Fantasie; Träumerei](https://open.spotify.com/album/5OmHBy2Gm6zSt7sihzbEW2) | 1:33 | 2022-02-04 |  |

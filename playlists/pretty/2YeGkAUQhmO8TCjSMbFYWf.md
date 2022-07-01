@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/2YeGkAUQhmO8TCjSMbFYWf.md) - [plain]
 
 > Honor your body, fuel your mind\. Love Life\. Live Yoga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,500 likes - 22 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,499 likes - 22 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wild Ones](https://open.spotify.com/track/6UrF9LIhffllzblKlEVYxm) | [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu) | [Wild Ones](https://open.spotify.com/album/0i38l8BvajWcN009SoRDVp) | 3:04 |
 | 2 | [Hungry](https://open.spotify.com/track/5oe8ei8OtZzp8xmuzguRfG) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [7 Layers](https://open.spotify.com/album/7xHurOB8aG4kNCKsaAn62T) | 3:29 |
-| 3 | [Mushaboom](https://open.spotify.com/track/64hljWdSmG5yiJmd4QWR0a) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/0peHQm7gEXWqmeXms8tQmO) | 3:43 |
+| 3 | [Mushaboom](https://open.spotify.com/track/64hljWdSmG5yiJmd4QWR0a) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/0peHQm7gEXWqmeXms8tQmO) | 0:29 |
 | 4 | [Shine](https://open.spotify.com/track/4hIv0vg8xbxlbbde8cIkcz) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before the Snowstorm](https://open.spotify.com/album/2llC1TaaFaKVDEveEq9hXW) | 3:02 |
-| 5 | [Celeste](https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste EP](https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt) | 3:23 |
-| 6 | [Heartbeats](https://open.spotify.com/track/7BzhqmRj3iOZXqMHqiifHr) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Imperial Recordings Best Of](https://open.spotify.com/album/6v5e6P19VdYAy73GGjRDBV) | 2:40 |
+| 5 | [Celeste](https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste EP](https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt) | 0:29 |
+| 6 | [Heartbeats](https://open.spotify.com/track/7BzhqmRj3iOZXqMHqiifHr) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Imperial Recordings Best Of](https://open.spotify.com/album/6v5e6P19VdYAy73GGjRDBV) | 0:29 |
 | 7 | [Love We Are We Love](https://open.spotify.com/track/0Uxl9loKOLG66bI9PVqMaV) | [The Sea The Sea](https://open.spotify.com/artist/3uKFW2tuZB4NFThJfHJtZ1) | [Love We Are We Love](https://open.spotify.com/album/4XfShOwXcw2fAQD1iMXYoe) | 4:04 |
 | 8 | [Cassy O'](https://open.spotify.com/track/47npAmYQaQDQAeVzxN1JGG) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Cassy O' \(EP\)](https://open.spotify.com/album/7maZrVJGD2VVevE5YJX68x) | 3:06 |
 | 9 | [Hold On](https://open.spotify.com/track/5aevXNAJ8lClu9yvSRQvZQ) | [RIVVRS](https://open.spotify.com/artist/5T3N5ks9c3L7D4aXw54DVs) | [Unfamiliar Skin](https://open.spotify.com/album/61nSWP4xo1Bi2vLyNrZYcP) | 3:42 |

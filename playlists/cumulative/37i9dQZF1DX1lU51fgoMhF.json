@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 207477,
       "name": "4 Walls",
       "url": "https://open.spotify.com/track/2YkjXEab4USTV9uuAgC90E"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 200813,
       "name": "AH EE YAH",
       "url": "https://open.spotify.com/track/3nTmLNMMydS6NjSvS5Mqa9"
@@ -391,7 +391,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 211293,
       "name": "Atlantis Princess",
       "url": "https://open.spotify.com/track/3NFXgRyGUH3j0dQ9PB4rWC"
@@ -409,7 +409,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 202400,
       "name": "AYAYAYA",
       "url": "https://open.spotify.com/track/4Cuh5uqjIgUw4GRxqABUxh"
@@ -485,7 +485,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 242062,
       "name": "Be My Lover",
       "url": "https://open.spotify.com/track/3g4dzZWuPHGZs4xOXfDQik"
@@ -521,7 +521,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 183933,
       "name": "Beautiful Night",
       "url": "https://open.spotify.com/track/6kDTdIoSgVqm4hWj0EIhHz"
@@ -579,7 +579,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 181146,
       "name": "Better Me",
       "url": "https://open.spotify.com/track/7sikv3XMiEIDESAS7PEkBB"
@@ -723,7 +723,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 243080,
       "name": "BOP BOP! - Highteen Version",
       "url": "https://open.spotify.com/track/491J2YuRjghqBNNunxzXLg"
@@ -749,6 +749,24 @@
       "duration_ms": 176906,
       "name": "Break Ice",
       "url": "https://open.spotify.com/track/4iEeJKOE5zjsRbWBGkj9lS"
+    },
+    {
+      "album": {
+        "name": "IM NAYEON",
+        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181413,
+      "name": "CANDYFLOSS",
+      "url": "https://open.spotify.com/track/3r6v6awkmqrHLj9yKaYZmZ"
     },
     {
       "album": {
@@ -817,7 +835,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 192484,
       "name": "Chica",
       "url": "https://open.spotify.com/track/6wV0zmb3delVInoCiWdEdZ"
@@ -879,7 +897,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 147320,
       "name": "Conversation",
       "url": "https://open.spotify.com/track/51m3W8o9IlVrdWDEyqSY4F"
@@ -933,7 +951,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 216720,
       "name": "Dear you",
       "url": "https://open.spotify.com/track/1mttCFELeKHQIs6A3WUNj5"
@@ -1009,7 +1027,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 194000,
       "name": "Don't forget",
       "url": "https://open.spotify.com/track/3vUhplxWXZzRROaw3zmeag"
@@ -1117,7 +1135,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 197101,
       "name": "Dynamite - Tropical Remix",
       "url": "https://open.spotify.com/track/7r6bu5Xd0q2TK1QQMduxb8"
@@ -1157,7 +1175,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 207693,
       "name": "Far",
       "url": "https://open.spotify.com/track/0uE82ZU216vukGrT7L8d9K"
@@ -1175,7 +1193,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 213933,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/7H4X19ofIhtgsNzGss2ebd"
@@ -1211,7 +1229,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 205346,
       "name": "FEVER",
       "url": "https://open.spotify.com/track/6eKNfMj4VnioR0LcXo6ktd"
@@ -1284,7 +1302,7 @@
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 237076,
+      "duration_ms": 29048,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/56bHclo7YNvpujMveLElQn"
     },
@@ -1359,7 +1377,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 186970,
       "name": "GET LOUD",
       "url": "https://open.spotify.com/track/4W9IB5GJB8w6t9dcvdHb8B"
@@ -1403,7 +1421,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 158911,
       "name": "goodbye June",
       "url": "https://open.spotify.com/track/0M5q5GduZrUTKwsVm4HGNL"
@@ -1566,7 +1584,7 @@
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 172634,
+      "duration_ms": 29048,
       "name": "I Don't Miss You",
       "url": "https://open.spotify.com/track/42I5z4IRj90oQ5iyk6aqGc"
     },
@@ -1807,7 +1825,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 206386,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/211bSRBUn8BeVFjWCd1H0o"
@@ -1977,7 +1995,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 232146,
       "name": "Lonely Night",
       "url": "https://open.spotify.com/track/4XU6e2GZEivyaBWMR2zePc"
@@ -2391,10 +2409,32 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 216093,
       "name": "NO GOOD REASON",
       "url": "https://open.spotify.com/track/2dj8zWm8Kexsi59SRFEN7n"
+    },
+    {
+      "album": {
+        "name": "IM NAYEON",
+        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        },
+        {
+          "name": "Felix of Stray Kids",
+          "url": "https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196160,
+      "name": "NO PROBLEM (Feat. Felix of Stray Kids)",
+      "url": "https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC"
     },
     {
       "album": {
@@ -2463,7 +2503,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 211960,
       "name": "Now or Never",
       "url": "https://open.spotify.com/track/1FNZqjmqkJgE5Bn8BAzZGt"
@@ -2579,7 +2619,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 225400,
       "name": "OXYGEN",
       "url": "https://open.spotify.com/track/128rj96Z6tTEU3h3awSMdB"
@@ -2601,6 +2641,24 @@
       "duration_ms": 193866,
       "name": "Paeonia",
       "url": "https://open.spotify.com/track/1Unl2r6bKGsAV90WNNRJ2M"
+    },
+    {
+      "album": {
+        "name": "The Story",
+        "url": "https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182800,
+      "name": "Parade",
+      "url": "https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n"
     },
     {
       "album": {
@@ -2995,7 +3053,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 193120,
       "name": "Rococo",
       "url": "https://open.spotify.com/track/6SJNYr4HPQK678UZZI4yQP"
@@ -3067,7 +3125,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 201859,
       "name": "Rollin' (New Version)",
       "url": "https://open.spotify.com/track/7DkqdEiDja7Gn9zvrfy7Vw"
@@ -3121,8 +3179,8 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
-      "duration_ms": 205453,
+      "date_removed": null,
+      "duration_ms": 29048,
       "name": "SAY MY NAME",
       "url": "https://open.spotify.com/track/2bqJlYb6t4lXKGB4Xd4TjK"
     },
@@ -3175,7 +3233,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 207906,
       "name": "See Sea, BAE",
       "url": "https://open.spotify.com/track/1FaFCInUMdizjVUKkMZxro"
@@ -3211,7 +3269,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 202586,
       "name": "Skip Skip",
       "url": "https://open.spotify.com/track/2Zb4ieqfoCB6WP5LO2NmCK"
@@ -3229,7 +3287,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 243346,
       "name": "So What",
       "url": "https://open.spotify.com/track/2O6xWo72i6URMHmWVu4zgy"
@@ -3265,7 +3323,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 201600,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/19WLJ1GQY3IMXUOMvbcpDk"
@@ -3283,7 +3341,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 211236,
       "name": "Starry Night",
       "url": "https://open.spotify.com/track/5MaDeMdqsPsZTxNWdEZPVH"
@@ -3319,7 +3377,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 231040,
       "name": "SUGAR",
       "url": "https://open.spotify.com/track/3J33REyr0X61LC869JrocX"
@@ -3439,7 +3497,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 224466,
       "name": "Summertime (Feat. Keem Hyoeun)",
       "url": "https://open.spotify.com/track/7oK8KEekZqC9aHmFiKS1i9"
@@ -3551,7 +3609,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "Too Too (22)",
       "url": "https://open.spotify.com/track/2uA3jfkWImtEGF0qIDoMRc"
@@ -3627,7 +3685,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 273013,
       "name": "Waka Boom (My Way) (feat. Lee Young Ji)",
       "url": "https://open.spotify.com/track/7ffdSBhoPgPcyVn2hNmiDz"
@@ -3689,7 +3747,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 164920,
       "name": "Waves (feat. Simon Dominic & Jamie)",
       "url": "https://open.spotify.com/track/6fXesHsuCFf80vYzDP26J5"
@@ -3815,7 +3873,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 223920,
       "name": "Whistle",
       "url": "https://open.spotify.com/track/7iKbV28gTF43LAeovwznXT"

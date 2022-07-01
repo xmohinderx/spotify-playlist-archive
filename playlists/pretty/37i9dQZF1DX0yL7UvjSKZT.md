@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Mama's Broke
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,150 likes - 119 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,182 likes - 119 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 14 | [Don't Cry](https://open.spotify.com/track/6nnDEzYTDH9kYDVvndebqN) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Don't Cry](https://open.spotify.com/album/2nWaFbthQGIJAfHg3zhCJg) | 3:21 |
 | 15 | [Hole In My Pocket](https://open.spotify.com/track/3eus1BzoSc9LG0pJB5VVig) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [Hole In My Pocket](https://open.spotify.com/album/4Q2LMlt43lVXjJuuslS2hQ) | 3:04 |
 | 16 | [Holy Ground](https://open.spotify.com/track/1uVNQx93kyNDlBTnXPzKaa) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [Holy Ground](https://open.spotify.com/album/1wHctKgZzTJc7FKAv71Xfg) | 4:22 |
-| 17 | [Iron & Ore](https://open.spotify.com/track/0V5HKIZzUKlZ8He2Zfp4Eh) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [The Last Revel](https://open.spotify.com/album/3myX8j297y7X7rdSE3LVg2) | 3:54 |
+| 17 | [Iron & Ore](https://open.spotify.com/track/0V5HKIZzUKlZ8He2Zfp4Eh) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [The Last Revel](https://open.spotify.com/album/3myX8j297y7X7rdSE3LVg2) | 0:29 |
 | 18 | [Stress Dreams](https://open.spotify.com/track/3ww5HAGF6KoQB9g2yiohMP) | [Greensky Bluegrass](https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn) | [Stress Dreams](https://open.spotify.com/album/2eKgpWDXS5n259CsN2PlRx) | 8:01 |
 | 19 | [Strange Winds](https://open.spotify.com/track/3XepsxnFOALoHKxabNZ8TF) | [Rev Ezra](https://open.spotify.com/artist/3kxPC4Jstp20P1xWvdMoVB) | [Strange Winds](https://open.spotify.com/album/1yOfDbta0Oc1Wn90Z4gDyy) | 3:24 |
 | 20 | [Abigail](https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7) | [Chatham Rabbits](https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od) | [Abigail](https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3) | 3:17 |
-| 21 | [Whiskey](https://open.spotify.com/track/304pRAROhKx7jQdNYztux2) | [Tejon Street Corner Thieves](https://open.spotify.com/artist/3k9kCfMqAsrd90TMsYzzmo) | [Whiskey](https://open.spotify.com/album/63fTnMULwSceWns5rETNHV) | 4:01 |
+| 21 | [Whiskey](https://open.spotify.com/track/304pRAROhKx7jQdNYztux2) | [Tejon Street Corner Thieves](https://open.spotify.com/artist/3k9kCfMqAsrd90TMsYzzmo) | [Whiskey](https://open.spotify.com/album/63fTnMULwSceWns5rETNHV) | 0:29 |
 | 22 | [A Faded Star](https://open.spotify.com/track/4WidGItghW8sCcIQj93Xod) | [The Deadly Gentlemen](https://open.spotify.com/artist/4dtiIYPHTDAkzOECVtalw5) | [Roll Me, Tumble Me](https://open.spotify.com/album/1vFtsKWIMFAf2QhWcxEiD4) | 4:24 |
 | 23 | [Next to Nothing](https://open.spotify.com/track/32rfM7bIDwz44zCcLwcdKC) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Haste Make / Hard Hearted Stranger](https://open.spotify.com/album/5nBEPxMYprdGPngcur3JoV) | 3:31 |
 | 24 | [Shiver](https://open.spotify.com/track/5TiDYdUa8B6rod4U7389Kr) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt), [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4) | [Shiver](https://open.spotify.com/album/60z9HLMTqPLS1nt3OLUBCB) | 3:32 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 62 | [Troubles](https://open.spotify.com/track/6nnGWRHzscBMWQZjxokadI) | [Anna & Elizabeth](https://open.spotify.com/artist/1Zd2jFygzaM9fyijiieSI7) | [Anna & Elizabeth](https://open.spotify.com/album/4vdbptzhY4LSdn8H31J08U) | 2:14 |
 | 63 | [Sometimes I](https://open.spotify.com/track/2bz32yhGhMaj3LNnQpyFE9) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Sometimes I](https://open.spotify.com/album/6YYBs0rzC30URlk77ULuMW) | 6:17 |
 | 64 | [Marianne](https://open.spotify.com/track/4vx0FK5GfHdFSSNMRMeuLa) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Old Time Reverie](https://open.spotify.com/album/3uNiWWdpmOkw7i8DSaELav) | 3:22 |
-| 65 | [Church Street Blues](https://open.spotify.com/track/6OOVB3awfnJNb4MbVO0q39) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Church Street Blues](https://open.spotify.com/album/72mviqI8YSWDqwa3jREQoU) | 2:33 |
-| 66 | [No Falling Out of Love](https://open.spotify.com/track/6F3SGMXJUEHpcn7gwZeLNq) | [Bailey Bigger](https://open.spotify.com/artist/2F5hL2QOcp2BJw1tA5oHXm) | [Coyote Red](https://open.spotify.com/album/6ZGSyuomVmv4buVjxBjmah) | 5:23 |
+| 65 | [Church Street Blues](https://open.spotify.com/track/6OOVB3awfnJNb4MbVO0q39) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Church Street Blues](https://open.spotify.com/album/72mviqI8YSWDqwa3jREQoU) | 0:29 |
+| 66 | [No Falling Out of Love](https://open.spotify.com/track/6F3SGMXJUEHpcn7gwZeLNq) | [Bailey Bigger](https://open.spotify.com/artist/2F5hL2QOcp2BJw1tA5oHXm) | [Coyote Red](https://open.spotify.com/album/6ZGSyuomVmv4buVjxBjmah) | 0:29 |
 | 67 | [Intentions](https://open.spotify.com/track/2D7OJKIDb9orPkcgZd5OAp) | [Sean Waters](https://open.spotify.com/artist/7xAiCdg8rJmhZtvpYnpbGD) | [Intentions](https://open.spotify.com/album/4RFlBj7vLZ72jtihEXY0Ib) | 3:32 |
 | 68 | [Such Great Heights](https://open.spotify.com/track/4Vk9JVC3eBEY35i7JgkSTG) | [Joy Kills Sorrow](https://open.spotify.com/artist/6ZRMYLLAQlmSluihxBYw0C) | [Wide Awake](https://open.spotify.com/album/2vIgHcmDHz5Vx2hBezjumT) | 4:13 |
 | 69 | [Hey Magnolia](https://open.spotify.com/track/3JyOC3UOO8lTzbADm8UNyQ) | [Forest Sun](https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf) | [Hey Magnolia](https://open.spotify.com/album/5DNdTA8fnE85rNWpdEFtcR) | 2:44 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 85 | [Until Im Grey](https://open.spotify.com/track/3IdtVVOVZZMuVeDuMmfdxn) | [Brett Gordon Lloyd](https://open.spotify.com/artist/45GbybEP5hqvpdVZLAzCpK) | [Until Im Grey](https://open.spotify.com/album/7DQZcGwFxkS1WmKI0H1NgW) | 4:32 |
 | 86 | [Ocean Bed](https://open.spotify.com/track/2BWuYpaqwipELjFdTlui9P) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Fish Pond Fish](https://open.spotify.com/album/4l3Y57hxx4pkndMSfEg2q7) | 4:00 |
 | 87 | [Yarrow](https://open.spotify.com/track/4sGJEM8PFJTvM3AcVRs8G4) | [Red Tail Ring](https://open.spotify.com/artist/7eFNDfeRSsRCcUGLBVZZB3) | [Fall Away Blues](https://open.spotify.com/album/5b5tbQBg8U6xVdnUzofOFr) | 3:21 |
-| 88 | [Folk Bloodbath](https://open.spotify.com/track/7cwPw3wT77MvYo4Q8mcDLk) | [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C) | [Folk Bloodbath](https://open.spotify.com/album/7BUGUk2LXFZUlZFhwHNsVc) | 6:04 |
+| 88 | [Folk Bloodbath](https://open.spotify.com/track/7cwPw3wT77MvYo4Q8mcDLk) | [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C) | [Folk Bloodbath](https://open.spotify.com/album/7BUGUk2LXFZUlZFhwHNsVc) | 0:29 |
 | 89 | [The Fox and the River](https://open.spotify.com/track/1hRSSZblPpjmq4vU4ZeZ0t) | [Kate Prascher](https://open.spotify.com/artist/26AEagFod7amlwiCyy0JsY) | [The Fox and the River](https://open.spotify.com/album/6ZMRkSwZzjYwBMmM3aCfeq) | 3:05 |
 | 90 | [Sing Along \- Demo](https://open.spotify.com/track/2KfEwhZO0XH8hpRq0qeGGt) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [The Lights from the Chemical Plant \(Deluxe Edition\)](https://open.spotify.com/album/1rvogFExMDIwuKKmUBru0A) | 4:03 |
 | 91 | [Swarm \(Live\)](https://open.spotify.com/track/1qCRXkjsYFCHbSclL7Q8DE) | [Whiskey Shivers](https://open.spotify.com/artist/2N91y9Uko6gWwugdCpxJYH) | [Whiskey Shivers Live At the Good Music Club](https://open.spotify.com/album/0rpDrksHkwnw2gZ6w5HuV2) | 2:54 |
@@ -125,7 +125,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 115 | [Real World](https://open.spotify.com/track/3bimtjFTf1f44qp2dH9m5F) | [Highland Reverie](https://open.spotify.com/artist/1xm0FYqJd14TSZdz5huwd2) | [Real World](https://open.spotify.com/album/6Z4aXYZHNwCcKhgrjfztZy) | 3:17 |
 | 116 | [Gone](https://open.spotify.com/track/3A37e37f2HPZ3Nq75akQqW) | [Michelle Rivers](https://open.spotify.com/artist/77pTWntGDAr6uRxFq2GZQc) | [Gone](https://open.spotify.com/album/6RSSNjlOMArkHjtgMU0YFb) | 4:05 |
 | 117 | [A Ghost Whispers](https://open.spotify.com/track/0UZ1zFXfrsRIVVoz1AvNWJ) | [Red Tail Ring](https://open.spotify.com/artist/7eFNDfeRSsRCcUGLBVZZB3) | [Fall Away Blues](https://open.spotify.com/album/5b5tbQBg8U6xVdnUzofOFr) | 3:13 |
-| 118 | [The Tide](https://open.spotify.com/track/0XZelTejXEzaztup9j4xnO) | [The Lonely Heartstring Band](https://open.spotify.com/artist/3d7YNQ39OxBxWOn1VX4J26) | [The Tide](https://open.spotify.com/album/6Tn1yJmveMLAmATKi3m5cc) | 4:18 |
+| 118 | [The Tide](https://open.spotify.com/track/0XZelTejXEzaztup9j4xnO) | [The Lonely Heartstring Band](https://open.spotify.com/artist/3d7YNQ39OxBxWOn1VX4J26) | [The Tide](https://open.spotify.com/album/6Tn1yJmveMLAmATKi3m5cc) | 0:29 |
 | 119 | [Ohio](https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu) | [Haunted Like Human](https://open.spotify.com/artist/2y7Fos4NcrCLzEuf0BC2UI) | [Tall Tales & Fables](https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr) | 2:57 |
 
 Snapshot ID: `MTY1NjE4Nzc2MywwMDAwMDA0NDAwMDAwMTgxOWM3YmJhMjAwMDAwMDE4MGJkNTA4ZmM2`

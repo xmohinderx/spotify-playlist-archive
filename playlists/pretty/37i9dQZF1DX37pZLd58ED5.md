@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 
 > Solo beat e rime avvolgenti\. Cover: Neima Ezza
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,392 likes - 55 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,520 likes - 55 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 | 46 | [Novità \(feat\. Rkomi, Ernia & Tedua\)](https://open.spotify.com/track/0hkY6Je3FYVPCCLZNtPKhH) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Mattoni](https://open.spotify.com/album/1l1cFQQfIbsDDbPavkCosf) | 3:04 |
 | 47 | [Dilemme \(with tha Supreme & Mara Sattei\)](https://open.spotify.com/track/1Whf2ZaesM1gXlU0z3Fslt) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [Dilemme \(with tha Supreme & Mara Sattei\)](https://open.spotify.com/album/58UfZvPf388nNXT6nnszRp) | 3:51 |
 | 48 | [Vestiti D’Odio \(con PSICOLOGI\)](https://open.spotify.com/track/3NLE4ioQE8aWxoJjk2IQTC) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC), [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro), [Mr\. Monkey](https://open.spotify.com/artist/1sHljqzdPCaYRcFrkHW8if) | [Vestiti D’Odio \(con PSICOLOGI\)](https://open.spotify.com/album/00yrlb5Oun1DVBxkAwthTx) | 2:51 |
-| 49 | [Solido](https://open.spotify.com/track/2gPENupbdW8MMPijDovU4a) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [La Bella Musica](https://open.spotify.com/album/42tTqiNZ6vqy1qaTdXyp0J) | 3:14 |
+| 49 | [Solido](https://open.spotify.com/track/2gPENupbdW8MMPijDovU4a) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [La Bella Musica](https://open.spotify.com/album/42tTqiNZ6vqy1qaTdXyp0J) | 0:29 |
 | 50 | [m12ano \- feat\. Mara Sattei](https://open.spotify.com/track/0LfMuWu6FKNSDHEoxHu9iK) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [23 6451](https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO) | 3:08 |
 | 51 | [BUONANOTTE ❈ \(con NOYZ NARCOS, FRANCO126 & SIDE BABY\)](https://open.spotify.com/track/70im6fWHD1m7VQve5I6Yim) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [OBE](https://open.spotify.com/album/2oT1W5fYFSfU3fz5Q55HWj) | 3:28 |
 | 52 | [APPARTENGO \- Il sangue \(feat\. Massimo Pericolo\)](https://open.spotify.com/track/2tpfOljBdskx8G331TjRps) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [Persona](https://open.spotify.com/album/19iZTn6IM82raMquk5Z7Ul) | 4:15 |

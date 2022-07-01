@@ -4,12 +4,12 @@
 
 > A journey into the unknown, dark, and experimental.
 
-75 songs - 4 hr 47 min - [published](https://open.spotify.com/playlist/4Yl6V9aO8ob35sgpwk1lVL)
+75 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/4Yl6V9aO8ob35sgpwk1lVL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4ÆM](https://open.spotify.com/track/3sqmHaUVKizwwoKsHMVc1U) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/1ZKbjlrUC5REoa13uSH5KL) | 4:30 | 2020-10-20 |  |
-| [A Garden by the Sea](https://open.spotify.com/track/1Nzdc7gAPufUvqXulMHsWu) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 4:42 | 2021-01-22 |  |
+| [A Garden by the Sea](https://open.spotify.com/track/1Nzdc7gAPufUvqXulMHsWu) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 0:29 | 2021-01-22 |  |
 | [Anymore](https://open.spotify.com/track/41k9LvMt9xspB5nueIUsfU) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Anymore](https://open.spotify.com/album/1gN8dVk0oKtQoHdk1oxKrL) | 2:34 | 2022-02-18 |  |
 | [Are You Doing This to Hurt Me](https://open.spotify.com/track/1q1Qr395Oi5gGpvFZ0Mxn3) | [Ethan P\. Flynn](https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z) | [Are You Doing This to Hurt Me](https://open.spotify.com/album/2NJeqsoWnKj52Rr9IFYDRx) | 3:48 | 2020-10-20 |  |
 | [AS Too Wrong](https://open.spotify.com/track/0rCbNEFbEJPWffx6BmRH9Z) | [Amnesia Scanner](https://open.spotify.com/artist/2J3LwjEkmryU6BSAubwbMF) | [Another Life](https://open.spotify.com/album/5hS95DwA6vG0R5cHZPzg7h) | 4:14 | 2020-10-20 |  |
@@ -27,7 +27,7 @@
 | [Fear is your Only God](https://open.spotify.com/track/0uHZlstP3u3R2lA3WBjXqr) | [Mala Sangre](https://open.spotify.com/artist/4ZNEFyoM6tmMuwuTGH2vbh) | [Fear is your Only God](https://open.spotify.com/album/33yHeuUDSnnCpuc7Af2eR1) | 4:26 | 2021-06-23 |  |
 | [Harimau](https://open.spotify.com/track/2pRilzRQGc3pAIlpZWYgZG) | [Zatua](https://open.spotify.com/artist/75bOXA83zDlnrFh1clMrCj) | [Sin Existencia](https://open.spotify.com/album/6IjQpSZvu3171WDCQAaHf2) | 5:13 | 2020-10-20 |  |
 | [HATE](https://open.spotify.com/track/7BCnH6TnAy4bpO21NcqEHe) | [Alina Pash](https://open.spotify.com/artist/2rC7t19zOtFIcJvmi6lH1i) | [Amerikraine Dream](https://open.spotify.com/album/0q2WCwd8k4rSiuvha8aap5) | 3:32 | 2020-10-20 |  |
-| [Hot Pink](https://open.spotify.com/track/59rdoga3q8OVCR5WnSGVM8) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [I'm All Ears](https://open.spotify.com/album/4TgXvHJWXGk0BlBvfs13Qg) | 4:08 | 2020-10-20 |  |
+| [Hot Pink](https://open.spotify.com/track/59rdoga3q8OVCR5WnSGVM8) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [I'm All Ears](https://open.spotify.com/album/4TgXvHJWXGk0BlBvfs13Qg) | 0:29 | 2020-10-20 |  |
 | [I Need You Right Now](https://open.spotify.com/track/4Mso4ICacStqBvbyEqKXvB) | [Marty Crown](https://open.spotify.com/artist/1uBIrNa3fN3hYsi0MKuLtS) | [I Need You Right Now](https://open.spotify.com/album/38yTFu2TPj6SgCx4rItkgk) | 4:07 | 2021-06-23 |  |
 | [I Was Wrong](https://open.spotify.com/track/0CeY5CPaFPvl3BBx7rlkYX) | [w\. baer](https://open.spotify.com/artist/4ke7r9NNRe8Wg7ouwg7xOO) | [De Dust2](https://open.spotify.com/album/4lyXEmxTF8EMIwr8hbDmo5) | 3:24 | 2020-10-20 |  |
 | [Incendio](https://open.spotify.com/track/3Ju42J1sFmVpxkGGSFpcWb) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Incendio](https://open.spotify.com/album/4cmrJPAbJQuBpGPIKbHzfQ) | 2:44 | 2021-10-01 |  |
@@ -48,7 +48,7 @@
 | [Pillar](https://open.spotify.com/track/6vloZ2bNS9EnmOBTu3xksl) | [２８１４](https://open.spotify.com/artist/2wBpW4bAGYVe0yJcBeCTyd) | [Pillar / New Sun](https://open.spotify.com/album/2Ij95MZMwYFLiGUI0xhIZS) | 9:45 | 2020-10-20 |  |
 | [pink diamond](https://open.spotify.com/track/3V0PgcsUMlAGXwCD0084pY) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:04 | 2020-10-20 |  |
 | [Ponyboy](https://open.spotify.com/track/30lIB7UwSLy5qgkfYZEtB1) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:14 | 2020-10-20 |  |
-| [popular](https://open.spotify.com/track/4n9TwryLI8dc7JA7zCS7He) | [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [search result](https://open.spotify.com/album/0QImn8JzTpAMxhGdKWzJCk) | 3:33 | 2020-10-20 |  |
+| [popular](https://open.spotify.com/track/4n9TwryLI8dc7JA7zCS7He) | [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [search result](https://open.spotify.com/album/0QImn8JzTpAMxhGdKWzJCk) | 0:29 | 2020-10-20 |  |
 | [Raja Kirik \(Dog King\)](https://open.spotify.com/track/31F5fC1a6AGmzh7bZj7QwS) | [Yennu Ariendra](https://open.spotify.com/artist/4k01UHAnX9skbKaqYpD2nt), [J Mo'ong Santoso Pribadi](https://open.spotify.com/artist/3gjuapOhwP1QHYvIu3Xzjz) | [Raja Kirik](https://open.spotify.com/album/0fzYY8CqqgwFeeOm823Gfu) | 8:09 | 2020-10-20 |  |
 | [Recover](https://open.spotify.com/track/6YzfsSLXsMefRCno6FJTd7) | [Trophie](https://open.spotify.com/artist/267gjhlmcoscSuzUHiKqX8) | [Recover](https://open.spotify.com/album/1lQntsXzOIiW4lXNe4Wkj2) | 3:26 | 2020-10-20 |  |
 | [Rich Bitch Juice](https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Rich Bitch Juice](https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq) | 2:00 | 2020-10-20 |  |
@@ -61,12 +61,12 @@
 | [Tectonic](https://open.spotify.com/track/2ghaHr9ExEOlqN3gOFzWUY) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Tectonic](https://open.spotify.com/album/3VZtu7girTT5vEWivWj3oC) | 4:37 | 2021-07-09 |  |
 | [Teeth Agape](https://open.spotify.com/track/6gmjRi8EuLj4B3WCIvByOO) | [Tanya Tagaq](https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY) | [Teeth Agape](https://open.spotify.com/album/2aIuj5VJNI7V4TvjGd8qEM) | 3:35 | 2022-02-18 |  |
 | [The Fall](https://open.spotify.com/track/5ed50PaOoQJROmeOxL85Xk) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Missing Molars \(SWNT Deluxe\)](https://open.spotify.com/album/7wwrpQta9BNh84obd8nFWN) | 2:18 | 2021-07-18 |  |
-| [The Fountain](https://open.spotify.com/track/2W9OF8EQKVl6dexLio5REX) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 3:16 | 2021-01-22 |  |
+| [The Fountain](https://open.spotify.com/track/2W9OF8EQKVl6dexLio5REX) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 0:29 | 2021-01-22 |  |
 | [Tintoretto, It's for You](https://open.spotify.com/track/4hNlGoJ9rgKaMSBermXqwZ) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Tintoretto, It's for You](https://open.spotify.com/album/3pGqMfIDbb7rtdf4qiqDLE) | 3:05 | 2022-02-18 |  |
 | [Todo Lo Que Pido](https://open.spotify.com/track/5ZD3VYewwI5s6wzPOZusxn) | [Rayotaser](https://open.spotify.com/artist/3RsgNEOhNLBPaFb2kJ3jmL) | [Robocops](https://open.spotify.com/album/1EzsCrkrSzuQtaA6yd6N0o) | 8:33 | 2020-10-20 |  |
 | [Tommy](https://open.spotify.com/track/5DIDBpv8X1eDO9v5b5IJn1) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Tommy Genesis](https://open.spotify.com/album/5c5i8rgLzFHNI5Y3Wc1C39) | 2:42 | 2020-10-20 |  |
 | [Tongues](https://open.spotify.com/track/3Jq8Aw4T4XZa4ieAbJ40qX) | [Tanya Tagaq](https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY) | [Tongues](https://open.spotify.com/album/5rRSnfldLLZWYeksxKwHYP) | 3:22 | 2021-10-01 |  |
-| [TWELVE](https://open.spotify.com/track/7MWrJXBSoTq6L7BvIsdFJp) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [ALIAS](https://open.spotify.com/album/3lpcZOAsYJzvPepNSbzMSb) | 2:32 | 2020-11-20 |  |
+| [TWELVE](https://open.spotify.com/track/7MWrJXBSoTq6L7BvIsdFJp) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [ALIAS](https://open.spotify.com/album/3lpcZOAsYJzvPepNSbzMSb) | 0:29 | 2020-11-20 |  |
 | [Twist](https://open.spotify.com/track/36IJNDHIljR94apizT5Iks) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [ANIMA](https://open.spotify.com/album/1g4vEVvVVFvFju0gS0DMbh) | 7:03 | 2020-10-20 |  |
 | [Unknown Tokyo](https://open.spotify.com/track/6MruNrnfGnISP5aKUyFC4g) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [Unknown Tokyo](https://open.spotify.com/album/5WtMHNfW6oFN7spvwb1jwh) | 4:05 | 2022-02-18 |  |
 | [Voices](https://open.spotify.com/track/3Xuhi20r1A2FGQHAisL551) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Hi This Is Flume \(Mixtape\)](https://open.spotify.com/album/2Vx9FC6Um8i6kEtY7HNswB) | 1:54 | 2020-10-20 |  |

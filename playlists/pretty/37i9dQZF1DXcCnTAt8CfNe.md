@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 
 > Soothe your mind with gentle instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,208 likes - 204 songs - 9 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,257 likes - 204 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Spacing Out](https://open.spotify.com/track/6L5crMBk3Sm1oB7GcGtmo1) | [The Knowables](https://open.spotify.com/artist/3L3ZWJ86I4ip3wn4zuDvrI) | [Spacing Out](https://open.spotify.com/album/5hE8ZK0cuu8oLp6K8uEtdP) | 2:44 |
 | 2 | [Fading out](https://open.spotify.com/track/35vYyQ06TPM7hiUtNt5Bs3) | [Diamond Telescope](https://open.spotify.com/artist/5y5QOzvDd6odh8MWPt5G79) | [Fading out](https://open.spotify.com/album/1X8oEGczTQOJi9PWeC4mwa) | 2:31 |
-| 3 | [Eclipse](https://open.spotify.com/track/1a21XB3h0NPXc3e7AoYc3O) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Eclipse](https://open.spotify.com/album/4aXLfqcjaxpUTZvIuUbQLJ) | 2:22 |
+| 3 | [Eclipse](https://open.spotify.com/track/1a21XB3h0NPXc3e7AoYc3O) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Eclipse](https://open.spotify.com/album/4aXLfqcjaxpUTZvIuUbQLJ) | 0:29 |
 | 4 | [Tales From The Loom](https://open.spotify.com/track/3oIenHRy1prChmyWFiCnG2) | [Lewgong](https://open.spotify.com/artist/5kJ8rsyTvg2m7RjSHhbMTs) | [Tales From The Loom](https://open.spotify.com/album/5aCsWcoseMFMCrOWB9qA15) | 2:53 |
-| 5 | [Athenian Mind](https://open.spotify.com/track/4ZyE9TB38tLADzmv1OImVU) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Athenian Mind](https://open.spotify.com/album/15FHTtzpay3sTq35INQKT8) | 2:32 |
+| 5 | [Athenian Mind](https://open.spotify.com/track/4ZyE9TB38tLADzmv1OImVU) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Athenian Mind](https://open.spotify.com/album/15FHTtzpay3sTq35INQKT8) | 0:29 |
 | 6 | [Weightless](https://open.spotify.com/track/65Uo3C5r9GJMPsiRa6uzMV) | [Gentle Leap](https://open.spotify.com/artist/0vTq6p4BHWx0EQnecyGugw) | [So Serene](https://open.spotify.com/album/0l30rC4MLaOtlsfOcisQL6) | 2:22 |
 | 7 | [After the storm](https://open.spotify.com/track/3WuOYQvrHVAANn735uiw1k) | [Glimmolo](https://open.spotify.com/artist/7g6rklSRWpUUeX8czkiTqM) | [Ascending](https://open.spotify.com/album/4cpBPNXBlDk70DloBxTjDz) | 3:41 |
 | 8 | [Love Letter](https://open.spotify.com/track/0dBvGHBWNzInAt4uyutg5i) | [Angelo Garnier](https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In) | [Love Letter](https://open.spotify.com/album/0vsVIaPDvHh4mDWIusQek6) | 2:58 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 | 36 | [A Message of Hope](https://open.spotify.com/track/4B3sBWHD5rfWtkXCdYwrFq) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [Little Things](https://open.spotify.com/album/6D5LLJs53kFNpxoIhQWGlY) | 3:26 |
 | 37 | [Rojo](https://open.spotify.com/track/2JRWjR3mlXJBg3uZwDPmBx) | [Sebastián Escofet](https://open.spotify.com/artist/4YufEYOotwxOrZxtzdPgS3) | [Ambientalismo](https://open.spotify.com/album/150OGcG307oqzZadHxUcQH) | 2:18 |
 | 38 | [Avalanche](https://open.spotify.com/track/1Nm2fVCwabKAa7iVGsfGWy) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [Atmospheric Convection](https://open.spotify.com/album/2YNK9ns6luvhHrocjBteRp) | 3:34 |
-| 39 | [Inner Peace](https://open.spotify.com/track/7k59hF8Vc7Ob9HYO8fnbLF) | [Sabrina McGregor](https://open.spotify.com/artist/06r7F3mEYRJxjksrVsurYJ) | [Inner Peace](https://open.spotify.com/album/1UzLDrkqLbXxafCCog4pvF) | 2:59 |
+| 39 | [Inner Peace](https://open.spotify.com/track/7k59hF8Vc7Ob9HYO8fnbLF) | [Sabrina McGregor](https://open.spotify.com/artist/06r7F3mEYRJxjksrVsurYJ) | [Inner Peace](https://open.spotify.com/album/1UzLDrkqLbXxafCCog4pvF) | 0:29 |
 | 40 | [Omsluten](https://open.spotify.com/track/7mmhIxGPMPFCBzfN6M9QXp) | [Mossfrid](https://open.spotify.com/artist/1ywhJuvZqhHnIMwcXPnnoy) | [Omsluten](https://open.spotify.com/album/5ATPZF3T6j6YMrC7sMl8Wv) | 3:21 |
 | 41 | [Flotante](https://open.spotify.com/track/7AhaQkDR4GybH4rXn26lhn) | [Kaua Correia](https://open.spotify.com/artist/6PE8Ppk9H0TScbZEoLD0z1) | [Flotante](https://open.spotify.com/album/1a5PvGAVfkoxte4HghYMH4) | 2:40 |
 | 42 | [Pour tout ce que nous savons](https://open.spotify.com/track/63m3GgctZMJNw9DAWoPZho) | [Les Agathes](https://open.spotify.com/artist/5xtL9soAkekct67RlVJ972) | [Pour tout ce que nous savons](https://open.spotify.com/album/4f90kNakNyHzAJYstTYxvj) | 3:03 |
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 | 73 | [Waiting](https://open.spotify.com/track/1Ix5PP41jAMMeVHXpoSOv0) | [Dian Giles](https://open.spotify.com/artist/4Hj1QxceSvbeo1YXVfVlz0) | [Waiting](https://open.spotify.com/album/161WELL5bXi3saLgMSren7) | 3:00 |
 | 74 | [Molecules](https://open.spotify.com/track/4G5VeedjbIEbvNP45vxBvJ) | [Lectus](https://open.spotify.com/artist/2JolphwQB4Yg7sLfSsoJuk) | [Atoms](https://open.spotify.com/album/2iNhRXKY6D7E9mv00F9EoM) | 2:37 |
 | 75 | [Persistence](https://open.spotify.com/track/3ZAlpXJWeKniBrqSMffs0j) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Persistence](https://open.spotify.com/album/6orrmY7UOM4QMlFLnFwobd) | 2:46 |
-| 76 | [Black Light](https://open.spotify.com/track/0xCCENWuCBpUqk2xqsB4tU) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Black Light](https://open.spotify.com/album/24edgUNsqMAL1fUvS04GQ4) | 3:17 |
+| 76 | [Black Light](https://open.spotify.com/track/0xCCENWuCBpUqk2xqsB4tU) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Black Light](https://open.spotify.com/album/24edgUNsqMAL1fUvS04GQ4) | 0:29 |
 | 77 | [Skymning](https://open.spotify.com/track/1nP7LJuu4QMet7xKll1gVh) | [Björnlandet](https://open.spotify.com/artist/5u5mZ8WatCUPXwXfFePPSz) | [Skymning](https://open.spotify.com/album/4FTompXigT36dvBOx8vU5J) | 2:11 |
 | 78 | [Grateful](https://open.spotify.com/track/05iwmG7u1JEo0MMZ2XEoIq) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Goodnight](https://open.spotify.com/album/661sIW9bDfiwExa9kF2z71) | 3:11 |
 | 79 | [Pretty Flower](https://open.spotify.com/track/7eIMlUAfuTjZaxXyWXfaV9) | [Infinite Nite](https://open.spotify.com/artist/5mcNQqg5Ls7Y8sW1lQkGl4) | [Pretty Flower](https://open.spotify.com/album/3PUWHryTfnL3PTATXBps3x) | 2:46 |
@@ -132,7 +132,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 | 122 | [Conscience](https://open.spotify.com/track/19ilGQQEukiGNg4XSC5JbN) | [Kotono Tanaka](https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT) | [Conscience](https://open.spotify.com/album/2SSgsApJySq0Bjv3mdvTus) | 4:08 |
 | 123 | [Origins of Light](https://open.spotify.com/track/1cFNjRpfevyUzmUnyHLPfe) | [Night Poets](https://open.spotify.com/artist/13Dj1DIYUAAhlmDPdgoDui) | [Parts Unknown](https://open.spotify.com/album/0DY9PT0TNIiAmWSPw3GhK6) | 3:18 |
 | 124 | [Diversity](https://open.spotify.com/track/6yUBEKkhH5z29iiszOQBSa) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Diversity](https://open.spotify.com/album/6a7zOcwfT2EhRXrIPH7au8) | 3:03 |
-| 125 | [Muddus](https://open.spotify.com/track/45We1ecGx6GcCNJWiQywxA) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Muddus](https://open.spotify.com/album/2vgJ3w2gKOoKNFe9myNZcO) | 2:08 |
+| 125 | [Muddus](https://open.spotify.com/track/45We1ecGx6GcCNJWiQywxA) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Muddus](https://open.spotify.com/album/2vgJ3w2gKOoKNFe9myNZcO) | 0:29 |
 | 126 | [Kaprifol](https://open.spotify.com/track/6ibcCbsk0xLgLzU5iWgUhf) | [Folksaga](https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf) | [Kaprifol](https://open.spotify.com/album/4sM4dk1tO71zcuRSKwBPJG) | 4:29 |
 | 127 | [St Albans](https://open.spotify.com/track/5GBUaaYqPzsuqSQvwvD46g) | [Upsilon](https://open.spotify.com/artist/32zqABCKhd2sbF6HGT0pW2) | [St Albans](https://open.spotify.com/album/3GnvX2yoV5wEj9E670lPAs) | 2:47 |
 | 128 | [To Me](https://open.spotify.com/track/5R6uVJy58OxgyA0BQbY7Tk) | [Michel Landau](https://open.spotify.com/artist/2k6f9wKcRu84svgHonsR7x) | [You Are A Flower](https://open.spotify.com/album/0cH0rLc0CxNz3MjpKyuptN) | 2:08 |
@@ -167,7 +167,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 | 157 | [The Garden](https://open.spotify.com/track/2OaoXYurShXZuFU5hmUva6) | [Vita Menzer](https://open.spotify.com/artist/42qLi1hQmxw9USs3HEfXVV) | [The Garden](https://open.spotify.com/album/45dL7k8Mvl17qNTwRdE1OO) | 2:27 |
 | 158 | [Nysnö](https://open.spotify.com/track/3XUoK60Lyhtf9qyqJrppKq) | [Folksaga](https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf) | [Nysnö](https://open.spotify.com/album/388EAxsyfHxg7BhyDlRTYt) | 2:36 |
 | 159 | [The Inner Landscape](https://open.spotify.com/track/1jb2tLUKTYvgMmwixWgNhz) | [René Sturgess](https://open.spotify.com/artist/5gEyAqENfIITIqk0dUaPUm) | [The Inner Landscape](https://open.spotify.com/album/2ETYQYNIFwwExTjgVDMNWA) | 2:55 |
-| 160 | [Sugar Dreams](https://open.spotify.com/track/1PU9FtEOCCDjigFFl5SliB) | [Alba's Pillows](https://open.spotify.com/artist/76zuGudqum0CSwVHgoAEDY) | [Sugar Dreams](https://open.spotify.com/album/71WNIvjWCIIY7HlXSHu1KN) | 3:31 |
+| 160 | [Sugar Dreams](https://open.spotify.com/track/1PU9FtEOCCDjigFFl5SliB) | [Alba's Pillows](https://open.spotify.com/artist/76zuGudqum0CSwVHgoAEDY) | [Sugar Dreams](https://open.spotify.com/album/71WNIvjWCIIY7HlXSHu1KN) | 0:29 |
 | 161 | [Sonnambulismo](https://open.spotify.com/track/2Ud0BKOtLvXRFXXE6ikCKn) | [Ferdinando Zetticci](https://open.spotify.com/artist/4MLLLG0z38an4nXddu8R3O) | [Sonnambulismo](https://open.spotify.com/album/5B3eTHv5fTodn5cehEinJF) | 3:26 |
 | 162 | [Love to Give](https://open.spotify.com/track/197gAis0L7q9xIFreP0cGA) | [Evelyn Haidu](https://open.spotify.com/artist/0KLuY1vs0XOszyBK0zwAq0) | [The Window](https://open.spotify.com/album/2qZEwFZ6xmtvVAOPaKEMpQ) | 3:17 |
 | 163 | [Quando sorridi](https://open.spotify.com/track/4tJLqa4zHZmoBrkdZu2IFY) | [Vala Capon](https://open.spotify.com/artist/49fgD6LHJUewc21tGBaOqV) | [Quando sorridi](https://open.spotify.com/album/5WED43tdqslgKrB6s3fA8I) | 2:03 |
@@ -183,7 +183,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 | 173 | [Piano Eléctrico](https://open.spotify.com/track/658ysPC6WdtiRSQjiv2AJZ) | [Rancul](https://open.spotify.com/artist/7cVXjdkl7yJQfp2a76guvf) | [Rancul](https://open.spotify.com/album/30dDuezgO9cqoTGi0cMhPn) | 1:45 |
 | 174 | [Coralia](https://open.spotify.com/track/2QuojUtKiQ7l8ZQMDelt3s) | [Arlette Leduc](https://open.spotify.com/artist/3LyPSzNbQ3R4cgHZDUP06T) | [Coralia](https://open.spotify.com/album/1EE6SRjBh51zDFzF9rh1bO) | 3:17 |
 | 175 | [Whistling Straits](https://open.spotify.com/track/3B3t69tUxJMrsmlUahjDIW) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Whistling Straits](https://open.spotify.com/album/61dVUb5m3COoMSQmlngnGD) | 4:28 |
-| 176 | [Gone](https://open.spotify.com/track/4p7LooYAQniOpcNLunFnF3) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Breath of Life](https://open.spotify.com/album/4rVHSkEgzT6BwBYiS8NUAg) | 2:58 |
+| 176 | [Gone](https://open.spotify.com/track/4p7LooYAQniOpcNLunFnF3) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Breath of Life](https://open.spotify.com/album/4rVHSkEgzT6BwBYiS8NUAg) | 0:29 |
 | 177 | [Finding Calmness](https://open.spotify.com/track/5ca7B7Qi2gpzPELK9lBab0) | [Naturally Recurring](https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF) | [Finding Calmness](https://open.spotify.com/album/3KJa1BAeH2as7lZL1envIu) | 3:28 |
 | 178 | [Falling Stars](https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU) | [Delle Alpi](https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU) | [Falling Stars](https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS) | 2:38 |
 | 179 | [In Bloom](https://open.spotify.com/track/60nhoUdtsUq4FOwts7B2bM) | [Zoé de Vera](https://open.spotify.com/artist/0ojIbBfm8uH68CpwcwoxGJ) | [In Bloom](https://open.spotify.com/album/1JdYFFVhnjTmj0lOXGwzZy) | 2:59 |

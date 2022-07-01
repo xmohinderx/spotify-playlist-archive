@@ -4,7 +4,7 @@
 
 > The electro revival with Dawn Richard.
 
-37 songs - 2 hr 11 min - [published](https://open.spotify.com/playlist/29grajXOQfVKrBASB6PcZ3)
+37 songs - 1 hr 56 min - [published](https://open.spotify.com/playlist/29grajXOQfVKrBASB6PcZ3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Body Pump \- UNIIQU3 Remix](https://open.spotify.com/track/5BMXfwG0l57VbehGPq2Uv2) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Renaissance \(Remixes\)](https://open.spotify.com/album/3eVVyHEF1waq5kbMFm9pdJ) | 3:56 | 2021-03-16 |  |
 | [Booty 3000](https://open.spotify.com/track/1ou1ijurTcoe8lSB23rZxP) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Free Form Mixtape](https://open.spotify.com/album/0uqRet3v7HR1RcPWAegQt6) | 2:09 | 2021-03-16 |  |
 | [Burn So Deep \(feat\. Dawn Richard\)](https://open.spotify.com/track/7oSrcgoO342j9xQ3wrOvJt) | [JIMMY EDGAR](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Burn So Deep \(feat\. Dawn Richard\)](https://open.spotify.com/album/3JKNKGFJJX5tIX4sHIHLTZ) | 4:05 | 2021-03-16 |  |
-| [Bussifame](https://open.spotify.com/track/3Snsn7nR619p0Ze090QT7K) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Bussifame](https://open.spotify.com/album/5Yg9JXE24N3d58v3HuY1Vl) | 4:33 | 2021-03-16 |  |
+| [Bussifame](https://open.spotify.com/track/3Snsn7nR619p0Ze090QT7K) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Bussifame](https://open.spotify.com/album/5Yg9JXE24N3d58v3HuY1Vl) | 0:29 | 2021-03-16 |  |
 | [Crabs & Crows](https://open.spotify.com/track/3Lsv0zi3GXpCnJEFkYaXvE) | [KAJAMA](https://open.spotify.com/artist/3hGUpSPq9iYQvrFQyXBxZA) | [Polarity Prism](https://open.spotify.com/album/5y1Z3VRMN2ey6NfRDYm0F8) | 2:09 | 2021-03-16 |  |
 | [Cut 4 Me \(Prod\. Kingdom\)](https://open.spotify.com/track/4dvGUFtcu83UbyoQuRXNhp) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Cut 4 Me \(Deluxe\)](https://open.spotify.com/album/0TINzVFDomwU0tx3T78Kr3) | 3:53 | 2021-03-16 |  |
 | [Dance Dance Dance](https://open.spotify.com/track/1Nk5bZWXcvXoBrtPCrHme8) | [Dj Paulette](https://open.spotify.com/artist/2rr26njxwViHMQKgVVSmHF) | [Miami Edm Anthems 2015](https://open.spotify.com/album/042wA8AmldoPYZhbcyTR24) | 4:33 | 2021-03-16 |  |
@@ -24,7 +24,7 @@
 | [Don't Hold Out](https://open.spotify.com/track/6al3h38eQyMeIb3e0CgeSh) | [Hannah Lucia](https://open.spotify.com/artist/7EwTG8jbkCxqNfKoiFqKMd) | [Don't Hold Out](https://open.spotify.com/album/0FVNHCE9g6NO6uB34s8sCg) | 3:27 | 2021-03-16 |  |
 | [Got Em](https://open.spotify.com/track/7CJ7daBPHsCMdrivYPlZ3F) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Got Em](https://open.spotify.com/album/1wgHAs407GxQtqR3lj4NSf) | 3:46 | 2021-03-16 |  |
 | [IN IN IN](https://open.spotify.com/track/6s5fztn7rjtRs2gGdP9n7t) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a) | [LESS IS MOOR](https://open.spotify.com/album/37g7rTlnjZwOK0S3GOKPO3) | 3:17 | 2021-03-16 |  |
-| [In the Morning](https://open.spotify.com/track/3pRyeZCIGdaO84RSBj9Bj7) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [For All We Know](https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6) | 4:06 | 2021-03-16 |  |
+| [In the Morning](https://open.spotify.com/track/3pRyeZCIGdaO84RSBj9Bj7) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [For All We Know](https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6) | 0:29 | 2021-03-16 |  |
 | [Jennifer](https://open.spotify.com/track/3YlUuMG4Guve8SxlxYqJ2W) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Jennifer](https://open.spotify.com/album/4IluqHZGQUxXellf1ycOYt) | 2:34 | 2021-03-16 |  |
 | [Lapdance from Asia](https://open.spotify.com/track/70Tn7Qn1LyVCTTd8EyyXGW) | [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Lapdance from Asia](https://open.spotify.com/album/39FgCD5p3mfqX17D5e5hMe) | 3:28 | 2021-03-16 |  |
 | [Marilyn Monroe](https://open.spotify.com/track/6qXcX5uTDYKCqYuqnf5C7U) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Ison](https://open.spotify.com/album/2yjRCaDVCsAJjcavAPztVY) | 3:28 | 2021-03-16 |  |
@@ -41,9 +41,9 @@
 | [U.](https://open.spotify.com/track/64NGjHW1w5Kl42xEKdqi6o) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [U.](https://open.spotify.com/album/2LNOZyp2FX1ARZXc5gf3hB) | 2:37 | 2021-03-16 |  |
 | [U.A.F.W.M.](https://open.spotify.com/track/7tyfn9k8LGkDFMkT4BeCyf) | [Quay Dash](https://open.spotify.com/artist/6k6lSmhyFpe2oYcredvZHM), [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [U.A.F.W.M.](https://open.spotify.com/album/6Q068g9ukV72Ffm88FMKYt) | 2:53 | 2021-03-16 |  |
 | [unearth me](https://open.spotify.com/track/0Uq8EBEXYFBGcPTKlTtRdT) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Galore](https://open.spotify.com/album/6s7TtMHRcoy8D0ipc0wmjE) | 3:25 | 2021-03-16 |  |
-| [Wanted](https://open.spotify.com/track/6DmyAvH1MeAoqWApThDHTM) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Wanted](https://open.spotify.com/album/3dlPrX23qvVuXUBRInIJy8) | 2:58 | 2021-03-16 |  |
+| [Wanted](https://open.spotify.com/track/6DmyAvH1MeAoqWApThDHTM) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Wanted](https://open.spotify.com/album/3dlPrX23qvVuXUBRInIJy8) | 0:29 | 2021-03-16 |  |
 | [Whole House](https://open.spotify.com/track/6rbpsdhGF86u7Eu1Ew8iVK) | [Lolawolf](https://open.spotify.com/artist/6ABaV7mB6WIZKgfEEtWCf8) | [Tenderness](https://open.spotify.com/album/67v0qu708WJVT9rxxdZmh1) | 3:02 | 2021-03-16 |  |
-| [You Know You Like It \- Tchami Remix](https://open.spotify.com/track/0OpcI3rARLsNWgVbPdwHD9) | [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [We Are Your Friends \(Music From The Original Motion Picture\)](https://open.spotify.com/album/0aMv03wMvTndzvWp8FuS4P) | 5:04 | 2021-03-16 |  |
+| [You Know You Like It \- Tchami Remix](https://open.spotify.com/track/0OpcI3rARLsNWgVbPdwHD9) | [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [We Are Your Friends \(Music From The Original Motion Picture\)](https://open.spotify.com/album/0aMv03wMvTndzvWp8FuS4P) | 0:29 | 2021-03-16 |  |
 | [You, at the End](https://open.spotify.com/track/1LAbP1QlBJ8qVhF3ayRlkl) | [Lafawndah](https://open.spotify.com/artist/7jHWye55igIZ6SsF4eXKkP) | [The Fifth Season](https://open.spotify.com/album/4y8Vq2D9o7X4tVQOxoAF1q) | 4:12 | 2021-03-16 |  |
 
 \*This playlist was first scraped on 2022-05-13. Prior content cannot be recovered.

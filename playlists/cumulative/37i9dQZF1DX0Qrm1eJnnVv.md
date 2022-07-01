@@ -4,7 +4,7 @@
 
 > Solo piano recordings of classic rags
 
-50 songs - 2 hr 44 min - [published](https://open.spotify.com/playlist/7hFT2wdsAAQ179R54gzZrH)
+50 songs - 2 hr 41 min - [published](https://open.spotify.com/playlist/7hFT2wdsAAQ179R54gzZrH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Operatic Rag](https://open.spotify.com/track/4b67iD9BqlVYldEVvrrFCv) | [Waldham Ragtime Pianos](https://open.spotify.com/artist/0494lwWXTnzzYxlGM8czb5) | [Magnetic Rag](https://open.spotify.com/album/39papysaDcE6CtF8wjvlAF) | 2:44 | 2020-08-19 |  |
 | [Paramount Rag](https://open.spotify.com/track/7xaVQzLgWJOLqmgAWBc6h7) | [Leslie Bridges](https://open.spotify.com/artist/7m6HwLg3nTQoO2eVMhiGiw) | [Classic Rags Piano Solos, Vol\. 4](https://open.spotify.com/album/1f1dYTmbEN5a9m0g7va9ul) | 2:45 | 2020-08-19 |  |
 | [Pastime Rag No\. 4](https://open.spotify.com/track/62KHXPpRjwi3HPPOO2MmHG) | [Artie Matthews](https://open.spotify.com/artist/2KIguemK1D0eYCp8ZNMlIL), [Richard Dowling](https://open.spotify.com/artist/7JWgPh8XaVXPsaqbSyOL77) | [World's Greatest Piano Rags](https://open.spotify.com/album/0wVhPHbbIBmNKVbQdvI9tQ) | 2:02 | 2020-08-19 |  |
-| [Patricia Rag](https://open.spotify.com/track/6A431z6iC8Lk8880VEEEG6) | [Jazzou Jones](https://open.spotify.com/artist/0RuY3axETsXyKXHHO0hpKv) | [Hilarity](https://open.spotify.com/album/2e91VHqCOu9juKYJVCHVR4) | 3:23 | 2020-08-19 |  |
+| [Patricia Rag](https://open.spotify.com/track/6A431z6iC8Lk8880VEEEG6) | [Jazzou Jones](https://open.spotify.com/artist/0RuY3axETsXyKXHHO0hpKv) | [Hilarity](https://open.spotify.com/album/2e91VHqCOu9juKYJVCHVR4) | 0:29 | 2020-08-19 |  |
 | [Peace and Plenty Rag](https://open.spotify.com/track/7G3GHUoDuOBoTrHP04VMDj) | [Morten Gunnar Larsen](https://open.spotify.com/artist/0abhXJIOH1NqbsXLaZD2DI) | [Charleston Rag](https://open.spotify.com/album/47f969oRBPbmRfS6jdVXQE) | 3:06 | 2020-08-19 |  |
 | [Possum and Taters](https://open.spotify.com/track/2TfcBFuqV3vOfaCJKVifAB) | [Jack & Chris Bradshaw](https://open.spotify.com/artist/5XlcJcvLov5rq4hXjxy3py) | [Takes Two](https://open.spotify.com/album/4z0K2p0J1DV7cLsOP3Bk6O) | 2:45 | 2020-08-19 |  |
 | [Rag Sentimental](https://open.spotify.com/track/3bG4me64hbVIVO0zAIkohe) | [Guido Nielsen](https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU) | [James Scott: The Complete Works \(Rags, Waltzes & Songs\)](https://open.spotify.com/album/0j118C9e7zYtG2bV8JdiI4) | 3:53 | 2020-08-19 |  |

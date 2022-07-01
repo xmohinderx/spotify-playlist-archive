@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 
 > A 100\-track collection of insanely good progressive rock creations, from classic acts like Rush, Yes, and Genesis to lesser\-known international gems\. Cover: Rush
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,301 likes - 100 songs - 15 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,368 likes - 100 songs - 15 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 19 | [Time Was](https://open.spotify.com/track/2JEnA0LD8ADxQIwvkEQsKC) | [Wishbone Ash](https://open.spotify.com/artist/77zwstbi3x1IxnbDFg6uns) | [Argus](https://open.spotify.com/album/5v2VhaPqn4kydTX06Mdvse) | 9:44 |
 | 20 | [Pennants](https://open.spotify.com/track/3UH0lJELrEKtvATxKBrO19) | [Steve Howe](https://open.spotify.com/artist/6W7XIO8Ua1RIisnSf0QIoI) | [The Steve Howe Album](https://open.spotify.com/album/6TI6gnnePvPEYRUMW6z6d5) | 4:33 |
 | 21 | [Then \- 2013 Remaster](https://open.spotify.com/track/3IyajfsNvPyIQj4rwJxtwT) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Time and a Word \(Expanded\)](https://open.spotify.com/album/6k3pRlamC3srUePKSlUaxJ) | 5:44 |
-| 22 | [La Villa Strangiato](https://open.spotify.com/track/4CyElmiM9EF9aURGWlPZLi) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Hemispheres](https://open.spotify.com/album/2vrM9ltjKIvNg3nkwXoJuc) | 9:34 |
+| 22 | [La Villa Strangiato](https://open.spotify.com/track/4CyElmiM9EF9aURGWlPZLi) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Hemispheres](https://open.spotify.com/album/2vrM9ltjKIvNg3nkwXoJuc) | 0:29 |
 | 23 | [The Cinema Show](https://open.spotify.com/track/6ZrMg5HC55GPJxh7YXZ9yf) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Selling England by the Pound](https://open.spotify.com/album/7xaM3ah9ZO4BjrcFj5vOZe) | 11:06 |
 | 24 | [21st Century Schizoid Man](https://open.spotify.com/track/5yClziwiwTdqRmdPQl3NDz) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [In The Court Of The Crimson King \(Expanded & Remastered Original Album Mix\)](https://open.spotify.com/album/5wec5BciMpDMzlEFpYeHse) | 7:22 |
-| 25 | [Echoes](https://open.spotify.com/track/3qEKk7UlpfPPMyfouHhgi6) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [Breathless](https://open.spotify.com/album/1YRwNrwQKhQpEBUeLCtucL) | 7:20 |
+| 25 | [Echoes](https://open.spotify.com/track/3qEKk7UlpfPPMyfouHhgi6) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [Breathless](https://open.spotify.com/album/1YRwNrwQKhQpEBUeLCtucL) | 0:29 |
 | 26 | [Leafy Meadows](https://open.spotify.com/track/7q84UlknHb4sIThLIERiVK) | [John Paul Jones](https://open.spotify.com/artist/6RhcZuUOb20IZvR8BbdnJX) | [The Thunderthief](https://open.spotify.com/album/7AIpDOQaIxlB3c1cEQhVRJ) | 5:10 |
 | 27 | [Legend Of A Mind](https://open.spotify.com/track/29odF1gMpCjJXLR8PAIskQ) | [The Moody Blues](https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1) | [In Search Of The Lost Chord \(Expanded Edition\)](https://open.spotify.com/album/0u1vzazV1E43Mpd5pukZcC) | 6:36 |
 | 28 | [Trilogy](https://open.spotify.com/track/244qD47plbGVSR5J4IuR5O) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Trilogy](https://open.spotify.com/album/1pszXB5puR4IjnU5ZfOoPr) | 8:54 |
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 87 | [Apollo](https://open.spotify.com/track/6edplo9qsDB8Jl6j3Ad2ML) | [Tony Levin](https://open.spotify.com/artist/4UjlFZPd9pYcyGhwdcrXvH) | [Pieces Of The Sun](https://open.spotify.com/album/1iQoh3RNZlnshPIZqv8gFI) | 6:49 |
 | 88 | [Heavy Horses \- 2003 Remaster](https://open.spotify.com/track/3Ki1XRwvSJ9UREfeFldVdB) | [Jethro Tull](https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R) | [Heavy Horses \(2003 Remaster\)](https://open.spotify.com/album/27EEeQwWctNFwKzbYYB7v4) | 8:54 |
 | 89 | [Repent Walpurgis \- 2009 Remaster Mono](https://open.spotify.com/track/0uZNev6gpoxARwDLZ39wXq) | [Procol Harum](https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C) | [Procol Harum](https://open.spotify.com/album/3om5KQz8b7vZvbJKTqLLBD) | 5:05 |
-| 90 | [Red](https://open.spotify.com/track/0x8EnZlhgyaUOyzWelgbzW) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [Red \(Expanded & Remastered Original Album Mix\)](https://open.spotify.com/album/0G4xbbwtdfZGV0cLN4y8SP) | 6:15 |
+| 90 | [Red](https://open.spotify.com/track/0x8EnZlhgyaUOyzWelgbzW) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [Red \(Expanded & Remastered Original Album Mix\)](https://open.spotify.com/album/0G4xbbwtdfZGV0cLN4y8SP) | 0:29 |
 | 91 | [Evil Woman](https://open.spotify.com/track/3ZLqxVQpxOe1uKyL4qZDZC) | [Spooky Tooth](https://open.spotify.com/artist/5YE3Wwk5wqQmFXM5qyaM6u) | [Spooky Two](https://open.spotify.com/album/7Ehr4tstOQtGR8SILkfhsn) | 9:08 |
 | 92 | [Tarkus](https://open.spotify.com/track/5IZvOrxSUY40xMGqfPRtzH) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Tarkus \(Deluxe Edition\)](https://open.spotify.com/album/3tt3D35QdEs139bdb7wCoi) | 20:37 |
 | 93 | [Future Days](https://open.spotify.com/track/1w3jYHuIvBIE1bOjaIJ1gO) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Future Days \(Remastered\)](https://open.spotify.com/album/4a1QKRL1X9PlAX9wiiqmAm) | 9:30 |

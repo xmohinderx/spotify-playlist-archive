@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3KP0xIq8NrTP7BV2YhpHT5.md) - [plain]
 
 > Celebrate your baby boy and spread the good news!
 
-[Spotify](https://open.spotify.com/user/spotify) - 182 likes - 23 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 182 likes - 23 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,12 +24,12 @@ pretty - [cumulative](/playlists/cumulative/3KP0xIq8NrTP7BV2YhpHT5.md) - [plain]
 | 14 | [Father And Son](https://open.spotify.com/track/77vgQcXbwX5C4oapmx6phI) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Gold](https://open.spotify.com/album/1S1NJXGjE6yBGIq2PhVKyE) | 3:40 |
 | 15 | [Bring Him Home](https://open.spotify.com/track/3FvgjfERD2q146UmzjNTc4) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [The Piano Guys](https://open.spotify.com/album/6P2EwTc87RwLx2ANZVr1JY) | 4:15 |
 | 16 | [To Know Him Is To Love Him](https://open.spotify.com/track/2Er9fB6MsxVroJsCo4tMy4) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Trio](https://open.spotify.com/album/1uPjtjcaOwsxwLO7DzwQh2) | 3:52 |
-| 17 | [I've Got Your Number, Son](https://open.spotify.com/track/5k33ALWQ3GcoKvVwJkf1C6) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume 3](https://open.spotify.com/album/7L0jUfO6TEYQmrVQTDp2xA) | 3:10 |
+| 17 | [I've Got Your Number, Son](https://open.spotify.com/track/5k33ALWQ3GcoKvVwJkf1C6) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume 3](https://open.spotify.com/album/7L0jUfO6TEYQmrVQTDp2xA) | 0:29 |
 | 18 | [I Will Follow Him](https://open.spotify.com/track/1mspRB1JIDtaMPXewN8XOs) | [Little Peggy March](https://open.spotify.com/artist/09vvlnqwFaimZwGAvpXgqy) | [I Will Follow Him](https://open.spotify.com/album/0wPcTchjoE6Oq5Wj3ojpE4) | 2:31 |
 | 19 | [He Lives In You \- From "Rhythm Of The Pride Lands"](https://open.spotify.com/track/2TDQZhGtgPKFl63HlElW7o) | [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA) | [Disney's Greatest Vol\. 3](https://open.spotify.com/album/6UuNvv5UFJG5bQkYzQIarh) | 4:51 |
 | 20 | [Hourglass](https://open.spotify.com/track/1vU4IbmZlwbpC4uwRoLMhy) | [Mindy Gledhill](https://open.spotify.com/artist/24gJ2GCq5zx1Mh08ZpmiSo) | [Anchor](https://open.spotify.com/album/4QqFp5fKkDRyjCT8pLH3zF) | 3:06 |
 | 21 | [Little Rock 'N' Roller](https://open.spotify.com/track/0RYNmj0jHUSzDLBbndDw7m) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Fearless Heart](https://open.spotify.com/album/5JV8iAgzh7ZpqU6vkRr1WO) | 4:51 |
 | 22 | [With Arms Wide Open](https://open.spotify.com/track/1b9C8jgOcl7IHPzFURduUD) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [New Acoustic Sessions, Vol\. 1](https://open.spotify.com/album/3PLZ9A4ET8Ii3debFqWCHH) | 4:08 |
-| 23 | [Forever Young \- 2008 Remaster](https://open.spotify.com/track/5MdaYkcPOlyEX56YjlQhZJ) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Definitive Rod Stewart](https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj) | 4:05 |
+| 23 | [Forever Young \- 2008 Remaster](https://open.spotify.com/track/5MdaYkcPOlyEX56YjlQhZJ) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Definitive Rod Stewart](https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj) | 0:29 |
 
 Snapshot ID: `NDIsNGFhZGU1MDZkMDU4MGM1YjNhYzA2NDc1N2EyYjFmMDQ2Yjk5NTllYg==`

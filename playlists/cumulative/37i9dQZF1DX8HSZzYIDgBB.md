@@ -4,7 +4,7 @@
 
 > Los nuevos sonidos y fusiones de música Alternativa Latina, con Tonga Conga y Vanessa Zamora en portada.
 
-127 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
+127 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Cigarros y Tragos](https://open.spotify.com/track/0iw2XtkqcydW4BgdsTyH2L) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Caldero](https://open.spotify.com/album/6K0FP8olOJO2Po8RVFkUhA) | 5:55 | 2021-10-05 | 2022-05-28 |
 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/2ETi6XTUOuEjObLiRNmO8F) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/6HqgKz3U8TtxrwikzgEKfJ) | 3:29 | 2022-04-20 |  |
 | [Coidar dunhas Colmeas](https://open.spotify.com/track/65ASwR5HmShyIoSFa5QPnf) | [Néboa](https://open.spotify.com/artist/1w6hzUtZfQobZi2NTwAJe8) | [Coidar dunhas Colmeas](https://open.spotify.com/album/0Qgn7S6eY37MTmfBSpq4oN) | 3:58 | 2021-10-05 |  |
-| [Collar de Perlas](https://open.spotify.com/track/3RJ2wUsUieoXwsCGHBsPCl) | [MONTESCO](https://open.spotify.com/artist/2V3eQlSV1eYIQXWD1t9sWb) | [Collar de Perlas](https://open.spotify.com/album/0OcjkwJ6Xr9KkhlL8lnoSM) | 4:29 | 2022-03-03 |  |
+| [Collar de Perlas](https://open.spotify.com/track/3RJ2wUsUieoXwsCGHBsPCl) | [MONTESCO](https://open.spotify.com/artist/2V3eQlSV1eYIQXWD1t9sWb) | [Collar de Perlas](https://open.spotify.com/album/0OcjkwJ6Xr9KkhlL8lnoSM) | 0:29 | 2022-03-03 |  |
 | [Como Lo Pedí](https://open.spotify.com/track/2UTNZlatDykZEdZTrSFE4x) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Fuego](https://open.spotify.com/album/46DsjNFAHuGGjMfo1TAyct) | 4:05 | 2021-10-05 | 2022-04-06 |
 | [Contra La Corriente](https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Contra La Corriente](https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c) | 4:23 | 2021-10-05 |  |
 | [Conversaciones](https://open.spotify.com/track/2JoIsTLmlVGiY2y602IkZN) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp), [Pau Sotomayor](https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN) | [Conversaciones](https://open.spotify.com/album/5JO7X3vUSFQpo91NibWW5G) | 3:17 | 2021-10-05 | 2022-04-10 |
@@ -61,7 +61,7 @@
 | [Guerrera](https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Guerrera](https://open.spotify.com/album/37tmDnR0p0ABwvtHfECzdD) | 4:11 | 2021-11-10 |  |
 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 | 2021-10-05 |  |
 | [Hoy Como Siempre](https://open.spotify.com/track/5pQXW3nrM4KEDTK4iD3Iu9) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Hoy Como Siempre](https://open.spotify.com/album/2wDRsuHc2loxSQykUIbt3v) | 4:09 | 2021-10-05 |  |
-| [Hoy Es Mañana](https://open.spotify.com/track/1lTgSM8RrTANbfPwx9ipif) | [Pernett](https://open.spotify.com/artist/2ovmrverobmQvD14n5REoU), [The Caribbean Ravers](https://open.spotify.com/artist/48u4Rcx3bbMC5PtUm2AVcd) | [Música Para Pick Up](https://open.spotify.com/album/1XpYE30QnfPWIZxBEgK1Vo) | 3:32 | 2021-10-05 |  |
+| [Hoy Es Mañana](https://open.spotify.com/track/1lTgSM8RrTANbfPwx9ipif) | [Pernett](https://open.spotify.com/artist/2ovmrverobmQvD14n5REoU), [The Caribbean Ravers](https://open.spotify.com/artist/48u4Rcx3bbMC5PtUm2AVcd) | [Música Para Pick Up](https://open.spotify.com/album/1XpYE30QnfPWIZxBEgK1Vo) | 0:29 | 2021-10-05 |  |
 | [Humedad](https://open.spotify.com/track/4FG5aqW3ii8uwi6ghYkhUQ) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN) | [ELCANO](https://open.spotify.com/album/6NX6KCQs8KEJIAA207IhAw) | 4:17 | 2022-04-05 |  |
 | [Ildé Pa’ Beberte](https://open.spotify.com/track/59sYzy6WyqIzHQS2bH32cy) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N) | [Ildé Pa’ Beberte](https://open.spotify.com/album/7CDuf3GTMDB759dQwH0yPw) | 3:28 | 2021-10-05 |  |
 | [Kiss the frog](https://open.spotify.com/track/60eVoxEcP76xEUAnriUpB0) | [Afrodita](https://open.spotify.com/artist/63b3XLtJeDkzJqg6yQWCYm), [Asagi Saundo](https://open.spotify.com/artist/54X6HgtuXxwfT1QBhwwgMU) | [New Latam Beats from Mexico Curated by Diguital Trip](https://open.spotify.com/album/3T4SxLhzVaweReuWbisvrz) | 7:14 | 2022-04-12 |  |
@@ -105,7 +105,7 @@
 | [Portales](https://open.spotify.com/track/0OyNMy87wNsHua1EvEeDl3) | [Kaleema](https://open.spotify.com/artist/7o5v2sjfFaMOgUKtfMQRWW) | [Útera](https://open.spotify.com/album/0t49uyMILALgWUltHuraYc) | 4:10 | 2021-10-05 |  |
 | [PSILOCIBINA](https://open.spotify.com/track/4Rkzfz7OJGa84NPSBja9XH) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [PSILOCIBINA](https://open.spotify.com/album/2WsGQdYOdoCAdTXyejllUm) | 3:17 | 2021-10-05 |  |
 | [Quién Podrá Saberlo](https://open.spotify.com/track/4Ioz0P53jC1z6zVUcj12GW) | [Dom La Nena](https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Quién Podrá Saberlo](https://open.spotify.com/album/5cvmkQT4H1rfZT8reSzanZ) | 2:43 | 2021-10-05 |  |
-| [Rainfalls](https://open.spotify.com/track/0YiZ0jbQg32CnsNplsYQeN) | [Mandale Mecha](https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m) | [Rainfalls](https://open.spotify.com/album/0LPbgUDgVTriQISLJGTj5Y) | 3:36 | 2022-01-14 |  |
+| [Rainfalls](https://open.spotify.com/track/0YiZ0jbQg32CnsNplsYQeN) | [Mandale Mecha](https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m) | [Rainfalls](https://open.spotify.com/album/0LPbgUDgVTriQISLJGTj5Y) | 0:29 | 2022-01-14 |  |
 | [Resistencia](https://open.spotify.com/track/5djxB6YBAiznofQnUsMCet) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Recuerdos de Expiación](https://open.spotify.com/album/7mRiMo2ciSNhFF85xDEuUN) | 3:12 | 2021-10-05 | 2022-03-31 |
 | [Rúmbala](https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur) | [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Rúmbala](https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR) | 2:58 | 2022-01-17 |  |
 | [Sabe a Tu Nombre](https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Sabe a Tu Nombre](https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB) | 3:48 | 2021-12-17 |  |

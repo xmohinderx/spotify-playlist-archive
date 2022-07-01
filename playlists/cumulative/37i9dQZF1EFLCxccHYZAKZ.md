@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZhCwBHDbutA33WuZDmYFP">Natali Noor</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-34 songs - 1 hr 43 min - [published](https://open.spotify.com/playlist/6e5RDA21o0H1NgbL33DXgN)
+34 songs - 1 hr 39 min - [published](https://open.spotify.com/playlist/6e5RDA21o0H1NgbL33DXgN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [No Going Back](https://open.spotify.com/track/2vSgW76655sD8YdCqZ5bN7) | [Besomage](https://open.spotify.com/artist/4ivfOZMa6lNjfcfpubOg6q), [Antomage](https://open.spotify.com/artist/6xqmiKO95KxwEiz8BQQauZ), [Bromage](https://open.spotify.com/artist/1aAW5k56ulsXw0ZEm6PpOS) | [No Going Back](https://open.spotify.com/album/0vp0e4m0DeTnouFtrE64w3) | 2:40 | 2022-06-10 |  |
 | [Places We Don't Know](https://open.spotify.com/track/3JrMXGfyYUlBNKrHe99Csy) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Places We Don't Know](https://open.spotify.com/album/7v5PnPxKBVwKVQ6tytgUzG) | 3:24 | 2022-05-29 |  |
 | [Policeman](https://open.spotify.com/track/26RmJET3Qbk9hMJWG89lVs) | [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Policeman](https://open.spotify.com/album/1wK2qJAZACswet6W4Id2ft) | 3:33 | 2022-06-10 |  |
-| [Praying](https://open.spotify.com/track/4htljT3v7N8q5C1LFzE90g) | [Josh Charm](https://open.spotify.com/artist/0LXZQiNCmHoNhMgJqPu1Va) | [Praying](https://open.spotify.com/album/7lyiPlbNb8iZiR8cJsBrLI) | 2:57 | 2022-05-29 |  |
+| [Praying](https://open.spotify.com/track/4htljT3v7N8q5C1LFzE90g) | [Josh Charm](https://open.spotify.com/artist/0LXZQiNCmHoNhMgJqPu1Va) | [Praying](https://open.spotify.com/album/7lyiPlbNb8iZiR8cJsBrLI) | 0:29 | 2022-05-29 |  |
 | [Queen \- Medsyster Version](https://open.spotify.com/track/7iUMq85VsJkFsGhRU3FT6f) | [Janice](https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8), [AMWIN](https://open.spotify.com/artist/4Lj9IwyjADyWsk9eEtQUbY), [LASH](https://open.spotify.com/artist/3A6EnD5cRkVQdHsHeKcWV6), [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Queen \(Medsyster Version\)](https://open.spotify.com/album/07VAigrA5trYduULBqHpZX) | 3:42 | 2022-05-29 |  |
 | [Red Lights \(feat\. Natali Noor\)](https://open.spotify.com/track/1RXnYPcwdFfohfT6P20U3S) | [Le Boeuf](https://open.spotify.com/artist/6yTeWbdwQqIVfU1jGk2aeH), [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Red Lights \(feat\. Natali Noor\)](https://open.spotify.com/album/1h6l1uadQeVYjf7LxX9tpV) | 2:59 | 2022-05-29 |  |
 | [Sleepless](https://open.spotify.com/track/1XTaHOa5fk73VbEBQlkP2z) | [Oscar Stembridge](https://open.spotify.com/artist/21PEkJjPYN8SDkaATbMdl9) | [Sleepless](https://open.spotify.com/album/4aYcKQuqP4AjHvaa69xibv) | 2:40 | 2022-05-29 |  |
@@ -41,6 +41,6 @@
 | [When We Were Kids](https://open.spotify.com/track/2upAsEC2spNx7SjeegZXed) | [High15](https://open.spotify.com/artist/1m7tgi2gXk1x4dxllqj53X) | [When We Were Kids](https://open.spotify.com/album/3K8UDI2CeV11Mv27FVZhV6) | 3:10 | 2022-05-29 |  |
 | [Who You Are \(feat\. Robin Vane\)](https://open.spotify.com/track/4wgFtDrCUzu2d333k4Yu7K) | [Maybon](https://open.spotify.com/artist/58WNaQYHzXvOY23UGICpOb), [Robin Vane](https://open.spotify.com/artist/4staIXcWEmr34cRhsDp8nW) | [Better With You](https://open.spotify.com/album/5IRhCZtMZgz3jATXM0YEdI) | 2:43 | 2022-05-29 |  |
 | [Winter Is Over \(Sar Oomad Zemestoon\)](https://open.spotify.com/track/4xNbZHwy05mDPp8aDJSVzG) | [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k), [XOV](https://open.spotify.com/artist/58jXqrbY8mAk006MNu3NCv) | [Winter Is Over \(Sar Oomad Zemestoon\)](https://open.spotify.com/album/4Tfp5bhONESSxLwwKFR9Jr) | 3:20 | 2022-05-29 |  |
-| [your girlfriend´s in the bathroom, i´m trying to kiss you](https://open.spotify.com/track/2NHbMEJ3lozGJ4fRG8UIVl) | [mags](https://open.spotify.com/artist/5ptYy8juurZJsWloxULC3V) | [mags](https://open.spotify.com/album/5RAlBASgQpO3Vuoq2KMHnX) | 2:26 | 2022-05-29 |  |
+| [your girlfriend´s in the bathroom, i´m trying to kiss you](https://open.spotify.com/track/2NHbMEJ3lozGJ4fRG8UIVl) | [mags](https://open.spotify.com/artist/5ptYy8juurZJsWloxULC3V) | [mags](https://open.spotify.com/album/5RAlBASgQpO3Vuoq2KMHnX) | 0:29 | 2022-05-29 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

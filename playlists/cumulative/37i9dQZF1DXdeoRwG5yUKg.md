@@ -4,16 +4,16 @@
 
 > Soulful, bluesy ballads\. Cover: Lizz Wright
 
-88 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/75KE2wEWnN31m3GF8kYS07)
+88 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/75KE2wEWnN31m3GF8kYS07)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(I Heard That\) Lonesome Whistle](https://open.spotify.com/track/181U4xxmR8BvLd0UpwWSBd) | [Darrell Scott](https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0) | [Darrell Scott Sings the Blues of Hank Williams](https://open.spotify.com/album/5hgYYzIFXu2v4gex0PY4Cy) | 3:40 | 2020-11-05 |  |
+| [\(I Heard That\) Lonesome Whistle](https://open.spotify.com/track/181U4xxmR8BvLd0UpwWSBd) | [Darrell Scott](https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0) | [Darrell Scott Sings the Blues of Hank Williams](https://open.spotify.com/album/5hgYYzIFXu2v4gex0PY4Cy) | 0:29 | 2020-11-05 |  |
 | [A Change Is Gonna Come](https://open.spotify.com/track/2RONhC3MSnfZx3P7b3csF5) | [Brian Owens](https://open.spotify.com/artist/7H5TzLxLTOrQuBuVzvll6d), [Thomas Owens](https://open.spotify.com/artist/5klnPBXrUhyAGezIS6V28F) | [A Change Is Gonna Come](https://open.spotify.com/album/5sP7f67CACltHoODXenmhw) | 4:36 | 2020-11-05 |  |
 | [All Around You](https://open.spotify.com/track/6Kt4ZcgT2vCUq7QezTTcES) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [A Sailor's Guide to Earth](https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4) | 3:35 | 2020-11-05 |  |
 | [All Gone](https://open.spotify.com/track/571w2h9G0RbD1k8P5JPtsc) | [Micatone](https://open.spotify.com/artist/7yQjOE5dpqtfPCBXaHtrEj) | [The Crack](https://open.spotify.com/album/6xS9bXbKRy7KprC7Gyo46T) | 4:17 | 2020-11-05 |  |
 | [All My Hope](https://open.spotify.com/track/0SQ06dpK6ev9sxhDh2fKh1) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 4:14 | 2021-05-21 |  |
-| [All on My Mind \- Acoustic](https://open.spotify.com/track/4piJ8pnoRvC5sqMEpbH0FA) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [All on My Mind \(Acoustic\)](https://open.spotify.com/album/7tz2tP0MyzjpNg13tgRyx9) | 3:49 | 2020-11-05 |  |
+| [All on My Mind \- Acoustic](https://open.spotify.com/track/4piJ8pnoRvC5sqMEpbH0FA) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [All on My Mind \(Acoustic\)](https://open.spotify.com/album/7tz2tP0MyzjpNg13tgRyx9) | 0:29 | 2020-11-05 |  |
 | [Always Say I Love You \(At The End Of Your Goodbyes\)](https://open.spotify.com/track/6ziHTglnnwomBLV8ZNEGRz) | [Curtis Salgado](https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0) | [Damage Control](https://open.spotify.com/album/0AYyCbmHz2vcgdbTjuFjEH) | 4:03 | 2021-02-26 |  |
 | [Beautiful Stranger](https://open.spotify.com/track/3G5zOkX5R6i6QDuyY7xNRH) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [El Dorado](https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0) | 4:07 | 2020-11-05 |  |
 | [Been My Last](https://open.spotify.com/track/4r7ZdD5korTwjnbe1mezoK) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Halfway Home By Morning](https://open.spotify.com/album/6yxTsj35RwLCNGm60hlf7h) | 3:44 | 2020-11-05 |  |
@@ -52,7 +52,7 @@
 | [Last Goodbye](https://open.spotify.com/track/0VnXemLs18D2jcH7wXaySJ) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Turn Around](https://open.spotify.com/album/2A7jWbq8sH2XFwXc9oCxWy) | 3:56 | 2020-11-05 |  |
 | [Last Surrender](https://open.spotify.com/track/1eOt3lInNLAvkf7xE7RFWi) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Honest Man](https://open.spotify.com/album/4syDqjDLtyOd7T70QkUQ60) | 3:17 | 2020-11-05 |  |
 | [Lay My Head On Your Pillow](https://open.spotify.com/track/6ZN106OpbakIb13AswoWOw) | [Cassie Taylor](https://open.spotify.com/artist/3rHAg1yXbyNq0mnPgsVahe) | [Out Of My Mind](https://open.spotify.com/album/7CJW9YnB3go0zg4oKYc3sD) | 3:59 | 2020-11-05 |  |
-| [Love's Truly Blind](https://open.spotify.com/track/767uxXvBCPYP1rscn8odVe) | [Anni Piper](https://open.spotify.com/artist/3piOtc3OX0x7Z4rtdDuNBo) | [Two's Company](https://open.spotify.com/album/0ZyNmn3MEE1oceC22A89PG) | 3:26 | 2020-11-05 |  |
+| [Love's Truly Blind](https://open.spotify.com/track/767uxXvBCPYP1rscn8odVe) | [Anni Piper](https://open.spotify.com/artist/3piOtc3OX0x7Z4rtdDuNBo) | [Two's Company](https://open.spotify.com/album/0ZyNmn3MEE1oceC22A89PG) | 0:29 | 2020-11-05 |  |
 | [Loving Arms](https://open.spotify.com/track/785q4cJoLhijb9jAyFMcCS) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk) | [Loving Arms](https://open.spotify.com/album/5BRE7T4u3bpH3WLqwm0xdK) | 6:21 | 2020-11-05 |  |
 | [Me to You](https://open.spotify.com/track/2XBzszqFztAByWUJ82MzKq) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Me to You](https://open.spotify.com/album/642PO6YTBiP26uQek3zOd5) | 3:50 | 2021-10-29 |  |
 | [More and More](https://open.spotify.com/track/1AqUAxuSol6C4ZyzGxEzre) | [Malted Milk](https://open.spotify.com/artist/2r5nTmvuWViPvZaLDRZ1J0) | [Love, Tears & Guns](https://open.spotify.com/album/2zXx3awhI7zd54BvHdpdT4) | 4:55 | 2020-11-05 |  |
@@ -65,7 +65,7 @@
 | [Now You Want Me Back](https://open.spotify.com/track/5dd769kGy644G8xYkdJJZt) | [Ina Forsman](https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b) | [Ina Forsman](https://open.spotify.com/album/2jlehXrLv0Ry0QaugJYx6Y) | 4:09 | 2020-11-05 |  |
 | [Old Flame](https://open.spotify.com/track/5YB1o0wYhyKRb760RFmvXa) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Mischievous Moon](https://open.spotify.com/album/3Rodq8gUXYYXtrfNdjWzmI) | 2:42 | 2020-11-05 |  |
 | [Only Fool Was Me](https://open.spotify.com/track/2fUoJejy209Fw7CJXAkacA) | [Jj Thames](https://open.spotify.com/artist/3s40l5PuYSiN6ZxVatol8p) | [Raw Sugar](https://open.spotify.com/album/5yVHESZZNt3DcYtG1Obsfd) | 4:28 | 2020-11-05 |  |
-| [Our Love](https://open.spotify.com/track/5cfGJHxNcS1S2qyZj9xH6z) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [The Story of Sonny Boy Slim](https://open.spotify.com/album/5gRwx5vpeXUA75GmuqwByn) | 4:11 | 2020-11-05 |  |
+| [Our Love](https://open.spotify.com/track/5cfGJHxNcS1S2qyZj9xH6z) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [The Story of Sonny Boy Slim](https://open.spotify.com/album/5gRwx5vpeXUA75GmuqwByn) | 0:29 | 2020-11-05 |  |
 | [Pictures on the Wall](https://open.spotify.com/track/3L5gTxFwf6T2ZeXx9n0bik) | [The Soul Jacket](https://open.spotify.com/artist/74gz5JP3mfqLeMBeCwYf9S) | [Black Cotton Limited](https://open.spotify.com/album/4eV2e8k894bwbeX2lJMYgb) | 4:17 | 2020-11-05 |  |
 | [Pressure Makes Diamonds](https://open.spotify.com/track/0aBjG35bcty7tOM917tVL6) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Pressure Makes Diamonds](https://open.spotify.com/album/5mSDSfm25FGQZVuxKi6Gvo) | 3:29 | 2020-11-05 |  |
 | [Promised Myself](https://open.spotify.com/track/0iCw9B4GfBrwbP6fTrzO6b) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8) | 5:19 | 2020-11-05 |  |
@@ -93,7 +93,7 @@
 | [What I've Known For A Very Long Time](https://open.spotify.com/track/5OtNvAmyUC2DtP4ZSRBD2R) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 5:33 | 2020-11-05 |  |
 | [What's the Matter with You](https://open.spotify.com/track/4G9KOVinbchBNFGB2YTyvK) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Wild Wild West / What's the Matter with You](https://open.spotify.com/album/7bCcvjetUXDx01xYos2tVb) | 3:52 | 2020-11-05 |  |
 | [Who Will Come for Me](https://open.spotify.com/track/3dItRGOkWJkuNEsyEl4DmZ) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Love Wins Again](https://open.spotify.com/album/3u5xHMTxsYnDpOGpckM8lv) | 4:38 | 2020-11-05 |  |
-| [Why Don't You Stay?](https://open.spotify.com/track/44CgGAQHAxrRWRSNS9mFQ8) | [Muddy Magnolias](https://open.spotify.com/artist/1t7mdRbvflM5966YVfyk1X) | [Broken People](https://open.spotify.com/album/3MIBce2g1BNk3mUuj10Ylr) | 4:33 | 2020-11-05 |  |
+| [Why Don't You Stay?](https://open.spotify.com/track/44CgGAQHAxrRWRSNS9mFQ8) | [Muddy Magnolias](https://open.spotify.com/artist/1t7mdRbvflM5966YVfyk1X) | [Broken People](https://open.spotify.com/album/3MIBce2g1BNk3mUuj10Ylr) | 0:29 | 2020-11-05 |  |
 | [Worst In Me](https://open.spotify.com/track/1zX45MGjbDDt2zceTraRvn) | [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Worst In Me](https://open.spotify.com/album/20BncSSGfvm3kCZZ8C28MU) | 3:56 | 2020-11-05 |  |
 | [You Were Mine](https://open.spotify.com/track/6VFbrvnjVfrSRPIwEf7ept) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [You Were Mine](https://open.spotify.com/album/0qZHzQ6plJgW7SqP1fDF1A) | 3:43 | 2020-11-05 |  |
 

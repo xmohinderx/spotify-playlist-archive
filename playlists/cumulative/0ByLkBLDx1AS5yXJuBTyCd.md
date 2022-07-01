@@ -4,7 +4,7 @@
 
 > Travel the world through sound – with indie and traditional folk and acoustic from across the globe.
 
-36 songs - 2 hr 15 min - [published](https://open.spotify.com/playlist/4Thw0013FxwwpeOiArYjdf)
+36 songs - 2 hr 8 min - [published](https://open.spotify.com/playlist/4Thw0013FxwwpeOiArYjdf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,8 +14,8 @@
 | [All The Pretty Girls](https://open.spotify.com/track/4lwt3Bqp3wvk4V1q6KXkb7) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [All The Pretty Girls](https://open.spotify.com/album/2flXsLAGJHPQ7Mt6MEXbU8) | 4:30 | 2014-12-17 |  |
 | [Au font du lac](https://open.spotify.com/track/42SLjspf2620Mt4sW3lIYO) | [Feufollet](https://open.spotify.com/artist/1BrbrpyPalpYADWybAjCAh) | [En Couleurs](https://open.spotify.com/album/4Mo8mFAmvseh69lRM7Bxe0) | 3:11 | 2014-12-17 |  |
 | [Baka](https://open.spotify.com/track/17vyu7wwITOfAUTGBVXM6F) | [Outback](https://open.spotify.com/artist/41HxkfEUQC5n2C5aRlzGiD) | [Baka](https://open.spotify.com/album/0BvYSqYmiaUmQB2RmYKtwx) | 6:34 | 2014-12-17 |  |
-| [Bamboléo](https://open.spotify.com/track/3qzVJh6INW1CzSDVR9MRgS) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [Gipsy Kings](https://open.spotify.com/album/21Hxqmg032UyDlZydqS4DW) | 3:23 | 2014-12-17 |  |
-| [Courtship Song](https://open.spotify.com/track/3bzc0xRyNkeXvESUvE2VYr) | [Robert Mirabal](https://open.spotify.com/artist/3rCzOTPZysU7pjOi6fmwJg) | [Music From A Painted Cave](https://open.spotify.com/album/1m5WXwfbkc1Jbw9Kh1H4RE) | 3:59 | 2014-12-17 |  |
+| [Bamboléo](https://open.spotify.com/track/3qzVJh6INW1CzSDVR9MRgS) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [Gipsy Kings](https://open.spotify.com/album/21Hxqmg032UyDlZydqS4DW) | 0:29 | 2014-12-17 |  |
+| [Courtship Song](https://open.spotify.com/track/3bzc0xRyNkeXvESUvE2VYr) | [Robert Mirabal](https://open.spotify.com/artist/3rCzOTPZysU7pjOi6fmwJg) | [Music From A Painted Cave](https://open.spotify.com/album/1m5WXwfbkc1Jbw9Kh1H4RE) | 0:29 | 2014-12-17 |  |
 | [Cumbia Americana \- Charangos](https://open.spotify.com/track/3D1vmCqbTKKQsAytgeEB44) | [Alejo García](https://open.spotify.com/artist/2dwM9OcE4c3Ph1UBINSodx), [Damian Verdun](https://open.spotify.com/artist/0ABDf2OVkwKpTxQ9EH7LeK) | [Americanito](https://open.spotify.com/album/4FLFlOrbLwNYDd0iiebQXK) | 2:29 | 2014-12-17 |  |
 | [Dusty Men](https://open.spotify.com/track/1WUCUeB6bvoio4oi1AZtZu) | [Saule](https://open.spotify.com/artist/2n2CmLay2NP2Iolah62W34), [Charlie Winston](https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3) | [Dusty Men](https://open.spotify.com/album/1IWBDKQ2lV7BCRnIKocXsb) | 3:25 | 2014-12-17 |  |
 | [El Maíz](https://open.spotify.com/track/6DiLpptCM35qEr384QweYU) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Me Saco el Sombrero](https://open.spotify.com/album/4OQgvzsaoGRNAFfzEAkxpv) | 3:42 | 2014-12-17 |  |

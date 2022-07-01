@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CC59WvTBvm.md) - [plain]
 
 > Soundtrack your 2022 resolutions with Demi Bagby.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,668 likes - 37 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,666 likes - 37 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CC59WvTBvm.md) - [plain]
 | 32 | [Water Water](https://open.spotify.com/track/2k5PhGbytAbougnMFMCRhT) | [Humans](https://open.spotify.com/artist/4BCVARfLoVaJDbk5x3Qqmz) | [Going Late](https://open.spotify.com/album/1bkYhk6r3xIRL9t1iS23wN) | 9:47 |
 | 33 | [Toluca Lake \- Imad Remix](https://open.spotify.com/track/4EdNY3scTlTbGpwGlbjfyg) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8), [Imad](https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU) | [Toluca Lake \(Imad Remix\)](https://open.spotify.com/album/1yNt1F49ZPZn8HBCtBWAG2) | 3:00 |
 | 34 | [Back & Forth](https://open.spotify.com/track/4jtcyKfutPwzRe24DAf7xU) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Ultra Dance 20](https://open.spotify.com/album/1DW7M5zfoG2Fahqo3t2sP9) | 3:16 |
-| 35 | [The Weekend \- Funk Wav Remix](https://open.spotify.com/track/0P6AWOA4LG1XOctzaVu5tt) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [The Weekend \(Funk Wav Remix\)](https://open.spotify.com/album/5enEsi887wD3qGoMCK4jLr) | 2:51 |
+| 35 | [The Weekend \- Funk Wav Remix](https://open.spotify.com/track/0P6AWOA4LG1XOctzaVu5tt) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [The Weekend \(Funk Wav Remix\)](https://open.spotify.com/album/5enEsi887wD3qGoMCK4jLr) | 0:29 |
 | 36 | [If I Can't Have You \(feat\. Harloe\) \(feat\. Harloe\)](https://open.spotify.com/track/4KgPCGE4qeanHcP3MRA7lW) | [SNBRN](https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI), [HARLOE](https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL) | [If I Can't Have You \(feat\. Harloe\) \(feat\. Harloe\)](https://open.spotify.com/album/3ubFDN1Y4UQbx02d4W9owq) | 3:56 |
 | 37 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 |
 

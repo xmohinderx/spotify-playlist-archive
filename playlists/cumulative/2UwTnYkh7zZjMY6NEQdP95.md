@@ -4,13 +4,13 @@
 
 > 
 
-40 songs - 2 hr 36 min - [published](https://open.spotify.com/playlist/7f23olFojXNqT2XCHIpANY)
+40 songs - 2 hr 28 min - [published](https://open.spotify.com/playlist/7f23olFojXNqT2XCHIpANY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Summer Song](https://open.spotify.com/track/7xmqWjtH9QWIUArpyO1GzQ) | [Chad & Jeremy](https://open.spotify.com/artist/2UQwwYBLBvtpGHTMYzTgHi) | [Sounds Of The City \- London](https://open.spotify.com/album/0Mxlskn2Hx1ZbO6PtkR27I) | 2:34 | 2013-05-20 |  |
 | [Bam Bam](https://open.spotify.com/track/3VksmvusozLnTa2HacweqB) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [Reggae Anthology: Winston Riley \- Quintessential Techniques](https://open.spotify.com/album/3IPuQhufdjBHf3kpi3oHav) | 3:10 | 2013-05-20 |  |
-| [Boogie Nights \- Single Version](https://open.spotify.com/track/3IBYB8YMt8DxevRVTB7xPi) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [70s 100 Hits](https://open.spotify.com/album/1k7WkNHGPNPnri2tsowvtg) | 3:35 | 2013-05-20 |  |
+| [Boogie Nights \- Single Version](https://open.spotify.com/track/3IBYB8YMt8DxevRVTB7xPi) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [70s 100 Hits](https://open.spotify.com/album/1k7WkNHGPNPnri2tsowvtg) | 0:29 | 2013-05-20 |  |
 | [California Gurls](https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:54 | 2013-05-20 |  |
 | [Cruel Summer](https://open.spotify.com/track/5idWp3nhlYd2yKtC7tBv3y) | [Bananarama](https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx) | [30 Years Of Bananarama \(The Very Best Of\)](https://open.spotify.com/album/0ss9UTc9hFrhxSazlEJYhD) | 3:35 | 2013-05-20 |  |
 | [Feel Good Hit Of The Summer](https://open.spotify.com/track/5LbRsTHDPRx17YGyqNZTYn) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Rated R \- Deluxe Edition](https://open.spotify.com/album/4aHGoMJUqP9t5IkUDmpN8f) | 2:43 | 2013-05-20 |  |
@@ -47,6 +47,6 @@
 | [Sunny](https://open.spotify.com/track/7uesSQUKBDtDdZjvevaJFO) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Ultimate Disco Classics](https://open.spotify.com/album/1GSQ1lEecAQVZiwj7dVUpk) | 3:16 | 2013-05-20 |  |
 | [Sunny Afternoon](https://open.spotify.com/track/1sEbWY6zZpmNouj0kPN4XS) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [The Singles Collection](https://open.spotify.com/album/0IElMJIrRn6lCGbTB5obrM) | 3:32 | 2013-05-20 |  |
 | [Sunny Road](https://open.spotify.com/track/5dcfP0DYH5SDeizgbHZop6) | [Emilíana Torrini](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) | [Fisherman's Woman](https://open.spotify.com/album/7kqYf6dpsDgxm61go96hwp) | 3:04 | 2013-05-20 |  |
-| [The Boys Of Summer](https://open.spotify.com/track/7KY40pRBPKQSaSe0j5nKUK) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The Very Best Of](https://open.spotify.com/album/2yPVB4tLlnfBl8SgcX8qDv) | 4:48 | 2013-05-20 |  |
+| [The Boys Of Summer](https://open.spotify.com/track/7KY40pRBPKQSaSe0j5nKUK) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The Very Best Of](https://open.spotify.com/album/2yPVB4tLlnfBl8SgcX8qDv) | 0:29 | 2013-05-20 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-116 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/0NRIi162ZzHvIFqC70MezX)
+117 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/0NRIi162ZzHvIFqC70MezX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [De Tu Mano](https://open.spotify.com/track/0dDo9FPktLTFMxQ5h1JdIP) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [De Tu Mano](https://open.spotify.com/album/4zNO2HO1luGa0Goo6TxQuf) | 2:41 | 2022-03-03 |  |
 | [Dicen](https://open.spotify.com/track/16Lmm7ei1syfXTZIYj5FpY) | [BeAlicia](https://open.spotify.com/artist/6WJPIJkV6uewElkY7llxso) | [A Veces](https://open.spotify.com/album/1SfElzQ1tIOxyXZmXjLuX9) | 2:58 | 2022-03-03 |  |
 | [Die Donau](https://open.spotify.com/track/2cZMVymCXBcY4KDr0Qag2f) | [Sylvia Warren](https://open.spotify.com/artist/0Jvjt5h5TJPxU0hsoTljL7) | [Die Donau](https://open.spotify.com/album/1hcqmGoCbBo79hyTfMLnl9) | 2:42 | 2022-03-03 |  |
-| [Don't Belong Anywhere](https://open.spotify.com/track/6ehsAZzWS6dADcl5bQ5Hyb) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Don't Belong Anywhere](https://open.spotify.com/album/1qdJJiWx2rAQBmHJIo4Bgj) | 3:53 | 2022-03-03 |  |
+| [Don't Belong Anywhere](https://open.spotify.com/track/6ehsAZzWS6dADcl5bQ5Hyb) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Don't Belong Anywhere](https://open.spotify.com/album/1qdJJiWx2rAQBmHJIo4Bgj) | 0:29 | 2022-03-03 |  |
 | [El Banco De La Plaza](https://open.spotify.com/track/4dvP23JMvMggnNx9SWSL1d) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [El Banco De La Plaza](https://open.spotify.com/album/5eczeMrsbmQ7eMcDEy7od3) | 4:37 | 2022-03-03 |  |
 | [El Camino De La Vida](https://open.spotify.com/track/0d0zDKdDkpyetQarz3wFq7) | [Elias Carrera](https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO) | [Wasi](https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ) | 2:16 | 2022-03-03 |  |
 | [El Carretero](https://open.spotify.com/track/3GAFugCvoutIwEAAzbeB74) | [Los Hermanos Cabaiguan](https://open.spotify.com/artist/3lD25kA4bqSWreXLA4sT5g) | [El Carretero](https://open.spotify.com/album/1VP2nwTHbf6K98NnAGtkjW) | 3:28 | 2022-03-03 |  |
@@ -57,6 +57,7 @@
 | [Garden Peace](https://open.spotify.com/track/00f9Id9X2EBYkyHkIL7gTA) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Garden Peace & Stravaig](https://open.spotify.com/album/3mAhOMjspV5JXZjrxoqu2l) | 3:41 | 2022-03-03 |  |
 | [Gipsy Sister](https://open.spotify.com/track/7L9Y5i00XIU2l3JO2vfig8) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Gipsy Sister](https://open.spotify.com/album/2oZUHoAzexwdbvLDi0pURK) | 2:36 | 2022-03-03 |  |
 | [Goiânia](https://open.spotify.com/track/4HiU3fxYZI6w2jNTTLhowT) | [Joana Ema](https://open.spotify.com/artist/2W1k5KydRQg7MsOSgGEm9u) | [Goiânia](https://open.spotify.com/album/559F8ws4FRpTbvaNc08VEE) | 2:52 | 2022-03-03 |  |
+| [Grande sonata, MS 3\. II\. Romance \- Più tosto Largo, Amorosamente](https://open.spotify.com/track/5t5gLPTHxS72odJk4MhDIl) | [Niccolò Paganini](https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q), [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Grande sonata, MS 3\. II\. Romance \- Più tosto Largo, Amorosamente](https://open.spotify.com/album/3EsiCjBLa9Y7LBWE7M0k2v) | 3:17 | 2022-07-01 |  |
 | [High Tops](https://open.spotify.com/track/4Tp755Pl6kyXxnaA3CZY98) | [Colin Weary](https://open.spotify.com/artist/5z9QoWPwVN58RPnYjpPgEO) | [High Tops](https://open.spotify.com/album/1AtTJkjZ8EKBGwgRM45xPA) | 2:53 | 2022-03-03 |  |
 | [Imelda´s Waltz](https://open.spotify.com/track/34o79IeA5dfhTSlgo6VpEu) | [Celia Linde](https://open.spotify.com/artist/12Sdhg5Y9l75czgzGyMD34) | [Shades in Blue](https://open.spotify.com/album/52NKtIOuEqvvlBN43G9Vz5) | 2:38 | 2022-03-03 |  |
 | [Insensatez](https://open.spotify.com/track/6PRHDUdclcUgzAZIfVy8Od) | [Irio De Paula](https://open.spotify.com/artist/6KofdGpuwBcATTer4Nrcbj), [Renato Sellani](https://open.spotify.com/artist/2NFBhaDMwwy87iAzsfjG90) | [Delicatessen](https://open.spotify.com/album/7iau3Oms7IyeSLlTW09uvk) | 4:14 | 2022-03-03 |  |
@@ -88,7 +89,7 @@
 | [Por Mi Algun Dia Vendras](https://open.spotify.com/track/51FyeJufmEKsnAvs0UXfpw) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Por Mi Algun Dia Vendras](https://open.spotify.com/album/6W9Mi99vA15orWdmxqptJu) | 3:03 | 2022-03-03 |  |
 | [Preludio No\. 3](https://open.spotify.com/track/2VCUwRLBHxqTscPd3NfOCP) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Jesús Ángel](https://open.spotify.com/artist/1ztVnc2fFgonnotHZfHUtD) | [Tárrega: Preludio No\. 3](https://open.spotify.com/album/3X1sZmEBYuVDwutGnrUm7D) | 0:36 | 2022-06-24 |  |
 | [Private Investigation](https://open.spotify.com/track/5UJX41yJ3og8Jb1Gn6kjMv) | [Owen Larssen](https://open.spotify.com/artist/5KC38oAHkvoeZvx2k9Pwlo) | [Private Investigation](https://open.spotify.com/album/5h0J1K7pgcNeILEhv472rN) | 3:04 | 2022-03-03 |  |
-| [Quiereme Corazon Quiereme](https://open.spotify.com/track/0K38jgUjNNXz6AEgQneS6M) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Quiereme Corazon Quiereme](https://open.spotify.com/album/7z9wIysqZqoUNFso68D3zK) | 2:54 | 2022-03-03 |  |
+| [Quiereme Corazon Quiereme](https://open.spotify.com/track/0K38jgUjNNXz6AEgQneS6M) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Quiereme Corazon Quiereme](https://open.spotify.com/album/7z9wIysqZqoUNFso68D3zK) | 0:29 | 2022-03-03 |  |
 | [Rancho](https://open.spotify.com/track/46BVf0OGrdgbuowxPpwviH) | [Joana Ema](https://open.spotify.com/artist/2W1k5KydRQg7MsOSgGEm9u) | [Rancho](https://open.spotify.com/album/5NWhm7lJDMiKryYAWeW2U9) | 2:49 | 2022-03-03 |  |
 | [Recuerdos de la Alhambra](https://open.spotify.com/track/0txa5FMG04o9M0dxnX4HcT) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Renata Tarragó](https://open.spotify.com/artist/3sjJiSSbYmyfArQYwNtMa4) | [Homenaje a Tárrega](https://open.spotify.com/album/5wpauqKN8pjYclujgFr7ng) | 3:41 | 2022-03-03 |  |
 | [Roberto el Rebelde](https://open.spotify.com/track/6S7hOpmy4lzJmExEFSOnP6) | [Los Principes del Flamenco](https://open.spotify.com/artist/5QRBOvnAAd81MkUgB2pyzD) | [Tierra Nordica](https://open.spotify.com/album/3beGa7ny7BngU8gyFdwsty) | 3:27 | 2022-03-03 |  |

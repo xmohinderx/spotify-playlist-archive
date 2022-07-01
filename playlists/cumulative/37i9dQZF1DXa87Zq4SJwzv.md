@@ -4,7 +4,7 @@
 
 > Celebra el amor igualitario con una fina selección hecha por Sobrino.
 
-82 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/2lenEe7u2WrzaIYeSm569B)
+82 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/2lenEe7u2WrzaIYeSm569B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 | 2022-06-03 | 2022-06-30 |
 | [Make Me..\. \(feat\. G\-Eazy\)](https://open.spotify.com/track/0nUGa8WQpQqg2vzJUprEo5) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Glory \(Deluxe Version\)](https://open.spotify.com/album/7gALIuQHKvpZR8EtbNZ7qK) | 3:50 | 2022-06-03 | 2022-06-30 |
 | [Maltratar](https://open.spotify.com/track/3i5q2XsZxL40UEmdDzfWYe) | [MANCANDY](https://open.spotify.com/artist/1MYMkIxhD5Gsq0u0NhPFVq) | [2016](https://open.spotify.com/album/3UJCMFZa1DMsY96qXNomEV) | 3:32 | 2022-06-03 | 2022-06-30 |
-| [Mequetrefe](https://open.spotify.com/track/6RJiY28t9jWpdy1JkUhNgK) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:20 | 2022-06-29 |  |
+| [Mequetrefe](https://open.spotify.com/track/6RJiY28t9jWpdy1JkUhNgK) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 0:29 | 2022-06-29 |  |
 | [Mi Amor Soy Yo](https://open.spotify.com/track/4V3QJUJ1DhSoTCrho7aruK) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg), [Trans\-X](https://open.spotify.com/artist/4JyfkCTV9FO5Yipee3f9EI) | [Lo Que Me Haces Sentir](https://open.spotify.com/album/7KhylKVPFvw83sag5eROHg) | 2:51 | 2022-06-03 | 2022-06-30 |
 | [Microbios](https://open.spotify.com/track/6pkae997UvWG7rs749NGvf) | [Mister](https://open.spotify.com/artist/3BRfUbrrKLt4U3vatTIE8U), [MANCANDY](https://open.spotify.com/artist/1MYMkIxhD5Gsq0u0NhPFVq) | [Microbios](https://open.spotify.com/album/1u1CBRNNo8t9GqquaQhOcf) | 3:58 | 2022-06-03 | 2022-06-30 |
 | [Milionària](https://open.spotify.com/track/2K3bjojp1sCLdMMoO5lJ2p) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Fucking Money Man](https://open.spotify.com/album/7qJZgNj9IMy9onoTe5uhZc) | 2:18 | 2022-06-29 |  |
@@ -72,7 +72,7 @@
 | [No Dices Mas](https://open.spotify.com/track/2udRqNX3z2OjdqR01ebDwU) | [Mœnia](https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV) | [Adicion](https://open.spotify.com/album/5J5Ips2LzDrTUaCVB7KZSq) | 4:19 | 2022-06-03 | 2022-06-30 |
 | [NO TE KIERO OLVIDAR](https://open.spotify.com/track/5TN61Kn0bOxKKVYOGH5BuX) | [Blue Rojo](https://open.spotify.com/artist/4x9zOt693Z5NGiuxjOgFFJ) | [Solitario](https://open.spotify.com/album/1tassNYSKM3abtcpONTpMq) | 3:28 | 2022-06-03 | 2022-06-30 |
 | [No vaya a ser](https://open.spotify.com/track/6ZZOdrcqRZzTCwGlsy00SU) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Prometo](https://open.spotify.com/album/07c88Esc2q8pUl0tXADs3D) | 3:18 | 2022-06-29 |  |
-| [Nonbinary](https://open.spotify.com/track/4lUlYGT5VvZWN3GBDIc9KT) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:19 | 2022-06-29 |  |
+| [Nonbinary](https://open.spotify.com/track/4lUlYGT5VvZWN3GBDIc9KT) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 0:29 | 2022-06-29 |  |
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2022-06-03 | 2022-06-30 |
 | [Otra Canción](https://open.spotify.com/track/687Bt7NeMu6g33jAiPdNrB) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Otra Canción](https://open.spotify.com/album/2XfEFsy1BGDLwJoBiOpDy6) | 3:40 | 2022-06-29 |  |
 | [Pasos de cero](https://open.spotify.com/track/18mmN3VrFWRi6SsSBJf6WJ) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Terral](https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS) | 3:54 | 2022-06-29 |  |

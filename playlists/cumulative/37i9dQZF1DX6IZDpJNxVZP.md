@@ -4,7 +4,7 @@
 
 > Celebrate Halloween at home with these fun tracks
 
-133 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/0R2EZHHQAsftTT9zdzkjlK)
+133 songs - 5 hr 55 min - [published](https://open.spotify.com/playlist/0R2EZHHQAsftTT9zdzkjlK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,13 +45,13 @@
 | [Grim Grinning Ghosts \- From "The Haunted Mansion"](https://open.spotify.com/track/6PDomgzbyDHx0pxJwWQ5HI) | [The Melomen](https://open.spotify.com/artist/2Zdiv6y6Bd0GpdlEtvXzVB), [Paul Frees](https://open.spotify.com/artist/4O7CH489gsT4ZDJNL98Eqk), [Betty Taylor](https://open.spotify.com/artist/1lD6fWemp959GGVhH0NuC1), [Bill Lee](https://open.spotify.com/artist/1Vb1cXNxIUyb3Geb9cvSvL), [Thurl Ravenscroft](https://open.spotify.com/artist/5Gejwv3xz2DpLcxVpMD6hL) | [Disney Classics](https://open.spotify.com/album/6zisUsluEUqL929AhNOXs0) | 5:32 | 2021-09-10 |  |
 | [Halloveen](https://open.spotify.com/track/16lPkyM9Nc19BbQluNUks2) | [Little Ditto](https://open.spotify.com/artist/45zwS0Ipb9GuXMvekivQ38) | [Halloveen](https://open.spotify.com/album/5xRCtJR7mVVKbNuqSEMmoy) | 1:56 | 2021-09-17 |  |
 | [Halloween](https://open.spotify.com/track/4CSaUDwbyd7xExCTQKnLqg) | [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY), [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8) | [Kids Trap Halloween](https://open.spotify.com/album/1SvE2Pv0JQMItbr34MS0La) | 1:44 | 2021-09-10 |  |
-| [Halloween](https://open.spotify.com/track/4jn1EEJFB6R5tjBPFRSNOK) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Halloween](https://open.spotify.com/album/1JJvFooOJDfSifLeLlocSN) | 2:27 | 2021-09-10 |  |
+| [Halloween](https://open.spotify.com/track/4jn1EEJFB6R5tjBPFRSNOK) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Halloween](https://open.spotify.com/album/1JJvFooOJDfSifLeLlocSN) | 0:29 | 2021-09-10 |  |
 | [Halloween Costume Party](https://open.spotify.com/track/1kZUhs9oLt95tLfsT4NE9h) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Halloween Songs 2](https://open.spotify.com/album/3W0o5NCvcvvQtYAvor3KDS) | 1:50 | 2021-08-30 |  |
 | [Halloween Is Finally Here](https://open.spotify.com/track/6HRKf0RUdc4tgz2mre0vNh) | [Bears and Lions](https://open.spotify.com/artist/55XGQSMgofzZFEtY4bDJPB) | [Halloween Is Finally Here](https://open.spotify.com/album/4Uuu1GmwbX8lfwHk6ODSD3) | 1:45 | 2021-09-10 |  |
 | [Halloween Jack In The Box](https://open.spotify.com/track/04tnvdXRN2laFOCD4LDJFu) | [The MikMaks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [Halloween Jack In The Box](https://open.spotify.com/album/4Tx7dRyswwgC8LWCwclP0D) | 1:59 | 2021-10-12 |  |
 | [Halloween Night](https://open.spotify.com/track/4H7zqlSsBgoXjRAALsPLSg) | [Like Father Like Son](https://open.spotify.com/artist/4LofRCrcDskFp1NnTFujb3) | [Halloween Night](https://open.spotify.com/album/3p1Rk9EcDJMIZcEY1kkfM5) | 3:26 | 2021-09-10 |  |
 | [Halloween Night](https://open.spotify.com/track/10HzJHG4qFRAcxxQWOAlTg) | [Little Blue Globe Band](https://open.spotify.com/artist/4kajLiIKFFPxfQdtCgYuOq) | [Halloween Night](https://open.spotify.com/album/6wRmojz3wzGxq6nbbntwZS) | 2:18 | 2021-09-10 |  |
-| [Halloween Oh Halloween Song for Kids](https://open.spotify.com/track/5Y7G0aWQ1Um9VyMQFOty1I) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Halloween Oh Halloween Song for Kids](https://open.spotify.com/album/3jojeJFmhtogkLitNNOSoN) | 3:11 | 2021-09-10 |  |
+| [Halloween Oh Halloween Song for Kids](https://open.spotify.com/track/5Y7G0aWQ1Um9VyMQFOty1I) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Halloween Oh Halloween Song for Kids](https://open.spotify.com/album/3jojeJFmhtogkLitNNOSoN) | 0:29 | 2021-09-10 |  |
 | [Halloween Party](https://open.spotify.com/track/7iqijTBAtZidxC3teIrGK9) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Halloween Party](https://open.spotify.com/album/4TNubeWlW4FPG1hXRRzVxo) | 2:14 | 2021-10-04 |  |
 | [Halloween Rules](https://open.spotify.com/track/22MrUsCoZsypVksOdgGBtJ) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Halloween](https://open.spotify.com/album/1k14nuO98b5izdLmLoReL8) | 2:40 | 2021-09-10 |  |
 | [Halloween Shark](https://open.spotify.com/track/1Pt4uDDVb4kl9BQngDohY3) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Baby Shark Special](https://open.spotify.com/album/32rfxYeHQua1OqWpmBEK90) | 1:35 | 2021-08-30 |  |

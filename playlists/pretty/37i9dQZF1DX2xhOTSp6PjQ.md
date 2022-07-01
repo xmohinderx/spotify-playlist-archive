@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Maskandi favourites for every day of the week\. Cover: <a href="https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP?si=1cAhcaANREyS\-wXav9tJWA">Phuzekhemisi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,143 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,154 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 41 | [Isingqazu Sami](https://open.spotify.com/track/0wg9dKX6zfOVy3A53osxIS) | [Inxakanxaka](https://open.spotify.com/artist/43DNa0M6aCPjeWTVIL7x80) | [Isingqazu Sami](https://open.spotify.com/album/4pGIADaXRBnuRRWBs7QAdG) | 5:09 |
 | 42 | [Zonga Kanjani](https://open.spotify.com/track/6eAkUwh6sgNnGOtHXZOt1j) | [U'mjik' Jelwa](https://open.spotify.com/artist/6CtPmBW0KxaanNVN8ZIJjv) | [iChallenge](https://open.spotify.com/album/1xYSfs18C1r2dUzrJrD2Z7) | 4:22 |
 | 43 | [Ikhotha Eyikhothayo](https://open.spotify.com/track/5lQrJySa8SnAVFzrppqOyo) | [Abagqobhi](https://open.spotify.com/artist/7eigkjZtpAoOSfWfif1qxK) | [Inunu Engafi](https://open.spotify.com/album/0nc4IHahVp9BvuMNpPMrTE) | 4:47 |
-| 44 | [Please Call Me \(feat\. Oliver Mtukudzi & DJ Tira\)](https://open.spotify.com/track/5uaLKLMsJmVyqDQuOEBDTI) | [Shabalala Rhythm](https://open.spotify.com/artist/4yqgRp5LrmRXgSKpAqTBdl), [Oliver Mtukudzi](https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn) | [Please Call Me](https://open.spotify.com/album/45Cf5K35YTli0s93d5NkNt) | 4:57 |
+| 44 | [Please Call Me \(feat\. Oliver Mtukudzi & DJ Tira\)](https://open.spotify.com/track/5uaLKLMsJmVyqDQuOEBDTI) | [Shabalala Rhythm](https://open.spotify.com/artist/4yqgRp5LrmRXgSKpAqTBdl), [Oliver Mtukudzi](https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn) | [Please Call Me](https://open.spotify.com/album/45Cf5K35YTli0s93d5NkNt) | 0:29 |
 | 45 | [Sikhokha Njalo](https://open.spotify.com/track/4DtXsMWFsOxsWgldeXiavB) | [Phuzekhemisi](https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP) | [Sikhokha Njalo](https://open.spotify.com/album/5ysSoX3cp4ZJE0pHykOfop) | 4:17 |
 | 46 | [Thenjiwe](https://open.spotify.com/track/75aBCMT86TKSlEgpIz1tT9) | [Mfiliseni Magubane](https://open.spotify.com/artist/3b9PzSL6PxZRA6k4Dqmajs) | [Izwe Lihle Ngabantu](https://open.spotify.com/album/5RFD1wyMiFxwFTqxs9UX0i) | 4:45 |
 | 47 | [Inhliziyo Yami](https://open.spotify.com/track/3AMnrGFsUlrcY8ig6ASidM) | [Abafana Baka Mahawukela](https://open.spotify.com/artist/6WiOCqFw2OVO8d9SfMUeYp) | [Ungubani Wena](https://open.spotify.com/album/2srpkMeXj6atimRUTmMdv5) | 4:08 |

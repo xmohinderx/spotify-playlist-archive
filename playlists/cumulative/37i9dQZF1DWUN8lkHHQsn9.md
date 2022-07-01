@@ -4,19 +4,19 @@
 
 > Posłuchaj głosu polskich artystów LGBTQ+\. Wyjątkowe spektrum dźwięków na jednej playliście\. Cover: thekayetan
 
-79 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/5XlG8Doc1gwzAGNsy2t9Pq)
+79 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/5XlG8Doc1gwzAGNsy2t9Pq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Attention](https://open.spotify.com/track/32CGVs9AmSfVZjfYBWv9Ot) | [Bloo Crane](https://open.spotify.com/artist/2fArSWn7Q393fy7zt2Im9I) | [Bloo Feelings](https://open.spotify.com/album/4YFda393j1BTBGPBNFvaiq) | 3:06 | 2021-06-22 | 2022-06-01 |
 | [Barbie](https://open.spotify.com/track/2L2qDPcoGTL7AKC38BTr0l) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Dziewczynka Tatusia](https://open.spotify.com/album/7F65SLLOJ5pCc7liw3dQHJ) | 2:21 | 2022-06-17 |  |
-| [Better Place](https://open.spotify.com/track/2MlHGVbFRP1BUf0mP7Gm4p) | [Ola Poskrop](https://open.spotify.com/artist/2CJ1ODOHx6DhVpaDJaq6dy) | [Better Place](https://open.spotify.com/album/5Ky0KyEN3TAoM4Ub9u0brG) | 3:01 | 2022-06-01 |  |
+| [Better Place](https://open.spotify.com/track/2MlHGVbFRP1BUf0mP7Gm4p) | [Ola Poskrop](https://open.spotify.com/artist/2CJ1ODOHx6DhVpaDJaq6dy) | [Better Place](https://open.spotify.com/album/5Ky0KyEN3TAoM4Ub9u0brG) | 0:29 | 2022-06-01 |  |
 | [Bez powietrza](https://open.spotify.com/track/6BAkqxn8mtEU2AFqqt4Ti6) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Bez powietrza](https://open.spotify.com/album/1FOtCixEJUWnKMEAMttUag) | 2:59 | 2022-06-01 |  |
 | [bezdech](https://open.spotify.com/track/19TK1sdgx6H2l4uTl7Ti50) | [livia lena](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [bezdech](https://open.spotify.com/album/33FAfgaa5ZMKsJElVNO16R) | 3:19 | 2022-06-01 |  |
 | [Bolt](https://open.spotify.com/track/2cdwgNThDAVnQxqzPwtpSY) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [Bolt](https://open.spotify.com/album/5Alc4ujo7Q3ISxeKd9gV62) | 3:36 | 2022-06-10 |  |
 | [BSoD](https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [BSoD](https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag) | 2:59 | 2022-06-01 |  |
 | [Ciała Niebieskie](https://open.spotify.com/track/1vX60GfNMXm4ghISGo7QBe) | [Caville](https://open.spotify.com/artist/3K6TVqpz0sfuRtKVo6tYBZ) | [Ciała Niebieskie](https://open.spotify.com/album/6QHFF4bgTFpmy6aNMo6PLE) | 3:04 | 2021-06-22 | 2022-06-01 |
-| [Cicho](https://open.spotify.com/track/2TOrUREtKTgIs3GO6ufiB0) | [Agata Radziszewska](https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA) | [Młodzi](https://open.spotify.com/album/3qB3nhievjivYCPPizraEG) | 4:07 | 2022-06-01 |  |
+| [Cicho](https://open.spotify.com/track/2TOrUREtKTgIs3GO6ufiB0) | [Agata Radziszewska](https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA) | [Młodzi](https://open.spotify.com/album/3qB3nhievjivYCPPizraEG) | 0:29 | 2022-06-01 |  |
 | [Cień](https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [DOM](https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH) | 4:03 | 2022-06-01 |  |
 | [Czar](https://open.spotify.com/track/2sbSjNpFbHpVvgiJkDOA03) | [Antonina](https://open.spotify.com/artist/0kG8pgFRDYXphEkcRTReNS) | [Czar](https://open.spotify.com/album/6mbc9q7Kvg63UKFtTM4nbr) | 2:45 | 2021-06-22 | 2022-06-01 |
 | [Dinozaury i kosmici](https://open.spotify.com/track/6uVAkbq5J7t3mLRrOJtiXI) | [Cudowne Lata](https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf) | [Dinozaury i kosmici](https://open.spotify.com/album/5jV4eT6gey4jo3Sr9e9ACL) | 3:57 | 2022-06-01 | 2022-06-14 |
@@ -40,7 +40,7 @@
 | [Lont](https://open.spotify.com/track/0MoOrK9oPDCDhj3qz0iIR5) | [Zawadzki](https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt) | [Lont](https://open.spotify.com/album/59UAE7TDoS7iiBqiIa6LmX) | 3:48 | 2022-06-01 |  |
 | [Lowcost](https://open.spotify.com/track/3a3nbc4trOMB2SNUWzmPn7) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [Who the F\*\*\* is Dawid Grzelak?](https://open.spotify.com/album/38qGUVS5YFVqArJRocg0b4) | 3:40 | 2021-06-22 | 2022-06-01 |
 | [Lowcost](https://open.spotify.com/track/56NJBkLZKU0viA3DtcZl06) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [Who the F\*\*\* is Dawid Grzelak?](https://open.spotify.com/album/5qrC1OMKnrMezDlitDquLF) | 3:40 | 2022-06-01 | 2022-06-11 |
-| [Lustro](https://open.spotify.com/track/2HhqdIn5pplLm7wwDGnGLq) | [Agata Radziszewska](https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA) | [Młodzi](https://open.spotify.com/album/3qB3nhievjivYCPPizraEG) | 3:25 | 2022-06-01 |  |
+| [Lustro](https://open.spotify.com/track/2HhqdIn5pplLm7wwDGnGLq) | [Agata Radziszewska](https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA) | [Młodzi](https://open.spotify.com/album/3qB3nhievjivYCPPizraEG) | 0:29 | 2022-06-01 |  |
 | [Miasto na W](https://open.spotify.com/track/2kRkTXrB0ffACOUaiOY3sJ) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai) | [Miasto na W](https://open.spotify.com/album/4EqMnPG6WLzc0MRWFm6Q0A) | 3:09 | 2021-06-22 | 2022-06-01 |
 | [Miło Cię Poznać](https://open.spotify.com/track/4ayliH4aYbnJf4MpXvsmlT) | [Raf Skowroński](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [Miło Cię Poznać](https://open.spotify.com/album/61ONsroY4Ugr0vBfByDIri) | 3:31 | 2022-06-01 |  |
 | [NAJGORSZE RZECZY](https://open.spotify.com/track/14IblGaBsxqjyflCxvZkls) | [WaluśKraksaKryzys](https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd) | [ATAK](https://open.spotify.com/album/09ILsQK7aaCtCGciftyi0z) | 4:34 | 2021-06-22 | 2022-06-01 |

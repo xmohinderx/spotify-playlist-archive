@@ -4,7 +4,7 @@
 
 > Rock tranqui para concentrarse.
 
-50 songs - 3 hr 0 min - [published](https://open.spotify.com/playlist/2pqytRMSyM7wvLaDeCih1G)
+50 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/2pqytRMSyM7wvLaDeCih1G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,12 +46,12 @@
 | [Me Haces Existir](https://open.spotify.com/track/6xoDLYJLowbigt8pqnthpx) | [Monocordio](https://open.spotify.com/artist/2aDuDJULvIt8qs08LIVNkU) | [El Primer Rayo de Sol \- EP](https://open.spotify.com/album/6K8C9SgJJBr6SvIfol0ckQ) | 4:49 | 2021-05-13 |  |
 | [Me Van A Matar](https://open.spotify.com/track/5DaOTjY1vz38V0RGrrRFGq) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Amores Perros \(Soundtrack\)](https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY) | 4:02 | 2021-05-13 |  |
 | [Me Voy](https://open.spotify.com/track/7EEbMTkfPqFVD5ZoLZLYiD) | [Helfy](https://open.spotify.com/artist/66d5Z5OpnmGw4yWdJbmXWm) | [Me Voy](https://open.spotify.com/album/2157W6oC9ZfjzJxRPO4vwO) | 2:10 | 2021-05-13 |  |
-| [Mi Playa](https://open.spotify.com/track/34HGQ7X0wMKEnRnGcEdeps) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Sweet & Sour \- Hot & Spicy](https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7) | 3:42 | 2021-05-13 |  |
+| [Mi Playa](https://open.spotify.com/track/34HGQ7X0wMKEnRnGcEdeps) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Sweet & Sour \- Hot & Spicy](https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7) | 0:29 | 2021-05-13 |  |
 | [Monitor \- Acoustic](https://open.spotify.com/track/6FmiOrorVIYLMOur2j1KeZ) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Monitor](https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB) | 4:18 | 2021-05-13 |  |
 | [Mátenme Porque Me Muero](https://open.spotify.com/track/4sVoEFCyerZgHpVuPK4klD) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Mátenme Porque Me Muero](https://open.spotify.com/album/1xnmcDkmUfiN7fJXU85tRQ) | 3:26 | 2021-05-13 |  |
 | [No Me Destruyas \- En Vivo](https://open.spotify.com/track/2FHJQdcr13LFhQHyrvRFXk) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo](https://open.spotify.com/album/19iPSmKMoGEDaW1CdePOSc) | 3:44 | 2021-05-13 |  |
 | [Nos Siguen Pegando Abajo](https://open.spotify.com/track/0BYEbV5yHTFpnZ9NZJboNx) | [Leopoldo Lopez](https://open.spotify.com/artist/4eiT8IHB1FaTzRyvkyyI3q) | [Nos Siguen Pegando Abajo](https://open.spotify.com/album/7fbg5gaenSCqKnyzntZ4t6) | 3:12 | 2021-05-13 |  |
-| [Oye Mi Amor](https://open.spotify.com/track/5p1RdRVrH5uXL7xKF2lWby) | [Anabel](https://open.spotify.com/artist/12IF5EUgrWK8dnnlLQaaTx) | [Oye Mi Amor](https://open.spotify.com/album/66PCDbgVKriCpWIEVtP3GY) | 3:15 | 2021-05-13 |  |
+| [Oye Mi Amor](https://open.spotify.com/track/5p1RdRVrH5uXL7xKF2lWby) | [Anabel](https://open.spotify.com/artist/12IF5EUgrWK8dnnlLQaaTx) | [Oye Mi Amor](https://open.spotify.com/album/66PCDbgVKriCpWIEVtP3GY) | 0:29 | 2021-05-13 |  |
 | [Pobre De Ti](https://open.spotify.com/track/1BfG1GebmxE0OWl0lz1E3l) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Pobre De Ti](https://open.spotify.com/album/2wCNlBIDraaqMYzy6GV4sX) | 3:50 | 2021-05-13 |  |
 | [Querer](https://open.spotify.com/track/49drBO7rVHCvJjcb9Rmekf) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Efecto Dominó](https://open.spotify.com/album/54Bbckv221mUWGvDbJnffb) | 3:37 | 2021-05-13 |  |
 | [Rayando El Sol](https://open.spotify.com/track/0eh9gAGvtaLI8cIzKsdCgn) | [Jenny Beaujean y Benjamin Garcia](https://open.spotify.com/artist/06izVjPOksdkMjJ3NUDfky) | [Rayando El Sol](https://open.spotify.com/album/7Hbcex3ZqA8hk0kcTq4PLe) | 3:59 | 2021-05-13 |  |

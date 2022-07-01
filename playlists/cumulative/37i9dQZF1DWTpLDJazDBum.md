@@ -4,7 +4,7 @@
 
 > Find your flow with these instrumental trap and lofi beats.
 
-193 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/7G9URZLYPjRGYZEph2wbiQ)
+193 songs - 8 hr 29 min - [published](https://open.spotify.com/playlist/7G9URZLYPjRGYZEph2wbiQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Trip for You](https://open.spotify.com/track/67ZzZ5axS4vv3HKb4052Ju) | [Roboflex](https://open.spotify.com/artist/4EoR3Th3E98nSMzwPPeZZg) | [A Trip for You](https://open.spotify.com/album/0QKQialdrr80S3EMFupxHR) | 2:14 | 2022-04-08 |  |
 | [Afterglow](https://open.spotify.com/track/6dHozDVKUUc7fm26EgrP2E) | [HOUNDTRACK](https://open.spotify.com/artist/3nw1z931Oc4JMbF4rGfz6O) | [Afterglow](https://open.spotify.com/album/77uGdp712E0p0nGkrQx35L) | 2:29 | 2022-04-08 | 2022-05-27 |
 | [Amber](https://open.spotify.com/track/1evwA28dL7t3r5eG3DOmmj) | [Fadez N Riser](https://open.spotify.com/artist/11RjmGA0jW6k35CqEGjl8n) | [Amber](https://open.spotify.com/album/5Ugj8cXqKSZ1YLNQ5dLTZT) | 2:48 | 2022-04-08 |  |
-| [Ambivalent](https://open.spotify.com/track/5gdYkbObWnojZxaNBQ94sZ) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Ambivalent](https://open.spotify.com/album/4HdRnDygvhda6ywARwXUSo) | 2:26 | 2022-05-26 |  |
+| [Ambivalent](https://open.spotify.com/track/5gdYkbObWnojZxaNBQ94sZ) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Ambivalent](https://open.spotify.com/album/4HdRnDygvhda6ywARwXUSo) | 0:29 | 2022-05-26 |  |
 | [Ascend](https://open.spotify.com/track/0Gybm8PWOmYTQG4Bjqxh0f) | [DayoffSounds](https://open.spotify.com/artist/50Dn3JAzqpZVKtcykEz8NE) | [Instrumental Gems, Vol\. 1](https://open.spotify.com/album/0dvyfEiOU5Wks9vPjEQhfb) | 2:33 | 2022-04-08 | 2022-05-27 |
 | [Astro Beat](https://open.spotify.com/track/4U6d6txn9S3BV6MrFefQuI) | [RICE / DJ Bucket](https://open.spotify.com/artist/1qG9STeWScqJTttVvcxfsD) | [Astro Beat](https://open.spotify.com/album/2NY3CbNis1x7g34As1kKqc) | 3:41 | 2022-04-08 | 2022-05-27 |
 | [Ataraxis](https://open.spotify.com/track/0CWViXbXU67Xto3hbeHcPI) | [Auracane](https://open.spotify.com/artist/1iuQp6PLtiGhfyhFBacmT8) | [Ascension](https://open.spotify.com/album/0G43axY2mZJzvnM7gHI0yq) | 3:16 | 2022-04-08 | 2022-05-27 |

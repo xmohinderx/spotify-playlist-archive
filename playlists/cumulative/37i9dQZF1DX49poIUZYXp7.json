@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 182080,
       "name": "All American",
       "url": "https://open.spotify.com/track/3z610KBfuClGcA7ywI19w8"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 239693,
       "name": "Baby Girl - 3rd Version/Remix/Single Version",
       "url": "https://open.spotify.com/track/6qQIH999KekS3qFWqR5qMO"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 192759,
       "name": "Bad Posture",
       "url": "https://open.spotify.com/track/1s7jZkEqW1T84f3VyIT29g"
@@ -761,7 +761,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 165520,
       "name": "Dates In Pickup Trucks",
       "url": "https://open.spotify.com/track/5U4iPIXYJ5h6H7zJhx6VVF"
@@ -1187,7 +1187,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 201480,
       "name": "Getting Good",
       "url": "https://open.spotify.com/track/0fyqiDJ5mBW00MO1HEAK52"
@@ -1245,7 +1245,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 191744,
       "name": "Girl Go",
       "url": "https://open.spotify.com/track/3dpq9duXCd1E5wbOjIL4DG"
@@ -1573,7 +1573,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 193023,
       "name": "Hate This Hometown",
       "url": "https://open.spotify.com/track/6eukvmq1A85Jz0hBVfmkkP"
@@ -1592,7 +1592,7 @@
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 209760,
+      "duration_ms": 29048,
       "name": "Heads Carolina, Tails California",
       "url": "https://open.spotify.com/track/6Lmx6bz3PGYuNSjKMnYBOa"
     },
@@ -1663,7 +1663,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 192386,
       "name": "Heavenly",
       "url": "https://open.spotify.com/track/0fx1Oyto2wN6gLenluWyYJ"
@@ -1717,7 +1717,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 210213,
       "name": "Holding Out For A Cowboy",
       "url": "https://open.spotify.com/track/1q9RqY2hjH5e8U3NrrjWpN"
@@ -1913,7 +1913,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 196421,
       "name": "I Could Use a Love Song",
       "url": "https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ"
@@ -1967,7 +1967,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 180399,
       "name": "I Don\u2019t Smoke",
       "url": "https://open.spotify.com/track/4Qp7t5e0oDrYbdgOaLLpOt"
@@ -1985,7 +1985,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 210772,
       "name": "I Hope",
       "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
@@ -2101,6 +2101,24 @@
       "duration_ms": 220837,
       "name": "I Know A Woman",
       "url": "https://open.spotify.com/track/7ltghituhN1IsPha0eBDmE"
+    },
+    {
+      "album": {
+        "name": "I Love My Hometown",
+        "url": "https://open.spotify.com/album/59vGZh0k3KIyFS6kFyNVID"
+      },
+      "artists": [
+        {
+          "name": "RaeLynn",
+          "url": "https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198005,
+      "name": "I Love My Hometown",
+      "url": "https://open.spotify.com/track/3EF8vJwg4NBkzp7DCO90E1"
     },
     {
       "album": {
@@ -2313,7 +2331,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 188012,
       "name": "Just About Over You - Radio Edit",
       "url": "https://open.spotify.com/track/4JFPLiaWIP5xqV1DCbSqeh"
@@ -2403,7 +2421,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 186942,
       "name": "Last Kiss",
       "url": "https://open.spotify.com/track/7qgHRxllAa0ZrHwFFJ9UIz"
@@ -2583,7 +2601,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 201322,
       "name": "Make It Past Georgia",
       "url": "https://open.spotify.com/track/2jt5TmTYrmdr46cGHrcFjq"
@@ -2619,7 +2637,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 217706,
       "name": "Martha Divine",
       "url": "https://open.spotify.com/track/7cokvE1fABqkJL8FgUiBcS"
@@ -3046,7 +3064,7 @@
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 169440,
+      "duration_ms": 29048,
       "name": "Pick Me Up",
       "url": "https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb"
     },
@@ -3189,7 +3207,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 186094,
       "name": "Right On Time",
       "url": "https://open.spotify.com/track/3JF3flDpns4Djyjw7qkLlX"
@@ -3405,7 +3423,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 166185,
       "name": "Shoulda",
       "url": "https://open.spotify.com/track/3eEPoXCE8euzeFobYQTK9M"
@@ -3905,7 +3923,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 175270,
       "name": "Tell You Everything",
       "url": "https://open.spotify.com/track/1BePRPZdVPcK5d6ROpMBls"
@@ -4085,7 +4103,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 200440,
       "name": "The Woman I've Become",
       "url": "https://open.spotify.com/track/3Sov5oiUCNxw1SvljM31V9"
@@ -4121,7 +4139,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 236106,
       "name": "There Is No Arizona",
       "url": "https://open.spotify.com/track/7Hgcw6qYU1ukRdRGvEkJk3"
@@ -4337,7 +4355,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 217155,
       "name": "Villain in Me",
       "url": "https://open.spotify.com/track/7k4HVWYcyrsdv3IiIqozat"
@@ -4741,7 +4759,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 206826,
       "name": "Worth It",
       "url": "https://open.spotify.com/track/5APWbHdwUCA08ZLl0meDCh"

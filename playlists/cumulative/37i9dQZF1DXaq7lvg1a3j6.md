@@ -4,7 +4,7 @@
 
 > Let these songs soundtrack your busy wedding season.
 
-46 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/0kmAjHvJvbuKLD5ubLOeNo)
+46 songs - 3 hr 11 min - [published](https://open.spotify.com/playlist/0kmAjHvJvbuKLD5ubLOeNo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Ghani Bawri \(From "Tanu Weds Manu Returns"\)](https://open.spotify.com/track/1XVKNlNE2quleT1ZY5yFmN) | [Jyoti Noora](https://open.spotify.com/artist/7ho6U1pgk5AfbhhoS3qggE) | [Tanu Weds Manu Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/66GxOwfWVlbVRPwoi5dbhd) | 4:14 | 2021-10-29 |  |
 | [Ghodi Chadhke](https://open.spotify.com/track/60FSUBoIQqw5dqrivd6eFc) | [Raajeev V Bhalla](https://open.spotify.com/artist/3M3uBX6WMgpjbX3Z8mPMax), [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT), [Keka Ghoshal](https://open.spotify.com/artist/0wSJ0KREerVo5QVQtZyBvv), [Ravi Mishra](https://open.spotify.com/artist/1YDHJp6tlLwbVaqL0qZ6Qx) | [14 Phere \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0k4AA6m1QLBM4EvZxumSRS) | 3:19 | 2021-10-29 | 2022-01-13 |
 | [Illegal Weapon 2.0 \(From "Street Dancer 3D"\)](https://open.spotify.com/track/5fXslGZPI5Cco6PKHzlSL3) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Illegal Weapon 2.0 \(From "Street Dancer 3D"\)](https://open.spotify.com/album/7LwW8qe6sND4ySnKmdZacl) | 3:08 | 2021-10-29 |  |
-| [Iski Uski](https://open.spotify.com/track/0ON0JdGgRTVcCInt8j6eod) | [Akriti Kakkar](https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW), [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8) | [2 States](https://open.spotify.com/album/4PmYasI57t8uJJAOt0zKud) | 4:14 | 2021-10-29 |  |
+| [Iski Uski](https://open.spotify.com/track/0ON0JdGgRTVcCInt8j6eod) | [Akriti Kakkar](https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW), [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8) | [2 States](https://open.spotify.com/album/4PmYasI57t8uJJAOt0zKud) | 0:29 | 2021-10-29 |  |
 | [Jugjugg Jeeyo](https://open.spotify.com/track/3RQcCpagpbqjwOvZnxhsuH) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Jugjugg Jeeyo](https://open.spotify.com/album/49wsmGDdtSoQiLt2lsVbaQ) | 2:22 | 2022-06-24 |  |
 | [Kala Chashma](https://open.spotify.com/track/5CSEaABQkS1hoLza0IpK2r) | [Amar Arshi](https://open.spotify.com/artist/3f7Qfkua3IcRpUFzUaUnrX), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Indeep Bakshi](https://open.spotify.com/artist/0Te1QGD9jtzrxPa8nie9OQ), [Prem Hardeep](https://open.spotify.com/artist/1ge0FlKDdkPEWarNZgxQrx) | [Baar Baar Dekho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ASFrellizlx98SmsItOEm) | 3:07 | 2021-10-29 |  |
 | [Kaun Nachdi](https://open.spotify.com/track/7r8QeC6Uy3AbIXqH7W9y0K) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Sonu Ke Titu Ki Sweety](https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX) | 3:03 | 2021-10-29 |  |

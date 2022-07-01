@@ -4,7 +4,7 @@
 
 > Relaxing jazz on a warm summer day.
 
-146 songs - 9 hr 38 min - [published](https://open.spotify.com/playlist/66JAt3sdiNPtvzJv9rg7XC)
+146 songs - 9 hr 26 min - [published](https://open.spotify.com/playlist/66JAt3sdiNPtvzJv9rg7XC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Don't Open Your Eyes](https://open.spotify.com/track/7df0Uedn5GeMUWObiYxqFe) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu), [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV), [Johan Tengholm](https://open.spotify.com/artist/43zscbPDZ5M7eJTRs0Uuz0), [Henrik Jäderberg](https://open.spotify.com/artist/1wwJ6VEXQBeKg50pBqn6sJ) | [Don't Open Your Eyes](https://open.spotify.com/album/1ejv2hUVUyou505zdv37pB) | 2:55 | 2022-02-16 |  |
 | [Down the Pawn Shop](https://open.spotify.com/track/1WmMwuEQqOM3VU7aQghrFI) | [Louie Hobbs Trio](https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U) | [Down the Pawn Shop](https://open.spotify.com/album/5pG51SPfHyYTAalrIYkzSb) | 3:26 | 2022-06-14 |  |
 | [Dreamsville](https://open.spotify.com/track/4AnJZTcx01nxo47QyYbskV) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [Dreamsville](https://open.spotify.com/album/60rdAuFzDeyUJIJRneqY3A) | 4:21 | 2022-02-16 |  |
-| [East of the Sun and West of the Moon](https://open.spotify.com/track/5IDJblB7FvYCYtfQ6nRqIs) | [Ian Leigh Quartet](https://open.spotify.com/artist/6l2sXu9fomefiQlaiFfUP8) | [I'm Glad There Is You](https://open.spotify.com/album/5U3jWmjryYKBWGU2vSovM2) | 6:02 | 2022-02-16 |  |
+| [East of the Sun and West of the Moon](https://open.spotify.com/track/5IDJblB7FvYCYtfQ6nRqIs) | [Ian Leigh Quartet](https://open.spotify.com/artist/6l2sXu9fomefiQlaiFfUP8) | [I'm Glad There Is You](https://open.spotify.com/album/5U3jWmjryYKBWGU2vSovM2) | 0:29 | 2022-02-16 |  |
 | [Easy](https://open.spotify.com/track/6IP328KWUVyrLfKLtx6kA0) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [Easy](https://open.spotify.com/album/6GbLOzfl3k3hHOhOsm42m9) | 2:19 | 2022-02-16 |  |
 | [Easy Living](https://open.spotify.com/track/03HZaJepBONLxbgWTsV7AK) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [Easy Living](https://open.spotify.com/album/4uh99qF1AoXvdsbU8IeMW7) | 3:23 | 2022-05-10 |  |
 | [Elsa](https://open.spotify.com/track/2SrSFdeg5MHpsChGZ6mRmy) | [Fast Train Jazz Band](https://open.spotify.com/artist/5oKq1aCcKeI3ZAlstJxDsc) | [Elsa](https://open.spotify.com/album/2UPSIVtkDVSdZgGaJaG1MG) | 4:08 | 2022-02-16 |  |
@@ -105,7 +105,7 @@
 | [Schnitz n´Schniggles](https://open.spotify.com/track/3BoKHF4H6OG9lSWKa1Scq3) | [Jack Rosenbaum](https://open.spotify.com/artist/4FJ62CBNJrKWADUOl6pqnb) | [Schnitz n´Schniggles](https://open.spotify.com/album/1ObA1O7H3uDG6kV6CROeVw) | 3:39 | 2022-02-16 |  |
 | [Shady Side](https://open.spotify.com/track/5j85Y5lPqHqvww4Q2H3pY1) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Gerry Mulligan Meets Johnny Hodges](https://open.spotify.com/album/3qtmg537HyA6zWtAnwM98z) | 7:04 | 2022-02-16 |  |
 | [She Said Yes](https://open.spotify.com/track/5xsMDruQqVmgxPhhZ7t1vR) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [She Said Yes](https://open.spotify.com/album/74eLy4GmusuE3foGgVKDc0) | 4:03 | 2022-02-16 | 2022-04-27 |
-| [Shiny Stockings](https://open.spotify.com/track/069buST4Z84x0O5TOtW48H) | [Rachel Silver](https://open.spotify.com/artist/6IwOxOuT7cPH3iF4jfjf2a) | [Oh, What a Beautiful Mornin'](https://open.spotify.com/album/02VmGGZVwEVQIv1gUJsYZx) | 4:17 | 2022-02-16 |  |
+| [Shiny Stockings](https://open.spotify.com/track/069buST4Z84x0O5TOtW48H) | [Rachel Silver](https://open.spotify.com/artist/6IwOxOuT7cPH3iF4jfjf2a) | [Oh, What a Beautiful Mornin'](https://open.spotify.com/album/02VmGGZVwEVQIv1gUJsYZx) | 0:29 | 2022-02-16 |  |
 | [Sidewalking](https://open.spotify.com/track/2DotXnuPKoxT5K2yjKvhn8) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Sidewalking](https://open.spotify.com/album/5EAwH1SGs0hvPxn27vzM1n) | 3:13 | 2022-02-16 |  |
 | [Skylark](https://open.spotify.com/track/3U1ar1FODMXKLBlF2yxSMl) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Interplay](https://open.spotify.com/album/7cfK06e2mxiwwqwh4PQaOJ) | 4:56 | 2022-02-16 |  |
 | [Socks And Sandals](https://open.spotify.com/track/33HRgQotoW6raDZVZs3Rxk) | [Ted Ross Quartet](https://open.spotify.com/artist/7A9b9YHKBRXfL43ICJhYUr) | [Socks And Sandals](https://open.spotify.com/album/1dWIVAbxe91cDNhrMJ5fFV) | 3:39 | 2022-02-16 |  |
@@ -125,7 +125,7 @@
 | [Tenderly](https://open.spotify.com/track/4GexggWZGdd0ER5wBAtuwF) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [King Of The Tenors](https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v) | 3:01 | 2022-02-16 |  |
 | [Tenor Madness](https://open.spotify.com/track/5l5afwiBQjRVT5ukYvF1br) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Tenor Madness](https://open.spotify.com/album/5FxWL2Ad3i7pqcouKIeXJM) | 3:15 | 2022-02-16 |  |
 | [That Old Feeling](https://open.spotify.com/track/2j8nvcUdCDr3VWL2uMlyyn) | [Pablo Ilanda Trio](https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON) | [That Old Feeling](https://open.spotify.com/album/0DSCDie1N9Xej8MtsijDBf) | 1:50 | 2022-04-26 |  |
-| [The Best Things in Life Are Free](https://open.spotify.com/track/61cdd5FDCdse6DYaN8ZMXe) | [Leslie Rossiter Band](https://open.spotify.com/artist/2VSepNTGbjPy4jy4y5qfTA) | [Mack the Knife](https://open.spotify.com/album/4sQs9YGrgwux8mzefYVdVE) | 3:13 | 2022-02-16 |  |
+| [The Best Things in Life Are Free](https://open.spotify.com/track/61cdd5FDCdse6DYaN8ZMXe) | [Leslie Rossiter Band](https://open.spotify.com/artist/2VSepNTGbjPy4jy4y5qfTA) | [Mack the Knife](https://open.spotify.com/album/4sQs9YGrgwux8mzefYVdVE) | 0:29 | 2022-02-16 |  |
 | [The Call](https://open.spotify.com/track/6dr3C76wvbQJty7WvNG7tG) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [The Call](https://open.spotify.com/album/43moPGlUvUG7X0uAVb7yFd) | 4:03 | 2022-02-16 |  |
 | [The Folks Who Live On The Hill](https://open.spotify.com/track/339eppUVQJF6JsKEiwYNWL) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Searching](https://open.spotify.com/album/4mbAIA87RJPH09XAEdlmtV) | 3:45 | 2022-06-14 |  |
 | [The Good Life \- Remastered 2000/Rudy Van Gelder Edition](https://open.spotify.com/track/4ZNx7AMUbhIo7DFkhWlrdy) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [The Turnaround](https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr) | 5:08 | 2022-02-16 |  |

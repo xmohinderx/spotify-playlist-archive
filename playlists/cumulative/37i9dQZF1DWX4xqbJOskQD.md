@@ -4,14 +4,14 @@
 
 > The Mills Brothers, The Andrews Sisters and other classic vocal groups.
 
-45 songs - 2 hr 5 min - [published](https://open.spotify.com/playlist/4VNtJxCUbu1xvFUfPr4tsA)
+45 songs - 2 hr 1 min - [published](https://open.spotify.com/playlist/4VNtJxCUbu1xvFUfPr4tsA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Up A\) Lazy River](https://open.spotify.com/track/5g2h9vP1ZU1eGVhVZa0kms) | [The Mills Brothers](https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [The Board Of Directors](https://open.spotify.com/album/2F2pS1PP3ZPhhxhsL6aRfU) | 3:28 | 2020-08-17 |  |
 | [A G.I\. Wish](https://open.spotify.com/track/2TVIvoDLrq3adZBeDyFbl9) | [Four Vagabonds](https://open.spotify.com/artist/0uKcBFmwZYbIFXlWmQelqu), [Ray Conrad Grant, Jr.](https://open.spotify.com/artist/2BIqrWYWykhVzz3BKsXCpF), [Robert Arthur O'Neal](https://open.spotify.com/artist/0ZuEQxfuQejHYRtkOx5W79), [John Albert Jordan](https://open.spotify.com/artist/4ZuHlKZejvovr4ugaPYxY1), [Norval Donahue Taborn](https://open.spotify.com/artist/5dj06Qp6X30mdhsOmaJryV) | [Remember Pearl Harbor: Classic Songs Of World War II](https://open.spotify.com/album/4esQCA7GCIC2NBUq8ndw87) | 2:39 | 2020-08-17 |  |
 | [Ac\-Cent\-Tchu\-Ate The Positive \- Single Version](https://open.spotify.com/track/7kjhZR3dESBnn0GoHf3tVI) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM), [Vic Schoen & His Orchestra](https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42) | [Bing\-His Legendary Years 1931\-1957](https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw) | 2:42 | 2020-08-17 |  |
-| [Ain't Gonna Worry 'Bout a Soul](https://open.spotify.com/track/2Dm4H3EH6slgSUiOTJE3gg) | [The Delta Rhythm Boys](https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF) | [Jump & Jive 'Til One O'Clock \- Anthology, Vol\. 2](https://open.spotify.com/album/3csDnkhImGwBZBgDuYkZr9) | 2:37 | 2020-08-17 |  |
+| [Ain't Gonna Worry 'Bout a Soul](https://open.spotify.com/track/2Dm4H3EH6slgSUiOTJE3gg) | [The Delta Rhythm Boys](https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF) | [Jump & Jive 'Til One O'Clock \- Anthology, Vol\. 2](https://open.spotify.com/album/3csDnkhImGwBZBgDuYkZr9) | 0:29 | 2020-08-17 |  |
 | [Boogie Woogie Bugle Boy](https://open.spotify.com/track/3axPhcbhVDOA9MnhkUrFcE) | [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [Rarities](https://open.spotify.com/album/6KS6VWpM7TyBTqvTRUH0eX) | 2:41 | 2020-08-17 |  |
 | [Dream](https://open.spotify.com/track/0AtVA7axXKVFnjQsN4xBIy) | [The Pied Pipers](https://open.spotify.com/artist/5o8E07TcYqIefZpDejymAd) | [What is This Thing Called Love?](https://open.spotify.com/album/0tn2qcrEjAcoBvWhZVZvjN) | 2:48 | 2020-08-17 |  |
 | [Early Autumn](https://open.spotify.com/track/5st46QqB3wCTdFPUso9lll) | [The King Sisters](https://open.spotify.com/artist/6Gsao94MioGNcDLFGFAlw7) | [Imagination](https://open.spotify.com/album/0N0IsbV6VEvnx6e6gmD9Qb) | 2:51 | 2020-08-17 |  |
@@ -51,7 +51,7 @@
 | [Tuxedo Junction](https://open.spotify.com/track/2gE1UVwRrEW7Q09ht0SpHJ) | [The Manhattan Transfer](https://open.spotify.com/artist/2dogRElUKV20C2khRHqjRc) | [The Manhattan Transfer](https://open.spotify.com/album/27PX6QHcZXHdepfrNqbPh8) | 3:05 | 2020-08-17 |  |
 | [Twilight Time \- Single Version](https://open.spotify.com/track/3MpGQae6zAFd7Z1FdLV9fV) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Flying Platters Around The World](https://open.spotify.com/album/0UvGTptcqQEJ2u5yACvlUH) | 2:48 | 2020-08-17 |  |
 | [Undecided](https://open.spotify.com/track/1bDzspMSL17XQokxAxAe22) | [The Ames Brothers](https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv) | [The Amazing Ames Brothers](https://open.spotify.com/album/4Mb59LfU7RrMOZTh6qx8IP) | 2:59 | 2022-03-28 |  |
-| [Underneath The Linden Tree](https://open.spotify.com/track/2rXUt201xsDplJW2BtBFXU) | [The Fontane Sisters](https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15) | [The Singles Collection 1946\-60](https://open.spotify.com/album/75jzCtbYZGSEJgL7i9MhNN) | 2:41 | 2020-08-17 |  |
+| [Underneath The Linden Tree](https://open.spotify.com/track/2rXUt201xsDplJW2BtBFXU) | [The Fontane Sisters](https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15) | [The Singles Collection 1946\-60](https://open.spotify.com/album/75jzCtbYZGSEJgL7i9MhNN) | 0:29 | 2020-08-17 |  |
 | [Way Back Home](https://open.spotify.com/track/2Mqggm27ZkH3EyscmCDnIg) | [Bob Crosby & The Bob Cats](https://open.spotify.com/artist/1EE8fj8itdenD88iAylcYh) | [Bob Crosby and the Bobcats: The Complete Standard Transcriptions](https://open.spotify.com/album/5Y8YZyknkRwJL5nJMjdU8o) | 2:54 | 2020-08-17 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

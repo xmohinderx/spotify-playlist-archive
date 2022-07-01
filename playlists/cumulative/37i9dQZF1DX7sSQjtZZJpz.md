@@ -4,7 +4,7 @@
 
 > Songs to help your kids learn in English and Spanish!
 
-65 songs - 2 hr 20 min - [published](https://open.spotify.com/playlist/74TRlE8vKqdsWIYbhhbM7z)
+65 songs - 2 hr 13 min - [published](https://open.spotify.com/playlist/74TRlE8vKqdsWIYbhhbM7z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [ABC Song \(Now I Know MY ABCs\)](https://open.spotify.com/track/3YYHpNrXTFwChTbaOwv7ni) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Learn Spanish \- Aprende Inglés](https://open.spotify.com/album/6Jinhx24ZxUTesnZTFc1NP) | 1:36 | 2020-06-26 |  |
 | [ABC\-DEF\-GHI](https://open.spotify.com/track/7f0kigcXF0041AyUGbMdkk) | [Big Bird](https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [All\-Time Favorites 1](https://open.spotify.com/album/4NrLPZaAgx6XWXlAnjdYFD) | 1:46 | 2020-04-22 |  |
 | [At the Zoo](https://open.spotify.com/track/7G7x8nNHG5WKbNh0FQ2WOB) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/7b6l4ldOcy0FtFkI3pAgLF) | 1:48 | 2020-04-22 |  |
-| [Bichos](https://open.spotify.com/track/3peRufMxZi9baS60hEK4BN) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:45 | 2020-04-22 |  |
+| [Bichos](https://open.spotify.com/track/3peRufMxZi9baS60hEK4BN) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 0:29 | 2020-04-22 |  |
 | [Bingo \(El Abecedario y los Números\)](https://open.spotify.com/track/7CDbZ2MufocDSGSG30KuLe) | [Little Baby Bum Rima Niños Amigos](https://open.spotify.com/artist/4jxICVokHTn2J2VwTCvPxm) | [Learn Spanish \- Aprende Inglés](https://open.spotify.com/album/6Jinhx24ZxUTesnZTFc1NP) | 2:04 | 2020-06-26 |  |
 | [Bingo Song \- ABCs and 123s](https://open.spotify.com/track/5wgNbLATNUHqJgXMGUW9sD) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Learn Spanish \- Aprende Inglés](https://open.spotify.com/album/6Jinhx24ZxUTesnZTFc1NP) | 2:03 | 2020-06-26 |  |
 | [Cabeza, hombros, rodillas y pies](https://open.spotify.com/track/16Yn5xeg3TZGvxIGnHG1kl) | [La Superstar De Las Canciones Infantiles](https://open.spotify.com/artist/3LTE8GZvyNxWXRrtXc228U) | [Canciones Infantiles y Música Infantil](https://open.spotify.com/album/2tWX7GIwYl13czIw4CQEb1) | 1:06 | 2020-04-22 |  |
@@ -69,9 +69,9 @@
 | [Thirty Days Has September](https://open.spotify.com/track/5KscD9ewLs2AVOl4TBdHHX) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [150 Preschool Songs](https://open.spotify.com/album/6vh3S6NVQ0pNEt70fj7oAf) | 1:19 | 2020-04-22 |  |
 | [Twelve Months in a Year](https://open.spotify.com/track/2PuQJ7Hn5DHwAXYMKIfhud) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes, Vol\. 8: Children's Sing Along Songs](https://open.spotify.com/album/1BurLHHyJ5fhOfjryFHiOs) | 2:28 | 2020-04-22 |  |
 | [Un,Dos,Tres,Las Tres Mellizas \(De "Las Tres Mellizas"\)](https://open.spotify.com/track/3Nzgv0Xt8Os10hoPMQ315c) | [Super Banda Infantil](https://open.spotify.com/artist/7mtajIQbgVMoKTabPTzXVU) | [Canciones Infantiles, Series de Televisión](https://open.spotify.com/album/204OMtaHJh2sLRny1vhaCt) | 1:29 | 2020-04-22 |  |
-| [Verano](https://open.spotify.com/track/3eVAzZ87xVvV3zFcIYwGnt) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:10 | 2020-04-22 |  |
+| [Verano](https://open.spotify.com/track/3eVAzZ87xVvV3zFcIYwGnt) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 0:29 | 2020-04-22 |  |
 | [We Are The Dinosaurs](https://open.spotify.com/track/21ryEt5nCkFjsHJHegnLOA) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Whaddaya Think Of That?](https://open.spotify.com/album/43laH3uvyD7glYUOQ6RnjB) | 2:17 | 2020-04-22 |  |
-| [What Colour Am I Wearing?](https://open.spotify.com/track/1r1WpyhzUksp4MeKBNnywt) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Learning Songs](https://open.spotify.com/album/3jMQX3qGGQO2AOoocpdoaG) | 3:07 | 2020-04-22 |  |
+| [What Colour Am I Wearing?](https://open.spotify.com/track/1r1WpyhzUksp4MeKBNnywt) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Learning Songs](https://open.spotify.com/album/3jMQX3qGGQO2AOoocpdoaG) | 0:29 | 2020-04-22 |  |
 | [Zeroes](https://open.spotify.com/track/04s49SL2BUMJfjwDthKV1S) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Here Come the 123s](https://open.spotify.com/album/0zw05iXjK9r60atJFvcVBh) | 1:06 | 2020-04-22 |  |
 
 \*This playlist was first scraped on 2022-04-19. Prior content cannot be recovered.

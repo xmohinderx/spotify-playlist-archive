@@ -297,7 +297,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 201973,
       "name": "Before I Knew It",
       "url": "https://open.spotify.com/track/3cqWSJzuxZCsglpaxWtosT"
@@ -519,6 +519,24 @@
       "duration_ms": 194000,
       "name": "COUNTRY BOYS",
       "url": "https://open.spotify.com/track/26uOkeku8fbG2arUOGQi6H"
+    },
+    {
+      "album": {
+        "name": "Country On",
+        "url": "https://open.spotify.com/album/3XgzAqjFk10Vyspx8c7OEm"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236455,
+      "name": "Country On",
+      "url": "https://open.spotify.com/track/1tRxwf8Q0AcshfHuaD86Yt"
     },
     {
       "album": {
@@ -1007,7 +1025,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 215570,
       "name": "God Took His Time On You",
       "url": "https://open.spotify.com/track/3QaA5jdFoAvcnxhfE50vCs"
@@ -1159,6 +1177,24 @@
       "duration_ms": 157133,
       "name": "Happy in This Bar",
       "url": "https://open.spotify.com/track/1Gp7GfpmFy7DTYAWZ5wERJ"
+    },
+    {
+      "album": {
+        "name": "Hard Place",
+        "url": "https://open.spotify.com/album/1ZYLkhPqpdCIFzLHjdfeQ3"
+      },
+      "artists": [
+        {
+          "name": "Courtney Keil",
+          "url": "https://open.spotify.com/artist/6jbFCUWWQtpzKKCgmfnFwe"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196746,
+      "name": "Hard Place",
+      "url": "https://open.spotify.com/track/3MxubYzTgvDuT9fUVzrVTj"
     },
     {
       "album": {
@@ -1426,6 +1462,24 @@
     },
     {
       "album": {
+        "name": "Light It Up",
+        "url": "https://open.spotify.com/album/4mu4JS9y4EMTe8DdTvh1BE"
+      },
+      "artists": [
+        {
+          "name": "Casey Barnes",
+          "url": "https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186040,
+      "name": "Kiss Me Like You Mean It",
+      "url": "https://open.spotify.com/track/2XBzrwJxSVLFt2sF45HT9W"
+    },
+    {
+      "album": {
         "name": "Remember Her Name",
         "url": "https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD"
       },
@@ -1477,6 +1531,24 @@
       "duration_ms": 206704,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/4KM1P14d6Svovepg4UEitL"
+    },
+    {
+      "album": {
+        "name": "Let It Go (Live)",
+        "url": "https://open.spotify.com/album/6P5FFO1n4wUSa6nFcwa1rB"
+      },
+      "artists": [
+        {
+          "name": "HUTCH",
+          "url": "https://open.spotify.com/artist/55qwxSOjW4bmtSEI8INDpQ"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "Let It Go - Live",
+      "url": "https://open.spotify.com/track/1nbLKD60IUsOKDipPWhdNe"
     },
     {
       "album": {
@@ -1904,7 +1976,7 @@
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 169440,
+      "duration_ms": 29048,
       "name": "Pick Me Up",
       "url": "https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb"
     },
@@ -2278,6 +2350,28 @@
     },
     {
       "album": {
+        "name": "Kids On Cassette",
+        "url": "https://open.spotify.com/album/5VoiqgwCQqpnMB55nIMGni"
+      },
+      "artists": [
+        {
+          "name": "The Wolfe Brothers",
+          "url": "https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma"
+        },
+        {
+          "name": "Amy Sheppard",
+          "url": "https://open.spotify.com/artist/3nF6cVGjzDA9S5rDyZLffl"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141587,
+      "name": "Something Good's Gonna Happen (feat. Amy Sheppard)",
+      "url": "https://open.spotify.com/track/6xvx0rx68HedQx8U8UZwpx"
+    },
+    {
+      "album": {
         "name": "Silver Linings",
         "url": "https://open.spotify.com/album/5EMEAda8t8zLXlZ0oSFUZg"
       },
@@ -2344,7 +2438,7 @@
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 167680,
+      "duration_ms": 29048,
       "name": "Soul",
       "url": "https://open.spotify.com/track/3vCUelLOtiuNF78p9LNWZF"
     },
@@ -2387,6 +2481,24 @@
       "duration_ms": 180123,
       "name": "Startin' Something",
       "url": "https://open.spotify.com/track/5ncsghcdHl3odHvkIl8y3P"
+    },
+    {
+      "album": {
+        "name": "Stay In Your Lane",
+        "url": "https://open.spotify.com/album/1MNF5gihhNsPwn0WjdE6Ro"
+      },
+      "artists": [
+        {
+          "name": "Hinterland",
+          "url": "https://open.spotify.com/artist/0rRxOKXLCsE9wuDl0TnrLY"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188979,
+      "name": "Stay In Your Lane",
+      "url": "https://open.spotify.com/track/5w6cDriC2fIXeEcmN5WQLv"
     },
     {
       "album": {
@@ -2741,6 +2853,24 @@
       "duration_ms": 188491,
       "name": "What Brought You Back",
       "url": "https://open.spotify.com/track/2PlynPDNTaI47Nrmnf57MJ"
+    },
+    {
+      "album": {
+        "name": "What My World Spins Around",
+        "url": "https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186790,
+      "name": "What My World Spins Around",
+      "url": "https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1"
     },
     {
       "album": {

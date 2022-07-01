@@ -4,7 +4,7 @@
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  The Fisk Jubilee Singers
 
-160 songs - 13 hr 37 min - [published](https://open.spotify.com/playlist/6tbQcvssGqLrTKMvWwo62Y)
+160 songs - 13 hr 30 min - [published](https://open.spotify.com/playlist/6tbQcvssGqLrTKMvWwo62Y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Now I Know](https://open.spotify.com/track/2nWsoPJTYr4GAvpC7dKjry) | [Ted & Sheri](https://open.spotify.com/artist/1SMjYoloIpz6BwCJKgqjEN), [The Walls Group](https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV) | [Now I Know](https://open.spotify.com/album/5hycuLt6iA5c1hwPUlOK8H) | 4:16 | 2022-02-18 | 2022-05-07 |
 | [Ogo](https://open.spotify.com/track/74cYpHbbUTJfDgu1yETDZf) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Ogo](https://open.spotify.com/album/0FR8yTV3mlUHExeORoCCWS) | 5:36 | 2022-03-18 |  |
 | [One](https://open.spotify.com/track/2sxNUEzRqlmXHHAa7YU84R) | [All Nations Music](https://open.spotify.com/artist/4nSvPl0CuFE4fE6H4zXRsU) | [Sanctuary](https://open.spotify.com/album/4TIaTZR0IRa5WLVQ8D7GOe) | 4:48 | 2022-02-18 |  |
-| [One Touch](https://open.spotify.com/track/2OQY9SKxc9t97hlnN5Kx4t) | [Jabari Johnson](https://open.spotify.com/artist/51GgoENlsYAeLjWWsbCBAY) | [One Touch](https://open.spotify.com/album/1sljAXtcwQbrng7PrXv418) | 7:16 | 2022-02-18 |  |
+| [One Touch](https://open.spotify.com/track/2OQY9SKxc9t97hlnN5Kx4t) | [Jabari Johnson](https://open.spotify.com/artist/51GgoENlsYAeLjWWsbCBAY) | [One Touch](https://open.spotify.com/album/1sljAXtcwQbrng7PrXv418) | 0:29 | 2022-02-18 |  |
 | [Out Here Trusting God](https://open.spotify.com/track/6UcLisdQQJlqxBxOpGRdlk) | [Anita Wilson](https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS), [Rubi Green](https://open.spotify.com/artist/0fiLMSycO9JIC3T7EQpGJ9), [Kincy](https://open.spotify.com/artist/1GXcNIFheqCVINLrF8Is53) | [Soul Sister](https://open.spotify.com/album/0NTIi6ERXzMw7T7XiZOTTU) | 3:36 | 2022-02-18 |  |
 | [Peace Be Still](https://open.spotify.com/track/0jfcAhP2hWHkj36ZdnTnW5) | [Kelontae Gavin](https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D) | [Peace Be Still](https://open.spotify.com/album/1zBeDm3o4LyQYnIHMb923x) | 5:47 | 2022-02-18 | 2022-06-18 |
 | [Positive](https://open.spotify.com/track/67LfMxyAh3vAwCR2yZPFhg) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [Positive](https://open.spotify.com/album/0fDXqBt38kAOHMwRpdfmQC) | 3:31 | 2022-03-18 |  |

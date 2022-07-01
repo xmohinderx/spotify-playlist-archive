@@ -4,7 +4,7 @@
 
 > Gather 'round and enjoy these far out songs about outer space.
 
-82 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/1nE5gVxGr46argQIdP2lgg)
+82 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/1nE5gVxGr46argQIdP2lgg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Interplanet Janet](https://open.spotify.com/track/1XEnnBPMXN8T8F4e3hxirH) | [The Little Singers](https://open.spotify.com/artist/54lKNxLWNrcvMNeEbVig4f) | [Interplanet Janet: Classic Children's Songs](https://open.spotify.com/album/5u8sR0sWOyzpRlPxQahT6o) | 3:01 | 2021-12-06 |  |
 | [Lapis Lazuli](https://open.spotify.com/track/7CEBC34EnZtnfYMFTkNAkk) | [Steven Universe](https://open.spotify.com/artist/4rF7c8zpCKzuSXohs2HIpA), [Zach Callison](https://open.spotify.com/artist/57YFNq46Xx86nl7ETkd1Ei) | [Steven Universe, Vol\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/3fNVnjSRQ3oW4PUIKvrThu) | 0:35 | 2021-12-06 |  |
 | [Let's Explore Space!](https://open.spotify.com/track/5kSNgcL9H7rlZE6PXApxIm) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I), [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music: Ready for Preschool Vol\. 6](https://open.spotify.com/album/4q63Npjvs1fkfxDz0AwpzZ) | 1:28 | 2021-12-06 |  |
-| [Let's Take a Rocketship to Space](https://open.spotify.com/track/35kkOnkZFTmXaDL2K19B99) | [Danny and the Jaytones](https://open.spotify.com/artist/5lyPgnomDawdy0mnwph5QN) | [Phineas And Ferb](https://open.spotify.com/album/29OHw0hs03uERDcTbY9ojU) | 1:05 | 2021-12-06 |  |
+| [Let's Take a Rocketship to Space](https://open.spotify.com/track/35kkOnkZFTmXaDL2K19B99) | [Danny and the Jaytones](https://open.spotify.com/artist/5lyPgnomDawdy0mnwph5QN) | [Phineas And Ferb](https://open.spotify.com/album/29OHw0hs03uERDcTbY9ojU) | 0:29 | 2021-12-06 |  |
 | [Like an Astronaut](https://open.spotify.com/track/4PrJZgxgs0aSq2uyZx7o4R) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Little Wild Universe](https://open.spotify.com/album/3zz0uMOHpkE3mDEeQb3Y5l) | 3:18 | 2021-12-06 |  |
 | [Los Astronautas](https://open.spotify.com/track/2he2sah5T3HY8RMOxTEpD3) | [Chespirito](https://open.spotify.com/artist/1XPjFfnJm6Zvv06kZZhN4R) | [Chespirito y Sus Amigos](https://open.spotify.com/album/4U9gghqx6DSuToyM3WDGwX) | 2:31 | 2021-12-06 |  |
 | [Mikey the Marsian](https://open.spotify.com/track/4EyzNFEd8U2fKUyEYOB45N) | [ABC Kids](https://open.spotify.com/artist/6l7J2uM3bM2BCh0tIPhWx8) | [A Rocket to the Moon](https://open.spotify.com/album/7usbIPqIwsVe91YvmJbwpK) | 1:28 | 2021-12-06 |  |
@@ -39,14 +39,14 @@
 | [Milky Way](https://open.spotify.com/track/1qtXU0XLeGiS7bPH1aJuaN) | [Jim Cosgrove](https://open.spotify.com/artist/0PXZmqJE07mJxt5QUQQc5u) | [Ooey Gooey](https://open.spotify.com/album/1iG5KJeGPKear67rok0qkN) | 2:12 | 2021-12-06 |  |
 | [Moon Song](https://open.spotify.com/track/7oMRN5SmuyBVo5yH6liMh2) | [Have Fun Teaching](https://open.spotify.com/artist/705Z0iFTodc8kuWuq6s5ah) | [Science Songs](https://open.spotify.com/album/1SuAdgI7e9osUMADAoIPtC) | 3:49 | 2021-12-06 |  |
 | [Mr\. Golden Sun](https://open.spotify.com/track/383D4yT1kW9tp5ibqVSMAH) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Baby Shark & More Kids Songs](https://open.spotify.com/album/2IDfqmrAmsyDA5DnGnQ0Ci) | 2:13 | 2021-12-06 |  |
-| [Mr\. Spaceman](https://open.spotify.com/track/4RwKHW0RildivYQPsHIXIK) | [Randy Kaplan](https://open.spotify.com/artist/03kKiot9h8in4294vr5FUm) | [Trippin' Round the Mitten](https://open.spotify.com/album/0eYISwHoDkDuZjugV63c1E) | 4:36 | 2021-12-06 |  |
+| [Mr\. Spaceman](https://open.spotify.com/track/4RwKHW0RildivYQPsHIXIK) | [Randy Kaplan](https://open.spotify.com/artist/03kKiot9h8in4294vr5FUm) | [Trippin' Round the Mitten](https://open.spotify.com/album/0eYISwHoDkDuZjugV63c1E) | 0:29 | 2021-12-06 |  |
 | [My Magic Helicopter](https://open.spotify.com/track/4l3Qh9iISLPVMLEiUJRttD) | [Danny Weinkauf](https://open.spotify.com/artist/00s1oYBnUz6FlP3sdD6x0u) | [Red Pants Band](https://open.spotify.com/album/3bN1nBljgaKLiJ1ka8H7ou) | 3:30 | 2021-12-06 |  |
 | [Our Solar System](https://open.spotify.com/track/79XvorCRGVZKHh0On5dUbu) | [ABC Kids](https://open.spotify.com/artist/6l7J2uM3bM2BCh0tIPhWx8) | [A Rocket to the Moon](https://open.spotify.com/album/7usbIPqIwsVe91YvmJbwpK) | 2:27 | 2021-12-06 |  |
 | [Outer Space](https://open.spotify.com/track/4YpJi52LlwX2OFv58ctXhi) | [Bobs & Lolo](https://open.spotify.com/artist/23hMSJlSk68cUMqC9tzJv7) | [Connecting the Dots](https://open.spotify.com/album/5doVmKYv3rlEcwkFDJBQyg) | 3:29 | 2021-12-06 |  |
 | [Outer Space](https://open.spotify.com/track/41YAVzlFxFpFxc9nNgY3MH) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn) | [Noggin Knows: Songs About the Earth](https://open.spotify.com/album/1bfW16UooYe1XTQHOprGnN) | 0:43 | 2021-12-06 |  |
 | [Planets Song](https://open.spotify.com/track/5WlUYeK2PvjdcdN8S9XOIl) | [Have Fun Teaching](https://open.spotify.com/artist/705Z0iFTodc8kuWuq6s5ah) | [Science Songs](https://open.spotify.com/album/1SuAdgI7e9osUMADAoIPtC) | 3:48 | 2021-12-06 |  |
 | [Poor Planet Pluto](https://open.spotify.com/track/2lpE0810oMsafosumY0icg) | [Eric Ode](https://open.spotify.com/artist/3Edg9oHspeilek2d8tcyOJ) | [Kidz S.T.E.M\. Songz](https://open.spotify.com/album/3nHt4nMlPuCzLFzrhq1Akg) | 3:30 | 2021-12-06 |  |
-| [Queen of Mars](https://open.spotify.com/track/7rEJqmw9yr2gKP2Q9CeLZx) | [Candace](https://open.spotify.com/artist/0zAjE3KMGAsizj1VNhYPxf) | [Phineas And Ferb](https://open.spotify.com/album/29OHw0hs03uERDcTbY9ojU) | 1:22 | 2021-12-06 |  |
+| [Queen of Mars](https://open.spotify.com/track/7rEJqmw9yr2gKP2Q9CeLZx) | [Candace](https://open.spotify.com/artist/0zAjE3KMGAsizj1VNhYPxf) | [Phineas And Ferb](https://open.spotify.com/album/29OHw0hs03uERDcTbY9ojU) | 0:29 | 2021-12-06 |  |
 | [Robot No\. 1](https://open.spotify.com/track/6JkzW5t28H0zqaQqI70MwB) | [Hi\-5](https://open.spotify.com/artist/360WNdhBjiIz8qnUOPyebr) | [Sing It Loud](https://open.spotify.com/album/0NPx38RhPfdgiInUPM0UBi) | 2:17 | 2021-12-06 |  |
 | [Robots from the 4th Dimension](https://open.spotify.com/track/0YcjkomHmz8FVkh8DUsDIT) | [The Dirty Sock Funtime Band](https://open.spotify.com/artist/5JWzmfpmSQJJIdsjXM9XIs) | [The Dirty Socks Come Clean](https://open.spotify.com/album/0Mhf2CiFqZTf6iZ05kk00B) | 3:18 | 2021-12-06 |  |
 | [Rock It Ship](https://open.spotify.com/track/3Nmz8V8ZSXRbCPyLoDdl56) | [Will's Jams](https://open.spotify.com/artist/0bLuwS5s9quZsZYfBt3xdm) | [Wordplay](https://open.spotify.com/album/54tyzspMcGt2KpidXNtBK9) | 3:01 | 2021-12-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0sDO43KAaJUWIYassTKWYf.md) - [plain]
 
 > Songs with some serious violin and cello action.
 
-[Spotify](https://open.spotify.com/user/spotify) - 433 likes - 39 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 433 likes - 39 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/0sDO43KAaJUWIYassTKWYf.md) - [plain]
 | 30 | [Letting Go](https://open.spotify.com/track/66lzYo4e9SyWcPx0jvISZE) | [Ben Sollee](https://open.spotify.com/artist/3Zzs4IqjV4b0yEFWqRv1si) | [Letting Go](https://open.spotify.com/album/4tlm0NZ3nsrjwVxLdqJIhz) | 3:28 |
 | 31 | [When You Come Back Down](https://open.spotify.com/track/1xVBmHH65VMaJP61SmOSUk) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Nickel Creek](https://open.spotify.com/album/5SGG7graQOU3OnK3cZZCNd) | 3:49 |
 | 32 | [Fake Palindromes](https://open.spotify.com/track/4c2LVTyU1XIfwNJHPVfvCM) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [The Mysterious Production of Eggs](https://open.spotify.com/album/4BIN8LmF8yBg1WMaFacAnN) | 2:52 |
-| 33 | [Friends Of Mine](https://open.spotify.com/track/1qrAsSNDhrpFJCnvzYWnF1) | [Adam Green](https://open.spotify.com/artist/3RyJG8xp58XSmsiuIySzUj) | [Friends Of Mine](https://open.spotify.com/album/2Jk2voBW8SEBGofebPuwNf) | 2:49 |
+| 33 | [Friends Of Mine](https://open.spotify.com/track/1qrAsSNDhrpFJCnvzYWnF1) | [Adam Green](https://open.spotify.com/artist/3RyJG8xp58XSmsiuIySzUj) | [Friends Of Mine](https://open.spotify.com/album/2Jk2voBW8SEBGofebPuwNf) | 0:29 |
 | 34 | [Baba O'Riley](https://open.spotify.com/track/66MTlHwUl24CzwRnx8nh7S) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Thirty Years Of Maximum R&B](https://open.spotify.com/album/3D5xXMfh66QokKk4uZaiOU) | 4:57 |
 | 35 | [Wicked Blood](https://open.spotify.com/track/5wXApIznQyR3k3O1NnrPVb) | [Sea Wolf](https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x) | [White Water, White Bloom](https://open.spotify.com/album/2n7LICrEhyodhkObgXOlw5) | 4:27 |
 | 36 | [Wax & Wane](https://open.spotify.com/track/35RPFHlFGdNLK0cDKA9V3V) | [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY) | [Wax & Wane](https://open.spotify.com/album/2GoRc0TJhQKgrFYnvI8yja) | 4:31 |

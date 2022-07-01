@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 
 > Replongez dans les plus grands tubes de la période yéyé\. Photo : Françoise Hardy
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,635 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,657 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 | 32 | [L'idole des jeunes](https://open.spotify.com/track/53ZKkbhsI7p27GN5TcVbdX) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [L'Idole des jeunes](https://open.spotify.com/album/2uUQ2HkoPEzh55x1Zx549F) | 2:28 |
 | 33 | [Il est cinq heures, Paris s'éveille](https://open.spotify.com/track/2CLeotsLhEUu0qkj56vbUj) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [Il est cinq heures](https://open.spotify.com/album/6uZABwQhmEllK5otzX9ONK) | 2:55 |
 | 34 | [La javanaise](https://open.spotify.com/track/6wV31VHHbmA5C7vl08HA7S) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [N°4](https://open.spotify.com/album/0ChLtqgbEO6vTIQVYQcxc3) | 2:31 |
-| 35 | [Butterfly](https://open.spotify.com/track/72rLswhYvQz9LRx3LogMIW) | [Danyel Gerard](https://open.spotify.com/artist/18wc7xvm8Ti7rqoLtf6jIU) | [Butterfly](https://open.spotify.com/album/72O3ydJomCcEjETdt0UtIq) | 3:25 |
+| 35 | [Butterfly](https://open.spotify.com/track/72rLswhYvQz9LRx3LogMIW) | [Danyel Gerard](https://open.spotify.com/artist/18wc7xvm8Ti7rqoLtf6jIU) | [Butterfly](https://open.spotify.com/album/72O3ydJomCcEjETdt0UtIq) | 0:29 |
 | 36 | [Le petit pain au chocolat](https://open.spotify.com/track/2VRLDyUSV5krEJOjFwsWas) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Les Champs\-Èlysées](https://open.spotify.com/album/70VszGJ7SagYgjotM7zvrX) | 3:23 |
 | 37 | [Les elucubrations d'Antoine](https://open.spotify.com/track/79JldwTZxGilhRuQlECrz2) | [Antoine](https://open.spotify.com/artist/6LGRPT9Uf7dteB6CAFPDV1) | [MusicWorld France](https://open.spotify.com/album/0WKozvA71AJGWSNW6y9Aa0) | 3:27 |
 | 38 | [Comment te dire adieu \- Remasterisé en 2016](https://open.spotify.com/track/6g5qyQrAcoBX4X7XjxBoTO) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Comment te dire adieu \(Remasterisé en 2016\)](https://open.spotify.com/album/0uRiGrSYj5IKsm6H8eodeB) | 2:28 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 | 46 | [Vous les copains](https://open.spotify.com/track/0iBuBfrOhxRgOWS0OS5GfP) | [Sheila](https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu) | [Écoute ce disque](https://open.spotify.com/album/7bpj2WDFw6pukdOPDEbFwp) | 2:13 |
 | 47 | [Demain tu te maries](https://open.spotify.com/track/3kTJxfzoOtGJEWI4PyVTBh) | [Patricia Carli](https://open.spotify.com/artist/4PHyWpnVszadob2b7JchO3) | [Tendres Annees](https://open.spotify.com/album/1cujiC73efahJ1w1RQ7QuG) | 2:55 |
 | 48 | [Il a le Truc](https://open.spotify.com/track/70fuO7PxNJXxtApu6Vki8e) | [Les Gam's](https://open.spotify.com/artist/5yj1bCBGvwhFRgYuKZgHqa) | [Les Gam's](https://open.spotify.com/album/6ktDHC59EX6rpC3RFjFCIW) | 2:28 |
-| 49 | [La nuit n'en finit plus](https://open.spotify.com/track/7axtIlOwGp7VqvfOQf6Mhb) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [C'est Ma Chanson](https://open.spotify.com/album/2IaUpJITUIyHRebMM2ANy1) | 2:55 |
+| 49 | [La nuit n'en finit plus](https://open.spotify.com/track/7axtIlOwGp7VqvfOQf6Mhb) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [C'est Ma Chanson](https://open.spotify.com/album/2IaUpJITUIyHRebMM2ANy1) | 0:29 |
 | 50 | [Un verre de whisky](https://open.spotify.com/track/5vZyhXFTYPEjKJ8gilY5Pt) | [Monty](https://open.spotify.com/artist/0G1ZWqdqoswVQhfZZEgl3I) | [Monty Tendres Années 60](https://open.spotify.com/album/4r1cDqQztqmJ5lpxKiTsrP) | 2:13 |
 
 Snapshot ID: `MTY1NjQwOTU0MywwMDAwMDAxZjAwMDAwMTgxYTliM2Q0NzYwMDAwMDE4MWE5YWU2NDYx`

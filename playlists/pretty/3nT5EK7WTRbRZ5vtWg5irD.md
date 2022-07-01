@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3nT5EK7WTRbRZ5vtWg5irD.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 334 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 334 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/3nT5EK7WTRbRZ5vtWg5irD.md) - [plain]
 | 46 | [There's A Kind Of Hush \(Re\-Recorded\)](https://open.spotify.com/track/5VsKPXhZ1eXWSk8ndAxc54) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [60s Classics](https://open.spotify.com/album/3w6MFLPPc56ilMeY4zwoim) | 2:35 |
 | 47 | [Mercy, Mercy, Mercy](https://open.spotify.com/track/6un3zjWCZNU3SgNBrIviXX) | [The Buckinghams](https://open.spotify.com/artist/4zmxet3ZPdSmL3Xyv1Wegb) | [Mercy, Mercy, Mercy \(A Collection\)](https://open.spotify.com/album/0pjXrAIB2gf5rvJodKUJD6) | 2:47 |
 | 48 | [Mercy, Mercy, Mercy](https://open.spotify.com/track/6un3zjWCZNU3SgNBrIviXX) | [The Buckinghams](https://open.spotify.com/artist/4zmxet3ZPdSmL3Xyv1Wegb) | [Mercy, Mercy, Mercy \(A Collection\)](https://open.spotify.com/album/0pjXrAIB2gf5rvJodKUJD6) | 2:47 |
-| 49 | [This is My Song](https://open.spotify.com/track/19BelOiAV9jQaiO4rkLsdf) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [The Best Of Petula Clark](https://open.spotify.com/album/6u0ZmjEVYYVKnii51JszaS) | 3:27 |
+| 49 | [This is My Song](https://open.spotify.com/track/19BelOiAV9jQaiO4rkLsdf) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [The Best Of Petula Clark](https://open.spotify.com/album/6u0ZmjEVYYVKnii51JszaS) | 0:29 |
 | 50 | [\(Your Love Keeps Lifting Me\) Higher and Higher](https://open.spotify.com/track/2P42mn8y5OCL8iBD8n3s8e) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Six Pack \- Jackie Wilson \- EP](https://open.spotify.com/album/6XPjcjaFP6M0NK32y2hcS6) | 2:56 |
 
 Snapshot ID: `OSwzMjkxODkzMTUxMzM5MjE5MjA4OGRmNDQ5NDhkZTJiYjg3ZDliOGQz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/24HEIuw8etbkitpDCxZ1dQ.md) - [plain]
 
 > A playlist with songs from the best reviewed albums in Sweden 2012.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,587 likes - 61 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,587 likes - 61 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/24HEIuw8etbkitpDCxZ1dQ.md) - [plain]
 | 15 | [En sång som ingen radio spelar](https://open.spotify.com/track/5QhIsCQUHbkvROXsRycDUk) | [Peter LeMarc](https://open.spotify.com/artist/4VKbol7eCoEJUemlKvE3Ve) | [Svag doft av skymning](https://open.spotify.com/album/5ZeGDKflWbOZvgPsD3S4GO) | 4:00 |
 | 16 | [Home Again](https://open.spotify.com/track/5yGVHzJ2Se8pDzR7FIYUlU) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again \(Deluxe Version\)](https://open.spotify.com/album/6b7DeWxueaZY0NNReD6TrK) | 3:29 |
 | 17 | [Traveling Alone](https://open.spotify.com/track/3e3g5fhOUw0TxHZ46Qn9uF) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Traveling Alone](https://open.spotify.com/album/7qd2PanrJJPmuCdeJCPkwl) | 4:44 |
-| 18 | [Beväpna dig med vingar](https://open.spotify.com/track/6HGm0lE0Oh7pdOVBFKdFLY) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Beväpna dig med vingar](https://open.spotify.com/album/2xMq0DLaCb66hJ2pt5Y6m8) | 5:16 |
+| 18 | [Beväpna dig med vingar](https://open.spotify.com/track/6HGm0lE0Oh7pdOVBFKdFLY) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Beväpna dig med vingar](https://open.spotify.com/album/2xMq0DLaCb66hJ2pt5Y6m8) | 0:29 |
 | 19 | [Neither Here Nor There](https://open.spotify.com/track/7bp3SKN8FuSYoJASwiFYDP) | [Lost In The Trees](https://open.spotify.com/artist/3634pboiWrEMkmIrpuqf1I) | [A Church That Fits Our Needs](https://open.spotify.com/album/4iD010W1Apem6tpZkiaWG2) | 5:33 |
 | 20 | [Gone Tomorrow](https://open.spotify.com/track/4yDQldcIMECrUNEa2SkwQK) | [Lambchop](https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78) | [Mr\. M](https://open.spotify.com/album/3WRdT0bQHivawqJKWcM35P) | 6:57 |
 | 21 | [Aimless Arrow](https://open.spotify.com/track/3iaEvaViClal6jo4GMOP2P) | [Converge](https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1) | [All We Love We Leave Behind \[Deluxe Edition\]](https://open.spotify.com/album/2P8qH1KVE5QTmsLnka9jgp) | 2:23 |

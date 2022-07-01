@@ -4,7 +4,7 @@
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: El Bebeto
 
-232 songs - 12 hr 40 min - [published](https://open.spotify.com/playlist/4lIbpCJ2pbV6798FY5z8fP)
+232 songs - 12 hr 33 min - [published](https://open.spotify.com/playlist/4lIbpCJ2pbV6798FY5z8fP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,8 +12,8 @@
 | [7 Dias](https://open.spotify.com/track/5Rzy5MAkLQGc5ZioP08Air) | [Jorge Córdova](https://open.spotify.com/artist/1fERwviqAmjPD7fIX7QXoS) | [7 Dias](https://open.spotify.com/album/3mXbUATkSnWZer76woXqxt) | 2:29 | 2022-05-13 | 2022-06-01 |
 | [Abriré La Puerta](https://open.spotify.com/track/0DjnlLskmEjm5mbgo24WwD) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Abriré La Puerta](https://open.spotify.com/album/22FrAgFSCs4c7JCCYczB4n) | 3:36 | 2022-05-13 | 2022-06-01 |
 | [Acaríciame](https://open.spotify.com/track/4drGRFC2Y197G9ZUty4wgW) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mudanzas](https://open.spotify.com/album/5rvG8IAlVaJRtUHLzaGtyv) | 4:27 | 2022-05-13 | 2022-06-01 |
-| [Aguardiente](https://open.spotify.com/track/16DThpmVTU5UfqglnMcYye) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP 1](https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR) | 2:22 | 2022-06-01 |  |
-| [Aguardiente](https://open.spotify.com/track/7lFpX8kcAFe1Jv9MmKIdMV) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Aguardiente](https://open.spotify.com/album/6OSCKBZsN0mw3jZdLKpsga) | 2:22 | 2022-05-13 | 2022-06-30 |
+| [Aguardiente](https://open.spotify.com/track/16DThpmVTU5UfqglnMcYye) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP 1](https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR) | 2:22 | 2022-06-01 | 2022-07-01 |
+| [Aguardiente](https://open.spotify.com/track/7lFpX8kcAFe1Jv9MmKIdMV) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Aguardiente](https://open.spotify.com/album/6OSCKBZsN0mw3jZdLKpsga) | 2:22 | 2022-05-13 |  |
 | [Ahí Donde Me Ven](https://open.spotify.com/track/7AU5lOckSQL0jOFNiv1uUy) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 4:04 | 2022-05-13 |  |
 | [Ahí Donde Me Ven](https://open.spotify.com/track/4kdmt0MDdze6TZvyU0Fmqg) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Ahí Donde Me Ven](https://open.spotify.com/album/6M9GNcF5jLv8CNmDlFrGid) | 4:04 | 2022-05-13 | 2022-06-01 |
 | [Algo Que Contar](https://open.spotify.com/track/4aQ2F1tvhcKYoefTiQAha0) | [José Esparza](https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS) | [Algo Que Contar](https://open.spotify.com/album/5Pv9gYFl5grUjFv53YppDH) | 2:34 | 2022-06-01 |  |
@@ -36,7 +36,7 @@
 | [Besos Con Alcohol](https://open.spotify.com/track/6RTdel98mY8RDog5tTw7yO) | [Jorge Almir](https://open.spotify.com/artist/1GKXviU5O6Yj7o8qobC869) | [Besos Con Alcohol](https://open.spotify.com/album/3dc8Pt2sjxEuNgLlWLEEnb) | 2:59 | 2022-05-13 | 2022-06-01 |
 | [Bonita](https://open.spotify.com/track/2pXBlxJkTD1Ma039jIJpSZ) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Hecho a Mano](https://open.spotify.com/album/4XQWbicaoDhiiqXEaxBciJ) | 3:27 | 2022-06-01 |  |
 | [Caballero](https://open.spotify.com/track/6jrK6Y8d9tvjAjurI4W99u) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 3:49 | 2022-05-13 | 2022-06-01 |
-| [Camino de Guanajuato](https://open.spotify.com/track/3EmuCJLsfucbTDGHGLKAob) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [12 Exitos De Oro](https://open.spotify.com/album/3Vw9kRLM5ahVvR1jj34INt) | 3:13 | 2022-05-13 |  |
+| [Camino de Guanajuato](https://open.spotify.com/track/3EmuCJLsfucbTDGHGLKAob) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [12 Exitos De Oro](https://open.spotify.com/album/3Vw9kRLM5ahVvR1jj34INt) | 0:29 | 2022-05-13 |  |
 | [Cartas Marcadas](https://open.spotify.com/track/71uuSDIUcy2AWBM9H7uWwq) | [Santiago Arroyo](https://open.spotify.com/artist/6uvBoFUSlKquPBsj8qrSUq) | [Cartas Marcadas](https://open.spotify.com/album/42KB9YEhXM4jHbtB3zf0B9) | 3:09 | 2022-06-01 |  |
 | [Casi Algo \- Versión Mariachi](https://open.spotify.com/track/5zwhq3lsGiks3Uffseze9o) | [Uriel Barrera](https://open.spotify.com/artist/3pfVmZKUiPAsoIVAa1I8lH) | [Casi Algo \(Versión Mariachi\)](https://open.spotify.com/album/6z6XxuId7yju4sXvtkez0d) | 2:12 | 2022-05-13 |  |
 | [Cien Años](https://open.spotify.com/track/5CyehZ1DVKSrvwpntww0Md) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Cien Años](https://open.spotify.com/album/1qjnoUsmscffVjof5Q8O9A) | 3:42 | 2022-05-13 | 2022-06-01 |
@@ -151,7 +151,7 @@
 | [Pero Me Acuerdo de Ti](https://open.spotify.com/track/79yFonF4USs9eIlLEGowaD) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Pero Me Acuerdo de Ti](https://open.spotify.com/album/0WZvGpgxno7i8kDlo6Znb9) | 4:15 | 2022-06-01 |  |
 | [Poco](https://open.spotify.com/track/6VZMIyzOupI4vA68RaUgXb) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Poco](https://open.spotify.com/album/0rRmn2Y11t41spl9rYaxLC) | 3:45 | 2022-05-13 |  |
 | [Por Esa Calle Vive](https://open.spotify.com/track/0vXXjS5lBwyQIjJBryh0ft) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar con Mariachi](https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n) | 3:03 | 2022-05-13 |  |
-| [Por Mujeres Como Tú](https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 4:23 | 2022-05-13 |  |
+| [Por Mujeres Como Tú](https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 0:29 | 2022-05-13 |  |
 | [Por Ti Me Abrazaré](https://open.spotify.com/track/6bvHqGVqf320Sn3bkQcOyp) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Por Ti Me Abrazaré](https://open.spotify.com/album/5qndP6JceszrhYHRcXwVBp) | 3:14 | 2022-05-13 | 2022-06-01 |
 | [Por Tu Maldito Amor](https://open.spotify.com/track/3KZI2xeiIRJd8fm84ClxH5) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Por Tu Maldito Amor](https://open.spotify.com/album/4AcCWh1DSsRWGU8fWK70E1) | 3:56 | 2022-05-13 |  |
 | [Por Un Amor](https://open.spotify.com/track/3YibdBCjkHdhJ0RfucR0sZ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Décimo Aniversario](https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca) | 2:23 | 2022-05-13 | 2022-05-29 |

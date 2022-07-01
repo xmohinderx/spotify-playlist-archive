@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzvsDswCrbR.md) - [plain]
 
 > The sound of bounce, curated by Big Freedia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,255 likes - 22 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,260 likes - 22 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,6 +29,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzvsDswCrbR.md) - [plain]
 | 19 | [Louder \(feat\. Icona Pop\)](https://open.spotify.com/track/2fhtmxAUyNd9vyLq1vk2eD) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Louder \(feat\. Icona Pop\)](https://open.spotify.com/album/6sqTulnqSRsDGE63jaZp6t) | 3:24 |
 | 20 | [Play Yo Part](https://open.spotify.com/track/3DAHvC1IghkthR5Gps3ZVK) | [ReUp Reedy](https://open.spotify.com/artist/3pNZLl18qy2KqKBra9JW4l) | [The Reup](https://open.spotify.com/album/2J3lSRjlJhgo2r6P8wOIju) | 3:25 |
 | 21 | [Do It Again](https://open.spotify.com/track/1PiuN63vMoORqfCsF4ob1Q) | [Galactic](https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ), [Cheeky Blakk](https://open.spotify.com/artist/2fPRPvD5jBW4fKLCRX9wLu) | [Ya\-Ka\-May \(Deluxe Edition\)](https://open.spotify.com/album/7DgwPKmMoPrZylKAeQ50z6) | 2:31 |
-| 22 | [Pipe That \(feat\. Icona Pop & The Soul Rebels\)](https://open.spotify.com/track/2PZSDlMj55mheRfBELyAsy) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [The Soul Rebels](https://open.spotify.com/artist/10NEMYLJwVvYSvtvZn5Ipz) | [Louder](https://open.spotify.com/album/1LoYYEZkYPEXKzTiw7p37T) | 2:50 |
+| 22 | [Pipe That \(feat\. Icona Pop & The Soul Rebels\)](https://open.spotify.com/track/2PZSDlMj55mheRfBELyAsy) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [The Soul Rebels](https://open.spotify.com/artist/10NEMYLJwVvYSvtvZn5Ipz) | [Louder](https://open.spotify.com/album/1LoYYEZkYPEXKzTiw7p37T) | 0:29 |
 
 Snapshot ID: `MTYxMzUxODc5MCwwMDAwMDAwNjAwMDAwMTc3YWQzNmRlN2IwMDAwMDE3N2FkMmU4ZWQ3`

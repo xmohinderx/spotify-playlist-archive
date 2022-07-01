@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Dabeull
 
-176 songs - 10 hr 31 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
+176 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Guilty Pleasures](https://open.spotify.com/track/42Bax5tepDSjA1pDu8Mpn1) | [Wake the Wild](https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9) | [Guilty Pleasures](https://open.spotify.com/album/6l2bKNKNk61scQGAUMX3D2) | 4:18 | 2020-11-20 | 2022-04-09 |
 | [Happy Meal](https://open.spotify.com/track/2XA4OlwOVNnm09yMXUc1nI) | [Apollo Theo](https://open.spotify.com/artist/4gdIEqgsdPdiAyNyArsLRz), [Jaz Lund](https://open.spotify.com/artist/76wFPyb3pS7rjiDOJOeS7P) | [Happy Meal](https://open.spotify.com/album/644apP2mf0OYoBgU2iahms) | 3:12 | 2021-10-01 |  |
 | [Heartbeat](https://open.spotify.com/track/1sDuoXz1FxkzA9o6IHJLK8) | [DJ AK](https://open.spotify.com/artist/1rnovQohVJH2iw8vJn0BTt), [Sally Green](https://open.spotify.com/artist/5BHrTlWKFtM97PTs1Avpqs) | [Heartbeat](https://open.spotify.com/album/2slGdJqZbiCstg2fNNbNtC) | 4:06 | 2022-01-07 |  |
-| [henny & patron](https://open.spotify.com/track/4M2V3bNCMeOAgTCpAQckP5) | [Ben Yen](https://open.spotify.com/artist/4IcZa7gtPIs352dbFVBjgZ) | [henny & patron](https://open.spotify.com/album/6vHrw5zCi73swThT9N4EIP) | 2:18 | 2022-01-28 |  |
+| [henny & patron](https://open.spotify.com/track/4M2V3bNCMeOAgTCpAQckP5) | [Ben Yen](https://open.spotify.com/artist/4IcZa7gtPIs352dbFVBjgZ) | [henny & patron](https://open.spotify.com/album/6vHrw5zCi73swThT9N4EIP) | 0:29 | 2022-01-28 |  |
 | [Here You Are](https://open.spotify.com/track/6YcJnWoaxItHyPUNuYo1fr) | [Lukas Setto](https://open.spotify.com/artist/1qQsGVTeXPtTvAgvDd5SHZ) | [Here You Are](https://open.spotify.com/album/5FLfZyi6mP2tvQJjmcSqpL) | 3:08 | 2022-01-28 |  |
 | [Hide](https://open.spotify.com/track/48m0yIOWPyLYQHXEKnMJ12) | [Alton Allen](https://open.spotify.com/artist/5sQbmL5ZGPpkwWNVxCJ2nq), [Niteppl](https://open.spotify.com/artist/5jQWZiaRwd5OXJ08MdyJ5D) | [Hide](https://open.spotify.com/album/35CDn6fdaAWVNFg6YN6K4J) | 4:18 | 2022-04-22 |  |
 | [Highly Compatible](https://open.spotify.com/track/3FMZsyg0weeAzesHLC0sdU) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Highly Compatible](https://open.spotify.com/album/2JD2i0URkUYRzaO1zMVKAK) | 6:05 | 2020-11-20 | 2022-04-09 |
@@ -136,7 +136,7 @@
 | [Power Station](https://open.spotify.com/track/1z7PHD8GeatMCzuBY3SUsB) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Power Station](https://open.spotify.com/album/4hGwNNlT72jpOJFWIatuEk) | 3:22 | 2022-04-08 |  |
 | [Pressure](https://open.spotify.com/track/6R8q5huZOkxRUdbq3JsTDp) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Pressure](https://open.spotify.com/album/0tIlSRHdKJQ1ABFNClsglz) | 3:23 | 2022-03-04 |  |
 | [Pursuit of Happiness](https://open.spotify.com/track/0Kbf68ffqkVcoZXPqVpD9j) | [The Philharmonik](https://open.spotify.com/artist/3A7OTJpEsOObdTqn1ANNhi) | [Pursuit of Happiness](https://open.spotify.com/album/5Sz85muMZBfGGF07GzQkAn) | 4:17 | 2021-06-18 | 2022-01-29 |
-| [Reachin' Up](https://open.spotify.com/track/28pkJWdrY2xsYfHRHzsOI5) | [Pimps of Joytime](https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4), [Marcus Farrar](https://open.spotify.com/artist/1YuH6sg58tNCttePibCFRq) | [Reachin' Up](https://open.spotify.com/album/53EtrXw0AsatoP5yFQMmhO) | 4:29 | 2022-03-04 |  |
+| [Reachin' Up](https://open.spotify.com/track/28pkJWdrY2xsYfHRHzsOI5) | [Pimps of Joytime](https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4), [Marcus Farrar](https://open.spotify.com/artist/1YuH6sg58tNCttePibCFRq) | [Reachin' Up](https://open.spotify.com/album/53EtrXw0AsatoP5yFQMmhO) | 0:29 | 2022-03-04 |  |
 | [Recipe](https://open.spotify.com/track/0xM4e5ON4PcKCF1rnqLmR9) | [Jackie's Boy](https://open.spotify.com/artist/5IWhRKmW8IDdeJfrx4Kl0E) | [Recipe](https://open.spotify.com/album/3EKYhobBWNH0xrU5qpyDrz) | 3:02 | 2022-03-11 |  |
 | [Remember](https://open.spotify.com/track/2m0fbba1YFzmXebHImHaNy) | [Joel Culpepper](https://open.spotify.com/artist/2PEsLlEk8HIw0NFPSENdQs) | [Sgt Culpepper](https://open.spotify.com/album/43mTFLfF5mNMhuA7MtDcSi) | 4:17 | 2021-07-23 | 2022-01-29 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-07 |  |
@@ -183,6 +183,6 @@
 | [You Got the Right Thang](https://open.spotify.com/track/46CsNpRU9Tmz8bI27J4mxC) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Baby, I'm Hollywood!](https://open.spotify.com/album/0FZbfwIKUCSFPei35a0HbZ) | 3:49 | 2021-03-05 |  |
 | [You Gotta Respect Yourself!](https://open.spotify.com/track/4cJiGpB3ucbvuN5F8wwXLb) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [You Gotta Respect Yourself!](https://open.spotify.com/album/1iHoBVCieyC3vOQA6RZkvd) | 3:11 | 2022-04-22 |  |
 | [You Not Me](https://open.spotify.com/track/6FyM8JWZ1gffsvIbFWQ5JP) | [Baegod](https://open.spotify.com/artist/1F03cvxw1p5NzqkLnwDpcL) | [You Not Me](https://open.spotify.com/album/0jANe1ZB6ZUafYRMK0vCLt) | 2:30 | 2021-07-23 |  |
-| [Your Sweet Power](https://open.spotify.com/track/4TdfrvxJ2OD1IMMgq4ip0t) | [JB Stark](https://open.spotify.com/artist/0wDQ0wyB5XgsYkLaXsyNqm), [Kestra](https://open.spotify.com/artist/7udzSgwVGJxs3AyFnBD41K) | [Your Sweet Power](https://open.spotify.com/album/0jaJ9e6vSp9noMKJ0xlOaD) | 2:50 | 2021-10-22 |  |
+| [Your Sweet Power](https://open.spotify.com/track/4TdfrvxJ2OD1IMMgq4ip0t) | [JB Stark](https://open.spotify.com/artist/0wDQ0wyB5XgsYkLaXsyNqm), [Kestra](https://open.spotify.com/artist/7udzSgwVGJxs3AyFnBD41K) | [Your Sweet Power](https://open.spotify.com/album/0jaJ9e6vSp9noMKJ0xlOaD) | 0:29 | 2021-10-22 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

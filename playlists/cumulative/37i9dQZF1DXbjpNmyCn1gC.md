@@ -4,7 +4,7 @@
 
 > Enjoy music from "NARUTO" series! / 音楽で辿る「NARUTO \-ナルト\-」シリーズの世界。<br/>©岸本斉史 スコット／集英社・テレビ東京・ぴえろ
 
-115 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/34zjMk59cqmuykb2g015hQ)
+115 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/34zjMk59cqmuykb2g015hQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Broken Youth](https://open.spotify.com/track/2pjRFU0akiTgVCAkHVPCPV) | [NICO Touches the Walls](https://open.spotify.com/artist/16FpDRuy5xMHpuLYZV0Hkt) | [Broken Youth](https://open.spotify.com/album/0BgYclVGeCMvf9xWwXO3jQ) | 4:54 | 2021-10-04 |  |
 | [CLOSER](https://open.spotify.com/track/1e7E8dOJJPw2Y5krfkft71) | [Joe Inoue](https://open.spotify.com/artist/04q6GxPQU1OTqHGrUxeufd) | [CLOSER](https://open.spotify.com/album/3wmVPZ0DNAAMaq9BjQSjAL) | 3:28 | 2021-10-04 |  |
 | [distance](https://open.spotify.com/track/7rx3LZul0v0qUlzfsOrWfU) | [Long Shot Party](https://open.spotify.com/artist/3JdNagrq4kPXQ3Coj6INjp) | [LONG SHOT PARTY](https://open.spotify.com/album/01yAW82JL7XNc7xpwstcKS) | 3:07 | 2021-10-04 |  |
-| [Diver](https://open.spotify.com/track/7x0fMadka2HamhfLER14bN) | [NICO Touches the Walls](https://open.spotify.com/artist/16FpDRuy5xMHpuLYZV0Hkt) | [PASSENGER](https://open.spotify.com/album/4yCKMos9V6PoE7yqeMijkZ) | 4:08 | 2021-10-04 |  |
+| [Diver](https://open.spotify.com/track/7x0fMadka2HamhfLER14bN) | [NICO Touches the Walls](https://open.spotify.com/artist/16FpDRuy5xMHpuLYZV0Hkt) | [PASSENGER](https://open.spotify.com/album/4yCKMos9V6PoE7yqeMijkZ) | 0:29 | 2021-10-04 |  |
 | [FLAME](https://open.spotify.com/track/1XkkG40CmsqoCaLrClQ4ge) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [サイショの恋〜モテたくて〜 / FLAME コンプリートパック](https://open.spotify.com/album/4qrz9EzuvXuZexqvRUjBoQ) | 4:05 | 2021-10-04 |  |
 | [For You](https://open.spotify.com/track/6qF1nBMKfvvRqN2qnHBg78) | [AZU](https://open.spotify.com/artist/5cfwQHc25w8JNzcXfxLNy5) | [For You](https://open.spotify.com/album/2OkWqLkW9jPxVNC8B0zhti) | 4:19 | 2021-10-04 |  |
 | [FREEDOM](https://open.spotify.com/track/6sKAwvk1B1fWMAFPWwv2bC) | [Home Made Kazoku](https://open.spotify.com/artist/2KnTQRef7hcVlK7vO9wPzI) | [FREEDOM](https://open.spotify.com/album/66m8rLXjiTnUFCRcp6RJm6) | 3:54 | 2021-10-04 |  |
@@ -40,16 +40,16 @@
 | [Place to Try](https://open.spotify.com/track/4M5sXktNWk02yKcXfcGBFr) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [Place to Try](https://open.spotify.com/album/2DaUa6Tjbje7APna8mqiEg) | 3:39 | 2021-10-04 |  |
 | [PRANA](https://open.spotify.com/track/31qWfrj81xe5ZQHWYsJD4V) | [Yoshida Brothers](https://open.spotify.com/artist/1C08PKH51P2fcJMrPOFRwI) | [PRANA](https://open.spotify.com/album/3WKZCCeF9wqoSwzJPKiHuL) | 3:52 | 2021-10-04 |  |
 | [Re:member](https://open.spotify.com/track/2LmPVAT6xZMEubI7NAsmPE) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Re:member](https://open.spotify.com/album/17Qhy6KxiLhKNaofDRAYDq) | 3:19 | 2021-10-04 |  |
-| [Sign](https://open.spotify.com/track/0xmWQKzc5m9rLv2ucDWxwD) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [MICROCOSM](https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa) | 3:56 | 2021-10-04 |  |
+| [Sign](https://open.spotify.com/track/0xmWQKzc5m9rLv2ucDWxwD) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [MICROCOSM](https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa) | 0:29 | 2021-10-04 |  |
 | [Spin and Burst](https://open.spotify.com/track/1N39dPzIxDWzscoYwz8GWp) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o), [YAIBA](https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4) | [BORUTO \-NARUTO THE MOVIE\- Original Soundtrack](https://open.spotify.com/album/2RhtwZGwEbxSOufZHWIlW2) | 2:51 | 2021-10-04 |  |
 | [Spinning World](https://open.spotify.com/track/57yivIXUOhohU4vCiTqk0Z) | [Diana Garnet](https://open.spotify.com/artist/3H7zTgVfGK3oXE0j33UatD) | [Spinning World](https://open.spotify.com/album/7xHzrLT6wrM9LDlyE0edzx) | 3:53 | 2021-10-04 |  |
 | [SUMMER FREAK](https://open.spotify.com/track/5joopj7rLQyYMplSoXZjD3) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [カップリングコレクション](https://open.spotify.com/album/5vRqwl9mrEbdAMw6MmkY04) | 3:22 | 2021-10-04 |  |
 | [U can do it !](https://open.spotify.com/track/7jmTWEQM8IJ5SScHP3k9wm) | [DOMINO](https://open.spotify.com/artist/0RiR4LQa6SFZZGYK04iAcb) | [U can do it !](https://open.spotify.com/album/4QMnP3Smgx6WLi4Xij5KDE) | 4:16 | 2021-10-04 |  |
 | [Wind](https://open.spotify.com/track/5BqKtuCFLfZyzfZOwlgW1f) | [明星 <Akeboshi>](https://open.spotify.com/artist/5STm6pQxk2nHd7JVcQCBoa) | [Akeboshi](https://open.spotify.com/album/6lTOmOSRAWvAwdv15KnMb8) | 3:40 | 2021-10-04 |  |
-| [Yellow Moon](https://open.spotify.com/track/0qmz5vEUmfwaO2Ema7VjE0) | [明星 <Akeboshi>](https://open.spotify.com/artist/5STm6pQxk2nHd7JVcQCBoa) | [Yellow Moon](https://open.spotify.com/album/4b8VI9iRWsbS06xYN0Rogb) | 5:11 | 2021-10-04 |  |
+| [Yellow Moon](https://open.spotify.com/track/0qmz5vEUmfwaO2Ema7VjE0) | [明星 <Akeboshi>](https://open.spotify.com/artist/5STm6pQxk2nHd7JVcQCBoa) | [Yellow Moon](https://open.spotify.com/album/4b8VI9iRWsbS06xYN0Rogb) | 0:29 | 2021-10-04 |  |
 | [うたかた花火](https://open.spotify.com/track/3VbpuVvobZbMJ86p1w3GKK) | [supercell](https://open.spotify.com/artist/4Mc3zbnQx4wRb0tYg7A8sG) | [うたかた花火/星が瞬くこんな夜に](https://open.spotify.com/album/0YrYEfC8jhCObNKbDZzfpq) | 6:01 | 2021-10-04 |  |
 | [おまえだったんだ](https://open.spotify.com/track/2yKzGhN76MQ0q57fMZwTe4) | [Kishidan](https://open.spotify.com/artist/58WqD0AmJH03qw4AUN00Yx) | [さよなら世界 / おまえだったんだ](https://open.spotify.com/album/6YDZOiV7HTlUDMidrIOgae) | 3:59 | 2021-10-04 |  |
-| [この声枯らして](https://open.spotify.com/track/0upoZcX12ewPXjCi0Um2y1) | [AISHA](https://open.spotify.com/artist/2ZaCjRExBrJiwBJ6dfhwqw), [CHEHON](https://open.spotify.com/artist/6tQMcZAnZhztsJfTeZ5UYY) | [この声枯らして](https://open.spotify.com/album/0FUkDMCMPeag0MTFOh2LaZ) | 5:07 | 2021-10-04 |  |
+| [この声枯らして](https://open.spotify.com/track/0upoZcX12ewPXjCi0Um2y1) | [AISHA](https://open.spotify.com/artist/2ZaCjRExBrJiwBJ6dfhwqw), [CHEHON](https://open.spotify.com/artist/6tQMcZAnZhztsJfTeZ5UYY) | [この声枯らして](https://open.spotify.com/album/0FUkDMCMPeag0MTFOh2LaZ) | 0:29 | 2021-10-04 |  |
 | [さよならメモリー](https://open.spotify.com/track/65dTOvIBMqUgBfv9oqtces) | [7!!](https://open.spotify.com/artist/3rJbSZv98yyWLNOvD6MsAV) | [ドキドキ](https://open.spotify.com/album/3CkjjWdhr8y5wrIkNWkw21) | 3:38 | 2021-10-04 |  |
 | [さよなら世界](https://open.spotify.com/track/23nU3OCGAL2qD3LNkJxJbI) | [Kishidan](https://open.spotify.com/artist/58WqD0AmJH03qw4AUN00Yx) | [さよなら世界 / おまえだったんだ](https://open.spotify.com/album/6YDZOiV7HTlUDMidrIOgae) | 3:49 | 2021-10-04 |  |
 | [そばにいるから](https://open.spotify.com/track/7h13ZBhtHPRHrlJv2ADa9Y) | [Amadori](https://open.spotify.com/artist/28KMnC9M7253QQlCevUhlQ) | [そばにいるから](https://open.spotify.com/album/7Md8OzzDfQNsT3i486oolU) | 3:47 | 2021-10-04 |  |
@@ -73,7 +73,7 @@
 | [バイマイサイド](https://open.spotify.com/track/39zRDK54BJJQqcIYydsfSy) | [Hemenway](https://open.spotify.com/artist/1aelbjRiScFc639v34vNsv) | [バイマイサイド](https://open.spotify.com/album/4oTSOH7gH3wMqngbs05Zww) | 3:27 | 2021-10-04 |  |
 | [パレード](https://open.spotify.com/track/17CLgOZqX9GAjZvSHMAHDn) | [Chaba](https://open.spotify.com/artist/1u6OC7tz9YNmdsZ1AeX9m0) | [パレード](https://open.spotify.com/album/0PsoJQF9JB0RNgtVse0WBM) | 4:53 | 2021-10-04 |  |
 | [ビバ★ロック 〜japanese side〜](https://open.spotify.com/track/1mYNlXFX7lLH69B11yNPZv) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [ビバ★ロック](https://open.spotify.com/album/2agPtSGmUaEF1Xk0TPMiHI) | 3:31 | 2021-10-04 |  |
-| [ピノとアメリ](https://open.spotify.com/track/7FU7YMyvkTUmzg7lAZdAhU) | [Huwie Ishizaki](https://open.spotify.com/artist/4NZJF1Qong0IAWBRE2EjTr) | [ピノとアメリ](https://open.spotify.com/album/4oLcoI947dNZ2m4qhmJBqU) | 4:33 | 2021-10-04 |  |
+| [ピノとアメリ](https://open.spotify.com/track/7FU7YMyvkTUmzg7lAZdAhU) | [Huwie Ishizaki](https://open.spotify.com/artist/4NZJF1Qong0IAWBRE2EjTr) | [ピノとアメリ](https://open.spotify.com/album/4oLcoI947dNZ2m4qhmJBqU) | 0:29 | 2021-10-04 |  |
 | [ピノキオ](https://open.spotify.com/track/7dDY3F4eAXs6Rp0olRzBN0) | [ORESKABAND](https://open.spotify.com/artist/56OQWVhAWYw1yRxD0R2HSR) | [WAO!!](https://open.spotify.com/album/0dyEtIksUU6PYFBsttExjk) | 2:19 | 2021-10-04 |  |
 | [ブラックナイトタウン](https://open.spotify.com/track/61xQj6eNjY8PnOVyueG4y5) | [Akihisa Kondo](https://open.spotify.com/artist/10AL5EKCNWyno8ugb8EG6w) | [ブラックナイトタウン](https://open.spotify.com/album/1Y0hpznWIb3qPnazFTWMEh) | 3:11 | 2021-10-04 |  |
 | [ブラッドサーキュレーター](https://open.spotify.com/track/1XXMOdwLSWwKlrm28AGp9K) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [BEST HIT AKG 2 \(2012\-2018\)](https://open.spotify.com/album/5xq9yBiaBQ7FWcUgtGzt0P) | 3:42 | 2021-10-04 |  |
@@ -93,7 +93,7 @@
 | [形勢逆転](https://open.spotify.com/track/3MbKr047dH74iTk4nuxb7j) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [NARUTO\-ナルト\- 疾風伝 オリジナル・サウンドトラック](https://open.spotify.com/album/4f5CITLlnnTPE49n5Bd0zN) | 4:00 | 2021-10-04 |  |
 | [悲しみをやさしさに](https://open.spotify.com/track/3bNoiCd5xzjUd5jO5dQtnQ) | [Little by Little](https://open.spotify.com/artist/3zQx1Fk2lTUkSIdsL4oaxP) | [Sweet Noodle Pop](https://open.spotify.com/album/59UMkq0ZamcYgnYisMaD20) | 4:02 | 2021-10-04 |  |
 | [旅立ちの唄](https://open.spotify.com/track/2uwemnWSqSTlurgPTuG5Vn) | [Ayumikurikamaki](https://open.spotify.com/artist/0UDiy9fLk3rtgfh5lDqRqu) | [旅立ちの唄](https://open.spotify.com/album/2JPWO6LZguL45Vh3dSPEsl) | 3:27 | 2021-10-04 |  |
-| [月の大きさ](https://open.spotify.com/track/5zzfDKUAzsHns9KhQ24iQz) | [Nogizaka46](https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq) | [バレッタ TypeA](https://open.spotify.com/album/34VdNoUlGdLQUG6T7YEpO3) | 3:56 | 2021-10-04 |  |
+| [月の大きさ](https://open.spotify.com/track/5zzfDKUAzsHns9KhQ24iQz) | [Nogizaka46](https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq) | [バレッタ TypeA](https://open.spotify.com/album/34VdNoUlGdLQUG6T7YEpO3) | 0:29 | 2021-10-04 |  |
 | [欲望を叫べ!!!!](https://open.spotify.com/track/6dJR3VCC5odLOUa0zPWukb) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [欲望を叫べ!!!!](https://open.spotify.com/album/0STNVTXHQpfqp2Pm3qW4z8) | 3:43 | 2021-10-04 |  |
 | [沸き上がる闘志](https://open.spotify.com/track/7k9D5GUqhn0Jf3kBnfgQJ6) | [MUSASHI PROJECT](https://open.spotify.com/artist/1HNngbrg0LENVuq56iQo0m) | [NARUTO \-ナルト\- オリジナルサウンドトラック](https://open.spotify.com/album/6NrJzDuBPZvp3ZRXnIqs1P) | 1:36 | 2021-10-04 |  |
 | [波風サテライト](https://open.spotify.com/track/2ytqDhgvsWd8Q6lLiIbpfa) | [SNOWKEL](https://open.spotify.com/artist/12OSHhni6aZbqfUp7nzjKC) | [波風サテライト](https://open.spotify.com/album/1BX328PWuRJ6GSS8YBN5IO) | 4:12 | 2021-10-04 |  |
@@ -114,7 +114,7 @@
 | [虹の空](https://open.spotify.com/track/1ugw9zRE5ufC6AA2YriY52) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [虹の空](https://open.spotify.com/album/4R8P6rKkqSlwJgIairXN5x) | 4:07 | 2021-10-04 |  |
 | [言葉のいらない約束](https://open.spotify.com/track/7vDGFLBidTeTuyf98W7Ldx) | [sana](https://open.spotify.com/artist/5vsQrdvs38LX8DmUmLUiwb) | [言葉のいらない約束 / 暁月夜\-アカツキヅクヨ\-](https://open.spotify.com/album/3PS3QIl78MBZDchMT8W0DA) | 4:13 | 2021-10-04 |  |
 | [誰かが](https://open.spotify.com/track/7wXKr4Ix8y3LUAjpEceqkR) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW) | [誰かが](https://open.spotify.com/album/62Lux35UIcOcJtVBm4LElm) | 4:27 | 2021-10-04 |  |
-| [透明だった世界](https://open.spotify.com/track/3ILmwMefYZoQh5Cf5jeuUQ) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [Documentary](https://open.spotify.com/album/6RJ8dTBDiLHZb2tSb76Pdt) | 3:52 | 2021-10-04 |  |
+| [透明だった世界](https://open.spotify.com/track/3ILmwMefYZoQh5Cf5jeuUQ) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [Documentary](https://open.spotify.com/album/6RJ8dTBDiLHZb2tSb76Pdt) | 0:29 | 2021-10-04 |  |
 | [道 〜to you all](https://open.spotify.com/track/2Aq726y1hKsStf9Bmofxjs) | [aluto](https://open.spotify.com/artist/5OEu7QcsdIsMDRe9oHElCx) | [道 〜to you all](https://open.spotify.com/album/5d4ztKddWA6UDfoEWVGjM1) | 4:48 | 2021-10-04 |  |
 | [道標](https://open.spotify.com/track/5wWNIJ48TTYv0uLK9Rk5Yn) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [心景](https://open.spotify.com/album/2PT2sQZ4nzQ08RVCqei3xg) | 4:11 | 2021-10-04 |  |
 | [遥か彼方](https://open.spotify.com/track/504oRwSP1wBJzAik4ph9vY) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [BEST HIT AKG](https://open.spotify.com/album/4CoZ2DrZEjRz8oHM4oXNI2) | 4:03 | 2021-10-04 |  |

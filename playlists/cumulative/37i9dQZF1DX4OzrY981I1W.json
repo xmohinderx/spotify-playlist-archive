@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 182880,
       "name": "alive",
       "url": "https://open.spotify.com/track/2CRs8EpAcyaEGounRabYQI"
@@ -426,6 +426,24 @@
     },
     {
       "album": {
+        "name": "Bandages",
+        "url": "https://open.spotify.com/album/7qUzSfHicu7sV7EIflvMtR"
+      },
+      "artists": [
+        {
+          "name": "Rachel Bobbitt",
+          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174840,
+      "name": "Bandages",
+      "url": "https://open.spotify.com/track/32z65nCDfiHwd7Ly1AyN2t"
+    },
+    {
+      "album": {
         "name": "Beautiful Life",
         "url": "https://open.spotify.com/album/0QJHIPjOnmwYuduAcNaQ5m"
       },
@@ -492,7 +510,7 @@
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 204208,
+      "duration_ms": 29048,
       "name": "Beige",
       "url": "https://open.spotify.com/track/0FfZudphGgQTGeEV6AhmOs"
     },
@@ -635,7 +653,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 300429,
       "name": "Bubba",
       "url": "https://open.spotify.com/track/0qOe0oNsO7459dYDAlomiV"
@@ -707,7 +725,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 176466,
       "name": "Campus",
       "url": "https://open.spotify.com/track/1eNrlXlW7Cj1QB1YUcZmpb"
@@ -1360,7 +1378,7 @@
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 218106,
+      "duration_ms": 29048,
       "name": "Electric Love",
       "url": "https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ"
     },
@@ -1378,7 +1396,7 @@
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 352186,
+      "duration_ms": 29048,
       "name": "Enchanted",
       "url": "https://open.spotify.com/track/10eBRyImhfqVvkiVEGf0N0"
     },
@@ -1719,7 +1737,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 248181,
       "name": "Go Easy, Kid",
       "url": "https://open.spotify.com/track/7AeffRBhIZel7deJBbra5D"
@@ -2087,7 +2105,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 195044,
       "name": "I Don't Know",
       "url": "https://open.spotify.com/track/56PgQIFxAvXcEtXNYrsB0w"
@@ -2953,7 +2971,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 210360,
       "name": "Mol y Sol",
       "url": "https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL"
@@ -3781,7 +3799,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 201053,
       "name": "Show Up",
       "url": "https://open.spotify.com/track/1p17XN8yqoY5LHEG0Inqam"
@@ -4015,7 +4033,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 295466,
       "name": "Spirals",
       "url": "https://open.spotify.com/track/21XK3S7N0Jyx9IJLG1tF6D"
@@ -4159,7 +4177,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 256629,
       "name": "Sunday Funday",
       "url": "https://open.spotify.com/track/0pAyXGUIrNm2oISrdAzbsw"
@@ -4249,7 +4267,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 309053,
       "name": "The Adults Are Talking",
       "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW"
@@ -4357,7 +4375,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 241853,
       "name": "The Subway Song",
       "url": "https://open.spotify.com/track/3MIMKvXfK4bqkJ2wteG5Jq"
@@ -4483,7 +4501,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 220750,
       "name": "Those Eyes",
       "url": "https://open.spotify.com/track/2GThBgzZoZfz0lx1JjBwfe"
@@ -4987,7 +5005,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 301154,
       "name": "Wide Open Spaces",
       "url": "https://open.spotify.com/track/0otqLHZ2jLAFYu1LLOZzy8"

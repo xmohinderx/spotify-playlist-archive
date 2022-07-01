@@ -4,12 +4,12 @@
 
 > 
 
-29 songs - 2 hr 3 min - [published](https://open.spotify.com/playlist/5l9QtcAwzyt8hGiAHS3NRi)
+29 songs - 1 hr 56 min - [published](https://open.spotify.com/playlist/5l9QtcAwzyt8hGiAHS3NRi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Rose For Epona](https://open.spotify.com/track/3pfIjDOimfBATHIVlKozBf) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [Helvetios](https://open.spotify.com/album/0VyTHUwi4CBS0jrqCQfspx) | 4:26 | 2014-03-20 |  |
-| [After Lifeless Years](https://open.spotify.com/track/19eO2GzRSPaIPWtxT7V6An) | [Sylosis](https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl) | [Conclusion Of An Age](https://open.spotify.com/album/0442rz3Kjfi8RUIwbWr8n1) | 4:57 | 2014-03-20 |  |
+| [After Lifeless Years](https://open.spotify.com/track/19eO2GzRSPaIPWtxT7V6An) | [Sylosis](https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl) | [Conclusion Of An Age](https://open.spotify.com/album/0442rz3Kjfi8RUIwbWr8n1) | 0:29 | 2014-03-20 |  |
 | [Amaranthine](https://open.spotify.com/track/2JPYNZOWzjiuaEek4AjJNu) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Amaranthe \(Special Edition\)](https://open.spotify.com/album/2Ecik050ir0AHNPMiLCUe9) | 3:29 | 2014-03-20 |  |
 | [Anthem](https://open.spotify.com/track/65spaK7qUix4NDUVjpQt3Y) | [Iced Earth](https://open.spotify.com/artist/3KEixcRfBS5K3E91Vn1Kdy) | [Dystopia](https://open.spotify.com/album/2qaldG8mSTZIrKbKFTxeTg) | 4:54 | 2014-03-20 |  |
 | [Autre Temps](https://open.spotify.com/track/4gfSWTQIgFCdde8hOGRZzX) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Les Voyages de L'Âme](https://open.spotify.com/album/4NbmvbO9OuEjLYat5BkFAL) | 5:50 | 2014-03-20 |  |
@@ -36,6 +36,6 @@
 | [Send Me A Sign](https://open.spotify.com/track/0EbOOKAmRvd2w7K1Wvs3Q5) | [Gamma Ray](https://open.spotify.com/artist/6LZE884lDIsCSLHuTplfGp) | [Skeletons and Majesties \- The Mini Album](https://open.spotify.com/album/0axU1YHYe0ICe5nfzHce1z) | 4:26 | 2014-03-20 |  |
 | [The Parting](https://open.spotify.com/track/0KP0W363ctVBf8qce8h0IQ) | [Katatonia](https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm) | [Dead End Kings](https://open.spotify.com/album/0ysVHx3VsjgZEvw2bSJ7Vy) | 4:52 | 2014-03-20 |  |
 | [What Have You Done \(feat\. Keith Caputo\)](https://open.spotify.com/track/7kzdng4KRCMSxzeFA2lxLA) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Keith Caputo](https://open.spotify.com/artist/0o3RyxUXp69fLCpMxuOLsz) | [The Heart Of Everything](https://open.spotify.com/album/5yQYkDcgbNaNChc7X9UoCO) | 5:15 | 2014-03-20 |  |
-| [Источник Болезни \(The Origin Of Disease\)](https://open.spotify.com/track/1RJOCx8NcQf6csadFAOZMB) | [Aborted](https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR) | [Global Flatline](https://open.spotify.com/album/0izzJLNOtzqPwGg9Pduq8Z) | 3:04 | 2014-03-20 |  |
+| [Источник Болезни \(The Origin Of Disease\)](https://open.spotify.com/track/1RJOCx8NcQf6csadFAOZMB) | [Aborted](https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR) | [Global Flatline](https://open.spotify.com/album/0izzJLNOtzqPwGg9Pduq8Z) | 0:29 | 2014-03-20 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

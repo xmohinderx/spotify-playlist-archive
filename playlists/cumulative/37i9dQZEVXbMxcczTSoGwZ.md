@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-906 songs - 2 day 2 hr 27 min - [published](https://open.spotify.com/playlist/50dEKzS9seM5D60e1IgQ1V)
+906 songs - 2 day 2 hr 23 min - [published](https://open.spotify.com/playlist/50dEKzS9seM5D60e1IgQ1V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [410 \- 007 \(Malmi "N" Kartano\)](https://open.spotify.com/track/65Ukpvnq442ugwiG0KJ0LJ) | [JXO](https://open.spotify.com/artist/6PbcPzZaAgHICZA8UTz9BS) | [Malmi "N" Kartano](https://open.spotify.com/album/1ipQ5aXFgXbgptD6ZeEBh1) | 3:20 | 2022-01-31 | 2022-02-05 |
 | [5 tähden baby \(feat\. william\)](https://open.spotify.com/track/6nAo6IxorxBC9C0KYC5wjp) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Tyttö](https://open.spotify.com/album/7fCpSWCoEwh83KPqqebAdX) | 2:35 | 2021-06-20 | 2021-07-11 |
 | [500 Hevosta](https://open.spotify.com/track/66ZiW1fgTaWZINhOLyDeLo) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [500 Hevosta](https://open.spotify.com/album/3uqgxFvP6mLYSjzgKIpyeC) | 3:54 | 2022-04-23 |  |
-| [666](https://open.spotify.com/track/7aP68E6dMvQ54Mu41Omke4) | [Kiki](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF) | [666](https://open.spotify.com/album/6ADjhQABlpEiPGf4QFbazp) | 2:57 | 2022-02-10 | 2022-06-26 |
+| [666](https://open.spotify.com/track/7aP68E6dMvQ54Mu41Omke4) | [Kiki](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF) | [666](https://open.spotify.com/album/6ADjhQABlpEiPGf4QFbazp) | 2:57 | 2022-02-10 |  |
 | [6ft](https://open.spotify.com/track/1dK02924LPxngyUOgvcQYX) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [6ft](https://open.spotify.com/album/2bCsCBe9HB26bB8VVYH5uV) | 2:17 | 2021-12-05 | 2021-12-06 |
 | [9 väärää kättä](https://open.spotify.com/track/25JCUey5LjLhRXv3PUOygZ) | [Apulanta](https://open.spotify.com/artist/5kwthnxNdfnqGk0nL35wDC), [K\-Magg](https://open.spotify.com/artist/2yM0ecoEUf3UyhQkYPFc5I) | [9 väärää kättä](https://open.spotify.com/album/1N02uDrR4Dmf3uqna9eUaG) | 4:05 | 2022-01-22 | 2022-02-06 |
 | [<3 <3](https://open.spotify.com/track/7JHtN7us9XCpmq6yTPp1xp) | [Ruusut](https://open.spotify.com/artist/5mNowcxxg3M2Iros4GTfXw) | [<3 <3](https://open.spotify.com/album/56mxq2eZFKEVsmCtCDkvSj) | 3:47 | 2021-10-10 | 2021-10-11 |
@@ -640,7 +640,7 @@
 | [RAPSTAR](https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [RAPSTAR](https://open.spotify.com/album/0SVzFcpsByITKgURaxXdsV) | 2:45 | 2021-04-11 | 2021-05-27 |
 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 | 2021-05-03 | 2022-01-05 |
 | [Reggaemiehen lauantai \(Vain elämää kausi 12\)](https://open.spotify.com/track/7vCzRSmOiztXt4ikVp0uMU) | [Jukka Poika](https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn) | [Reggaemiehen lauantai \(Vain elämää kausi 12\)](https://open.spotify.com/album/7zNoZoPUdCMVRPkJaWwsGl) | 2:52 | 2021-10-04 | 2021-10-19 |
-| [Reiviluola](https://open.spotify.com/track/1RCQAeceDgtbD7WVLWr05S) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Älä pelkää elämää](https://open.spotify.com/album/6CHpJofiGTiA1GjaKbqpfo) | 4:07 | 2021-09-12 |  |
+| [Reiviluola](https://open.spotify.com/track/1RCQAeceDgtbD7WVLWr05S) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Älä pelkää elämää](https://open.spotify.com/album/6CHpJofiGTiA1GjaKbqpfo) | 0:29 | 2021-09-12 |  |
 | [Remember](https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Remember](https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF) | 2:40 | 2021-06-20 | 2021-06-26 |
 | [Remote Control](https://open.spotify.com/track/3SYLoL8KHxdQPYIkfwmUjN) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:18 | 2021-08-31 | 2021-09-02 |
 | [Rich Spirit](https://open.spotify.com/track/6kYGOFNUMxpab09L5Ukoke) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:22 | 2022-05-14 | 2022-05-16 |
@@ -735,7 +735,7 @@
 | [Suomen muotoisen pilven alla \- Vain elämää kausi 12](https://open.spotify.com/track/41GTUasdIs2hlhDfFjgK01) | [Tuure Kilpeläinen](https://open.spotify.com/artist/2inhO0GfiR0DhSGhPCwZZg), [Miritza Lundberg](https://open.spotify.com/artist/19dwMQjwcYrTAwnpUySQ5k), [Merzi Lindgren](https://open.spotify.com/artist/3happQvLHHjC5YxLGdtobJ), [Viki Baltzar](https://open.spotify.com/artist/3t1I5kBvpEc81LDm3qnj84) | [Suomen muotoisen pilven alla \(Vain elämää kausi 12\)](https://open.spotify.com/album/64ewmEW3wtd95VpKYe95e5) | 3:01 | 2021-10-04 | 2021-10-08 |
 | [Super Q \- Vain elämää kausi 12](https://open.spotify.com/track/46tOck2D7QvhluISKpQ0gM) | [Pyhimys](https://open.spotify.com/artist/3MaQwUQBigrjcMYHk8bDKm), [Paleface](https://open.spotify.com/artist/5CNgBVZXUEEGqyzgjUAgDj) | [Super Q \(Vain elämää kausi 12\)](https://open.spotify.com/album/2cuLqnGVIs2g1SH83kzRCA) | 2:56 | 2021-11-28 | 2021-12-03 |
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-05-14 |  |
-| [Suvi](https://open.spotify.com/track/5W5OKASwBL7vEi2dPlFeh5) | [STIG](https://open.spotify.com/artist/6TKvvwslcx2bKwiX2aBxbd) | [Suvi](https://open.spotify.com/album/0OoadqWRn0riK8OkTgAlaF) | 3:01 | 2022-06-25 |  |
+| [Suvi](https://open.spotify.com/track/5W5OKASwBL7vEi2dPlFeh5) | [STIG](https://open.spotify.com/artist/6TKvvwslcx2bKwiX2aBxbd) | [Suvi](https://open.spotify.com/album/0OoadqWRn0riK8OkTgAlaF) | 3:01 | 2022-06-25 | 2022-07-01 |
 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2021-12-27 | 2022-02-20 |
 | [Sweet Dreams](https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams](https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR) | 2:18 | 2021-06-13 | 2021-07-20 |
 | [Sweetest Pie](https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Sweetest Pie](https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv) | 3:21 | 2022-03-15 | 2022-03-27 |

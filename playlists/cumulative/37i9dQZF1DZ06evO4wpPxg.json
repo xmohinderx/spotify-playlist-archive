@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "If I Had My Way: Early Home Recordings",
+        "url": "https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265373,
+      "name": "A Friend Like Lonely Jesus",
+      "url": "https://open.spotify.com/track/4udQfSjph8yVpoy4fcC2In"
+    },
+    {
+      "album": {
         "name": "Have A Little Faith",
         "url": "https://open.spotify.com/album/0hy4BlhOVL04C5h3Rj6hHK"
       },
@@ -55,7 +73,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 216533,
       "name": "Bad Company Brought Me Here",
       "url": "https://open.spotify.com/track/23pc5z695dfH4exrOdpIDp"
@@ -91,7 +109,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 135760,
       "name": "Blow, Gabriel",
       "url": "https://open.spotify.com/track/7igj33lnYQEsUKHXuPpXIY"
@@ -235,7 +253,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 283106,
       "name": "Death Don't Have No Mercy",
       "url": "https://open.spotify.com/track/2uoOm55gLvLMALwXmKrwXc"
@@ -271,7 +289,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 139573,
       "name": "Fast Fox Trot - Instrumental",
       "url": "https://open.spotify.com/track/0ho93e51U4YNu4ts1w6L2G"
@@ -343,7 +361,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 175760,
       "name": "Goin' To Sit Down On The Banks Of The River",
       "url": "https://open.spotify.com/track/081r6Uze95Mx8JkvH8c4m5"
@@ -379,7 +397,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 243440,
       "name": "Great Change Since I Been Born",
       "url": "https://open.spotify.com/track/418r3jQNCW6WcdtgdUiDM7"
@@ -487,7 +505,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 215066,
       "name": "I Am The Light Of This World",
       "url": "https://open.spotify.com/track/2nIHJvqg8mQzUviTZfFcoQ"
@@ -541,7 +559,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "I Can't Bear My Burden By Myself",
       "url": "https://open.spotify.com/track/03iDpGZtb0pcEv5Y6aki2L"
@@ -595,7 +613,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 528053,
       "name": "I Feel Like My Time Ain't Long - Live in Portland, OR",
       "url": "https://open.spotify.com/track/6nVccmTg0TCxoGqukm11I6"
@@ -667,7 +685,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 222173,
       "name": "I Won't Be Back No More - Live At The Newport Folk Festival 1959 - 1964",
       "url": "https://open.spotify.com/track/2m8xe2l7ZV7KJuYO5EMaj8"
@@ -686,7 +704,7 @@
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 185600,
+      "duration_ms": 29048,
       "name": "I'll Be All Right Some Day",
       "url": "https://open.spotify.com/track/6JGdOWfLkBMvGjv8ApMH72"
     },
@@ -704,7 +722,7 @@
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 274866,
+      "duration_ms": 29048,
       "name": "I'll Fly Away",
       "url": "https://open.spotify.com/track/5UIN6xZdZQ4S99OPeHc0Nn"
     },
@@ -739,7 +757,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 169691,
       "name": "I'm Throwin' Up My Hands",
       "url": "https://open.spotify.com/track/7axxUk7tja37WN85wD9Y0b"
@@ -775,7 +793,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 286426,
       "name": "If I Had My Way",
       "url": "https://open.spotify.com/track/3JGLuTmLufxb9q3pFfTAuR"
@@ -793,7 +811,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 225746,
       "name": "If the Lord Be for You",
       "url": "https://open.spotify.com/track/1BngS6U4fZ5gsQKbReI0iP"
@@ -829,7 +847,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 200360,
       "name": "Italian Rag",
       "url": "https://open.spotify.com/track/2qXjGxRs6kxHYXewUjhQbk"
@@ -883,7 +901,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 258240,
       "name": "Lo, I Be With You Always",
       "url": "https://open.spotify.com/track/3ris8TaqMl6ZwmlClJ59VG"
@@ -901,7 +919,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 210466,
       "name": "Lord, I Feel Just Like Goin' On",
       "url": "https://open.spotify.com/track/3eaZpjNLBMyX8mcT0vpK3D"
@@ -1117,7 +1135,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 184133,
       "name": "Oh Lord, Search My Heart",
       "url": "https://open.spotify.com/track/0luW3eEfIU4Lg8ClY8ERk8"
@@ -1171,7 +1189,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 177533,
       "name": "Pure Religion",
       "url": "https://open.spotify.com/track/6xTWLIflbQGvTrYEDG4bMs"
@@ -1225,7 +1243,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 243600,
       "name": "Samson And Delilah",
       "url": "https://open.spotify.com/track/2xyA4n0bCLCQzXYskm4EZV"
@@ -1315,7 +1333,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 189293,
       "name": "The Angel's Message To Me",
       "url": "https://open.spotify.com/track/4ERDmgImi44amVKVAfKg7J"
@@ -1405,7 +1423,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 157826,
       "name": "There Was A Time That I Was Blind",
       "url": "https://open.spotify.com/track/5JZCOzF5LmTH6UJDdFNrj6"
@@ -1441,7 +1459,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 323520,
       "name": "There's Destruction on This Land",
       "url": "https://open.spotify.com/track/5PqweQoOlKK9MzRJBk2wGV"
@@ -1459,7 +1477,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 264373,
       "name": "Time Is Drawing Near",
       "url": "https://open.spotify.com/track/64QZaHgNuMUgM60qsIwc5g"
@@ -1477,7 +1495,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 227066,
       "name": "Tryin' To Get Home",
       "url": "https://open.spotify.com/track/0wBrXIcKnvLfRuiWWNyDH2"
@@ -1567,7 +1585,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 389400,
       "name": "United States March (Soldier's Drill) - Instrumental",
       "url": "https://open.spotify.com/track/5VnTgyxelyGYKapBOhfCr7"
@@ -1675,7 +1693,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 187559,
       "name": "You Can Go Home",
       "url": "https://open.spotify.com/track/6AqBgPjQXZYolTRG6vmn4M"
@@ -1711,8 +1729,8 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
-      "duration_ms": 199160,
+      "date_removed": null,
+      "duration_ms": 29048,
       "name": "You Got To Move",
       "url": "https://open.spotify.com/track/2LJwLyGJKoqkLhsen51Yqp"
     }

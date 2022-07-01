@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Unearthing up\-and\-coming Korean acts\. Cover: NMIXX
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,922 likes - 48 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,013 likes - 48 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 40 | [Love in Bloom](https://open.spotify.com/track/5rUoH4RHLzlh8tOmzP1GWY) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [Love in Bloom](https://open.spotify.com/album/68BCbpqHiKG7G2iuqAmWgi) | 3:18 |
 | 41 | [Can’t Be Happy](https://open.spotify.com/track/2XmehABLWyeBGu5Q9Nt5vN) | [ELO](https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1) | [Reality Check](https://open.spotify.com/album/1aWLDWVEHr87l5QuK1JUCA) | 2:46 |
 | 42 | [Dive with you \(feat\. eaJ\)](https://open.spotify.com/track/5RqwjQWDwxQ3HTkOfXTrS6) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e), [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [Dive with you \(feat\. eaJ\)](https://open.spotify.com/album/4Ax41uyC6zscjAXjYd6cq8) | 3:38 |
-| 43 | [Villain](https://open.spotify.com/track/3xO1I7gH39DTgaai3kGIOY) | [DRIPPIN](https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl) | [DRIPPIN 3rd Mini Album \[Villain\]](https://open.spotify.com/album/4oOm4qnnn2qdOwSBX7nsWd) | 3:01 |
+| 43 | [Villain](https://open.spotify.com/track/3xO1I7gH39DTgaai3kGIOY) | [DRIPPIN](https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl) | [DRIPPIN 3rd Mini Album \[Villain\]](https://open.spotify.com/album/4oOm4qnnn2qdOwSBX7nsWd) | 0:29 |
 | 44 | [Tomorrow](https://open.spotify.com/track/6M9a3NEjOsAOm0IpuerCrC) | [Kwon Eunjin](https://open.spotify.com/artist/55dszaPs78G1UrR1NT1eSv) | [Tomorrow](https://open.spotify.com/album/4RUf63zpQJ4j3trTjakxzF) | 2:48 |
 | 45 | [Make It Up \(Feat\. twlv\)](https://open.spotify.com/track/4nEJDV6OOOww5gucLVgmZY) | [PLUMA](https://open.spotify.com/artist/4ZIFmwiUQnjWS2qtEbcH2V), [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [Make It Up \(Feat\. twlv\)](https://open.spotify.com/album/2jSpSqvYB1Us8C1HYmNG3I) | 2:41 |
 | 46 | [I Like That](https://open.spotify.com/track/7yAYYeeXf7ip8bK4GYDo2F) | [YuA](https://open.spotify.com/artist/3maet9vdK6Hbp6ZczQtkS6) | [I Like That](https://open.spotify.com/album/1urAHAMdbuZukBXnUG04Se) | 3:23 |

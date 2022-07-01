@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfYLmYuBPaf.md) - [plain]
 
 > Reggae tracks from the Arab world\. Cover: <a href="spotify:artist:6Gej8kFQeKbjY7dS9HXu1w">Ahmed Ben Ali</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,492 likes - 60 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,501 likes - 60 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfYLmYuBPaf.md) - [plain]
 | 17 | [El Leila Ya Samra \(feat\. the Wailers\)](https://open.spotify.com/track/0O2dEW4oLg6pVAMEaVoHzH) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl), [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Arabiac Studio](https://open.spotify.com/album/6XYJcGLcLNuppc2PEyUTm2) | 3:48 |
 | 18 | [El bareh](https://open.spotify.com/track/6rdb5eS8YUuBDd2e5zNtnR) | [Youss](https://open.spotify.com/artist/102uYDhOmslO14gBBTpOz8) | [Pour ma mère](https://open.spotify.com/album/632qvEq0QvNCZDPKYPBCWV) | 5:11 |
 | 19 | [Djamila](https://open.spotify.com/track/3tocKFeTiUCvsdjRhOiwhK) | [Dub Inc](https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U) | [Afrikya](https://open.spotify.com/album/4aJWs5R737UKZX0ulBGlOl) | 5:20 |
-| 20 | [Jokko \(feat\. Fafadi & Amajang\)](https://open.spotify.com/track/1pX1TKYOE0SnEmCJrFq9Ve) | [Ahmed Soultan](https://open.spotify.com/artist/5kLIWnrvYVb3vpWRg825xC) | [Jokko \(feat\. Fafadi & Amajang\)](https://open.spotify.com/album/09sLgcifU89Wm2ZqJUWuwU) | 3:20 |
+| 20 | [Jokko \(feat\. Fafadi & Amajang\)](https://open.spotify.com/track/1pX1TKYOE0SnEmCJrFq9Ve) | [Ahmed Soultan](https://open.spotify.com/artist/5kLIWnrvYVb3vpWRg825xC) | [Jokko \(feat\. Fafadi & Amajang\)](https://open.spotify.com/album/09sLgcifU89Wm2ZqJUWuwU) | 0:29 |
 | 21 | [متل الشمس](https://open.spotify.com/track/0X3fSxclAF17qvAImgJyIj) | [Almukhtar](https://open.spotify.com/artist/7ekEnaplxNFP0jh9hiyeM8), [EQuBE](https://open.spotify.com/artist/1vKZWmYdp9BQAbtrX9ORuu) | [متل الشمس](https://open.spotify.com/album/5kMmvuaQDdn265GuIvswwF) | 3:16 |
 | 22 | [البوليس مش بوليسنا](https://open.spotify.com/track/4vKaFSCHLVn4WvRHSPp9AO) | [Jowan Safadi](https://open.spotify.com/artist/58rk7WZCefjnDiaA15RzEs) | [إبعد عن الشرق وغنيله](https://open.spotify.com/album/6iMpF8ZtCQ7mZ2IG6WlCnX) | 3:22 |
 | 23 | [يا لولو زس إز مزمار](https://open.spotify.com/track/2p0ldkKjG5b49U2MDf7YJk) | [Slow Moe](https://open.spotify.com/artist/5ws4gBwkGLUzjVxhvw4Kwd) | [يا لولو "زس إز مزمار"](https://open.spotify.com/album/5RBuRyu50dkXSyyHVpeSIx) | 4:00 |

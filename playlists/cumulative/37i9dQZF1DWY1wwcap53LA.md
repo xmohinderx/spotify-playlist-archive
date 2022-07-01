@@ -4,7 +4,7 @@
 
 > Country music making waves\. Cover: Darius Rucker
 
-82 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/2oo6Fd5OoiJz8X71tS41jA)
+82 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/2oo6Fd5OoiJz8X71tS41jA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Lay It On Me](https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD) | 3:09 | 2021-12-03 |  |
 | [Leave You Alone](https://open.spotify.com/track/5J8AKBaUq1WHrzrm9YWlP3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Leave You Alone](https://open.spotify.com/album/1GeeQwpCveYVHBSumI6dFx) | 3:34 | 2022-03-04 |  |
 | [Life's Short Drink Tall](https://open.spotify.com/track/1pQMkHmVOw0vniUlXPvmgo) | [Curt Chambers](https://open.spotify.com/artist/5NfiN9W8v7WMG2m90UpxCJ) | [Life's Short Drink Tall](https://open.spotify.com/album/5UjiPf6KbhvmJTqdxYbv5d) | 3:09 | 2021-12-03 |  |
-| [Love My Hair](https://open.spotify.com/track/0P8ODcKOpxIKrPA84JU0ag) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Love My Hair](https://open.spotify.com/album/3KmzkYKZq0heDFvoNSW7AK) | 2:57 | 2021-12-03 |  |
+| [Love My Hair](https://open.spotify.com/track/0P8ODcKOpxIKrPA84JU0ag) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Love My Hair](https://open.spotify.com/album/3KmzkYKZq0heDFvoNSW7AK) | 0:29 | 2021-12-03 |  |
 | [Miles \(feat\. BRELAND\)](https://open.spotify.com/track/4wdgg5hbea29X8J32o53Nr) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Miles \(feat\. BRELAND\)](https://open.spotify.com/album/5E5R2LEd9j0EoCC4F1zHV9) | 3:11 | 2021-12-03 |  |
 | [My Masterpiece](https://open.spotify.com/track/5SlOBlrnxsuhOGMQEVZeZ0) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [My Masterpiece](https://open.spotify.com/album/10QTTpkxjazlLxVPmDu400) | 3:30 | 2021-12-03 |  |
 | [Natural](https://open.spotify.com/track/4Jlo0XmE2MeNcep7aRc5LC) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Natural](https://open.spotify.com/album/16pHEysNz5Sp0iI9Aw7KXR) | 2:42 | 2022-06-17 |  |

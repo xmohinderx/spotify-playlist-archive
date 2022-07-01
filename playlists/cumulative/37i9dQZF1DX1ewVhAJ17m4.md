@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: Demi Lovato
 
-130 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/1ZPuIvGxHPsGj5FOHcdzdv)
+130 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/1ZPuIvGxHPsGj5FOHcdzdv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Life Goes On!!](https://open.spotify.com/track/4BUMZqK5EvcqlRg1SfJ2v3) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Life Goes On!!](https://open.spotify.com/album/17wLO3F6j4PAW07uUVc7Ng) | 2:04 | 2021-12-20 | 2022-03-01 |
 | [Love It When You Hate Me \(feat\. blackbear\)](https://open.spotify.com/track/4jUAn4mBt4LBsRREJkeCSr) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Love It When You Hate Me \(feat\. blackbear\)](https://open.spotify.com/album/3cuSVzKoXVeinRaL2RAXH0) | 2:25 | 2022-01-14 | 2022-03-01 |
 | [love race \(feat\. Kellin Quinn\)](https://open.spotify.com/track/1F9kEuwT29fgqlovIclu81) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [love race \(feat\. Kellin Quinn\)](https://open.spotify.com/album/3q4wUTOTsRASPClG5Fg3tk) | 3:08 | 2021-12-20 | 2022-02-22 |
-| [Love You Like I Used To](https://open.spotify.com/track/5YTCpQnzU6OiQqLndUuIBT) | [7evin7ins](https://open.spotify.com/artist/4Nr6sbnl0dWasnapIxS92I), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Love You Like I Used To](https://open.spotify.com/album/5tMuCZPGTJybQwkh4K6tK8) | 2:47 | 2021-12-20 |  |
+| [Love You Like I Used To](https://open.spotify.com/track/5YTCpQnzU6OiQqLndUuIBT) | [7evin7ins](https://open.spotify.com/artist/4Nr6sbnl0dWasnapIxS92I), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Love You Like I Used To](https://open.spotify.com/album/5tMuCZPGTJybQwkh4K6tK8) | 0:29 | 2021-12-20 |  |
 | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd) | 3:27 | 2022-02-07 |  |
 | [Matching Piece](https://open.spotify.com/track/3TkhGiMSW4s29s1EMTmeyh) | [Ready Steady Steroids](https://open.spotify.com/artist/1ObNbwiR2rX4PUY2BUF9xN) | [Matching Piece](https://open.spotify.com/album/6pr2hYWxrwPkWHWrZ71wJi) | 2:50 | 2021-12-20 | 2022-01-15 |
 | [MESS \(with Kellin Quinn of Sleeping With Sirens\)](https://open.spotify.com/track/2sPlAS5w8wpAfbxL3l2Ljr) | [GARZI](https://open.spotify.com/artist/0w6YVGViQHcgC3eyc8LxUv), [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [MESS \(with Kellin Quinn of Sleeping With Sirens\)](https://open.spotify.com/album/7tyN1gptSZOcv1PPELd7vU) | 2:19 | 2022-02-28 |  |

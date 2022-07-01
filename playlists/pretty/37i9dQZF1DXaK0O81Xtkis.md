@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: Dhruv
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,176 likes - 70 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,212 likes - 70 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 58 | [Brand New Morning](https://open.spotify.com/track/6thkkefXGo4swLl5eN60W7) | [Sun Heat](https://open.spotify.com/artist/7bvsCuLF2FR79zNzUbv18f) | [Brand New Morning](https://open.spotify.com/album/2Vc8eJZC4zLgIOLMOSRtWS) | 2:36 |
 | 59 | [This Time](https://open.spotify.com/track/1wMUAnJhrgVa2Q2CkMto4b) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [This Time](https://open.spotify.com/album/5ujq3EIdXLsz6TpXcsd7ze) | 2:13 |
 | 60 | [Anything But Me](https://open.spotify.com/track/32JZt8EmiioCGTU6UIXJ4E) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Anything But Me](https://open.spotify.com/album/3qeTo7DFj1P9dcBa92GrpX) | 3:33 |
-| 61 | [Lost In The Moment](https://open.spotify.com/track/3nF5FjUP4W0QBxW4JCyUoa) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Lost In The Moment](https://open.spotify.com/album/68WmmsPnVwG3ltUQaDY0JJ) | 2:33 |
+| 61 | [Lost In The Moment](https://open.spotify.com/track/3nF5FjUP4W0QBxW4JCyUoa) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Lost In The Moment](https://open.spotify.com/album/68WmmsPnVwG3ltUQaDY0JJ) | 0:29 |
 | 62 | [hate my favorite band](https://open.spotify.com/track/0skrS3ItclFdUYVZZeUy07) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [hate my favorite band](https://open.spotify.com/album/4BEWh8xe96dtjPyLZmxguE) | 2:54 |
 | 63 | [Room 421](https://open.spotify.com/track/4R4Ha6DCyGFP30FjWwrkZl) | [Holden Miller](https://open.spotify.com/artist/1SsWCyijEv548QDkKcclDG) | [Room 421](https://open.spotify.com/album/1ezYtPUMHwEnlcgGbkN7v1) | 2:40 |
 | 64 | [Killing Me](https://open.spotify.com/track/4NLrzQOSepUIR0MvqLxLZN) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/1XiXoTQLk4xjyZ4Dz4B4ob) | 2:45 |

@@ -4,7 +4,7 @@
 
 > Music from the ether to focus to.
 
-83 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/4H4DMjqQpBwmgjBZppzOqM)
+83 songs - 4 hr 44 min - [published](https://open.spotify.com/playlist/4H4DMjqQpBwmgjBZppzOqM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Bortom Träden](https://open.spotify.com/track/4CFlaEtdgeu4mFmnUApAyl) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [I Blomstertid](https://open.spotify.com/album/4tvdL8uzjualif8HIlf6ab) | 4:20 | 2022-03-30 |  |
 | [Breath Chant](https://open.spotify.com/track/47ThqmC48fODEuF38wRc5S) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Breath Chant](https://open.spotify.com/album/2jZBe7W5AvyT2iWPY4UOwV) | 3:50 | 2022-03-30 |  |
 | [Buckle Up](https://open.spotify.com/track/7t4gzANxF6BbappbpKzSxG) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [authenticity](https://open.spotify.com/album/0CdkSTJwCTIJRd2BgbPyct) | 3:11 | 2022-06-24 |  |
-| [Change Of Tides](https://open.spotify.com/track/1RsZcsLDGwVpkhgeoL75gE) | [Stories Seldom Told](https://open.spotify.com/artist/2Iyf4h2Mpja2cBl9HwEqo7) | [Change Of Tides](https://open.spotify.com/album/0ioaA2clUxqGSROCF1vo53) | 2:58 | 2022-03-30 |  |
+| [Change Of Tides](https://open.spotify.com/track/1RsZcsLDGwVpkhgeoL75gE) | [Stories Seldom Told](https://open.spotify.com/artist/2Iyf4h2Mpja2cBl9HwEqo7) | [Change Of Tides](https://open.spotify.com/album/0ioaA2clUxqGSROCF1vo53) | 0:29 | 2022-03-30 |  |
 | [Dakota](https://open.spotify.com/track/7pR7yPgbYcipmTUHT5g68p) | [Sheltered Solitude](https://open.spotify.com/artist/2DsYHbz0OEIGzYynekPLlB) | [Dakota](https://open.spotify.com/album/5bbSb8KsPnMFKrdbDIz6dL) | 2:10 | 2022-03-30 |  |
 | [Drops](https://open.spotify.com/track/1R8Nr8bahMl4LcE91nSUB8) | [Hollow Light](https://open.spotify.com/artist/0ANrW9wJEthapCrJsd4i4F) | [Drops](https://open.spotify.com/album/7ptUhLa9kHS0pKuG04CPXN) | 4:34 | 2022-03-30 |  |
 | [Estuarium](https://open.spotify.com/track/2ukibgP8lmxgYTHEqcdikz) | [The Eventide](https://open.spotify.com/artist/6jbL9UQUCzae8Vn3NcwQJ6) | [Estuarium](https://open.spotify.com/album/13M0hOUhKMTnKYH0AYFZiv) | 3:10 | 2022-03-30 |  |
@@ -37,7 +37,7 @@
 | [Horizons](https://open.spotify.com/track/53TsZT0ySAHpRJ8GClsekU) | [Hers Lake](https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA) | [Horizons](https://open.spotify.com/album/2JualanmCPX3pupSVgIMWZ) | 2:43 | 2022-03-30 |  |
 | [I'll Be Gone](https://open.spotify.com/track/5s0gxKFZCSQ6USPwKMdgUu) | [Smoky](https://open.spotify.com/artist/3y90MDsIV7MPY0MckhOOQg) | [It Sounds a Bit Like Heaven](https://open.spotify.com/album/3nPxg4CCoDJFNee7p29QZP) | 2:31 | 2022-05-19 |  |
 | [jubilance](https://open.spotify.com/track/4F21Bmd7GOjukwGjOUy67I) | [Däalo](https://open.spotify.com/artist/63MSacJKhcx4g646lJsDL7) | [Great Heights, Great Falls](https://open.spotify.com/album/4PQdI5zCwFWpV3D2exeGSl) | 2:42 | 2022-03-30 |  |
-| [Just An Unkind Time](https://open.spotify.com/track/7cmSGCMt0V9C3junM4m29v) | [Zelienople](https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY) | [Hold You Up](https://open.spotify.com/album/6Dd9ZLCztKoulxoSTGXBn4) | 5:02 | 2022-03-30 |  |
+| [Just An Unkind Time](https://open.spotify.com/track/7cmSGCMt0V9C3junM4m29v) | [Zelienople](https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY) | [Hold You Up](https://open.spotify.com/album/6Dd9ZLCztKoulxoSTGXBn4) | 0:29 | 2022-03-30 |  |
 | [Kindly Refrain](https://open.spotify.com/track/6Jk0CC8q4pwt6NGjOOxuPZ) | [Abstract Rose](https://open.spotify.com/artist/4rZFgAj9MDm0tr1vTChIVI) | [Kindly Refrain](https://open.spotify.com/album/4xRnIHpHuM0FEiWdyUyOcL) | 2:28 | 2022-03-30 |  |
 | [Les Paul Sanitarium](https://open.spotify.com/track/3HZOYhBlwuAVKO9wxT66B1) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XXI](https://open.spotify.com/album/2mIu9oDUCuMCdowK2ocHYt) | 1:57 | 2022-03-30 |  |
 | [line up](https://open.spotify.com/track/4RQFT3aZPjhuafwXNUnL6x) | [Golden Horses](https://open.spotify.com/artist/5MXNb6vuHgdZalR71LkKgd) | [line up](https://open.spotify.com/album/1FzTPoHFZ0QDthxwSHCBgl) | 2:25 | 2022-03-30 |  |
@@ -76,7 +76,7 @@
 | [The C In Certain](https://open.spotify.com/track/0ODPuMwahnYlaQpwgSnjtd) | [David Grubbs](https://open.spotify.com/artist/03XSVbjjgDX2hrw1VXlj87) | [Creep Mission](https://open.spotify.com/album/5OpO6CnNwj9uBUc3JaupAr) | 6:23 | 2022-03-30 |  |
 | [The Ghosts we keep Inside Ourselves](https://open.spotify.com/track/6yiPwfADSoJQ0k5to30gIi) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [High Peaks](https://open.spotify.com/album/6wpPhkeWCtVWAYZaAaRHTi) | 3:50 | 2022-05-19 |  |
 | [The Real Devil](https://open.spotify.com/track/4cbMi6XGtpDQ8GsBlKXkqv) | [Zelienople](https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY) | [The World Is A House On Fire](https://open.spotify.com/album/2AL66SHj3D8IZD6RrjHh2J) | 5:36 | 2022-03-30 |  |
-| [Thies](https://open.spotify.com/track/3RfjNVMgziqIzos59Vi586) | [Bottle of Stars](https://open.spotify.com/artist/0l5ciixkdvIhJVQFvkrejW) | [Thies](https://open.spotify.com/album/7omeZxsKnZeYzqe03dzWsc) | 3:16 | 2022-03-30 |  |
+| [Thies](https://open.spotify.com/track/3RfjNVMgziqIzos59Vi586) | [Bottle of Stars](https://open.spotify.com/artist/0l5ciixkdvIhJVQFvkrejW) | [Thies](https://open.spotify.com/album/7omeZxsKnZeYzqe03dzWsc) | 0:29 | 2022-03-30 |  |
 | [Thinking About Thinking](https://open.spotify.com/track/4wRESAxmq6EiKtouyOb2hC) | [Laura Groves](https://open.spotify.com/artist/680a4iDO5tGb0Mb3IIcrVz) | [Thinking About Thinking](https://open.spotify.com/album/7BF0FWt9cJIoWFpQ8j5IZG) | 4:09 | 2022-03-30 |  |
 | [Tomber Amoureux](https://open.spotify.com/track/0sTlmrgtj3om9MCoCFTzZm) | [Michael Szonja](https://open.spotify.com/artist/3gnRflW7ax20AhBEKnfrhF) | [Tomber Amoureux](https://open.spotify.com/album/1btvvbxQsUYmaXsRgZa0R4) | 2:20 | 2022-03-30 |  |
 | [Traversing](https://open.spotify.com/track/6zaIazO4IJN92brWslJ3TQ) | [Flood First](https://open.spotify.com/artist/73aValriFtRYc0K5EzFVpZ) | [Traversing](https://open.spotify.com/album/0diFPJv3sk4ChhKrDXCrsn) | 3:10 | 2022-03-30 |  |
@@ -84,7 +84,7 @@
 | [Two Apples Tied](https://open.spotify.com/track/1ItTDB7TfTu1mVlVgySaaN) | [Hatsu Rohn](https://open.spotify.com/artist/2tEnbkUIt07bVGpQS41Jbc) | [Two Apples Tied](https://open.spotify.com/album/0oOUD2er4J43BZIMlR2Fad) | 3:24 | 2022-03-30 |  |
 | [Undiscovered](https://open.spotify.com/track/6sZ06jEfwg6DjssHZeZhwe) | [Elementaries](https://open.spotify.com/artist/1kB8QJP6BXE8ezroP29Z5r) | [Undiscovered](https://open.spotify.com/album/5mjXT9jnJ8sBEH0hBGGywT) | 3:38 | 2022-03-30 |  |
 | [Up to Pizmo](https://open.spotify.com/track/2v2fB67bubipR2zP5zOO20) | [Labradford](https://open.spotify.com/artist/6vxqO8B12AXOoETpxVSgH0) | [Fixed:: Content](https://open.spotify.com/album/7h1WlPlMEcgicPHkkUzmkV) | 6:21 | 2022-03-30 |  |
-| [Variation](https://open.spotify.com/track/26ZFbwxjPlE04hOorbUWWk) | [Amplified Pieces](https://open.spotify.com/artist/3SkCH9mqHBodnNbNCIZKKI) | [Variation](https://open.spotify.com/album/4H5WDOqJRlOEwE05jFsxZs) | 3:31 | 2022-03-30 |  |
+| [Variation](https://open.spotify.com/track/26ZFbwxjPlE04hOorbUWWk) | [Amplified Pieces](https://open.spotify.com/artist/3SkCH9mqHBodnNbNCIZKKI) | [Variation](https://open.spotify.com/album/4H5WDOqJRlOEwE05jFsxZs) | 0:29 | 2022-03-30 |  |
 | [Water Colors](https://open.spotify.com/track/7rpGOF9MwCP2Oaz9yDO452) | [Star Slide](https://open.spotify.com/artist/4tWKagNv3bHsJoLYD7vO1m) | [Water Colors](https://open.spotify.com/album/272XJrGegiXcXC5rA3yzek) | 3:02 | 2022-03-30 |  |
 | [Western Wishes Intro](https://open.spotify.com/track/476KeGkyl75OZKcHqRZPvf) | [Boxhead Ensemble](https://open.spotify.com/artist/516tPEDcawc8UNGdFZmWZn) | [The Unseen Hand: Music for Documentary Film](https://open.spotify.com/album/3KHpM4lpSW949zzlf9TjPM) | 2:49 | 2022-03-30 |  |
 | [When we go](https://open.spotify.com/track/0AREwUN0iRNPjQxYGQf9BP) | [NYMK](https://open.spotify.com/artist/49kckQu5DktnBTpPlsJTDA) | [When we go](https://open.spotify.com/album/2Rrba97lDOHXALfvZSpRx7) | 3:27 | 2022-03-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 
 > From Joburg and Lagos..\. to Chicago\. Get lost in the electro and bass vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,115 likes - 70 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,193 likes - 70 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 | 38 | [Uvalo](https://open.spotify.com/track/6AWG94PiLOenHLjrBcctqE) | [Afro Brotherz](https://open.spotify.com/artist/183kSplc4KYDe6bMQghbwN), [Pixie L](https://open.spotify.com/artist/0JVP5fFbuXFm9e3YWWDcGk) | [The Lands, Pt\. 2](https://open.spotify.com/album/0k1iai1zN0id193FscCo70) | 6:36 |
 | 39 | [Lighthouse \(feat\. Da Capo & Sun\-El Musician\)](https://open.spotify.com/track/35qHKKZbmtFEjhlMTCymIn) | [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi), [Da Capo](https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9), [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6) | [Lighthouse \(feat\. Da Capo & Sun\-El Musician\)](https://open.spotify.com/album/0SJLsjE3ZDpYkwSXZ4IDLL) | 5:35 |
 | 40 | [24Seven \- Enoo Napa Remix](https://open.spotify.com/track/2eDSiPA2s9WPQwO7KvwXWe) | [Fka Mash](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq), [Fortune Shumba](https://open.spotify.com/artist/1rSf3cW8isRbjDrqPASrk3) | [24Seven Remixes](https://open.spotify.com/album/4XppKFrcjhme8obIrdPImQ) | 5:45 |
-| 41 | [Jaiva](https://open.spotify.com/track/12Ku1NS3BZXlaav5wxF7us) | [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Njelic](https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1) | [The Landlord](https://open.spotify.com/album/2OafnFHNqwbtUvIXesnSth) | 6:31 |
+| 41 | [Jaiva](https://open.spotify.com/track/12Ku1NS3BZXlaav5wxF7us) | [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Njelic](https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1) | [The Landlord](https://open.spotify.com/album/2OafnFHNqwbtUvIXesnSth) | 0:29 |
 | 42 | [I Did It \(Bum Bum\)](https://open.spotify.com/track/4CCBGUW3NnmrLKC661awnM) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ), [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x) | [I Did It \(Bum Bum\)](https://open.spotify.com/album/4m6MOPc6pbMx98u5Vn36rJ) | 3:43 |
 | 43 | [Out of Africa](https://open.spotify.com/track/7F9ilCsP3fM0hCggluGRcO) | [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG), [Candy Man](https://open.spotify.com/artist/6jeexjc4jgw4TN9Ql7Ccor) | [Out of Africa](https://open.spotify.com/album/7yLiwC4leVxILTgFXJfxYX) | 7:33 |
 | 44 | [Closer](https://open.spotify.com/track/7G4v7DqAAJTOu8PBtE1qsS) | [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Closer / Ma Vie Celeste](https://open.spotify.com/album/3mRuix6vGc5tDkZCao3LiJ) | 6:32 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 | 66 | [Trip Session](https://open.spotify.com/track/7rUIoOYx3ati9dCRWQdufx) | [Jay Music](https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi) | [Trip Session](https://open.spotify.com/album/3WQzxeVf6BkspkAR8FKkMA) | 6:56 |
 | 67 | [Faster](https://open.spotify.com/track/74N8lnMrguCPF0TRVLYG1t) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Faster](https://open.spotify.com/album/2EEZMFcpzSYOklnonD9p3p) | 4:00 |
 | 68 | [Sun Spot](https://open.spotify.com/track/2PFzW2TmpRuMkIRcwdb0hK) | [Gina Jeanz](https://open.spotify.com/artist/5Q7xprZSylNFMR77qUm5Iu), [Sio](https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh) | [Sun Spot](https://open.spotify.com/album/0dMANuJKGeHXJ6BsXd60jy) | 3:51 |
-| 69 | [Gijima](https://open.spotify.com/track/4Hmn7cV99LSZvSh2nqEqRX) | [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Murumba Pitch](https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4) | [The Landlord](https://open.spotify.com/album/2OafnFHNqwbtUvIXesnSth) | 6:02 |
+| 69 | [Gijima](https://open.spotify.com/track/4Hmn7cV99LSZvSh2nqEqRX) | [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Murumba Pitch](https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4) | [The Landlord](https://open.spotify.com/album/2OafnFHNqwbtUvIXesnSth) | 0:29 |
 | 70 | [Jamii Yetu \- Thandi Draai Rework](https://open.spotify.com/track/7zG9XZJft8wtIg4C1dVvOq) | [Msafiri Zawose](https://open.spotify.com/artist/11ouELfzx4OsUjTQNlOa8w), [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG) | [Paradise Reworks](https://open.spotify.com/album/1ToafUTjBO6JMd7YuwgGDE) | 5:26 |
 
 Snapshot ID: `MTY1NDI1OTY0OSwwMDAwMDEwNjAwMDAwMTgxMjk4ZjBkY2YwMDAwMDE3YzdmODhhMzIz`

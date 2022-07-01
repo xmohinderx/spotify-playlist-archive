@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 
 > <a href="https://open.spotify.com/track/20bNmfHntXFvYInCEQZYfp?si=e255ce242aff4eae">latte foam art, tiny pumpkins, fuzzy comfy socks</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,704 likes - 115 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,912 likes - 115 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 | 65 | [No Small Thing](https://open.spotify.com/track/2ZBbHe0eGsOopMXmEaqUT6) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [No Small Thing](https://open.spotify.com/album/2lT0SejUDTztqxLQtFPuzm) | 4:42 |
 | 66 | [October Skies](https://open.spotify.com/track/3JD5xfa8pgJi0AzdRCRETW) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/3thbkS5Ijz41mAbAOat7wc) | 3:43 |
 | 67 | [Say Yes](https://open.spotify.com/track/4nYxHYLezGh4WWuEEjIoPs) | [NIGHT FLIGHT](https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE) | [Say Yes](https://open.spotify.com/album/4R2L1qKpRFHkpFdDbJlgE2) | 2:21 |
-| 68 | [Dog Years](https://open.spotify.com/track/5RRNZFyOi17nTh2bPEKPtp) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Now That The Light Is Fading](https://open.spotify.com/album/16wZsyXQ463IYlrXyJnRfY) | 4:37 |
+| 68 | [Dog Years](https://open.spotify.com/track/5RRNZFyOi17nTh2bPEKPtp) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Now That The Light Is Fading](https://open.spotify.com/album/16wZsyXQ463IYlrXyJnRfY) | 0:29 |
 | 69 | [House](https://open.spotify.com/track/2ev06T7IoIBkBoowmKmoe8) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [House](https://open.spotify.com/album/5JkaAp3q8glruMSwkQpJCm) | 4:15 |
 | 70 | [Daydreamer](https://open.spotify.com/track/1JDcmlm0tzdGT1plxwFPzj) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Daydreamer](https://open.spotify.com/album/3uEBCBQYZpFXBmP5SxPfvj) | 4:44 |
 | 71 | [Trashfire](https://open.spotify.com/track/1s3QzfNw4sIhpw7H2bDYll) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb) | 2:51 |
@@ -116,12 +116,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 | 106 | [Never Sweeter](https://open.spotify.com/track/7DFmXlgtnTR91ytOQkMHSn) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [If That Makes Sense](https://open.spotify.com/album/1K2hRGWppL8Rq2viMVdiSI) | 4:04 |
 | 107 | [Beach Baby](https://open.spotify.com/track/7oRNU7Tmek0nm2lqyDojoG) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Blood Bank](https://open.spotify.com/album/5MjC805qLtwgqXH1c0kpjK) | 2:40 |
 | 108 | [Garden \- Secret Track](https://open.spotify.com/track/1g1gy3VFrHzc7UfXHrzeP7) | [Caoilfhionn Rose](https://open.spotify.com/artist/6YRqlhH88xZ7h2WOhwNYOb) | [Garden \(Secret Track\)](https://open.spotify.com/album/4d4OKNBrENh5TYu4LqRlwG) | 4:17 |
-| 109 | [Beige](https://open.spotify.com/track/0FfZudphGgQTGeEV6AhmOs) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/0tg6msTvhHx8glztrBii80) | 3:24 |
+| 109 | [Beige](https://open.spotify.com/track/0FfZudphGgQTGeEV6AhmOs) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/0tg6msTvhHx8glztrBii80) | 0:29 |
 | 110 | [Shiver](https://open.spotify.com/track/0Wv9Ckm088qsVkMKPH170C) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Like I Used To](https://open.spotify.com/album/2WYwG9H90bEhcHdyeUdA3h) | 3:53 |
 | 111 | [Autumn Town Leaves](https://open.spotify.com/track/6HbxpoChDH9ThadFOSAnma) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Weed Garden](https://open.spotify.com/album/7HsQnwEa1RXoPanfrRPbb3) | 3:15 |
 | 112 | [Amsterdam](https://open.spotify.com/track/7iQmjnDXYngWGsbjVnDc1U) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [The Weatherman](https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi) | 3:18 |
 | 113 | [Harvest Moon](https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Harvest Moon](https://open.spotify.com/album/0tdm853TNWjVVChbJRbu3Q) | 5:03 |
 | 114 | [Coffee Breath](https://open.spotify.com/track/28TkNtKHx6UnOZuoyv3Jzv) | [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Coffee Breath](https://open.spotify.com/album/6PLQWrmCo4IDIbfaIP2hAE) | 2:43 |
-| 115 | [For Good](https://open.spotify.com/track/2NywGeZ2cJl5G7SSEDRF3P) | [katie phelan](https://open.spotify.com/artist/7g4ZlfLhJhCxpaMPUH2PY4) | [For Good](https://open.spotify.com/album/2KimldDD1VuIayQTZV6svQ) | 3:18 |
+| 115 | [For Good](https://open.spotify.com/track/2NywGeZ2cJl5G7SSEDRF3P) | [katie phelan](https://open.spotify.com/artist/7g4ZlfLhJhCxpaMPUH2PY4) | [For Good](https://open.spotify.com/album/2KimldDD1VuIayQTZV6svQ) | 0:29 |
 
 Snapshot ID: `MTY1NTkwMjA2MywwMDAwMDAxODAwMDAwMTgxOGI3NDRjMTQwMDAwMDE3YjdlYTI5YzFh`

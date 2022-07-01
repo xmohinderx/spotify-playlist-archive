@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Calum Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,193 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,245 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 28 | [Give You Love](https://open.spotify.com/track/0H4yyuVRMIXT9hkDZMc6D6) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Give You Love](https://open.spotify.com/album/307eCZ5BF0wjOmE29qDiUj) | 2:53 |
 | 29 | [My Eyes Only](https://open.spotify.com/track/2iD1Ogu3Mck9MuMKIgIBVG) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [My Eyes Only](https://open.spotify.com/album/1VChtX56VENbyIyKw0NP19) | 3:14 |
 | 30 | [Fall In Love With A Girl \(feat\. Orla Gartland\)](https://open.spotify.com/track/3oDm8bWMqVw2Hn4R8nYwyZ) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Fall In Love With A Girl \(feat\. Orla Gartland\)](https://open.spotify.com/album/4rhuxHJsNJdATS6PHxMvQ6) | 2:48 |
-| 31 | [Hurting Way More Then It Should](https://open.spotify.com/track/704e7fHX0ultxmaKBiVftV) | [Coobie](https://open.spotify.com/artist/2AeSbZ0zUL5615vJFXtHsH) | [Hurting Way More Then It Should](https://open.spotify.com/album/3mcajlqoDHLWCZc6hbcfMM) | 2:56 |
+| 31 | [Hurting Way More Than It Should](https://open.spotify.com/track/704e7fHX0ultxmaKBiVftV) | [Coobie](https://open.spotify.com/artist/2AeSbZ0zUL5615vJFXtHsH) | [Hurting Way More Than It Should](https://open.spotify.com/album/3mcajlqoDHLWCZc6hbcfMM) | 2:56 |
 | 32 | [14](https://open.spotify.com/track/3kCYnvSwhSzYBD7fnDFhbY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [14](https://open.spotify.com/album/1XMoLibHe44yrlBxr77bWe) | 2:21 |
 | 33 | [I Wanted My Heart to Break](https://open.spotify.com/track/1XzBkGMqeenkz0x0ROXHZK) | [Tedy](https://open.spotify.com/artist/2Iyxo030DdKWKmhhEaS22p) | [I Wanted My Heart to Break](https://open.spotify.com/album/4cbuvR3gH9Uc02ao0hzzpG) | 3:47 |
 | 34 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 57 | [when you love someone](https://open.spotify.com/track/0Ffap6LkteIW5lFgFSCA7s) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [when you love someone](https://open.spotify.com/album/5ahDHlJGR7QCpjdeArIg98) | 2:53 |
 | 58 | [Cleopatra](https://open.spotify.com/track/4w83xAlenB5W4OHm4qqBrR) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [AM Gold](https://open.spotify.com/album/6mcsJ2NLsnTt6MnvXiDpjI) | 3:20 |
 | 59 | [This Kind Of Love](https://open.spotify.com/track/3QyyIBuuY8yXlGox5Bhh71) | [Chris Kläfford](https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1) | [This Kind Of Love](https://open.spotify.com/album/66DsYVnmcviZORiwGqCWls) | 3:17 |
-| 60 | [Strong](https://open.spotify.com/track/00nnzvRP1Nt3dzkUVFhuIQ) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Strong](https://open.spotify.com/album/4d91qyKEWqSefIIUYomXMe) | 3:19 |
+| 60 | [Strong](https://open.spotify.com/track/00nnzvRP1Nt3dzkUVFhuIQ) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Strong](https://open.spotify.com/album/4d91qyKEWqSefIIUYomXMe) | 0:29 |
 | 61 | [Crowded Room](https://open.spotify.com/track/08gruHjc8xpZkn9iBtehPo) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Crowded Room](https://open.spotify.com/album/5eY17uKHYXR9cb3ufRwIUm) | 3:28 |
 | 62 | [Flowers](https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Flowers](https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV) | 2:37 |
 | 63 | [idc](https://open.spotify.com/track/5vBHFYWu1KAAHYY5EfMl5u) | [Lili\-Ann De Francesco](https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA) | [idc](https://open.spotify.com/album/6I5dntjb6mH8XL0Afju0TL) | 3:26 |

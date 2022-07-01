@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Poland.
 
-721 songs - 1 day 13 hr 42 min - [published](https://open.spotify.com/playlist/5wOvQVaAfTjuYNJ4iSoX3S)
+721 songs - 1 day 13 hr 39 min - [published](https://open.spotify.com/playlist/5wOvQVaAfTjuYNJ4iSoX3S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@
 | [Holly Jolly Christmas](https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 1:59 | 2021-12-07 | 2021-12-27 |
 | [Huragan](https://open.spotify.com/track/07Av3mjaJZglOphEyYKA63) | [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [BeMelo](https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx) | [Huragan](https://open.spotify.com/album/6xKVlOL8stXITDhVZjQPDb) | 2:21 | 2022-05-06 | 2022-05-15 |
 | [Hurricane](https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:03 | 2021-08-31 | 2021-09-05 |
-| [I Ciebie też, bardzo \(feat\. Daria Zawiałow, Dawid Podsiadło & Vito Bambino\)](https://open.spotify.com/track/64F1Z2LAsf04V346A75hi1) | [Męskie Granie Orkiestra 2021](https://open.spotify.com/artist/5xoXMR6Y8PORwObvyND9ZE), [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx), [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [I Ciebie też, bardzo \(feat\. Daria Zawiałow, Dawid Podsiadło & Vito Bambino\)](https://open.spotify.com/album/01018kIpMNDTe0WrYornLN) | 3:29 | 2021-07-02 |  |
+| [I Ciebie też, bardzo \(feat\. Daria Zawiałow, Dawid Podsiadło & Vito Bambino\)](https://open.spotify.com/track/64F1Z2LAsf04V346A75hi1) | [Męskie Granie Orkiestra 2021](https://open.spotify.com/artist/5xoXMR6Y8PORwObvyND9ZE), [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx), [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [I Ciebie też, bardzo \(feat\. Daria Zawiałow, Dawid Podsiadło & Vito Bambino\)](https://open.spotify.com/album/01018kIpMNDTe0WrYornLN) | 0:29 | 2021-07-02 |  |
 | [I To Jest Fakt](https://open.spotify.com/track/1e5AS7EC7VnUo40me9YNwV) | [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd) | [PRODUKT47](https://open.spotify.com/album/2XfYRBRUaesCsBix9jYEwn) | 1:11 | 2022-06-11 | 2022-06-17 |
 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 | 2021-05-25 | 2021-10-23 |
 | [I'm Tired \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [I'm Tired \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu) | 3:07 | 2022-03-02 | 2022-03-04 |

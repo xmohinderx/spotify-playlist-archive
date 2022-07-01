@@ -4,7 +4,7 @@
 
 > This is R&B in Canada, elevate your aura\. Cover: Idman
 
-273 songs - 14 hr 10 min - [published](https://open.spotify.com/playlist/5Scr3kl4jdyMwylCsvsI3D)
+273 songs - 14 hr 4 min - [published](https://open.spotify.com/playlist/5Scr3kl4jdyMwylCsvsI3D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Burning Desire](https://open.spotify.com/track/3qpT9U1rM6FPbW7X3xogK4) | [Joe Gez](https://open.spotify.com/artist/7qVQ6lpoxUeAW4QKafkW6z) | [Burning Desire](https://open.spotify.com/album/4fuF6upvUdk2MhKLtL9x7b) | 2:52 | 2022-04-15 |  |
 | [Bé Bé](https://open.spotify.com/track/3oz2KZeJsrqHpEpcroZs9e) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Why Not?](https://open.spotify.com/album/0RhPi7Bz28OoKKJnnOndPe) | 2:50 | 2022-05-20 |  |
 | [Call Me](https://open.spotify.com/track/2zBTEnCCnHUn0MnxgqHWm3) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [Call Me](https://open.spotify.com/album/07tCJvbsdpc1p38iHxcHyb) | 3:06 | 2022-06-24 |  |
-| [Can't Help Myself](https://open.spotify.com/track/6QlWVgJiRRC6IbaW6TSmwB) | [Eric Zayne](https://open.spotify.com/artist/5HMNsIi6AQplZELW9jeLjd) | [Can't Help Myself](https://open.spotify.com/album/14zKEx62p2QYnFb8gyP7qJ) | 3:56 | 2022-04-29 |  |
+| [Can't Help Myself](https://open.spotify.com/track/6QlWVgJiRRC6IbaW6TSmwB) | [Eric Zayne](https://open.spotify.com/artist/5HMNsIi6AQplZELW9jeLjd) | [Can't Help Myself](https://open.spotify.com/album/14zKEx62p2QYnFb8gyP7qJ) | 0:29 | 2022-04-29 |  |
 | [Can't Wait](https://open.spotify.com/track/6P8PBbcXeIBxoThtF8yq38) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [Can't Wait](https://open.spotify.com/album/29UTEWJkBTdpIMCrXH8x4N) | 3:27 | 2022-02-18 | 2022-04-29 |
 | [careless \(feat\. daniel caesar\)](https://open.spotify.com/track/3xqtvSfofDvSMVwwSbuvKi) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:36 | 2022-02-18 | 2022-04-23 |
 | [CATCH 22](https://open.spotify.com/track/61eEF4qIHhrJsE8CF1R5kX) | [Maky Lavender](https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6) | [CATCH 22](https://open.spotify.com/album/4XeMqeZz3kJPowaqMMB1uo) | 1:35 | 2022-04-15 | 2022-04-29 |
@@ -94,7 +94,7 @@
 | [Good Vibe](https://open.spotify.com/track/4MYXbphr2Scdue1gPacgWz) | [Anglesh Major](https://open.spotify.com/artist/694TqKBJmHyxenLH517cwZ) | [Ephemere](https://open.spotify.com/album/1CYqUHOrM4xOlysWVtqqRl) | 3:15 | 2022-02-18 | 2022-03-12 |
 | [Green Line](https://open.spotify.com/track/5Ebu0lwiMFhempIKg1GUAk) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Green Line](https://open.spotify.com/album/4pZN0JVoQx3ikvl6qGzUH6) | 3:26 | 2022-02-18 | 2022-02-26 |
 | [Gucci, Chanel](https://open.spotify.com/track/15HDG2RFHASg5citb8CGqN) | [Réejo](https://open.spotify.com/artist/0NATGrD6MxqX3q23GqnW0k) | [Gucci, Chanel](https://open.spotify.com/album/0qoC5fTTM48wh4MSzAsFgY) | 2:13 | 2022-03-11 | 2022-04-23 |
-| [Half Empty](https://open.spotify.com/track/5P9r8VUZIn92AsTqe95nbW) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Half Empty](https://open.spotify.com/album/1RRvzs9YEYGWCunuLpZ3gH) | 3:24 | 2022-05-27 |  |
+| [Half Empty](https://open.spotify.com/track/5P9r8VUZIn92AsTqe95nbW) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Half Empty](https://open.spotify.com/album/1RRvzs9YEYGWCunuLpZ3gH) | 0:29 | 2022-05-27 |  |
 | [Happy Heartbreak](https://open.spotify.com/track/3s1E5JTTz4Ev3wKPC26Lsm) | [Jay Isaiah](https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs) | [Happy Heartbreak](https://open.spotify.com/album/3ZUSPwbEdJoFRAllsesAv0) | 3:43 | 2022-02-18 | 2022-02-26 |
 | [Happy With Me](https://open.spotify.com/track/5c26M7Mc2XFzvR1gBOJcIP) | [Sara Diamond](https://open.spotify.com/artist/4azg4dtpH6PiewGHFzQEj0) | [Happy With Me](https://open.spotify.com/album/49Xy2MqV2IrfFEOiq8lOaG) | 2:24 | 2022-05-20 | 2022-06-01 |
 | [Hate Me Less](https://open.spotify.com/track/3AMKbaH2FrFN05YrkNdptz) | [DONATO](https://open.spotify.com/artist/42kyhJvRS0AbklBdzFLnZy) | [Hate Me Less](https://open.spotify.com/album/41pZJOc1kTt7UwZfqonIjk) | 2:33 | 2022-02-18 | 2022-05-14 |

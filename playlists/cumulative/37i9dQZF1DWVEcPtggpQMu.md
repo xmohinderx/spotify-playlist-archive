@@ -4,7 +4,7 @@
 
 > Only the hottest in South African Hip Hop and R&B\. Cover: <a href="https://open.spotify.com/artist/4SEe2uJQ5IIJvpyTbtIfAE?si=YDtypf\_iQ2KM0vD5dMKglw">Sgi\_Magalela</a>
 
-266 songs - 14 hr 5 min - [published](https://open.spotify.com/playlist/0xTC98cyXGkNifzFqwccaX)
+266 songs - 14 hr 1 min - [published](https://open.spotify.com/playlist/0xTC98cyXGkNifzFqwccaX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,7 +252,7 @@
 | [Tsako Pitori](https://open.spotify.com/track/0zdxXkvvpDc0oRhnjGZZr0) | [SpaceSaveLogic](https://open.spotify.com/artist/7FZiXDxXiyNiCIhcjtC3Rm) | [Tsako Pitori](https://open.spotify.com/album/6TNk9eoTSwbYTkFaTQZLRf) | 2:41 | 2022-05-12 |  |
 | [TSIBIRATSE](https://open.spotify.com/track/4EOt7zuCBZnFsvSegcrF91) | [ZOO\_KEY](https://open.spotify.com/artist/3DH2ohwhSJKuVhCyj7vAsj), [Lutherbrax](https://open.spotify.com/artist/2x3fizZIoXLb1TyRKzt6Lu) | [TSIBIRATSE](https://open.spotify.com/album/1evR2DDFsopiXwkDlBdmYq) | 2:32 | 2022-02-03 | 2022-02-11 |
 | [u$e to it](https://open.spotify.com/track/5CC7cnNlssweF2jAQDfR6g) | [Bryan Cheru](https://open.spotify.com/artist/7lCzTXOAcnqLYNZM3xxBfo), [DazeOnEast](https://open.spotify.com/artist/37kYLWfV9dJ9l0nmWTqVJN) | [u$e to it](https://open.spotify.com/album/6kQe2nYuGYuBbBhnabH6uW) | 2:46 | 2022-04-14 | 2022-05-06 |
-| [umoya](https://open.spotify.com/track/5Mg5kfEzI7stnjNoXHyaUC) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [4LUV](https://open.spotify.com/album/2SGGNsEIuL5zM0NHiO5dBd) | 4:31 | 2022-02-17 |  |
+| [umoya](https://open.spotify.com/track/5Mg5kfEzI7stnjNoXHyaUC) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [4LUV](https://open.spotify.com/album/2SGGNsEIuL5zM0NHiO5dBd) | 0:29 | 2022-02-17 |  |
 | [Up To](https://open.spotify.com/track/4iY5WNI5CnUO47RJdiRGKO) | [J Molley](https://open.spotify.com/artist/4Wgns8lkTyqv4k2SH3Zc6T) | [Up To](https://open.spotify.com/album/6t2NIsHHQv1dSYgXCJsCwY) | 3:46 | 2022-02-10 | 2022-03-18 |
 | [Uthando Alupheli](https://open.spotify.com/track/5EGW1DZkM5AMjaZEZuYfOI) | [031Choppa](https://open.spotify.com/artist/2bGBeEA63lBcVdS9PpmESJ) | [Oncamnce Vol.2](https://open.spotify.com/album/29RMsBs8PArJy2NSENTphv) | 2:11 | 2022-02-17 | 2022-02-25 |
 | [Uthando To The T](https://open.spotify.com/track/3ZRBAl7ykKZtSFGlMXewp7) | [Okmalumkoolkat](https://open.spotify.com/artist/0CaeXDVwH52TDLA0GLRo4f), [Debra Nist](https://open.spotify.com/artist/1vsudt2lY3JLZQ540M2ffW) | [Uthando To The T](https://open.spotify.com/album/7oVOB22JvXm6FCZGj6FMxS) | 5:15 | 2022-02-03 |  |

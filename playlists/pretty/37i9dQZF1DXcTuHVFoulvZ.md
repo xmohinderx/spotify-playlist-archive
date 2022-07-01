@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTuHVFoulvZ.md) - [plain]
 
 > Le meilleur du hip\-hop québécois en 2021: les choix de notre équipe éditoriale. Photo: Lost
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,677 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,687 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTuHVFoulvZ.md) - [plain]
 | 25 | [Sous les étoiles](https://open.spotify.com/track/2kkkIDj5jtz0Owk7FbLH7d) | [Gnino](https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H) | [Sous les étoiles](https://open.spotify.com/album/2ww313PwiVn6jHoWG4Z8yb) | 3:24 |
 | 26 | [POWA](https://open.spotify.com/track/663bEzp9AqRYRu6El75zat) | [Les Fourmis](https://open.spotify.com/artist/6MU6nuCI2Sw7gDhcN0Kie1), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Don Bruce](https://open.spotify.com/artist/0QYiwxs5jjezuZ8fMXPHia), [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [AG Kone](https://open.spotify.com/artist/69MNJSQ5jYSmYDrQwURImA), [Gary Légaré](https://open.spotify.com/artist/0tZe6r9JhHERezk2nVGFGf) | [VOLUME : Nuit](https://open.spotify.com/album/6h0VpErsCdTGbIGhMM4htX) | 3:16 |
 | 27 | [Avalon](https://open.spotify.com/track/5WP7fIhGPXgf4bx4uipzAr) | [JuicemanSF](https://open.spotify.com/artist/7lmOPad5dsOfryNQB2sDay), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [STILL 24](https://open.spotify.com/album/7JjSXuEKJREw2zDwI3iOb7) | 2:51 |
-| 28 | [Drug Factory](https://open.spotify.com/track/25cwy0Ze40gkeX7y2xUEPC) | [YH](https://open.spotify.com/artist/3js5jvTuoFgetWV7s8EVT5) | [Phenomeno](https://open.spotify.com/album/4SsBxJSyfnuFY7J5uJWePw) | 3:28 |
+| 28 | [Drug Factory](https://open.spotify.com/track/25cwy0Ze40gkeX7y2xUEPC) | [YH](https://open.spotify.com/artist/3js5jvTuoFgetWV7s8EVT5) | [Phenomeno](https://open.spotify.com/album/4SsBxJSyfnuFY7J5uJWePw) | 0:29 |
 | 29 | [I Know](https://open.spotify.com/track/50eGTKo7td8i5PCNkPCmWO) | [20Some](https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ) | [Home Run](https://open.spotify.com/album/2r4bTB0FAzdzUakL7yopqV) | 4:10 |
 | 30 | [Air Ali \- Remix](https://open.spotify.com/track/3x56yZUaE8cWSXChC4l55e) | [NAYA ALI](https://open.spotify.com/artist/6xsuPHpz2MgwF8OhEc9ScC), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o) | [Air Ali \(Remix\)](https://open.spotify.com/album/3Bt25kY3j7ZOcTVM20pqSz) | 3:12 |
 | 31 | [Moiman](https://open.spotify.com/track/3uQbNWn5nANXbkw9HfBZwz) | [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [Kodakludo](https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ) | [Les Gradins](https://open.spotify.com/album/4gRjWLWLsBAaIwx2XpfCQL) | 3:30 |

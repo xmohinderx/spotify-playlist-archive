@@ -156,6 +156,24 @@
     },
     {
       "album": {
+        "name": "Piano and Strings",
+        "url": "https://open.spotify.com/album/6L20li4JZ6jmRfwwts9CO4"
+      },
+      "artists": [
+        {
+          "name": "Daniel Ketchum",
+          "url": "https://open.spotify.com/artist/6TwhBnzSvGRJBC9obv73uz"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146307,
+      "name": "Deasyn Moira (Piano and Strings)",
+      "url": "https://open.spotify.com/track/0ebRVAx7crlZr9lkXK4cm3"
+    },
+    {
+      "album": {
         "name": "Deep Forest (Strings Version)",
         "url": "https://open.spotify.com/album/436RU3hjPms95JzFFDXPma"
       },
@@ -311,7 +329,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 170000,
       "name": "Forever Yours",
       "url": "https://open.spotify.com/track/2nWSjphOxjauRxeR1siMMU"
@@ -856,6 +874,24 @@
     },
     {
       "album": {
+        "name": "Ser A Ti",
+        "url": "https://open.spotify.com/album/0nC9dugAMHACUJQ6GSTZFB"
+      },
+      "artists": [
+        {
+          "name": "Hondos Rostros",
+          "url": "https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214687,
+      "name": "Ser A Ti",
+      "url": "https://open.spotify.com/track/6rDxnznYVvGb0vFkgsBmmE"
+    },
+    {
+      "album": {
         "name": "Sentient",
         "url": "https://open.spotify.com/album/0tAguXAg4RwGUtle2ngQaQ"
       },
@@ -944,7 +980,7 @@
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 144242,
+      "duration_ms": 29048,
       "name": "Sugarcane",
       "url": "https://open.spotify.com/track/7G3IcyTXBdeyDNCc25GSVV"
     },
@@ -1070,7 +1106,7 @@
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 60721,
+      "duration_ms": 29048,
       "name": "Three Pointer",
       "url": "https://open.spotify.com/track/1gUHSxsrCohFFQC8zuI1Cv"
     },

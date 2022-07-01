@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 
 > Back to the golden age of emo\. Cover: Thursday
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,978 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,081 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 24 | [Code Red](https://open.spotify.com/track/3Y82AcAH1o2NW04YYLXBZK) | [The Casket Lottery](https://open.spotify.com/artist/3kSqc2brwAF1kWRFWYe2fW) | [Survival is for Cowards](https://open.spotify.com/album/4t3CkrmaiYODMKPQ4h0wQa) | 4:43 |
 | 25 | [Venus and Bacchus](https://open.spotify.com/track/10G4c1yAJymTIKTvPYP2Pm) | [Saetia](https://open.spotify.com/artist/5piONaqFh85tIjxSQgZuWA) | [Collected](https://open.spotify.com/album/63tBBmuRFk2tTIF4AeffOU) | 3:19 |
 | 26 | [Breakfast Of Champions](https://open.spotify.com/track/7fYabANyBAwb9TcUxvTQ0s) | [Rainer Maria](https://open.spotify.com/artist/5OUVzPFZebtoZFs85MIQpz) | [Look Now Look Again](https://open.spotify.com/album/56YkqH5Vv03PAeMzcuQzoQ) | 3:37 |
-| 27 | [The Scars to Prove It](https://open.spotify.com/track/1B6gt0Nvi3XmGvGrrdADkm) | [The Jazz June](https://open.spotify.com/artist/71jiZJ6LUwYWXihX80dZD0) | [The Medicine](https://open.spotify.com/album/4EryTp8PVe5XFM9wrIw26m) | 4:04 |
+| 27 | [The Scars to Prove It](https://open.spotify.com/track/1B6gt0Nvi3XmGvGrrdADkm) | [The Jazz June](https://open.spotify.com/artist/71jiZJ6LUwYWXihX80dZD0) | [The Medicine](https://open.spotify.com/album/4EryTp8PVe5XFM9wrIw26m) | 0:29 |
 | 28 | [Grace Kelly With Wings](https://open.spotify.com/track/3LTwneFzQwPFSI1O8QfNXf) | [Piebald](https://open.spotify.com/artist/4rOGGTXaYygtFIHsPgLKJv) | [If It Weren’t for Venetian Blinds, It Would Be Curtains for Us All](https://open.spotify.com/album/0VrUE9XpB5OBnvRewc0Aq0) | 5:25 |
-| 29 | [Golden Brown](https://open.spotify.com/track/74qgrn0YAo3cgRcH4xQBsA) | [Drive Like Jehu](https://open.spotify.com/artist/7FbdCzKUwoZs1v9bCl43Ev) | [Yank Crime](https://open.spotify.com/album/7AHbaRIYnilUwe981nZpmi) | 3:14 |
+| 29 | [Golden Brown](https://open.spotify.com/track/74qgrn0YAo3cgRcH4xQBsA) | [Drive Like Jehu](https://open.spotify.com/artist/7FbdCzKUwoZs1v9bCl43Ev) | [Yank Crime](https://open.spotify.com/album/7AHbaRIYnilUwe981nZpmi) | 0:29 |
 | 30 | [Calm Americans](https://open.spotify.com/track/5rH5kb3vapjDifLxgK3P4Q) | [Elliott](https://open.spotify.com/artist/6KkOfCQtoMpjS2qYgDxmHI) | [False Cathedrals](https://open.spotify.com/album/6s2VrdrRwXXB1kr6RcrKfv) | 4:25 |
 | 31 | [Caught in a Flood With the Captain of the Cheerleading Squad](https://open.spotify.com/track/3HlL9LqIdf1v4C3BIK9dQA) | [I Hate Myself](https://open.spotify.com/artist/5m858bXqt99f2hWD72hySB) | [Ten Songs](https://open.spotify.com/album/3jLWGkPi9b5xbrrFaQIpzH) | 3:26 |
 | 32 | [Songbird](https://open.spotify.com/track/2gupkqB7ID1d4x1aXXSWIM) | [Engine Down](https://open.spotify.com/artist/3y2Ft6gr35tMVtH2SKYIac) | [Demure](https://open.spotify.com/album/0tQYFiRlfKm5Cav5tzzVqG) | 5:27 |

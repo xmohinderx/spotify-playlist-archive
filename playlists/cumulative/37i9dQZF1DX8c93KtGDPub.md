@@ -4,7 +4,7 @@
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-157 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/7FfL6kxJ46PiydiUpSfDYM)
+157 songs - 9 hr 13 min - [published](https://open.spotify.com/playlist/7FfL6kxJ46PiydiUpSfDYM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Go Tell It on a Mountain](https://open.spotify.com/track/5Ra5c3HCBqTbGED1Baj4KS) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [A Neighborly Christmas](https://open.spotify.com/album/0ajvkNhkYG7yGdq0iQP4Z2) | 3:17 | 2021-12-24 |  |
 | [Gone for Christmas \(feat\. The McCrary Sisters\)](https://open.spotify.com/track/51oXLrYEtJM9nwOXPoDNJ3) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN), [The McCrary Sisters](https://open.spotify.com/artist/2YXGrg4YP1eBA4bLPTP5lq) | [Gone for Christmas \(feat\. The McCrary Sisters\)](https://open.spotify.com/album/4SP3WFjlFzR1cXNADBHCbZ) | 3:52 | 2021-12-24 |  |
 | [Goodbye England \(Covered In Snow\)](https://open.spotify.com/track/4rFBPLritEDq6XE93cNxtT) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [I Speak Because I Can](https://open.spotify.com/album/10n9G3FTHGbaz8QchmGXmR) | 3:45 | 2021-12-24 |  |
-| [Grace](https://open.spotify.com/track/2TESHzTfZn6rl9988rnTG7) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [O Come All Ye Faithful](https://open.spotify.com/album/6TdRrPQiLtwEokNNHxiviI) | 3:41 | 2021-12-24 |  |
+| [Grace](https://open.spotify.com/track/2TESHzTfZn6rl9988rnTG7) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [O Come All Ye Faithful](https://open.spotify.com/album/6TdRrPQiLtwEokNNHxiviI) | 0:29 | 2021-12-24 |  |
 | [Green Grows The Holly](https://open.spotify.com/track/5P0cZ3i8YB7DFbVLXuuPeL) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 3:59 | 2021-12-24 |  |
 | [Greensleeves](https://open.spotify.com/track/6Qt2tW5zWdC9Wc5c7HXTCR) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Sings Greensleeves](https://open.spotify.com/album/2bRH1onU8KyuvyIddm9snZ) | 1:22 | 2021-12-24 |  |
 | [Hang a String of Lights](https://open.spotify.com/track/57sCC8Igwgq174nkBYqcMF) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Isn't This World Enough?? A Nettwerk Christmas](https://open.spotify.com/album/3o2aareSZ1ku3Sw0BCixcT) | 2:54 | 2021-12-24 |  |
@@ -136,7 +136,7 @@
 | [Songs for the Angels](https://open.spotify.com/track/6mNrNhAqFSzQxDldRilzMh) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Folk & Proud](https://open.spotify.com/album/5hR6eNfAo8Y0tHf8xpIrHU) | 5:18 | 2021-12-24 |  |
 | [Star Star \(Live\)](https://open.spotify.com/track/18YH3E7x91v6AC3lhGiolf) | [The Swell Season](https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074) | [Strict Joy \[Deluxe Edition\]](https://open.spotify.com/album/5dA8EHydNLWo29675jA2cj) | 9:49 | 2021-12-24 |  |
 | [Take Me Back to Toyland](https://open.spotify.com/track/5wfE9rKR5wzf0YawGIQIom) | [Grant\-Lee Phillips](https://open.spotify.com/artist/65xy6loxYxKy3M9uiRHzLv) | [Yuletide](https://open.spotify.com/album/2iL1q6nfD9mCuxNB0ovhaA) | 2:05 | 2021-12-24 |  |
-| [That Christmasy Feeling](https://open.spotify.com/track/7dJuHrYrSeqCDaGgordYhl) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Tommy Cash](https://open.spotify.com/artist/4BzpR8p9ihgMQBHZ1fYNlR) | [The Classic Christmas Album](https://open.spotify.com/album/0oVkzRJmRZ3cIdvKAxZc6U) | 2:13 | 2021-12-24 |  |
+| [That Christmasy Feeling](https://open.spotify.com/track/7dJuHrYrSeqCDaGgordYhl) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Tommy Cash](https://open.spotify.com/artist/4BzpR8p9ihgMQBHZ1fYNlR) | [The Classic Christmas Album](https://open.spotify.com/album/0oVkzRJmRZ3cIdvKAxZc6U) | 0:29 | 2021-12-24 |  |
 | [The Blizzard](https://open.spotify.com/track/1KKhlceVUkfqqtpAJmAtmy) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [The Blizzard](https://open.spotify.com/album/13pEnTBkpAE5S8Y2uZextr) | 4:14 | 2021-12-24 |  |
 | [The Brightest Star](https://open.spotify.com/track/40qglXyFrw1Nar0beLlzJQ) | [Jim Avett](https://open.spotify.com/artist/1Pv7Pz9LKcQBJUDCgJHVwA) | [My Favorite Gifts \- Christmas Album](https://open.spotify.com/album/1vp1t3L2xcRoCz9HuFJSDN) | 4:14 | 2021-12-24 |  |
 | [The Christmas Song](https://open.spotify.com/track/2Ce03QU0b8QO5tQ71Tx61R) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Happier New Year / The Christmas Song](https://open.spotify.com/album/67xMVShPvIgH18AdCP6OCx) | 3:09 | 2021-12-24 |  |

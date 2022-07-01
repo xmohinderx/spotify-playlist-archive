@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Lagu-lagu yang terbaik di Malaysia. Cover: Keisya Levronka",
+  "description": "Lagu-lagu yang terbaik di Malaysia. Cover: Nuha Bahrin, Naufal Azrin",
   "name": "Carta Malaysia 50",
   "published_playlist_ids": [
     "3xlZYnrJUmenJqfRqm85Z9"
@@ -189,6 +189,28 @@
       "duration_ms": 240800,
       "name": "Bukan Milikmu",
       "url": "https://open.spotify.com/track/7ng6S2AgkeiTUQxqt144Oh"
+    },
+    {
+      "album": {
+        "name": "CASABLANCA",
+        "url": "https://open.spotify.com/album/79q2SC1pSKJ5feP5NfKGaU"
+      },
+      "artists": [
+        {
+          "name": "Nuha Bahrin",
+          "url": "https://open.spotify.com/artist/23t2TA28fx4549a1P0Nl65"
+        },
+        {
+          "name": "Naufal Azrin",
+          "url": "https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180047,
+      "name": "CASABLANCA",
+      "url": "https://open.spotify.com/track/7gvhpn0qGA0r3GDqrPnmhD"
     },
     {
       "album": {

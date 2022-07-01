@@ -1324,6 +1324,24 @@
     },
     {
       "album": {
+        "name": "BLUE CHEESE",
+        "url": "https://open.spotify.com/album/7cc4vxxrzIdT43dabK291s"
+      },
+      "artists": [
+        {
+          "name": "La Rosy",
+          "url": "https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154634,
+      "name": "BLUE CHEESE",
+      "url": "https://open.spotify.com/track/4wNOwxVpjmOUJM9Rf8wybr"
+    },
+    {
+      "album": {
         "name": "BNY & CLD",
         "url": "https://open.spotify.com/album/6zPuULnz6YcgB3a3pbSz2c"
       },
@@ -2812,7 +2830,7 @@
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 164400,
+      "duration_ms": 29048,
       "name": "fuego (feat. GABIFUEGO) - Spotify Studio 100 Recording",
       "url": "https://open.spotify.com/track/2hYNimCc8MwLGMzCZI4IfR"
     },
@@ -3083,6 +3101,24 @@
       "duration_ms": 178064,
       "name": "GET THE POINT",
       "url": "https://open.spotify.com/track/3CgP1CxtvZgIYomCNuP5jG"
+    },
+    {
+      "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/3kKGQwZiuURqq8d4eNkPHV"
+      },
+      "artists": [
+        {
+          "name": "Sickan",
+          "url": "https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/4pfbgKqJhmEdS2c4m1P4XI"
     },
     {
       "album": {
@@ -4134,6 +4170,24 @@
     },
     {
       "album": {
+        "name": "Jaw",
+        "url": "https://open.spotify.com/album/38RJf1UrjwYBo0mLqCOghv"
+      },
+      "artists": [
+        {
+          "name": "Awave",
+          "url": "https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Jaw",
+      "url": "https://open.spotify.com/track/3WD46C6wIMtBYIhHRK7AVw"
+    },
+    {
+      "album": {
         "name": "Allt jag har",
         "url": "https://open.spotify.com/album/2lC2Ikke3js0INuXJdoKt2"
       },
@@ -4416,6 +4470,24 @@
     },
     {
       "album": {
+        "name": "Kolla p\u00e5 mig nu",
+        "url": "https://open.spotify.com/album/6YtP6YoL5XrHoGdnxuFjc7"
+      },
+      "artists": [
+        {
+          "name": "Yousef",
+          "url": "https://open.spotify.com/artist/6QqjrHPQjqUa9TJLJpihly"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Kolla p\u00e5 mig nu",
+      "url": "https://open.spotify.com/track/5wGxkWz2qIJVnDdtocTtOI"
+    },
+    {
+      "album": {
         "name": "Komet",
         "url": "https://open.spotify.com/album/44kPGfkP0V0RN6R2mbQvr9"
       },
@@ -4431,6 +4503,24 @@
       "duration_ms": 211653,
       "name": "Komet",
       "url": "https://open.spotify.com/track/4rJBqziHSgtUyij65GFqJU"
+    },
+    {
+      "album": {
+        "name": "Komiskt",
+        "url": "https://open.spotify.com/album/33atqIQfIS3BWgbELL08O4"
+      },
+      "artists": [
+        {
+          "name": "Fridlyst",
+          "url": "https://open.spotify.com/artist/3JNEVqwIPrDatUMQ2qigvt"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212934,
+      "name": "Komiskt",
+      "url": "https://open.spotify.com/track/4T4FeNSRQDThTuASGFfMHu"
     },
     {
       "album": {
@@ -4965,7 +5055,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 163456,
       "name": "Luren Ringer",
       "url": "https://open.spotify.com/track/0v2QSjQGCeh6fozvygeGpP"
@@ -5922,6 +6012,28 @@
     },
     {
       "album": {
+        "name": "ON FIRE (feat. Ricky Rich)",
+        "url": "https://open.spotify.com/album/5ru2XlTYvPMrtxEq05KMGQ"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Ricky Rich",
+          "url": "https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183500,
+      "name": "ON FIRE (feat. Ricky Rich)",
+      "url": "https://open.spotify.com/track/63oIpOHmjQ41v3bCJ8Ewl2"
+    },
+    {
+      "album": {
         "name": "Drillogi 2",
         "url": "https://open.spotify.com/album/2Vb6P90zzl0ex09Vb5H9oS"
       },
@@ -6497,7 +6609,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 146400,
       "name": "Problems",
       "url": "https://open.spotify.com/track/3J6fjDQPuY5obplupYeGKT"
@@ -7129,7 +7241,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 210000,
       "name": "sn\u00e4ll & insane (bonus track)",
       "url": "https://open.spotify.com/track/73wLXg27NzZXJb2qjpEWY2"
@@ -7369,6 +7481,28 @@
       "duration_ms": 128417,
       "name": "Stockholm City",
       "url": "https://open.spotify.com/track/1QRdHnv5rjDtPy1TqiOjAn"
+    },
+    {
+      "album": {
+        "name": "Stora",
+        "url": "https://open.spotify.com/album/6foQbx3LaUmzadciF2ll31"
+      },
+      "artists": [
+        {
+          "name": "Saliboy",
+          "url": "https://open.spotify.com/artist/5im4dgusFQfg3u2UGPYvEF"
+        },
+        {
+          "name": "Romeo",
+          "url": "https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156013,
+      "name": "Stora",
+      "url": "https://open.spotify.com/track/7vdBhdrc3ebhD0uPJrTaHH"
     },
     {
       "album": {
@@ -7765,7 +7899,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 163773,
       "name": "Team 2 much",
       "url": "https://open.spotify.com/track/7bSN1NwVdOTVNUKuwzj6ev"
@@ -8031,7 +8165,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 161095,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/3MzstfXCjDmSW0rRLUxEIy"
@@ -8529,10 +8663,28 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 143624,
       "name": "Versailles",
       "url": "https://open.spotify.com/track/2eJLHBo8Jlh0bbrY6b3S4M"
+    },
+    {
+      "album": {
+        "name": "Vidare",
+        "url": "https://open.spotify.com/album/44pixg7S5zZibeAZzCzmkO"
+      },
+      "artists": [
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159570,
+      "name": "Vidare",
+      "url": "https://open.spotify.com/track/6ENpYA1F7bnLlJvN0bEJR3"
     },
     {
       "album": {
@@ -8665,7 +8817,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 144000,
       "name": "WAR",
       "url": "https://open.spotify.com/track/1xFc5OLL1moZyHv2Zmp8wX"
@@ -8767,7 +8919,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 120000,
       "name": "Winning",
       "url": "https://open.spotify.com/track/6BPksZKJ3YKACbkgpFJYEe"

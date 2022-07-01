@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 
 > Scary monsters and filthy drops.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,085 likes - 77 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,087 likes - 77 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 | 23 | [Save My Grave](https://open.spotify.com/track/3SmytDq4CeZ3nKE9777qEx) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [We Are Deadbeats \(Vol\. 4\)](https://open.spotify.com/album/0M5oUKrfgJtfZUKdFsC4VZ) | 3:42 |
 | 24 | [Got The Blood](https://open.spotify.com/track/0CBfZAFMdQ7gEXIGUjAU8k) | [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [shYbeast](https://open.spotify.com/artist/3J2VNcCwzeJXNFu40evXPE) | [Got The Blood](https://open.spotify.com/album/5gMaxtk07NkQ41etdnmPx9) | 3:30 |
 | 25 | [Someone Else \- PEEKABOO Remix](https://open.spotify.com/track/1qDOI487GoDlWyvzckhzo4) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [Someone Else \(PEEKABOO Remix\)](https://open.spotify.com/album/1CxrLWDUvfOaKHNsKGfUQ1) | 4:16 |
-| 26 | [Scary Monsters](https://open.spotify.com/track/7o5BIeXbEwBSfSCfjdlyQF) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Scary Monsters](https://open.spotify.com/album/5vc0vc1UlPlgJO260ytWk7) | 2:34 |
+| 26 | [Scary Monsters](https://open.spotify.com/track/7o5BIeXbEwBSfSCfjdlyQF) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Scary Monsters](https://open.spotify.com/album/5vc0vc1UlPlgJO260ytWk7) | 0:29 |
 | 27 | [Haunted House](https://open.spotify.com/track/6pD0ykQutS455Qxvh7OheC) | [Skazi](https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Haunted House](https://open.spotify.com/album/1ey17n9x1NaHc83hX696bp) | 2:48 |
 | 28 | [Ghosts](https://open.spotify.com/track/5UALpuD8gWsDQwEnVXyuug) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [Ghosts](https://open.spotify.com/album/7AVSiVc6v0OR4aulmhxGro) | 2:40 |
 | 29 | [Sell Out](https://open.spotify.com/track/0e9yz3Fz7Nn6I5E4XBP8no) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0) | [Sell Out](https://open.spotify.com/album/1n7yjwouZiDCmvMeAQFQxi) | 3:12 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 | 47 | [Hell](https://open.spotify.com/track/5J11PTk7fy9TR0TKXpVvCt) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Koos](https://open.spotify.com/artist/3A8Fbum6y0H2ijJSRaDNtB) | [Hell](https://open.spotify.com/album/4KTwNYQY0kTnrgtjaCoMw1) | 3:52 |
 | 48 | [Never Have I Felt This](https://open.spotify.com/track/1w2HhzB1ptdBzIeTh9NmxG) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Never Have I Felt This](https://open.spotify.com/album/54s0kvex9na7wTYAGWTztM) | 4:06 |
 | 49 | [The Execution](https://open.spotify.com/track/7134C3yE9PU0nRVRcNKFqu) | [Sam Lamar](https://open.spotify.com/artist/2ihPQnVz8d2ePjGcXLbNf8) | [The Execution](https://open.spotify.com/album/1buTozFUMjEVgmV9SjwRBt) | 3:55 |
-| 50 | [THE SHOOTV](https://open.spotify.com/track/5TAhkZc6p4XKuYGMnbwTdU) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg) | [THE SHOOTV](https://open.spotify.com/album/1DfkvG8j619HUAmeTAa0fQ) | 3:05 |
+| 50 | [THE SHOOTV](https://open.spotify.com/track/5TAhkZc6p4XKuYGMnbwTdU) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg) | [THE SHOOTV](https://open.spotify.com/album/1DfkvG8j619HUAmeTAa0fQ) | 0:29 |
 | 51 | [Bite \(MNDR Remix\)](https://open.spotify.com/track/0JCQVfON4BNHdN44tLlrlV) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [The Sequel \(The Remixes\)](https://open.spotify.com/album/0eflAEjBSxtYJkz227JFjw) | 3:37 |
 | 52 | [Hitman](https://open.spotify.com/track/161hrORIVwOXGesPsY607T) | [BLVD.](https://open.spotify.com/artist/05BMTFbYu3UZ61SYiu7mTg) | [Hitman](https://open.spotify.com/album/4yO3DPZ4D7PKsXtT4bC6Xx) | 2:44 |
 | 53 | [Soundclash](https://open.spotify.com/track/1CHcv3ENgWTEkTUayOBShJ) | [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [Soundclash](https://open.spotify.com/album/5oHN6zfydzNd8yx7QHztCs) | 3:19 |

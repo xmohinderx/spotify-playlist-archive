@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10JY0qJoWDu.md) - [plain]
 
 > Holiday cheer from your Disney favorites!
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,131 likes - 77 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,121 likes - 77 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10JY0qJoWDu.md) - [plain]
 | 39 | [O Holy Night](https://open.spotify.com/track/2rB5qBiVYAbUGrglToUv7F) | [Massed Choir](https://open.spotify.com/artist/0aCR3bf6V9FySG3cJWbogr) | [Candlelight Processional](https://open.spotify.com/album/0avfdTE7RNtvrH1E56vfTy) | 2:36 |
 | 40 | [O Come All Ye Faithful](https://open.spotify.com/track/0nEYuVerCeDEj1tCzJDUDz) | [Massed Choir](https://open.spotify.com/artist/0aCR3bf6V9FySG3cJWbogr) | [Candlelight Processional](https://open.spotify.com/album/0avfdTE7RNtvrH1E56vfTy) | 3:26 |
 | 41 | ['Zat You, Santa Claus?](https://open.spotify.com/track/71CYeO8QuGeIyCAdk1eTeH) | [Dr\. Teeth and The Electric Mayhem](https://open.spotify.com/artist/2ga7tr3zy7iQ9r2VQ6AMGF) | [The Muppets: A Green and Red Christmas](https://open.spotify.com/album/2SRnKY8vy3G72k8D55tWoA) | 2:34 |
-| 42 | [White Christmas](https://open.spotify.com/track/7yURtJ9ZInIE8nwVj8vJSM) | [Goofy](https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64) | [Disney's Merry Little Christmas](https://open.spotify.com/album/1G9F59LYOnLc9RqWyFNYYz) | 2:30 |
+| 42 | [White Christmas](https://open.spotify.com/track/7yURtJ9ZInIE8nwVj8vJSM) | [Goofy](https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64) | [Disney's Merry Little Christmas](https://open.spotify.com/album/1G9F59LYOnLc9RqWyFNYYz) | 0:29 |
 | 43 | [All I Want for Christmas Is You](https://open.spotify.com/track/0yJI0V4U9cy59pGFR7SQui) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Rockin' Holiday](https://open.spotify.com/album/2yKCih4uWRew4GFBpWDdTA) | 3:47 |
 | 44 | [Deck The Halls](https://open.spotify.com/track/7bACqpSGu8DLSXsg2T85Ym) | [Mickey & His Friends](https://open.spotify.com/artist/5t7Q9iwSyvZDJqLJYoqEX9) | [Disney's Family Christmas Collection](https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg) | 2:38 |
 | 45 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/5Uh79do7x63JsFZT75KGW1) | [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE), [Donald Duck](https://open.spotify.com/artist/7KksEpdok2fNHMXn9O24lU), [Goofy](https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64) | [Disney Jingle Bell Fun](https://open.spotify.com/album/6Bd6pZU3QoytmcZxmMZbt8) | 2:43 |
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10JY0qJoWDu.md) - [plain]
 | 73 | [Celebrate \(It's Christmas\)](https://open.spotify.com/track/12blByfqH50AD5VZnRZukS) | [Forever in Your Mind](https://open.spotify.com/artist/6gQnbY1egUGK5llcWsrwgE) | [Disney Channel Holiday Hits](https://open.spotify.com/album/0mbCOOXGsz6SLRTopXAUF9) | 3:10 |
 | 74 | [Christmas Eve Montage](https://open.spotify.com/track/6VNtoQ5FSWZhiGgJ3DZSUb) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 4:43 |
 | 75 | [Let It Glow \- From "Frozen Northern Lights"](https://open.spotify.com/track/5fvrAgYWC8D63PYqJNh3tf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Madison Hu](https://open.spotify.com/artist/612BRdnZhqoymH42utLvA7) | [Let It Glow \(From "Frozen Northern Lights"\)](https://open.spotify.com/album/4dPtBNViH8bSO5Xe6MRsfF) | 1:19 |
-| 76 | [I Love Christmas](https://open.spotify.com/track/39rTGk6MVeykS2Z8FJkYdl) | [Austin Moon](https://open.spotify.com/artist/1eBGyqw9kLsidL0q2dimWF), [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT) | [I Love Christmas](https://open.spotify.com/album/6qn2TGYSCLeHCkk6t71Nk1) | 2:56 |
+| 76 | [I Love Christmas](https://open.spotify.com/track/39rTGk6MVeykS2Z8FJkYdl) | [Austin Moon](https://open.spotify.com/artist/1eBGyqw9kLsidL0q2dimWF), [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT) | [I Love Christmas](https://open.spotify.com/album/6qn2TGYSCLeHCkk6t71Nk1) | 0:29 |
 | 77 | [The Santa Wrap](https://open.spotify.com/track/1Msh8qZfJ708O9BfVwem5Y) | [Rayvon](https://open.spotify.com/artist/4hB4SmzreXMTGWYj7KQ7QN) | [Disney's Family Christmas Collection](https://open.spotify.com/album/2TI63mU5xp70bx7d8ORIek) | 2:21 |
 
 Snapshot ID: `MTY0MDAxMzU3MCwwMDAwMDAwZDAwMDAwMTdkZDg2ZDIyZTAwMDAwMDE3NWRjYWQxMzlk`

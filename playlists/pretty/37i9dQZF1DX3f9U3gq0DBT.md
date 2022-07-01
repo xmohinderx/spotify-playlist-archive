@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f9U3gq0DBT.md) - [plain]
 
 > Soothing water sounds from lakes and rivers
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,461 likes - 93 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,482 likes - 93 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lapping Beach Waves](https://open.spotify.com/track/0Ik42Jr8xITVs4XyRjTpN3) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Nature's Peaceful Sounds](https://open.spotify.com/album/3OmH5IoMCLOK4ehfVhc21y) | 2:48 |
 | 2 | [Calming Waters](https://open.spotify.com/track/5G3q73A0Iuz7DdDHqE2bjo) | [Wave Sound Group](https://open.spotify.com/artist/5DO3Isgj0gLAExTaVzbfMB) | [Wave Sound Group](https://open.spotify.com/album/1oUtf4VOmAC1sEcwHdAYFd) | 1:15 |
-| 3 | [Wonderful Waves](https://open.spotify.com/track/0rukwrhQhqQMjxlmiB4O7p) | [Accuweather](https://open.spotify.com/artist/2Y7k2YqDWE9s1eSuQlaWNi) | [Waves](https://open.spotify.com/album/3VIo7FqeD57ohtsXtmfuvu) | 2:19 |
-| 4 | [Kandimas Beach](https://open.spotify.com/track/4wCU6Dhzfwjd7B0uxyF5c0) | [Waves Of The World](https://open.spotify.com/artist/0wPhL56uUAolfkN9itMSc3) | [The Sound Of The Maldives](https://open.spotify.com/album/0XQVlEc0Ubaln9dh6EpfXB) | 3:50 |
+| 3 | [Wonderful Waves](https://open.spotify.com/track/0rukwrhQhqQMjxlmiB4O7p) | [Accuweather](https://open.spotify.com/artist/2Y7k2YqDWE9s1eSuQlaWNi) | [Waves](https://open.spotify.com/album/3VIo7FqeD57ohtsXtmfuvu) | 0:29 |
+| 4 | [Kandimas Beach](https://open.spotify.com/track/4wCU6Dhzfwjd7B0uxyF5c0) | [Waves Of The World](https://open.spotify.com/artist/0wPhL56uUAolfkN9itMSc3) | [The Sound Of The Maldives](https://open.spotify.com/album/0XQVlEc0Ubaln9dh6EpfXB) | 0:29 |
 | 5 | [Seaside Waves](https://open.spotify.com/track/4jj9EEvizpNARAlvjPR96w) | [Epic Sleep](https://open.spotify.com/artist/38dOlLBxTQQFh4ElaWTpCt) | [Seaside Waves](https://open.spotify.com/album/5gDuTy9AEOA2JLw5FAk1RR) | 1:53 |
 | 6 | [Shipwreck Point](https://open.spotify.com/track/1SN4KuesD23b4mfPrm53vV) | [Beauty of Nature](https://open.spotify.com/artist/60Z6UmKsZWqsQtg0XHL4Ct) | [Beach Waves](https://open.spotify.com/album/5tEQ9IoL6MCAHS43Iepe3b) | 2:28 |
 | 7 | [Clear Lapping Waves \- Nature](https://open.spotify.com/track/4dk9bA6biEFSDDActVq8jI) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Tranquil Times](https://open.spotify.com/album/45HAsIbYCjaOgwIFGkJlUl) | 3:10 |
 | 8 | [Waves by the Harbor](https://open.spotify.com/track/1jUR99UKOAVPB9QsHfrvFw) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [California State Beach](https://open.spotify.com/album/4s0H6DDLfNwpuAS1wFO3CY) | 3:51 |
 | 9 | [Mindfulness Waves](https://open.spotify.com/track/0E5wXj0hlHSM3VwbbV121F) | [Embracing Sounds](https://open.spotify.com/artist/3yrsA40P229aJh2vhsvn61) | [Mindfulness Waves](https://open.spotify.com/album/6TJgsLKMgobfZSI4m12u8i) | 2:32 |
-| 10 | [Meedhuffushi Beach](https://open.spotify.com/track/2UCaFV9P3JLZHMs2vbctei) | [Waves Of The World](https://open.spotify.com/artist/0wPhL56uUAolfkN9itMSc3) | [The Sound Of The Maldives](https://open.spotify.com/album/0XQVlEc0Ubaln9dh6EpfXB) | 3:00 |
+| 10 | [Meedhuffushi Beach](https://open.spotify.com/track/2UCaFV9P3JLZHMs2vbctei) | [Waves Of The World](https://open.spotify.com/artist/0wPhL56uUAolfkN9itMSc3) | [The Sound Of The Maldives](https://open.spotify.com/album/0XQVlEc0Ubaln9dh6EpfXB) | 0:29 |
 | 11 | [Lakeside](https://open.spotify.com/track/61sxx44952Sk8QvxcXYBjL) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Blissful Nature Sounds](https://open.spotify.com/album/07rmOLfWdDDM4rJx1VhjR6) | 2:48 |
 | 12 | [Waves And Volcanic Stones](https://open.spotify.com/track/1oqW7AQpasXfs0TxLDYLd4) | [Migration Waves](https://open.spotify.com/artist/63fCKwNhdVPMiIjiWRBeoC) | [Waves & Stones Vol\. 1](https://open.spotify.com/album/0UbNvoFuV3h5KEqluG46dx) | 2:59 |
 | 13 | [Ocean Calmness](https://open.spotify.com/track/3PRHjxciZrPsj9IVyv6sbF) | [Aqua Mori](https://open.spotify.com/artist/57mq2ABiWJNQXkliuTjn8X) | [Ocean Calmness](https://open.spotify.com/album/3XU2dLIkoFYTqIlpZOKpqA) | 2:06 |
@@ -41,15 +41,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f9U3gq0DBT.md) - [plain]
 | 31 | [Water World](https://open.spotify.com/track/3afBEoeEUWcXZzo7geFCcH) | [H Two O](https://open.spotify.com/artist/11ERA0ThKTi0k4ZqqvQUXg) | [Aquarius](https://open.spotify.com/album/1eRzFF78dDAMBZ2Ofv9tkG) | 2:40 |
 | 32 | [Waves of Sitges](https://open.spotify.com/track/2iy6BOS5IHBxCU0N72Wkpm) | [Ocean FX](https://open.spotify.com/artist/52cA4CF7EuFL9G8DjKeP9N) | [Ocean FX](https://open.spotify.com/album/4b3UIctU2oUPYUHMH8wMcj) | 1:35 |
 | 33 | [Lake Water Sound](https://open.spotify.com/track/7lGgLdUdHkl1SQUln1oFkI) | [Ambrook Glacier](https://open.spotify.com/artist/2nzv7rfJgsWoS068opqZDy) | [Sound of the lake](https://open.spotify.com/album/16h5uf6Verc3wpOK1leYyw) | 3:16 |
-| 34 | [Low Tide Bliss](https://open.spotify.com/track/6fulxWG1wkZi0vN4FZE6r3) | [Nova Ritual](https://open.spotify.com/artist/5XdK5Z3eOiVgardcvdQYw0) | [Seaways](https://open.spotify.com/album/3EqfAkgG3ds9GqazWU9JvG) | 2:50 |
+| 34 | [Low Tide Bliss](https://open.spotify.com/track/6fulxWG1wkZi0vN4FZE6r3) | [Nova Ritual](https://open.spotify.com/artist/5XdK5Z3eOiVgardcvdQYw0) | [Seaways](https://open.spotify.com/album/3EqfAkgG3ds9GqazWU9JvG) | 0:29 |
 | 35 | [Flowing Through Me](https://open.spotify.com/track/3kl2pNDxGQPFlVc7vcgZ41) | [Lave](https://open.spotify.com/artist/5EA4MDPkAtu1hrHhgM8tWK) | [Nautical Days](https://open.spotify.com/album/5Sd5iK6P9H1zcoQGp5di2m) | 2:27 |
 | 36 | [Poseidon’s Call](https://open.spotify.com/track/3AOnJbjhlaDOCssENv8o1W) | [NATURE INSIDE](https://open.spotify.com/artist/1mXiirmsHDgQGzDIx3xaJO) | [Poseidon’s Call](https://open.spotify.com/album/09TnxQyb1zOdbj3RQAdgNj) | 3:09 |
 | 37 | [Gentle Waves For Relaxation](https://open.spotify.com/track/2C6fLe58AVCPw0EglI2vfy) | [Mind & Body](https://open.spotify.com/artist/6JYtJJDafQm9bjAm5zRxbz) | [Gentle Waves For Relaxation](https://open.spotify.com/album/1JWndD6bSrVLyQIgqFwgwa) | 2:20 |
 | 38 | [By The Shoreline](https://open.spotify.com/track/2VkKUptS25Jx7DNhE1RGMk) | [Sundays By The Ocean](https://open.spotify.com/artist/0zZl9VsforOKto9vF8ufLg) | [Volume One](https://open.spotify.com/album/1w2TodavMoCOgcJXqWOWRV) | 2:14 |
-| 39 | [Akaw Waves](https://open.spotify.com/track/1fjfHkyWBlTYAdQrqxJzon) | [Dam Lactus](https://open.spotify.com/artist/7aL47Er9qotBa0Px3VFPCU) | [Lake Recordings](https://open.spotify.com/album/4aUwLPY82bIpgEiS74liYU) | 3:14 |
+| 39 | [Akaw Waves](https://open.spotify.com/track/1fjfHkyWBlTYAdQrqxJzon) | [Dam Lactus](https://open.spotify.com/artist/7aL47Er9qotBa0Px3VFPCU) | [Lake Recordings](https://open.spotify.com/album/4aUwLPY82bIpgEiS74liYU) | 0:29 |
 | 40 | [Calming Wave Sounds](https://open.spotify.com/track/60DW6gPnqW3QRyCa6HdnBY) | [Sleep Miracle](https://open.spotify.com/artist/5Sw5q4pL5JDz22cOeoqxNS) | [Gentle Waves](https://open.spotify.com/album/0fDNoZRNwO0NuV3PEsENsb) | 2:54 |
-| 41 | [Waves for Sleep](https://open.spotify.com/track/3M6SHvHXNg0lGi7QhF4EvK) | [Larnac HD](https://open.spotify.com/artist/1cRsTwM4gsatUmJwts7hYJ) | [Beach Beach Beach](https://open.spotify.com/album/154shcsaA1fTqtUY5sR7Gv) | 2:23 |
-| 42 | [At The Beach](https://open.spotify.com/track/7tIOQYgxPAxvHOlofTIVSP) | [Super Natural](https://open.spotify.com/artist/01bfsddtGYcZOQLOB4ZVlU) | [Natural Waves](https://open.spotify.com/album/7i5eJTVsEEYbeo8ePJ4B3y) | 2:25 |
+| 41 | [Waves for Sleep](https://open.spotify.com/track/3M6SHvHXNg0lGi7QhF4EvK) | [Larnac HD](https://open.spotify.com/artist/1cRsTwM4gsatUmJwts7hYJ) | [Beach Beach Beach](https://open.spotify.com/album/154shcsaA1fTqtUY5sR7Gv) | 0:29 |
+| 42 | [At The Beach](https://open.spotify.com/track/7tIOQYgxPAxvHOlofTIVSP) | [Super Natural](https://open.spotify.com/artist/01bfsddtGYcZOQLOB4ZVlU) | [Natural Waves](https://open.spotify.com/album/7i5eJTVsEEYbeo8ePJ4B3y) | 0:29 |
 | 43 | [Seaside In The Stockholm Archipelago 2](https://open.spotify.com/track/1KQPyKNFWNkGpUi1BnPHVJ) | [Archipelago Smoothe](https://open.spotify.com/artist/3n3Br1Nm8nuHT6kH7gZerv) | [Seaside In The Stockholm Archipelago](https://open.spotify.com/album/7ffphDQ0QuttrqokstevrY) | 2:12 |
 | 44 | [Wave Me To Sleep](https://open.spotify.com/track/0P87QUG1l5mFkdBYaxCz2y) | [Olof Dahlström Recordings](https://open.spotify.com/artist/6nwprrB1xrohGrilsErewM) | [At Sea](https://open.spotify.com/album/3WA6b9wPZOuvqj94C2iW6i) | 2:27 |
 | 45 | [Waves](https://open.spotify.com/track/7riFaBLvTQfPsSILEZV6Se) | [Sundays By The Ocean](https://open.spotify.com/artist/0zZl9VsforOKto9vF8ufLg) | [Volume One](https://open.spotify.com/album/1w2TodavMoCOgcJXqWOWRV) | 2:35 |

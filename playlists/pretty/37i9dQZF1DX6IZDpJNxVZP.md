@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate Halloween at home with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,621 likes - 133 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,619 likes - 133 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,12 +45,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 35 | [Skeleton Dance](https://open.spotify.com/track/24DMFHfbCmdGFKj06O2zpw) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Halloween Kids Party With Little Baby Bum](https://open.spotify.com/album/3w0ggqSNDMTURl4QUMOkbW) | 2:06 |
 | 36 | [Ghost in My House](https://open.spotify.com/track/0RKlpEAPELRwO3LbCX6Sgh) | [Jumpin' jamie](https://open.spotify.com/artist/2xrfLcoMMhihcXbCHl7Ytt) | [Kookie](https://open.spotify.com/album/0Wg1YzktkuNoyV48GFQ2Wz) | 3:21 |
 | 37 | [Ain't No Party Like Halloween](https://open.spotify.com/track/2PSAudepLWTZgKx3hmTUpg) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [Ain't No Party Like Halloween](https://open.spotify.com/album/3c5QVNtP0v79PwlzYwlYSU) | 3:24 |
-| 38 | [Halloween](https://open.spotify.com/track/4jn1EEJFB6R5tjBPFRSNOK) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Halloween](https://open.spotify.com/album/1JJvFooOJDfSifLeLlocSN) | 2:27 |
+| 38 | [Halloween](https://open.spotify.com/track/4jn1EEJFB6R5tjBPFRSNOK) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Halloween](https://open.spotify.com/album/1JJvFooOJDfSifLeLlocSN) | 0:29 |
 | 39 | [Rock\-a\-bye Ghoulie](https://open.spotify.com/track/1wgzJ8a7DwhvaUshgfDKuh) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween With Cocomelon](https://open.spotify.com/album/0kDDmihwSYcGxP7lxUreIo) | 2:21 |
 | 40 | [Spooky, Scary Skeletons](https://open.spotify.com/track/6RPJ1EvnTu8AgaLoVxTm6d) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween Party!](https://open.spotify.com/album/6CpueN14uwF290ufghdCgT) | 2:47 |
 | 41 | [A Haunted House on Halloween Night](https://open.spotify.com/track/2RAGtit059yqjKXWI7c0hh) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes, Vol\. 8: Children's Sing Along Songs](https://open.spotify.com/album/1BurLHHyJ5fhOfjryFHiOs) | 2:22 |
 | 42 | [Ghostbusters](https://open.spotify.com/track/0phGofl3ppS5Itk1zM9eKa) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Ghostbusters \(Original Motion Picture Soundtrack\) \[1984\]](https://open.spotify.com/album/61n9hzk4CiJRrCmrEfBXRJ) | 4:05 |
-| 43 | [Halloween Oh Halloween Song for Kids](https://open.spotify.com/track/5Y7G0aWQ1Um9VyMQFOty1I) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Halloween Oh Halloween Song for Kids](https://open.spotify.com/album/3jojeJFmhtogkLitNNOSoN) | 3:11 |
+| 43 | [Halloween Oh Halloween Song for Kids](https://open.spotify.com/track/5Y7G0aWQ1Um9VyMQFOty1I) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Halloween Oh Halloween Song for Kids](https://open.spotify.com/album/3jojeJFmhtogkLitNNOSoN) | 0:29 |
 | 44 | [This is the Way We Trick or Treat](https://open.spotify.com/track/1C7ob1VIwc1JiEmMDNfHWt) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [This is the Way We Trick or Treat & More Kids Halloween Songs](https://open.spotify.com/album/4v0edjUBgK8yhA9upHeu9W) | 1:49 |
 | 45 | [What Am I Gonna Be \(For Halloween\)?](https://open.spotify.com/track/6YzW96S4wiZ7HUBV4tG2MV) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [What Am I Gonna Be \(For Halloween\)?](https://open.spotify.com/album/4R4m9wj10VYRObGkOCpBG6) | 2:51 |
 | 46 | [Monster Moves](https://open.spotify.com/track/2LncSzAiksL7Wtm7eNhikm) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Celebrate This!](https://open.spotify.com/album/5hukeI5hHKtT4qgMkL0Im6) | 2:55 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4qq3MCSLrDgYx7RfJBDvij.md) - [plain]
 
 > From then to now, these songs will forever be classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43 likes - 28 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 43 likes - 28 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/4qq3MCSLrDgYx7RfJBDvij.md) - [plain]
 | 16 | [Can't You Hear Me Knocking \- Alternate Version](https://open.spotify.com/track/682gCKYRQyeRbXpb3ztDH7) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Can't You Hear Me Knocking \(Alternate Version\)](https://open.spotify.com/album/3fSAnMkxpG3jyDFubmvhKB) | 3:24 |
 | 17 | [Tears in Heaven \- Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster](https://open.spotify.com/track/612VcBshQcy4mpB2utGc3H) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\)](https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg) | 4:40 |
 | 18 | [And I Love Her \- Live On MTV Unplugged](https://open.spotify.com/track/2TJhq8CrTlz6oRSljprEKg) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Unplugged \- The Official Bootleg](https://open.spotify.com/album/7KvVAe42ZV1LcfaW96mBNk) | 4:16 |
-| 19 | [Maggie May \- Remastered Version](https://open.spotify.com/track/1r3kj1yMff7ilIsR7hpvUo) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Definitive Rod Stewart](https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj) | 5:45 |
+| 19 | [Maggie May \- Remastered Version](https://open.spotify.com/track/1r3kj1yMff7ilIsR7hpvUo) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Definitive Rod Stewart](https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj) | 0:29 |
 | 20 | [Crazy On You](https://open.spotify.com/track/5zH710lFSLtkHbMkslLDjR) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Dreamboat Annie](https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH) | 4:53 |
 | 21 | [Edge of Seventeen](https://open.spotify.com/track/2id8E4WvczfKHB4LHI7Np3) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Crystal Visions...The Very Best of Stevie Nicks](https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL) | 5:29 |
 | 22 | [Same Old Train](https://open.spotify.com/track/5KMWwtJv3Ll2ROZfMerQs0) | [Marty Stuart](https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO), [Earl Scruggs](https://open.spotify.com/artist/4NEA48c6ajydrRzCbyll3M), [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt), [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g), [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG), [Patty Loveless](https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT), [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks), [Pam Tillis](https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6), [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m), [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2), [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [Tribute To Tradition](https://open.spotify.com/album/4Mngcv6ExjREiOqSH8vG1D) | 6:01 |

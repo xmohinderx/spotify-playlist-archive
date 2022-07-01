@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > Mujeres a todo volumen\. En portada: Valentina Moretti
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,288 likes - 41 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,290 likes - 41 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 24 | [Roller Derby Girls](https://open.spotify.com/track/0AQ4DgrCyJBSUy3Gd6J4qZ) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS), [Sonido Lasser](https://open.spotify.com/artist/0erpWRj9eIOjaRun5ZtYTA) | [Roller Derby Girls](https://open.spotify.com/album/7opcM0aC70L8VOQLTUcLJl) | 4:13 |
 | 25 | [Pieles](https://open.spotify.com/track/53P2WWtGXFQFyxS8u93RHK) | [Itzel Noyz](https://open.spotify.com/artist/2ID3ThfGon3XyLsuVXPgOh) | [Pieles](https://open.spotify.com/album/1uMhYncnSaolYPFuA15Y0R) | 2:51 |
 | 26 | [Directo al Corazón](https://open.spotify.com/track/76JLXxsjWnKWrSjZXf2M9w) | [Amaya](https://open.spotify.com/artist/6mUUTwq2XEAJFBhIWQNisL) | [Directo al Corazón](https://open.spotify.com/album/3l9uzRp8dwt9dguBhGFYcY) | 2:57 |
-| 27 | [Bam Bam!](https://open.spotify.com/track/7FIGQdIpE4vMVmEfDnStkg) | [EsaMiPau!](https://open.spotify.com/artist/2lmxVMvK3ROVKHvLg23fei), [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [The Produsexxx](https://open.spotify.com/artist/0Huo99sGzwmHx3VfybdIk2) | [Bam Bam!](https://open.spotify.com/album/0baHGmMvQobuE4M0zDCKxT) | 2:45 |
+| 27 | [Bam Bam!](https://open.spotify.com/track/7FIGQdIpE4vMVmEfDnStkg) | [EsaMiPau!](https://open.spotify.com/artist/2lmxVMvK3ROVKHvLg23fei), [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [The Produsexxx](https://open.spotify.com/artist/0Huo99sGzwmHx3VfybdIk2) | [Bam Bam!](https://open.spotify.com/album/0baHGmMvQobuE4M0zDCKxT) | 0:29 |
 | 28 | [Muévelo](https://open.spotify.com/track/4kdFcU4x4XP1ASmTlEOh1c) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Muévelo](https://open.spotify.com/album/2jIsFPTbrgSenWx8irjJea) | 2:44 |
 | 29 | [Vnus](https://open.spotify.com/track/7vpVw6CB2GAz2uqdSHT4dp) | [Sofía Hex](https://open.spotify.com/artist/31gMri5hARWqDbmAv4A2nj) | [Vnus](https://open.spotify.com/album/3QT1axUB7QqF333oJqiYJY) | 4:08 |
 | 30 | [Nubes \(YSL\)](https://open.spotify.com/track/7qEQjS0C4GH7CXqChNht1N) | [BB CARMEN](https://open.spotify.com/artist/1k7bANkCim19EARsxocnrJ) | [Nubes \(YSL\)](https://open.spotify.com/album/3dVWxxYgDFANUzqKuAvB3W) | 2:23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHS0n2OcMjx.md) - [plain]
 
 > Cool beats for homework time!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,984 likes - 147 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,995 likes - 147 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,10 +56,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHS0n2OcMjx.md) - [plain]
 | 46 | [Golden Vibe](https://open.spotify.com/track/5e0wGPEIDVmhPMYFkzzDkn) | [Beatnugget](https://open.spotify.com/artist/2B8sGSf7Jr54GidHeizE8E) | [Golden Vibe](https://open.spotify.com/album/22ZsrLpobwUNTUfWCRAl0Q) | 2:42 |
 | 47 | [style loop](https://open.spotify.com/track/1RaynSnzgRBH0dSRwaEdFs) | [stilistics](https://open.spotify.com/artist/4UexprKNraCvro4K4XYzut) | [ready set go](https://open.spotify.com/album/7L4A0d2BV3EE2YL95AiDze) | 1:25 |
 | 48 | [Gary](https://open.spotify.com/track/1q1UZUT8oCqhuoaUtOQyk7) | [Kuranes](https://open.spotify.com/artist/3BU4UGbnzKAtkq79Y1MW0e) | [Gary](https://open.spotify.com/album/1wyBKnUiA3N4Rqe8WPvvFd) | 2:02 |
-| 49 | [beets per minute](https://open.spotify.com/track/1JKxBVtMRA4c5PRJXA5sVO) | [crayonine](https://open.spotify.com/artist/0FIy7978qGBeVddWRDemHo) | [beets per minute](https://open.spotify.com/album/66JCVytytkaEyK0zt149LR) | 2:03 |
+| 49 | [beets per minute](https://open.spotify.com/track/1JKxBVtMRA4c5PRJXA5sVO) | [crayonine](https://open.spotify.com/artist/0FIy7978qGBeVddWRDemHo) | [beets per minute](https://open.spotify.com/album/66JCVytytkaEyK0zt149LR) | 0:29 |
 | 50 | [solar power](https://open.spotify.com/track/5yD3bPDztGiHCicBLyeI8w) | [titicon](https://open.spotify.com/artist/5v5Qkgl02bizOecA6OY7p3) | [supernova beats \#1](https://open.spotify.com/album/0C7D11HuXwMTRj03jIdwhn) | 1:25 |
 | 51 | [Regular Guy](https://open.spotify.com/track/0Qxfx9Sxa0TVy3p0j0lPha) | [Sir Peanut](https://open.spotify.com/artist/3HpvKoWXmM1S2eB4tKBtRF) | [Regular Guy](https://open.spotify.com/album/756SsPw88dp4o0LVN8L6ru) | 3:34 |
-| 52 | [Friday](https://open.spotify.com/track/0VMPNNbZcV6aP0O9ZCLNhe) | [Little Lazy Lights](https://open.spotify.com/artist/2YEOM2LGal4G2Z2GkbbAlA) | [Friday](https://open.spotify.com/album/5yDhrdMgbYA3EdMkKBYads) | 3:36 |
+| 52 | [Friday](https://open.spotify.com/track/0VMPNNbZcV6aP0O9ZCLNhe) | [Little Lazy Lights](https://open.spotify.com/artist/2YEOM2LGal4G2Z2GkbbAlA) | [Friday](https://open.spotify.com/album/5yDhrdMgbYA3EdMkKBYads) | 0:29 |
 | 53 | [Alicia](https://open.spotify.com/track/6AnCrCwqMrMvAUlDjb2pLq) | [Da Sacnite](https://open.spotify.com/artist/3qaJDADj8HdXCWcYL7O6g9) | [Alicia](https://open.spotify.com/album/3EKrndHJAeEkQdLkaVqcvR) | 2:15 |
 | 54 | [Willow Whip](https://open.spotify.com/track/11NjsqNM0Kwnqop5rCYlpq) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Willow Whip](https://open.spotify.com/album/5G7mHOpSZbzMi857KYssc5) | 3:07 |
 | 55 | [When the Time Comes](https://open.spotify.com/track/0jVAASD83TspRi2gG53o6R) | [Gordon](https://open.spotify.com/artist/6Y9LyKatIXZuMSIKI04oTc) | [When the Time Comes](https://open.spotify.com/album/4bPg3cepOhvfIjBn1lHoZ9) | 2:04 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHS0n2OcMjx.md) - [plain]
 | 81 | [future retro](https://open.spotify.com/track/4W0VbKOx9nIMl822qQHef1) | [stonefold](https://open.spotify.com/artist/1jCsCfZCxNohxXdoE3Rw4f) | [future retro](https://open.spotify.com/album/3mJhmdDs83sGZfpr9pYpgN) | 2:01 |
 | 82 | [Woolcap Saloon](https://open.spotify.com/track/79TCl2g8jBaiEr77MiAZn1) | [Baloba](https://open.spotify.com/artist/23nC3SpcMb9XQsHaLqFig7) | [Childhood](https://open.spotify.com/album/7JGtKeeBttaKxU80ZGA7bP) | 1:59 |
 | 83 | [lemon](https://open.spotify.com/track/5ACcn12wzLSQb7OqfXvX0w) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [lemon](https://open.spotify.com/album/5k0NV7xszABRC2JSFcE5Lz) | 1:54 |
-| 84 | [Fernvale](https://open.spotify.com/track/6lP0M5Lx3ME3TzRijzRwic) | [Maj Majid](https://open.spotify.com/artist/2hd2AdImWEG1xPlBe6QhAP) | [But First Coffee](https://open.spotify.com/album/07qI7oGYsBI3sWFyuh0JD6) | 1:26 |
+| 84 | [Fernvale](https://open.spotify.com/track/6lP0M5Lx3ME3TzRijzRwic) | [Maj Majid](https://open.spotify.com/artist/2hd2AdImWEG1xPlBe6QhAP) | [But First Coffee](https://open.spotify.com/album/07qI7oGYsBI3sWFyuh0JD6) | 0:29 |
 | 85 | [Breaking News](https://open.spotify.com/track/4mEs8XjOPDx1Fk3mUYLlxO) | [Pepper and Po](https://open.spotify.com/artist/5lLoKN0MlrFNTK3feEZPkR) | [Breaking News](https://open.spotify.com/album/1tiSY3V1uZ4lCkdqArnV5N) | 2:37 |
 | 86 | [Monday Matinee](https://open.spotify.com/track/6WQ1lxzlIdIzezox7CUN7B) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Guessing Game](https://open.spotify.com/album/5WPEplTXwxB9BpZiqJsoDP) | 2:07 |
 | 87 | [Saturation](https://open.spotify.com/track/1zyNkrQFVLwjl1Jg4MZHuK) | [Luc Delvaux](https://open.spotify.com/artist/0TtVPA9JL5p8Yqr7guSEn0) | [Saturation](https://open.spotify.com/album/5d0Imi2PYaZIhzFe6Sn4CN) | 1:52 |
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHS0n2OcMjx.md) - [plain]
 | 107 | [ocean bottoms](https://open.spotify.com/track/03BLHbz3ewlSoQ9zCRUAwT) | [downstairs lantern](https://open.spotify.com/artist/2GgvGeqAhfmu6alzb4ZlTY) | [ocean bottoms](https://open.spotify.com/album/6G8lHNQtrS9cLDNt9gGRrt) | 1:56 |
 | 108 | [Echoes](https://open.spotify.com/track/6j7fobMzagIA3dIr8bzY0J) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Echoes](https://open.spotify.com/album/7qVzL9yk9tO8qTaJB2SJ1h) | 1:12 |
 | 109 | [Dusty](https://open.spotify.com/track/1H6lcREWzGbrL9fQSfhInB) | [Mama Gecko](https://open.spotify.com/artist/3hsIheKwar2G4DBVfH3FBh) | [Dusty](https://open.spotify.com/album/3O0Pka7Pg4PgoF78M8oJjZ) | 2:18 |
-| 110 | [Carvings](https://open.spotify.com/track/6z4JNDNIHHrLz79QET2jrA) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Disque Magique](https://open.spotify.com/album/58LvwpDLLsRGNwJN160DWU) | 2:36 |
+| 110 | [Carvings](https://open.spotify.com/track/6z4JNDNIHHrLz79QET2jrA) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Disque Magique](https://open.spotify.com/album/58LvwpDLLsRGNwJN160DWU) | 0:29 |
 | 111 | [Wonderfool](https://open.spotify.com/track/02M3N0e0a6srBlevdm62LZ) | [Type.Raw](https://open.spotify.com/artist/5esWbbDTsZQ6mM3OHd4fSg) | [Loungin'](https://open.spotify.com/album/7IvMUT6TmGUblqzpuRLA1S) | 3:00 |
 | 112 | [Authentic](https://open.spotify.com/track/6ibi48DPWz04U2lTWp3G8o) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Soul City](https://open.spotify.com/album/0d5CHBsRYdHel2EiaFkk5p) | 1:23 |
 | 113 | [Chilled.](https://open.spotify.com/track/3fVo647lcGZ2lnWBxnCjnY) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Chilled.](https://open.spotify.com/album/5ixF5wx5FwPceBSl7iv4ta) | 1:34 |
@@ -136,7 +136,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHS0n2OcMjx.md) - [plain]
 | 126 | [Ooohwee](https://open.spotify.com/track/204GeoZOIhGrLRjTu3az46) | [Monma](https://open.spotify.com/artist/50nVKm0xa3p8KYXXssG2ym) | [Chillhop Daydreams](https://open.spotify.com/album/7qdepmAALqX7taS6nMz8v5) | 1:31 |
 | 127 | [Pitter Patter](https://open.spotify.com/track/0HSv9AthdF0lM8sVaFXR9x) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Hemma](https://open.spotify.com/album/4InWjo5v6NiWta5lBTegRK) | 2:42 |
 | 128 | [Primus](https://open.spotify.com/track/17fhvQzzyTfvUz7mMVNTZ4) | [Initium](https://open.spotify.com/artist/0vYWRXgaKIEpWu7dqgt2N1) | [Primus Secundus](https://open.spotify.com/album/0BgSFRdN4CMjC7hlJNET3b) | 2:49 |
-| 129 | [Last Chance](https://open.spotify.com/track/00hvIih24hny87nA7TVO4z) | [autumn keys](https://open.spotify.com/artist/1S7PwtEKL0mdNtfgGJtINy), [elzie](https://open.spotify.com/artist/6OxcKGnT51U56mZOdOo7fU) | [Harvest](https://open.spotify.com/album/5p5ThNG5wCLVhJWDZgSujY) | 2:01 |
+| 129 | [Last Chance](https://open.spotify.com/track/00hvIih24hny87nA7TVO4z) | [autumn keys](https://open.spotify.com/artist/1S7PwtEKL0mdNtfgGJtINy), [elzie](https://open.spotify.com/artist/6OxcKGnT51U56mZOdOo7fU) | [Harvest](https://open.spotify.com/album/5p5ThNG5wCLVhJWDZgSujY) | 0:29 |
 | 130 | [Nitelife](https://open.spotify.com/track/04OPgI7SLV4fLwqfdw7lrp) | [Andonis](https://open.spotify.com/artist/3IQCLbpu9oBPvOCdtCsAnt) | [Nitelife](https://open.spotify.com/album/3H8HSRftY2FrgJsBLiEKRp) | 1:54 |
 | 131 | [mello](https://open.spotify.com/track/2JTi1Aj1mRGz7r8OCCr6sV) | [tides.](https://open.spotify.com/artist/138GsDz0pX5leXnKi7ay7G) | [oldsoul.](https://open.spotify.com/album/7ay3yfaGH18QmquatBYmXH) | 1:08 |
 | 132 | [Do Some Real](https://open.spotify.com/track/472amW2rwsFhBCnQJK9jSn) | [Mono:Massive](https://open.spotify.com/artist/2M3T0t1HvVr5Lz3MtdygpS) | [Monothrope](https://open.spotify.com/album/7otsq7Jet1djp7962pkrHg) | 2:56 |

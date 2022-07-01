@@ -4,7 +4,7 @@
 
 > 
 
-29 songs - 1 hr 49 min - [published](https://open.spotify.com/playlist/1X44RiGjWF1fMA3WnQMb1p)
+29 songs - 1 hr 44 min - [published](https://open.spotify.com/playlist/1X44RiGjWF1fMA3WnQMb1p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Little White Lie](https://open.spotify.com/track/1YQ5dX31nGu1XbSzs6iXyp) | [Sammy Hagar](https://open.spotify.com/artist/1hXjTjJzZTXDZ75AclOo6N) | [The Essential Red Collection](https://open.spotify.com/album/6SUJunxhvTnNtwilWtL8d1) | 2:53 | 2013-07-18 |  |
 | [Money \- 2011 Remastered Version](https://open.spotify.com/track/3aoDEt6zSuYQ47gzarlaVo) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side Of The Moon \(2011 Remastered Version\)](https://open.spotify.com/album/3a0UOgDWw2pTajw85QPMiz) | 6:22 | 2013-07-18 |  |
 | [Partners In Crime](https://open.spotify.com/track/2ncRH1zCER8iHXYhlHXyam) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 3:21 | 2013-07-18 |  |
-| [Rest My Chemistry](https://open.spotify.com/track/4iLG33TT4HaVILLC0q4rEn) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Our Love To Admire](https://open.spotify.com/album/49agqemJmnDfTA8nqod1qy) | 5:00 | 2013-07-18 |  |
+| [Rest My Chemistry](https://open.spotify.com/track/4iLG33TT4HaVILLC0q4rEn) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Our Love To Admire](https://open.spotify.com/album/49agqemJmnDfTA8nqod1qy) | 0:29 | 2013-07-18 |  |
 | [Runnin' With The Devil](https://open.spotify.com/track/3gLlcZQMvpwgtV9THHXrGp) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Reissue\)](https://open.spotify.com/album/7G2PY8yve3Db0PeGsosb4x) | 3:36 | 2013-07-18 |  |
 | [Salute Your Solution](https://open.spotify.com/track/0ydgFPcYrxaHgVuLd17mjh) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Consolers of the Lonely](https://open.spotify.com/album/0OBNtBshpjFPStZGJTGNJr) | 2:59 | 2013-07-18 |  |
 | [Seven Nation Army](https://open.spotify.com/track/3ctoHckjyd13eBi2IDw2Ip) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/0VXcqDD3sHdOIGtO6oYv3d) | 3:51 | 2013-07-18 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/40VxbK9NqccdUDUpiUXmbp.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 8 likes - 30 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 8 likes - 30 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/40VxbK9NqccdUDUpiUXmbp.md) - [plain]
 | 17 | [Cannonball](https://open.spotify.com/track/1Ez4p27fWkO7j9F1o5aHOD) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Cannonball](https://open.spotify.com/album/5xL9BEb10q8us1fRdQdGkm) | 3:55 |
 | 18 | [When Will I See You Again](https://open.spotify.com/track/3T9EW0MN5nyXi7qbKWaOMq) | [Shakka](https://open.spotify.com/artist/7fqDRFkiuwzFDde1K0taVs) | [When Will I See You Again](https://open.spotify.com/album/7xL6XIGgDzE4cpKpXcVi80) | 3:37 |
 | 19 | [Nobody to Love](https://open.spotify.com/track/2CwpR24w47Gusfmv42SKdF) | [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [Nobody To Love](https://open.spotify.com/album/5ZB9CKDTOoN80AwYvwKOy0) | 3:24 |
-| 20 | [10,000 Emerald Pools](https://open.spotify.com/track/2pA4ip3VIEVcIa3qE02oAX) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 2:54 |
+| 20 | [10,000 Emerald Pools](https://open.spotify.com/track/2pA4ip3VIEVcIa3qE02oAX) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 0:29 |
 | 21 | [Clap Your Hands](https://open.spotify.com/track/5ndyjqPPACB114cu4PlAw9) | [Whilk & Misky](https://open.spotify.com/artist/6m9a3tDNWDe6bVR2csIjEv) | [The First Sip](https://open.spotify.com/album/0gGA9Yz4OpCcxxqPmQUA1I) | 5:05 |
 | 22 | [We Don't Have To Take Our Clothes Off](https://open.spotify.com/track/61iyAeMVUNu7vIVqedsBFB) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Feline \(Deluxe\)](https://open.spotify.com/album/0AbUYFSGVNegJoajijrRvM) | 3:56 |
 | 23 | [Dessert](https://open.spotify.com/track/1tYt8PbpbeTuqsNmprAZYY) | [Dawin](https://open.spotify.com/artist/46GXASE9LHzyssNqKOInUu) | [Dessert](https://open.spotify.com/album/4xNCtUWlbfoRilthUHkWR1) | 3:30 |

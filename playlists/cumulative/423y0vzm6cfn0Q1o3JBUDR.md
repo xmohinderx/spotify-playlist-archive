@@ -4,7 +4,7 @@
 
 > 
 
-29 songs - 1 hr 40 min - [published](https://open.spotify.com/playlist/6kKJOxVm1xvreiHrnfN7Bg)
+29 songs - 1 hr 38 min - [published](https://open.spotify.com/playlist/6kKJOxVm1xvreiHrnfN7Bg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Blurred Lines](https://open.spotify.com/track/0XzkemXSiXJa7VgDFPfU4S) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Blurred Lines](https://open.spotify.com/album/2160bNuBZNQmpeBn99Dmis) | 4:23 | 2013-07-17 |  |
 | [Don't Hold Your Breath](https://open.spotify.com/track/6De3rSBc6FC1EdpC0pRRwd) | [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [Don't Hold Your Breath \(UK Version\)](https://open.spotify.com/album/45QBZnAVDMJkdYH1ggKOgX) | 3:18 | 2013-07-17 |  |
 | [DONE.](https://open.spotify.com/track/3CClN6lWM5m2dfpaFug3VP) | [The Band Perry](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) | [Pioneer](https://open.spotify.com/album/6SWKUE4kbjbsNjaY112Chp) | 3:25 | 2013-07-17 |  |
-| [Fastest Girl in Town](https://open.spotify.com/track/0yLbBsE67bgWRi5Co8o3Uh) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Four The Record \(Deluxe Edition\)](https://open.spotify.com/album/119X9tkbPTqambSALCUNdW) | 3:17 | 2013-07-17 |  |
+| [Fastest Girl in Town](https://open.spotify.com/track/0yLbBsE67bgWRi5Co8o3Uh) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Four The Record \(Deluxe Edition\)](https://open.spotify.com/album/119X9tkbPTqambSALCUNdW) | 0:29 | 2013-07-17 |  |
 | [Fergalicious](https://open.spotify.com/track/1MIQyiSyJcRBKg3pCLESFa) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [The Dutchess](https://open.spotify.com/album/0jwuTvP3hp2jFY08VLgvnD) | 4:52 | 2013-07-18 |  |
 | [I Just Want To Make Love To You](https://open.spotify.com/track/7EfLlY6Gen7TCbyZ3f0CM1) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last The Very Best Of](https://open.spotify.com/album/5mKhSxFMOBFtf76VHaMyRS) | 3:08 | 2013-07-18 |  |
 | [I'm Out \(feat\. Nicki Minaj\)](https://open.spotify.com/track/6lkPuuNAPnLUog2UHoAwWQ) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Ciara](https://open.spotify.com/album/0uUCabknRp7CzZHqxRDHdB) | 4:01 | 2013-07-18 |  |

@@ -4,7 +4,7 @@
 
 > Soft and soothing piano music for meditation.
 
-96 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/3EZwyUpoN8zMVayHsaE8Bf)
+96 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/3EZwyUpoN8zMVayHsaE8Bf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,8 +14,8 @@
 | [Ancora Imparo](https://open.spotify.com/track/26aqXYGrQiEeHpskk4HFSa) | [Donna Vellema](https://open.spotify.com/artist/6AB8ZGAhAWesb0QZPmQv3o) | [Ancora Imparo](https://open.spotify.com/album/1Sz2hmT0inGdGvGrteyHz3) | 2:58 | 2022-04-28 |  |
 | [Aqua Tacet](https://open.spotify.com/track/1dGj3FCziIKrm7IAG9KNYL) | [Paix Sonique](https://open.spotify.com/artist/5g4W27S2ZTFOatbUBDXCwd) | [Aqua Tacet](https://open.spotify.com/album/3k9jcwQk6tlH3QJc7Otd4i) | 2:40 | 2022-04-28 |  |
 | [At Rest](https://open.spotify.com/track/1qox7A6GvcVMcqhpOoIzsX) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [Dharma's Dream](https://open.spotify.com/album/6pkV7ilaHspVHyTXGy7yOk) | 2:39 | 2022-04-28 |  |
-| [Athenian Mind](https://open.spotify.com/track/4ZyE9TB38tLADzmv1OImVU) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Athenian Mind](https://open.spotify.com/album/15FHTtzpay3sTq35INQKT8) | 2:32 | 2022-04-28 |  |
-| [Bei Sogni](https://open.spotify.com/track/4uEy0quzyHhmOolODWrsaI) | [Gennaro Acciaio](https://open.spotify.com/artist/5WJ6nJkEinNxWYIWTou21D) | [Bei Sogni](https://open.spotify.com/album/4D4zNlwymGjT6t0ls03vP6) | 2:44 | 2022-04-28 |  |
+| [Athenian Mind](https://open.spotify.com/track/4ZyE9TB38tLADzmv1OImVU) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Athenian Mind](https://open.spotify.com/album/15FHTtzpay3sTq35INQKT8) | 0:29 | 2022-04-28 |  |
+| [Bei Sogni](https://open.spotify.com/track/4uEy0quzyHhmOolODWrsaI) | [Gennaro Acciaio](https://open.spotify.com/artist/5WJ6nJkEinNxWYIWTou21D) | [Bei Sogni](https://open.spotify.com/album/4D4zNlwymGjT6t0ls03vP6) | 0:29 | 2022-04-28 |  |
 | [Bright Future](https://open.spotify.com/track/0oYlwENGLz35JbCLhl6IsF) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [Bright Future](https://open.spotify.com/album/5k6FQ6oTsWvLRHrHz1zJcU) | 3:08 | 2022-04-28 |  |
 | [Calm Night](https://open.spotify.com/track/50Dn8UNHfwvhjjKfdOHEtJ) | [Leyre Bacque](https://open.spotify.com/artist/3cSOS105ZsQjSVzTf8Gc1L) | [Calm Night](https://open.spotify.com/album/7147B49LAyCGDJfdGFTd2L) | 2:20 | 2022-04-28 |  |
 | [Calme](https://open.spotify.com/track/0qv14ONcny4clF80mHowWQ) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Calme](https://open.spotify.com/album/1fX0KM5NIBaXTrmhYnuU6H) | 2:35 | 2022-04-28 |  |
@@ -24,8 +24,8 @@
 | [Cradled](https://open.spotify.com/track/1qd4Sh0mSSWbB0CCYp7dfj) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [Dharma's Dream](https://open.spotify.com/album/6pkV7ilaHspVHyTXGy7yOk) | 2:53 | 2022-04-28 |  |
 | [Daylight](https://open.spotify.com/track/1HwD9MgE9Uqv7YSHgZ5PBE) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Daylight](https://open.spotify.com/album/47xd2MThv6TaiTB7tqYJ28) | 3:35 | 2022-04-28 |  |
 | [Dinlenmek](https://open.spotify.com/track/38FoeSh8Ll0dA5TuflbviN) | [Aidin](https://open.spotify.com/artist/1FQMmopnjYkAuyjQImmDMM) | [Dinlenmek](https://open.spotify.com/album/6Nhn7DsXIg6clkyhoPmWGT) | 3:43 | 2022-04-28 |  |
-| [Doux](https://open.spotify.com/track/6ho42Ki13hVke3brhpCpS5) | [Future Sky](https://open.spotify.com/artist/46ldV2C6sHsoBJcLwqyInL) | [Doux](https://open.spotify.com/album/5cZjbTGHqspFL1wUzl9YjY) | 4:12 | 2022-04-28 |  |
-| [Dreaming](https://open.spotify.com/track/2ehZXVH7qTOFxxDZymEffu) | [Sarah Neumann](https://open.spotify.com/artist/5alCiHBSrsl9QwRvp2ASy1) | [Dreaming](https://open.spotify.com/album/1izkq2wwDzUJJ2FpN3Bqza) | 2:50 | 2022-04-28 |  |
+| [Doux](https://open.spotify.com/track/6ho42Ki13hVke3brhpCpS5) | [Future Sky](https://open.spotify.com/artist/46ldV2C6sHsoBJcLwqyInL) | [Doux](https://open.spotify.com/album/5cZjbTGHqspFL1wUzl9YjY) | 0:29 | 2022-04-28 |  |
+| [Dreaming](https://open.spotify.com/track/2ehZXVH7qTOFxxDZymEffu) | [Sarah Neumann](https://open.spotify.com/artist/5alCiHBSrsl9QwRvp2ASy1) | [Dreaming](https://open.spotify.com/album/1izkq2wwDzUJJ2FpN3Bqza) | 0:29 | 2022-04-28 |  |
 | [Drowsy](https://open.spotify.com/track/256ZL1I7vfJsMn5pUPiPeP) | [Keanna Elsdon](https://open.spotify.com/artist/7aCTQb9ffSuNsbwJJbpxz3) | [Drowsy](https://open.spotify.com/album/6wztXMqE5FKaXqXvNeQgX2) | 2:34 | 2022-04-28 |  |
 | [Durmitor](https://open.spotify.com/track/5ZcsVasCsPNZe1XUBwyMIH) | [Mia Novak](https://open.spotify.com/artist/3W9Z2V5c76hMLPUy3UEpM7) | [Nevidio](https://open.spotify.com/album/2e9oU6dfxCrOfDsTLrHzQX) | 1:58 | 2022-04-28 |  |
 | [Eastern Existence](https://open.spotify.com/track/1znTeUVwrNJIOmckklK6kK) | [Andreas Becket](https://open.spotify.com/artist/2SmNGHrS1SiObK3w7A2ffm) | [Eastern Existence](https://open.spotify.com/album/5KtRIZHAED0z2c5RVWhp1v) | 2:10 | 2022-04-28 |  |
@@ -57,7 +57,7 @@
 | [Nattljus](https://open.spotify.com/track/5pGG0eGQcA71HLo4jKQY90) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Nattljus](https://open.spotify.com/album/7FBCdcXA2coK0EcsDSBN9B) | 3:19 | 2022-04-28 |  |
 | [Nephology](https://open.spotify.com/track/2RXxXoJ6b42rQWpHrkIqRB) | [Ceylan Aydem Project](https://open.spotify.com/artist/6EDn2Y3RQU5ilTmJ9sxSS1) | [Nephology](https://open.spotify.com/album/6TKRYgP9nOBCnfa2V8LKW8) | 2:25 | 2022-04-28 |  |
 | [New Beginning](https://open.spotify.com/track/1tAh9ygOksyZaC8IPdhICH) | [John Andre](https://open.spotify.com/artist/3D56Nhiz0aTRqx4z0qs9jb) | [Falling Leaves](https://open.spotify.com/album/6BzSMFeFNjGhzpGyrt8QwD) | 3:05 | 2022-04-28 |  |
-| [Night Hours](https://open.spotify.com/track/595IK0mHtBt377GbAtWMwm) | [Siona Swim](https://open.spotify.com/artist/666qwMCdAuZ7PEov9XXGTs) | [Night Hours](https://open.spotify.com/album/0DHdHcnU3zcZ6SoJDSj3jb) | 2:15 | 2022-04-28 |  |
+| [Night Hours](https://open.spotify.com/track/595IK0mHtBt377GbAtWMwm) | [Siona Swim](https://open.spotify.com/artist/666qwMCdAuZ7PEov9XXGTs) | [Night Hours](https://open.spotify.com/album/0DHdHcnU3zcZ6SoJDSj3jb) | 0:29 | 2022-04-28 |  |
 | [Nuevo tiempo](https://open.spotify.com/track/5XzqugXuvYg6mxcyjpNesn) | [The Sun Door](https://open.spotify.com/artist/4mIc8FKCkWqviS6jlZ4cyc) | [De regreso](https://open.spotify.com/album/0K3k1JIj8a8C1wUGrdLJwF) | 2:53 | 2022-04-28 |  |
 | [Oceans](https://open.spotify.com/track/2I7nb1ZJZJrTAu1G9iXWxY) | [Delaney & Delaney](https://open.spotify.com/artist/6ypSxIupxGZQdQdv0ESPwW) | [Oceans](https://open.spotify.com/album/36JQsFJobgqUjtYGS5shZa) | 2:11 | 2022-04-28 |  |
 | [Oculis](https://open.spotify.com/track/3rkfPXBvaNLZNzwrWZ0Dmd) | [Donna Vellema](https://open.spotify.com/artist/6AB8ZGAhAWesb0QZPmQv3o) | [Oculis](https://open.spotify.com/album/1bPneybtqTRAZ9UZaehET0) | 2:58 | 2022-04-28 |  |
@@ -95,7 +95,7 @@
 | [Tiger Face](https://open.spotify.com/track/5uegoJLNJ1Y8hBliXUeTtC) | [Lyam Roelof](https://open.spotify.com/artist/64GaFeqfcIl6At2Bpc3fxU) | [Tiger Face](https://open.spotify.com/album/6vRm1JHnsnWFJLtUxwEumf) | 2:51 | 2022-04-28 |  |
 | [Unawareness](https://open.spotify.com/track/3JLCotc9wEILsbwsB2T1yf) | [Enika Moerani](https://open.spotify.com/artist/6WLxSLWa7PieCNhztESUCh) | [Unawareness](https://open.spotify.com/album/38UaLlzWn7IKeiufHsFT9i) | 2:42 | 2022-04-28 |  |
 | [Under The Sky](https://open.spotify.com/track/5u4tzKR7fFLFVcr3u6h1JF) | [Boudoin](https://open.spotify.com/artist/1VtcKV38DHQyR0rBukGcep) | [Under The Sky](https://open.spotify.com/album/36IP6uCEgs7X9qI29Qz9KA) | 2:03 | 2022-04-28 |  |
-| [Visions](https://open.spotify.com/track/5h3851Qxv7ASuTSNi4T3oN) | [Ymlacio](https://open.spotify.com/artist/3Tye8bBNb5g7QNBcpoFQRo) | [Visions](https://open.spotify.com/album/0xU18dAYezTrxCcQbVNx2o) | 4:14 | 2022-04-28 |  |
+| [Visions](https://open.spotify.com/track/5h3851Qxv7ASuTSNi4T3oN) | [Ymlacio](https://open.spotify.com/artist/3Tye8bBNb5g7QNBcpoFQRo) | [Visions](https://open.spotify.com/album/0xU18dAYezTrxCcQbVNx2o) | 0:29 | 2022-04-28 |  |
 | [Volare](https://open.spotify.com/track/0eLjghxjAToU8mKhUqx4LX) | [Luca Magliano](https://open.spotify.com/artist/6rTUmNm0j9cHKtFUBa57B7) | [Volare](https://open.spotify.com/album/2VxTB9hSRKD4tCZbTbePvi) | 2:52 | 2022-04-28 |  |
 | [Warm Gradients](https://open.spotify.com/track/0qJkycUbgcEHnOt4ZMckmp) | [Mandy's Moonbike Project](https://open.spotify.com/artist/3N5e1uIcXWMYj9vAsyMd5a) | [Warm Gradients](https://open.spotify.com/album/4JX9EVCKnLt7d1y4HPZqzN) | 3:12 | 2022-04-28 |  |
 | [Weightless Sorrows](https://open.spotify.com/track/6BUVsQeo6YtBSy0vwGGNkw) | [Alpine Sun](https://open.spotify.com/artist/5FivdXVNbUZheGS5gTb9WE) | [Weightless Sorrows](https://open.spotify.com/album/0XhPFxCMNU3aCQqrDnk3pT) | 2:18 | 2022-04-28 |  |

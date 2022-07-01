@@ -4,7 +4,7 @@
 
 > The perfect score to accompany your literary quest.
 
-86 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/0hBVIGuG4NeGfuqta1nWIO)
+88 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/0hBVIGuG4NeGfuqta1nWIO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [After the Storm](https://open.spotify.com/track/5NOfvyC7EmTHLlM8jCnDYr) | [HILMA](https://open.spotify.com/artist/5cfA35ok9YlWE032xcI423) | [Echo](https://open.spotify.com/album/4B2lXu2ZUFvgzJt6s7hPY1) | 2:56 | 2022-03-09 |  |
 | [All Of Me](https://open.spotify.com/track/6tYTSK8xIplPOYSsdldDn0) | [Zenith String Quartet](https://open.spotify.com/artist/3LBNK6SEclYFZ8k4V59XhQ) | [All Of Me](https://open.spotify.com/album/1OMtqqOHouDPqZ4H4wxz6M) | 3:39 | 2022-06-24 |  |
 | [Aléatoire](https://open.spotify.com/track/2eHtBGvfD7PD7SiTl52Vxr) | [Darker In Vine](https://open.spotify.com/artist/58jh9fSzagZAZLbetSDIIg) | [Aléatoire](https://open.spotify.com/album/7KA3DTbG22n9hPSSV3YruJ) | 2:58 | 2022-03-09 |  |
+| [Anticipation](https://open.spotify.com/track/7oXuNksbKMdkaBDDlTjOqT) | [Contra La Muerte De La Luz](https://open.spotify.com/artist/7C19Hdd6VZQcs5tqzJl7QE) | [Anticipation](https://open.spotify.com/album/4pbZrweaQO1XxygeLeqFq7) | 2:11 | 2022-07-01 |  |
 | [Are We Safe Here?](https://open.spotify.com/track/5OeLXyhjckLq6w8l6skNcP) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [Departure](https://open.spotify.com/album/45vmEN7UhIUPAYAXoPJzlW) | 2:31 | 2022-03-09 |  |
 | [Awakened Dream](https://open.spotify.com/track/7LojpF7q06ijTdp1I4Bwvh) | [Franki Love](https://open.spotify.com/artist/5mDUumCBWXr3v5EXqTYwpY) | [The Moon](https://open.spotify.com/album/0oCRWE9MmAu1lLXtVP4rZi) | 3:02 | 2022-06-03 |  |
 | [Bad Signal](https://open.spotify.com/track/6FqAAz5ZcxuFfzBuzo4xHU) | [Cuarto Silencioso](https://open.spotify.com/artist/04LmdQOsJRkyf8l75OvA2i) | [Bad Signal](https://open.spotify.com/album/3kQTkKBCUSJQvl2C5j5w8o) | 3:28 | 2022-06-24 |  |
@@ -68,6 +69,7 @@
 | [Restless, Tamriel Dreams](https://open.spotify.com/track/5GPpwG6GtAPPfdmxltXJnv) | [Brad Derrick](https://open.spotify.com/artist/0WgwTXh66Tz9hSU7LjZsww) | [The Elder Scrolls Online: Music of Tamriel, Vol\. 1 \(Original Game Soundtrack\)](https://open.spotify.com/album/3CDobpkPE61sifIMbxvSN7) | 6:51 | 2022-03-09 |  |
 | [Samurai Sword](https://open.spotify.com/track/0j0UE5JDkNhpWGmFo4RLMl) | [Cierna Sobre Ti](https://open.spotify.com/artist/3B4uijr2TavmmonBtJgcW9) | [Samurai Sword](https://open.spotify.com/album/7AbyUNTbyN8qkADD3GEM7g) | 2:16 | 2022-06-10 |  |
 | [Scotland](https://open.spotify.com/track/7MiNGcNnLD9YSnkxnj5lue) | [BBC Scottish Symphony Orchestra](https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1) | [A History Of Scotland](https://open.spotify.com/album/0eUIFRjts9n258Sj83kpEY) | 2:12 | 2022-03-09 |  |
+| [Ser A Ti](https://open.spotify.com/track/6rDxnznYVvGb0vFkgsBmmE) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [Ser A Ti](https://open.spotify.com/album/0nC9dugAMHACUJQ6GSTZFB) | 3:34 | 2022-07-01 |  |
 | [Sherwood Forest](https://open.spotify.com/track/1bHaFlc2jjKMfnb6GcBNwb) | [Marc Streitenfeld](https://open.spotify.com/artist/02qXVbvAMyWhdHb2GfUcXM) | [Robin Hood \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Q5SwPqfjjPk9ol0tFjElq) | 2:19 | 2022-03-09 |  |
 | [shimmer](https://open.spotify.com/track/5HEFeQwfpoXRQ6qWgCiBe7) | [Nikolas Ricard](https://open.spotify.com/artist/1r72qpS4rK1Sq1TvRxi3rf) | [Once in a Lifetime](https://open.spotify.com/album/5oFBExdi3Xlfy4eMTdO9QE) | 2:18 | 2022-03-09 |  |
 | [Sinfonia in B Minor](https://open.spotify.com/track/22Et1UbszIpkpzm1he39Sr) | [Tegelhof Kammerorchester](https://open.spotify.com/artist/4LDRtSFYN5nWkF52Wk5Bx7) | [Prelude and Sinfonia](https://open.spotify.com/album/7t6wKQwzM8DFIpieNeiuIT) | 2:37 | 2022-03-09 |  |

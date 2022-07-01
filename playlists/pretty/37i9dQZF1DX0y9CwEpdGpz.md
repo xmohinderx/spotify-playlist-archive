@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0y9CwEpdGpz.md) - [plain]
 
 > Known as the Nation's Little Sister in South Korea.
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,840 likes - 80 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,924 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0y9CwEpdGpz.md) - [plain]
 | 43 | [First Winter](https://open.spotify.com/track/5eWw4OyW26hL51XFSTkTPg) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [First Winter](https://open.spotify.com/album/7Kudn82wLhfFfxLVhi9VhA) | 4:00 |
 | 44 | [The shower](https://open.spotify.com/track/6Ig42GJlpNtP77kGIXYZc4) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [CHAT\-SHIRE](https://open.spotify.com/album/3rMvAe0zU0pJRnRa7Rfc1U) | 4:07 |
 | 45 | [The Red Shoes](https://open.spotify.com/track/3atsk5EWI5fNxLMIJnfYfJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Modern Times](https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe) | 4:14 |
-| 46 | [Only I didn't know](https://open.spotify.com/track/48uwqEenPJeJvFYdrM0qV7) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [REAL+](https://open.spotify.com/album/79725WrSou2C9RrEUxClUf) | 3:22 |
+| 46 | [Only I didn't know](https://open.spotify.com/track/48uwqEenPJeJvFYdrM0qV7) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [REAL+](https://open.spotify.com/album/79725WrSou2C9RrEUxClUf) | 0:29 |
 | 47 | [My old story](https://open.spotify.com/track/2jDnaEpQI6xjahWZzeVyaM) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | 3:33 |
 | 48 | [heart](https://open.spotify.com/track/5ktwBE88NKZSfmk6Lw2KhS) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [heart](https://open.spotify.com/album/3NYm5NdVNZsXNfn0ZVezWb) | 2:46 |
 | 49 | [Autumn morning](https://open.spotify.com/track/100N8P8WYnz9eCYuLYGflV) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [가을 아침 \[Gaeul Achim\] : Autumn morning](https://open.spotify.com/album/4QvzYMXuU58cNpFrRQ9Aqi) | 3:38 |

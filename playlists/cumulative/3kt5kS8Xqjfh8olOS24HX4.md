@@ -4,14 +4,14 @@
 
 > Get your sparklers out for this patriotic blend of folk, pop, and Americana.
 
-35 songs - 2 hr 13 min - [published](https://open.spotify.com/playlist/1FSfMLgSZMui51P3Urplns)
+35 songs - 2 hr 1 min - [published](https://open.spotify.com/playlist/1FSfMLgSZMui51P3Urplns)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4th Of July](https://open.spotify.com/track/2Q7RfKKC6kqTZIWqauOiAO) | [Amy Macdonald](https://open.spotify.com/artist/1hJuGCUpefX24GFmss9bjH) | [Life In A Beautiful Light](https://open.spotify.com/album/4BiyiLfkSO75Rk5mFP9Cmj) | 3:48 | 2015-07-02 |  |
-| [4th Of July](https://open.spotify.com/track/75bBN2iQbyuxQMlnC0LgDA) | [Azure Ray](https://open.spotify.com/artist/70UZ254VvtSUmrfqPOkUQZ) | [Azure Ray](https://open.spotify.com/album/6e0ra7uS8RYB8yGXfgHCLV) | 4:13 | 2015-07-02 |  |
+| [4th Of July](https://open.spotify.com/track/75bBN2iQbyuxQMlnC0LgDA) | [Azure Ray](https://open.spotify.com/artist/70UZ254VvtSUmrfqPOkUQZ) | [Azure Ray](https://open.spotify.com/album/6e0ra7uS8RYB8yGXfgHCLV) | 0:29 | 2015-07-02 |  |
 | [4th of July](https://open.spotify.com/track/3iOlPT9wmyI15jxI6ODtT7) | [Stephen Kellogg and The Sixers](https://open.spotify.com/artist/2kfXeO854BtcQr4Rjdxopq) | [Glassjaw Boxer \(Deluxe Version\)](https://open.spotify.com/album/2iqDeyU2LvCWJafbp5kXuq) | 5:03 | 2015-07-02 |  |
-| [4th of July, Asbury Park \(Sandy\)](https://open.spotify.com/track/1gBGk4yWvTFbMykg8tYFPu) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Essential Bruce Springsteen](https://open.spotify.com/album/56JtQFrVKdKT70rkKligWx) | 5:34 | 2015-07-02 |  |
+| [4th of July, Asbury Park \(Sandy\)](https://open.spotify.com/track/1gBGk4yWvTFbMykg8tYFPu) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Essential Bruce Springsteen](https://open.spotify.com/album/56JtQFrVKdKT70rkKligWx) | 0:29 | 2015-07-02 |  |
 | [All\-American Girl](https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 3:32 | 2015-07-02 |  |
 | [America The Beautiful](https://open.spotify.com/track/6kT2T4pofQmT4dOlg3Ki3B) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Ray Charles Forever \(International Version\)](https://open.spotify.com/album/1J56P63eoGNMCRkqAKOOfI) | 3:35 | 2015-07-02 |  |
 | [America the Beautiful \- Single Version](https://open.spotify.com/track/5hYtQrZ1FNsfAWKA52x7Pv) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [America the Beautiful](https://open.spotify.com/album/3C7kWa7ysRTN2LCN3AUPlJ) | 2:37 | 2015-07-02 |  |
@@ -20,7 +20,7 @@
 | [American Pie](https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [The Best Of Don McLean](https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl) | 8:35 | 2015-07-02 |  |
 | [Blue](https://open.spotify.com/track/1yWIsH3TC51gmzvQxZNCQC) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 2:57 | 2015-07-02 |  |
 | [Born and Raised](https://open.spotify.com/track/5RYTpsSI7op7UZznXWqhIP) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Born and Raised](https://open.spotify.com/album/6S0BIiWtnqU0PtumXMpin0) | 4:47 | 2015-07-02 |  |
-| [Dream in Blue](https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [The Stray Birds](https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t) | 3:32 | 2015-07-02 |  |
+| [Dream in Blue](https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [The Stray Birds](https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t) | 0:29 | 2015-07-02 |  |
 | [Firecracker](https://open.spotify.com/track/09KwsYdqoZUsa01p0XeBVc) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/7rIwXFX7SXc8FVBMUnRIvJ) | 2:51 | 2015-07-02 |  |
 | [Fourth of July](https://open.spotify.com/track/5itGqFh4FDMR3DWy7NVnoy) | [little hurricane](https://open.spotify.com/artist/5VLQQzAkJrzG7QggE4DVg2) | [Homewrecker](https://open.spotify.com/album/16fqu9m0E5Q4zj7nGX3Zw3) | 2:53 | 2015-07-02 |  |
 | [Independence Day](https://open.spotify.com/track/2jOkuPweyFcDBBBF8ZW8Zr) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Greatest Hits](https://open.spotify.com/album/467Cag6qid9mjW2hpnIcFi) | 3:26 | 2015-07-02 |  |

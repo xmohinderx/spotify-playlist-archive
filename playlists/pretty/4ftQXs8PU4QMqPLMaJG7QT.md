@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ftQXs8PU4QMqPLMaJG7QT.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 20 likes - 29 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 20 likes - 29 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/4ftQXs8PU4QMqPLMaJG7QT.md) - [plain]
 | 14 | [Chop Suey!](https://open.spotify.com/track/5V3mdRI2yQxbSsJGDPc5lD) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/4DR0GWo7w2GJyQnFVa4jAB) | 3:30 |
 | 15 | [In Waves](https://open.spotify.com/track/4B5hrpQjHTLfGMcTgpatUs) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves](https://open.spotify.com/album/5NDxdsUG2cpD3jJRqHbgic) | 5:02 |
 | 16 | [Carnal](https://open.spotify.com/track/1V9OhDqxHVSTMKttVVuOG0) | [4arm](https://open.spotify.com/artist/5IN4smUkSuVZUkoNSO20S5) | [Carnal](https://open.spotify.com/album/4FPQcOkLTG4NLz8vLntzVi) | 4:43 |
-| 17 | [Источник Болезни \(The Origin Of Disease\)](https://open.spotify.com/track/1RJOCx8NcQf6csadFAOZMB) | [Aborted](https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR) | [Global Flatline](https://open.spotify.com/album/0izzJLNOtzqPwGg9Pduq8Z) | 3:04 |
+| 17 | [Источник Болезни \(The Origin Of Disease\)](https://open.spotify.com/track/1RJOCx8NcQf6csadFAOZMB) | [Aborted](https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR) | [Global Flatline](https://open.spotify.com/album/0izzJLNOtzqPwGg9Pduq8Z) | 0:29 |
 | 18 | [Heroes Of Our Time](https://open.spotify.com/track/6SlDN489zAvfN2srdMXc7S) | [DragonForce](https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR) | [Ultra Beatdown](https://open.spotify.com/album/6EyIBGZXG0YQYLuEew4qiH) | 7:13 |
 | 19 | [Send Me A Sign](https://open.spotify.com/track/0EbOOKAmRvd2w7K1Wvs3Q5) | [Gamma Ray](https://open.spotify.com/artist/6LZE884lDIsCSLHuTplfGp) | [Skeletons and Majesties \- The Mini Album](https://open.spotify.com/album/0axU1YHYe0ICe5nfzHce1z) | 4:26 |
 | 20 | [Bärs som bärs](https://open.spotify.com/track/53kr9zGwpbMyAx0YYyZB2h) | [The Kristet Utseende](https://open.spotify.com/artist/08RaUMtreeTHss1QsLkfPe) | [Sug och fräls](https://open.spotify.com/album/1VorS6vktOcE0SzSkopkfH) | 1:12 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/4ftQXs8PU4QMqPLMaJG7QT.md) - [plain]
 | 25 | [Bonded By Blood](https://open.spotify.com/track/40Q3GI2EZot9FVfZY1YBLs) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Let There Be Blood](https://open.spotify.com/album/6qQ1ByjIJCqUOcklRvvcek) | 3:35 |
 | 26 | [Holy Diver](https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 4:10 |
 | 27 | [Pale Horse](https://open.spotify.com/track/352RkhOaVoawjMx6uWJWk5) | [Naglfar](https://open.spotify.com/artist/1WV0pMUfO5UZ3MXfZrTohr) | [Téras](https://open.spotify.com/album/4p7b24R7rfeDsumGMoB6eD) | 3:38 |
-| 28 | [After Lifeless Years](https://open.spotify.com/track/19eO2GzRSPaIPWtxT7V6An) | [Sylosis](https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl) | [Conclusion Of An Age](https://open.spotify.com/album/0442rz3Kjfi8RUIwbWr8n1) | 4:57 |
+| 28 | [After Lifeless Years](https://open.spotify.com/track/19eO2GzRSPaIPWtxT7V6An) | [Sylosis](https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl) | [Conclusion Of An Age](https://open.spotify.com/album/0442rz3Kjfi8RUIwbWr8n1) | 0:29 |
 | 29 | [Hate Creation](https://open.spotify.com/track/0yv1H7yE8paU52xsxs3d4S) | [Whitechapel](https://open.spotify.com/artist/3OfWQqB4QqBJiUKgbrzNiI) | [Metal Blade Records 2012 Summer Sampler](https://open.spotify.com/album/4S7C3xaUwjVu86ZIUc7OMk) | 3:28 |
 
 Snapshot ID: `NSw4NTA0NWQzMjU2YTQ1YmNhNTQ4ZDdmMjMzYjA2OGI3NTBkYTk3ZTQx`

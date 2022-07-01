@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1DcArrb34m9SS3o8O2dATX.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 349 likes - 49 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 349 likes - 49 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/1DcArrb34m9SS3o8O2dATX.md) - [plain]
 | 24 | [Precious And Few](https://open.spotify.com/track/4hHsYsooA25tfpurRILNou) | [Climax](https://open.spotify.com/artist/1OzPxKCB5R3MLxvkdGN03X) | [Precious And Few & Other Favorites \(Digitally Remastered\)](https://open.spotify.com/album/7uSHX3jPaVgiEbnSG8eUdZ) | 2:43 |
 | 25 | [\(Last Night\) I Didn't Get To Sleep At All](https://open.spotify.com/track/6HH6fmHF2YssfVkRmzcjf0) | [The 5th Dimension](https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM) | [Individually & Collectively](https://open.spotify.com/album/5qxEuqbbwDxKBMBu1SXdhA) | 3:12 |
 | 26 | [Nights In White Satin](https://open.spotify.com/track/3ex1wHTtyUV4GyIy80k9AY) | [The Moody Blues](https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1) | [20th Century Masters: The Millennium Collection: Best Of The '60s](https://open.spotify.com/album/5neTnVuGreOB8Az09WaoB1) | 4:29 |
-| 27 | [Go All The Way \- Remastered](https://open.spotify.com/track/4eW5I5uh4VNkhrHEFtHryZ) | [Raspberries](https://open.spotify.com/artist/7Kkx4dACo6kFSeT9wjfVA5) | [Greatest](https://open.spotify.com/album/3nmVeIA9wx7NMJuu7autZt) | 3:21 |
+| 27 | [Go All The Way \- Remastered](https://open.spotify.com/track/4eW5I5uh4VNkhrHEFtHryZ) | [Raspberries](https://open.spotify.com/artist/7Kkx4dACo6kFSeT9wjfVA5) | [Greatest](https://open.spotify.com/album/3nmVeIA9wx7NMJuu7autZt) | 0:29 |
 | 28 | [Too Late To Turn Back Now](https://open.spotify.com/track/2OyaNAq8BcGstyzueloqpE) | [Cornelius Brothers & Sister Rose](https://open.spotify.com/artist/2GFB1Lc67mbqFXTPCM9XzT) | [The Story Of Cornelius Brothers & Sister Rose](https://open.spotify.com/album/2DO7omBXXS8eGg1TyJ23iW) | 3:18 |
 | 29 | [Back Stabbers](https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 3:06 |
 | 30 | [Down By The Lazy River](https://open.spotify.com/track/3Vb4zEfLhZokSOYBSZIWpk) | [The Osmonds](https://open.spotify.com/artist/5fU6lODhpw3GEGGJuaDprR) | [20th Century Masters: The Millennium Collection: Best of The Osmonds](https://open.spotify.com/album/6hM44tvEu7vu3saAvOrbR2) | 2:44 |

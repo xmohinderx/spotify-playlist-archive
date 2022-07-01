@@ -4,7 +4,7 @@
 
 > Brukout edition: It's a raw and sexy dancehall party!
 
-42 songs - 2 hr 9 min - [published](https://open.spotify.com/playlist/12p07vmmJgWJK1tOpAKbe1)
+42 songs - 2 hr 1 min - [published](https://open.spotify.com/playlist/12p07vmmJgWJK1tOpAKbe1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Gal a Bubble \- Raw](https://open.spotify.com/track/2bvFZtQc3JbD5ZSA6cwvjq) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Gal a Bubble](https://open.spotify.com/album/78ye6DakWA48XtSsBDD86O) | 3:30 | 2014-12-31 |  |
 | [Gwan Good \(Yes\)](https://open.spotify.com/track/4bdBKl86l7e9UfdvTfoMER) | [Bramma](https://open.spotify.com/artist/6MCVsi6GS30CyBcLvhKcRg) | [Bell Foot Riddim](https://open.spotify.com/album/6u8bCRB5NWFWVoas0aJ9FZ) | 2:54 | 2014-12-31 |  |
 | [Hold Unuh Own](https://open.spotify.com/track/07I2t6AlitygHRPhM5BONy) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Hold Unuh Own](https://open.spotify.com/album/5Jb27DQ4iwGGLZhCxPa2uj) | 3:09 | 2014-12-31 |  |
-| [Hold Yuh Own](https://open.spotify.com/track/5XkKSEdRjMSYNOv2QV2938) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7), [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS) | [Hold Yuh Own](https://open.spotify.com/album/3Ur8FGJjKOl1j7nC1tL84s) | 3:01 | 2014-12-31 |  |
+| [Hold Yuh Own](https://open.spotify.com/track/5XkKSEdRjMSYNOv2QV2938) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7), [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS) | [Hold Yuh Own](https://open.spotify.com/album/3Ur8FGJjKOl1j7nC1tL84s) | 0:29 | 2014-12-31 |  |
 | [Kotch](https://open.spotify.com/track/06sYBhXjzVvv818nOUMyDU) | [RDX](https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws) | [Reggae Gold 2013](https://open.spotify.com/album/6FaPULvv6mllRzy80J879B) | 3:13 | 2014-12-31 |  |
 | [Luv Gal \(Raw\)](https://open.spotify.com/track/3prT4qkW5Y5KEoE5JzSwPZ) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Custom Riddim](https://open.spotify.com/album/6nnS6YDUdEjQbvU1hPOLgn) | 3:14 | 2014-12-31 |  |
 | [Make Me Feel \- Raw](https://open.spotify.com/track/41WD7y6TewtqDgJglJJEmB) | [Kalado](https://open.spotify.com/artist/49LHSIccKp7CYrofg0HHTA) | [Make Me Feel \- Single](https://open.spotify.com/album/5JqDC629uwZb7c9SPA7mf4) | 2:27 | 2014-12-31 |  |
@@ -32,7 +32,7 @@
 | [Ready](https://open.spotify.com/track/5sDwFm4RcTERzlpzohKgcl) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Raw as Eva EP](https://open.spotify.com/album/4xrq2zp164pr1el8bDDLlK) | 2:49 | 2014-12-31 |  |
 | [Riddim Say](https://open.spotify.com/track/7JhebiszpIziMWmHBp2E1l) | [RDX](https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws) | [Riddim Say \- Single](https://open.spotify.com/album/3KCUMxsZ7pjlRMHOMWgXGe) | 3:35 | 2014-12-31 |  |
 | [Sanko](https://open.spotify.com/track/2xtnyvIh9I7WMVr0cOu12U) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Epiphany \(Bonus Track Version\)](https://open.spotify.com/album/6XLRfsaOf4r8eiBUN9pDWn) | 3:09 | 2014-12-31 |  |
-| [Sekkle and Cease](https://open.spotify.com/track/3AEUdAahhkgPZ8jan4OPHo) | [Agent Sasco \(Assassin\)](https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy) | [Reggae Gold 2014](https://open.spotify.com/album/6m1RHSRiyDR733BShmmtuf) | 2:41 | 2014-12-31 |  |
+| [Sekkle and Cease](https://open.spotify.com/track/3AEUdAahhkgPZ8jan4OPHo) | [Agent Sasco \(Assassin\)](https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy) | [Reggae Gold 2014](https://open.spotify.com/album/6m1RHSRiyDR733BShmmtuf) | 0:29 | 2014-12-31 |  |
 | [Sidung Sidung \(Raw\)](https://open.spotify.com/track/13Gc7D4WgMaIStTeDkX6wH) | [Stein](https://open.spotify.com/artist/0gZ94YliBPeRCBE5FRtjw3) | [Sidung Sidung](https://open.spotify.com/album/502ahVdiMYC4AcyvyExGzU) | 3:13 | 2014-12-31 |  |
 | [Sivva vs Moggla](https://open.spotify.com/track/4CRLMDK5EZFabFMlnFnpJX) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on), [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Real Estate Riddim](https://open.spotify.com/album/61botM0358uP1LKborxa5E) | 2:49 | 2014-12-31 |  |
 | [So Mi Like It \- Raw](https://open.spotify.com/track/3Cu3lT6wryOucvmzCCvRl3) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Boom Box Riddim](https://open.spotify.com/album/4HjnpN4E1MDr0anJ9TyEay) | 2:36 | 2014-12-31 |  |
@@ -42,7 +42,7 @@
 | [The Bruk Out Song](https://open.spotify.com/track/5k0nzfSO9qYM3vZd7g5Hyt) | [RDX](https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws) | [The Bruk Out Song \- Single](https://open.spotify.com/album/1pbXyRjVgQWpt7KTwlSDvV) | 2:55 | 2014-12-31 |  |
 | [Touch Yah](https://open.spotify.com/track/0K22864F8jwAymy5JsopR9) | [T.O.K](https://open.spotify.com/artist/06JH3wcXkJg7eoxZVMO1UX) | [D\-Stress Riddim](https://open.spotify.com/album/2HOMRFOtWZrMdHkGqyuQJR) | 2:36 | 2014-12-31 |  |
 | [Tun Up \(Raw\)](https://open.spotify.com/track/5ZI5mphraeOlo8aV8gyR8W) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK), [O](https://open.spotify.com/artist/4sCLCgeGyiK20qVjrwYB4b) | [Dancehall Mix Tape Vol\. 1: Mix by Dj Wayne](https://open.spotify.com/album/0GweG4seTUWRYYCXivYh2m) | 1:48 | 2014-12-31 |  |
-| [Turn It Up \(feat\. DJ Jazzy T\)](https://open.spotify.com/track/5DycXVa4e82E6k9M15Nf51) | [Ce'Cile](https://open.spotify.com/artist/1RnGhd2JfN5nbVOvYmhDyO), [DJ Jazzy T](https://open.spotify.com/artist/4DxQlFDzfkQjyU9mrqcV4Q) | [Still Running](https://open.spotify.com/album/0ZEmsBG911uKT7CJxlF0DS) | 3:40 | 2014-12-31 |  |
+| [Turn It Up \(feat\. DJ Jazzy T\)](https://open.spotify.com/track/5DycXVa4e82E6k9M15Nf51) | [Ce'Cile](https://open.spotify.com/artist/1RnGhd2JfN5nbVOvYmhDyO), [DJ Jazzy T](https://open.spotify.com/artist/4DxQlFDzfkQjyU9mrqcV4Q) | [Still Running](https://open.spotify.com/album/0ZEmsBG911uKT7CJxlF0DS) | 0:29 | 2014-12-31 |  |
 | [Up Wid Di Money](https://open.spotify.com/track/4wlh7ahjpX6SMXnDHFv7cf) | [Twins Of Twins](https://open.spotify.com/artist/6Da0wir7fJJkkIqM6UaHNK) | [Dancehall Mix Tape, Vol\. 2 \(Mixed by DJ Wayne\)](https://open.spotify.com/album/5ueiw43Xkliz4bT1s9xMyI) | 1:27 | 2014-12-31 |  |
 | [Watch Me Now](https://open.spotify.com/track/6HXXkkqeyNaVIH7f6al0S4) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Watch Me Now](https://open.spotify.com/album/1ntDC3ut4LrJwlfFZzcApY) | 3:40 | 2014-12-31 |  |
 | [We Bring The Party](https://open.spotify.com/track/2p2n9MH5yVTsiqKj88o61E) | [T.O.K](https://open.spotify.com/artist/06JH3wcXkJg7eoxZVMO1UX) | [Taking Over \- EP](https://open.spotify.com/album/4TpadfL2W8Re5B8Cg1WNbk) | 3:14 | 2014-12-31 |  |

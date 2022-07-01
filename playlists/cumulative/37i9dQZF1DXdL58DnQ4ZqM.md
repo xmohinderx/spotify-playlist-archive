@@ -4,14 +4,14 @@
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-237 songs - 13 hr 30 min - [published](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
+237 songs - 13 hr 20 min - [published](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [a quiet fire](https://open.spotify.com/track/0s1uEBU0SZU8bGxeEh5q36) | [feline empire](https://open.spotify.com/artist/7pNrcc1Bgzb1i88M8TnIVX) | [a quiet fire](https://open.spotify.com/album/2twzW1LzWnlRXm9UZnegsW) | 2:14 | 2022-03-16 |  |
 | [Above The Clouds](https://open.spotify.com/track/3wvGcypk0Ne1TrQS8vImd4) | [Upstairs2](https://open.spotify.com/artist/46gshtccx7HL3aBw4ZKnbA) | [MInd Travel](https://open.spotify.com/album/1khdB3uTK43q8TDvpA7pI3) | 5:43 | 2022-01-12 | 2022-03-17 |
 | [Adam's Song](https://open.spotify.com/track/30W7qmHOEz8gc1U6nY52xd) | [Sofia's Choice](https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20) | [Electric Love Chill](https://open.spotify.com/album/0KusiX6m9geP5PGvoFxlIc) | 3:51 | 2022-01-12 | 2022-03-16 |
-| [air like perfume](https://open.spotify.com/track/4nZY3o9EU0eOPTcjrbpkUt) | [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [air like perfume](https://open.spotify.com/album/4lKWekmYlSC9jzXqjdEcQf) | 2:30 | 2022-03-16 |  |
+| [air like perfume](https://open.spotify.com/track/4nZY3o9EU0eOPTcjrbpkUt) | [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [air like perfume](https://open.spotify.com/album/4lKWekmYlSC9jzXqjdEcQf) | 0:29 | 2022-03-16 |  |
 | [AllyCator](https://open.spotify.com/track/1KSEiT9O35eLhTUZ0JidHc) | [Tripper](https://open.spotify.com/artist/4zgoEfX88yyhncZ3iWXFJo) | [W: Dinner Chill](https://open.spotify.com/album/5x8Cn4kfgxC3lv1FylWcLe) | 5:16 | 2021-08-10 | 2022-03-17 |
 | [American Beauty](https://open.spotify.com/track/2E9L2pqUerLhlxxe8P5z8m) | [Gary Stand](https://open.spotify.com/artist/2k0hsb0Ea3GZBquMpfeEIw) | [Late Night Lovers \(Best Of 2014\-2016\)](https://open.spotify.com/album/4WiPSqYvOIVO9zdZdwyypm) | 3:51 | 2021-08-10 | 2022-03-17 |
 | [An Opening](https://open.spotify.com/track/1r596vXMEybBkkTiNJmpTk) | [Franklin Perry](https://open.spotify.com/artist/5TIYHpHa1svyujIDc014rE) | [Orbital](https://open.spotify.com/album/4oX8VawqEFWZR0lohqqgk3) | 3:02 | 2022-03-16 |  |
@@ -70,7 +70,7 @@
 | [Dreamland](https://open.spotify.com/track/3Xnj3T6IMbPgw56KFvYku2) | [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5), [Amess](https://open.spotify.com/artist/2lWv7a6ohSVtXArF7q4dWc) | [Phases](https://open.spotify.com/album/3UMqhBgBTUniqsBIZ09ZCT) | 2:11 | 2022-03-16 |  |
 | [Drops Of Dreams](https://open.spotify.com/track/1JNb8r32zZkhfoLPzDWfYM) | [NkisOk](https://open.spotify.com/artist/5Ro0lkhTnZMLAexfXndLRo) | [Springflower](https://open.spotify.com/album/36GCCVLhVQ4bUlrir0Ofsj) | 3:51 | 2021-08-10 | 2022-03-17 |
 | [Early Bird](https://open.spotify.com/track/3W7RFr0gMTAL1SLv2PONgt) | [Ramos](https://open.spotify.com/artist/1pghVqHny5KoCSEjb1wHYp) | [Morning](https://open.spotify.com/album/4VuEWJbWhQjMFbxPwKakau) | 4:23 | 2021-08-10 | 2022-02-13 |
-| [Earth](https://open.spotify.com/track/47grvGTNigrMww35L06LJa) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv) | [Earth](https://open.spotify.com/album/3akTQPLju7tOIB1YRLz3p1) | 2:30 | 2022-03-16 |  |
+| [Earth](https://open.spotify.com/track/47grvGTNigrMww35L06LJa) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv) | [Earth](https://open.spotify.com/album/3akTQPLju7tOIB1YRLz3p1) | 0:29 | 2022-03-16 |  |
 | [Elephant & Castle](https://open.spotify.com/track/694EKGkpww46ejk4jyzYM0) | [Wilmer Woo](https://open.spotify.com/artist/6vaY3CMHKyCfQ4JKsg9mJk) | [Elephant & Castle](https://open.spotify.com/album/7kRY9tH9BPnAQ9eoA0bs6v) | 3:06 | 2021-08-10 | 2022-03-17 |
 | [Embrace](https://open.spotify.com/track/3mnhlLOswWkDX4myxwq4Ru) | [wood.](https://open.spotify.com/artist/2mPJCIWr1F4EPuHC4qSGJi) | [Embrace](https://open.spotify.com/album/1MLCJzyzug1A9bHm9eekDI) | 2:21 | 2022-03-16 |  |
 | [Emotional World](https://open.spotify.com/track/6PxDKdFNU3yaDY1gCLjtTj) | [Flight Club](https://open.spotify.com/artist/0iMxy0AdVvT9kbJzBJEQ0D) | [Flight \(Vol 1\)](https://open.spotify.com/album/2mjZgEwsdtcrbpMLU9LsbX) | 3:18 | 2021-08-10 | 2022-03-17 |
@@ -198,7 +198,7 @@
 | [Sparkle](https://open.spotify.com/track/5BHxtOBsxwMN2hhxXRiYBI) | [Sparkle](https://open.spotify.com/artist/4losyGNndCEh5xO3LUV1QN) | [Sunset Thrill](https://open.spotify.com/album/4UZwqu9XzugDZSxG6YT4HT) | 4:02 | 2021-08-10 | 2022-03-17 |
 | [Spots](https://open.spotify.com/track/1smzJLamcRIHcHUT82opTR) | [Cardamom](https://open.spotify.com/artist/55z2VFr6FxKYEOctgA2ICi) | [Spots](https://open.spotify.com/album/3KntBPi6tFBDBXZHE3O1pr) | 2:35 | 2022-03-16 |  |
 | [St\. Petersburg](https://open.spotify.com/track/32Tf9tvthRjnSeIdkiCvIt) | [Maple Syrup](https://open.spotify.com/artist/18hiqhddMloGWzY8pNZ8qr) | [Vacation](https://open.spotify.com/album/3y03NPSfwXczpH777zHcI0) | 2:28 | 2021-08-10 | 2022-03-17 |
-| [Starstruck](https://open.spotify.com/track/4pduLVGTNsZ3KQUqK36Z2z) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Starstruck](https://open.spotify.com/album/5sYXhwMzCigsbf5LH3dN18) | 2:22 | 2022-03-16 |  |
+| [Starstruck](https://open.spotify.com/track/4pduLVGTNsZ3KQUqK36Z2z) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Starstruck](https://open.spotify.com/album/5sYXhwMzCigsbf5LH3dN18) | 0:29 | 2022-03-16 |  |
 | [Stay Lo Get Go \- Chill Original](https://open.spotify.com/track/5JVGYVANcbXaf1AThIYlQM) | [Ears Of Light](https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc) | [Once In A dream](https://open.spotify.com/album/4z830KeZlnQ04eNYxv4Pai) | 3:13 | 2021-08-10 | 2022-03-17 |
 | [Sticky Rice](https://open.spotify.com/track/3pXGD8AWXkPmZ1IzuYjWwc) | [Vin cent](https://open.spotify.com/artist/5Tg78SQRvgm7UUR9hjayxH) | [Sticky Rice](https://open.spotify.com/album/1jOJLf1dG1lLLzfDnx76BY) | 1:52 | 2022-03-16 |  |
 | [Streetlights](https://open.spotify.com/track/6e1YbiurMIWL9A8TqZkwQQ) | [Prithvi](https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Timescapes : Longer Nights](https://open.spotify.com/album/6p2INecNLR2k2GfnvZBBdO) | 2:37 | 2022-03-16 |  |
@@ -235,7 +235,7 @@
 | [We Will Never Be Older](https://open.spotify.com/track/03XffKgge1mtiRM8efv0X7) | [Justin Zimm](https://open.spotify.com/artist/5uwUqgwD6yB922XX2bwbTs) | [Bending Time](https://open.spotify.com/album/5fBVtzorLnUUibwcPdnE5b) | 4:06 | 2021-08-10 | 2022-03-15 |
 | [Weightless](https://open.spotify.com/track/7k5vGYshwMZQy2jrZoWnDO) | [Gina Miranda](https://open.spotify.com/artist/05poPo0WUc0sSmi5SFlxtl) | [Dark Lights](https://open.spotify.com/album/76bTJuH3WByeFftVYBhCJu) | 4:04 | 2021-08-10 | 2022-03-17 |
 | [When We Used To Know \- Chill Mix](https://open.spotify.com/track/2RbfbOY1a1NutRFZTrwK6u) | [Ears Of Light](https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc) | [Keep On Shining, Keep On Moving](https://open.spotify.com/album/1eLINuIs7KXUN9hR681Ujl) | 3:04 | 2021-08-10 | 2022-03-17 |
-| [Where Birds Fly](https://open.spotify.com/track/6OXGSZUh15BQSCsONXHYKN) | [Ornithology](https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j), [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF) | [Where Birds Fly](https://open.spotify.com/album/3NjFH32IEsJTA5iAUJ1Qk8) | 2:03 | 2022-03-16 |  |
+| [Where Birds Fly](https://open.spotify.com/track/6OXGSZUh15BQSCsONXHYKN) | [Ornithology](https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j), [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF) | [Where Birds Fly](https://open.spotify.com/album/3NjFH32IEsJTA5iAUJ1Qk8) | 0:29 | 2022-03-16 |  |
 | [White Heart Sand](https://open.spotify.com/track/0L0A2JQesE17iqjuEQDfiW) | [Togo Bao](https://open.spotify.com/artist/6iLiH4i8sPHd7x1RvS5Fqn) | [White Heart Sand](https://open.spotify.com/album/5yX6p6KpVVS9iPjWAKFrxd) | 3:48 | 2021-08-10 | 2022-03-17 |
 | [White Rim Road](https://open.spotify.com/track/2O8QBB2QBXgIEgdVmUyT1N) | [Floating Lights](https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw) | [All Passing By](https://open.spotify.com/album/7KFbJVz5mRHVRhUeP9ABAu) | 5:53 | 2021-08-10 | 2022-03-17 |
 | [Who Is There](https://open.spotify.com/track/7n0NcqqGQQCbKxmIzny6IT) | [Tee Jay](https://open.spotify.com/artist/7LaiNte25fh24EljHwBUcM) | [Sunday Relax](https://open.spotify.com/album/7eHfJFYAp1tfJxYQmrA9Zu) | 5:18 | 2022-01-12 | 2022-02-11 |
@@ -244,6 +244,6 @@
 | [You \- Spa/Relax](https://open.spotify.com/track/5gFDZ3ICCRjVq5gtcVXzkt) | [Blue Puppy](https://open.spotify.com/artist/55dD7s4frhh7qVFCvBaoBS) | [You](https://open.spotify.com/album/2F5NGDaK7SiGJd0h5CfvPa) | 3:22 | 2021-08-10 | 2022-03-17 |
 | [You Are The Sun](https://open.spotify.com/track/0TKh0LH7lusCzXROSjXkKv) | [Estelle Blanca](https://open.spotify.com/artist/1PoodiuzhtzA3XvvjO0uoM) | [Dreamer Lounge](https://open.spotify.com/album/2flZgG4ruzyz0ZjuvKeZjN) | 4:43 | 2021-08-10 | 2022-03-17 |
 | [Your Smile](https://open.spotify.com/track/3UTzf4q96kTjXPWgqy06xi) | [Michael E](https://open.spotify.com/artist/0n9KXYc3koLNmEc1CcK28R) | [Summer Dreams](https://open.spotify.com/album/7kGk6waPUFRjBwO0dx5yjq) | 5:43 | 2021-08-10 | 2022-03-17 |
-| [Zenith](https://open.spotify.com/track/2Jdezp0U1YKmlBJK1IrYBm) | [lowclowds](https://open.spotify.com/artist/25oJa6BWwoxxrNa299VMh1) | [Venice](https://open.spotify.com/album/0FSV7nJLdW3WtRGmfnzeVb) | 2:47 | 2022-03-16 |  |
+| [Zenith](https://open.spotify.com/track/2Jdezp0U1YKmlBJK1IrYBm) | [lowclowds](https://open.spotify.com/artist/25oJa6BWwoxxrNa299VMh1) | [Venice](https://open.spotify.com/album/0FSV7nJLdW3WtRGmfnzeVb) | 0:29 | 2022-03-16 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

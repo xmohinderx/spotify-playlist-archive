@@ -4,12 +4,12 @@
 
 > A toast to all the artists who will be performing on New Year&\#x27;s Eve across the globe.
 
-41 songs - 2 hr 30 min - [published](https://open.spotify.com/playlist/68YLmcEp6HPpOHF6tYH0ZD)
+41 songs - 2 hr 21 min - [published](https://open.spotify.com/playlist/68YLmcEp6HPpOHF6tYH0ZD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [50 Ways to Say Goodbye](https://open.spotify.com/track/2NniAhAtkRACaMeYt48xlD) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [California 37](https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1) | 4:07 | 2014-12-24 |  |
-| [All About That Bass](https://open.spotify.com/track/1q676iYDR3GeJtOHdyggIU) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title](https://open.spotify.com/album/23T52TnvD0UqLRsuRHHAHA) | 3:07 | 2014-12-24 |  |
+| [All About That Bass](https://open.spotify.com/track/1q676iYDR3GeJtOHdyggIU) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title](https://open.spotify.com/album/23T52TnvD0UqLRsuRHHAHA) | 0:29 | 2014-12-24 |  |
 | [Am I Wrong](https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ) | [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn) | [Black Star Elephant](https://open.spotify.com/album/6zXb9FQMzawvY2Au8Kxky3) | 4:05 | 2014-12-24 |  |
 | [American Beauty/American Psycho](https://open.spotify.com/track/5ohiklvvNq3Imt1bkH0FrH) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/00OUV5Q2NaYKohfnxLufB9) | 3:16 | 2014-12-24 |  |
 | [Anaconda](https://open.spotify.com/track/5a5so8nqDGq75MI5WMbBtT) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Anaconda](https://open.spotify.com/album/1pxED0aW8v0PpojjpJQUkC) | 4:20 | 2014-12-24 |  |
@@ -22,12 +22,12 @@
 | [Break the Rules](https://open.spotify.com/track/2Uxn9uOgMUcGyy25SaMdq6) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/4UWPrrDdzEsdMUDzYM8FC6) | 3:23 | 2014-12-24 |  |
 | [Can't Stop Dancin'](https://open.spotify.com/track/5NetSTs4dgiR6GLrZOQcwJ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Can't Stop Dancin'](https://open.spotify.com/album/0fwnH770rSy9L2F172lTMu) | 3:18 | 2014-12-24 |  |
 | [Centuries](https://open.spotify.com/track/1N1JEeVv5TO2wQpk7vGVLs) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Centuries](https://open.spotify.com/album/2Sv7RYmuo9gHLPq8tMuLBc) | 3:51 | 2014-12-24 |  |
-| [Chains](https://open.spotify.com/track/5OfgGVovaV6pd9kQZUSRP7) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Nick Jonas \(Deluxe\)](https://open.spotify.com/album/4jd7U6ca3Ew6JYpbjFauxj) | 3:23 | 2014-12-24 |  |
+| [Chains](https://open.spotify.com/track/5OfgGVovaV6pd9kQZUSRP7) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Nick Jonas \(Deluxe\)](https://open.spotify.com/album/4jd7U6ca3Ew6JYpbjFauxj) | 0:29 | 2014-12-24 |  |
 | [Fancy](https://open.spotify.com/track/3oiMJQAWVaxSubJ7b2VUtX) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [The New Classic \(Deluxe Version\)](https://open.spotify.com/album/5kfo2COwQYeYR3cE69aSgx) | 3:19 | 2014-12-24 |  |
 | [Fireball \(feat\. John Ryan\)](https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [John Ryan](https://open.spotify.com/artist/3s73tswJycj6HTBNNN393z) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:56 | 2014-12-24 |  |
 | [Ghost](https://open.spotify.com/track/2FiceoWDJ67rrmb5tGBpgE) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Ghost](https://open.spotify.com/album/6MAEuDumUgxsWaEWA6lddg) | 3:36 | 2014-12-24 |  |
 | [If I Die Young](https://open.spotify.com/track/4u26EevCNXMhlvE1xFBJwX) | [The Band Perry](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) | [The Band Perry](https://open.spotify.com/album/3dASAcs9QOsmoSLhHjEhCu) | 3:42 | 2014-12-24 |  |
-| [Jealous](https://open.spotify.com/track/2woCw59DHRIb1vcyQ2a7Ca) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Nick Jonas \(Deluxe\)](https://open.spotify.com/album/4jd7U6ca3Ew6JYpbjFauxj) | 3:43 | 2014-12-24 |  |
+| [Jealous](https://open.spotify.com/track/2woCw59DHRIb1vcyQ2a7Ca) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Nick Jonas \(Deluxe\)](https://open.spotify.com/album/4jd7U6ca3Ew6JYpbjFauxj) | 0:29 | 2014-12-24 |  |
 | [L.A.LOVE \(la la\)](https://open.spotify.com/track/4RZMYKoQiDH27kh6UoIrI2) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G) | [L.A.LOVE \(la la\)](https://open.spotify.com/album/2sr4zoEQAje77BoGFwrCRT) | 3:12 | 2014-12-24 |  |
 | [Lips Are Movin](https://open.spotify.com/track/357p2KRTBXeGGw6YfUI1nH) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Lips Are Movin](https://open.spotify.com/album/5FTVBQcttisTYKk2EXQGPR) | 3:02 | 2014-12-24 |  |
 | [Me And My Broken Heart](https://open.spotify.com/track/41Ypl7Pzkod2H0VlcZH5DS) | [Rixton](https://open.spotify.com/artist/0kkxsdcaWmWU2yWAqclDh4) | [Me And My Broken Heart](https://open.spotify.com/album/6k7EWexxCDzvRMecFJj8CY) | 3:13 | 2014-12-24 |  |

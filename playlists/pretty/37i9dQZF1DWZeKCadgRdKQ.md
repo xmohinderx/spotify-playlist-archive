@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 
 > Keep calm and focus with ambient and post\-rock music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,680,849 likes - 175 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,681,175 likes - 175 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 | 61 | [Raga for HAL](https://open.spotify.com/track/5d3kpW56erBx62L5vhIl8y) | [Syntropy](https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU) | [Raga for HAL](https://open.spotify.com/album/4LynMxu1JCig4PRGMtv6iQ) | 2:58 |
 | 62 | [Mil Sonidos](https://open.spotify.com/track/11oVQ68B4PnVQHIY6svpXg) | [Reina del Mar](https://open.spotify.com/artist/2eTD3o9uyy2e71k0hzNjE6) | [Mil Sonidos](https://open.spotify.com/album/3j1WvLoIAxywTPF3VUIgEe) | 3:12 |
 | 63 | [Falling Rivers](https://open.spotify.com/track/1Tx1CeHCaOHPvYD25thsRq) | [Yolta](https://open.spotify.com/artist/1FcdysxmyKBfSOyVppN3sw) | [Falling Rivers](https://open.spotify.com/album/6UbSWl0n82pfw3J5TlUI63) | 3:38 |
-| 64 | [Levare](https://open.spotify.com/track/6XDJJwtxkhbqYWteeKS20P) | [ANDRIEU](https://open.spotify.com/artist/32H3Drf443gMaVe3XskfEs) | [Levare](https://open.spotify.com/album/0dQxSbvAwp8SNSAG3fPvTJ) | 1:49 |
+| 64 | [Levare](https://open.spotify.com/track/6XDJJwtxkhbqYWteeKS20P) | [ANDRIEU](https://open.spotify.com/artist/32H3Drf443gMaVe3XskfEs) | [Levare](https://open.spotify.com/album/0dQxSbvAwp8SNSAG3fPvTJ) | 0:29 |
 | 65 | [everpresent](https://open.spotify.com/track/6NnKLbuNprZyhHUUbu11HS) | [Imber Sun](https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X) | [everpresent](https://open.spotify.com/album/1HVgsvqhD0LwqEDRy03Y7Q) | 2:35 |
 | 66 | [Curiosity](https://open.spotify.com/track/3WEdWvAScE1EcBfErseQnC) | [Beau Projet](https://open.spotify.com/artist/5bLGj9jAzmBqGwjB2UbjOC) | [Curiosity](https://open.spotify.com/album/5FbnGcGNWnjufAuOrXss3k) | 2:35 |
 | 67 | [Cloud5](https://open.spotify.com/track/1rfbQdf8AYt7qZOIzaP5PP) | [PLACID](https://open.spotify.com/artist/7KQH1xnmFmACcxY4VBCTBn) | [Cloud5](https://open.spotify.com/album/6RBIvAncdozL6m8r0sdsxT) | 2:35 |
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 | 81 | [Awakening](https://open.spotify.com/track/1N5zR5J3f3jQFKMY3cG0YO) | [Starlight Passage](https://open.spotify.com/artist/5tPdr8cTxT89zPEENTLWoh) | [Starlight Passage](https://open.spotify.com/album/1wvSlnr8p5HfQMllaTDHQc) | 2:28 |
 | 82 | [Eleven Shades](https://open.spotify.com/track/2sAg6ll1Vd1BxR8YD0lkRg) | [Lunaire](https://open.spotify.com/artist/1sC8iJ3MHkk4VMunZm8jbc) | [Eleven Shades](https://open.spotify.com/album/11t9vBS4aWC6F1QmucdeC1) | 3:36 |
 | 83 | [Open Fields](https://open.spotify.com/track/24CJS73HBvYtVguUZBnyAn) | [Faelt](https://open.spotify.com/artist/6FlnhTAnvtLGV8mEZLGkBX) | [Open Fields](https://open.spotify.com/album/6AUdvWLCptSVA1g8k7tMKD) | 3:03 |
-| 84 | [Time Travel](https://open.spotify.com/track/2ENH05Q7PkilEF6WujXNjG) | [AMBIE](https://open.spotify.com/artist/5oo57Q3XAVgiuF4D2BSz6D) | [Rooftops](https://open.spotify.com/album/7xZXttB5IlX5eoYBPlwrEa) | 2:40 |
+| 84 | [Time Travel](https://open.spotify.com/track/2ENH05Q7PkilEF6WujXNjG) | [AMBIE](https://open.spotify.com/artist/5oo57Q3XAVgiuF4D2BSz6D) | [Rooftops](https://open.spotify.com/album/7xZXttB5IlX5eoYBPlwrEa) | 0:29 |
 | 85 | [In the Beginning of Time](https://open.spotify.com/track/5I9kd3U6qhnuO3WWX5Le8l) | [Of Water](https://open.spotify.com/artist/0vrr0Uu8SDXaogmsFovyC2) | [In the Beginning of Time](https://open.spotify.com/album/5U2pbbuxFkngsYbbuIlzk5) | 3:11 |
-| 86 | [Change Of Tides](https://open.spotify.com/track/1RsZcsLDGwVpkhgeoL75gE) | [Stories Seldom Told](https://open.spotify.com/artist/2Iyf4h2Mpja2cBl9HwEqo7) | [Change Of Tides](https://open.spotify.com/album/0ioaA2clUxqGSROCF1vo53) | 2:58 |
+| 86 | [Change Of Tides](https://open.spotify.com/track/1RsZcsLDGwVpkhgeoL75gE) | [Stories Seldom Told](https://open.spotify.com/artist/2Iyf4h2Mpja2cBl9HwEqo7) | [Change Of Tides](https://open.spotify.com/album/0ioaA2clUxqGSROCF1vo53) | 0:29 |
 | 87 | [Laugavegur](https://open.spotify.com/track/4nZSgFwgYUOyWcBX61JY6j) | [Dreyma](https://open.spotify.com/artist/6fhkHJ6kJGHDuypn800e77) | [Laugavegur](https://open.spotify.com/album/2NoslXTFBvgUP5eKbJvPcP) | 3:08 |
 | 88 | [Den inre skogen](https://open.spotify.com/track/0Zl6KnmirT1PeGZvAZY9T1) | [Thomas Jackson](https://open.spotify.com/artist/41stF0r3WopxZKcDOh8yB6) | [Den inre skogen](https://open.spotify.com/album/64zeCjhSkwRDzVF6TvOwlc) | 3:49 |
 | 89 | [Silver Lining](https://open.spotify.com/track/2yf1ibNuXk2VwKyGCIIpmA) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [Summer Tales](https://open.spotify.com/album/6ppAmnM0WuNYgrSXC43dKJ) | 3:08 |
@@ -146,7 +146,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 | 136 | [Focus](https://open.spotify.com/track/3DZ7DFolE5U2xEGIzFjeGo) | [Light of Sun](https://open.spotify.com/artist/1G18ferRDAgDuiTaMkoFQf) | [Focus](https://open.spotify.com/album/11a6ahi4zzT4ZRFH06KODz) | 3:10 |
 | 137 | [Woodland Heart](https://open.spotify.com/track/1z7GhYG0KqAmebdLfuoYho) | [Ghost Of Summer](https://open.spotify.com/artist/2SQs5lwQifKBBhMDYnPZy8) | [Woodland Heart](https://open.spotify.com/album/2OeV90Mmc1G332pU5qpatk) | 2:40 |
 | 138 | [Follow me](https://open.spotify.com/track/7d44sL4znFm5HZ6ltUVqbI) | [Andre Ehmann](https://open.spotify.com/artist/1PsIQFkwqSXuQpqK4lxkf6) | [Follow me](https://open.spotify.com/album/7u7hd3qp84YgMuLtsT0GJU) | 3:24 |
-| 139 | [Petrichor](https://open.spotify.com/track/22KKy6ftT0i4nyGNCbwc1B) | [Cecelya](https://open.spotify.com/artist/03aCAywaPegfs9yvJ66eCp) | [Petrichor](https://open.spotify.com/album/0EeoPgnFgCP1TNJsBdelJ7) | 1:58 |
+| 139 | [Petrichor](https://open.spotify.com/track/22KKy6ftT0i4nyGNCbwc1B) | [Cecelya](https://open.spotify.com/artist/03aCAywaPegfs9yvJ66eCp) | [Petrichor](https://open.spotify.com/album/0EeoPgnFgCP1TNJsBdelJ7) | 0:29 |
 | 140 | [Clear Skies](https://open.spotify.com/track/7bKMZYXVYzGMvnHiRDCmjy) | [Dhyana Thomas](https://open.spotify.com/artist/2U2PV9orIaYatgMdTcB6eN) | [Clear Skies](https://open.spotify.com/album/7zMMG77EqxVA5SkyVTx74m) | 2:42 |
 | 141 | [The Choice](https://open.spotify.com/track/2IXJyG1DX93g2EhFXghz37) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Alan Umstead](https://open.spotify.com/artist/6dwp73sWeoHMobWygzWYDP) | [The Last of Us](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) | 1:42 |
 | 142 | [Lucid Alchemy](https://open.spotify.com/track/7u7dK1IXsG4jdB6bK9PCFm) | [Ruud Vanderwege](https://open.spotify.com/artist/4NuHYRjb3dq4fdAel5W46H) | [Lucid Alchemy](https://open.spotify.com/album/4X8CwAlT2DY2CAtt4H6bHz) | 4:18 |
@@ -156,7 +156,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 | 146 | [Farnley Lane](https://open.spotify.com/track/2uI1UogKvnueZl7Xg38UWK) | [The Sleepwalkers](https://open.spotify.com/artist/6vwqHmCmfgwJVzHQn4AAab) | [Farnley Lane](https://open.spotify.com/album/5GiE5fI7Y1bOig9u1oYvTZ) | 3:18 |
 | 147 | [Memory Tree](https://open.spotify.com/track/6X2e0p6D4xOhHqFYFYNHAu) | [Amparo](https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf) | [Memoir Collections I \- Beginnings](https://open.spotify.com/album/538wzM7bIQT5TAuv79sHRU) | 2:54 |
 | 148 | [Drifting](https://open.spotify.com/track/2PlPzw2QFgaGfGNxf6yxf4) | [Silje Månsson](https://open.spotify.com/artist/0kjvjrxeHcYCe2KZkYHqIu) | [Drifting](https://open.spotify.com/album/7enHhnx6XPGlobGI8SliUQ) | 2:03 |
-| 149 | [Arriving](https://open.spotify.com/track/0VZSqwbrOlZxOEakvAQX5a) | [Hilder Sky](https://open.spotify.com/artist/4VtFCdJXVb9aKGq8Pt5dZQ) | [Arriving](https://open.spotify.com/album/7CosLPjvMgHwpwVgZiwNbi) | 2:25 |
+| 149 | [Arriving](https://open.spotify.com/track/0VZSqwbrOlZxOEakvAQX5a) | [Hilder Sky](https://open.spotify.com/artist/4VtFCdJXVb9aKGq8Pt5dZQ) | [Arriving](https://open.spotify.com/album/7CosLPjvMgHwpwVgZiwNbi) | 0:29 |
 | 150 | [Moment of Clarity](https://open.spotify.com/track/1h7XRTgZYY0TYDjYDnLfju) | [Light Bin](https://open.spotify.com/artist/1Zwtu3gCjyYVvEZZXbzucG) | [Moment of Clarity](https://open.spotify.com/album/2jdTmcYye9EjeUiSNScJZC) | 2:21 |
 | 151 | [Observations From A Faraway Place](https://open.spotify.com/track/5H14dJbhKeaU1ffTMmIGJi) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Dream Voucher](https://open.spotify.com/album/2okoZfiEKs54ajikpoc9WZ) | 2:22 |
 | 152 | [Sunbleached Memory](https://open.spotify.com/track/6JVIfxPhQXAyPcA2Ro94HX) | [Toledo Rains](https://open.spotify.com/artist/76uaa6flgNHI5elCp0ssBF) | [Sunbleached Memory](https://open.spotify.com/album/0uLlVkSLZIBxOgp5CxEU6A) | 2:35 |
@@ -177,11 +177,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 | 167 | [Overture](https://open.spotify.com/track/6Xcbf5km5dY2xqnDctdjMx) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [Bloom](https://open.spotify.com/album/4N11Xw4rtuswjOeZjqKgay) | 3:17 |
 | 168 | [2 Nights, a Whisper](https://open.spotify.com/track/3lgNEhD9fL7vLnbZXa9e7s) | [Arylith](https://open.spotify.com/artist/56XjeqEoAGHJDpHhGGnhwK) | [La Luna](https://open.spotify.com/album/7vRVwPzygEpd2zFpyOMNdF) | 3:10 |
 | 169 | [Yatta](https://open.spotify.com/track/6Ek1kkD60Zhl6dzkcy2Xaj) | [Fukase Junichiro](https://open.spotify.com/artist/4TFWlUN4dl73XPjf2Rmz4z) | [Yatta](https://open.spotify.com/album/5ZUVlyd0AFftfWAx8VjeLZ) | 2:24 |
-| 170 | [October Skies](https://open.spotify.com/track/1YU1xwcePnMHo0H5MI9gtm) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/2CiGQi3XgsbETzwSFzn2yk) | 2:55 |
+| 170 | [October Skies](https://open.spotify.com/track/1YU1xwcePnMHo0H5MI9gtm) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/2CiGQi3XgsbETzwSFzn2yk) | 0:29 |
 | 171 | [Seeming](https://open.spotify.com/track/62rlNsIU6VgkRCSqH4BKEu) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Seeming](https://open.spotify.com/album/7HM9J3O7WjqVeGwxS7Do3n) | 2:35 |
 | 172 | [Timeless](https://open.spotify.com/track/2dqeTHHeyLioSSCn9L3xbc) | [Orchestrate the Universe](https://open.spotify.com/artist/1zNZgpcWzRGBIxYh815Mim) | [Timeless](https://open.spotify.com/album/7Bs9jEwbi5uF0iVPd0NN0o) | 1:56 |
 | 173 | [Saoirse](https://open.spotify.com/track/1RiLeuzt9obdImY1RXp5rQ) | [Symon van Gent](https://open.spotify.com/artist/3uskh2B7aDflDsUXjMcyID) | [Saoirse](https://open.spotify.com/album/4yohb3aNNPF9mm9y8WaC2V) | 2:59 |
-| 174 | [Bless Those Tired Eyes](https://open.spotify.com/track/7tZku9Vp402YZ4wW2UYLU3) | [Clem Leek](https://open.spotify.com/artist/5FbBZ9ZLIoVdgbbnGmsKNk) | [Rest](https://open.spotify.com/album/0zR6lyMZuofipT1Mh4Glrn) | 3:52 |
+| 174 | [Bless Those Tired Eyes](https://open.spotify.com/track/7tZku9Vp402YZ4wW2UYLU3) | [Clem Leek](https://open.spotify.com/artist/5FbBZ9ZLIoVdgbbnGmsKNk) | [Rest](https://open.spotify.com/album/0zR6lyMZuofipT1Mh4Glrn) | 0:29 |
 | 175 | [Willow \- Instrumental Version](https://open.spotify.com/track/6dRo3av1dw6j1IrdKZaCQL) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Fireflies & Willow \(Instrumental Version\)](https://open.spotify.com/album/4xjZ7UTVG55BZDAgFYwkeb) | 3:39 |
 
 Snapshot ID: `MTY1NjQ5MTQyMywwMDAwMDBjNDAwMDAwMTgxYWU5NTM3ZmMwMDAwMDE4MTk1ZTgyYjk0`

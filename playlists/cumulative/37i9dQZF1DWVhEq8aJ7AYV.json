@@ -17,7 +17,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 232200,
       "name": "!Pum-!Pum, Bang-Bang!",
       "url": "https://open.spotify.com/track/5UDoPAgMsSQ4giy3sl2ssa"
@@ -75,7 +75,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 171080,
       "name": "Abuela Zombie",
       "url": "https://open.spotify.com/track/0hFQrpJHkfTbXwG7frxlaj"
@@ -94,7 +94,7 @@
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 147240,
+      "duration_ms": 29048,
       "name": "Acapulco Golden",
       "url": "https://open.spotify.com/track/27ytIflM3JBuOEO8cz16XK"
     },
@@ -111,7 +111,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 140613,
       "name": "Another Summer Song",
       "url": "https://open.spotify.com/track/7iruFdG3C7IrydGl57fWcU"
@@ -129,7 +129,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 145200,
       "name": "Aqua Velva",
       "url": "https://open.spotify.com/track/3tLQnUodu2YkdYcUJcmdQA"
@@ -219,7 +219,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 159480,
       "name": "Borrachos y Surfistas",
       "url": "https://open.spotify.com/track/122LPBGVDdRpw8FoXglkxq"
@@ -238,7 +238,7 @@
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 179987,
+      "duration_ms": 29048,
       "name": "Calaveras Del Justicio",
       "url": "https://open.spotify.com/track/1PAikppNGtacY4JblDukir"
     },
@@ -298,6 +298,24 @@
     },
     {
       "album": {
+        "name": "Jet Set",
+        "url": "https://open.spotify.com/album/6cPEX5uD34EuPDZYisJu3w"
+      },
+      "artists": [
+        {
+          "name": "Los Straitjacket",
+          "url": "https://open.spotify.com/artist/5kZHM1iLvRuruP7dNAR8ak"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154933,
+      "name": "Crime Scene",
+      "url": "https://open.spotify.com/track/22G5ONHY2sCfNGLySQVDx0"
+    },
+    {
+      "album": {
         "name": "Rebel Cats Y Sus Amigos",
         "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
       },
@@ -353,6 +371,68 @@
       "duration_ms": 177406,
       "name": "Detective de Bikinis",
       "url": "https://open.spotify.com/track/0uhNbt8QCocGGlExrQE6hc"
+    },
+    {
+      "album": {
+        "name": "From Mexico With Love",
+        "url": "https://open.spotify.com/album/0TBkdI9lgfQNAnrPYqFeV1"
+      },
+      "artists": [
+        {
+          "name": "Abbie Cardwell",
+          "url": "https://open.spotify.com/artist/6AVI3pekvBNc56kSVkziJH"
+        },
+        {
+          "name": "Twin Tones",
+          "url": "https://open.spotify.com/artist/3iWXaK2ztxcwFVtCX3QsKV"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189196,
+      "name": "Dia de Muertos",
+      "url": "https://open.spotify.com/track/6ttuYNmBq53CdtX75ia3Dw"
+    },
+    {
+      "album": {
+        "name": "Super Spy Western Tones",
+        "url": "https://open.spotify.com/album/3yTwg2je3pzjphxsB1Q3eV"
+      },
+      "artists": [
+        {
+          "name": "Danny Amis",
+          "url": "https://open.spotify.com/artist/7j5eEtN2Q4L6xHTZfptI6l"
+        },
+        {
+          "name": "Twin Tones",
+          "url": "https://open.spotify.com/artist/3iWXaK2ztxcwFVtCX3QsKV"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156546,
+      "name": "Double Indemnity",
+      "url": "https://open.spotify.com/track/6ESu10WjCs4lKFaBWQOWPb"
+    },
+    {
+      "album": {
+        "name": "La Muerte en Mojave",
+        "url": "https://open.spotify.com/album/2pgRpGneG8vsrOltcM3Z1v"
+      },
+      "artists": [
+        {
+          "name": "Twin Tones",
+          "url": "https://open.spotify.com/artist/3iWXaK2ztxcwFVtCX3QsKV"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206920,
+      "name": "Ej\u00e9rcito Libertador del Sur",
+      "url": "https://open.spotify.com/track/51J0LIjBqa4rZzlM24oSmL"
     },
     {
       "album": {
@@ -428,6 +508,24 @@
     },
     {
       "album": {
+        "name": "Sangre en el Atl\u00e1ntico",
+        "url": "https://open.spotify.com/album/0dGcnozdWfdgdPez34CCbp"
+      },
+      "artists": [
+        {
+          "name": "The Cavernarios",
+          "url": "https://open.spotify.com/artist/6fsKu7O1tqv4la4xy0fIOZ"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250133,
+      "name": "El Gran Sur",
+      "url": "https://open.spotify.com/track/6yA543x9Q4ayk9nMOBpJ1C"
+    },
+    {
+      "album": {
         "name": "Los Esquizitos Escuchese Bien Fuerte",
         "url": "https://open.spotify.com/album/21T3aN8NPYUBqZnqNHnIna"
       },
@@ -439,7 +537,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 263760,
       "name": "El Planeta Sexual",
       "url": "https://open.spotify.com/track/075wKuhA08EGXvGAwYZUgj"
@@ -461,28 +559,28 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 243438,
       "name": "El Toro",
       "url": "https://open.spotify.com/track/4WVlPM5Nl3FrPRy2bm10mx"
     },
     {
       "album": {
-        "name": "Las Mejores Olas",
-        "url": "https://open.spotify.com/album/3ZWimjUwLvF5ONvMj2gWYt"
+        "name": "XV A\u00f1os en Vivo en el Alicia",
+        "url": "https://open.spotify.com/album/4o40FcuHxy20ryHeOhTmPe"
       },
       "artists": [
         {
-          "name": "Lost Acapulco",
-          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
+          "name": "The Cavernarios",
+          "url": "https://open.spotify.com/artist/6fsKu7O1tqv4la4xy0fIOZ"
         }
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 115880,
-      "name": "Frenesick",
-      "url": "https://open.spotify.com/track/6QHGNzuD7zHtlmUsM0sBlQ"
+      "duration_ms": 263360,
+      "name": "Fiesta en Mis Pantalones - En Vivo",
+      "url": "https://open.spotify.com/track/06tXdLN7VU9XU3jgnKWPWx"
     },
     {
       "album": {
@@ -498,9 +596,27 @@
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 145293,
+      "duration_ms": 29048,
       "name": "Frenesick",
       "url": "https://open.spotify.com/track/1dtewQSnruXAHY1NttRaH3"
+    },
+    {
+      "album": {
+        "name": "Las Mejores Olas",
+        "url": "https://open.spotify.com/album/3ZWimjUwLvF5ONvMj2gWYt"
+      },
+      "artists": [
+        {
+          "name": "Lost Acapulco",
+          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-01",
+      "duration_ms": 115880,
+      "name": "Frenesick",
+      "url": "https://open.spotify.com/track/6QHGNzuD7zHtlmUsM0sBlQ"
     },
     {
       "album": {
@@ -522,6 +638,24 @@
     },
     {
       "album": {
+        "name": "Fuera Ropa: XX A\u00f1os",
+        "url": "https://open.spotify.com/album/2JzJfKk0jtO5JRmyRM4VRk"
+      },
+      "artists": [
+        {
+          "name": "Sr. Bikini",
+          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126336,
+      "name": "Fuera Ropa: XX A\u00f1os",
+      "url": "https://open.spotify.com/track/1Q5WdqThl9eOa7yfOiMEKY"
+    },
+    {
+      "album": {
         "name": "Garaje o Muerte",
         "url": "https://open.spotify.com/album/21cnBP9BOz7CgVTsAyWon6"
       },
@@ -533,7 +667,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 123612,
       "name": "Garaje o Muerte",
       "url": "https://open.spotify.com/track/75sSpuGTbgRBNqrUXeiVRQ"
@@ -551,10 +685,46 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 217733,
       "name": "Giulia Mon Amour",
       "url": "https://open.spotify.com/track/6Bs5fu60hcUsJw9TwOZtV4"
+    },
+    {
+      "album": {
+        "name": "Los Magn\u00edficos",
+        "url": "https://open.spotify.com/album/0HlEemp9yRnQraEb94ssUq"
+      },
+      "artists": [
+        {
+          "name": "Los Magnificos",
+          "url": "https://open.spotify.com/artist/1Nru8JRh3JqTMkAnIox4RB"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203320,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/6HwDrDj6wqgw5zsMQJp1cR"
+    },
+    {
+      "album": {
+        "name": "Brindando a Jos\u00e9 Alfredo Jim\u00e9nez",
+        "url": "https://open.spotify.com/album/4q1HkzjfUT4yVcnI4Q9Sbk"
+      },
+      "artists": [
+        {
+          "name": "Twin Tones",
+          "url": "https://open.spotify.com/artist/3iWXaK2ztxcwFVtCX3QsKV"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169732,
+      "name": "Guitarras de medianoche",
+      "url": "https://open.spotify.com/track/7CfehvgXjwgDl3RRxwAvFk"
     },
     {
       "album": {
@@ -652,6 +822,24 @@
     },
     {
       "album": {
+        "name": "Night Owl",
+        "url": "https://open.spotify.com/album/1GXzJea9SIMyWz6yds1rxI"
+      },
+      "artists": [
+        {
+          "name": "Olivia Jean",
+          "url": "https://open.spotify.com/artist/4elV7QXSkvQNskYUEc5SFe"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250694,
+      "name": "Jaan Pehechaan Ho",
+      "url": "https://open.spotify.com/track/1hyvt4Nz36V3HiiH2xlnVH"
+    },
+    {
+      "album": {
         "name": "Cera Perdida",
         "url": "https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh"
       },
@@ -739,10 +927,28 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 201133,
       "name": "La Dosis Perfecta",
       "url": "https://open.spotify.com/track/3pTHO0Q5QlixCL2eGbx1kl"
+    },
+    {
+      "album": {
+        "name": "S\u00f3lo Queda Bailar",
+        "url": "https://open.spotify.com/album/6EcCzapauwtF9hc705Poj5"
+      },
+      "artists": [
+        {
+          "name": "Los Sant\u00edsimos Snorkels",
+          "url": "https://open.spotify.com/artist/02IE8Qe5Xg06EYMkIHoDJH"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166656,
+      "name": "La Resistida",
+      "url": "https://open.spotify.com/track/2r4hxZxNQEOuQi4Eg7hLGF"
     },
     {
       "album": {
@@ -811,7 +1017,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 203813,
       "name": "Mad Waves",
       "url": "https://open.spotify.com/track/5TKLfhIuRiwFs65utNQ651"
@@ -920,6 +1126,60 @@
     },
     {
       "album": {
+        "name": "Mandira",
+        "url": "https://open.spotify.com/album/2q85XUveaYPO1PXsraljVv"
+      },
+      "artists": [
+        {
+          "name": "The Phantom Four",
+          "url": "https://open.spotify.com/artist/7r7H47Ms0R8Pv8FMEjRCUo"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251694,
+      "name": "Morphological Echo",
+      "url": "https://open.spotify.com/track/0Liygw28XGh0DP0EO5lt9D"
+    },
+    {
+      "album": {
+        "name": "Resurrection of the Blood Zombies from Beyond!",
+        "url": "https://open.spotify.com/album/3zosPfY4bKBfuBjPvHyiIH"
+      },
+      "artists": [
+        {
+          "name": "TELEKRIMEN",
+          "url": "https://open.spotify.com/artist/2KEmsfx3vYhlcs0nATaFkC"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174066,
+      "name": "Mutantes",
+      "url": "https://open.spotify.com/track/0jqpnsBXWrGhf31HIJ6v8E"
+    },
+    {
+      "album": {
+        "name": "Naci\u00f3n Apache",
+        "url": "https://open.spotify.com/album/2LgkoOYWhYWwxwVzTXm5Sp"
+      },
+      "artists": [
+        {
+          "name": "Twin Tones",
+          "url": "https://open.spotify.com/artist/3iWXaK2ztxcwFVtCX3QsKV"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128453,
+      "name": "Naci\u00f3n Apache",
+      "url": "https://open.spotify.com/track/2VDdNo02QCA2nChBQKMqp3"
+    },
+    {
+      "album": {
         "name": "Jet Set",
         "url": "https://open.spotify.com/album/6cPEX5uD34EuPDZYisJu3w"
       },
@@ -931,7 +1191,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 209453,
       "name": "New Siberia",
       "url": "https://open.spotify.com/track/5LOvf3VYtuSqFsakw2WyFb"
@@ -967,7 +1227,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 215653,
       "name": "Pandilleros",
       "url": "https://open.spotify.com/track/5JSuJ89UuxDAWHeNzpLvdr"
@@ -1057,10 +1317,28 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 297942,
       "name": "Qu\u00e9 He Sacado Con Quererte (aka Violeta Parra)",
       "url": "https://open.spotify.com/track/2dyvq27rii2hF8sAZCGXf5"
+    },
+    {
+      "album": {
+        "name": "Rockin' Club",
+        "url": "https://open.spotify.com/album/7AAdyyFFslDJ4bAGc4NsWF"
+      },
+      "artists": [
+        {
+          "name": "Eddie y los Grasosos",
+          "url": "https://open.spotify.com/artist/38WzKEi8tjrcKZ7i5CPHkP"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173720,
+      "name": "Ram Bam Bam",
+      "url": "https://open.spotify.com/track/3l8Q5WtSlfDEqpQUkauSkP"
     },
     {
       "album": {
@@ -1076,9 +1354,27 @@
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 165937,
+      "duration_ms": 29048,
       "name": "Relampagore",
       "url": "https://open.spotify.com/track/0eRIwJaZLI6zdks7BXcCma"
+    },
+    {
+      "album": {
+        "name": "Organ Grinder",
+        "url": "https://open.spotify.com/album/3vLdrulP4lBz0hT6TyGmsR"
+      },
+      "artists": [
+        {
+          "name": "The Bomboras",
+          "url": "https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120866,
+      "name": "Return Of The Death Ray",
+      "url": "https://open.spotify.com/track/1gGHDAJNzivn9ZJCTVULFe"
     },
     {
       "album": {
@@ -1140,6 +1436,24 @@
     },
     {
       "album": {
+        "name": "Sin Retorno",
+        "url": "https://open.spotify.com/album/176jcX2mrt470jgrE4NdUA"
+      },
+      "artists": [
+        {
+          "name": "Sys Malakian",
+          "url": "https://open.spotify.com/artist/38HkiEfzlG45wSNIjjvyEk"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173266,
+      "name": "Sin Retorno",
+      "url": "https://open.spotify.com/track/5mu02msW2PN3oVBoJiBqnh"
+    },
+    {
+      "album": {
         "name": "Soy Pandillero",
         "url": "https://open.spotify.com/album/2qxHcI06mYcsuvybw0JJ84"
       },
@@ -1151,7 +1465,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 224151,
       "name": "Soy Pandillero",
       "url": "https://open.spotify.com/track/5xeZDsYEOaBWAAFexDACba"
@@ -1169,7 +1483,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 176831,
       "name": "Space Junket",
       "url": "https://open.spotify.com/track/1yKaipER1IDZhK7xlkG19G"
@@ -1210,7 +1524,7 @@
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 185813,
+      "duration_ms": 29048,
       "name": "Spy Cam",
       "url": "https://open.spotify.com/track/0zeMgUcxLn0KvXcC8hGZCA"
     },
@@ -1246,7 +1560,7 @@
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 97200,
+      "duration_ms": 29048,
       "name": "Surf Mongol",
       "url": "https://open.spotify.com/track/48He8hwSetoMQPesFnnh6H"
     },
@@ -1282,9 +1596,45 @@
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 88253,
+      "duration_ms": 29048,
       "name": "Tangatutanga",
       "url": "https://open.spotify.com/track/4OxWepIRN3GXUxF7g4Kwvq"
+    },
+    {
+      "album": {
+        "name": "Daddy-O Grande In Mexico",
+        "url": "https://open.spotify.com/album/26eEerapTfJvphEBK0mks5"
+      },
+      "artists": [
+        {
+          "name": "Danny Amis with Lost Acapulco",
+          "url": "https://open.spotify.com/artist/0PLhEPFzmqf0yjfyb8261k"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189853,
+      "name": "Terremoto",
+      "url": "https://open.spotify.com/track/57819d21abP6AB4L2jFgAy"
+    },
+    {
+      "album": {
+        "name": "Plymouth Rock",
+        "url": "https://open.spotify.com/album/3vBmJk8uUIqtH2wYPdVfq9"
+      },
+      "artists": [
+        {
+          "name": "Satan's Pilgrims",
+          "url": "https://open.spotify.com/artist/7LQPLh6XX8uGuU8WKkHYIM"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154720,
+      "name": "The Godfather",
+      "url": "https://open.spotify.com/track/4IbDm3FsKHrdbuAAWXZztu"
     },
     {
       "album": {
@@ -1317,7 +1667,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 203333,
       "name": "Twin Peaks Twist",
       "url": "https://open.spotify.com/track/6ORuHaU0JoaI2SpdbwmNSo"
@@ -1357,7 +1707,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 194622,
       "name": "Una Chica Me Dijo una Vez",
       "url": "https://open.spotify.com/track/1tzcfcBpgv2uaZsWwTi73f"

@@ -1096,6 +1096,24 @@
     },
     {
       "album": {
+        "name": "Jaro",
+        "url": "https://open.spotify.com/album/6i3bpjjJTQPZhB6ovD4HZi"
+      },
+      "artists": [
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Jaro",
+      "url": "https://open.spotify.com/track/4lvGec6nR7TDvub75PtEpC"
+    },
+    {
+      "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
       },
@@ -1191,6 +1209,24 @@
       "duration_ms": 184196,
       "name": "Love Nwantiti (Acoustic Version)",
       "url": "https://open.spotify.com/track/450u5gGMGwQXmtLSR7AN2s"
+    },
+    {
+      "album": {
+        "name": "Many Man - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190621,
+      "name": "Many Man - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
     },
     {
       "album": {

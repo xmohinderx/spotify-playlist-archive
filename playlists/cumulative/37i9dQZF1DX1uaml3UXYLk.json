@@ -272,6 +272,24 @@
     },
     {
       "album": {
+        "name": "Lhotse",
+        "url": "https://open.spotify.com/album/0UOdspMM2Np1WVALtBLVdx"
+      },
+      "artists": [
+        {
+          "name": "West & Zander",
+          "url": "https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335876,
+      "name": "Agw\u00e9",
+      "url": "https://open.spotify.com/track/3P1ZUO9ammzR0p0t0Ez67Q"
+    },
+    {
+      "album": {
         "name": "Ai Shiteru",
         "url": "https://open.spotify.com/album/0LecoFiRVdQoqUapmPvAkh"
       },
@@ -705,7 +723,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 216500,
       "name": "Bamboo",
       "url": "https://open.spotify.com/track/38sgXe7I4fJwnYEqBcO7xT"
@@ -1182,7 +1200,7 @@
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 116923,
+      "duration_ms": 29048,
       "name": "Bwindi Atmosphere",
       "url": "https://open.spotify.com/track/5R0UmdKHd2FfxOj6V3R6Iq"
     },
@@ -2717,7 +2735,7 @@
       ],
       "date_added": "2021-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 143460,
       "name": "Faro",
       "url": "https://open.spotify.com/track/3UUVf6kCaIXaDADINeYQ4V"
@@ -2754,7 +2772,7 @@
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 168813,
+      "duration_ms": 29048,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/4KohjkgXdXqYNHUOhcxJmF"
     },
@@ -2808,7 +2826,7 @@
       "date_added": "2020-11-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 241983,
+      "duration_ms": 29048,
       "name": "Flame",
       "url": "https://open.spotify.com/track/1u9XkKxQr2jAvCCXnfBCZF"
     },
@@ -3063,7 +3081,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 185583,
       "name": "Get Over",
       "url": "https://open.spotify.com/track/4cTbzyrSwc9bs6Z3v6I26y"
@@ -3364,7 +3382,7 @@
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 155584,
+      "duration_ms": 29048,
       "name": "Hold U",
       "url": "https://open.spotify.com/track/6CRjHjpt2jl4Ga7TsrtQja"
     },
@@ -3646,7 +3664,7 @@
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 200010,
+      "duration_ms": 29048,
       "name": "In Brevi",
       "url": "https://open.spotify.com/track/6IdoTS34g52DiT8RoOWQNl"
     },
@@ -3811,7 +3829,7 @@
       ],
       "date_added": "2021-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 154440,
       "name": "Intimo",
       "url": "https://open.spotify.com/track/3b28aZzvppPBqaa9JNPpZC"
@@ -4028,7 +4046,7 @@
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 162153,
+      "duration_ms": 29048,
       "name": "Kissing on the Dance Floor",
       "url": "https://open.spotify.com/track/3LHZHqkVQRfUbxWli3717M"
     },
@@ -4135,7 +4153,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 143448,
       "name": "Late Dip",
       "url": "https://open.spotify.com/track/0Tk4qgJgj4iurLkTm48iGP"
@@ -4247,6 +4265,24 @@
       "duration_ms": 387840,
       "name": "Life Should Be (Easy)",
       "url": "https://open.spotify.com/track/55lEo1OXIh57bA9qTIpmxA"
+    },
+    {
+      "album": {
+        "name": "listen love",
+        "url": "https://open.spotify.com/album/6zBjkfHOntP2AmRooDkx2O"
+      },
+      "artists": [
+        {
+          "name": "it's me.",
+          "url": "https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167576,
+      "name": "listen love",
+      "url": "https://open.spotify.com/track/5oUIrYI0KTZBYh5r9Z5GFA"
     },
     {
       "album": {
@@ -4463,10 +4499,28 @@
       ],
       "date_added": "2021-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 224482,
       "name": "Marbella Sun",
       "url": "https://open.spotify.com/track/4RiHR70ysOr82n2d5cAq8q"
+    },
+    {
+      "album": {
+        "name": "Marilyn",
+        "url": "https://open.spotify.com/album/15q9GI1pbHFAFD6PjtPKP2"
+      },
+      "artists": [
+        {
+          "name": "MC Baptiste",
+          "url": "https://open.spotify.com/artist/6JaDPnL6ur7OkTwD6wKyhL"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171731,
+      "name": "Marilyn",
+      "url": "https://open.spotify.com/track/6PiyVPRpo96Qn9xxyjmbSe"
     },
     {
       "album": {
@@ -4554,7 +4608,7 @@
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 187451,
+      "duration_ms": 29048,
       "name": "Memorabilia",
       "url": "https://open.spotify.com/track/1JlnKS9CRXwCJWemv0T1qY"
     },
@@ -4679,7 +4733,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 138620,
       "name": "Missing U",
       "url": "https://open.spotify.com/track/5dNmmqqsVpsskU332r1ha5"
@@ -4701,6 +4755,24 @@
       "duration_ms": 290157,
       "name": "Mistwalker",
       "url": "https://open.spotify.com/track/29HBY8bz6ut3ePI9VyEtx5"
+    },
+    {
+      "album": {
+        "name": "Moments Of Sundown",
+        "url": "https://open.spotify.com/album/0h9MjPvEVqyJYox9mFdCsC"
+      },
+      "artists": [
+        {
+          "name": "Sum Wave",
+          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245665,
+      "name": "Moments Of Sundown",
+      "url": "https://open.spotify.com/track/1skrQ2EgnDHVciNJRtvL6c"
     },
     {
       "album": {
@@ -5209,6 +5281,24 @@
       "duration_ms": 426000,
       "name": "Nude",
       "url": "https://open.spotify.com/track/5eqnJ4W2scqMKadnTu6jDF"
+    },
+    {
+      "album": {
+        "name": "Lhotse",
+        "url": "https://open.spotify.com/album/0UOdspMM2Np1WVALtBLVdx"
+      },
+      "artists": [
+        {
+          "name": "West & Zander",
+          "url": "https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338162,
+      "name": "Oak",
+      "url": "https://open.spotify.com/track/4kQW1ysBjYl5XePA40NKwT"
     },
     {
       "album": {
@@ -6680,7 +6770,7 @@
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 198222,
+      "duration_ms": 29048,
       "name": "Skateboard House",
       "url": "https://open.spotify.com/track/34guiQp1hLUn4hrx5UzMix"
     },

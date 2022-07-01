@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: saudade, Lorena Chaves
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,929 likes - 89 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,947 likes - 89 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 44 | [vou\-me embora de mim](https://open.spotify.com/track/1f8ZogeEUhm1Nv84LsoJxQ) | [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [vou\-me embora de mim](https://open.spotify.com/album/54ai34YMvhpux2FLnjWGsz) | 3:06 |
 | 45 | [ACORDA PEDRINHO](https://open.spotify.com/track/2sUhjzuc6w4SRFwoC3LvXZ) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [ACORDA PEDRINHO](https://open.spotify.com/album/3zYKRs5QY4f5B66TTAg3p6) | 2:53 |
 | 46 | [Teoría del Cuerpo Enamorado](https://open.spotify.com/track/7gWgcXWm8nQC8FsBiQiJIM) | [Atalhos](https://open.spotify.com/artist/7FSn06H3NaT54hcxAY5rQ9), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Teoría del Cuerpo Enamorado](https://open.spotify.com/album/3bLd5ak4vQm8TWleuhVX4j) | 5:53 |
-| 47 | [Cantiga](https://open.spotify.com/track/5eXBqFxpGIkcdCorF4hohu) | [Thomé](https://open.spotify.com/artist/1s2eZHp7L2dt3j30cUv7R6), [Shamani](https://open.spotify.com/artist/1RKQZ7tAjTqCk3omgA1D4i) | [Cantiga](https://open.spotify.com/album/6rkHu80E8LBhmOLoCcnO8n) | 3:26 |
+| 47 | [Cantiga](https://open.spotify.com/track/5eXBqFxpGIkcdCorF4hohu) | [Thomé](https://open.spotify.com/artist/1s2eZHp7L2dt3j30cUv7R6), [Shamani](https://open.spotify.com/artist/1RKQZ7tAjTqCk3omgA1D4i) | [Cantiga](https://open.spotify.com/album/6rkHu80E8LBhmOLoCcnO8n) | 0:29 |
 | 48 | [Devagar](https://open.spotify.com/track/7qUOCHvZ9cLi7u6lTFqLMg) | [Mariana Cavanellas](https://open.spotify.com/artist/4XBAtMS0mrX2bQipALDthL), [Faew](https://open.spotify.com/artist/2wc2o0xe5pjBkzgMMt3Py9) | [Devagar](https://open.spotify.com/album/5XlLrpsRkgC92wfn33kY5B) | 2:16 |
 | 49 | [Difícil](https://open.spotify.com/track/6ynlZyyVnqMZ8iD8G3ZjGX) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [Difícil](https://open.spotify.com/album/5PnBdVhjBi6dfATnhLSnIa) | 3:06 |
 | 50 | [Quem somos nós](https://open.spotify.com/track/1GqXsiusqMiPmZtjnBfL6t) | [Playmoboys](https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw), [Oh! I Kill](https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI) | [Ressaca](https://open.spotify.com/album/3rkkLKfD5NpXDnwxQU79y3) | 3:41 |

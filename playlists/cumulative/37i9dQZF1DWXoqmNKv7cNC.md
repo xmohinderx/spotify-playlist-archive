@@ -4,7 +4,7 @@
 
 > Mujeres a todo volumen\. En portada: Valentina Moretti
 
-239 songs - 13 hr 38 min - [published](https://open.spotify.com/playlist/0mSZMwxlgMCJR4zBRJxPpa)
+239 songs - 13 hr 36 min - [published](https://open.spotify.com/playlist/0mSZMwxlgMCJR4zBRJxPpa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Azul](https://open.spotify.com/track/5ft3oLnoWPgrH7xMf5auO7) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Azul](https://open.spotify.com/album/4SQJqQE51LU9pTWX0zC7s6) | 3:06 | 2022-03-03 | 2022-04-07 |
 | [Año](https://open.spotify.com/track/6TQ8NdTRsfYskVVo6HOcj9) | [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z) | [Año](https://open.spotify.com/album/1ay3xlJFeazqynt9bQdNu4) | 4:11 | 2022-03-03 | 2022-04-07 |
 | [Años Luz](https://open.spotify.com/track/5xr9zyuuc8uFks81hLejUo) | [Ale Zéguer](https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ) | [Años Luz](https://open.spotify.com/album/4dtJr5ahr526kxisHBjWMa) | 3:31 | 2022-02-02 | 2022-06-01 |
-| [Bam Bam!](https://open.spotify.com/track/7FIGQdIpE4vMVmEfDnStkg) | [EsaMiPau!](https://open.spotify.com/artist/2lmxVMvK3ROVKHvLg23fei), [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [The Produsexxx](https://open.spotify.com/artist/0Huo99sGzwmHx3VfybdIk2) | [Bam Bam!](https://open.spotify.com/album/0baHGmMvQobuE4M0zDCKxT) | 2:45 | 2022-06-01 |  |
+| [Bam Bam!](https://open.spotify.com/track/7FIGQdIpE4vMVmEfDnStkg) | [EsaMiPau!](https://open.spotify.com/artist/2lmxVMvK3ROVKHvLg23fei), [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [The Produsexxx](https://open.spotify.com/artist/0Huo99sGzwmHx3VfybdIk2) | [Bam Bam!](https://open.spotify.com/album/0baHGmMvQobuE4M0zDCKxT) | 0:29 | 2022-06-01 |  |
 | [Bassline](https://open.spotify.com/track/6sd926szaoZ9av5dRbJNsu) | [CRYSTAL](https://open.spotify.com/artist/1omZgglAvXKWjtB2AzxwQn), [Rhiannon Roze](https://open.spotify.com/artist/3epScA5vlvqzr2AfI7JJ2f) | [Bassline](https://open.spotify.com/album/6zgjfv5UuR8M6ppjGXeoTL) | 3:06 | 2022-04-06 | 2022-05-05 |
 | [Bichota \- Spotify Singles](https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Bichota – Spotify Singles](https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq) | 2:37 | 2022-01-05 | 2022-03-04 |
 | [BOMBAY](https://open.spotify.com/track/6rQYdEoWTZZBqCJexRei11) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [EL SUR](https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz) | 3:06 | 2022-05-04 | 2022-06-01 |

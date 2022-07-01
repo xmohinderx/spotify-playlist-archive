@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 
 > Bold bops from Ludhiana to London\. Cover: Sidhu Moose Wala.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,495 likes - 49 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,555 likes - 49 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 | 45 | [Brown Munde](https://open.spotify.com/track/58f4twRnbZOOVUhMUpplJ4) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [Brown Munde](https://open.spotify.com/album/1Ac8fcWoMbo35vD3B5Tjqs) | 4:14 |
 | 46 | [Sira E Hou](https://open.spotify.com/track/31RGhwIcmQg109TxWiHteQ) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Sira E Hou](https://open.spotify.com/album/2Uil84aGsZm6kd2j2FVClR) | 3:20 |
 | 47 | [Bai Bai](https://open.spotify.com/track/4FuQxMZP3ToPrc17Jdh4r1) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Bai Bai](https://open.spotify.com/album/3n9c8TFKnM3Mb0P6W4Lhii) | 4:33 |
-| 48 | [Old Skool](https://open.spotify.com/track/76IXpU3ve4gHmvcduUN88d) | [Prem Dhillon Ft\. Sidhu Moosewala](https://open.spotify.com/artist/4hXZlvo1FmotuwiO3XGdbk), [Naseeb](https://open.spotify.com/artist/68utQf42HeyJUbU8X9W0uf) | [Old Skool](https://open.spotify.com/album/43KOzJb3q0AHeUGzR8stIe) | 4:13 |
+| 48 | [Old Skool](https://open.spotify.com/track/76IXpU3ve4gHmvcduUN88d) | [Prem Dhillon Ft\. Sidhu Moosewala](https://open.spotify.com/artist/4hXZlvo1FmotuwiO3XGdbk), [Naseeb](https://open.spotify.com/artist/68utQf42HeyJUbU8X9W0uf) | [Old Skool](https://open.spotify.com/album/43KOzJb3q0AHeUGzR8stIe) | 0:29 |
 | 49 | [Pyar Bolda](https://open.spotify.com/track/3RtR0XXNGtBHJkFgY6OvTQ) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Pyar Bolda](https://open.spotify.com/album/3ZcDbMWG4m26hPhQXFLFc8) | 2:42 |
 
 Snapshot ID: `MTY1NjQxMTI0NiwwMDAwMDEzYTAwMDAwMTgxYTljZGQxNGQwMDAwMDE3YTEzYTNjYzI5`

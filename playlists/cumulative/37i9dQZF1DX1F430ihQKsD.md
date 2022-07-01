@@ -4,7 +4,7 @@
 
 > La crème de la crème of Montréal's music scene\. Photo: Marci
 
-159 songs - 9 hr 14 min - [published](https://open.spotify.com/playlist/4x7dCsK0Zzpdb88Niig3QN)
+159 songs - 9 hr 9 min - [published](https://open.spotify.com/playlist/4x7dCsK0Zzpdb88Niig3QN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Away from You](https://open.spotify.com/track/6YWrJWR12Z5XEXB37n3LAy) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO) | [Away from You](https://open.spotify.com/album/0CU7rzU77WcKtNROwbywxk) | 3:30 | 2022-03-25 | 2022-04-23 |
 | [Back There](https://open.spotify.com/track/0NBFHo21e5tX6nZdIjAIhT) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Aurora](https://open.spotify.com/album/4X7K9bedTvlVHd06eywvHL) | 2:02 | 2022-03-25 |  |
 | [Bad Behaviour \- Busty and the Bass Remix](https://open.spotify.com/track/7wEhnDrdSm7bUAl5g1jDX8) | [Blue Belly](https://open.spotify.com/artist/03bICu3gRRsxcnjEpG6u3g), [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [Bad Behaviour \(Busty and the Bass Remix\)](https://open.spotify.com/album/1jeYjFGaJvNoC3VgrPdxKE) | 3:43 | 2022-03-25 | 2022-04-16 |
-| [Beau beam](https://open.spotify.com/track/6ua2eIv3IxLvuxPqYn9dFV) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Applaudissez, bande de chameaux](https://open.spotify.com/album/5iY1ENGgSyP7THcv1Zmgsl) | 3:05 | 2022-03-25 |  |
+| [Beau beam](https://open.spotify.com/track/6ua2eIv3IxLvuxPqYn9dFV) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Applaudissez, bande de chameaux](https://open.spotify.com/album/5iY1ENGgSyP7THcv1Zmgsl) | 0:29 | 2022-03-25 |  |
 | [Bigger Love](https://open.spotify.com/track/6BR7PRyiBy54vpa0pTksnw) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Bigger Love](https://open.spotify.com/album/5OfM4QCrtxxcMkAp8aFEtK) | 3:49 | 2022-04-29 |  |
 | [Bittersweet](https://open.spotify.com/track/4r3dW2GaTXSMBOMxtnC2X0) | [Laroie](https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY), [SHAH FRANK](https://open.spotify.com/artist/4NetfCwJqpbsV7dSihbDD5) | [Bittersweet](https://open.spotify.com/album/1l7f3275NojBZM1FpxlDAT) | 3:26 | 2022-05-06 |  |
 | [Blind Eyes](https://open.spotify.com/track/3X5eIiJr9eciTzWfFcgO7r) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO) | [Another Self](https://open.spotify.com/album/4sLpFVoB0AxlKo5W1O60l0) | 3:49 | 2022-04-15 |  |
@@ -124,7 +124,7 @@
 | [Papa Wemba](https://open.spotify.com/track/66uRvVAtgUan70hYcORwbc) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [Papa Wemba](https://open.spotify.com/album/1W3ISOlEvRbSp5Wer7yn9V) | 3:50 | 2022-03-25 | 2022-04-29 |
 | [Pas un chat](https://open.spotify.com/track/6RVkA2vDxFm91KHtZud4Uq) | [Bazzart](https://open.spotify.com/artist/2MbDF1l08wsQOWjwg54YYa) | [Pas un chat](https://open.spotify.com/album/42a33l9LCjFThsvlem9Rw6) | 4:02 | 2022-03-25 | 2022-05-20 |
 | [Patience](https://open.spotify.com/track/4hVUrQ9c3JalPh8f8BoFqW) | [Anna Justen](https://open.spotify.com/artist/5I7Lr9ifQWQv9UdzU9BZr7) | [Saintclaire](https://open.spotify.com/album/0nvwynLe9yrkfDldt6pJYy) | 3:42 | 2022-03-25 | 2022-05-14 |
-| [Pendant que tu dors](https://open.spotify.com/track/6YoHe3OIqQEFcSFJ7sYm22) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim) | [Pendant que tu dors](https://open.spotify.com/album/7ELXNkBU4VZCAqsGHJAv8O) | 3:50 | 2022-03-25 |  |
+| [Pendant que tu dors](https://open.spotify.com/track/6YoHe3OIqQEFcSFJ7sYm22) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim) | [Pendant que tu dors](https://open.spotify.com/album/7ELXNkBU4VZCAqsGHJAv8O) | 0:29 | 2022-03-25 |  |
 | [Perfected Steps](https://open.spotify.com/track/3lhUXoIJ3DNW5xeTH1QJUL) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Perfected Steps](https://open.spotify.com/album/2sdTa1WtzVB56sLxCwetxy) | 6:38 | 2022-04-15 | 2022-05-14 |
 | [Pissed Black Girl](https://open.spotify.com/track/2jf4eV6xXe1z3tZAfGuB7c) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Pissed Black Girl](https://open.spotify.com/album/24BZlsNv1awggEHEtyjZaI) | 3:25 | 2022-04-22 |  |
 | [Plaster :\)](https://open.spotify.com/track/0yoV4bZvQiVf2jB3Ajuumu) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [Plaster :\)](https://open.spotify.com/album/0BTgXsbapVnS8o5PP2wac1) | 2:17 | 2022-03-25 | 2022-04-19 |

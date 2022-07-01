@@ -4,7 +4,7 @@
 
 > Chestnuts roasting on an open fire..\. Timeless heart\-warming classics for the holiday season.
 
-70 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/2LrKZFCCLyYeh3IWx3jt2W)
+70 songs - 3 hr 10 min - [published](https://open.spotify.com/playlist/2LrKZFCCLyYeh3IWx3jt2W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,6 @@
 | [What Child Is This/The Holly And The Ivy \- Medley / Remastered 2006](https://open.spotify.com/track/6OJdXv1Q5OdLgYolFEunJ4) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Crosby \- Christmas Classics](https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A) | 3:20 | 2021-12-25 |  |
 | [White Christmas](https://open.spotify.com/track/3XsaSIPWvM61RIFfeb0BBR) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) | [White Christmas](https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw) | 3:03 | 2021-12-25 |  |
 | [Winter Wonderland](https://open.spotify.com/track/12YAgUbl6Uk9E7fzopF4Ji) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 2:26 | 2021-12-25 |  |
-| [You're A Mean One, Mr\. Grinch](https://open.spotify.com/track/6TnjaL02usP9dwCGzdk5GS) | [Thurl Ravenscroft](https://open.spotify.com/artist/5Gejwv3xz2DpLcxVpMD6hL) | [Dr\. Seuss' How The Grinch Stole Christmas!](https://open.spotify.com/album/6i5r2wHckEUWNo5vODUr3d) | 5:15 | 2021-12-25 |  |
+| [You're A Mean One, Mr\. Grinch](https://open.spotify.com/track/6TnjaL02usP9dwCGzdk5GS) | [Thurl Ravenscroft](https://open.spotify.com/artist/5Gejwv3xz2DpLcxVpMD6hL) | [Dr\. Seuss' How The Grinch Stole Christmas!](https://open.spotify.com/album/6i5r2wHckEUWNo5vODUr3d) | 0:29 | 2021-12-25 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Go\-Go Music from the heart of Washington, DC\. Cover, New Impressionz by Jay Kyri
 
-69 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/7bHL0spTsLvzRLJlpib6rN)
+69 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/7bHL0spTsLvzRLJlpib6rN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Mandingo](https://open.spotify.com/track/57tbmtTFmveMXCnlkG5OT3) | [All\-N\-1](https://open.spotify.com/artist/5UGz0ov5npcv9RXsPqcWPJ), [AJ](https://open.spotify.com/artist/1tcAwKSzlAQtR9V0vfSlHB) | [Go Go DC's Best!](https://open.spotify.com/album/1ChmqzpQITXmigtRjZj53y) | 5:10 | 2022-01-29 |  |
 | [Miracles](https://open.spotify.com/track/1Ii3072sAlR8dA83gaMwua) | [Mambo Sauce](https://open.spotify.com/artist/21owmka8qOu7fqjzfmddjY) | [DJ Flexx Presents: Last Call](https://open.spotify.com/album/1XKHMt7GgGS3cpcIY4FQID) | 4:20 | 2022-01-29 |  |
 | [Oh NO Bounce Beat Style](https://open.spotify.com/track/66ighg5RcjX3HZuZFYtXPd) | [TCB Bounce Beat Kings](https://open.spotify.com/artist/6QoPapOk9izriQmEGamap3) | [Oh NO Bounce Beat Style](https://open.spotify.com/album/3HjZwImcxiLakiM11YahcF) | 3:31 | 2022-01-29 |  |
-| [One Leg Up](https://open.spotify.com/track/5mXQ7uRNyn8Fc1d15v7eC9) | [Pure Elegance](https://open.spotify.com/artist/1MNXP3xNtL6tvPZKy7RZUw) | [One Leg Up](https://open.spotify.com/album/4f3L4JoL17TXS7OZfMRXXc) | 10:04 | 2022-01-29 |  |
+| [One Leg Up](https://open.spotify.com/track/5mXQ7uRNyn8Fc1d15v7eC9) | [Pure Elegance](https://open.spotify.com/artist/1MNXP3xNtL6tvPZKy7RZUw) | [One Leg Up](https://open.spotify.com/album/4f3L4JoL17TXS7OZfMRXXc) | 0:29 | 2022-01-29 |  |
 | [Overnight Scenario](https://open.spotify.com/track/66nXdAjGXyb76XkmVL0p9n) | [Rare Essence](https://open.spotify.com/artist/4vKZXZH0eDibGsDxMVzZDh) | [Classic Cuts, Vol\. 1](https://open.spotify.com/album/2owP9hfrBzMbvSMppf9wrP) | 4:56 | 2022-01-29 |  |
 | [Own It \(GoGo Bounce\)](https://open.spotify.com/track/5iQGMwDkPB9K2HCFXjtlAu) | [Don Panama](https://open.spotify.com/artist/5xhWTTy7Vi5FPDQaUYSIbp), [Drew Keys](https://open.spotify.com/artist/2W0dNRlFKyqlESIr4ZXNLm) | [Own It \(GoGo Bounce\)](https://open.spotify.com/album/1BlJ4Te08MqckmUvhp1ny3) | 2:58 | 2022-05-20 |  |
 | [Panty Dropper](https://open.spotify.com/track/1YsxO2OnPkU2X8fZyipzRN) | [XIB](https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb) | [The Best Of X.I.B](https://open.spotify.com/album/162W23SgvdrRzU1kRSK6nA) | 5:43 | 2022-01-29 |  |
@@ -60,7 +60,7 @@
 | [Roll Call](https://open.spotify.com/track/1N6tzEqcWfHCmUyBzkhGYo) | [CCB \(Critical Condition Band\)](https://open.spotify.com/artist/1O0BLcBdmFd0niKowx2QLK), [Backyard Band](https://open.spotify.com/artist/4lFJtFKGcitXZZZBfWyw03) | [Critical Condition](https://open.spotify.com/album/7BhGifa9kH1Qy7daXhIPpc) | 4:00 | 2022-01-29 |  |
 | [Roxanne](https://open.spotify.com/track/2BtSxVVjTmmuAMwuCy3U1Z) | [XIB](https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb) | [New Year, Same Crank V.2](https://open.spotify.com/album/0UDHuoWNd7crtCMa0rAvn3) | 4:34 | 2022-01-29 |  |
 | [Run Joe](https://open.spotify.com/track/70S1dQ6TVPHz6zdX2xdTc5) | [Chuck Brown and the Soul Searchers](https://open.spotify.com/artist/1Y3CPuN46EPIT3wCTDzPZu) | [By Special Request the Very Best of Chuck Brown](https://open.spotify.com/album/3eioORbCjAPxRk2buvwkqE) | 8:54 | 2022-01-29 |  |
-| [Sardines](https://open.spotify.com/track/6GvQGFGF4MBE6dMYIqL6um) | [Junkyard Band](https://open.spotify.com/artist/7e4sU9TwUkot4QO03Suoqm) | [Reunion \(Live at Martin's Crosswinds Ballroom\)](https://open.spotify.com/album/0IvE2YB8k0tRSThj643rlR) | 2:29 | 2022-01-29 |  |
+| [Sardines](https://open.spotify.com/track/6GvQGFGF4MBE6dMYIqL6um) | [Junkyard Band](https://open.spotify.com/artist/7e4sU9TwUkot4QO03Suoqm) | [Reunion \(Live at Martin's Crosswinds Ballroom\)](https://open.spotify.com/album/0IvE2YB8k0tRSThj643rlR) | 0:29 | 2022-01-29 |  |
 | [Shawty Clap It \(Remix\)](https://open.spotify.com/track/2uY5H6YteSeH80cn1kUTSg) | [New Impressionz](https://open.spotify.com/artist/0VbVSby1bzG3872MRr27HX) | [Shawty Clap It \(Remix\)](https://open.spotify.com/album/6KGiNio1FGRY1HcQv2yo38) | 4:45 | 2022-01-29 |  |
 | [Shoot My Shot \- New Impressionz Go\-Go Edit](https://open.spotify.com/track/2CQ1EzKRWUY3EkVx97jDh5) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [New Impressionz](https://open.spotify.com/artist/0VbVSby1bzG3872MRr27HX) | [Shoot My Shot \(New Impressionz Go\-Go Edit\)](https://open.spotify.com/album/7xrTMVLRs7w7mIfe6KysDI) | 4:45 | 2022-01-29 |  |
 | [Shorty](https://open.spotify.com/track/6FbNqrZVvjrT8LqI5LSRoI) | [Tcb](https://open.spotify.com/artist/35TNz9zmB87Ag9jmKWbch3) | [DJ Flexx Presents \- GO GO 95](https://open.spotify.com/album/1fMcsgqM8kcWmvZONHcbh5) | 6:41 | 2022-01-29 |  |

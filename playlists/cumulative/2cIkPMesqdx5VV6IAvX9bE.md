@@ -4,7 +4,7 @@
 
 > 
 
-50 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/59IlqcEC6rOPigeqfCVZZ6)
+50 songs - 3 hr 11 min - [published](https://open.spotify.com/playlist/59IlqcEC6rOPigeqfCVZZ6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Don't Leave Me This Way \- Single Version](https://open.spotify.com/track/2Nz3QEbXHJffxIlawxrcDp) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [Don't Quit Music: Sweating Disco Dance Party \(Exercise, Fitness, Workout, Aerobics, Running, Walking, Weight Lifting, Cardio, Weight Loss, Abs\)](https://open.spotify.com/album/7JBKtdJwXL7SozPrt5GIYY) | 3:35 | 2013-06-27 |  |
 | [Dreams](https://open.spotify.com/track/703BT1NQsfIwPFv8MXQ47m) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/63k57x0qOkUWEMR0dkMivh) | 4:14 | 2013-06-27 |  |
 | [Easy \- Single Version](https://open.spotify.com/track/63Ee4QAXwCuHLFvXIHRS2u) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [The Definitive Collection](https://open.spotify.com/album/2Rd1gDdcoKvdtwKRwFk3SF) | 4:14 | 2013-06-27 |  |
-| [Enjoy Yourself](https://open.spotify.com/track/3D97kRhZprR6RumFhDFIr4) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [The Essential Michael Jackson](https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY) | 3:21 | 2013-06-27 |  |
+| [Enjoy Yourself](https://open.spotify.com/track/3D97kRhZprR6RumFhDFIr4) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [The Essential Michael Jackson](https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY) | 0:29 | 2013-06-27 |  |
 | [Evergreen \(Love Theme from, "A Star Is Born"\)](https://open.spotify.com/track/5SuEUz1orwSwkfqgFlJUHG) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [The Essential Barbra Streisand](https://open.spotify.com/album/03LP0iA5hWsCVeDFHMV7Z8) | 3:04 | 2013-06-27 |  |
 | [Feels like the First Time \- 2008 Remaster](https://open.spotify.com/track/4kgGJcXALI1ppNA4NdkTw9) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [No End in Sight: The Very Best of Foreigner](https://open.spotify.com/album/4VRXqPaa2ZTwC2AG364RWO) | 3:52 | 2013-06-27 |  |
 | [Fly Like An Eagle](https://open.spotify.com/track/0BTYL86ryKRHvAndNeoiuP) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/3iqReiy2IaPI2N9sdLywER) | 4:42 | 2013-06-27 |  |
@@ -50,7 +50,7 @@
 | [Swayin' To The Music \(Slow Dancin'\)](https://open.spotify.com/track/6DPu98NjYnuvG2o0Lb8A7c) | [Johnny Rivers](https://open.spotify.com/artist/3TiISqKS6ESlMQ4WFfZJw2) | [Johnny Rivers Greatest Hits](https://open.spotify.com/album/6FR164kxGAKlxxt7JceLZU) | 4:03 | 2013-06-27 |  |
 | [Telephone Line](https://open.spotify.com/track/2glAJmXiv5elglswbJUB5P) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [All Over The World: The Very Best Of ELO](https://open.spotify.com/album/5N6jHY6IigIUWiF5cE8FQY) | 4:39 | 2013-06-27 |  |
 | [The Things We Do For Love](https://open.spotify.com/track/6fkK6FH4jXROo7GMwTR27S) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [20th Century Masters: The Millennium Collection: Best Of 10CC](https://open.spotify.com/album/0NdAeRKEfxR075pjL5Ecjl) | 3:33 | 2013-06-27 |  |
-| [Tonight's the Night \(Gonna Be Alright\) \- 2008 Remaster](https://open.spotify.com/track/52YNr0Hzvx9SbKjzbq49XL) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Definitive Rod Stewart](https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj) | 3:57 | 2013-06-27 |  |
+| [Tonight's the Night \(Gonna Be Alright\) \- 2008 Remaster](https://open.spotify.com/track/52YNr0Hzvx9SbKjzbq49XL) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Definitive Rod Stewart](https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj) | 0:29 | 2013-06-27 |  |
 | [Torn Between Two Lovers](https://open.spotify.com/track/6mPXHCKVEWZNXjfQewzb9M) | [Mary MacGregor](https://open.spotify.com/artist/6GlDsAkQHOmNgtUZdJ4Amq) | [Torn Between Two Lovers](https://open.spotify.com/album/18VOxDr5RYG5z16lD5keNX) | 3:50 | 2013-06-27 |  |
 | [Undercover Angel \- Rerecorded Version](https://open.spotify.com/track/11ZRIthoK7BEIpzzPkO7kc) | [Alan O'Day](https://open.spotify.com/artist/63f6RFsOlwDMnAuDwjB58Y) | [The Wonderful World of the 70's: 100 Hit Songs](https://open.spotify.com/album/5pVffpSDVlqPRADnKRmSRE) | 3:37 | 2013-06-27 |  |
 | [Whatcha Gonna Do?](https://open.spotify.com/track/5mkNVpNE5n4biHtevTFgO0) | [Pablo Cruise](https://open.spotify.com/artist/3Y5abCLsMxsOLaZ8rYusSR) | [20th Century Masters: The Millennium Collection: Best of Pablo Cruise](https://open.spotify.com/album/09jxC4cmWYXuecx9kcJP2o) | 4:16 | 2013-06-27 |  |

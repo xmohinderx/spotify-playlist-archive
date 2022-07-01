@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 
 > the best of what landed on planet misfits in 2021\. Cover: Ashnikko
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,121 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,180 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 | 7 | [One Step Closer \- 100 gecs Reanimation](https://open.spotify.com/track/4jM6Tl8062cc9gTJgTZTpx) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz), [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [One Step Closer \(100 gecs Reanimation\)](https://open.spotify.com/album/0kJJubTbpBWH9dwHmRl4qR) | 2:21 |
 | 8 | [SugarCrash! \(feat\. Kim Petras & Curtis Waters\)](https://open.spotify.com/track/6wGOOMMVgaT9LEi2y9jeq1) | [ElyOtto](https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [SugarCrash! \(feat\. Kim Petras & Curtis Waters\)](https://open.spotify.com/album/090OCbV4MnPE2OPapkj7ZB) | 2:32 |
 | 9 | [inside of heaven's mouth, there is a sweet tooth//](https://open.spotify.com/track/5pC6gP878cBc00t2QfQ6Xl) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SURVIVORS GUILT: THE MIXTAPE//](https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY) | 2:11 |
-| 10 | [parents \(with Chloe Noone\)](https://open.spotify.com/track/3PH1p9iaXLUjs0BPjbWpZb) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Chloe Noone](https://open.spotify.com/artist/7Acd6yZCBZ4zI8SoX6YJ6N) | [parents \(with Chloe Noone\)](https://open.spotify.com/album/5O7r99N4WQX4ty1vCERX7V) | 2:53 |
+| 10 | [parents \(with Chloe Noone\)](https://open.spotify.com/track/3PH1p9iaXLUjs0BPjbWpZb) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Chloe Noone](https://open.spotify.com/artist/7Acd6yZCBZ4zI8SoX6YJ6N) | [parents \(with Chloe Noone\)](https://open.spotify.com/album/5O7r99N4WQX4ty1vCERX7V) | 0:29 |
 | 11 | [DiE4u](https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DiE4u](https://open.spotify.com/album/4L4TlrXB94790rqWBprweP) | 3:27 |
 | 12 | [Seize the Power](https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Seize the Power](https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7) | 2:41 |
 | 13 | [More Than a Friend](https://open.spotify.com/track/5TIyFlLF0EfYOUZH1TYxBq) | [GIRLI](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [More Than a Friend](https://open.spotify.com/album/5Gim9raGhoYvmx2bD31vJe) | 2:55 |

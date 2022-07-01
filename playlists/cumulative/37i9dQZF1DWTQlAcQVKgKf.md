@@ -4,7 +4,7 @@
 
 > The sexy queen! Check out HyunA's music.
 
-57 songs - 3 hr 7 min - [published](https://open.spotify.com/playlist/38arVNbmC65c7x2dHYLugn)
+57 songs - 2 hr 55 min - [published](https://open.spotify.com/playlist/38arVNbmC65c7x2dHYLugn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [BABE](https://open.spotify.com/track/5kFakScPV7ZWXStUSvQmxA) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Following](https://open.spotify.com/album/1CIrwYW5dQ8APIX7IaAOAU) | 3:13 | 2021-09-09 |  |
 | [Blacklist \(Feat\. LE\)](https://open.spotify.com/track/4FNEiAZkTqkdCgcUtBVu9E) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [LE](https://open.spotify.com/artist/5h0QnpgJxd77A8UXYrcvhy) | [A Talk](https://open.spotify.com/album/78Ei6os3WDar0sgVlGz0yJ) | 3:29 | 2021-09-09 |  |
 | [Bubble Pop!](https://open.spotify.com/track/59JkwCdGIMTZYb0j75vebU) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Bubble Pop!](https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp) | 3:32 | 2021-09-09 |  |
-| [Cause I'm God Girl](https://open.spotify.com/track/0AgMJriVSGWjN8WLaCqnDv) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [Il Hoon Jung](https://open.spotify.com/artist/38msH2cFK8ui3GvbWqumqk) | [A+](https://open.spotify.com/album/2lCP8HWiKphRT1pmtn0zYw) | 3:22 | 2021-09-09 |  |
+| [Cause I'm God Girl](https://open.spotify.com/track/0AgMJriVSGWjN8WLaCqnDv) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [Il Hoon Jung](https://open.spotify.com/artist/38msH2cFK8ui3GvbWqumqk) | [A+](https://open.spotify.com/album/2lCP8HWiKphRT1pmtn0zYw) | 0:29 | 2021-09-09 |  |
 | [Change \(Feat\. Jun Hyung Yong From BEAST\)](https://open.spotify.com/track/6kFDvPj3FVpQ90HZ5PacxE) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [Yong Jun Hyung](https://open.spotify.com/artist/4drjiBRSqZoTD67xgZCmNo) | [Change](https://open.spotify.com/album/0qtB7YKqjdu1F9uwKgE29L) | 3:31 | 2021-09-09 |  |
 | [Crazy](https://open.spotify.com/track/7ehFSpcDs3PBExiLPwXQP9) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Crazy](https://open.spotify.com/album/7rxIGZnWtFAmEP0LAGMF3E) | 3:12 | 2021-09-09 |  |
 | [Creating Love](https://open.spotify.com/track/1ewy5akEgeJObkXlDLFhzf) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Personal Taste \(Original Television Soundtrack\)](https://open.spotify.com/album/6yG5uMF6dK0xar9DgCkf62) | 3:41 | 2021-09-09 |  |
@@ -28,7 +28,7 @@
 | [FLOWER SHOWER](https://open.spotify.com/track/7zswEelYoepv2FYsDaGhUD) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [I'm Not Cool](https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0) | 3:08 | 2021-09-09 |  |
 | [Freaky](https://open.spotify.com/track/5YLnTUkaycgu2u8CvQRWSm) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [A\`wesome](https://open.spotify.com/album/7MxQlxbJRYm9mZr8spbBke) | 3:17 | 2021-09-09 |  |
 | [FRENCH KISS](https://open.spotify.com/track/2b7Kon2nTvTDOX4CQ7sFPL) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [A Talk](https://open.spotify.com/album/78Ei6os3WDar0sgVlGz0yJ) | 3:11 | 2021-09-09 |  |
-| [Get Outta My House](https://open.spotify.com/track/3IH4uDZKlyodQsR1e9RDjj) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [Jung Yeol Kwon](https://open.spotify.com/artist/6WymcE59cneCq28juiL850) | [A+](https://open.spotify.com/album/2lCP8HWiKphRT1pmtn0zYw) | 3:22 | 2021-09-09 |  |
+| [Get Outta My House](https://open.spotify.com/track/3IH4uDZKlyodQsR1e9RDjj) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [Jung Yeol Kwon](https://open.spotify.com/artist/6WymcE59cneCq28juiL850) | [A+](https://open.spotify.com/album/2lCP8HWiKphRT1pmtn0zYw) | 0:29 | 2021-09-09 |  |
 | [GOOD GIRL](https://open.spotify.com/track/52bSWMZoUoWlQMlV7q5Dqn) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [I'm Not Cool](https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0) | 3:05 | 2021-09-09 |  |
 | [GOOD GIRL](https://open.spotify.com/track/5iMcihnPLMICfFhg3H694w) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [I’m Not Cool](https://open.spotify.com/album/3aqj5OK6GGIZ1Bejw7g0JW) | 3:05 | 2021-09-09 |  |
 | [Green Apple \(Feat\. Il Hoon Jung of BTOB\)](https://open.spotify.com/track/4U3gbP0ZUXE9k2YZGE2TMH) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [Il Hoon Jung of BTOB](https://open.spotify.com/artist/4viqH5lDwLHQSeDIZTJCK7) | [Melting](https://open.spotify.com/album/3VeAhTrnrIzZTJ6qEsByAg) | 3:15 | 2021-09-09 |  |
@@ -40,7 +40,7 @@
 | [I Know](https://open.spotify.com/track/5l6IltuCt6Ex7XP3dG47o1) | [HyunA&DAWN](https://open.spotify.com/artist/6JTCN21ovvrR3iPViZTXz4) | [1+1=1](https://open.spotify.com/album/3LmraKOB9oNrXrifwrYePf) | 3:27 | 2021-09-09 |  |
 | [I'm Not Cool](https://open.spotify.com/track/7xTOqnsOV6qHBPWoCWpzGM) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [I’m Not Cool](https://open.spotify.com/album/3aqj5OK6GGIZ1Bejw7g0JW) | 2:54 | 2021-09-09 |  |
 | [Ice Cream \(Feat\. Maboos\)](https://open.spotify.com/track/6TBGYsimcC1FarPc0I7AYN) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [Maboos](https://open.spotify.com/artist/2uch5GhXkpT561NB95OYBL) | [Melting](https://open.spotify.com/album/3VeAhTrnrIzZTJ6qEsByAg) | 3:15 | 2021-09-09 |  |
-| [Ice Ice](https://open.spotify.com/track/142KEuaZKcjpSqYybDu68D) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [Ji Dam Yook](https://open.spotify.com/artist/0q5mCOaqzgDnmthha6f4W7) | [A+](https://open.spotify.com/album/2lCP8HWiKphRT1pmtn0zYw) | 3:16 | 2021-09-09 |  |
+| [Ice Ice](https://open.spotify.com/track/142KEuaZKcjpSqYybDu68D) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [Ji Dam Yook](https://open.spotify.com/artist/0q5mCOaqzgDnmthha6f4W7) | [A+](https://open.spotify.com/album/2lCP8HWiKphRT1pmtn0zYw) | 0:29 | 2021-09-09 |  |
 | [Is It Poppin'?](https://open.spotify.com/track/6Yp2NcLYo4JbwQs4EQ2pO7) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Is It Poppin'?](https://open.spotify.com/album/1nu4yFtuXNSumMMUdOTq3y) | 3:10 | 2021-09-09 |  |
 | [Just Follow](https://open.spotify.com/track/5oiAchP69eu8pbWbeIDwrG) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [Bubble Pop!](https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp) | 3:24 | 2021-09-09 |  |
 | [Lip & Hip](https://open.spotify.com/track/5C2d3tz8WACjmw7T6TthQ2) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Lip & Hip](https://open.spotify.com/album/01Dv8rPO2AvHogy6uDkb1t) | 3:29 | 2021-09-09 |  |
@@ -54,7 +54,7 @@
 | [Purple \(With E'dawn Of PENTAGON\)](https://open.spotify.com/track/6NJi9S8CKN0QsQGGt4lBBZ) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Following](https://open.spotify.com/album/1CIrwYW5dQ8APIX7IaAOAU) | 3:41 | 2021-09-09 |  |
 | [Red](https://open.spotify.com/track/1kPJiJ3N8cuw5Kzev8Ilu0) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [A Talk](https://open.spotify.com/album/78Ei6os3WDar0sgVlGz0yJ) | 3:19 | 2021-09-09 |  |
 | [Say you love me](https://open.spotify.com/track/35FuyotQe6ViXcpbAw2MXW) | [Gina](https://open.spotify.com/artist/0yLJhwFVWO6K7sDah3PUdL), [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Together Forever Vol\. 1](https://open.spotify.com/album/18GvXb9JVpiUVzh6848Blb) | 3:03 | 2021-09-09 |  |
-| [Serene](https://open.spotify.com/track/3PtpqAHDppoQ4EPaQmqExM) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [A+](https://open.spotify.com/album/2lCP8HWiKphRT1pmtn0zYw) | 3:42 | 2021-09-09 |  |
+| [Serene](https://open.spotify.com/track/3PtpqAHDppoQ4EPaQmqExM) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [A+](https://open.spotify.com/album/2lCP8HWiKphRT1pmtn0zYw) | 0:29 | 2021-09-09 |  |
 | [Show Window](https://open.spotify.com/track/2btctSpZ72GyaNgF5bhlBM) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [I'm Not Cool](https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0) | 3:10 | 2021-09-09 |  |
 | [Show Window](https://open.spotify.com/track/7KRsFDEkmdEZLpGR9BIs0Z) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [I’m Not Cool](https://open.spotify.com/album/3aqj5OK6GGIZ1Bejw7g0JW) | 3:10 | 2021-09-09 |  |
 | [Straight Up](https://open.spotify.com/track/0Rne9W9aSoVYl520FvfS30) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Melting](https://open.spotify.com/album/3VeAhTrnrIzZTJ6qEsByAg) | 2:54 | 2021-09-09 |  |

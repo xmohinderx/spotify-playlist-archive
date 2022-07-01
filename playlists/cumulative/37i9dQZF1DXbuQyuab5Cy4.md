@@ -4,7 +4,7 @@
 
 > Scary monsters and filthy drops.
 
-77 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/0Sw1qMD3QYX3Np7RcmZMZR)
+77 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/0Sw1qMD3QYX3Np7RcmZMZR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [RAMPAGE](https://open.spotify.com/track/2QanQ4WoQAb8zwOzweQihV) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj) | [6 FEET UNDER](https://open.spotify.com/album/25r8pqNVU29qtWSvIxdxGl) | 2:59 | 2021-10-28 |  |
 | [ROCK IT](https://open.spotify.com/track/1yv3aBLO9rgyEHmAR7jI1M) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [ROCK IT](https://open.spotify.com/album/4bhVSIjmRIxUNzCsy7xe6c) | 3:11 | 2021-10-28 |  |
 | [Save My Grave](https://open.spotify.com/track/3SmytDq4CeZ3nKE9777qEx) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [We Are Deadbeats \(Vol\. 4\)](https://open.spotify.com/album/0M5oUKrfgJtfZUKdFsC4VZ) | 3:42 | 2021-10-28 |  |
-| [Scary Monsters](https://open.spotify.com/track/7o5BIeXbEwBSfSCfjdlyQF) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Scary Monsters](https://open.spotify.com/album/5vc0vc1UlPlgJO260ytWk7) | 2:34 | 2021-10-28 |  |
+| [Scary Monsters](https://open.spotify.com/track/7o5BIeXbEwBSfSCfjdlyQF) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Scary Monsters](https://open.spotify.com/album/5vc0vc1UlPlgJO260ytWk7) | 0:29 | 2021-10-28 |  |
 | [Scary Monsters and Nice Sprites](https://open.spotify.com/track/4rwpZEcnalkuhPyGkEdhu0) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Scary Monsters and Nice Sprites EP](https://open.spotify.com/album/35tQBmq1RblVUzAvfsw5uO) | 4:03 | 2021-10-28 |  |
 | [Sell Out](https://open.spotify.com/track/0e9yz3Fz7Nn6I5E4XBP8no) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0) | [Sell Out](https://open.spotify.com/album/1n7yjwouZiDCmvMeAQFQxi) | 3:12 | 2021-10-28 |  |
 | [Someone Else \- PEEKABOO Remix](https://open.spotify.com/track/1qDOI487GoDlWyvzckhzo4) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [Someone Else \(PEEKABOO Remix\)](https://open.spotify.com/album/1CxrLWDUvfOaKHNsKGfUQ1) | 4:16 | 2021-10-28 |  |
@@ -72,7 +72,7 @@
 | [The Evil Folk](https://open.spotify.com/track/5SV1LzjQQxm9od88K3kwio) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [The Evil Folk](https://open.spotify.com/album/2IjPgn4eJwVQMH6Cm9xWnA) | 2:37 | 2021-10-28 |  |
 | [The Execution](https://open.spotify.com/track/7134C3yE9PU0nRVRcNKFqu) | [Sam Lamar](https://open.spotify.com/artist/2ihPQnVz8d2ePjGcXLbNf8) | [The Execution](https://open.spotify.com/album/1buTozFUMjEVgmV9SjwRBt) | 3:55 | 2021-10-28 |  |
 | [The Killer](https://open.spotify.com/track/2Nq9cw839Rz6zLxGYP1YaR) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Bret James](https://open.spotify.com/artist/04NseFrg9L1BHlCQa8tiBl), [RNSOM](https://open.spotify.com/artist/0PDXIBsT4ZOJyqrF1MYnxh) | [The Killer](https://open.spotify.com/album/0L017iQBu2DM0eFfVZchtK) | 3:01 | 2021-10-28 |  |
-| [THE SHOOTV](https://open.spotify.com/track/5TAhkZc6p4XKuYGMnbwTdU) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg) | [THE SHOOTV](https://open.spotify.com/album/1DfkvG8j619HUAmeTAa0fQ) | 3:05 | 2021-10-28 |  |
+| [THE SHOOTV](https://open.spotify.com/track/5TAhkZc6p4XKuYGMnbwTdU) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg) | [THE SHOOTV](https://open.spotify.com/album/1DfkvG8j619HUAmeTAa0fQ) | 0:29 | 2021-10-28 |  |
 | [Thief](https://open.spotify.com/track/5Ce9z7GqSknXccyppRxNLY) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Thief](https://open.spotify.com/album/1TEDJMksfymmVbEpa3pG26) | 3:59 | 2021-10-28 |  |
 | [This Song Scares People](https://open.spotify.com/track/2xUvfzTPwPPMz6oifXCtUg) | [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [This Song Scares People](https://open.spotify.com/album/6PlpFIqZENnbLoDD8JaCV3) | 2:03 | 2021-10-28 |  |
 | [Thundergun \(Bassex Remix\)](https://open.spotify.com/track/00wcThjdMzgKssCHTcyNdu) | [1UP](https://open.spotify.com/artist/7IbckQDhWF6ppQmWT5kCF7) | [Thundergun](https://open.spotify.com/album/4PQJowwI1lBYn82EB0UUlO) | 5:34 | 2021-10-28 |  |

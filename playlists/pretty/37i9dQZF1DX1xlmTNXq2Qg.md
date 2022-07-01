@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xlmTNXq2Qg.md) - [plain]
 
 > Time for dancing in the kitchen!
 
-[Spotify](https://open.spotify.com/user/spotify) - 814,075 likes - 56 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 814,171 likes - 56 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xlmTNXq2Qg.md) - [plain]
 | 13 | [Mean It](https://open.spotify.com/track/3GRSqlALWISqLeNncZMbpX) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [\~how i'm feeling\~](https://open.spotify.com/album/4aoWQU2gSUjl4AZeCPSo1b) | 3:52 |
 | 14 | [13](https://open.spotify.com/track/3zgs1f6Tj0mn29qTXJuhSY) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [LANY](https://open.spotify.com/album/2hVTFTbeg9QhXGZAY99oRa) | 3:54 |
 | 15 | [Thick And Thin](https://open.spotify.com/track/3D110t9ctcoOoylXsc3iR8) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Malibu Nights](https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za) | 3:32 |
-| 16 | [pink skies](https://open.spotify.com/track/6BZ6pl5bczDc3cMF1kBaOy) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [kinda](https://open.spotify.com/album/42jFcn7WDz3hkdkEUUQaM7) | 3:05 |
+| 16 | [pink skies](https://open.spotify.com/track/6BZ6pl5bczDc3cMF1kBaOy) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [kinda](https://open.spotify.com/album/42jFcn7WDz3hkdkEUUQaM7) | 0:29 |
 | 17 | [If You See Her](https://open.spotify.com/track/3coUcc0CDAHz2QwdP7Pee8) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Malibu Nights](https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za) | 3:02 |
 | 18 | [Super Far](https://open.spotify.com/track/74ODGXs4byLTRdnKGM4s6E) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [LANY](https://open.spotify.com/album/2hVTFTbeg9QhXGZAY99oRa) | 3:23 |
 | 19 | [I Don't Wanna Love You Anymore](https://open.spotify.com/track/7ArrTJ1LwcGAlEO65LUQ7i) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Malibu Nights](https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za) | 3:21 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xlmTNXq2Qg.md) - [plain]
 | 43 | [Valentine's Day](https://open.spotify.com/track/2juRA8DhQePry4eb2LMUMM) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Malibu Nights](https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za) | 3:37 |
 | 44 | [The Breakup](https://open.spotify.com/track/6sxTH1KkX0gdAVWLjleobR) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [LANY](https://open.spotify.com/album/2hVTFTbeg9QhXGZAY99oRa) | 3:56 |
 | 45 | [Made In Hollywood](https://open.spotify.com/track/7EXSbDVsIiPdN0VwVyDoZd) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Make Out](https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh) | 3:34 |
-| 46 | [quit](https://open.spotify.com/track/05NiTlbGwYmiJtyhsYIqzt) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [kinda](https://open.spotify.com/album/42jFcn7WDz3hkdkEUUQaM7) | 3:20 |
+| 46 | [quit](https://open.spotify.com/track/05NiTlbGwYmiJtyhsYIqzt) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [kinda](https://open.spotify.com/album/42jFcn7WDz3hkdkEUUQaM7) | 0:29 |
 | 47 | [Run](https://open.spotify.com/track/0QXHHEi0rHMwmkxK5pvc05) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Malibu Nights](https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za) | 3:48 |
-| 48 | [yea, babe, no way](https://open.spotify.com/track/2BL0OrWVgMzEUFdTbfRf0W) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [kinda](https://open.spotify.com/album/42jFcn7WDz3hkdkEUUQaM7) | 3:39 |
+| 48 | [yea, babe, no way](https://open.spotify.com/track/2BL0OrWVgMzEUFdTbfRf0W) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [kinda](https://open.spotify.com/album/42jFcn7WDz3hkdkEUUQaM7) | 0:29 |
 | 49 | [Someone Else](https://open.spotify.com/track/2JUaGpCrD8tywgj9MeLFbb) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [I Loved You.](https://open.spotify.com/album/3hKjzbCr8wCNcjr54dYYv6) | 3:52 |
 | 50 | [It Was Love](https://open.spotify.com/track/3ChWkuO3jUggiTTpAMbkyh) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [LANY](https://open.spotify.com/album/2hVTFTbeg9QhXGZAY99oRa) | 3:48 |
 | 51 | [Sign Of The Times \- Spotify Studios NYC](https://open.spotify.com/track/1Ot2Go1a9Qryw4DfV9DsNL) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Spotify Singles](https://open.spotify.com/album/3iw65zUPsMXmVRnuzJJUtR) | 5:19 |

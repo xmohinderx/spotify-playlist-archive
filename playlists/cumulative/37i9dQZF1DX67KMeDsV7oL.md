@@ -4,7 +4,7 @@
 
 > Check out the Official Spiderhead Playlist\. Watch now on Netflix
 
-21 songs - 1 hr 19 min - [published](https://open.spotify.com/playlist/69CD1AnUyA69Z8Q8iNNPom)
+21 songs - 1 hr 9 min - [published](https://open.spotify.com/playlist/69CD1AnUyA69Z8Q8iNNPom)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Blitzkrieg](https://open.spotify.com/track/3VE7vUZ8Hcg4WtlrVwXwWl) | [Blitzkrieg](https://open.spotify.com/artist/54vbdnaHSULmWN0qWSzACT) | [Theatre of the Damned](https://open.spotify.com/album/67On08o0cKjvP0KD291DTU) | 6:15 | 2022-06-17 |  |
 | [Breezin'](https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Breezin'](https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5) | 5:41 | 2022-06-17 |  |
 | [Can People Change?](https://open.spotify.com/track/3AYs78JSa3FgmQxTtNyrQi) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M), [Tonality](https://open.spotify.com/artist/5pcicNTH7aIJujRAA7WFXg) | [Spiderhead \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/5haACGpU0WzL5FkCUr6YGI) | 3:11 | 2022-06-17 |  |
-| [Crazy Love](https://open.spotify.com/track/4l6uTQ4A2eWZrOzjgm1bey) | [Poco](https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR) | [Legend](https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi) | 2:56 | 2022-06-17 |  |
+| [Crazy Love](https://open.spotify.com/track/4l6uTQ4A2eWZrOzjgm1bey) | [Poco](https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR) | [Legend](https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi) | 0:29 | 2022-06-17 |  |
 | [Double Dose](https://open.spotify.com/track/6ufiWSDtrSMSoZVF5gPmJf) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Spiderhead \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/5haACGpU0WzL5FkCUr6YGI) | 1:24 | 2022-06-17 |  |
 | [Drip On](https://open.spotify.com/track/4hhFueieNdbLnYyHg0FHN9) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Spiderhead \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/5haACGpU0WzL5FkCUr6YGI) | 1:13 | 2022-06-17 |  |
 | [Feels So Good](https://open.spotify.com/track/2M7EflZCPCqqRLB9hy5MDy) | [Chuck Mangione](https://open.spotify.com/artist/2MMaIlHd8UvDW0mVRAncD6) | [Feels So Good](https://open.spotify.com/album/5w0p1F0Q1wBqsX2UiX6CCD) | 9:42 | 2022-06-17 |  |
@@ -21,7 +21,7 @@
 | [More Than This](https://open.spotify.com/track/6N7gPTru90HYLRUIVDQ185) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Avalon](https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw) | 4:30 | 2022-06-17 |  |
 | [Peppermint Park](https://open.spotify.com/track/3T8euNLupr0hwqS1oEITjt) | [Paul Hart](https://open.spotify.com/artist/6HqDg6DeGjz0SgqEEEEmVu) | [Bruton Vaults: Disco, Vol\. 1](https://open.spotify.com/album/68w7yR6DkhU0OL9EXeeEbK) | 3:17 | 2022-06-17 |  |
 | [Redemption](https://open.spotify.com/track/3Tqd7D4DjwboPzsoAYOQg5) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M), [Tonality](https://open.spotify.com/artist/5pcicNTH7aIJujRAA7WFXg) | [Spiderhead \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/5haACGpU0WzL5FkCUr6YGI) | 2:31 | 2022-06-17 |  |
-| [Rise](https://open.spotify.com/track/1TsmHRIXvMTLP7Vu53XsUV) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [Rise](https://open.spotify.com/album/7HY0aAzDNhAqmFHATtABPY) | 7:37 | 2022-06-17 |  |
+| [Rise](https://open.spotify.com/track/1TsmHRIXvMTLP7Vu53XsUV) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [Rise](https://open.spotify.com/album/7HY0aAzDNhAqmFHATtABPY) | 0:29 | 2022-06-17 |  |
 | [Shanghai Express](https://open.spotify.com/track/5oqDSbyHSMKSQocnTx6U28) | [Maurizio Dami](https://open.spotify.com/artist/5TVeAJmehYn5Feb2mojsAF) | [Heart Of The Chart](https://open.spotify.com/album/2tlyQK9gIlVCbunjrPFOHH) | 3:02 | 2022-06-17 |  |
 | [She Blinded Me With Science](https://open.spotify.com/track/6HYf9ZEZKuxy581QVmYA6c) | [Thomas Dolby](https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7) | [The Golden Age Of Wireless](https://open.spotify.com/album/3V177EgHtR65iBY1NHZxp4) | 3:41 | 2022-06-17 |  |
 | [Solfetietto, En Ut Mineur](https://open.spotify.com/track/5BGe92r3hyLf14Uq3ea5mA) | [The Swingle Singers](https://open.spotify.com/artist/2Rn34e82tV2YfbLfP1omlS) | [Going Baroque](https://open.spotify.com/album/6EbmD7EGlv0qeWQxz3Wghl) | 0:54 | 2022-06-17 |  |

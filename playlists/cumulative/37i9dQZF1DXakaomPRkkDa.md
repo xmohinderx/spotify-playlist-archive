@@ -4,7 +4,7 @@
 
 > All the biggest Core tracks of the moment\. Cover: Bleed From Within
 
-53 songs - 3 hr 10 min - [published](https://open.spotify.com/playlist/6p5wrbsD6TVse4w3kRoNzS)
+53 songs - 2 hr 56 min - [published](https://open.spotify.com/playlist/6p5wrbsD6TVse4w3kRoNzS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Break The Silence](https://open.spotify.com/track/6abtzJMSDIosKqVe8KUToF) | [Breathe Atlantis](https://open.spotify.com/artist/6YLWRVTViX4bm2mGxRy9XN) | [Break The Silence](https://open.spotify.com/album/2YefdDltPsBbG4eHT0jVnv) | 3:27 | 2022-05-27 |  |
 | [Broken Homes](https://open.spotify.com/track/5jYBHfcAfmES6eVx695YEJ) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf) | [Afterglow](https://open.spotify.com/album/0Rzu3mifln0xaAZ2pAUnm5) | 3:16 | 2022-05-27 |  |
 | [Brother](https://open.spotify.com/track/4eU1uU2AmKrjrC7BXnXFly) | [Eyes Wide Open](https://open.spotify.com/artist/1AYs2fxCu0pV8iKaguz4po) | [Brother](https://open.spotify.com/album/5fIgHbrR9M51kodRvwdkY0) | 3:23 | 2022-05-27 | 2022-06-11 |
-| [Calling You](https://open.spotify.com/track/68j6RDtKgoN4Ei8eoDOSjO) | [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU) | [Calling You](https://open.spotify.com/album/2IgooFSzVdwB8BXKzoy1lz) | 3:37 | 2022-05-27 |  |
+| [Calling You](https://open.spotify.com/track/68j6RDtKgoN4Ei8eoDOSjO) | [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU) | [Calling You](https://open.spotify.com/album/2IgooFSzVdwB8BXKzoy1lz) | 0:29 | 2022-05-27 |  |
 | [Code of Honor](https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Fury](https://open.spotify.com/album/5SuH3r7QBzpe1WMgE3cabl) | 3:06 | 2022-05-27 |  |
 | [Cut Throat](https://open.spotify.com/track/2sICZQ4Ixmet50hroTflc3) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Cut Throat](https://open.spotify.com/album/4NKyOHHQpw04ELBF9w5bur) | 3:07 | 2022-05-27 |  |
 | [Daggers](https://open.spotify.com/track/7yhN7C46ts8tAKHoNRrBL6) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz), [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Daggers](https://open.spotify.com/album/3RC2BMP1bYDgext5fX0w6w) | 3:14 | 2022-05-27 |  |
@@ -25,7 +25,7 @@
 | [Death](https://open.spotify.com/track/2kfSeL9vDusN2hHnMJXbgs) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6), [DR€W ¥ORK](https://open.spotify.com/artist/4E7k7fQ89SmXCLHHvpMNHu) | [Death](https://open.spotify.com/album/7lwudJOqfQ3cmBWBsbOjt1) | 3:43 | 2022-05-27 |  |
 | [Don't Fix Me](https://open.spotify.com/track/7jMgTfAnjxgYJFBL9fKlJj) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Don't Fix Me](https://open.spotify.com/album/5eh22H5dI8tHG6aknnl80L) | 2:53 | 2022-06-10 |  |
 | [Don't Go](https://open.spotify.com/track/5su7QP5m3Mt5yaAM5rrriE) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Don't Go](https://open.spotify.com/album/2notng3VruouqChEzm2IJl) | 3:21 | 2022-05-27 | 2022-06-11 |
-| [Dust of the Bereaved](https://open.spotify.com/track/5wfILshQZtz9pKTOBEuH95) | [Tenside](https://open.spotify.com/artist/23d3dPHmTdEax2Ok6vTkke) | [Dust of the Bereaved](https://open.spotify.com/album/73Wkn2DNQR5LWE5HMKDHQ0) | 4:45 | 2022-05-27 |  |
+| [Dust of the Bereaved](https://open.spotify.com/track/5wfILshQZtz9pKTOBEuH95) | [Tenside](https://open.spotify.com/artist/23d3dPHmTdEax2Ok6vTkke) | [Dust of the Bereaved](https://open.spotify.com/album/73Wkn2DNQR5LWE5HMKDHQ0) | 0:29 | 2022-05-27 |  |
 | [Echo](https://open.spotify.com/track/1tflEwtV8PtN6IRErehdve) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Echo](https://open.spotify.com/album/0cAdFhMC5AGBs5BRpFD23C) | 3:19 | 2022-05-27 |  |
 | [EYE TO EYE](https://open.spotify.com/track/532PgIpf93c12uY9SAWheS) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [EYE TO EYE](https://open.spotify.com/album/52Bi5Euib8FrdsJLA7LsT1) | 3:53 | 2022-05-27 |  |
 | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/track/5l4DU5tgUtLqFSxir6y0dp) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/album/0i4ilwdkroLzNxb3SD0SjW) | 3:05 | 2022-05-27 |  |
@@ -34,7 +34,7 @@
 | [Fearless](https://open.spotify.com/track/5L0iZHVg5zs3bKVpzokKJL) | [The Browning](https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo) | [End Of Existence](https://open.spotify.com/album/3pBJEqLBZpxkZszKcc3tDj) | 4:17 | 2022-05-27 |  |
 | [Flesh And Stone](https://open.spotify.com/track/3wyVcK3etnz24JX8K62b6O) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Flesh And Stone](https://open.spotify.com/album/51oXFQ9EJjYzdS09zCxmjj) | 4:10 | 2022-05-27 |  |
 | [From The Fire In You](https://open.spotify.com/track/4cBfIHOrhKupWbM6IkKtB5) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Manifestations](https://open.spotify.com/album/0XKUF6rTRS5UX6KC5G90HV) | 3:33 | 2022-05-27 |  |
-| [Ghost](https://open.spotify.com/track/0PPsOAF1loXe5o17JF8ijC) | [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA) | [Ghost](https://open.spotify.com/album/2extIZQBxGjeP7pmrcvlYK) | 3:24 | 2022-05-27 |  |
+| [Ghost](https://open.spotify.com/track/0PPsOAF1loXe5o17JF8ijC) | [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA) | [Ghost](https://open.spotify.com/album/2extIZQBxGjeP7pmrcvlYK) | 0:29 | 2022-05-27 |  |
 | [Give Up The Ghost](https://open.spotify.com/track/579m9YJsOMXEukNFvESTQ8) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Give Up The Ghost](https://open.spotify.com/album/4iv9PO9UCHeO7ciQ2wpQFQ) | 4:04 | 2022-05-27 |  |
 | [Hallelujah \[Feat\. Charlotte Sands\] \- Charlotte Sands Version](https://open.spotify.com/track/4tkpDoDiZ1AxCfd6roVPeM) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Hallelujah \[Feat\. Charlotte Sands\] \(Charlotte Sands Version\)](https://open.spotify.com/album/5HhUTvl8my5ucfG7wJjQ0z) | 2:56 | 2022-05-27 |  |
 | [Heathens](https://open.spotify.com/track/42PD5CnANDCJkcLPPuH4Zd) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Heathens](https://open.spotify.com/album/3tjvaW6nGu53X7iwbIUNqk) | 3:30 | 2022-05-27 |  |
@@ -44,7 +44,7 @@
 | [It's Over](https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [It's Over](https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9) | 3:23 | 2022-05-27 |  |
 | [Like A Villain](https://open.spotify.com/track/40P5d3p4icYCiN4SMUOE2E) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/0auTn0kFZk71WAv3BbKVxQ) | 3:30 | 2022-05-27 |  |
 | [Losing Control](https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Losing Control](https://open.spotify.com/album/6ANgmUwBRAm45qW9yrhRQP) | 3:28 | 2022-06-10 |  |
-| [Low](https://open.spotify.com/track/1HG4TOUb5ETGmd6mJAwQrZ) | [Cabin Boy Jumped Ship](https://open.spotify.com/artist/4DgFNYd8vdx6ew57alHC0S) | [Sentiments](https://open.spotify.com/album/7lMBWUI1LBTAEIY4RiKu6m) | 4:12 | 2022-05-27 |  |
+| [Low](https://open.spotify.com/track/1HG4TOUb5ETGmd6mJAwQrZ) | [Cabin Boy Jumped Ship](https://open.spotify.com/artist/4DgFNYd8vdx6ew57alHC0S) | [Sentiments](https://open.spotify.com/album/7lMBWUI1LBTAEIY4RiKu6m) | 0:29 | 2022-05-27 |  |
 | [Lucy](https://open.spotify.com/track/1tHk8blCzRJQKQd10K6i8I) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Lucy](https://open.spotify.com/album/78Aw9KMCkXDEOwogJ6h5lE) | 3:36 | 2022-05-27 |  |
 | [Nigh to Silence](https://open.spotify.com/track/3si5YKMfvQtTBgLFDChRsi) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Nigh to Silence](https://open.spotify.com/album/76tQE4Ts2FfKBxW8v8CISH) | 5:04 | 2022-05-27 |  |
 | [No Vacancy](https://open.spotify.com/track/1kQCufzKsVuA4mcFhBRMWG) | [Righteous Vendetta](https://open.spotify.com/artist/0H9lbVkJq2aj6SbqJKBVy5) | [No Vacancy](https://open.spotify.com/album/0RQf8be7RCvMrRCL9aVYJ2) | 3:23 | 2022-05-27 |  |

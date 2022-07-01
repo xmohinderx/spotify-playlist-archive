@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ymr6UES7vc.md) - [plain]
 
 > Steady rain without any thunder.
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,007 likes - 194 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,437 likes - 194 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ymr6UES7vc.md) - [plain]
 | 7 | [Always Raining](https://open.spotify.com/track/0WpKvgOUCpKowejZgeO5W0) | [Tono](https://open.spotify.com/artist/4TBU1LUldUubb3RaqmLLN7) | [Always Raining](https://open.spotify.com/album/5CAI53hmKfuMEiDuWIUg2F) | 3:36 |
 | 8 | [Lotus Rain](https://open.spotify.com/track/0cYf8BBWyP83Q6uxqjkSel) | [Adio](https://open.spotify.com/artist/1u9z4r9MRMjVc4t2bI2z4W) | [Lotus Rain](https://open.spotify.com/album/6SeFBqjQUAF0s2JVaoU8eJ) | 2:04 |
 | 9 | [Rainy Mood](https://open.spotify.com/track/5jyrtNJBcaFkNyS4yPixkI) | [Sleepy Mood](https://open.spotify.com/artist/3HkwYBXLxmRKfWOkaknVQ7) | [Universe](https://open.spotify.com/album/0oI1JYlTYpbR1ewBStl7Qs) | 2:26 |
-| 10 | [Я люблю дождь](https://open.spotify.com/track/3yVuB24d8sop47Wyfeu1yQ) | [Небесный душ](https://open.spotify.com/artist/4SknsbXfiBH4PJxTZymwjv) | [Мирный дождь над Москвой](https://open.spotify.com/album/682f56Nhny9Iug8C2ArNXt) | 2:14 |
+| 10 | [Я люблю дождь](https://open.spotify.com/track/3yVuB24d8sop47Wyfeu1yQ) | [Небесный душ](https://open.spotify.com/artist/4SknsbXfiBH4PJxTZymwjv) | [Мирный дождь над Москвой](https://open.spotify.com/album/682f56Nhny9Iug8C2ArNXt) | 0:29 |
 | 11 | [Hailing Hummidity](https://open.spotify.com/track/07uamJXxvjKfV5N8Y28oUF) | [Rain Rec.](https://open.spotify.com/artist/0EUOUMWVFwBTkjzcJrgQJQ) | [Hailing Rain](https://open.spotify.com/album/6dCVtCWAddCRpLYyouM0Xo) | 3:36 |
 | 12 | [Blu Droplets](https://open.spotify.com/track/67OwsQXaeWLa2VAV0RHymM) | [ANCIENT RAIN](https://open.spotify.com/artist/4skpcZxulah2mY60iwKaff) | [Blu Droplets](https://open.spotify.com/album/5Iw4u0nUfL2Ikzqf1hz02S) | 3:34 |
 | 13 | [Stormy Road](https://open.spotify.com/track/5LOUGQmqx2GCTUt0oaQcFc) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [Countryside Storm](https://open.spotify.com/album/3sQS3qy5lYAOuzuBoxw2eY) | 3:28 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ymr6UES7vc.md) - [plain]
 | 40 | [REM Cycle Rain](https://open.spotify.com/track/4iA69uEBQfAItJ9k4DttC0) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Calming Water and Nature](https://open.spotify.com/album/2wvSQLGnfV2fvkLgUrbKDB) | 2:54 |
 | 41 | [Rain Before Dawn](https://open.spotify.com/track/6sCFjcEP2wvMkTbs6Ey85b) | [cloudcity](https://open.spotify.com/artist/3GLqH1P5kbxsIWqCwOwaB8) | [Rain Before Dawn](https://open.spotify.com/album/4Dbx557skdXeYCIUBd4VHq) | 3:28 |
 | 42 | [Must've Been Rain](https://open.spotify.com/track/41bTkvV9Qcc8RuDRqJKjxn) | [rainstantly](https://open.spotify.com/artist/3NXDhMusg4ceknkaxvLxAQ) | [The Sky Makes](https://open.spotify.com/album/0LgA5aHfIe43tAmJ3Fl0Eh) | 2:33 |
-| 43 | [Dozy Rain \- Rain](https://open.spotify.com/track/5BMiNda6qOfuMa8KO4V7l3) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Nature's Rain, Oceans, Rivers](https://open.spotify.com/album/6nHdYuYYtvfDSRIBP7TCGo) | 3:04 |
+| 43 | [Dozy Rain \- Rain](https://open.spotify.com/track/5BMiNda6qOfuMa8KO4V7l3) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Nature's Rain, Oceans, Rivers](https://open.spotify.com/album/6nHdYuYYtvfDSRIBP7TCGo) | 0:29 |
 | 44 | [Deep Rain](https://open.spotify.com/track/5a9zaa6C3fiW6agduaqkdm) | [Regen Man](https://open.spotify.com/artist/6ATLDcObmCv5mMiJoInxsA) | [Deep Rain](https://open.spotify.com/album/2L5upuNaeQjaBIrSBQyCwh) | 3:36 |
 | 45 | [Message Of Rain](https://open.spotify.com/track/12qm8piXa60zlmygYDKOlP) | [Key Humphrey](https://open.spotify.com/artist/4BJ8h7BuQ1DYcEYrpTFloW) | [Rainward](https://open.spotify.com/album/1qeUd3oHip0fYm30FvwKzG) | 2:24 |
 | 46 | [Sleepy Raindrops](https://open.spotify.com/track/01Mgf3GGm5oEzUcwPRHROa) | [Rain Rec.](https://open.spotify.com/artist/0EUOUMWVFwBTkjzcJrgQJQ) | [Reclining Rain](https://open.spotify.com/album/09GQWPwVu5vnqtis8Sm9Zv) | 3:28 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ymr6UES7vc.md) - [plain]
 | 49 | [Consistent Rain](https://open.spotify.com/track/7hleOo6zmfPQVT4GHtLLco) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Tranquil Rain Sounds](https://open.spotify.com/album/34eXFqczELpudpgS6M5QTS) | 2:06 |
 | 50 | [Rain Puddles](https://open.spotify.com/track/44h5mvTeasof8sPZdCNQVS) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Rain Retreat](https://open.spotify.com/album/5nZQJ6ZrHDQpur9sl6Xpkl) | 2:50 |
 | 51 | [rAin](https://open.spotify.com/track/2k0Uey3IUXsazhtmGCd9XJ) | [Rain](https://open.spotify.com/artist/7yS3860cHbWTQetLkezjEi) | [rAin](https://open.spotify.com/album/5Wbqx69NTO4n4enBUttJNf) | 3:22 |
-| 52 | [Det Regnar](https://open.spotify.com/track/0M3WuiuXXtxT1g2uAydhSs) | [Regnmannen](https://open.spotify.com/artist/64tKbWpanYm2SDHGclvjSj) | [Regnmannen](https://open.spotify.com/album/61sPEWCE2jjChul4Xs66Tn) | 3:12 |
+| 52 | [Det Regnar](https://open.spotify.com/track/0M3WuiuXXtxT1g2uAydhSs) | [Regnmannen](https://open.spotify.com/artist/64tKbWpanYm2SDHGclvjSj) | [Regnmannen](https://open.spotify.com/album/61sPEWCE2jjChul4Xs66Tn) | 0:29 |
 | 53 | [Rain Dancing](https://open.spotify.com/track/7bJAQD5AAq9zxQz1nal7tp) | [Zuni](https://open.spotify.com/artist/4im5G9baIDRzJa4xpPdDz6) | [Deep Sleep Drops](https://open.spotify.com/album/5EhMdHcVj4sRsTZCqNYDEM) | 2:38 |
 | 54 | [Raincoat Weather](https://open.spotify.com/track/445TGqNOn1nGI0T2QCYkh7) | [Accuweather](https://open.spotify.com/artist/2Y7k2YqDWE9s1eSuQlaWNi) | [Raincoat Weather](https://open.spotify.com/album/3PiNTotQoNkrRfvEKZ2Gdm) | 2:38 |
 | 55 | [starlit rainfall](https://open.spotify.com/track/7gkwTHnQ1QxWcM6HDBOqXo) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [starlit rainfall](https://open.spotify.com/album/2sknFZDDYwy2o1zlnkg4iN) | 2:41 |
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ymr6UES7vc.md) - [plain]
 | 100 | [rain in reykjavik](https://open.spotify.com/track/2Wx5BlOCoLw3mNf0YtFxqh) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in reykjavik](https://open.spotify.com/album/4yhdOzyz5ih5L6YA7kOnAK) | 3:28 |
 | 101 | [Nothing Falls Like Rain](https://open.spotify.com/track/31MpTScCW34zYT4sIZT4rY) | [Bibula](https://open.spotify.com/artist/1KxJnRAxBzshncVMcGKtHZ) | [Open Sky](https://open.spotify.com/album/6D4lPb4wKruVTXDo1IBARM) | 2:27 |
 | 102 | [Burst Of Rain](https://open.spotify.com/track/63bE2JK2VIhqMI0KGIJBfg) | [Daily Calm](https://open.spotify.com/artist/1RFbFQgjNdi8M4qM5gzgfj) | [Calm Rain](https://open.spotify.com/album/7jRKQ6G04oCT4O1QA0A5X3) | 2:38 |
-| 103 | [The Picnic is Over](https://open.spotify.com/track/2ZPtYQNnLHRoKTvtawl4Jy) | [Akvavit](https://open.spotify.com/artist/3vvY6bfFNRymVmylw2vfGy) | [Droplets](https://open.spotify.com/album/0YLKhxy0bHRwtBI7EXW6VR) | 3:18 |
+| 103 | [The Picnic is Over](https://open.spotify.com/track/2ZPtYQNnLHRoKTvtawl4Jy) | [Akvavit](https://open.spotify.com/artist/3vvY6bfFNRymVmylw2vfGy) | [Droplets](https://open.spotify.com/album/0YLKhxy0bHRwtBI7EXW6VR) | 0:29 |
 | 104 | [Falling Rain](https://open.spotify.com/track/7L7yPKhbZDUTj1gjsawFSZ) | [Natural Sound Makers](https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8) | [Falling Rain](https://open.spotify.com/album/1hfBsZ5Nb8lgZ8LVcLWGaz) | 2:26 |
 | 105 | [Circle of Rain](https://open.spotify.com/track/71XsLqUK4kmYNW8fV5HYVV) | [Wet Forest](https://open.spotify.com/artist/0yYHxGvTufoACTinBREEXT) | [Wilderness](https://open.spotify.com/album/50928u7imP1NfSYTnTgOLh) | 2:35 |
 | 106 | [Rainy Days](https://open.spotify.com/track/2Tbu3ljhZHiCl0Odpigcre) | [HD Rain and Water](https://open.spotify.com/artist/3daevVTaElLubCKe7p3DTf) | [Smooth Street Rain](https://open.spotify.com/album/30bjWsmsys73IL49zKW1zp) | 2:52 |

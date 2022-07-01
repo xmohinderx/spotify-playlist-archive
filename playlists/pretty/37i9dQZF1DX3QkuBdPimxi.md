@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3QkuBdPimxi.md) - [plain]
 
 > Gather 'round and enjoy these far out songs about outer space.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165 likes - 82 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 166 likes - 82 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,18 +20,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3QkuBdPimxi.md) - [plain]
 | 10 | [Time to Shine \(Moon\)](https://open.spotify.com/track/4f8R99VogUTObR8WAC5yKU) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Outer Space \- EP](https://open.spotify.com/album/0iHCqwt4NKC1Cem0U4WCDI) | 1:38 |
 | 11 | [A Spaceman Came Travelling](https://open.spotify.com/track/6JRVgGubYFxk9zHPSlZtrL) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [Missing You \- The Collection](https://open.spotify.com/album/7pg4CJpscrhrWXTOb6iH1A) | 5:07 |
 | 12 | [End Credits \- Soundtrack Reissue \(2002\)](https://open.spotify.com/track/5NHDsqd1YrYqTJxaLddelw) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [E.T\. The Extra Terrestrial](https://open.spotify.com/album/3Pood3AEXTNuRqXlEvLLUf) | 3:49 |
-| 13 | [Mr\. Spaceman](https://open.spotify.com/track/4RwKHW0RildivYQPsHIXIK) | [Randy Kaplan](https://open.spotify.com/artist/03kKiot9h8in4294vr5FUm) | [Trippin' Round the Mitten](https://open.spotify.com/album/0eYISwHoDkDuZjugV63c1E) | 4:36 |
+| 13 | [Mr\. Spaceman](https://open.spotify.com/track/4RwKHW0RildivYQPsHIXIK) | [Randy Kaplan](https://open.spotify.com/artist/03kKiot9h8in4294vr5FUm) | [Trippin' Round the Mitten](https://open.spotify.com/album/0eYISwHoDkDuZjugV63c1E) | 0:29 |
 | 14 | [Space Doggie](https://open.spotify.com/track/2KG08g6GvZiXVL5OMN3JKo) | [Amy Liz](https://open.spotify.com/artist/1bguJ0c7PghwoaLvBIVU3A) | [Kid Hits](https://open.spotify.com/album/3eEFhktny6sy2XXwxp1pZJ) | 2:17 |
 | 15 | [Interplanet Janet](https://open.spotify.com/track/1XEnnBPMXN8T8F4e3hxirH) | [The Little Singers](https://open.spotify.com/artist/54lKNxLWNrcvMNeEbVig4f) | [Interplanet Janet: Classic Children's Songs](https://open.spotify.com/album/5u8sR0sWOyzpRlPxQahT6o) | 3:01 |
 | 16 | [Zoom, Zoom, Zoom, We're Going to the Moon!](https://open.spotify.com/track/3IprSDFbAfrT2zPZeHuV09) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Top 30 Baby Songs](https://open.spotify.com/album/5Obb6WdYPpNErfM33fcrn0) | 1:33 |
-| 17 | [Queen of Mars](https://open.spotify.com/track/7rEJqmw9yr2gKP2Q9CeLZx) | [Candace](https://open.spotify.com/artist/0zAjE3KMGAsizj1VNhYPxf) | [Phineas And Ferb](https://open.spotify.com/album/29OHw0hs03uERDcTbY9ojU) | 1:22 |
+| 17 | [Queen of Mars](https://open.spotify.com/track/7rEJqmw9yr2gKP2Q9CeLZx) | [Candace](https://open.spotify.com/artist/0zAjE3KMGAsizj1VNhYPxf) | [Phineas And Ferb](https://open.spotify.com/album/29OHw0hs03uERDcTbY9ojU) | 0:29 |
 | 18 | [The Planet Song](https://open.spotify.com/track/6DtCLXr3cJedQzhZfutgfL) | [Blue's Clues & You](https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG), [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Blue's Sing\-Along Spectacular](https://open.spotify.com/album/4DkCDgZJNNeGRA3xyKYMPQ) | 0:54 |
 | 19 | [I'm a Star](https://open.spotify.com/track/5QG5PJxLlS3SltCRORa9Bs) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Outer Space \- EP](https://open.spotify.com/album/0iHCqwt4NKC1Cem0U4WCDI) | 1:24 |
 | 20 | [Star Wars \(Main Theme\)](https://open.spotify.com/track/7a9UUo3zfID7Ik2fTQjRLi) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Empire Strikes Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a) | 5:46 |
 | 21 | [Space Friends](https://open.spotify.com/track/1hC0osPnDtftd7WmYWcGkP) | [Big Block Singsong](https://open.spotify.com/artist/5wXiTCNvj4JL6cJzQT5Ncp) | [Greatest Hits](https://open.spotify.com/album/6kYGMwY1jGh1gziBMsyV6p) | 1:51 |
 | 22 | [The Sharing Song](https://open.spotify.com/track/3wmTLrCm9g6ZUR6R2C0XMN) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Jack Johnson And Friends: Sing\-A\-Longs And Lullabies For The Film Curious George](https://open.spotify.com/album/641SHR0kg4ZwvSLg4OmuH4) | 2:45 |
 | 23 | [Mr\. Golden Sun](https://open.spotify.com/track/383D4yT1kW9tp5ibqVSMAH) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Baby Shark & More Kids Songs](https://open.spotify.com/album/2IDfqmrAmsyDA5DnGnQ0Ci) | 2:13 |
-| 24 | [Let's Take a Rocketship to Space](https://open.spotify.com/track/35kkOnkZFTmXaDL2K19B99) | [Danny and the Jaytones](https://open.spotify.com/artist/5lyPgnomDawdy0mnwph5QN) | [Phineas And Ferb](https://open.spotify.com/album/29OHw0hs03uERDcTbY9ojU) | 1:05 |
+| 24 | [Let's Take a Rocketship to Space](https://open.spotify.com/track/35kkOnkZFTmXaDL2K19B99) | [Danny and the Jaytones](https://open.spotify.com/artist/5lyPgnomDawdy0mnwph5QN) | [Phineas And Ferb](https://open.spotify.com/album/29OHw0hs03uERDcTbY9ojU) | 0:29 |
 | 25 | [The Planet Song](https://open.spotify.com/track/5FAI5aAGj7WFKMAdlx904u) | [Hopscotch Songs](https://open.spotify.com/artist/5nJFIxTnnNBh2ZIP3dsk6x), [The Hoover Jam](https://open.spotify.com/artist/2l56XVHFv19M7Z39FO7IjU) | [The Planet Song](https://open.spotify.com/album/3fAbHn7PW6FKA0lzZLpRg0) | 3:51 |
 | 26 | [Spaceman Jam](https://open.spotify.com/track/3P9BePToPpxuz2CbdtmANg) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Licensed to Move](https://open.spotify.com/album/6sLaVAxbWz6DhyemezQY1I) | 2:11 |
 | 27 | [The Moon Is Made of Cheese](https://open.spotify.com/track/5Q9p3KJ9AVH3xOM9WN3GNv) | [Danny Weinkauf](https://open.spotify.com/artist/00s1oYBnUz6FlP3sdD6x0u) | [No School Today](https://open.spotify.com/album/3cba2ObZhSeVfzbtjx3YMP) | 1:44 |

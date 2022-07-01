@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 
 > The best in new & current Dancehall\. Cover: Stefflondon
 
-[Spotify](https://open.spotify.com/user/spotify) - 973,969 likes - 63 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 974,132 likes - 63 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 | 11 | [Street Cred](https://open.spotify.com/track/7uCd9RMJGcbZY9zpv0dPw7) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Street Cred](https://open.spotify.com/album/2yEZn1kPkRUTW3F48OEFeB) | 2:30 |
 | 12 | [Can't Anymore](https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:35 |
 | 13 | [Static](https://open.spotify.com/track/30OaDvU7L0CjE4amrbRNi9) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ), [Black Shadow](https://open.spotify.com/artist/2p9Ir76xCg114T9P67Hk1z) | [Static](https://open.spotify.com/album/7r54RUpeMgdMbDh9YPVc0O) | 2:36 |
-| 14 | [Promise](https://open.spotify.com/track/40w9HRXfnkLTDLGcX8gNDp) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Shane Skull](https://open.spotify.com/artist/3GahvoijDtBfjSOMdGfAP9), [Wire Brain](https://open.spotify.com/artist/0LdPRyepUIR7OOnQ3HbUuR) | [Promise](https://open.spotify.com/album/7DAL1tGwj7NiK4u5hNZYsu) | 3:39 |
+| 14 | [Promise](https://open.spotify.com/track/40w9HRXfnkLTDLGcX8gNDp) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Shane Skull](https://open.spotify.com/artist/3GahvoijDtBfjSOMdGfAP9), [Wire Brain](https://open.spotify.com/artist/0LdPRyepUIR7OOnQ3HbUuR) | [Promise](https://open.spotify.com/album/7DAL1tGwj7NiK4u5hNZYsu) | 0:29 |
 | 15 | [CIRCLE](https://open.spotify.com/track/0hhqESgp2xsMfvypocWzHl) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [CIRCLE](https://open.spotify.com/album/6RMgO1zXuxZ1Cu2YswENrL) | 2:42 |
 | 16 | [Protocol](https://open.spotify.com/track/1tn87Abu4ZTptxvpp6Zd8V) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh) | [Protocol](https://open.spotify.com/album/2dXHrlSfG2Lp5OOtd5J73q) | 3:19 |
 | 17 | [King](https://open.spotify.com/track/6UgkzIOa5TBl6azcnLlgoK) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [438](https://open.spotify.com/album/2r6KgjOP2h2QNxMHxjFlRA) | 3:11 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 | 24 | [Coke](https://open.spotify.com/track/0d2fLvOnX6Odmv8RUz9QMc) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Coke](https://open.spotify.com/album/6XLQoAN43bJqjgJZ6uFit5) | 2:55 |
 | 25 | [Roll Deep](https://open.spotify.com/track/7qbYXi2qeCdBoSlDZs9swk) | [10Tik](https://open.spotify.com/artist/6I1j34QzSTWe6u4qQWKYJe) | [Roll Deep](https://open.spotify.com/album/24HPQqwhRn31huvNRg8War) | 3:27 |
 | 26 | [Top Prize](https://open.spotify.com/track/4Ku4NfHQafSvZXW0kme5KJ) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Top Prize](https://open.spotify.com/album/0ilTzFiPldFMIxfRNDFOxq) | 3:12 |
-| 27 | [Silence](https://open.spotify.com/track/5Ea6VaQFplATEu2biAQdlB) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Forever](https://open.spotify.com/album/0xAUnt43o2FfxIpVFusIOq) | 3:35 |
+| 27 | [Silence](https://open.spotify.com/track/5Ea6VaQFplATEu2biAQdlB) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Forever](https://open.spotify.com/album/0xAUnt43o2FfxIpVFusIOq) | 0:29 |
 | 28 | [GYALIS \(Remix\) \[feat\. Chris Brown & Popcaan\]](https://open.spotify.com/track/4M8tmhoPrUN3W89SChMxba) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [GYALIS \(Remix\) \[feat\. Chris Brown & Popcaan\]](https://open.spotify.com/album/0NRzHfHBffN44wOGby2gJP) | 3:15 |
 | 29 | [SUH ME LUV IT \(feat\. Jada Kingdom\)](https://open.spotify.com/track/4iyNOD4gCFiKMc62BVm0IN) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [FIXTAPE](https://open.spotify.com/album/3yqk7nimwdE2FdaA85iJM8) | 4:13 |
 | 30 | [Heaven Passport](https://open.spotify.com/track/5PHWW6LI7OH4rHk7NANAGa) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Heaven Passport](https://open.spotify.com/album/1X7HsL7j4VaFP1kpRIZadN) | 3:07 |

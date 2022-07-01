@@ -4,7 +4,7 @@
 
 > 
 
-50 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/6nzmw9cPyTLgYyrGIzDuff)
+50 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/6nzmw9cPyTLgYyrGIzDuff)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,8 +23,8 @@
 | [Dangerous](https://open.spotify.com/track/7F7CoxV8TzZUpjUu7qiQPQ) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Greatest Hits](https://open.spotify.com/album/4htx3t5YHqgyTgHw3xinsf) | 3:49 | 2013-06-27 |  |
 | [Do Me!](https://open.spotify.com/track/3RB1O5rR8artbci5fuNK1C) | [Bell Biv DeVoe](https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL) | [20th Century Masters: The Millennium Collection: Best of Bel Biv DeVoe](https://open.spotify.com/album/2QC1IsQIUNdEz0zgWanPkN) | 4:33 | 2013-06-27 |  |
 | [Don't Know Much \(with Aaron Neville\)](https://open.spotify.com/track/4x9y3JSvsjBTbm4uEnBrdT) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [Rhino Hi\-Five: Valentine's Day Songs 2](https://open.spotify.com/album/728hGp14xUuNGP5lKO0i5E) | 3:31 | 2013-06-27 |  |
-| [Don't Wanna Fall in Love](https://open.spotify.com/track/6eozUVzr02EXMji1vuxgiP) | [Jane Child](https://open.spotify.com/artist/5JBif5ahOKFFVuEpHhrp8Y) | [Jane Child](https://open.spotify.com/album/7lctp9rkvSczgxQ7OGKQaO) | 4:07 | 2013-06-27 |  |
-| [Downtown Train \- 2008 Remaster](https://open.spotify.com/track/0c639r11FQKDFMmGfTRqOU) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Definitive Rod Stewart](https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj) | 4:39 | 2013-06-27 |  |
+| [Don't Wanna Fall in Love](https://open.spotify.com/track/6eozUVzr02EXMji1vuxgiP) | [Jane Child](https://open.spotify.com/artist/5JBif5ahOKFFVuEpHhrp8Y) | [Jane Child](https://open.spotify.com/album/7lctp9rkvSczgxQ7OGKQaO) | 0:29 | 2013-06-27 |  |
+| [Downtown Train \- 2008 Remaster](https://open.spotify.com/track/0c639r11FQKDFMmGfTRqOU) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Definitive Rod Stewart](https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj) | 0:29 | 2013-06-27 |  |
 | [Escapade](https://open.spotify.com/track/5HAv1Ckfe50DUjv8ghwTrz) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Rhythm Nation 1814](https://open.spotify.com/album/4OD3LU6001esAtFshDX46M) | 4:43 | 2013-06-27 |  |
 | [Everything](https://open.spotify.com/track/6Bv2bQvYZDJLVlMPbmuFQm) | [Jody Watley](https://open.spotify.com/artist/71aKjsWKYqASAffyIQaocZ) | [20th Century Masters: The Millennium Collection: Best Of Jody Watley](https://open.spotify.com/album/2Fa9jKPOzCGh5Yw74wuSKE) | 4:16 | 2013-06-27 |  |
 | [Have You Seen Her](https://open.spotify.com/track/2lvk6CUSHz4j8huQ25gH54) | [MC Hammer](https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW) | [Please Hammer Don't Hurt 'Em](https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN) | 4:42 | 2013-06-27 |  |

@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/6GZ9F4MZpPdHJEwhq3kHKG.md) - [plain]
 
 > Listen to all of Seth's favorite classic soul tracks right here\. And be sure to check out his charity, Hilarity for Charity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,880 likes - 41 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,880 likes - 41 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Seth Rogen \- Classic Soul Intro](https://open.spotify.com/track/5T30zoNNgnVZrkCsHNtvD7) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Seth Rogen \- Classic Soul](https://open.spotify.com/album/4psvWKJCKc1OTVCVbo4gMA) | 0:12 |
 | 2 | [Knock on Wood](https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c) | [Eddie Floyd](https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF) | [Knock On Wood](https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF) | 3:09 |
-| 3 | [Pusher Man](https://open.spotify.com/track/3qY9dX6T0nqbd5ni1eI4LJ) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [The Hangover Part II: Original Motion Picture Soundtrack](https://open.spotify.com/album/5HtMBeXlzeIwnvvbM0TPDl) | 4:59 |
+| 3 | [Pusher Man](https://open.spotify.com/track/3qY9dX6T0nqbd5ni1eI4LJ) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [The Hangover Part II: Original Motion Picture Soundtrack](https://open.spotify.com/album/5HtMBeXlzeIwnvvbM0TPDl) | 0:29 |
 | 4 | [Here's Some Sweet Music](https://open.spotify.com/track/28loehMDri9eBOFsF0RNCK) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Seth Rogen \- Classic Soul](https://open.spotify.com/album/4psvWKJCKc1OTVCVbo4gMA) | 0:14 |
 | 5 | [To Love Somebody](https://open.spotify.com/track/7LZoKNMhsZ7qbP1lYGDva8) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [To Love Somebody \(Expanded Edition\)](https://open.spotify.com/album/6T4nAC6CRLciyg4tQbgovi) | 2:38 |
 | 6 | [Shake a Tail Feather](https://open.spotify.com/track/0pb8OfGT4sZEyLVB7x8OSh) | [James & Bobby Purify](https://open.spotify.com/artist/1qO2mRQM4zbksO586oM0W7) | [Shake A Tail Feather! The Best Of James And Bobby Purify](https://open.spotify.com/album/5wtLC8QWMF9tZKVI9cBqcX) | 2:07 |
 | 7 | [Do You Love Me](https://open.spotify.com/track/41FRsZNXpsBkJ46BxyC20m) | [The Contours](https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1) | [Hitsville USA \- The Motown Singles Collection 1959\-1971](https://open.spotify.com/album/4Vzr2AGcCyYSQQB243PQLl) | 2:52 |
 | 8 | [A Hot Summer Night in 1963](https://open.spotify.com/track/1z7OlMxJmArKMHTnDwzRr9) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Seth Rogen \- Classic Soul](https://open.spotify.com/album/4psvWKJCKc1OTVCVbo4gMA) | 0:20 |
 | 9 | [A Change Is Gonna Come](https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Ain't That Good News](https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP) | 3:11 |
-| 10 | [Fool for You](https://open.spotify.com/track/7ppPgpUdNPbHhuqYwN2SXu) | [The Impressions](https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO) | [This Is My Country](https://open.spotify.com/album/1kKPH6oqlh9iPP3uAQhb68) | 2:52 |
+| 10 | [Fool for You](https://open.spotify.com/track/7ppPgpUdNPbHhuqYwN2SXu) | [The Impressions](https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO) | [This Is My Country](https://open.spotify.com/album/1kKPH6oqlh9iPP3uAQhb68) | 0:29 |
 | 11 | [I Wanna Get Next To You](https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT) | [Rose Royce](https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO) | [Car Wash](https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz) | 3:58 |
 | 12 | [Hear The Delfonics](https://open.spotify.com/track/4PN6G9RyRTmQpn6eOovvRt) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Seth Rogen \- Classic Soul](https://open.spotify.com/album/4psvWKJCKc1OTVCVbo4gMA) | 0:12 |
 | 13 | [Delfonics Theme \(How Could You\)](https://open.spotify.com/track/2LukR1MpbneHgRKaqGh06v) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Delfonics](https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX) | 4:32 |

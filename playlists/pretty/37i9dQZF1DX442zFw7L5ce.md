@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 
 > Fall in Love with the Beauties of Tollywood!<br/>Cover : Sai Pallavi
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,446 likes - 57 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,469 likes - 57 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 | 10 | [Hoyna Hoyna \(From "Gang Leader"\)](https://open.spotify.com/track/7hADNKBDHS8MblpUzLebLf) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Inno Genga](https://open.spotify.com/artist/29cBzYwqCZF4fjCisS8UvU) | [Hoyna Hoyna \(From "Gang Leader"\)](https://open.spotify.com/album/2aHSx4B2TQtrnPYsEzSSRt) | 4:31 |
 | 11 | [Kanne Kanne](https://open.spotify.com/track/1xkeK8WR55UkcVAW7wFaxY) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Arjun Suravaram](https://open.spotify.com/album/6w6XHKMJq4LCLHmz13YPfH) | 4:50 |
 | 12 | [Samajavaragamana](https://open.spotify.com/track/3j9DrRebdWK1jkpOw9FZUy) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Ala Vaikunthapurramuloo](https://open.spotify.com/album/3Z6fqZ8KtrWQmEfK0ZWwPp) | 3:39 |
-| 13 | [Balega Tagilavey Bangaram \(From "Krack"\)](https://open.spotify.com/track/3ZArIoBa7G4RoQbzWCBgkD) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Balega Tagilavey Bangaram \(From "Krack"\)](https://open.spotify.com/album/21nM2vkOGhGpMoFL3PRm63) | 3:43 |
+| 13 | [Balega Tagilavey Bangaram \(From "Krack"\)](https://open.spotify.com/track/3ZArIoBa7G4RoQbzWCBgkD) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Balega Tagilavey Bangaram \(From "Krack"\)](https://open.spotify.com/album/21nM2vkOGhGpMoFL3PRm63) | 0:29 |
 | 14 | [Lacha Gummadi \- Telugu](https://open.spotify.com/track/6hT5QTvZrbNd61AaNqz8XM) | [Srivardhini](https://open.spotify.com/artist/6bmhUYiasV6rSORgLmHYZ4), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Miss India](https://open.spotify.com/album/12hlzcNOaVR7erb6fjWHR1) | 3:53 |
 | 15 | [Whattey Beauty \- Telugu](https://open.spotify.com/track/3KUD3u6xFEIewEQVppwXbH) | [Dhanunjay Seepana](https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0), [Amala Chebolu](https://open.spotify.com/artist/0DdlrGRKjpM9Mqon7dHVm8), [Mahati Swara Sagar](https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd) | [Bheeshma](https://open.spotify.com/album/6AQtdnP4yOGeHGfVLU6J50) | 3:54 |
 | 16 | [Ay Pilla \- Telugu](https://open.spotify.com/track/5nVFeACm96rucybpDAjfK5) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Pawan Ch](https://open.spotify.com/artist/26FsIvdczntiZCsifDzKOK) | [Love Story](https://open.spotify.com/album/2qPF34ldSTpFg8SEywoQ8E) | 4:13 |

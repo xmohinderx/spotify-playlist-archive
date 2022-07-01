@@ -4,7 +4,7 @@
 
 > Beyond genre, beyond language, beyond borders\. Cover: grentperez
 
-281 songs - 15 hr 38 min - [published](https://open.spotify.com/playlist/6bA5HVht0DRnYt7fu1eP5j)
+281 songs - 15 hr 34 min - [published](https://open.spotify.com/playlist/6bA5HVht0DRnYt7fu1eP5j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,7 +280,7 @@
 | [Wintertime Is Over](https://open.spotify.com/track/6hAWz1CnpMd8a7JmkJiigT) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y), [ANT](https://open.spotify.com/artist/64ZqV2zqmap4c0HqxzAoYv) | [Wintertime Is Over](https://open.spotify.com/album/0MzjNHWmx9BwvnK0WOVOiY) | 3:09 | 2022-06-17 |  |
 | [Wrong with u](https://open.spotify.com/track/476F7Wdh2LQLBbf3guDfIQ) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [Wrong with u](https://open.spotify.com/album/7EYr5e6Qg0RBzLHMhWgZul) | 2:32 | 2022-01-14 | 2022-02-15 |
 | [YA HABIBI](https://open.spotify.com/track/5iFKrNqnuwvPhqXIWuUsHW) | [LaHasna](https://open.spotify.com/artist/6H8NHMXJR22PtWN4KZmeNy) | [GLOBAL RESET](https://open.spotify.com/album/0vemIymTZsVPoQaHIzt62l) | 3:53 | 2022-01-14 | 2022-02-26 |
-| [YKWIM?](https://open.spotify.com/track/7ejeQLLLGjVriLS7cojERB) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/7bbDmub6x679LEFy8eZj5w) | 3:32 | 2022-01-14 |  |
+| [YKWIM?](https://open.spotify.com/track/7ejeQLLLGjVriLS7cojERB) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/7bbDmub6x679LEFy8eZj5w) | 0:29 | 2022-01-14 |  |
 | [You Move Backwards \(feat\. Ruti\)](https://open.spotify.com/track/65RmvoQfPbcsRik6SJHUAS) | [Bad Sounds](https://open.spotify.com/artist/0hSgRl2U8kSaJLE2Di325f), [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [You Move Backwards \(feat\. Ruti\)](https://open.spotify.com/album/0z7dYSB3QSkMJmTI4k2tN5) | 2:55 | 2022-01-14 | 2022-02-15 |
 | [Your Other Life](https://open.spotify.com/track/4sWZVIOHuTrQOt6mqzMiBE) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost \(Deluxe Edition\)](https://open.spotify.com/album/6yEdJA4H2O4VOi4pk14GdS) | 4:40 | 2022-05-30 |  |
 | [Чувства](https://open.spotify.com/track/72O1dX3UTDSxOu7Isg7I1K) | [The Just](https://open.spotify.com/artist/47pZ1rUMf4TNeTEpbgcoWe) | [Чувства](https://open.spotify.com/album/7sYnqHpyhF7uJBbB4Ck2TB) | 2:34 | 2022-01-14 | 2022-02-05 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFEIJKF33Nk.md) - [plain]
 
 > Some incredible music to celebrate our culture this month and every month!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,318 likes - 40 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,381 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Get What U Get](https://open.spotify.com/track/7N3IfBzFRXanEMX55sqUru) | [Chloe Flower](https://open.spotify.com/artist/1COAEcXEhWarbbgcz44KmJ) | [Chloe Flower](https://open.spotify.com/album/0Db8FrKhtOO0L5DxlYQbSI) | 3:36 |
+| 1 | [Get What U Get](https://open.spotify.com/track/7N3IfBzFRXanEMX55sqUru) | [Chloe Flower](https://open.spotify.com/artist/1COAEcXEhWarbbgcz44KmJ) | [Chloe Flower](https://open.spotify.com/album/0Db8FrKhtOO0L5DxlYQbSI) | 0:29 |
 | 2 | [Nobody](https://open.spotify.com/track/2P5yIMu2DNeMXTyOANKS6k) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 3:13 |
 | 3 | [Machinist](https://open.spotify.com/track/13FGWUlqQpGugvEcnEUqou) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Soft Sounds from Another Planet](https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua) | 3:37 |
 | 4 | [Kill This Love](https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) | 3:11 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFEIJKF33Nk.md) - [plain]
 | 17 | [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 |
 | 18 | [Fire In The Sky](https://open.spotify.com/track/3zpGIFghtnVlwMXWyKW474) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 3:21 |
 | 19 | [Lockdown](https://open.spotify.com/track/5oZps6mYqU5s7A4WjUZggJ) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Lockdown](https://open.spotify.com/album/7x8QTmOI3zN1V5xOq3Jko5) | 3:32 |
-| 20 | [Sanctuary](https://open.spotify.com/track/5F1ZmucV0uJY14y2dYKePa) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm) | 3:00 |
+| 20 | [Sanctuary](https://open.spotify.com/track/5F1ZmucV0uJY14y2dYKePa) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm) | 0:29 |
 | 21 | [La La Lost You](https://open.spotify.com/track/5Htq8DDDN0Xce9MwqzAzui) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Head In The Clouds II](https://open.spotify.com/album/7bOpX6Ilc9UCFmH9uGyUDy) | 3:20 |
 | 22 | [lowkey](https://open.spotify.com/track/5TTXEcfsYLh6fTarLaevTi) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [lowkey](https://open.spotify.com/album/6a1p03zluxNwXTVdm9IStw) | 2:51 |
 | 23 | [Thinkin Bout You](https://open.spotify.com/track/6xwQS49tTYgLQNPGnfWV2H) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:23 |
@@ -40,13 +40,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFEIJKF33Nk.md) - [plain]
 | 30 | [universe](https://open.spotify.com/track/7B4UxdHwRKJYRhvXxmgZhM) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 3:06 |
 | 31 | [Focus](https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 3:20 |
 | 32 | [Remember Me](https://open.spotify.com/track/630Ug0XtmhhFvAKo0PNuEI) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Remember Me](https://open.spotify.com/album/4iLi0ZWdcYtCZvsXZHTRLx) | 3:19 |
-| 33 | [Flower Through Concrete](https://open.spotify.com/track/5wHT1UYWQBHYAeIwRbBDJG) | [Chloe Flower](https://open.spotify.com/artist/1COAEcXEhWarbbgcz44KmJ) | [Chloe Flower](https://open.spotify.com/album/0Db8FrKhtOO0L5DxlYQbSI) | 4:00 |
+| 33 | [Flower Through Concrete](https://open.spotify.com/track/5wHT1UYWQBHYAeIwRbBDJG) | [Chloe Flower](https://open.spotify.com/artist/1COAEcXEhWarbbgcz44KmJ) | [Chloe Flower](https://open.spotify.com/album/0Db8FrKhtOO0L5DxlYQbSI) | 0:29 |
 | 34 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 |
 | 35 | [Your Best American Girl](https://open.spotify.com/track/172rW45GEnGoJUuWfm1drt) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/16i5KnBjWgUtwOO7sVMnJB) | 3:32 |
-| 36 | [Quiet](https://open.spotify.com/track/0lczHKLHGd8LuzgrzIJ0nO) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [This Is Not The End](https://open.spotify.com/album/14NXlqWlb4MGu4KswIm6xU) | 3:22 |
+| 36 | [Quiet](https://open.spotify.com/track/0lczHKLHGd8LuzgrzIJ0nO) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [This Is Not The End](https://open.spotify.com/album/14NXlqWlb4MGu4KswIm6xU) | 0:29 |
 | 37 | [Power](https://open.spotify.com/track/4P9d4HswrDnEtFegdqZJNs) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Power](https://open.spotify.com/album/6H8FlOA6AbsRK8x3S1gVNk) | 3:16 |
 | 38 | [Lead the Way](https://open.spotify.com/track/2Vqbniz8jYoZPvecpdVPq9) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Raya and the Last Dragon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JqX5g07TbeiF0NEK7eYl0) | 3:43 |
 | 39 | [Mr\. Brightside](https://open.spotify.com/track/6Bcsu35LlV2YyUSa1X7Cpf) | [Run River North](https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk) | [Superstition](https://open.spotify.com/album/6cxIb7DQLAhGSZQXYsybPo) | 4:32 |
-| 40 | [Tamie](https://open.spotify.com/track/4yjidF5LTpm8OY9dUZQRrU) | [Chloe Flower](https://open.spotify.com/artist/1COAEcXEhWarbbgcz44KmJ) | [Chloe Flower](https://open.spotify.com/album/0Db8FrKhtOO0L5DxlYQbSI) | 3:18 |
+| 40 | [Tamie](https://open.spotify.com/track/4yjidF5LTpm8OY9dUZQRrU) | [Chloe Flower](https://open.spotify.com/artist/1COAEcXEhWarbbgcz44KmJ) | [Chloe Flower](https://open.spotify.com/album/0Db8FrKhtOO0L5DxlYQbSI) | 0:29 |
 
 Snapshot ID: `MTY1MTQ2NDAwMCwwMDAwMDAwMjAwMDAwMTgwODJlY2QyYjUwMDAwMDE4MDcyMTc5ODdl`

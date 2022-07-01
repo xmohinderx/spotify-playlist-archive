@@ -982,6 +982,28 @@
     },
     {
       "album": {
+        "name": "Dodgeball (Lightyear Remix)",
+        "url": "https://open.spotify.com/album/4xX8Pab64QMnsSRuOWndRr"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        },
+        {
+          "name": "Lightyear",
+          "url": "https://open.spotify.com/artist/1rJ2jr0BuFv7RGACToKrKc"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166400,
+      "name": "Dodgeball (Lightyear Remix)",
+      "url": "https://open.spotify.com/track/39nJPEdkQzSFakgt1mZ3V8"
+    },
+    {
+      "album": {
         "name": "Don't Break His Heart",
         "url": "https://open.spotify.com/album/07ZwhNrmU4jykdXMntIub0"
       },
@@ -1660,6 +1682,24 @@
     },
     {
       "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/1aY0os7oA39KJiT4cfWf6x"
+      },
+      "artists": [
+        {
+          "name": "Hotel Garuda",
+          "url": "https://open.spotify.com/artist/73tITL3u5T35u309PLpN6K"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226566,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/5CvVWD27KlJNkvzDLU1zPS"
+    },
+    {
+      "album": {
         "name": "Handyman",
         "url": "https://open.spotify.com/album/583KpgaKbGKj6XqMjhfE4h"
       },
@@ -1756,7 +1796,7 @@
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 188852,
+      "duration_ms": 29048,
       "name": "Heartaches - Covex Remix",
       "url": "https://open.spotify.com/track/0SjqXDddcHwgGoTh4RtHJl"
     },
@@ -3645,6 +3685,24 @@
       "duration_ms": 191040,
       "name": "SOLO",
       "url": "https://open.spotify.com/track/51gPXzSUjtjlgOtGh7M0bd"
+    },
+    {
+      "album": {
+        "name": "Spaz Out",
+        "url": "https://open.spotify.com/album/6HkBbZCjDPs1pXDoYCPcI1"
+      },
+      "artists": [
+        {
+          "name": "Pacific Patterns",
+          "url": "https://open.spotify.com/artist/4UnRCGcuWbqRnk6MN3T76a"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Spaz Out",
+      "url": "https://open.spotify.com/track/0EpnVwrbiZY3drT7C3CwHo"
     },
     {
       "album": {

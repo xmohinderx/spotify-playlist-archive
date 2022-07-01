@@ -4,7 +4,7 @@
 
 > Your favorite artists, caught in the act!  Recorded Live...just like you were there\.  Cover:  Kenny Chesney
 
-85 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/26VNM7RZboFEJ69w2h5xCg)
+85 songs - 6 hr 8 min - [published](https://open.spotify.com/playlist/26VNM7RZboFEJ69w2h5xCg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [She Thinks My Tractor's Sexy \- Live](https://open.spotify.com/track/2NePleuMNN4kNLihiFxaSn) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Kenny Chesney Live](https://open.spotify.com/album/21pC8GFru8M98MhMCWONk9) | 6:02 | 2021-07-22 |  |
 | [She's in Love With the Boy \(Live\)](https://open.spotify.com/track/6ww19WNCddWn5QExASiph2) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Big Bang Concert Series: Trisha Yearwood \(Live\)](https://open.spotify.com/album/5nCzwPWbcXh561sRFqMndk) | 4:55 | 2021-07-22 |  |
 | [Small Town USA \- Live at the Ryman](https://open.spotify.com/track/3IlNQTAmA6HPbAmXQkjdhi) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Small Town USA \(Live at the Ryman\)](https://open.spotify.com/album/54i0bNcUszicenkyRY293M) | 4:07 | 2021-07-22 |  |
-| [Somebody Else Will \- Live at the Ryman](https://open.spotify.com/track/0tKMXjaXtRwEmjw30dakhe) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Somebody Else Will \(Live at the Ryman\)](https://open.spotify.com/album/6ZK36pftWv1BmCI6R3UT39) | 2:48 | 2021-07-22 |  |
+| [Somebody Else Will \- Live at the Ryman](https://open.spotify.com/track/0tKMXjaXtRwEmjw30dakhe) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Somebody Else Will \(Live at the Ryman\)](https://open.spotify.com/album/6ZK36pftWv1BmCI6R3UT39) | 0:29 | 2021-07-22 |  |
 | [Sparks Fly \- Live/2011](https://open.spotify.com/track/1aBJNc2thaKyh5THWzIqHX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now World Tour Live](https://open.spotify.com/album/6fyR4wBPwLHKcRtxgd4sGh) | 5:36 | 2021-07-22 |  |
 | [Stand Behind Me \(Live\)](https://open.spotify.com/track/2ZWhZTVIC3r428R939eIpE) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [Big Bang Concert Series: Jo Dee Messina \(Live\)](https://open.spotify.com/album/67mQKIj5RSXn08pWs8xP3k) | 4:12 | 2021-07-22 |  |
 | [Stay A Little Longer \- Live](https://open.spotify.com/track/7A6DbpS31a2JwE6ql6LVrY) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Live At The Ryman](https://open.spotify.com/album/7fhOQNnwb75FndNQfbC3Mi) | 6:14 | 2021-07-22 |  |

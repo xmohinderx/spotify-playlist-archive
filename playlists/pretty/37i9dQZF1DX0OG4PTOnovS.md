@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OG4PTOnovS.md) - [plain]
 
 > The whole family can worship together with these upbeat, inspirational songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,681 likes - 62 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,726 likes - 62 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Let's Get a Little Crazy](https://open.spotify.com/track/6mMNgcpwCTWOL6qlquag9y) | [GroupMusic](https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF) | [Favorite Songs \(From "Maker Fun Factory 2017: Vacation Bible School Mini"\)](https://open.spotify.com/album/1YCLVx9SO81NPv5WBTY0Zl) | 2:53 |
 | 2 | [For Your Glory](https://open.spotify.com/track/4gOCIPrqrz8MtSoWIAodOK) | [Elevation Church Kids](https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5) | [Undefeated](https://open.spotify.com/album/3RFbBkA8LcMv0ROS56SL1I) | 3:30 |
-| 3 | [Movin' Me \(feat\. Chris Cauley\)](https://open.spotify.com/track/71PrSZj5hRreVqAl8zJuWe) | [Amber Sky Records](https://open.spotify.com/artist/6cAxRZyhkM7NqvV2hSc7Wb), [Chris Cauley](https://open.spotify.com/artist/5aH9aHu8oKkghDgylS6lJc) | [Movin' Me](https://open.spotify.com/album/3vjIfc6z80mXSyadef0ZOm) | 3:16 |
+| 3 | [Movin' Me \(feat\. Chris Cauley\)](https://open.spotify.com/track/71PrSZj5hRreVqAl8zJuWe) | [Amber Sky Records](https://open.spotify.com/artist/6cAxRZyhkM7NqvV2hSc7Wb), [Chris Cauley](https://open.spotify.com/artist/5aH9aHu8oKkghDgylS6lJc) | [Movin' Me](https://open.spotify.com/album/3vjIfc6z80mXSyadef0ZOm) | 0:29 |
 | 4 | [Praise the Lord Every Day](https://open.spotify.com/track/0LtfXpNnGPhoRoFndutmco) | [Yancy](https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu), [Little Praise Party](https://open.spotify.com/artist/58LoGVb6PvorhE0XwZwtYK), [Chris Lockwood](https://open.spotify.com/artist/5RDtfsKM6NApcmFuRpmee6) | [Taste and See](https://open.spotify.com/album/0cBPRPvYFRbXEBaiS6HhFY) | 3:11 |
 | 5 | [Nothing Is Impossible](https://open.spotify.com/track/5tgPpWoPFxqD8JJ10bawPG) | [Shout Praises Kids](https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE) | [Ultimate Kids Worship](https://open.spotify.com/album/4zcn3mJeKQpLF6FDQpERmd) | 3:52 |
 | 6 | [You Are My All In All](https://open.spotify.com/track/7otvN0P4iAuRa2dLv5XGEr) | [Shout Praises Kids](https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE) | [Trading My Sorrows](https://open.spotify.com/album/1lWuBzzz2U7qLHmO0tnugB) | 4:04 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OG4PTOnovS.md) - [plain]
 | 35 | [Ready Set Go](https://open.spotify.com/track/1Mr4IrCc8ePYg8ejPmTm5n) | [Yancy](https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu), [Little Praise Party](https://open.spotify.com/artist/58LoGVb6PvorhE0XwZwtYK) | [Ready Set Go](https://open.spotify.com/album/3IGym1FlDdtuglHm7Vpqpo) | 3:44 |
 | 36 | [Child of Heaven](https://open.spotify.com/track/5GV87c79eNOampknUGegJy) | [Calling Glory](https://open.spotify.com/artist/77Ide50jAEqgy2kRn2Nmc0) | [Child of Heaven](https://open.spotify.com/album/3xXBX5TzjyCNiVeFyZhb5o) | 3:57 |
 | 37 | [Hosanna Rock](https://open.spotify.com/track/1C9GzLSV6dYRzeRHf9cInr) | [Yancy](https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu), [Little Praise Party](https://open.spotify.com/artist/58LoGVb6PvorhE0XwZwtYK) | [Happy Day Everyday](https://open.spotify.com/album/3XxNDjaH8AS7LTUyyjPHRv) | 2:20 |
-| 38 | [One In a Million](https://open.spotify.com/track/1Tgtd3hAGsEWkQdaNZhX25) | [Elevation Church Kids](https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5) | [One In a Million](https://open.spotify.com/album/2NV57pQNW911GnUj1koyTj) | 3:12 |
+| 38 | [One In a Million](https://open.spotify.com/track/1Tgtd3hAGsEWkQdaNZhX25) | [Elevation Church Kids](https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5) | [One In a Million](https://open.spotify.com/album/2NV57pQNW911GnUj1koyTj) | 0:29 |
 | 39 | [Your Grace Is Enough](https://open.spotify.com/track/1JExwazB69I9eaa75UQAYJ) | [Worship Together Kids](https://open.spotify.com/artist/6Fe9FE8NPBvABndkjAuQv4) | [From The Inside Out For Kids](https://open.spotify.com/album/4y3m1W01TTK2nT2i2ViRtD) | 3:54 |
 | 40 | [Deep Cries Out](https://open.spotify.com/track/6PCTbGecSbQlHp7CD4taCd) | [Bethel Music Kids](https://open.spotify.com/artist/5uIFbhzzOBLAauSYTVwnp1) | [Come Alive](https://open.spotify.com/album/4gddrbOk9PpDAsZeJ2jSxg) | 5:05 |
 | 41 | [Jesus Loves Me](https://open.spotify.com/track/29YSih94JCET2h8VCiWK4J) | [Go Fish](https://open.spotify.com/artist/60oY0lmnOyCS2ElXAKCNrR) | [Bible Beats \(For Little Feets\)](https://open.spotify.com/album/3QfyerJxzTL9NXo79cXrOw) | 4:00 |
@@ -69,6 +69,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OG4PTOnovS.md) - [plain]
 | 59 | [God's Not Dead \(Like A Lion\)](https://open.spotify.com/track/78ZVdXS1Ow5ztK5oeTgdbz) | [Capitol Kids!](https://open.spotify.com/artist/2R5LUhq3xVJxlh52uh4szt) | [Capitol Kids! Hits](https://open.spotify.com/album/0NYwFMOCc1aQjeXtZ2L3T3) | 4:14 |
 | 60 | [My Best Friend](https://open.spotify.com/track/4oC2WsiVCc81NdrDwQl2XG) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Can You Believe It!?](https://open.spotify.com/album/1fsVpCIerFhDqPnwQEABi0) | 3:23 |
 | 61 | [This is Amazing Grace](https://open.spotify.com/track/6saLHwRKrJIleVAizsRhoV) | [Saddleback Kids Worship](https://open.spotify.com/artist/3JmOsw9Th41J8BDZ7QGM63), [Ian Escalante](https://open.spotify.com/artist/4VdTEoEk67dYLvPALOIXIT) | [Brave](https://open.spotify.com/album/1JM1e0eP26O8eXfLJxYOom) | 4:34 |
-| 62 | [Praise Goes On](https://open.spotify.com/track/7jRcvNpCOtgkoHQO8i4o37) | [Elevation Church Kids](https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5) | [One In a Million](https://open.spotify.com/album/2NV57pQNW911GnUj1koyTj) | 3:09 |
+| 62 | [Praise Goes On](https://open.spotify.com/track/7jRcvNpCOtgkoHQO8i4o37) | [Elevation Church Kids](https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5) | [One In a Million](https://open.spotify.com/album/2NV57pQNW911GnUj1koyTj) | 0:29 |
 
 Snapshot ID: `MTY0NjY3MDYyNiwwMDAwMDAwZjAwMDAwMTdmNjUzN2JjZmQwMDAwMDE3MWQwOTA1ZGNl`

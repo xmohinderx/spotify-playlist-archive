@@ -368,6 +368,32 @@
     },
     {
       "album": {
+        "name": "R\u00fcckw\u00e4rtsgang",
+        "url": "https://open.spotify.com/album/3FQ7WItUVApunygLj4btX7"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "KATI K",
+          "url": "https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv"
+        },
+        {
+          "name": "Gregor H\u00e4gele",
+          "url": "https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147761,
+      "name": "R\u00fcckw\u00e4rtsgang",
+      "url": "https://open.spotify.com/track/0PeqjPMkg5az7s5PNiymXV"
+    },
+    {
+      "album": {
         "name": "Searching",
         "url": "https://open.spotify.com/album/1E3Yl5nAVcPyKhW22DAS49"
       },

@@ -4,7 +4,7 @@
 
 > Enjoy your morning to great breakfast dub beats.
 
-24 songs - 1 hr 21 min - [published](https://open.spotify.com/playlist/6RupOzfZxDj3kAwi2WBIS4)
+24 songs - 1 hr 18 min - [published](https://open.spotify.com/playlist/6RupOzfZxDj3kAwi2WBIS4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Bad Days Dub](https://open.spotify.com/track/1yTU3DL2zuCdgINqtabaNh) | [Scientist](https://open.spotify.com/artist/1edl5fzpdS471TaQ8Bgs3w) | [Scientific Dub](https://open.spotify.com/album/1JR5J7Al2dvM8Mg3P03wLP) | 4:16 | 2015-04-08 |  |
 | [Beautiful Dub](https://open.spotify.com/track/5vB8MW0rJqY5Ss243MUftR) | [Tappa Zukie](https://open.spotify.com/artist/2qpvSkCJFS9Kv7u6JpSE1x) | [In Dub](https://open.spotify.com/album/0fJ2AEYdJWljtlRWbnLlaD) | 2:55 | 2015-04-08 |  |
 | [Chalice In The Palace \- 1990 Digital Remaster](https://open.spotify.com/track/0XHbsFYB6kdzujxZs5bVBj) | [U\-Roy](https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra) | [Dread In A Babylon](https://open.spotify.com/album/1lK6XoX8y3NUfBrgCDXYbz) | 3:29 | 2015-04-08 |  |
-| [Conquering Lion](https://open.spotify.com/track/5DYcVPwhCOlkiuEJa6qNTY) | [Yabby You](https://open.spotify.com/artist/2vKNIZgOzsdLs8W40OZ4X8) | [Legacy](https://open.spotify.com/album/5SX30pvWARp4gC0SN6XGXe) | 3:24 | 2015-04-08 |  |
+| [Conquering Lion](https://open.spotify.com/track/5DYcVPwhCOlkiuEJa6qNTY) | [Yabby You](https://open.spotify.com/artist/2vKNIZgOzsdLs8W40OZ4X8) | [Legacy](https://open.spotify.com/album/5SX30pvWARp4gC0SN6XGXe) | 0:29 | 2015-04-08 |  |
 | [Cool Breeze](https://open.spotify.com/track/2TF9pM5gfqgtrKHMYOKxPd) | [Big Youth](https://open.spotify.com/artist/2TdzGitZtbe3Zw3BB4SFEH) | [Riding the Roots Chariot](https://open.spotify.com/album/3K82f6Jv1CtvO5JYMWbsnB) | 3:23 | 2015-04-08 |  |
 | [Drum Song Dub](https://open.spotify.com/track/0xFSQCZu1J1YwE8O7mdzCZ) | [Scientist](https://open.spotify.com/artist/1edl5fzpdS471TaQ8Bgs3w) | [Scientific Dub](https://open.spotify.com/album/1JR5J7Al2dvM8Mg3P03wLP) | 3:42 | 2015-04-08 |  |
 | [Dub M P L A](https://open.spotify.com/track/40f33q11HfFGbiH3kyeuv0) | [Tappa Zukie](https://open.spotify.com/artist/2qpvSkCJFS9Kv7u6JpSE1x) | [In Dub](https://open.spotify.com/album/0fJ2AEYdJWljtlRWbnLlaD) | 3:06 | 2015-04-08 |  |

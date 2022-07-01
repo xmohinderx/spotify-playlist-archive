@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LJDigq6rCa.md) - [plain]
 
 > This playlist will sing your little ones to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,921 likes - 78 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,920 likes - 78 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LJDigq6rCa.md) - [plain]
 | 67 | [Departure](https://open.spotify.com/track/08WVDOzFawhJYTbRInhUTh) | [Ronny Davis](https://open.spotify.com/artist/1swm5Q9C4aCv90Axn6mtBt) | [Departure](https://open.spotify.com/album/7A8Bgt3btjZVsju8hSJIf8) | 1:45 |
 | 68 | [Cloudless](https://open.spotify.com/track/76PhNwBIgoytLw14EXOLXs) | [Sigrid Vass](https://open.spotify.com/artist/1vIOObvjDYAiXHCkLOFCOT) | [Cloudless](https://open.spotify.com/album/3YjZojRZHOiEIALoZey4tp) | 2:23 |
 | 69 | [A Blanket of Snow Spotted from Under the Blankets](https://open.spotify.com/track/72zxrRRQwFmkpZWxaDaRzH) | [Lullatone](https://open.spotify.com/artist/3h100hRlLZ7QDz8GRt5QsD) | [Thinking About Thursdays](https://open.spotify.com/album/3AWATaNWvlDlTOmlemNQDw) | 2:21 |
-| 70 | [Besides, By the Way](https://open.spotify.com/track/64s5jnBOmd6DqmQlphn0Fv) | [Ari Naman](https://open.spotify.com/artist/5JAfV3egghH0G8VAjzk0Ch) | [Things of Meaning](https://open.spotify.com/album/1mBpJKaaCxnal3lHb3ytty) | 3:28 |
+| 70 | [Besides, By the Way](https://open.spotify.com/track/64s5jnBOmd6DqmQlphn0Fv) | [Ari Naman](https://open.spotify.com/artist/5JAfV3egghH0G8VAjzk0Ch) | [Things of Meaning](https://open.spotify.com/album/1mBpJKaaCxnal3lHb3ytty) | 0:29 |
 | 71 | [Nibelia](https://open.spotify.com/track/4f5uEi9y4C2gI4IBalSRjd) | [Algy Lacey](https://open.spotify.com/artist/4FOaoaFSozNtPQFy8O8t48) | [Nibelia](https://open.spotify.com/album/2OdvQNyQdAT3zOsZU3ozrA) | 3:44 |
 | 72 | [Postojna Cave](https://open.spotify.com/track/2wmDt99ctDHWmv90eCUmha) | [Goran Sveic](https://open.spotify.com/artist/6IKG997m7bF9OUAGkkdFtL) | [Postojna Cave](https://open.spotify.com/album/4yBH7PEvcVyTzbfBL0Gkr7) | 2:02 |
 | 73 | [The NIght Sky](https://open.spotify.com/track/74BilO0zChICzNl6bXBFWI) | [Mont Real](https://open.spotify.com/artist/5M5cSnU5RbCkYcKe1wUMKc) | [The NIght Sky](https://open.spotify.com/album/1Si7otf4LNskpi7tmv8XfG) | 2:58 |

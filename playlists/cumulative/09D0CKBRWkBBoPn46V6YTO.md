@@ -4,7 +4,7 @@
 
 > 
 
-50 songs - 3 hr 1 min - [published](https://open.spotify.com/playlist/1zmlNnhsi9g5KHfD5s2JAx)
+50 songs - 2 hr 55 min - [published](https://open.spotify.com/playlist/1zmlNnhsi9g5KHfD5s2JAx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,8 +20,8 @@
 | [Cecilia \- Single Mix](https://open.spotify.com/track/11CeyEFt21BvAICfd4U8FA) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Greatest Hits](https://open.spotify.com/album/25irJgxRNTlyg8pUmWfDVG) | 2:49 | 2013-06-27 |  |
 | [Come And Get It](https://open.spotify.com/track/1tURLJqgjF5FyvZyRq1wAR) | [Badfinger](https://open.spotify.com/artist/4pJCawaKSZ40EnxN0YEYw3) | [No Matter What You Are](https://open.spotify.com/album/4cRdpAyhGpFJ3O7dkS5AQk) | 2:18 | 2013-06-27 |  |
 | [Cracklin rosie](https://open.spotify.com/track/1yJEiQCShbQzTnQ08QILSC) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Neil Diamond \(Golden collection\)](https://open.spotify.com/album/51ZQYJCk76WoG7v0YnZDm5) | 2:45 | 2013-06-27 |  |
-| [Everything Is Beautiful](https://open.spotify.com/track/2X1vF9EkaOC08o50XfOQKF) | [Ray Stevens](https://open.spotify.com/artist/7MpUvihmfilIxyN20kXwQj) | [Golden Hits forever V4](https://open.spotify.com/album/0QEpGrv9COXKuF8oXzP87V) | 3:32 | 2013-06-27 |  |
-| [Get Ready](https://open.spotify.com/track/06ahXfNkTO6Tu289M5PUeI) | [Rare Earth](https://open.spotify.com/artist/6eEsIl4wosvhuWI0mfXxAF) | [Brady Days \- Music Inspired By The Brady Bunch](https://open.spotify.com/album/6VyJ0GRhy0rRdmKP7rVuZu) | 3:52 | 2013-06-27 |  |
+| [Everything Is Beautiful](https://open.spotify.com/track/2X1vF9EkaOC08o50XfOQKF) | [Ray Stevens](https://open.spotify.com/artist/7MpUvihmfilIxyN20kXwQj) | [Golden Hits forever V4](https://open.spotify.com/album/0QEpGrv9COXKuF8oXzP87V) | 0:29 | 2013-06-27 |  |
+| [Get Ready](https://open.spotify.com/track/06ahXfNkTO6Tu289M5PUeI) | [Rare Earth](https://open.spotify.com/artist/6eEsIl4wosvhuWI0mfXxAF) | [Brady Days \- Music Inspired By The Brady Bunch](https://open.spotify.com/album/6VyJ0GRhy0rRdmKP7rVuZu) | 0:29 | 2013-06-27 |  |
 | [Give Me Just A Little More Time](https://open.spotify.com/track/5JObMRMdgDzzP2physGTHq) | [General Johnson & The Chairmen of the Board](https://open.spotify.com/artist/19KsPOZRHLv7RZbLiKpqbH) | [Beach Music Anthology](https://open.spotify.com/album/7aIRBttiOiarMG2418WssQ) | 2:36 | 2013-06-27 |  |
 | [Green\-Eyed Lady](https://open.spotify.com/track/7s2orxqJ8qE0aG3Ngvct3C) | [Sugarloaf](https://open.spotify.com/artist/1T3RPiMH711kvoXymKUTYH) | [Green\-Eyed Lady](https://open.spotify.com/album/6pjUe7X2t0bBla4KbMR1h5) | 3:39 | 2013-06-27 |  |
 | [He Ain't Heavy He's My Brother](https://open.spotify.com/track/6f5sSC3ORfpUMYtE4J06VW) | [The Hollies](https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ) | [20 Golden Greats](https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42) | 4:18 | 2013-06-27 |  |

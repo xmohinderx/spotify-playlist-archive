@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5xAfItDaeAViBRNdSuQ7ZG.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 340 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 340 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/5xAfItDaeAViBRNdSuQ7ZG.md) - [plain]
 | 17 | [Mr\. Big Stuff](https://open.spotify.com/track/0TRJSoV6b5zDASVtdMK7oT) | [Jean Knight](https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr) | [Stax Chartbusters, Vol\. 1](https://open.spotify.com/album/4oEYZnyz2yqpWjjBcq7xLk) | 2:34 |
 | 18 | [Brown Sugar \- \(Original Single Stereo Version\)](https://open.spotify.com/track/7ww5N3s0sFmUKF7573BW7x) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Singles 1968\-1971](https://open.spotify.com/album/7xZouUPtoLMxXcRwgWi5BO) | 3:49 |
 | 19 | [Do You Know What I Mean](https://open.spotify.com/track/0I7ppAteWHCbfkEfOAbtIf) | [Lee Michaels](https://open.spotify.com/artist/6f07NU6NNMLQYXIABUv7z3) | [5th](https://open.spotify.com/album/5cVYjmFRCc3OfkQFhBRWUn) | 3:15 |
-| 20 | [What's Going On \- Single Version / Stereo](https://open.spotify.com/track/29BawlXsDMFKvK9WAYEBEI) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Anthology](https://open.spotify.com/album/4QzwFXkYn1onuH5wr2AcYY) | 3:58 |
+| 20 | [What's Going On \- Single Version / Stereo](https://open.spotify.com/track/29BawlXsDMFKvK9WAYEBEI) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Anthology](https://open.spotify.com/album/4QzwFXkYn1onuH5wr2AcYY) | 0:29 |
 | 21 | [Ain't No Sunshine](https://open.spotify.com/track/06GMqqIYyVPUWRy0scjRcx) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Discover Bill Withers](https://open.spotify.com/album/0PuHBmxh6nKG8TTjuVZghY) | 2:03 |
-| 22 | [Signs](https://open.spotify.com/track/5KWXi2eCYsC6ofIILjvG4V) | [Five Man Electrical Band](https://open.spotify.com/artist/1GjVNyMzPjdBuip6Xanllu) | [Absolutely Right \- The Best Of Five Man Electrical Band](https://open.spotify.com/album/5W6F5tJqFnmmbPV4oJKbbR) | 4:01 |
+| 22 | [Signs](https://open.spotify.com/track/5KWXi2eCYsC6ofIILjvG4V) | [Five Man Electrical Band](https://open.spotify.com/artist/1GjVNyMzPjdBuip6Xanllu) | [Absolutely Right \- The Best Of Five Man Electrical Band](https://open.spotify.com/album/5W6F5tJqFnmmbPV4oJKbbR) | 0:29 |
 | 23 | [She's A Lady](https://open.spotify.com/track/0GWKqusjrUtxWZexPvDHhJ) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Gold \(1965 \- 1975\)](https://open.spotify.com/album/0gPa2i2Tb3WAaizBLiW3B5) | 2:52 |
 | 24 | [Superstar](https://open.spotify.com/track/3SwDEzQaz19TRWaX5NTWLh) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Murray Head](https://open.spotify.com/artist/479Yp6DvyXoIaCssAxB4QR), [The Trinidad Singers](https://open.spotify.com/artist/6pgLxFqJE6Wm9wWyM2iFEn) | [Gold: The Definitive Hits Collection](https://open.spotify.com/album/2M5hH41FRM0yHChYOSCOIE) | 4:16 |
 | 25 | [Amos Moses](https://open.spotify.com/track/3kEIbKeC3AJgxLSvB0HL07) | [Jerry Reed](https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF) | [My Name Is Earl](https://open.spotify.com/album/5hsy73uICuz1OgHCSv8hkC) | 2:20 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/5xAfItDaeAViBRNdSuQ7ZG.md) - [plain]
 | 28 | [For All We Know](https://open.spotify.com/track/4VD9bzVQXXv0K6fIgX3WRX) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [The Singles 1969 \- 1973](https://open.spotify.com/album/1ZipQdyXZFZx4BlfhDo9zN) | 2:34 |
 | 29 | [Help Me Make It Through The Night](https://open.spotify.com/track/3DlrvYMG2VRxjX0tQIzv2b) | [Sammi Smith](https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS) | [Help Me Make It Through The Night](https://open.spotify.com/album/15nCQjdOTqAoyMEjH4r6j1) | 2:32 |
 | 30 | [Rainy Days And Mondays \- Single Version](https://open.spotify.com/track/0rL5RSERoMfEIak4DAI51d) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [The Singles 1969 \- 1973](https://open.spotify.com/album/1ZipQdyXZFZx4BlfhDo9zN) | 3:20 |
-| 31 | [If You Could Read My Mind](https://open.spotify.com/track/0fjYN9BylnRXMA3or3QSld) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Gord's Gold](https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ) | 3:49 |
+| 31 | [If You Could Read My Mind](https://open.spotify.com/track/0fjYN9BylnRXMA3or3QSld) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Gord's Gold](https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ) | 0:29 |
 | 32 | [Gypsys, Tramps & Thieves](https://open.spotify.com/track/6fsSZbNL7XP9gf1kJ2l155) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Gypsys, Tramps & Thieves](https://open.spotify.com/album/4NsAwBNLIHDpmlCCGNGzH9) | 2:38 |
 | 33 | [Never Can Say Goodbye \- Single Version](https://open.spotify.com/track/00xTcz36WYcfbne25nPB1M) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [The Ultimate Collection: Jackson 5](https://open.spotify.com/album/6NuV6nId3nErKHQbdbwltq) | 3:00 |
 | 34 | [Rose Garden](https://open.spotify.com/track/5mJwUOv7NUUxRRRfd43BWI) | [Lynn Anderson](https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2) | [Rose Garden](https://open.spotify.com/album/3IyZ2Ch39Jw9U98639H6pM) | 2:54 |

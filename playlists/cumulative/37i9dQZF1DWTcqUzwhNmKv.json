@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Ozzy Osbourne on top of the biggest Metal playlist!",
+  "description": "Bad Wolves on top of the biggest Metal playlist!",
   "name": "Kickass Metal",
   "published_playlist_ids": [
     "4mdOdh141kr7vCeHVDE6oL"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 335146,
       "name": "Broken Cog",
       "url": "https://open.spotify.com/track/7D5Z6xZwWIG4trvfaMa0vn"
@@ -575,6 +575,24 @@
       "duration_ms": 292735,
       "name": "Construction of Souls",
       "url": "https://open.spotify.com/track/01tykAEjuZsAX5I1y0FLf8"
+    },
+    {
+      "album": {
+        "name": "Electrified Brain",
+        "url": "https://open.spotify.com/album/5oiOILICZyEvy5WJdkVUjS"
+      },
+      "artists": [
+        {
+          "name": "Municipal Waste",
+          "url": "https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162306,
+      "name": "Crank The Heat",
+      "url": "https://open.spotify.com/track/6NSpw2IAGK35FgyqlicfOI"
     },
     {
       "album": {
@@ -917,6 +935,24 @@
       "duration_ms": 263995,
       "name": "Dystopia (feat. Christoph Wieczorek of Annisokay)",
       "url": "https://open.spotify.com/track/2WaaniEgnI8pUMjvpfUCBJ"
+    },
+    {
+      "album": {
+        "name": "Earth Shaker",
+        "url": "https://open.spotify.com/album/1pNsCcIhnP2wBeLmBWgB72"
+      },
+      "artists": [
+        {
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203653,
+      "name": "Earth Shaker",
+      "url": "https://open.spotify.com/track/3EytQKQcbsuZrXTrpFcL4P"
     },
     {
       "album": {
@@ -1433,7 +1469,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 198665,
       "name": "Hunting Season",
       "url": "https://open.spotify.com/track/0NCvhkLffy3suyYgXITOzP"
@@ -2691,7 +2727,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 214057,
       "name": "Smoke Signals",
       "url": "https://open.spotify.com/track/63cTVY6A0yeJ0DsjXBwYVH"
@@ -2929,7 +2965,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 321737,
       "name": "Stockholm Syndrome",
       "url": "https://open.spotify.com/track/1dV3QltW7QIUXbH1u9JXhP"
@@ -3059,6 +3095,24 @@
       "duration_ms": 295786,
       "name": "The Abysmal Eye",
       "url": "https://open.spotify.com/track/7Iogi1NuInEAxMBOreCB3b"
+    },
+    {
+      "album": {
+        "name": "The Body",
+        "url": "https://open.spotify.com/album/0EvhA9EF2gjiTAdQyubBfP"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231666,
+      "name": "The Body",
+      "url": "https://open.spotify.com/track/0YbvjDVsEYEASJI8gS9UJ3"
     },
     {
       "album": {
@@ -3701,6 +3755,24 @@
       "duration_ms": 271025,
       "name": "You Made Me Want To Live",
       "url": "https://open.spotify.com/track/2HsP2DbYLAjDItQUP2RQ88"
+    },
+    {
+      "album": {
+        "name": "Your Love I'll Never Need",
+        "url": "https://open.spotify.com/album/17yymNfb1oyI5bBn0BvXv2"
+      },
+      "artists": [
+        {
+          "name": "Ocean Sleeper",
+          "url": "https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200843,
+      "name": "Your Love I'll Never Need",
+      "url": "https://open.spotify.com/track/228ijND7JwCIpNt8sYlHYW"
     },
     {
       "album": {

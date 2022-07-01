@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB167twpvS4.md) - [plain]
 
 > Be an ear\-witness to the music that gave birth to Country, Pop and Rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,616 likes - 63 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,621 likes - 63 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,17 +30,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB167twpvS4.md) - [plain]
 | 20 | [Rock Pretty Mama](https://open.spotify.com/track/08SmrLq3o5AE5da5RYS9Ao) | [Billy Adams](https://open.spotify.com/artist/5Td4CSGGe0oCwVHN5yLzKR), [The Rock\-A\-Teers](https://open.spotify.com/artist/6H6IG1FKsPAj4YURz8qTFb) | [Nau Voo Rock and Roll](https://open.spotify.com/album/5ANuYdTAkqfyOrr1Ex9Gyk) | 2:11 |
 | 21 | [Right Or Wrong](https://open.spotify.com/track/6yodxkUjWFbAE8VV4XkuDv) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [20 Rock 'N' Roll Hits](https://open.spotify.com/album/12uadrsBO9OStSXlXLV6cW) | 2:39 |
 | 22 | [The Fool](https://open.spotify.com/track/4DGWTmh53h5Qm68FboVSMF) | [Sanford Clark](https://open.spotify.com/artist/3REqunOj76TSpw9f6eKON2) | [Rockabilly Classics](https://open.spotify.com/album/57iN9SJYBZ7CkbVYATSDLG) | 2:46 |
-| 23 | [Maybe Baby](https://open.spotify.com/track/20UjAGdEjVb8DniNXvqHJy) | [Buddy Holly & The Crickets](https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l) | [The "Chirping" Crickets](https://open.spotify.com/album/1KfXNUbZrdwHMtkAGNBLBq) | 2:02 |
+| 23 | [Maybe Baby](https://open.spotify.com/track/20UjAGdEjVb8DniNXvqHJy) | [Buddy Holly & The Crickets](https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l) | [The "Chirping" Crickets](https://open.spotify.com/album/1KfXNUbZrdwHMtkAGNBLBq) | 0:29 |
 | 24 | [Rock Billy Boogie](https://open.spotify.com/track/4NazHwfKb4e9WSkFM2OC52) | [Johnny Burnette & The Rock 'N' Roll Trio](https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58) | [Johnny Burnette And The Rock 'N Roll Trio](https://open.spotify.com/album/0WDDlUimET7qIVjs0Sm3mM) | 2:36 |
 | 25 | [Lotta Lovin'](https://open.spotify.com/track/0ijKW319aVwVVDmFGU4rGC) | [Gene Vincent](https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx), [The Blue Caps](https://open.spotify.com/artist/5EmQT0A3VxQU0EiX0qhrCo) | [Capitol Collectors Series](https://open.spotify.com/album/72cDPStUoZJZxUbQ67cgO6) | 2:11 |
 | 26 | [\(We're Gonna\) Rock Around The Clock](https://open.spotify.com/track/1uRKT2LRANv4baowBWHfDS) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Rock Around The Clock](https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK) | 2:09 |
 | 27 | [Big River](https://open.spotify.com/track/6tSlcd8gcp3XGstYNhL3It) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Johnny Cash at Sun](https://open.spotify.com/album/2Uu2hccRmXc9NyUNzwRpXT) | 2:31 |
 | 28 | [Honey Bop](https://open.spotify.com/track/2Wsm0caLiFxjqm8QNp8R8q) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [20 Rock 'N' Roll Hits](https://open.spotify.com/album/12uadrsBO9OStSXlXLV6cW) | 2:15 |
-| 29 | [Blue Suede Shoes](https://open.spotify.com/track/6YMYrOPAIKah6RHOkPP0oS) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [A\-Sides](https://open.spotify.com/album/6dknVJxHPNrsFkbQRU980y) | 2:16 |
+| 29 | [Blue Suede Shoes](https://open.spotify.com/track/6YMYrOPAIKah6RHOkPP0oS) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [A\-Sides](https://open.spotify.com/album/6dknVJxHPNrsFkbQRU980y) | 0:29 |
 | 30 | [There Stands The Glass](https://open.spotify.com/track/0VxX3RBKO46Ky6XgvN0bME) | [Webb Pierce](https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq) | [20th Century Masters: The Millennium Collection: Best Of Webb Pierce](https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy) | 2:26 |
 | 31 | [Oh Baby Babe \- Single Version](https://open.spotify.com/track/1lhSVCcPspFV7XAdvWSazI) | [Johnny Burnette & The Rock 'N' Roll Trio](https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58) | [Tear It Up: The Complete Legedary Coral Recordings](https://open.spotify.com/album/5EEZg4wJpSRVqRi1nxwKL6) | 2:20 |
 | 32 | [Shirley Lee](https://open.spotify.com/track/22J2v0T6yxFbpM5HMAmToY) | [Bobby Lee Trammell](https://open.spotify.com/artist/0TJ6UwA2LLLk3u9WjPFYLW) | [Rockabilly Pioneers: The Origins of Rockabilly](https://open.spotify.com/album/3LFHxKzfoMceMqhIKRQ2LU) | 1:47 |
-| 33 | [Rock & Roll Ruby](https://open.spotify.com/track/6xaCoxc3yqOEwqrHW7A3qT) | [Warren Smith](https://open.spotify.com/artist/3EPmCVUm7QNc1fSrLsXGq5) | [The Originals \- Classic Hits from the 50's & 60's](https://open.spotify.com/album/05wRON6KWMYqj8Mu2hcsFb) | 2:55 |
+| 33 | [Rock & Roll Ruby](https://open.spotify.com/track/6xaCoxc3yqOEwqrHW7A3qT) | [Warren Smith](https://open.spotify.com/artist/3EPmCVUm7QNc1fSrLsXGq5) | [The Originals \- Classic Hits from the 50's & 60's](https://open.spotify.com/album/05wRON6KWMYqj8Mu2hcsFb) | 0:29 |
 | 34 | [Guess Things Happen That Way](https://open.spotify.com/track/3ty6IIfuP0fXZ1XZDqQXmf) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Sings the Songs that Made Him Famous](https://open.spotify.com/album/2nQNyHqWILAkDe4OhyWonE) | 1:50 |
 | 35 | [Three Alley Cats](https://open.spotify.com/track/07LxAEsqCqaTUfsqqD0Vzx) | [Roy Hall](https://open.spotify.com/artist/2v9Vcnfs4nMntDbovgRrlO) | [All We Wanna Do Is Rock](https://open.spotify.com/album/1NBf7LY3ClyC7F4rww7KzA) | 2:28 |
 | 36 | [Everybody's Trying to Be My Baby](https://open.spotify.com/track/7paBky0IsaTbTZYVgl1hKd) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The 50 Best Rockabilly Songs Ever](https://open.spotify.com/album/0Nb8B0PNy4XnoZAPw2cSOU) | 2:16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5trt9i14X7j.md) - [plain]
 
 > Dedicated to all the programmers out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,021 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,479 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5trt9i14X7j.md) - [plain]
 | 16 | [8 Hours, Still No Rain \- Mixed](https://open.spotify.com/track/0PHMK9TRJasKOWELsdcyRC) | [Hosini](https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF), [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Anjunadeep 11](https://open.spotify.com/album/2uHQPZyOyrGjqaNR1V9FQE) | 3:14 |
 | 17 | [Blur](https://open.spotify.com/track/7eHDn7TyswvJIfxWGtIYKk) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio) | [Blur](https://open.spotify.com/album/74AP9PqF7MTlqiRy9oXiPd) | 1:56 |
 | 18 | [Coral Reef](https://open.spotify.com/track/3ElDX6t2ayq83erLIjy3fx) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [missing piece](https://open.spotify.com/album/0TTD6fjBDNQ5r3w5l8lalj) | 2:42 |
-| 19 | [Take Me Back](https://open.spotify.com/track/69ScUfmrwMZgyqb0XRGw12) | [WYS](https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f) | [North Pole](https://open.spotify.com/album/5O8TzNyhGK7xTMN0kccpiX) | 2:56 |
+| 19 | [Take Me Back](https://open.spotify.com/track/69ScUfmrwMZgyqb0XRGw12) | [WYS](https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f) | [North Pole](https://open.spotify.com/album/5O8TzNyhGK7xTMN0kccpiX) | 0:29 |
 | 20 | [We Contain Multitudes \- from home](https://open.spotify.com/track/2ich9n3I8MHo1AkC26bpqK) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Loom](https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM) | 3:10 |
 | 21 | [Loungerie](https://open.spotify.com/track/4abjt5hWugcmJucydd6eHL) | [Jorge Milliano](https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ) | [Dosages](https://open.spotify.com/album/2DZ9XsRcXUf5E1RBR2MXL0) | 3:15 |
 | 22 | [i wish it would never stop snowing](https://open.spotify.com/track/5nKSxq2yNgQLtgzqJxPn41) | [Sleepy Fish](https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw) | [Chillhop Essentials Spring 2019](https://open.spotify.com/album/0FBkB6e7deadNGBxQCpQc0) | 3:16 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5trt9i14X7j.md) - [plain]
 | 31 | [Forces of Attraction](https://open.spotify.com/track/6YjNHauEMtw8cWsOnoBUf3) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [The Theory of Everything \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2R2FZbfCSFBb1piR159xN0) | 2:03 |
 | 32 | [Nothing It Can](https://open.spotify.com/track/4ecwrnFDSJLlLyZlEH7YGK) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Moiety](https://open.spotify.com/album/2ep9D35aw04xUbb8crArYg) | 4:47 |
 | 33 | [Approaching Dusk](https://open.spotify.com/track/6vwuSjfe1UjY6fn43HZ4CK) | [Eagle Lake](https://open.spotify.com/artist/4vOO570FcsEOodJuMh98EP) | [Piano Studies](https://open.spotify.com/album/26pIGdUcRbCfXQ2GcuvvQA) | 1:45 |
-| 34 | [Once Around](https://open.spotify.com/track/17C3EXdU2eFGKnesQTkEJr) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Hardly A Day, Hardly A Night](https://open.spotify.com/album/3sXK7ip7DA3SZSKeYFbf6Q) | 3:42 |
+| 34 | [Once Around](https://open.spotify.com/track/17C3EXdU2eFGKnesQTkEJr) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Hardly A Day, Hardly A Night](https://open.spotify.com/album/3sXK7ip7DA3SZSKeYFbf6Q) | 0:29 |
 | 35 | [Pastoral](https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Pastoral](https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde) | 3:40 |
 | 36 | [FF4](https://open.spotify.com/track/4yHLejQxBnufgbFPALQkK3) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Flamagra](https://open.spotify.com/album/5WfDyog8yO7ZF8JdJxeZfl) | 1:11 |
 | 37 | [Riverline](https://open.spotify.com/track/4LgL0LKDAVGylgyab5hZWn) | [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG) | [Oasis Sky](https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10) | 4:41 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5trt9i14X7j.md) - [plain]
 | 45 | [Halcyon and On and On](https://open.spotify.com/track/5xcunlfaZvD9BDQsLONI7A) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Orbital 2](https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W) | 9:27 |
 | 46 | [Green Tea](https://open.spotify.com/track/0grdHMgh7NY6uUIBZVW3Vb) | [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ) | [Green Tea](https://open.spotify.com/album/0ldNSbOCGLTYKYC9yWXd77) | 1:15 |
 | 47 | [Parallel 7](https://open.spotify.com/track/3LqQJYUqxRFpX3tnvIsGGh) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Parallel](https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT) | 5:43 |
-| 48 | [The Dream](https://open.spotify.com/track/7wlNWkXeVgJZNCVy0EXh7j) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [O R B I T](https://open.spotify.com/album/3eCwJk6D1j7ViqMItXa10G) | 2:33 |
+| 48 | [The Dream](https://open.spotify.com/track/7wlNWkXeVgJZNCVy0EXh7j) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [O R B I T](https://open.spotify.com/album/3eCwJk6D1j7ViqMItXa10G) | 0:29 |
 | 49 | [Angel's Flight](https://open.spotify.com/track/1tCPxwo9ll7rxCxaEBq06f) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/0qZ6LUWpJC4lrQrEDoUeHH) | 5:52 |
 | 50 | [So We Won't Forget](https://open.spotify.com/track/1sL0oHu8NCQpImkjxkoVXj) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [So We Won't Forget](https://open.spotify.com/album/6AixWA1IbGyb70exJJKUUa) | 4:58 |
 | 51 | [\#1](https://open.spotify.com/track/35NyjYJFaJxqbUF2y0jWl1) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 7:27 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5trt9i14X7j.md) - [plain]
 | 55 | [Sunday Glide](https://open.spotify.com/track/72Qac2FQd9e21XCibSOhfY) | [Kermesse](https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw) | [Kermesse](https://open.spotify.com/album/2hPiyh9HOXEEr93AoO9kub) | 5:47 |
 | 56 | [Homecoming](https://open.spotify.com/track/5hDxgd1QjOO2kz577FJYme) | [Sahamanyu](https://open.spotify.com/artist/0qD6Ngdk3zUM2pKRsczr8C) | [Homecoming](https://open.spotify.com/album/091PcRTCoEx0mS7z3Jkr3A) | 5:21 |
 | 57 | [Sibyl](https://open.spotify.com/track/5YmjFHheTqiMyhVtBM04lo) | [Hushed](https://open.spotify.com/artist/6Jkxik23CyCBIj3rKlflPn) | [Pillars](https://open.spotify.com/album/5aSe7EH7yhtFGvyQPsVcgF) | 4:03 |
-| 58 | [Smile](https://open.spotify.com/track/2m0TUPv1FW6LoQpxV5l6Lf) | [Dixxy](https://open.spotify.com/artist/3tzNFZuGKTcNypBltcMf4a) | [Smile](https://open.spotify.com/album/1F2N2TDZBfge0Q03ypNo5k) | 3:34 |
+| 58 | [Smile](https://open.spotify.com/track/2m0TUPv1FW6LoQpxV5l6Lf) | [Dixxy](https://open.spotify.com/artist/3tzNFZuGKTcNypBltcMf4a) | [Smile](https://open.spotify.com/album/1F2N2TDZBfge0Q03ypNo5k) | 0:29 |
 | 59 | [My Funny Valentine](https://open.spotify.com/track/1UWlVOM5NZdkFZobaYeAv5) | [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb) | [Midnight Thoughts](https://open.spotify.com/album/6u1pNJvksMfMkHaZAVOL3a) | 2:41 |
 | 60 | [Bacall](https://open.spotify.com/track/0keMf5m5CVWX0ZZnhc8xPz) | [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 4:06 |
 | 61 | [Iridescence](https://open.spotify.com/track/6NplMK5VZVFTTr2NrGoeHj) | [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Chillhop Daydreams 2](https://open.spotify.com/album/0YbmUgd0K257NfsFxz2olW) | 2:51 |

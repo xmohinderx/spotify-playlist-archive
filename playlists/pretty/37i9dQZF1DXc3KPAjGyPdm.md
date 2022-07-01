@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 
 > Music from and inspired by Stranger Things\. Watch Season 4 now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 983,927 likes - 182 songs - 10 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 998,819 likes - 182 songs - 10 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,7 +161,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 | 151 | [Africa](https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 4:55 |
 | 152 | [We Go out Tonight](https://open.spotify.com/track/1o7Vz3XeJQCyUDdeYBRjrA) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B) | 2:15 |
 | 153 | [Can't Seem To Make You Mine](https://open.spotify.com/track/6nnSkEpzo8PmHsOlSopoO6) | [The Seeds](https://open.spotify.com/artist/5mcarhiatlvfCghqcn73rC) | [The Seeds](https://open.spotify.com/album/6VSc96KWdejRIgMrmo4v8N) | 3:05 |
-| 154 | [Jenny May](https://open.spotify.com/track/4GBOWK3lV5zSVtcgEfTWFT) | [Trader Horne](https://open.spotify.com/artist/3kqRce9Kv4QgTeUaQ9sqYy) | [Morning Way](https://open.spotify.com/album/1wwod56wMvGvc8cmLEZGGo) | 2:26 |
+| 154 | [Jenny May](https://open.spotify.com/track/4GBOWK3lV5zSVtcgEfTWFT) | [Trader Horne](https://open.spotify.com/artist/3kqRce9Kv4QgTeUaQ9sqYy) | [Morning Way](https://open.spotify.com/album/1wwod56wMvGvc8cmLEZGGo) | 0:29 |
 | 155 | [She Has Funny Cars](https://open.spotify.com/track/7GeQk8PqG5NAENxCRLcw0B) | [Jefferson Airplane](https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF) | [Surrealistic Pillow](https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a) | 3:08 |
 | 156 | [Go Nowhere](https://open.spotify.com/track/28CzlFHHxBf68YfOPqm8O2) | [Reagan Youth](https://open.spotify.com/artist/5105k1OIV9BdhuB3rxtHYb) | [A Collection of Pop Classics](https://open.spotify.com/album/1Ojre9LKo2kR0FMb6VVSe3) | 1:22 |
 | 157 | [Hazy Shade of Winter](https://open.spotify.com/track/0P2vAvvWni2tNXOdbH3JFk) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [The Essential Bangles](https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf) | 2:47 |
@@ -176,7 +176,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 | 166 | [The Bargain Store](https://open.spotify.com/track/2GEuNbl2Aan68tQeHn4ADi) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Bargain Store](https://open.spotify.com/album/1QODRNFrssyoPjn1hQKVX3) | 2:41 |
 | 167 | [The Upside Down](https://open.spotify.com/track/5rwltqXrIniDtZIx4J6u50) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 5:07 |
 | 168 | [Tie a Yellow Ribbon](https://open.spotify.com/track/3dTLZPQd43VkK4knj6D9FX) | [Brotherhood of Man](https://open.spotify.com/artist/4Cyr5aqgXza16isOrQNOvo) | [Greatest Hits: Brotherhood of Man](https://open.spotify.com/album/6uWZ1fY3ZU29OmJWxovhCR) | 2:56 |
-| 169 | [Full Fathom Five/I Shall Not Care](https://open.spotify.com/track/0Z6CuPLVLe21ljBhkTwplC) | [Pearls Before Swine](https://open.spotify.com/artist/01UrELDCYrQ6wrFArNbidS) | [The Wizard Of Is](https://open.spotify.com/album/5IgRl2HyYt1ZSaBbeRYwHA) | 2:47 |
+| 169 | [Full Fathom Five/I Shall Not Care](https://open.spotify.com/track/0Z6CuPLVLe21ljBhkTwplC) | [Pearls Before Swine](https://open.spotify.com/artist/01UrELDCYrQ6wrFArNbidS) | [The Wizard Of Is](https://open.spotify.com/album/5IgRl2HyYt1ZSaBbeRYwHA) | 0:29 |
 | 170 | [Eleven](https://open.spotify.com/track/0yMaGil4yVbV6YhXXAXw83) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 3:14 |
 | 171 | [I'm Taking off \(Shield Your Eyes\)](https://open.spotify.com/track/1Nw16im3KSKlWZpIwuXZAv) | [Space Knife](https://open.spotify.com/artist/3XdNLIFjXuqP4qUrls2WrL) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/7fDEvGP4Kgip4FhjBIYdAn) | 2:28 |
 | 172 | [Walkin in Hawkins](https://open.spotify.com/track/2y6mt1xsA4527griyUQf6N) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B) | 2:36 |
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 | 181 | [Ghostbusters](https://open.spotify.com/track/300zfRaCgTmEm5Eqe3HqZZ) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Arista Heritage Series: Ray Parker](https://open.spotify.com/album/1Fq1oCtmlSQabl1zIdoWCg) | 4:00 |
 | 182 | [Eight Fifteen](https://open.spotify.com/track/7bocrcIvqXs0tBFM5VI6Rf) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B) | 1:25 |
 
-Snapshot ID: `MTY1NjU1MjEzNSwwMDAwMDAwMDBmNDFlYTc1NThkNDA4YThlZTg3ZDMwOTM5MjRkNDRi`
+Snapshot ID: `MTY1NjYzOTgyMiwwMDAwMDAwMDBmNDFlYTc1NThkNDA4YThlZTg3ZDMwOTM5MjRkNDRi`

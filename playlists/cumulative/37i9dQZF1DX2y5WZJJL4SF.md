@@ -4,7 +4,7 @@
 
 > Soft and calm renditions of songs for harp.
 
-143 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/5s5aESIlnEiqencTr1QRMW)
+143 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/5s5aESIlnEiqencTr1QRMW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Golden Slumbers](https://open.spotify.com/track/330V8YIP7p4hPAw5FWiAlB) | [Val Hughes](https://open.spotify.com/artist/4tHxIe8AIsYzEYNAmoXQUv) | [Golden Slumbers](https://open.spotify.com/album/6RRaSrvasshvtkJrjeDl3l) | 1:13 | 2022-01-21 |  |
 | [Good Night, Everyone](https://open.spotify.com/track/47Ehr3NNx21NOO1ggFIVFT) | [Morty Platt](https://open.spotify.com/artist/5OCwYaGPaxkqChAiKEGxOH) | [Good Night, Everyone](https://open.spotify.com/album/2ZGoTWS6V5VWCpgWuVoMni) | 1:15 | 2021-11-11 |  |
 | [Grootmoeder](https://open.spotify.com/track/6v4S9vW2oAshobL1lcjJnD) | [Rosalyn van Heeringen](https://open.spotify.com/artist/7oIzlrfSFDprcOzbN9RGyM) | [Ik hou van zwemmen](https://open.spotify.com/album/2Ag6f5EuEU5xXLzlapJmlG) | 1:29 | 2021-11-11 |  |
-| [Hope And Love](https://open.spotify.com/track/3iMOGERyDXvAwtw2alVSW4) | [Hudson Hull](https://open.spotify.com/artist/5nAHYyaImYxFBWBConOC5o) | [Hope And Love](https://open.spotify.com/album/3ItHo9jqG5hpQc0ioaM984) | 1:07 | 2021-11-11 |  |
+| [Hope And Love](https://open.spotify.com/track/3iMOGERyDXvAwtw2alVSW4) | [Hudson Hull](https://open.spotify.com/artist/5nAHYyaImYxFBWBConOC5o) | [Hope And Love](https://open.spotify.com/album/3ItHo9jqG5hpQc0ioaM984) | 0:29 | 2021-11-11 |  |
 | [Hubert, the magic dog](https://open.spotify.com/track/2RXhj0DBi1UacZzk8fEn0h) | [Merv Royston](https://open.spotify.com/artist/2iJqTkHIrNCNYh4UjPMvQt) | [Hubert, the magic dog](https://open.spotify.com/album/4AXL1t0zCrdN7Q6s8TPtzT) | 1:24 | 2021-11-11 |  |
 | [Hush Little Baby](https://open.spotify.com/track/41gbj1zPSDVpYTV7xhM1Ki) | [Lina Rin](https://open.spotify.com/artist/4dMkHlQs3eMRKUoCWq7iCd) | [Hush Little Baby](https://open.spotify.com/album/5os2qnAgKy6PkLqFXTKW6t) | 1:55 | 2021-11-11 | 2022-02-11 |
 | [Hush My Little Angel](https://open.spotify.com/track/7LTCWsNXdsc0dtAQ570WLn) | [Elliot Adasik](https://open.spotify.com/artist/0ygQ1CuZpZqv6dsdnIl3wL) | [You Are My Sunshine](https://open.spotify.com/album/0nKXkJyhxjkkCspsLGHyz5) | 2:17 | 2021-11-11 | 2022-06-11 |
@@ -138,14 +138,14 @@
 | [To a Child](https://open.spotify.com/track/4nqglfsBJV9vUKEDc35UBc) | [Ester Duncan](https://open.spotify.com/artist/3RWd3Uey3oS6wYZOLydd8B) | [Two Rosy Cheeks](https://open.spotify.com/album/6xYOdqYLLdGumrsoSKyhVU) | 1:37 | 2021-11-11 |  |
 | [Tom's Little House](https://open.spotify.com/track/6dbCgZcfcdleCGXz1rzyz0) | [Rudyard Brinley](https://open.spotify.com/artist/6a2UqNxvxt2KjAcRjwcsnn) | [Dinosaur Bob](https://open.spotify.com/album/0JwNu9RVqfxNi1Re491kT7) | 1:15 | 2021-11-11 |  |
 | [Tommy the night chaser](https://open.spotify.com/track/2abCBj9MO2sLRbU6VMe8XH) | [Paden Small](https://open.spotify.com/artist/72Ja8KG7J3p0Hs7xDV43bC) | [Tommy the night chaser](https://open.spotify.com/album/42vm1mHFdkzuiN4qqAaIT0) | 2:01 | 2021-11-11 |  |
-| [Tuck You In \- Harp Version](https://open.spotify.com/track/5yvEPMUxyBEblRTmKDkX5W) | [Veronica Lindlom](https://open.spotify.com/artist/6MG7YNj5RIqSYJVDQP7YfZ) | [Tuck You In \(Harp Version\)](https://open.spotify.com/album/7k3DZ57Nyz1TvXC3Fx6lpo) | 1:30 | 2021-11-11 |  |
+| [Tuck You In \- Harp Version](https://open.spotify.com/track/5yvEPMUxyBEblRTmKDkX5W) | [Veronica Lindlom](https://open.spotify.com/artist/6MG7YNj5RIqSYJVDQP7YfZ) | [Tuck You In \(Harp Version\)](https://open.spotify.com/album/7k3DZ57Nyz1TvXC3Fx6lpo) | 0:29 | 2021-11-11 |  |
 | [Twinkle Twinkle Little Star \- Harp Version](https://open.spotify.com/track/1eIrhzQamO84Evim5tWd3c) | [Twinkle Twinkle Little Star](https://open.spotify.com/artist/0ZsOdbAgZ60UYsgKCUzJKY) | [Twinkle Twinkle Little Star](https://open.spotify.com/album/0QEK7bXogkZtjtpnKRh4u1) | 1:45 | 2021-11-11 | 2022-01-22 |
 | [Up Among the Clouds](https://open.spotify.com/track/1Ey7xPK8P00PuX11RQsYTZ) | [Kimmy Doyle](https://open.spotify.com/artist/7Bwg02Tn6RFiJnp83X1FSx) | [Up Among the Clouds](https://open.spotify.com/album/3m1rXsAzAyXiFAnpoLAvj1) | 1:53 | 2021-11-11 | 2022-02-11 |
 | [Wacky hair day](https://open.spotify.com/track/7m8f8zywfYjwG5WH68F103) | [Gabriela McGill](https://open.spotify.com/artist/5aK74Ph5sZ8w1VSLGF2tfC) | [Wacky hair day](https://open.spotify.com/album/2As9i3ANsMLFJCGxjs8u1s) | 1:54 | 2021-11-11 |  |
 | [Walking in a dream](https://open.spotify.com/track/4eRvFJvJFbQKsUz02o8Mbh) | [Paden Small](https://open.spotify.com/artist/72Ja8KG7J3p0Hs7xDV43bC) | [Walking in a dream](https://open.spotify.com/album/2m5gj3Ho8i2q1n6PEWL8xL) | 1:43 | 2021-11-11 |  |
 | [Wenn Du Einschläfst](https://open.spotify.com/track/2EtEyjAlPvu6Dl8CvlwTkB) | [Frieda Ross](https://open.spotify.com/artist/4FRt5PBGXsp49kDLecV7CI) | [Das Zahnputzlied](https://open.spotify.com/album/4uW3B5iSpvK17bN7oLN0Nv) | 1:27 | 2022-06-10 |  |
 | [When I Close My Eyes](https://open.spotify.com/track/7luR1726Cf9Wgt4Q3yljOF) | [Dodie Little](https://open.spotify.com/artist/6sE8hcdC14rNNo1NXuQ8sy) | [My Best Friend Bob](https://open.spotify.com/album/0omMrAr8zSXzokTTBqyM4Q) | 1:33 | 2021-11-11 |  |
-| [When You're Close](https://open.spotify.com/track/1dKbvhGqWVJA57xL2mHeg2) | [Amilia Weldon](https://open.spotify.com/artist/1514uPuTa2Z6370suTHi8O) | [When You're Close](https://open.spotify.com/album/5RmuqdBHiNMVckkLWS2tpP) | 2:02 | 2021-11-11 |  |
+| [When You're Close](https://open.spotify.com/track/1dKbvhGqWVJA57xL2mHeg2) | [Amilia Weldon](https://open.spotify.com/artist/1514uPuTa2Z6370suTHi8O) | [When You're Close](https://open.spotify.com/album/5RmuqdBHiNMVckkLWS2tpP) | 0:29 | 2021-11-11 |  |
 | [White Pyjamas](https://open.spotify.com/track/2dsE2HXXX88x38idJQ6Nhh) | [Tyler Abney](https://open.spotify.com/artist/4eMNLIDXtUKtztNhEVr8tY) | [White Pyjamas](https://open.spotify.com/album/7E1S7PPtG3jSPfOkV92QZL) | 1:31 | 2021-11-11 |  |
 | [With You By My Side](https://open.spotify.com/track/6UFjCV3KcMHjq4J96IVXrL) | [Brook Wilkie](https://open.spotify.com/artist/06YJLPH6EiVH60sOmPBszs) | [With You By My Side](https://open.spotify.com/album/4JTWjznbMaz9ALtqE4LLAw) | 1:48 | 2022-04-26 |  |
 | [Your Dreams](https://open.spotify.com/track/0FKZ7aqBOZT6ZW8cP1fnaC) | [Byrne Freeman](https://open.spotify.com/artist/09NXPHIx4m5wvbplZ11jvF) | [Your Dreams](https://open.spotify.com/album/1wcNjc21IasZBk76lYt5NZ) | 1:23 | 2021-11-11 |  |

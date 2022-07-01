@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgPVq1ydgmS.md) - [plain]
 
 > 'Tis the season to be melancholy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,251 likes - 28 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,250 likes - 28 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgPVq1ydgmS.md) - [plain]
 | 24 | [A Long December](https://open.spotify.com/track/5V8518q2DbhoGDlI3qW1Be) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [Films About Ghosts \(The Best Of Counting Crows\)](https://open.spotify.com/album/7FJlveNFRrWYiD6xWGPHSb) | 4:57 |
 | 25 | [Blue Christmas](https://open.spotify.com/track/0QUxMKYur7kAtauLnmyBCc) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 3:41 |
 | 26 | [Just A Lonely Christmas](https://open.spotify.com/track/7Jw1oHkY6CnA25C9we9rXY) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [A Classic Motown Christmas](https://open.spotify.com/album/0laHjSQdV1SL7bGFHkhvtd) | 2:25 |
-| 27 | [Same Old Lang Syne](https://open.spotify.com/track/4Vl4sf0EljY8GxAyjqJD6p) | [Dan Fogelberg](https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO) | [Portrait: The Music Of Dan Fogelberg From 1972\-1997](https://open.spotify.com/album/3xzrUc5WHC8dv9UmiUWxH1) | 5:20 |
+| 27 | [Same Old Lang Syne](https://open.spotify.com/track/4Vl4sf0EljY8GxAyjqJD6p) | [Dan Fogelberg](https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO) | [Portrait: The Music Of Dan Fogelberg From 1972\-1997](https://open.spotify.com/album/3xzrUc5WHC8dv9UmiUWxH1) | 0:29 |
 | 28 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/3PIDciSFdrQxSQSihim3hN) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 2:33 |
 
 Snapshot ID: `MTU2NzY3NjIyMywwMDAwMDAwNzAwMDAwMTY2YTM1NTRmNDcwMDAwMDE2ZDAwYzhkMWNm`

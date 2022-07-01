@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1W2XJETQjFYdzT4GuhBHmS.md) - [plain]
 
 > This playlist is perfect for when you've got a fever..\. and the only prescription is more banjo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 334 likes - 37 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 334 likes - 37 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/1W2XJETQjFYdzT4GuhBHmS.md) - [plain]
 | 26 | [Polka on the Banjo](https://open.spotify.com/track/5qXi0qY4FgYFBtOTFBbzJl) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU) | [The Bluegrass Sessions: Tales From The Acoustic Planet, Vol\. 2](https://open.spotify.com/album/34rQGJXHlECil6fZUIHm7q) | 4:04 |
 | 27 | [Jolene](https://open.spotify.com/track/4uPy7xWRobevPQeRrEGlc0) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Very Best Of](https://open.spotify.com/album/4tiugeQTnIJLzDHkWHYs7d) | 2:41 |
 | 28 | [Ebb & Flow](https://open.spotify.com/track/4zC2HgUsuIxn2OS8e9PUVy) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Salt For Salt](https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC) | 2:25 |
-| 29 | [Fall On My Knees](https://open.spotify.com/track/3KfbOr4e59w9vxmoIH23On) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Down Home Girl \- EP](https://open.spotify.com/album/7viKmi3CRdgPBUKaUi6MXh) | 2:14 |
+| 29 | [Fall On My Knees](https://open.spotify.com/track/3KfbOr4e59w9vxmoIH23On) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Down Home Girl \- EP](https://open.spotify.com/album/7viKmi3CRdgPBUKaUi6MXh) | 0:29 |
 | 30 | [Agape](https://open.spotify.com/track/6nLzJ8T2TP4vf7Bfm3Kcd2) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Agape](https://open.spotify.com/album/7bt5WFvrdPNZTSnzHgAAt8) | 4:29 |
 | 31 | [Devil's Spoke](https://open.spotify.com/track/4juAgY220gZ7YZ2ECX49tW) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [I Speak Because I Can](https://open.spotify.com/album/2OBWLdVGBOOHSV6LCyzfdQ) | 3:38 |
 | 32 | [Hit 'Em up Style](https://open.spotify.com/track/4YHbtlzMsnXTTcUqRsQv5D) | [Carolina Chocolate Drops](https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz) | [Genuine Negro Jig](https://open.spotify.com/album/1rBoQHXoY63bjxipolXzsh) | 3:56 |

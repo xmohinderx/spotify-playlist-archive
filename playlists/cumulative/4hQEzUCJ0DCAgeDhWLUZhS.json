@@ -1918,7 +1918,7 @@
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 169141,
+      "duration_ms": 29048,
       "name": "Good Times Bad Times",
       "url": "https://open.spotify.com/track/2Y9vBlthOtlpUkafR9jRAE"
     },
@@ -4670,7 +4670,7 @@
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 195506,
+      "duration_ms": 29048,
       "name": "The Garden of Eden",
       "url": "https://open.spotify.com/track/2iDnZkKM40F9u9b44Y6Zc7"
     },
@@ -5527,6 +5527,24 @@
       "duration_ms": 236656,
       "name": "Worship",
       "url": "https://open.spotify.com/track/5R0L4WPC4QTrd1Z87tWoa1"
+    },
+    {
+      "album": {
+        "name": "Yeah, I Like You",
+        "url": "https://open.spotify.com/album/0vlDeWXsRPN0GZkdIoykfT"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264466,
+      "name": "Yeah, I Like You",
+      "url": "https://open.spotify.com/track/6kNOYOpdMy0w67fC4XPc0q"
     },
     {
       "album": {

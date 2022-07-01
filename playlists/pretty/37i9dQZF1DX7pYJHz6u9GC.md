@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pYJHz6u9GC.md) - [plain]
 
 > Enjoy the sweet Christmas time in the company of the biggest crooners\. Cover: Nat King Cole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,514 likes - 68 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,511 likes - 68 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pYJHz6u9GC.md) - [plain]
 | 32 | [White Christmas](https://open.spotify.com/track/14QJl6TD0xnKl26NkTVez2) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 2:38 |
 | 33 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/4KAfVuQdg7flnw3on7XSDi) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Songs Of December \(International Version\)](https://open.spotify.com/album/01eDOeiRUkDDujmGQtWBQL) | 4:25 |
 | 34 | [Christmasland](https://open.spotify.com/track/4uem1XCcsG4rCk4wl2Why7) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Snowfall \- The Tony Bennett Christmas Album](https://open.spotify.com/album/2sw2JVdzZ4lcn2cxh3Nxdc) | 2:23 |
-| 35 | [Christmas Song \(Chestnuts Roasting\)](https://open.spotify.com/track/1W2ubWPoj734ZnvX48fZIk) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Standards \(Deluxe\)](https://open.spotify.com/album/0z4qw7aZuMr5FORtxjg922) | 3:37 |
+| 35 | [Christmas Song \(Chestnuts Roasting\)](https://open.spotify.com/track/1W2ubWPoj734ZnvX48fZIk) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Standards \(Deluxe\)](https://open.spotify.com/album/0z4qw7aZuMr5FORtxjg922) | 0:29 |
 | 36 | [Cold December Night](https://open.spotify.com/track/23EvkivHtoFgkSK5pckvwq) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 3:18 |
 | 37 | [Merry Xmas Everybody \(feat\. Jamie Cullum\)](https://open.spotify.com/track/6gPjEHwchHOVoBFHxomCfR) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Merry Xmas Everybody \(feat\. Jamie Cullum\)](https://open.spotify.com/album/5388FRYDge6ZcLJD3dw4FM) | 3:33 |
 | 38 | [Sleigh Ride](https://open.spotify.com/track/5CaBRn7C7jttA1wWd8eBaH) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/0mQlLrX1hQYH1Pi9h6Y4nb) | 2:54 |

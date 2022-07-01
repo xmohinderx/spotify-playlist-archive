@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni da gridare e in copertina c'\u00e8 chiello \ud83d\udda4",
+  "description": "canzoni da gridare ed \u00e8 iniziata anche questa summersad \u2764\ufe0f\u200d\ud83e\ude79\ud83c\udf26",
   "name": "sanguegiovane",
   "published_playlist_ids": [
     "2BZ03rNM0vrjFSXCBigadZ"
@@ -117,6 +117,32 @@
       "duration_ms": 139562,
       "name": "24/7",
       "url": "https://open.spotify.com/track/032zxhpUSSgQMrHiplLHlY"
+    },
+    {
+      "album": {
+        "name": "5 Weekend",
+        "url": "https://open.spotify.com/album/2eUEDPYfKfvM89I4BcEmlZ"
+      },
+      "artists": [
+        {
+          "name": "Yans",
+          "url": "https://open.spotify.com/artist/0JMlv0THvYWc44fizfiVCX"
+        },
+        {
+          "name": "Fulgur",
+          "url": "https://open.spotify.com/artist/3AgppFtvLifix2HTKhGDiC"
+        },
+        {
+          "name": "Kunai",
+          "url": "https://open.spotify.com/artist/1meu0gJt7jU6ltCO5eYz1J"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154682,
+      "name": "5 Weekend",
+      "url": "https://open.spotify.com/track/708WzykUcMyN06gEP4TngG"
     },
     {
       "album": {
@@ -368,7 +394,7 @@
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 174549,
+      "duration_ms": 29048,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T"
     },
@@ -408,7 +434,7 @@
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 149605,
+      "duration_ms": 29048,
       "name": "BABY GODDAMN",
       "url": "https://open.spotify.com/track/3yWHQ4n4ARLDfYTuT2NhnN"
     },
@@ -602,7 +628,7 @@
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 157442,
+      "duration_ms": 29048,
       "name": "Che pace // Che palle",
       "url": "https://open.spotify.com/track/2Z4jER1WEKoy0tcmJCVb0X"
     },
@@ -751,6 +777,24 @@
       "duration_ms": 152786,
       "name": "don't come back",
       "url": "https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq"
+    },
+    {
+      "album": {
+        "name": "Don't Feel Like Feeling Sad Today",
+        "url": "https://open.spotify.com/album/2xI6WQRXM36V5B7PSzghFW"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116483,
+      "name": "Don't Feel Like Feeling Sad Today",
+      "url": "https://open.spotify.com/track/3EzNhsh3hCy559XDI44f4g"
     },
     {
       "album": {
@@ -1127,7 +1171,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 140921,
       "name": "Girls",
       "url": "https://open.spotify.com/track/1IbwVEskI2zH0dM4pnmWfU"
@@ -1297,7 +1341,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 175029,
       "name": "i h8 that i still feel bad for u",
       "url": "https://open.spotify.com/track/5HydZtPFOvbmqXiTcTFykW"
@@ -1337,6 +1381,24 @@
       "duration_ms": 134076,
       "name": "I Suicidi",
       "url": "https://open.spotify.com/track/1i33z5GAlMFoWqc1nIgiVV"
+    },
+    {
+      "album": {
+        "name": "i\u2019m too pretty for this",
+        "url": "https://open.spotify.com/album/50hj2kKggCkXqSIX2c1rxF"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166037,
+      "name": "i'm too pretty for this",
+      "url": "https://open.spotify.com/track/4shULiz3P7luscRsQobtDN"
     },
     {
       "album": {
@@ -1559,7 +1621,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 134498,
       "name": "Live Fast Die Numb",
       "url": "https://open.spotify.com/track/10omO03JNpJwhjo538gdNc"
@@ -1713,7 +1775,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 178290,
       "name": "Maledetti Ricordi",
       "url": "https://open.spotify.com/track/5WBW0To4RydXpvMxUMGoLb"
@@ -1731,7 +1793,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 191052,
       "name": "MARE",
       "url": "https://open.spotify.com/track/0yhryPsrbTLvFgrZuImvvo"
@@ -2160,6 +2222,28 @@
     },
     {
       "album": {
+        "name": "RESPIRA",
+        "url": "https://open.spotify.com/album/4oLtZPBDcpeJkzobTwkaS4"
+      },
+      "artists": [
+        {
+          "name": "Samurai Jay",
+          "url": "https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH"
+        },
+        {
+          "name": "DANI",
+          "url": "https://open.spotify.com/artist/0AKaGOjJkxnPFYwdK252sp"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Ora d'aria",
+      "url": "https://open.spotify.com/track/5gbmz8TkFwcuTsHPbXq7F3"
+    },
+    {
+      "album": {
         "name": "papercuts",
         "url": "https://open.spotify.com/album/0VRQaT37pbnZC6E7pkX0aQ"
       },
@@ -2219,6 +2303,24 @@
       "duration_ms": 153978,
       "name": "party",
       "url": "https://open.spotify.com/track/0hX5PHXFZUlgDdo3275riV"
+    },
+    {
+      "album": {
+        "name": "PASTA",
+        "url": "https://open.spotify.com/album/6lF2HCEX19Y13ki6n3DnZ2"
+      },
+      "artists": [
+        {
+          "name": "Tananai",
+          "url": "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129142,
+      "name": "PASTA",
+      "url": "https://open.spotify.com/track/5s7DyFhIKaE6ZLpjbZ1VNL"
     },
     {
       "album": {
@@ -2986,6 +3088,32 @@
     },
     {
       "album": {
+        "name": "SUMMERSAD 3",
+        "url": "https://open.spotify.com/album/7Fzw18wH8fL3ehoyukQRKt"
+      },
+      "artists": [
+        {
+          "name": "The\u00f8",
+          "url": "https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd"
+        },
+        {
+          "name": "Plant",
+          "url": "https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ"
+        },
+        {
+          "name": "Fiks",
+          "url": "https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171563,
+      "name": "SUMMERSAD 3",
+      "url": "https://open.spotify.com/track/2sVK7UjS87H83ryrVq8vbY"
+    },
+    {
+      "album": {
         "name": "lately I feel EVERYTHING",
         "url": "https://open.spotify.com/album/1dg0gmrCaEbENVXpPIvi1m"
       },
@@ -3019,7 +3147,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 157407,
       "name": "Te tra le cose",
       "url": "https://open.spotify.com/track/0m22YZOycFxIQ3iXHGrqJT"
@@ -3197,7 +3325,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 178787,
       "name": "ur just horny",
       "url": "https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y"
@@ -3357,6 +3485,24 @@
       "duration_ms": 166948,
       "name": "what would you do?",
       "url": "https://open.spotify.com/track/3I1Smy5zhzNEc9grpjwY1s"
+    },
+    {
+      "album": {
+        "name": "you make me miserable",
+        "url": "https://open.spotify.com/album/1AQmAHENyNC8wcz5qXwxsY"
+      },
+      "artists": [
+        {
+          "name": "Karin Ann",
+          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "you make me miserable",
+      "url": "https://open.spotify.com/track/77mZIYNx234Fytm9V9FzUB"
     },
     {
       "album": {

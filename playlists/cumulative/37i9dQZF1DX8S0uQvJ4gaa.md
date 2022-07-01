@@ -4,7 +4,7 @@
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Sam Hunt
 
-1,393 songs - 3 day 3 hr 34 min - [published](https://open.spotify.com/playlist/4GYziq6IZSItn9f84k0CzJ)
+1,393 songs - 3 day 3 hr 26 min - [published](https://open.spotify.com/playlist/4GYziq6IZSItn9f84k0CzJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Best Nights](https://open.spotify.com/track/7oAMGOyGXdahE5vrAuVjS6) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Best Nights](https://open.spotify.com/album/3Oy1vUc8yMCz75OG02PeG8) | 3:28 | 2020-10-04 | 2020-11-21 |
 | [Best That I Got](https://open.spotify.com/track/4Arpibp4wWValYXjb8uLl5) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Workin' Hard](https://open.spotify.com/album/2ARVKbtKHn7ccMDn4oFQKs) | 3:18 | 2019-11-09 | 2019-11-18 |
 | [Best Thing Since Backroads](https://open.spotify.com/track/0R1REdJZIDy7IS3DybdBce) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Best Thing Since Backroads](https://open.spotify.com/album/0V5GJsZdw3zXfrz2oKUhue) | 3:07 | 2021-08-07 | 2021-09-25 |
-| [Best Worst Ex](https://open.spotify.com/track/3fRdUaeiNkAU3tpGhLS4Ma) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene), [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Best Worst Ex](https://open.spotify.com/album/21jYnUmAjAhjROZDzMV6lL) | 2:44 | 2022-03-25 |  |
+| [Best Worst Ex](https://open.spotify.com/track/3fRdUaeiNkAU3tpGhLS4Ma) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene), [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Best Worst Ex](https://open.spotify.com/album/21jYnUmAjAhjROZDzMV6lL) | 0:29 | 2022-03-25 |  |
 | [Better In A Car](https://open.spotify.com/track/0jf7mfajOp2Ilgvg7IdfC6) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Better In A Car](https://open.spotify.com/album/5VY7MlO6bxG8jwzgfJYdSg) | 3:14 | 2021-11-06 | 2022-03-12 |
 | [Better Luck Next Time](https://open.spotify.com/track/7vejWqYK7NFsxbxQsAjTrC) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Better Luck Next Time](https://open.spotify.com/album/7LmEKG3k6DaJXsKa89qBo6) | 2:52 | 2019-06-15 | 2019-06-30 |
 | [Better Man \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/1gWRnZ52AK1ZUvpjjTteKf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0) | 4:57 | 2021-11-13 | 2022-01-29 |
@@ -548,7 +548,7 @@
 | [Holding Out for the One](https://open.spotify.com/track/7IN4uBTZZK2KJ4tjBL44xU) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Road to the Lemonade Stand \- EP](https://open.spotify.com/album/3BmVXY7sEPUYMaGfPCAO6M) | 3:15 | 2020-02-08 | 2020-03-22 |
 | [hole in the bottle](https://open.spotify.com/track/2EzFVkHWMMWmdwW08AlCK8) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [hole in the bottle](https://open.spotify.com/album/766fmnPgzM6A13LSSbqioL) | 2:35 | 2020-03-02 | 2020-08-01 |
 | [Holy Water](https://open.spotify.com/track/0iXqDv92jTifES3rxAYDNc) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Holy Water](https://open.spotify.com/album/2IqSupOGT9SFUaxv7oQUMn) | 2:45 | 2021-12-24 | 2022-01-15 |
-| [Holy Water](https://open.spotify.com/track/3ZwNFFKEXCise2TMXFsyqT) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Higher Education](https://open.spotify.com/album/5bELdsFWcbaW2fhAVf8TyL) | 3:29 | 2022-03-11 |  |
+| [Holy Water](https://open.spotify.com/track/3ZwNFFKEXCise2TMXFsyqT) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Higher Education](https://open.spotify.com/album/5bELdsFWcbaW2fhAVf8TyL) | 0:29 | 2022-03-11 |  |
 | [Home in a Hometown](https://open.spotify.com/track/7GsLJNKbACgWZN3O3MK527) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Everywhere But On \- EP](https://open.spotify.com/album/4kiEDisGjY9oGgYbg6AAG6) | 3:02 | 2019-06-02 | 2019-08-13 |
 | [Home Run](https://open.spotify.com/track/3WcQxf3f924vU8Ae6GNJ16) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Home Run](https://open.spotify.com/album/4KSAZOxCLBNZeI4Fw9a9nk) | 3:05 | 2021-04-30 | 2021-09-25 |
 | [Home Sweet](https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Home Sweet](https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8) | 3:25 | 2020-06-29 | 2021-07-04 |
@@ -1311,7 +1311,7 @@
 | [When You Don't](https://open.spotify.com/track/7EXcUNcsRgWUPvujp1uDI3) | [Chris Ruediger](https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7) | [When You Don't](https://open.spotify.com/album/3mArQu301uZWkNwfGJ51sE) | 3:33 | 2021-12-31 | 2022-04-29 |
 | [When You Need It \(feat\. Wrabel\)](https://open.spotify.com/track/6be7birJOF85i9dL0wUrBg) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:08 | 2022-04-22 |  |
 | [When's It Gonna Happen](https://open.spotify.com/track/0h0PVL7SoC7l4sJ5AYQZX5) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [When's It Gonna Happen](https://open.spotify.com/album/7nQ3jAmRGhlHQOB66gWtad) | 3:37 | 2022-01-14 | 2022-04-23 |
-| [Where Did All The Cowboys Go](https://open.spotify.com/track/2P5yyV1EA4CCqRhjXKro5p) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Be That Girl](https://open.spotify.com/album/7inCR1hQvn6iWSEbDsAXvR) | 3:15 | 2022-06-17 |  |
+| [Where Did All The Cowboys Go](https://open.spotify.com/track/2P5yyV1EA4CCqRhjXKro5p) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Be That Girl](https://open.spotify.com/album/7inCR1hQvn6iWSEbDsAXvR) | 0:29 | 2022-06-17 |  |
 | [Where Did We Go?](https://open.spotify.com/track/6SSRCtm4TGw2AZyl8LGhsO) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Where Did We Go?](https://open.spotify.com/album/1oM7SEjpzN7ZvOIcfRvlLs) | 2:46 | 2022-04-22 |  |
 | [Where Have You Gone](https://open.spotify.com/track/1BdqRVyZeZrCWnbR5zsUz5) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Where Have You Gone](https://open.spotify.com/album/2VK5OGhlI6yJUSvQ1VMb6J) | 4:46 | 2021-05-15 | 2021-06-02 |
 | [Where I Find God](https://open.spotify.com/track/6eQePEKwbt1y9CkCE6faYi) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Where I Find God](https://open.spotify.com/album/26pbiUILSs4FA7boHlB3QY) | 4:09 | 2021-05-15 | 2021-08-28 |

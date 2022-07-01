@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 
 > Pacific Northwest music breaking waves\. Cover, Umi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,319 likes - 49 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,322 likes - 49 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 | 21 | [La Pearla](https://open.spotify.com/track/0luJ1Nj0MJDnL1cbHqsf04) | [Blakk Soul](https://open.spotify.com/artist/0gZgdRddDWYxFHUf1BX89S) | [Make It Count](https://open.spotify.com/album/4XTJ6YXIIlOUa91w4hyhCS) | 3:03 |
 | 22 | [Wild Side](https://open.spotify.com/track/3jIAKgAvTdL5wT2mDhWcn0) | [Brae Leni](https://open.spotify.com/artist/5Fnkl0fp52gDxgaBRCB55I), [Bosko](https://open.spotify.com/artist/35vghfijSgjpXlOMDjpLWc) | [Wild Side](https://open.spotify.com/album/5LQQvVS1iw8jbmJ5vdvXTH) | 2:56 |
 | 23 | [My Dignity](https://open.spotify.com/track/6Ovo6QlLJDrpVYBFQbYFMy) | [Oya Storms](https://open.spotify.com/artist/1AuDZMv7EZSEvRFdtgq3Va) | [My Dignity](https://open.spotify.com/album/6K9MzcTMz0XdRVasKVBQur) | 3:21 |
-| 24 | [NINETY THREE](https://open.spotify.com/track/2Zu9OdTLET13gLeuggdJtL) | [Taylar Elizza Beth](https://open.spotify.com/artist/0XE4mkNAnSI2molchwNfGQ), [WD4D](https://open.spotify.com/artist/53QqYQtqceXhifEin57aM3) | [NINETY THREE](https://open.spotify.com/album/0YtHZWV4FiEUYC1nZxPH9H) | 2:56 |
+| 24 | [NINETY THREE](https://open.spotify.com/track/2Zu9OdTLET13gLeuggdJtL) | [Taylar Elizza Beth](https://open.spotify.com/artist/0XE4mkNAnSI2molchwNfGQ), [WD4D](https://open.spotify.com/artist/53QqYQtqceXhifEin57aM3) | [NINETY THREE](https://open.spotify.com/album/0YtHZWV4FiEUYC1nZxPH9H) | 0:29 |
 | 25 | [BIG THANK](https://open.spotify.com/track/0WarJpfJGeoexkAelzadhK) | [King Youngblood](https://open.spotify.com/artist/0rkFwrt6d0qf3UTpaURtTj) | [BIG THANK](https://open.spotify.com/album/5PsbeknxNoqcHu6HzEVivh) | 3:18 |
 | 26 | [Lex Luthor](https://open.spotify.com/track/6GuTQfGWR5Og4w8FjA66SO) | [TeZATalks](https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W) | [Lex Luthor](https://open.spotify.com/album/7hSpsjqZQgMGQPaMF7glDl) | 2:26 |
 | 27 | [\(m\)alice](https://open.spotify.com/track/2vUHiWmQ3Ce1PsrgRKAKSN) | [Seiji](https://open.spotify.com/artist/7h8BjWoH0TC1Zf2HwAmdEe) | [\(m\)alice](https://open.spotify.com/album/4toJ2ky4ITmvV5XXHrPwiv) | 2:55 |

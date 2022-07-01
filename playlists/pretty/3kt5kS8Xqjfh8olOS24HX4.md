@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kt5kS8Xqjfh8olOS24HX4.md) - [plain]
 
 > Get your sparklers out for this patriotic blend of folk, pop, and Americana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57 likes - 35 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 57 likes - 35 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,13 +23,13 @@ pretty - [cumulative](/playlists/cumulative/3kt5kS8Xqjfh8olOS24HX4.md) - [plain]
 | 13 | [Red White And Blue \- Live At Freedom Hall](https://open.spotify.com/track/5NmTELHdQXnkacCBBc7Bwm) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Live From Freedom Hall](https://open.spotify.com/album/5KRzGXt8abnjU7cIBNJTgs) | 5:39 |
 | 14 | [Most In The Summertime](https://open.spotify.com/track/17e6eQZnVQBwxb1Si76Qia) | [Rhett Miller](https://open.spotify.com/artist/0wNZd1CMOsFZ0TiBhlqjD5), [Black Prairie](https://open.spotify.com/artist/4PretOrtWokXIsit7OIdE6) | [The Traveler](https://open.spotify.com/album/2Xeip0bVZmM1Sl3Kpzmqmn) | 4:43 |
 | 15 | [Ragged Old Flag](https://open.spotify.com/track/42JBWGJDZT7RAH7sLPKkcs) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Essential Johnny Cash](https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF) | 3:08 |
-| 16 | [Dream in Blue](https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [The Stray Birds](https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t) | 3:32 |
+| 16 | [Dream in Blue](https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [The Stray Birds](https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t) | 0:29 |
 | 17 | [Memphis](https://open.spotify.com/track/4xudlsuRtMniLiIo8Niz21) | [Owen Beverly](https://open.spotify.com/artist/7IZjS3UFzJXELrFHmm1KY7) | [Amager](https://open.spotify.com/album/3aII2t6pfNhJ22sEjv3BH2) | 3:34 |
 | 18 | [When The Stars Go Blue](https://open.spotify.com/track/0nOe9N3bENgpIGpRecUVnZ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/7rIwXFX7SXc8FVBMUnRIvJ) | 3:31 |
-| 19 | [4th Of July](https://open.spotify.com/track/75bBN2iQbyuxQMlnC0LgDA) | [Azure Ray](https://open.spotify.com/artist/70UZ254VvtSUmrfqPOkUQZ) | [Azure Ray](https://open.spotify.com/album/6e0ra7uS8RYB8yGXfgHCLV) | 4:13 |
+| 19 | [4th Of July](https://open.spotify.com/track/75bBN2iQbyuxQMlnC0LgDA) | [Azure Ray](https://open.spotify.com/artist/70UZ254VvtSUmrfqPOkUQZ) | [Azure Ray](https://open.spotify.com/album/6e0ra7uS8RYB8yGXfgHCLV) | 0:29 |
 | 20 | [Living in the Promiseland \- Studio Version](https://open.spotify.com/track/3Gr7HzuSFixGO9yu3JPV95) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Joe Cocker Live](https://open.spotify.com/album/6CpOgaWKkuIXrV3gqJmKMz) | 3:55 |
 | 21 | [The Times They Are A\-Changin'](https://open.spotify.com/track/3y3jZ5cjDCshuqUFugYzDb) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Freedom: Songs From The Heart Of America](https://open.spotify.com/album/5xutwZfWQvM7cMUkr89ZQP) | 3:11 |
-| 22 | [4th of July, Asbury Park \(Sandy\)](https://open.spotify.com/track/1gBGk4yWvTFbMykg8tYFPu) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Essential Bruce Springsteen](https://open.spotify.com/album/56JtQFrVKdKT70rkKligWx) | 5:34 |
+| 22 | [4th of July, Asbury Park \(Sandy\)](https://open.spotify.com/track/1gBGk4yWvTFbMykg8tYFPu) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Essential Bruce Springsteen](https://open.spotify.com/album/56JtQFrVKdKT70rkKligWx) | 0:29 |
 | 23 | [All\-American Girl](https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 3:32 |
 | 24 | [4th Of July](https://open.spotify.com/track/2Q7RfKKC6kqTZIWqauOiAO) | [Amy Macdonald](https://open.spotify.com/artist/1hJuGCUpefX24GFmss9bjH) | [Life In A Beautiful Light](https://open.spotify.com/album/4BiyiLfkSO75Rk5mFP9Cmj) | 3:48 |
 | 25 | [Independence Day](https://open.spotify.com/track/2jOkuPweyFcDBBBF8ZW8Zr) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Greatest Hits](https://open.spotify.com/album/467Cag6qid9mjW2hpnIcFi) | 3:26 |

@@ -4,7 +4,7 @@
 
 > Mellow out with this dub music.
 
-52 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/5rPWWmddDxoO2FirCSHDOY)
+52 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/5rPWWmddDxoO2FirCSHDOY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Black Roses](https://open.spotify.com/track/58hdQ6kllWBvhUmBxOtz3H) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Original Ragga Muffin, Pt\. 1](https://open.spotify.com/album/2jLNKZ0HQJ4OJOprvVkDvV) | 3:07 | 2020-06-16 |  |
 | [Blood Money](https://open.spotify.com/track/7EGPjajqOZC7XvV7UgR8pW) | [10 Ft\. Ganja Plant](https://open.spotify.com/artist/0lsuCH8qG9UM8BihdL1Vsc) | [Bass Chalice](https://open.spotify.com/album/7kbd0wisKvRa3FSMkPItKw) | 3:56 | 2020-06-16 |  |
 | [Brothers and Sisters](https://open.spotify.com/track/2OLssDLdq7vwHOlhRe53Zy) | [Butch Cassidy Sound System](https://open.spotify.com/artist/5G63bkLymqmiaIkrUZExGG) | [Butches Brew](https://open.spotify.com/album/772bVEvhc7IUfBZALChmh6) | 4:35 | 2022-03-09 |  |
-| [Burru Saturday](https://open.spotify.com/track/3lyehLFWwaQgRl8Hbjc3Ux) | [Sly](https://open.spotify.com/artist/7mh5yWKyUcN4xYhEJsWcxI), [Robbie](https://open.spotify.com/artist/52f9xu2VBr99vFO7bzxiLP) | [Blackwood Dub](https://open.spotify.com/album/09DhBkExGYrp5TH8EMWSiD) | 4:05 | 2020-06-16 |  |
+| [Burru Saturday](https://open.spotify.com/track/3lyehLFWwaQgRl8Hbjc3Ux) | [Sly](https://open.spotify.com/artist/7mh5yWKyUcN4xYhEJsWcxI), [Robbie](https://open.spotify.com/artist/52f9xu2VBr99vFO7bzxiLP) | [Blackwood Dub](https://open.spotify.com/album/09DhBkExGYrp5TH8EMWSiD) | 0:29 | 2020-06-16 |  |
 | [Chanting Down The Wicked](https://open.spotify.com/track/7fbjerF8AlMCF4lCkyEiyG) | [The Robotiks](https://open.spotify.com/artist/6A14AEcZSKVvJ0YaBx1wxW), [Jah Shaka](https://open.spotify.com/artist/3UdoO8DiElu02b95ig57cC) | [Haunted Halloween Dub](https://open.spotify.com/album/6EZaAwvsxhKRoy4AzTWSz5) | 4:14 | 2020-06-16 |  |
 | [Conquering Lion](https://open.spotify.com/track/6eA1fv9WkhSDvWfxpL3lti) | [Yabby You](https://open.spotify.com/artist/2vKNIZgOzsdLs8W40OZ4X8) | [One Love, One Heart](https://open.spotify.com/album/2KWAhjPFelNL9e0QjEX7Og) | 3:21 | 2020-06-16 |  |
 | [Daphne](https://open.spotify.com/track/39LAeYCw8RfxNSDOLDuyzP) | [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Underwater Dub](https://open.spotify.com/album/5i09kveNkDrJEX7boW9ASU) | 3:58 | 2020-06-16 |  |
@@ -41,7 +41,7 @@
 | [Made To Fall In Love](https://open.spotify.com/track/2JKv3r2AUmWjrDFO3unlpq) | [Bitty McLean](https://open.spotify.com/artist/2t3eEaWiT5weaCJIh6aRv2), [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Reggae Gold 2019](https://open.spotify.com/album/5cfZ5mWTwZwyzSSgDeiFN6) | 3:44 | 2021-04-09 |  |
 | [Natty Dread A Weh She Want](https://open.spotify.com/track/6LTTvMt9fQwVc3a6IjS35d) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Natty Dread A Weh She Want](https://open.spotify.com/album/77wn3hpHMjZ8EPg0smijlp) | 3:53 | 2020-06-16 |  |
 | [Negus Negast, Pt\. 2](https://open.spotify.com/track/2SUzyAhKsaIC987kD1Ow1K) | [Rootz Dimensionz](https://open.spotify.com/artist/7oOL5gkoBJBXQV7WOxgkC0) | [Negus Negast, Pt\. 2](https://open.spotify.com/album/0NBJDoj7yR2SvnzDVGB2EG) | 3:42 | 2020-06-16 |  |
-| [On the Dub\-ble](https://open.spotify.com/track/1pWAOjPUV6rrGcmLJaXgPR) | [DJ Krush](https://open.spotify.com/artist/00G1NTDAoU7rBpjG4KoYAM) | [Modern Mantra](https://open.spotify.com/album/4EOMQi0exEn5o6M6uUEj0F) | 2:01 | 2022-03-09 |  |
+| [On the Dub\-ble](https://open.spotify.com/track/1pWAOjPUV6rrGcmLJaXgPR) | [DJ Krush](https://open.spotify.com/artist/00G1NTDAoU7rBpjG4KoYAM) | [Modern Mantra](https://open.spotify.com/album/4EOMQi0exEn5o6M6uUEj0F) | 0:29 | 2022-03-09 |  |
 | [One Step Forward](https://open.spotify.com/track/5Xmplqj77ATmZcVdvhtzoo) | [Max Romeo](https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv), [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [War Ina Babylon](https://open.spotify.com/album/4Bw7hyzk37wBHptu4HglHV) | 5:13 | 2020-06-16 |  |
 | [Original Dub](https://open.spotify.com/track/5mPByd2ppul73z0C5zo1Ug) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [The African Brothers Meet King Tubby In Dub](https://open.spotify.com/album/0TFhySyNe3yuznZBzB1zxc) | 2:24 | 2020-06-16 |  |
 | [Rocker's Almighty Dub](https://open.spotify.com/track/20XxcYoQx7MrAYcHLLn30x) | [The Aggrovators](https://open.spotify.com/artist/2qX63C7rYqUDrY3CD7sbUm) | [Rocker's Almighty Dub](https://open.spotify.com/album/6mRMbxld2opUcbNYtc5pMk) | 3:41 | 2020-06-16 |  |
@@ -52,7 +52,7 @@
 | [Screaming Target](https://open.spotify.com/track/6jxka5AJgy5VReTKJJIAyw) | [Big Youth](https://open.spotify.com/artist/2TdzGitZtbe3Zw3BB4SFEH) | [Screaming Target](https://open.spotify.com/album/7IIPaUPCEYVQiXLP3R6ROW) | 3:39 | 2020-06-16 |  |
 | [So Jah Sey Dub](https://open.spotify.com/track/0T5p5JWseJxbqGr3cILhL4) | [The Aggrovators](https://open.spotify.com/artist/2qX63C7rYqUDrY3CD7sbUm) | [So Jah Sey Dub](https://open.spotify.com/album/6qTqqeTkJfcPWq8vA1gVV2) | 4:20 | 2020-06-16 |  |
 | [Sponji Reggae](https://open.spotify.com/track/6lnl40FdAdAmUZt1mtTOC3) | [Black Uhuru](https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3) | [What Is Life \- An Introduction To Black Uhuru](https://open.spotify.com/album/5RW6q6JEscCOVIN0BiEFKg) | 4:57 | 2020-06-16 |  |
-| [The Bomber](https://open.spotify.com/track/4z1wB5oMJcTrh0kUT5UCZJ) | [Sly](https://open.spotify.com/artist/7mh5yWKyUcN4xYhEJsWcxI), [Robbie](https://open.spotify.com/artist/52f9xu2VBr99vFO7bzxiLP) | [Blackwood Dub](https://open.spotify.com/album/09DhBkExGYrp5TH8EMWSiD) | 4:30 | 2020-06-16 |  |
+| [The Bomber](https://open.spotify.com/track/4z1wB5oMJcTrh0kUT5UCZJ) | [Sly](https://open.spotify.com/artist/7mh5yWKyUcN4xYhEJsWcxI), [Robbie](https://open.spotify.com/artist/52f9xu2VBr99vFO7bzxiLP) | [Blackwood Dub](https://open.spotify.com/album/09DhBkExGYrp5TH8EMWSiD) | 0:29 | 2020-06-16 |  |
 | [Throw Away Your Gun \- 1991 Digital Remaster](https://open.spotify.com/track/65TNC2zSsAOnTcHcvZ1o76) | [Prince Far I](https://open.spotify.com/artist/6BkTUVaHHgKUAjc4U7xGUL) | [Dubwise](https://open.spotify.com/album/06PpN3LxxkiDYB5miBhUa2) | 4:23 | 2020-06-16 |  |
 | [Under Mi Sensi](https://open.spotify.com/track/2TBOlAo3jhW00nKl5EIhYo) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Here I Come](https://open.spotify.com/album/2FYgSbuEn19zQd7ek9azyl) | 3:11 | 2020-06-16 | 2022-03-10 |
 | [Waiting In The Park Dub](https://open.spotify.com/track/10Iv0caBaOPyGs27YJHmUV) | [The Revolutionaries](https://open.spotify.com/artist/72kiVqCJIy9eOnmLp8r0h7) | [40 Buddha Lounge Essentials](https://open.spotify.com/album/6EDCQ5DKRNwkPpGnPmoTQK) | 6:38 | 2020-06-16 |  |

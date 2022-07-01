@@ -4,7 +4,7 @@
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Micro TDH
 
-68 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/6opAfCvVy9IGx107v1jCvA)
+68 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/6opAfCvVy9IGx107v1jCvA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Mil Curitas](https://open.spotify.com/track/4VNLSG0SHlSrFPvBiFA9ks) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Cassette](https://open.spotify.com/album/2lTCkJLh11fjo87tpgm8GQ) | 2:16 | 2022-04-08 |  |
 | [Negro](https://open.spotify.com/track/1oiQSttaF5b3ZI5masPw6i) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Negro](https://open.spotify.com/album/43q3UPszpuNHz8gBFwKBtg) | 3:17 | 2021-10-15 |  |
 | [Neutro Shorty: Bzrp Music Sessions, Vol\. 21](https://open.spotify.com/track/1QExMlBnwPYN2S3LMVNpoD) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Neutro Shorty: Bzrp Music Sessions, Vol\. 21](https://open.spotify.com/album/5rBi4ZI8JorCa5lbFaikUT) | 2:37 | 2021-10-15 |  |
-| [No Copio](https://open.spotify.com/track/20ULOJfgc85eBXq83rjKEf) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [No Copio](https://open.spotify.com/album/2A3JkMQdIK53qMJo6PcXhT) | 3:25 | 2021-10-15 |  |
+| [No Copio](https://open.spotify.com/track/20ULOJfgc85eBXq83rjKEf) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [No Copio](https://open.spotify.com/album/2A3JkMQdIK53qMJo6PcXhT) | 0:29 | 2021-10-15 |  |
 | [No Me Digas Na](https://open.spotify.com/track/3BhPjlUWvkWjAeTxhxbCcl) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Humo en la Trampa 2](https://open.spotify.com/album/48081X2ns6kHKFS84IowXl) | 3:36 | 2021-10-15 |  |
 | [No Puedo Fingir](https://open.spotify.com/track/61I0O29lEDZA6kOY7bWh2t) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [No Puedo Fingir](https://open.spotify.com/album/79G1pr97ZqPkgoIc88RaUS) | 2:44 | 2021-10-15 |  |
 | [No Sé](https://open.spotify.com/track/3cDTaeeL4b7zSVYXbSoSpS) | [Stailmic](https://open.spotify.com/artist/3JvGIegytK234itXw0xaOY) | [No Sé](https://open.spotify.com/album/7tR03q8Trq7V0i3mYKnZ2j) | 4:05 | 2021-10-15 | 2022-04-09 |
@@ -63,7 +63,7 @@
 | [Q 'VacilOn](https://open.spotify.com/track/1WsBNIhyn8z2UnuvlFTJM4) | [Skisia2](https://open.spotify.com/artist/0i2AykTPNRZdh7qfCy8eor), [Ag sixteen](https://open.spotify.com/artist/2Skstmc3athPlfSbdxEsR2), [Yung Iverson](https://open.spotify.com/artist/32FZMa8a5INqhHHssRtkux) | [Q 'VacilOn](https://open.spotify.com/album/4ABD3I1tBANiGl803jPwgX) | 3:16 | 2021-10-15 |  |
 | [Rockstars](https://open.spotify.com/track/3FSlnw2ULKtzZmKRsCePM9) | [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Rockstars](https://open.spotify.com/album/5gxGWqgqGj0NIz4ssk5ftv) | 3:04 | 2021-10-15 |  |
 | [Si Te Vas](https://open.spotify.com/track/3vhRrdI29KxI3dvnfRDSjJ) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu), [Red Little](https://open.spotify.com/artist/3TtjHxt7XVVJwUWCzvLDyL) | [Si Te Vas](https://open.spotify.com/album/3X5V5wuP5P6ys4Z9snzOT7) | 3:54 | 2021-10-15 | 2022-04-09 |
-| [Sin Señal](https://open.spotify.com/track/0Vcd3Kvbkso4emk1pYARah) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7), [Unicornio Records](https://open.spotify.com/artist/3y26UMODbF4qCIG8zFVPaG) | [Sin Señal](https://open.spotify.com/album/48sx7cgN8pCgk8NvwfX3KK) | 3:25 | 2021-10-15 |  |
+| [Sin Señal](https://open.spotify.com/track/0Vcd3Kvbkso4emk1pYARah) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7), [Unicornio Records](https://open.spotify.com/artist/3y26UMODbF4qCIG8zFVPaG) | [Sin Señal](https://open.spotify.com/album/48sx7cgN8pCgk8NvwfX3KK) | 0:29 | 2021-10-15 |  |
 | [Solo](https://open.spotify.com/track/1ZQnUiFdrK4sxIJwBtiU1J) | [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi) | [Homies & Music](https://open.spotify.com/album/7AgLyr8Y97Zik2xfyLx30X) | 3:04 | 2021-10-15 |  |
 | [Sométeme](https://open.spotify.com/track/51Jt04zgh7coezey8YlnRO) | [Stefficrown](https://open.spotify.com/artist/03kZtQufUPClcJ4y4jYTes), [Crabeats](https://open.spotify.com/artist/3N9ZDSxevGQn5u7D1nRlvN) | [Act II](https://open.spotify.com/album/30NxdbAihSxvSAeihvWw7i) | 3:31 | 2021-10-15 |  |
 | [Stupid Bitch](https://open.spotify.com/track/4CbECmRdlREUolSUceI6Yg) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [Stupid Bitch](https://open.spotify.com/album/3hVnIIKriPcmwdCDt6JzUb) | 2:16 | 2021-10-15 | 2022-01-29 |
@@ -74,7 +74,7 @@
 | [Tyqc](https://open.spotify.com/track/4IX9LPTkilIwaVKhCjRofn) | [Cabaio](https://open.spotify.com/artist/0yIYD7cBLd9VdHEUQ0fqAJ) | [Tyqc](https://open.spotify.com/album/6gZ2Fz1C2Pmd91IOyerJIv) | 2:55 | 2021-10-15 |  |
 | [Tóxicos](https://open.spotify.com/track/2wpx54FlGSt49tYeyIK8Wd) | [Asmir Young](https://open.spotify.com/artist/2oUCnlGXMjbBgRBab3vb8E), [JOTA](https://open.spotify.com/artist/4ICS3tvd4Uo6Xq4HUZ9fEG) | [Tóxicos](https://open.spotify.com/album/040GdsK6ir3uWzYUE0quT5) | 2:57 | 2022-04-08 |  |
 | [Wherever I May Roam](https://open.spotify.com/track/7qCHqtiSiX3T09ErW718yQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Wherever I May Roam](https://open.spotify.com/album/0WNfOMxwCMjYOjDWlGsgNA) | 2:38 | 2021-10-15 | 2022-04-09 |
-| [WOW](https://open.spotify.com/track/4I9U5XBHs37jV9pRo3VLTa) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [WOW](https://open.spotify.com/album/22eepM8FdWx13R7aGAO1gH) | 2:51 | 2021-10-15 |  |
+| [WOW](https://open.spotify.com/track/4I9U5XBHs37jV9pRo3VLTa) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [WOW](https://open.spotify.com/album/22eepM8FdWx13R7aGAO1gH) | 0:29 | 2021-10-15 |  |
 | [¿Que Nalgas Son Esas?](https://open.spotify.com/track/2VkFtqDPapy6UaHARdghVS) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [¿Que Nalgas Son Esas?](https://open.spotify.com/album/6LyOSerd3DNwni2WYl2Qzf) | 2:49 | 2021-10-15 |  |
 
 \*This playlist was first scraped on 2022-01-24. Prior content cannot be recovered.

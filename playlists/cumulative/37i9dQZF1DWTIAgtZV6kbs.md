@@ -4,7 +4,7 @@
 
 > ついにシリーズ完結！最新作映画『シン・エヴァンゲリオン劇場版』公開記念『エヴァンゲリオン』シリーズの音楽をプレイリストで！（C）カラー
 
-96 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/0FktuX6QwE8BElG39olosR)
+96 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/0FktuX6QwE8BElG39olosR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [真実一路のマーチ](https://open.spotify.com/track/3kkXdezh9GjvZ0Gd20dhFy) | [Kiyoko Suizenji](https://open.spotify.com/artist/3v8X96lvVXfrwC4bMrM4On) | [水前寺清子全曲集 \~熊本城・三百六十五歩のマーチ\~](https://open.spotify.com/album/0A6Iw003J1zPSweeXw8YLk) | 3:32 | 2021-08-31 |  |
 | [翼をください](https://open.spotify.com/track/4BVC2Ou8Ka1kmT11wtZFl6) | [Megumi Hayashibara](https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p) | [EVANGELION FINALLY](https://open.spotify.com/album/2Wcw3p2bLtsLyD50GiTvKj) | 4:54 | 2021-08-31 |  |
 | [蒼いレジェンド](https://open.spotify.com/track/2Fy7Qe48dNYidRmb5KLvKq) | [三石琴乃](https://open.spotify.com/artist/6f1uKn32JhuBirTF3esEod) | [ヱヴァンゲリヲン新劇場版:序 オリジナルサウンドトラック](https://open.spotify.com/album/42IbFUaAvDHBJTo1ujxlCG) | 4:34 | 2021-08-31 |  |
-| [魂のルフラン](https://open.spotify.com/track/4pjQ19ATjMCMFqnEF75O9T) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [魂のルフラン](https://open.spotify.com/album/7j1OdqnevNe9r0mwxOmh15) | 5:14 | 2021-08-31 |  |
+| [魂のルフラン](https://open.spotify.com/track/4pjQ19ATjMCMFqnEF75O9T) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [魂のルフラン](https://open.spotify.com/album/7j1OdqnevNe9r0mwxOmh15) | 0:29 | 2021-08-31 |  |
 | [鷺巣詩郎 what if? 高橋洋子ver\. 通常版](https://open.spotify.com/track/7fNEJ3YAEFzd1hgybSmChO) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [鷺巣詩郎 what if? 高橋洋子ver\. 通常版](https://open.spotify.com/album/0tXtzsWcjzUDWMAV6zhqBd) | 5:42 | 2021-08-31 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > A playlist with songs from the best reviewed albums in Sweden 2012.
 
-61 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/0gAM7iqeArqsehi0zGHYli)
+61 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/0gAM7iqeArqsehi0zGHYli)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Askan är den bästa jorden](https://open.spotify.com/track/0rJ11PgSzRDjDPBQOQ3wLP) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Mänsklig värme](https://open.spotify.com/album/0snLl5NOtBxWegGE6BHJ4Y) | 3:07 | 2012-10-22 |  |
 | [Be Strong](https://open.spotify.com/track/2LgUF32UKG7qXxEl44Yuje) | [The 2 Bears](https://open.spotify.com/artist/0tCMgjr8y7UKNmE3B1Uwbl) | [Be Strong](https://open.spotify.com/album/0DSCXv8rx9jJgdqZnJ2LH9) | 4:42 | 2012-10-22 |  |
 | [Before the Colors Fade](https://open.spotify.com/track/3eBHc8Fs8iQtnfAMt5jsOr) | [Iris DeMent](https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY) | [Sing the Delta](https://open.spotify.com/album/6cjmg40IRI5GuZJuFWIcg8) | 5:04 | 2012-10-22 |  |
-| [Beväpna dig med vingar](https://open.spotify.com/track/6HGm0lE0Oh7pdOVBFKdFLY) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Beväpna dig med vingar](https://open.spotify.com/album/2xMq0DLaCb66hJ2pt5Y6m8) | 5:16 | 2012-10-22 |  |
+| [Beväpna dig med vingar](https://open.spotify.com/track/6HGm0lE0Oh7pdOVBFKdFLY) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Beväpna dig med vingar](https://open.spotify.com/album/2xMq0DLaCb66hJ2pt5Y6m8) | 0:29 | 2012-10-22 |  |
 | [Bite The Thong](https://open.spotify.com/track/2yXr2xCbk3S47Ulu0pxk76) | [JJ DOOM](https://open.spotify.com/artist/5BxMS9rhKHbSagaYFBICun), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [KEY TO THE KUFFS](https://open.spotify.com/album/2KqYOhVenOQF9D43Wo8EKy) | 3:53 | 2012-11-13 |  |
 | [Caravan](https://open.spotify.com/track/43l8BalXmo4y50runkgJEh) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Clockwork Angels](https://open.spotify.com/album/744i0LypfMwHHrKhzsqAx0) | 5:39 | 2012-10-22 |  |
 | [Cherokee](https://open.spotify.com/track/5hhkALqXJpAFGKbtOBuIy8) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Sun](https://open.spotify.com/album/2JQgZJD5VKJkBMHBCkGQO0) | 4:45 | 2012-10-22 |  |

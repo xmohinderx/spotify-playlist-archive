@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/3QAT1vJA7CAIHIRP9Gkyqj.md) - [plain]
 
 > An inside look into the new Amy Winehouse biopic, featuring exclusive interview clips and top picks from director Asif Kapadia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328 likes - 53 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 328 likes - 53 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [01 \- Intro](https://open.spotify.com/track/6FQzLqwvsgBZ96JGGMQRGi) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Asif Kapadia Interview](https://open.spotify.com/album/6VHJR6fot3u8xXvGVH8PtW) | 0:09 |
 | 2 | [Valerie \- BBC Radio 1 Live Lounge](https://open.spotify.com/track/5it9RIRXDwiLpJKdce6Z7e) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [AMY \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3) | 3:52 |
 | 3 | [02 \- First Impressions](https://open.spotify.com/track/6SFWPeH72Ye47N7k644scz) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Asif Kapadia Interview](https://open.spotify.com/album/6VHJR6fot3u8xXvGVH8PtW) | 0:21 |
-| 4 | [Back To Black](https://open.spotify.com/track/30FURVTCpbKyykjSEQzGkH) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 4:00 |
+| 4 | [Back To Black](https://open.spotify.com/track/30FURVTCpbKyykjSEQzGkH) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 0:29 |
 | 5 | [03 \- Surprising Traits](https://open.spotify.com/track/2PMLZ2iG2E3dspst9dnHsg) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Asif Kapadia Interview](https://open.spotify.com/album/6VHJR6fot3u8xXvGVH8PtW) | 0:30 |
 | 6 | [Best Friend \- Acoustic](https://open.spotify.com/track/11DpzO37X3lrvDLS5dYta1) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Best Friend \(Acoustic\)](https://open.spotify.com/album/6kfEfPQONPwnMUkK5DE6AB) | 3:26 |
 | 7 | [05 \- Demystifying Her](https://open.spotify.com/track/0eF22oiCFSEqbB7bfOqqSy) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Asif Kapadia Interview](https://open.spotify.com/album/6VHJR6fot3u8xXvGVH8PtW) | 0:52 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/3QAT1vJA7CAIHIRP9Gkyqj.md) - [plain]
 | 19 | [Mathematics](https://open.spotify.com/track/3gRlmtdCyNoKiyozn2pqc9) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Black On Both Sides](https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6) | 4:06 |
 | 20 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/2Uu8IiLkLY0UXhCHka4Dlr) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/2Uc0HAF0Cj0LAgyzYZX5e3) | 5:20 |
 | 21 | [Stronger Than Me](https://open.spotify.com/track/5LC7nItIEFp4nzdFdEGbf9) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [AMY \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3) | 3:34 |
-| 22 | [Living For The City](https://open.spotify.com/track/3qvuhGBr6BSdGPQsdf2gLr) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 7:22 |
+| 22 | [Living For The City](https://open.spotify.com/track/3qvuhGBr6BSdGPQsdf2gLr) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 0:29 |
 | 23 | [No More Drama](https://open.spotify.com/track/7nWsh14AHpnTzq1Xejz90U) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [No More Drama](https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4) | 5:26 |
 | 24 | [Street Dreams](https://open.spotify.com/track/0QnGI4OgY8ReggLWvEXdgD) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [It Was Written](https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg) | 4:39 |
 | 25 | [Mister Magic](https://open.spotify.com/track/3Lg2RXcqpLcKKwExdCm5L8) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1) | [20th Century Masters: The Millennium Collection: Best Of Grover Washington Jr.](https://open.spotify.com/album/4iSdjL7nKLxxz0TEkBVlJ3) | 9:02 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/3QAT1vJA7CAIHIRP9Gkyqj.md) - [plain]
 | 36 | [Hip Hop](https://open.spotify.com/track/4gQdwwPXSXnDkUh4jYqLoC) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Black On Both Sides](https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6) | 3:16 |
 | 37 | [Back To Black](https://open.spotify.com/track/1YkV2y6QU4zya9sonV0m8R) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/6NykKu6IjzO1r7UFANX8kh) | 4:00 |
 | 38 | [We're Still Friends \- Live At The Union Chapel](https://open.spotify.com/track/1MdMYZN0VnpjTy6nBCM2Qf) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [AMY \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3) | 2:55 |
-| 39 | [Teach Me Tonight](https://open.spotify.com/track/7rwrdW73btzcApiyGwgMMu) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Compact Jazz](https://open.spotify.com/album/42ryMVT1l3RruCiMQB6ns3) | 2:47 |
+| 39 | [Teach Me Tonight](https://open.spotify.com/track/7rwrdW73btzcApiyGwgMMu) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Compact Jazz](https://open.spotify.com/album/42ryMVT1l3RruCiMQB6ns3) | 0:29 |
 | 40 | [If I Ruled the World \(Imagine That\) \(feat\. Lauryn Hill\)](https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [It Was Written](https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg) | 4:42 |
 | 41 | [You Know I'm No Good \- Ghostface UK Version](https://open.spotify.com/track/7pE3ToBcXgKoPdz8E2yIvc) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [Back To Black](https://open.spotify.com/album/6NykKu6IjzO1r7UFANX8kh) | 3:22 |
 | 42 | [Pain in My Heart](https://open.spotify.com/track/2tT6mzIeQG2tAFIMTwR6DV) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Pain in My Heart](https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3) | 2:23 |

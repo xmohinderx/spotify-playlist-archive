@@ -4,7 +4,7 @@
 
 > Ouça grandes MCs do hip hop nacional\. Foto: 509\-E
 
-67 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/39eOoZa4goYLkWs21ZTiBM)
+67 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/39eOoZa4goYLkWs21ZTiBM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Segunda Chance](https://open.spotify.com/track/2ACJ3FD4AYYoulkzAOJxHV) | [509\-E](https://open.spotify.com/artist/1PA11Cy0SrjmwymvGS9h0C) | [A Segunda Chance](https://open.spotify.com/album/28kO3Vpk51BEQOCVaHglhW) | 4:47 | 2022-03-11 |  |
 | [Antes das 6:00, Pt\. 2 \- Bônus Track](https://open.spotify.com/track/5j3YKrNyW499GveM158BQ9) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Quantas Vezes Não Me Achei \(Deluxe Edition\)](https://open.spotify.com/album/2TqY7KgM8rrqskj3YcplOq) | 4:01 | 2022-03-11 |  |
 | [Aqui Se Faz, Aqui Se Paga](https://open.spotify.com/track/1igxsbMliCInUe2UjRBqWT) | [Realidade Cruel](https://open.spotify.com/artist/0VeXKzjTBWHX5Lf5Kr6rLF) | [Em Meio A Tudo Isso A História Continua](https://open.spotify.com/album/3dyCnPBExZyDzmFYDPnG2I) | 5:12 | 2022-03-11 | 2022-04-02 |
-| [Até U Infernu Acabá](https://open.spotify.com/track/2NHliybXzN9jQth41c6uWm) | [Trilha Sonora do Gueto](https://open.spotify.com/artist/5gOXpF0vOYUvYwBCd80hQv), [Zekinha](https://open.spotify.com/artist/2lT5bsHesPi6a8vsEBehtr) | [Até U Infernu Acabá](https://open.spotify.com/album/3bMB1dcxNv9aQHUU5vy5TI) | 5:53 | 2022-03-11 |  |
+| [Até U Infernu Acabá](https://open.spotify.com/track/2NHliybXzN9jQth41c6uWm) | [Trilha Sonora do Gueto](https://open.spotify.com/artist/5gOXpF0vOYUvYwBCd80hQv), [Zekinha](https://open.spotify.com/artist/2lT5bsHesPi6a8vsEBehtr) | [Até U Infernu Acabá](https://open.spotify.com/album/3bMB1dcxNv9aQHUU5vy5TI) | 0:29 | 2022-03-11 |  |
 | [Babylon By Gus](https://open.spotify.com/track/4kDzgYkIVT1JHFpKZOPxGW) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 4:16 | 2022-03-11 |  |
 | [Beira de Piscina \(Remix\)](https://open.spotify.com/track/3Vek6VBsc7NcLQeMTqdUQc) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Caro Vapor / Vida e Veneno de Don L](https://open.spotify.com/album/7bqvleTPBX8DqrGfNmEUPX) | 3:49 | 2022-03-11 |  |
 | [Bilhete 2.0 \(feat\. Luccas Carlos\)](https://open.spotify.com/track/23DMhYv6WjRmIRck1Uwjev) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Crise](https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91) | 3:43 | 2022-03-11 |  |

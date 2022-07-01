@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: boyish
 
-495 songs - 1 day 4 hr 10 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+495 songs - 1 day 3 hr 59 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Curse Your Fail](https://open.spotify.com/track/51WYRV3q8AvyOyvayez0mc) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd), [Sebastien Grainger](https://open.spotify.com/artist/5HTY4xpY9n7atMo4z8FTNh) | [Curse Your Fail](https://open.spotify.com/album/5x9rRmpiT5cXeAYTcaswFQ) | 4:43 | 2022-01-28 | 2022-04-28 |
 | [Daffadowndilly](https://open.spotify.com/track/0UG2CtCKV62BK6Y2MJwOzR) | [Tōth](https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [You and Me and Everything](https://open.spotify.com/album/0csxZuCz56owUfU6dC7Dth) | 3:23 | 2021-04-30 | 2022-03-27 |
 | [Daisy](https://open.spotify.com/track/3RKKtDHhTdMQAJZbfbKsVC) | [Television Blonde](https://open.spotify.com/artist/5HRh5YLBU1AHJFOeUgvzDc) | [Daisy](https://open.spotify.com/album/6o9Xqf9aaVQ3kJCTMC2FCR) | 3:17 | 2021-10-02 | 2022-03-15 |
-| [Damn I'm Tired](https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Damn I'm Tired](https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu) | 3:45 | 2022-04-29 |  |
+| [Damn I'm Tired](https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Damn I'm Tired](https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu) | 0:29 | 2022-04-29 |  |
 | [Darcy](https://open.spotify.com/track/0GS5GAoxVPeTWa8fV8j1mq) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Darcy](https://open.spotify.com/album/3QfHn3nLiI8UQyqGjfFDYL) | 3:24 | 2021-03-05 | 2022-04-19 |
 | [Dark Angel](https://open.spotify.com/track/58lQsFCu6wlgDvOI0MjMmu) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Dark Angel](https://open.spotify.com/album/7vLW18eOsIVNFMqiBGXafe) | 6:15 | 2022-06-07 |  |
 | [Dark Star](https://open.spotify.com/track/4AwX0i4DC8buTFbFsHpqzs) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Dark Star b/w Pastel Sunrise](https://open.spotify.com/album/5Em1Nym2EEFoJpQzSgt908) | 3:08 | 2022-04-29 | 2022-06-03 |
@@ -261,7 +261,7 @@
 | [invisible string](https://open.spotify.com/track/1BuayMZGxH5A0NasB4bESi) | [ghost orchard](https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG) | [invisible string](https://open.spotify.com/album/03SgefcTQpH6gDeTWiPawR) | 3:07 | 2022-05-20 |  |
 | [It's Only Sex](https://open.spotify.com/track/6dtPJwNdLuyVGPWyHOI6GP) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Living While Starving](https://open.spotify.com/album/3egPQUSqrInRvbXxPqXQYm) | 4:43 | 2022-04-29 |  |
 | [James](https://open.spotify.com/track/6MPZvfTIQkB6CmVNHjxxkK) | [Earth Dad](https://open.spotify.com/artist/4chHQ1XcMUGTnvb0Q5mgIG) | [James](https://open.spotify.com/album/4vXRBaqweSWbVF5v8nMfcv) | 3:06 | 2022-03-26 | 2022-05-11 |
-| [John, Take Me With You](https://open.spotify.com/track/1IbJOWFjQgHYwwwD4ScyqN) | [JW Francis](https://open.spotify.com/artist/11DpUQDuQFFuGU8VXny3K6) | [WANDERKID](https://open.spotify.com/album/1F6LrJHFfmVb9AqB3Q5Ajs) | 3:30 | 2022-04-29 |  |
+| [John, Take Me With You](https://open.spotify.com/track/1IbJOWFjQgHYwwwD4ScyqN) | [JW Francis](https://open.spotify.com/artist/11DpUQDuQFFuGU8VXny3K6) | [WANDERKID](https://open.spotify.com/album/1F6LrJHFfmVb9AqB3Q5Ajs) | 0:29 | 2022-04-29 |  |
 | [Judy](https://open.spotify.com/track/7aiMbRTTmHBTkm2MWXXhIB) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Judy / Jeremy's Wedding](https://open.spotify.com/album/28bMFSMKFsWPLsJfgaQlB3) | 2:32 | 2021-03-05 | 2022-04-29 |
 | [Junior Day League](https://open.spotify.com/track/2X5cnr6ctbJCqoJ2rb6WWk) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Around Again / Junior Day League](https://open.spotify.com/album/5ly8lNB38yHxAoGFvS7mTc) | 3:23 | 2021-08-27 | 2022-04-29 |
 | [Just Friends](https://open.spotify.com/track/53pzEfktTBZ43ch0Osk7wV) | [Lily Kaplan](https://open.spotify.com/artist/0BjpXkCYIqkI36g3gc6xJ4) | [Just Friends](https://open.spotify.com/album/3aAnkbiwqbBQheUtgBix3u) | 3:11 | 2021-12-08 | 2022-04-21 |
@@ -349,7 +349,7 @@
 | [Poolside](https://open.spotify.com/track/5e1Q0FuvCEVDFVAztkSLnL) | [Dreamgirl](https://open.spotify.com/artist/7JPPLV24jlpVoHz5dHN6pR) | [Poolside](https://open.spotify.com/album/6ZXyOy9MkWxGPtMXl72RnX) | 2:18 | 2022-04-29 |  |
 | [Potions](https://open.spotify.com/track/3Bqw48ecyeeOHvuU1jYy6C) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Potions](https://open.spotify.com/album/3b5PbgWTo7i4S00wFekoiV) | 3:10 | 2021-03-05 | 2022-04-29 |
 | [Power](https://open.spotify.com/track/7z15lhmC8TWqaun5bWmzd9) | [IAN SWEET](https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD) | [Power](https://open.spotify.com/album/6aAdr2Ct9k3KVEAJFwTUgN) | 3:22 | 2021-03-05 | 2022-04-15 |
-| [Pretty](https://open.spotify.com/track/5rg2cr5aokhrm5gQNpyHXi) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow), [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pretty](https://open.spotify.com/album/22dulUCoaoKoVpmg2irQmo) | 3:19 | 2022-04-29 |  |
+| [Pretty](https://open.spotify.com/track/5rg2cr5aokhrm5gQNpyHXi) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow), [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pretty](https://open.spotify.com/album/22dulUCoaoKoVpmg2irQmo) | 0:29 | 2022-04-29 |  |
 | [pretty girl in la](https://open.spotify.com/track/5NdUIQzOj9YuxHKLEYRZCA) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [the girlhouse ep](https://open.spotify.com/album/4iwP3pc1MGgEVtPygt5KZL) | 3:34 | 2021-05-14 | 2022-04-29 |
 | [Pretty Pictures](https://open.spotify.com/track/330fmJp9kvEMPjLhoc29Zl) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Any Shape You Take](https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y) | 2:58 | 2021-08-27 | 2022-04-29 |
 | [Prove It](https://open.spotify.com/track/6DK7eKgThVAYH0VtQhtG6x) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [Prove It](https://open.spotify.com/album/0nUe42yrUWiUl7pTUhPwGy) | 2:47 | 2021-09-10 | 2022-04-29 |
@@ -377,7 +377,7 @@
 | [Shadow](https://open.spotify.com/track/0uHlIwDfRNoOu6POZitYkV) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Shadow](https://open.spotify.com/album/4pZBOq2y6jPmJ1D3WIMPp2) | 2:36 | 2021-10-29 | 2022-04-29 |
 | [Shame On You](https://open.spotify.com/track/6sVs6TJapaC9piCpAgZyZc) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Shame On You](https://open.spotify.com/album/7rAfGUGoGPQNYM9RK0musY) | 3:20 | 2022-01-28 | 2022-04-29 |
 | [Sick of Spiraling](https://open.spotify.com/track/0W60oexKdLOgynOU4aiyO6) | [Bachelor](https://open.spotify.com/artist/7B1OPA8Ttxfv3XBDCkw24E), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Sick of Spiraling](https://open.spotify.com/album/5cT6c7GlRSrwEBOuw8MaWz) | 4:27 | 2021-04-30 | 2022-04-29 |
-| [Sideways](https://open.spotify.com/track/3kF46KXHxqWvvgJWtZRmyx) | [Flasher](https://open.spotify.com/artist/1qPMBDzIv4WJoToZqNxb1f) | [Sideways](https://open.spotify.com/album/6gDsJNf8oR4h87uZBl6cEr) | 2:51 | 2022-03-26 |  |
+| [Sideways](https://open.spotify.com/track/3kF46KXHxqWvvgJWtZRmyx) | [Flasher](https://open.spotify.com/artist/1qPMBDzIv4WJoToZqNxb1f) | [Sideways](https://open.spotify.com/album/6gDsJNf8oR4h87uZBl6cEr) | 0:29 | 2022-03-26 |  |
 | [Sinkin'](https://open.spotify.com/track/1Jolzi0FbJxLh2VOZXBvin) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunflower](https://open.spotify.com/album/09VQgw9zdYyTRCvQMY3lK3) | 3:09 | 2021-04-30 | 2022-04-22 |
 | [Sit on Your Hands](https://open.spotify.com/track/1AUl49yGgselgHvW6DKQpx) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [Sit on Your Hands](https://open.spotify.com/album/6MwVFr8VucrU2kVVAI3xqQ) | 2:55 | 2021-03-05 | 2021-12-31 |
 | [Sleeping on the Ground](https://open.spotify.com/track/0mEB7kL6nknUILQyD3pzMW) | [Homeschool](https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8) | [Sleeping on the Ground](https://open.spotify.com/album/4aJ3DahrixMsErIem1NFM9) | 3:03 | 2022-03-04 | 2022-04-21 |

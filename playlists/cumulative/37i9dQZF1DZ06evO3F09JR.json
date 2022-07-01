@@ -21,6 +21,28 @@
           "url": "https://open.spotify.com/artist/5UezsklPScipW64XJm7qql"
         }
       ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288508,
+      "name": "AAMC",
+      "url": "https://open.spotify.com/track/3Xa5eV6Ct9fR2e2QXRa3oe"
+    },
+    {
+      "album": {
+        "name": "Alessandro Cortini/Merzbow",
+        "url": "https://open.spotify.com/album/1SbqO0MvsZVEnT0gVOsryU"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Merzbow",
+          "url": "https://open.spotify.com/artist/5UezsklPScipW64XJm7qql"
+        }
+      ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -100,7 +122,7 @@
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 207920,
+      "duration_ms": 29048,
       "name": "At First Sight",
       "url": "https://open.spotify.com/track/0kkV16AVMLlMt5tMYZEM2H"
     },
@@ -165,7 +187,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 177720,
       "name": "Behind Enemy Lines",
       "url": "https://open.spotify.com/track/259aWf01uewSao9r9oBYP6"
@@ -249,7 +271,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 601426,
       "name": "CMAA",
       "url": "https://open.spotify.com/track/4ThWypGQKfkB07EoT1HkaK"
@@ -289,8 +311,8 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
-      "duration_ms": 328666,
+      "date_removed": null,
+      "duration_ms": 29048,
       "name": "Enter Exit",
       "url": "https://open.spotify.com/track/7wuuqyvG8y72HPxoFIa2oc"
     },
@@ -438,7 +460,7 @@
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 262373,
+      "duration_ms": 29048,
       "name": "Illusion Of Time",
       "url": "https://open.spotify.com/track/3Bt8RJQH4KGo1OjyXATkC9"
     },
@@ -588,7 +610,7 @@
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 369546,
+      "duration_ms": 29048,
       "name": "Inside The Ruins",
       "url": "https://open.spotify.com/track/35ZNF2MIZ0QsYK1tGcONKJ"
     },
@@ -693,7 +715,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 203866,
       "name": "Panther",
       "url": "https://open.spotify.com/track/4EeoyH0Uh9VEkUn6dqVtCw"
@@ -763,7 +785,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 219133,
       "name": "Resist and Protect",
       "url": "https://open.spotify.com/track/2BQWKfwYxK27HYmmcXQVTf"
@@ -848,7 +870,7 @@
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 102826,
+      "duration_ms": 29048,
       "name": "Space Channel",
       "url": "https://open.spotify.com/track/0iNQjPzuYEexBAsPSsKvnO"
     },
@@ -870,7 +892,7 @@
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 313493,
+      "duration_ms": 29048,
       "name": "Sun",
       "url": "https://open.spotify.com/track/7676v3sYbrRj3gMncWzuvg"
     },
@@ -1023,7 +1045,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 527120,
       "name": "Water",
       "url": "https://open.spotify.com/track/42V1mTUau3OIFKrBCMTrjV"
@@ -1049,7 +1071,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 73960,
       "name": "Winds in the Misty Ridge",
       "url": "https://open.spotify.com/track/3RmhZyWCQHnHBM2itlcMF4"

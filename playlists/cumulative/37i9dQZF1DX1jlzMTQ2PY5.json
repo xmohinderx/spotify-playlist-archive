@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 394300,
       "name": "96'",
       "url": "https://open.spotify.com/track/1SpIjGdDI5ficOTrk8NIhH"
@@ -173,7 +173,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 339360,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/6eXViRiXJKufjfzY3Ntxhx"
@@ -191,7 +191,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 353013,
       "name": "Aurora Boreale",
       "url": "https://open.spotify.com/track/4VBf5R5BJ59b83Wn5vEMry"
@@ -209,7 +209,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 298022,
       "name": "Baby",
       "url": "https://open.spotify.com/track/0DPDSTI0FgwUc8wQHXlIv2"
@@ -245,7 +245,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 231568,
       "name": "Be Free",
       "url": "https://open.spotify.com/track/4sGCBGyyNPVv3ZExd9RJ8a"
@@ -267,8 +267,8 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
-      "duration_ms": 283970,
+      "date_removed": null,
+      "duration_ms": 29048,
       "name": "Beautiful Struggle",
       "url": "https://open.spotify.com/track/3RFHa6mL95pfX2gqdrUiWp"
     },
@@ -286,7 +286,7 @@
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 287121,
+      "duration_ms": 29048,
       "name": "Believe",
       "url": "https://open.spotify.com/track/6G8sFs8Nw2yQ6zHLmSSb7r"
     },
@@ -329,7 +329,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 419963,
       "name": "Bell Tune",
       "url": "https://open.spotify.com/track/3HWC42lGGMkjII9evepQEL"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 299166,
       "name": "Blank Pages",
       "url": "https://open.spotify.com/track/5iSyuu9IKtr8VNnyJ3apHE"
@@ -391,7 +391,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 228395,
       "name": "Cardboard Castle - Kev Sheridan Remix",
       "url": "https://open.spotify.com/track/3UjMGfGOmQpgGM7A0IagqQ"
@@ -409,7 +409,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 204173,
       "name": "Closer",
       "url": "https://open.spotify.com/track/6YoCno4k5HHDJmTl7i8MAY"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 282742,
       "name": "Do U?",
       "url": "https://open.spotify.com/track/5fVHnXgkgwChihVXUpAcKs"
@@ -727,7 +727,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 361579,
       "name": "Gifted Lover",
       "url": "https://open.spotify.com/track/2xsK1pXFX2Dlx7xH33Tc1N"
@@ -767,6 +767,24 @@
       "duration_ms": 273077,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/7yAVZPSvRhstljIpMfy3ID"
+    },
+    {
+      "album": {
+        "name": "Golden Undertones",
+        "url": "https://open.spotify.com/album/0NgEjlsCNMMEuwwZMxG1Q2"
+      },
+      "artists": [
+        {
+          "name": "Aperio",
+          "url": "https://open.spotify.com/artist/7p6ffz42sYfufojFrfIDlX"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275862,
+      "name": "Golden Undertones",
+      "url": "https://open.spotify.com/track/6bRna5AtIEGQLPkqRAlOOq"
     },
     {
       "album": {
@@ -825,7 +843,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 262400,
       "name": "Home",
       "url": "https://open.spotify.com/track/7tWBeveDtYJ1UcPlHqwHTi"
@@ -847,7 +865,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 296152,
       "name": "Hustlin'",
       "url": "https://open.spotify.com/track/54oGAmxvCLF8oHhtynAz1E"
@@ -1007,7 +1025,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 249767,
       "name": "Lifted",
       "url": "https://open.spotify.com/track/2LcpeTWnyaULVZCYdBAh5E"
@@ -1129,10 +1147,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 270040,
       "name": "Midnight Caller",
       "url": "https://open.spotify.com/track/335xnCcOKgG25tzSg0Hirf"
+    },
+    {
+      "album": {
+        "name": "Mindset / Parsley Soda",
+        "url": "https://open.spotify.com/album/3QrvO8u3dt1MuPeDEgiYGs"
+      },
+      "artists": [
+        {
+          "name": "Low:r",
+          "url": "https://open.spotify.com/artist/2PR9nGANZUfxMEfRBoJfYI"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355862,
+      "name": "Mindset",
+      "url": "https://open.spotify.com/track/2NEP9qu85GjFKKMRKj5JVN"
     },
     {
       "album": {
@@ -1165,7 +1201,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 265465,
       "name": "Never Let You Down",
       "url": "https://open.spotify.com/track/0gciviPVwkD0YbtJIKm1bI"
@@ -1188,7 +1224,7 @@
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 269921,
+      "duration_ms": 29048,
       "name": "Never Made It",
       "url": "https://open.spotify.com/track/348lckHV37myDPmuxztghP"
     },
@@ -1469,7 +1505,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 301655,
       "name": "She Sings for Me",
       "url": "https://open.spotify.com/track/4acNIYmvJykLV0faSBH8YD"
@@ -1553,7 +1589,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 273701,
       "name": "Something Got Me",
       "url": "https://open.spotify.com/track/530JH6bhtYYpayZcoYzM2z"
@@ -1655,7 +1691,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 247226,
       "name": "Talk About It",
       "url": "https://open.spotify.com/track/1oKw8KL1SDtba01hVtgMAG"
@@ -1743,7 +1779,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 234452,
       "name": "The Shade",
       "url": "https://open.spotify.com/track/2g1IHsmZ15G2pmFu6rTMCh"
@@ -1765,7 +1801,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 274003,
       "name": "The Ticket",
       "url": "https://open.spotify.com/track/7tEgXYCi32cOG6s9Fut8T2"
@@ -1919,7 +1955,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 270444,
       "name": "When the Dawn Breaks",
       "url": "https://open.spotify.com/track/3J8qHtUXHJdTKo0NbruZNf"
@@ -2003,7 +2039,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 300011,
       "name": "Would You",
       "url": "https://open.spotify.com/track/6L6P4SI85euz5yGQl05Csv"

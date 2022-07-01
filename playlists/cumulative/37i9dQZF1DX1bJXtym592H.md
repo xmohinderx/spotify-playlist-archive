@@ -4,7 +4,7 @@
 
 > n3xt l3v3l beats.
 
-126 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/6RWlap37sAAYwzLtnEcUiW)
+126 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/6RWlap37sAAYwzLtnEcUiW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Handprints](https://open.spotify.com/track/1gJrZGrE3RZ8HhS45OuqTq) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Handprints](https://open.spotify.com/album/5hAgnNl3k9ZxYsK1131fbd) | 1:14 | 2022-04-22 |  |
 | [I Won](https://open.spotify.com/track/0FwGhS0DqxoIztkWFeKHfq) | [Lukas Got Lucky](https://open.spotify.com/artist/1XlWDjMcmW7HVs9m5BjGDF) | [Lunchbox](https://open.spotify.com/album/0gyxp0W1gjg7AREo5rBrgO) | 3:14 | 2022-04-22 |  |
 | [In the Quarry](https://open.spotify.com/track/1ppAYsMbptKwowB1Za8g7A) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Gossamer](https://open.spotify.com/album/5AndD9M9ccTWQXPJpipz2z) | 2:21 | 2022-04-22 |  |
-| [Inspector Fidget](https://open.spotify.com/track/6qXTQx6WNF4bL8OUqltK5T) | [Monster Guy](https://open.spotify.com/artist/6Aizv6tVH9fFMbEbS4baLY) | [Dangerous Eyes](https://open.spotify.com/album/6fNRme6o5ByiWKfVFIERFz) | 2:07 | 2022-04-22 |  |
+| [Inspector Fidget](https://open.spotify.com/track/6qXTQx6WNF4bL8OUqltK5T) | [Monster Guy](https://open.spotify.com/artist/6Aizv6tVH9fFMbEbS4baLY) | [Dangerous Eyes](https://open.spotify.com/album/6fNRme6o5ByiWKfVFIERFz) | 0:29 | 2022-04-22 |  |
 | [Inure](https://open.spotify.com/track/3d6tXqJ2N5yse99MWXGEM4) | [Heyson](https://open.spotify.com/artist/7ooKNV7aBXuyijq6bYvvQR) | [Vibes Vol\. 1](https://open.spotify.com/album/4DhTxOxyWYTHQ1G60KthUh) | 2:57 | 2022-05-27 |  |
 | [Is It Summer Yet?](https://open.spotify.com/track/5Ay3j13L32nercEHUNTQCd) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Is It Summer Yet?](https://open.spotify.com/album/6YeBEcDch5a4xAVgCi4VHR) | 1:31 | 2022-04-22 |  |
 | [iykyk](https://open.spotify.com/track/1ljFw0Kwk2iYoQUeg5RAp1) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [gliding on vibes](https://open.spotify.com/album/0FsO0vZwBtOVav3LTmG274) | 2:06 | 2022-04-22 |  |
@@ -89,7 +89,7 @@
 | [Pajamas](https://open.spotify.com/track/2m7cPIPwClFt9haB2kux3z) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Pajamas](https://open.spotify.com/album/0OFcSExDd2DVi2K8l9V5gh) | 2:57 | 2022-04-22 |  |
 | [Peach Sky](https://open.spotify.com/track/553ntYSPcu70QIRXtBjAHD) | [Moodula](https://open.spotify.com/artist/6e76Meb8yRDdpn42QfFeOh) | [Echo Cliff](https://open.spotify.com/album/5iPfYQFToHZYZMQHVZf9el) | 2:04 | 2022-04-22 |  |
 | [Peck](https://open.spotify.com/track/3xgFr4QwSRmIVqllKr6xkX) | [Le Pug](https://open.spotify.com/artist/6yZmHLd4W5wktJ1J690SSL) | [Peck](https://open.spotify.com/album/3DhrVEfaXbnnScAh2FIVRO) | 1:50 | 2022-04-22 |  |
-| [petite java sip](https://open.spotify.com/track/2CilDammNAvbTU1SJISPje) | [matseruba](https://open.spotify.com/artist/0efY8bFD7Mf46WG8jYZJ7u) | [aloe vera chill](https://open.spotify.com/album/53roAMrIhrSM8A5mbTTcGw) | 2:08 | 2022-04-22 |  |
+| [petite java sip](https://open.spotify.com/track/2CilDammNAvbTU1SJISPje) | [matseruba](https://open.spotify.com/artist/0efY8bFD7Mf46WG8jYZJ7u) | [aloe vera chill](https://open.spotify.com/album/53roAMrIhrSM8A5mbTTcGw) | 0:29 | 2022-04-22 |  |
 | [Progression](https://open.spotify.com/track/5FGgQIo3AeeyqNVe7324Ey) | [Iddy P](https://open.spotify.com/artist/0JZwamLi5bDuUwYybNnFoF) | [Progression](https://open.spotify.com/album/7p6gW7y7B59rX4FKNgasGg) | 2:19 | 2022-04-22 |  |
 | [Punch Tropical](https://open.spotify.com/track/2oS6CVKvmSq7W3w1csy6jn) | [Mellowdrastic](https://open.spotify.com/artist/5iM6lzU1v2k5FbuTUG2FnV) | [The Cotton Candy Creamery](https://open.spotify.com/album/7469geWNpqJN2D3sOYZCsH) | 2:56 | 2022-04-22 |  |
 | [Rain](https://open.spotify.com/track/6Qo9rLlkAnaPSYzljIFeJ8) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Nokimo](https://open.spotify.com/artist/2fjTdMf7j8dewPfWXh2Thq) | [Akademgorodok](https://open.spotify.com/album/3fhdj1IZa6mTiPQbQzKoBy) | 2:08 | 2022-04-22 |  |
@@ -115,7 +115,7 @@
 | [Swing Set](https://open.spotify.com/track/6NvN5QdlI7GItnKdhvtrwG) | [No2Pencil](https://open.spotify.com/artist/20DC1aiFjxdo2DtT5x8DCV) | [Backyard](https://open.spotify.com/album/1xaXyuZwmLAXCKEimpeebP) | 2:17 | 2022-04-22 |  |
 | [Tasty Bites](https://open.spotify.com/track/5istmkXN6fiucHQtaF1xV4) | [Blue and White](https://open.spotify.com/artist/3D7Q3FCSjGuFl5UNN3X4Ow) | [Tasty Bites](https://open.spotify.com/album/6Y0zEucjiXtyVXtxu0JgZi) | 2:19 | 2022-04-22 |  |
 | [Tenderly](https://open.spotify.com/track/21syvpttK8kXDq7kf3eaPr) | [Gaccio](https://open.spotify.com/artist/5VFn6uezSGCIslQWRV5vhy) | [Tenderly](https://open.spotify.com/album/5FbOGtcOmnvWJKH4xmajlv) | 2:13 | 2022-04-22 |  |
-| [The Mechanic](https://open.spotify.com/track/3kehSE24KMZe22rgorPiDo) | [Charlie Brons](https://open.spotify.com/artist/37XHOJqjRSosZYoRmGFboC) | [The Mechanic](https://open.spotify.com/album/6nM5GG20TJqXEQ7Zivtw9K) | 3:08 | 2022-04-22 |  |
+| [The Mechanic](https://open.spotify.com/track/3kehSE24KMZe22rgorPiDo) | [Charlie Brons](https://open.spotify.com/artist/37XHOJqjRSosZYoRmGFboC) | [The Mechanic](https://open.spotify.com/album/6nM5GG20TJqXEQ7Zivtw9K) | 0:29 | 2022-04-22 |  |
 | [The Obsidian](https://open.spotify.com/track/6txq59sHEmYV0AQ44WMz5X) | [Peter Bunnd](https://open.spotify.com/artist/2HDnhS2WhniwHOCQdGX60C) | [Take Me Anywhere](https://open.spotify.com/album/07NkbnWE7rwiykelukepYY) | 1:50 | 2022-04-22 |  |
 | [The Pappas](https://open.spotify.com/track/0n7UVP6hEStbS96Uugnyzs) | [High Low Row](https://open.spotify.com/artist/2ExRfiZkCF0b2AR8vdCqk8) | [Abracadabra](https://open.spotify.com/album/46HcVEDXqFXCD0uIbiqL0I) | 3:44 | 2022-04-22 |  |
 | [times two](https://open.spotify.com/track/7w3cLPdim2RnadPnIpvhMZ) | [bripp](https://open.spotify.com/artist/0d3thvBL4aAaPp5bFuHfrt) | [times two](https://open.spotify.com/album/3wTbVXU1Rqe9f2YXzUVs2v) | 2:42 | 2022-04-22 |  |

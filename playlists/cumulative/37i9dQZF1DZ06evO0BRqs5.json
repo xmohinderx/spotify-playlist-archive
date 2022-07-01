@@ -20,7 +20,7 @@
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 260693,
+      "duration_ms": 29048,
       "name": "AURORA",
       "url": "https://open.spotify.com/track/1j8GsYtk19jz7rtGdKuFYM"
     },
@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "BLAU",
+        "url": "https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 29048,
+      "name": "frozen eyez",
+      "url": "https://open.spotify.com/track/5JmkXY4tdcONIdXI1NDNjY"
+    },
+    {
+      "album": {
         "name": "D'AZUR",
         "url": "https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr"
       },
@@ -131,6 +149,24 @@
       "duration_ms": 278040,
       "name": "GENESIS",
       "url": "https://open.spotify.com/track/5qXYkYpk5e5rS07lU3USCC"
+    },
+    {
+      "album": {
+        "name": "BEST -E-",
+        "url": "https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236066,
+      "name": "HaNaZaKaRi",
+      "url": "https://open.spotify.com/track/5m4gR2VFdKCu9L9Hzw7fH9"
     },
     {
       "album": {
@@ -182,7 +218,7 @@
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 277320,
+      "duration_ms": 29048,
       "name": "INNOCENCE",
       "url": "https://open.spotify.com/track/0N63llGavaESfPRIZkDkvL"
     },
@@ -272,7 +308,7 @@
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 288173,
+      "duration_ms": 29048,
       "name": "MEMORIA",
       "url": "https://open.spotify.com/track/6qpGlLv9MHaChP5hEx6Pni"
     },
@@ -452,7 +488,7 @@
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 289346,
+      "duration_ms": 29048,
       "name": "\u30a2\u30f4\u30a1\u30ed\u30f3\u30fb\u30d6\u30eb\u30fc",
       "url": "https://open.spotify.com/track/67D8rjvrqjb8XoF9S1Pak7"
     },
@@ -505,7 +541,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 265906,
       "name": "\u30b5\u30c6\u30e9\u30a4\u30c8",
       "url": "https://open.spotify.com/track/6JVhxrEMzT2mWSNHWMhwFZ"
@@ -631,7 +667,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 279866,
       "name": "\u30d2\u30c8\u30ea\u30c8\u30d2\u30c8\u30ea",
       "url": "https://open.spotify.com/track/26YNGudhBMxEGkB8RluCHC"
@@ -650,7 +686,7 @@
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 266786,
+      "duration_ms": 29048,
       "name": "\u30d5\u30a7\u30a4\u30b9\u30ec\u30b9",
       "url": "https://open.spotify.com/track/7nshgkx5EE57GFPKu89x4y"
     },
@@ -668,7 +704,7 @@
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 302693,
+      "duration_ms": 29048,
       "name": "\u30e6\u30e1\u30bb\u30ab\u30a4",
       "url": "https://open.spotify.com/track/7MM3JGBeBLIK3zV6spGXji"
     },
@@ -722,7 +758,7 @@
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 285026,
+      "duration_ms": 29048,
       "name": "\u30ea\u30f3\u30c9\u30a6\u306e\u82b1",
       "url": "https://open.spotify.com/track/3jfBeW2K8C2Fer7Eu3Reef"
     },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AQIJcCkXwU.md) - [plain]
 
 > Sitar, flute, and sounds inspired by India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,897 likes - 95 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,064 likes - 95 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AQIJcCkXwU.md) - [plain]
 | 17 | [Indigo Sky](https://open.spotify.com/track/4KzvtA2qC064UtkxRVsBeE) | [Narmada Shore](https://open.spotify.com/artist/3560FDhIsM3cOYJufizogC) | [Inhale Exhale](https://open.spotify.com/album/0pjLFW61AV1xvnAaSkcEgU) | 3:32 |
 | 18 | [Sachetan](https://open.spotify.com/track/6nDSQdvkVHIWW9ga17UUnL) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Taaja Shaanti](https://open.spotify.com/album/5f81aZDQK5PHGOt7Mi4Iwm) | 3:01 |
 | 19 | [Meditation Mornings](https://open.spotify.com/track/5W4ANWiWKDqXSnAy5OMY7f) | [Zensi Rohr](https://open.spotify.com/artist/0hNw8GAS4OY89yOgEwj73C) | [Meditation Mornings](https://open.spotify.com/album/1zB1RPGJ3CromWAHcluklj) | 5:14 |
-| 20 | [Koodu Beat](https://open.spotify.com/track/3eWSufYeo9lVW9QvorDuPz) | [Qalander](https://open.spotify.com/artist/1fgzNEfvwvl89CVNprnohN) | [Koodu Beat](https://open.spotify.com/album/2HMB79pfnDfhWUtC3uosfV) | 3:35 |
+| 20 | [Koodu Beat](https://open.spotify.com/track/3eWSufYeo9lVW9QvorDuPz) | [Qalander](https://open.spotify.com/artist/1fgzNEfvwvl89CVNprnohN) | [Koodu Beat](https://open.spotify.com/album/2HMB79pfnDfhWUtC3uosfV) | 0:29 |
 | 21 | [Nectar Drop](https://open.spotify.com/track/3QbtJmJeeh8JE5EtAD1Eh0) | [DJ Drez](https://open.spotify.com/artist/5j3iObqG7iT7utWpTTmC7F) | [Jahta Beat: The Lotus Memoirs](https://open.spotify.com/album/61GQtLkHRdK3jmnm9aoAFZ) | 4:00 |
 | 22 | [The Berber of Seville \- The Berber of Suburbia Mix](https://open.spotify.com/track/0XUBsZjhee9fgmeVzLv92A) | [Bombay Dub Orchestra](https://open.spotify.com/artist/070RPr7Euzwf3yboA9Xp2U) | [Bombay Dub Orchestra](https://open.spotify.com/album/4vRhEwSJAPGam5L9qv9FAV) | 6:12 |
 | 23 | [Insitarament](https://open.spotify.com/track/26iz7w8tBeVwRsl6diypqN) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Sleeping Traveller](https://open.spotify.com/album/4b6wVl1CwuxytrRZ9gOLlT) | 4:00 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AQIJcCkXwU.md) - [plain]
 | 78 | [Videsh](https://open.spotify.com/track/45Doom4iSv6Z9NqPRFYAFd) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Shareer aur Aatma](https://open.spotify.com/album/4xykJYaWo23DQ0su2Z0F5t) | 3:45 |
 | 79 | [Mother's Wingspan](https://open.spotify.com/track/1AkzLojIonXnbbwujQZofk) | [Ben Leinbach](https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX) | [Devotion Collection 1 \- Blessings of the Heart](https://open.spotify.com/album/02CVgMWdeo6X7VfqajyEry) | 8:33 |
 | 80 | [Raga Hemavati \(Flute\)](https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Romantic Evening Ragas'](https://open.spotify.com/album/5nYb3oYwbDYkWyb85ShfyM) | 2:52 |
-| 81 | [Qalanderi](https://open.spotify.com/track/1EOrtwXZXYuZjR9ACjaxNO) | [Cheb i Sabbah](https://open.spotify.com/artist/1RTVukXrK45mKMIVFFEMM0) | [Devotion](https://open.spotify.com/album/6lPvH0V0rcrysdfNI3SStg) | 7:09 |
+| 81 | [Qalanderi](https://open.spotify.com/track/1EOrtwXZXYuZjR9ACjaxNO) | [Cheb i Sabbah](https://open.spotify.com/artist/1RTVukXrK45mKMIVFFEMM0) | [Devotion](https://open.spotify.com/album/6lPvH0V0rcrysdfNI3SStg) | 0:29 |
 | 82 | [Dance with the Gods](https://open.spotify.com/track/2CbuXkrjjd5SlbleoqUKhB) | [Mystic Flute](https://open.spotify.com/artist/6M39PKc1oDclJBcQVpOgyc) | [Vaayu \- Elemental Indian Bamboo Flute](https://open.spotify.com/album/7cNbb370gpMoNVvgKgTOJ7) | 10:59 |
 | 83 | [Bhairavi](https://open.spotify.com/track/4zttb0FMlcA1PO9h8mQ8ub) | [Amjad Ali Khan](https://open.spotify.com/artist/1IsvL603uF5ieIXYApKcnr) | [Instrumental India](https://open.spotify.com/album/0WjHwe8uVK8zjov0DlAypX) | 6:47 |
 | 84 | [Songs From the Seven Towers](https://open.spotify.com/track/05FWTD99Edbcn2WHakyk4w) | [Bombay Dub Orchestra](https://open.spotify.com/artist/070RPr7Euzwf3yboA9Xp2U) | [Tales From The Grand Bazaar](https://open.spotify.com/album/2Al6Kbhpuz7MTaffnffc17) | 7:58 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fWtUuB7bFE.md) - [plain]
 
 > New music from all\-time greats! Cover: Pink Floyd
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,882 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,939 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,13 +48,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fWtUuB7bFE.md) - [plain]
 | 38 | [At the Time of Writing](https://open.spotify.com/track/03LhcpuSs8yxoeo2tAIO5o) | [Midnight Oil](https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk) | [At the Time of Writing](https://open.spotify.com/album/3EIq7bunJJODwQnp922Z8a) | 4:39 |
 | 39 | [Touchline](https://open.spotify.com/track/2AZVRikFuNWo0H8P85Xzmx) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Tears Of Hercules](https://open.spotify.com/album/2sjLgnR7JeVPRayrFoYjHs) | 3:55 |
 | 40 | [End Of Night](https://open.spotify.com/track/2mOzVvURATXmEU64DANxDr) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Tipping Point](https://open.spotify.com/album/6xKxlHD3mWkKoMtl3ZVyLt) | 3:23 |
-| 41 | [We're All Just Trying To Get By](https://open.spotify.com/track/0MScNXn0DvA1HXlndSiq5p) | [Roger Taylor](https://open.spotify.com/artist/2PZEd7yktruWruOqORRChA), [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [We’re All Just Trying To Get By](https://open.spotify.com/album/1UF5v2Zq76v4GLUamIfoMB) | 2:52 |
+| 41 | [We're All Just Trying To Get By](https://open.spotify.com/track/0MScNXn0DvA1HXlndSiq5p) | [Roger Taylor](https://open.spotify.com/artist/2PZEd7yktruWruOqORRChA), [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [We’re All Just Trying To Get By](https://open.spotify.com/album/1UF5v2Zq76v4GLUamIfoMB) | 0:29 |
 | 42 | [Coming Undone](https://open.spotify.com/track/5OCiXLk65pqIM793HtmJfT) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Change The World](https://open.spotify.com/album/6APtDR2O7RrsZiDCXKXkyg) | 3:20 |
 | 43 | [Don't Ya Mess With Me](https://open.spotify.com/track/3VJIfLCvM1wF7LQCSrU0td) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Liberté](https://open.spotify.com/album/2n0oR2fuj2Wzmv6r4LM1tn) | 3:32 |
 | 44 | [Come To The Ball](https://open.spotify.com/track/03RJy09l9XuJZGmixPt7QQ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(Super Deluxe\)](https://open.spotify.com/album/3RWlnnrGMHsNWrgRXPUESk) | 3:40 |
 | 45 | [Mrs Tibbets](https://open.spotify.com/track/5LRMWTguCQZKwSz2bFvT6P) | [Jethro Tull](https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R) | [The Zealot Gene](https://open.spotify.com/album/2stNMfjktG7XPoCmfKACOC) | 5:52 |
 | 46 | [Future Memories](https://open.spotify.com/track/7hPKHjWDp2vmPEg6TCtjuP) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [The Quest](https://open.spotify.com/album/5mJQGS0NqD41OGyM77vIX9) | 5:07 |
-| 47 | [Act of Love](https://open.spotify.com/track/6Kn6kjrz2UL5obNi2q4Uto) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Act of Love](https://open.spotify.com/album/5uALptibEa9zDZYmMj8ICg) | 4:02 |
+| 47 | [Act of Love](https://open.spotify.com/track/6Kn6kjrz2UL5obNi2q4Uto) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Act of Love](https://open.spotify.com/album/5uALptibEa9zDZYmMj8ICg) | 0:29 |
 | 48 | [Can't Help Thinking About Me](https://open.spotify.com/track/2MZykOE6SZ4uWxKrgdGoq8) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Can’t Help Thinking About Me](https://open.spotify.com/album/5VNFo7F2uZtXYmpW2uu4Cp) | 3:25 |
 | 49 | [Rita Hayworth](https://open.spotify.com/track/6aAUQ7sAPSDRcptxjc10yR) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [The Roadside](https://open.spotify.com/album/0lN5UgPT1v2XTboGOQXszX) | 3:05 |
 | 50 | [AM Gold](https://open.spotify.com/track/6ttjTA8589PqK8DF9SBEC7) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [AM Gold](https://open.spotify.com/album/1zTCggliz6km8kM63FIqI9) | 2:49 |

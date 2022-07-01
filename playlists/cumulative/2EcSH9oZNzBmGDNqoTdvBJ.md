@@ -4,7 +4,7 @@
 
 > We married women only seem to have about four taste buds left: one for vodka, one for wine, one for cheese, and one for chocolate\. This list is for us\. Add friends, uncork, and enjoy.
 
-53 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/7KLZwMt9r8UIRajQ7UtCri)
+53 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/7KLZwMt9r8UIRajQ7UtCri)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Fighter](https://open.spotify.com/track/7nXq1vaZiz7PdbfojpPjW5) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 4:05 | 2016-11-16 |  |
 | [Free Me](https://open.spotify.com/track/6d0vbMqRYsYlOMPdON03zi) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Free Me](https://open.spotify.com/album/2l6HC3CseKfVHFCxO6wt75) | 3:53 | 2016-11-16 |  |
 | [Get the Party Started](https://open.spotify.com/track/1lkC6oC7SbwgnEBEC05r64) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Greatest Hits...So Far!!!](https://open.spotify.com/album/3nR5vEcIp8UzOJgkw8G8yX) | 3:12 | 2016-11-16 |  |
-| [Girlfriend](https://open.spotify.com/track/5HbCnVLXRyZVxnreOPgJCK) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing](https://open.spotify.com/album/5dfbrFuG8lfC4Yi75J8NmK) | 3:36 | 2016-11-16 |  |
+| [Girlfriend](https://open.spotify.com/track/5HbCnVLXRyZVxnreOPgJCK) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing](https://open.spotify.com/album/5dfbrFuG8lfC4Yi75J8NmK) | 0:29 | 2016-11-16 |  |
 | [Give A Little Bit](https://open.spotify.com/track/6gQRKtSiZ8d3zgy9Hn10py) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Gold / Retrospectacle \- The Supertramp Anthology](https://open.spotify.com/album/6l0nJOeHmQrGuFT2OFbYQp) | 4:08 | 2016-11-16 |  |
 | [Go Your Own Way](https://open.spotify.com/track/0FeCO85RKW8fDRytwXof2x) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/63k57x0qOkUWEMR0dkMivh) | 3:38 | 2016-11-16 |  |
 | [Groove Is in the Heart](https://open.spotify.com/track/2UVLuddklEVak5PXgC7baA) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [Rhino Hi\-Five: Deee\-Lite](https://open.spotify.com/album/5ONmarDtpkKbrlhu0p83XM) | 3:51 | 2016-11-16 |  |

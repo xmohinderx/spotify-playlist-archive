@@ -4,7 +4,7 @@
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: THEMOONWILLALWAYSBEWITHME
 
-130 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/46jC5TDLIJijd5c6Z3EIRR)
+130 songs - 7 hr 58 min - [published](https://open.spotify.com/playlist/46jC5TDLIJijd5c6Z3EIRR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [เผื่อว่าจะพบเธอสักวัน](https://open.spotify.com/track/3Tzztaw6T9gtOsitE8A4dh) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [เผื่อว่าจะพบเธอสักวัน](https://open.spotify.com/album/5gZYy0eAVTbNN47UAbfj5S) | 4:38 | 2022-06-23 |  |
 | [เพลงนี้ชื่อว่าเธอ \(From KinnPorsche The Series\)](https://open.spotify.com/track/0qKYQGK62HSNiSih00ySjL) | [Barcode Tinnasit Isarapongporn](https://open.spotify.com/artist/7kBYXxfsNkiMGawDOsvE67) | [เพลงนี้ชื่อว่าเธอ \(From KinnPorsche The Series\)](https://open.spotify.com/album/6Kb4XkS1pGS8O7nWmQVASk) | 3:59 | 2022-06-09 | 2022-06-24 |
 | [เพื่อนเล่น ไม่เล่นเพื่อน \(Just Being Friendly\)](https://open.spotify.com/track/19KNYtZF0xP7VCIItvGSJZ) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH), [MILLI](https://open.spotify.com/artist/15D6XEjr6LVGGc6dNmS2yz) | [เพื่อนเล่น ไม่เล่นเพื่อน \(Just Being Friendly\) \[feat\. MILLI\]](https://open.spotify.com/album/1aO65qDUbY2vJWXYzHP2vj) | 3:39 | 2022-05-26 |  |
-| [เมะ](https://open.spotify.com/track/1M2XakpRDkxjiuCirVPD8c) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [เมะ](https://open.spotify.com/album/6ItJnQ1PwIOS9tqdaVc3Kw) | 3:06 | 2022-05-26 |  |
+| [เมะ](https://open.spotify.com/track/1M2XakpRDkxjiuCirVPD8c) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [เมะ](https://open.spotify.com/album/6ItJnQ1PwIOS9tqdaVc3Kw) | 0:29 | 2022-05-26 |  |
 | [เหล่ท่อ](https://open.spotify.com/track/1mfmYnbNhK574LYK23dZOB) | [Copter](https://open.spotify.com/artist/4UCR7MZYvPa4fdyKGI4itd) | [เหล่ท่อ](https://open.spotify.com/album/6yNmCQx2RcSytSTbDCaAfE) | 3:03 | 2022-06-02 | 2022-06-10 |
 | [เอาปากกามาวง](https://open.spotify.com/track/4aDz9NTsLULSvewSLg8lih) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [เอาปากกามาวง](https://open.spotify.com/album/7HadcYAjeZGgkiCg0WnPnm) | 3:24 | 2022-05-26 |  |
 | [แค่เงา \(Hide\)](https://open.spotify.com/track/33JnDNgKlExUckYH3xK78n) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [แค่เงา \(Hide\)](https://open.spotify.com/album/1mulr04By8ZaH9h0dL9Hnj) | 3:36 | 2022-05-26 | 2022-06-10 |

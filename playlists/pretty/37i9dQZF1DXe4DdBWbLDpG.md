@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4DdBWbLDpG.md) - [plain]
 
 > Revive las mejores batallas, y descubre música original de los participantes\. Foto: Aczino
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,485 likes - 77 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,902 likes - 77 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4DdBWbLDpG.md) - [plain]
 | 70 | [Dime La Verdad](https://open.spotify.com/track/5Vt9ZODPI2UUdcy2fhHu7k) | [RVS](https://open.spotify.com/artist/6ZAaL51t20ryEyzYYwb3OM), [Jay Kendall](https://open.spotify.com/artist/6k8ok40gQMh2WvIjbFgix1), [Cehzar](https://open.spotify.com/artist/2VcROjgvAPmuYEICxUCC50), [Snk](https://open.spotify.com/artist/2rtJjA8INHQwuEsTkFltuE) | [aRVieS](https://open.spotify.com/album/5NRTipziyYMR5AZMqQhiv3) | 3:57 |
 | 71 | [Ghostwriter](https://open.spotify.com/track/0G8oTd28EThUZKhXA0v1BR) | [Noult](https://open.spotify.com/artist/3pEg5A0xKzvlsLKLSOuN6K) | [Ghostwriter](https://open.spotify.com/album/3PY7X6PCfoZemzsnlvxU1I) | 3:04 |
 | 72 | [Abraza Tus Sueños](https://open.spotify.com/track/0RaX02e0DW6akaeG88KT9K) | [Invert](https://open.spotify.com/artist/5Ybbt6iZw0TGWhwM13qB4T) | [Noches de Insomnio](https://open.spotify.com/album/7I8AMuSBDnvei9M2qRkkdJ) | 2:35 |
-| 73 | [Otro Intento Más](https://open.spotify.com/track/56K06SR4qLBtFWMuz4A45v) | [Arkano](https://open.spotify.com/artist/5ACyfaynUH9FpBaR8uZprQ) | [Otro Intento Más](https://open.spotify.com/album/0OEojMGaIwaXxZydGSXoep) | 3:10 |
+| 73 | [Otro Intento Más](https://open.spotify.com/track/56K06SR4qLBtFWMuz4A45v) | [Arkano](https://open.spotify.com/artist/5ACyfaynUH9FpBaR8uZprQ) | [Otro Intento Más](https://open.spotify.com/album/0OEojMGaIwaXxZydGSXoep) | 0:29 |
 | 74 | [Por Voluntad del Rap](https://open.spotify.com/track/1yjhlFLnKilB3ckQhEOMvr) | [Frescolate](https://open.spotify.com/artist/7LhS5MAxivPw1eoOvDnmJg), [Omega](https://open.spotify.com/artist/2jFXKAH9A9H8lVnJkkLxXl), [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv) | [R.A.P.](https://open.spotify.com/album/0bpsigdGjChHUj3z1p09h4) | 3:43 |
 | 75 | [Bendito \(feat\. Lit Killah & Papatinho\)](https://open.spotify.com/track/0sb3TfCEIZ0mE7BYTlghEe) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Bendito \(feat\. Lit Killah & Papatinho\)](https://open.spotify.com/album/6hCgufIEKuVXxOGr9SG48t) | 2:20 |
 | 76 | [Edición Limitada](https://open.spotify.com/track/2H6O43eTlj6egjWasfsB13) | [aiSHO](https://open.spotify.com/artist/2vDJuQu4zg55P1XdbSl0cb), [Noult](https://open.spotify.com/artist/3pEg5A0xKzvlsLKLSOuN6K) | [Edición Limitada](https://open.spotify.com/album/7ifdi6VLROvvQp5PLN87pJ) | 3:14 |

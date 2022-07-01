@@ -4,12 +4,12 @@
 
 > Songs by Asian Americans calling for self\-empowerment, self\-determination, solidarity, and fighting erasure\. Built in partnership with <a href="https://hateisavirus.org/">Hate Is A Virus</a> & <a href="https://www.traktivist.com/">TRAKTIVIST</a>.
 
-48 songs - 3 hr 4 min - [published](https://open.spotify.com/playlist/2FvEkfftaPKO88puFMO8ny)
+48 songs - 3 hr 0 min - [published](https://open.spotify.com/playlist/2FvEkfftaPKO88puFMO8ny)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Thousand Cuts](https://open.spotify.com/track/3BeSIS2pBi5ixg580Gy57U) | [Ruby Ibarra](https://open.spotify.com/artist/5y1a3x8WQZLTsmLPowFnkj), [Ann One](https://open.spotify.com/artist/0gbdUzudCwdzxynH0YSqhI) | [A Thousand Cuts](https://open.spotify.com/album/4rAVxJD6qAOsyEVBRKVOAQ) | 5:12 | 2021-06-11 |  |
-| [Americana](https://open.spotify.com/track/7MyDbHnlwF0r1hs88P2JmP) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Baby, I'm Hollywood!](https://open.spotify.com/album/5BcZjjb4BdRqZqgEPgcjzx) | 4:10 | 2021-06-11 |  |
+| [Americana](https://open.spotify.com/track/7MyDbHnlwF0r1hs88P2JmP) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Baby, I'm Hollywood!](https://open.spotify.com/album/5BcZjjb4BdRqZqgEPgcjzx) | 0:29 | 2021-06-11 |  |
 | [ANTI](https://open.spotify.com/track/2zUUOybKU31DTi0KQDTrZS) | [Lyrics Born](https://open.spotify.com/artist/3X3DHASP1G1waqVoEDWMHr) | [ANTI](https://open.spotify.com/album/0Dlk0omQR8leb3qZZzO02O) | 3:27 | 2021-06-11 |  |
 | [Ashes](https://open.spotify.com/track/3zzM7JOyu35WTR0k1QFvcl) | [Uzuhan](https://open.spotify.com/artist/2KG9Jkvp7Y5wvaMjCcIu37), [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [Ashes](https://open.spotify.com/album/5XwW5Zz78gCg6Eyw3NwSo8) | 3:27 | 2021-06-11 |  |
 | [Beautiful \(feat\. Ruby Ibarra\)](https://open.spotify.com/track/6XBX6AjzXMqg0le8huwMg9) | [Jason Chu](https://open.spotify.com/artist/4iYrlt4ga3CGYF7Z2mUDxV), [Alan Z](https://open.spotify.com/artist/2sSwCAZDFSHkjrhh6M0ycx), [Ruby Ibarra](https://open.spotify.com/artist/5y1a3x8WQZLTsmLPowFnkj) | [Face Value](https://open.spotify.com/album/1K78QdpLozITjad2U5vZ2V) | 2:24 | 2021-06-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 
 > ¡Música urbana representando a Cuba! Cover: Gente de Zona
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,427 likes - 68 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,472 likes - 68 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 | 52 | [Focking Nigga](https://open.spotify.com/track/3K5kIXRD9l9bEyraHIMagK) | [Yomil y El Dany](https://open.spotify.com/artist/2eQMfQXKQGV98HKiCOB7en) | [Doping](https://open.spotify.com/album/7b9WFowDYXFj0UVbv3c21j) | 3:31 |
 | 53 | [Los Kilas \(feat\. El Príncipe\)](https://open.spotify.com/track/5AexWlXMbKMDyRvTu2xerS) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Principe](https://open.spotify.com/artist/43J5P5npUUGL7DdIi7Mut4) | [El Inmortal](https://open.spotify.com/album/2G2jtQfZVKDTHiMjUIVg7D) | 3:09 |
 | 54 | [No Me Afecta](https://open.spotify.com/track/4a2k1d0lKgxKkWIygmADsv) | [Yomil y El Dany](https://open.spotify.com/artist/2eQMfQXKQGV98HKiCOB7en) | [Sólido](https://open.spotify.com/album/1lSt8wSoQSMdC41mY7DpsU) | 3:17 |
-| 55 | [Mio y Tuyo](https://open.spotify.com/track/2jFCB5MGjDdiKQIQgHvVps) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp) | [Mio y Tuyo](https://open.spotify.com/album/4LuzWKkxWb7Ug4MIp6KPHE) | 3:46 |
+| 55 | [Mio y Tuyo](https://open.spotify.com/track/2jFCB5MGjDdiKQIQgHvVps) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp) | [Mio y Tuyo](https://open.spotify.com/album/4LuzWKkxWb7Ug4MIp6KPHE) | 0:29 |
 | 56 | [Me enamoré \(feat\. El Micha\)](https://open.spotify.com/track/65ARgdo0P4TlRtOSWnySOv) | [Angeles](https://open.spotify.com/artist/6wBGoSXRW9KedGG0UC7cGl), [El Micha](https://open.spotify.com/artist/0pO8RrpXcdntlacMGW9oS4) | [Me Enamoré \(feat\. El Micha\)](https://open.spotify.com/album/3sfMAcwar5uU33JsiMwQFk) | 3:19 |
 | 57 | [Jala Jala](https://open.spotify.com/track/7bDl3llKm7u0MrcuiUsMwK) | [Yomil y El Dany](https://open.spotify.com/artist/2eQMfQXKQGV98HKiCOB7en) | [Sobredosis](https://open.spotify.com/album/6TCORScO7wTD6n5yeOXVx5) | 3:41 |
 | 58 | [La Habana \(with Pinto "Wahin" & DJ Ricky Luna feat\. El Taiger\)](https://open.spotify.com/track/14bJVacqCwgK7QhEe5mFZw) | [Pinto “Wahin”](https://open.spotify.com/artist/3h3AWIF6JCWTRB5cr5wp55), [DJ Ricky Luna](https://open.spotify.com/artist/41EN0ZREKu3QnW9N0kre0K), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf) | [Fast & Furious 8: The Album](https://open.spotify.com/album/4AVogX4JTiGvjt1EsEjDtT) | 2:44 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 | 62 | [Quiéreme](https://open.spotify.com/track/649tz8MtbCHSTEzNBw7c1Q) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp) | [Invicto](https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh) | 3:11 |
 | 63 | [Tenemos El Control \(feat\. Jorge Jr & Los 4\)](https://open.spotify.com/track/7zKXVAALHOZPmKeQxLTwam) | [Srta\. Dayana](https://open.spotify.com/artist/3CeHl9feqxRIV99dtatz6W), [Jorge Jr.](https://open.spotify.com/artist/4rTOPh4U5GgLw0sVViorhV), [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Tenemos El Control \(feat\. Jorge Jr & Los 4\)](https://open.spotify.com/album/15Lnc1Yh5SK47FcS5cVRKo) | 3:48 |
 | 64 | [Noche de Brujas \(Las Feas\)](https://open.spotify.com/track/2mcqH0c5ZeEsbeMZ4HU9Ye) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Noche de Brujas \(Las Feas\)](https://open.spotify.com/album/15eM51mqnISjks3ODACYlM) | 3:38 |
-| 65 | [Tu de Que Vas](https://open.spotify.com/track/6vElrorgVSjGQIdXgGwIbO) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Los Exitos](https://open.spotify.com/album/6SVZmGEBS8LfEzMFEuF8Gm) | 4:22 |
+| 65 | [Tu de Que Vas](https://open.spotify.com/track/6vElrorgVSjGQIdXgGwIbO) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Los Exitos](https://open.spotify.com/album/6SVZmGEBS8LfEzMFEuF8Gm) | 0:29 |
 | 66 | [Volvere Junto a Ti](https://open.spotify.com/track/00mhWSGsOidu8YVEWiwqDV) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [X+ \(Deluxe Edition\)](https://open.spotify.com/album/1pFGaaejCIj06DhPW5r7H7) | 3:48 |
 | 67 | [Bla Bla Bla](https://open.spotify.com/track/1j7gz0GQdnBjxySqB8DAK7) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Latin Hits 2015 Club Edition \- 60 Latin Music Hits \(Salsa, Bachata, Dembow, Merengue, Reggaeton, Urbano, Timba, Cubaton, Kuduro, Latin Fitness\)](https://open.spotify.com/album/5vgDG3G3YEENAKiZv0bbOY) | 3:32 |
 | 68 | [Cubaton](https://open.spotify.com/track/4bHNliUdG1EDk3O29Usvjn) | [Osmani Garcia "La Voz"](https://open.spotify.com/artist/37G8DfNgO4mQ3PKh5droSo) | [Cubaton](https://open.spotify.com/album/1Npp9LzY0iyDiL7y7kEuUi) | 3:18 |

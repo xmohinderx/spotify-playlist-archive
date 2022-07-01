@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2hirOuzhv3EK3AgEV2nKZn.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 68 likes - 15 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 68 likes - 15 songs - 57 min 49 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/2hirOuzhv3EK3AgEV2nKZn.md) - [plain]
 | 2 | [Le Flying Saucer Hat](https://open.spotify.com/track/3rbV20e5zoulQoj3uPbDvd) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Does You Inspire You](https://open.spotify.com/album/3JuIBAoHi6gUmS3tgF4CPg) | 3:17 |
 | 3 | [Ascot](https://open.spotify.com/track/7k1201dEGp3VsiGwCUo2bR) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Original Album Classics](https://open.spotify.com/album/4LmJmpUFSDO2iz6pEXcDKO) | 1:52 |
 | 4 | [Blue Hat for a Blue Day](https://open.spotify.com/track/6tmPGn3YaLKHSDin9XmrKZ) | [Nick Heyward](https://open.spotify.com/artist/2DmyIp3IBWUwRukba22G3n) | [Essential 80s \- Classic Eighties Pop And Rock Hits](https://open.spotify.com/album/61D7IT0EC6PaQ25e4HNXXu) | 4:00 |
-| 5 | [Ascot Dream](https://open.spotify.com/track/7HWSFt4HdDc64EyhhW2mIc) | [Piero Piccioni](https://open.spotify.com/artist/2WPn0emjr8XPmMOT0bBcPe) | [Fumo Di Londra](https://open.spotify.com/album/4OSFYtiUeJmImSrhytWeoL) | 3:20 |
+| 5 | [Ascot Dream](https://open.spotify.com/track/7HWSFt4HdDc64EyhhW2mIc) | [Piero Piccioni](https://open.spotify.com/artist/2WPn0emjr8XPmMOT0bBcPe) | [Fumo Di Londra](https://open.spotify.com/album/4OSFYtiUeJmImSrhytWeoL) | 0:29 |
 | 6 | [Hat Full of Stars](https://open.spotify.com/track/7HSQKwnJaeISGPJKUFjJyh) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [True Colors: The Best Of Cyndi Lauper](https://open.spotify.com/album/3ob0XVPoKBjrOjg0mf3zN3) | 4:29 |
 | 7 | [Ascot Enclosure](https://open.spotify.com/track/2kPLUSlkTbNIm5s9GDCWAa) | [Peter Yorke](https://open.spotify.com/artist/356KdDxPATOYtRwDL6edO2) | [Retrospection Volume 1](https://open.spotify.com/album/0E12hVqS9ZDgs33SXEAmpT) | 3:01 |
 | 8 | [Lady In The Red Hat \- 2004 Digital Remaster](https://open.spotify.com/track/10fDpfuAaocVMiElXC3XjA) | [Michael Nyman](https://open.spotify.com/artist/2LvhyFvUCDJ7gFuEBOcrM8) | [Michael Nyman \- Peter Greenaway Film Music](https://open.spotify.com/album/4S7bm9WEzfMatHFok770FD) | 4:18 |

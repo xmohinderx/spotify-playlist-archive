@@ -4,7 +4,7 @@
 
 > Las más escuchadas en la ciudad de la furia.
 
-45 songs - 3 hr 23 min - not published yet
+45 songs - 3 hr 18 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Imágenes Retro \- Remasterizado 2007](https://open.spotify.com/track/3bZjHYomeILmtQElz5VNqp) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Nada Personal \(Remastered\)](https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs) | 3:49 | 2020-02-27 |  |
 | [Juegos De Seducción \- Me Verás Volver Gira 2007](https://open.spotify.com/track/4vhG7cFEGcKk3DdT1wKb7P) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Gira Me Verás Volver](https://open.spotify.com/album/4Sy7VzDS4j1MLIYF85grsZ) | 4:18 | 2020-02-27 |  |
 | [Lo Que Sangra \(La Cúpula\) \- Remasterizado 2007](https://open.spotify.com/track/1Ssg0m4YjM10XVTXlblIg0) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Doble Vida \(Remastered\)](https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4) | 4:33 | 2020-02-27 |  |
-| [Luna Roja \- Remasterizado 2007](https://open.spotify.com/track/0MHENKo7srNABaALyzrYlX) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Dynamo \(Remastered\)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) | 5:30 | 2020-02-27 |  |
+| [Luna Roja \- Remasterizado 2007](https://open.spotify.com/track/0MHENKo7srNABaALyzrYlX) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Dynamo \(Remastered\)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) | 0:29 | 2020-02-27 |  |
 | [Nada Personal \- Remasterizado 2007](https://open.spotify.com/track/4PBou1i63krEp3jKCPhxVD) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Nada Personal \(Remastered\)](https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs) | 4:52 | 2020-02-27 |  |
 | [No Existes \- Remasterizado 2007](https://open.spotify.com/track/6MIDQPurdLJgq5Tg6wM6xy) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Signos \(Remastered\)](https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi) | 4:43 | 2020-02-27 |  |
 | [Paseando Por Roma \- Remasterizado 2007](https://open.spotify.com/track/7Dk43uYcLammTOb4kS7Q9g) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Sueño Stereo \(Remastered\)](https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg) | 3:34 | 2020-02-27 |  |

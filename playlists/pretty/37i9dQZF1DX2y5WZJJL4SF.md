@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y5WZJJL4SF.md) - [plain]
 
 > Soft and calm renditions of songs for harp.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,506 likes - 127 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,521 likes - 127 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y5WZJJL4SF.md) - [plain]
 | 12 | [The Button Song](https://open.spotify.com/track/0FByOKDOnsN5oYIhGjgc8B) | [Tylar Attwood](https://open.spotify.com/artist/6xqjq2PyUby1Ztzel0o3vD) | [The Button Song](https://open.spotify.com/album/33NUTNBNe4YiY8mbZpG8ir) | 1:04 |
 | 13 | [Brahms Lullaby](https://open.spotify.com/track/3F9MddqpygKDUUkIqcydsT) | [Michaela Quinn](https://open.spotify.com/artist/7cW08KYG0Liawn96x7fAXX) | [Bedtime Stories](https://open.spotify.com/album/475sNo7ki5mekQ8eOsyepB) | 1:25 |
 | 14 | [Pajama Time](https://open.spotify.com/track/2nIqwZQ8w0c0bP2IOGyhbT) | [Jonathan Behler](https://open.spotify.com/artist/0W4uCS7ueC32qLWzlz0jFh) | [Pajama Time](https://open.spotify.com/album/0mKeEcOqZK8ojLlO8RyDnt) | 1:39 |
-| 15 | [Hope And Love](https://open.spotify.com/track/3iMOGERyDXvAwtw2alVSW4) | [Hudson Hull](https://open.spotify.com/artist/5nAHYyaImYxFBWBConOC5o) | [Hope And Love](https://open.spotify.com/album/3ItHo9jqG5hpQc0ioaM984) | 1:07 |
+| 15 | [Hope And Love](https://open.spotify.com/track/3iMOGERyDXvAwtw2alVSW4) | [Hudson Hull](https://open.spotify.com/artist/5nAHYyaImYxFBWBConOC5o) | [Hope And Love](https://open.spotify.com/album/3ItHo9jqG5hpQc0ioaM984) | 0:29 |
 | 16 | [Counting All The Sheep](https://open.spotify.com/track/1LGOfdXDa7GQYv8MOq0AzM) | [Ophelia Dawson](https://open.spotify.com/artist/20EPW1ftqkwVe6P1g7GhWF) | [Lullabies](https://open.spotify.com/album/5mLPIk1JXzdlssRFT4v2fr) | 1:47 |
 | 17 | [Friendship](https://open.spotify.com/track/4HtLnFbQPAZLFWYh9l8ulM) | [Tibby Andrewson](https://open.spotify.com/artist/74Pwf4cFdOvPBXYqSO1LMe) | [Friendship](https://open.spotify.com/album/1oaqL17MaHwhRdiqspYD2d) | 1:39 |
 | 18 | [Das Zahnputzlied](https://open.spotify.com/track/4tJU7TE1Jwt7Nlil89lLUO) | [Frieda Ross](https://open.spotify.com/artist/4FRt5PBGXsp49kDLecV7CI) | [Das Zahnputzlied](https://open.spotify.com/album/4uW3B5iSpvK17bN7oLN0Nv) | 1:36 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y5WZJJL4SF.md) - [plain]
 | 27 | [With You By My Side](https://open.spotify.com/track/6UFjCV3KcMHjq4J96IVXrL) | [Brook Wilkie](https://open.spotify.com/artist/06YJLPH6EiVH60sOmPBszs) | [With You By My Side](https://open.spotify.com/album/4JTWjznbMaz9ALtqE4LLAw) | 1:48 |
 | 28 | [The Rabbits Journey](https://open.spotify.com/track/5FgLiliSIeSTsa6h3wzufU) | [Rod Parsons](https://open.spotify.com/artist/0t294nMoDXNQcR1vvnMgdh) | [The Rabbits Journey](https://open.spotify.com/album/194NKw4yZehjxHqICUfnlu) | 1:41 |
 | 29 | [Go the Distance](https://open.spotify.com/track/5mAtbHNvgNdQUICfdk5pIM) | [Gail Pearce](https://open.spotify.com/artist/0lSEF0q5lRRcn9599fxfeY) | [Go the Distance](https://open.spotify.com/album/06LMcXgAWJpLJI2lx5pVgg) | 1:20 |
-| 30 | [When You're Close](https://open.spotify.com/track/1dKbvhGqWVJA57xL2mHeg2) | [Amilia Weldon](https://open.spotify.com/artist/1514uPuTa2Z6370suTHi8O) | [When You're Close](https://open.spotify.com/album/5RmuqdBHiNMVckkLWS2tpP) | 2:02 |
+| 30 | [When You're Close](https://open.spotify.com/track/1dKbvhGqWVJA57xL2mHeg2) | [Amilia Weldon](https://open.spotify.com/artist/1514uPuTa2Z6370suTHi8O) | [When You're Close](https://open.spotify.com/album/5RmuqdBHiNMVckkLWS2tpP) | 0:29 |
 | 31 | [Cielito Lindo](https://open.spotify.com/track/1ENfUlH6xPOhdjbpfj0MYt) | [Uxue Pedrero](https://open.spotify.com/artist/4jpHoe2BkAVjQNPgepqZyN) | [Cielito Lindo](https://open.spotify.com/album/6VTja7mvP4IiBcXCAurU0X) | 1:31 |
 | 32 | [My Brother Charlie](https://open.spotify.com/track/6JuYU8DQl781m1J92vGVrC) | [Eliza Adam](https://open.spotify.com/artist/3pvPDX0ZInj5bKXW5vLEms) | [My Brother Charlie](https://open.spotify.com/album/4EYg235urjEzSmSCbypl2V) | 2:04 |
 | 33 | [Didn't Leave Nobody but the Baby](https://open.spotify.com/track/4Xk05CiaJyLvWc7GtTUQCv) | [Joana Watts](https://open.spotify.com/artist/1Hd2JLOIkYcfgaeRQjfxQW) | [Didn't Leave Nobody but the Baby](https://open.spotify.com/album/5dyehg0WjxqP8ZYayF1tV1) | 2:04 |
@@ -129,7 +129,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y5WZJJL4SF.md) - [plain]
 | 119 | [Spirit](https://open.spotify.com/track/5XECpuIjBhCVzF1dnx0qLg) | [Esmé Dean](https://open.spotify.com/artist/3AidWvpVrxSP3vCHDXqRHF) | [Spirit](https://open.spotify.com/album/5hJRqymE8HDPqkwYxw5ePA) | 2:11 |
 | 120 | [Süße Träume](https://open.spotify.com/track/0K6U4UeGHbYO2lgIvHeHkt) | [Beatrice Werner](https://open.spotify.com/artist/3RODO8LRNzu7ShXh3PMU3Z) | [Süße Träume](https://open.spotify.com/album/6XOMGeISXAGPrAN4BrvSqJ) | 1:35 |
 | 121 | [My Best Friend Bob](https://open.spotify.com/track/6GU8lcVUnQQh9Tumb2uIeR) | [Dodie Little](https://open.spotify.com/artist/6sE8hcdC14rNNo1NXuQ8sy) | [My Best Friend Bob](https://open.spotify.com/album/0omMrAr8zSXzokTTBqyM4Q) | 1:52 |
-| 122 | [Tuck You In \- Harp Version](https://open.spotify.com/track/5yvEPMUxyBEblRTmKDkX5W) | [Veronica Lindlom](https://open.spotify.com/artist/6MG7YNj5RIqSYJVDQP7YfZ) | [Tuck You In \(Harp Version\)](https://open.spotify.com/album/7k3DZ57Nyz1TvXC3Fx6lpo) | 1:30 |
+| 122 | [Tuck You In \- Harp Version](https://open.spotify.com/track/5yvEPMUxyBEblRTmKDkX5W) | [Veronica Lindlom](https://open.spotify.com/artist/6MG7YNj5RIqSYJVDQP7YfZ) | [Tuck You In \(Harp Version\)](https://open.spotify.com/album/7k3DZ57Nyz1TvXC3Fx6lpo) | 0:29 |
 | 123 | [Endnu en dag](https://open.spotify.com/track/6fL7itT01Wt99xDdkmkVhC) | [Saga Villadsen](https://open.spotify.com/artist/1cuFpoEhNxpI99ojgimE64) | [På en blomstereng](https://open.spotify.com/album/4d1F6hCt9yX8C3scF4QXdw) | 1:45 |
 | 124 | [Frances Flamingo](https://open.spotify.com/track/3qIALRjdK35omz1lCcMllw) | [Layla Malley](https://open.spotify.com/artist/2APHMT2p7Cp8GbJvaOfvk1) | [Frances Flamingo](https://open.spotify.com/album/5stM92omwSJQVBvf4jmOZN) | 1:31 |
 | 125 | [Giver of All Dreams](https://open.spotify.com/track/0L5Y4smsxJ2l4QJpbKfZRQ) | [Kim Wayne](https://open.spotify.com/artist/61rwfAiRHfG3L9DEvzUQoW) | [As You Fall Asleep](https://open.spotify.com/album/3Wh3lssmmWfvlTC3xouIXP) | 1:31 |

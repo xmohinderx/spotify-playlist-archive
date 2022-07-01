@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 32,395 likes - 99 songs - 5 hr 24 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 32,400 likes - 99 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 21 | [NVMD](https://open.spotify.com/track/7ArVzlFsFsQXNseVXmdOyk) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [NVMD](https://open.spotify.com/album/7loTzM9oCoxuoHXWs3crbd) | 3:01 |
 | 22 | [ALLERGIC](https://open.spotify.com/track/6DP8InyxdyYChHb2tcV6ia) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [ALLERGIC](https://open.spotify.com/album/2Ftd8lx8OfGra32bqFbu1f) | 2:35 |
 | 23 | [Mirror](https://open.spotify.com/track/6Vw4ccaarKN3ONAYPAC0R7) | [Hakkz](https://open.spotify.com/artist/1D7I4dxMMjjxxwpO90ezb1) | [Diary of a Litty Kid](https://open.spotify.com/album/2wksSYsvg254lDQNkx0yev) | 3:16 |
-| 24 | [Out In The O](https://open.spotify.com/track/6O5IFn25x2UsSjDzkhGaJo) | [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS) | [Out In The O](https://open.spotify.com/album/65vlxXW8XRny2aaCOXStT4) | 2:16 |
+| 24 | [Out In The O](https://open.spotify.com/track/6O5IFn25x2UsSjDzkhGaJo) | [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS), [OFB](https://open.spotify.com/artist/0koPE9U3b5XYArKa7R2TLm) | [Out In The O](https://open.spotify.com/album/65vlxXW8XRny2aaCOXStT4) | 2:16 |
 | 25 | [The Woods](https://open.spotify.com/track/5dzvsWBcAxt4onHIDYSDHz) | [Reignwolf](https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK), [Brad Wilk](https://open.spotify.com/artist/1kQiJ0OIEzwr1oVCSZ1Y6o) | [The Woods](https://open.spotify.com/album/1PJnVKmDtXcIT1zK3AE5Vn) | 2:53 |
 | 26 | [All I Know \- Radio Edit](https://open.spotify.com/track/2A3JujX4bi4jmgz4Dn0h4t) | [Nor Belgraad](https://open.spotify.com/artist/3eRUMNlfdcvxXMy6pVI14h) | [All I Know](https://open.spotify.com/album/0qyqQBEARrHCqPEBsdV0vg) | 3:36 |
 | 27 | [Cost Of Love](https://open.spotify.com/track/2hL7qMtwlB88RSOuRoWyxa) | [Bec Sandridge](https://open.spotify.com/artist/693lRFCUH8BNpURQO9RMpt) | [Cost Of Love](https://open.spotify.com/album/4Xeu454U4xhCQKAcrDw0WK) | 3:41 |

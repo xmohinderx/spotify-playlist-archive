@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-64 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/7t8EXLKd9MB1gi8kmzd2kR)
+64 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/7t8EXLKd9MB1gi8kmzd2kR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [I Want You \(Feat\. Sai Sen & SBF\)](https://open.spotify.com/track/7M58XwtXlqzuRvf25OnWy7) | [R3LL](https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5), [Sai Sen](https://open.spotify.com/artist/0ObVSKfdMjPuYydCBG4TX3), [Iamsbf](https://open.spotify.com/artist/21vmR8ceieOHaiCvuwlLpI) | [I Want You \(Feat\. Sai Sen & SBF\)](https://open.spotify.com/album/67B3KMyswV6p4zF49Sns8Y) | 2:57 | 2022-06-03 |  |
 | [Incorrect](https://open.spotify.com/track/4ytbLcGPlrnniNHxKOCV5u) | [Otira](https://open.spotify.com/artist/0rEj1VGJGJIxCn3H9B3kWb) | [Pill EP](https://open.spotify.com/album/4kvK5arUig0hxgylXxdKR8) | 2:54 | 2022-05-06 |  |
 | [Kanos](https://open.spotify.com/track/7DjifpgNrYVPKFcrb6vzqr) | [Heimanu](https://open.spotify.com/artist/01mvWXVNW6Gz5Oxf6bQrtM) | [Kanos](https://open.spotify.com/album/4ziuSY0MpYg3UwNoGqv5uf) | 3:36 | 2022-05-06 |  |
-| [Lights Out](https://open.spotify.com/track/0piqEtzcndLn6q4FTZMYGB) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [Psycho Boys Club](https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu) | [Lights Out](https://open.spotify.com/album/699pfQZ7g6XRHPeTC6Oxf0) | 3:18 | 2022-05-06 |  |
+| [Lights Out](https://open.spotify.com/track/0piqEtzcndLn6q4FTZMYGB) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [Psycho Boys Club](https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu) | [Lights Out](https://open.spotify.com/album/699pfQZ7g6XRHPeTC6Oxf0) | 0:29 | 2022-05-06 |  |
 | [Like It How It Is](https://open.spotify.com/track/2RisShAmmnAgsYcI659wgv) | [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Like It How It Is](https://open.spotify.com/album/0e5igAhmesSJMLTWr7nV1D) | 3:36 | 2022-05-06 |  |
 | [Loving You Kills Me](https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Loving You Kills Me](https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60) | 2:54 | 2022-05-06 | 2022-06-25 |
 | [Make Up Your Mind \(feat\. Jaden Michaels\)](https://open.spotify.com/track/4wVC0NP6WG1sTj29sIb6sR) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Jaden Michaels](https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs) | [Make Up Your Mind \(feat\. Jaden Michaels\)](https://open.spotify.com/album/22XrjW9n4gShkJVDP7YJEE) | 3:38 | 2022-05-06 |  |

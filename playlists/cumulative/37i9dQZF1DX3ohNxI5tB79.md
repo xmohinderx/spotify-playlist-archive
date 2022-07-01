@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes!
 
-111 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/6yQIOThlCsCLgZSW50o9Mt)
+111 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/6yQIOThlCsCLgZSW50o9Mt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [On the Hill](https://open.spotify.com/track/3aTv2MzcK17DfHzcUCyte1) | [Oliver Sain St\. Louis Breakdown](https://open.spotify.com/artist/4edwXsmUVRa8EneehcvoFE) | [St\. Louis Breakdown \- The Best of Oliver Sain](https://open.spotify.com/album/483oHnr24zOHgqbTDWCX9V) | 4:36 | 2021-12-13 | 2022-04-29 |
 | [Paradox](https://open.spotify.com/track/6XSQwisZPSsvumchd6u56q) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [Paradox](https://open.spotify.com/album/5mbJr9jfnfqPN8Vf9OKsIY) | 2:37 | 2022-02-22 |  |
 | [Perspective](https://open.spotify.com/track/5mc98yTbpJAwgpCGRRlB0l) | [Sy Smith](https://open.spotify.com/artist/4vGS9mc7YHh5Mpfd51X8MF) | [Sometimes a Rose Will Grow in Concrete](https://open.spotify.com/album/3chmdwfbZAG2YxZTtoTv6f) | 4:07 | 2021-12-13 |  |
-| [Pineapple](https://open.spotify.com/track/40TMWT4FHQKrbb6NgfWAJ5) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Nérija](https://open.spotify.com/artist/3alosBIW8nGb6TXqfM8wbI) | [Pineapple](https://open.spotify.com/album/3mNHIoFeYbiEHNnMjrcRQF) | 3:16 | 2021-12-13 |  |
+| [Pineapple](https://open.spotify.com/track/40TMWT4FHQKrbb6NgfWAJ5) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Nérija](https://open.spotify.com/artist/3alosBIW8nGb6TXqfM8wbI) | [Pineapple](https://open.spotify.com/album/3mNHIoFeYbiEHNnMjrcRQF) | 0:29 | 2021-12-13 |  |
 | [Pure Gold](https://open.spotify.com/track/3ZS0ao05ZDmPSO4q1riUf3) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [Pure Gold](https://open.spotify.com/album/3zjqX3wVedOOx9yRANaUTS) | 2:49 | 2022-04-28 |  |
 | [Rock a Nore](https://open.spotify.com/track/1ZjQEyOASgLvPNL7szbHzU) | [Palm Skin Productions](https://open.spotify.com/artist/36fOUxKPHF3Hi5SsB1T1lY) | [Other Times](https://open.spotify.com/album/18YUMGdFg0I4Lqa491CI7C) | 3:37 | 2022-05-17 |  |
 | [Say It](https://open.spotify.com/track/6KFpDUBxj4dQRiBcdpSQvT) | [Papik](https://open.spotify.com/artist/5Wh262aq2cDPRXCljNooc4), [Alan Scaffardi](https://open.spotify.com/artist/77K1Ud04no7BEcBvPbeXMg) | [Say It](https://open.spotify.com/album/2mCFYdV7UuzzmBVSJ0znCr) | 3:29 | 2021-12-13 |  |
@@ -86,7 +86,7 @@
 | [Smile](https://open.spotify.com/track/0Rliuj2FRErOzjvSSKTGLd) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/0CzFk2RSGJjhXLEGhk6K1E) | 3:49 | 2021-12-13 |  |
 | [Smooth Move](https://open.spotify.com/track/6WFwC46XQapcmnToEcromu) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Smooth Move](https://open.spotify.com/album/6o9IZz9yXexSURHtYenXSa) | 5:16 | 2021-12-13 |  |
 | [Soul Food](https://open.spotify.com/track/445dqIqkN3pgi73mldzj4K) | [Viceroy](https://open.spotify.com/artist/5PzC9pOeviQlNF6iGlUF5C) | [Soul Food](https://open.spotify.com/album/2htOZn8am6ef2XY9FVWusV) | 2:53 | 2021-12-13 | 2022-05-18 |
-| [Soul Sista \- Remix / From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/54SqlaPV5mzRTBBWdnE1OO) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs), [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [Queen & Slim: The Soundtrack](https://open.spotify.com/album/3KkAi988nPkzw0FOrXTBfM) | 5:39 | 2021-12-28 |  |
+| [Soul Sista \- Remix / From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/54SqlaPV5mzRTBBWdnE1OO) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs), [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [Queen & Slim: The Soundtrack](https://open.spotify.com/album/3KkAi988nPkzw0FOrXTBfM) | 0:29 | 2021-12-28 |  |
 | [Status Quo](https://open.spotify.com/track/5Rc3pgfumRrE6b67rBAsi2) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Underneath the Surface](https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35) | 3:56 | 2021-12-13 |  |
 | [Still Broke \- Keyon's Cocktail Mix](https://open.spotify.com/track/6sBYTq8zxSBhLv41bmFE9k) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Still Broke \(Keyon's Cocktail Mix\)](https://open.spotify.com/album/61T2Innvsx72ubByEcKtUx) | 3:57 | 2021-12-13 |  |
 | [Strength](https://open.spotify.com/track/0nnocliX58UkQQf0Ayl2kU) | [The RH Factor](https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr) | [Strength](https://open.spotify.com/album/4Huxzz9yjgdsDS0V2zQS19) | 4:38 | 2021-12-13 |  |

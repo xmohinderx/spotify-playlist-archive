@@ -4,7 +4,7 @@
 
 > and why aren't you in uniform?
 
-145 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/1rO8B2vsAs9SO6ZWOsVe5g)
+145 songs - 7 hr 52 min - [published](https://open.spotify.com/playlist/1rO8B2vsAs9SO6ZWOsVe5g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [All My Girls Like To Fight](https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [All My Girls Like To Fight](https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl) | 3:52 | 2021-08-05 |  |
 | [Antidote](https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [A Collection of Fleeting Moments and Daydreams](https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof) | 2:49 | 2021-08-05 |  |
 | [ARE YOU WITH THAT?](https://open.spotify.com/track/5OFEJMirg4NPz7G1zgXDYu) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Vince Staples](https://open.spotify.com/album/2suR5CCbtL2Wq8ShFo8rFr) | 2:18 | 2021-08-05 |  |
-| [Back Pocket](https://open.spotify.com/track/1DrlLvlYd1FIjNavRm6NdX) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [Thrill of the Arts](https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7) | 3:01 | 2021-08-05 |  |
+| [Back Pocket](https://open.spotify.com/track/1DrlLvlYd1FIjNavRm6NdX) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [Thrill of the Arts](https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7) | 0:29 | 2021-08-05 |  |
 | [Back3School](https://open.spotify.com/track/43E43pV0i2j2PmRz9XfOzH) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [All Day Gentle Hold !](https://open.spotify.com/album/1BRyY6DlapTBq48ytvfY10) | 2:37 | 2021-11-19 | 2022-05-20 |
 | [bad dream](https://open.spotify.com/track/1rNivTOt4vBbta3vYWruTL) | [reptilelegit](https://open.spotify.com/artist/3eEJnQZUZcQDjJLkBiqQMd) | [bad dream](https://open.spotify.com/album/7eL4zkRptGACvb00H6wjvv) | 2:53 | 2022-01-21 |  |
 | [Bad Dream Baby](https://open.spotify.com/track/4S7misxIYuUVypO0NwDwuW) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Bad Dream Baby](https://open.spotify.com/album/1TBnwPS0Mbn5DsRNeSlvrR) | 2:58 | 2021-08-05 |  |

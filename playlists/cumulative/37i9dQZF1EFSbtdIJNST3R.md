@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7jxyICEEsUhq8zyP6jPGzM">Sigourney Korper</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-30 songs - 1 hr 25 min - [published](https://open.spotify.com/playlist/2E8TvLmzFqM3KDRn4gYfOe)
+31 songs - 1 hr 28 min - [published](https://open.spotify.com/playlist/2E8TvLmzFqM3KDRn4gYfOe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Love](https://open.spotify.com/track/6BpRusupbO3jjx89yQkuer) | [B\-Brave](https://open.spotify.com/artist/6m9HyOTTtMQ8fFrLeJyuNV) | [De Eerste Date](https://open.spotify.com/album/0M2THL33puKb2LJ4lvRrJj) | 3:37 | 2022-05-25 |  |
 | [Ongelofelijk](https://open.spotify.com/track/09xShRjUnJyJe1nFm0qS14) | [Aliyah](https://open.spotify.com/artist/7E7VmEW6CxpkGNipjVQywD) | [Ongelofelijk](https://open.spotify.com/album/1b34dfAabmWlwMT9U7mqH5) | 3:39 | 2022-05-25 |  |
 | [Piet Pyama Party](https://open.spotify.com/track/53ufLC1lzbZwvpUs4Sl6YA) | [De Club Van Sinterklaas](https://open.spotify.com/artist/4GaAzGCRu6rYPmVDn3iEJ1), [KADO](https://open.spotify.com/artist/3Q00kkvihGYh7ym4vMdpdZ) | [De Leukste Liedjes 2021](https://open.spotify.com/album/1czwYtZdav91HjwNmppicN) | 2:05 | 2022-05-25 |  |
+| [Rückwärtsgang](https://open.spotify.com/track/0PeqjPMkg5az7s5PNiymXV) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv), [Gregor Hägele](https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt) | [Rückwärtsgang](https://open.spotify.com/album/3FQ7WItUVApunygLj4btX7) | 2:27 | 2022-06-30 |  |
 | [Side Eyes](https://open.spotify.com/track/16UK0ysbJRGRmIsyjvI3yV) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Searching](https://open.spotify.com/album/1E3Yl5nAVcPyKhW22DAS49) | 2:07 | 2022-05-25 |  |
 | [Small Talk](https://open.spotify.com/track/0lvN2fIgifvC63C70WQZDz) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Small Talk](https://open.spotify.com/album/17EackTViAFr0fZWhMYbo4) | 2:35 | 2022-05-25 |  |
 | [Sniper \(Remix\) \(feat\. BKO, Jairzinho & Sevn Alias\)](https://open.spotify.com/track/07AhIz1LUHR1U4aTbOYSJQ) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [BKO](https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd), [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop), [Sevn Alias](https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc) | [Sniper \(Remix\) \(feat\. BKO, Jairzinho & Sevn Alias\)](https://open.spotify.com/album/2aTzmifl59fUFqBW24bzDw) | 3:19 | 2022-05-25 |  |

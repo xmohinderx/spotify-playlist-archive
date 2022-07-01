@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 
 > Acoustic covers of sad songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,977 likes - 86 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,216 likes - 86 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 | 30 | [Bad Liar](https://open.spotify.com/track/7vg5fesQdq5I7Z7XGdyJd5) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [Bad Liar](https://open.spotify.com/album/6lumYymEx5DCyt7VEL4QlF) | 3:46 |
 | 31 | [Teenage Dream](https://open.spotify.com/track/68ngc4vLwImhAeWHmXKcEI) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Teenage Dream](https://open.spotify.com/album/4EljF3hf20ZscDyd8bBB7R) | 3:17 |
 | 32 | [Heart Shaped Box](https://open.spotify.com/track/0AtMmmdaPQyopfb73EOoK8) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [Heart Shaped Box](https://open.spotify.com/album/0WqyV72bcDRmqF1ibL5fXh) | 3:12 |
-| 33 | [Boulevard of Broken Dreams](https://open.spotify.com/track/05Pe2omHaIQtDAehonNlMX) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [Boulevard of Broken Dreams](https://open.spotify.com/album/0ARtwfvEYUKoVbCXdw7wb5) | 3:10 |
+| 33 | [Boulevard of Broken Dreams](https://open.spotify.com/track/05Pe2omHaIQtDAehonNlMX) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [Boulevard of Broken Dreams](https://open.spotify.com/album/0ARtwfvEYUKoVbCXdw7wb5) | 0:29 |
 | 34 | [A Long December](https://open.spotify.com/track/6DOoVmJg4Yw5ed4cEtsAKK) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [A Long December](https://open.spotify.com/album/2XHrRPNh9Vj0bLCo2p3DxA) | 2:42 |
 | 35 | [Hollywood's Bleeding](https://open.spotify.com/track/56twDecxsQon61crfEXrA5) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k), [Beck Pete](https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj) | [Hollywood's Bleeding](https://open.spotify.com/album/4O15gCnDaJvYAmG5q7nO1U) | 3:37 |
 | 36 | [Wrecking Ball \- Acoustic](https://open.spotify.com/track/0Jm6AaECnFWMR9cFvUODGj) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/album/3clmJwLKes3r1vitnP9at6) | 2:56 |

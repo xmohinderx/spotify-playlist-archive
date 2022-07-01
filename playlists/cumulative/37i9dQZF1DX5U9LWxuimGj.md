@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Frank Ray
 
-86 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/1WK5MqHO5idzyfqGcT0LRT)
+86 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/1WK5MqHO5idzyfqGcT0LRT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,12 +32,12 @@
 | [gracias a la vida](https://open.spotify.com/track/0ROvxmZFJNRm0PyYcFKHbm) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 4:32 | 2021-12-10 |  |
 | [Gracias A La Vida](https://open.spotify.com/track/5bHSXxczMdoPWVg3RemYHq) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Liberty: Piano Songbook](https://open.spotify.com/album/5osw6hJrMHsAFfKuJUlHMW) | 2:46 | 2021-12-10 |  |
 | [Hell in a Handbag](https://open.spotify.com/track/3AU9pWnplEeKOQP55P66kr) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [Hell in a Handbag](https://open.spotify.com/album/7El9JLvuISfaC9EZACDzX7) | 3:23 | 2021-12-10 |  |
-| [Hey Baby Que Pasó \- Live from Texas](https://open.spotify.com/track/6w7T58kAjQNfp0jG9UheoJ) | [The Last Bandoleros](https://open.spotify.com/artist/3Zk03qhmFLepNYW2atWkmE) | [Hey Baby Que Pasó \(Live from Texas\)](https://open.spotify.com/album/7sSnNlqb9e8qqLwpkNlAfD) | 3:13 | 2021-12-10 |  |
+| [Hey Baby Que Pasó \- Live from Texas](https://open.spotify.com/track/6w7T58kAjQNfp0jG9UheoJ) | [The Last Bandoleros](https://open.spotify.com/artist/3Zk03qhmFLepNYW2atWkmE) | [Hey Baby Que Pasó \(Live from Texas\)](https://open.spotify.com/album/7sSnNlqb9e8qqLwpkNlAfD) | 0:29 | 2021-12-10 |  |
 | [Homesick](https://open.spotify.com/track/7esySixzBv7n9uM259kLeP) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Homesick](https://open.spotify.com/album/7BZblgdX1lrGf0sdu0MG3P) | 3:24 | 2021-12-10 |  |
 | [Honky Tonk Education](https://open.spotify.com/track/2e0heBxxDYvsw8MMPhg88z) | [Michael Salgado](https://open.spotify.com/artist/3KIX7sAMvFDFFPYubKRZ5w) | [Honky Tonk Education](https://open.spotify.com/album/3q9oBglyQUUUmzva0mvU5Y) | 3:26 | 2021-12-10 |  |
 | [Honkytonk Bar](https://open.spotify.com/track/5uWUZQEP1TxZM2YYgDe3bu) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Honkytonk Bar](https://open.spotify.com/album/5ZyERoLUgfH0NzVEkzZsvH) | 2:55 | 2022-02-18 |  |
 | [Hoodie \(feat\. Ollie Joseph\) \- Spanglish](https://open.spotify.com/track/5Yw4ZbzNPr7WINRb9HQvFD) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3), [Ollie Joseph](https://open.spotify.com/artist/6BZKGQf9EnToQ6F7KdMd1m) | [Hoodie \(Spanglish\)](https://open.spotify.com/album/7IkJnMk5dyQ36OAaogWf0F) | 3:03 | 2021-12-10 |  |
-| [How Many Times \(Spanish Version\)](https://open.spotify.com/track/1xIedqGs6MXWZTCTSybZvx) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [How Many Times \(Spanish Version\)](https://open.spotify.com/album/02F4XjVwPTIRulJ6VvQR3p) | 3:25 | 2021-12-10 |  |
+| [How Many Times \(Spanish Version\)](https://open.spotify.com/track/1xIedqGs6MXWZTCTSybZvx) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [How Many Times \(Spanish Version\)](https://open.spotify.com/album/02F4XjVwPTIRulJ6VvQR3p) | 0:29 | 2021-12-10 |  |
 | [Humble and Kind \(Nunca Te Olvides de Amar\)](https://open.spotify.com/track/5N7sdQWdISg5JmbIynMxGb) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Humble and Kind \(Nunca Te Olvides de Amar\)](https://open.spotify.com/album/4nPrv6mX6qT2pSofIpoXY5) | 4:16 | 2021-12-10 |  |
 | [I Am a Mexican](https://open.spotify.com/track/5v3JieJAHIspWkXNVy5rHq) | [Rick Trevino](https://open.spotify.com/artist/28yWs7I4FXiDyBuHoZqkY8), [Flaco Jimenez](https://open.spotify.com/artist/0VKuugYO6uuSOCGO62vk0M) | [I Am a Mexican](https://open.spotify.com/album/1Qij0nelotbxl3wu3h0rx8) | 3:24 | 2021-12-10 |  |
 | [I Can't Even Drink Straight](https://open.spotify.com/track/07hSFiKCVTEOxjRn5agBkS) | [Mario Flores](https://open.spotify.com/artist/2xUSUDfwQAxQq9WEal8sId) | [I Can't Even Drink Straight](https://open.spotify.com/album/3HAnMO7pzNRKMuTU2U99VD) | 3:26 | 2022-05-27 |  |

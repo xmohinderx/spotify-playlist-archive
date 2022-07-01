@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 
 > ¡Celebrando con los 14 Cañonazos! Foto: Los Corraleros de Majagual
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,468 likes - 96 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,474 likes - 96 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 | 32 | [Una Invitación](https://open.spotify.com/track/6zfxJklAcDNE9a5AlssO69) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Desde Mi Ventana](https://open.spotify.com/album/6CbW8IB927ZyoQzG5r4yUV) | 3:22 |
 | 33 | [Ras Tas Tas Full Hd](https://open.spotify.com/track/1cm0T4HV7oJw343AT9N2Z8) | [Cali Flow Latino](https://open.spotify.com/artist/6osZmjgq0xc7VroWgQoRcD) | [Ras Tas Tas Full Hd](https://open.spotify.com/album/0db4PzdxmNMUUq7FqZj0sa) | 4:26 |
 | 34 | [No Te Vayas](https://open.spotify.com/track/587xp1Yt8CAPzbHsAuN5nD) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [No Te Vayas](https://open.spotify.com/album/5LWzkXfz3kWsZ6mAc122X9) | 3:46 |
-| 35 | [Cuando Lleguen los Millones](https://open.spotify.com/track/2HhA76gw56fjazNpE5zSTV) | [Grupo Kvrass](https://open.spotify.com/artist/0xHOGt5gf3A1XJP79Zth9k) | [Cinco Estrellas](https://open.spotify.com/album/3hj0estissCID5Tf7UZrcv) | 4:37 |
+| 35 | [Cuando Lleguen los Millones](https://open.spotify.com/track/2HhA76gw56fjazNpE5zSTV) | [Grupo Kvrass](https://open.spotify.com/artist/0xHOGt5gf3A1XJP79Zth9k) | [Cinco Estrellas](https://open.spotify.com/album/3hj0estissCID5Tf7UZrcv) | 0:29 |
 | 36 | [Aquel Viejo Motel](https://open.spotify.com/track/3iyhrhX0QZMAvC8rMFcWQ6) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Mejor Que Ayer](https://open.spotify.com/album/1GtGW64AKrjOsAOrHO30uW) | 5:27 |
 | 37 | [Yo No Sé Mañana](https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Ciclos](https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ) | 4:19 |
 | 38 | [En Silencio Te Amaré](https://open.spotify.com/track/36KCJItBLUvlUDaK9GtJU5) | [El Combo De Las Estrellas](https://open.spotify.com/artist/3a1bkJS7AQnJ8KGvf9hFiN) | [Grandes Éxitos](https://open.spotify.com/album/05ljXch0uoJQCLjZCuJAaU) | 3:58 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 | 60 | [Voy a Beber](https://open.spotify.com/track/25GRgMoXezppQjLjSDLKf5) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Nicky Jam Hits](https://open.spotify.com/album/4etANPc5BMELu5yx987Rpx) | 3:31 |
 | 61 | [Gotas De Lluvia](https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [20th Anniversary](https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW) | 5:54 |
 | 62 | [El Amor de Mi Vida "Se Fue"](https://open.spotify.com/track/4ee1fUrPVok1bEyj1cm4Rv) | [Grupo Galé](https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP) | [Auténtico](https://open.spotify.com/album/7C0OfgbApcvYfMJEgfUxyE) | 4:39 |
-| 63 | [Ábrete](https://open.spotify.com/track/0sIR0xAxoiRqkCfD9agUa9) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [El Terremoto Musical](https://open.spotify.com/album/55NWTq5kY4ZYxei2Bf1Ocf) | 4:31 |
+| 63 | [Ábrete](https://open.spotify.com/track/0sIR0xAxoiRqkCfD9agUa9) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [El Terremoto Musical](https://open.spotify.com/album/55NWTq5kY4ZYxei2Bf1Ocf) | 0:29 |
 | 64 | [Soledad](https://open.spotify.com/track/3bpqoOSDwdaK003DPMvDJQ) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [La\-33](https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt) | 4:45 |
 | 65 | [Lloraras](https://open.spotify.com/track/23Fw0qh3Onqn2276LiL2pT) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [15 Exitos De\- Oscar D Leon](https://open.spotify.com/album/412ARc7ByOTB5iwnc6fZ6i) | 3:41 |
 | 66 | [Vivo Pensando En Ti \(feat\. Maluma\)](https://open.spotify.com/track/0H7cz1bR7w9PulJL7Na774) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Vivo Pensando En Ti \(feat\. Maluma\)](https://open.spotify.com/album/22GyzVcUc0jsXtnH6TqAyu) | 3:52 |

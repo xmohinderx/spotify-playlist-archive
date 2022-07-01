@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 
 > The electro revival with Dawn Richard.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,538 likes - 37 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,547 likes - 37 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wanted](https://open.spotify.com/track/6DmyAvH1MeAoqWApThDHTM) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Wanted](https://open.spotify.com/album/3dlPrX23qvVuXUBRInIJy8) | 2:58 |
+| 1 | [Wanted](https://open.spotify.com/track/6DmyAvH1MeAoqWApThDHTM) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Wanted](https://open.spotify.com/album/3dlPrX23qvVuXUBRInIJy8) | 0:29 |
 | 2 | [SLIME](https://open.spotify.com/track/5alFLxnNmBmTdNM6Oq0nqD) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SLIME](https://open.spotify.com/album/1VCGsWYP7dY5fLXUrEPG6L) | 2:39 |
 | 3 | [Don Dada](https://open.spotify.com/track/6B3NBWtTa7WuPILwpAz6D5) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Proper Villains](https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S) | [Don Dada](https://open.spotify.com/album/4j8I2IA2VLSYqDCJ0FydNb) | 3:05 |
-| 4 | [Bussifame](https://open.spotify.com/track/3Snsn7nR619p0Ze090QT7K) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Bussifame](https://open.spotify.com/album/5Yg9JXE24N3d58v3HuY1Vl) | 4:33 |
+| 4 | [Bussifame](https://open.spotify.com/track/3Snsn7nR619p0Ze090QT7K) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Bussifame](https://open.spotify.com/album/5Yg9JXE24N3d58v3HuY1Vl) | 0:29 |
 | 5 | [Marilyn Monroe](https://open.spotify.com/track/6qXcX5uTDYKCqYuqnf5C7U) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Ison](https://open.spotify.com/album/2yjRCaDVCsAJjcavAPztVY) | 3:28 |
 | 6 | [Ache](https://open.spotify.com/track/0nNh57CedtpSjca7uhbrtg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EP1](https://open.spotify.com/album/44keDDETPLFK48WCykPKit) | 5:00 |
-| 7 | [In the Morning](https://open.spotify.com/track/3pRyeZCIGdaO84RSBj9Bj7) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [For All We Know](https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6) | 4:06 |
+| 7 | [In the Morning](https://open.spotify.com/track/3pRyeZCIGdaO84RSBj9Bj7) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [For All We Know](https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6) | 0:29 |
 | 8 | [Got Em](https://open.spotify.com/track/7CJ7daBPHsCMdrivYPlZ3F) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Got Em](https://open.spotify.com/album/1wgHAs407GxQtqR3lj4NSf) | 3:46 |
 | 9 | [U.](https://open.spotify.com/track/64NGjHW1w5Kl42xEKdqi6o) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [U.](https://open.spotify.com/album/2LNOZyp2FX1ARZXc5gf3hB) | 2:37 |
 | 10 | [Body Pump \- UNIIQU3 Remix](https://open.spotify.com/track/5BMXfwG0l57VbehGPq2Uv2) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Renaissance \(Remixes\)](https://open.spotify.com/album/3eVVyHEF1waq5kbMFm9pdJ) | 3:56 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 | 13 | [Dance Dance Dance](https://open.spotify.com/track/1Nk5bZWXcvXoBrtPCrHme8) | [Dj Paulette](https://open.spotify.com/artist/2rr26njxwViHMQKgVVSmHF) | [Miami Edm Anthems 2015](https://open.spotify.com/album/042wA8AmldoPYZhbcyTR24) | 4:33 |
 | 14 | [Cut 4 Me \(Prod\. Kingdom\)](https://open.spotify.com/track/4dvGUFtcu83UbyoQuRXNhp) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Cut 4 Me \(Deluxe\)](https://open.spotify.com/album/0TINzVFDomwU0tx3T78Kr3) | 3:53 |
 | 15 | [Secretly](https://open.spotify.com/track/0dw3ZgJ3h4ICWxGsoaz4dm) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Post Orgasmic Chill](https://open.spotify.com/album/4WznTvC9d1Oino7gLS8XHq) | 4:45 |
-| 16 | [You Know You Like It \- Tchami Remix](https://open.spotify.com/track/0OpcI3rARLsNWgVbPdwHD9) | [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [We Are Your Friends \(Music From The Original Motion Picture\)](https://open.spotify.com/album/0aMv03wMvTndzvWp8FuS4P) | 5:04 |
+| 16 | [You Know You Like It \- Tchami Remix](https://open.spotify.com/track/0OpcI3rARLsNWgVbPdwHD9) | [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [We Are Your Friends \(Music From The Original Motion Picture\)](https://open.spotify.com/album/0aMv03wMvTndzvWp8FuS4P) | 0:29 |
 | 17 | [People, I've been sad](https://open.spotify.com/track/2rWeNybwVZTWEbkb9JOjcz) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [La vita nuova](https://open.spotify.com/album/0iyzHNJTyl7G9vNwp3B8iQ) | 4:20 |
 | 18 | [Burn So Deep \(feat\. Dawn Richard\)](https://open.spotify.com/track/7oSrcgoO342j9xQ3wrOvJt) | [JIMMY EDGAR](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Burn So Deep \(feat\. Dawn Richard\)](https://open.spotify.com/album/3JKNKGFJJX5tIX4sHIHLTZ) | 4:05 |
 | 19 | [Crabs & Crows](https://open.spotify.com/track/3Lsv0zi3GXpCnJEFkYaXvE) | [KAJAMA](https://open.spotify.com/artist/3hGUpSPq9iYQvrFQyXBxZA) | [Polarity Prism](https://open.spotify.com/album/5y1Z3VRMN2ey6NfRDYm0F8) | 2:09 |

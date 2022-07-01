@@ -4,14 +4,14 @@
 
 > 每日都有咁多壞消息，我心情真係好肉酸呀！只可以同自己講聲「撐住」！
 
-87 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/4Kjp35jrALLwqpzQypFyiK)
+87 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/4Kjp35jrALLwqpzQypFyiK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All We Have Is Now](https://open.spotify.com/track/6sIE2GmdLDX8L96IEKmDls) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [All We Have Is Now](https://open.spotify.com/album/1aFRjm48xWffnCu3o0MY8t) | 4:22 | 2022-04-13 |  |
 | [AUNTIE](https://open.spotify.com/track/5a5oBAAjI6Z6AuZo2MEVB9) | [Jan Lamb](https://open.spotify.com/artist/42uvXrSYcxDx4zStor068I) | [AUNTIE](https://open.spotify.com/album/1qXfSreBUV1bHlja9b9pfi) | 4:16 | 2022-04-13 |  |
 | [Ciao](https://open.spotify.com/track/5liLMCOcyXU45BY9LzyC6r) | [RubberBand](https://open.spotify.com/artist/7uzBKhYbCKBs53kDrO4Suc) | [Ciao](https://open.spotify.com/album/49E9WqCcwPoxlJ288eFG69) | 4:33 | 2022-04-13 |  |
-| [Dear My Friend,](https://open.spotify.com/track/11IqNbLOD4s4nVYSuEttFR) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [Dear My Friend,](https://open.spotify.com/album/63tXaSpdAXnGGTAR9obRz3) | 3:52 | 2022-04-13 |  |
+| [Dear My Friend,](https://open.spotify.com/track/11IqNbLOD4s4nVYSuEttFR) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [Dear My Friend,](https://open.spotify.com/album/63tXaSpdAXnGGTAR9obRz3) | 0:29 | 2022-04-13 |  |
 | [Good Luck](https://open.spotify.com/track/5G46LoY6ABm0eGrCeppGEI) | [Leon Lai](https://open.spotify.com/artist/0ubIxkefJsoYY8JXc2HJoa) | [Good Luck](https://open.spotify.com/album/4CnM5igZYjQWvzrJFCg4NZ) | 1:26 | 2022-04-13 |  |
 | [HW1](https://open.spotify.com/track/7CbFYLWp5WI3K9p57d1X9w) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [HW1](https://open.spotify.com/album/27olYw9kfefaxM2oqtXhbg) | 4:19 | 2022-04-13 |  |
 | [It’s OK To Be Sad](https://open.spotify.com/track/0up477QX11ffSLneXa0xHA) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [It’s OK To Be Sad](https://open.spotify.com/album/5HJdjpBgRxl4XcMuimvho9) | 3:59 | 2022-04-13 |  |
@@ -45,7 +45,7 @@
 | [好好地過 \(OneDegree新時代保險廣告歌\)](https://open.spotify.com/track/1MrwXADPj7zsS23WflBVvx) | [RubberBand](https://open.spotify.com/artist/7uzBKhYbCKBs53kDrO4Suc) | [好好地過 \(OneDegree新時代保險廣告歌\)](https://open.spotify.com/album/1EDpQ08MEZk2PrJal7NDN4) | 4:41 | 2022-04-13 |  |
 | [對得起自己](https://open.spotify.com/track/0dbKKEitEKGPpgY7qOFwpe) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [對得起自己](https://open.spotify.com/album/0AJaOR1rvOB4ttpkSenHRF) | 4:20 | 2022-04-13 |  |
 | [小島](https://open.spotify.com/track/2hn37fEFyplCS7stICKgAq) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [小島](https://open.spotify.com/album/13fTvWxRTs2t02FhPLCaGw) | 3:27 | 2022-04-13 |  |
-| [廢學](https://open.spotify.com/track/1zFfjpRxrHlv6IU3fiVepA) | [陳健安](https://open.spotify.com/artist/5g1lCXhXTqGf2QNpyQXh9S) | [未知之知](https://open.spotify.com/album/7CkuTVTU8VfAVulHisPZDl) | 4:28 | 2022-04-13 |  |
+| [廢學](https://open.spotify.com/track/1zFfjpRxrHlv6IU3fiVepA) | [陳健安](https://open.spotify.com/artist/5g1lCXhXTqGf2QNpyQXh9S) | [未知之知](https://open.spotify.com/album/7CkuTVTU8VfAVulHisPZDl) | 0:29 | 2022-04-13 |  |
 | [得個等](https://open.spotify.com/track/0pnfuNHCpQC56xBuBXCqbT) | [JB](https://open.spotify.com/artist/2cpYCYngJfXf3wTJPCKDq2) | [得個等](https://open.spotify.com/album/2k7cZ6tUVPxiiq5VSYqS5n) | 4:17 | 2022-04-13 |  |
 | [我也難過的](https://open.spotify.com/track/3kQvyf0lMEpcn0xGWM1blY) | [吳林峰](https://open.spotify.com/artist/7vUVBbfIykXkc668JoZI5P), [謝芊彤](https://open.spotify.com/artist/75X1AosgRNJ3OkpcrDS8TP) | [我也難過的](https://open.spotify.com/album/5NjBK5wSTAX9a2BbtBDKZ4) | 4:38 | 2022-04-13 |  |
 | [我們都想旅行](https://open.spotify.com/track/67wmOm80zXISULC5CVQyv8) | [Ken Hung](https://open.spotify.com/artist/0sQMt1Llvcuza8oLKB9bmi) | [我們都想旅行](https://open.spotify.com/album/0iWpHNCYFrxiCbsa2dIfVj) | 3:24 | 2022-04-13 |  |

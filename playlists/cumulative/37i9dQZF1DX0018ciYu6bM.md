@@ -4,7 +4,7 @@
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: B.I
 
-156 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/2ZS5sBUg2D7ThTAofFyjhj)
+157 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/2ZS5sBUg2D7ThTAofFyjhj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Lovesick Girls](https://open.spotify.com/track/0u5FYJWJLcLzSN9S1Wb2ag) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/4DrS5uqr2LBqfTF5nsRtyT) | 3:12 | 2022-04-05 |  |
 | [LUNATIC](https://open.spotify.com/track/3hicr5nSY0RrKGEy3nYZwU) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:25 | 2022-04-05 | 2022-05-27 |
 | [Lxxk 2 U](https://open.spotify.com/track/5U7emXCoCl8EOEJUVNbguC) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 3:02 | 2022-04-05 | 2022-04-21 |
+| [Ma Boy](https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1) | [SISTAR19](https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU) | [Ma Boy](https://open.spotify.com/album/76EJZHFfzKIOrf97HE4at7) | 3:16 | 2022-06-30 |  |
 | [MAISON](https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 3:05 | 2022-05-02 |  |
 | [Make A Smile For Me](https://open.spotify.com/track/2WMiel6QbKFxk4BOLNlV6D) | [Yubin](https://open.spotify.com/artist/1vpf88lk0FxD1ir2rbEryY) | [Ghost Doctor, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/25lafZZul6FOiK7tMwyyO1) | 4:09 | 2022-04-05 | 2022-04-21 |
 | [MANIAC](https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) | 3:02 | 2022-04-05 |  |

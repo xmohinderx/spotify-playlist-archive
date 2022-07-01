@@ -4,7 +4,7 @@
 
 > As belas novidades da MPB\. Foto: Tom Zé
 
-227 songs - 13 hr 49 min - [published](https://open.spotify.com/playlist/01cf54AteUmLGb18bFZOzr)
+227 songs - 13 hr 46 min - [published](https://open.spotify.com/playlist/01cf54AteUmLGb18bFZOzr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Rota do Indivíduo \(Ferrugem\)](https://open.spotify.com/track/3hnQvO7n6YYzWP03fc8pQf) | [Zeca Veloso](https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z) | [A Rota do Indivíduo \(Ferrugem\)](https://open.spotify.com/album/3fiSL51XcGQbtn0HRgcQLW) | 3:39 | 2022-01-21 | 2022-06-18 |
 | [Abrigo](https://open.spotify.com/track/5nhJ79B02fCLIHIIQaybev) | [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs) | [ØRGIA](https://open.spotify.com/album/2hi7x3OWSRjrXozCR8OwIA) | 4:33 | 2022-06-17 |  |
 | [Agora](https://open.spotify.com/track/1hBC2o7TjAN6unETxqcBgZ) | [Felipe Câmara](https://open.spotify.com/artist/7nMcdHn8XjZDOzCn1x83f0), [Malú Lomando](https://open.spotify.com/artist/6u5Wnrt6qAc1hQekBvcLXm) | [Agora](https://open.spotify.com/album/5YoQlOgX2LFyCq7QKFTPWM) | 4:30 | 2022-04-01 | 2022-04-29 |
-| [Alagados](https://open.spotify.com/track/4tFVcNSN26d2OSWSlOxRIf) | [Alfredo, João, Moyseis, Pedro](https://open.spotify.com/artist/3jcMfrnlAKiPuU0T0Y48SK), [Alfredo del Penho](https://open.spotify.com/artist/70WkdyEzA7a0fBuy3bZleU), [João Cavalcanti](https://open.spotify.com/artist/746fEpKVwkqLnRi6g7qubK), [Moyseis Marques](https://open.spotify.com/artist/6rgLniT11DFKI7zIYsFLyb), [Pedro Miranda](https://open.spotify.com/artist/32ChsjOKXXZrpDI6aAPo5l) | [Alagados](https://open.spotify.com/album/3Mdko7tfSEfTdTaukgzAst) | 3:16 | 2022-01-21 |  |
+| [Alagados](https://open.spotify.com/track/4tFVcNSN26d2OSWSlOxRIf) | [Alfredo, João, Moyseis, Pedro](https://open.spotify.com/artist/3jcMfrnlAKiPuU0T0Y48SK), [Alfredo del Penho](https://open.spotify.com/artist/70WkdyEzA7a0fBuy3bZleU), [João Cavalcanti](https://open.spotify.com/artist/746fEpKVwkqLnRi6g7qubK), [Moyseis Marques](https://open.spotify.com/artist/6rgLniT11DFKI7zIYsFLyb), [Pedro Miranda](https://open.spotify.com/artist/32ChsjOKXXZrpDI6aAPo5l) | [Alagados](https://open.spotify.com/album/3Mdko7tfSEfTdTaukgzAst) | 0:29 | 2022-01-21 |  |
 | [Algum Ritmo](https://open.spotify.com/track/5EVv8M3vhByFLLqT1dkdGd) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Algum Ritmo](https://open.spotify.com/album/4v4NXk4pD9IcbquIVSJvcV) | 3:35 | 2021-12-24 |  |
 | [Além do Infinito](https://open.spotify.com/track/5QCsVGMVZOlkEOZBbt1rn2) | [Felipe Bedetti](https://open.spotify.com/artist/0rRoreRcmmmP8eO2Y0YE7U), [Thadeu Romano](https://open.spotify.com/artist/6wdwpg3o4NArLzIZ6t6pky), [João Paulo Avelar](https://open.spotify.com/artist/4DyGoS5WDVQFtUCyVdNpBT), [Bo Hilbert](https://open.spotify.com/artist/5AwVHDSsIrlWO5DAxjyobN), [Toninho Horta](https://open.spotify.com/artist/1HQIztYT50mMS3PZR0qgFk) | [Afluentes](https://open.spotify.com/album/2QkoEuf7uxoADZoud1oI0M) | 5:20 | 2022-01-21 | 2022-03-22 |
 | [Ana Luiza](https://open.spotify.com/track/1arzdlHWPNjLd1CoCr5KTp) | [Rodrigo Maranhão](https://open.spotify.com/artist/04r6DFJdJcb3qx9IPidegH) | [Ana Luiza](https://open.spotify.com/album/45r2cAgfsQsQVeF5W2hNPV) | 3:25 | 2022-06-03 |  |

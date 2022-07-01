@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: David Kushner
 
-846 songs - 1 day 20 hr 36 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
+846 songs - 1 day 20 hr 29 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,7 +376,7 @@
 | [I only go south](https://open.spotify.com/track/2OKm4YcGHT04AuVuqx149o) | [Yoste](https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf) | [I only go south](https://open.spotify.com/album/7nMyRhka92SYaj3YZOTSAK) | 3:21 | 2021-06-12 | 2021-09-04 |
 | [I Only Love You When I'm Sad](https://open.spotify.com/track/6w2WFVDwMYJtH9xfgL4SKv) | [Lillian Hepler](https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I) | [I Only Love You When I'm Sad](https://open.spotify.com/album/2zWeqS9q6bzyhUlaySpIIa) | 2:22 | 2021-05-08 | 2021-07-10 |
 | [I Talk to the Sky](https://open.spotify.com/track/1sUh1cwA6LDqyhVlXD1mBw) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [CHAPTER 1: The Longing](https://open.spotify.com/album/74JqBx109obQIjgMUzxoR7) | 3:18 | 2021-04-30 | 2021-05-08 |
-| [i think i wanna text u](https://open.spotify.com/track/4hH46xhExjwEGfuWFgnOc3) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [vaultboy EP](https://open.spotify.com/album/0SiHxjCWqC4ODGKirRUk9L) | 3:16 | 2022-01-14 |  |
+| [i think i wanna text u](https://open.spotify.com/track/4hH46xhExjwEGfuWFgnOc3) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [vaultboy EP](https://open.spotify.com/album/0SiHxjCWqC4ODGKirRUk9L) | 0:29 | 2022-01-14 |  |
 | [i tried](https://open.spotify.com/track/37EQsOkuUxhqV1yJcPC1TY) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [i tried](https://open.spotify.com/album/5fvv0vjvISZwMuHE49g89U) | 2:40 | 2022-03-11 | 2022-05-28 |
 | [I Used to Care](https://open.spotify.com/track/2z9tQz4ygexOYb2SnCPCnP) | [Louyah](https://open.spotify.com/artist/4FH6xGueB6CRmiEdtPnu41) | [6FEET](https://open.spotify.com/album/3flM0bHFO3t22RzsciSBFn) | 3:36 | 2021-07-15 | 2021-08-21 |
 | [I Went Hunting](https://open.spotify.com/track/2X0B89nchlocmZ12zyYd7H) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [I Went Hunting](https://open.spotify.com/album/1P1G2eyoP4UphHDjRiol6T) | 3:45 | 2022-06-03 |  |
@@ -669,7 +669,7 @@
 | [Smile](https://open.spotify.com/track/67v3Veguu8LaTnBJm0OfNQ) | [Elise Eriksen](https://open.spotify.com/artist/4Z4AA4VE6yS9vOZdEXabS8) | [Smile](https://open.spotify.com/album/55BACNqDIsQHCVFmW3Sg8l) | 2:56 | 2021-02-06 | 2021-03-14 |
 | [SNAP](https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g) | 2:59 | 2022-06-29 |  |
 | [So Far Away](https://open.spotify.com/track/6cjrJbXoA0VscOXEPgLdYv) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [So Far Away](https://open.spotify.com/album/0TnwHpwza2o3cMyklfOmCJ) | 3:27 | 2021-06-05 | 2021-08-07 |
-| [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 | 2022-02-07 |  |
+| [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 0:29 | 2022-02-07 |  |
 | [Social Stamina](https://open.spotify.com/track/2FuB4re85DbgICpRi8IEEU) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Social Stamina](https://open.spotify.com/album/7tkV4wVnzdDasGlD5EwWHK) | 2:34 | 2021-09-11 | 2022-05-07 |
 | [Soft](https://open.spotify.com/track/4E6ip8v7Fl9iGXFBKWMrgM) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Soft](https://open.spotify.com/album/1aI0KCOzPMZXS5ViNDWdps) | 2:58 | 2021-02-12 | 2021-03-26 |
 | [Soft Landing](https://open.spotify.com/track/03sDUI44L3nlJoSoGgMRQ8) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Dangerous Levels of Introspection \(Deluxe Edition\)](https://open.spotify.com/album/0jgLrnhzlL9o4z9TyEt2ih) | 2:27 | 2021-11-13 | 2021-12-04 |

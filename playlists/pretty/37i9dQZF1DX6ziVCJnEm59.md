@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ziVCJnEm59.md) - [plain]
 
 > Curl up in your favorite spot with some sweet, mellow tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,963,105 likes - 125 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,963,329 likes - 125 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ziVCJnEm59.md) - [plain]
 | 35 | [Alaska](https://open.spotify.com/track/5p0WgCCVI5LnWaUEXv1OBl) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Only Real When Shared](https://open.spotify.com/album/6yA7manQeTbgI7nQN7FBCn) | 3:45 |
 | 36 | [Nothing Compares](https://open.spotify.com/track/4I97vwuO13zggYHu0WYE7Y) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Note to Self](https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR) | 4:02 |
 | 37 | [Sister](https://open.spotify.com/track/0HFBVwKtD5kBrQQseDwagJ) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [All We've Known](https://open.spotify.com/album/70ZgNr9ZbfPqaOn0gfA50A) | 2:13 |
-| 38 | [Consolation Prize](https://open.spotify.com/track/71wiJ619MbaSStsiN6XT06) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi), [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Consolation Prize](https://open.spotify.com/album/5KyVj6FfbV3lwwMIXyQeZ1) | 4:00 |
+| 38 | [Consolation Prize](https://open.spotify.com/track/71wiJ619MbaSStsiN6XT06) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi), [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Consolation Prize](https://open.spotify.com/album/5KyVj6FfbV3lwwMIXyQeZ1) | 0:29 |
 | 39 | [Thousand \(feat\. Lisa Hannigan\)](https://open.spotify.com/track/12VVXFEYxro5C61KyWee9C) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Thousand \(feat\. Lisa Hannigan\)](https://open.spotify.com/album/1NI7pFzmcyiQ9Nk8VDDvUS) | 3:26 |
 | 40 | [Pharmakon](https://open.spotify.com/track/2J2oWsC3KGoqdUMIwcMRMU) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Pharmakon](https://open.spotify.com/album/2aLrFMwpy2iZzAUHqh49Th) | 2:35 |
 | 41 | [Driving Alone in the City at Night \- Demo](https://open.spotify.com/track/7Bf9JXesrsQ4jN9NFWfmu3) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Driving Alone in the City at Night \(Demo\)](https://open.spotify.com/album/5149Tk0j5vckbsLfnq9AUE) | 3:24 |
@@ -126,7 +126,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ziVCJnEm59.md) - [plain]
 | 116 | [Woandering](https://open.spotify.com/track/1bjqyTv5A06p8yGIG8KoeJ) | [I Am Oak](https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe) | [Our Blood](https://open.spotify.com/album/3cD3DhLcRjllMz8otD9F2X) | 3:44 |
 | 117 | [Call It Dreaming](https://open.spotify.com/track/4ftYIbHbKSVZWyrveFHCNu) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Beast Epic](https://open.spotify.com/album/2Ha1FUPZ0RDMjLZFu1iVO1) | 3:51 |
 | 118 | [Let It Breathe](https://open.spotify.com/track/52uKQxYJKHpYz0DEwKLltI) | [Water Liars](https://open.spotify.com/artist/6k3UpifDbb2ox25edM5j3P) | [Water Liars](https://open.spotify.com/album/78DjyBCwRxpBuZmlRXrt58) | 2:39 |
-| 119 | [Ballad Of A Young Troubadour](https://open.spotify.com/track/0nZm9HH33QdfU5X7JZrXNi) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Ballad Of A Young Troubadour](https://open.spotify.com/album/4mInZ5YQh5oKrrqlG4X21E) | 5:36 |
+| 119 | [Ballad Of A Young Troubadour](https://open.spotify.com/track/0nZm9HH33QdfU5X7JZrXNi) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Ballad Of A Young Troubadour](https://open.spotify.com/album/4mInZ5YQh5oKrrqlG4X21E) | 0:29 |
 | 120 | [Up to Me](https://open.spotify.com/track/7w0g7QoPeNUOySpVffqh9q) | [Sera Cahoone](https://open.spotify.com/artist/3wC39cIBlyNFSP8bO84FCJ) | [Up to Me](https://open.spotify.com/album/4jUwu452juhkZ8BMZlgaKQ) | 3:13 |
 | 121 | [Carry On](https://open.spotify.com/track/5Q51NmNW4EMi48BsvbrgUB) | [sol williams](https://open.spotify.com/artist/2MTS6xN7Q1Bgu93YCL2AsH) | [Carry On](https://open.spotify.com/album/7vSJefNncVtQuNVjFTowkr) | 2:44 |
 | 122 | [Bluebird](https://open.spotify.com/track/1dQP1xt8HIAUnrawUfJqKB) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [A Field Guide to Loneliness](https://open.spotify.com/album/3tYVipKiW1SAN6Kokx8Cdd) | 3:05 |

@@ -4,7 +4,7 @@
 
 > ONLY LOVERS LEFT ALIVE will be in cinemas from 21st February\. The soundtrack will be available from 17th February.
 
-11 songs - 56 min 55 sec - [published](https://open.spotify.com/playlist/24YM0QpNiPH5EAhdC4f4Ry)
+11 songs - 47 min 54 sec - [published](https://open.spotify.com/playlist/24YM0QpNiPH5EAhdC4f4Ry)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,6 @@
 | [The Art of Fugue, BWV 1080: Contrapunctus 1](https://open.spotify.com/track/442zbdBZpIEOIM87JTVwcg) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Fretwork](https://open.spotify.com/artist/4Ld6KhVOGRdto6GPGRdAhx) | [J.S\. Bach: The Art of Fugue, BWV 1080](https://open.spotify.com/album/0P5tFIBL8VDtQoP65dNLr7) | 3:11 | 2014-02-04 |  |
 | [The More She Burns the More Beautifully She Glows \(feat\. Tilda Swinton\)](https://open.spotify.com/track/2tYEQzTqmf30l1gaLwLPNE) | [Jozef Van Wissem and Jim Jarmusch](https://open.spotify.com/artist/3fSbBzEDKAyFiaHMfk8GCQ), [Jozef Van Wissem](https://open.spotify.com/artist/1mC0FqPLboQUFfxYuthfdn), [Jim Jarmusch](https://open.spotify.com/artist/7uwCnAgRDUzftIAkJDFfdy) | [The Mystery of Heaven](https://open.spotify.com/album/6N8RtTHx9kdshBU24bY6w4) | 10:56 | 2014-02-04 |  |
 | [Trapped By a Thing Called Love](https://open.spotify.com/track/4PdnMQMZFrzfnSMGhmMnGx) | [Denise LaSalle](https://open.spotify.com/artist/0GVO1kqJHVxOarPgex9K15) | [On The Loose / Trapped By A Thing Called Love](https://open.spotify.com/album/4kqVTlNuiKIcs4SiESC8nY) | 2:40 | 2014-02-04 |  |
-| [Under Skin or By Name](https://open.spotify.com/track/6dQZRdkxQmxl8hZyVNbYS5) | [White Hills](https://open.spotify.com/artist/0ttvGAnfEC6KZLrljUdIyX) | [Live At Roadburn 2011](https://open.spotify.com/album/1fE5HCsMrSuCs0QhAMk9P6) | 9:30 | 2014-02-04 |  |
+| [Under Skin or By Name](https://open.spotify.com/track/6dQZRdkxQmxl8hZyVNbYS5) | [White Hills](https://open.spotify.com/artist/0ttvGAnfEC6KZLrljUdIyX) | [Live At Roadburn 2011](https://open.spotify.com/album/1fE5HCsMrSuCs0QhAMk9P6) | 0:29 | 2014-02-04 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 
 > Aerial post\-rock sounds to take you somewhere else.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,307 likes - 50 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,704 likes - 50 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 | 37 | [Above The Clouds Lies Eternal Sun](https://open.spotify.com/track/0WCvBujFldzGsAimcyjchH) | [Joy Wants Eternity](https://open.spotify.com/artist/4ycYjrk65Tk9G1rhkzGjEy) | [You Who Pretend To Sleep](https://open.spotify.com/album/7G1o9IjZhkUIsQ1IGb7JDs) | 3:53 |
 | 38 | [Threads](https://open.spotify.com/track/1kZvOyo7g6k01Au6DuXY4Y) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [S/T](https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf) | 5:39 |
 | 39 | [Frozen Twilight](https://open.spotify.com/track/6yMlHBgwnIhrF2Qvnt2Yyn) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [A Moment of Stillness \(2011 Remastered Edition\)](https://open.spotify.com/album/1eVrXeDRsZQFM4DtSbUzKr) | 6:17 |
-| 40 | [Debutante](https://open.spotify.com/track/0CpaNwilKJGqn9WF6K6aRV) | [65daysofstatic](https://open.spotify.com/artist/6DVVsQAnpHdJjb1nYuOQ6g) | [We Were Exploding Anyway](https://open.spotify.com/album/3W3aDgjrpZRIO2YKaWMuyJ) | 7:21 |
+| 40 | [Debutante](https://open.spotify.com/track/0CpaNwilKJGqn9WF6K6aRV) | [65daysofstatic](https://open.spotify.com/artist/6DVVsQAnpHdJjb1nYuOQ6g) | [We Were Exploding Anyway](https://open.spotify.com/album/3W3aDgjrpZRIO2YKaWMuyJ) | 0:29 |
 | 41 | [Safety In Numbers](https://open.spotify.com/track/5vSFLlXrLyiPq8xXxhQnqk) | [Jakob](https://open.spotify.com/artist/1rRk0aScbAjuf5lAnnTe6n) | [Solace](https://open.spotify.com/album/1hZTQ36k7kHMdVVsjKwIQb) | 7:53 |
 | 42 | [The Last March](https://open.spotify.com/track/0CpibaJlmN4ZU5MhovLQf7) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Origins](https://open.spotify.com/album/0JWFe9UkBvkDQdkooJdbOi) | 4:43 |
 | 43 | [Job's Lament](https://open.spotify.com/track/6SPWDOKDQXZ1Nkl0cbsFqg) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [G\_d's Pee AT STATE'S END!](https://open.spotify.com/album/1RDLG5wi0a2Lrgdxs32tKL) | 8:02 |

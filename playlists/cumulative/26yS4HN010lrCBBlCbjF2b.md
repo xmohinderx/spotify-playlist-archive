@@ -4,7 +4,7 @@
 
 > Hultsfredsfestivalen 2012 går av stapeln den 14:e juni och pågår t.om\. den 16:e\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
-93 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/6dACCvxQEu2uainfQoxeG7)
+93 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/6dACCvxQEu2uainfQoxeG7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Excellent Ecstacy](https://open.spotify.com/track/0SoNh1D152IGyKXjSjDZ4t) | [Far & Son](https://open.spotify.com/artist/2RuUKJs7WOJjeAkjRXp1If), [Tony Senghore](https://open.spotify.com/artist/5ZK1SZxMVlg0vKMmBOTbIw) | [The Sushi USB EP](https://open.spotify.com/album/0wQIeymJJlFnvMalLeTboU) | 3:58 | 2012-05-07 |  |
 | [Fall Creek Boys Choir](https://open.spotify.com/track/2BMx3N1HFThlRbiScVcDez) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Fall Creek Boys Choir](https://open.spotify.com/album/2HnE4FWtu2qLciJDCqIJpV) | 4:40 | 2012-05-07 |  |
 | [Far Nearer](https://open.spotify.com/track/6PZhPSeV4ndaMhZ65n2TL8) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Far Nearer / Beat For \- EP](https://open.spotify.com/album/5C78e22JgnuDGb0Eto0Fqk) | 6:50 | 2012-05-07 |  |
-| [Fog Dancers \(Studio Barnhus Remix\)](https://open.spotify.com/track/3lbb0D4sEfHOmooFTCXrV8) | [Piroth](https://open.spotify.com/artist/0KOwOb7crLz8FovliMf7nL), [Studio Barnhus](https://open.spotify.com/artist/3BQyyXUJs39bwh0o4W2Pvs) | [Piroth Remixed](https://open.spotify.com/album/3xfWptAtEhRKx8gacItfEA) | 5:54 | 2012-05-07 |  |
+| [Fog Dancers \(Studio Barnhus Remix\)](https://open.spotify.com/track/3lbb0D4sEfHOmooFTCXrV8) | [Piroth](https://open.spotify.com/artist/0KOwOb7crLz8FovliMf7nL), [Studio Barnhus](https://open.spotify.com/artist/3BQyyXUJs39bwh0o4W2Pvs) | [Piroth Remixed](https://open.spotify.com/album/3xfWptAtEhRKx8gacItfEA) | 0:29 | 2012-05-07 |  |
 | [Gay Pirates \- 12" Extended Mix](https://open.spotify.com/track/4NUkBODgVdaf9KEgvkoJSQ) | [Cosmo Jarvis](https://open.spotify.com/artist/0NDo2VdtffaIv45HjQx7R4) | [Gay Pirates \- EP](https://open.spotify.com/album/5RyH1ZCjkM0SWJBIDmv8Y5) | 8:18 | 2012-05-07 |  |
 | [Get Along](https://open.spotify.com/track/7y4abQ8eSVZ2yphtMYutGv) | [Mikal Cronin](https://open.spotify.com/artist/6QobJ3vnalBTlsdOrvQTIt) | [Mikal Cronin](https://open.spotify.com/album/54hyA5EG1MFUIF2P2tBxKe) | 3:52 | 2012-05-07 |  |
 | [Good Man Down](https://open.spotify.com/track/4Mwmi8vjCoHpxWKwDicF9i) | [Ewert and the Two Dragons](https://open.spotify.com/artist/1D34O3ftIxPfbMN7bVVSPS) | [Good Man Down](https://open.spotify.com/album/1NzUDYQISlTRNReuQJGqw3) | 4:32 | 2012-05-07 |  |

@@ -4,7 +4,7 @@
 
 > Essential tunes for time with the family.
 
-57 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/0dYNpHRtzFloB9ZnDfgiL9)
+57 songs - 4 hr 23 min - [published](https://open.spotify.com/playlist/0dYNpHRtzFloB9ZnDfgiL9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [I'll Take You There](https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7) | 3:16 | 2021-07-01 |  |
 | [If It Isn't Love](https://open.spotify.com/track/7JmPqImeW3kLoYVNBA9v11) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Heart Break](https://open.spotify.com/album/1bTjSqotSDtUjcwFfukTQP) | 5:09 | 2021-07-01 |  |
 | [In My Bed \- So So Def Mix](https://open.spotify.com/track/5MYmYqVtTgQ41HYJTwAmcf) | [Dru Hill](https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6) | [Never Make A Promise](https://open.spotify.com/album/13mS371zx5j7YqRywIywX7) | 4:03 | 2021-07-01 |  |
-| [It Was A Good Day](https://open.spotify.com/track/522eZy6MJQKxwLyXZ4I6jA) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [The Predator \(World\) \[Clean\]](https://open.spotify.com/album/0aOnzWydYMljh9QiAlDtZz) | 4:21 | 2021-07-01 |  |
+| [It Was A Good Day](https://open.spotify.com/track/522eZy6MJQKxwLyXZ4I6jA) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [The Predator \(World\) \[Clean\]](https://open.spotify.com/album/0aOnzWydYMljh9QiAlDtZz) | 0:29 | 2021-07-01 |  |
 | [Just Fine](https://open.spotify.com/track/33vzOPcd9FRirYGlCu32x4) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Growing Pains](https://open.spotify.com/album/5PlA7xVCN59vR0YAnRVisM) | 4:02 | 2021-07-01 |  |
 | [Just Friends \(Sunny\)](https://open.spotify.com/track/5jgEJXjECdlhzNgfITSTVm) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Aijuswanaseing](https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c) | 4:11 | 2021-07-01 |  |
 | [Let's Groove](https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Raise!](https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg) | 5:39 | 2021-07-01 |  |

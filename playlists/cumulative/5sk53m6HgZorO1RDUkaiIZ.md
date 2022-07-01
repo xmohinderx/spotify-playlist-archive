@@ -4,7 +4,7 @@
 
 > All confirmed artists at the Bråvalla Festival 2017! June 28th \- July 1st, Norrköping, Sweden\. <a href="http://www.bravallafestival.se/">www.bravallafestival.se</a>
 
-159 songs - 10 hr 4 min - [published](https://open.spotify.com/playlist/2tslPI1L7we7Rqm1LSxr3A)
+159 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/2tslPI1L7we7Rqm1LSxr3A)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/track/2yz5IaQLnO8WBCIWMXoRBS) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE) | 3:48 | 2017-04-23 |  |
 | [Leave Me Here](https://open.spotify.com/track/1Hu7uWexshjLpeera5VN8w) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [Salvation](https://open.spotify.com/album/1rdVGFcmOnQzjEsW4fI45P) | 7:15 | 2017-03-17 |  |
 | [Let Her Go](https://open.spotify.com/track/7DFNE7NO0raLIUbgzY2rzm) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All The Little Lights](https://open.spotify.com/album/2mylGx7w2Q3yhUyN8iEWOF) | 4:12 | 2016-12-19 |  |
-| [Lost on You](https://open.spotify.com/track/3SqvR3HYLlCTYzbDXJ52OC) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/3R2TVCA5PMMnEcVlIOCMEG) | 4:28 | 2017-01-24 |  |
+| [Lost on You](https://open.spotify.com/track/3SqvR3HYLlCTYzbDXJ52OC) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/3R2TVCA5PMMnEcVlIOCMEG) | 0:29 | 2017-01-24 |  |
 | [Love Drug](https://open.spotify.com/track/4GUuAnl6UHJ3NJdw402woI) | [Die Antwoord](https://open.spotify.com/artist/6urkHDoIVO1WO8vNIwcJmM) | [Love Drug](https://open.spotify.com/album/5RtwW2Rw6ya9PFeTggI0A6) | 4:10 | 2017-05-05 |  |
 | [Love Me Like You Do \- From "Fifty Shades Of Grey"](https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j) | 4:12 | 2016-12-19 |  |
 | [Lyckligare nu](https://open.spotify.com/track/61o5tmzK4TdftIGykP7stT) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Till mina älskade och älskare](https://open.spotify.com/album/4GT1R1qWhevQETcLMwrXxJ) | 3:20 | 2017-03-06 |  |
@@ -106,7 +106,7 @@
 | [My Name Is Human](https://open.spotify.com/track/6lYkFYPKdyOSSZ5xHCJbYg) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [The Boy Who Died Wolf](https://open.spotify.com/album/4Vwy2RelnRLfsVsuCnJ2Lb) | 4:18 | 2017-03-29 |  |
 | [Nervous \(The Ooh Song\) \- Mark McCabe Remix](https://open.spotify.com/track/0L9lXMXddmoBbBUeF7A9An) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE), [Mark McCabe](https://open.spotify.com/artist/7b7fZRv3EYhFgWYJR3yjXn) | [Nervous \(The Ooh Song\) \[Mark McCabe Remix\]](https://open.spotify.com/album/6jfuBG9u0Au2nWXGXTXmux) | 3:15 | 2017-03-10 |  |
 | [New Americana](https://open.spotify.com/track/7ax0KTiQf6EWa59S3iQwHI) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS \(Deluxe\)](https://open.spotify.com/album/1kxDY7IJjRHX3dpQTvFUmS) | 3:03 | 2017-03-10 |  |
-| [Night People](https://open.spotify.com/track/75TulEelZ2Bru5ixJYGJBv) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Night People](https://open.spotify.com/album/2SChkyg43hZMnY5EtTv5F2) | 3:03 | 2017-03-29 |  |
+| [Night People](https://open.spotify.com/track/75TulEelZ2Bru5ixJYGJBv) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Night People](https://open.spotify.com/album/2SChkyg43hZMnY5EtTv5F2) | 0:29 | 2017-03-29 |  |
 | [No Type](https://open.spotify.com/track/6wb6zxkNTBtcYVkXcvNyJp) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [SremmLife](https://open.spotify.com/album/4ZmCBqmAmzZaw6AKnlXqQI) | 3:20 | 2017-02-09 |  |
 | [Nobody](https://open.spotify.com/track/581mukhDjta60CCwpvnjL9) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Babylon \(Revised Online Music\)](https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg) | 3:56 | 2017-02-09 |  |
 | [Not Alone](https://open.spotify.com/track/7tx0NDsCViutjOyd1c4A28) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Not Alone](https://open.spotify.com/album/4c8BPGJWw7q2i1wWagUWnz) | 3:35 | 2016-12-19 |  |

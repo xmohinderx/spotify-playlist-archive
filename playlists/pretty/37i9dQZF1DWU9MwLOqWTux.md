@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9MwLOqWTux.md) - [plain]
 
 > <a href ="spotify:artist:0Dc2rdPzleezxhvQhQbXuS">Idris Elba</a>'s tantalizing mix demonstrates the renowned actor's talents on the decks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,801 likes - 14 songs - 58 min 47 sec
+[Spotify](https://open.spotify.com/user/spotify) - 10,835 likes - 14 songs - 55 min 4 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9MwLOqWTux.md) - [plain]
 | 3 | [Pronk \- Mixed](https://open.spotify.com/track/39CddxzMKxEsELQgyfgftC) | [GAWP](https://open.spotify.com/artist/7nRbEJhGU1wq3sEuQelrzb) | [Pronk \(Mixed\)](https://open.spotify.com/album/6LjqVZOeGFG0FJeY0M9M1I) | 4:15 |
 | 4 | [No More Looking Back \(feat\. Steffanie Christi'an\) \- David Penn Remix \- Mixed](https://open.spotify.com/track/12l2lGYYP3uWiPVOnwJcNL) | [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Steffanie Christi'an](https://open.spotify.com/artist/7kY9ne2m81JVEziwNj9tTF), [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki) | [No More Looking Back \(feat\. Steffanie Christi'an\) \- David Penn Remix \[Mixed\]](https://open.spotify.com/album/7xwO6v8CjGwkofetbPYQIC) | 4:20 |
 | 5 | [Back To Me \- Mixed](https://open.spotify.com/track/0cS8Wehd6aeTq8hX4Cq4hu) | [The Aston Shuffle](https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94), [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Blush'ko](https://open.spotify.com/artist/2HIOco7R2mZPqBSL2SMIFw) | [Back To Me \(Mixed\)](https://open.spotify.com/album/70rfeZfWCX4OcNCzpDo4Db) | 4:40 |
-| 6 | [The Payoff \- Extended Mix \- Mixed](https://open.spotify.com/track/4xAM7aIfsBy8TOcJa4yj6Q) | [ATFC](https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs), [Gene Farris](https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU) | [The Payoff \- Extended Mix \(Mixed\)](https://open.spotify.com/album/5zrWOL3ZbvWbW70bNhckt0) | 4:12 |
+| 6 | [The Payoff \- Extended Mix \- Mixed](https://open.spotify.com/track/4xAM7aIfsBy8TOcJa4yj6Q) | [ATFC](https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs), [Gene Farris](https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU) | [The Payoff \- Extended Mix \(Mixed\)](https://open.spotify.com/album/5zrWOL3ZbvWbW70bNhckt0) | 0:29 |
 | 7 | [Coloured Lights \- Mixed](https://open.spotify.com/track/7LipJkfUxrPUyly3Z7ZrPH) | [Jimmy Switch](https://open.spotify.com/artist/2sCi3vsX1DQrmiuGQ18dDO) | [Coloured Lights \(Mixed\)](https://open.spotify.com/album/4SiJIWjrSgXWdk3E5BGTOV) | 4:53 |
 | 8 | [Wine It \- Mixed](https://open.spotify.com/track/5vnBJanTegEzGTAezqbtaI) | [Bluey](https://open.spotify.com/artist/5Z0rj4BsGFT66VxIOXD4Xa) | [Wine It \(Mixed\)](https://open.spotify.com/album/4LOrbMFzk1imXDAKr4IrxF) | 5:11 |
 | 9 | [Fudge \- Low Steppa Remix \- Edit \- Mixed](https://open.spotify.com/track/6Y5jMZcWHSIqELrCItDpbU) | [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op), [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob) | [Fudge \- Low Steppa Remix \- Edit \(Mixed\)](https://open.spotify.com/album/6T7RQopy2CYPa7vuVKasxP) | 4:24 |

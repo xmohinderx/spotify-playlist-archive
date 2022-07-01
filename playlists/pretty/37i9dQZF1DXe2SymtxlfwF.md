@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2SymtxlfwF.md) - [plain]
 
 > Your essential Max Richter, all in one collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,999 likes - 91 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,059 likes - 91 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2SymtxlfwF.md) - [plain]
 | 61 | [The Haunted Ocean 4](https://open.spotify.com/track/1bTJkfwWgQRjubgLzkCI9c) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Waltz With Bashir](https://open.spotify.com/album/0OBQ8rUMbtOyMZCq1RhYFj) | 3:44 |
 | 62 | [Iconography](https://open.spotify.com/track/6RdySnqgL63I7ISbYOECjL) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Blue Notebooks](https://open.spotify.com/album/0m6Zt3YJAMWwGRTPvTnY4g) | 3:38 |
 | 63 | [Dona Nobis Pacem 1](https://open.spotify.com/track/1VbkuH51xozbtwOcMjis5N) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Leftovers \(Music from the HBO® Series\) Season 1](https://open.spotify.com/album/3QxkdzjGRA4Z1dOfY0e994) | 3:48 |
-| 64 | [Miss Sloane Solo](https://open.spotify.com/track/45SUuwxzQQzvnAaMjuM5XZ) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Miss Sloane \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yZ9kWiGkJ3i6fxWw9cxV9) | 2:07 |
+| 64 | [Miss Sloane Solo](https://open.spotify.com/track/45SUuwxzQQzvnAaMjuM5XZ) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Miss Sloane \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yZ9kWiGkJ3i6fxWw9cxV9) | 0:29 |
 | 65 | [Beginning and Ending](https://open.spotify.com/track/1QfjGDbGtAluEPT376X8zs) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Congress \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/095QbAjet5Lb4lfaR5Lz70) | 4:54 |
 | 66 | [H In New England](https://open.spotify.com/track/1rlp0Err7DDPV4mu3iWCwX) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [24 Postcards In Full Colour](https://open.spotify.com/album/3YNEiMT8bzX1Qjid0jWX7e) | 1:50 |
 | 67 | [Sunlight](https://open.spotify.com/track/5DXpeFcPHZY3RMChjnB2b5) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Louisa Fuller](https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ), [Natalia Bonner](https://open.spotify.com/artist/4d6eKLLJbe2ZeiL07Du7vB), [Rico Costa](https://open.spotify.com/artist/32yNIfEWrf88F4913yqbNL), [John Metcalfe](https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd), [Ian Burdge](https://open.spotify.com/artist/0cs87q4mrkIUnMqHVAf4eL), [Chris Worsey](https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE) | [Songs From Before](https://open.spotify.com/album/1v1fuOZBcYqCRPp1y0p9eZ) | 5:35 |

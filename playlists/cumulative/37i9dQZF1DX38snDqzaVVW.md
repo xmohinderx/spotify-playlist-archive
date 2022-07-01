@@ -4,7 +4,7 @@
 
 > Shafqat Amanat Ali with his favourite tracks this Ramadan.
 
-113 songs - 10 hr 42 min - [published](https://open.spotify.com/playlist/7MSqaDSzxaFqFJKHv6785m)
+113 songs - 10 hr 9 min - [published](https://open.spotify.com/playlist/7MSqaDSzxaFqFJKHv6785m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Friday](https://open.spotify.com/track/73tIJHETXreaZaleUrn0Tp) | [Enfant Libya](https://open.spotify.com/artist/54B1txPNBqgBrbgpixSRbF) | [Music from Saharan Cellphones, Vol\. 2](https://open.spotify.com/album/2ec7StRUkm51joitBXItbK) | 1:01 | 2021-10-21 | 2022-04-01 |
 | [God Is The Light](https://open.spotify.com/track/7ABsnbYqw7w6LK5x7s5LyW) | [Yusuf Islam](https://open.spotify.com/artist/5OC5mCMdUlT4F8H9knv2AD) | [Footsteps in the Light](https://open.spotify.com/album/4KPfVQciR75LePLwWHb0O0) | 3:40 | 2022-03-31 | 2022-04-18 |
 | [Ha Anatha](https://open.spotify.com/track/5MuMN3fAIM0n6N280rVKlP) | [Humood AlKhudher](https://open.spotify.com/artist/0m5YepvtZWhXhNhAqrc50S) | [Aseer Ahsan](https://open.spotify.com/album/40TqxA9cY9K1m12eGL4tvm) | 4:02 | 2022-03-31 | 2022-04-18 |
-| [Haq Ali Ali Maula](https://open.spotify.com/track/5PjqyZ3iFTaQgfSkbIOY1G) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Best of Ustad Nusrat Fateh Ali Khan](https://open.spotify.com/album/3G9LyV2ySOK2L1GZdqUb28) | 29:09 | 2022-04-18 |  |
+| [Haq Ali Ali Maula](https://open.spotify.com/track/5PjqyZ3iFTaQgfSkbIOY1G) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Best of Ustad Nusrat Fateh Ali Khan](https://open.spotify.com/album/3G9LyV2ySOK2L1GZdqUb28) | 0:29 | 2022-04-18 |  |
 | [Hasbi Rabbi](https://open.spotify.com/track/1VQI2F0o229lNoyFC9d6eh) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [My Ummah](https://open.spotify.com/album/3mInNCcr0tAvc6eFSTSUcz) | 4:18 | 2022-04-18 |  |
 | [Hasbunallah](https://open.spotify.com/track/6rbUbzBksOqlT0i2YXwNX4) | [Mesut Kurtis](https://open.spotify.com/artist/1B03KdvD2TCVUEeaDbP5qf) | [Balaghal Ula](https://open.spotify.com/album/3qxn1xd9zW8tOHyA4R156P) | 3:25 | 2022-03-31 | 2022-04-18 |
 | [Hubb Ennabi](https://open.spotify.com/track/2qZ7TOLvwtD8uWn5e8qYXc) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Hubb Ennabi](https://open.spotify.com/album/2YZFEVlbqNJs22h35HPfmY) | 3:53 | 2021-10-21 | 2022-04-01 |
@@ -112,7 +112,7 @@
 | [Wohi Khuda](https://open.spotify.com/track/0c8eAkUFDMCgJB53lplqJv) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Wohi Khuda](https://open.spotify.com/album/4obnIXVOOxpSRY8mgzsDjp) | 6:49 | 2022-03-31 | 2022-04-18 |
 | [Wohi Khudi Hai \- Hamd](https://open.spotify.com/track/3THMwRl9JhZkbzKOn0FjSS) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Wohi Khuda Hai Vol\. 57](https://open.spotify.com/album/5TYbHNXo0SeRNytc4BT7TU) | 6:04 | 2022-04-18 |  |
 | [Ya Hayyu Ya Qayyum](https://open.spotify.com/track/1ls3yy0y5JFqIt3qd2vGXe) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj), [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [O Lovers: Music from the Unseen World](https://open.spotify.com/album/2JiEwsAb7Wa3Xxn9gbd3z9) | 5:18 | 2022-04-18 |  |
-| [Ya Nabi Salam Alayka](https://open.spotify.com/track/5HHjEUuf9lNhQWJ1pZeGgI) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Thank You Allah \(Turkish Version\)](https://open.spotify.com/album/1Wul1gjulHQkgnZ1aZMgne) | 4:56 | 2022-04-18 |  |
+| [Ya Nabi Salam Alayka](https://open.spotify.com/track/5HHjEUuf9lNhQWJ1pZeGgI) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Thank You Allah \(Turkish Version\)](https://open.spotify.com/album/1Wul1gjulHQkgnZ1aZMgne) | 0:29 | 2022-04-18 |  |
 | [Ya Nabi Salam Alayka \- Arabic Version \- Bonus Track](https://open.spotify.com/track/1UNOACS4O1ROKbDsLfMjOd) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Thank You Allah \(French Version\)](https://open.spotify.com/album/13jtfxj1q4UrhsAOQQjr68) | 4:58 | 2022-03-31 | 2022-04-18 |
 | [Ya Rabb](https://open.spotify.com/track/7xuZ1Msjft0METU2vH54kb) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [The Best of Islamic Music Vol\. 2](https://open.spotify.com/album/1pDnHdMzxKhuvLTa2zTVMS) | 4:02 | 2022-03-31 | 2022-04-18 |
 | [Ya Rabbil Alameen](https://open.spotify.com/track/6z95hvERZO7pG9pd1GyN7K) | [Nabeel Shaukat Ali](https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp) | [Ya Rabbil Alameen](https://open.spotify.com/album/6ZGHInu9fHT8pBz3xzkR0W) | 4:31 | 2022-04-18 |  |

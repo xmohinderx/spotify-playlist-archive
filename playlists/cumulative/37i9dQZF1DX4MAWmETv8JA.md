@@ -4,7 +4,7 @@
 
 > O melhor do trance feito na América Latina / Lo mejor del trance latino\. Foto: Henrique Camacho
 
-65 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/0YKwThAgsj7nOJs08LIQIc)
+65 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/0YKwThAgsj7nOJs08LIQIc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Hush](https://open.spotify.com/track/69X1UpNFmsXF5J7QlIayKe) | [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs) | [Hush](https://open.spotify.com/album/3NTL9WFX7PvhBjEqIXcFgl) | 6:09 | 2022-03-04 |  |
 | [Hypnosis](https://open.spotify.com/track/16Ip719XhIh8UcEYYzfzPD) | [MoRsei](https://open.spotify.com/artist/2HtfoBU1XqW7HHcLpuV3nY) | [Hypnosis](https://open.spotify.com/album/17CJAfC2RvB4BEOQofU4LX) | 7:39 | 2022-03-04 |  |
 | [Interlude \- Shapeless Remix](https://open.spotify.com/track/3HfUAWHIjzfNzlbfdvIyx4) | [Blazy](https://open.spotify.com/artist/0ASqieRgSFzYlNmf1VkBVC), [Aura Vortex](https://open.spotify.com/artist/5T6ATRUoiqVQpcQTK94ies), [Shapeless](https://open.spotify.com/artist/01056gItT5lFJEvQnFOByX) | [Interlude](https://open.spotify.com/album/6teK4qQcl42SrpiSPrntEs) | 2:37 | 2022-03-04 |  |
-| [Issues](https://open.spotify.com/track/4AE5YnXiGC6Hh5Tfk7HgtR) | [Pribe](https://open.spotify.com/artist/5J41o0l7Wy6ZBc14nts5T4), [Kurtt](https://open.spotify.com/artist/7JHmRze9V18uFjvrCktqxK) | [Issues](https://open.spotify.com/album/2JSkRQLNecYwolOHk24Y4A) | 4:45 | 2022-03-04 |  |
+| [Issues](https://open.spotify.com/track/4AE5YnXiGC6Hh5Tfk7HgtR) | [Pribe](https://open.spotify.com/artist/5J41o0l7Wy6ZBc14nts5T4), [Kurtt](https://open.spotify.com/artist/7JHmRze9V18uFjvrCktqxK) | [Issues](https://open.spotify.com/album/2JSkRQLNecYwolOHk24Y4A) | 0:29 | 2022-03-04 |  |
 | [Karma](https://open.spotify.com/track/3nLBqiDoxZYk0M8cI1lBhc) | [Interactive Noise](https://open.spotify.com/artist/4lA68EVFzoodItMp7RH2cv) | [Karma](https://open.spotify.com/album/3FNMvlWkcvXiwH9bV2Kct4) | 5:53 | 2022-03-04 |  |
 | [Kazahi](https://open.spotify.com/track/5djymDPX9E9k6kHzEukIeS) | [Vermont \(BR\)](https://open.spotify.com/artist/7aS93G9e7XG0GCUATQjqv0), [Bandi](https://open.spotify.com/artist/66Vf4RDefmPzXlAyDRb998) | [Kazahi](https://open.spotify.com/album/3kSLdwL7gY5hr4RcNdXElT) | 6:25 | 2022-03-04 |  |
 | [Life on Mars](https://open.spotify.com/track/2uh87m3mif5cieKwW6IeDz) | [Auravoid](https://open.spotify.com/artist/1EzfgviWQKgA1FhI0579Qx) | [Life on Mars](https://open.spotify.com/album/2stebv55HW8bLkoOSA6l4G) | 7:26 | 2022-03-04 |  |

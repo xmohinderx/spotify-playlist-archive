@@ -4,7 +4,7 @@
 
 > Lo mejor de los '70\. Foto: Ismael Rivera
 
-50 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/4nnFd93C2I3sEx07XAmJIF)
+50 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/4nnFd93C2I3sEx07XAmJIF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [El Dia De Suerte](https://open.spotify.com/track/0Az3jAeIEImuTugUp33ajY) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Hector Lavoe El Cantante \-The Originals](https://open.spotify.com/album/6RPoqtPA2JdEXv7vAeFtj4) | 5:27 | 2022-02-18 |  |
 | [El Nazareno](https://open.spotify.com/track/062vOe8esScYEDw4cPvBxs) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [La Herencia](https://open.spotify.com/album/7C94KIrL1IS3hHQwQ9BbGr) | 5:36 | 2022-02-18 |  |
 | [El Negro Bembon](https://open.spotify.com/track/1xVSHCVq7yfjl3txyq9dsw) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [El Sonero Mayor](https://open.spotify.com/album/2lV3Tmgb4lIv6CbVJKJmjZ) | 3:03 | 2022-02-18 |  |
-| [El Pito \(I'll Never Go Back to Georgia\)](https://open.spotify.com/track/123DhY52I0k5RVbJyGUwt9) | [Joe Cuba](https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh) | [We Must Be Doing Something Right](https://open.spotify.com/album/0e6r15KH883uqbc8iWqpyC) | 5:33 | 2022-02-18 |  |
+| [El Pito \(I'll Never Go Back to Georgia\)](https://open.spotify.com/track/123DhY52I0k5RVbJyGUwt9) | [Joe Cuba](https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh) | [We Must Be Doing Something Right](https://open.spotify.com/album/0e6r15KH883uqbc8iWqpyC) | 0:29 | 2022-02-18 |  |
 | [El Preso](https://open.spotify.com/track/5N8HRh3pKXakJrdxQKMi1j) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [Narcos, Vol\. 2 \(More Music from the Netflix Original Series\)](https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB) | 4:53 | 2022-02-18 |  |
 | [El Raton](https://open.spotify.com/track/6Zsm8QFqZ4jQhrVnTkzTqA) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [A Man And His Music](https://open.spotify.com/album/5ooBxlDpe7vgUqHlVekC89) | 3:50 | 2022-02-18 |  |
 | [El Watusi](https://open.spotify.com/track/3eBkq0Q62N2CXuJzoC0ZyE) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [The Latin Soul Man](https://open.spotify.com/album/5eJb5vJaEkFhyYYnPeIltG) | 2:39 | 2022-02-18 |  |
@@ -43,7 +43,7 @@
 | [Quimbara](https://open.spotify.com/track/3GDna1GrUkkjZTaoysolGQ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Celia y Johnny](https://open.spotify.com/album/3ETmy7JfoqlvAwVg1sopmg) | 4:51 | 2022-02-18 |  |
 | [Quitate La Mascara](https://open.spotify.com/track/4k7UQjVkgyqAJ3pEK511YS) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [From the Beginning](https://open.spotify.com/album/3nr9RkYkXpSjmuoyK3IosZ) | 4:31 | 2022-02-18 |  |
 | [Quítate Tú](https://open.spotify.com/track/2KOiIR272UwNz61tWNhouU) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Fania All Stars Campeones](https://open.spotify.com/album/2OY2VLc3Bt8HjtHaIg2hyH) | 5:31 | 2022-02-18 |  |
-| [Richie's Jala Jala](https://open.spotify.com/track/4Mk7napJbsKzRAs38jy0oK) | [Ricardo Ray](https://open.spotify.com/artist/33nZie2hFLgUG9gUfjTRoq) | [Jala Jala Y Boogaloo](https://open.spotify.com/album/4UnQVmkl3uH5mEBeAvQbjH) | 5:07 | 2022-02-18 |  |
+| [Richie's Jala Jala](https://open.spotify.com/track/4Mk7napJbsKzRAs38jy0oK) | [Ricardo Ray](https://open.spotify.com/artist/33nZie2hFLgUG9gUfjTRoq) | [Jala Jala Y Boogaloo](https://open.spotify.com/album/4UnQVmkl3uH5mEBeAvQbjH) | 0:29 | 2022-02-18 |  |
 | [Salome](https://open.spotify.com/track/2DHrS1przbyBmf6Pf22v8R) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [With A Little Help From My Friend](https://open.spotify.com/album/0XmKZ22TgWZ2c1X7dxWPAw) | 4:42 | 2022-02-18 |  |
 | [Senor Sereno](https://open.spotify.com/track/4DP2GpPC1F8tFyGRMY4fbA) | [Larry Harlow](https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J), [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Oportunidad](https://open.spotify.com/album/2HeEHgCPC1b1mPUBfv37rK) | 5:31 | 2022-02-18 |  |
 | [Siempre Alegre](https://open.spotify.com/track/6otJXrhINqJosHnDwFtGj2) | [Raphy Leavitt](https://open.spotify.com/artist/0MEfUKKTbD1V0312mx08JR) | [The Greatest Salsa Ever](https://open.spotify.com/album/4tYWoynGUNW2Hsz1Q2jC9Q) | 5:18 | 2022-02-18 |  |

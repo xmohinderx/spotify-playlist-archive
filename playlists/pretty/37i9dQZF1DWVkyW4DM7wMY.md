@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 
 > The hottest alternative music from Nairobi to Dar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,202 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,210 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 | 30 | [Jaafari's 19th](https://open.spotify.com/track/5JyMs4lhBY6IaL45sgVLKi) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Jaafari's 19th](https://open.spotify.com/album/0ai61scImkAr7m5BXocapW) | 3:33 |
 | 31 | [Just Another Love Song](https://open.spotify.com/track/20u7hieXi6VV3t6p5s9ggJ) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Meghan](https://open.spotify.com/artist/48KeNSc5xrQvLgxGxIFvoI) | [Just Another Love Song](https://open.spotify.com/album/532BimGtZfjb35BXOSTnJe) | 2:57 |
 | 32 | [Klabu](https://open.spotify.com/track/6QOxa26PnUPC9bxJKWDinP) | [MR\. LU\*](https://open.spotify.com/artist/05KD4zm2D3CbvjIgylLTTF) | [Klabu](https://open.spotify.com/album/6QP1Xlw0ufY3bsCmaMz8im) | 2:08 |
-| 33 | [Genuine](https://open.spotify.com/track/5pM1WfOZrSWWhap2LbUeIq) | [Ekumbo](https://open.spotify.com/artist/1a40Z4TMkLys2UVlxDXPT7), [Swahili Papi](https://open.spotify.com/artist/66HNxzGcmvdYQD36Pcg0Di), [B.Hobs](https://open.spotify.com/artist/6j4XLopWlHMQqAR92RvI53) | [Genuine](https://open.spotify.com/album/2hDhraboxuNWVKTbg1sf0x) | 2:56 |
+| 33 | [Genuine](https://open.spotify.com/track/5pM1WfOZrSWWhap2LbUeIq) | [Ekumbo](https://open.spotify.com/artist/1a40Z4TMkLys2UVlxDXPT7), [Swahili Papi](https://open.spotify.com/artist/66HNxzGcmvdYQD36Pcg0Di), [B.Hobs](https://open.spotify.com/artist/6j4XLopWlHMQqAR92RvI53) | [Genuine](https://open.spotify.com/album/2hDhraboxuNWVKTbg1sf0x) | 0:29 |
 | 34 | [Kilimanjaro](https://open.spotify.com/track/72Y9SizWSPb9Xnn9SEmRgH) | [The.wav](https://open.spotify.com/artist/1OiTKR7t69UAVnJYfbOPf4) | [Diamond in the Trenches](https://open.spotify.com/album/0KzqafoJtX1JeWzQwS2K47) | 5:08 |
 | 35 | [Ex Wako Hawezi](https://open.spotify.com/track/3lHMAXPEoikE95Diavz31s) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Ex Wako Hawezi](https://open.spotify.com/album/1Dc1YLXcQXRuNn55VaWxGc) | 3:48 |
 | 36 | [Fall In Love](https://open.spotify.com/track/35meyoYQd5k0mDKpk6RlAW) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Fall In Love](https://open.spotify.com/album/1Ity1cTX8gNylmJi5CNtcf) | 1:14 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 | 55 | [Microwave](https://open.spotify.com/track/34vw8DKn7RIcoC7igRqUGC) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Microwave](https://open.spotify.com/album/5ozHQm7hB3VlhMz1wIfm1E) | 2:45 |
 | 56 | [I Give Her Love](https://open.spotify.com/track/6haw04b2NBB93aG0xeuZ5c) | [The Mith](https://open.spotify.com/artist/1xGpeTWvpYbkDTpP5dXyNf), [Herbert Ssensamba](https://open.spotify.com/artist/551y4ECPYt7eD0EIlew8sg) | [The Ugandan](https://open.spotify.com/album/3oyokB16SXiEeZybhCS2V8) | 4:38 |
 | 57 | [Cigarette](https://open.spotify.com/track/5NLPsDXx7q3zZFbFv5pdeQ) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Cigarette](https://open.spotify.com/album/7lVfpqQNDnvujR82cyXFOd) | 4:13 |
-| 58 | [Oh! My Dear...](https://open.spotify.com/track/28HrRHjy9GDMcHjOzLMOVE) | [Wamugunda](https://open.spotify.com/artist/2Mj0SBavSxKCv3MMUfvBEP), [Muthoni Njoroge](https://open.spotify.com/artist/3UmkRFAyY476ELymys1RUP) | [Oh! My Dear...](https://open.spotify.com/album/6Is4wsIEwh0xT5FZ9aRnaI) | 6:39 |
+| 58 | [Oh! My Dear...](https://open.spotify.com/track/28HrRHjy9GDMcHjOzLMOVE) | [Wamugunda](https://open.spotify.com/artist/2Mj0SBavSxKCv3MMUfvBEP), [Muthoni Njoroge](https://open.spotify.com/artist/3UmkRFAyY476ELymys1RUP) | [Oh! My Dear...](https://open.spotify.com/album/6Is4wsIEwh0xT5FZ9aRnaI) | 0:29 |
 | 59 | [New Level // SUPERWATER](https://open.spotify.com/track/0wIDhVcSIKvB8zxpfJc9dC) | [BEMATA](https://open.spotify.com/artist/795rusHeDFKZwVrgmzx87x) | [New Level // SUPERWATER](https://open.spotify.com/album/2N0k8TVpxu2uZuR3C0tQHH) | 3:20 |
 | 60 | [AMADOU.JPG](https://open.spotify.com/track/4mchgg9m8p0F4pgTx2jD7C) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [IFIEVERCANTMAKEIT.JPG](https://open.spotify.com/album/5EUP2zubhoYrkO9kGFgIfd) | 5:41 |
 | 61 | [Echoes \- Remix](https://open.spotify.com/track/3B7XQSWXPAsz50D3NZTmZi) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729), [K!MERA](https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN) | [Echoes \(Remix\)](https://open.spotify.com/album/21mY94BhJNjVcHXuTuBElI) | 2:47 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 | 67 | [Changed the Game \- Radio Edit](https://open.spotify.com/track/56Lv8Cn8pqBH0Rt8VkwtcR) | [Tofa Jaxx](https://open.spotify.com/artist/1CThfFD9mffbXka0DLLWxq) | [Changed the Game](https://open.spotify.com/album/0ElhbiaJqf836NlDDU1FcG) | 2:12 |
 | 68 | [Sana](https://open.spotify.com/track/6cNt6K8BTWyX3ntnMBHjgt) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Merry\-Lynn](https://open.spotify.com/artist/5SX1BNsF4WtgumEhJ2B9o7) | [Sana](https://open.spotify.com/album/6DIKpG4tLCzL3VXkohDwrR) | 2:43 |
 | 69 | [Lowkey](https://open.spotify.com/track/5vftqVHNTFUEYTpqszZi5e) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Lowkey](https://open.spotify.com/album/5SgR3uwNfIzqRhULqPQAAr) | 2:50 |
-| 70 | [Perfection // T r u s t](https://open.spotify.com/track/54ohrKq1emSHaPVauPQJl8) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Perfection // T r u s t](https://open.spotify.com/album/3oJxCtVQHvswZNwWVgKlJh) | 4:00 |
+| 70 | [Perfection // T r u s t](https://open.spotify.com/track/54ohrKq1emSHaPVauPQJl8) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Perfection // T r u s t](https://open.spotify.com/album/3oJxCtVQHvswZNwWVgKlJh) | 0:29 |
 
 Snapshot ID: `MTY1NjA2MTEzOCwwMDAwMDA1ZDAwMDAwMTgxOTRlZjk4MzEwMDAwMDE4MTkyMDEwOGZi`

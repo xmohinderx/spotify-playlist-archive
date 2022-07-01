@@ -368,6 +368,28 @@
     },
     {
       "album": {
+        "name": "Introvert",
+        "url": "https://open.spotify.com/album/1UB0WV9UwC1xaQY95c5md6"
+      },
+      "artists": [
+        {
+          "name": "Saint Asonia",
+          "url": "https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8"
+        },
+        {
+          "name": "Terrible Johnny",
+          "url": "https://open.spotify.com/artist/4ekKTR0gTosJEoEcLd5RSZ"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219551,
+      "name": "Chew Me Up (feat. Terrible Johnny)",
+      "url": "https://open.spotify.com/track/5VE9fM3rSpbFrqqgWJYgbk"
+    },
+    {
+      "album": {
         "name": "come down",
         "url": "https://open.spotify.com/album/4QsY8Rml3toMBNN5548lRz"
       },
@@ -1388,7 +1410,7 @@
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 208138,
+      "duration_ms": 29048,
       "name": "Natalie",
       "url": "https://open.spotify.com/track/19sVo6XSeni1nVQW0eZuxt"
     },
@@ -2237,7 +2259,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 193625,
       "name": "Yank",
       "url": "https://open.spotify.com/track/2w0gMZl51XFQZicQFvAkLz"

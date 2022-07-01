@@ -4,7 +4,7 @@
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Nochica, Vitin, SD9, JEFFRO
 
-83 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/6DYnkcmoPdSe2U2BMKpXAN)
+83 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/6DYnkcmoPdSe2U2BMKpXAN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Purgatório](https://open.spotify.com/track/1ercOSIHel4G7fAJ11jGun) | [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG), [N11G4](https://open.spotify.com/artist/4SNLzzOQgR4p2tDpV6tMH2), [raxi](https://open.spotify.com/artist/2AMCeZxGSSWvUpBZtZ0U5a) | [Purgatório](https://open.spotify.com/album/2XXHBEd5e361Bl5Qz7E56s) | 2:18 | 2022-03-11 | 2022-03-31 |
 | [Putaria 2000](https://open.spotify.com/track/5Qjz1w6gyWje58AK2u0IMV) | [Puterrier](https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [Putaria 2000](https://open.spotify.com/album/6PX62HEjc1VcSeGGrauuaC) | 1:47 | 2022-04-22 | 2022-06-25 |
 | [Putaria e Crime](https://open.spotify.com/track/37FfXMaqjD664lk7VcXEqr) | [Natalhão](https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [BIDUZEN](https://open.spotify.com/artist/20tJsPo3GVroZHlbdXJ7nX) | [Putaria e Crime](https://open.spotify.com/album/1mt7soWCRIs5QgCOh2R8EL) | 4:03 | 2022-04-15 | 2022-05-07 |
-| [Puxa o Gatilho Primeiro](https://open.spotify.com/track/72BLgAUeyFgAX8T033l8Wv) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [Rap dos Novos Bandidos](https://open.spotify.com/album/2rYLZlhbWbcjNJg3PiwV9O) | 1:31 | 2022-03-11 |  |
+| [Puxa o Gatilho Primeiro](https://open.spotify.com/track/72BLgAUeyFgAX8T033l8Wv) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [Rap dos Novos Bandidos](https://open.spotify.com/album/2rYLZlhbWbcjNJg3PiwV9O) | 0:29 | 2022-03-11 |  |
 | [Pé na Porta](https://open.spotify.com/track/5eOL7iFAVMMN9wkcXEpFzK) | [Jeffe](https://open.spotify.com/artist/2GqtX2WWuNOFjr5z8dLscC), [elKill](https://open.spotify.com/artist/7eANATXM8YLKN9GJ8TMUEO) | [Pé na Porta](https://open.spotify.com/album/2nL60fbmVwBUdwOUDkNf6v) | 2:39 | 2022-03-30 | 2022-04-23 |
 | [Quatcha](https://open.spotify.com/track/4yezTlJTfJwh2pkU3dtAtY) | [ANTCONSTANTINO](https://open.spotify.com/artist/0ncGcxcuCgFZ9vIMEMYQ30), [RB99](https://open.spotify.com/artist/3qv7iBA467VYqwJFbWMS4g) | [Quatcha](https://open.spotify.com/album/7vLphv7arvffzCmBNBtMqm) | 2:09 | 2022-06-17 |  |
 | [Raddim](https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [RADDIM](https://open.spotify.com/album/4bz8Hy3tV46QYTsQ3KbSh0) | 3:29 | 2022-03-11 |  |

@@ -4,7 +4,7 @@
 
 > The tracks that you love from the artists you love\. Cover: Erykah Badu
 
-109 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/55RU8oZjX8hltMj0iIsfn8)
+109 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/55RU8oZjX8hltMj0iIsfn8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Come Close](https://open.spotify.com/track/27nYhDKmTYtUmt9uOqVzpz) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Electric Circus](https://open.spotify.com/album/5WRbHe6NaCp8jNa38g7hUd) | 4:36 | 2021-12-28 |  |
 | [Come Over](https://open.spotify.com/track/6B9RmBaPzm6cyTzCYp7v2Z) | [Sandra St\. Victor](https://open.spotify.com/artist/75LCCM6sXjgq0RAa88nf4X) | [Mack Diva Saves The World](https://open.spotify.com/album/2TaeroIkEjqzB0euq1yfHd) | 5:41 | 2021-07-09 | 2021-12-29 |
 | [Comin' from Where I'm From \- Radio Mix](https://open.spotify.com/track/6UeROtzgj12WLgZx3033G6) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Comin' From Where I'm From](https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em) | 4:00 | 2021-07-09 |  |
-| [Could It Be](https://open.spotify.com/track/1eDmhyYxYa8VG360HVPzUh) | [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3) | [Ghetto Love](https://open.spotify.com/album/2Hvu2Yh4ghgcLvYLr3V5dM) | 3:44 | 2021-07-09 |  |
+| [Could It Be](https://open.spotify.com/track/1eDmhyYxYa8VG360HVPzUh) | [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3) | [Ghetto Love](https://open.spotify.com/album/2Hvu2Yh4ghgcLvYLr3V5dM) | 0:29 | 2021-07-09 |  |
 | [Count The Ways](https://open.spotify.com/track/1l7RyfwJeCGt8pZ9lQWz9C) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Detroit Deli \(A Taste Of Detroit\)](https://open.spotify.com/album/2mpzeA7pHNIDAPii4EEKsB) | 4:33 | 2021-07-09 |  |
 | [Dance Tonight](https://open.spotify.com/track/6gk2V87atn7XaaAltdYsKd) | [Lucy Pearl](https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7) | [Lucy Pearl](https://open.spotify.com/album/2RXWDBybggTGmdqFyYdRfZ) | 3:41 | 2021-07-09 |  |
 | [Distant Lady](https://open.spotify.com/track/61mkzcrrV7CfpggUuCNMib) | [Adriana Evans](https://open.spotify.com/artist/6sCf6HW9zBhLN64XC8tRdv) | [Lost and Found](https://open.spotify.com/album/7Je3fpcl3IE4Labowc1y8S) | 4:58 | 2021-07-09 |  |
@@ -92,7 +92,7 @@
 | [Spiritual Thang](https://open.spotify.com/track/1lcZPCRAuVXCHSqPsFaWlw) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov) | [True to Myself](https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3) | 4:00 | 2021-07-09 |  |
 | [Still Believe in Love \- Remastered](https://open.spotify.com/track/4a0PDBAWdsoJZyHKXfEr1X) | [jacksoul](https://open.spotify.com/artist/3xEW8BqMGXWkxTZbQhtnLE) | [Greatest Hits](https://open.spotify.com/album/4VNVEhCQmoi0TD13SZ5D4D) | 3:35 | 2021-07-09 |  |
 | [Still Ray](https://open.spotify.com/track/792tOJmf88fWGLyD7Ca1SC) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [Instant Vintage](https://open.spotify.com/album/0a0pGpzkkuoDNJhmv2Ti0V) | 3:03 | 2021-07-09 |  |
-| [Sumthin' Sumthin' \- Remastered 2021](https://open.spotify.com/track/60Pjyla2BNnWzWxNXxGa4u) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 4:17 | 2021-07-09 |  |
+| [Sumthin' Sumthin' \- Remastered 2021](https://open.spotify.com/track/60Pjyla2BNnWzWxNXxGa4u) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 0:29 | 2021-07-09 |  |
 | [Sweet Misery](https://open.spotify.com/track/7nGbmNhjAY99AYVeHJtaQO) | [Amel Larrieux](https://open.spotify.com/artist/4hVcxmC7igpot32EzQf7IR) | [Infinite Possibilities](https://open.spotify.com/album/4z7JmlQhmcw8p470hwxCVX) | 4:27 | 2021-07-09 | 2021-12-29 |
 | [Tell Me](https://open.spotify.com/track/2lp8xjq0WTm3HZKHuDEweg) | [Groove Theory](https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj) | [Groove Theory](https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc) | 3:56 | 2021-07-09 |  |
 | [The Lady Suite \- Live from MTV Unplugged, Brooklyn, NY \- May 1997](https://open.spotify.com/track/1wygFl6hCok4naRPSrDdWL) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [MTV Unplugged](https://open.spotify.com/album/5ejwNegV5hPkQRyMi7CiCs) | 4:20 | 2021-07-09 |  |

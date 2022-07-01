@@ -4,7 +4,7 @@
 
 > Driving rhythms, intricate instrumentation, and full harmonies\. Cover: Mumford & Sons
 
-71 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/2pddgQow7sguWtYurOyoiM)
+71 songs - 4 hr 23 min - [published](https://open.spotify.com/playlist/2pddgQow7sguWtYurOyoiM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,13 +18,13 @@
 | [Brother](https://open.spotify.com/track/6F99t4CzGk8zeaM9t3GMoj) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [Brother](https://open.spotify.com/album/1x28w9BPPpo4Xanlw284fR) | 3:28 | 2021-02-12 |  |
 | [By and By](https://open.spotify.com/track/75nZ4W6quZhI55LKiqCXWh) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM) | 4:40 | 2021-02-12 |  |
 | [Caesar Knows](https://open.spotify.com/track/7IkZ5KtGsJ95M5rrpdmscs) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Caesar Knows](https://open.spotify.com/album/0AAfuLbM9duV4zcHWaDNKG) | 2:36 | 2021-02-12 |  |
-| [Call Me In The Afternoon](https://open.spotify.com/track/2BBb3UMJBNlofpC25pbSp4) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Spotify Sessions](https://open.spotify.com/album/0FCAIjkz366qJJbLe7RSis) | 3:13 | 2021-02-12 |  |
+| [Call Me In The Afternoon](https://open.spotify.com/track/2BBb3UMJBNlofpC25pbSp4) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Spotify Sessions](https://open.spotify.com/album/0FCAIjkz366qJJbLe7RSis) | 0:29 | 2021-02-12 |  |
 | [Caroline](https://open.spotify.com/track/01xjqoUWoot91eGoYy7JDJ) | [Animal Years](https://open.spotify.com/artist/2TvIyBTuMGzgGuVLWKWJT1) | [Caroline](https://open.spotify.com/album/5dyHaBbEhvUdD7BW6VSzO1) | 3:32 | 2021-02-12 |  |
 | [Change Is Coming \- Acoustic Live](https://open.spotify.com/track/1ZTSU2rupKuLXTDLVwWvXQ) | [Winter Woods](https://open.spotify.com/artist/2vtKH5PTmi8s2ABdlgxuVG) | [Change Is Coming \(Acoustic Live\)](https://open.spotify.com/album/1YiePx83xEpTcX7Jodu7Ty) | 5:30 | 2021-02-12 |  |
 | [Cleopatra](https://open.spotify.com/track/3ePbSxBnTdAkPswCEvTmhp) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/6tB4FD3WN5bKmsklNDEWXv) | 3:21 | 2021-02-12 |  |
 | [Come with Me Now](https://open.spotify.com/track/5ipT1OJ5riog93dLlQ98Wx) | [KONGOS](https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS) | [Come with Me Now](https://open.spotify.com/album/4MqDBcOy73ebbsQ1OopDq6) | 3:31 | 2021-02-12 |  |
 | [Cypress Queen](https://open.spotify.com/track/4E3OQc3NdPIoIlir4aDFbe) | [The Last Bison](https://open.spotify.com/artist/6eJRqkCcePqNJkhk98IDbc) | [VA](https://open.spotify.com/album/6azoLLvralYBZzrhDI4oE2) | 4:27 | 2021-02-12 |  |
-| [Dearly Departed \(feat\. Esmé Patterson\)](https://open.spotify.com/track/6Gzjg6VWlLH5GluEOLdJfX) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Dearly Departed \(feat\. Esmé Patterson\)](https://open.spotify.com/album/5gluLjowIryNYpcyiAQmQU) | 3:32 | 2021-02-12 |  |
+| [Dearly Departed \(feat\. Esmé Patterson\)](https://open.spotify.com/track/6Gzjg6VWlLH5GluEOLdJfX) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Dearly Departed \(feat\. Esmé Patterson\)](https://open.spotify.com/album/5gluLjowIryNYpcyiAQmQU) | 0:29 | 2021-02-12 |  |
 | [Dirty Paws](https://open.spotify.com/track/1hxq7kWQnwdhxgpEugBMGk) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF) | 4:38 | 2021-02-12 |  |
 | [Diversity](https://open.spotify.com/track/0ucpRHgFX44qsmWSqyjVmZ) | [Family of the Year](https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq) | [Diversity \- EP](https://open.spotify.com/album/47SANjJ4wsx2MFKbrXerjY) | 3:40 | 2021-02-12 |  |
 | [Don't Let It Get You Down](https://open.spotify.com/track/72BlyfR0zO3NWcLZQ1ARcK) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Heart Beats](https://open.spotify.com/album/0y15X0ndhcjtGZQmr4apR6) | 3:20 | 2021-02-12 |  |
@@ -39,7 +39,7 @@
 | [HAPPINESS](https://open.spotify.com/track/7aag0fFgE9K1Gj8lJwQaGI) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [H A R D L O V E](https://open.spotify.com/album/0DjJIQPOsxd5OiUoVskRBH) | 3:25 | 2021-02-12 |  |
 | [Hiding and Seeking](https://open.spotify.com/track/3ZGxQmZok15B4uxqmhRsj7) | [Little Chief](https://open.spotify.com/artist/5oYrefc0gr24yRUMCDBZkB) | [Somewhere Near the River](https://open.spotify.com/album/4pOCj0qpF7Aih27RZJxnf3) | 4:16 | 2021-02-12 |  |
 | [Home](https://open.spotify.com/track/6ZapsNk1ZpaebNXAIohP9R) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below](https://open.spotify.com/album/4EBtalKeisyblXwox9mMXf) | 5:03 | 2021-02-12 |  |
-| [Hopeless Wanderer](https://open.spotify.com/track/7o7CXsKgDXhxbSMrqGVSd0) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/7HcmUZBCV4XR2YwEiQN5jK) | 5:07 | 2021-02-12 |  |
+| [Hopeless Wanderer](https://open.spotify.com/track/7o7CXsKgDXhxbSMrqGVSd0) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/7HcmUZBCV4XR2YwEiQN5jK) | 0:29 | 2021-02-12 |  |
 | [I Will Wait](https://open.spotify.com/track/2JHBMVs8E7bJJBLkXpKgHn) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel](https://open.spotify.com/album/7rlmzEQPP4b6T6OhlnTdRn) | 4:36 | 2021-02-12 |  |
 | [In the Yard](https://open.spotify.com/track/3S64tiBYEcu7idl7xunRW9) | [Bowerbirds](https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m) | [The Clearing](https://open.spotify.com/album/6CgvV6nP1ilCqVSfsgTWX8) | 4:07 | 2021-02-12 |  |
 | [King And Lionheart](https://open.spotify.com/track/5HF5PRNJ8KGtbzNPPc93tG) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF) | 4:33 | 2021-02-12 |  |

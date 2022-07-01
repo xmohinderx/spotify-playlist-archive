@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\.  Cover:  Katy Nichole
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,443,569 likes - 98 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,443,777 likes - 98 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 64 | [Overcome \- Radio Edit](https://open.spotify.com/track/0VAnfdHYy86E0TWJBfN6JP) | [Ernie Haase & Signature Sound](https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0) | [Overcome \(Radio Edit\)](https://open.spotify.com/album/6HYHgxwMcknXcdvWHCojqM) | 4:07 |
 | 65 | [Tell All My Friends](https://open.spotify.com/track/5MOEQnIL7s1FIA31n3gMqu) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Sydney James](https://open.spotify.com/artist/0Hv0lVzc1FOqtBajPTUOVQ) | [Tell All My Friends](https://open.spotify.com/album/76bktOoiugu5TovvBanrIZ) | 3:36 |
 | 66 | [Wide Awake](https://open.spotify.com/track/0X5R33mNmGbNJcaupI4z2W) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Wide Awake](https://open.spotify.com/album/68V8xLeZJHQHqRFHKqsjjk) | 3:31 |
-| 67 | [Hymn Of Heaven](https://open.spotify.com/track/6UwxHDz7vGUhbDSevNUUcj) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 4:27 |
+| 67 | [Hymn Of Heaven](https://open.spotify.com/track/6UwxHDz7vGUhbDSevNUUcj) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 0:29 |
 | 68 | [You Are My Country](https://open.spotify.com/track/0JdJ8UhDjZ4n5R8kTXOkYS) | [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [The Field](https://open.spotify.com/album/2QsHmBlrLqbN1MVtZVqHWu) | 2:39 |
 | 69 | [Never Walk Alone \- Studio](https://open.spotify.com/track/7AbEm0TbdsKTpK0aMA2QwL) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Mi\-kaisha Rose](https://open.spotify.com/artist/2U2ol5NQFCm5zI9NefWhCK) | [These Same Skies \(Studio\)](https://open.spotify.com/album/162JpkoDVC2fowwp1pQ912) | 4:14 |
 | 70 | [Time and Time Again](https://open.spotify.com/track/1aP1qmw0tIctlImI0YfeZX) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Time and Time Again](https://open.spotify.com/album/3cuIDfmoqlqklQPvIiQQcc) | 5:16 |

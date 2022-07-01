@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcndo43KVGbN.md) - [plain]
 
 > The harmony between beautiful Ambient and tape manipulation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,976 likes - 93 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,998 likes - 93 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcndo43KVGbN.md) - [plain]
 | 3 | [Upstairs Flat](https://open.spotify.com/track/6VOiyOngpEqCw17OdUfSQj) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Antidawn EP](https://open.spotify.com/album/46Tzqoo34KEb0G2hYDp5Ry) | 6:07 |
 | 4 | [Rebstock Fold](https://open.spotify.com/track/4APWyWpjQm3qPSpIwMvXJG) | [Francis Harris](https://open.spotify.com/artist/3pTGFfv4bHpC2MO7LS9S6W) | [Rebstock Fold](https://open.spotify.com/album/1mVCBO9JdLbv9cfQkrE9ci) | 5:31 |
 | 5 | [Rest](https://open.spotify.com/track/6lwzPFFTgVWJq4YM9Cf6Ek) | [half light](https://open.spotify.com/artist/77kksV1as6x1oKGfoyYKfK) | [Rest](https://open.spotify.com/album/0j1VtChCYo7clU8Yz4Iohq) | 6:05 |
-| 6 | [Emerging](https://open.spotify.com/track/7833wL428Kl5gD1Yatcwv6) | [Ian Hawgood](https://open.spotify.com/artist/74VB5tp2lrCzeaFg2WPRXC), [Wil Bolton](https://open.spotify.com/artist/63ANock0nMaF32m4e4U1Rt) | [Emerging](https://open.spotify.com/album/06okB10q356etzN1QWVWg7) | 7:18 |
+| 6 | [Emerging](https://open.spotify.com/track/7833wL428Kl5gD1Yatcwv6) | [Ian Hawgood](https://open.spotify.com/artist/74VB5tp2lrCzeaFg2WPRXC), [Wil Bolton](https://open.spotify.com/artist/63ANock0nMaF32m4e4U1Rt) | [Emerging](https://open.spotify.com/album/06okB10q356etzN1QWVWg7) | 0:29 |
 | 7 | [Cass](https://open.spotify.com/track/483UearCC3xUm09caTe015) | [The Arteries of New York City](https://open.spotify.com/artist/1WplPnixjEsV4JmRmBl72V), [The Last Dinosaur](https://open.spotify.com/artist/69sFt37arbuC0hGSFAoWqZ), [Alex Kozobolis](https://open.spotify.com/artist/6fsUe68biDsnK9f8G41rNO) | [Cass](https://open.spotify.com/album/5iVr8DyMUkcuofJcshS7Gi) | 3:28 |
 | 8 | [REEL 2 PHASE 2](https://open.spotify.com/track/4UJk2NxHXGcpkjhzhqhVTl) | [Lomond Campbell](https://open.spotify.com/artist/0dWs32CWUbYmMFC9TBKzAb) | [REEL 2 PHASE 2](https://open.spotify.com/album/70kULFcLysFbSLj4YynEVG) | 5:22 |
 | 9 | [Sun Glitter / River Glass](https://open.spotify.com/track/2u7JLi2RYhvDFMlUoXt74R) | [Scott Campbell](https://open.spotify.com/artist/1v8lVHhhUnYGz7XqdFpADa) | [Quiet Rituals](https://open.spotify.com/album/0IzYRilaDI4NrG3oM174w4) | 6:33 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcndo43KVGbN.md) - [plain]
 | 20 | [Festival](https://open.spotify.com/track/5xvxj0UCFAliZgWCHwwOLX) | [Chris Other](https://open.spotify.com/artist/6jEDdYtgiDQrVXUJ3dvpAV) | [Festival](https://open.spotify.com/album/3KhDY7aQucUF8kcRib2YVR) | 6:46 |
 | 21 | [Counting The Days](https://open.spotify.com/track/65ZYTBtJQ1USC15feawa9z) | [Fadi Tabbal](https://open.spotify.com/artist/52a1TsBfhNLXIByHIZ8XDR) | [Music For The Lonely, Vol.2 \(2019\-2021\)](https://open.spotify.com/album/6t1ZkBX4eMxfXyChh8ZYf6) | 3:14 |
 | 22 | [Sofia](https://open.spotify.com/track/5Gf9WpnKBJcIHbYwUfPRAu) | [Senses](https://open.spotify.com/artist/1KiqU3N6kTuIOdeRcmb96z) | [Sofia](https://open.spotify.com/album/6vTZB9jrpoZePuG6LSq9V5) | 2:24 |
-| 23 | [Morning Dew](https://open.spotify.com/track/7LCzvX0MkuiqKiLS4P42W5) | [AstroPilot](https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws) | [Earthwalk](https://open.spotify.com/album/35BMEPcjtnh0ymiz1XczDe) | 3:31 |
+| 23 | [Morning Dew](https://open.spotify.com/track/7LCzvX0MkuiqKiLS4P42W5) | [AstroPilot](https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws) | [Earthwalk](https://open.spotify.com/album/35BMEPcjtnh0ymiz1XczDe) | 0:29 |
 | 24 | [Two Solitudes](https://open.spotify.com/track/1WhwfhOZDMsYDzlopAoCHa) | [Michael Scott Dawson](https://open.spotify.com/artist/3ZRhu9lOqRMfE3ou2ORPLq) | [Two Solitudes](https://open.spotify.com/album/0AbbEVSjGByzC9OnO7n0x9) | 3:22 |
 | 25 | [Up Over](https://open.spotify.com/track/3O7QrUiBv76sGHuwsfqLCc) | [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp), [Mara Simpson](https://open.spotify.com/artist/1qn02YVZeKMegZimHpELHH) | [Up Over](https://open.spotify.com/album/16Ar7ykLlJVyXZSaCw8RCr) | 4:27 |
 | 26 | [Room To Room](https://open.spotify.com/track/2nL7PY2oT8TQFgmADUXSwu) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi), [Ulla](https://open.spotify.com/artist/0ijZlfRS4zxGYWMxf8rvRN) | [Memories of Log](https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b) | 3:08 |

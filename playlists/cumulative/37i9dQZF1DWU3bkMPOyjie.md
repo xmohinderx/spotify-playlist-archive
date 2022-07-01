@@ -4,7 +4,7 @@
 
 > Get yourself in that summer mood with these great rocking summer songs from the last 20 years.
 
-73 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/2SdlpqiAcMKgumJj16ODvC)
+73 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/2SdlpqiAcMKgumJj16ODvC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Body Talks \(feat\. Kesha\)](https://open.spotify.com/track/71hhuJLNpxBQLSbbQ6ZWr4) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [YOUNG&DANGEROUS](https://open.spotify.com/album/1mFRTnYk72zZfVk7l25G3g) | 2:57 | 2020-08-18 |  |
 | [Butterfly](https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 3:36 | 2020-08-18 |  |
 | [Constructive Summer \- 2018 \- Remaster](https://open.spotify.com/track/5if6bRlufL1WxJESt3vZzt) | [The Hold Steady](https://open.spotify.com/artist/3qkZBMz5JgmRN9u5wwhRC6) | [Stay Positive \(Deluxe Edition\)](https://open.spotify.com/album/43vkSl8wNFKia9CeZWYYTu) | 2:55 | 2020-08-18 |  |
-| [Country Girl](https://open.spotify.com/track/2k1ITEDrXY9QHHvyC5APqo) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Riot City Blues \(Expanded Edition\)](https://open.spotify.com/album/0KOb9PyzihUkHcoA9Xqx7c) | 4:31 | 2020-08-18 |  |
+| [Country Girl](https://open.spotify.com/track/2k1ITEDrXY9QHHvyC5APqo) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Riot City Blues \(Expanded Edition\)](https://open.spotify.com/album/0KOb9PyzihUkHcoA9Xqx7c) | 0:29 | 2020-08-18 |  |
 | [Crazy Bitch](https://open.spotify.com/track/5XfQTbialQHn9PhDb0p85H) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [15](https://open.spotify.com/album/7JzpvpbhqCCS4f54rkU1yV) | 3:24 | 2020-08-18 |  |
 | [Cruel Summer \(Bananarama Cover\)](https://open.spotify.com/track/4jz9ju8mdBDhoYQRxSd72W) | [Superchunk](https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP) | ["This Summer" B/W "Cruel Summer"](https://open.spotify.com/album/2QDF1e1678GgUhjDEQFVkI) | 2:50 | 2020-08-18 |  |
 | [Dani California](https://open.spotify.com/track/10Nmj3JCNoMeBQ87uw5j8k) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Stadium Arcadium](https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ) | 4:42 | 2020-08-18 |  |
@@ -26,12 +26,12 @@
 | [Feels Like Summer](https://open.spotify.com/track/2jz1bw1p0WQj0PDnVDP0uY) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pacific Daydream](https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP) | 3:15 | 2020-08-18 |  |
 | [Girls In Their Summer Clothes](https://open.spotify.com/track/5kVSDFEAqgjKtcD6tRvRzY) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Magic](https://open.spotify.com/album/7A830iYFt7vb0n0aMLyj5Z) | 4:19 | 2020-08-18 |  |
 | [Girls of Summer](https://open.spotify.com/track/5hmZHlQiPUMUKBtYmtZqAt) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [The Essential Aerosmith](https://open.spotify.com/album/6qVrPDFldH0jxhALHppFQU) | 3:13 | 2020-08-18 |  |
-| [Gives You Hell](https://open.spotify.com/track/5gb9UJkh8TfrNMRYOJNbew) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [When The World Comes Down](https://open.spotify.com/album/5doKZJ05r4UbAp9rmpDRDD) | 3:33 | 2020-08-18 |  |
+| [Gives You Hell](https://open.spotify.com/track/5gb9UJkh8TfrNMRYOJNbew) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [When The World Comes Down](https://open.spotify.com/album/5doKZJ05r4UbAp9rmpDRDD) | 0:29 | 2020-08-18 |  |
 | [Happy Days](https://open.spotify.com/track/6GHAAp25FcGdaHgAn8rTif) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 2:59 | 2020-08-18 |  |
 | [Hate To Say I Told You So](https://open.spotify.com/track/20j7B6mL9gnNvG3ic6Vwh5) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/1C4UGzx5gD9b3X0UfAhY7z) | 3:20 | 2020-08-18 |  |
 | [Heaven 2.9](https://open.spotify.com/track/70ju11WAXAozZmB8WyJ09U) | [Backyard Babies](https://open.spotify.com/artist/4ASJkb9HOe3Vz5ZaXOjnfN) | [Making Enemies Is Good](https://open.spotify.com/album/72iZGeLvhpedbqbdZ9uQPd) | 2:51 | 2020-08-18 |  |
 | [Heaven Knows](https://open.spotify.com/track/7F5jxmwf1uWVqh6nbYz7rl) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Going to Hell](https://open.spotify.com/album/5cjJRrzeVRE79YXiTSCbVf) | 3:44 | 2020-08-18 |  |
-| [Here Comes the Summer](https://open.spotify.com/track/2m9L38IcOCraTHrtz58pr9) | [Moke](https://open.spotify.com/artist/2Ar8qR3eFdAdR2ZN6ndxTN) | [Shorland \(Limited Festival Edition\)](https://open.spotify.com/album/50YDHmGKQ7Hg00JhhrnPea) | 3:58 | 2020-08-18 |  |
+| [Here Comes the Summer](https://open.spotify.com/track/2m9L38IcOCraTHrtz58pr9) | [Moke](https://open.spotify.com/artist/2Ar8qR3eFdAdR2ZN6ndxTN) | [Shorland \(Limited Festival Edition\)](https://open.spotify.com/album/50YDHmGKQ7Hg00JhhrnPea) | 0:29 | 2020-08-18 |  |
 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 | 2020-08-18 |  |
 | [High On The Crime](https://open.spotify.com/track/0Sow14hk1ISHQBQVZ2P8aK) | [Turbonegro](https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz) | [Party Animals](https://open.spotify.com/album/3AZ1nJRyRQag2qI5Bb2WF5) | 3:21 | 2020-08-18 |  |
 | [Holiday](https://open.spotify.com/track/5vfjUAhefN7IjHbTvVCT4Z) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Holiday](https://open.spotify.com/album/1SPzhFzjXrz9OXLP2rKg1C) | 3:53 | 2020-08-18 |  |

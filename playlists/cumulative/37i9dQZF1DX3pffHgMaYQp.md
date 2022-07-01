@@ -4,7 +4,7 @@
 
 > música para insubordinados\. Las Decapitadas en portada.
 
-60 songs - 3 hr 21 min - [published](https://open.spotify.com/playlist/7FbH27wWWIzTyGHnxAk9gv)
+60 songs - 3 hr 12 min - [published](https://open.spotify.com/playlist/7FbH27wWWIzTyGHnxAk9gv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [La Vida De Alguien Más](https://open.spotify.com/track/1MzCR1UMQOgc3yYAcZdIlK) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [La Vida De Alguien Más](https://open.spotify.com/album/62yeYHE8CMTNQ4LgXNae2U) | 4:02 | 2022-03-25 |  |
 | [Lilith](https://open.spotify.com/track/2Vnl0gMfZ9pct8LvLDm0KJ) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Lilith](https://open.spotify.com/album/1g3IB4r5OnU3guMehCPAie) | 2:48 | 2022-03-25 |  |
 | [Lo Hice Por El Punk](https://open.spotify.com/track/16R71sPcHhpB8N9Hlvso8r) | [Belafonte Sensacional](https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06) | [Gazapo](https://open.spotify.com/album/52KdB5pIsS20pJ7XdsneFT) | 2:49 | 2022-03-25 |  |
-| [Los Ojos](https://open.spotify.com/track/4JWeLmA9OIhKs7Mh965ibq) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Los Ojos](https://open.spotify.com/album/1NqcC1Kpu10I0uUuwpWRKm) | 2:42 | 2022-03-25 |  |
+| [Los Ojos](https://open.spotify.com/track/4JWeLmA9OIhKs7Mh965ibq) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Los Ojos](https://open.spotify.com/album/1NqcC1Kpu10I0uUuwpWRKm) | 0:29 | 2022-03-25 |  |
 | [Mala Suerte](https://open.spotify.com/track/4H1LS6KIu23cBpA2Ef3zEt) | [Mala Suerte](https://open.spotify.com/artist/1ep3yvyz1gCFZxxjn0jJGA) | [Mala Suerte](https://open.spotify.com/album/3o0emNyeX0yyYhoycpn96X) | 2:22 | 2022-03-25 |  |
 | [Manifiesto Surrealista](https://open.spotify.com/track/3TAmPsGYSC8gugzBGguj63) | [Los Pao Paos](https://open.spotify.com/artist/45dDFxioswmm3vNx03oADJ) | [Los Pao Paos](https://open.spotify.com/album/2QDHd8s8nzlEfjZwfqZLZR) | 4:00 | 2022-03-25 |  |
 | [Morir de Amor </3](https://open.spotify.com/track/6kRVdk5YVE7TH5yWDeCTcO) | [Melted Ice Cream](https://open.spotify.com/artist/5sM0rohMauU34KstMcmrw9) | [Morir de Amor </3](https://open.spotify.com/album/65ClgMHw387ScepCOtkoDN) | 2:42 | 2022-03-25 |  |
@@ -45,7 +45,7 @@
 | [México Querétaro](https://open.spotify.com/track/0RwfQdF2pt8tfRyLxDpSs7) | [ACTY](https://open.spotify.com/artist/1w7oXNijoleZ4GIo7nij8b) | [México Querétaro](https://open.spotify.com/album/5vHR8RyrWgWdKkfXPhd6Rs) | 6:21 | 2022-03-25 |  |
 | [Niebla](https://open.spotify.com/track/5Nfs9PIPYo7nQTg08Li4iS) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Niebla](https://open.spotify.com/album/0hszGU5mN2Qj7EnOVZQJ8Z) | 2:43 | 2022-03-25 |  |
 | [No Lo Tomes a Mal \- No Me Toques, Ando Chido](https://open.spotify.com/track/5msSzMdmacwuVhribYz5nG) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL) | [No Lo Tomes a Mal \(No Me Toques, Ando Chido\)](https://open.spotify.com/album/2zVGlxmvIeDr4Ob8qItIQn) | 3:31 | 2022-03-25 |  |
-| [Outro](https://open.spotify.com/track/0t1neSZWSIqtVHRxyYLWTO) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [Outro](https://open.spotify.com/album/6bIYRN7ORcgvVf1CZ4BMmt) | 3:08 | 2022-03-25 |  |
+| [Outro](https://open.spotify.com/track/0t1neSZWSIqtVHRxyYLWTO) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [Outro](https://open.spotify.com/album/6bIYRN7ORcgvVf1CZ4BMmt) | 0:29 | 2022-03-25 |  |
 | [P3da](https://open.spotify.com/track/4rxg8aTQOGGL7LV1yqqhHy) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ), [Roberta Pardo](https://open.spotify.com/artist/5SDCXW3v93K8R58xRLeV0b), [Isabela Costero](https://open.spotify.com/artist/3Jes9MS3tLqPDrCDxdUGQx), [Maria Villanueva](https://open.spotify.com/artist/10LgSuLJnpj2wkOxOQW1hF), [Valentina Reyes](https://open.spotify.com/artist/7gFOLjST0TuyozYrZUQWtw) | [P3da](https://open.spotify.com/album/5s7W0XNdHN2Sz3JviG3Rv8) | 1:21 | 2022-03-25 |  |
 | [Panteón](https://open.spotify.com/track/1NPuCNu2nAeNcAzht2WqRp) | [The Froys](https://open.spotify.com/artist/3DrFw6l7rWBb8AbZ3B5zlc) | [Panteón](https://open.spotify.com/album/5AK4SkUnMWwuD95pMptlCN) | 1:35 | 2022-03-25 |  |
 | [Pedro María Anaya](https://open.spotify.com/track/2U12UjXPdF2y6kDkIiyOMH) | [MEELT](https://open.spotify.com/artist/2zLI8fALCE5nBtKcvzqXY3) | [Buscapleitos](https://open.spotify.com/album/0vDK1YN07m1pACN5ZoF0Qn) | 4:02 | 2022-03-25 |  |
@@ -62,11 +62,11 @@
 | [Vademécum](https://open.spotify.com/track/1t6ce3FryKUksIyCYZMNyQ) | [Chaqueta de Chándal](https://open.spotify.com/artist/5RMGElrEO6UepEfrrn0Qg4) | [Vademécum](https://open.spotify.com/album/5YQBK3VLDzJ8VeSWtvSl5H) | 2:24 | 2022-03-25 |  |
 | [Verde Pastel](https://open.spotify.com/track/1CWFgWVLWJEJ8JM0hBaGd7) | [Señor Kino](https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG) | [Limonada Rosa](https://open.spotify.com/album/3Gb7PPDBOwE7fXZqKhSVXI) | 2:13 | 2022-03-25 |  |
 | [Vicente Amor](https://open.spotify.com/track/6cT3lvZsX1QOqo5LPgQSHJ) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Vicente Amor](https://open.spotify.com/album/4kDXE9CEGdB3CcoroleDP4) | 1:52 | 2022-03-25 |  |
-| [videoclub](https://open.spotify.com/track/462xoGsHcgDbnVZVHqMSUJ) | [mitimitis](https://open.spotify.com/artist/3iEWpEqmO2yLUPIiu7Dv9F) | [videoclub](https://open.spotify.com/album/0AuLG5EdbX6yBkJG2pjrLz) | 3:14 | 2022-03-25 |  |
+| [videoclub](https://open.spotify.com/track/462xoGsHcgDbnVZVHqMSUJ) | [mitimitis](https://open.spotify.com/artist/3iEWpEqmO2yLUPIiu7Dv9F) | [videoclub](https://open.spotify.com/album/0AuLG5EdbX6yBkJG2pjrLz) | 0:29 | 2022-03-25 |  |
 | [Viernes](https://open.spotify.com/track/6PyM3fAtL74EHBNMwbaGSH) | [Diamante Negro](https://open.spotify.com/artist/51WUBWxuW4MAoBwuYraA4v) | [Deseo Querer](https://open.spotify.com/album/15xRUHTZm2vIDwZzqFEpEe) | 1:18 | 2022-03-25 |  |
 | [Viva la Muerte](https://open.spotify.com/track/3diPeeR8fI20qsVoUM3RuM) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Viva la Muerte \(Viva 2021\)](https://open.spotify.com/album/2sV9w7wqsnQ49uI43EnSc4) | 3:18 | 2022-03-25 |  |
 | [Ya Levántate](https://open.spotify.com/track/41TKk1hgkuFRDJW3ChgtdR) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [SGTP](https://open.spotify.com/album/3p84mr0OXYOme5pVKGfTt4) | 4:05 | 2022-03-25 |  |
 | [Ya No Dueles Más](https://open.spotify.com/track/2HAiOXH71idwbKym8n44hu) | [Los Joules](https://open.spotify.com/artist/6Ct0NYlkBFM7SXNwfF7wjx) | [Ya No Dueles Más](https://open.spotify.com/album/4bEw9hMd0ZksSnrICyaNOu) | 3:40 | 2022-03-25 |  |
-| [Ícaro](https://open.spotify.com/track/1mw0oMAkcFDjsnGrhTqvvE) | [Feelder](https://open.spotify.com/artist/5hlVR9GtWAmGrx9GLJhHxr) | [Ícaro](https://open.spotify.com/album/5zXJByZzyJNoECnZotuc71) | 2:33 | 2022-03-25 |  |
+| [Ícaro](https://open.spotify.com/track/1mw0oMAkcFDjsnGrhTqvvE) | [Feelder](https://open.spotify.com/artist/5hlVR9GtWAmGrx9GLJhHxr) | [Ícaro](https://open.spotify.com/album/5zXJByZzyJNoECnZotuc71) | 0:29 | 2022-03-25 |  |
 
 \*This playlist was first scraped on 2022-04-22. Prior content cannot be recovered.

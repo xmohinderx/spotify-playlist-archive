@@ -4,7 +4,7 @@
 
 > The perfect classical side\-dish to some light chopping, stirring and seasoning.
 
-98 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/0qcGmeoFUYwrsRQwVNsJ5x)
+98 songs - 5 hr 48 min - [published](https://open.spotify.com/playlist/0qcGmeoFUYwrsRQwVNsJ5x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Dreamland \- Solo Piano Version](https://open.spotify.com/track/7IOW37zJgduauyHWdihAnl) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Dreamland \(Solo Piano Version\)](https://open.spotify.com/album/4EfGCHPtOJN0nw3RWTKKRA) | 2:41 | 2021-01-06 | 2022-03-30 |
 | [Dvorák / Transc\. Lenaerts: Rusalka, Op\. 114, Act 1: Song to the Moon](https://open.spotify.com/track/5nOSt81jKAUYZpTdjcfEOA) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Anneleen Lenaerts](https://open.spotify.com/artist/1vMPiZo35cD5WuZgp6NO7I) | [Vienna Stories](https://open.spotify.com/album/4h7nbnfSBW24nzK8iaMATx) | 5:53 | 2022-05-11 |  |
 | [Einaudi: Una mattina](https://open.spotify.com/track/3I26MLXZxlXnRnta6CKC9A) | [Gautier Capuçon](https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI), [Jerome Ducros](https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq) | [Emotions \- Einaudi: Una mattina](https://open.spotify.com/album/5qurLB4HSufAFQVEQVHMPD) | 3:10 | 2021-01-06 | 2022-03-30 |
-| [Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/5bu9A6uphPWg39RC3ZKeku) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [Bach: The Goldberg Variations, BWV 988 \(1981 Gould Remaster\)](https://open.spotify.com/album/1aCpHSQE5ghxibsQ5gkBe0) | 3:04 | 2022-05-11 |  |
+| [Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/5bu9A6uphPWg39RC3ZKeku) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [Bach: The Goldberg Variations, BWV 988 \(1981 Gould Remaster\)](https://open.spotify.com/album/1aCpHSQE5ghxibsQ5gkBe0) | 0:29 | 2022-05-11 |  |
 | [Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/39g1hThrRrmkbtcSey9bVD) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Bach: Goldberg Variations \(Deluxe Edt\. Studio + Live\)](https://open.spotify.com/album/70uK1xeiYicJZPFNkhfIdk) | 5:21 | 2021-01-06 | 2022-03-30 |
 | [GoldBergHain \(Quodlibet on "Kraut und Rüben haben mich vertrieben"\) for Violin & String Orchestra](https://open.spotify.com/track/5bmp5QR3Dwb5r9kgEX8kF3) | [Stephan Koncz](https://open.spotify.com/artist/5bJ6Okk0z9ycR3goHVJ5e4), [Niklas Liepe](https://open.spotify.com/artist/6ukAV4us7nVNQ1MQvj4sut), [NDR Radiophilharmonie](https://open.spotify.com/artist/6i9KFEJuHq78nMsQxeB1vR), [Jamie Phillips](https://open.spotify.com/artist/1pdrpZawhbNj2mhFfNLzWq) | [GoldBergHain \(Quodlibet on "Kraut und Rüben haben mich vertrieben"\) for Violin & String Orchestra](https://open.spotify.com/album/1QdcLEWjkLCvAdgxabQKLu) | 2:44 | 2022-03-29 | 2022-05-12 |
 | [I Giorni](https://open.spotify.com/track/0VLascXUZ2Ze2u5kUD5J1f) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Islands \- Essential Einaudi](https://open.spotify.com/album/7k1Ki5pYinGM3lME2Tv3AM) | 6:51 | 2021-01-06 | 2022-03-30 |

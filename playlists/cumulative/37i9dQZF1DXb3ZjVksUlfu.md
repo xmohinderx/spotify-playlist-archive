@@ -4,7 +4,7 @@
 
 > The defining alternative hits from a decade that changed music\. Cover: David Bowie
 
-80 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/3zvAdE4a3Njp8LHOT6ZD6s)
+80 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/3zvAdE4a3Njp8LHOT6ZD6s)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [I Want More](https://open.spotify.com/track/5rJJnYeAeIsb0T4FkiaUvX) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Flow Motion \(Remastered\)](https://open.spotify.com/album/5IMR5hthbd22t2Dv7vMr04) | 3:34 | 2021-11-17 |  |
 | [I'll Come Running \- 2004 Digital Remaster](https://open.spotify.com/track/6ZWVeMysm8Q8zZu3lKnY2v) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 3:49 | 2021-11-17 |  |
 | [I'm Stranded](https://open.spotify.com/track/6pXcyjABZyf6LKzL4wsj9k) | [The Saints](https://open.spotify.com/artist/6OWPd5ByKaNSFAZ3TCe5AO) | [\(I'm\) Stranded](https://open.spotify.com/album/10hYjKl40Yu64cV3313uhU) | 3:32 | 2021-11-17 |  |
-| [Immigrant Song \- Remaster](https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 2:26 | 2021-11-17 |  |
+| [Immigrant Song \- Remaster](https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 0:29 | 2021-11-17 |  |
 | [Into The Valley](https://open.spotify.com/track/2QSD3K3b3BJ8DPhGhQfDPW) | [Skids](https://open.spotify.com/artist/2vwI9jlKSgJbne3dlTzaLO) | [Scared To Dance](https://open.spotify.com/album/0uk9Hua2gX6jPT0O4jxjvC) | 3:19 | 2021-11-17 |  |
 | [Is She Really Going Out With Him?](https://open.spotify.com/track/17GEcOhfo7rRr3wKumLHV2) | [Joe Jackson](https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT) | [Look Sharp! \(Remastered\)](https://open.spotify.com/album/7D82cIGmk9tZQusSVoRJfy) | 3:35 | 2021-11-17 |  |
 | [Jilted John \- Single Version](https://open.spotify.com/track/6FxD82u5P8yKohcYYDxyqw) | [Jilted John](https://open.spotify.com/artist/7cvpTbz1cBUwRjLrcgobwm) | [True Love Stories](https://open.spotify.com/album/2dGQIwqXukGqWHHEqXLHWr) | 2:55 | 2021-11-17 |  |
@@ -54,7 +54,7 @@
 | [Love Her Madly](https://open.spotify.com/track/3MFFDRC4wTN9JNGtzXsZlN) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 3:18 | 2021-11-17 |  |
 | [Love Will Tear Us Apart](https://open.spotify.com/track/2JO3HwMRPeya8bXbtbyPcf) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [The Best Of](https://open.spotify.com/album/0p8Zy0wEzDYiFDcSt07UHe) | 3:26 | 2021-11-17 |  |
 | [Lucky Number](https://open.spotify.com/track/0kqFlkmfvKzQ4QSmx5PZ1A) | [Lene Lovich](https://open.spotify.com/artist/1yFJnlNMiBUBplMaOP5CMX) | [Stateless](https://open.spotify.com/album/5qz97wcq8cv3LRLpJr9noR) | 2:51 | 2021-11-17 |  |
-| [Make Me Smile \(Come up and See Me\)](https://open.spotify.com/track/6cFaRahEaLyew4ATx1QaUx) | [Steve Harley](https://open.spotify.com/artist/3dS8rLINyM7EYuMXryXJym), [Steve Harley & Cockney Rebel](https://open.spotify.com/artist/6EL5GD53kaaVgJCHgdtdLz) | [Face to Face \(A Live Recording\)](https://open.spotify.com/album/5SzaD6YBaGzFFBl50JBlhL) | 6:44 | 2021-11-17 |  |
+| [Make Me Smile \(Come up and See Me\)](https://open.spotify.com/track/6cFaRahEaLyew4ATx1QaUx) | [Steve Harley](https://open.spotify.com/artist/3dS8rLINyM7EYuMXryXJym), [Steve Harley & Cockney Rebel](https://open.spotify.com/artist/6EL5GD53kaaVgJCHgdtdLz) | [Face to Face \(A Live Recording\)](https://open.spotify.com/album/5SzaD6YBaGzFFBl50JBlhL) | 0:29 | 2021-11-17 |  |
 | [Mind Your Own Business](https://open.spotify.com/track/4Ec8I6H20zu7F2vDdg90qP) | [Delta 5](https://open.spotify.com/artist/2qe52cWdi4IRtgg14CLInb) | [Mind Your Own Business](https://open.spotify.com/album/4KvbiwZGe9eoFCW1mMIWl7) | 3:13 | 2021-11-17 |  |
 | [My Sex](https://open.spotify.com/track/4F797Kz0zqZiMxNcRdO8R2) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [Ultravox! \(Remastered & Expanded\)](https://open.spotify.com/album/3ela6V5X5cG9e4HM3ox04x) | 3:02 | 2021-11-17 |  |
 | [My Way \- 1993 Remastered Version](https://open.spotify.com/track/0TaWdoJiAJoln9OQ1RbdNs) | [Sid Vicious](https://open.spotify.com/artist/1YnxVTLZQkk6KJI2c5sBqU) | [Playlist: New Wave](https://open.spotify.com/album/3EZ09EIoMr6Y5Q9aidbnhy) | 4:04 | 2021-11-17 |  |
@@ -69,7 +69,7 @@
 | [Rock and Roll \- Full Length Version; 2015 Remaster](https://open.spotify.com/track/0ZfP7K8NoyJRjEfWWk8Mlv) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [Loaded \(2015 Remaster\)](https://open.spotify.com/album/4RMGrhJRnGiNqmKqhqpLlX) | 4:43 | 2021-11-17 |  |
 | [Rock Lobster](https://open.spotify.com/track/0rme3FLbw5o1KLXpJzivjS) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [B\-52's](https://open.spotify.com/album/4VcKXOCUzcrxltYt0Jyqfk) | 6:52 | 2021-11-17 |  |
 | [Search and Destroy \- Iggy Pop Mix](https://open.spotify.com/track/00sydAz6PeOxYzwG1dRIPi) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Raw Power](https://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM) | 3:28 | 2021-11-17 |  |
-| [Sex & Drugs & Rock & Roll](https://open.spotify.com/track/1PwB9EADXS90I8LoewLXfl) | [Ian Dury](https://open.spotify.com/artist/5PFSmueeFLrjYXqn3agenn) | [New Boots And Panties \(Deluxe Edition\)](https://open.spotify.com/album/5tuUAXD8S0QVhPW7M2aQb0) | 3:07 | 2021-11-17 |  |
+| [Sex & Drugs & Rock & Roll](https://open.spotify.com/track/1PwB9EADXS90I8LoewLXfl) | [Ian Dury](https://open.spotify.com/artist/5PFSmueeFLrjYXqn3agenn) | [New Boots And Panties \(Deluxe Edition\)](https://open.spotify.com/album/5tuUAXD8S0QVhPW7M2aQb0) | 0:29 | 2021-11-17 |  |
 | [Sheena Is a Punk Rocker \- 2001 Remaster](https://open.spotify.com/track/2UnY8ApZT4roi66n1LDAil) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rocket to Russia \(Expanded 2005 Remaster\)](https://open.spotify.com/album/7J4f5lG898uHHGVOpNzD2I) | 2:49 | 2021-11-17 |  |
 | [Shot By Both Sides \- Remastered](https://open.spotify.com/track/3aInErz06eEAbRHMnsORR2) | [Magazine](https://open.spotify.com/artist/4VuMnSnoTGrma3a79UhfMs) | [Real Life](https://open.spotify.com/album/5cy3t8bW0lNzw9hjCPkRUT) | 4:04 | 2021-11-17 |  |
 | [Silver Machine \- Live at the Roundhouse London; 1996 Remaster](https://open.spotify.com/track/73HSIWZlSCfs4tqVkrGv7H) | [Hawkwind](https://open.spotify.com/artist/2jK54ZlZhTF1TxygsVeR05) | [In Search of Space](https://open.spotify.com/album/1cgsYqtDTMTetu7FjEsIhI) | 4:39 | 2021-11-17 |  |

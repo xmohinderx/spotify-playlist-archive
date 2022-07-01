@@ -4,7 +4,7 @@
 
 > Shady Records top picks chosen by Spotify.
 
-41 songs - 2 hr 56 min - [published](https://open.spotify.com/playlist/1zlMawWlGLEVN2AQEX9jyR)
+41 songs - 2 hr 52 min - [published](https://open.spotify.com/playlist/1zlMawWlGLEVN2AQEX9jyR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Major Distribution](https://open.spotify.com/track/48fEJFoMx9AQFq9SeppTz1) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Major Distribution](https://open.spotify.com/album/37BFBqWR7cVoJvw8yE0lMW) | 4:24 | 2013-03-26 |  |
 | [Many Men \(Wish Death\)](https://open.spotify.com/track/6hYH52lqLfRcj5YQV0fIx0) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin' / The Massacre \(Explicit Version\)](https://open.spotify.com/album/5Qncr57Fwoyk1PDJfThIJC) | 4:16 | 2013-03-26 |  |
 | [My Band](https://open.spotify.com/track/4XHQyvbrBsQaaBUW1VvmsL) | [D12](https://open.spotify.com/artist/5Qi4Bb7a8C0a00NZcA77L0) | [D\-12 World](https://open.spotify.com/album/61EgDesQnFVyYf2UneM9PQ) | 4:58 | 2013-03-26 |  |
-| [My Life](https://open.spotify.com/track/2GoOioZVtOF1iMYfnzkreg) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [My Life](https://open.spotify.com/album/7iHmgWi3XupDinqX5qwBUc) | 3:59 | 2013-03-26 |  |
+| [My Life](https://open.spotify.com/track/2GoOioZVtOF1iMYfnzkreg) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [My Life](https://open.spotify.com/album/7iHmgWi3XupDinqX5qwBUc) | 0:29 | 2013-03-26 |  |
 | [My Life](https://open.spotify.com/track/5j21tjqJmMO5Jlu1uKZysY) | [Slaughterhouse](https://open.spotify.com/artist/5rVbcJv0JRfhWLA3mgM73r), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [welcome to: OUR HOUSE \(Deluxe\)](https://open.spotify.com/album/5ztTCKLCKuiIXzXpbqdUGa) | 4:21 | 2013-03-26 |  |
 | [New Day](https://open.spotify.com/track/2aI8URxh4JgaDAE7LHk8HY) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [New Day](https://open.spotify.com/album/1s5WZukFQjoyAyApSbFejC) | 4:24 | 2013-03-26 |  |
 | [No Love](https://open.spotify.com/track/7EAjG4SK1TpsZrtVnnGDsb) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Recovery](https://open.spotify.com/album/2bn6QpvG94QJkQTETzjTCs) | 4:59 | 2013-03-26 |  |

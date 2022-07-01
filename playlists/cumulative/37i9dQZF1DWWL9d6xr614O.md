@@ -4,7 +4,7 @@
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-76 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/52RI4Gq3FQmvdVfo6uxBM5)
+76 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/52RI4Gq3FQmvdVfo6uxBM5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [AIK](https://open.spotify.com/track/00ByIMCGwbb50bOaZNwjQQ) | [JC Ronato](https://open.spotify.com/artist/4cgXg3h3kODZFxAnCW11vq) | [AIK](https://open.spotify.com/album/1w1vPLFbFyaSOh2dyzdzS0) | 4:39 | 2022-04-15 |  |
 | [Ako Ay Iyo](https://open.spotify.com/track/6zWix26MsK7btzIAJtOsMW) | [Yeuseff](https://open.spotify.com/artist/3aQu9d2OvoHU04uehdimRn), [Deovincci Dasig](https://open.spotify.com/artist/19aD9C8Y8OYJO7NsRXictD) | [Ako Ay Iyo](https://open.spotify.com/album/0A7pZA6TRRvxO6tu2cwVPT) | 4:00 | 2022-04-15 |  |
 | [Ako’y Lumalapit](https://open.spotify.com/track/2C9bqXVvshKjjlUznCM2Ex) | [Avenue of Grace Worship](https://open.spotify.com/artist/2NwMDlv8xyqpptsuasQswC), [Jeanne Columbine Rodriguez](https://open.spotify.com/artist/36hIhBw88ScawVgplXcMYk) | [Ako’y Lumalapit](https://open.spotify.com/album/1SNoHk5XjONoBFhFaOBpjp) | 5:17 | 2022-04-15 |  |
-| [Bagong Buhay](https://open.spotify.com/track/33lNaAAd1vfQVi7tJaaACE) | [Hazel Faith](https://open.spotify.com/artist/1IJ4wDIUWLb0XLmPN79SDj) | [Bagong Buhay](https://open.spotify.com/album/6trSs3g5tU29FEr8yamEI5) | 3:40 | 2022-04-15 |  |
+| [Bagong Buhay](https://open.spotify.com/track/33lNaAAd1vfQVi7tJaaACE) | [Hazel Faith](https://open.spotify.com/artist/1IJ4wDIUWLb0XLmPN79SDj) | [Bagong Buhay](https://open.spotify.com/album/6trSs3g5tU29FEr8yamEI5) | 0:29 | 2022-04-15 |  |
 | [Beautiful](https://open.spotify.com/track/5TjWv28A1YWX0sYC0Ey8Ov) | [Ogie Alcasid](https://open.spotify.com/artist/1vlz5PDUCNuZJeuJoufQkN), [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Beautiful](https://open.spotify.com/album/4W2GDr3NuuQRfjOJrWTdli) | 5:34 | 2022-04-15 |  |
 | [blink](https://open.spotify.com/track/2Wj8VlQtwHfuUUh5qwoNuG) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [blink](https://open.spotify.com/album/6EpnJOCAvRUvXg66j1a0IJ) | 3:48 | 2022-04-15 |  |
 | [BUNTONG HININGA](https://open.spotify.com/track/61gplnMSMY4WfUZ9tsnmsK) | [EJ De Perio](https://open.spotify.com/artist/0EsbqfoNiHI0u1OaQUYDlI) | [BUNTONG HININGA](https://open.spotify.com/album/5jxPAqk6GJY9zi83imluw2) | 4:28 | 2022-04-15 |  |
@@ -46,7 +46,7 @@
 | [Living Water](https://open.spotify.com/track/2KCT1NuIYxKHSy8z6WLpgM) | [Feast Worship](https://open.spotify.com/artist/36ODlPmkJ7PQJqhKC7ICIF) | [Living Water](https://open.spotify.com/album/5WcZ6Do5YLPerJ6F8abx0E) | 5:44 | 2022-04-15 |  |
 | [Lord Speak](https://open.spotify.com/track/20WFxQ4lx4hvxvnuu13FSN) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [Lord Speak](https://open.spotify.com/album/71uUBDN7MkIv4EGk2Usad5) | 4:33 | 2022-04-15 |  |
 | [Lubos](https://open.spotify.com/track/2jvC5YCDFuw0frV6BKKD6w) | [Mansville Worship](https://open.spotify.com/artist/0QEPHzdypXwFJStRnhHau0), [Glynis Gozo\-Mansueto](https://open.spotify.com/artist/0hRbanU6jFvWsiMlcBwm6D) | [Lubos](https://open.spotify.com/album/3ibXFdy7QhfzDD5qiPOnJu) | 4:16 | 2022-04-15 |  |
-| [Luwalhati](https://open.spotify.com/track/6bd5SZdEcXXRXdh5DvKTsE) | [Biyaya at Papuri](https://open.spotify.com/artist/4xNRdJlHZCcaZPevXMVNdS) | [Luwalhati](https://open.spotify.com/album/71SeuhNn8MP0QaZ4kHN1is) | 5:08 | 2022-04-15 |  |
+| [Luwalhati](https://open.spotify.com/track/6bd5SZdEcXXRXdh5DvKTsE) | [Biyaya at Papuri](https://open.spotify.com/artist/4xNRdJlHZCcaZPevXMVNdS) | [Luwalhati](https://open.spotify.com/album/71SeuhNn8MP0QaZ4kHN1is) | 0:29 | 2022-04-15 |  |
 | [Maghihilom](https://open.spotify.com/track/0CxD8FCxanmV0YvxyZySEI) | [JC Ronato](https://open.spotify.com/artist/4cgXg3h3kODZFxAnCW11vq) | [Maghihilom](https://open.spotify.com/album/7Mpu2umw5scLP0dq7mLwUb) | 4:10 | 2022-04-15 |  |
 | [Malaya Na](https://open.spotify.com/track/1BKuNBuBTkBNHvda2vvUve) | [Victory Worship](https://open.spotify.com/artist/11s9ltUDAuDJaDJLJl0vUP) | [Tahanan](https://open.spotify.com/album/7ADkYzRHMGejbX9NmYlsa4) | 4:20 | 2022-04-15 |  |
 | [MAPAYAPA \- Feat\. Hazel Faith](https://open.spotify.com/track/1vTSTbQT9iJbggG47gEwwU) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk), [Hazel Faith](https://open.spotify.com/artist/1IJ4wDIUWLb0XLmPN79SDj) | [MAPAYAPA \(Feat\. Hazel Faith\)](https://open.spotify.com/album/2SOcTm4yqQLNPUQeTTa8sW) | 4:22 | 2022-04-15 |  |
@@ -61,7 +61,7 @@
 | [Praise You In This Storm](https://open.spotify.com/track/4Zyf0pjpdBBIfp4oax9PG5) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Lifesong](https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc) | 4:57 | 2022-04-15 |  |
 | [Promise](https://open.spotify.com/track/5UOvuk2PlJcSYOtRcGgWLn) | [allen&elle](https://open.spotify.com/artist/2bJTpGmXD18Or3c10omzOe) | [Promise](https://open.spotify.com/album/73LceCGDR2PwTzCp4jPpS5) | 3:33 | 2022-04-15 |  |
 | [Promise](https://open.spotify.com/track/6XUH3f6pfvszR8Z9cQGl1D) | [Feast Worship](https://open.spotify.com/artist/36ODlPmkJ7PQJqhKC7ICIF) | [Promise](https://open.spotify.com/album/06VVEg6ZKBSdffLW55bLId) | 4:28 | 2022-04-15 |  |
-| [Reliably True](https://open.spotify.com/track/1rA075SApxdrYCA9cNyRFW) | [Elevate Exalt](https://open.spotify.com/artist/1u2wiCSFndF370zimgW7qU) | [Reliably True](https://open.spotify.com/album/5orPxWSz2Dt4EZ6hUleAml) | 6:30 | 2022-04-15 |  |
+| [Reliably True](https://open.spotify.com/track/1rA075SApxdrYCA9cNyRFW) | [Elevate Exalt](https://open.spotify.com/artist/1u2wiCSFndF370zimgW7qU) | [Reliably True](https://open.spotify.com/album/5orPxWSz2Dt4EZ6hUleAml) | 0:29 | 2022-04-15 |  |
 | [Remember Me My Lord](https://open.spotify.com/track/0TmWgjV5ipkl906KUPw1UL) | [Cocoy Claravall](https://open.spotify.com/artist/7or90S16MNx8VogdeOqlKq), [Paul Tagle](https://open.spotify.com/artist/2mElsd377gxOFa8sDNYK93) | [Remember Me My Lord](https://open.spotify.com/album/6yvfzk36IpK6sujZy4OGY8) | 5:09 | 2022-04-15 |  |
 | [Rise](https://open.spotify.com/track/6nf6Cxq4oHCdbjRRSl4O9x) | [Snow Toledo](https://open.spotify.com/artist/5PQHP12lp6eyjBjIdMXESj) | [Rise](https://open.spotify.com/album/4OColfyGElToe70XzNKfpm) | 4:55 | 2022-04-15 |  |
 | [Sa Krus Iyong Tinapos](https://open.spotify.com/track/5WTLqKYllbZjKBdISllks9) | [Soulution Worship](https://open.spotify.com/artist/4BC2CPGkM5dwH7sqiaoXmi) | [Sa Krus Iyong Tinapos](https://open.spotify.com/album/6mOIQKIfRHNXZJLgMGa25Q) | 5:38 | 2022-04-15 |  |
@@ -77,7 +77,7 @@
 | [TWCN \- Dymph Track](https://open.spotify.com/track/1nmQkvDfWa5XHycvqz10tJ) | [Liveloud Worship](https://open.spotify.com/artist/4XC8aM9budSQnDfhUktPTY) | [TWCN \(Dymph Track\)](https://open.spotify.com/album/6Wx4Rc1D8R9wb5MEIGfgvk) | 4:54 | 2022-04-15 |  |
 | [Victory to Our King](https://open.spotify.com/track/0jvPCNYpagyTjKc7PgEZgg) | [Ablaze Music](https://open.spotify.com/artist/3N1hmweYcwNTQX8Np4GVe6) | [Worship Companion, Vol\. 4](https://open.spotify.com/album/7nd1eTaYnygjSPJew00GNO) | 3:39 | 2022-04-15 |  |
 | [Wala Nang Pipigil](https://open.spotify.com/track/4oQiBasWqTHdwjLCf3Aisu) | [Musicians On Fire](https://open.spotify.com/artist/7Ggr2dsNBVyD18r151SA52) | [Wala Nang Pipigil](https://open.spotify.com/album/32d4XVfu9ajHIPJYrcWksw) | 5:26 | 2022-04-15 |  |
-| [Walang Makapaghihiwalay](https://open.spotify.com/track/0yIRxGBZHdjU6E11sZ6f05) | [Brokenchains](https://open.spotify.com/artist/5Vky9Lsd7Lp7hOm9fjc80c) | [Walang Makapaghihiwalay](https://open.spotify.com/album/7MzmxktNuM4dkx8H1TjmTP) | 4:36 | 2022-04-15 |  |
+| [Walang Makapaghihiwalay](https://open.spotify.com/track/0yIRxGBZHdjU6E11sZ6f05) | [Brokenchains](https://open.spotify.com/artist/5Vky9Lsd7Lp7hOm9fjc80c) | [Walang Makapaghihiwalay](https://open.spotify.com/album/7MzmxktNuM4dkx8H1TjmTP) | 0:29 | 2022-04-15 |  |
 | [WATERWALK](https://open.spotify.com/track/3bqym1jA6fn0hpg7CZsUYI) | [Morissette](https://open.spotify.com/artist/62WbvkXqQGvXQvw74GU3kQ) | [WATERWALK](https://open.spotify.com/album/15VKUmSwQUtEtXhi7XNUM9) | 5:55 | 2022-04-15 |  |
 | [Where Would I Be](https://open.spotify.com/track/1QN30TGAZWHiGInfeR5o2Q) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [Where Would I Be](https://open.spotify.com/album/0n7GtDVbxR1GPJnDuxOQgv) | 4:04 | 2022-04-15 |  |
 | [WHY DO YOU LOVE ME?](https://open.spotify.com/track/4NEFSN1DzwyV3pIEIGCeU4) | [Janine Danielle](https://open.spotify.com/artist/08uLGVhzLS7zpGtrCZfing) | [WHY DO YOU LOVE ME?](https://open.spotify.com/album/0O14HOBmEPVEcDscQDfaEN) | 4:57 | 2022-04-21 |  |

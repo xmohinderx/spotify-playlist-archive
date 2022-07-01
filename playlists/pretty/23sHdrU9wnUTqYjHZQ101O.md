@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/23sHdrU9wnUTqYjHZQ101O.md) - [plain]
 
 > Sweden couldn&\#x27;t get enough of these tracks in 2014! See how the rest of the world listened at spotify.com&\#x2F;2014\. \*Includes artists currently available on Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,839 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,838 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/23sHdrU9wnUTqYjHZQ101O.md) - [plain]
 | 89 | [Heroes \(we could be\)](https://open.spotify.com/track/0VYQK5I08homNvX8SRS37R) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Heroes \(we could be\)](https://open.spotify.com/album/2RE7Fq5gQ7K78MDwVBkkZ4) | 3:29 |
 | 90 | [Love Runs Out](https://open.spotify.com/track/5BJSZocnCeSNeYMj3iVqM7) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 3:44 |
 | 91 | [Best Day Of My Life](https://open.spotify.com/track/5j9iuo3tMmQIfnEEQOOjxh) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Oh, What A Life](https://open.spotify.com/album/2AAVQqcejMEgNpdg2raPYE) | 3:14 |
-| 92 | [Safe and Sound](https://open.spotify.com/track/1fzJyTCKeZuTSLByCsLRHl) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [In A Tidal Wave Of Mystery](https://open.spotify.com/album/0oGhveAbsimFjFVF5aIkjW) | 3:12 |
+| 92 | [Safe And Sound](https://open.spotify.com/track/1fzJyTCKeZuTSLByCsLRHl) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [In A Tidal Wave Of Mystery](https://open.spotify.com/album/0oGhveAbsimFjFVF5aIkjW) | 3:13 |
 | 93 | [Sail](https://open.spotify.com/track/0ZR9NFol0hcgLSVJoQmREl) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/6S6IqCFyiJVQwvdbCmb5oW) | 4:19 |
 | 94 | [Summertime Sadness \[Lana Del Rey vs\. Cedric Gervais\] \- Cedric Gervais Remix](https://open.spotify.com/track/6D5pfooPP6hi99RaXjkDsP) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [Summertime Sadness \[Lana Del Rey vs\. Cedric Gervais\] \(Cedric Gervais Remix\)](https://open.spotify.com/album/3GljjAP9QIKRQXeKoXHRnH) | 3:34 |
 | 95 | [Sing](https://open.spotify.com/track/6K8qKeWo5MsFED7wCR6Kop) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 3:55 |

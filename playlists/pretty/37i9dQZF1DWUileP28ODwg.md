@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Micah Tyler
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,185 likes - 99 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,254 likes - 99 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 50 | [Build a Boat](https://open.spotify.com/track/3Kh9eZaRwd1teXFVOZ9xPv) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Build a Boat](https://open.spotify.com/album/2gwY0QMAGKxWeyh1Z4fgVg) | 2:50 |
 | 51 | [Well Done](https://open.spotify.com/track/5b3I2jCJm3FklJ5ui1uU77) | [Caitie Hurst](https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b) | [Well Done](https://open.spotify.com/album/4HwR3J7H9aOLHhSGOGhAoq) | 3:42 |
 | 52 | [Finished With Fighting \- Live Tapes](https://open.spotify.com/track/6m2u5uquboim0YQVBc6Gq8) | [Todd McVicker](https://open.spotify.com/artist/1fkiYD0YKDH1DgISsuh1Bo) | [Finished With Fighting \(Live Tapes\)](https://open.spotify.com/album/0MCQ8AtakKqeaDVQfXzEXR) | 5:19 |
-| 53 | [Reason I Sing \- Acoustic](https://open.spotify.com/track/7BAPIZgldsXfRcQs0bybAC) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Reason I Sing \(Acoustic\)](https://open.spotify.com/album/0yXtdv0BpUh4LsVmroNoSm) | 4:32 |
+| 53 | [Reason I Sing \- Acoustic](https://open.spotify.com/track/7BAPIZgldsXfRcQs0bybAC) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Reason I Sing \(Acoustic\)](https://open.spotify.com/album/0yXtdv0BpUh4LsVmroNoSm) | 0:29 |
 | 54 | [Morning By Morning \(I Will Trust\) \- Radio Version](https://open.spotify.com/track/0L5KFZnYagllkmT5YwiVDa) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Morning By Morning \(I Will Trust\)](https://open.spotify.com/album/5AY2fZnCXDI6xgtmY2JwJv) | 3:41 |
 | 55 | [Thank God For Sunday Morning](https://open.spotify.com/track/3P0ym6s1b2FCLC32C2uahw) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Thank God For Sunday Morning](https://open.spotify.com/album/4P5Iq9iYYccNJQ9qiAaCnb) | 3:28 |
 | 56 | [Peace of God](https://open.spotify.com/track/5DZeJ1BYlDHvkgUD5X8Oti) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Everywhere + Nowhere \(Black Edition Deluxe\)](https://open.spotify.com/album/308B9tBVWyLjjLan4517p4) | 3:16 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 64 | [High Up](https://open.spotify.com/track/0drumuKkSeMz3CH5kGfOEl) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [High Up](https://open.spotify.com/album/0xrpWr1M61XiTDFntqEYrz) | 3:00 |
 | 65 | [Leave A Light On](https://open.spotify.com/track/6Tqm0Fo4yLKec09auSBTFC) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Get Out of the Way of Your Own Heart \(Deluxe Edition\)](https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN) | 4:00 |
 | 66 | [What I'm Waiting For](https://open.spotify.com/track/6WJ8948zRpfEmUMgxGrAoK) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Clarity](https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7) | 3:48 |
-| 67 | [Healer](https://open.spotify.com/track/3U22Erp29T2a36lYMNjDrx) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Holy Ground](https://open.spotify.com/album/2SZGr3sHy7EwrVFKjJ44j6) | 5:17 |
+| 67 | [Healer](https://open.spotify.com/track/3U22Erp29T2a36lYMNjDrx) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Holy Ground](https://open.spotify.com/album/2SZGr3sHy7EwrVFKjJ44j6) | 0:29 |
 | 68 | [Our Eyes Are On You \- Radio Edit](https://open.spotify.com/track/6Kg6BHRQAd0xKDGGJ7LJoK) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Our Eyes Are On You](https://open.spotify.com/album/6kvDlhfUy3TmrtrNPTurmw) | 4:24 |
 | 69 | [Make Room](https://open.spotify.com/track/1uYqNIeFnuuAyECweX2jI7) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL), [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Make Room](https://open.spotify.com/album/4Kb7uvu8D3kfYK71Hfe2if) | 4:02 |
 | 70 | [Wonder](https://open.spotify.com/track/5JTUzRWxGBR8GgkAyqjfvR) | [Jimi Cravity](https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls) | [Wonder](https://open.spotify.com/album/00xTOJwRmfTABsNNQCZkHA) | 4:07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oyg6NiPryV.md) - [plain]
 
 > Enjoy M.Net's dance battle show Street Woman Fighter's original & inserted songs\. \(댄스 배틀 프로그램 스트릿 우먼 파이터의 발매곡과 삽입곡들을 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,091 likes - 23 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,141 likes - 23 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oyg6NiPryV.md) - [plain]
 | 10 | [Dat $tick](https://open.spotify.com/track/4bdJHQp90ymjEIkkYhcENB) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Dat $tick](https://open.spotify.com/album/7AKJUjNR4hlNcbj55lP5LA) | 2:06 |
 | 11 | [X Gon' Give It To Ya](https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [The Definition Of X: Pick Of The Litter](https://open.spotify.com/album/2ge7Lk4Sl7hHs4AYxqDbf1) | 3:37 |
 | 12 | [Outta Your Mind](https://open.spotify.com/track/1Oenqmtbzt331Pgv0ODfS2) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl) | [Crunk Rock \(Deluxe\)](https://open.spotify.com/album/49qpwRDGLfNAkUG9UeGoTV) | 4:10 |
-| 13 | [Freaks](https://open.spotify.com/track/29r4I5RTxDR440DkqhbD9s) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Excuse My French](https://open.spotify.com/album/5Llp1V2yhpdGle13fM1EWh) | 3:01 |
+| 13 | [Freaks](https://open.spotify.com/track/29r4I5RTxDR440DkqhbD9s) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Excuse My French](https://open.spotify.com/album/5Llp1V2yhpdGle13fM1EWh) | 0:29 |
 | 14 | [Turn Up the Music](https://open.spotify.com/track/1RMRkCn07y2xtBip9DzwmC) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Fortune \(Expanded Edition\)](https://open.spotify.com/album/4AGQTp6rk7v8fPbFu739l7) | 3:47 |
 | 15 | [Deva](https://open.spotify.com/track/3E1xYL2UsFo5N6FwBOIctp) | [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u), [Suku](https://open.spotify.com/artist/0HTe090uRvK2wjx8rdIOl3) | [Deva \(feat\. Suku\)](https://open.spotify.com/album/1BsGP2AUnuAuY81U6RHfrk) | 2:55 |
 | 16 | [Desperado](https://open.spotify.com/track/2f6FeSVRU7OINi0OLkeFqj) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [OFF DUTY](https://open.spotify.com/album/5bC4Moqxle03k5N2RbhVun) | 3:38 |

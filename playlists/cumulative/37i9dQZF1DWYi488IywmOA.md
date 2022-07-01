@@ -4,7 +4,7 @@
 
 > Blues favorites from 2021\. Cover: Robert Finley
 
-50 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/7J29LYotKBKO0d6uHHNKwN)
+50 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/7J29LYotKBKO0d6uHHNKwN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Fragile Peace And Certain War](https://open.spotify.com/track/3h3v9Nf0vU8bNr2FGtpYQM) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Tempting Fate](https://open.spotify.com/album/5SOM73TJ4GOm9mFzmhaKUv) | 3:59 | 2021-12-01 |  |
 | [Full Moon, Half Crazy](https://open.spotify.com/track/7dUXtAVJTPSGnoCkk71Qif) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Holler If You Hear Me](https://open.spotify.com/album/13Bf7tzevJNc8iqYysngFy) | 3:21 | 2021-12-01 |  |
 | [Funky Bitch](https://open.spotify.com/track/0cibalqHJd5nVz6U51PpwR) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ) | [Traveler's Blues](https://open.spotify.com/album/1FvSXWIYbHm4plK9ytVaLd) | 4:32 | 2021-12-01 |  |
-| [Hey Gringo](https://open.spotify.com/track/4aPeeN8IYOCMNBGI0p7169) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Surface Sounds](https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3) | 4:44 | 2021-12-01 |  |
+| [Hey Gringo](https://open.spotify.com/track/4aPeeN8IYOCMNBGI0p7169) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Surface Sounds](https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3) | 0:29 | 2021-12-01 |  |
 | [Hit 'Em Back \(feat\. Robert Randolph, Tony Coleman\)](https://open.spotify.com/track/4eZUZRpgqQVtQsvaEHtxti) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p), [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx), [Tony Coleman](https://open.spotify.com/artist/0QIxudHuVjcWwPZwHXC4l8) | [Hit 'Em Back \(feat\. Robert Randolph, Tony Coleman\)](https://open.spotify.com/album/6v7PWbwEKiBFAPcijUpRVe) | 4:33 | 2021-12-01 |  |
 | [How High](https://open.spotify.com/track/0UqNIatgH3yQrJwqajOM2G) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Play Loud](https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk) | 3:12 | 2021-12-01 |  |
 | [Hush Money](https://open.spotify.com/track/3GyqRIWdigKoHOpkPXXEra) | [Chris Cain](https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv) | [Raisin' Cain](https://open.spotify.com/album/2Ez2n6EAa9Xp7dfOacCbEY) | 4:14 | 2021-12-01 |  |
@@ -55,7 +55,7 @@
 | [The Medicine Man \[Feat\. Old Crow Medicine Show\]](https://open.spotify.com/track/1SlXBA2DcPeBN9beZ9u4QX) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F), [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [The Medicine Man](https://open.spotify.com/album/4lSXxyaYcDLGpCcF3d21Ii) | 3:38 | 2021-12-01 |  |
 | [Under Your Spell](https://open.spotify.com/track/1n4OzgYj9CwubUx7vhf1uD) | [Tito Jackson](https://open.spotify.com/artist/1laENy18mrm9kaI9BJUbdP), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Under Your Spell](https://open.spotify.com/album/5k0hBiaEUAwqu54TauMa4T) | 2:53 | 2021-12-01 |  |
 | [Up and Rolling \(feat\. Son Little and Valerie June\)](https://open.spotify.com/track/2V5o61Yu0ddJDFz1Pi8T3N) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Up and Rolling \(feat\. Son Little and Valerie June\)](https://open.spotify.com/album/6YgBwPmvrWQYRd2QeoiXpq) | 3:21 | 2021-12-01 |  |
-| [When It Rains](https://open.spotify.com/track/18CdYKjbXZQ1UYpkVUqlin) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Resurrection](https://open.spotify.com/album/3hBNP1QpE7MWs5OIInJxAG) | 6:23 | 2021-12-01 |  |
+| [When It Rains](https://open.spotify.com/track/18CdYKjbXZQ1UYpkVUqlin) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Resurrection](https://open.spotify.com/album/3hBNP1QpE7MWs5OIInJxAG) | 0:29 | 2021-12-01 |  |
 | [Whole World's Got The Blues \(feat\. Eric Gales\)](https://open.spotify.com/track/36K7AYc1UyMyjPoV4c3ozR) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Whole World's Got The Blues \(feat\. Eric Gales\)](https://open.spotify.com/album/4WliYc7MYceRk1zwJMUNNE) | 5:33 | 2021-12-01 |  |
 | [Whole World's Got The Blues \(feat\. Eric Gales\)](https://open.spotify.com/track/5bzgruPfJ2W4mYetZAlZPk) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Dear America](https://open.spotify.com/album/0IwmHFrTRo5Em6d72VNbs3) | 5:33 | 2021-12-01 |  |
 

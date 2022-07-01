@@ -4,7 +4,7 @@
 
 > Sucessos e novidades do pop calminho pra relaxar o seu dia! Foto: Clarissa, Diogo Piçarra
 
-108 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/5tkcffSh1F75PZZSEVmuv8)
+108 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/5tkcffSh1F75PZZSEVmuv8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Aliança](https://open.spotify.com/track/2tLfyFT8X6MmdYsyo9x5Gg) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Aliança](https://open.spotify.com/album/6xTuOYTLMwNqwbyNHTtAot) | 3:13 | 2022-06-14 | 2022-06-25 |
 | [Alto Mar](https://open.spotify.com/track/0UAeeeqIozUW3g5w86bp9m) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Alto Mar](https://open.spotify.com/album/7LevgNPvMOCz0xVDQ61wM0) | 3:17 | 2022-05-13 |  |
 | [Alvoroço](https://open.spotify.com/track/2eDuRj2ndCZkpojzlAS79I) | [Malu Rodrigues](https://open.spotify.com/artist/4GiLjWLDEAfW8Cy7mmYnbp) | [Alvoroço](https://open.spotify.com/album/7zQ5XIkKJWTAuA8zLEVTYV) | 2:52 | 2022-05-13 | 2022-06-15 |
-| [Amarelo, azul e branco](https://open.spotify.com/track/2LOIoeI16A8jjKubPKoCSa) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [COR](https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC) | 3:21 | 2022-05-13 |  |
+| [Amarelo, azul e branco](https://open.spotify.com/track/2LOIoeI16A8jjKubPKoCSa) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [COR](https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC) | 0:29 | 2022-05-13 |  |
 | [Amor de Liquidificador](https://open.spotify.com/track/52R4PTY20KvlXSeyhNSfte) | [duogram](https://open.spotify.com/artist/3fuNvXraxWHImqMp0jfQ8Y) | [Amor de Liquidificador](https://open.spotify.com/album/59m9JgIeX1Fa3mmxqTrV04) | 2:50 | 2022-05-13 |  |
 | [amor desalinhado](https://open.spotify.com/track/14Y83kEVHr3ktSp2wDK7Gj) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK), [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf) | [amor desalinhado](https://open.spotify.com/album/3elPKbmjOlzJAvwJq6KIu7) | 3:02 | 2022-06-24 |  |
 | [Amor Indefinido](https://open.spotify.com/track/5mGdoYQsdHqHwV9AIbOM4w) | [Ari](https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE), [Tibi](https://open.spotify.com/artist/3jYij1korBd9U9832ztYIL), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Amor Indefinido](https://open.spotify.com/album/1ryZOT2brR6X57rSQmMAxl) | 3:03 | 2022-06-14 | 2022-06-25 |

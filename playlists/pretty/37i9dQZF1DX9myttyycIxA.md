@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: boyish
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,212 likes - 110 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,368 likes - 110 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 53 | [Dark Angel](https://open.spotify.com/track/58lQsFCu6wlgDvOI0MjMmu) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Dark Angel](https://open.spotify.com/album/7vLW18eOsIVNFMqiBGXafe) | 6:15 |
 | 54 | [If You Feel Alone At Parties](https://open.spotify.com/track/60mVBegbZZTphS4TzKCezF) | [Blvck Hippie](https://open.spotify.com/artist/0mUwpdl65QY5krTuVVDoZd) | [If You Feel Alone At Parties](https://open.spotify.com/album/5z4tK2lRjOTgtG0sxyaARZ) | 4:19 |
 | 55 | [Not in the Cards](https://open.spotify.com/track/29QbcQ0P5uD76Uwk9XOxmp) | [The Red Pears](https://open.spotify.com/artist/3FRYBFCNEBWMjk6kvwjHQT) | [You Thought We Left Because The Door Was Open But We Were Waiting Outside](https://open.spotify.com/album/3njVnwW9KBX7kIZDJdA1dS) | 2:08 |
-| 56 | [John, Take Me With You](https://open.spotify.com/track/1IbJOWFjQgHYwwwD4ScyqN) | [JW Francis](https://open.spotify.com/artist/11DpUQDuQFFuGU8VXny3K6) | [WANDERKID](https://open.spotify.com/album/1F6LrJHFfmVb9AqB3Q5Ajs) | 3:30 |
+| 56 | [John, Take Me With You](https://open.spotify.com/track/1IbJOWFjQgHYwwwD4ScyqN) | [JW Francis](https://open.spotify.com/artist/11DpUQDuQFFuGU8VXny3K6) | [WANDERKID](https://open.spotify.com/album/1F6LrJHFfmVb9AqB3Q5Ajs) | 0:29 |
 | 57 | [In Too Deep](https://open.spotify.com/track/76rOZ9F8s8mX9N3NhZBgxt) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [In Too Deep](https://open.spotify.com/album/5cBeOUywALVmPxmCS8CPPw) | 3:41 |
 | 58 | [Country](https://open.spotify.com/track/0Hlfo1A9sxNTPsk9QQXWb2) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Country](https://open.spotify.com/album/3Rfhc4oWiP4wvPNlZKhcro) | 4:00 |
 | 59 | [Hold U](https://open.spotify.com/track/6cc0aU3UwzVxpJ4hzqGedK) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Hold U](https://open.spotify.com/album/3Q7cvRxPP6gbPZf2u7AM2e) | 4:16 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 74 | [concussion](https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [concussion](https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2) | 4:37 |
 | 75 | [If We Were Older](https://open.spotify.com/track/6eK1bxauGGFmlVWDjqq5CJ) | [The Gloomies](https://open.spotify.com/artist/6IZyBaB8s1xUK63Ltp9h0b) | [Blackout \(Deluxe\)](https://open.spotify.com/album/15na81dJ5ZIQnNeDOaJyTe) | 4:51 |
 | 76 | [Aubade](https://open.spotify.com/track/21yFr0OLxjieHKyrxg1Rvs) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Public Storage](https://open.spotify.com/album/31NBYL6BkDpHgYK7cWl32S) | 3:31 |
-| 77 | [Damn I'm Tired](https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Damn I'm Tired](https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu) | 3:45 |
+| 77 | [Damn I'm Tired](https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Damn I'm Tired](https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu) | 0:29 |
 | 78 | [Cheers](https://open.spotify.com/track/1o6AAprhFq448i4PVPKoZ6) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Cheers](https://open.spotify.com/album/1SZyOSR32ufm1Gdx6guwZR) | 3:15 |
 | 79 | [Alaska](https://open.spotify.com/track/3jfYDfrnp0dseGWZfa3jqt) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Alaska](https://open.spotify.com/album/4rFxEoG9PEDkONioOInJhy) | 2:05 |
 | 80 | [party](https://open.spotify.com/track/0Xk5I0Zmycf3qSec2WkIi9) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [party](https://open.spotify.com/album/5s6gT2apiu0qN8S0yKRwpT) | 4:30 |
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 91 | [Thy Mission](https://open.spotify.com/track/7LcmuGeSXQzQlteW3yGtWb) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Thy Mission](https://open.spotify.com/album/7JxyWvp7fQlLNdrTUDBtHo) | 3:41 |
 | 92 | [I Saw an Angel](https://open.spotify.com/track/4PqdOR9uAfyNp67P9k3bH2) | [Puzzle](https://open.spotify.com/artist/3JDZy6EWo6V8yABANunf6V) | [Soaring](https://open.spotify.com/album/3piPM3MXYU1wmB9yz7UHcQ) | 2:43 |
 | 93 | [Structure](https://open.spotify.com/track/0OPD9fnjX6xWgHBQ4QClgu) | [Odd Sweetheart](https://open.spotify.com/artist/0Re7wtl0w6niMZR0GfROpg) | [Odd Sweetheart](https://open.spotify.com/album/3LLHBI11ekr5he4Y8TqVnG) | 2:31 |
-| 94 | [Sideways](https://open.spotify.com/track/3kF46KXHxqWvvgJWtZRmyx) | [Flasher](https://open.spotify.com/artist/1qPMBDzIv4WJoToZqNxb1f) | [Sideways](https://open.spotify.com/album/6gDsJNf8oR4h87uZBl6cEr) | 2:51 |
+| 94 | [Sideways](https://open.spotify.com/track/3kF46KXHxqWvvgJWtZRmyx) | [Flasher](https://open.spotify.com/artist/1qPMBDzIv4WJoToZqNxb1f) | [Sideways](https://open.spotify.com/album/6gDsJNf8oR4h87uZBl6cEr) | 0:29 |
 | 95 | [Everything](https://open.spotify.com/track/3tQXwwGZOYrz6xbl7e7yZg) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Everything](https://open.spotify.com/album/0OvSbzmj1pyI5z4PNNFnDA) | 3:17 |
 | 96 | [Call Me Home](https://open.spotify.com/track/7EepuMExJZF3eimemlp771) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Call Me Home](https://open.spotify.com/album/2VTv5RQrj5dRi70aCfNhUc) | 3:45 |
 | 97 | [Kind of a Nice Time](https://open.spotify.com/track/1IyQVkQ5aZUg39cFPwQelq) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Kind of a Nice Time](https://open.spotify.com/album/0fM00ZhL8Jv3EfppLbOxOU) | 3:12 |
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 103 | [Driving to Hawaii \- Juniper Version](https://open.spotify.com/track/0xXGklgPEKlLdXNEuucFPY) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [The Juniper Songbook](https://open.spotify.com/album/6HmJiODv0iTye63TG2g4h0) | 3:25 |
 | 104 | [Poolside](https://open.spotify.com/track/5e1Q0FuvCEVDFVAztkSLnL) | [Dreamgirl](https://open.spotify.com/artist/7JPPLV24jlpVoHz5dHN6pR) | [Poolside](https://open.spotify.com/album/6ZXyOy9MkWxGPtMXl72RnX) | 2:18 |
 | 105 | [Spin](https://open.spotify.com/track/4dkszdiuRSiCj34twbJfT8) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Spin](https://open.spotify.com/album/1fj0ZE8UczqCmDhmBmS1kX) | 3:32 |
-| 106 | [Pretty](https://open.spotify.com/track/5rg2cr5aokhrm5gQNpyHXi) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow), [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pretty](https://open.spotify.com/album/22dulUCoaoKoVpmg2irQmo) | 3:19 |
+| 106 | [Pretty](https://open.spotify.com/track/5rg2cr5aokhrm5gQNpyHXi) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow), [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pretty](https://open.spotify.com/album/22dulUCoaoKoVpmg2irQmo) | 0:29 |
 | 107 | [you were right](https://open.spotify.com/track/1z3y0dcgWonv5eZJmkN05r) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY), [Eve 6](https://open.spotify.com/artist/4Eqd24yS5YcxI8b6Xfuwr8) | [you were right](https://open.spotify.com/album/5caVRn6usqYh4h54eDSONn) | 2:49 |
 | 108 | [What It's Like](https://open.spotify.com/track/0XWVa5zjDjpvkZZ2sgA3CT) | [Together Pangea](https://open.spotify.com/artist/29q1axQPERERxUzqufXMqB) | [What It's Like](https://open.spotify.com/album/5YaKeYVnTIMh7keLN0i729) | 3:03 |
 | 109 | [The Knife](https://open.spotify.com/track/45ikoDZrTVZxfBQIJPCu0T) | [Deeper](https://open.spotify.com/artist/2OdkcNnvSRbVRcziM3OK2S) | [Auto\-Pain \(Deluxe\)](https://open.spotify.com/album/2nY1MSBmfCYBiVY0oa013l) | 3:31 |

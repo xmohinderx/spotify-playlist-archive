@@ -4,13 +4,13 @@
 
 > Make bedtime dreamlike with original lullabies from Timbuktu, Mapei and Pontus Winngren, as well as the artists' personal favorite lullabies.
 
-26 songs - 1 hr 40 min - [published](https://open.spotify.com/playlist/1WjMWUQOKKw29fz69hwFQh)
+26 songs - 1 hr 37 min - [published](https://open.spotify.com/playlist/1WjMWUQOKKw29fz69hwFQh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/0Pjue24T1DIPZMNvQN06g1) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4uvvhkcmUIhQ3h9hvLSCk4) | 0:00 | 2021-05-06 |  |
 | [1/1 \- Remastered 2004](https://open.spotify.com/track/3bCmDqflFBHijgJfvtqev5) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 17:21 | 2021-05-06 |  |
-| [Byssan lull](https://open.spotify.com/track/0VGKHZHCdEl8tq2Aqin8uI) | [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Barnvisor](https://open.spotify.com/album/4vVAWhdb0dpfqiqfdKAIR0) | 1:25 | 2021-05-06 |  |
+| [Byssan lull](https://open.spotify.com/track/0VGKHZHCdEl8tq2Aqin8uI) | [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Barnvisor](https://open.spotify.com/album/4vVAWhdb0dpfqiqfdKAIR0) | 0:29 | 2021-05-06 |  |
 | [C.R.E.A.M.](https://open.spotify.com/track/5ya6T5IWJLxl616Bf7DSaO) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Lullaby Renditions of Wu\-Tang Clan](https://open.spotify.com/album/7daFeFeJyRZP6NiEXWMsI8) | 2:37 | 2021-05-06 |  |
 | [Comptine d'un autre été, l'après\-midi](https://open.spotify.com/track/0PrAozo6AwJ0Ftatr3CfJt) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Amelie from Montmartre \(Original SoundTrack\)](https://open.spotify.com/album/2AroyoBgm78mz4Qo5WEAnc) | 2:20 | 2021-05-06 |  |
 | [Danny's Dream](https://open.spotify.com/track/13hLjPatKentvawsFceF9a) | [Lars Gullin](https://open.spotify.com/artist/4gquwMHteaMQ0ZQOMj9CsI) | [Fäbodjazz](https://open.spotify.com/album/698BkVjPZ6aBbp4OP1jLyW) | 5:29 | 2021-05-06 |  |
@@ -32,7 +32,7 @@
 | [Pyramid Song](https://open.spotify.com/track/55q3Ro66yXWi9rsEddeEN4) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Amnesiac](https://open.spotify.com/album/1HrMmB5useeZ0F5lHrMvl0) | 4:48 | 2021-05-06 |  |
 | [Swing Low Sweet Chariot, Come Sunday](https://open.spotify.com/track/5wXulQePYdipf5yZuFjZS8) | [Brenda Mitchell Stewart](https://open.spotify.com/artist/4cIe8bqCXOsO0tUqS6qjqq) | [Missin' Mahalia: A Tribute To Ms\. Mahalia Jackson](https://open.spotify.com/album/1Dp5fbc3wjdY9YMGHCWgP2) | 5:57 | 2021-05-06 |  |
 | [Tezeta \(Nostalgia\)](https://open.spotify.com/track/414J8tKHbtF16XOiHGBEso) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [Ethiopiques, Vol\. 4: Ethio Jazz 1969\-1974](https://open.spotify.com/album/5VKvVk4gaPAJyXjof8NnzX) | 6:16 | 2021-05-06 |  |
-| [Trollmors vaggsång](https://open.spotify.com/track/0HnzYVsrjA2RRHERHIAyvR) | [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Barnvisor](https://open.spotify.com/album/4vVAWhdb0dpfqiqfdKAIR0) | 2:05 | 2021-05-06 |  |
+| [Trollmors vaggsång](https://open.spotify.com/track/0HnzYVsrjA2RRHERHIAyvR) | [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Barnvisor](https://open.spotify.com/album/4vVAWhdb0dpfqiqfdKAIR0) | 0:29 | 2021-05-06 |  |
 | [When You're Alone](https://open.spotify.com/track/6wumwltdJFMgSivEJ34W2I) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Hook \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2SNJN8cmx15IVdSa5jJCVR) | 3:13 | 2021-05-06 |  |
 
 \*This playlist was first scraped on 2022-04-19. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 
 > Breathe deep and release that pressure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,716 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,742 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 15 | [Heavy](https://open.spotify.com/track/6CnXcjsNmdzh5aUfnxgcQb) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Heavy](https://open.spotify.com/album/4nZA7fWo4mVBvOaTjgX4AV) | 3:01 |
 | 16 | [Ambulance](https://open.spotify.com/track/4pqsxHGrNokZEVlOSiH2MG) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Monument](https://open.spotify.com/album/3MDQ2fNnt78CZrdBh6Nq3B) | 4:32 |
 | 17 | [Unhold Me](https://open.spotify.com/track/6dVIFfl55kxGl3bAifMiMr) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Unhold Me](https://open.spotify.com/album/132EEc3csmIyKpp4nShpV6) | 3:18 |
-| 18 | [Golden Ratio](https://open.spotify.com/track/3MHBYSloK2tHDGAZ3ucA5I) | [Hayden Thorpe](https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d) | [Golden Ratio](https://open.spotify.com/album/3gBKFggMKS5mbwWWg6TdZp) | 4:27 |
+| 18 | [Golden Ratio](https://open.spotify.com/track/3MHBYSloK2tHDGAZ3ucA5I) | [Hayden Thorpe](https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d) | [Golden Ratio](https://open.spotify.com/album/3gBKFggMKS5mbwWWg6TdZp) | 0:29 |
 | 19 | [Black Cloud](https://open.spotify.com/track/7MkBQ0FuRr4R0mlKEdBW0W) | [Playwrite](https://open.spotify.com/artist/0EiT4C5JLoSGXyEpHAZpEN) | [Cathedrals](https://open.spotify.com/album/3OvoMUfySPeoCMn6CBDmRD) | 3:35 |
 | 20 | [Redeye](https://open.spotify.com/track/01IySCKQrafxHUaWgBAdJX) | [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0) | [Redeye](https://open.spotify.com/album/6liww6LJpYzlW5G0sGwT8P) | 3:51 |
 | 21 | [i don't know where i'm going but that's okay](https://open.spotify.com/track/5EXoQjNAotUspxZhPHiGE7) | [sarya](https://open.spotify.com/artist/1jIluixQm1CH6lBpeq46f5) | [take care of yourself](https://open.spotify.com/album/5PnmGxnNA1sR9MZVrFpvlA) | 4:42 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 62 | [Dry Fantasy](https://open.spotify.com/track/2edpNYAydzfp4Avg4x2Zyh) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Dry Fantasy](https://open.spotify.com/album/7gCgNBZb7InATNH8fE84V4) | 5:10 |
 | 63 | [This is Where it Ends](https://open.spotify.com/track/4RErVR8msKr0WXp4hkRPnU) | [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [This is Where it Ends](https://open.spotify.com/album/6kyYwC2flZrnoYB7QvQTIc) | 3:42 |
 | 64 | [In Uh Breeze](https://open.spotify.com/track/2pDVWbHyh5tIp2TlDhUBzG) | [Monica Riskey](https://open.spotify.com/artist/3JpHMpV3QOd4qrz7Jfkw7w) | [In Uh Breeze](https://open.spotify.com/album/4JTz2v69vN9CIJl2EuqpEr) | 2:18 |
-| 65 | [The Sun Is Up Forever](https://open.spotify.com/track/1Lb1S77Ooubhoy3sz509aY) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [The Sun Is Up Forever](https://open.spotify.com/album/4E2TcDaegufL6YTbOzHiqR) | 3:44 |
+| 65 | [The Sun Is Up Forever](https://open.spotify.com/track/1Lb1S77Ooubhoy3sz509aY) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [The Sun Is Up Forever](https://open.spotify.com/album/4E2TcDaegufL6YTbOzHiqR) | 0:29 |
 | 66 | [Chewing Cotton Wool](https://open.spotify.com/track/2qRRVF41NynV0FRHJKaYjM) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Chewing Cotton Wool](https://open.spotify.com/album/0vdb79nBrtdF8sozFxRzDw) | 3:29 |
 | 67 | [Let You Down](https://open.spotify.com/track/2fPLTshHikksne597oM4q5) | [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [See Inside](https://open.spotify.com/album/10Xt8fecD3Ih96nA06e2db) | 3:26 |
 | 68 | [Wonder](https://open.spotify.com/track/7wq53xU6AozEaJV4CgNMQq) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R), [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Wonder / Own Me](https://open.spotify.com/album/0TVZKR5ERQr5GqKi8T1OJa) | 6:32 |

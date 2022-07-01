@@ -4,7 +4,7 @@
 
 > A collection of Tinie Tempah's biggest hits, features and classic cuts\. This Is: Tinie Tempah
 
-45 songs - 2 hr 50 min - [published](https://open.spotify.com/playlist/0djoAdNpRoA4KrusLWzRXi)
+45 songs - 2 hr 45 min - [published](https://open.spotify.com/playlist/0djoAdNpRoA4KrusLWzRXi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [It's OK \(feat\. Labrinth\)](https://open.spotify.com/track/6U68aZIAwQ0i4DGaoVR3cY) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Demonstration](https://open.spotify.com/album/46V4ARN9jk4vpZ7nMFcig6) | 4:29 | 2020-03-16 |  |
 | [Let Go \(feat\. Emeli Sandé\)](https://open.spotify.com/track/1aXCXN9iBohPAXH13hzauJ) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Disc\-Overy](https://open.spotify.com/album/0B0XOuBWbgLAOkmOFXDe9M) | 4:17 | 2020-03-16 |  |
 | [Lightwork](https://open.spotify.com/track/6yViG0VPb3CCDIOwzAAzhq) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [YOUTH](https://open.spotify.com/album/0ctfduE1sLhqIjbcFokWvv) | 3:44 | 2020-03-16 |  |
-| [Lord Forgive Me](https://open.spotify.com/track/1ZZTafL5bx3HOkHtR5zqmg) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [Young Kingz](https://open.spotify.com/album/4qYsGncvLH6XZitiR5eOob) | 4:59 | 2020-03-16 |  |
+| [Lord Forgive Me](https://open.spotify.com/track/1ZZTafL5bx3HOkHtR5zqmg) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [Young Kingz](https://open.spotify.com/album/4qYsGncvLH6XZitiR5eOob) | 0:29 | 2020-03-16 |  |
 | [Lost Ones \(feat\. Paloma Faith\)](https://open.spotify.com/track/6T401t5NRAov600mtrN4O3) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Demonstration](https://open.spotify.com/album/46V4ARN9jk4vpZ7nMFcig6) | 4:38 | 2020-03-16 |  |
 | [Lover Not a Fighter \(feat\. Labrinth\)](https://open.spotify.com/track/686W4fUswh234ASRBVcXxT) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Demonstration](https://open.spotify.com/album/46V4ARN9jk4vpZ7nMFcig6) | 3:28 | 2020-03-16 |  |
 | [Lush Life \(feat\. Tinie Tempah\)](https://open.spotify.com/track/0QM5owqtiWikQV6VWL2hgS) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [Lush Life Remixes \(feat\. Tinie Tempah\)](https://open.spotify.com/album/4ZFz2vLiwYQbe0zURJ4WrB) | 3:20 | 2020-03-16 |  |

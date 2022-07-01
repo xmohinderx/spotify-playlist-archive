@@ -4,7 +4,7 @@
 
 > 
 
-20 songs - 1 hr 17 min - [published](https://open.spotify.com/playlist/7kb8Yi6kPR5DQcyrlyVXpG)
+20 songs - 1 hr 14 min - [published](https://open.spotify.com/playlist/7kb8Yi6kPR5DQcyrlyVXpG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [My Songs Know What You Did In The Dark \(Light Em Up\)](https://open.spotify.com/track/2COhljkZObSdthS0NG5s3B) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [My Songs Know What You Did In The Dark \(Light Em Up\)](https://open.spotify.com/album/0L56YbQhfJpw5XhXM3Jrxh) | 3:08 | 2013-07-08 |  |
 | [Radioactive](https://open.spotify.com/track/6VvLaPlFhhSNHKk4exLUx8) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Continued Silence EP](https://open.spotify.com/album/5eJa2BP7rrqkrpFpTiANPg) | 3:08 | 2013-07-08 |  |
 | [Safe and Sound](https://open.spotify.com/track/3DgpQf1o0LA2okhrXsPxYF) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Safe and Sound \- Single](https://open.spotify.com/album/0GvUUFP8nAtHo8i2qV1smI) | 3:12 | 2013-07-08 |  |
-| [The Other Side](https://open.spotify.com/track/4CLZ3D2RCI5ZCfB51D6NwB) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [The Other Side](https://open.spotify.com/album/2ejPQTLiU87009N1BG2Th0) | 3:46 | 2013-07-08 |  |
+| [The Other Side](https://open.spotify.com/track/4CLZ3D2RCI5ZCfB51D6NwB) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [The Other Side](https://open.spotify.com/album/2ejPQTLiU87009N1BG2Th0) | 0:29 | 2013-07-08 |  |
 | [The Way](https://open.spotify.com/track/6csiA8EczbxAHDewDL7QQl) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [The Way](https://open.spotify.com/album/4ePwm41SXEGB2yOKGtSkG2) | 3:46 | 2013-07-08 |  |
 | [Treasure](https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 2:58 | 2013-07-08 |  |
 

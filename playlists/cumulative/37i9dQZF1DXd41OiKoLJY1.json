@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Fresh releases from your future favorite artists. Cover: Jano, Artwork: Isu Kim\n",
+  "description": "Fresh releases from your future favorite artists. Cover: Jiya Noina, Artwork: Isu Kim\n",
   "name": "Fresh Finds Philippines",
   "published_playlist_ids": [
     "19D7ttJ9yoRDUaIqZ2rt1y"
@@ -81,6 +81,24 @@
       "duration_ms": 205500,
       "name": "2 Seasons",
       "url": "https://open.spotify.com/track/1eAghABfyPaB4Z3zQzajyt"
+    },
+    {
+      "album": {
+        "name": "200",
+        "url": "https://open.spotify.com/album/0ZfP9QGvf9sRJMeXcc8R9m"
+      },
+      "artists": [
+        {
+          "name": "Eloisa",
+          "url": "https://open.spotify.com/artist/5mDsFqB6IM7KUbrk9pOZEF"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242222,
+      "name": "200",
+      "url": "https://open.spotify.com/track/4ziB5BrvNR6AfNxnomFIVQ"
     },
     {
       "album": {
@@ -345,7 +363,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 216009,
       "name": "Akit",
       "url": "https://open.spotify.com/track/132gA3doDa156g75OYv6n8"
@@ -403,6 +421,24 @@
       "duration_ms": 229125,
       "name": "Alipin Ng Kaba",
       "url": "https://open.spotify.com/track/5b7ci2ytYhNcQr624gqCw5"
+    },
+    {
+      "album": {
+        "name": "All Love, No Hate",
+        "url": "https://open.spotify.com/album/1zdVTiNSTT1tsyDvaqXFxX"
+      },
+      "artists": [
+        {
+          "name": "Jiya Noina",
+          "url": "https://open.spotify.com/artist/5rmYAIq4ong7rSgH6XKtQs"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "All Love, No Hate",
+      "url": "https://open.spotify.com/track/7B40Wyl3xMf9FpU6jUkDWT"
     },
     {
       "album": {
@@ -815,7 +851,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 225882,
       "name": "Babaero",
       "url": "https://open.spotify.com/track/16mZla3wp4ckHajB4yyuxa"
@@ -1866,6 +1902,24 @@
     },
     {
       "album": {
+        "name": "Eva",
+        "url": "https://open.spotify.com/album/1fLyu1eGwa2ZRHn9p8woHO"
+      },
+      "artists": [
+        {
+          "name": "Psyka PH",
+          "url": "https://open.spotify.com/artist/4i8J0mAdRFSOSpyhQswPUE"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277458,
+      "name": "Eva",
+      "url": "https://open.spotify.com/track/0bBkhQZHBBxE8QVGY2nTTc"
+    },
+    {
+      "album": {
         "name": "Everybody's Business",
         "url": "https://open.spotify.com/album/7fKHi0UnugNooD0uizKu6k"
       },
@@ -2241,7 +2295,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 207330,
       "name": "FOOL",
       "url": "https://open.spotify.com/track/14a6rDCoxx7XoZQ7K5VRLf"
@@ -2404,6 +2458,24 @@
     },
     {
       "album": {
+        "name": "Get Drunk",
+        "url": "https://open.spotify.com/album/29mkO0VzWBPs7Vw7wMl2Zx"
+      },
+      "artists": [
+        {
+          "name": "Pink Trash Project",
+          "url": "https://open.spotify.com/artist/4YmeeA5wy3hUMdN2bA1pVf"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Get Drunk",
+      "url": "https://open.spotify.com/track/6pzK7ePiNCVE1mBlNtXb3y"
+    },
+    {
+      "album": {
         "name": "Gilid",
         "url": "https://open.spotify.com/album/6MeCpMdaSYUjWRWWdUvU8K"
       },
@@ -2459,7 +2531,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 242033,
       "name": "Gising",
       "url": "https://open.spotify.com/track/7cghidWy2vmQAw2MNQ3xwA"
@@ -3280,7 +3352,7 @@
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 268890,
+      "duration_ms": 29048,
       "name": "isang iglap",
       "url": "https://open.spotify.com/track/1z9IrK41E1nXd0VXgbipIG"
     },
@@ -3493,6 +3565,28 @@
       "duration_ms": 207272,
       "name": "kahulugan",
       "url": "https://open.spotify.com/track/1r9IiKw7QmC1TGboAgTc3v"
+    },
+    {
+      "album": {
+        "name": "Kailan Magiging Isa",
+        "url": "https://open.spotify.com/album/1g6inZkElwrTmHFNwh8UVl"
+      },
+      "artists": [
+        {
+          "name": "Jilla",
+          "url": "https://open.spotify.com/artist/04XH34KBet1mZhlaklTnoc"
+        },
+        {
+          "name": "Crack Thy Sound",
+          "url": "https://open.spotify.com/artist/4mB9kP8OxJ3kmpNUJM6aQO"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251250,
+      "name": "Kailan Magiging Isa",
+      "url": "https://open.spotify.com/track/40UCyXt4DoWMOo7OtyOVHa"
     },
     {
       "album": {
@@ -4355,7 +4449,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 415500,
       "name": "Marka",
       "url": "https://open.spotify.com/track/0ccvL8rCJehCjEDU90XjSJ"
@@ -4616,7 +4710,7 @@
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 132063,
+      "duration_ms": 29048,
       "name": "Moody",
       "url": "https://open.spotify.com/track/2y8r2TucNIvDK8JT8LTuHB"
     },
@@ -4705,7 +4799,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 197392,
       "name": "Muli",
       "url": "https://open.spotify.com/track/7F3EgtpZ6PBMTNm4q42fiO"
@@ -5158,6 +5252,24 @@
     },
     {
       "album": {
+        "name": "Pabibo",
+        "url": "https://open.spotify.com/album/4DQqSFMM0FdJnnTxpEfoeb"
+      },
+      "artists": [
+        {
+          "name": "$aint Pxpe",
+          "url": "https://open.spotify.com/artist/6Ym0aSumqoa7GnFGtk4nch"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171104,
+      "name": "Pabibo",
+      "url": "https://open.spotify.com/track/60KesobJ6DeBjy2LuiR5WR"
+    },
+    {
+      "album": {
         "name": "PADAYON",
         "url": "https://open.spotify.com/album/2dVgYeeI7kUi6BB51RenOT"
       },
@@ -5492,6 +5604,24 @@
     },
     {
       "album": {
+        "name": "Pinagpala",
+        "url": "https://open.spotify.com/album/4GoqgUxdGVXzpIv4PkJv8d"
+      },
+      "artists": [
+        {
+          "name": "Jono Hilario",
+          "url": "https://open.spotify.com/artist/5U0RNCBzHZPAiP34rcgzyi"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273333,
+      "name": "Pinagpala",
+      "url": "https://open.spotify.com/track/225Ldxunl0hJT4E8mIpEkM"
+    },
+    {
+      "album": {
         "name": "Pinagtagpo",
         "url": "https://open.spotify.com/album/6aL7gj7BwERsyeGvoq63kj"
       },
@@ -5583,7 +5713,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 327657,
       "name": "Polaroid December Daydreams",
       "url": "https://open.spotify.com/track/5Ap40wyOyfXwBfeJzbxZq7"
@@ -7157,6 +7287,24 @@
     {
       "album": {
         "name": "Today",
+        "url": "https://open.spotify.com/album/1KxxfjOnrQ4p0vjcfDNMS3"
+      },
+      "artists": [
+        {
+          "name": "GDeeY",
+          "url": "https://open.spotify.com/artist/1YU1zlmMRk0oa4c7aVbVaZ"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171173,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/3cufFSC4UL4b8AUwdMQumO"
+    },
+    {
+      "album": {
+        "name": "Today",
         "url": "https://open.spotify.com/album/2EAf0AR1kpZ6wUkBGMh11j"
       },
       "artists": [
@@ -7189,6 +7337,24 @@
       "duration_ms": 220000,
       "name": "TRIGGER",
       "url": "https://open.spotify.com/track/4plTi2YE7bXoOyGj19SF9z"
+    },
+    {
+      "album": {
+        "name": "Tugatog",
+        "url": "https://open.spotify.com/album/0yI5p5FLc6qrn1jZ4GD8uf"
+      },
+      "artists": [
+        {
+          "name": "Jonn Walter",
+          "url": "https://open.spotify.com/artist/12FKfhnWAMcMnns6fLBAPT"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152760,
+      "name": "Tugatog",
+      "url": "https://open.spotify.com/track/78biKDbePe8nIKItNFdsHc"
     },
     {
       "album": {
@@ -7819,7 +7985,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 213623,
       "name": "you wanted a woman",
       "url": "https://open.spotify.com/track/6preeBUwtL6H5tRZJZFK1r"

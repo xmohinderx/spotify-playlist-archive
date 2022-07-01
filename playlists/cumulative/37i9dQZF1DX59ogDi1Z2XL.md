@@ -4,7 +4,7 @@
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Drake 🦉
 
-411 songs - 19 hr 21 min - [published](https://open.spotify.com/playlist/42ubhhnACTiunpws137UPH)
+411 songs - 19 hr 19 min - [published](https://open.spotify.com/playlist/42ubhhnACTiunpws137UPH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,7 +387,7 @@
 | [Tricky](https://open.spotify.com/track/0Tii1QPgYcbxHdwA8pRX8Q) | [Sinzere](https://open.spotify.com/artist/5cz6c3YrUMlDVbmfZfdCat) | [Tricky](https://open.spotify.com/album/5Bv2cIUTiXcErWrh8GBIoW) | 2:38 | 2022-05-13 | 2022-06-25 |
 | [Triple Threat](https://open.spotify.com/track/5dqpFIzgQI4x5I7FOI6aN9) | [No Tourists](https://open.spotify.com/artist/0uBsS9dLSDqjW04F66Q6uI) | [Triple Threat](https://open.spotify.com/album/2P4Bh0NYvZmKxq3LgzMnAW) | 3:15 | 2022-02-18 | 2022-04-02 |
 | [Trippin'](https://open.spotify.com/track/0VIng0bDqHnD9o90i74TbB) | [Bby Billions](https://open.spotify.com/artist/036VAtZMhWUowbla0OesPK) | [Trippin'](https://open.spotify.com/album/3cB9sDC8qP3lraCW16X6pq) | 1:56 | 2022-02-04 | 2022-05-07 |
-| [Trophy](https://open.spotify.com/track/5i4FyAHlC4X1DA7KVDqDUW) | [3MFrench](https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x) | [French Connections](https://open.spotify.com/album/2QrljTEOdMpOvV0BGihyHc) | 3:10 | 2022-05-06 |  |
+| [Trophy](https://open.spotify.com/track/5i4FyAHlC4X1DA7KVDqDUW) | [3MFrench](https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x) | [French Connections](https://open.spotify.com/album/2QrljTEOdMpOvV0BGihyHc) | 0:29 | 2022-05-06 |  |
 | [Trouble Man.](https://open.spotify.com/track/5jPtXvN5kdWaA1H5A7SfID) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI) | [Trouble Man.](https://open.spotify.com/album/3OjYPZsH6dkXft8n2bpn3z) | 2:10 | 2022-04-29 |  |
 | [Trust](https://open.spotify.com/track/02ofwHZyFSuW1LlVQ6DCye) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [The Fleur Print \(Vol\. 2\)](https://open.spotify.com/album/47mj6zu9AiNejasZn1Qvou) | 3:26 | 2022-02-25 |  |
 | [Truth Be Told](https://open.spotify.com/track/5jQQPtcoGpd1aH1xrVEeQ2) | [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w) | [Truth Be Told](https://open.spotify.com/album/3EuT592w9HYrlbZJz09Cqt) | 2:10 | 2022-03-25 | 2022-05-07 |

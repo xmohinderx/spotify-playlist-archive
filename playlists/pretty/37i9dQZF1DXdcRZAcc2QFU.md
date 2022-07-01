@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcRZAcc2QFU.md) - [plain]
 
 > ‘90s melodies that hit the right spot! Cover: Udit Narayan
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,711 likes - 50 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,831 likes - 50 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcRZAcc2QFU.md) - [plain]
 | 9 | [Sundara Sundara](https://open.spotify.com/track/0bWmjgT1xlNMcfq5nlc7cb) | [Vinod Rathod](https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd), [Sapna Mukherjee](https://open.spotify.com/artist/2ME9akyjf2IaOM5DLTqHUS) | [Rakshak](https://open.spotify.com/album/1WR6LNez0oAfwd0oPowVcq) | 4:54 |
 | 10 | [Muqabala Muqabala](https://open.spotify.com/track/0iG83qZ0ftWr43VggRYkp3) | [Mano](https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um), [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Hum Se Hai Muqabala \- Kadalan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3IpHQbDLRRqd9sZQncIMD9) | 2:23 |
 | 11 | [Chaiyya Chaiyya](https://open.spotify.com/track/5H4rKylLnO8KrmdXTRhj5s) | [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Sapna Awasthi](https://open.spotify.com/artist/2tFjeCx8NJhn7JBTTiWT30) | [Dil Se \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz) | 6:56 |
-| 12 | [Choli Ke Peeche \(From "Khal Nayak"\)](https://open.spotify.com/track/70sjgqqoz3wQ6haG7PmDck) | [Alka Yagnik & Arvind Hasabnish](https://open.spotify.com/artist/5TTV6plK4r2BDMUyyl7cC9), [Laxmikant–Pyarelal](https://open.spotify.com/artist/3yS84AjNFqhmuJlIXy7sax), [Ila Arun](https://open.spotify.com/artist/5zWKMBKw7KqulFxyz2ULvp) | [Khalnayak \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ZZlnsfX7EgcNjNvl1XLnT) | 8:36 |
+| 12 | [Choli Ke Peeche \(From "Khal Nayak"\)](https://open.spotify.com/track/70sjgqqoz3wQ6haG7PmDck) | [Alka Yagnik & Arvind Hasabnish](https://open.spotify.com/artist/5TTV6plK4r2BDMUyyl7cC9), [Laxmikant–Pyarelal](https://open.spotify.com/artist/3yS84AjNFqhmuJlIXy7sax), [Ila Arun](https://open.spotify.com/artist/5zWKMBKw7KqulFxyz2ULvp) | [Khalnayak \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ZZlnsfX7EgcNjNvl1XLnT) | 0:29 |
 | 13 | [Akhiyaan Milaoon Kabhi](https://open.spotify.com/track/735WeIIQYRfmtEdMmOgDY1) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Raja \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Dj8WYLlv47T0W03zDdFJI) | 6:15 |
 | 14 | [Husn Hai Suhana](https://open.spotify.com/track/2JyPZNIsrL1xIoLZaqcqr1) | [Chandana Dixit](https://open.spotify.com/artist/49ZlTVpGT3NxLkTRpPcYO2), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Coolie No.1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3TyqFXIE6Yg7HmvzNlG3tj) | 5:58 |
 | 15 | [Tip Tip Barsa Paani](https://open.spotify.com/track/0VPVC9SAd50YMPhHfCz7F6) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Mohra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2PqGBYRvfSWEh3eoHPNEnA) | 6:03 |

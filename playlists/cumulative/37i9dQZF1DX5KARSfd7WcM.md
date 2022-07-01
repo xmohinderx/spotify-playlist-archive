@@ -4,7 +4,7 @@
 
 > The official playlist for Heartstopper\. Watch now on Netflix!
 
-36 songs - 2 hr 5 min - [published](https://open.spotify.com/playlist/0G1uVTUNlFPG93qLUAtTWg)
+36 songs - 1 hr 59 min - [published](https://open.spotify.com/playlist/0G1uVTUNlFPG93qLUAtTWg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Bang Bang Bang](https://open.spotify.com/track/62Tbkc4dhrraGN9tWrlssr) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Bang Bang Bang](https://open.spotify.com/album/7CgGvRhJBdcQDrCqAXLlyJ) | 2:22 | 2022-05-02 |  |
 | [Because I Love You](https://open.spotify.com/track/6PLazKHpb8YMtGh1J2C5qe) | [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b) | [Glorious Heights](https://open.spotify.com/album/6CRLOlHtioVtK0Q3oIBJpI) | 3:37 | 2022-05-02 |  |
 | [Buzzkill](https://open.spotify.com/track/05rA1xpVFmKf8Tn6gKwn9e) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Medicine](https://open.spotify.com/album/1T8VdjuxLqYJVJQ1WNFVqK) | 3:24 | 2022-05-02 |  |
-| [Clearest Blue](https://open.spotify.com/track/0eozuFNutbnEbWKOvf4W86) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Every Open Eye \(Special Edition\)](https://open.spotify.com/album/6pcfjrxlkf7fk9irlvJUzG) | 3:53 | 2022-05-02 |  |
+| [Clearest Blue](https://open.spotify.com/track/0eozuFNutbnEbWKOvf4W86) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Every Open Eye \(Special Edition\)](https://open.spotify.com/album/6pcfjrxlkf7fk9irlvJUzG) | 0:29 | 2022-05-02 |  |
 | [Close To You](https://open.spotify.com/track/0brBOx8ejPXvBYnQkWquYK) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle) | 3:14 | 2022-05-02 |  |
 | [Colours Of You](https://open.spotify.com/track/7hjPM7rlZo3netjXWOZqcT) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Colours Of You](https://open.spotify.com/album/6VJe4cAIDoLXMbntuNpbO3) | 4:15 | 2022-05-02 |  |
 | [Dance with Me](https://open.spotify.com/track/2sBKLT7bFa38yVAYxYltUX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:54 | 2022-05-02 |  |
@@ -33,7 +33,7 @@
 | [LUCID](https://open.spotify.com/track/7BoVAJ0HuKcBBRmUGlzX6o) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA \(Deluxe Edition\)](https://open.spotify.com/album/0pWu9s2gPdVgqHpMR2LDEx) | 3:38 | 2022-05-02 |  |
 | [Moment In The Sun](https://open.spotify.com/track/3srgB1L9XfePDOIY4DrN2K) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Moment In The Sun](https://open.spotify.com/album/0gLTyqbV19rhb8pNZQ0Msx) | 3:09 | 2022-05-02 |  |
 | [My Own Person](https://open.spotify.com/track/0o0BtyLhvu05czmflES2tH) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [My Own Person](https://open.spotify.com/album/04D3qjBVzStR7FNHXFK373) | 4:24 | 2022-05-02 |  |
-| [nothing else i could do](https://open.spotify.com/track/08ZFO4ONTelCXs1Q5YRMcW) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [nothing else i could do](https://open.spotify.com/album/3JoL1vexsTdwS4JleasqfT) | 2:50 | 2022-05-02 |  |
+| [nothing else i could do](https://open.spotify.com/track/08ZFO4ONTelCXs1Q5YRMcW) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [nothing else i could do](https://open.spotify.com/album/3JoL1vexsTdwS4JleasqfT) | 0:29 | 2022-05-02 |  |
 | [Our Window](https://open.spotify.com/track/0xz7CaiJF9LVhoWeBfCovF) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [The First Days Of Spring](https://open.spotify.com/album/7wSY8MNBuFKLIRhEXBwl9s) | 5:48 | 2022-05-02 |  |
 | [Paper Mache World](https://open.spotify.com/track/3Maqlu2aPlU8NluW19O8JD) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Because I Wanted You to Know](https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8) | 2:59 | 2022-05-02 |  |
 | [Sappho](https://open.spotify.com/track/5DIGt883aHs3KqWSziy4gR) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Next Thing](https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1) | 1:52 | 2022-05-02 |  |

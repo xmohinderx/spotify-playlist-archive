@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 
 > Éxitos del momento y lo último de artistas nuevos y consagrados\. En portada: Babasónicos
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,342 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,367 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 | 16 | [Melodías Nublados](https://open.spotify.com/track/5ASuoktRXvWLWOjS9YHs6b) | [Build a Vista](https://open.spotify.com/artist/5Rd2pJnoEa82vN30QvIqvX) | [Melodías Nublados](https://open.spotify.com/album/5P10qJonXLknLPrtXbK5qB) | 3:02 |
 | 17 | [Laberinto de Sueños \(En las Geometrías del Rayo\)](https://open.spotify.com/track/0gYWN8f20QtE3DVLxygltZ) | [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Laberinto de Sueños \(En las Geometrías del Rayo\)](https://open.spotify.com/album/2U7XoLAgkVKnxrmHrhbKA7) | 3:51 |
 | 18 | [Soy Basura](https://open.spotify.com/track/5mwejIKy819KOkrl7RmNXD) | [Pájaros Vampiro](https://open.spotify.com/artist/1mDd7cul31CzwMxrjL6wXd) | [Soy Basura](https://open.spotify.com/album/3ESj5vJEa3xuiT8Bc0rQhu) | 1:48 |
-| 19 | [Contradicción](https://open.spotify.com/track/6IMOlshlqaBsYulRzzMMXc) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb), [Cachin Invernizzi](https://open.spotify.com/artist/0WTGRQKJ0bNZ9cedlfE3hw) | [Contradicción](https://open.spotify.com/album/4qc0pC1BmPkTNdEs0N9tbj) | 4:29 |
+| 19 | [Contradicción](https://open.spotify.com/track/6IMOlshlqaBsYulRzzMMXc) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb), [Cachin Invernizzi](https://open.spotify.com/artist/0WTGRQKJ0bNZ9cedlfE3hw) | [Contradicción](https://open.spotify.com/album/4qc0pC1BmPkTNdEs0N9tbj) | 0:29 |
 | 20 | [La Pastilla](https://open.spotify.com/track/59NjaceY3XuGAQScvB71ze) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL), [Arquero](https://open.spotify.com/artist/7j3rplwFIjrg9Wm1yrHLx6) | [La Pastilla](https://open.spotify.com/album/0BEDzrscnDn5EhLvwsDURi) | 3:06 |
 | 21 | [La Ciudad Sin Alma](https://open.spotify.com/track/3sDI2suYX1N8IuszYbRmuZ) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [La Ciudad Sin Alma](https://open.spotify.com/album/5fKFrKFHXp0ZDaGSZ2YgQx) | 3:51 |
 | 22 | [Manifiesto Surrealista](https://open.spotify.com/track/3TAmPsGYSC8gugzBGguj63) | [Los Pao Paos](https://open.spotify.com/artist/45dDFxioswmm3vNx03oADJ) | [Los Pao Paos](https://open.spotify.com/album/2QDHd8s8nzlEfjZwfqZLZR) | 4:00 |
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 | 35 | [Fractal](https://open.spotify.com/track/6iXXwXnXktrdJrGbiBdBvp) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Fractal](https://open.spotify.com/album/4vvUwAGBHBfLNhzhnhDJO2) | 4:25 |
 | 36 | [Pájaro](https://open.spotify.com/track/3jI8sCfywHX0aRD94DvMxC) | [Las Yumbeñas](https://open.spotify.com/artist/2S1RZNDZE0W1pt57ytr1dh) | [Amigas para Siempre](https://open.spotify.com/album/3ansWQKY34sBpyhSlkXJOU) | 3:08 |
 | 37 | [No Sé Ni Quién Soy](https://open.spotify.com/track/7b4izBrbYuhStZ92VQMiqr) | [Build a Vista](https://open.spotify.com/artist/5Rd2pJnoEa82vN30QvIqvX) | [No Sé Ni Quién Soy](https://open.spotify.com/album/755lUS2bzIxCYRt1KRGK06) | 3:04 |
-| 38 | [Soldado de Neón](https://open.spotify.com/track/326TyMiZ44Z4ivGKtbYFBO) | [KURZ](https://open.spotify.com/artist/6702vlPBoiA7zeDvv6wPkW) | [Brillando Azul](https://open.spotify.com/album/5JSehM5iItG5yLBN6Vh7xV) | 3:33 |
+| 38 | [Soldado de Neón](https://open.spotify.com/track/326TyMiZ44Z4ivGKtbYFBO) | [KURZ](https://open.spotify.com/artist/6702vlPBoiA7zeDvv6wPkW) | [Brillando Azul](https://open.spotify.com/album/5JSehM5iItG5yLBN6Vh7xV) | 0:29 |
 | 39 | [Lilith](https://open.spotify.com/track/2Vnl0gMfZ9pct8LvLDm0KJ) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Lilith](https://open.spotify.com/album/1g3IB4r5OnU3guMehCPAie) | 2:48 |
 | 40 | [Pensamientos](https://open.spotify.com/track/1daUWaMsFC5RM4HKydKJoG) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Pensamientos](https://open.spotify.com/album/2RYIfoNF29kFoR60jOpaHf) | 3:53 |
 | 41 | [Niebla](https://open.spotify.com/track/7MiOcp9iVg1u1ea8fR8C2A) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Niebla](https://open.spotify.com/album/6sVeGIf4gy3nzUJfg0iQsJ) | 2:43 |
-| 42 | [Dentro](https://open.spotify.com/track/4597p3R2HZ24bvpussazH9) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Dentro](https://open.spotify.com/album/79e018qEM9iN76IwjDbHTy) | 2:25 |
+| 42 | [Dentro](https://open.spotify.com/track/4597p3R2HZ24bvpussazH9) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Dentro](https://open.spotify.com/album/79e018qEM9iN76IwjDbHTy) | 0:29 |
 | 43 | [Perfecto Error](https://open.spotify.com/track/5diqHYqIz4JfsbDztdeuJI) | [Tequendama](https://open.spotify.com/artist/5jtmZEtfuDg8on48lsLxmU) | [Perfecto Error](https://open.spotify.com/album/0PM4dmS8vkPgSQbIN2WJrT) | 3:55 |
 | 44 | [Corazón](https://open.spotify.com/track/5ubEpPWx9IDf75pmbOfHP8) | [Cuatro Pesos de Propina](https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND), [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [LAZÚLI](https://open.spotify.com/artist/5IilR9x7kwVvC9MkAnprVP) | [Respirar una Vez Mas](https://open.spotify.com/album/32qXAp0uwu8UOysuzdqlmD) | 4:34 |
 | 45 | [Tengo Que Llegar A Tiempo](https://open.spotify.com/track/2PFxrPAOyaIrL36fa8hEBD) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 2:48 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 | 67 | [La Máquina Moral](https://open.spotify.com/track/2oDTh1xYpGt5z1YRmEHbpi) | [La Sociedad de La Sombrilla](https://open.spotify.com/artist/76ZpJJKxWFJyKOJzQXVWbk) | [La Máquina Moral](https://open.spotify.com/album/0n5PgpMdqoeZNVFvWwyKbx) | 4:38 |
 | 68 | [The Others](https://open.spotify.com/track/5gHSGSPtHTjuv4FRfrIWoQ) | [Red Sun Cult](https://open.spotify.com/artist/1rh41sScm5dg9xsmg4zGeX) | [El Culto al Sol Rojo](https://open.spotify.com/album/2frLlJzo8UctIvImomYM63) | 4:00 |
 | 69 | [Hoy](https://open.spotify.com/track/7MMPHXwa2wVGlUCKfSnC4t) | [Cielito Drive](https://open.spotify.com/artist/1QplpI4W7QuaxzxEpjKayY) | [Hoy](https://open.spotify.com/album/5SdzuAGnAPzSOCJPStzDIY) | 4:36 |
-| 70 | [Las Horas Perdidas](https://open.spotify.com/track/4eEUVSwru8TQ3AidGqe99c) | [Willi Piancioli](https://open.spotify.com/artist/50JL2GBMP1oqMj8WiqMt0D) | [\#Innatural](https://open.spotify.com/album/6da4ohtqwwrXBmdiyzI4Mf) | 4:56 |
+| 70 | [Las Horas Perdidas](https://open.spotify.com/track/4eEUVSwru8TQ3AidGqe99c) | [Willi Piancioli](https://open.spotify.com/artist/50JL2GBMP1oqMj8WiqMt0D) | [\#Innatural](https://open.spotify.com/album/6da4ohtqwwrXBmdiyzI4Mf) | 0:29 |
 | 71 | [Nómada](https://open.spotify.com/track/2J4drmgsDr6u7EP3DvyN9A) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Nómada](https://open.spotify.com/album/4tUaCFfhnftL5Eg6li46K6) | 4:47 |
 | 72 | [El Trato](https://open.spotify.com/track/10y0q9ys5yOQA4jGU7daz3) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [El Trato](https://open.spotify.com/album/0yKM9i0sVThtzArvNrrvuN) | 3:31 |
 | 73 | [Pop para el Fin del Mundo](https://open.spotify.com/track/06tJ4LbmloGojZcUXiL7il) | [TAPPAN](https://open.spotify.com/artist/23DnlRuTAuHrgdtWH8PU4x) | [Pop para el Fin del Mundo](https://open.spotify.com/album/64XG3pFyj5Z6YLjHsGriYI) | 4:54 |

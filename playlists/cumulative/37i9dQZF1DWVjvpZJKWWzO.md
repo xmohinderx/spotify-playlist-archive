@@ -4,7 +4,7 @@
 
 > Los grandes éxitos de Celia Cruz Y Tito Puente en un mismo lugar\. Listen to both icons here!
 
-50 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/42vZA0UNgFC5oXYwNCKqsh)
+50 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/42vZA0UNgFC5oXYwNCKqsh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Wouldn’t It Be Lovely](https://open.spotify.com/track/5ho1Lrgs60ayRjCOdZaeXa) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [My Fair Lady Goes Latin](https://open.spotify.com/album/66BEuXKJcaOagDDeFxWTH6) | 3:04 | 2021-12-14 |  |
 | [Yeah!](https://open.spotify.com/track/24cOWyNs4aTr4Ol1dtXhh8) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Tito's Idea](https://open.spotify.com/album/1kHWWswdYnqytKxTQS6rxE) | 7:26 | 2021-12-14 |  |
 | [Yerbero Moderno](https://open.spotify.com/track/2ww6Z7Lnd8WuOg3Lk5idIJ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia Cruz \- Greatest Hits](https://open.spotify.com/album/634V0km4mTClHkrGiEKw9B) | 4:34 | 2021-12-14 |  |
-| [Yo No Quiero Piedras En Mi Camino](https://open.spotify.com/track/4CcFy8b5WSld7ZvGpxLfb9) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Tributo A Ismael Rivera](https://open.spotify.com/album/3KPWwNdx8vwBe3AFAQixcc) | 4:58 | 2021-12-14 |  |
+| [Yo No Quiero Piedras En Mi Camino](https://open.spotify.com/track/4CcFy8b5WSld7ZvGpxLfb9) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Tributo A Ismael Rivera](https://open.spotify.com/album/3KPWwNdx8vwBe3AFAQixcc) | 0:29 | 2021-12-14 |  |
 | [Yo Viviré \- I Will Survive](https://open.spotify.com/track/1Vtlzi6oMaFYEp7b4mPSqn) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Soy Mujer](https://open.spotify.com/album/0bxrZ24WsckwlT7D2nsRbz) | 4:31 | 2021-12-14 |  |
 
 \*This playlist was first scraped on 2022-03-22. Prior content cannot be recovered.

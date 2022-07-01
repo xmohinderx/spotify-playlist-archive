@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgq0lsW8B2O.md) - [plain]
 
 > Music from the early days of Ambient.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,814 likes - 47 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,862 likes - 47 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgq0lsW8B2O.md) - [plain]
 | 12 | [Old Land](https://open.spotify.com/track/7crAkwlQExlgVnomwIlYrd) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Moebius](https://open.spotify.com/artist/0ctLTKGS1coZsfRHZw48tC), [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [After the Heat](https://open.spotify.com/album/0KsjHH3K0VIMuNOuvRWMBR) | 4:13 |
 | 13 | [Deep Distance](https://open.spotify.com/track/2cRQA17KKBy0pklGxGZ699) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [New Age Of Earth](https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1) | 5:49 |
 | 14 | [Schöne Hände](https://open.spotify.com/track/1WbwlYiiMZGQlrFGirRnHv) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 3:05 |
-| 15 | [Ahoi](https://open.spotify.com/track/13CJ6xGmEhTyMkFBQVGimJ) | [Harmonia](https://open.spotify.com/artist/0tHDVpPzMs1JqKTAuGQkQR) | [Musik Von Harmonia](https://open.spotify.com/album/4rfEDCRHa4TR9EtjHJpWge) | 5:13 |
+| 15 | [Ahoi](https://open.spotify.com/track/13CJ6xGmEhTyMkFBQVGimJ) | [Harmonia](https://open.spotify.com/artist/0tHDVpPzMs1JqKTAuGQkQR) | [Musik Von Harmonia](https://open.spotify.com/album/4rfEDCRHa4TR9EtjHJpWge) | 0:29 |
 | 16 | [The Yellow Sound](https://open.spotify.com/track/5cHT8gs2bJdPP7QCe0FY0Z) | [Peter Michael Hamel](https://open.spotify.com/artist/4fzLlOozmMPyVBg5o2Sd1j), [Ulrich Kraus](https://open.spotify.com/artist/74mf19TUkc33tHTSL867ip) | [Hamel: Let It Play \- Selected Pieces 1979\-1983](https://open.spotify.com/album/4G8ThDaZc0Z06kivJO97Dd) | 5:26 |
 | 17 | [Ode to an African Violet](https://open.spotify.com/track/3Zrlem2yff4LUlcIz6TWvl) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [Mother Earth's Plantasia](https://open.spotify.com/album/4Pj4zPHuEUPtfacdeTlqUG) | 4:02 |
 | 18 | [2/2 \- Remastered 2004](https://open.spotify.com/track/3QpN3dazIcMNqru0L1qLMt) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 9:38 |
-| 19 | [In Ewigkeit](https://open.spotify.com/track/6OI7uCuLdKk8QNzjVr26XA) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Sowiesoso](https://open.spotify.com/album/4QAH6e1Mi25uNXvvJTCneV) | 7:24 |
+| 19 | [In Ewigkeit](https://open.spotify.com/track/6OI7uCuLdKk8QNzjVr26XA) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Sowiesoso](https://open.spotify.com/album/4QAH6e1Mi25uNXvvJTCneV) | 0:29 |
 | 20 | [Music for Gymnastics](https://open.spotify.com/track/4hTCTBxBoTTbO6Ao3fKQxk) | [Jordan De La Sierra](https://open.spotify.com/artist/0C31G6WRrM2kEf5q8Yn2Pf) | [Gymnosphere: Song of the Rose](https://open.spotify.com/album/20sKBptJV69qrBXUEQVlzp) | 24:17 |
 | 21 | [Weeping Wall \- 2017 Remaster](https://open.spotify.com/track/56jhj8hHTw3PEoFV74wn5j) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Low \(2017 Remaster\)](https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na) | 3:29 |
 | 22 | [Lueena Coast](https://open.spotify.com/track/6JR1XlStv1gnRLT7sNek4q) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Inter\-Dimensional Music](https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr) | 4:12 |

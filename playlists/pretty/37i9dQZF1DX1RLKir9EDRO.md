@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: Beliz Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,229 likes - 90 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,214 likes - 90 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 11 | [Yara Aldım](https://open.spotify.com/track/4P8CK6rQv1N52WNSkjgR8q) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Yara Aldım](https://open.spotify.com/album/0a3pkorOZiwvdxxcSl96ja) | 3:03 |
 | 12 | [Dans Edelim](https://open.spotify.com/track/1fwHzdxgmPFO9KTsCLB4IG) | [Buğra Pakbeşe](https://open.spotify.com/artist/3k86ZKtGHT82j6dbTAOnuU) | [Dans Edelim](https://open.spotify.com/album/7qcTVMsyqMnNusdQXf1pRP) | 3:35 |
 | 13 | [mavera](https://open.spotify.com/track/2OWy7ZHPxa3Rk1KP0vtsvN) | [Anıl Ulusoy](https://open.spotify.com/artist/4GiOCNBFYdYJ0e7trjiOaO), [Ibrahim Babayev](https://open.spotify.com/artist/3iBtFNr5qLRTtRtABm844Z) | [mavera](https://open.spotify.com/album/0qnmTvrrIvCy3Hkh7R1iRV) | 4:15 |
-| 14 | [Hayatın İzleri](https://open.spotify.com/track/2wJo7CG03q1sqZGDzBUJw1) | [Asli Ozer](https://open.spotify.com/artist/7GPHCN0PZGJPqU0s2BIoJY) | [Hayatın İzleri](https://open.spotify.com/album/0ohxeJWBkcWP45feTYEgw6) | 3:57 |
+| 14 | [Hayatın İzleri](https://open.spotify.com/track/2wJo7CG03q1sqZGDzBUJw1) | [Asli Ozer](https://open.spotify.com/artist/7GPHCN0PZGJPqU0s2BIoJY) | [Hayatın İzleri](https://open.spotify.com/album/0ohxeJWBkcWP45feTYEgw6) | 0:29 |
 | 15 | [Sana Çıkar Her Yol](https://open.spotify.com/track/23WGxgIxdJppOc67XBXeln) | [Doğan Cem](https://open.spotify.com/artist/0jhlEav8z1aMytlAkk8N9x) | [Sana Çıkar Her Yol](https://open.spotify.com/album/5ur9qbQKNbgBkNKwSVYXrn) | 2:40 |
 | 16 | [Ahım](https://open.spotify.com/track/7sbchYS3F9kYc0VFs1Mp7a) | [Safiye](https://open.spotify.com/artist/3J5L8phe7TP0vhoiXdJizP) | [Ahım](https://open.spotify.com/album/6HLWMrjtcREOt2BJ5jDfv3) | 4:04 |
 | 17 | [Çok Zaman Önceydi](https://open.spotify.com/track/5P2MccmHPGBZIcs0jys9P9) | [Gökhan Başaran](https://open.spotify.com/artist/0ay2HnDOw74rAskxiGWb4I) | [Çok Zaman Önceydi](https://open.spotify.com/album/6lKG1XeYEig6KEchq3qxOo) | 2:54 |
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 36 | [Savrulsun](https://open.spotify.com/track/149KVkUw9tnXpuHemgpv4E) | [Gizem Kosif](https://open.spotify.com/artist/3Foixw44zgTLNs1ASHCR5I) | [Savrulsun](https://open.spotify.com/album/34JWzCpYV45Y6psASFd0zm) | 2:51 |
 | 37 | [Güleç](https://open.spotify.com/track/1mrXpXH3BzivsenQD1h0y5) | [Paspal](https://open.spotify.com/artist/0Z8MMftUEVYye050hrlLhm) | [Güleç](https://open.spotify.com/album/56EIAg9vEnDCdgNFRiFgbi) | 3:37 |
 | 38 | [Let Me Love You](https://open.spotify.com/track/0hijuX622NPLDcm56zk1DU) | [TOBY](https://open.spotify.com/artist/5WSv8rAQ3Xb3M3wUBBc51Y) | [Let Me Love You](https://open.spotify.com/album/3S0s9TPurbkixvS12hBDvp) | 2:49 |
-| 39 | [Yalnızlık](https://open.spotify.com/track/4aFF2TG1OROHmckokhzqti) | [Buğrahan Çayır](https://open.spotify.com/artist/0blTamgBnByiuZ1BesveMV) | [Yalnızlık](https://open.spotify.com/album/4KDxZil2SOvRUDyqWEKlr2) | 3:19 |
+| 39 | [Yalnızlık](https://open.spotify.com/track/4aFF2TG1OROHmckokhzqti) | [Buğrahan Çayır](https://open.spotify.com/artist/0blTamgBnByiuZ1BesveMV) | [Yalnızlık](https://open.spotify.com/album/4KDxZil2SOvRUDyqWEKlr2) | 0:29 |
 | 40 | [Karşılıksız Bir Aşk İçin](https://open.spotify.com/track/0KAxqemJfQcnjtUGj87EIw) | [Murat Güçlü](https://open.spotify.com/artist/5QsmVJGtN2PL7eRR6XlxHP) | [Karşılıksız Bir Aşk İçin](https://open.spotify.com/album/0MTCaINA1wbiDPwMltfUqa) | 4:18 |
 | 41 | [Duyamıyorum](https://open.spotify.com/track/4CyoAIoPjVHOK8SuVevq2I) | [Grena](https://open.spotify.com/artist/0ew1wBEesa0J1AF4G0akH6) | [Duyamıyorum](https://open.spotify.com/album/5pQQB7NwbaJ6wNMwjxeL3Y) | 2:30 |
-| 42 | [Olmadan Olmaz](https://open.spotify.com/track/7bWvB4OuvituGfGDunpEs9) | [Ruomo](https://open.spotify.com/artist/48aIV0XBd9HWn14B3bVLWU) | [Olmadan Olmaz](https://open.spotify.com/album/2p19nkUXXvO1dxVVoWPJhm) | 4:44 |
+| 42 | [Olmadan Olmaz](https://open.spotify.com/track/7bWvB4OuvituGfGDunpEs9) | [Ruomo](https://open.spotify.com/artist/48aIV0XBd9HWn14B3bVLWU) | [Olmadan Olmaz](https://open.spotify.com/album/2p19nkUXXvO1dxVVoWPJhm) | 0:29 |
 | 43 | [Balıklı Kız](https://open.spotify.com/track/5JzByAOLtfcZ0wVHHbmJDV) | [İrem Özen](https://open.spotify.com/artist/76G25ekDcncsRVCDunPdu1) | [Balıklı Kız](https://open.spotify.com/album/1ciaZyzsu0wIH5wU7fJqtF) | 4:47 |
 | 44 | [Kız Güzel \- Acoustic Version](https://open.spotify.com/track/173Baezc2qopQ9IA75fQb5) | [Poşetimde Bir Somon](https://open.spotify.com/artist/0xoItt17FzjFLC3SyNFibQ) | [Kız Güzel \(Acoustic Version\)](https://open.spotify.com/album/4b8yWfe8Pd4qtcTU3I4VhE) | 3:04 |
 | 45 | [Toz](https://open.spotify.com/track/5feIgTH0OekqYXWtIg8PL8) | [Firuze Gamze](https://open.spotify.com/artist/7rWYdQWrHWYjrQwYsgdsze) | [Toz](https://open.spotify.com/album/4RhVWqVkqZogeTXyRp0vq6) | 3:10 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 53 | [Son Kez](https://open.spotify.com/track/64fEB87YaLxvWoKoxJYz2y) | [Gökçe Güzel](https://open.spotify.com/artist/1bX70OU702mceTqyetwfOC) | [Son Kez](https://open.spotify.com/album/14HufSie9ikUDeaTaPyO6C) | 3:06 |
 | 54 | [Ne Neşesi Kaldı Ne Dengesi](https://open.spotify.com/track/6Lvb3wPQS591bAylxuxqnx) | [Görkem Karabudak](https://open.spotify.com/artist/1oAAtiC1OuS6dxE1DIkUUp) | [Ne Neşesi Kaldı Ne Dengesi](https://open.spotify.com/album/5BjgZBoRi5EHDUsoRQFL0h) | 3:51 |
 | 55 | [Anla N'olur](https://open.spotify.com/track/4KpjGfTqyHkLG4Yyhs6DGh) | [Bi'şey Yok](https://open.spotify.com/artist/6g2UNwde1DTTg6RgrjI8ZW) | [Anla N'olur](https://open.spotify.com/album/2ohHCoRMRow5kKruaNgfpt) | 4:33 |
-| 56 | [İpin Ucu](https://open.spotify.com/track/15Un6vbYgMtXhZGCd9Bblk) | [Koray Demirayak](https://open.spotify.com/artist/1elGvr0SerVyTboICQ4MoQ) | [İpin Ucu](https://open.spotify.com/album/2a28kVpzmhUwSllmzQJCOv) | 3:09 |
+| 56 | [İpin Ucu](https://open.spotify.com/track/15Un6vbYgMtXhZGCd9Bblk) | [Koray Demirayak](https://open.spotify.com/artist/1elGvr0SerVyTboICQ4MoQ) | [İpin Ucu](https://open.spotify.com/album/2a28kVpzmhUwSllmzQJCOv) | 0:29 |
 | 57 | [naus](https://open.spotify.com/track/3uUwMcKxPW3bITF5JqVvJk) | [tulipera](https://open.spotify.com/artist/2LHcUlWbqhWrfj67LuajiM) | [naus](https://open.spotify.com/album/5i4c9iyCsD2WerL5XmGgye) | 2:00 |
 | 58 | [Rüzgar](https://open.spotify.com/track/1SYMpOQoHGkPpU7c92honV) | [Lavta](https://open.spotify.com/artist/0j81DyR8CkOy6rGQzorqGa) | [Rüzgar](https://open.spotify.com/album/0b1a3Qmaph2uZmsHbIkKSD) | 2:49 |
 | 59 | [Değişmez ki Bu](https://open.spotify.com/track/1mlGo4jqJrJSp7cfnaWfeD) | [Boş Kemikler](https://open.spotify.com/artist/0u1eo6iWHJ0v2jJGBKxLlE) | [Değişmez ki Bu](https://open.spotify.com/album/00JBmWIxAgjBDrIshsAgrf) | 4:26 |

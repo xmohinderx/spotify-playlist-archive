@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 
 > Listen to women from Singapore and Malaysia at full volume\. Cover: Jean Seizure
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,476 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,477 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 | 29 | [Woman](https://open.spotify.com/track/0UwqLYzIqkYkqrPYFJ00fS) | [Daiyan Trisha](https://open.spotify.com/artist/7xegqEOtukVFMdHyWnYkta) | [Daiyan Trisha The Album](https://open.spotify.com/album/4OCWbpi7d7y6iRXisiZgz2) | 3:20 |
 | 30 | [Clearly The Best You](https://open.spotify.com/track/2UoYQTkzZ1eOG1D4g5u1W3) | [梁嘉靖](https://open.spotify.com/artist/29XpDtSJTMMKR4BVKijsYz) | [Clearly The Best You](https://open.spotify.com/album/1P0QobLayBaIgIy18QyKps) | 3:12 |
 | 31 | [Biar Sayang](https://open.spotify.com/track/7wZAAwOBxbl4dyd0MgH6V1) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg) | [Biar Sayang](https://open.spotify.com/album/7o77Nm2LiSh0DeT3xX5Cnu) | 4:08 |
-| 32 | [\#Supergirls \- Malay Version](https://open.spotify.com/track/401loIzqP3qQmZrl57zzuA) | [De Fam](https://open.spotify.com/artist/4m8URcWW3beNdxt4DnihgK) | [\#Supergirls \(Malay Version\)](https://open.spotify.com/album/1BEOfGmM9AQD8rk9GAcIZa) | 4:14 |
+| 32 | [\#Supergirls \- Malay Version](https://open.spotify.com/track/401loIzqP3qQmZrl57zzuA) | [De Fam](https://open.spotify.com/artist/4m8URcWW3beNdxt4DnihgK) | [\#Supergirls \(Malay Version\)](https://open.spotify.com/album/1BEOfGmM9AQD8rk9GAcIZa) | 0:29 |
 | 33 | [Manisnya Senyumanmu](https://open.spotify.com/track/7MhYMjkIWr3tgKUpqtYon5) | [Elite](https://open.spotify.com/artist/7Mn5ZYx012rbUZqpRe3UVd) | [Manisnya Senyumanmu](https://open.spotify.com/album/7FQfOpnBXUpJOKnv6n7m3o) | 3:44 |
 | 34 | [再見,少年 \(Farewell, My Lad\) \- 電影《再見,少年》同名主題曲](https://open.spotify.com/track/5KSOS6tZc3kl2BNdDdyRDR) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [再見,少年 \(Farewell, My Lad\)](https://open.spotify.com/album/17FoOLd2lSTX3XtSYFaG3p) | 4:35 |
 | 35 | [You're Kinda Perfect](https://open.spotify.com/track/246Gn2iagw96Ii9gKU1EKN) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [The Fluke](https://open.spotify.com/album/0MgeachBtgPXXt00RWv5Yd) | 2:26 |

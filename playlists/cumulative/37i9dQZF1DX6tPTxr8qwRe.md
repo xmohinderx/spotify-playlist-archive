@@ -4,7 +4,7 @@
 
 > Extra vicious, hard\-hitting pop\.  This is SALT\.  Cover: Leah Kate
 
-191 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/6uOoVSA8DjAX2qeF3BOP8u)
+191 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/6uOoVSA8DjAX2qeF3BOP8u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [FCKN IN LOVE](https://open.spotify.com/track/2UN1L1asI3uKQCijznnz8Z) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ) | [FCKN IN LOVE](https://open.spotify.com/album/6E9vd6KQ1xdRmiwx7YmGO9) | 3:14 | 2022-02-25 | 2022-04-23 |
 | [flip a switch](https://open.spotify.com/track/3Xnsm7gx3KBmYoWFdNMof6) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [flip a switch](https://open.spotify.com/album/2QueRNxcrP62Nkg3YfZGrJ) | 2:32 | 2021-11-19 | 2022-03-18 |
 | [Found You On The Internet](https://open.spotify.com/track/5BhoSA4HfIzX1E1alpU2z0) | [HAVEN](https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd) | [Found You On The Internet](https://open.spotify.com/album/3VUlO3W9Ncy8XM7YjsSVxP) | 2:28 | 2022-04-08 | 2022-06-25 |
-| [FU In My Head](https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [FU In My Head](https://open.spotify.com/album/02FPQ0z3Xm5PkzTulKcfKT) | 2:47 | 2022-02-04 |  |
+| [FU In My Head](https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [FU In My Head](https://open.spotify.com/album/02FPQ0z3Xm5PkzTulKcfKT) | 0:29 | 2022-02-04 |  |
 | [FUCK MY EXES](https://open.spotify.com/track/03xqIbvagvjf3K75qqL0fC) | [Jules Paymer](https://open.spotify.com/artist/5RsYo1rckHPH2ERWm3tGeS) | [FUCK MY EXES](https://open.spotify.com/album/0HkYxUI2kqixf8MgY8fUhi) | 2:50 | 2022-03-11 |  |
 | [Fuck Your Labels](https://open.spotify.com/track/6Y8TZ2mDCfVYE8O9VdGpaW) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Fuck Your Labels](https://open.spotify.com/album/1YNFjA7p3DvzILGOjW0mGW) | 2:57 | 2022-01-14 | 2022-03-18 |
 | [GAY 4 ME \(feat\. Lauren Sanderson\)](https://open.spotify.com/track/1ZpcR68PKaoz8DpQDRqFEE) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [GAY 4 ME \(feat\. Lauren Sanderson\)](https://open.spotify.com/album/2ZPgzxiWsWCmCaC9jzNumu) | 2:54 | 2022-02-25 | 2022-05-14 |
@@ -171,7 +171,7 @@
 | [the other side](https://open.spotify.com/track/28nGgL1ko5fj8M41SxPf94) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [the other side](https://open.spotify.com/album/42rzcyCeL2t08zVCEukAnr) | 3:03 | 2022-03-11 | 2022-05-20 |
 | [The Saint And The Sinner](https://open.spotify.com/track/0NglzykMdrtMzNzA6HuDyN) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [The Saint And The Sinner](https://open.spotify.com/album/1mYlxJmW2sSZdSuZFWeaKg) | 3:12 | 2022-01-14 | 2022-03-18 |
 | [Therapy](https://open.spotify.com/track/0wvj3kJpZIyu7eYfxeKn3g) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Therapy](https://open.spotify.com/album/5c0knxfQLKoNV5BwB7DKWH) | 2:18 | 2022-01-28 | 2022-04-23 |
-| [Thing of Beauty](https://open.spotify.com/track/5fDbX9qCPLjBNZkZVnu19E) | [Danger Twins](https://open.spotify.com/artist/1YuielWiKfNC5Mh2GizHSO) | [Thing of Beauty](https://open.spotify.com/album/4nz28faAHZndFb42UEwf5P) | 3:19 | 2022-03-04 |  |
+| [Thing of Beauty](https://open.spotify.com/track/5fDbX9qCPLjBNZkZVnu19E) | [Danger Twins](https://open.spotify.com/artist/1YuielWiKfNC5Mh2GizHSO) | [Thing of Beauty](https://open.spotify.com/album/4nz28faAHZndFb42UEwf5P) | 0:29 | 2022-03-04 |  |
 | [this is how i learn to say no](https://open.spotify.com/track/4yb8suVmTLxvSb8hT6EmT6) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [this is how i learn to say no](https://open.spotify.com/album/3iW6t3t4c18qRC8NjvHenG) | 2:22 | 2021-09-10 |  |
 | [Thriving](https://open.spotify.com/track/05iLS2VOLss6mnHYDV0Lfd) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lady Jesus](https://open.spotify.com/album/3INiPPjvwK4RGIV4Qed2Qu) | 2:15 | 2021-10-08 | 2022-02-19 |
 | [Throw Up When I See Your Face](https://open.spotify.com/track/0ekxDJsWszWXZq2R3BXzUB) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Throw Up When I See Your Face](https://open.spotify.com/album/00Q3J1ya3dDlApLcaaczR1) | 2:44 | 2022-04-29 |  |

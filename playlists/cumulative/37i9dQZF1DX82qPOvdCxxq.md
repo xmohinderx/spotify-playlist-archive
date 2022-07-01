@@ -4,7 +4,7 @@
 
 > Go deep in discovery for great new songs of faith and inspiration\. Cover: Becca Bradley
 
-50 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/5f5nzHVSRoG5ROI8VWQOvj)
+50 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/5f5nzHVSRoG5ROI8VWQOvj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [God is Good](https://open.spotify.com/track/5RpjuJlOl5geMH4FFDzKCY) | [Kathleen Carnali](https://open.spotify.com/artist/16uWurkegZQxAeKSQ0IHKr) | [God Is Good \(Single\)](https://open.spotify.com/album/1JySNWP57ehfW5HfutPwsf) | 3:56 | 2021-02-12 |  |
 | [God of My Soul](https://open.spotify.com/track/6ptsmS7Cq639PRd4VvDCST) | [Psalm](https://open.spotify.com/artist/0ieSrH9PNNvCvSz3x5Fsew), [Bryann Trejo](https://open.spotify.com/artist/2TGwlNX2Mb4ANNVIYF2BXk) | [Deathproof](https://open.spotify.com/album/2yoPuSRR30qrDbtGV5oCpY) | 4:13 | 2021-02-12 |  |
 | [Grave Digger](https://open.spotify.com/track/6jwc4eHtQo2jlHOYnG07ls) | [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Grave Digger](https://open.spotify.com/album/0MgJ8Ns32yLtgUXSteD4Ft) | 4:16 | 2021-02-12 |  |
-| [Great Is the Hope](https://open.spotify.com/track/7AsO6COcAbqjRxEcVZ7Arb) | [North Coast Church](https://open.spotify.com/artist/2O8REwWdtzkvKvBqjd1ijb) | [Great Is the Hope](https://open.spotify.com/album/4LQsFZlwX8gwlSRuCH1GUh) | 4:47 | 2021-02-12 |  |
+| [Great Is the Hope](https://open.spotify.com/track/7AsO6COcAbqjRxEcVZ7Arb) | [North Coast Church](https://open.spotify.com/artist/2O8REwWdtzkvKvBqjd1ijb) | [Great Is the Hope](https://open.spotify.com/album/4LQsFZlwX8gwlSRuCH1GUh) | 0:29 | 2021-02-12 |  |
 | [Heart](https://open.spotify.com/track/5DmjuTfP9NeOqV9USaid6v) | [Isaiah William](https://open.spotify.com/artist/6HR7LwzhMQSgmBbUcdGJFc) | [Heart](https://open.spotify.com/album/5uGox3vtKqSOnrSZFCpfoe) | 5:05 | 2021-02-12 |  |
 | [How Deep the Father's Love for Us](https://open.spotify.com/track/5X1ty3YswK6QwHYzg58pKO) | [Jeremy Moore](https://open.spotify.com/artist/6ENcD6rUAiliA2XXi0PY4d) | [How Deep the Father's Love for Us](https://open.spotify.com/album/3d4R9BzQa1qklEvw4elM0Z) | 3:11 | 2021-02-12 |  |
 | [I feel you](https://open.spotify.com/track/3VhgxVfFdhN9acDTwaxf5D) | [Trigo](https://open.spotify.com/artist/27C9nRPcL8knUGGww20rW1), [Black Dillinger](https://open.spotify.com/artist/6MPyzSI31XLs2GWVXD5sr7) | [I feel you](https://open.spotify.com/album/48sBFXGpXfS9di0zhB0tc8) | 3:33 | 2021-02-12 |  |

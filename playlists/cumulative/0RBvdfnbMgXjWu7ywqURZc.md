@@ -4,7 +4,7 @@
 
 > All the best hits from Shawn Mendes, Taylor Swift and more!
 
-66 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/2BZKeYtKAutBETvZNA1895)
+66 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/2BZKeYtKAutBETvZNA1895)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Afterlife](https://open.spotify.com/track/5WssbEU2WtMHm7NH37Nfz5) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 3:56 | 2020-03-30 |  |
 | [All I Want](https://open.spotify.com/track/1v6svH1Fyx9C1nIt1mA2DT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series \(Original Soundtrack\)](https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI) | 2:57 | 2020-03-30 |  |
 | [All Love](https://open.spotify.com/track/7iv32XEy2HlM7PqQO4lp5f) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [you ruined new york city for me](https://open.spotify.com/album/4aGGhfTv8mJ9JAiz8dsa0L) | 3:13 | 2020-03-30 |  |
-| [All My Friends](https://open.spotify.com/track/70pP6E6VvznsfrSsznnQnk) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear](https://open.spotify.com/album/7jGNAMzrW5HMXdxl9XyBMG) | 4:07 | 2020-03-30 |  |
+| [All My Friends](https://open.spotify.com/track/70pP6E6VvznsfrSsznnQnk) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear](https://open.spotify.com/album/7jGNAMzrW5HMXdxl9XyBMG) | 0:29 | 2020-03-30 |  |
 | [All You Need To Know \(feat\. Calle Lehmann\)](https://open.spotify.com/track/4TIkSdsNSfqpuq6ZYvCjAz) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Calle Lehmann](https://open.spotify.com/artist/2QeNM65b7IWvK4Ofcqz8cm) | [Gravity](https://open.spotify.com/album/2IAVHJdaRPFA6MQqXHoG75) | 3:58 | 2020-03-30 |  |
 | [Amarillo](https://open.spotify.com/track/6zEgnpM0qYmHLDnh8WPejL) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 2:37 | 2020-03-30 |  |
 | [Anyone](https://open.spotify.com/track/18ssFhD04lWo1RzpcohnrG) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Anyone](https://open.spotify.com/album/4yP39SWfHBKh8J0HV3tCo1) | 3:47 | 2020-03-30 |  |
@@ -53,10 +53,10 @@
 | [Ne reviens pas](https://open.spotify.com/track/4TnFANpjVwVKWzkxNzIyFH) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [Zone 59](https://open.spotify.com/album/7ilqGyawRNe3bXNfLYtrfo) | 3:08 | 2020-03-30 |  |
 | [Overnight](https://open.spotify.com/track/4L9l5x0WuzNtyEBeqzvgPE) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:20 | 2020-03-30 |  |
 | [parents](https://open.spotify.com/track/68rVGSTnCiFOET9k5Vd8Se) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [the underrated youth](https://open.spotify.com/album/0kGTcfwQC5nlsubgxUXdwP) | 2:51 | 2020-03-30 |  |
-| [Rise Up](https://open.spotify.com/track/6inzGTxyGsXVjpVKtFGrcE) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4) | [Rise Up](https://open.spotify.com/album/6UiZtVFcizmfrwAU3yLQH3) | 2:49 | 2020-03-30 |  |
+| [Rise Up](https://open.spotify.com/track/6inzGTxyGsXVjpVKtFGrcE) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4) | [Rise Up](https://open.spotify.com/album/6UiZtVFcizmfrwAU3yLQH3) | 0:29 | 2020-03-30 |  |
 | [sex](https://open.spotify.com/track/26ZX2JrAb8AFbr8FFfAsO7) | [EDEN](https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt) | [i think you think too much of me](https://open.spotify.com/album/7AVvQhnDEUidKyJsXmQ7ju) | 3:38 | 2020-03-30 |  |
 | [she's all yours](https://open.spotify.com/track/50p8v7PAXUBoD5MzoZdr9s) | [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [lost](https://open.spotify.com/album/0hc021mB0QDSF4uCTr3Ki7) | 2:41 | 2020-03-30 |  |
-| [shut up](https://open.spotify.com/track/65mPCrY32YMQlBnmWVrKNa) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [portraits](https://open.spotify.com/album/51EYIcwEHs2WpaiZrrjWtT) | 2:50 | 2020-03-30 |  |
+| [shut up](https://open.spotify.com/track/65mPCrY32YMQlBnmWVrKNa) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [portraits](https://open.spotify.com/album/51EYIcwEHs2WpaiZrrjWtT) | 0:29 | 2020-03-30 |  |
 | [skeletons](https://open.spotify.com/track/2BuJrxYKhYky20dQqTlobO) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [skeletons](https://open.spotify.com/album/14IZ6aHadzsKrNMnntwLb0) | 2:32 | 2020-03-30 |  |
 | [Skin And Bone](https://open.spotify.com/track/4q4pJ1s9hJYw6CnApmi327) | [Zuzu](https://open.spotify.com/artist/4GcpGBggb1BbFfG4jS2Wpm) | [Skin And Bone](https://open.spotify.com/album/5eCTCx6l0ic5jt68prp1PX) | 3:28 | 2020-03-30 |  |
 | [Solitary](https://open.spotify.com/track/7oiTOiLalvz8tpq6onO1wR) | [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [Solitary](https://open.spotify.com/album/5VZ3EwYlZXCmcvtrieSvKA) | 3:42 | 2020-03-30 |  |

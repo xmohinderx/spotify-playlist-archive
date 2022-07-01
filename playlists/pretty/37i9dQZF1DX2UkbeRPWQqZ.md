@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 
 > Sweet lullabies on guitar for little dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,771 likes - 93 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,809 likes - 93 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 | 8 | [Are You Sleeping/Frere Jacques](https://open.spotify.com/track/1YdSSgLpMWZcd19T1FoJVv) | [Tippy Tapp](https://open.spotify.com/artist/3mfGOb7OtunRN7s8MiRczA) | [Are You Sleeping/Frere Jacques](https://open.spotify.com/album/4VjJKT36JKTtQ6fLn1rX77) | 1:19 |
 | 9 | [Girls And Boys Come Out To Play](https://open.spotify.com/track/3TKouB59YNESVemXS5mUj8) | [My Little Guitar](https://open.spotify.com/artist/0N43eonuFdAXrUaAyFJAmQ) | [Rainbow Connection](https://open.spotify.com/album/3uelDCjTwNeEum7HfqKGPc) | 1:56 |
 | 10 | [Sleep You Little Videyoung](https://open.spotify.com/track/6AmhUIvNyevwaoy2D73OxJ) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Musica Di Bambino](https://open.spotify.com/album/6sTdjqRsLtroU8vM8CswYg) | 2:57 |
-| 11 | [Baby Mine](https://open.spotify.com/track/0QuySdLpzsu6KNfvd79WVL) | [Wholy Moly](https://open.spotify.com/artist/3XdE126uFbtnhVKolZQ65n) | [Baby Mine](https://open.spotify.com/album/7uigbvctsvCz0qaxWUWVIW) | 2:17 |
+| 11 | [Baby Mine](https://open.spotify.com/track/0QuySdLpzsu6KNfvd79WVL) | [Wholy Moly](https://open.spotify.com/artist/3XdE126uFbtnhVKolZQ65n) | [Baby Mine](https://open.spotify.com/album/7uigbvctsvCz0qaxWUWVIW) | 0:29 |
 | 12 | [Brahms Lullaby](https://open.spotify.com/track/6C5G5yWbUSPFiJvfuI1WaK) | [Jeffrey Keller](https://open.spotify.com/artist/3GtDYdKAnt1iA04jpZB0ze) | [Amazing Grace](https://open.spotify.com/album/70Yu1jjbIaVz7Bhp5LsYWD) | 1:52 |
 | 13 | [Quarantine](https://open.spotify.com/track/2bO6mmvs9RLVTghH0Dvqhm) | [Manuel Gonza](https://open.spotify.com/artist/0DvrI5NcxFYxzaySshEJxw) | [Quarantine](https://open.spotify.com/album/2DNVnWLKBxPnayjT8q2VYc) | 1:33 |
 | 14 | [Golden Slumbers](https://open.spotify.com/track/0clBn1cAI0fdRLrZYgt7NE) | [Nippy Naps](https://open.spotify.com/artist/0qN4BVnmOvXHzKLEVAfL3a) | [Golden Slumbers](https://open.spotify.com/album/5vYQUfJWTIbxYTxQ5Wezui) | 1:51 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 | 74 | [Moonlight](https://open.spotify.com/track/6HjGZns9Umkfllzifv5Cxx) | [Marius Hallman](https://open.spotify.com/artist/0UPmd3m1jLjkDWZVdIMsel) | [Moonlight](https://open.spotify.com/album/55KSFSpaZ22Bfdp9avt9zE) | 1:19 |
 | 75 | [Ave Nocturne](https://open.spotify.com/track/28JvPv8QUEE747BM5ujR5B) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Classical Baby Sleep Music](https://open.spotify.com/album/3c9bS2lz06ixypXB49deUz) | 2:49 |
 | 76 | [All the pretty little horses](https://open.spotify.com/track/5R4rpJsPvxXXZUcAJ12v3v) | [Me And My Guitar](https://open.spotify.com/artist/7pHJ2teaNlow2jrelq84HS) | [Night Time](https://open.spotify.com/album/7DMOWlZ7L7rIpPuVbf5JGZ) | 1:11 |
-| 77 | [On Top of Old Smokey \(Instrumental Version\)](https://open.spotify.com/track/0iPYaJS6hbMahRGl7VtueR) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Baby Lullabye Music \- Acoustic Songs for Children](https://open.spotify.com/album/0Udhpg3Zp3Y2jZkwb4M0lE) | 1:58 |
+| 77 | [On Top of Old Smokey \(Instrumental Version\)](https://open.spotify.com/track/0iPYaJS6hbMahRGl7VtueR) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Baby Lullabye Music \- Acoustic Songs for Children](https://open.spotify.com/album/0Udhpg3Zp3Y2jZkwb4M0lE) | 0:29 |
 | 78 | [Animal Fair \(Instrumental Version\)](https://open.spotify.com/track/4XcNzENijnf2MnpPMlDOiA) | [Stephen Sullivan](https://open.spotify.com/artist/6OOJlmWt7Wuusrlky0U2la) | [Naptime Music on Peaceful Guitar](https://open.spotify.com/album/6pIgxFtjvDA2OvfEZndBWb) | 3:08 |
 | 79 | [Stjernefall](https://open.spotify.com/track/72Brqr3kj4zbxnmA31fW78) | [William Riddervold](https://open.spotify.com/artist/6bXFZUyz2nx7UnywL13lR7) | [Stjernefall](https://open.spotify.com/album/6JCE5LPLTWhPfwJsq27RAM) | 1:28 |
 | 80 | [Måne och sol](https://open.spotify.com/track/581iZrDptObqVHR5Yo5nFp) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Sånger för själen vol 2](https://open.spotify.com/album/5DOYzeiyApvUj0739e7VWf) | 1:55 |

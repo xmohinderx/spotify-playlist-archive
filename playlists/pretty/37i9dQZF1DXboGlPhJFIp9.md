@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboGlPhJFIp9.md) - [plain]
 
 > The calming and pensive side of electric guitar\. Instrumental only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,795 likes - 81 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,811 likes - 81 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [let the reins go](https://open.spotify.com/track/6edZwX23WcUDbKx9VOxC1Z) | [flower water](https://open.spotify.com/artist/2q0V4ngQ2LJ3gVS5lVW5Ww) | [kind of wind](https://open.spotify.com/album/47Pzq0DT4akwlF9DowYtc6) | 3:15 |
-| 2 | [Taylor](https://open.spotify.com/track/5e9j1O0uzn49EYU5JswarF) | [Joe Castle](https://open.spotify.com/artist/5QPm2OdKelGlQ0OKgvT78z) | [Reflections](https://open.spotify.com/album/34DSq25KJCQJ7tlOhVfeLE) | 3:07 |
+| 2 | [Taylor](https://open.spotify.com/track/5e9j1O0uzn49EYU5JswarF) | [Joe Castle](https://open.spotify.com/artist/5QPm2OdKelGlQ0OKgvT78z) | [Reflections](https://open.spotify.com/album/34DSq25KJCQJ7tlOhVfeLE) | 0:29 |
 | 3 | [Wagonside](https://open.spotify.com/track/4Tb2hOoWV5c6Xe8CcI2sUP) | [Arpwatch](https://open.spotify.com/artist/4QWzCQdSl0I35LnBIN5Lmr) | [Rotations](https://open.spotify.com/album/1yyulWBUveBEnszGh0Zseu) | 3:18 |
 | 4 | [Hold My Hand](https://open.spotify.com/track/4yf9GHCVO6VyY6q9yl2LvI) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [It's Not in Vain](https://open.spotify.com/album/5vgSuONhdEqvHfp6C0ge8u) | 2:42 |
 | 5 | [cold start](https://open.spotify.com/track/1oRYeH614gcXBYZMjjvnOz) | [RRST](https://open.spotify.com/artist/3nPrEz2yxxCTnR2yPHiFo6) | [cold start](https://open.spotify.com/album/50bVrDOjalJh8BlPpsNHYZ) | 2:32 |

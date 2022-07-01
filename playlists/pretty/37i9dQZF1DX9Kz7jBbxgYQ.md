@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 
 > Home to the best of South Asian Indie scene\. Cover: Abdul Hannan
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,221 likes - 74 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,402 likes - 74 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 | 49 | [Tere Bina](https://open.spotify.com/track/7im7el3l35lOejnrYCjKVO) | [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo), [Vasu Raina](https://open.spotify.com/artist/5wwyvQQMsmzSUZo6FBoWJL) | [Tere Bina](https://open.spotify.com/album/0ghHOc0zCmHZn93zGlhuNs) | 2:32 |
 | 50 | [Valley of the Hills](https://open.spotify.com/track/4WTXH3F4P3vHmRbpZeTYn3) | [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo), [Trey Schafer](https://open.spotify.com/artist/091DrNc7RWkJYwVFI9aA8X) | [Valley of the Hills](https://open.spotify.com/album/1wY4EpeDljm1P4zJ2ls8s6) | 2:29 |
 | 51 | [Closer](https://open.spotify.com/track/392cXa8zAoEa0KjUid1FQZ) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Closer](https://open.spotify.com/album/25MOAn9V64TwKpBoB4VIF3) | 3:20 |
-| 52 | [Yaari](https://open.spotify.com/track/2a2k6Ny2nMhwEvCoa8nnnU) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Yaari](https://open.spotify.com/album/4l1LuBBpG0vEI6VqbPHcxG) | 2:55 |
+| 52 | [Yaari](https://open.spotify.com/track/2a2k6Ny2nMhwEvCoa8nnnU) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Yaari](https://open.spotify.com/album/4l1LuBBpG0vEI6VqbPHcxG) | 0:29 |
 | 53 | [Faaslay](https://open.spotify.com/track/34MruoNGQNNy5OZJ9czg0x) | [Miracle Mangal](https://open.spotify.com/artist/2V1XXUtkW6Xr9pUSqoggfI), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Wali Aleem](https://open.spotify.com/artist/4yAZWHrBK6G6d7gOzJJqlF) | [MM005](https://open.spotify.com/album/5k5Pm7PhTPmxOY6RfYMUxF) | 4:29 |
 | 54 | [Zindagi Ki Goud Mein](https://open.spotify.com/track/0wA7aUIOOynbdIyF6AIejn) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Zindagi Ki Goud Mein](https://open.spotify.com/album/6ZdIpnlVpCcv7ZOS5jC2Ci) | 3:36 |
 | 55 | [ur sweater](https://open.spotify.com/track/5Dm6An47nSw89nSu0KHdtg) | [Barney Sku](https://open.spotify.com/artist/77ziiu02mos4YrZ4mpWO0v), [friexza](https://open.spotify.com/artist/3DGKUbhwIE6KEIbpJhp5Cq) | [ur sweater](https://open.spotify.com/album/2Ai8C3NJ1DOKA0Fl9uUuRX) | 3:20 |

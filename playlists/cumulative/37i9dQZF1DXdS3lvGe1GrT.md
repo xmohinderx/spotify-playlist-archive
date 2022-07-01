@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Sam Johnston \| Visual Artist: Bailey Elder
 
-122 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/4p9gFX9hA25IbWFzEcHGmF)
+122 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/4p9gFX9hA25IbWFzEcHGmF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Ghost of Appalachia](https://open.spotify.com/track/6tz8ScfVSdf53Kj2swQlOL) | [Thomas LaVine](https://open.spotify.com/artist/2T7YLT9nMnXlnW0UjJBN70) | [Everwood](https://open.spotify.com/album/43KT3t8EpDaXco2cffZf7D) | 3:54 | 2022-05-25 | 2022-06-16 |
 | [Girl, Where You From?](https://open.spotify.com/track/5u8qS9iAzZnN2IX8a0FJla) | [Hannah Juanita](https://open.spotify.com/artist/4BhOvUyS23JWzGZC7j3GbE) | [Girl, Where You From?](https://open.spotify.com/album/6rxzQpqai89nss1eaRGkPY) | 3:05 | 2022-05-25 |  |
 | [Golden Days](https://open.spotify.com/track/4x5eSlJFBtydPHRe9v8d95) | [Cristóvam](https://open.spotify.com/artist/7p23ERQPaBJU2W0gguMNTi) | [Golden Days](https://open.spotify.com/album/3i4USi3EoleRAhV845SrUD) | 3:30 | 2022-05-25 | 2022-06-30 |
-| [Golden Spoon](https://open.spotify.com/track/5TtUQ2fh1JzntGcB3mA54l) | [Bats](https://open.spotify.com/artist/4iuECUfKK1Iulmgxt5MObO) | [Blue Cabinet](https://open.spotify.com/album/4qW90vfNhN8R9H1OUhFLfD) | 4:04 | 2022-05-25 |  |
+| [Golden Spoon](https://open.spotify.com/track/5TtUQ2fh1JzntGcB3mA54l) | [Bats](https://open.spotify.com/artist/4iuECUfKK1Iulmgxt5MObO) | [Blue Cabinet](https://open.spotify.com/album/4qW90vfNhN8R9H1OUhFLfD) | 0:29 | 2022-05-25 |  |
 | [Good News](https://open.spotify.com/track/5Y7ugIjqNhXOrNdn1vwaqi) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Communion](https://open.spotify.com/album/2hOmwGT0EmeHFHJrGS2ACL) | 2:46 | 2022-05-25 | 2022-06-16 |
 | [Grace](https://open.spotify.com/track/7b4xy7sXBPAK9HjjvBDmuM) | [quiet thrill](https://open.spotify.com/artist/12RDiJVAG0NYcJPRVi6bRG), [Joel Ansett](https://open.spotify.com/artist/49IjdVEbQcukWy36sdRMzl), [Dan DeCristofaro](https://open.spotify.com/artist/7gJTGHDvybr4Gsf8xwwY11) | [Grace](https://open.spotify.com/album/7iiIyG1WxODTBVH6h9Utzp) | 2:53 | 2022-05-25 | 2022-06-16 |
 | [Hand Me Down Heart](https://open.spotify.com/track/1a8UNyXbcnw9AyRZOdRDVJ) | [Szlachetka](https://open.spotify.com/artist/5W1NyzTRgZn8sG1Wza45cL) | [Hand Me Down Heart](https://open.spotify.com/album/26Z4IiZEvJtd1n4gagQ8qu) | 3:07 | 2022-05-25 | 2022-06-16 |
@@ -83,7 +83,7 @@
 | [mama](https://open.spotify.com/track/3JT1HTp2jSF9EbFYoXya68) | [BODE](https://open.spotify.com/artist/6Y5yfIGFf8KBsa4amo2gvj) | [mama](https://open.spotify.com/album/4aYDVap5RkEGK38GTLNeWU) | 3:50 | 2022-05-25 |  |
 | [Many Moons](https://open.spotify.com/track/0odsUykrr3MbtIDdxxJBnn) | [Victor Mucho](https://open.spotify.com/artist/6uV2cOu6PbLzYNQyxPo9iu) | [Moonlight in Visby](https://open.spotify.com/album/0vonzQ2JLELebfzlmI18RX) | 4:45 | 2022-05-25 |  |
 | [Married to the Ground](https://open.spotify.com/track/24agh4Z8pYY8F8h0cpm3IM) | [Glitterfox](https://open.spotify.com/artist/7sTGtcslsxEgrgfLdmuwgJ) | [Night](https://open.spotify.com/album/1VpIs4nLopmtNMLLDllupH) | 3:41 | 2022-05-25 |  |
-| [Mary](https://open.spotify.com/track/5mPfliRSVA7EXhHuJLfFz9) | [Sydney Layne](https://open.spotify.com/artist/6gCW563dCbPKR1ma9HULIl) | [Mary](https://open.spotify.com/album/19GC6OUNJwtNE8yb7BkDPp) | 3:34 | 2022-05-25 |  |
+| [Mary](https://open.spotify.com/track/5mPfliRSVA7EXhHuJLfFz9) | [Sydney Layne](https://open.spotify.com/artist/6gCW563dCbPKR1ma9HULIl) | [Mary](https://open.spotify.com/album/19GC6OUNJwtNE8yb7BkDPp) | 0:29 | 2022-05-25 |  |
 | [Megachurch](https://open.spotify.com/track/5tXkuObswa1uxjKoQaZhHf) | [Razor Braids](https://open.spotify.com/artist/0MjyFpYWU1nBFKYoZ4UpvT) | [Megachurch](https://open.spotify.com/album/1LnMJUIle8lLZiHHBZpy8U) | 4:12 | 2022-06-15 |  |
 | [Moms Song](https://open.spotify.com/track/4t0qpQnjzOJLnbZMGw0nvy) | [Tess](https://open.spotify.com/artist/5ZwQXTCHmw958nA8imMb3a) | [Moms Song](https://open.spotify.com/album/2lY8ZK2ct0Dl9PDCp80EFE) | 2:59 | 2022-05-25 |  |
 | [Morningbird](https://open.spotify.com/track/54jsQ2oan9bmyaiDPVjbtv) | [Ten Minute Detour](https://open.spotify.com/artist/2xt2sGmcA036zAGPaHmk8n) | [Morningbird](https://open.spotify.com/album/6SYxAeeKJrcFb065q3q45b) | 4:10 | 2022-05-25 | 2022-06-30 |
@@ -102,7 +102,7 @@
 | [Rebound](https://open.spotify.com/track/7ij9YUpNZYy1DpfRj8IiIV) | [Tom Freund](https://open.spotify.com/artist/3YwhoOWrHJZrk5XzE3WXkT) | [Rebound](https://open.spotify.com/album/4FZ9HKVDjQhSSUqfpOMwzP) | 4:50 | 2022-05-25 |  |
 | [River Roll](https://open.spotify.com/track/3GARJBrfOaaFGBFlememA4) | [Cristina Vane](https://open.spotify.com/artist/7lfl96v1nJCpVeAmr6lgJD) | [River Roll](https://open.spotify.com/album/4xNOefK2HzMaSbgHe5ensU) | 3:46 | 2022-05-25 |  |
 | [River Run](https://open.spotify.com/track/1725wOjQopDGXUqD6n7Cu6) | [Julia Logan](https://open.spotify.com/artist/1HWgpUIHDxJCLCFueK17D0) | [River Run](https://open.spotify.com/album/5SIs2da6wmXQw4OFcPsTtp) | 4:25 | 2022-06-15 |  |
-| [Runaway Train \- GemsOnVHS Field Recording](https://open.spotify.com/track/4O1aKNl9yUxYCA91MoI1tQ) | [Josh Okeefe](https://open.spotify.com/artist/78zgfaEwcftA55VFMvTwAw), [GemsOnVHS](https://open.spotify.com/artist/7t78CwAbQIA6DKAKUKBYgl) | [Runaway Train \(GemsOnVHS Field Recording\)](https://open.spotify.com/album/2OSLlqhpnY4kMsgeiwVefV) | 3:01 | 2022-05-25 |  |
+| [Runaway Train \- GemsOnVHS Field Recording](https://open.spotify.com/track/4O1aKNl9yUxYCA91MoI1tQ) | [Josh Okeefe](https://open.spotify.com/artist/78zgfaEwcftA55VFMvTwAw), [GemsOnVHS](https://open.spotify.com/artist/7t78CwAbQIA6DKAKUKBYgl) | [Runaway Train \(GemsOnVHS Field Recording\)](https://open.spotify.com/album/2OSLlqhpnY4kMsgeiwVefV) | 0:29 | 2022-05-25 |  |
 | [Sage](https://open.spotify.com/track/5JI37pQfjXSXCk6GbFO8KQ) | [Annie Burnell](https://open.spotify.com/artist/5AkGCUXcX19cuzPypmd2uB) | [Sage](https://open.spotify.com/album/4aPGnCS8cVyRtLhli3Ua7I) | 3:56 | 2022-05-25 |  |
 | [See You in August](https://open.spotify.com/track/0KrOgO4uvmeSHf4gjf1gHN) | [Sound of Honey](https://open.spotify.com/artist/5L6uoIDsPWkcsYmvBU49FG) | [See You in August](https://open.spotify.com/album/0Y5LuAMsBzbj9eHMMPygrx) | 3:04 | 2022-05-25 |  |
 | [Shake Til the Fever is Gone](https://open.spotify.com/track/2O36Akvnf89fsvi5fzhOnQ) | [Bright Kelly](https://open.spotify.com/artist/0dim3eJGWaqTAtx4qgwj7U) | [Shake Til the Fever is Gone](https://open.spotify.com/album/1i53wNV08T2tEylh9jOcDV) | 3:04 | 2022-05-25 |  |

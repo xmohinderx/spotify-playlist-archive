@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe30kLtifvte.md) - [plain]
 
 > <a href="spotify:artist:1z1V8o4cq5VNtAU05T2q4W">AmyElle</a> celebrates her new studio with her House\-infused DJ mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,445 likes - 19 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,459 likes - 19 songs - 51 min 28 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Feel The Heat \- Mixed](https://open.spotify.com/track/7DXphNnKjYGnDGG5EkZbaG) | [AmyElle](https://open.spotify.com/artist/1z1V8o4cq5VNtAU05T2q4W) | [Feel The Heat \(Mixed\)](https://open.spotify.com/album/1YLEysAtoziFj6wq2Q2uj1) | 3:26 |
-| 2 | [Mean World \- Mixed](https://open.spotify.com/track/3FE08Y50qxJQ79tRIgXN7I) | [Indigo Jung](https://open.spotify.com/artist/0Az3BmWqsJDMR78fdr0ExN) | [Mean World \(Mixed\)](https://open.spotify.com/album/0ouMSbUus0MTJa80NY6Rac) | 1:51 |
+| 2 | [Mean World \- Mixed](https://open.spotify.com/track/3FE08Y50qxJQ79tRIgXN7I) | [Indigo Jung](https://open.spotify.com/artist/0Az3BmWqsJDMR78fdr0ExN) | [Mean World \(Mixed\)](https://open.spotify.com/album/0ouMSbUus0MTJa80NY6Rac) | 0:29 |
 | 3 | [Love Strut \- Mixed](https://open.spotify.com/track/0NLiAsmQ31O2elTQGsAD7z) | [Tenzella](https://open.spotify.com/artist/3CyQmSqQ54BXTXWNfSWeob) | [Love Strut \(Mixed\)](https://open.spotify.com/album/2eGOdWt2zKr9HCNwgZ6Sac) | 2:19 |
 | 4 | [Gotta Have You \- Mixed](https://open.spotify.com/track/65NYPxAzzdCVE2xGx7oEVZ) | [Star B](https://open.spotify.com/artist/6VsJbZqteZahl2iEzvnClt), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Mark Broom](https://open.spotify.com/artist/56HBXB2JoYhf04oMeko90l) | [Gotta Have You \(Mixed\)](https://open.spotify.com/album/1vYswsXTl2VRkLq7Fj7Uiu) | 2:55 |
-| 5 | [Floor Control \- Mixed](https://open.spotify.com/track/3nZnvuN1mlAeoYBrPSQ0nV) | [Bubba](https://open.spotify.com/artist/32DwHSgwIkq0ZFIpjxpu9c) | [Floor Control \(Mixed\)](https://open.spotify.com/album/3EAQEOKjQvIFOG0KTnO3sd) | 3:53 |
+| 5 | [Floor Control \- Mixed](https://open.spotify.com/track/3nZnvuN1mlAeoYBrPSQ0nV) | [Bubba](https://open.spotify.com/artist/32DwHSgwIkq0ZFIpjxpu9c) | [Floor Control \(Mixed\)](https://open.spotify.com/album/3EAQEOKjQvIFOG0KTnO3sd) | 0:29 |
 | 6 | [Miscellaneous \- Mixed](https://open.spotify.com/track/2xRzTnwu7LRuPqSnVChVZe) | [Alessio Cala'](https://open.spotify.com/artist/4AP7JhKdZAguEjw84OlM9b) | [Miscellaneous \(Mixed\)](https://open.spotify.com/album/26qhFi6MJAVDu3ybSIR9Nr) | 3:00 |
 | 7 | [Animal Kingdom \- Mixed](https://open.spotify.com/track/32AutbPir1CMLqCpWCbidw) | [AmyElle](https://open.spotify.com/artist/1z1V8o4cq5VNtAU05T2q4W) | [Animal Kingdom \(Mixed\)](https://open.spotify.com/album/6PzFzizFkz3GngksE01DQJ) | 3:46 |
 | 8 | [Do You Feel Alright \- Mixed](https://open.spotify.com/track/5a8iU72dlxx8BNCBrRIMGf) | [Daniele Danieli](https://open.spotify.com/artist/23MZ3ueLKTQb2CHCe6fRiV), [Dj Fopp](https://open.spotify.com/artist/0Ik6UxWO96F8r1DGqLz6A9) | [Do You Feel Alright \(Mixed\)](https://open.spotify.com/album/2nhPmglt13JcPRzxr8GgAZ) | 4:20 |
-| 9 | [Let Me Tell You \- Radio Mix \- Mixed](https://open.spotify.com/track/66IIyoMFw8q16sEPIIGe3X) | [Audio Jacker](https://open.spotify.com/artist/7F3GTgmyFCXZUJmUoIspZQ) | [Let Me Tell You \- Radio Mix \(Mixed\)](https://open.spotify.com/album/72MU8XSq2UdFqDCqICuamC) | 4:22 |
+| 9 | [Let Me Tell You \- Radio Mix \- Mixed](https://open.spotify.com/track/66IIyoMFw8q16sEPIIGe3X) | [Audio Jacker](https://open.spotify.com/artist/7F3GTgmyFCXZUJmUoIspZQ) | [Let Me Tell You \- Radio Mix \(Mixed\)](https://open.spotify.com/album/72MU8XSq2UdFqDCqICuamC) | 0:29 |
 | 10 | [Shaft \- Mixed](https://open.spotify.com/track/5gr8DiZubRgmLr27J1gzw2) | [Dj Fronter](https://open.spotify.com/artist/4n0PBuUsK3WQlZRJnaQjr2) | [Shaft \(Mixed\)](https://open.spotify.com/album/2SPzo7HysCTRx16Srbrwz4) | 1:32 |
 | 11 | [Woman of The Ghetto \- Catz 'n Dogz Remix \- Mixed](https://open.spotify.com/track/3ZBaLGsjmFgyY7edGZC0zL) | [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w), [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [Woman of The Ghetto \- Catz 'n Dogz Remix \(Mixed\)](https://open.spotify.com/album/6t8zUiG1MKlom3AV8joBpL) | 4:06 |
 | 12 | [Running \- Original Mix \- Mixed](https://open.spotify.com/track/2rWG8ItbGWFNWbQE6dcFdI) | [Rockwell and Landers](https://open.spotify.com/artist/7czXFahPlcRI3SAaWSuD6c) | [Running \- Original Mix \(Mixed\)](https://open.spotify.com/album/54zcg4GDo2dgmrbOpcaS1s) | 1:10 |

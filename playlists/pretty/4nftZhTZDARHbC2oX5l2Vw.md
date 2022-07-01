@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4nftZhTZDARHbC2oX5l2Vw.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 503 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 503 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/4nftZhTZDARHbC2oX5l2Vw.md) - [plain]
 | 3 | [I'll Be Missing You \(feat\. 112\)](https://open.spotify.com/track/3QHONiXGMGU3z68mQInncF) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Bad Boy's 10th Anniversary\- The Hits](https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1) | 5:01 |
 | 4 | [Un\-Break My Heart](https://open.spotify.com/track/1wyNvV8uXr35T8ChEypf8n) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [The Essential Toni Braxton](https://open.spotify.com/album/44YkbOX8QxlFuBtYec4hPG) | 4:30 |
 | 5 | [Can't Nobody Hold Me Down \(feat\. Mase\)](https://open.spotify.com/track/1EM23A621Z0QyTlWKu7T1l) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [No Way Out](https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL) | 3:51 |
-| 6 | [I Believe I Can Fly](https://open.spotify.com/track/0AIfr4oi192dWLRJZrRz1O) | [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ) | [The R\. In R&B Collection: Volume 1](https://open.spotify.com/album/0mfaOc6KL6Kak3DYUyjNVl) | 5:20 |
+| 6 | [I Believe I Can Fly](https://open.spotify.com/track/0AIfr4oi192dWLRJZrRz1O) | [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ) | [The R\. In R&B Collection: Volume 1](https://open.spotify.com/album/0mfaOc6KL6Kak3DYUyjNVl) | 0:29 |
 | 7 | [Don't Let Go \(Love\)](https://open.spotify.com/track/6zmRoCPjIZA9ysAVBYiU9Z) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [The Very Best of En Vogue](https://open.spotify.com/album/6ABqEktNUuYULXWUubkHKg) | 4:51 |
 | 8 | [How Do I Live](https://open.spotify.com/track/5VJlvaPufnazmTvt2sHQqc) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Greatest Hits](https://open.spotify.com/album/6mcwghwWeSp1Ol1IpsYDOM) | 4:26 |
 | 9 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/4nftZhTZDARHbC2oX5l2Vw.md) - [plain]
 | 46 | [Get It Together](https://open.spotify.com/track/4eDCsyIHTSu3cQZ5wDIyP7) | [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo) | [No Doubt](https://open.spotify.com/album/5Zm0jwZc5J4jWk9rLmABKO) | 4:51 |
 | 47 | [All By Myself](https://open.spotify.com/track/4n9e8Nx2FijSDVoumQwXPW) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling Into You](https://open.spotify.com/album/08aLDHdtfHxjtOmEHusqGC) | 5:11 |
 | 48 | [It's All Coming Back to Me Now](https://open.spotify.com/track/62WlC9unRXGdRIULjishS0) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling Into You](https://open.spotify.com/album/08aLDHdtfHxjtOmEHusqGC) | 7:36 |
-| 49 | [My Love Is the Shhh!](https://open.spotify.com/track/3TS25nchaYIPb2Y2fw6cbb) | [Somethin' For The People](https://open.spotify.com/artist/1Hu56IprUt6GltqTkpvguI) | [This Time It's Personal](https://open.spotify.com/album/7H9HgzKgHs2Bb5BM6tmXE3) | 4:41 |
+| 49 | [My Love Is the Shhh!](https://open.spotify.com/track/3TS25nchaYIPb2Y2fw6cbb) | [Somethin' For The People](https://open.spotify.com/artist/1Hu56IprUt6GltqTkpvguI) | [This Time It's Personal](https://open.spotify.com/album/7H9HgzKgHs2Bb5BM6tmXE3) | 0:29 |
 | 50 | [Where Do You Go](https://open.spotify.com/track/1i7Gv6yN5aCyygveod0QDH) | [No Mercy](https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3) | [No Mercy](https://open.spotify.com/album/6BOqwJHtWmGtzVra2w183C) | 4:32 |
 
 Snapshot ID: `MywyNDA4ZjQ2ZWIwNTA3ODI4ZWNlYTIyZDU2ZTYxM2ViODM5Y2NiNWM4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ItcQfwbKZJ.md) - [plain]
 
 > From Fela Kuti to Antibalas, enjoy a collection of timeless Afrobeat music!
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,476 likes - 49 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,477 likes - 49 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ItcQfwbKZJ.md) - [plain]
 | 26 | [African Dialects](https://open.spotify.com/track/5y9sTZ2UKkddohU5k4gccl) | [Peter King](https://open.spotify.com/artist/5FP5tCzBeZnOemocPb8bOo) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/3oMy0b5i9EbBUR02bYIKZv) | 4:56 |
 | 27 | [Ephra](https://open.spotify.com/track/791wSIhPaz4gvcxeIG0mHh) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band EP](https://open.spotify.com/album/7i1uRaDZbc53bpjdTmJEBr) | 3:05 |
 | 28 | [Go Je Je](https://open.spotify.com/track/1dDFysERIfgY3zxVpkCTLI) | [Antibalas](https://open.spotify.com/artist/2KGF6IKZfVGCKfyqcNVGfh) | [Government Magic](https://open.spotify.com/album/5EEsbpPgWsbdYbZg3AxtsO) | 6:38 |
-| 29 | [Dog eat dog](https://open.spotify.com/track/32gtSO10v6vgTl0CvikODe) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Under Burning Skies](https://open.spotify.com/album/0f8mbXuhiXJaYXEhpa7MRj) | 7:05 |
+| 29 | [Dog eat dog](https://open.spotify.com/track/32gtSO10v6vgTl0CvikODe) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Under Burning Skies](https://open.spotify.com/album/0f8mbXuhiXJaYXEhpa7MRj) | 0:29 |
 | 30 | [Asiko \(In a Silent Mix\) \- Motor City Drum Ensemble Remix](https://open.spotify.com/track/6VJxaWAaMSKZsZNtZxpVan) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Motor City Drum Ensemble](https://open.spotify.com/artist/4TlzX7s6kuZDtiBpsopcBf) | [Dekmantel 10 Years 10.2](https://open.spotify.com/album/1mkdFuyDtgISvmK1jHfquF) | 7:23 |
 | 31 | [Black Times \- Radio Edit](https://open.spotify.com/track/4aZOVPGI7yA37ZWUJ14uA4) | [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Egypt 80](https://open.spotify.com/artist/3tiod2aXxdgMl6E7W4visJ), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Black Times](https://open.spotify.com/album/42eWUVnFbi5s9ls9be2Ks8) | 4:55 |
 | 32 | [Dram](https://open.spotify.com/track/2z3HXHcCac7pLNPjwThKHK) | [Ikebe Shakedown](https://open.spotify.com/artist/5ABBZoXY5r0UL1txACjinb) | [Stone by Stone](https://open.spotify.com/album/5cStTVCnqe2BrtRRyb0rKk) | 4:03 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ItcQfwbKZJ.md) - [plain]
 | 44 | [Enjoy Yourself](https://open.spotify.com/track/7BgOdtjbfgvip4BJRn9NmI) | [Sahara All Stars Band Jos.](https://open.spotify.com/artist/11E58RQVNMMzzBWpi8J2rW) | [Enjoy Yourself](https://open.spotify.com/album/7gypen6SPcpqjxwc7CAoJA) | 6:02 |
 | 45 | [Kana Sarakabö](https://open.spotify.com/track/3QOllXZu7hOPu3Vv29XVZG) | [Bembeya Jazz National](https://open.spotify.com/artist/1OGuNbASgvINcHfDtrDnj3) | [Discothèque 76](https://open.spotify.com/album/67OQuCcp8yfLRKa49asN8i) | 6:01 |
 | 46 | [Africa Is Home](https://open.spotify.com/track/5jh3f8fy8a335XYDyJ7x9R) | [Joe Mensah](https://open.spotify.com/artist/6nXxAcUehTGROEbFtHlmFf) | [Cry Laughter](https://open.spotify.com/album/0L0N20B9ZRD5M9rfrz83Nw) | 8:56 |
-| 47 | [Alabeke](https://open.spotify.com/track/51WXp19Xrhqk36KyqxWYgu) | [Don Satch](https://open.spotify.com/artist/0DG4kQQrHB5rWwz1cQ0Rqu), [and His Atomic Dance Band of Aba](https://open.spotify.com/artist/3zSsXf9i0QRMEErGzer7Di) | [Alabeke](https://open.spotify.com/album/5Lq1mbNk3UoiYk0TVX0Zum) | 4:36 |
+| 47 | [Alabeke](https://open.spotify.com/track/51WXp19Xrhqk36KyqxWYgu) | [Don Satch](https://open.spotify.com/artist/0DG4kQQrHB5rWwz1cQ0Rqu), [and His Atomic Dance Band of Aba](https://open.spotify.com/artist/3zSsXf9i0QRMEErGzer7Di) | [Alabeke](https://open.spotify.com/album/5Lq1mbNk3UoiYk0TVX0Zum) | 0:29 |
 | 48 | [Enwan](https://open.spotify.com/track/616eSjwX3yd5HhtPNCsjCI) | [The Anansa Professionals](https://open.spotify.com/artist/1qvjh1IbEqCRvjkXrd6vgr) | [Enwan](https://open.spotify.com/album/1ZsHa3jQnKwGZOnHHmw70L) | 5:31 |
 | 49 | [No Wrong Show](https://open.spotify.com/track/1lnHRzrx8GLtkPWEQRebWW) | [Thony Shorby Nyenwi](https://open.spotify.com/artist/3HcwWpnDRCp1zhnPRPDQhd) | [Afro Baby: The Evolution of the Afro\-Sound in Nigeria 1970\-79](https://open.spotify.com/album/3MRCjf7Np4Jn3K4bnNv10a) | 5:43 |
 

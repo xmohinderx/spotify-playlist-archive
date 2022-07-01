@@ -4,7 +4,7 @@
 
 > Chilled R&B jams for your most relaxed moods.
 
-352 songs - 20 hr 21 min - [published](https://open.spotify.com/playlist/0z3nbjkWeZZbRZSs8bbW9u)
+352 songs - 20 hr 17 min - [published](https://open.spotify.com/playlist/0z3nbjkWeZZbRZSs8bbW9u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [Moonlight](https://open.spotify.com/track/0B85thbtraLF3LrirsWMjR) | [Yo Trane](https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH) | [Moonlight](https://open.spotify.com/album/3GNWO6dYu4YHdVqNZwQ7XN) | 3:38 | 2019-07-10\* | 2019-11-23 |
 | [More Than Enough](https://open.spotify.com/track/1NjQZi2ajwmJsfnimLr41I) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [More Than Enough](https://open.spotify.com/album/0xfm90Zo2EQ9rSECde8uOq) | 2:31 | 2020-03-27 | 2020-12-04 |
 | [Mortal](https://open.spotify.com/track/5uVst2PQyNJTKPvPqKym8G) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Mortal](https://open.spotify.com/album/0HP25133R6A9o7HXKxVEPi) | 3:09 | 2019-07-10\* | 2019-09-20 |
-| [Most Men \- A COLORS SHOW](https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Most Men \- A COLORS SHOW](https://open.spotify.com/album/4Ll6gnAL7gDjnZM8tOEndi) | 4:13 | 2022-01-07 |  |
+| [Most Men \- A COLORS SHOW](https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Most Men \- A COLORS SHOW](https://open.spotify.com/album/4Ll6gnAL7gDjnZM8tOEndi) | 0:29 | 2022-01-07 |  |
 | [Mother](https://open.spotify.com/track/51WLu8FjR1tiyIU1jUoWvm) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Mother](https://open.spotify.com/album/55FiEs3CNdmkmkzmkyHmYO) | 3:09 | 2020-05-01 | 2020-12-04 |
 | [MUSHROOM CHOCOLATE \(with 6LACK\)](https://open.spotify.com/track/41v7qDGXurEGgkMQWOk7hP) | [QUIN](https://open.spotify.com/artist/3sHS70DMNgPxRqx2fUNrRA), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [MUSHROOM CHOCOLATE \(with 6LACK\)](https://open.spotify.com/album/6wZXigN6FZl5FZUQxvGCTE) | 3:46 | 2019-07-10\* | 2019-09-04 |
 | [My Bad](https://open.spotify.com/track/1DUSuNhF8P5vUGNPpQiZa5) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [My Bad](https://open.spotify.com/album/0B1vzblCZwbnUF8cv5jGkd) | 2:46 | 2019-07-10\* | 2019-09-04 |

@@ -1,13 +1,29 @@
 {
-  "description": "The most exciting new artists on the rise from the African continent & diaspora. Cover: <a href=\"https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=HTEo-itKTDGnVTBvdIeKlA\">Ayra Starr</a>",
-  "num_followers": 57082,
+  "description": "The most exciting new artists on the rise from the African continent & diaspora. Cover: <a href=\"https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG?si=5MiFdkxjQHWTe6OmF_zPqg\">Victony</a>",
+  "num_followers": 57168,
   "original_name": "Radar Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQyMDQwMCwwMDAwMDA0YjAwMDAwMTgxNmViZWIyM2MwMDAwMDE4MTM0ZWUxYTIy",
+  "snapshot_id": "MTY1NjYzMDAwMCwwMDAwMDA0YzAwMDAwMTgxYjZkN2JhNDcwMDAwMDE4MWI1NGVhOGE4",
   "tracks": [
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Many Man - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 190621,
+      "name": "Many Man - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
+    },
     {
       "added_at": "2022-06-05 23:00:00",
       "album": {
@@ -23,6 +39,34 @@
       "duration_ms": 164571,
       "name": "ASE - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5fM2O9Lz5T8yN9YiJJs2qp"
+    },
+    {
+      "added_at": "2022-05-05 23:00:00",
+      "album": {
+        "name": "Sugarcane (Remix) [feat. King Promise, Mayorkun & Darkoo]",
+        "url": "https://open.spotify.com/album/5dFQsLF9BvkgmgMONO8imD"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 251286,
+      "name": "Sugarcane (Remix) [feat. King Promise, Mayorkun & Darkoo]",
+      "url": "https://open.spotify.com/track/0ApflIvLLPwEZuS36WYlh6"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -55,6 +99,42 @@
       "duration_ms": 185364,
       "name": "Kwaku the Traveller",
       "url": "https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Big Flexa",
+        "url": "https://open.spotify.com/album/5MhQBsStYfPKxStExE5wM3"
+      },
+      "artists": [
+        {
+          "name": "Costa Titch",
+          "url": "https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG"
+        },
+        {
+          "name": "C\u2019Buda M",
+          "url": "https://open.spotify.com/artist/6Ldiygt0c72Fx38qejOcG3"
+        },
+        {
+          "name": "Alfa Kat",
+          "url": "https://open.spotify.com/artist/30Ep7ARHnQpc0z9otD7jup"
+        },
+        {
+          "name": "Banaba Des",
+          "url": "https://open.spotify.com/artist/02CpmHJhuAVY5YybphI3Wn"
+        },
+        {
+          "name": "Sdida",
+          "url": "https://open.spotify.com/artist/7MVdJWzuMTtXvvaovjs3bB"
+        },
+        {
+          "name": "Man T",
+          "url": "https://open.spotify.com/artist/5syvopnKgETMISE53XS578"
+        }
+      ],
+      "duration_ms": 327079,
+      "name": "Big Flexa",
+      "url": "https://open.spotify.com/track/16vqEDaCZpq5zdgop8U9uM"
     },
     {
       "added_at": "2021-10-08 05:11:13",
@@ -121,6 +201,22 @@
       "url": "https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo"
     },
     {
+      "added_at": "2021-11-19 07:42:30",
+      "album": {
+        "name": "Baby Riddim",
+        "url": "https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b"
+      },
+      "artists": [
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 190677,
+      "name": "Baby Riddim",
+      "url": "https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX"
+    },
+    {
       "added_at": "2022-05-05 23:00:00",
       "album": {
         "name": "Bambelela",
@@ -147,6 +243,30 @@
       "duration_ms": 396434,
       "name": "Bambelela",
       "url": "https://open.spotify.com/track/4X4NsxuVdB1ygIMbHuctBz"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Universe",
+        "url": "https://open.spotify.com/album/76lQfFP5A7OnL68NJ8k9QB"
+      },
+      "artists": [
+        {
+          "name": "GuiltyBeatz",
+          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
+        },
+        {
+          "name": "Twitch 4EVA",
+          "url": "https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go"
+        },
+        {
+          "name": "Mr Hudson",
+          "url": "https://open.spotify.com/artist/1zV9UjTUevjp5VUddqIUUn"
+        }
+      ],
+      "duration_ms": 265486,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/53xvLHBlltsQQG3X9MrGtH"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -211,26 +331,6 @@
     {
       "added_at": "2022-05-05 23:00:00",
       "album": {
-        "name": "Italy (feat. Blaq Diamond)",
-        "url": "https://open.spotify.com/album/6yXZuo4j1YCVsbuDTJdwNp"
-      },
-      "artists": [
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "Blaq Diamond",
-          "url": "https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe"
-        }
-      ],
-      "duration_ms": 188395,
-      "name": "Italy (feat. Blaq Diamond)",
-      "url": "https://open.spotify.com/track/79P1sxrpp1phhTgF1gkaI8"
-    },
-    {
-      "added_at": "2022-05-05 23:00:00",
-      "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
       },
@@ -288,9 +388,29 @@
           "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
         }
       ],
-      "duration_ms": 162285,
+      "duration_ms": 29048,
       "name": "No Wahala",
       "url": "https://open.spotify.com/track/4vHy2IHzf3EabEa7oMpUZB"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "66",
+        "url": "https://open.spotify.com/album/6pTx4o3Ww2KeWMUVtONaGd"
+      },
+      "artists": [
+        {
+          "name": "Felo Le Tee",
+          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
+        },
+        {
+          "name": "Myztro",
+          "url": "https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN"
+        }
+      ],
+      "duration_ms": 430714,
+      "name": "66",
+      "url": "https://open.spotify.com/track/1b4kqxvf4kFuB7ACj9Lvve"
     },
     {
       "added_at": "2022-05-05 23:00:00",
@@ -351,34 +471,6 @@
       "duration_ms": 150836,
       "name": "LAST AIR BENDER",
       "url": "https://open.spotify.com/track/3Tkrl8e0p4WvXCq31ITeXw"
-    },
-    {
-      "added_at": "2022-05-05 23:00:00",
-      "album": {
-        "name": "Sugarcane (Remix) [feat. King Promise, Mayorkun & Darkoo]",
-        "url": "https://open.spotify.com/album/5dFQsLF9BvkgmgMONO8imD"
-      },
-      "artists": [
-        {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
-        },
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        },
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 251286,
-      "name": "Sugarcane (Remix) [feat. King Promise, Mayorkun & Darkoo]",
-      "url": "https://open.spotify.com/track/0ApflIvLLPwEZuS36WYlh6"
     },
     {
       "added_at": "2022-05-05 23:00:00",
@@ -467,6 +559,22 @@
     {
       "added_at": "2022-05-05 23:00:00",
       "album": {
+        "name": "WITH YOU",
+        "url": "https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 192475,
+      "name": "WITH YOU",
+      "url": "https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX"
+    },
+    {
+      "added_at": "2022-05-05 23:00:00",
+      "album": {
         "name": "Kilometer (Remix)",
         "url": "https://open.spotify.com/album/3AUbrJDzMndvuenVyyHX8k"
       },
@@ -547,30 +655,6 @@
     {
       "added_at": "2022-05-05 23:00:00",
       "album": {
-        "name": "Gusheshe",
-        "url": "https://open.spotify.com/album/7r4X2vjz24MLwu4bmOljK0"
-      },
-      "artists": [
-        {
-          "name": "Frenzyoffixial",
-          "url": "https://open.spotify.com/artist/0JTurBlK1OnYn1Ohq7fGuJ"
-        },
-        {
-          "name": "Bizizi",
-          "url": "https://open.spotify.com/artist/1bd4LtfOcSzkWOjHKTj6yB"
-        },
-        {
-          "name": "KayGee DaKing",
-          "url": "https://open.spotify.com/artist/6rQ1MAPgKqwX5hTZZdcJf2"
-        }
-      ],
-      "duration_ms": 255087,
-      "name": "Gusheshe",
-      "url": "https://open.spotify.com/track/5PRFgdwLTh9ghOFowF8Jhb"
-    },
-    {
-      "added_at": "2022-05-05 23:00:00",
-      "album": {
         "name": "The Second Wave",
         "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
       },
@@ -603,22 +687,6 @@
     {
       "added_at": "2022-05-05 23:00:00",
       "album": {
-        "name": "WITH YOU",
-        "url": "https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 192475,
-      "name": "WITH YOU",
-      "url": "https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX"
-    },
-    {
-      "added_at": "2022-05-05 23:00:00",
-      "album": {
         "name": "4LUV",
         "url": "https://open.spotify.com/album/2SGGNsEIuL5zM0NHiO5dBd"
       },
@@ -628,7 +696,7 @@
           "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
         }
       ],
-      "duration_ms": 271017,
+      "duration_ms": 29048,
       "name": "umoya",
       "url": "https://open.spotify.com/track/5Mg5kfEzI7stnjNoXHyaUC"
     },
@@ -703,30 +771,6 @@
     {
       "added_at": "2022-05-05 23:00:00",
       "album": {
-        "name": "Glitch Vol. 2: The Future is Now",
-        "url": "https://open.spotify.com/album/4L3QTRI4nyNhhBJkuSUY4c"
-      },
-      "artists": [
-        {
-          "name": "UBeyond",
-          "url": "https://open.spotify.com/artist/1fg6FOcNJXJNFg2ejI6ZXc"
-        },
-        {
-          "name": "Mnqobi Yazo",
-          "url": "https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu"
-        },
-        {
-          "name": "Yallunder",
-          "url": "https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Hot Stuff",
-      "url": "https://open.spotify.com/track/6kl5YOLuMKktqFK2db4CBo"
-    },
-    {
-      "added_at": "2022-05-05 23:00:00",
-      "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/5fvfkQ5pnNnLpEjPvAUpwH"
       },
@@ -785,42 +829,6 @@
       "url": "https://open.spotify.com/track/4WLdlAi4KBDNRxaq3GnRYH"
     },
     {
-      "added_at": "2021-11-19 07:42:30",
-      "album": {
-        "name": "Baby Riddim",
-        "url": "https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b"
-      },
-      "artists": [
-        {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 190677,
-      "name": "Baby Riddim",
-      "url": "https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX"
-    },
-    {
-      "added_at": "2022-05-05 23:00:00",
-      "album": {
-        "name": "uShukela eTiyeni",
-        "url": "https://open.spotify.com/album/0KhIspDpJ86o85vMvoMwfT"
-      },
-      "artists": [
-        {
-          "name": "Okmalumkoolkat",
-          "url": "https://open.spotify.com/artist/0CaeXDVwH52TDLA0GLRo4f"
-        },
-        {
-          "name": "Debra Nist",
-          "url": "https://open.spotify.com/artist/1vsudt2lY3JLZQ540M2ffW"
-        }
-      ],
-      "duration_ms": 315500,
-      "name": "Uthando To The T",
-      "url": "https://open.spotify.com/track/64UhamKOp5B4FHkHhdD4Bl"
-    },
-    {
       "added_at": "2021-05-03 11:42:01",
       "album": {
         "name": "Seed - EP",
@@ -832,7 +840,7 @@
           "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
         }
       ],
-      "duration_ms": 196162,
+      "duration_ms": 29048,
       "name": "Forever",
       "url": "https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l"
     },

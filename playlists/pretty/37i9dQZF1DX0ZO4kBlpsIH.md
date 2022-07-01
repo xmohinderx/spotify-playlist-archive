@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,330 likes - 52 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,494 likes - 52 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 4 | [Les yeux noirs](https://open.spotify.com/track/7lO7qbUIy6E1FNJxkh1ft2) | [Daniel Colin](https://open.spotify.com/artist/2ou5vHf8Vp1ru210N1fi5F) | [Passion Gitane](https://open.spotify.com/album/3dQ85ldFwfDtl2WNdaED1l) | 3:31 |
 | 5 | [Hommage à Chagall](https://open.spotify.com/track/0pjWKVZVOGpuzwoeb33B5B) | [Stefano Corradi](https://open.spotify.com/artist/4KnatJMl9LPIdRUSQsYION), [Gian Pietro Marazza](https://open.spotify.com/artist/2tgYUszDncWLQhwJzSSfVX), [Luca Garlaschell](https://open.spotify.com/artist/4uHfosVwJmQAuFyXngLoPo) | [Love Routes \(Romantic Accordion Ballads in Rome\)](https://open.spotify.com/album/3lEXZx6W90Y1WjkWILQwaB) | 3:21 |
 | 6 | [Cris](https://open.spotify.com/track/4Ndlor6i2ikO2tOzB8LVZH) | [Roberto Lucanero](https://open.spotify.com/artist/5OVJFCX7ri0EaYLqz58NQp) | [Cris](https://open.spotify.com/album/5x3cqAMsUcM9YvAG1Xeo6N) | 3:44 |
-| 7 | [Rue Jouvenet](https://open.spotify.com/track/5t43VxQuoRuJDJAJnxcCvg) | [Jo Courtin](https://open.spotify.com/artist/0u2nKLEi5PUDYJ3EOWGz6o) | [Accordion Vol\. 2: The Most Beautiful Songs \(Accordéon Vol\. 2: les Plus Belles Mélodies\)](https://open.spotify.com/album/67ZpNxpEBq9qnHjz9lbfKk) | 3:07 |
+| 7 | [Rue Jouvenet](https://open.spotify.com/track/5t43VxQuoRuJDJAJnxcCvg) | [Jo Courtin](https://open.spotify.com/artist/0u2nKLEi5PUDYJ3EOWGz6o) | [Accordion Vol\. 2: The Most Beautiful Songs \(Accordéon Vol\. 2: les Plus Belles Mélodies\)](https://open.spotify.com/album/67ZpNxpEBq9qnHjz9lbfKk) | 0:29 |
 | 8 | [Reine De Musette](https://open.spotify.com/track/1i41OjKkEKVL0VHHNMDJUD) | [Max Marino Et Son Accordéon](https://open.spotify.com/artist/1cnJh2kOWm2O6TGzJOOcTY) | [French Musette Accordion](https://open.spotify.com/album/0GZdyMvkWYIxVE9SrfbbhL) | 2:28 |
 | 9 | [Courtoisie Musette](https://open.spotify.com/track/1PGdiadhp5dIYvLOQJmBZo) | [Sandra J](https://open.spotify.com/artist/4jqRYvRWfshu7XeKHz0TYX) | [Paris Cafe \- French Sidewalk Cafe Accordion Music](https://open.spotify.com/album/2pkJU8ud3RvuHNGkuDLr7R) | 2:26 |
 | 10 | [Valse violette](https://open.spotify.com/track/67Mpe35GP02yAmQFCtXVVF) | [Tillo Schlunck](https://open.spotify.com/artist/05g9ESnfzPZUi3byxhoS3L), [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/3eF4eKkt4DHrOUG1A0z6wC) | 3:34 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 20 | [Rêve d'accordeonist](https://open.spotify.com/track/3ZDqCG9RzyaJSVxaQgvaal) | [Roger Dufas](https://open.spotify.com/artist/5ZA9UYzX5J1uxXspRhJJDg), [Manuel Puig](https://open.spotify.com/artist/4KW0gtV7MlESm0dB7zq55c), [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/3eF4eKkt4DHrOUG1A0z6wC) | 2:52 |
 | 21 | [Boum musette](https://open.spotify.com/track/5o21zzrmo3ppnruabrr1Fa) | [Joss Baselli](https://open.spotify.com/artist/2Goh2SVD0hBxz9qMrtBTkt) | [La foule \(Collection "Les archives de l'accordéon"\)](https://open.spotify.com/album/00Q6aSetTUHYYFZygpEdv7) | 2:24 |
 | 22 | [Sensibilite Musette](https://open.spotify.com/track/6N7djpUh42oguiWKyoVivT) | [Stephanie Methot](https://open.spotify.com/artist/4oOUhXHZsHcKj3jhQbHvhe) | [Paris Cafe \- French Sidewalk Cafe Accordion Music](https://open.spotify.com/album/2pkJU8ud3RvuHNGkuDLr7R) | 2:22 |
-| 23 | [Le Plus Beau Tango Du Monde \- Tango](https://open.spotify.com/track/2UDqPpMrmvP0FXHZ35YHsP) | [Edouard Duleu](https://open.spotify.com/artist/49WpqtZQzP4PICzb34lY15) | [Au bal musette, Vol\. 4](https://open.spotify.com/album/1P2kQLzal0rB0gUutYCMjd) | 2:40 |
+| 23 | [Le Plus Beau Tango Du Monde \- Tango](https://open.spotify.com/track/2UDqPpMrmvP0FXHZ35YHsP) | [Edouard Duleu](https://open.spotify.com/artist/49WpqtZQzP4PICzb34lY15) | [Au bal musette, Vol\. 4](https://open.spotify.com/album/1P2kQLzal0rB0gUutYCMjd) | 0:29 |
 | 24 | [Au Vieux Bal Musette](https://open.spotify.com/track/2XZaBz843U00YVkOJLHtGx) | [André Verchuren](https://open.spotify.com/artist/6rT4bZhhSQC6dCT33qgShE) | [Une Belle Histoire](https://open.spotify.com/album/5mPHOeyteMkcXXo8by5LGG) | 2:33 |
 | 25 | [Reine de musette](https://open.spotify.com/track/2dr7w26T5aMdtgX3RGd7Ez) | [Mouloudji](https://open.spotify.com/artist/4pZgpCHvAI14ug9dSfxTjp), [Marcel Azzola](https://open.spotify.com/artist/0c2ZORZQaJWxtkJq4850Wg) | [Et ça tournait \- Anthologie de la chanson musette](https://open.spotify.com/album/67hLFIMVNgg2mDLOXVHwqs) | 2:32 |
 | 26 | [La pastourelle \(valse\)](https://open.spotify.com/track/0VnaFfaJKoivoa8DzJE6Cs) | [Yvette Horner](https://open.spotify.com/artist/5NZd2r4rjPIli27nwjM0QN) | [Dansez maintenant](https://open.spotify.com/album/2n844853yULEG5qbGNR2Io) | 2:06 |

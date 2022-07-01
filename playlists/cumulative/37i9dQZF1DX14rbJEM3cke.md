@@ -4,7 +4,7 @@
 
 > New Rock driving the current, every week\. Cover Kamiyada+
 
-93 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/2jxSs2Q6Z9zjjyOXKs22bg)
+93 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/2jxSs2Q6Z9zjjyOXKs22bg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Cleopatra](https://open.spotify.com/track/1vbu9CQdQQgYHPeqTn8WK0) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Cleopatra](https://open.spotify.com/album/79QALKmJRQgzHWHTutvg5O) | 3:30 | 2022-03-18 | 2022-06-04 |
 | [Come Home feat\. Ayla Tesler\-Mabe](https://open.spotify.com/track/7GVgDSeuspSUANtLBmZi0D) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Ayla Tesler\-Mabe](https://open.spotify.com/artist/3BEEiUnWFsmP8EbK0QCe1O) | [lately I feel EVERYTHING](https://open.spotify.com/album/1dg0gmrCaEbENVXpPIvi1m) | 3:37 | 2022-02-12 | 2022-06-04 |
 | [Come Over](https://open.spotify.com/track/0gTqEEZKoCn53BZAU1A4DG) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sunset Visionary, Vol\. 1](https://open.spotify.com/album/1AQvLVWkgAxzSa8zJbYkdW) | 2:15 | 2022-02-12 |  |
-| [Definition \(ft\. Jason Aalon Of Fever 333\)](https://open.spotify.com/track/4un1zMkZQeTvShAIeq7TZw) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy), [Jason Aalon Butler](https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl) | [Mohawks & Durags](https://open.spotify.com/album/4w9TJ5AhaRLidoQQIqgCIt) | 2:56 | 2022-02-12 |  |
+| [Definition \(ft\. Jason Aalon Of Fever 333\)](https://open.spotify.com/track/4un1zMkZQeTvShAIeq7TZw) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy), [Jason Aalon Butler](https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl) | [Mohawks & Durags](https://open.spotify.com/album/4w9TJ5AhaRLidoQQIqgCIt) | 0:29 | 2022-02-12 |  |
 | [Demon Child](https://open.spotify.com/track/1RaVC8vuMq3HfrdIKmBUJ3) | [Nue](https://open.spotify.com/artist/5GAWUCmn1C9DsGaabbJUoO) | [Demon Child](https://open.spotify.com/album/1UmT3WDoH3f6RP9qHX6hoI) | 2:49 | 2022-02-12 | 2022-02-26 |
 | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/track/3PqpLZTiiwJjYD1uSvQoCC) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/album/4agLeYDJ434nJLLvM4uJWJ) | 2:14 | 2022-04-15 |  |
 | [DIRTY WHITE VANS//](https://open.spotify.com/track/51tegOXmUxqJKWMh8l3Oxi) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [DIRTY WHITE VANS//](https://open.spotify.com/album/7GFoR6svUHjlQrG71ipmky) | 2:21 | 2022-03-18 |  |
@@ -58,13 +58,13 @@
 | [Just Wanna](https://open.spotify.com/track/1rMQspcZOdnHUwGuxzDufu) | [Troi Irons](https://open.spotify.com/artist/6jWwWbLoxKthbM8C6pi9cI) | [flowers, the album](https://open.spotify.com/album/6ECWmsYxSmyzN7yYDrWWTx) | 3:11 | 2022-02-12 | 2022-03-18 |
 | [K.M.B.](https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [K.M.B.](https://open.spotify.com/album/2yK4JovZF5kJ4vKRFFG9Y5) | 3:15 | 2022-02-12 |  |
 | [Kids Don't Buy Groceries](https://open.spotify.com/track/3qpZF480vZzafyfVqIaf4f) | [Hyattsvillain](https://open.spotify.com/artist/1X8K2CJ9gE4QDrh8TVRMKr) | [Kids Don't Buy Groceries](https://open.spotify.com/album/7gy5MwfTEMiom8RoUdIBLp) | 2:03 | 2022-03-18 |  |
-| [Knock Me Out](https://open.spotify.com/track/6hZg9eBzZtn5SpHarPehbU) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Knock Me Out](https://open.spotify.com/album/5X4AuforMNHvb66UZU3zfE) | 3:05 | 2022-02-12 |  |
+| [Knock Me Out](https://open.spotify.com/track/6hZg9eBzZtn5SpHarPehbU) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Knock Me Out](https://open.spotify.com/album/5X4AuforMNHvb66UZU3zfE) | 0:29 | 2022-02-12 |  |
 | [Mad](https://open.spotify.com/track/5jyrsygTAsGvAKsFGxTd6t) | [Jhyve](https://open.spotify.com/artist/0HmsavbsOIIyKWdQOyFh2f) | [Mad](https://open.spotify.com/album/5SvEPJ6bl42bFGXEWNSvdA) | 3:17 | 2022-02-12 |  |
 | [Mercy](https://open.spotify.com/track/1QmhRaPMEMuYKRutxt9ond) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Mercy](https://open.spotify.com/album/1pw5musYA2A2FWpswW9rzK) | 3:25 | 2022-02-12 |  |
 | [Metal In Me](https://open.spotify.com/track/5YHWa4a7MX7ogGuCgmHou8) | [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF) | [The Metal In Me](https://open.spotify.com/album/0DEh8au4ajDFEIUuMBrUOD) | 2:31 | 2022-02-12 |  |
 | [Nine Inch Nail](https://open.spotify.com/track/0aAfcurVtjspu4S7SLNy4B) | [Chief Cleopatra](https://open.spotify.com/artist/4JtoyhF0vrGEvOh0O6z2vK) | [Luna](https://open.spotify.com/album/1S3YhavDzM2XHiZbTjNdIs) | 3:54 | 2022-03-04 |  |
 | [Nobody](https://open.spotify.com/track/779GuRKb0pL3y6n4fdXnpT) | [SATE](https://open.spotify.com/artist/0TlgcutPZ6YcuakbQWBHa7) | [Nobody](https://open.spotify.com/album/336yH8hVH8n23bjEngKufT) | 2:58 | 2022-02-12 |  |
-| [Nothing Feels The Same](https://open.spotify.com/track/3zCnua0vS5z5znRZANOdPD) | [Chris Miles](https://open.spotify.com/artist/2m2kx6kzvl75SabOVfkL5i), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [Nothing Feels The Same](https://open.spotify.com/album/515rtQrzLwPpwdCTfJdefa) | 2:27 | 2022-03-04 |  |
+| [Nothing Feels The Same](https://open.spotify.com/track/3zCnua0vS5z5znRZANOdPD) | [Chris Miles](https://open.spotify.com/artist/2m2kx6kzvl75SabOVfkL5i), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [Nothing Feels The Same](https://open.spotify.com/album/515rtQrzLwPpwdCTfJdefa) | 0:29 | 2022-03-04 |  |
 | [Plaid Pants](https://open.spotify.com/track/5nkixjhe03QOBYd3bi3Hze) | [The Black Tones](https://open.spotify.com/artist/756gZe3CRrsmKQGhCTmQ5J) | [Cobain & Cornbread](https://open.spotify.com/album/1b9wq6uUN4Wu5JsCGBZCnh) | 6:51 | 2022-02-12 | 2022-04-09 |
 | [Plastic Hamburgers](https://open.spotify.com/track/3lWwsRSWeSTXUBTJeuRPPg) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Please Don't Be Dead](https://open.spotify.com/album/4EdNTjVzjIxYqEUGPiyiZS) | 3:37 | 2022-02-12 |  |
 | [PORN ACTING\*](https://open.spotify.com/track/1lu1qW0KFaYUv2cQJl71ok) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [PORN ACTING\*](https://open.spotify.com/album/7eZvZ7wgGD2dwL6n0Vatrk) | 2:52 | 2022-02-25 |  |

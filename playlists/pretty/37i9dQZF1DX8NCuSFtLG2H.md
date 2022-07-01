@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NCuSFtLG2H.md) - [plain]
 
 > Relax to the sounds of the kora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,270 likes - 111 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,323 likes - 111 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NCuSFtLG2H.md) - [plain]
 | 22 | [Kora by Night](https://open.spotify.com/track/2hU4x98c0LUwRUqjJE4ujy) | [Maher Cissoko](https://open.spotify.com/artist/7v8qNR5OXbOludbhQoLabP) | [Kora Fo](https://open.spotify.com/album/5cBxRTB0SAwp8EWUcQKXQh) | 3:45 |
 | 23 | [Bush Telegraph](https://open.spotify.com/track/6FkTjNbOte9EgoRvfkDdJs) | [Ravi](https://open.spotify.com/artist/4Jdc5hzHfGwwc7dxquKGso) | [Ravi: African Kora](https://open.spotify.com/album/02Kd5u5BzFZyfQobh3mX47) | 2:28 |
 | 24 | [Tatono](https://open.spotify.com/track/3cyOdze2bvBg6iMsvPWo8B) | [Seckou Keita](https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc) | [Seckou Keita: 22 Strings](https://open.spotify.com/album/1VH0jLzs9p6WzXRlfRk7Hw) | 6:12 |
-| 25 | [Simbo Salaba](https://open.spotify.com/track/2emh3LCxxzqekzR0ekc6t5) | [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY) | [Simbo Salaba](https://open.spotify.com/album/5hEajz3vakPl6PYnVikUCA) | 4:30 |
+| 25 | [Simbo Salaba](https://open.spotify.com/track/2emh3LCxxzqekzR0ekc6t5) | [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY) | [Simbo Salaba](https://open.spotify.com/album/5hEajz3vakPl6PYnVikUCA) | 0:29 |
 | 26 | [I Met Her By The River](https://open.spotify.com/track/569Ur4YOxQ2OOzE7gtjZmL) | [Dawda Jobarteh](https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh) | [I Met Her by the River](https://open.spotify.com/album/7GMUq2GDaIzQHaCdsG3nDV) | 4:26 |
 | 27 | [Duga](https://open.spotify.com/track/6tdJU5kgDI9yP4LBdVMh8X) | [Tunde Jegede](https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ) | [Heritage](https://open.spotify.com/album/256XbjH0BrerKZyE8bm8Qk) | 2:36 |
 | 28 | [Kadiatou](https://open.spotify.com/track/18ei221cMqAjQuQYT0RxNW) | [Rajery](https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Driss El Maloumi](https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB) | [3 MA \(Madagascar, Mali, Maroc\)](https://open.spotify.com/album/3AP6ehGlQxMOrMsqOly0c2) | 4:32 |
@@ -100,12 +100,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NCuSFtLG2H.md) - [plain]
 | 90 | [Kaira](https://open.spotify.com/track/3zSgTbLfO17pOunhI10UP5) | [Ballaké](https://open.spotify.com/artist/15nK88470G6NXcN9MWdx11) | [Kora Music From Mali](https://open.spotify.com/album/7kO8Gdldw0NADGlTg9txZX) | 7:09 |
 | 91 | [Doudou](https://open.spotify.com/track/0nF3QZLQ8O1vQ4SjD3IdRS) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi) | 4:47 |
 | 92 | [Alpha Yaya](https://open.spotify.com/track/4B0pjz3fXDTzQqBxQf9mUL) | [Seckou Keita](https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc) | [Seckou Keita: 22 Strings](https://open.spotify.com/album/1VH0jLzs9p6WzXRlfRk7Hw) | 4:49 |
-| 93 | [Laban Djoro](https://open.spotify.com/track/1i6wlop1bLQohfpx7hPEqU) | [Mamadou Diabaté](https://open.spotify.com/artist/4Ue2Ve285CkFy9mv6TPcBf) | [Courage](https://open.spotify.com/album/77sVRRrzfdWlqZ7jPZ4Irr) | 5:48 |
+| 93 | [Laban Djoro](https://open.spotify.com/track/1i6wlop1bLQohfpx7hPEqU) | [Mamadou Diabaté](https://open.spotify.com/artist/4Ue2Ve285CkFy9mv6TPcBf) | [Courage](https://open.spotify.com/album/77sVRRrzfdWlqZ7jPZ4Irr) | 0:29 |
 | 94 | [Simbo](https://open.spotify.com/track/39M353KyEDfl468Bm69s3L) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [In the Heart of the Moon](https://open.spotify.com/album/1tSY0PB7uHvKhnEnjJQXLX) | 3:59 |
 | 95 | [Kora Duet](https://open.spotify.com/track/0yBlmJ8quqn2KZTxnOfLC6) | [David Gilden](https://open.spotify.com/artist/6FFApFNe3mmAvVlIU73G2s) | [Ancestral Voices](https://open.spotify.com/album/0eaJcW1j4vx8x83o4U73wu) | 2:25 |
 | 96 | [Debe](https://open.spotify.com/track/3SYhGK2d8LAkhNCFtOfv0c) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [In the Heart of the Moon](https://open.spotify.com/album/1tSY0PB7uHvKhnEnjJQXLX) | 4:53 |
 | 97 | [Don't Pretend](https://open.spotify.com/track/7lJkcFVCflXpYUL0Vvc50t) | [Yacouba Sissoko](https://open.spotify.com/artist/5AFOBMdVFA8785NYQtWiad) | [Siya](https://open.spotify.com/album/1T7Y2XS0DCAgUnZjAq7L5R) | 4:44 |
-| 98 | [United Hands \(West African Solo Kora Piece\)](https://open.spotify.com/track/45MCuEKnSf4AOLRmXqQLTd) | [Lamine Cissokho](https://open.spotify.com/artist/4yNX2MT20zgrgvC7rrsFv6), [Manish Pingle](https://open.spotify.com/artist/6IEbzmpRNL3IDQRSOdfUFB) | [New Continents](https://open.spotify.com/album/3AleC0olG2Nolct0kvgPf9) | 4:55 |
+| 98 | [United Hands \(West African Solo Kora Piece\)](https://open.spotify.com/track/45MCuEKnSf4AOLRmXqQLTd) | [Lamine Cissokho](https://open.spotify.com/artist/4yNX2MT20zgrgvC7rrsFv6), [Manish Pingle](https://open.spotify.com/artist/6IEbzmpRNL3IDQRSOdfUFB) | [New Continents](https://open.spotify.com/album/3AleC0olG2Nolct0kvgPf9) | 0:29 |
 | 99 | [Super étoile](https://open.spotify.com/track/2nzHSd02748Zu9eMpkG2Y3) | [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Vincent Ségal](https://open.spotify.com/artist/1DM0tMCA5GRAgG3qLCy67F) | [Musique de nuit](https://open.spotify.com/album/61LMReQLWRBAqRXsuL2mKM) | 3:55 |
 | 100 | [Mineon Ba](https://open.spotify.com/track/318mVHuDh5TgUiPWEngYsx) | [Tunde Jegede](https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ) | [The Elements \(Anciennes Mémoires, Nouveaux Récits\)](https://open.spotify.com/album/68BKHJnDhXfqXJ5adNqk70) | 4:12 |
 | 101 | [Kabou](https://open.spotify.com/track/5JhfGNUdmbI23BqJsACxg5) | [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY) | [At Peace](https://open.spotify.com/album/6bkKjwvykGpXwZoBUjmWh1) | 4:17 |

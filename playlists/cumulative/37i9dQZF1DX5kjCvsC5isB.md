@@ -4,7 +4,7 @@
 
 > These women are on the rise, and are rocking our worlds right now / Cover: The Warning
 
-206 songs - 10 hr 55 min - [published](https://open.spotify.com/playlist/1gH63Zpl7ewTwMhhkAimLS)
+206 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/1gH63Zpl7ewTwMhhkAimLS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [DISCIPLE](https://open.spotify.com/track/3irizuqK7YJJ8ArmTtMTt3) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [MAYDAY](https://open.spotify.com/album/2eM5RdClvGdtMXTnBDkGth) | 3:40 | 2021-10-08 | 2022-06-25 |
 | [Dismantled](https://open.spotify.com/track/01dPcsbep0CGpj4VZ2OWKc) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Dismantled](https://open.spotify.com/album/2pJDgYFNu0Qu1FgNDMDa9T) | 3:11 | 2022-06-24 |  |
 | [Double Down \- 2019 Mix](https://open.spotify.com/track/6sxtXvoNeOnavXqlIceWch) | [Slothrust](https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4) | [Double Down](https://open.spotify.com/album/1oUmvbtZKZZDWruIy5DdZ8) | 3:10 | 2021-07-30 | 2022-01-15 |
-| [Drink](https://open.spotify.com/track/59znVm3764cY4xwUaychMN) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Drink](https://open.spotify.com/album/2HLp80sHFphInGSgbTWdqd) | 3:42 | 2021-07-30 |  |
+| [Drink](https://open.spotify.com/track/59znVm3764cY4xwUaychMN) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Drink](https://open.spotify.com/album/2HLp80sHFphInGSgbTWdqd) | 0:29 | 2021-07-30 |  |
 | [Drown Out the World](https://open.spotify.com/track/397bbBQ4grzXqyWLuFk8iM) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Drown Out the World](https://open.spotify.com/album/2c31KcrBsECElK5kRYFH08) | 3:02 | 2022-06-24 |  |
 | [drugs with god](https://open.spotify.com/track/4X9fFaZhmYL6Qcf281GSra) | [Marisa Maino](https://open.spotify.com/artist/1Yy2yWVOAmDAxY7gWgYghv) | [drugs with god](https://open.spotify.com/album/3ZBnmsrLoGQYhwQMaoQoqD) | 3:15 | 2022-01-21 |  |
 | [dying on the inside](https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [dying on the inside](https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu) | 3:24 | 2022-03-04 |  |
@@ -124,7 +124,7 @@
 | [Make Me King](https://open.spotify.com/track/3nT1ztU0M99tBMuqoPjSye) | [The Haunt](https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p) | [Make Me King](https://open.spotify.com/album/3s31aWcv1dAQtvk5lkbl1d) | 3:29 | 2021-09-10 |  |
 | [Manners](https://open.spotify.com/track/6OFhypC7nf7O2BrBcBRHiw) | [Bad Waitress](https://open.spotify.com/artist/5h5YgUkm7vI0bdbQTyBGmb) | [No Taste](https://open.spotify.com/album/6DMgTKIxvkURDu03kPoIrq) | 2:57 | 2021-09-03 | 2022-04-02 |
 | [Mayhem](https://open.spotify.com/track/2LIuGi4rz0chV1yu5m0Exh) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Mayhem](https://open.spotify.com/album/5aa348jl2kEQVqxAgzcURH) | 2:40 | 2022-03-04 |  |
-| [Mercy](https://open.spotify.com/track/5vWAgdYgGN5WXzKvfNwx2E) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Mercy](https://open.spotify.com/album/6bLQpivQqQcSn5ACBdliRP) | 2:59 | 2022-03-04 |  |
+| [Mercy](https://open.spotify.com/track/5vWAgdYgGN5WXzKvfNwx2E) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Mercy](https://open.spotify.com/album/6bLQpivQqQcSn5ACBdliRP) | 0:29 | 2022-03-04 |  |
 | [Messed Up](https://open.spotify.com/track/51EU0HEsjbN3YudW5oPj08) | [KIITA](https://open.spotify.com/artist/1Z1d9w6X8vxMyZvM19a7vy) | [Messed Up](https://open.spotify.com/album/314gXwQOtMHSVDRzz6Jq43) | 2:54 | 2021-07-30 | 2022-04-02 |
 | [Modern Toy](https://open.spotify.com/track/5IdJI5FndzoRsmOwQ4iWqb) | [Glove](https://open.spotify.com/artist/4QbWweBoGYV4uFUQZeK1cy) | [Modern Toy](https://open.spotify.com/album/0WIiKL8HBB0muzYn5wHThY) | 3:34 | 2021-10-01 | 2022-01-22 |
 | [molotov \[OK\]](https://open.spotify.com/track/6m0vqKogDYkJwwwpvNjyJT) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [molotov \[OK\]](https://open.spotify.com/album/1zV1jnwaCLWeXw8JiuaPSQ) | 2:16 | 2021-11-05 | 2022-01-15 |

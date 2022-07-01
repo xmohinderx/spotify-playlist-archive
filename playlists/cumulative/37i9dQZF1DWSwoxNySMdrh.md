@@ -4,7 +4,7 @@
 
 > Listen Korean indie queen BOL4's melting voice.
 
-77 songs - 4 hr 22 min - [published](https://open.spotify.com/playlist/6D7jXJvFtGu8RpCwros1uN)
+77 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/6D7jXJvFtGu8RpCwros1uN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [6 o'clock](https://open.spotify.com/track/7C7KpoaATVxv9FN79oatJ2) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary 'Hidden Track'](https://open.spotify.com/album/2oSC6E6Rf64fnm5qz3ZApB) | 2:45 | 2022-04-20 |  |
 | [Atlantis Princess](https://open.spotify.com/track/3NFXgRyGUH3j0dQ9PB4rWC) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Our Beloved BoA \#2 \- SM STATION](https://open.spotify.com/album/3UQxkD9aJu22ihimovD0qs) | 3:31 | 2022-04-20 |  |
 | [Awkward](https://open.spotify.com/track/7pSZ5BoMd3sJT69cJwmNF1) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl), [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG), [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp), [20 Years of Age](https://open.spotify.com/artist/0KaZcu3pEVHfYOnB62eLFp), [Letter flow](https://open.spotify.com/artist/19jNQxmNBaXJlXdvLHtrHY), [Kim Ji Soo](https://open.spotify.com/artist/5se8HfkMw6SGJEqC5BhEZV), [WH3N](https://open.spotify.com/artist/4MSCkKz4xskCrvx49wOneF), [Boramiyu](https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN), [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Shofar Music Compilation Vol.3 'Awkward'](https://open.spotify.com/album/0o1G4mTK6d4SLt7aAY1qI1) | 3:11 | 2022-04-20 |  |
-| [Be Your Christmas \(feat\. BOL4\)](https://open.spotify.com/track/4zoiPeH0WyFLqStxsHtUHT) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp), [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Be Your Christmas](https://open.spotify.com/album/0PrF2IuvcBPb0ZKdL64stz) | 2:38 | 2022-04-20 |  |
+| [Be Your Christmas \(feat\. BOL4\)](https://open.spotify.com/track/4zoiPeH0WyFLqStxsHtUHT) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp), [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Be Your Christmas](https://open.spotify.com/album/0PrF2IuvcBPb0ZKdL64stz) | 0:29 | 2022-04-20 |  |
 | [Blank](https://open.spotify.com/track/65ZKz9PJvsCibepaWe0btg) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/1wnPosDt7DsSYDDLQ2XBdh) | 3:03 | 2022-04-20 |  |
 | [Blue](https://open.spotify.com/track/4rmCUodFiPbIIV9Vdof42A) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/4pUGLEuGG0PH9Slw3nt1Jn) | 3:06 | 2022-04-20 |  |
 | [Blue](https://open.spotify.com/track/3Rpg8NT8XK0H5KMrYUmKvW) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [LOVE](https://open.spotify.com/album/5EvQiidu2thxkBnZgvFKWx) | 3:08 | 2022-04-20 |  |

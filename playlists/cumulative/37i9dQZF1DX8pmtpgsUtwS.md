@@ -4,7 +4,7 @@
 
 > Weaving magic with their music, Indian Classical style\. Cover\- Shadow and Light
 
-86 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/1CYBz6V53XgiUSKHXNcFvJ)
+86 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/1CYBz6V53XgiUSKHXNcFvJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Antardrishti](https://open.spotify.com/track/4rNJBbAp5K7ZVcWuDohvbM) | [Manoj Desai](https://open.spotify.com/artist/7Kq8P0vYoCvqNQGvv1UjFn) | [Antardrishti](https://open.spotify.com/album/0lUBXdBbOGb5ztJdXSUd0M) | 4:32 | 2021-10-31\* |  |
 | [Awakning Main Sutti](https://open.spotify.com/track/0LnhLRxbd7xu9WHQEAaFT9) | [Shubha Mudgal](https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk) | [Sufi Lounge](https://open.spotify.com/album/7KaaYMtqk9kbtlIHdV8cmH) | 6:14 | 2021-10-31\* |  |
 | [Badarwa](https://open.spotify.com/track/7FkI3zkAGGL7q09PxpmpY4) | [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Badarwa](https://open.spotify.com/album/2IogLl0Rn9jq8Ru17JPihQ) | 3:44 | 2021-10-31\* |  |
-| [Baju Band](https://open.spotify.com/track/6pygtqf5cO7uiy9kgbY8KD) | [Sniti Mishra](https://open.spotify.com/artist/1N1zYh2GCcsgr0E4UfcRy2) | [Baju Band](https://open.spotify.com/album/5c80mJiH3c7rKKQ7HVp49f) | 4:18 | 2022-01-03 |  |
+| [Baju Band](https://open.spotify.com/track/6pygtqf5cO7uiy9kgbY8KD) | [Sniti Mishra](https://open.spotify.com/artist/1N1zYh2GCcsgr0E4UfcRy2) | [Baju Band](https://open.spotify.com/album/5c80mJiH3c7rKKQ7HVp49f) | 0:29 | 2022-01-03 |  |
 | [Bandish Blues \(Live\)](https://open.spotify.com/track/3UAPWTHJrFE3WH5yGqiK9d) | [The Darshan Doshi Trio](https://open.spotify.com/artist/4cw437ehAoUfzyWoeSYzn7), [Rhythm Shaw](https://open.spotify.com/artist/15VQCxbC4rQp2ooxlkd40D), [Avishek Dey](https://open.spotify.com/artist/66ZhGsImLYamCk5CYirr8p), [Varijashree Venugopal](https://open.spotify.com/artist/59GUnH7f4NlLkxSxtNNt0i) | [Live on Tour 2021](https://open.spotify.com/album/4675BHgjXPBAvMi1VtY2oA) | 5:19 | 2022-01-20 |  |
 | [Bhaag Bihag](https://open.spotify.com/track/18zLRuM8hi3rTT9jLpRvdU) | [Mrigya](https://open.spotify.com/artist/0p5FLesLYt17BYby6Vjn43) | [Mrigya](https://open.spotify.com/album/3mkbK0NtIxKaWqU6xcJhKE) | 8:05 | 2021-10-31\* | 2022-06-22 |
 | [Bihag](https://open.spotify.com/track/5pcewCfXI5xVVdDsPQbi4g) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Amira Gill](https://open.spotify.com/artist/3ZW8Uj45dj58KkgqkFBLIS), [Kavya Singh](https://open.spotify.com/artist/3wfNDxeCBMNpbxBhKOk6rm), [Nikhil Rao](https://open.spotify.com/artist/6OSQbUN4wMOyMEEBsG5u5S), [Sree Rag](https://open.spotify.com/artist/5tDlXhji6JOZh7wTiWK3h5) | [Bihag](https://open.spotify.com/album/3K2vEVbx5qQ3I4PYTWPdKy) | 5:53 | 2021-12-28 |  |
@@ -71,7 +71,7 @@
 | [Payaliya Jhankaar](https://open.spotify.com/track/0BOGGFXTMfUOfxrasa41hs) | [Anjali Gaikwad](https://open.spotify.com/artist/0moRS5SepzNxum0J5tpL1f), [Nandini Gaikwad](https://open.spotify.com/artist/78VN7vMgRbDesA3bL7Aokq) | [Payaliya Jhankaar](https://open.spotify.com/album/3WMKCc5jI7aYnxJEgwwMkn) | 6:05 | 2022-03-10 |  |
 | [Piya Bin](https://open.spotify.com/track/4YywWFs8sY6RTmrG6LtLbS) | [Neha Karode](https://open.spotify.com/artist/4GUWRLqQ58vGlU9aIfC9QN) | [Piya Bin](https://open.spotify.com/album/3zE8ltqvpzow4RixaSewqD) | 3:42 | 2021-10-31\* |  |
 | [Purvayi \(feat Papon\)](https://open.spotify.com/track/2FBsVowygJJv4lg32ZHk5l) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Purvayi](https://open.spotify.com/album/4Gi91Mb6apBXFFq0kIqQJ7) | 5:10 | 2021-10-31\* |  |
-| [Raag Arambol](https://open.spotify.com/track/7MWBLeU484rgu2KlDWoNca) | [N.O.T Playing](https://open.spotify.com/artist/0KYq0CgrsDybHfbLn4LWzv), [Shubham Bharti](https://open.spotify.com/artist/2UyCgL8Z7Y1wANtfzFVyHw), [Vibhor Mathur](https://open.spotify.com/artist/0dTOWWinij8WFStgZyYqKz) | [Raag Arambol](https://open.spotify.com/album/2lR2SKMpG4d8Tkf5uFsu60) | 4:58 | 2021-10-31\* |  |
+| [Raag Arambol](https://open.spotify.com/track/7MWBLeU484rgu2KlDWoNca) | [N.O.T Playing](https://open.spotify.com/artist/0KYq0CgrsDybHfbLn4LWzv), [Shubham Bharti](https://open.spotify.com/artist/2UyCgL8Z7Y1wANtfzFVyHw), [Vibhor Mathur](https://open.spotify.com/artist/0dTOWWinij8WFStgZyYqKz) | [Raag Arambol](https://open.spotify.com/album/2lR2SKMpG4d8Tkf5uFsu60) | 0:29 | 2021-10-31\* |  |
 | [Raahein](https://open.spotify.com/track/7CHGpAMZ4RuPXaZ0C811Ur) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Raahein](https://open.spotify.com/album/0C4I8cU0oiUgDjjtWzX9SX) | 4:37 | 2022-01-10 |  |
 | [Rang \- Raga Baageshri](https://open.spotify.com/track/2L5XVJGJBrDmG7W8ImYvwZ) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Abby V](https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX) | [Rang \- Raga Baageshri](https://open.spotify.com/album/1YsrnSEmy0IKl851qSY7fm) | 6:38 | 2021-10-31\* |  |
 | [Rang Daaroongi](https://open.spotify.com/track/6u2LwHmzVlHjaKkLJACLc3) | [Pooja Tiwari](https://open.spotify.com/artist/5MDvAeupq312AkEWTGblZf) | [Rang Daaroongi](https://open.spotify.com/album/3JsXkQlrySZM91ANIiqIDa) | 4:15 | 2022-03-23 | 2022-06-22 |

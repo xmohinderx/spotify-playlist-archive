@@ -6,6 +6,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Rock Sound",
+        "url": "https://open.spotify.com/album/2Lln8tQqVPOM0hTxNwYmvq"
+      },
+      "artists": [
+        {
+          "name": "Enigma!",
+          "url": "https://open.spotify.com/artist/735Su6vORHKZEN8Hh8pM3H"
+        }
+      ],
+      "date_added": "2021-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236933,
+      "name": "69",
+      "url": "https://open.spotify.com/track/5dMnjdBx6dWwBwrdqVSFBp"
+    },
+    {
+      "album": {
         "name": "15 Grandes Exitos",
         "url": "https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR"
       },
@@ -35,7 +53,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 180226,
       "name": "Acapulco Dorado",
       "url": "https://open.spotify.com/track/5ytsmoEtQMsPYfFfxgZCd2"
@@ -57,6 +75,42 @@
       "duration_ms": 210616,
       "name": "Adopta un \u00c1rbol",
       "url": "https://open.spotify.com/track/1NRWS2eUmmCtk0ttBxTHWJ"
+    },
+    {
+      "album": {
+        "name": "\u00a1Aqu\u00ed Est\u00e1 el Futuro! Los \u00c9xitos de Hoy Con el Grupo del Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/5qOOdRLpmHtQr45DSujCbe"
+      },
+      "artists": [
+        {
+          "name": "Las Ventanas",
+          "url": "https://open.spotify.com/artist/44cgJrhaBld32Xou7xno1x"
+        }
+      ],
+      "date_added": "2021-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187120,
+      "name": "Alto, M\u00e1s Alto",
+      "url": "https://open.spotify.com/track/4VMrcttS6dVnPWMal6y04r"
+    },
+    {
+      "album": {
+        "name": "Baby, Don't Let Me",
+        "url": "https://open.spotify.com/album/6sqWKQdhUsiksa4gXVRcdF"
+      },
+      "artists": [
+        {
+          "name": "La Division Del Norte",
+          "url": "https://open.spotify.com/artist/4vWM7TI7ArFXtfFFACYY9p"
+        }
+      ],
+      "date_added": "2021-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301139,
+      "name": "Baby, Don't Let Me",
+      "url": "https://open.spotify.com/track/3TAQxgTxSMaznFC1MHa0Xd"
     },
     {
       "album": {
@@ -90,9 +144,27 @@
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 264672,
+      "duration_ms": 29048,
       "name": "Bajo el Sol y Frente a Dios",
       "url": "https://open.spotify.com/track/0l7HozUhjIfjzVhRcC1Say"
+    },
+    {
+      "album": {
+        "name": "Rock en Av\u00e1ndaro Valle de Bravo",
+        "url": "https://open.spotify.com/album/63B4lWimPrXKs9XfNfAgRa"
+      },
+      "artists": [
+        {
+          "name": "La Fachada De Piedra",
+          "url": "https://open.spotify.com/artist/4alM2y1QDZQ9NkVgdmO0f9"
+        }
+      ],
+      "date_added": "2021-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138759,
+      "name": "Better Watch What You Do",
+      "url": "https://open.spotify.com/track/2vK1U3UP6CRt4j8TybtIBD"
     },
     {
       "album": {
@@ -144,7 +216,7 @@
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 198666,
+      "duration_ms": 29048,
       "name": "Cambia, Cambia",
       "url": "https://open.spotify.com/track/5naHaIvjo1Cw1O4ASdktgG"
     },
@@ -161,7 +233,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 313295,
       "name": "Change of Mind",
       "url": "https://open.spotify.com/track/2RUqjoWkthUIWyCfWnlyoi"
@@ -183,6 +255,24 @@
       "duration_ms": 210720,
       "name": "Chavo de onda",
       "url": "https://open.spotify.com/track/21eBjW0qDhxhqSWF7RTVp8"
+    },
+    {
+      "album": {
+        "name": "Soul Latino",
+        "url": "https://open.spotify.com/album/0G9ib5qvTV85OSIQlAW9Pj"
+      },
+      "artists": [
+        {
+          "name": "Rabbits And Carrots",
+          "url": "https://open.spotify.com/artist/5FjZWiU4wLCmX0QBaMKhwQ"
+        }
+      ],
+      "date_added": "2021-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307408,
+      "name": "Ciudad Hippie",
+      "url": "https://open.spotify.com/track/5LdkkBK0i72xJku8NXkXcw"
     },
     {
       "album": {
@@ -215,7 +305,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 249106,
       "name": "Do What Ever You Want It\u00b4s All Rigth",
       "url": "https://open.spotify.com/track/6ZV9QXg7Jk3sh3n1PnOWtz"
@@ -287,7 +377,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 264161,
       "name": "Ella Fue",
       "url": "https://open.spotify.com/track/5tTZCXy4lOapYDw7kMPRaX"
@@ -305,10 +395,28 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 258293,
       "name": "Felicidad",
       "url": "https://open.spotify.com/track/69zNya4MS99hNuwBXZ46MT"
+    },
+    {
+      "album": {
+        "name": "El Rollo de la Fresa \u00c1cida",
+        "url": "https://open.spotify.com/album/10An8pPDBqBxhAu1g0KzKG"
+      },
+      "artists": [
+        {
+          "name": "La Fresa \u00c1cida",
+          "url": "https://open.spotify.com/artist/7CmYoo2ydmPuGMVTIX4eUp"
+        }
+      ],
+      "date_added": "2021-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179240,
+      "name": "Flores en Tu Pelo (Sn. Francisco \"Flowers In Your Hair\")",
+      "url": "https://open.spotify.com/track/6V9FnhQ6JwhFabU2CHNbcN"
     },
     {
       "album": {
@@ -327,6 +435,42 @@
       "duration_ms": 173356,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/3AYFCwZNWpArhFGHJnJhjw"
+    },
+    {
+      "album": {
+        "name": "Super Onda Chicana",
+        "url": "https://open.spotify.com/album/3Mg8dzenMcNgMFqzsu1D5L"
+      },
+      "artists": [
+        {
+          "name": "Los Clicks",
+          "url": "https://open.spotify.com/artist/4jhBjSwLIJiGnOkhhgFR3H"
+        }
+      ],
+      "date_added": "2021-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330328,
+      "name": "Gente Tonta",
+      "url": "https://open.spotify.com/track/5tVlYVcUdr3r0zF5ER5BK4"
+    },
+    {
+      "album": {
+        "name": "El Ritual",
+        "url": "https://open.spotify.com/album/5BUdMrFRo924docI7JKqmo"
+      },
+      "artists": [
+        {
+          "name": "EL RITUAL",
+          "url": "https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT"
+        }
+      ],
+      "date_added": "2021-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 29048,
+      "name": "Groupie",
+      "url": "https://open.spotify.com/track/5CNo2B3LgMJgheq3ikhVir"
     },
     {
       "album": {
@@ -363,6 +507,24 @@
       "duration_ms": 115853,
       "name": "In-a-Gadda-da-Vida",
       "url": "https://open.spotify.com/track/27bwyWQYuTFwvvks3JkeF7"
+    },
+    {
+      "album": {
+        "name": "Rock en Av\u00e1ndaro Valle de Bravo",
+        "url": "https://open.spotify.com/album/63B4lWimPrXKs9XfNfAgRa"
+      },
+      "artists": [
+        {
+          "name": "La Fachada De Piedra",
+          "url": "https://open.spotify.com/artist/4alM2y1QDZQ9NkVgdmO0f9"
+        }
+      ],
+      "date_added": "2021-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196372,
+      "name": "It's Too Bad",
+      "url": "https://open.spotify.com/track/18TQrAMqV0NsSatEnHrTRb"
     },
     {
       "album": {
@@ -438,6 +600,24 @@
     },
     {
       "album": {
+        "name": "Super Onda Chicana",
+        "url": "https://open.spotify.com/album/3Mg8dzenMcNgMFqzsu1D5L"
+      },
+      "artists": [
+        {
+          "name": "La Quinta Visi\u00f3n",
+          "url": "https://open.spotify.com/artist/0WPOl666SCqAvU83Tzqa4I"
+        }
+      ],
+      "date_added": "2021-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233124,
+      "name": "Lamentos de un Mico",
+      "url": "https://open.spotify.com/track/1Uq3pL25m0UQ7ATYQAIdUb"
+    },
+    {
+      "album": {
         "name": "Peace and Love",
         "url": "https://open.spotify.com/album/6iNEmKhA3QO1yBo2syHKr2"
       },
@@ -449,7 +629,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 417494,
       "name": "Latin Feelin'",
       "url": "https://open.spotify.com/track/4bj6HSXySYNpMO2f38P8Kp"
@@ -467,7 +647,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 276373,
       "name": "Let's Make It Now (Hag\u00e1moslo Ahora)",
       "url": "https://open.spotify.com/track/7pKFG1Hlr37cS8TLJCs27j"
@@ -504,7 +684,7 @@
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 247453,
+      "duration_ms": 29048,
       "name": "Lost In My World (Perdido en Mi Mundo)",
       "url": "https://open.spotify.com/track/7CsV5sRCCpayqPhmtJoNTU"
     },
@@ -557,7 +737,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 125982,
       "name": "Mi Mami Dijo",
       "url": "https://open.spotify.com/track/6SqepgrJ8ThiNLmZZW0IcT"
@@ -575,10 +755,28 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 163386,
       "name": "Mony Mony",
       "url": "https://open.spotify.com/track/4roB2QW6dbmd799xB21dQX"
+    },
+    {
+      "album": {
+        "name": "Regreso al Origen",
+        "url": "https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ciruela",
+          "url": "https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S"
+        }
+      ],
+      "date_added": "2021-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192893,
+      "name": "Nada Nos Detendr\u00e1",
+      "url": "https://open.spotify.com/track/6bpu24bVKDCEyFHdpcNEMA"
     },
     {
       "album": {
@@ -593,7 +791,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 283226,
       "name": "Nadie En Especial",
       "url": "https://open.spotify.com/track/0UVNcbB9W1h1fZGyhef3Nd"
@@ -629,10 +827,28 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 331333,
       "name": "No One to Depend On",
       "url": "https://open.spotify.com/track/3pPnys7mGV0DQkQoxmovXi"
+    },
+    {
+      "album": {
+        "name": "Abraxas",
+        "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "date_added": "2021-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256933,
+      "name": "Oye Como Va",
+      "url": "https://open.spotify.com/track/5u6y4u5EgDv0peILf60H5t"
     },
     {
       "album": {
@@ -651,6 +867,24 @@
       "duration_ms": 206106,
       "name": "Padre",
       "url": "https://open.spotify.com/track/0Pfmcd69ZHAutoGFXIMdfo"
+    },
+    {
+      "album": {
+        "name": "Peace and Love",
+        "url": "https://open.spotify.com/album/6iNEmKhA3QO1yBo2syHKr2"
+      },
+      "artists": [
+        {
+          "name": "Peace and Love",
+          "url": "https://open.spotify.com/artist/5wDBmKAwsm1Tp69yh3xV2Z"
+        }
+      ],
+      "date_added": "2021-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139459,
+      "name": "Peace and Love",
+      "url": "https://open.spotify.com/track/4Ngt4pSPtlMWOpuNkdRotF"
     },
     {
       "album": {
@@ -726,6 +960,60 @@
     },
     {
       "album": {
+        "name": "Regreso al Origen",
+        "url": "https://open.spotify.com/album/64RtO5TpcdbVol35dsP4L1"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ciruela",
+          "url": "https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S"
+        }
+      ],
+      "date_added": "2021-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237320,
+      "name": "Regreso al Origen",
+      "url": "https://open.spotify.com/track/2IlUZ4U52jCcE5oRebAnbK"
+    },
+    {
+      "album": {
+        "name": "Siempre Fuimos Companeros",
+        "url": "https://open.spotify.com/album/6ESkpsPJB3bMjOtYLfTQ3Y"
+      },
+      "artists": [
+        {
+          "name": "Los Chijuas",
+          "url": "https://open.spotify.com/artist/5nWkamOwLJmb4TReNqnCEp"
+        }
+      ],
+      "date_added": "2021-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157663,
+      "name": "Rio Amarillo",
+      "url": "https://open.spotify.com/track/7gCvPhzQ8X9Ooz9OfIvGVn"
+    },
+    {
+      "album": {
+        "name": "Rock en Av\u00e1ndaro Valle de Bravo",
+        "url": "https://open.spotify.com/album/63B4lWimPrXKs9XfNfAgRa"
+      },
+      "artists": [
+        {
+          "name": "La Fachada De Piedra",
+          "url": "https://open.spotify.com/artist/4alM2y1QDZQ9NkVgdmO0f9"
+        }
+      ],
+      "date_added": "2021-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187386,
+      "name": "Roaming",
+      "url": "https://open.spotify.com/track/1s5KYOR8PiPA55bxfhFvz3"
+    },
+    {
+      "album": {
         "name": "Colecci\u00f3n Avandaro",
         "url": "https://open.spotify.com/album/52secMI8PGxRR44sNXPkcP"
       },
@@ -737,7 +1025,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 482510,
       "name": "Satan\u00e1s",
       "url": "https://open.spotify.com/track/6hG2T8xkFaCTscKbAIPYYm"
@@ -755,7 +1043,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 140200,
       "name": "Save My Soul (Salva Mi Alma)",
       "url": "https://open.spotify.com/track/546M2aqzXYEnFIDrrmGykK"
@@ -791,10 +1079,46 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 184163,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/44ixJpyPZYW5pgwgfTsSaR"
+    },
+    {
+      "album": {
+        "name": "Batiz And Hair",
+        "url": "https://open.spotify.com/album/2WUMpQoQBHEhQLT5QcgXGL"
+      },
+      "artists": [
+        {
+          "name": "Javier B\u00e1tiz",
+          "url": "https://open.spotify.com/artist/6ilGdhbF4bK00hzVs5fHt1"
+        }
+      ],
+      "date_added": "2021-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359492,
+      "name": "The Best I Can",
+      "url": "https://open.spotify.com/track/5f20wNhDfUOkjFyemzVXuj"
+    },
+    {
+      "album": {
+        "name": "La Onda Pesada",
+        "url": "https://open.spotify.com/album/7hJprvbxKW5vanPs6BC4Sq"
+      },
+      "artists": [
+        {
+          "name": "Ernan Roch",
+          "url": "https://open.spotify.com/artist/7JKMfqiuVmYy2HA1Qa0aM4"
+        }
+      ],
+      "date_added": "2021-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267082,
+      "name": "The Train",
+      "url": "https://open.spotify.com/track/2NIALKJKHJM2EhGl6gUceq"
     },
     {
       "album": {
@@ -809,10 +1133,28 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 281773,
       "name": "Tiempo Perdido",
       "url": "https://open.spotify.com/track/1PBS2zYINZFFs3Vt8AFfPL"
+    },
+    {
+      "album": {
+        "name": "Super Onda Chicana",
+        "url": "https://open.spotify.com/album/3Mg8dzenMcNgMFqzsu1D5L"
+      },
+      "artists": [
+        {
+          "name": "Tinta Blanca",
+          "url": "https://open.spotify.com/artist/7hTAxPi8RHeCyx9fZImNpF"
+        }
+      ],
+      "date_added": "2021-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348446,
+      "name": "Todo Va a Cambiar",
+      "url": "https://open.spotify.com/track/5HDGih43ec6WSYusNEK20z"
     },
     {
       "album": {
@@ -827,7 +1169,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 230973,
       "name": "Tommy Lyz",
       "url": "https://open.spotify.com/track/2MWlye2Nga64EmS28igJs7"
@@ -845,7 +1187,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 207346,
       "name": "T\u00fa Eres Mi Amor",
       "url": "https://open.spotify.com/track/6W1u2Gd9UfQABT3d2BToHi"
@@ -863,7 +1205,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 223600,
       "name": "Under The Sing Of Aquarius - (Bajo El Signo De Acuario)",
       "url": "https://open.spotify.com/track/5gTcAR7egTQSG3vRY70iFE"
@@ -899,7 +1241,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 199354,
       "name": "We Must Say Goodbye - En Vivo",
       "url": "https://open.spotify.com/track/1uQMSM1i1aXwQwHjVzkW2A"

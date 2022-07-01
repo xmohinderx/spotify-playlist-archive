@@ -248,7 +248,7 @@
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 196625,
+      "duration_ms": 29048,
       "name": "Amboise",
       "url": "https://open.spotify.com/track/1aIgoyzrFUzUwJGTlUy4kN"
     },
@@ -1791,7 +1791,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 133333,
       "name": "graffiti tape",
       "url": "https://open.spotify.com/track/0XArs5k4n9iHyNMwAsqpEX"
@@ -1953,7 +1953,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 85354,
       "name": "home styling",
       "url": "https://open.spotify.com/track/43Aw7i0PCijYdMeVCs3i5v"
@@ -2044,7 +2044,7 @@
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 159758,
+      "duration_ms": 29048,
       "name": "Ikea At Dusk",
       "url": "https://open.spotify.com/track/0b7acSt2NsF35xwFXj3ftl"
     },
@@ -2296,7 +2296,7 @@
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 134117,
+      "duration_ms": 29048,
       "name": "Lagoon",
       "url": "https://open.spotify.com/track/0bVyfYQTJoFbj1xR3ZzzdE"
     },
@@ -2873,7 +2873,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 169411,
       "name": "Moon Shine",
       "url": "https://open.spotify.com/track/0SAnO4rUQJEC4IBxozew6W"
@@ -2971,6 +2971,24 @@
       "duration_ms": 141567,
       "name": "Mystiqa",
       "url": "https://open.spotify.com/track/4RwJDAOh06mjuEGXjr9JbL"
+    },
+    {
+      "album": {
+        "name": "natare",
+        "url": "https://open.spotify.com/album/2KSh91ai8GWpTqbqgMP2Lf"
+      },
+      "artists": [
+        {
+          "name": "digitalluc",
+          "url": "https://open.spotify.com/artist/4WT5TNNUvgRLjAiWce3K5z"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117073,
+      "name": "natare",
+      "url": "https://open.spotify.com/track/5aE1q3Rc1iiyqvUBSw1PVj"
     },
     {
       "album": {
@@ -4308,6 +4326,28 @@
     },
     {
       "album": {
+        "name": "Summertime Sangria",
+        "url": "https://open.spotify.com/album/02Kt384yF4OiY627RTnKQU"
+      },
+      "artists": [
+        {
+          "name": "Trell Daniels",
+          "url": "https://open.spotify.com/artist/1CEqyczKKYNhzgqCjH7G7Q"
+        },
+        {
+          "name": "Lost Files",
+          "url": "https://open.spotify.com/artist/0NA9RjFnSsIlj1FUMhfuow"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141294,
+      "name": "Summertime Sangria",
+      "url": "https://open.spotify.com/track/65WmN0rRJJo5CXosLkZBuE"
+    },
+    {
+      "album": {
         "name": "Sun-Drenched",
         "url": "https://open.spotify.com/album/41DGf5KFsNow1BNG5CBjlb"
       },
@@ -4486,7 +4526,7 @@
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 147272,
+      "duration_ms": 29048,
       "name": "The Monster Under My Bed",
       "url": "https://open.spotify.com/track/6e1CdbMZtce6YpTxDJnNc5"
     },
@@ -4658,6 +4698,24 @@
     },
     {
       "album": {
+        "name": "patterns",
+        "url": "https://open.spotify.com/album/2T4Lh1znFQFCQTzozoO6aX"
+      },
+      "artists": [
+        {
+          "name": "_tillus",
+          "url": "https://open.spotify.com/artist/2Zli2TlUC3DYWQYAM8Z56y"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58378,
+      "name": "tullio",
+      "url": "https://open.spotify.com/track/6xcfCLiTvMlbjx6wIJK1cx"
+    },
+    {
+      "album": {
         "name": "Astor Place",
         "url": "https://open.spotify.com/album/71nfxEIhkcqhV2oI7o14Ha"
       },
@@ -4792,6 +4850,24 @@
     },
     {
       "album": {
+        "name": "Warfare",
+        "url": "https://open.spotify.com/album/2vScqFWoZa1wkxbepBK005"
+      },
+      "artists": [
+        {
+          "name": "Ariel T",
+          "url": "https://open.spotify.com/artist/1jV6ZVJ5WPoWiYZfOolQV6"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187532,
+      "name": "Warfare",
+      "url": "https://open.spotify.com/track/2fpZRTvoJy6bKJyPQMF7S8"
+    },
+    {
+      "album": {
         "name": "Waxing",
         "url": "https://open.spotify.com/album/6O7UB1QfYDyuh4fDyTbVs8"
       },
@@ -4839,10 +4915,32 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 101647,
       "name": "Windmill",
       "url": "https://open.spotify.com/track/3b9dGQOud5zYbwsiKy03Rn"
+    },
+    {
+      "album": {
+        "name": "Wintertime",
+        "url": "https://open.spotify.com/album/5xPUqYBbJ4hplgw4ThMvO5"
+      },
+      "artists": [
+        {
+          "name": "David Forest",
+          "url": "https://open.spotify.com/artist/2Q4TYgWnOjLCaZTXXU2AD9"
+        },
+        {
+          "name": "Eli Kazah",
+          "url": "https://open.spotify.com/artist/003ScA1EGXbCLpKFucHXb3"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138336,
+      "name": "Wintertime",
+      "url": "https://open.spotify.com/track/2e9V0LuZIz7fLJRgoRCOvs"
     },
     {
       "album": {

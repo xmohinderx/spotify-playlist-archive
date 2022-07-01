@@ -4,7 +4,7 @@
 
 > Fancy belting out your favourite Korean songs? \(Cover: Kim Min Seok\(김민석\)\) \(지금 노래방에서 가장 핫한 노래들을 만나보세요!\)
 
-203 songs - 13 hr 15 min - [published](https://open.spotify.com/playlist/6P4RKNAmjGjcVbVihp09Om)
+203 songs - 13 hr 0 min - [published](https://open.spotify.com/playlist/6P4RKNAmjGjcVbVihp09Om)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [If You Were Still Here](https://open.spotify.com/track/63w41hGHMcWbhuK0FxjMKe) | [Sojeong](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [If You Were Still Here](https://open.spotify.com/album/4DD1XxITlzZpkInzIJBaIb) | 3:24 | 2022-02-17 |  |
 | [It's love](https://open.spotify.com/track/4VZw0oTcsBxgdcbe1Pmntg) | [Mose](https://open.spotify.com/artist/3D0P52LtleMAK6BlV94ZM2) | [Love, deep longing](https://open.spotify.com/album/1hZ1wLaogDtyLFXAjZg2kX) | 4:16 | 2022-02-17 |  |
 | [Jopping](https://open.spotify.com/track/5WrEilrRI5cIW0DxMvQYPZ) | [SuperM](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) | [SuperM \- The 1st Mini Album](https://open.spotify.com/album/1C1qYeSC9RdgbrKXpZCTSJ) | 4:11 | 2021-03-11 | 2022-02-18 |
-| [karaoke](https://open.spotify.com/track/0afoCntatBcJGjz525RxBT) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [Jang Beom June 3rd](https://open.spotify.com/album/6sQXDlp5kXH6DKJuMYTqFc) | 3:59 | 2022-02-17 |  |
+| [karaoke](https://open.spotify.com/track/0afoCntatBcJGjz525RxBT) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [Jang Beom June 3rd](https://open.spotify.com/album/6sQXDlp5kXH6DKJuMYTqFc) | 0:29 | 2022-02-17 |  |
 | [Kill This Love](https://open.spotify.com/track/0M98PvIvx7vZ8LDpzMw1hB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Kill This Love](https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO) | 3:09 | 2021-03-11 | 2022-02-18 |
 | [La Vie en Rose](https://open.spotify.com/track/1fRaznZsAB2i63TtmYv2Hc) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [COLOR\*IZ](https://open.spotify.com/album/7tggzWGzVusg9SEKqbJYpt) | 3:38 | 2021-03-11 | 2022-02-18 |
 | [Last Love](https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [SOLISTA Part.2](https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA) | 4:11 | 2022-02-17 |  |
@@ -140,7 +140,7 @@
 | [please love her](https://open.spotify.com/track/4YQGPR4KGFMnSS8lUQPdbs) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [Stand alone](https://open.spotify.com/album/67ibv6vTadhuxdFgZ4eV4i) | 4:19 | 2022-02-17 |  |
 | [RHYTHM TA](https://open.spotify.com/track/7czyJpFnAl18Bwye8wETky) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [DEBUT HALF ALBUM 'WELCOME BACK'](https://open.spotify.com/album/5CwTN4j1Ai5BfF5J9c8LHw) | 3:47 | 2021-03-11 | 2022-02-18 |
 | [Rollin'](https://open.spotify.com/track/2VJOpzv5sBpstCX9venJr5) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/0mOAG4DOqKvV7uwDhlpFMm) | 3:17 | 2022-02-17 |  |
-| [Sad Drinking 이별주](https://open.spotify.com/track/483lZEJ94T2Mfn0V8vaTx0) | [Hwang In Wook](https://open.spotify.com/artist/56U7IcfF1h54ZxOPqjEnjq) | [Sad Drinking 이별주](https://open.spotify.com/album/1rr50Nd8RUQ9K7GvcrD7Cn) | 3:25 | 2022-02-17 |  |
+| [Sad Drinking 이별주](https://open.spotify.com/track/483lZEJ94T2Mfn0V8vaTx0) | [Hwang In Wook](https://open.spotify.com/artist/56U7IcfF1h54ZxOPqjEnjq) | [Sad Drinking 이별주](https://open.spotify.com/album/1rr50Nd8RUQ9K7GvcrD7Cn) | 0:29 | 2022-02-17 |  |
 | [Savage](https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:58 | 2022-02-17 |  |
 | [See you later](https://open.spotify.com/track/49YuuWJfFdTVQVAhIKJayp) | [Jang Deok Cheol](https://open.spotify.com/artist/7bxWk0Z4S3IFnHX3LOBktS) | [See you later](https://open.spotify.com/album/3rCEmiDMGkp5ErKv218n6k) | 3:36 | 2022-02-17 |  |
 | [Senorita](https://open.spotify.com/track/0q6boCcLaWYPIy2vOsksFg) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I made](https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG) | 3:17 | 2021-03-11 | 2022-02-18 |
@@ -156,7 +156,7 @@
 | [Still love you](https://open.spotify.com/track/0ih4PcU40uucAVEbD2486u) | [LEE HONG GI](https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4), [Yoo Hwe Seung](https://open.spotify.com/artist/5ENwCCr5vpgcwr4HgTmWGs) | [FNC LAB 'Still love you'](https://open.spotify.com/album/0tlT3SCG5H1QpS3F6cQtlq) | 4:18 | 2022-02-17 |  |
 | [Suddenly](https://open.spotify.com/track/7gXMkqirKU23zgdlSAb00a) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Bipolar](https://open.spotify.com/album/7v35vbIFXpCNqRcCmciH0v) | 2:36 | 2022-02-17 |  |
 | [Tempo](https://open.spotify.com/track/4EjUFjzi4ErWjklOA3Aslu) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON’T MESS UP MY TEMPO – The 5th Album](https://open.spotify.com/album/0aMI0Kctp6xwSnRFakNF3D) | 3:44 | 2021-03-11 | 2022-02-18 |
-| [The Lonely Bloom Stands Alone](https://open.spotify.com/track/6ylw0U4J3RFj0NoVCMZj93) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [The Lonely Bloom Stands Alone](https://open.spotify.com/album/0r2zfboB7deSVphi3HGk8Z) | 3:19 | 2022-02-17 |  |
+| [The Lonely Bloom Stands Alone](https://open.spotify.com/track/6ylw0U4J3RFj0NoVCMZj93) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [The Lonely Bloom Stands Alone](https://open.spotify.com/album/0r2zfboB7deSVphi3HGk8Z) | 0:29 | 2022-02-17 |  |
 | [The Moment My Heart \(She is My Type♡ X KYUHYUN\)](https://open.spotify.com/track/2wmFuAxSzNVgTSVjGAoiJ5) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [The Moment My Heart \(She is My Type♡ X KYUHYUN\)](https://open.spotify.com/album/4i1sZysnsbV5bIAyALa04J) | 3:53 | 2022-02-17 |  |
 | [The Red Knot](https://open.spotify.com/track/4p0aRX6U77LV48n0tWvYoV) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Ahn Ye Eun](https://open.spotify.com/album/5ttMuBVsDu4z4LZ1O7VC1u) | 4:30 | 2022-02-17 |  |
 | [The Snowman](https://open.spotify.com/track/6HgeeiHqVpxxFCB0bjBRT6) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Spring Again](https://open.spotify.com/album/1lyirN2uEAOt9M6CvkY9Rk) | 3:56 | 2022-02-17 |  |
@@ -185,7 +185,7 @@
 | [Your regards](https://open.spotify.com/track/4ivi7tEWb6FEiHrVIL2rgj) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [Your regards](https://open.spotify.com/album/65I5KEWJNnfRe8sSNBoeog) | 3:59 | 2022-02-17 |  |
 | [Your Shampoo Scent In The Flowers](https://open.spotify.com/track/2woXriAP3J52r5KlutnKzr) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [Be Melodramatic \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/54fwdeqyCaK4rIViQD8XXh) | 2:48 | 2022-02-17 |  |
 | [Zimzalabim](https://open.spotify.com/track/0GUbhhI5fRx7BlqlqlhjuB) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Day 1](https://open.spotify.com/album/2nLEiP268mSFZHW5dajM4R) | 3:10 | 2021-03-11 | 2022-02-18 |
-| [미워요 I Hate You](https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [정인 Jung In from Andromeda](https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD) | 3:22 | 2022-02-17 |  |
+| [미워요 I Hate You](https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [정인 Jung In from Andromeda](https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD) | 0:29 | 2022-02-17 |  |
 | [가시](https://open.spotify.com/track/7BHijuU3OSoh4WnLfmZfU5) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [Buzz Effect](https://open.spotify.com/album/3pax3J1b9jlG8GHdPQ8QU9) | 4:01 | 2022-02-17 |  |
 | [고해](https://open.spotify.com/track/1cEODRpsqyAvzQvYJnDcGu) | [Lim Jae Bum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Return To The Rock](https://open.spotify.com/album/4zDVnS4MFbmPNteEQBknoB) | 5:02 | 2022-02-17 |  |
 | [광화문에서 \(At Gwanghwamun\)](https://open.spotify.com/track/1YqGY2dW0a9ocyxaB5PtrR) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [광화문에서 At Gwanghwamun \- The 1st Mini Album](https://open.spotify.com/album/0hfvOkRJnV2eVhdy41bbvv) | 4:42 | 2022-02-17 |  |
@@ -197,7 +197,7 @@
 | [눈,코,입\(Eyes, Noes, Lips\)](https://open.spotify.com/track/2orE4MtP5Oy0ynoA1KkF3t) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [RISE](https://open.spotify.com/album/27XDcBXIllsjdrwMoOM5Wm) | 3:49 | 2021-03-11 | 2022-02-18 |
 | [눈의 꽃](https://open.spotify.com/track/2fRFwWwZG7Qfkui7GcxTMy) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Sorry, I Love You \(Original Television Soundtrack\)](https://open.spotify.com/album/6n02ahS5uuUlGCZCwDcGf3) | 5:39 | 2022-02-17 |  |
 | [달라달라 DALLA DALLA](https://open.spotify.com/track/6G7DuXoSGeAf6BZivJdEjF) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z Different](https://open.spotify.com/album/2gHd5bCrj42s8nwwXBALd4) | 3:19 | 2021-03-11 | 2022-02-18 |
-| [벌써 일년](https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:27 | 2022-02-17 |  |
+| [벌써 일년](https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 0:29 | 2022-02-17 |  |
 | [사랑합니다...](https://open.spotify.com/track/4t1DWpmfKVCv4ValVniwfc) | [Tim](https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY) | [영민](https://open.spotify.com/album/3yQ7TxvLguE04t7eTYE7mF) | 3:48 | 2022-02-17 |  |
 | [서툰 이별을 하려해](https://open.spotify.com/track/4so85rrFc5TCgT6rd2vweV) | [Yountoven](https://open.spotify.com/artist/13PsdrWmNx5EcibArzkbcO), [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [서툰 이별을 하려해](https://open.spotify.com/album/67bM1eAH4Sn29yE3wOeiJc) | 4:01 | 2022-02-17 |  |
 | [스물다섯, 스물하나](https://open.spotify.com/track/3mQwOUjViw1cpwUYugndPV) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Goodbye, grief.](https://open.spotify.com/album/2EPyeRDl7LqjJ3z3QvP4Cg) | 4:44 | 2022-02-17 |  |

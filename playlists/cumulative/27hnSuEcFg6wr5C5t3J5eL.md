@@ -4,7 +4,7 @@
 
 > 
 
-50 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/59nGt7ih3nUT1OvJGVb3XR)
+50 songs - 3 hr 21 min - [published](https://open.spotify.com/playlist/59nGt7ih3nUT1OvJGVb3XR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Back & Forth](https://open.spotify.com/track/45wneA2j0Z0WMnYNDO6Ad0) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Age Ain't Nothing But A Number](https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl) | 3:51 | 2013-06-27 |  |
 | [Because Of Love](https://open.spotify.com/track/40kJxdeSmQieEgTgShXumm) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Janet](https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg) | 4:20 | 2013-06-27 |  |
 | [Breathe Again](https://open.spotify.com/track/1xFliXOpcu7E89AsDAZ7JV) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Toni Braxton](https://open.spotify.com/album/73ojqvZakvdkBxSg9pyPqz) | 4:29 | 2013-06-27 |  |
-| [Bump n' Grind](https://open.spotify.com/track/2OeSwSbwlmn9u8SsutfxPO) | [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ) | [The R\. In R&B Collection: Volume 1](https://open.spotify.com/album/0mfaOc6KL6Kak3DYUyjNVl) | 4:15 | 2013-06-27 |  |
+| [Bump n' Grind](https://open.spotify.com/track/2OeSwSbwlmn9u8SsutfxPO) | [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ) | [The R\. In R&B Collection: Volume 1](https://open.spotify.com/album/0mfaOc6KL6Kak3DYUyjNVl) | 0:29 | 2013-06-27 |  |
 | [Can We Talk](https://open.spotify.com/track/5vXEj2R1LZFG4D5U70jXnz) | [Tevin Campbell](https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE) | [Rhino Hi\-Five: Tevin Campbell](https://open.spotify.com/album/1xhsYljQkbDeXaBljIc5Ce) | 4:44 | 2013-06-27 |  |
 | [Can You Feel the Love Tonight \- End Title/ From "The Lion King"/Soundtrack Version](https://open.spotify.com/track/0EANX0OVKSCcmarY50Xa4p) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 4:01 | 2013-06-27 |  |
 | [Cantaloop \(Flip Fantasia\)](https://open.spotify.com/track/2OGBDP8x4tAmljSGAQb8BG) | [Us3](https://open.spotify.com/artist/4LtIfuFeAamus9OOItuWDD), [Rahsaan](https://open.spotify.com/artist/2cNCyL3WSlAatld5duatyD), [Gerard Presencer](https://open.spotify.com/artist/5A8UenAZRv51yZVv13nFQo) | [90's Hits](https://open.spotify.com/album/0eADZyYFxszPClbtlQcDju) | 4:39 | 2013-06-27 |  |
@@ -50,7 +50,7 @@
 | [So Much in Love](https://open.spotify.com/track/7i5rgcLujd8GZo50Xhmesb) | [All\-4\-One](https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG) | [Rhino Hi\-Five: All\-4\-One](https://open.spotify.com/album/0OrEq5JeWVzislPoSg0fzZ) | 3:32 | 2013-06-27 |  |
 | [Stay](https://open.spotify.com/track/0jlgrHvssAloyAidZ1aJzs) | [Lisa Loeb & Nine Stories](https://open.spotify.com/artist/4a7CDXcRCXi4kp5z7SEXtg) | [The Very Best Of](https://open.spotify.com/album/2ieqNp8mf5cc50jLi5w0FX) | 3:04 | 2013-06-27 |  |
 | [Stroke You Up](https://open.spotify.com/track/5gt7KWB2avKJAAEqtgapLm) | [Changing Faces](https://open.spotify.com/artist/3lJ6jvOiNY46L2juqXufpf) | [Rhino Hi\-Five: Changing Faces](https://open.spotify.com/album/2IcMNmtHk7OnB05YJl1fWD) | 3:36 | 2013-06-27 |  |
-| [The Power of Love](https://open.spotify.com/track/7wW5aYk098ICCaLqme13Vh) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/2ApaGHSScrngRX8Hd87S4V) | 5:42 | 2013-06-27 |  |
+| [The Power of Love](https://open.spotify.com/track/7wW5aYk098ICCaLqme13Vh) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/2ApaGHSScrngRX8Hd87S4V) | 0:29 | 2013-06-27 |  |
 | [The Sign](https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [Greatest Hits](https://open.spotify.com/album/0nQFgMfnmWrcWDOQqIgJL7) | 3:09 | 2013-06-27 |  |
 | [Whatta Man](https://open.spotify.com/track/7yQsd17sVkOLaDwa4tz9dT) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ), [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [The Best Of Salt\-N\-Pepa 20th Century Masters The Millennium Collection](https://open.spotify.com/album/0nHRtMQ4TiSCZOIqW5qJBq) | 5:08 | 2013-06-27 |  |
 | [When Can I See You](https://open.spotify.com/track/3MMgcPP6temZXIgMhQlyDU) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [The Essential Babyface](https://open.spotify.com/album/5CcLqG8xiW1riFm1x6uy65) | 3:49 | 2013-06-27 |  |

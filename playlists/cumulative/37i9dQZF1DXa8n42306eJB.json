@@ -194,7 +194,7 @@
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 211146,
+      "duration_ms": 29048,
       "name": "Cool Down",
       "url": "https://open.spotify.com/track/6uJaTP7EbaHXJ5PM09s0uV"
     },
@@ -340,7 +340,7 @@
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 172373,
+      "duration_ms": 29048,
       "name": "Early In The Morning",
       "url": "https://open.spotify.com/track/2R9nfayl1NXhuAdEpwG2Qa"
     },
@@ -430,6 +430,24 @@
     },
     {
       "album": {
+        "name": "Get Soca 2018",
+        "url": "https://open.spotify.com/album/6ugS3I8nHZY4tlOel3BKKc"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 29048,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/6esa48W1Uh3WNuznkDkUuX"
+    },
+    {
+      "album": {
         "name": "Folklore Riddim",
         "url": "https://open.spotify.com/album/6eRhLfRy1CbGTD0fkSrJob"
       },
@@ -445,24 +463,6 @@
       "duration_ms": 198857,
       "name": "Hello",
       "url": "https://open.spotify.com/track/3Hc5FvTzjtxF7DmOK6MaXV"
-    },
-    {
-      "album": {
-        "name": "Get Soca 2018",
-        "url": "https://open.spotify.com/album/6ugS3I8nHZY4tlOel3BKKc"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "date_added": "2022-04-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 199138,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/6esa48W1Uh3WNuznkDkUuX"
     },
     {
       "album": {
@@ -936,7 +936,7 @@
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 212795,
+      "duration_ms": 29048,
       "name": "Nice Up The Dance",
       "url": "https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj"
     },
@@ -1012,7 +1012,7 @@
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 276973,
+      "duration_ms": 29048,
       "name": "Party",
       "url": "https://open.spotify.com/track/2hrDu4B5sb10WXs1yLqDOo"
     },

@@ -172,7 +172,7 @@
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 146128,
+      "duration_ms": 29048,
       "name": "Angel Number",
       "url": "https://open.spotify.com/track/0nwUtqy8TOnRahAzCmL42A"
     },
@@ -1488,7 +1488,7 @@
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 134117,
+      "duration_ms": 29048,
       "name": "Lagoon",
       "url": "https://open.spotify.com/track/0bVyfYQTJoFbj1xR3ZzzdE"
     },
@@ -1632,7 +1632,7 @@
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 140571,
+      "duration_ms": 29048,
       "name": "Low-Key Into You",
       "url": "https://open.spotify.com/track/2z4t24jysAzffGRI99idTW"
     },
@@ -2212,6 +2212,24 @@
     },
     {
       "album": {
+        "name": "play it",
+        "url": "https://open.spotify.com/album/2J32iHvpetzGjSi2BiM1JE"
+      },
+      "artists": [
+        {
+          "name": "B.O Mitz",
+          "url": "https://open.spotify.com/artist/2N2Pm6RaNByrYBzEcguka9"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152339,
+      "name": "play it",
+      "url": "https://open.spotify.com/track/78WfketyVicKm5FjIUlnjU"
+    },
+    {
+      "album": {
         "name": "play me",
         "url": "https://open.spotify.com/album/0jFczI9RFaTMEkgF6wJGnc"
       },
@@ -2278,7 +2296,7 @@
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 153846,
+      "duration_ms": 29048,
       "name": "positive",
       "url": "https://open.spotify.com/track/6EXzpGmH1gpvQclBz4GcfR"
     },

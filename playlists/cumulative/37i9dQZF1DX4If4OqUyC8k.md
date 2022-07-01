@@ -4,7 +4,7 @@
 
 > Get in touch with nature with these songs about our environment.
 
-40 songs - 1 hr 56 min - [published](https://open.spotify.com/playlist/3xKn3HRBVAk6XBnX7cj6v5)
+40 songs - 1 hr 54 min - [published](https://open.spotify.com/playlist/3xKn3HRBVAk6XBnX7cj6v5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Ocean Man](https://open.spotify.com/track/6M14BiCN00nOsba4JaYsHW) | [Ween](https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu) | [The Mollusk](https://open.spotify.com/album/1yfJqxKKXG320vhqLfUEeC) | 2:06 | 2022-04-15 |  |
 | [Octopus's Garden \- Remastered 2009](https://open.spotify.com/track/0suLngfo7rJoetk7Ub6N8l) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 2:50 | 2022-04-15 |  |
 | [Oh, What a World 2.0 \- Earth Day Edition](https://open.spotify.com/track/2vTnFQO21943vBiaLhv4X5) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Oh, What a World 2.0 \(Earth Day Edition\)](https://open.spotify.com/album/7HH4W9FudfYQlGllznVsdq) | 3:39 | 2022-04-15 |  |
-| [Pick It Up](https://open.spotify.com/track/6lY2AdInMhdWlio2rS8yph) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw) | [Family Tree](https://open.spotify.com/album/2ipWREGW50eHJTjXVVWiCj) | 2:50 | 2022-04-15 |  |
+| [Pick It Up](https://open.spotify.com/track/6lY2AdInMhdWlio2rS8yph) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw) | [Family Tree](https://open.spotify.com/album/2ipWREGW50eHJTjXVVWiCj) | 0:29 | 2022-04-15 |  |
 | [Plant a Garden](https://open.spotify.com/track/6HfXSByXlK7TGTwOOi4b2l) | [Jenn Cleary](https://open.spotify.com/artist/3Q3maBFeVNeYstxZOjHptS) | [Plant a Garden](https://open.spotify.com/album/44A7cNMZjaX5kPJ27xtM1y) | 3:19 | 2022-04-15 |  |
 | [R.E.C.Y.C.L.E\. \(Do It Right\)](https://open.spotify.com/track/0O3qbIK90CIBAV3Vsme58y) | [The Future Brigade](https://open.spotify.com/artist/49iKOaoc47iFNhWp6i5l4A) | [R.E.C.Y.C.L.E\. \(Do It Right\)](https://open.spotify.com/album/6GUN6oAsdU3dDZnCEKziK4) | 1:27 | 2022-04-15 |  |
 | [Rainbow Connection \- From "The Muppet Movie"/Soundtrack Version](https://open.spotify.com/track/4Fx3LVYQXplhz70cfoqbgq) | [Kermit](https://open.spotify.com/artist/2lKVLoBlDFcONGT1XhQsIw) | [The Muppet Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0oDldtN1DXlRFL0zNfc1ux) | 3:15 | 2022-04-15 |  |

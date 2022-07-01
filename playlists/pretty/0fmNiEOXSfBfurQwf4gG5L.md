@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0fmNiEOXSfBfurQwf4gG5L.md) - [plain]
 
 > Take a look back on some of the year's top tracks in roots music\. We'll be adding more of your favorites throughout December\. \#SpotifyFolk2016
 
-[Spotify](https://open.spotify.com/user/spotify) - 294 likes - 94 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 294 likes - 94 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/0fmNiEOXSfBfurQwf4gG5L.md) - [plain]
 | 41 | [I Know](https://open.spotify.com/track/7aClLac5pVagDjMCBlYCPk) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [Little Seeds](https://open.spotify.com/album/3TR3AJbgTBcPbtCP1XSD7V) | 3:38 |
 | 42 | [Siren](https://open.spotify.com/track/7KvtfHiJ6Egxz27DYaOO59) | [Monica Heldal](https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0) | [The One In The Sun](https://open.spotify.com/album/4DXawyeE4kw5W7RW85Zd6v) | 5:24 |
 | 43 | [Precita](https://open.spotify.com/track/2ODxTvt85nHNEixwCF4gLw) | [Mount Moriah](https://open.spotify.com/artist/0NIClyUOoNPl2GQouxBYH7) | [How to Dance](https://open.spotify.com/album/0OVBAGVtrEmAQMlqOgHFZe) | 2:47 |
-| 44 | [Wreck You](https://open.spotify.com/track/1Ee33iUeDRUA5sGshbsOWM) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Bird & the Rifle](https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk) | 3:18 |
+| 44 | [Wreck You](https://open.spotify.com/track/1Ee33iUeDRUA5sGshbsOWM) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Bird & the Rifle](https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk) | 0:29 |
 | 45 | [One More Chance](https://open.spotify.com/track/5WXoxLVNn7Bxrn0Q2RHfka) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [Honest](https://open.spotify.com/album/00ZcKI8FsAB47BfFFNwEYx) | 4:13 |
 | 46 | [Astral Plane](https://open.spotify.com/track/2qFwtxXZXej7jejj8Dldf0) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Astral Plane](https://open.spotify.com/album/4SdDQ7IiJMqrbrzQfHTI1s) | 3:38 |
 | 47 | [The Rains](https://open.spotify.com/track/5Wvf91821sBE8aErRtpfRN) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Rains](https://open.spotify.com/album/2yYjpXzVcJhQ2D0e9dkwjX) | 3:31 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/0fmNiEOXSfBfurQwf4gG5L.md) - [plain]
 | 66 | [In the Pines](https://open.spotify.com/track/1vTWzNTfAYv1zkU4vfYxfE) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Full Circle](https://open.spotify.com/album/7qOeAZowxp4t7aO6GURjK2) | 3:07 |
 | 67 | [Take Me Down](https://open.spotify.com/track/5NFV5HquTXQXR3q384YMhc) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Take Me Down](https://open.spotify.com/album/6aNOScaYORjI8CSliGxUql) | 4:47 |
 | 68 | [I'm Glad Trouble Don't Last Always](https://open.spotify.com/track/3b9xTm2eiaCRTGqUEWuzxc) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [I'm Glad Trouble Don't Last Always](https://open.spotify.com/album/6ctUlHVnZfeKaR1UStIknt) | 4:17 |
-| 69 | [Working Poor](https://open.spotify.com/track/3izRf9rlci9WN1mSQCze9a) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Working Poor](https://open.spotify.com/album/2vnCT14EXHJ5ZWdwpqPj7E) | 3:59 |
+| 69 | [Working Poor](https://open.spotify.com/track/3izRf9rlci9WN1mSQCze9a) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Working Poor](https://open.spotify.com/album/2vnCT14EXHJ5ZWdwpqPj7E) | 0:29 |
 | 70 | [On Our Own](https://open.spotify.com/track/4z0wfXLJT9YMplnRBzs2Rv) | [The Suitcase Junket](https://open.spotify.com/artist/7Iew8GtdYcaznLxIJpJxeS) | [Dying Star](https://open.spotify.com/album/6ila7MCsacyml4GqVizpED) | 2:41 |
 | 71 | [Good Evening](https://open.spotify.com/track/5DFELITzxqOwPROrMfCXNc) | [Quaker City Night Hawks](https://open.spotify.com/artist/521Jw1ixgckc0WJHhm2Klu) | [El Astronauta](https://open.spotify.com/album/62UCTVNpAhCrmRMf4knpvS) | 4:39 |
 | 72 | [Sometimes I Worry](https://open.spotify.com/track/6igxt5luYEmrE5bYLMLngs) | [The Delta Saints](https://open.spotify.com/artist/5vCQg5Rpc7l4cPDRuR7Hdz) | [Bones \(Special Edition\)](https://open.spotify.com/album/5FhzBEWTqXNU82X2jFMcaX) | 3:47 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/0fmNiEOXSfBfurQwf4gG5L.md) - [plain]
 | 90 | [Black Crow](https://open.spotify.com/track/6f8wMPrnGpIF6qU6afkOIZ) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Black Crow](https://open.spotify.com/album/3tLk6wfBk0xHptDaImOv8Y) | 4:30 |
 | 91 | [What It Means](https://open.spotify.com/track/3Jbd5U1FVfKBQzv6jVUT8T) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [American Band](https://open.spotify.com/album/43EtynQuS3r5afZnSY1sYb) | 6:25 |
 | 92 | [Nobody Dies](https://open.spotify.com/track/3j4kcoBVfe6rGY2517OJ9f) | [Thao](https://open.spotify.com/artist/4PfWwzCyXuXAjuaisibSKG), [Thao & The Get Down Stay Down](https://open.spotify.com/artist/2dn0CGCWvtrwZ66bOeLNb2) | [A Man Alive](https://open.spotify.com/album/2MZJJ0Z4WH1CTm0RoeHjGw) | 3:48 |
-| 93 | [Shut Up Kiss Me](https://open.spotify.com/track/5uZLsGY9fknBd5Rxr7AIss) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [MY WOMAN](https://open.spotify.com/album/5M8xQaQZuW2LZGVXZ3mlKN) | 3:22 |
+| 93 | [Shut Up Kiss Me](https://open.spotify.com/track/5uZLsGY9fknBd5Rxr7AIss) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [MY WOMAN](https://open.spotify.com/album/5M8xQaQZuW2LZGVXZ3mlKN) | 0:29 |
 | 94 | [Memphis Rain](https://open.spotify.com/track/1FP7dnQeCYggKHjtdxgxri) | [Aaron Lee Tasjan](https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo) | [Memphis Rain](https://open.spotify.com/album/4nJuuSGqAkhEq2cCOMyyrb) | 3:38 |
 
 Snapshot ID: `MTQ5LDdiYmZhNDZlNmI5YjFiY2U4NzQyMTFhNTZiNTEwYzVmMDY3ZTZiMWU=`

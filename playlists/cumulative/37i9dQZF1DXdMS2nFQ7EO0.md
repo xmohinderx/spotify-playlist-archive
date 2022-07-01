@@ -4,7 +4,7 @@
 
 > Vegas pool party vibes with a mix of the hottest Latin dance anthems of today.
 
-124 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/1ZF0pbGIatnjdQmWjkzz9Q)
+124 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/1ZF0pbGIatnjdQmWjkzz9Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [No Control](https://open.spotify.com/track/0CD7sSmDeu3TXHL3dDOv77) | [Cytrax](https://open.spotify.com/artist/654q5ND8XzmkMhxU1JwS2U) | [No Control](https://open.spotify.com/album/5sUvEV9R1oWfyHPmoD46tk) | 2:22 | 2022-04-07 | 2022-05-12 |
 | [NO MIENTEN](https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [NO MIENTEN](https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw) | 2:27 | 2022-05-11 |  |
 | [Ojos Chiquitos](https://open.spotify.com/track/66az7qVFB80jqy7cQq2hz6) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Ojos Chiquitos](https://open.spotify.com/album/00SdwuIqSDD6nRcFiVGl5A) | 2:32 | 2022-05-11 |  |
-| [One A Day](https://open.spotify.com/track/09VGT0e2aYkoCVNRjOPKZa) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [One A Day](https://open.spotify.com/album/7a3CD5WnyDxWxpCaBQHYHx) | 3:12 | 2022-05-11 |  |
+| [One A Day](https://open.spotify.com/track/09VGT0e2aYkoCVNRjOPKZa) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [One A Day](https://open.spotify.com/album/7a3CD5WnyDxWxpCaBQHYHx) | 0:29 | 2022-05-11 |  |
 | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8) | 2:42 | 2022-05-11 |  |
 | [Papi Chulo](https://open.spotify.com/track/7BDeacseVr0vdqL0ofjm5Y) | [Nickobella](https://open.spotify.com/artist/4Bhe7FjSfLHTbUPIm5EnQt), [BeatItPunk](https://open.spotify.com/artist/4NihfBDoszDjMjIM64uJPT) | [Papi Chulo](https://open.spotify.com/album/2i8RUL42wpI7hcMMnOUHhd) | 3:10 | 2022-04-07 | 2022-05-12 |
 | [Paradise \- Tiësto Remix](https://open.spotify.com/track/0pjMTISKHTJkogN1BPZxaC) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Princess of China](https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7) | 4:46 | 2022-04-07 | 2022-05-12 |

@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle guitar covers.
 
-92 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/7BlL5UpDQdx2iXZ9eRyjoI)
+92 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/7BlL5UpDQdx2iXZ9eRyjoI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Don't Know Why](https://open.spotify.com/track/2uHHH7iJjQDhoFKfWbFjo3) | [Acoustic Guitar Collective](https://open.spotify.com/artist/4uUpWtX0o0EM3p4P5L5X6n) | [Love Letters](https://open.spotify.com/album/2V55EhNJmfwsvu1mOKubZ7) | 2:52 | 2022-05-20 |  |
 | [Don't Speak](https://open.spotify.com/track/7eFWJOp5wESaxCakzJ5Jf1) | [Nylah Read](https://open.spotify.com/artist/1t57FjgpJN2vjPRo3WS9LZ) | [Don't Speak](https://open.spotify.com/album/62CounkU6ZMZGGhhGtqdIs) | 2:48 | 2022-05-20 |  |
 | [Don't Start Now](https://open.spotify.com/track/7GhDCGALFBPrsXycSH8q6Q) | [Mike Ilyas](https://open.spotify.com/artist/2owXblciNaXXMUdm6nNfDe) | [Mike Ilyas](https://open.spotify.com/album/38uIgrRbN63mXyyquWx21j) | 2:27 | 2022-05-20 |  |
-| [drivers license](https://open.spotify.com/track/5k7fSPCovUFgqBNDYVcmmK) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [drivers license](https://open.spotify.com/album/6BmCLOx623OJZyswJ8BYxD) | 3:53 | 2022-05-20 |  |
+| [drivers license](https://open.spotify.com/track/5k7fSPCovUFgqBNDYVcmmK) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [drivers license](https://open.spotify.com/album/6BmCLOx623OJZyswJ8BYxD) | 0:29 | 2022-05-20 |  |
 | [Easy On Me](https://open.spotify.com/track/7nZrgOtCRXGvrXCbPhuHch) | [Ivy Parry](https://open.spotify.com/artist/1yOVQN4qupWRciASq2Fz6I) | [Easy On Me](https://open.spotify.com/album/1JjZRAcvYYpjY6IALupLZl) | 2:56 | 2022-05-20 |  |
 | [Easy On Me](https://open.spotify.com/track/647uBk9wlI9O1PQu7YkyNG) | [Tim Raymond](https://open.spotify.com/artist/4kYHqjNdzbIyg2EsqY0nWe) | [Easy On Me](https://open.spotify.com/album/4O4BnpRC1m5VEBqgIFFmTI) | 4:09 | 2022-05-20 |  |
 | [Every Breath You Take](https://open.spotify.com/track/2TVLyjrb4R9rsPhmn6sXqf) | [Joseph Sullinger](https://open.spotify.com/artist/6mNAxWgMw0EjVXUNhHpRpM) | [Every Breath You Take](https://open.spotify.com/album/0dCDATZuYREXXs4YWFStlp) | 2:55 | 2022-05-20 |  |

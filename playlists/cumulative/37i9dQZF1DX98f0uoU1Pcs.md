@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Amyl & the Sniffers
 
-222 songs - 11 hr 52 min - [published](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
+222 songs - 11 hr 46 min - [published](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Happy \(God’s Own Country\)](https://open.spotify.com/track/1XVqUGcVQ2VqgoWAwis1lE) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Happy \(God’s Own Country\)](https://open.spotify.com/album/3QuCM83bCSFTmBNAERz5JZ) | 2:31 | 2021-10-07 |  |
 | [happy pills](https://open.spotify.com/track/4fnMyrxXogmYCi40RBRmso) | [snake eyes](https://open.spotify.com/artist/0wgafapEtlYucTrMZdFb91) | [happy pills](https://open.spotify.com/album/3LRjouzNdqap0NEXiBOzoF) | 2:03 | 2021-10-07 | 2022-01-08 |
 | [Harness Your Hopes \- B\-side](https://open.spotify.com/track/4vsoWZcvtvSsE0OiVvDDvX) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Brighten the Corners: Nicene Creedence Ed.](https://open.spotify.com/album/2z8iibF0hCuBb9h9gYkuO7) | 3:26 | 2022-03-11 |  |
-| [Head Cheerleader](https://open.spotify.com/track/1qLWOCtiIYPJkLQxdqwYxk) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Death of a Cheerleader](https://open.spotify.com/album/0iSh2sXytE5jbpPiKts3z4) | 3:08 | 2022-01-07 |  |
+| [Head Cheerleader](https://open.spotify.com/track/1qLWOCtiIYPJkLQxdqwYxk) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Death of a Cheerleader](https://open.spotify.com/album/0iSh2sXytE5jbpPiKts3z4) | 0:29 | 2022-01-07 |  |
 | [Head On](https://open.spotify.com/track/2tY0hj4JDKk74YRVTAj7oi) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG), [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Head On](https://open.spotify.com/album/2zLs4dNnujEOf3EC21MZaa) | 2:38 | 2022-03-25 |  |
 | [HeatDeath](https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [HeatDeath](https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n) | 5:17 | 2021-10-07 |  |
 | [Heavy Heart \- Edit](https://open.spotify.com/track/3Gbk5JvijQQxg5q8AkGdmw) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Heavy Heart](https://open.spotify.com/album/0J97gh6EZ7bqsqq4IeGe68) | 3:46 | 2022-03-11 | 2022-04-29 |
@@ -175,7 +175,7 @@
 | [Same Difference](https://open.spotify.com/track/0fLB4BtBqarIqFattC2n8A) | [Future Teens](https://open.spotify.com/artist/4psGjIN7MDwMYJTlRjauKr) | [Same Difference](https://open.spotify.com/album/4KkYMIEwXR8QthqLAW0Kdb) | 2:55 | 2022-06-10 |  |
 | [San Fernando Shadow Blues](https://open.spotify.com/track/2NTZeFqSfijcBrTK5RpOSG) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3) | [Endless Afternoon](https://open.spotify.com/album/1kSTHq1yseNNxYpM48o3ry) | 3:14 | 2022-06-17 |  |
 | [Say It](https://open.spotify.com/track/5FfT45gDQWDyR8lZpn60DD) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Squeeze](https://open.spotify.com/album/54p7fdwenIgGmhUK4qbCiT) | 3:35 | 2022-02-25 |  |
-| [Scratchcard Lanyard](https://open.spotify.com/track/5NtATk9xTMCKBlL46IJoXC) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [New Long Leg](https://open.spotify.com/album/4oNy189uvEgnJKNLsWx9Zz) | 4:06 | 2022-01-07 |  |
+| [Scratchcard Lanyard](https://open.spotify.com/track/5NtATk9xTMCKBlL46IJoXC) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [New Long Leg](https://open.spotify.com/album/4oNy189uvEgnJKNLsWx9Zz) | 0:29 | 2022-01-07 |  |
 | [Searching for You](https://open.spotify.com/track/7xtOiQ4dkFpXIh2iRoVZDV) | [Weird Nightmare](https://open.spotify.com/artist/2dRm7hmP96rgIGGGX1wiLc) | [Searching for You](https://open.spotify.com/album/2ty9GQB9HHy5oAwHuCR5b0) | 3:03 | 2022-03-11 |  |
 | [Security](https://open.spotify.com/track/310b6rhKJa6lFBNccqQeCl) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Security](https://open.spotify.com/album/4poJkjWruWqqGsumQggoQB) | 3:47 | 2021-10-07 | 2022-01-08 |
 | [Security](https://open.spotify.com/track/3JN0tKB2SQsrZINcSkVM09) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/24JeT9uxcmqL227jId3Pci) | 3:47 | 2022-01-07 |  |

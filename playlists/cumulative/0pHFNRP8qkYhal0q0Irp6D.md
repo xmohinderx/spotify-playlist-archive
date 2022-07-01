@@ -4,7 +4,7 @@
 
 > You should be dancing, yeah\. \(This ain't your typical disco either...\)
 
-53 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/4ruRaoLDGBTEWyKzpcWzHh)
+53 songs - 4 hr 6 min - [published](https://open.spotify.com/playlist/4ruRaoLDGBTEWyKzpcWzHh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Bad Luck](https://open.spotify.com/track/6VCj1ehtOIqOX9aTQlrD1O) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [The Best Of Harold Melvin & The Blue Notes: If You Don't Know Me By Now \(Featuring Teddy Pendergrass\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/4FyAsercGqajQeEdk2Isj6) | 6:23 | 2014-08-13 |  |
 | [Brazil](https://open.spotify.com/track/2ZADySuVICh5a2OOsUN302) | [The Ritchie Family](https://open.spotify.com/artist/3FxBwdg0z5WkLdlAbe7GHq) | [Brazil](https://open.spotify.com/album/5GS1LeYp4jwVwqAV5PGtVQ) | 5:12 | 2014-08-13 |  |
 | [Call Me](https://open.spotify.com/track/78wmvvvJ6deNaPdbsnaVGx) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [80's Super Hits](https://open.spotify.com/album/4PbG9Ygfp3vDNhe9yKH1DN) | 3:31 | 2014-08-13 |  |
-| [Da Ya Think I'm Sexy? \- 2008 Remaster](https://open.spotify.com/track/42GthmiW6mIvcyaJHdMk30) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Definitive Rod Stewart](https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj) | 5:29 | 2014-08-13 |  |
+| [Da Ya Think I'm Sexy? \- 2008 Remaster](https://open.spotify.com/track/42GthmiW6mIvcyaJHdMk30) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Definitive Rod Stewart](https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj) | 0:29 | 2014-08-13 |  |
 | [Dancin' Fool](https://open.spotify.com/track/6tCk1N85t6h4v1xXI6o0Ad) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Sheik Yerbouti](https://open.spotify.com/album/4hBKoHOpEvQ6g4CQFsEAdU) | 3:42 | 2014-08-13 |  |
 | [Dancing Queen](https://open.spotify.com/track/2rgqPSIRAfaO2MGo9smdSX) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [ABBA Gold](https://open.spotify.com/album/2rp5riHULWgrXPsDtsp1ir) | 3:51 | 2014-08-13 |  |
 | [Disco Inferno](https://open.spotify.com/track/5jUA1njy3h6ynHLvPdEVHt) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [Disco Inferno](https://open.spotify.com/album/4MgYPs5CBEwzmekSVNOiL3) | 10:59 | 2014-08-13 |  |
@@ -26,12 +26,12 @@
 | [Goodnight Tonight](https://open.spotify.com/track/5AD7iwvIzbiABVsMndAmez) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Wingspan](https://open.spotify.com/album/0gOV46yCRVgdehR1SnFtuy) | 4:20 | 2014-08-13 |  |
 | [Got To Give It Up \(Part 1\)](https://open.spotify.com/track/0uc01kOSyZ0uvjSZIzkAO0) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Disco Gold](https://open.spotify.com/album/2wFzaVmHfeDG8yNaAs7lYr) | 4:07 | 2014-08-13 |  |
 | [Here Comes The Night \- Digitally Remastered 04](https://open.spotify.com/track/4PJXYQXaI8oiWoae9GY1tE) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Platinum Collection](https://open.spotify.com/album/554mSFv0OIGdMtN9pbxP33) | 4:33 | 2014-08-13 |  |
-| [Hot Shot](https://open.spotify.com/track/2Rqzac3a06NyuGfshyEoel) | [Karen Young](https://open.spotify.com/artist/3vOSs0LEPDM2iCBK99VJzX) | [MAW presents West End Records: The 25th Anniversary Edition Mastermix](https://open.spotify.com/album/4yOqZjPjr8T6oF4K64R5xo) | 8:48 | 2014-08-13 |  |
+| [Hot Shot](https://open.spotify.com/track/2Rqzac3a06NyuGfshyEoel) | [Karen Young](https://open.spotify.com/artist/3vOSs0LEPDM2iCBK99VJzX) | [MAW presents West End Records: The 25th Anniversary Edition Mastermix](https://open.spotify.com/album/4yOqZjPjr8T6oF4K64R5xo) | 0:29 | 2014-08-13 |  |
 | [Hot Stuff](https://open.spotify.com/track/424pNN5XqYHje4vNpuHgBT) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [The Dance Collection](https://open.spotify.com/album/7FqRt16IDbD2LvgJ4Otqcp) | 6:40 | 2014-08-13 |  |
 | [Hot Stuff](https://open.spotify.com/track/0JsCI2Pf5akfykaZz9MSRw) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones Singles Box Set \(1971\-2006\)](https://open.spotify.com/album/0jeb7d3wCAf4K9bi3DKHzd) | 5:21 | 2014-08-13 |  |
 | [I Feel Love](https://open.spotify.com/track/4rS63BySQrdWuTswkkZ5iS) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [The Dance Collection](https://open.spotify.com/album/7FqRt16IDbD2LvgJ4Otqcp) | 8:13 | 2014-08-13 |  |
 | [I Love Music](https://open.spotify.com/track/7IoKA8yRibsK8Ryy4SH2NL) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Ultimate O'Jays](https://open.spotify.com/album/76ezu9wSbv682sPJF7DGWK) | 6:49 | 2014-08-13 |  |
-| [I Was Made for Lovin' You](https://open.spotify.com/track/1scwOPRenO71iomcms70Fc) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Sonic Boom](https://open.spotify.com/album/06TUPSt0LmDoAm3jnE93Ww) | 4:40 | 2014-08-13 |  |
+| [I Was Made for Lovin' You](https://open.spotify.com/track/1scwOPRenO71iomcms70Fc) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Sonic Boom](https://open.spotify.com/album/06TUPSt0LmDoAm3jnE93Ww) | 0:29 | 2014-08-13 |  |
 | [I Will Survive \- Rerecorded](https://open.spotify.com/track/2a1MrtxYybqFV1Ow8VJ1dW) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [I Will Survive \(Rerecorded\)](https://open.spotify.com/album/0EvxRMIJySiL1ges38c753) | 4:25 | 2015-08-05 |  |
 | [Le Freak \- Edit](https://open.spotify.com/track/6Lphpr9Z6H282Sguw0dUWa) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Les Plus Grands Success De Chic \- Chic's Greatest Hits](https://open.spotify.com/album/0VpPfXytCLshrjZFHKQHyc) | 3:35 | 2014-08-13 |  |
 | [Let's Dance \- 1999 Remaster](https://open.spotify.com/track/0F0MA0ns8oXwGw66B2BSXm) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(1999 Remaster\)](https://open.spotify.com/album/37KYBt1Lzn4eJ4KoCFZcnR) | 7:37 | 2014-08-13 |  |
@@ -50,7 +50,7 @@
 | [Stay](https://open.spotify.com/track/6BxvT0YNWab6eAmMdvcv2S) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Station To Station \(US Version\)](https://open.spotify.com/album/53VB3DfAESTKLaflLk58Jo) | 6:15 | 2014-08-13 |  |
 | [Stayin' Alive \- Remastered Version](https://open.spotify.com/track/3LmpQiFNgFCnvAnhhvKUyI) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Number Ones](https://open.spotify.com/album/79F4jBcsI4qg66Xax1u4U8) | 4:45 | 2014-08-13 |  |
 | [Straight On](https://open.spotify.com/track/47w1ZdXC1h2HvhgQLych1N) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [The Essential Heart](https://open.spotify.com/album/1La86JTftH0TB87NPxrzFX) | 5:06 | 2014-08-13 |  |
-| [Street Player \- 2003 Remaster](https://open.spotify.com/track/1HiaZTm2nGQL4wtnJLPNV0) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 13 \(Expanded & Remastered\)](https://open.spotify.com/album/3zhMFlaM6YZgETDe5TZlim) | 9:10 | 2014-08-13 |  |
+| [Street Player \- 2003 Remaster](https://open.spotify.com/track/1HiaZTm2nGQL4wtnJLPNV0) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 13 \(Expanded & Remastered\)](https://open.spotify.com/album/3zhMFlaM6YZgETDe5TZlim) | 0:29 | 2014-08-13 |  |
 | [The Magnificent Dance](https://open.spotify.com/track/2vUlFUyRbemQaseUj6NESz) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sound System](https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF) | 5:37 | 2014-08-13 |  |
 | [The Weapon](https://open.spotify.com/track/71PeEU6DLw7b2UvKuilQ0e) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Signals](https://open.spotify.com/album/0gAhBCBqahVbuOgROHwISD) | 6:23 | 2014-08-13 |  |
 | [Thunder In The Night](https://open.spotify.com/track/5x176gpNUEYr3RzY1QcK0Q) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Victim Of Love](https://open.spotify.com/album/1rP17AWcsUaiD8APqh11B8) | 3:55 | 2014-08-13 |  |

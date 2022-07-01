@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY24WaVcCqqH.md) - [plain]
 
 > All the sweetest melodies, in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 960,609 likes - 65 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 960,791 likes - 65 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY24WaVcCqqH.md) - [plain]
 | 14 | [Break Up Song](https://open.spotify.com/track/5HArmECc1y0lCHKVKDKXa4) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti](https://open.spotify.com/album/33a8Ha3pE7fo2o4T4xLabF) | 3:20 |
 | 15 | [Wasabi](https://open.spotify.com/track/7IOuCLt770D8v0u3SVaDeI) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [LM5 \(Deluxe\)](https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj) | 2:34 |
 | 16 | [Confetti \(feat\. Saweetie\)](https://open.spotify.com/track/40JjCZcdzT9ldZk5DhFqdZ) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Confetti \(feat\. Saweetie\)](https://open.spotify.com/album/2EDgDBPKLD7o6JVYyWKCxu) | 3:05 |
-| 17 | [Reggaetón Lento \(Remix\)](https://open.spotify.com/track/3zoYkqS4y2BsGVShPL2nTE) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Reggaetón Lento \(Remix\)](https://open.spotify.com/album/3BuyJpIGcVs3apzuuBfohb) | 3:08 |
+| 17 | [Reggaetón Lento \(Remix\)](https://open.spotify.com/track/3zoYkqS4y2BsGVShPL2nTE) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Reggaetón Lento \(Remix\)](https://open.spotify.com/album/3BuyJpIGcVs3apzuuBfohb) | 0:29 |
 | 18 | [No More Sad Songs](https://open.spotify.com/track/5ZnJsoJGkQ5K15W7Rcr5JO) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [No More Sad Songs](https://open.spotify.com/album/2absHtxHg0umzeJvRrim7B) | 3:45 |
 | 19 | [Think About Us \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/18n2GdCpsHYzkbMKPavE7Y) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Think About Us \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/0zR4eWgX7vFfZNtP4pkqYy) | 3:54 |
 | 20 | [Salute](https://open.spotify.com/track/2E0fhpXbNfksy2mdjm57bf) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Salute \(The Deluxe Edition\)](https://open.spotify.com/album/06haetPrpbIFCY1FUWzVel) | 3:56 |

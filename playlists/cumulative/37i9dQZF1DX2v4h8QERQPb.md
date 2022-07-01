@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: Trueno.
 
-135 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/4sv8KvOxUTe4tMwrdfTP89)
+135 songs - 6 hr 58 min - [published](https://open.spotify.com/playlist/4sv8KvOxUTe4tMwrdfTP89)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A 120](https://open.spotify.com/track/6hIaPSI8jiEMcSNBg5UDvO) | [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [A 120](https://open.spotify.com/album/0sovDa8vIqn8cuDESN7G30) | 3:08 | 2021-11-26 |  |
 | [A Mi Lado](https://open.spotify.com/track/6cvMmviJTZTBOFh2ohwZg6) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [A Mi Lado](https://open.spotify.com/album/2EKFnG7NaqYgZOkCAi7MBP) | 2:58 | 2021-11-26 |  |
 | [Ahora Corren](https://open.spotify.com/track/0frbDonZlnjEaxKnPKclb3) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm), [Chulu](https://open.spotify.com/artist/1VAc90Avnm4J5j2cYu5RVB) | [Inmortales](https://open.spotify.com/album/4EYOgNTo3rdmsmZaQSFbmV) | 4:07 | 2022-02-18 |  |
-| [Ahora Me Toca a Mi](https://open.spotify.com/track/7jMqM4CMNu2JFRXs2xHfOt) | [Klan](https://open.spotify.com/artist/7flslx3D22tWYKvoChQX8o) | [Ahora Me Toca a Mi](https://open.spotify.com/album/1wAIdJeAqWrXhcaHAMykLM) | 2:16 | 2022-04-11 |  |
+| [Ahora Me Toca a Mi](https://open.spotify.com/track/7jMqM4CMNu2JFRXs2xHfOt) | [Klan](https://open.spotify.com/artist/7flslx3D22tWYKvoChQX8o) | [Ahora Me Toca a Mi](https://open.spotify.com/album/1wAIdJeAqWrXhcaHAMykLM) | 0:29 | 2022-04-11 |  |
 | [Al Carajo](https://open.spotify.com/track/0aknicrrnbPQdPVZu5Gqcl) | [Z\-K](https://open.spotify.com/artist/3jiJNFG8hFkUJIdT7lmZkt), [Sank](https://open.spotify.com/artist/32LjNiBb4gbeytSXy4hBGB) | [Al Carajo](https://open.spotify.com/album/2j71a8nlO5czcb23AYaP9d) | 3:31 | 2021-11-26 |  |
 | [Alcoholicos Anonimos](https://open.spotify.com/track/0IjzvAj0CKu4oqsi8NCGhr) | [XXL Irione](https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY) | [Inmortal Vol\. 2](https://open.spotify.com/album/19EpErKzX0ngeTXDH7hPbx) | 4:03 | 2021-11-26 | 2022-03-12 |
 | [ANIMAL](https://open.spotify.com/track/06b0Au6pvZiO03eKTCvgWh) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ANIMAL](https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp) | 2:50 | 2022-04-11 |  |
@@ -33,7 +33,7 @@
 | [BIEN O MAL](https://open.spotify.com/track/4n0MBJuHpZ9dnD1BtsOIxB) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 2:56 | 2022-05-12 |  |
 | [Bon Appétit](https://open.spotify.com/track/3Ej1Dmfevd7EYIWcKbbAcK) | [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [Bon Appétit](https://open.spotify.com/album/62blDJznrMxkPNK60YQgHG) | 2:40 | 2021-11-26 |  |
 | [Buska](https://open.spotify.com/track/4zlFO8LSYmzttjwm8K5TOi) | [Urbanse](https://open.spotify.com/artist/66X3l109SsMthurq0pHk3g), [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf) | [Buska](https://open.spotify.com/album/5mlk2pOB2lzcUvOOHa2RDm) | 3:01 | 2021-11-26 |  |
-| [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny) | 2:26 | 2022-04-11 |  |
+| [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny) | 0:29 | 2022-04-11 |  |
 | [Callar Lo Que Siento](https://open.spotify.com/track/5xFuu6Io7zyxiNPLdmYe0X) | [XXL Irione](https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY), [Big Stan](https://open.spotify.com/artist/0wWxSCpA5vzDAbhrGnVeOd) | [Callar Lo Que Siento](https://open.spotify.com/album/0g4wmnw7flK30K2KyLAn07) | 2:38 | 2021-11-26 | 2022-03-12 |
 | [CANGURO](https://open.spotify.com/track/4wyNKAZe82BNlp2lHiR1FX) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [CANGURO](https://open.spotify.com/album/7EFoBWXYfQ6QmA5wsxjl4s) | 3:16 | 2021-11-26 |  |
 | [Caos](https://open.spotify.com/track/1rNHgKTcZ82mJPuoJ0ANsY) | [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [Caos](https://open.spotify.com/album/4hAizxabFq0T6Li3YG7bTX) | 2:02 | 2021-11-26 |  |

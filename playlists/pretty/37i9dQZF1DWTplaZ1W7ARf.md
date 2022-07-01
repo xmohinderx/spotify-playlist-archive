@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 
 > Neighborhood Storytellers\. Cover: NoCap
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,236 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,277 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vette Motors](https://open.spotify.com/track/02Cj2MSlERvamTj5A7Zi0P) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Vette Motors](https://open.spotify.com/album/4fbvMPy3XjJZieGyRokQop) | 2:53 |
-| 2 | [What Happened To Virgil \(feat\. Gunna\)](https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 3:01 |
+| 2 | [What Happened To Virgil \(feat\. Gunna\)](https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 0:29 |
 | 3 | [In A Minute](https://open.spotify.com/track/3ihIZrJreMJPjQdNLrEXnP) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [In A Minute](https://open.spotify.com/album/3PZTFPQhr0vHnYGwFUvQco) | 3:20 |
 | 4 | [How It Feels \(feat\. YNW BSlime\)](https://open.spotify.com/track/1kTUHCB8NPqAPSnI5D1YIG) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [YNW BSlime](https://open.spotify.com/artist/2KCRLxlHd2OgZG6YAOAcSu) | [How It Feels \(feat\. YNW BSlime\)](https://open.spotify.com/album/28Fjbqnkqv9LmOGLehRIVT) | 2:33 |
 | 5 | [Rocky Road \(with Kodak Black\)](https://open.spotify.com/track/7quesdAv9sxXO0oUOApmIo) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Rocky Road \(with Kodak Black\)](https://open.spotify.com/album/4K2dNqc9VgacrNtJ8pOWer) | 2:58 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 | 34 | [Soul Bleed](https://open.spotify.com/track/4jHz6x0LTLdRsAnWWlVx5w) | [Mooski](https://open.spotify.com/artist/4NqH3V7GS0Igs1VyGMXEi8) | [Soul Bleed](https://open.spotify.com/album/74S4OzUeGxO911OCx638cM) | 2:51 |
 | 35 | [Tears of Joy](https://open.spotify.com/track/1BXcEvLfGf6AaoBeKkdG5h) | [100k Track](https://open.spotify.com/artist/1egKFNqREi1l3EsTwRrvVR), [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Rico Cartel](https://open.spotify.com/artist/0bgsCSm12Glnini09HIgnD) | [Mercury](https://open.spotify.com/album/2b0g5tSZMy56jobDxTEWdk) | 2:36 |
 | 36 | [Evil](https://open.spotify.com/track/5zG5U3PGRdzzGcpUKP3W1J) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [Evil](https://open.spotify.com/album/5X8WNJ9F7SmfCXjC19I2e0) | 2:19 |
-| 37 | [Federal Nightmares](https://open.spotify.com/track/4W730PJT4aw79pZ9D8BLhl) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 2:31 |
+| 37 | [Federal Nightmares](https://open.spotify.com/track/4W730PJT4aw79pZ9D8BLhl) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 0:29 |
 | 38 | [Mud Brothers](https://open.spotify.com/track/1E6xPYt9FyvkMnDeyVHLby) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Slimelife Shawty](https://open.spotify.com/artist/09XX4vGibhdivyKlxP8MRf) | [Mud Brothers](https://open.spotify.com/album/42uCYsRhcqIsEmL3anu3FH) | 2:46 |
 | 39 | [Cold December](https://open.spotify.com/track/6UAy9xYeTWjZB7h05p83e9) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Cold December](https://open.spotify.com/album/6PHg4EsRdFC1eG24NJPk2K) | 3:12 |
 | 40 | [Made Me \(feat\. NoCap\)](https://open.spotify.com/track/3Vgihc6vWAzDroeW43oB6O) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Street Poetry](https://open.spotify.com/album/424KidkXx9YRSRIEqJwQzy) | 3:00 |

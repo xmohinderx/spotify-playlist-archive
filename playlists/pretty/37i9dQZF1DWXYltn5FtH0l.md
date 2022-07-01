@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYltn5FtH0l.md) - [plain]
 
 > Feel 'New Establish Style Tempo' in here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,124 likes - 74 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,140 likes - 74 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYltn5FtH0l.md) - [plain]
 | 21 | [Special message from JR](https://open.spotify.com/track/6Mw6NSsfLG6huoaQ2ti8S1) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [Romanticize \- Special Message](https://open.spotify.com/album/659HbB1fY1fl4eQzmHhIEr) | 0:17 |
 | 22 | [Segno](https://open.spotify.com/track/4qADQMVA9QDQEYHM6WxmwC) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The 6th Mini Album 'Happily Ever After'](https://open.spotify.com/album/41Ai1koD5jbwDIwZsR7QxJ) | 3:28 |
 | 23 | [OVERCOME](https://open.spotify.com/track/2864PcpAp8r3M4grzHMNWY) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [Q is.](https://open.spotify.com/album/1yEqdlEIUIU2SBrsenDYIv) | 3:13 |
-| 24 | [I’m Bad](https://open.spotify.com/track/2V2gi2zxRgxIKRdujYOUF3) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [Special Single ‘I’m Bad’](https://open.spotify.com/album/7jlzbojtyoNJ5p73AD72Qt) | 3:27 |
+| 24 | [I’m Bad](https://open.spotify.com/track/2V2gi2zxRgxIKRdujYOUF3) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [Special Single ‘I’m Bad’](https://open.spotify.com/album/7jlzbojtyoNJ5p73AD72Qt) | 0:29 |
 | 25 | [Love Paint \(every afternoon\)](https://open.spotify.com/track/5ZmZnO37y2neKxn2KVhuLQ) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The 5th Mini Album 'CANVAS'](https://open.spotify.com/album/2kol4AtxVszuo0MJoqoJ5R) | 3:05 |
 | 26 | [Must](https://open.spotify.com/track/3bXXhkK0oTt5Df2ZNaiUgI) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The Nocturne](https://open.spotify.com/album/16SGscvchR24GfcK6ecrgW) | 4:06 |
 | 27 | [LOST & FOUND](https://open.spotify.com/track/78mqz9Ez50lPHwqVnLRZY4) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [Q is.](https://open.spotify.com/album/1yEqdlEIUIU2SBrsenDYIv) | 3:08 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYltn5FtH0l.md) - [plain]
 | 31 | [Fine](https://open.spotify.com/track/0A1gYtzTBm9XWKnWIbnTiC) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The 6th Mini Album 'Happily Ever After'](https://open.spotify.com/album/41Ai1koD5jbwDIwZsR7QxJ) | 3:31 |
 | 32 | [Special message from ARON](https://open.spotify.com/track/7k2gD5AUgdVUklagoMXrvM) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [Romanticize \- Special Message](https://open.spotify.com/album/659HbB1fY1fl4eQzmHhIEr) | 0:20 |
 | 33 | [Action](https://open.spotify.com/track/6FKcTr6VGfKIK5Qdv1y5st) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [Action](https://open.spotify.com/album/5zDepklvxHMN6mByS43YC7) | 3:14 |
-| 34 | [Sleep Talking](https://open.spotify.com/track/7aIZEHj5oG2Vpv9EsarpAa) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [NU'EST The First Album "Re:BIRTH"](https://open.spotify.com/album/0LwhNIhiEE3D0memGvBLfl) | 3:28 |
+| 34 | [Sleep Talking](https://open.spotify.com/track/7aIZEHj5oG2Vpv9EsarpAa) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [NU'EST The First Album "Re:BIRTH"](https://open.spotify.com/album/0LwhNIhiEE3D0memGvBLfl) | 0:29 |
 | 35 | [Firework](https://open.spotify.com/track/1hyHj77BvV4GKTe5Op4b2O) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The Nocturne](https://open.spotify.com/album/16SGscvchR24GfcK6ecrgW) | 3:27 |
 | 36 | [VVITH](https://open.spotify.com/track/4dXY2BMVW3Dj7qBCjsAnRX) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [Q is.](https://open.spotify.com/album/1yEqdlEIUIU2SBrsenDYIv) | 3:06 |
 | 37 | [Different](https://open.spotify.com/track/4yVzdqKwCJGCRBUPP1arKc) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The 6th Mini Album 'Happily Ever After'](https://open.spotify.com/album/41Ai1koD5jbwDIwZsR7QxJ) | 3:08 |
@@ -60,27 +60,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYltn5FtH0l.md) - [plain]
 | 50 | [Moon Dance](https://open.spotify.com/track/36eS6VwpO4kVvWJIhHeq87) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The Nocturne](https://open.spotify.com/album/16SGscvchR24GfcK6ecrgW) | 3:39 |
 | 51 | [I'm in Trouble](https://open.spotify.com/track/2Holdh01TKUWI2HN3t3fLV) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The Nocturne](https://open.spotify.com/album/16SGscvchR24GfcK6ecrgW) | 3:04 |
 | 52 | [Special message from MINHYUN](https://open.spotify.com/track/27BkEtELrDrxXcWWw11EA4) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [Romanticize \- Special Message](https://open.spotify.com/album/659HbB1fY1fl4eQzmHhIEr) | 0:27 |
-| 53 | [Hello](https://open.spotify.com/track/4J7M1RBAdn1LBYtPrKE9UE) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [NU'EST The First Album "Re:BIRTH"](https://open.spotify.com/album/0LwhNIhiEE3D0memGvBLfl) | 3:29 |
+| 53 | [Hello](https://open.spotify.com/track/4J7M1RBAdn1LBYtPrKE9UE) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [NU'EST The First Album "Re:BIRTH"](https://open.spotify.com/album/0LwhNIhiEE3D0memGvBLfl) | 0:29 |
 | 54 | [Not Over You](https://open.spotify.com/track/2ziLxRduZ6AyEItQ3LcUdj) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [Action](https://open.spotify.com/album/5zDepklvxHMN6mByS43YC7) | 3:35 |
 | 55 | [Back To Me](https://open.spotify.com/track/0XkwNeXQQTViYOstAnf0Q6) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The Nocturne](https://open.spotify.com/album/16SGscvchR24GfcK6ecrgW) | 3:28 |
 | 56 | [A Song For You](https://open.spotify.com/track/1eCPFL81U3d1cRK8ctUskM) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [A Song For You](https://open.spotify.com/album/4F7Q2zAAhywXzGWUWHv79X) | 4:14 |
 | 57 | [Stay up all night](https://open.spotify.com/track/46amnYJVLHxQhO0I95zAtB) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The Table](https://open.spotify.com/album/3Xe14CrDVjcP5ZSbQJ1q1r) | 3:35 |
 | 58 | [If we](https://open.spotify.com/track/5WmjItNSNET1ftW4xczaPl) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The Table](https://open.spotify.com/album/3Xe14CrDVjcP5ZSbQJ1q1r) | 3:07 |
 | 59 | [Trust me](https://open.spotify.com/track/2Z3x2LnzzZY5saqV3MncTr) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The Table](https://open.spotify.com/album/3Xe14CrDVjcP5ZSbQJ1q1r) | 3:21 |
-| 60 | [A scene without you](https://open.spotify.com/track/5JQnOzMgCr6sbBMnTPonsv) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [Special Single ‘I’m Bad’](https://open.spotify.com/album/7jlzbojtyoNJ5p73AD72Qt) | 3:45 |
+| 60 | [A scene without you](https://open.spotify.com/track/5JQnOzMgCr6sbBMnTPonsv) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [Special Single ‘I’m Bad’](https://open.spotify.com/album/7jlzbojtyoNJ5p73AD72Qt) | 0:29 |
 | 61 | [A little bit more...](https://open.spotify.com/track/3g9pvozCNKJZ9i8bo6zmMq) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ), [Yoon Han \(Pop Pianist\)](https://open.spotify.com/artist/5bRCVFekTRnptEuJ0ZxTtf) | [THE SECOND MINI ALBUM Hello](https://open.spotify.com/album/1MbaIRobEFpVKwERqfZMKO) | 3:49 |
-| 62 | [Good Bye Bye](https://open.spotify.com/track/7pzSzXBmYzO7qTKODtFDeL) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [NU'EST The First Album "Re:BIRTH"](https://open.spotify.com/album/0LwhNIhiEE3D0memGvBLfl) | 3:27 |
+| 62 | [Good Bye Bye](https://open.spotify.com/track/7pzSzXBmYzO7qTKODtFDeL) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [NU'EST The First Album "Re:BIRTH"](https://open.spotify.com/album/0LwhNIhiEE3D0memGvBLfl) | 0:29 |
 | 63 | [NA.NA.NA.涙](https://open.spotify.com/track/3s0R32RLmGDGgodudUulDt) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [Bridge the World](https://open.spotify.com/album/7DZjjPhb4umCBM6k5dfL8y) | 4:00 |
 | 64 | [Special message from REN](https://open.spotify.com/track/3j6pWe4oN2ZqlMUk5KwWFT) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [Romanticize \- Special Message](https://open.spotify.com/album/659HbB1fY1fl4eQzmHhIEr) | 0:22 |
 | 65 | [Call me back](https://open.spotify.com/track/23Im9O9sLsXEEntsJdoTRq) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The Table](https://open.spotify.com/album/3Xe14CrDVjcP5ZSbQJ1q1r) | 3:09 |
 | 66 | [Look \(a starlight night\)](https://open.spotify.com/track/6CWDoW2Q4CvUHz4K30OyRa) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The 5th Mini Album 'CANVAS'](https://open.spotify.com/album/2kol4AtxVszuo0MJoqoJ5R) | 4:00 |
 | 67 | [Talk about love](https://open.spotify.com/track/6fkLYC9FmTtJbXDIGKLrsM) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The 6th Mini Album 'Happily Ever After'](https://open.spotify.com/album/41Ai1koD5jbwDIwZsR7QxJ) | 3:10 |
 | 68 | [Let's Love \(with Spoonz\)](https://open.spotify.com/track/6ylxD8IFc8k5Lgkm1q5LxO) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [Let's Love \(with Spoonz\)](https://open.spotify.com/album/1w3V23EEkSmLwKflNatEab) | 3:18 |
-| 69 | [Storybook](https://open.spotify.com/track/6mFHi4AFYBBQPlMlHfIUQW) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [NU'EST The First Album "Re:BIRTH"](https://open.spotify.com/album/0LwhNIhiEE3D0memGvBLfl) | 3:43 |
+| 69 | [Storybook](https://open.spotify.com/track/6mFHi4AFYBBQPlMlHfIUQW) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [NU'EST The First Album "Re:BIRTH"](https://open.spotify.com/album/0LwhNIhiEE3D0memGvBLfl) | 0:29 |
 | 70 | [R.L.T.L \(Real Love True Love\) \(one morning\)](https://open.spotify.com/track/7l58y2kPeYhDynQBT9iqWd) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The 5th Mini Album 'CANVAS'](https://open.spotify.com/album/2kol4AtxVszuo0MJoqoJ5R) | 3:17 |
 | 71 | [Sandy](https://open.spotify.com/track/2GFG2V1SZIXDSc87MNmXKp) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [Action](https://open.spotify.com/album/5zDepklvxHMN6mByS43YC7) | 3:58 |
 | 72 | [Fine Girl](https://open.spotify.com/track/5a8pUA1aJBrmFky4iL0JJA) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [THE 3rd MINI ALBUM / Sleep Talking](https://open.spotify.com/album/4RH9G7CTNObHGVty9cHkPH) | 3:38 |
 | 73 | [Beautiful Ghost](https://open.spotify.com/track/61WM2WWXd8nlMkh3JiCrrG) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [THE 3rd MINI ALBUM / Sleep Talking](https://open.spotify.com/album/4RH9G7CTNObHGVty9cHkPH) | 4:06 |
-| 74 | [FACE](https://open.spotify.com/track/60oyvXjv0nwZnRrwZvZqUm) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [NU'EST The First Album "Re:BIRTH"](https://open.spotify.com/album/0LwhNIhiEE3D0memGvBLfl) | 3:40 |
+| 74 | [FACE](https://open.spotify.com/track/60oyvXjv0nwZnRrwZvZqUm) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [NU'EST The First Album "Re:BIRTH"](https://open.spotify.com/album/0LwhNIhiEE3D0memGvBLfl) | 0:29 |
 
 Snapshot ID: `MTY0NzQ5OTg2NCwwMDAwMDAwNzAwMDAwMTdmOTZhNGU4NDgwMDAwMDE3OGM1NDk4NjY4`

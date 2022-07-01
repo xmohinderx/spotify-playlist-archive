@@ -2,14 +2,15 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Arches
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: 吳林峰
 
-139 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/3cSFMATQHJw7Fzc2uC3LB1)
+144 songs - 8 hr 21 min - [published](https://open.spotify.com/playlist/3cSFMATQHJw7Fzc2uC3LB1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\*醉曖♥suck眠xD](https://open.spotify.com/track/6x0tJyZTvgJWltU5IVjwLX) | [Tynull](https://open.spotify.com/artist/0Xda6eqKjS4xRDAVFXoYNH) | [\*醉曖♥suck眠xD](https://open.spotify.com/album/3kyqAEJGtbMnxHzGyypdH5) | 4:39 | 2022-05-26 |  |
 | [1973的軌跡](https://open.spotify.com/track/5Z75p2CZda3ofl2umIJBmc) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Trickie Bonnie](https://open.spotify.com/artist/1nfAcziGyKgEOo0pIw4pVy) | [1973的軌跡](https://open.spotify.com/album/1s7oeSTjV48oXW3DlFrp3T) | 3:09 | 2022-06-02 |  |
+| [1973的軌跡 \(feat\. 張蔓姿\) \- Remix](https://open.spotify.com/track/5moDU8oOdByOJhZfT0UjQ3) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [1973的軌跡 \(feat\. 張蔓姿\) \[Remix\]](https://open.spotify.com/album/3znLBmeILQtq7RYZ6uGFIV) | 3:10 | 2022-06-30 |  |
 | [2 late](https://open.spotify.com/track/0UbJlumqvzFPZJjEvDlXc3) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [2 late](https://open.spotify.com/album/2nHdxmdxwHvL17UzryM7fl) | 2:29 | 2022-05-26 | 2022-06-10 |
 | [247](https://open.spotify.com/track/5MvZpSUkVwtWScGm5uJAGA) | [COPAK](https://open.spotify.com/artist/1sHepQ4XjdF9ReWrHFAQTo) | [247](https://open.spotify.com/album/15jWaDEBJyFQ21FTwk34v0) | 4:14 | 2022-05-26 |  |
 | [@renee\_0928](https://open.spotify.com/track/7AslDTik5dobaIM4jCAUHo) | [Fds/4eva](https://open.spotify.com/artist/6BAS4CMtL9MbsriwI4SL0Z) | [Greatest Hits](https://open.spotify.com/album/5X2G9WeSFy9EADzx7bT0b1) | 5:05 | 2022-05-26 | 2022-06-10 |
@@ -41,6 +42,7 @@
 | [GET TO IT](https://open.spotify.com/track/4CJw0fbqYhDEl5aIGx7oU0) | [Yung Bright](https://open.spotify.com/artist/0YnURC4kKD8ivGRxGKN5Hz), [Yung Raise](https://open.spotify.com/artist/03yNfXIvu6tsRxHqC5RV7k) | [<0>](https://open.spotify.com/album/0TLVt9mhdNlvikfqZnjUEe) | 3:09 | 2022-05-26 |  |
 | [Ghost of You](https://open.spotify.com/track/3xXJoQsT3wH9dSPg0y2Md1) | [lilong](https://open.spotify.com/artist/4UZPdE9dtMICvMOO8vb492) | [Ghost of You](https://open.spotify.com/album/1m6tY0dv3DgARjYlq8ksmi) | 3:42 | 2022-05-26 |  |
 | [GIGGLE](https://open.spotify.com/track/6i64lLGBXrXxkJ5y5yUiFC) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [GIGGLE](https://open.spotify.com/album/2D0xcHpatH08bxmjLzi8aq) | 2:48 | 2022-05-26 |  |
+| [Hang你老母 MeowMeow](https://open.spotify.com/track/42GaSRx19HNDyRBntX48Ux) | [Chrisok](https://open.spotify.com/artist/1DixYkPHal3npqnOSLyZaA) | [Hang你老母 MeowMeow](https://open.spotify.com/album/6xSiSkRW0zPgkF6r5P8F9J) | 1:52 | 2022-06-30 |  |
 | [HEAD ON YOUR SHOULDER](https://open.spotify.com/track/4Mnib2lihcKmricubFkKcp) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [BMW](https://open.spotify.com/artist/7cZ5ljacIj0RGAxAjijeqC), [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp) | [2020](https://open.spotify.com/album/1DMn7JbuPSz4ErrdQeYXZ0) | 3:54 | 2022-05-26 |  |
 | [Here's Hopin'](https://open.spotify.com/track/7bZ8q4lFrzHkkY92VA4smb) | [Ryan Cheung](https://open.spotify.com/artist/3Pr8ZuTkrQknmsRH5XAhZV) | [Here's Hopin'](https://open.spotify.com/album/4Ypsn5fDUlXdoxRXMi3iZ8) | 3:53 | 2022-06-02 |  |
 | [honest \(feat\. moon tang\)](https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [honest \(feat\. moon tang\)](https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7) | 2:57 | 2022-05-26 | 2022-06-10 |
@@ -50,9 +52,10 @@
 | [hypocritical](https://open.spotify.com/track/1pB2TGji7Df7lD4P1hlx2I) | [Crlsyiu](https://open.spotify.com/artist/3QCcg3sxycinU9J2khknoK) | [hypocritical](https://open.spotify.com/album/0myS8GbqDFVywteUX1Q2Ee) | 3:17 | 2022-06-02 |  |
 | [i hate u](https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u](https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI) | 2:49 | 2022-06-02 |  |
 | [I'm not the one](https://open.spotify.com/track/3xqhWlBXXGrIYi1ayfYCqB) | [Ethan Tong](https://open.spotify.com/artist/6ism2YHCPqfxz6Rja13RUb) | [I'm not the one](https://open.spotify.com/album/0Vr2ZGzGQlXjQNvLAKbuL9) | 4:29 | 2022-05-26 |  |
+| [If I Can Be You](https://open.spotify.com/track/4D8ROLAVQZ4MMNDvXxIWXa) | [Gordon Ho](https://open.spotify.com/artist/1k0HqYv6UVaBu3spRZcSTn) | [If I Can Be You](https://open.spotify.com/album/2toJPghMs49FkCDeYnRIT7) | 3:19 | 2022-06-30 |  |
 | [If I Would Have Known](https://open.spotify.com/track/6jn9lZE9wlNVap68nbYJ9Y) | [Chancharlie](https://open.spotify.com/artist/43ibupoLM6nWMGBh14Og4T) | [If I Would Have Known](https://open.spotify.com/album/1ER0gWPRaKzCcC9o7BGhta) | 3:21 | 2022-06-24 |  |
 | [L.over Remix](https://open.spotify.com/track/5WTAyEu3w3YIjHN2q8eb61) | [Wesley Jamison](https://open.spotify.com/artist/12GNxIR2n8u96v6Gyji4uy), [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68) | [L.over Remix](https://open.spotify.com/album/6gBgfP26HuP5JE2SjFZ0uc) | 3:18 | 2022-05-26 |  |
-| [lately](https://open.spotify.com/track/0xEpNvwICCpdZU6i2h0GUr) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [lately](https://open.spotify.com/album/69k19hsB1YmW23a7Z5fHqf) | 2:50 | 2022-05-26 |  |
+| [lately](https://open.spotify.com/track/0xEpNvwICCpdZU6i2h0GUr) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [lately](https://open.spotify.com/album/69k19hsB1YmW23a7Z5fHqf) | 0:29 | 2022-05-26 |  |
 | [Lights Camera Action](https://open.spotify.com/track/0AnwtaDOeEOGfG5WPA3H8Y) | [Haysen Cheng](https://open.spotify.com/artist/0nh7l4AluXpKHvqx1f3biK), [Harikiri](https://open.spotify.com/artist/6l8D5mZvv6wusxpawsw1t6) | [Lights Camera Action](https://open.spotify.com/album/5sZg0L4un96F5ed8x2g3XG) | 2:14 | 2022-06-02 |  |
 | [lost you twice](https://open.spotify.com/track/3s5c0uvwMLkFe1f7ow9B0Z) | [Walter Kwan](https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot) | [lost you twice](https://open.spotify.com/album/4MhFlHb9GRJoHBoLq1d8tx) | 4:28 | 2022-05-26 | 2022-06-10 |
 | [Love, \_\_](https://open.spotify.com/track/3gjKiyC6z1nz81x0PazMb7) | [Noisy Charlie](https://open.spotify.com/artist/64O9yp0OG3PUKs11YjcAWN) | [Love, \_\_](https://open.spotify.com/album/6Wz5W6ZiIMHS6i2hyVqtF1) | 6:47 | 2022-05-26 |  |
@@ -118,6 +121,7 @@
 | [卡式](https://open.spotify.com/track/6LGEh3lJXkDfgqyOLcM5Vf) | [Johnson C](https://open.spotify.com/artist/4cqSfFi0L1wjn3BA3hS5Yr) | [卡式](https://open.spotify.com/album/0GLJnvy5kh2EUyJSWgdNY1) | 2:50 | 2022-06-16 |  |
 | [囉囉攣](https://open.spotify.com/track/0u1mnT0MlUXVFcuqtYvknx) | [Novel Flash](https://open.spotify.com/artist/5XYIw1a2PQZH59E7h5XVwx) | [囉囉攣](https://open.spotify.com/album/6CIkXpfWJuJJ408YCC6oOf) | 2:40 | 2022-05-26 |  |
 | [回到自己](https://open.spotify.com/track/1MLnyqRlbDal3gL3QmHcHK) | [Winter Bagels](https://open.spotify.com/artist/5greJ5P16QGOFlMTnDH8F0) | [回到自己](https://open.spotify.com/album/6aYvUkvwZcH5grv9Sa8WAW) | 5:24 | 2022-05-26 |  |
+| [土撥鼠之日](https://open.spotify.com/track/1WOGWWiU4vw88sjuw6TYxy) | [吳林峰](https://open.spotify.com/artist/7vUVBbfIykXkc668JoZI5P) | [土撥鼠之日](https://open.spotify.com/album/0menm8q2ZCWDw6eK6qhAul) | 3:18 | 2022-06-30 |  |
 | [在離境大堂告別...](https://open.spotify.com/track/2Nfk9kagAJJctveTSRWd5h) | [未能接通](https://open.spotify.com/artist/1hmX3srvf3H7T95DCUAF8S) | [在離境大堂告別...](https://open.spotify.com/album/4EUQZWlJHWNXGon1CeP6Hl) | 3:27 | 2022-05-26 |  |
 | [奇妙偶遇](https://open.spotify.com/track/4LkABtTRxZ4uxJ9UlZ7KY4) | [J Ho](https://open.spotify.com/artist/3hLoyLpu0vKQwSQ63c3xcy), [Taotao](https://open.spotify.com/artist/3nZ6CYSRqJCHL37Dng4NlX) | [奇妙偶遇](https://open.spotify.com/album/7n2KcZ0qZHHAvQXTD26uZ4) | 3:18 | 2022-06-02 |  |
 | [小鹿亂撞\(feat\. Teriver Cheung\)](https://open.spotify.com/track/2t5nL7RagGw1jJGy0Bve76) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [Teriver Cheung](https://open.spotify.com/artist/4vPd1Ln6Xn65TCTvhT6ARy) | [小鹿亂撞\(feat\. Teriver Cheung\)](https://open.spotify.com/album/65MVSKnupszlQDM48dTzqr) | 4:06 | 2022-05-26 |  |
@@ -138,6 +142,7 @@
 | [荒謬](https://open.spotify.com/track/2ffz1KYTxcH0szaFI7FPyv) | [Lester Chong](https://open.spotify.com/artist/1r19EpaTIboSLEJFgJ4Y4p) | [ZiNG!](https://open.spotify.com/album/238I1dAZg6aMYIazEk4eiv) | 3:48 | 2022-05-26 |  |
 | [蘋果樹下](https://open.spotify.com/track/1hZGlDhhkGdNCAo5TBL7hG) | [HeartShine](https://open.spotify.com/artist/2N77bYeH8lzQ2jfhSiqNDB) | [蘋果樹下](https://open.spotify.com/album/59Dt1xdXS8HE6z7f22or8T) | 4:25 | 2022-05-26 | 2022-06-10 |
 | [褐色的眼睛](https://open.spotify.com/track/2ih823m7ZUJg9omTJXlSJX) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [dy](https://open.spotify.com/artist/11dkaOJSGGuwn9QsItqyzm) | [褐色的眼睛](https://open.spotify.com/album/3A2uWD7yUHzoBmKHdu3Xud) | 3:22 | 2022-05-26 | 2022-06-10 |
+| [西方極樂](https://open.spotify.com/track/1BaWtTnOgSXSEaDzpFTU2p) | [Rawtrack](https://open.spotify.com/artist/2rtmiGX447uwtb0bcQ5bDE) | [西方極樂](https://open.spotify.com/album/1ZsJDmzCevkMRPZFs5NiXa) | 4:06 | 2022-06-30 |  |
 | [蹺蹊](https://open.spotify.com/track/4o3T8OsWSj25ZBujlPapff) | [handwash](https://open.spotify.com/artist/752lc6wrZTHlw74HVfAAva) | [蹺蹊](https://open.spotify.com/album/3IzhNtnRhc5SbBgLtCpmXJ) | 2:58 | 2022-05-26 | 2022-06-10 |
 | [輕不著地](https://open.spotify.com/track/2mun9hZy8ZOLEHNf0kgJwy) | [before the night ends](https://open.spotify.com/artist/4AGHDyw984Ss54AzrGeTgU) | [輕不著地](https://open.spotify.com/album/2Qp2UULxgZ99HMarRRctbn) | 4:58 | 2022-05-26 |  |
 | [這晚更壞](https://open.spotify.com/track/11fMLk7ru6mnuMofTf9f4L) | [Higgo Raj](https://open.spotify.com/artist/3YEVEdKje1zmAHh8Hsxgnb) | [這晚更壞](https://open.spotify.com/album/5tqLPLqNgumAMFmD1pZo1X) | 3:01 | 2022-05-26 |  |

@@ -4,11 +4,11 @@
 
 > Hair goals, spandex and epic guitar solos\. We got you.
 
-105 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/4bxy2w5YWYTLJmkcQGjnaz)
+105 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/4bxy2w5YWYTLJmkcQGjnaz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [18 and Life](https://open.spotify.com/track/1HlGblweLq0eAwnb0NY1EQ) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Best Of](https://open.spotify.com/album/0D48ZbriW82M2GbOKCbd1G) | 3:51 | 2020-10-08 |  |
+| [18 and Life](https://open.spotify.com/track/1HlGblweLq0eAwnb0NY1EQ) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Best Of](https://open.spotify.com/album/0D48ZbriW82M2GbOKCbd1G) | 0:29 | 2020-10-08 |  |
 | [Ace of Spades](https://open.spotify.com/track/6EPRKhUOdiFSQwGBRBbvsZ) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91) | 2:46 | 2020-10-08 |  |
 | [Addicted To That Rush](https://open.spotify.com/track/4QPRua3G7RQraiYX2NwdH6) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Mr\. Big](https://open.spotify.com/album/78ed0Ew3rR89MCbOaEyFZQ) | 4:44 | 2020-10-08 |  |
 | [Ain't Talkin' 'Bout Love \- 2015 Remaster](https://open.spotify.com/track/6fybp4N6eW3bsFAvARxyVe) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Remastered\)](https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ) | 3:47 | 2020-10-08 |  |
@@ -49,7 +49,7 @@
 | [I Don't Believe In Love \- Remastered 2003](https://open.spotify.com/track/0U2TocFjqul3sis3sE5jZl) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [Operation: Mindcrime \(Deluxe Edition\)](https://open.spotify.com/album/4eEQ3aNA8mptFIfbFdX79p) | 4:23 | 2020-10-08 |  |
 | [I Hate Myself for Loving You](https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 4:06 | 2020-10-08 |  |
 | [I Remember You](https://open.spotify.com/track/4ZpXHlV2vQVfPXUvbDSZ92) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi) | 5:13 | 2020-10-08 |  |
-| [I Surrender](https://open.spotify.com/track/0gGJO7JM51uAUu7EE2lxx6) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Difficult To Cure](https://open.spotify.com/album/1S7skgvAjZ4r0r8WcqDY7J) | 4:01 | 2020-10-08 |  |
+| [I Surrender](https://open.spotify.com/track/0gGJO7JM51uAUu7EE2lxx6) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Difficult To Cure](https://open.spotify.com/album/1S7skgvAjZ4r0r8WcqDY7J) | 0:29 | 2020-10-08 |  |
 | [I Wanna Be Somebody](https://open.spotify.com/track/5F8WPtrurLmNE3tv6Sm14m) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [WASP](https://open.spotify.com/album/5ve6MqQrbyQyf4vFUDar6G) | 3:43 | 2020-10-08 |  |
 | [I Was Made For Lovin' You](https://open.spotify.com/track/2ZSCy3P1QzpJySCWA6NRIU) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty \(Remastered Version\)](https://open.spotify.com/album/3vasiwx11ruCgyn54MBJYL) | 4:31 | 2020-10-08 |  |
 | [In My Dreams \(Re\-Recorded / Remastered\)](https://open.spotify.com/track/5IXUAYqwxmAFj69RWYFzbU) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Greatest Hits \(Re\-Recorded / Remastered Versions\)](https://open.spotify.com/album/0yTOt9Nd9IpyuYc74t1tNP) | 4:33 | 2020-10-08 |  |
@@ -57,7 +57,7 @@
 | [Is This Love \- 2017 Remastered Version](https://open.spotify.com/track/3qwnfEm2N8lvD9BaJvOfaW) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake \(30th Anniversary Remaster\)](https://open.spotify.com/album/0CCJc4HNZTsrGFQfI7lnx9) | 4:44 | 2020-10-08 |  |
 | [Jump](https://open.spotify.com/track/2PfBSkCKZDXMsJogMT0wML) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984](https://open.spotify.com/album/6x2n6wj3WvkRi8J8gxEcF0) | 3:59 | 2020-10-08 |  |
 | [Just Like Paradise](https://open.spotify.com/track/5ZY7Gug850kv4heJcWZGHM) | [David Lee Roth](https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3) | [Skyscraper](https://open.spotify.com/album/2mYFKWSxCYhLHSXsjLDmp4) | 4:03 | 2020-10-08 |  |
-| [Kickstart My Heart](https://open.spotify.com/track/0mDpR6DpKc2DyiGtH0NcX8) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [The Greatest Hits](https://open.spotify.com/album/5ZcguNVlH10M9y2yJYcAdH) | 4:42 | 2020-10-08 |  |
+| [Kickstart My Heart](https://open.spotify.com/track/0mDpR6DpKc2DyiGtH0NcX8) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [The Greatest Hits](https://open.spotify.com/album/5ZcguNVlH10M9y2yJYcAdH) | 0:29 | 2020-10-08 |  |
 | [Kiss Me Deadly](https://open.spotify.com/track/0kFM6t9htbB53Dg8frGDGh) | [Lita Ford](https://open.spotify.com/artist/77tBvvyd6SD4Y9Um1xcbxP) | [Lita](https://open.spotify.com/album/5nfd1bXqze24U3EZXP1Qlk) | 4:01 | 2020-10-08 |  |
 | [Lay It Down](https://open.spotify.com/track/3D5ORNm9spaTcdRx50ksHx) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Invasion of Privacy](https://open.spotify.com/album/7CzsLoFBEMElxviJoApcAI) | 3:25 | 2020-10-08 |  |
 | [Lay It on the Line](https://open.spotify.com/track/4QwcuKjGjtl5fZe7kDdULV) | [Triumph](https://open.spotify.com/artist/4YfnJEbTz8QLD5FusYFwV6) | [Greatest Hits Remixed \(Deluxe Edition\)](https://open.spotify.com/album/5XDjmthwOECD5BczWlBkzA) | 4:06 | 2021-09-20 |  |
@@ -82,7 +82,7 @@
 | [Rock And Roll All Nite](https://open.spotify.com/track/7990Xs9HQx7FXVIDVPEwj9) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill \(Remastered Version\)](https://open.spotify.com/album/2hMjDSywkwY2HxjmWObpoI) | 2:48 | 2020-10-08 |  |
 | [Rock the Night](https://open.spotify.com/track/4NffXDmI70vw19P5Efoe0T) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [Playlist: The Very Best Of Europe](https://open.spotify.com/album/305Ae8uvs0wDqSGGOyBq1Z) | 4:07 | 2020-10-08 |  |
 | [Rock You Like A Hurricane](https://open.spotify.com/track/0XIvZ82aDF7JiSi3ZE320u) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/6d4dgGamepehj0WwsYXTKi) | 4:12 | 2020-10-08 |  |
-| [Round and Round](https://open.spotify.com/track/0SFS1LxNP5wgnoDA7nGKQu) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Rhino Hi\-Five: Ratt](https://open.spotify.com/album/7Lx0ft6eH3V087cAOPaqnk) | 4:25 | 2020-10-08 |  |
+| [Round and Round](https://open.spotify.com/track/0SFS1LxNP5wgnoDA7nGKQu) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Rhino Hi\-Five: Ratt](https://open.spotify.com/album/7Lx0ft6eH3V087cAOPaqnk) | 0:29 | 2020-10-08 |  |
 | [Runaway](https://open.spotify.com/track/0X1sqQ652p1sceKM2nJlIJ) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Bon Jovi](https://open.spotify.com/album/1UUOBzIHw0noiRGRpbt3sz) | 3:50 | 2020-10-08 |  |
 | [Runnin' with the Devil \- 2015 Remaster](https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Remastered\)](https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ) | 3:34 | 2020-10-08 |  |
 | [Seventeen](https://open.spotify.com/track/2ZS0wDcdfrJPC86u5aJGo9) | [Winger](https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874) | [Winger](https://open.spotify.com/album/4aMtQDeDMAHBfh7cE87PWo) | 4:05 | 2020-10-08 |  |
@@ -95,7 +95,7 @@
 | [Summertime Girls \- Studio Version](https://open.spotify.com/track/2kR3B09M6KeJnchOkxwszt) | [Y&T](https://open.spotify.com/artist/49Cw140t9jupn4S3udehoP) | [Best Of '81 To '85](https://open.spotify.com/album/5xIW0nuj53BTZaeLx9KePE) | 3:29 | 2020-10-08 |  |
 | [Sweet Child O' Mine](https://open.spotify.com/track/4MhTFsyqIJnjsOweVcU8ug) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/5JKFiC2WVi9HtvJEm8CUB8) | 5:56 | 2020-10-08 |  |
 | [Talk Dirty To Me](https://open.spotify.com/track/473dVAB97y06dfl6OBb1uj) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Double Dose: Ultimate Hits](https://open.spotify.com/album/1AyHmo89P5cOTi7kHkqzJF) | 3:44 | 2020-10-08 |  |
-| [The Final Countdown](https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 5:10 | 2020-10-08 |  |
+| [The Final Countdown](https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 0:29 | 2020-10-08 |  |
 | [Uncle Tom's Cabin](https://open.spotify.com/track/3WW3g2scq0m7ZY5JCxrdWw) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Cherry Pie](https://open.spotify.com/album/4LgsHyufRmmcB1HIqTES19) | 4:01 | 2020-10-08 |  |
 | [Unskinny Bop](https://open.spotify.com/track/1Z6lKdYhwp8WYoBqGCKxlM) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Flesh & Blood](https://open.spotify.com/album/7alngtync76VqYWSKxcBhB) | 3:48 | 2020-10-08 |  |
 | [Up All Night](https://open.spotify.com/track/1AsRjeavWPH8sCQbjMP8Xh) | [Slaughter](https://open.spotify.com/artist/4ibNXJiMYOPibpS9DB9Qz3) | [Mass Slaughter](https://open.spotify.com/album/1PLl8ONmplOUyu5Bq8GYJL) | 3:46 | 2020-10-08 |  |

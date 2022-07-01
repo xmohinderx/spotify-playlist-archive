@@ -4,7 +4,7 @@
 
 > el amor es <3
 
-85 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/7dPiJaC0XHnK85wBeMmGkl)
+85 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/7dPiJaC0XHnK85wBeMmGkl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Torpe](https://open.spotify.com/track/7K1fAw9P8R73Sc6CpgIgJH) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Torpe](https://open.spotify.com/album/0V3VrTi9ioSHgy4kM9aRf4) | 4:12 | 2022-02-25 |  |
 | [Tu Cama](https://open.spotify.com/track/6AUIkhdaclFNe78RyHyE3c) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [Tu Cama](https://open.spotify.com/album/03Ubq2zdcNz5kVkWyGWXkz) | 3:21 | 2022-02-25 | 2022-06-25 |
 | [Tu Pirata Soy Yo](https://open.spotify.com/track/6O1o9VfjMgZEZeir5Ws6pF) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Tu Pirata Soy Yo](https://open.spotify.com/album/3CK1MWQvuf8LVJWhmldkUU) | 2:47 | 2022-02-25 |  |
-| [Tú](https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Tú](https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2) | 3:26 | 2022-02-25 |  |
+| [Tú](https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Tú](https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2) | 0:29 | 2022-02-25 |  |
 | [Una Noche Más](https://open.spotify.com/track/4CT9AWXN4jphJxRBhnUiNi) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Una Noche Más](https://open.spotify.com/album/7gJmkFRzY2CZAbtrpZJ8ct) | 3:31 | 2022-02-25 |  |
 | [Una Vez Más](https://open.spotify.com/track/2chfSxiJbU8B8jpEHyuNm2) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Una Vez Más](https://open.spotify.com/album/1mri8yUsQmnnkyKDAYA9pC) | 4:05 | 2022-02-25 |  |
 | [Ven](https://open.spotify.com/track/5DgkSVSCF1IsXve0pElRph) | [Rafa Solis](https://open.spotify.com/artist/6jUerHG64XRsbaumkCDGCM) | [Ven](https://open.spotify.com/album/4sAqGkoNmGF2yHgzbDZUW1) | 3:31 | 2022-02-25 |  |
@@ -92,6 +92,6 @@
 | [Volver](https://open.spotify.com/track/0PSmtygePqmxByr5eh0HST) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Volver](https://open.spotify.com/album/68M1eXLRiP9zLQOZbmSth7) | 3:10 | 2022-02-25 |  |
 | [¿Por Qué Te Vas?](https://open.spotify.com/track/5fbXq2DO9z08zKW5AuIyBH) | [Pan De Muerto](https://open.spotify.com/artist/7zugcuzk2eppw4TKqyOEi1) | [¿Por Qué Te Vas?](https://open.spotify.com/album/5eIwO7FPGAtBBRuMTZ4OsX) | 5:15 | 2022-02-25 |  |
 | [¿Qué Se Siente Que Me Gustes Tanto?](https://open.spotify.com/track/2BWao7MNRld2ucMxswvxaU) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Suspiros](https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK) | 3:04 | 2022-02-25 | 2022-06-25 |
-| [Átame](https://open.spotify.com/track/0oLIHr9UiL68al3E8MeT2u) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Átame](https://open.spotify.com/album/0dDvgoijFTIRu3gPR4XTpn) | 3:10 | 2022-02-25 |  |
+| [Átame](https://open.spotify.com/track/0oLIHr9UiL68al3E8MeT2u) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Átame](https://open.spotify.com/album/0dDvgoijFTIRu3gPR4XTpn) | 0:29 | 2022-02-25 |  |
 
 \*This playlist was first scraped on 2022-06-03. Prior content cannot be recovered.

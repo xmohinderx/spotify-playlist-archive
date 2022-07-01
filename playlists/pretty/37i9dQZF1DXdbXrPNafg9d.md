@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Soccer Mommy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,222,176 likes - 165 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,222,476 likes - 165 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 27 | [Comfortable](https://open.spotify.com/track/5QyNMyfhBMIStzL07zQ9Hj) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Comfortable](https://open.spotify.com/album/7jgQ0wQzBIWPeQOlrUYC1S) | 3:31 |
 | 28 | [Doomsday](https://open.spotify.com/track/3o350spzXQYygiIQkXIQdU) | [JDM Global](https://open.spotify.com/artist/3wFZTYWrzLzOf8OICy9fBl) | [Go Easy](https://open.spotify.com/album/0UpZVkSpRyaaFiktj1Sj9x) | 2:22 |
 | 29 | [Hamptons City Cowboy](https://open.spotify.com/track/6JXO6V9nNKwBeJMIyeeL1s) | [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls) | [Hamptons City Cowboy](https://open.spotify.com/album/2ykNdEeV01TEjq7inVoNCS) | 2:57 |
-| 30 | [Meeting Eddie Smith](https://open.spotify.com/track/41MwuIrOmez8k0X5mH9emb) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Meeting Eddie Smith](https://open.spotify.com/album/0Zzyns4s6SphSyfDrg60cC) | 3:38 |
+| 30 | [Meeting Eddie Smith](https://open.spotify.com/track/41MwuIrOmez8k0X5mH9emb) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Meeting Eddie Smith](https://open.spotify.com/album/0Zzyns4s6SphSyfDrg60cC) | 0:29 |
 | 31 | [Think Nothing](https://open.spotify.com/track/2beHFbJTzHSDZ9smRsq9TK) | [Sydney Sprague](https://open.spotify.com/artist/6kclOkS27VyWBtdnNq5GHs) | [Think Nothing](https://open.spotify.com/album/1pW4u5dnjaMZVMJHR4oIZ6) | 3:31 |
 | 32 | [Mercury](https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Mercury](https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd) | 4:58 |
 | 33 | [Photograph](https://open.spotify.com/track/7qG7bsMPOmiMt0uT13cLx5) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Ugly Season](https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L) | 4:41 |

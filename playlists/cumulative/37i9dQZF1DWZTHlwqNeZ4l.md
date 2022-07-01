@@ -4,7 +4,7 @@
 
 > Tapping Gallant, ANOHNI, and more, the Canadian duo forge a Pride list that defines eclecticism\. Listen for a new tune with Ingrid Michaelson.
 
-27 songs - 1 hr 39 min - [published](https://open.spotify.com/playlist/5ZnqR4bBjTmkxLaZkof7fU)
+27 songs - 1 hr 37 min - [published](https://open.spotify.com/playlist/5ZnqR4bBjTmkxLaZkof7fU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Real Love](https://open.spotify.com/track/2LfOLw9Cq3J7okmaNuoUWq) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Real Love](https://open.spotify.com/album/2vo4oS67h53A4lugsqxiyq) | 4:17 | 2017-06-02 |  |
 | [See, Know](https://open.spotify.com/track/3VjhqZXe5WYyyFYgCrVJkO) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Will](https://open.spotify.com/album/5TQGEWrZpq2O5TdRbLID3q) | 5:04 | 2017-06-02 |  |
 | [Shadow \- Radio](https://open.spotify.com/track/7HB9ilX2MtVzvgdrarihMk) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Shadow](https://open.spotify.com/album/4gy94KSgNMaxdSNQPPMKxO) | 3:45 | 2017-06-02 |  |
-| [Sprained Ankle](https://open.spotify.com/track/5mHTg6cqhyP0BmsTQKzN1X) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Sprained Ankle](https://open.spotify.com/album/4dRzxZm69k9s0nzKmKb8Gj) | 2:22 | 2017-06-02 |  |
+| [Sprained Ankle](https://open.spotify.com/track/5mHTg6cqhyP0BmsTQKzN1X) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Sprained Ankle](https://open.spotify.com/album/4dRzxZm69k9s0nzKmKb8Gj) | 0:29 | 2017-06-02 |  |
 | [Talking to Myself](https://open.spotify.com/track/5ivOiIOSkypt3P1jqjlmcf) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Ology](https://open.spotify.com/album/4VZh7EI0gjL2FkLWNBVIWf) | 3:57 | 2017-06-02 |  |
 | [Tangled Memories](https://open.spotify.com/track/1lRidQjEY5OrBB0QrOdBuS) | [GEMS](https://open.spotify.com/artist/1hjVmBR8STjix0vBUe5YfN) | [Tangled Memories](https://open.spotify.com/album/0o4evpsxawqnPzfplaYyYS) | 4:00 | 2017-06-02 |  |
 | [Tegan and Sara on "Boyfriend"](https://open.spotify.com/track/6cVrx71STTft6XxOcNWX63) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Tegan and Sara \- Spotify Pride](https://open.spotify.com/album/0xYvIMRxFzd25UqhFOeSIq) | 0:21 | 2017-06-02 |  |

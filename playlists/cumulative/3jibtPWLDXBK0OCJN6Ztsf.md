@@ -4,7 +4,7 @@
 
 > 
 
-50 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/2bNiQfUoajfrce1ErpJW6l)
+50 songs - 3 hr 6 min - [published](https://open.spotify.com/playlist/2bNiQfUoajfrce1ErpJW6l)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Milli](https://open.spotify.com/track/5wHWmhNmpAMBmUniY37xUq) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter III](https://open.spotify.com/album/03NKHAkbP5oEGarLrVuLPi) | 3:41 | 2013-06-27 |  |
 | [American Boy \(feat\. Kanye West\)](https://open.spotify.com/track/5qm85spREm4P8Q46RxsEV8) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [American Boy \(feat\. Kanye West\)](https://open.spotify.com/album/7M4CLMsOAcLaEfVNxiAeVi) | 4:44 | 2013-06-27 |  |
 | [Apologize \- feat\. One Republic](https://open.spotify.com/track/3cS2ehbKNtl5p56K5qo65s) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Apologize](https://open.spotify.com/album/73tygJHkrXNS6RVqitv7IS) | 3:05 | 2013-06-27 |  |
-| [Bleeding Love](https://open.spotify.com/track/6LtPIXlIzPOTF8vTecYjRe) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq) | 4:22 | 2013-06-27 |  |
+| [Bleeding Love](https://open.spotify.com/track/6LtPIXlIzPOTF8vTecYjRe) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq) | 0:29 | 2013-06-27 |  |
 | [Bubbly](https://open.spotify.com/track/1lkvpmrCaXK8QtliFDcHBO) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Coco](https://open.spotify.com/album/7a8mrq83VEf0PoFh6pvtsb) | 3:16 | 2013-06-27 |  |
 | [Bust It Baby, Pt\. 2 \(feat\. Ne\-Yo\)](https://open.spotify.com/track/5nwbhVgBofo4eQJJ9ej1bw) | [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Bust It Baby, Pt\. 2 \(feat\. Ne\-yo\)](https://open.spotify.com/album/1rSbXB5V0Lm6ZXthQYq98x) | 4:00 | 2013-06-27 |  |
 | [Can't Believe It \(feat\. Lil' Wayne\)](https://open.spotify.com/track/3u0U15DxIJQEdqWBNoxSWM) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [THR33 RINGZ](https://open.spotify.com/album/4GJaN3V7H5NWUQZ7xHzaFI) | 4:33 | 2013-06-27 |  |
@@ -26,7 +26,7 @@
 | [Got Money](https://open.spotify.com/track/7kMOzDgfcS6qXQHvfXfByU) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Tha Carter III](https://open.spotify.com/album/03NKHAkbP5oEGarLrVuLPi) | 4:04 | 2013-06-27 |  |
 | [Hot N Cold](https://open.spotify.com/track/22Lg6vvMS2JC07aAjsGvtU) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Hot N Cold](https://open.spotify.com/album/4HR0CUur5ucPjpyOYdNJY1) | 3:43 | 2013-06-27 |  |
 | [I Kissed A Girl](https://open.spotify.com/track/14iN3o8ptQ8cFVZTEmyQRV) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ) | 2:59 | 2013-06-27 |  |
-| [I'm Yours](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 4:02 | 2013-06-27 |  |
+| [I'm Yours](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 0:29 | 2013-06-27 |  |
 | [Kiss Kiss \(feat\. T\-Pain\)](https://open.spotify.com/track/47x1F4HyX7LafFgxtoa19P) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Exclusive \- The Forever Edition](https://open.spotify.com/album/1UtE4zAlSE2TlKmTFgrTg5) | 4:10 | 2013-06-27 |  |
 | [Leavin'](https://open.spotify.com/track/068HsG1SFKk4E27Iio2tyE) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Departure](https://open.spotify.com/album/5PlXcvtyl5aQfGV9GOdqbY) | 3:38 | 2013-06-27 |  |
 | [Like You'll Never See Me Again](https://open.spotify.com/track/3JHDtmFdX9kdx9wz0md98U) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 5:15 | 2013-06-27 |  |
@@ -50,7 +50,7 @@
 | [Stop And Stare](https://open.spotify.com/track/5jOK1nlVScTUWie5lZ8SL9) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [OneRepublic Collected](https://open.spotify.com/album/4h4V64DM6kdYFR34ltpnDL) | 3:43 | 2013-06-27 |  |
 | [Take A Bow](https://open.spotify.com/track/27axXGUeqHViAhTNPYpbho) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Take A Bow](https://open.spotify.com/album/3vnqqDyTUdaoyjxunzHgZo) | 3:48 | 2013-06-27 |  |
 | [Take You There](https://open.spotify.com/track/7eXaMgFwtyLLrfhzyUbQxh) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Sean Kingston](https://open.spotify.com/album/1epDOkgUETsurG4Y3OxByx) | 3:56 | 2013-06-27 |  |
-| [Tattoo](https://open.spotify.com/track/0eIfBjs1pMiRNkbngEATQi) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Tattoo](https://open.spotify.com/album/2vs1R7Yb971sHwpkB2L6Mx) | 3:52 | 2013-06-27 |  |
+| [Tattoo](https://open.spotify.com/track/0eIfBjs1pMiRNkbngEATQi) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Tattoo](https://open.spotify.com/album/2vs1R7Yb971sHwpkB2L6Mx) | 0:29 | 2013-06-27 |  |
 | [Teardrops On My Guitar](https://open.spotify.com/track/5ru8NxVD4U5zH7wJtt1cE5) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless](https://open.spotify.com/album/2s9WRNoIFC7gxnorPhbQQA) | 3:13 | 2013-06-27 |  |
 | [Touch My Body](https://open.spotify.com/track/3gzvhbYPlFplWwZdNlBXlZ) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [E=MC²](https://open.spotify.com/album/3qskwkDBhncn7UJTeyw74z) | 3:24 | 2013-06-27 |  |
 | [Viva La Vida](https://open.spotify.com/track/68l6YZZ8TlcWVq98l5eW6l) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida Or Death And All His Friends](https://open.spotify.com/album/1t6IvnarocBrgXg5pMSyIy) | 4:02 | 2013-06-27 |  |

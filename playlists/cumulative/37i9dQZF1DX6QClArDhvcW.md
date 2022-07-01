@@ -4,7 +4,7 @@
 
 > Laid\-back beats for an easygoing morning.
 
-186 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/12agLavhB21B7hX1nj1r3c)
+187 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/12agLavhB21B7hX1nj1r3c)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Aisuru](https://open.spotify.com/track/1kNRezqPjsOWe4eD5PKFju) | [Pat Laine](https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g) | [Aisuru](https://open.spotify.com/album/39EihYglkIR0bgY68aTEht) | 2:44 | 2022-05-20 |  |
 | [all the things I can't control](https://open.spotify.com/track/7qQot1bz4npRHXSrPGbfVa) | [Aviscerall](https://open.spotify.com/artist/39eka3QcVZN0xYUX5nvtXM) | [all the things I can't control](https://open.spotify.com/album/424klxgKsiS3TbbZjTylsD) | 2:14 | 2022-05-20 |  |
 | [an ordinary night](https://open.spotify.com/track/18b2tn5ZE4qocknxWP4XOU) | [Cold hands](https://open.spotify.com/artist/3e6Edrwl1C59W0yXPMJkwa) | [an ordinary night](https://open.spotify.com/album/5sA9Qwmsb2aBwMkbCJjy5g) | 2:46 | 2022-05-20 |  |
-| [Angel Number](https://open.spotify.com/track/0nwUtqy8TOnRahAzCmL42A) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Angel Number](https://open.spotify.com/album/1X6EUgFJT1cwbG5SCePy7f) | 2:26 | 2022-05-20 |  |
+| [Angel Number](https://open.spotify.com/track/0nwUtqy8TOnRahAzCmL42A) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Angel Number](https://open.spotify.com/album/1X6EUgFJT1cwbG5SCePy7f) | 0:29 | 2022-05-20 |  |
 | [another LOOK](https://open.spotify.com/track/3ujm2z1mOalAvVyE0yDLbF) | [francesco MG](https://open.spotify.com/artist/3jsOcrGsjDdIRR7EobZMDr) | [another LOOK](https://open.spotify.com/album/52v3M4zfMlRUQjkALjohRU) | 1:57 | 2022-05-20 |  |
 | [Another Love](https://open.spotify.com/track/4XTrIwsTRgNHQm6RGGligj) | [Murmur](https://open.spotify.com/artist/21h7fpqGaOoiOShHsTbYhX) | [Another Love](https://open.spotify.com/album/5WDRlShcbymeQXkdjL560h) | 1:46 | 2022-06-24 |  |
 | [Beach Bums](https://open.spotify.com/track/6kBXI5i7TtXvfGo6QbNaQJ) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [Beach Bums](https://open.spotify.com/album/0orNpYK3DeR7oiPm7opYbp) | 3:55 | 2022-05-20 |  |
@@ -86,7 +86,7 @@
 | [Khayana](https://open.spotify.com/track/3OCs6iHLZf7NtYqZULM2AY) | [Damien Seul](https://open.spotify.com/artist/0aUdovRwbnx4Z5qLIgBVDE) | [Khayana](https://open.spotify.com/album/1D5Ey1JTJH0b6VbgJxdrsJ) | 1:24 | 2022-05-20 | 2022-05-27 |
 | [Kinda Hungry](https://open.spotify.com/track/3e1r4Nqk5eyRnSWdv6XS0E) | [tender spring](https://open.spotify.com/artist/0WCCipy2qiobvuygnTMdkC), [jinhee](https://open.spotify.com/artist/26LmpFgGrsh86EFXEwQNfz) | [Kinda Hungry](https://open.spotify.com/album/7fJJVGHS98okrAyef2fhuq) | 1:46 | 2022-05-20 |  |
 | [Klok](https://open.spotify.com/track/1FUxKfCKHPLpvB8h1wWZ8Y) | [Rhode Chain](https://open.spotify.com/artist/7bNOMStsWlhQ05wzIu8vIW) | [Rhode Chain](https://open.spotify.com/album/4hNCIHb12UGIyHcGItCD3m) | 2:12 | 2022-05-20 |  |
-| [Lagoon](https://open.spotify.com/track/0bVyfYQTJoFbj1xR3ZzzdE) | [Zzcenic](https://open.spotify.com/artist/0ZEozBSxUxi99LJmOE3qOL) | [Lagoon](https://open.spotify.com/album/6ZzoQZAu83Y4F7q1LGn7xy) | 2:14 | 2022-05-20 |  |
+| [Lagoon](https://open.spotify.com/track/0bVyfYQTJoFbj1xR3ZzzdE) | [Zzcenic](https://open.spotify.com/artist/0ZEozBSxUxi99LJmOE3qOL) | [Lagoon](https://open.spotify.com/album/6ZzoQZAu83Y4F7q1LGn7xy) | 0:29 | 2022-05-20 |  |
 | [Le Hippie](https://open.spotify.com/track/37bVtb7OiKv6L8qJuDWCBG) | [Herbert Ungarn](https://open.spotify.com/artist/0ha44a2tcK2b9iERUaXWAQ) | [Le Hippie](https://open.spotify.com/album/3y9zpas3INXBk6lUVnrIVF) | 2:22 | 2022-05-20 |  |
 | [left staring](https://open.spotify.com/track/1aKmyCgZQbhVeN9aH6co0I) | [bugdawn](https://open.spotify.com/artist/3iB5oTLzBMSaNQ2CajhcGz) | [left staring](https://open.spotify.com/album/0qRiHtoEzskxs1lcKzLIml) | 2:12 | 2022-05-20 |  |
 | [Lego](https://open.spotify.com/track/6qdYRJZesimF7fPkTaGSFL) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Lego](https://open.spotify.com/album/6D4m3UGV2LVloI7Vmh3fQv) | 2:04 | 2022-05-20 |  |
@@ -94,7 +94,7 @@
 | [life is a balloon](https://open.spotify.com/track/2GoAhMIvnZ1n7ZEqj7jrAa) | [frek!](https://open.spotify.com/artist/00vQreQBu9wC4dQCmHWJin) | [comic sans](https://open.spotify.com/album/5pG11FB3kK2GNbFpW4w6Vu) | 1:44 | 2022-05-20 |  |
 | [Lonesome](https://open.spotify.com/track/4lV7chcdj3OH3Hg97L7Rli) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Lonesome](https://open.spotify.com/album/5iO1n0DfhbvzySEYCGZqyn) | 2:35 | 2022-05-20 |  |
 | [lost memories](https://open.spotify.com/track/1dpmFHAy4bxWpWjOJPt33n) | [minor5](https://open.spotify.com/artist/59n0ix9TW7WoF1LCr1og2g) | [lost memories](https://open.spotify.com/album/7xAPf47vM4zzTL2EPy8GHt) | 2:27 | 2022-05-20 |  |
-| [Low\-Key Into You](https://open.spotify.com/track/2z4t24jysAzffGRI99idTW) | [Benjamin August](https://open.spotify.com/artist/5mYtzsopZvARbaLrR0puNS) | [Low\-Key Into You](https://open.spotify.com/album/0h51gXK0Oe3OyfHBt2sgxV) | 2:20 | 2022-05-20 |  |
+| [Low\-Key Into You](https://open.spotify.com/track/2z4t24jysAzffGRI99idTW) | [Benjamin August](https://open.spotify.com/artist/5mYtzsopZvARbaLrR0puNS) | [Low\-Key Into You](https://open.spotify.com/album/0h51gXK0Oe3OyfHBt2sgxV) | 0:29 | 2022-05-20 |  |
 | [lucking out](https://open.spotify.com/track/6f8bZWdO64g2cgCJle01OD) | [late tripper](https://open.spotify.com/artist/6qAFdIh8283HnxwpcVa7yD) | [lucking out](https://open.spotify.com/album/0ESc7FdQlxeel0vvKVJkAa) | 2:13 | 2022-05-20 |  |
 | [luv](https://open.spotify.com/track/21u9dmIolRg8yKgBKd3XGW) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [luv](https://open.spotify.com/album/3ltq5oAuGyr1FFX7cRMb3U) | 1:28 | 2022-05-20 |  |
 | [Lycium](https://open.spotify.com/track/6UN9NdeZ6xoVrTeXOcgj8t) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz), [Moody.](https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb) | [Lycium](https://open.spotify.com/album/5auTxR0jOmqgaeEhNC368p) | 2:15 | 2022-05-20 |  |
@@ -126,10 +126,11 @@
 | [pEach cObbler](https://open.spotify.com/track/7nLZjRukkxR0WHv95DrnZX) | [aUra Lu](https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag) | [pEach cObbler](https://open.spotify.com/album/1jYX0kd0KX5wALVLaiur3i) | 1:50 | 2022-05-20 |  |
 | [perception](https://open.spotify.com/track/6fVMTxRuHpBL5TwL71HL6R) | [cloudi](https://open.spotify.com/artist/64LHvgl55hJTLXtgaO454g) | [perception](https://open.spotify.com/album/4pMhm2IQ8ojjdvOPpaZA91) | 1:25 | 2022-05-20 |  |
 | [Pillow Head](https://open.spotify.com/track/0ISbKdCQjZ3RYF30RBrCbY) | [Dreamy Vibes](https://open.spotify.com/artist/5md3j6tShlKtrcokmLIJJw) | [Pillow Head](https://open.spotify.com/album/30TMwmHW2rtrlqOFEapBSI) | 2:21 | 2022-05-20 |  |
+| [play it](https://open.spotify.com/track/78WfketyVicKm5FjIUlnjU) | [B.O Mitz](https://open.spotify.com/artist/2N2Pm6RaNByrYBzEcguka9) | [play it](https://open.spotify.com/album/2J32iHvpetzGjSi2BiM1JE) | 2:32 | 2022-07-01 |  |
 | [play me](https://open.spotify.com/track/20iCDmodyMCKSpNpoCus35) | [yumiyumi](https://open.spotify.com/artist/7Cp3qOemuJmuqdD7qnL780) | [play me](https://open.spotify.com/album/0jFczI9RFaTMEkgF6wJGnc) | 2:17 | 2022-05-20 |  |
 | [Popsicle](https://open.spotify.com/track/3YkTd9wRFuVLBn2yWm9jDm) | [LIAR.](https://open.spotify.com/artist/3WWfY5srwuTUAD85I6dQr6) | [Popsicle](https://open.spotify.com/album/3megiTdeoMiHET8bxY2g5A) | 2:02 | 2022-05-20 |  |
 | [Portions](https://open.spotify.com/track/6KVu21hEiGs8nMluA60bWx) | [Brian Leaf](https://open.spotify.com/artist/7HsVoQC013rTyF0PUJQTz4) | [Portions](https://open.spotify.com/album/0pwehKV8DvdHxZHE0kXSRO) | 2:00 | 2022-05-20 |  |
-| [positive](https://open.spotify.com/track/6EXzpGmH1gpvQclBz4GcfR) | [Slopoke](https://open.spotify.com/artist/1iJ5ZP2QithYEHlojjT3Dw) | [positive](https://open.spotify.com/album/4dmOhdd46ePy9uaCQXwIaz) | 2:33 | 2022-05-20 |  |
+| [positive](https://open.spotify.com/track/6EXzpGmH1gpvQclBz4GcfR) | [Slopoke](https://open.spotify.com/artist/1iJ5ZP2QithYEHlojjT3Dw) | [positive](https://open.spotify.com/album/4dmOhdd46ePy9uaCQXwIaz) | 0:29 | 2022-05-20 |  |
 | [punks n trunks](https://open.spotify.com/track/2FoNSgW2hRXRNrsAhQu7AW) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [subtopia](https://open.spotify.com/album/5MD8YF55ju64o9Cu0R5XCM) | 3:10 | 2022-05-20 |  |
 | [Rainy Day](https://open.spotify.com/track/6i0iAPYFh8Nbqvu3WqsH7h) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU), [Felty](https://open.spotify.com/artist/5zNV6mtDd7Bo9ncZws9TFG), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Birch](https://open.spotify.com/album/3wCXdWhd3NYXyfHYGprgTw) | 2:03 | 2022-05-20 |  |
 | [renaissance](https://open.spotify.com/track/6av4O17fU0ID8EjrnxrVqf) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy), [dharā](https://open.spotify.com/artist/1M6OZtIOe8HhLXuGy8djF6) | [honey](https://open.spotify.com/album/5E0Lm49e56zbWMwzke8nTj) | 1:50 | 2022-05-20 |  |

@@ -4,7 +4,7 @@
 
 > Cool beats for homework time!
 
-166 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/3GJGRd7vcx421WDwZ4kpeK)
+166 songs - 6 hr 6 min - [published](https://open.spotify.com/playlist/3GJGRd7vcx421WDwZ4kpeK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,12 +18,12 @@
 | [At My Own Pace](https://open.spotify.com/track/3DEjPUcxqT9kA1ubD7l9CQ) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [At My Own Pace](https://open.spotify.com/album/5xPikCMHXQpGjFsergUTrr) | 2:25 | 2022-04-08 |  |
 | [Authentic](https://open.spotify.com/track/6ibi48DPWz04U2lTWp3G8o) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Soul City](https://open.spotify.com/album/0d5CHBsRYdHel2EiaFkk5p) | 1:23 | 2022-04-08 |  |
 | [Autumn Vibes](https://open.spotify.com/track/1xlRJOKD0uhV2V8GNL8fRJ) | [HideMySoul](https://open.spotify.com/artist/2TFpGtkngq3kwQEoSA8SV1) | [Autumn Vibes](https://open.spotify.com/album/4rEn6bpMSXqGm5ztzA8kUd) | 2:17 | 2022-04-08 |  |
-| [beets per minute](https://open.spotify.com/track/1JKxBVtMRA4c5PRJXA5sVO) | [crayonine](https://open.spotify.com/artist/0FIy7978qGBeVddWRDemHo) | [beets per minute](https://open.spotify.com/album/66JCVytytkaEyK0zt149LR) | 2:03 | 2022-04-08 |  |
+| [beets per minute](https://open.spotify.com/track/1JKxBVtMRA4c5PRJXA5sVO) | [crayonine](https://open.spotify.com/artist/0FIy7978qGBeVddWRDemHo) | [beets per minute](https://open.spotify.com/album/66JCVytytkaEyK0zt149LR) | 0:29 | 2022-04-08 |  |
 | [Breaking News](https://open.spotify.com/track/4mEs8XjOPDx1Fk3mUYLlxO) | [Pepper and Po](https://open.spotify.com/artist/5lLoKN0MlrFNTK3feEZPkR) | [Breaking News](https://open.spotify.com/album/1tiSY3V1uZ4lCkdqArnV5N) | 2:37 | 2022-04-08 |  |
 | [Brunch](https://open.spotify.com/track/0DpxGyuSadZVaqetnHaZbJ) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [English Breakfast](https://open.spotify.com/album/4Vq0jLg9augk7DIHrhJWv5) | 2:10 | 2022-04-08 | 2022-04-22 |
 | [by my side](https://open.spotify.com/track/3gdl12CFiK1DRFK3d330Sj) | [.ihaveaface](https://open.spotify.com/artist/70lhJJLywMwGqSshbha5Av), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [The Essentials : ihaveaface](https://open.spotify.com/album/6Oyr9oQT8ERPIhjonTDrHW) | 2:35 | 2022-04-08 |  |
 | [Candlestick Oasis](https://open.spotify.com/track/4dN47mXIJJOj4b7qRJ1zQf) | [Convoy Gold](https://open.spotify.com/artist/5ZEKAN1x3N50gFfs6VXTXC) | [Under the Leaden Sky](https://open.spotify.com/album/0f8gMNOxgUraGCPFeuWzFm) | 3:14 | 2022-04-08 |  |
-| [Carvings](https://open.spotify.com/track/6z4JNDNIHHrLz79QET2jrA) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Disque Magique](https://open.spotify.com/album/58LvwpDLLsRGNwJN160DWU) | 2:36 | 2022-04-08 |  |
+| [Carvings](https://open.spotify.com/track/6z4JNDNIHHrLz79QET2jrA) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Disque Magique](https://open.spotify.com/album/58LvwpDLLsRGNwJN160DWU) | 0:29 | 2022-04-08 |  |
 | [Change Ain't Bad](https://open.spotify.com/track/1GLHd8HvaMTaul0CR0YlYo) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Lagom](https://open.spotify.com/album/4k7Eh3WH907ikJlxC5B0C4) | 2:06 | 2022-04-08 |  |
 | [Chasing Clouds](https://open.spotify.com/track/1BzbkoI0867xFsfy1tBwFm) | [Odd Shapes](https://open.spotify.com/artist/7A0I9hUuQHuonQhfYw3HrU) | [Tour Bus](https://open.spotify.com/album/3c4bZOR7st6OBpOVvyT4n0) | 2:54 | 2022-04-08 |  |
 | [Chilled.](https://open.spotify.com/track/3fVo647lcGZ2lnWBxnCjnY) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Chilled.](https://open.spotify.com/album/5ixF5wx5FwPceBSl7iv4ta) | 1:34 | 2022-04-08 |  |
@@ -44,13 +44,13 @@
 | [Ekans](https://open.spotify.com/track/2PaFzDcgVZIHqN8XvV4azQ) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [KEEN: Soft Beats Vol\. 1](https://open.spotify.com/album/3VgJOpq6wEKsHtn2zb7LKi) | 2:20 | 2022-04-08 |  |
 | [Eve 委亜域](https://open.spotify.com/track/3Fe2Tabm88bSVH5Qy8Xwxs) | [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [Eve 委亜域](https://open.spotify.com/album/77KNFl97O6rkv16mQqCxgG) | 1:26 | 2022-04-08 | 2022-04-22 |
 | [Family](https://open.spotify.com/track/62FZ5BVFbxuUF58FKWrRTo) | [DECAP](https://open.spotify.com/artist/0YNQuoFHti0UjsFm94aaXL), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Kyla Moscovich](https://open.spotify.com/artist/4eo125E0BMCS4qi3xB4pTd) | [Family](https://open.spotify.com/album/5iYzJvoc8wvClT7PvwXoOb) | 2:25 | 2022-04-08 |  |
-| [Fernvale](https://open.spotify.com/track/6lP0M5Lx3ME3TzRijzRwic) | [Maj Majid](https://open.spotify.com/artist/2hd2AdImWEG1xPlBe6QhAP) | [But First Coffee](https://open.spotify.com/album/07qI7oGYsBI3sWFyuh0JD6) | 1:26 | 2022-04-08 |  |
+| [Fernvale](https://open.spotify.com/track/6lP0M5Lx3ME3TzRijzRwic) | [Maj Majid](https://open.spotify.com/artist/2hd2AdImWEG1xPlBe6QhAP) | [But First Coffee](https://open.spotify.com/album/07qI7oGYsBI3sWFyuh0JD6) | 0:29 | 2022-04-08 |  |
 | [Forest Life](https://open.spotify.com/track/68ZIOt33K90kdFTRiHNu9W) | [DGHTR](https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL) | [Forest Life](https://open.spotify.com/album/39yEiqCwXRptzr1VVRLMo6) | 1:50 | 2022-04-08 |  |
 | [Forest Mill Trail](https://open.spotify.com/track/6dX8Ig6x1O7dhv7aNvfRzz) | [no sentences](https://open.spotify.com/artist/5C7aF0Eu8C7WejaTPkETdb) | [Forest Mill Trail](https://open.spotify.com/album/4qgFxJFBttHUAAf3vRYbCy) | 1:49 | 2022-04-08 |  |
 | [forgotten places](https://open.spotify.com/track/4loSK4CklB2Eo7AqSsWNDh) | [kid.](https://open.spotify.com/artist/1ndPfZm8zHSlyrJs3itOSP) | [forgotten places](https://open.spotify.com/album/4pYaINLyeITnjMqGcmIIvU) | 1:33 | 2022-04-22 |  |
 | [Found it hard](https://open.spotify.com/track/2AzFlRHnk47ucORREL1igj) | [Jerrick Lamar](https://open.spotify.com/artist/2xhhQBn6RvsBDYNwON3bN5) | [You Can´t See](https://open.spotify.com/album/6jTus5QZtP1MjvsChDmtBJ) | 1:49 | 2022-04-08 |  |
 | [Fresh Pour Over Jam](https://open.spotify.com/track/0T7gCTRVrjm7fKJcIciXm7) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Fresh Pour Over Jam](https://open.spotify.com/album/3mhufOmozF6GbopHw1JFmW) | 2:01 | 2022-04-08 |  |
-| [Friday](https://open.spotify.com/track/0VMPNNbZcV6aP0O9ZCLNhe) | [Little Lazy Lights](https://open.spotify.com/artist/2YEOM2LGal4G2Z2GkbbAlA) | [Friday](https://open.spotify.com/album/5yDhrdMgbYA3EdMkKBYads) | 3:36 | 2022-04-08 |  |
+| [Friday](https://open.spotify.com/track/0VMPNNbZcV6aP0O9ZCLNhe) | [Little Lazy Lights](https://open.spotify.com/artist/2YEOM2LGal4G2Z2GkbbAlA) | [Friday](https://open.spotify.com/album/5yDhrdMgbYA3EdMkKBYads) | 0:29 | 2022-04-08 |  |
 | [Froosh](https://open.spotify.com/track/3VQIAOQRwGwFvBaR7E36O1) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Froosh](https://open.spotify.com/album/0nlcA5P03I6t06WdlLy5FF) | 1:57 | 2022-04-08 |  |
 | [future retro](https://open.spotify.com/track/4W0VbKOx9nIMl822qQHef1) | [stonefold](https://open.spotify.com/artist/1jCsCfZCxNohxXdoE3Rw4f) | [future retro](https://open.spotify.com/album/3mJhmdDs83sGZfpr9pYpgN) | 2:01 | 2022-05-13 |  |
 | [Gary](https://open.spotify.com/track/1q1UZUT8oCqhuoaUtOQyk7) | [Kuranes](https://open.spotify.com/artist/3BU4UGbnzKAtkq79Y1MW0e) | [Gary](https://open.spotify.com/album/1wyBKnUiA3N4Rqe8WPvvFd) | 2:02 | 2022-04-08 |  |
@@ -73,7 +73,7 @@
 | [Jeux D'eau](https://open.spotify.com/track/2PGtQpxxPvhzHLoaz83hLp) | [sadtoi](https://open.spotify.com/artist/7G6bYv9rdldB4mNddVd2yy) | [Chillhop Daydreams](https://open.spotify.com/album/7qdepmAALqX7taS6nMz8v5) | 2:24 | 2022-04-08 |  |
 | [just relax](https://open.spotify.com/track/0POolioSzFOWb0n0it50Lz) | [stilistics](https://open.spotify.com/artist/4UexprKNraCvro4K4XYzut) | [ready set go](https://open.spotify.com/album/7L4A0d2BV3EE2YL95AiDze) | 1:36 | 2022-04-08 |  |
 | [kyoto calling](https://open.spotify.com/track/3Bepjm4vgBBfbLzS0KBTlt) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [kyoto calling](https://open.spotify.com/album/0MWZAefCAhCIkpwtZFsBYv) | 1:58 | 2022-04-08 | 2022-04-22 |
-| [Last Chance](https://open.spotify.com/track/00hvIih24hny87nA7TVO4z) | [autumn keys](https://open.spotify.com/artist/1S7PwtEKL0mdNtfgGJtINy), [elzie](https://open.spotify.com/artist/6OxcKGnT51U56mZOdOo7fU) | [Harvest](https://open.spotify.com/album/5p5ThNG5wCLVhJWDZgSujY) | 2:01 | 2022-04-08 |  |
+| [Last Chance](https://open.spotify.com/track/00hvIih24hny87nA7TVO4z) | [autumn keys](https://open.spotify.com/artist/1S7PwtEKL0mdNtfgGJtINy), [elzie](https://open.spotify.com/artist/6OxcKGnT51U56mZOdOo7fU) | [Harvest](https://open.spotify.com/album/5p5ThNG5wCLVhJWDZgSujY) | 0:29 | 2022-04-08 |  |
 | [Late Night Jam](https://open.spotify.com/track/73yXOxZAK9FymtlXDfLVnR) | [Wasted Glitter](https://open.spotify.com/artist/0dNux2V8fLK0d4fyqwU5iZ) | [Late Night Jam](https://open.spotify.com/album/09VmKc1VmrrFGMVc3SvXd4) | 2:27 | 2022-04-08 |  |
 | [lemon](https://open.spotify.com/track/5ACcn12wzLSQb7OqfXvX0w) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [lemon](https://open.spotify.com/album/5k0NV7xszABRC2JSFcE5Lz) | 1:54 | 2022-04-08 |  |
 | [Lettin' Up](https://open.spotify.com/track/0Xwcj8iBawlYwg53Fbu6BE) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8) | [Lettin' Up](https://open.spotify.com/album/1bnlspm7vBj7MbIYuwgy2q) | 4:11 | 2022-04-08 | 2022-04-22 |

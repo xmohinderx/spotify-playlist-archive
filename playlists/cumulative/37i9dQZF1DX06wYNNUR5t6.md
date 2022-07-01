@@ -4,7 +4,7 @@
 
 > Build the foundation of your day with this great list of inspired modern rock and hardcore songs!  Cover: Wolves At The Gate
 
-52 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/0qMMhfEEPvWBJQoaBQvSQq)
+52 songs - 3 hr 4 min - [published](https://open.spotify.com/playlist/0qMMhfEEPvWBJQoaBQvSQq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Alive Again](https://open.spotify.com/track/4bFvLnnByynzVDDkzUUPsj) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [Alive Again](https://open.spotify.com/album/3vnpODARivR8XUcD37zLzk) | 3:34 | 2021-04-10 |  |
 | [All It Takes](https://open.spotify.com/track/25y7XhJeyjzcyT8xOeqKAj) | [DAV](https://open.spotify.com/artist/3UhOrPbn8pGeF4rZjUNXuS), [Jon The Revalaytor](https://open.spotify.com/artist/44YUYpFeZPJv7FaafB4TTW) | [All It Takes](https://open.spotify.com/album/6AP1djlzAEZMRBaluo99fR) | 4:01 | 2021-04-10 |  |
 | [Baptist](https://open.spotify.com/track/5lX8tvcQOCNiA1y75OeE4J) | [Paradise Now](https://open.spotify.com/artist/1XOp5OUbWSxiwLjvM8tKFB) | [Baptist](https://open.spotify.com/album/0ql85Jbk7nbJatYccXAWba) | 3:22 | 2021-04-10 |  |
-| [Better Off](https://open.spotify.com/track/1iHx9Ge9YO5Le3UCrjWZ8n) | [City of Auburn](https://open.spotify.com/artist/0FYVYl9r4gHtgP9rJD9GKy) | [Spinning](https://open.spotify.com/album/6FHT343fVHWuPvTRgiA1ak) | 3:46 | 2021-04-10 |  |
+| [Better Off](https://open.spotify.com/track/1iHx9Ge9YO5Le3UCrjWZ8n) | [City of Auburn](https://open.spotify.com/artist/0FYVYl9r4gHtgP9rJD9GKy) | [Spinning](https://open.spotify.com/album/6FHT343fVHWuPvTRgiA1ak) | 0:29 | 2021-04-10 |  |
 | [Black Light](https://open.spotify.com/track/01cIqV4RrN3YoRNcnzVXSr) | [My Epic](https://open.spotify.com/artist/0HowPCaKsP1sJL2T2eMEoe) | [Violence](https://open.spotify.com/album/1JEGmU4yqtuuFceHpVCvHK) | 5:02 | 2021-04-10 |  |
 | [Bottom Feed](https://open.spotify.com/track/1juIgyx6a8G5O1Tnlnf4IB) | [Mawcore](https://open.spotify.com/artist/04vYfdkQAWRKmqmsitQbea) | [Where Breaking Begins](https://open.spotify.com/album/3bsRpywxqsiSORItREzXUN) | 3:32 | 2021-04-10 |  |
 | [Breaking Free \(feat\. Lacey Sturm\)](https://open.spotify.com/track/3sT99jz232QWq5Q2LEaFJ5) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [Unleashed Beyond \(Special Edition\)](https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37) | 3:52 | 2021-04-10 |  |
@@ -21,8 +21,8 @@
 | [Closer](https://open.spotify.com/track/5dVODyGWLMoBPlmgtm86PU) | [Silversyde](https://open.spotify.com/artist/6J0UNeDm5txVjvcI7Pxqz4) | [Casting Shadows](https://open.spotify.com/album/539lpEirrlTBHMsQHgSZzm) | 3:12 | 2021-04-10 |  |
 | [Cuff the Criminal](https://open.spotify.com/track/0J0sGVSqnssg1jfgEcYQrv) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Love Letter Kill Shot](https://open.spotify.com/album/6lcb1LKEbn5HF9Q6N9rOEY) | 3:32 | 2021-04-10 |  |
 | [Deep Waters](https://open.spotify.com/track/2qEla8ZQF3FN5l5ay89J9m) | [Adelaide](https://open.spotify.com/artist/69GrMdd7iMIjeRJxxJJ1nl) | [Strong and Brave](https://open.spotify.com/album/2qqoxqSsHfSYeKf3VzYdWM) | 3:24 | 2021-04-10 |  |
-| [Driftwood](https://open.spotify.com/track/2qLPxnOjFHilVIrZXZtMWQ) | [The Classic Crime](https://open.spotify.com/artist/4Y2ImQoh83EyhkbaJXmJr1) | [How to Be Human](https://open.spotify.com/album/6J9gRf2PpJL4pDsV5XwANi) | 4:21 | 2021-04-10 |  |
-| [Drive](https://open.spotify.com/track/1TBujZFt2bUwq7Vy7AsiUK) | [Archers Rise](https://open.spotify.com/artist/6ApaGLSpdoD84Z3g7pKIi4) | [Drive](https://open.spotify.com/album/6EDV8HpxLYt7LWbqFMr6th) | 4:40 | 2021-04-10 |  |
+| [Driftwood](https://open.spotify.com/track/2qLPxnOjFHilVIrZXZtMWQ) | [The Classic Crime](https://open.spotify.com/artist/4Y2ImQoh83EyhkbaJXmJr1) | [How to Be Human](https://open.spotify.com/album/6J9gRf2PpJL4pDsV5XwANi) | 0:29 | 2021-04-10 |  |
+| [Drive](https://open.spotify.com/track/1TBujZFt2bUwq7Vy7AsiUK) | [Archers Rise](https://open.spotify.com/artist/6ApaGLSpdoD84Z3g7pKIi4) | [Drive](https://open.spotify.com/album/6EDV8HpxLYt7LWbqFMr6th) | 0:29 | 2021-04-10 |  |
 | [Drown](https://open.spotify.com/track/7gZyVkRZKKmouF54ccQ5Pi) | [Zahna](https://open.spotify.com/artist/0HvsF5I55057H9hTIkn60F) | [Red For War](https://open.spotify.com/album/4N8Wt08zGOXDRC9wyoTm1Z) | 3:27 | 2021-04-10 |  |
 | [Echoes](https://open.spotify.com/track/0iQa0axJxOqA5vlCSV3app) | [Ignite the Fire](https://open.spotify.com/artist/4xqGhP2gUWyaMMHqPU3UHj) | [Between Shadow and Solace](https://open.spotify.com/album/2IF2CZ13oq1wK51AXr0Lt6) | 4:24 | 2021-04-10 |  |
 | [Foreigner](https://open.spotify.com/track/550uiBzwI7c0mrtHpZMrY7) | [LEDGER](https://open.spotify.com/artist/3OuIyI0FYMUZtINxhQVCL3) | [LEDGER EP](https://open.spotify.com/album/4F8Wv1pdbgLiAOajJmZbA1) | 3:57 | 2021-04-10 |  |
@@ -47,7 +47,7 @@
 | [Push](https://open.spotify.com/track/3K1KuaKWN2KQUnBcushMNY) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr) | [Exhale](https://open.spotify.com/album/1iReJQAkreqmCd9reYbm6I) | 4:20 | 2021-04-10 |  |
 | [Rise](https://open.spotify.com/track/5s2VU6HkVBb92xnyNeM57q) | [The Letter Black](https://open.spotify.com/artist/7AH2bTtNIOYu24O3NuFxhG) | [Rise](https://open.spotify.com/album/0DsC2zkOx6orIpcTzmPchK) | 3:14 | 2021-04-10 |  |
 | [Scars](https://open.spotify.com/track/5zKKBcIm0sVDJhWlZhAi3C) | [In the Verse](https://open.spotify.com/artist/4Ilxsqfishc8GhrarGM7RS) | [Scars](https://open.spotify.com/album/7545gyNLbh98fjLrnAgLBK) | 3:03 | 2021-04-10 |  |
-| [Set Me Free](https://open.spotify.com/track/4jmM3DfZKnNmdk9E1hu9lg) | [Relentless Flood](https://open.spotify.com/artist/6EvpEo8wSoAZMDb3oV2y0V) | [Escape the Fall](https://open.spotify.com/album/5rVRimOcZf9yLvTZ72xluq) | 4:24 | 2021-04-10 |  |
+| [Set Me Free](https://open.spotify.com/track/4jmM3DfZKnNmdk9E1hu9lg) | [Relentless Flood](https://open.spotify.com/artist/6EvpEo8wSoAZMDb3oV2y0V) | [Escape the Fall](https://open.spotify.com/album/5rVRimOcZf9yLvTZ72xluq) | 0:29 | 2021-04-10 |  |
 | [Tension](https://open.spotify.com/track/01l6eMjuUKrOgBW4ygu6Ka) | [Random Hero](https://open.spotify.com/artist/0FOuR45KED7o5G3bugebGA) | [Tension](https://open.spotify.com/album/7xE8XGR4Mcv9KUqDoqT9Q0) | 3:05 | 2021-04-10 |  |
 | [The Cure](https://open.spotify.com/track/3bimN1JcQkbLWcUJexAEyh) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Eclipse](https://open.spotify.com/album/6L8gLKCluioceYP7WNmcol) | 4:16 | 2021-04-10 |  |
 | [The Evening Hate](https://open.spotify.com/track/2afTqQjKpq8e4qmUwZbQRI) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [The Evening Hate](https://open.spotify.com/album/7CDRVjW6yQIG1nt79t2qFS) | 4:47 | 2021-04-10 |  |

@@ -4,7 +4,7 @@
 
 > 
 
-20 songs - 1 hr 10 min - [published](https://open.spotify.com/playlist/0J1Ou8RXioSVBEZUNgOfDq)
+20 songs - 1 hr 7 min - [published](https://open.spotify.com/playlist/0J1Ou8RXioSVBEZUNgOfDq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [On to Something Good](https://open.spotify.com/track/1yaFBgYRHxXxJN0AKy3WS1) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [On to Something Good](https://open.spotify.com/album/0wk40VReNDTunoo5fax8OD) | 3:50 | 2015-03-13 |  |
 | [She Get Me High](https://open.spotify.com/track/3vVJuEZYAMdQrSwgcAEI1b) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Spring Break...Checkin' Out](https://open.spotify.com/album/6OOTRO7lfMvDFQzNXby9i8) | 3:37 | 2015-03-13 |  |
 | [Sing It To Me](https://open.spotify.com/track/65ihXYIHnjJQiJRZIXmE9l) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Where It's At](https://open.spotify.com/album/3XyDMHEvtPjOZQqQxSOmIw) | 3:19 | 2015-03-13 |  |
-| [Smile On My Mouth](https://open.spotify.com/track/0oF3HWrmp5gLXtXGvyJiWF) | [Thompson Square](https://open.spotify.com/artist/0Bvs8yPjrQSbmVIRqSg1Sp) | [Smile On My Mouth](https://open.spotify.com/album/1QiQBJK75UyqZzeHyJQBvl) | 3:43 | 2015-03-13 |  |
+| [Smile On My Mouth](https://open.spotify.com/track/0oF3HWrmp5gLXtXGvyJiWF) | [Thompson Square](https://open.spotify.com/artist/0Bvs8yPjrQSbmVIRqSg1Sp) | [Smile On My Mouth](https://open.spotify.com/album/1QiQBJK75UyqZzeHyJQBvl) | 0:29 | 2015-03-13 |  |
 | [Unbreakable \- Acoustic](https://open.spotify.com/track/1qdgnDz7Rtlb3hhgqjM4oU) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Unbreakable \(Acoustic\)](https://open.spotify.com/album/2zcHOHtBIU6hOlmMF1OOjD) | 3:34 | 2015-03-13 |  |
 | [What I'm Thinking About](https://open.spotify.com/track/2jbUPfffA74IpoBJD3CdsJ) | [The Swon Brothers](https://open.spotify.com/artist/1nf0nRF0W4ybnJdda00pKY) | [The Swon Brothers](https://open.spotify.com/album/6O1P8K69uFGvCfpyAvdsx1) | 3:19 | 2015-03-13 |  |
 | [What You Do to Me](https://open.spotify.com/track/5zXPsVuwJ4vLBcxAWzrnD6) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Where It All Began](https://open.spotify.com/album/2Zkvy7eARxR3qjKNWMiwMa) | 3:30 | 2015-03-13 |  |

@@ -4,7 +4,7 @@
 
 > Colored noise to help you sleep.
 
-242 songs - 13 hr 20 min - [published](https://open.spotify.com/playlist/0bRP8XzvCxukMLWefooE0H)
+242 songs - 13 hr 8 min - [published](https://open.spotify.com/playlist/0bRP8XzvCxukMLWefooE0H)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Brown Noise for Focus](https://open.spotify.com/track/4xlTUcei9W5yrmUqYcZccO) | [The SubOceaners](https://open.spotify.com/artist/5JGfWE8Ws1aBP8283nSy8R) | [Brown Noise for Focus](https://open.spotify.com/album/6mWJo4K18ceBw2sQ77sykB) | 3:33 | 2022-06-03 |  |
 | [Brown Noise for Long Nights](https://open.spotify.com/track/4ybxalciq9nSPCVjnM5tjX) | [Sleepy Mind](https://open.spotify.com/artist/5ZDe3pLjx7eSn3lIZpVCxE) | [Brown Noise for Long Nights](https://open.spotify.com/album/6AWAa3RpwoXKIR03wZZMFq) | 3:30 | 2022-06-03 |  |
 | [Brown Noise for Relaxing](https://open.spotify.com/track/0bohmotsrCFyZ4Wfouo7CV) | [Everywhere Brown Noise](https://open.spotify.com/artist/4r6joVLgbTD7M07z1KIooA) | [Sleeping Brown Noise](https://open.spotify.com/album/7umltGSpruiFHUJUxQJLlf) | 3:43 | 2022-06-03 |  |
-| [Brown Noise for Sleepy Eyes](https://open.spotify.com/track/0wLaPda0ARSiifV6YWrKzk) | [Dancing Waves](https://open.spotify.com/artist/6I734cgGnMNAYXbDKI6pxm) | [Brown Noise for Sleepy Eyes](https://open.spotify.com/album/5MrGxKyGm5EbXn9APxh7u2) | 3:12 | 2021-12-01 |  |
+| [Brown Noise for Sleepy Eyes](https://open.spotify.com/track/0wLaPda0ARSiifV6YWrKzk) | [Dancing Waves](https://open.spotify.com/artist/6I734cgGnMNAYXbDKI6pxm) | [Brown Noise for Sleepy Eyes](https://open.spotify.com/album/5MrGxKyGm5EbXn9APxh7u2) | 0:29 | 2021-12-01 |  |
 | [Brown Noise HF Dip](https://open.spotify.com/track/5n2umYeI1nxrPHS8Vc9qOL) | [Brown Noise Warriors](https://open.spotify.com/artist/4YVV9UBom3Ls7WvEW2Z6nQ) | [Brown Noise](https://open.spotify.com/album/2GSOdkjgGTiWhaCMoeA9No) | 2:49 | 2021-12-01 |  |
 | [Brown Noise in Montreux](https://open.spotify.com/track/1ihJaVUnBGYB3hc01W3xkz) | [Hum Humming](https://open.spotify.com/artist/4Pv75nATrtWwA5uYCDvxYF) | [Brown Noise Stream](https://open.spotify.com/album/1MVMJYj22Jd7qwQC1blZ2q) | 3:34 | 2022-06-03 |  |
 | [Brown Noise In My Ears](https://open.spotify.com/track/2qv9tpHBIDfwJqA6egLinF) | [Sleepy Parents](https://open.spotify.com/artist/1vMyDLSxieYUS3k7sehkvj) | [Brown Noise Ocean](https://open.spotify.com/album/6PlKH2ZMZvz9u0AfGjmZfH) | 4:23 | 2022-04-29 |  |
@@ -125,7 +125,7 @@
 | [Kids Sleep Better with Brown Noise](https://open.spotify.com/track/4mjBJXhHwywloF1TW6sQ3Y) | [Limone M](https://open.spotify.com/artist/5FxD8GodVlJCHgsf1mjX9d) | [Kids Sleep Better with Brown Noise](https://open.spotify.com/album/1RktS4KscksexB4f7u5b32) | 3:26 | 2022-06-03 |  |
 | [Lo\-Air](https://open.spotify.com/track/4WIupOFPnMTMYf3DVBbQ62) | [WNX](https://open.spotify.com/artist/2AJugoQl9wyqJyt8pIFKJX) | [White Frequency](https://open.spotify.com/album/2Kz8CV80vNMKikEntDeSsL) | 3:20 | 2021-12-01 |  |
 | [Loopable Pink Noise](https://open.spotify.com/track/2WSu2JLU7KUvVwmLf2Ehne) | [Granular](https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m) | [Loopable Noises](https://open.spotify.com/album/6K2IREweOrFhxWtbg4vwDv) | 2:10 | 2021-12-01 |  |
-| [Loopable Pink Noise Flowing Waters](https://open.spotify.com/track/28Wnwp5FDBU0vzlU2BbKR0) | [Pink Noise](https://open.spotify.com/artist/3SwqynF0kqvqwKJX9EXEQ3) | [Pink Noise for Sleeping](https://open.spotify.com/album/20VDYEeMS9iB9XQ4M5Wrno) | 3:36 | 2021-12-01 |  |
+| [Loopable Pink Noise Flowing Waters](https://open.spotify.com/track/28Wnwp5FDBU0vzlU2BbKR0) | [Pink Noise](https://open.spotify.com/artist/3SwqynF0kqvqwKJX9EXEQ3) | [Pink Noise for Sleeping](https://open.spotify.com/album/20VDYEeMS9iB9XQ4M5Wrno) | 0:29 | 2021-12-01 |  |
 | [Low Brown \(Noise\)](https://open.spotify.com/track/6tIFNVeEHqT3OagEeweOvt) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Calm Sleep \(Noise\)](https://open.spotify.com/album/7FtankGXHvGLTAfWz5zDpc) | 2:32 | 2021-12-01 |  |
 | [Low Pink Noise](https://open.spotify.com/track/4LFqQzq8xlTZyhpDnvp0dG) | [Noise Spa](https://open.spotify.com/artist/3vlsMGwlLAgObvlGREIauw) | [Pink Noise Spa](https://open.spotify.com/album/4aYIfqzmBtOlgbWru6L09R) | 2:58 | 2021-12-01 |  |
 | [Lull Noise](https://open.spotify.com/track/7yuqyrGapb2mZkjPwXy3Pw) | [Ecstatix](https://open.spotify.com/artist/4Z2EaSwZpqDleK7b7qYSvx) | [Brown Bliss](https://open.spotify.com/album/6aunZLgFrK8aedHzoxm2Oz) | 3:24 | 2021-12-01 |  |
@@ -156,7 +156,7 @@
 | [Pink Noise 1133Hz](https://open.spotify.com/track/6xNAUvuTV1MHWZHClKoL82) | [Pink Orbit](https://open.spotify.com/artist/1OcOohHo7T54wkzZhIs6KA) | [Pink Noise Ocean](https://open.spotify.com/album/19zIgXQIfVHIhXJ2PF16g9) | 4:30 | 2021-12-01 |  |
 | [Pink Noise 2am \(REMASTERED\)](https://open.spotify.com/track/1GOBcNeiL8wOUn8IWwYTwq) | [WWW.PINK.NOISE](https://open.spotify.com/artist/3pzYnmOW5l9QII4mFjJtd1) | [Pink Noise Vol\. 3](https://open.spotify.com/album/2TdSHQtFRD35jFTj8EJuAk) | 2:40 | 2022-06-03 |  |
 | [Pink Noise 2k](https://open.spotify.com/track/1QLnaXdhv0P8521co1Sg5H) | [Noise Bath](https://open.spotify.com/artist/6DhHTHeWGUP7ReZEiExvTe) | [Pink Noise Bath](https://open.spotify.com/album/77zi8LZVR9G9wDsYt28z4k) | 2:49 | 2021-12-01 |  |
-| [Pink Noise 609Hz](https://open.spotify.com/track/7tGJq9NtNagYGsgSdYFhGE) | [Pinkosphere](https://open.spotify.com/artist/0DimG3LGtKy8LLl6Il4QgY) | [Floating in Pink Noise](https://open.spotify.com/album/5cbjXsWk8pWcMOCLFv6sX9) | 3:18 | 2021-12-01 |  |
+| [Pink Noise 609Hz](https://open.spotify.com/track/7tGJq9NtNagYGsgSdYFhGE) | [Pinkosphere](https://open.spotify.com/artist/0DimG3LGtKy8LLl6Il4QgY) | [Floating in Pink Noise](https://open.spotify.com/album/5cbjXsWk8pWcMOCLFv6sX9) | 0:29 | 2021-12-01 |  |
 | [Pink Noise Beauty](https://open.spotify.com/track/0zBtJ2GILEjIdhnfsGBOIr) | [Pink Noise Traveler](https://open.spotify.com/artist/1NC629rjoeMtPM5WGgk1nD) | [Pink Noise Beauty](https://open.spotify.com/album/2RADMCLv0wqNp0vChBcSP6) | 3:36 | 2021-12-01 |  |
 | [Pink Noise Chill](https://open.spotify.com/track/1fagVvIMVLI0oqDLV0LshZ) | [Astrofuss](https://open.spotify.com/artist/5Tx7TAY5IxjWaUuJo7tTzf) | [Pink Noise Chill](https://open.spotify.com/album/5bPfFb7gJETLRmqMvbtyLr) | 4:02 | 2022-03-30 |  |
 | [Pink Noise Dreams](https://open.spotify.com/track/323XAHV4xNmDv1TRoRFYu0) | [Wavelab](https://open.spotify.com/artist/7AbQo3tDp5SYr5ctDcNC21) | [Pink Noise Dreams](https://open.spotify.com/album/6fDhI1sXkAmdoclVF7LmFG) | 4:40 | 2022-04-29 |  |
@@ -196,7 +196,7 @@
 | [pink peace](https://open.spotify.com/track/1ToLGY7ev8l7tzu6uZgf8D) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [pink clouds \(white noise\)](https://open.spotify.com/album/5ad5teildwaJGH9GeSh80r) | 3:17 | 2021-12-01 |  |
 | [Pink World Noise 03.03 \(REMASTERED\)](https://open.spotify.com/track/3JIrvyaMeg8Uts813PeAfn) | [Noise Rex](https://open.spotify.com/artist/0usgNFvCTCk0XWskQpdhAy) | [Soothing Pink Noise](https://open.spotify.com/album/4FxaPv28JDKabUP62Bi0vv) | 2:59 | 2021-12-01 |  |
 | [Pool of Pink Noise](https://open.spotify.com/track/2Tr59tiEcAMub2JLqJA72C) | [Astrofuss](https://open.spotify.com/artist/5Tx7TAY5IxjWaUuJo7tTzf) | [Pool of Pink Noise](https://open.spotify.com/album/753Pp9yVc0DpU9sqFR9TqW) | 3:29 | 2022-06-03 |  |
-| [Pure Brown Noise](https://open.spotify.com/track/0UgcG4LALGX6cTFp6TtSXl) | [Noise Nirvana](https://open.spotify.com/artist/6jLfCVXiXP2SoEA8BOIrxM) | [Brown Noise](https://open.spotify.com/album/4UxFcwdtIeqsCQe1tIpqHs) | 3:22 | 2021-12-01 |  |
+| [Pure Brown Noise](https://open.spotify.com/track/0UgcG4LALGX6cTFp6TtSXl) | [Noise Nirvana](https://open.spotify.com/artist/6jLfCVXiXP2SoEA8BOIrxM) | [Brown Noise](https://open.spotify.com/album/4UxFcwdtIeqsCQe1tIpqHs) | 0:29 | 2021-12-01 |  |
 | [Pure Brown Noise 3](https://open.spotify.com/track/5QjGpAks7zoO83nqs0phLa) | [Exodar](https://open.spotify.com/artist/2UcCR6cHxb3YL473Q7KKZJ) | [Pure Brown Noise](https://open.spotify.com/album/4GqKlkURm7KhUr397GeVlm) | 3:02 | 2021-12-01 |  |
 | [Pure Brown Noise 6](https://open.spotify.com/track/1GdAEyWMnFjUz6goHuTfoQ) | [Exodar](https://open.spotify.com/artist/2UcCR6cHxb3YL473Q7KKZJ) | [Pure Brown Noise](https://open.spotify.com/album/4GqKlkURm7KhUr397GeVlm) | 3:17 | 2021-12-01 |  |
 | [Refined Pink Noise \(789hz, 3\-pole, loopable\)](https://open.spotify.com/track/7KCTK9F6QJPdWTu27V0MuC) | [Ali Noise](https://open.spotify.com/artist/51qGEABC0Z9GNKIzgELIji) | [Pink Dreams](https://open.spotify.com/album/1i1ztj2IlhIQncvGLT96Fc) | 2:24 | 2021-12-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 
 > Stay focused with electronic and trap beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,853 likes - 144 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,901 likes - 144 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 | 14 | [Stargazing](https://open.spotify.com/track/4cIsmISX8R4S6NDvmqXUDR) | [Bungus](https://open.spotify.com/artist/6G5hyAD5WnCvkW9CeUMsJA) | [Stargazing](https://open.spotify.com/album/3dLYFdh6latSJWKJK0FBDH) | 2:59 |
 | 15 | [Jaxxon](https://open.spotify.com/track/0AhsGBXcirKOnkoOnATDuI) | [Hillside Reds](https://open.spotify.com/artist/2UPmPftzM6G8utXa3RQ2MB) | [Jaxxon](https://open.spotify.com/album/2uQPnSPTSyBx4uOd7UyFQY) | 2:57 |
 | 16 | [Justified](https://open.spotify.com/track/5B3o3dGWUneZVJovkXP6Gd) | [Sonny TK](https://open.spotify.com/artist/3PQjywXKA1AkREjMitjvLN) | [Justified](https://open.spotify.com/album/1IsoRdugxMdtAHVvM1Ytxn) | 3:04 |
-| 17 | [Ambivalent](https://open.spotify.com/track/5gdYkbObWnojZxaNBQ94sZ) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Ambivalent](https://open.spotify.com/album/4HdRnDygvhda6ywARwXUSo) | 2:26 |
+| 17 | [Ambivalent](https://open.spotify.com/track/5gdYkbObWnojZxaNBQ94sZ) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Ambivalent](https://open.spotify.com/album/4HdRnDygvhda6ywARwXUSo) | 0:29 |
 | 18 | [ficus](https://open.spotify.com/track/2QBsNCb5Ih9bjHtvrsVkef) | [killtino](https://open.spotify.com/artist/3R6MCwWHzfbzkPqBIp4Pyg) | [ficus](https://open.spotify.com/album/7ur1AExkPSE4YsO1Kr4apo) | 2:49 |
 | 19 | [Kawakawa](https://open.spotify.com/track/3y20jsjCWlfyTTrvu4apCC) | [Diamond Rainclouds](https://open.spotify.com/artist/5PPvxImj1EsRW9mj9YmnEL) | [Kawakawa](https://open.spotify.com/album/0J62tlYL5LDUdkxkRXLsBJ) | 4:17 |
 | 20 | [By Your Side](https://open.spotify.com/track/1fmDbpJLgK5KHh5vLxCbFI) | [LifestyleDidIt](https://open.spotify.com/artist/30zMAqaq1ZaiL3sCXP41If), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [By Your Side](https://open.spotify.com/album/0q3jcgUPljutZVDwHga3Rk) | 2:45 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 | 64 | [Clarity](https://open.spotify.com/track/1dybFHd0ge6XP8Yjy8ub22) | [Litu Ritu](https://open.spotify.com/artist/3PSahIv0mhBptzduLsuEJU) | [Hyperloop](https://open.spotify.com/album/6TlRciT120PQPOxplEQB9y) | 4:19 |
 | 65 | [Don't Quit](https://open.spotify.com/track/3hWnx9sV4Tssynrnl8oM7k) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC), [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Muses](https://open.spotify.com/album/1An4K6esv5QVy2loqhRyKb) | 2:26 |
 | 66 | [WhirligiG](https://open.spotify.com/track/04DyIqLxOCBoJz6TLniVOc) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Shell Games](https://open.spotify.com/album/1QJkOlBuUBIcs5mE4ePhOo) | 2:39 |
-| 67 | [Intrepid](https://open.spotify.com/track/4FF2yXuwxAVwQzCyDj0rRU) | [Screwbar](https://open.spotify.com/artist/4wFYoFRNMyPuk7YbtENoz9) | [Intrepid](https://open.spotify.com/album/2tjwpsIYUyYPrTEeHpMf9B) | 2:54 |
+| 67 | [Intrepid](https://open.spotify.com/track/4FF2yXuwxAVwQzCyDj0rRU) | [Screwbar](https://open.spotify.com/artist/4wFYoFRNMyPuk7YbtENoz9) | [Intrepid](https://open.spotify.com/album/2tjwpsIYUyYPrTEeHpMf9B) | 0:29 |
 | 68 | [Wall\-E](https://open.spotify.com/track/61KFcsEDfs8Qo8sjxP6C0f) | [Lion Loft](https://open.spotify.com/artist/4hFPba5e1qOarbpIbqwTrj) | [Pyrex](https://open.spotify.com/album/4L6VpDJRIyeEjkk0xECky9) | 3:25 |
 | 69 | [Basquè](https://open.spotify.com/track/6zhvPJuZKVjzv4fQelqvo0) | [Gold Birds](https://open.spotify.com/artist/5MisRKjFSK7o3bab0rojcs) | [Afterglow](https://open.spotify.com/album/0Q4O3GicWbNcxOQakY5Glc) | 3:43 |
 | 70 | [One Call Away](https://open.spotify.com/track/2QyqR3aM0QBsgoFBALBVyR) | [Lindsey Leblanc](https://open.spotify.com/artist/7lPv78tlT005m22dYvSdNg) | [One Call Away](https://open.spotify.com/album/3BwfSQ7LGLCkCAREkpcsDP) | 2:28 |
@@ -144,7 +144,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 | 134 | [life on hold](https://open.spotify.com/track/5maOt1lIkCrS5r2DB2nfyr) | [Lo\-Fi Eamonn](https://open.spotify.com/artist/2mh6iITVGFPDa7NxvcDzxy) | [life on hold](https://open.spotify.com/album/7u7z7WwHVTeY19UMQQCFhb) | 2:20 |
 | 135 | [Wonderland](https://open.spotify.com/track/7IpMCQSwhwQOjb8cHr7ViV) | [Djsneverendingstory](https://open.spotify.com/artist/5H53Vq7VfrqjdEMX3mx5Xp) | [Wonderland](https://open.spotify.com/album/3dL5EuR6gRlgWhmMbWId0i) | 4:03 |
 | 136 | [LIFE](https://open.spotify.com/track/4OKOlIu7FBVBiNTZvY7iUw) | [Frizzo](https://open.spotify.com/artist/44gg6tVRVzjoLVJlF4G3x0), [Fri](https://open.spotify.com/artist/5laFIPE0PAzSuNXTNUuXyu) | [LIFE](https://open.spotify.com/album/1ztZGfIIWVdbNkNRI9ao4O) | 1:44 |
-| 137 | [The Monster Under My Bed](https://open.spotify.com/track/6e1CdbMZtce6YpTxDJnNc5) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [The Monster Under My Bed](https://open.spotify.com/album/61CZefoQUPOSvk5Pzg3TtJ) | 2:27 |
+| 137 | [The Monster Under My Bed](https://open.spotify.com/track/6e1CdbMZtce6YpTxDJnNc5) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [The Monster Under My Bed](https://open.spotify.com/album/61CZefoQUPOSvk5Pzg3TtJ) | 0:29 |
 | 138 | [All Of Them](https://open.spotify.com/track/2GmCYDUX9GR7XXBU76C0s9) | [M4YD4Y](https://open.spotify.com/artist/2kx8AVFwczHrxz0PLL25Qt) | [Imperfectionist](https://open.spotify.com/album/6Msn1kQREtbLla2wJTfDlZ) | 1:51 |
 | 139 | [Extra](https://open.spotify.com/track/1m5OGKLquB59mNASxCsvkF) | [Timmy Tee](https://open.spotify.com/artist/5mHEnE8FUpg9ZmYNrrCIcU) | [Extra](https://open.spotify.com/album/7LH0JuhJc2ZT0Qbi9vcmsf) | 2:19 |
 | 140 | [Riverside](https://open.spotify.com/track/1XKngi22KpRA2EEJvW9JTM) | [Producerboibrad.](https://open.spotify.com/artist/7vicJmnVJ4aW8yKB4AEEAB) | [Riverside](https://open.spotify.com/album/5VYV8Z7uRQnBiVAZfU6GNF) | 2:25 |

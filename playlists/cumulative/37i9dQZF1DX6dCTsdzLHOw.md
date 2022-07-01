@@ -4,11 +4,11 @@
 
 > Don't spill your popcorn..\. these scary movie themes will scare the bejeezus out of you!
 
-28 songs - 1 hr 51 min - [published](https://open.spotify.com/playlist/7fBxUYr44Ikmg6ar6XDArN)
+28 songs - 1 hr 44 min - [published](https://open.spotify.com/playlist/7fBxUYr44Ikmg6ar6XDArN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Nightmare On Elm Street](https://open.spotify.com/track/6St1IyTh829WEWRP1wXVXc) | [Spooky Orchestra](https://open.spotify.com/artist/2UBjlPiaNy9vMWp3mabXTW) | [Horror Movie Themes](https://open.spotify.com/album/6Chs33S4yeaFZn5HDI6g5S) | 2:07 | 2021-12-15 |  |
+| [A Nightmare On Elm Street](https://open.spotify.com/track/6St1IyTh829WEWRP1wXVXc) | [Spooky Orchestra](https://open.spotify.com/artist/2UBjlPiaNy9vMWp3mabXTW) | [Horror Movie Themes](https://open.spotify.com/album/6Chs33S4yeaFZn5HDI6g5S) | 0:29 | 2021-12-15 |  |
 | [Creeper's Tale \(From "Jeepers Creepers"\)](https://open.spotify.com/track/3q7ssMXeWyeoPyTGsqOUpO) | [Bennett Salvay](https://open.spotify.com/artist/1lWGijAqSCPZNmxnq1Yv9O), [Victor Salva](https://open.spotify.com/artist/1BID9hmfIGrMMfjMLPByDU) | [Jeepers Creepers \(Score\)](https://open.spotify.com/album/1tDx9id2MipEJLN5MVYhHk) | 2:42 | 2021-12-15 |  |
 | [Down The Pipe](https://open.spotify.com/track/2KuDGIejkCwPV00plTqiej) | [David Julyan](https://open.spotify.com/artist/1zkJxFjrO1fE8teyro4C3I) | [The Descent](https://open.spotify.com/album/6uMeD1KqvgJal9rGSa55Ml) | 2:54 | 2021-12-15 |  |
 | [Dracula\- The Beginning](https://open.spotify.com/track/00De7REGurYkmfrKAh6CU1) | [Wojciech Kilar](https://open.spotify.com/artist/6McH9ZlRL24gW6Bt4fpqad) | [Bram Stoker's Dracula: Original Motion Picture Soundtrack](https://open.spotify.com/album/4WDRuinnAhb1taYx3RNAxr) | 6:40 | 2021-12-15 |  |
@@ -25,7 +25,7 @@
 | [Run To The Church](https://open.spotify.com/track/1F3yUGDxCfGH9Zx3KePnmK) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Sixth Sense \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Cdpyr3pRNtiErT7QRbOxI) | 1:21 | 2021-12-15 |  |
 | [Side A](https://open.spotify.com/track/4s7BAf0bNlxyANBVVPRLKt) | [David Lynch & Alan R\. Splet](https://open.spotify.com/artist/29O0eYoRjupuO4wth6D0k7) | [Eraserhead Soundtrack](https://open.spotify.com/album/1l0NtS7ohVK9xqByCKVSlQ) | 20:08 | 2021-12-15 |  |
 | [Stranger Things](https://open.spotify.com/track/0kwuKfWntoGh0EWyYb7Mpf) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 1:07 | 2021-12-15 |  |
-| [Suspiria \- Originale](https://open.spotify.com/track/0DrihQ3QVHvYbdpPKCUmoN) | [Goblin](https://open.spotify.com/artist/7H92g6n1BvyzvQwaERZKZl) | [Suspiria](https://open.spotify.com/album/66X1aX8OnQZROjTlxHWYtg) | 6:02 | 2021-12-15 |  |
+| [Suspiria \- Originale](https://open.spotify.com/track/0DrihQ3QVHvYbdpPKCUmoN) | [Goblin](https://open.spotify.com/artist/7H92g6n1BvyzvQwaERZKZl) | [Suspiria](https://open.spotify.com/album/66X1aX8OnQZROjTlxHWYtg) | 0:29 | 2021-12-15 |  |
 | [The Omen \- Ave Santani](https://open.spotify.com/track/2FjW6XLCZCQORjl2RQpIMP) | [Jerry Goldsmith](https://open.spotify.com/artist/7t8q7ikEtcPNtoaKAm9Vu6) | [The Omen \- Deluxe Edition](https://open.spotify.com/album/5wuC3fOv5p1g4GgIpoNHHt) | 2:35 | 2021-12-15 |  |
 | [The Shock](https://open.spotify.com/track/7ywQ5kMHhMIzPnq1pWnx4P) | [Libra](https://open.spotify.com/artist/5NcUfLgHkxGWEUgG30Rkz2) | [Shock](https://open.spotify.com/album/7d38p5xz6uCm4PZInK3EmA) | 4:10 | 2021-12-15 |  |
 | [The Twilight Zone](https://open.spotify.com/track/5u72Vlsj6XLEOvx5TLTJMC) | [Twilight Zone](https://open.spotify.com/artist/3zE4ZIzz0ygvpSr9tkrv6v) | [TV Hits Volume 1](https://open.spotify.com/album/472xZX7rmaZUFgybcruPwd) | 0:53 | 2021-12-15 |  |

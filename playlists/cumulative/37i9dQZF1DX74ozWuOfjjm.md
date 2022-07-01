@@ -4,7 +4,7 @@
 
 > Listen to the women of AU & NZ at full volume\. Cover: Sampa the Great
 
-193 songs - 10 hr 26 min - [published](https://open.spotify.com/playlist/4PJNyPSll9BI9JEGTXEKxV)
+193 songs - 10 hr 18 min - [published](https://open.spotify.com/playlist/4PJNyPSll9BI9JEGTXEKxV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Blank Page](https://open.spotify.com/track/0CWWCOjNGeo40Kl0XbkYe4) | [MISSY](https://open.spotify.com/artist/3Fwrv2f2K0AxSDCrS8qZhD) | [Blank Page](https://open.spotify.com/album/7hKEp9Sh7BwASAeHolaONj) | 2:29 | 2022-04-05 |  |
 | [BLEED](https://open.spotify.com/track/4PQeiGGiaWjaujJWPjZswy) | [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [BLEED](https://open.spotify.com/album/6OQwaX0jFbUlUDdrF2dETa) | 3:02 | 2022-02-03 | 2022-04-06 |
 | [Bottle'o](https://open.spotify.com/track/0QhIgTGx2GpYnmgIQJIsWD) | [Ruby Fields](https://open.spotify.com/artist/1nwPEi1UZdJtCxBqATpsq3) | [Bottle'o](https://open.spotify.com/album/7vHoZyNq7xzQgq6zn3hUt6) | 2:32 | 2022-02-03 | 2022-03-07 |
-| [Break](https://open.spotify.com/track/41NfPrA9JEK6ufqJkUUU2N) | [Emily Muli](https://open.spotify.com/artist/5PF3HYijywmkoIgVSwXtP8) | [Break](https://open.spotify.com/album/6uoil0oYQ1OemgpS0QExn6) | 3:24 | 2022-02-03 |  |
+| [Break](https://open.spotify.com/track/41NfPrA9JEK6ufqJkUUU2N) | [Emily Muli](https://open.spotify.com/artist/5PF3HYijywmkoIgVSwXtP8) | [Break](https://open.spotify.com/album/6uoil0oYQ1OemgpS0QExn6) | 0:29 | 2022-02-03 |  |
 | [Bus Stop](https://open.spotify.com/track/4mjLbpVgQwz6nFtdOnCB1L) | [There's A Tuesday](https://open.spotify.com/artist/7ogKQvoSDyH4YEM5yShPI5) | [Bus Stop](https://open.spotify.com/album/6sWmfS1qh28Jler0wUmqbY) | 4:10 | 2022-02-03 | 2022-04-06 |
 | [Buttercup](https://open.spotify.com/track/72dgu4KCdzOBYJP7YvqCkM) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [Meadow](https://open.spotify.com/album/4FDZdAYlV11jeR3kjb1wWh) | 2:58 | 2022-02-03 | 2022-03-02 |
 | [By The Sea](https://open.spotify.com/track/0MT743d5eAbybSc1Sl0stR) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [I Don't Know Who to Call](https://open.spotify.com/album/5pkjDurY5mqnXnNTyO2u7P) | 4:16 | 2022-05-27 |  |
@@ -110,7 +110,7 @@
 | [Kind Of Bi](https://open.spotify.com/track/0oJ9sduYkIFoT36qsvY1OV) | [Genes](https://open.spotify.com/artist/5m34laExsWdTu2fYhRlRMG) | [Super Single](https://open.spotify.com/album/6q5PpzD3Ljm7beMhYCmCMv) | 2:49 | 2022-02-03 | 2022-05-28 |
 | [Ladder to the Moon](https://open.spotify.com/track/41aYKwJPK7facN5CMXLvZT) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Ladder to the Moon](https://open.spotify.com/album/31TOQwydj7vH0Kwyd8aBLJ) | 3:31 | 2022-02-03 | 2022-04-06 |
 | [Lane](https://open.spotify.com/track/17DG8UuM9rZpVnz44aJYpG) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj) | [Lane](https://open.spotify.com/album/3PMdJrGUZTY3ruBIQiFlPH) | 2:42 | 2022-05-02 |  |
-| [Lean Across](https://open.spotify.com/track/1xIiuti9ChczqV6pF9U6b4) | [CLEWS](https://open.spotify.com/artist/6cw5iGpmkR9dNaIZ85j8ya) | [Lean Across](https://open.spotify.com/album/2qcWvD3FcexP83c5OmgYuZ) | 3:06 | 2022-03-06 |  |
+| [Lean Across](https://open.spotify.com/track/1xIiuti9ChczqV6pF9U6b4) | [CLEWS](https://open.spotify.com/artist/6cw5iGpmkR9dNaIZ85j8ya) | [Lean Across](https://open.spotify.com/album/2qcWvD3FcexP83c5OmgYuZ) | 0:29 | 2022-03-06 |  |
 | [Leave Behind](https://open.spotify.com/track/0x5Ty3ux7B1nOC5R9sGv2a) | [Georgia Lines](https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c) | [Leave Behind](https://open.spotify.com/album/2eezvxHq2PwuEvzLB9Ks17) | 3:26 | 2022-05-27 |  |
 | [Like A Woman](https://open.spotify.com/track/3T9mpqizkZffwov4NYc8RV) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Like A Woman](https://open.spotify.com/album/0XNL4lFECwpsstreCDPK1V) | 3:10 | 2022-02-03 | 2022-03-02 |
 | [LITTLE FIRES](https://open.spotify.com/track/3rZbiEFem2bm8zYUIA9ecd) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [LITTLE FIRES](https://open.spotify.com/album/1vVD2Jm1xVWk3TGhdQ6z97) | 2:59 | 2022-02-03 |  |
@@ -118,7 +118,7 @@
 | [Look Me In The Eyes](https://open.spotify.com/track/1kCKOjFILLIu0tlYJjBnPM) | [Bella Taylor Smith](https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ) | [Look Me In The Eyes](https://open.spotify.com/album/7jdepYJ7EiTGVtrwtqz1mb) | 3:16 | 2022-04-05 | 2022-05-03 |
 | [Lose Myself](https://open.spotify.com/track/53luLYwmUbed7o5GyaapIo) | [Abby Wolfe](https://open.spotify.com/artist/3cawuvrU0C4K3p3trV7bPd) | [Lose Myself](https://open.spotify.com/album/6xebwTs10OktQp1jCuNpQ8) | 3:19 | 2022-02-03 |  |
 | [Loser](https://open.spotify.com/track/0JGXmt0UISP8sttvwFvT76) | [Reyanna Maria](https://open.spotify.com/artist/7kRrkUEPgO3TRfAi7Gsw2i) | [Loser](https://open.spotify.com/album/1O1J9ZCRpjUfTVATGWoYUw) | 2:24 | 2022-02-03 |  |
-| [Lover Be Brave](https://open.spotify.com/track/1jQIhBAiQjnHii3puL0NDL) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Ladder to the Moon](https://open.spotify.com/album/1o4oSjHsPdxJYurihyfI0i) | 3:15 | 2022-02-03 |  |
+| [Lover Be Brave](https://open.spotify.com/track/1jQIhBAiQjnHii3puL0NDL) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Ladder to the Moon](https://open.spotify.com/album/1o4oSjHsPdxJYurihyfI0i) | 0:29 | 2022-02-03 |  |
 | [Mana\-Wā\-Hine](https://open.spotify.com/track/1fgAnaegajbOJ0MEy355jv) | [Anna Coddington](https://open.spotify.com/artist/0N4Wl36KNZ1bG2YelyeSlG) | [Mana\-Wā\-Hine](https://open.spotify.com/album/74NQaYnBRJzKlkfxJt8OAL) | 2:37 | 2022-02-03 | 2022-03-07 |
 | [Meet U Again](https://open.spotify.com/track/5olHyFqKwYuX4UNE1bHeBO) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Meet U Again](https://open.spotify.com/album/3Wf8JA1DpgNWqFLJEItImP) | 2:35 | 2022-03-01 | 2022-05-28 |
 | [Mid Years](https://open.spotify.com/track/3DweCW4XdD9BWzSjMkj0as) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Mid Years](https://open.spotify.com/album/6goF0ZEnG6xaySuYrYAeEH) | 2:58 | 2022-02-03 | 2022-04-06 |

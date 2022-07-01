@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Gloria
 
-171 songs - 9 hr 38 min - [published](https://open.spotify.com/playlist/0QCUPVPm5DzTYPmApO8yZ5)
+171 songs - 9 hr 33 min - [published](https://open.spotify.com/playlist/0QCUPVPm5DzTYPmApO8yZ5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Clareiras](https://open.spotify.com/track/3XHQg2a9HX7S7IKV6onG9A) | [Detonautas Roque Clube](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [Álbum Laranja](https://open.spotify.com/album/7G30oNPOHYPSGe2Fb9L7PB) | 3:27 | 2022-01-14 |  |
 | [Coliseu \(Video Mix\)](https://open.spotify.com/track/3uND74WMJKkkHVrtCvSrb5) | [Arnaldo Brandão](https://open.spotify.com/artist/31tPxXZRs26Tcw8o4xYclY), [Fausto Fawcett](https://open.spotify.com/artist/5qlJRHM85YKmfOdD1fNe2O), [Leela](https://open.spotify.com/artist/11irmEzISytQwB3G8uhC5E) | [Coliseu \(Video Mix\)](https://open.spotify.com/album/3vcJVRGUpB5slAtA3A3cKy) | 4:54 | 2022-04-08 |  |
 | [Comigo](https://open.spotify.com/track/7vK7TTDN4gQ4aQchzvqEPg) | [Caian](https://open.spotify.com/artist/7tuQ2Z48JrUw4wZthY8LO9) | [Paixão e outras drogas](https://open.spotify.com/album/6UEIYf0li1qnvIqRBQzLWl) | 2:58 | 2022-01-21 | 2022-04-23 |
-| [Complexo](https://open.spotify.com/track/2u3a7VO5uB9xQlycZj1FOh) | [Dupoint](https://open.spotify.com/artist/54GML44bZteHh8aoqc644G) | [Simples Como Tem Que Ser](https://open.spotify.com/album/0WkYLnLlNroMfXDltInQJb) | 2:45 | 2022-01-14 |  |
+| [Complexo](https://open.spotify.com/track/2u3a7VO5uB9xQlycZj1FOh) | [Dupoint](https://open.spotify.com/artist/54GML44bZteHh8aoqc644G) | [Simples Como Tem Que Ser](https://open.spotify.com/album/0WkYLnLlNroMfXDltInQJb) | 0:29 | 2022-01-14 |  |
 | [CÉUMITÉRIO](https://open.spotify.com/track/0KW0jKVnoOWCuEpJBqoFWI) | [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [CÉUMITÉRIO](https://open.spotify.com/album/5R9UWzUQZFgjbDELvZTVSI) | 3:23 | 2022-01-14 | 2022-04-02 |
 | [Dançar](https://open.spotify.com/track/2JG7LWyNbkzm7GPRf3iXoC) | [Meu Funeral](https://open.spotify.com/artist/6GEXLxhbbkxEeYkL9sl64X), [Tati Quebra Barraco](https://open.spotify.com/artist/3CuWYvDpKC3HVLru1CPGts) | [Dançar](https://open.spotify.com/album/564oeyEGIGpUB3ooaeb0ee) | 2:33 | 2022-01-14 | 2022-02-26 |
 | [Deixar Viver](https://open.spotify.com/track/62mO6x70dol2LOiTGR8GvK) | [Daniel Siebert](https://open.spotify.com/artist/1FXr5LmmIsKw0CvMP9OgR4), [Marilice Caldart](https://open.spotify.com/artist/1880UjmsktmnsggwPbpC4Y) | [Deixar Viver](https://open.spotify.com/album/38lIRym65wLQtPHIN5Z9lO) | 4:22 | 2022-01-14 |  |
@@ -113,7 +113,7 @@
 | [Mina](https://open.spotify.com/track/4YeJk4DpwDJmUIblg5uIMf) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Mina](https://open.spotify.com/album/3b37659m8j3fvRca3zrjAX) | 2:57 | 2022-01-14 |  |
 | [Minha Essência é Essa](https://open.spotify.com/track/1nfY3lPdBRWKpcUD0IIes8) | [The Kira Justice](https://open.spotify.com/artist/0h00Bh6AN0E9SOnMVInpcN) | [Minha Essência é Essa](https://open.spotify.com/album/7BhRjF9uhRpzx6qgpXVeRm) | 3:49 | 2022-01-14 |  |
 | [Namorade](https://open.spotify.com/track/41kJiYsXVP6po4yrkfbc3K) | [Velhas Virgens](https://open.spotify.com/artist/1NG0y4OWAFilBtNB2Ey9jK) | [Namorade](https://open.spotify.com/album/0bm7sKgv6UxeAoYGlS3LtS) | 2:12 | 2022-06-03 | 2022-06-11 |
-| [Nasci Pra Chorar](https://open.spotify.com/track/2ic5BZuPlp4HLH8JOlTqwS) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [O Futuro Pertence À...Jovem Guarda](https://open.spotify.com/album/6tmMkqINb8TkUxyxwtqSwb) | 3:00 | 2022-02-04 |  |
+| [Nasci Pra Chorar](https://open.spotify.com/track/2ic5BZuPlp4HLH8JOlTqwS) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [O Futuro Pertence À...Jovem Guarda](https://open.spotify.com/album/6tmMkqINb8TkUxyxwtqSwb) | 0:29 | 2022-02-04 |  |
 | [Navegador](https://open.spotify.com/track/4wFWxZHE1vosfLgLeACN1D) | [Dazaranha](https://open.spotify.com/artist/5Tj3XpWt9Z17NR581kYPQY) | [Navegador](https://open.spotify.com/album/7q4llfL8SITrKE6vTzO463) | 2:53 | 2022-01-28 |  |
 | [Navegar](https://open.spotify.com/track/64hYpT3rlb28PYwNcrLIDt) | [Gus Nascimento](https://open.spotify.com/artist/2WeX0MjSzcLnqnZbbskV9q) | [Navegar](https://open.spotify.com/album/7LFi616McROlNIvyECY0mp) | 3:23 | 2022-05-06 | 2022-05-20 |
 | [No Dope](https://open.spotify.com/track/6hK9ZwfGFXChenmoRMA3QO) | [Autoramas](https://open.spotify.com/artist/6IwPtS5L4cV9yCB66mhheZ) | [Autointitulado](https://open.spotify.com/album/11vCaFZctm7B0iZZHWF1gq) | 2:42 | 2022-01-28 |  |

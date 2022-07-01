@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyPBAlQvdpJ.md) - [plain]
 
 > Enjoy the hottest <a href="spotify:genre:funkbrazil">Brazilian Funk</a>\. Lo mejor del <a href="spotify:genre:funkbrazil">Funk de Brasil </a>! Cover: Mc Kevin O Chris
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,425 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,516 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Finalidade Era Ficar em Casa](https://open.spotify.com/track/2Y73798F4zbbbvKT02fbtE) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Finalidade Era Ficar em Casa](https://open.spotify.com/album/2Fm7ad2tXYu5LHKePgBLcP) | 3:05 |
-| 2 | [Faz Gostoso \(feat\. Anitta\)](https://open.spotify.com/track/2SC14LGDbRWRlyLg9Wupa0) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 4:05 |
+| 2 | [Faz Gostoso \(feat\. Anitta\)](https://open.spotify.com/track/2SC14LGDbRWRlyLg9Wupa0) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 0:29 |
 | 3 | [Vai maluca](https://open.spotify.com/track/6yKUGTJaTcakKzeCQVnque) | [MC Lan](https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR), [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Vai maluca](https://open.spotify.com/album/5RjbKnAzSU2E3KSRGMZaxB) | 3:24 |
 | 4 | [Mala Mala](https://open.spotify.com/track/4S9LQXEKuR1GBH34D0f277) | [MC Bin Laden](https://open.spotify.com/artist/6L7N8AEhRQFp4A2SzvPdUP), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA), [KAKTOV](https://open.spotify.com/artist/4G8DaRnN7oPFkEJXwX2i94) | [Mala Mala](https://open.spotify.com/album/3o7qDzcxxtLvKwId3y9kmr) | 2:31 |
 | 5 | [Quero Que Tu Vá \(International Mix\)](https://open.spotify.com/track/0PrEC7N82UwV79gg0mXPMX) | [Ananda](https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ), [Joker Beats](https://open.spotify.com/artist/7tsmrNpbLkT4xL1nzRLpCu), [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [Quero Que Tu Vá \(International Mix\)](https://open.spotify.com/album/5NYFSmcnoYZIN74UwObK2i) | 2:19 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyPBAlQvdpJ.md) - [plain]
 | 31 | [Vai Embrazando](https://open.spotify.com/track/1zhfU6YXa2pXUAQdG1NvBZ) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [MC Vigary](https://open.spotify.com/artist/7kT7skfOOZaxMm52OqW2Oe) | [Vai Embrazando](https://open.spotify.com/album/5wFghtLrCdOUXWBQgRwqB0) | 2:46 |
 | 32 | [Rap Das Armas](https://open.spotify.com/track/6Y0Lah5ZRbCZzNFcOrTN1o) | [MC Júnior E MC Leonardo](https://open.spotify.com/artist/41oppqjRz0wE0qI3WF2nZQ), [Bateria Da Rocinha](https://open.spotify.com/artist/45TdicUF4OBIxTyMOYQ6fW) | [Web Hits \- Vol\. 1](https://open.spotify.com/album/1c1GKzGiL6kytNapMScPjg) | 4:51 |
 | 33 | [Deu Onda](https://open.spotify.com/track/0EPxmvsG1BY5td4aTOkWBF) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Deu Onda](https://open.spotify.com/album/4kL6UmXZ0QGt4crDk2n1op) | 2:24 |
-| 34 | [O Grave Bater](https://open.spotify.com/track/1bUazU9SSOh02AdlOPeTvm) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [O Grave Bater](https://open.spotify.com/album/45flnIWcOtLPij1pv65BTm) | 3:01 |
+| 34 | [O Grave Bater](https://open.spotify.com/track/1bUazU9SSOh02AdlOPeTvm) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [O Grave Bater](https://open.spotify.com/album/45flnIWcOtLPij1pv65BTm) | 0:29 |
 | 35 | [Abusadamente](https://open.spotify.com/track/7vgNGxchhqDQWjKjLPTPro) | [MC Gustta](https://open.spotify.com/artist/1Rpp9XZ2UUDmW81JvQP1at), [MC DG](https://open.spotify.com/artist/7LFu0rTIuaK4oxkm80nZez) | [Abusadamente](https://open.spotify.com/album/0KbY8slBvLSmMxeiSHxKEp) | 3:35 |
 | 36 | [Se Eu Tiver Solteiro](https://open.spotify.com/track/4KXdwfri1NIQCImLQr3Wli) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Se Eu Tiver Solteiro](https://open.spotify.com/album/2qSERTWWD2Exg9IGHyJTEi) | 2:49 |
 | 37 | [Pode Se Soltar](https://open.spotify.com/track/2mL3B5GilTm4dUT6P8LVpd) | [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Pode Se Soltar](https://open.spotify.com/album/1n80hObcwA9Ic5k7TWqNNY) | 3:00 |

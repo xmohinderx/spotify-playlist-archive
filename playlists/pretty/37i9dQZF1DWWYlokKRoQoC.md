@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYlokKRoQoC.md) - [plain]
 
 > Celebrating the life and legacy of the songwriting legend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,074 likes - 94 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,105 likes - 94 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYlokKRoQoC.md) - [plain]
 | 50 | [Let's Talk Dirty in Hawaiian](https://open.spotify.com/track/7tXKYCMVUmillzaz2ZtrYM) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [German Afternoons](https://open.spotify.com/album/2mrzBV6nowUVeDVDeHloFm) | 3:13 |
 | 51 | [I Just Want to Dance with You](https://open.spotify.com/track/6YQs5ByntuMrSBLFY80ucS) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [German Afternoons](https://open.spotify.com/album/2mrzBV6nowUVeDVDeHloFm) | 3:28 |
 | 52 | [It's a Cheating Situation \(feat\. Dolores Keane\)](https://open.spotify.com/track/5JbiSS1mikI9w5lHVygk17) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Dolores Keane](https://open.spotify.com/artist/6nYVwBK8nCQCYlb7rA763B) | [In Spite of Ourselves](https://open.spotify.com/album/2t6hK5ERtgjbHXVgHlpqJ5) | 2:56 |
-| 53 | [My Old Kentucky Home, Goodnight](https://open.spotify.com/track/0jo2BDAxfgNrL5VplFuulx) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [My Old Kentucky Home, Goodnight](https://open.spotify.com/album/6NVpVhMqlNUu4M7vQuOez1) | 3:45 |
+| 53 | [My Old Kentucky Home, Goodnight](https://open.spotify.com/track/0jo2BDAxfgNrL5VplFuulx) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [My Old Kentucky Home, Goodnight](https://open.spotify.com/album/6NVpVhMqlNUu4M7vQuOez1) | 0:29 |
 | 54 | [Crazy as a Loon](https://open.spotify.com/track/6CX3K4UXAPXk9BymJZQTIP) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Fair and Square](https://open.spotify.com/album/44sOCUUf8kp3Oj1yBYAKiZ) | 5:03 |
 | 55 | [Back Street Affair \(feat\. Patty Loveless\)](https://open.spotify.com/track/3uK7mFFXkNJbXNTPI401H0) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Patty Loveless](https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT) | [In Spite of Ourselves](https://open.spotify.com/album/2t6hK5ERtgjbHXVgHlpqJ5) | 2:47 |
 | 56 | [Wedding Bells / Let's Turn Back the Years \(feat\. Lucinda Williams\)](https://open.spotify.com/track/5NKxPy7MoRfPG4Tg0USJnD) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [In Spite of Ourselves](https://open.spotify.com/album/2t6hK5ERtgjbHXVgHlpqJ5) | 3:47 |

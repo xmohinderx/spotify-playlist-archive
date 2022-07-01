@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-98 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
+98 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Kharasha](https://open.spotify.com/track/5b0pO1D67bUkGKzx4kNP56) | [The Sitar Lounge Experience](https://open.spotify.com/artist/2KdoHKu7K72giUrFxLQjKe) | [The Sitar Lounge Experience](https://open.spotify.com/album/0OILgZSp5RbtJszUSJXNog) | 4:48 | 2022-04-04 | 2022-04-21 |
 | [King of the Ragas \(Darbari\)](https://open.spotify.com/track/7n4BUekVuwAYTIHtxoz9n4) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Ãnanda Nãda](https://open.spotify.com/album/1MYMwqJ5tCmMUjCc2NkJsZ) | 8:00 | 2022-04-04 |  |
 | [Kirwani](https://open.spotify.com/track/3uEHOHPX2pDBLQ6QHWBpZs) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo), [Jaubi](https://open.spotify.com/artist/3nb0xF02MfjP2lM9zVNgnp) | [Ragas from Lahore: Improvisations with Jaubi](https://open.spotify.com/album/7a3OBCH6fWKGb1MuKpIBKn) | 4:32 | 2022-04-04 |  |
-| [Koodu Beat](https://open.spotify.com/track/3eWSufYeo9lVW9QvorDuPz) | [Qalander](https://open.spotify.com/artist/1fgzNEfvwvl89CVNprnohN) | [Koodu Beat](https://open.spotify.com/album/2HMB79pfnDfhWUtC3uosfV) | 3:35 | 2022-04-04 |  |
+| [Koodu Beat](https://open.spotify.com/track/3eWSufYeo9lVW9QvorDuPz) | [Qalander](https://open.spotify.com/artist/1fgzNEfvwvl89CVNprnohN) | [Koodu Beat](https://open.spotify.com/album/2HMB79pfnDfhWUtC3uosfV) | 0:29 | 2022-04-04 |  |
 | [Loving\-Kindness](https://open.spotify.com/track/4YQn86jDGtlXovQJT9nwiB) | [Vimassana](https://open.spotify.com/artist/1JwJysIUFMsM5HjV5fJvGv) | [Loving\-Kindness](https://open.spotify.com/album/0cHpCmG4oLbGPStNrpdgMD) | 2:50 | 2022-04-04 |  |
 | [Magnetic](https://open.spotify.com/track/31Wui18tjMUSmIig5fvf6o) | [Tabla Beat Science](https://open.spotify.com/artist/4jd6GufdXsJXzwXXb0zX2T) | [Tala Matrix](https://open.spotify.com/album/7K5JvSfWk1vQNdS9V5DNxu) | 7:43 | 2022-04-04 |  |
 | [Matunga Road](https://open.spotify.com/track/1xyPoM0HauExUsfEaIzdF0) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Moksha](https://open.spotify.com/album/0Kv8gZ0PQe6Bm7CP9Pv9qY) | 3:17 | 2022-05-16 |  |
@@ -69,7 +69,7 @@
 | [Peaceful Being](https://open.spotify.com/track/6IKGWm6XdJMs8YxMh2wr8W) | [Maneesh de Moor](https://open.spotify.com/artist/7CUmdcvfZJrSsg4jnNNwHA) | [Sadhana](https://open.spotify.com/album/1oZRS0AoopzdEbW623lcRZ) | 5:28 | 2022-04-04 |  |
 | [Pipers](https://open.spotify.com/track/7wDZOZiMJxjOH8R9Xv6yvw) | [Yakamora](https://open.spotify.com/artist/5aAi2J1r2GmSXMeiG20jJp) | [Pipers](https://open.spotify.com/album/6wh12iQPshA8QQq7Xtunc3) | 4:06 | 2022-04-04 |  |
 | [Puja \- Soundscape Mix](https://open.spotify.com/track/2tXLZ9m1ZrvMqTnYHrO93b) | [For the Good of All](https://open.spotify.com/artist/0wYjAAeaDXrNnxy3qs0xQj), [Vylana](https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn), [Aubrey Marcus](https://open.spotify.com/artist/2G6geUYzXyqHJpAZ7nVFYX), [Poranguí](https://open.spotify.com/artist/0vNpT8ZtiGQVhi0AvDWpsG), [Liquid Bloom](https://open.spotify.com/artist/16N7BvvGgw3jvmXBSn0hVS), [Eric Zang](https://open.spotify.com/artist/0bqNGlh4NGgVj8NHjP10Jm) | [Remembrance Soundscapes](https://open.spotify.com/album/6qxbqgTA9S4mZIOlXIGIs2) | 5:52 | 2022-05-06 |  |
-| [Qalanderi](https://open.spotify.com/track/1EOrtwXZXYuZjR9ACjaxNO) | [Cheb i Sabbah](https://open.spotify.com/artist/1RTVukXrK45mKMIVFFEMM0) | [Devotion](https://open.spotify.com/album/6lPvH0V0rcrysdfNI3SStg) | 7:09 | 2022-04-04 |  |
+| [Qalanderi](https://open.spotify.com/track/1EOrtwXZXYuZjR9ACjaxNO) | [Cheb i Sabbah](https://open.spotify.com/artist/1RTVukXrK45mKMIVFFEMM0) | [Devotion](https://open.spotify.com/album/6lPvH0V0rcrysdfNI3SStg) | 0:29 | 2022-04-04 |  |
 | [Raga Hemavati \(Flute\)](https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Romantic Evening Ragas'](https://open.spotify.com/album/5nYb3oYwbDYkWyb85ShfyM) | 2:52 | 2022-04-04 |  |
 | [Raga Navel](https://open.spotify.com/track/64PFSlID3y1Pm3gqM6RUiG) | [Harsh Marwah](https://open.spotify.com/artist/1OTNhpMTizcJQibzfrT5tV) | [Raga Rasa](https://open.spotify.com/album/4bVOOvwB7z5RiGrdRSAwyG) | 5:00 | 2022-04-04 |  |
 | [Raga Sundara](https://open.spotify.com/track/5GD43kQemov0BAih8Mb5Hg) | [Yantra Mantra](https://open.spotify.com/artist/1eE1hRgkFrYyoFuCO3WSOZ) | [Buddah's Chill, Vol\. 7 \(Buddha Asian Bar Lounge\)](https://open.spotify.com/album/7yb68aQVIHJeNfbdSjBnMj) | 4:06 | 2022-04-04 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpCsFZJADb7.md) - [plain]
 
 > Listen to stories from your friends on Sesame Street.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,833 likes - 40 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,835 likes - 40 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpCsFZJADb7.md) - [plain]
 | 3 | [Abby in Wonderland](https://open.spotify.com/track/2rxp53PHzhpZbKIwen9mGc) | [Sesame Street Storytime](https://open.spotify.com/artist/6ZeDryVizTyTHzJnzPm8yw) | [Abby in Wonderland](https://open.spotify.com/album/4u6DUnt0cwc6KnosEDCT06) | 8:23 |
 | 4 | [Goldilocks and the Three Bears](https://open.spotify.com/track/0M6PYDOETwtdUmTnDAbkwn) | [Count Von Count](https://open.spotify.com/artist/1oDbLbJSRUBBOp9SU6NOjI) | [Sesame Street: The Sesame Street Fairy Tale Album](https://open.spotify.com/album/0hqmmMhV62n51CaXNYO7sS) | 6:48 |
 | 5 | [Monsters Can Share](https://open.spotify.com/track/2ouDLUCNKDQv0EACkJIVij) | [Sesame Street Storytime](https://open.spotify.com/artist/6ZeDryVizTyTHzJnzPm8yw) | [Monsters Can Share](https://open.spotify.com/album/5ZNw0YLiVhyJ6xKwVqZEMg) | 4:46 |
-| 6 | [A Perfect Picnic](https://open.spotify.com/track/0JUVzEzSpSo8zihE1CBbxL) | [Sesame Street Storytime](https://open.spotify.com/artist/6ZeDryVizTyTHzJnzPm8yw) | [A Perfect Picnic](https://open.spotify.com/album/55280hcRN7woYoAaBffBaJ) | 4:33 |
+| 6 | [A Perfect Picnic](https://open.spotify.com/track/0JUVzEzSpSo8zihE1CBbxL) | [Sesame Street Storytime](https://open.spotify.com/artist/6ZeDryVizTyTHzJnzPm8yw) | [A Perfect Picnic](https://open.spotify.com/album/55280hcRN7woYoAaBffBaJ) | 0:29 |
 | 7 | [Counting All Around](https://open.spotify.com/track/75LtoeAkfbQ8IE9gMEdbyQ) | [Sesame Street Storytime](https://open.spotify.com/artist/6ZeDryVizTyTHzJnzPm8yw) | [Counting All Around](https://open.spotify.com/album/0dzIdTYNdZGVRPMaDQ4q88) | 4:48 |
 | 8 | [Happy and Sad, Grouchy and Glad](https://open.spotify.com/track/6v0gzQEPqDU4jiEawkDHx2) | [Sesame Street Storytime](https://open.spotify.com/artist/6ZeDryVizTyTHzJnzPm8yw) | [Happy and Sad, Grouchy and Glad](https://open.spotify.com/album/5bsi6uxNj7hcU9hVQbl7jm) | 3:04 |
 | 9 | [Elmo's Potty Time](https://open.spotify.com/track/5iKtv3hS1C4ai7ypgXDWaS) | [Sesame Street Storytime](https://open.spotify.com/artist/6ZeDryVizTyTHzJnzPm8yw) | [Elmo's Potty Time](https://open.spotify.com/album/14WiKTmbYnx45WLeTqhux7) | 2:46 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpCsFZJADb7.md) - [plain]
 | 29 | [Ready Set Brush](https://open.spotify.com/track/7veplGH7OS1B1LtnVlUdla) | [Sesame Street Storytime](https://open.spotify.com/artist/6ZeDryVizTyTHzJnzPm8yw) | [Ready Set Brush](https://open.spotify.com/album/2XNqXn6DdVo99hogvZlH2k) | 1:50 |
 | 30 | [S is for School](https://open.spotify.com/track/3pNPBYxXv57itA5C2SeYPL) | [Sesame Street Storytime](https://open.spotify.com/artist/6ZeDryVizTyTHzJnzPm8yw) | [S is for School](https://open.spotify.com/album/1LHV39lq8n9tqSAgqGORyK) | 3:28 |
 | 31 | [What Makes You Giggle?](https://open.spotify.com/track/6bmcPZ3Za03xAR5VCf3bw6) | [Sesame Street Storytime](https://open.spotify.com/artist/6ZeDryVizTyTHzJnzPm8yw) | [What Makes You Giggle?](https://open.spotify.com/album/6VmtQQYdroqnjjUFQqxj3W) | 6:20 |
-| 32 | [My First Instrument](https://open.spotify.com/track/5Yy80VZZA2QjYaeIEqA4Gv) | [Sesame Street Storytime](https://open.spotify.com/artist/6ZeDryVizTyTHzJnzPm8yw) | [My First Instrument](https://open.spotify.com/album/1f9J4pHTVUhgptrLG0zQ7s) | 6:21 |
+| 32 | [My First Instrument](https://open.spotify.com/track/5Yy80VZZA2QjYaeIEqA4Gv) | [Sesame Street Storytime](https://open.spotify.com/artist/6ZeDryVizTyTHzJnzPm8yw) | [My First Instrument](https://open.spotify.com/album/1f9J4pHTVUhgptrLG0zQ7s) | 0:29 |
 | 33 | [What Shape is A Grape?](https://open.spotify.com/track/43EzDtvuD0NszFCQcAweIq) | [Sesame Street Storytime](https://open.spotify.com/artist/6ZeDryVizTyTHzJnzPm8yw) | [What Shape is A Grape?](https://open.spotify.com/album/640k8MZOZqhX9kLUZDMQAk) | 3:51 |
 | 34 | [Fairly Furry Fairy Tales: Rhyming Rapunzel](https://open.spotify.com/track/7igDXki1zzDWy3Ug85dPyW) | [Sesame Street Storytime](https://open.spotify.com/artist/6ZeDryVizTyTHzJnzPm8yw) | [Fairly Furry Fairy Tales: Rhyming Rapunzel](https://open.spotify.com/album/2nvVEBf3crkh2tv24luJyq) | 6:37 |
 | 35 | [Storybook ABCs](https://open.spotify.com/track/1BtpZ4E4h9Pi10kmQWs950) | [Sesame Street Storytime](https://open.spotify.com/artist/6ZeDryVizTyTHzJnzPm8yw) | [Storybook ABCs](https://open.spotify.com/album/5O6PjvBBek0KTSDkOlhVP8) | 6:37 |

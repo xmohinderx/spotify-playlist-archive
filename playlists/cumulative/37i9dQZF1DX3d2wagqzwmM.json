@@ -173,7 +173,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 184826,
       "name": "Arabian Nights",
       "url": "https://open.spotify.com/track/3e9lh8yGoVFBfOWt9e3imb"
@@ -389,7 +389,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 162460,
       "name": "Bring It Back To Me",
       "url": "https://open.spotify.com/track/5pqm3ulg0pXHgJ53dHpP23"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 165714,
       "name": "Closer",
       "url": "https://open.spotify.com/track/4uUGyVwAKE8z7fyoyHBdvd"
@@ -591,7 +591,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 170281,
       "name": "Countdown",
       "url": "https://open.spotify.com/track/7plmy2LppP5hH8VjqYo7S5"
@@ -811,7 +811,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 195000,
       "name": "Dust",
       "url": "https://open.spotify.com/track/5p4ZYlGkKTOJHcrVKY4j2L"
@@ -947,7 +947,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 221220,
       "name": "Follow",
       "url": "https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67"
@@ -1036,7 +1036,7 @@
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 189004,
+      "duration_ms": 29048,
       "name": "Founding Fathers",
       "url": "https://open.spotify.com/track/0XvtB7JNbIvWaQGVAy8amP"
     },
@@ -1233,7 +1233,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 172176,
       "name": "Happy Revolution",
       "url": "https://open.spotify.com/track/6K22fmkCwrLdzqLUixb6Q1"
@@ -1348,7 +1348,7 @@
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 154545,
+      "duration_ms": 29048,
       "name": "Huang",
       "url": "https://open.spotify.com/track/2LQNjxWyhEsFhVxnwLrmSB"
     },
@@ -1453,6 +1453,24 @@
       "duration_ms": 238125,
       "name": "INTO THE UNKNOWN",
       "url": "https://open.spotify.com/track/7nHruG1y3zBupJG6F6UQtB"
+    },
+    {
+      "album": {
+        "name": "Keep Moving",
+        "url": "https://open.spotify.com/album/169CFMX9eGD379MAPwLEud"
+      },
+      "artists": [
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Keep Moving",
+      "url": "https://open.spotify.com/track/0QFKNWVDzx68m98IMDSxyY"
     },
     {
       "album": {
@@ -1656,6 +1674,24 @@
     },
     {
       "album": {
+        "name": "MIND CONTROL",
+        "url": "https://open.spotify.com/album/3BiMWVo79A0eBXjU3ftPrT"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248876,
+      "name": "MIND CONTROL",
+      "url": "https://open.spotify.com/track/1ijNLECKPfBExLWeq9MD74"
+    },
+    {
+      "album": {
         "name": "Missing You",
         "url": "https://open.spotify.com/album/7k6GSoJGrGyF5JeksX4Hd7"
       },
@@ -1719,7 +1755,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 200876,
       "name": "Mother & Father",
       "url": "https://open.spotify.com/track/74XoMDxaS0blbuxeVqdOyl"
@@ -1811,7 +1847,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 179980,
       "name": "No Illusions",
       "url": "https://open.spotify.com/track/1f3CqEw0F1134cqpfP8l4c"
@@ -1869,7 +1905,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 231750,
       "name": "Odin",
       "url": "https://open.spotify.com/track/1P1UvsJcy7hzkCM43jNWaD"
@@ -1913,7 +1949,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 180047,
       "name": "Out Of My Mind",
       "url": "https://open.spotify.com/track/2wSudk1Z9HMdPNrWnwu6mc"
@@ -2085,7 +2121,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 229565,
       "name": "Raindrops - Avao Remix",
       "url": "https://open.spotify.com/track/16b1sDaG65MWEBnRGLm9Gd"
@@ -2125,7 +2161,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 160888,
       "name": "Raptor",
       "url": "https://open.spotify.com/track/4rQWeoQSHpBFP4Qk6mlw0T"
@@ -2191,7 +2227,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 173027,
       "name": "Readymade Sweat",
       "url": "https://open.spotify.com/track/47RHGBGyfNHQkyT9m5lXpi"
@@ -2261,7 +2297,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 156000,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/512MWs3jFUvUTdj2X4eM07"
@@ -2280,7 +2316,7 @@
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 225230,
+      "duration_ms": 29048,
       "name": "Safe",
       "url": "https://open.spotify.com/track/71WFZwTIUZoYpzjO56g3KH"
     },
@@ -2345,7 +2381,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 217142,
       "name": "She Movin'",
       "url": "https://open.spotify.com/track/2Mx93ho6F2ovN2FA4vs3Ud"
@@ -2430,7 +2466,7 @@
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 166812,
+      "duration_ms": 29048,
       "name": "Skydance",
       "url": "https://open.spotify.com/track/0c5nqQNIH07Lh16AOjqEPQ"
     },
@@ -2531,10 +2567,36 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 148910,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/7phNeOILik5KVqhANASZOI"
+    },
+    {
+      "album": {
+        "name": "Superman",
+        "url": "https://open.spotify.com/album/7tYL9vmWTgy5l6XN2yMnYc"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "24h",
+          "url": "https://open.spotify.com/artist/0gySpejfRTyfba7i8uok3K"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204250,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/2HXX7sAKE71YbJ5Wysju9e"
     },
     {
       "album": {
@@ -2735,7 +2797,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 162461,
       "name": "The Passenger (LaLaLa) [feat. MOKABY] - Gabry Ponte Festival Mix",
       "url": "https://open.spotify.com/track/0LpWBNqyyn81WnoILV9mxV"
@@ -3075,7 +3137,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 196521,
       "name": "Yama",
       "url": "https://open.spotify.com/track/6IDkdabcsyZmLQDCMtp6An"

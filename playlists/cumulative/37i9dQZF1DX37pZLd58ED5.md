@@ -4,7 +4,7 @@
 
 > Solo beat e rime avvolgenti\. Cover: Neima Ezza
 
-63 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/4r83GtsNbTEk66vNKaqlF4)
+63 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/4r83GtsNbTEk66vNKaqlF4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Saigon](https://open.spotify.com/track/0nd1tWz1bmTQ2ObCnZCLV9) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Mr\. Fini](https://open.spotify.com/album/7C9m0DdXdl0Z92bmv45BpX) | 3:38 | 2022-04-28 |  |
 | [Seignosse](https://open.spotify.com/track/1aHWdsWQooVkRhZL2oU8m2) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Seignosse](https://open.spotify.com/album/5TmDheBbiIysuxMl2Qjhfg) | 2:56 | 2022-04-28 |  |
 | [SOGNI D'ORO](https://open.spotify.com/track/2tKH7kT40eTSp8SCf6VKeH) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:37 | 2022-04-28 |  |
-| [Solido](https://open.spotify.com/track/2gPENupbdW8MMPijDovU4a) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [La Bella Musica](https://open.spotify.com/album/42tTqiNZ6vqy1qaTdXyp0J) | 3:14 | 2022-04-28 |  |
+| [Solido](https://open.spotify.com/track/2gPENupbdW8MMPijDovU4a) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [La Bella Musica](https://open.spotify.com/album/42tTqiNZ6vqy1qaTdXyp0J) | 0:29 | 2022-04-28 |  |
 | [Solletico \(feat\. Tedua & The Night Skinny\)](https://open.spotify.com/track/6gan8nbS78t2sUy0M9UpAX) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [Ossigeno \- EP](https://open.spotify.com/album/0eAgD8ueJfUud98yLZ612P) | 3:06 | 2022-04-28 |  |
 | [Solo Per Me \(feat\. Massimo Pericolo\)](https://open.spotify.com/track/0UKgEDJm4M54t50cbGGiUC) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [MM Vol\. 4](https://open.spotify.com/album/6u7PVqrCBPex6FSw8eb5ce) | 2:58 | 2022-04-28 |  |
 | [Spigoli](https://open.spotify.com/track/1XQvMjA9IiIx1lAiTHSxQi) | [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [Spigoli](https://open.spotify.com/album/7d2mx3ECVdcvoLFLXrx8Qo) | 4:16 | 2022-04-28 |  |

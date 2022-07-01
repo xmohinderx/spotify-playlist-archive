@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang Dangdut teratas\. Cover: Via Vallen
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,595 likes - 59 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,670 likes - 59 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 | 20 | [Via Vallen \- Kopi Dangdut](https://open.spotify.com/track/18MnWJxYUKfI3UQfemPCyJ) | [Via Vallen](https://open.spotify.com/artist/6vnVPM49Yl9LSGqhnLAh1f) | [Via Vallen \- Kopi Dangdut](https://open.spotify.com/album/79KEBVLIcSYF1L9fjIBsQT) | 4:20 |
 | 21 | [Kau Tercipta Untukku](https://open.spotify.com/track/0NfWMu3zA2v4ymR2pWiXV9) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Kau Tercipta Untukku](https://open.spotify.com/album/1zpXdr3kkwZF8RKMz4vi72) | 4:07 |
 | 22 | [Goyang Dua Jari](https://open.spotify.com/track/4iAHwaR6q8NPn0LQUZ8E0g) | [Sandrina](https://open.spotify.com/artist/7j2KcU3ogpP9jtAsomBNwA) | [Goyang Dua Jari](https://open.spotify.com/album/2J9oHWko5w4Xsm96yuXiSD) | 2:45 |
-| 23 | [Tatu](https://open.spotify.com/track/6Mp5wge6ri9XgqcQqMJVyb) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tatu](https://open.spotify.com/album/2u8kGA8Duva5Dxruf7NyxH) | 4:46 |
+| 23 | [Tatu](https://open.spotify.com/track/6Mp5wge6ri9XgqcQqMJVyb) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tatu](https://open.spotify.com/album/2u8kGA8Duva5Dxruf7NyxH) | 0:29 |
 | 24 | [Salah Apa Aku \- DJ Version](https://open.spotify.com/track/4TZ6sKMb5qdsBijn7GAosK) | [Ilir7](https://open.spotify.com/artist/2Qq9xKJKNbWzXQpO9ueKwc) | [Salah Apa Aku \(DJ Version\)](https://open.spotify.com/album/6jgucnuziyH4ihofeI625E) | 4:20 |
 | 25 | [Dalan Liyane](https://open.spotify.com/track/3o9aRNDVtfpw4JtramprZx) | [Via Vallen](https://open.spotify.com/artist/6vnVPM49Yl9LSGqhnLAh1f) | [Dalan Liyane](https://open.spotify.com/album/7oNL1mQRBJyqK5U94WCNAg) | 4:32 |
 | 26 | [Kulepas Dengan ikhlas](https://open.spotify.com/track/0MMgF49ViaGpAonpNRbavI) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Kulepas Dengan Ikhlas](https://open.spotify.com/album/26nVfbBouNRMtdDOCn3Zq0) | 6:13 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 | 40 | [Dalan Liyane](https://open.spotify.com/track/0500gMP5UyLXs1HSuLOnBD) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Dalan Liyane](https://open.spotify.com/album/2uXWRk8gpYuaYI7LkaD8NS) | 4:04 |
 | 41 | [Ditinggal Rabi](https://open.spotify.com/track/4sYOxiEbp2oz4WCTIxin5O) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Ditinggal Rabi](https://open.spotify.com/album/3ktlwW2CVWwqhq17PK4Cl6) | 4:36 |
 | 42 | [Demi Kowe](https://open.spotify.com/track/4g3vLzLkRxMEecxiIl12so) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Demi Kowe](https://open.spotify.com/album/2DF8m8378NlyK2vRmwpBfj) | 4:39 |
-| 43 | [Edan Turun](https://open.spotify.com/track/1BWvBsPoBT8rciQPQBBjgw) | [Trio Macan](https://open.spotify.com/artist/2AGgCwZcIbShC78asA0loE) | [Edan Turun](https://open.spotify.com/album/5Dpm6QGDrTVpKDRlj1SEqm) | 3:36 |
+| 43 | [Edan Turun](https://open.spotify.com/track/1BWvBsPoBT8rciQPQBBjgw) | [Trio Macan](https://open.spotify.com/artist/2AGgCwZcIbShC78asA0loE) | [Edan Turun](https://open.spotify.com/album/5Dpm6QGDrTVpKDRlj1SEqm) | 0:29 |
 | 44 | [Tak Lalekne Kowe](https://open.spotify.com/track/5Qj0PtT0uCwEX3IuWiHLt9) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tak Lalekne Kowe](https://open.spotify.com/album/7Mrs9ngZquGRsZSkR1HIE7) | 5:41 |
 | 45 | [Jakarta Kalimantan](https://open.spotify.com/track/2xN7UiLrcbu5w5Gn52Kqiy) | [Sinka Sisuka](https://open.spotify.com/artist/4kFQEmcuWSQUX91Q1KQflA) | [Jakarta Kalimantan](https://open.spotify.com/album/2x8MraY8UBPMfTxVDUQ8fq) | 3:50 |
 | 46 | [Pas Sayang Sayange](https://open.spotify.com/track/2kqTWTajdr0t4PQfeOkcnp) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Pas Sayang Sayange](https://open.spotify.com/album/17QcdedIFHIn2Lns6dLSjc) | 4:48 |

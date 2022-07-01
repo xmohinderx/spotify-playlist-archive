@@ -4,7 +4,7 @@
 
 > La nueva\-nueva ola de artistas y creadorxs mexas: presentamos a DAAZ e Ingratax\. 🌊✨
 
-156 songs - 8 hr 15 min - [published](https://open.spotify.com/playlist/6I4k19QivQTwxJMIU1FW10)
+156 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/6I4k19QivQTwxJMIU1FW10)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Suena Tu Canto](https://open.spotify.com/track/6af3gkqJwZRgifUmWWNRTh) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Suena Tu Canto](https://open.spotify.com/album/3Go1r8uelLjlMgwAHcyokh) | 3:48 | 2022-06-24 |  |
 | [Supersad](https://open.spotify.com/track/45GH9XOvr1OR5znGgqXyxW) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Supersad](https://open.spotify.com/album/2DP6dlnGbY9W2ZkH4BKCNh) | 3:35 | 2021-12-10 | 2022-06-17 |
 | [Tamagotchi](https://open.spotify.com/track/0qHrI3sYAchQOnj0biIhLR) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [Tamagotchi](https://open.spotify.com/album/30UuPIcZoexQdXC1BWSH5z) | 3:03 | 2021-12-10 | 2022-02-19 |
-| [Te Marqué Pedo \- Remix](https://open.spotify.com/track/6FmNYdaLvcxqTiXjpXMriI) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Te Marqué Pedo \(Remix\)](https://open.spotify.com/album/0fRcpehAhXLPmOTyXanErg) | 3:37 | 2022-02-11 |  |
+| [Te Marqué Pedo \- Remix](https://open.spotify.com/track/6FmNYdaLvcxqTiXjpXMriI) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Te Marqué Pedo \(Remix\)](https://open.spotify.com/album/0fRcpehAhXLPmOTyXanErg) | 0:29 | 2022-02-11 |  |
 | [Televisión](https://open.spotify.com/track/4JcxRWYxGWG3Miieh34Z1K) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g), [Joheel Rodmar](https://open.spotify.com/artist/2IhzYqwXcAUGMbJ2qxz4Ik) | [Televisión](https://open.spotify.com/album/5Qmgvb2qwRvXaO9DgnSP4s) | 2:55 | 2022-03-04 | 2022-05-07 |
 | [tiempo](https://open.spotify.com/track/0TeOSjjpN80jyyZLc4RiLn) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn \(Deluxe\)](https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH) | 3:51 | 2021-12-10 | 2022-05-20 |
 | [TODO HA CAMBIAO'](https://open.spotify.com/track/7sdfEPzucmtbOAdKnmRUlR) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [TODO HA CAMBIAO'](https://open.spotify.com/album/0pGaWq5M4SMxXbgL3ILETy) | 3:49 | 2022-04-13 |  |
@@ -150,7 +150,7 @@
 | [Una Chica Como Tú](https://open.spotify.com/track/39IgIaGpqk7DQx7EZpmgCJ) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Una Chica Como Tú](https://open.spotify.com/album/7neBiMNxuv7nz6z8v1JB1M) | 2:47 | 2021-12-10 | 2022-04-14 |
 | [UwU \(Como Tú\)](https://open.spotify.com/track/0maqTDdo65Y09Cp1wuHNZM) | [Soy Os](https://open.spotify.com/artist/2J2jJ0c3IzSL7iF3UQ2pDb), [Arian El Especialista](https://open.spotify.com/artist/7dp7yWssZ3UQ123f85hgxY) | [UwU \(Como Tú\)](https://open.spotify.com/album/5VuLsKidZpt8CGC9n00Jry) | 3:04 | 2022-03-04 | 2022-06-25 |
 | [Valiente](https://open.spotify.com/track/49cYxSsg3dUciAQzXuqO8g) | [Franklynn](https://open.spotify.com/artist/5s5bDMYmlwgWhaQKDBzDAA), [Solebrije](https://open.spotify.com/artist/2hyXbp6JRjLvGVERODNEcA) | [Valiente](https://open.spotify.com/album/0ThpF190vEM6IuCpvUTUch) | 3:56 | 2022-02-25 | 2022-05-20 |
-| [Ven](https://open.spotify.com/track/2tgJbpATqLIAjGpnLS71f1) | [Luisa Ferss](https://open.spotify.com/artist/1ItAvLPSVDyxMZoH7uqj2K) | [Ven](https://open.spotify.com/album/2H9tKoacyYJ0wrQvVLijzK) | 3:18 | 2022-02-18 |  |
+| [Ven](https://open.spotify.com/track/2tgJbpATqLIAjGpnLS71f1) | [Luisa Ferss](https://open.spotify.com/artist/1ItAvLPSVDyxMZoH7uqj2K) | [Ven](https://open.spotify.com/album/2H9tKoacyYJ0wrQvVLijzK) | 0:29 | 2022-02-18 |  |
 | [Veo, Veo](https://open.spotify.com/track/2gtf19UFW3XLNsEnbfdBVb) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Veo, Veo](https://open.spotify.com/album/059eZpWBrNGHJ95xr9Ent5) | 2:40 | 2022-05-20 |  |
 | [Vienen Y Van](https://open.spotify.com/track/5oWh8d5vckVbBuO7Udcgo8) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Vienen Y Van](https://open.spotify.com/album/4mItIB7t3BKjoSUXx9odyS) | 3:01 | 2022-06-02 |  |
 | [Walking Dogs](https://open.spotify.com/track/2CWoyl5VCiVwxuUwfFow8R) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB) | [Walking Dogs](https://open.spotify.com/album/1w3f0ze9K1SCsmRcO5tKsg) | 2:20 | 2022-05-06 | 2022-06-25 |

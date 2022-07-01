@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 
 > 這些歌手將以其令人讚嘆的嗓音和演唱技巧牽動你的心弦。
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,647 likes - 28 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,649 likes - 28 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hello](https://open.spotify.com/track/1MDoll6jK4rrk2BcFRP5i7) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Hello](https://open.spotify.com/album/5y28RdPzIRXegzr5YM9Y0D) | 4:55 |
 | 2 | [I Will Always Love You](https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:31 |
 | 3 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 |
-| 4 | [All In My Head](https://open.spotify.com/track/098tAg0yjz9ds5oys4MAPG) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Handmade Songs By Tori Kelly](https://open.spotify.com/album/0cKsaZeZ7zxJWmP8haVHuf) | 3:30 |
+| 4 | [All In My Head](https://open.spotify.com/track/098tAg0yjz9ds5oys4MAPG) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Handmade Songs By Tori Kelly](https://open.spotify.com/album/0cKsaZeZ7zxJWmP8haVHuf) | 0:29 |
 | 5 | [When I See U](https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Fantasia](https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX) | 3:37 |
 | 6 | [Vision of Love](https://open.spotify.com/track/0gLQ6jhJsyYfl7PrD1RZ7X) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Mariah Carey](https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn) | 3:29 |
 | 7 | [By Your Side](https://open.spotify.com/track/6KfjgbXONOyQ94mYTsBtWY) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Voices From The FIFA World Cup](https://open.spotify.com/album/2RA2n4gUfPhQj8MmPt95Ti) | 4:18 |

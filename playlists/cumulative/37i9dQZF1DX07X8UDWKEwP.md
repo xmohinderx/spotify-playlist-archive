@@ -4,7 +4,7 @@
 
 > Lo nuevo del mundo tropical\. Cover: Luis Figueroa
 
-156 songs - 9 hr 27 min - [published](https://open.spotify.com/playlist/2Ht3c63z2gjsw6cH26GdKD)
+156 songs - 9 hr 24 min - [published](https://open.spotify.com/playlist/2Ht3c63z2gjsw6cH26GdKD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Para Mi Viejo](https://open.spotify.com/track/1XLBz0hJhf7lDG6pFGDwt9) | [Willy Chirino](https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO), [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Para Mi Viejo](https://open.spotify.com/album/3HhN9SDOMxvTRGp82PAIK0) | 3:49 | 2022-01-01 | 2022-06-30 |
 | [Para Toda la Vida](https://open.spotify.com/track/0qgBp4NwYl2URZ6zkPaCJp) | [Pamel](https://open.spotify.com/artist/48jGc4i11EImovz6WgKLbB) | [Para Toda la Vida](https://open.spotify.com/album/7aHDbYPKWVuWjiOB4rKybA) | 3:17 | 2022-01-01 | 2022-06-30 |
 | [Pasarela](https://open.spotify.com/track/4nWQcZu84VTHqWJBac6KMI) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Pasarela](https://open.spotify.com/album/7LlkJqeKRlr3rALJN4mCYB) | 3:51 | 2022-01-01 | 2022-06-30 |
-| [Peligro](https://open.spotify.com/track/12JyMFngqOZ8VSOHgYD9v5) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Peligro](https://open.spotify.com/album/4fCJuQAuofGlTZmRlrfycu) | 3:20 | 2022-03-04 |  |
+| [Peligro](https://open.spotify.com/track/12JyMFngqOZ8VSOHgYD9v5) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Peligro](https://open.spotify.com/album/4fCJuQAuofGlTZmRlrfycu) | 0:29 | 2022-03-04 |  |
 | [Pepas \(Version Merengue\)](https://open.spotify.com/track/1ojTU4PABAOr5i3IaW7RhZ) | [MOLY](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc), [Miguel Moly](https://open.spotify.com/artist/597Qn1wBw1ZwHNIzeRxOm8) | [Pepas \(Version Merengue\)](https://open.spotify.com/album/6ZTrk7RDsxy5jfaItGProy) | 2:30 | 2022-01-01 | 2022-06-30 |
 | [Perdon \- Bachata Version](https://open.spotify.com/track/3vmzQypehYq6UgKtBLk4eT) | [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS), [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF) | [Perdon \(Bachata Version\)](https://open.spotify.com/album/39mfhjRYLDUGysKMjJjbM0) | 3:57 | 2022-01-01 | 2022-01-29 |
 | [Perdoname](https://open.spotify.com/track/2Zav4mkT3UcXlE69LFijHs) | [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Pa' Que Te Duela](https://open.spotify.com/album/6TU8wHPVsx9a4byLoZllb7) | 3:35 | 2022-01-01 | 2022-01-29 |

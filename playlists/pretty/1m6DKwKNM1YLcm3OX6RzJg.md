@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1m6DKwKNM1YLcm3OX6RzJg.md) - [plain]
 
 > Upptäck svenska talanger som kommer att vara soundtracket till ditt 2014\.  En spellista som ständigt uppdateras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,302 likes - 63 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,301 likes - 63 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/1m6DKwKNM1YLcm3OX6RzJg.md) - [plain]
 | 16 | [Mountain Peak, Sea Deep](https://open.spotify.com/track/3dGcfSthwIfEFo8BKoWKH9) | [Pheeyownah](https://open.spotify.com/artist/3uHNiWNGDKPU2dIA7Q7en9) | [Under the Dock](https://open.spotify.com/album/1Um1uJ7I1UYchG6FSZZneG) | 4:02 |
 | 17 | [Moment of Clarity](https://open.spotify.com/track/4NcVWi4YFJ5P6Xl8pWHBo9) | [Beatrice Eli](https://open.spotify.com/artist/1lzoEy8yiIBiHOuaO4h5Wj) | [Moment of Clarity](https://open.spotify.com/album/49nxwF14MFVXam2ciL3Qtr) | 4:30 |
 | 18 | [Baby It's You](https://open.spotify.com/track/6obw4kNNFTD9AcJmS23fOG) | [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Hey Hey](https://open.spotify.com/album/7aAckmXx2tIaR6qB1F7cKs) | 3:11 |
-| 19 | [It's All Good](https://open.spotify.com/track/4Zn4pQK12WQ96kGHMRhiKO) | [Naomi Pilgrim](https://open.spotify.com/artist/5QpXKWRjxAVZlmn5trAa16) | [It's All Good](https://open.spotify.com/album/0WD3NDgF06gmSKCFrGlvjw) | 4:09 |
+| 19 | [It's All Good](https://open.spotify.com/track/4Zn4pQK12WQ96kGHMRhiKO) | [Naomi Pilgrim](https://open.spotify.com/artist/5QpXKWRjxAVZlmn5trAa16) | [It's All Good](https://open.spotify.com/album/0WD3NDgF06gmSKCFrGlvjw) | 0:29 |
 | 20 | [Like Em Young](https://open.spotify.com/track/20N8HzFUDR2Je9WmvXvVDZ) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Queen Of The Clouds](https://open.spotify.com/album/5Z5O36p7BivXzkucc0PAfw) | 3:39 |
 | 21 | [Abdicate](https://open.spotify.com/track/1rYNmwfcscXLH1BTb2Tp6x) | [Kassandra](https://open.spotify.com/artist/4uDggFqIGEMJ9nSi81KAaI) | [Abdicate \- Single](https://open.spotify.com/album/2kuvpZj8nScuspORDoNG8S) | 3:08 |
 | 22 | [You](https://open.spotify.com/track/2kAwRhYlFuUTqhdeeWdzyO) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [For Madeleine](https://open.spotify.com/album/0rk5czGKHLHVD0UYSz2cNB) | 3:41 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/1m6DKwKNM1YLcm3OX6RzJg.md) - [plain]
 | 56 | [Fire](https://open.spotify.com/track/5km3PaR3G3izli7sjjjaso) | [Tiffany K](https://open.spotify.com/artist/7GygNNmOrzfxYA6FUzStyR) | [F!](https://open.spotify.com/album/16XLBiTCmMxMzoJn9zFEMW) | 3:46 |
 | 57 | [On And Off](https://open.spotify.com/track/754QsvXagmmU7qbOVdRZsh) | [Lovisa Samuelsson](https://open.spotify.com/artist/7riT9X2b8cNxcnVKB1V3YX) | [On And Off / Sleepwalker](https://open.spotify.com/album/0QSvuP42WYOmX4f1JJgNwI) | 3:33 |
 | 58 | [The Watcher and the Mind](https://open.spotify.com/track/4cbPc7APmUBuTwnOUoz8Es) | [Iris & Hedvig](https://open.spotify.com/artist/6Z1cYiZ3N2Q2WAc3ZXn913) | [The Watcher and the Mind](https://open.spotify.com/album/62AcdQFithlRAdVbK4dU7V) | 2:48 |
-| 59 | [Say it Like You Mean it](https://open.spotify.com/track/30YuvcPzM120mgeNchky6p) | [Maria Hazell](https://open.spotify.com/artist/44pv88VpkRu39v0lupR2gZ) | [Say it Like You Mean it](https://open.spotify.com/album/38cgcDlZXNWPgU1L4OLbhf) | 3:16 |
+| 59 | [Say it Like You Mean it](https://open.spotify.com/track/30YuvcPzM120mgeNchky6p) | [Maria Hazell](https://open.spotify.com/artist/44pv88VpkRu39v0lupR2gZ) | [Say it Like You Mean it](https://open.spotify.com/album/38cgcDlZXNWPgU1L4OLbhf) | 0:29 |
 | 60 | [Inte OK](https://open.spotify.com/track/0Wm74MutbYsqdNk5DRqPX8) | [Min Stora Sorg](https://open.spotify.com/artist/53mirS5AzwzEw9MsquLXFo) | [Mvh Anso, M$$](https://open.spotify.com/album/5lTCy0H7QkUCWsilyhkhfq) | 3:13 |
-| 61 | [Wild At Heart](https://open.spotify.com/track/3WZFBxHWyIVlzH4nDAyR0B) | [Jaquline Ronneklew](https://open.spotify.com/artist/1mDQs9Mv3bVIJJyx2XCawe) | [Wild At Heart](https://open.spotify.com/album/0RY8mgqyjUUfXRa47kf9FF) | 3:11 |
+| 61 | [Wild At Heart](https://open.spotify.com/track/3WZFBxHWyIVlzH4nDAyR0B) | [Jaquline Ronneklew](https://open.spotify.com/artist/1mDQs9Mv3bVIJJyx2XCawe) | [Wild At Heart](https://open.spotify.com/album/0RY8mgqyjUUfXRa47kf9FF) | 0:29 |
 | 62 | [Let's Get Fxxxed One Last Time](https://open.spotify.com/track/4tews9FvmahNNBMbgtEx4s) | [Gutarra](https://open.spotify.com/artist/5PjNp1KvPD5VXn7nj0xSMc) | [Let's Get Fxxxed One Last Time](https://open.spotify.com/album/3ICZKkjv6P9K5YlfMFrRtf) | 4:27 |
 | 63 | [Hands](https://open.spotify.com/track/4loILEGYnk9XndvttRAnwn) | [Iida](https://open.spotify.com/artist/4r8kiXYHx1qXVGZFpyn2s1) | [Hands](https://open.spotify.com/album/4GpS06zFUvDx4Lcf3NCnFR) | 3:22 |
 

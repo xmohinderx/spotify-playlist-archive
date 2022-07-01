@@ -4,14 +4,14 @@
 
 > Fresh takes on all of your favorite standards.
 
-25 songs - 1 hr 26 min - [published](https://open.spotify.com/playlist/3EZGyGUFiYpKXpSkoEbvC2)
+25 songs - 1 hr 22 min - [published](https://open.spotify.com/playlist/3EZGyGUFiYpKXpSkoEbvC2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ain't Misbehavin'](https://open.spotify.com/track/5B8837C7EEmX4oL902pJZi) | [Peter Cincotti](https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F) | [Peter Cincotti](https://open.spotify.com/album/4dso3rPkFlBTedekSED8Gm) | 3:43 | 2015-03-16 |  |
 | [Blue Moon](https://open.spotify.com/track/6gNWvUQTgfoiIKzMwKjoQC) | [She Keeps Bees](https://open.spotify.com/artist/1dhUEswrKf1aUf6375EPSx) | [Skb\-007 7" Record](https://open.spotify.com/album/1eBNEBfL7IafkgdjsnddIh) | 2:41 | 2015-03-16 |  |
 | [California Dreamin'](https://open.spotify.com/track/6gkIIBgZx2661g01Nz5Qtr) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Wallflower \(Deluxe Edition\)](https://open.spotify.com/album/0y23DgLgmNM6o3SLlXV0Xd) | 3:17 | 2015-03-16 |  |
-| [Cheek To Cheek](https://open.spotify.com/track/6gmmK1JQf938kdVnOmZxic) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Cheek To Cheek](https://open.spotify.com/album/56uP6C9dDe31eLwhpfgIWT) | 2:50 | 2015-03-16 |  |
+| [Cheek To Cheek](https://open.spotify.com/track/6gmmK1JQf938kdVnOmZxic) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Cheek To Cheek](https://open.spotify.com/album/56uP6C9dDe31eLwhpfgIWT) | 0:29 | 2015-03-16 |  |
 | [Come Fly with Me](https://open.spotify.com/track/2Cakl6tRkLxccrnqJdvGpu) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Michael Bublé](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) | 3:18 | 2015-03-16 |  |
 | [Creep](https://open.spotify.com/track/26qhmNexrOJWTrakmx8ohR) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Vintage Café \- Lounge & Jazz Blends](https://open.spotify.com/album/5dPAnuLyn7AHGV6XIIcY64) | 3:27 | 2015-03-16 |  |
 | [Dance Me To The End Of Love](https://open.spotify.com/track/5xqdfnqW6GijQLopbufMb5) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Careless Love](https://open.spotify.com/album/0g5XcbeQToovD2yCgu09Gi) | 3:55 | 2015-03-16 |  |
@@ -19,7 +19,7 @@
 | [Here Comes the Sun](https://open.spotify.com/track/7JhF43DEYvAS6S4TeSfkoT) | [Sarah Menescal](https://open.spotify.com/artist/4DpQLwz0jhUU7wuT9phTlD) | [The Voice of the New Bossa Nova](https://open.spotify.com/album/6nYUXG6zvebEPwndlcHytZ) | 2:32 | 2015-03-20 |  |
 | [Honeysuckle Rose](https://open.spotify.com/track/4LIw2QRvZWvtV48O92yfKu) | [Fats Waller](https://open.spotify.com/artist/0DYWCXTkNqGFZIf67SrWEa), [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Taking A Chance On Love](https://open.spotify.com/album/3SPCafRVqoXgwY3YsofV6W) | 3:37 | 2015-03-16 |  |
 | [I Got Rhythm](https://open.spotify.com/track/6Ebi3t0QFFvJlvBGO8UvoA) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi) | [Nikki](https://open.spotify.com/album/2FZvvk2PKLy5CX0MXLZdis) | 3:45 | 2015-03-03 |  |
-| [It Don't Mean A Thing \(If It Ain't Got That Swing\)](https://open.spotify.com/track/060xyUBcm6dc9FlxJyfFuu) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Cheek To Cheek](https://open.spotify.com/album/56uP6C9dDe31eLwhpfgIWT) | 2:23 | 2015-03-16 |  |
+| [It Don't Mean A Thing \(If It Ain't Got That Swing\)](https://open.spotify.com/track/060xyUBcm6dc9FlxJyfFuu) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Cheek To Cheek](https://open.spotify.com/album/56uP6C9dDe31eLwhpfgIWT) | 0:29 | 2015-03-16 |  |
 | [It Had to Be You \(Big Band and Vocals\)](https://open.spotify.com/track/58Znl2X9CgsghGUZrkEUr4) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When Harry Met Sally..\. Music From The Motion Picture](https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv) | 2:38 | 2015-03-16 |  |
 | [It's Only A Paper Moon](https://open.spotify.com/track/5ZStscHv2mRQbhBW3OJb2c) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Kisses On The Bottom](https://open.spotify.com/album/0qEe6hPN9ybmHeLC5Y228X) | 2:34 | 2015-03-16 |  |
 | [Jeepers Creepers 2.0](https://open.spotify.com/track/2m4HNn5sBSumOmz5jl0vDl) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi) | [Little Secret \(Deluxe\)](https://open.spotify.com/album/6cmxjBCKQgE9OErwsIyhhW) | 2:59 | 2015-03-16 |  |

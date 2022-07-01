@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8h3zQNo57xG.md) - [plain]
 
 > Put yourself to sleep with delta frequencies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,402 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,508 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8h3zQNo57xG.md) - [plain]
 | 15 | [Diving \(Delta 130 Hz \- 134 Hz\)](https://open.spotify.com/track/0kKvSsrcHaAv92QvNZFgrj) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Diving \(Delta 130 Hz \- 134 Hz\)](https://open.spotify.com/album/3VpVkXeykUTFsYY3JPW3SM) | 3:01 |
 | 16 | [Limitless \- Delta Sinus 132Hz \- 133Hz](https://open.spotify.com/track/7oyUv4e3GnJuviEIGd4dQR) | [Universal Frequency](https://open.spotify.com/artist/0pIcKP7M8X29OqdKClIIJH) | [Alpha Focus](https://open.spotify.com/album/72Vc8gmpKCcMDwDTc3H6zp) | 3:20 |
 | 17 | [Careful Mind \(Delta 83 Hz \- 84 Hz\)](https://open.spotify.com/track/37QKoaOOqKqS7khtF4KNRT) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Careful Mind \(Delta 83 Hz \- 84 Hz\)](https://open.spotify.com/album/4yZmbSxZTXG24qQ0GNoqgX) | 4:37 |
-| 18 | [Awareness Delta Sinus 147Hz \- 150Hz](https://open.spotify.com/track/7jBc8kimjBFz2SNB6NZJ55) | [Sonic Whales](https://open.spotify.com/artist/64wCZb1sv0BBcay25AYmBH) | [The Art of Relaxation](https://open.spotify.com/album/1ZC4JDYNuHthr2RREXxKrA) | 3:12 |
+| 18 | [Awareness Delta Sinus 147Hz \- 150Hz](https://open.spotify.com/track/7jBc8kimjBFz2SNB6NZJ55) | [Sonic Whales](https://open.spotify.com/artist/64wCZb1sv0BBcay25AYmBH) | [The Art of Relaxation](https://open.spotify.com/album/1ZC4JDYNuHthr2RREXxKrA) | 0:29 |
 | 19 | [Delta Sinus Noise Pad](https://open.spotify.com/track/7sKPbqAPAP4llKXGEXqCaH) | [Wiser Noise](https://open.spotify.com/artist/0AVjqSe7ExlC8YpGYMXVfn) | [Delta Sinus Noise Pad](https://open.spotify.com/album/4tpiv36su2Y9b9BPAJgPNH) | 2:04 |
 | 20 | [Delta Dream \(96Hz \- 99Hz\)](https://open.spotify.com/track/0SZxVJIE8Oz96g8njMMUg7) | [Binaural Explorer](https://open.spotify.com/artist/4kJq7s8Maym8UFfZlHEkog) | [Gradual States](https://open.spotify.com/album/0JAn0eYBFo9i8rZS6uuo6n) | 4:00 |
 | 21 | [nite delta pattern](https://open.spotify.com/track/3VqF8tiKkVVVnhhmYmSif8) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [dream drifting \(binaural sleep\)](https://open.spotify.com/album/0I8Lj3JDpx8hEAYLzM5ac9) | 3:09 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8h3zQNo57xG.md) - [plain]
 | 24 | [Ocean Wings \- Delta Sinus 156Hz \- 159Hz](https://open.spotify.com/track/4zkLAkhO367nuQEDoFGgEh) | [Binaural Shapers](https://open.spotify.com/artist/3DFcr29ML80ziXXllK7w7N) | [Binaural Ocean](https://open.spotify.com/album/4FqaMcjDOWjiA8n5ggwFGK) | 4:30 |
 | 25 | [Binaural Delta Sinus 125 Hz \- 128 Hz](https://open.spotify.com/track/5jJ7EiQ0Ls2n7BGmM4vI0k) | [Sundance Darling](https://open.spotify.com/artist/7MRQbUPfaklI0EgLzZSEYP) | [Binaural Gamma Sinus 120 Hz \- 170 Hz](https://open.spotify.com/album/6RQNAwfBLqs9YYxEmGP5CF) | 2:36 |
 | 26 | [Delta 4 Hz Drone](https://open.spotify.com/track/4frZaw0LM9m8OpE9wbs8O3) | [Source Dimension](https://open.spotify.com/artist/3z3CegfPYP7ql4oU0pfCWf) | [Sinus Drones](https://open.spotify.com/album/6GleEVvhpKS2K8ftr68BIF) | 3:18 |
-| 27 | [Entrainment Waves \- Binaural Delta Sinus](https://open.spotify.com/track/6OgawKBL0hdxQPNC2BDn3H) | [Binaural Bob](https://open.spotify.com/artist/3b0jFoS97suhPO3v12iIw5) | [Entrainment Waves \- Binaural Delta Sinus](https://open.spotify.com/album/5NJ7IKxcgVqYosTgL3RYX1) | 1:40 |
+| 27 | [Entrainment Waves \- Binaural Delta Sinus](https://open.spotify.com/track/6OgawKBL0hdxQPNC2BDn3H) | [Binaural Bob](https://open.spotify.com/artist/3b0jFoS97suhPO3v12iIw5) | [Entrainment Waves \- Binaural Delta Sinus](https://open.spotify.com/album/5NJ7IKxcgVqYosTgL3RYX1) | 0:29 |
 | 28 | [Bergruf Delta 83Hz \- 86Hz](https://open.spotify.com/track/5gytJm0G0FhSigCcYM1SEs) | [Sound Particles](https://open.spotify.com/artist/0t19WH6KeglNXa5gLjsCwN) | [Sleep Sound](https://open.spotify.com/album/3e9PIFNGipQqAxGUkeOw29) | 4:00 |
 | 29 | [Schlaf, Schlaf, Schlaf \- Delta Sinus 92Hz \- 94Hz](https://open.spotify.com/track/2a4LNCvT38dM7ZSZzsDruh) | [Binaural Guidance](https://open.spotify.com/artist/3mTeGp1bAGxdJOzX19BCbD) | [Silent Words](https://open.spotify.com/album/12jobwwmDUtE73NkF9SFnC) | 3:16 |
 | 30 | [Maximum Focus Delta \(1.7Hz\)](https://open.spotify.com/track/29Hn90Qbo0E3lwf97pJOHg) | [Binaural Bob](https://open.spotify.com/artist/3b0jFoS97suhPO3v12iIw5) | [sinewave party](https://open.spotify.com/album/2VQWSbMOQizkg9RtacXTd3) | 2:24 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8h3zQNo57xG.md) - [plain]
 | 69 | [Higher Dreams \(Delta Waves\)](https://open.spotify.com/track/6Zw4Jka2SBzuEeEquCobrB) | [Higher Dreams](https://open.spotify.com/artist/6arzvoBgUyg7fngmLvlkcc) | [Higher Dreams](https://open.spotify.com/album/5qdxTZUkIRXux6K5bWFxLb) | 2:34 |
 | 70 | [Binaural Delta 160 Hz \- 165 Hz](https://open.spotify.com/track/4op2Y7dhZqdCqW9sZ7JyDv) | [Qhol](https://open.spotify.com/artist/1hdHCi0RoW0eZN8LzyzzLY) | [Binaural Beats Delta](https://open.spotify.com/album/2QeKfVOzOWztD4nwJ1Jcwb) | 3:32 |
 | 71 | [Delta Flow 108Hz \- 111Hz](https://open.spotify.com/track/4b6B97mdO3KjViKcgrlMQw) | [Binaural Lazers](https://open.spotify.com/artist/6OapBcknZrpX52wPvBCc8Z) | [Delta Patterns](https://open.spotify.com/album/3ygEMyVK61m7M9SEZvnaAI) | 2:50 |
-| 72 | [Theta to Delta Meditation \(Short Version\)](https://open.spotify.com/track/0bbbk5ABPnS4OyNBdJ44Aw) | [Joseph Beg](https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px) | [Only for Headphones](https://open.spotify.com/album/1S2ggNQjdIUOi01zsWLT1V) | 13:24 |
+| 72 | [Theta to Delta Meditation \(Short Version\)](https://open.spotify.com/track/0bbbk5ABPnS4OyNBdJ44Aw) | [Joseph Beg](https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px) | [Only for Headphones](https://open.spotify.com/album/1S2ggNQjdIUOi01zsWLT1V) | 0:29 |
 | 73 | [Chaturanga : Delta Sinus Beats](https://open.spotify.com/track/7bHmwz4ZsxlAwzMeXQaMCS) | [Enlightened Spirits](https://open.spotify.com/artist/0Ii80W3VIHBgr211IUReM8) | [Sun Salutation : Delta Sinus Beats](https://open.spotify.com/album/2wdkJYEmhMdgmwyc9GXOmG) | 2:05 |
 | 74 | [unendlischer Schlaf Delta Sinus 99Hz \- 100Hz](https://open.spotify.com/track/2Zlcka6ThORqoC4fjJ2d3R) | [oOcean](https://open.spotify.com/artist/6pjctIaHCJFvelpfzEiATn) | [Delta Sleep](https://open.spotify.com/album/3sNAAlIhr6Jion8yR8vyAs) | 4:20 |
 | 75 | [Binaural Delta 3hz 165hz and 168hz](https://open.spotify.com/track/3WNrFejiZtnlgRRaHrvu2P) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Binaural Delta and Theta Brainwaves for Sleep](https://open.spotify.com/album/4wWOPfIqG0U0Q060BU9AS6) | 2:32 |

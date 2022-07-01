@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 
 > Colored noise to help you sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,807 likes - 238 songs - 13 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,936 likes - 238 songs - 12 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 | 16 | [Pink Noise Chill](https://open.spotify.com/track/1fagVvIMVLI0oqDLV0LshZ) | [Astrofuss](https://open.spotify.com/artist/5Tx7TAY5IxjWaUuJo7tTzf) | [Pink Noise Chill](https://open.spotify.com/album/5bPfFb7gJETLRmqMvbtyLr) | 4:02 |
 | 17 | [Flowing Pink Noise](https://open.spotify.com/track/1VtxGYNZcXdnZnO9p6Fxaj) | [Fredrik Koch](https://open.spotify.com/artist/7pfJtUmBYcPYTRjXGKeujY) | [Baby Sleep Noise Kit](https://open.spotify.com/album/3tMcFcLTvWGZHNUfcBvDFS) | 2:14 |
 | 18 | [Palm Muted Pink Noise](https://open.spotify.com/track/4GDCo4w7u47ITYx4mx791J) | [Pinkfreq](https://open.spotify.com/artist/4rVtSVfR2xsfI3MkJkhMWT) | [Pink Noise for Snoozing](https://open.spotify.com/album/2f7RC69qlbBaDM8giJbXV1) | 4:07 |
-| 19 | [Pink Noise 609Hz](https://open.spotify.com/track/7tGJq9NtNagYGsgSdYFhGE) | [Pinkosphere](https://open.spotify.com/artist/0DimG3LGtKy8LLl6Il4QgY) | [Floating in Pink Noise](https://open.spotify.com/album/5cbjXsWk8pWcMOCLFv6sX9) | 3:18 |
+| 19 | [Pink Noise 609Hz](https://open.spotify.com/track/7tGJq9NtNagYGsgSdYFhGE) | [Pinkosphere](https://open.spotify.com/artist/0DimG3LGtKy8LLl6Il4QgY) | [Floating in Pink Noise](https://open.spotify.com/album/5cbjXsWk8pWcMOCLFv6sX9) | 0:29 |
 | 20 | [Noisy Heart](https://open.spotify.com/track/0h6vTpXxtdYJp6lcTkvjIO) | [Recordings From Earth](https://open.spotify.com/artist/3ZQb2yyHzgU02WZWbMOnyU) | [Loud Tile](https://open.spotify.com/album/4Huv5Bvn7wtHzuAZRv7X8m) | 2:21 |
 | 21 | [Pink Noise 2am \(REMASTERED\)](https://open.spotify.com/track/1GOBcNeiL8wOUn8IWwYTwq) | [WWW.PINK.NOISE](https://open.spotify.com/artist/3pzYnmOW5l9QII4mFjJtd1) | [Pink Noise Vol\. 3](https://open.spotify.com/album/2TdSHQtFRD35jFTj8EJuAk) | 2:40 |
 | 22 | [Stormy Pink Noise](https://open.spotify.com/track/2LaNPssXWQopFZ7Zf13gKQ) | [Only Noise Machine](https://open.spotify.com/artist/7cdo1ksUSETbrK7XFZ90Xh) | [Tech Noise](https://open.spotify.com/album/404ekWJGXlpkdavDXWWel9) | 2:18 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 | 76 | [Calm Pink Noise Sounds](https://open.spotify.com/track/23rundIEzbMmUQ3cHguU66) | [Limone M](https://open.spotify.com/artist/5FxD8GodVlJCHgsf1mjX9d) | [Calm Pink Noise Sounds](https://open.spotify.com/album/75hERX2Aa0TCfJBv2jWuaQ) | 3:27 |
 | 77 | [Pink Noise on the Sofa](https://open.spotify.com/track/36gEcAuFxr5HhD3cKsJJ3U) | [Pinkcalm](https://open.spotify.com/artist/0cVE49CA0F5vRLTJlJItpz) | [Pink Noise Sleep Library](https://open.spotify.com/album/57DHxJLRodJrcBPdnKHvPQ) | 4:20 |
 | 78 | [Blissful Pink Noise](https://open.spotify.com/track/6TSkktejhT9O9qTDTQf7tn) | [Laboratory Pink Noise](https://open.spotify.com/artist/5xdlDNkWf66gnF9HtSVoQs) | [In The Lab 6am](https://open.spotify.com/album/4OlCUrlz1zABOys2KCoJSg) | 2:27 |
-| 79 | [Loopable Pink Noise Flowing Waters](https://open.spotify.com/track/28Wnwp5FDBU0vzlU2BbKR0) | [Pink Noise](https://open.spotify.com/artist/3SwqynF0kqvqwKJX9EXEQ3) | [Pink Noise for Sleeping](https://open.spotify.com/album/20VDYEeMS9iB9XQ4M5Wrno) | 3:36 |
+| 79 | [Loopable Pink Noise Flowing Waters](https://open.spotify.com/track/28Wnwp5FDBU0vzlU2BbKR0) | [Pink Noise](https://open.spotify.com/artist/3SwqynF0kqvqwKJX9EXEQ3) | [Pink Noise for Sleeping](https://open.spotify.com/album/20VDYEeMS9iB9XQ4M5Wrno) | 0:29 |
 | 80 | [Staying Focused with Pink Noise](https://open.spotify.com/track/5hCHngsXGFlQKBl0Ca19VQ) | [Dream Son](https://open.spotify.com/artist/6Tl4693vgmUKDblSuqOKoo) | [Pink Noise Focus](https://open.spotify.com/album/5VGwO2kekC7hk3QjocdzCj) | 4:04 |
 | 81 | [Chilled Out Pink Noise](https://open.spotify.com/track/3XtmiYYqRdy0A5U0JGOugB) | [Zen Roads](https://open.spotify.com/artist/4YTZQgX5Ysqn46eV0BlIRe) | [Pink Noise Sleep Frequencies](https://open.spotify.com/album/57yyiQnrqIBdJRrOtyPI8u) | 4:23 |
 | 82 | [Airplane Sleep Pt.2](https://open.spotify.com/track/1ndKFw4DNNeLUnoHlwaVWo) | [Fabricants of Noise](https://open.spotify.com/artist/6rUkUd35nP2xoKO46sKPqs) | [Airplane Sleep](https://open.spotify.com/album/5bkoo0uYmf8YyGvNb8Bbq0) | 2:29 |
@@ -142,7 +142,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 | 132 | [Brown Noise in the Valley](https://open.spotify.com/track/19ZC9ogVpIEko5043hVYhg) | [A Dreaming Machine](https://open.spotify.com/artist/7rybj6DFBE9HYjDsD4ILuA) | [Lush Brown Noise](https://open.spotify.com/album/59rZF6CVD9k11WPzt8eC5G) | 3:35 |
 | 133 | [Sleeping Brown Noise](https://open.spotify.com/track/6mWt70E1XVsAG36NRV40rV) | [Everywhere Brown Noise](https://open.spotify.com/artist/4r6joVLgbTD7M07z1KIooA) | [Sleeping Brown Noise](https://open.spotify.com/album/7umltGSpruiFHUJUxQJLlf) | 3:45 |
 | 134 | [300 Hz Brown Noise](https://open.spotify.com/track/1vd0lL7y6ALu8bWPNfXhMQ) | [Zen Minds](https://open.spotify.com/artist/7ebgqohp81s0bZ3oWiTu9R) | [Brown Zen Noise](https://open.spotify.com/album/2tgF6LmkwmMcX7TfkE4kFl) | 2:46 |
-| 135 | [Brown Noise for Sleepy Eyes](https://open.spotify.com/track/0wLaPda0ARSiifV6YWrKzk) | [Dancing Waves](https://open.spotify.com/artist/6I734cgGnMNAYXbDKI6pxm) | [Brown Noise for Sleepy Eyes](https://open.spotify.com/album/5MrGxKyGm5EbXn9APxh7u2) | 3:12 |
+| 135 | [Brown Noise for Sleepy Eyes](https://open.spotify.com/track/0wLaPda0ARSiifV6YWrKzk) | [Dancing Waves](https://open.spotify.com/artist/6I734cgGnMNAYXbDKI6pxm) | [Brown Noise for Sleepy Eyes](https://open.spotify.com/album/5MrGxKyGm5EbXn9APxh7u2) | 0:29 |
 | 136 | [Incognito \- Brown Noise](https://open.spotify.com/track/4llrQQQaoqWzvZ0mezm1NE) | [Harper Rems](https://open.spotify.com/artist/3veRAXXPy3m69dx4ZtZJCP) | [Soothing Brown Noises](https://open.spotify.com/album/2oBmJWimdbdQ1B8ytKo2o9) | 3:44 |
 | 137 | [Brown Noise Stream](https://open.spotify.com/track/1inr8IQFXA1am26upyEnSB) | [Hum Humming](https://open.spotify.com/artist/4Pv75nATrtWwA5uYCDvxYF) | [Brown Noise Stream](https://open.spotify.com/album/1MVMJYj22Jd7qwQC1blZ2q) | 3:36 |
 | 138 | [Brown Noise HF Dip](https://open.spotify.com/track/5n2umYeI1nxrPHS8Vc9qOL) | [Brown Noise Warriors](https://open.spotify.com/artist/4YVV9UBom3Ls7WvEW2Z6nQ) | [Brown Noise](https://open.spotify.com/album/2GSOdkjgGTiWhaCMoeA9No) | 2:49 |
@@ -194,7 +194,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 | 184 | [350 hz Brown Noise](https://open.spotify.com/track/63gKkvOi8RbSOL7ACaeGli) | [Exodar](https://open.spotify.com/artist/2UcCR6cHxb3YL473Q7KKZJ) | [Static Noises For Studying](https://open.spotify.com/album/72hSwLR9D9pb4x38mguWhM) | 3:12 |
 | 185 | [Sleepy Brown Noise](https://open.spotify.com/track/13kiUuRsnWf8qyGRPEBGy1) | [High Above The Clouds](https://open.spotify.com/artist/0TGwwqBPOAEsrEQKOT2FVY) | [Noise Dreaming](https://open.spotify.com/album/458IKMJHWsTS7DQLnWNawH) | 3:10 |
 | 186 | [Cascade Of Brown Noise](https://open.spotify.com/track/2VaHMPawW2htn56CQtkmmb) | [Sounds of Nature Noise](https://open.spotify.com/artist/1ZJbPwe4zKnUDRT7yi9dBC) | [Cascade Of Brown Noise](https://open.spotify.com/album/04s9DHxlosVcW00n187ziW) | 3:49 |
-| 187 | [Pure Brown Noise](https://open.spotify.com/track/0UgcG4LALGX6cTFp6TtSXl) | [Noise Nirvana](https://open.spotify.com/artist/6jLfCVXiXP2SoEA8BOIrxM) | [Brown Noise](https://open.spotify.com/album/4UxFcwdtIeqsCQe1tIpqHs) | 3:22 |
+| 187 | [Pure Brown Noise](https://open.spotify.com/track/0UgcG4LALGX6cTFp6TtSXl) | [Noise Nirvana](https://open.spotify.com/artist/6jLfCVXiXP2SoEA8BOIrxM) | [Brown Noise](https://open.spotify.com/album/4UxFcwdtIeqsCQe1tIpqHs) | 0:29 |
 | 188 | [Baby Sleep BN Twelve](https://open.spotify.com/track/3HT1QZ6HehaTqMhjI9q7NC) | [Dream Shard](https://open.spotify.com/artist/3EUg5IOxGnBPtjK0uzMxcJ) | [Baby Sleep Brown Noise](https://open.spotify.com/album/72oELCMIURf5TwCP1tC7RE) | 2:19 |
 | 189 | [Brown Noise Waterfall](https://open.spotify.com/track/4D8NrgPfpaVDgYL5RGIJ66) | [The Water Sleepers](https://open.spotify.com/artist/4bD8jRVnnQGuOMVyraMdh4) | [Calm Noise](https://open.spotify.com/album/6ZHA1t28vnQkY5Oj23WsVV) | 2:50 |
 | 190 | [Brown Noise Sleeping](https://open.spotify.com/track/01jx1xpzddp0v1kcIBbSvM) | [Freq Molecule](https://open.spotify.com/artist/0p03OqcToOGwKxzUkJQJkO) | [Sleepless Brown Noise](https://open.spotify.com/album/0d2FHRGUx0VN2ce9fcAXnX) | 3:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 
 > Selections of North Indian classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,604 likes - 54 songs - 16 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,631 likes - 54 songs - 15 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,10 +57,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 | 47 | [Raga Bhimpalasi \- Live](https://open.spotify.com/track/2NAJP1wqoaxbSJLiv2X8tL) | [Ravi Shankar](https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0) | [The Ravi Shankar Collection: Live: Ravi Shankar At The Monterey International Pop Festival](https://open.spotify.com/album/3sXkygk2kpWlNAA2neCvW0) | 27:17 |
 | 48 | [Raga Sampurna Malkaus](https://open.spotify.com/track/7mvf24bJZ4cw4dM4uxAWgd) | [Kishori Amonkar](https://open.spotify.com/artist/0tLjWOxzh42O8gr0nFzv45) | [Maestro's Choice: Kishori Amonkar](https://open.spotify.com/album/6cKWaE4V3zAnDOzE4wwemT) | 28:30 |
 | 49 | [Sur Sukh Khani, Natyageet](https://open.spotify.com/track/1GSYhLtmtU1hKqfk0GYf1U) | [Bhimsen Joshi](https://open.spotify.com/artist/5MHTQcUQIhxhZdB6Glwmmk), [Purushottam Walawalkar](https://open.spotify.com/artist/7C5NA726B5bcUP5N4NHtZQ) | [Natyasangeet](https://open.spotify.com/album/6XI48xvEXJZ4djjqhmKWnj) | 13:33 |
-| 50 | [Rag Ramkali](https://open.spotify.com/track/6ReCvtUGG9S1mVohS9kVXk) | [Budhaditya Mukherjee](https://open.spotify.com/artist/5M9yKSeW6TbTmuNZ1bz80y), [Anindo Chatterjee](https://open.spotify.com/artist/3DOkGwQFyRso8rJoz8d6ZL), [Nandu Kamat](https://open.spotify.com/artist/0gfpwV8BF3XiMtbWgH1AKO) | [Rag Ramkali & Rag Jhinjoti](https://open.spotify.com/album/13jFkhhVmkQuvGYoXdxW1i) | 30:23 |
+| 50 | [Rag Ramkali](https://open.spotify.com/track/6ReCvtUGG9S1mVohS9kVXk) | [Budhaditya Mukherjee](https://open.spotify.com/artist/5M9yKSeW6TbTmuNZ1bz80y), [Anindo Chatterjee](https://open.spotify.com/artist/3DOkGwQFyRso8rJoz8d6ZL), [Nandu Kamat](https://open.spotify.com/artist/0gfpwV8BF3XiMtbWgH1AKO) | [Rag Ramkali & Rag Jhinjoti](https://open.spotify.com/album/13jFkhhVmkQuvGYoXdxW1i) | 0:29 |
 | 51 | [Raga Jog](https://open.spotify.com/track/3NPx1Llm6Ys8lK77BzcLeI) | [Bhimsen Joshi](https://open.spotify.com/artist/5MHTQcUQIhxhZdB6Glwmmk) | [Lifestory of a Legend](https://open.spotify.com/album/4Fk777rcuGlOspuSEdGkSh) | 32:17 |
 | 52 | [Rag Gurjari Todi](https://open.spotify.com/track/0KWUBMhTeC5SObkrJPACZS) | [Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Saptrang](https://open.spotify.com/album/4kk6vnU9ULoi5LxdwUohQJ) | 31:36 |
 | 53 | [Jhama Jham \- Thumri](https://open.spotify.com/track/2pxyb3CvMfCyvYZcnojMZW) | [Girija Devi, Kishan Maharaj, Ramesh Mishra](https://open.spotify.com/artist/2x2lBeqwikK3oXYxtyDlmF) | [The Best Of Girija Deva](https://open.spotify.com/album/1oe93SNJ9tdqrTpkrkz5dH) | 9:02 |
 | 54 | [Raga Basant Bahar \- Raga Basant Bahar \- Ektaal \- Teentaal](https://open.spotify.com/track/5EmNsq9at10HMawWfhM2K6) | [Kishori Amonkar](https://open.spotify.com/artist/0tLjWOxzh42O8gr0nFzv45) | [Sangeet Sartaj, Vol\. 1 & 2](https://open.spotify.com/album/0KyNZodk1oplO3iJhy5GHk) | 29:27 |
 
-Snapshot ID: `MTY1NjA0OTE2NiwwMDAwMDAzMzAwMDAwMTgxOTQzOGVhNzUwMDAwMDE3MGFmMzZmZGI4`
+Snapshot ID: `MTY1NjU3MjcwNSwwMDAwMDAzNDAwMDAwMTgxYjM2ZDdiMzUwMDAwMDE3MGFmMzZmZGI4`

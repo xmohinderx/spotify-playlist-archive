@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > welcome to mixtape \#005, turn up with Polimá Westcoast 🔥 Find a new mixtape every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,740,840 likes - 24 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,741,087 likes - 24 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

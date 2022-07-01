@@ -4,13 +4,13 @@
 
 > The hottest Anime hits of the 10s\. 2010年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-66 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/6Mrcb5TgcGmbpW1GW9qeTX)
+66 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/6Mrcb5TgcGmbpW1GW9qeTX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [adrenaline!!!](https://open.spotify.com/track/1InmP0qrPm6NgRdRmeMbwI) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [TAILWIND](https://open.spotify.com/album/0JwVYCw3rL7IMIKtV7nc0e) | 4:34 | 2021-12-21 |  |
 | [Black Rover](https://open.spotify.com/track/0OGw7V8wAI6OsZIQ12JkTP) | [Vickeblanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [wizard](https://open.spotify.com/album/5WiacWoGjt3yMoK8vtQ0tz) | 3:29 | 2021-12-21 |  |
-| [Brave Shine](https://open.spotify.com/track/5FD8hfeNHqXqRxaGSxMr4p) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [DAWN](https://open.spotify.com/album/2fRyWvN5Rq4FRmae80RzF7) | 3:53 | 2021-12-21 |  |
+| [Brave Shine](https://open.spotify.com/track/5FD8hfeNHqXqRxaGSxMr4p) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [DAWN](https://open.spotify.com/album/2fRyWvN5Rq4FRmae80RzF7) | 0:29 | 2021-12-21 |  |
 | [Can Do](https://open.spotify.com/track/0mJfQhcSwE5caboPNv9JL1) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [CRACK STAR FLASH](https://open.spotify.com/album/671v5gbdhkD96e7YGxQDmB) | 4:23 | 2021-12-21 |  |
 | [CORE PRIDE](https://open.spotify.com/track/4INELIsugoIEu92tCmHJi8) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [CORE PRIDE](https://open.spotify.com/album/6nwXhZAaKV9JnSfP9bO9Vw) | 4:17 | 2021-12-21 |  |
 | [crossing field](https://open.spotify.com/track/5RsRhryZD9FdTmxsAaZ2mM) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDSPACE](https://open.spotify.com/album/5aKVOZqJWL30JXGpimjifo) | 4:08 | 2021-12-21 |  |
@@ -32,8 +32,8 @@
 | [Synchrogazer](https://open.spotify.com/track/69QNXJNXFddfmzcz0mDB6m) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅲ](https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2) | 4:27 | 2021-12-21 |  |
 | [UNION](https://open.spotify.com/track/2Op7ZaXB0Kt5zDhetTL0ZQ) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [SSSS.GRIDMANオープニング主題歌「UNION」](https://open.spotify.com/album/3dHQ6Kdva0TkCfydkLKpoh) | 3:46 | 2021-12-21 |  |
 | [unravel](https://open.spotify.com/track/5orAKrVdrk1kPtTa7zNvYL) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/7GJspOwIWdFfzJfxN8oVTF) | 3:58 | 2021-12-21 |  |
-| [いけないボーダーライン](https://open.spotify.com/track/0OYGXK8T2oyWBSsehn44g9) | [ワルキューレ](https://open.spotify.com/artist/5JDlDUXsBqvwhSEZf3suXh) | [一度だけの恋なら / ルンがピカッと光ったら](https://open.spotify.com/album/00Omq87MkN7OhS7CZd2sO3) | 4:42 | 2021-12-21 |  |
-| [ここだけの話](https://open.spotify.com/track/3baB33li9jI9yIg1vhNO2A) | [Chatmonchy](https://open.spotify.com/artist/0GtBUVp1cWdIUKwm2GHTHc) | [チャットモンチー BEST\~2005\-2011\~](https://open.spotify.com/album/1l2NYBINebX1Uj3DjB87hV) | 3:20 | 2021-12-21 |  |
+| [いけないボーダーライン](https://open.spotify.com/track/0OYGXK8T2oyWBSsehn44g9) | [ワルキューレ](https://open.spotify.com/artist/5JDlDUXsBqvwhSEZf3suXh) | [一度だけの恋なら / ルンがピカッと光ったら](https://open.spotify.com/album/00Omq87MkN7OhS7CZd2sO3) | 0:29 | 2021-12-21 |  |
+| [ここだけの話](https://open.spotify.com/track/3baB33li9jI9yIg1vhNO2A) | [Chatmonchy](https://open.spotify.com/artist/0GtBUVp1cWdIUKwm2GHTHc) | [チャットモンチー BEST\~2005\-2011\~](https://open.spotify.com/album/1l2NYBINebX1Uj3DjB87hV) | 0:29 | 2021-12-21 |  |
 | [ひまわりの約束](https://open.spotify.com/track/21pskqT1foelQsFWyW4PQG) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [ひまわりの約束](https://open.spotify.com/album/5u7yszzjjSJyhcOQ7BBRDb) | 5:14 | 2021-12-21 |  |
 | [ぼくのフレンド](https://open.spotify.com/track/5AH0F230K1ab9TPYUA3wR5) | [Miyuhan](https://open.spotify.com/artist/13tttiaoECFPQKEigVnYU6) | [自己スキーマ](https://open.spotify.com/album/7qCWMC5KQ3SDii2P3u2Z7M) | 4:11 | 2021-12-21 |  |
 | [ゆりゆららららゆるゆり大事件](https://open.spotify.com/track/61azyPuUixbcl178GUYKll) | [Nanamori\-Chu☆Goraku\-Bu](https://open.spotify.com/artist/7lHxn2a12AG79OCsoFIWuj) | [ゆりゆららららゆるゆり大事件](https://open.spotify.com/album/06T5UPTsg92kgaEcxopIYF) | 3:50 | 2021-12-21 |  |
@@ -54,7 +54,7 @@
 | [ヴィーナスとジーザス \(RADIO ONSEN EUTOPIA\)](https://open.spotify.com/track/5DvpbuHnDKCOL7MInN7cln) | [YAKUSHIMARU Etsuko](https://open.spotify.com/artist/6h32A03szyWpPmQCZSJ4Mi) | [RADIO ONSEN EUTOPIA](https://open.spotify.com/album/3txAqR7xThb5LKKu8kGQrw) | 3:12 | 2021-12-21 |  |
 | [世界はあなたの色になる](https://open.spotify.com/track/7ynpWZgax9H43b9dWPU9wt) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [声明 / Still Alive](https://open.spotify.com/album/7edMjpLvwAPeYL2SxwyfkS) | 5:00 | 2021-12-21 |  |
 | [今、話したい誰かがいる](https://open.spotify.com/track/0OrhBuni0lfd7Qcm8kaaYA) | [Nogizaka46](https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq) | [Memories 〜あの花&ここさけ SONG COLLECTION〜](https://open.spotify.com/album/7c5eKgCk92J2dWE1ER5vP0) | 4:26 | 2021-12-21 |  |
-| [僕らは今のなかで](https://open.spotify.com/track/3CWqynPQ19CcRK1Tk67pUN) | [μ's](https://open.spotify.com/artist/2hYjPkmTry3LYVVSymws5i) | [μ's Best Album Best Live! Collection Ⅱ](https://open.spotify.com/album/3F84bX5oG31d2aFd8CE5CQ) | 4:36 | 2021-12-21 |  |
+| [僕らは今のなかで](https://open.spotify.com/track/3CWqynPQ19CcRK1Tk67pUN) | [μ's](https://open.spotify.com/artist/2hYjPkmTry3LYVVSymws5i) | [μ's Best Album Best Live! Collection Ⅱ](https://open.spotify.com/album/3F84bX5oG31d2aFd8CE5CQ) | 0:29 | 2021-12-21 |  |
 | [優しさの理由](https://open.spotify.com/track/0HXk4XpvZCCltHWeXZe1zb) | [ChouCho](https://open.spotify.com/artist/5t7eQ2d1UmzfIr9oWQ538Y) | [優しさの理由](https://open.spotify.com/album/1aeT8dhSsfW3EFk1c44BWO) | 4:15 | 2021-12-21 |  |
 | [前前前世 \- movie ver.](https://open.spotify.com/track/23eTkfMmq1LvqiDzeNHdVe) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [君の名は。](https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl) | 4:44 | 2021-12-21 |  |
 | [名前のない怪物](https://open.spotify.com/track/0Hyr4k3HDumDcHwhMa9VkD) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物](https://open.spotify.com/album/6rOMCLQBSquuaV6AqQXouX) | 5:17 | 2021-12-21 |  |

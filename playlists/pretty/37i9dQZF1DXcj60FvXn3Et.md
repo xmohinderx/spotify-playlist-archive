@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcj60FvXn3Et.md) - [plain]
 
 > Extraordinary soundtracks composed by extraordinary women\. Photo: <a href="spotify:artist:2lD1D6eEh7xQdBtnl2Ik7Y">Hildur Guðnadóttir</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,563 likes - 51 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,594 likes - 51 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcj60FvXn3Et.md) - [plain]
 | 9 | [Captain Marvel](https://open.spotify.com/track/4CQ8uwWfH9hDCbwj4PUs58) | [Pinar Toprak](https://open.spotify.com/artist/7z1L55q63jRGHqqS3xcGgl) | [Captain Marvel \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JkLtKFArRIE47ungawDy0) | 2:15 |
 | 10 | [The Sound](https://open.spotify.com/track/4m6bEYRJBo9GCcOCkBKnAU) | [Aska Matsumiya](https://open.spotify.com/artist/4Xe7FFX2aXXi3Q5lnfzhUU) | [Betty \(HBO Original Series Soundtrack\)](https://open.spotify.com/album/3EyUG8yv7LIKyHIr1yQ7yT) | 3:15 |
 | 11 | [Legion of Dawn](https://open.spotify.com/track/4fFXTt4Lb1SVVQucRgA2Pg) | [Sarah Schachner](https://open.spotify.com/artist/692KvxElsJHIJQCS6Eoc32) | [Anthem \(Original Soundtrack\)](https://open.spotify.com/album/6Dh6CBAsa6sDFKAeFfbGlU) | 3:46 |
-| 12 | [Overture](https://open.spotify.com/track/3wQyz5bN3V0E3XxrXwdk5h) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Selmasongs \(EU Version \- Music From The Motion Picture Soundtrack "Dancer In The Dark"\)](https://open.spotify.com/album/6zQc33yHSncdkBTYqQYAhp) | 3:37 |
+| 12 | [Overture](https://open.spotify.com/track/3wQyz5bN3V0E3XxrXwdk5h) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Selmasongs \(EU Version \- Music From The Motion Picture Soundtrack "Dancer In The Dark"\)](https://open.spotify.com/album/6zQc33yHSncdkBTYqQYAhp) | 0:29 |
 | 13 | [Vichnaya Pamyat](https://open.spotify.com/track/5NU8pIT0Yp8wgaUiHZM90w) | [Homin Lviv Municipal Choir](https://open.spotify.com/artist/3j5CMjewv1pESNO1Xh169T) | [Chernobyl \(Music from the Original TV Series\)](https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ) | 4:07 |
 | 14 | [Theme from Poldark](https://open.spotify.com/track/0fjr06OBtw22QBdj02dszL) | [Anne Dudley](https://open.spotify.com/artist/41dLItQx3PSyP6n1AMd87b), [Chris Garrick](https://open.spotify.com/artist/6NtF5n7c4F2qpDWl5Of2mH), [The Chamber Orchestra Of London](https://open.spotify.com/artist/2IS9rTtWwEfUEY4u3mecIT), [London Chamber Orchestra](https://open.spotify.com/artist/1ucDa7qmi9SfqfSqES9iXZ) | [Poldark: Music from the TV Series \(Deluxe Version\)](https://open.spotify.com/album/4swL8BznFgV5IhDRFyB7bO) | 0:45 |
 | 15 | [Emma \- From "Emma"](https://open.spotify.com/track/2W602jFzodgV2MWp52nrKe) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Varese Sarabande: A 25th Anniversary Celebration \(25 Years Of Great Film Music\)](https://open.spotify.com/album/0D10oCY4gRp4ASj1kJZsyp) | 2:58 |

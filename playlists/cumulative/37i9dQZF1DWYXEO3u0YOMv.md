@@ -4,7 +4,7 @@
 
 > 設立10周年を迎えた<a href="http://www.mappa.co.jp/">MAPPA</a>。2022年6月までに公開された作品の音楽をひとつのプレイリストに。Listen to the songs from 30+ anime shows MAPPA has produced in the last decade of its history!
 
-100 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/07kV54ieqgmMg9uw7cCsZ1)
+100 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/07kV54ieqgmMg9uw7cCsZ1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [サクリファイス](https://open.spotify.com/track/45oVY6oQcKsMmRhacvLhsG) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [サクリファイス](https://open.spotify.com/album/1h1aMRQtp8vDVOMKxwXFPc) | 4:15 | 2022-05-10 |  |
 | [スタンドバイミー](https://open.spotify.com/track/053ydqZPlzfOkFsRmY8SNL) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [スタンドバイミー](https://open.spotify.com/album/6vU96iKokwWo07rK08BoNm) | 4:37 | 2022-05-10 |  |
 | [ソフィア](https://open.spotify.com/track/6K5ylsLGN10jFejzBAXO4M) | [奥井雅美](https://open.spotify.com/artist/4Ii7UojF0YlO2h2dIhdWfU) | [ソフィア](https://open.spotify.com/album/1nVzjlOmf3MAFtwpcfK9uV) | 5:31 | 2022-05-10 |  |
-| [タクト](https://open.spotify.com/track/7vFsMU7BORCrf7tZ4oTxlV) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX), [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ), [gaku](https://open.spotify.com/artist/7jjFT71wanEzrqWDlljqts) | [タクト](https://open.spotify.com/album/00njLWkhVD4MUlLkzoj4HX) | 3:57 | 2022-05-10 |  |
+| [タクト](https://open.spotify.com/track/7vFsMU7BORCrf7tZ4oTxlV) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX), [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ), [gaku](https://open.spotify.com/artist/7jjFT71wanEzrqWDlljqts) | [タクト](https://open.spotify.com/album/00njLWkhVD4MUlLkzoj4HX) | 0:29 | 2022-05-10 |  |
 | [ナナツイロ REALiZE](https://open.spotify.com/track/54IcYBsKHecx4MgZyqF8TB) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [ナナツイロ REALiZE](https://open.spotify.com/album/6Gae1e4UtFVseYUcDkGNeH) | 4:48 | 2022-05-10 |  |
 | [フレンズ](https://open.spotify.com/track/47Yy8afcdn8fD9E8vgTlRd) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [フレンズ](https://open.spotify.com/album/0me5yPA5JgPCMqXrJ4bCHv) | 3:57 | 2022-05-10 |  |
 | [ブチコメ!!](https://open.spotify.com/track/6tzOqDbBuX6U7Hq6yfcZPL) | [SHIKURAMEN](https://open.spotify.com/artist/0TCMXwyEt39idbHRlwGvs8) | [シクラメンの夏](https://open.spotify.com/album/0DnVad4YbEUndhNGChkiSx) | 3:45 | 2022-05-10 |  |
@@ -70,13 +70,13 @@
 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 | 2022-05-10 |  |
 | [僕の戦争](https://open.spotify.com/track/1UDw29EsOh3Rx1e5fYsbaG) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [僕の戦争](https://open.spotify.com/album/5wi31xge1BG1X8ME1eyhdi) | 4:40 | 2022-05-10 |  |
 | [光へ](https://open.spotify.com/track/6q0iBMVQpMzRJi2771HiCD) | [フランシュシュ](https://open.spotify.com/artist/3e5UhgPOmfiH3K0gTSdRUJ) | [ゾンビランドサガ フランシュシュ The Best](https://open.spotify.com/album/3KAi2KkekpOFd2gwhT3PNM) | 3:34 | 2022-05-10 |  |
-| [刃〜the divine blade〜](https://open.spotify.com/track/4hjpYJkaWUYysLLAUFQR2A) | [JAM Project](https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU) | [牙狼<GARO>黄金歌集Ⅳ 牙狼奏](https://open.spotify.com/album/6h2Mgvwan6mpYW46iCrMwt) | 4:09 | 2022-05-10 |  |
+| [刃〜the divine blade〜](https://open.spotify.com/track/4hjpYJkaWUYysLLAUFQR2A) | [JAM Project](https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU) | [牙狼<GARO>黄金歌集Ⅳ 牙狼奏](https://open.spotify.com/album/6h2Mgvwan6mpYW46iCrMwt) | 0:29 | 2022-05-10 |  |
 | [坂道のメロディ](https://open.spotify.com/track/65XW0J9tP56gJrPLdXgJpv) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [すてきな15才](https://open.spotify.com/album/2600J4K01OUJMqyn4S87ca) | 4:44 | 2022-05-10 |  |
-| [壊れた世界の秒針は](https://open.spotify.com/track/0bBlvphbyFYBKud0NCH9lb) | [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [壊れた世界の秒針は](https://open.spotify.com/album/4WnCCS7rkSApkMx7667vvr) | 5:15 | 2022-05-10 |  |
-| [夜間飛行](https://open.spotify.com/track/71oFb6IB8LHbDT67HqtNeF) | [Wasureranneyo](https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP) | [空を見上げても空しかねえよ](https://open.spotify.com/album/0I9r2lT2kjNd3Z3H48g6qX) | 4:42 | 2022-05-10 |  |
+| [壊れた世界の秒針は](https://open.spotify.com/track/0bBlvphbyFYBKud0NCH9lb) | [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [壊れた世界の秒針は](https://open.spotify.com/album/4WnCCS7rkSApkMx7667vvr) | 0:29 | 2022-05-10 |  |
+| [夜間飛行](https://open.spotify.com/track/71oFb6IB8LHbDT67HqtNeF) | [Wasureranneyo](https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP) | [空を見上げても空しかねえよ](https://open.spotify.com/album/0I9r2lT2kjNd3Z3H48g6qX) | 0:29 | 2022-05-10 |  |
 | [夢?](https://open.spotify.com/track/1DAJpvV2JWXgx1RMR2qyBq) | [はてな](https://open.spotify.com/artist/3HueoTIeJ7XZYpiu8eadUM) | [夢?](https://open.spotify.com/album/7t5SZYoNDIYO6B6Hn03CbX) | 4:14 | 2022-05-10 |  |
 | [夢を手に、戻れる場所もない日々を](https://open.spotify.com/track/5ETlRU6U6BloJC8MKHymMI) | [フランシュシュ](https://open.spotify.com/artist/3e5UhgPOmfiH3K0gTSdRUJ) | [夢を手に、戻れる場所もない日々を/風の強い日は嫌いか?](https://open.spotify.com/album/1RXA7cmrytXDKr77WMAYl8) | 4:16 | 2022-05-10 |  |
-| [大河よ共に泣いてくれ](https://open.spotify.com/track/4DutefDeVcpLpBKvKwENgO) | [フランシュシュ](https://open.spotify.com/artist/3e5UhgPOmfiH3K0gTSdRUJ) | [大河よ共に泣いてくれ/Nope!!!!!](https://open.spotify.com/album/2X8cBRtpqSEjjPrL4QH2Ez) | 3:28 | 2022-05-10 |  |
+| [大河よ共に泣いてくれ](https://open.spotify.com/track/4DutefDeVcpLpBKvKwENgO) | [フランシュシュ](https://open.spotify.com/artist/3e5UhgPOmfiH3K0gTSdRUJ) | [大河よ共に泣いてくれ/Nope!!!!!](https://open.spotify.com/album/2X8cBRtpqSEjjPrL4QH2Ez) | 0:29 | 2022-05-10 |  |
 | [廻廻奇譚](https://open.spotify.com/track/2gSkvrwfCXCgqeugzezn97) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [廻廻奇譚](https://open.spotify.com/album/6f35hoWi8xaqBaJUKMszct) | 3:39 | 2022-05-10 |  |
 | [徒花ネクロマンシー](https://open.spotify.com/track/4DEfLS1vTTjY7wlqNKajJ8) | [フランシュシュ](https://open.spotify.com/artist/3e5UhgPOmfiH3K0gTSdRUJ) | [徒花ネクロマンシー](https://open.spotify.com/album/0cnoH7e5VEhjR1PKSUGm3e) | 4:05 | 2022-05-10 |  |
 | [悪魔の子](https://open.spotify.com/track/2TVFbLCdzrX0RdhWNWJmdp) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [悪魔の子](https://open.spotify.com/album/2WGPb8eZJ2Jl4X52hBG6xg) | 3:47 | 2022-05-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2UwTnYkh7zZjMY6NEQdP95.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 429 likes - 40 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 429 likes - 40 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/2UwTnYkh7zZjMY6NEQdP95.md) - [plain]
 | 12 | [Summertime Sadness \[Lana Del Rey vs\. Cedric Gervais\] \- Cedric Gervais Extended Remix](https://open.spotify.com/track/1k7edO6FmoSJRDEKOkyFW7) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [Carlos Cid](https://open.spotify.com/artist/0ofxTUijAHvkf6wKyPEBFa) | [Summertime Sadness \[Lana Del Rey vs\. Cedric Gervais\] \(Cedric Gervais Remix\)](https://open.spotify.com/album/0dAKss1iwP7vV3DSf6CEof) | 6:52 |
 | 13 | [Summer Breeze](https://open.spotify.com/track/5vleqIhq57W9kUinB2XWuY) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Summer Breeze \- The Best Of](https://open.spotify.com/album/6Un0lZsdNGDhV9Q4vbqvDe) | 6:11 |
 | 14 | [One Of Those Summer Days](https://open.spotify.com/track/5jbp640O8Q2XQvhV8aCr2F) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/3kSUJ193A42dfs82PmOUP0) | 4:32 |
-| 15 | [The Boys Of Summer](https://open.spotify.com/track/7KY40pRBPKQSaSe0j5nKUK) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The Very Best Of](https://open.spotify.com/album/2yPVB4tLlnfBl8SgcX8qDv) | 4:48 |
+| 15 | [The Boys Of Summer](https://open.spotify.com/track/7KY40pRBPKQSaSe0j5nKUK) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The Very Best Of](https://open.spotify.com/album/2yPVB4tLlnfBl8SgcX8qDv) | 0:29 |
 | 16 | [Summer Love](https://open.spotify.com/track/2LjmbI7LJt0RDg612cBi7U) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Take Me Home: Yearbook Edition](https://open.spotify.com/album/5SxEsi1PNyo1XfEKDYcFKF) | 3:28 |
 | 17 | [California Gurls](https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:54 |
 | 18 | [Holiday](https://open.spotify.com/track/69lthMmNtlYX3woh9LK3yx) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv), [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk) | [Tongue N' Cheek \(Dirtee Deluxe Edition\)](https://open.spotify.com/album/3D8oReEDS5wROmx2DbxX0z) | 3:40 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/2UwTnYkh7zZjMY6NEQdP95.md) - [plain]
 | 28 | [Saturday in the Park](https://open.spotify.com/track/4kUYITaDeGkmKzWQRd5h7R) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [The Collection](https://open.spotify.com/album/3LKijZ37n62pTNd650EuFp) | 3:52 |
 | 29 | [Summer](https://open.spotify.com/track/5qifWYBY62MNvk42U8UkDC) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Best Of](https://open.spotify.com/album/0Ly7HZvko6HkBrdG0a7eQs) | 6:39 |
 | 30 | [Hot Stuff](https://open.spotify.com/track/6RVevoPzbGygqvm6LxHAuf) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [The Dance Collection](https://open.spotify.com/album/2ldxRwrqpPb7M8tZsGoqMS) | 6:40 |
-| 31 | [Boogie Nights \- Single Version](https://open.spotify.com/track/3IBYB8YMt8DxevRVTB7xPi) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [70s 100 Hits](https://open.spotify.com/album/1k7WkNHGPNPnri2tsowvtg) | 3:35 |
+| 31 | [Boogie Nights \- Single Version](https://open.spotify.com/track/3IBYB8YMt8DxevRVTB7xPi) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [70s 100 Hits](https://open.spotify.com/album/1k7WkNHGPNPnri2tsowvtg) | 0:29 |
 | 32 | [Miss You](https://open.spotify.com/track/771L440a1283WimX8EzkpG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [GRRR! \(Deluxe Version\)](https://open.spotify.com/album/3LcLR5Mpdj6C5jiaReLvDt) | 3:34 |
 | 33 | [Summer Of '69](https://open.spotify.com/track/5ROeX4Hi9XoBT5hmBR1xra) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless](https://open.spotify.com/album/0dLBZmYzmQRZOz4cJG05DA) | 3:36 |
 | 34 | [Hot Fun in the Summertime](https://open.spotify.com/track/4t6NQkpUmvpvLDCkl3XuwA) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Greatest Hits](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) | 2:37 |

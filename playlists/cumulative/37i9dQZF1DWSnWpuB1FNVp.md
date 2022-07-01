@@ -4,7 +4,7 @@
 
 > Barack and Michelle Obama's favorite songs from summer 2019!
 
-44 songs - 2 hr 50 min - [published](https://open.spotify.com/playlist/2eoQ1O6IruCvyuk6r16gQw)
+44 songs - 2 hr 47 min - [published](https://open.spotify.com/playlist/2eoQ1O6IruCvyuk6r16gQw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Hold On \(Change Is Comin'\)](https://open.spotify.com/track/3hl063NQxiuWyymhgaLf92) | [Sounds Of Blackness](https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9) | [Time For Healing](https://open.spotify.com/album/4hXec8HEn4R03xC3n2JDlf) | 4:20 | 2019-08-24 |  |
 | [How High The Moon \- 1st Take](https://open.spotify.com/track/2cvztQuBIxwV38kg1Ydaww) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Lullabies Of Birdland](https://open.spotify.com/album/44zUpA9KsYPplGV7HZmE8K) | 3:15 | 2019-08-24 |  |
 | [I Love You More Than You'll Ever Know](https://open.spotify.com/track/2qdyq2N1XfaA8QhtiOWWFG) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 5:22 | 2019-08-24 |  |
-| [I'll Be Around](https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [Spinners](https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg) | 3:08 | 2019-08-24 |  |
+| [I'll Be Around](https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [Spinners](https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg) | 0:29 | 2019-08-24 |  |
 | [I've Got You Under My Skin \- Remastered 1998](https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Swingin' Lovers! \(Remastered\)](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) | 3:43 | 2019-08-24 |  |
 | [II B.S\. \- Edit](https://open.spotify.com/track/1wVqyP5MC3wJmOvEk9e6Ts) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Mingus Mingus Mingus Mingus](https://open.spotify.com/album/12DCd8u80PoRIvBgjQrtuH) | 4:48 | 2019-08-24 |  |
 | [Iron Man](https://open.spotify.com/track/5bGMedm8ohIGxe8pLRv7E3) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rema](https://open.spotify.com/album/2S0vU69yNYqOkHA62JSjT8) | 3:21 | 2019-08-24 |  |

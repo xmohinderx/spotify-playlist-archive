@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "Anticipation",
+        "url": "https://open.spotify.com/album/4pbZrweaQO1XxygeLeqFq7"
+      },
+      "artists": [
+        {
+          "name": "Contra La Muerte De La Luz",
+          "url": "https://open.spotify.com/artist/7C19Hdd6VZQcs5tqzJl7QE"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131250,
+      "name": "Anticipation",
+      "url": "https://open.spotify.com/track/7oXuNksbKMdkaBDDlTjOqT"
+    },
+    {
+      "album": {
         "name": "Departure",
         "url": "https://open.spotify.com/album/45vmEN7UhIUPAYAXoPJzlW"
       },
@@ -1105,6 +1123,24 @@
       "duration_ms": 132600,
       "name": "Scotland",
       "url": "https://open.spotify.com/track/7MiNGcNnLD9YSnkxnj5lue"
+    },
+    {
+      "album": {
+        "name": "Ser A Ti",
+        "url": "https://open.spotify.com/album/0nC9dugAMHACUJQ6GSTZFB"
+      },
+      "artists": [
+        {
+          "name": "Hondos Rostros",
+          "url": "https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214687,
+      "name": "Ser A Ti",
+      "url": "https://open.spotify.com/track/6rDxnznYVvGb0vFkgsBmmE"
     },
     {
       "album": {

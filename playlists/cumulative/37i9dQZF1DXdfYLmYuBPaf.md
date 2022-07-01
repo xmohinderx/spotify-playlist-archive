@@ -4,7 +4,7 @@
 
 > Reggae tracks from the Arab world\. Cover: <a href="spotify:artist:6Gej8kFQeKbjY7dS9HXu1w">Ahmed Ben Ali</a>
 
-60 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/0GoQG8PRV51P9Lf8L1GQ1U)
+60 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/0GoQG8PRV51P9Lf8L1GQ1U)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Houkouma](https://open.spotify.com/track/0zRgwbETCZ9aUIRpgMoMzU) | [Lotfi Double Kanon](https://open.spotify.com/artist/6KqFUv5Sy8G5GJBfMJ1BQ4) | [Remix 2010](https://open.spotify.com/album/7lzevZHy14PcIlV94hqy8U) | 5:02 | 2021-08-11 |  |
 | [Io Sono Tunisino \(feat\. Jamloun\)](https://open.spotify.com/track/6u2bdvyZOKbkO01mvcDwks) | [Neshez](https://open.spotify.com/artist/0QvqvkYDw8YXk6A6HBODpq), [Jamloun](https://open.spotify.com/artist/1frFDCoeQDBLGVbVYfP10g) | [Neshez \- Musique Originale Du Film "Vhs\-Kahloucha"](https://open.spotify.com/album/62PBLl9jsv9ILgclz1c2SW) | 3:14 | 2021-08-11 |  |
 | [Jeena](https://open.spotify.com/track/16RzfZHB5vfKfcXjY0brkN) | [TootArd](https://open.spotify.com/artist/7nSWA1659h0Vb1EyjJdSFV) | [Nuri Andaburi](https://open.spotify.com/album/2z9NRfIRM54Rp7b7IUOFDr) | 4:24 | 2021-08-11 |  |
-| [Jokko \(feat\. Fafadi & Amajang\)](https://open.spotify.com/track/1pX1TKYOE0SnEmCJrFq9Ve) | [Ahmed Soultan](https://open.spotify.com/artist/5kLIWnrvYVb3vpWRg825xC) | [Jokko \(feat\. Fafadi & Amajang\)](https://open.spotify.com/album/09sLgcifU89Wm2ZqJUWuwU) | 3:20 | 2021-08-11 |  |
+| [Jokko \(feat\. Fafadi & Amajang\)](https://open.spotify.com/track/1pX1TKYOE0SnEmCJrFq9Ve) | [Ahmed Soultan](https://open.spotify.com/artist/5kLIWnrvYVb3vpWRg825xC) | [Jokko \(feat\. Fafadi & Amajang\)](https://open.spotify.com/album/09sLgcifU89Wm2ZqJUWuwU) | 0:29 | 2021-08-11 |  |
 | [La connexió Algeriana](https://open.spotify.com/track/3kVhxwsxfQZ4Y4ebMICYFp) | [Raül Refree](https://open.spotify.com/artist/5TPIp7TiaJOVn2sZ4s4JDy), [Fermin Muguruza](https://open.spotify.com/artist/3fJaSjkcJrLV5JYot02ckk), [Joan Gariga](https://open.spotify.com/artist/49s6tMcv1JKs76x9PiXxoU), [Amel Zen](https://open.spotify.com/artist/4sbx11FEm2X0rXIdrUKm9k), [Madjid Fahem](https://open.spotify.com/artist/4r2IfAxqQFZ3NFOa44wA4w), [Yacine Belahcene](https://open.spotify.com/artist/231j8owyOr4h1PNelSs9MD) | [Black is Beltza \(Soinu\-banda\)](https://open.spotify.com/album/55mpYFZNTBOYBy7fiIW3PE) | 4:38 | 2021-08-11 |  |
 | [Lashog Altareeg](https://open.spotify.com/track/4A6i6Z0GPCCeY7npuXiEIr) | [Atef Malhas](https://open.spotify.com/artist/6gm05jmgIx3YvLtzl1GDas) | [Lashog Altareeg](https://open.spotify.com/album/6fVhr3f0XOtKdmMmjSauL7) | 3:40 | 2021-08-11 |  |
 | [Let Me Cry](https://open.spotify.com/track/2dnGBx0b4Y4Un2NDHtolZE) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [let me rai](https://open.spotify.com/album/2ZjDMSjs84eCv6SVGvxExW) | 3:51 | 2021-08-11 |  |

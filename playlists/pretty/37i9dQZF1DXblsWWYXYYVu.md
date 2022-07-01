@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 
 > Relax and take it slow today
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,242 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,273 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 | 61 | [make believe](https://open.spotify.com/track/6btp8C9tzrkVPFzwIhOByv) | [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw) | [make believe](https://open.spotify.com/album/4v5FIKvi2HgnjJxmsBzJl4) | 2:31 |
 | 62 | [Me, My Old Man and Steely Dan](https://open.spotify.com/track/1P522La5BZVnPSLuPwya2M) | [Andrew Sevener](https://open.spotify.com/artist/0ZvCVJNGgjViL07mB8Xuxx) | [Me, My Old Man and Steely Dan](https://open.spotify.com/album/3lC8XBp5SC40kVFsXLMn5l) | 3:18 |
 | 63 | [Stand Like an Oak](https://open.spotify.com/track/6VXHUPu7zooSbuu8ZyKu9M) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Stand Like an Oak](https://open.spotify.com/album/3hMbzAsZb8Wl78Ob7aGhGO) | 3:01 |
-| 64 | [True Love](https://open.spotify.com/track/7sigUoQGHreBIG14Rn7LGp) | [Harper Grae](https://open.spotify.com/artist/0DLNCN6QeRGiexrWwYUnMr) | [Break Your Crowns](https://open.spotify.com/album/3GFaakqzHGqLPB2er6noUD) | 3:23 |
+| 64 | [True Love](https://open.spotify.com/track/7sigUoQGHreBIG14Rn7LGp) | [Harper Grae](https://open.spotify.com/artist/0DLNCN6QeRGiexrWwYUnMr) | [Break Your Crowns](https://open.spotify.com/album/3GFaakqzHGqLPB2er6noUD) | 0:29 |
 | 65 | [Put You Back Together](https://open.spotify.com/track/1mWEc9hJrK5JFRj6NlAPoX) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/6JpQ684RhKhJJK9ZDIDT88) | 3:37 |
 | 66 | [One Man Band](https://open.spotify.com/track/3ksmU0DaEUMEVzx5V6cc3z) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/55uC8u8BqPgA4LGWALnOK3) | 3:06 |
 | 67 | [Take The Chance](https://open.spotify.com/track/6noKDeExEd4bYp9qtSg6f5) | [Mo Pitney](https://open.spotify.com/artist/7r9M6ptJz7XnQp2RVFArb4) | [Behind This Guitar](https://open.spotify.com/album/4eu52uZltxOTS0ec73kDpu) | 3:37 |
@@ -89,13 +89,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 | 79 | [These Walls](https://open.spotify.com/track/4Q1LDkmAOY2bs4U9A4jCOT) | [Carly Rogers](https://open.spotify.com/artist/2Wp8J5K9ohY4IY00dIpDtr) | [These Walls](https://open.spotify.com/album/1IgdpQxKTlJur7hcQoR4Pu) | 3:13 |
 | 80 | [Rebound](https://open.spotify.com/track/3maqVYkwbQv9bYcOzLN4u7) | [Mariya Stokes](https://open.spotify.com/artist/38JkwdrqzjT3YrIH7wkCDS) | [Rebound](https://open.spotify.com/album/4tJxnECufcU2cVVsTNsSPG) | 3:37 |
 | 81 | [Never Really Gone](https://open.spotify.com/track/5wabVKcJepqDkkthpTGW76) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Wilderness](https://open.spotify.com/album/3XyV6DyEqRb8V9tW4YeJLG) | 3:41 |
-| 82 | [Alice](https://open.spotify.com/track/5sjUQ1Yj3ZjjwT3bxMwdkS) | [Ashley Campbell](https://open.spotify.com/artist/49mvmawPDTzmEaEPY5z0ew) | [Something Lovely](https://open.spotify.com/album/6oWAsxdtL5vHS1isSKuqeA) | 3:24 |
+| 82 | [Alice](https://open.spotify.com/track/5sjUQ1Yj3ZjjwT3bxMwdkS) | [Ashley Campbell](https://open.spotify.com/artist/49mvmawPDTzmEaEPY5z0ew) | [Something Lovely](https://open.spotify.com/album/6oWAsxdtL5vHS1isSKuqeA) | 0:29 |
 | 83 | [You Don't Have to Be Sorry](https://open.spotify.com/track/0lUv6PZaaUxQBZaeTJihGf) | [Ryan Dilmore](https://open.spotify.com/artist/4B8TXOImx4gm4RraBvUZHr) | [You Don't Have to Be Sorry](https://open.spotify.com/album/3HVU2CppIWKtWNvOpxlOd9) | 2:33 |
 | 84 | [Heart In Me](https://open.spotify.com/track/7yiV9vNPteAL9Y4U8810vh) | [Leaving Thomas](https://open.spotify.com/artist/7Mlp2kTfQTVsAKG2tuOPhS) | [Leaving Thomas](https://open.spotify.com/album/0Nc0yM6xYEelLRf0l4gR6B) | 3:47 |
 | 85 | [Carry On](https://open.spotify.com/track/1qBKPuLAM3AMfP8kW6lZ7n) | [Our Atlantic Roots](https://open.spotify.com/artist/7ymwRNbLwKozZwnup5cMtB) | [Carry On](https://open.spotify.com/album/0WyeZyEEb8pidrTsN1mPtK) | 3:25 |
 | 86 | [Little Things](https://open.spotify.com/track/6e9LfLjJyQvJdIAkNPPU8u) | [Roan Ash](https://open.spotify.com/artist/4Tqhn8v9Cws9SRsViQe61U) | [Little Things](https://open.spotify.com/album/1ZKejl4URkEWj3I6f2ppsL) | 3:36 |
 | 87 | [Ain't My Place \- Acoustic](https://open.spotify.com/track/1aEleT5rCGxHHK0IGbHjq8) | [Brett Sheroky](https://open.spotify.com/artist/4pj3a0izNOahe0XGIuqAQB) | [Ain't My Place \(Acoustic\)](https://open.spotify.com/album/4MK30nUaWHXS8sFZQL96aT) | 3:36 |
-| 88 | [Pretty Blue View](https://open.spotify.com/track/5t9f0NGMiwHKF3D8mTWEyW) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Pretty Blue View \(Acoustic\)](https://open.spotify.com/album/61hocUPG68jPN1jDNHZ7mu) | 3:39 |
+| 88 | [Pretty Blue View](https://open.spotify.com/track/5t9f0NGMiwHKF3D8mTWEyW) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Pretty Blue View \(Acoustic\)](https://open.spotify.com/album/61hocUPG68jPN1jDNHZ7mu) | 0:29 |
 | 89 | [You Can't Do Enough](https://open.spotify.com/track/759pX6ms3foc1dxBzPfT1U) | [Colton Venner](https://open.spotify.com/artist/2j8Sh4ZxKM8iqE55xUoR1L) | [Walk Through Fire](https://open.spotify.com/album/1ZNrtxvfN5AqL3KYmlGiQ6) | 3:39 |
 | 90 | [Wrong Side of Goodbye \(Reimagined\)](https://open.spotify.com/track/0uhnVe3CgAhOI4NnSeWxTm) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Wrong Side of Goodbye \(Reimagined\)](https://open.spotify.com/album/7lbcv8zWEcRjWd6XJs2ueK) | 2:17 |
 | 91 | [There You Are](https://open.spotify.com/track/6PD7iSh23einHGUSxySwfR) | [Brandon Jenner](https://open.spotify.com/artist/6q6eylLazY3ORi6YqH9x4x) | [There You Are](https://open.spotify.com/album/2XATcnL3lJFJPqGFj7Dmhl) | 3:05 |

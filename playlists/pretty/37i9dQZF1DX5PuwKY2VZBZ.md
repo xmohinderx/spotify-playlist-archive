@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5PuwKY2VZBZ.md) - [plain]
 
 > Hip\-Hop's next generation takes over SXSW! Cover: <a href="spotify:artist:3Gm5F95VdRxW3mqCn8RPBJ">Aminè</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,678 likes - 25 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,678 likes - 25 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5PuwKY2VZBZ.md) - [plain]
 | 4 | [The Faculty](https://open.spotify.com/track/49bgnBulICSuhLVbuwxWg8) | [Nef The Pharaoh](https://open.spotify.com/artist/3DiSC0nSNNWpPy5ZK3mcrz), [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb), [AD](https://open.spotify.com/artist/4Maf38TSoYT83qXqsO20JI) | [The Faculty](https://open.spotify.com/album/6Nhkmwdl0kJBNYagzXha1P) | 3:54 |
 | 5 | [I Got You](https://open.spotify.com/track/2vUhsPizP1kq7dqLSCrDmt) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe), [Slim Jxmmi](https://open.spotify.com/artist/7EEiVZvj6RCEtVX2F2pyxu) | [Illuminati](https://open.spotify.com/album/0vlAYzvBDkRrRFpmR4v5MF) | 3:12 |
 | 6 | [Crew \(feat\. Brent Faiyaz & Shy Glizzy\)](https://open.spotify.com/track/3jEtESxn2ngF25DMD6vbBg) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [Crew \(feat\. Brent Faiyaz & Shy Glizzy\)](https://open.spotify.com/album/4Ysy1MEXCD5HjO0VBDfBgj) | 2:57 |
-| 7 | [Dirty Taurus](https://open.spotify.com/track/5HvvNQEd62bveJqT1raHbw) | [Charlie Heat & Ant Beale](https://open.spotify.com/artist/4pKfsREfxKSfQQBSs4mZfk) | [No Rain No Flowers](https://open.spotify.com/album/2KQu5msu6KXKMdZRhYD9Rh) | 3:13 |
+| 7 | [Dirty Taurus](https://open.spotify.com/track/5HvvNQEd62bveJqT1raHbw) | [Charlie Heat & Ant Beale](https://open.spotify.com/artist/4pKfsREfxKSfQQBSs4mZfk) | [No Rain No Flowers](https://open.spotify.com/album/2KQu5msu6KXKMdZRhYD9Rh) | 0:29 |
 | 8 | [Fruit Punch](https://open.spotify.com/track/0lpRp9KzzMbC0w1uiL7H7f) | [Kaiydo](https://open.spotify.com/artist/6y02TEMv71ArWB2qhIaQ5m) | [Fruit Punch](https://open.spotify.com/album/0oeJCHQwiz5dQhMuiFlhhM) | 3:41 |
 | 9 | [Baba](https://open.spotify.com/track/6bqIEcMHVQF0NQHnOnrvng) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Baba](https://open.spotify.com/album/7zSJjW9rdqNGfsHPmtTACu) | 3:09 |
 | 10 | [\#WhiteGirlVoice](https://open.spotify.com/track/4TkGhMYlkcbxCMj3pny9mU) | [Rajitheone](https://open.spotify.com/artist/3jT7IeLgXbSz86qKUq7Bqc) | [\#WhiteGirlVoice](https://open.spotify.com/album/7lSjDlX9ddz0fpzh0HToo6) | 4:13 |

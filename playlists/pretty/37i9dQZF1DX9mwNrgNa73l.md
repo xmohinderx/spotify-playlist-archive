@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,904 likes - 47 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,011 likes - 47 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 34 | [Duma dum mast qalandar](https://open.spotify.com/track/4AnFOrG0buaFD9DYCty84Q) | [Reshma](https://open.spotify.com/artist/0xawOgbaKGtq7KSlrRWrWP) | [Dumadum Mast Qalandar\- 5 Powerpacked Renditions](https://open.spotify.com/album/4so80ydgtvJRV2lAhP00r1) | 9:19 |
 | 35 | [Salaam](https://open.spotify.com/track/69gnztZiBrymiPoZmiZf8n) | [Shiraz Uppal](https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy) | [Salaam](https://open.spotify.com/album/10F3wxfHMiYO6De0UPF3X2) | 4:37 |
 | 36 | [Man Kunto Maula](https://open.spotify.com/track/7yFs95J0gZt15FjC4ylJVj) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Ali Azmat](https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr) | [Man Kunto Maula](https://open.spotify.com/album/4aDtJNM4kem6tl4CeR7YAt) | 9:28 |
-| 37 | [Maikada 2](https://open.spotify.com/track/6IH1DsmUezNkZIxW1SM95q) | [Muhammad Samie](https://open.spotify.com/artist/6G5nbVLqZWNNT37I5icSVs) | [Maikada 2](https://open.spotify.com/album/60EYSdCM5BQDajqMyG0xz0) | 9:10 |
+| 37 | [Maikada 2](https://open.spotify.com/track/6IH1DsmUezNkZIxW1SM95q) | [Muhammad Samie](https://open.spotify.com/artist/6G5nbVLqZWNNT37I5icSVs) | [Maikada 2](https://open.spotify.com/album/60EYSdCM5BQDajqMyG0xz0) | 0:29 |
 | 38 | [Kamli](https://open.spotify.com/track/04KCgCUQTPCenk5IwASx4s) | [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP) | [Wajd, Vol\. 1](https://open.spotify.com/album/5M92ubLBqNXRwraM3kqjqF) | 8:42 |
 | 39 | [La Salam Mast Qalandar](https://open.spotify.com/track/5NTcVdlPxt0Xh8ZHpY9Xia) | [Jimmy Khan](https://open.spotify.com/artist/1Xy0t0XYuOpuBK7Gnuwvpu), [Atef Malhas](https://open.spotify.com/artist/6gm05jmgIx3YvLtzl1GDas), [Rawan Risheq](https://open.spotify.com/artist/5R9Ghk1KBInYUMdAhN9B6O), [Shahab Hussain](https://open.spotify.com/artist/7ymVr1v5z0MP6rcohSM5up), [Yazan Sarayrah](https://open.spotify.com/artist/3hnWpiOnZfHrY7uq2zNReK), [Hrag Mouridian](https://open.spotify.com/artist/7dCyaFjdwI7EpiWgaB6QS0) | [La Salam Mast Qalandar](https://open.spotify.com/album/1YtFZPnsIuoHiPCKk7aOYm) | 4:11 |
 | 40 | [Kalaam, Pt\. 1](https://open.spotify.com/track/0kmx6XKJG768AVMlR1YZcC) | [Mehak Ali](https://open.spotify.com/artist/6XnTAfn0rCJ6hrABktaOIW) | [Saif Ul Malook](https://open.spotify.com/album/04bQOP9TC9BMNVm3xQx2Yw) | 5:44 |

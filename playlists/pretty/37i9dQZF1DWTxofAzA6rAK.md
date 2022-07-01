@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 
 > Latest and biggest tracks from Jamaica's Dancehall scene\. Cover: Skeng
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,084 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,131 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 | 21 | [WiFi](https://open.spotify.com/track/6ocqnSUAMMskrP3yDQdGxZ) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY), [Drumma Boy](https://open.spotify.com/artist/1WypSuVRK0PMIKXvoDLvxh) | [WiFi](https://open.spotify.com/album/0cu7nhBxjz3zkWVeevp1i8) | 3:33 |
 | 22 | [Still A Bleed](https://open.spotify.com/track/79fwXVlKbDYOmU5AuzaJnq) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Still A Bleed](https://open.spotify.com/album/4RUXFvq2eEoSYFmuhYl4wM) | 3:36 |
 | 23 | [Racketeer](https://open.spotify.com/track/2zLPeZ5T1ZLGiYLzHV1kCn) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Racketeer](https://open.spotify.com/album/2IjlI8ae5xYFntDtNnTJt9) | 2:39 |
-| 24 | [Cree](https://open.spotify.com/track/0NyKyA4P2zi6irhUYh45MR) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [Cree](https://open.spotify.com/album/4yd4HKsNGqdoNVnVNbe8Zt) | 3:06 |
+| 24 | [Cree](https://open.spotify.com/track/0NyKyA4P2zi6irhUYh45MR) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [Cree](https://open.spotify.com/album/4yd4HKsNGqdoNVnVNbe8Zt) | 0:29 |
 | 25 | [Ride \- Remix](https://open.spotify.com/track/3SEfX0PJAkE9mqFVMSO4QO) | [Kash Promise Move](https://open.spotify.com/artist/0n2GVhODT8CJldQoVdsMw4), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Ride \(Remix\)](https://open.spotify.com/album/5ksTZQyb1EcTen6NYlEgL5) | 3:05 |
 | 26 | [West Indies](https://open.spotify.com/track/6GbvWYsT5sWXYgo8Bw6HPE) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [West Indies](https://open.spotify.com/album/0JQXq0ZM0Nugq7QISjEDAq) | 3:57 |
 | 27 | [Bermuda Triangle](https://open.spotify.com/track/3LwafVvOzaAsuZoMfFW9lj) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR), [Zimi](https://open.spotify.com/artist/1CDJaUv1aGeoQQFlIGrqDA) | [Bermuda Triangle](https://open.spotify.com/album/0aCTKNGVc2GgtJxjsKYvNA) | 2:35 |

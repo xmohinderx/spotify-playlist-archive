@@ -4,7 +4,7 @@
 
 > This playlist will sing your little ones to sleep.
 
-78 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/02w0VB2lrFWIf9k97cl9CY)
+78 songs - 3 hr 40 min - [published](https://open.spotify.com/playlist/02w0VB2lrFWIf9k97cl9CY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Aoi](https://open.spotify.com/track/7LW1LiX6gMkHpwCXlaq63g) | [Arden Forest](https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7) | [Sapphire](https://open.spotify.com/album/51sf1gfgOSgcF4AK5qJ4jK) | 2:07 | 2019-10-29 |  |
 | [Ave Nocturne](https://open.spotify.com/track/4AyL8u1g3ruazEAlu1bllD) | [John A\. Nilson](https://open.spotify.com/artist/0jclSzw2eZAu8huZPEcOJ9) | [Carousel](https://open.spotify.com/album/3eqF1XOrPSx3gXBhrc8YFV) | 3:24 | 2019-10-29 |  |
 | [Belonging](https://open.spotify.com/track/5xdDjtxZsusQGRjY03kWwQ) | [Werner de John](https://open.spotify.com/artist/7KYZ7B3pZ9TQ5k8j8C4pGG) | [Belonging](https://open.spotify.com/album/79MPiDsLmsaSng3Dt4B6U3) | 2:32 | 2019-10-29 |  |
-| [Besides, By the Way](https://open.spotify.com/track/64s5jnBOmd6DqmQlphn0Fv) | [Ari Naman](https://open.spotify.com/artist/5JAfV3egghH0G8VAjzk0Ch) | [Things of Meaning](https://open.spotify.com/album/1mBpJKaaCxnal3lHb3ytty) | 3:28 | 2019-10-29 |  |
+| [Besides, By the Way](https://open.spotify.com/track/64s5jnBOmd6DqmQlphn0Fv) | [Ari Naman](https://open.spotify.com/artist/5JAfV3egghH0G8VAjzk0Ch) | [Things of Meaning](https://open.spotify.com/album/1mBpJKaaCxnal3lHb3ytty) | 0:29 | 2019-10-29 |  |
 | [Buenas Noches](https://open.spotify.com/track/72kIC2q0kaOleQ3uCWU6eN) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Flowing Strings](https://open.spotify.com/album/4dySUweZz7vqrs3VgLYWN8) | 4:38 | 2019-10-29 |  |
 | [Castor](https://open.spotify.com/track/7urR40aaLV1jRneNj2ykva) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Castor / Pollux](https://open.spotify.com/album/6P0cJjPi0SSUPXX8rv3s9t) | 2:48 | 2019-10-29 |  |
 | [Celandine](https://open.spotify.com/track/5ptMWCoMxUP5phRKZ5MyBx) | [Francesca Caroléo](https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke) | [Lunaria](https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn) | 2:53 | 2019-10-29 |  |

@@ -4,7 +4,7 @@
 
 > Highlighting <a href="http://noteable.spotify.com">Noteable</a> songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG?si=6UZPxuAmTqq5yhS\_yel9zg">Fave</a>, Saszy Afroshii
 
-264 songs - 14 hr 48 min - [published](https://open.spotify.com/playlist/4frft2pyObjR6lkHbPcXin)
+264 songs - 14 hr 44 min - [published](https://open.spotify.com/playlist/4frft2pyObjR6lkHbPcXin)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Fix You](https://open.spotify.com/track/4W2Jjny3buPAFV717WbYPw) | [Emily Vaughn](https://open.spotify.com/artist/3G9gR0x4v3J2Vek0Fw0yf2) | [Silver Linings](https://open.spotify.com/album/2mlaknGD9LFKAx1n49HUit) | 2:33 | 2021-12-08 | 2022-01-06 |
 | [Foolish Beat](https://open.spotify.com/track/0KhiesN7gLBPEQhKsBmrI1) | [Debbie Gibson](https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp) | [Out Of The Blue](https://open.spotify.com/album/2I2QfpWLoBCOSG8Qa7xD8b) | 4:22 | 2022-05-04 | 2022-06-01 |
 | [Fragments](https://open.spotify.com/track/44FpBuIxaSCqhnUhNsQsQZ) | [Miette Hope](https://open.spotify.com/artist/4K61UysqQc1VRj8VsY76Qw) | [Fragments](https://open.spotify.com/album/0IDVBuc7J4u7I5mBnDVkmX) | 2:50 | 2022-04-06 | 2022-05-05 |
-| [Frankie](https://open.spotify.com/track/76d5duEjc2sorWQFmZsdVC) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Barbara](https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL) | 4:17 | 2022-06-01 |  |
+| [Frankie](https://open.spotify.com/track/76d5duEjc2sorWQFmZsdVC) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Barbara](https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL) | 0:29 | 2022-06-01 |  |
 | [Freedom](https://open.spotify.com/track/5aSByRjdQFNWcr1Xcg5VlK) | [Madame Gandhi](https://open.spotify.com/artist/1zBHbitf3pjF7W00UIFfVf), [Trakgirl](https://open.spotify.com/artist/74sormm4xAseMByk8cFRGH) | [Freedom](https://open.spotify.com/album/5WDCFOBMGTlfpx3zN0m7Ha) | 2:46 | 2022-05-04 | 2022-06-01 |
 | [FUCK YO FRIENDS](https://open.spotify.com/track/36sMJmEOxZLt2U8iT9lvAh) | [KILLBOY](https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm) | [FUCK YO FRIENDS](https://open.spotify.com/album/2PjEKH7XIg5dZ8U74C0VZU) | 3:28 | 2022-06-01 |  |
 | [Future Memories](https://open.spotify.com/track/4UMa4gdhtHPV7mDMoZoVDn) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [It's Hard To Be Human](https://open.spotify.com/album/56cngKtxfa01LqaVqaEj3p) | 3:43 | 2022-01-05 | 2022-02-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oU7rbE4ffh.md) - [plain]
 
 > Take a deep breath and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,786 likes - 108 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,908 likes - 108 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oU7rbE4ffh.md) - [plain]
 | 6 | [Peripateo](https://open.spotify.com/track/3Jsht2hQ08RWncvgXaFpcp) | [For The Lost](https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ) | [Peripateo](https://open.spotify.com/album/0IQFwbUk5gJin6nQGMJPWz) | 3:13 |
 | 7 | [Savannah](https://open.spotify.com/track/1GfkDco09y8iruC25beFMz) | [Nath Lue](https://open.spotify.com/artist/1kInNb813DsqBOR40Sg1Ih) | [Auspicious](https://open.spotify.com/album/2DJAMZ46NRFHgC1O9icft6) | 3:26 |
 | 8 | [Leading Light](https://open.spotify.com/track/5AL7XX3jWq8GfZLSRW0zC9) | [Logan Docherty](https://open.spotify.com/artist/7amQ98BuFYDzaxShGajJ1e) | [Leading Light](https://open.spotify.com/album/1Go8ba7DjE6qpyiZr2ateh) | 3:08 |
-| 9 | [Peaceful Harmony](https://open.spotify.com/track/5YXMvnrosh3tVYusmR8lyb) | [Jasmine Bordeaux](https://open.spotify.com/artist/5kxIHAETC8i2dwHZOASyVD) | [Peaceful Harmony](https://open.spotify.com/album/6yigwF9cIfuoVoWwhf1YET) | 2:15 |
+| 9 | [Peaceful Harmony](https://open.spotify.com/track/5YXMvnrosh3tVYusmR8lyb) | [Jasmine Bordeaux](https://open.spotify.com/artist/5kxIHAETC8i2dwHZOASyVD) | [Peaceful Harmony](https://open.spotify.com/album/6yigwF9cIfuoVoWwhf1YET) | 0:29 |
 | 10 | [Angalalluarina](https://open.spotify.com/track/7HMqoo6TbtoZLHwqkfp7Lw) | [Søren Jeremiassen](https://open.spotify.com/artist/54h5UZPx5rj7dEDGaofoaj) | [Angalalluarina](https://open.spotify.com/album/0Oi2WtaSEaPXedHjY4bbV2) | 4:00 |
 | 11 | [Jij bent alles](https://open.spotify.com/track/0zkpPgcFpSXqjjWSLmSkDa) | [Dardan Leistra](https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH) | [In het licht van de maan](https://open.spotify.com/album/0UHBQoH5hrh3C81AdbXBpP) | 3:40 |
 | 12 | [Rejuvenate](https://open.spotify.com/track/2BMsZTRgwxpLN4tQFSUcSo) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Rejuvenate](https://open.spotify.com/album/0ovPC1p3FWLW1NHSgiobYf) | 3:13 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oU7rbE4ffh.md) - [plain]
 | 33 | [Penumbra](https://open.spotify.com/track/5mdcDysyOu26uO16OPEWPy) | [Chiara Nieves](https://open.spotify.com/artist/3HjIwAJWk1lhTwIjWyCyzc) | [Penumbra](https://open.spotify.com/album/73cVroAiJKnizesgutD6Qw) | 4:20 |
 | 34 | [Pampus](https://open.spotify.com/track/7emdYdVOLn2nIzdFufWUQh) | [Dardan Leistra](https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH) | [Pampus](https://open.spotify.com/album/66EibKvWjwkOn8LPibdMcF) | 3:26 |
 | 35 | [Stargaze](https://open.spotify.com/track/4lMmoawRGvO419cZgRP9mV) | [Antero Lehto](https://open.spotify.com/artist/7gBBSNhDsDRvI4XfsVNpC8) | [Ascendent](https://open.spotify.com/album/7wnhFQ2b7bGwjyLSiqRyt4) | 2:39 |
-| 36 | [Acending](https://open.spotify.com/track/0gny3oCHB6fKmZ6PoDedRA) | [So Jao](https://open.spotify.com/artist/0ScQmROrSMggRHzVdPIRim) | [Acending](https://open.spotify.com/album/5UTfGuymK5d3VbqMVjh0fh) | 2:54 |
+| 36 | [Acending](https://open.spotify.com/track/0gny3oCHB6fKmZ6PoDedRA) | [So Jao](https://open.spotify.com/artist/0ScQmROrSMggRHzVdPIRim) | [Acending](https://open.spotify.com/album/5UTfGuymK5d3VbqMVjh0fh) | 0:29 |
 | 37 | [Afloat](https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ) | [Pristeen](https://open.spotify.com/artist/213deC0wRrVFogvJCdP7lh) | [Afloat](https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx) | 2:19 |
 | 38 | [Yesterday](https://open.spotify.com/track/0F8rKbPUGxuyQ0JozqMsRo) | [Jake Slumber](https://open.spotify.com/artist/5zXzDGnSdx0XqjZzuKNNYx) | [Yesterday](https://open.spotify.com/album/53bkdqxJiaEZN5gtnSvpk7) | 2:16 |
 | 39 | [Afterthoughts](https://open.spotify.com/track/1wCeUYtGDLPVFMIF2rMaJ8) | [Zachary Winslow](https://open.spotify.com/artist/3msrl8nVpOm5bwGTr5lyLm) | [Tunnels](https://open.spotify.com/album/74MFpDyFJmMCtvBOznvpve) | 3:20 |
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oU7rbE4ffh.md) - [plain]
 | 48 | [Appreciation](https://open.spotify.com/track/6nr2mVAdLDUqWvA2BiIkxO) | [Zero Degrees Celsius](https://open.spotify.com/artist/0pAy8zzMlg0dqDqa0Xxx0G) | [New Ports](https://open.spotify.com/album/6av0wF7cwQfoAxh393EqAT) | 3:32 |
 | 49 | [Saddleworth](https://open.spotify.com/track/2dqHZOXBMrkntSDYahuzfF) | [Tonal Blues](https://open.spotify.com/artist/4op9odiUcMauXLhmhuxU2m) | [Squares](https://open.spotify.com/album/5mjzHuXW8jh4dmN9dBkyAp) | 3:40 |
 | 50 | [Revolve](https://open.spotify.com/track/0X33Oo6yg2qlTsrFiH1qta) | [Sleepless Eye](https://open.spotify.com/artist/0q1jgFxjleKLegFYRiyPxS) | [Revolve](https://open.spotify.com/album/5x1eSN3IFw7QEbT9sm44w2) | 3:07 |
-| 51 | [Galina](https://open.spotify.com/track/1oMqTsOS6mzsTNvxKKdFps) | [Stella Kovalyova](https://open.spotify.com/artist/1VcsmBSxaifP1LiG8WtsLA) | [Galina](https://open.spotify.com/album/1cVc2Y1RhScTWiZLRSlExA) | 3:17 |
+| 51 | [Galina](https://open.spotify.com/track/1oMqTsOS6mzsTNvxKKdFps) | [Stella Kovalyova](https://open.spotify.com/artist/1VcsmBSxaifP1LiG8WtsLA) | [Galina](https://open.spotify.com/album/1cVc2Y1RhScTWiZLRSlExA) | 0:29 |
 | 52 | [Oblivion](https://open.spotify.com/track/676cCislDJ6X51j2mai6xD) | [Norris Melcher](https://open.spotify.com/artist/1uNKwFEjuT8w9eXOCqrcAA) | [Oblivion](https://open.spotify.com/album/03PoUSzMmhA5FYH7yU0BGO) | 3:08 |
-| 53 | [Dreaming of the Coast](https://open.spotify.com/track/5gAjUK0Rda7yZZpuCpD2oy) | [Light Youth](https://open.spotify.com/artist/0sXhvfc61E4EmQ2Q6Y4xLT) | [Liquid State](https://open.spotify.com/album/0Bbj7KIBeK85vjs6qxU8EV) | 2:48 |
+| 53 | [Dreaming of the Coast](https://open.spotify.com/track/5gAjUK0Rda7yZZpuCpD2oy) | [Light Youth](https://open.spotify.com/artist/0sXhvfc61E4EmQ2Q6Y4xLT) | [Liquid State](https://open.spotify.com/album/0Bbj7KIBeK85vjs6qxU8EV) | 0:29 |
 | 54 | [Gold Coast Australia](https://open.spotify.com/track/6BNTFiV9i392ZnBLp4gpC2) | [Roman Roads](https://open.spotify.com/artist/2QUVHxjwBJB4Lok2MRT3Dh) | [Stay Safe](https://open.spotify.com/album/6D3qaysSHYi8dvpwslqB9A) | 3:32 |
 | 55 | [Intuition](https://open.spotify.com/track/3VSHwYTtcZNrdwZuyOGjHo) | [Muted Reality](https://open.spotify.com/artist/61XqCx4Ltxr3vCCquzaj7D) | [Intuition](https://open.spotify.com/album/021gMyQNpIiRxNspxbQuyR) | 3:59 |
 | 56 | [Lively Bluebottle](https://open.spotify.com/track/01ZG6VNmqta0ZV23kJfvIS) | [Mari Cafferty](https://open.spotify.com/artist/66CQACp5epB3rPvytNEoVU) | [Silk Under Rain](https://open.spotify.com/album/5wkOnp8bjaLa5Rh3aRztFV) | 3:12 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oU7rbE4ffh.md) - [plain]
 | 65 | [Dreams of the Milky Way](https://open.spotify.com/track/55MCIV8vcsHVz2ECaveJpT) | [Zarobi](https://open.spotify.com/artist/6Z65n1gThYKu7yuFqF5XmB) | [Dreams of the Milky Way](https://open.spotify.com/album/0KVbigs9HOU9c16GRmrZew) | 2:05 |
 | 66 | [Smyrna](https://open.spotify.com/track/20WOKEJgCcTSP9fpmTN9BM) | [From Us](https://open.spotify.com/artist/1alyoRkSvs6MfBhq7lgY3Q) | [Smyrna](https://open.spotify.com/album/0kRViOapDgEc4RvhO4jbXA) | 3:19 |
 | 67 | [The Riddle of Dreams](https://open.spotify.com/track/5HfIHltHzu31DBzxJwoVQg) | [Carligo](https://open.spotify.com/artist/6rcMboN5jrM7OzqcqIfLwd) | [The Riddle of Dreams](https://open.spotify.com/album/5gBFJ8RLzPdObOk4pQTiKj) | 2:27 |
-| 68 | [Anti\-Clockwise Spiral Staircase](https://open.spotify.com/track/3XddzxSe1cKTCIDQis3NaO) | [Alexander Brinkman](https://open.spotify.com/artist/00PBaUiEJHzToevJcWXv4M) | [Anti\-Clockwise Spiral Staircase](https://open.spotify.com/album/14wlLHVPkCezE2gwGu2v6f) | 3:52 |
+| 68 | [Anti\-Clockwise Spiral Staircase](https://open.spotify.com/track/3XddzxSe1cKTCIDQis3NaO) | [Alexander Brinkman](https://open.spotify.com/artist/00PBaUiEJHzToevJcWXv4M) | [Anti\-Clockwise Spiral Staircase](https://open.spotify.com/album/14wlLHVPkCezE2gwGu2v6f) | 0:29 |
 | 69 | [Brillo En El Mar](https://open.spotify.com/track/7mZASnos1MVmNVLHHg7nPJ) | [Amaia Bescós](https://open.spotify.com/artist/0h9O8A9Z4u2sSj79DxyjKx) | [Brillo En El Mar](https://open.spotify.com/album/4CIb579jqNPow80P5S2AGP) | 2:54 |
 | 70 | [Cardboard Gadgets](https://open.spotify.com/track/1GnzjRqS1QnHeA9O7bR5y0) | [Georg Valeks](https://open.spotify.com/artist/0CdgdnjNOILlUCUFx0JfWS) | [Cardboard Gadgets](https://open.spotify.com/album/2MzvZKJ9HAnFmTxQHTAqyH) | 3:36 |
 | 71 | [Still](https://open.spotify.com/track/3MAn3fACQt6uwlEaE9IGNN) | [Sonic Being](https://open.spotify.com/artist/6IEjVEVLQvv1NLUyxyfL36) | [Still](https://open.spotify.com/album/6NiOGqYGcLd9q7bWw1NPEm) | 3:12 |
@@ -89,18 +89,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oU7rbE4ffh.md) - [plain]
 | 79 | [As One](https://open.spotify.com/track/4ArtdQWC9UI51ojZvrzj2W) | [Donato Manna](https://open.spotify.com/artist/7ITvoe7pKuN7DqVBje697p) | [As One](https://open.spotify.com/album/6ODpmuDcmnXUlNVqFanyWb) | 3:19 |
 | 80 | [Long\-Horned Beetles](https://open.spotify.com/track/2Fi1BIoPwqLyFmi49IaIp5) | [Dominico Lucci](https://open.spotify.com/artist/2Oh8aUjFUfE8lFUF2fANyT) | [Dominico's Resting Hands](https://open.spotify.com/album/0LC6hCqk7mIKv2Ytt6CaaK) | 3:45 |
 | 81 | [Soporific](https://open.spotify.com/track/3qdpjZleqYS2oJhGzXDXcz) | [Alannah Hammer](https://open.spotify.com/artist/2utndN6OrmNQKozhXYJ8Hn) | [Soporific](https://open.spotify.com/album/1EWsupezffYk8uVCsHESYH) | 3:20 |
-| 82 | [Enchanting](https://open.spotify.com/track/5Th1JB1zTh6BtnvIuFXn4U) | [Pranayama Om](https://open.spotify.com/artist/6WrKGQdOj7BcZNZ8uvIWOV) | [Enchanting](https://open.spotify.com/album/6dfT9qNKN2NBJUgjPtvo9j) | 3:50 |
+| 82 | [Enchanting](https://open.spotify.com/track/5Th1JB1zTh6BtnvIuFXn4U) | [Pranayama Om](https://open.spotify.com/artist/6WrKGQdOj7BcZNZ8uvIWOV) | [Enchanting](https://open.spotify.com/album/6dfT9qNKN2NBJUgjPtvo9j) | 0:29 |
 | 83 | [Morning Mist Rising](https://open.spotify.com/track/62w7vY3oBAnoEe8YZVui50) | [Shibb](https://open.spotify.com/artist/3S9OW04ZfXbQUjzGvjAlPZ) | [Morning Mist Rising](https://open.spotify.com/album/4FkVG3tMc2RDeycqAjNZM3) | 3:49 |
 | 84 | [Healing](https://open.spotify.com/track/64U5PLgNrdaQtuKqquCWaQ) | [Jan Sandgreen](https://open.spotify.com/artist/6XeZHtclFhsvU54hfesohF) | [Healing](https://open.spotify.com/album/4Ad5hqfM5jXUtJArpJZX0w) | 2:59 |
 | 85 | [Petribungi](https://open.spotify.com/track/57kdkW0uoj8wZkKj6J6ucp) | [Numerorum mysteria](https://open.spotify.com/artist/3DAhwqtZw5k7ygr3JxFuKL) | [Petribungi](https://open.spotify.com/album/5QTxoUuOXKWxpeXbLKyRhP) | 3:36 |
 | 86 | [Dream about me](https://open.spotify.com/track/6L1sKb2kv74gPGUpjkybTO) | [Tuva Meyer](https://open.spotify.com/artist/2jLb0BITddsw4KK3EcNyyn) | [Dream about me](https://open.spotify.com/album/3XHxAXn40Nwlbjrg6rbRlK) | 2:58 |
 | 87 | [Kiedy anioły śpiewają](https://open.spotify.com/track/00B2qA7KX5pkJN0mriTeIw) | [Nadzieja Nowak](https://open.spotify.com/artist/4G7MZ9ZdNf8SwRZix5rFLx) | [Kiedy anioły śpiewają](https://open.spotify.com/album/6mi0Whx3iDPqGCniA5s2Uu) | 3:31 |
-| 88 | [Lifted](https://open.spotify.com/track/0CQwD2KxIfQUAGz4WChZZw) | [Baya Lakshmi](https://open.spotify.com/artist/50tighC78c8RUNqduI3rv5) | [Book Of Calmness](https://open.spotify.com/album/3ozKH4TXGOKdRuldtnd3B4) | 3:56 |
+| 88 | [Lifted](https://open.spotify.com/track/0CQwD2KxIfQUAGz4WChZZw) | [Baya Lakshmi](https://open.spotify.com/artist/50tighC78c8RUNqduI3rv5) | [Book Of Calmness](https://open.spotify.com/album/3ozKH4TXGOKdRuldtnd3B4) | 0:29 |
 | 89 | [Binaural Rest](https://open.spotify.com/track/1wgXU7u4rGe7sBE2hBRLa7) | [Drone](https://open.spotify.com/artist/4g3KE7YbVpqmgxg2zhxzXb) | [Binaural Dreamer](https://open.spotify.com/album/3CvxtluGSik0YCGeEtANJu) | 3:24 |
 | 90 | [One With You](https://open.spotify.com/track/6uFDXRgHLOWuzn8ulRJ2XW) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Relaxing Delta](https://open.spotify.com/album/5O8YZFDlUoxesk17FCIECn) | 3:43 |
-| 91 | [Decumbent](https://open.spotify.com/track/45nNKzH7nKMfyFhUUqdyGY) | [Clifford Solum](https://open.spotify.com/artist/7fU4kMtmQKYqCJoJGEEjnu) | [Decumbent](https://open.spotify.com/album/5bf2DjnmsLeJOYVdDeUM5E) | 3:11 |
+| 91 | [Decumbent](https://open.spotify.com/track/45nNKzH7nKMfyFhUUqdyGY) | [Clifford Solum](https://open.spotify.com/artist/7fU4kMtmQKYqCJoJGEEjnu) | [Decumbent](https://open.spotify.com/album/5bf2DjnmsLeJOYVdDeUM5E) | 0:29 |
 | 92 | [Forever close](https://open.spotify.com/track/4SIJIe0qLkPFLP8Nedt1Ga) | [Tuva Meyer](https://open.spotify.com/artist/2jLb0BITddsw4KK3EcNyyn) | [Forever close](https://open.spotify.com/album/0bhOdhCWSXWvy2uQKxDbGK) | 3:43 |
-| 93 | [Westward](https://open.spotify.com/track/3a4QYzei9aAmBHtz3ElTPT) | [Western Tribulations](https://open.spotify.com/artist/2BqSkHnqXQZZSKr1EwgHno) | [Enschede](https://open.spotify.com/album/3twmOqQwvJBNQBq6oboMtD) | 3:48 |
+| 93 | [Westward](https://open.spotify.com/track/3a4QYzei9aAmBHtz3ElTPT) | [Western Tribulations](https://open.spotify.com/artist/2BqSkHnqXQZZSKr1EwgHno) | [Enschede](https://open.spotify.com/album/3twmOqQwvJBNQBq6oboMtD) | 0:29 |
 | 94 | [Monrovia](https://open.spotify.com/track/7JYgex93ldydsVqr6Um2nD) | [Prescient Liquids](https://open.spotify.com/artist/7KoToKBUpived2ez8gxKT1) | [Heliotropism](https://open.spotify.com/album/3MsuLztSUCisSA2S92hlaw) | 3:30 |
 | 95 | [High Fly](https://open.spotify.com/track/4lpIocJWZ7ubpEi2WmXs6Z) | [Majestic Sleep](https://open.spotify.com/artist/0sQArsC8yyQYhH6mk7Myt0) | [Vast Surroundings](https://open.spotify.com/album/4TAjh8pw6XL9Vujx5tMm7U) | 3:46 |
 | 96 | [Halcyon](https://open.spotify.com/track/3HKUZby848zcRIt4ssMrSj) | [Clifford Solum](https://open.spotify.com/artist/7fU4kMtmQKYqCJoJGEEjnu) | [Halcyon](https://open.spotify.com/album/5aiswxWeYt2eEIm7gz4ltH) | 3:11 |

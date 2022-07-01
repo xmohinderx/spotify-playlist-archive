@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0aXP5u51kHZiKvxkUPq0IL.md) - [plain]
 
 > Score your day with some signature indie ballads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289 likes - 57 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 289 likes - 57 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/0aXP5u51kHZiKvxkUPq0IL.md) - [plain]
 | 2 | [Terrence Loves You](https://open.spotify.com/track/3NkWdvbs6xEVk3c0vPGhXN) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Terrence Loves You](https://open.spotify.com/album/4xlfiqbKSVzrbUzjbYe2Ia) | 4:50 |
 | 3 | [I've Been Waiting for Her](https://open.spotify.com/track/5h1t70SJIElmJEqgrkWHTX) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [I've Been Waiting for Her](https://open.spotify.com/album/7eGgLQCLsMtrgrjyFCfkk3) | 2:47 |
 | 4 | [How Could You Babe](https://open.spotify.com/track/3UQM3V4mjS1DuAqucivt1Q) | [Tobias Jesso Jr.](https://open.spotify.com/artist/3RosuARXNIOfNYoJXR7fzA) | [How Could You Babe](https://open.spotify.com/album/366pymIt28pfphDRjYM0BL) | 3:52 |
-| 5 | [Ferris Wheel](https://open.spotify.com/track/4lOMlUFX4qN0d587hfQMDO) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Singing Saw](https://open.spotify.com/album/1s8RmcZjTuvDt9eQ4MAKLI) | 3:05 |
+| 5 | [Ferris Wheel](https://open.spotify.com/track/4lOMlUFX4qN0d587hfQMDO) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Singing Saw](https://open.spotify.com/album/1s8RmcZjTuvDt9eQ4MAKLI) | 0:29 |
 | 6 | [See Her Smiling](https://open.spotify.com/track/3m1ChU56bSNFdvOHZ649gC) | [Barrie\-James](https://open.spotify.com/artist/2OteRXiAleVQTZbUMWeoOo) | [Cold Coffee](https://open.spotify.com/album/0GGh4y5PxqdJXNK5fHU6HU) | 3:58 |
 | 7 | [Mirrors of Paradise](https://open.spotify.com/track/5u1hFiNBLQDWat8IRXuavN) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [A Light That Never Dies](https://open.spotify.com/album/3bVTjHIf9SQb5azkxNTVVE) | 4:11 |
 | 8 | [O I Long to Feel Your Arms Around Me](https://open.spotify.com/track/17eJJpSWm9JWl4wYmbwixM) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/0r0uA6OMU5fTbWetcMf867) | 2:23 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/0aXP5u51kHZiKvxkUPq0IL.md) - [plain]
 | 12 | [The Great Bear](https://open.spotify.com/track/2LXjoDNjwPQup5A02IJKpi) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [The Great Bear](https://open.spotify.com/album/0Bg6hnUfRNPdlxrVYQcA2P) | 4:17 |
 | 13 | [Young](https://open.spotify.com/track/2fWvDmPyhZNWdqg00r6W9u) | [Ed Wells](https://open.spotify.com/artist/5VU6y4gxGiF3Es895F7Ee5) | [Sparrow and Seed](https://open.spotify.com/album/0gAx4qI9r3clwvF2oZyVdF) | 5:26 |
 | 14 | [Move Together](https://open.spotify.com/track/4kfJRwiUaDYi7vtXfuAeKW) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Move Together](https://open.spotify.com/album/3BKtskG6p5BwZxWSz0Pict) | 4:35 |
-| 15 | [All I Want](https://open.spotify.com/track/0JggQ4jzbptIywK9O2BcG2) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi) | [All I Want: The Sonic Factory Sessions](https://open.spotify.com/album/1LygChf3iU7L1fBzpBD6Y2) | 3:57 |
+| 15 | [All I Want](https://open.spotify.com/track/0JggQ4jzbptIywK9O2BcG2) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi) | [All I Want: The Sonic Factory Sessions](https://open.spotify.com/album/1LygChf3iU7L1fBzpBD6Y2) | 0:29 |
 | 16 | [Just Like Blood](https://open.spotify.com/track/4gML5x1msjfFty29Ks1T9F) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Just Like Blood](https://open.spotify.com/album/0JGHve50jhJr7BvYsCFhZT) | 4:41 |
 | 17 | [Slow Dancer](https://open.spotify.com/track/4e1jkDGXP276kdjQ8jybwZ) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Slow Dancer](https://open.spotify.com/album/3do0LENZF7CeSby77615rO) | 3:30 |
 | 18 | [Another One](https://open.spotify.com/track/3eGW9ANdFCJUqs6pZwH3As) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Another One](https://open.spotify.com/album/62jm59Aclvv0KQHNdFsqrM) | 2:40 |

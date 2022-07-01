@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org/conference</a>\. Cover: Kyshona Armstrong
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,422 likes - 153 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,429 likes - 153 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 | 22 | [Travelin' Woman \- Live](https://open.spotify.com/track/7vv9La4RcTE4bYUmWw0AKf) | [Jess Klein](https://open.spotify.com/artist/2KDZ8Vb3dZnQ8jnptHBdzD) | [Bootleg](https://open.spotify.com/album/3qEnkEbtsJmstbsgu9raBd) | 6:06 |
 | 23 | [Play That Song Again](https://open.spotify.com/track/6bMqAFXZkfp9q83eM2U3Q9) | [Jeffery Straker](https://open.spotify.com/artist/43y45lgRCYYP5B2DVoaAC7) | [Just Before Sunrise](https://open.spotify.com/album/7rTw4kmsNUjbj04BmX77dh) | 4:03 |
 | 24 | [Say Can You See](https://open.spotify.com/track/4V2PDGMJnPsuHnToEnjlkA) | [Scott Cook](https://open.spotify.com/artist/3NPSzus5OqXRBS42d7EuJe) | [Say Can You See](https://open.spotify.com/album/3CR4QgZCR7DIizxPnXORJC) | 4:02 |
-| 25 | [Hungover Eyes](https://open.spotify.com/track/2fzqMjT5OsO6Fjv1p2JoiH) | [Adrian + Meredith](https://open.spotify.com/artist/4qkOE9F3pGhhestpgh80m9) | [Bad For Business](https://open.spotify.com/album/7xhjFl71Ib8zTwky12Zi5C) | 2:47 |
+| 25 | [Hungover Eyes](https://open.spotify.com/track/2fzqMjT5OsO6Fjv1p2JoiH) | [Adrian + Meredith](https://open.spotify.com/artist/4qkOE9F3pGhhestpgh80m9) | [Bad For Business](https://open.spotify.com/album/7xhjFl71Ib8zTwky12Zi5C) | 0:29 |
 | 26 | [Love Come Down](https://open.spotify.com/track/445WxhVKKKcNIZYWvN5vl8) | [Thea Hopkins](https://open.spotify.com/artist/0dABtLcQMlJgTKpYHbhnco) | [Love Come Down](https://open.spotify.com/album/3Hzlt4uqbt8QDMNN1eEQig) | 3:28 |
 | 27 | [As I Lay Dying](https://open.spotify.com/track/5Mkl5AXCLATHbaN7iQZ76a) | [Julia Othmer](https://open.spotify.com/artist/3XOfFAb1cUJ5C64hBuiy7z) | [Sound](https://open.spotify.com/album/3m7iNglvH57XNZitJtpm6d) | 3:13 |
 | 28 | [Maybe I Love You](https://open.spotify.com/track/0yP92xGhhKobWBGjioIGdQ) | [JM Stevens](https://open.spotify.com/artist/4LN1RIwD6YCy2ib7JSw0xf) | [Invisible Lines](https://open.spotify.com/album/2Ulqu7rhNIMfDTlTu9iz1q) | 3:33 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 | 85 | [Shed My Skin](https://open.spotify.com/track/1bGPdyS36XoYjgOr7ElOVX) | [Dan Navarro](https://open.spotify.com/artist/5irRyGwF9biNvCNBkEIZft) | [Shed My Skin](https://open.spotify.com/album/6nil1IIWPZtOF3sYiZ7z3t) | 5:28 |
 | 86 | [Is It Like Today](https://open.spotify.com/track/09DewAwnhcRWoN0VOEB8u4) | [Eliza Gilkyson](https://open.spotify.com/artist/1x2vfyp8dGA84qgwb3D9QG) | [Paradise Hotel](https://open.spotify.com/album/2PEWS3JPX85pShEiYXmlLa) | 5:49 |
 | 87 | [Je veux m'y marier / Le talencourt](https://open.spotify.com/track/1OO5XumJ22bglUWWs3pId3) | [Grosse Isle](https://open.spotify.com/artist/608gEqY93wuJtHdofldWwR) | [Le bonhomme sept heures / The Bonesetter](https://open.spotify.com/album/52ylZOnjjntlhhTcjaHbNH) | 4:21 |
-| 88 | [Ku'u Poli'ahu](https://open.spotify.com/track/2sfZQiHXz95HPaMX9hZ1bl) | [Kalani Pe'a](https://open.spotify.com/artist/2dn7TmEojNdgWeRhbO15hg) | [E Walea](https://open.spotify.com/album/5lm1nmjm0NWth85dImVdgt) | 3:43 |
+| 88 | [Ku'u Poli'ahu](https://open.spotify.com/track/2sfZQiHXz95HPaMX9hZ1bl) | [Kalani Pe'a](https://open.spotify.com/artist/2dn7TmEojNdgWeRhbO15hg) | [E Walea](https://open.spotify.com/album/5lm1nmjm0NWth85dImVdgt) | 0:29 |
 | 89 | [The Bear \(Trio\)](https://open.spotify.com/track/3IMVnJdSxf273uAT13oWVV) | [Matt the Electrician](https://open.spotify.com/artist/4OqDaxbU5qV78AIr6HneTn) | [The Doubles](https://open.spotify.com/album/1qGM9zumfbz1UjQ1DQO83V) | 4:24 |
 | 90 | [The It Girl](https://open.spotify.com/track/04Tk8Bp1n4PPRFJGTNCooO) | [Raye Zaragoza](https://open.spotify.com/artist/14w8BJMukAOb1KQuY3d5Jc) | [Woman in Color](https://open.spotify.com/album/7pPR3wabtIfX0k3qN8uGeY) | 2:42 |
 | 91 | [That's Me](https://open.spotify.com/track/1SshcXIch75TJA0nzkjih1) | [Tara MacLean](https://open.spotify.com/artist/1It4wk41Lhrspxd3awN9FJ) | [Silence](https://open.spotify.com/album/7o0ltTed6bT7BwFe1FRRHJ) | 4:34 |
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 | 97 | [Follow the Love](https://open.spotify.com/track/2UyLEEmjnxdk7DSBsSuex7) | [Forest Sun](https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf) | [Follow the Love](https://open.spotify.com/album/0YucyEXauM05RvXbQ5Nc8z) | 2:27 |
 | 98 | [Who You Are](https://open.spotify.com/track/2o6KyL5Yo4vN0YA4sTyrPE) | [Michaela Anne](https://open.spotify.com/artist/2k8aGdvE3NAchqmiplJANn) | [Who You Are](https://open.spotify.com/album/4dr0GU9HpLwxU2XSKn08fZ) | 3:51 |
 | 99 | [The Trilogy](https://open.spotify.com/track/275xqFMng0ehc3kys4jGjS) | [Abby Posner](https://open.spotify.com/artist/4HwDnSGknwnSPJbN6dUZVs) | [Kisbee Ring](https://open.spotify.com/album/77G5YIsWET0iiz9NIC8r31) | 2:49 |
-| 100 | [We Believe You](https://open.spotify.com/track/2Wbvgw07sYpbgaNnHm7eaE) | [Diana Jones](https://open.spotify.com/artist/5UV85ewmX2Ls0NN9KaW0fX) | [Song to a Refugee](https://open.spotify.com/album/1vws9AOFerzmU4auFU5UfA) | 3:57 |
+| 100 | [We Believe You](https://open.spotify.com/track/2Wbvgw07sYpbgaNnHm7eaE) | [Diana Jones](https://open.spotify.com/artist/5UV85ewmX2Ls0NN9KaW0fX) | [Song to a Refugee](https://open.spotify.com/album/1vws9AOFerzmU4auFU5UfA) | 0:29 |
 | 101 | [The Marsh](https://open.spotify.com/track/1T0lZQp5aePjxYiagJDbCh) | [California Guitar Trio](https://open.spotify.com/artist/5FIMSkuYEetTYDWOJPOl6A) | [Highlights](https://open.spotify.com/album/6jNHa2UqUit3p6Thl0lX55) | 5:00 |
 | 102 | [Stone](https://open.spotify.com/track/3EvwlSKR5zWc6czotBgHjt) | [South for Winter](https://open.spotify.com/artist/1CCtgClqhDqOl41ZP4dDM8) | [Luxumbra](https://open.spotify.com/album/6tuPw3zqBfnHXcapINKznr) | 5:11 |
 | 103 | [Still Waters](https://open.spotify.com/track/1gm1cXrVxTiaGAADSL2kDp) | [The Hello Darlins](https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC), [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Go by Feel](https://open.spotify.com/album/1UjpzHQIWrIJ0sadIoxnuK) | 4:02 |
@@ -125,7 +125,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 | 115 | [Just Pick One](https://open.spotify.com/track/77TVhN6bb5SGqHDM7wCqPX) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Just Pick One](https://open.spotify.com/album/5iLEZzs8ZELq9dnK9krazU) | 3:01 |
 | 116 | [May](https://open.spotify.com/track/3kfXRPnEqfAEOeKKX4UszE) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Still Life](https://open.spotify.com/album/69bmzUtPRFNdCMjsiD11kJ) | 3:58 |
 | 117 | [Someone](https://open.spotify.com/track/5r0ixRffPjtVlj2VUbCTcm) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU), [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Someone](https://open.spotify.com/album/6OG669baXFkVHumwTUqVfP) | 3:37 |
-| 118 | [2020 Vision](https://open.spotify.com/track/6RLxchD1PMUeM4p8x9tgU7) | [Danny Schmidt](https://open.spotify.com/artist/5th2qoAWV7PiSo8r9zlIRD) | [2020 Vision](https://open.spotify.com/album/0Y3eVuwwMZVxU6LsZmm307) | 4:45 |
+| 118 | [2020 Vision](https://open.spotify.com/track/6RLxchD1PMUeM4p8x9tgU7) | [Danny Schmidt](https://open.spotify.com/artist/5th2qoAWV7PiSo8r9zlIRD) | [2020 Vision](https://open.spotify.com/album/0Y3eVuwwMZVxU6LsZmm307) | 0:29 |
 | 119 | [When You Bloom \(Colorado\)](https://open.spotify.com/track/5s3xm36B4cG8nwNmfpz0bi) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs) | [Cycles](https://open.spotify.com/album/2rVf460T5uk97vo7pwM44L) | 4:01 |
 | 120 | [I Don't Care Anymore](https://open.spotify.com/track/6XHyMi9LFIdxAnt6On5fyr) | [Taylor Abrahamse](https://open.spotify.com/artist/3JzUrN3evrP5dlMl9sM3wA) | [Taylor Abrahamse](https://open.spotify.com/album/1dWXyh0CaWOmgsvYecj6qW) | 4:24 |
 | 121 | [Iron Horse Gallup](https://open.spotify.com/track/5sCrvtVlJkJkzc7x7uWH98) | [The Delbert Anderson Trio](https://open.spotify.com/artist/4FBVfbxB8aMCmnLzzt4cz3) | [Manitou](https://open.spotify.com/album/0nPlHlIqsVHhc4eY9cfS86) | 5:29 |

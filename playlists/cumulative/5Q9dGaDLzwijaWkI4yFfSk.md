@@ -4,7 +4,7 @@
 
 > 
 
-45 songs - 2 hr 50 min - [published](https://open.spotify.com/playlist/068AiYIrmBFKV7esjtzVDQ)
+45 songs - 2 hr 39 min - [published](https://open.spotify.com/playlist/068AiYIrmBFKV7esjtzVDQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Krossa alla fönster](https://open.spotify.com/track/4gBWeVgSetIJQcGohFNLeE) | [Maskinen](https://open.spotify.com/artist/6nDcZd5c9z3OS5hWvCsWBf) | [Framgång & Efterfrågan](https://open.spotify.com/album/3AI2WJtdsq9jMtThYjqR3K) | 3:32 | 2014-03-20 |  |
 | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/track/2yz5IaQLnO8WBCIWMXoRBS) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE) | 3:48 | 2014-03-20 |  |
 | [Lilla Björn Och Lilla Tiger](https://open.spotify.com/track/5sgmvV6EOKw66cVmrBVlGy) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Tecken i tiden](https://open.spotify.com/album/41KuCx8jBaZ4jzsFZRonvO) | 3:09 | 2014-03-20 |  |
-| [Northern Lights](https://open.spotify.com/track/4OEmL49aDzQEnYm6WRneei) | [The Bots](https://open.spotify.com/artist/4BytPrwCFHaxTtfKxoaaxD) | [Ladies & Gentlemen](https://open.spotify.com/album/6wDSfnZJiHYNv5ahhnNVlN) | 3:40 | 2012-12-19 |  |
+| [Northern Lights](https://open.spotify.com/track/4OEmL49aDzQEnYm6WRneei) | [The Bots](https://open.spotify.com/artist/4BytPrwCFHaxTtfKxoaaxD) | [Ladies & Gentlemen](https://open.spotify.com/album/6wDSfnZJiHYNv5ahhnNVlN) | 0:29 | 2012-12-19 |  |
 | [Now & Forever \(feat\. Christian Älvestam\)](https://open.spotify.com/track/51nTBmTFLkWyw2BkFy0YJZ) | [Henrik B](https://open.spotify.com/artist/1qM7ddO1J0S7eGGnuVmEXn) | [Now & Forever \(feat\. Christian Älvestam\) \- Single](https://open.spotify.com/album/2Hz0CQtlTZBPpETS3Dazbl) | 7:57 | 2014-03-20 |  |
 | [Outrage](https://open.spotify.com/track/1QzAVlIpyUfaEW8LR9FfFy) | [Sister Sin](https://open.spotify.com/artist/3MdnMzNMNENgdrx91CvGR8) | [True Sound of the Underground](https://open.spotify.com/album/1FkNCsifWGxqhVbSupRkVO) | 3:27 | 2014-03-20 |  |
 | [Personal Jesus \- 2006 Digital Remaster](https://open.spotify.com/track/601h6t4AYzjENLTGjHDbhw) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Best Of Depeche Mode \- Volume One](https://open.spotify.com/album/6gHRLG5Gbjk3vwtgmadx1g) | 3:47 | 2014-03-20 |  |
@@ -50,8 +50,8 @@
 | [Vart jag än går](https://open.spotify.com/track/6b8iBwOw4dATCDGJ9EdljP) | [Stiftelsen](https://open.spotify.com/artist/00PLVqZ4oaOmbI4lacLUBO) | [Vart jag än går](https://open.spotify.com/album/3tMw7q1hz59JMQfHGZQhxW) | 3:28 | 2014-03-20 |  |
 | [What's The Point](https://open.spotify.com/track/5wJ21Tafkdymm6LX9xTJuj) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Mavericks](https://open.spotify.com/album/1wuMWkIWPFmNRDHCiAxBPg) | 4:15 | 2014-03-20 |  |
 | [Who's At The Door](https://open.spotify.com/track/3RhySASWf4Io3ivgL5g6te) | [Young Squage](https://open.spotify.com/artist/47NhkkzyXmVSUa2wXOmUbb) | [Who's At the Door](https://open.spotify.com/album/2ZCLiWOvWHzEQ1TBf2eoxR) | 4:05 | 2014-03-20 |  |
-| [Wings](https://open.spotify.com/track/0rf8whOpWQjuBqQwPbtLma) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC) | [Wings](https://open.spotify.com/album/2wiNiheGgmiI4irB7Zh7uJ) | 4:58 | 2012-10-25 |  |
-| [Wings \- Radio Version](https://open.spotify.com/track/12h1t8Nnzgv6u5m7q4qbJq) | [Lunde Bros](https://open.spotify.com/artist/3vfze5i984lHvh9VHS4fTJ) | [Wings](https://open.spotify.com/album/7BZIkNumU3UwFvUXssTpBr) | 3:58 | 2014-03-20 |  |
+| [Wings](https://open.spotify.com/track/0rf8whOpWQjuBqQwPbtLma) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC) | [Wings](https://open.spotify.com/album/2wiNiheGgmiI4irB7Zh7uJ) | 0:29 | 2012-10-25 |  |
+| [Wings \- Radio Version](https://open.spotify.com/track/12h1t8Nnzgv6u5m7q4qbJq) | [Lunde Bros](https://open.spotify.com/artist/3vfze5i984lHvh9VHS4fTJ) | [Wings](https://open.spotify.com/album/7BZIkNumU3UwFvUXssTpBr) | 0:29 | 2014-03-20 |  |
 | [Wolf](https://open.spotify.com/track/0I8neJTT3b16EzqvtXxt8K) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Wolf](https://open.spotify.com/album/4WGwICew7TZW1k2oTYkGrj) | 3:40 | 2014-03-20 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

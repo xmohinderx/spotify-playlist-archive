@@ -4,7 +4,7 @@
 
 > The best of the legendary composer.
 
-70 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/0h0rKNbh1QO8K3v7LZmRWf)
+70 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/0h0rKNbh1QO8K3v7LZmRWf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Mountains](https://open.spotify.com/track/6WVRhBxRMW9fn6sRkt2gWn) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7a78GiEowpaCa7ZJs44xUU) | 3:39 | 2021-07-26 |  |
 | [Now We Are Free](https://open.spotify.com/track/1elGwF4VwkwglV4nCBPJtv) | [Lisa Gerrard](https://open.spotify.com/artist/3C4MmUJYQN9svNdedAR2BK), [Klaus Badelt](https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q), [The Lyndhurst Orchestra](https://open.spotify.com/artist/6djeIA7Gl9v9gvnpRc1eIF) | [Gladiator \- Music From The Motion Picture](https://open.spotify.com/album/0mN9E0N4bRBD7GKktlaRI0) | 4:14 | 2021-07-26 |  |
 | [Oogway Ascends](https://open.spotify.com/track/3JX2XXNXlgpBnnqDlw2UTX) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [John Powell](https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP) | [Kung Fu Panda](https://open.spotify.com/album/63E6uxCxvkMSDhLZ8IV4mH) | 2:03 | 2021-07-26 |  |
-| [Oogway's Legacy](https://open.spotify.com/track/669yRYY5pluCp5dYOcDMDD) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Kung Fu Panda 3 \(Music from the Motion Picture\)](https://open.spotify.com/album/35vf79jnOBG3WZHQTzIl6a) | 2:00 | 2021-07-26 |  |
+| [Oogway's Legacy](https://open.spotify.com/track/669yRYY5pluCp5dYOcDMDD) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Kung Fu Panda 3 \(Music from the Motion Picture\)](https://open.spotify.com/album/35vf79jnOBG3WZHQTzIl6a) | 0:29 | 2021-07-26 |  |
 | [Open Road](https://open.spotify.com/track/4AZ2cfgMFMTY0zYXJXMsqU) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Open Road \(From Wonder Woman 1984\)](https://open.spotify.com/album/1YbLmCnQbXLV1yG6jJqAo5) | 5:36 | 2021-07-26 |  |
 | [Opening Titles](https://open.spotify.com/track/4y0Lt1KOuyhKGkGKFZjSlS) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Call of Duty: Modern Warfare 2 \(Original Game Score\)](https://open.spotify.com/album/2b1A9NPz9XwJjvbtE5aCuh) | 3:25 | 2021-07-26 |  |
 | [Paul's Dream](https://open.spotify.com/track/37PudxvY0tp3VeGqudCJfJ) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Paul's Dream \(Dune: Music from the Soundtrack\)](https://open.spotify.com/album/5NPENYJdwcFMwMBlwyfw32) | 7:03 | 2021-07-26 |  |

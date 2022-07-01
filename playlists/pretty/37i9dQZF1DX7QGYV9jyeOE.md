@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QGYV9jyeOE.md) - [plain]
 
 > Classic and contemporary pioneers of New Age music\. Cover: Pauline Anna Strom
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,066 likes - 72 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,076 likes - 72 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QGYV9jyeOE.md) - [plain]
 | 56 | [Reflections](https://open.spotify.com/track/51UWxmmOgBSLb3TB3LQdlt) | [Michele Ippolito](https://open.spotify.com/artist/02T9iupvpUM5kUAXy74bOM) | [In The Clouds](https://open.spotify.com/album/5S8W67erHZKChkn5Z65L8i) | 7:59 |
 | 57 | [Chambers of the Heart](https://open.spotify.com/track/3OrwR5F1kWsUgoYhBZSogm) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Set Free](https://open.spotify.com/album/6BJkMm8AYHb1sA8ufP527w) | 4:37 |
 | 58 | [Touching the Sky](https://open.spotify.com/track/31nV5do766NYndAZPlNT88) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [Hearing Music](https://open.spotify.com/album/58gzJUm5d9qzbv2LckicoZ) | 5:04 |
-| 59 | [Silent Wolf](https://open.spotify.com/track/5VIsj4I7FufxKKyVa8ambj) | [Mary Youngblood](https://open.spotify.com/artist/0pRrf0i6X4uUIdzYrA2mDz) | [Dance with the Wind](https://open.spotify.com/album/1rWvERc73t9QUtAKw4sgLP) | 2:56 |
+| 59 | [Silent Wolf](https://open.spotify.com/track/5VIsj4I7FufxKKyVa8ambj) | [Mary Youngblood](https://open.spotify.com/artist/0pRrf0i6X4uUIdzYrA2mDz) | [Dance with the Wind](https://open.spotify.com/album/1rWvERc73t9QUtAKw4sgLP) | 0:29 |
 | 60 | [Face of Things](https://open.spotify.com/track/1rAbmEmh5lvSoL7elbKWky) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Harmonic Dreams](https://open.spotify.com/album/59NYhfyieB8lMKSiuxarUP) | 5:36 |
 | 61 | [Little Orange Tree](https://open.spotify.com/track/3SMjkAqSEXwGvxXNqWCt1r) | [Irene Papas](https://open.spotify.com/artist/67jA8fjiDYG0HwAwsvZsZu), [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Odes](https://open.spotify.com/album/0HPecu2cHW2o2y13fP3EEF) | 5:44 |
 | 62 | [The Healing Spirit](https://open.spotify.com/track/1VYFtuXIZE8Mh9u7OHl4Y0) | [Diane Arkenstone](https://open.spotify.com/artist/7tACdDgcOW9HHM1Z4T3L29) | [The Healing Spirit](https://open.spotify.com/album/1F10bJp6oauVcAYNrFzyzY) | 3:43 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CtuHQcongT.md) - [plain]
 
 > Enjoy game music from SEGA classic soundtracks including SONIC, SPACE HARRIER and OutRun\. SEGA名作ゲームサントラの世界へようこそ！
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,337 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,385 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CtuHQcongT.md) - [plain]
 | 27 | [Leaf Forest \- Sonic Advance 2](https://open.spotify.com/track/6S8Y02WtPGE7TJb5jYQix9) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [Teruhiko Nakagawa](https://open.spotify.com/artist/5SNXOOQ9It50YqS1l7ePjT) | [Sonic Sound Station Selection \(Vol.1\)](https://open.spotify.com/album/434xk86KFTCIaIHEDSI4z7) | 2:58 |
 | 28 | [Anu Orta Veniya](https://open.spotify.com/track/3E974axWCqFooWXzzuIvFc) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [パンツァードラグーン オルタ オリジナルサウンドトラック](https://open.spotify.com/album/1KZnXO5UQT0rzoLhDRQDze) | 5:28 |
 | 29 | [Final Take Off \(アフターバーナーII\)](https://open.spotify.com/track/2Mc7ECLExHhKvciHLMRuZg) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [セガ・サウンド・セレクション](https://open.spotify.com/album/7DVYHz4ZoDpRyQ6pXad5u5) | 4:02 |
-| 30 | [Escape From The City ...for City Escape](https://open.spotify.com/track/62iSTIV5QWHuiEjQRCdaJO) | [Jun Senoue](https://open.spotify.com/artist/04jFPnV89o5zz9qix9wAVZ), [Ted Poley](https://open.spotify.com/artist/1uQyJRZqbvwsUqHgEuIEI9), [Tony Harnell](https://open.spotify.com/artist/6alD2yMb2cpw8pQs4iR6DE) | [Sonic Adventure 2 Original Soundtrack \(vol.1\)](https://open.spotify.com/album/65eoTk5UOmvYKO6diQCd2O) | 2:20 |
+| 30 | [Escape From The City ...for City Escape](https://open.spotify.com/track/62iSTIV5QWHuiEjQRCdaJO) | [Jun Senoue](https://open.spotify.com/artist/04jFPnV89o5zz9qix9wAVZ), [Ted Poley](https://open.spotify.com/artist/1uQyJRZqbvwsUqHgEuIEI9), [Tony Harnell](https://open.spotify.com/artist/6alD2yMb2cpw8pQs4iR6DE) | [Sonic Adventure 2 Original Soundtrack \(vol.1\)](https://open.spotify.com/album/65eoTk5UOmvYKO6diQCd2O) | 0:29 |
 | 31 | [Rush a Difficulty \(Turbo Out Run\)](https://open.spotify.com/track/7v6fWxAbnGkpf8yrwnsqsE) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [アウトラン オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/38PUHL4Ab0rky3W6Lnmp4r) | 3:30 |
 | 32 | [Humming The Bassline](https://open.spotify.com/track/1udnWT8KqEZbSUS9T7j7LQ) | [Hideki Naganuma](https://open.spotify.com/artist/3ULvi5IjU8vjBJW3e8EPLz) | [Jet Set Radio SEGA Original Tracks](https://open.spotify.com/album/6X6DxlTL1BB50VLvEzRD7h) | 2:54 |
 | 33 | [Skyscraper Tokyo](https://open.spotify.com/track/2iLSmnj2JsViDmiZ88AxLq) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [Kunoichi Original Soundtrack](https://open.spotify.com/album/3Pjqdn0SUjlcQWGAEYGU2A) | 4:00 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest, freshest R&B tunes\.  Cover: Chris Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 899,889 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 900,502 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 21 | [G Love \(feat\. Nippa\)](https://open.spotify.com/track/7soiVKuzcPN27yw54lQ6f9) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [G Love \(feat\. Nippa\)](https://open.spotify.com/album/5ErGBdn17S9GLaKIfMesq6) | 3:07 |
 | 22 | [wish that i could](https://open.spotify.com/track/5w4q9Es264UdYYr2AjnPhU) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Forest in the City](https://open.spotify.com/album/7ijzh3hVmlwWRxuJGPSoeR) | 3:27 |
 | 23 | [Ease Up](https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Most Wanted \(Deluxe\)](https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt) | 3:41 |
-| 24 | [hurt \(feat\. Somni\)](https://open.spotify.com/track/03SQMh0CFBDYSrqmbk5hWH) | [Criibaby](https://open.spotify.com/artist/6gQzBYh1naIayoJA567ATQ), [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [hurt](https://open.spotify.com/album/24Krp20zsgYBvpisHMRBLI) | 2:12 |
+| 24 | [hurt \(feat\. Somni\)](https://open.spotify.com/track/03SQMh0CFBDYSrqmbk5hWH) | [Criibaby](https://open.spotify.com/artist/6gQzBYh1naIayoJA567ATQ), [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [hurt](https://open.spotify.com/album/24Krp20zsgYBvpisHMRBLI) | 0:29 |
 | 25 | [Chocolate Covered Strawberries](https://open.spotify.com/track/3qzHEwPUvoo5jX1a3htb0G) | [Shelley FKA DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Chocolate Covered Strawberries](https://open.spotify.com/album/00CseI2AUDprGKCOJcJzvb) | 4:10 |
 | 26 | [Diva](https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Diva](https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih) | 3:27 |
 | 27 | [Pain](https://open.spotify.com/track/51Q4Pn44Ys7D8GCNzVLDmg) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Pain](https://open.spotify.com/album/69Ke0HAzE1LmRKssAojkwN) | 2:33 |

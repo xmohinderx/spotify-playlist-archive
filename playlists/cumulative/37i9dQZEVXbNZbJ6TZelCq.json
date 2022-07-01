@@ -2320,6 +2320,24 @@
     },
     {
       "album": {
+        "name": "CARDU' \u0218I PINU'",
+        "url": "https://open.spotify.com/album/3TO2wpt87d3rsDoPA7VRgj"
+      },
+      "artists": [
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165981,
+      "name": "CARDU' \u0218I PINU'",
+      "url": "https://open.spotify.com/track/167RJ5wk3zJGkijyqBrYuB"
+    },
+    {
+      "album": {
         "name": "Capitanu'",
         "url": "https://open.spotify.com/album/02pCTaVkNsyCBOruPrEO2i"
       },
@@ -2803,7 +2821,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 159600,
       "name": "CONTACT FATAL",
       "url": "https://open.spotify.com/track/5IqPGGvekdnZis9XhcyXeh"
@@ -3043,7 +3061,7 @@
       ],
       "date_added": "2021-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 141333,
       "name": "Cum O Dai Tu",
       "url": "https://open.spotify.com/track/5TL2ui5tdet8DSvZTaHZbe"
@@ -8337,7 +8355,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 163200,
       "name": "LUX",
       "url": "https://open.spotify.com/track/19sabig1utocg27L2pE1dj"
@@ -8827,7 +8845,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 152727,
       "name": "Monalisa",
       "url": "https://open.spotify.com/track/0eNEHzEWdGZE8iHqzzbME2"
@@ -10219,7 +10237,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 210811,
       "name": "Papusa Barbie",
       "url": "https://open.spotify.com/track/5hlKmxQyK8TXVsuUBY0ZLo"
@@ -11633,7 +11651,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 204939,
       "name": "Run BTS",
       "url": "https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM"
@@ -12091,7 +12109,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 180269,
       "name": "Scumpa foc",
       "url": "https://open.spotify.com/track/0d0cWBpOR0GXdz7iDShLQQ"

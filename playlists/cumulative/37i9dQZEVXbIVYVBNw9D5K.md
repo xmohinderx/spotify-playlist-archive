@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-458 songs - 23 hr 38 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
+458 songs - 23 hr 32 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Anıları Sakla](https://open.spotify.com/track/4MKL1sm8VqknemVs2yjs4M) | [Batuhan Kordel](https://open.spotify.com/artist/53GzfAvawfKb966INeFp18) | [Yolculuk](https://open.spotify.com/album/0ffhrMPhoprewPQPc5so04) | 3:36 | 2021-05-31 | 2021-12-25 |
 | [ARASAN DA](https://open.spotify.com/track/72jYQj3RgTR1DFLfibD71B) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [ARASAN DA](https://open.spotify.com/album/604LjoILfRCmhYuLCFvel7) | 3:11 | 2022-03-18 |  |
 | [Arıyorum](https://open.spotify.com/track/1jWXlhsOpwVGXtYUcI96tV) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Arıyorum](https://open.spotify.com/album/13SQLlpjrblc3zRrdBvr7E) | 3:13 | 2021-09-19 | 2022-01-05 |
-| [Arıyorum](https://open.spotify.com/track/6g6MHm9u0h2Em9Xuk89eqR) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Arıyorum](https://open.spotify.com/album/7oRC48c8HLAkGYcoBTtMwH) | 3:13 | 2022-01-04 | 2022-06-12 |
+| [Arıyorum](https://open.spotify.com/track/6g6MHm9u0h2Em9Xuk89eqR) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Arıyorum](https://open.spotify.com/album/7oRC48c8HLAkGYcoBTtMwH) | 3:13 | 2022-01-04 |  |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 | 2022-05-28 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-02 | 2022-05-16 |
 | [Astronaut In The Ocean](https://open.spotify.com/track/0BGwAKW4u8kWOhWFflZxfl) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean \(International Remixes\)](https://open.spotify.com/album/4YtSVQwETLHiKNZXySp7Mw) | 2:12 | 2021-05-30 | 2021-07-11 |
@@ -86,7 +86,7 @@
 | [Bi Bedeli Var](https://open.spotify.com/track/1Yp69wntPFZYy5AokQC6Yz) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca) | [Bedeli Var](https://open.spotify.com/album/6SP4HNSraBsDw82Mv8xY3J) | 2:28 | 2021-04-26 | 2021-05-08 |
 | [Bi Daha Bi Daha](https://open.spotify.com/track/6LsfvgCDhypMTR0ODFjoT1) | [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [Bi Daha Bi Daha](https://open.spotify.com/album/1tebFD0J7cKzUFTKSMpxmH) | 3:16 | 2021-06-27 | 2021-07-01 |
 | [Bi Sonraki Hayatımda Gel](https://open.spotify.com/track/5SYkeNpjhJPFUMOP5TK8iw) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Made In Turkey](https://open.spotify.com/album/6YAnmcTG1SWdNCGpuLdCUM) | 2:47 | 2021-04-08 | 2021-04-10 |
-| [Bi' Tek Ben Anlarım](https://open.spotify.com/track/7toL7Re9rApzIuIFDaLQSe) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd) | [Bi' Tek Ben Anlarım](https://open.spotify.com/album/0cQbLrbLcdnLnyvYGlLEBV) | 3:16 | 2022-04-05 |  |
+| [Bi' Tek Ben Anlarım](https://open.spotify.com/track/7toL7Re9rApzIuIFDaLQSe) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd) | [Bi' Tek Ben Anlarım](https://open.spotify.com/album/0cQbLrbLcdnLnyvYGlLEBV) | 0:29 | 2022-04-05 |  |
 | [Bi' Tık \- Sunrise Version](https://open.spotify.com/track/72ZFkAcPQ9NEnpu9TO0xcR) | [Ajda Pekkan](https://open.spotify.com/artist/27XMnTLvCO7t3qGlQyTMkF) | [Ajda](https://open.spotify.com/album/3bSxoHKw2PE7i1Z2WRn3zC) | 3:38 | 2022-01-09 | 2022-02-11 |
 | [Bi' Şarkı](https://open.spotify.com/track/0ZHMs8U7esn0hFp8eBM7sQ) | [Tanerman](https://open.spotify.com/artist/1X8IDE7vOMFmhR8Hg32EGA), [Contra](https://open.spotify.com/artist/3tJELJoPZ4VTKmL0vppqLj) | [Bi' Şarkı](https://open.spotify.com/album/0O0QyDHtHfV5DmCXTEijhO) | 2:52 | 2021-12-05 | 2021-12-06 |
 | [Bikinisinde Astronomi \(Bonus Trek\)](https://open.spotify.com/track/2Nw7SJPxBMbkQdTVPatSgR) | [Son Feci Bisiklet](https://open.spotify.com/artist/4q2SZIdLq6YTc9cZLCclWc) | [Son Feci EP](https://open.spotify.com/album/0xf8Fop940B7lQoODf6Ccv) | 3:01 | 2022-02-10 | 2022-02-16 |
@@ -105,7 +105,7 @@
 | [Bu Aşkta Zararım Var](https://open.spotify.com/track/1MsCY6QzxtZLZ7tsgRCfhX) | [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3) | [Bu Aşkta Zararım Var](https://open.spotify.com/album/4IcObM2kZAOPyrF1mUa3hw) | 3:17 | 2021-08-22 | 2021-08-27 |
 | [Bu da Geçer mi Sevgilim](https://open.spotify.com/track/4knoybQvMTZkuTI8dWx7ZA) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Bu da Geçer mi Sevgilim](https://open.spotify.com/album/1xCT8zKbhD3aur3tPjwuUq) | 3:20 | 2022-01-15 | 2022-01-21 |
 | [Bu Gün Bayram](https://open.spotify.com/track/4sNTDiLygCF0NAo3vDqhY2) | [Barış Manço](https://open.spotify.com/artist/3eVuump9qyK0YCQQo4mKbc) | [24 Ayar](https://open.spotify.com/album/5Ii0po9FpJQPqCwlY8xGze) | 2:35 | 2021-05-15 | 2021-05-16 |
-| [Bu Saatten Sonra](https://open.spotify.com/track/53QUjrQ8BygCTBXfIs1Beu) | [İkilem](https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3) | [Bu Saatten Sonra](https://open.spotify.com/album/6wtf8zyYddES6YnnVwqxRH) | 3:51 | 2022-01-05 |  |
+| [Bu Saatten Sonra](https://open.spotify.com/track/53QUjrQ8BygCTBXfIs1Beu) | [İkilem](https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3) | [Bu Saatten Sonra](https://open.spotify.com/album/6wtf8zyYddES6YnnVwqxRH) | 3:51 | 2022-01-05 | 2022-07-01 |
 | [Bu Son Olsun](https://open.spotify.com/track/5QfhqYAS8wmNnvFuOgLNRs) | [Cem Karaca](https://open.spotify.com/artist/1lIbZfJvMQRqzhtCQsg5EI) | [Bu Son Olsun](https://open.spotify.com/album/30oGctq0ESNTuT5zX5SYfp) | 2:46 | 2021-08-27 | 2022-03-02 |
 | [Bu Yüzden](https://open.spotify.com/track/4EstSHM71cWOVCvIG4pTVB) | [Güncel Gürsel Artıktay](https://open.spotify.com/artist/0zG7sxSKeAruWiPCDGiKS1) | [Bekliyorum, Öyleyse Yoksun](https://open.spotify.com/album/3qCFtgdLIDnmPldKDWbhXL) | 4:21 | 2021-05-10 | 2021-05-19 |
 | [Bul Beni](https://open.spotify.com/track/1riBwVUqVsk5RGJ9iLN8cG) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Bul Beni](https://open.spotify.com/album/79oroEdFGvT0h2a3QH9KEk) | 2:34 | 2021-07-04 | 2022-03-01 |
@@ -433,7 +433,7 @@
 | [Yandı İçim](https://open.spotify.com/track/7MyRfqDBr6vXMgzjys2vmz) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Yandı İçim](https://open.spotify.com/album/7dRnmuXYuZzaeaXFKNuu8D) | 4:03 | 2021-09-19 | 2021-09-26 |
 | [Yandırdın Beni](https://open.spotify.com/track/1corFz8NVeSVGgt0X44sCs) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS), [FRO](https://open.spotify.com/artist/0FFa4QdxeEcPI6xd0pPxeI) | [Yandırdın Beni](https://open.spotify.com/album/3x4zkK1aC5OgeAoTXCQxj8) | 3:52 | 2021-08-22 | 2021-08-30 |
 | [YAPAMAM](https://open.spotify.com/track/6sghbExwQySHgaMjuYNa0X) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 2:03 | 2022-03-20 | 2022-04-04 |
-| [Yara](https://open.spotify.com/track/1IquNFg2RRH1CLRAHNVgQ9) | [Kalben](https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV) | [Sonsuza Kadar](https://open.spotify.com/album/3ETbFTNmbuKtqoRtnmjTI0) | 3:33 | 2022-03-21 |  |
+| [Yara](https://open.spotify.com/track/1IquNFg2RRH1CLRAHNVgQ9) | [Kalben](https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV) | [Sonsuza Kadar](https://open.spotify.com/album/3ETbFTNmbuKtqoRtnmjTI0) | 0:29 | 2022-03-21 |  |
 | [Yaralarını Ben Sarayım](https://open.spotify.com/track/2pTwhAbZHkM1CyDYe1k8hl) | [Berk Baysal](https://open.spotify.com/artist/54R13HT0PZ7sa6xMm9YpDS) | [Olmuyor Böyle](https://open.spotify.com/album/0UKC1bSDFuCunQZudf6jnt) | 3:58 | 2022-03-08 | 2022-06-05 |
 | [Yarım](https://open.spotify.com/track/57rovEuHglDmpx84Oir2Nu) | [Didomido](https://open.spotify.com/artist/4n07t89zwwIvAfHvgvdCWf) | [Yarım](https://open.spotify.com/album/1qfUQl8m2UfTawiCrwHgsd) | 2:14 | 2021-05-23 | 2021-06-24 |
 | [Yarım Kalan Sigara](https://open.spotify.com/track/0HbKbkAMK7Wnps5vpZW4j2) | [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y), [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [Kron1k](https://open.spotify.com/album/5f1l54Z4YUjdxhR7DqDZIS) | 3:03 | 2022-01-17 |  |

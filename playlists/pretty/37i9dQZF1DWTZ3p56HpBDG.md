@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 
 > Home to english South Asian tracks, acclaimed worldwide \- Cover: Joy Crookes
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,838 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,876 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 | 32 | [Gluttony](https://open.spotify.com/track/1O1XxaZ8Yyjxl6mlN18Xz4) | [Shreea Kaul](https://open.spotify.com/artist/1c203LuoIFKuIn2X5Uz5lE) | [Gluttony](https://open.spotify.com/album/20tenLppJDI4jly4ZmPNrz) | 3:09 |
 | 33 | [Need Your Love](https://open.spotify.com/track/1bZzONEMrE3LOliPoFF9pb) | [THEMXXNLIGHT](https://open.spotify.com/artist/7crF48BmAnNaoNU8QPVld0) | [Need Your Love](https://open.spotify.com/album/3XgYXKKUEwLlinpAnKcZmB) | 2:52 |
 | 34 | [Out Of Order](https://open.spotify.com/track/2uQk7j469l313v2jRJEb9I) | [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5) | [Out Of Order](https://open.spotify.com/album/0jnhqLUVvEbAx1Ui21qOfp) | 3:04 |
-| 35 | [Firestarter](https://open.spotify.com/track/6OKflEmwo66otVCLryCSqt) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Firestarter](https://open.spotify.com/album/6gs8SxesV2lUoXo6x3PZWh) | 2:35 |
+| 35 | [Firestarter](https://open.spotify.com/track/6OKflEmwo66otVCLryCSqt) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Firestarter](https://open.spotify.com/album/6gs8SxesV2lUoXo6x3PZWh) | 0:29 |
 | 36 | [If Only](https://open.spotify.com/track/4jyU03J2YOhRxgOHit2auK) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [If Only](https://open.spotify.com/album/3uXIOaZWXwkW3CYVwcIxLy) | 3:21 |
 | 37 | [Hurt](https://open.spotify.com/track/01r2bMKzV1xfmLrOed0yt5) | [Badgirl$](https://open.spotify.com/artist/1tVVNIotf3Fc4iylC56Wae) | [Bethnal](https://open.spotify.com/album/128HVkRyaSsgsXoO4osxZZ) | 3:04 |
 | 38 | [I Got a Love \(feat\. Vaishnavi\)](https://open.spotify.com/track/4ru01kh7G9sJIDUQNlR5pW) | [Noyz](https://open.spotify.com/artist/2dRf2Z39elCmKDUpxYN4oU), [Dusty Loops](https://open.spotify.com/artist/1Sja1owKxiXrmS7Zmoz4TM), [Vaishnavi](https://open.spotify.com/artist/7p0naMhqhKwLvpau5umfAV) | [I Got a Love \(feat\. Vaishnavi\)](https://open.spotify.com/album/2MBpdQozDD04eMXdPRHk0k) | 2:33 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 | 50 | [Kind of Funny](https://open.spotify.com/track/6Xt7ty29yp1BaySlwlyO1n) | [The LJ](https://open.spotify.com/artist/59iMrqhx3qr6U7343wM1Fc) | [Kind of Funny](https://open.spotify.com/album/5dgmfDEJDva4d7tXgQueB2) | 2:56 |
 | 51 | [With You](https://open.spotify.com/track/1lnPygfVghWoKJAxaStV98) | [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J) | [With You](https://open.spotify.com/album/785lkxM1RtJpOAipcL2DrB) | 3:14 |
 | 52 | [Toba Tek Singh](https://open.spotify.com/track/40YF7t5DgNQBXsrul31hdr) | [Riz Ahmed](https://open.spotify.com/artist/5R8TntIOEwJcu4NnhGi8KW) | [The Long Goodbye](https://open.spotify.com/album/7bhh6bvHq7hqc2VQFgrwE5) | 3:03 |
-| 53 | [Here](https://open.spotify.com/track/6ggzsFVDrkWpHIAQCyHvQv) | [Zoya](https://open.spotify.com/artist/1pgxAcdxuIlb6Ax2xioK30) | [Here](https://open.spotify.com/album/60A4f8ndrZ2yzrKHxTqI9X) | 2:48 |
+| 53 | [Here](https://open.spotify.com/track/6ggzsFVDrkWpHIAQCyHvQv) | [Zoya](https://open.spotify.com/artist/1pgxAcdxuIlb6Ax2xioK30) | [Here](https://open.spotify.com/album/60A4f8ndrZ2yzrKHxTqI9X) | 0:29 |
 | 54 | [Lover Boy](https://open.spotify.com/track/1fCHffQ4QJ1kRtQTRpR78V) | [King Acne](https://open.spotify.com/artist/1Xh7NfBiZq2PAyTaKNQ1K8) | [Lover Boy](https://open.spotify.com/album/1Pd1lUjWCm2ZJ7HFb3DfEE) | 3:48 |
 | 55 | [Bad Girls Dream](https://open.spotify.com/track/1121Ycebu41AqMwVtiCufT) | [Zoya](https://open.spotify.com/artist/1pgxAcdxuIlb6Ax2xioK30), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Bad Girls Dream](https://open.spotify.com/album/3ikuwtXoKOh8Izx0bhXuan) | 3:20 |
 | 56 | [Hold On To Me](https://open.spotify.com/track/3jDhe6dzhLNV7gbhajjU7A) | [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5) | [Hold On To Me](https://open.spotify.com/album/7Kx9THhDWSes4d8kTHQldM) | 2:59 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 | 70 | [Do You Love Her Now](https://open.spotify.com/track/13JjdKeIUy6P916p3MemXn) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Do You Love Her Now / He](https://open.spotify.com/album/6DnxZc9FT5qSMKKFDdviO2) | 4:34 |
 | 71 | [Chance on We](https://open.spotify.com/track/3dcpIrXjCCE7bfIFOE8jEY) | [Kartik Kuna](https://open.spotify.com/artist/5kA8bovz1xGeNSZ2pjc2du), [Hansini](https://open.spotify.com/artist/15uvmvuAAPHIt3LfaccBTm) | [Chance on We](https://open.spotify.com/album/00ELulTJmsikMHAWdWnLCX) | 3:08 |
 | 72 | [the road](https://open.spotify.com/track/4bXPup4TDlsOf5YJA4xgoC) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [the road](https://open.spotify.com/album/3zOwc9sjMgxZeMV9AaLVKW) | 3:38 |
-| 73 | [Survive](https://open.spotify.com/track/4GandosKQX53ZXZ2UFsxiV) | [NOIXES](https://open.spotify.com/artist/4YeITwoqeIks45gELm488B), [Duava](https://open.spotify.com/artist/0F88EwGyoS0Mi3VftQjyEj) | [Survive](https://open.spotify.com/album/35iodS5CCRhzSJKAqtEFa4) | 2:37 |
+| 73 | [Survive](https://open.spotify.com/track/4GandosKQX53ZXZ2UFsxiV) | [NOIXES](https://open.spotify.com/artist/4YeITwoqeIks45gELm488B), [Duava](https://open.spotify.com/artist/0F88EwGyoS0Mi3VftQjyEj) | [Survive](https://open.spotify.com/album/35iodS5CCRhzSJKAqtEFa4) | 0:29 |
 | 74 | [Words](https://open.spotify.com/track/6x6SrRQ8QMb1M1Qeq965Ui) | [Shivum Sharma](https://open.spotify.com/artist/4quFKN9tkMu9ExIfUBp4M4) | [Words](https://open.spotify.com/album/6xZvABern8s4IjnT7y7cE5) | 4:22 |
 | 75 | [Two Nights](https://open.spotify.com/track/5BeS2mGbdYVfS53Q6bVinG) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Reminiscence EP](https://open.spotify.com/album/6fACkmxRXI0jzKkdvrTGeV) | 3:06 |
 

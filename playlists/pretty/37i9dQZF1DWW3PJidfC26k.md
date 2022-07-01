@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3PJidfC26k.md) - [plain]
 
 > <a href="https://www.hardlystrictlybluegrass.com/">Tune in</a> Oct\. 1\-3rd starting @ 1pm PT/4pm ET as HSB brings the music we all enjoy in the park to your living rooms and backyards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,780 likes - 60 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,797 likes - 60 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3PJidfC26k.md) - [plain]
 | 7 | [Stay](https://open.spotify.com/track/0sxik8HSqCPADJ3Z9d4khp) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Stay \(Little Dragon Remix\)](https://open.spotify.com/album/58CBjhuHtiy2PEhEgVQxS7) | 3:01 |
 | 8 | [Both Hands](https://open.spotify.com/track/4FJsFAdLFGqrmuM74CIzhs) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Ani DiFranco](https://open.spotify.com/album/7cdszxdNxyYrL9wkPPpCcw) | 3:38 |
 | 9 | [Fall](https://open.spotify.com/track/6WuUfl87iDScV1IqD5TT57) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv), [The E\-Collective](https://open.spotify.com/artist/3mLYbLsEXzIgdvikrVRK46), [Turtle Island String Quartet](https://open.spotify.com/artist/5ofemHoNWTjeADvzFTAhy2) | [Absence](https://open.spotify.com/album/1fzoq1zIpM4L6KOpjpfLdp) | 5:37 |
-| 10 | [Sunset Canyon](https://open.spotify.com/track/4YvOkz9IrldHkWiDZremSr) | [Foxwarren](https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV), [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx), [Darryl Kissick](https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc) | [Foxwarren](https://open.spotify.com/album/27NP9XgsqFi9sfV9RZaqOa) | 4:20 |
-| 11 | [Champagne Corolla](https://open.spotify.com/track/6zFZuHLAUd1JNDWtBQRDaQ) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [J.T.](https://open.spotify.com/album/02DqMqXTuEauf2EQsHZtmB) | 3:35 |
+| 10 | [Sunset Canyon](https://open.spotify.com/track/4YvOkz9IrldHkWiDZremSr) | [Foxwarren](https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV), [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx), [Darryl Kissick](https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc) | [Foxwarren](https://open.spotify.com/album/27NP9XgsqFi9sfV9RZaqOa) | 0:29 |
+| 11 | [Champagne Corolla](https://open.spotify.com/track/6zFZuHLAUd1JNDWtBQRDaQ) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [J.T.](https://open.spotify.com/album/02DqMqXTuEauf2EQsHZtmB) | 0:29 |
 | 12 | [Spanish On The Beach](https://open.spotify.com/track/3GTqzTpAxsqbXiiL3OBZQu) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Wilds](https://open.spotify.com/album/2IXuKQr2JhjocXGfkTmfPG) | 2:34 |
 | 13 | [Goin' Down To Louisiana](https://open.spotify.com/track/4rGe67WaPWFUZ083lKPzIC) | [Cedric Watson](https://open.spotify.com/artist/2a8PsBPX3LvG671uuQGDpq), [Corey Ledet](https://open.spotify.com/artist/5fOBJYdlwH0bXvmguPxrkY) | [Goin' Down to Louisiana](https://open.spotify.com/album/5BDHzun5HpuyGe3xNdfnRp) | 3:19 |
 | 14 | [Honey I Love You \(feat\. Keb' Mo'\)](https://open.spotify.com/track/13HyzdrX8NYUo0l3WVfxon) | [Dustbowl Revival](https://open.spotify.com/artist/3cB0nIIeIGSuMlw6rnu1dm) | [Dustbowl Revival](https://open.spotify.com/album/12lr2fucUT2rLSzHHQeBPE) | 3:33 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3PJidfC26k.md) - [plain]
 | 27 | [Campfire](https://open.spotify.com/track/3kkTF2ffofmjrKA3pf5kDF) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Sundowner](https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk) | 5:19 |
 | 28 | [Beside You](https://open.spotify.com/track/7hsfjU14z5Hf3waxOtMhqs) | [Dustbowl Revival](https://open.spotify.com/artist/3cB0nIIeIGSuMlw6rnu1dm) | [Is It You, Is It Me \(Deluxe Edition\)](https://open.spotify.com/album/5BnrDEO4rsPTZe4LengNcF) | 6:32 |
 | 29 | [I Have Learned To Do Without You](https://open.spotify.com/track/5wfxLwBob2D32KO95kFMtx) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Only For The Lonely](https://open.spotify.com/album/1XZX9ze6FQDnBSUdkb9k0m) | 4:14 |
-| 30 | [Harlem River Blues](https://open.spotify.com/track/5bSt4SKyltiU8g42jXwwos) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [J.T.](https://open.spotify.com/album/02DqMqXTuEauf2EQsHZtmB) | 3:10 |
+| 30 | [Harlem River Blues](https://open.spotify.com/track/5bSt4SKyltiU8g42jXwwos) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [J.T.](https://open.spotify.com/album/02DqMqXTuEauf2EQsHZtmB) | 0:29 |
 | 31 | [Hello Stranger \- Live](https://open.spotify.com/track/7DDT9pPrvuzuePgTluXU9b) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP), [The Nash Ramblers](https://open.spotify.com/artist/6kfIzjkF8DgvTSw0XlAJOh) | [Ramble in Music City: The Lost Concert \(Live\)](https://open.spotify.com/album/67Coweh6bxMgu7wijLpzGa) | 3:36 |
 | 32 | [Good Kisser](https://open.spotify.com/track/7BDbyDs5FUmnh955RABFd7) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Free Yourself Up](https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD) | 3:38 |
 | 33 | [Ride Away](https://open.spotify.com/track/7mbTpKeiHkrxWYQM9pmFWE) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Family Reunion](https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv) | 3:08 |

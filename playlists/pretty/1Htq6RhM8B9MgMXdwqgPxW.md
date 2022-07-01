@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1Htq6RhM8B9MgMXdwqgPxW.md) - [plain]
 
 > Break out of your routine with trios of tracks from some of the brightest new stars in Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 283 likes - 45 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 283 likes - 45 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/1Htq6RhM8B9MgMXdwqgPxW.md) - [plain]
 | 16 | [Real & Imagined](https://open.spotify.com/track/6YKYdsX76JCq5CkIy8eON4) | [Kait Dunton](https://open.spotify.com/artist/2uKlChPlTr6ONNvdtjZdRs) | [Real & Imagined](https://open.spotify.com/album/5oQK5juKTS7AawRCxFi3wb) | 7:45 |
 | 17 | [The Dream](https://open.spotify.com/track/0iAs0VdpjLi6ViVQGvufDb) | [Kait Dunton](https://open.spotify.com/artist/2uKlChPlTr6ONNvdtjZdRs) | [Mountain Suite](https://open.spotify.com/album/3Jr1BPchPc9ng0jZawH6N1) | 4:01 |
 | 18 | [Old Devil Moon](https://open.spotify.com/track/29mYr7HJ495Vn0UdKifc4y) | [Kait Dunton](https://open.spotify.com/artist/2uKlChPlTr6ONNvdtjZdRs) | [Old Devil Moon \- EP](https://open.spotify.com/album/5EbAJZMQc78rtUYfqDHay7) | 7:49 |
-| 19 | [The Eraser](https://open.spotify.com/track/71tQB5sKtc7bImFPxQTjz0) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Yesterday You Said Tomorrow](https://open.spotify.com/album/1yEatbNaAycy7doYijdili) | 5:25 |
-| 20 | [Isadora](https://open.spotify.com/track/7G9VsVr1m6YzaJgHyRgz4y) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Yesterday You Said Tomorrow](https://open.spotify.com/album/1yEatbNaAycy7doYijdili) | 6:13 |
+| 19 | [The Eraser](https://open.spotify.com/track/71tQB5sKtc7bImFPxQTjz0) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Yesterday You Said Tomorrow](https://open.spotify.com/album/1yEatbNaAycy7doYijdili) | 0:29 |
+| 20 | [Isadora](https://open.spotify.com/track/7G9VsVr1m6YzaJgHyRgz4y) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Yesterday You Said Tomorrow](https://open.spotify.com/album/1yEatbNaAycy7doYijdili) | 0:29 |
 | 21 | [Who They Wish I Was](https://open.spotify.com/track/1N3kGdise9hTlIumymRaF3) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Christian aTunde Adjuah](https://open.spotify.com/album/0s6hDtHpnJwD4scyBxlQGb) | 5:42 |
 | 22 | [Future Reflection](https://open.spotify.com/track/6R8almqiOinwc0V4iPo2GL) | [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8) | [Life Forum](https://open.spotify.com/album/73WbnDUyonkTUTPsmZYzjf) | 4:52 |
 | 23 | [Shadamanthem](https://open.spotify.com/track/5fR2HxVUlaSicq9q9rRmLj) | [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8) | [Life Forum](https://open.spotify.com/album/73WbnDUyonkTUTPsmZYzjf) | 6:37 |

@@ -4,7 +4,7 @@
 
 > Known as the Nation's Little Sister in South Korea.
 
-80 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/2OBhutric91PGuDVbVYx6j)
+80 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/2OBhutric91PGuDVbVYx6j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Next Stop](https://open.spotify.com/track/2qd4cLpENPf0gBia8WFi0m) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Pieces](https://open.spotify.com/album/3ivhPVStd9RrtczBFwjkMQ) | 3:56 | 2022-03-17 |  |
 | [Nitpicking](https://open.spotify.com/track/1kODSVImpAKU1bbZvlNX2s) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Nitpicking](https://open.spotify.com/album/5bB2nClfkdlG1ekRQGw8zT) | 3:33 | 2022-03-17 |  |
 | [Obliviate](https://open.spotify.com/track/2RENeWPEosqVewFaHSNnjT) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Modern Times](https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe) | 3:10 | 2022-03-17 |  |
-| [Only I didn't know](https://open.spotify.com/track/48uwqEenPJeJvFYdrM0qV7) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [REAL+](https://open.spotify.com/album/79725WrSou2C9RrEUxClUf) | 3:22 | 2022-03-17 |  |
+| [Only I didn't know](https://open.spotify.com/track/48uwqEenPJeJvFYdrM0qV7) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [REAL+](https://open.spotify.com/album/79725WrSou2C9RrEUxClUf) | 0:29 | 2022-03-17 |  |
 | [Palette \(feat\. G\-DRAGON\)](https://open.spotify.com/track/3y7ByLZ05tluscOTRgEJ9Y) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 3:37 | 2022-03-17 |  |
 | [Peach](https://open.spotify.com/track/3hbi6hayJ6OibzGe3fWLwf) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [The Spring of Twenty](https://open.spotify.com/album/2DSxe9W0Mv0IU2YMAbljYb) | 3:10 | 2022-03-17 |  |
 | [Pierrot laughs at us](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | 3:53 | 2022-03-17 |  |

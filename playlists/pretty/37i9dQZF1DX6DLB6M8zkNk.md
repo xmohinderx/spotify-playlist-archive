@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 
 > POV: you're the main character in a romance novel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,121 likes - 45 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,189 likes - 45 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 | 41 | [leaves and trees](https://open.spotify.com/track/17Cv0iBOjWabaeLqAMAxQf) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [ask the river](https://open.spotify.com/album/5t97v94T6a45YYBBQ7I21a) | 5:57 |
 | 42 | [Bach, JS: Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/5YDqSImE2uQDn7K7Gw6uvN) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Beatrice Rana](https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP) | [Bach: Goldberg Variations, BWV 988](https://open.spotify.com/album/1n5pafTMiQNC1CxWBA37Qb) | 5:06 |
 | 43 | [I Waited for You](https://open.spotify.com/track/3sVFj8qVKJAFgZvD77xsau) | [Aaron Zigman](https://open.spotify.com/artist/74M3iphMpn1MA2YUe2Iigb) | [The Best of Me \(Original Motion Picture Score\)](https://open.spotify.com/album/2TRHx1axpzpqApnQgS8TU1) | 1:30 |
-| 44 | [The Dance](https://open.spotify.com/track/3h3dJgoTzyn1N6HN8Lan5g) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn), [Latvian Radio Choir](https://open.spotify.com/artist/1FPk3Fo5EyBYOxEiT2V0jP), [BBC National Orchestra Of Wales](https://open.spotify.com/artist/1fhEh9FpKs42GFeqerlBUf) | [War & Peace \(Original Soundtrack by Martin Phipps\)](https://open.spotify.com/album/783EdYKCbDqS0I6TrCGCnl) | 3:01 |
+| 44 | [The Dance](https://open.spotify.com/track/3h3dJgoTzyn1N6HN8Lan5g) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn), [Latvian Radio Choir](https://open.spotify.com/artist/1FPk3Fo5EyBYOxEiT2V0jP), [BBC National Orchestra Of Wales](https://open.spotify.com/artist/1fhEh9FpKs42GFeqerlBUf) | [War & Peace \(Original Soundtrack by Martin Phipps\)](https://open.spotify.com/album/783EdYKCbDqS0I6TrCGCnl) | 0:29 |
 | 45 | [Stay with Me](https://open.spotify.com/track/4lWYROZtRMgHmDpdUtTI22) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2014, Vol\. 2](https://open.spotify.com/album/3kXPzEHhPKArQtzlQmPR9N) | 2:55 |
 
 Snapshot ID: `MTY1NjUwODY4OSwwMDAwMDAwYzAwMDAwMTgxYWY5Y2FiZTYwMDAwMDE4MWFmOWJhODZj`

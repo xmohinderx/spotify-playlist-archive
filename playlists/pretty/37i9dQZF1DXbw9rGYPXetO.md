@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbw9rGYPXetO.md) - [plain]
 
 > A selection of <a href="https://en.wikipedia.org/wiki/Hindustani\_classical\_music">North Indian Classical</a> instrumental music to help you focus and bring you joy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,050 likes - 37 songs - 12 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,047 likes - 37 songs - 11 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbw9rGYPXetO.md) - [plain]
 | 15 | [Rag Manj Khammaj](https://open.spotify.com/track/6wkuzkjsWM1Gk9zmRXiS7g) | [Ustad Ali Akbar Khan / Pandit Nikhil Banerjee](https://open.spotify.com/artist/1jelB3sYBf9MGpcd0GUlns), [Mahapurush Misra](https://open.spotify.com/artist/29kLzsMucI6Ao40Yk7jT5B) | [AMMP Signature Series Volume 4 \- Rag Manj Khammaj / Rag Misra Mand](https://open.spotify.com/album/1Td23rJHTglRiuGmiGO6W2) | 21:27 |
 | 16 | [Rajasthani Folk Melody in Raga Mand](https://open.spotify.com/track/3CNetfque43lmTkmZEVxLq) | [Santosh Nahar](https://open.spotify.com/artist/1NzfcWv0SxEZMg4Bm8XIvM) | [The Golden Bow](https://open.spotify.com/album/227981vkAdawvOqUpLJgIi) | 11:10 |
 | 17 | [Bhimpalasri alap \(solo\)](https://open.spotify.com/track/4taHZBFG2m7D9MuSL8eLvU) | [Alam Khan](https://open.spotify.com/artist/389sPNbjs6Hp0XSCP229JG), [Salar Nader](https://open.spotify.com/artist/4N2l0MiamQ0lJ7vLcPSdc8) | [Shades of Sarode \(with Salar Nader on tabla\)](https://open.spotify.com/album/2vLucVPJLppDLgSDgXEGuT) | 4:14 |
-| 18 | [Raga Des Alap](https://open.spotify.com/track/4a5DylC4oxQbPV11a7kW1X) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Introspection](https://open.spotify.com/album/2pDuvSYsImOFjzdlMf7XpQ) | 3:55 |
+| 18 | [Raga Des Alap](https://open.spotify.com/track/4a5DylC4oxQbPV11a7kW1X) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Introspection](https://open.spotify.com/album/2pDuvSYsImOFjzdlMf7XpQ) | 0:29 |
 | 19 | [Rag Misra Mand](https://open.spotify.com/track/0ppq8cAPs91MBoUb4vMiCw) | [Ustad Ali Akbar Khan / Pandit Nikhil Banerjee](https://open.spotify.com/artist/1jelB3sYBf9MGpcd0GUlns), [Mahapurush Misra](https://open.spotify.com/artist/29kLzsMucI6Ao40Yk7jT5B) | [AMMP Signature Series Volume 4 \- Rag Manj Khammaj / Rag Misra Mand](https://open.spotify.com/album/1Td23rJHTglRiuGmiGO6W2) | 21:30 |
 | 20 | [The Union of Sun and Moon](https://open.spotify.com/track/5TeU9ZMgLcoSl1evO7TV5b) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj) | 6:59 |
 | 21 | [Rag Bhimpalasi](https://open.spotify.com/track/3XaGTnDDHRWoAprRCfG3E8) | [Nishat Khan](https://open.spotify.com/artist/44XDC1eZWRjnCvpiAFSRQm), [Irshad Khan](https://open.spotify.com/artist/76RQHal6rjOqzZote9AL5y), [Shafaatullah Khan](https://open.spotify.com/artist/1JrHhcIQYFXGvjITblw4Mp) | [Rag Bhimpalasi & Rag Tilak Kamod](https://open.spotify.com/album/2KzwX8OU4S8LoCeUcwNzhK) | 41:59 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbw9rGYPXetO.md) - [plain]
 | 30 | [Raga Kaunsi Kanhra](https://open.spotify.com/track/2B2b8eQDigX0gcBWWpIFG2) | [Vishwa Mohan Bhatt](https://open.spotify.com/artist/1tY6Z4NEPI3xHhVA8VU9Jl) | [Guitar A La Hindustan](https://open.spotify.com/album/0p2uVASndftECemYMJM80y) | 29:48 |
 | 31 | [Shiva's Meditation](https://open.spotify.com/track/0TxmxoCQMiXvfFA6DPM1wT) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj) | 5:09 |
 | 32 | [Kaushi Kanada](https://open.spotify.com/track/2XOyluz7IWgOvvsRMtrYhw) | [Nikhil Banerjee](https://open.spotify.com/artist/7ieM2QOG3mf89WSTAfGvu1) | [Madras 1964](https://open.spotify.com/album/6cDIt3S7CdWT8WrjzuDtJz) | 43:39 |
-| 33 | [Darbari Kanada, Alap](https://open.spotify.com/track/4VXkCcN0Rk0sIOrotrNsnD) | [Vasant Rai](https://open.spotify.com/artist/0weh3Q47P9QCdXInoUNXxt) | [Live At Washington Square Church 1981](https://open.spotify.com/album/4WP2uHgYTDFCFOCEIfCNVE) | 26:13 |
+| 33 | [Darbari Kanada, Alap](https://open.spotify.com/track/4VXkCcN0Rk0sIOrotrNsnD) | [Vasant Rai](https://open.spotify.com/artist/0weh3Q47P9QCdXInoUNXxt) | [Live At Washington Square Church 1981](https://open.spotify.com/album/4WP2uHgYTDFCFOCEIfCNVE) | 0:29 |
 | 34 | [Raga Tilak Kamodi](https://open.spotify.com/track/1Mc58bywNOJT8vrMYunODv) | [Vishwa Mohan Bhatt](https://open.spotify.com/artist/1tY6Z4NEPI3xHhVA8VU9Jl) | [Guitar A La Hindustan](https://open.spotify.com/album/0p2uVASndftECemYMJM80y) | 17:07 |
 | 35 | [Raga: Durgeshwari](https://open.spotify.com/track/2No7gtZpdfhnvM2X4hHBqN) | [Ali Akbar Khan](https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u) | [Ustad Ali Akbar Khan 1973](https://open.spotify.com/album/0CztBdum7CC10WIMAEXeBN) | 19:36 |
 | 36 | [Rag Lalit](https://open.spotify.com/track/3LCx5zZm2UQPbWc8jQouOy) | [Ram Narayan](https://open.spotify.com/artist/1PLrw4LgEWD2tFlAfnCWND), [Suresh Talwalkar](https://open.spotify.com/artist/61TBwoNacct3xrgHpQrP1r) | [Rag Lalit](https://open.spotify.com/album/0DkxD68AiaxjiKyBDFhv9R) | 1:13:43 |

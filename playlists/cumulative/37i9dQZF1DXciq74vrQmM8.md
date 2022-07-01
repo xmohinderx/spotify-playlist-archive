@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. rico nasty
+> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. alice longyu gao + oli sykes
 
-231 songs - 11 hr 3 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
+233 songs - 11 hr 6 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [antifreeze\*](https://open.spotify.com/track/4kUxJuInSVt8lNtcTGbjKD) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [Ryan Leahan](https://open.spotify.com/artist/4BX7bOS5nj3842rKfEnTIg) | [antifreeze\*](https://open.spotify.com/album/0KcvKrAuuPIdpQmZpYx57o) | 2:02 | 2021-12-27 | 2022-01-19 |
 | [Archon](https://open.spotify.com/track/6fMWYAVmr6SVyt6vsxetYF) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Archon](https://open.spotify.com/album/28f8Dn5kYQQKmUoJx74V0Y) | 2:56 | 2021-12-27 | 2022-01-19 |
 | [Arguments](https://open.spotify.com/track/0mTWdpD4Q88OA9KWxzgb2K) | [CRASHFACE](https://open.spotify.com/artist/5KjrHPtIS2XCqs5zZwnydX) | [Arguments](https://open.spotify.com/album/09isQOmWP3x8pc9dmlKR8I) | 3:09 | 2021-12-27 | 2022-02-04 |
-| [Baby My Phone](https://open.spotify.com/track/2SjvBmZYIbQTJ7rrPgdmV8) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF) | [Baby My Phone](https://open.spotify.com/album/3fLglAkAwRiXwFKjGRQxQq) | 3:35 | 2022-04-19 |  |
+| [Baby My Phone](https://open.spotify.com/track/2SjvBmZYIbQTJ7rrPgdmV8) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF) | [Baby My Phone](https://open.spotify.com/album/3fLglAkAwRiXwFKjGRQxQq) | 0:29 | 2022-04-19 |  |
 | [bad luck](https://open.spotify.com/track/36vsIkYZOTxHxKPPFoE65Y) | [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [bad luck](https://open.spotify.com/album/0WSPPKm1jrkvYVCDbe5qub) | 2:49 | 2022-01-05 | 2022-02-13 |
 | [bad things](https://open.spotify.com/track/51DVbtD1BziDPKP0kbHcQN) | [NOT THE MAIN CHARACTERS](https://open.spotify.com/artist/3zXPbW06DXFBAToUstfD1V) | [bad things](https://open.spotify.com/album/5P2ahNLmrGy9JHJEJgkjon) | 2:01 | 2022-04-28 |  |
 | [BANSHEE HOLLOW](https://open.spotify.com/track/58flRCPtcit55PD4jaga1W) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [BANSHEE HOLLOW](https://open.spotify.com/album/52ytO4git0zRExoV1kK9zA) | 1:50 | 2021-12-27 | 2022-02-04 |
@@ -26,6 +26,7 @@
 | [be no one](https://open.spotify.com/track/0fVNG78xrpckyKseNP5XBv) | [Sepha.](https://open.spotify.com/artist/094ug46k28Q0tdaGPm3WNA) | [be no one](https://open.spotify.com/album/0ibbUkk4eihYg6X9qZdwNv) | 4:21 | 2021-12-27 | 2022-01-19 |
 | [BEDTIME STORIES](https://open.spotify.com/track/2St0YH2pzB2kp1BVGOi37R) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [BEDTIME STORIES / BLOOD](https://open.spotify.com/album/6fAFmYVvfI5PCTzzJxgTou) | 2:08 | 2022-06-09 |  |
 | [Behind Closed Doors](https://open.spotify.com/track/24A9gRCWE4Jza8DDhnur6C) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A), [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Behind Closed Doors](https://open.spotify.com/album/1U8ck3ysyU4iwNaagT7MCJ) | 3:03 | 2021-12-27 | 2022-02-18 |
+| [Believe the Hype \(feat\. Oli Sykes\)](https://open.spotify.com/track/0B8f2tTSavL7PzDy2X9jnB) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [Believe the Hype \(feat\. Oli Sykes\)](https://open.spotify.com/album/4YNUo0hHtFFlZztIDWzD4u) | 2:47 | 2022-06-30 |  |
 | [BERLIN](https://open.spotify.com/track/1BaEm7lJxDtoRZ1QmPcBZr) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [BERLIN](https://open.spotify.com/album/1CpDsqIBSXH8WCwEb8j8Y6) | 3:02 | 2021-12-27 | 2022-01-19 |
 | [Black Punk](https://open.spotify.com/track/00mQ7YTqP92vZU4jW4Zdxh) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Black Punk](https://open.spotify.com/album/2Uu7ur5jyDonV9tHvy4ILX) | 2:30 | 2022-06-16 |  |
 | [Bliss](https://open.spotify.com/track/3PqKbBKxV2mSgfWNwNAAjW) | [Santangelo](https://open.spotify.com/artist/23PgufXbWsCNunDb9szzKk) | [Bliss](https://open.spotify.com/album/3UmcyVzSGg6TiYckk55M0U) | 2:03 | 2021-12-27 | 2022-01-19 |
@@ -132,7 +133,7 @@
 | [Lost](https://open.spotify.com/track/3xd4GVGAuzJGdVZLEKvWea) | [Crim3s](https://open.spotify.com/artist/1ARDx2oCR7sJEjbnHsbbRU) | [Stay Ugly EP](https://open.spotify.com/album/4SdrdBBRHRo1CL6u3vJrR7) | 2:28 | 2022-02-12 |  |
 | [LOVE IS VIOLENCE](https://open.spotify.com/track/5Bii5cjilhQ9v3BSeSEhnM) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [LOVE IS VIOLENCE](https://open.spotify.com/album/3wrX9MJvRVrCEJGHGwNvH9) | 2:37 | 2022-01-12 | 2022-01-17 |
 | [Maggots](https://open.spotify.com/track/4z273kPQy8lRomWDuwOrb4) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Panic Attacks in Paradise / Maggots](https://open.spotify.com/album/5FmtIdXlRz4uyqjp7ECJsH) | 2:18 | 2021-12-27 |  |
-| [Major Waste](https://open.spotify.com/track/5MuPQoYQRnDTLKHcngLK32) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc) | [Major Waste](https://open.spotify.com/album/2dA5MOXJ7Zr0d45VYvvMy2) | 3:18 | 2022-03-25 |  |
+| [Major Waste](https://open.spotify.com/track/5MuPQoYQRnDTLKHcngLK32) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc) | [Major Waste](https://open.spotify.com/album/2dA5MOXJ7Zr0d45VYvvMy2) | 3:18 | 2022-03-25 | 2022-07-01 |
 | [Make Me Famous](https://open.spotify.com/track/0pOeZhJipQdF3qBiu1LjmC) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Make Me Famous](https://open.spotify.com/album/5xz5TT3z4Ik916eLPcaPr3) | 2:54 | 2022-05-19 |  |
 | [Mandy](https://open.spotify.com/track/0XXG3I04gjwqU9Q8rxQk8y) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Glitch Princess](https://open.spotify.com/album/6jBRjtrgSlOvQvrSdtQa8Q) | 2:20 | 2022-02-04 | 2022-02-13 |
 | [Mayhem](https://open.spotify.com/track/2LIuGi4rz0chV1yu5m0Exh) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Mayhem](https://open.spotify.com/album/5aa348jl2kEQVqxAgzcURH) | 2:40 | 2022-02-18 |  |
@@ -212,6 +213,7 @@
 | [survival of the littest](https://open.spotify.com/track/3VtoWz29VkRNtCMKfn6VZv) | [NOT THE MAIN CHARACTERS](https://open.spotify.com/artist/3zXPbW06DXFBAToUstfD1V) | [bad things come in 3s](https://open.spotify.com/album/29NCAQcGId5b4HAJp87xCM) | 2:12 | 2022-05-19 |  |
 | [The Foundations of Decay](https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Foundations of Decay](https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q) | 6:00 | 2022-05-17 |  |
 | [THE HUNTED](https://open.spotify.com/track/51E0TK4Hf3XMe87RQzVJAi) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [PREY//IV](https://open.spotify.com/album/0MA1g3G6pOmh1cc4FALDrZ) | 2:46 | 2022-02-18 |  |
+| [THE OUTSiDE](https://open.spotify.com/track/4w3wVlczJyL4zC627TcrFP) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [THE OUTSiDE](https://open.spotify.com/album/2fmiqcpr7yDQSuy3aUz9KY) | 3:03 | 2022-06-30 |  |
 | [THERAPY!](https://open.spotify.com/track/0GAWAziokyaTDufed63rEh) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [THERAPY!](https://open.spotify.com/album/54dV3Js8IaKPHDtF7vi6mW) | 2:13 | 2022-02-12 |  |
 | [this might be our last december](https://open.spotify.com/track/0M1dASu7GXGN0Bry7XcNRR) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [this might be our last december](https://open.spotify.com/album/0cOJKej242GN1wt65WW3N3) | 2:28 | 2021-12-27 | 2022-01-19 |
 | [Time](https://open.spotify.com/track/5HorhJ1JnFkJw0egrgg49I) | [Wavy The Creator](https://open.spotify.com/artist/5kr136hLeeKJznp60ieWdC), [Genre Benders](https://open.spotify.com/artist/3SHzP44kbcifa3M4f1zjSz) | [P.S\. Thank You for Waiting](https://open.spotify.com/album/51LUoIXs5uyiGkuQ9ExJtM) | 2:58 | 2021-12-27 | 2022-01-19 |

@@ -4,7 +4,7 @@
 
 > In honor of JAM, we're collecting your favorite jazz tracks! Share yours at \#SpotifyJAM
 
-40 songs - 2 hr 43 min - [published](https://open.spotify.com/playlist/3TcAGRFGBp7J7c40caudRt)
+40 songs - 2 hr 33 min - [published](https://open.spotify.com/playlist/3TcAGRFGBp7J7c40caudRt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Danny Boy](https://open.spotify.com/track/3Xch0LabPZa0zlZJRDePI3) | [Maynard Ferguson](https://open.spotify.com/artist/6T4kUHIlszpj944ZXR3yNw) | [The New Sounds Of Maynard Ferguson/Come Blow Your Horn](https://open.spotify.com/album/3H7BxA0OmUYrjOZb87oe0P) | 3:52 | 2015-07-23 |  |
 | [Dream A Little Dream Of Me \- Single Version](https://open.spotify.com/track/78aWV07CIrSfI903fIxjR1) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Best Of/20th/Eco](https://open.spotify.com/album/654HTArwowo5D1CxyULoxK) | 3:05 | 2015-07-23 |  |
 | [Drinking Again](https://open.spotify.com/track/3LSkJQ5LXcC4kRuKbluFoG) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Drinking Again](https://open.spotify.com/album/1Yc1wrf2bgbRKcrrb7hZzA) | 3:31 | 2015-07-23 |  |
-| [Easy Livin](https://open.spotify.com/track/2myfGe1fBz9QVr7IYZXb78) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [The Best Of Clifford Brown](https://open.spotify.com/album/0oWFL44UweyyQSawMSHA4L) | 3:44 | 2015-07-23 |  |
+| [Easy Livin](https://open.spotify.com/track/2myfGe1fBz9QVr7IYZXb78) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [The Best Of Clifford Brown](https://open.spotify.com/album/0oWFL44UweyyQSawMSHA4L) | 0:29 | 2015-07-23 |  |
 | [Feeling Good](https://open.spotify.com/track/6ipZfr1msvNOxyroHB0s3w) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Four Women: The Complete Nina Simone On Philips](https://open.spotify.com/album/3uwhj7rbDBY0J5nIkT2MBc) | 2:53 | 2015-07-23 |  |
 | [God Bless the Child](https://open.spotify.com/track/5Uftxvqqbi70QdCpLb0fKu) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Essential Sonny Rollins: The RCA Years](https://open.spotify.com/album/3R5sCFT6kTHnjbNuPCC7ud) | 7:25 | 2015-07-23 |  |
 | [Goodbye Pork Pie Hat](https://open.spotify.com/track/3PJMsxg6rz9FOo6xNiASXz) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 5:42 | 2015-07-23 |  |
@@ -44,8 +44,8 @@
 | [There Will Never Be Another You](https://open.spotify.com/track/1eghoZLe436O2AHiZaoGVQ) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Lester Young With The Oscar Peterson Trio](https://open.spotify.com/album/1RGYFu40MzvQGoVD8qhmLu) | 3:28 | 2015-07-23 |  |
 | [They Can't Take That Away From Me](https://open.spotify.com/track/0qquLHIRp5HDdarE9X1JXJ) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Ladies Sing The Blues](https://open.spotify.com/album/4dO7CwWM63KsWVJh9MyoPV) | 2:44 | 2015-07-23 |  |
 | [Watermelon Man](https://open.spotify.com/track/5rmcFRG9Lp6KK92CMQWxfD) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Cantaloupe Island](https://open.spotify.com/album/1IDF7HrugntNS4NeuzYWgQ) | 7:11 | 2015-07-23 |  |
-| [What A Wonderful World \- Single Version](https://open.spotify.com/track/2pp3RfqX5cb1BAnmNi4Nej) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [All Time Greatest Hits](https://open.spotify.com/album/16niuq7vcf4QvnnrJO7yFc) | 2:20 | 2015-07-23 |  |
-| [When Sunny Gets Blue](https://open.spotify.com/track/01HQIKjcODJCBRFoETqngE) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Today And Tomorrow](https://open.spotify.com/album/3wegWHg2NXUnWlOPwaqzUm) | 4:42 | 2015-07-23 |  |
+| [What A Wonderful World \- Single Version](https://open.spotify.com/track/2pp3RfqX5cb1BAnmNi4Nej) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [All Time Greatest Hits](https://open.spotify.com/album/16niuq7vcf4QvnnrJO7yFc) | 0:29 | 2015-07-23 |  |
+| [When Sunny Gets Blue](https://open.spotify.com/track/01HQIKjcODJCBRFoETqngE) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Today And Tomorrow](https://open.spotify.com/album/3wegWHg2NXUnWlOPwaqzUm) | 0:29 | 2015-07-23 |  |
 | [Where or When](https://open.spotify.com/track/2JR1WeETsXmFR1kRC2oXXq) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standard Time Vol\. 3: The Resolution Of Romance](https://open.spotify.com/album/3ggRodyIM1r04IT4K3Ikho) | 2:48 | 2015-07-23 |  |
 | [Why Don't You Do Right \(Get Me Some Money Too\)](https://open.spotify.com/track/5bIcVAGdof8JGvFKtWlHnD) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [The Best Of Miss Peggy Lee](https://open.spotify.com/album/2tcpvSmBNYJEwVylN2YzK4) | 2:27 | 2015-07-23 |  |
 

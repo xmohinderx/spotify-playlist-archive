@@ -4,13 +4,13 @@
 
 > Det finns hur många drottningar av Sverige som helst\. Vi har samlat 100 av dem i en spellista, där du hör regenter från igår, idag och i morrn\. Låt dig imponeras och inspireras!
 
-100 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/6CYLKxXuxxBF9R6QljlT8I)
+100 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/6CYLKxXuxxBF9R6QljlT8I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Affären](https://open.spotify.com/track/0NArDPf1my7y2xHlCFEFXZ) | [Anna Järvinen](https://open.spotify.com/artist/70vrcQugFAOAtOFIW1wcyR) | [Buren](https://open.spotify.com/album/6SkeZxGrCfxYPeoyEiiye4) | 3:32 | 2015-03-06 |  |
 | [All the Love](https://open.spotify.com/track/7LvL49yYoxLqjlBXdnlK97) | [Elin Bell](https://open.spotify.com/artist/0vbY7qZnawsS6XoxZ0wKev) | [Elin Bell](https://open.spotify.com/album/6DsZSONTPhwN1uReSgZ2tL) | 3:52 | 2015-03-06 |  |
-| [Allt jag nånsin](https://open.spotify.com/track/5dawOtKaj8rGJhhye85qdA) | [Julia Adams](https://open.spotify.com/artist/3Cg6FMCFpcMHugD262Ynrl) | [Allt jag nånsin](https://open.spotify.com/album/1Im4hTFJkTzjIhFWGpKuOF) | 4:22 | 2015-03-06 |  |
+| [Allt jag nånsin](https://open.spotify.com/track/5dawOtKaj8rGJhhye85qdA) | [Julia Adams](https://open.spotify.com/artist/3Cg6FMCFpcMHugD262Ynrl) | [Allt jag nånsin](https://open.spotify.com/album/1Im4hTFJkTzjIhFWGpKuOF) | 0:29 | 2015-03-06 |  |
 | [Animal Heart](https://open.spotify.com/track/5vaQSIBnleSdIl8ZcM9vyj) | [Nina Persson](https://open.spotify.com/artist/4nHhXbMpzESguKp9QHap0c) | [Animal Heart \(Spotify exclusive\)](https://open.spotify.com/album/1Q595jsHM7uq6viLNjXDxw) | 4:30 | 2015-03-06 |  |
 | [Anything So Bright](https://open.spotify.com/track/1trgRFfj4SCKy2Ww1nWTjc) | [Josefin Öhrn + The Liberation](https://open.spotify.com/artist/6ExOR6M5umZFfNgXfjPcex) | [Diamond Waves EP](https://open.spotify.com/album/1UVq220d66clax8VogwgIR) | 4:46 | 2015-03-06 |  |
 | [Armé](https://open.spotify.com/track/5L2Q1DDQ7ukZ6QN6UaMDgF) | [Alina Devecerski](https://open.spotify.com/artist/4HpFXZsVoerMLtLudMJJkb) | [Gnista + Gas](https://open.spotify.com/album/63s8hDU767tEUF1oXAD53g) | 2:54 | 2015-03-06 |  |
@@ -31,7 +31,7 @@
 | [Dunkar varmt](https://open.spotify.com/track/35LnyUWdvdFADKdUcHEW9Q) | [Tant Strul](https://open.spotify.com/artist/2EUZieXlU07oWuMDi8H3KF) | [Amason](https://open.spotify.com/album/4l59DECElhjyOQCfoZ8JRf) | 4:46 | 2015-03-06 |  |
 | [Effortless](https://open.spotify.com/track/6hoRr1KXrixuhILElTIGUM) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Effortless](https://open.spotify.com/album/3X9ZUpeCHQuU4CTQXIDc2v) | 3:00 | 2015-03-06 |  |
 | [Ego](https://open.spotify.com/track/253V91l7DxehjkHyvxLPNN) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Ego](https://open.spotify.com/album/77geSTREeNrIHlpetsQoVz) | 3:49 | 2015-03-06 |  |
-| [Electric \- Short Version](https://open.spotify.com/track/1qIhCupn4tcJWCQWoomnv7) | [Leila K](https://open.spotify.com/artist/61Da4fqVMgPoo9mYY0R3k6) | [Manic Panic](https://open.spotify.com/album/4q9MDr1taMGMoRniqF6ZCA) | 3:37 | 2015-03-06 |  |
+| [Electric \- Short Version](https://open.spotify.com/track/1qIhCupn4tcJWCQWoomnv7) | [Leila K](https://open.spotify.com/artist/61Da4fqVMgPoo9mYY0R3k6) | [Manic Panic](https://open.spotify.com/album/4q9MDr1taMGMoRniqF6ZCA) | 0:29 | 2015-03-06 |  |
 | [Euphoria \- Single Version](https://open.spotify.com/track/1xN7BpTAWnZkuSLOtRP6Qc) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Euphoria](https://open.spotify.com/album/1KfKXG5VRlDTX55wq5bXbv) | 3:01 | 2015-03-06 |  |
 | [Follow You Down](https://open.spotify.com/track/02rF6qvCSPtevzSMTvb4Ad) | [Cajsa Siik](https://open.spotify.com/artist/0YoNeQ5nyDVM6lRAhnzvk8) | [Follow You Down \- Single](https://open.spotify.com/album/5DygbtTT16uIx8ifAh7ISB) | 3:44 | 2015-03-06 |  |
 | [For You, Love](https://open.spotify.com/track/3AbrdpZRaQLEuK8UQPhe7Y) | [Frida Sundemo](https://open.spotify.com/artist/5vuIOnOp6NI06rjLgTpYiY) | [For You, Love](https://open.spotify.com/album/6eGJttDsyuUsYcflGWYr1X) | 3:34 | 2015-03-06 |  |
@@ -63,7 +63,7 @@
 | [Illusionist](https://open.spotify.com/track/6VFuvxBqwxOwIaEtBmH9kb) | [Amanda Jenssen](https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9) | [Sånger från ön](https://open.spotify.com/album/6K7hncUJwfcxma5egjvTwI) | 4:33 | 2015-03-06 |  |
 | [Indian Summer](https://open.spotify.com/track/0Syg0S75x10U5F54ypxE6X) | [Marlene](https://open.spotify.com/artist/0pAV5GaO9ak8wk1NnF37Cl) | [Indian Summer \- EP](https://open.spotify.com/album/5njkJEN4kJ2RCPbOixtFdC) | 3:28 | 2015-03-06 |  |
 | [Ingen kommer undan politiken](https://open.spotify.com/track/3QYGkskUUEw8mH9QnQvJAA) | [Marie Bergman](https://open.spotify.com/artist/1EF9hLul0ZZcbh7dmXWF99) | [Guldkorn](https://open.spotify.com/album/7sbTsMK5JNTGZOkSzCiOU1) | 2:56 | 2015-03-06 |  |
-| [It's All Good](https://open.spotify.com/track/4Zn4pQK12WQ96kGHMRhiKO) | [Naomi Pilgrim](https://open.spotify.com/artist/5QpXKWRjxAVZlmn5trAa16) | [It's All Good](https://open.spotify.com/album/0WD3NDgF06gmSKCFrGlvjw) | 4:09 | 2015-03-06 |  |
+| [It's All Good](https://open.spotify.com/track/4Zn4pQK12WQ96kGHMRhiKO) | [Naomi Pilgrim](https://open.spotify.com/artist/5QpXKWRjxAVZlmn5trAa16) | [It's All Good](https://open.spotify.com/album/0WD3NDgF06gmSKCFrGlvjw) | 0:29 | 2015-03-06 |  |
 | [Jag kan inte leva utan dig](https://open.spotify.com/track/3G04rIXGeThaa3YlaumcmQ) | [Lill\-Babs](https://open.spotify.com/artist/1YlYLkI3GlVDFSQGjMXWbt) | [Musik vi minns...](https://open.spotify.com/album/4KTLqlC1RI0LXyW3Xm0Kf5) | 2:22 | 2015-03-06 |  |
 | [Jag saknar dig mindre och mindre](https://open.spotify.com/track/0atRkLynwT9JbhSQkoPdLY) | [Melissa Horn](https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5) | [Innan jag kände dig](https://open.spotify.com/album/7aCSH1fnzWjLChB2VHG671) | 4:32 | 2015-03-06 |  |
 | [Johnny Cash & Nina P.](https://open.spotify.com/track/4tQ5Bk3dE3u83t6ShNdntI) | [Pernilla Andersson](https://open.spotify.com/artist/1muQ9itiu5KB1WiqehGoSy) | [Gör dig till hund](https://open.spotify.com/album/5MxaWDH2D38b52c1jxQ6sP) | 3:57 | 2015-03-06 |  |
@@ -82,9 +82,9 @@
 | [My Flower](https://open.spotify.com/track/6Q4CpyNSAmJjnJtQyOGK8r) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [My Flower](https://open.spotify.com/album/6evWdmv5vg9xLTJ9MojyXg) | 4:03 | 2015-03-06 |  |
 | [My Silver Lining](https://open.spotify.com/track/6tCLQ3LO1V9l6qdrrwdV6q) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Stay Gold](https://open.spotify.com/album/3fVthsmWSbJpGp7gjxf5xI) | 3:35 | 2015-03-06 |  |
 | [No Rest for the Wicked](https://open.spotify.com/track/2gCvWjrHt6PVJjIN1amlje) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [I Never Learn](https://open.spotify.com/album/4fGqfyineAZmulNxgitERh) | 3:42 | 2015-03-06 |  |
-| [Nothing but a Heartbeat](https://open.spotify.com/track/6R5SstUH21k4EEZWnFvi1U) | [Say Lou Lou](https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj) | [Lucid Dreaming \(Deluxe Edition\)](https://open.spotify.com/album/4DETWSxZQ0MFUeBf2LSqwz) | 3:40 | 2015-03-06 |  |
+| [Nothing but a Heartbeat](https://open.spotify.com/track/6R5SstUH21k4EEZWnFvi1U) | [Say Lou Lou](https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj) | [Lucid Dreaming \(Deluxe Edition\)](https://open.spotify.com/album/4DETWSxZQ0MFUeBf2LSqwz) | 0:29 | 2015-03-06 |  |
 | [Nu vet du hur det känns](https://open.spotify.com/track/5EdgK0Xt8wq23V5IlCHcZa) | [Sarah Dawn Finer](https://open.spotify.com/artist/4TuGR5xkIry198WmY7hax2) | [Sanningen kommer om natten](https://open.spotify.com/album/6ILfJ7yqHHtzvOM39MJyRb) | 4:18 | 2015-03-06 |  |
-| [Nära dej](https://open.spotify.com/track/3wZNfK4KATlxIaWf0evAWV) | [Min Stora Sorg](https://open.spotify.com/artist/53mirS5AzwzEw9MsquLXFo) | [Nära dej](https://open.spotify.com/album/0dzut9xg5Hv9xXjlA2Zbrg) | 3:54 | 2015-03-06 |  |
+| [Nära dej](https://open.spotify.com/track/3wZNfK4KATlxIaWf0evAWV) | [Min Stora Sorg](https://open.spotify.com/artist/53mirS5AzwzEw9MsquLXFo) | [Nära dej](https://open.spotify.com/album/0dzut9xg5Hv9xXjlA2Zbrg) | 0:29 | 2015-03-06 |  |
 | [Ocean](https://open.spotify.com/track/7ty4gGxSfxM4pdFrkvkpYZ) | [Beldina](https://open.spotify.com/artist/1j9GGUnKOakzJXzYuaVGWT) | [Intermission](https://open.spotify.com/album/4k2DpqQDpRJDZPR9FjIxyZ) | 3:45 | 2015-03-06 |  |
 | [Omväg hem](https://open.spotify.com/track/6ZxdK9juchyFYyrCtyViDA) | [Ebba Forsberg](https://open.spotify.com/artist/1MrzQFvlf2DzLE1qP98ehk) | [Omväg hem](https://open.spotify.com/album/1U0K4IohbClGgTkoeGhJGg) | 3:31 | 2015-03-06 |  |
 | [På måndag börjar jag igen](https://open.spotify.com/track/3lVnLAOXzBrjlKl2YJmbNW) | [Dolly Dolores](https://open.spotify.com/artist/0AKqrIVjkHri0sY1PqZQk7) | [På måndag börjar jag igen](https://open.spotify.com/album/2Gkfo6fEnO30dxub6UZdrH) | 3:03 | 2015-03-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiAJKcabR16.md) - [plain]
 
 > Slide and steel\. Set your soundtrack to some moody, gritty blues folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,602 likes - 62 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,664 likes - 62 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiAJKcabR16.md) - [plain]
 | 21 | [She Took a Gamble](https://open.spotify.com/track/2b2oHgRMo5QYRLft2TRDFi) | [Hannah Read](https://open.spotify.com/artist/3ffIal1i0EioO2cZE9oLa9) | [She Took a Gamble](https://open.spotify.com/album/0l1lw4zbFRgQyUXkhJtYCZ) | 3:15 |
 | 22 | [Little Jose](https://open.spotify.com/track/1Yc25rbbGJZCtz8dtizMKY) | [Grey Reverend](https://open.spotify.com/artist/1EbvbxCONeiXZTVIS2Cw0e) | [A Hero's Lie](https://open.spotify.com/album/6PLuyY1t5OrYGKRdyhDGEJ) | 1:59 |
 | 23 | [Bloodshot \- Demo](https://open.spotify.com/track/00AVBnaQz7yRv8NTpNlCVU) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Lovers](https://open.spotify.com/album/1pUKusc74fo1nc4reY2S5g) | 2:52 |
-| 24 | [Singing Saw](https://open.spotify.com/track/0VVBiLcDZthpwsXXBCXPgu) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Singing Saw](https://open.spotify.com/album/1s8RmcZjTuvDt9eQ4MAKLI) | 7:15 |
+| 24 | [Singing Saw](https://open.spotify.com/track/0VVBiLcDZthpwsXXBCXPgu) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Singing Saw](https://open.spotify.com/album/1s8RmcZjTuvDt9eQ4MAKLI) | 0:29 |
 | 25 | [Oak Tree](https://open.spotify.com/track/47dOtJjjwVkbKW244db2dE) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/1yqDoOZkNFPbZVwELwWieW) | 3:00 |
 | 26 | [Little Red Rooster](https://open.spotify.com/track/06PsyBBc0YCQhGNlfPZ1SS) | [Dan Owen](https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5) | [Bad for Me \- EP](https://open.spotify.com/album/176IZWTuFw7Ei2n3OtUl4p) | 3:21 |
 | 27 | [Boneyard \- Edit](https://open.spotify.com/track/1zHHwTIloBthaYONQX2TZ0) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Boneyard](https://open.spotify.com/album/6PAu4B2YSVrbCzELEhyAmU) | 3:20 |
@@ -54,13 +54,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiAJKcabR16.md) - [plain]
 | 44 | [By The Evening](https://open.spotify.com/track/54jlEZOJZA8TwEGnKLYFon) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [Benjamin Booker](https://open.spotify.com/album/0uDoyIuGkx8lrhsu6RBlBZ) | 3:50 |
 | 45 | [Lazaretto](https://open.spotify.com/track/3T76zPJz3tWL27FrjJe2ot) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Lazaretto](https://open.spotify.com/album/36LXzRarDP8TU8K0REGpt6) | 3:39 |
 | 46 | [Shake It](https://open.spotify.com/track/6RjnBLAqjop8cgSsPrUlCs) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Exits](https://open.spotify.com/album/3vSNB85xVwlQHjh2AmME8s) | 3:42 |
-| 47 | [Don't Need It](https://open.spotify.com/track/4DnK27URnJcCULRNDHvm2M) | [William Elliott Whitmore](https://open.spotify.com/artist/55N838yCXjxLVkBkIM5pnf) | [Field Songs \(Deluxe Edition\)](https://open.spotify.com/album/5udj0c8CJSjywp6SKHsV2x) | 3:33 |
+| 47 | [Don't Need It](https://open.spotify.com/track/4DnK27URnJcCULRNDHvm2M) | [William Elliott Whitmore](https://open.spotify.com/artist/55N838yCXjxLVkBkIM5pnf) | [Field Songs \(Deluxe Edition\)](https://open.spotify.com/album/5udj0c8CJSjywp6SKHsV2x) | 0:29 |
 | 48 | [Top Yourself](https://open.spotify.com/track/3ZTScjTJav3Yak0OqLTuAL) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Consolers of the Lonely](https://open.spotify.com/album/0OBNtBshpjFPStZGJTGNJr) | 4:25 |
 | 49 | [No Sugar In My Coffee](https://open.spotify.com/track/3eu6yCblDDyuqvDTkPZksu) | [Caught A Ghost](https://open.spotify.com/artist/2e898fil1F5umrc2LBtV93) | [Human Nature](https://open.spotify.com/album/3LVkJWEqCJPiMghOrOnXUi) | 3:28 |
 | 50 | [Another Manʼs Grave](https://open.spotify.com/track/0kO82Vu0CXMrkLo5p9EvyI) | [Amigo the Devil](https://open.spotify.com/artist/0AkmSuTOzM2pNCIOSP8ziv) | [Another Manʼs Grave](https://open.spotify.com/album/1ydWuirnz39uMCZYgkE18E) | 3:08 |
 | 51 | [Bang Bang Bang](https://open.spotify.com/track/4pF0B8Fae3dQrsuWds2iQ9) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [DOROTHY](https://open.spotify.com/album/0BLEb3WftkWqtcetytTYIc) | 3:09 |
 | 52 | [Ain't No Easy Way](https://open.spotify.com/track/57XbiF3mXSAXDntyEw57lW) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Howl](https://open.spotify.com/album/3otJWr2xpdvZJGNS303RCZ) | 2:36 |
-| 53 | [Little Lady Blues](https://open.spotify.com/track/1LfGP4l3u94cu57cR4khzq) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Orange Co\. Serenade](https://open.spotify.com/album/4SEomhM9X27zNDnJjal0yW) | 5:12 |
+| 53 | [Little Lady Blues](https://open.spotify.com/track/1LfGP4l3u94cu57cR4khzq) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Orange Co\. Serenade](https://open.spotify.com/album/4SEomhM9X27zNDnJjal0yW) | 0:29 |
 | 54 | [Henry Nearly Killed Me \(It's a Shame\)](https://open.spotify.com/track/3WlKwc0STwk7MYHyn2FjXm) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Gossip In The Grain \(Expanded Edition\)](https://open.spotify.com/album/7iMybHeeEiPQSEI0TG3pdo) | 4:22 |
 | 55 | [Old Number Seven](https://open.spotify.com/track/7FqrsV0vBwNiQNQI6jfzni) | [The Devil Makes Three](https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte) | [The Devil Makes Three](https://open.spotify.com/album/18VR3tbMXiPOEj4rQfSp1k) | 3:20 |
 | 56 | [Broken Bones](https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:05 |

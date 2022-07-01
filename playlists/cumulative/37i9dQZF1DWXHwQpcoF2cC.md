@@ -4,7 +4,7 @@
 
 > The best recent metal tracks\. Cover: Falling In Reverse
 
-74 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/60nXJ45agAFWh0gM8e58vr)
+74 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/60nXJ45agAFWh0gM8e58vr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Pneuma](https://open.spotify.com/track/03sEzk1VyrUZSgyhoQR0LZ) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Fear Inoculum](https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5) | 11:53 | 2021-12-11 | 2022-06-28 |
 | [Popular Monster](https://open.spotify.com/track/4GssB27iJeqmfGxS94Tfij) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Popular Monster](https://open.spotify.com/album/4gxFqhVYU4wp1XDH1KiIo4) | 3:40 | 2022-06-27 |  |
 | [Post\-Boredom](https://open.spotify.com/track/2mQ0iTpQxuhBJIuFNUFGD0) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Radical](https://open.spotify.com/album/6SUMl8L4l91N2igInZsGMO) | 3:16 | 2021-12-31 | 2022-02-25 |
-| [Protect The Land](https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Protect The Land / Genocidal Humanoidz](https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M) | 5:07 | 2021-12-11 |  |
+| [Protect The Land](https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Protect The Land / Genocidal Humanoidz](https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M) | 0:29 | 2021-12-11 |  |
 | [Pushing the Tides](https://open.spotify.com/track/2JIbpxyklwMF01YPqJG7uq) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Pushing the Tides](https://open.spotify.com/album/4JK64E5sqKLT2appa0WxwO) | 3:29 | 2021-12-11 | 2022-01-28 |
 | [Put Your Back Into The Oar](https://open.spotify.com/track/4fY2JR0REUiykvzRw61sk9) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Put Your Back Into The Oar](https://open.spotify.com/album/3mS1TiUhXrH9XOvZGEd3Eo) | 4:37 | 2022-06-27 |  |
 | [Resentment](https://open.spotify.com/track/2yvIw3QVg06yAZkRiLTYP3) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [You're Welcome](https://open.spotify.com/album/1JiQM9ygHBPtO18Lvqyd2i) | 3:47 | 2021-12-11 |  |
@@ -59,7 +59,7 @@
 | [Slave New World](https://open.spotify.com/track/1rriJU19bJPPSZTkfnOEsH) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Sepulquarta](https://open.spotify.com/album/3p9xh35Qupdic1CREgJUIz) | 2:55 | 2021-12-11 |  |
 | [SLEEPS SOCIETY](https://open.spotify.com/track/1y8k3vis3WkBOVq0fL4GJF) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SLEEPS SOCIETY](https://open.spotify.com/album/0wotrj0XrHFh7x2FVvsuA1) | 3:19 | 2021-12-11 |  |
 | [Smoke Signals](https://open.spotify.com/track/63cTVY6A0yeJ0DsjXBwYVH) | [Novelists FR](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Smoke Signals](https://open.spotify.com/album/6LlnpYow87yXNdi9TtTUiv) | 3:34 | 2022-06-29 |  |
-| [Snowblood](https://open.spotify.com/track/3pkfVWPONcWQU5UAxWyALx) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [ERRA](https://open.spotify.com/album/3OuLJUIq1lBj8EUaoIQvWZ) | 4:13 | 2021-12-11 |  |
+| [Snowblood](https://open.spotify.com/track/3pkfVWPONcWQU5UAxWyALx) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [ERRA](https://open.spotify.com/album/3OuLJUIq1lBj8EUaoIQvWZ) | 0:29 | 2021-12-11 |  |
 | [Soldier of Heaven](https://open.spotify.com/track/3E03jj3nVNtFoMYQIweVdG) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Soldier Of Heaven](https://open.spotify.com/album/7u1ih7nlNGFE9sAkM4ac8C) | 3:38 | 2022-02-24 | 2022-06-30 |
 | [Song to Say Goodbye](https://open.spotify.com/track/1x9jqnd7tU7qRS2Uwt5PIx) | [Harakiri for the Sky](https://open.spotify.com/artist/58KBq6qkQnfWYRqCjffQQq) | [Mære](https://open.spotify.com/album/4c32wkJFuLUKHueu8YlldK) | 5:24 | 2021-12-11 |  |
 | [Start The Healing](https://open.spotify.com/track/42qa1IoXDeSt0zzWTOuwyG) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Start The Healing](https://open.spotify.com/album/0u1tbNPEpP0a6it8o6KeOH) | 3:28 | 2022-01-31 |  |

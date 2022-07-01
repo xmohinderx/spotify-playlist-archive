@@ -4,12 +4,12 @@
 
 > All the music from Netflix's La Casa de Papel/Money Heist.
 
-63 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/6k8Bo9IB5HrBOBHtxn9gtS)
+63 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/6k8Bo9IB5HrBOBHtxn9gtS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All you Need to Know](https://open.spotify.com/track/4xihysEKBYwugkpWeJgS6W) | [Howe Gelb](https://open.spotify.com/artist/2oAKV8mT3NB1hZbGbGcdYB) | [Further Standards](https://open.spotify.com/album/29T30GTricZoyuunKfKM5y) | 3:43 | 2021-08-26 |  |
-| [Amado Mio](https://open.spotify.com/track/139kwDhYiXDKr1qSmnIXOD) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Sympathique](https://open.spotify.com/album/2y2CKDqSlMlPw6trrKwjzC) | 4:49 | 2021-08-26 |  |
+| [Amado Mio](https://open.spotify.com/track/139kwDhYiXDKr1qSmnIXOD) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Sympathique](https://open.spotify.com/album/2y2CKDqSlMlPw6trrKwjzC) | 0:29 | 2021-08-26 |  |
 | [Another Sunny Day](https://open.spotify.com/track/1SxC3v3Mcm5VPxeXaF59NY) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [The Life Pursuit](https://open.spotify.com/album/0pqlfn0pAYDb2zassbbD6G) | 4:04 | 2021-08-26 |  |
 | [Arrieros somos](https://open.spotify.com/track/5oHIbFrgvcjWgVY99O8Cmo) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [Chavela Vargas\. Sus 40 Grandes Canciones](https://open.spotify.com/album/0c4CIsqk0vOViJXGmrW9WP) | 3:17 | 2021-12-03 |  |
 | [Ave Maria, D.839 \- Arr\. Hazell](https://open.spotify.com/track/6dJnup5SONQ4YRV44eThsh) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [Members Of The BBC National Orchestra Of Wales](https://open.spotify.com/artist/7MsqdRX56j8HrqSEoLFtrs), [Members of the English Chamber Orchestra](https://open.spotify.com/artist/04zr23ENfpoJoyuoGUeFRK), [Members Of The Philharmonia Orchestra](https://open.spotify.com/artist/4w62fxz0Jcdpcv3pHmFZm8), [Christopher Warren\-Green](https://open.spotify.com/artist/6exISmHxzPKtfKOWwkVHwK) | [The Royal Wedding \- The Official Album](https://open.spotify.com/album/7ivHp5OyJc1kgb4YBugNuA) | 2:37 | 2021-08-26 |  |
@@ -37,7 +37,7 @@
 | [Guajira guantanamera \- Remasterizado](https://open.spotify.com/track/5shBL8dU0l3bfZvHrx1rQu) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Guantanamera \- The Essential Album](https://open.spotify.com/album/4W6m2GSdqjaJET161icuDU) | 5:11 | 2021-08-26 |  |
 | [Harlem Shuffle](https://open.spotify.com/track/43pmIYPHMSKBLyMNoPLyRm) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [Build Me Up Buttercup](https://open.spotify.com/album/0AFXSZYiYyggIkcYW5GK0x) | 3:10 | 2021-08-26 |  |
 | [Haunted House](https://open.spotify.com/track/41vUuxf0KFlUdTfyehVjoN) | [The Madcaps](https://open.spotify.com/artist/3Vs1e8KVCqgQHUJcqxtgQu) | [The Madcaps](https://open.spotify.com/album/4bTWZIBD2mHlevApcjuiWU) | 2:39 | 2021-08-26 |  |
-| [I Can't Stop Crying](https://open.spotify.com/track/0Ej4QsLqA04ox2SdrConlZ) | [Will Grove\-White](https://open.spotify.com/artist/2lIN57LNIf3qtoIASeWMZP) | [Golden Age Radio: Vintage](https://open.spotify.com/album/54ZWQvMUlb9w2EyaBBtMxJ) | 2:56 | 2021-08-26 |  |
+| [I Can't Stop Crying](https://open.spotify.com/track/0Ej4QsLqA04ox2SdrConlZ) | [Will Grove\-White](https://open.spotify.com/artist/2lIN57LNIf3qtoIASeWMZP) | [Golden Age Radio: Vintage](https://open.spotify.com/album/54ZWQvMUlb9w2EyaBBtMxJ) | 0:29 | 2021-08-26 |  |
 | [I Want You](https://open.spotify.com/track/2tbEVt14awDrNoI8Llckaf) | [Australian Blonde](https://open.spotify.com/artist/5jbvTNkLBE4W1wQlDzHgxU) | [Pizza Pop](https://open.spotify.com/album/3GScIDM0j0GnnNdISSd1Df) | 3:03 | 2021-08-26 |  |
 | [La Deriva](https://open.spotify.com/track/3yAVc9zsc742nCxO8mDB8T) | [Vetusta Morla](https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8) | [La Deriva](https://open.spotify.com/album/4xqm8AbqzESFwCZlEPdYjr) | 3:39 | 2021-08-26 |  |
 | [La Flor y el Libro \- Banda Sonora Original de la Serie de Tv la Casa de Papel / Money Heist](https://open.spotify.com/track/0olAGEFIyKHBbBGFgY1JMC) | [La Fanfarria del Capitán](https://open.spotify.com/artist/3RtwbiB9DVyibUaEZo6ZYu) | [La Flor y el Libro \(Banda Sonora Original de la Serie de Tv la Casa de Papel / Money Heist\)](https://open.spotify.com/album/3PKg0T7Fwtkwp8JyJqLlNp) | 2:34 | 2021-08-26 |  |

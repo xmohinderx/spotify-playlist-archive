@@ -4,7 +4,7 @@
 
 > the best of what landed on planet misfits in 2021\. Cover: Ashnikko
 
-50 songs - 2 hr 18 min - [published](https://open.spotify.com/playlist/1SAU5RhpSqUWVCaX01XWdm)
+50 songs - 2 hr 16 min - [published](https://open.spotify.com/playlist/1SAU5RhpSqUWVCaX01XWdm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [PANIC ATTACK](https://open.spotify.com/track/7Gf6BvF5vHKq1ZABgdbMkx) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [PANIC ATTACK](https://open.spotify.com/album/49iWkiTVH0JxJM36bVT7ey) | 2:29 | 2021-12-01 |  |
 | [Paparazzi](https://open.spotify.com/track/47enw9R1hdkfuxeSjoDQ0N) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Paparazzi](https://open.spotify.com/album/1NGhUyA2dieBwXzzCK4yye) | 3:12 | 2021-12-01 |  |
 | [Papercut](https://open.spotify.com/track/2eWz1ODTF9DcKikcwxsc9A) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2), [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Papercut](https://open.spotify.com/album/3FKnPiVfCOLhNeSlzpkJ3D) | 3:13 | 2021-12-01 |  |
-| [parents \(with Chloe Noone\)](https://open.spotify.com/track/3PH1p9iaXLUjs0BPjbWpZb) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Chloe Noone](https://open.spotify.com/artist/7Acd6yZCBZ4zI8SoX6YJ6N) | [parents \(with Chloe Noone\)](https://open.spotify.com/album/5O7r99N4WQX4ty1vCERX7V) | 2:53 | 2021-12-01 |  |
+| [parents \(with Chloe Noone\)](https://open.spotify.com/track/3PH1p9iaXLUjs0BPjbWpZb) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Chloe Noone](https://open.spotify.com/artist/7Acd6yZCBZ4zI8SoX6YJ6N) | [parents \(with Chloe Noone\)](https://open.spotify.com/album/5O7r99N4WQX4ty1vCERX7V) | 0:29 | 2021-12-01 |  |
 | [please put me in a medically induced coma](https://open.spotify.com/track/4MY8pe89WnW7xVOxUN4hmg) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [please put me in a medically induced coma](https://open.spotify.com/album/2pPYJUCaxJTApLpglmBpaL) | 3:06 | 2021-12-01 |  |
 | [Pretty In Pink](https://open.spotify.com/track/4SxpCBvFptTOANfdGnjqvc) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Pretty In Pink](https://open.spotify.com/album/4Ct7vLUxheizQLxWgth6CT) | 2:33 | 2021-12-01 |  |
 | [R U Looking 4 Me Now](https://open.spotify.com/track/5FHmzUJo5djke3CM1UcJ5e) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [R U Looking 4 Me Now](https://open.spotify.com/album/4AxaQkhxbVMENx0jFWR01Y) | 3:01 | 2021-12-01 |  |

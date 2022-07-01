@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTK9gSXKWMMx.md) - [plain]
 
 > Sit back and relax to the smooth sound of blues piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,533 likes - 53 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,555 likes - 53 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTK9gSXKWMMx.md) - [plain]
 | 40 | [Bad Habits Blues](https://open.spotify.com/track/5hiCKMtoJ3zKU6VGDVP2By) | [Christian Rannenberg](https://open.spotify.com/artist/0FXwEMAkZkvmLPeIl57OtB) | [Blues](https://open.spotify.com/album/7neO63jZj32xSLnSSa25Z5) | 5:27 |
 | 41 | [Voodoo Rag](https://open.spotify.com/track/5fKitjmfucWNCOZzyk8y6j) | [Chris Nole](https://open.spotify.com/artist/4VgHlBqO0dcrhFpuoPtHFB) | [Barrel House Boogie Piano](https://open.spotify.com/album/3kpHDkBXSh3bXBMRBWGShn) | 3:45 |
 | 42 | [When the Saints Go Marching In](https://open.spotify.com/track/3MS0XCPJ0D6L5ksyDN11Z9) | [Chris Nole](https://open.spotify.com/artist/4VgHlBqO0dcrhFpuoPtHFB) | [When the Saints Go Marching In](https://open.spotify.com/album/0swv0BrgcUFGFSCbyzrZqL) | 2:59 |
-| 43 | [Boogie Relaxing Piano](https://open.spotify.com/track/2xpXXqFnUXFmbhHwFWWLoO) | [Alan Baratieri](https://open.spotify.com/artist/1FbUxr0wVOPPMFPq9qjv0w) | [Instrumental Piano Music](https://open.spotify.com/album/0LK4eqJzdORsuIW8xOcrFq) | 2:47 |
+| 43 | [Boogie Relaxing Piano](https://open.spotify.com/track/2xpXXqFnUXFmbhHwFWWLoO) | [Alan Baratieri](https://open.spotify.com/artist/1FbUxr0wVOPPMFPq9qjv0w) | [Instrumental Piano Music](https://open.spotify.com/album/0LK4eqJzdORsuIW8xOcrFq) | 0:29 |
 | 44 | [After Hours](https://open.spotify.com/track/73rUGMFKD8azs5WMmaokgT) | [Lluís Coloma](https://open.spotify.com/artist/0Hf2pumFziW2zckaLCVy0n) | [Rockin' My Blues in Chicago](https://open.spotify.com/album/0I2FcCjZmrBkzZ68go1yAD) | 3:55 |
 | 45 | [Little Brother \- Instrumental](https://open.spotify.com/track/5M5Koy1MEDGQ081SivilWW) | [Mr\. B](https://open.spotify.com/artist/0P5frht0A8pd2wsVtc2kMK), [J.C\. Heard](https://open.spotify.com/artist/7kCD8Z9gH6ifP16a5H7H4N) | [Shining The Pearls](https://open.spotify.com/album/3CmrFsbuOW5c8CG1olr1Kc) | 4:23 |
 | 46 | [Django Delgado](https://open.spotify.com/track/1TV37Ufwxkv9gjOVlDcLuu) | [Blues Piano All Stars](https://open.spotify.com/artist/3v45sKwSn2bjvr9ETf4HrQ) | [Blues Piano \- Blues Songs and Music](https://open.spotify.com/album/7D3OoVu6zvaS5TLe8cRRj5) | 2:21 |

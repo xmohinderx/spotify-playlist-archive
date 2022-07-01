@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ruhrP9ntTdDMpjrk22v9u.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 27 likes - 20 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 27 likes - 20 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/4ruhrP9ntTdDMpjrk22v9u.md) - [plain]
 | 12 | [Somebody](https://open.spotify.com/track/4mkaqLW2UeMctDDavCzsdw) | [Bridgit Mendler](https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb) | [Lemonade Mouth](https://open.spotify.com/album/3Dpi0hE5J5rdfJhSkP5Icc) | 3:28 |
 | 13 | [Breaking Free](https://open.spotify.com/track/7gF9RfiO8nBhFhBkLuiUrb) | [Troy](https://open.spotify.com/artist/6zTbBugfNc95zo8ClFDhIn), [Gabriella](https://open.spotify.com/artist/0GyAZiIV45rnBBf4KdGLS7), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical Original Soundtrack](https://open.spotify.com/album/1gquVtfIDwZKamEZtJL8qe) | 3:27 |
 | 14 | [Party in the USA](https://open.spotify.com/track/6DqdrSzgdJp9vdcoRebrW7) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Party Hits](https://open.spotify.com/album/49LwVKcojkLOK8rrm1a8f0) | 3:24 |
-| 15 | [Banana](https://open.spotify.com/track/6nNI7zCfOv7pgphR6lnAQ7) | [The Aggrolites](https://open.spotify.com/artist/5tdgsoMr7dIrcVUVauzuvM) | [Yo Gabba Gabba! Music Is Awesome! Volume 3](https://open.spotify.com/album/3eh8VNKJsgYGusXRCPBqBy) | 2:22 |
+| 15 | [Banana](https://open.spotify.com/track/6nNI7zCfOv7pgphR6lnAQ7) | [The Aggrolites](https://open.spotify.com/artist/5tdgsoMr7dIrcVUVauzuvM) | [Yo Gabba Gabba! Music Is Awesome! Volume 3](https://open.spotify.com/album/3eh8VNKJsgYGusXRCPBqBy) | 0:29 |
 | 16 | [A Billion Hits](https://open.spotify.com/track/2nTBTPGYLra1MLnrZ4i4CY) | [Austin Moon](https://open.spotify.com/artist/1eBGyqw9kLsidL0q2dimWF) | [Austin & Ally](https://open.spotify.com/album/4d65jQefqOs6KWxqCT6VVF) | 3:09 |
 | 17 | [Cheetah Love](https://open.spotify.com/track/7rUvQpIKZluigUx7hvQue5) | [The Cheetah Girls](https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY) | [One World](https://open.spotify.com/album/6WxSyVYrnhBnbIOfPYd0Vx) | 3:14 |
 | 18 | [Hakuna Matata \- From "The Lion King"/Soundtrack](https://open.spotify.com/track/5k3U0OGYBccHdKJJu3HrUN) | [Nathan Lane](https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv), [Ernie Sabella](https://open.spotify.com/artist/0RH6EMxqfzCEB7QCSKQ4xr), [Jason Weaver](https://open.spotify.com/artist/5UdPkKWd8YNR5xGcmqH9QJ), [Joseph Williams](https://open.spotify.com/artist/5xk0kRuXn1zToTHpHAqpui) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 3:33 |

@@ -4,11 +4,11 @@
 
 > 'Tis the season to settle in with a warm cup of coffee and these stripped down holiday tunes.
 
-59 songs - 2 hr 59 min - [published](https://open.spotify.com/playlist/12w8cCmx1q2Iov56A3YAS8)
+59 songs - 2 hr 57 min - [published](https://open.spotify.com/playlist/12w8cCmx1q2Iov56A3YAS8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Cradle In Bethlehem](https://open.spotify.com/track/76JY0EcePnLePHMXuYSkvH) | [Plain Simple](https://open.spotify.com/artist/0XUcGC1QHkYmsVInVDjFad) | [A Cradle in Bethlehem](https://open.spotify.com/album/4riylNG00A6FG6CdVhb5hA) | 3:08 | 2021-12-17 |  |
+| [A Cradle In Bethlehem](https://open.spotify.com/track/76JY0EcePnLePHMXuYSkvH) | [Plain Simple](https://open.spotify.com/artist/0XUcGC1QHkYmsVInVDjFad) | [A Cradle in Bethlehem](https://open.spotify.com/album/4riylNG00A6FG6CdVhb5hA) | 0:29 | 2021-12-17 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/4AeRtxiXa5Z6hakq6vTdrk) | [Ashley Jones](https://open.spotify.com/artist/5oZSkpd6njJYnWjqINJ0nJ) | [All I Want for Christmas Is You](https://open.spotify.com/album/474t5zcCFnsicUn3nNooel) | 3:12 | 2021-12-17 |  |
 | [All My Christmases](https://open.spotify.com/track/7M3k7CQYsEOknxlCrXgj1D) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [All My Christmases](https://open.spotify.com/album/1Oc0lXoyXZP6ed8otsHiQJ) | 3:24 | 2021-12-17 |  |
 | [Angel \(Holiday\)](https://open.spotify.com/track/5mb6YQWIVJ44alLjCZmGTT) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [This Warm December, A Brushfire Holiday Vol\. 2](https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T) | 2:02 | 2021-12-17 |  |

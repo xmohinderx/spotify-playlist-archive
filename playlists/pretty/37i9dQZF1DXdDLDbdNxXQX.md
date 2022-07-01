@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDLDbdNxXQX.md) - [plain]
 
 > Sing along with Thomas & Friends!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,898 likes - 37 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,897 likes - 37 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDLDbdNxXQX.md) - [plain]
 | 6 | [Adventure Song \(Journey Never Ends\)](https://open.spotify.com/track/2rkrOpxDKQO9IePMpzHJPr) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Happy Birthday, Thomas!](https://open.spotify.com/album/0bvaeStznqUPemF4d0DYDI) | 2:09 |
 | 7 | [Sounds \(The Sound Song\)](https://open.spotify.com/track/3Pahvt7EYavkLIxrM2G9Sg) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Meet the Steam Team!](https://open.spotify.com/album/5voSY5POhmyE1anZ4LCrHd) | 3:09 |
 | 8 | [What Makes an Engine Happy](https://open.spotify.com/track/0eaYJ1YzdfC6iHLuJwNlJA) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Thomas & Friends: All Star Tracks](https://open.spotify.com/album/2KitLxTg9Uj3rDwKodSudD) | 3:00 |
-| 9 | [Dance with Me](https://open.spotify.com/track/2SDjVkGb80HFN1eBSRpzaW) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Steam, Rattle & Roll Thomas](https://open.spotify.com/album/63uEoErqlbuB1LkhcbEQkX) | 0:32 |
+| 9 | [Dance with Me](https://open.spotify.com/track/2SDjVkGb80HFN1eBSRpzaW) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Steam, Rattle & Roll Thomas](https://open.spotify.com/album/63uEoErqlbuB1LkhcbEQkX) | 0:29 |
 | 10 | [When I Go Fast](https://open.spotify.com/track/3E29DJb5C3iizrux2bLdRp) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Race for the Sodor Cup \(Music from the Movie\)](https://open.spotify.com/album/3nXkQt9TkcRDIahh08eth3) | 1:57 |
 | 11 | [Hey, Hey Thomas!](https://open.spotify.com/track/1m7SVr2EomcH8W0vr6nCCl) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Sodor Summertime](https://open.spotify.com/album/3rBTiYbS2ndRyEzQb7auLf) | 2:31 |
 | 12 | [Where in the World is Thomas?](https://open.spotify.com/track/0MGdbMuKkrysQ4VVq57vfg) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Big World! Big Adventures! the Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5V3rouxWWLl52CDEfAycak) | 3:11 |
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDLDbdNxXQX.md) - [plain]
 | 16 | [Every Day's A Special Day](https://open.spotify.com/track/56TiBDsoZDMGuu18WqURhb) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Thomas & Friends: All Star Tracks](https://open.spotify.com/album/2KitLxTg9Uj3rDwKodSudD) | 2:10 |
 | 17 | [You Can Only Be You](https://open.spotify.com/track/7pXeGRaQCxZXctU6UPHNiD) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Meet the Steam Team!](https://open.spotify.com/album/5voSY5POhmyE1anZ4LCrHd) | 2:31 |
 | 18 | [Go, Go Thomas](https://open.spotify.com/track/5ExvsvyrHJLSaFih8inGVT) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Thomas & Friends: All Star Tracks](https://open.spotify.com/album/2KitLxTg9Uj3rDwKodSudD) | 2:10 |
-| 19 | [Coming on Through](https://open.spotify.com/track/1rAXFbzA8rrO5yyuut6t7E) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Steam, Rattle & Roll Thomas](https://open.spotify.com/album/63uEoErqlbuB1LkhcbEQkX) | 0:32 |
+| 19 | [Coming on Through](https://open.spotify.com/track/1rAXFbzA8rrO5yyuut6t7E) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Steam, Rattle & Roll Thomas](https://open.spotify.com/album/63uEoErqlbuB1LkhcbEQkX) | 0:29 |
 | 20 | [It's Gonna Be a Great Day](https://open.spotify.com/track/3U7hkvdCVrLm7PlWtGup6G) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Sodor Summertime](https://open.spotify.com/album/3rBTiYbS2ndRyEzQb7auLf) | 2:07 |
 | 21 | [All Engines Go \(Theme Song\)](https://open.spotify.com/track/5deGc0zXStd6c48GLn6JEv) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [All Engines Go \(Theme Song\)](https://open.spotify.com/album/724ddsnGT2yWXZXT1beP2f) | 1:25 |
 | 22 | [Day of the Diesels](https://open.spotify.com/track/3ZMm1CiM6olLrb4AXCoCkF) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Thomas & Friends: All Star Tracks](https://open.spotify.com/album/2KitLxTg9Uj3rDwKodSudD) | 2:44 |
-| 23 | [Steam, Rattle & Roll](https://open.spotify.com/track/4BiELPE8w8vqZWkYPN15yh) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Steam, Rattle & Roll Thomas](https://open.spotify.com/album/63uEoErqlbuB1LkhcbEQkX) | 0:57 |
+| 23 | [Steam, Rattle & Roll](https://open.spotify.com/track/4BiELPE8w8vqZWkYPN15yh) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Steam, Rattle & Roll Thomas](https://open.spotify.com/album/63uEoErqlbuB1LkhcbEQkX) | 0:29 |
 | 24 | [Party Time](https://open.spotify.com/track/15cUkamTaPi6rYkniKtPDu) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Meet the Steam Team!](https://open.spotify.com/album/5voSY5POhmyE1anZ4LCrHd) | 3:13 |
 | 25 | [Hear The Engines](https://open.spotify.com/track/0JnE9kx6QfrBsKn8WdGmyD) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Thomas & Friends: All Star Tracks](https://open.spotify.com/album/2KitLxTg9Uj3rDwKodSudD) | 2:06 |
 | 26 | [Big World! Big Adventures! Theme Song](https://open.spotify.com/track/7oESRh0nSjLrm6GQty88cM) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Big World! Big Adventures! Theme Song](https://open.spotify.com/album/1Z6L82rj8wjkjBzhH932dH) | 2:41 |

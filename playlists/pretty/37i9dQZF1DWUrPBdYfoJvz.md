@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 
 > All the greatest Ambient tracks in one place\. Cover: Brian Eno
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,111 likes - 110 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,281 likes - 110 songs - 12 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 | 76 | [Diamond Cove \(And Its Children Were Watching\)](https://open.spotify.com/track/0beY6Xl0qbQX3t9kOXOI8r) | [Kyle Bobby Dunn](https://open.spotify.com/artist/5103fOYzuAKogazW0lXwLl) | [Bring Me The Head of Kyle Bobby Dunn](https://open.spotify.com/album/1Ovkskq7I0XH0ULWKh8fph) | 3:52 |
 | 77 | [Intransigence](https://open.spotify.com/track/4eMOIEdYGXThAxGb7SdNZd) | [Hakobune](https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161) | [In Arboreal Whispering](https://open.spotify.com/album/7hHtQmDjx7srb9fyMueT4s) | 4:09 |
 | 78 | [Analog Paralysis, 1978](https://open.spotify.com/track/3guEVTjNJHoR5D7GJRZMs5) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Ravedeath, 1972](https://open.spotify.com/album/6Iu8toVsvCc3I4INxYiVIy) | 3:51 |
-| 79 | [Russian Snow](https://open.spotify.com/track/74DxOVwXdBdn1rrfK8SFCU) | [Lucette Bourdin](https://open.spotify.com/artist/1mLHAhpOa5hFC5ht47RrT3) | [Rising Fog](https://open.spotify.com/album/5UqAY7B1XX3QoFWgu7bfil) | 8:28 |
+| 79 | [Russian Snow](https://open.spotify.com/track/74DxOVwXdBdn1rrfK8SFCU) | [Lucette Bourdin](https://open.spotify.com/artist/1mLHAhpOa5hFC5ht47RrT3) | [Rising Fog](https://open.spotify.com/album/5UqAY7B1XX3QoFWgu7bfil) | 0:29 |
 | 80 | [Introspection](https://open.spotify.com/track/2dUStnVW2074l0kDgyaOXi) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Bring On The Sun](https://open.spotify.com/album/7xUsRZxshNuW9iS13aPYpq) | 10:57 |
 | 81 | [Angle of List](https://open.spotify.com/track/6lgDvkxcWNnCefaT2qeJPf) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Sea Island](https://open.spotify.com/album/2GLSvGxliKx2LbRAKK7Led) | 6:45 |
 | 82 | [Poa Alpina](https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 4:11 |

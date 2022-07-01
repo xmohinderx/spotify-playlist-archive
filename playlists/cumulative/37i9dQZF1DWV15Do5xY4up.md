@@ -4,7 +4,7 @@
 
 > Float away to the weightless sound of breakbeat.
 
-73 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/6MjU8sbu7rivCAJe8NSwWV)
+73 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/6MjU8sbu7rivCAJe8NSwWV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Intercooler](https://open.spotify.com/track/37WX8Luypjzr6OM1dGpC7d) | [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t) | [Intercooler](https://open.spotify.com/album/537Ja6WhxbWWBpDTY4phOR) | 7:36 | 2021-10-23 |  |
 | [Just Hold On \- Sub Focus & Wilkinson](https://open.spotify.com/track/1cJdIbouxNm1DXYq8A6JSO) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r) | [Just Hold On \(Sub Focus & Wilkinson\)](https://open.spotify.com/album/5zWKlLdoDaK74VLgjCHhar) | 4:58 | 2021-10-23 |  |
 | [Lambert Rise](https://open.spotify.com/track/7txXvBBhA0YB5L3Bopg5e8) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Ambivalent](https://open.spotify.com/album/7dZYB94TjHB1Kub44SK9j9) | 6:34 | 2021-10-23 |  |
-| [Leaf](https://open.spotify.com/track/3kFX2uUuRtujp20lxIHbwF) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Leaf](https://open.spotify.com/album/0pykvqYUvN9Q8IO0gpw9Qq) | 4:06 | 2021-10-23 |  |
+| [Leaf](https://open.spotify.com/track/3kFX2uUuRtujp20lxIHbwF) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Leaf](https://open.spotify.com/album/0pykvqYUvN9Q8IO0gpw9Qq) | 0:29 | 2021-10-23 |  |
 | [Let’s Just](https://open.spotify.com/track/1WcNMJDbf4LkWa5bFNNOUw) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T) | [Let's Just / Can't Explain](https://open.spotify.com/album/18DGzL6akFFZw13Ey5M6oc) | 2:58 | 2021-10-23 |  |
 | [Life In A Mind](https://open.spotify.com/track/4JVF59QcAnw65v74ZK4DW2) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Tread](https://open.spotify.com/album/5wKXfInna4rPKYVhdiSgQA) | 5:03 | 2021-10-23 |  |
 | [Livia](https://open.spotify.com/track/7ksIP3PvENgGJkviy7qgJm) | [Amy Root](https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73) | [Livia](https://open.spotify.com/album/73RxDJ0nHrF19V4q2l8UZW) | 3:35 | 2021-10-23 |  |
@@ -48,15 +48,15 @@
 | [Love Is All We Share \- Octo Octa Deep Feelings Remix](https://open.spotify.com/track/69OWyXVNKSZRUKp0stDTHY) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS), [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [Freeze, Melt \(Remixes\)](https://open.spotify.com/album/6TnFFOov0T7vrYbqusY8IT) | 7:14 | 2021-10-23 |  |
 | [Love Minus Zero](https://open.spotify.com/track/2LvoLTGnFfuQp93zdnBTL1) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Love Minus Zero](https://open.spotify.com/album/6AKrGHekVqZ5PxCCt8bviy) | 5:13 | 2021-10-23 |  |
 | [Love Nobody](https://open.spotify.com/track/2vqyZJ5F0VUarD6TrJ4Y3t) | [Kieran Hemming](https://open.spotify.com/artist/0y7PZphnEbZAG2JHlPR4Pi) | [Love Nobody](https://open.spotify.com/album/6XqXlaDJF5cklmRifphMjU) | 4:31 | 2021-10-23 |  |
+| [Lovin U](https://open.spotify.com/track/5NS2mvyyimFo4GStYcjrL1) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Falling In Love](https://open.spotify.com/album/2ZXNASZ0miJJPHZMRzrRLh) | 0:29 | 2021-10-23 |  |
 | [Lovin U](https://open.spotify.com/track/56xdjzfE5K0Fxq2LCs3RLS) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Falling in Love](https://open.spotify.com/album/6lrT0niPPS9FBnh5W7YIP8) | 5:08 | 2021-10-23 |  |
-| [Lovin U](https://open.spotify.com/track/5NS2mvyyimFo4GStYcjrL1) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Falling In Love](https://open.spotify.com/album/2ZXNASZ0miJJPHZMRzrRLh) | 5:08 | 2021-10-23 |  |
 | [Make U Move](https://open.spotify.com/track/2nvBQnVHOZvTP7DkHYGnVL) | [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [Caviar Cordial](https://open.spotify.com/album/4pSRL7cqcj8cPnOQQyLs5B) | 6:30 | 2021-10-23 |  |
 | [Mass Gathering](https://open.spotify.com/track/75SmTOHWEkyaUjcALTpmGW) | [Breaka](https://open.spotify.com/artist/2hTtDy5yaNWqVmBj7EpaAq) | [Mass Gathering](https://open.spotify.com/album/4VFAZ2yuxHo8NW6GfwIop2) | 5:50 | 2021-10-23 |  |
 | [Merge](https://open.spotify.com/track/0KjH4YiXnACgQMmGrvmniS) | [ARKELL LDN](https://open.spotify.com/artist/3Ot1MwW7hubGhaXagda1Hk) | [Merge](https://open.spotify.com/album/5iMbFgPqTi5rWgtzZSHSpV) | 4:55 | 2021-10-23 |  |
 | [Need You By My Side](https://open.spotify.com/track/22ddzTjm8BO39CySTC4J5y) | [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN) | [Need You By My Side](https://open.spotify.com/album/1iYfXhyJbX6SunMbZUKLcP) | 3:20 | 2021-10-23 |  |
 | [Oh Baby](https://open.spotify.com/track/45SDYGJmGrqWWrvo1Xvk57) | [Framewerk](https://open.spotify.com/artist/3sQiKqtxrIhI1lu7oxm9s1) | [Spiritual Revolution](https://open.spotify.com/album/3JgTuW5mIIWzbrFByVkDGA) | 6:49 | 2021-10-23 |  |
 | [Old Wives Tale](https://open.spotify.com/track/6P5mzQQddhBUa4EE3n6Zlu) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Old Wives Tale](https://open.spotify.com/album/1rM2WHjFo4m9P3McADxcC8) | 5:17 | 2021-10-23 |  |
-| [Opal](https://open.spotify.com/track/1nqNdeEJJTn13e9D7V5ABy) | [Nikonn](https://open.spotify.com/artist/1IUR872zLRlWXAfr7Uls4Q), [Chloe Ann](https://open.spotify.com/artist/0M3si2esFXD5q7uR6CROPc), [Melllo](https://open.spotify.com/artist/78ks8w7ilnLHMKd3lLqNTc) | [Opal](https://open.spotify.com/album/02vuelAR4xyXZP1ZecWryz) | 4:07 | 2021-10-23 |  |
+| [Opal](https://open.spotify.com/track/1nqNdeEJJTn13e9D7V5ABy) | [Nikonn](https://open.spotify.com/artist/1IUR872zLRlWXAfr7Uls4Q), [Chloe Ann](https://open.spotify.com/artist/0M3si2esFXD5q7uR6CROPc), [Melllo](https://open.spotify.com/artist/78ks8w7ilnLHMKd3lLqNTc) | [Opal](https://open.spotify.com/album/02vuelAR4xyXZP1ZecWryz) | 0:29 | 2021-10-23 |  |
 | [Overcast \- Kettama’s Del Boy Remix](https://open.spotify.com/track/3p3w4sqTA2IrBbedphOHHf) | [Pentland Park](https://open.spotify.com/artist/37A6Q7JvVr8WJphC513gXw), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Pentland Park](https://open.spotify.com/album/6muuoxRTUuGhKn483IYzD3) | 5:44 | 2021-10-23 |  |
 | [Pang](https://open.spotify.com/track/1o2gvYzfniqw5OYOC6KNtz) | [Soundbwoy Killah](https://open.spotify.com/artist/7GWKj0q6ycOb9PvBAX81w4) | [Pang](https://open.spotify.com/album/27fzgwULTXuPFht0WVqjIu) | 3:11 | 2021-10-23 |  |
 | [Paper Clouds](https://open.spotify.com/track/3A0rjl4awXKtGomCt9yQSn) | [Front Bench](https://open.spotify.com/artist/3eFX6PFnD0Vv3GlbpHrqve), [Tom Jarmey](https://open.spotify.com/artist/005aNwS2ayjqoZxwakSyt4) | [Clear Blue](https://open.spotify.com/album/13ErC7aXM3b3nYzZXXVwCY) | 6:13 | 2021-10-23 |  |

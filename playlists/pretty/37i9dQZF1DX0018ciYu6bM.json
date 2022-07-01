@@ -1,12 +1,12 @@
 {
   "description": "Rolling with the 'bops' in your Kimbap. Bringing you the songs that are currently trending and everything else in between. Cover: B.I",
-  "num_followers": 481401,
+  "num_followers": 482115,
   "original_name": "KimBops!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjAwMjU2OSwwMDAwMDI2MzAwMDAwMTgxOTE3MWUzZGQwMDAwMDE4MTQ5MTVmNzI0",
+  "snapshot_id": "MTY1NjU5NzU4OCwwMDAwMDI2NDAwMDAwMTgxYjRlOTJiZmEwMDAwMDE4MTQ5MTVmNzI0",
   "tracks": [
     {
       "added_at": "2022-06-23 16:42:49",
@@ -31,6 +31,22 @@
       "duration_ms": 219549,
       "name": "BTBT",
       "url": "https://open.spotify.com/track/7nthiiDfS9WHNHDMwmAz98"
+    },
+    {
+      "added_at": "2022-06-30 13:59:48",
+      "album": {
+        "name": "Ma Boy",
+        "url": "https://open.spotify.com/album/76EJZHFfzKIOrf97HE4at7"
+      },
+      "artists": [
+        {
+          "name": "SISTAR19",
+          "url": "https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU"
+        }
+      ],
+      "duration_ms": 196702,
+      "name": "Ma Boy",
+      "url": "https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1"
     },
     {
       "added_at": "2022-06-23 16:42:49",

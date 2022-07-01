@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VulteLVOkq.md) - [plain]
 
 > Just some of the many highlights from the <a href="spotify:artist:3PhoLpVuITZKcymswpck5b">Rocket Man</a>'s career.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,097,318 likes - 51 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,097,664 likes - 51 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VulteLVOkq.md) - [plain]
 | 42 | [Burn Down The Mission](https://open.spotify.com/track/6vS7WmlHHzv8to3XmIxHvD) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Tumbleweed Connection \(Deluxe Edition\)](https://open.spotify.com/album/0TuCLx6fu1rEd46r5Oxx7y) | 6:21 |
 | 43 | [Don't Go Breaking My Heart](https://open.spotify.com/track/6PfEJ050oh7DbAqDScmFmM) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Duets](https://open.spotify.com/album/5Lv4IZbfcdeAzljFwY8gzO) | 4:59 |
 | 44 | [Ghetto Gospel](https://open.spotify.com/track/2MQ51y5NhCyva4SgWmK2Me) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Loyal To The Game](https://open.spotify.com/album/6reqzR9irdAHWR8abHyqbG) | 3:58 |
-| 45 | [Made In England](https://open.spotify.com/track/6ryzRaNxzMtOHQkNRlReDh) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Made In England](https://open.spotify.com/album/6IaKLU7NOK4XzxNGDeyC9R) | 5:03 |
+| 45 | [Made In England](https://open.spotify.com/track/6ryzRaNxzMtOHQkNRlReDh) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Made In England](https://open.spotify.com/album/6IaKLU7NOK4XzxNGDeyC9R) | 0:29 |
 | 46 | [A Good Heart](https://open.spotify.com/track/6HuapIQx5d2311CutkhqAh) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night](https://open.spotify.com/album/10BzXBAjOIr8EkDsIYrY1B) | 4:50 |
 | 47 | [When Love Is Dying](https://open.spotify.com/track/1E57RLSEqhFOmNa4WycsOu) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Leon Russell](https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN) | [The Union \(Deluxe\)](https://open.spotify.com/album/7hZmPWO4fh1zlDBQOdRwSg) | 4:50 |
 | 48 | [Candle In The Wind 1997](https://open.spotify.com/track/3DUcaEvPO72PijivCjtZcU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Candle In The Wind 1997 / Something About ...](https://open.spotify.com/album/3g61rwvRs1NPeVBxuAMmHZ) | 4:10 |
 | 49 | [Wonderful Crazy Night](https://open.spotify.com/track/0Y3j5jrjyHX9K8UYwPdHie) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night](https://open.spotify.com/album/10BzXBAjOIr8EkDsIYrY1B) | 3:13 |
-| 50 | [Breaking Hearts \(Ain't What It Used To Be\)](https://open.spotify.com/track/3w7ALluoTA0KCX0m4DBa7V) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Breaking Hearts \(Remastered\)](https://open.spotify.com/album/7jKGIW8OzSkaHUuEINdGE3) | 3:33 |
+| 50 | [Breaking Hearts \(Ain't What It Used To Be\)](https://open.spotify.com/track/3w7ALluoTA0KCX0m4DBa7V) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Breaking Hearts \(Remastered\)](https://open.spotify.com/album/7jKGIW8OzSkaHUuEINdGE3) | 0:29 |
 | 51 | [Merry Christmas](https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Merry Christmas](https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK) | 3:28 |
 
-Snapshot ID: `MTY1NjU1MTgyOCwwMDAwMDAwMDlhNTc5YWQ1YjRkODVlMTU4YjliZTE2ZmZjNWZlMTg5`
+Snapshot ID: `MTY1NjYzOTM1OCwwMDAwMDAwMDlhNTc5YWQ1YjRkODVlMTU4YjliZTE2ZmZjNWZlMTg5`

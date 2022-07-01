@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RkXiUJ5aMs.md) - [plain]
 
 > A collection of inspired songs about life and the love of the father.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,624 likes - 65 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,624 likes - 65 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RkXiUJ5aMs.md) - [plain]
 | 20 | [Lead Me](https://open.spotify.com/track/7iuU9NU6rhcWNYJ1KjylTO) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Pieces Of A Real Heart](https://open.spotify.com/album/5U37znh7JU30xL3JHFLHAz) | 3:48 |
 | 21 | [Wildflower](https://open.spotify.com/track/34gHTjNvVeaZvCvCjPDKi3) | [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8) | [Wildflower](https://open.spotify.com/album/03tF78PniAEmmVoFIVQFKb) | 3:20 |
 | 22 | [The Beautiful Things We Miss](https://open.spotify.com/track/15JKU30tzA8Kq8kbEysqP8) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [All In](https://open.spotify.com/album/5oGhtfRrxbMxbGIfCeOgwW) | 3:23 |
-| 23 | [Dusty Road](https://open.spotify.com/track/2YpIziXbqt5XVQfjGQamLY) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Dusty Road](https://open.spotify.com/album/498FsuSGrpsPOXb4qgsQrN) | 3:24 |
+| 23 | [Dusty Road](https://open.spotify.com/track/2YpIziXbqt5XVQfjGQamLY) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Dusty Road](https://open.spotify.com/album/498FsuSGrpsPOXb4qgsQrN) | 0:29 |
 | 24 | [First a Son \- Live](https://open.spotify.com/track/1X5frOuRhgRxlWrB4PXZ5x) | [Brennan Joseph](https://open.spotify.com/artist/5mNtfek4Nd5a3OremU9wSI) | [First a Son \(Live\)](https://open.spotify.com/album/54ED5AYVMlLkwipCofO5qI) | 5:04 |
 | 25 | [I Want To Be Just Like You](https://open.spotify.com/track/7bNHXMLUgvoWzYwoKYQiSN) | [Phillips, Craig & Dean](https://open.spotify.com/artist/0g5OkLnQogzLrT9s5vw6kl) | [Phillips Craig & Dean Ultimate Collection](https://open.spotify.com/album/3e9jhBdYfyqByIl3j282X8) | 5:34 |
 | 26 | [Family](https://open.spotify.com/track/1VAVGF84xWOXojCoOjKsvV) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Eye On It \(Deluxe Edition\)](https://open.spotify.com/album/31vtzv0S08tqIUnxTOcDkV) | 3:46 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RkXiUJ5aMs.md) - [plain]
 | 36 | [Faithful Father](https://open.spotify.com/track/1nNpYVEUTLttNspEESv5xF) | [Twila Paris](https://open.spotify.com/artist/7ua35iM0VjwfuHopuQDScm) | [Greatest Hits](https://open.spotify.com/album/5XqM5WvxZTfLywTpcj0Oek) | 3:46 |
 | 37 | [Unfailing Love](https://open.spotify.com/track/2hJtYiDfwn57achG9nuiyl) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Arriving](https://open.spotify.com/album/4cCT11g6AEsDrDkyAome9f) | 3:59 |
 | 38 | [Then They Do \- With String Intro](https://open.spotify.com/track/7tUZJ2ZcRZXYZQlV7CsMB2) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Definitive Greatest Hits](https://open.spotify.com/album/5CFWkDEnKrS3Ar8Da5CGhR) | 4:30 |
-| 39 | [My Father's World](https://open.spotify.com/track/14flwcbz38Q5HeQiutm0SQ) | [Jadon Lavik](https://open.spotify.com/artist/4LIG4IMVuzGJjAhMxXtll1) | [Roots Run Deep](https://open.spotify.com/album/5tPtzi6wZupV9wQcpdb5yV) | 2:43 |
+| 39 | [My Father's World](https://open.spotify.com/track/14flwcbz38Q5HeQiutm0SQ) | [Jadon Lavik](https://open.spotify.com/artist/4LIG4IMVuzGJjAhMxXtll1) | [Roots Run Deep](https://open.spotify.com/album/5tPtzi6wZupV9wQcpdb5yV) | 0:29 |
 | 40 | [Between A Father and A Son](https://open.spotify.com/track/3ggjEASNMQ2n9s5WsPXT2i) | [Jace Everett](https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs) | [Old New Borrowed Blues](https://open.spotify.com/album/3ZdzLrDKAyYBv3nr8F6ggI) | 4:12 |
 | 41 | [Go There With You](https://open.spotify.com/track/66DrxT38CFyYPTciuHP3aR) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [The Ultimate Collection](https://open.spotify.com/album/2BnDCywIU8HvFlFZqkSOAj) | 5:18 |
 | 42 | [That Kind Of Love](https://open.spotify.com/track/2u9Gu96C6sZqsjt4LSt74F) | [PFR](https://open.spotify.com/artist/3sN4gtyVr2MeWXHCjQTey6) | [Very Best Of PFR](https://open.spotify.com/album/1SFT51YpZkhvsw0gSfKLo5) | 3:32 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RkXiUJ5aMs.md) - [plain]
 | 54 | [He Walked on Water \(feat\. Kenny Chesney\)](https://open.spotify.com/track/0av4Ea4otAKsAYCreKyWDl) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Anniversary Celebration](https://open.spotify.com/album/0PzcDkEDb9x7RFNzWYf1Fj) | 3:29 |
 | 55 | [Father And Son](https://open.spotify.com/track/2nU1cyrG92p8h99g3Gykwz) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [The Very Best Of Cat Stevens](https://open.spotify.com/album/3ds29BDzL13tt6Xy9tuFal) | 3:40 |
 | 56 | [Slow Down](https://open.spotify.com/track/1ENDLctAQDHtblpQYefF0I) | [Nichole Nordeman](https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh), [Pepper Ingram](https://open.spotify.com/artist/4J8EY2S50GWN8MuZ7hooT1) | [Every Mile Mattered](https://open.spotify.com/album/51HWO4nZXpw3nRosU2Nwsz) | 4:03 |
-| 57 | [Ready, Set, Don't Go](https://open.spotify.com/track/6qUfQrIWFEWjEXrj37ORon) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Country Sings Disney](https://open.spotify.com/album/2Y6qHoBWHY024rUlNPyGnz) | 3:49 |
+| 57 | [Ready, Set, Don't Go](https://open.spotify.com/track/6qUfQrIWFEWjEXrj37ORon) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Country Sings Disney](https://open.spotify.com/album/2Y6qHoBWHY024rUlNPyGnz) | 0:29 |
 | 58 | [How Deep The Father's Love For Us](https://open.spotify.com/track/2qyih496IOcMiU1FHoHFNd) | [Phillips, Craig & Dean](https://open.spotify.com/artist/0g5OkLnQogzLrT9s5vw6kl) | [The Ultimate Playlist \- The Early Years](https://open.spotify.com/album/2Ql4Kpm9oX0ReygLvCpLrR) | 3:19 |
 | 59 | [Little Boy On His Knees AKA Cameron's Song](https://open.spotify.com/track/6Hczkb1UlY1QfS0aO8nqTN) | [Cheri Keaggy](https://open.spotify.com/artist/0TJpmZw9iFR95HEsRxcvzL) | [Child Of The Father](https://open.spotify.com/album/6yePsevSZkLJtIxLUAQVJG) | 3:36 |
 | 60 | [New Day](https://open.spotify.com/track/1Jc3DqBxWynXZPQLmOEHEe) | [Robbie Seay Band](https://open.spotify.com/artist/4xPxYiZyp9SWFG3MIFkee5) | [Give Yourself Away](https://open.spotify.com/album/5ha4teFmoKCKiRKXg1CYuc) | 4:05 |

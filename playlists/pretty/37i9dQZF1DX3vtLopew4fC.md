@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume! Cover: Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,951 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,971 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 12 | [Loveback](https://open.spotify.com/track/1zMFtUBuAMMGfo9IVvTyp4) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Loveback](https://open.spotify.com/album/0tMJicJpp9D4JJSrlSBFsh) | 3:37 |
 | 13 | [Breakup On The Weekend](https://open.spotify.com/track/6YmN4J2HoGJSLtrsicU7ow) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Red In Revenge \- EP](https://open.spotify.com/album/0K2XD1DvekT47y3o6MtCr3) | 2:35 |
 | 14 | [what would you do?](https://open.spotify.com/track/4ewmHD3aRBmLyTsbGreNLw) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:46 |
-| 15 | [Half Empty](https://open.spotify.com/track/5P9r8VUZIn92AsTqe95nbW) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Half Empty](https://open.spotify.com/album/1RRvzs9YEYGWCunuLpZ3gH) | 3:24 |
+| 15 | [Half Empty](https://open.spotify.com/track/5P9r8VUZIn92AsTqe95nbW) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Half Empty](https://open.spotify.com/album/1RRvzs9YEYGWCunuLpZ3gH) | 0:29 |
 | 16 | [Caged Birds Don't Sing](https://open.spotify.com/track/59yTchIo69gcv6QK4lGcdJ) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [LET ME OUT I'M FREE!](https://open.spotify.com/album/4osFZQaMRxkx5DsfYVBhOG) | 3:29 |
 | 17 | [Like a Song](https://open.spotify.com/track/7okTYWZ414gXGNFi8vTuVh) | [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc) | [Like a Song](https://open.spotify.com/album/2GHtbtiB5eMh31qBFUSzbW) | 2:53 |
 | 18 | [Looking for Your Love](https://open.spotify.com/track/56sH4u4DPY9xUkog8vGDCp) | [FOXTROTT](https://open.spotify.com/artist/0fL7CM2Gv7L0r4Z2JsYtXu) | [The Motion / Looking for Your Love](https://open.spotify.com/album/5oatubY6iB4ukJXQDsCWRe) | 4:34 |

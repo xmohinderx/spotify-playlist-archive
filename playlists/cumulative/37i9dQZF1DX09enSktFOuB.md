@@ -4,7 +4,7 @@
 
 > Check out these funky Tanglish Love Tracks!<br/>Cover : Don
 
-53 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/7xedrfD7XNjPN7rkUrccs6)
+53 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/7xedrfD7XNjPN7rkUrccs6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Kadhal Cricket \- Love \(Not Out\)](https://open.spotify.com/track/2M8ic65G0VLkS6nEY53Uex) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Kharesma Ravichandran](https://open.spotify.com/artist/6XaNXEfQxuGqvzcHEwX6Qw) | [Thani Oruvan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7AOEe4UzP8MAtjwvzo2lcQ) | 3:33 | 2022-05-10 |  |
 | [Kannamma](https://open.spotify.com/track/45THyhjDbYhNU7bDrTTUK6) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Ispade Rajavum Idhaya Raniyum \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5F4OLoTCtVTsS3hB2zqFbI) | 4:16 | 2022-05-10 |  |
 | [Kannum Kannum](https://open.spotify.com/track/5FF8zFVcdfylo72ANbh9wV) | [Leslee Lewis](https://open.spotify.com/artist/42mDOvp3BiaMBM3ae4zWwV), [Andrea Jeremiah](https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj), [Vasundhara Das](https://open.spotify.com/artist/0myVJmNOHZ7v7g8JVWGw8H) | [Anniyan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6jVAsnneh2gwlQRfbJ5M13) | 5:25 | 2022-05-18 |  |
-| [Kutty Pattas](https://open.spotify.com/track/7AHKnQ6XB5l7GL4pTJWLZn) | [Santhosh Dhayanidhi](https://open.spotify.com/artist/45W4EDnXayqLZPpJQJAKN3), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [Kutty Pattas](https://open.spotify.com/album/2Ea9r6jaWYTgPGUB5ipQDs) | 3:59 | 2022-05-10 |  |
+| [Kutty Pattas](https://open.spotify.com/track/7AHKnQ6XB5l7GL4pTJWLZn) | [Santhosh Dhayanidhi](https://open.spotify.com/artist/45W4EDnXayqLZPpJQJAKN3), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [Kutty Pattas](https://open.spotify.com/album/2Ea9r6jaWYTgPGUB5ipQDs) | 0:29 | 2022-05-10 |  |
 | [Love Pannu \(Oru Punnagai Poove\)](https://open.spotify.com/track/22qapGEJDa6rbz3SEl391T) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp), [Prashanthini](https://open.spotify.com/artist/4joteb3wCfZYGKjvF0XvLx) | [12 B](https://open.spotify.com/album/4TeFkLji2pZHz8Te5gMwzn) | 4:39 | 2022-05-20 |  |
 | [Maacho](https://open.spotify.com/track/1L5jOr4vqumGibHTQtVwWq) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Mersal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0MDh58cA1cxQVOK5G7o2J5) | 4:35 | 2022-05-10 |  |
 | [Mayakirriye](https://open.spotify.com/track/5Xm4pHOZjks21F81pIdAba) | [Anivee](https://open.spotify.com/artist/4geIqmrfQoa4HDIF68vgiy), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Mayakirriye](https://open.spotify.com/album/5do7NqMxzn5MD3HWYdjDGy) | 3:09 | 2022-05-10 |  |

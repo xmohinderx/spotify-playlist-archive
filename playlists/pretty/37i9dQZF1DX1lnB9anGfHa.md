@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 
 > A journey into the unknown, dark, and experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,984 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,075 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,19 +34,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 24 | [Such A Drag](https://open.spotify.com/track/5YT4bVAzGz8sxh3vGFzzyJ) | [Elena Setién](https://open.spotify.com/artist/3Nh3SJTy4Q47oP45XHmdvg) | [Such A Drag](https://open.spotify.com/album/5Ymty4zuZZHYYPdynHvivm) | 3:46 |
 | 25 | [Leilani](https://open.spotify.com/track/5PMFcvLm1IA4lVAQW8FIXY) | [Witch Prophet](https://open.spotify.com/artist/5AkXlAsYDGWVZIYOhboeSM) | [Leilani](https://open.spotify.com/album/2YvWLUA9liTFn0a1Y4kGPg) | 2:17 |
 | 26 | [埋立地](https://open.spotify.com/track/0rpo0rlGKgl5dMvjsSVI3F) | [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [埋立地](https://open.spotify.com/album/1HISdd7iujfV5Z2vpXKjkd) | 3:06 |
-| 27 | [TWELVE](https://open.spotify.com/track/7MWrJXBSoTq6L7BvIsdFJp) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [ALIAS](https://open.spotify.com/album/3lpcZOAsYJzvPepNSbzMSb) | 2:32 |
+| 27 | [TWELVE](https://open.spotify.com/track/7MWrJXBSoTq6L7BvIsdFJp) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [ALIAS](https://open.spotify.com/album/3lpcZOAsYJzvPepNSbzMSb) | 0:29 |
 | 28 | [Me Acoplo](https://open.spotify.com/track/0MuFAufcq283OanYu5Ku8X) | [Párpados](https://open.spotify.com/artist/1gbutEmKJfSHRgXoTyEQO7) | [Párpados](https://open.spotify.com/album/3FMot3T0ERF8jjJZ1Guoov) | 4:00 |
 | 29 | [I Need You Right Now](https://open.spotify.com/track/4Mso4ICacStqBvbyEqKXvB) | [Marty Crown](https://open.spotify.com/artist/1uBIrNa3fN3hYsi0MKuLtS) | [I Need You Right Now](https://open.spotify.com/album/38yTFu2TPj6SgCx4rItkgk) | 4:07 |
-| 30 | [The Fountain](https://open.spotify.com/track/2W9OF8EQKVl6dexLio5REX) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 3:16 |
+| 30 | [The Fountain](https://open.spotify.com/track/2W9OF8EQKVl6dexLio5REX) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 0:29 |
 | 31 | [Dois Litorais](https://open.spotify.com/track/21YtqGhETmeKGMI0iZtA34) | [Mariá Portugal](https://open.spotify.com/artist/76rKC4Y5Yi4H4iPKxztPlP) | [Dois Litorais](https://open.spotify.com/album/7kNjniRhZmygaxlJoe7AFw) | 8:40 |
 | 32 | [Otro](https://open.spotify.com/track/4y2aw66CxenyRNHddJ6wFt) | [todo hombre es ruido](https://open.spotify.com/artist/5MaCKOuxFORaVHpJKsOH7e), [Caillou](https://open.spotify.com/artist/6SRjzYXse2LjszXueqw2vi), [Bucephalus](https://open.spotify.com/artist/55VusI1wUo1ZPSvdXt3Qqv) | [Otro](https://open.spotify.com/album/52iwoA7t8Sn6kkAfWzEh1D) | 4:39 |
 | 33 | [Normal Is Boring](https://open.spotify.com/track/5V1YHTOjbVAoH4ppT2sI21) | [R.Y.F.](https://open.spotify.com/artist/6KvSMX9OVVJxn6mfCXbAOe), [So Beast](https://open.spotify.com/artist/0BKQOZ5ah55hiPw8EMXxoE) | [Normal Is Boring](https://open.spotify.com/album/3ZXO9QaHedT9Nrat9er7Mo) | 4:42 |
-| 34 | [popular](https://open.spotify.com/track/4n9TwryLI8dc7JA7zCS7He) | [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [search result](https://open.spotify.com/album/0QImn8JzTpAMxhGdKWzJCk) | 3:33 |
+| 34 | [popular](https://open.spotify.com/track/4n9TwryLI8dc7JA7zCS7He) | [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [search result](https://open.spotify.com/album/0QImn8JzTpAMxhGdKWzJCk) | 0:29 |
 | 35 | [Barongan III](https://open.spotify.com/track/6btmo0iGDjMcYj4zHTvMvn) | [Raja Kirik](https://open.spotify.com/artist/22j4DsKGQEcOie7PvfQIVj) | [Rampokan](https://open.spotify.com/album/0JtcEEPTPv9JujTZtJYvZ1) | 3:35 |
 | 36 | [Watch](https://open.spotify.com/track/7dXD5KXxYVTpAv6Bcsp85c) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [KiCk i](https://open.spotify.com/album/2KICtQ7dqaaot7B1yN9wPq) | 2:28 |
 | 37 | [Salv Goes To Hollywood](https://open.spotify.com/track/4cEhfMDQJenkOB12pvW051) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Salvador](https://open.spotify.com/album/7sutGPUG2T56ubUjlhSaE9) | 3:02 |
 | 38 | [Прыгай](https://open.spotify.com/track/7keFTSP0LQMj09887ZCmxJ) | [МОНОНОКЕ](https://open.spotify.com/artist/73EIVLp8UyAWcjLK6Mty8S) | [Прыгай](https://open.spotify.com/album/2ASG6eVHytocsxAxuLrFAV) | 2:42 |
-| 39 | [A Garden by the Sea](https://open.spotify.com/track/1Nzdc7gAPufUvqXulMHsWu) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 4:42 |
+| 39 | [A Garden by the Sea](https://open.spotify.com/track/1Nzdc7gAPufUvqXulMHsWu) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 0:29 |
 | 40 | [drowning](https://open.spotify.com/track/7zG96zOUfMR01JKGDskylX) | [kraymira](https://open.spotify.com/artist/6SSZMkPO9imVUp2ZN9sITn) | [drowning](https://open.spotify.com/album/7onJZ3rdjU9yEjho30raQe) | 2:18 |
 | 41 | [Tommy](https://open.spotify.com/track/5DIDBpv8X1eDO9v5b5IJn1) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Tommy Genesis](https://open.spotify.com/album/5c5i8rgLzFHNI5Y3Wc1C39) | 2:42 |
 | 42 | [pink diamond](https://open.spotify.com/track/3V0PgcsUMlAGXwCD0084pY) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:04 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 72 | [PAPER BOYFRIEND](https://open.spotify.com/track/5kmgBZhT1uXEljgE0EJahO) | [GFOTY](https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC), [Spinee](https://open.spotify.com/artist/3DvZPVHIRXdnEluWadwf71) | [Dog Food](https://open.spotify.com/album/3aVuMazxmHxjR4YwCHWOrX) | 2:03 |
 | 73 | [Ponyboy](https://open.spotify.com/track/30lIB7UwSLy5qgkfYZEtB1) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:14 |
 | 74 | [Courageous Grieving](https://open.spotify.com/track/5QaHynEux80dsEFkadZg6m) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv) | [goddexx](https://open.spotify.com/album/0fqg1XSlbYFEKsyVbZhiFV) | 4:06 |
-| 75 | [Hot Pink](https://open.spotify.com/track/59rdoga3q8OVCR5WnSGVM8) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [I'm All Ears](https://open.spotify.com/album/4TgXvHJWXGk0BlBvfs13Qg) | 4:08 |
+| 75 | [Hot Pink](https://open.spotify.com/track/59rdoga3q8OVCR5WnSGVM8) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [I'm All Ears](https://open.spotify.com/album/4TgXvHJWXGk0BlBvfs13Qg) | 0:29 |
 
 Snapshot ID: `MTY0NTIwODc5MSwwMDAwMDAxMzAwMDAwMTdmMGUxNWU4YjAwMDAwMDE3NTQyYjA0Yzc1`

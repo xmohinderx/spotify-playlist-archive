@@ -4,7 +4,7 @@
 
 > Sometimes only music can describe that feeling...
 
-33 songs - 2 hr 5 min - [published](https://open.spotify.com/playlist/0laoyF2mlTIVCq7uGZIeYQ)
+33 songs - 2 hr 2 min - [published](https://open.spotify.com/playlist/0laoyF2mlTIVCq7uGZIeYQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Off Road](https://open.spotify.com/track/3HPMrClJOyhFK4G5WSk3hY) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Off Road](https://open.spotify.com/album/4zpo68xBe58RxIb4gKTgdK) | 3:17 | 2016-09-01 |  |
 | [One Time](https://open.spotify.com/track/1Z4UKak2eNteHFZkwiYPNz) | [Marian Hill](https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5) | [Sway](https://open.spotify.com/album/4GgwHp794AzZkv2hh8geZu) | 3:37 | 2016-09-01 |  |
 | [Opaque](https://open.spotify.com/track/2JiGBWSNdoZY3LA1NvFrKw) | [Smoke Season](https://open.spotify.com/artist/1WNXj8T5x4LqlHgr1kMIdc) | [Hot Coals Cold Souls](https://open.spotify.com/album/2PsJuf0H17AqYjmZnqmkUA) | 4:31 | 2016-09-01 |  |
-| [push pull](https://open.spotify.com/track/6pTfJ82DLrBoTTaKJrFr7R) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [another eternity](https://open.spotify.com/album/4ymjpcGruNuUUUZOeGawLe) | 3:27 | 2016-09-01 |  |
+| [push pull](https://open.spotify.com/track/6pTfJ82DLrBoTTaKJrFr7R) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [another eternity](https://open.spotify.com/album/4ymjpcGruNuUUUZOeGawLe) | 0:29 | 2016-09-01 |  |
 | [Repeat Pleasure](https://open.spotify.com/track/2z5pZh5P21JzkwJJcM1cez) | [How To Dress Well](https://open.spotify.com/artist/4jLcgJjDGmW0HmvbSf6lEI) | ["What Is This Heart?" \(Deluxe Edition\)](https://open.spotify.com/album/329XZJQ2x2nRNhly1itL49) | 3:35 | 2016-09-01 |  |
 | [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 | 2016-09-01 |  |
 | [S.I.D.](https://open.spotify.com/track/3RJjFMiqWv6QrGWALr2OcJ) | [Rainsford](https://open.spotify.com/artist/4XxCuxkBeoJUdzaVRGJjrJ) | [S.I.D.](https://open.spotify.com/album/2GbtL0D2gllHGbW1C7UYhb) | 4:03 | 2016-09-01 |  |

@@ -4,7 +4,7 @@
 
 > Cause I'm a person just like you but I got better things to do.
 
-105 songs - 3 hr 34 min - [published](https://open.spotify.com/playlist/5NtBv1IdltVmxVho4kFItt)
+105 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/5NtBv1IdltVmxVho4kFItt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Bullets Over Boston](https://open.spotify.com/track/01fCsm3Gtrqynv6oNor9lD) | [Embrace Today](https://open.spotify.com/artist/4IcUGoGY4veE5OC3OrmQ2b) | [We Are the Enemy](https://open.spotify.com/album/6ywb9QyM4WwzwFJbLjrQLH) | 1:56 | 2021-07-09 |  |
 | [C.M.F.](https://open.spotify.com/track/4sVBaie6L3Z1evIhj9MDbn) | [Minority Unit](https://open.spotify.com/artist/4zr6dHfZKuO0HvwuqexH9y) | [Demo 2011](https://open.spotify.com/album/6PhnqBic75cWVIYaz97Cni) | 0:57 | 2021-07-09 |  |
 | [Captain Straight Edge](https://open.spotify.com/track/0oKdSBEPOZnwZw7A75vy7j) | [International Superheroes Of Hardcore](https://open.spotify.com/artist/4wZlbQ4DHcoO6ByinZsMCe) | [Tip Of The Iceberg & Takin' It Ova!](https://open.spotify.com/album/06LWQpGD7em77xUyCCHJh9) | 1:24 | 2021-07-09 |  |
-| [Chain of Strength](https://open.spotify.com/track/157oftOeXHSQrm5ZAR9H3i) | [Justice League](https://open.spotify.com/artist/5pCvzkiLM9KubR9FiHQmPv) | [Shattered Dreams](https://open.spotify.com/album/6wg43Kj54KVPerX0QQF4pm) | 2:10 | 2021-07-09 |  |
+| [Chain of Strength](https://open.spotify.com/track/157oftOeXHSQrm5ZAR9H3i) | [Justice League](https://open.spotify.com/artist/5pCvzkiLM9KubR9FiHQmPv) | [Shattered Dreams](https://open.spotify.com/album/6wg43Kj54KVPerX0QQF4pm) | 0:29 | 2021-07-09 |  |
 | [Clash of Views](https://open.spotify.com/track/1BcMCTaQTaifdcYe7F6aPR) | [Hard Stance](https://open.spotify.com/artist/1MV1p91Jn8anZ7MLXPcoNQ) | [Foundation: The Discography](https://open.spotify.com/album/1Du3Br3tF91ohQHswgpfAq) | 0:59 | 2021-07-09 |  |
 | [Clear](https://open.spotify.com/track/3INPAxFBMlrqtTTZdG6efG) | [Floorpunch](https://open.spotify.com/artist/4gcuCFzrnm2oDNMINc6IVF) | [Twin Killing](https://open.spotify.com/album/3HFfkwE1WiwpNbCEH9LZOG) | 1:47 | 2021-07-09 |  |
 | [Coll\-Edge](https://open.spotify.com/track/00h43Zi1NyfhRUG7QqatNv) | [Good Clean Fun](https://open.spotify.com/artist/67G4Qrj2sRB05bYjofHWc2) | [Positively Positive](https://open.spotify.com/album/5nuGVuiXvDDJeFVT8hGloY) | 2:27 | 2021-07-09 |  |
@@ -72,7 +72,7 @@
 | [No Thanks](https://open.spotify.com/track/1QVpC837DSeME6737Cap0S) | [Uniform Choice](https://open.spotify.com/artist/6qpyWv3OuPK3kVXWPRipWy) | [Screaming for Change](https://open.spotify.com/album/4S8bsJwl0Usp3k1OGW4nK7) | 2:12 | 2021-07-09 |  |
 | [Not for Me](https://open.spotify.com/track/2iHrDSkDhKvvoljjam1naY) | [Floorpunch](https://open.spotify.com/artist/4gcuCFzrnm2oDNMINc6IVF) | [Twin Killing](https://open.spotify.com/album/3HFfkwE1WiwpNbCEH9LZOG) | 0:49 | 2021-07-09 |  |
 | [Not For Me](https://open.spotify.com/track/4ClWDMg91Y68ApgudaBFfo) | [Insted](https://open.spotify.com/artist/3122FeGvz8tC7SRIcVN7sp) | [What We Believe](https://open.spotify.com/album/65BpyWxH8OcTi608WXbuBn) | 2:01 | 2021-07-09 |  |
-| [Once and for all](https://open.spotify.com/track/2PNbQPRtT0KpFua7ySslay) | [Up Front](https://open.spotify.com/artist/1a7OFogVYYbn7YUtSAxaUN) | [Spirit](https://open.spotify.com/album/7ibrZDaOn9EGLzBhjIWlQb) | 2:18 | 2021-07-09 |  |
+| [Once and for all](https://open.spotify.com/track/2PNbQPRtT0KpFua7ySslay) | [Up Front](https://open.spotify.com/artist/1a7OFogVYYbn7YUtSAxaUN) | [Spirit](https://open.spotify.com/album/7ibrZDaOn9EGLzBhjIWlQb) | 0:29 | 2021-07-09 |  |
 | [One Life Drug Free](https://open.spotify.com/track/053URkkKwe5ko85V8GSPru) | [Confront](https://open.spotify.com/artist/28lGKZ0RxCogjpaAL91G84) | [Only The Strong 1990](https://open.spotify.com/album/2OKJezabLjBnPQs2Zw8WQx) | 1:52 | 2021-07-09 |  |
 | [One Life Drug Free](https://open.spotify.com/track/05YSAFlPixjdJeV5X5Cnfc) | [Confront](https://open.spotify.com/artist/28lGKZ0RxCogjpaAL91G84) | [Only The Strong 1990](https://open.spotify.com/album/69fM9lJwXAwdvWYOgfbby9) | 1:52 | 2021-07-09 |  |
 | [Poison in Your Brain](https://open.spotify.com/track/7ag94KI0yl1QgmS4LGdI3t) | [Better Than A Thousand](https://open.spotify.com/artist/6UjHn2OvqgCx1xMBUEMo0E) | [Value Driven](https://open.spotify.com/album/5Ju1b0jJoCNyGFPBzxg7tI) | 1:08 | 2021-07-09 |  |

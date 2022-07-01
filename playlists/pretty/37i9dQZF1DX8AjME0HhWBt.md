@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AjME0HhWBt.md) - [plain]
 
 > Disfruta toda la música de Rombai!
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,501 likes - 46 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,513 likes - 46 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [DISTANCIA](https://open.spotify.com/track/5QNeB6iBjDirQ7bqgfB5XP) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [DISTANCIA](https://open.spotify.com/album/15zYwgMtafg7Uu3SwY2PyU) | 2:29 |
-| 2 | [Me Encanta](https://open.spotify.com/track/3xr7FTBhWp0TQQ4yba9MtS) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Me Encanta](https://open.spotify.com/album/56oTK09fUuK1nfTS3I27F4) | 1:33 |
+| 2 | [Me Encanta](https://open.spotify.com/track/3xr7FTBhWp0TQQ4yba9MtS) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Me Encanta](https://open.spotify.com/album/56oTK09fUuK1nfTS3I27F4) | 0:29 |
 | 3 | [No vas a cambiar](https://open.spotify.com/track/2JyR4XomCbSv543H904cME) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [No vas a cambiar](https://open.spotify.com/album/6kscFb5kafyfOzie0ZxAdz) | 2:34 |
 | 4 | [Me Voy](https://open.spotify.com/track/0hGHFAyClFZ7TFFSLIcb6Q) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [POSITIVO](https://open.spotify.com/album/7ou9LKrsviR5Mmf6eoB3lp) | 2:57 |
 | 5 | [Noche Loca](https://open.spotify.com/track/4pZ32dvFXW0PZD6ojA4Vri) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [De Fiesta \(Deluxe Version\)](https://open.spotify.com/album/7uWDfvVGkiAojIsARxIVy2) | 2:58 |

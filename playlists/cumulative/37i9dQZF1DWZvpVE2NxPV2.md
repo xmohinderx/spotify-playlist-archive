@@ -4,7 +4,7 @@
 
 > Peaceful ambient for mind body connection.
 
-105 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/4h4rBqtRamQg1x2iFDUEw4)
+105 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/4h4rBqtRamQg1x2iFDUEw4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Descendent](https://open.spotify.com/track/1WQU9B3hbamPd5uRsQuDEZ) | [The Thing About Noise](https://open.spotify.com/artist/3YDqHBcfFRqJ136NsrFyYa) | [Texture](https://open.spotify.com/album/5WDvrrJdqAhIRh97925mPe) | 3:06 | 2022-01-07 |  |
 | [Dharawi Nights](https://open.spotify.com/track/7J0ZO7IO5rcPG5cbTWoRuF) | [Secretpath](https://open.spotify.com/artist/3CgMjC9kBPZPgUZEmcjsnU) | [Dharawi Nights](https://open.spotify.com/album/1ZVSgPi74n655eUn8cXdGI) | 3:57 | 2022-01-07 | 2022-05-13 |
 | [Empty Spaces](https://open.spotify.com/track/02hFekfpXLbeoBIdCEgbBc) | [Everything Will Rust](https://open.spotify.com/artist/6ongOGTUwDaQjpqjnlkooi) | [Empty Spaces](https://open.spotify.com/album/4qfwY4yqkCdFGevRrcBsVB) | 3:48 | 2022-01-07 |  |
-| [Enchanting](https://open.spotify.com/track/5Th1JB1zTh6BtnvIuFXn4U) | [Pranayama Om](https://open.spotify.com/artist/6WrKGQdOj7BcZNZ8uvIWOV) | [Enchanting](https://open.spotify.com/album/6dfT9qNKN2NBJUgjPtvo9j) | 3:50 | 2022-01-07 |  |
+| [Enchanting](https://open.spotify.com/track/5Th1JB1zTh6BtnvIuFXn4U) | [Pranayama Om](https://open.spotify.com/artist/6WrKGQdOj7BcZNZ8uvIWOV) | [Enchanting](https://open.spotify.com/album/6dfT9qNKN2NBJUgjPtvo9j) | 0:29 | 2022-01-07 |  |
 | [Endlessness](https://open.spotify.com/track/56Hx2TNbbWeEk3I3H1Tzgz) | [Parker Woods](https://open.spotify.com/artist/1eNbVzydYSYdXyjnVSMypX) | [Endlessness](https://open.spotify.com/album/1sXwnBlGNqJjejMOM0QoNx) | 2:43 | 2022-01-07 |  |
 | [Esthetic](https://open.spotify.com/track/5opY79ADHYjzc0F3jYUqFV) | [Martina Bower](https://open.spotify.com/artist/3Si4nV51fin9nrnvRCWDRK) | [Esthetic](https://open.spotify.com/album/2IMf7MJ23NWU7ip6xGghSY) | 2:43 | 2022-01-07 |  |
 | [Eternal Slumber](https://open.spotify.com/track/4LmDvBu7x3Udb2ntXcFyOy) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [Eternal Slumber](https://open.spotify.com/album/21Dtw5RPCrdPVsj3RuaxC1) | 2:35 | 2022-01-07 |  |
@@ -58,7 +58,7 @@
 | [Nature's Imagination](https://open.spotify.com/track/6IUiftyTvtFHUVhcRLGm2D) | [Ashley Dhara](https://open.spotify.com/artist/61OvtyRZ5KlVLRehUKvCD5) | [Nature's Imagination](https://open.spotify.com/album/04rIly49ca8nk3EVt0WWU7) | 2:39 | 2022-01-07 |  |
 | [New Start](https://open.spotify.com/track/1hLLcQHEakwCMj8GJO8r7e) | [Nova Cantabile](https://open.spotify.com/artist/2Y6DHL3HjAYTtjKurRxg1l) | [Clear Voice](https://open.spotify.com/album/74ihRZpF4PUrmjR231bvVV) | 3:06 | 2022-01-07 |  |
 | [Norrsken](https://open.spotify.com/track/7CKEwdroqVwANCOaxNxMJJ) | [Lo Enemark](https://open.spotify.com/artist/1jjUoGgvY314VA1joJgCH7) | [Norrsken](https://open.spotify.com/album/17heXTSEn53tdHjV9zucu1) | 2:26 | 2022-03-02 |  |
-| [North Of Ishigaki](https://open.spotify.com/track/7KFPyAfvpOXtzdaVi6ugcc) | [Damir Yamm](https://open.spotify.com/artist/1IpLgouAHJGUP94xZkXi5z) | [North Of Ishigaki](https://open.spotify.com/album/6Cte7M05fVlHbj3Nwn0PEE) | 2:35 | 2022-01-07 |  |
+| [North Of Ishigaki](https://open.spotify.com/track/7KFPyAfvpOXtzdaVi6ugcc) | [Damir Yamm](https://open.spotify.com/artist/1IpLgouAHJGUP94xZkXi5z) | [North Of Ishigaki](https://open.spotify.com/album/6Cte7M05fVlHbj3Nwn0PEE) | 0:29 | 2022-01-07 |  |
 | [Overview](https://open.spotify.com/track/6bJS4c8xM5nGOtxqndR0G7) | [Magenta Dust](https://open.spotify.com/artist/6g7j780GtRaJOzRCzEuSrj) | [New Wings](https://open.spotify.com/album/0nIpY77hGOsJKfiWomgZXO) | 3:18 | 2022-03-02 |  |
 | [Pace Of Nature](https://open.spotify.com/track/1sB226w76E26PZRxcSA8Uq) | [Wissal Sakti](https://open.spotify.com/artist/1FiERGNLIiWDYa2nA0TcGD) | [Pace Of Nature](https://open.spotify.com/album/6NJjyT1Kr57k811DYQ7WEA) | 3:06 | 2022-01-07 |  |
 | [Pan Serenade](https://open.spotify.com/track/26hAV8CJvMK58Gdvve3vyx) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Pan Serenade](https://open.spotify.com/album/2YNQuawkFrWf9Fittz8cIq) | 3:34 | 2022-01-07 |  |
@@ -109,7 +109,7 @@
 | [Waves](https://open.spotify.com/track/6b0IEewTmxjEoowlloqId2) | [Aliya Coldwell](https://open.spotify.com/artist/0kUap0NamZGz6FwR7tCjUE) | [Waves](https://open.spotify.com/album/45zsAjed9wN1PpVTnkl6n5) | 2:56 | 2022-01-07 |  |
 | [Whalus](https://open.spotify.com/track/0SpMQOXBNSSrFD0n7xIxL4) | [Hibisc](https://open.spotify.com/artist/0YTD5FFHn4tt6ikL8fNqyi) | [Whalus](https://open.spotify.com/album/0hlEqr684mPySDKXqmON9w) | 1:51 | 2022-03-02 |  |
 | [Whole Again \- Yoga Version](https://open.spotify.com/track/1fdHVkA2KhOYjxBF7BUSle) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Happy](https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ) | 3:19 | 2022-01-07 |  |
-| [Yoga Depth](https://open.spotify.com/track/32HG8Lvryuz8NCQQW0YO46) | [Elevie J](https://open.spotify.com/artist/11nQp4wRj814vcNBbVKXua) | [Yoga Depth](https://open.spotify.com/album/7zWRfbF3Jzfku0Wbztivo7) | 2:12 | 2022-01-07 |  |
+| [Yoga Depth](https://open.spotify.com/track/32HG8Lvryuz8NCQQW0YO46) | [Elevie J](https://open.spotify.com/artist/11nQp4wRj814vcNBbVKXua) | [Yoga Depth](https://open.spotify.com/album/7zWRfbF3Jzfku0Wbztivo7) | 0:29 | 2022-01-07 |  |
 | [Zazen](https://open.spotify.com/track/3FkzIRfHSwD7BWfIsFDf7d) | [Isolde Mayer](https://open.spotify.com/artist/1hNufH9KnMW35douay0AoY) | [Zazen](https://open.spotify.com/album/7D6hFUf2mYOrtwT0ARzK6T) | 2:57 | 2022-05-12 |  |
 | [दुनिया के सपने](https://open.spotify.com/track/7wKteYGjLxGYGYw45SFCS0) | [Raku\-Nu](https://open.spotify.com/artist/19muc2M3JSNOXolYB1Z2Eh) | [दुनिया के सपने](https://open.spotify.com/album/0ihKyQCEMBXP9OzZLvnppA) | 2:03 | 2022-01-07 |  |
 | [हीलिंग संगीत](https://open.spotify.com/track/42OSQ6hAF9tviEK9IfU0uJ) | [Raku\-Nu](https://open.spotify.com/artist/19muc2M3JSNOXolYB1Z2Eh) | [हीलिंग संगीत](https://open.spotify.com/album/3B32SEiXthq0sp3WLuxrKj) | 2:46 | 2022-01-07 | 2022-06-03 |

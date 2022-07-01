@@ -4,7 +4,7 @@
 
 > Free your mind and let your thoughts flow to the sounds of guitar.
 
-113 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/4HU2Rw6bNgsjgvEsWWL6e8)
+114 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/4HU2Rw6bNgsjgvEsWWL6e8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Everything Works](https://open.spotify.com/track/11jKvrtLFbV0xALgUCTZLe) | [Colton Rhodes](https://open.spotify.com/artist/2s0UVTXzeFVuHYKKYcJNbk) | [Everything Works](https://open.spotify.com/album/5CC9fWU5JHy9usLNe9ZusV) | 3:31 | 2021-12-10 |  |
 | [Everythings Better With You](https://open.spotify.com/track/0RV12YvPOxIqg21RqyxVPs) | [Martín Lima](https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51) | [Everythings Better With You](https://open.spotify.com/album/15PxMtybhysgz6fQRK6PRf) | 2:13 | 2022-03-03 |  |
 | [Excelsior](https://open.spotify.com/track/4iFR7YK1CfJDoLlUde5WnP) | [River Foxcroft](https://open.spotify.com/artist/5Ew1humnVO2uALMyV8OB1h) | [Happy Days Are Long Awaited](https://open.spotify.com/album/5wdIAlVfMZD8wk927tNQgf) | 3:26 | 2021-12-10 | 2022-05-27 |
+| [Fjärilens vals](https://open.spotify.com/track/0c8qw1e6EKLoSP0ST7jByu) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Fjärilens vals](https://open.spotify.com/album/5uy8qV2Gc7M3bzfcOyrDBr) | 2:07 | 2022-07-01 |  |
 | [Flying out](https://open.spotify.com/track/0em6UnHzNwrpy2Bg13FQVE) | [Northside](https://open.spotify.com/artist/1dNJvEGHHgzCsXqfXuMxYy) | [Second Wind](https://open.spotify.com/album/00nScRMmuLvmAywU5VPdln) | 3:18 | 2021-12-10 |  |
 | [Follow Me](https://open.spotify.com/track/3mcnh0DtILL5mjk0dwR3oD) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Follow Me](https://open.spotify.com/album/0a6JQdPkBBa0mIYBVe7qj2) | 3:20 | 2022-03-03 |  |
 | [For Far Too Long](https://open.spotify.com/track/4bxljmuDdjLpfXRM98FFl3) | [Wanderer's Trove](https://open.spotify.com/artist/5G70OWQLpkb6IXJU1ut7E1) | [For Far Too Long](https://open.spotify.com/album/5MwHzCqgiHv2Pue2ov9y6z) | 4:56 | 2021-12-10 |  |
@@ -59,7 +60,7 @@
 | [If I Hold Her Tight](https://open.spotify.com/track/7DyqszQV23g2raAm9hYskl) | [Adrian Muriel](https://open.spotify.com/artist/0JSV9pQZCkhOL2pLXOGO3T) | [White Nights](https://open.spotify.com/album/2OOVDZBJZmeyXxg2OzhlL7) | 3:41 | 2021-12-10 |  |
 | [In the Blink of an Eye](https://open.spotify.com/track/1R1Efo6OOyo9SnR5sdl6dX) | [Claes Nilsson](https://open.spotify.com/artist/3AdcSxxep8tZESjs9K3mZ9) | [In the Blink of an Eye](https://open.spotify.com/album/1a1CrU23YN5PGR4ln2qlg0) | 2:47 | 2022-06-24 |  |
 | [Intuition](https://open.spotify.com/track/6vUsv2JJEUDjfKO6WPDJhZ) | [Miller Hawkins](https://open.spotify.com/artist/3UOaQwHxcBDlMJm5P34hme) | [Intuition](https://open.spotify.com/album/4yTM5RvuKvukyE0JudZm6G) | 2:54 | 2021-12-10 | 2022-04-22 |
-| [Kind & Generous](https://open.spotify.com/track/5OM5dE5QyrXSAHDiNELsta) | [Ferah Vargas](https://open.spotify.com/artist/7I2QqjVyk5dDrmPSiJgT1h) | [Kind & Generous](https://open.spotify.com/album/0RYH3vRRJP2wY0IZnhxg8R) | 3:21 | 2021-12-10 |  |
+| [Kind & Generous](https://open.spotify.com/track/5OM5dE5QyrXSAHDiNELsta) | [Ferah Vargas](https://open.spotify.com/artist/7I2QqjVyk5dDrmPSiJgT1h) | [Kind & Generous](https://open.spotify.com/album/0RYH3vRRJP2wY0IZnhxg8R) | 0:29 | 2021-12-10 |  |
 | [La Vida Toma Su Tiempo](https://open.spotify.com/track/504WEMo59nRahLl5NShft9) | [Raphaella Dominga](https://open.spotify.com/artist/3T2kkpx0Wn93vlxjaMnq81) | [Moinhos de Vento](https://open.spotify.com/album/2p7tpI6QcAlnCLzuG60ES4) | 4:02 | 2021-12-10 | 2022-05-27 |
 | [La Vigie](https://open.spotify.com/track/0rZm326H0WhDCntVeZkoWa) | [Duo Torrnatorés](https://open.spotify.com/artist/42LtbhP12SfMhVRjtJIW5z) | [La Vigie](https://open.spotify.com/album/2LZMJpmMgVUSdp9mK6nHlG) | 2:43 | 2021-12-10 | 2022-04-06 |
 | [Larghetto](https://open.spotify.com/track/3NvvbRZxy4yis6QTaHyVMx) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [Larghetto](https://open.spotify.com/album/03t88DnqTMUehsrndDhDf1) | 3:05 | 2022-01-07 |  |
@@ -78,7 +79,7 @@
 | [Olden Spirit](https://open.spotify.com/track/47bcgrek5JN64aJcLfPhX6) | [Aleena Pearson](https://open.spotify.com/artist/3RHvJYGOCSevN0zecANjhh) | [Olden Spirit](https://open.spotify.com/album/6nFuuKj4bGj7Ufj6ufFcfj) | 2:29 | 2022-03-03 |  |
 | [On A Slow Boat To China](https://open.spotify.com/track/31BnXTHUTtbowXVx3lc0Es) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [On A Slow Boat To China](https://open.spotify.com/album/2YXLeyv7L6ZXiIzX00jjMe) | 2:11 | 2022-06-10 |  |
 | [Paradise Cove](https://open.spotify.com/track/3lCez1NMvH5SXtWDYT6pSR) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [Paradise Cove](https://open.spotify.com/album/7w6OR7HvoGdQqDAoG271fw) | 4:16 | 2021-12-10 |  |
-| [Peace](https://open.spotify.com/track/6F0EP7RuYpUsIvppMg4NvY) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Peace](https://open.spotify.com/album/6mwJ5ErXnK8ylr8AidBzsR) | 2:45 | 2022-03-03 |  |
+| [Peace](https://open.spotify.com/track/6F0EP7RuYpUsIvppMg4NvY) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Peace](https://open.spotify.com/album/6mwJ5ErXnK8ylr8AidBzsR) | 0:29 | 2022-03-03 |  |
 | [Photos of the Sun](https://open.spotify.com/track/6pnuVKbhK0ROctyEzFpz5G) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Photos of the Sun](https://open.spotify.com/album/6rKBI95x3OvQyTnyuNYXeH) | 2:53 | 2021-12-10 |  |
 | [Pinus Halepensis](https://open.spotify.com/track/5vHDaXBGHiN5AroXmGjucE) | [Mario Regio](https://open.spotify.com/artist/37J9hiCCgzUYyi8V46abD2) | [Pinus Halepensis](https://open.spotify.com/album/5VbSF6F1JbowAFGpB3YB9C) | 2:35 | 2021-12-10 | 2022-05-27 |
 | [Primrose](https://open.spotify.com/track/0LQs4d7gVIBlqKCbWuF2R1) | [Werner Ellis](https://open.spotify.com/artist/6ipIg3Lr5yMA3BhgN8D6ai) | [Primrose](https://open.spotify.com/album/5Gh7vqOzgceuNfyFBzR4nT) | 2:48 | 2021-12-10 |  |

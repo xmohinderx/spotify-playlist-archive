@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 
 > <a href="spotify:artist:4UpA1KitN1RgIZVyWDbZ0U">DOMi & JD BECK</a> collaborates with Spotify on this playlist to share their jazz favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,752 likes - 32 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,843 likes - 32 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,14 +24,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 | 14 | [The 4.15 Bradford Executive](https://open.spotify.com/track/1PLlAyqIJ7wn0w4QQ64usg) | [Allan Holdsworth](https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG) | [Sand](https://open.spotify.com/album/3Ul5Q5UrTwjEc0DI0klsNl) | 8:28 |
 | 15 | [London Blues \- Live](https://open.spotify.com/track/6f6MqGqNva8WCyM0Ym94OK) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [The Art of the Trio, Vol\. 4: Back at the Vanguard](https://open.spotify.com/album/0c1xfh8IwwwxK0f5yiMt6o) | 7:37 |
 | 16 | [Snow Moon \- Remastered](https://open.spotify.com/track/3KIZHkkfjed3y0MDTED78G) | [Allan Holdsworth](https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG) | [Flat Tire \(Music for a Non\-Existing Movie\) \[Remastered\]](https://open.spotify.com/album/6syZrckuzLfmrFbIiXK0HZ) | 8:04 |
-| 17 | [I Wanna Be Loved](https://open.spotify.com/track/0XTwZcawE3Nrre8y6Heinl) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [I Wanna Be Loved](https://open.spotify.com/album/2C49E8kj9fymqSWRJ3PbRO) | 2:43 |
+| 17 | [I Wanna Be Loved](https://open.spotify.com/track/0XTwZcawE3Nrre8y6Heinl) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [I Wanna Be Loved](https://open.spotify.com/album/2C49E8kj9fymqSWRJ3PbRO) | 0:29 |
 | 18 | [Nubian Sundance \- Live](https://open.spotify.com/track/4EDEh1zQ7oYo0I9GFzYpuP) | [Weather Report](https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b) | [Mysterious Traveller](https://open.spotify.com/album/2JARH6A2TX28OzcPwJnD1p) | 10:39 |
 | 19 | [Spectrum](https://open.spotify.com/track/7qbSVmCBNqbMrUSDYKrCKs) | [The Tony Williams Lifetime](https://open.spotify.com/artist/056ewKKC7ayMJeL7y5h2cb) | [Emergency!](https://open.spotify.com/album/1waasXN8fMNbWh4xq7Akeg) | 8:51 |
 | 20 | [A Shifting Design](https://open.spotify.com/track/6LdDhxHQOsudyypBd5xBFa) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Star of Jupiter](https://open.spotify.com/album/7APtR02ltX46hAC5jZ8Kwx) | 5:59 |
 | 21 | [The Black Page \#1](https://open.spotify.com/track/4A8ERk42FbZrmUDDeewfco) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [LÄTHER](https://open.spotify.com/album/3o1ccFPWBiGFbflfAWQ8L5) | 1:57 |
 | 22 | [Blackkk](https://open.spotify.com/track/6bHorlL4WAz2BtQz3ubDr1) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Drunk](https://open.spotify.com/album/4anxEzh8xEKSPXKHGWiFue) | 1:59 |
 | 23 | [Oh No](https://open.spotify.com/track/156dhtf7IUH1Eu9lS4AtlO) | [The Mothers Of Invention](https://open.spotify.com/artist/3P2gYnypDVi90ZavnaAhfL) | [Zappa Original Motion Picture Soundtrack](https://open.spotify.com/album/391z2l9eAfCttmdvE4O5LP) | 1:45 |
-| 24 | [Flim](https://open.spotify.com/track/4q650OiSDQIwccxDFpuuBm) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/0ofaIVDxemaYYQipgWRYKp) | 2:57 |
+| 24 | [Flim](https://open.spotify.com/track/4q650OiSDQIwccxDFpuuBm) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/0ofaIVDxemaYYQipgWRYKp) | 0:29 |
 | 25 | [Conception](https://open.spotify.com/track/1LKQbtkCbtjcIm2BwsHf1Q) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [Piano Interpretations](https://open.spotify.com/album/5lhA0QNprEfnDsH15udB9R) | 3:36 |
 | 26 | [Windows](https://open.spotify.com/track/0f6Fb3g0DRpCIbhljotYwO) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Now He Sings, Now He Sobs](https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE) | 3:12 |
 | 27 | [Fred](https://open.spotify.com/track/3qfLV015NcpofyPCwAn9oJ) | [Tony Williams](https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe) | [Lifetime: The Collection](https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza) | 6:44 |

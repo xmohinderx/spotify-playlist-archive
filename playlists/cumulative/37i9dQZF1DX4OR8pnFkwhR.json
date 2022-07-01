@@ -421,7 +421,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 166615,
       "name": "crash",
       "url": "https://open.spotify.com/track/0M8fxdsZtUTqo4bD1HxOng"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 193799,
       "name": "error",
       "url": "https://open.spotify.com/track/3uvlV1OsLs1MzJDO7HdI3y"
@@ -813,7 +813,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 161320,
       "name": "GHOST",
       "url": "https://open.spotify.com/track/5hMPL9uwIHTMzV3ASz9IpI"
@@ -1852,6 +1852,24 @@
     },
     {
       "album": {
+        "name": "Chilli Beans.",
+        "url": "https://open.spotify.com/album/4eAn8XoBrzPRhzNGTctv4O"
+      },
+      "artists": [
+        {
+          "name": "Chilli Beans.",
+          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230553,
+      "name": "School",
+      "url": "https://open.spotify.com/track/4aFusxXDOfQyzSKlC2fg5b"
+    },
+    {
+      "album": {
         "name": "small talk",
         "url": "https://open.spotify.com/album/5bG9WMj67816n2pprdIgc0"
       },
@@ -2224,6 +2242,24 @@
     },
     {
       "album": {
+        "name": "Up Up",
+        "url": "https://open.spotify.com/album/6Y6b2S0ugs69ByuTNliQMI"
+      },
+      "artists": [
+        {
+          "name": "Monthly Mu & New Caledonia",
+          "url": "https://open.spotify.com/artist/57KdMq2pCCdMjConSyzDsN"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257881,
+      "name": "Up Up",
+      "url": "https://open.spotify.com/track/6hzaVqi6CHS7StPe7LRQFB"
+    },
+    {
+      "album": {
         "name": "Weigh me down",
         "url": "https://open.spotify.com/album/399zSYDYVqJbuSpuCy937C"
       },
@@ -2271,7 +2307,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 170326,
       "name": "YOUNG TOWN",
       "url": "https://open.spotify.com/track/5FjI7MuKuPUQD6PPntmD3m"
@@ -2539,7 +2575,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 217813,
       "name": "\u304a\u3084\u3059\u307f\u30d1\u30d1\u30de\u30de",
       "url": "https://open.spotify.com/track/3Qge3YHUBXMueWRIhn0XxV"
@@ -2979,7 +3015,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 193970,
       "name": "\u30c1\u30e7\u30b3\u30ec\u30a4\u30c8",
       "url": "https://open.spotify.com/track/21ZY22ShdeBxAxwGPtJPsP"
@@ -3167,6 +3203,24 @@
       "duration_ms": 176128,
       "name": "\u30df\u30e9",
       "url": "https://open.spotify.com/track/3Nh3i6YBmVN9zHGFuMlwd2"
+    },
+    {
+      "album": {
+        "name": "\u30e9\u30a4\u30e0\u30e9\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/0wVmz8nodc9IW0NFb8SP1L"
+      },
+      "artists": [
+        {
+          "name": "Kei Sugawara",
+          "url": "https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192784,
+      "name": "\u30e9\u30a4\u30e0\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/6dRVLa81jfp37EkKrv0trK"
     },
     {
       "album": {
@@ -4353,6 +4407,24 @@
       "duration_ms": 196613,
       "name": "\u7b11\u3063\u3066\u900f\u660e\u4eba\u9593",
       "url": "https://open.spotify.com/track/52d0HV5FhkjQxyWEuHFJ1D"
+    },
+    {
+      "album": {
+        "name": "\u7d2b\u967d\u82b1",
+        "url": "https://open.spotify.com/album/1u04N7C3ofQvRcYVikvS4b"
+      },
+      "artists": [
+        {
+          "name": "PEOPLE 1",
+          "url": "https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236666,
+      "name": "\u7d2b\u967d\u82b1",
+      "url": "https://open.spotify.com/track/3dPVqEzUiJ6yXs573CHeWv"
     },
     {
       "album": {

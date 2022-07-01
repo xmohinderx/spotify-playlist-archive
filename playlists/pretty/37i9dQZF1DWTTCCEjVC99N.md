@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 
 > Ya Wailee! Get ready for some serious 00s nostalgia\. Cover : Nancy Ajram
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,357 likes - 63 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,450 likes - 63 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 | 4 | [Aayshalak](https://open.spotify.com/track/6wE5bUgyErJTzGBqqbjdGo) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Aayshalak](https://open.spotify.com/album/4iitDZmbi4tg9iCyUVkXY4) | 4:40 |
 | 5 | [قلبي معذب](https://open.spotify.com/track/7d9vTDybKlnO9mI0sXvi9n) | [يوسف العماني](https://open.spotify.com/artist/5hMy9WpurfuusrrNfGXTjB) | [أحلى اثنين](https://open.spotify.com/album/2xaQDViCrqeoXhz6X3OPvM) | 6:18 |
 | 6 | [Allah Aleik Ya Seedy](https://open.spotify.com/track/2vknxlulbj1JApedTlmrZv) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Homma Kelmetain](https://open.spotify.com/album/4bZTy2HzhtQo2bwXs1EAUy) | 3:39 |
-| 7 | [Tamally Maak](https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Tamally Maak](https://open.spotify.com/album/1qmAaW25CPUyam9Wrp9ZEu) | 4:29 |
+| 7 | [Tamally Maak](https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Tamally Maak](https://open.spotify.com/album/1qmAaW25CPUyam9Wrp9ZEu) | 0:29 |
 | 8 | [Ya Tab Tab](https://open.spotify.com/track/4gk2kIAnfcLhZe1hQ3jC5g) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Ya Tab Tab](https://open.spotify.com/album/4YwYcMDoBFkq3Ht4tTRIQi) | 4:22 |
 | 9 | [Sabry Aalil](https://open.spotify.com/track/7qLXBcYW78is9LygQBziAU) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [Garh Tany](https://open.spotify.com/album/7iykGeMdxOdYtNRtYCNaMA) | 4:49 |
 | 10 | [Ah Ya Alby](https://open.spotify.com/track/7HT0g6P2sr8kypPzAFrg0n) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Tamni Aleek](https://open.spotify.com/album/0yvqd8VJNcQqT1z6OAQhDk) | 3:57 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 | 46 | [Wani Marek Marreyt](https://open.spotify.com/track/6ljw35RdMV2Ayompgrd6Rr) | [Assi El Helani](https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT) | [Wani Marek Marreyt](https://open.spotify.com/album/1M5q0rfZL83X4HavThIkKd) | 7:57 |
 | 47 | [El Hob El Kebir](https://open.spotify.com/track/093CMFUwvPyFIsjBsVfBPO) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [El Hob El Kebir](https://open.spotify.com/album/1dj55G9LZC4mbe8KaFFmHa) | 5:15 |
 | 48 | [Zanby Eih](https://open.spotify.com/track/6ZqA4riL2r1jHQYgwrI2K7) | [Iwan](https://open.spotify.com/artist/0TM9TIQSJCz8CdygWpuVbS) | [Alby Sahran](https://open.spotify.com/album/2tD94HgqWDkp4iixBiUe1f) | 4:13 |
-| 49 | [Ana Wel Shog](https://open.spotify.com/track/3PhIFsnWr59wvfxR2dj64x) | [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh) | [Myriam](https://open.spotify.com/album/6iUy4VnIeT9xthSA9RuiTq) | 4:35 |
+| 49 | [Ana Wel Shog](https://open.spotify.com/track/3PhIFsnWr59wvfxR2dj64x) | [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh) | [Myriam](https://open.spotify.com/album/6iUy4VnIeT9xthSA9RuiTq) | 0:29 |
 | 50 | [Hatgawez](https://open.spotify.com/track/19IIMZZtRKchdeDOoRP7wU) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [The Dance of My Heart](https://open.spotify.com/album/7o7GoxoHJEZt9lfiZdgJNd) | 4:37 |
 | 51 | [Akhbarak Eyh](https://open.spotify.com/track/1xwsERjO35E4aU0hAOAkq3) | [Maya Nasri](https://open.spotify.com/artist/6uWBIfU2k6qRUB4IICULO4) | [Akhbarak Eyh](https://open.spotify.com/album/2i3OKjgg3aItLX6rm6L2kf) | 4:30 |
 | 52 | [Monaya](https://open.spotify.com/track/3vL0Y0ixJVfLR9NWCtdzV4) | [Moustafa Amar](https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC) | [Monaya](https://open.spotify.com/album/1ZoNpXuq1Hw04ZWWZVslOX) | 3:33 |

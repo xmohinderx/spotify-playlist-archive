@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4psg7TSYpot.md) - [plain]
 
 > Acoustic pop songs for chill summer days or nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,956 likes - 96 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,052 likes - 96 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4psg7TSYpot.md) - [plain]
 | 9 | [You Get What You Give](https://open.spotify.com/track/7BoCnys48XsoCiJwE6g491) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [You Get What You Give](https://open.spotify.com/album/7eAjW0akqpFZc14QeBj4Gd) | 2:53 |
 | 10 | [Love Or Something Like It](https://open.spotify.com/track/5eyR23bfxuwk2zykBxf2Xp) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Love Or Something Like It](https://open.spotify.com/album/2NiB630yD0PdHvjcDLJwQz) | 2:52 |
 | 11 | [here comes the sun](https://open.spotify.com/track/3XTjsOmjzu5fVDCTlLpgIQ) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [here comes the sun](https://open.spotify.com/album/7yGmGWFrillHHv4p5b10q7) | 2:47 |
-| 12 | [No Rain](https://open.spotify.com/track/5CeUHrp7CEinXMlouKYBBZ) | [Nara Gilberto](https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs) | [No Rain](https://open.spotify.com/album/2P1DLrOdqJ06BFKA1hgoiu) | 3:16 |
+| 12 | [No Rain](https://open.spotify.com/track/5CeUHrp7CEinXMlouKYBBZ) | [Nara Gilberto](https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs) | [No Rain](https://open.spotify.com/album/2P1DLrOdqJ06BFKA1hgoiu) | 0:29 |
 | 13 | [Got You \(Where I Want You\)](https://open.spotify.com/track/35z45zlvjqUF2DLOOYBq4u) | [Marta Jobim](https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj) | [Got You \(Where I Want You\)](https://open.spotify.com/album/6sDxOln0tkqDXj8qy6t3Qd) | 3:13 |
 | 14 | [Hallelujah I Love Her So](https://open.spotify.com/track/48LMfAYrG763LOgugoXjZS) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/3EgPYI4IKI0YWHVPdDV8NF) | 2:43 |
 | 15 | [Eastside](https://open.spotify.com/track/4J2tPd3ptiD5kxbnq7t3Ge) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Lúc EP](https://open.spotify.com/album/4TUtNswdfx1J2kt0eKQqE2) | 4:01 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4psg7TSYpot.md) - [plain]
 | 74 | [Plowed](https://open.spotify.com/track/3F3fUJdadTQEqO81ZWF5ZK) | [Zoe De La Sera](https://open.spotify.com/artist/4bpDG5rmsYxLQHvRbIhSdx) | [Plowed](https://open.spotify.com/album/6dXn2EYiw4kD1PFwpgdLoM) | 3:18 |
 | 75 | [Fast Car](https://open.spotify.com/track/2pPPW5MlJg0JUPdqTrV3Ll) | [Chris Moreno](https://open.spotify.com/artist/4Bikw36AHYxTvphOQCWykA) | [Fast Car](https://open.spotify.com/album/4pIM0EG3s7vcZKcZHt0AHU) | 4:07 |
 | 76 | [Ho Hey](https://open.spotify.com/track/3cfb2iNdWpf1EZ4KaBLOjm) | [Peter Ryans](https://open.spotify.com/artist/2d6l7CTjCeBUSQmQNcmNH0) | [American Girl](https://open.spotify.com/album/0EArGGTFL9r7Qhqg3tfXqG) | 2:40 |
-| 77 | [Arcade](https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Arcade](https://open.spotify.com/album/0c5J1SUFA3rPbIZhK1kj62) | 2:28 |
+| 77 | [Arcade](https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Arcade](https://open.spotify.com/album/0c5J1SUFA3rPbIZhK1kj62) | 0:29 |
 | 78 | [Lightning Crashes](https://open.spotify.com/track/7e5dQ0xfbBFC4RWg7ogstX) | [Suzana Maximiliano](https://open.spotify.com/artist/0swyjVW2UWXf3aixsKCGc1) | [Lightning Crashes](https://open.spotify.com/album/45YVxODHqrMEgn8wU9qBaN) | 4:41 |
 | 79 | [I Don't Care \- Acoustic Version](https://open.spotify.com/track/6npKFnNEMN65CrS2BYf9nd) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [I Don't Care \(Acoustic Version\)](https://open.spotify.com/album/4Gn2Zma5G5bpVr8XlUCYzI) | 3:39 |
 | 80 | [Glycerine](https://open.spotify.com/track/5oyDs4s7zWcvPyOr6aenCW) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Glycerine](https://open.spotify.com/album/26RqcmCTKtxEo3W0ADbuSY) | 2:59 |

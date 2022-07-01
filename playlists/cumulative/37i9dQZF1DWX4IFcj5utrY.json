@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"http://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa\">Desiree</a>",
+  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F?si=-RfkUrS5QnWvdiZdKMTbAg\">DJ Bongz</a>",
   "name": "mint South Africa",
   "published_playlist_ids": [
     "24Uu3XWGtF4anu2FhCcmjB"
@@ -372,7 +372,7 @@
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 531147,
+      "duration_ms": 29048,
       "name": "Afro Brotherz (Russian Weapon)",
       "url": "https://open.spotify.com/track/6WFeNRHnWyrCCx7WOT6W3h"
     },
@@ -1741,7 +1741,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 187368,
       "name": "Care",
       "url": "https://open.spotify.com/track/4udWlgJOprvh2WaZZ4dn2i"
@@ -2399,7 +2399,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 472293,
       "name": "Espada",
       "url": "https://open.spotify.com/track/607ORYzuKPofnzNMJFpkSz"
@@ -4560,7 +4560,7 @@
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 466335,
+      "duration_ms": 29048,
       "name": "Make Up Your Mind",
       "url": "https://open.spotify.com/track/2yIXVCaIrvVL6TSamoMdVR"
     },
@@ -6900,6 +6900,32 @@
     },
     {
       "album": {
+        "name": "Road Trip",
+        "url": "https://open.spotify.com/album/5AzXeukxvO8Wb1vMMY4v58"
+      },
+      "artists": [
+        {
+          "name": "DJ Bongz",
+          "url": "https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F"
+        },
+        {
+          "name": "Goldmax",
+          "url": "https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl"
+        },
+        {
+          "name": "Dlala Thukzin",
+          "url": "https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322391,
+      "name": "Stingy",
+      "url": "https://open.spotify.com/track/5jVDjYaYHP0silwrtOM0Rh"
+    },
+    {
+      "album": {
         "name": "Strangers (with Mansionair) [Nora En Pure Remix]",
         "url": "https://open.spotify.com/album/4YGsa7amsy1eR6NoCzQyyZ"
       },
@@ -8415,6 +8441,28 @@
       "duration_ms": 259306,
       "name": "Woza",
       "url": "https://open.spotify.com/track/4GwGt8X3xWCq8qzu5F1126"
+    },
+    {
+      "album": {
+        "name": "Your Body Doesn't Lie",
+        "url": "https://open.spotify.com/album/4eVQc65pAKkux2cWz6ufyV"
+      },
+      "artists": [
+        {
+          "name": "Tortured Soul",
+          "url": "https://open.spotify.com/artist/365Fm0OgkStvN1wWzeyfDN"
+        },
+        {
+          "name": "Fka Mash Re-Glitch",
+          "url": "https://open.spotify.com/artist/14KgImolOAyPZc0W58DVi0"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359431,
+      "name": "Your Body Doesn't Lie - Fka Mash Re-Glitch Club Mix",
+      "url": "https://open.spotify.com/track/1Zo6aRyaaFapo3lLFz8dWN"
     },
     {
       "album": {

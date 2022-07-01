@@ -4,7 +4,7 @@
 
 > Saca, prende y sorprende con esta selección de buenas vibras\. Foto: Dread Mar I
 
-61 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/3JQCn0U5J7gjZIqJmCR5xX)
+61 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/3JQCn0U5J7gjZIqJmCR5xX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Saca, Prende y Sorprende](https://open.spotify.com/track/4IV9ITy4HpKRaBe23rEumA) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Saca, Prende y Sorprende](https://open.spotify.com/album/47dOYT39C4B11haR6tkWmg) | 5:57 | 2022-05-13 |  |
 | [Sentimiento Irie](https://open.spotify.com/track/7JH96fwwAYOxiRRLNKQcbc) | [La Tifa](https://open.spotify.com/artist/4iEgVksJc31oR01iG8vhGh) | [Pueblo](https://open.spotify.com/album/0qdHmF2X6AiVhecplSEfNU) | 3:48 | 2022-05-13 |  |
 | [Sol](https://open.spotify.com/track/5puRHAfjknvAqfgHCpIdo1) | [Alaíde](https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i) | [Sol](https://open.spotify.com/album/51EJaWaQVRJXo9ZeQW0G69) | 3:11 | 2022-05-13 |  |
-| [Suavemente](https://open.spotify.com/track/0YZyA7EF2LeTat01RWWzGQ) | [Don Páli](https://open.spotify.com/artist/0vmHcxir9eaM0VLfstxKMt) | [Suavemente](https://open.spotify.com/album/7qRi1ylJhlb2Kr5Fb6XF4Q) | 4:30 | 2022-05-13 |  |
+| [Suavemente](https://open.spotify.com/track/0YZyA7EF2LeTat01RWWzGQ) | [Don Páli](https://open.spotify.com/artist/0vmHcxir9eaM0VLfstxKMt) | [Suavemente](https://open.spotify.com/album/7qRi1ylJhlb2Kr5Fb6XF4Q) | 0:29 | 2022-05-13 |  |
 | [Sube El Humo](https://open.spotify.com/track/7u6a1GgYKhHAmJzkgf3Z9O) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [M.O.T.a.](https://open.spotify.com/album/7LF63ySuhryyEIs69iNnDv) | 4:41 | 2022-05-13 |  |
 | [Things You Can't Control](https://open.spotify.com/track/7Ll4gdgKSLGayN7BGhyuSh) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Trevor Young](https://open.spotify.com/artist/6FdpwFQezfnM4CtJuh2zaJ) | [Things You Can’t Control](https://open.spotify.com/album/1kykxJG3NLwarnxrt7hb2K) | 4:04 | 2022-05-13 |  |
 | [Three Little Birds](https://open.spotify.com/track/6A9mKXlFRPMPem6ygQSt7z) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD) | 3:00 | 2022-05-13 |  |

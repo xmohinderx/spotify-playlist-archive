@@ -4,7 +4,7 @@
 
 > The classic jazz guitarists and their finest pieces\. Cover: Grant Green
 
-100 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/7w8GJPrdmj1YWELU4DdBN4)
+100 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/7w8GJPrdmj1YWELU4DdBN4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,13 +19,13 @@
 | [Au Lait](https://open.spotify.com/track/5qNUdnpg2b2Xj1ZCYFZxFr) | [Pat Metheny Group](https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt) | [Offramp](https://open.spotify.com/album/1heeMC7VVWEDxdQKxesqQK) | 8:28 | 2022-05-24 |  |
 | [Autumn Leaves](https://open.spotify.com/track/2rFRXdxA9PupBVau54E3tl) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [Unforgettable](https://open.spotify.com/album/6B7Oo2qWozbz9hz1s4S8Yi) | 2:31 | 2022-05-24 |  |
 | [Autumn Leaves](https://open.spotify.com/track/4kAmZwI6PGdgMrkJaodfQp) | [Tal Farlow](https://open.spotify.com/artist/0dIXV3ffgWlMcnywNIy0Wf) | [Verve Jazz Masters: Tal Farlow](https://open.spotify.com/album/3s1NyCyNpsGKgUZncxwvyi) | 1:41 | 2022-05-24 |  |
-| [Beyond The Sea \(La Mer\)](https://open.spotify.com/track/1iqYqVkzPJAQ6Kgc0Kn2I5) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangology 49](https://open.spotify.com/album/7JHX9w5tOLvxZQDqXIaBlq) | 4:16 | 2022-05-24 |  |
+| [Beyond The Sea \(La Mer\)](https://open.spotify.com/track/1iqYqVkzPJAQ6Kgc0Kn2I5) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangology 49](https://open.spotify.com/album/7JHX9w5tOLvxZQDqXIaBlq) | 0:29 | 2022-05-24 |  |
 | [Blue Line](https://open.spotify.com/track/3IsWXJIIp1Z9T22rVDLLgk) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Heartcore](https://open.spotify.com/album/0zVWcCYxijtR8JcX5bBJfZ) | 6:11 | 2022-05-24 |  |
 | [Both Sides Now](https://open.spotify.com/track/7Meqm9jgQXhh08vdnbrvfY) | [Pat Martino](https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz) | [Cream](https://open.spotify.com/album/6R8qLTLbNFxzfBoavYUCXy) | 2:18 | 2022-05-24 |  |
 | [Bright Size Life](https://open.spotify.com/track/6UwTR0kjCtlT4FMNtIvLac) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Bright Size Life](https://open.spotify.com/album/1wyaHGxXkIGaLGSQTTgKzw) | 4:45 | 2022-05-24 |  |
 | [Brooklyn Sometimes](https://open.spotify.com/track/60AInuGWohJqz9VONqP8u2) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Deep Song](https://open.spotify.com/album/61ABrp2sjUlG2QhJr0LaZ8) | 8:22 | 2022-05-24 |  |
 | [Canto De Ossanha](https://open.spotify.com/track/0FCx8spWfkTjpEU7sEQr7M) | [Jonathan Kreisberg](https://open.spotify.com/artist/7MWuLeRKJ1WCx4GQRzT3Hy) | [One](https://open.spotify.com/album/3oZkynRnCLOPFi2elO0JXD) | 5:11 | 2022-05-24 |  |
-| [Caravan](https://open.spotify.com/track/2bpaLm1QOCoThKSvJmOFEC) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Movin' Wes](https://open.spotify.com/album/0dJZSz1W74REVpVeedPvS5) | 2:36 | 2022-05-24 |  |
+| [Caravan](https://open.spotify.com/track/2bpaLm1QOCoThKSvJmOFEC) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Movin' Wes](https://open.spotify.com/album/0dJZSz1W74REVpVeedPvS5) | 0:29 | 2022-05-24 |  |
 | [Crying](https://open.spotify.com/track/1UeLNAJiklqa9RGRvtVqUx) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Love Hurts](https://open.spotify.com/album/72SR28cHjGmcS8xaJJ0fve) | 5:34 | 2022-05-24 |  |
 | [D\-Natural Blues](https://open.spotify.com/track/5fxPh44pYzAR5M5KW5SdMk) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Incredible Jazz Guitar](https://open.spotify.com/album/74kBIzv8E0CG5V6qx5ytm2) | 5:20 | 2022-05-24 |  |
 | [Days Of Wine And Roses](https://open.spotify.com/track/1yegDiVa8d94H07ga1SLOt) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Boss Guitar](https://open.spotify.com/album/41Ymau5t3NA04iDRzdv3mR) | 3:46 | 2022-05-24 |  |
@@ -49,7 +49,7 @@
 | [It Could Happen To You](https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA) | [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz) | [Ellis In Wonderland](https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP) | 3:44 | 2022-05-24 |  |
 | [It's A Blue World \- Original](https://open.spotify.com/track/6VUzfooRLz88SbiBAeRf6v) | [Billy Bauer](https://open.spotify.com/artist/2Stsu7b2rXjs8idU9wjQgf) | [The Best of Billy Bauer](https://open.spotify.com/album/6VXcwfXihKz3qHQdLs1ZY9) | 4:13 | 2022-05-24 |  |
 | [James](https://open.spotify.com/track/5E7hYtzDxeIsa5yEI597KO) | [Pat Metheny Group](https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt) | [Offramp](https://open.spotify.com/album/1heeMC7VVWEDxdQKxesqQK) | 6:41 | 2022-05-24 |  |
-| [Jean De Fleur \- Rudy Van Gelder Edition / Remastered 1999](https://open.spotify.com/track/6ZniDtZIvYjdYHG8sHh2jD) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Idle Moments](https://open.spotify.com/album/1lDtUlOPGKp56gQ24MvmNG) | 6:49 | 2022-05-24 |  |
+| [Jean De Fleur \- Rudy Van Gelder Edition / Remastered 1999](https://open.spotify.com/track/6ZniDtZIvYjdYHG8sHh2jD) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Idle Moments](https://open.spotify.com/album/1lDtUlOPGKp56gQ24MvmNG) | 0:29 | 2022-05-24 |  |
 | [Joshua Fit De Battle Of Jericho](https://open.spotify.com/track/7M2stwcE97dpVizQHsGJpA) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Retrospective](https://open.spotify.com/album/5MYLIllbgBg8tdvThOe9XE) | 8:04 | 2022-05-24 |  |
 | [Let's Say We Did](https://open.spotify.com/track/301YnLmQmSX7mURPKvWOy5) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Time On My Hands](https://open.spotify.com/album/204uhoOaWn4a1XK8RmJi92) | 4:27 | 2022-05-24 |  |
 | [Lil' Darlin'](https://open.spotify.com/track/6G9gDSV2reYifOmD4cwUSf) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [Intercontinental](https://open.spotify.com/album/2zdmAZybFyUmIMPDok4y6A) | 3:44 | 2022-05-24 |  |

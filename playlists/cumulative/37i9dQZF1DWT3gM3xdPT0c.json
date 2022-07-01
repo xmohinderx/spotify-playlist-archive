@@ -314,6 +314,24 @@
     },
     {
       "album": {
+        "name": "Say My Name!",
+        "url": "https://open.spotify.com/album/3STB33e4MiSaNNvU2XXPbh"
+      },
+      "artists": [
+        {
+          "name": "Candelion",
+          "url": "https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187735,
+      "name": "Calming Rain",
+      "url": "https://open.spotify.com/track/7gGoipsdaoYS99Sjw7gizS"
+    },
+    {
+      "album": {
         "name": "Swaying",
         "url": "https://open.spotify.com/album/0uh0YgMWqpewFHCNy4yqtY"
       },
@@ -397,7 +415,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 143032,
       "name": "Cloudless",
       "url": "https://open.spotify.com/track/76PhNwBIgoytLw14EXOLXs"
@@ -559,7 +577,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 140610,
       "name": "Doldrums",
       "url": "https://open.spotify.com/track/2OUZUGb2q6rDXtXfDYmTmG"
@@ -739,7 +757,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 81168,
       "name": "Epica",
       "url": "https://open.spotify.com/track/0atiY3LbkLweNVGenk79sx"
@@ -757,7 +775,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 136499,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/2cyNPCRZwqmfZNSgb6K2d6"
@@ -1049,7 +1067,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 124272,
       "name": "Green Meadow",
       "url": "https://open.spotify.com/track/0z2dmmunpl2LB0iozr4yYv"
@@ -1230,7 +1248,7 @@
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 132375,
+      "duration_ms": 29048,
       "name": "I'm Coming Home To You",
       "url": "https://open.spotify.com/track/2fPgNS9Q6hMc0vzO4RLuEY"
     },
@@ -1287,7 +1305,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 99076,
       "name": "In the Makeup of the Sun - Instrumental Version",
       "url": "https://open.spotify.com/track/2yyUytDg93W9yK40uENJg6"
@@ -1468,7 +1486,7 @@
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 202431,
+      "duration_ms": 29048,
       "name": "Long Ago",
       "url": "https://open.spotify.com/track/660XH9scfuNHY2vU0Ct5lv"
     },
@@ -1503,7 +1521,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 65182,
       "name": "Long Road Ahead",
       "url": "https://open.spotify.com/track/7zlMT8vtMaAlzse8bWzWHR"
@@ -1744,6 +1762,24 @@
     },
     {
       "album": {
+        "name": "Pride of Pennsylvania",
+        "url": "https://open.spotify.com/album/6S7lCi6gre8ywHHxXjtUQO"
+      },
+      "artists": [
+        {
+          "name": "Roy Edwin Williams",
+          "url": "https://open.spotify.com/artist/0VEjBPjfkuIaX9CM2G53oW"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202470,
+      "name": "Pacific Northwest",
+      "url": "https://open.spotify.com/track/5lQYoVqNiXEyqfRiwWOI4v"
+    },
+    {
+      "album": {
         "name": "Past & Present",
         "url": "https://open.spotify.com/album/1YkLOGEug3hxm0QZPfWkcs"
       },
@@ -1756,7 +1792,7 @@
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 181174,
+      "duration_ms": 29048,
       "name": "Past & Present",
       "url": "https://open.spotify.com/track/43dy9gJMpgJmuhCS9fXreR"
     },
@@ -2098,9 +2134,27 @@
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 213499,
+      "duration_ms": 29048,
       "name": "Shoes Filled With Water",
       "url": "https://open.spotify.com/track/2yYjoMurH5WOclS46dZU7c"
+    },
+    {
+      "album": {
+        "name": "Sky",
+        "url": "https://open.spotify.com/album/6fFjqvw0ZkLTOihz2voCU0"
+      },
+      "artists": [
+        {
+          "name": "a sound for you",
+          "url": "https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113780,
+      "name": "Sky",
+      "url": "https://open.spotify.com/track/4gYayVU0GTqHEIqbLXu3N7"
     },
     {
       "album": {
@@ -2295,7 +2349,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 121624,
       "name": "The Butterfly\u00b4s Waltz",
       "url": "https://open.spotify.com/track/0gOYdJiVrxVtnsGSVP91Gq"
@@ -2313,7 +2367,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 195000,
       "name": "The Crossing",
       "url": "https://open.spotify.com/track/4eyQ0mKeAtbCW6aw7ukd07"

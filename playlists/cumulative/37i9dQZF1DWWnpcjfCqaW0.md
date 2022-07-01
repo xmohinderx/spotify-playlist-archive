@@ -4,7 +4,7 @@
 
 > The decade when country and rockabilly came together\. Cover: Johnny Cash
 
-107 songs - 4 hr 37 min - [published](https://open.spotify.com/playlist/2fX5VjjnFjAPoruPmq1WKV)
+107 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/2fX5VjjnFjAPoruPmq1WKV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Blue, Blue Day](https://open.spotify.com/track/0lgckCZ94ZjtCBpjfRL5Su) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [The Essential Don Gibson](https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH) | 1:53 | 2018-12-10 |  |
 | [Blues, Stay Away From Me](https://open.spotify.com/track/2ewXa1fuu1NwFn3zfdC3Ye) | [The Delmore Brothers](https://open.spotify.com/artist/10XMe12TQkDF6o4QPJlZFJ) | [16 All Time Favorite Songs](https://open.spotify.com/album/3OLbbEOcRa5Y3Loil0cxKT) | 2:54 | 2018-12-10 |  |
 | [Bye Bye Love](https://open.spotify.com/track/6oRHRkQigTzJ3KwpO3XOV6) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:22 | 2018-12-10 |  |
-| [Cattle Call](https://open.spotify.com/track/6Ha2dwEqdLBrDhImosfrBA) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [The Essential Eddy Arnold](https://open.spotify.com/album/2JQPr2Z79G7wkvZ8w5EzVs) | 2:43 | 2018-12-10 |  |
+| [Cattle Call](https://open.spotify.com/track/6Ha2dwEqdLBrDhImosfrBA) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [The Essential Eddy Arnold](https://open.spotify.com/album/2JQPr2Z79G7wkvZ8w5EzVs) | 0:29 | 2018-12-10 |  |
 | [Chattanoogie Shoe Shine Boy \- 1949 Single Version](https://open.spotify.com/track/7Jf323ttHKUnPylFWiaGl3) | [Red Foley](https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9) | [The Country Music Hall Of Fame](https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ) | 2:49 | 2018-12-10 |  |
 | [City Lights](https://open.spotify.com/track/62RfCZpT2zfBHRXD8yp2WV) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [Greatest Hits](https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX) | 2:59 | 2018-12-10 |  |
 | [Cold, Cold Heart \- Single Version](https://open.spotify.com/track/2ony3EiDrCcaeqciqJ5TmI) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW) | [The Best Of Hank Williams 20th Century Masters The Millennium Collection Volume 2](https://open.spotify.com/album/4YnyZb5jynQzX3X2JJ0AAh) | 2:43 | 2018-12-10 |  |
@@ -61,7 +61,7 @@
 | [I Can't Help It \(If I'm Still In Love With You\) \- Single Version](https://open.spotify.com/track/4T5kMpam4F1U4TnkrJWiHu) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW) | [The Best Of Hank Williams 20th Century Masters The Millennium Collection Volume 2](https://open.spotify.com/album/4YnyZb5jynQzX3X2JJ0AAh) | 2:23 | 2018-12-10 |  |
 | [I Can't Stop Loving You](https://open.spotify.com/track/3mewJ611cPqPIk8EQDiA12) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [The Essential Don Gibson](https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH) | 2:34 | 2018-12-10 |  |
 | [I Don't Hurt Anymore \- Remastered](https://open.spotify.com/track/52o7DuuvSLrk6ffYqVphMo) | [Hank Snow & His Rainbow Ranch Boys](https://open.spotify.com/artist/5guzUU95QNbzR8NalrE8kd) | [The Essential Hank Snow](https://open.spotify.com/album/0GcpueUt33P9XoObysUzFR) | 2:55 | 2018-12-10 |  |
-| [I Forgot More Than You'll Ever Know \- Remastered](https://open.spotify.com/track/1hV5guiKDYaQCKnwXXLzyH) | [The Davis Sisters](https://open.spotify.com/artist/2WVoGWk3tcKJd7Lc4QJ7ux) | [Skeeter Davis: RCA Country Legend](https://open.spotify.com/album/2pWSwDwX3lcPSe8vHY3NDy) | 3:01 | 2018-12-10 |  |
+| [I Forgot More Than You'll Ever Know \- Remastered](https://open.spotify.com/track/1hV5guiKDYaQCKnwXXLzyH) | [The Davis Sisters](https://open.spotify.com/artist/2WVoGWk3tcKJd7Lc4QJ7ux) | [Skeeter Davis: RCA Country Legend](https://open.spotify.com/album/2pWSwDwX3lcPSe8vHY3NDy) | 0:29 | 2018-12-10 |  |
 | [I Love You a Thousand Ways](https://open.spotify.com/track/7pWjsuL63J2CBvml3dCCS4) | [Lefty Frizzell](https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU) | [16 Biggest Hits](https://open.spotify.com/album/55O1JjrXNbKrJVw3AJ8FWJ) | 2:43 | 2018-12-10 |  |
 | [I Love You Because](https://open.spotify.com/track/0OnnbhUUfJ23b3UAbBbzAa) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87), [Leon Payne](https://open.spotify.com/artist/3QKtaL4wAhr7ccGnaHTLxQ) | [Best Jazz Country](https://open.spotify.com/album/5Zn7pDrgDmcQKGBHfg04IH) | 2:07 | 2018-12-10 |  |
 | [I Walk The Line \- Single Version](https://open.spotify.com/track/7kIDzcFzCSaPLOi4ZMt2Bx) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Classic Country Gold](https://open.spotify.com/album/7fpp1Q64fGPj0XXXh92ovu) | 2:43 | 2018-12-10 | 2022-05-07 |

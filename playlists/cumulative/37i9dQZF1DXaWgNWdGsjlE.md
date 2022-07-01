@@ -4,7 +4,7 @@
 
 > make a mess of it\. Cover: POORSTACY
 
-104 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/3yPNBCqDIplXzlh2PGS3eF)
+104 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/3yPNBCqDIplXzlh2PGS3eF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Last Resort & Spa](https://open.spotify.com/track/0XTF9X6GQuH44vh4K0bdps) | [Battle Tapes](https://open.spotify.com/artist/2TdEIqWbLnZZHYRDWvVj67) | [Form \- EP](https://open.spotify.com/album/2HteCpWX59nQdx0ctm8lkO) | 4:14 | 2022-04-08 |  |
 | [Legend Has It](https://open.spotify.com/track/4RnfMhMUMqHlrn4V6A3KfS) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Run the Jewels 3](https://open.spotify.com/album/3v2GjFB9V5kHgrOCXn3sI9) | 3:25 | 2022-04-08 |  |
 | [Lightning Over Mexico](https://open.spotify.com/track/3IxeUGg5HDUz6jhfr66m4A) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [The Catastrophists EP](https://open.spotify.com/album/6Kl5tzEtLjRKTPBtjw8NQr) | 4:11 | 2022-04-08 |  |
-| [Lights Out](https://open.spotify.com/track/0QVR1JB0Qmn3ACQlO4jmxH) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2), [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [Lights Out](https://open.spotify.com/album/0o92Evms1fdF3xwyFib88p) | 4:15 | 2022-04-08 |  |
+| [Lights Out](https://open.spotify.com/track/0QVR1JB0Qmn3ACQlO4jmxH) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2), [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [Lights Out](https://open.spotify.com/album/0o92Evms1fdF3xwyFib88p) | 0:29 | 2022-04-08 |  |
 | [LITTLE GODZ](https://open.spotify.com/track/2Nx04cmbMe4udzfvyGm9LZ) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [LITTLE GODZ](https://open.spotify.com/album/5FqexW1NbFdtVY7rkk7Pn9) | 3:08 | 2022-04-08 |  |
 | [Meet Me In The Fire \[Feat\. Andy Biersack\]](https://open.spotify.com/track/3u8VF16rfy9316rwKHli4z) | [Maria Brink](https://open.spotify.com/artist/6W8xq7TXME3WXP7c7LMWBR), [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0), [Andy Biersack](https://open.spotify.com/artist/1TkVc0itnJ0CtHkLFPrQxn) | [Meet Me In The Fire \[Feat\. Andy Biersack\]](https://open.spotify.com/album/5qFNLVSjNiY44ZP8q9Bd2m) | 4:54 | 2022-04-08 |  |
 | [Mega City Nine \(unknown virus 4.\)](https://open.spotify.com/track/4rMBG6PXvcI3AJ85NJfEPN) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [Cyber Cop \[Unauthorized MP3.\]](https://open.spotify.com/album/3hqPGbyxJ0vLKv3GFvvNgw) | 2:14 | 2022-04-08 |  |
@@ -91,7 +91,7 @@
 | [Reset](https://open.spotify.com/track/4vnCxv2cGTYye90giGIddD) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [You Will Not Be Saved](https://open.spotify.com/album/5Fv7nPEq5xHavK28lt8K5F) | 3:21 | 2022-04-08 |  |
 | [Save Yourself](https://open.spotify.com/track/561spezvXFVnAOYoSv4Bxy) | [Stabbing Westward](https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG) | [The Essential Stabbing Westward](https://open.spotify.com/album/1K9DEVSr5iG2W72escDZV7) | 4:13 | 2022-04-08 |  |
 | [Say It](https://open.spotify.com/track/5FfT45gDQWDyR8lZpn60DD) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Squeeze](https://open.spotify.com/album/54p7fdwenIgGmhUK4qbCiT) | 3:35 | 2022-04-08 |  |
-| [Scissorhands](https://open.spotify.com/track/5wC6xF8adOW6WQKZEBibCq) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [Scissorhands](https://open.spotify.com/album/75la8mqEDlQzN6r9gy1tJH) | 2:38 | 2022-04-08 |  |
+| [Scissorhands](https://open.spotify.com/track/5wC6xF8adOW6WQKZEBibCq) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [Scissorhands](https://open.spotify.com/album/75la8mqEDlQzN6r9gy1tJH) | 0:29 | 2022-04-08 |  |
 | [Shut Up](https://open.spotify.com/track/4W153KIGht166HnCswWlzp) | [Death Blooms](https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j), [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Shut Up](https://open.spotify.com/album/1qxfqTnxyVHIA03mlFjSrV) | 3:22 | 2022-04-08 |  |
 | [Smile](https://open.spotify.com/track/6aZ4oJHt5zq9dM3Qb9o2Yq) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Smile](https://open.spotify.com/album/2rJ83ZqFCb09JCpa1GnNUQ) | 3:16 | 2022-04-08 |  |
 | [Sober](https://open.spotify.com/track/6DyywdbmTzlmXBzG9ym7Rt) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Undertow](https://open.spotify.com/album/3Esn6LoXuWtLZNYq8FCzr0) | 5:06 | 2022-04-08 | 2022-05-07 |

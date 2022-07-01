@@ -4,7 +4,7 @@
 
 > Strictly for the streets\. Cover: Lil Baby
 
-350 songs - 16 hr 23 min - [published](https://open.spotify.com/playlist/3r6cVrxrflkSADgDVjasQD)
+350 songs - 16 hr 21 min - [published](https://open.spotify.com/playlist/3r6cVrxrflkSADgDVjasQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,7 @@
 | [PAPARAZZI](https://open.spotify.com/track/001U2oRRZXrLbeOJMduXSc) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi) | 2:28 | 2022-03-11 | 2022-06-23 |
 | [Paper Route \(ft\. Young Dolph\)](https://open.spotify.com/track/5A5XZ49RusDpRHlltXB4f5) | [Tafia](https://open.spotify.com/artist/75s3jBhtUyWmQLLqzhIub4), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Mention My Name](https://open.spotify.com/album/2yepLQw2fOxkEMfU3gbsWB) | 3:23 | 2022-05-27 |  |
 | [Pay Me To Speak](https://open.spotify.com/track/1Eiyvi5LpfJOsVo5kHCWpQ) | [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8) | [Pay Me To Speak](https://open.spotify.com/album/1OX0DZnARBFLyAEcHfNxe7) | 3:23 | 2022-03-25 | 2022-05-20 |
-| [Petty Too \(feat\. Future\)](https://open.spotify.com/track/0VlpgNPHWCyh8xxLcaK2fp) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 2:39 | 2022-03-11 |  |
+| [Petty Too \(feat\. Future\)](https://open.spotify.com/track/0VlpgNPHWCyh8xxLcaK2fp) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 0:29 | 2022-03-11 |  |
 | [Phone Ringing](https://open.spotify.com/track/4O5RjbYzHBFGeXj7Aakz1Y) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Welcome To Vulture Island](https://open.spotify.com/album/0g96ZZ9ME5DaTwZb1VYxmo) | 1:40 | 2022-04-08 | 2022-04-16 |
 | [Pickin’ Sides \(feat\. Icewear Vezzo\)](https://open.spotify.com/track/0uX7dGC07Dd8mpvnCcWzH0) | [Bankroll Freddie](https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Pickin’ Sides \(feat\. Icewear Vezzo\)](https://open.spotify.com/album/3QMuWl11zBhxwLwLM7KpRM) | 2:13 | 2022-04-08 | 2022-05-07 |
 | [Pissed Me Off](https://open.spotify.com/track/52nTQQahs46s1iHFQ3Wv5Q) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Pissed Me Off](https://open.spotify.com/album/70m1QwzUoogjk2DDq1hA3b) | 2:03 | 2021-10-15 | 2022-03-12 |

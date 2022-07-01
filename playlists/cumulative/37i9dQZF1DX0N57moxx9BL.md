@@ -4,14 +4,14 @@
 
 > Crank up the recent hits of Christian rock\.  Cover artist: Wolves At The Gate
 
-89 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/0I8VcxL9XbIeWCKViSqbs1)
+89 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/0I8VcxL9XbIeWCKViSqbs1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Adhd](https://open.spotify.com/track/2tPy8C6z3eUWGC1iQr4ysZ) | [Truslow](https://open.spotify.com/artist/0zBShgJCo19qQZtM0CZxJv) | [Hurricane](https://open.spotify.com/album/36VsMgbY28pCqkiO95mRm9) | 3:13 | 2021-05-28 |  |
 | [Alive Again](https://open.spotify.com/track/2Qs5QhWKIA0rIwTluk1eC6) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [Closer To Chaos](https://open.spotify.com/album/6sBVH05QGfPRLAH99AeKH9) | 3:34 | 2021-05-28 | 2022-03-12 |
 | [All of Me](https://open.spotify.com/track/0Rpavw7GEeSp5UcC15E2ZG) | [Ashes Remain](https://open.spotify.com/artist/0fkTQEEyEyH71i9tDhS7CO) | [All of Me](https://open.spotify.com/album/3Ew1Xz2UVgxVKbfK9Q3SCl) | 3:43 | 2021-05-28 |  |
-| [Anger](https://open.spotify.com/track/5gD8v2cQpErVesfUCyHbGV) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [Anger](https://open.spotify.com/album/3BAge5MsnoJBGFOYakKphb) | 6:16 | 2022-03-11 |  |
+| [Anger](https://open.spotify.com/track/5gD8v2cQpErVesfUCyHbGV) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [Anger](https://open.spotify.com/album/3BAge5MsnoJBGFOYakKphb) | 0:29 | 2022-03-11 |  |
 | [Awakening](https://open.spotify.com/track/7FR48bbJ4rMj6VbcMj1S0O) | [Relesser](https://open.spotify.com/artist/2mUGKlvJrS87MDsEFAXIBE) | [Release](https://open.spotify.com/album/3ES159pwFUduOUXzDaxwv3) | 3:21 | 2021-05-28 |  |
 | [Balconies](https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo) | [Paper Route](https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID) | [Real Emotion](https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL) | 4:14 | 2021-05-28 |  |
 | [Be Somebody](https://open.spotify.com/track/3NRhy4mzDwQc6IgPwyQM1x) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr) | [The End Is Where We Begin](https://open.spotify.com/album/4fSovBNtliN1OY3CXNDS16) | 3:42 | 2021-05-28 |  |
@@ -37,7 +37,7 @@
 | [Dominion](https://open.spotify.com/track/2fglyYNxnLsjfwE9Zht5eN) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion](https://open.spotify.com/album/4pKe3VvswxrKDH4fd3YK6q) | 3:51 | 2022-01-14 | 2022-03-12 |
 | [Dreamcatcher](https://open.spotify.com/track/6FKMfNgLra01edW4dPpGat) | [Night Argent](https://open.spotify.com/artist/2juQ07Q8H8FEFzrP0SBGid) | [Dreamcatcher](https://open.spotify.com/album/6EIfIAPP8bA9vNoumrnvjS) | 3:23 | 2021-05-28 |  |
 | [Drive](https://open.spotify.com/track/05rFfMp2OJiuspwd2XADJS) | [Danger Scene](https://open.spotify.com/artist/2SuAeywEh267W33dTgLpG3) | [Futures](https://open.spotify.com/album/5bEuICumNUiE7BVE3kUFV7) | 4:06 | 2021-05-28 |  |
-| [Erase](https://open.spotify.com/track/2YqctNUthRfX4t1KvPXO00) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Long Live the Rebels](https://open.spotify.com/album/156WTxzjwwbhYeCVZkZq4W) | 4:03 | 2021-05-28 |  |
+| [Erase](https://open.spotify.com/track/2YqctNUthRfX4t1KvPXO00) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Long Live the Rebels](https://open.spotify.com/album/156WTxzjwwbhYeCVZkZq4W) | 0:29 | 2021-05-28 |  |
 | [Eyes](https://open.spotify.com/track/7GGSilkl7QJVN1Ovb6WpFm) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV), [4th Point](https://open.spotify.com/artist/1ne42u3qXGxhXOheXX9mQL) | [Eyes](https://open.spotify.com/album/3K6EYMi8bDzCPs7tk5MXUM) | 4:55 | 2021-05-28 | 2022-03-12 |
 | [Fame](https://open.spotify.com/track/2tcqUBt189wGUWUeBkoIu9) | [Glasslands](https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy), [Ryan Kirby](https://open.spotify.com/artist/5c7kIPIxZYfBEVo087KF4h) | [Pariah](https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv) | 3:57 | 2021-05-28 |  |
 | [Familiar Shadows](https://open.spotify.com/track/49DeQeEXxSm9IgQraS6VcV) | [Death Therapy](https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo) | [Familiar Shadows](https://open.spotify.com/album/55nqt1kWFFIhWdhFlQvLj0) | 3:46 | 2021-05-28 | 2022-01-15 |
@@ -93,9 +93,9 @@
 | [Weight of Glory](https://open.spotify.com/track/4ci5XV2gPtCedFJQkq23Sb) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Eulogies](https://open.spotify.com/album/089tIF7kCTWpbeGo6yrHZU) | 2:46 | 2022-03-11 |  |
 | [What Are You Waiting For](https://open.spotify.com/track/0Nu0KWmS8h2QRV2vhCzE3S) | [Futur](https://open.spotify.com/artist/4Z9WYkdvygjmT03fH7syx9) | [What Are You Waiting For](https://open.spotify.com/album/5FFS881QSIWbv9oxbAMFK9) | 3:19 | 2021-05-28 |  |
 | [What Else You Got?](https://open.spotify.com/track/2d1feQVlJUOJBMhbxltBRO) | [The Protest](https://open.spotify.com/artist/3BTiVMFvgOUbi1I0WWVAbA) | [Legacy](https://open.spotify.com/album/0oCKybhWiSlHxy9V2YQlvk) | 2:46 | 2021-05-28 |  |
-| [What I've Become](https://open.spotify.com/track/5rf8uIF0S4HqLRK3jMifCd) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [What I've Become](https://open.spotify.com/album/2V4iSdBm0uuxzIyBGwBNEh) | 3:24 | 2021-05-28 |  |
+| [What I've Become](https://open.spotify.com/track/5rf8uIF0S4HqLRK3jMifCd) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [What I've Become](https://open.spotify.com/album/2V4iSdBm0uuxzIyBGwBNEh) | 0:29 | 2021-05-28 |  |
 | [Wild Ones](https://open.spotify.com/track/5TDFpV2PIoU0leXEBq3zv2) | [Crusoe](https://open.spotify.com/artist/6ON5hdOJnGooX4VqLtObIl) | [Wild Ones](https://open.spotify.com/album/7mjkYaoqV3XIh6q6TBGvUv) | 3:02 | 2021-05-28 |  |
-| [You Are](https://open.spotify.com/track/5To1qef7yQNIiFa6lLfvrY) | [Audacious Worship](https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe) | [You Are](https://open.spotify.com/album/6ASmnavwt4fCGYY8Zcnm51) | 3:31 | 2022-01-14 |  |
+| [You Are](https://open.spotify.com/track/5To1qef7yQNIiFa6lLfvrY) | [Audacious Worship](https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe) | [You Are](https://open.spotify.com/album/6ASmnavwt4fCGYY8Zcnm51) | 0:29 | 2022-01-14 |  |
 | [Yours Again](https://open.spotify.com/track/57fh50SS5Igc0u6LuHuZHN) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [of Beauty and Rage](https://open.spotify.com/album/4Kn0DsnXrrWm4buuVNIyBJ) | 4:49 | 2021-05-28 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

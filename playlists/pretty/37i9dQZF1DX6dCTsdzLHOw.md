@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dCTsdzLHOw.md) - [plain]
 
 > Don't spill your popcorn..\. these scary movie themes will scare the bejeezus out of you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,544 likes - 28 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,542 likes - 28 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Psycho Theme \( Bernard Herman \- Ensign Music \)](https://open.spotify.com/track/40cXtLMqZo33qFeY2uVhFn) | [Halloween](https://open.spotify.com/artist/5Ure3b6cjh5Gk29qg82eym) | [Halloween Themes / Horror Movie Music That Will Scare You More Than Sound Fx](https://open.spotify.com/album/0ZbEWtaLdNW3MNbeFf7ZVf) | 1:02 |
 | 2 | [Tubular Bells \- Opening Theme / From "The Exorcist"](https://open.spotify.com/track/2hJyhHWeDrnTuy24TtD4sd) | [Mike Oldfield](https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn) | [Halloween Party](https://open.spotify.com/album/1AQGra8TF7PX94whCy7tsY) | 3:16 |
-| 3 | [A Nightmare On Elm Street](https://open.spotify.com/track/6St1IyTh829WEWRP1wXVXc) | [Spooky Orchestra](https://open.spotify.com/artist/2UBjlPiaNy9vMWp3mabXTW) | [Horror Movie Themes](https://open.spotify.com/album/6Chs33S4yeaFZn5HDI6g5S) | 2:07 |
+| 3 | [A Nightmare On Elm Street](https://open.spotify.com/track/6St1IyTh829WEWRP1wXVXc) | [Spooky Orchestra](https://open.spotify.com/artist/2UBjlPiaNy9vMWp3mabXTW) | [Horror Movie Themes](https://open.spotify.com/album/6Chs33S4yeaFZn5HDI6g5S) | 0:29 |
 | 4 | [Stranger Things](https://open.spotify.com/track/0kwuKfWntoGh0EWyYb7Mpf) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 1:07 |
 | 5 | [Halloween Theme \- Main Title](https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Halloween Motion Picture Soundtrack](https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP) | 2:55 |
 | 6 | [Main Title And First Victim](https://open.spotify.com/track/1g10rYqM3jJQsWRnXCFcx7) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Jaws \(The Collector's Edition Soundtrack\)](https://open.spotify.com/album/6qUytVWmtw4xh2tjCv39GE) | 3:26 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dCTsdzLHOw.md) - [plain]
 | 9 | [Theme from Twin Peaks \- Fire Walk with Me](https://open.spotify.com/track/6ov87ZmFzA62REV8KrbWXj) | [Angelo Badalamenti](https://open.spotify.com/artist/3Eeb1U0VJTDaFpBHV4DmHl) | [Twin Peaks: Fire Walk With Me \- Soundtrack](https://open.spotify.com/album/7KTThkarRqhJX5DVkDOo7Z) | 6:46 |
 | 10 | [Dracula\- The Beginning](https://open.spotify.com/track/00De7REGurYkmfrKAh6CU1) | [Wojciech Kilar](https://open.spotify.com/artist/6McH9ZlRL24gW6Bt4fpqad) | [Bram Stoker's Dracula: Original Motion Picture Soundtrack](https://open.spotify.com/album/4WDRuinnAhb1taYx3RNAxr) | 6:40 |
 | 11 | [Overlay of Evil / Main Title](https://open.spotify.com/track/1bBvch0ad2VfBuPUXJTV8I) | [Harry Manfredini](https://open.spotify.com/artist/7JDEsW5jacLggSSdqqWpdu) | [Friday the 13th \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5pI4R0WAaQLHywFINSqaHl) | 3:32 |
-| 12 | [Suspiria \- Originale](https://open.spotify.com/track/0DrihQ3QVHvYbdpPKCUmoN) | [Goblin](https://open.spotify.com/artist/7H92g6n1BvyzvQwaERZKZl) | [Suspiria](https://open.spotify.com/album/66X1aX8OnQZROjTlxHWYtg) | 6:02 |
+| 12 | [Suspiria \- Originale](https://open.spotify.com/track/0DrihQ3QVHvYbdpPKCUmoN) | [Goblin](https://open.spotify.com/artist/7H92g6n1BvyzvQwaERZKZl) | [Suspiria](https://open.spotify.com/album/66X1aX8OnQZROjTlxHWYtg) | 0:29 |
 | 13 | [X\-Files \- Theme](https://open.spotify.com/track/67AxhHs7ur6AlOkx95hZRh) | [Hollywood Pictures Orchestra](https://open.spotify.com/artist/0YuFB8lqApvW7rZMm9gSjU) | [Paranormal Activity](https://open.spotify.com/album/7HuR76g5Rpg6vWaFhNB0Go) | 3:25 |
 | 14 | [Freddy's Coming for You](https://open.spotify.com/track/0o1SKUvwGAFZ3km9ZMDXoT) | [Steve Jablonsky](https://open.spotify.com/artist/5Il8YjuVAWkWNH2xgjFMpF) | [A Nightmare On Elm Street: Original Motion Picture Score](https://open.spotify.com/album/0btrQddJBGxVVJXJCkv7Sm) | 4:28 |
 | 15 | [Run To The Church](https://open.spotify.com/track/1F3yUGDxCfGH9Zx3KePnmK) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Sixth Sense \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Cdpyr3pRNtiErT7QRbOxI) | 1:21 |

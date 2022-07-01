@@ -4,7 +4,7 @@
 
 > Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Kaia Lana en portada.
 
-111 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/7uQBD2uEj9JYWsbOq2NLVj)
+111 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/7uQBD2uEj9JYWsbOq2NLVj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Como de Costumbre](https://open.spotify.com/track/6gqIYxbFZxK7goiflCYc9Q) | [Ceci Juno](https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu) | [Como de Costumbre](https://open.spotify.com/album/5IbJ83eqHJJx5xWSWMkBwP) | 3:22 | 2022-02-04 | 2022-02-12 |
 | [Como Tú](https://open.spotify.com/track/4uwQvY3meWjiwSjXbhydYA) | [Chucho Rivas](https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Como Tú](https://open.spotify.com/album/1bQWnxgPm6ORaX1UgOa60p) | 3:42 | 2022-02-04 | 2022-03-12 |
 | [Como una Obra de Arte](https://open.spotify.com/track/4oqfGsqaAhxk0ZnWKTO4Ug) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW) | [Como una Obra de Arte](https://open.spotify.com/album/4OYib3Ll3sRKvwerkHG95S) | 2:25 | 2022-02-04 | 2022-06-03 |
-| [Contigo](https://open.spotify.com/track/5Hb3UidmAF1veAx2vhQ2kr) | [Fran](https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn) | [Contigo](https://open.spotify.com/album/6XrfQ9Sip8eC6X7yQ90PxH) | 2:47 | 2022-02-04 |  |
+| [Contigo](https://open.spotify.com/track/5Hb3UidmAF1veAx2vhQ2kr) | [Fran](https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn) | [Contigo](https://open.spotify.com/album/6XrfQ9Sip8eC6X7yQ90PxH) | 0:29 | 2022-02-04 |  |
 | [Contigo](https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Contigo](https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln) | 2:28 | 2022-04-01 |  |
 | [Contigo Quiero](https://open.spotify.com/track/2LcIJVkjKZbGsIfR8wAwMH) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Contigo Quiero](https://open.spotify.com/album/6fn5SRnldgMCPtTztHlOok) | 4:19 | 2022-02-04 |  |
 | [creo que todo estará bien](https://open.spotify.com/track/1s85LXbICacrdeMlFAG8st) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [creo que todo estará bien](https://open.spotify.com/album/6vSBWbTdWml9R4Tr6mSoBR) | 3:40 | 2022-02-04 |  |
@@ -110,7 +110,7 @@
 | [Tus Ojitos](https://open.spotify.com/track/0zoxIUnCEpCXayf35r17gd) | [Samanez](https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V) | [Tus Ojitos](https://open.spotify.com/album/4uBMJOCvn3j1Q2spx5Suoc) | 4:15 | 2022-02-04 |  |
 | [Té de Limón](https://open.spotify.com/track/2HgVe0fYIRgcpXTGLLylty) | [Paulina Goto](https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y) | [Té de Limón](https://open.spotify.com/album/3er7gD68l9Vuk5R3n1kyLo) | 2:37 | 2022-02-04 |  |
 | [Un Velero Llamado Libertad](https://open.spotify.com/track/1aCjnwgnKGLZbOlikxfWRt) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Un Velero Llamado Libertad](https://open.spotify.com/album/5I8z2fN21JJ5RkmVXeRE1v) | 3:23 | 2022-02-04 | 2022-04-19 |
-| [Vencer el Pasado](https://open.spotify.com/track/21uAJbkOwnIs4JjHXR8cSO) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Vencer el Pasado](https://open.spotify.com/album/2g4n6T7P1LyUpiRtlArPiO) | 3:48 | 2022-02-04 |  |
+| [Vencer el Pasado](https://open.spotify.com/track/21uAJbkOwnIs4JjHXR8cSO) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Vencer el Pasado](https://open.spotify.com/album/2g4n6T7P1LyUpiRtlArPiO) | 0:29 | 2022-02-04 |  |
 | [Vete](https://open.spotify.com/track/6AKMuQv1aTGGdKfHO7kGF7) | [Fela Domínguez](https://open.spotify.com/artist/3vYvTD3vLMEQOQS2phjwkN) | [Con Todo Y Caos](https://open.spotify.com/album/6AM3sCEUAjLDOidAnyPZbb) | 3:22 | 2022-04-18 |  |
 | [Vidas Pasadas](https://open.spotify.com/track/3Suw3wnyl5lMOVQchSqcCp) | [Daniela Calvario](https://open.spotify.com/artist/7hieapEQgIf8bO2eadP1MS) | [Vidas Pasadas](https://open.spotify.com/album/2q8FckqvIVNHfyB5w4W9Yz) | 4:02 | 2022-02-04 | 2022-04-19 |
 | [Vienen Y Van](https://open.spotify.com/track/5oWh8d5vckVbBuO7Udcgo8) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Vienen Y Van](https://open.spotify.com/album/4mItIB7t3BKjoSUXx9odyS) | 3:01 | 2022-06-02 | 2022-06-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WbJFtYTzv7.md) - [plain]
 
 > Listen to the brand new album 'Ignorance is Bliss' and all his biggest tracks, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,150 likes - 62 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,187 likes - 62 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WbJFtYTzv7.md) - [plain]
 | 48 | [Numbers](https://open.spotify.com/track/4oG9UZ8uvn8t340MVj2AW5) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Konnichiwa](https://open.spotify.com/album/2yegc4SUhhXxUXUavLHUqL) | 3:20 |
 | 49 | [Doin' It Again](https://open.spotify.com/track/3HfuA3A2vddN5EEqO4QaOg) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Greatest Hits](https://open.spotify.com/album/5SRPTU4NoyRreqvijYeWss) | 3:49 |
 | 50 | [Bad Boy](https://open.spotify.com/track/5ppGfVvd9wKGu1nF0nLyBc) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Bad Boy](https://open.spotify.com/album/5o73xFE2NFXIDNsasghkLj) | 2:51 |
-| 51 | [Might As Well](https://open.spotify.com/track/6mIlDvfn3OwEi4mQfpGwyK) | [C\. Biz](https://open.spotify.com/artist/6LAhIgGsYJAEwmpQ8EEywM), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Free H](https://open.spotify.com/album/78Vu11gTgQynGdw4LjCqMQ) | 2:34 |
+| 51 | [Might As Well](https://open.spotify.com/track/6mIlDvfn3OwEi4mQfpGwyK) | [C\. Biz](https://open.spotify.com/artist/6LAhIgGsYJAEwmpQ8EEywM), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Free H](https://open.spotify.com/album/78Vu11gTgQynGdw4LjCqMQ) | 0:29 |
 | 52 | [Sunglasses at Night \- Radio Edit](https://open.spotify.com/track/6dP4w6JCBpR65UpjsnHx5n) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Sunglasses at Night](https://open.spotify.com/album/1ehC52jre582Xmt4vcXVG7) | 2:21 |
 | 53 | [Amen](https://open.spotify.com/track/7Jo2eo293IQHcrhqr52DpH) | [Young Spray](https://open.spotify.com/artist/1491IfXdDnzzb15csPoJuD), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Invisible Tears](https://open.spotify.com/album/3ugBCALPbZICY0EVpINgFs) | 3:50 |
 | 54 | [2 CARS](https://open.spotify.com/track/3I9efaUnielbIuVtvlCavr) | [Esco](https://open.spotify.com/artist/7d4zmmzghhIi4GuFPYOWU7), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Chronik](https://open.spotify.com/artist/208Fq2jd178XsSAZXVb8zt) | [2 CARS](https://open.spotify.com/album/7iZhGo1JD7bUQgFyjuHi9t) | 3:25 |

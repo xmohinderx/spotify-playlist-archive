@@ -4,7 +4,7 @@
 
 > Queens everywhere \- givin' us life.<br/>Cover: Trixie Mattel
 
-84 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/5qqRE5zC7pUBy84hiALZqW)
+84 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/5qqRE5zC7pUBy84hiALZqW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [RuPaulogize \(feat\. Sharon Needles\)](https://open.spotify.com/track/3CObFGwVn3fQkHB3laYhaZ) | [Willam](https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8) | [RuPaulogize \(feat\. Sharon Needles\)](https://open.spotify.com/album/02eDGzZoAEftp8x3E6h7cE) | 3:30 | 2021-06-29 |  |
 | [Sissy That Walk](https://open.spotify.com/track/5PHPENfE3RVmHGAA2A7Hfx) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Born Naked](https://open.spotify.com/album/3stAjHtCDSCavGtkxzvYE7) | 3:32 | 2021-06-29 |  |
 | [Soak It Up \(Remix\)](https://open.spotify.com/track/3M8oAB4Nof44bWG5qP7gtq) | [Monét X Change](https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w), [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj) | [Soak It Up](https://open.spotify.com/album/2pJbUeVzXT2f7HGB8H0H2F) | 4:16 | 2021-06-29 |  |
-| [Soldier](https://open.spotify.com/track/2wWxekq0ATUJtpkmDxsSyL) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [One Stone](https://open.spotify.com/album/2fta3Z2ikci4mFYexn3AvO) | 3:05 | 2021-06-29 |  |
+| [Soldier](https://open.spotify.com/track/2wWxekq0ATUJtpkmDxsSyL) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [One Stone](https://open.spotify.com/album/2fta3Z2ikci4mFYexn3AvO) | 0:29 | 2021-06-29 |  |
 | [Stars](https://open.spotify.com/track/1VBhncsdMgdkElWOGpOv9m) | [Veronica Green](https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl) | [Stars](https://open.spotify.com/album/1YDDGpnyBX7xVgYU7aC70G) | 4:11 | 2022-03-10 |  |
 | [Stars \- Disco Mix](https://open.spotify.com/track/0NUqxqzbiABToJega47uSY) | [Veronica Green](https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl) | [Stars \(Disco Mix\)](https://open.spotify.com/album/4vzgEIokcu0fl4WorqHQcY) | 4:12 | 2021-06-29 |  |
 | [Supermarché](https://open.spotify.com/track/2nTwIRB9J29KUI7eWprArI) | [Veda](https://open.spotify.com/artist/0l9oh06r4qAPI9jvwIJW5k), [David Hoyle](https://open.spotify.com/artist/7EmOKpaflttnkBXNZEhTUl) | [Transphibian](https://open.spotify.com/album/34Q0hpXICT1xqe6t6TjZTb) | 4:13 | 2021-06-29 |  |
@@ -88,7 +88,7 @@
 | [Weight \(feat\. Epiphany Mattel\)](https://open.spotify.com/track/07i9T9SDDHXuDuqs1wVAHb) | [Latrice Royale](https://open.spotify.com/artist/1MPCKhktsStR2Hnj1s2fvC), [Epiphany Mattel](https://open.spotify.com/artist/0KjBV7nJq8mr5QDsyWzvyy) | [Weight \(feat\. Epiphany Mattel\)](https://open.spotify.com/album/0youfwaLvfbBFw0iWK4Wi3) | 3:25 | 2021-06-29 |  |
 | [Werqin' Girl \(Professional\)](https://open.spotify.com/track/3MCG7KYRFM4uFErWnmTIuv) | [Shangela Laquifa](https://open.spotify.com/artist/7czghyR75hlwV4ddLK5MeD) | [Werqin' Girl \(Professional\)](https://open.spotify.com/album/4cAQ8XGLVUtvVSpo2KYAnm) | 3:42 | 2021-06-29 |  |
 | [Work Mommi Work \(feat\. Spankrock\)](https://open.spotify.com/track/1zvCLFkacsVXEWlO9hI7H3) | [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu), [Filthy Fidgets](https://open.spotify.com/artist/42Glv0vjfSSNGFiLOk1K4h), [Spank Rock](https://open.spotify.com/artist/1LcLsIWOl1Z8vo1wl6bxg2) | [Rye Rye vs\. Filthy Fidgets](https://open.spotify.com/album/6LM8gofQ7e6jUWB9A8gfPc) | 3:55 | 2021-06-29 |  |
-| [Wrong Bitch](https://open.spotify.com/track/3eOYEYe2VUsiOSCW53OiZv) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj) | [Straight Outta Oz](https://open.spotify.com/album/1abVmBsdc82pIj9CQu7cN0) | 2:38 | 2021-06-29 |  |
+| [Wrong Bitch](https://open.spotify.com/track/3eOYEYe2VUsiOSCW53OiZv) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj) | [Straight Outta Oz](https://open.spotify.com/album/1abVmBsdc82pIj9CQu7cN0) | 0:29 | 2021-06-29 |  |
 | [Yes Bitch! She Might Be!](https://open.spotify.com/track/6gSJM21icwHkqElZgMGDyh) | [Widow Von'du](https://open.spotify.com/artist/7cnJoej4MmqrDoTzSyMKYK) | [Yes Bitch! She Might Be!](https://open.spotify.com/album/4ByvsCipPAeR5wqm4yGhWe) | 3:08 | 2021-06-29 |  |
 | [Your Makeup Is Terrible](https://open.spotify.com/track/55EINX1PxT45s5rpO8UIQw) | [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [Anus](https://open.spotify.com/album/5IMcfR6mVlC4eLOzDSmIk1) | 3:58 | 2021-06-29 |  |
 | [Zubi Zubi Zubi](https://open.spotify.com/track/1cNC5C5krCrOZSKlbPZEuY) | [Raja](https://open.spotify.com/artist/0kRRHgP7Ng7ZKOKKxeYZkC) | [Zubi Zubi Zubi](https://open.spotify.com/album/51E6rNk6uEdo7Xt0AryxXF) | 3:29 | 2021-06-29 |  |

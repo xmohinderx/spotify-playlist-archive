@@ -4,7 +4,7 @@
 
 > This is Nasty C, also known to fans as "A Zulu Man With Some Power"\. The essential tracks, all in one playlist
 
-45 songs - 2 hr 40 min - [published](https://open.spotify.com/playlist/3us74V95C0wtXUW5WhbJZ4)
+45 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/3us74V95C0wtXUW5WhbJZ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Phases](https://open.spotify.com/track/1TyqrcdmJMBWgPoNKZWisr) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [Bad Hair](https://open.spotify.com/album/3ymK0IkQzqgVEmxGYC2Tzl) | 5:43 | 2022-04-20 |  |
 | [Pressure](https://open.spotify.com/track/1ng7m8cVhY363CoPG2SBaF) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Bad Hair](https://open.spotify.com/album/3ymK0IkQzqgVEmxGYC2Tzl) | 2:56 | 2022-04-20 |  |
 | [Problems](https://open.spotify.com/track/4h97F9SJSC7uPgxoxq4Hjj) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Erick Rush](https://open.spotify.com/artist/5lyTKgOh28QyJ9KmQArlpA) | [Bad Hair](https://open.spotify.com/album/3ymK0IkQzqgVEmxGYC2Tzl) | 3:07 | 2022-04-20 |  |
-| [Said \(Coke Studio Africa\)](https://open.spotify.com/track/5Vq2NGaB9ceeROuvx1yXKg) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Said \(Coke Studio Africa\)](https://open.spotify.com/album/4AaLQWmWFNsz9h2kENp2zL) | 3:38 | 2022-04-20 |  |
+| [Said \(Coke Studio Africa\)](https://open.spotify.com/track/5Vq2NGaB9ceeROuvx1yXKg) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Said \(Coke Studio Africa\)](https://open.spotify.com/album/4AaLQWmWFNsz9h2kENp2zL) | 0:29 | 2022-04-20 |  |
 | [SAP](https://open.spotify.com/track/2IukRUX2L4pIpaOpIai6FU) | [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Da Les](https://open.spotify.com/artist/4on53ORBym2GEnRhIptZwy) | [SAP](https://open.spotify.com/album/75KPPCKkrI3RHbmdpfiXll) | 4:35 | 2022-04-20 |  |
 | [SMA](https://open.spotify.com/track/4fkCcUS3Gl5cRi9zNt7oMa) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [Strings And Bling](https://open.spotify.com/album/6JyxiTsgY9NgCgBxwtrhgo) | 5:14 | 2022-04-20 |  |
 | [Stalling](https://open.spotify.com/track/1iSiayhy8ewrs7Bb2g0du4) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Stalling](https://open.spotify.com/album/0IMyl9QsHEcb5B8PQsgEHG) | 3:52 | 2022-04-20 |  |
@@ -50,7 +50,7 @@
 | [They Don't](https://open.spotify.com/track/22IFHAWQe7cDqlL9KJCyo4) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Zulu Man With Some Power](https://open.spotify.com/album/04udszu1QoEWl5qXu2MTUi) | 3:59 | 2022-04-20 |  |
 | [They Don't](https://open.spotify.com/track/1gHhVTOVIQKjjBJ6pxCzG6) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [They Don't](https://open.spotify.com/album/1FeNQJAvMxKyiwdQJLqk8G) | 4:00 | 2022-04-20 |  |
 | [Uok](https://open.spotify.com/track/3CscS4sqTQcfoR8iEm2zQr) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Bad Hair Extensions](https://open.spotify.com/album/5YL6AvjnG2Dj4bOaS7dhTn) | 2:57 | 2022-04-20 |  |
-| [Whipped](https://open.spotify.com/track/5izmlzt9mbvzuZogW9TXJB) | [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW), [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [God Decides](https://open.spotify.com/album/5bJrBac7KuQqFY6wn6to8A) | 3:17 | 2022-04-20 |  |
+| [Whipped](https://open.spotify.com/track/5izmlzt9mbvzuZogW9TXJB) | [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW), [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [God Decides](https://open.spotify.com/album/5bJrBac7KuQqFY6wn6to8A) | 0:29 | 2022-04-20 |  |
 | [Why Me?](https://open.spotify.com/track/7rpEhFwa8OTnMoqkDT0JOr) | [Audiomarc](https://open.spotify.com/artist/7M5xa3W8nnFeBaOvJVHRxj), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Why Me?](https://open.spotify.com/album/7ipNeYgWhbiQUjmgKJCEHZ) | 3:07 | 2022-04-20 |  |
 | [Ye x4](https://open.spotify.com/track/488crYdGxAi7RdJxKjEWGb) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Ye x4](https://open.spotify.com/album/5K6ozqiCW4tCuU9SxzEx0a) | 2:45 | 2022-04-20 |  |
 

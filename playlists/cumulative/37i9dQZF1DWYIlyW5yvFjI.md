@@ -4,7 +4,7 @@
 
 > Beautiful noise: when Shoegaze goes Ambient.
 
-73 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/0CAQvjSr54E3ebNuJC92r5)
+73 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/0CAQvjSr54E3ebNuJC92r5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Aster](https://open.spotify.com/track/7hr4M5Rpac4pcWTJm48k2V) | [SubtractiveLAD](https://open.spotify.com/artist/3EhLkPpzlO2zkJZEmW9rkw) | [Granular Electric Guitar](https://open.spotify.com/album/7LJXWcUg5fB0Y71zKqnFLy) | 4:18 | 2022-04-08 |  |
 | [Aurora](https://open.spotify.com/track/68cxBHirhSPFBghFHby14Z) | [Isabel's Dream](https://open.spotify.com/artist/5IpYJbjCu8zfDTRh2nycLv) | [Monomara](https://open.spotify.com/album/4pYxJbFch0oz6g0hcNazUD) | 4:15 | 2022-04-08 |  |
 | [Before](https://open.spotify.com/track/36HuznTUxRCiEyf4NgRswn) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Elsewhere](https://open.spotify.com/album/4Qlt9lQidbI8GC2Kvuy4ZF) | 3:23 | 2022-04-08 |  |
-| [Blooded and Blossom\-blown](https://open.spotify.com/track/15x9WXAz8YHrGfibgsirdN) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [xuvetyn](https://open.spotify.com/album/2LkJyutWxt9P2DKs24kzS0) | 6:07 | 2022-04-08 |  |
+| [Blooded and Blossom\-blown](https://open.spotify.com/track/15x9WXAz8YHrGfibgsirdN) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [xuvetyn](https://open.spotify.com/album/2LkJyutWxt9P2DKs24kzS0) | 0:29 | 2022-04-08 |  |
 | [Body Within Body](https://open.spotify.com/track/3aey9i2dPEUCyaQ9HXxiZy) | [Jefre Cantu\-Ledesma](https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5) | [Love Is A Stream](https://open.spotify.com/album/0PeiGSI11Ym2KeXhIYjtf5) | 2:27 | 2022-04-08 |  |
 | [Cello](https://open.spotify.com/track/2xuMKDZ3RJj0CWpKSReVpm) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Pygmalion](https://open.spotify.com/album/7n7VUw9XFam4zMT7zn99tq) | 1:33 | 2022-04-08 |  |
 | [Christina's World](https://open.spotify.com/track/2RvCoSz9wUlDIiSymOuLf4) | [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa) | [Luminol](https://open.spotify.com/album/4bga9m78vaVd0aXbUpfcHa) | 4:20 | 2022-04-08 |  |
@@ -72,7 +72,7 @@
 | [Under the Sun](https://open.spotify.com/track/4rjKvGbEHDPT9352LU5Sxw) | [Bowery Electric](https://open.spotify.com/artist/6a27jEzxHDgONdmADAGcej) | [Beat](https://open.spotify.com/album/6jbGBeBtwD05O0EV9RFjlC) | 3:32 | 2022-04-08 |  |
 | [Undercurrent](https://open.spotify.com/track/6Qyy9fqDBBZyl90snerjl0) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Depths](https://open.spotify.com/album/4N2itOeznvkwIysfQVjGP1) | 4:41 | 2022-04-08 |  |
 | [Untethering](https://open.spotify.com/track/2qwUHXTpXXDGuCpjbssBdQ) | [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [Untethering](https://open.spotify.com/album/7pQyhMhsJvmpghevCKZnhw) | 6:58 | 2022-04-08 |  |
-| [Valerian \(her voice honeyed\)](https://open.spotify.com/track/2kMIvpGaR9R029KX6CTIci) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [xuvetyn](https://open.spotify.com/album/2LkJyutWxt9P2DKs24kzS0) | 5:58 | 2022-04-08 |  |
+| [Valerian \(her voice honeyed\)](https://open.spotify.com/track/2kMIvpGaR9R029KX6CTIci) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [xuvetyn](https://open.spotify.com/album/2LkJyutWxt9P2DKs24kzS0) | 0:29 | 2022-04-08 |  |
 | [Vapor Trails](https://open.spotify.com/track/47JKSnbM992KC8rZ2wph0e) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Alien Observer](https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi) | 9:04 | 2022-04-08 |  |
 | [Wander](https://open.spotify.com/track/2d3Mr1U4jskIPwxj4OV5ut) | [Threading](https://open.spotify.com/artist/4IuvDi4ag4P9pPehjdY4dm) | [You Are Never Enough](https://open.spotify.com/album/3lBNc4MA6kiW7wNeFoTy7j) | 2:20 | 2022-04-08 |  |
 | [We Could Be Sisters](https://open.spotify.com/track/2Zk5qPjHCiKZzpNvGKEHN1) | [Earwig](https://open.spotify.com/artist/78NksjxycSNgUfmuO88KLO) | [Under My Skin I Am Laughing](https://open.spotify.com/album/1nrrTtAGX9pNLfOrCLgrJH) | 5:10 | 2022-04-08 |  |

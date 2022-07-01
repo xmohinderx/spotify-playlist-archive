@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto: Redimi2
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,846 likes - 100 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,991 likes - 100 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 43 | [Be Alright \- Remix](https://open.spotify.com/track/1Uj2EIkCWdfe6XMOscRqBr) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Be Alright \(Remix\)](https://open.spotify.com/album/5CZSvhDtNjRA7kU0FFHxY7) | 3:42 |
 | 44 | [Viajes y Hoteles](https://open.spotify.com/track/4bF89S8CFHu4SeYmiiz69E) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf), [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1), [Juanfer](https://open.spotify.com/artist/3j6kLALHPXLu6yVSPNsToM) | [Fé](https://open.spotify.com/album/63hREkagC3FZpAAg7m2UeT) | 4:30 |
 | 45 | [Mi Prioridad](https://open.spotify.com/track/5Jo5gSZLBs52YeQGFiGr2t) | [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1) | [Papá](https://open.spotify.com/album/2MRnIX5S3Jgn5XbPnLwEjj) | 3:51 |
-| 46 | [Anoche Llegaste Tarde feat\. Redimi2](https://open.spotify.com/track/1z7fvRmbZBfmIJtltBcTa3) | [Marcos Yaroide](https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Tributo](https://open.spotify.com/album/1sH8cS9dAq4S5Ny13d4dyo) | 3:51 |
+| 46 | [Anoche Llegaste Tarde feat\. Redimi2](https://open.spotify.com/track/1z7fvRmbZBfmIJtltBcTa3) | [Marcos Yaroide](https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Tributo](https://open.spotify.com/album/1sH8cS9dAq4S5Ny13d4dyo) | 0:29 |
 | 47 | [Cómo No Confiar \(Live\)](https://open.spotify.com/track/3gmDDisAmwTTrTgQhkUrAs) | [Yelitza Cintron](https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8) | [Rey Del Cielo \(Live\)](https://open.spotify.com/album/27ZLOYJ1LZo9iViREHrbfV) | 6:55 |
 | 48 | [La Mesa](https://open.spotify.com/track/02LK8U3ubV5HzZYTBVXj54) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [La Mesa/The Table](https://open.spotify.com/album/0axaWqsUdI5jkiqgWanfXR) | 4:18 |
 | 49 | [Cantando Bueno Es Dios](https://open.spotify.com/track/1cSekGdwfXFnq3KfFrVYUV) | [Jaz Jacob](https://open.spotify.com/artist/7wxEfNSLam1iBAyIhdpSUh) | [Cantando Bueno Es Dios](https://open.spotify.com/album/03H9TbNM4rIg6NxyUGsTds) | 4:24 |

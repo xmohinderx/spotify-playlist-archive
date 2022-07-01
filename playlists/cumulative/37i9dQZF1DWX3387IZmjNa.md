@@ -4,7 +4,7 @@
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Future
 
-148 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/4mX7G5RGhbP5eelSWBD353)
+148 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/4mX7G5RGhbP5eelSWBD353)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Bestie](https://open.spotify.com/track/4RJ2tHMoFQbUus12u1hB5l) | [Culture Jam](https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [Bestie](https://open.spotify.com/album/2wNYpDzwgeSbxSc8dVXcev) | 2:33 | 2021-10-22 | 2022-03-12 |
 | [Better Believe](https://open.spotify.com/track/3zs87EV3EZSh2UpiXxT52Y) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Better Believe](https://open.spotify.com/album/15a7Yf9rZIKhulN2NEKb3a) | 3:26 | 2021-10-07\* | 2021-10-23 |
 | [Big Energy](https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa) | 2:53 | 2021-10-07\* | 2021-11-06 |
-| [Blocklist](https://open.spotify.com/track/79cq3PF1wgkDVTAFMlOjNB) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 2:06 | 2022-04-29 |  |
+| [Blocklist](https://open.spotify.com/track/79cq3PF1wgkDVTAFMlOjNB) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 0:29 | 2022-04-29 |  |
 | [Bogus \(feat\. BlueBucksClan\)](https://open.spotify.com/track/1YF9HlEpL0cXLIewgQHdZt) | [Kyle Banks](https://open.spotify.com/artist/7fCkVWEYTo1f7hLsAyVaWE), [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [Bogus \(feat\. BlueBucksClan\)](https://open.spotify.com/album/6WwSmNmwiq8f1VKEor6hUz) | 3:19 | 2021-10-08 | 2022-03-12 |
 | [Bounce](https://open.spotify.com/track/34Jpft6YC3t9TOrJUhxez7) | [NO1\-NOAH](https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j) | [Bounce](https://open.spotify.com/album/0fi54fVQc6HzfaNJMnwYkk) | 2:24 | 2021-09-17 | 2022-03-12 |
 | [By MySelf](https://open.spotify.com/track/6htZCLDzCJUePPPjVCDBEv) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [By MySelf](https://open.spotify.com/album/58QPTOR2nMzNFsfWX7iAEB) | 2:41 | 2022-06-17 |  |
@@ -44,7 +44,7 @@
 | [Denial](https://open.spotify.com/track/4MQnXVR8DJvsySuXYuzUtf) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Denial](https://open.spotify.com/album/7pU5A0t0YLo1BMH5OE67Uc) | 3:00 | 2022-06-10 |  |
 | [Dididumduhduh](https://open.spotify.com/track/4qEmZddPnyEpGkHeGTNmWa) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [TWOPOINTFIVE](https://open.spotify.com/album/0KkHzH0uia9zwPbrCbS6NY) | 2:26 | 2021-11-05 | 2022-03-26 |
 | [Die Hard](https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:59 | 2022-05-13 |  |
-| [Difference Is \(feat\. Summer Walker\)](https://open.spotify.com/track/1qzoBWC6US7szlOsIQ1VxZ) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 3:13 | 2022-03-11 |  |
+| [Difference Is \(feat\. Summer Walker\)](https://open.spotify.com/track/1qzoBWC6US7szlOsIQ1VxZ) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 0:29 | 2022-03-11 |  |
 | [Every Good Girl](https://open.spotify.com/track/6VYBCG9nCZwUUImVqZQVet) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Before You Go](https://open.spotify.com/album/4bXS4Vs7WMBRiJ1VdPTCte) | 2:56 | 2022-04-27 |  |
 | [everything you need](https://open.spotify.com/track/5ZD0MkX1FadkqYwhCCmAiv) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 3:27 | 2021-12-17 | 2022-06-04 |
 | [EX](https://open.spotify.com/track/7DMkMmhJYtyyWX7JaPKrEM) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [Bow Wow](https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) | [EX](https://open.spotify.com/album/3f8TNHuwmLpB84tgpH0RmB) | 3:56 | 2021-10-07\* | 2021-10-23 |

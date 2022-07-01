@@ -4,12 +4,12 @@
 
 > Burn off all those beers from last night.
 
-103 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/5v75t6HpGYMhjfPC1WhqkE)
+103 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/5v75t6HpGYMhjfPC1WhqkE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [412](https://open.spotify.com/track/3RSA0ckB8raJ85FLmzwyBy) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/3wL067SoyL83W04AcNwb8x) | 3:54 | 2022-04-17 | 2022-04-21 |
-| [A Weak Ago](https://open.spotify.com/track/3rY98pNrVY2OOacnbxbI0E) | [letlive.](https://open.spotify.com/artist/5ACBALsFxT5Ab3gVe8yyPs) | [If I'm The Devil...](https://open.spotify.com/album/0B3HzbLCsafcQHlOSNpnwg) | 3:11 | 2021-12-16 |  |
+| [A Weak Ago](https://open.spotify.com/track/3rY98pNrVY2OOacnbxbI0E) | [letlive.](https://open.spotify.com/artist/5ACBALsFxT5Ab3gVe8yyPs) | [If I'm The Devil...](https://open.spotify.com/album/0B3HzbLCsafcQHlOSNpnwg) | 3:11 | 2021-12-16 | 2022-07-01 |
 | [Alarm](https://open.spotify.com/track/0xXDWZre8pbWXG6ERdVPof) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Alarm](https://open.spotify.com/album/4C1YUIIGfDYulvbNzHNWXJ) | 2:28 | 2022-02-03 |  |
 | [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 | 2022-04-17 | 2022-04-21 |
 | [Back Foot](https://open.spotify.com/track/6geuGKb1jKb6TV8sGE5eaC) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:08 | 2021-12-16 | 2022-04-25 |
@@ -30,7 +30,7 @@
 | [Check My Brain](https://open.spotify.com/track/2O2ii9OPZYh1NBXo9FtE0Y) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Black Gives Way To Blue](https://open.spotify.com/album/2vkLky2qG0rziUk0eOsIZ9) | 3:57 | 2022-04-17 | 2022-04-21 |
 | [Chop Suey!](https://open.spotify.com/track/5V3mdRI2yQxbSsJGDPc5lD) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/4DR0GWo7w2GJyQnFVa4jAB) | 3:30 | 2022-04-17 | 2022-04-20 |
 | [Crawling In The Dark](https://open.spotify.com/track/3wli6CFsUwYEuLZTIuCwt3) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [Hoobastank \(Expanded Edition\)](https://open.spotify.com/album/7tbY2Xnpnkv0GyiHagGdkQ) | 2:55 | 2022-04-17 | 2022-04-19 |
-| [Curse the Weather](https://open.spotify.com/track/2o0fZALPlVohLSNrjYN3I5) | [Royal Tusk](https://open.spotify.com/artist/122qG4lB9vG6XCjrwJPnRJ) | [DealBreaker](https://open.spotify.com/album/5hcQEMNue4uxkHcrpyFZsX) | 3:43 | 2021-12-16 |  |
+| [Curse the Weather](https://open.spotify.com/track/2o0fZALPlVohLSNrjYN3I5) | [Royal Tusk](https://open.spotify.com/artist/122qG4lB9vG6XCjrwJPnRJ) | [DealBreaker](https://open.spotify.com/album/5hcQEMNue4uxkHcrpyFZsX) | 3:43 | 2021-12-16 | 2022-07-01 |
 | [Dance, Dance](https://open.spotify.com/track/4QIAVbGpeb5RdAGW66kY2h) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/0L0mzP8RGm5SNlwgZfBuxW) | 3:00 | 2021-12-16 |  |
 | [Dangerous](https://open.spotify.com/track/07YAkI4MUIBku8cSJQ2Iz5) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Dangerous](https://open.spotify.com/album/3HEHxmkHfQyuqatAyJWXXB) | 3:49 | 2021-12-16 |  |
 | [Death Grip](https://open.spotify.com/track/2fZFQe9qyQx1AX7tZ3Uztl) | [Watt White](https://open.spotify.com/artist/6Os3fHAI2Fma2UzTD91RU8) | [Death Grip](https://open.spotify.com/album/1tRoML82kv64dAh7bYTneP) | 2:57 | 2021-12-16 |  |
@@ -42,7 +42,7 @@
 | [Everybody](https://open.spotify.com/track/2TFWiFlB1t8j2ALmzIRZOa) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Everybody](https://open.spotify.com/album/15ZfluTMIxytOUoy1FSaEw) | 3:22 | 2021-12-16 |  |
 | [EVERYONEISTHESAME](https://open.spotify.com/track/12svdsIFudWZFmgzSMmXxi) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 3:06 | 2021-12-16 | 2022-03-18 |
 | [Fat Lip](https://open.spotify.com/track/4dzOxPZFYX77xpMwv4EhnO) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/47wh50aG3MIgDpsMe5B7n7) | 2:58 | 2022-04-17 | 2022-04-21 |
-| [Fever](https://open.spotify.com/track/0QPqmarimIKooURQb8ZR5Q) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [All These Countless Nights](https://open.spotify.com/album/36scylzoJ2n1YYwuHD0Db0) | 3:34 | 2021-12-16 |  |
+| [Fever](https://open.spotify.com/track/0QPqmarimIKooURQb8ZR5Q) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [All These Countless Nights](https://open.spotify.com/album/36scylzoJ2n1YYwuHD0Db0) | 0:29 | 2021-12-16 |  |
 | [Fortunate Son](https://open.spotify.com/track/5DkwgbwtvFzj7ITGkaSGxS) | [The Dead Daisies](https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH) | [Fortunate Son](https://open.spotify.com/album/0dwQ45RN04LVda7PGdbnbg) | 3:23 | 2021-12-16 |  |
 | [Freak](https://open.spotify.com/track/2RDgs05sg2vrpwiAEUkWd0) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 3:46 | 2022-04-17 | 2022-04-21 |
 | [Gasoline](https://open.spotify.com/track/33AxY0QUitvte6JV6B6uLE) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:39 | 2022-04-17 | 2022-04-21 |
@@ -81,7 +81,7 @@
 | [Novocaine](https://open.spotify.com/track/7KfItMIktIqUP9pZ60xIji) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [POWER](https://open.spotify.com/album/6PLmgYwFKrlLKiZjXK2hXV) | 3:27 | 2022-04-17 | 2022-04-21 |
 | [One Step Closer](https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 2:37 | 2021-12-16 | 2022-03-10 |
 | [Outlaws & Outsiders](https://open.spotify.com/track/4OBrZqJzkwdDaXoYVfmIw7) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv), [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2), [Ivan Moody](https://open.spotify.com/artist/0IkXJjOYzNVtC7JByRI2cD), [Mick Mars](https://open.spotify.com/artist/5zSvn5I6wIFwEgFxIIaqJc) | [Outlaws & Outsiders](https://open.spotify.com/album/1FMwktOdGcAx5tzgdHRUf4) | 3:17 | 2021-12-16 | 2022-02-04 |
-| [Paralyzer](https://open.spotify.com/track/28IEbk5a7twNTbUEvWslUb) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Them Vs\. You Vs\. Me \(Deluxe Edition\)](https://open.spotify.com/album/2pCfqddO9tLKRz3wzSNGsZ) | 3:28 | 2021-12-16 | 2022-06-30 |
+| [Paralyzer](https://open.spotify.com/track/28IEbk5a7twNTbUEvWslUb) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Them Vs\. You Vs\. Me \(Deluxe Edition\)](https://open.spotify.com/album/2pCfqddO9tLKRz3wzSNGsZ) | 3:28 | 2021-12-16 |  |
 | [Reckless Tongue](https://open.spotify.com/track/5Md4gGCtM6HV8eR2lQv8F2) | [Airways](https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE) | [Reckless Tongue](https://open.spotify.com/album/0YaQ5OQPnogOXT4wMX5aaM) | 2:58 | 2021-12-16 |  |
 | [Remedy](https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Karma and Effect](https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3) | 3:27 | 2021-12-16 | 2022-06-26 |
 | [Runnin' Wild](https://open.spotify.com/track/1wXuogT7bvqnhuWzDBNOdV) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Runnin' Wild](https://open.spotify.com/album/5e11cqb5L0C6s9RBasePB8) | 3:38 | 2021-12-16 |  |
@@ -110,6 +110,6 @@
 | [What's My Age Again?](https://open.spotify.com/track/1hWrl3T1kIH5b9zRHLfCOn) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/1fF8kYX49s5Ufv4XEY5sjW) | 2:28 | 2022-04-17 | 2022-04-21 |
 | [When I'm Gone](https://open.spotify.com/track/7mVYYM1jFHP5d5ygTgjrf6) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Dirty Honey](https://open.spotify.com/album/6FEBG6JNlWI3QkY3YlfhO7) | 3:25 | 2021-12-16 | 2022-05-25 |
 | [Willow Tree](https://open.spotify.com/track/5HYonJKY0t9tPAtExyBuvr) | [Twin Wild](https://open.spotify.com/artist/5k8vZsGwQ2AlHNfsne055D) | [Willow Tree](https://open.spotify.com/album/6l7FQvAQgrIeeoYBJ0WrR0) | 3:19 | 2021-12-16 |  |
-| [Woman](https://open.spotify.com/track/54ix2V2omFv9UUiMks7Fhf) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/0jjNb79VYqLY21IjyWKsWe) | 2:56 | 2021-12-16 | 2022-06-28 |
+| [Woman](https://open.spotify.com/track/54ix2V2omFv9UUiMks7Fhf) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/0jjNb79VYqLY21IjyWKsWe) | 2:56 | 2021-12-16 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

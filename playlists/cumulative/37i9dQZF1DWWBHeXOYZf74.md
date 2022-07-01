@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: Brent Faiyaz
 
-1,552 songs - 3 day 15 hr 12 min - [published](https://open.spotify.com/playlist/0satjjBJ2wfilttyMYfCS7)
+1,552 songs - 3 day 15 hr 5 min - [published](https://open.spotify.com/playlist/0satjjBJ2wfilttyMYfCS7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -645,7 +645,7 @@
 | [Home](https://open.spotify.com/track/711gGx1GpUv9YW9KTSfJfH) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Home](https://open.spotify.com/album/00sZIJm0igl6aBYNktEuSy) | 2:36 | 2019-10-09 | 2020-03-05 |
 | [Home](https://open.spotify.com/track/6zuvB7LsseXwZX5uPg85NP) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [Home](https://open.spotify.com/album/7I9rSYvAxc5lcyriRGAG0T) | 2:01 | 2020-04-04 | 2020-10-03 |
 | [Home \- Toro y Moi Remix](https://open.spotify.com/track/6YuKgMxa0XH6CC2khScuUV) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Suddenly Remixes](https://open.spotify.com/album/1lulYXHFBSYd8Y1hbaPXzE) | 3:11 | 2021-03-14 | 2021-04-30 |
-| [Home Maker \(Edit\)](https://open.spotify.com/track/5rFtI5SpdK3VT7vmd0GAhs) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Home Maker](https://open.spotify.com/album/65DXmlrnWyJwqelAyE4JrU) | 3:52 | 2022-03-18 |  |
+| [Home Maker \(Edit\)](https://open.spotify.com/track/5rFtI5SpdK3VT7vmd0GAhs) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Home Maker](https://open.spotify.com/album/65DXmlrnWyJwqelAyE4JrU) | 0:29 | 2022-03-18 |  |
 | [home with you](https://open.spotify.com/track/1lofsKXY29reyN9j0doHFF) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [home with you](https://open.spotify.com/album/3nLiYcMpeEOKzb5TzQcJer) | 3:44 | 2019-10-10 | 2019-12-13 |
 | [Honey](https://open.spotify.com/track/2ipbVg9oVEJ6VJMOAwZOVG) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Condition](https://open.spotify.com/album/17Z3b3zcONkAQFS1GJ6AM4) | 4:34 | 2020-12-18 | 2021-02-06 |
 | [Hoochie Mama](https://open.spotify.com/track/2RXhmevjfxVlM9Kd7h0fhZ) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Superghetto](https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI) | 3:15 | 2022-03-25 | 2022-05-28 |
@@ -949,7 +949,7 @@
 | [Nah It Ain't The Same](https://open.spotify.com/track/3KKOxkUPWhKQssiMCSJxqO) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Nah It Ain't The Same](https://open.spotify.com/album/27QNFuoSpcwEYnMJhwHhiP) | 4:11 | 2021-03-19 | 2021-06-03 |
 | [Naoko](https://open.spotify.com/track/66pta58sZB4aTd1uiP3CrF) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF), [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Naoko](https://open.spotify.com/album/7MZeUpZOcGNI03TZdShTgp) | 2:46 | 2021-09-11 | 2021-12-04 |
 | [Naruda \(Fall In Your Arms Again\)](https://open.spotify.com/track/2e7FLtv5JjOr1IN8yCTcZQ) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9) | [Naruda \(Fall In Your Arms Again\)](https://open.spotify.com/album/2BDOmHLpZ1tvVOOq7OyI98) | 3:20 | 2022-02-25 |  |
-| [National Lottery](https://open.spotify.com/track/6XtgTXKggnWcEzPk6VlLWo) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [Universal Credit](https://open.spotify.com/album/2tbr8j7ZTwmkh9Yfoq5pPc) | 3:28 | 2022-05-27 |  |
+| [National Lottery](https://open.spotify.com/track/6XtgTXKggnWcEzPk6VlLWo) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [Universal Credit](https://open.spotify.com/album/2tbr8j7ZTwmkh9Yfoq5pPc) | 0:29 | 2022-05-27 |  |
 | [Nauseous / Devilish](https://open.spotify.com/track/0dzdz32c8H6ARy5N0YpZNH) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Nauseous / Devilish](https://open.spotify.com/album/6QJ5PlGKA1bc9OE8eU00Fm) | 2:23 | 2019-10-03 | 2019-12-13 |
 | [NBA Youngboy](https://open.spotify.com/track/4hgzljTeHfSLagA9c2k82Z) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Fuck Your Expectations PT\. 2](https://open.spotify.com/album/7IPSFDJ39rs4nUxzAD6EJo) | 2:47 | 2021-04-30 | 2021-07-21 |
 | [Ne Me Quitte Pas \(Don't Leave Me\)](https://open.spotify.com/track/02BwlHD6hUNn3kzySLfqMq) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Ne Me Quitte Pas \(Don't Leave Me\)](https://open.spotify.com/album/6U2yXVQ8xY1HNOtDU191CD) | 2:48 | 2020-01-10 | 2020-06-29 |

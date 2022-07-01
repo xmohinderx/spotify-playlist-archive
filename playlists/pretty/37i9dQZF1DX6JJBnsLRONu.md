@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JJBnsLRONu.md) - [plain]
 
 > Pushing the boundaries of instrumental Folk and Americana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,651 likes - 55 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,657 likes - 55 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JJBnsLRONu.md) - [plain]
 | 9 | [Across White Oak Mountain](https://open.spotify.com/track/6I7U9PRJPSLrmnieJA4B8U) | [Chuck Johnson](https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f) | [Crows In The Basilica](https://open.spotify.com/album/6haBtUE6M80jxNgGFRgcFw) | 3:50 |
 | 10 | [Huron](https://open.spotify.com/track/1pTkkX3dARoW4FOIBQv4rv) | [LaCerte](https://open.spotify.com/artist/3BtWF0iqzutntjuCfxh6NN) | [Huron](https://open.spotify.com/album/1eYlcFAGA6Nh0nMjlqrQZF) | 2:32 |
 | 11 | [Jericho](https://open.spotify.com/track/5oNvZprFIEffLJv5jVa9h9) | [Laurel Premo](https://open.spotify.com/artist/1xb97sU2gSPLt2TBtKQeVT) | [Jericho](https://open.spotify.com/album/0Vq9bdUGdZUCW2i1rmnjfk) | 4:52 |
-| 12 | [Shenandoah \(For Johnny Smith\)](https://open.spotify.com/track/1WDOzVi6U8H4JEeYNg3eOQ) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Good Dog, Happy Man](https://open.spotify.com/album/4ICZxA4JmNgkrjT9d30TJX) | 6:10 |
+| 12 | [Shenandoah \(For Johnny Smith\)](https://open.spotify.com/track/1WDOzVi6U8H4JEeYNg3eOQ) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Good Dog, Happy Man](https://open.spotify.com/album/4ICZxA4JmNgkrjT9d30TJX) | 0:29 |
 | 13 | [Swayfer Sandles](https://open.spotify.com/track/0g2Sexo4C8cIS5tmDUakjP) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [The Good Times](https://open.spotify.com/album/2M6pgY4xaIQcjpcMx8cFjP) | 2:39 |
 | 14 | [Silent Advance](https://open.spotify.com/track/1rmQpmB07R7ehokVR74AQW) | [Bryan Rahija](https://open.spotify.com/artist/17OekKFB72Bbu7R14sde59) | [Silent Advance](https://open.spotify.com/album/5j5jKiWgjZ7w4VDNVBEuW8) | 2:25 |
 | 15 | [Lord It Over](https://open.spotify.com/track/1ep4SZNTde7rDftHhY9Yq1) | [Dylan Golden Aycock](https://open.spotify.com/artist/5LO5Gtv41xC0058NdQsDmZ) | [Church of Level Track](https://open.spotify.com/album/0naTNqCkQO4hukkSaWk9Md) | 4:38 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JJBnsLRONu.md) - [plain]
 | 41 | [clarity](https://open.spotify.com/track/7smjNSQAciZfQHDyF1Nxp2) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [clarity](https://open.spotify.com/album/08yhzYG1zpG0HxfXX2hjHE) | 2:19 |
 | 42 | [Teek](https://open.spotify.com/track/5pbRRA6wZm1OtBDXQl464D) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV), [Ralph Farris](https://open.spotify.com/artist/7MqERo1Nx2kIaJJF9xjrUN) | [Modern Yesterdays](https://open.spotify.com/album/4pgnnkCEHdnCMzx2WS9tAI) | 4:31 |
 | 43 | [American Dipper](https://open.spotify.com/track/1PJvxtfe6W1aeQKiXjGmSc) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S), [Joel Ford](https://open.spotify.com/artist/5XiDsZ4MdTGfZvUEVBGfiA) | [American Dipper](https://open.spotify.com/album/648j3s2wgIRU0v1YiVTLil) | 3:55 |
-| 44 | [Home](https://open.spotify.com/track/3OOW0UYCJ4cBJ3Tm0vsWzx) | [SUSS](https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS) | [Promise](https://open.spotify.com/album/0oXfn8vzQ1yicX2dBkLgf4) | 5:37 |
+| 44 | [Home](https://open.spotify.com/track/3OOW0UYCJ4cBJ3Tm0vsWzx) | [SUSS](https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS) | [Promise](https://open.spotify.com/album/0oXfn8vzQ1yicX2dBkLgf4) | 0:29 |
 | 45 | [Bumblin' Creed](https://open.spotify.com/track/1NT4NQQgQmnqyI4ur5W4qf) | [Padang Food Tigers & Sigbjørn Apeland](https://open.spotify.com/artist/0vXLxVov9wThTze1YI6rIU) | [Bumblin' Creed](https://open.spotify.com/album/5xqGo1QHYYGAYHVsRBqyFp) | 3:04 |
 | 46 | [Horns](https://open.spotify.com/track/5cnGwWAFTrisjuOGyPIoKy) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Valley Of The Sun](https://open.spotify.com/album/6fZ3Hx3Fzsswmto7mC3rP5) | 5:00 |
 | 47 | [Estancia](https://open.spotify.com/track/56wSQCknk5Fp0gOt9EaT2e) | [Bill Elm & Woody Jackson](https://open.spotify.com/artist/4bvAYuLthEXwoUpNhCc15S) | [Red Dead Redemption Original Soundtrack](https://open.spotify.com/album/22H5XKyHXkxHbty4jtBibg) | 2:02 |

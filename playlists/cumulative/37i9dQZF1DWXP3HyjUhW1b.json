@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 153160,
       "name": "Abrazado de un Poste",
       "url": "https://open.spotify.com/track/2GiQqCOQCOkYA76QmD9Iqf"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 199320,
       "name": "Adi\u00f3s Amor",
       "url": "https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y"
@@ -146,7 +146,7 @@
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 181720,
+      "duration_ms": 29048,
       "name": "Amorcito coraz\u00f3n",
       "url": "https://open.spotify.com/track/5edCzkatTA7YC8fy4ZKUPh"
     },
@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 142064,
       "name": "Cabr\u00f3n y Vago - En Vivo",
       "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 250686,
       "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
       "url": "https://open.spotify.com/track/70w1mwTod6NgCNV6e7ZlIQ"
@@ -427,7 +427,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 231093,
       "name": "Cucurrucucu Paloma",
       "url": "https://open.spotify.com/track/4SYjzX3PaRgTxPlwI9lAJx"
@@ -481,7 +481,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 234367,
       "name": "Despu\u00e9s de Ti \u00bfQui\u00e9n?",
       "url": "https://open.spotify.com/track/1UpX5ptkVw2axgCbWWXbvk"
@@ -518,7 +518,7 @@
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 200480,
+      "duration_ms": 29048,
       "name": "Directo Al Coraz\u00f3n",
       "url": "https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB"
     },
@@ -625,7 +625,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 179000,
       "name": "El son de la negra",
       "url": "https://open.spotify.com/track/1kjMKI2xugTJvBFPZT140r"
@@ -770,7 +770,7 @@
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 250800,
+      "duration_ms": 29048,
       "name": "Es Demasiado Tarde - Remasterizado",
       "url": "https://open.spotify.com/track/7wt6xHEIxuKlqCq2YurOLO"
     },
@@ -953,7 +953,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 168133,
       "name": "La culebra",
       "url": "https://open.spotify.com/track/335MnaMIi8Gz61nxR9nWMW"
@@ -1097,7 +1097,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 172306,
       "name": "La Que Se Fue",
       "url": "https://open.spotify.com/track/5UrnSrZ9lY9EMy7c6arTE9"
@@ -1475,7 +1475,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 156520,
       "name": "No Te Contaron Mal",
       "url": "https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj"
@@ -1511,7 +1511,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 271386,
       "name": "Paloma Negra",
       "url": "https://open.spotify.com/track/2IYw9z0H2nfJM3nY6pyW0S"
@@ -1554,6 +1554,24 @@
     },
     {
       "album": {
+        "name": "Serie De Colecci\u00f3n 15 Autenticos Exitos - Hermanas Huerta",
+        "url": "https://open.spotify.com/album/6bXi6PKGkTnMsXFeP9D3AV"
+      },
+      "artists": [
+        {
+          "name": "Hermanas Huerta",
+          "url": "https://open.spotify.com/artist/1hU5wdiWeIWv4fBklDgta1"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154866,
+      "name": "Playa Sola",
+      "url": "https://open.spotify.com/track/68LaQpTOKvU3rw1quroLek"
+    },
+    {
+      "album": {
         "name": "Con Todas Las Fuerzas",
         "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
       },
@@ -1584,7 +1602,7 @@
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 263133,
+      "duration_ms": 29048,
       "name": "Por Mujeres Como T\u00fa",
       "url": "https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD"
     },
@@ -1825,7 +1843,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 209133,
       "name": "Tata Dios",
       "url": "https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s"
@@ -2135,7 +2153,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 147053,
       "name": "Ya Te Perd\u00ed La Fe",
       "url": "https://open.spotify.com/track/0KHDthR0XvPoeJaqBc7Sg5"
@@ -2189,7 +2207,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 219680,
       "name": "Yo Soy Mexicano",
       "url": "https://open.spotify.com/track/5tXSlq80kIajsUGW2LGBCx"
@@ -2211,7 +2229,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 240456,
       "name": "Yo Ya No Vuelvo Contigo - En Vivo",
       "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"

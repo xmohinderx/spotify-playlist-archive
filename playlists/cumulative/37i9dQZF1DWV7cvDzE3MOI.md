@@ -4,7 +4,7 @@
 
 > Discover the unforgettable melodies of Chopin, including moving ballades, relaxing nocturnes and vibrant concertos.
 
-67 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/1ABuD7n9d0p3BfyYPmnPkg)
+67 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/1ABuD7n9d0p3BfyYPmnPkg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Impromptu No\. 3 in G\-Flat Major, Op\. 51](https://open.spotify.com/track/29ZAGoKOX6a4oeB0iFl14z) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [YUNDI](https://open.spotify.com/artist/1T6BHJnhY5xIVvZKzV5f2u) | [Chopin: Scherzi; Impromptus](https://open.spotify.com/album/4OfL20QXcIqMRSSZjgO4JY) | 5:06 | 2021-10-29 |  |
 | [Introduction et Polonaise brillante in C Major, Op\. 3](https://open.spotify.com/track/6l5eXzb2o489veNcBrIDoD) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Emanuel Ax](https://open.spotify.com/artist/17yd2V3A2UmwD0a00hmjX5) | [Chopin: Chamber Music \(Remastered\)](https://open.spotify.com/album/7mSGdugkBh5Aaxg1kn3WlF) | 9:09 | 2021-10-29 |  |
 | [Mazurka in A Minor, Op\. 17 No\. 4](https://open.spotify.com/track/6xpxh32vZI09GIVUc9j801) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Chopin: Works for Piano](https://open.spotify.com/album/263G1hP6jKqrziAfQUxjFx) | 4:54 | 2021-10-29 |  |
-| [Mazurka No\. 23 in D Major, Op\. 33 No\. 2](https://open.spotify.com/track/251nfOQOQYMGiAYTgDJyjp) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Chopin: Mazurkas, Vol\. 1](https://open.spotify.com/album/7p41w6rasps37nOAysSBdX) | 2:29 | 2021-10-29 |  |
+| [Mazurka No\. 23 in D Major, Op\. 33 No\. 2](https://open.spotify.com/track/251nfOQOQYMGiAYTgDJyjp) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Chopin: Mazurkas, Vol\. 1](https://open.spotify.com/album/7p41w6rasps37nOAysSBdX) | 0:29 | 2021-10-29 |  |
 | [Mazurka No\. 36 in A Minor, Op\. 59 No\. 1](https://open.spotify.com/track/50NKS5zdW19a73ckDz29eu) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Vladimir Ashkenazy](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) | [Chopin: Mazurkas](https://open.spotify.com/album/1V9JapAlT99rVUJzVgv0gJ) | 4:28 | 2021-10-29 |  |
 | [Nocturne in C\-Sharp Minor, Op\. 27 No\. 1](https://open.spotify.com/track/3GCSlxhYGeQsoXah5zRpQC) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Ingrid Fliter](https://open.spotify.com/artist/7iUbgcO0RSM8jJHbXNnrdq) | [Chopin: Nocturnes](https://open.spotify.com/album/7k54RTWZdOVQqMR5torR0n) | 4:57 | 2021-10-29 |  |
 | [Nocturne in E\-Flat Major, Op\. 55, No\. 2](https://open.spotify.com/track/1QBaOzhMlaWx9zQZIEmJFx) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Lang Lang: The Chopin Album](https://open.spotify.com/album/0ylbO515jtrovpxr1drKdF) | 6:06 | 2021-10-29 |  |

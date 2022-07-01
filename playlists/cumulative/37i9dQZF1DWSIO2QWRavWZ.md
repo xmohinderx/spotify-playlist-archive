@@ -4,7 +4,7 @@
 
 > For all the beautiful queens! Guest curated by Mary J\. Blige
 
-58 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/1tinTdr9pJiClutwPgTlAD)
+58 songs - 3 hr 25 min - [published](https://open.spotify.com/playlist/1tinTdr9pJiClutwPgTlAD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Scared \- from the "Bruised" Soundtrack](https://open.spotify.com/track/0xEIY4zMquic0MRv9lSekG) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Bruised Soundtrack](https://open.spotify.com/artist/0CHgnpcHB0yfcUfJ3bdI3W) | [Scared \(from the "Bruised" Soundtrack\)](https://open.spotify.com/album/1VuOFnoveM2MzoLSEeTEHk) | 2:39 | 2021-11-24 | 2022-02-12 |
 | [She Bad](https://open.spotify.com/track/23dK8Cue1FvIDX4yRtXkNO) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [She Bad](https://open.spotify.com/album/2XEqj3vkavc4fyVIdPJeqM) | 3:41 | 2021-11-24 | 2022-02-12 |
 | [So Gone](https://open.spotify.com/track/6BIcjFZIVDZxNAcofRFPx4) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [After The Storm](https://open.spotify.com/album/4lSQkGgFffaUOd22Yrc25v) | 4:02 | 2022-02-11 |  |
-| [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 | 2022-02-11 |  |
+| [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 0:29 | 2022-02-11 |  |
 | [Tap In](https://open.spotify.com/track/4Hpib09wXgD84w4uwTPnYD) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Tap In](https://open.spotify.com/album/3XpOIE22NDEl5VSguQGv2h) | 2:19 | 2021-11-24 | 2022-02-12 |
 | [Tha Fuck \- from the "Bruised" Soundtrack](https://open.spotify.com/track/5uIVb6uru0v4yYZlfPrMOX) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Bruised Soundtrack](https://open.spotify.com/artist/0CHgnpcHB0yfcUfJ3bdI3W) | [Tha Fuck \(from the "Bruised" Soundtrack\)](https://open.spotify.com/album/62K2UfOrTETyXgbKVXAvTl) | 2:14 | 2021-11-24 | 2022-02-12 |
 | [The Pleasure Principle](https://open.spotify.com/track/1krKp0OXeCH6SI5SXl8tu5) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Control](https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y) | 4:57 | 2022-02-11 |  |

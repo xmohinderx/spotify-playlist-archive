@@ -4,7 +4,7 @@
 
 > ...dancing in the mirror.
 
-40 songs - 2 hr 36 min - [published](https://open.spotify.com/playlist/6gvsWJQyuDO6OYcX5jjRTo)
+40 songs - 2 hr 18 min - [published](https://open.spotify.com/playlist/6gvsWJQyuDO6OYcX5jjRTo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Centuries](https://open.spotify.com/track/0yhPEz5KxlDwckGJaMlZqM) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/0dAvbhVYW3bGnLldQ8Nvwn) | 3:48 | 2015-03-13 |  |
 | [Chandelier](https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 3:36 | 2015-03-13 |  |
 | [Cheerleader \(Felix Jaehn Remix\) \- Radio Edit](https://open.spotify.com/track/6fQcqEcXfnY0L6VwS0c3gT) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Cheerleader \(Felix Jaehn Remix Radio Edit\)](https://open.spotify.com/album/0Yf3Dt43zUssZqS4JhzXsZ) | 3:00 | 2015-03-13 |  |
-| [Come & Get It](https://open.spotify.com/track/6LoQHIo74tOzQ8EsLEkhgF) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Stars Dance \(Bonus Track Version\)](https://open.spotify.com/album/3cGKAHAUhAaTTezK4GbBhQ) | 3:51 | 2015-03-13 |  |
+| [Come & Get It](https://open.spotify.com/track/6LoQHIo74tOzQ8EsLEkhgF) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Stars Dance \(Bonus Track Version\)](https://open.spotify.com/album/3cGKAHAUhAaTTezK4GbBhQ) | 0:29 | 2015-03-13 |  |
 | [Dark Horse](https://open.spotify.com/track/5jrdCoLpJSvHHorevXBATy) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:35 | 2015-03-13 |  |
 | [Drunk in Love \(feat\. Jay\-Z\)](https://open.spotify.com/track/6jG2YzhxptolDzLHTGLt7S) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 5:23 | 2015-03-13 |  |
 | [Flaws](https://open.spotify.com/track/67wABU4SjBlnDHB0KiU3HL) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Bad Blood](https://open.spotify.com/album/64fQ94AVziavTPdnkCS6Nj) | 3:38 | 2015-03-13 |  |
@@ -27,9 +27,9 @@
 | [Heartbeat Song](https://open.spotify.com/track/7FC9Lng8iXU081lbigu8m8) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Piece By Piece \(Deluxe Version\)](https://open.spotify.com/album/7oKtXc3FkeOZTCB88YugON) | 3:18 | 2015-03-13 |  |
 | [I'm Gonna Show You Crazy](https://open.spotify.com/track/5LtNBCM2ve0SxP0dlRVvMu) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Gonna Show You Crazy](https://open.spotify.com/album/1jjRCEFt2eCfCNWHV7AtEk) | 3:27 | 2015-03-13 |  |
 | [I'm Not The Only One](https://open.spotify.com/track/1VbhR6D6zUoSTBzvnRonXO) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Deluxe Edition\)](https://open.spotify.com/album/7p7RFI5jtwYDknwhnQgmlp) | 3:59 | 2015-03-13 |  |
-| [Jealous](https://open.spotify.com/track/2woCw59DHRIb1vcyQ2a7Ca) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Nick Jonas \(Deluxe\)](https://open.spotify.com/album/4jd7U6ca3Ew6JYpbjFauxj) | 3:43 | 2015-03-13 |  |
-| [Love Me Like You Do \- From "Fifty Shades Of Grey"](https://open.spotify.com/track/7y2YUIyCuVhBidENVT0068) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Love Me Like You Do \(From "Fifty Shades Of Grey"\)](https://open.spotify.com/album/2YLHkrwyRBsjBgSAySg0es) | 4:12 | 2015-03-13 |  |
-| [Mirrors](https://open.spotify.com/track/2JZKXgq5zsokN01KWyiY6n) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The 20/20 Experience](https://open.spotify.com/album/41br7lBSZOr9RjJAjk0om6) | 8:04 | 2015-03-13 |  |
+| [Jealous](https://open.spotify.com/track/2woCw59DHRIb1vcyQ2a7Ca) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Nick Jonas \(Deluxe\)](https://open.spotify.com/album/4jd7U6ca3Ew6JYpbjFauxj) | 0:29 | 2015-03-13 |  |
+| [Love Me Like You Do \- From "Fifty Shades Of Grey"](https://open.spotify.com/track/7y2YUIyCuVhBidENVT0068) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Love Me Like You Do \(From "Fifty Shades Of Grey"\)](https://open.spotify.com/album/2YLHkrwyRBsjBgSAySg0es) | 0:29 | 2015-03-13 |  |
+| [Mirrors](https://open.spotify.com/track/2JZKXgq5zsokN01KWyiY6n) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The 20/20 Experience](https://open.spotify.com/album/41br7lBSZOr9RjJAjk0om6) | 0:29 | 2015-03-13 |  |
 | [Nobody Love](https://open.spotify.com/track/1jQNuXoP9ppDtPbPqGibRA) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Nobody Love](https://open.spotify.com/album/5kUeFmIpcW2sq5TqqVjlQW) | 3:22 | 2015-04-27 |  |
 | [Only](https://open.spotify.com/track/4MRT0dDbhqFKl67WzhUbSw) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [The Pinkprint \(Deluxe\)](https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu) | 5:12 | 2015-03-13 |  |
 | [Replay](https://open.spotify.com/track/7d1CFwrBmH34gmS0Hkbfbt) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Zendaya](https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl) | 3:29 | 2015-04-27 |  |

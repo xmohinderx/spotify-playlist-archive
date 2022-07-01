@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 
 > Lyrical\. Legit\. This Pride vision of Folk, Americana, and Singer\-Songwriter music features LGBTQQIA+ acts and allies\. Cover: Angel Olsen
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,760 likes - 88 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,938 likes - 88 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 | 33 | [What if You](https://open.spotify.com/track/0nKimWXdewT5XCaL5wOstA) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [What if You](https://open.spotify.com/album/65TC3N9kNHYeLFt7hqaW5M) | 3:22 |
 | 34 | [snake](https://open.spotify.com/track/4K5pGnA0uiDLtipuoUbtPp) | [Sadurn](https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI) | [Radiator](https://open.spotify.com/album/5HskvGWXnVcfBg1K2Ff0nA) | 4:33 |
 | 35 | [I Can't Shake the Stranger Out of You](https://open.spotify.com/track/1ibyE2YZCyQUXgbVeclTCY) | [Lavender Country](https://open.spotify.com/artist/3UAkA4R9JwTDsWSvtKqJtP) | [Lavender Country](https://open.spotify.com/album/50DlqQtKUTx7zv4RHbCk7R) | 2:39 |
-| 36 | [You're Still My Love](https://open.spotify.com/track/0auPX06PfrehkJClLpH4cG) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX) | [Daddy's Country Gold](https://open.spotify.com/album/1b6lBkE4XKAGB8hGl8C57n) | 3:37 |
+| 36 | [You're Still My Love](https://open.spotify.com/track/0auPX06PfrehkJClLpH4cG) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX) | [Daddy's Country Gold](https://open.spotify.com/album/1b6lBkE4XKAGB8hGl8C57n) | 0:29 |
 | 37 | [Bed of Bad Luck](https://open.spotify.com/track/1rdoKO7Q1TMMP1vvGcdiQ2) | [Little Bandit](https://open.spotify.com/artist/3ZcpzDeDdqeqO3aWU3IN4y) | [Breakfast Alone](https://open.spotify.com/album/6vRs199Mg5jUHA4W0tfXPV) | 3:27 |
 | 38 | [Love is a Fire](https://open.spotify.com/track/1hA2vgZyb41P1ns2mYGynD) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Your Life Is a Record](https://open.spotify.com/album/027y46STDxTFM35diEeoxy) | 4:01 |
 | 39 | [Just A Woman](https://open.spotify.com/track/6CwZv215C5uYwW277JsrLu) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U), [Jessi Colter](https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v) | [Just A Woman](https://open.spotify.com/album/5qPSuH0qcPnDv2q7HfDM5I) | 4:16 |

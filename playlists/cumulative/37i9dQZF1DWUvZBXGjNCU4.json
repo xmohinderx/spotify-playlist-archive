@@ -408,6 +408,24 @@
     },
     {
       "album": {
+        "name": "Say My Name!",
+        "url": "https://open.spotify.com/album/3STB33e4MiSaNNvU2XXPbh"
+      },
+      "artists": [
+        {
+          "name": "Candelion",
+          "url": "https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187735,
+      "name": "Calming Rain",
+      "url": "https://open.spotify.com/track/7gGoipsdaoYS99Sjw7gizS"
+    },
+    {
+      "album": {
         "name": "Swaying",
         "url": "https://open.spotify.com/album/0uh0YgMWqpewFHCNy4yqtY"
       },
@@ -1054,7 +1072,7 @@
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 183750,
+      "duration_ms": 29048,
       "name": "Great Moments",
       "url": "https://open.spotify.com/track/6VQ4N5ybijwCc6ugRlFztv"
     },
@@ -1342,7 +1360,7 @@
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 132375,
+      "duration_ms": 29048,
       "name": "I'm Coming Home To You",
       "url": "https://open.spotify.com/track/2fPgNS9Q6hMc0vzO4RLuEY"
     },
@@ -1612,7 +1630,7 @@
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 202431,
+      "duration_ms": 29048,
       "name": "Long Ago",
       "url": "https://open.spotify.com/track/660XH9scfuNHY2vU0Ct5lv"
     },
@@ -2014,6 +2032,42 @@
     },
     {
       "album": {
+        "name": "Pride of Pennsylvania",
+        "url": "https://open.spotify.com/album/6S7lCi6gre8ywHHxXjtUQO"
+      },
+      "artists": [
+        {
+          "name": "Roy Edwin Williams",
+          "url": "https://open.spotify.com/artist/0VEjBPjfkuIaX9CM2G53oW"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202470,
+      "name": "Pacific Northwest",
+      "url": "https://open.spotify.com/track/5lQYoVqNiXEyqfRiwWOI4v"
+    },
+    {
+      "album": {
+        "name": "Palindrome",
+        "url": "https://open.spotify.com/album/1gDcpPpuH5KWxRqgQ0c6zh"
+      },
+      "artists": [
+        {
+          "name": "Twan Bracco Gartner",
+          "url": "https://open.spotify.com/artist/2HfAA8YkWctZYQia5wFa6C"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161797,
+      "name": "Palindrome",
+      "url": "https://open.spotify.com/track/5LwVS7ZfA5n6uqkUJbwCUT"
+    },
+    {
+      "album": {
         "name": "Past & Present",
         "url": "https://open.spotify.com/album/1YkLOGEug3hxm0QZPfWkcs"
       },
@@ -2026,7 +2080,7 @@
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 181174,
+      "duration_ms": 29048,
       "name": "Past & Present",
       "url": "https://open.spotify.com/track/43dy9gJMpgJmuhCS9fXreR"
     },
@@ -2425,6 +2479,24 @@
       "duration_ms": 179024,
       "name": "Silver City",
       "url": "https://open.spotify.com/track/3xTZpkPtRwNZ4XSyx53cuo"
+    },
+    {
+      "album": {
+        "name": "Sky",
+        "url": "https://open.spotify.com/album/6fFjqvw0ZkLTOihz2voCU0"
+      },
+      "artists": [
+        {
+          "name": "a sound for you",
+          "url": "https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113780,
+      "name": "Sky",
+      "url": "https://open.spotify.com/track/4gYayVU0GTqHEIqbLXu3N7"
     },
     {
       "album": {

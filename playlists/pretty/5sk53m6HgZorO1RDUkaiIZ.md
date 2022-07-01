@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5sk53m6HgZorO1RDUkaiIZ.md) - [plain]
 
 > All confirmed artists at the Bråvalla Festival 2017! June 28th \- July 1st, Norrköping, Sweden\. <a href="http://www.bravallafestival.se/">www.bravallafestival.se</a>
 
-[Bråvalla Festival](https://open.spotify.com/user/br%C3%A5valla.festival) - 8,242 likes - 159 songs - 10 hr 4 min
+[Bråvalla Festival](https://open.spotify.com/user/br%C3%A5valla.festival) - 8,241 likes - 159 songs - 9 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/5sk53m6HgZorO1RDUkaiIZ.md) - [plain]
 | 95 | [Amazing](https://open.spotify.com/track/0H3cy9U5qZWhrO5bYunEIL) | [Little Jinder](https://open.spotify.com/artist/5QYBoZAoupoPPuFB1KHfx0) | [Så mycket bättre \- Tolkningarna](https://open.spotify.com/album/6s0TKDaBevGiKQKob1dNBo) | 3:05 |
 | 96 | [Phone Down](https://open.spotify.com/track/5bvNpG6wiIEf1PA13TkTu2) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Phone Down](https://open.spotify.com/album/2jEoK4yuqMQOrxXj2006mu) | 3:35 |
 | 97 | [Quit You](https://open.spotify.com/track/4GJAd1nBylAEbw1dZDVzEQ) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Quit You](https://open.spotify.com/album/2WPXSv8cyr0i20Z9jsPd5M) | 3:41 |
-| 98 | [Lost on You](https://open.spotify.com/track/3SqvR3HYLlCTYzbDXJ52OC) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/3R2TVCA5PMMnEcVlIOCMEG) | 4:28 |
+| 98 | [Lost on You](https://open.spotify.com/track/3SqvR3HYLlCTYzbDXJ52OC) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/3R2TVCA5PMMnEcVlIOCMEG) | 0:29 |
 | 99 | [Into The Wild](https://open.spotify.com/track/6lai3DmICTpH3ygJvteIGm) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever For Now](https://open.spotify.com/album/5aMxUGbgPEewtPsil6LJfY) | 3:54 |
 | 100 | [Weekend \(feat\. Miguel\)](https://open.spotify.com/track/6GnhWMhgJb7uyiiPEiEkDA) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 3:28 |
 | 101 | [Dang! \(feat\. Anderson .Paak\)](https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 5:05 |
@@ -164,7 +164,7 @@ pretty - [cumulative](/playlists/cumulative/5sk53m6HgZorO1RDUkaiIZ.md) - [plain]
 | 154 | [Antidote](https://open.spotify.com/track/1wHZx0LgzFHyeIZkUydNXq) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Rodeo \(Expanded Edition\)](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 4:22 |
 | 155 | [pick up the phone](https://open.spotify.com/track/20dP2DaMHIAmwWAbp7peSr) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 4:12 |
 | 156 | [Underdog](https://open.spotify.com/track/4GMCZUi6cVQJ5wPWwJ36rW) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Hold Me Down](https://open.spotify.com/album/5FakgYrhpMRNbQ9OaAP9YU) | 2:23 |
-| 157 | [Night People](https://open.spotify.com/track/75TulEelZ2Bru5ixJYGJBv) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Night People](https://open.spotify.com/album/2SChkyg43hZMnY5EtTv5F2) | 3:03 |
+| 157 | [Night People](https://open.spotify.com/track/75TulEelZ2Bru5ixJYGJBv) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Night People](https://open.spotify.com/album/2SChkyg43hZMnY5EtTv5F2) | 0:29 |
 | 158 | [Kyoto](https://open.spotify.com/track/2djY65hifu2a4R2WqcXqKL) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Kyoto](https://open.spotify.com/album/6gdjvua6iksIJZgmD5FpRp) | 4:30 |
 | 159 | [Crystal City](https://open.spotify.com/track/6Yqzw3U3RYFtIu9YnI1Ugj) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Frost God](https://open.spotify.com/album/6Qj9L5tOFscNgKwi0Ab0TT) | 4:05 |
 

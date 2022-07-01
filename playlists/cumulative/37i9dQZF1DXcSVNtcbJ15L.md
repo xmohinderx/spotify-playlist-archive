@@ -4,7 +4,7 @@
 
 > vem de dm 🔥  ❤️
 
-66 songs - 3 hr 6 min - [published](https://open.spotify.com/playlist/2zTXiM7ZBUIxrhmTpaMV88)
+66 songs - 3 hr 0 min - [published](https://open.spotify.com/playlist/2zTXiM7ZBUIxrhmTpaMV88)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,11 +47,11 @@
 | [Oh, Linda](https://open.spotify.com/track/2mCs9GkmTggqhWIBm4a9RO) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T), [Pakau](https://open.spotify.com/artist/111jpJz8XiWltrlZwZPioK) | [Oh, Linda](https://open.spotify.com/album/2dD4DpNJXtmPCtxuOaLltY) | 2:33 | 2022-04-29 |  |
 | [Pedaço de Mim](https://open.spotify.com/track/2fEgPCDD0qRvZeVrY381EW) | [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Pedaço de Mim](https://open.spotify.com/album/0msDENReQijY9ggVdqOw9B) | 3:22 | 2022-04-29 |  |
 | [ping pong](https://open.spotify.com/track/44hMfAKIEFgSCBdgjVVjHr) | [belina](https://open.spotify.com/artist/3WhJVsZAzkUvuUQt2UycMg) | [ping pong](https://open.spotify.com/album/6UuwUOUJpp0vwpQgFdviTN) | 3:05 | 2022-04-29 |  |
-| [Planeta Lilás](https://open.spotify.com/track/1WC5DDdi6iSoYzrRb6pX8V) | [Sagaz](https://open.spotify.com/artist/5rl6n6CUJu1WGsvzf5m8M8), [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs), [Dudu Pacceli](https://open.spotify.com/artist/5O6LBBltqS4jHn90iy85Bj) | [Planeta Lilás](https://open.spotify.com/album/7rhYE7LriwOaFMkPjB4qpR) | 2:25 | 2022-04-29 |  |
+| [Planeta Lilás](https://open.spotify.com/track/1WC5DDdi6iSoYzrRb6pX8V) | [Sagaz](https://open.spotify.com/artist/5rl6n6CUJu1WGsvzf5m8M8), [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs), [Dudu Pacceli](https://open.spotify.com/artist/5O6LBBltqS4jHn90iy85Bj) | [Planeta Lilás](https://open.spotify.com/album/7rhYE7LriwOaFMkPjB4qpR) | 0:29 | 2022-04-29 |  |
 | [Plutão](https://open.spotify.com/track/3ydmNkAyYq0AKtG8sTfE9P) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Plutão](https://open.spotify.com/album/2sZzCGg7xCNdWQwoVaFuro) | 3:41 | 2022-04-29 |  |
 | [Poesia Pra Ela](https://open.spotify.com/track/2muI2ZlXv8AVeoB2cE5kTl) | [João Napoli](https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L) | [Poesia Pra Ela](https://open.spotify.com/album/4WJqg5tBknaiUoa9oH7sPU) | 5:11 | 2022-04-29 |  |
 | [Portugal](https://open.spotify.com/track/1tLBXifMqnSqLZrk1Rsl8n) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Portugal](https://open.spotify.com/album/5Acna8vDUeXMHpPTjf3J3h) | 3:36 | 2022-04-29 |  |
-| [PPRT](https://open.spotify.com/track/7jRujYuZFzPMMk2PMG7SfZ) | [Murilo França](https://open.spotify.com/artist/0PyoItyf0vbCXpSRuSdbtn) | [SOCORRO](https://open.spotify.com/album/4zpfBMqFzFyDUQA2y6KKKD) | 2:42 | 2022-04-29 |  |
+| [PPRT](https://open.spotify.com/track/7jRujYuZFzPMMk2PMG7SfZ) | [Murilo França](https://open.spotify.com/artist/0PyoItyf0vbCXpSRuSdbtn) | [SOCORRO](https://open.spotify.com/album/4zpfBMqFzFyDUQA2y6KKKD) | 0:29 | 2022-04-29 |  |
 | [Quer um sorvete?](https://open.spotify.com/track/7FvudQjnqmKHru7whaHVY3) | [K o d a](https://open.spotify.com/artist/0d39uPZOBEBNEai4P6eKoC) | [Quer um sorvete?](https://open.spotify.com/album/0JG3s687wofD6eQpa2FofA) | 2:48 | 2022-04-29 |  |
 | [Quero Agora](https://open.spotify.com/track/2EaOYBodrkKFceFdbIBRYC) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ) | [Quero Agora](https://open.spotify.com/album/0Wwfj23cw97BCGrOHznMvQ) | 3:25 | 2022-04-29 |  |
 | [Quinto Degrau](https://open.spotify.com/track/3FmdH6c6eh2fQZ0UNwuVMz) | [Nivy](https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh) | [Quinto Degrau](https://open.spotify.com/album/07wckfxRJIRQKwWyqr8VI8) | 2:22 | 2022-04-29 |  |
@@ -63,7 +63,7 @@
 | [Saturno](https://open.spotify.com/track/30929halSXzxtYut5Jm152) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Saturno](https://open.spotify.com/album/4sB0goURJma5hqTtI1MdEx) | 3:54 | 2022-04-29 |  |
 | [Se Eu Falhei](https://open.spotify.com/track/7fltehcRKtCLn1ddVz53vM) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Weeze Cooker](https://open.spotify.com/artist/2rgWI1W1YEsU6oeYJLbfWo), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Se Eu Falhei](https://open.spotify.com/album/0nwZA8g6vvpBbQ9kon3FlL) | 2:57 | 2022-04-29 |  |
 | [Sua Presença](https://open.spotify.com/track/2O1CgtFQhx7StmDxNg5Isq) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [H o u d i n i](https://open.spotify.com/artist/2xysuV21VYh93dle4QZq7T), [Delaila Matta](https://open.spotify.com/artist/4hLKMU32ZyHZQ9vlYXCweB) | [Sua Presença](https://open.spotify.com/album/4J1rpTfBX9wyzM8CO5ODy5) | 2:14 | 2022-04-29 |  |
-| [Só Eu](https://open.spotify.com/track/6MOKtdcZrMOjTFcAOqKyQQ) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Só Eu](https://open.spotify.com/album/5BP4n60jKYxbs3HSo2944E) | 2:52 | 2022-04-29 |  |
+| [Só Eu](https://open.spotify.com/track/6MOKtdcZrMOjTFcAOqKyQQ) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Só Eu](https://open.spotify.com/album/5BP4n60jKYxbs3HSo2944E) | 0:29 | 2022-04-29 |  |
 | [Te Espero](https://open.spotify.com/track/0DJDVFbVe9KF4xnVxDhi09) | [Pedrosa](https://open.spotify.com/artist/41iSmIaCOZWguy6ZVspcF2) | [Te Espero](https://open.spotify.com/album/4VOctUPHdfnjnQUXsJ9J36) | 2:19 | 2022-04-29 |  |
 | [Te Vi Passar](https://open.spotify.com/track/49jP8SX1HfjBi5cw3g8Ctq) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs) | [Te Vi Passar](https://open.spotify.com/album/5Cmil5GE8LJ46Nu1Yw1690) | 2:14 | 2022-04-29 |  |
 | [Terça de Tarde](https://open.spotify.com/track/2XyHmHCOvNogoRiWBA1L1I) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [Pedrosa](https://open.spotify.com/artist/41iSmIaCOZWguy6ZVspcF2) | [Terça de Tarde](https://open.spotify.com/album/0hEmoFuvmyY7UOTUElgLmu) | 1:49 | 2022-04-29 |  |

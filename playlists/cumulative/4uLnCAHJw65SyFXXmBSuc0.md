@@ -4,7 +4,7 @@
 
 > 
 
-20 songs - 1 hr 17 min - [published](https://open.spotify.com/playlist/7CTSKVlr53QndOBWX1dGSH)
+20 songs - 1 hr 13 min - [published](https://open.spotify.com/playlist/7CTSKVlr53QndOBWX1dGSH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Ms\. Jackson](https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:30 | 2013-06-28 |  |
 | [New Year's Day](https://open.spotify.com/track/7w3klLQ4XYHxEdYL50qX9M) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [U218 Singles \(Deluxe Version\)](https://open.spotify.com/album/7k7aHoW1MGWWQR0KXvswkx) | 4:18 | 2013-06-28 |  |
 | [New Years Eve](https://open.spotify.com/track/2Ir2CKYeBiXSWZbo7CZBIs) | [Popsicle](https://open.spotify.com/artist/3Zdqisea5g5Gu6jcB7VLcJ) | [The Sweetest Relief](https://open.spotify.com/album/6byUobn8gdYNpJkjAtOJZU) | 3:12 | 2013-06-28 |  |
-| [Next Year](https://open.spotify.com/track/1WwWjG2FGbBK6IkBBTknao) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 4:36 | 2013-06-28 |  |
+| [Next Year](https://open.spotify.com/track/1WwWjG2FGbBK6IkBBTknao) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 0:29 | 2013-06-28 |  |
 | [Ready to Start](https://open.spotify.com/track/1F2Ca0Cfo7DcdieWlZEqzc) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs Deluxe](https://open.spotify.com/album/76Rnn8D33IjnJxv4hQdmRX) | 4:15 | 2013-06-28 |  |
 | [Run the World \(Girls\)](https://open.spotify.com/track/7EdEUnekGCkChJzJyGp6TB) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/7cvVgT5RXbcUo9Qw4nq31D) | 3:56 | 2013-06-28 |  |
 | [Sexy And I Know It \- Mord Fustang](https://open.spotify.com/track/6lDFCh4v5nQrYiDpQ8WJ54) | [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl), [Mord Fustang](https://open.spotify.com/artist/34hwBP1esafQoCVtLz7F6K) | [Sexy And I Know It \(Remixes\)](https://open.spotify.com/album/7BfLW29u9eA2c4sAd5uE10) | 5:19 | 2013-06-28 |  |

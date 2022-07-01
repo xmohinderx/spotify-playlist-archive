@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Caamp
 
-128 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
+128 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Echo](https://open.spotify.com/track/0XuSeDzApPW3VEeMM2G4ei) | [Alysha Brilla](https://open.spotify.com/artist/72McluarQZqpzSS95goQ0Q) | [Echo](https://open.spotify.com/album/4IF5F9A68n96gZd9uJTY7A) | 2:34 | 2022-06-10 |  |
 | [EMPATHY 4 BETHANY](https://open.spotify.com/track/6Ly65M250uqDVZfj2Z0LdH) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [EMPATHY 4 BETHANY / GREEN APPLE \(EVERY NIGHT I RIDE NIGHT MARES\)](https://open.spotify.com/album/6sQW60NQvtOAjWhysIEO8q) | 4:54 | 2022-05-27 |  |
 | [Endless Time](https://open.spotify.com/track/1JS1QZwFXKVCdJPxoUAwrl) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [How Is It That I Should Look At The Stars](https://open.spotify.com/album/6GgHy26g1ILOtU9hkrHbLb) | 4:20 | 2022-05-13 | 2022-06-04 |
-| [Every Shade of Blue](https://open.spotify.com/track/1cKWyEiGWLXAUTz6jI1d7c) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Every Shade of Blue](https://open.spotify.com/album/4ee1hU8IWOpRMN7GNjZ4Nf) | 3:33 | 2022-05-13 |  |
+| [Every Shade of Blue](https://open.spotify.com/track/1cKWyEiGWLXAUTz6jI1d7c) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Every Shade of Blue](https://open.spotify.com/album/4ee1hU8IWOpRMN7GNjZ4Nf) | 0:29 | 2022-05-13 |  |
 | [Fables \- The Garden Version](https://open.spotify.com/track/3jLVtU8Sm0cyiVHWFENICL) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Fables \(The Garden Version\)](https://open.spotify.com/album/38uDEzlrOXkLtPfRz0zX5s) | 2:56 | 2022-05-13 |  |
 | [Fast Car](https://open.spotify.com/track/6oSkiBsy0ruE8uhdBLybNB) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Fast Car](https://open.spotify.com/album/7tCmNKU1tMnDLNCqcfMvTD) | 2:15 | 2022-05-13 |  |
 | [Fatal Line](https://open.spotify.com/track/6JAQKyDivpPVulL0K6J6zo) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 3:01 | 2022-05-13 |  |

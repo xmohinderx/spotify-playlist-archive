@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq57wSefud5.md) - [plain]
 
 > You'll be up with the sun and running to this playlist of fast paced feel good tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,507 likes - 25 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,507 likes - 25 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq57wSefud5.md) - [plain]
 | 9 | [Talk To Me](https://open.spotify.com/track/6DXxNwGTutl5cnAYJkiLVm) | [Kopecky](https://open.spotify.com/artist/0vRO9bFgOrDoFtLcDHV8b6) | [Talk To Me](https://open.spotify.com/album/0PbABISCq1snI3xlCr3agH) | 2:53 |
 | 10 | [Shake](https://open.spotify.com/track/33faLM9uNVtibuZIb37MOV) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Shake](https://open.spotify.com/album/0oGxKW2JMIZe9HnfJgzxxm) | 4:01 |
 | 11 | [Dime Store Cowgirl](https://open.spotify.com/track/6oU7wRtqnudEKA00egD3sP) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Dime Store Cowgirl](https://open.spotify.com/album/68FVTBYr7BfNK0djLweUcX) | 3:35 |
-| 12 | [Call Me In The Afternoon](https://open.spotify.com/track/2BBb3UMJBNlofpC25pbSp4) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Spotify Sessions](https://open.spotify.com/album/0FCAIjkz366qJJbLe7RSis) | 3:13 |
+| 12 | [Call Me In The Afternoon](https://open.spotify.com/track/2BBb3UMJBNlofpC25pbSp4) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Spotify Sessions](https://open.spotify.com/album/0FCAIjkz366qJJbLe7RSis) | 0:29 |
 | 13 | [First Time](https://open.spotify.com/track/2qEv3RLo2KTgjP844901gV) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:44 |
 | 14 | [Way Way Back](https://open.spotify.com/track/1EV8rGG6eZIvp7DJ2ravW1) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Kill The Lights](https://open.spotify.com/album/2kUXqmlthYkv0yyW3N9cy8) | 3:19 |
 | 15 | [How Bad We Need Each Other](https://open.spotify.com/track/5m2LyVfBZhEmOvBlBGBX1l) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [How Bad We Need Each Other](https://open.spotify.com/album/7iJxwENQQ1RZVPiUanIToJ) | 3:13 |

@@ -4,7 +4,7 @@
 
 > Estas damas sí que tienen carácter\. Lupita Infante en portada.
 
-118 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/28qg7h7VtnPvoLfHcWoH3E)
+118 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/28qg7h7VtnPvoLfHcWoH3E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [La Hija de Nadie](https://open.spotify.com/track/1TXIr8k01UXF0v6ckLVMUX) | [Yolanda Del Rio](https://open.spotify.com/artist/0QdXxfTxlrbEQSY6FaxqaC) | [La Hija De Nadie](https://open.spotify.com/album/0aOOYEl1uxLRX0x6uX2moJ) | 2:49 | 2021-11-26 |  |
 | [La Llorona](https://open.spotify.com/track/1W88VFG7s2ufqQWW0b1xA8) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Mariachi Juvenil de Tecalitlán](https://open.spotify.com/artist/6cA9ikC3OTYlqwOIufwgM1) | [Frida \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1VU7NezUvswRnFjNM0M5li) | 2:20 | 2021-11-26 | 2022-04-19 |
 | [La Malagueña](https://open.spotify.com/track/5yL9T1WK7fY0SFjnvSfima) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 5:24 | 2021-11-26 |  |
-| [La Martina](https://open.spotify.com/track/28iBqPLLYLrvqfcfCmFc7C) | [Irma Serrano](https://open.spotify.com/artist/7b3e0cQmBGnt2RP2IEYfd6) | [Corridos Famosos con la Tigresa](https://open.spotify.com/album/6WRc4nhcfAQPyq0y2LBH6j) | 3:00 | 2021-11-26 |  |
+| [La Martina](https://open.spotify.com/track/28iBqPLLYLrvqfcfCmFc7C) | [Irma Serrano](https://open.spotify.com/artist/7b3e0cQmBGnt2RP2IEYfd6) | [Corridos Famosos con la Tigresa](https://open.spotify.com/album/6WRc4nhcfAQPyq0y2LBH6j) | 0:29 | 2021-11-26 |  |
 | [La Que Baje La Guardia](https://open.spotify.com/track/0Bns3v6umxVjOxgg0nD5yZ) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [16 Éxitos De Oro](https://open.spotify.com/album/4Y0ngjTprxXbjjjzVw1rDR) | 3:51 | 2021-11-26 |  |
 | [La Tequilera](https://open.spotify.com/track/2XuJmv5Cc4N1gYEPzLshVl) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Ni Tu Esposa, Ni Tu Amante, Ni Tu Amiga](https://open.spotify.com/album/5PaF5t5ZrJ3PZGCCwAw5rt) | 2:26 | 2021-11-26 |  |
 | [Las Cuentas Claras](https://open.spotify.com/track/1mL8fjDIE2TrtAlrZKRtK8) | [Chelo](https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne) | [Éxitos Rancheros](https://open.spotify.com/album/4vQAJUbKWHZHQJq6ip1sdG) | 3:32 | 2021-11-26 |  |

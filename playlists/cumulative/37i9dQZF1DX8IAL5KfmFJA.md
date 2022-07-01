@@ -4,15 +4,15 @@
 
 > In loving memory of Marie Fredriksson.
 
-52 songs - 3 hr 25 min - [published](https://open.spotify.com/playlist/1fUcg2oddZ7NzQJEr3yXBo)
+52 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/1fUcg2oddZ7NzQJEr3yXBo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(Do You Get\) Excited?](https://open.spotify.com/track/1VXThXSlJDfst2CkNxvAz9) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride](https://open.spotify.com/album/2s39oUayLt0O5uXkdgmheY) | 4:15 | 2020-10-01 |  |
+| [\(Do You Get\) Excited?](https://open.spotify.com/track/1VXThXSlJDfst2CkNxvAz9) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride](https://open.spotify.com/album/2s39oUayLt0O5uXkdgmheY) | 0:29 | 2020-10-01 |  |
 | [A Thing About You](https://open.spotify.com/track/7JqAHnv9YZOPN8HTR4Fq7M) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [The Ballad Hits](https://open.spotify.com/album/2vYVXGQRRtaicjLpt5INMP) | 3:46 | 2020-10-01 |  |
 | [Almost Unreal](https://open.spotify.com/track/7rllLeuHbB59OQOILbNqF8) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Crash! Boom! Bang! \(2009 Version\)](https://open.spotify.com/album/52YascebxQ8Sn4ZYCvnFBs) | 3:54 | 2020-10-01 |  |
 | [Anyone](https://open.spotify.com/track/4G9c17xuGBFJ7mmlxfbkjl) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Have A Nice Day](https://open.spotify.com/album/0nH1MMlYBi0LcAXpA2KaDn) | 4:31 | 2020-10-01 |  |
-| [Church Of Your Heart](https://open.spotify.com/track/6broBHB7ObAA2BhzLT2nlX) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride](https://open.spotify.com/album/2s39oUayLt0O5uXkdgmheY) | 3:15 | 2020-10-01 |  |
+| [Church Of Your Heart](https://open.spotify.com/track/6broBHB7ObAA2BhzLT2nlX) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride](https://open.spotify.com/album/2s39oUayLt0O5uXkdgmheY) | 0:29 | 2020-10-01 |  |
 | [Crash! Boom! Bang!](https://open.spotify.com/track/1eHt31KceBrXEDEV6zNXtT) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Crash! Boom! Bang! \(2009 Version\)](https://open.spotify.com/album/52YascebxQ8Sn4ZYCvnFBs) | 5:01 | 2020-10-01 |  |
 | [Dangerous](https://open.spotify.com/track/756YOXmKh2iUnx33nAdfPf) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp! \(2009 Version\)](https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9) | 3:48 | 2020-10-01 |  |
 | [Directamente a Ti \(Run to You\)](https://open.spotify.com/track/4Uf16gygVXW2aZuuXI0qRO) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Baladas En Español](https://open.spotify.com/album/7iKhBP0N1KgoQsoCr3YvI2) | 3:32 | 2020-10-01 |  |
@@ -50,7 +50,7 @@
 | [The Centre Of The Heart \- 2003 Remaster](https://open.spotify.com/track/0aPwBQtbBwcZidIQx4lrfX) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [The 30 Biggest Hits XXX](https://open.spotify.com/album/0z27R5fO6NqnZhPUiH9ykZ) | 3:23 | 2020-10-01 |  |
 | [The Look](https://open.spotify.com/track/0ZfM5XfJTtFPhOxAERRnNY) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp! \(2009 Version\)](https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9) | 3:57 | 2020-10-01 |  |
 | [The Rain](https://open.spotify.com/track/0pSv1DbIvg3ifHrEuEGdYW) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Tourism \(2009 Version\)](https://open.spotify.com/album/6lH7u5QWoRteFLTw5DwG6d) | 4:49 | 2020-10-01 |  |
-| [Things Will Never Be The Same](https://open.spotify.com/track/2jKycIEA5nZOJxviK83FAX) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride](https://open.spotify.com/album/2s39oUayLt0O5uXkdgmheY) | 4:26 | 2020-10-01 |  |
+| [Things Will Never Be The Same](https://open.spotify.com/track/2jKycIEA5nZOJxviK83FAX) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride](https://open.spotify.com/album/2s39oUayLt0O5uXkdgmheY) | 0:29 | 2020-10-01 |  |
 | [This One](https://open.spotify.com/track/1x3zGk6n2aSXmrf7cCZDN5) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Good Karma](https://open.spotify.com/album/4oUOi5aKtbDx2PNln1aUzU) | 3:11 | 2020-10-01 |  |
 | [Turn of the Tide](https://open.spotify.com/track/6QsZWMB6zW0DyxNEe8Fc1r) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Travelling](https://open.spotify.com/album/69C0Rfg7W7eWs4KvUBKqBq) | 4:10 | 2020-10-01 |  |
 | [Un día sin tí \(Spending My Time\)](https://open.spotify.com/track/7Jwp98P2bsP5n5lE2We8GJ) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Baladas En Español](https://open.spotify.com/album/7iKhBP0N1KgoQsoCr3YvI2) | 4:39 | 2020-10-01 |  |

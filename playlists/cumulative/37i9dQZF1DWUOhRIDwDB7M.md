@@ -4,7 +4,7 @@
 
 > Positive and uplifting ambient instrumental tracks.
 
-232 songs - 11 hr 37 min - [published](https://open.spotify.com/playlist/6fLxyccnSrhX5ogq1L5BVp)
+232 songs - 11 hr 23 min - [published](https://open.spotify.com/playlist/6fLxyccnSrhX5ogq1L5BVp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,9 +160,9 @@
 | [Open Mind](https://open.spotify.com/track/6P0nOPIowb2GOLDJ5ep71u) | [atm0](https://open.spotify.com/artist/2dLJKI99EQIlCSH9yMf1Qr) | [Open Mind](https://open.spotify.com/album/2krXE1cZUSJJbEWq2sdKys) | 2:40 | 2021-09-06 |  |
 | [Open Sea](https://open.spotify.com/track/6EmGCYsp5zMb62euRsHnhJ) | [Kalmankar](https://open.spotify.com/artist/69A9sNZknmNen76ssKle8a) | [Open Ocean](https://open.spotify.com/album/3tN8xeULgDF32eUup028YQ) | 2:14 | 2021-09-06 |  |
 | [Orbits](https://open.spotify.com/track/6jFX2sHOzh7tpIIOomlrqJ) | [Halfway Escape](https://open.spotify.com/artist/1zT5lkgp3zNJ592XVPVKUP) | [Orbits](https://open.spotify.com/album/5jHLPPk51g8j1xkVKgKPwR) | 3:24 | 2021-09-06 |  |
-| [Peaceful Thoughts](https://open.spotify.com/track/5iyORStbbLuYYVRmilLh8w) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Soul Seeker](https://open.spotify.com/album/1oxm59nThusBxI4HIaClYR) | 3:44 | 2021-09-06 |  |
+| [Peaceful Thoughts](https://open.spotify.com/track/5iyORStbbLuYYVRmilLh8w) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Soul Seeker](https://open.spotify.com/album/1oxm59nThusBxI4HIaClYR) | 0:29 | 2021-09-06 |  |
 | [Petrichor](https://open.spotify.com/track/2hx0o7fZRPkmknXSgncOij) | [Amparo](https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf) | [Dark Sky City](https://open.spotify.com/album/1n30D8qOtqf6IimgHXz8wF) | 2:51 | 2021-09-06 |  |
-| [Petrichor](https://open.spotify.com/track/22KKy6ftT0i4nyGNCbwc1B) | [Cecelya](https://open.spotify.com/artist/03aCAywaPegfs9yvJ66eCp) | [Petrichor](https://open.spotify.com/album/0EeoPgnFgCP1TNJsBdelJ7) | 1:58 | 2021-09-06 |  |
+| [Petrichor](https://open.spotify.com/track/22KKy6ftT0i4nyGNCbwc1B) | [Cecelya](https://open.spotify.com/artist/03aCAywaPegfs9yvJ66eCp) | [Petrichor](https://open.spotify.com/album/0EeoPgnFgCP1TNJsBdelJ7) | 0:29 | 2021-09-06 |  |
 | [Placidity](https://open.spotify.com/track/1XtkmIXg2o5SqOrNI8Szvk) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Placidity](https://open.spotify.com/album/7v2OxlHooP4Plr1HE5pMeE) | 2:45 | 2021-09-06 |  |
 | [Prayer of Dreams](https://open.spotify.com/track/56Q6Ub5JGADQglD5FaKqfk) | [Videung](https://open.spotify.com/artist/5otZiXoT8hB9Gi1oFcz4h0) | [Prayer of Dreams](https://open.spotify.com/album/41MmwTxWQMuKWI8I2wWh8J) | 3:00 | 2021-09-06 |  |
 | [Pre](https://open.spotify.com/track/6BtLpTJ34fTAJMsYlGP4KG) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [The Philosophers](https://open.spotify.com/album/719Uu5vBFVSLv8KnMNte0A) | 1:47 | 2021-09-06 |  |
@@ -177,7 +177,7 @@
 | [Ride The Wave](https://open.spotify.com/track/0q1rGHsLzGNwzwxGrg99ji) | [The Oahus](https://open.spotify.com/artist/4Kn5Q0QdYY7k6oIJM2DGL3) | [Ride The Wave](https://open.spotify.com/album/258JaFg4K80qA17gpVs8K5) | 2:51 | 2021-09-06 |  |
 | [Ripples](https://open.spotify.com/track/5plHbWs9JiZmHLCPEuLnzz) | [Cloud Water Assembly](https://open.spotify.com/artist/4af8enmN5MdqxY3k5T6fa1) | [Ripples](https://open.spotify.com/album/0DoqsE8voJyzl60RdOrknQ) | 2:49 | 2021-09-06 |  |
 | [Ritualer](https://open.spotify.com/track/0WzlQIFD0Qi8QeTbAjshZA) | [Restorative](https://open.spotify.com/artist/5xKXgnk2Uov5ZnQi87TV0i) | [Ritualer](https://open.spotify.com/album/4C7par0bpvzdvWlrsRRyd0) | 2:22 | 2022-03-18 |  |
-| [Rooftops](https://open.spotify.com/track/7m9s5U1FjcFDLorvn1TD4l) | [AMBIE](https://open.spotify.com/artist/5oo57Q3XAVgiuF4D2BSz6D) | [Rooftops](https://open.spotify.com/album/7xZXttB5IlX5eoYBPlwrEa) | 2:32 | 2021-09-06 |  |
+| [Rooftops](https://open.spotify.com/track/7m9s5U1FjcFDLorvn1TD4l) | [AMBIE](https://open.spotify.com/artist/5oo57Q3XAVgiuF4D2BSz6D) | [Rooftops](https://open.spotify.com/album/7xZXttB5IlX5eoYBPlwrEa) | 0:29 | 2021-09-06 |  |
 | [Safe And Sound](https://open.spotify.com/track/61nBe7BiDRiwqSNZfAjswA) | [Burgundy Skies](https://open.spotify.com/artist/2txYwbS88ztbJYTKGVeUrq) | [Safe And Sound](https://open.spotify.com/album/4dzLEtw4Qusza1go3sfFcf) | 2:49 | 2021-09-06 |  |
 | [Saints](https://open.spotify.com/track/4tJWqUFB913wrrYULeuv9X) | [Joseph Alphane](https://open.spotify.com/artist/65IJPn3wYi35Qpov4MXcFr) | [Saints](https://open.spotify.com/album/3YMNU9hsjDJXj9KhAoLbm2) | 3:06 | 2022-02-17 |  |
 | [Saman Aftur](https://open.spotify.com/track/3CSHq4I9SPxE2AmNsW4Riz) | [Elvar Arngrimsson](https://open.spotify.com/artist/5DChGYPOwgULNzFMzw0TIb) | [Unni](https://open.spotify.com/album/35Gv91ojzEtJl0iXz41X58) | 2:58 | 2021-09-06 |  |
@@ -226,8 +226,8 @@
 | [View from above](https://open.spotify.com/track/6g27Rgmh70pRtObHez98FU) | [Crosswood](https://open.spotify.com/artist/0f9ikBIWz9YiVZ3ut8sGYR) | [View from above](https://open.spotify.com/album/42r3FDP6ja38BMV15Y2a1F) | 2:19 | 2021-09-06 |  |
 | [Wait Until Spring](https://open.spotify.com/track/4FQ1Wm24y1jm4iKbrfRQfW) | [Dhyana Thomas](https://open.spotify.com/artist/2U2PV9orIaYatgMdTcB6eN) | [Wait Until Spring](https://open.spotify.com/album/6HrenLgTHjgBKCVzRkvEe7) | 3:09 | 2021-09-06 |  |
 | [Waiting](https://open.spotify.com/track/2l6cdCbfZ4l9LZMKjepbS2) | [Catherine Holm](https://open.spotify.com/artist/4L8nmO7kqdX1K9ydfCfbh7) | [Waiting](https://open.spotify.com/album/2DVdfvJAKnG2Xa5KPoWh2X) | 1:49 | 2021-09-06 |  |
-| [Walk with me](https://open.spotify.com/track/4NsbW7fe1W13OJ6Gxui1Mv) | [Times Are Changin'](https://open.spotify.com/artist/3rwP6QhyrzsIYFUeqy8HCK) | [Walk with me](https://open.spotify.com/album/09FhXMfmg2YIi01Z1QQQc3) | 2:28 | 2021-09-06 |  |
-| [Wandering](https://open.spotify.com/track/3DSmKmCgRH7vSmdZXBbH4P) | [Jars Of Bees](https://open.spotify.com/artist/3Ni9BAJnZMfBG74X6Osx9N) | [An Opening](https://open.spotify.com/album/5n0dpiHtn11yPUbyBQY5Ak) | 3:15 | 2021-09-06 |  |
+| [Walk with me](https://open.spotify.com/track/4NsbW7fe1W13OJ6Gxui1Mv) | [Times Are Changin'](https://open.spotify.com/artist/3rwP6QhyrzsIYFUeqy8HCK) | [Walk with me](https://open.spotify.com/album/09FhXMfmg2YIi01Z1QQQc3) | 0:29 | 2021-09-06 |  |
+| [Wandering](https://open.spotify.com/track/3DSmKmCgRH7vSmdZXBbH4P) | [Jars Of Bees](https://open.spotify.com/artist/3Ni9BAJnZMfBG74X6Osx9N) | [An Opening](https://open.spotify.com/album/5n0dpiHtn11yPUbyBQY5Ak) | 0:29 | 2021-09-06 |  |
 | [Water Lillies](https://open.spotify.com/track/1sVIrkPZob1Ul6aIqy8n8z) | [A Teardrop In The Lake](https://open.spotify.com/artist/0s4v0h7Hiez273tp6lDeL0) | [Water Lillies](https://open.spotify.com/album/1Ugt1z1iTwo8bAt9Y6gNmF) | 3:48 | 2021-09-06 |  |
 | [Way Home](https://open.spotify.com/track/3yPnVoPrPjPV7cTtfRB50o) | [Morning Flowers](https://open.spotify.com/artist/1DeMgRnkbGP7ESjYVVP8CA) | [Way Home](https://open.spotify.com/album/2JOXFsxulNevoTsBvMmeKS) | 2:28 | 2021-09-06 |  |
 | [We Are Forever](https://open.spotify.com/track/0u7ghYOO8OSamsX8yakIVw) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/2oL51NXTh3XyG4ZQBYo5qd) | 2:13 | 2021-09-06 |  |
@@ -236,7 +236,7 @@
 | [Wild Trails](https://open.spotify.com/track/2urxHALnoeVxG82o57q0ny) | [Epi\-Soothe](https://open.spotify.com/artist/3nbFHhWXhyhU1QACy18PlF) | [Wild Trails](https://open.spotify.com/album/3tMJzCDzTcRS8o6pImIE2c) | 3:38 | 2021-09-06 |  |
 | [Wilderness](https://open.spotify.com/track/0kU6RSgocGJrmKhJkRH9fi) | [Aura Dope](https://open.spotify.com/artist/06o1ocMKMo2ww6ku48oXtT) | [Wilderness](https://open.spotify.com/album/1uwABJHYXBf2orTMqPPfOJ) | 3:15 | 2021-09-06 |  |
 | [With Resolve](https://open.spotify.com/track/51c5Wbzs0fPu6mwpDn3bsQ) | [Jacob Yoffee](https://open.spotify.com/artist/0M28z4ZRPcGZPSXsJqc1lP) | [With Resolve](https://open.spotify.com/album/1dMrnL9I1tO7iSTSaYbYUQ) | 2:09 | 2021-09-06 |  |
-| [Within A Dream](https://open.spotify.com/track/3DBptL02EYie8QdPFMqyPo) | [Ambient Saga](https://open.spotify.com/artist/6jXJLmPCp6G9qpAK8XJZ81) | [White Blossoms](https://open.spotify.com/album/5cdqQpm9t9rMTtQ5tp3lWL) | 3:09 | 2021-09-06 |  |
+| [Within A Dream](https://open.spotify.com/track/3DBptL02EYie8QdPFMqyPo) | [Ambient Saga](https://open.spotify.com/artist/6jXJLmPCp6G9qpAK8XJZ81) | [White Blossoms](https://open.spotify.com/album/5cdqQpm9t9rMTtQ5tp3lWL) | 0:29 | 2021-09-06 |  |
 | [You \- Ambient Dream](https://open.spotify.com/track/1ylQubRj7mAtG5MumE0sLN) | [Blue Puppy](https://open.spotify.com/artist/55dD7s4frhh7qVFCvBaoBS) | [You](https://open.spotify.com/album/2F5NGDaK7SiGJd0h5CfvPa) | 3:36 | 2021-09-06 |  |
 | [You Belong Here](https://open.spotify.com/track/4hdiJKemt2xAjUpOj0WyHc) | [Across The Great Valley](https://open.spotify.com/artist/2P1TOog6e612HmJ9bugxav) | [And Then We Fell from the Sky](https://open.spotify.com/album/5aqwggCLFYvtEUmGu23nzT) | 3:37 | 2021-09-06 |  |
 | [Ängarna](https://open.spotify.com/track/13RPTSwWAEQ2XU7PgHj6YQ) | [Himlavalv](https://open.spotify.com/artist/4lFZjO0NQUgvQLC8G6J8uC) | [Ängarna](https://open.spotify.com/album/48qEJ2qLRnVcrd9b4unnAJ) | 3:05 | 2021-09-06 |  |

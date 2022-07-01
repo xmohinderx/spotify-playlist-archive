@@ -4,7 +4,7 @@
 
 > Samla dina vänner och ladda inför de Olypiska Spelen\. Nu kör vi!
 
-51 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/7dOGHDSnYW41LENV1324vm)
+51 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/7dOGHDSnYW41LENV1324vm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,10 +40,10 @@
 | [Olympic Fanfare \(Bugler's Dream\) \[feat\. Dominik Hauser\]](https://open.spotify.com/track/0zPtG7pgl3IQAuM9628TgK) | [Leo Arnaud](https://open.spotify.com/artist/4rLxLJBKOB4CCTURxvyfwc), [Dominik Hauser](https://open.spotify.com/artist/4MTfVjZzx72caVcbCjUK73) | [Olympic Fanfare \(Bugler's Dream\) \[feat\. Dominik Hauser\]](https://open.spotify.com/album/69b19w8Oqk7o5ToKbllfrD) | 0:47 | 2014-02-10 |  |
 | [Om vingarna bär](https://open.spotify.com/track/2jILuXTXfr8KNoakFDbV0x) | [Lilla Sällskapet](https://open.spotify.com/artist/4pT1efH3BganHTwIFzFLaG) | [Om vingarna bär](https://open.spotify.com/album/46YYSvTPkB6Vf4SgiFHWU2) | 3:31 | 2014-02-10 |  |
 | [On Top Of The World](https://open.spotify.com/track/4eLSCSELtKxZwXnFbNLXT5) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions \(Deluxe\)](https://open.spotify.com/album/1vAEF8F0HoRFGiYOEeJXHW) | 3:09 | 2014-02-06 |  |
-| [Safe and Sound](https://open.spotify.com/track/1fzJyTCKeZuTSLByCsLRHl) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [In A Tidal Wave Of Mystery](https://open.spotify.com/album/0oGhveAbsimFjFVF5aIkjW) | 3:12 | 2014-02-06 |  |
+| [Safe And Sound](https://open.spotify.com/track/1fzJyTCKeZuTSLByCsLRHl) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [In A Tidal Wave Of Mystery](https://open.spotify.com/album/0oGhveAbsimFjFVF5aIkjW) | 3:13 | 2014-02-06 |  |
 | [Scream & Shout](https://open.spotify.com/track/7n6ibfsRHhCb1Ccl9Fg2CZ) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Scream & Shout](https://open.spotify.com/album/0TbxqNfvk8z1ktpHik61cy) | 4:44 | 2014-02-06 |  |
 | [Seven Nation Army](https://open.spotify.com/track/3ctoHckjyd13eBi2IDw2Ip) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/0VXcqDD3sHdOIGtO6oYv3d) | 3:51 | 2014-02-06 |  |
-| [Shake Ya Tailfeather \(feat\. Nelly & Murphy Lee\)](https://open.spotify.com/track/6EtkH6EfTfNLjUHKDylEym) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Murphy Lee](https://open.spotify.com/artist/07W0YfsvHM7Mw7Bq48Mb0A), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Bad Boys II](https://open.spotify.com/album/4DXLSy0XusV4o9ZhDfY0Ow) | 4:53 | 2014-02-06 |  |
+| [Shake Ya Tailfeather \(feat\. Nelly & Murphy Lee\)](https://open.spotify.com/track/6EtkH6EfTfNLjUHKDylEym) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Murphy Lee](https://open.spotify.com/artist/07W0YfsvHM7Mw7Bq48Mb0A), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Bad Boys II](https://open.spotify.com/album/4DXLSy0XusV4o9ZhDfY0Ow) | 0:29 | 2014-02-06 |  |
 | [Song 2](https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 2:01 | 2014-02-06 |  |
 | [Stronger](https://open.spotify.com/track/2VysjemU93ac5oRg4MfYGp) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Stronger](https://open.spotify.com/album/5Q2ds2vF2R1uXFa95oBegx) | 5:12 | 2014-02-06 |  |
 | [Survivor](https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9) | 4:14 | 2014-02-06 |  |

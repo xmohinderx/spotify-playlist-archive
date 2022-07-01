@@ -4,13 +4,13 @@
 
 > Music in the award\-winning doc: The Black Power Mixtape 1967–1975.
 
-69 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/1QA2tc2Xo5I48etmel1cFu)
+69 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/1QA2tc2Xo5I48etmel1cFu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(If Loving You Is Wrong\) I Don't Want to Be Right](https://open.spotify.com/track/54K7o2yNOMZYCtEDnfD6wI) | [Luther Ingram](https://open.spotify.com/artist/5Pek6HAr0BoHD9P1RuA7d5) | [\(If Loving You Is Wrong\) I Don't Want to Be Right](https://open.spotify.com/album/3hiwk4q34fJTUJsAzrlNMD) | 3:36 | 2021-04-29 |  |
 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/50uGbeaQIxKiSc7jvRTjWx) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Atlantic 60th: Soul, Sweat And Strut](https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD) | 2:46 | 2021-04-29 |  |
-| [A Song for You](https://open.spotify.com/track/5spAjqC772iC2KzDvEkmSr) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Donny Hathaway](https://open.spotify.com/album/4yzozr59813IAXnxhWUl7i) | 5:25 | 2021-04-29 |  |
+| [A Song for You](https://open.spotify.com/track/5spAjqC772iC2KzDvEkmSr) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Donny Hathaway](https://open.spotify.com/album/4yzozr59813IAXnxhWUl7i) | 0:29 | 2021-04-29 |  |
 | [Ain't No Love In The Heart Of The City \- Single Version](https://open.spotify.com/track/14rTFBs1cCkOBp5JPUrJhw) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [Music For Groovin'](https://open.spotify.com/album/2kGXFgIy6EBmYZRrQjTtON) | 3:45 | 2021-04-29 |  |
 | [Ain't No Sunshine](https://open.spotify.com/track/7u8LNgkrmUXGT6JEwiy8Ia) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [The Best Of Bill Withers: Lean On Me](https://open.spotify.com/album/7t5voPAepq85BXJ2lFE79e) | 2:03 | 2021-04-29 |  |
 | [Be Thankful for What You Got \(Pt\. 1 & Pt\. 2\)](https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O) | [William DeVaughn](https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU) | [Be Thankful for What You Got](https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z) | 7:09 | 2021-04-29 |  |
@@ -52,7 +52,7 @@
 | [Oh, No Not My Baby](https://open.spotify.com/track/0UaDKKReLUGqJVNUIemaPk) | [Maxine Brown](https://open.spotify.com/artist/1kCqTUSrWJEHZm2GSpRuMV) | [The Very Best Of Maxine Brown](https://open.spotify.com/album/64qNZpi71sBTDe2F23IlOn) | 2:37 | 2021-04-29 |  |
 | [On Broadway](https://open.spotify.com/track/6uXhOcodsFEqQeHRkLgNp2) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [30 Greatest Hits](https://open.spotify.com/album/5urQ0YtsUuvtVyALtGpjDs) | 2:50 | 2021-04-29 |  |
 | [One of a Kind \(Love Affair\)](https://open.spotify.com/track/0s5lu82Sx3aymTuGdCoQK5) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [The Platinum Collection](https://open.spotify.com/album/1zTfR7F2hKmdTkv3pZ7LkO) | 3:34 | 2021-04-29 |  |
-| [People Get Ready](https://open.spotify.com/track/7mJIrjmjWH37U9MG2U4oZC) | [The Impressions](https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO) | [The Best Of The Impressions Featuring Curtis Mayfield](https://open.spotify.com/album/5na5qMbh58m7zr9vccvxWg) | 2:38 | 2021-04-29 |  |
+| [People Get Ready](https://open.spotify.com/track/7mJIrjmjWH37U9MG2U4oZC) | [The Impressions](https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO) | [The Best Of The Impressions Featuring Curtis Mayfield](https://open.spotify.com/album/5na5qMbh58m7zr9vccvxWg) | 0:29 | 2021-04-29 |  |
 | [Piece of My Heart](https://open.spotify.com/track/2GbePPrWWSRxcmW6QRSPae) | [Erma Franklin](https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG) | [Erma Franklin: Piece Of Her Heart \- The Epic And Shout Years](https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW) | 2:37 | 2021-04-29 |  |
 | [Rainy Night in Georgia](https://open.spotify.com/track/1mRmNpeDpEbPXQluq7hmTe) | [Brook Benton](https://open.spotify.com/artist/2ttm3uT0N1RN7vwKv1pQgh) | [The Platinum Collection](https://open.spotify.com/album/4TJpIhnTQkgVewMDkeBm8v) | 3:48 | 2021-04-29 |  |
 | [River Deep, Mountain High](https://open.spotify.com/track/3wMqRnny1MIRLuv3tjUJO6) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Proud Mary: The Best Of Ike & Tina Turner](https://open.spotify.com/album/2UCdfQEDgzWtbzpaD4Mo47) | 3:27 | 2021-04-29 |  |

@@ -4,7 +4,7 @@
 
 > The freshest tech house, bass house and four on the floor records, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-207 songs - 11 hr 53 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
+207 songs - 11 hr 50 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Talk](https://open.spotify.com/track/33Med8PJ0UgsZHxNKUnTyX) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a) | [Talk](https://open.spotify.com/album/4RZ1LiHXufjZWKgZzy4yBU) | 3:10 | 2022-06-10 | 2022-06-18 |
 | [Talkin' Drums](https://open.spotify.com/track/5qJm4xvRCOQ1zedunDnndW) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX), [Touré Kunda](https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f) | [Talkin' Drums](https://open.spotify.com/album/5k6TCxCvcSpWdBpEoXBa2W) | 3:00 | 2022-06-24 |  |
 | [The French Connection](https://open.spotify.com/track/64ndTu0LZeAGL5ew5dGm8N) | [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp) | [Conmigo EP](https://open.spotify.com/album/0egVq1wFyokM7vOey2nqBn) | 4:17 | 2022-05-29 | 2022-06-04 |
-| [The Rhythm](https://open.spotify.com/track/6Cx33NW52i3IjTilbqaIR5) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [The Rhythm](https://open.spotify.com/album/5l92sWpRLi1fkgxPKg3JL6) | 3:09 | 2022-03-04 |  |
+| [The Rhythm](https://open.spotify.com/track/6Cx33NW52i3IjTilbqaIR5) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [The Rhythm](https://open.spotify.com/album/5l92sWpRLi1fkgxPKg3JL6) | 0:29 | 2022-03-04 |  |
 | [The Time](https://open.spotify.com/track/2LqBjRmluGXNEvIDhjeYuL) | [Bexxie](https://open.spotify.com/artist/3lwq28uuT7bAqQ3shl4d9Q) | [The Time](https://open.spotify.com/album/40FWmy0VN6U7yzDS4u79YI) | 3:25 | 2022-06-03 | 2022-06-11 |
 | [Thirsty](https://open.spotify.com/track/5DHsL4yHUHYkDDoH24EYn0) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Thirsty](https://open.spotify.com/album/1UnYESxzF7BYmFWDDFE2s8) | 3:52 | 2022-05-13 | 2022-05-30 |
 | [This Beat](https://open.spotify.com/track/4onagusNvGUXp4OWSs13OM) | [Danny Howard](https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK), [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [This Beat EP](https://open.spotify.com/album/4SrNCRDDdBrzXI5ggewHcJ) | 2:56 | 2022-06-03 | 2022-06-11 |

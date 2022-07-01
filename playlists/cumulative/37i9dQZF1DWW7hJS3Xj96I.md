@@ -4,7 +4,7 @@
 
 > ¡Baila con los mejores éxitos de los 90!
 
-59 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/0nxZjq1X0FlGlwMkxj3U2K)
+59 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/0nxZjq1X0FlGlwMkxj3U2K)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Bella Señora](https://open.spotify.com/track/7vyfkPROxVBZQOJtufdIIJ) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [20 Exitos Originales](https://open.spotify.com/album/7GJk5uyd0Fk8ekmz9v3ywI) | 4:41 | 2021-12-09 |  |
 | [Boom, Boom, Boom, Boom!!](https://open.spotify.com/track/65OXGbKBQ8gUyJvUd0jNpf) | [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj) | [Greatest Hits!](https://open.spotify.com/album/5t02mTYT9ks9sOC1ihea4a) | 3:22 | 2022-04-07 | 2022-04-21 |
 | [Ciega, Sordomuda](https://open.spotify.com/track/6k3zulJgmJjVHmUn0DiAIN) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/6WLmBbgb0rhWAAqgLS82hC) | 4:28 | 2021-12-09 |  |
-| [Clavado En Un Bar](https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Sueños Líquidos](https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V) | 5:10 | 2021-12-09 |  |
+| [Clavado En Un Bar](https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Sueños Líquidos](https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V) | 0:29 | 2021-12-09 |  |
 | [Coco Jamboo \- Radio Version](https://open.spotify.com/track/6rQ9qJPvInEqSzlh89LsPJ) | [Mr\. President](https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp) | [We See The Same Sun](https://open.spotify.com/album/2t8Bc4qBseswbwOoHGHK8d) | 3:38 | 2021-12-09 |  |
 | [Como Un Trueno](https://open.spotify.com/track/6HCUC1WENuTneci2DskHwR) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [Hits](https://open.spotify.com/album/0X0BfLqYvgp8SHUlRPoWts) | 4:06 | 2021-12-09 |  |
 | [Con los Ojos Cerrados](https://open.spotify.com/track/2wtGwtUIBtL8ZdJN91PePX) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Ellas Cantan Asi](https://open.spotify.com/album/2EpJrEzShLtmq7mfnzIwmA) | 3:30 | 2021-12-09 |  |
@@ -25,7 +25,7 @@
 | [Enloquéceme](https://open.spotify.com/track/0tZARbD3Ir3eY7nbFULwfS) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [Lo Mejor De OV7](https://open.spotify.com/album/3YEri67vvZWR0WJxbda8D0) | 4:09 | 2021-12-09 |  |
 | [Esta Despierto](https://open.spotify.com/track/4citfFToFJTt07jfnjt3kc) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [16 Éxitos De Oro](https://open.spotify.com/album/1lEihZ55GyR12shpapuL22) | 3:25 | 2021-12-09 |  |
 | [Everybody \(Backstreet's Back\) \- Extended Version](https://open.spotify.com/track/5WTxbyWTpoqhdxEN2szOnl) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 4:47 | 2021-12-09 |  |
-| [Explota Corazón](https://open.spotify.com/track/2fRynroc69YxU3c4w9RCPI) | [Mercurio](https://open.spotify.com/artist/5A3jmdFMr6pd76VS5sblRV) | [Chicas Chic](https://open.spotify.com/album/3ohvS7kECZaPGdK2D6XJ2S) | 3:39 | 2021-12-09 |  |
+| [Explota Corazón](https://open.spotify.com/track/2fRynroc69YxU3c4w9RCPI) | [Mercurio](https://open.spotify.com/artist/5A3jmdFMr6pd76VS5sblRV) | [Chicas Chic](https://open.spotify.com/album/3ohvS7kECZaPGdK2D6XJ2S) | 0:29 | 2021-12-09 |  |
 | [Formas De Amor](https://open.spotify.com/track/5MfHBAD6xKLwRygDd2pHbP) | [Calo](https://open.spotify.com/artist/2Qm12OdHFDHSpWhBMpO16L) | [Sin Miedo](https://open.spotify.com/album/39t2XXSG5vyjBq8fyA6kA3) | 4:01 | 2021-12-09 |  |
 | [Get Busy](https://open.spotify.com/track/5qTvkDrSfvwDv6RBjjcfQr) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock](https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as) | 3:31 | 2022-04-07 | 2022-04-21 |
 | [Gracias A Dios](https://open.spotify.com/track/3m8qGT5waagsTxTeSYs2Tc) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [En Extasis](https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp) | 4:02 | 2021-12-09 |  |

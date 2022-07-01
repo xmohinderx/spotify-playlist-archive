@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Drake 🦉
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,288 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,360 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 26 | [My Life](https://open.spotify.com/track/03OovG00VLioAURPLfNMz7) | [Casper TNG](https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6) | [My Life](https://open.spotify.com/album/0LJvmoxuvd44oqlFhB6TTS) | 2:16 |
 | 27 | [Glory](https://open.spotify.com/track/4COycddAqITG8mAFCajiSH) | [Tona](https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN), [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA) | [Glory](https://open.spotify.com/album/3qZZ32xbFZ29Oo1I5X8sUk) | 2:35 |
 | 28 | [Do Not Disturb ft\. NAV and Yung Bleu](https://open.spotify.com/track/2pY5ZVUFscLWhOonrR4knh) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [BLEU](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Do Not Disturb ft\. NAV and Yung Bleu](https://open.spotify.com/album/3ZJ5yTJlmFFYVIs2dvFszS) | 3:27 |
-| 29 | [Trophy](https://open.spotify.com/track/5i4FyAHlC4X1DA7KVDqDUW) | [3MFrench](https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x) | [French Connections](https://open.spotify.com/album/2QrljTEOdMpOvV0BGihyHc) | 3:10 |
+| 29 | [Trophy](https://open.spotify.com/track/5i4FyAHlC4X1DA7KVDqDUW) | [3MFrench](https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x) | [French Connections](https://open.spotify.com/album/2QrljTEOdMpOvV0BGihyHc) | 0:29 |
 | 30 | [MY HEART](https://open.spotify.com/track/2mfQZ8BfqSMy56vuURdr4J) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [MY HEART](https://open.spotify.com/album/03qaepLdPmVdfnAe6wgzGH) | 2:43 |
 | 31 | [Take A Trip](https://open.spotify.com/track/0C5XDxZ4ko10KK8syW6gG2) | [Da Crook](https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g) | [Take A Trip](https://open.spotify.com/album/0vaCHXXAHJ4dehOrHhbR3i) | 3:14 |
 | 32 | [Tout c'que j'connais](https://open.spotify.com/track/6ysi2zSXcx4WjU2gX6Cmcr) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Tout c'que j'connais](https://open.spotify.com/album/5atVuDm8WzCguB6Itn4IyD) | 3:17 |

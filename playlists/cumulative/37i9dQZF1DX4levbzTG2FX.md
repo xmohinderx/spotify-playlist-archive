@@ -4,7 +4,7 @@
 
 > In partnership with CCLI, here are the top songs in church in the USA\. Updated monthly.
 
-50 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/3RGM2UbQTofUFdk6Q5QrCH)
+50 songs - 4 hr 6 min - [published](https://open.spotify.com/playlist/3RGM2UbQTofUFdk6Q5QrCH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Great Things](https://open.spotify.com/track/0jceXOZ2D9ZSzsfl3CKlxg) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 4:50 | 2020-04-17 |  |
 | [Here I Am To Worship \- Live](https://open.spotify.com/track/18Bgya13bGqmHGLRdyaBdu) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [Ultimate Worship: Hillsong \(Live\)](https://open.spotify.com/album/1s6FttxkLZGqWKRllRkOsL) | 3:40 | 2020-04-17 |  |
 | [Holy Spirit](https://open.spotify.com/track/0VqMBJyeeRA4I6mSPO5uqZ) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [If We're Honest \(Deluxe Version\)](https://open.spotify.com/album/5ZEGGjJdlQdDNhLKYucTJw) | 5:02 | 2020-04-17 |  |
-| [Hosanna \(Praise Is Rising\)](https://open.spotify.com/track/0UL9awCNZORZpqGzinoBO2) | [Paul Baloche](https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr) | [Hosanna \(Praise Is Rising\) \[Audio Performance Trax\]](https://open.spotify.com/album/2iD7pYO9PlOG0OIbc5PqJm) | 5:16 | 2020-04-17 |  |
+| [Hosanna \(Praise Is Rising\)](https://open.spotify.com/track/0UL9awCNZORZpqGzinoBO2) | [Paul Baloche](https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr) | [Hosanna \(Praise Is Rising\) \[Audio Performance Trax\]](https://open.spotify.com/album/2iD7pYO9PlOG0OIbc5PqJm) | 0:29 | 2020-04-17 |  |
 | [How Deep The Father's Love For Us](https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [You Deliver Me](https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk) | 3:24 | 2020-04-17 |  |
 | [How Great Is Our God](https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 5:05 | 2020-04-17 |  |
 | [How Great Thou Art](https://open.spotify.com/track/2YtsgFOv3e2oAPvGg5iLBb) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [Peace Like A River: The Hymns Project](https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE) | 4:53 | 2020-04-17 |  |

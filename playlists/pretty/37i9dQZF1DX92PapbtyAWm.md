@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92PapbtyAWm.md) - [plain]
 
 > <a href ="spotify:artist:1vo8zHmO1KzkuU9Xxh6J7W">MOTi</a> shares his favourite bangers in his DJ mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,770 likes - 19 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,776 likes - 19 songs - 57 min 54 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92PapbtyAWm.md) - [plain]
 | 9 | [Tell Them \- Mixed](https://open.spotify.com/track/0y4O94rykW2OnOEyOSZa1j) | [NO\-ONE](https://open.spotify.com/artist/6bfKI8jo0dwBlBDKxA3uO0) | [Tell Them](https://open.spotify.com/album/7En88hzQZ2QHf0VRB7Jwfe) | 2:42 |
 | 10 | [Don't Stop \- Mixed](https://open.spotify.com/track/6gMAbPf1LnRUXyzVzqtKHn) | [Roman Hayez](https://open.spotify.com/artist/1nBzOjoECrRLTwf8abQjWO) | [Don't Stop](https://open.spotify.com/album/73G5GBvh57hYLVY99P9mam) | 2:10 |
 | 11 | [WORK 365 \- Dub Mix \- Mixed](https://open.spotify.com/track/4q8yq2rlJEEeCKuqZvlgbG) | [Groovenatics](https://open.spotify.com/artist/0eLYiajeLRGa4MYyF2y0rW), [L4TCH](https://open.spotify.com/artist/07gXEJZYZSWeYOkQGepW3u), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [WORK 365 \- Dub Mix](https://open.spotify.com/album/6hkJnCJqIZk68GhXp4o83M) | 3:48 |
-| 12 | [Keep Me \- Mixed](https://open.spotify.com/track/1u8GyMJ6np9wb5QDm8MlaW) | [H4LL](https://open.spotify.com/artist/0UoU8WgQtWblyOaZRoKvuY) | [Keep Me](https://open.spotify.com/album/1B6KmjfepHjwW3ZyTum7XR) | 3:24 |
+| 12 | [Keep Me \- Mixed](https://open.spotify.com/track/1u8GyMJ6np9wb5QDm8MlaW) | [H4LL](https://open.spotify.com/artist/0UoU8WgQtWblyOaZRoKvuY) | [Keep Me](https://open.spotify.com/album/1B6KmjfepHjwW3ZyTum7XR) | 0:29 |
 | 13 | [Ringtone \- Mixed](https://open.spotify.com/track/00K3gkLKPddSOMGOY190B2) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Ellipso](https://open.spotify.com/artist/6SSzF90X1iI3jZbaiQMaWs), [Wilhelmina](https://open.spotify.com/artist/2ZCcqreFw4auSkxe2wsnbG) | [Ringtone](https://open.spotify.com/album/6E06FMjHCMgfqjcQONLPz7) | 2:18 |
 | 14 | [All The Love You Got \- Mixed](https://open.spotify.com/track/4mTmFj7Dec5NI982CXpTq3) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [All The Love You Got](https://open.spotify.com/album/4shtdOzr6YNudMI1E2tP0L) | 2:46 |
 | 15 | [Without You \- Mixed](https://open.spotify.com/track/4ShBH7y1amds01CrxVjE9Y) | [Going Deeper](https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4), [Noah Ayrton](https://open.spotify.com/artist/45FoPQpXKFUdOvRgSovEl6) | [Without You](https://open.spotify.com/album/4IbeTKpNpbIaeTLGDbUyK5) | 2:50 |

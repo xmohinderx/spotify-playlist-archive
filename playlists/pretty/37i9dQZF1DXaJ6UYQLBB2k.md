@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJ6UYQLBB2k.md) - [plain]
 
 > Re\-live the glory of Ambient from the 1990s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,117 likes - 70 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,179 likes - 70 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJ6UYQLBB2k.md) - [plain]
 | 10 | [\#20](https://open.spotify.com/track/5IExVHUiRccCWyJ4imu9qD) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 4:15 |
 | 11 | [Love Theme from Twin Peaks \- Instrumental](https://open.spotify.com/track/6WSB31O8sxrhly3HNfOEzF) | [Angelo Badalamenti](https://open.spotify.com/artist/3Eeb1U0VJTDaFpBHV4DmHl) | [Soundtrack From Twin Peaks](https://open.spotify.com/album/6iGX2bbzKEocRY0HzdQ9zX) | 5:04 |
 | 12 | [Poa Alpina](https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 4:11 |
-| 13 | [Blooded and Blossom\-blown](https://open.spotify.com/track/15x9WXAz8YHrGfibgsirdN) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [xuvetyn](https://open.spotify.com/album/2LkJyutWxt9P2DKs24kzS0) | 6:07 |
+| 13 | [Blooded and Blossom\-blown](https://open.spotify.com/track/15x9WXAz8YHrGfibgsirdN) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [xuvetyn](https://open.spotify.com/album/2LkJyutWxt9P2DKs24kzS0) | 0:29 |
 | 14 | [Saguaro](https://open.spotify.com/track/6k9epHaioQVz1PHdgCu3Oj) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a), [Suspended Memories](https://open.spotify.com/artist/7pvTCKClynPrI7oNjbeCw6), [Jorge Reyes](https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV), [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Forgotten Gods](https://open.spotify.com/album/5zHP5vjdv8V7bUYKW7w9zW) | 5:23 |
 | 15 | [12:18](https://open.spotify.com/track/4GgIxF4YtxQl8Dj9MJIjOA) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/4y0wXNP3t9rUv1y58Peuj1) | 12:17 |
 | 16 | [Saku](https://open.spotify.com/track/78WANNBMEK80nVGTWFGXyg) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 5:45 |

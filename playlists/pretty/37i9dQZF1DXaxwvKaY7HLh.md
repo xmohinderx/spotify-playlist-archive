@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwvKaY7HLh.md) - [plain]
 
 > Esta selección musical se te hará agua la boca.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,184 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,185 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwvKaY7HLh.md) - [plain]
 | 53 | [Un Minuto De Tu Voz](https://open.spotify.com/track/1nJJCb9v2hTzfodVlnpps7) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Un Minuto De Tu Voz](https://open.spotify.com/album/6pd64FRFIRc630h5IoJdKq) | 3:24 |
 | 54 | [Hola](https://open.spotify.com/track/44AObNRHjsG6s9MeGVjJrM) | [Velo Vela](https://open.spotify.com/artist/6cu1BLrPH1CkWeouSim02K) | [Hola](https://open.spotify.com/album/0m6Zw2QEW2T1urAiv6yUeR) | 3:34 |
 | 55 | [Lo Hice, Te Dejé](https://open.spotify.com/track/5HT7sdhkOCFVegIoMOL7yj) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Lo Hice, Te Dejé](https://open.spotify.com/album/6iH2QdPCGdGbq1qEXgI8KN) | 3:06 |
-| 56 | [Las Águilas](https://open.spotify.com/track/4LNsqgWGv3rXkOhzsBbe1v) | [Cecy Leos](https://open.spotify.com/artist/7Isargq7sZZ8hTbIx9yNsi) | [Las Águilas](https://open.spotify.com/album/363ShldiEBqfCFS9IKiJ12) | 3:02 |
+| 56 | [Las Águilas](https://open.spotify.com/track/4LNsqgWGv3rXkOhzsBbe1v) | [Cecy Leos](https://open.spotify.com/artist/7Isargq7sZZ8hTbIx9yNsi) | [Las Águilas](https://open.spotify.com/album/363ShldiEBqfCFS9IKiJ12) | 0:29 |
 | 57 | [Juro Feat\. Los Rumberos \(Cap\. 3\)](https://open.spotify.com/track/3VDRMczhOxenDb7GPYKy7i) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Juliana](https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x) | 4:08 |
 | 58 | [Desaparecer](https://open.spotify.com/track/7lohGFkjyABsdhSLtp2RLU) | [Julie Doppler](https://open.spotify.com/artist/1ObyJAavS8BEXfpz6tX8gQ) | [Desaparecer](https://open.spotify.com/album/5MwAwBvy9zmALI8vGghNcc) | 3:14 |
 | 59 | [La Ola](https://open.spotify.com/track/2xi5RFdO9KqA5RFK8TDKGp) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [La Ola](https://open.spotify.com/album/7w1110HqfVqgHYXKHdfb4v) | 3:23 |

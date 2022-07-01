@@ -4,7 +4,7 @@
 
 > Minimalism, electronica and modern classical to concentrate to.
 
-90 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/16XV8sBUmIP0qhqGG0aA1n)
+90 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/16XV8sBUmIP0qhqGG0aA1n)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Far Away](https://open.spotify.com/track/0QijsaMELH5n5T012X6LYb) | [Dorothy Laddland](https://open.spotify.com/artist/4faFJj7Vro57tVaN6Q8p3I) | [Far Away](https://open.spotify.com/album/6CIVgXy2Ovk4leXt0tH24S) | 2:19 | 2021-06-27 |  |
 | [Footprints](https://open.spotify.com/track/6IGo9GEMwAUHmdMZeWHu45) | [Maree Docia](https://open.spotify.com/artist/2UjQMEOzrwt2v4L3dNrcqe) | [We Were Legends](https://open.spotify.com/album/0Rv82yRFV9inly8ChKaO72) | 2:18 | 2021-06-27 |  |
 | [Her Joy Was Complete](https://open.spotify.com/track/7tUQIhueKYGnKThIseP69M) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Many Beautiful Things \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02gOHdj3c67CUwXb4s9jzy) | 3:02 | 2021-06-27 |  |
-| [Intervention](https://open.spotify.com/track/5w8M2WZDLoFwycrmB3QfBm) | [Gabriel Parker](https://open.spotify.com/artist/4mo8fqMn19RX8Ekf2yz0t4) | [Fractions](https://open.spotify.com/album/5ZVtZ3m4nZBoc0R2paTrKc) | 2:19 | 2021-06-27 |  |
+| [Intervention](https://open.spotify.com/track/5w8M2WZDLoFwycrmB3QfBm) | [Gabriel Parker](https://open.spotify.com/artist/4mo8fqMn19RX8Ekf2yz0t4) | [Fractions](https://open.spotify.com/album/5ZVtZ3m4nZBoc0R2paTrKc) | 0:29 | 2021-06-27 |  |
 | [Julia \(Gatwick Airport\)](https://open.spotify.com/track/5JgV5PLrfGUOE0fEhR6wiW) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life Piano EP \(April 14 \- December 17 2020\)](https://open.spotify.com/album/77cR5kSztr2fcYtr0vsyes) | 2:59 | 2021-06-27 |  |
 | [July Nights](https://open.spotify.com/track/0z5lgOqdWID9iAH5fxITk5) | [Eagle Lake](https://open.spotify.com/artist/4vOO570FcsEOodJuMh98EP) | [Nights](https://open.spotify.com/album/6aFOBMvSiEbkGTPCUAYwmw) | 1:35 | 2021-06-27 |  |
 | [Kyle \(Northern Line\)](https://open.spotify.com/track/2rHefyfbrhfXVaquedNvnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life Piano EP \(April 14 \- December 17 2020\)](https://open.spotify.com/album/77cR5kSztr2fcYtr0vsyes) | 2:44 | 2021-06-27 |  |
@@ -64,7 +64,7 @@
 | [Lost](https://open.spotify.com/track/1zBxAPqR7cAZyRo2XBQFrU) | [Shadow Sirens](https://open.spotify.com/artist/4YSBO6rsLGDqogalXAYJFA) | [Lost](https://open.spotify.com/album/7xHVlsqzstKTkgVrbpgMPH) | 3:27 | 2021-06-27 |  |
 | [Magnetic](https://open.spotify.com/track/3FBk3DcCOC5gkhX50rbHbC) | [Strange Imagining](https://open.spotify.com/artist/5mTkTPh9MmJpwEUNV1QuYF) | [Magnetic](https://open.spotify.com/album/4bUJ9aa2YiQsvFBLLpj3KQ) | 2:52 | 2021-06-27 |  |
 | [Mont Blanc](https://open.spotify.com/track/7v9FUpTcXP57BJTvC7r8GO) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Piano Sessions: Vol 1](https://open.spotify.com/album/7vVkhgIpT4dUOH0eTviZow) | 2:12 | 2021-06-27 |  |
-| [Next](https://open.spotify.com/track/3YNbisxUYGwvlqlGYoa0fo) | [Emily Rubye](https://open.spotify.com/artist/1ra1CeoAhMOYZunkNRDvwp) | [Finding Rain](https://open.spotify.com/album/6FSHR1O0FVsANtmPMWINB8) | 2:08 | 2021-06-27 |  |
+| [Next](https://open.spotify.com/track/3YNbisxUYGwvlqlGYoa0fo) | [Emily Rubye](https://open.spotify.com/artist/1ra1CeoAhMOYZunkNRDvwp) | [Finding Rain](https://open.spotify.com/album/6FSHR1O0FVsANtmPMWINB8) | 0:29 | 2021-06-27 |  |
 | [Night Dive](https://open.spotify.com/track/11WOlDMShdSUaqgWY7g0aZ) | [Aro Aro](https://open.spotify.com/artist/3vu7Ij17FpvXQcwn3HlYci) | [Night Dive](https://open.spotify.com/album/1UD8U6n2uHCU823C7JoAxr) | 3:00 | 2021-06-27 |  |
 | [Now](https://open.spotify.com/track/2jFfDGcVzMONceohrF4Jre) | [Dilia](https://open.spotify.com/artist/5uqiYjT81VEQvHDYpIlM7Z) | [The Giant](https://open.spotify.com/album/2LOc5ZVVbA75nq1LKK6HfU) | 3:02 | 2021-06-27 |  |
 | [Nucleus](https://open.spotify.com/track/10VDlhdsvk4DH3jdbGKhwJ) | [Ivy Rue](https://open.spotify.com/artist/48wkAWDOLtRePHhfZA2TTH) | [Mandala](https://open.spotify.com/album/2msxQYAcX6bsWYnXbpGEm5) | 2:48 | 2021-06-27 |  |

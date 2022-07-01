@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11ghcIxjcjE.md) - [plain]
 
 > Grunge will live forever\. Cover: Kurt Cobain
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,257,813 likes - 60 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,258,597 likes - 60 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11ghcIxjcjE.md) - [plain]
 | 31 | [I Don't Know Anything](https://open.spotify.com/track/5DRUgJmwLvCHQjiFzb4LSQ) | [Mad Season](https://open.spotify.com/artist/0T7JQxpy1Li93vLNirbv0Z) | [Above \(Deluxe Edition\)](https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn) | 5:00 |
 | 32 | [Alone + Easy Target](https://open.spotify.com/track/5XUpAb2zC8G404RPkwb09H) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Foo Fighters](https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY) | 4:05 |
 | 33 | [Sex Type Thing](https://open.spotify.com/track/2nWjhmRImt6LScZIPQMBnM) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Core](https://open.spotify.com/album/7k1YOwYf369EX0aHeXApWp) | 3:38 |
-| 34 | [Possum Kingdom](https://open.spotify.com/track/7geL2YhrXDr9tFjoNJMaSZ) | [Toadies](https://open.spotify.com/artist/2QMMktUMtwMSwUZATX1cRO) | [Heretics](https://open.spotify.com/album/6iLnTLBRtx064EEer404cr) | 5:54 |
+| 34 | [Possum Kingdom](https://open.spotify.com/track/7geL2YhrXDr9tFjoNJMaSZ) | [Toadies](https://open.spotify.com/artist/2QMMktUMtwMSwUZATX1cRO) | [Heretics](https://open.spotify.com/album/6iLnTLBRtx064EEer404cr) | 0:29 |
 | 35 | [Violet](https://open.spotify.com/track/6CHENx8iqzMwavTIz8s0gm) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Live Through This](https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7) | 3:24 |
 | 36 | [Plowed](https://open.spotify.com/track/3vaONhSGEscyYeYoGpMLW4) | [Sponge](https://open.spotify.com/artist/2JXDwIo5HsiwTcTPQytrZ8) | [Rotting Pinata](https://open.spotify.com/album/1V76gZ6Ln4ubw7aiok7Qoa) | 3:17 |
 | 37 | [Nearly Lost You](https://open.spotify.com/track/4EiLHuUSKTlaGmdR17J2tc) | [Screaming Trees](https://open.spotify.com/artist/3Ukr3Ufjg8ygRJv7Ww887f) | [Singles \- Original Motion Picture Soundtrack](https://open.spotify.com/album/58BEJ01sL8wK5LV3TPyngC) | 4:06 |

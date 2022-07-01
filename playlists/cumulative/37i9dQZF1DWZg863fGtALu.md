@@ -4,7 +4,7 @@
 
 > Summer memories from yesteryear!
 
-80 songs - 4 hr 44 min - [published](https://open.spotify.com/playlist/7bza4DZB9dW08P4zWu1Br4)
+80 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/7bza4DZB9dW08P4zWu1Br4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [This Girl \(Kungs Vs\. Cookin' On 3 Burners\)](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Layers](https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB) | 3:15 | 2021-05-16 |  |
 | [Thong Song](https://open.spotify.com/track/60e1nB8fP9h4Yw44sIfeQx) | [Sisqo](https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg) | [Unleash The Dragon](https://open.spotify.com/album/6WTTIoyBv6hUNYNnGsmRbJ) | 4:13 | 2021-05-16 |  |
 | [Treasure](https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 2:58 | 2021-05-16 |  |
-| [Turn Around](https://open.spotify.com/track/1wvl4RRQSxLD6sMIGvYLsX) | [Phats & Small](https://open.spotify.com/artist/4WLGcWrkSExCqILxDk7ol6) | [Sommar & Sol \(De Största Sommarhitsen!\)](https://open.spotify.com/album/3MjfS5klOL2zXZhcgHNvWz) | 3:30 | 2021-05-16 |  |
+| [Turn Around](https://open.spotify.com/track/1wvl4RRQSxLD6sMIGvYLsX) | [Phats & Small](https://open.spotify.com/artist/4WLGcWrkSExCqILxDk7ol6) | [Sommar & Sol \(De Största Sommarhitsen!\)](https://open.spotify.com/album/3MjfS5klOL2zXZhcgHNvWz) | 0:29 | 2021-05-16 |  |
 | [Turn Me On](https://open.spotify.com/track/0RmXtDH1cBMGImRrmn5xL6) | [Kevin Lyttle](https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba) | [Turn Me On \(Online Music\)](https://open.spotify.com/album/4SxJ71noA4wcd03JfJVkKT) | 3:12 | 2021-05-16 |  |
 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 | 2021-05-16 |  |
 | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:29 | 2021-05-16 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRkwbkfuyXo.md) - [plain]
 
 > Los corridos más alterados y arremangados\. Régulo Caro en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,737 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,863 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRkwbkfuyXo.md) - [plain]
 | 55 | [El Muletas \(En Vivo\)](https://open.spotify.com/track/24S2rcxfPv2hWwILSBMF3x) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 2:49 |
 | 56 | [Gente VIP](https://open.spotify.com/track/3m0jPrfDlp38tu7JYdWLch) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [Larryvolución](https://open.spotify.com/album/7aYPL5tuEAz3G5hUUB1LND) | 2:54 |
 | 57 | [Recordando A Michoacan](https://open.spotify.com/track/2VfISIEkDi9nORYxLpB9FF) | [Los Buitres](https://open.spotify.com/artist/6652LtwYxWQCzFBvvBkTF9) | [Movimiento Alterado Vol\. 4](https://open.spotify.com/album/1ZzrY7hbIiDQlV5i5uqJJt) | 2:32 |
-| 58 | [Pa'l Terre](https://open.spotify.com/track/1nRMRdloHa9MU0jRjaGE6r) | [Los Amos De Nuevo Leon](https://open.spotify.com/artist/2PpOrMC4P8PG2yi0S3ft0l) | [Pa'l Terre 2013](https://open.spotify.com/album/1RcwAfjNajuXYVGmreDjIS) | 2:43 |
+| 58 | [Pa'l Terre](https://open.spotify.com/track/1nRMRdloHa9MU0jRjaGE6r) | [Los Amos De Nuevo Leon](https://open.spotify.com/artist/2PpOrMC4P8PG2yi0S3ft0l) | [Pa'l Terre 2013](https://open.spotify.com/album/1RcwAfjNajuXYVGmreDjIS) | 0:29 |
 | 59 | [Alacrana Lavada](https://open.spotify.com/track/4WxVEef5lYtPZLocEDAkMc) | [El Compa Chuy](https://open.spotify.com/artist/513OnOSWOhVTh12V1eEJtt) | [Alacrana Lavada](https://open.spotify.com/album/45XsUfnTe5wTuBAU7KwuUx) | 3:16 |
 | 60 | [Los Tres Mandos](https://open.spotify.com/track/7IfHTGvNUHtHTUwkAiMH7U) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Con El Pie Derecho](https://open.spotify.com/album/2NbOX5gh04sYOs9w6dfM3y) | 2:30 |
 | 61 | [Desmadre en el Bano](https://open.spotify.com/track/639HHMIvPddNffAgYylJcL) | [Los Amos De Nuevo Leon](https://open.spotify.com/artist/2PpOrMC4P8PG2yi0S3ft0l) | [Desmadre en el Bano](https://open.spotify.com/album/7nvsqLAhYCFH1aroN9wDrP) | 2:31 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRkwbkfuyXo.md) - [plain]
 | 66 | [La Vida Mafiosa](https://open.spotify.com/track/4YYFiNN2NAwv2Tp6MMVNyf) | [Los Canelos De Durango](https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ) | [Los Canelos 17 Exitos](https://open.spotify.com/album/10NmPHQzeBxZf3ev0mNefY) | 2:06 |
 | 67 | [La Manda Incumplida](https://open.spotify.com/track/3rRDolvq54CsOTDkuaOvW5) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Y Seguimos La Borrachera](https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD) | 2:29 |
 | 68 | [25 de Diciembre](https://open.spotify.com/track/0vkWhjZgixnhhvMQjzLa9v) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Musica, Polvora y Sangre](https://open.spotify.com/album/1EoN3U7I9CrVgLDUbEHEJV) | 3:03 |
-| 69 | [El Diablo Como Enemigo](https://open.spotify.com/track/47Cdv8CEajQn17CtUhYvU5) | [Adan Romero](https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz) | [Corridos Prohibidos](https://open.spotify.com/album/1X4znZJ1tE300zU5dd060r) | 2:49 |
+| 69 | [El Diablo Como Enemigo](https://open.spotify.com/track/47Cdv8CEajQn17CtUhYvU5) | [Adan Romero](https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz) | [Corridos Prohibidos](https://open.spotify.com/album/1X4znZJ1tE300zU5dd060r) | 0:29 |
 | 70 | [Un Corrido Pa' Joaquin](https://open.spotify.com/track/6ZMbFg2l9Nu6xfDwfiXUtb) | [Mario "El Cachorro" Delgado](https://open.spotify.com/artist/2C6aTaybjOqqtdTxKx8xTX) | [Los Corridos De Mis Amigos](https://open.spotify.com/album/6frN8k9lkbXBpZLWA1g83K) | 3:12 |
 | 71 | [El Popeye](https://open.spotify.com/track/6wamcZCfpr0tALIr1e5jXu) | [Fuerza de Tijuana](https://open.spotify.com/artist/0OtCwdMEGIi0GCeLGCO2tQ) | [La Nueva Cara de Tijuana](https://open.spotify.com/album/7pxyaiajcjF6sFUDpNE68i) | 2:42 |
 | 72 | [Empleado De La Mafia](https://open.spotify.com/track/4AH10RDYaGSYckWXbN5BSl) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Ni Hoy Ni Manana](https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL) | 2:56 |
 | 73 | [J\. Walker](https://open.spotify.com/track/59sVHAfxiIX1uAKXjFksAI) | [Colmillo Norteño](https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN) | [Sueño Guajiro](https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr) | 2:25 |
 | 74 | [Viva Mi Lindo Michoacan](https://open.spotify.com/track/534NRKCO5nvYwOXqY1gydw) | [Banda Guasaveña de Valentín Elizalde](https://open.spotify.com/artist/3v9m4DhfDvDS2YYxmLSRLG) | [La Sorpresa Del Katch](https://open.spotify.com/album/48Aj5n1ZpfdLTQmiYwv0wL) | 2:49 |
-| 75 | [Casquillos De Mi Cuerno](https://open.spotify.com/track/7bciiqMnJmrfL7jayg9DJa) | [Adan Romero](https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz) | [Corridos Prohibidos](https://open.spotify.com/album/1X4znZJ1tE300zU5dd060r) | 3:07 |
+| 75 | [Casquillos De Mi Cuerno](https://open.spotify.com/track/7bciiqMnJmrfL7jayg9DJa) | [Adan Romero](https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz) | [Corridos Prohibidos](https://open.spotify.com/album/1X4znZJ1tE300zU5dd060r) | 0:29 |
 
 Snapshot ID: `MTY1NTc2MzE1OSwwMDAwMDAyZjAwMDAwMTgxODMyY2NhZWEwMDAwMDE3Zjk1NWVkNDk4`

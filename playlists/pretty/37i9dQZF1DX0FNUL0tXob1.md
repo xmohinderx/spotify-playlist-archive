@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FNUL0tXob1.md) - [plain]
 
 > The best metal of 2016!
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,562 likes - 128 songs - 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,562 likes - 128 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FNUL0tXob1.md) - [plain]
 | 11 | [Suffer the Last Bridge](https://open.spotify.com/track/3Kyah08cIZJKhjnUa3vHJ2) | [Oceans of Slumber](https://open.spotify.com/artist/2JSza6IRxLr1Ez3wqKd0SY) | [Winter](https://open.spotify.com/album/50O9zBtbDovF8Z8Z4xnHEO) | 5:00 |
 | 12 | [A Match Made In Heaven](https://open.spotify.com/track/5QDDmrz819WmzBeQHZNhor) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [All Our Gods Have Abandoned Us](https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so) | 3:48 |
 | 13 | [Mass Darkness](https://open.spotify.com/track/0yR4i9F5xUzEF9NdicptwE) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Arktis.](https://open.spotify.com/album/397XouQkm5WLVcPYVG76f3) | 3:52 |
-| 14 | [Fire Is the End Lesson](https://open.spotify.com/track/1J4TyM72zi7Uk3VWY8pJrn) | [Neurosis](https://open.spotify.com/artist/1KHydwFySZY3YcWyo2q2dF) | [Fires Within Fires](https://open.spotify.com/album/4HMbz4WUJc55v3LLQB2ljg) | 6:54 |
+| 14 | [Fire Is the End Lesson](https://open.spotify.com/track/1J4TyM72zi7Uk3VWY8pJrn) | [Neurosis](https://open.spotify.com/artist/1KHydwFySZY3YcWyo2q2dF) | [Fires Within Fires](https://open.spotify.com/album/4HMbz4WUJc55v3LLQB2ljg) | 0:29 |
 | 15 | [Cryoshock \(feat\. Mel Rose\)](https://open.spotify.com/track/647VU4E0W0Yz4lCNjyTUZI) | [Mechina](https://open.spotify.com/artist/056E4z3dLY3NlRs1w0YW5y), [Melrose](https://open.spotify.com/artist/7wEF4N6aICDlkHnCy3PLan) | [Progenitor](https://open.spotify.com/album/6MCRMfxfzDYNZiRENv2cqX) | 6:26 |
 | 16 | [Brotherhood of the Snake](https://open.spotify.com/track/5862zgaxKAei2fpZLQe4SN) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Brotherhood of the Snake](https://open.spotify.com/album/2MGzG0xHxDQXwR4BeUhw7w) | 4:14 |
 | 17 | [Mark of the Blade](https://open.spotify.com/track/0fM5SeiszwDmtyndZKc6Hs) | [Whitechapel](https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml) | [Mark of the Blade](https://open.spotify.com/album/3z59OW4z7s6CMx63zn4Dbn) | 2:54 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FNUL0tXob1.md) - [plain]
 | 38 | [In Orbit](https://open.spotify.com/track/0qAlAfnqtWuZtrvvc1zwoA) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D), [Floor Jansen](https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ) | [The Storm Within](https://open.spotify.com/album/1v0fzHYZBtVxH8Uq9pCcUY) | 5:38 |
 | 39 | [The Fool](https://open.spotify.com/track/63fLWnxo6JAZIBbhc9jYSW) | [Fleshgod Apocalypse](https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML) | [King](https://open.spotify.com/album/3jZDOEIsXpZUXmqb1o6Lzm) | 4:06 |
 | 40 | [Second Son of R.](https://open.spotify.com/track/04hTDr45kONVCXlAqjZGuW) | [Oathbreaker](https://open.spotify.com/artist/5kDp9RPBnmQzBLwVnVyVvz) | [Rheia](https://open.spotify.com/album/2eo8OwibPK06ZoHmIAfClG) | 5:55 |
-| 41 | [Symptom of Terminal Illness](https://open.spotify.com/track/6wBoZc8SwGed6EPApAXuWo) | [The Dillinger Escape Plan](https://open.spotify.com/artist/7IGcjaMGAtsvKBLQX26W4i) | [Dissociation](https://open.spotify.com/album/52hA4AUoiCwTuXXuClt0SR) | 4:03 |
+| 41 | [Symptom of Terminal Illness](https://open.spotify.com/track/6wBoZc8SwGed6EPApAXuWo) | [The Dillinger Escape Plan](https://open.spotify.com/artist/7IGcjaMGAtsvKBLQX26W4i) | [Dissociation](https://open.spotify.com/album/52hA4AUoiCwTuXXuClt0SR) | 0:29 |
 | 42 | [Oiseaux de proie](https://open.spotify.com/track/2LqniAScDuwvOSWEHbsJAI) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Kodama](https://open.spotify.com/album/1nWcB3qwsbx0nimMZH6sCw) | 7:48 |
 | 43 | [Incandescent](https://open.spotify.com/track/1lklm7l2pWgjHqNtlvTtgR) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Air](https://open.spotify.com/album/2jo6mNNlHx8UnlSCdaTFsL) | 5:11 |
 | 44 | [Old Heart Falls](https://open.spotify.com/track/7fklGYDWdEwR7GOfLxTTkr) | [Katatonia](https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm) | [The Fall of Hearts](https://open.spotify.com/album/4OOiBmG28tjBUznzGDSlos) | 4:22 |
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FNUL0tXob1.md) - [plain]
 | 73 | [A Jhator Ascension](https://open.spotify.com/track/70qd8TrefFCL8j3UgfN4Ck) | [Khonsu](https://open.spotify.com/artist/1RGjVd2AAPAXjVZWYkmf7p) | [The Xun Protectorate](https://open.spotify.com/album/71ABCZvkjCjZJaQHnVxNOa) | 5:15 |
 | 74 | [The World Was Mine](https://open.spotify.com/track/2BwQukxxS2NIWo9Gz4Gilu) | [Logical Terror](https://open.spotify.com/artist/71RNihAnOuMIGlq9zQiDXx), [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Ashes of Fate](https://open.spotify.com/album/5k6QHVXhMaZME7VJQYLuAB) | 4:06 |
 | 75 | [Passage of the Crane](https://open.spotify.com/track/7JPbtFvuscfYiKEen8d2eh) | [Heaven Shall Burn](https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW) | [Wanderer](https://open.spotify.com/album/5TizayIF6uJtXShVu0U9X3) | 3:57 |
-| 76 | [Image of Control \(II\)](https://open.spotify.com/track/66cMGk7UfCbR8ziN4qNJr5) | [Sumac](https://open.spotify.com/artist/51yGpqOaCT6TlLzV3LefDV) | [What One Becomes](https://open.spotify.com/album/0s1U9VBobxvNn7Kctl5WN2) | 5:59 |
+| 76 | [Image of Control \(II\)](https://open.spotify.com/track/66cMGk7UfCbR8ziN4qNJr5) | [Sumac](https://open.spotify.com/artist/51yGpqOaCT6TlLzV3LefDV) | [What One Becomes](https://open.spotify.com/album/0s1U9VBobxvNn7Kctl5WN2) | 0:29 |
 | 77 | [Paralyzed](https://open.spotify.com/track/1wk5J5wnnir7oXFwqWSQKC) | [Caliban](https://open.spotify.com/artist/1oeo6cC9Fqa2bxxv67qBQL) | [Gravity](https://open.spotify.com/album/0BevWaM3NQQQI7nLOttEzs) | 4:29 |
 | 78 | [Live and Burn](https://open.spotify.com/track/5kheBCHERdvNziSYgDdbc2) | [Deströyer 666](https://open.spotify.com/artist/67T5lWCllFJE7hDrslnxYK) | [Wildfire](https://open.spotify.com/album/29NdXziu9bQePCxjSf9b5G) | 4:31 |
 | 79 | [The Seventh Seal](https://open.spotify.com/track/5YHsB2FZr9GRwTpJqvsZ14) | [Sumerlands](https://open.spotify.com/artist/5rASExwQQilVMuKmaOV2eW) | [Sumerlands](https://open.spotify.com/album/3ILk1oFpYr8mTnZIliNjDZ) | 3:46 |
@@ -134,7 +134,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FNUL0tXob1.md) - [plain]
 | 124 | [Akróasis](https://open.spotify.com/track/2d0Ub2MAJUX1jwcThuxXLM) | [Obscura](https://open.spotify.com/artist/7i82bJxWj1Tggc7pnU1hzt) | [Akróasis](https://open.spotify.com/album/00UbYNcKS2BGljOkV49uHD) | 4:23 |
 | 125 | [At The Break Of Dawn \(feat\. Elize Ryd\)](https://open.spotify.com/track/51E3xyTuzOSZYbOduba6Oz) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA), [Elize Ryd](https://open.spotify.com/artist/4aHpq3SeE9HiKNft9Bcj55) | [At The Break Of Dawn \(feat\. Elize Ryd\)](https://open.spotify.com/album/5mW0s9ENNK7tkcptmJve9o) | 3:31 |
 | 126 | [Ensigns Of Victory](https://open.spotify.com/track/2YVaKGtAZPt58BdObKvP5A) | [Winterfylleth](https://open.spotify.com/artist/0cKyWvYnOGpPV2NpulEYf5) | [Ensigns Of Victory](https://open.spotify.com/album/289l5qWtPYRtuugMdjmvZA) | 6:47 |
-| 127 | [The Call to Orion](https://open.spotify.com/track/1rbfCsj5x84ozBCHxjgSLZ) | [In Mourning](https://open.spotify.com/artist/0gsIXiV7rw5I9wJaxgoOdB) | [Afterglow](https://open.spotify.com/album/69Eghq1EV8MOWLL8hvNMKG) | 8:24 |
+| 127 | [The Call to Orion](https://open.spotify.com/track/1rbfCsj5x84ozBCHxjgSLZ) | [In Mourning](https://open.spotify.com/artist/0gsIXiV7rw5I9wJaxgoOdB) | [Afterglow](https://open.spotify.com/album/69Eghq1EV8MOWLL8hvNMKG) | 0:29 |
 | 128 | [Home](https://open.spotify.com/track/7zTOZF5EeB9rf8e1hYfxAy) | [Numenorean](https://open.spotify.com/artist/2qBGuYUZX53HN4Vk7Msjlc) | [Home](https://open.spotify.com/album/5JNGeAZWSXLXpxzsQ1IsV5) | 9:13 |
 
 Snapshot ID: `MTU2ODAxNzkxMSwwMDAwMDAwNTAwMDAwMTViNTE4MmZmYzMwMDAwMDE2ZDE1MjY5MDA4`

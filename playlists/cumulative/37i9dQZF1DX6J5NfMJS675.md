@@ -4,7 +4,7 @@
 
 > Welcome to the dark side of the club.
 
-350 songs - 1 day 12 hr 4 min - [published](https://open.spotify.com/playlist/2CLl9bdbXGoEG2KzSgeejA)
+350 songs - 1 day 11 hr 58 min - [published](https://open.spotify.com/playlist/2CLl9bdbXGoEG2KzSgeejA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Cryptic Speech \- Original Mix](https://open.spotify.com/track/5tzcReCKuj6qYbQQVS0ehG) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt) | [Cryptic Speech EP](https://open.spotify.com/album/3wjYTOt0x1gLUtVPtr2lMQ) | 5:54 | 2021-05-03 | 2021-10-30 |
 | [Dark Market \- Original Mix](https://open.spotify.com/track/3VeVNC1XuZrReIJymrbAU6) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt) | [Dark Market](https://open.spotify.com/album/0pb8z2YTrIML56C2nzDlng) | 7:12 | 2022-04-04 | 2022-06-29 |
 | [Dark Places](https://open.spotify.com/track/3DP5jn2plhKVa6Xgwpux1S) | [Cosmic Boys](https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ), [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Dark Places](https://open.spotify.com/album/1qJHc9bytwRnbvN2tctlDL) | 6:18 | 2021-07-10 | 2021-12-29 |
-| [Darkness Falls](https://open.spotify.com/track/3ba0mZUI7Hg1B7G2qUy9eJ) | [Ben Dust](https://open.spotify.com/artist/4smTLJEoRPULdc4QuG7JGo), [Markus Weigelt](https://open.spotify.com/artist/2rMiCAbbUX2ywySQCSZRbI) | [Darkness Falls](https://open.spotify.com/album/0jKYzvWcpUZErGjZCcQPHL) | 6:29 | 2022-01-07 |  |
+| [Darkness Falls](https://open.spotify.com/track/3ba0mZUI7Hg1B7G2qUy9eJ) | [Ben Dust](https://open.spotify.com/artist/4smTLJEoRPULdc4QuG7JGo), [Markus Weigelt](https://open.spotify.com/artist/2rMiCAbbUX2ywySQCSZRbI) | [Darkness Falls](https://open.spotify.com/album/0jKYzvWcpUZErGjZCcQPHL) | 0:29 | 2022-01-07 |  |
 | [Dawn](https://open.spotify.com/track/72fS4JvztocT9TmvYx0Wzd) | [Cosmic Boys](https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ) | [Dawn](https://open.spotify.com/album/2dHRu0SrIEYL7CloW13urr) | 6:21 | 2021-01-25 | 2021-07-10 |
 | [Deep Impact](https://open.spotify.com/track/4YeX1jrKblSGSolbok715k) | [Chris Veron](https://open.spotify.com/artist/1DgZ9kWEsYktFBYml3iK8S) | [Deep Impact](https://open.spotify.com/album/3yqQ0PzGGTsrZ78CKhJ0Ix) | 3:46 | 2021-11-20 | 2022-01-22 |
 | [Deepest Level](https://open.spotify.com/track/2LLdVCJACl8QsY9tLPLrxp) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8), [Droplex](https://open.spotify.com/artist/5yePldMswAMD9fvIfRUc2o) | [Between Reality and Darkness](https://open.spotify.com/album/6XdgXZp51Ot9wiwxqSGk5k) | 6:09 | 2020-11-03 | 2021-09-11 |

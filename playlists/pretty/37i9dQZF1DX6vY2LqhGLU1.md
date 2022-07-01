@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vY2LqhGLU1.md) - [plain]
 
 > Enjoy Christmas songs that are staples at the home of your favorite artists\.  Cover: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,558 likes - 30 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,556 likes - 30 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vY2LqhGLU1.md) - [plain]
 | 22 | [White Winter Hymnal](https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 2:27 |
 | 23 | [Hope Has A Name](https://open.spotify.com/track/5beWUJJQZUBgunstmXk6Ge) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Hope Has A Name](https://open.spotify.com/album/33GHItPpQKdgbwPn3oYEGY) | 4:04 |
 | 24 | [Holy, Holy, Holy](https://open.spotify.com/track/6GjYRXGmP1CQrAb9ORvaFV) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/6ZCbYO3B5eslkY3zHdss4A) | 3:50 |
-| 25 | [I Heard the Bells On Christmas Day](https://open.spotify.com/track/2s7rn7BTwqXLy22JSyzR3t) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Classic Christmas Album](https://open.spotify.com/album/0oVkzRJmRZ3cIdvKAxZc6U) | 2:28 |
+| 25 | [I Heard the Bells On Christmas Day](https://open.spotify.com/track/2s7rn7BTwqXLy22JSyzR3t) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Classic Christmas Album](https://open.spotify.com/album/0oVkzRJmRZ3cIdvKAxZc6U) | 0:29 |
 | 26 | [The First Noël](https://open.spotify.com/track/1DvjCIefxg1YsdG3ETROph) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch) | 3:07 |
 | 27 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/2ySCPtr4jLMS2JSY1ztGnm) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/7uwpPKDqkOpNAUmo2eLAAm) | 2:24 |
 | 28 | [Silent Night](https://open.spotify.com/track/2WsfrJof0Hh9fz0ZxTC2Ey) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Silent Night](https://open.spotify.com/album/47KGGJrL31NSbqcfHN3gmJ) | 3:41 |

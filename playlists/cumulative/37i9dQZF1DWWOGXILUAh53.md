@@ -4,7 +4,7 @@
 
 > The hottest new pop with the all the drops\. Cover: Rita Ora & Netsky
 
-270 songs - 13 hr 37 min - [published](https://open.spotify.com/playlist/0Wt1WNhsHEp62QHeiMAcMq)
+271 songs - 13 hr 40 min - [published](https://open.spotify.com/playlist/0Wt1WNhsHEp62QHeiMAcMq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [These Are The Days \(feat\. Liv Dawson\)](https://open.spotify.com/track/39GX8fhLrxiPcNAMgZhWUa) | [Anton Powers](https://open.spotify.com/artist/7h7ahzbTkbAFsshWJ7fOrc), [ManyFew](https://open.spotify.com/artist/7oZdp9UWjuC68LeJSYeKZL), [Liv Dawson](https://open.spotify.com/artist/7i8fq2gFSVgPdWVXOlDEx7) | [These Are The Days \(feat\. Liv Dawson\)](https://open.spotify.com/album/3q1PtEB8N6naFxX82mAT5C) | 2:46 | 2022-05-06 |  |
 | [This Was My House \- YSKWN! Remix](https://open.spotify.com/track/55OeHpYRsuk9XwCpvQ2Ixy) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb), [Niki Haris](https://open.spotify.com/artist/6AKDBd8dDnM715jeUivRm1), [Donna De Lory](https://open.spotify.com/artist/14K72NEwk2RVuXTsqcBZNA), [Initial Talk](https://open.spotify.com/artist/0YQmcNgfnoqxBMJ8dcw3Eh), [Yskwn!](https://open.spotify.com/artist/6PjzF32p8eKwhfMsjG6U1a) | [This Was My House \(YSKWN! Remix\)](https://open.spotify.com/album/6lSeWCYOiZOp0BSpaq9BZe) | 4:17 | 2021-12-03 | 2022-03-05 |
 | [Time to Groove \(feat\. Nonô\)](https://open.spotify.com/track/20b1ZBMGOZjuGvNFncIIP7) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Time to Groove \(feat\. Nonô\)](https://open.spotify.com/album/1ku0mbCfEbi3polUL4hYAk) | 2:26 | 2022-05-06 |  |
+| [Timebomb \(feat\. MOD SUN\)](https://open.spotify.com/track/4kAsc2vx4NBqk9dXn1nrZC) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Timebomb \(feat\. MOD SUN\)](https://open.spotify.com/album/40yndRDwPV70abVTMtxNBU) | 3:02 | 2022-06-24 |  |
 | [Turn The Table](https://open.spotify.com/track/70HsIqEK1ATmos8ZAz4wHC) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Save Me](https://open.spotify.com/album/5jhFVn3MgAIVsTKv4YibYI) | 2:51 | 2022-06-24 |  |
 | [Twisted Mind](https://open.spotify.com/track/3Ofr27P70Y5D1dG9iwqFPD) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Exotica \(Deluxe\)](https://open.spotify.com/album/4lPKHjh6OjSKP4SsIxXIsv) | 5:20 | 2022-03-04 | 2022-05-28 |
 | [Typical \(feat\. Lars Martin\)](https://open.spotify.com/track/0zbCQ5BMhpFfKWcpEuzqVd) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lars Martin](https://open.spotify.com/artist/22GWBRw4EYd2qGvzDqzxXO) | [Typical \(feat\. Lars Martin\)](https://open.spotify.com/album/4ZgHHCDZ6YI1iZ9L8xzrB4) | 2:21 | 2021-12-24 | 2022-03-05 |

@@ -4,7 +4,7 @@
 
 > Take a look back on some of the year's top tracks in roots music\. We'll be adding more of your favorites throughout December\. \#SpotifyFolk2016
 
-94 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/2tiky73cMbGaqQ9N68uuh9)
+94 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/2tiky73cMbGaqQ9N68uuh9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Seasons of Love](https://open.spotify.com/track/03DZkKIhcVC15HLLetNtSJ) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Seasons of Love](https://open.spotify.com/album/3hBdINe1hWEu0rks4OF97A) | 4:44 | 2016-12-06 |  |
 | [She Burns](https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [The Wild Swan](https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz) | 3:49 | 2016-12-06 |  |
 | [Shining in the Distance](https://open.spotify.com/track/7zVCsUqv1axiLwZ4YSDksc) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [Magic Fire](https://open.spotify.com/album/0X8Ol2szBcUSf3phKT2IBf) | 4:25 | 2016-12-06 |  |
-| [Shut Up Kiss Me](https://open.spotify.com/track/5uZLsGY9fknBd5Rxr7AIss) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [MY WOMAN](https://open.spotify.com/album/5M8xQaQZuW2LZGVXZ3mlKN) | 3:22 | 2016-12-06 |  |
+| [Shut Up Kiss Me](https://open.spotify.com/track/5uZLsGY9fknBd5Rxr7AIss) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [MY WOMAN](https://open.spotify.com/album/5M8xQaQZuW2LZGVXZ3mlKN) | 0:29 | 2016-12-06 |  |
 | [Siren](https://open.spotify.com/track/7KvtfHiJ6Egxz27DYaOO59) | [Monica Heldal](https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0) | [The One In The Sun](https://open.spotify.com/album/4DXawyeE4kw5W7RW85Zd6v) | 5:24 | 2016-12-06 |  |
 | [Sleeping in a Car](https://open.spotify.com/track/3fLPjKrVmiVGyaPtb0uoq0) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Sleeping in a Car](https://open.spotify.com/album/1HYtOxv874fM6grxLJrsK0) | 3:37 | 2016-12-06 |  |
 | [Sometimes I Worry](https://open.spotify.com/track/6igxt5luYEmrE5bYLMLngs) | [The Delta Saints](https://open.spotify.com/artist/5vCQg5Rpc7l4cPDRuR7Hdz) | [Bones \(Special Edition\)](https://open.spotify.com/album/5FhzBEWTqXNU82X2jFMcaX) | 3:47 | 2016-12-06 |  |
@@ -98,8 +98,8 @@
 | [When The Tequila Runs Out](https://open.spotify.com/track/23Q4sMxgEKRXDMi62xPP5R) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [We're All Gonna Die](https://open.spotify.com/album/6bSJPJU1SRxm9RQ4Ox5sRe) | 4:44 | 2016-12-06 |  |
 | [Whippoorwill](https://open.spotify.com/track/1n0UUVUi4OzfjJEtuBKWfL) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Whippoorwill](https://open.spotify.com/album/5XGBibZqSHNNIqASXsYuKW) | 4:38 | 2016-12-06 |  |
 | [Wildfire](https://open.spotify.com/track/4TcTtWG8wSrxRmKWHNYHK8) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Blindfaller](https://open.spotify.com/album/1WtfsOpueoXSRpNaySuwhn) | 5:29 | 2016-12-06 |  |
-| [Working Poor](https://open.spotify.com/track/3izRf9rlci9WN1mSQCze9a) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Working Poor](https://open.spotify.com/album/2vnCT14EXHJ5ZWdwpqPj7E) | 3:59 | 2016-12-06 |  |
-| [Wreck You](https://open.spotify.com/track/1Ee33iUeDRUA5sGshbsOWM) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Bird & the Rifle](https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk) | 3:18 | 2016-12-06 |  |
+| [Working Poor](https://open.spotify.com/track/3izRf9rlci9WN1mSQCze9a) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Working Poor](https://open.spotify.com/album/2vnCT14EXHJ5ZWdwpqPj7E) | 0:29 | 2016-12-06 |  |
+| [Wreck You](https://open.spotify.com/track/1Ee33iUeDRUA5sGshbsOWM) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Bird & the Rifle](https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk) | 0:29 | 2016-12-06 |  |
 | [You Don't Care Enough for Me to Cry \(Live from Spotify House SXSW '16\)](https://open.spotify.com/track/1CFqZk3eAQk2NCVwsQrWra) | [John Moreland](https://open.spotify.com/artist/5MPWTD6J1H9XqYEOb4QkdH) | [Spotify Sessions](https://open.spotify.com/album/2G4wROqazspdxYPgTI6Ofm) | 3:53 | 2016-12-06 |  |
 | [You Say](https://open.spotify.com/track/2Rd6MWkSlWiZdmdBYAOQgP) | [Dori Freeman](https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt) | [Dori Freeman](https://open.spotify.com/album/1fNeNleD7ljfyW9IDnymut) | 2:54 | 2016-12-06 |  |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3akpXniJCe.md) - [plain]
 
 > Come on down to the waters ye sinner and dig deep into this collection of songs and stories steeped in struggle, hope, darkness, light, sin and salvation\.  Guest curation by <a href="https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP?si=nPq5VuyRTCuzlRDkRcl7kg/">Rhett Walker</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,123 likes - 41 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,148 likes - 41 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3akpXniJCe.md) - [plain]
 | 11 | [Adam's Son](https://open.spotify.com/track/3RmyTJK1VAx7hm7UDPxDWw) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [Here's To The Ones](https://open.spotify.com/album/70T14v4ekIUqg9fuxaLUgM) | 3:04 |
 | 12 | [Mercy Now](https://open.spotify.com/track/4aSdp6vPtZcSQ0oMraE7Vd) | [Mike Farris](https://open.spotify.com/artist/2lGlFTygMMk37JsYm8a46o) | [Shine For All The People](https://open.spotify.com/album/299R8MIIIzRp68WPf2z3xg) | 4:50 |
 | 13 | [Ain't No Grave](https://open.spotify.com/track/33gHvO5eLnhxKHgGDu6xu9) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken by a Low Sound](https://open.spotify.com/album/6uFn0hAG96lR9aINZ1N8y8) | 3:21 |
-| 14 | [No Glory](https://open.spotify.com/track/36eeEbMZhP6obQX060f0J7) | [The Eagle Rock Gospel Singers](https://open.spotify.com/artist/6mSbhnOMxNViQqlh58ZOhE) | [No Glory](https://open.spotify.com/album/4YaWyI6imvYaPnrd96kemb) | 5:14 |
+| 14 | [No Glory](https://open.spotify.com/track/36eeEbMZhP6obQX060f0J7) | [The Eagle Rock Gospel Singers](https://open.spotify.com/artist/6mSbhnOMxNViQqlh58ZOhE) | [No Glory](https://open.spotify.com/album/4YaWyI6imvYaPnrd96kemb) | 0:29 |
 | 15 | [Doubting Thomas](https://open.spotify.com/track/5Y5mqKOWd1wzqSqBeYaeO9) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Why Should The Fire Die?](https://open.spotify.com/album/6l61p7zbizBUjQWY10LWmb) | 3:19 |
 | 16 | [Arsonist's Lullabye](https://open.spotify.com/track/6W2iYBlVyKvhPOsjD7J8I4) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/6bcl0ZcPJWJtyuRsOyhvfv) | 4:26 |
 | 17 | [This Life](https://open.spotify.com/track/6wNuaMA96DLSwVd2PABe06) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu), [The Forest Rangers](https://open.spotify.com/artist/46xMgypLHP8GNsYME3vRnV) | [Songs of Anarchy: Music from Sons of Anarchy Seasons 1\-4](https://open.spotify.com/album/3M18rHXLz7eFOQXRMJcBk9) | 2:20 |
@@ -29,14 +29,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3akpXniJCe.md) - [plain]
 | 19 | [Say Hello](https://open.spotify.com/track/3B72eiR3nw9aFISuAHc6MT) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [Say Hello](https://open.spotify.com/album/7AE2cf1lunlKFeVJsilram) | 3:06 |
 | 20 | [Brother, Do You Know the Road?](https://open.spotify.com/track/6uot32Tttek29kec4Yw5oR) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Brother, Do You Know the Road?](https://open.spotify.com/album/3qvauqqdWgUfVsZBc3lMsM) | 6:09 |
 | 21 | [Too Old To Die Young](https://open.spotify.com/track/6uBETSZKESX7UziMYjQ2jH) | [Brother Dege](https://open.spotify.com/artist/62r8B0snN5IPw8SwCJTEXR) | [Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack](https://open.spotify.com/album/2qwPVMQzybhS2jopA0wMy7) | 3:43 |
-| 22 | [Where The Devil Don't Stay](https://open.spotify.com/track/0JHSj1ozIuflSqZ4sYmm3N) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [The Dirty South](https://open.spotify.com/album/1NWS8t0VKjxEy7tZFdwiFs) | 5:19 |
+| 22 | [Where The Devil Don't Stay](https://open.spotify.com/track/0JHSj1ozIuflSqZ4sYmm3N) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [The Dirty South](https://open.spotify.com/album/1NWS8t0VKjxEy7tZFdwiFs) | 0:29 |
 | 23 | [Days Of Gold](https://open.spotify.com/track/0MSe6q3DBZMXInSKnmD3gu) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [The Cadillac Three](https://open.spotify.com/album/7kgnnwcNIH50MkmNrOjbK4) | 4:43 |
 | 24 | [Personal Jesus](https://open.spotify.com/track/5dcwiQFqn0mTcWewYIv7MV) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:19 |
 | 25 | [In Time](https://open.spotify.com/track/5XnXpQM5FR8ZQyvDY8RKQS) | [Mark Collie](https://open.spotify.com/artist/6kMOabD0AtCGJB632jMilU) | [The Punisher: The Album](https://open.spotify.com/album/35bHrnMSA8aZ0P5nemqhIp) | 2:45 |
 | 26 | [God's Gonna Cut You Down](https://open.spotify.com/track/0e8mTKsfKFirEXMkXArYuy) | [Caves](https://open.spotify.com/artist/2tzzfW0A5ktHkQ8W2JcBxD), [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [God's Gonna Cut You Down](https://open.spotify.com/album/7zauCoFZ0Q5kOtnpnVOtlD) | 3:58 |
 | 27 | [Way down We Go](https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 3:33 |
 | 28 | [Make Me No King](https://open.spotify.com/track/51VlHF8o4GlnZTNwUJvcXQ) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Make Me No King](https://open.spotify.com/album/0ggCg1U7w5k7j7fyoKzJM8) | 3:51 |
-| 29 | [Monsters](https://open.spotify.com/track/4ZQAlNuSk4bEnRvq2rNGSO) | [Heidi Mays](https://open.spotify.com/artist/6z8Uva3jdHUeS4J56jXVPO) | [Monsters](https://open.spotify.com/album/7t6XBMyawfnwxPPxjjv1Ae) | 3:13 |
+| 29 | [Monsters](https://open.spotify.com/track/4ZQAlNuSk4bEnRvq2rNGSO) | [Heidi Mays](https://open.spotify.com/artist/6z8Uva3jdHUeS4J56jXVPO) | [Monsters](https://open.spotify.com/album/7t6XBMyawfnwxPPxjjv1Ae) | 0:29 |
 | 30 | [Danger and Dread](https://open.spotify.com/track/2VUA9RXQluo3013YNhDeez) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [The Devil Dancing](https://open.spotify.com/album/674lfymYQKdcMA0kMy2dgO) | 3:46 |
 | 31 | [Ain't No Grave](https://open.spotify.com/track/4pYth3v1b7XE3WbWRVYeiy) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken By A Low Sound](https://open.spotify.com/album/2f0KG8RWA1NamceKkZEJsR) | 3:21 |
 | 32 | [Wilderlove](https://open.spotify.com/track/4nWfJBA1NYQ74KIJV0GwWp) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Mercury & Lightning](https://open.spotify.com/album/6zKk1qsXNvOqAjy9cfzE2Q) | 4:41 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3akpXniJCe.md) - [plain]
 | 37 | [Where the Devil Don't Go](https://open.spotify.com/track/0mHSePRiFnTy7qYPsIeIJ8) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Love Stuff](https://open.spotify.com/album/0B4eikFaUJcf3hc6DaSVov) | 3:01 |
 | 38 | [In Bloom](https://open.spotify.com/track/5StrN0F4XI5e0BHP32THhl) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [A Sailor's Guide to Earth](https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4) | 4:00 |
 | 39 | [Brace for Impact \(Live a Little\)](https://open.spotify.com/track/1cRc03E5Ps0fwe4l8fz2J0) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [A Sailor's Guide to Earth](https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4) | 5:49 |
-| 40 | [Haunted](https://open.spotify.com/track/6i8lkIyU8XiCIzfPwRtMPE) | [The Eagle Rock Gospel Singers](https://open.spotify.com/artist/6mSbhnOMxNViQqlh58ZOhE) | [No Glory](https://open.spotify.com/album/4YaWyI6imvYaPnrd96kemb) | 3:33 |
+| 40 | [Haunted](https://open.spotify.com/track/6i8lkIyU8XiCIzfPwRtMPE) | [The Eagle Rock Gospel Singers](https://open.spotify.com/artist/6mSbhnOMxNViQqlh58ZOhE) | [No Glory](https://open.spotify.com/album/4YaWyI6imvYaPnrd96kemb) | 0:29 |
 | 41 | [O Children Come](https://open.spotify.com/track/1R1rjUsLIIcY6IBWGn6BZu) | [JJ Weeks Band](https://open.spotify.com/artist/6fXIdyfCq00oaElvH64eri) | [O Children Come](https://open.spotify.com/album/5RO9saHQxS1t66DlZNEksh) | 3:41 |
 
 Snapshot ID: `MTU4MzQ4ODMxMywwMDAwMDAwNzAwMDAwMTYyY2VjNDhlMDIwMDAwMDE3MGFmNDIyYTBl`

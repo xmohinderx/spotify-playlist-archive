@@ -4,7 +4,7 @@
 
 > Sleater\-Kinney, in celebration of their new album "Path of Wellness," co\-curate a list of the defining songs of the riot grrrl era, and the bands keeping its spirit alive.
 
-72 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/3w6EKs1xpDEvjIzzOzbqdF)
+72 songs - 3 hr 25 min - [published](https://open.spotify.com/playlist/3w6EKs1xpDEvjIzzOzbqdF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Alabama Movies](https://open.spotify.com/track/0lHJ9bP1Ph6FMFCF1l97Wa) | [Skating Polly](https://open.spotify.com/artist/1ST6hERy8rGdwUaNAZxfG9) | [Fuzz Steilacoom](https://open.spotify.com/album/3obbLp8QVZ6R0JhK252pfY) | 3:40 | 2021-06-11 |  |
 | [And Breeding](https://open.spotify.com/track/3pYiZe0qoZBmJqqqBmXwFm) | [Priests](https://open.spotify.com/artist/5DT78nxI4rAHYddufPUOBx) | [Bodies and Control and Money and Power](https://open.spotify.com/album/7utZxewdKg098arjQSCuXS) | 3:11 | 2021-06-11 |  |
 | [Be Yr Mama](https://open.spotify.com/track/6j3lskGn1FgtR9MmGp5M4t) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Sleater\-Kinney \(Remastered\)](https://open.spotify.com/album/1lcVEQrUSbGl7qRacBxTav) | 2:52 | 2021-06-11 |  |
-| [Becky](https://open.spotify.com/track/2JXWrZnKf0PMklRuJapQgT) | [be your own PET](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Get Awkward](https://open.spotify.com/album/19ROncpBALfjlbLdXSLSzr) | 3:00 | 2021-06-11 |  |
+| [Becky](https://open.spotify.com/track/2JXWrZnKf0PMklRuJapQgT) | [be your own PET](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Get Awkward](https://open.spotify.com/album/19ROncpBALfjlbLdXSLSzr) | 0:29 | 2021-06-11 |  |
 | [Bombay](https://open.spotify.com/track/76g6YBOwh714ivn1zeSbCL) | [Sleep Good](https://open.spotify.com/artist/5Fon6tb20oHkqBcePzyJy3) | [Bohemian Grove](https://open.spotify.com/album/3c18ecpUu7nRe2nyVWOYnm) | 3:44 | 2021-06-11 |  |
 | [Bright Yellow Gun](https://open.spotify.com/track/5B4M7SIVdfoclqKoSbvykA) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [University](https://open.spotify.com/album/5DrPmYzVSJwbRboOJQbqqS) | 3:43 | 2021-06-11 |  |
 | [Cannonball](https://open.spotify.com/track/11nv53N7ZnNTCgyl8yxvYd) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/4lxW0axOKlImAQ0akMRz61) | 3:33 | 2021-06-11 |  |
@@ -54,7 +54,7 @@
 | [Method](https://open.spotify.com/track/1K2DMwQbkEL8eD5wONpREe) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Path of Wellness](https://open.spotify.com/album/1eUPlL6mb3jmAOJGylGgK1) | 4:20 | 2021-06-11 |  |
 | [New Radio](https://open.spotify.com/track/4DgsvJNNGvV5WPQ40qR3R8) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Singles](https://open.spotify.com/album/6kwyhuzuCrz4N4vMhZ9Deb) | 1:33 | 2021-06-11 |  |
 | [Not Too Soon](https://open.spotify.com/track/24uLzsXLUsg1PIIxPxJrhJ) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [The Real Ramona](https://open.spotify.com/album/5g52sH6fashPtboffeqjlZ) | 3:10 | 2021-06-11 |  |
-| [Oh Me I'm Never](https://open.spotify.com/track/7M8kwE3DzZgTHJG8DHEfr6) | [ShitKid](https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m) | [Oh Me I'm Never](https://open.spotify.com/album/4D8uWnkkXw0hBIUe4AYvIU) | 2:57 | 2021-06-11 |  |
+| [Oh Me I'm Never](https://open.spotify.com/track/7M8kwE3DzZgTHJG8DHEfr6) | [ShitKid](https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m) | [Oh Me I'm Never](https://open.spotify.com/album/4D8uWnkkXw0hBIUe4AYvIU) | 0:29 | 2021-06-11 |  |
 | [Pay Day](https://open.spotify.com/track/1nhR7KIUkseo34qydXcNAU) | [Gauche](https://open.spotify.com/artist/6GVrQ3dvXPc2VcEslMAgk4) | [Pay Day](https://open.spotify.com/album/1zIhUyCkOyRGo9aEc4c5de) | 2:50 | 2021-06-11 |  |
 | [Photobooth](https://open.spotify.com/track/3QrZ60PrEfFXbmaVXcfpXH) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Wednesday](https://open.spotify.com/album/0cLTNLKqv7a71ohMsGKY7h) | 2:28 | 2021-06-11 |  |
 | [Pretend We're Dead](https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 3:55 | 2021-06-11 |  |

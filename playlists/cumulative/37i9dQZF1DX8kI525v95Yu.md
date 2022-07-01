@@ -4,7 +4,7 @@
 
 > The greatest hits of U2, all in one place.
 
-59 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/3uvJqKI9HVtaLRA88I9kGk)
+59 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/3uvJqKI9HVtaLRA88I9kGk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Sunday Bloody Sunday \- Remastered 2008](https://open.spotify.com/track/5gFkAC68P66ZNVKXKjYtDm) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [War \(Deluxe Edition Remastered\)](https://open.spotify.com/album/2jVgzuKDPUnFzgtkAIzdZo) | 4:39 | 2021-11-19 |  |
 | [Sweetest Thing](https://open.spotify.com/track/5a1LEyaOm0UTHTdmXLmrnM) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5OkSkzxPZuziL8waHmU8Zd) | 3:04 | 2021-11-19 |  |
 | [The Blackout](https://open.spotify.com/track/1uAijvF18ShAjV3TrPbZkB) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/3cbQd0gKxPirUnTG38rrUY) | 4:45 | 2021-11-19 |  |
-| [The Ground Beneath Her Feet](https://open.spotify.com/track/28mukXvwZFIFEQU749chRG) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can’t Leave Behind \(20th Anniversary Edition / Super Deluxe / Remastered 2020\)](https://open.spotify.com/album/6qghLuq9nn2SddGSrqBDrh) | 3:43 | 2021-11-19 |  |
+| [The Ground Beneath Her Feet](https://open.spotify.com/track/28mukXvwZFIFEQU749chRG) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can’t Leave Behind \(20th Anniversary Edition / Super Deluxe / Remastered 2020\)](https://open.spotify.com/album/6qghLuq9nn2SddGSrqBDrh) | 0:29 | 2021-11-19 |  |
 | [The Little Things That Give You Away \- Recorded at Neptune Valley, LA](https://open.spotify.com/track/6if1ZC9VUv7G6cQpSTGiST) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Spotify Singles](https://open.spotify.com/album/0zWW54V3be9Nv7VvmmmYL2) | 5:07 | 2021-11-19 |  |
 | [The Miracle \(Of Joey Ramone\)](https://open.spotify.com/track/4sEKv3Ofgz8f1Z80WVenRR) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Innocence \(Deluxe\)](https://open.spotify.com/album/6wQXpkptAIZPzNf5H0SA10) | 4:15 | 2021-11-19 |  |
 | [The Saints Are Coming](https://open.spotify.com/track/2OqCyO684ShnEOqFQieN3Z) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [The Saints Are Coming](https://open.spotify.com/album/3s9hW1Wjsxf2LDyIa9J0il) | 3:22 | 2021-11-19 |  |

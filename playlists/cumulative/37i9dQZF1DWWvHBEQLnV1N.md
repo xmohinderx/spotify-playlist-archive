@@ -4,7 +4,7 @@
 
 > Get excited with these festive favourites alongside some of the newest holiday releases.
 
-55 songs - 3 hr 0 min - [published](https://open.spotify.com/playlist/2Kr0huhuGmwKqVDH3tUmr8)
+55 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/2Kr0huhuGmwKqVDH3tUmr8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Love this Christmas](https://open.spotify.com/track/0s3x37HfdUXvoW9N5zA5fN) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Love this Christmas](https://open.spotify.com/album/3CdqhL16AXYFXcHyGkPFzB) | 3:11 | 2021-12-17 |  |
 | [Merry Christmas](https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Merry Christmas](https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK) | 3:28 | 2021-12-17 |  |
 | [Merry Christmas Everyone \- Recorded at Parr Street Studios](https://open.spotify.com/track/5YDrnmiVzAmHmIUhLQqy6H) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Merry Christmas Everyone \- Recorded at Parr Street Studios](https://open.spotify.com/album/7gaHJJPucZCcm8i03zheJl) | 3:38 | 2021-12-17 |  |
-| [Mistletoe](https://open.spotify.com/track/32OWobmyAz8J2qA8iWekyS) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/1wEnjjF0dtWufdTzWeQAm2) | 3:02 | 2021-12-17 |  |
+| [Mistletoe](https://open.spotify.com/track/32OWobmyAz8J2qA8iWekyS) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/1wEnjjF0dtWufdTzWeQAm2) | 0:29 | 2021-12-17 |  |
 | [My Kind Of Present](https://open.spotify.com/track/2rkb8ijsPapKDMEh0cSe8I) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 2:41 | 2021-12-17 |  |
 | [My Only Wish \(This Year\)](https://open.spotify.com/track/2vVaKhH1Pah7Vyp0bJ3HDf) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [My Pop Christmas](https://open.spotify.com/album/0JCH4q1ps7LzEvNrxKaZO4) | 4:14 | 2021-12-17 |  |
 | [Oh Santa! \(feat\. Ariana Grande & Jennifer Hudson\)](https://open.spotify.com/track/1Ri9P0ZPrqr6h0REDRdJBd) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Oh Santa! \(feat\. Ariana Grande & Jennifer Hudson\)](https://open.spotify.com/album/2g0Ha2fsHrVBueqWdBGUpB) | 3:20 | 2021-12-17 |  |
@@ -57,7 +57,7 @@
 | [Sleigh Ride](https://open.spotify.com/track/0kIVSKPygLNAEBi7EVeeJn) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 3:37 | 2021-12-17 |  |
 | [Step Into Christmas](https://open.spotify.com/track/3YQUpKTmtgPJf8u6ooi9KA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration / Super Deluxe\)](https://open.spotify.com/album/3qiJUOr2iZFyr381tEWlFv) | 4:32 | 2021-12-17 |  |
 | [The Christmas Song \(Shawn Mendes & Camila Cabello\)](https://open.spotify.com/track/0fwxmtpxpMmEMphmJbCAEx) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Wonder \(Deluxe\)](https://open.spotify.com/album/2sDPTkswUWDLtZYiOzubTe) | 3:16 | 2021-12-17 |  |
-| [The Christmas Sweater](https://open.spotify.com/track/30QRKfHBopZn6UNqqSJQ9O) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/0FHpjWlnUmplF5ciL84Wpa) | 3:43 | 2021-12-17 |  |
+| [The Christmas Sweater](https://open.spotify.com/track/30QRKfHBopZn6UNqqSJQ9O) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/0FHpjWlnUmplF5ciL84Wpa) | 0:29 | 2021-12-17 |  |
 | [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 | 2021-12-17 |  |
 | [What Christmas Means To Me](https://open.spotify.com/track/58C81zfTH4pygXCk7miGO5) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [Let It Snow](https://open.spotify.com/album/5lTyWY4Sz27tWXClv5FbmP) | 3:03 | 2021-12-17 |  |
 | [White Christmas](https://open.spotify.com/track/3FAO4AyAGNI7QSSnyZD256) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Crosby Rediscovered: The Soundtrack \(American Masters\)](https://open.spotify.com/album/1DbGLCLzdkeZf5CAvESYsJ) | 2:59 | 2021-12-17 |  |

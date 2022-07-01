@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 80s\. 1980年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-51 songs - 3 hr 9 min - [published](https://open.spotify.com/playlist/0uSxULhDNVOvYtYBEkyzjw)
+51 songs - 3 hr 1 min - [published](https://open.spotify.com/playlist/0uSxULhDNVOvYtYBEkyzjw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [だいすきシンバ](https://open.spotify.com/track/1I1FRDNHyVHWFNCg3Ill9Y) | [富永みーな](https://open.spotify.com/artist/5oHyb66DLgPlCxEGovrT75) | [だいすきシンバ](https://open.spotify.com/album/2eal8rVg8qsXHqnxqitfdY) | 3:19 | 2022-06-21 |  |
 | [となりのトトロ\(となりのトトロ\)](https://open.spotify.com/track/2XvQDd7BYi2TFsmWncujXr) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [スタジオジブリの歌 \-増補盤\-](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:17 | 2021-10-07 |  |
 | [ぼくドラえもん](https://open.spotify.com/track/1PCqZJzzQu7daM74tjlMDL) | [大山のぶ代 \(ドラえもん\)](https://open.spotify.com/artist/5V0fl2vEUF1LJY0EiOzqdj), [こおろぎ'73](https://open.spotify.com/artist/3TJSKlL7gTxAqVKpzuRPtw) | [テレビアニメ放送40周年記念ドラえもん うたのコレクション](https://open.spotify.com/album/2z7ZCvngxAsF4GvFHaXZUx) | 2:17 | 2021-10-07 |  |
-| [めぐりあい](https://open.spotify.com/track/4tbhACZfGzzsyWAe65uY8S) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [めぐりあい](https://open.spotify.com/album/7laEqm4NggEgKK68Qg9L1s) | 4:23 | 2021-10-07 |  |
+| [めぐりあい](https://open.spotify.com/track/4tbhACZfGzzsyWAe65uY8S) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [めぐりあい](https://open.spotify.com/album/7laEqm4NggEgKK68Qg9L1s) | 0:29 | 2021-10-07 |  |
 | [やさしさに包まれたなら](https://open.spotify.com/track/3CtnuBSfdpoxHglOGGPgmU) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [MISSLIM](https://open.spotify.com/album/7tiG9XMFiw4BCDH19xn9TO) | 3:11 | 2021-10-07 |  |
 | [アニメじゃない〜夢を忘れた古い地球人よ](https://open.spotify.com/track/28ACIDtyN78mOR0sx8PoAn) | [新井正人](https://open.spotify.com/artist/7hMxnHHsLMWePQQvmyFDjT) | [アニメじゃない〜夢を忘れた古い地球人よ](https://open.spotify.com/album/1oxQkwYrG93I53Y8yfcNZ8) | 4:05 | 2021-10-07 | 2022-06-22 |
 | [オタスケマンの歌](https://open.spotify.com/track/6DY51JWmOsHqsr0OhtOxE3) | [山本まさゆき](https://open.spotify.com/artist/7HsndLdK7mnsnqAjIeCHoD), [少年少女合唱団みずうみ](https://open.spotify.com/artist/0hW8Ve499ZAxIM9LD0reCX) | [タイムボカン名曲の夕べ](https://open.spotify.com/album/29CjCxgT9NOdOOHNpkXGfT) | 3:35 | 2021-10-07 |  |
@@ -42,7 +42,7 @@
 | [君をのせて\(天空の城ラピュタ\)](https://open.spotify.com/track/79AAajz0vc1yhspn9P4ZwB) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [スタジオジブリの歌 \-増補盤\-](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 3:20 | 2021-10-07 |  |
 | [哀 戦士](https://open.spotify.com/track/2qHFdjgqzmd8Bw4J4CImaY) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [哀 戦士](https://open.spotify.com/album/1JLAdPPA3zVr6nXpgPocgc) | 3:51 | 2021-10-07 |  |
 | [夏のミラージュ](https://open.spotify.com/track/17QmZTdwAkTB3b9rGLNbur) | [Kanako Wada](https://open.spotify.com/artist/1YincourPAP98F71R1rglp) | [Esquisse\(エスキース\)](https://open.spotify.com/album/41ka6U4rOJel17t5UI8Fvl) | 4:31 | 2021-10-07 |  |
-| [夢を信じて](https://open.spotify.com/track/0cgqntmosOzsF1Y3LACcC7) | [Hideaki Tokunaga](https://open.spotify.com/artist/2FTUpyPZ3hqBPLwmaEH14B) | [シングルコレクション<1986\~1991>](https://open.spotify.com/album/2RflyhEsb4RlZH5NY4hogE) | 4:49 | 2021-10-07 |  |
+| [夢を信じて](https://open.spotify.com/track/0cgqntmosOzsF1Y3LACcC7) | [Hideaki Tokunaga](https://open.spotify.com/artist/2FTUpyPZ3hqBPLwmaEH14B) | [シングルコレクション<1986\~1991>](https://open.spotify.com/album/2RflyhEsb4RlZH5NY4hogE) | 0:29 | 2021-10-07 |  |
 | [孤独の唄](https://open.spotify.com/track/0KFodTmf9SvZD2viwtO8uw) | [Tomio Umezawa](https://open.spotify.com/artist/5JlC66Cy8ozai9xAtbehGz) | [梅沢富美男ベスト \~夢芝居](https://open.spotify.com/album/70FlvmqqjmVeEL67k998fA) | 3:45 | 2021-10-07 |  |
 | [恋はくえすちょん](https://open.spotify.com/track/3QIqA4XilRURrB1Efvynmv) | [Onyanko Club](https://open.spotify.com/artist/5qahyxUWCUPR8C1vuGozmH) | [NON\-STOP おニャン子](https://open.spotify.com/album/2Yoyu0axwOIB9rGkxTewXJ) | 3:10 | 2021-10-07 |  |
 | [悲しみはBEATに変えて\~Rise and Shine\~](https://open.spotify.com/track/4jHquaG92Yq7rL8W6VuezN) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [陽あたり良好! オリジナル・ソング・ブック](https://open.spotify.com/album/0TXnjVzRuZPw1q9Dr7AqGU) | 5:00 | 2021-10-07 |  |

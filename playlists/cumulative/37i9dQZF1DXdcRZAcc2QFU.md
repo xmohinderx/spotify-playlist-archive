@@ -4,7 +4,7 @@
 
 > ‘90s melodies that hit the right spot! Cover: Udit Narayan
 
-51 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/1ULXHWPXGv5rFqwLpYY2CM)
+51 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/1ULXHWPXGv5rFqwLpYY2CM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Chaiyya Chaiyya](https://open.spotify.com/track/5H4rKylLnO8KrmdXTRhj5s) | [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Sapna Awasthi](https://open.spotify.com/artist/2tFjeCx8NJhn7JBTTiWT30) | [Dil Se \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz) | 6:56 | 2021-11-26 |  |
 | [Chandi Ki Daal Par](https://open.spotify.com/track/6oHNgSch467ChjJwSMlIsw) | [Salman Khan](https://open.spotify.com/artist/68ePdYvtRgq9CiPzv6fapI), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Hello Brother \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0BkkwJ8uGVGTP47Sg2HXhN) | 6:07 | 2021-11-26 |  |
 | [Chehra Kya Dekhte Ho \(From "Salaami"\)](https://open.spotify.com/track/0CmJspKqxntfxL7wx7UzVs) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Suron Ki Mallika \- Asha Bhosle](https://open.spotify.com/album/2WUQrdLpwQLDeMYZvpMGlN) | 6:04 | 2021-11-26 |  |
-| [Choli Ke Peeche \(From "Khal Nayak"\)](https://open.spotify.com/track/70sjgqqoz3wQ6haG7PmDck) | [Alka Yagnik & Arvind Hasabnish](https://open.spotify.com/artist/5TTV6plK4r2BDMUyyl7cC9), [Laxmikant–Pyarelal](https://open.spotify.com/artist/3yS84AjNFqhmuJlIXy7sax), [Ila Arun](https://open.spotify.com/artist/5zWKMBKw7KqulFxyz2ULvp) | [Khalnayak \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ZZlnsfX7EgcNjNvl1XLnT) | 8:36 | 2021-11-26 |  |
+| [Choli Ke Peeche \(From "Khal Nayak"\)](https://open.spotify.com/track/70sjgqqoz3wQ6haG7PmDck) | [Alka Yagnik & Arvind Hasabnish](https://open.spotify.com/artist/5TTV6plK4r2BDMUyyl7cC9), [Laxmikant–Pyarelal](https://open.spotify.com/artist/3yS84AjNFqhmuJlIXy7sax), [Ila Arun](https://open.spotify.com/artist/5zWKMBKw7KqulFxyz2ULvp) | [Khalnayak \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ZZlnsfX7EgcNjNvl1XLnT) | 0:29 | 2021-11-26 |  |
 | [Chura Ke Dil Mera](https://open.spotify.com/track/4P4NsWdqLziZpEteU1uFCI) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Main Khiladi Tu Anari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1RS7g5vd7ohFf8dK2AFgcK) | 7:54 | 2021-11-26 |  |
 | [Chura Ke Dil Mera \(From "Main Khiladi Tu Anari"\)](https://open.spotify.com/track/2k2wbpYLNBmaI6o06KWOgN) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Legendary Hits of Kumar Sanu & Alka Yagnik](https://open.spotify.com/album/4SQPL01wN0WQG7wSgQSYlc) | 7:54 | 2021-11-26 | 2022-01-05 |
 | [Deewana Main Chala](https://open.spotify.com/track/025Y9d4a1rtJcfB8XInzRc) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Pyaar Kiya To Darna Kya](https://open.spotify.com/album/1qvXEHskZGV4XZVBFd7lFP) | 5:30 | 2021-11-26 |  |

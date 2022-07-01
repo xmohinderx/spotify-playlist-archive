@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 
 > <a href="spotify:artist:3AN049igIAaoX0fjTCkpnf">Jennifer Cardini</a>'s favorite tracks\. Updated regularly\. Curated by Jennifer Cardini\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,337 likes - 70 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,340 likes - 70 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 | 14 | [Ghost of Chance](https://open.spotify.com/track/0NYoKI1pNqRI3W3Bd7vIpb) | [Pablo Bozzi](https://open.spotify.com/artist/4DZM1e3XBfgjFkQkR1LKQL) | [Ghost of Chance](https://open.spotify.com/album/2hGcadCRDzHq5pnk9bXc4v) | 6:27 |
 | 15 | [Chaser](https://open.spotify.com/track/23amdGss9M8IsqPYVOSjgk) | [High Fidelity](https://open.spotify.com/artist/3dT0jnqd5jvO095yE9qMEb) | [Chaser](https://open.spotify.com/album/6miF1egb56mZUr17xeNJI3) | 5:55 |
 | 16 | [Dance When The](https://open.spotify.com/track/3KugieyOld4NIOBB7c4136) | [Eden Burns](https://open.spotify.com/artist/6lItMkb0pYOU1DvFUWgYo2) | [Big Beat Manifesto Vol\. V](https://open.spotify.com/album/73qqk6hd5Okw6WQxMKaXOo) | 5:47 |
-| 17 | [Acperience 1](https://open.spotify.com/track/2IQ61J0AFfjnxBm4lQEU0W) | [Hardfloor](https://open.spotify.com/artist/6z9JhbmcTrVKITp9ah4mJk) | [TB Resucitation](https://open.spotify.com/album/2ucG4BEW3uOUQgjdJ9c5GN) | 9:02 |
+| 17 | [Acperience 1](https://open.spotify.com/track/2IQ61J0AFfjnxBm4lQEU0W) | [Hardfloor](https://open.spotify.com/artist/6z9JhbmcTrVKITp9ah4mJk) | [TB Resucitation](https://open.spotify.com/album/2ucG4BEW3uOUQgjdJ9c5GN) | 0:29 |
 | 18 | [Climax](https://open.spotify.com/track/4CuGnOLXcQuGU4ADch3W36) | [John Noseda](https://open.spotify.com/artist/1GHQDN0HXk1MVl7zyhqlXA) | [You Can Trust a Man with a Moustache Vol 4](https://open.spotify.com/album/74iVSH0DY3r4HN57qc9FB0) | 5:44 |
 | 19 | [Vector](https://open.spotify.com/track/33UNDFAWm5AO0IyVptTYYy) | [Delphi](https://open.spotify.com/artist/0FxxlEAfGqWZySxlKiEjCe) | [Unleashed Tapes Vol\. 3](https://open.spotify.com/album/2xkNTvBfJLndd7htE0O5Hk) | 4:36 |
 | 20 | [Momentum](https://open.spotify.com/track/3Rte4wbzl6hNuKlbamI5lz) | [Amarcord](https://open.spotify.com/artist/48wxf1us9rk9qOPqL6Ltcp) | [Momentum](https://open.spotify.com/album/6gYFfd1jYQw7DbX2IA9oMl) | 4:25 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 | 62 | [Dream Ritual](https://open.spotify.com/track/0gvvZlRPwWkcPtrMNgY5N4) | [Paramida](https://open.spotify.com/artist/3bFxfwnZ1vmvzoNYz8z2vh) | [Dream Ritual](https://open.spotify.com/album/0MQJ6H8BRzGyEDx0RrCTCY) | 7:10 |
 | 63 | [Tell Me Why \- M&M Full Vocal](https://open.spotify.com/track/68cpQ6mpnMiE96PbUwJs7q) | [Rachel Wallace](https://open.spotify.com/artist/2wfU1vhvZxd5wBQFsWkH5b) | [Tell Me Why](https://open.spotify.com/album/4LAeJVXkFuJmcIpZ5XMW6Q) | 4:43 |
 | 64 | [Feelings](https://open.spotify.com/track/45NI7zJYwbY7iEvkgRl1y6) | [N&W](https://open.spotify.com/artist/5TFFHlKvP8IUtum3TB4ZmR) | [Feelings](https://open.spotify.com/album/3yCPWKHja3fYgXAV2MNYfB) | 4:35 |
-| 65 | [Lush Life](https://open.spotify.com/track/4XkuBnhvrRLJg3TvHay3W8) | [Superpitcher](https://open.spotify.com/artist/55BdmUTmTmoUNOFQxm54k5), [Fantastic Twins](https://open.spotify.com/artist/6da8OOYjq640zH3b4e4wci) | [Lush Life](https://open.spotify.com/album/7wAG08EkVojJORs48iThNm) | 9:42 |
+| 65 | [Lush Life](https://open.spotify.com/track/4XkuBnhvrRLJg3TvHay3W8) | [Superpitcher](https://open.spotify.com/artist/55BdmUTmTmoUNOFQxm54k5), [Fantastic Twins](https://open.spotify.com/artist/6da8OOYjq640zH3b4e4wci) | [Lush Life](https://open.spotify.com/album/7wAG08EkVojJORs48iThNm) | 0:29 |
 | 66 | [Magic](https://open.spotify.com/track/0DbW2bBLUHII0X4p5l3hAf) | [REES](https://open.spotify.com/artist/4DsD95lJoAXFmrh7vhL6MU) | [Magic](https://open.spotify.com/album/6PmXQbhaQw4M3zlKSVHS6s) | 5:05 |
 | 67 | [Praise & Sin](https://open.spotify.com/track/1x65MtQJuPcbZX8LEggAyr) | [Count Van Delicious](https://open.spotify.com/artist/1MRNQb9yUQonegcr2megMX) | [Praise & Sin](https://open.spotify.com/album/2oaYdzfdB0HNu9b15Ouqey) | 5:53 |
 | 68 | [Fear of Flying](https://open.spotify.com/track/4FfMTu8NY9v2zNw1JHNEKW) | [Vitamin C](https://open.spotify.com/artist/3OsUvoKmZA2gw8rETtxGlz) | [Vitamin C](https://open.spotify.com/album/1LbkPqgfdATHN9nonNp1np) | 3:15 |

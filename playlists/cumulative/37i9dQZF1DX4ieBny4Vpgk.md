@@ -4,7 +4,7 @@
 
 > Vocal jazz favorites from 2021\. Cover: Veronica Swift
 
-54 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/60p5YX6EhMvmlI8rfgDUBd)
+54 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/60p5YX6EhMvmlI8rfgDUBd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Because He Lives](https://open.spotify.com/track/4V5dQ0bZ75SSHMKt8W9RKh) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Alone With My Faith](https://open.spotify.com/album/7gMSKwzQlQMV55DTf2mYbU) | 3:33 | 2021-12-01 |  |
 | [Because I Love You](https://open.spotify.com/track/4nf5wpXpZ1WVF0SCdl3tLb) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Romain Collin](https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV) | [Because I Love You](https://open.spotify.com/album/35qbEfm5IdIPTzJxS51fT5) | 4:10 | 2021-12-01 |  |
 | [Blackbird](https://open.spotify.com/track/3UPIDPuF9VtCdiaehkIkxl) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Black Acid Soul](https://open.spotify.com/album/50rbF4FiainFjqW5wWIASV) | 4:00 | 2021-12-01 |  |
-| [Blackbird Sing](https://open.spotify.com/track/0j4eYL0EQAAeUiKqkmQnUG) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [Blackbird Sing](https://open.spotify.com/album/1TNnOqAC5n4zLuYSilIcWB) | 3:29 | 2021-12-01 |  |
+| [Blackbird Sing](https://open.spotify.com/track/0j4eYL0EQAAeUiKqkmQnUG) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [Blackbird Sing](https://open.spotify.com/album/1TNnOqAC5n4zLuYSilIcWB) | 0:29 | 2021-12-01 |  |
 | [Bloodline](https://open.spotify.com/track/6E2xSghivZVmTTy3m0NNHS) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Bloodline](https://open.spotify.com/album/0sw9A3w2cRMHywBMmMUD3h) | 3:49 | 2021-12-01 |  |
 | [Born In The Dark](https://open.spotify.com/track/1BqN5U71j779zCZlPRpWpk) | [Eric Hutchinson](https://open.spotify.com/artist/39x8gyJjTHiBQklFgVJSV4) | [Before & After Life](https://open.spotify.com/album/0gbO5q0USgCkccD7CpCiwE) | 5:17 | 2021-12-01 |  |
 | [But Beautiful](https://open.spotify.com/track/7mOnmZ2OWGfNMXEBIf3aUS) | [Mandy Barnett](https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO) | [Every Star Above](https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t) | 3:55 | 2021-12-01 |  |
@@ -43,7 +43,7 @@
 | [Love For Sale](https://open.spotify.com/track/4biVNJdcVpAljZjpiO9B4Z) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Love For Sale \(Deluxe\)](https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs) | 3:40 | 2021-12-01 |  |
 | [Lover Man \(Oh, Where Can You Be?\)](https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Lover Man \(Oh, Where Can You Be?\)](https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt) | 3:03 | 2021-12-01 |  |
 | [Making Room](https://open.spotify.com/track/5QRfxsSpzpWqzw4v3vKTCH) | [Kelly Schenk](https://open.spotify.com/artist/3kHGDGEmX8EWocacdi5Ijk) | [Making Room](https://open.spotify.com/album/4Dca3AwituUnPJFqTMTolt) | 4:19 | 2021-12-01 |  |
-| [Most of the Time](https://open.spotify.com/track/7e24GhiKpJF41P3gZLz0GZ) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Most of the Time](https://open.spotify.com/album/6pc1rk5fKEg0RQgFwHKmTz) | 3:49 | 2021-12-01 |  |
+| [Most of the Time](https://open.spotify.com/track/7e24GhiKpJF41P3gZLz0GZ) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Most of the Time](https://open.spotify.com/album/6pc1rk5fKEg0RQgFwHKmTz) | 0:29 | 2021-12-01 |  |
 | [My Baby Just Cares for Me](https://open.spotify.com/track/63GvtdKbAbi2feQxp0DBpA) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Ledisi Sings Nina](https://open.spotify.com/album/0uRNGjcdUeOG9aekGr1cvc) | 3:39 | 2021-12-01 |  |
 | [Nightjar in the Northern Sky](https://open.spotify.com/track/5fCsD2cRqXf0q5JAGTrmez) | [Anna Gréta](https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh) | [Nightjar in the Northern Sky](https://open.spotify.com/album/5xFn6wFCZJ3DTJwzEzaFEV) | 4:47 | 2021-12-01 |  |
 | [On the Sunny Side of the Street](https://open.spotify.com/track/2Vo9c2eCZo4bEvKxjPB1DQ) | [Aubrey Logan](https://open.spotify.com/artist/5GIBLQgzkZKjBDRhVQ4j1z) | [Standard](https://open.spotify.com/album/6I0FZZ7m5ARsvX7LSpLzjm) | 2:42 | 2021-12-01 |  |
@@ -56,7 +56,7 @@
 | [Tennessee Waltz](https://open.spotify.com/track/3ny8nQgtVNYImdFUsnQCVu) | [Michael Stephenson](https://open.spotify.com/artist/2hLykFY0OkRxdzJAaidlzk), [Alexander Claffy](https://open.spotify.com/artist/68A73mdUJaTyVodPFbfDnG) | [Michael Stephenson Meets Alexander Claffy with His Trio](https://open.spotify.com/album/63HR7Pua22qQmmrEsRQr9m) | 3:42 | 2021-12-01 |  |
 | [That Sunday, That Summer](https://open.spotify.com/track/7bOzuRefqATOwm51tIHrwC) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [That Sunday, That Summer](https://open.spotify.com/album/70RwrutvusAPfhcn8nfz6G) | 3:05 | 2021-12-01 |  |
 | [The Art of Conversation](https://open.spotify.com/track/2sFdFdSACqUlbZVKgcRkdE) | [Leo Sidran](https://open.spotify.com/artist/2HpgbqUcGmk4M2dG9wph1h), [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [The Art of Conversation](https://open.spotify.com/album/5sWjtKDgxyGlJfQsTmafMD) | 4:26 | 2021-12-01 |  |
-| [Together Alone](https://open.spotify.com/track/55f6EReAsgNQOFvQaa31yH) | [Samantha Schultz](https://open.spotify.com/artist/7qBUZQ7O7UNpBgD23MIM3v) | [Together Alone](https://open.spotify.com/album/0ThfLn7C5R8BmAm5CPoBV1) | 3:53 | 2021-12-01 |  |
+| [Together Alone](https://open.spotify.com/track/55f6EReAsgNQOFvQaa31yH) | [Samantha Schultz](https://open.spotify.com/artist/7qBUZQ7O7UNpBgD23MIM3v) | [Together Alone](https://open.spotify.com/album/0ThfLn7C5R8BmAm5CPoBV1) | 0:29 | 2021-12-01 |  |
 | [Tulip or Turnip](https://open.spotify.com/track/3cUAaME7HSpybewW5Ttgjz) | [Sarah King](https://open.spotify.com/artist/6N1eTTbmPXYZBXTgZ7j0fp) | [Tulip or Turnip](https://open.spotify.com/album/3xd500c2VRHn9jiptMwE53) | 3:03 | 2021-12-01 |  |
 | [Velvet Curtains \(feat\. Håkon Kornstad\)](https://open.spotify.com/track/4KQeK139AeuEReloc32iTE) | [Silje Nergaard](https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc), [Håkon Kornstad](https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2) | [Houses](https://open.spotify.com/album/00XRqdZCwGTsMBmM56yZtd) | 6:11 | 2021-12-01 |  |
 | [You Don't Know Me](https://open.spotify.com/track/7o8q6PWBhavXyOSsDMQOhO) | [Steve Tyrell](https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B) | [You Don't Know Me](https://open.spotify.com/album/5cV8S9D9OGM8nxzUKjLfwy) | 3:26 | 2021-12-01 |  |

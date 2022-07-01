@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQlAcQVKgKf.md) - [plain]
 
 > The sexy queen! Check out HyunA's music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,620 likes - 57 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,672 likes - 57 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQlAcQVKgKf.md) - [plain]
 | 12 | [Party, Feel, Love \(Feat\. DAWN\)](https://open.spotify.com/track/2qR6lpnGS9AldPdElbzJ53) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F) | [I’m Not Cool](https://open.spotify.com/album/3aqj5OK6GGIZ1Bejw7g0JW) | 3:29 |
 | 13 | [FLOWER SHOWER](https://open.spotify.com/track/3wljaQ1KBCAMnPxCPDEUsC) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [FLOWER SHOWER](https://open.spotify.com/album/2SUtN48rlxa2SfTtffOnlR) | 3:08 |
 | 14 | [Lip & Hip](https://open.spotify.com/track/5C2d3tz8WACjmw7T6TthQ2) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Lip & Hip](https://open.spotify.com/album/01Dv8rPO2AvHogy6uDkb1t) | 3:29 |
-| 15 | [Cause I'm God Girl](https://open.spotify.com/track/0AgMJriVSGWjN8WLaCqnDv) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [Il Hoon Jung](https://open.spotify.com/artist/38msH2cFK8ui3GvbWqumqk) | [A+](https://open.spotify.com/album/2lCP8HWiKphRT1pmtn0zYw) | 3:22 |
+| 15 | [Cause I'm God Girl](https://open.spotify.com/track/0AgMJriVSGWjN8WLaCqnDv) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [Il Hoon Jung](https://open.spotify.com/artist/38msH2cFK8ui3GvbWqumqk) | [A+](https://open.spotify.com/album/2lCP8HWiKphRT1pmtn0zYw) | 0:29 |
 | 16 | [Red](https://open.spotify.com/track/1kPJiJ3N8cuw5Kzev8Ilu0) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [A Talk](https://open.spotify.com/album/78Ei6os3WDar0sgVlGz0yJ) | 3:19 |
 | 17 | [Bubble Pop!](https://open.spotify.com/track/59JkwCdGIMTZYb0j75vebU) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Bubble Pop!](https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp) | 3:32 |
 | 18 | [BABE](https://open.spotify.com/track/5kFakScPV7ZWXStUSvQmxA) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Following](https://open.spotify.com/album/1CIrwYW5dQ8APIX7IaAOAU) | 3:13 |
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQlAcQVKgKf.md) - [plain]
 | 29 | [Freaky](https://open.spotify.com/track/5YLnTUkaycgu2u8CvQRWSm) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [A\`wesome](https://open.spotify.com/album/7MxQlxbJRYm9mZr8spbBke) | 3:17 |
 | 30 | [Wolf](https://open.spotify.com/track/4sK554bQI0vLKWS2jEmpi7) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [Hanhae](https://open.spotify.com/artist/1CjHzclPOS2unF1vRtgurF) | [A\`wesome](https://open.spotify.com/album/7MxQlxbJRYm9mZr8spbBke) | 3:54 |
 | 31 | [Say you love me](https://open.spotify.com/track/35FuyotQe6ViXcpbAw2MXW) | [Gina](https://open.spotify.com/artist/0yLJhwFVWO6K7sDah3PUdL), [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Together Forever Vol\. 1](https://open.spotify.com/album/18GvXb9JVpiUVzh6848Blb) | 3:03 |
-| 32 | [Ice Ice](https://open.spotify.com/track/142KEuaZKcjpSqYybDu68D) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [Ji Dam Yook](https://open.spotify.com/artist/0q5mCOaqzgDnmthha6f4W7) | [A+](https://open.spotify.com/album/2lCP8HWiKphRT1pmtn0zYw) | 3:16 |
-| 33 | [Get Outta My House](https://open.spotify.com/track/3IH4uDZKlyodQsR1e9RDjj) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [Jung Yeol Kwon](https://open.spotify.com/artist/6WymcE59cneCq28juiL850) | [A+](https://open.spotify.com/album/2lCP8HWiKphRT1pmtn0zYw) | 3:22 |
-| 34 | [Serene](https://open.spotify.com/track/3PtpqAHDppoQ4EPaQmqExM) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [A+](https://open.spotify.com/album/2lCP8HWiKphRT1pmtn0zYw) | 3:42 |
+| 32 | [Ice Ice](https://open.spotify.com/track/142KEuaZKcjpSqYybDu68D) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [Ji Dam Yook](https://open.spotify.com/artist/0q5mCOaqzgDnmthha6f4W7) | [A+](https://open.spotify.com/album/2lCP8HWiKphRT1pmtn0zYw) | 0:29 |
+| 33 | [Get Outta My House](https://open.spotify.com/track/3IH4uDZKlyodQsR1e9RDjj) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [Jung Yeol Kwon](https://open.spotify.com/artist/6WymcE59cneCq28juiL850) | [A+](https://open.spotify.com/album/2lCP8HWiKphRT1pmtn0zYw) | 0:29 |
+| 34 | [Serene](https://open.spotify.com/track/3PtpqAHDppoQ4EPaQmqExM) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [A+](https://open.spotify.com/album/2lCP8HWiKphRT1pmtn0zYw) | 0:29 |
 | 35 | [A Talk](https://open.spotify.com/track/3LhzNNohNcHfnR36wjKP1M) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [A Talk](https://open.spotify.com/album/78Ei6os3WDar0sgVlGz0yJ) | 1:19 |
 | 36 | [FRENCH KISS](https://open.spotify.com/track/2b7Kon2nTvTDOX4CQ7sFPL) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [A Talk](https://open.spotify.com/album/78Ei6os3WDar0sgVlGz0yJ) | 3:11 |
 | 37 | [Blacklist \(Feat\. LE\)](https://open.spotify.com/track/4FNEiAZkTqkdCgcUtBVu9E) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [LE](https://open.spotify.com/artist/5h0QnpgJxd77A8UXYrcvhy) | [A Talk](https://open.spotify.com/album/78Ei6os3WDar0sgVlGz0yJ) | 3:29 |

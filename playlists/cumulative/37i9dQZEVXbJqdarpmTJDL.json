@@ -13704,6 +13704,28 @@
     },
     {
       "album": {
+        "name": "Selini",
+        "url": "https://open.spotify.com/album/4HoGrtxOYX94I868u270Km"
+      },
+      "artists": [
+        {
+          "name": "Ellize",
+          "url": "https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH"
+        },
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/71cZMt4XdCynLn983qeFow"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210841,
+      "name": "Selini",
+      "url": "https://open.spotify.com/track/4EaKNyW2lUIykej48Ph7SN"
+    },
+    {
+      "album": {
         "name": "Money and Drugs Can't Live In Poverty",
         "url": "https://open.spotify.com/album/4Q0nPhizN3vwTyzlvskQkC"
       },
@@ -13723,7 +13745,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 182582,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/55Iej8nAWkAD7QlgQfpiJp"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 
 > From Taiwan to all the mandarin\-speaking regions, young generation is looking to hip\-hop for expression\. Cover: MC HotDog \(熱狗\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,362 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,370 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 14 | [巷弄多情 \(Flossy\)](https://open.spotify.com/track/6OOvWj5yxBjIA8BLryy6Tq) | [Bolly](https://open.spotify.com/artist/5plw5T9XNykcYu3a6ZWCAW), [Gil.G](https://open.spotify.com/artist/5djEKQT5LKhpOwtdB5Zcbq) | [巷弄多情 \(Flossy\)](https://open.spotify.com/album/7jGIO5vP9SBN1c2uSR6W8h) | 3:01 |
 | 15 | [Dumo](https://open.spotify.com/track/793I7JODmD7JX7O9PkYSpy) | [Vinida Weng](https://open.spotify.com/artist/6oYvpkS6pM9ts4nbXRaINg) | [Dumo](https://open.spotify.com/album/0A3I4bifQBXXDwDptRQ89a) | 3:04 |
 | 16 | [熟成綠茶\(feat.艾瑞\)](https://open.spotify.com/track/51JjmGS6JgEm2TfjrLhAUH) | [方立維 ALI](https://open.spotify.com/artist/5oiYskVLYnZXoPDYJU3NHc), [艾瑞](https://open.spotify.com/artist/7pYoJ7Feoy97o7MHFx6qV1) | [熟成綠茶\(feat.艾瑞\)](https://open.spotify.com/album/5GblSyqoUZ8Pm65sTUQVcj) | 3:29 |
-| 17 | [SB的逆襲](https://open.spotify.com/track/0Z08g6HfRgXaVUkjUOoe6g) | [B.T.O.D](https://open.spotify.com/artist/0J3mq4yDXJf0WeO5s4gnbl) | [SB的逆襲](https://open.spotify.com/album/4oQEIgUamsklxojIWK4awk) | 3:06 |
+| 17 | [SB的逆襲 feat\. Spark皇毅](https://open.spotify.com/track/0Z08g6HfRgXaVUkjUOoe6g) | [B.T.O.D](https://open.spotify.com/artist/0J3mq4yDXJf0WeO5s4gnbl), [Spark 皇毅](https://open.spotify.com/artist/2u725US4lQSMSwhtf2YvcR) | [SB的逆襲 feat\. Spark皇毅](https://open.spotify.com/album/4oQEIgUamsklxojIWK4awk) | 3:06 |
 | 18 | [NFT](https://open.spotify.com/track/5xlKFvRWeWECMHDbblKC9W) | [MC HotDog](https://open.spotify.com/artist/4maR8o69pil8CrclOiFVVW) | [NFT](https://open.spotify.com/album/6cArwyqwTDxtB356C0Yqxx) | 3:09 |
 | 19 | [鬼胎](https://open.spotify.com/track/2ElzMpQTWLnWUGeSEJR7g0) | [魚乾](https://open.spotify.com/artist/22ktJGHPLghoGrOoZa4Jk7) | [鬼胎](https://open.spotify.com/album/6cOKebPUsc2lNUR4wtdy39) | 3:08 |
 | 20 | [煉乳](https://open.spotify.com/track/3jDcuruyLjUkmm62wAZKLY) | [Damon孟緯](https://open.spotify.com/artist/5O0FEgp6EeIw3XteK0ipac), [呆伯特](https://open.spotify.com/artist/2pbYXlBAJWfsAgtI6WL9gi) | [煉乳](https://open.spotify.com/album/47LhR3PYIsVaOUVPCpU8mX) | 2:43 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 26 | [五年](https://open.spotify.com/track/4qYS0QtqTx6Rwq0VDyPe4l) | [Jayden T](https://open.spotify.com/artist/1QJdKypAIxPbGrP2ISGNsP) | [五年](https://open.spotify.com/album/1NzEGnIRz5xvCyBXlHVtxh) | 3:49 |
 | 27 | [習慣](https://open.spotify.com/track/4lZ32o2qgyJjkaOxunePOw) | [ZL7](https://open.spotify.com/artist/1RUGX6XkAnOk25OZBjwXjX), [Flomosa Media](https://open.spotify.com/artist/5GMBqjlvRxThEATjgXnqiB) | [習慣](https://open.spotify.com/album/36wPnom8zAaUaq0Es9RVQJ) | 3:26 |
 | 28 | [妳不離開我都在](https://open.spotify.com/track/7fAb1HEt39TvsJeQ3tO21l) | [XIANG](https://open.spotify.com/artist/4Z5zA4xz2K3si2EzO2GbiS), [PPlin](https://open.spotify.com/artist/6w4UFdB9juoTUzWhBJeOlw) | [妳不離開我都在](https://open.spotify.com/album/37bip9SQ6MXp8gCoczXQUd) | 2:41 |
-| 29 | [212](https://open.spotify.com/track/4G0AxSsM4G4CcWmOhHXpXU) | [李宜柏PAULYBLEE](https://open.spotify.com/artist/6rCZx04nawchlA7kTA0c9v) | [212](https://open.spotify.com/album/6GQRC4peZzBbzFY2bl0FNd) | 2:44 |
+| 29 | [212](https://open.spotify.com/track/4G0AxSsM4G4CcWmOhHXpXU) | [李宜柏PAULYBLEE](https://open.spotify.com/artist/6rCZx04nawchlA7kTA0c9v) | [212](https://open.spotify.com/album/6GQRC4peZzBbzFY2bl0FNd) | 0:29 |
 | 30 | [烏有](https://open.spotify.com/track/1jKJOUckSjJxQYf8Fdhxrf) | [同理 Zunya](https://open.spotify.com/artist/3tsoImRDSW4JEcL2CdIUmo) | [同理](https://open.spotify.com/album/4nT7s21AuoufYR4FcLqvKR) | 2:58 |
 | 31 | [Love is Love](https://open.spotify.com/track/2eXB0rZTY7FenvsmrY9Qb4) | [痞爺](https://open.spotify.com/artist/73G9tzZhnkWwHWP0rF2jfB) | [Heart 2 Heart](https://open.spotify.com/album/11Zt0iCZwtjFaZHxxEFzcl) | 3:22 |
 | 32 | [Fall Down](https://open.spotify.com/track/5soKd4hFEkpR2pqkGiWYIE) | [Cykko](https://open.spotify.com/artist/6gQ5lg2r9qzumBycPid5Va) | [Fall Down](https://open.spotify.com/album/2GxzyYNaGytdG7bIwSkGXY) | 2:49 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 42 | [Last Summer](https://open.spotify.com/track/0dlsXsg8Ch0a8yXlwkbE6T) | [Sl!ce](https://open.spotify.com/artist/4bJUbD6HkkVIVKmYYmKyIC) | [!NTO](https://open.spotify.com/album/3W4T7867lQuPCCZnTvdglU) | 2:14 |
 | 43 | [Got You on My Mind \(森林 Version\) \- WINDIE 收OUT!](https://open.spotify.com/track/6kZpy6xc2CRZKLMh2uCLKR) | [桃子A1J](https://open.spotify.com/artist/2imhfeJHce0YEYv9msgqMC) | [Got You on My Mind \(森林 Version\) \- WINDIE 收OUT!](https://open.spotify.com/album/30ArzCq3xIj3OAFP0Uv8XC) | 3:35 |
 | 44 | [黑夜白晝](https://open.spotify.com/track/0TcVeoefefPHMxwub8lUY0) | [小王子](https://open.spotify.com/artist/7fVfDPQNxwLJT9ryj2kMvI) | [黑夜白晝](https://open.spotify.com/album/4FSPyjLfKydENTPMgxZVg0) | 3:00 |
-| 45 | [HOMESICK](https://open.spotify.com/track/14AHfTN3CXFiaLuilTjRIL) | [Diverseddie](https://open.spotify.com/artist/3aia8Qn8pZXJldrYzQqOOq) | [HOMESICK](https://open.spotify.com/album/6luQqRpyitjgUCIUd2jn5B) | 3:11 |
+| 45 | [HOMESICK](https://open.spotify.com/track/14AHfTN3CXFiaLuilTjRIL) | [Diverseddie](https://open.spotify.com/artist/3aia8Qn8pZXJldrYzQqOOq) | [HOMESICK](https://open.spotify.com/album/6luQqRpyitjgUCIUd2jn5B) | 0:29 |
 | 46 | [Raingang \(feat\. Jessie.C & ZENBØ \)](https://open.spotify.com/track/07dCJAMCidbSuERYS4GDEo) | [Barry Chen](https://open.spotify.com/artist/45sDYsh1i1bXB3IRi04MTz), [Jessie.C](https://open.spotify.com/artist/3UGnBssh3rolZx5hyelLYY), [ZENBØ](https://open.spotify.com/artist/4Rh3HXq1VRYzQJ3rl2MUfG) | [Raingang \(feat\. Jessie.C & ZENBØ \)](https://open.spotify.com/album/1paJ7vDYsblQ4Xvu1XOHIF) | 3:38 |
 | 47 | [指針](https://open.spotify.com/track/4M8lN6T68TfZHSKlkddFY1) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [指針](https://open.spotify.com/album/199fdqkmbpLutKUAshUUdQ) | 2:14 |
 | 48 | [說走就走](https://open.spotify.com/track/4u2ZKOTSirSvlnEuY9KpWj) | [MC耀宗](https://open.spotify.com/artist/0P5VW67DISdcNKmRs18ldO), [艾瑞](https://open.spotify.com/artist/7pYoJ7Feoy97o7MHFx6qV1), [Zephyr Wu](https://open.spotify.com/artist/5eTBl95OAM2pdfOcTxrVYk) | [說走就走](https://open.spotify.com/album/2bM8neOD7vfiTdh3NPT6Bt) | 3:46 |

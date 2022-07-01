@@ -4,7 +4,7 @@
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-100 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/4uy9VQ5xFYSsl9GqZlixae)
+100 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/4uy9VQ5xFYSsl9GqZlixae)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [てんけてんけてん](https://open.spotify.com/track/4KBtZxEMmb5VIdhrY2xY99) | [DJ Ichiro Yatsui](https://open.spotify.com/artist/1HbQFEIRSmSyGpt30bmX74) | [てんけてんけてん](https://open.spotify.com/album/5RzOUNQfkxR5JUhrkkQZQO) | 5:13 | 2022-03-08 |  |
 | [となりのバナナ\(ひまわり組\)](https://open.spotify.com/track/1TfTaYHLN8znTDlhcCzQ6K) | [AKB48](https://open.spotify.com/artist/01wau5CL3Z1vfJJWkzBkqg) | [AKB48 ひまわり組 2nd stage 「夢を死なせるわけにいかない」 \~studio recordings コレクション\~](https://open.spotify.com/album/7eTgH1IvY1IyvJ5lS7BGpd) | 3:51 | 2022-03-08 |  |
 | [どどどどどりーまー](https://open.spotify.com/track/4gb4EnBnCV6JJzv7PLjZS6) | [Tokimeki Sendenbu](https://open.spotify.com/artist/2lqUcuIdIv7Qyuw19ukFKP) | [どどどどどりーまー](https://open.spotify.com/album/0GRwTRbjuclectAUk0Jh6o) | 4:11 | 2022-03-08 |  |
-| [なめこんぷりけ](https://open.spotify.com/track/53WoLSb0SZoLLo6njG9SCV) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [なめこのCD](https://open.spotify.com/album/0gxvXUJzINAiHpctlySR7T) | 3:17 | 2022-03-08 |  |
+| [なめこんぷりけ](https://open.spotify.com/track/53WoLSb0SZoLLo6njG9SCV) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [なめこのCD](https://open.spotify.com/album/0gxvXUJzINAiHpctlySR7T) | 0:29 | 2022-03-08 |  |
 | [はすっぱ](https://open.spotify.com/track/7cX1R3VUSnX2rPIBNSY2kb) | [Kishidan](https://open.spotify.com/artist/58WqD0AmJH03qw4AUN00Yx) | [万謡集](https://open.spotify.com/album/2iFMzTeny0SdTHzj0oJKD6) | 4:58 | 2022-03-08 |  |
 | [ぼくらのfrai awei](https://open.spotify.com/track/3tRsqyKXjvdJxFNLOB0D3t) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [ぼくらのfrai awei](https://open.spotify.com/album/3XPDxuGbwfNmkznwPpmSSg) | 4:23 | 2022-03-08 |  |
 | [らくらく全手動空間](https://open.spotify.com/track/26SLADj5TnYucH7blxXsJu) | [涼宮ハルヒちゃん \(CV.平野 綾\)](https://open.spotify.com/artist/25VUgQvIEuU3G2trDJy5fI), [長門有希 \(CV.茅原実里\)](https://open.spotify.com/artist/6sApso3RvtZgoqPpkWIdsB), [朝比奈みくる \(CV.後藤邑子\)](https://open.spotify.com/artist/2oAJCBpd56QFQcVmvTDhFn) | [らくらく全手動空間](https://open.spotify.com/album/3wO313NySmid0xuHA2MJGM) | 3:51 | 2022-03-08 |  |

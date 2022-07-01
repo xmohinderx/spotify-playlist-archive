@@ -4,14 +4,14 @@
 
 > Acoustic versions of well\-known songs.
 
-144 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/2gZT7bXJYkak1F0H80ajLr)
+144 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/2gZT7bXJYkak1F0H80ajLr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Long December](https://open.spotify.com/track/6DOoVmJg4Yw5ed4cEtsAKK) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [A Long December](https://open.spotify.com/album/2XHrRPNh9Vj0bLCo2p3DxA) | 2:42 | 2022-03-09 |  |
 | [American Tune](https://open.spotify.com/track/1nQv2QYty0lSfc5CCeLJAd) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [American Tune](https://open.spotify.com/album/2g2rX08oAA6EpTn6HFVGox) | 4:06 | 2021-12-09 |  |
 | [Anyone](https://open.spotify.com/track/0YhsOegsemgmT7ZHdWheUy) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Anyone](https://open.spotify.com/album/0KtdvlGTljVZ4D5Jarm4m8) | 2:52 | 2021-12-09 |  |
-| [Arcade](https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Arcade](https://open.spotify.com/album/0c5J1SUFA3rPbIZhK1kj62) | 2:28 | 2021-12-09 |  |
+| [Arcade](https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Arcade](https://open.spotify.com/album/0c5J1SUFA3rPbIZhK1kj62) | 0:29 | 2021-12-09 |  |
 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 | 2022-05-23 |  |
 | [Back For Good](https://open.spotify.com/track/0n3E6m57nDZJDyUHllaMDp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Back For Good](https://open.spotify.com/album/5OnXeyTWDJlOLdGYAa6ekD) | 3:14 | 2021-12-09 |  |
 | [Bad Habits](https://open.spotify.com/track/25TzyGcqLbVgC0H0kpYRjM) | [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Bad Habits](https://open.spotify.com/album/46M6KC4TbTMf4y39aZezz6) | 3:58 | 2021-12-09 |  |
@@ -62,7 +62,7 @@
 | [Ho Hey](https://open.spotify.com/track/3cfb2iNdWpf1EZ4KaBLOjm) | [Peter Ryans](https://open.spotify.com/artist/2d6l7CTjCeBUSQmQNcmNH0) | [American Girl](https://open.spotify.com/album/0EArGGTFL9r7Qhqg3tfXqG) | 2:40 | 2021-12-09 |  |
 | [Hold On](https://open.spotify.com/track/47GwIvmWNwmzurul1rFyJ2) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [Hold On](https://open.spotify.com/album/4UycA6we6inG3usBonCkN5) | 3:37 | 2021-12-09 |  |
 | [Hollywood's Bleeding](https://open.spotify.com/track/56twDecxsQon61crfEXrA5) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k), [Beck Pete](https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj) | [Hollywood's Bleeding](https://open.spotify.com/album/4O15gCnDaJvYAmG5q7nO1U) | 3:37 | 2021-12-09 |  |
-| [How Deep Is Your Love](https://open.spotify.com/track/1WSgNt0gyNHYNOkkMbNQdS) | [Denebi & Nordahl](https://open.spotify.com/artist/4A3r24KzFz3yX1YuX6iLGJ), [Moh Denebi](https://open.spotify.com/artist/3J98eO5qdJ2ps5NU9JdSLe), [Peter Nordahl](https://open.spotify.com/artist/5AMeI7M3JtXhriDpCqX1oK) | [How Deep Is Your Love](https://open.spotify.com/album/5QdvDFFNoC6eDJX9vF6h6U) | 2:53 | 2021-12-09 |  |
+| [How Deep Is Your Love](https://open.spotify.com/track/1WSgNt0gyNHYNOkkMbNQdS) | [Denebi & Nordahl](https://open.spotify.com/artist/4A3r24KzFz3yX1YuX6iLGJ), [Moh Denebi](https://open.spotify.com/artist/3J98eO5qdJ2ps5NU9JdSLe), [Peter Nordahl](https://open.spotify.com/artist/5AMeI7M3JtXhriDpCqX1oK) | [How Deep Is Your Love](https://open.spotify.com/album/5QdvDFFNoC6eDJX9vF6h6U) | 0:29 | 2021-12-09 |  |
 | [How To Disappear Completely](https://open.spotify.com/track/2LqQGBIiRPaWZfjA3HXAvf) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Leave Me Breathless](https://open.spotify.com/album/64q8FVttuqM8sKaUB1WyfV) | 3:03 | 2021-12-09 |  |
 | [How Will I Know](https://open.spotify.com/track/4k8tHY77zVUMwY4TyB18vS) | [April Darby](https://open.spotify.com/artist/3hYoiohAx0QaaQ6bKfBmyq) | [How Will I Know](https://open.spotify.com/album/3MMVkmufzMzArPQ4zTK99l) | 3:57 | 2021-12-09 |  |
 | [I Don't Wanna Live Forever \(Fifty Shades Darker\) \- Acoustic](https://open.spotify.com/track/3DiSg52IvK0nmFwsMKL7bB) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV), [Simon Samaeng](https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw) | [I Don't Wanna Live Forever \(Fifty Shades Darker\)](https://open.spotify.com/album/14bGY9xaoIyLPLCxytC0Gy) | 3:52 | 2021-12-09 |  |
@@ -83,7 +83,7 @@
 | [Irreplaceable](https://open.spotify.com/track/04dqYNkXUPAVc9ZfHYicW6) | [Zak Manley](https://open.spotify.com/artist/7lPHtt1VkCRiYgDji7FCq2) | [Irreplaceable](https://open.spotify.com/album/597cDRdmbPhqWq8GpaJk1o) | 3:09 | 2021-12-09 |  |
 | [Is This Love](https://open.spotify.com/track/0fBJCJyrMSnX7vZrvXKovG) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Is This Love](https://open.spotify.com/album/49R4sdFgr1sHH6RXXRdhPU) | 4:04 | 2021-12-09 |  |
 | [Issues \- Acoustic](https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Issues \(Acoustic\)](https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC) | 2:55 | 2021-12-09 |  |
-| [It Aint me \- Acoustic](https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [It Aint me \(Acoustic\)](https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV) | 3:12 | 2021-12-09 |  |
+| [It Aint me \- Acoustic](https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [It Aint me \(Acoustic\)](https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV) | 0:29 | 2021-12-09 |  |
 | [Kiss From A Rose](https://open.spotify.com/track/6UedQdOB6BIX96B4V1oBP4) | [Zoe De La Sera](https://open.spotify.com/artist/4bpDG5rmsYxLQHvRbIhSdx) | [Kiss From A Rose](https://open.spotify.com/album/6A8hlKALPC8Pg1tyRLsx7z) | 4:00 | 2022-03-09 |  |
 | [Kiss the Girl](https://open.spotify.com/track/3ES0Q2d2dvNyPNGAtJVUqe) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Kiss the Girl](https://open.spotify.com/album/6Rti5BJQ6LO7psnYtmUSI8) | 2:10 | 2021-12-09 |  |
 | [Landslide](https://open.spotify.com/track/7uy3S1s88VGFJeKRW5Q60r) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [& Covers](https://open.spotify.com/album/6VtuhzqA2GKC9JJz9egSyN) | 3:38 | 2021-12-09 |  |
@@ -149,7 +149,7 @@
 | [Wish You Were Here](https://open.spotify.com/track/4GKleQApcyCJduauR13QIi) | [Son De Durango](https://open.spotify.com/artist/0ISEAJsaLxPWWkKJ9JLmd6) | [Wish You Were Here](https://open.spotify.com/album/5jVI3QPXUpKFqOLTVaS0wn) | 3:18 | 2021-12-09 |  |
 | [With Or Without You \- Acoustic](https://open.spotify.com/track/196T6H39L5wX5fZVg7CY5K) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [With Or Without You \(Acoustic\)](https://open.spotify.com/album/49wHg8xQU3ImBpPvgJyOHP) | 2:59 | 2021-12-09 |  |
 | [Without Me](https://open.spotify.com/track/7lw7mmUri6oG70hhp6YAMP) | [Water and Salt](https://open.spotify.com/artist/2vdvi2jCjTe2W3OLwRGAjv) | [Lover](https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm) | 3:52 | 2021-12-09 |  |
-| [Wonder](https://open.spotify.com/track/3AfGSGi7tctvzyaw4yZy7A) | [Kiki Halliday](https://open.spotify.com/artist/26KHYTbrhP5S5VBPlAkGC4) | [Wonder](https://open.spotify.com/album/3wSWVHcvmaxCXSH8eA2hJL) | 3:00 | 2021-12-09 |  |
+| [Wonder](https://open.spotify.com/track/3AfGSGi7tctvzyaw4yZy7A) | [Kiki Halliday](https://open.spotify.com/artist/26KHYTbrhP5S5VBPlAkGC4) | [Wonder](https://open.spotify.com/album/3wSWVHcvmaxCXSH8eA2hJL) | 0:29 | 2021-12-09 |  |
 | [Wrecking Ball \- Acoustic](https://open.spotify.com/track/6NSKAs3VYE0hpb13s6RDrp) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/album/14v8SrlIVSEbVNcDcAylp9) | 3:30 | 2021-12-09 |  |
 | [Young At Heart](https://open.spotify.com/track/7asZuO7f2gNItGsu6tifAx) | [Rachel Barror](https://open.spotify.com/artist/6lMeqgtkZzN6pbR6wzAd4K) | [Young At Heart](https://open.spotify.com/album/6VDsNt8jxiF2RJT7Sh5TZS) | 3:48 | 2021-12-09 |  |
 

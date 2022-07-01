@@ -2432,6 +2432,24 @@
     },
     {
       "album": {
+        "name": "Mi Bebito Fiu Fiu",
+        "url": "https://open.spotify.com/album/1Tc6UA5XQyaJzgCEZYS3p1"
+      },
+      "artists": [
+        {
+          "name": "Tito Silva Music",
+          "url": "https://open.spotify.com/artist/2IFOwmcGO4WH8r3qPOh1Y8"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Mi Bebito Fiu Fiu",
+      "url": "https://open.spotify.com/track/2IjeU3uHr9gU0b9Cn33jAs"
+    },
+    {
+      "album": {
         "name": "Mi Gata",
         "url": "https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO"
       },
@@ -2815,7 +2833,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 160482,
       "name": "OJAL\u00c1",
       "url": "https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl"
@@ -2859,6 +2877,24 @@
       "duration_ms": 198520,
       "name": "Ojos Marrones",
       "url": "https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88"
+    },
+    {
+      "album": {
+        "name": "The Slow Rush",
+        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432560,
+      "name": "One More Hour",
+      "url": "https://open.spotify.com/track/0mO6oS60RST2sWmN2FKknP"
     },
     {
       "album": {
@@ -2957,7 +2993,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 193469,
       "name": "PALOMA",
       "url": "https://open.spotify.com/track/3yg6SabdfUu2cApTfZS991"
@@ -3367,8 +3403,8 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
-      "duration_ms": 231644,
+      "date_removed": null,
+      "duration_ms": 29048,
       "name": "Querer Querernos",
       "url": "https://open.spotify.com/track/15ItGp1Ugz6NBsRIdpBect"
     },
@@ -4287,7 +4323,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 176936,
       "name": "Un Ratito",
       "url": "https://open.spotify.com/track/5CzixCxDkRXX9mScCmah8O"

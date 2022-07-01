@@ -4,7 +4,7 @@
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Haikaiss, Kawe
 
-167 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/07w2QUeYfgvUJ366SKbIpZ)
+167 songs - 9 hr 16 min - [published](https://open.spotify.com/playlist/07w2QUeYfgvUJ366SKbIpZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Pepinas](https://open.spotify.com/track/6bQ5qJ3xfYBRiRfes9EBth) | [Oreia](https://open.spotify.com/artist/0473TlzNowswPtN7v5U4Pb), [Faew](https://open.spotify.com/artist/2wc2o0xe5pjBkzgMMt3Py9) | [Pepinas](https://open.spotify.com/album/1V1uWYuwLNPl2JRfUTRqkt) | 3:10 | 2022-03-22 | 2022-03-26 |
 | [Pequenina](https://open.spotify.com/track/0VSuq0KNSy1nOBO47e1bCN) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Maria Vilani](https://open.spotify.com/artist/3t7oGsQ0d8tswRxZVNdM8G), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d) | [Sobre Viver](https://open.spotify.com/album/0hLH4cYNYzp15VDjVU6v09) | 4:33 | 2022-05-06 | 2022-05-28 |
 | [PERSONNALITE](https://open.spotify.com/track/3qJtSjw9weAyQJfui2lmr6) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP) | [PERSONNALITE](https://open.spotify.com/album/7kK3DVlw7NDEjiRNVseFLj) | 3:28 | 2022-03-22 | 2022-04-23 |
-| [Pertence ao Crime](https://open.spotify.com/track/5pR3zRLe6o0NqHKWmcwWyN) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [Rap dos Novos Bandidos](https://open.spotify.com/album/2rYLZlhbWbcjNJg3PiwV9O) | 2:45 | 2022-03-22 |  |
+| [Pertence ao Crime](https://open.spotify.com/track/5pR3zRLe6o0NqHKWmcwWyN) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [Rap dos Novos Bandidos](https://open.spotify.com/album/2rYLZlhbWbcjNJg3PiwV9O) | 0:29 | 2022-03-22 |  |
 | [Pierrot e Colombina](https://open.spotify.com/track/61wEE7jNq4DM1Dw9IcLksw) | [Venâncio](https://open.spotify.com/artist/69u9p0rza0uTSbC1jxeL4S) | [Pierrot e Colombina](https://open.spotify.com/album/3zDetmF1o7NQ3S5W3Y93uC) | 3:59 | 2022-05-27 |  |
 | [Pirâmide Social \- Spotify Singles](https://open.spotify.com/track/6yoEBvEehjyf8JHHrlqgOj) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Pirâmide Social \- Spotify Singles](https://open.spotify.com/album/15A0WaLUbAvVsZNpwUKvCF) | 3:18 | 2022-03-22 |  |
 | [Pião Na Sul](https://open.spotify.com/track/6ih6yV8Y4dggPcZksQLXJ2) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84), [Nox](https://open.spotify.com/artist/0L3c6s49gKcqEgkXCeolrX) | [Pião Na Sul](https://open.spotify.com/album/7qhFuqJ8Pydylgv9dLStKB) | 2:53 | 2022-05-13 |  |

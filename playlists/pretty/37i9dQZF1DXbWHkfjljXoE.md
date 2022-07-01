@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbWHkfjljXoE.md) - [plain]
 
 > Remembering the voices that have always spoken truth to power.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,229 likes - 41 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,227 likes - 41 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbWHkfjljXoE.md) - [plain]
 | 12 | [You Can't Hate the Roots of a Tree and Not Hate That Tree](https://open.spotify.com/track/72BW7BcNxwyFBKpsPP5HwR) | [Malcolm X](https://open.spotify.com/artist/2IsulP0BplLNJn8BGsvUQo) | [Malcolm X: The Last Speeches](https://open.spotify.com/album/5OzsPioUSdoBZQ1DkcFgRx) | 5:56 |
 | 13 | [Anti\-Immigrant Rhetoric](https://open.spotify.com/track/7I4csn2pytrogUVDMmmFVH) | [Angela Davis](https://open.spotify.com/artist/4LsP9Fcfyln6GOh8GwYDkT) | [Angela Davis Speaks!](https://open.spotify.com/album/60EHfJLvL6yKZLqd2XGjmD) | 4:28 |
 | 14 | ["Free At Last" 5/2/94](https://open.spotify.com/track/29sABge43PWLmfUZbStXdP) | [Nelson Mandela](https://open.spotify.com/artist/7KbasPT1gklYjhLeD8AZIG) | [Father Of A Nation](https://open.spotify.com/album/3eVt2MEsW0Iim1Gtije3wm) | 2:08 |
-| 15 | [Part 2](https://open.spotify.com/track/3SwfHDQDlR0n4JnvvUqrOj) | [Marcus Garvey](https://open.spotify.com/artist/2aTAfW8erTD8F50nnhKZmD) | [The Great Black Nationalist](https://open.spotify.com/album/1vO6OhN5zuyLk4pEyPJDAD) | 7:17 |
+| 15 | [Part 2](https://open.spotify.com/track/3SwfHDQDlR0n4JnvvUqrOj) | [Marcus Garvey](https://open.spotify.com/artist/2aTAfW8erTD8F50nnhKZmD) | [The Great Black Nationalist](https://open.spotify.com/album/1vO6OhN5zuyLk4pEyPJDAD) | 0:29 |
 | 16 | [A Change Is Gonna Come](https://open.spotify.com/track/0YfOnJWqmAKaUvEL1QcNop) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [A Change Is Gonna Come](https://open.spotify.com/album/4IzTGWm7hiv0BpQAG7vWhI) | 3:11 |
 | 17 | [Shirley Chisholm \- 1972](https://open.spotify.com/track/55qA5UVl8rEK4TMFjC6rQ1) | [Shirley Chisholm](https://open.spotify.com/artist/44FpwpMLdOjnZhrfNPELar) | [Inspirational Speeches Vol\. 4](https://open.spotify.com/album/6DO6wVMYFIFiG6gVH2OpJ4) | 0:35 |
 | 18 | [Why? \(The King of Love Is Dead\) \- Live at Westbury Music Fair, Westbury, NY \- April 1968](https://open.spotify.com/track/4gmeLpDeLk9Y2pTWJPjiG2) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | ['Nuff Said \(Expanded Edition\)](https://open.spotify.com/album/1ZRMX4V4gDAJzRmwUfjMYg) | 12:51 |

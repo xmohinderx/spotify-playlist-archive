@@ -4,7 +4,7 @@
 
 > Sweet and slow, soft and soothing..\. a collection of beautiful bluegrass vocals.
 
-29 songs - 1 hr 57 min - [published](https://open.spotify.com/playlist/0mhBL89dTtfA8gdS3XrXKq)
+29 songs - 1 hr 50 min - [published](https://open.spotify.com/playlist/0mhBL89dTtfA8gdS3XrXKq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Briar Rose](https://open.spotify.com/track/38Bl6aL5xfsp3uNCDO7hPU) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Fossils](https://open.spotify.com/album/4Fh4L7WUC3Jqizp8nq2U8M) | 3:16 | 2014-09-15 |  |
 | [Build Me Up From Bones](https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Build Me Up From Bones](https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK) | 3:36 | 2014-09-05 |  |
 | [Crossing Muddy Waters](https://open.spotify.com/track/0KY35FGGCjF65VHzrcDy6F) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Crossing Muddy Waters](https://open.spotify.com/album/3T0SGvKN5MxhizyvTaj1rz) | 3:48 | 2015-06-10 |  |
-| [Dream in Blue](https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [The Stray Birds](https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t) | 3:32 | 2014-09-15 |  |
+| [Dream in Blue](https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [The Stray Birds](https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t) | 0:29 | 2014-09-15 |  |
 | [Forgotten](https://open.spotify.com/track/5ThoiwUqwVYkS411dbEhIV) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [The Phosphorescent Blues](https://open.spotify.com/album/3cdqpjwuTvDeLe3RYIGb0j) | 4:17 | 2015-01-27 |  |
 | [Gone Tomorrow](https://open.spotify.com/track/5CQHTuNbYlEA4fZdxQ4PMi) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Dead & Born & Grown](https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9) | 3:27 | 2014-09-05 |  |
 | [Hard Times](https://open.spotify.com/track/3JvXStoiT3lg5Mwlsvp0aH) | [Ayleen O'Hanlon](https://open.spotify.com/artist/3S4cQzFWqPlN24rhwU6X92) | [Blend and Spill](https://open.spotify.com/album/0x5pct4fMv0NUUoXOU4sCD) | 5:46 | 2015-08-14 |  |
@@ -28,7 +28,7 @@
 | [Maya's Waltz](https://open.spotify.com/track/53a2CxT0YQLtkg0q369xc1) | [Zoe & Cloyd](https://open.spotify.com/artist/09Mifrze5fnPx2jhnJUgWz) | [Equinox](https://open.spotify.com/album/4vyNneLoWZIzKToaBTPtyw) | 3:17 | 2015-09-21 |  |
 | [My Friend](https://open.spotify.com/track/4tO2OXTXh8ccL4yW5d6ZFm) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Sara Watkins](https://open.spotify.com/album/0maAVEcKDvldcwOhK6geq6) | 3:14 | 2014-09-05 |  |
 | [No One but You](https://open.spotify.com/track/2Ay9FNFYXSUTCMl7MHJY3u) | [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Stuart Duncan](https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2), [Edgar Meyer](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [The Goat Rodeo Sessions](https://open.spotify.com/album/7tSgsZ1ATPHDzUOqAmapTZ) | 3:54 | 2014-09-15 |  |
-| [Same Same Stars](https://open.spotify.com/track/6u5YgLV7ZEgm0XYqZeVys8) | [Sleepy Man](https://open.spotify.com/artist/3i9moIfK3STAW5CD3Sdaen) | [By My Side \- EP](https://open.spotify.com/album/5wvlQTDsQGslz8Kz1vhb1e) | 4:21 | 2014-09-23 |  |
+| [Same Same Stars](https://open.spotify.com/track/6u5YgLV7ZEgm0XYqZeVys8) | [Sleepy Man](https://open.spotify.com/artist/3i9moIfK3STAW5CD3Sdaen) | [By My Side \- EP](https://open.spotify.com/album/5wvlQTDsQGslz8Kz1vhb1e) | 0:29 | 2014-09-23 |  |
 | [Silver Lining](https://open.spotify.com/track/26wNjnmHPKFEGVYxaCxNL2) | [The Honey Dewdrops](https://open.spotify.com/artist/42FAfgZpAliDGkyucfGnWM) | [Silver Lining](https://open.spotify.com/album/4pF4ziKO29zQKXB7837w9M) | 3:37 | 2014-09-15 |  |
 | [Small Town Heroes](https://open.spotify.com/track/65BtFxiMYr6hSYhaIzFxn1) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [Small Town Heroes](https://open.spotify.com/album/2Jgs7uTMWm1SmG8hQXS4yx) | 4:28 | 2014-09-15 |  |
 | [Still Here](https://open.spotify.com/track/4dpsLtTDaixmqh3lWZBeUP) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Golden Hour](https://open.spotify.com/album/6TkvQ6fqCDHJMX4U9RUnKV) | 4:47 | 2014-09-23 |  |

@@ -4,7 +4,7 @@
 
 > Bold bops from Ludhiana to London\. Cover: Sidhu Moose Wala.
 
-69 songs - 3 hr 44 min - [published](https://open.spotify.com/playlist/0uMzddXjKauDUllx7hMr3q)
+69 songs - 3 hr 40 min - [published](https://open.spotify.com/playlist/0uMzddXjKauDUllx7hMr3q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Na Puch Ke](https://open.spotify.com/track/6XlBhzskvfRIQiFv18mgBV) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT) | [Na Puch Ke](https://open.spotify.com/album/6HnEXj7JFr5CzfImyp0Mmn) | 3:26 | 2021-12-18 | 2022-01-11 |
 | [NachLai Goriye](https://open.spotify.com/track/4QrBpxWTjXHj7oYTO2EBBY) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Desi Frenzy](https://open.spotify.com/artist/50FBY7deOzEIM580Ui6SzA) | [NachLai Goriye](https://open.spotify.com/album/06oJfyr9qICC85o6zkYEff) | 3:50 | 2021-12-18 |  |
 | [Necklace](https://open.spotify.com/track/4QxtPnup1D3WbwTW2SvNr4) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Judaa 3 Chapter 1](https://open.spotify.com/album/1bad04WweZQ3f1BWaIHmqf) | 3:35 | 2021-12-18 | 2022-01-11 |
-| [Old Skool](https://open.spotify.com/track/76IXpU3ve4gHmvcduUN88d) | [Prem Dhillon Ft\. Sidhu Moosewala](https://open.spotify.com/artist/4hXZlvo1FmotuwiO3XGdbk), [Naseeb](https://open.spotify.com/artist/68utQf42HeyJUbU8X9W0uf) | [Old Skool](https://open.spotify.com/album/43KOzJb3q0AHeUGzR8stIe) | 4:13 | 2021-12-18 |  |
+| [Old Skool](https://open.spotify.com/track/76IXpU3ve4gHmvcduUN88d) | [Prem Dhillon Ft\. Sidhu Moosewala](https://open.spotify.com/artist/4hXZlvo1FmotuwiO3XGdbk), [Naseeb](https://open.spotify.com/artist/68utQf42HeyJUbU8X9W0uf) | [Old Skool](https://open.spotify.com/album/43KOzJb3q0AHeUGzR8stIe) | 0:29 | 2021-12-18 |  |
 | [On the Mic](https://open.spotify.com/track/07OsxsRgbSD9SED12pqlxx) | [JK](https://open.spotify.com/artist/30A8pUI01O6H41x7rvQpSt), [Tru\-Skool](https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2) | [On the Mic](https://open.spotify.com/album/2MHfkQX1Goi9T15jUEGR53) | 3:46 | 2021-12-18 | 2022-01-11 |
 | [Pyar Bolda](https://open.spotify.com/track/3RtR0XXNGtBHJkFgY6OvTQ) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Pyar Bolda](https://open.spotify.com/album/3ZcDbMWG4m26hPhQXFLFc8) | 2:42 | 2021-12-18 |  |
 | [Sharaab](https://open.spotify.com/track/5yAu5xEsC4eJvVL4B2Gjl4) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq) | [State of Art](https://open.spotify.com/album/62Wlbcq0ip7IThBYtmxEi6) | 2:49 | 2022-05-06 |  |

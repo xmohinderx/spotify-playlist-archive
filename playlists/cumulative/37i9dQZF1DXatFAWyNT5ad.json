@@ -149,7 +149,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 190911,
       "name": "6AM",
       "url": "https://open.spotify.com/track/5AJ9oWWYzHvSJYX6IBEvMK"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 168601,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
@@ -835,7 +835,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 128000,
       "name": "BEDTIME STORIES",
       "url": "https://open.spotify.com/track/2St0YH2pzB2kp1BVGOi37R"
@@ -1503,7 +1503,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 195253,
       "name": "celebrate",
       "url": "https://open.spotify.com/track/7nlvjuAdtKroFHdgqwCBKC"
@@ -1701,7 +1701,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 167365,
       "name": "cotton candy",
       "url": "https://open.spotify.com/track/3foWaxM2tcZD91WcOLFqch"
@@ -1778,7 +1778,7 @@
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 159636,
+      "duration_ms": 29048,
       "name": "Crash and Burn",
       "url": "https://open.spotify.com/track/4wFK5ESRSBrmVDjOkOSa7g"
     },
@@ -1795,7 +1795,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 183252,
       "name": "Crazy Devotion",
       "url": "https://open.spotify.com/track/2OODxPE3suTBpTHQbV9kDG"
@@ -1939,7 +1939,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 197301,
       "name": "death wish",
       "url": "https://open.spotify.com/track/5YOPTy4ENCgM0JZnJrkXXF"
@@ -2051,10 +2051,28 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 178333,
       "name": "Do You Really Wanna Know?",
       "url": "https://open.spotify.com/track/43oSsb5boERcpfiuDJR3Kq"
+    },
+    {
+      "album": {
+        "name": "Don't Feel Like Feeling Sad Today",
+        "url": "https://open.spotify.com/album/2xI6WQRXM36V5B7PSzghFW"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116483,
+      "name": "Don't Feel Like Feeling Sad Today",
+      "url": "https://open.spotify.com/track/3EzNhsh3hCy559XDI44f4g"
     },
     {
       "album": {
@@ -2161,7 +2179,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 168384,
       "name": "Down (feat. Travis Barker)",
       "url": "https://open.spotify.com/track/5mkjZ6EciJaZrRXUL5eDfH"
@@ -2259,7 +2277,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 150522,
       "name": "Drunk Dial",
       "url": "https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN"
@@ -2339,7 +2357,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 165681,
       "name": "e-z (feat. UPSAHL & Blu DeTiger)",
       "url": "https://open.spotify.com/track/2FsHjcNkT4usTdV2b407Iq"
@@ -2603,7 +2621,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 223745,
       "name": "Falling - So In Love",
       "url": "https://open.spotify.com/track/3Wxa4sAD07yLRmbHmJn9QF"
@@ -2817,7 +2835,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 139713,
       "name": "FRIDAY (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/6IRtUdofXMANdsFYnJZ9WT"
@@ -3157,7 +3175,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 215402,
       "name": "Good Girls (Don't Get Used)",
       "url": "https://open.spotify.com/track/4ASZdm6CLLu0BnId42l5Gz"
@@ -3215,7 +3233,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 145440,
       "name": "Grape Swisher",
       "url": "https://open.spotify.com/track/6mX89BYM6O0IkHF9FiKzVh"
@@ -3237,7 +3255,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 151642,
       "name": "Gucci Knife (feat. MASN)",
       "url": "https://open.spotify.com/track/1nhtP8put1KkwqdrZcA1Gi"
@@ -3899,7 +3917,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 225847,
       "name": "If I Didn't Have You",
       "url": "https://open.spotify.com/track/7Etf7VJoXNJlO4oMJRUDlT"
@@ -4351,7 +4369,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 195191,
       "name": "la di die (feat. jxdn)",
       "url": "https://open.spotify.com/track/3RLshk3cDQOqWhSIRCVaXL"
@@ -4481,7 +4499,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 191992,
       "name": "Like A Virgin - Spotify Singles",
       "url": "https://open.spotify.com/track/0CbtHNmNuPXSYbH4Uz3roM"
@@ -5372,6 +5390,24 @@
     },
     {
       "album": {
+        "name": "Nocturnal",
+        "url": "https://open.spotify.com/album/6kbFVipGkUglf9eerXBlN3"
+      },
+      "artists": [
+        {
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166854,
+      "name": "NOCTURNAL",
+      "url": "https://open.spotify.com/track/0cGRxex1Zgi7NW9yeDa5PQ"
+    },
+    {
+      "album": {
         "name": "nostalgic (luvsick)",
         "url": "https://open.spotify.com/album/5DHL2kzqmvPTRwE5JJbUsK"
       },
@@ -5533,7 +5569,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 146897,
       "name": "Numb",
       "url": "https://open.spotify.com/track/1FbnjqePXaxqCUxUgEUhFl"
@@ -6147,7 +6183,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 113494,
       "name": "Purity",
       "url": "https://open.spotify.com/track/1BV7YtzsoKAF2cULDHLe2K"
@@ -6372,7 +6408,7 @@
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 181673,
+      "duration_ms": 29048,
       "name": "Roses",
       "url": "https://open.spotify.com/track/28Fqo5nrtgYj7czjeyHg04"
     },
@@ -6595,7 +6631,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 182426,
       "name": "Serotonin",
       "url": "https://open.spotify.com/track/1q2Zb0v5ZGxKDktEz7wSPb"
@@ -6739,7 +6775,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 175044,
       "name": "Shy Away",
       "url": "https://open.spotify.com/track/2z0IupRlVRlDN5r2IVqHyN"
@@ -6761,7 +6797,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 160426,
       "name": "Single At 40",
       "url": "https://open.spotify.com/track/1Hkfx9v6M0A2E7gbgYneQo"
@@ -6797,7 +6833,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 162516,
       "name": "SKIN OF MY TEETH",
       "url": "https://open.spotify.com/track/1O9AseW10CTi6nBLoj0O6K"
@@ -7109,7 +7145,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 199484,
       "name": "Still Not Dead",
       "url": "https://open.spotify.com/track/0zxrihF0euIJ8ewDXrPN3A"
@@ -7603,7 +7639,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 204855,
       "name": "THINK ABOUT ME",
       "url": "https://open.spotify.com/track/1gEUlsUL6inLvOSAxbzrsY"
@@ -8045,7 +8081,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 161249,
       "name": "virtual reality",
       "url": "https://open.spotify.com/track/7wWqAGY1k2cr1ntffgBBH1"
@@ -8139,7 +8175,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 158021,
       "name": "WANNA BE (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/058pBOh77XQJNg3YWGr4jN"
@@ -8157,8 +8193,8 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
-      "duration_ms": 152469,
+      "date_removed": null,
+      "duration_ms": 29048,
       "name": "wannabe",
       "url": "https://open.spotify.com/track/5PXdLJJWQJTOpfHdPkMsOw"
     },

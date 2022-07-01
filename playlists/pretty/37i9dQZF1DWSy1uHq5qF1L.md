@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSy1uHq5qF1L.md) - [plain]
 
 > Beautiful mandolin music to accompany your Italian supper\. Buon appetito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,172 likes - 53 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,301 likes - 53 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSy1uHq5qF1L.md) - [plain]
 | 43 | [Al di la](https://open.spotify.com/track/6DWU0HQ3O7i3IROJsztChj) | [Jack Jezzro](https://open.spotify.com/artist/7vo2Hl0NDiBr6GcyGDSLFZ) | [Caffé Italiano: Instrumental Italian Favorites](https://open.spotify.com/album/32t5s4ID49x47XgNOHvYqX) | 3:23 |
 | 44 | [Vecchio Pianino](https://open.spotify.com/track/4e3yv5xszSxiS2YKhAqj9n) | [Angelo Petisi And His Mandolin Orchestra](https://open.spotify.com/artist/2bspzpcot2XayxFu3CZG3D) | [O Bella Napoli \- Italia \- Italy](https://open.spotify.com/album/6UmU78EACBey0NoHIqrRKe) | 1:52 |
 | 45 | [Roman Moonlight](https://open.spotify.com/track/696YrAmnNm9wwB4aS14D39) | [Italian Love Song Passione](https://open.spotify.com/artist/30J27cFKb6sD7MfLuaDvCJ) | [That's Amore Italian Love Songs](https://open.spotify.com/album/0wez47X2Aq5WxYY4Wo21OT) | 3:12 |
-| 46 | [E Spingule Francese](https://open.spotify.com/track/2SAzbO5y0kPu5UrZt25Ag6) | [Romano Zanotti](https://open.spotify.com/artist/77jndz0F7PziSYe6POtrAS) | [La chanson napolitaine de 1650 à 1987](https://open.spotify.com/album/1jCSvp59VIQOtsC3Gkc3Nb) | 3:36 |
+| 46 | [E Spingule Francese](https://open.spotify.com/track/2SAzbO5y0kPu5UrZt25Ag6) | [Romano Zanotti](https://open.spotify.com/artist/77jndz0F7PziSYe6POtrAS) | [La chanson napolitaine de 1650 à 1987](https://open.spotify.com/album/1jCSvp59VIQOtsC3Gkc3Nb) | 0:29 |
 | 47 | [O Solo Mio](https://open.spotify.com/track/26tZoDOFtKl0mL4y5hOxyr) | [Italian Café Society](https://open.spotify.com/artist/3n3IBg7QSm0UXSBKcZsCJk) | [Roman Holiday: Traditional Songs of Italy](https://open.spotify.com/album/2n5QGNNMmHyUpeIIamRXHq) | 1:58 |
 | 48 | [Italian Folk Music Serenade](https://open.spotify.com/track/6RZfx9I1eNkCHLKQZPjANN) | [Music of Italy](https://open.spotify.com/artist/5hY0L5TFb93XBbUoS0QdEF) | [Italian Favorites](https://open.spotify.com/album/75b9gVQdeeBiLx7HR3DZCk) | 1:42 |
 | 49 | [Adagio](https://open.spotify.com/track/7MZE5hpTg0LsnRonlnDPlI) | [Ameritz Sound Effects](https://open.spotify.com/artist/2lQqfjdsGdZ4cUpvHD4ul1) | [O Sole Mio \- Postcards from Italy](https://open.spotify.com/album/7pcFItUc0OIKQTAAyaKkV8) | 2:14 |

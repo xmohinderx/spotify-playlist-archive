@@ -4,7 +4,7 @@
 
 > A collection of classic Sub Pop tracks from the 80s and 90s, all that is grunge adjacent!
 
-40 songs - 2 hr 10 min - [published](https://open.spotify.com/playlist/5dgyOGwhKXH5hBSD3YYZfg)
+40 songs - 2 hr 5 min - [published](https://open.spotify.com/playlist/5dgyOGwhKXH5hBSD3YYZfg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Gila](https://open.spotify.com/track/24ibaB92ASwrsx5xof1oPs) | [U\-Men](https://open.spotify.com/artist/22WypD8tTI2wltNMQJZhj6) | [U\-Men](https://open.spotify.com/album/6mmQItCmqEkfy7XgOqJS6F) | 2:18 | 2019-11-06 |  |
 | [Goin' Commando](https://open.spotify.com/track/5U6d57indQnFPOULqD55Ss) | [Godheadsilo](https://open.spotify.com/artist/19U1TljX5HGtzVlI1JljwV) | [Share The Fantasy](https://open.spotify.com/album/3VIL90Q8BN4bUNO20cfEZ8) | 3:27 | 2019-11-06 |  |
 | [Head Of Ringo](https://open.spotify.com/track/7sLnoiT3VjjGxKlJZ7BBkv) | [Love Battery](https://open.spotify.com/artist/43wwctvUaVOoEHEijQ8NpF) | [Far Gone](https://open.spotify.com/album/4YFwgDzlkLtRXnJETlgsRL) | 3:53 | 2019-11-06 |  |
-| [High Command](https://open.spotify.com/track/70jjEHFCtbHPZihBqRgLSu) | [Earth](https://open.spotify.com/artist/4mTFQE6aiehScgvreB9llC) | [Pentastar: In The Style of Demons](https://open.spotify.com/album/7M2HxkfzBMftGLjmbd3sBE) | 5:50 | 2019-11-06 |  |
+| [High Command](https://open.spotify.com/track/70jjEHFCtbHPZihBqRgLSu) | [Earth](https://open.spotify.com/artist/4mTFQE6aiehScgvreB9llC) | [Pentastar: In The Style of Demons](https://open.spotify.com/album/7M2HxkfzBMftGLjmbd3sBE) | 0:29 | 2019-11-06 |  |
 | [Hunted Down \- Remastered](https://open.spotify.com/track/4nnDr2vyxvKudkOH4CQv3K) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Screaming Life/Fopp](https://open.spotify.com/album/2yN7nOorUYUHWZdbZLeOB1) | 2:42 | 2019-11-08 |  |
 | [I Want A Lot Now \(So Come On\)](https://open.spotify.com/track/0wOHIP3yW8QLrQw4IcURPj) | [The Murder City Devils](https://open.spotify.com/artist/0rIOnBirvFkIILkTCGc7N0) | [Empty Bottles, Broken Hearts](https://open.spotify.com/album/5WYbCq5eWMvMt5dvHuGqv6) | 3:27 | 2019-11-06 |  |
 | [I'm Blown](https://open.spotify.com/track/6nAqpaf5BTaP9y9nTn5r3O) | [The Monkeywrench](https://open.spotify.com/artist/2l0m5zZDDup4TwDKwktCfk) | [Clean As A Broke\-Dick Dog](https://open.spotify.com/album/2Q3dHJ4uZi5L36XPrvsNmr) | 3:56 | 2019-11-06 |  |

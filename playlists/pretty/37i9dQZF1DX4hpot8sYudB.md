@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4hpot8sYudB.md) - [plain]
 
 > Soothing, low frequencies for relaxation, meditation or sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,717 likes - 139 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,117 likes - 139 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4hpot8sYudB.md) - [plain]
 | 57 | [Dark Brown Noise 1](https://open.spotify.com/track/4MNzUq2ASKEgfO93e9l6IP) | [2029](https://open.spotify.com/artist/75C76xB78tyncdc0AJ2gOS) | [Dark Brown Noise](https://open.spotify.com/album/6VBU1yRd1xIRN3vL4v2szL) | 2:18 |
 | 58 | [Brown Noise Valley 220Hz](https://open.spotify.com/track/62BKIXTJOA8Vplgu6wOlUh) | [Klangspiel](https://open.spotify.com/artist/2IM5tvnq8r2d8yYY2FTXNX) | [Soft Brown Noise](https://open.spotify.com/album/4nTgcRgGKB2r5mTsqTNqPY) | 3:38 |
 | 59 | [Deep relief brown noise](https://open.spotify.com/track/4IVDh6C2OyXzn6PiT9rW9R) | [Mind & Ears](https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN) | [Deep Sleep Brown Noise](https://open.spotify.com/album/0qY4ZRzXvzntIIwPFj1tIT) | 2:38 |
-| 60 | [From Water Brown Noise](https://open.spotify.com/track/2NGH2qb97tFuNMtk84mkJp) | [Autonomic Sensations](https://open.spotify.com/artist/3t4f7jfxke1oDZnLoOTwWJ) | [From Water Brown Noise](https://open.spotify.com/album/1PIr8Yzs4o0zmUZnvPeWie) | 2:39 |
+| 60 | [From Water Brown Noise](https://open.spotify.com/track/2NGH2qb97tFuNMtk84mkJp) | [Autonomic Sensations](https://open.spotify.com/artist/3t4f7jfxke1oDZnLoOTwWJ) | [From Water Brown Noise](https://open.spotify.com/album/1PIr8Yzs4o0zmUZnvPeWie) | 0:29 |
 | 61 | [Brown Noise Calm Sleep](https://open.spotify.com/track/3jpOVRQDyXswKBKrjVKHxU) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Brown Noise for Relaxation](https://open.spotify.com/album/2dPsArIfCMuu3ZmvArayoc) | 3:50 |
 | 62 | [Snoozing Time Noise](https://open.spotify.com/track/42LNbpBw2HAfoaUY2YISyu) | [Noisy Moons](https://open.spotify.com/artist/0k3gHx5lz3Qkev3OjKZGvl) | [Snoozing Time Noise](https://open.spotify.com/album/4U2f6FsBJ2NsllkP4Bwezq) | 1:50 |
 | 63 | [Driven filter brown noise](https://open.spotify.com/track/6hKqsJicHX06lWUBSr1MV2) | [Mind & Ears](https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN) | [Deep Sleep Brown Noise](https://open.spotify.com/album/0qY4ZRzXvzntIIwPFj1tIT) | 2:21 |
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4hpot8sYudB.md) - [plain]
 | 83 | [Meditation Hum Noise](https://open.spotify.com/track/2HXHPCsC9J7Y7bviP23qfm) | [Above Cloud 9](https://open.spotify.com/artist/52LnYKZEJPQhT1ePuMVxnb) | [Noise Meditations](https://open.spotify.com/album/5yeKP9HLiFEzGPDVEjfTJB) | 3:12 |
 | 84 | [Clouds \(Brown Noise\)](https://open.spotify.com/track/2g5t61FK81Fg05dLT6jZ5j) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Bedtime Brown Noise](https://open.spotify.com/album/1Vw1qEL9XX6yKjqnwgEf13) | 3:46 |
 | 85 | [Tranquil Brown Noise](https://open.spotify.com/track/3jozn2lodsEPVmAG8XjPcx) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Night Time Brown Noise](https://open.spotify.com/album/5wGCehDajJGZQnGvzTYNNy) | 2:28 |
-| 86 | [Brown Noise for Sleepy Eyes](https://open.spotify.com/track/0wLaPda0ARSiifV6YWrKzk) | [Dancing Waves](https://open.spotify.com/artist/6I734cgGnMNAYXbDKI6pxm) | [Brown Noise for Sleepy Eyes](https://open.spotify.com/album/5MrGxKyGm5EbXn9APxh7u2) | 3:12 |
+| 86 | [Brown Noise for Sleepy Eyes](https://open.spotify.com/track/0wLaPda0ARSiifV6YWrKzk) | [Dancing Waves](https://open.spotify.com/artist/6I734cgGnMNAYXbDKI6pxm) | [Brown Noise for Sleepy Eyes](https://open.spotify.com/album/5MrGxKyGm5EbXn9APxh7u2) | 0:29 |
 | 87 | [250 Hz Noise](https://open.spotify.com/track/0YRw20C6K8yv0trEW8LjZ0) | [Noise Garden](https://open.spotify.com/artist/7bM4tmi5n1veho4alfibW1) | [Noise Garden](https://open.spotify.com/album/38GpWiwBAXrKyjokGlfBd8) | 3:12 |
 | 88 | [Deep Brown Noise](https://open.spotify.com/track/1mPXOwNa6urtuDTv9XZlL3) | [Brainbox](https://open.spotify.com/artist/54SQU5335smXLXiFTvOo30) | [Soft Brown Noise](https://open.spotify.com/album/3hwBhINVPJ9NDri4krChxd) | 3:08 |
 | 89 | [Noise Bliss 200 Hz](https://open.spotify.com/track/1PIexPfZnVlmoPMqNE6Xvu) | [Noise Nirvana](https://open.spotify.com/artist/6jLfCVXiXP2SoEA8BOIrxM) | [Noise Bliss](https://open.spotify.com/album/5lT9didrhUW3Xx4OgkzbSm) | 3:26 |
@@ -144,7 +144,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4hpot8sYudB.md) - [plain]
 | 134 | [Brown Noise Notre Dame](https://open.spotify.com/track/1opDdUVWVjTFjuo6Dc1IaB) | [Sleep Sleep Sleep](https://open.spotify.com/artist/1OqVbmth0QR4OXPVPmIEyi) | [Sleep Noise](https://open.spotify.com/album/4vAdUTer5fygtGo2VeDt7q) | 3:16 |
 | 135 | [Under the Waves](https://open.spotify.com/track/5IWaJyQjI6v7M16iFiaNNR) | [The SubOceaners](https://open.spotify.com/artist/5JGfWE8Ws1aBP8283nSy8R) | [Dreaming under Water](https://open.spotify.com/album/7GEjOabKlEyD4nXEpDuuop) | 4:06 |
 | 136 | [Wide Brown Noise 2k](https://open.spotify.com/track/1kFOhU2I9urbX4HC7pWfsv) | [Nexus Cove](https://open.spotify.com/artist/4e0LhwEE3NIIimGtRTjbZo) | [Wide Brown Noise](https://open.spotify.com/album/7GthlYD6YPHh3bxHpDZsNS) | 2:29 |
-| 137 | [White Noise for Sleepless Nights](https://open.spotify.com/track/7GH9OsH5pxBLtPWqoOpAxK) | [Hum Humming](https://open.spotify.com/artist/4Pv75nATrtWwA5uYCDvxYF) | [White Noise for Sleepless Nights](https://open.spotify.com/album/21oxsGDJtC7uliApa3xAmc) | 2:05 |
+| 137 | [White Noise for Sleepless Nights](https://open.spotify.com/track/7GH9OsH5pxBLtPWqoOpAxK) | [Hum Humming](https://open.spotify.com/artist/4Pv75nATrtWwA5uYCDvxYF) | [White Noise for Sleepless Nights](https://open.spotify.com/album/21oxsGDJtC7uliApa3xAmc) | 0:29 |
 | 138 | [Meditative Noise](https://open.spotify.com/track/7xXP9ysqubm7UfxmZfv63x) | [Focus Frequency](https://open.spotify.com/artist/7M7Z5YhclUy7AjsdZEN8X4) | [Meditative Noise](https://open.spotify.com/album/2gc9kWLQhE5kbxZFBNnoEM) | 2:00 |
 | 139 | [High Winds](https://open.spotify.com/track/3wzu3qv6fwFZrjsWN3jSPS) | [Klangspiel](https://open.spotify.com/artist/2IM5tvnq8r2d8yYY2FTXNX) | [In den Bergen](https://open.spotify.com/album/2czBX549r8Egdi6dDYWJVU) | 4:04 |
 

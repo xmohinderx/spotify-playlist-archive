@@ -4,7 +4,7 @@
 
 > È ora di celebrare, ecco il suono del pride secondo Protopapa!
 
-201 songs - 12 hr 20 min - [published](https://open.spotify.com/playlist/4rwUfZJKHXiQQuTAaFt3nw)
+201 songs - 12 hr 15 min - [published](https://open.spotify.com/playlist/4rwUfZJKHXiQQuTAaFt3nw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [Ventisette \- Remastered](https://open.spotify.com/track/7BWwkzqeMZQd5T67ZCsVer) | [Tobias Bernstrup](https://open.spotify.com/artist/7qMxLMZgfIeZloY2EjWiPt) | [Trannies at Night 1998\-2012](https://open.spotify.com/album/3VWA2tSP2StgbIOohU84uy) | 4:12 | 2022-06-26 |  |
 | [Vroom Vroom](https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Vroom Vroom EP](https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd) | 3:13 | 2022-04-01 | 2022-06-06 |
 | [VYZEE](https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [VYZEE](https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe) | 3:22 | 2022-04-01 | 2022-06-11 |
-| [White Horse](https://open.spotify.com/track/7cOjZKdxgshxWgeGfE4m01) | [Jessica 6](https://open.spotify.com/artist/1qchowrzlYU0bUrJA6Oy8X) | [See The Light](https://open.spotify.com/album/5luHZqbMOLFMaN8SsZs2z9) | 4:59 | 2022-06-26 |  |
+| [White Horse](https://open.spotify.com/track/7cOjZKdxgshxWgeGfE4m01) | [Jessica 6](https://open.spotify.com/artist/1qchowrzlYU0bUrJA6Oy8X) | [See The Light](https://open.spotify.com/album/5luHZqbMOLFMaN8SsZs2z9) | 0:29 | 2022-06-26 |  |
 | [WIZZ](https://open.spotify.com/track/0Zo3dEV1BOVGF1DaW5aGq9) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [WIZZ](https://open.spotify.com/album/0RJGbSxAVBM1DAI320Ba8e) | 2:54 | 2022-04-01 | 2022-06-13 |
 | [WOAW \- feat\. Salmo](https://open.spotify.com/track/77N9HTxta6wLhJMj5KmuYi) | [DJ TREEPLO](https://open.spotify.com/artist/68zhfroQU8MwS3DiuWBRRh), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [WOAW \- feat\. Salmo](https://open.spotify.com/album/3LZwptqhhFxHpURRLmtVxI) | 2:51 | 2022-06-12 | 2022-06-27 |
 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 | 2022-06-12 | 2022-06-27 |

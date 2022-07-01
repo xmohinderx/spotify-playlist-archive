@@ -4,7 +4,7 @@
 
 > Carnival 2022 is in session, follow Kes as he takes us on a trip to Trinidad & Tobago
 
-104 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/35sKAj4iwKWEOgdGOJN8Zw)
+104 songs - 5 hr 32 min - [published](https://open.spotify.com/playlist/35sKAj4iwKWEOgdGOJN8Zw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Body Banging](https://open.spotify.com/track/2bCklChXK0IVcY9EhUo06g) | [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd), [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Body Banging Riddim](https://open.spotify.com/album/3VnX4G8I4yOogiLbTL9iXP) | 3:20 | 2021-08-26 | 2022-02-25 |
 | [Boss Lady \(Sign Me Up\)](https://open.spotify.com/track/6PR1VSJ3fAnZpRrgIAYgXJ) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Baila Riddim](https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS) | 2:13 | 2022-02-24 |  |
 | [Brawling](https://open.spotify.com/track/7eShbgIo5bNdQEiJqLqSL0) | [Father Philis](https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK) | [Brawling](https://open.spotify.com/album/27rxALdXIGntWuHTG7bkMz) | 2:22 | 2021-08-26 | 2022-02-25 |
-| [Can You Feel It](https://open.spotify.com/track/6Fzy0v8BwwGk38cB45jbzV) | [DJ Private Ryan](https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp), [Terri Lyons](https://open.spotify.com/artist/54Pc87vBkLMKbQfrd7ZWxF) | [Can You Feel It](https://open.spotify.com/album/46f9lGS1JlRVi822uJoJ3J) | 3:22 | 2022-02-24 |  |
+| [Can You Feel It](https://open.spotify.com/track/6Fzy0v8BwwGk38cB45jbzV) | [DJ Private Ryan](https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp), [Terri Lyons](https://open.spotify.com/artist/54Pc87vBkLMKbQfrd7ZWxF) | [Can You Feel It](https://open.spotify.com/album/46f9lGS1JlRVi822uJoJ3J) | 0:29 | 2022-02-24 |  |
 | [Can't Take My Joy](https://open.spotify.com/track/2F4Ojd5cJ4JIEqs4GZEWPr) | [DJ Private Ryan](https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp), [Terri Lyons](https://open.spotify.com/artist/54Pc87vBkLMKbQfrd7ZWxF) | [Sunkissed Shores](https://open.spotify.com/album/1Qh6lvD6dPqqLhViFvwYrg) | 3:23 | 2021-08-26 | 2022-02-25 |
 | [Carnival Tabanca](https://open.spotify.com/track/7hkxLRJsB7aratKW1FvtcX) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Differentology](https://open.spotify.com/album/3KU878aDWMso8fbh7JCI1a) | 3:47 | 2022-02-24 |  |
 | [Carry On](https://open.spotify.com/track/4trbSqUbXaoBoAPLKu2Ydb) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Pop's Guitar Riddim](https://open.spotify.com/album/4wQOygGteHTa1gxraUG5zg) | 3:57 | 2022-02-24 |  |
@@ -49,7 +49,7 @@
 | [Gangalee](https://open.spotify.com/track/629yNmA7IpRbI2fORz2xs7) | [Shurwayne Winchester](https://open.spotify.com/artist/2dqzb4OvhCxwr9ogGBEsQx) | [Gangalee](https://open.spotify.com/album/6FcQ8PQ8CEpVvaif04qKy2) | 2:23 | 2022-02-24 |  |
 | [Getaway](https://open.spotify.com/track/6sjNpmOv04pHWsg1bS1gsv) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Stacy Barthe](https://open.spotify.com/artist/0yq6uHIfFks9yOURUuCITV) | [The Wedding Album](https://open.spotify.com/album/1yt5cxkSS043TURuvnA9mZ) | 3:14 | 2021-08-26 | 2022-02-25 |
 | [Give It to Ya](https://open.spotify.com/track/75jyBlvlVkSgjXiQDTWUeS) | [Marzville](https://open.spotify.com/artist/0EW8oVadcmlxZevZFlPm9P) | [Give It to Ya](https://open.spotify.com/album/0iopXsva2XNBdBJgUcE5Vc) | 2:52 | 2022-02-24 |  |
-| [Guh Down \(Remix\) \(feat\. Lil Rick\)](https://open.spotify.com/track/0fZ8ZJbCcGgiHBVN7TQIk3) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [The Return](https://open.spotify.com/album/4T4qIeRhgBXcGoY5Sc18oq) | 3:27 | 2022-02-24 |  |
+| [Guh Down \(Remix\) \(feat\. Lil Rick\)](https://open.spotify.com/track/0fZ8ZJbCcGgiHBVN7TQIk3) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [The Return](https://open.spotify.com/album/4T4qIeRhgBXcGoY5Sc18oq) | 0:29 | 2022-02-24 |  |
 | [Hahaha](https://open.spotify.com/track/2YeIEQKCTTxhLTIoMZj9iU) | [Denise Belfon](https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf), [Ricky T](https://open.spotify.com/artist/3HHHYK2eIjmJgA0zIklzzU) | [Hahaha](https://open.spotify.com/album/5sH9ViOkjSlXjLoY8wsYtz) | 3:09 | 2021-08-26 | 2022-02-25 |
 | [Happy Papi](https://open.spotify.com/track/39YdhPUMInQJYoUN10pXV6) | [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd), [Dan Evens](https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Happy Papi](https://open.spotify.com/album/2toHXbny2GgQQtVcj7kEud) | 3:00 | 2022-02-24 |  |
 | [Happy Place](https://open.spotify.com/track/1BSJqgJMLhrp08utzoJDf7) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [The Backyard Jam](https://open.spotify.com/album/5rJPzIYo2g2HOdwbDEnQYe) | 3:48 | 2021-08-26 |  |

@@ -4,7 +4,7 @@
 
 > Beachy, acoustic tunes for lazy summer days.
 
-110 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/0JCaMOE91Ef3xMfUpqyDsa)
+110 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/0JCaMOE91Ef3xMfUpqyDsa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Build Me Up Buttercup \- Ukulele](https://open.spotify.com/track/6s2A4P2D14VpH3zNmnQU3H) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Better Together & Build Me Up Buttercup \(Ukulele\)](https://open.spotify.com/album/67inhQMLBbDsFQJsZZIr9K) | 3:28 | 2022-03-10 |  |
 | [Can't Take My Eyes Off You](https://open.spotify.com/track/46TJRia9JVaFEt8iEkzzs1) | [Hiapo](https://open.spotify.com/artist/7IGWVNg7zvboJRuWaXrL0K) | [Can't Take My Eyes Off You](https://open.spotify.com/album/4nXzck1c8g4EluvSWEOJpi) | 3:22 | 2022-03-10 |  |
 | [Chacharerita Mia](https://open.spotify.com/track/535hSZOoxufWFeB3sstnep) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Chacharerita Mia](https://open.spotify.com/album/5FWVfIerIXzDqEOB3LKeei) | 3:31 | 2022-03-10 |  |
-| [Clear Skies](https://open.spotify.com/track/5IbREiXznEMSrENm8iOOtw) | [Channing Spence](https://open.spotify.com/artist/7HHhJuGxvzmJzu0UOfrEEp) | [Clear Skies](https://open.spotify.com/album/3bIlYKIGezGDTciPBX3JLU) | 3:15 | 2022-03-10 |  |
+| [Clear Skies](https://open.spotify.com/track/5IbREiXznEMSrENm8iOOtw) | [Channing Spence](https://open.spotify.com/artist/7HHhJuGxvzmJzu0UOfrEEp) | [Clear Skies](https://open.spotify.com/album/3bIlYKIGezGDTciPBX3JLU) | 0:29 | 2022-03-10 |  |
 | [Colors](https://open.spotify.com/track/6nbEqrP3sm08UJ7fBgjEqM) | [Alex Miracone](https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh) | [Colors](https://open.spotify.com/album/7soao7wkz07f7w3EZn7p6Q) | 3:02 | 2022-03-10 |  |
 | [Come On Get Higher](https://open.spotify.com/track/1kyWVfQ7VVJqyZ05gSUhQ0) | [Brandi Singer](https://open.spotify.com/artist/6M21uZWGDjG8BDYuFBTxzo) | [Ukelele Girl](https://open.spotify.com/album/6dMsLBwMpTlwWsE1U3Sz7R) | 3:37 | 2022-03-10 |  |
 | [Connection](https://open.spotify.com/track/3gkGaOATZDdXpLC05L2YMb) | [KORIBA](https://open.spotify.com/artist/0ttPJjx1cSyAn4CNVPNpEJ) | [A Day In The Forest](https://open.spotify.com/album/62XdTcse6AjFvUMJuNoyub) | 2:16 | 2022-03-10 |  |
@@ -33,7 +33,7 @@
 | [Dancing In The Moonlight](https://open.spotify.com/track/6KeHsd0q92Sm9nMpXw7kbp) | [Miles Stevens](https://open.spotify.com/artist/4iFBTDdERv7dXIDdtJ70Rd) | [Dancing In The Moonlight](https://open.spotify.com/album/1WiRcfUayPpf5PiDIb3NhI) | 2:49 | 2022-03-10 |  |
 | [Despacito](https://open.spotify.com/track/4S8QnyDR8D1OebNQGnND5i) | [Hannah Sugar](https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB) | [Heather](https://open.spotify.com/album/0AUiVvugI0KDonoRFZktg9) | 3:17 | 2022-03-10 |  |
 | [Dew](https://open.spotify.com/track/6JqfE4pSUOgILE5nbkjnRQ) | [Hilder Sky](https://open.spotify.com/artist/4VtFCdJXVb9aKGq8Pt5dZQ) | [Dew](https://open.spotify.com/album/0EZFTQf7FtZP5N8Qqwz4ip) | 2:32 | 2022-03-10 |  |
-| [Don't Belong Anywhere](https://open.spotify.com/track/6ehsAZzWS6dADcl5bQ5Hyb) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Don't Belong Anywhere](https://open.spotify.com/album/1qdJJiWx2rAQBmHJIo4Bgj) | 3:53 | 2022-03-10 |  |
+| [Don't Belong Anywhere](https://open.spotify.com/track/6ehsAZzWS6dADcl5bQ5Hyb) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Don't Belong Anywhere](https://open.spotify.com/album/1qdJJiWx2rAQBmHJIo4Bgj) | 0:29 | 2022-03-10 |  |
 | [Don't Look Back](https://open.spotify.com/track/7CGhNKVYThivDTjXTV34ej) | [Luna Leigh](https://open.spotify.com/artist/15QfJ6oZojHoP3JozO2079) | [Don't Look Back](https://open.spotify.com/album/7ky9LVdqdBG450s2w7pyVy) | 2:47 | 2022-03-10 |  |
 | [Don't Worry Be Happy](https://open.spotify.com/track/4CGLkQhF9G2aTExZChONix) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Don't Worry Be Happy / Let It Be](https://open.spotify.com/album/1ydxRAszbsOi1V9SMWsoP8) | 5:22 | 2022-03-10 |  |
 | [Dream Of Kapalua](https://open.spotify.com/track/3Ix8AFTXjJIqHbDkUdVU6z) | [Jim Kama](https://open.spotify.com/artist/4freTExwYI8GowzmoaluQJ) | [Dream Of Kapalua](https://open.spotify.com/album/2KKNEk0GmsqPx2SHsSL049) | 2:28 | 2022-03-10 |  |

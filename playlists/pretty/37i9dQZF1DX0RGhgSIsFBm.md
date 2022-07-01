@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RGhgSIsFBm.md) - [plain]
 
 > A collection of classic horror and spooky stories, from Stoker to Hitchcock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,803 likes - 127 songs - 1 day 17 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,796 likes - 127 songs - 1 day 16 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RGhgSIsFBm.md) - [plain]
 | 3 | [At The Piano By Thomas Hardy](https://open.spotify.com/track/4w7bKf70WCO11HlRDZmBp0) | [Ghizela Rowe](https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ) | [Halloween Poems \- Volume 1](https://open.spotify.com/album/3W78ACpEh6bEVPJVvmShN2) | 0:41 |
 | 4 | [The Sorcerer's Apprentice By Johann Wolfgang Von Goethe](https://open.spotify.com/track/3BAVEMVNxsAUHZhHbCGLF5) | [Bart Wolffe](https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk) | [The Halloween Poetry Collection](https://open.spotify.com/album/1yMhVi0QBWc6ZmT0DCJCz9) | 9:18 |
 | 5 | [The Pit and the Pendulum \(1957\)](https://open.spotify.com/track/0XAIQIkVuO2TqMfRWM3D1E) | [Edgar Allan Poe](https://open.spotify.com/artist/6pcPyOpEwaoP9q7wOjqHx0) | [The Best Of The Radio Years](https://open.spotify.com/album/6cHAhaiHDH4eHBGzIHcF0z) | 24:59 |
-| 6 | [Frankenstein \- The 1944 Radio Broadcast](https://open.spotify.com/track/3q2wIjH8SowKDsqw73HBzF) | [Frankenstein](https://open.spotify.com/artist/6Q6XKbZTemo9jK8YBdX81c) | [Frankenstein \- The 1944 Radio Broadcast](https://open.spotify.com/album/1hhHDowW8ddaBVZBrFY3QB) | 26:42 |
+| 6 | [Frankenstein \- The 1944 Radio Broadcast](https://open.spotify.com/track/3q2wIjH8SowKDsqw73HBzF) | [Frankenstein](https://open.spotify.com/artist/6Q6XKbZTemo9jK8YBdX81c) | [Frankenstein \- The 1944 Radio Broadcast](https://open.spotify.com/album/1hhHDowW8ddaBVZBrFY3QB) | 0:29 |
 | 7 | [The Country of the Blind by H\. G\. Wells](https://open.spotify.com/track/20HmOwxyI3Q9b1fho9JkW7) | [Laurence Olivier](https://open.spotify.com/artist/67ONR17eAcuRMcqsLqc0M5), [Nelson Olmsted](https://open.spotify.com/artist/3qTB5caIpkSUtGFge9HB7Q), [Herbert Marshall](https://open.spotify.com/artist/7kEAIrSpOHG1YwP8uKiUsN) | [Tales of Suspense](https://open.spotify.com/album/7GoP0YPkwuYmE3iuJwXxdG) | 26:53 |
 | 8 | [The Haunted and the Hunters](https://open.spotify.com/track/0B1qeuJ5BYHH1gJIcFvIAx) | [Alfred Hitchcock](https://open.spotify.com/artist/55RmZVCCLA4iZXgWibmh0i) | [Ghost Stories for Young People](https://open.spotify.com/album/4HLCggkFZDw4BUdkOa4q1c) | 8:07 |
 | 9 | [The Vampyre By Lord Byron](https://open.spotify.com/track/3irbPc3ZUm7AquUYiPzhgO) | [Ghizela Rowe](https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ) | [Halloween Poems \- Volume 1](https://open.spotify.com/album/3W78ACpEh6bEVPJVvmShN2) | 0:57 |
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RGhgSIsFBm.md) - [plain]
 | 93 | [The Dead \- Part Two](https://open.spotify.com/track/0CjYTMSTHamGLYMeGNg9h3) | [Bart Wolffe](https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk) | [The Dead By James Joyce](https://open.spotify.com/album/1RiseYCaSyaBEHtiDI768E) | 27:37 |
 | 94 | [The Dead \- Part Three](https://open.spotify.com/track/6h8E7Zi73yyFx6wAN0q85b) | [Bart Wolffe](https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk) | [The Dead By James Joyce](https://open.spotify.com/album/1RiseYCaSyaBEHtiDI768E) | 27:45 |
 | 95 | [The Dead \- Part Four](https://open.spotify.com/track/5E7oTKhbwUygKB3BhUdm2X) | [Bart Wolffe](https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk) | [The Dead By James Joyce](https://open.spotify.com/album/1RiseYCaSyaBEHtiDI768E) | 28:32 |
-| 96 | [Death For Sale](https://open.spotify.com/track/7674ggj11BvCUX8APhhVX3) | [Boris Karloff](https://open.spotify.com/artist/1W9sjfsJp3TqWFgvScMZdG) | [Death For Sale](https://open.spotify.com/album/6Caq3s2jiIlr1HKzYRIEFp) | 23:10 |
+| 96 | [Death For Sale](https://open.spotify.com/track/7674ggj11BvCUX8APhhVX3) | [Boris Karloff](https://open.spotify.com/artist/1W9sjfsJp3TqWFgvScMZdG) | [Death For Sale](https://open.spotify.com/album/6Caq3s2jiIlr1HKzYRIEFp) | 0:29 |
 | 97 | [Introduction](https://open.spotify.com/track/44V3ttaOcnWhfT9CNmIP54) | [Boris Karloff](https://open.spotify.com/artist/1W9sjfsJp3TqWFgvScMZdG) | [An Evening With Boris Karloff and His Friends](https://open.spotify.com/album/3CbqxcM7oVtO7oMZS0SYrY) | 1:42 |
 | 98 | [Dracula](https://open.spotify.com/track/0TOuNbmTMuDKHkcTF1e4NI) | [Boris Karloff](https://open.spotify.com/artist/1W9sjfsJp3TqWFgvScMZdG) | [An Evening With Boris Karloff and His Friends](https://open.spotify.com/album/3CbqxcM7oVtO7oMZS0SYrY) | 2:54 |
 | 99 | [All About the Monster](https://open.spotify.com/track/7iMxjk6xSk3W9JKxVDyqaG) | [Boris Karloff](https://open.spotify.com/artist/1W9sjfsJp3TqWFgvScMZdG) | [An Evening With Boris Karloff and His Friends](https://open.spotify.com/album/3CbqxcM7oVtO7oMZS0SYrY) | 1:50 |

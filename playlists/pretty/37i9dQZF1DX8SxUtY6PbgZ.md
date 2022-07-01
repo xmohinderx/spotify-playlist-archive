@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SxUtY6PbgZ.md) - [plain]
 
 > Ambient at the movies; great atmospheric, ethereal film soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,421 likes - 71 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,525 likes - 71 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SxUtY6PbgZ.md) - [plain]
 | 34 | [Wronged](https://open.spotify.com/track/3XptMC13EGxFOeaCbZKwqN) | [Guillermo Martorell](https://open.spotify.com/artist/6TDiKnVSdAfun76YcmNPOU) | [In the Box \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ANggPyysoxXAitMigcmO) | 3:44 |
 | 35 | [It's Good To Die](https://open.spotify.com/track/2QgFQNYCpalmxDAHlzhW8x) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i), [Miles Hankins](https://open.spotify.com/artist/4tqMA2ZNL5HvWLy3OKUia6) | [Nine Perfect Strangers \(Original Series Soundtrack\)](https://open.spotify.com/album/6IEFqwgyEboJzqneOMkJiA) | 1:12 |
 | 36 | [What If We Could?](https://open.spotify.com/track/1WarbadpH0uRaeELcPhTOv) | [Trent Reznor](https://open.spotify.com/artist/0hRijdwO8UsJMudc3476ma), [Atticus Ross](https://open.spotify.com/artist/5HARKwnZLNQBeUGsTHX2AM) | [The Girl With the Dragon Tattoo](https://open.spotify.com/album/1xQIUflGgH0m0UwXuQzETs) | 4:07 |
-| 37 | [Syriana](https://open.spotify.com/track/7m2JFqY9GRkHsEr6roBJ5j) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0), [The Hollywood Studio Symphony](https://open.spotify.com/artist/7EDsxqvVACibUGGHfMNjyK) | [Syriana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3TGwb4PjXElYap7ypqqFGs) | 2:28 |
+| 37 | [Syriana](https://open.spotify.com/track/7m2JFqY9GRkHsEr6roBJ5j) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0), [The Hollywood Studio Symphony](https://open.spotify.com/artist/7EDsxqvVACibUGGHfMNjyK) | [Syriana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3TGwb4PjXElYap7ypqqFGs) | 0:29 |
 | 38 | [The Candlelight Vigil](https://open.spotify.com/track/109AftOEye10Xdhotqc2bN) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Prisoners \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5MdxtYNgZJiZMegeZ3Qe1U) | 5:10 |
 | 39 | [The Lord's Prayer](https://open.spotify.com/track/6W7YVL1bxpEyenjYIQSc0a) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Prisoners \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5MdxtYNgZJiZMegeZ3Qe1U) | 2:31 |
 | 40 | [The Alien](https://open.spotify.com/track/1FKeutbl2sFHk81ZQqR105) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [Annihilation \(Music from the Motion Picture\)](https://open.spotify.com/album/0zTrUccbI88qkwHvfpH9sP) | 12:03 |

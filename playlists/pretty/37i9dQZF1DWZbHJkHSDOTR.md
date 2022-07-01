@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZbHJkHSDOTR.md) - [plain]
 
 > Our editorial picks for R&B’s best of 2021 in Canada\. Cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,091 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,091 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZbHJkHSDOTR.md) - [plain]
 | 59 | [Baby Who](https://open.spotify.com/track/2KgeYkljkGLetuA97xfU2Z) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Baby Who](https://open.spotify.com/album/0ZX2cJVCHqMIrmnNKKWZ0r) | 3:07 |
 | 60 | [Bad Neighbors](https://open.spotify.com/track/0lYElfgYvfNJfwevdPd3tY) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [Welcome to the Wildfire](https://open.spotify.com/album/7hi77eGIFqKdpj5U71BhJM) | 2:40 |
 | 61 | [Girls](https://open.spotify.com/track/4NVJuIqqxPTjgM9SBK00ow) | [BLK](https://open.spotify.com/artist/51HV0KFq7wIVIs1WIvvVi7) | [Girls](https://open.spotify.com/album/1Oy0O2HQDaDwLjZlDtJCDk) | 3:10 |
-| 62 | [Ur Best Friend \(with Kehlani\)](https://open.spotify.com/track/1gsYCXkisSnnjBb3qwYZoc) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Ur Best Friend](https://open.spotify.com/album/5vQaqB1ZfaOW6BSEGuQ8HC) | 3:02 |
+| 62 | [Ur Best Friend \(with Kehlani\)](https://open.spotify.com/track/1gsYCXkisSnnjBb3qwYZoc) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Ur Best Friend](https://open.spotify.com/album/5vQaqB1ZfaOW6BSEGuQ8HC) | 0:29 |
 | 63 | [Odinma](https://open.spotify.com/track/10qD5TR1NYvFZYNDWTsGma) | [EverythingOShauN](https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03) | [Odinma](https://open.spotify.com/album/1HLc4RXsBj6aK4IBDIJ2a7) | 4:00 |
 | 64 | [gold fronts \(feat\. Lil Wayne\)](https://open.spotify.com/track/7yOEBtOgzkgN52pfM7SOnm) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [gold fronts \(feat\. Lil Wayne\)](https://open.spotify.com/album/6zrhRSr8mkBjiklBDFtMub) | 3:55 |
 | 65 | [Over](https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Over](https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H) | 3:25 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZbHJkHSDOTR.md) - [plain]
 | 81 | [Corazón](https://open.spotify.com/track/2NwGsgYpGT9ta65bxgzdtb) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Corazón](https://open.spotify.com/album/3k9dqyw1PdOMrf8oIHtzQy) | 3:18 |
 | 82 | [Slow Down \(feat\. Lucky Daye\)](https://open.spotify.com/track/3eteKSKRw5l6ZtXFoEoZKG) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Homegrown \(Deluxe\)](https://open.spotify.com/album/1g8c7UXl9odDwOpdoPJsWa) | 3:47 |
 | 83 | [Feelings](https://open.spotify.com/track/24RQJmFOshzqaWUocbKQf8) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [Feelings](https://open.spotify.com/album/6ldPi4TwPODZvzfuKW1oF6) | 2:58 |
-| 84 | [Meu Amor](https://open.spotify.com/track/5RkrgkGhcjxvK5zLypLsDB) | [Joyia](https://open.spotify.com/artist/5XmuPCMjLwYLKWvOCyh6jK) | [Meu Amor](https://open.spotify.com/album/3V0PZAGyWeByeF4rVPP8L1) | 4:10 |
+| 84 | [Meu Amor](https://open.spotify.com/track/5RkrgkGhcjxvK5zLypLsDB) | [Joyia](https://open.spotify.com/artist/5XmuPCMjLwYLKWvOCyh6jK) | [Meu Amor](https://open.spotify.com/album/3V0PZAGyWeByeF4rVPP8L1) | 0:29 |
 | 85 | [LALA \(Unlocked\) \(feat\. Swae Lee\)](https://open.spotify.com/track/58ZPswvAZ5hscCmbYJvNpW) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [LALA \(Unlocked\) \(feat\. Swae Lee\)](https://open.spotify.com/album/18ceMoqxkcGM1xFW4aux6h) | 4:26 |
 | 86 | [Stacy](https://open.spotify.com/track/3nixPfJdbVsPP3uNcHTLAp) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Lost In You](https://open.spotify.com/album/23kfRYglxsFBBSNQ0uEZOt) | 2:24 |
 | 87 | [Coastin’](https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Coastin’](https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr) | 2:55 |

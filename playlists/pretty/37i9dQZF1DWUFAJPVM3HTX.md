@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > New R&B/Soul from independent artists & labels every Wednesday\. Cover: Reggie Becton
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,348 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,506 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 12 | [Damaged](https://open.spotify.com/track/7Ll9gwEBHp0fbqAYqSvPtX) | [Miiesha](https://open.spotify.com/artist/1ehGGQnc7E28DNwhvnFuyL) | [Smoke & Mirrors](https://open.spotify.com/album/057aZhHQhivi8qHTJ8kanY) | 3:16 |
 | 13 | [Take My Picture](https://open.spotify.com/track/41N0IYG9GNyWxHwOnApnWx) | [Anaïs](https://open.spotify.com/artist/1B40NJiFLj76HWGwuIqD82) | [Take My Picture](https://open.spotify.com/album/6LHXZpXfe1uSRvFdCbMOCA) | 2:32 |
 | 14 | [Ease Up](https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Most Wanted \(Deluxe\)](https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt) | 3:41 |
-| 15 | [hurt \(feat\. Somni\)](https://open.spotify.com/track/03SQMh0CFBDYSrqmbk5hWH) | [Criibaby](https://open.spotify.com/artist/6gQzBYh1naIayoJA567ATQ), [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [hurt](https://open.spotify.com/album/24Krp20zsgYBvpisHMRBLI) | 2:12 |
+| 15 | [hurt \(feat\. Somni\)](https://open.spotify.com/track/03SQMh0CFBDYSrqmbk5hWH) | [Criibaby](https://open.spotify.com/artist/6gQzBYh1naIayoJA567ATQ), [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [hurt](https://open.spotify.com/album/24Krp20zsgYBvpisHMRBLI) | 0:29 |
 | 16 | [So Far Gone](https://open.spotify.com/track/5kR2jakBwovQ60EQOefY6Y) | [Swavie](https://open.spotify.com/artist/0BMO9ZRBkHEyBelg4kjqvb) | [So Far Gone](https://open.spotify.com/album/0OQemNEYUbfJgHPlwzIsPL) | 4:11 |
 | 17 | [Focus](https://open.spotify.com/track/25ivNqkoHQ3zv4LWRe1oef) | [Jaylon Ashaun](https://open.spotify.com/artist/5dhseP7KiICmkxT5waM1Md) | [Focus](https://open.spotify.com/album/5i8Yd6aBBLXluRugSLTlhb) | 2:00 |
 | 18 | [The Coochie Song](https://open.spotify.com/track/1ZKnx75UImiBGaSHp4d8Kg) | [Staasia Daniels](https://open.spotify.com/artist/0VLvev050tpAMCM7FeVZ0n) | [The Coochie Song](https://open.spotify.com/album/7n5avnSR9wyediAPHVWeHR) | 2:55 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 67 | [Wake Up](https://open.spotify.com/track/2HwBTnJwIciESENvfiRYdw) | [D'mari Harris](https://open.spotify.com/artist/6rMZyhoEZxy9PXzp8ptuqd) | [The Prelude](https://open.spotify.com/album/39s7np5TuYJ8klPo2jGc39) | 3:08 |
 | 68 | [under development](https://open.spotify.com/track/2Enq6k1YVPu3nWNnRiGmhf) | [Blest Jones](https://open.spotify.com/artist/58zckWmoqAOoqPtZggJ9OZ) | [under development](https://open.spotify.com/album/00SFUXkQuRjpdVNtuOqayk) | 2:28 |
 | 69 | [his sweater](https://open.spotify.com/track/0La9XmPkPRhGARB7zXfaEd) | [Ebhoni](https://open.spotify.com/artist/7bWXoXVgDSWw6lWZD4fCb6) | [his sweater](https://open.spotify.com/album/24Q2QnYeG30KzsXygkQz8v) | 2:41 |
-| 70 | [Baby Mother](https://open.spotify.com/track/6ORFADv7mmOJ0Ko2VcfD1F) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [Stuart Brignell](https://open.spotify.com/artist/4EWsTyHQ5GG3EoffwiXiRd) | [Baby Mother](https://open.spotify.com/album/7ayBY19uK7nYo1I8p3TFW0) | 4:35 |
+| 70 | [Baby Mother](https://open.spotify.com/track/6ORFADv7mmOJ0Ko2VcfD1F) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [Stuart Brignell](https://open.spotify.com/artist/4EWsTyHQ5GG3EoffwiXiRd) | [Baby Mother](https://open.spotify.com/album/7ayBY19uK7nYo1I8p3TFW0) | 0:29 |
 | 71 | [Time Flies](https://open.spotify.com/track/5uEPlpIjiRrnxefCxwKSIq) | [Shaolinn](https://open.spotify.com/artist/08k2gPQqErQja9SME76i8Q) | [Time Flies](https://open.spotify.com/album/1aB96LzLx2G13D4K49YcW4) | 3:31 |
 | 72 | [Pass Time](https://open.spotify.com/track/7MuAIzPxVZwUNJgF9cGZr6) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Pass Time](https://open.spotify.com/album/13Zo5L7T7hhrOdsUUZsiWz) | 3:39 |
 | 73 | [MIRROR](https://open.spotify.com/track/5ByHwV4nCNLOr5FY2KXxgH) | [Miamagination](https://open.spotify.com/artist/7tedjMpZKf4DIFdBA52Q4d) | [MIRROR](https://open.spotify.com/album/0Y3UxSQoq362mlMLZTzTjY) | 3:13 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 75 | [American Dirt](https://open.spotify.com/track/6sX37XMyxy5emswaPxU3gl) | [Flores](https://open.spotify.com/artist/7gjUyv57FGMKDu9agyqW1Z) | [American Dirt / Sangre](https://open.spotify.com/album/2pG38Zw3yE5AVYUDuBuUz3) | 2:35 |
 | 76 | [Beside Me](https://open.spotify.com/track/2VrV7wCTN2LBvhZyv5Xly5) | [Charlie Noiir](https://open.spotify.com/artist/3jAbhB16sbyvBKSpvQzRdO) | [Beside Me](https://open.spotify.com/album/17rqZcnWm6lUbrPG8QSS7g) | 3:30 |
 | 77 | [Disappear](https://open.spotify.com/track/4jmFQAiHWGmgUBIuWY74be) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Disappear](https://open.spotify.com/album/7kTB0TcBJLcEDlfeG9HFTS) | 2:25 |
-| 78 | [Can't Help Myself](https://open.spotify.com/track/6QlWVgJiRRC6IbaW6TSmwB) | [Eric Zayne](https://open.spotify.com/artist/5HMNsIi6AQplZELW9jeLjd) | [Can't Help Myself](https://open.spotify.com/album/14zKEx62p2QYnFb8gyP7qJ) | 3:56 |
+| 78 | [Can't Help Myself](https://open.spotify.com/track/6QlWVgJiRRC6IbaW6TSmwB) | [Eric Zayne](https://open.spotify.com/artist/5HMNsIi6AQplZELW9jeLjd) | [Can't Help Myself](https://open.spotify.com/album/14zKEx62p2QYnFb8gyP7qJ) | 0:29 |
 | 79 | [OH MY GOD](https://open.spotify.com/track/7u0nMMBCsmZUFLZwIv6jKO) | [Niels](https://open.spotify.com/artist/67Aux8pNOScNMgB0cA2Gwg) | [OH MY GOD](https://open.spotify.com/album/0CqwF4JgIAVpJgIvqoKjoF) | 3:06 |
 | 80 | [Love In Atlanta](https://open.spotify.com/track/6K8qwbuUweQOdaErsNbdRc) | [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2), [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O) | [Figure It Out](https://open.spotify.com/album/3kAvLGkeU40IINgCQmkiUC) | 3:06 |
 | 81 | [Changes](https://open.spotify.com/track/1vL3vv3AzPXEUh1tDsZjMr) | [SirBastien](https://open.spotify.com/artist/4J3AoVEbI3WEaR8LHVAwRC), [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Jellyfish](https://open.spotify.com/album/4kLxWUzWC2ljw7QLHeWAUg) | 2:56 |

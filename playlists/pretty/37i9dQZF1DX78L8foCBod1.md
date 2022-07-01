@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films\. 代表作「進撃の巨人」シリーズ劇伴をはじめ、数々の名曲を世界に送り出している音楽家。SawanoHiroyuki\[nZk\]名義でも精力的に活動中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,576 likes - 74 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,580 likes - 74 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 | 12 | [scene](https://open.spotify.com/track/4k1XsRFBBrqcGUgYzUMwrz) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [scene](https://open.spotify.com/album/2xRpDHjmbnYyEuQHJIcLxN) | 3:21 |
 | 13 | [その先の光へ](https://open.spotify.com/track/6vhlzDLaHOaENWsdwGCBCc) | [Akihito Okano](https://open.spotify.com/artist/1ioDAlx6i5snCxm2z9ZnUD) | [その先の光へ](https://open.spotify.com/album/1wlUyiLlOK5m7LWBhXxEuc) | 4:22 |
 | 14 | [Perfect Time <HNMT>](https://open.spotify.com/track/4ov3V0TuMnKcd9CfqcQj6H) | [Eliana](https://open.spotify.com/artist/5gLLotXhk8QIBIi4oxaFmP), [mpi](https://open.spotify.com/artist/0M8XP8YqaT4sUTFR6O6EKz) | [劇場版 七つの大罪 光に呪われし者たち オリジナル・サウンドトラック](https://open.spotify.com/album/2jexefwEMStHRf4ZNCCR3F) | 6:20 |
-| 15 | [Avid](https://open.spotify.com/track/28QpCzFbTf09Jsj2zuz58t) | [SawanoHiroyuki\[nZk\]:mizuki](https://open.spotify.com/artist/3QWtKCUakFDZoosqTReaRS) | [Avid](https://open.spotify.com/album/1OpeVvRFxOPSydD2IrOepC) | 4:10 |
+| 15 | [Avid](https://open.spotify.com/track/28QpCzFbTf09Jsj2zuz58t) | [SawanoHiroyuki\[nZk\]:mizuki](https://open.spotify.com/artist/3QWtKCUakFDZoosqTReaRS) | [Avid](https://open.spotify.com/album/1OpeVvRFxOPSydD2IrOepC) | 0:29 |
 | 16 | [AOTF\-s1](https://open.spotify.com/track/4UsCRRCctHBF45wci4a4BR) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack](https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9) | 7:57 |
 | 17 | [AOTF\-s2](https://open.spotify.com/track/5sXmXSfvguJBhQRDzQMqZ8) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack](https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9) | 3:33 |
 | 18 | [AOTF\-s3](https://open.spotify.com/track/2fA7GDUDBo2SO1GRLC5uWe) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack](https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9) | 3:42 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 | 36 | [BRAVE THE OCEAN](https://open.spotify.com/track/0hmk2Wp5zmsH4tRpgGG61b) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [Re:CREATORS Original Soundtrack](https://open.spotify.com/album/79D8sROYs9ik8C3f8dm9ZG) | 4:24 |
 | 37 | [ninelie](https://open.spotify.com/track/0Qjqsp2Yfa05oQOlimaXzO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Chelly](https://open.spotify.com/artist/7IYp1PwnGxaoNmljusPO8Z) | [Best Selection Noir](https://open.spotify.com/album/6RLAmJ22IPTWR4JF9DsZtR) | 4:20 |
 | 38 | [Through My Blood <AM>](https://open.spotify.com/track/7nMyG8CJCgLweioZNOqRJc) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Ninelie \- EP](https://open.spotify.com/album/0GUM4U7aSQfwnhEZ4NYlT3) | 4:01 |
-| 39 | [Grenzlinie](https://open.spotify.com/track/7AA3ECkK5bJWVGpNwKrwAT) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [甲鉄城のカバネリ ORIGINAL SOUNDTRACK](https://open.spotify.com/album/3g5qoaQMLMpDOnfof2RPCn) | 4:56 |
+| 39 | [Grenzlinie](https://open.spotify.com/track/7AA3ECkK5bJWVGpNwKrwAT) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [甲鉄城のカバネリ ORIGINAL SOUNDTRACK](https://open.spotify.com/album/3g5qoaQMLMpDOnfof2RPCn) | 0:29 |
 | 40 | [Keep on keeping on <MODv>](https://open.spotify.com/track/2g6To9Iv78g0o7An2gPgcA) | [SawanoHiroyuki\[nZk\]:mizuki](https://open.spotify.com/artist/3QWtKCUakFDZoosqTReaRS) | [iv](https://open.spotify.com/album/5gCI0vdexP2ItOqQnENQ6w) | 3:44 |
 | 41 | [aLIEz](https://open.spotify.com/track/1sbc8eGIQ69LOdmOdDx6g7) | [SawanoHiroyuki\[nZk\]:mizuki](https://open.spotify.com/artist/3QWtKCUakFDZoosqTReaRS) | [A/Z\|aLIEz](https://open.spotify.com/album/1FgOn3h8OH4b8udcRf230e) | 4:28 |
 | 42 | [BRE@TH//LESS](https://open.spotify.com/track/5OC6Gv6qYt2s59IwiJZhu7) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [アルドノア・ゼロ オリジナル・サウンドトラック](https://open.spotify.com/album/0S7j5fH2fipQ9i9MXwCYqi) | 4:01 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 | 67 | [Zero Eclipse](https://open.spotify.com/track/3MRtp8nHiflu8rrmLYB07X) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [「進撃の巨人」Season3 オリジナルサウンドトラック](https://open.spotify.com/album/68QDg9053hXAeE2GR6lBmD) | 4:13 |
 | 68 | [Binary Star](https://open.spotify.com/track/1KuSFI0ARV38j5spcq7Wbo) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [R∃/MEMBER](https://open.spotify.com/album/77GtJJcdtbg254QMEvQfNr) | 4:43 |
 | 69 | [Christmas Scene](https://open.spotify.com/track/6FCIgCWGvMcMukMKaPzLq3) | [SawanoHiroyuki\[nZk\]:mizuki & Tielle](https://open.spotify.com/artist/1W4ZTER8FDFj6AcABwH5Jh) | [narrative / NOISEofRAIN](https://open.spotify.com/album/1FCMC2u03xrev6UsofDv7X) | 4:47 |
-| 70 | [Saving Us](https://open.spotify.com/track/3qhuTGCGZJ0O9mFz5gpl69) | [SawanoHiroyuki\[nZk\]:Gemie](https://open.spotify.com/artist/1RET5OmR7BEQ7rQthMCRWE) | [o1](https://open.spotify.com/album/7rvt413Q8h0wYZZ7AjNL6T) | 4:43 |
-| 71 | [s\-AVE](https://open.spotify.com/track/1cT6cws3eNVGQCyrtpGHpQ) | [SawanoHiroyuki\[nZk\]:Aimer](https://open.spotify.com/artist/24aMUtQKIRHDMvPI7wPd35) | [o1](https://open.spotify.com/album/7rvt413Q8h0wYZZ7AjNL6T) | 4:34 |
+| 70 | [Saving Us](https://open.spotify.com/track/3qhuTGCGZJ0O9mFz5gpl69) | [SawanoHiroyuki\[nZk\]:Gemie](https://open.spotify.com/artist/1RET5OmR7BEQ7rQthMCRWE) | [o1](https://open.spotify.com/album/7rvt413Q8h0wYZZ7AjNL6T) | 0:29 |
+| 71 | [s\-AVE](https://open.spotify.com/track/1cT6cws3eNVGQCyrtpGHpQ) | [SawanoHiroyuki\[nZk\]:Aimer](https://open.spotify.com/artist/24aMUtQKIRHDMvPI7wPd35) | [o1](https://open.spotify.com/album/7rvt413Q8h0wYZZ7AjNL6T) | 0:29 |
 | 72 | [Cage <NTv>](https://open.spotify.com/track/4aHRYUcSDr58mGep14Y6MI) | [SawanoHiroyuki\[nZk\]:Tielle](https://open.spotify.com/artist/4smWxSH6ikie95jXI9S0Br) | [narrative / NOISEofRAIN](https://open.spotify.com/album/1FCMC2u03xrev6UsofDv7X) | 4:39 |
 | 73 | [ME & CREED <nZkv>](https://open.spotify.com/track/6MXCJwgxBt991xQt2kC9Dw) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [R∃/MEMBER](https://open.spotify.com/album/77GtJJcdtbg254QMEvQfNr) | 3:26 |
 | 74 | [Wild War Dance](https://open.spotify.com/track/3tRN3UhMG13l0FGUlEgLwW) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [「戦国BASARA弐」音楽絵巻 弐 \~乱世、再び!\~](https://open.spotify.com/album/5uiEMPybqprqh2TMaOR677) | 3:25 |

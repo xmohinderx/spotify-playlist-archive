@@ -4,7 +4,7 @@
 
 > No rules\. No boundaries\. Just cool music you need to hear\. Cover: Weezer
 
-375 songs - 19 hr 53 min - [published](https://open.spotify.com/playlist/4nMPQOlCNMSE5OFGV7xGWt)
+375 songs - 19 hr 51 min - [published](https://open.spotify.com/playlist/4nMPQOlCNMSE5OFGV7xGWt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [Here's To Moving On](https://open.spotify.com/track/5CR0GYilasGkYkXUqCQNEr) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Here's To Moving On](https://open.spotify.com/album/10JjmdD5wrOGh3Apj0osje) | 4:17 | 2021-11-26 | 2022-02-19 |
 | [Hero](https://open.spotify.com/track/0Uh9ks0HAyQRIPG4hJFncV) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Hero / Island](https://open.spotify.com/album/0U4UXfPMmTyGJZI6kZdnYr) | 2:28 | 2021-11-26 | 2022-02-05 |
 | [Hertz](https://open.spotify.com/track/7fri3wodaEszuJBZcGB4VF) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/24JeT9uxcmqL227jId3Pci) | 2:33 | 2022-06-10 |  |
-| [High Again](https://open.spotify.com/track/0DfJSAKlgfjqPLDIsBrOic) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [High Again](https://open.spotify.com/album/1gwyYE4gE9VvucBwpaRMvK) | 2:55 | 2022-05-27 |  |
+| [High Again](https://open.spotify.com/track/0DfJSAKlgfjqPLDIsBrOic) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [High Again](https://open.spotify.com/album/1gwyYE4gE9VvucBwpaRMvK) | 0:29 | 2022-05-27 |  |
 | [High Priestess](https://open.spotify.com/track/5SiznYWcgL8nfDNwoDdJa8) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [High Priestess](https://open.spotify.com/album/0HzNnOls6EoSgMtbzLIGB8) | 3:13 | 2022-05-20 | 2022-06-25 |
 | [High Water](https://open.spotify.com/track/0ZrHaA9ei55Km65yBodElf) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [High Water / Art of Survival](https://open.spotify.com/album/35Wec8JgWduyeZnMsvPpym) | 3:09 | 2022-04-08 |  |
 | [Hold Me in the Moonlight](https://open.spotify.com/track/7spqZfs1HsUWUTVr43Fr0i) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Hold Me in the Moonlight](https://open.spotify.com/album/0vcCGF90qepcm2jmbtCNEi) | 2:50 | 2021-11-26 | 2022-02-05 |

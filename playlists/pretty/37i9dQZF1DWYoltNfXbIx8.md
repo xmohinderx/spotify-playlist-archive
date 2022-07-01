@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 
 > Uma playlist só com as origens do Rap nacional\. Foto: MV Bill
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,567 likes - 70 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,625 likes - 70 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 42 | [Falcao](https://open.spotify.com/track/3C6fRtMqdcQltHcepeWBCY) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ) | [O Bagulho E Doido](https://open.spotify.com/album/4cHZppm23SgeWzt3JTU8At) | 4:29 |
 | 43 | [Mandando Bronca](https://open.spotify.com/track/3gxKCBisGDEcv4kDNyFocz) | [Pavilhão 9](https://open.spotify.com/artist/5QTksGpRsgrYaFe1Gnf2AH), [Max](https://open.spotify.com/artist/4uPE8jQtZMzl7kYevZv26v), [Igor Cavalera](https://open.spotify.com/artist/54SDl74Lz33Vi2SnbO5GFu) | [Cadeia Nacional](https://open.spotify.com/album/1c7a4F6mAh53vef9gWrhl5) | 4:26 |
 | 44 | [Pânico na Zona Sul](https://open.spotify.com/track/5MS06gIb0ertXR7JENsTQL) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Holocausto Urbano](https://open.spotify.com/album/5xQx7NRZ0P9s03owKob8iP) | 4:40 |
-| 45 | [Aquela Mina É Firmeza \- Ao Vivo](https://open.spotify.com/track/4MEJ6rpnZSOBgA9B5xaFpg) | [Ndee Naldinho](https://open.spotify.com/artist/0nNM4GoozMXNtRBGOwzFCA) | [Ao Vivo](https://open.spotify.com/album/1uE5G37TRNrqrXJvn2hPNu) | 6:34 |
+| 45 | [Aquela Mina É Firmeza \- Ao Vivo](https://open.spotify.com/track/4MEJ6rpnZSOBgA9B5xaFpg) | [Ndee Naldinho](https://open.spotify.com/artist/0nNM4GoozMXNtRBGOwzFCA) | [Ao Vivo](https://open.spotify.com/album/1uE5G37TRNrqrXJvn2hPNu) | 0:29 |
 | 46 | [O Trem](https://open.spotify.com/track/4FpVLn9ne4NDGo83yRTAIi) | [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU) | [RZO](https://open.spotify.com/album/0z0tSJkDzOzb7ljZPHsDgn) | 5:12 |
 | 47 | [Só por Você](https://open.spotify.com/track/3Xpwp14Xqhwh7F5wwimrJ8) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Seja Como For](https://open.spotify.com/album/7I9xil7ukJrSkUY46RjMSd) | 4:19 |
 | 48 | [No Brooklin](https://open.spotify.com/track/6KdAJ0GvDGUp2RhuTo4BkU) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/7f7tJ66hE6aghmPubHTqVk) | 5:47 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 67 | [Enxame](https://open.spotify.com/track/21HGlwk8A6uiTMdb74W4Jb) | [Sp Funk](https://open.spotify.com/artist/6gOXHHfszKFFvIaKUe2aTN), [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU), [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B) | [O Lado B do Hip Hop](https://open.spotify.com/album/1Dt0zURMcpStSTSsDFIOVP) | 6:31 |
 | 68 | [Se o Mundo Inteiro Pudesse Me Ouvir](https://open.spotify.com/track/4pEi1lS6zX3MSsMUH1BBwz) | [Filosofia de Rua](https://open.spotify.com/artist/7rwCXuDiu5DR1oLOmTBOLz), [Adriana Lessa](https://open.spotify.com/artist/0rYHFYy1sEUIRLg8vaoIim) | [Valeu a Experiência](https://open.spotify.com/album/5aQEUX7xQXEiBVRjyc5I8v) | 5:36 |
 | 69 | [Saudades Mil](https://open.spotify.com/track/79zU8jvVMf5GEvpFqBF1Ya) | [509\-E](https://open.spotify.com/artist/1PA11Cy0SrjmwymvGS9h0C) | [Provérbios 13](https://open.spotify.com/album/57PrguDb7kufweSs0PyAwT) | 8:46 |
-| 70 | [O Clã da Vila](https://open.spotify.com/track/5nTbVPKyZKVmFSecCTOYQw) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Satiras](https://open.spotify.com/artist/7gDFnhMz0f2jqUeNVr9TdA), [HHC](https://open.spotify.com/artist/57vnpZ4v77hRjGNISaOKbK), [BNegão](https://open.spotify.com/artist/3wYrCJWf6iI5vuUDOnZdUw) | [O Clã da Vila](https://open.spotify.com/album/4JLOi2j58hErx1BMMaT2Kx) | 7:33 |
+| 70 | [O Clã da Vila](https://open.spotify.com/track/5nTbVPKyZKVmFSecCTOYQw) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Satiras](https://open.spotify.com/artist/7gDFnhMz0f2jqUeNVr9TdA), [HHC](https://open.spotify.com/artist/57vnpZ4v77hRjGNISaOKbK), [BNegão](https://open.spotify.com/artist/3wYrCJWf6iI5vuUDOnZdUw) | [O Clã da Vila](https://open.spotify.com/album/4JLOi2j58hErx1BMMaT2Kx) | 0:29 |
 
 Snapshot ID: `MTY0NTc1ODA2MCwwMDAwMDAwZjAwMDAwMTdmMmVkMzE2NjIwMDAwMDE3ZDU5MzM0N2Zk`

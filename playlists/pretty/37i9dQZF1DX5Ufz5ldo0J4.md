@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ufz5ldo0J4.md) - [plain]
 
 > Lean back, close your eyes, and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,594 likes - 246 songs - 11 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,619 likes - 246 songs - 11 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ufz5ldo0J4.md) - [plain]
 | 29 | [Grain Of Sand](https://open.spotify.com/track/2WiuZ3Hn1qqvAoX7CUSfnm) | [Sol Aurora](https://open.spotify.com/artist/3gAQNBieKjVM4cpp5W470A) | [Grain Of Sand](https://open.spotify.com/album/0NdprMBVBSlzUK0w83q0l1) | 2:54 |
 | 30 | [The Explorer](https://open.spotify.com/track/02CXPIbxZQD8utqIQBQ59A) | [Burgundy Skies](https://open.spotify.com/artist/2txYwbS88ztbJYTKGVeUrq) | [The Explorer](https://open.spotify.com/album/572p09vhNOLPyc0PHeMWuf) | 2:36 |
 | 31 | [Weightless](https://open.spotify.com/track/65Uo3C5r9GJMPsiRa6uzMV) | [Gentle Leap](https://open.spotify.com/artist/0vTq6p4BHWx0EQnecyGugw) | [So Serene](https://open.spotify.com/album/0l30rC4MLaOtlsfOcisQL6) | 2:22 |
-| 32 | [Point of No Return](https://open.spotify.com/track/33h42Lr9t0sgZ4JxYRLu5M) | [Ishitani](https://open.spotify.com/artist/7l5MAuQW3tchqPDTn4vo0i) | [Point of No Return](https://open.spotify.com/album/6YQWk5y3yjYByJ1MQRnDsX) | 3:58 |
+| 32 | [Point of No Return](https://open.spotify.com/track/33h42Lr9t0sgZ4JxYRLu5M) | [Ishitani](https://open.spotify.com/artist/7l5MAuQW3tchqPDTn4vo0i) | [Point of No Return](https://open.spotify.com/album/6YQWk5y3yjYByJ1MQRnDsX) | 0:29 |
 | 33 | [Salve](https://open.spotify.com/track/3ciGnLsselzhecVZZiHzfZ) | [Ferdinando Zetticci](https://open.spotify.com/artist/4MLLLG0z38an4nXddu8R3O) | [Salve](https://open.spotify.com/album/73yZQQSNzwlGyMBwndXjrd) | 2:50 |
 | 34 | [Scared To Lose Someone](https://open.spotify.com/track/5BRBfTf0rRIfJgXVacS6cL) | [Bryn Williams](https://open.spotify.com/artist/2EYQUBVJqp5CH3lOSj5FLJ) | [Scared To Lose Someone](https://open.spotify.com/album/3jrXoHU10DsH3EFAuIK9Bo) | 2:13 |
 | 35 | [Purple Skies](https://open.spotify.com/track/0FgH4pMsTovHYDLs49l5LJ) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Purple Skies](https://open.spotify.com/album/6kVpioXtXTxlQHZz7bzb2b) | 3:09 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ufz5ldo0J4.md) - [plain]
 | 72 | [Gouldian Finch](https://open.spotify.com/track/1Zldb4ExDOShiURHT6q53b) | [Keira Conlon](https://open.spotify.com/artist/2PeXm2l3nGWuNKDr7ATimr) | [Gouldian Finch](https://open.spotify.com/album/73gIQgjaguRvVe6YhVeyBe) | 2:46 |
 | 73 | [Til Mathilde](https://open.spotify.com/track/74hynqEUgqRntXOfiqAkd9) | [Tine Mydland](https://open.spotify.com/artist/2EvTWBcDR6yBKnXj4aCgQp) | [Til Mathilde](https://open.spotify.com/album/3VgStQpHt6x0AfiBI1t92P) | 4:15 |
 | 74 | [Fireplace](https://open.spotify.com/track/6zO5kSbABJPDnMTMkbRGsG) | [Sam Sandro](https://open.spotify.com/artist/0oOXxPFTxaSLUB9cmMXyIE) | [Ballroom](https://open.spotify.com/album/6UsoKe7yyuSBvWyW5FlyKw) | 2:40 |
-| 75 | [Dreaming](https://open.spotify.com/track/2ehZXVH7qTOFxxDZymEffu) | [Sarah Neumann](https://open.spotify.com/artist/5alCiHBSrsl9QwRvp2ASy1) | [Dreaming](https://open.spotify.com/album/1izkq2wwDzUJJ2FpN3Bqza) | 2:50 |
+| 75 | [Dreaming](https://open.spotify.com/track/2ehZXVH7qTOFxxDZymEffu) | [Sarah Neumann](https://open.spotify.com/artist/5alCiHBSrsl9QwRvp2ASy1) | [Dreaming](https://open.spotify.com/album/1izkq2wwDzUJJ2FpN3Bqza) | 0:29 |
 | 76 | [Noches rojas](https://open.spotify.com/track/1npS27jD8Fm6QpNHmtH5Pq) | [Luna Meguise](https://open.spotify.com/artist/44iKmwaKZGgsGDVVzjKIMV) | [Noches rojas](https://open.spotify.com/album/3bJk1wBUTadZVvqgi26z3q) | 2:13 |
 | 77 | [Wren](https://open.spotify.com/track/2BNIB51vC5Xf4s14N57VTH) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Near Dawn](https://open.spotify.com/album/1kwA8Ztf4Na8mlGciyedSS) | 3:36 |
 | 78 | [Haven](https://open.spotify.com/track/0XxpwWVXoNEi3e8ypMDjUk) | [Adriana Milou](https://open.spotify.com/artist/1hdDs4wK0nVxEMPc1IXXRb) | [Haven](https://open.spotify.com/album/3JP6iMuwfXasBbxNBqv4Ni) | 3:50 |
@@ -199,7 +199,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ufz5ldo0J4.md) - [plain]
 | 189 | [Hopes & Dreams](https://open.spotify.com/track/20MbEMn0Dj7ZZZtbPTRfxb) | [Topi Anoz/Ohn Lee](https://open.spotify.com/artist/3ZBmxMD8g2rMip2PRs8fm7) | [The Ocean & Us](https://open.spotify.com/album/1cLNLtJ8coZVxb3DDfkFSh) | 2:31 |
 | 190 | [Loss Trancends to Gain](https://open.spotify.com/track/3KSS4USSsOhXesezYsbaMa) | [Eleanor Arroway](https://open.spotify.com/artist/3x2VCXXsd5bySXXdbhLZPJ) | [Spiritual Synchronicities](https://open.spotify.com/album/1YbA9gfaowEwRK64Se0Q5b) | 4:17 |
 | 191 | [Diligence](https://open.spotify.com/track/1mBe4d92QRRMqN1FQ2cvup) | [Jiao Ch'ien](https://open.spotify.com/artist/6cz6KGJs1Q28j0nknp9sck) | [Diligence](https://open.spotify.com/album/2dswTsB44D75N7rgLaXFvd) | 3:46 |
-| 192 | [Svanninge Bakker](https://open.spotify.com/track/0rC5Pg1C2ig0OxyaM3Gro3) | [Alida Sørby](https://open.spotify.com/artist/47AYObaLEm9QiTcfz3u7M9) | [Svanninge Bakker](https://open.spotify.com/album/4fuBNKsqvOsvVZRe0rd0XX) | 1:57 |
+| 192 | [Svanninge Bakker](https://open.spotify.com/track/0rC5Pg1C2ig0OxyaM3Gro3) | [Alida Sørby](https://open.spotify.com/artist/47AYObaLEm9QiTcfz3u7M9) | [Svanninge Bakker](https://open.spotify.com/album/4fuBNKsqvOsvVZRe0rd0XX) | 0:29 |
 | 193 | [Nibelia](https://open.spotify.com/track/4f5uEi9y4C2gI4IBalSRjd) | [Algy Lacey](https://open.spotify.com/artist/4FOaoaFSozNtPQFy8O8t48) | [Nibelia](https://open.spotify.com/album/2OdvQNyQdAT3zOsZU3ozrA) | 3:44 |
 | 194 | [Vue d'hiver](https://open.spotify.com/track/0ynxLfs9IO4bi4AMBbHqI9) | [Laetitia Dostie](https://open.spotify.com/artist/5s6PaKcOZ8NA318EJoA86v) | [Vue d'hiver](https://open.spotify.com/album/4MfRxWi64sceHw2Hgbyp6Y) | 1:58 |
 | 195 | [Underwater World](https://open.spotify.com/track/5LhPkpLXkuR8wr8bFzCGRK) | [Nacreous Clouds](https://open.spotify.com/artist/4VBp6BRKO2Ydd0bqHp1XB6) | [Underwater World](https://open.spotify.com/album/4fhzM0yFXlLZOI6BgNWyMG) | 2:56 |
@@ -229,8 +229,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ufz5ldo0J4.md) - [plain]
 | 219 | [Nightlight](https://open.spotify.com/track/2OlcmyPBuYV93F5yya6gvY) | [Helene Roche](https://open.spotify.com/artist/35rUAUQHv5PFbWv1L6CMrq) | [Nightlight](https://open.spotify.com/album/422z8O8sTk1lBvRS0lyrMr) | 2:09 |
 | 220 | [All Around Us](https://open.spotify.com/track/5jFQb4HLIsyOpClpUNDKqy) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [All Around Us](https://open.spotify.com/album/2wL1Qgbzh1v5NDF4kpMbQC) | 2:50 |
 | 221 | [Pavane](https://open.spotify.com/track/07aNE412CtsxB66SOk0Nu3) | [Nikolaj Gaideur](https://open.spotify.com/artist/7BeOUN76z2LvYSqRpcXqvY) | [Pavane](https://open.spotify.com/album/3Jo5Nvkdjv3moW5bQPC4oP) | 2:11 |
-| 222 | [Dreamland](https://open.spotify.com/track/1Z6HL87hCbjrmlhunxj0mK) | [Lucy Vincent](https://open.spotify.com/artist/3aZqkX0ePw0fBoERFYCD6Z) | [Dreamland](https://open.spotify.com/album/2tlJFcJHHKml5irtNTugCR) | 3:27 |
-| 223 | [Sugar Dreams](https://open.spotify.com/track/1PU9FtEOCCDjigFFl5SliB) | [Alba's Pillows](https://open.spotify.com/artist/76zuGudqum0CSwVHgoAEDY) | [Sugar Dreams](https://open.spotify.com/album/71WNIvjWCIIY7HlXSHu1KN) | 3:31 |
+| 222 | [Dreamland](https://open.spotify.com/track/1Z6HL87hCbjrmlhunxj0mK) | [Lucy Vincent](https://open.spotify.com/artist/3aZqkX0ePw0fBoERFYCD6Z) | [Dreamland](https://open.spotify.com/album/2tlJFcJHHKml5irtNTugCR) | 0:29 |
+| 223 | [Sugar Dreams](https://open.spotify.com/track/1PU9FtEOCCDjigFFl5SliB) | [Alba's Pillows](https://open.spotify.com/artist/76zuGudqum0CSwVHgoAEDY) | [Sugar Dreams](https://open.spotify.com/album/71WNIvjWCIIY7HlXSHu1KN) | 0:29 |
 | 224 | [Ocean Sleep](https://open.spotify.com/track/3XZIrkKbfuKGmgFv4m3Gmu) | [Good Night World](https://open.spotify.com/artist/50XjDK4NtbS0HAv1aJkZwo) | [Good Night World](https://open.spotify.com/album/5nY0DtC9fqJZbWGdN32hvK) | 2:57 |
 | 225 | [Serenity](https://open.spotify.com/track/3hRHtzo5i6J7rKK0g6iite) | [Toledo Rains](https://open.spotify.com/artist/76uaa6flgNHI5elCp0ssBF) | [Serenity](https://open.spotify.com/album/3PzVxjrkJDlSO4t9OXMhw2) | 2:47 |
 | 226 | [Pendulum](https://open.spotify.com/track/3Ad4g7Jvp7B0QlV7XpJYCU) | [Matter and Energy](https://open.spotify.com/artist/4nI8wqhtfCFOYX3vvicEN0) | [Equilibrium](https://open.spotify.com/album/3Tr4GGB3iahsp5CVYtubVj) | 4:29 |

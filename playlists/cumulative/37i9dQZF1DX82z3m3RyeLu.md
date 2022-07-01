@@ -4,7 +4,7 @@
 
 > Listen BAEKHYUN's all solo tracks here.
 
-38 songs - 2 hr 15 min - [published](https://open.spotify.com/playlist/5iO0HQRIaGTet3jq2WjD07)
+38 songs - 2 hr 13 min - [published](https://open.spotify.com/playlist/5iO0HQRIaGTet3jq2WjD07)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,6 @@
 | [YOUNG](https://open.spotify.com/track/49HmLcTG7tsqz32TF3rnCC) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [YOUNG](https://open.spotify.com/album/5XN0VfKWEWpxhjcks8MGLe) | 3:49 | 2021-03-30 |  |
 | [너에게 가는 이 길 위에서 \(너.이.길\)](https://open.spotify.com/track/6NyEYh3xw55B8d5WK5kSrf) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [HYENA \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/5PUCfHi8hSo2wrH2W79Kbs) | 3:58 | 2021-03-30 |  |
 | [두근거려 \(Beautiful\)](https://open.spotify.com/track/7rxnGhTlqU3FRUzd8F4R3d) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [우리 옆집에 EXO가 산다 \(EXO NEXT DOOR\) OST](https://open.spotify.com/album/5r1LKUMNugaBQcHow1pNuc) | 3:44 | 2021-03-30 |  |
-| [비처럼 음악처럼](https://open.spotify.com/track/2NituILXKHPDSTgPVh9wqt) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [2015 가요대전 Limited Edition](https://open.spotify.com/album/61gomND4rCDOYxKnR4sn69) | 3:01 | 2021-03-30 |  |
+| [비처럼 음악처럼](https://open.spotify.com/track/2NituILXKHPDSTgPVh9wqt) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [2015 가요대전 Limited Edition](https://open.spotify.com/album/61gomND4rCDOYxKnR4sn69) | 0:29 | 2021-03-30 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

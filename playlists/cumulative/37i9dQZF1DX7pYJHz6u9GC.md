@@ -4,7 +4,7 @@
 
 > Enjoy the sweet Christmas time in the company of the biggest crooners\. Cover: Nat King Cole.
 
-68 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/1eJxr6WZ5eZ509L1qOagxF)
+68 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/1eJxr6WZ5eZ509L1qOagxF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/4cfFatS3ssDtqDDRz25RRB) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 3:07 | 2021-10-01 |  |
 | [Christmas Dreaming](https://open.spotify.com/track/3u9QZbQtAoMjm0sgmdQ7bx) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) | [Holiday For Swing!](https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4) | 2:47 | 2021-10-01 |  |
 | [Christmas Never Gets Old](https://open.spotify.com/track/7vMmyPkT19fcVqcP5CWlg6) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/0yZjbdYWNna4I7CIkHVW7g) | 2:42 | 2021-10-01 |  |
-| [Christmas Song \(Chestnuts Roasting\)](https://open.spotify.com/track/1W2ubWPoj734ZnvX48fZIk) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Standards \(Deluxe\)](https://open.spotify.com/album/0z4qw7aZuMr5FORtxjg922) | 3:37 | 2021-10-01 |  |
+| [Christmas Song \(Chestnuts Roasting\)](https://open.spotify.com/track/1W2ubWPoj734ZnvX48fZIk) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Standards \(Deluxe\)](https://open.spotify.com/album/0z4qw7aZuMr5FORtxjg922) | 0:29 | 2021-10-01 |  |
 | [Christmas Time Is Here](https://open.spotify.com/track/1moEucbMhmAK6KVPoNw6ms) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Glow \(Deluxe Edition\)](https://open.spotify.com/album/1MRT2V3JLYB6fL2TLJy2Rd) | 3:30 | 2021-10-01 |  |
 | [Christmas Time Is Here](https://open.spotify.com/track/5xaV3gdr0AZH2S4bWIPkUv) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/1rJRpYs4BJ7GIDG0zZCJSM) | 3:21 | 2021-10-01 |  |
 | [Christmasland](https://open.spotify.com/track/4uem1XCcsG4rCk4wl2Why7) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Snowfall \- The Tony Bennett Christmas Album](https://open.spotify.com/album/2sw2JVdzZ4lcn2cxh3Nxdc) | 2:23 | 2021-10-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 
 > Texas music breaking waves\. Cover, KenTheMan
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,444 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,445 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 | 47 | [Ratchet](https://open.spotify.com/track/014PLUZunFPW1EtbcXJLnu) | [Juan Mone](https://open.spotify.com/artist/4et46DfYJMlkRmpGMewaRG) | [SRT](https://open.spotify.com/album/5ZSibtsVrMCp5hvu1rbEM7) | 2:36 |
 | 48 | [Codependency](https://open.spotify.com/track/6QsDQlfHHQDxVeY8DdFZHf) | [David Saint Val](https://open.spotify.com/artist/0KrQ2j4V5xKu9eNVC2UP6J) | [Codependency](https://open.spotify.com/album/4D31MSHLFZlnGXCyyLKDlB) | 3:20 |
 | 49 | [Talk To Me Nice](https://open.spotify.com/track/6BODyzOL9iNS4FJ7vRoR9t) | [Startheonly1ne](https://open.spotify.com/artist/1CHx79WailhfSLpBvUvWqt) | [Judge Me / Talk To Me Nice](https://open.spotify.com/album/7ggmY5o4LAhfMqAtGIQkRT) | 2:34 |
-| 50 | [I’m Not Kidding](https://open.spotify.com/track/5lkO0aXdKXWJXujSfSXKd4) | [Fade 'Em All](https://open.spotify.com/artist/5KPgrRE2BkgShDII1cH1HN) | [I’m Not Kidding](https://open.spotify.com/album/4SYPqCHMW50UULD6WdgPgV) | 3:52 |
+| 50 | [I’m Not Kidding](https://open.spotify.com/track/5lkO0aXdKXWJXujSfSXKd4) | [Fade 'Em All](https://open.spotify.com/artist/5KPgrRE2BkgShDII1cH1HN) | [I’m Not Kidding](https://open.spotify.com/album/4SYPqCHMW50UULD6WdgPgV) | 0:29 |
 
 Snapshot ID: `MTY1NDg4MjMwMywwMDAwMDAxZTAwMDAwMTgxNGVhYmZjZTIwMDAwMDE4MTQwMjUyZjE2`

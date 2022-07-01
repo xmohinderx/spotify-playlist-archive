@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1S4JPQeJxtsN37X8as5EPk.md) - [plain]
 
 > Classic folk, bluegrass, country blues, and spirituals, along with some recent songs that have a traditional vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,535 likes - 49 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,535 likes - 49 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/1S4JPQeJxtsN37X8as5EPk.md) - [plain]
 | 16 | [We Shall Overcome](https://open.spotify.com/track/1jhEkutY7aEmRD8rRvm5eR) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Around the Campfire](https://open.spotify.com/album/2iGp6aL5TSPT0GQDsxJB7l) | 4:04 |
 | 17 | [Tom Dula](https://open.spotify.com/track/7pIuX8kYgWu3lfi0RyUM9C) | [Carolina Chocolate Drops](https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz) | [Dona Got a Ramblin' Mind](https://open.spotify.com/album/2oXZFTTybB7V9u0Cr42DA7) | 3:29 |
 | 18 | [Gallows Tree \(Gallows Pole\)](https://open.spotify.com/track/1ADlybwzIU5LPzfO3WXTGa) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [The Very Best Of American Folk](https://open.spotify.com/album/5RnYdm4rcv6SXVPUuBuDfB) | 2:58 |
-| 19 | [Wayfarin' Stranger](https://open.spotify.com/track/2OvYoehlbU1emq4xQnLqkf) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [Crazy Horse](https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3) | [Americana](https://open.spotify.com/album/1VfoJdwAjt5vbcg8TuczNY) | 3:06 |
+| 19 | [Wayfarin' Stranger](https://open.spotify.com/track/2OvYoehlbU1emq4xQnLqkf) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [Crazy Horse](https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3) | [Americana](https://open.spotify.com/album/1VfoJdwAjt5vbcg8TuczNY) | 0:29 |
 | 20 | [The Times They Are A\-Changin'](https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 3:12 |
 | 21 | [Erie Canal](https://open.spotify.com/track/3uB2T0S3Lnt8tfEvowUVWV) | [Suzy Bogguss](https://open.spotify.com/artist/13YoXxZt6SLg96dQE1vkHy) | [American Folk Songbook](https://open.spotify.com/album/4mfmteTynCWmqlGvLOwDIU) | 3:41 |
 | 22 | [Shenandoah \- with Keith Richards](https://open.spotify.com/track/7kSMtEHQ9fIPsmrQtj5SnY) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Son Of Rogues Gallery: Pirate Ballads, Sea Songs & Chanteys](https://open.spotify.com/album/1uU1qkM6WRnwLGIDYVYKP4) | 4:02 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/1S4JPQeJxtsN37X8as5EPk.md) - [plain]
 | 26 | [Run Around](https://open.spotify.com/track/66ZSRYPKVUOTsir8855Xvx) | [Austin Lucas](https://open.spotify.com/artist/2xXNqL807BAunM2FdmAixU) | [A New Home In The Old World](https://open.spotify.com/album/0rYuSSusgSd5wR18oDsPUx) | 2:53 |
 | 27 | [I Ain't Got No Home in This World Anymore](https://open.spotify.com/track/3SGSZx5jVIFAth3JpYPOqp) | [Sammy Walker](https://open.spotify.com/artist/5MbgNNUvXoRBhhARwa0nPX), [Sis Cunningham](https://open.spotify.com/artist/65Q1w5t5usDLaJN4o3NxPU), [Phil Ochs](https://open.spotify.com/artist/3JhQGw54MOytJP3GZ8KNPo) | [Broadside Ballads, Vol\. 8: Song for Patty](https://open.spotify.com/album/5WLwkFwzz5Tv8H8VRNllaP) | 2:16 |
 | 28 | [Hard Travelin'](https://open.spotify.com/track/7kUQ5lt1O6IecYeOh6zYkd) | [Ramblin' Jack Elliott](https://open.spotify.com/artist/6iuM8yp1x2N0l6SONhyq4b) | [Hard Travelin'](https://open.spotify.com/album/6KuhngYTUSmclhEFXVw6ZS) | 2:32 |
-| 29 | [Strawberry Roan](https://open.spotify.com/track/2DeYIGCgDVliOlUD0BDVVn) | [Dave Stamey](https://open.spotify.com/artist/1RcznpTY0WgHLYFgpDMwh4) | [Campfire Waltz](https://open.spotify.com/album/6kSNmVoXjd8PIWWDxrfEJV) | 3:29 |
+| 29 | [Strawberry Roan](https://open.spotify.com/track/2DeYIGCgDVliOlUD0BDVVn) | [Dave Stamey](https://open.spotify.com/artist/1RcznpTY0WgHLYFgpDMwh4) | [Campfire Waltz](https://open.spotify.com/album/6kSNmVoXjd8PIWWDxrfEJV) | 0:29 |
 | 30 | [The Great Historical Bum](https://open.spotify.com/track/2ZlCMz42sF9c4TMGnNF6oU) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Ballad For Americans And Other American Ballads](https://open.spotify.com/album/28vDWubxgq2ivoaBkYmOns) | 1:59 |
 | 31 | [The Frozen Logger](https://open.spotify.com/track/2ZHSgxAvk1QB7CrSYsxMn7) | [Katie Lee](https://open.spotify.com/artist/7mKkP1VviPDyZv98EOFT67) | [The Essential Collection](https://open.spotify.com/album/3gy4JVkmMmyWGAv1yj8HwZ) | 2:51 |
 | 32 | [Pat Works on the Railroad](https://open.spotify.com/track/1CiF4zwBo0d1Yy5wYVF7LC) | [Joe Glazer](https://open.spotify.com/artist/0mbpwhdmzWPMzw0881Ylzt) | [Singing Brac with Joe Glazer](https://open.spotify.com/album/4EkYjx0HhPbFFVNoLAknrD) | 2:17 |

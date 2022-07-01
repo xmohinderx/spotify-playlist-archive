@@ -4,7 +4,7 @@
 
 > Relax to the calming sounds of choral music.
 
-62 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/1kZsP2YcL77b9nhWoq6gQJ)
+62 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/1kZsP2YcL77b9nhWoq6gQJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,9 +66,9 @@
 | [Veni Creator Spiritus](https://open.spotify.com/track/6K1z9GdRDtg4wrclq649lZ) | [James Morgan](https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC), [Juliette Pochin](https://open.spotify.com/artist/4UD32JlXGLthCDSEkkB5sV), [Poor Clare Sisters Arundel](https://open.spotify.com/artist/2yEndu1Rs4a7uBoFUSZPla) | [Light for the World](https://open.spotify.com/album/5hBu1cttYYkclsdxeKzKRy) | 2:13 | 2021-07-21 |  |
 | [Versa est in luctum](https://open.spotify.com/track/5aJ7jwNHSdudJNTZVzUElL) | [Alonso Lobo](https://open.spotify.com/artist/5yaxZ5EPC1YY3viLY8tmuU), [Tenebrae](https://open.spotify.com/artist/0vUnn6Eje2O5yxEj35touD), [Nigel Short](https://open.spotify.com/artist/4gs13ipYIJhCcqDMOEx9eN) | [Victoria: Requiem Mass, 1605](https://open.spotify.com/album/0Tqsg5yiFRf7CyfhIjKh0W) | 5:32 | 2021-07-21 |  |
 | [Vespers \(All\-Night Vigil\), Op.37: 5\. "Nyne otpushchayeshi"](https://open.spotify.com/track/50wcwAi80QpFCaHgX2RkdY) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Vladimir Mostovoy](https://open.spotify.com/artist/4BTanscTBWJOSpvceZSVSi), [St.Petersburg Chamber Choir](https://open.spotify.com/artist/46WjEugfIF0rKOewvFiby2), [Nikolai Korniev](https://open.spotify.com/artist/70hS9SnJefkZo2QJwS2VXi) | [Rachmaninov: Vespers \- All Night Vigil, Op.37](https://open.spotify.com/album/4LJ7pUGYfM2atqv9LwbVxi) | 3:45 | 2021-07-21 |  |
-| [Water Night](https://open.spotify.com/track/5a6sMOwX1QEjoqCV9FHf8K) | [BYU Singers](https://open.spotify.com/artist/7LVNaxbcWJ9zn4YFzsRAn9) | [Eric Whitacre: The Complete A Cappella Works, 1991\-2001](https://open.spotify.com/album/2IzQJaEAATl6nJFeNUa51C) | 5:16 | 2021-07-21 |  |
+| [Water Night](https://open.spotify.com/track/5a6sMOwX1QEjoqCV9FHf8K) | [BYU Singers](https://open.spotify.com/artist/7LVNaxbcWJ9zn4YFzsRAn9) | [Eric Whitacre: The Complete A Cappella Works, 1991\-2001](https://open.spotify.com/album/2IzQJaEAATl6nJFeNUa51C) | 0:29 | 2021-07-21 |  |
 | [Where All Roses Go](https://open.spotify.com/track/7tsQAEJfP60qsAgJVaqWGB) | [Michael McGlynn](https://open.spotify.com/artist/6eKG1uIKALFd8eQI8JtFoD), [Apollo5](https://open.spotify.com/artist/4dSvehv3V36ySeHEuuGMQx) | [Where All Roses Go, EP Vol\. 2](https://open.spotify.com/album/3hEehGC2lEDdqBdqfn1Vyo) | 4:58 | 2021-07-21 |  |
 | [Whilst Great Is Our Poverty](https://open.spotify.com/track/4x0gTKvCwR5gn9yFw0xWWX) | [Cyrillus Kreek](https://open.spotify.com/artist/528iLyUEtO3pvruI4EwXx2), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Anna\-Liisa Eller](https://open.spotify.com/artist/6QQang0hfuU52p2fD0EWVu), [Angela Ambrosini](https://open.spotify.com/artist/7qoWr7Ppp1vF2vfprEYXSF), [Marco Ambrosini](https://open.spotify.com/artist/7I6Sb7kQGrSkWMh2NVfUVy), [Vox Clamantis](https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p), [Jaan\-Eik Tulve](https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k) | [Cyrillus Kreek \- The Suspended Harp of Babel](https://open.spotify.com/album/4mymYsp2fuShH5ogNWPcj7) | 5:17 | 2021-07-21 |  |
-| [Õhtul](https://open.spotify.com/track/0lvDVkvqrmEAxNd1572ijE) | [Kammerkoor Head Ööd Vend](https://open.spotify.com/artist/5x3KCI4E95AIg3ENC5fCr4) | [Õhtul](https://open.spotify.com/album/22GvWZknKQ3UYoCS4XxJjh) | 3:41 | 2021-07-21 |  |
+| [Õhtul](https://open.spotify.com/track/0lvDVkvqrmEAxNd1572ijE) | [Kammerkoor Head Ööd Vend](https://open.spotify.com/artist/5x3KCI4E95AIg3ENC5fCr4) | [Õhtul](https://open.spotify.com/album/22GvWZknKQ3UYoCS4XxJjh) | 0:29 | 2021-07-21 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

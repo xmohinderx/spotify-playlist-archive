@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nZndNnauO6SID8cjf4C9F.md) - [plain]
 
 > MMG top picks chosen by Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,118 likes - 40 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,118 likes - 40 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/2nZndNnauO6SID8cjf4C9F.md) - [plain]
 | 19 | [Bad Girls Club \(feat\. J\. Cole\)](https://open.spotify.com/track/1CS4y2ml2YyisaXuXtqhiQ) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Bad Girls Club \(feat\. J\. Cole\)](https://open.spotify.com/album/7IyNUXrfIuRa2KYngZRYSU) | 4:34 |
 | 20 | [The Problem](https://open.spotify.com/track/5YvoU1Y6LzuoVqd49TMuRU) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [More About Nothing](https://open.spotify.com/album/5nq9ioskYcYPa7CYULSQ8T) | 4:06 |
 | 21 | [The War](https://open.spotify.com/track/4qaiKyqxcmZP8VPhfylMVv) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [More About Nothing](https://open.spotify.com/album/5nq9ioskYcYPa7CYULSQ8T) | 4:27 |
-| 22 | [Another Luvr](https://open.spotify.com/track/7skVOyJoDimP45EO8TkEew) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE) | [Luxurious Undergrind](https://open.spotify.com/album/2Ey4YxvrLth0qSj0sprlX8) | 4:20 |
-| 23 | [To Hell With It](https://open.spotify.com/track/1Yb7Brj9jmIdoHns2InldA) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE) | [Luxurious Undergrind](https://open.spotify.com/album/2Ey4YxvrLth0qSj0sprlX8) | 3:27 |
+| 22 | [Another Luvr](https://open.spotify.com/track/7skVOyJoDimP45EO8TkEew) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE) | [Luxurious Undergrind](https://open.spotify.com/album/2Ey4YxvrLth0qSj0sprlX8) | 0:29 |
+| 23 | [To Hell With It](https://open.spotify.com/track/1Yb7Brj9jmIdoHns2InldA) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE) | [Luxurious Undergrind](https://open.spotify.com/album/2Ey4YxvrLth0qSj0sprlX8) | 0:29 |
 | 24 | [Power Circle \(feat\. Rick Ross & Kendrick Lamar\)](https://open.spotify.com/track/6zvPkbH8xwDzjnqsjpVJVJ) | [Gunplay](https://open.spotify.com/artist/7cvtOrIEaUrqbGmYA9Kj34), [Stalley](https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [MMG Presents: Self Made, Vol\. 2 \(Deluxe Version\)](https://open.spotify.com/album/2l6Ea6NWoJBM23iVKwxgV5) | 8:37 |
 | 25 | [The Zenith \(feat\. Rick Ross\)](https://open.spotify.com/track/6mE4db2UrqbEDSxOvkkxIo) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Stalley](https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [MMG Presents: Self Made, Vol\. 2 \(Deluxe Version\)](https://open.spotify.com/album/2l6Ea6NWoJBM23iVKwxgV5) | 4:30 |
 | 26 | [The Tune Up](https://open.spotify.com/track/3yF8mnUmEWmwMxbEnzbZFt) | [Stalley](https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A) | [Lincoln Way Nights](https://open.spotify.com/album/5W2LyHQ0jWN7K2D7FITZUY) | 2:35 |

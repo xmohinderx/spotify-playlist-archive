@@ -4,7 +4,7 @@
 
 > The ever\-evolving sound of Alt! Cover: Semler
 
-97 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/1NSGD7171i0HygYQPY0WUi)
+97 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/1NSGD7171i0HygYQPY0WUi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Searching For](https://open.spotify.com/track/1c57E3GgckZveqzUkDzvqd) | [ISLY](https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW) | [Searching For](https://open.spotify.com/album/7zY4HF5n4vHhlTp7hAuPPf) | 4:15 | 2022-02-27 |  |
 | [Start Again](https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [Start Again](https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k) | 3:50 | 2022-02-27 |  |
 | [Stranger](https://open.spotify.com/track/1PqDvk6t4pI1kAWWjvxVYU) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [Stranger](https://open.spotify.com/album/4VBXA24rGMiOJEviWRofgS) | 3:19 | 2022-02-27 |  |
-| [Stream](https://open.spotify.com/track/4KOP4xmCdhMu6trazcOdy6) | [Beach Chapel](https://open.spotify.com/artist/0xDQejb43c7yJ5nfCA7jv5) | [Stream](https://open.spotify.com/album/4OxKwDgLuX1kuIqJh7AF7Q) | 4:43 | 2022-02-27 |  |
+| [Stream](https://open.spotify.com/track/4KOP4xmCdhMu6trazcOdy6) | [Beach Chapel](https://open.spotify.com/artist/0xDQejb43c7yJ5nfCA7jv5) | [Stream](https://open.spotify.com/album/4OxKwDgLuX1kuIqJh7AF7Q) | 0:29 | 2022-02-27 |  |
 | [Stumble](https://open.spotify.com/track/3QfiVsGee9fstGpgrdzrP5) | [Muntjac](https://open.spotify.com/artist/1tka1ZndIK78Qfa6xWmFEg) | [Stranger](https://open.spotify.com/album/1mIYPONEqHeIb3Nm6qJdpS) | 4:00 | 2022-02-27 |  |
 | [Sweet Silence](https://open.spotify.com/track/1lQFAZIEeEilqE1KjZvNYh) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Sweet Silence](https://open.spotify.com/album/0JrjPGRHKnlw7jC8fl37Ne) | 4:23 | 2022-04-01 |  |
 | [The Hope Inside](https://open.spotify.com/track/4ayryg0lW8w3FIibi0UcWb) | [Colony House](https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4) | [Leave What's Lost Behind](https://open.spotify.com/album/7aYN3ImZcHkloKR4LGvHcV) | 4:09 | 2022-02-27 |  |

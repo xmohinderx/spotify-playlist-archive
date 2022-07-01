@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 
 > Lush, shimmery guitars\. Cover: Tom Misch
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,430 likes - 56 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,456 likes - 56 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 | 12 | [Won't Stop](https://open.spotify.com/track/3E6vBWSs6zjoSnlUVmo3yS) | [Ashton Sellars](https://open.spotify.com/artist/0yihh2mdPS2cIc1DoCktHm), [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Won't Stop](https://open.spotify.com/album/1VqCHljcYQir5atLxEXSJW) | 3:03 |
 | 13 | [Time \(feat\. Rone'e Mozee\)](https://open.spotify.com/track/0kK40uWFqXRIguP8bR3zWA) | [Jairus Mozee](https://open.spotify.com/artist/77leQnJv5gxe4Nm3LvDYiG) | [The Elevator Album](https://open.spotify.com/album/6sqoYrqQFWonc33GsRZSvh) | 2:34 |
 | 14 | [Finding Home](https://open.spotify.com/track/2Eq4vwSxJrDsnl05zrFUPY) | [Metic](https://open.spotify.com/artist/6w72979Ja5ip1mFNzTa2iY) | [Soul Feather](https://open.spotify.com/album/3X4BkDqWNOyXOIqYUBIlVx) | 2:14 |
-| 15 | [syrupy](https://open.spotify.com/track/0jL4kBFDLR9tCJuDP9B7iH) | [av4ln](https://open.spotify.com/artist/3E6IjOeXDYo2swzAUYZ5ln), [ichika](https://open.spotify.com/artist/0gnJx3IKBjjTrDpg1xNG52) | [syrupy](https://open.spotify.com/album/7j9dYye1M5ANMKkBhK0pnV) | 2:49 |
+| 15 | [syrupy](https://open.spotify.com/track/0jL4kBFDLR9tCJuDP9B7iH) | [av4ln](https://open.spotify.com/artist/3E6IjOeXDYo2swzAUYZ5ln), [ichika](https://open.spotify.com/artist/0gnJx3IKBjjTrDpg1xNG52) | [syrupy](https://open.spotify.com/album/7j9dYye1M5ANMKkBhK0pnV) | 0:29 |
 | 16 | [Pure Imagination](https://open.spotify.com/track/3VtDoxZ7IztQVQAomuXqWC) | [Ruben Wan](https://open.spotify.com/artist/5bYwZAV9K923kEHW1Yhol5) | [Pure Imagination](https://open.spotify.com/album/2genDz0QoWigwoBg202foH) | 2:06 |
 | 17 | [Runaway](https://open.spotify.com/track/1itgrD1BIDPArSA5bPiWEG) | [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U), [Magnus Klausen](https://open.spotify.com/artist/0pTklYPGOTeu00nkkr5QeM) | [Runaway](https://open.spotify.com/album/1c0f27jKckR5MkaCjHVtxy) | 2:14 |
 | 18 | [Tadow](https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 5:01 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 | 25 | [Movie](https://open.spotify.com/track/6pxElwU80zhjbCC77Vn8EI) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 5:57 |
 | 26 | [ALAMAIM](https://open.spotify.com/track/6wAgZUGobl1IKDPMFV7btz) | [DORJ](https://open.spotify.com/artist/2KqUSr1euZBMRzbqIwjKqY), [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [MUAR](https://open.spotify.com/album/6KtAP3LlXveP8a8AgOWvkl) | 3:43 |
 | 27 | [Home](https://open.spotify.com/track/0btxAu7IR3J3ZzpgifbLiY) | [Kymara](https://open.spotify.com/artist/0fpdyv56I16Z3FyGnN5xR7), [Bobbie Johnson](https://open.spotify.com/artist/53UYVk8esbujg16JqCpQEO) | [Home](https://open.spotify.com/album/0e9GiBOYBfGRosjY9l5u8I) | 4:21 |
-| 28 | [Morning Dew](https://open.spotify.com/track/51AcBAVVnSQ3S4ojp3jzcs) | [Matt Quentin](https://open.spotify.com/artist/23cC3RI0hgD5sWmXKPAJuG) | [Morning Dew](https://open.spotify.com/album/65XZ1fxe3AgVnC8WHVcJFW) | 3:57 |
+| 28 | [Morning Dew](https://open.spotify.com/track/51AcBAVVnSQ3S4ojp3jzcs) | [Matt Quentin](https://open.spotify.com/artist/23cC3RI0hgD5sWmXKPAJuG) | [Morning Dew](https://open.spotify.com/album/65XZ1fxe3AgVnC8WHVcJFW) | 0:29 |
 | 29 | [16 Pm](https://open.spotify.com/track/21tYg1u4lKPRBsSTWrJDvt) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [IV](https://open.spotify.com/album/0Z33ccgzk5oYrkTzVDiFeM) | 2:24 |
 | 30 | [Forget](https://open.spotify.com/track/0ZqmOWkT2TI6UIbeqPXRgK) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Forget](https://open.spotify.com/album/4xltF6S9PBtKQls0vTMCZJ) | 3:30 |
 | 31 | [Nostalgia \(feat\. Taura\)](https://open.spotify.com/track/5iIZTr2dlpGW0w2K4pwLR2) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Boys & Girls Mixtape](https://open.spotify.com/album/09GalPugs4ZBrI0rrLQPf6) | 3:43 |

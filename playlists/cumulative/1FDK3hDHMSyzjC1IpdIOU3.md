@@ -4,7 +4,7 @@
 
 > 
 
-50 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/11CAjhNe26t1RXTAPC5TzS)
+50 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/11CAjhNe26t1RXTAPC5TzS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,9 +18,9 @@
 | [C'mon 'N' Ride It \(The Train\)](https://open.spotify.com/track/4vwZCZxHs4t2hR5PrrJCi6) | [Quad City DJ's](https://open.spotify.com/artist/4mar1GMMEhvGyJdWagu6KS) | [Ultimate Club Dance 90s](https://open.spotify.com/album/6vreeK6rwyqgpjGdlgvwkT) | 4:03 | 2013-06-27 |  |
 | [Change the World](https://open.spotify.com/track/6BQNJ0JFKh8sWjQLI6Zudi) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton Chronicles: The Best of Eric Clapton](https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy) | 3:54 | 2013-06-27 |  |
 | [Count On Me \- from "Waiting to Exhale" \- Original Soundtrack](https://open.spotify.com/track/7mVV7fepIMUAE4FDyihupV) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Waiting To Exhale](https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM) | 4:26 | 2013-06-27 |  |
-| [Counting Blue Cars \(Tell Me Your Thoughts On God\)](https://open.spotify.com/track/6PI6pRqxDM6PlSdi4IvJEx) | [Dishwalla](https://open.spotify.com/artist/6F3NW2aC9Sni1FH7QPSLvw) | [Modern Rock Number 1's](https://open.spotify.com/album/3HKGB8wZqadLRJJYP59jJS) | 4:51 | 2013-06-27 |  |
+| [Counting Blue Cars \(Tell Me Your Thoughts On God\)](https://open.spotify.com/track/6PI6pRqxDM6PlSdi4IvJEx) | [Dishwalla](https://open.spotify.com/artist/6F3NW2aC9Sni1FH7QPSLvw) | [Modern Rock Number 1's](https://open.spotify.com/album/3HKGB8wZqadLRJJYP59jJS) | 0:29 | 2013-06-27 |  |
 | [Diggin' On You](https://open.spotify.com/track/2W2vmNmTLERMWT9XBxm35E) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:14 | 2013-06-27 |  |
-| [Down Low \(Nobody Has to Know\)](https://open.spotify.com/track/3boJ2JFTCfWfVMJneVeB77) | [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ), [Ronald Isley](https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L), [Ernie Isley](https://open.spotify.com/artist/3zgBwOoVIZBiNd3wIrKnhS) | [The R\. In R&B Collection: Volume 1](https://open.spotify.com/album/0mfaOc6KL6Kak3DYUyjNVl) | 4:22 | 2013-06-27 |  |
+| [Down Low \(Nobody Has to Know\)](https://open.spotify.com/track/3boJ2JFTCfWfVMJneVeB77) | [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ), [Ronald Isley](https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L), [Ernie Isley](https://open.spotify.com/artist/3zgBwOoVIZBiNd3wIrKnhS) | [The R\. In R&B Collection: Volume 1](https://open.spotify.com/album/0mfaOc6KL6Kak3DYUyjNVl) | 0:29 | 2013-06-27 |  |
 | [Exhale \- Shoop Shoop](https://open.spotify.com/track/40Jt7Gswodpx1WNddCpBDQ) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney The Greatest Hits](https://open.spotify.com/album/4bXTYQ8nVBYO4k3C3TOVri) | 3:21 | 2013-06-27 |  |
 | [Fantasy](https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:03 | 2013-06-27 |  |
 | [Follow You Down](https://open.spotify.com/track/5yVqBhvmi3sBahhaSYpl27) | [Gin Blossoms](https://open.spotify.com/artist/6kXp61QMZFPcKMcRPqoiVj) | [Follow You Down](https://open.spotify.com/album/5TKaETR0SQHjdwER8MMDdx) | 3:47 | 2013-06-27 |  |
@@ -29,7 +29,7 @@
 | [Hey Lover](https://open.spotify.com/track/5X48562lzIHeCKKLLSIGMm) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [All World](https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M) | 4:44 | 2013-06-27 |  |
 | [How Do U Want It](https://open.spotify.com/track/1ZB2zIoc8AjSuyqKRcJgbO) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 4:47 | 2013-06-27 |  |
 | [I Can't Sleep Baby \(If I\)](https://open.spotify.com/track/6JR2utS6oY0U6OVDmIHiqV) | [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ) | [R\. Kelly](https://open.spotify.com/album/4MYENSmUM01QisUKLi6FWr) | 5:30 | 2013-06-27 |  |
-| [I Love You Always Forever](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD) | [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2) | [Now in a Minute](https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL) | 3:59 | 2013-06-27 |  |
+| [I Love You Always Forever](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD) | [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2) | [Now in a Minute](https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL) | 0:29 | 2013-06-27 |  |
 | [Insensitive](https://open.spotify.com/track/2OqkSQe1kA8oRgEbw064dS) | [Jann Arden](https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F) | [Insensitive](https://open.spotify.com/album/1tX9qb2q2xuNAgHd3BAx9A) | 4:17 | 2013-06-27 |  |
 | [Ironic](https://open.spotify.com/track/4oGTdOClZUxcM2H3UmXlwL) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill](https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW) | 3:45 | 2013-06-27 |  |
 | [It's All Coming Back to Me Now](https://open.spotify.com/track/62WlC9unRXGdRIULjishS0) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling Into You](https://open.spotify.com/album/08aLDHdtfHxjtOmEHusqGC) | 7:36 | 2013-06-27 |  |

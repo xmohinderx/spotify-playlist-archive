@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > Go deep in discovery for great new songs of faith and inspiration\. Cover: Becca Bradley
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,793 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,825 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 39 | [Where I Belong](https://open.spotify.com/track/3DMhc9kOCKfSYLwOFmqVg8) | [Graveyards to Gardens](https://open.spotify.com/artist/1EM7XPBRpj2YuJcWbzs9XI) | [Home](https://open.spotify.com/album/1rWqw8qoWyNvykOiQeREo0) | 3:33 |
 | 40 | [Heart](https://open.spotify.com/track/5DmjuTfP9NeOqV9USaid6v) | [Isaiah William](https://open.spotify.com/artist/6HR7LwzhMQSgmBbUcdGJFc) | [Heart](https://open.spotify.com/album/5uGox3vtKqSOnrSZFCpfoe) | 5:05 |
 | 41 | [Grave Digger](https://open.spotify.com/track/6jwc4eHtQo2jlHOYnG07ls) | [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Grave Digger](https://open.spotify.com/album/0MgJ8Ns32yLtgUXSteD4Ft) | 4:16 |
-| 42 | [Great Is the Hope](https://open.spotify.com/track/7AsO6COcAbqjRxEcVZ7Arb) | [North Coast Church](https://open.spotify.com/artist/2O8REwWdtzkvKvBqjd1ijb) | [Great Is the Hope](https://open.spotify.com/album/4LQsFZlwX8gwlSRuCH1GUh) | 4:47 |
+| 42 | [Great Is the Hope](https://open.spotify.com/track/7AsO6COcAbqjRxEcVZ7Arb) | [North Coast Church](https://open.spotify.com/artist/2O8REwWdtzkvKvBqjd1ijb) | [Great Is the Hope](https://open.spotify.com/album/4LQsFZlwX8gwlSRuCH1GUh) | 0:29 |
 | 43 | [I'll Be Okay](https://open.spotify.com/track/2oBjArqKH9SxMVsWsVbCAy) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [I'll Be Okay](https://open.spotify.com/album/5GUa8R91rDlhA3SCVbbfXE) | 4:02 |
 | 44 | [Fantasma](https://open.spotify.com/track/4fUuSGIcSWgBLCzp3ZGmLx) | [Marty](https://open.spotify.com/artist/5fnKWHQ5YpV5T5S0aDvqkA), [Inbal](https://open.spotify.com/artist/6SbhMNYOdCBgifhMnCWhHH) | [Fantasma](https://open.spotify.com/album/08Rktvmj8JpkRzjLB5HvAh) | 6:59 |
 | 45 | [If You Only Knew](https://open.spotify.com/track/1xfqHOTSdVSwzlty8qcdgc) | [André K Barrow](https://open.spotify.com/artist/4Ldcu5W8LWs5jUYbI0ZGiZ), [Niki Carless](https://open.spotify.com/artist/2sEB8jCfYOGYh5IeNwiNJk) | [If You Only Knew](https://open.spotify.com/album/1EDDMhz2KDeBiqGWw2c05x) | 3:38 |

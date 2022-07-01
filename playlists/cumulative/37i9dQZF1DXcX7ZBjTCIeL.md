@@ -4,7 +4,7 @@
 
 > Disfruta esta selección musical, de la mano de Turf.
 
-50 songs - 3 hr 25 min - not published yet
+50 songs - 3 hr 14 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Panic \- 2011 Remaster](https://open.spotify.com/track/64D3dzWyj0GpQT1AHx4kbK) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Louder Than Bombs](https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8) | 2:20 | 2020-01-17 |  |
 | [Parklife](https://open.spotify.com/track/3mqRLlD9j92BBv1ueFhJ1l) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 3:07 | 2020-01-17 |  |
 | [Pasos al Costado](https://open.spotify.com/track/5HAS44AAAxcsomPBHGd4zK) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [El recorrido 1997/2007](https://open.spotify.com/album/6Yzzea9v0KPxDAbOf7S5tB) | 4:15 | 2020-01-17 |  |
-| [Pasos al costado \(x Autenticos Decadentes & Andres Calamaro\)](https://open.spotify.com/track/7L9EqXQWrsVUn2zYKEY1am) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para mi para vos Reversiones](https://open.spotify.com/album/7n1uPO2kn3WlgaEjHvT47n) | 7:22 | 2020-01-17 |  |
+| [Pasos al costado \(x Autenticos Decadentes & Andres Calamaro\)](https://open.spotify.com/track/7L9EqXQWrsVUn2zYKEY1am) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para mi para vos Reversiones](https://open.spotify.com/album/7n1uPO2kn3WlgaEjHvT47n) | 0:29 | 2020-01-17 |  |
 | [Pinball Wizard](https://open.spotify.com/track/6LbbHFEajG9e4m0G3L47c4) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 3:00 | 2020-01-17 |  |
 | [Quiero Seguir Así](https://open.spotify.com/track/5QMsH3AkqbAJ1XhjQuMhR9) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [El recorrido 1997/2007](https://open.spotify.com/album/6Yzzea9v0KPxDAbOf7S5tB) | 4:13 | 2020-01-17 |  |
 | [Race for the Prize \- 2017 Remaster](https://open.spotify.com/track/1RZlGlz8eXT1KmJYpqFRzH) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [The Soft Bulletin](https://open.spotify.com/album/1mJFgPeuLhU1PzLNBURdJC) | 4:18 | 2020-01-17 |  |
@@ -54,7 +54,7 @@
 | [The Pretender](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 4:29 | 2020-01-17 |  |
 | [Transmission](https://open.spotify.com/track/69aXQyUnUC0BWgATlSWNB2) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [The Best Of](https://open.spotify.com/album/0p8Zy0wEzDYiFDcSt07UHe) | 3:37 | 2020-01-17 |  |
 | [Vago](https://open.spotify.com/track/5PNzOCJ5DFlBHw02NkrmcH) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [El recorrido 1997/2007](https://open.spotify.com/album/6Yzzea9v0KPxDAbOf7S5tB) | 3:32 | 2020-01-17 |  |
-| [Vil Metal \(x Bandajamoncrudo\)](https://open.spotify.com/track/5x1avj5frIoRuFsGsNSpOg) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para mi para vos Reversiones](https://open.spotify.com/album/7n1uPO2kn3WlgaEjHvT47n) | 4:52 | 2020-01-17 |  |
+| [Vil Metal \(x Bandajamoncrudo\)](https://open.spotify.com/track/5x1avj5frIoRuFsGsNSpOg) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para mi para vos Reversiones](https://open.spotify.com/album/7n1uPO2kn3WlgaEjHvT47n) | 0:29 | 2020-01-17 |  |
 | [Volcán](https://open.spotify.com/track/6UsgX2tkvWXDk8MKLh2e8I) | [Poncho](https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r), [Joaquín Vitola](https://open.spotify.com/artist/4GHo23JMbtceTkGJdnEaXd) | [Joya](https://open.spotify.com/album/4AMYEdyQWIvwyRzXZF0FA0) | 5:48 | 2020-01-17 |  |
 | [Waterfall \- Remastered](https://open.spotify.com/track/4CWgqHRJjDLd2PCedMz8eY) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 4:38 | 2020-01-17 |  |
 | [Yo No Me Quiero Casar, Y Ud?](https://open.spotify.com/track/0WItXokpCGO3QoesREuW8p) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [El recorrido 1997/2007](https://open.spotify.com/album/6Yzzea9v0KPxDAbOf7S5tB) | 3:21 | 2020-01-17 |  |

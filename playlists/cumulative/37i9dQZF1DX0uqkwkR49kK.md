@@ -4,7 +4,7 @@
 
 > A 100\-track collection of insanely good progressive rock creations, from classic acts like Rush, Yes, and Genesis to lesser\-known international gems\. Cover: Rush
 
-100 songs - 15 hr 30 min - [published](https://open.spotify.com/playlist/2rdAvTDYuWVwQMDSQjVRa5)
+100 songs - 15 hr 8 min - [published](https://open.spotify.com/playlist/2rdAvTDYuWVwQMDSQjVRa5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Cloudburst Flight \- 1995 Remaster](https://open.spotify.com/track/2IbRbFFOTu3e1uswub6FPo) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Force Majeure \(1995 \- Remaster\)](https://open.spotify.com/album/6NGGfMRPtvshivFJWwSjza) | 7:28 | 2018-09-28 |  |
 | [Diary Of An Empty Day](https://open.spotify.com/track/40WmNpvY3JG9aIpdFueJOf) | [The Nice](https://open.spotify.com/artist/5oHYrXNyCSEdacKCCrteMX) | [Five Bridges](https://open.spotify.com/album/33URnP2kyItDfs8xDhxKAH) | 3:58 | 2018-09-28 |  |
 | [Dundrets Fröjder](https://open.spotify.com/track/1S2C36zZO4D7ooh0ZFYdkJ) | [Samla Mammas Manna](https://open.spotify.com/artist/2YHHo7UJ5bZOWUu2SDVSy3) | [Måltid](https://open.spotify.com/album/3fVhJ1HiYlwRqtDbegL4oA) | 10:46 | 2018-09-28 |  |
-| [Echoes](https://open.spotify.com/track/3qEKk7UlpfPPMyfouHhgi6) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [Breathless](https://open.spotify.com/album/1YRwNrwQKhQpEBUeLCtucL) | 7:20 | 2018-09-28 |  |
+| [Echoes](https://open.spotify.com/track/3qEKk7UlpfPPMyfouHhgi6) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [Breathless](https://open.spotify.com/album/1YRwNrwQKhQpEBUeLCtucL) | 0:29 | 2018-09-28 |  |
 | [Echoes](https://open.spotify.com/track/7kriFJLY2KOhw5en9iI2jb) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 23:32 | 2021-05-05 |  |
 | [Evil Woman](https://open.spotify.com/track/3ZLqxVQpxOe1uKyL4qZDZC) | [Spooky Tooth](https://open.spotify.com/artist/5YE3Wwk5wqQmFXM5qyaM6u) | [Spooky Two](https://open.spotify.com/album/7Ehr4tstOQtGR8SILkfhsn) | 9:08 | 2018-09-28 |  |
 | [Firth of Fifth \- New Stereo Mix](https://open.spotify.com/track/6UpMG6BDOd5xecMTu5r3sj) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Selling England by the Pound](https://open.spotify.com/album/1rZGSWC3pMmejDwYG0ZXma) | 9:30 | 2021-05-05 |  |
@@ -54,7 +54,7 @@
 | [In The Dead Of Night](https://open.spotify.com/track/7s4eOa9D4Qt7o3iRChaVIu) | [U.K.](https://open.spotify.com/artist/64vNIhiqTanqaY1VJucSAS) | [U.K.](https://open.spotify.com/album/75z31r1se3YTcaPwmFJtp7) | 5:34 | 2018-09-28 |  |
 | [Karn Evil 9 \(1st Impression \- Part 2\)](https://open.spotify.com/track/42ob2tiigWFtRqyXAfcdOd) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Brain Salad Surgery](https://open.spotify.com/album/6s1VJofsh3m547zW7Khhmi) | 4:45 | 2018-09-28 |  |
 | [La mente vola](https://open.spotify.com/track/1B4XcCAhhj6r2ji1dcISEU) | [Alphataurus](https://open.spotify.com/artist/6mFPT1M2JWpuoSGSCQCpHX) | [Alphataurus](https://open.spotify.com/album/0Wh01o7ulww79Oq2eSZ6PX) | 9:12 | 2018-09-28 |  |
-| [La Villa Strangiato](https://open.spotify.com/track/4CyElmiM9EF9aURGWlPZLi) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Hemispheres](https://open.spotify.com/album/2vrM9ltjKIvNg3nkwXoJuc) | 9:34 | 2018-09-28 |  |
+| [La Villa Strangiato](https://open.spotify.com/track/4CyElmiM9EF9aURGWlPZLi) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Hemispheres](https://open.spotify.com/album/2vrM9ltjKIvNg3nkwXoJuc) | 0:29 | 2018-09-28 |  |
 | [Lady of the Lake](https://open.spotify.com/track/4U4jKOweJ8FJ061VVp5l2p) | [Starcastle](https://open.spotify.com/artist/0bWkqEiCzUo1qRiQXI0VdJ) | [Starcastle](https://open.spotify.com/album/1fxW4E9zQ5RIIc4k1aPZRy) | 10:26 | 2018-09-28 |  |
 | [Larks' Tongues In Aspic \(Part I\)](https://open.spotify.com/track/3XPJDwND5XTqZF0AHzXo3L) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [Larks' Tongues In Aspic \(Expanded & Remastered Original Album Mix\)](https://open.spotify.com/album/1z6Lu9ygvU5pNC8Y05AW31) | 13:35 | 2019-07-01 |  |
 | [Leafy Meadows](https://open.spotify.com/track/7q84UlknHb4sIThLIERiVK) | [John Paul Jones](https://open.spotify.com/artist/6RhcZuUOb20IZvR8BbdnJX) | [The Thunderthief](https://open.spotify.com/album/7AIpDOQaIxlB3c1cEQhVRJ) | 5:10 | 2018-09-28 |  |
@@ -76,7 +76,7 @@
 | [Poseidon's Creation](https://open.spotify.com/track/11NuCMUMDCw5OXRxUdPBp0) | [Eloy](https://open.spotify.com/artist/00ZLLJ51l9Ir5gyaGSUYxL) | [Ocean](https://open.spotify.com/album/2dn0CYoFrWYBgaXc3YGiCk) | 11:42 | 2018-09-28 |  |
 | [Publiphobie](https://open.spotify.com/track/5bdxnqGx8kYHk7UksDmLXb) | [Carpe Diem](https://open.spotify.com/artist/3wgKD5T8ogOZBqCMrYiZTH) | [En Regardant Passer Le Temps](https://open.spotify.com/album/3gzvDKC8YeNYguIMHkSqCl) | 9:54 | 2018-09-28 |  |
 | [Red](https://open.spotify.com/track/7glAa12S2il6Khex6ArFJy) | [Brand X](https://open.spotify.com/artist/4DngluvBNHm2Q0rLW1yEqy) | [Asia & Progressive Rock Friends](https://open.spotify.com/album/01BUivwkOUj1mdhkc9jN1y) | 6:02 | 2018-09-28 |  |
-| [Red](https://open.spotify.com/track/0x8EnZlhgyaUOyzWelgbzW) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [Red \(Expanded & Remastered Original Album Mix\)](https://open.spotify.com/album/0G4xbbwtdfZGV0cLN4y8SP) | 6:15 | 2019-07-01 |  |
+| [Red](https://open.spotify.com/track/0x8EnZlhgyaUOyzWelgbzW) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [Red \(Expanded & Remastered Original Album Mix\)](https://open.spotify.com/album/0G4xbbwtdfZGV0cLN4y8SP) | 0:29 | 2019-07-01 |  |
 | [Remember the Future, Pt\. 1](https://open.spotify.com/track/1cMGXTWQ8AgfT0hZ5148YL) | [Nektar](https://open.spotify.com/artist/0n2Uel3CvQrmMsYLEfpO3s) | [Remember the Future \- 40th Anniversary Deluxe Edition](https://open.spotify.com/album/1hTsQKcpJeRZUPifJnyDOh) | 16:41 | 2018-09-28 |  |
 | [Repent Walpurgis \- 2009 Remaster Mono](https://open.spotify.com/track/0uZNev6gpoxARwDLZ39wXq) | [Procol Harum](https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C) | [Procol Harum](https://open.spotify.com/album/3om5KQz8b7vZvbJKTqLLBD) | 5:05 | 2018-09-28 |  |
 | [Shine On You Crazy Diamond \(Pts\. 1\-5\)](https://open.spotify.com/track/6pnwfWyaWjQiHCKTiZLItr) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw) | 13:31 | 2021-05-05 |  |

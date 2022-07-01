@@ -4,7 +4,7 @@
 
 > Instrumental acoustic guitar renditions of the Christmas songs you love.
 
-65 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/6RRs5bEtQw4P8pKlBia6m7)
+65 songs - 2 hr 32 min - [published](https://open.spotify.com/playlist/6RRs5bEtQw4P8pKlBia6m7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Home for the Holidays \(Instrumental Version\)](https://open.spotify.com/track/2w2pafEMaKxEmK2K3eZYEo) | [Matt Carlson](https://open.spotify.com/artist/6A65FMdqhuQfIRtGk3SPm8) | [Christmas Background Music on Ukulele](https://open.spotify.com/album/7bdbRsExh8aNCkNRdSvEDr) | 2:37 | 2021-12-22 |  |
 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/4ZmAbnW3w6YUymH6QkzsuE) | [Josie Stalilao](https://open.spotify.com/artist/6aqE8FL1Y1WG54YIVoPlXL) | [Jingle Bell Rock](https://open.spotify.com/album/7gEXzGjALzCSU1Jbx6cXg3) | 2:24 | 2021-12-22 |  |
 | [I Wonder as I Wander](https://open.spotify.com/track/4TYBwJ5fGKnPqin8qozC8A) | [Chris Richter](https://open.spotify.com/artist/2Salm1AJWZ4jsIX2SLLZDi) | [Acoustic Christmas Songs: 40 Holiday Favorites Arranged for Instrumental Classical Guitar](https://open.spotify.com/album/32ba7omgonaVctekBdymyH) | 1:04 | 2021-12-22 |  |
-| [I'll Be Home For Christmas](https://open.spotify.com/track/5YvgKMgdZrx1Ey4zdieQj1) | [Olivier Dernier](https://open.spotify.com/artist/3P2YIrQS0MGBnBUsenITLp) | [I'll Be Home For Christmas](https://open.spotify.com/album/5op9V5kvT225OgvhHdb0J4) | 1:14 | 2021-12-22 |  |
+| [I'll Be Home For Christmas](https://open.spotify.com/track/5YvgKMgdZrx1Ey4zdieQj1) | [Olivier Dernier](https://open.spotify.com/artist/3P2YIrQS0MGBnBUsenITLp) | [I'll Be Home For Christmas](https://open.spotify.com/album/5op9V5kvT225OgvhHdb0J4) | 0:29 | 2021-12-22 |  |
 | [In the Bleak Midwinter](https://open.spotify.com/track/2yYTQ6Jjz9lSIcytWrdbTq) | [Ernie Rissmann](https://open.spotify.com/artist/6jc0zP2sIU3iDeJBYcH8jt) | [Silent Night \(Christmas Carols on Acoustic Guitar\)](https://open.spotify.com/album/5a8rDCGZi82Uo1mcAF9Oq7) | 2:09 | 2021-12-22 |  |
 | [Infant Holy, Infant Lowly](https://open.spotify.com/track/4e37raAOz628uYyP41jW77) | [Unplugged](https://open.spotify.com/artist/2zWN3tPCwG3g59tOvIZPXY) | [Acoustic Christmas](https://open.spotify.com/album/7z4ULIFjxpGEBwePyr9Aki) | 2:42 | 2021-12-22 |  |
 | [It Came Upon a Midnight Clear](https://open.spotify.com/track/6YxMWJd7FWGYh3HbpBvjd9) | [Jeff Wahl](https://open.spotify.com/artist/3z975VInlGLspa4qHMmZwM) | [Christmas Guitar](https://open.spotify.com/album/3DhGSShEDNgIqqecW8EqnR) | 2:15 | 2021-12-22 |  |
@@ -49,7 +49,7 @@
 | [Let It Snow](https://open.spotify.com/track/7nD6zoYPL1ShkHwcsev9DV) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Christmas Acoustic](https://open.spotify.com/album/4GEU8iOMl6c38XpYY1mesV) | 3:02 | 2021-12-22 |  |
 | [Little Drummer Boy](https://open.spotify.com/track/5HZZkNOzjZnPPtrmwg6eQI) | [Leon Arms](https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj) | [White Christmas](https://open.spotify.com/album/0uZsVQn1yY3hO9w2qn1H3g) | 2:43 | 2021-12-22 |  |
 | [Lo! How A Rose E' er Blooming](https://open.spotify.com/track/4H1uUrPoIciE4QkV5XO3uN) | [David Snellbacher](https://open.spotify.com/artist/599FWOk7IwAvQSkkTYV2p4) | [All Acoustic Christmas](https://open.spotify.com/album/4O52UOM58x3bRdIZDPomF8) | 3:03 | 2021-12-22 |  |
-| [Mary's Boy Child](https://open.spotify.com/track/7DS5ZlzSQ6XUCxZQt6uvRw) | [Olivier Dernier](https://open.spotify.com/artist/3P2YIrQS0MGBnBUsenITLp) | [I'll Be Home For Christmas](https://open.spotify.com/album/5op9V5kvT225OgvhHdb0J4) | 1:34 | 2021-12-22 |  |
+| [Mary's Boy Child](https://open.spotify.com/track/7DS5ZlzSQ6XUCxZQt6uvRw) | [Olivier Dernier](https://open.spotify.com/artist/3P2YIrQS0MGBnBUsenITLp) | [I'll Be Home For Christmas](https://open.spotify.com/album/5op9V5kvT225OgvhHdb0J4) | 0:29 | 2021-12-22 |  |
 | [Merry Christmas Darling \(Instrumental Version\)](https://open.spotify.com/track/1e0CuobY5MyxB0bgoj1stt) | [Acoustic Guitar Songs,Classical Guitar Masters & Classical Christmas Music](https://open.spotify.com/artist/5XdbiV13oxsZNUdwgXZnhn), [Christmas Hits,Christmas Songs & Christmas](https://open.spotify.com/artist/5q54Ivn39BGY46s48SsktP), [Instrumental Christmas Music](https://open.spotify.com/artist/6BE55tLQQGp0TeQpicxL1P) | [It's the Most Wonderful Time of the Year \- Christmas Guitar](https://open.spotify.com/album/4rHmFEhmly9U7FAV7GLsmp) | 3:06 | 2021-12-22 |  |
 | [My Christmas Tree](https://open.spotify.com/track/0xlmbrtxzVdbdFOow8vfhZ) | [Thomas Goran](https://open.spotify.com/artist/7G2JO0YKokgwGDFCdqBIxQ) | [My Christmas Tree](https://open.spotify.com/album/3KWxsOhFfc59PpkRbdYYiY) | 2:02 | 2021-12-22 |  |
 | [My Grown Up Christmas List](https://open.spotify.com/track/4xMeWrXp8otvk2uKnmo2jc) | [Richard Mollenbeck](https://open.spotify.com/artist/2zFkwocH9Ah8KpUzydbcrO) | [My Grown Up Christmas List](https://open.spotify.com/album/5tbvWgWYczNeYLKQePqSkS) | 2:59 | 2021-12-22 |  |

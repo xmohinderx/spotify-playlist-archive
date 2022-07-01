@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DCJxqVk5NA.md) - [plain]
 
 > HBCU Anthems! Curated by Texas Southern University's own Megan Thee Stallion
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,281 likes - 62 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,301 likes - 62 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DCJxqVk5NA.md) - [plain]
 | 28 | [Swag Surfin'](https://open.spotify.com/track/5ItzU5pBrFmRUudfr5RkJP) | [F.L.Y\. \(Fast Life Yungstaz\)](https://open.spotify.com/artist/0zOuQuYGGcrtDYYy3YFDMr) | [Jamboree](https://open.spotify.com/album/6mAgb1P4TuigEweUCJqrhp) | 4:09 |
 | 29 | [Thot Shit](https://open.spotify.com/track/5zNW5ARjYhJQJz1AChP33n) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Thot Shit](https://open.spotify.com/album/7gEGuvkVs79hY4tG7OYnzx) | 3:04 |
 | 30 | [Body](https://open.spotify.com/track/0A1hoCfMLkiAgvhWkkucJa) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:51 |
-| 31 | [Backin' It Up \(feat\. Cardi B\)](https://open.spotify.com/track/0ldWh5GwkxnhjoUdGKzXEq) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [UNDER8ED](https://open.spotify.com/album/45x9T2H8aU4ckLPOYfGucD) | 3:09 |
+| 31 | [Backin' It Up \(feat\. Cardi B\)](https://open.spotify.com/track/0ldWh5GwkxnhjoUdGKzXEq) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [UNDER8ED](https://open.spotify.com/album/45x9T2H8aU4ckLPOYfGucD) | 0:29 |
 | 32 | [Crush on You \(feat\. Lil' Cease\) \- Remix](https://open.spotify.com/track/2LP2uDQQ7eLMcUVE4aOpAV) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Lil' Cease](https://open.spotify.com/artist/6V4zyNV40Zyu5MGlhD0i8g) | [Not Tonight EP](https://open.spotify.com/album/6ziNUlW26RQhiHOdJpSyVD) | 4:35 |
 | 33 | [Freak It](https://open.spotify.com/track/02hwiuel0E57ObJtCEMkIe) | [Lathun](https://open.spotify.com/artist/1PxxVnt9vadtnkFqnLczYQ) | [So So Def Bass All\-Stars Vol\. II](https://open.spotify.com/album/5F9sCTamTNENYuVO8ygnXd) | 5:25 |
 | 34 | [Pull Over](https://open.spotify.com/track/6M33HiUHLC3R3gfXYNGMAy) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn) | [Da Baddest Bitch](https://open.spotify.com/album/5tXpmutwVnXITJLptIssVU) | 3:14 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DCJxqVk5NA.md) - [plain]
 | 50 | [Ima Boss \(feat\. Rick Ross\)](https://open.spotify.com/track/7sjwaBQ6M3aVigYfBjm1sL) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [MMG Presents: Self Made, Vol\. 1](https://open.spotify.com/album/1xE3Obhzdpw4aIqPDMf4I4) | 4:10 |
 | 51 | [Hustle Hard](https://open.spotify.com/track/4MX83dksy97o852Be7ScL7) | [Ace Hood](https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale) | [Blood Sweat & Tears \(Deluxe\)](https://open.spotify.com/album/64k1x2JZhoJoh9dyldECx4) | 3:18 |
 | 52 | [I'm Not A Star](https://open.spotify.com/track/1fRuRNJVZjDU1yKXvarKqW) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Teflon Don](https://open.spotify.com/album/0jipZxGtkTDHjVerLkzO80) | 3:00 |
-| 53 | [Pop That](https://open.spotify.com/track/3Jv1XgMPVjdN5xGfnRJ20s) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Excuse My French](https://open.spotify.com/album/5Llp1V2yhpdGle13fM1EWh) | 5:03 |
+| 53 | [Pop That](https://open.spotify.com/track/3Jv1XgMPVjdN5xGfnRJ20s) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Excuse My French](https://open.spotify.com/album/5Llp1V2yhpdGle13fM1EWh) | 0:29 |
 | 54 | [Kitty Kat](https://open.spotify.com/track/6DoGtGyDgv5mVxeCpP92tX) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 2:05 |
 | 55 | [They Know \(Dey Know\)](https://open.spotify.com/track/6TQANhh0iV17xMeExcH6qj) | [Shawty Lo](https://open.spotify.com/artist/5mNB8ykTlENptzmsxXRtdS) | [They Know \[Dey Know\]](https://open.spotify.com/album/59ufCjp6Z4A84OcOvA4VTt) | 3:18 |
 | 56 | [Blow the Whistle](https://open.spotify.com/track/2lMg3lCMOGistaWBNGjuT3) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Blow The Whistle](https://open.spotify.com/album/5GiqXho2S6vfntgRwSdhYp) | 2:43 |

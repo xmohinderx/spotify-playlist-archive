@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2xtEcvpPTus59Ppa0fv3xP.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 386 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 386 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/2xtEcvpPTus59Ppa0fv3xP.md) - [plain]
 | 24 | [Lead Me On](https://open.spotify.com/track/2RgosPJAIbwCgA7XpTEf4A) | [Maxine Nightingale](https://open.spotify.com/artist/6jQ9UtYXqNfVnPkrH1Xxwi) | [Lead Me On](https://open.spotify.com/album/6qDupK8hZjVBIvVhLGg37B) | 2:45 |
 | 25 | [Shake Your Body \(Down to the Ground\) \- Remastered Single Version](https://open.spotify.com/track/1yWc4aC8zphMCDmwZ9Ch7K) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm), [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Michael Jackson's This Is It](https://open.spotify.com/album/7pMVCMwGykuEu9rzTHxLCm) | 3:53 |
 | 26 | [Don't Cry Out Loud](https://open.spotify.com/track/0m6bu7QJn8HJJUEfqYY5nI) | [Melissa Manchester](https://open.spotify.com/artist/78udmCDNaDu5jqfVnBqwia) | [The Essence Of Melissa Manchester](https://open.spotify.com/album/3ZQNGNWrZdPl3xyXlvBVa1) | 3:49 |
-| 27 | [The Logical Song \- Remastered 2010](https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America \(Deluxe Edition\)](https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna) | 4:11 |
+| 27 | [The Logical Song \- Remastered 2010](https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America \(Deluxe Edition\)](https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna) | 0:29 |
 | 28 | [My Life](https://open.spotify.com/track/6Ep2XErOa5SCBGzARBpCr4) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Essential Billy Joel](https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz) | 4:41 |
 | 29 | [Just When I Needed You Most](https://open.spotify.com/track/4mnH7uzMQj556i00Loauim) | [Randy VanWarmer](https://open.spotify.com/artist/6IRQiyNmNGjGlrmEl0iArm) | [25 Country Hits](https://open.spotify.com/album/7Jdpr50VVV51mMtkWG7wGe) | 3:37 |
 | 30 | [You Can't Change That](https://open.spotify.com/track/5vIvHVCP0n6EXTMH0fOpAp) | [Raydio](https://open.spotify.com/artist/1VQ7baxc9Okx2YuRnpKMMR) | [Rock On](https://open.spotify.com/album/5ORcHUdS6M1dH8s6IIfHtO) | 3:23 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/2xtEcvpPTus59Ppa0fv3xP.md) - [plain]
 | 38 | [After The Love Has Gone](https://open.spotify.com/track/5Kmwwpu1FdXcZny7n8iBMo) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire\-Vol\. II](https://open.spotify.com/album/6rxdEnk6m2P66BxcXsQbNs) | 4:24 |
 | 39 | [Heaven Knows](https://open.spotify.com/track/7DP5B02fBiyLwFXsNGKhcH) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U), [Brooklyn Dreams](https://open.spotify.com/artist/2Uh4UmiQhrrElbrvJVH0dT) | [Donna Summer: Gold](https://open.spotify.com/album/2BAwRRH1wXEK5rHvGlPFEO) | 3:38 |
 | 40 | [The Gambler](https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [The Gambler](https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ) | 3:34 |
-| 41 | [Lotta Love](https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo) | [Nicolette Larson](https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw) | [Nicolette](https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu) | 3:11 |
+| 41 | [Lotta Love](https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo) | [Nicolette Larson](https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw) | [Nicolette](https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu) | 0:29 |
 | 42 | [Lady](https://open.spotify.com/track/2Pw0QFsYk7HvX9GLXAw6Y1) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [70's Hits](https://open.spotify.com/album/2uRb5ak9Qyo1nhlTViw8MZ) | 4:56 |
 | 43 | [Heaven Must Have Sent You \- 12" Version](https://open.spotify.com/track/7p4Yw9WPiAuJaN51H4CRqo) | [Bonnie Pointer](https://open.spotify.com/artist/3ywBpweKQY8MosUnAuPAgc) | [Disco Gold](https://open.spotify.com/album/2wFzaVmHfeDG8yNaAs7lYr) | 7:14 |
 | 44 | [Hold the Line](https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto](https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3) | 3:55 |

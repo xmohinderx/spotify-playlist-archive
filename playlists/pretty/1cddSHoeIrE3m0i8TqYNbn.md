@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1cddSHoeIrE3m0i8TqYNbn.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 16 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 16 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/1cddSHoeIrE3m0i8TqYNbn.md) - [plain]
 | 31 | [Stone for Your Love](https://open.spotify.com/track/4QOxTYHiC1Ig7DS5AOvf6e) | [Reef](https://open.spotify.com/artist/191Koh7PSIi28IrGAGoINO) | [The Collections](https://open.spotify.com/album/42aMULediTV1Zy4up2hiAY) | 2:31 |
 | 32 | [Filthy Love](https://open.spotify.com/track/3l1UEGFw6SwMrOJyPdZnqv) | [We Are Enfant Terrible](https://open.spotify.com/artist/5EDhDMP8jjt8P9HwpyDwVc) | [Filthy Love](https://open.spotify.com/album/2jmM2CLZba0VChvTjNZoLM) | 3:16 |
 | 33 | [Let's Work Together \- Remastered 2005](https://open.spotify.com/track/1P75Z7PmxYHTkAb05KPj4K) | [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [The Very Best Of Canned Heat](https://open.spotify.com/album/6tFVTuFanTqdlTeTtTz0ag) | 3:13 |
-| 34 | [A Song For The Lovers](https://open.spotify.com/track/7a90gal9tr3yS8bEXUvu8D) | [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Alone With Everybody](https://open.spotify.com/album/7rVo1K80X4sr88MxsD0vds) | 5:26 |
+| 34 | [A Song For The Lovers](https://open.spotify.com/track/7a90gal9tr3yS8bEXUvu8D) | [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Alone With Everybody](https://open.spotify.com/album/7rVo1K80X4sr88MxsD0vds) | 0:29 |
 | 35 | [Blue Valentines](https://open.spotify.com/track/4OjmYo0VKbO7NlYSZd1QQo) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Blue Valentine](https://open.spotify.com/album/5INzei5Yo63AfuLU2P4lQj) | 5:50 |
 | 36 | [In Your Dreams](https://open.spotify.com/track/0UaTJzSqKQpSMCQ8ROLatU) | [Dark Dark Dark](https://open.spotify.com/artist/3UORxcctdWi6drku1qOrol) | [Wild Go](https://open.spotify.com/album/5ZeizwuCP2H4SQ1GHITg27) | 3:19 |
 | 37 | [Piece of My Heart](https://open.spotify.com/track/069M4J3e59EGCumtMchcRy) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [The Essential Janis Joplin](https://open.spotify.com/album/2NrZh3BmrpfHxd2M8JM8Y3) | 4:14 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/1cddSHoeIrE3m0i8TqYNbn.md) - [plain]
 | 58 | [Back For A Taste Of Your Love](https://open.spotify.com/track/2fYy4V21to5GlYcVq77byB) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Lie To Me](https://open.spotify.com/album/2VNyF8hG22dvrga7pUbyix) | 3:32 |
 | 59 | [Me and You](https://open.spotify.com/track/1vzCEN5ZPfY7b3CswEcc6s) | [The Strange Boys](https://open.spotify.com/artist/6rBLnxCHDUQTw1nf2qWfm2) | [Live Music](https://open.spotify.com/album/02b4Matiww4tIE0jReEzIH) | 3:11 |
 | 60 | [Caravan Of Love](https://open.spotify.com/track/2Srs0bd8DlIsPSDtl08Rax) | [The Housemartins](https://open.spotify.com/artist/77D38RDgCtlYNLpayStftL) | [100 Essential Love Songs \(Online version\)](https://open.spotify.com/album/3UgnOTcOt4JlplBn3eL82v) | 3:38 |
-| 61 | [Your Love](https://open.spotify.com/track/5vZTy4R74rVHkRfjPskMtH) | [Bushman](https://open.spotify.com/artist/7LodktwOen0OBkVv3DyxMX) | [Songs for Reggae Lovers](https://open.spotify.com/album/3zn1pJ8SJfLgIMGYzkbciI) | 3:48 |
+| 61 | [Your Love](https://open.spotify.com/track/5vZTy4R74rVHkRfjPskMtH) | [Bushman](https://open.spotify.com/artist/7LodktwOen0OBkVv3DyxMX) | [Songs for Reggae Lovers](https://open.spotify.com/album/3zn1pJ8SJfLgIMGYzkbciI) | 0:29 |
 | 62 | [Lovers In The Backseat](https://open.spotify.com/track/4sWr3swMZBjOiMtiq6DU74) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Scissor Sisters](https://open.spotify.com/album/3qXgnckOi2NbaAyjD3m2jP) | 3:17 |
 | 63 | [Future Lovers](https://open.spotify.com/track/0amQzI3QzlkNzlUQSLxGOP) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:01 |
 | 64 | [Stay Together](https://open.spotify.com/track/0lV740rDXmB83eOTChsuQ2) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [In Search Of...](https://open.spotify.com/album/6IS4muX0Uqi4govQwCMNR8) | 5:01 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/1cddSHoeIrE3m0i8TqYNbn.md) - [plain]
 | 69 | [Sherry Darling](https://open.spotify.com/track/5S4sS04h5VRjzWfgWh1Aw7) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/07cCVkVJqWtao9YzGTEQ5H) | 4:02 |
 | 70 | [Muddy Heart](https://open.spotify.com/track/3HGuVqC49ZAnJI3z3g7anj) | [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU) | [E Volo Love](https://open.spotify.com/album/1FJxGliLO4tEyqK8NEhD5q) | 3:14 |
 | 71 | [Tell Her This](https://open.spotify.com/track/1ERcK7rmNZPqo8nB32JqLt) | [Del Amitri](https://open.spotify.com/artist/2Q4FnG5T6NTUcAAZwuMV5K) | [Twisted](https://open.spotify.com/album/6hGTUc3Z4pec8r6cRhXypy) | 3:11 |
-| 72 | [Your Kisses Burn](https://open.spotify.com/track/0QFuA9DpGIQXhWFggHp6Ur) | [Marc Almond](https://open.spotify.com/artist/7nBZYpVAH6bD0QlD7Mpil7) | [The Stars We Are](https://open.spotify.com/album/3HIPNQXH9gtsvrlt74dUXR) | 4:43 |
+| 72 | [Your Kisses Burn](https://open.spotify.com/track/0QFuA9DpGIQXhWFggHp6Ur) | [Marc Almond](https://open.spotify.com/artist/7nBZYpVAH6bD0QlD7Mpil7) | [The Stars We Are](https://open.spotify.com/album/3HIPNQXH9gtsvrlt74dUXR) | 0:29 |
 | 73 | [Love Goes On!](https://open.spotify.com/track/7FPTyD4EqngnifIBdewdjy) | [The Go\-Betweens](https://open.spotify.com/artist/4HCubdy7diarb4KZo8etrq) | [16 Lovers Lane](https://open.spotify.com/album/5WLhE2narEJDFpNu7IJ9CI) | 3:18 |
 | 74 | [Back Together Again](https://open.spotify.com/track/0GxQRchm6KtLL4S6Khk9MA) | [Waterdeep](https://open.spotify.com/artist/3jPKY265XrMlohnJw3nGt0) | [No Doubt of Sunshine](https://open.spotify.com/album/05n3UzYZy2a8iEx6bbNWOr) | 2:33 |
 | 75 | [Lullaby](https://open.spotify.com/track/70L4pGAmYv0pTADrgsIxpI) | [Shawn Mullins](https://open.spotify.com/artist/4TROLx8HvrnfGGNo2ngL2N) | [Soul's Core](https://open.spotify.com/album/0D5vG8Ue7MHe4TxRm2t9Z9) | 5:29 |

@@ -4,7 +4,7 @@
 
 > Get spooky with these creepy classics
 
-60 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/5elA8CmvlycmDF2P3OXkCU)
+60 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/5elA8CmvlycmDF2P3OXkCU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Dead Man's Party](https://open.spotify.com/track/2h47SG8bNphmicAll4H9RV) | [Oingo Boingo](https://open.spotify.com/artist/5LXEAEGrpKQtpyCu2sZuWu) | [Dead Man's Party](https://open.spotify.com/album/44Q1H1q6nSnUnjjGPoxAJb) | 6:21 | 2021-10-25 |  |
 | [Devil Woman](https://open.spotify.com/track/2oRn0QuaWQ1hragGQ7XZ9s) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [40 Golden Greats](https://open.spotify.com/album/0SW33rIKZ2v0EmfqRLKufz) | 3:34 | 2021-10-25 |  |
 | [Enter Sandman](https://open.spotify.com/track/1hKdDCpiI9mqz1jVHRKG0E) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX) | 5:31 | 2021-10-25 |  |
-| [Everyday Is Halloween](https://open.spotify.com/track/55IOt0T1KbTgWpsliVyaWo) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [Very Best of Fixes & Remixes](https://open.spotify.com/album/7tfj1GYjw43PPDqoo8eAOW) | 6:24 | 2021-10-25 |  |
+| [Everyday Is Halloween](https://open.spotify.com/track/55IOt0T1KbTgWpsliVyaWo) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [Very Best of Fixes & Remixes](https://open.spotify.com/album/7tfj1GYjw43PPDqoo8eAOW) | 0:29 | 2021-10-25 |  |
 | [Evil Ways](https://open.spotify.com/track/5tmrnhMxx39jnu3kjopMdP) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana \(Legacy Edition\)](https://open.spotify.com/album/2hQwyoPiM1G9iLWkXqC2Hu) | 3:58 | 2021-10-25 |  |
 | [Evil Woman](https://open.spotify.com/track/05zCw24BdvZKGeC5NXowVe) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [The Essential Electric Light Orchestra](https://open.spotify.com/album/0wzmqCoQ3rZTuCuIwK1jKp) | 4:12 | 2021-10-25 |  |
 | [Frankenstein](https://open.spotify.com/track/4aK0vJsPXFsFdBUh8hPaDT) | [The Edgar Winter Group](https://open.spotify.com/artist/7j9PMegEgVN1fNp8NZXNCI) | [The Best Of Edgar Winter](https://open.spotify.com/album/6knWE50fnmU6X50X7QGfQY) | 4:45 | 2021-10-25 |  |

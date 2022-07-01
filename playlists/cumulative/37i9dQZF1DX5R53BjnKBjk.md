@@ -4,7 +4,7 @@
 
 > As novidades dos artistas independentes que você precisa conhecer\. Foto: Saskia\. Arte: Isu Kim
 
-120 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/67GFnJVXnyWY0MjhTSXEEJ)
+120 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/67GFnJVXnyWY0MjhTSXEEJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,9 +33,9 @@
 | [Deslize de Delírio Inconsequente](https://open.spotify.com/track/7afauHi7fLtMLLqLVTzg5J) | [Capim\-Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Deslize de Delírio Inconsequente](https://open.spotify.com/album/2CJXL6hmyqNaS3ogixCUY1) | 3:56 | 2022-01-07 |  |
 | [Diga\-me](https://open.spotify.com/track/1NuJEGUFkcygXNjcSMcbdP) | [FREELION](https://open.spotify.com/artist/1Tgb6BnlFB54h9697xbHEX), [Gibi8](https://open.spotify.com/artist/0PzUD5dHBctrkQopnjcHMO), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Salamanka](https://open.spotify.com/artist/0TpzpzpahCAoko5pXwQAYA), [Tainã Troccoli](https://open.spotify.com/artist/41AuzbTV7cdahoooXbRlRc) | [Diga\-me](https://open.spotify.com/album/6NrL8zeO6CKcwdFnC2ooS0) | 3:19 | 2022-01-07 |  |
 | [Do Jeito Mais Simples](https://open.spotify.com/track/2sEraN3oLThZaCErn0Ru4e) | [Lili Novais](https://open.spotify.com/artist/1gkJzrL4lWQidUjGXnTZ7L) | [Do Jeito Mais Simples](https://open.spotify.com/album/6Ss5f7BqspeOWZAf6cJW12) | 2:31 | 2022-05-16 |  |
-| [Espectro do Tempo](https://open.spotify.com/track/2ro19IYp4o8PIhNmpZzSxO) | [Inês é Morta](https://open.spotify.com/artist/1Rwzjpa4kxQeapTZ8snYdG) | [Espectro do Tempo](https://open.spotify.com/album/7e2qIwqu2BubJgoskGFQ7S) | 4:33 | 2022-01-07 |  |
+| [Espectro do Tempo](https://open.spotify.com/track/2ro19IYp4o8PIhNmpZzSxO) | [Inês é Morta](https://open.spotify.com/artist/1Rwzjpa4kxQeapTZ8snYdG) | [Espectro do Tempo](https://open.spotify.com/album/7e2qIwqu2BubJgoskGFQ7S) | 0:29 | 2022-01-07 |  |
 | [Estrago](https://open.spotify.com/track/6AFM8iycKKMnOxqh6JrJ1C) | [Crime Caqui](https://open.spotify.com/artist/4WddE3seM79T6fOoIk6fwo) | [Atenta](https://open.spotify.com/album/1SdXaCPYYjBg2ssFKoQfVw) | 3:01 | 2022-03-11 |  |
-| [Eu Não Aceito](https://open.spotify.com/track/0QvNN1G5Vi7DFpLo0TZNoD) | [THAIIS](https://open.spotify.com/artist/6rk3l4BH83MMtX4snVTZM7) | [Eu Não Aceito](https://open.spotify.com/album/5zebXVQ8TXmCJbD7ntaYcg) | 3:04 | 2022-01-07 |  |
+| [Eu Não Aceito](https://open.spotify.com/track/0QvNN1G5Vi7DFpLo0TZNoD) | [THAIIS](https://open.spotify.com/artist/6rk3l4BH83MMtX4snVTZM7) | [Eu Não Aceito](https://open.spotify.com/album/5zebXVQ8TXmCJbD7ntaYcg) | 0:29 | 2022-01-07 |  |
 | [Eu Voltei](https://open.spotify.com/track/3NLlQqrUUCHkRtqjl5UIly) | [Versa Libertália](https://open.spotify.com/artist/3oyRcui3kEHDq4LNvvR4ht) | [Uma Nova Forma de Enxergar a Vida](https://open.spotify.com/album/0XtsARQNFAuGxChVgyMMgl) | 3:51 | 2022-04-01 |  |
 | [faking it](https://open.spotify.com/track/4Kk5FikZ0xNUhXm3s5MTZH) | [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU) | [faking it](https://open.spotify.com/album/6jrsAhgiUnsXTVxYeHpSLN) | 2:31 | 2022-02-25 |  |
 | [Fire](https://open.spotify.com/track/2H4uSHGHRwmye5AAsycdOv) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Fire](https://open.spotify.com/album/4rbFqaLd2gRytJuQU2zVjT) | 2:14 | 2022-02-04 |  |
@@ -99,7 +99,7 @@
 | [Sedução Vegetal](https://open.spotify.com/track/31QqEJdMXREfM9LiiiXjzO) | [Matheus Souto](https://open.spotify.com/artist/0FW6guSeedXBXOd8AK63Xp) | [Sedução Vegetal](https://open.spotify.com/album/5FwyfOFjaVL5jrpU5wVyeh) | 5:35 | 2022-01-07 |  |
 | [sei lá](https://open.spotify.com/track/0ke3cpUdKJamJvii855vH2) | [Chico e o Mar](https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ) | [CHICO E O MAR](https://open.spotify.com/album/5A0PTs0EU75mJnSWK54JyM) | 3:33 | 2022-04-22 |  |
 | [Sem Leme](https://open.spotify.com/track/54vPD639848uvG5f8WtQev) | [Vincee](https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN), [Akilla](https://open.spotify.com/artist/4AlpcXJqYvX4ovs4zEb2UB) | [Sem Leme](https://open.spotify.com/album/5dY1FS6gwocGRlboNeWRVz) | 2:41 | 2022-05-27 |  |
-| [Sem Noção](https://open.spotify.com/track/7gKmkQ6duGD1k32MW9TgeA) | [Giovanna](https://open.spotify.com/artist/4osnH08CXtOVX57JrBDePA) | [Giovanna](https://open.spotify.com/album/0j047tgn9GKLgqf5NjTkHZ) | 2:28 | 2022-02-04 |  |
+| [Sem Noção](https://open.spotify.com/track/7gKmkQ6duGD1k32MW9TgeA) | [Giovanna](https://open.spotify.com/artist/4osnH08CXtOVX57JrBDePA) | [Giovanna](https://open.spotify.com/album/0j047tgn9GKLgqf5NjTkHZ) | 0:29 | 2022-02-04 |  |
 | [Sensus Plenior](https://open.spotify.com/track/0cdftpxtbBkaMSJdAOY3TL) | [Arthur Alva](https://open.spotify.com/artist/1bWoWooojWavWI4Hh1JC32) | [Consciência Elementar I](https://open.spotify.com/album/6ZENBuXFtK81xuE4Y4q9O3) | 3:04 | 2022-04-15 |  |
 | [Sinais, Pt\. 2](https://open.spotify.com/track/4KvOzCwHSLdzyl9MxlFiVv) | [Kanda Ent](https://open.spotify.com/artist/64cxiqdS6yO0t11U99Lpze), [2:22](https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4) | [Sinais, Pt\. 2](https://open.spotify.com/album/0kqkt2wT6FHCZqs3nZ8Lol) | 4:05 | 2022-01-07 |  |
 | [Sinto Estrelas Em Você](https://open.spotify.com/track/7Mo2CbjQf10IbKABBtwo4f) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Majewski](https://open.spotify.com/artist/7rddKaBLeToWjektrVnUCm), [Luana Nogueira](https://open.spotify.com/artist/14yE0zCPijGLzggeKOMawo) | [Sinto Estrelas Em Você](https://open.spotify.com/album/1R4ooaw0K2tErUROdmmSVS) | 2:56 | 2022-01-07 | 2022-04-23 |

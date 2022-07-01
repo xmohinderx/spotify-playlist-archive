@@ -4,7 +4,7 @@
 
 > Sweet dreams are made of this\. Relajate, es hora de dormir.
 
-64 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/1RgBFdIwebWb1x2uWs7aGx)
+64 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/1RgBFdIwebWb1x2uWs7aGx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,6 @@
 | [The Promise](https://open.spotify.com/track/53ann6bENp7BF8uklrzQAp) | [Michael Nyman](https://open.spotify.com/artist/2LvhyFvUCDJ7gFuEBOcrM8) | [The Piano: Music From The Motion Picture](https://open.spotify.com/album/2QxIR22Sj9xGc4mOTN550A) | 4:16 | 2022-01-01 |  |
 | [The Wings](https://open.spotify.com/track/3oQpVsTPxbMobnIjeogbJz) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Brokeback Mountain Soundtrack](https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT) | 1:52 | 2022-01-01 |  |
 | [Vals Poético \(feat\. Los Macorinos\) \- Instrumental](https://open.spotify.com/track/1nFFFMgrtKN4Tq8WL28qlm) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol\. 1\)](https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt) | 3:17 | 2022-01-01 |  |
-| [Yu Yi](https://open.spotify.com/track/29qHzM3DxQloBfrM5PIaOH) | [Andre Corea](https://open.spotify.com/artist/0hjU6uDGJnktoVDL8RUPWe) | [Yu Yi](https://open.spotify.com/album/0CYQ8uAttBcTTf3EzEuan6) | 4:41 | 2022-01-01 |  |
+| [Yu Yi](https://open.spotify.com/track/29qHzM3DxQloBfrM5PIaOH) | [Andre Corea](https://open.spotify.com/artist/0hjU6uDGJnktoVDL8RUPWe) | [Yu Yi](https://open.spotify.com/album/0CYQ8uAttBcTTf3EzEuan6) | 0:29 | 2022-01-01 |  |
 
 \*This playlist was first scraped on 2022-01-17. Prior content cannot be recovered.

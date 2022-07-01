@@ -4,12 +4,13 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-106 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/7ISFFwuQB5ntspjOylTJdw)
+113 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/7ISFFwuQB5ntspjOylTJdw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A la recherche de l'autre](https://open.spotify.com/track/7tRL2A19PEY7MbLttIL8T8) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [A la recherche de l'autre](https://open.spotify.com/album/17WLl7MsDL25RsYFH0nPvO) | 2:17 | 2021-12-09 |  |
 | [Achernar](https://open.spotify.com/track/4DQ6sxGcPuxSK8OXHj9XGG) | [Serena Perez](https://open.spotify.com/artist/2zkK4XfOHnssYBDk6Vp5PR) | [Achernar](https://open.spotify.com/album/3gOzubq8SyEtBXXwv92594) | 2:22 | 2021-12-09 |  |
+| [All Is Calm](https://open.spotify.com/track/0CBLqVCOalzlHumLvX0IEd) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [All Is Calm](https://open.spotify.com/album/1D4gPj0UQbdxBvPYdb0qcO) | 1:15 | 2022-07-01 |  |
 | [Amalie](https://open.spotify.com/track/4tBduWZZ2toaLm1rfJ4Ju0) | [Lane Westland](https://open.spotify.com/artist/2SQWcfUh4dpLWj5J72YdAH) | [Amalie](https://open.spotify.com/album/0uK2lE2FMY1FK0nTHXoLXe) | 3:13 | 2021-12-09 |  |
 | [Ave Nocturne](https://open.spotify.com/track/4AyL8u1g3ruazEAlu1bllD) | [John A\. Nilson](https://open.spotify.com/artist/0jclSzw2eZAu8huZPEcOJ9) | [Carousel](https://open.spotify.com/album/3eqF1XOrPSx3gXBhrc8YFV) | 3:24 | 2021-12-09 |  |
 | [Bordeaux](https://open.spotify.com/track/7i0COnt9ofcnJ1bDF8TqMu) | [Leo Vara](https://open.spotify.com/artist/3f2LfaBv92I0qjmfU6fseT) | [Bordeaux](https://open.spotify.com/album/0yU3pYIPQBNVNhEisrJwe6) | 2:30 | 2022-04-05 |  |
@@ -23,7 +24,7 @@
 | [Draumurinn](https://open.spotify.com/track/7cMQbAS4eqmHT1I8cnYplu) | [Aiday Ainur](https://open.spotify.com/artist/5BuB7CRnNJKxzSsu6Mznbj) | [Draumurinn](https://open.spotify.com/album/5CG1s3VqpxBjcZqN1lwieV) | 2:08 | 2021-12-09 |  |
 | [Dreamcatcher](https://open.spotify.com/track/64t8q2udrOR4Myb6i83SaC) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Celta](https://open.spotify.com/album/6UXPdmRQ3KQlnUTX8Dmis8) | 3:10 | 2022-05-27 |  |
 | [Dreamland](https://open.spotify.com/track/6RK4JN6grUWO6P5n8v5LVW) | [Bella Wonder](https://open.spotify.com/artist/4anNtmalUlxmPp1vCwLS8a) | [Dreamland](https://open.spotify.com/album/37uuw8k3rQ7hyUGgJ16AmY) | 1:46 | 2022-05-27 |  |
-| [Dulces alegrías](https://open.spotify.com/track/5PSOuj6VsXy6eXhBkBHqEr) | [Adriana Von](https://open.spotify.com/artist/1vaAJMEhSW3SEr07yzlKDO) | [Dulces alegrías](https://open.spotify.com/album/0mA6A0yYI516pR5G08rCNf) | 2:20 | 2021-12-09 |  |
+| [Dulces alegrías](https://open.spotify.com/track/5PSOuj6VsXy6eXhBkBHqEr) | [Adriana Von](https://open.spotify.com/artist/1vaAJMEhSW3SEr07yzlKDO) | [Dulces alegrías](https://open.spotify.com/album/0mA6A0yYI516pR5G08rCNf) | 0:29 | 2021-12-09 |  |
 | [Dunes](https://open.spotify.com/track/5IFtrRzuEqTCyw1spoN5qs) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Something Good](https://open.spotify.com/album/2HNNOqcuGOPt05kFzwPZIR) | 2:40 | 2021-12-09 | 2022-04-22 |
 | [E perto do anoitecer](https://open.spotify.com/track/12JjMTQI1A6Z6cpiuek0z2) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [E perto do anoitecer](https://open.spotify.com/album/2qUsqLtAeAoYKFPUKpR9Qo) | 2:41 | 2021-12-09 |  |
 | [Empire \(Delta Binaural Beat\)](https://open.spotify.com/track/0GawhkkBNAhPTyiITkqyFR) | [Pathfinder](https://open.spotify.com/artist/4teMSBnvZUn588FGFbu3qE) | [Empire \(Delta Binaural Beat\)](https://open.spotify.com/album/6LFbkAVLD2Reo2NcESuSit) | 2:14 | 2022-04-22 |  |
@@ -34,8 +35,11 @@
 | [Fernweh](https://open.spotify.com/track/5EvFIyS4iMpdXCKFlKRsm4) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Fernweh](https://open.spotify.com/album/17EvasbAWye4fNnIGIkOCI) | 2:31 | 2022-06-17 |  |
 | [Fields of nothing](https://open.spotify.com/track/2ITekY6iizrWwOa0mlP8nZ) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [Fields of nothing](https://open.spotify.com/album/5ey0j3lFSmX5DjQoHjTeGz) | 2:25 | 2021-12-09 |  |
 | [figurati](https://open.spotify.com/track/1YcdyFscXp5SH6yT0pbjO4) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [figurati](https://open.spotify.com/album/5CN8B0jAv9Ui2fN1apBrYJ) | 1:51 | 2022-05-27 |  |
+| [Fjärilens vals](https://open.spotify.com/track/0c8qw1e6EKLoSP0ST7jByu) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Fjärilens vals](https://open.spotify.com/album/5uy8qV2Gc7M3bzfcOyrDBr) | 2:07 | 2022-07-01 |  |
 | [Foggy Morning](https://open.spotify.com/track/2ADsX9J1hQBryNwDWZqEsf) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [Foggy Morning](https://open.spotify.com/album/1jU1CLNqseQ1mT8UFUdbfj) | 3:05 | 2021-12-09 | 2022-05-27 |
+| [Gently Slow](https://open.spotify.com/track/08RpEhbRnJzzt318TOEEPJ) | [Mimmi East](https://open.spotify.com/artist/5JD1k7FiD0YmTS7Xcv3RF6) | [Gently Slow](https://open.spotify.com/album/20dortqEfJRZJmobdM7g48) | 2:15 | 2022-07-01 |  |
 | [Goin Ahead](https://open.spotify.com/track/3sRQp2AmxkGCbd8wlhMVRM) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Goin Ahead](https://open.spotify.com/album/6Vj7wsGsLmBB87cP0jhBkZ) | 2:32 | 2021-12-09 |  |
+| [Golden Leaves](https://open.spotify.com/track/0O7DTjLQPnKlcKlClATRps) | [Eijy Yamaguchi](https://open.spotify.com/artist/1I7G9utlEACklch0tHradH) | [Golden Leaves](https://open.spotify.com/album/5do8dNde8A1Lx6p4AyeW2T) | 3:06 | 2022-07-01 |  |
 | [Goosefeather](https://open.spotify.com/track/69d9kb1rQwbDKI1UlO7Zf5) | [Riverkin](https://open.spotify.com/artist/4xsqwbF6mpNckpRPn4AEBr) | [Two Trees](https://open.spotify.com/album/2qNkOL7MgmDaFpTGCiqUZd) | 2:40 | 2021-12-09 | 2022-04-22 |
 | [Graceful Moment](https://open.spotify.com/track/202NHDBh9snqk5bUo1qZmD) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Graceful Moment & Open Fields](https://open.spotify.com/album/4ozWLRqVgvL3CJivu2Idzf) | 2:12 | 2021-12-09 |  |
 | [Great Moments](https://open.spotify.com/track/6VQ4N5ybijwCc6ugRlFztv) | [Manuel Boltano](https://open.spotify.com/artist/1VPn9LztA72am356jYFyMH) | [Great Moments](https://open.spotify.com/album/5omrW0RAtTjG9JIvvPpUW4) | 3:03 | 2021-12-09 | 2022-04-06 |
@@ -86,6 +90,8 @@
 | [Scarlet Dreams](https://open.spotify.com/track/5bDxO7o9npXf4TzfZhvSMM) | [Van Kann](https://open.spotify.com/artist/0q9Un6IHIN7D4OkGv6KHkl) | [Scarlet Dreams](https://open.spotify.com/album/6lFon0oNp8tVMSFzQJaLMy) | 2:52 | 2021-12-09 |  |
 | [Seresta](https://open.spotify.com/track/5cTsLgmhCzeBmTO7jPVkfg) | [Benedict Wallfish](https://open.spotify.com/artist/0J9KRHzB7ZVu5zqVztzclJ) | [Rain Forest](https://open.spotify.com/album/5VtmbXvAvcBOSc60XRa2Sr) | 2:46 | 2022-01-06 | 2022-06-10 |
 | [Sirène](https://open.spotify.com/track/5Jn40Qnf4EwXEdpJbJeX7y) | [Yanis Bernard](https://open.spotify.com/artist/3WCrMlMMPdM3jS5GsWyXlC) | [Sirène](https://open.spotify.com/album/1OAOGMX9WGCcf61JhhPHn3) | 2:48 | 2021-12-09 | 2022-04-06 |
+| [Sleepover](https://open.spotify.com/track/3qQ1RkMq1Fc3Kf1beqcZDZ) | [Robert Delofeu](https://open.spotify.com/artist/05HoDshGmaZHJBCs6HWFA3) | [Sleepover](https://open.spotify.com/album/78ncS8rEV6irr9m1Nhtro1) | 1:38 | 2022-07-01 |  |
+| [Softly Falling \- Guitar Version](https://open.spotify.com/track/0SvvodEiTxOor9LbluX31v) | [Brie Michelle](https://open.spotify.com/artist/4cmtHcvJeFJIYBNXVmRzGz) | [Softly Falling \- Guitar Version](https://open.spotify.com/album/4YsBZRtkKjwetx2CJtrnAr) | 2:17 | 2022-07-01 |  |
 | [Softly Spoken](https://open.spotify.com/track/3fdjOJT2aXArEAmx68eK8P) | [Atticus Laines](https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6) | [Softly Spoken \- Guitar Version](https://open.spotify.com/album/25eYx7OeEr6auVC04XSUlr) | 1:30 | 2022-06-17 |  |
 | [Sol está se pondo](https://open.spotify.com/track/4svcQB6U0H6ECujHIafvwV) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [Sol está se pondo](https://open.spotify.com/album/7yE3u8mjqgn2Qt6azXlnyU) | 2:43 | 2021-12-09 |  |
 | [Soon Enough](https://open.spotify.com/track/6W7rCXxaqacJGS4Lo6w3pf) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Soon Enough](https://open.spotify.com/album/3QQXybzOkugKZwfe9kX2lV) | 2:05 | 2022-02-22 |  |
@@ -106,6 +112,7 @@
 | [Unsung Heroes](https://open.spotify.com/track/79J4D5bHUepJ7MS7Tz3RH5) | [Dawa Sherpa](https://open.spotify.com/artist/16QnPlBSrFOGlH44k9L7nN) | [Unsung Heroes](https://open.spotify.com/album/7htqaGMhM1r263JYtSEgiQ) | 2:29 | 2022-01-06 |  |
 | [Vacilando](https://open.spotify.com/track/3OL9Y9QbBE1WZPI5ft3yzz) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Vacilando](https://open.spotify.com/album/1rTJlbruy1qEqYah6GYCJp) | 2:15 | 2022-06-10 |  |
 | [Verlust und Gewinn](https://open.spotify.com/track/5yH9OVYpFnHoMrSWJEdFUP) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Verlust und Gewinn](https://open.spotify.com/album/6piwS957ZAnONyTajWSPdB) | 2:25 | 2021-12-09 |  |
+| [Vesuvio](https://open.spotify.com/track/06AgHpQ0hUM1BPDgIS4R9P) | [Anila Mirela](https://open.spotify.com/artist/5ZyBxKhm8yMw8HCMWE5u3b) | [Vesuvio](https://open.spotify.com/album/06GlGF6zaU6A0EnnFOF2UB) | 1:51 | 2022-07-01 |  |
 | [Vibrations](https://open.spotify.com/track/1u4kezJPmcBmdUeiJ14joT) | [Mae Ji\-Yoon](https://open.spotify.com/artist/7xt9s2tSwZnZrgwQh3kL1M) | [Vibrations](https://open.spotify.com/album/7J86BlOWt2zLh8sL4UN819) | 2:43 | 2021-12-09 | 2022-04-22 |
 | [Virginia \- Acoustic Guitar](https://open.spotify.com/track/2bRmzP7r8HBbn0WzgYe7w5) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Virginia \(Acoustic Guitar\)](https://open.spotify.com/album/3baVP3sGIoBgLrK0QTOHns) | 2:20 | 2021-12-09 |  |
 | [Voce gentile](https://open.spotify.com/track/64XDCctKb1VkRV6t8V4i4s) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Voce gentile](https://open.spotify.com/album/6qGcaTSZPyed5Lqpk25um6) | 2:48 | 2021-12-09 |  |

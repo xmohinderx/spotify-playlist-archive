@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QVP0Z2zS3B.md) - [plain]
 
 > Las más escuchadas en la ciudad de la furia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,429 likes - 45 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,461 likes - 45 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QVP0Z2zS3B.md) - [plain]
 | 34 | [No Existes \- Remasterizado 2007](https://open.spotify.com/track/6MIDQPurdLJgq5Tg6wM6xy) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Signos \(Remastered\)](https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi) | 4:43 |
 | 35 | [Crema De Estrellas \- Remasterizado 2007](https://open.spotify.com/track/7KdHxPQklzjdmiaORyNQGb) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Sueño Stereo \(Remastered\)](https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg) | 4:37 |
 | 36 | [1990 \(Mil Nueve Noventa\) \- Remasterizado 2007](https://open.spotify.com/track/5U3z76HVF4JZ5cc7Xaem5v) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Canción Animal \(Remastered\)](https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN) | 3:38 |
-| 37 | [Luna Roja \- Remasterizado 2007](https://open.spotify.com/track/0MHENKo7srNABaALyzrYlX) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Dynamo \(Remastered\)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) | 5:30 |
+| 37 | [Luna Roja \- Remasterizado 2007](https://open.spotify.com/track/0MHENKo7srNABaALyzrYlX) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Dynamo \(Remastered\)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) | 0:29 |
 | 38 | [Por Qué No Puedo Ser Del Jet Set? \- Remasterizado 2007](https://open.spotify.com/track/2JD91cpdSGoNh9K50GmByg) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 2:20 |
 | 39 | [Cae El Sol \- Remasterizado 2007](https://open.spotify.com/track/5sUe0Kil6bGZxNE7slwp64) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Canción Animal \(Remastered\)](https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN) | 4:22 |
 | 40 | [Persiana Americana \- Me Verás Volver Gira 2007](https://open.spotify.com/track/3ldFVPFlnrroJonBeWqGJ8) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Gira Me Verás Volver](https://open.spotify.com/album/1cwZmK0zXorTlALtgOajeC) | 5:17 |

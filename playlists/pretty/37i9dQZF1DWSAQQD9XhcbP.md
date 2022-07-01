@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 
 > Cozy Christmas vibes\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,721 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,716 likes - 70 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Dream Of Christmas](https://open.spotify.com/track/0OYglQniaQNazYF0fJblbV) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Extended\)](https://open.spotify.com/album/0Yn0lja0EAPbCZptiHw4Pj) | 3:22 |
-| 2 | [Silver Bells \(feat\. Naturally 7\)](https://open.spotify.com/track/2dnNCViz7wU5FclmN5KcT2) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Naturally 7](https://open.spotify.com/artist/769D3IwCDrdPospAd3Hlpi) | [Christmas \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/0FHpjWlnUmplF5ciL84Wpa) | 3:09 |
+| 2 | [Silver Bells \(feat\. Naturally 7\)](https://open.spotify.com/track/2dnNCViz7wU5FclmN5KcT2) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Naturally 7](https://open.spotify.com/artist/769D3IwCDrdPospAd3Hlpi) | [Christmas \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/0FHpjWlnUmplF5ciL84Wpa) | 0:29 |
 | 3 | [Love To Keep Me Warm](https://open.spotify.com/track/2x6Hg0OmYnkvCtFmAcyzwX) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Love To Keep Me Warm](https://open.spotify.com/album/0pzpLwsZSU0MKFsImNxynF) | 2:38 |
 | 4 | [let it snow \- acoustic](https://open.spotify.com/track/2NiNSxStr1hnM8PJ9jOkRT) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a very merry perri christmas \(extra presents\)](https://open.spotify.com/album/4sLx7tVIivmsDGkymn37UW) | 2:39 |
 | 5 | [Alone on Christmas With You](https://open.spotify.com/track/2tuUhtDoHYw3EssfMZaH8F) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Christmas Music: The Complete Collection](https://open.spotify.com/album/4J9Op7laWoUENBxpb8Ry8i) | 4:14 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 | 19 | [I Saw Mommy Kissing Santa Claus \- Spotify Holiday Single](https://open.spotify.com/track/6CXNzOwENnzLV09gvmqrH1) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/album/0DmXAI8kiQMatXpxapDiLH) | 2:02 |
 | 20 | [Christmas Isn't Christmas](https://open.spotify.com/track/2CcKj9jycmP3i4ommID7wL) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Officially Christmas](https://open.spotify.com/album/1ntmy0iqSY14aEeNZ7kXXa) | 3:15 |
 | 21 | [Christmas Come Early](https://open.spotify.com/track/2nQbAHSkFjirC0qPgWWelZ) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 2:59 |
-| 22 | [Silent Night](https://open.spotify.com/track/1WDqk1lOwKWLyJJLYZCww4) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 2:19 |
+| 22 | [Silent Night](https://open.spotify.com/track/1WDqk1lOwKWLyJJLYZCww4) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 0:29 |
 | 23 | [White Winter Hymnal \(Fleet Foxes Cover\)](https://open.spotify.com/track/0qEFmBL2k8pb2OWgW490X8) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [That's Christmas To Me \(Deluxe Edition\)](https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn) | 2:47 |
 | 24 | [Sing Along With Me](https://open.spotify.com/track/7yXdRNtDfc2At6yItKIuMR) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [Sing Along With Me](https://open.spotify.com/album/46roHdAH2qp7LdZAo0STIz) | 3:02 |
 | 25 | [Little Things](https://open.spotify.com/track/6MRaDK8dO2LEQZhIaNie2o) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Little Things](https://open.spotify.com/album/4SUnf7sfV1oTTMwhWiW547) | 3:08 |

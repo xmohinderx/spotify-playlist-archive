@@ -4,14 +4,14 @@
 
 > Replongez dans les plus grands tubes de la période yéyé\. Photo : Françoise Hardy
 
-51 songs - 2 hr 16 min - [published](https://open.spotify.com/playlist/1E6Av7gXZceh7QkqVWHz8v)
+51 songs - 2 hr 10 min - [published](https://open.spotify.com/playlist/1E6Av7gXZceh7QkqVWHz8v)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [7 Heure Du Mat](https://open.spotify.com/track/5sVA72TQmjb4lqIt00jAaZ) | [Jacqueline Taieb](https://open.spotify.com/artist/2gaXk926O69Od01e5CSFdH) | [The French Mademoiselle](https://open.spotify.com/album/2iFYrUwMGHs4DwAJ94RxuW) | 2:18 | 2021-07-26 |  |
 | [Aline](https://open.spotify.com/track/3Sju0jbR35bTfajNgbkgFy) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Best of \(Collector\)](https://open.spotify.com/album/5vp7Y6bJSUc2maDl3SFywe) | 2:50 | 2021-07-26 |  |
 | [Belles belles belles](https://open.spotify.com/track/58A0ccFbVbjAoA07ENee7k) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Master Serie Vol 1](https://open.spotify.com/album/1NxQK1XBP8kUoIv990pCEw) | 2:14 | 2021-07-26 |  |
-| [Butterfly](https://open.spotify.com/track/72rLswhYvQz9LRx3LogMIW) | [Danyel Gerard](https://open.spotify.com/artist/18wc7xvm8Ti7rqoLtf6jIU) | [Butterfly](https://open.spotify.com/album/72O3ydJomCcEjETdt0UtIq) | 3:25 | 2021-07-26 |  |
+| [Butterfly](https://open.spotify.com/track/72rLswhYvQz9LRx3LogMIW) | [Danyel Gerard](https://open.spotify.com/artist/18wc7xvm8Ti7rqoLtf6jIU) | [Butterfly](https://open.spotify.com/album/72O3ydJomCcEjETdt0UtIq) | 0:29 | 2021-07-26 |  |
 | [C'est pas sérieux](https://open.spotify.com/track/42qeNYv2wPMRVu3C2OJrHZ) | [Les Chats Sauvages](https://open.spotify.com/artist/60U5Nsvpj5mJics5PcIkmd), [Dick Rivers](https://open.spotify.com/artist/7EErtRkIXKEnllrCa1a7xR) | [Est\-ce que tu le sais ? \(avec Dick Rivers\)](https://open.spotify.com/album/2eusU9U7fLiHhsQwoiFiou) | 2:18 | 2021-07-26 |  |
 | [Capri c'est fini](https://open.spotify.com/track/7dND31PE5a7FtLsW6H4Xgy) | [Hervé Vilard](https://open.spotify.com/artist/1HkC0LOaynhYSGcNklyIcd) | [Capri C'Est Fini](https://open.spotify.com/album/32sm9U3FJRLJnOygy0N809) | 3:39 | 2021-07-26 |  |
 | [Ces bottes sont faites pour marcher](https://open.spotify.com/track/3YagVqK6nD7lz7T6knjKVy) | [Eileen](https://open.spotify.com/artist/2AocfyglsHV2wP3IobPCyH) | [Salut les copains](https://open.spotify.com/album/53zZVigzEiUdLMAQQhs5Zj) | 2:33 | 2021-07-26 |  |
@@ -33,7 +33,7 @@
 | [L'idole des jeunes](https://open.spotify.com/track/53ZKkbhsI7p27GN5TcVbdX) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [L'Idole des jeunes](https://open.spotify.com/album/2uUQ2HkoPEzh55x1Zx549F) | 2:28 | 2021-07-26 |  |
 | [L'école est finie \- Version stéréo](https://open.spotify.com/track/4Kgq5PpWPsqMLOId5CvoYF) | [Sheila](https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu) | [Sheila \(Compilation 2006\)](https://open.spotify.com/album/6ixot8kh9JC9usgdNBKkZB) | 2:39 | 2021-07-26 |  |
 | [La javanaise](https://open.spotify.com/track/6wV31VHHbmA5C7vl08HA7S) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [N°4](https://open.spotify.com/album/0ChLtqgbEO6vTIQVYQcxc3) | 2:31 | 2021-07-26 |  |
-| [La nuit n'en finit plus](https://open.spotify.com/track/7axtIlOwGp7VqvfOQf6Mhb) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [C'est Ma Chanson](https://open.spotify.com/album/2IaUpJITUIyHRebMM2ANy1) | 2:55 | 2021-07-26 |  |
+| [La nuit n'en finit plus](https://open.spotify.com/track/7axtIlOwGp7VqvfOQf6Mhb) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [C'est Ma Chanson](https://open.spotify.com/album/2IaUpJITUIyHRebMM2ANy1) | 0:29 | 2021-07-26 |  |
 | [La Plus Belle Pour Aller Danser](https://open.spotify.com/track/5iJRjhwDCnhLBoGLrXr0jj) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [Sylvie Vartan](https://open.spotify.com/album/0ZXogrtxGD1Uz4CrlcoAmp) | 2:36 | 2021-07-26 |  |
 | [Laisse tomber les filles](https://open.spotify.com/track/6ZIkH0yQk0E5hfOVL7CyoQ) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Best Of](https://open.spotify.com/album/4jEkUenMPRi7yNLqyRhF0u) | 2:07 | 2021-07-26 |  |
 | [Le petit pain au chocolat](https://open.spotify.com/track/2VRLDyUSV5krEJOjFwsWas) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Les Champs\-Èlysées](https://open.spotify.com/album/70VszGJ7SagYgjotM7zvrX) | 3:23 | 2022-06-28 |  |

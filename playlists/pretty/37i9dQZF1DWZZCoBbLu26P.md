@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > Queens everywhere \- givin' us life.<br/>Cover: Trixie Mattel
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,149 likes - 84 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,221 likes - 84 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 16 | [Sweet and Sour](https://open.spotify.com/track/5Agunnfj2SyNhhFWNmQ8JE) | [Lemon](https://open.spotify.com/artist/6vNrD9n6lmYcHQ9269HH2B) | [Sweet and Sour](https://open.spotify.com/album/1w8Q8MWgBAgSNoI5wUL2qG) | 1:48 |
 | 17 | [Your Makeup Is Terrible](https://open.spotify.com/track/55EINX1PxT45s5rpO8UIQw) | [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [Anus](https://open.spotify.com/album/5IMcfR6mVlC4eLOzDSmIk1) | 3:58 |
 | 18 | [UK Hun? \(United Kingdolls Version\)](https://open.spotify.com/track/1lZS5NcFUVEZNYSWHtfJPk) | [The Cast of RuPaul's Drag Race UK, Season 2](https://open.spotify.com/artist/5B8MzBYbmhTUA47z1mJFMs) | [UK Hun? \(United Kingdolls Version\)](https://open.spotify.com/album/5UyzUjmnkRX9acY27xknpE) | 2:46 |
-| 19 | [Wrong Bitch](https://open.spotify.com/track/3eOYEYe2VUsiOSCW53OiZv) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj) | [Straight Outta Oz](https://open.spotify.com/album/1abVmBsdc82pIj9CQu7cN0) | 2:38 |
+| 19 | [Wrong Bitch](https://open.spotify.com/track/3eOYEYe2VUsiOSCW53OiZv) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj) | [Straight Outta Oz](https://open.spotify.com/album/1abVmBsdc82pIj9CQu7cN0) | 0:29 |
 | 20 | [Lucky](https://open.spotify.com/track/3C3jcnDl4fbX05x67Jp4B6) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe), [The Cast of RuPaul's Drag Race, Season 13](https://open.spotify.com/artist/4hBZXuGcH9E94jD3A0Bn3r) | [Lucky](https://open.spotify.com/album/254Ri8NToEgWzwZvu8VB2q) | 3:44 |
 | 21 | [My House](https://open.spotify.com/track/2nIaXCaDBXXALg3gKajbLB) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [My House](https://open.spotify.com/album/240UfV3VITJsiUJjn3dKhf) | 2:55 |
 | 22 | [Jackson \(feat\. Orville Peck\)](https://open.spotify.com/track/1dUnjl4wJgJKM6BfXjqwTD) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc), [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Full Coverage Vol\. 1](https://open.spotify.com/album/6MGtowaFObe80ZFTm0zYn2) | 2:37 |
-| 23 | [Soldier](https://open.spotify.com/track/2wWxekq0ATUJtpkmDxsSyL) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [One Stone](https://open.spotify.com/album/2fta3Z2ikci4mFYexn3AvO) | 3:05 |
+| 23 | [Soldier](https://open.spotify.com/track/2wWxekq0ATUJtpkmDxsSyL) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [One Stone](https://open.spotify.com/album/2fta3Z2ikci4mFYexn3AvO) | 0:29 |
 | 24 | [My Hair Looks Fierce \- Original](https://open.spotify.com/track/08yzdQW3TpyAwTToQjkYJW) | [Amanda Lepore](https://open.spotify.com/artist/4rPzjuxvcad2GgpIRt2civ) | [Introducing...Amanda Lepore](https://open.spotify.com/album/0Z96e8zrSgJfokKZfo0Qxb) | 3:31 |
 | 25 | [Blurred Bynes \(feat\. Detox & Vicky Vox\)](https://open.spotify.com/track/4AjE5hWnTyLVoZkTO0nVCS) | [Willam](https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8), [Detox](https://open.spotify.com/artist/51Y484bYxxydKWYy8MDhqC), [Vicky Vox](https://open.spotify.com/artist/2PPQKCcQ2HDYrP41OSlh91) | [Blurred Bynes \(feat\. Detox & Vicky Vox\)](https://open.spotify.com/album/6AydMrSrRmwfbd2Xj4lJkO) | 4:08 |
 | 26 | [I Look Fuckin Cool \(feat\. Alaska Thunderfuck\)](https://open.spotify.com/track/7yw6CspnXzSqxmXj4TxmJd) | [Adore Delano](https://open.spotify.com/artist/3tdsh4B7GuigHI4vPtUs87), [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [Till Death Do Us Party](https://open.spotify.com/album/1fjGYWLyDPItMHLbu2QMeQ) | 3:52 |

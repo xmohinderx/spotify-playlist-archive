@@ -4,7 +4,7 @@
 
 > A collection of roots music and covers urging peace and calling for change\. Cover: Tré Burt
 
-54 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/1wp9q6mgZAPtFlSyAaNYpg)
+54 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/1wp9q6mgZAPtFlSyAaNYpg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Black Irish Indian](https://open.spotify.com/track/7dVdTythtqhJLeRA9vKkkC) | [Cherokee Rose](https://open.spotify.com/artist/2Z9gor60OjbfpDEiFMIcOI) | [Black Irish Indian](https://open.spotify.com/album/3HO00ATLZnsQW5iiUA13Me) | 3:17 | 2022-02-07 |  |
 | [Black Man In A White World](https://open.spotify.com/track/3ddle9t9JiBFVqHyrnaGxz) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 4:18 | 2021-02-24 |  |
 | [Black Myself](https://open.spotify.com/track/5cH2yuvqPh7IsqetGmSoAE) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW), [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl), [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 3:54 | 2021-02-24 |  |
-| [Brother, What Happened?](https://open.spotify.com/track/0KVF0f32xUa86fFPaqytwJ) | [Muddy Magnolias](https://open.spotify.com/artist/1t7mdRbvflM5966YVfyk1X) | [Broken People](https://open.spotify.com/album/3MIBce2g1BNk3mUuj10Ylr) | 4:34 | 2021-02-24 |  |
+| [Brother, What Happened?](https://open.spotify.com/track/0KVF0f32xUa86fFPaqytwJ) | [Muddy Magnolias](https://open.spotify.com/artist/1t7mdRbvflM5966YVfyk1X) | [Broken People](https://open.spotify.com/album/3MIBce2g1BNk3mUuj10Ylr) | 0:29 | 2021-02-24 |  |
 | [Call It What It Is](https://open.spotify.com/track/64uZdEoUfTO3FkED7nUa8T) | [Ben Harper And The Innocent Criminals](https://open.spotify.com/artist/7sJ9LR0mCMgFlzJ6Y9xP64) | [Call It What It Is](https://open.spotify.com/album/7rSv91W6p3WmnDA7ydI4ng) | 3:47 | 2021-02-24 |  |
 | [Cathedrals](https://open.spotify.com/track/3ix3bHsj4H8ceIuMe4T5T9) | [Ruby Amanfu](https://open.spotify.com/artist/1lpu6LF7kS0bfnu43pi2u0) | [Standing Still](https://open.spotify.com/album/5dfqwRqPagZSKyB6qRTW2X) | 3:57 | 2021-02-24 |  |
 | [Dead and Gone](https://open.spotify.com/track/7JV6GAMwFGsVFD8ilBuAjF) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Orphan Offering](https://open.spotify.com/album/0xLVuelF4HRJCKrrucxIx1) | 4:49 | 2021-02-24 |  |

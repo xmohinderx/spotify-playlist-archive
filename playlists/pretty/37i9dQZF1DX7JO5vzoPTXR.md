@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Highlighting <a href="http://noteable.spotify.com">Noteable</a> songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG?si=6UZPxuAmTqq5yhS\_yel9zg">Fave</a>, Saszy Afroshii
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,147 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,177 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 14 | [In Ur Hands](https://open.spotify.com/track/7mf936YkBWMkWlpKAF9AeF) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [In Ur Hands](https://open.spotify.com/album/4GXn0NxyTVANqALltLfNhk) | 2:29 |
 | 15 | [Easy Way Out](https://open.spotify.com/track/0uBweZFdnXrd8Krl37hlNG) | [Yen Strange](https://open.spotify.com/artist/7lSQYcw1enXJdFHw678LAq) | [Easy Way Out](https://open.spotify.com/album/2Gkpj6KschtE9Nmz3SRwL6) | 3:26 |
 | 16 | [How It's Done](https://open.spotify.com/track/4wkJorFJD5WOv11yzm2Llc) | [Kendra Kay](https://open.spotify.com/artist/55wvuImkFMHjZ1nYmhdXYJ) | [How It's Done](https://open.spotify.com/album/0BDvm28OzzXcz0p6WTXE4t) | 2:54 |
-| 17 | [Frankie](https://open.spotify.com/track/76d5duEjc2sorWQFmZsdVC) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Barbara](https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL) | 4:17 |
+| 17 | [Frankie](https://open.spotify.com/track/76d5duEjc2sorWQFmZsdVC) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Barbara](https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL) | 0:29 |
 | 18 | [Any Day Now](https://open.spotify.com/track/2YzM9n2UdWc5iiMbg8B4Mb) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [What Happiness Is](https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD) | 3:21 |
 | 19 | [Romantic Garbage](https://open.spotify.com/track/1mkvfjW9kX5fbSLfubdz2U) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Romantic Garbage](https://open.spotify.com/album/13FKO0aPfUfgf9g0a4cDzT) | 2:51 |
 | 20 | [tequila](https://open.spotify.com/track/2LicjGEOnXmT999t5n6vAw) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [achoo!](https://open.spotify.com/album/5jKZmUNJOPLqToPimNr41p) | 3:23 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 39 | [Tension](https://open.spotify.com/track/2434pKRVVDCC4RI9krWTH4) | [Cappa](https://open.spotify.com/artist/1LCPvGsQVJUQE8oyIRihHh) | [Tension](https://open.spotify.com/album/20sLBP2RxJz8kk4YLlOq7V) | 3:06 |
 | 40 | [The Sweetest Death is Loving You](https://open.spotify.com/track/5pEqp6Ob9ZNvYB4zboPUNU) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv) | [The Sweetest Death is Loving You](https://open.spotify.com/album/7qcXa7Z5KFsdKvqEqiYSzN) | 2:52 |
 
-Snapshot ID: `MTY1NjU1MTgxMywwMDAwMDAwMDA4ZWMyZWI5ZmU2MDg3NTBjM2U4YjFkNWNmODExY2Fk`
+Snapshot ID: `MTY1NjYzOTMzOSwwMDAwMDAwMDA4ZWMyZWI5ZmU2MDg3NTBjM2U4YjFkNWNmODExY2Fk`

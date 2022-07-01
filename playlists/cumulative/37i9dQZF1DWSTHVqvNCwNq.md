@@ -4,7 +4,7 @@
 
 > Born in the Mississippi Delta \- at the turn of the 20th century \- the Delta Blues is one of the earliest and most influential styles of blues.
 
-46 songs - 2 hr 27 min - [published](https://open.spotify.com/playlist/2YDfZExCT8Our9QwJXIQu7)
+46 songs - 2 hr 20 min - [published](https://open.spotify.com/playlist/2YDfZExCT8Our9QwJXIQu7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,16 +13,16 @@
 | [Blues As I Can Be](https://open.spotify.com/track/4cEzHktMaGrNAw36GbNhwr) | [Tommy McClennan](https://open.spotify.com/artist/0m8dKC3T9anldCh2OgZ6pJ) | [Tommy McClennan Vol\. 2 "Cross Cut Saw"](https://open.spotify.com/album/1g9xtSDXkL2iHhYlMSM9Qv) | 2:43 | 2016-03-22 |  |
 | [Brown Mama Blues](https://open.spotify.com/track/3Q7SBXSSwhdjrL5bXFh5CQ) | [Ishmon Bracey](https://open.spotify.com/artist/44GDyjmx3ZNRKlLlhggCgp) | [Masters Of The Delta Blues: The Friends Of Charlie](https://open.spotify.com/album/6Sz8sb77Kh6uEfMWRSCjBm) | 3:07 | 2018-02-27 |  |
 | [By The Spoonful](https://open.spotify.com/track/7oqDaJiG7dUvf7oIQrzGGF) | [J.D\. Short](https://open.spotify.com/artist/5aTQqSNBX17uG0FZxvorSz) | [The Sonet Blues Story](https://open.spotify.com/album/13JqwxkZBFM3B8kp86QsfZ) | 3:49 | 2018-02-27 |  |
-| [Canned Heat Blues](https://open.spotify.com/track/1Uk2MppskA0wnHUj8JwYfC) | [Tommy Johnson](https://open.spotify.com/artist/6n4r5eMU2ZUiHPPWhFDcHq) | [Tommy Johnson 1928 \- 1929](https://open.spotify.com/album/1BrjO0ZJTNZliuhAi9Orf7) | 3:39 | 2016-03-22 |  |
+| [Canned Heat Blues](https://open.spotify.com/track/1Uk2MppskA0wnHUj8JwYfC) | [Tommy Johnson](https://open.spotify.com/artist/6n4r5eMU2ZUiHPPWhFDcHq) | [Tommy Johnson 1928 \- 1929](https://open.spotify.com/album/1BrjO0ZJTNZliuhAi9Orf7) | 0:29 | 2016-03-22 |  |
 | [Catfish Blues](https://open.spotify.com/track/7A9yfYiBXLEvKn1oJy3nPL) | [Robert Petway](https://open.spotify.com/artist/0zNSuwnNWdr8g5EmE0YWKx) | [Mississippi Blues Vol\. 3 "Catfish Blues"](https://open.spotify.com/album/4LjUYP4RO0OcX7f6lUVerz) | 2:54 | 2016-03-22 |  |
 | [Catfish Blues](https://open.spotify.com/track/7d89sBzsw47LbdprUMNyfJ) | [Robert Petway](https://open.spotify.com/artist/0zNSuwnNWdr8g5EmE0YWKx) | [Mississippi Blues \(1935\-1951\)](https://open.spotify.com/album/1tGPQ7JepAddVZ2506Wuu6) | 2:55 | 2018-02-27 |  |
 | [Coffee Blues](https://open.spotify.com/track/2azwzKd8xYex2PyJEyl8BX) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Rediscovered](https://open.spotify.com/album/7563JyVKfAPqonIxfTuU1p) | 3:46 | 2018-02-27 |  |
 | [Coffee Blues](https://open.spotify.com/track/16GdiwewBf99MhUSVsxUBe) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Complete Studio Recordings](https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ) | 3:47 | 2016-03-22 |  |
 | [Come Back Baby](https://open.spotify.com/track/061qVrfyTW07DCB9B4BBmI) | [Doctor Ross](https://open.spotify.com/artist/59gZhkxiZ8x4umU9ua2ZBn) | [Come Back Baby / Chicago Breakdown](https://open.spotify.com/album/14WqCYoHNfJBr2GCdsees3) | 2:47 | 2021-10-29 |  |
-| [Come On In My Kitchen](https://open.spotify.com/track/10W125nMbncRGcXRBoACOx) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 2:52 | 2018-02-27 |  |
+| [Come On In My Kitchen](https://open.spotify.com/track/10W125nMbncRGcXRBoACOx) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 0:29 | 2018-02-27 |  |
 | [Cool Drink Of Water](https://open.spotify.com/track/5Ys4D2UDLSO1WrH6x3JYKd) | [Houston Stackhouse](https://open.spotify.com/artist/2JQ9OGncNXR1tFPLInvlPb) | [The Devil's Music Vol\. 1](https://open.spotify.com/album/4iwZoEbealEbp0NJBOop57) | 3:16 | 2016-03-22 |  |
 | [Crawlin' King Snake](https://open.spotify.com/track/3DQhvYiIPe7DrfTKuI2Uc6) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Legendary Modern Recordings](https://open.spotify.com/album/3VZo6Z4zqLnODmtIqmVemL) | 3:02 | 2018-02-27 |  |
-| [Cross Road Blues](https://open.spotify.com/track/1TrGdXSgiBm8W68D2K1COG) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 2:29 | 2016-03-22 |  |
+| [Cross Road Blues](https://open.spotify.com/track/1TrGdXSgiBm8W68D2K1COG) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 0:29 | 2016-03-22 |  |
 | [Cypress Grove Blues](https://open.spotify.com/track/3JPS9XaJtmBQXyJLKR2twp) | [Skip James](https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ), [Jack Owens](https://open.spotify.com/artist/57mD2xpKgNANtlCSwNDQn5) | [50 YEARS Mississippi Blues in Bentonia](https://open.spotify.com/album/4yYLSeTmtInZXtSuy1rGav) | 3:09 | 2018-02-27 |  |
 | [Dark Road Blues](https://open.spotify.com/track/53UVR0PgoiYJR685pQChYS) | [Willie Lofton](https://open.spotify.com/artist/5f0CgU806B0KdEd0QY7Bf9) | [Jackson Blues \(1928\-1938\)](https://open.spotify.com/album/7E4TscdR2I9bX7s9mtDbBe) | 3:03 | 2018-02-27 |  |
 | [Death Letter Blues](https://open.spotify.com/track/0W0euvQlhbcsTydzsD4EQk) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Father Of The Delta Blues: The Complete 1965 Sessions](https://open.spotify.com/album/5SsZBxF3sRSJnFd0rZ3vcF) | 4:19 | 2016-03-22 |  |

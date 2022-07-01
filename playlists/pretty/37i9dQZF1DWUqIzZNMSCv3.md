@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 
 > Relaxing classical piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,171 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,425 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 | 45 | [3 Preludes and Fugues, Op\. 16: No\. 2\. Prelude and Fugue in B\-Flat Major](https://open.spotify.com/track/1u7z1dbU39nz7LysjwU5uF) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Jozef De Beenhouwer](https://open.spotify.com/artist/7JI0OWkSm3v9MtPqBemMHQ) | [Schumann, C.: Complete Piano Works](https://open.spotify.com/album/1D4iJ2Q5GDju4kVykTvbwE) | 3:43 |
 | 46 | [Nocturne No\. 19 in E Minor, Op\. 72, No\. 1](https://open.spotify.com/track/64LTn5fTsPR0QLy7bVYl9w) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Benjamin Grosvenor](https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj) | [Benjamin Grosvenor: Chopin, Liszt, Ravel](https://open.spotify.com/album/5MyejkHGSoo5IfTum4VMiw) | 4:01 |
 | 47 | [Nocturne No\. 2 in C Minor](https://open.spotify.com/track/6cDytuMZ5Z4iMEhK65HiHL) | [John Field](https://open.spotify.com/artist/7vDYlejWEU6Yuw4MxTiv56), [Benjamin Frith](https://open.spotify.com/artist/0g33P9zonyHhsIQJ1LUC8X) | [Field: Piano Music, Vol\. 1](https://open.spotify.com/album/6M8FX7UmvvKWISfxVvxa40) | 3:43 |
-| 48 | [Pavane pour une infante défunte, M\. 19](https://open.spotify.com/track/6StjE2hce01PzynfEkfKvo) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Anna Vinnitskaya](https://open.spotify.com/artist/6VqVuLtujJqd6FH8eQ9gyr) | [Ravel: Miroirs, Gaspard de la nuit, Pavane](https://open.spotify.com/album/580qPYRAHWIOwBbhppHXyh) | 6:29 |
+| 48 | [Pavane pour une infante défunte, M\. 19](https://open.spotify.com/track/6StjE2hce01PzynfEkfKvo) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Anna Vinnitskaya](https://open.spotify.com/artist/6VqVuLtujJqd6FH8eQ9gyr) | [Ravel: Miroirs, Gaspard de la nuit, Pavane](https://open.spotify.com/album/580qPYRAHWIOwBbhppHXyh) | 0:29 |
 | 49 | [Rêverie, L\. 68](https://open.spotify.com/track/6HNUntao7jCtKR2cGKgqn0) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 5:29 |
-| 50 | [Nocturne No\. 1 in E Flat Major, H.24](https://open.spotify.com/track/4h4py9AzEuUGBTJZO4ifnm) | [John Field](https://open.spotify.com/artist/7vDYlejWEU6Yuw4MxTiv56), [Elizabeth Joy Roe](https://open.spotify.com/artist/5vJAuQf7YI4bRYev7UfZDs) | [Field: Complete Nocturnes](https://open.spotify.com/album/0I3BvDSNoPQnI8Fsr60Cub) | 3:41 |
+| 50 | [Nocturne No\. 1 in E Flat Major, H.24](https://open.spotify.com/track/4h4py9AzEuUGBTJZO4ifnm) | [John Field](https://open.spotify.com/artist/7vDYlejWEU6Yuw4MxTiv56), [Elizabeth Joy Roe](https://open.spotify.com/artist/5vJAuQf7YI4bRYev7UfZDs) | [Field: Complete Nocturnes](https://open.spotify.com/album/0I3BvDSNoPQnI8Fsr60Cub) | 0:29 |
 
 Snapshot ID: `MTY0NzU3NjA2MCwwMDAwMDAyNzAwMDAwMTdmOWIyZjkwZTgwMDAwMDE3ZDhmZmM0M2Ix`

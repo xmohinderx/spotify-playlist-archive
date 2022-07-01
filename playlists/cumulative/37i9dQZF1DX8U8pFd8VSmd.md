@@ -4,7 +4,7 @@
 
 > Fire up the grill and enjoy this playlist with the whole family.
 
-50 songs - 2 hr 31 min - [published](https://open.spotify.com/playlist/3oUCrpB9ntTb9UkqHlgytt)
+50 songs - 2 hr 23 min - [published](https://open.spotify.com/playlist/3oUCrpB9ntTb9UkqHlgytt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/5b88tNINg4Q4nrRbrCXUmg) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/2lkQd5T32QHDOfFkEIPJKz) | 3:52 | 2021-05-25 |  |
 | [Here Comes The Sun \- Remastered](https://open.spotify.com/track/45yEy5WJywhJ3sDI28ajTm) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd) | 3:05 | 2021-05-25 |  |
 | [Hot Dog](https://open.spotify.com/track/1cHA0gK0UzmkOjdi9Ldwwi) | [Laura Doherty](https://open.spotify.com/artist/7bVSBw7ZOfKRyPBzTjEIoG) | [Kids In The City](https://open.spotify.com/album/0u6Q3uQTy7aqQ7DVKpGltt) | 1:55 | 2021-05-25 |  |
-| [Hot Dog!](https://open.spotify.com/track/3vjOGPGu3tgYi3oBkQ2Gjz) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Mickey Mouse Clubhouse](https://open.spotify.com/album/2xqbyzv6NncmREgqNFP5Ee) | 2:28 | 2021-05-25 |  |
+| [Hot Dog!](https://open.spotify.com/track/3vjOGPGu3tgYi3oBkQ2Gjz) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Mickey Mouse Clubhouse](https://open.spotify.com/album/2xqbyzv6NncmREgqNFP5Ee) | 0:29 | 2021-05-25 |  |
 | [Hot Hot Hot](https://open.spotify.com/track/2BeFYfKuc0AZGhbeVY78ep) | [Buster Poindexter And His Banshees Of Blue](https://open.spotify.com/artist/77GFTVwA0F6Ag1xtlYr0UA) | [Buster Poindexter](https://open.spotify.com/album/4lFx9yBIZmyiBXmw0nFUQf) | 4:10 | 2021-05-25 |  |
 | [Hot Sauce](https://open.spotify.com/track/1FSj3PsTEYUGtHRgk7p3QJ) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Hot Sauce](https://open.spotify.com/album/6UkP9AaaffmY2lQikAjLts) | 2:19 | 2021-05-25 |  |
 | [I Love Food](https://open.spotify.com/track/5oXvX5XuLiVtK3YQbE931Z) | [The Not\-Its!](https://open.spotify.com/artist/4Eo7yzZ7LoM4Cg8AySUWry) | [Tag, You're It!](https://open.spotify.com/album/5O0lrEav82bSTfEbcl37h3) | 2:51 | 2021-05-25 |  |
@@ -45,7 +45,7 @@
 | [Rare](https://open.spotify.com/track/7HMmFQsKsljwTw8bS7lu19) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:40 | 2021-05-25 |  |
 | [Salad](https://open.spotify.com/track/20RO9qidpVyLDrb0BsCZmR) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Fast Casual](https://open.spotify.com/album/0nsdGogR0v9D4bHUgfedBL) | 2:11 | 2021-05-25 |  |
 | [Saturday in the Park \- 2002 Remaster](https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago V \(Expanded & Remastered\)](https://open.spotify.com/album/2oSXXINsWGuEsc4udgWxh8) | 3:55 | 2021-05-25 |  |
-| [Shake It Off](https://open.spotify.com/track/1CiVz2WkmZRwhU3A6J2Gjz) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Big Machine Radio Release Special\)](https://open.spotify.com/album/6EsTJnpahwW6xX20zvqQgZ) | 3:39 | 2021-05-25 |  |
+| [Shake It Off](https://open.spotify.com/track/1CiVz2WkmZRwhU3A6J2Gjz) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Big Machine Radio Release Special\)](https://open.spotify.com/album/6EsTJnpahwW6xX20zvqQgZ) | 0:29 | 2021-05-25 |  |
 | [Spice Up Your Life](https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 2:53 | 2021-05-25 |  |
 | [Summer Feelings \(feat\. Charlie Puth\) \- From 'SCOOB!' The Album](https://open.spotify.com/track/49dFIRQCQxPWgoH0m38XQ5) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Summer Feelings \(feat\. Charlie Puth\)](https://open.spotify.com/album/4D9M4nzQ9kvchgxyQyymtW) | 2:40 | 2021-05-25 |  |
 | [Summer Sunshine](https://open.spotify.com/track/0QfYy4pgfxQ2Af3ScScLWY) | [Rebecca Frezza & Big Truck](https://open.spotify.com/artist/1SeulqPitSZkVs2NChVAlO) | [Special Kind Of Day](https://open.spotify.com/album/50P0yHZsEryCZ8Uy98b5ET) | 2:42 | 2021-05-25 |  |
@@ -54,7 +54,7 @@
 | [SUMMERTIME!](https://open.spotify.com/track/5MwfVQ4xXUMzKTmG9RuoHZ) | [The Aquabats!](https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s) | [Super Show! Vol\. 1 \(Music from The Aquabats! Super Show! Soundtrack\)](https://open.spotify.com/album/3IrSAQW0Hzh2o4qwoPAmOx) | 1:19 | 2021-05-25 |  |
 | [Tequila](https://open.spotify.com/track/6iBdawbfBxb7op85Ydd9C7) | [The Surfaris](https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv) | [Surf Party: Best Of The Surfaris \- Live!](https://open.spotify.com/album/6Sxn3U1oloIaKAZl8pc0Y4) | 2:42 | 2021-05-25 |  |
 | [The Bones](https://open.spotify.com/track/3npzogdOEiVsieXmmhBepL) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/5QakU0QMcoxjjyCS1YW4G5) | 3:17 | 2021-05-25 |  |
-| [Try Everything](https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3X6netsswLt0U97Doga56C) | 3:16 | 2021-05-25 |  |
+| [Try Everything](https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3X6netsswLt0U97Doga56C) | 0:29 | 2021-05-25 |  |
 | [Yummy](https://open.spotify.com/track/16wAOAZ2OkqoIDN7TpChjR) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Changes](https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii) | 3:28 | 2021-05-25 |  |
 | [Yummy Yum](https://open.spotify.com/track/675muZKhdRoFseKaTUVH9N) | [Mil's Trills](https://open.spotify.com/artist/2FEJYbtk6YLtBXrTRUpIAj), [Amelia Robinson](https://open.spotify.com/artist/4OqIoFW3JcA73jTeS8bMVK) | [Ridiculous Nonsense](https://open.spotify.com/album/6qpYbHbNAx9fXXiQLqMRwT) | 1:22 | 2021-05-25 |  |
 | [Yummy Yummy Fresh](https://open.spotify.com/track/7MgM2wyHc1G3tu7GSJak0s) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04), [Mista Cookie Jar](https://open.spotify.com/artist/0HL2EVwbtbmTaUirGt9hWt) | [Yummy Yummy Fresh](https://open.spotify.com/album/3jKkAZf4uJmgMfAkVDoFv2) | 2:40 | 2021-05-25 |  |

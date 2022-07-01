@@ -4,7 +4,7 @@
 
 > Pushing the boundaries of instrumental Folk and Americana.
 
-55 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/0aQjrq4EoXUS7jLQajURnf)
+55 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/0aQjrq4EoXUS7jLQajURnf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Flower Turned Inside\-Out](https://open.spotify.com/track/25ISO5GDUQU94hqhjFFQIS) | [Glenn Jones](https://open.spotify.com/artist/7HY8lCkyEUSL5jfENlkshV) | [Fleeting](https://open.spotify.com/album/1nJRtI9d5gAd3HZjN2IXLA) | 4:20 | 2022-02-10 |  |
 | [He is Without His Guns](https://open.spotify.com/track/1ZkNI3JpzfQ5LMV33zH7Jg) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW) | [Into the Light](https://open.spotify.com/album/6PKMSpHdDkaay6WTBUzxz0) | 3:24 | 2022-02-10 |  |
 | [Highway Anxiety](https://open.spotify.com/track/3JLXnHbsF9kJrAphXVPoF6) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Modern Country](https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT) | 9:06 | 2022-02-10 |  |
-| [Home](https://open.spotify.com/track/3OOW0UYCJ4cBJ3Tm0vsWzx) | [SUSS](https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS) | [Promise](https://open.spotify.com/album/0oXfn8vzQ1yicX2dBkLgf4) | 5:37 | 2022-02-10 |  |
+| [Home](https://open.spotify.com/track/3OOW0UYCJ4cBJ3Tm0vsWzx) | [SUSS](https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS) | [Promise](https://open.spotify.com/album/0oXfn8vzQ1yicX2dBkLgf4) | 0:29 | 2022-02-10 |  |
 | [Horns](https://open.spotify.com/track/5cnGwWAFTrisjuOGyPIoKy) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Valley Of The Sun](https://open.spotify.com/album/6fZ3Hx3Fzsswmto7mC3rP5) | 5:00 | 2022-02-10 |  |
 | [Huron](https://open.spotify.com/track/1pTkkX3dARoW4FOIBQv4rv) | [LaCerte](https://open.spotify.com/artist/3BtWF0iqzutntjuCfxh6NN) | [Huron](https://open.spotify.com/album/1eYlcFAGA6Nh0nMjlqrQZF) | 2:32 | 2022-02-10 |  |
 | [In a Cistern](https://open.spotify.com/track/4l9qE7OMktnSUGwvU7kLNU) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [In a Cistern b/w Into Clouds](https://open.spotify.com/album/6xlCxwfhcHoAB9QFPltjU3) | 4:20 | 2022-02-10 |  |
@@ -47,7 +47,7 @@
 | [Paris, Texas](https://open.spotify.com/track/1idiifjTcCoGfBeZiYOdim) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Music by Ry Cooder](https://open.spotify.com/album/0gLaTb6BP8pySUWwkiZjdD) | 2:54 | 2022-02-10 |  |
 | [Rivers That You Cannot See](https://open.spotify.com/track/1vcUEZRzVuin9vrRimeJh5) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S), [Joel Ford](https://open.spotify.com/artist/5XiDsZ4MdTGfZvUEVBGfiA) | [Rivers That You Cannot See](https://open.spotify.com/album/214aKLtpQeQQ4XT13YYGjE) | 3:55 | 2022-02-10 |  |
 | [Rocks on Rainbow](https://open.spotify.com/track/3ESUgBQUTOiOGOO8e0fKs4) | [Ryley Walker](https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc) | [Deafman Glance](https://open.spotify.com/album/5JQsspSJeFq8YePC8xLyBt) | 1:45 | 2022-02-10 |  |
-| [Shenandoah \(For Johnny Smith\)](https://open.spotify.com/track/1WDOzVi6U8H4JEeYNg3eOQ) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Good Dog, Happy Man](https://open.spotify.com/album/4ICZxA4JmNgkrjT9d30TJX) | 6:10 | 2022-02-10 |  |
+| [Shenandoah \(For Johnny Smith\)](https://open.spotify.com/track/1WDOzVi6U8H4JEeYNg3eOQ) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Good Dog, Happy Man](https://open.spotify.com/album/4ICZxA4JmNgkrjT9d30TJX) | 0:29 | 2022-02-10 |  |
 | [Silent Advance](https://open.spotify.com/track/1rmQpmB07R7ehokVR74AQW) | [Bryan Rahija](https://open.spotify.com/artist/17OekKFB72Bbu7R14sde59) | [Silent Advance](https://open.spotify.com/album/5j5jKiWgjZ7w4VDNVBEuW8) | 2:25 | 2022-02-10 |  |
 | [Soft Night](https://open.spotify.com/track/4KO9s8B7n9ks2lgS7cqsPG) | [CARM](https://open.spotify.com/artist/3596asOGwi58IfCICpBbQZ) | [CARM](https://open.spotify.com/album/4YRae7DKDb8FQ291vQ2CRY) | 3:59 | 2022-02-10 |  |
 | [Sun At 5 In 4161](https://open.spotify.com/track/28X5wrV8PXG4PpbEv7pjUt) | [Andrew Tuttle](https://open.spotify.com/artist/7oyH6DSD42pak09Jzqj9i7) | [Alexandra](https://open.spotify.com/album/79IqAxOyFTR78bqjoVLEB4) | 5:07 | 2022-02-10 |  |

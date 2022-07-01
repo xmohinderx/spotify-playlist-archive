@@ -4,7 +4,7 @@
 
 > You're on Spring Break...turn it up and start acting like it!
 
-42 songs - 2 hr 45 min - [published](https://open.spotify.com/playlist/71CyiFhCCLykEokdnepQoU)
+42 songs - 2 hr 42 min - [published](https://open.spotify.com/playlist/71CyiFhCCLykEokdnepQoU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Party Hard](https://open.spotify.com/track/0E0bZtTG39K95uRjqBo1Mx) | [Andrew W.K.](https://open.spotify.com/artist/4YJR4xviDKHoelt9WKHlBa) | [I Get Wet](https://open.spotify.com/album/6BQMUDC55fjjnApdWtZYZM) | 3:04 | 2014-02-21 |  |
 | [Party Up](https://open.spotify.com/track/4MxZW1XEcPuIZmkANsJabC) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [...And Then There Was X](https://open.spotify.com/album/10memku7dGZY14rvvlNpPv) | 4:28 | 2014-02-21 |  |
 | [People of the Sun](https://open.spotify.com/track/3QjQp2bfAvLTCSi8Zhzqis) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 2:30 | 2014-02-21 |  |
-| [Prison Song](https://open.spotify.com/track/3AwLxSqo1jOOMpNsgxqRNE) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:21 | 2014-02-21 |  |
+| [Prison Song](https://open.spotify.com/track/3AwLxSqo1jOOMpNsgxqRNE) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 0:29 | 2014-02-21 |  |
 | [Radioactive](https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8) | 3:06 | 2014-02-21 |  |
 | [Ready To Fall](https://open.spotify.com/track/2r1yo1u0PHegpetacdrHh2) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ) | 3:47 | 2014-02-21 |  |
 | [Rebel Without A Pause](https://open.spotify.com/track/0OOm7QUFScRpcgXuSakyvQ) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [Good Times](https://open.spotify.com/album/6dnBh2GSty4rj4SD6W1GoF) | 5:02 | 2014-02-21 |  |

@@ -212,6 +212,28 @@
     },
     {
       "album": {
+        "name": "Breaking Bad",
+        "url": "https://open.spotify.com/album/1UQiCvNh818IR2eGNyFCwX"
+      },
+      "artists": [
+        {
+          "name": "Tommy Soprano",
+          "url": "https://open.spotify.com/artist/1bohBNryuQpzSEtG9cytN1"
+        },
+        {
+          "name": "7vvch",
+          "url": "https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Breaking Bad",
+      "url": "https://open.spotify.com/track/3NHdgC5rnBdgHqMLIpDaUT"
+    },
+    {
+      "album": {
         "name": "Burning",
         "url": "https://open.spotify.com/album/6bSYFY9k1PzQCYPUElVDNm"
       },
@@ -267,6 +289,42 @@
       "duration_ms": 182994,
       "name": "Creed",
       "url": "https://open.spotify.com/track/0mXeyfwJMCPwIV6mlATpoa"
+    },
+    {
+      "album": {
+        "name": "DALE",
+        "url": "https://open.spotify.com/album/2LvZxhfd1zJOIdl4iLRlgG"
+      },
+      "artists": [
+        {
+          "name": "WYR GEMI",
+          "url": "https://open.spotify.com/artist/3Qubu5zXcOh0EIb2bDwMdB"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164201,
+      "name": "DALE",
+      "url": "https://open.spotify.com/track/6y0SGW7yBjlL8WsOvUk2Dv"
+    },
+    {
+      "album": {
+        "name": "Sounds Of The Street II",
+        "url": "https://open.spotify.com/album/7xXzCE3kMsxMQ2YWldJY2V"
+      },
+      "artists": [
+        {
+          "name": "Where It's ATT",
+          "url": "https://open.spotify.com/artist/6sMtJ7VjiMiflyZCnTxEcD"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159491,
+      "name": "Dark & Dangerous",
+      "url": "https://open.spotify.com/track/0G4bbDthDjRpeiEi7jX6RH"
     },
     {
       "album": {
@@ -423,7 +481,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 174550,
       "name": "FLEXIN'",
       "url": "https://open.spotify.com/track/4HzwzU8MQu0BeOGR28B459"
@@ -485,7 +543,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 242474,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/2bjbQOlosHoM9CdcYVtSbv"
@@ -745,6 +803,24 @@
       "duration_ms": 235826,
       "name": "In The Car",
       "url": "https://open.spotify.com/track/1NDisFoShGmFHltbPSF69Q"
+    },
+    {
+      "album": {
+        "name": "Indian Desert",
+        "url": "https://open.spotify.com/album/4VyrNDmlD0yyGTvpz3B0RA"
+      },
+      "artists": [
+        {
+          "name": "Otnicka",
+          "url": "https://open.spotify.com/artist/3tSmEw5WMGAZ6sxt9Dt3Nt"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180286,
+      "name": "Indian Desert",
+      "url": "https://open.spotify.com/track/01nOgbLl0A9AiZl0ip1aQH"
     },
     {
       "album": {
@@ -1761,7 +1837,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 156846,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/7vuWtneKztDK57TAUlCynR"
@@ -1783,7 +1859,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 197963,
       "name": "Thank You [Not So Bad]",
       "url": "https://open.spotify.com/track/4AqN8IdKCfItCSbuaFch81"
@@ -1820,7 +1896,7 @@
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 139629,
+      "duration_ms": 29048,
       "name": "Woah",
       "url": "https://open.spotify.com/track/3jWkWcmESJG9fmhZOpZYsW"
     },

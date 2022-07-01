@@ -4,7 +4,7 @@
 
 > Stay focused with electronic and trap beats.
 
-266 songs - 12 hr 29 min - [published](https://open.spotify.com/playlist/429tTbbut5PiLd9eaOOdPG)
+266 songs - 12 hr 22 min - [published](https://open.spotify.com/playlist/429tTbbut5PiLd9eaOOdPG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [All the Frogs](https://open.spotify.com/track/5Zxcm8La3J8yCyPA4FpzAe) | [Freddy Peterson](https://open.spotify.com/artist/1RzMfKmdmXJb7xWw7GPAgt) | [Underwater Cactus](https://open.spotify.com/album/1rFPmXsf0UETLNia2pEfHm) | 2:03 | 2021-04-26\* | 2022-05-27 |
 | [Alright!!!](https://open.spotify.com/track/7nf0SbQqrLkwNOjLH6J4PO) | [Blu Beats](https://open.spotify.com/artist/4RGM8nv60UrFGArNSyCZdY) | [Butterscotch](https://open.spotify.com/album/2VO7rHl5HkUVeSU67nDOLI) | 3:30 | 2021-10-14 |  |
 | [Amber](https://open.spotify.com/track/1evwA28dL7t3r5eG3DOmmj) | [Fadez N Riser](https://open.spotify.com/artist/11RjmGA0jW6k35CqEGjl8n) | [Amber](https://open.spotify.com/album/5Ugj8cXqKSZ1YLNQ5dLTZT) | 2:48 | 2021-10-14 |  |
-| [Ambivalent](https://open.spotify.com/track/5gdYkbObWnojZxaNBQ94sZ) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Ambivalent](https://open.spotify.com/album/4HdRnDygvhda6ywARwXUSo) | 2:26 | 2022-01-27 |  |
+| [Ambivalent](https://open.spotify.com/track/5gdYkbObWnojZxaNBQ94sZ) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Ambivalent](https://open.spotify.com/album/4HdRnDygvhda6ywARwXUSo) | 0:29 | 2022-01-27 |  |
 | [AnimEl](https://open.spotify.com/track/1mXWDNhr5fBS38wnXqsh8A) | [Lazy Lovers](https://open.spotify.com/artist/1HMmdYdBAElZlWljQBAoCq) | [AnimEl](https://open.spotify.com/album/4jSNKcvNrswodMWYtZkL50) | 2:57 | 2022-02-18 |  |
 | [Apocalypse](https://open.spotify.com/track/5u0XFEuy08KLJIxawYnkjo) | [BlackFrost](https://open.spotify.com/artist/1Wmkb9aWIvUb2h7q6MSHzI) | [Awakening](https://open.spotify.com/album/44i8vDWmQGXQwoK33zeXTS) | 2:03 | 2021-04-26\* | 2021-09-10 |
 | [Arian](https://open.spotify.com/track/0qOKwBICWzPtScjJjuLLkv) | [Electro Ponzu](https://open.spotify.com/artist/7p1sA3P2zp1rIrkr9DNxfz) | [Arian](https://open.spotify.com/album/32w458f4xQdJZp3rjLsFnR) | 1:52 | 2021-09-10 |  |
@@ -119,7 +119,7 @@
 | [I See it Coming](https://open.spotify.com/track/48Xm5taNqpo0JoeWToC3RR) | [Moni Section](https://open.spotify.com/artist/7JRvm5GQzBVLrq7nqFgUpS) | [I See it Coming](https://open.spotify.com/album/6sNaXLan0jNEamLBKjmr0N) | 1:40 | 2021-04-26\* | 2022-05-14 |
 | [Iacta](https://open.spotify.com/track/13Ko7UiTNt5B8NfXcRLcVQ) | [palence](https://open.spotify.com/artist/2hP9ky7jNcqy6F3nYKSGt8) | [Telophase](https://open.spotify.com/album/0cIOvhDeIbCLAVOLZaToIY) | 2:45 | 2021-08-26 |  |
 | [Ice Rink](https://open.spotify.com/track/7kqeab2d9HlSk4KRSlogXB) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Big Sal](https://open.spotify.com/album/6QMP7CSxNbl7nPCK8fqSTJ) | 2:18 | 2021-04-26\* | 2021-06-18 |
-| [Intrepid](https://open.spotify.com/track/4FF2yXuwxAVwQzCyDj0rRU) | [Screwbar](https://open.spotify.com/artist/4wFYoFRNMyPuk7YbtENoz9) | [Intrepid](https://open.spotify.com/album/2tjwpsIYUyYPrTEeHpMf9B) | 2:54 | 2021-11-10 |  |
+| [Intrepid](https://open.spotify.com/track/4FF2yXuwxAVwQzCyDj0rRU) | [Screwbar](https://open.spotify.com/artist/4wFYoFRNMyPuk7YbtENoz9) | [Intrepid](https://open.spotify.com/album/2tjwpsIYUyYPrTEeHpMf9B) | 0:29 | 2021-11-10 |  |
 | [Ipanema](https://open.spotify.com/track/35wMZtYtVpNS1sVATrU5H5) | [Elixrr River](https://open.spotify.com/artist/1PwXZbR5QgqYL93wbnBzah) | [Pad Guy](https://open.spotify.com/album/3Q3gMjDdZ9BpZhz05TqL1s) | 4:29 | 2021-10-14 |  |
 | [Jaxxon](https://open.spotify.com/track/0AhsGBXcirKOnkoOnATDuI) | [Hillside Reds](https://open.spotify.com/artist/2UPmPftzM6G8utXa3RQ2MB) | [Jaxxon](https://open.spotify.com/album/2uQPnSPTSyBx4uOd7UyFQY) | 2:57 | 2022-03-04 |  |
 | [Joker](https://open.spotify.com/track/7CAwp6JcKR1aIZc6unYpOV) | [Screwbar](https://open.spotify.com/artist/4wFYoFRNMyPuk7YbtENoz9) | [Joker](https://open.spotify.com/album/2VoCKMm05uZR0Rxu7Pk28P) | 3:28 | 2022-05-13 |  |
@@ -236,7 +236,7 @@
 | [Tenfold](https://open.spotify.com/track/0qAtNFoHtl9eeS4Ztkcy9u) | [Ray Ford](https://open.spotify.com/artist/4pl1vdN8xHWjo9PhTUeKFy) | [Tenfold](https://open.spotify.com/album/35ZmQNZr3vi2qq3CQF7cuW) | 2:24 | 2021-04-26\* | 2022-04-22 |
 | [The Curse](https://open.spotify.com/track/1ylnXamkVsB7Y8pG1qVMOo) | [Ryan Jacq](https://open.spotify.com/artist/2Czfaic8uaTvBsLqYcqrSG), [Ahmet Sarlak](https://open.spotify.com/artist/2zrnDU6HAQ6gRiTY3EKFKh) | [Wrong Time](https://open.spotify.com/album/5YWKhzrtxDX5MdxnTf9Kmo) | 3:15 | 2021-04-26\* | 2021-08-26 |
 | [The Girl](https://open.spotify.com/track/1iQaEZV0gvXQOTwET11wIL) | [Hologram Tiger](https://open.spotify.com/artist/4uEqtLOBlxSY4aNvRtfyke) | [STONE LOVE](https://open.spotify.com/album/37i8dfPswlTjPhQ2ZwtrV5) | 2:25 | 2021-11-10 |  |
-| [The Monster Under My Bed](https://open.spotify.com/track/6e1CdbMZtce6YpTxDJnNc5) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [The Monster Under My Bed](https://open.spotify.com/album/61CZefoQUPOSvk5Pzg3TtJ) | 2:27 | 2021-04-26\* |  |
+| [The Monster Under My Bed](https://open.spotify.com/track/6e1CdbMZtce6YpTxDJnNc5) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [The Monster Under My Bed](https://open.spotify.com/album/61CZefoQUPOSvk5Pzg3TtJ) | 0:29 | 2021-04-26\* |  |
 | [The Only Way Is Up](https://open.spotify.com/track/7rHuepPgmSd5rn5v5UvGIT) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [The Only Way Is Up](https://open.spotify.com/album/69s27L8CloHAZCXvqgHdmi) | 3:41 | 2021-06-04 |  |
 | [The Other Side Of Existence](https://open.spotify.com/track/55A3X6pEv4CdhGQ2rRS1IF) | [Yuni Wa](https://open.spotify.com/artist/4RhG0qGKMzfWNdi4OM6obG) | [Context 4](https://open.spotify.com/album/3GvwwetLLw133FCVvRZW18) | 3:29 | 2021-05-07 | 2022-04-22 |
 | [The Riddle of the Record](https://open.spotify.com/track/0RYIUB2SNWbr9CEEWL9tVW) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Soul Single Serenade](https://open.spotify.com/album/71zjHfvYVpew9IVpwXR5ve) | 2:18 | 2021-04-26\* |  |

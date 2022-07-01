@@ -4,7 +4,7 @@
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Dolly Parton and Destructo
 
-116 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/2qjkli2L9nRlyk9PRGesSw)
+116 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/2qjkli2L9nRlyk9PRGesSw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Do Si Do \(feat\. Blanco Brown\)](https://open.spotify.com/track/4vAvloma2hNHnD2M9vLSH0) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Do Si Do](https://open.spotify.com/album/5ztLxyZw32EKfv0Kw5ZLRj) | 2:18 | 2021-12-10 |  |
 | [Do Si Do \(with Bryce Vine & KyleYouMadeThat\)](https://open.spotify.com/track/0ABnHy15aivr6NTO7fvEUp) | [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I), [KyleYouMadeThat](https://open.spotify.com/artist/7qlye19Yivz8Iog1ueVGzw) | [Do Si Do](https://open.spotify.com/album/3mtMpBdey5aCvwcGxZXJ87) | 3:03 | 2021-12-10 |  |
 | [Down For It \(feat\. T.I.\) \- JD Walker Version](https://open.spotify.com/track/1DgBv0OkqlVypiJn7oQNfb) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [JD](https://open.spotify.com/artist/6BJ76jC5b2bwoRVKrJg2qW) | [Right Now](https://open.spotify.com/album/7K26C63gkM1i2JR0FdLPvT) | 3:06 | 2021-12-10 |  |
-| [Drink to That All Night \(Remix\) \(feat\. Pitbull\)](https://open.spotify.com/track/7CwboxAi6CvMcWrDfbxttR) | [Jerrod Niemann](https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Drink to That All Night \(Remix\) \(feat\. Pitbull\)](https://open.spotify.com/album/4YwfobtqcePOPYwcgiH0YA) | 3:28 | 2021-12-10 |  |
+| [Drink to That All Night \(Remix\) \(feat\. Pitbull\)](https://open.spotify.com/track/7CwboxAi6CvMcWrDfbxttR) | [Jerrod Niemann](https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Drink to That All Night \(Remix\) \(feat\. Pitbull\)](https://open.spotify.com/album/4YwfobtqcePOPYwcgiH0YA) | 0:29 | 2021-12-10 |  |
 | [Drunk \(And I Don't Wanna Go Home\) \(feat\. Miranda Lambert\) \- GOLDHOUSE Remix](https://open.spotify.com/track/3waUCQw6FzbImpXAQ282Zm) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY) | [Drunk \(And I Don't Wanna Go Home\) \(feat\. Miranda Lambert\) \[GOLDHOUSE Remix\]](https://open.spotify.com/album/1UjKISyQt7lYXMkTo7dyJg) | 3:37 | 2021-12-10 |  |
 | [Drunk Me \- R3HAB Remix](https://open.spotify.com/track/3kwL8x4afaomYsX3d4cmPL) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Drunk Me \(R3HAB Remix\)](https://open.spotify.com/album/33Fyd6by0ZBwbrvRYv2iSQ) | 2:33 | 2021-12-10 |  |
 | [Every Little Thing \- Ruffian Remix](https://open.spotify.com/track/1uPdgOpPVUSoQLvm26XMTC) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Ruffian](https://open.spotify.com/artist/6UY2DjySuGLS8Rvdi8ArnM) | [Every Little Thing \(Ruffian Remix\)](https://open.spotify.com/album/1IKCSGDR1Mhdk9YP1LzeqT) | 3:07 | 2021-12-10 |  |

@@ -2,9 +2,9 @@
 
 ### [Arena Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWVFZbCNivv6B)
 
-> Hip\-hop mexicano, rimas de la calle, en viva voz de Toser One.
+> Hip\-hop mexicano, rimas de la calle, en viva voz de Dharius.
 
-166 songs - 9 hr 50 min - [published](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
+167 songs - 9 hr 53 min - [published](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Cerda](https://open.spotify.com/track/2rdqyEyZMHYuLgkcMhvaHU) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Cerda](https://open.spotify.com/album/6A5HbXck2L3a4tL9A6w91Z) | 2:30 | 2022-06-06 |  |
 | [Colocados](https://open.spotify.com/track/2PNXAJsaHQQROOGAWv5Y8m) | [Neto Reyno](https://open.spotify.com/artist/7sgnuH8OwU32WbGLZwD03q), [Mc Luka](https://open.spotify.com/artist/2HpeQd3eecBJ1cPR7SLcrP) | [Colocados](https://open.spotify.com/album/4taNe2QMypVpxlTmikrLmz) | 4:35 | 2022-05-06 |  |
 | [Complicado](https://open.spotify.com/track/5LxtXRqA2i3LBWdJiqE91O) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Complicado](https://open.spotify.com/album/5JOuCtRnFr7hM271TWk3YC) | 4:00 | 2022-01-28 |  |
-| [Confundido](https://open.spotify.com/track/27RuS7SkQmWvmrtzVVujIo) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Confundido](https://open.spotify.com/album/4bRYQKtGDLljfLWR7XHMve) | 4:36 | 2022-06-27 |  |
+| [Confundido](https://open.spotify.com/track/27RuS7SkQmWvmrtzVVujIo) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Confundido](https://open.spotify.com/album/4bRYQKtGDLljfLWR7XHMve) | 4:36 | 2022-06-27 | 2022-07-01 |
 | [Conmigo No](https://open.spotify.com/track/3FPP7nkUq0Q0wbsVzv9IeA) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Conmigo No](https://open.spotify.com/album/5S0kbNFGP70HdyQEA7fO0G) | 3:45 | 2022-01-28 | 2022-04-23 |
 | [Contra Corriente](https://open.spotify.com/track/56eurZLGRLoYxkqcU6ECfw) | [Rapsusklei](https://open.spotify.com/artist/451DVjaBuGYfvDfvG9MxaG), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Contra Corriente](https://open.spotify.com/album/1C6yVzlnS2IZOCvU5zLO12) | 3:29 | 2022-02-18 |  |
 | [Cruella](https://open.spotify.com/track/2Q7A5uNAnFjoZMdAFgesyU) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Cruella](https://open.spotify.com/album/6d5YfXScfWlziWGQgu1RRs) | 2:37 | 2022-03-25 |  |
@@ -139,6 +139,7 @@
 | [Sangre De Mi Sangre](https://open.spotify.com/track/5JVrEEGdlpNj82dDrV12PB) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Ruff](https://open.spotify.com/artist/4rF9gN69rubLGEHTFbVbh0) | [Mi Canción](https://open.spotify.com/album/3x4ZBWiVL9qgN7ROqSb3Em) | 3:44 | 2022-01-28 | 2022-03-12 |
 | [Se Fue](https://open.spotify.com/track/2Dldi4E3sf021OxN7tL40L) | [Neto Reyno](https://open.spotify.com/artist/7sgnuH8OwU32WbGLZwD03q) | [Se Fue](https://open.spotify.com/album/5MXmmttCieaObXjTBpUfXt) | 3:09 | 2022-01-28 | 2022-05-07 |
 | [Se Me Olvidó](https://open.spotify.com/track/7xLYLM5K6S1TwiSdfuhZQg) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Se Me Olvidó](https://open.spotify.com/album/395Nz8wkDHb8ebR6mMagdf) | 3:40 | 2022-01-28 | 2022-06-04 |
+| [Seguimos Controlando](https://open.spotify.com/track/13JM0SByzyhK1RmpzvVWxH) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Cuando Todo Acaba](https://open.spotify.com/album/6DBSL2wSLwqvbpBsgSyBKF) | 2:55 | 2022-07-01 |  |
 | [Si Me Ven](https://open.spotify.com/track/78OauUHA9r0rWFGEOMArs7) | [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Si Me Ven](https://open.spotify.com/album/7nxJGvXy3X67D5DITVqFQS) | 3:05 | 2022-01-28 | 2022-04-23 |
 | [Siempre Es Lo Mismo](https://open.spotify.com/track/1nvygjj05E6AK7qR44AP8i) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Canciones Mamalonas 2](https://open.spotify.com/album/5sXSM6uf1gKQa1VzLtKWlO) | 4:06 | 2022-01-28 | 2022-03-05 |
 | [Sigo Esperando Que Vuelvas \(feat\. Los Golpes\)](https://open.spotify.com/track/1rdkLyIU3b9LTX1a6RrP5M) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4), [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [Sigo Esperando Que Vuelvas \(feat\. Los Golpes\)](https://open.spotify.com/album/58a7npneCuVfs5wqIT64TY) | 3:16 | 2022-05-25 |  |

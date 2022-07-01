@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1scnlLVq91NGtsA9sh0hfw.md) - [plain]
 
 > Go behind the scenes of the <a href="http://www.twobytwomusic.com">Two By Two</a> book soundtrack curated by <a href="spotify:user:nicholassparksofficial">Nicholas Sparks</a> and featuring songs from <a href="spotify:artist:410MPX0LjYx4PFgIJsBbPT">JD Eicher</a>\. Then, linger a while with soundtrack selections from your favorite Nicholas Sparks films.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349 likes - 53 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 350 likes - 53 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/1scnlLVq91NGtsA9sh0hfw.md) - [plain]
 | 21 | [Sleep With A Stranger](https://open.spotify.com/track/390WJIpo1Nkgr0XR90FaeK) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [All Or Nothin' \(Deluxe Edition\)](https://open.spotify.com/album/0MtDML13BxeSu5oeI1VCzQ) | 3:35 |
 | 22 | [Oh, Tonight \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/6NreJ5TxBX0TSc0XIobybM) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [She's Like Texas](https://open.spotify.com/album/5qoqg5kafreV6qwCwUVSVl) | 3:25 |
 | 23 | [Desire](https://open.spotify.com/track/2cSReP67LziR3PeYQ8Ehm2) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 3:40 |
-| 24 | [Terrible Love \- Alternate Version](https://open.spotify.com/track/4WnrISPc8D8R9bFzb8jO7k) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [The Choice \(Original Soundtrack Album\)](https://open.spotify.com/album/32RhSvK7ERKo16s4kHWJHQ) | 4:18 |
+| 24 | [Terrible Love \- Alternate Version](https://open.spotify.com/track/4WnrISPc8D8R9bFzb8jO7k) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [The Choice \(Original Soundtrack Album\)](https://open.spotify.com/album/32RhSvK7ERKo16s4kHWJHQ) | 0:29 |
 | 25 | [I Did With You](https://open.spotify.com/track/5QxxDIviHoTJ9qHpaf0wMM) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [The Best Of Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HeQDO9ZFTTGxklzkRRdT2) | 3:16 |
 | 26 | [Love Is A Liar](https://open.spotify.com/track/2NCG3KG69f0yyeT59hZzvw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [The Best Of Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HeQDO9ZFTTGxklzkRRdT2) | 3:15 |
 | 27 | [Sweet Jane](https://open.spotify.com/track/0afIwKfHwq2kF099SpjWi4) | [Cowboy Junkies](https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j) | [The Best Of Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HeQDO9ZFTTGxklzkRRdT2) | 3:35 |

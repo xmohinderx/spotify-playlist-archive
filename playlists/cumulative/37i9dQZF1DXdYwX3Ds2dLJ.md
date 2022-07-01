@@ -4,7 +4,7 @@
 
 > Querencia is here.
 
-62 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/5tPgRj1Mt1ZyOeaWvPHY0Z)
+62 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/5tPgRj1Mt1ZyOeaWvPHY0Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [All Night Long](https://open.spotify.com/track/4CGmwiG8f9QqMYz33fxSzs) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 3:45 | 2021-11-29 |  |
 | [At the end](https://open.spotify.com/track/4wX8BpSzIqqVjnf1X4RohI) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Hotel Del Luna OST Part.6](https://open.spotify.com/album/1U3PIfgY7PqNd7DDeX29P6) | 3:44 | 2021-11-29 |  |
 | [Bad Boy](https://open.spotify.com/track/1I6usdEjxE3AiMmQElFmFz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Offset](https://open.spotify.com/album/4FO6zeenyyhew9sB4ErG9z) | 3:07 | 2021-11-29 |  |
-| [Bad Boy](https://open.spotify.com/track/1WCOna34eEMPgjfOOZkGQc) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Bad Boy](https://open.spotify.com/album/4IRuxkSbw7iZZmnr6Rly2Q) | 3:02 | 2021-11-29 |  |
+| [Bad Boy](https://open.spotify.com/track/1WCOna34eEMPgjfOOZkGQc) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Bad Boy](https://open.spotify.com/album/4IRuxkSbw7iZZmnr6Rly2Q) | 0:29 | 2021-11-29 |  |
 | [BAD GIRL \(Prod\. Czaer\)](https://open.spotify.com/track/4yCQYX8eKL1XYJmGglSV1A) | [LACHICA](https://open.spotify.com/artist/0vqjEQRfmE1Sov92UQRJMp), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Street Woman Fighter\(SWF\) Special](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) | 3:14 | 2021-11-29 |  |
 | [BB](https://open.spotify.com/track/3BTNnAzljnaWTyYxxsX7YR) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Blooming Blue](https://open.spotify.com/album/0eATYdmnbZkslIYNCyTjhL) | 1:17 | 2021-11-29 |  |
 | [Be Yourself](https://open.spotify.com/track/509VlYwebt36Tn80X5y4vC) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Be Yourself](https://open.spotify.com/album/5JGB7sxVshd2D4WSSFTEXt) | 3:25 | 2021-11-29 |  |
@@ -37,7 +37,7 @@
 | [From Now On](https://open.spotify.com/track/2mBSRrNtebhFsOeH2uXMKc) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Blooming Blue](https://open.spotify.com/album/0eATYdmnbZkslIYNCyTjhL) | 3:29 | 2021-11-29 |  |
 | [Gotta Go](https://open.spotify.com/track/0xq4ZTcmwBfkPGo4RRKmMe) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Gotta Go](https://open.spotify.com/album/7BYCvUqCaeIo2jgOl9iAGr) | 3:41 | 2021-11-29 |  |
 | [Hands on Me](https://open.spotify.com/track/1VXcP1JOGLcTeZa5nIZBIu) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Hands on Me](https://open.spotify.com/album/6RK3Y2SOZef8WWvopYB6Dn) | 1:08 | 2021-11-29 |  |
-| [How about you](https://open.spotify.com/track/31vk0g0BrHazdDVN3IP76u) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Luvpub OST Part.3](https://open.spotify.com/album/0OsxPl82DJAyCJDKHzgTx7) | 3:19 | 2021-11-29 |  |
+| [How about you](https://open.spotify.com/track/31vk0g0BrHazdDVN3IP76u) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Luvpub OST Part.3](https://open.spotify.com/album/0OsxPl82DJAyCJDKHzgTx7) | 0:29 | 2021-11-29 |  |
 | [It’s You](https://open.spotify.com/track/1Du9g7ILOs5tgoEAPTxJM1) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Where Stars Land Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/0SOZrGopETCWW79NECLmqJ) | 3:22 | 2021-11-29 |  |
 | [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 | 2021-11-29 |  |
 | [LALALA](https://open.spotify.com/track/6ELQowPew55VfAKxlk7SJN) | [Babylon](https://open.spotify.com/artist/3QnTGKc4YZ7KcGDpoagMBD), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [LA VIDA LOCA](https://open.spotify.com/album/6fdrYnxEO9t6gTNoigMA2L) | 3:34 | 2021-11-29 |  |
@@ -62,7 +62,7 @@
 | [Someday](https://open.spotify.com/track/2Hd9y1sae4yhYBVvqYOIqx) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [One the Woman \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/57PE5m7bKkHg2pXQThizAj) | 3:22 | 2021-11-29 |  |
 | [Stay Tonight](https://open.spotify.com/track/3As0OA5B06BxLfADvYyG8L) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Stay Tonight](https://open.spotify.com/album/41rtmYpSvv0s6p4TJwTzrR) | 3:37 | 2021-11-29 |  |
 | [These Nights](https://open.spotify.com/track/2n0oy8RGDpy6WGcLImTteI) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [These Nights](https://open.spotify.com/album/2ZHGnhsomLmLezueESi9ou) | 3:43 | 2021-11-29 |  |
-| [Week](https://open.spotify.com/track/1pWriQ6nQV0KyPxF9omuKk) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Week](https://open.spotify.com/album/7e6K1ouB0KpwCfCbkUBvdR) | 3:22 | 2021-11-29 |  |
+| [Week](https://open.spotify.com/track/1pWriQ6nQV0KyPxF9omuKk) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Week](https://open.spotify.com/album/7e6K1ouB0KpwCfCbkUBvdR) | 0:29 | 2021-11-29 |  |
 | [week](https://open.spotify.com/track/238kglYyz9oWU5f436NPB9) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Hands on Me](https://open.spotify.com/album/6RK3Y2SOZef8WWvopYB6Dn) | 3:22 | 2021-11-29 |  |
 | [Whatcha Doin'](https://open.spotify.com/track/1kfEJ0w6qRZR9dIOWJGe0J) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Whatcha Doin'](https://open.spotify.com/album/5ZqrNpvlfW0qeZ6bDCjmaU) | 3:29 | 2021-11-29 |  |
 | [Why Don’t You Know](https://open.spotify.com/track/7BiaLnXa10sBpBEcFfm4PP) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [Hands on Me](https://open.spotify.com/album/6RK3Y2SOZef8WWvopYB6Dn) | 3:18 | 2021-11-29 |  |

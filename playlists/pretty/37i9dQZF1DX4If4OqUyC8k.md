@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4If4OqUyC8k.md) - [plain]
 
 > Get in touch with nature with these songs about our environment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 617 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 618 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4If4OqUyC8k.md) - [plain]
 | 13 | [Big Beautiful Planet](https://open.spotify.com/track/4dnkdfuWjmEOasfEarZsHc) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Evergreen, Everblue](https://open.spotify.com/album/1CUqfnHkJRc3VNP1jGbgAF) | 3:22 |
 | 14 | [Carnivores And Herbivores](https://open.spotify.com/track/5vQc0vGyK5Yr5OA5fksxD8) | [Dora The Explorer](https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt) | [Dora Rocks! Music From The Special & More!](https://open.spotify.com/album/5LQ9gKK7KfAZlvTZN5eFYE) | 2:12 |
 | 15 | [Oh, What a World 2.0 \- Earth Day Edition](https://open.spotify.com/track/2vTnFQO21943vBiaLhv4X5) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Oh, What a World 2.0 \(Earth Day Edition\)](https://open.spotify.com/album/7HH4W9FudfYQlGllznVsdq) | 3:39 |
-| 16 | [Pick It Up](https://open.spotify.com/track/6lY2AdInMhdWlio2rS8yph) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw) | [Family Tree](https://open.spotify.com/album/2ipWREGW50eHJTjXVVWiCj) | 2:50 |
+| 16 | [Pick It Up](https://open.spotify.com/track/6lY2AdInMhdWlio2rS8yph) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw) | [Family Tree](https://open.spotify.com/album/2ipWREGW50eHJTjXVVWiCj) | 0:29 |
 | 17 | [R.E.C.Y.C.L.E\. \(Do It Right\)](https://open.spotify.com/track/0O3qbIK90CIBAV3Vsme58y) | [The Future Brigade](https://open.spotify.com/artist/49iKOaoc47iFNhWp6i5l4A) | [R.E.C.Y.C.L.E\. \(Do It Right\)](https://open.spotify.com/album/6GUN6oAsdU3dDZnCEKziK4) | 1:27 |
 | 18 | [This Is the Savanna](https://open.spotify.com/track/6N1sYOiZBbRVpSWOd3bbLp) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Animal Songs 2](https://open.spotify.com/album/5L9VHpr6V2kXzN3mI4eqZe) | 1:18 |
 | 19 | [Windy and the Windmills](https://open.spotify.com/track/0n4FBCGuWBliyR6qetZmRn) | [Jack Sheldon](https://open.spotify.com/artist/0AP9ck0QA9iqnCWJ16G7qj), [Bob Dorough](https://open.spotify.com/artist/5vg8Gj3XHSpj4ELEh7nZAH), [Val Hawk](https://open.spotify.com/artist/28N6wTL1paVOULEStVkJUN), [Vicki Doney](https://open.spotify.com/artist/6WkAXr7Cg3BRK9X8c2fjWd), [Nancy Reed](https://open.spotify.com/artist/1N20S4FfWNJFEIhueWeAAs) | [Schoolhouse Rock! Earth](https://open.spotify.com/album/6uiUMyYLl2w5RUQJEHlPno) | 3:01 |

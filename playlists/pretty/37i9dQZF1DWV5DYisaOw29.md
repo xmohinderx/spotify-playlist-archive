@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5DYisaOw29.md) - [plain]
 
 > DJ Minx co\-curates a list of the very best songs from LGBTQQIA+ artists and allies Motor City has to offer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,050 likes - 36 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,050 likes - 36 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,14 +35,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5DYisaOw29.md) - [plain]
 | 25 | [Tears](https://open.spotify.com/track/2zbQbQe1EBEu5j1bkDhuwg) | [Aaron Carl](https://open.spotify.com/artist/7fHzaEzwDv2zfpVqrkama2) | [Detrevolution](https://open.spotify.com/album/6Z3hO5ommQLzYZQaLNke0u) | 4:20 |
 | 26 | [Playing for Keeps](https://open.spotify.com/track/1obG4GJhU5knvTUYzK9eYC) | [Reginald Hawkins](https://open.spotify.com/artist/4cmMd17FBvPtgh7xRkhEAB) | [Playing for Keeps](https://open.spotify.com/album/5FexEqAhnP7J7jOzfEm196) | 3:50 |
 | 27 | [Monday Madness](https://open.spotify.com/track/2yj1doDjRqnLEjVfWLtMXt) | [Gayelynn McKinney](https://open.spotify.com/artist/6glmHvIoAQIouB9dTXSyeS) | [It's About Time](https://open.spotify.com/album/7uTnjpnd9cmexbwa6iw4NJ) | 3:20 |
-| 28 | [The Attic](https://open.spotify.com/track/1Kecp9T2NZfkVEyLE5PW3D) | [Alex Wilcox](https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu) | [Because the Sky Is Blue](https://open.spotify.com/album/4O4Vws2zUcnrmNVKLENVnp) | 4:14 |
-| 29 | [WhoRU \- Mixed](https://open.spotify.com/track/5o7cILDzpjszzXa2UmdmHY) | [LADYMONIX](https://open.spotify.com/artist/2L20FlBvHKIMNeMFhtrwjO) | [Detroit Love Vol\. 3 \- Mixed by Waajeed](https://open.spotify.com/album/2QBGXNoeavFATtvSDVTmxu) | 3:43 |
+| 28 | [The Attic](https://open.spotify.com/track/1Kecp9T2NZfkVEyLE5PW3D) | [Alex Wilcox](https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu) | [Because the Sky Is Blue](https://open.spotify.com/album/4O4Vws2zUcnrmNVKLENVnp) | 0:29 |
+| 29 | [WhoRU \- Mixed](https://open.spotify.com/track/5o7cILDzpjszzXa2UmdmHY) | [LADYMONIX](https://open.spotify.com/artist/2L20FlBvHKIMNeMFhtrwjO) | [Detroit Love Vol\. 3 \- Mixed by Waajeed](https://open.spotify.com/album/2QBGXNoeavFATtvSDVTmxu) | 0:29 |
 | 30 | [Hateful](https://open.spotify.com/track/2qq9tbm41uYrf43cSQnIkQ) | [Aaron Carl](https://open.spotify.com/artist/7fHzaEzwDv2zfpVqrkama2) | [Detrevolution](https://open.spotify.com/album/6Z3hO5ommQLzYZQaLNke0u) | 5:05 |
 | 31 | [Do It All Night \- C2 Edit](https://open.spotify.com/track/7kKgTIzKvgg6Yk7PrLejkw) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B), [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [Do It All Night \(C2 Edit\)](https://open.spotify.com/album/1T5UWJ4jxfotonVwSeJiUF) | 7:47 |
 | 32 | [A Message For The DJ](https://open.spotify.com/track/39cgFLYRr8JTOoB6rITZNl) | [Delano Smith \- Feat\. Diamondancer](https://open.spotify.com/artist/6kt9c3Zkgt0xe7QKtFpE1B) | [A Message For The DJ](https://open.spotify.com/album/79oowKJpRd5OlNhVPkuuV7) | 7:23 |
 | 33 | [A Walk In The Park \(Stay\)](https://open.spotify.com/track/6xYb2zqXFbcDfy9TMxfRO8) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B) | [Violet Groove E.P.](https://open.spotify.com/album/7yO99oqltTRlNvJOiE9tmF) | 6:39 |
 | 34 | [Change \- Mike Huckaby Remix](https://open.spotify.com/track/2U4YIbj1pXgVH2Rlg5zKyZ) | [Norm Talley](https://open.spotify.com/artist/5J1fwxvTRxviCqCPwd4Lv5), [Mike Huckaby](https://open.spotify.com/artist/7oGwEiATTm4u71R2lQhbC4) | [Detroit Beatdown Remixes 1: 1](https://open.spotify.com/album/0YRgHIIdg3vXqptEx7j0GD) | 6:55 |
 | 35 | [Namesake](https://open.spotify.com/track/5YrkOgkJsk2c7kOZuhGmpm) | [Tunde Olaniran](https://open.spotify.com/artist/3qwKzITLJVVAo2Fn8TusjE) | [Transgressor](https://open.spotify.com/album/57uo4jwBc428S0JiQru6LQ) | 4:35 |
-| 36 | [Ay](https://open.spotify.com/track/39NNj1NpNbyWprxgszBDyu) | [Alex Wilcox](https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu) | [Because the Sky Is Blue](https://open.spotify.com/album/4O4Vws2zUcnrmNVKLENVnp) | 2:45 |
+| 36 | [Ay](https://open.spotify.com/track/39NNj1NpNbyWprxgszBDyu) | [Alex Wilcox](https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu) | [Because the Sky Is Blue](https://open.spotify.com/album/4O4Vws2zUcnrmNVKLENVnp) | 0:29 |
 
 Snapshot ID: `MTYyMjUyNzIwMCwwMDAwMDAwMjAwMDAwMTc5YzYyODRiOTIwMDAwMDE3OTlmN2E2ODk4`

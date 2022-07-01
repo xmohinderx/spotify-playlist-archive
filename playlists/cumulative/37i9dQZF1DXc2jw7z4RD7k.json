@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Ina & Jeffrey & apple pies (plural) for dinner",
+  "description": "It's giving coastal grandmother, it's giving Diane Keaton, it's giving apple pies.",
   "name": "Grandma's Home",
   "published_playlist_ids": [
     "6nR9fObgGSerkhsDfjVzFd"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 284266,
       "name": "Begin the Beguine (Volver a Empezar)",
       "url": "https://open.spotify.com/track/3vSGGtjD7JLA9Q6I36sGve"
@@ -207,6 +207,24 @@
       "duration_ms": 177533,
       "name": "Build Me Up Buttercup - Mono",
       "url": "https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC"
+    },
+    {
+      "album": {
+        "name": "Elvis (Fool)",
+        "url": "https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170293,
+      "name": "Burning Love",
+      "url": "https://open.spotify.com/track/7zMUCLm1TN9o9JlLISztxO"
     },
     {
       "album": {
@@ -550,7 +568,7 @@
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 162560,
+      "duration_ms": 29048,
       "name": "Hey Lover!",
       "url": "https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd"
     },
@@ -622,7 +640,7 @@
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 160280,
+      "duration_ms": 29048,
       "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
       "url": "https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3"
     },

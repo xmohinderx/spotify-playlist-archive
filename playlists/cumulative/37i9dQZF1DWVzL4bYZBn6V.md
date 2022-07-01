@@ -4,7 +4,7 @@
 
 > 50 canciones que llenan tu rutina de pura energía.
 
-50 songs - 2 hr 36 min - [published](https://open.spotify.com/playlist/41QyXALy8jMYAlVYh7UXYG)
+50 songs - 2 hr 28 min - [published](https://open.spotify.com/playlist/41QyXALy8jMYAlVYh7UXYG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Children](https://open.spotify.com/track/6KXxcGWj6KB5GlW1c2dhY5) | [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB) | [Children](https://open.spotify.com/album/2alDtRinlIXBcb5bf5DHmn) | 3:58 | 2021-04-23 |  |
 | [Como Es Posible Que a Mi Lado](https://open.spotify.com/track/4n3z3N2m6zfCJzrAc3ABPi) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Aynes](https://open.spotify.com/artist/0WByZEwRntV98feeVnccWG) | [Como Es Posible Que a Mi Lado](https://open.spotify.com/album/73Q842SM0mDLFtiuryhfRP) | 3:08 | 2021-04-23 |  |
 | [Creep \- mint Singles](https://open.spotify.com/track/5LRxdeykOfvKb1aWGrrGyo) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep \(mint Singles\)](https://open.spotify.com/album/31LEjqDdP0TyZgiuse84cf) | 2:41 | 2021-04-23 |  |
-| [Dance and Chant](https://open.spotify.com/track/1ZhpOYEE0nGcn0k7Ai7DK1) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F) | [Dance and Chant](https://open.spotify.com/album/1kyWzwoj5zkIK71DCoHXIq) | 3:09 | 2021-04-23 |  |
+| [Dance and Chant](https://open.spotify.com/track/1ZhpOYEE0nGcn0k7Ai7DK1) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F) | [Dance and Chant](https://open.spotify.com/album/1kyWzwoj5zkIK71DCoHXIq) | 0:29 | 2021-04-23 |  |
 | [Dawn](https://open.spotify.com/track/4hpDoKsVsjCTC5pbTgyUyG) | [Joy Corporation](https://open.spotify.com/artist/22DpF66KIdKHmy1IvzEZXc), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx) | [Dawn](https://open.spotify.com/album/6al3sqwfmUAOSSucHsyy1U) | 3:32 | 2021-04-23 |  |
 | [Day N' Night](https://open.spotify.com/track/66LNyfDQyuCVgczVJEdbRl) | [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166) | [Day N' Night](https://open.spotify.com/album/5z2Gcbr6lv7UPmGmB2mcl3) | 2:41 | 2021-04-23 |  |
 | [Discoteka](https://open.spotify.com/track/5tCUZYk547DFd01YKdZ36x) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Discoteka](https://open.spotify.com/album/0xBL5r92lV5SZDU8FvrZ1u) | 2:49 | 2021-04-23 |  |
@@ -37,8 +37,8 @@
 | [Memories](https://open.spotify.com/track/56cy1gTx6GpTjKBIFGdfe9) | [Luis JR](https://open.spotify.com/artist/0z9vGUlGF7lS5px3Y77Mjj), [D'ALEX](https://open.spotify.com/artist/0FE798xrpeoQtmsv8TjvM4) | [Memories](https://open.spotify.com/album/0IZU361PqM4rU93o9LNoBR) | 3:36 | 2021-04-23 |  |
 | [Nada](https://open.spotify.com/track/1mlm9a4lCSLazplVoS15Fn) | [Madhouse](https://open.spotify.com/artist/74YcnRxZTY5Nu1RIqS8ovS), [Angel Vergara](https://open.spotify.com/artist/5MPkxfxPIhOca5QfYPfP2x) | [Nada](https://open.spotify.com/album/5NTJKD9sSSUkWDBfTjp7E1) | 3:21 | 2021-04-23 |  |
 | [Nave Espacial \- Radio Edit](https://open.spotify.com/track/709F4UQ2uKplKvcD88xffa) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Nave Espacial](https://open.spotify.com/album/0BfPu5BTYxU4b81nh5TFLL) | 3:05 | 2021-04-23 |  |
-| [One A Day](https://open.spotify.com/track/09VGT0e2aYkoCVNRjOPKZa) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [One A Day](https://open.spotify.com/album/7a3CD5WnyDxWxpCaBQHYHx) | 3:12 | 2021-04-23 |  |
-| [OOF \(Out of Office Forever\)](https://open.spotify.com/track/4tKiLOHkzrY43buY7hd7ic) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx), [MOSKA](https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH) | [OOF \(Out of Office Forever\)](https://open.spotify.com/album/1k4sLAsm3CuGtAKeAtrzMt) | 2:53 | 2021-04-23 |  |
+| [One A Day](https://open.spotify.com/track/09VGT0e2aYkoCVNRjOPKZa) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [One A Day](https://open.spotify.com/album/7a3CD5WnyDxWxpCaBQHYHx) | 0:29 | 2021-04-23 |  |
+| [OOF \(Out of Office Forever\)](https://open.spotify.com/track/4tKiLOHkzrY43buY7hd7ic) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx), [MOSKA](https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH) | [OOF \(Out of Office Forever\)](https://open.spotify.com/album/1k4sLAsm3CuGtAKeAtrzMt) | 0:29 | 2021-04-23 |  |
 | [Pink](https://open.spotify.com/track/397D6hKNBOuxkFHMY5a9z6) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29) | [Pink](https://open.spotify.com/album/1IoexiSs2Ue7tG9ef9sdeR) | 2:40 | 2021-04-23 |  |
 | [Playa Grande](https://open.spotify.com/track/6IsMnhtDLKG0h4H8pmQVRw) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Playa Grande](https://open.spotify.com/album/0P90stLNlBJtamGSsokK4g) | 3:21 | 2021-04-23 |  |
 | [Pump up the Volume](https://open.spotify.com/track/1D5Kc0zv5rbbDwKbu0YTDd) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Juarez](https://open.spotify.com/artist/0Infrp3tv1N9fmtOhctOfN) | [Pump up the Volume](https://open.spotify.com/album/6lKCdY9YNuLLMNN7FqMHm8) | 3:28 | 2021-04-23 |  |

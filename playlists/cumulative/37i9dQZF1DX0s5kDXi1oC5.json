@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/1UzwTsVuxxqGO6gyRmSpa5"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/4t1ObmSMAoKZqxv752yg4o"
+    },
+    {
+      "album": {
         "name": "Night & Day (Night Edition)",
         "url": "https://open.spotify.com/album/69Pj3ce9XFZUi3XuQylLKf"
       },
@@ -617,7 +635,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 225053,
       "name": "Like I'm Gonna Lose You (feat. John Legend)",
       "url": "https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW"
@@ -657,7 +675,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 233478,
       "name": "Locked out of Heaven",
       "url": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
@@ -676,7 +694,7 @@
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 252538,
+      "duration_ms": 29048,
       "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
       "url": "https://open.spotify.com/track/7y2YUIyCuVhBidENVT0068"
     },
@@ -769,7 +787,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 163870,
       "name": "Meant to Be (feat. Florida Georgia Line)",
       "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
@@ -1725,32 +1743,10 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 199580,
       "name": "Ugly Heart",
       "url": "https://open.spotify.com/track/1Vv0MPcooEoQzVZYfKMgKW"
-    },
-    {
-      "album": {
-        "name": "Now That's What I Call a Song",
-        "url": "https://open.spotify.com/album/1UzwTsVuxxqGO6gyRmSpa5"
-      },
-      "artists": [
-        {
-          "name": "Olly Murs",
-          "url": "https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW"
-        },
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "date_added": "2021-12-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 224346,
-      "name": "Up",
-      "url": "https://open.spotify.com/track/4t1ObmSMAoKZqxv752yg4o"
     },
     {
       "album": {

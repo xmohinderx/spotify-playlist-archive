@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8U8pFd8VSmd.md) - [plain]
 
 > Fire up the grill and enjoy this playlist with the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,629 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,637 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Shake It Off](https://open.spotify.com/track/1CiVz2WkmZRwhU3A6J2Gjz) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Big Machine Radio Release Special\)](https://open.spotify.com/album/6EsTJnpahwW6xX20zvqQgZ) | 3:39 |
+| 1 | [Shake It Off](https://open.spotify.com/track/1CiVz2WkmZRwhU3A6J2Gjz) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Big Machine Radio Release Special\)](https://open.spotify.com/album/6EsTJnpahwW6xX20zvqQgZ) | 0:29 |
 | 2 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/5b88tNINg4Q4nrRbrCXUmg) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/2lkQd5T32QHDOfFkEIPJKz) | 3:52 |
 | 3 | [Summertime](https://open.spotify.com/track/6Nmc8lZk4YdfeZcqzFXsWR) | [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY), [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8) | [Kids Trap 11](https://open.spotify.com/album/2OWJzZ4siTAzILYrL966lT) | 2:33 |
 | 4 | [Mr\. Sun](https://open.spotify.com/track/6HTrPuRkxje8ty0C10B6iZ) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5), [Ken Whiteley](https://open.spotify.com/artist/4Nk8lxPEVfK4GbmtN4jW4j) | [Singable Songs for the Very Young \(feat\. Ken Whiteley\)](https://open.spotify.com/album/2CHwUtcAmryacN8KVedQ4U) | 1:16 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8U8pFd8VSmd.md) - [plain]
 | 31 | [Peaches](https://open.spotify.com/track/3VEFybccRTeWSZRkJxDuNR) | [The Presidents Of The United States Of America](https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM) | [The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition](https://open.spotify.com/album/5xxeAo8AVneH1OKO5vR604) | 2:51 |
 | 32 | [Hot Sauce](https://open.spotify.com/track/1FSj3PsTEYUGtHRgk7p3QJ) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Hot Sauce](https://open.spotify.com/album/6UkP9AaaffmY2lQikAjLts) | 2:19 |
 | 33 | [Spice Up Your Life](https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 2:53 |
-| 34 | [Try Everything](https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3X6netsswLt0U97Doga56C) | 3:16 |
+| 34 | [Try Everything](https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3X6netsswLt0U97Doga56C) | 0:29 |
 | 35 | [Celebration](https://open.spotify.com/track/5QVX213rGhKaNwJPVJnHw4) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Wreck\-It Ralph](https://open.spotify.com/album/0aqJGQ73RTLu3yLgcdU9JC) | 3:40 |
 | 36 | [Party In The USA](https://open.spotify.com/track/3OtUDYBkxryDrOoNfScc1D) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Dance Party!](https://open.spotify.com/album/525dVWGpqdJBWBtEFzZVDU) | 3:23 |
 | 37 | [Jump in the Line](https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [Jump Up Calypso](https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI) | 3:41 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8U8pFd8VSmd.md) - [plain]
 | 41 | [Rare](https://open.spotify.com/track/7HMmFQsKsljwTw8bS7lu19) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:40 |
 | 42 | [Pocketful of Sunshine](https://open.spotify.com/track/4hjuUelurEBKlqpJPJ77Iw) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Strip Me Away](https://open.spotify.com/album/60bpkeOTwBKKirRSEuGuov) | 3:23 |
 | 43 | [Ice Cream Man](https://open.spotify.com/track/3nFmJyWPkhZuweqj1WkTCm) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Magic Whip](https://open.spotify.com/album/0nSzBICzQHea8grwfqa5Gb) | 3:25 |
-| 44 | [Hot Dog!](https://open.spotify.com/track/3vjOGPGu3tgYi3oBkQ2Gjz) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Mickey Mouse Clubhouse](https://open.spotify.com/album/2xqbyzv6NncmREgqNFP5Ee) | 2:28 |
+| 44 | [Hot Dog!](https://open.spotify.com/track/3vjOGPGu3tgYi3oBkQ2Gjz) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Mickey Mouse Clubhouse](https://open.spotify.com/album/2xqbyzv6NncmREgqNFP5Ee) | 0:29 |
 | 45 | [Ice Cream Man](https://open.spotify.com/track/2hOId5iamZtddQ0n0hMKqA) | [Jonathan Richman & The Modern Lovers](https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy) | [Rock 'n' Roll With the Modern Lovers \(Bonus Track Edition\)](https://open.spotify.com/album/1GS9e5DqsnGJ8qYlr4eYxm) | 3:02 |
 | 46 | [Salad](https://open.spotify.com/track/20RO9qidpVyLDrb0BsCZmR) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Fast Casual](https://open.spotify.com/album/0nsdGogR0v9D4bHUgfedBL) | 2:11 |
 | 47 | [Hamburger Hop](https://open.spotify.com/track/53EQnnXDT93ihU42j3nvDK) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Goodbye Blue & White](https://open.spotify.com/album/1BVpBA9UZbnROj16dt7OEd) | 0:50 |

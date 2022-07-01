@@ -4,12 +4,12 @@
 
 > A quality alternative blend\. Cover: Young the Giant
 
-354 songs - 21 hr 42 min - [published](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
+354 songs - 21 hr 37 min - [published](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Dangerous Thing](https://open.spotify.com/track/2e1MoMhNhxdU0jXYhjF0ld) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/04JQlhYtZwd9t2HTsxDKfr) | 3:35 | 2022-01-28 | 2022-02-26 |
-| [A Little Bit of Love](https://open.spotify.com/track/0JW1mKemtn6krfNC2rXhec) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [SZNZ: Spring](https://open.spotify.com/album/5dpaxVXET01VAgivwwUac6) | 2:44 | 2022-03-25 |  |
+| [A Little Bit of Love](https://open.spotify.com/track/0JW1mKemtn6krfNC2rXhec) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [SZNZ: Spring](https://open.spotify.com/album/5dpaxVXET01VAgivwwUac6) | 0:29 | 2022-03-25 |  |
 | [A Sleep in the Garden](https://open.spotify.com/track/0pz1mBpvTtblb4xV7dwa3h) | [Maia Friedman](https://open.spotify.com/artist/3SAdHKW3ICNgtyFgaWdC6c) | [Under the New Light](https://open.spotify.com/album/1xkpmshOmxXWdDssCCmfg5) | 4:27 | 2022-03-11 | 2022-04-16 |
 | [A Wave Across A Bay](https://open.spotify.com/track/1p9yDrQeXYbE3f6bW2YBAI) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [A Wave Across A Bay](https://open.spotify.com/album/7cBsGWCsDuu0KC38K3uBFF) | 3:43 | 2022-01-14 | 2022-03-05 |
 | [Ain’t Killed Me Yet](https://open.spotify.com/track/06SriLLbBIQos2LyqeNXw3) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Ain’t Killed Me Yet](https://open.spotify.com/album/5bSiMgDd7UjgJClHgAF6Qu) | 3:01 | 2022-04-01 |  |
@@ -267,7 +267,7 @@
 | [Sidelines \(feat\. Blake Mills\)](https://open.spotify.com/track/2ynhNfkbOlwfTYiaKDgzrq) | [Bruce Hornsby](https://open.spotify.com/artist/2iM28IgKg89v1o7BTQAVPo), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6), [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Sidelines \(feat\. Blake Mills\)](https://open.spotify.com/album/12Ub6tXqimNCzswd9jY98I) | 3:32 | 2022-03-25 |  |
 | [Simulation Swarm](https://open.spotify.com/track/0kVBi81VO9ewtpOlSvRLOV) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Simulation Swarm](https://open.spotify.com/album/7sI35CBhFIbUwNYeiKxcO2) | 4:12 | 2022-02-04 |  |
 | [Slide Tackle](https://open.spotify.com/track/5ksM8r8u4AjMwvtqUif9W1) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:39 | 2022-02-04 |  |
-| [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 | 2022-02-04 |  |
+| [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 0:29 | 2022-02-04 |  |
 | [Sold Me a Dream \- Terry Tracksuit Edit](https://open.spotify.com/track/05n521uk7tzOpvuQZMtQag) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu), [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG), [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Sold Me a Dream \(Terry Tracksuit Edit\)](https://open.spotify.com/album/2O4jdVnB7QgVETMA17wQ46) | 2:50 | 2022-04-15 | 2022-06-25 |
 | [Solid Jackson \- Companion Version](https://open.spotify.com/track/6vU6t4UalCVMCzUJKrX3m8) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [A Collection of Songs Written and Recorded 1995\-1997: A Companion](https://open.spotify.com/album/6vpOt6bD3HmL9bOXdlnCbG) | 4:00 | 2022-05-27 | 2022-06-25 |
 | [Somebody Desperate \- From ''Cyrano'' Soundtrack](https://open.spotify.com/track/7HYgIW2TK4hPfcC6XaqF2W) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Somebody Desperate \(From ''Cyrano'' Soundtrack\)](https://open.spotify.com/album/1h6dh2TaMHS9uB9uYxJJCv) | 3:55 | 2021-12-10 | 2022-02-05 |

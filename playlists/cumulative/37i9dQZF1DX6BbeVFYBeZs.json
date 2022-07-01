@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "The Acoustic Mind Vol.5",
+        "url": "https://open.spotify.com/album/6o7WSuz1KmcL6PtxrvgSqd"
+      },
+      "artists": [
+        {
+          "name": "Aur\u00e9lien Trigo",
+          "url": "https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126875,
+      "name": "Across",
+      "url": "https://open.spotify.com/track/01xJAa5YF3Ffnw7VHXvTWf"
+    },
+    {
+      "album": {
         "name": "Tres mazurcas",
         "url": "https://open.spotify.com/album/0gE3MUJGWkrAcnZtiQhzSD"
       },
@@ -171,6 +189,24 @@
       "duration_ms": 115170,
       "name": "Beijinho",
       "url": "https://open.spotify.com/track/73oqmFRZ5F6PtvkuMZ8cUY"
+    },
+    {
+      "album": {
+        "name": "Bella Flamenco",
+        "url": "https://open.spotify.com/album/26ez5kDERfAsobaXUgxXly"
+      },
+      "artists": [
+        {
+          "name": "Nova Jazzers",
+          "url": "https://open.spotify.com/artist/1Te8AXTImtNqHaOEpBFuOf"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119786,
+      "name": "Bella Flamenco",
+      "url": "https://open.spotify.com/track/3yBw9pDOcsuEhcY2UBIqoM"
     },
     {
       "album": {
@@ -478,7 +514,7 @@
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 233522,
+      "duration_ms": 29048,
       "name": "Don't Belong Anywhere",
       "url": "https://open.spotify.com/track/6ehsAZzWS6dADcl5bQ5Hyb"
     },
@@ -698,7 +734,7 @@
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 177908,
+      "duration_ms": 29048,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/1ECJllDwvRqd9zqR5a1kgZ"
     },
@@ -770,7 +806,7 @@
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 74581,
+      "duration_ms": 29048,
       "name": "I will be back",
       "url": "https://open.spotify.com/track/5UuYbBrZRwP5vlkTztARVN"
     },
@@ -896,9 +932,27 @@
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 133000,
+      "duration_ms": 29048,
       "name": "Las Lagrimas De Lucia",
       "url": "https://open.spotify.com/track/7znYxzLpVk7LN3fMkGLB3g"
+    },
+    {
+      "album": {
+        "name": "Let Me Tell You A Story",
+        "url": "https://open.spotify.com/album/6DdLoowgo8TEZ8glcdY23X"
+      },
+      "artists": [
+        {
+          "name": "Robert Lowe",
+          "url": "https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257126,
+      "name": "Let Me Tell You A Story",
+      "url": "https://open.spotify.com/track/1QB8MPwjcXk3CEshFh3uYP"
     },
     {
       "album": {
@@ -1117,6 +1171,24 @@
       "duration_ms": 208208,
       "name": "Outonecendo",
       "url": "https://open.spotify.com/track/5mzYXTWLRX5o6JUkhFe4PS"
+    },
+    {
+      "album": {
+        "name": "Para Alan Kurdi",
+        "url": "https://open.spotify.com/album/69Ot2vGXY3E5yfJjT5CTQo"
+      },
+      "artists": [
+        {
+          "name": "El Retiro",
+          "url": "https://open.spotify.com/artist/4cOlybzY6JERcCmnmtcSUD"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176420,
+      "name": "Para Alan Kurdi",
+      "url": "https://open.spotify.com/track/0zZiVJy8p5ZSkaAWso7YUc"
     },
     {
       "album": {
@@ -1554,7 +1626,7 @@
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 102738,
+      "duration_ms": 29048,
       "name": "Sombra",
       "url": "https://open.spotify.com/track/7vpF6W64XotHKOESMN7eKp"
     },
@@ -1575,6 +1647,24 @@
       "duration_ms": 117000,
       "name": "So\u00f1ando",
       "url": "https://open.spotify.com/track/70BMqswqh9Kjz6Sr6lQ47W"
+    },
+    {
+      "album": {
+        "name": "Speak Once More",
+        "url": "https://open.spotify.com/album/4n0apJdJD2i8Z2xajNujPb"
+      },
+      "artists": [
+        {
+          "name": "Katharina Becquer",
+          "url": "https://open.spotify.com/artist/5BT146Y5PHI3f8l5ocNQCC"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111229,
+      "name": "Speak Once More",
+      "url": "https://open.spotify.com/track/2HUIWdVfSsoLeC20cgX7YB"
     },
     {
       "album": {
@@ -1904,7 +1994,7 @@
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 211063,
+      "duration_ms": 29048,
       "name": "Vitoya",
       "url": "https://open.spotify.com/track/1xenzCpJ2WBBZJWvMHzEmk"
     },

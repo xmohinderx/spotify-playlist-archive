@@ -4,7 +4,7 @@
 
 > Riscopri le più grandi hit del 2007! Cover: Amy Winehouse
 
-106 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/2Q0PAtOZZSmBsw4VZifFZC)
+106 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/2Q0PAtOZZSmBsw4VZifFZC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Starz In Their Eyes](https://open.spotify.com/track/0Kt0khTz1EzjtaQI8A339S) | [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO) | [Overtones](https://open.spotify.com/album/5xuBzLRy7gHv6ipNCTMLnE) | 4:55 | 2020-11-04 |  |
 | [Stop Me \(feat\. Daniel Merriweather\)](https://open.spotify.com/track/1JwIBogbuZ4Yfb6nssXWa2) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Daniel Merriweather](https://open.spotify.com/artist/6HD2mo0Gz8wd8IbOXYwUfN) | [Version](https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR) | 3:52 | 2020-11-04 |  |
 | [Stronger](https://open.spotify.com/track/4fzsfWzRhPawzqhX8Qt9F3) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/5fPglEDz9YEwRgbLRvhCZy) | 5:11 | 2020-11-04 |  |
-| [Tears Dry On Their Own](https://open.spotify.com/track/6yLX8QnxlnEqZfs3YKCfjF) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 3:05 | 2020-11-04 |  |
+| [Tears Dry On Their Own](https://open.spotify.com/track/6yLX8QnxlnEqZfs3YKCfjF) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 0:29 | 2020-11-04 |  |
 | [Teenagers](https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 2:41 | 2020-11-04 |  |
 | [The Creeps \- Fedde Le Grand Radio Mix](https://open.spotify.com/track/3k76ukdDzNeLRW41SfcxAr) | [Camille Jones](https://open.spotify.com/artist/2ikT9iKpjKsyVX9esa3AZC), [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [The Creeps](https://open.spotify.com/album/7HTdJ5Beqe4ZuiRI08g6co) | 2:32 | 2020-11-04 |  |
 | [The Pretender](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 4:29 | 2020-11-04 |  |

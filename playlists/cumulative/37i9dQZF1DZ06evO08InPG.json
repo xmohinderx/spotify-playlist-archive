@@ -869,7 +869,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 287275,
       "name": "R\u00d8TTEN",
       "url": "https://open.spotify.com/track/5FSWDz91pGJWHu4F0TWJZS"
@@ -1017,10 +1017,28 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 308433,
       "name": "The Sentinel",
       "url": "https://open.spotify.com/track/2fPNAHSAmL5eCUy7LFsFu3"
+    },
+    {
+      "album": {
+        "name": "Unto the Locust (Special Edition)",
+        "url": "https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312986,
+      "name": "The Sentinel",
+      "url": "https://open.spotify.com/track/1gLQeDFGTzmEpSMneARUyk"
     },
     {
       "album": {
@@ -1035,7 +1053,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 281179,
       "name": "Triple Beam",
       "url": "https://open.spotify.com/track/19FT0vJ72SjAdQdCT3gf7M"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 
 > Free\-spirited, atmospheric vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,964 likes - 160 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,070 likes - 160 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 45 | [Samara](https://open.spotify.com/track/6BlVZ6vUaW5vbmDlYV7zfM) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Samara](https://open.spotify.com/album/1v79MqdyOEmgD4axF3dL9U) | 4:16 |
 | 46 | [Oh Dear Brother](https://open.spotify.com/track/27TIWKzBDkahxcjKUmthdw) | [Howard](https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5) | [Oh Dear Brother](https://open.spotify.com/album/3Pue2ojjST8Vq2m8y2EppZ) | 3:58 |
 | 47 | [White Roses](https://open.spotify.com/track/5xxHfQuaXGEBHtsGbSXwI7) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu), [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [White Roses](https://open.spotify.com/album/01vINTMNqHsxWYTo9HZVJk) | 3:26 |
-| 48 | [Beige](https://open.spotify.com/track/0FfZudphGgQTGeEV6AhmOs) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/0tg6msTvhHx8glztrBii80) | 3:24 |
+| 48 | [Beige](https://open.spotify.com/track/0FfZudphGgQTGeEV6AhmOs) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/0tg6msTvhHx8glztrBii80) | 0:29 |
 | 49 | [cold water](https://open.spotify.com/track/3keIh8QdhxlHQ0hsyDHrzA) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [cold water](https://open.spotify.com/album/0ygmFGHb9QLdOqsAfs6Nhe) | 3:53 |
 | 50 | [Maybe](https://open.spotify.com/track/5UaSj2MSrh6AU9ZiU9IYHy) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Maybe](https://open.spotify.com/album/3jm07S9cFjyxY7kJ0cPuUx) | 4:06 |
 | 51 | [Sea Creatures](https://open.spotify.com/track/0ziGHz1rdtRE426q03NC8F) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Tourist](https://open.spotify.com/album/7lZZYA2lDZhSNBgXK2dEig) | 4:16 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 53 | [We Don't Get More Time](https://open.spotify.com/track/5fuSpSp9IFwS4Iu239L5Nv) | [I See Rivers](https://open.spotify.com/artist/50y0b4AuxvWpH2jlNqGMmg) | [We Don't Get More Time](https://open.spotify.com/album/1A7VyATvNpZqW6U7AqH24C) | 2:36 |
 | 54 | [New Shoes](https://open.spotify.com/track/2Nh201cURlNgpcMDnDlNaL) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [The Fight](https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE) | 3:18 |
 | 55 | [Turntable](https://open.spotify.com/track/0Dp07EA5ybveKSUE27CuEd) | [Dead Horses](https://open.spotify.com/artist/4dcU7cmzO3GECQGSKwl92z) | [My Mother the Moon](https://open.spotify.com/album/4dN53nS6qFV78cpbX24X6P) | 3:16 |
-| 56 | [Fever Dream](https://open.spotify.com/track/5aQge4CQGxd4hp7YtVEHy5) | [Sea High](https://open.spotify.com/artist/3zOedO0mn7ikOxKcshuHsY), [Wallfella](https://open.spotify.com/artist/6fYRV3qeqpfNv29wOThawF), [Citizen Black](https://open.spotify.com/artist/1XZroKJxeCMmLjHScn7XTO) | [Degradation of Imagination](https://open.spotify.com/album/3h227ffzTp1JxmbK76fg6C) | 3:22 |
+| 56 | [Fever Dream](https://open.spotify.com/track/5aQge4CQGxd4hp7YtVEHy5) | [Sea High](https://open.spotify.com/artist/3zOedO0mn7ikOxKcshuHsY), [Wallfella](https://open.spotify.com/artist/6fYRV3qeqpfNv29wOThawF), [Citizen Black](https://open.spotify.com/artist/1XZroKJxeCMmLjHScn7XTO) | [Degradation of Imagination](https://open.spotify.com/album/3h227ffzTp1JxmbK76fg6C) | 0:29 |
 | 57 | [Bones](https://open.spotify.com/track/0hGO3Ws99t05Iboxcve9DC) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Bones](https://open.spotify.com/album/3xHx0ZEM8KLsEN7yGqYUAf) | 2:58 |
 | 58 | [Nica Libres At Dusk \- Radio Edit](https://open.spotify.com/track/6c1r9Vdso5n3QjGMBTNpFh) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Nica Libres At Dusk \(Radio Edit\)](https://open.spotify.com/album/3WDWet8acFs2XAAI7ADLoA) | 3:59 |
 | 59 | [Salem](https://open.spotify.com/track/0Kp0CPUzFcEqhBbHoRKtbm) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/54DU59anGQsdrFP7utpshG) | 3:44 |
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 80 | [Casanova](https://open.spotify.com/track/4vLNg62L2j0sk2X13nmXna) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Casanova](https://open.spotify.com/album/3pWQN1ZvrJkjs3wk4tAwkP) | 3:49 |
 | 81 | [Ballad Of A Thin Place](https://open.spotify.com/track/3Cc71VdFO7dJUXxxmx2OCl) | [RF Shannon](https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5) | [Rain On Dust](https://open.spotify.com/album/4zZ8LQ2Pin7He38D53XvzQ) | 4:16 |
 | 82 | [Go Tell a Bird](https://open.spotify.com/track/2soMAWI1jlM8O1YUF4e1LB) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Adaptations](https://open.spotify.com/album/75KCEmU9IxlwClwPnM4KEC) | 3:52 |
-| 83 | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c) | 4:08 |
+| 83 | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c) | 0:29 |
 | 84 | [The Wife Of Michael Cleary](https://open.spotify.com/track/30YhaSpYZo8dlVonooJ0fI) | [Maija Sofia](https://open.spotify.com/artist/3K68cSs1f8V59zNdfs25dW) | [Bath Time](https://open.spotify.com/album/7IEWiv5rWm4CmClbyhza4P) | 4:45 |
 | 85 | [Pale November Dew](https://open.spotify.com/track/1k0lOmYQWNyQnQYs0RepPV) | [The Dead Tongues](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK) | [Pale November Dew](https://open.spotify.com/album/2ea78WFnPuZiXVietGV08T) | 3:50 |
 | 86 | [Call My Name \- Acoustic](https://open.spotify.com/track/3cTbjXWKsCm1hg3TrUlFXC) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Call My Name \(Acoustic\)](https://open.spotify.com/album/1LqBXlceuWPGSLfxtQnikA) | 3:17 |

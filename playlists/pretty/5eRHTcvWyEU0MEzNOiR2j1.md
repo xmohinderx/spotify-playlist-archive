@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5eRHTcvWyEU0MEzNOiR2j1.md) - [plain]
 
 > Putte i Parken arrangeras i år för femte året i rad\. Sommarens festival går av stapeln den 4 \- 7 juli i Karlstad\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29 likes - 79 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 29 likes - 79 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,10 +13,10 @@ pretty - [cumulative](/playlists/cumulative/5eRHTcvWyEU0MEzNOiR2j1.md) - [plain]
 | 3 | [Soldier](https://open.spotify.com/track/0MhCb3iakymVqQIOeYPSUf) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Sweeter](https://open.spotify.com/album/2zVRgW8bXd7ukXRZSWw81j) | 3:31 |
 | 4 | [Elegi](https://open.spotify.com/track/4gb6ik72fZW6pzm5EJb39z) | [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Vatten under broarna](https://open.spotify.com/album/2gAefUj9nbEgJJ0aJC0bel) | 4:34 |
 | 5 | [3 Shades Of Black](https://open.spotify.com/track/7phu6PYdCTt5gUcKDtRFoX) | [Hank Williams III](https://open.spotify.com/artist/3qf2YoifC68WTsMv1YIGmh) | [Damn Right, Rebel Proud](https://open.spotify.com/album/6cXTOSDrUSrE9E4pE9FvRC) | 4:18 |
-| 6 | [Beväpna dig med vingar](https://open.spotify.com/track/6HGm0lE0Oh7pdOVBFKdFLY) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Beväpna dig med vingar](https://open.spotify.com/album/2xMq0DLaCb66hJ2pt5Y6m8) | 5:16 |
+| 6 | [Beväpna dig med vingar](https://open.spotify.com/track/6HGm0lE0Oh7pdOVBFKdFLY) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Beväpna dig med vingar](https://open.spotify.com/album/2xMq0DLaCb66hJ2pt5Y6m8) | 0:29 |
 | 7 | [Vart jag mig i världen vänder](https://open.spotify.com/track/7Fruf2e0JApJma17sGX8Xq) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Ett fel närmare rätt](https://open.spotify.com/album/1dRSyjLs2uPXQmWBXO1PdO) | 3:32 |
 | 8 | [Saints & Sinners](https://open.spotify.com/track/5junj49WaCpCj9emkcZXac) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Saints & Sinners](https://open.spotify.com/album/17RschsEsbMq4AlJkXSCMf) | 3:31 |
-| 9 | [Samarkanda](https://open.spotify.com/track/1t9Obgo7bELEcyHvhmbZpg) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Beväpna dig med vingar](https://open.spotify.com/album/2xMq0DLaCb66hJ2pt5Y6m8) | 4:39 |
+| 9 | [Samarkanda](https://open.spotify.com/track/1t9Obgo7bELEcyHvhmbZpg) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Beväpna dig med vingar](https://open.spotify.com/album/2xMq0DLaCb66hJ2pt5Y6m8) | 0:29 |
 | 10 | [Long Gone](https://open.spotify.com/track/02x5bICPYZSKOMGUz84Xl7) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Long Gone \(International Version\)](https://open.spotify.com/album/1ZqX4HlHenyCNCdkMVl1FH) | 5:15 |
 | 11 | [Not Over You](https://open.spotify.com/track/6j7hih15xG2cdYwIJnQXsq) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Sweeter](https://open.spotify.com/album/2zVRgW8bXd7ukXRZSWw81j) | 3:38 |
 | 12 | [Jag får liksom ingen ordning](https://open.spotify.com/track/7hEXUvvY2IbsaeywMDtaVx) | [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Jag får liksom ingen ordning](https://open.spotify.com/album/1c3PaUdSpqfK0vuBdDwt96) | 5:13 |

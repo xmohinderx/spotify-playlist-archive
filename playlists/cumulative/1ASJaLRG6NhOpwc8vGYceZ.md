@@ -4,7 +4,7 @@
 
 > 
 
-50 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/2gNFKwUa73nxDwzAqWOu7n)
+50 songs - 3 hr 34 min - [published](https://open.spotify.com/playlist/2gNFKwUa73nxDwzAqWOu7n)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Girl I'm Gonna Miss You](https://open.spotify.com/track/1Aau7fbm21rcFEgFGl6WVz) | [Milli Vanilli](https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM) | [2x2 \- The Best of Milli Vanilli](https://open.spotify.com/album/51J8xsKlAeAOwy1p7dwnN5) | 3:57 | 2013-06-27 |  |
 | [Girl You Know It's True](https://open.spotify.com/track/1uq7isLBmdhwuHifORMNFO) | [Milli Vanilli](https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM) | [All or Nothing](https://open.spotify.com/album/1hl2bRQqeYPjCohsIhNoTN) | 8:48 | 2013-06-27 |  |
 | [Giving You The Best That I Got \[Single Version\]](https://open.spotify.com/track/3Pba5taRKCsgkXyHycA0OX) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Rhino Hi\-Five: Anita Baker](https://open.spotify.com/album/7y0uqLr5RQqEltmS3XBdyE) | 3:53 | 2013-06-27 |  |
-| [Good Thing](https://open.spotify.com/track/76ZnyGfjQZSM8GPfR7OqiJ) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp) | [The Raw And The Cooked](https://open.spotify.com/album/59R6wpHlRk6Ui19e7qAgo1) | 3:21 | 2013-06-27 |  |
+| [Good Thing](https://open.spotify.com/track/76ZnyGfjQZSM8GPfR7OqiJ) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp) | [The Raw And The Cooked](https://open.spotify.com/album/59R6wpHlRk6Ui19e7qAgo1) | 0:29 | 2013-06-27 |  |
 | [Hangin' Tough \- 7" Remix](https://open.spotify.com/track/5fLNSn0KurYAS8O1gyiSkL) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [NKOTBSB](https://open.spotify.com/album/5Zwuaan4RIS108lyMEYYmw) | 3:49 | 2013-06-27 |  |
 | [Heaven](https://open.spotify.com/track/42J9ponGUZ7A9QlZQT6csY) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [80s Power Ballads](https://open.spotify.com/album/27aGEj8VmQbakGkL50jp1c) | 4:33 | 2013-06-27 |  |
 | [How Can I Fall ?](https://open.spotify.com/track/62oGUBJQGPa3emMGMejBhm) | [Breathe](https://open.spotify.com/artist/1MNeXu0284O7mQWgF1YRc0) | [All That Jazz](https://open.spotify.com/album/2t2kQu1Zd9vZRb71Vx1ASf) | 4:44 | 2013-06-27 |  |
@@ -39,14 +39,14 @@
 | [Lost In Your Eyes](https://open.spotify.com/track/1x3xnakIkZZGKi5B8ZZIrF) | [Debbie Gibson](https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp) | [80s Mania](https://open.spotify.com/album/5hgzC9IxDx8wcos3LTGrCh) | 3:38 | 2013-06-27 |  |
 | [Love Shack \- Edit](https://open.spotify.com/track/64B4UbGRLtGRBtiN2m8OvF) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Love Shack \(Edit\) / Channel Z](https://open.spotify.com/album/4ugIloQYMfDhN7lOtEWezy) | 4:17 | 2013-06-27 |  |
 | [Miss You Much](https://open.spotify.com/track/4r5VaK6H1bq0cTGPMTN97Z) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Rhythm Nation 1814](https://open.spotify.com/album/4OD3LU6001esAtFshDX46M) | 4:12 | 2013-06-27 |  |
-| [My Heart Can't Tell Me No \- 2008 Remaster](https://open.spotify.com/track/2yMZVQlOz0z8J27hxQIfN1) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Definitive Rod Stewart](https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj) | 5:17 | 2013-06-27 |  |
+| [My Heart Can't Tell Me No \- 2008 Remaster](https://open.spotify.com/track/2yMZVQlOz0z8J27hxQIfN1) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Definitive Rod Stewart](https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj) | 0:29 | 2013-06-27 |  |
 | [My Prerogative](https://open.spotify.com/track/1qT8Evm2p2jfVIq52G3wVs) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | ['80s Urban Beats & Grooves](https://open.spotify.com/album/772nmjnlnbhcGZptmN8Xc3) | 4:49 | 2013-06-27 |  |
 | [On Our Own](https://open.spotify.com/track/5Ufxoce7evv4Z9LofZUKpx) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Dance...Ya Know It!](https://open.spotify.com/album/0RVHA8KCQCJG17pj7mNMdX) | 4:32 | 2013-06-27 |  |
 | [Once Bitten, Twice Shy](https://open.spotify.com/track/5xskaOZUPKUCk8Vmc6yTWN) | [Great White](https://open.spotify.com/artist/6ZPbX2Lxd40e2UVkXpyxvI) | [Rock Me: The Best Of Great White](https://open.spotify.com/album/2TUjGbi6H75rcYGBFwe5f5) | 5:16 | 2013-06-27 |  |
 | [Real Love](https://open.spotify.com/track/2yyQLWgpUZEFisUkKzHsdT) | [Jody Watley](https://open.spotify.com/artist/71aKjsWKYqASAffyIQaocZ), [Louil Silas Jr.](https://open.spotify.com/artist/4aknOZmKFnayYvd03Avoz6) | [20th Century Masters: The Millennium Collection: Best Of Jody Watley](https://open.spotify.com/album/2Fa9jKPOzCGh5Yw74wuSKE) | 4:24 | 2013-06-27 |  |
 | [Right Here Waiting](https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Repeat Offender](https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG) | 4:24 | 2013-06-27 |  |
 | [Rock On \- Ver\. 09](https://open.spotify.com/track/6e3O5XkMEhMAatdKnOlZPh) | [Michael Damian](https://open.spotify.com/artist/1Wb1iP9BzMJyjm5nXtBUFP) | [Rock On](https://open.spotify.com/album/560XKoM2owBqNr8zz4qhUG) | 3:32 | 2013-06-27 |  |
-| [She Drives Me Crazy](https://open.spotify.com/track/2BPfKiV9U0CR1dpUgeUwuH) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp) | [The Raw And The Cooked](https://open.spotify.com/album/59R6wpHlRk6Ui19e7qAgo1) | 3:35 | 2013-06-27 |  |
+| [She Drives Me Crazy](https://open.spotify.com/track/2BPfKiV9U0CR1dpUgeUwuH) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp) | [The Raw And The Cooked](https://open.spotify.com/album/59R6wpHlRk6Ui19e7qAgo1) | 0:29 | 2013-06-27 |  |
 | [So Alive](https://open.spotify.com/track/6amZm52SfS7d6oCEu9NDMl) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Love and Rockets](https://open.spotify.com/album/7ySBlv1N2wbYcaIwHBcBuy) | 4:17 | 2013-06-27 |  |
 | [Straight Up](https://open.spotify.com/track/5xl5582IihbEZAnfj0xyso) | [Paula Abdul](https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j) | [Forever Your Girl](https://open.spotify.com/album/7zduRJgS6v79QmNUhKGozu) | 4:11 | 2013-06-27 |  |
 | [The Look](https://open.spotify.com/track/4N4iWVwNNXIH0qT5KUCIsp) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [The Pop Hits \(Deluxe Version\)](https://open.spotify.com/album/1bhjB7DbLk8U9fNNJkOlrr) | 3:57 | 2013-06-27 |  |

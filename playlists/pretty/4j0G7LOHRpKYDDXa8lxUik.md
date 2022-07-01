@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4j0G7LOHRpKYDDXa8lxUik.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 504 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 503 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/4j0G7LOHRpKYDDXa8lxUik.md) - [plain]
 | 3 | [Magic \- Xanadu Soundtrack Version](https://open.spotify.com/track/3zwFTUatVn4nDoQTq74AQx) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Gold](https://open.spotify.com/album/24xwaPVl6xkUunl6lEWwje) | 4:29 |
 | 4 | [Rock With You](https://open.spotify.com/track/5yxIenY5kSLlgTr3XGYw9p) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [HIStory \- PAST, PRESENT AND FUTURE \- BOOK I](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) | 3:40 |
 | 5 | [Do That To Me One More Time](https://open.spotify.com/track/2gFnSurc2aUja58m4Jq41f) | [Captain & Tennille](https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm) | [The Ultimate Collection: Captain & Tennille](https://open.spotify.com/album/7p1ppQ3fqvosArcx4C6jpp) | 4:14 |
-| 6 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/6LRIeceMebqu7TmyyXCRTA) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen 40 Limited Edition Collector's Box Set Vol\. 2](https://open.spotify.com/album/1PpNIByYpOjEhXhX6JT4AL) | 2:43 |
+| 6 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/6LRIeceMebqu7TmyyXCRTA) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen 40 Limited Edition Collector's Box Set Vol\. 2](https://open.spotify.com/album/1PpNIByYpOjEhXhX6JT4AL) | 0:29 |
 | 7 | [Coming Up \- Remastered 2011](https://open.spotify.com/track/1p2qCWx9dM74mPIv8Vnm2f) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/1mODksGrJUHVAIIbPXB43v) | 3:51 |
 | 8 | [Funkytown \- Single Version](https://open.spotify.com/track/7lJIjSxAT7OcJA4zLb4q57) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [Shrek 2](https://open.spotify.com/album/5WT93ILrcE8zEeRHsBUnGK) | 3:59 |
 | 9 | [It's Still Rock and Roll to Me](https://open.spotify.com/track/7LbOQt7isddrw3Bs3Czl7E) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Essential Billy Joel](https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz) | 2:57 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/4j0G7LOHRpKYDDXa8lxUik.md) - [plain]
 | 30 | [Let's Get Serious](https://open.spotify.com/track/30uxNJzutKNSsHhNuBaTSg) | [Jermaine Jackson](https://open.spotify.com/artist/1VDurPMbOKrNU8mcMP4X1P) | [Motown: The Complete No\. 1's](https://open.spotify.com/album/0iv3gV69jA1YY2H0UTy9yF) | 3:35 |
 | 31 | [Don't Fall In Love With A Dreamer](https://open.spotify.com/track/2Ntu9k6Lb8MYZCCHQLqBZB) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [Kim Carnes](https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE) | [Love Songs](https://open.spotify.com/album/5lfEHckqBoZ1ImG5QfroiH) | 3:40 |
 | 32 | [Sailing](https://open.spotify.com/track/5Ii750a5kcwanAaBfrOlZM) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Rhino Hi\-Five: Christopher Cross](https://open.spotify.com/album/1zCZlZkquBeSNOeThSrKpE) | 4:16 |
-| 33 | [Longer](https://open.spotify.com/track/6OKrPnWUC8FccKiLVpxQWQ) | [Dan Fogelberg](https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO) | [Portrait: The Music Of Dan Fogelberg From 1972\-1997](https://open.spotify.com/album/3xzrUc5WHC8dv9UmiUWxH1) | 3:15 |
+| 33 | [Longer](https://open.spotify.com/track/6OKrPnWUC8FccKiLVpxQWQ) | [Dan Fogelberg](https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO) | [Portrait: The Music Of Dan Fogelberg From 1972\-1997](https://open.spotify.com/album/3xzrUc5WHC8dv9UmiUWxH1) | 0:29 |
 | 34 | [Coward Of The County](https://open.spotify.com/track/6w4qRwQf8J9tuprfWVtc4H) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Daytime Friends: The Very Best Of Kenny Rogers](https://open.spotify.com/album/5Cum33m0MK39JjWvbGO8bQ) | 4:18 |
 | 35 | [Ladies Night \- Single Version](https://open.spotify.com/track/7JsvyaIQfBSX4yVGs6cqVA) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Number 1's](https://open.spotify.com/album/4lvbbYJ7pBo9TiNuCWH7At) | 3:30 |
 | 36 | [Too Hot \- Single Version](https://open.spotify.com/track/0pTFc8RQtDxzMNFMxuArDz) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Number 1's](https://open.spotify.com/album/4lvbbYJ7pBo9TiNuCWH7At) | 3:49 |

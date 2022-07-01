@@ -4,7 +4,7 @@
 
 > Are you afraid of the dark?
 
-94 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/0SUJWBdRSbTiE40kDxwve2)
+94 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/0SUJWBdRSbTiE40kDxwve2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [I Like You](https://open.spotify.com/track/4mlqHOqOXja92BT4M51lkj) | [dandelion hands](https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm) | [It's All In Your Head](https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR) | 2:47 | 2021-11-01 |  |
 | [I Stood Bleeding](https://open.spotify.com/track/4I4buFO8TRmLpihhWkAcmg) | [bloody/bath](https://open.spotify.com/artist/6U0yRPIBTZbMoRS3FRvyWc) | [I Stood Bleeding](https://open.spotify.com/album/5cF6ExjCGajZB2IauoHMSM) | 4:10 | 2021-11-01 |  |
 | [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 | 2021-11-01 |  |
-| [I Will Be the World](https://open.spotify.com/track/4IK1kdZdfaluKkm9dJRG59) | [Blaenavon](https://open.spotify.com/artist/79RmzX8i9w6YwqJjg3O1MY) | [That's Your Lot](https://open.spotify.com/album/5AJn8hwQYJ1JuvpX41TSUO) | 4:31 | 2021-11-01 |  |
+| [I Will Be the World](https://open.spotify.com/track/4IK1kdZdfaluKkm9dJRG59) | [Blaenavon](https://open.spotify.com/artist/79RmzX8i9w6YwqJjg3O1MY) | [That's Your Lot](https://open.spotify.com/album/5AJn8hwQYJ1JuvpX41TSUO) | 0:29 | 2021-11-01 |  |
 | [If You Say the Word](https://open.spotify.com/track/3pmSHIHtJC289ImufO7uor) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [If You Say the Word](https://open.spotify.com/album/0SvYW67Kes52rOZziDO9uC) | 4:20 | 2021-11-01 |  |
 | [It Was Gone](https://open.spotify.com/track/5XUpxZO6tIHpupxE97LJ7I) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [It Was Gone](https://open.spotify.com/album/2zz9Kq8rQRdV7y9fvpG6eg) | 5:07 | 2021-11-01 |  |
 | [Jim, Let's Play](https://open.spotify.com/track/5cfURqfJGCi5EvCmJsDCtl) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [Jim, Let’s Play](https://open.spotify.com/album/35qMY153LTQElVMozKvPY6) | 3:04 | 2021-11-01 |  |
@@ -54,7 +54,7 @@
 | [Miracle of Life](https://open.spotify.com/track/3TVW2JepPAdMWNUQod7pvT) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Miracle of Life](https://open.spotify.com/album/6r7NnlJTvrk6n0hGoachzr) | 3:36 | 2021-11-01 |  |
 | [Ms](https://open.spotify.com/track/0pCTr2E9CtulIwNprituKi) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:58 | 2021-11-01 |  |
 | [MSQ No\-Extra](https://open.spotify.com/track/6zxBObLm1UWk5X42zJ4JUD) | [Black Marble](https://open.spotify.com/artist/6Nii4K84ZzBZS8X2MP8c9t) | [A Different Arrangement](https://open.spotify.com/album/4Xmm847cZp2jgN592j589C) | 4:16 | 2021-11-01 |  |
-| [My Friend Of Misery](https://open.spotify.com/track/2Z6ll7M4yRePY3Rr0TTM0U) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [My Friend Of Misery](https://open.spotify.com/album/36S8UQHffJYyNVLlEVn1zI) | 3:30 | 2021-11-01 |  |
+| [My Friend Of Misery](https://open.spotify.com/track/2Z6ll7M4yRePY3Rr0TTM0U) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [My Friend Of Misery](https://open.spotify.com/album/36S8UQHffJYyNVLlEVn1zI) | 0:29 | 2021-11-01 |  |
 | [Night Time](https://open.spotify.com/track/0ibXYHIS1vPqpkm1LoIWZR) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 3:36 | 2021-11-01 |  |
 | [Nightmare Hotel](https://open.spotify.com/track/0pErX8N1TzSfi8aSdpOFnQ) | [Priest](https://open.spotify.com/artist/6niO7WSbw5n0nD58jPi2Mx) | [New Flesh](https://open.spotify.com/album/1w3f32bbB7DS1dJxDOPw73) | 3:15 | 2021-11-01 |  |
 | [Nightmares on Repeat](https://open.spotify.com/track/5j86pOXbQwoJUmTJj3xiUc) | [Emily Jane White](https://open.spotify.com/artist/2PqsalqLh5RT6FSy9DrGZh) | [They Moved In Shadow All Together](https://open.spotify.com/album/2SuFHw70l56dvXHijLQUK1) | 4:39 | 2021-11-01 |  |

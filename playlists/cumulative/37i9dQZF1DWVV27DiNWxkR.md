@@ -4,13 +4,13 @@
 
 > The premier alternative melancholia playlist.
 
-210 songs - 14 hr 27 min - [published](https://open.spotify.com/playlist/2mQQ9UtMauFrmPvfy4o2jR)
+210 songs - 14 hr 21 min - [published](https://open.spotify.com/playlist/2mQQ9UtMauFrmPvfy4o2jR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#3](https://open.spotify.com/track/2Bc4llhjJBW77I552RgA3L) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 7:44 | 2020-08-30 | 2020-09-11 |
 | [24 Préludes, Op\. 28: No\. 2 in A Minor](https://open.spotify.com/track/50uHFlRGf69DM79HQ5iPNu) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Martha Argerich](https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4) | [Chopin: Preludes; Sonata No.2](https://open.spotify.com/album/33YXJqoFV5AQwbo4yfk22n) | 2:09 | 2020-08-30 | 2020-09-11 |
-| [9 Crimes](https://open.spotify.com/track/5GZEeowhvSieFDiR8fQ2im) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [9](https://open.spotify.com/album/25gOFTD048bIqswkdmG0FH) | 3:37 | 2019-09-29\* |  |
+| [9 Crimes](https://open.spotify.com/track/5GZEeowhvSieFDiR8fQ2im) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [9](https://open.spotify.com/album/25gOFTD048bIqswkdmG0FH) | 0:29 | 2019-09-29\* |  |
 | [Adele](https://open.spotify.com/track/41GmtZAyb2t1diD2da8IBD) | [Tapes](https://open.spotify.com/artist/2Ogj7F3ArMBFuZpSHdXIgw) | [dead dogs & sad songs](https://open.spotify.com/album/30aE1B2krMECREgfpRKiFo) | 3:23 | 2019-09-29\* | 2022-04-10 |
 | [Aged And Mellow Blues](https://open.spotify.com/track/3aw1iB6kBXwh8EC3iZFo7z) | [Esther Phillips](https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7) | [Better Beware](https://open.spotify.com/album/1RHb9EpTByWk8W3WtbWWts) | 2:45 | 2020-08-30 | 2020-09-11 |
 | [All Mirrors](https://open.spotify.com/track/4ZQdynvfiayhdoq5lcuCQ1) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [All Mirrors](https://open.spotify.com/album/3SRs9ltRM8jG6TuAYDLpLj) | 4:42 | 2019-09-29\* |  |
@@ -22,7 +22,7 @@
 | [Ballad of the Sad Young Men](https://open.spotify.com/track/5ehP3X3sgOdPnsYDqBIjpF) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 7:00 | 2020-08-30 | 2020-09-11 |
 | [Bashed Out](https://open.spotify.com/track/7HT6TuyQsBNGghhYYzInsU) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Bashed Out](https://open.spotify.com/album/6mNf6jxeTcRNi6uQLisaXS) | 3:41 | 2019-09-29\* | 2022-04-10 |
 | [Bedside Table](https://open.spotify.com/track/7EdM33TRHCYTfjsYqtagKp) | [Bedhead](https://open.spotify.com/artist/1555UFA4CyCnJEzCKikGHe) | [WhatFunLifeWas](https://open.spotify.com/album/2IpqDJKaf7873tRUmxuxae) | 4:44 | 2020-08-30 | 2020-09-11 |
-| [Berlin](https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 2:54 | 2019-09-29\* |  |
+| [Berlin](https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 0:29 | 2019-09-29\* |  |
 | [Between the Bars](https://open.spotify.com/track/3mtIUX9LrCpIUiAAv9SD4a) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:21 | 2020-08-11 |  |
 | [Binary Love](https://open.spotify.com/track/5ZTezl85jcimRNnRHWAUK8) | [Tommy](https://open.spotify.com/artist/2nPrM8OX7yz4hSFuH049b0) | [Binary Love](https://open.spotify.com/album/6BtkGQRvy5wpXV2vJ2yZrq) | 4:35 | 2019-09-29\* | 2020-10-15 |
 | [Blue](https://open.spotify.com/track/60u8U5A6th7e2QcQ1A1Vrh) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Blue](https://open.spotify.com/album/2K8sX4ajUJNTie21tdfDyi) | 5:55 | 2019-12-20 | 2020-03-07 |

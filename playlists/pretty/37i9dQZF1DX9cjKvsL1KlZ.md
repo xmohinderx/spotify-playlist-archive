@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 
 > Sounds of New York curated by Sidetalk, New York’s one\-minute street show
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,461 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,552 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 | 8 | [Living Life \(feat\. Rowdy Rebel\)](https://open.spotify.com/track/6IEvn1ksSpWNEZHhkh1yzf) | [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Shmurda She Wrote](https://open.spotify.com/album/7wVHeRPErXZFVJ8z74pbiZ) | 2:28 |
 | 9 | [Black Mask \(feat\. Pop Smoke\)](https://open.spotify.com/track/0Tm6x4oJEjijVO7Yuqtfda) | [Jay Gwuapo](https://open.spotify.com/artist/5qrzeukNCU5ixZH3LhQi2j), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Black Mask \(feat\. Pop Smoke\)](https://open.spotify.com/album/4Q7RqehwwDMkB5spP7nxFA) | 2:29 |
 | 10 | [On My Shoulder \(feat\. 26AR\)](https://open.spotify.com/track/31IpTcCrJlNRDjoWrNkjy6) | [Rocko Ballin](https://open.spotify.com/artist/2nfqejhxPMiJPGf8d4fCjl), [26ar](https://open.spotify.com/artist/5Juzk12OF6455izbnUr10x) | [Lucky Last Born](https://open.spotify.com/album/7x89Dz4Fygt4R9nAMbPOew) | 2:30 |
-| 11 | [Twirlanta](https://open.spotify.com/track/3DHB4RzX7kWcpjjFtcmWqh) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [The Blixky Tape 2](https://open.spotify.com/album/42eCvSjk8vGZP9hKEXUsYI) | 2:58 |
+| 11 | [Twirlanta](https://open.spotify.com/track/3DHB4RzX7kWcpjjFtcmWqh) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [The Blixky Tape 2](https://open.spotify.com/album/42eCvSjk8vGZP9hKEXUsYI) | 0:29 |
 | 12 | [D.M.B.](https://open.spotify.com/track/7IBLt4Qarf4JDLxIQDv2O5) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [D.M.B.](https://open.spotify.com/album/1o13E5QES3KCOg85oF0KNa) | 4:51 |
 | 13 | [Shake It \(feat\. Cardi B, Dougie B & Bory300\)](https://open.spotify.com/track/0RkCnqwF8Tfl2QGPZwopyk) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj), [Bory300](https://open.spotify.com/artist/77oGJAObEl8wdAUrknL1gH) | [Shake It \(feat\. Cardi B, Dougie B & Bory300\)](https://open.spotify.com/album/0Kr65MJsLayLENRXxrlW3Z) | 1:58 |
 | 14 | [Pray 4 Me](https://open.spotify.com/track/1wDAnC2XbwoDwbOpowab5H) | [Kenzo Balla](https://open.spotify.com/artist/7J7r6Srf58AAPsTJrEXMCp) | [Pray 4 Me](https://open.spotify.com/album/0mipBFGRTFVyKeCupIXgly) | 2:14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8nB8TGVGGF.md) - [plain]
 
 > The best Blues for a long trip behind the wheel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,298 likes - 113 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,325 likes - 113 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8nB8TGVGGF.md) - [plain]
 | 7 | [Someday Baby](https://open.spotify.com/track/5ZBUC1YafitJgLt8dgZYTW) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [A Bothered Mind](https://open.spotify.com/album/19ox7nB02O5mCJtjqzoqGm) | 3:16 |
 | 8 | [Checkin' Up On My Baby](https://open.spotify.com/track/7nVzX42eKMcI2XZcO1YOPL) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Martin Scorsese Presents The Blues: Taj Mahal](https://open.spotify.com/album/0wPbPlZ8VsoKFWtr9bVZIC) | 4:55 |
 | 9 | [Good Time Charlie \(Part 1\)](https://open.spotify.com/track/6pVqOsnX2rLYMl1RBzmNBF) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [Blues Masters: I Pity the Fool](https://open.spotify.com/album/0368Em9mbirVITT1NBrtNl) | 2:35 |
-| 10 | [Voodoo Chile Blues](https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 8:48 |
+| 10 | [Voodoo Chile Blues](https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 0:29 |
 | 11 | [Ice Cream Man](https://open.spotify.com/track/7fFKM10IEtZubmfF0L5elV) | [John Brim](https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:44 |
 | 12 | [\(He Said Yeah\) Baby, You´re the One](https://open.spotify.com/track/3OHvbRM4MoyvN3RJpN015b) | [Nita, Rita & Ruby](https://open.spotify.com/artist/0UfaffDVhmyk03vTITLrBc) | [Hot Boppin Girls Vol\. 1](https://open.spotify.com/album/6xeAubcR03QNp2ix1iEcfx) | 2:03 |
 | 13 | [The Letter](https://open.spotify.com/track/4cCSqQBd2b6Uu0ErT4zXvd) | [Chicken Shack](https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi) | [The Complete Blue Horizon Sessions](https://open.spotify.com/album/4gcdawHFamYzxAplmMgeur) | 4:26 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8nB8TGVGGF.md) - [plain]
 | 21 | [I Can't Quit The Blues](https://open.spotify.com/track/7odv5siIsQdOEUmsk7Mjsv) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 3:20 |
 | 22 | [Drivin' Blues \- Remastered](https://open.spotify.com/track/5HvEnevlPtko7RRHFYfOrL) | [Frijid Pink](https://open.spotify.com/artist/0K24Tk5QTxx6tkcCdnY3Od) | [Frijid Pink \(Digitially Remastered\)](https://open.spotify.com/album/0iGAC7IoWSGGFXEDqtddNI) | 3:48 |
 | 23 | [Left My Happy Home](https://open.spotify.com/track/7j8M2LKnaM5onc0XtcGotq) | [Billy Boy Arnold](https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o) | [Goin' To Chicago](https://open.spotify.com/album/4p5MlG351OaQac8CRZsF3K) | 2:34 |
-| 24 | [Born Under a Bad Sign](https://open.spotify.com/track/1HbOlAS9kF9d5j7WNQbin9) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 7:37 |
+| 24 | [Born Under a Bad Sign](https://open.spotify.com/track/1HbOlAS9kF9d5j7WNQbin9) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 0:29 |
 | 25 | [Stop Right Now \- Stereo Version](https://open.spotify.com/track/4Uo4RCirDyu9P9YaUAFFPV) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [More Real Folk Blues](https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV) | 2:27 |
 | 26 | [You Put the Heart on Me](https://open.spotify.com/track/68qLyoQEO4ub6Gq9SoUaZM) | [John Brim](https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI), [Pinetop Perkins](https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55) | [Chicago Blues Session Volume 12](https://open.spotify.com/album/3aIsNJmW34RBXNoYOTKyOE) | 2:40 |
 | 27 | [The Same Thing](https://open.spotify.com/track/59On35IawOw3kdsUv6wiu6) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Electric Mud](https://open.spotify.com/album/7cDLEVoIhkfKqaiKAPp7vL) | 5:43 |
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8nB8TGVGGF.md) - [plain]
 | 58 | [Buzz Me Baby](https://open.spotify.com/track/03orX7fg8pH3tXBhJiuQC7) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Men of the World: The Early Years](https://open.spotify.com/album/2K7v8gzTtmyX0fjvAVUkzt) | 3:34 |
 | 59 | [Confessin' The Blues](https://open.spotify.com/track/1rv1DreUDVLn4j0LqmEfIe) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Completely Well](https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1) | 4:55 |
 | 60 | [Got My Mojo Working](https://open.spotify.com/track/18n0zch7bRo453Iwq98xYf) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:52 |
-| 61 | [Built For Comfort](https://open.spotify.com/track/3klYyhZSVWWnCEsPyD0dSs) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Howlin' Wolf Album](https://open.spotify.com/album/3Tk5Bal4RMJZZ9opYxK3YT) | 5:11 |
+| 61 | [Built For Comfort](https://open.spotify.com/track/3klYyhZSVWWnCEsPyD0dSs) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Howlin' Wolf Album](https://open.spotify.com/album/3Tk5Bal4RMJZZ9opYxK3YT) | 0:29 |
 | 62 | [Goin' to Chicago](https://open.spotify.com/track/2qthiyAT4MJjYuM1q5Qqo1) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [The Blues Ain't Nothin' \(Recorded in France 1971\-1973\)](https://open.spotify.com/album/3KTnRBMogesNlMGkx4Axb1) | 4:17 |
-| 63 | [Mannish Boy](https://open.spotify.com/track/5vZOZXF9p5v2ttJKk5Vo0L) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 5:21 |
+| 63 | [Mannish Boy](https://open.spotify.com/track/5vZOZXF9p5v2ttJKk5Vo0L) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 0:29 |
 | 64 | [Blues For Hawaiians](https://open.spotify.com/track/0FvO7DbDxOr5LKyKhMAwe9) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 3:23 |
 | 65 | [Rocky Mountain Way](https://open.spotify.com/track/79hKqXCyqIUXhdTFEs4ePo) | [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK) | [Rockin' The Blues](https://open.spotify.com/album/1Ki8xQv0w2lu8yaLBHOivq) | 5:14 |
 | 66 | [I'm Checkin' Up](https://open.spotify.com/track/1PmlMR88OMXyn7eCtqQwUP) | [Tender Slim](https://open.spotify.com/artist/3numTvkoIR26Vkq83bmxcO) | [When Girls Do It](https://open.spotify.com/album/7K7xXRmQlBDKsdl5Q1C9df) | 2:58 |

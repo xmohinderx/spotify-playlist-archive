@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 
 > Soulful, bluesy ballads\. Cover: Lizz Wright
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,394 likes - 88 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,425 likes - 88 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 | 20 | [Seems I’m Never Tired Lovin’ You](https://open.spotify.com/track/7vCfPnxfZstgS5QUlWV7aY) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Seems I’m Never Tired Lovin’ You](https://open.spotify.com/album/026ZioCze6KbxDpunugdId) | 4:43 |
 | 21 | [I'm Only Lonely](https://open.spotify.com/track/4bkjWF12Zz5Ri60OiHbNFV) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Reckless Heart](https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG) | 5:28 |
 | 22 | [Take Me Home](https://open.spotify.com/track/4PyYmYeTVUv2dEkaj1VxnG) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [No Beginning No End 2](https://open.spotify.com/album/0KKurlvDI9YjNgwHm8fNP4) | 4:11 |
-| 23 | [\(I Heard That\) Lonesome Whistle](https://open.spotify.com/track/181U4xxmR8BvLd0UpwWSBd) | [Darrell Scott](https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0) | [Darrell Scott Sings the Blues of Hank Williams](https://open.spotify.com/album/5hgYYzIFXu2v4gex0PY4Cy) | 3:40 |
+| 23 | [\(I Heard That\) Lonesome Whistle](https://open.spotify.com/track/181U4xxmR8BvLd0UpwWSBd) | [Darrell Scott](https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0) | [Darrell Scott Sings the Blues of Hank Williams](https://open.spotify.com/album/5hgYYzIFXu2v4gex0PY4Cy) | 0:29 |
 | 24 | [Beautiful Stranger](https://open.spotify.com/track/3G5zOkX5R6i6QDuyY7xNRH) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [El Dorado](https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0) | 4:07 |
 | 25 | [Promised Myself](https://open.spotify.com/track/0iCw9B4GfBrwbP6fTrzO6b) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8) | 5:19 |
 | 26 | [Take It All](https://open.spotify.com/track/2H0s28N3rendfnepsj48C6) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [Wolf Den](https://open.spotify.com/album/72iUWLyrZgp7WUAIaqX0Np) | 2:57 |
@@ -59,15 +59,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 | 49 | [Now You Want Me Back](https://open.spotify.com/track/5dd769kGy644G8xYkdJJZt) | [Ina Forsman](https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b) | [Ina Forsman](https://open.spotify.com/album/2jlehXrLv0Ry0QaugJYx6Y) | 4:09 |
 | 50 | [For Better or Worse](https://open.spotify.com/track/1wDDhcsJzOzICXpjLLaxX4) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Bluesamericana](https://open.spotify.com/album/1jeDlHBm4psoSmaphaCZeF) | 3:25 |
 | 51 | [Fall Apart](https://open.spotify.com/track/1QCxnFbOnDiR1Ynd3cME4k) | [Jeff Jensen](https://open.spotify.com/artist/0GJFspOyGpSZJfFyH9EY3A) | [Morose Elephant](https://open.spotify.com/album/2x2Ot46HRi9VT9i5q9l5ZQ) | 4:27 |
-| 52 | [Our Love](https://open.spotify.com/track/5cfGJHxNcS1S2qyZj9xH6z) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [The Story of Sonny Boy Slim](https://open.spotify.com/album/5gRwx5vpeXUA75GmuqwByn) | 4:11 |
+| 52 | [Our Love](https://open.spotify.com/track/5cfGJHxNcS1S2qyZj9xH6z) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [The Story of Sonny Boy Slim](https://open.spotify.com/album/5gRwx5vpeXUA75GmuqwByn) | 0:29 |
 | 53 | [They Never Pay Me](https://open.spotify.com/track/6FblM1pI9C3mZng2qPzXBj) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Sunset Avenue](https://open.spotify.com/album/0DPnQNdHFY8kxsXwhCyaDk) | 3:33 |
 | 54 | [Johnnie Ray](https://open.spotify.com/track/5v6dtKoPkH8wJVqfOROJqD) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf) | [Trilogy, Vol\. 2](https://open.spotify.com/album/6wfjOYh05Xg6xCxAdxRrN8) | 3:44 |
 | 55 | [Tell Me](https://open.spotify.com/track/6VLqNoGxbJZd3mKa4cCSXS) | [Meena](https://open.spotify.com/artist/7sntqdL07LSVjtlbVJgoui) | [Tell Me](https://open.spotify.com/album/4XSyd1dqmvO4SX4xh7tvru) | 4:55 |
 | 56 | [Time To Leave](https://open.spotify.com/track/5TUCm5o4qf5y47EnyHStZy) | [Rich Robinson](https://open.spotify.com/artist/7lEokLkF9CWjEBogNWcV69) | [Flux](https://open.spotify.com/album/0aCwNu0L6QMcSexzdUjcGD) | 4:58 |
 | 57 | [Get It While You Can \(feat\. Zkye Blue\)](https://open.spotify.com/track/33NwpQXKSjh8RDHWMvA4r2) | [The Lachy Doley Group](https://open.spotify.com/artist/1UFmab3kufN4YYyyFv7ajR), [Zkye Blue](https://open.spotify.com/artist/5g2FSHwgQFwNpbxPxWSKgT) | [Lovelight](https://open.spotify.com/album/2sldY4bgYk12oQO3PnAyrs) | 4:29 |
-| 58 | [Love's Truly Blind](https://open.spotify.com/track/767uxXvBCPYP1rscn8odVe) | [Anni Piper](https://open.spotify.com/artist/3piOtc3OX0x7Z4rtdDuNBo) | [Two's Company](https://open.spotify.com/album/0ZyNmn3MEE1oceC22A89PG) | 3:26 |
+| 58 | [Love's Truly Blind](https://open.spotify.com/track/767uxXvBCPYP1rscn8odVe) | [Anni Piper](https://open.spotify.com/artist/3piOtc3OX0x7Z4rtdDuNBo) | [Two's Company](https://open.spotify.com/album/0ZyNmn3MEE1oceC22A89PG) | 0:29 |
 | 59 | [Falling](https://open.spotify.com/track/30h268bCKmGWxFleXGYATy) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Juice Me Up](https://open.spotify.com/album/6YbtdgILdYRkOVFNK2PPha) | 5:03 |
-| 60 | [All on My Mind \- Acoustic](https://open.spotify.com/track/4piJ8pnoRvC5sqMEpbH0FA) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [All on My Mind \(Acoustic\)](https://open.spotify.com/album/7tz2tP0MyzjpNg13tgRyx9) | 3:49 |
+| 60 | [All on My Mind \- Acoustic](https://open.spotify.com/track/4piJ8pnoRvC5sqMEpbH0FA) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [All on My Mind \(Acoustic\)](https://open.spotify.com/album/7tz2tP0MyzjpNg13tgRyx9) | 0:29 |
 | 61 | [Just As I Am](https://open.spotify.com/track/265GyouACrBchvNoHHkkuu) | [Meena](https://open.spotify.com/artist/7sntqdL07LSVjtlbVJgoui) | [Try Me](https://open.spotify.com/album/7fEch4BxgISBtcklzK1Xex) | 6:23 |
 | 62 | [What I've Known For A Very Long Time](https://open.spotify.com/track/5OtNvAmyUC2DtP4ZSRBD2R) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 5:33 |
 | 63 | [Old Flame](https://open.spotify.com/track/5YB1o0wYhyKRb760RFmvXa) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Mischievous Moon](https://open.spotify.com/album/3Rodq8gUXYYXtrfNdjWzmI) | 2:42 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 | 65 | [Heavenly](https://open.spotify.com/track/7tLvtMMRMSzxqT6wTfGuAI) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Heavenly](https://open.spotify.com/album/6pYjhJeycyRubBoSv2RGjN) | 3:32 |
 | 66 | [Gemini Heart](https://open.spotify.com/track/3gP6wL0DFyrJr4DzGgLhBq) | [Layla Zoe](https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU), [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [The Lily](https://open.spotify.com/album/1SvBVlFYgpG2VmbTqCs5h8) | 6:10 |
 | 67 | [The World Moves On](https://open.spotify.com/track/2O8w4ULp2uun76A2IgVjsz) | [Hitman Blues Band](https://open.spotify.com/artist/01auum1XBkykoXiQl6ynkx) | [The World Moves On](https://open.spotify.com/album/4fvPhrcHvGlB9fPD1BjIVK) | 4:44 |
-| 68 | [Why Don't You Stay?](https://open.spotify.com/track/44CgGAQHAxrRWRSNS9mFQ8) | [Muddy Magnolias](https://open.spotify.com/artist/1t7mdRbvflM5966YVfyk1X) | [Broken People](https://open.spotify.com/album/3MIBce2g1BNk3mUuj10Ylr) | 4:33 |
+| 68 | [Why Don't You Stay?](https://open.spotify.com/track/44CgGAQHAxrRWRSNS9mFQ8) | [Muddy Magnolias](https://open.spotify.com/artist/1t7mdRbvflM5966YVfyk1X) | [Broken People](https://open.spotify.com/album/3MIBce2g1BNk3mUuj10Ylr) | 0:29 |
 | 69 | [Call On God](https://open.spotify.com/track/6S2WRQBK9uKW2J6RTJXY6N) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Call on God \- Single](https://open.spotify.com/album/4H7Zk2z3wYfj5UuwoPIoPl) | 3:37 |
 | 70 | [Only Fool Was Me](https://open.spotify.com/track/2fUoJejy209Fw7CJXAkacA) | [Jj Thames](https://open.spotify.com/artist/3s40l5PuYSiN6ZxVatol8p) | [Raw Sugar](https://open.spotify.com/album/5yVHESZZNt3DcYtG1Obsfd) | 4:28 |
 | 71 | [Carry On](https://open.spotify.com/track/4ZFhVVawR0xMJ5dJFNxFRl) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Day Breaks](https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ) | 2:48 |

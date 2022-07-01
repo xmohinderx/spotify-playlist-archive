@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: jamesjamesjames
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,970 likes - 83 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,046 likes - 83 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 46 | [Blika](https://open.spotify.com/track/4xKV4wJS3u2ozJGPspw7pZ) | [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI) | [Blika](https://open.spotify.com/album/7mygxwoNaCiqZr7Ltrk03M) | 4:03 |
 | 47 | [If I Die](https://open.spotify.com/track/5xNPAzaDPe0yB4RIfvFqRJ) | [Planetary Assault Systems](https://open.spotify.com/artist/7umQgFrDu3yrchEbFfJd60) | [Sky Scraping](https://open.spotify.com/album/6xsPCh9ptJbW0Qr0afy5L7) | 5:36 |
 | 48 | [Rock With Me](https://open.spotify.com/track/2BfFW4C5SIgbp33539WAah) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Rock With Me](https://open.spotify.com/album/7g7DbWfA0XSpsnFsyrvRlP) | 3:25 |
-| 49 | [Blue Dub](https://open.spotify.com/track/4V4SUQWZVLAIMi7w20AbKs) | [Azu Tiwaline](https://open.spotify.com/artist/0HZwEDqo4wYPQIGacES3mB), [Al Wootton](https://open.spotify.com/artist/77yJIgEEpUU5f87MWDEPwO) | [Blue Dub](https://open.spotify.com/album/7bRVMZKvEX5QsGNq2FtAj3) | 6:55 |
+| 49 | [Blue Dub](https://open.spotify.com/track/4V4SUQWZVLAIMi7w20AbKs) | [Azu Tiwaline](https://open.spotify.com/artist/0HZwEDqo4wYPQIGacES3mB), [Al Wootton](https://open.spotify.com/artist/77yJIgEEpUU5f87MWDEPwO) | [Blue Dub](https://open.spotify.com/album/7bRVMZKvEX5QsGNq2FtAj3) | 0:29 |
 | 50 | [W.A.I.S.T.D\. \- Genix Remix](https://open.spotify.com/track/28rPVoN6LUZs9w0AE6pBlt) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Kele](https://open.spotify.com/artist/0LsO2x5E0KNdMxkWh0EmE0), [Genix](https://open.spotify.com/artist/5WWUkLXiAbmGwtELcfvB2w) | [W.A.I.S.T.D\. \(Genix Remix\)](https://open.spotify.com/album/7rGbcU2RFpmulFCUeS7tTS) | 3:37 |
 | 51 | [Saint Laurent \- Edit](https://open.spotify.com/track/74P8aG2JMc4zEjukAehBsq) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Steel City Dance Discs Volume 26](https://open.spotify.com/album/0jr9JA5xqnDWwua5iIAzoE) | 4:38 |
 | 52 | [Full of Beats](https://open.spotify.com/track/55QgQtU2Cq3khoiAnYj2Dk) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [Full of Beats](https://open.spotify.com/album/46nXRJbB9KA7opynjfMj83) | 5:46 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 62 | [Away](https://open.spotify.com/track/0YZAILWkcrwLfRMPWvVIwv) | [Ejeca](https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX) | [Away](https://open.spotify.com/album/2bTOJZjjyHS3JjZ6fqfAF1) | 5:30 |
 | 63 | [Exhale](https://open.spotify.com/track/4woCaPYcENLOfoK6o82MgS) | [Peverelist](https://open.spotify.com/artist/0UrA452V5vJpCW5ezx0YMP), [Kowton](https://open.spotify.com/artist/5mKLTrvI8gTtNjVewBL7Bj) | [Exhale](https://open.spotify.com/album/2OtmBruepl9cL0kIon06Co) | 5:38 |
 | 64 | [Trifecta](https://open.spotify.com/track/5CkcQNihN5J4lcDYAcbTPn) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Trifecta](https://open.spotify.com/album/2icTuxL1jz7zgxUJKhnMKG) | 5:38 |
-| 65 | [Keep The Body Dancing \- Spatial Awareness Remix \(EDIT\)](https://open.spotify.com/track/7wHK1wnd7wEelsDMm3OyuI) | [Cozmic Cat](https://open.spotify.com/artist/5VzgwnVckvQk1ET9tyGeN2), [Spatial Awareness](https://open.spotify.com/artist/2OdmLaSN87wH3r7ilfaKmc) | [Keep The Body Dancing \[Spatial Awareness Remix \(EDIT\)\]](https://open.spotify.com/album/7nYROmlF9JQIpsUZ85Y6wC) | 3:37 |
+| 65 | [Keep The Body Dancing \- Spatial Awareness Remix \(EDIT\)](https://open.spotify.com/track/7wHK1wnd7wEelsDMm3OyuI) | [Cozmic Cat](https://open.spotify.com/artist/5VzgwnVckvQk1ET9tyGeN2), [Spatial Awareness](https://open.spotify.com/artist/2OdmLaSN87wH3r7ilfaKmc) | [Keep The Body Dancing \[Spatial Awareness Remix \(EDIT\)\]](https://open.spotify.com/album/7nYROmlF9JQIpsUZ85Y6wC) | 0:29 |
 | 66 | [Acid Dip](https://open.spotify.com/track/73Wrhs4NIuSXrmY2I2BNFp) | [Radio Slave](https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3) | [Acid Dip](https://open.spotify.com/album/2tiEFUO4ZykPhvopjijQFR) | 8:14 |
 | 67 | [Reality Check](https://open.spotify.com/track/4aYWokfaB9rypoUzg8d1Cq) | [Elisa Bee](https://open.spotify.com/artist/3S7HQV1qUD8yBppcFbsBfX) | [Reality Check EP](https://open.spotify.com/album/1orblUcZ8QrBgWJhQismw3) | 4:36 |
 | 68 | [Mystic Voices](https://open.spotify.com/track/5MIpIX9VjzPCJNOgpYsFwf) | [Sven Väth](https://open.spotify.com/artist/5TQaBSTOSypp7S4jfSnN3F) | [Mystic Voices](https://open.spotify.com/album/66fchoaJYtBH274HIUP6Bl) | 8:19 |

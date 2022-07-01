@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNsv9jSVI53.md) - [plain]
 
 > The official playlist for Russian Doll on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,730 likes - 26 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,768 likes - 26 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Gotta Get Up \- Remastered](https://open.spotify.com/track/1W6Ey5cxf0eljSaZnNVO5c) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Nilsson Schmilsson](https://open.spotify.com/album/4s2hhmQizU4FHtRU7dDzHP) | 2:23 |
 | 2 | [Personal Jesus \- Original Single Version](https://open.spotify.com/track/1xShPgQbOUa98avWJQFDBY) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Francois Kevorkian](https://open.spotify.com/artist/30ZqCPhfRzzWcgIbXrbHnU) | [Personal Jesus](https://open.spotify.com/album/2nsxERlQsbUOWBwaz8HCj8) | 3:44 |
 | 3 | [Bela Lugosi's Dead \(Official Version\)](https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [The Bela Session](https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1) | 9:36 |
-| 4 | [Mother](https://open.spotify.com/track/7txxAtOMwLLnQTpKeBL6bp) | [Danzig](https://open.spotify.com/artist/34c4iQ5tkaZKu6Sv28BTde) | [Danzig](https://open.spotify.com/album/3elIDlrTtrgKfbxYVgp3uW) | 3:24 |
+| 4 | [Mother](https://open.spotify.com/track/7txxAtOMwLLnQTpKeBL6bp) | [Danzig](https://open.spotify.com/artist/34c4iQ5tkaZKu6Sv28BTde) | [Danzig](https://open.spotify.com/album/3elIDlrTtrgKfbxYVgp3uW) | 0:29 |
 | 5 | [Get It While You Can](https://open.spotify.com/track/3dOfHE5J4Qsj1hJ35vnfn4) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Pearl \(Legacy Edition\)](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf) | 3:23 |
 | 6 | [Love in Outer Space](https://open.spotify.com/track/6elz4mq14CoLctixaxEs9J) | [Sun Ra](https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX) | [Haverford College, Jan\. 25, 1980 \(Solo Rhodes Piano\)](https://open.spotify.com/album/3wjjKm4yTANJvJwSm8oDxe) | 4:13 |
 | 7 | [Put A Straw Under Baby \- 2004 Digital Remaster](https://open.spotify.com/track/3FglRwYchsaJ4NURtnTMHq) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Taking Tiger Mountain \(By Strategy\)](https://open.spotify.com/album/1IMbtEVdtaFz0PPiq4brLZ) | 3:25 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNsv9jSVI53.md) - [plain]
 | 10 | [Sunday Morning](https://open.spotify.com/track/11607FzqoipskTsXrwEHnJ) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary](https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV) | 2:55 |
 | 11 | [Der Kommissar](https://open.spotify.com/track/3TBRJsLCcwroEkA3tD4u2N) | [Falco](https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW) | [Einzelhaft](https://open.spotify.com/album/4713DwyqNIrkyj17Q5Rsde) | 3:52 |
 | 12 | [Morgen](https://open.spotify.com/track/4Gy2ccb1lUzc5sNmwKtTFt) | [Ivo Robic](https://open.spotify.com/artist/6ouLM9uXt774BmPfmTzgX8) | [Izvorne Snimke 1949\. \- 1959.](https://open.spotify.com/album/3zZ53e51GTH3G3e36U7KnV) | 2:35 |
-| 13 | [MindKilla](https://open.spotify.com/track/6b1ja7rkQz9FUM7x79UH1i) | [Gang Gang Dance](https://open.spotify.com/artist/6UU6YXQaFGQToWN6U28Dcb) | [Eye Contact](https://open.spotify.com/album/4bq7GESFNztOvUBKpWeh6N) | 5:16 |
+| 13 | [MindKilla](https://open.spotify.com/track/6b1ja7rkQz9FUM7x79UH1i) | [Gang Gang Dance](https://open.spotify.com/artist/6UU6YXQaFGQToWN6U28Dcb) | [Eye Contact](https://open.spotify.com/album/4bq7GESFNztOvUBKpWeh6N) | 0:29 |
 | 14 | [Piano Concerto No\. 4 in G Major, Op\. 58: I\. Allegro moderato](https://open.spotify.com/track/626IyHboCqGtygvuS9ceyW) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Stefan Vladar](https://open.spotify.com/artist/3cYlHOewTtDhkVIaEKZsOl), [Capella Istropolitana](https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt), [Barry Wordsworth](https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN) | [Beethoven: Piano Concertos Nos\. 3 and 4](https://open.spotify.com/album/3N7JVK7eA99XraybwRR8iW) | 19:07 |
 | 15 | [99 Luftballons](https://open.spotify.com/track/4ZhPLoMzZwewHLLjV1J15c) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena](https://open.spotify.com/album/78hVLZZJhaXgrnfXKc6yxF) | 3:52 |
 | 16 | [Alan's Elevator](https://open.spotify.com/track/3aSIYlOsdQvGiP9f7t4Uyn) | [Joe Wong](https://open.spotify.com/artist/62TZuRSv7K8KK5BmL90K32), [Judy Kang](https://open.spotify.com/artist/5lLKVIJzQ5XyH4js5EHkoR) | [Russian Doll: Seasons 1 & 2 \(Music From The Netflix Original Series\)](https://open.spotify.com/album/0Dt08kWhZvV18tp4bALqWY) | 0:34 |

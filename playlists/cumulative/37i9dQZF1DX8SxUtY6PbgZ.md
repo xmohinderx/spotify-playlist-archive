@@ -4,7 +4,7 @@
 
 > Ambient at the movies; great atmospheric, ethereal film soundtracks.
 
-71 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/7uxp56zGiSEJTuIfzdU3G9)
+71 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/7uxp56zGiSEJTuIfzdU3G9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Slow 30's Room](https://open.spotify.com/track/03IBiVgBzhNrZSwES3Hyjf) | [David Lynch](https://open.spotify.com/artist/0WluQkhiQsQJ14sLXqDnVK), [Dean Hurley](https://open.spotify.com/artist/4gfOoXI9MWCyREzvqNv38D) | [Twin Peaks \(Limited Event Series Soundtrack\)](https://open.spotify.com/album/4dN8VmiUt9WVPDSReLWBvJ) | 2:06 | 2022-05-27 |  |
 | [Subway Coupon](https://open.spotify.com/track/3nPItFQ7CgTMVwj00wS2i3) | [Roger Neill](https://open.spotify.com/artist/5uIsAGdhVwyi5n2HAvlyk9) | [Three Months \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xwJiuypJQIJYgWjOrI3gy) | 1:00 | 2022-05-27 |  |
 | [Sunrise](https://open.spotify.com/track/0ATEEf6nfgpLXRKN9ETxnB) | [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [Texas Chainsaw Massacre \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5vbAIkPHM50aGUu41htjH2) | 1:30 | 2022-05-27 |  |
-| [Syriana](https://open.spotify.com/track/7m2JFqY9GRkHsEr6roBJ5j) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0), [The Hollywood Studio Symphony](https://open.spotify.com/artist/7EDsxqvVACibUGGHfMNjyK) | [Syriana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3TGwb4PjXElYap7ypqqFGs) | 2:28 | 2022-05-27 |  |
+| [Syriana](https://open.spotify.com/track/7m2JFqY9GRkHsEr6roBJ5j) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0), [The Hollywood Studio Symphony](https://open.spotify.com/artist/7EDsxqvVACibUGGHfMNjyK) | [Syriana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3TGwb4PjXElYap7ypqqFGs) | 0:29 | 2022-05-27 |  |
 | [The Alien](https://open.spotify.com/track/1FKeutbl2sFHk81ZQqR105) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [Annihilation \(Music from the Motion Picture\)](https://open.spotify.com/album/0zTrUccbI88qkwHvfpH9sP) | 12:03 | 2022-05-27 |  |
 | [The Anthill](https://open.spotify.com/track/4n5kRbXI5OJvZjHz4J9sj7) | [Federico Bisozzi](https://open.spotify.com/artist/16a53ClNidSSeOXww0IQcU), [Tomat](https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa) | [Mondocane \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Rcce6AQnDXcSe0jTZDO6e) | 4:10 | 2022-05-27 |  |
 | [The Beast \- From "Sicario"](https://open.spotify.com/track/5KwLjZ0oJ5kNl7jGtdiIOC) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Sicario \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04FRFSqcTfN9zfmFfzhbHn) | 3:13 | 2022-05-27 |  |

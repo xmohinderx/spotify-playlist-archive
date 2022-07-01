@@ -4,7 +4,7 @@
 
 > Grunge is still alive and kicking!
 
-127 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/2p1xJCKddTPywAIt8eJDFC)
+128 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/2p1xJCKddTPywAIt8eJDFC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Boring](https://open.spotify.com/track/3FfxSDPqcaUuisrMQmiheD) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Boring](https://open.spotify.com/album/6ScocnQZ8S77TH9iOKPY1o) | 3:28 | 2021-12-17 | 2022-04-15 |
 | [Budd Dwyer](https://open.spotify.com/track/3gHYnjMwFgCQ5Xb7iUkn1j) | [Money](https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s) | [Budd Dwyer](https://open.spotify.com/album/1JIVqdJwKrH9aQla7vIYwj) | 3:29 | 2022-02-03 | 2022-05-20 |
 | [Caught](https://open.spotify.com/track/46nccm1ZvlvHspOQHcPskS) | [Poly](https://open.spotify.com/artist/1MnE9cGhEaRAX9EzLtU9PS) | [Caught](https://open.spotify.com/album/1DKTP2s9fuYxUxiw84DYRI) | 4:29 | 2022-02-24 | 2022-04-15 |
+| [Chew Me Up \(feat\. Terrible Johnny\)](https://open.spotify.com/track/5VE9fM3rSpbFrqqgWJYgbk) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8), [Terrible Johnny](https://open.spotify.com/artist/4ekKTR0gTosJEoEcLd5RSZ) | [Introvert](https://open.spotify.com/album/1UB0WV9UwC1xaQY95c5md6) | 3:39 | 2022-06-30 |  |
 | [come down](https://open.spotify.com/track/011b6Tc8NDUNkEm2bkzn3u) | [Vandals in Sandals](https://open.spotify.com/artist/0uKyLLvgYZsxyErHM4xtYf) | [come down](https://open.spotify.com/album/4QsY8Rml3toMBNN5548lRz) | 3:29 | 2022-05-19 | 2022-06-10 |
 | [Cosmic Valentine](https://open.spotify.com/track/2HDmJpboIlFxzUTVQH4eR3) | [Bison Face](https://open.spotify.com/artist/3pixDiNj47jOH76s7RT32B) | [Cosmic Valentine](https://open.spotify.com/album/2ZgwAtZbALDHbBDbD7oyy2) | 4:24 | 2022-06-16 |  |
 | [Crimson Ocean](https://open.spotify.com/track/5fnRAEcr5w4WLgLcv0lcFN) | [YEAHRS](https://open.spotify.com/artist/0xT8wI8JgoOqFrCr5v96qd) | [Crimson Ocean](https://open.spotify.com/album/61Jxkak5VZdnMtKhTznVdi) | 2:08 | 2022-04-21 |  |
@@ -84,7 +85,7 @@
 | [Mid Life Crisis](https://open.spotify.com/track/4dl3miUk9mZQQPFvBJgqvd) | [Prince of Lilies](https://open.spotify.com/artist/3ml5rBwM6KDhpt13d2WGa5) | [Vent](https://open.spotify.com/album/6aOeKpbU5aPvuGxhWE9Qw3) | 3:17 | 2021-12-17 | 2022-02-18 |
 | [Mime the End](https://open.spotify.com/track/4VixwQOWUptGs1sF1YeEDS) | [False Heads](https://open.spotify.com/artist/2tZaXwpCHEhoVEBQuRI4vu) | [Mime the End](https://open.spotify.com/album/2JlflTRYDfkXcBPYOY0vEr) | 3:38 | 2022-05-26 |  |
 | [Misery](https://open.spotify.com/track/3Shp42UXTjXAuAGiRQWsxm) | [LOWLIVES](https://open.spotify.com/artist/7Hg9yStqSEaKmwPxFlWeE2) | [Misery](https://open.spotify.com/album/0MOaQ1G6zIigB6psGipXv6) | 4:20 | 2022-03-10 |  |
-| [Natalie](https://open.spotify.com/track/19sVo6XSeni1nVQW0eZuxt) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Married](https://open.spotify.com/album/7eqxIAAFY956TlrHH0xLEt) | 3:28 | 2021-12-17 |  |
+| [Natalie](https://open.spotify.com/track/19sVo6XSeni1nVQW0eZuxt) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Married](https://open.spotify.com/album/7eqxIAAFY956TlrHH0xLEt) | 0:29 | 2021-12-17 |  |
 | [New June](https://open.spotify.com/track/7pp3SrLJGodZnTqJgJ8yuo) | [Day Aches](https://open.spotify.com/artist/6fKJtGQ4ACpLgs1cqOMx3H) | [New June](https://open.spotify.com/album/5JUVj4w1m5YD2nQ5iHUmhd) | 2:41 | 2022-06-23 |  |
 | [Newspapers](https://open.spotify.com/track/0T6LqY3Cgi6xleNezgWgUE) | [A VOID](https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI) | [Newspapers](https://open.spotify.com/album/6f7SIfP6rVwLqEGQ3z1hBl) | 3:08 | 2022-04-07 |  |
 | [No More Lives To Go](https://open.spotify.com/track/7ECDF5Hjoxu4NTh0VBTjVO) | [Greg Puciato](https://open.spotify.com/artist/3seAlZdPsUKKveZltRG7wi) | [No More Lives To Go](https://open.spotify.com/album/6Lhqo42pxEeUI2mSNBeM1R) | 3:35 | 2022-06-23 |  |
@@ -131,7 +132,7 @@
 | [When](https://open.spotify.com/track/5FPume8BoV4Xf0bcE014OX) | [Strangers with Guns](https://open.spotify.com/artist/1xeBRN8R2Y9VytLrJRH86c) | [Become a Pope](https://open.spotify.com/album/33OYcxvtfYqQVFJNosWEMo) | 2:55 | 2021-12-17 |  |
 | [Wish](https://open.spotify.com/track/3mA1cadDiNvMB0QxbQ1TBJ) | [Heavenward](https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk) | [Wish](https://open.spotify.com/album/1J7XAldpm9f6tAudRrpA5t) | 4:12 | 2022-01-27 | 2022-06-10 |
 | [Xylene](https://open.spotify.com/track/5iyTWmZSy3w8DesV3FtfZ6) | [Ethereal](https://open.spotify.com/artist/0SolhJ6GwWLTkAFIfwWlfE) | [Xylene](https://open.spotify.com/album/0lFTG4Vc1BPdCc7igBgIDY) | 3:08 | 2021-12-17 | 2022-03-11 |
-| [Yank](https://open.spotify.com/track/2w0gMZl51XFQZicQFvAkLz) | [Hunter Oliveri](https://open.spotify.com/artist/1y3NQbmjuRQshFiRjiterz) | [Yank](https://open.spotify.com/album/7MgZvcVyiJmn0wMsWooUZ2) | 3:13 | 2021-12-17 |  |
+| [Yank](https://open.spotify.com/track/2w0gMZl51XFQZicQFvAkLz) | [Hunter Oliveri](https://open.spotify.com/artist/1y3NQbmjuRQshFiRjiterz) | [Yank](https://open.spotify.com/album/7MgZvcVyiJmn0wMsWooUZ2) | 3:13 | 2021-12-17 | 2022-07-01 |
 | [You Know Better](https://open.spotify.com/track/70qEtopkR96BvM5ek1Kt1r) | [Sad Heroes](https://open.spotify.com/artist/6wcGzkZa4zwU3cJxRs6seS) | [You Know Better](https://open.spotify.com/album/3dDS2DJ16DAjAB7TUVlZYx) | 3:13 | 2021-12-17 | 2022-06-24 |
 | [Your Funny Loneliness](https://open.spotify.com/track/6Ak6nieXA8NoZSkr0DZm9f) | [Alista](https://open.spotify.com/artist/61hCos6hISn5le08kOOkIc) | [Home Alone 2](https://open.spotify.com/album/2PHUZ3uafAdFzvZ3P1IMQi) | 3:41 | 2021-12-17 | 2022-02-25 |
 | [Yours](https://open.spotify.com/track/3ohzx3FNdRNEtBeJi1BEWx) | [Poly](https://open.spotify.com/artist/1MnE9cGhEaRAX9EzLtU9PS) | [Yours](https://open.spotify.com/album/3q1wmXImkOdZa9HA5N1Zfu) | 6:12 | 2022-01-27 |  |

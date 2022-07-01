@@ -4,12 +4,12 @@
 
 > Let these singers tug on your heartstrings with their amazing vocal performances.
 
-25 songs - 1 hr 43 min - [published](https://open.spotify.com/playlist/0InLeXcEiTrrb6BmColetg)
+25 songs - 1 hr 40 min - [published](https://open.spotify.com/playlist/0InLeXcEiTrrb6BmColetg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Case of You](https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 4:23 | 2013-11-06 |  |
-| [All In My Head](https://open.spotify.com/track/098tAg0yjz9ds5oys4MAPG) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Handmade Songs By Tori Kelly](https://open.spotify.com/album/0cKsaZeZ7zxJWmP8haVHuf) | 3:30 | 2013-11-05 |  |
+| [All In My Head](https://open.spotify.com/track/098tAg0yjz9ds5oys4MAPG) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Handmade Songs By Tori Kelly](https://open.spotify.com/album/0cKsaZeZ7zxJWmP8haVHuf) | 0:29 | 2013-11-05 |  |
 | [All\-American Girl](https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 3:32 | 2013-11-05 |  |
 | [Always Be My Baby](https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:18 | 2013-11-05 |  |
 | [At Your Best \(You Are Love\)](https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Age Ain't Nothing But A Number](https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl) | 4:51 | 2013-11-06 |  |

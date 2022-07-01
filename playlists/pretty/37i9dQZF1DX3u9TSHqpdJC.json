@@ -1,12 +1,12 @@
 {
   "description": "The best new pop music by independent artists. Updates every Wednesday. Cover: Yael Danon Artwork: Paola Saliby\n",
-  "num_followers": 162357,
+  "num_followers": 162615,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjQ3NTIwMCwwMDAwMDZhMjAwMDAwMTgxYWQ5ZGFhN2QwMDAwMDE4MWFjMmJjNTNj",
+  "snapshot_id": "MTY1NjU2MjY5NywwMDAwMDZhMzAwMDAwMTgxYjJkNGM2ZjUwMDAwMDE4MWFjMmJjNTNj",
   "tracks": [
     {
       "added_at": "2022-06-29 04:00:00",
@@ -135,22 +135,6 @@
       "duration_ms": 120000,
       "name": "Main Character",
       "url": "https://open.spotify.com/track/2iyPrCtdlawRkNi0i3YnGx"
-    },
-    {
-      "added_at": "2022-06-29 04:00:00",
-      "album": {
-        "name": "Direction",
-        "url": "https://open.spotify.com/album/3e5KJBihi1pXjCDYTzv1Y0"
-      },
-      "artists": [
-        {
-          "name": "KIAN",
-          "url": "https://open.spotify.com/artist/1TulCA2zO3YxAjQ7ZsvtDq"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Direction",
-      "url": "https://open.spotify.com/track/0p14fmhI7wcwX1pe0mhEXZ"
     },
     {
       "added_at": "2022-06-29 04:00:00",
@@ -1147,70 +1131,6 @@
       "duration_ms": 184774,
       "name": "Home",
       "url": "https://open.spotify.com/track/57oBl5Jzy76UWlmUazqzJx"
-    },
-    {
-      "added_at": "2022-05-18 00:00:00",
-      "album": {
-        "name": "service road to boston",
-        "url": "https://open.spotify.com/album/22DUfELsJ2y7UX6UkcjUjJ"
-      },
-      "artists": [
-        {
-          "name": "penelope Q",
-          "url": "https://open.spotify.com/artist/70ovkdfy4QSPHKJQ0Qy9zR"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "service road to boston",
-      "url": "https://open.spotify.com/track/67JsuQl85aNJYOG0WdbVK0"
-    },
-    {
-      "added_at": "2022-05-18 00:00:00",
-      "album": {
-        "name": "Everything I Want",
-        "url": "https://open.spotify.com/album/0DciyhOqYYTmt1JXpLyO7X"
-      },
-      "artists": [
-        {
-          "name": "Nic Jeffrey",
-          "url": "https://open.spotify.com/artist/4uTimfItmswM1V9V0j0QAl"
-        }
-      ],
-      "duration_ms": 168035,
-      "name": "Everything I Want",
-      "url": "https://open.spotify.com/track/41lsKcJiWdeEcVvlP9iRXU"
-    },
-    {
-      "added_at": "2022-05-18 00:00:00",
-      "album": {
-        "name": "Three Letters",
-        "url": "https://open.spotify.com/album/2CKD54NGdFMyJ8qivW1kvn"
-      },
-      "artists": [
-        {
-          "name": "Bella DeNapoli",
-          "url": "https://open.spotify.com/artist/5foJORZQ3Y1GA9he8RaitL"
-        }
-      ],
-      "duration_ms": 199609,
-      "name": "tbh",
-      "url": "https://open.spotify.com/track/3a4WQ3EeoKPmbyLNSpNXef"
-    },
-    {
-      "added_at": "2022-05-18 00:00:00",
-      "album": {
-        "name": "Bad Boys",
-        "url": "https://open.spotify.com/album/1ZWFezRkk8BpI3428J6JmT"
-      },
-      "artists": [
-        {
-          "name": "Link Lauren",
-          "url": "https://open.spotify.com/artist/6zN8SfYK7CaitT1XrHOhIN"
-        }
-      ],
-      "duration_ms": 206901,
-      "name": "Bad Boys",
-      "url": "https://open.spotify.com/track/1PBqGsDN2GF9fiWuOP8kXr"
     }
   ],
   "unique_name": "Fresh Finds Pop",

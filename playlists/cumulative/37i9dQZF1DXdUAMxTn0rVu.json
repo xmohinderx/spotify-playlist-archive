@@ -201,7 +201,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 191720,
       "name": "Behind Closed Doors",
       "url": "https://open.spotify.com/track/5AD44maUoBRU4UHdD25wGF"
@@ -285,8 +285,8 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
-      "duration_ms": 281592,
+      "date_removed": null,
+      "duration_ms": 29048,
       "name": "Bonafide (feat. Jay-Z) - Bonus Track",
       "url": "https://open.spotify.com/track/07oV92wFjUOLFeKzjtUQ2I"
     },
@@ -322,7 +322,7 @@
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 346666,
+      "duration_ms": 29048,
       "name": "Brown Skin Lady",
       "url": "https://open.spotify.com/track/3Mz4AoWIedMfzCib1LYwMZ"
     },
@@ -415,7 +415,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 211892,
       "name": "Climax",
       "url": "https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 321293,
       "name": "Concrete Schoolyard",
       "url": "https://open.spotify.com/track/0dtVSZDRv6PorrnX0cbFT7"
@@ -737,7 +737,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 180066,
       "name": "Forest Whitiker",
       "url": "https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ"
@@ -817,7 +817,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 276960,
       "name": "Gettin' Closer to God",
       "url": "https://open.spotify.com/track/0sdgkO6TP624IIDEbiajsx"
@@ -972,6 +972,28 @@
     },
     {
       "album": {
+        "name": "The Future Is Now",
+        "url": "https://open.spotify.com/album/553dWgdmE89xioa8E7ftjD"
+      },
+      "artists": [
+        {
+          "name": "Non Phixion",
+          "url": "https://open.spotify.com/artist/0bWOVEEzzkEIqsSZoXt8KW"
+        },
+        {
+          "name": "ILL Bill",
+          "url": "https://open.spotify.com/artist/1mMjwoytmHP5dTJbIQxN4V"
+        }
+      ],
+      "date_added": "2021-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 29048,
+      "name": "If You Got Love",
+      "url": "https://open.spotify.com/track/3lUFS9JWltJckovUrFbZqA"
+    },
+    {
+      "album": {
         "name": "The Underground Tapes",
         "url": "https://open.spotify.com/album/1SFbOwVUkUwtkO2r47YX3j"
       },
@@ -1031,7 +1053,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 296986,
       "name": "Just Call My Name",
       "url": "https://open.spotify.com/track/5NRWFS53PZeS2tpcBvx4lH"
@@ -1507,7 +1529,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 239973,
       "name": "Rock Stars",
       "url": "https://open.spotify.com/track/2WYZfrZJX2YSFXW29tpHrV"
@@ -1569,7 +1591,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 251826,
       "name": "Sincerely",
       "url": "https://open.spotify.com/track/6VpypBnMQyP8iH2hAXaAHX"
@@ -1896,7 +1918,7 @@
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 222440,
+      "duration_ms": 29048,
       "name": "Thick",
       "url": "https://open.spotify.com/track/7ImXlOjKprb3ADIeSTqHmg"
     },
@@ -1914,7 +1936,7 @@
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 311960,
+      "duration_ms": 29048,
       "name": "Thieves In The Night",
       "url": "https://open.spotify.com/track/7tx1TUJrT6qxXFXAELqbev"
     },
@@ -1971,7 +1993,7 @@
       ],
       "date_added": "2021-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 221640,
       "name": "True Honey Buns (Dat Freak Shit)",
       "url": "https://open.spotify.com/track/5zhA0hcJGQmiFkGtx19eOT"
@@ -2065,7 +2087,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 234013,
       "name": "Watch Me",
       "url": "https://open.spotify.com/track/7htuNpZWosnto4wXMkKYZk"
@@ -2091,7 +2113,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 240426,
       "name": "Western Ways, Pt. 2 (La Seleccion)",
       "url": "https://open.spotify.com/track/0dUKYPzjFe0tJYCKf3USWi"
@@ -2145,7 +2167,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 239413,
       "name": "Whirlwind Thru Cities",
       "url": "https://open.spotify.com/track/7EZOcCGTHCXTLFtax2VUsU"
@@ -2181,7 +2203,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 177120,
       "name": "Workinonit",
       "url": "https://open.spotify.com/track/33T6ABvdB3P2iYOWJnBjsQ"
@@ -2217,7 +2239,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 215973,
       "name": "Worst Comes To Worst - Edited",
       "url": "https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw"

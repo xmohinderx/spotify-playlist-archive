@@ -4,7 +4,7 @@
 
 > Indie folk songs to help your worries get lost in the woods.
 
-86 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/12qj7nmKMmqOvYGEIlOdxB)
+86 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/12qj7nmKMmqOvYGEIlOdxB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Gin & Tonics](https://open.spotify.com/track/2yyDkQwTDkrf9B6t53dgb6) | [George David](https://open.spotify.com/artist/1NXtGiEomSRw1p2sxpIzft) | [Gin & Tonics](https://open.spotify.com/album/4mwPWJ52L7ZZ06QNoQxrza) | 2:31 | 2022-05-20 |  |
 | [Give Me A Minute](https://open.spotify.com/track/0d0iBmyaaywSWyEjN9NQla) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 2:37 | 2022-04-08 |  |
 | [Give Me Love](https://open.spotify.com/track/1xFGvwqlCx7vnCkviqon4J) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Give Me Love](https://open.spotify.com/album/0Gg7esLkSTocFYZBt1WPsP) | 3:14 | 2022-04-08 |  |
-| [Hallelujah I Love Her So](https://open.spotify.com/track/6chbqElEHkFSRDJpEydK2H) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Hallelujah I Love Her So](https://open.spotify.com/album/4KkR1fwO3tgHfhsKRgfFuf) | 2:43 | 2022-04-08 |  |
+| [Hallelujah I Love Her So](https://open.spotify.com/track/6chbqElEHkFSRDJpEydK2H) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Hallelujah I Love Her So](https://open.spotify.com/album/4KkR1fwO3tgHfhsKRgfFuf) | 0:29 | 2022-04-08 |  |
 | [Harvest Moon](https://open.spotify.com/track/0vd9oVF2YwYMm6uD4VoKcm) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [Harvest Moon](https://open.spotify.com/album/5AhUi3hCsj7fUfkonM9KlV) | 3:05 | 2022-05-20 |  |
 | [Hearts That Pound Like Yours](https://open.spotify.com/track/5pv7m6jR9YanJsOelgPXXt) | [Joschko](https://open.spotify.com/artist/2e0VwUHIkR3USVL6GomQ0i) | [Hearts That Pound Like Yours](https://open.spotify.com/album/4J7zHXQyKKUSOpha3swQle) | 3:46 | 2022-04-08 |  |
 | [High Moon](https://open.spotify.com/track/5g7kNKE5PK1XNBuVQ6mVyf) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [High Moon](https://open.spotify.com/album/4lId9PZ1NyhAb3Tk1NfetV) | 3:51 | 2022-04-08 |  |
@@ -70,7 +70,7 @@
 | [Puddles](https://open.spotify.com/track/3KFpR2l3h9vwv1Zw5EBqKM) | [Amie Huckstep](https://open.spotify.com/artist/1TT1manwItsb5Z1MHKHdHw) | [Puddles](https://open.spotify.com/album/3Xjnbbd3dTrX8kXFALr7Vc) | 3:25 | 2022-04-08 | 2022-05-21 |
 | [racing raindrops](https://open.spotify.com/track/4A2Y5ElDIuDT4e4KGLVtcy) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [racing raindrops](https://open.spotify.com/album/0w51CRLGBRdOnDOr0oBlqV) | 3:36 | 2022-04-08 |  |
 | [Rain Boys \- Edit](https://open.spotify.com/track/4zp0Cg5h3pDvBf6lSJo2qK) | [A\. Smyth](https://open.spotify.com/artist/1W8wCW1bueJLSneFMyYReA) | [Rain Boys \(Edit Version\)](https://open.spotify.com/album/0drQjB1NBwkmp1O0lU67OK) | 3:40 | 2022-04-08 |  |
-| [Rest](https://open.spotify.com/track/1yxiUqnKMOBKtMa3qHme3V) | [Trev](https://open.spotify.com/artist/3YugT4RsrpRfb6DdeIA4Wv) | [I Have Hope](https://open.spotify.com/album/4nepn7zOSio2f9VYWBMsyy) | 2:31 | 2022-04-08 |  |
+| [Rest](https://open.spotify.com/track/1yxiUqnKMOBKtMa3qHme3V) | [Trev](https://open.spotify.com/artist/3YugT4RsrpRfb6DdeIA4Wv) | [I Have Hope](https://open.spotify.com/album/4nepn7zOSio2f9VYWBMsyy) | 0:29 | 2022-04-08 |  |
 | [Save Tonight](https://open.spotify.com/track/4kG6Rt94q7eJaikOFrqsTn) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Save Tonight](https://open.spotify.com/album/2SaLXyTTBlIZCLuAQ2c4ne) | 4:30 | 2022-04-08 | 2022-05-21 |
 | [See You Soon](https://open.spotify.com/track/2OdqJAQFY84ZQAaFbczULE) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [See You Soon](https://open.spotify.com/album/6uYNAmDsREjFET28WNsqLM) | 2:51 | 2022-04-08 |  |
 | [Smoke](https://open.spotify.com/track/24Avnz5JAgVmH0xNBsXUvH) | [Rona Mac](https://open.spotify.com/artist/0FMzSeL7vGgUfFqkBk9FaF) | [Smoke](https://open.spotify.com/album/6bbFvcKFbe4xqSxGzyIegJ) | 3:38 | 2022-04-08 |  |

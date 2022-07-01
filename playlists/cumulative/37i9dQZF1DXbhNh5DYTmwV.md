@@ -4,7 +4,7 @@
 
 > ¡Las canciones más chéveres están sonando aquí!
 
-61 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/2gT9p9h2AT84oVHAfgpUfs)
+61 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/2gT9p9h2AT84oVHAfgpUfs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Caraluna \- Re\-Recorded](https://open.spotify.com/track/3SFyIYRWUdeWHBGAwaGyp0) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Caraluna \(Re\-Recorded\)](https://open.spotify.com/album/7mmyLE5xwhRdLueevecKsu) | 4:34 | 2022-05-17 |  |
 | [Carito](https://open.spotify.com/track/5czkBkWogUvTf2jleGyHaQ) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Dejame Entrar](https://open.spotify.com/album/7qRqrZOCvzZLsNlOawHURC) | 3:38 | 2022-05-17 |  |
 | [Chica Ideal](https://open.spotify.com/track/21N4Buj4xsyLb218lYle61) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Chica Ideal](https://open.spotify.com/album/7aS92ROK5rixV65VSRGPct) | 3:03 | 2022-05-17 |  |
-| [Colgando en tus manos \(con Marta Sánchez\)](https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [De mi puño y letra \- Edicion Coleccionista](https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs) | 3:50 | 2022-05-17 |  |
+| [Colgando en tus manos \(con Marta Sánchez\)](https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [De mi puño y letra \- Edicion Coleccionista](https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs) | 0:29 | 2022-05-17 |  |
 | [Con la Misma Moneda](https://open.spotify.com/track/7uxnFapaeICZNrr73vFPUX) | [Josimar y Su Yambú](https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs) | [A Lo Perucho](https://open.spotify.com/album/47vWC16meym2a7mYc1iQnO) | 5:22 | 2022-05-17 |  |
 | [Conquista](https://open.spotify.com/track/5ggqIFvnoswPWPEOsbuEi7) | [Jerau](https://open.spotify.com/artist/39YL6FS5gUvd8DCTV9FfSP), [Sandro Saga](https://open.spotify.com/artist/750HPQc7msH8oQTEtBXV03) | [De Fiesta y Enamorado](https://open.spotify.com/album/3xpurWwnP0ufKMR9osTwxK) | 3:40 | 2022-05-17 |  |
 | [Darte Amor](https://open.spotify.com/track/2mRR0tx9H7Lv0F9K8vkN76) | [Jordy Jill](https://open.spotify.com/artist/10IxurTiAiRppIUcayF5iV), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Darte Amor](https://open.spotify.com/album/2oa9HE9v0bhf3pXqZcrrcS) | 3:09 | 2022-05-17 |  |

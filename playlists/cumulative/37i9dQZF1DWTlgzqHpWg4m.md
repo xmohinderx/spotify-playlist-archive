@@ -4,7 +4,7 @@
 
 > Bands from and songs about The Golden State\. Here's your playlist for California Dreamin'
 
-76 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/4SbwVdVItzfdu5SIZ5qyZY)
+76 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/4SbwVdVItzfdu5SIZ5qyZY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Circadian Rhythm \(Last Dance\)](https://open.spotify.com/track/4ud5egyDjm6KAsyORTOfT1) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Better Nature](https://open.spotify.com/album/60pMcCyionfgX5ygfwZRBh) | 3:49 | 2018-09-09 |  |
 | [City Of Angels](https://open.spotify.com/track/5X3idhF42DgoGVn7zgCNQi) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [LOVE LUST FAITH + DREAMS](https://open.spotify.com/album/6sLmmgVGbD9F77ullf692G) | 5:02 | 2018-09-09 |  |
 | [Dani California](https://open.spotify.com/track/6vODhpvfWwdsO0i9MBWnEq) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Dani California](https://open.spotify.com/album/3rrvHWzZCF8TvqT9oJtfVZ) | 4:42 | 2018-09-09 |  |
-| [Doesn't Remind Me](https://open.spotify.com/track/2xVTJylqgOdEX7auZ0xLn9) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Out of Exile](https://open.spotify.com/album/7hmAnyHf8NAnqb7cqLT04t) | 4:15 | 2018-09-09 |  |
+| [Doesn't Remind Me](https://open.spotify.com/track/2xVTJylqgOdEX7auZ0xLn9) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Out of Exile](https://open.spotify.com/album/7hmAnyHf8NAnqb7cqLT04t) | 0:29 | 2018-09-09 |  |
 | [Don't Speak](https://open.spotify.com/track/5PsUB0ISfQxRLhF5DmI5Ks) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/4Rvc82pV7HCKZyRHbLWCac) | 4:23 | 2018-09-09 |  |
 | [Drive](https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:52 | 2018-09-09 |  |
 | [Every Morning](https://open.spotify.com/track/2ouURa1AIXp3AvkS52Jry5) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [14:59](https://open.spotify.com/album/43NNW7iDuAE8pIouzvwWWi) | 3:39 | 2018-09-09 |  |
@@ -59,7 +59,7 @@
 | [Loser](https://open.spotify.com/track/4b8GTae6rqb9oPiRzVa3Gy) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/7MKi8PuCX5QJtaG9wLbOI2) | 3:54 | 2018-09-09 |  |
 | [Lost In Hollywood](https://open.spotify.com/track/5rHCsJAosL3718KJBWOOTR) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Mezmerize](https://open.spotify.com/album/5F2uZcRz9zWASUYswCgwHl) | 5:20 | 2018-09-09 |  |
 | [Miss Murder](https://open.spotify.com/track/6A5M31nKvt6GYaGL7XpX2w) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/58M3z3OMcaFtWbPJS5Bb0W) | 3:26 | 2018-09-09 |  |
-| [Mr\. Jones](https://open.spotify.com/track/4q5cQyhhUW5X0PQVzA8VsG) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [August And Everything After](https://open.spotify.com/album/3Eli3WxEALRUBF06CvcDtV) | 4:32 | 2018-09-09 |  |
+| [Mr\. Jones](https://open.spotify.com/track/4q5cQyhhUW5X0PQVzA8VsG) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [August And Everything After](https://open.spotify.com/album/3Eli3WxEALRUBF06CvcDtV) | 0:29 | 2018-09-09 |  |
 | [My Body](https://open.spotify.com/track/1KDYN3odJHnj9pqGHN3FVs) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Young The Giant \(Special Edition\)](https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse) | 4:04 | 2018-09-09 |  |
 | [My Own Worst Enemy](https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z) | [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp) | [A Place In The Sun](https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp) | 2:49 | 2018-09-09 |  |
 | [My Type](https://open.spotify.com/track/2DFi8rwHcVkTTgu7PULhtI) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type](https://open.spotify.com/album/3FkPbizteyMJfT2tLyvnkE) | 3:26 | 2018-09-09 |  |

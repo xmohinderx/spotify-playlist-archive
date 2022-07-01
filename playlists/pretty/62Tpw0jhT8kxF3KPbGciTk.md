@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/62Tpw0jhT8kxF3KPbGciTk.md) - [plain]
 
 > As the snow falls outside, cozy up and relax with this collection of soothing acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 959 likes - 104 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 959 likes - 104 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/62Tpw0jhT8kxF3KPbGciTk.md) - [plain]
 | 33 | [Sleet and Snow](https://open.spotify.com/track/19PbVUTpF75SeZQpTEUJwM) | [My First Tooth](https://open.spotify.com/artist/2mtHReEeM2MuBaWSY3stG8) | [Sleet and Snow](https://open.spotify.com/album/6IvRuTNcTlPaIosiVlY8Nx) | 3:18 |
 | 34 | [I'd Let You Win](https://open.spotify.com/track/6ydETtTdrGUHyV7sVv8h8B) | [Little Bear](https://open.spotify.com/artist/1NfaYYv3vGwi1ALG33oiLw) | [I'd Let You Win](https://open.spotify.com/album/1uQNUfVLYt0wix2IxTVhmV) | 3:59 |
 | 35 | [Snowy Atlas Mountains](https://open.spotify.com/track/751OK8UcGOZZAbs5XbErCs) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The End Of History](https://open.spotify.com/album/3AiBzMGzdk5QQWLWRhXUTz) | 4:11 |
-| 36 | [Your Soul](https://open.spotify.com/track/1QxqhELF8bYIBSAs3258ib) | [Iwan Rheon](https://open.spotify.com/artist/0Q2mYJ2ur4Hb0AmZjcGMIl) | [Bang!Bang!](https://open.spotify.com/album/5gDLZJbhn7jk15y6ziqdEC) | 3:12 |
+| 36 | [Your Soul](https://open.spotify.com/track/1QxqhELF8bYIBSAs3258ib) | [Iwan Rheon](https://open.spotify.com/artist/0Q2mYJ2ur4Hb0AmZjcGMIl) | [Bang!Bang!](https://open.spotify.com/album/5gDLZJbhn7jk15y6ziqdEC) | 0:29 |
 | 37 | [Winter Grass](https://open.spotify.com/track/1CJWt9xG7o1hCt4wILGWqw) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Thin](https://open.spotify.com/album/7z3uh23KJCyppUMkYwiHLn) | 2:26 |
 | 38 | [Rivers](https://open.spotify.com/track/4GVE4JrH7tKz2EloXU3BYC) | [Allman Brown](https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN), [Robyn Sherwell](https://open.spotify.com/artist/6vjYF7rDvsWBtHnPgBmJvs) | [Rivers](https://open.spotify.com/album/5t2wPuAKipiE4m7FozO7l7) | 3:31 |
 | 39 | [The Colder Months](https://open.spotify.com/track/67wzWn2jhK3lqxzIhDtrjm) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [The Colder Months](https://open.spotify.com/album/2e0UF1lwDIhvbpEY3hlog1) | 4:45 |

@@ -4,7 +4,7 @@
 
 > Soundtrack your 2022 resolutions with Corey Calliet.
 
-59 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/71iiAy84h7BLNDLGpturJS)
+59 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/71iiAy84h7BLNDLGpturJS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Slum Anthem](https://open.spotify.com/track/6225vlQNgif1W5dE5KN6Y6) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Slum Anthem](https://open.spotify.com/album/1CE7PVOYrG97ENpHpgTpLb) | 2:51 | 2022-01-12 |  |
 | [Solid \(feat\. Drake\)](https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 3:35 | 2022-01-12 |  |
 | [Straightenin](https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Straightenin](https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51) | 4:15 | 2022-01-12 |  |
-| [Texas Cyclone](https://open.spotify.com/track/2oFdrFpXDgPcszmfWaKboI) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Sauce Ghetto Gospel 2](https://open.spotify.com/album/0VtMPojCVDeVpSYDi2cLZA) | 2:12 | 2022-01-12 |  |
+| [Texas Cyclone](https://open.spotify.com/track/2oFdrFpXDgPcszmfWaKboI) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Sauce Ghetto Gospel 2](https://open.spotify.com/album/0VtMPojCVDeVpSYDi2cLZA) | 0:29 | 2022-01-12 |  |
 | [Tha Block Is Hot](https://open.spotify.com/track/6wCbHb0QEEdka3ymfImn4l) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Block Is Hot](https://open.spotify.com/album/75s3OxagI6DX8OKLKymPLN) | 4:12 | 2022-01-12 |  |
 | [The Best Part of Life](https://open.spotify.com/track/0kUz4NuENHYVUChlthlNaB) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [The Best Part of Life](https://open.spotify.com/album/3TrtHC3Pq5wtbbiGspOxWq) | 3:16 | 2022-01-12 |  |
 | [The Box](https://open.spotify.com/track/4qGH4WXDxZXiSg7pF7pFZH) | [Bri\-Yan](https://open.spotify.com/artist/2wtZllaayaA3oR5IQwD2vb), [Corey Calliet](https://open.spotify.com/artist/5hjjcJQjHF1Iksl9dLeY8g) | [The Box](https://open.spotify.com/album/0oxCe6x9gyDz1qukzO3G0H) | 2:20 | 2022-01-12 |  |

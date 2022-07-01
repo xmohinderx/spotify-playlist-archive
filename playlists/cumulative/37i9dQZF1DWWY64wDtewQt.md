@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-195 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/6fzpM1WKSBsd9hRYXVIwxm)
+195 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/6fzpM1WKSBsd9hRYXVIwxm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [PANIC ATTACK](https://open.spotify.com/track/6tjkJl07lT5J2fwlPRGxzx) | [PANICX](https://open.spotify.com/artist/10YuCxpdt8MPz5L2SxiYlx) | [PANIC ATTACK](https://open.spotify.com/album/0WavkEF6HWaWT23roT9BAY) | 1:22 | 2022-05-27 |  |
 | [PHONK DRIFT](https://open.spotify.com/track/7tnZeFwXzXBKHghbG0sIJk) | [PHONK WALKER](https://open.spotify.com/artist/4DotIIZU4xta9EFAMvO6Kx) | [PHONK DRIFT](https://open.spotify.com/album/3kFemglWwqnQSN795hceK7) | 1:57 | 2021-09-24 | 2022-04-05 |
 | [PHONK PLAYA](https://open.spotify.com/track/6cfXDZ2PTumjbCe5EjtlUK) | [Hkmk](https://open.spotify.com/artist/0Tze8Gw1ML0ApNSPytouXg), [PHONK SZN](https://open.spotify.com/artist/2WjsdfghIaePmjpv5g0OzX) | [PHONK PLAYA](https://open.spotify.com/album/5hdkz29DJOXdnrPGCRDL1Z) | 1:56 | 2021-12-17 | 2022-01-15 |
-| [Phonk Save the World](https://open.spotify.com/track/7G07J1fpapkm5j9XsE3C1W) | [Hikki Gaya](https://open.spotify.com/artist/0lkQpwtSrw1KdJNSCVAzCC) | [Phonk Save the World](https://open.spotify.com/album/6PNCpyW04F6Bhslj8keoZV) | 2:03 | 2022-01-14 |  |
+| [Phonk Save the World](https://open.spotify.com/track/7G07J1fpapkm5j9XsE3C1W) | [Hikki Gaya](https://open.spotify.com/artist/0lkQpwtSrw1KdJNSCVAzCC) | [Phonk Save the World](https://open.spotify.com/album/6PNCpyW04F6Bhslj8keoZV) | 0:29 | 2022-01-14 |  |
 | [Phonk666](https://open.spotify.com/track/6cK2drtAlODxRxEQmaaMRP) | [Yavomag](https://open.spotify.com/artist/7n0FLC0AmAsdOb30OAzRzz) | [Phonk666](https://open.spotify.com/album/39o5MZ9vtDcZPiBCImFuOl) | 1:30 | 2021-05-12 | 2022-02-05 |
 | [PHONKY TOWN](https://open.spotify.com/track/0BRbI3ZMPXuj9yA7ChDGOW) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [PHONKY TOWN](https://open.spotify.com/album/3e6HcRWTkyGi6dA0Zg5pxw) | 2:21 | 2021-05-12 |  |
 | [Pleasure](https://open.spotify.com/track/56DUuT3T0rKQsq0NH2jY5y) | [OGNEYAR](https://open.spotify.com/artist/5VNFlLgFFTUOLOVNAkIJdc) | [Pleasure](https://open.spotify.com/album/5LEAEsMHNT8rxrP4QOro9Y) | 2:18 | 2021-10-15 | 2022-02-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIlyW5yvFjI.md) - [plain]
 
 > Beautiful noise: when Shoegaze goes Ambient.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,295 likes - 73 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,303 likes - 73 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIlyW5yvFjI.md) - [plain]
 | 46 | [Angel of the North \- Ambient World Version](https://open.spotify.com/track/3rAGUmYFPCTTe6lxiciLr0) | [Bing Satellites](https://open.spotify.com/artist/0K6ADYj3sxtqPrqyTq400i) | [The Ambient World of Bing Satellites, Vol\. 2 \(Ambient World Version\)](https://open.spotify.com/album/5lGytwtFhT25XEOnAengTU) | 9:07 |
 | 47 | [Under the Sun](https://open.spotify.com/track/4rjKvGbEHDPT9352LU5Sxw) | [Bowery Electric](https://open.spotify.com/artist/6a27jEzxHDgONdmADAGcej) | [Beat](https://open.spotify.com/album/6jbGBeBtwD05O0EV9RFjlC) | 3:32 |
 | 48 | [Always the Same](https://open.spotify.com/track/5WvdYgEJaXs1rQ3HCHharT) | [Indoor Voices](https://open.spotify.com/artist/6D56w3oYBWaQWjAfhJKUhK) | [Gaslight Ephemera](https://open.spotify.com/album/7LX12xt3i8XgtrO1po951K) | 5:09 |
-| 49 | [Blooded and Blossom\-blown](https://open.spotify.com/track/15x9WXAz8YHrGfibgsirdN) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [xuvetyn](https://open.spotify.com/album/2LkJyutWxt9P2DKs24kzS0) | 6:07 |
+| 49 | [Blooded and Blossom\-blown](https://open.spotify.com/track/15x9WXAz8YHrGfibgsirdN) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [xuvetyn](https://open.spotify.com/album/2LkJyutWxt9P2DKs24kzS0) | 0:29 |
 | 50 | [Essence \- Remastered 2006](https://open.spotify.com/track/11Lg1kcLZoolR3L28OIbZ7) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Four Calender Cafe](https://open.spotify.com/album/7y86FI2Dk9UjNjfIieWyvX) | 3:01 |
 | 51 | [Signals](https://open.spotify.com/track/1qnyUXmLgN9Se3ZUMXDS8G) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Quique](https://open.spotify.com/album/3r5NrFdXR5yr4HgVoTtklt) | 5:47 |
 | 52 | [Cello](https://open.spotify.com/track/2xuMKDZ3RJj0CWpKSReVpm) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Pygmalion](https://open.spotify.com/album/7n7VUw9XFam4zMT7zn99tq) | 1:33 |
@@ -80,6 +80,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIlyW5yvFjI.md) - [plain]
 | 70 | [Madras](https://open.spotify.com/track/1qonmVNS6e8Ctec0iPqTqD) | [Love Spirals Downwards](https://open.spotify.com/artist/2REmfbf3d1N9lOuULAYihA) | [Ever](https://open.spotify.com/album/5xnob4RxNiFr2FPvjO1mla) | 6:10 |
 | 71 | [The Ghost Has No Home](https://open.spotify.com/track/0rtfF7pfVYD5nvBQ1mPRsD) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies](https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo) | 7:35 |
 | 72 | [Popol Vuh 2](https://open.spotify.com/track/7uIEEymPrIjXZykQQGyhXt) | [Flying Saucer Attack](https://open.spotify.com/artist/336fB3AJgK8AvHX5bD8d9A) | [Flying Saucer Attack](https://open.spotify.com/album/61unsjt9ZxVSYLNEtFxe0Q) | 5:01 |
-| 73 | [Valerian \(her voice honeyed\)](https://open.spotify.com/track/2kMIvpGaR9R029KX6CTIci) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [xuvetyn](https://open.spotify.com/album/2LkJyutWxt9P2DKs24kzS0) | 5:58 |
+| 73 | [Valerian \(her voice honeyed\)](https://open.spotify.com/track/2kMIvpGaR9R029KX6CTIci) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [xuvetyn](https://open.spotify.com/album/2LkJyutWxt9P2DKs24kzS0) | 0:29 |
 
 Snapshot ID: `MTY0OTQyNjc0NiwwMDAwMDAxMzAwMDAwMTgwMDk3ZWNlNmIwMDAwMDE3ZDM4MjdkYWI5`

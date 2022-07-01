@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: Charles Lloyd
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,194 likes - 37 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,260 likes - 37 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

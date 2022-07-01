@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "This is the new core at its finest. Cover: Motionless in White",
+  "description": "This is the new core at its finest. Cover: Miss May I",
   "name": "New Core",
   "published_playlist_ids": [
     "3WEyotDPwbgzHjigMpDgbN"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 214444,
       "name": "Alien",
       "url": "https://open.spotify.com/track/68jpsRP9mKCcgCcf7j5wwF"
@@ -553,7 +553,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 212480,
       "name": "Better Than You",
       "url": "https://open.spotify.com/track/5NFXZaUersjjJuIqPbOlhF"
@@ -611,7 +611,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 221266,
       "name": "Black Gold",
       "url": "https://open.spotify.com/track/1lIvriL7jNztn6JaU5saJc"
@@ -741,6 +741,24 @@
       "duration_ms": 189769,
       "name": "Brain Dead",
       "url": "https://open.spotify.com/track/4T2JpmTXNEZ6SxxXyNaK1q"
+    },
+    {
+      "album": {
+        "name": "Break Me Down",
+        "url": "https://open.spotify.com/album/5rwNN6KSg9pngqKr3eu3wt"
+      },
+      "artists": [
+        {
+          "name": "Cemetery Sun",
+          "url": "https://open.spotify.com/artist/2LiLNsS5rRWmnOSQM5F8Zz"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208228,
+      "name": "Break Me Down",
+      "url": "https://open.spotify.com/track/4Qgmwp20QeC0LFVK7cLo7v"
     },
     {
       "album": {
@@ -1298,6 +1316,24 @@
     },
     {
       "album": {
+        "name": "Rage",
+        "url": "https://open.spotify.com/album/1PbfLW19jXBEwveMzJqBRk"
+      },
+      "artists": [
+        {
+          "name": "Bleeding Through",
+          "url": "https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207627,
+      "name": "Damage Done",
+      "url": "https://open.spotify.com/track/3akrI54x0JHbERhlCT35bZ"
+    },
+    {
+      "album": {
         "name": "Damage Plan",
         "url": "https://open.spotify.com/album/1QCgurPzNCDiHr0uZiqjWc"
       },
@@ -1581,7 +1617,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 268213,
       "name": "Demons Looming Over You",
       "url": "https://open.spotify.com/track/74uycdRYq807l6utYSbJ0H"
@@ -1758,6 +1794,24 @@
     },
     {
       "album": {
+        "name": "Earth Shaker",
+        "url": "https://open.spotify.com/album/1pNsCcIhnP2wBeLmBWgB72"
+      },
+      "artists": [
+        {
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203653,
+      "name": "Earth Shaker",
+      "url": "https://open.spotify.com/track/3EytQKQcbsuZrXTrpFcL4P"
+    },
+    {
+      "album": {
         "name": "Earthquake",
         "url": "https://open.spotify.com/album/7ipDIQx6f6t0cuyoCFYDr1"
       },
@@ -1841,7 +1895,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 233309,
       "name": "EYE TO EYE",
       "url": "https://open.spotify.com/track/532PgIpf93c12uY9SAWheS"
@@ -2030,6 +2084,24 @@
     },
     {
       "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/0aT6W0YSIzX0mnIOsQSeJc"
+      },
+      "artists": [
+        {
+          "name": "Citizen Soldier",
+          "url": "https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188057,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/2FpylwTwA3dDi9eHbqHPIN"
+    },
+    {
+      "album": {
         "name": "Fixated",
         "url": "https://open.spotify.com/album/3pUQbAVwZskngdbQEUN8o4"
       },
@@ -2063,7 +2135,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 190545,
       "name": "Forever Yours",
       "url": "https://open.spotify.com/track/42QjPSl9BLQ6X0ciDJXMpD"
@@ -3032,7 +3104,7 @@
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 252000,
+      "duration_ms": 29048,
       "name": "Low",
       "url": "https://open.spotify.com/track/1HG4TOUb5ETGmd6mJAwQrZ"
     },
@@ -3121,7 +3193,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 251722,
       "name": "Masochist",
       "url": "https://open.spotify.com/track/0TN52OMfh6juOo5vIQCDG1"
@@ -3346,7 +3418,7 @@
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 234080,
+      "duration_ms": 29048,
       "name": "Nighthawk",
       "url": "https://open.spotify.com/track/1t1Hn5Zo6PwuIHCYxa4Agl"
     },
@@ -3421,6 +3493,28 @@
       "duration_ms": 221626,
       "name": "Numb",
       "url": "https://open.spotify.com/track/4xOZuV9hKj0uaRgegNaE5F"
+    },
+    {
+      "album": {
+        "name": "NWWM",
+        "url": "https://open.spotify.com/album/62P9pQQM3XNuM7RNSd1PEm"
+      },
+      "artists": [
+        {
+          "name": "Borders",
+          "url": "https://open.spotify.com/artist/4LlvZpSkapl3vj704A7XKO"
+        },
+        {
+          "name": "Dropout Kings",
+          "url": "https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182750,
+      "name": "NWWM",
+      "url": "https://open.spotify.com/track/7gK1TOuXG2PrB78hDCgC5d"
     },
     {
       "album": {
@@ -3699,6 +3793,32 @@
       "duration_ms": 229714,
       "name": "Purple Static",
       "url": "https://open.spotify.com/track/3AddKBr7vkhZrmqNZ2l80z"
+    },
+    {
+      "album": {
+        "name": "Quicksand",
+        "url": "https://open.spotify.com/album/3vo077XHNBeAEVlnWGQUCG"
+      },
+      "artists": [
+        {
+          "name": "Outline In Color",
+          "url": "https://open.spotify.com/artist/6drAKOLWO1vzBrdmJmg5SE"
+        },
+        {
+          "name": "Foxera",
+          "url": "https://open.spotify.com/artist/3YMpkFfYLXaD8eZlQalBHC"
+        },
+        {
+          "name": "Michael Swank",
+          "url": "https://open.spotify.com/artist/1p4l2x4EUENGm1VCQfBkuu"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Quicksand (feat. Michael Swank)",
+      "url": "https://open.spotify.com/track/3B2lC0tHokLJuPOhKaLycU"
     },
     {
       "album": {
@@ -4046,6 +4166,24 @@
     },
     {
       "album": {
+        "name": "Shade Astray",
+        "url": "https://open.spotify.com/album/13V5598DE5BTivaX1zecEF"
+      },
+      "artists": [
+        {
+          "name": "Invent Animate",
+          "url": "https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277093,
+      "name": "Shade Astray",
+      "url": "https://open.spotify.com/track/4nsRC5m6nhWEGytiaDgewc"
+    },
+    {
+      "album": {
         "name": "Shadow Walker",
         "url": "https://open.spotify.com/album/0ZHUpNq2PbntwpITcHhe0O"
       },
@@ -4315,7 +4453,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 246282,
       "name": "Stand Down",
       "url": "https://open.spotify.com/track/2ugULOhXNVpIvksyagm9Qr"
@@ -4503,6 +4641,24 @@
       "duration_ms": 198881,
       "name": "Suffocate",
       "url": "https://open.spotify.com/track/530wk2tz33m2Rrsp7pdBB7"
+    },
+    {
+      "album": {
+        "name": "Sunchaser",
+        "url": "https://open.spotify.com/album/7zz108OrdqIflvbY8boOgl"
+      },
+      "artists": [
+        {
+          "name": "The Wise Man's Fear",
+          "url": "https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209564,
+      "name": "Sunchaser",
+      "url": "https://open.spotify.com/track/06tK7kL7Q37Fx57FUWrB2H"
     },
     {
       "album": {
@@ -4831,7 +4987,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 268123,
       "name": "The Impressionist",
       "url": "https://open.spotify.com/track/6wQGIwWIOnMAqMY9kQNTJ3"
@@ -5437,7 +5593,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 214874,
       "name": "Weapon",
       "url": "https://open.spotify.com/track/0CGj0cu1kyQq08Zw5tt1Tt"
@@ -5535,6 +5691,24 @@
       "duration_ms": 230068,
       "name": "White Rabbit",
       "url": "https://open.spotify.com/track/48gotqEngeagErLW3C1FUs"
+    },
+    {
+      "album": {
+        "name": "White Washed & Composure 2022",
+        "url": "https://open.spotify.com/album/6zaOIfy2Fy8ez7UnAv1ZJ8"
+      },
+      "artists": [
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237168,
+      "name": "White Washed - 2022",
+      "url": "https://open.spotify.com/track/6Aco1hY5ciwgaWPFm7sTd1"
     },
     {
       "album": {
@@ -5679,6 +5853,24 @@
       "duration_ms": 202695,
       "name": "Your Ghost",
       "url": "https://open.spotify.com/track/0gsv1wTx4ReErigbQUZ7uR"
+    },
+    {
+      "album": {
+        "name": "Your Love I'll Never Need",
+        "url": "https://open.spotify.com/album/17yymNfb1oyI5bBn0BvXv2"
+      },
+      "artists": [
+        {
+          "name": "Ocean Sleeper",
+          "url": "https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200843,
+      "name": "Your Love I'll Never Need",
+      "url": "https://open.spotify.com/track/228ijND7JwCIpNt8sYlHYW"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXIcbzpLauPS"

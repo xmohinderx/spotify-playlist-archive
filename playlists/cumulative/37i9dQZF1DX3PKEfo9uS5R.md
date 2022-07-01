@@ -4,7 +4,7 @@
 
 > Chill house tracks to power your pilates session.
 
-119 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/6XgqRzFWaCNVeD21el9Hhr)
+120 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/6XgqRzFWaCNVeD21el9Hhr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Campion](https://open.spotify.com/track/5gIlVzuuMjv95PSZ9lnXTi) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Campion / Geimfar](https://open.spotify.com/album/552e1oUOvaktE907WmfQPR) | 3:29 | 2021-11-11 |  |
 | [Cannonball](https://open.spotify.com/track/7f1ZpHuGeGQOzD5qumBg5F) | [Dove Tales](https://open.spotify.com/artist/70Tk6S5pkOGDREV86Mn8Qf) | [Monty Hall](https://open.spotify.com/album/4MPyqq00qt7THWrpiHwRa7) | 3:41 | 2021-11-11 | 2022-04-06 |
 | [Castles in The Air](https://open.spotify.com/track/3XSr3AQ6smXdcDGlkslcER) | [Luke Lavelle](https://open.spotify.com/artist/4MbsAtsT8KlRa27ATT0YQ3) | [Castles in the Air](https://open.spotify.com/album/443uJl497U7M7fYWhw1Lpg) | 3:49 | 2021-11-11 |  |
+| [Channels](https://open.spotify.com/track/7f7VEawSbmKCkDpWpxcd7N) | [Hazel Calm](https://open.spotify.com/artist/19AnR1ST7DAT5Coo66OKLl) | [Channels](https://open.spotify.com/album/236zd3ADvrLVkUqSzJzzNf) | 2:06 | 2022-07-01 |  |
 | [Chateau \- Holmsey Remix](https://open.spotify.com/track/1J2IGKsTJZDRy1MO3DJPsG) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr), [Holmsey](https://open.spotify.com/artist/1MLYmLwA6D9xQUwsHdDYKI) | [Chateau \(Holmsey Remix\)](https://open.spotify.com/album/4RdQAts3q3WmEJmZKNjdUK) | 4:00 | 2021-11-11 | 2022-01-22 |
 | [Clearance](https://open.spotify.com/track/2rgLD7uyW4vmHsWptsALZx) | [Dan Awy](https://open.spotify.com/artist/6LubM6pIrPHuCLDhPCWe3Z) | [Clearance](https://open.spotify.com/album/2lr8LMPGi0bBjonBfjYbfW) | 2:47 | 2021-11-11 | 2022-01-22 |
 | [Copycat](https://open.spotify.com/track/4fRDbN8d9hKBbYs0rG4El0) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Copycat / Sunspot](https://open.spotify.com/album/5rgFFppEQzw3lOlzgIPmKV) | 5:54 | 2021-11-11 |  |
@@ -39,7 +40,7 @@
 | [Don't Wanna Let Go](https://open.spotify.com/track/3GINyEMoUV13pzJxNMuvxW) | [Superbandy](https://open.spotify.com/artist/3QldRhGT9NdS8ehqa6g40b) | [Don't Wanna Let Go](https://open.spotify.com/album/2RQ5mV8lNxAzLRi8xKTgie) | 2:28 | 2022-05-27 |  |
 | [Extrinsic](https://open.spotify.com/track/5NRnGOcVYxj01G7osJWKgV) | [DJ Eely](https://open.spotify.com/artist/1pWq7WE6SgN6KxOFXD3w80) | [Picturesque](https://open.spotify.com/album/1TLkNZ4uXScUE03mlYOnEe) | 5:23 | 2021-11-11 | 2022-05-20 |
 | [Fallen Angel](https://open.spotify.com/track/2HPpdNLzGv3sal6DYLRq5d) | [Wolfgang Laux](https://open.spotify.com/artist/1B7wnKyiBhdKUDAWQB5tHu) | [Fallen Angel](https://open.spotify.com/album/0RdQWXdOdLmWAKtnVgb0lJ) | 2:55 | 2021-11-11 |  |
-| [Faro](https://open.spotify.com/track/3UUVf6kCaIXaDADINeYQ4V) | [Afonso Jardim](https://open.spotify.com/artist/42tsH6bAB8RIb2qAZ2Y612) | [Faro](https://open.spotify.com/album/6PfCd47IGXI9k07OhWkJe4) | 2:23 | 2021-11-11 |  |
+| [Faro](https://open.spotify.com/track/3UUVf6kCaIXaDADINeYQ4V) | [Afonso Jardim](https://open.spotify.com/artist/42tsH6bAB8RIb2qAZ2Y612) | [Faro](https://open.spotify.com/album/6PfCd47IGXI9k07OhWkJe4) | 2:23 | 2021-11-11 | 2022-07-01 |
 | [Feuilles](https://open.spotify.com/track/26BeLmiiIvwMzU4dJbpitV) | [Parker Wilkins](https://open.spotify.com/artist/6igZZYtkBvDiAl9KF34BD4) | [Feuilles](https://open.spotify.com/album/739JpDz78mPc7hTX0zLvhN) | 2:33 | 2021-11-11 |  |
 | [Five Minutes](https://open.spotify.com/track/3smdcgKfBFj8xCchNZQjV0) | [Marzell Paris](https://open.spotify.com/artist/7qzHrRTMwAhRARXZ2v0rwc) | [Five Minutes](https://open.spotify.com/album/3tntTvhbE4vfgZJ4CrtTG8) | 3:12 | 2021-11-11 |  |
 | [Flawless](https://open.spotify.com/track/18QHvKoP8RZDE6kWYWwd04) | [Beau Bailey\-Lang](https://open.spotify.com/artist/0HlA2jPYIXgwX8PhZwqmIH) | [Flawless](https://open.spotify.com/album/7ymPGmNjcueeThs05uQVNs) | 2:33 | 2021-11-11 | 2022-02-11 |
@@ -51,7 +52,7 @@
 | [Ghosts](https://open.spotify.com/track/7fITMSuDsZGqZ34Na7Xwkc) | [Lukall](https://open.spotify.com/artist/4jhnkqer34ex3RRtYA6e5O) | [Ghosts](https://open.spotify.com/album/57E40q7LcDqv4yKH0jbXuP) | 3:31 | 2021-11-11 |  |
 | [Going Up](https://open.spotify.com/track/1ddppe7df96sqbzEkw7Khk) | [MOOGADISHU](https://open.spotify.com/artist/0cV2d206HjrISLX6hSkktp) | [Going Up](https://open.spotify.com/album/2dAz5HgtxPy5I5NYWiKABC) | 3:01 | 2022-05-10 |  |
 | [Gone Fishing](https://open.spotify.com/track/0KBpSaFvoYODDM5r8uvUQJ) | [OB Mira](https://open.spotify.com/artist/1xVtoite5xxjtmTGx5bRE2) | [Gone Fishing](https://open.spotify.com/album/2CH3raSR42wJfkvBQxdVPj) | 3:33 | 2021-11-11 | 2022-04-06 |
-| [Good Enough](https://open.spotify.com/track/27cKloOulot9GZuKTwwPG7) | [DJ Mayson](https://open.spotify.com/artist/0yfPh6KmtnI0XLwu1oh1hP) | [Good Enough](https://open.spotify.com/album/21TmHAoMlDytDjrYs55hWk) | 3:41 | 2022-05-10 |  |
+| [Good Enough](https://open.spotify.com/track/27cKloOulot9GZuKTwwPG7) | [DJ Mayson](https://open.spotify.com/artist/0yfPh6KmtnI0XLwu1oh1hP) | [Good Enough](https://open.spotify.com/album/21TmHAoMlDytDjrYs55hWk) | 3:41 | 2022-05-10 | 2022-07-01 |
 | [Good LUV](https://open.spotify.com/track/1QqBrFnnInn1nB5EsfbxNT) | [OYUKA](https://open.spotify.com/artist/7ijqibahP8A8i517Nm6KiS) | [Good LUV](https://open.spotify.com/album/23Nlb6UA6S67V9dtV6Ym8J) | 3:11 | 2021-11-11 |  |
 | [Got This](https://open.spotify.com/track/70ZtLYA9LXHb1wGivdTWh2) | [Shiruky](https://open.spotify.com/artist/1Tr7ffkJ66E8bXTm2g7uEM) | [Got This](https://open.spotify.com/album/0TtK0hLbzepa08Rosnmgqb) | 4:34 | 2021-11-11 |  |
 | [Growing](https://open.spotify.com/track/6rCkaw89aoGhunEMTXpSiN) | [Hazel Calm](https://open.spotify.com/artist/19AnR1ST7DAT5Coo66OKLl) | [Growing](https://open.spotify.com/album/7HTo42U44LHzt3eVfKCh0w) | 2:40 | 2021-11-11 | 2022-01-22 |
@@ -61,7 +62,7 @@
 | [Holding Anchor](https://open.spotify.com/track/73l7YNceUVRyggXqCajwlZ) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Mango Love](https://open.spotify.com/album/1MgbQTIcNtBnGoemdnQL8u) | 3:08 | 2021-11-11 | 2022-02-11 |
 | [Honey Bee](https://open.spotify.com/track/7iM8XlrP0vRWZ7IMnFChtc) | [Don Battina](https://open.spotify.com/artist/35XkOpKPNN4P8zTMOmPb9X) | [Honey Bee](https://open.spotify.com/album/3dd4xMb3GxR1oqTgbBnHqN) | 3:19 | 2021-11-11 | 2022-01-22 |
 | [How We Do It](https://open.spotify.com/track/7Fangq5H3r0uFVnBmtjqPB) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 3:10 | 2022-05-20 |  |
-| [I ADORE U](https://open.spotify.com/track/0ANy2LzoqFkwkgc8adwTVc) | [Hank Lotion](https://open.spotify.com/artist/6d71KgnO30CCz8iSQuzFkM) | [I ADORE U](https://open.spotify.com/album/5xnqBY02HrPts7DQlfXtnK) | 4:02 | 2022-05-10 |  |
+| [I ADORE U](https://open.spotify.com/track/0ANy2LzoqFkwkgc8adwTVc) | [Hank Lotion](https://open.spotify.com/artist/6d71KgnO30CCz8iSQuzFkM) | [I ADORE U](https://open.spotify.com/album/5xnqBY02HrPts7DQlfXtnK) | 4:02 | 2022-05-10 | 2022-07-01 |
 | [I Don't Wanna Live Forever \- Taladego Tropical Mix](https://open.spotify.com/track/1MAwVy9fDWnicj5xtzzaAD) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV), [Simon Samaeng](https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw) | [I Don't Wanna Live Forever \(Taladego Tropical Mix\)](https://open.spotify.com/album/6udScTmYkOealnMC3AAd7K) | 4:03 | 2021-11-11 | 2022-02-11 |
 | [I've Got The Feeling](https://open.spotify.com/track/5bDGO5ORzFsUdXQzgxeACC) | [Cymbal Dealers](https://open.spotify.com/artist/4FanGEgeRprmNv0EeYZcje) | [I've Got The Feeling](https://open.spotify.com/album/5HPOU4FAiniS1VDgx3BQw1) | 2:31 | 2022-05-10 |  |
 | [Kayser](https://open.spotify.com/track/2RIrQ7XZPKUwa9AprTsWQu) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Kayser](https://open.spotify.com/album/6yjyiL2nfApxt05r3oRSw2) | 2:51 | 2022-05-20 |  |
@@ -103,7 +104,7 @@
 | [So Solar](https://open.spotify.com/track/1El70dxYc3YFC4QsXkxpbp) | [SunnX](https://open.spotify.com/artist/1d1QrP53Eak9McNiwCDMpE) | [So Solar](https://open.spotify.com/album/4vwYFBcuYQEJ4HdxkVc66t) | 2:02 | 2021-11-11 |  |
 | [Solar Sun](https://open.spotify.com/track/5VErwAfMIPinJbosqnkBrf) | [Kate Paul](https://open.spotify.com/artist/1anQkfV3WidZBDrdAQwAsx) | [Solar Sun](https://open.spotify.com/album/5MZJD2cd91PXyxZmS6qUnh) | 3:52 | 2021-11-11 |  |
 | [Solidarity](https://open.spotify.com/track/2ieJ272KbcfpIawpUkr65D) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Solidarity](https://open.spotify.com/album/68bol0r3htpiEXaZo3utkT) | 2:47 | 2021-11-11 |  |
-| [Somewhere Out There](https://open.spotify.com/track/7JPA0E9xnYsJSrYjQyQFRm) | [Daxten](https://open.spotify.com/artist/1uwGIdDsv9rhyzuqgYhOuS) | [Somewhere Out There](https://open.spotify.com/album/6hm0JKMWpzsDal5G5da18n) | 3:23 | 2021-11-11 |  |
+| [Somewhere Out There](https://open.spotify.com/track/7JPA0E9xnYsJSrYjQyQFRm) | [Daxten](https://open.spotify.com/artist/1uwGIdDsv9rhyzuqgYhOuS) | [Somewhere Out There](https://open.spotify.com/album/6hm0JKMWpzsDal5G5da18n) | 0:29 | 2021-11-11 |  |
 | [Souls](https://open.spotify.com/track/3ChoL4frV5kJSk0C9F3IWz) | [Del Risa](https://open.spotify.com/artist/4gzZiN07Ka3Idx3QvR1ZuS) | [Souls](https://open.spotify.com/album/118kdRwrFscCUlo9bSr096) | 4:14 | 2021-11-11 |  |
 | [Sputnik](https://open.spotify.com/track/6omVgaiW9qCv4vhUIuJiXO) | [Isla Cruz](https://open.spotify.com/artist/0b4aT0b93OhjSIIsYkW6s1) | [Sputnik](https://open.spotify.com/album/2XjgPhcQIIWCGsDMPhJp9c) | 3:38 | 2021-11-11 |  |
 | [Star Reflections](https://open.spotify.com/track/7xpr7wA84h55F4t2noWCd0) | [Lostlow](https://open.spotify.com/artist/2ZB3DKgzAjv2VY88jaH9jn) | [Star Reflections](https://open.spotify.com/album/2lXS0eCpWHuVwFBJbtNhEV) | 3:12 | 2021-11-11 |  |
@@ -116,7 +117,7 @@
 | [The Good Ones](https://open.spotify.com/track/5l4L0T8QAFd3BYInKaurCn) | [Simon Hawking](https://open.spotify.com/artist/76o1itwHoGVElGCaKgeysV) | [Paradise](https://open.spotify.com/album/6PHcvL4SPEaSy1Ny818JnF) | 2:53 | 2021-11-11 |  |
 | [Thoughts](https://open.spotify.com/track/3etZY7gz2AHkVFX1bgOMBa) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Another Dream Room EP](https://open.spotify.com/album/2pe3jQkLqd0vjnxxxJuSDW) | 5:16 | 2021-11-11 | 2022-02-11 |
 | [Time to Rest](https://open.spotify.com/track/2HfslpAapuq8I148nED63h) | [Oleg Kashchenko](https://open.spotify.com/artist/1JdC9tTyikddLX25acadfi) | [Time to Rest](https://open.spotify.com/album/0BXHAqw9kMh8MQtSZ9a2aq) | 2:12 | 2021-11-11 | 2022-05-20 |
-| [To Hold You](https://open.spotify.com/track/6d9REln2cJYL7KRRAbffUb) | [Sundancer Marquis](https://open.spotify.com/artist/6O3Pus00j8dR7bOWKUF02i) | [To Hold You](https://open.spotify.com/album/3W0WdtAqSsYcj5QnDvqEHn) | 3:40 | 2022-05-10 |  |
+| [To Hold You](https://open.spotify.com/track/6d9REln2cJYL7KRRAbffUb) | [Sundancer Marquis](https://open.spotify.com/artist/6O3Pus00j8dR7bOWKUF02i) | [To Hold You](https://open.spotify.com/album/3W0WdtAqSsYcj5QnDvqEHn) | 3:40 | 2022-05-10 | 2022-07-01 |
 | [Together Potion](https://open.spotify.com/track/0tUqVTjY5gascy0deX6oPR) | [Pillow Kid](https://open.spotify.com/artist/3THB0bPkpqpRVoai1rmnVW) | [Dance Under the Apple Tree](https://open.spotify.com/album/6ChVuZYL7nL6u9Gatu5s5C) | 3:08 | 2021-11-11 |  |
 | [Valencia Morning](https://open.spotify.com/track/2mziKTawLRhhnMbyQSQeRv) | [Hotel Plaza](https://open.spotify.com/artist/4NOvvsl3lAjFsZVFyetMMB) | [Midnight Salute](https://open.spotify.com/album/5FAu2PHY3zq0vnFTmG06VU) | 2:58 | 2022-01-21 |  |
 | [Vibe Ticket](https://open.spotify.com/track/653lRpnjayYZIcxrNqdUDN) | [Naoko Omi](https://open.spotify.com/artist/2LojIVYdOV4hK4wKlASHwC) | [Vibe Ticket](https://open.spotify.com/album/4OiZscgHocT90MiWy61bGQ) | 3:13 | 2021-11-11 |  |
@@ -125,7 +126,7 @@
 | [Waves](https://open.spotify.com/track/1A2pH62d1USSUsxuoiRD8l) | [Navagio](https://open.spotify.com/artist/4IZVQx6ZkiGS5yIhLQvhf8) | [Waves](https://open.spotify.com/album/4bSGU58KwhgotZ3SETiZso) | 2:38 | 2021-11-11 | 2022-05-11 |
 | [White Dust](https://open.spotify.com/track/2zlmxxH4eHn2rmBZRQRwEY) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 4:02 | 2021-11-11 | 2022-05-11 |
 | [With My Whole Heart](https://open.spotify.com/track/7AzIVU7uB6ZU7uPoFJFKPu) | [Raphael Creed](https://open.spotify.com/artist/2shzzQEVBHTmyUUmgvA3eK) | [With My Whole Heart](https://open.spotify.com/album/7DqXk7aQUle3M5qMtjq6zb) | 2:46 | 2021-11-11 | 2022-02-11 |
-| [Woodpecker \(Call Me\)](https://open.spotify.com/track/3pSOSLJY99p8aAY3QWM8x5) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Fragmented Memories / Woodpecker \(Call Me\)](https://open.spotify.com/album/5AraItM2Vq2MPBeUA4YpIg) | 5:04 | 2022-05-10 |  |
+| [Woodpecker \(Call Me\)](https://open.spotify.com/track/3pSOSLJY99p8aAY3QWM8x5) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Fragmented Memories / Woodpecker \(Call Me\)](https://open.spotify.com/album/5AraItM2Vq2MPBeUA4YpIg) | 5:04 | 2022-05-10 | 2022-07-01 |
 | [Yesterday's Dream](https://open.spotify.com/track/3eb9HO1cq8uzEmUdU7mNvs) | [Catalina En Collins](https://open.spotify.com/artist/6oaPME8tL5UOyja7VEvx0J) | [Yesterday's Dream](https://open.spotify.com/album/0ebm4T6CGvYIIharGfIftv) | 2:31 | 2021-11-11 |  |
 
 \*This playlist was first scraped on 2022-01-21. Prior content cannot be recovered.

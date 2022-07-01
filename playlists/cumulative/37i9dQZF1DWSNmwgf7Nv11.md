@@ -4,7 +4,7 @@
 
 > Free\-spirited, atmospheric vibes.
 
-165 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/79WKo1g8A6daCdei56m7Tj)
+165 songs - 10 hr 14 min - [published](https://open.spotify.com/playlist/79WKo1g8A6daCdei56m7Tj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Ballad Of A Thin Place](https://open.spotify.com/track/3Cc71VdFO7dJUXxxmx2OCl) | [RF Shannon](https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5) | [Rain On Dust](https://open.spotify.com/album/4zZ8LQ2Pin7He38D53XvzQ) | 4:16 | 2021-07-30 |  |
 | [Bare](https://open.spotify.com/track/0Lg7CTyeg8Zviv6HYFg2kM) | [Amber Maya](https://open.spotify.com/artist/3jPSmQEwdBu8xw5WoiFmEU) | [Bare](https://open.spotify.com/album/4pVpKIqbJrPgWrb2gagfR0) | 3:53 | 2021-07-30 | 2022-02-26 |
 | [Beautiful Life](https://open.spotify.com/track/4nNc2bR3D0wKjQTOPVkWLs) | [Harry Pane](https://open.spotify.com/artist/0Rl5q2Pq8y9xRbujCpZueF) | [Beautiful Life](https://open.spotify.com/album/10lYRcf8EiT52FUjPcHtXP) | 3:25 | 2021-07-30 |  |
-| [Beige](https://open.spotify.com/track/0FfZudphGgQTGeEV6AhmOs) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/0tg6msTvhHx8glztrBii80) | 3:24 | 2021-07-30 |  |
+| [Beige](https://open.spotify.com/track/0FfZudphGgQTGeEV6AhmOs) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/0tg6msTvhHx8glztrBii80) | 0:29 | 2021-07-30 |  |
 | [Believe](https://open.spotify.com/track/6wk5veel2BFz73y1Q6femh) | [Amen Dunes](https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM) | [Believe](https://open.spotify.com/album/0zM4Raxvwaguumyd85xrCx) | 5:46 | 2021-07-30 |  |
 | [Belong](https://open.spotify.com/track/0Dv5ygyhMWCuHZBl7d8fdV) | [Samuel R\. Saffery](https://open.spotify.com/artist/48CwlHHMcLLsgGRKoLbQc3) | [Belong](https://open.spotify.com/album/4jIP2IEDx0erZE5A04ZUjj) | 3:52 | 2021-07-30 |  |
 | [Berlin](https://open.spotify.com/track/123W7snVRuONLwn2uMdJB3) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Berlin EP](https://open.spotify.com/album/2d90pcby1VFHjXUGYJNBJc) | 2:50 | 2021-07-30 |  |
@@ -62,7 +62,7 @@
 | [Everybody Needs Somebody](https://open.spotify.com/track/2M2pSUyaOpEg83cjK3Va7q) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Everybody Needs Somebody](https://open.spotify.com/album/0VHkRpOycTEskfVDfR1fq0) | 3:30 | 2021-07-30 |  |
 | [Fair Play \- Acoustic Version](https://open.spotify.com/track/47MaqBFCgw4coZjhTCc6ft) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF), [Lucy McWilliams](https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k) | [Fair Play \(Acoustic Version\)](https://open.spotify.com/album/44ikoQvtBYqsSAqimPLknB) | 4:19 | 2021-07-30 |  |
 | [False Calls](https://open.spotify.com/track/0xJtaKrodyhERoGzs2jKwr) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [False Calls](https://open.spotify.com/album/232qeU7aFhdPET4kq1qiCC) | 3:43 | 2021-07-30 |  |
-| [Fever Dream](https://open.spotify.com/track/5aQge4CQGxd4hp7YtVEHy5) | [Sea High](https://open.spotify.com/artist/3zOedO0mn7ikOxKcshuHsY), [Wallfella](https://open.spotify.com/artist/6fYRV3qeqpfNv29wOThawF), [Citizen Black](https://open.spotify.com/artist/1XZroKJxeCMmLjHScn7XTO) | [Degradation of Imagination](https://open.spotify.com/album/3h227ffzTp1JxmbK76fg6C) | 3:22 | 2021-07-30 |  |
+| [Fever Dream](https://open.spotify.com/track/5aQge4CQGxd4hp7YtVEHy5) | [Sea High](https://open.spotify.com/artist/3zOedO0mn7ikOxKcshuHsY), [Wallfella](https://open.spotify.com/artist/6fYRV3qeqpfNv29wOThawF), [Citizen Black](https://open.spotify.com/artist/1XZroKJxeCMmLjHScn7XTO) | [Degradation of Imagination](https://open.spotify.com/album/3h227ffzTp1JxmbK76fg6C) | 0:29 | 2021-07-30 |  |
 | [Fever Pitch](https://open.spotify.com/track/0CczqIwQrFvuiR0Q6g6IYP) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Fever Pitch](https://open.spotify.com/album/7KAcbEEU9MREoPJxW78cEU) | 2:43 | 2021-07-30 |  |
 | [Fever To The Form](https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:12 | 2021-07-30 |  |
 | [Friend City](https://open.spotify.com/track/5kKlAcXPZw3qhd57UquKqr) | [Rozi Plain](https://open.spotify.com/artist/2plHc7V92yXf40BD8lQl2x) | [Friend](https://open.spotify.com/album/2DRGOooaLuTThGjfk1nMgA) | 3:06 | 2021-07-30 |  |
@@ -102,7 +102,7 @@
 | [Motel 6](https://open.spotify.com/track/70AT7hgTI04o9jOufXTu1r) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Motel 6](https://open.spotify.com/album/2rFKd9fnRgmrAzFpcB0RWG) | 3:15 | 2021-07-30 |  |
 | [My Ego Dies At The End](https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [My Ego Dies At The End](https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8) | 4:02 | 2022-02-25 |  |
 | [My Heart](https://open.spotify.com/track/3OP6suu7DnnBbAugofZ3QG) | [Francesca Blanchard](https://open.spotify.com/artist/5nr9aC1q4Iu3i4hYOiRiNf) | [My Heart](https://open.spotify.com/album/6JrjsP5gTul3KwGvhXBron) | 3:16 | 2021-07-30 |  |
-| [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c) | 4:08 | 2021-07-30 |  |
+| [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c) | 0:29 | 2021-07-30 |  |
 | [Mystik](https://open.spotify.com/track/6lbO4gMtw21GgPL3eWScDy) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Mystik](https://open.spotify.com/album/0d7LDKJc2IGjCmFv850VCN) | 4:11 | 2021-07-30 |  |
 | [Nancy From Now On](https://open.spotify.com/track/0qHrE21zGV4DThyfx0HdFu) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/0r0uA6OMU5fTbWetcMf867) | 3:54 | 2021-07-30 |  |
 | [New Birth in New England](https://open.spotify.com/track/3YOv5LNRVbrmWnVVyk3Flj) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [C’est La Vie](https://open.spotify.com/album/2Ex277htheVs9aDi6svcsv) | 4:59 | 2021-07-30 |  |

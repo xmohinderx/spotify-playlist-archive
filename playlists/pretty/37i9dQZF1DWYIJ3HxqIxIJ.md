@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 
 > New music from artists who are on our RADAR\. Featuring Baker Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,392 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,392 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 10 | [Pick Me Up](https://open.spotify.com/track/3cO6b6tyHunCFdo1d9XaG3) | [Milan Ring](https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b), [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [Pick Me Up](https://open.spotify.com/album/3779wtGODvsqVt9Wog7nKV) | 3:42 |
 | 11 | [Get It Done](https://open.spotify.com/track/09V9jWMkfIhg1uCIuEWGBV) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [Get It Done](https://open.spotify.com/album/6NuBtumhIqsMUFKYXIpnpd) | 2:37 |
 | 12 | [vodka orange juice](https://open.spotify.com/track/2yx7j2SdTCDYcDGPRFdSBz) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i) | [vodka orange juice](https://open.spotify.com/album/1WyIXN8s7H1sE4aZDOAhU9) | 3:59 |
-| 13 | [Healing](https://open.spotify.com/track/5LEqciYTIj0P54NFJpJk1I) | [JK\-47](https://open.spotify.com/artist/1MS6lYWuDWugNbdDhzEHvF), [Jay Orient](https://open.spotify.com/artist/7bgViO0G1B9CmxmNovYasB) | [Healing](https://open.spotify.com/album/1PInN5WeOf5BKxOSb24i9Z) | 2:52 |
+| 13 | [Healing](https://open.spotify.com/track/5LEqciYTIj0P54NFJpJk1I) | [JK\-47](https://open.spotify.com/artist/1MS6lYWuDWugNbdDhzEHvF), [Jay Orient](https://open.spotify.com/artist/7bgViO0G1B9CmxmNovYasB) | [Healing](https://open.spotify.com/album/1PInN5WeOf5BKxOSb24i9Z) | 0:29 |
 | 14 | [High Again](https://open.spotify.com/track/4XcWqGBXUjLGTqPqIFqk3M) | [Rory Noble](https://open.spotify.com/artist/1iuPOeEcwxvQsjw7UTsvfV) | [High Again](https://open.spotify.com/album/2pXLICjn51Qj1YwfwdfT9N) | 3:42 |
 | 15 | [Price I Paid](https://open.spotify.com/track/6R8MZHzphXVrA0SBLCGD4I) | [Miiesha](https://open.spotify.com/artist/1ehGGQnc7E28DNwhvnFuyL) | [Price I Paid](https://open.spotify.com/album/34bqrZ8jJm2dDlGGfyjKGo) | 3:41 |
 | 16 | [When Skies Were Always Blue](https://open.spotify.com/track/1cxfKJMjgB4OY0mm3QVB6n) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [When Skies Were Always Blue](https://open.spotify.com/album/6ONL60dY4YafW6hPNEsFiN) | 4:15 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 33 | [This Enchanted \- Edit](https://open.spotify.com/track/0t0lC8avHPxxf9VqiItfj6) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [This Enchanted](https://open.spotify.com/album/5DU1S08aBz1JPVN6Q2hIWj) | 3:07 |
 | 34 | [Vicious Love](https://open.spotify.com/track/0BQ6xllqXR18Wv9eGJZlnE) | [Niko Walters](https://open.spotify.com/artist/0iWMmFScSBxj1z3IisnGkB) | [Vicious Love](https://open.spotify.com/album/27rv7NZ9NKmlmt6VECV277) | 2:53 |
 | 35 | [Soft Rock](https://open.spotify.com/track/7kNJ8lNMJ2cnNwSloYt3Ph) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Soft Rock](https://open.spotify.com/album/11oyqQEM0Cg679CH7XH15C) | 2:31 |
-| 36 | [Waiting Game](https://open.spotify.com/track/6AGmPgPDllC5CWzKFR2xLt) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Waiting Game](https://open.spotify.com/album/7ALXdmY9yM6JvPZgyM7YxT) | 3:37 |
+| 36 | [Waiting Game](https://open.spotify.com/track/6AGmPgPDllC5CWzKFR2xLt) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Waiting Game](https://open.spotify.com/album/7ALXdmY9yM6JvPZgyM7YxT) | 0:29 |
 | 37 | [Woah](https://open.spotify.com/track/1wkrmhQETrvqJ4nvO9NZ27) | [Donell Lewis](https://open.spotify.com/artist/6feZH59Dj4tl1bQ8D2gukz) | [Woah](https://open.spotify.com/album/1tRYUh3sL43QlfDdwRPHVS) | 2:33 |
 | 38 | [PICK YOURSELF UP](https://open.spotify.com/track/6EtMaIHicPUOikajRTgbdR) | [Sahxl](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [PICK YOURSELF UP](https://open.spotify.com/album/4X8r3GfGalrylMXCaIrdj3) | 2:53 |
 | 39 | [Underneath](https://open.spotify.com/track/4wyrc8IPFe1tE1ZPMnEx7C) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [Underneath](https://open.spotify.com/album/0B7GgmnsWIqYN55jCk0pjJ) | 3:49 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 60 | [Favourite Clothes](https://open.spotify.com/track/7oUpTUajw3HrcbEoCjKpCt) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Favourite Clothes](https://open.spotify.com/album/3mWnjokIlIO78gJvXYAj2X) | 3:06 |
 | 61 | [Central Station](https://open.spotify.com/track/12k0MroOt3VGEoE7EzkB56) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Don't Kiss Ur Friends](https://open.spotify.com/album/1UpmgLLg3w0pI5SGa0XaH4) | 3:28 |
 | 62 | [Casanova](https://open.spotify.com/track/07E34p59doB7zhxtcNQLqK) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Casanova](https://open.spotify.com/album/5ryxQvi2WP0hXoH92zgMnp) | 3:01 |
-| 63 | [Billion Dollar Bitch](https://open.spotify.com/track/1NXsoL5kWo6j41SP1NUpLF) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Billion Dollar Bitch](https://open.spotify.com/album/5MiVQWINwHLDiOGTb20f0a) | 3:08 |
+| 63 | [Billion Dollar Bitch](https://open.spotify.com/track/1NXsoL5kWo6j41SP1NUpLF) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Billion Dollar Bitch](https://open.spotify.com/album/5MiVQWINwHLDiOGTb20f0a) | 0:29 |
 | 64 | [How We Livin'](https://open.spotify.com/track/10bGyAjMw61JLTs1ma3jxL) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [Kapulet](https://open.spotify.com/artist/1ViLuYdL1yATbOu4NDKedh) | [How We Livin'](https://open.spotify.com/album/3sBHXOVi0l6EIoK03h9ggc) | 3:38 |
 | 65 | [Girlfriend's Girlfriend](https://open.spotify.com/track/068OE0oRKSnDrDM9HdEpO0) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 2:51 |
 | 66 | [Broken Home](https://open.spotify.com/track/5950Y7Cc3c0I6QH6hpf9E2) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Area Baby](https://open.spotify.com/album/722ZytuYgZwwGZLF04HPog) | 3:09 |

@@ -4,7 +4,7 @@
 
 > Hit music from Ethiopia's finest.
 
-54 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/5h1kkeVebhBTJyRzBDxWOy)
+54 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/5h1kkeVebhBTJyRzBDxWOy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Debzezesh](https://open.spotify.com/track/5nUbqoz7j9btdIZkkuJL5a) | [Eyob Mekonen](https://open.spotify.com/artist/5hn5axBeYPCxuGA07FE731) | [Ende Kal](https://open.spotify.com/album/1b6gLk9kr3bObvC0u7R9Vo) | 6:26 | 2018-10-04 |  |
 | [Disc 1: Sitalekish Des Alishign \(A\. Agonafir\)](https://open.spotify.com/track/6Hux3tjwWhozjKoOajz9nb) | [Abinet Agonafir](https://open.spotify.com/artist/0R8QDnSxcOe9PLNBI6m80j) | [The Ethiopian Millennium Collection \- 6\-cd Box Set](https://open.spotify.com/album/1tIZbl4nLZZlj9nhb4PCc4) | 5:04 | 2018-10-04 |  |
 | [Dèra](https://open.spotify.com/track/2IIb271RwaISQdftWsD7HT) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Live In Paris](https://open.spotify.com/album/0kGmTDYh6sYO9EmeTWYiAv) | 6:23 | 2018-10-04 |  |
-| [Ena](https://open.spotify.com/track/3lDh5FFo45l6iPMQ223yn0) | [Muluken Dawit](https://open.spotify.com/artist/2zUgHt41Ctg8PSdKvqBRwV) | [Mengedegna](https://open.spotify.com/album/7ktHIg4rf3y3U4DToGlIO3) | 4:42 | 2018-10-04 |  |
+| [Ena](https://open.spotify.com/track/3lDh5FFo45l6iPMQ223yn0) | [Muluken Dawit](https://open.spotify.com/artist/2zUgHt41Ctg8PSdKvqBRwV) | [Mengedegna](https://open.spotify.com/album/7ktHIg4rf3y3U4DToGlIO3) | 0:29 | 2018-10-04 |  |
 | [Endet Lichal](https://open.spotify.com/track/1o7uMGTxPvKVsS8H5g8kEw) | [Dawit Mellesse](https://open.spotify.com/artist/6iGBGaxHab6voJ9yrhPR0V) | [Andiken](https://open.spotify.com/album/4uj9CkcVsJMJYLTVWGKeAf) | 5:29 | 2018-10-04 |  |
 | [Ethiopia](https://open.spotify.com/track/6QGdSpLFgV2XSFETaDXf0Z) | [Teddy Afro](https://open.spotify.com/artist/08oMhAUN23C91R1zltrR6p) | [Ethiopia](https://open.spotify.com/album/4EVEPI1V6dWOEw2wN1ghmJ) | 6:37 | 2018-10-04 |  |
 | [Fiker](https://open.spotify.com/track/4UuPQugjrx9pQyEmfOeLrs) | [Dawit Cherent](https://open.spotify.com/artist/26MgB2XBEqAtyISkep3iC1) | [Sew, Pt\. 1 Mot](https://open.spotify.com/album/7bM7TdqRgpuDGl15zjFPet) | 5:16 | 2020-06-05 |  |
@@ -36,7 +36,7 @@
 | [Get to Work](https://open.spotify.com/track/2bvCPqlkiQGOUntCvgy1JR) | [Rophnan](https://open.spotify.com/artist/3LqZ41yvB4W7KSjEYLL31w) | [Reflection](https://open.spotify.com/album/3uuKxEAuZtmcAqF2TwfatE) | 3:49 | 2018-10-04 |  |
 | [Godanaw](https://open.spotify.com/track/7bTnPv7Wi0rLvgWvC6uxvo) | [Bisrat Surafel](https://open.spotify.com/artist/0oXAjQZ1LZgOVEqbZKqFKH) | [Kal Bekal](https://open.spotify.com/album/0pwi6ih9AabLeTFP8qjy9l) | 5:19 | 2018-10-04 |  |
 | [Gudaye Nesh](https://open.spotify.com/track/6QVMCGAzom2PygQBzcjlZs) | [Wondimu Jira](https://open.spotify.com/artist/0xksnjOFGOdADTRV5cKcV4) | [Ethiopian Slow Romantic Collection \- Vol.2](https://open.spotify.com/album/2PPPjvJCXafChPiOItKfip) | 4:30 | 2018-10-04 |  |
-| [Gude](https://open.spotify.com/track/4h3xIy5sNOJ2sPGcyVIRsd) | [Kako Getachew](https://open.spotify.com/artist/5SI6CCJiUtG5IUYdR45iBu) | [Mengedegna](https://open.spotify.com/album/7ktHIg4rf3y3U4DToGlIO3) | 4:53 | 2018-10-04 |  |
+| [Gude](https://open.spotify.com/track/4h3xIy5sNOJ2sPGcyVIRsd) | [Kako Getachew](https://open.spotify.com/artist/5SI6CCJiUtG5IUYdR45iBu) | [Mengedegna](https://open.spotify.com/album/7ktHIg4rf3y3U4DToGlIO3) | 0:29 | 2018-10-04 |  |
 | [Hager Alegn](https://open.spotify.com/track/2p3jtfV6Zq0aegDj1Mpbm8) | [Jano Band](https://open.spotify.com/artist/29rBOow0bKfFfNXRSzZrBm) | [Lerasih New](https://open.spotify.com/album/0uz6rUwEMsK4pHO39fsapv) | 4:59 | 2018-10-04 |  |
 | [Kenat Wediya](https://open.spotify.com/track/4iKrEZyjF2JcC5AukB2rBF) | [Jano Band](https://open.spotify.com/artist/29rBOow0bKfFfNXRSzZrBm) | [Lerasih New](https://open.spotify.com/album/0uz6rUwEMsK4pHO39fsapv) | 4:54 | 2018-10-04 |  |
 | [Keteraraw Mado](https://open.spotify.com/track/3BxMUw1RudApjSG9emnP5K) | [Jano Band](https://open.spotify.com/artist/29rBOow0bKfFfNXRSzZrBm) | [Lerasih New](https://open.spotify.com/album/0uz6rUwEMsK4pHO39fsapv) | 6:22 | 2020-07-21 |  |

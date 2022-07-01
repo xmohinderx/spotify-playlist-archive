@@ -4,7 +4,7 @@
 
 > New music from artists who are on our RADAR\. Featuring Baker Boy
 
-80 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/04ix1C8A2r6zTd5sj7E8wt)
+80 songs - 4 hr 6 min - [published](https://open.spotify.com/playlist/04ix1C8A2r6zTd5sj7E8wt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Area Baby](https://open.spotify.com/track/5BFaSmEPZSu4A7hcTtoNlP) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Area Baby](https://open.spotify.com/album/722ZytuYgZwwGZLF04HPog) | 2:41 | 2021-10-15 |  |
 | [Arizona](https://open.spotify.com/track/1mY2tkkszwkFccupfkOXe5) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [Arizona](https://open.spotify.com/album/0t7Jb4Pk8yl7811JG5Khgg) | 2:57 | 2021-10-15 |  |
 | [BAD LIKE RIRI](https://open.spotify.com/track/1rnTvRuAHx6NRcpC4fSXeg) | [Jesswar](https://open.spotify.com/artist/0A3iezHvtPZ8HxHn4RMmtl), [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [BAD LIKE RIRI](https://open.spotify.com/album/6plQgIsPgXrRsIa0zZCe5r) | 3:37 | 2021-10-15 |  |
-| [Billion Dollar Bitch](https://open.spotify.com/track/1NXsoL5kWo6j41SP1NUpLF) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Billion Dollar Bitch](https://open.spotify.com/album/5MiVQWINwHLDiOGTb20f0a) | 3:08 | 2021-10-15 |  |
+| [Billion Dollar Bitch](https://open.spotify.com/track/1NXsoL5kWo6j41SP1NUpLF) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Billion Dollar Bitch](https://open.spotify.com/album/5MiVQWINwHLDiOGTb20f0a) | 0:29 | 2021-10-15 |  |
 | [Bitter](https://open.spotify.com/track/79eCQPebdyC3gI8GqfuGsQ) | [LEX](https://open.spotify.com/artist/73R7pkwL1kz9gqVScbbjab) | [Bitter](https://open.spotify.com/album/4vaCIBFC6O0QMZFt6iwA0V) | 2:54 | 2021-10-15 |  |
 | [BLEED](https://open.spotify.com/track/4PQeiGGiaWjaujJWPjZswy) | [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [BLEED](https://open.spotify.com/album/6OQwaX0jFbUlUDdrF2dETa) | 3:02 | 2021-10-15 |  |
 | [BLUFFIN \(feat\. Mason Dane\)](https://open.spotify.com/track/1kCe8McGvdjR3IS1M1XfLS) | [Creed Tha Kid](https://open.spotify.com/artist/0Gzx0kLgEZkaNJYGJCbdYR), [Mason Dane](https://open.spotify.com/artist/77vYj1iBHh1gao0yd7ryGl) | [BLUFFIN \(feat\. Mason Dane\)](https://open.spotify.com/album/5QD6bQP0zb343YOQ7hPCI9) | 3:17 | 2021-10-15 |  |
@@ -38,7 +38,7 @@
 | [Happy Hangover](https://open.spotify.com/track/3ZJl1SIywHZqVrriDKn7fl) | [Hope D](https://open.spotify.com/artist/6IdzKFOGtbNz84qbJUMM4x) | [Happy Hangover](https://open.spotify.com/album/4h3KVC4rJ091snKcRorfWn) | 3:38 | 2021-10-15 |  |
 | [Headcase](https://open.spotify.com/track/4puDMkZIGlRQ4m8ht5AIEh) | [Matthew Young](https://open.spotify.com/artist/0EIJLgdMEPVJlnkmjWcx5q) | [Headcase](https://open.spotify.com/album/7El82WcUCLfUBRXEg8lJvs) | 3:06 | 2021-10-15 |  |
 | [Headphones](https://open.spotify.com/track/04B64zIf89qyXyEoxFS3pH) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK), [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [Gela](https://open.spotify.com/album/6U4EyQWAc1wCohtIV3wBqz) | 2:46 | 2021-10-15 |  |
-| [Healing](https://open.spotify.com/track/5LEqciYTIj0P54NFJpJk1I) | [JK\-47](https://open.spotify.com/artist/1MS6lYWuDWugNbdDhzEHvF), [Jay Orient](https://open.spotify.com/artist/7bgViO0G1B9CmxmNovYasB) | [Healing](https://open.spotify.com/album/1PInN5WeOf5BKxOSb24i9Z) | 2:52 | 2021-10-15 |  |
+| [Healing](https://open.spotify.com/track/5LEqciYTIj0P54NFJpJk1I) | [JK\-47](https://open.spotify.com/artist/1MS6lYWuDWugNbdDhzEHvF), [Jay Orient](https://open.spotify.com/artist/7bgViO0G1B9CmxmNovYasB) | [Healing](https://open.spotify.com/album/1PInN5WeOf5BKxOSb24i9Z) | 0:29 | 2021-10-15 |  |
 | [High Again](https://open.spotify.com/track/4XcWqGBXUjLGTqPqIFqk3M) | [Rory Noble](https://open.spotify.com/artist/1iuPOeEcwxvQsjw7UTsvfV) | [High Again](https://open.spotify.com/album/2pXLICjn51Qj1YwfwdfT9N) | 3:42 | 2021-10-15 |  |
 | [How We Livin'](https://open.spotify.com/track/10bGyAjMw61JLTs1ma3jxL) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [Kapulet](https://open.spotify.com/artist/1ViLuYdL1yATbOu4NDKedh) | [How We Livin'](https://open.spotify.com/album/3sBHXOVi0l6EIoK03h9ggc) | 3:38 | 2021-10-15 |  |
 | [I Dunno Her](https://open.spotify.com/track/0JgmVPijLg1iPO1LJeZ4zB) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [I Dunno Her](https://open.spotify.com/album/2hIE5CUKfg4stBrq2TC0aR) | 4:48 | 2021-10-15 |  |
@@ -81,7 +81,7 @@
 | [VALLEY NIGHTS](https://open.spotify.com/track/0lmio5qTap26ahHPRtRGoR) | [Tia Gostelow](https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5), [Hope D](https://open.spotify.com/artist/6IdzKFOGtbNz84qbJUMM4x), [Sahara Beck](https://open.spotify.com/artist/52eVN5OWWaV4fVShDeJIj3) | [VALLEY NIGHTS](https://open.spotify.com/album/1s4g6Hw6F4ZPwmizBQo3Q5) | 3:37 | 2021-10-15 |  |
 | [Vicious Love](https://open.spotify.com/track/0BQ6xllqXR18Wv9eGJZlnE) | [Niko Walters](https://open.spotify.com/artist/0iWMmFScSBxj1z3IisnGkB) | [Vicious Love](https://open.spotify.com/album/27rv7NZ9NKmlmt6VECV277) | 2:53 | 2021-10-15 |  |
 | [vodka orange juice](https://open.spotify.com/track/2yx7j2SdTCDYcDGPRFdSBz) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i) | [vodka orange juice](https://open.spotify.com/album/1WyIXN8s7H1sE4aZDOAhU9) | 3:59 | 2021-10-15 |  |
-| [Waiting Game](https://open.spotify.com/track/6AGmPgPDllC5CWzKFR2xLt) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Waiting Game](https://open.spotify.com/album/7ALXdmY9yM6JvPZgyM7YxT) | 3:37 | 2021-10-15 |  |
+| [Waiting Game](https://open.spotify.com/track/6AGmPgPDllC5CWzKFR2xLt) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Waiting Game](https://open.spotify.com/album/7ALXdmY9yM6JvPZgyM7YxT) | 0:29 | 2021-10-15 |  |
 | [What If He Put His Hands on You](https://open.spotify.com/track/3QJFUk14nTZEqQcMxTVGiW) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [Mine / What If He Put His Hands on You](https://open.spotify.com/album/1aYhrhdTX6bo60T1tAsoxw) | 3:07 | 2021-10-15 |  |
 | [When Skies Were Always Blue](https://open.spotify.com/track/1cxfKJMjgB4OY0mm3QVB6n) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [When Skies Were Always Blue](https://open.spotify.com/album/6ONL60dY4YafW6hPNEsFiN) | 4:15 | 2021-10-15 |  |
 | [Winnie Crush](https://open.spotify.com/track/1Pp8o0rIaUoU7JCWTcyHK6) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Winnie Crush](https://open.spotify.com/album/0a5dMmUgyFMjkLfLXJgmzs) | 2:54 | 2021-10-15 |  |

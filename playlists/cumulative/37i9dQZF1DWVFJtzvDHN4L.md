@@ -4,7 +4,7 @@
 
 > Relaxing soundtracks to help you escape and unwind.
 
-59 songs - 2 hr 50 min - [published](https://open.spotify.com/playlist/5XoyP0YYwv6kZa4UxwFOYH)
+59 songs - 2 hr 46 min - [published](https://open.spotify.com/playlist/5XoyP0YYwv6kZa4UxwFOYH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,13 +31,13 @@
 | [Les bijoux](https://open.spotify.com/track/2ouBCzavu59F6ZcJlb1kZ6) | [Alexandre Azaria](https://open.spotify.com/artist/6wFoIuf6haS7FtdH3RHQZE) | [Par instinct \(Bande originale du film\)](https://open.spotify.com/album/6fFbr0S4b7NTXnMQwspzmi) | 3:07 | 2021-11-19 |  |
 | [London 1998](https://open.spotify.com/track/4LlS0nNtGd8SuFkyVRpXY3) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [Denial \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29TiQwxSFV2hyxaA6tSlmN) | 1:41 | 2021-11-19 |  |
 | [Maps](https://open.spotify.com/track/5arnqM3mLtyOpdqDrbavQb) | [Nick Lloyd Webber](https://open.spotify.com/artist/3r0kvjF0xGitqk9azZVB35) | [The Last Bus \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/231VrH3cg7DOmHpLB2AlGx) | 1:48 | 2022-05-27 |  |
-| [Miss Sloane Solo](https://open.spotify.com/track/45SUuwxzQQzvnAaMjuM5XZ) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Miss Sloane \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yZ9kWiGkJ3i6fxWw9cxV9) | 2:07 | 2022-01-19 |  |
+| [Miss Sloane Solo](https://open.spotify.com/track/45SUuwxzQQzvnAaMjuM5XZ) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Miss Sloane \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yZ9kWiGkJ3i6fxWw9cxV9) | 0:29 | 2022-01-19 |  |
 | [Mother](https://open.spotify.com/track/37IexGi3KksWaXoS7pnd5P) | [Rhian Sheehan](https://open.spotify.com/artist/0H1edn1doFZiHiu2INB2CT) | [Belief: The Possession of Janet Moses \(Original Score\)](https://open.spotify.com/album/6zaq4nwu7LF2T1hUjbv2F5) | 1:18 | 2021-11-19 |  |
 | [My Dear Anne](https://open.spotify.com/track/1eHYVUE0AAjGzTySOPMHQc) | [Carter Burwell](https://open.spotify.com/artist/0SbSDzM4X41hnlURed0fcV) | [Three Billboards Outside Ebbing, Missouri \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ji7Dxq73HCW0UdoXWfOxP) | 2:37 | 2021-11-19 |  |
 | [Nemo Egg \(Main Title\)](https://open.spotify.com/track/0VEf913GDXMlb196o6VOCV) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Finding Nemo Original Soundtrack](https://open.spotify.com/album/7BWvDrobl2vSTnbDN7wXQk) | 1:16 | 2021-11-19 |  |
 | [New Queen](https://open.spotify.com/track/0saVGOHWPnGXus321u3c1i) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [The Crown: Season Three \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2Fo6fhIcRqerCpyYBORZWK) | 3:56 | 2021-11-19 |  |
 | [No Ball Games \(Original Motion Picture Soundtrack\)](https://open.spotify.com/track/4HUsC4vT6Aqeql8FKLfnbJ) | [Patrick Jonsson](https://open.spotify.com/artist/5wedfwksIuL9RVB3VpGxcl) | [No Ball Games \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4BIRDDEZoEEsDsEnXvb4Kg) | 2:01 | 2021-11-19 |  |
-| [Over The Pines](https://open.spotify.com/track/2gAIy3MuCMOZUejECGPBUa) | [Ben Sollee](https://open.spotify.com/artist/3Zzs4IqjV4b0yEFWqRv1si), [Time For Three](https://open.spotify.com/artist/5GK2hLwkSIVQSaQMTAmLbk) | [Over The Pines \(from the Motion Picture "Land"\)](https://open.spotify.com/album/2tCF0m1P1g25NcPfv0Sfjj) | 3:11 | 2021-11-19 |  |
+| [Over The Pines](https://open.spotify.com/track/2gAIy3MuCMOZUejECGPBUa) | [Ben Sollee](https://open.spotify.com/artist/3Zzs4IqjV4b0yEFWqRv1si), [Time For Three](https://open.spotify.com/artist/5GK2hLwkSIVQSaQMTAmLbk) | [Over The Pines \(from the Motion Picture "Land"\)](https://open.spotify.com/album/2tCF0m1P1g25NcPfv0Sfjj) | 0:29 | 2021-11-19 |  |
 | [Peaceful Here Now](https://open.spotify.com/track/6Xso6xtnjOUD4SrdvF911i) | [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [Deliver Us \(Original Series Soundtrack\)](https://open.spotify.com/album/0g6Fo4Z3u2WTtOtBqvL8nz) | 4:59 | 2021-11-19 |  |
 | [Reforestation \(Episode 5 \- Humans\)](https://open.spotify.com/track/0QFSpWrKKRynhxif8HBABr) | [Ilan Eshkeri](https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z) | [A Perfect Planet \(Soundtrack from the BBC Series\)](https://open.spotify.com/album/3ZJ14xDvYx604elVWCipDz) | 1:40 | 2021-11-19 |  |
 | [Reunion](https://open.spotify.com/track/2471iucIiHuZWcRn7FBzkF) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Proxima \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7t0jY4YHKGVnrv1pKfxzdj) | 2:39 | 2021-11-19 |  |

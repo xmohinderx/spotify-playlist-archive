@@ -4,7 +4,7 @@
 
 > All the megahits by the South Korean boy band are right here! Don't fight your feelings, EXO\-Ls!
 
-100 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/04BvKrq9MQVW5NqhblFRE4)
+100 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/04BvKrq9MQVW5NqhblFRE4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Ko Ko Bop](https://open.spotify.com/track/5EzitieoPnjyKHAq0gfRMa) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [THE WAR \- The 4th Album](https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn) | 3:10 | 2021-07-26 |  |
 | [Let’s Love](https://open.spotify.com/track/0wk4GYAryLcXEMvfhzU1bv) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Self\-Portrait \- The 1st Mini Album](https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1) | 3:49 | 2021-07-26 |  |
 | [LIGHTSABER \- Bonus Track](https://open.spotify.com/track/06SGUlo2pYQLmg8h2CsTzO) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [SING FOR YOU \- Winter Special Album, 2015](https://open.spotify.com/album/5gdBIiSdnlQ4VFrJQ2eAym) | 3:04 | 2021-07-26 |  |
-| [Lotto](https://open.spotify.com/track/63obpKLYuY1q2QP7Cbf29a) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOTTO \- The 3rd Album Repackage](https://open.spotify.com/album/73vdukUbH317FjvsE6kflf) | 3:09 | 2021-07-26 |  |
+| [Lotto](https://open.spotify.com/track/63obpKLYuY1q2QP7Cbf29a) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOTTO \- The 3rd Album Repackage](https://open.spotify.com/album/73vdukUbH317FjvsE6kflf) | 0:29 | 2021-07-26 |  |
 | [Love Again](https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Delight \- The 2nd Mini Album](https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc) | 3:25 | 2021-07-26 |  |
 | [LOVE ME RIGHT](https://open.spotify.com/track/3F76FuWseLvGkcgatzTD9q) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOVE ME RIGHT \- The 2nd Album Repackage](https://open.spotify.com/album/1LAtXrg1eSZ0sHbdzWoKAj) | 3:25 | 2021-07-26 |  |
 | [Love Shot](https://open.spotify.com/track/0yB4jrSwN0bFtFRDR5vyMj) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOVE SHOT– The 5th Album Repackage](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) | 3:20 | 2021-07-26 |  |
@@ -86,7 +86,7 @@
 | [Telephone](https://open.spotify.com/track/6ksOaijLwaSWTVRtPgakt0) | [EXO\-SC](https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [1 Billion Views \- The 1st Album](https://open.spotify.com/album/4t1SPfj4ogtEQUMu3OHI3Q) | 3:15 | 2021-07-26 |  |
 | [Tell Me \(What Is Love\)](https://open.spotify.com/track/0XFNh4Buo97mSzJK3C7gSJ) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC), [YOO YOUNG JIN](https://open.spotify.com/artist/10hnt5byoob9FKHUN8Awfa) | [Tell Me \(What Is Love\) \- SM STATION](https://open.spotify.com/album/4EWHLsHdiW6h5vSEiV2xvd) | 4:42 | 2021-07-26 |  |
 | [Tempo](https://open.spotify.com/track/1iifBZFQbZlO1BbeaO3KGi) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOVE SHOT– The 5th Album Repackage](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) | 3:44 | 2021-07-26 |  |
-| [That's okay](https://open.spotify.com/track/2Ghu1DdMwxS3VAyB7i38Wo) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [That's okay](https://open.spotify.com/album/6EzpktNa8oT04yXVfQieJf) | 3:41 | 2021-07-26 |  |
+| [That's okay](https://open.spotify.com/track/2Ghu1DdMwxS3VAyB7i38Wo) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [That's okay](https://open.spotify.com/album/6EzpktNa8oT04yXVfQieJf) | 0:29 | 2021-07-26 |  |
 | [The Eve](https://open.spotify.com/track/2ujA6F1cpk3m8lsPE5aKua) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [THE WAR \- The 4th Album](https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn) | 2:56 | 2021-07-26 |  |
 | [Trauma](https://open.spotify.com/track/4vh7bEuYAU9TtBRXwcLtn9) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOVE SHOT– The 5th Album Repackage](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) | 3:42 | 2021-07-26 |  |
 | [Trouble](https://open.spotify.com/track/5vZU1sYp7e1osTKWIMtof5) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [OBSESSION](https://open.spotify.com/album/7uNyF6MKaVHi5TJqIiNobm) | 3:17 | 2021-07-26 |  |

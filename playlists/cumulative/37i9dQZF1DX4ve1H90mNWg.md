@@ -4,7 +4,7 @@
 
 > Texas music breaking waves\. Cover, KenTheMan
 
-154 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/3z4DK6QkxF2O2T2EB2ZrKi)
+154 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/3z4DK6QkxF2O2T2EB2ZrKi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Houston](https://open.spotify.com/track/5754CiPkCAMNcu9DjkVPlb) | [Cico P](https://open.spotify.com/artist/3jAZsSIIA8HLjxR99biJyx) | [Houston](https://open.spotify.com/album/74CvpjIheYmmwEqHO9b7kV) | 2:48 | 2022-05-13 |  |
 | [I Miss You..\. Nvm](https://open.spotify.com/track/26AcRlHdYnATPkHfJzWGTz) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [I Miss You..\. Nvm](https://open.spotify.com/album/2bs1tI01AYtkwIbhOMQhSO) | 1:52 | 2022-05-13 |  |
 | [IDGAF](https://open.spotify.com/track/2lE8eyJfiWcOiAWIY1tOjn) | [Whookilledkenny](https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD) | [IDGAF](https://open.spotify.com/album/3hxTTzd658zM7Y5058CzaP) | 2:07 | 2022-01-29 | 2022-05-21 |
-| [I’m Not Kidding](https://open.spotify.com/track/5lkO0aXdKXWJXujSfSXKd4) | [Fade 'Em All](https://open.spotify.com/artist/5KPgrRE2BkgShDII1cH1HN) | [I’m Not Kidding](https://open.spotify.com/album/4SYPqCHMW50UULD6WdgPgV) | 3:52 | 2022-04-01 |  |
+| [I’m Not Kidding](https://open.spotify.com/track/5lkO0aXdKXWJXujSfSXKd4) | [Fade 'Em All](https://open.spotify.com/artist/5KPgrRE2BkgShDII1cH1HN) | [I’m Not Kidding](https://open.spotify.com/album/4SYPqCHMW50UULD6WdgPgV) | 0:29 | 2022-04-01 |  |
 | [JIGGA DAME](https://open.spotify.com/track/5XZu7BrTTyjzqOzr38sGg3) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [JIGGA DAME](https://open.spotify.com/album/4za5Cq5ARxUp6sCtegfJFm) | 1:44 | 2022-05-20 |  |
 | [Join Em](https://open.spotify.com/track/03h3onzQ3mkndoFCWIIgMd) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Hard On A 304](https://open.spotify.com/album/6a6DFsmuYzp39qKtn3UJ3P) | 2:50 | 2022-03-18 | 2022-06-08 |
 | [Juice Box](https://open.spotify.com/track/2jViL46toq1BVMaXGHQZF2) | [S3nsi Molly](https://open.spotify.com/artist/1BllYKfrGfZPGfUnL5MoSL) | [Juice Box](https://open.spotify.com/album/6WuVwA7Dq5s0jIqPNb63ua) | 2:49 | 2022-01-29 | 2022-03-18 |

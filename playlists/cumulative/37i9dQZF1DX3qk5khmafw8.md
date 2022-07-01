@@ -4,7 +4,7 @@
 
 > A collection of live, intimate, exclusive performances from the most exciting pop artists in the world.
 
-44 songs - 3 hr 3 min - [published](https://open.spotify.com/playlist/50ycKKXBiaxnqGP28LqDgJ)
+44 songs - 3 hr 0 min - [published](https://open.spotify.com/playlist/50ycKKXBiaxnqGP28LqDgJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Colours \- Spotify Sessions](https://open.spotify.com/track/1CwCOaxLVECC70M4g0OcwT) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spotify Sessions](https://open.spotify.com/album/5Jn1wIS3KhaUnDHWch4IIY) | 4:28 | 2013-11-08 |  |
 | [Contact High \- Live from Spotify NYC](https://open.spotify.com/track/73Pkn30bE2G358KFRZGpJb) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Spotify Sessions](https://open.spotify.com/album/3rfIZaJdpggsmWbx5SKcju) | 4:32 | 2013-11-08 |  |
 | [Daddy \- Live From Spotify NYC, USA/2012](https://open.spotify.com/track/3Ntl589nwfLR4fbxTM5uXg) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Spotify Sessions \- Live From Spotify NYC, USA/2012](https://open.spotify.com/album/23NSEnpwoyErSZ3FXXPx4N) | 4:09 | 2013-11-08 |  |
-| [Falling \- Live From Spotify Singapore / 2014](https://open.spotify.com/track/4EBS9ZxwIMQWLiodRK0PaN) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Spotify Sessions](https://open.spotify.com/album/2k3Xk2QZPruEfsTnLXL4tv) | 3:46 | 2014-05-06 |  |
+| [Falling \- Live From Spotify Singapore / 2014](https://open.spotify.com/track/4EBS9ZxwIMQWLiodRK0PaN) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Spotify Sessions](https://open.spotify.com/album/2k3Xk2QZPruEfsTnLXL4tv) | 0:29 | 2014-05-06 |  |
 | [Fire Escape \(Spotify Sessions\)](https://open.spotify.com/track/0IjDzZSUt3ClMtDYdySvyu) | [Civil Twilight](https://open.spotify.com/artist/6i4aN0I3l7uldsLTjbZOF8) | [Spotify Sessions](https://open.spotify.com/album/0JmE7RRGDsb96KjgUmnCXW) | 4:16 | 2013-11-08 |  |
 | [Fireflies \- Live From Spotify NYC](https://open.spotify.com/track/67zbwvJ9qPmkRn9xraQDj1) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Spotify Sessions](https://open.spotify.com/album/3x6lW5NAOFH4QXdiEgViwv) | 4:53 | 2013-11-08 |  |
 | [Heart Attack \- Live From Spotify NYC](https://open.spotify.com/track/7EijHxeMQoGQ2SXhXZhE3A) | [The Asteroids Galaxy Tour](https://open.spotify.com/artist/68g1s6VqLLLBI3tXR0Bb7C) | [Spotify Sessions](https://open.spotify.com/album/521FyiBeGMjalCwyczSBi8) | 4:28 | 2013-11-08 |  |

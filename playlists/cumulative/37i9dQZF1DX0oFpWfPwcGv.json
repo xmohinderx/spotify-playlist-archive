@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 519546,
       "name": "1979 It's Dancing Time (Full Length Album Mix)",
       "url": "https://open.spotify.com/track/4HeTM95uOsZgfZkj0WKJ3P"
@@ -56,7 +56,7 @@
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 261293,
+      "duration_ms": 29048,
       "name": "A Night in New York - Remastered",
       "url": "https://open.spotify.com/track/3Rnj5AkLsMjZ7LCkptJHx2"
     },
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 258253,
       "name": "Begin the Beguine",
       "url": "https://open.spotify.com/track/2hLAqf6uB6QusEUHfDf5oi"
@@ -272,7 +272,7 @@
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 590986,
+      "duration_ms": 29048,
       "name": "Come to Me",
       "url": "https://open.spotify.com/track/5wmVHVCMNO6TfCBcXU0cCk"
     },
@@ -329,7 +329,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 377405,
       "name": "Dance A Little Bit Closer - 12\" Mix",
       "url": "https://open.spotify.com/track/3cwMDPUQ0Y8PQSg68HV2Fn"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 457746,
       "name": "Doctor Love - Tom Moulton 12\" Mix",
       "url": "https://open.spotify.com/track/0zewaxyhaiad2J2V8X12GL"
@@ -553,7 +553,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 205270,
       "name": "I Need A Man",
       "url": "https://open.spotify.com/track/5DS30uxRoSI33dHWIrU4Bw"
@@ -668,6 +668,24 @@
     },
     {
       "album": {
+        "name": "If You Could Read My Mind",
+        "url": "https://open.spotify.com/album/0yCVcOhMbzwhCL1b8lYq8z"
+      },
+      "artists": [
+        {
+          "name": "Viola Wills",
+          "url": "https://open.spotify.com/artist/3zFfbTj9QY7pvmtjI53DB8"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 29048,
+      "name": "If You Could Read My Mind",
+      "url": "https://open.spotify.com/track/6SuipERmfkj0SDFkK6wAeR"
+    },
+    {
+      "album": {
         "name": "Disco Town",
         "url": "https://open.spotify.com/album/5V85BzpisFxZyK5bhlUZei"
       },
@@ -683,24 +701,6 @@
       "duration_ms": 204938,
       "name": "If You Could Read My Mind",
       "url": "https://open.spotify.com/track/009bHl93A8kHlbDJLjkqHV"
-    },
-    {
-      "album": {
-        "name": "If You Could Read My Mind",
-        "url": "https://open.spotify.com/album/0yCVcOhMbzwhCL1b8lYq8z"
-      },
-      "artists": [
-        {
-          "name": "Viola Wills",
-          "url": "https://open.spotify.com/artist/3zFfbTj9QY7pvmtjI53DB8"
-        }
-      ],
-      "date_added": "2022-05-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 335720,
-      "name": "If You Could Read My Mind",
-      "url": "https://open.spotify.com/track/6SuipERmfkj0SDFkK6wAeR"
     },
     {
       "album": {
@@ -805,7 +805,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 407800,
       "name": "Lady America",
       "url": "https://open.spotify.com/track/5kEbQwj3CHP9Bqn5gejdmd"
@@ -1024,7 +1024,7 @@
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 392066,
+      "duration_ms": 29048,
       "name": "Moment Of My Life - 12\" Version",
       "url": "https://open.spotify.com/track/0efOcjjzdfBxFJp6MZcXzC"
     },
@@ -1352,7 +1352,7 @@
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 322480,
+      "duration_ms": 29048,
       "name": "Stay Free",
       "url": "https://open.spotify.com/track/39rVzigiXOF0feDwgKzKIs"
     },

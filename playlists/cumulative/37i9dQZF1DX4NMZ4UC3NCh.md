@@ -4,7 +4,7 @@
 
 > Happiness! This is Red Velvet! The ReVe Festival 2022 is here!
 
-101 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/4k3z85A5Fsbx0TjazYclfQ)
+101 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/4k3z85A5Fsbx0TjazYclfQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Sunny Side Up!](https://open.spotify.com/track/782QoB4jJ7hEVJmkYzVrRE) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Finale](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) | 3:23 | 2022-03-22 |  |
 | [Take It Slow](https://open.spotify.com/track/1sa96RYgum6F5CdgIfPgwJ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The 1st Mini Album ‘Ice Cream Cake’](https://open.spotify.com/album/6eS6pnhJWgYL0A74Mp3RPc) | 3:31 | 2022-03-22 |  |
 | [Talk To Me](https://open.spotify.com/track/0X6SLg4pM3jdT9y18XYGN4) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Rookie \- The 4th Mini Album](https://open.spotify.com/album/01n9lwCLSigXsuY0AdFS9O) | 3:32 | 2022-03-22 |  |
-| [The Only \(feat\. IRENE of Red Velvet\)](https://open.spotify.com/track/63BGyvr6NuhA0q5NimghaG) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [IRENE](https://open.spotify.com/artist/1FCug8HMxqearaZB5qwWQj) | [The Only \(feat\. IRENE of Red Velvet\)](https://open.spotify.com/album/4uXskh6wXrlNDZ4UrSF8Lh) | 3:06 | 2022-03-22 |  |
+| [The Only \(feat\. IRENE of Red Velvet\)](https://open.spotify.com/track/63BGyvr6NuhA0q5NimghaG) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [IRENE](https://open.spotify.com/artist/1FCug8HMxqearaZB5qwWQj) | [The Only \(feat\. IRENE of Red Velvet\)](https://open.spotify.com/album/4uXskh6wXrlNDZ4UrSF8Lh) | 0:29 | 2022-03-22 |  |
 | [Time Slip](https://open.spotify.com/track/68uR6PcA8q1tBM44ZaFv9u) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red \- The 1st Album](https://open.spotify.com/album/56L226pRT1sHo2vgoJy5IB) | 3:39 | 2022-03-22 |  |
 | [Time To Love](https://open.spotify.com/track/6AdhHZfTC4ep1b2v7L0Hfl) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Perfect Red Velvet \- The 2nd Album Repackage](https://open.spotify.com/album/0OkJThJls8FO1lutMzMDJ0) | 3:15 | 2022-03-22 |  |
 | [Two Words](https://open.spotify.com/track/18htZlHsq2suy0AR1juUgV) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [START\-UP \(Original Television Soundtrack\) Pt\. 11](https://open.spotify.com/album/2UBD6fWbilJZvENLUXFCUn) | 3:59 | 2022-03-22 |  |
@@ -108,6 +108,6 @@
 | [러시안 룰렛 Russian Roulette](https://open.spotify.com/track/7AvXrOVEVRcfXxme2wo6Im) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/2pBrB5hW9CjLWWZGqrET2g) | 3:31 | 2022-03-22 |  |
 | [사탕 \(Candy\)](https://open.spotify.com/track/1KXNWNBTmdKB97kdo6vI4i) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The 1st Mini Album ‘Ice Cream Cake’](https://open.spotify.com/album/6eS6pnhJWgYL0A74Mp3RPc) | 4:22 | 2022-03-22 |  |
 | [처음인가요 First Time](https://open.spotify.com/track/0LOPFlsWqlqPpr0ICwMVcK) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Velvet \- The 2nd Mini Album](https://open.spotify.com/album/3ZkPccW7mkSC7BCulcPFJs) | 4:02 | 2022-03-22 |  |
-| [행복 \(Happiness\)](https://open.spotify.com/track/7N2nLFpfpkqJdpXIF0BVtM) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The 1st Single '행복\(Happiness\)'](https://open.spotify.com/album/6uhzbGOu7nsKxQthjMKz2N) | 3:40 | 2022-03-22 |  |
+| [행복 \(Happiness\)](https://open.spotify.com/track/7N2nLFpfpkqJdpXIF0BVtM) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The 1st Single '행복\(Happiness\)'](https://open.spotify.com/album/6uhzbGOu7nsKxQthjMKz2N) | 0:29 | 2022-03-22 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

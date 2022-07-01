@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTi4rHtlES7.md) - [plain]
 
 > Disfruta esta selección musical, de la mano de Poncho.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,032 likes - 50 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,035 likes - 50 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTi4rHtlES7.md) - [plain]
 | 31 | [Is It All Over My Face? \- Female Version](https://open.spotify.com/track/0QIl1aNSEMQL7BryNIi6dB) | [Loose Joints](https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173) | [Is It All Over My Face?](https://open.spotify.com/album/5bAVzhdknkLZTmByjTJ14N) | 7:07 |
 | 32 | [Kubrick](https://open.spotify.com/track/1CFiWVz6ZgrNYiMiSbhmiA) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Jungla Estelar](https://open.spotify.com/album/63AvcfmH5JCqUafT9Ar0ov) | 3:05 |
 | 33 | [El House](https://open.spotify.com/track/3BoWCLj7Iw9yx4RsuypHlQ) | [Alejandro Paz](https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL) | [El Untitled](https://open.spotify.com/album/4WWZ54GOihyzeMkEZ3EjLF) | 4:53 |
-| 34 | [No Van a Parar](https://open.spotify.com/track/1GLYsZMbHm72Uy2QvzdgDQ) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Anestesia](https://open.spotify.com/album/28uJVNr4dYysur0Fcay4B2) | 4:46 |
+| 34 | [No Van a Parar](https://open.spotify.com/track/1GLYsZMbHm72Uy2QvzdgDQ) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Anestesia](https://open.spotify.com/album/28uJVNr4dYysur0Fcay4B2) | 0:29 |
 | 35 | [She Don't Care](https://open.spotify.com/track/1JK6tqF5dIhmzIbW1hPhPl) | [Poncho](https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r), [Lucas Low](https://open.spotify.com/artist/3jr7qXo0CEuq5gGxMNi07r) | [She Don't Care](https://open.spotify.com/album/2itFSwOkpM7RWVHxzk3TTh) | 3:33 |
 | 36 | [Genius Of Love \(Poncho Remix\)](https://open.spotify.com/track/2q90bYsYCyekwLTSdAUqdg) | [Poncho](https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r), [Tom Tom Club](https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo) | [Ponchototal + Remixes](https://open.spotify.com/album/5rKID5kXlABtIgqMZyWeFA) | 3:57 |
 | 37 | [Out Of Control \- The Avalanches Surrender To Love Mix](https://open.spotify.com/track/7nIxmdgXEqb7TDMFUc8Erk) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [Out Of Control \(The Avalanches Surrender To Love Mix\)](https://open.spotify.com/album/3Fn0wItrIpiXD9w8lsMXhB) | 3:44 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTi4rHtlES7.md) - [plain]
 | 41 | [Estas Ahi?](https://open.spotify.com/track/1jjjsCOtXwGFvSHYsFKYpr) | [Poncho](https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r), [Betty Elizalde](https://open.spotify.com/artist/3EdbhbqivbCtEd29cwaUZ2) | [Ponchototal](https://open.spotify.com/album/1PM6cdi7UlpIfsBSlN0J5K) | 3:42 |
 | 42 | [First Time Around](https://open.spotify.com/track/6NWhHpQMeZmxOyd7IZu3Zp) | [Skyy](https://open.spotify.com/artist/5uFqO7FceiE84xjEjFtQLX) | [Larry Levan's Paradise Garage](https://open.spotify.com/album/1fkMUX3lpOJqFJBT8J6lDO) | 7:30 |
 | 43 | [De la Cabeza](https://open.spotify.com/track/4mReKGwpX1m4T1I7jAJhvU) | [DJs Pareja](https://open.spotify.com/artist/5oTo90z4UYa7QUQ3Je3dQ7) | [De la Cabeza](https://open.spotify.com/album/7da2CZdxzN0bUgu7WJU2Ri) | 5:31 |
-| 44 | [Bani](https://open.spotify.com/track/1edhO7oohKuhmkEGvDNXcR) | [Susso](https://open.spotify.com/artist/6eSUQltc7DkN4OiPgOl4VP) | [Keira](https://open.spotify.com/album/4RYg4wd3xq5aHVImUfpbw4) | 4:51 |
+| 44 | [Bani](https://open.spotify.com/track/1edhO7oohKuhmkEGvDNXcR) | [Susso](https://open.spotify.com/artist/6eSUQltc7DkN4OiPgOl4VP) | [Keira](https://open.spotify.com/album/4RYg4wd3xq5aHVImUfpbw4) | 0:29 |
 | 45 | [Starry Night \- Original Mix](https://open.spotify.com/track/5xwzmfxNAxZwMjznQ0eVXL) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Starry Night](https://open.spotify.com/album/6EgGBFTnsLi1WZaHDtpeie) | 6:38 |
 | 46 | [What's a Girl to Do](https://open.spotify.com/track/5N720bYInxSsiUDvBOLM3C) | [Fatima Yamaha](https://open.spotify.com/artist/7eZRt08LoDy0nfIS6OwyMP) | [A Girl Between Two Worlds](https://open.spotify.com/album/4MGNcuX4Vvhv2hhn1FwtDW) | 7:26 |
 | 47 | [Love Is In The Air](https://open.spotify.com/track/3c4OULLWwgRqBfA2dJtRuY) | [John Paul Young](https://open.spotify.com/artist/2wMcQIxzH2LYHJZNxo9FcN) | [I Hate the Music](https://open.spotify.com/album/28L7sCuuF8Zt6dW1FuZqRh) | 3:30 |

@@ -4,7 +4,7 @@
 
 > Soft piano versions of jazz classics to lull your baby to sleep.
 
-79 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/3lfP3rLqd7IKI2XgczwAsS)
+79 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/3lfP3rLqd7IKI2XgczwAsS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,12 +18,12 @@
 | [Blue Moon](https://open.spotify.com/track/5rmh8KIWhqte8XIfaowQEf) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Jazz Standard Lullabies](https://open.spotify.com/album/4SgbBMJb2slZ0mSnWJblIb) | 2:20 | 2022-05-24 |  |
 | [Brahms Lullaby \- Reprise](https://open.spotify.com/track/2WzSx8Ns1IoGiGy9WHDACI) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [Lullabies](https://open.spotify.com/album/3hq11SFFr5N1GiPUkx4xWZ) | 1:03 | 2022-04-12 |  |
 | [But Beautiful](https://open.spotify.com/track/2HrJMEYnGTwBSKVOV2v7Ks) | [Margaret Shu](https://open.spotify.com/artist/2rXYYqYz9gNCletxt5R1M5) | [You Know I Care](https://open.spotify.com/album/6stS7pmTQEtTSN6Gfiroul) | 3:51 | 2022-04-12 |  |
-| [Come Rain or Come Shine](https://open.spotify.com/track/0oVK8j9mHARdEf5IKX3r2s) | [John Paul Connor](https://open.spotify.com/artist/5tEfXL28fgpdT21o1yE7Zf) | [Embraceable You](https://open.spotify.com/album/1uyvwNjx3tPhpkvsinMZll) | 2:56 | 2022-04-12 |  |
+| [Come Rain or Come Shine](https://open.spotify.com/track/0oVK8j9mHARdEf5IKX3r2s) | [John Paul Connor](https://open.spotify.com/artist/5tEfXL28fgpdT21o1yE7Zf) | [Embraceable You](https://open.spotify.com/album/1uyvwNjx3tPhpkvsinMZll) | 0:29 | 2022-04-12 |  |
 | [Con Alma](https://open.spotify.com/track/5iOP4mVVppHxNUwonMF1St) | [Stephani Scotty](https://open.spotify.com/artist/6OlnJtXfRsVPDUm8eQCWGH) | [Con Alma](https://open.spotify.com/album/4PB3kgtOFwssoItP8ZuDAI) | 2:35 | 2022-06-01 |  |
 | [Darn That Dream](https://open.spotify.com/track/7wyqQSiefHCrYQ3xqAqfwJ) | [Ray Royston](https://open.spotify.com/artist/4Z8ZqLJlYjb7gGt3eFWfFG) | [Darn That Dream](https://open.spotify.com/album/1Hs8Ia3HjN1JzaXNEwJ6Y3) | 3:52 | 2022-04-12 |  |
-| [Dedicated To You](https://open.spotify.com/track/47k5XrHgnwF7yMRUALGOyt) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Dedicated To You](https://open.spotify.com/album/1d7Uj2w97J6ctIoXXAWxnP) | 4:45 | 2022-04-12 |  |
+| [Dedicated To You](https://open.spotify.com/track/47k5XrHgnwF7yMRUALGOyt) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Dedicated To You](https://open.spotify.com/album/1d7Uj2w97J6ctIoXXAWxnP) | 0:29 | 2022-04-12 |  |
 | [Dolphin Dance](https://open.spotify.com/track/1db8iPd7L5PMc7T2R1MOrR) | [Alfred Silverstein](https://open.spotify.com/artist/0n0lqiPhrNcf4uF5hjCkbW) | [The Nearness Of You](https://open.spotify.com/album/6ma76nnxJK36EugzKI3vPI) | 4:10 | 2022-04-12 |  |
-| [Embraceable You](https://open.spotify.com/track/2u1t4nMzVNG5Y5zwAyScxi) | [John Paul Connor](https://open.spotify.com/artist/5tEfXL28fgpdT21o1yE7Zf) | [Embraceable You](https://open.spotify.com/album/1uyvwNjx3tPhpkvsinMZll) | 2:12 | 2022-04-12 |  |
+| [Embraceable You](https://open.spotify.com/track/2u1t4nMzVNG5Y5zwAyScxi) | [John Paul Connor](https://open.spotify.com/artist/5tEfXL28fgpdT21o1yE7Zf) | [Embraceable You](https://open.spotify.com/album/1uyvwNjx3tPhpkvsinMZll) | 0:29 | 2022-04-12 |  |
 | [Emily](https://open.spotify.com/track/16EA5VBBsTJmrkyGw6mvfj) | [Simon Parrish](https://open.spotify.com/artist/7CJ8E44Q0ShDRlMUojPQ3q) | [Just Friends](https://open.spotify.com/album/6aHQy26R8FbK2bMPGzEion) | 2:00 | 2022-04-12 |  |
 | [Falling In Love With Love](https://open.spotify.com/track/70jKZ9jplvlnlAi0wKkadt) | [Janine Armstrong](https://open.spotify.com/artist/41t6NJqycI6qMpqTQkzybq) | [When I Fall in Love](https://open.spotify.com/album/1u9AjdFUJ82xNT7JwUVKR0) | 2:50 | 2022-04-12 |  |
 | [Georgia On My Mind](https://open.spotify.com/track/6KGqqJais6l3hxsn0D0U5d) | [Ben Hubert](https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz) | [Georgia On My Mind](https://open.spotify.com/album/28eTmi4KQYJ3iu3pRqT27u) | 3:30 | 2022-04-12 |  |

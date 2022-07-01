@@ -838,7 +838,7 @@
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 240095,
+      "duration_ms": 29048,
       "name": "Broken Love",
       "url": "https://open.spotify.com/track/1FWhEtW3U4QjSBtY9aIauZ"
     },
@@ -3037,7 +3037,7 @@
       ],
       "date_added": "2020-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 189440,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/0G39qwISlEd1XtHk0GEScn"
@@ -4488,7 +4488,7 @@
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 170603,
+      "duration_ms": 29048,
       "name": "Miss The Rest",
       "url": "https://open.spotify.com/track/1UE3EwqySM5IXywpXUyuNZ"
     },
@@ -5115,7 +5115,7 @@
       ],
       "date_added": "2021-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 201090,
       "name": "Picture Of You",
       "url": "https://open.spotify.com/track/3wFxiKVkDXYVRSqwZsG2MF"
@@ -5953,6 +5953,24 @@
       "duration_ms": 187629,
       "name": "slower",
       "url": "https://open.spotify.com/track/1bd4heB3yXc5iFTPoOMPuo"
+    },
+    {
+      "album": {
+        "name": "Small Talk",
+        "url": "https://open.spotify.com/album/7iuROt2yxUMHIrFFni6pyh"
+      },
+      "artists": [
+        {
+          "name": "Francis Karel",
+          "url": "https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188673,
+      "name": "Small Talk",
+      "url": "https://open.spotify.com/track/5J17jC78SZXMPfcoCvs0Uk"
     },
     {
       "album": {
@@ -7044,7 +7062,7 @@
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 266709,
+      "duration_ms": 29048,
       "name": "Waste My Time",
       "url": "https://open.spotify.com/track/6VKw8mwyk1Z1bFCXy1PC6C"
     },

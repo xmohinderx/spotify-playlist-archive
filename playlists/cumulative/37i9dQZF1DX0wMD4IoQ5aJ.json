@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "Lhotse",
+        "url": "https://open.spotify.com/album/0UOdspMM2Np1WVALtBLVdx"
+      },
+      "artists": [
+        {
+          "name": "West & Zander",
+          "url": "https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335876,
+      "name": "Agw\u00e9",
+      "url": "https://open.spotify.com/track/3P1ZUO9ammzR0p0t0Ez67Q"
+    },
+    {
+      "album": {
         "name": "ALFA-DELTA",
         "url": "https://open.spotify.com/album/7n9lRpIn21zIeAjtuFMM2a"
       },
@@ -560,7 +578,7 @@
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 116923,
+      "duration_ms": 29048,
       "name": "Bwindi Atmosphere",
       "url": "https://open.spotify.com/track/5R0UmdKHd2FfxOj6V3R6Iq"
     },
@@ -956,7 +974,7 @@
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 166779,
+      "duration_ms": 29048,
       "name": "Demurity",
       "url": "https://open.spotify.com/track/4YGkHrj5NQzSn3q2aJ4C9O"
     },
@@ -1208,7 +1226,7 @@
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 168813,
+      "duration_ms": 29048,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/4KohjkgXdXqYNHUOhcxJmF"
     },
@@ -1568,7 +1586,7 @@
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 200010,
+      "duration_ms": 29048,
       "name": "In Brevi",
       "url": "https://open.spotify.com/track/6IdoTS34g52DiT8RoOWQNl"
     },
@@ -1712,7 +1730,7 @@
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 162153,
+      "duration_ms": 29048,
       "name": "Kissing on the Dance Floor",
       "url": "https://open.spotify.com/track/3LHZHqkVQRfUbxWli3717M"
     },
@@ -1856,7 +1874,7 @@
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 187451,
+      "duration_ms": 29048,
       "name": "Memorabilia",
       "url": "https://open.spotify.com/track/1JlnKS9CRXwCJWemv0T1qY"
     },
@@ -1982,7 +2000,7 @@
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 227171,
+      "duration_ms": 29048,
       "name": "New Jade",
       "url": "https://open.spotify.com/track/0aXTlYIS7b7mMDMBUUAtFq"
     },
@@ -2039,6 +2057,24 @@
       "duration_ms": 243991,
       "name": "No Trip",
       "url": "https://open.spotify.com/track/2EeloLo4CTPRnhLDzSVuyc"
+    },
+    {
+      "album": {
+        "name": "Lhotse",
+        "url": "https://open.spotify.com/album/0UOdspMM2Np1WVALtBLVdx"
+      },
+      "artists": [
+        {
+          "name": "West & Zander",
+          "url": "https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338162,
+      "name": "Oak",
+      "url": "https://open.spotify.com/track/4kQW1ysBjYl5XePA40NKwT"
     },
     {
       "album": {
@@ -2287,7 +2323,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 171692,
       "name": "Rejuvenate",
       "url": "https://open.spotify.com/track/0yqLtGV1aM6EJcxqWvq95z"
@@ -3195,7 +3231,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 165707,
       "name": "Walk me home",
       "url": "https://open.spotify.com/track/1BuqwQuyQKhvxa5X3iDkec"

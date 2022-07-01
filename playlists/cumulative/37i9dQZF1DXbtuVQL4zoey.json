@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 132765,
       "name": "A Costa",
       "url": "https://open.spotify.com/track/009s8MccQSXM4pAQwsP59s"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 134142,
       "name": "A Trip for You",
       "url": "https://open.spotify.com/track/67ZzZ5axS4vv3HKb4052Ju"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 158000,
       "name": "And All That Jazz",
       "url": "https://open.spotify.com/track/0FeZHrVcF4dJ664G38Qfb8"
@@ -645,7 +645,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 150857,
       "name": "Buttercup",
       "url": "https://open.spotify.com/track/1XzSlTtvZTK7qx0m7Qep4y"
@@ -879,7 +879,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 118356,
       "name": "City Beatbox",
       "url": "https://open.spotify.com/track/55G7LzvJNYZJiPFitg1g4y"
@@ -933,7 +933,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 122666,
       "name": "Colinas Desde El Alba",
       "url": "https://open.spotify.com/track/6I5Sm9wrdGj7nvWhRv90du"
@@ -988,7 +988,7 @@
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 175135,
+      "duration_ms": 29048,
       "name": "contour",
       "url": "https://open.spotify.com/track/2Pb6ZuEm6FEfcGlqhHuqPN"
     },
@@ -1059,10 +1059,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 184007,
       "name": "Cruising Avenues",
       "url": "https://open.spotify.com/track/3pb6lOqe10g5OXtTyZA3Vb"
+    },
+    {
+      "album": {
+        "name": "La Muchacha Ochentas",
+        "url": "https://open.spotify.com/album/15rmla56JfHzwiuU4a9vyh"
+      },
+      "artists": [
+        {
+          "name": "The Man from Mexico",
+          "url": "https://open.spotify.com/artist/7ig2AJW5U845K57IhLZvdb"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Crushin",
+      "url": "https://open.spotify.com/track/0kzFqquPfU14JmkkUUHbX8"
     },
     {
       "album": {
@@ -1287,7 +1305,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 138000,
       "name": "Dusty",
       "url": "https://open.spotify.com/track/1H6lcREWzGbrL9fQSfhInB"
@@ -1461,7 +1479,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 104052,
       "name": "Fifth Avenue",
       "url": "https://open.spotify.com/track/7LiU8KqXyhzNOKaEZQncG5"
@@ -1766,7 +1784,7 @@
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 186000,
+      "duration_ms": 29048,
       "name": "Habana Vieja",
       "url": "https://open.spotify.com/track/1mI09jvN78SzxAk3pvHmiD"
     },
@@ -1929,7 +1947,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 218214,
       "name": "Hi and Lo(fi)",
       "url": "https://open.spotify.com/track/5DBgbH2SxV3XNYanN82cKV"
@@ -2193,7 +2211,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 117400,
       "name": "JazzJoint",
       "url": "https://open.spotify.com/track/1BcKCvfTMW3gVOw0TAkAqI"
@@ -2215,6 +2233,24 @@
       "duration_ms": 93913,
       "name": "jazzy gyal",
       "url": "https://open.spotify.com/track/0uban5XYHLYwQQIOPLpwEZ"
+    },
+    {
+      "album": {
+        "name": "Jovial",
+        "url": "https://open.spotify.com/album/4CLz4Ly8dEcRyUdp8n8nxG"
+      },
+      "artists": [
+        {
+          "name": "still yung",
+          "url": "https://open.spotify.com/artist/5g6oWIIspPHHUQ8c1ksVJ0"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132272,
+      "name": "Jovial",
+      "url": "https://open.spotify.com/track/4hCmMa1benzcqObgxDH2GU"
     },
     {
       "album": {
@@ -2265,7 +2301,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 101654,
       "name": "keyless",
       "url": "https://open.spotify.com/track/4b7vbNg9x0cgHjquvvhhZC"
@@ -2302,7 +2338,7 @@
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 141333,
+      "duration_ms": 29048,
       "name": "Lab",
       "url": "https://open.spotify.com/track/2kHDQldORUg2dYR1BOQlWc"
     },
@@ -2395,7 +2431,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 142000,
       "name": "Lazy Sundays At The Blue Coral",
       "url": "https://open.spotify.com/track/6QhBDlJF7pSy8gicZv0YJA"
@@ -2663,7 +2699,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 120000,
       "name": "Magic moment",
       "url": "https://open.spotify.com/track/6AisWOrqsQFJF5XQuoZQCX"
@@ -2966,6 +3002,24 @@
     },
     {
       "album": {
+        "name": "Underwater Romance",
+        "url": "https://open.spotify.com/album/39I6UxFK2Eyu42us6p4nb2"
+      },
+      "artists": [
+        {
+          "name": "Sports & Music",
+          "url": "https://open.spotify.com/artist/48hF8pmQ61ySf1iwpF3Yo9"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94430,
+      "name": "Nazar\u00e9",
+      "url": "https://open.spotify.com/track/734VfOf0xOEHf4wV5RcIzz"
+    },
+    {
+      "album": {
         "name": "Nectar",
         "url": "https://open.spotify.com/album/3aypCC4XBnjmVT5Cjhglab"
       },
@@ -3035,7 +3089,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 87666,
       "name": "Night Life",
       "url": "https://open.spotify.com/track/2zUieLYGQw3zc0OypN47qQ"
@@ -3244,6 +3298,24 @@
     },
     {
       "album": {
+        "name": "Outer circles",
+        "url": "https://open.spotify.com/album/0pXh5suqHtj7xz7kDtX29Y"
+      },
+      "artists": [
+        {
+          "name": "hoodeeny",
+          "url": "https://open.spotify.com/artist/7BCtXoU5pnFzU38zvpl6Cg"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183837,
+      "name": "Outer circles",
+      "url": "https://open.spotify.com/track/08K0FjEDRLXt3j1bjwTbcJ"
+    },
+    {
+      "album": {
         "name": "Padron Peppers",
         "url": "https://open.spotify.com/album/0Tbe84qMXurDdDK7xgHKGQ"
       },
@@ -3295,7 +3367,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 127087,
       "name": "Palm Beach",
       "url": "https://open.spotify.com/track/3EK9wi1Guh6qmKuPbjGKIC"
@@ -3639,7 +3711,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 131153,
       "name": "Retrospective",
       "url": "https://open.spotify.com/track/5BYOPUidJX9Hx0T6tv3lWA"
@@ -3729,7 +3801,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 152783,
       "name": "Run Boy",
       "url": "https://open.spotify.com/track/57kn96jwh3J2BzIeYrHURr"
@@ -3988,6 +4060,24 @@
     },
     {
       "album": {
+        "name": "Soleil",
+        "url": "https://open.spotify.com/album/4LUbRwvbihVlvuo2t7b5v5"
+      },
+      "artists": [
+        {
+          "name": "Geezmo",
+          "url": "https://open.spotify.com/artist/4WeV818vJ6dSmgg6c8VA49"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112941,
+      "name": "Soleil",
+      "url": "https://open.spotify.com/track/2LTcqJRepokYQMofS53rjt"
+    },
+    {
+      "album": {
         "name": "Solution",
         "url": "https://open.spotify.com/album/0JeowS9xwEgfLOdORmWc5l"
       },
@@ -3999,7 +4089,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 174132,
       "name": "Solution",
       "url": "https://open.spotify.com/track/59KFxZW9JsG5ZCImfl037l"
@@ -4205,7 +4295,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 161853,
       "name": "Stonecutter",
       "url": "https://open.spotify.com/track/6sA23FIxsg4TmejPXSaAXM"
@@ -4339,7 +4429,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 140364,
       "name": "Summer Melange",
       "url": "https://open.spotify.com/track/1PUFsHsuNM7R2DisPccFT7"
@@ -4451,7 +4541,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 171529,
       "name": "Sunflower Plaza",
       "url": "https://open.spotify.com/track/0FEwN2OMlnxy5AvSdgQDGW"
@@ -4559,7 +4649,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 142653,
       "name": "Talk About It",
       "url": "https://open.spotify.com/track/4y3r110Eb6leMBaoz83S4s"
@@ -4937,7 +5027,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 124337,
       "name": "Trippy",
       "url": "https://open.spotify.com/track/41V8oTrxIWOK9orYM2Aihk"
@@ -5230,7 +5320,7 @@
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 141064,
+      "duration_ms": 29048,
       "name": "Where the Sun Lives",
       "url": "https://open.spotify.com/track/1Q6Yq87dBVj1BYaiOsjKph"
     },
@@ -5291,7 +5381,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 156000,
       "name": "Winter Keys",
       "url": "https://open.spotify.com/track/6NT3drJc597TCEIK8LMFka"

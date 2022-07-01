@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjvpZJKWWzO.md) - [plain]
 
 > Los grandes éxitos de Celia Cruz Y Tito Puente en un mismo lugar\. Listen to both icons here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,090 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,120 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjvpZJKWWzO.md) - [plain]
 | 47 | [Vibe Mambo](https://open.spotify.com/track/2NC88JPy3RHHc75pW3oMRI) | [Tito Puente & His Orchestra](https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1) | [Anthology](https://open.spotify.com/album/07Q5OLmlloYGl8dVf1bdQ7) | 2:59 |
 | 48 | [Ay Mi Cuba](https://open.spotify.com/track/1wn4tJRraiHIx518NyMmHA) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Hector Casanova](https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4), [Adalberto Santiago](https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd), [Pete "El Conde" Rodriguez](https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa), [Justi Barreto](https://open.spotify.com/artist/6qH1QonyK2HnZE4QRBtyP2) | [Homenaje A Beny Moré](https://open.spotify.com/album/3kcPe4YnATOHYNLgwdXSAY) | 4:56 |
 | 49 | [Yeah!](https://open.spotify.com/track/24cOWyNs4aTr4Ol1dtXhh8) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Tito's Idea](https://open.spotify.com/album/1kHWWswdYnqytKxTQS6rxE) | 7:26 |
-| 50 | [Yo No Quiero Piedras En Mi Camino](https://open.spotify.com/track/4CcFy8b5WSld7ZvGpxLfb9) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Tributo A Ismael Rivera](https://open.spotify.com/album/3KPWwNdx8vwBe3AFAQixcc) | 4:58 |
+| 50 | [Yo No Quiero Piedras En Mi Camino](https://open.spotify.com/track/4CcFy8b5WSld7ZvGpxLfb9) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Tributo A Ismael Rivera](https://open.spotify.com/album/3KPWwNdx8vwBe3AFAQixcc) | 0:29 |
 
 Snapshot ID: `MTY0OTM0OTIxOCwwMDAwMDAwOTAwMDAwMTgwMDRkZmQyODYwMDAwMDE4MDA0ZGY1Mzg3`

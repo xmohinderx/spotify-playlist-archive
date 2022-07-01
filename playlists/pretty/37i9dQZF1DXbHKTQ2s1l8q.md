@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHKTQ2s1l8q.md) - [plain]
 
 > Beachy, acoustic tunes for lazy summer days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,164 likes - 103 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,183 likes - 103 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHKTQ2s1l8q.md) - [plain]
 | 7 | [Your Letter Made Me Smile](https://open.spotify.com/track/38nJhWtNoSagRzd7IWaqFi) | [Oliver Young](https://open.spotify.com/artist/1v27VC8z9CqB2tpHBzZ0xv) | [Just One Step At A Time](https://open.spotify.com/album/49pNKyGqE0DIc9vF9XVjGp) | 4:23 |
 | 8 | [The Bones](https://open.spotify.com/track/2iscuzrTQy4BNduk41rwC8) | [Dev Lin](https://open.spotify.com/artist/5Qz8NfhvVepyU3JXyLQq88) | [Riptide](https://open.spotify.com/album/7AWubZyMIE5eGvfG9UiOhV) | 3:24 |
 | 9 | [Bossa for Baden](https://open.spotify.com/track/0xp48lPf2ngBBC9CgW9LE6) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Botafogo](https://open.spotify.com/album/4RiZs4dwqI2Jybd4nHL59H) | 3:09 |
-| 10 | [Don't Belong Anywhere](https://open.spotify.com/track/6ehsAZzWS6dADcl5bQ5Hyb) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Don't Belong Anywhere](https://open.spotify.com/album/1qdJJiWx2rAQBmHJIo4Bgj) | 3:53 |
+| 10 | [Don't Belong Anywhere](https://open.spotify.com/track/6ehsAZzWS6dADcl5bQ5Hyb) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Don't Belong Anywhere](https://open.spotify.com/album/1qdJJiWx2rAQBmHJIo4Bgj) | 0:29 |
 | 11 | [Pegasi](https://open.spotify.com/track/1j1LCMYDvPMho2uWB5qdUg) | [Hugo Lemieux](https://open.spotify.com/artist/0jeKJVRZWoZzS4uZCOAC9g) | [Cycling](https://open.spotify.com/album/7LZX5Bublv8SEqy0A9lyuM) | 2:18 |
 | 12 | [Mirabella](https://open.spotify.com/track/7aRXzPNyUh0hLLJJ3oA1ry) | [Oleks Rudenko](https://open.spotify.com/artist/32r7SszS0EjJeiaeue1Fnc) | [Mirabella](https://open.spotify.com/album/1r9ghXZTQnM5TncbR8iCJU) | 3:19 |
 | 13 | [Don't Worry Be Happy](https://open.spotify.com/track/4CGLkQhF9G2aTExZChONix) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Don't Worry Be Happy / Let It Be](https://open.spotify.com/album/1ydxRAszbsOi1V9SMWsoP8) | 5:22 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHKTQ2s1l8q.md) - [plain]
 | 79 | [Nostalgia](https://open.spotify.com/track/0qHJd9jqgclHWGouSXRcOz) | [Fredrik Johansson](https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m) | [Nostalgia](https://open.spotify.com/album/38o8v1HxQz6vrJd0yPn1Ep) | 3:15 |
 | 80 | [Te Extraño](https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Te Extraño](https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT) | 2:32 |
 | 81 | [Promenade](https://open.spotify.com/track/4VIrNjPtGefpTAgQygmMQj) | [Martin Bruhn](https://open.spotify.com/artist/7Dac3ptM3pvSiPzkRVJ548), [Eltaly](https://open.spotify.com/artist/2843lHYtQpsY6AROyz0CRg) | [Horai](https://open.spotify.com/album/15TYXN1TmXcgavXe07R4Mw) | 3:36 |
-| 82 | [Clear Skies](https://open.spotify.com/track/5IbREiXznEMSrENm8iOOtw) | [Channing Spence](https://open.spotify.com/artist/7HHhJuGxvzmJzu0UOfrEEp) | [Clear Skies](https://open.spotify.com/album/3bIlYKIGezGDTciPBX3JLU) | 3:15 |
+| 82 | [Clear Skies](https://open.spotify.com/track/5IbREiXznEMSrENm8iOOtw) | [Channing Spence](https://open.spotify.com/artist/7HHhJuGxvzmJzu0UOfrEEp) | [Clear Skies](https://open.spotify.com/album/3bIlYKIGezGDTciPBX3JLU) | 0:29 |
 | 83 | [Radio Hula \- Instrumental](https://open.spotify.com/track/6Ix3gDxTKEfaNQqcqsTaWe) | [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K) | [Hawaiian Slack Key Guitar Masters, Vol\. 2](https://open.spotify.com/album/6bwChwiwN9rexZRQmXfdAb) | 3:35 |
 | 84 | [Unchained Melody](https://open.spotify.com/track/2qjBshXhqSVt5zYN0mXbgH) | [Bluetones](https://open.spotify.com/artist/19iDNndStvcWZ9squJXTQH) | [Unchained Melody](https://open.spotify.com/album/3nAn6vR2DDVo61rwaX9L5G) | 2:18 |
 | 85 | [Esperare](https://open.spotify.com/track/36FlYtI3NMyqEMBQlaH7Eb) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Esperare](https://open.spotify.com/album/3fO4NeuLeBx5S0Pabk5PaX) | 2:10 |

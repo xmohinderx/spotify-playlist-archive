@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWaD7ByJaBc.md) - [plain]
 
 > Artist, producer and writer behind many of your favourite songs makes his Pride selection for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,372 likes - 23 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,372 likes - 23 songs - 1 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWaD7ByJaBc.md) - [plain]
 | 11 | [One Dance](https://open.spotify.com/track/0JoaFxLgrqbWutREzcZBzS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO) | [One Dance](https://open.spotify.com/album/05FOcj5Cygu51XbAmlJd2k) | 2:53 |
 | 12 | [At Night \(I Think About You\)](https://open.spotify.com/track/29gadGnxeyCsHeXeRpEkeG) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [At Night \(I Think About You\)](https://open.spotify.com/album/5qEgag05el84wUpg7uZ5VH) | 3:35 |
 | 13 | [MNEK: Intro \- \#PressPlayForPride](https://open.spotify.com/track/0ULUk1ZukEuiFhceG48dO7) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [\#PressPlayForPride](https://open.spotify.com/album/3pjz5PfLYPdrxQfHuM7nao) | 0:20 |
-| 14 | [5050](https://open.spotify.com/track/27SoUicSO9DlSUQgeEBnpv) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [5050](https://open.spotify.com/album/1Y2yFuzTFDZbFDQjEF3VnF) | 3:15 |
+| 14 | [5050](https://open.spotify.com/track/27SoUicSO9DlSUQgeEBnpv) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [5050](https://open.spotify.com/album/1Y2yFuzTFDZbFDQjEF3VnF) | 0:29 |
 | 15 | [Obi Wan](https://open.spotify.com/track/2vz7qnx6mWWZfAy6FYq5lH) | [Wolfie](https://open.spotify.com/artist/4N5iE70O6AKNuFjnABYc4x) | [Obi Wan](https://open.spotify.com/album/5N5LSVdQOHObFgGNkQVmtQ) | 3:17 |
 | 16 | [Don't Let Me Down](https://open.spotify.com/track/1i1fxkWeaMmKEB4T7zqbzK) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Don't Let Me Down](https://open.spotify.com/album/2SByipSK8eZ2pasaIwwzhf) | 3:28 |
 | 17 | [I Remember](https://open.spotify.com/track/4dF34N2GqCY7CufabXEfOZ) | [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [I Remember](https://open.spotify.com/album/0k7RpFdAVsqS2ysaywaqFs) | 4:24 |

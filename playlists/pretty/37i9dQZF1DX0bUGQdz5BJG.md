@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Sacha
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,230 likes - 156 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,291 likes - 156 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 77 | [Everyone's An Outlaw](https://open.spotify.com/track/6EAxBdO83657qVoKoX6Qdb) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Everyone's An Outlaw](https://open.spotify.com/album/1TNo8JWuiWUYyRFA1WTzxR) | 3:20 |
 | 78 | [Gonna Be A Problem](https://open.spotify.com/track/3j7K4P3Ao5JM1hTnGpzhaG) | [Everette](https://open.spotify.com/artist/7LsMipSvTHNPCHQwuKuz2C) | [Gonna Be A Problem](https://open.spotify.com/album/3utofeGLiTLsNbq9Zvr0wX) | 3:02 |
 | 79 | [Critic](https://open.spotify.com/track/70mrIsFkdsc58aBJJWSNTO) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Critic](https://open.spotify.com/album/47aMURbtlVhMAlR50M6dd4) | 3:11 |
-| 80 | [Distraction](https://open.spotify.com/track/5e13nAMzDVRfCyHLB9rd5Y) | [Brandon Ray](https://open.spotify.com/artist/7uOj7ISCtmaA0BctMszzAw) | [Distraction](https://open.spotify.com/album/4dq9ZUZBmB939KhTBJsfQQ) | 3:18 |
+| 80 | [Distraction](https://open.spotify.com/track/5e13nAMzDVRfCyHLB9rd5Y) | [Brandon Ray](https://open.spotify.com/artist/7uOj7ISCtmaA0BctMszzAw) | [Distraction](https://open.spotify.com/album/4dq9ZUZBmB939KhTBJsfQQ) | 0:29 |
 | 81 | [Red Dirt Cursed](https://open.spotify.com/track/71UT0ooGTviqmCfpdClNoY) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Red Dirt Cursed](https://open.spotify.com/album/64evxUin5gboW74Ko8TFef) | 3:56 |
 | 82 | [In Our Blood](https://open.spotify.com/track/5Ut5HJUIE93J1bH1u5kGn3) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [In Our Blood](https://open.spotify.com/album/3b5D7JEovpIaebGbOdJTBX) | 2:53 |
 | 83 | [Say It](https://open.spotify.com/track/0KRIVhkwM3cP4etnY9Qm0o) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Say It](https://open.spotify.com/album/2Qt24wsU01H4Dn58cIsscS) | 3:05 |
@@ -134,7 +134,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 124 | [Young and Stupid](https://open.spotify.com/track/07Eq4v5xtaWJ8l4X2qzSiB) | [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Young and Stupid](https://open.spotify.com/album/5xl2oTEoecXlwCVQ6waF89) | 3:58 |
 | 125 | [Whatever She Sees in Me](https://open.spotify.com/track/5AHnYt0v2PRUbCtbQFoJws) | [Trey Lewis](https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO) | [Whatever She Sees in Me](https://open.spotify.com/album/38pm7sPwfWI6yE7V2R3xwI) | 3:09 |
 | 126 | [You Tomorrow](https://open.spotify.com/track/3dD9t67DdE4rK9GLFEgFkR) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [You Tomorrow](https://open.spotify.com/album/4pWu4oyOavYa48puudM4br) | 3:12 |
-| 127 | [Where Did All The Cowboys Go](https://open.spotify.com/track/2P5yyV1EA4CCqRhjXKro5p) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Be That Girl](https://open.spotify.com/album/7inCR1hQvn6iWSEbDsAXvR) | 3:15 |
+| 127 | [Where Did All The Cowboys Go](https://open.spotify.com/track/2P5yyV1EA4CCqRhjXKro5p) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Be That Girl](https://open.spotify.com/album/7inCR1hQvn6iWSEbDsAXvR) | 0:29 |
 | 128 | [Faded On Me](https://open.spotify.com/track/2yn1m3R7ShYGPsHKuvgbEJ) | [Alexander Ludwig](https://open.spotify.com/artist/0MlU9UKVEOkeyMdazSXif1) | [Faded On Me](https://open.spotify.com/album/5yJmWyimljNuXghn37qDSS) | 3:04 |
 | 129 | [Babies](https://open.spotify.com/track/045vMbY2pAsHzjFLqHcadn) | [Kasey Tyndall](https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2) | [Babies](https://open.spotify.com/album/5NGiKgJuCfMAvKvEwgOnTn) | 2:59 |
 | 130 | [When I Get Home](https://open.spotify.com/track/0pYO30NBbEZTqLzHj1eWww) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [When I Get Home](https://open.spotify.com/album/5Vx9kDNjXzjDyeOVajPWLA) | 3:13 |

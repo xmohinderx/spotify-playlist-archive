@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー:  水曜日のカンパネラ（WEDNESDAY CAMPANELLA）
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,775 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,773 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 5 | [織姫](https://open.spotify.com/track/78bW13NVk1xNbeRZuQ9Oqy) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ネオン](https://open.spotify.com/album/4tlqOW9ThwLtEBHPLWD27C) | 2:44 |
 | 6 | [ISOGA♡PEACH](https://open.spotify.com/track/2rUXvoihe7UXWbHogW3xNs) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [gokigen](https://open.spotify.com/album/4vNzwzawCSP3840t0wVEdE) | 2:53 |
 | 7 | [なんとなく最低な日々](https://open.spotify.com/track/5yvPNQ5yrBqbyBxQSgeWSu) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [祝典](https://open.spotify.com/album/2CoUwWsJBCVW5p0jSuURVh) | 4:14 |
-| 8 | [Your Love](https://open.spotify.com/track/0ZlacvDIHlKE1d6qzLjltK) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [I Hope It Lasts Forever](https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj) | 4:09 |
+| 8 | [Your Love](https://open.spotify.com/track/0ZlacvDIHlKE1d6qzLjltK) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [I Hope It Lasts Forever](https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj) | 0:29 |
 | 9 | [REM\-S](https://open.spotify.com/track/4fy4Zr8dJFXE6YZ92074AY) | [machìna](https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn) | [Trusted EP](https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9) | 5:40 |
 | 10 | [Queendom](https://open.spotify.com/track/3gX7aaWYtT3tLWUNblAbNe) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Queendom](https://open.spotify.com/album/4jj5K8UuV6fBOHj4nOCOON) | 3:27 |
 | 11 | [ハレンチ \- From THE FIRST TAKE](https://open.spotify.com/track/0puRn6e8uFDZ0zQ6MsEKcD) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [ハレンチ \(From THE FIRST TAKE\)](https://open.spotify.com/album/2VyZONrDkfcp0xgptRW7cQ) | 3:20 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 13 | [sachi](https://open.spotify.com/track/69Uo9tjInVgfAwyEzDVDnL) | [和田彩花](https://open.spotify.com/artist/4smBED5kqQ13oWZ5qBmbnu) | [sachi](https://open.spotify.com/album/21BPAvpo0TlaScMruOyFin) | 2:53 |
 | 14 | [ずるくない?](https://open.spotify.com/track/4alL49g2nf50xegCcGqDZt) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [ずるくない?](https://open.spotify.com/album/4n8v2qy6CaAySJN7yJ9gW7) | 3:28 |
 | 15 | [WINGSCAPE](https://open.spotify.com/track/50X7W6hC9kIUXa7HyZhxvO) | [Monari Wakita](https://open.spotify.com/artist/2bE5hvtCWXT5F30rcbPI5u) | [AHEAD!](https://open.spotify.com/album/7GESjzEKrQA99tJG5JTNEu) | 4:14 |
-| 16 | [Proud](https://open.spotify.com/track/5COxPQbNaVMsLEr3tuicvp) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [I Hope It Lasts Forever](https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj) | 3:56 |
+| 16 | [Proud](https://open.spotify.com/track/5COxPQbNaVMsLEr3tuicvp) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [I Hope It Lasts Forever](https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj) | 0:29 |
 | 17 | [MOONWALK](https://open.spotify.com/track/4vEyqRQOViSx5PcGgXy6Ws) | [SHIMA](https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI) | [MOONWALK](https://open.spotify.com/album/094PU8DEDh2QEZkMSGQvEF) | 2:30 |
 | 18 | [One Last Girl](https://open.spotify.com/track/7gAGzgQtONTcOOygJVK7vY) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Search + Destroy](https://open.spotify.com/album/3wDguisEiAJzZkeaILX46v) | 4:05 |
 | 19 | [Forked Tongue](https://open.spotify.com/track/4b6oDBE7YGDLQWJGyVxeO4) | [machìna](https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn) | [Trusted EP](https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9) | 5:14 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 22 | [DRAG](https://open.spotify.com/track/1E7ziN1yrE18pJ55ech2XR) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1) | [DRAG](https://open.spotify.com/album/6qItSBH2995bdjIe0qdoZx) | 3:15 |
 | 23 | [Hello](https://open.spotify.com/track/1qVjRYP91rmsDFpGbLbbik) | [CAPSULE](https://open.spotify.com/artist/61KJdJU38zrAW4c3PI9C9N) | [PLAYER](https://open.spotify.com/album/0cuYDX4CorPYfFTvzgQwG8) | 1:41 |
 | 24 | [Your Next](https://open.spotify.com/track/7aj8CY9wmj9RFDjQKeWvJL) | [EMMA WAHLIN](https://open.spotify.com/artist/5vLM0jSwj4TMVhnWuocoaD) | [Your Next](https://open.spotify.com/album/3O5ElEKrcZgpCqPrNZXUl2) | 3:38 |
-| 25 | [PLACE](https://open.spotify.com/track/4yzQrgwI6hJ1joxRJeF6Qv) | [Monari Wakita](https://open.spotify.com/artist/2bE5hvtCWXT5F30rcbPI5u) | [PLACE](https://open.spotify.com/album/6HKOv6XbkInBGz1WMvkrkH) | 4:06 |
+| 25 | [PLACE](https://open.spotify.com/track/4yzQrgwI6hJ1joxRJeF6Qv) | [Monari Wakita](https://open.spotify.com/artist/2bE5hvtCWXT5F30rcbPI5u) | [PLACE](https://open.spotify.com/album/6HKOv6XbkInBGz1WMvkrkH) | 0:29 |
 | 26 | [Mist \- TiMT Remix](https://open.spotify.com/track/0622Iukz3BiwM9nWHeossl) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz), [TiMT](https://open.spotify.com/artist/6JavWK8JRQbZ3oX9nrkSyb) | [Mist \(TiMT Remix\)](https://open.spotify.com/album/6wtdhI0Vop5ZtuxghsEpEl) | 4:38 |
 | 27 | [燐光](https://open.spotify.com/track/0fbS3fpGJkiUruNqXEkzPs) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC) | [燐光](https://open.spotify.com/album/1MHRY1Ahixbh9hJplFn1kX) | 5:29 |
 | 28 | [Telefon](https://open.spotify.com/track/73uwU7sDSuwFrZlnWrtToF) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [Telefon](https://open.spotify.com/album/3HNvc9pFtMiciNaIpJck83) | 4:44 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 41 | [TERRAPLANE](https://open.spotify.com/track/2XiO3lYou5hoHKbhZxG0Li) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1) | [TERRAPLANE](https://open.spotify.com/album/7gU7HZOk0NkBImfvakldNR) | 3:29 |
 | 42 | [クレイジーボーイ](https://open.spotify.com/track/2ka963rH1ezyei5ZvkgL2g) | [Sayonara Ponytail](https://open.spotify.com/artist/67FDqMJvln7C7mZLBMuu1X) | [クレイジーボーイ](https://open.spotify.com/album/6vhIYKgWgZfpPUFk7e3i5l) | 3:13 |
 | 43 | [果ての先へ](https://open.spotify.com/track/4xcAHBSQvO9ZkV4kPJcgsK) | [Sommeil Sommeil](https://open.spotify.com/artist/6HK15dcp6cE6r1XHo07Ldw) | [Bon voyage!](https://open.spotify.com/album/4zrlnxdDpLslD5niieUOCS) | 5:48 |
-| 44 | [私的礼讃](https://open.spotify.com/track/1vCgcnSr0eWHxVdzzm8VSF) | [和田彩花](https://open.spotify.com/artist/4smBED5kqQ13oWZ5qBmbnu) | [私的礼讃](https://open.spotify.com/album/2K92ywm8PM3knkk81axsFV) | 4:03 |
+| 44 | [私的礼讃](https://open.spotify.com/track/1vCgcnSr0eWHxVdzzm8VSF) | [和田彩花](https://open.spotify.com/artist/4smBED5kqQ13oWZ5qBmbnu) | [私的礼讃](https://open.spotify.com/album/2K92ywm8PM3knkk81axsFV) | 0:29 |
 | 45 | [ショービズ](https://open.spotify.com/track/68XciEBBih6OPPD9KkuQHx) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [祝典](https://open.spotify.com/album/2CoUwWsJBCVW5p0jSuURVh) | 3:56 |
 | 46 | [サンシャイン・ベイ](https://open.spotify.com/track/7u50rPr1co7HgH2mJcaET3) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [フリークエンシー・イン・ブルー](https://open.spotify.com/album/47MBRYj48CUS5rk0LrPCxE) | 3:16 |
 | 47 | [FIFTY\(like that\)](https://open.spotify.com/track/1GYCzmSydfpEAEBhj5sNWx) | [MIRRROR](https://open.spotify.com/artist/3NJ6G8RDMg7SsTBFvGrALn) | [POLARIZE](https://open.spotify.com/album/29GvMSLE8jiNLFsPnZqvlV) | 2:58 |

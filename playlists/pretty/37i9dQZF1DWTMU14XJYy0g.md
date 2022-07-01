@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Guasones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,687 likes - 101 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,794 likes - 101 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 50 | [La ultima carta](https://open.spotify.com/track/2yCBPSsMp9modg5Gmb9oqB) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Cicatrices](https://open.spotify.com/album/0B8RpNMbnIrTB8Q9Si7gYY) | 3:35 |
 | 51 | [Tiempo Sin Sueños \(feat\. Conociendo Rusia\)](https://open.spotify.com/track/2CuikRtiqFulp7zXdrayni) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Tiempo Sin Sueños \(feat\. Conociendo Rusia\)](https://open.spotify.com/album/0MqkE7OCyGvPSF7RfFiQLP) | 4:02 |
 | 52 | [La Ciudad Sin Alma](https://open.spotify.com/track/3sDI2suYX1N8IuszYbRmuZ) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [La Ciudad Sin Alma](https://open.spotify.com/album/5fKFrKFHXp0ZDaGSZ2YgQx) | 3:51 |
-| 53 | [Tiempos Dorados](https://open.spotify.com/track/0X3Akev0ewpzsIDMTpnQnS) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Tiempos Dorados](https://open.spotify.com/album/5UUC7peO4i1izq9yUIcKKq) | 3:15 |
-| 54 | [Contradicción](https://open.spotify.com/track/6IMOlshlqaBsYulRzzMMXc) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb), [Cachin Invernizzi](https://open.spotify.com/artist/0WTGRQKJ0bNZ9cedlfE3hw) | [Contradicción](https://open.spotify.com/album/4qc0pC1BmPkTNdEs0N9tbj) | 4:29 |
+| 53 | [Tiempos Dorados](https://open.spotify.com/track/0X3Akev0ewpzsIDMTpnQnS) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Tiempos Dorados](https://open.spotify.com/album/5UUC7peO4i1izq9yUIcKKq) | 0:29 |
+| 54 | [Contradicción](https://open.spotify.com/track/6IMOlshlqaBsYulRzzMMXc) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb), [Cachin Invernizzi](https://open.spotify.com/artist/0WTGRQKJ0bNZ9cedlfE3hw) | [Contradicción](https://open.spotify.com/album/4qc0pC1BmPkTNdEs0N9tbj) | 0:29 |
 | 55 | [Oro](https://open.spotify.com/track/29c0OXo0x1xYt6MMBXFmTn) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Oro](https://open.spotify.com/album/3iYqZjOvHf05btkIaihOUi) | 3:30 |
 | 56 | [Encuentros Cercanos](https://open.spotify.com/track/2Yqe9TulIPXUESIoMTr3pX) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Los Años Salvajes](https://open.spotify.com/album/6s0bWGDnpbhpCYx5JBUt8Y) | 4:26 |
 | 57 | [Diamante](https://open.spotify.com/track/1gz7RDz6Z6WroNWmGqYtaQ) | [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf), [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl) | [odio](https://open.spotify.com/album/2lkLm5GrGISldCNW4VWZkV) | 2:34 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 64 | [Tanto Tonto](https://open.spotify.com/track/74Z4on1nCgnIHgzN9XoARd) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Canciones Sobre una Casa, Cuatro Amigos y un Perro](https://open.spotify.com/album/311nosRPXrVfCY5fg1TK5M) | 1:49 |
 | 65 | [Ni Mierda](https://open.spotify.com/track/3wJHwgJ2UXYicGth7OCkUD) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Abran Paso](https://open.spotify.com/album/1I6Tfo2FpfHPuvC3Pvaq39) | 4:44 |
 | 66 | [Otras Puertas Otros Mundos](https://open.spotify.com/track/39p5pfqX8AJlnmI1jw2dzF) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [Otras Puertas Otros Mundos](https://open.spotify.com/album/2HBWXCLzuLDicoGfgksBJv) | 2:28 |
-| 67 | [Ataque de Nervios](https://open.spotify.com/track/5ohwtgVYVXy9nOc7J9h5ab) | [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Ataque de Nervios](https://open.spotify.com/album/0oXboB0KtD8JPyMgY5SNYj) | 3:31 |
-| 68 | [Soldado de Neón](https://open.spotify.com/track/326TyMiZ44Z4ivGKtbYFBO) | [KURZ](https://open.spotify.com/artist/6702vlPBoiA7zeDvv6wPkW) | [Brillando Azul](https://open.spotify.com/album/5JSehM5iItG5yLBN6Vh7xV) | 3:33 |
+| 67 | [Ataque de Nervios](https://open.spotify.com/track/5ohwtgVYVXy9nOc7J9h5ab) | [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Ataque de Nervios](https://open.spotify.com/album/0oXboB0KtD8JPyMgY5SNYj) | 0:29 |
+| 68 | [Soldado de Neón](https://open.spotify.com/track/326TyMiZ44Z4ivGKtbYFBO) | [KURZ](https://open.spotify.com/artist/6702vlPBoiA7zeDvv6wPkW) | [Brillando Azul](https://open.spotify.com/album/5JSehM5iItG5yLBN6Vh7xV) | 0:29 |
 | 69 | [Galvanizado](https://open.spotify.com/track/2fuNZrprXsWj8MxzAblDhO) | [La Mississippi](https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w) | [Galvanizado](https://open.spotify.com/album/4csOppCBwphip5JnxwhL7Z) | 3:17 |
 | 70 | [Buena Pipa](https://open.spotify.com/track/2ZZA0roqjGg2TcZ4R1BNnA) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Buena Pipa](https://open.spotify.com/album/6nmVCBzNjpor2ssPYl9C6P) | 4:08 |
 | 71 | [Suelto](https://open.spotify.com/track/6pCeEWCyIlOuwG5J3q2pKP) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Suelto](https://open.spotify.com/album/1Mb36xDeCUR5xmgIEt869k) | 3:43 |

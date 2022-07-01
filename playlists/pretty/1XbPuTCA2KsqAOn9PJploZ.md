@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1XbPuTCA2KsqAOn9PJploZ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,826 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,826 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/1XbPuTCA2KsqAOn9PJploZ.md) - [plain]
 | 7 | [I Don't Wanna Know \- Main](https://open.spotify.com/track/3DY2YYCnQss3comsFFaBcL) | [Mario Winans](https://open.spotify.com/artist/4BIQA9vRkqXEnA2twmq7mU), [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [I Don't Wanna Know](https://open.spotify.com/album/6ztPy9T5Aj188n4JACG5Wu) | 4:18 |
 | 8 | [Hey Ya!](https://open.spotify.com/track/3AszgPDZd9q0DpDFt4HFBy) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [The Way You Move / Hey Ya!](https://open.spotify.com/album/7etFl9qeqjD0luC40JAg8l) | 3:59 |
 | 9 | [Goodies \(feat\. Petey Pablo\)](https://open.spotify.com/track/3dFwpxh2yH7C7p9BGEKLVB) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Petey Pablo](https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9) | [Goodies](https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3) | 3:43 |
-| 10 | [Lean Back](https://open.spotify.com/track/6H7w7e8zC8QYJyqe7fZHVa) | [Terror Squad](https://open.spotify.com/artist/2BvzbqWWwLN11XGBYgDZzx) | [True Story](https://open.spotify.com/album/08eiFlUJxBR5wQy7k2cUBk) | 4:07 |
+| 10 | [Lean Back](https://open.spotify.com/track/6H7w7e8zC8QYJyqe7fZHVa) | [Terror Squad](https://open.spotify.com/artist/2BvzbqWWwLN11XGBYgDZzx) | [True Story](https://open.spotify.com/album/08eiFlUJxBR5wQy7k2cUBk) | 0:29 |
 | 11 | [Tipsy \- Club Mix](https://open.spotify.com/track/6fqqAsCYfDOtXAD8Ydo06K) | [J\-Kwon](https://open.spotify.com/artist/1Zz5UxfKSSqc6hpa3xJPCw) | [Tipsy](https://open.spotify.com/album/75g3L3m32TIGTugnpNeJDt) | 4:07 |
 | 12 | [Confessions Part II \- Confessions Special Edition Version](https://open.spotify.com/track/2VNJdBmlWLZfz9SQo8ob6V) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions](https://open.spotify.com/album/0jOW2i4TPmf4kwL0bOav3X) | 3:31 |
 | 13 | [Slow Motion](https://open.spotify.com/track/3U4t6vB2qcIrMMD5neGd2W) | [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Soulja Slim](https://open.spotify.com/artist/6tBnRI3ubWYclKSbGvGtKd) | [Hot Joints 2 \(International Version\)](https://open.spotify.com/album/4GTBZOqxoHCAIo5RNXWXur) | 4:08 |

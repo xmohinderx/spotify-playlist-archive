@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Reybong
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Shakira Jasmine
 
-96 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
+97 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,10 +90,11 @@
 | [Tafsir Mistik](https://open.spotify.com/track/0aPepMh9otBMbV4xKmiRtq) | [The Panturas](https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl) | [Tafsir Mistik](https://open.spotify.com/album/4b20NkzkPuqNDXmhcQ8gHi) | 4:09 | 2021-11-25 | 2022-03-25 |
 | [Takut](https://open.spotify.com/track/3ciZ0IbqYoFV7R20D0TBgA) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Semoga Sembuh](https://open.spotify.com/album/6x67lQpaX0KyEpmso8bfqh) | 5:19 | 2022-03-24 |  |
 | [Tarik Ulur](https://open.spotify.com/track/7HBnW7E26egSo7p7DWs9XH) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Tarik Ulur](https://open.spotify.com/album/3nOtvP5lymtIrN6UT4M3kC) | 3:41 | 2022-03-24 |  |
-| [Terlalu Sayang](https://open.spotify.com/track/4shyP6S00jyjHZZz9oRs7b) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Terlalu Sayang](https://open.spotify.com/album/4BvjQGyatE1Y4jmNgwAn3A) | 4:04 | 2022-03-24 |  |
+| [Terlalu Sayang](https://open.spotify.com/track/4shyP6S00jyjHZZz9oRs7b) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Terlalu Sayang](https://open.spotify.com/album/4BvjQGyatE1Y4jmNgwAn3A) | 0:29 | 2022-03-24 |  |
 | [The Stupid Song](https://open.spotify.com/track/4lfLg684A5uRL9gfNxQ1xx) | [Abraham Edo](https://open.spotify.com/artist/62iByAWLMcsNrR9aGr9gwB), [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [The Stupid Song](https://open.spotify.com/album/5vqqd9xADRv7Sq5ewjv5nx) | 2:45 | 2022-01-27 | 2022-03-25 |
 | [This Love Will Never End](https://open.spotify.com/track/2TqXDSUrc8zgMMI8KOHjCK) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [It's Never Easy](https://open.spotify.com/album/6GC6ht6osWTttTsnFXNc8L) | 3:45 | 2021-11-25 | 2022-03-25 |
 | [Timeless](https://open.spotify.com/track/01DZmwlwEM41LThtOOapZM) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [The More](https://open.spotify.com/album/2LjnDM6eo9JKIJ7E9rn6Np) | 3:50 | 2022-03-24 |  |
+| [Topeng](https://open.spotify.com/track/2iHfsyJp0tRdGH3xgSRtSz) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3), [Ajil Ditto](https://open.spotify.com/artist/2vtCmMvb2FdI8GbBkgGDE1), [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l), [Teuku Ryzki](https://open.spotify.com/artist/5sO5QK8taSVb6DPtAD0Xw0) | [Topeng](https://open.spotify.com/album/67m8hYyCtFwU9CaPVpyGAE) | 3:04 | 2022-06-30 |  |
 | [Unromantic](https://open.spotify.com/track/69yeuDVp8H8pQiJ69jO7gn) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [One](https://open.spotify.com/album/13P9zBl1EtCVYBrMbiPqXJ) | 2:21 | 2022-06-09 |  |
 | [UWU \(Unhappy Without You\)](https://open.spotify.com/track/7epyzR1KrrHDOUeieXyxka) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC) | [UWU \(Unhappy Without You\)](https://open.spotify.com/album/18TVJDxgsRqJlHU62hnJoJ) | 3:25 | 2021-11-25 | 2022-03-25 |
 | [Vanilla](https://open.spotify.com/track/1JVS1j91lyFfLltcWerYSh) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [One](https://open.spotify.com/album/13P9zBl1EtCVYBrMbiPqXJ) | 2:37 | 2022-06-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlXpl3xXzDI.md) - [plain]
 
 > Lekker rustig aan doen op maandag met deze zachte pop liedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,275 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,276 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,14 +23,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlXpl3xXzDI.md) - [plain]
 | 13 | [Teach Me How To Dance With You](https://open.spotify.com/track/3eqWhMow4fBmD22XuuNQTe) | [Causes](https://open.spotify.com/artist/1l48rGyg7MMLBbmP8MyFj3) | [Under Bridges That You Built For Me](https://open.spotify.com/album/20lXEjOaY6Il72FTbsgOhM) | 3:24 |
 | 14 | [Here, There And Everywhere \- Remastered](https://open.spotify.com/track/1dCGa0fzXpCWvQbpuoe28D) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Revolver \(Remastered\)](https://open.spotify.com/album/0PYyrqs9NXtxPhf0CZkq2L) | 2:24 |
 | 15 | [I Like You](https://open.spotify.com/track/5C2Vas6jEIarFNVhNHuTGB) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Walking in Between](https://open.spotify.com/album/66AxyK2y4ZugyEFc4IXsWu) | 2:18 |
-| 16 | [Settle](https://open.spotify.com/track/6JiiOlcOe1DCYpaMMlUNbK) | [Jordan Smith](https://open.spotify.com/artist/6TV0LZ3BaEun0OQEh96elP) | [Something Beautiful \(Deluxe Version\)](https://open.spotify.com/album/0KCUHaAxYIVucnEkeXwNaV) | 3:11 |
+| 16 | [Settle](https://open.spotify.com/track/6JiiOlcOe1DCYpaMMlUNbK) | [Jordan Smith](https://open.spotify.com/artist/6TV0LZ3BaEun0OQEh96elP) | [Something Beautiful \(Deluxe Version\)](https://open.spotify.com/album/0KCUHaAxYIVucnEkeXwNaV) | 0:29 |
 | 17 | [Lean On Me](https://open.spotify.com/track/6fFy9yYO8WJUY5lQfVaQKr) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Lean On Me](https://open.spotify.com/album/7nSiaooaqwCoFAwuel41I5) | 3:32 |
 | 18 | [Surround Me](https://open.spotify.com/track/6i09oKaV93wnEE5ighvD1E) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Surround Me](https://open.spotify.com/album/4k8SXyS6wqomsrdRT8gIWn) | 3:52 |
-| 19 | [October Road](https://open.spotify.com/track/0nILp5SpecXFvJQotZe48y) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [October Road \(Special Edition\)](https://open.spotify.com/album/3RHJNmuwD0fnwccBv2HTif) | 3:56 |
+| 19 | [October Road](https://open.spotify.com/track/0nILp5SpecXFvJQotZe48y) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [October Road \(Special Edition\)](https://open.spotify.com/album/3RHJNmuwD0fnwccBv2HTif) | 0:29 |
 | 20 | [Old Records \- Acoustic](https://open.spotify.com/track/40bfm9RRM6PY8cTckh0s6Z) | [Jacqueline Govaert](https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li) | [Old Records](https://open.spotify.com/album/2Mt62UoiVpVQCdxNIuuS0V) | 3:17 |
 | 21 | [Eyes Shut](https://open.spotify.com/track/1jABPS0UyMIdtJUsTcytCb) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Eyes Shut](https://open.spotify.com/album/06nyjUel1mnRqfK8bCJnQE) | 3:18 |
 | 22 | [How Long Will I Love You \- Bonus Track](https://open.spotify.com/track/7CFQrZR4WeKEg4vweqp8Gv) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon Days](https://open.spotify.com/album/2Dw4fYqDQnxsgoXDdMbqh3) | 2:34 |
-| 23 | [City Of Stars](https://open.spotify.com/track/3DrY78fwQBAuqlntINQRB4) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [City Of Stars](https://open.spotify.com/album/3v9QR7FRm3OfNywqWX5Trw) | 2:34 |
+| 23 | [City Of Stars](https://open.spotify.com/track/3DrY78fwQBAuqlntINQRB4) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [City Of Stars](https://open.spotify.com/album/3v9QR7FRm3OfNywqWX5Trw) | 0:29 |
 | 24 | [Up We Go](https://open.spotify.com/track/3hT4aulcGsGrgeoGU0M5Pj) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Midnight Machines](https://open.spotify.com/album/03Il5mMdE6JpkpHNpmlVeT) | 5:39 |
 | 25 | [Close To You](https://open.spotify.com/track/0ptKXVvF6qrNAjm9HGG0Rw) | [Michael Prins](https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m) | [De Beste Singer Songwriter van Nederland 2](https://open.spotify.com/album/5rWkw0mK0WGSWtZnfKE8DV) | 4:50 |
 | 26 | [So They Say](https://open.spotify.com/track/17O598wcIrissGHCqGuMM0) | [Rukhsana Merrise](https://open.spotify.com/artist/51WveHy70ZoLyFjZVgM9bn) | [September Songs](https://open.spotify.com/album/0dyGgvBAKPW2mOXlfrNR9M) | 2:56 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlXpl3xXzDI.md) - [plain]
 | 40 | [Sunday Smile](https://open.spotify.com/track/3U2imIBWN0BnTS516Lhjfr) | [Jake Troth](https://open.spotify.com/artist/4YYFbWfMM8Gr55Hddzkcrl) | [Sunday Smile](https://open.spotify.com/album/1f6eML7QLTmlI5lyMPsblL) | 3:28 |
 | 41 | [Lights Down Low](https://open.spotify.com/track/5brHijrNA7UAFw74p4f5v3) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Lights Down Low](https://open.spotify.com/album/0KWtVo7Q9QIpXycrm9MuWI) | 3:43 |
 | 42 | [Over And Over Again](https://open.spotify.com/track/4IcRwlfIwp7BDljw7m8cSe) | [Nathan Sykes](https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Over And Over Again](https://open.spotify.com/album/3eVtrM29JMD5lEn8mwBfo3) | 4:06 |
-| 43 | [Princess](https://open.spotify.com/track/3OzgmgV9iwlOSfrlPFNWxy) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Princess](https://open.spotify.com/album/7BoMdLxz0tfcAAV5ZW7W1J) | 3:56 |
+| 43 | [Princess](https://open.spotify.com/track/3OzgmgV9iwlOSfrlPFNWxy) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Princess](https://open.spotify.com/album/7BoMdLxz0tfcAAV5ZW7W1J) | 0:29 |
 | 44 | [Days of Old](https://open.spotify.com/track/7EUoHpKl506IJQlpYQUBsc) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Days of Old](https://open.spotify.com/album/6WUfZhaL11rvcFlgLtvQJP) | 3:15 |
 | 45 | [Morning Light](https://open.spotify.com/track/58FDKxg4uUVEOV0lSRHnQf) | [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [David Benjamin](https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW) | [Morning Light](https://open.spotify.com/album/61RZZpsBP6RXUofd4uv5NZ) | 3:14 |
 | 46 | [Sorry](https://open.spotify.com/track/39HyltGRsg2q0s5PMA9ala) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Control](https://open.spotify.com/album/7kunNk4rQrxOtatKGidJO4) | 3:47 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlXpl3xXzDI.md) - [plain]
 | 49 | [Let It Go](https://open.spotify.com/track/40EB7ABUO6MoWMUwPKptJ7) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/3G2kixP0Pi8L0KgmSYohb2) | 4:20 |
 | 50 | [Stone](https://open.spotify.com/track/5TDxhVHsd9AxcWieCsYtcs) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Sebastian Kole](https://open.spotify.com/artist/2Ve76xf8WEVRRfanpQHgLs) | [Know\-It\-All \(Deluxe\)](https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS) | 3:48 |
 | 51 | [Fortune Cookie](https://open.spotify.com/track/3FNCYiEmLHChlMxU6ShUrP) | [Emma Bale](https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV), [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Fortune Cookie](https://open.spotify.com/album/1XAojLcl9rDIzBy0BGC1ha) | 3:01 |
-| 52 | [Remedy](https://open.spotify.com/track/6CGf2aPvKj7497cZ6JMmGT) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 4:05 |
+| 52 | [Remedy](https://open.spotify.com/track/6CGf2aPvKj7497cZ6JMmGT) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 0:29 |
 | 53 | [She Treats Me Well](https://open.spotify.com/track/5N1itNLaYtifU8YVbg9SBQ) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4EcVVeYCeafIQk383MQfp5) | 5:17 |
 | 54 | [Chateau](https://open.spotify.com/track/2eKTPiHsDLaVV5aJpjW7Y3) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Chateau](https://open.spotify.com/album/08cceZ2uTJGPx6lsHDAaiU) | 4:33 |
 | 55 | [I'm Not In Love \- Edit](https://open.spotify.com/track/0o3x0nS7xb0SXStxGA3S3U) | [Monique Klemann](https://open.spotify.com/artist/4GJnr4GfSEBcsjMiyE67Uf) | [I'm Not In Love \(Edit\)](https://open.spotify.com/album/4ka3M6jWwfhOkeadSXqksY) | 3:25 |

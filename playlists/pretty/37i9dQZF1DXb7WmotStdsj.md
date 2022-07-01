@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > The very best Rai hits\. Cover: Cheb Bello.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,438 likes - 50 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,524 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 44 | [3adyani Bel Gros \- Remix Master T](https://open.spotify.com/track/1Z3UznHCGkclMLMOBRxeHN) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh), [Master T](https://open.spotify.com/artist/6zNY7V2iBFiUfOXTSNwA15) | [3adyani Bel Gros \(Remix Master T\)](https://open.spotify.com/album/0RdUojL9QBTuDHECRDrGFt) | 3:46 |
 | 45 | [Choufi Bentek Ma Daret Fiya](https://open.spotify.com/track/4hQgTdJF1Z1PdDrhjYBiUC) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [Choufi Bentek Ma Daret Fiya](https://open.spotify.com/album/2FN9F2iscX3gYpuqvsxAdD) | 5:25 |
 | 46 | [Bghitona natfarko](https://open.spotify.com/track/30SPX8Eue4UhihxU9cio7p) | [Mido Belahbib](https://open.spotify.com/artist/7jI8NXewNhX2JQjP6ycFGm) | [Bghitona natfarko](https://open.spotify.com/album/4baIAIwbTC2MqgKeIliPKU) | 2:33 |
-| 47 | [Hkayetna Tkhlass Lyoum](https://open.spotify.com/track/24qwVpC78t6IkQCcUNw9gV) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1), [Bibi Maestro](https://open.spotify.com/artist/3rhycpQTLaIhJpM2e38d8A) | [Hkayetna Tkhlass Lyoum](https://open.spotify.com/album/3VUIHN3PowVv65jGKndH7t) | 6:50 |
+| 47 | [Hkayetna Tkhlass Lyoum](https://open.spotify.com/track/24qwVpC78t6IkQCcUNw9gV) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1), [Bibi Maestro](https://open.spotify.com/artist/3rhycpQTLaIhJpM2e38d8A) | [Hkayetna Tkhlass Lyoum](https://open.spotify.com/album/3VUIHN3PowVv65jGKndH7t) | 0:29 |
 | 48 | [Ga3 Li Srali](https://open.spotify.com/track/4VwGNd7gYBkudOycgXZWpF) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Ga3 Li Srali](https://open.spotify.com/album/2UIsgooFCMOW5g3cVIH6lX) | 3:34 |
 | 49 | [على رواحنا منكذبوش](https://open.spotify.com/track/5BaSu9ES2R8LIYxAZBTqQA) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [على رواحنا منكذبوش](https://open.spotify.com/album/0Oe1AG3aTF6lEyNyKAzo68) | 4:20 |
 | 50 | [Chira brune](https://open.spotify.com/track/5ykL3LdQ7Ls8T2Ii2YMmfG) | [Cheb Mourad](https://open.spotify.com/artist/2zjXHi6RZyaS2t0P1BrxBs) | [Chira brune](https://open.spotify.com/album/2mF9wTY2zWXkU1SczMu1nl) | 8:52 |

@@ -141,7 +141,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 209666,
       "name": "All Arounder",
       "url": "https://open.spotify.com/track/3DMr9P61InT0goLxEuBPo4"
@@ -160,7 +160,7 @@
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 310040,
+      "duration_ms": 29048,
       "name": "All Your Love Is Gone",
       "url": "https://open.spotify.com/track/3IkvqGZwGudLv1nJnxSc8b"
     },
@@ -1090,7 +1090,7 @@
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 607426,
+      "duration_ms": 29048,
       "name": "Hallogallo",
       "url": "https://open.spotify.com/track/1v3Hh6pN38de4fHXA9d2ln"
     },
@@ -1288,7 +1288,7 @@
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 501373,
+      "duration_ms": 29048,
       "name": "I Hear the Vibrations",
       "url": "https://open.spotify.com/track/2JFuf7873vzHiJqpmwFTVL"
     },
@@ -1342,7 +1342,7 @@
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 319560,
+      "duration_ms": 29048,
       "name": "If You Miss",
       "url": "https://open.spotify.com/track/224gSW6JNmlVJJI7FN96bw"
     },
@@ -1377,7 +1377,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 177306,
       "name": "Infinity Plus One",
       "url": "https://open.spotify.com/track/704eXLJ2a1MNfzF0KHuSg0"
@@ -1511,7 +1511,7 @@
     {
       "album": {
         "name": "Vol. One",
-        "url": "https://open.spotify.com/album/3oTHbe3UsgjOdI2QTpfQhw"
+        "url": "https://open.spotify.com/album/2xYvG2JLe6lytIruRbfxXE"
       },
       "artists": [
         {
@@ -1522,6 +1522,24 @@
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 304173,
+      "name": "Kit and Holly",
+      "url": "https://open.spotify.com/track/5xVjImmNqZSL3Owsa6dETn"
+    },
+    {
+      "album": {
+        "name": "Vol. One",
+        "url": "https://open.spotify.com/album/3oTHbe3UsgjOdI2QTpfQhw"
+      },
+      "artists": [
+        {
+          "name": "Echoboy",
+          "url": "https://open.spotify.com/artist/1dW6E3Ffnkng9MJjKlwhk6"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-01",
       "duration_ms": 304173,
       "name": "Kit and Holly",
       "url": "https://open.spotify.com/track/76trKReLczdWPVRfKsJIcb"
@@ -1832,7 +1850,7 @@
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 191076,
+      "duration_ms": 29048,
       "name": "Make Out Fade Out",
       "url": "https://open.spotify.com/track/2dMunf6FJIBck5WtLCre2m"
     },
@@ -2058,6 +2076,24 @@
     },
     {
       "album": {
+        "name": "Not The Time / Callous",
+        "url": "https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU"
+      },
+      "artists": [
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170760,
+      "name": "Not The Time",
+      "url": "https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF"
+    },
+    {
+      "album": {
         "name": "Novembergrey",
         "url": "https://open.spotify.com/album/3VcUtuobKYEvdtVBIm1vEX"
       },
@@ -2073,7 +2109,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 438321,
       "name": "Novembergrey",
       "url": "https://open.spotify.com/track/3OYgSOOwiTnWNwwS9KTOsC"
@@ -2271,7 +2307,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 261266,
       "name": "Pendulum",
       "url": "https://open.spotify.com/track/1zQ9HyzqFr7xpNeUszTfUf"
@@ -2293,6 +2329,32 @@
       "duration_ms": 219428,
       "name": "Phase Modulation Shuffle (Edit)",
       "url": "https://open.spotify.com/track/6P3wuqOj57ljpXpSHOy8fH"
+    },
+    {
+      "album": {
+        "name": "BURN SLOW REMIXES PT. II",
+        "url": "https://open.spotify.com/album/6N38WEXjOrNyQvINkXQt2l"
+      },
+      "artists": [
+        {
+          "name": "Chris Liebing",
+          "url": "https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI"
+        },
+        {
+          "name": "Gary Numan",
+          "url": "https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE"
+        },
+        {
+          "name": "Chris Carter",
+          "url": "https://open.spotify.com/artist/4Fw9V88d2NoplsZBOkBWaS"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322174,
+      "name": "Polished Chrome (The Friend, Pt. 1) - Remixed by Chris Carter",
+      "url": "https://open.spotify.com/track/3zNVEks111bPdsn0wAQHYg"
     },
     {
       "album": {
@@ -2952,6 +3014,24 @@
     },
     {
       "album": {
+        "name": "Lovely Allen",
+        "url": "https://open.spotify.com/album/70GJhjsFTh47FvAGJw5DXb"
+      },
+      "artists": [
+        {
+          "name": "Holy Fuck",
+          "url": "https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224880,
+      "name": "Super Inuit (Studio)",
+      "url": "https://open.spotify.com/track/1xeYbKA8tshHvtbEAZVskj"
+    },
+    {
+      "album": {
         "name": "Switched On",
         "url": "https://open.spotify.com/album/3WZI3BhUd4TQl4CmNNm1HS"
       },
@@ -3183,6 +3263,24 @@
       "duration_ms": 295026,
       "name": "To the East",
       "url": "https://open.spotify.com/track/1bzQEsGH0KEMLt9ZlJ3vmk"
+    },
+    {
+      "album": {
+        "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 1",
+        "url": "https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ"
+      },
+      "artists": [
+        {
+          "name": "Kosmischer L\u00e4ufer",
+          "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392320,
+      "name": "Tonband Laufspur",
+      "url": "https://open.spotify.com/track/2lHk5LW04d246aunZYEPcr"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。毎週月曜日更新。Cover: 菅田将暉\(Masaki Suda\)
 
-313 songs - 19 hr 41 min - [published](https://open.spotify.com/playlist/2sQ5Fh8iNKxcYtrG1CztwE)
+314 songs - 19 hr 45 min - [published](https://open.spotify.com/playlist/2sQ5Fh8iNKxcYtrG1CztwE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [ニュー・マイ・ノーマル](https://open.spotify.com/track/12fFNgW4IoYQdRCfqCPk9d) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ニュー・マイ・ノーマル](https://open.spotify.com/album/6kXUdiTN9VZ4TeDKSOW7eq) | 4:04 | 2022-03-21 | 2022-05-30 |
 | [ハレンチ](https://open.spotify.com/track/0e1k2ptLJEtnlM4Fy8QVo6) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [ハレンチ](https://open.spotify.com/album/46xGJVWJusnDYoi6skhS4s) | 3:18 | 2021-12-19 | 2022-01-10 |
 | [ハート](https://open.spotify.com/track/6cvKfEw8rDcmXBslqSEC9G) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ハート](https://open.spotify.com/album/2TMrGnNWnF1GgUwRY427zk) | 4:31 | 2021-12-19 | 2022-01-31 |
+| [バニラ](https://open.spotify.com/track/0zfNtgPJ5FLkbveRjSdCMb) | [Kyanai](https://open.spotify.com/artist/42ogLtXLVjZryRz9j1zvOm) | [バニラ](https://open.spotify.com/album/5z81aORHET86OyFXrkugMb) | 4:11 | 2022-06-30 |  |
 | [バレンタインソング](https://open.spotify.com/track/7wXGR6MfXdyhu9SPwu1TXm) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [バレンタインソング](https://open.spotify.com/album/5K2mILUEXZHzFCpdreZv0j) | 2:43 | 2022-02-06 | 2022-02-14 |
 | [パッと咲いて散って灰に](https://open.spotify.com/track/7dhfRM5zkUWFsC8gD2rsh6) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [パッと咲いて散って灰に](https://open.spotify.com/album/0ZLf6eXoTxUWN5iXIr0hhI) | 2:43 | 2022-03-13 | 2022-04-18 |
 | [フレンヅ](https://open.spotify.com/track/2YdtxfndCrtPfIgxEOtRjJ) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [フレンヅ](https://open.spotify.com/album/5MeXkPPd4wYklmKNEGcq4f) | 2:52 | 2021-12-19 | 2022-01-17 |
@@ -245,7 +246,7 @@
 | [告白](https://open.spotify.com/track/1wSx4QJ82TQpT2WAjAa2fA) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA), [Huwie Ishizaki](https://open.spotify.com/artist/4NZJF1Qong0IAWBRE2EjTr) | [告白](https://open.spotify.com/album/605KBeQ7Mxy1vvgrcxWZgv) | 4:00 | 2022-01-30 | 2022-02-28 |
 | [喜劇](https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [喜劇](https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB) | 3:50 | 2022-04-10 |  |
 | [嘘寝](https://open.spotify.com/track/5hUqa7aXDPzl8H3gdavuns) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [嘘寝](https://open.spotify.com/album/7zkHeXykXJfponPUUjvvGM) | 3:47 | 2022-06-19 | 2022-06-28 |
-| [夢のまた夢 feat\. tofubeats](https://open.spotify.com/track/2qzV8U4qIdaRjlq68eC8dt) | [VaVa](https://open.spotify.com/artist/5JlRv2tBZk1f4c7UULHkUY), [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [VVARP](https://open.spotify.com/album/6bO46oE7GTo0UobYI15jEq) | 3:36 | 2022-06-12 |  |
+| [夢のまた夢 feat\. tofubeats](https://open.spotify.com/track/2qzV8U4qIdaRjlq68eC8dt) | [VaVa](https://open.spotify.com/artist/5JlRv2tBZk1f4c7UULHkUY), [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [VVARP](https://open.spotify.com/album/6bO46oE7GTo0UobYI15jEq) | 3:36 | 2022-06-12 | 2022-07-01 |
 | [夢喰](https://open.spotify.com/track/09eGoLGb5TkQhprZWHOakY) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [夢喰](https://open.spotify.com/album/0ITHjOTVymCdDZiCryNms7) | 3:05 | 2022-06-26 |  |
 | [大人になって](https://open.spotify.com/track/50QZPjbeLQB9lQgRwJuppl) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [大人になって](https://open.spotify.com/album/7jvVYxNzMnAGGXUBOOojjA) | 4:00 | 2022-04-03 | 2022-05-02 |
 | [大好物](https://open.spotify.com/track/3W4yKXVQ2BPWUZT8gsCf7W) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [大好物](https://open.spotify.com/album/6crN5g09Zh5aLpWuNxXUjx) | 4:08 | 2021-12-19 | 2022-01-17 |

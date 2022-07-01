@@ -4,7 +4,7 @@
 
 > congrats class of 2021, you crushed it this year \\m/ Cover: WILLOW
 
-50 songs - 2 hr 26 min - [published](https://open.spotify.com/playlist/0gRbgPGo5N1a8Os2Z8btid)
+50 songs - 2 hr 20 min - [published](https://open.spotify.com/playlist/0gRbgPGo5N1a8Os2Z8btid)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,10 +13,10 @@
 | [Boring](https://open.spotify.com/track/3FfxSDPqcaUuisrMQmiheD) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Boring](https://open.spotify.com/album/6ScocnQZ8S77TH9iOKPY1o) | 3:28 | 2021-12-01 |  |
 | [Chillthefuckout.](https://open.spotify.com/track/5IaL7Dft0IRhwaz4royvg7) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [Chillthefuckout.](https://open.spotify.com/album/35iLKz1x1VW4q6mt6Zfk3u) | 2:47 | 2021-12-01 |  |
 | [congratulations](https://open.spotify.com/track/2ad0hTq75JpcB4JzmZPCbC) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [how u stop hating urself \(pt 1.5\)](https://open.spotify.com/album/7vHfgHVoXFsx5ysSpKEHvQ) | 2:12 | 2021-12-01 |  |
-| [Crash and Burn](https://open.spotify.com/track/4wFK5ESRSBrmVDjOkOSa7g) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [PARANOIA](https://open.spotify.com/album/5CEcwEyL9wMG4TygYNTFgw) | 2:39 | 2021-12-01 |  |
+| [Crash and Burn](https://open.spotify.com/track/4wFK5ESRSBrmVDjOkOSa7g) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [PARANOIA](https://open.spotify.com/album/5CEcwEyL9wMG4TygYNTFgw) | 0:29 | 2021-12-01 |  |
 | [death wish](https://open.spotify.com/track/7rT8JOfCiu2wCdP2NuS0zd) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [death wish](https://open.spotify.com/album/3aKgYlLsngJ6itEvTVWnwf) | 3:17 | 2021-12-01 |  |
 | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/album/04tqbIcuZwsGL5Ut22eOKw) | 2:27 | 2021-12-01 |  |
-| [drivers license](https://open.spotify.com/track/6H7RUDjmjiGV4I9hE24Kk5) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [drivers license](https://open.spotify.com/album/0Hi8bTOS35xZM0zZ6S89hT) | 3:57 | 2021-12-01 |  |
+| [drivers license](https://open.spotify.com/track/6H7RUDjmjiGV4I9hE24Kk5) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [drivers license](https://open.spotify.com/album/0Hi8bTOS35xZM0zZ6S89hT) | 0:29 | 2021-12-01 |  |
 | [Eyes Wide Shut](https://open.spotify.com/track/7fGyaY3X9InPnl9nqQXHgi) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [girlfriends](https://open.spotify.com/album/3cuyb6sSpCSEc6TLBh1sUQ) | 3:01 | 2021-12-01 |  |
 | [Find My Own Way](https://open.spotify.com/track/0gyAtsUMGDlf4FGKLSXnCW) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [Nonfiction](https://open.spotify.com/album/5tnu3rGzSZuZhkqoKLofh4) | 2:19 | 2021-12-01 |  |
 | [Flames \(feat\. Avril Lavigne\)](https://open.spotify.com/track/4nEYidcaoFBLj9veMFc0Qf) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Internet Killed The Rockstar](https://open.spotify.com/album/2XeTY6zdUIUfItgZxXKsiO) | 2:31 | 2021-12-01 |  |

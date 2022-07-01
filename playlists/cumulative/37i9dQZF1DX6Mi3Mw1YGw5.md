@@ -4,7 +4,7 @@
 
 > Brought to you by <a href="spotify:artist:2cADQgiLMjNhbsfeN52Bf3">Swizz Beatz</a> and <a href="spotify:artist:5Y5TRrQiqgUO4S36tzjIRZ">Timbaland</a>.
 
-41 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/2i41uVOJOix2UUDuYM4DYP)
+41 songs - 2 hr 40 min - [published](https://open.spotify.com/playlist/2i41uVOJOix2UUDuYM4DYP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,8 +20,8 @@
 | [Good Luck Charm](https://open.spotify.com/track/0rJBJ4K6uNeDg1rGVyi0Tp) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [Jagged Edge](https://open.spotify.com/album/2GqAV0eTWlifSFIoHOnUME) | 4:24 | 2020-05-26 |  |
 | [Goodbye](https://open.spotify.com/track/3PcocqQL1Qn6LtUxjSlk4R) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [Jagged Little Thrill](https://open.spotify.com/album/2LFRjzwf61Y7CIl54Kiq8j) | 4:33 | 2020-05-26 |  |
 | [Hard](https://open.spotify.com/track/4u5T8SVKuAHqbu9tBzVPNm) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [Hard](https://open.spotify.com/album/6ZIfULvfXHqu6jcNm6vfSl) | 4:21 | 2020-05-26 |  |
-| [He Can't Love U](https://open.spotify.com/track/3VEZvzr84WVnoorZ4tlBSw) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [J.E\. Heartbreak](https://open.spotify.com/album/4tIkdOt2ohTHJ1VptEwNu3) | 4:04 | 2020-05-26 |  |
-| [Healing](https://open.spotify.com/track/5eOUKWk8zeaEg0pJE2sldI) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [J.E\. Heartbreak](https://open.spotify.com/album/4tIkdOt2ohTHJ1VptEwNu3) | 3:42 | 2020-05-26 |  |
+| [He Can't Love U](https://open.spotify.com/track/3VEZvzr84WVnoorZ4tlBSw) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [J.E\. Heartbreak](https://open.spotify.com/album/4tIkdOt2ohTHJ1VptEwNu3) | 0:29 | 2020-05-26 |  |
+| [Healing](https://open.spotify.com/track/5eOUKWk8zeaEg0pJE2sldI) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [J.E\. Heartbreak](https://open.spotify.com/album/4tIkdOt2ohTHJ1VptEwNu3) | 0:29 | 2020-05-26 |  |
 | [Hey Luv \(Anything\) \(feat\. 112\)](https://open.spotify.com/track/6IdK1E8oLtVNdPPH9Np6he) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap), [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Infamy](https://open.spotify.com/album/2hSnMHuLYfpp8hvdpZRjAk) | 4:02 | 2020-05-26 |  |
 | [I Gotta Be](https://open.spotify.com/track/5nS5mDWAyce9gjD8crHcZX) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [A Jagged Era](https://open.spotify.com/album/71V8liHaRbtSZ2ZGkjcqZB) | 3:35 | 2020-05-26 |  |
 | [I'll Be Missing You \(feat\. Faith Evans & 112\) \- 2014 Remaster](https://open.spotify.com/track/1yy2DlSDtEt90d54rPDPXz) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [No Way Out \(2014 Remaster\)](https://open.spotify.com/album/33hEDxsIVGf7R6wRdZBQOw) | 5:06 | 2020-05-26 |  |
@@ -35,7 +35,7 @@
 | [Only You \(feat\. The Notorious B.I.G.\) \- Radio Mix](https://open.spotify.com/track/7jg3Irt0hqnss3HvaPP2D2) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [112](https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc) | 4:20 | 2020-05-26 |  |
 | [Peaches & Cream](https://open.spotify.com/track/2SLZ2rX5773RS16mcqBxG7) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Part III](https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb) | 3:13 | 2020-05-26 |  |
 | [Player](https://open.spotify.com/track/5ZEyR4PSJyIWAK5ihkI21u) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Part III](https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb) | 4:43 | 2020-05-26 |  |
-| [Promise](https://open.spotify.com/track/1X1KDnhTnb28tpJlgOV3lD) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [J.E\. Heartbreak](https://open.spotify.com/album/4tIkdOt2ohTHJ1VptEwNu3) | 4:06 | 2020-05-26 |  |
+| [Promise](https://open.spotify.com/track/1X1KDnhTnb28tpJlgOV3lD) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [J.E\. Heartbreak](https://open.spotify.com/album/4tIkdOt2ohTHJ1VptEwNu3) | 0:29 | 2020-05-26 |  |
 | [Promise \(feat\. Loon\) \- Cool JD Remix](https://open.spotify.com/track/4iIzuqTpvDpo1VTzIyqZuK) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp), [Loon](https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6) | [So So Def presents: Definition of a Remix feat\. Jermaine Dupri and Jagged Edge \(This Is The Remix\) \(Explicit Version\)](https://open.spotify.com/album/38TZrkhZT3QGTl2VPFMcAn) | 4:33 | 2020-05-26 |  |
 | [Put A Little Umph In It](https://open.spotify.com/track/46aTTcwM3Q74TE4UogWBFT) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Put A Little Umph In It](https://open.spotify.com/album/5X0ijafyfFgd75wpobqPZx) | 3:58 | 2020-05-26 |  |
 | [Q, Mike, Slim, Daron \- Interlude](https://open.spotify.com/track/3GuliNti6PIEJoqUoPp8Wl) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Part III](https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb) | 1:58 | 2020-05-26 |  |
@@ -46,7 +46,7 @@
 | [U Already Know](https://open.spotify.com/track/0ahRDzkKq0KEi7FRoHb0qk) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Pleasure & Pain](https://open.spotify.com/album/3gY1qUrGzKNQnorPC9Lu72) | 3:18 | 2020-05-26 |  |
 | [Walked Outta Heaven](https://open.spotify.com/track/06ZDLodo1UDVavc3MXREZ3) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [Hard](https://open.spotify.com/album/6ZIfULvfXHqu6jcNm6vfSl) | 4:30 | 2020-05-26 |  |
 | [Wednesday Lover](https://open.spotify.com/track/2arYwvMEmqwnMWvOOASv5U) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [A Jagged Era](https://open.spotify.com/album/71V8liHaRbtSZ2ZGkjcqZB) | 4:31 | 2020-05-26 |  |
-| [What You Tryin' To Do](https://open.spotify.com/track/1agSO3iKOpk9TuYthowkCj) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [J.E\. Heartbreak](https://open.spotify.com/album/4tIkdOt2ohTHJ1VptEwNu3) | 4:17 | 2020-05-26 |  |
+| [What You Tryin' To Do](https://open.spotify.com/track/1agSO3iKOpk9TuYthowkCj) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [J.E\. Heartbreak](https://open.spotify.com/album/4tIkdOt2ohTHJ1VptEwNu3) | 0:29 | 2020-05-26 |  |
 | [What's It Like](https://open.spotify.com/track/5SKkOuJxufkWfkTFnwQvWO) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [Hard](https://open.spotify.com/album/6ZIfULvfXHqu6jcNm6vfSl) | 4:22 | 2020-05-26 |  |
 | [Where the Party At \(feat\. Nelly\)](https://open.spotify.com/track/5mNV8Mz59bzyuQ53gTw0c0) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Jagged Little Thrill](https://open.spotify.com/album/2LFRjzwf61Y7CIl54Kiq8j) | 3:52 | 2020-05-26 |  |
 

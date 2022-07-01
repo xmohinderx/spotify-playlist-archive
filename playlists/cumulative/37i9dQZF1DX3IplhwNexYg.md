@@ -4,7 +4,7 @@
 
 > Raw and unfiltered\. Cover: Pillow Queens
 
-155 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
+155 songs - 8 hr 35 min - [published](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Couch Surfing](https://open.spotify.com/track/2Dhbsd9p8KVgCCiMvLUHL9) | [The Surfrajettes](https://open.spotify.com/artist/7bsvnY2FZ7P4TR8DAxZzCM) | [Couch Surfing](https://open.spotify.com/album/6bRn5DlJcOiVJb52O7oRcU) | 2:52 | 2021-10-29 |  |
 | [Cough Up Cherries](https://open.spotify.com/track/4dsxz4IEl1T3ZmeBoLJ1Ky) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Cough Up Cherries](https://open.spotify.com/album/1ctmJLfcmpgU9RSX5BWgD9) | 2:56 | 2021-10-15 |  |
 | [Crybaby](https://open.spotify.com/track/61a0LXQA7wJ64CGzttDaN9) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Make Room](https://open.spotify.com/album/7aTumdbpn2n1AG6CjCqvnR) | 3:10 | 2021-03-09 | 2022-01-17 |
-| [Damn I'm Tired](https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Damn I'm Tired](https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu) | 3:45 | 2022-01-17 |  |
+| [Damn I'm Tired](https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Damn I'm Tired](https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu) | 0:29 | 2022-01-17 |  |
 | [Dangerous](https://open.spotify.com/track/08a8M0SzJUF2hUUDkmtWT9) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Dangerous](https://open.spotify.com/album/7N0m2m27pHDbk8e7mKnisH) | 3:31 | 2022-01-17 |  |
 | [Dead Weight](https://open.spotify.com/track/2O79y6ji57voBvM8Qmhw21) | [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Dead Weight](https://open.spotify.com/album/1tL8iCIxXRoAeTYm6Kdgd2) | 3:43 | 2021-03-09 | 2022-01-17 |
 | [Deep](https://open.spotify.com/track/1Qd0jDJKlgBTuCNqlM4GWO) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Deep](https://open.spotify.com/album/3UVA6Nxe9gBBRVmbZwwIld) | 3:00 | 2021-03-19 | 2022-01-17 |

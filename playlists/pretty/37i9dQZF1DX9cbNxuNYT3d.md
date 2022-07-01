@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 
 > Some of the biggest french touch classics! Cover: Daft Punk
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,819 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,927 likes - 50 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 | 22 | [I <3 U SO](https://open.spotify.com/track/1mizZEavK16AN2Jo4mG93O) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [The Rawkers \(I <3 U SO Edition\)](https://open.spotify.com/album/3wnLAWP3OtHM8aKRdGcMSc) | 3:42 |
 | 23 | [La ritournelle](https://open.spotify.com/track/0qG1teoBvooRo7Z5Z8edCk) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z) | [Politics](https://open.spotify.com/album/05MRLgXFBdHFMww01vbvWY) | 7:34 |
 | 24 | [Breathe](https://open.spotify.com/track/46LwAOzg3UYvxiXyyaFedz) | [Télépopmusik](https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF) | [genetic world](https://open.spotify.com/album/401DhjeJg1yVIfBN2A55JY) | 4:56 |
-| 25 | [Prix Choc \- Radio Edit \- High Mix](https://open.spotify.com/track/6UEhwP9HXhRlltR8y9iH8D) | [Étienne de Crécy](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7) | [Prix Choc Remixes \- EP](https://open.spotify.com/album/3gM5pBpuKsYF1LCFYUbIG8) | 3:55 |
+| 25 | [Prix Choc \- Radio Edit \- High Mix](https://open.spotify.com/track/6UEhwP9HXhRlltR8y9iH8D) | [Étienne de Crécy](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7) | [Prix Choc Remixes \- EP](https://open.spotify.com/album/3gM5pBpuKsYF1LCFYUbIG8) | 0:29 |
 | 26 | [Amour](https://open.spotify.com/track/4ynBONkE7gUFvWJQyvMSyF) | [House Master](https://open.spotify.com/artist/4LkWmfnid2my4kgYMCr4Sv), [DJ Gregory](https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR), [Julien Jabre](https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM) | [Defected Presents House Masters: DJ Gregory & Julien Jabre](https://open.spotify.com/album/2gn3OHZyw0fShGuhs4cYcr) | 5:52 |
 | 27 | [Sexy Boy](https://open.spotify.com/track/6INLpBxo9F5QMer04VXEnd) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 4:58 |
 | 28 | [The Man With The Red Face \- Video Edit](https://open.spotify.com/track/0y0LNqWSA4Pv2KawzSi4MW) | [Laurent Garnier](https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ) | [Unreasonable Behaviour](https://open.spotify.com/album/2IBm4EZ2AUUCSYzFAgCNBL) | 9:11 |

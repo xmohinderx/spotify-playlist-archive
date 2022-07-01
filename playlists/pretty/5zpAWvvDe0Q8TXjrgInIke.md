@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5zpAWvvDe0Q8TXjrgInIke.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 90 likes - 24 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 90 likes - 24 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/5zpAWvvDe0Q8TXjrgInIke.md) - [plain]
 | 2 | [Baby](https://open.spotify.com/track/0iTrbNlIQj7Kfk1ytfMopY) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume 3](https://open.spotify.com/album/30W17Ol4QWQpvID7OCQUpQ) | 3:15 |
 | 3 | [Hello Baby](https://open.spotify.com/track/29soU0GjgicnX2kUuizCaZ) | [Charline Arthut](https://open.spotify.com/artist/35Xb66eML4saVZGUQVqs65) | [Welcome To The Club](https://open.spotify.com/album/4zSQEYT3CDwjzMlumuQtaH) | 2:19 |
 | 4 | [Yes My Darling Daughter](https://open.spotify.com/track/4nC1OvUy6chDtxHYDNnag0) | [Dinah Shore](https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK) | [The Best Music from the War Years 1939 \- 1945 Vol\. 3](https://open.spotify.com/album/5l8H5TG5CdBc2btNm3IgqF) | 2:24 |
-| 5 | [The Makings Of You](https://open.spotify.com/track/3H9Xxl4vitt2XgzZLrDyDB) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [The Anthology 1961\-1977](https://open.spotify.com/album/0qvxVXv3xnLJT4iUDATxVk) | 3:43 |
+| 5 | [The Makings Of You](https://open.spotify.com/track/3H9Xxl4vitt2XgzZLrDyDB) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [The Anthology 1961\-1977](https://open.spotify.com/album/0qvxVXv3xnLJT4iUDATxVk) | 0:29 |
 | 6 | [Here Comes My Baby](https://open.spotify.com/track/54wnWbPaS3cjnPxyOY8k3X) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Remember Cat Stevens \- The Ultimate Collection](https://open.spotify.com/album/2BVH7dygkxsraF9EmdNT6P) | 2:55 |
 | 7 | [Pretty Eyed Baby](https://open.spotify.com/track/1iNjyEYPmxA3JF17OzmLHs) | [Baby Washington](https://open.spotify.com/artist/29afta7TiMlvY1fkgaFJcH) | [Soul Sisters Girl Power](https://open.spotify.com/album/1GFNuRo7Cit3U18XCaYLPA) | 2:20 |
 | 8 | [Daughters](https://open.spotify.com/track/6J3PYJ5mpscGmSFF6ANYDQ) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Daughters](https://open.spotify.com/album/1kf0hXvUKd4qkKGrWBws7q) | 3:57 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/5zpAWvvDe0Q8TXjrgInIke.md) - [plain]
 | 10 | [Our First Born](https://open.spotify.com/track/2ivb7FUrnoArK0v1JvqwYA) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [The Senior](https://open.spotify.com/album/3t4OgAvvOzvXw8D2NHUeDR) | 4:15 |
 | 11 | [Baby Mother Dub Baby Father](https://open.spotify.com/track/2mrmgXflEWXhpny9Aey5ON) | [The Heptones](https://open.spotify.com/artist/6b5Hxvp7SWlJY5uUrRlzx4) | [University Of Dub](https://open.spotify.com/album/6a1NvUYX6m9WZzatF5rHJn) | 2:48 |
 | 12 | [Here I Am Baby \- Single Version](https://open.spotify.com/track/7yNW1YQWPi8xPjH0adH1W0) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [The Definitive Collection](https://open.spotify.com/album/1pjFUrcV77wbRBNpTRMlRc) | 2:42 |
-| 13 | [Baby Girl](https://open.spotify.com/track/7KSKBd07ewDUmjVng2WaMb) | [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3) | [Playtime Is Over](https://open.spotify.com/album/1Bzb6tlpnxrEwajQDM361B) | 2:42 |
+| 13 | [Baby Girl](https://open.spotify.com/track/7KSKBd07ewDUmjVng2WaMb) | [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3) | [Playtime Is Over](https://open.spotify.com/album/1Bzb6tlpnxrEwajQDM361B) | 0:29 |
 | 14 | [Welcome Home Baby](https://open.spotify.com/track/0BqWWdLU59kmovPnddlJSn) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Love Songs Motel](https://open.spotify.com/album/2UkH469B1d70HFVlJYgPp5) | 2:34 |
 | 15 | [Turn Around](https://open.spotify.com/track/04e8lZDwgyiC3a4SYb8RdQ) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Last Time I Saw Him \(Expanded Edition\)](https://open.spotify.com/album/25b5PnuHsPiZqZj6gp6ye2) | 2:25 |
 | 16 | [Song For My Mother](https://open.spotify.com/track/2wvsTOieorWSAKEFto2fn8) | [Dean Friedman](https://open.spotify.com/artist/4IT7iUyEDGX4pJDo6CfFRB) | [Dean Friedman](https://open.spotify.com/album/6jOJARNCHTbV9dSNtOEPBJ) | 3:40 |

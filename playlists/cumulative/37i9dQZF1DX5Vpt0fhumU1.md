@@ -4,7 +4,7 @@
 
 > Soak up the spirit of Spain with a taste of these traditional flamenco and folk tunes.
 
-51 songs - 3 hr 38 min - [published](https://open.spotify.com/playlist/6D9HxUt6bBYLuLVJOCEhrG)
+51 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/6D9HxUt6bBYLuLVJOCEhrG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Nuevo día](https://open.spotify.com/track/4bFaDjWTSbudJdO9J0fp71) | [Lole Y Manuel](https://open.spotify.com/artist/698bm15EgCHVHJovNestUx) | [El origen de la leyenda](https://open.spotify.com/album/5puBCIL3oMbkrYmsdL0vPT) | 4:45 | 2022-01-21 |  |
 | [Princesa](https://open.spotify.com/track/5hfkO74XBzG9VocAwNxnJX) | [Antoine Kiko Motos](https://open.spotify.com/artist/2CJJeKI1vkYFxs0HoD5HmE), [Grupo Macarena](https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f) | [Grupo Macarena: Gypsy Flamenco](https://open.spotify.com/album/4OdCjbSwaBSAXZ3rf72r9a) | 4:36 | 2022-01-21 |  |
 | [Pão de Açúcar](https://open.spotify.com/track/07ZdqvJ37JIGrbybE2iVPZ) | [El Equipo Del Norte](https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U) | [Pão de Açúcar](https://open.spotify.com/album/5qz7sVtLSdqQatSiYUpJWM) | 3:42 | 2022-01-21 |  |
-| [Quiereme Corazon Quiereme](https://open.spotify.com/track/0K38jgUjNNXz6AEgQneS6M) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Quiereme Corazon Quiereme](https://open.spotify.com/album/7z9wIysqZqoUNFso68D3zK) | 2:54 | 2022-01-21 |  |
+| [Quiereme Corazon Quiereme](https://open.spotify.com/track/0K38jgUjNNXz6AEgQneS6M) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Quiereme Corazon Quiereme](https://open.spotify.com/album/7z9wIysqZqoUNFso68D3zK) | 0:29 | 2022-01-21 |  |
 | [Rayo](https://open.spotify.com/track/5FpJy5woYptiLlLY4M8b4t) | [Strunz & Farah](https://open.spotify.com/artist/2Vr1fub6eNIztdUNeFPvJj) | [Americas](https://open.spotify.com/album/4N1aKzXuJLHXBW6Hp5ZxSw) | 4:52 | 2022-01-21 |  |
 | [Salobre](https://open.spotify.com/track/3LEPJoznozSSiHQXSn8UAT) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Paco Peña](https://open.spotify.com/artist/4OYPdvtRCWaLVmUrm1eiTa) | [Azahara](https://open.spotify.com/album/7woAczJxgzS1fiARwlCp96) | 5:09 | 2022-01-21 |  |
 | [Samba Delight](https://open.spotify.com/track/2SbLBxUtlSzz8nIYFQstwq) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Guitarra Mistica](https://open.spotify.com/album/45KOqLRGUYnnA9l59l0eaU) | 5:44 | 2022-01-21 |  |

@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/3PNltrHQaYdqO0FdTAZ3wB.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 20 likes - 60 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 20 likes - 60 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Divine Victim](https://open.spotify.com/track/1ZrE6kQQtLpliVYldVAMqF) | [Manilla Road](https://open.spotify.com/artist/1qt7m48wpniTuMJ2YsVBI5) | [The Deluge](https://open.spotify.com/album/5gJKmnOkZEZBVPexciuEYY) | 3:09 |
-| 2 | [Heaven's on Fire](https://open.spotify.com/track/1QaglzLLwx2OctlhWviDXh) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Sonic Boom](https://open.spotify.com/album/06TUPSt0LmDoAm3jnE93Ww) | 3:24 |
-| 3 | [Caravan \- Single Version](https://open.spotify.com/track/4BIaDz7pMzF1KjEWJSKSOE) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Caravan](https://open.spotify.com/album/7EDHajaYGxPjxWLIv97Aui) | 5:40 |
+| 2 | [Heaven's on Fire](https://open.spotify.com/track/1QaglzLLwx2OctlhWviDXh) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Sonic Boom](https://open.spotify.com/album/06TUPSt0LmDoAm3jnE93Ww) | 0:29 |
+| 3 | [Caravan \- Single Version](https://open.spotify.com/track/4BIaDz7pMzF1KjEWJSKSOE) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Caravan](https://open.spotify.com/album/7EDHajaYGxPjxWLIv97Aui) | 0:29 |
 | 4 | [Riches To Rags](https://open.spotify.com/track/6wNTqBF2Y69KG9EPyj9YJD) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [Bag of Bones](https://open.spotify.com/album/7GTYvV0u1AqBc8djyZdhuv) | 3:04 |
 | 5 | [Eye Of The Tiger](https://open.spotify.com/track/65S2uk1hIun6u09QaSckn7) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Rocky III: Music From The Motion Picture](https://open.spotify.com/album/1DqgNIlDZPscRHgdCgDhZR) | 3:53 |
 | 6 | [Rockin' All Over The World](https://open.spotify.com/track/5xzYa2gqFPxKW8678SZUr9) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Rockin' All Over The World](https://open.spotify.com/album/1U3vf7dTCF8GnA0HPcJCpe) | 3:38 |
 | 7 | [Princess of the Night](https://open.spotify.com/track/2Q6Knqq0R7baKPuo0bgMCU) | [Saxon](https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU) | [The Best Of Saxon](https://open.spotify.com/album/3tPMF9ETarGAeameccyfH7) | 4:02 |
 | 8 | [Born To Be Wild](https://open.spotify.com/track/0H8iyBZDnWYgwVNAOcLiah) | [Krokus](https://open.spotify.com/artist/4YveAIZNQZBiWbt7iWsvCa) | [Hoodoo](https://open.spotify.com/album/2xIHNHmbm7DQoDKFQqxByO) | 3:34 |
 | 9 | [Doctor Doctor](https://open.spotify.com/track/0dmU85eEmy5pumLc1OSpUX) | [UFO](https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s) | [The Best Of UFO](https://open.spotify.com/album/7EzINykeXaJt1Ab4rN5N0d) | 2:47 |
-| 10 | [18 and Life](https://open.spotify.com/track/1HlGblweLq0eAwnb0NY1EQ) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Best Of](https://open.spotify.com/album/0D48ZbriW82M2GbOKCbd1G) | 3:51 |
+| 10 | [18 and Life](https://open.spotify.com/track/1HlGblweLq0eAwnb0NY1EQ) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Best Of](https://open.spotify.com/album/0D48ZbriW82M2GbOKCbd1G) | 0:29 |
 | 11 | [You Are My High](https://open.spotify.com/track/4HUMMFH06dIfzUG2ht1BJN) | [Demon](https://open.spotify.com/artist/4LiDDSfUo671okhAa6OSHY) | [Midnight Funk](https://open.spotify.com/album/3QiAIhmPhyyTWhFoqXexat) | 3:49 |
 | 12 | [Deconstruction](https://open.spotify.com/track/3gDsKqY2XBDCNyEIWQsJmI) | [Witchcraft](https://open.spotify.com/artist/3HVmba1wHgrLVsVC5IIzkG) | [Legend \(Bonus Version\)](https://open.spotify.com/album/37PmPATTGfiCR5TjAbBzS1) | 5:09 |
 | 13 | [Bite The Bullet](https://open.spotify.com/track/3dAjuDCMfPwGVfnFVXowfL) | [Bullet](https://open.spotify.com/artist/6e8DrBevl7KCm0Kfse6fvB) | [Bite The Bullet](https://open.spotify.com/album/5daaYoph0sCSpHnnEsgcpO) | 2:43 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/3PNltrHQaYdqO0FdTAZ3wB.md) - [plain]
 | 16 | [Hunger](https://open.spotify.com/track/75vG0v9Ql3pt9vQGb49YsS) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Hunger](https://open.spotify.com/album/2gs385vKkB8SpvXdAY0FUx) | 3:12 |
 | 17 | [Arrival](https://open.spotify.com/track/0Khu3lwmM3NBw7Xkk5YF4n) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Eremita](https://open.spotify.com/album/78cdLSogu9HIZyD540GTZC) | 5:40 |
 | 18 | [Eight of Swords](https://open.spotify.com/track/79C2pMfCn7qtTue7Pjb4JR) | [Huntress](https://open.spotify.com/artist/2JDEtAc1gGiAbCvjUnK2iZ) | [Spell Eater \(2\-Track Promo Version\)](https://open.spotify.com/album/3gYlQULOz4XEPxztjTom25) | 5:39 |
-| 19 | [Heaven in black](https://open.spotify.com/track/3ovX9TOXTizeKYZjbKvGoc) | [Axxis](https://open.spotify.com/artist/2kGeYVloFXuKXgXnhQTcIT) | [Back To The Kingdom](https://open.spotify.com/album/4tg0OrjsTQbTIoaWjn0MRH) | 3:40 |
+| 19 | [Heaven in black](https://open.spotify.com/track/3ovX9TOXTizeKYZjbKvGoc) | [Axxis](https://open.spotify.com/artist/2kGeYVloFXuKXgXnhQTcIT) | [Back To The Kingdom](https://open.spotify.com/album/4tg0OrjsTQbTIoaWjn0MRH) | 0:29 |
 | 20 | [Hollow](https://open.spotify.com/track/3WoMvAfMvMYMIJshxaKKOv) | [Morgana Lefay](https://open.spotify.com/artist/6wEcnwWPcae1cLkZDtGTJJ) | [Grand Materia](https://open.spotify.com/album/4YSNSBRYiwXhn66nOOs4NG) | 4:07 |
 | 21 | [Restless](https://open.spotify.com/track/1NRbysDjgt57Nu2nGvobNY) | [Leprous](https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5) | [Bilateral](https://open.spotify.com/album/28EwpQuVYT75wY1jPQYFHq) | 3:30 |
 | 22 | [This Is The War](https://open.spotify.com/track/12Y73AQEjYzhQp6lRLzyLq) | [Vader](https://open.spotify.com/artist/2s5DSt9VBNzAn2TbtDHzFZ) | [The Art Of War](https://open.spotify.com/album/4BbIEYPPfePNkDKKtsIadJ) | 2:49 |

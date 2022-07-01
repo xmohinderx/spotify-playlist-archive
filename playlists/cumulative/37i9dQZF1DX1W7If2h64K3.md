@@ -4,7 +4,7 @@
 
 > Discover the music of Schumann.
 
-60 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/4JZtynEiMqwLsOubUVaOc2)
+60 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/4JZtynEiMqwLsOubUVaOc2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,6 @@
 | [Symphony No.4 In D Minor, Op.120: 2\. Romanze \(Ziemlich langsam\)](https://open.spotify.com/track/3c2yscx4AaNQtgW24uF3Yg) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ), [Herbert von Karajan](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) | [Schumann: Symphony No.4 In D Minor, Op.120 / Dvorak: Symphony No\. 8 In G Major, Op\. 88](https://open.spotify.com/album/7jYg0obdjvMG4JcF6ptMWm) | 4:49 | 2020-01-29 |  |
 | [Theme and Variations on the name Abegg, Op\. 1: Abegg Variations, Op\. 1](https://open.spotify.com/track/3DRv3MuAiScYKAPNljvbGb) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Kotaro Fukuma](https://open.spotify.com/artist/2NXGOKB3pcM9r9W2poWyZK) | [Piano Recital: Kotaro Fukuma](https://open.spotify.com/album/4lzzEHjPwcZZwo08SQSutT) | 6:57 | 2020-01-29 |  |
 | [Violin Concerto in D minor, WoO 23: I\. In kräftigem, nicht zu schnellem Tempo](https://open.spotify.com/track/3GI9zES0F4tERFfC91obWX) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Isabelle Faust](https://open.spotify.com/artist/00q3HI6mnGUJqMlfwBJTco), [Freiburger Barockorchester](https://open.spotify.com/artist/2fJKxKjBxD1X1NkkG78qai), [Pablo Heras\-Casado](https://open.spotify.com/artist/17QYL51GCUv2vKlQWGqvWp) | [Schumann: Violin Concerto; Piano Trio No\. 3](https://open.spotify.com/album/77OdIMqqtoXO8bTBdlcA8q) | 15:11 | 2020-01-29 |  |
-| [Waldszenen, Op.82: 7\. Vogel als Prophet](https://open.spotify.com/track/5NUNJMIQIhASajZcR4irhK) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Wilhelm Kempff](https://open.spotify.com/artist/4F0h097DbL1XBqIbDw2xOj) | [Schumann: Kinderszenen; Kreisleriana; Waldszenen](https://open.spotify.com/album/19MZqf1DSx11yfSvnyGfPt) | 3:22 | 2020-01-29 |  |
+| [Waldszenen, Op.82: 7\. Vogel als Prophet](https://open.spotify.com/track/5NUNJMIQIhASajZcR4irhK) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Wilhelm Kempff](https://open.spotify.com/artist/4F0h097DbL1XBqIbDw2xOj) | [Schumann: Kinderszenen; Kreisleriana; Waldszenen](https://open.spotify.com/album/19MZqf1DSx11yfSvnyGfPt) | 0:29 | 2020-01-29 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

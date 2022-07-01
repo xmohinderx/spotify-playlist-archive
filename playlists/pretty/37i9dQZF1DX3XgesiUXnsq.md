@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this? Cover: Chance the Rapper, Joey Bada$$
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,119 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,417 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 40 | [ROSE STREET](https://open.spotify.com/track/1L8NADNWd56cZRnaxcxPPI) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [RAMONA PARK BROKE MY HEART](https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW) | 2:33 |
 | 41 | [BENNY'S GOT A GUN](https://open.spotify.com/track/37HgVj2kLDeGWpWwDDE0PB) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [BENNY'S GOT A GUN](https://open.spotify.com/album/79iEtuOTXwD7VObxVoKX4n) | 3:52 |
 | 42 | [Nose Ring](https://open.spotify.com/track/5I7Ld6K21mpD4rvlFXMRwr) | [Quake Matthews](https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO) | [Nose Ring](https://open.spotify.com/album/06NZbsWUEvE8QNqW7w5ZgQ) | 3:19 |
-| 43 | [Black Illuminati \(feat\. Jadakiss\)](https://open.spotify.com/track/3HicZmZQqn09gi8xG7v9iZ) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Black Illuminati \(feat\. Jadakiss\)](https://open.spotify.com/album/4kxQWgw2OM23IXRjsJYYuI) | 3:49 |
+| 43 | [Black Illuminati \(feat\. Jadakiss\)](https://open.spotify.com/track/3HicZmZQqn09gi8xG7v9iZ) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Black Illuminati \(feat\. Jadakiss\)](https://open.spotify.com/album/4kxQWgw2OM23IXRjsJYYuI) | 0:29 |
 | 44 | [Gotta Get Mine \[feat\. Divine Brown\] \- Extended Mix](https://open.spotify.com/track/7IIeLj7lXV2u8eKKX6a5EM) | [Infinite](https://open.spotify.com/artist/4UTmC3luZTc7nwlRaUFpOt), [The Divine Brown](https://open.spotify.com/artist/3B22N6KfaJNUN5DQAISpxe) | [Gotta Get Mine \[feat\. Divine Brown\] \(Extended Mix\)](https://open.spotify.com/album/2CDtKdAuTV0Naz5my70zga) | 4:59 |
 | 45 | [Chain Smokin Part II](https://open.spotify.com/track/7nwG5yh8PBsY64VdLN3JXx) | [THE 6TH LETTER](https://open.spotify.com/artist/5hM8TO6qnM1N04mPUcsg3V) | [Chain Smokin Part II](https://open.spotify.com/album/3UoSGdzOGuBTyZ9KzT6E5p) | 2:53 |
 | 46 | [Airborne Aquaruim](https://open.spotify.com/track/71vuS1nprefkBeCK344TEL) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Pilot Talk: Trilogy](https://open.spotify.com/album/5ydx8HEoTmJrxZuPKcTU4V) | 2:51 |
 | 47 | [D.M.B.](https://open.spotify.com/track/7IBLt4Qarf4JDLxIQDv2O5) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [D.M.B.](https://open.spotify.com/album/1o13E5QES3KCOg85oF0KNa) | 4:51 |
 | 48 | [Circumstances](https://open.spotify.com/track/5AnyUq0QkIQPrmysUe5bYD) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Circumstances](https://open.spotify.com/album/14qunYehq5fAbj8oAtpWVn) | 4:35 |
-| 49 | [Money Counter](https://open.spotify.com/track/14ABPYal8FrkOCBE5hLKEG) | [Adrian Duncan](https://open.spotify.com/artist/4UT0LBgm8ooVT0ohnFoA2F), [That's Deep](https://open.spotify.com/artist/2T2uyZ8goEevh7veWHo9wu) | [Money Counter](https://open.spotify.com/album/5MGP7z5BGtHZV2MrWkxLzb) | 3:48 |
+| 49 | [Money Counter](https://open.spotify.com/track/14ABPYal8FrkOCBE5hLKEG) | [Adrian Duncan](https://open.spotify.com/artist/4UT0LBgm8ooVT0ohnFoA2F), [That's Deep](https://open.spotify.com/artist/2T2uyZ8goEevh7veWHo9wu) | [Money Counter](https://open.spotify.com/album/5MGP7z5BGtHZV2MrWkxLzb) | 0:29 |
 | 50 | [Ether](https://open.spotify.com/track/1Mxs3wyD4S81j9vpF6A6ov) | [EdwOrdS](https://open.spotify.com/artist/3Wps34Gtn7dTxmDADXDBBJ) | [Low Key EP](https://open.spotify.com/album/4oxBXOoRIccgbrtGMHYonQ) | 2:51 |
 | 51 | [Everyday Struggle \- 2005 Remaster](https://open.spotify.com/track/3bOvAqhaZNSWpGVIvHEx8B) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Ready to Die \(The Remaster\)](https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2) | 5:19 |
 | 52 | [vice city](https://open.spotify.com/track/6MOst484piqXpzPPRRe8i5) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [vice city](https://open.spotify.com/album/23Q7W5jYwmLuOhu9ZeGdTd) | 3:40 |

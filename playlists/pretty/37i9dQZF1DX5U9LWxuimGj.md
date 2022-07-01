@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 
 > Country music with a Latin flair\. Cover: Frank Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,972 likes - 86 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,974 likes - 86 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 | 34 | [La Bamba](https://open.spotify.com/track/0dJUbqKkP9EwuBtyLeQWHt) | [Jake Hoot](https://open.spotify.com/artist/5YhWPIcZ5eNSKxrdwJItS7), [Ricky Duran](https://open.spotify.com/artist/1C18TJ6Co8ihwnIUYbrfiy) | [La Bamba](https://open.spotify.com/album/48s9qikZZvbEhVX1tdWc5R) | 3:13 |
 | 35 | [Made Me Cry](https://open.spotify.com/track/4BHiDQEOsguauSBmNyQZPv) | [Andrea Vasquez](https://open.spotify.com/artist/6qDuIc7yVd1VGCiJrNO8mh) | [Made Me Cry](https://open.spotify.com/album/5X1C3UxSZamJ2Kc6iMILq4) | 3:24 |
 | 36 | [Most Nights](https://open.spotify.com/track/5gs9CYfoPQUKJ9TPBRgBWI) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [Most Nights](https://open.spotify.com/album/40FJ8tW2YSU4gXEj9WOLgN) | 3:18 |
-| 37 | [Hey Baby Que Pasó \- Live from Texas](https://open.spotify.com/track/6w7T58kAjQNfp0jG9UheoJ) | [The Last Bandoleros](https://open.spotify.com/artist/3Zk03qhmFLepNYW2atWkmE) | [Hey Baby Que Pasó \(Live from Texas\)](https://open.spotify.com/album/7sSnNlqb9e8qqLwpkNlAfD) | 3:13 |
+| 37 | [Hey Baby Que Pasó \- Live from Texas](https://open.spotify.com/track/6w7T58kAjQNfp0jG9UheoJ) | [The Last Bandoleros](https://open.spotify.com/artist/3Zk03qhmFLepNYW2atWkmE) | [Hey Baby Que Pasó \(Live from Texas\)](https://open.spotify.com/album/7sSnNlqb9e8qqLwpkNlAfD) | 0:29 |
 | 38 | [Honkytonk Bar](https://open.spotify.com/track/5uWUZQEP1TxZM2YYgDe3bu) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Honkytonk Bar](https://open.spotify.com/album/5ZyERoLUgfH0NzVEkzZsvH) | 2:55 |
 | 39 | [Tonto](https://open.spotify.com/track/33wYgNxWB4MXTiv6L36SoO) | [Stefano Manrique](https://open.spotify.com/artist/5QmOgnigMzwCp9MXowvpFP) | [Country Pop Latino](https://open.spotify.com/album/2UXkZRTHGwRSVKSwbdtwqm) | 3:00 |
 | 40 | [Mountains](https://open.spotify.com/track/0YrVuZbN2BmMjXYdyUQo4k) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Mountains](https://open.spotify.com/album/7n1yMlzN1ciH8dEsWFYmmZ) | 3:15 |
 | 41 | [Nace Un Borracho](https://open.spotify.com/track/6SnO4yCCYtz2rffMpEAlro) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY! \(Deluxe\)](https://open.spotify.com/album/6JsZWQ0iaOn0GbirYWqwCi) | 2:56 |
 | 42 | [Achy Breaky Heart 25 \- Spanglish \(feat\. Jencarlos Canela\)](https://open.spotify.com/track/7BsOKmHxQ9vvpFZaRR8Tzm) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [The Silver Mullet Band](https://open.spotify.com/artist/0OUA8eU4zKdxFX9DL2sdkR), [JENCARLOS](https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7) | [Achy Breaky Heart 25 \- Spanglish \(feat\. Jencarlos Canela\)](https://open.spotify.com/album/3fO7J7vXdxv5IdixnK2O3K) | 3:14 |
-| 43 | [How Many Times \(Spanish Version\)](https://open.spotify.com/track/1xIedqGs6MXWZTCTSybZvx) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [How Many Times \(Spanish Version\)](https://open.spotify.com/album/02F4XjVwPTIRulJ6VvQR3p) | 3:25 |
+| 43 | [How Many Times \(Spanish Version\)](https://open.spotify.com/track/1xIedqGs6MXWZTCTSybZvx) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [How Many Times \(Spanish Version\)](https://open.spotify.com/album/02F4XjVwPTIRulJ6VvQR3p) | 0:29 |
 | 44 | [La Prisión De Folsom \(Folsom Prison Blues\) \- Live At Folsom Prison](https://open.spotify.com/track/6h23gt9orDwsnjl2R1MGpN) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Los Tigres Del Norte At Folsom Prison \(Original Soundtrack/Live\)](https://open.spotify.com/album/3vEowTdZIpdcVdbLlqZc6q) | 3:19 |
 | 45 | [Jolene](https://open.spotify.com/track/1DrCBBXN9gEiMU8ME7Vhpt) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 3:23 |
 | 46 | [Anybody Else \- Latin Remix](https://open.spotify.com/track/0HvfTzdXOpyoUtayGyvLyn) | [Mira Goto](https://open.spotify.com/artist/4QsATL0ozR4un64TltaF7o), [Pamela Velez](https://open.spotify.com/artist/3nxx6KxCTRLcdlW4vFRy4U), [Nia Skyfer](https://open.spotify.com/artist/3eZUOEIFA3hTKWNs6UbZwN) | [Anybody Else \(Latin Remix\)](https://open.spotify.com/album/4XidZG19fylj92RfMH3fl0) | 2:00 |

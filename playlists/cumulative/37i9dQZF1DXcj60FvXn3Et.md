@@ -4,7 +4,7 @@
 
 > Extraordinary soundtracks composed by extraordinary women\. Photo: <a href="spotify:artist:2lD1D6eEh7xQdBtnl2Ik7Y">Hildur Guðnadóttir</a>
 
-51 songs - 2 hr 58 min - [published](https://open.spotify.com/playlist/3RBpFCwPPhCIAcnst6oao3)
+51 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/3RBpFCwPPhCIAcnst6oao3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Night Falls at Brangwyn Hall](https://open.spotify.com/track/0JRVuQvTUCdHudRKCq8xun) | [Lesley Barber](https://open.spotify.com/artist/3pAf5z8D1nb5Jz297lyY1o) | [The Moth Diaries \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5DwYnovizHUcZj2HJMkNOm) | 2:12 | 2021-03-01 |  |
 | [NOCTIS](https://open.spotify.com/track/0Vl4A8SZrxO40zJk63NuZh) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [FINAL FANTASY XV Original Soundtrack](https://open.spotify.com/album/2zKqD5DUNUE4isjGLixU8v) | 4:39 | 2021-03-01 |  |
 | [Now We Are Free](https://open.spotify.com/track/1OdgWYrTg6hKwydZGGS1EH) | [Lisa Gerrard](https://open.spotify.com/artist/3C4MmUJYQN9svNdedAR2BK) | [The Best of Lisa Gerrard](https://open.spotify.com/album/5Yc8P0smgIAcKp9E4gkV1L) | 4:14 | 2021-03-01 |  |
-| [Overture](https://open.spotify.com/track/3wQyz5bN3V0E3XxrXwdk5h) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Selmasongs \(EU Version \- Music From The Motion Picture Soundtrack "Dancer In The Dark"\)](https://open.spotify.com/album/6zQc33yHSncdkBTYqQYAhp) | 3:37 | 2021-03-01 |  |
+| [Overture](https://open.spotify.com/track/3wQyz5bN3V0E3XxrXwdk5h) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Selmasongs \(EU Version \- Music From The Motion Picture Soundtrack "Dancer In The Dark"\)](https://open.spotify.com/album/6zQc33yHSncdkBTYqQYAhp) | 0:29 | 2021-03-01 |  |
 | [Rachel's theme](https://open.spotify.com/track/5QCamLkblDlb6SfX8siLLl) | [Anne Dudley](https://open.spotify.com/artist/41dLItQx3PSyP6n1AMd87b) | [Black Book](https://open.spotify.com/album/549OYQ00I2KU82s09v1HL3) | 1:29 | 2021-03-01 |  |
 | [Regarding Susan Sontag](https://open.spotify.com/track/1ghxICQmUnFMnSe8Vzboxy) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD), [Nora Kroll\-Rosenbaum](https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm) | [Regarding Susan Sontag \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Vk2KXFZpZlumn40VrciAI) | 4:03 | 2021-03-01 |  |
 | [Ritual Burial](https://open.spotify.com/track/5sgQWQlE8thWqYlq8ngUZ4) | [Leah Curtis](https://open.spotify.com/artist/4vyEAtQ7gxEF2nmRN74Fc2) | [To Rest in Peace \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/19QG68dg5D5hMI6Ru7eLiC) | 2:40 | 2021-03-01 |  |

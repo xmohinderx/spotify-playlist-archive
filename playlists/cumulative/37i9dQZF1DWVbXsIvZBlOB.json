@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-08",
-  "description": "Listen to Israeli women at full volume. Cover: Anna Zak",
+  "description": "Listen to Israeli women at full volume. Cover: Odeya",
   "name": "EQUAL Israel",
   "published_playlist_ids": [
     "2e4OmeRUwQvswEW0cNS2Ew"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 149300,
       "name": "Chew It",
       "url": "https://open.spotify.com/track/7G499yuBOJ5YIfJOxfn51t"
@@ -427,7 +427,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 194646,
       "name": "Spider Under My Pillow",
       "url": "https://open.spotify.com/track/0NcSmG79INnYAtT6AQQemY"
@@ -1455,7 +1455,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 211460,
       "name": "\u05dc\u05d1 \u05de\u05ea\u05d5\u05e7",
       "url": "https://open.spotify.com/track/37c05YWBqAw9aVcWOyDcKx"
@@ -1617,10 +1617,28 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 193411,
       "name": "\u05de\u05d2\u05d9\u05e2 \u05dc\u05d9 \u05d9\u05d5\u05ea\u05e8",
       "url": "https://open.spotify.com/track/0t1BGxsrhYECast5jQI2Gh"
+    },
+    {
+      "album": {
+        "name": "\u05e9\u05d9\u05e8\u05d9 \u05e8\u05d7\u05d5\u05d1",
+        "url": "https://open.spotify.com/album/6w7zgx1vayDs9nstbNXAY4"
+      },
+      "artists": [
+        {
+          "name": "Coral Bismuth",
+          "url": "https://open.spotify.com/artist/4HHSTY3bNxoprZF3vJ8gLE"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193411,
+      "name": "\u05de\u05d2\u05d9\u05e2 \u05dc\u05d9 \u05d9\u05d5\u05ea\u05e8",
+      "url": "https://open.spotify.com/track/33Gsw1B8LUzHDonqIGUeNu"
     },
     {
       "album": {
@@ -1986,6 +2004,24 @@
     },
     {
       "album": {
+        "name": "\u05e2\u05dd \u05d0\u05d5 \u05d1\u05dc\u05d9 \u05dc\u05d0\u05d4\u05d5\u05d1",
+        "url": "https://open.spotify.com/album/4lj06g5unws8F7TYnnykPY"
+      },
+      "artists": [
+        {
+          "name": "Eden Ben Zaken",
+          "url": "https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198251,
+      "name": "\u05e2\u05dd \u05d0\u05d5 \u05d1\u05dc\u05d9 \u05dc\u05d0\u05d4\u05d5\u05d1",
+      "url": "https://open.spotify.com/track/1P3f2Dx0FdtBWr8FYxaT2q"
+    },
+    {
+      "album": {
         "name": "\u05e4\u05d9\u05e8\u05d5\u05ea",
         "url": "https://open.spotify.com/album/6IJToETF8HRMdTWcWIrirk"
       },
@@ -2278,6 +2314,28 @@
     },
     {
       "album": {
+        "name": "\u05e9\u05dc\u05d5\u05e9\u05d4 \u05d1\u05e0\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/6pUQfBq9yXndShYxbpi84y"
+      },
+      "artists": [
+        {
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+        },
+        {
+          "name": "Gitit Fisher",
+          "url": "https://open.spotify.com/artist/1dhPws7AA939zNL1Fb7Nz0"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "\u05e9\u05dc\u05d5\u05e9\u05d4 \u05d1\u05e0\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/63TUZWEmunvQnAdLUD61yY"
+    },
+    {
+      "album": {
         "name": "\u05e9\u05de\u05d9\u05d9\u05dd",
         "url": "https://open.spotify.com/album/07EylzZzY2qEZrehNhnzGu"
       },
@@ -2315,6 +2373,24 @@
       "duration_ms": 175000,
       "name": "\u05e9\u05de\u05e9 \u05d1\u05d7\u05dc\u05d5\u05df (By Offir Malol)",
       "url": "https://open.spotify.com/track/73kQliWg9IPpt6oxAdecWr"
+    },
+    {
+      "album": {
+        "name": "\u05d0\u05d9\u05d4 \u05db\u05d5\u05e8\u05dd 2022",
+        "url": "https://open.spotify.com/album/2qg2Wa3S9jF8Sr5rva6w6T"
+      },
+      "artists": [
+        {
+          "name": "Aya Korem",
+          "url": "https://open.spotify.com/artist/2elW0LtvW7wtgObGfNlH25"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168928,
+      "name": "\u05ea\u05d2\u05d9\u05e2\u05d9 \u05dc\u05d9\u05e8\u05d7",
+      "url": "https://open.spotify.com/track/3oKVG5iHzm2fRdFFpQ9NLA"
     },
     {
       "album": {

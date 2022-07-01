@@ -4,7 +4,7 @@
 
 > We found dancing\. Listen to a selection from <a href="https://www.thewarehouseproject.com/ticketlist">The Warehouse Project</a> to celebrate their return to Manchester this month!
 
-50 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/35TmqE1z8EnbA23NNKAylV)
+50 songs - 4 hr 47 min - [published](https://open.spotify.com/playlist/35TmqE1z8EnbA23NNKAylV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,13 +45,13 @@
 | [Open Eye Signal](https://open.spotify.com/track/2e0jipRELfRzWVcKCNdyqc) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Immunity](https://open.spotify.com/album/0Zpht5ek9rMGsGB5IYPjlz) | 7:48 | 2021-09-21 |  |
 | [Our World \(With a Boy On Its Shoulders\)](https://open.spotify.com/track/4K9edHSD48LUXe7g3nTuGW) | [Denis Sulta](https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn) | [Our World \(With a Boy On Its Shoulders\)](https://open.spotify.com/album/2NhzzLcP5AzTqiniG9Qtqe) | 8:31 | 2021-09-21 |  |
 | [Over And Over](https://open.spotify.com/track/23PqxkDoz1hHEKg0PHRZGv) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Sylvester](https://open.spotify.com/album/4MV7hahWwvYjH1CG6x1GvU) | 7:02 | 2021-09-21 |  |
-| [Perth](https://open.spotify.com/track/6YT4QYWC7EGcUedm2UGNla) | [Kink](https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb) | [Perth](https://open.spotify.com/album/3tEw4xxPRSOospQ0fsO9Is) | 5:22 | 2021-09-21 |  |
+| [Perth](https://open.spotify.com/track/6YT4QYWC7EGcUedm2UGNla) | [Kink](https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb) | [Perth](https://open.spotify.com/album/3tEw4xxPRSOospQ0fsO9Is) | 0:29 | 2021-09-21 |  |
 | [Roy Keane](https://open.spotify.com/track/4YU7kjwU5ebyKS9QzkcAFK) | [Brame & Hamo](https://open.spotify.com/artist/0GH3NHvWddE49Egn2D5aRg) | [Club Orange EP](https://open.spotify.com/album/7fAGnHQ6poScvCt2gxcxHK) | 6:43 | 2021-09-21 |  |
 | [Sincere](https://open.spotify.com/track/4sz1Eo19ayaSpMhnb865Fb) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Sincere \(Commercial\)](https://open.spotify.com/album/6HeyW5oBSlc7CrSoyJ67Fd) | 5:38 | 2021-09-21 |  |
 | [Spies Are Watching Me](https://open.spotify.com/track/1UIqpCB0b56K7U0JJPfskN) | [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1), [Sir Jean](https://open.spotify.com/artist/4SkHS4kCrdABhw4KLVrOz0) | [On te l'avait dit](https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp) | 7:12 | 2021-09-21 |  |
 | [Star Guitar](https://open.spotify.com/track/19mC6xktT1JyyycK6cQaXA) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Come With Us](https://open.spotify.com/album/56nVadPbdCs1yGB0AtXSGp) | 6:27 | 2021-09-21 |  |
 | [Supreme Level](https://open.spotify.com/track/2QaVPjEedRzUoYkP9duY1k) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Darkside](https://open.spotify.com/album/7vYyuyPUzefAvNTmfrPzkq) | 5:05 | 2021-09-21 |  |
-| [The Heat](https://open.spotify.com/track/4Z3pwfHNEp40Fa6iqAaPf8) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/2B1PHvqJTX9ELdUlENOJeQ) | 3:16 | 2021-09-21 |  |
+| [The Heat](https://open.spotify.com/track/4Z3pwfHNEp40Fa6iqAaPf8) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/2B1PHvqJTX9ELdUlENOJeQ) | 0:29 | 2021-09-21 |  |
 | [These Things Will Come To Be](https://open.spotify.com/track/27cgqh0VRhVeM61ugTnorD) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Mirrors](https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7) | 4:56 | 2021-09-21 |  |
 | [Vamp](https://open.spotify.com/track/2PbbWaQk1ex4pC9Gi1cAXR) | [Outlander](https://open.spotify.com/artist/69FzSIj6dc6Zb6QVChhMoi) | [Vamp](https://open.spotify.com/album/0S8M6XLtjsckE15KVXOxSZ) | 5:07 | 2021-09-21 |  |
 | [Vortex 150](https://open.spotify.com/track/78zfetCFu2zb3vgHdGJqx7) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H) | [VORTEX](https://open.spotify.com/album/4FQ6GnH0Oc09ADYHxhptul) | 5:07 | 2021-09-21 |  |

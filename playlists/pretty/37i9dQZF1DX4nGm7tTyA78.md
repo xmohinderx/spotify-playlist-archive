@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nGm7tTyA78.md) - [plain]
 
 > Trap latino que alimenta tu espíritu\. Cover: Redimi2
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,042 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,066 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nGm7tTyA78.md) - [plain]
 | 31 | [Toy' Bendecio'](https://open.spotify.com/track/5YCZC0RXyiQEDntvVwPteD) | [Odanis BSK](https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9) | [Toy' Bendecio'](https://open.spotify.com/album/4diNrmRmByPfYjfKL0MLVA) | 3:58 |
 | 32 | [Vuelvo a Ti](https://open.spotify.com/track/1urXHaIr14OJM47mFlMCNp) | [Micky Medina](https://open.spotify.com/artist/7os2zbfBHSRid4kmvX3h78) | [Vuelvo a Ti](https://open.spotify.com/album/4DHPl72VJudkqwJqIZfZm3) | 3:14 |
 | 33 | [No Te Dejes Convencer](https://open.spotify.com/track/3wAq0cnfBP40jEK19MO7Cp) | [Odanis BSK](https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9), [Peter Metivier](https://open.spotify.com/artist/3tM19M7FXAvM13IWvyAUpU) | [No Te Dejes Convencer](https://open.spotify.com/album/6SDQ4RTNeXjd9qHwPPUtoZ) | 4:26 |
-| 34 | [Green Card](https://open.spotify.com/track/7GP9H9G4JTqtyuYeaZLKeo) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab), [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7) | [PANORAMA](https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33) | 2:58 |
+| 34 | [Green Card](https://open.spotify.com/track/7GP9H9G4JTqtyuYeaZLKeo) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab), [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7) | [PANORAMA](https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33) | 0:29 |
 | 35 | [Gone](https://open.spotify.com/track/1A4BHF16dXjJM8zHulGdtT) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [Gone](https://open.spotify.com/album/7Fifup8H6gJyKjeMLT2YO8) | 3:16 |
 | 36 | [Sigo Aqui](https://open.spotify.com/track/4zZIUKmD3amRQQ4peFF2tV) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [Volver a Amar](https://open.spotify.com/album/5Y5GMC6Ijec7rYVdTvmOgn) | 4:05 |
 | 37 | [Da'Corner](https://open.spotify.com/track/5LwNC2DrJ0UjdD13Ub8Mad) | [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Da'Corner](https://open.spotify.com/album/3CneL0S5CG89mc2ZC0aUEA) | 3:44 |

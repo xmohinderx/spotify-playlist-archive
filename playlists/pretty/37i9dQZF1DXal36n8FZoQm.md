@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 
 > The official playlist for Cobra Kai\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,209 likes - 123 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,219 likes - 123 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 | 86 | [Like a Dance](https://open.spotify.com/track/6FtO9TV7VM1lmPiHMvYyqz) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 2 \(Soundtrack from the Original Series\)](https://open.spotify.com/album/2eYneWlXOCsnhYiiC8v34V) | 3:12 |
 | 87 | [Pelicans](https://open.spotify.com/track/2fuKzSeYauXKyz2fyrlL4H) | [E.G.O.](https://open.spotify.com/artist/7BTbMWAtRG6B6wRuGsztNU), [JF](https://open.spotify.com/artist/2jHzwqnp8ghpB7QpnnWNKu), [Noir](https://open.spotify.com/artist/43Q1i8pwT3uRuxJYr8AYRG) | [Pelicans](https://open.spotify.com/album/6AJuZuzvVu2N2JHKOwnL9z) | 2:56 |
 | 88 | [That's My Girl](https://open.spotify.com/track/2ACOWPLUe4A4KuQ5ioD2od) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [7/27 \(Deluxe\)](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) | 3:24 |
-| 89 | [The Kids Are Back](https://open.spotify.com/track/7xzmJPFQAn0O1ZYYtbGRlz) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [You Can't Stop Rock 'N' Roll](https://open.spotify.com/album/3KW5iWFnvhHtFoMHwWnUr5) | 3:18 |
+| 89 | [The Kids Are Back](https://open.spotify.com/track/7xzmJPFQAn0O1ZYYtbGRlz) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [You Can't Stop Rock 'N' Roll](https://open.spotify.com/album/3KW5iWFnvhHtFoMHwWnUr5) | 0:29 |
 | 90 | [Hallway Hellscape](https://open.spotify.com/track/6pzEnYa4JMd0b8pemXQY0S) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 2 \(Soundtrack from the Original Series\)](https://open.spotify.com/album/2eYneWlXOCsnhYiiC8v34V) | 3:36 |
 | 91 | [Miyagi Metal](https://open.spotify.com/track/35gOPH2fuxgGdrDvnmZBK4) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 3 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4op6NAPFktkyqLtRdPD4wC) | 2:15 |
 | 92 | [Highway Down](https://open.spotify.com/track/4QifC5kFkaDACx0vbfDwQo) | [I See Hawks In L.A.](https://open.spotify.com/artist/1b5IKVz30ek0dp7zFOUdcQ) | [Hallowed Ground](https://open.spotify.com/album/7wbNlBcZ0b04oW8TwBfxLX) | 5:14 |

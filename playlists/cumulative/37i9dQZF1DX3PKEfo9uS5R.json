@@ -386,6 +386,24 @@
     },
     {
       "album": {
+        "name": "Channels",
+        "url": "https://open.spotify.com/album/236zd3ADvrLVkUqSzJzzNf"
+      },
+      "artists": [
+        {
+          "name": "Hazel Calm",
+          "url": "https://open.spotify.com/artist/19AnR1ST7DAT5Coo66OKLl"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126428,
+      "name": "Channels",
+      "url": "https://open.spotify.com/track/7f7VEawSbmKCkDpWpxcd7N"
+    },
+    {
+      "album": {
         "name": "Chateau (Holmsey Remix)",
         "url": "https://open.spotify.com/album/4RdQAts3q3WmEJmZKNjdUK"
       },
@@ -581,7 +599,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 143460,
       "name": "Faro",
       "url": "https://open.spotify.com/track/3UUVf6kCaIXaDADINeYQ4V"
@@ -797,7 +815,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 221326,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/27cKloOulot9GZuKTwwPG7"
@@ -977,7 +995,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 242646,
       "name": "I ADORE U",
       "url": "https://open.spotify.com/track/0ANy2LzoqFkwkgc8adwTVc"
@@ -1738,7 +1756,7 @@
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 203615,
+      "duration_ms": 29048,
       "name": "Somewhere Out There",
       "url": "https://open.spotify.com/track/7JPA0E9xnYsJSrYjQyQFRm"
     },
@@ -1971,7 +1989,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 220295,
       "name": "To Hold You",
       "url": "https://open.spotify.com/track/6d9REln2cJYL7KRRAbffUb"
@@ -2133,7 +2151,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 304412,
       "name": "Woodpecker (Call Me)",
       "url": "https://open.spotify.com/track/3pSOSLJY99p8aAY3QWM8x5"

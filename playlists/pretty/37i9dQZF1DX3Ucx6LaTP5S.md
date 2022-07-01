@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ucx6LaTP5S.md) - [plain]
 
 > It's a good day to be a My Day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,319 likes - 68 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,356 likes - 68 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ucx6LaTP5S.md) - [plain]
 | 38 | [I Smile](https://open.spotify.com/track/4hD74G2sLm0lxcRW5Jnl6X) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 3:47 |
 | 39 | [Like a flowing wind](https://open.spotify.com/track/6RW5fxlCyOxfBJbru1v9ol) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Entropy](https://open.spotify.com/album/2vnlVtSs6PP1iKvcTWtX2h) | 3:22 |
 | 40 | [Not Fine](https://open.spotify.com/track/4r2pzvLIdg0Zgk5Bef7mIV) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Entropy](https://open.spotify.com/album/2vnlVtSs6PP1iKvcTWtX2h) | 3:35 |
-| 41 | [Congratulations](https://open.spotify.com/track/5dhZMPumW81ipov9bpz6nu) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Day](https://open.spotify.com/album/2GQCh43InxGIbT0h2GnXWs) | 3:49 |
+| 41 | [Congratulations](https://open.spotify.com/track/5dhZMPumW81ipov9bpz6nu) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Day](https://open.spotify.com/album/2GQCh43InxGIbT0h2GnXWs) | 0:29 |
 | 42 | [아픈 길 hurt road](https://open.spotify.com/track/3GqdYA40CzErF1Um7ZzK5P) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Remember Us : Youth Part 2](https://open.spotify.com/album/5lJXj9X4Yl52xJq1sQzQB9) | 4:09 |
 | 43 | [Beautiful Feeling](https://open.spotify.com/track/5Sl8fL5jXQiH0uwgyTIX0B) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Remember Us : Youth Part 2](https://open.spotify.com/album/5lJXj9X4Yl52xJq1sQzQB9) | 3:28 |
 | 44 | [Chocolate](https://open.spotify.com/track/0vt3kA21CNUpJq5RT24z9W) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Want More 19 Part.1](https://open.spotify.com/album/1DDc6qbKF8Utom7maoljP5) | 3:16 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ucx6LaTP5S.md) - [plain]
 | 47 | [어쩌다 보니 Somehow](https://open.spotify.com/track/0uLgxIVjt4CaUyvM3jcmQJ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth Part 1](https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf) | 3:22 |
 | 48 | [Not Mine](https://open.spotify.com/track/67C8NRYbI2XwiYilezmxZQ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Entropy](https://open.spotify.com/album/2vnlVtSs6PP1iKvcTWtX2h) | 3:15 |
 | 49 | [Hi Hello](https://open.spotify.com/track/5nd63yWhfWq5VKX7r6aFMI) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [MOONRISE](https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG) | 3:52 |
-| 50 | [Colors](https://open.spotify.com/track/49rRoH4DZcUlbeBQlDgN8c) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Day](https://open.spotify.com/album/2GQCh43InxGIbT0h2GnXWs) | 4:17 |
+| 50 | [Colors](https://open.spotify.com/track/49rRoH4DZcUlbeBQlDgN8c) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Day](https://open.spotify.com/album/2GQCh43InxGIbT0h2GnXWs) | 0:29 |
 | 51 | [좋은걸 뭐 어떡해 What Can I Do](https://open.spotify.com/track/1JezeCx4BBNaJqHlZKXNmj) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [MOONRISE](https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG) | 3:52 |
 | 52 | [원하니까 Still](https://open.spotify.com/track/6DXROAQPfkfduzcbihXRsw) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth Part 1](https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf) | 4:11 |
 | 53 | [Finale](https://open.spotify.com/track/5zNC5Esw2IwbtWhJ1yb7KY) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Finale](https://open.spotify.com/album/1yRQOr658owkGnbMtzZevR) | 3:15 |

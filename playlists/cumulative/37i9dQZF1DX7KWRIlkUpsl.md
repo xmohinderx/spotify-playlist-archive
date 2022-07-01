@@ -4,7 +4,7 @@
 
 > From Songs About Jane to JORDI, find their latest releases here!
 
-50 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/6Ofp0EBE9ws2oDUdakS608)
+50 songs - 2 hr 56 min - [published](https://open.spotify.com/playlist/6Ofp0EBE9ws2oDUdakS608)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,9 +20,9 @@
 | [Daylight](https://open.spotify.com/track/1NNAI51EuoRWw1ydX1zV7S) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Overexposed Track By Track](https://open.spotify.com/album/6ijGiBcBfUwkoyHn5VUHU2) | 3:45 | 2021-07-12 |  |
 | [Don't Wanna Know](https://open.spotify.com/track/1KdpTTxFDKWiO3ULAwNqxt) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/3UtdezpDoFcAJv6HtjK1q0) | 3:34 | 2021-07-12 |  |
 | [Echo \(feat\. blackbear\)](https://open.spotify.com/track/54WpJSyO81dpA40MKJHd0C) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 2:58 | 2021-07-12 |  |
-| [Feelings](https://open.spotify.com/track/2JN3Ry9i4QucmMaYai03d6) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V \(Deluxe\)](https://open.spotify.com/album/3z4ASjF9zQ6efgXFr9bQXu) | 3:14 | 2021-07-12 |  |
+| [Feelings](https://open.spotify.com/track/2JN3Ry9i4QucmMaYai03d6) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V \(Deluxe\)](https://open.spotify.com/album/3z4ASjF9zQ6efgXFr9bQXu) | 0:29 | 2021-07-12 |  |
 | [Girls Like You](https://open.spotify.com/track/6BoCisOAzZMNr0GPrKLB0M) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/3UtdezpDoFcAJv6HtjK1q0) | 3:35 | 2021-07-12 |  |
-| [Girls Like You \(feat\. Cardi B\) \- Cardi B Version](https://open.spotify.com/track/6FRLCMO5TUHTexlWo8ym1W) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Girls Like You \(feat\. Cardi B\)](https://open.spotify.com/album/75iQSBSaztFIAun9qLLCnb) | 3:55 | 2021-07-12 |  |
+| [Girls Like You \(feat\. Cardi B\) \- Cardi B Version](https://open.spotify.com/track/6FRLCMO5TUHTexlWo8ym1W) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Girls Like You \(feat\. Cardi B\)](https://open.spotify.com/album/75iQSBSaztFIAun9qLLCnb) | 0:29 | 2021-07-12 |  |
 | [Give A Little More](https://open.spotify.com/track/2TRuBFYZYw0Q7qIVBhqR1T) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Hands All Over \(Deluxe\)](https://open.spotify.com/album/2H4DCvJiZknLngsD2Yqf6k) | 3:00 | 2021-07-12 |  |
 | [Goodnight Goodnight](https://open.spotify.com/track/3uCI4pcZ53hPmAN3my5eja) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [It Won't Be Soon Before Long \(International Version\)](https://open.spotify.com/album/1cCm3jwAW9eJtEGyzpxlXY) | 4:03 | 2021-07-12 |  |
 | [Harder To Breathe](https://open.spotify.com/track/4FDjkgw75Lr0VEx5vOTGCk) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane](https://open.spotify.com/album/7gGcnUEEQgIMV2JRwVQbrF) | 2:53 | 2021-07-12 |  |

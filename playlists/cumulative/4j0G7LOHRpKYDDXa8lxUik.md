@@ -4,7 +4,7 @@
 
 > 
 
-50 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/3QIe5yQ2lAHTA3aypNQxJ0)
+50 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/3QIe5yQ2lAHTA3aypNQxJ0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Cars](https://open.spotify.com/track/3CKLPDN1AIOYa7QPpy6oDH) | [Gary Numan](https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE) | [Premier Hits](https://open.spotify.com/album/26Q132EhFDzrSjpYhmMQph) | 3:55 | 2013-06-27 |  |
 | [Coming Up \- Remastered 2011](https://open.spotify.com/track/1p2qCWx9dM74mPIv8Vnm2f) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/1mODksGrJUHVAIIbPXB43v) | 3:51 | 2013-06-27 |  |
 | [Coward Of The County](https://open.spotify.com/track/6w4qRwQf8J9tuprfWVtc4H) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Daytime Friends: The Very Best Of Kenny Rogers](https://open.spotify.com/album/5Cum33m0MK39JjWvbGO8bQ) | 4:18 | 2013-06-27 |  |
-| [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/6LRIeceMebqu7TmyyXCRTA) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen 40 Limited Edition Collector's Box Set Vol\. 2](https://open.spotify.com/album/1PpNIByYpOjEhXhX6JT4AL) | 2:43 | 2013-06-27 |  |
+| [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/6LRIeceMebqu7TmyyXCRTA) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen 40 Limited Edition Collector's Box Set Vol\. 2](https://open.spotify.com/album/1PpNIByYpOjEhXhX6JT4AL) | 0:29 | 2013-06-27 |  |
 | [Cruisin'](https://open.spotify.com/track/3ExqReC2xLcMJvS4OVHKh5) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [The Ultimate Collection: Smokey Robinson](https://open.spotify.com/album/6IinQGB5zwguzwx5lRlKK5) | 5:56 | 2013-06-27 |  |
 | [Cupid / I've Loved You for a Long Time](https://open.spotify.com/track/6zKFVGEDGLtf63Yxpz8kzJ) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [The Very Best of the Spinners](https://open.spotify.com/album/05jU4HqC6CTnRuP1e4yYnS) | 3:56 | 2013-06-27 |  |
 | [Do That To Me One More Time](https://open.spotify.com/track/2gFnSurc2aUja58m4Jq41f) | [Captain & Tennille](https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm) | [The Ultimate Collection: Captain & Tennille](https://open.spotify.com/album/7p1ppQ3fqvosArcx4C6jpp) | 4:14 | 2013-06-27 |  |
@@ -30,7 +30,7 @@
 | [Ladies Night \- Single Version](https://open.spotify.com/track/7JsvyaIQfBSX4yVGs6cqVA) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Number 1's](https://open.spotify.com/album/4lvbbYJ7pBo9TiNuCWH7At) | 3:30 | 2013-06-27 |  |
 | [Let's Get Serious](https://open.spotify.com/track/30uxNJzutKNSsHhNuBaTSg) | [Jermaine Jackson](https://open.spotify.com/artist/1VDurPMbOKrNU8mcMP4X1P) | [Motown: The Complete No\. 1's](https://open.spotify.com/album/0iv3gV69jA1YY2H0UTy9yF) | 3:35 | 2013-06-27 |  |
 | [Little Jeannie](https://open.spotify.com/track/4MUPC5d9OyzHh19qilbBjQ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Greatest Hits 1970\-2002](https://open.spotify.com/album/6CPTYd8BQRbF6VzhnTWIfL) | 5:04 | 2013-06-27 |  |
-| [Longer](https://open.spotify.com/track/6OKrPnWUC8FccKiLVpxQWQ) | [Dan Fogelberg](https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO) | [Portrait: The Music Of Dan Fogelberg From 1972\-1997](https://open.spotify.com/album/3xzrUc5WHC8dv9UmiUWxH1) | 3:15 | 2013-06-27 |  |
+| [Longer](https://open.spotify.com/track/6OKrPnWUC8FccKiLVpxQWQ) | [Dan Fogelberg](https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO) | [Portrait: The Music Of Dan Fogelberg From 1972\-1997](https://open.spotify.com/album/3xzrUc5WHC8dv9UmiUWxH1) | 0:29 | 2013-06-27 |  |
 | [Lost In Love](https://open.spotify.com/track/6MhK1gPrgtgRedEjSUz18I) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Ultimate Air Supply](https://open.spotify.com/album/5PXeBHFjvr8EykHfFxJMje) | 3:51 | 2013-06-27 |  |
 | [Magic \- Xanadu Soundtrack Version](https://open.spotify.com/track/3zwFTUatVn4nDoQTq74AQx) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Gold](https://open.spotify.com/album/24xwaPVl6xkUunl6lEWwje) | 4:29 | 2013-06-27 |  |
 | [More Love](https://open.spotify.com/track/4SRAf6doXKEuMJxrHB8ILC) | [Kim Carnes](https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE) | [Gypsy Honeymoon: The Best Of Kim Carnes](https://open.spotify.com/album/5RDGpsmUSnVuJyh13Aryw7) | 3:38 | 2013-06-27 |  |

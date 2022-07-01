@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4sEKPcBYLcW3woDviiaigj.md) - [plain]
 
 > Give in to the season, with the ultimate collection of classic snow songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 455 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 455 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,14 +39,14 @@ pretty - [cumulative](/playlists/cumulative/4sEKPcBYLcW3woDviiaigj.md) - [plain]
 | 29 | [Winter](https://open.spotify.com/track/5d0wBKIxpCSfYmBBaELSlx) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Crucify](https://open.spotify.com/album/1BVdtqNeJHiAeAJLn1BYMP) | 5:42 |
 | 30 | [Smoke In Our Lights](https://open.spotify.com/track/3bOTMp5MhYcCxjtndqR1zm) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [A Carolina Jubilee](https://open.spotify.com/album/3mxeKWIHzJShLJ2MbPYSFm) | 5:40 |
 | 31 | [White Winter Hymnal](https://open.spotify.com/track/1Er5JMNcguoBMFXxwZ7BWH) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/6spTDEWQfiSsKjkR9NmuDX) | 2:27 |
-| 32 | [Angel In The Snow](https://open.spotify.com/track/4Ca4JITj1KlT4OyK2oeWno) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon \(2xCD\)](https://open.spotify.com/album/4c2uWXpA7ROez9KV7FQ3TU) | 2:37 |
+| 32 | [Angel In The Snow](https://open.spotify.com/track/4Ca4JITj1KlT4OyK2oeWno) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon \(2xCD\)](https://open.spotify.com/album/4c2uWXpA7ROez9KV7FQ3TU) | 0:29 |
 | 33 | [Sleet and Snow](https://open.spotify.com/track/19PbVUTpF75SeZQpTEUJwM) | [My First Tooth](https://open.spotify.com/artist/2mtHReEeM2MuBaWSY3stG8) | [Sleet and Snow](https://open.spotify.com/album/6IvRuTNcTlPaIosiVlY8Nx) | 3:18 |
 | 34 | [Tracks In the Snow](https://open.spotify.com/track/5KsZSksgeYi3RxIoAAcy5l) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Tracks In the Snow](https://open.spotify.com/album/28Fqt02jcDyoi6EfOMy8kQ) | 3:50 |
 | 35 | [Song for a Winter's Night](https://open.spotify.com/track/4t5N8KQcIg0DjksF5Q6wIe) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Wintersong](https://open.spotify.com/album/66TijPOdbkKqENLhOuDUhJ) | 3:48 |
 | 36 | [Snowflakes](https://open.spotify.com/track/39YmoAbnMVghjquO4HGmnR) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Wide Eyes Blind Love](https://open.spotify.com/album/7BLV1kSHzRGW0ZZjBZP6lZ) | 2:44 |
 | 37 | [Fallen Snow](https://open.spotify.com/track/06eLSwUFhd9Gufpx7IC8ja) | [Au Revoir Simone](https://open.spotify.com/artist/0X0TajZO1RmY3D8u1JymYq) | [The Bird Of Music \(Bonus Track\)](https://open.spotify.com/album/3Y8QUZCRhpzt2EQeoWINX0) | 3:47 |
 | 38 | [Men of Snow](https://open.spotify.com/track/1snZjPHqmd3G6SeHJyisQm) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Everybody](https://open.spotify.com/album/7gipVROy3GHgyqT4Ya2TbI) | 4:33 |
-| 39 | [Snow Queen](https://open.spotify.com/track/4P3orcdgIe7j64YzUUfQ1f) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume 3](https://open.spotify.com/album/7L0jUfO6TEYQmrVQTDp2xA) | 2:32 |
+| 39 | [Snow Queen](https://open.spotify.com/track/4P3orcdgIe7j64YzUUfQ1f) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume 3](https://open.spotify.com/album/7L0jUfO6TEYQmrVQTDp2xA) | 0:29 |
 | 40 | [Snow Day](https://open.spotify.com/track/3jFTSi4nm1Gosfqh7gvSPd) | [Matt Pond PA](https://open.spotify.com/artist/3JVgWZxQa78cVa2cUuAUQ4) | [Winter Songs EP](https://open.spotify.com/album/12LlLnVszu0tnMIEng9d61) | 3:31 |
 | 41 | [snow](https://open.spotify.com/track/6eCJUQFtIYzryiyVUtxcMN) | [Lisa Germano](https://open.spotify.com/artist/5TZqjmYL8p9HtJsBKXCxgE) | [Magic neighbor](https://open.spotify.com/album/0MFJyfJQTcotyuGgf0RXEX) | 4:16 |
 | 42 | [No Snow On The Mountain](https://open.spotify.com/track/68TyKAVHW62yGMWW3wEBSs) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [The Stars Are Indifferent To Astronomy](https://open.spotify.com/album/7kMnBrFZfdqSWQBGW0wAyz) | 4:03 |

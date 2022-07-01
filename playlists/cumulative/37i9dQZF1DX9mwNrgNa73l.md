@@ -4,7 +4,7 @@
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-47 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/6jyKNP769IPaxkOJDH7ZYq)
+47 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/6jyKNP769IPaxkOJDH7ZYq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [La Salam Mast Qalandar](https://open.spotify.com/track/5NTcVdlPxt0Xh8ZHpY9Xia) | [Jimmy Khan](https://open.spotify.com/artist/1Xy0t0XYuOpuBK7Gnuwvpu), [Atef Malhas](https://open.spotify.com/artist/6gm05jmgIx3YvLtzl1GDas), [Rawan Risheq](https://open.spotify.com/artist/5R9Ghk1KBInYUMdAhN9B6O), [Shahab Hussain](https://open.spotify.com/artist/7ymVr1v5z0MP6rcohSM5up), [Yazan Sarayrah](https://open.spotify.com/artist/3hnWpiOnZfHrY7uq2zNReK), [Hrag Mouridian](https://open.spotify.com/artist/7dCyaFjdwI7EpiWgaB6QS0) | [La Salam Mast Qalandar](https://open.spotify.com/album/1YtFZPnsIuoHiPCKk7aOYm) | 4:11 | 2022-06-21 |  |
 | [Laal Meri Pat](https://open.spotify.com/track/0aszgmTzbSUKNsN5R2V72z) | [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q), [Akbar Ali](https://open.spotify.com/artist/05YKbyGJeAcnQJxManto4S), [Arieb Azhar](https://open.spotify.com/artist/0IuKvmIDo3KrY937MVh08P) | [Coke Studio Season 10: Episode 3](https://open.spotify.com/album/5TXDqeJKuJ3dlvbypD9Hu1) | 8:20 | 2022-06-21 |  |
 | [Madari](https://open.spotify.com/track/7BGWfKugCG5QCXilymYBOy) | [Clinton Cerejo](https://open.spotify.com/artist/2j9QVMZlqIj4Cb9UISBrXK), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Sonu Kakkar](https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr) | [Greatest Hits of Coke Studio India, Vol\. 1](https://open.spotify.com/album/6NBDzr46UrfXsZ1SdvzIJB) | 7:43 | 2022-06-21 |  |
-| [Maikada 2](https://open.spotify.com/track/6IH1DsmUezNkZIxW1SM95q) | [Muhammad Samie](https://open.spotify.com/artist/6G5nbVLqZWNNT37I5icSVs) | [Maikada 2](https://open.spotify.com/album/60EYSdCM5BQDajqMyG0xz0) | 9:10 | 2022-06-21 |  |
+| [Maikada 2](https://open.spotify.com/track/6IH1DsmUezNkZIxW1SM95q) | [Muhammad Samie](https://open.spotify.com/artist/6G5nbVLqZWNNT37I5icSVs) | [Maikada 2](https://open.spotify.com/album/60EYSdCM5BQDajqMyG0xz0) | 0:29 | 2022-06-21 |  |
 | [Man Aamadeh Am](https://open.spotify.com/track/451lYQUEpLT3AzOsGj6lDn) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Gul Panra](https://open.spotify.com/artist/3fuVoj41Ig8pV6J55JU1NS) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 8:58 | 2022-06-21 |  |
 | [Man Kunto Maula](https://open.spotify.com/track/7yFs95J0gZt15FjC4ylJVj) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Ali Azmat](https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr) | [Man Kunto Maula](https://open.spotify.com/album/4aDtJNM4kem6tl4CeR7YAt) | 9:28 | 2022-06-21 |  |
 | [Maula](https://open.spotify.com/track/6Z0hi7ntpmQSkTDiBMcZVl) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Maula](https://open.spotify.com/album/0XYIRzV6BpXXSH02O8uaMz) | 6:03 | 2022-06-21 |  |

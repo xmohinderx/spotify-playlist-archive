@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-797 songs - 1 day 19 hr 15 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
+798 songs - 1 day 19 hr 18 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -646,7 +646,8 @@
 | [Save Your Tears \(with Ariana Grande\) \(Remix\)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears \(Remix\)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 | 2021-04-26 | 2021-07-11 |
 | [Scars](https://open.spotify.com/track/3NVJ8wf3n64rVR9y2CDmAF) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [Greco Beats](https://open.spotify.com/artist/7x4X4E8agWghoTDdHrUfLV) | [Prometheus](https://open.spotify.com/album/5gBnMPbN5lduEZZU22lQ1W) | 3:38 | 2021-10-31 | 2021-11-04 |
 | [Selfmade](https://open.spotify.com/track/2ZrtlDFHOqPVN3fBJyvoaH) | [Rack](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [Selfmade](https://open.spotify.com/album/3pWSjNC6ZiQ4xAwXqyd46T) | 3:16 | 2022-06-08 |  |
-| [Shake It](https://open.spotify.com/track/55Iej8nAWkAD7QlgQfpiJp) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [MUNEYLXRD](https://open.spotify.com/artist/6DAImhimwKn8bCYuGyflgB) | [Money and Drugs Can't Live In Poverty](https://open.spotify.com/album/4Q0nPhizN3vwTyzlvskQkC) | 3:02 | 2022-04-29 |  |
+| [Selini](https://open.spotify.com/track/4EaKNyW2lUIykej48Ph7SN) | [Ellize](https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH), [Sigma](https://open.spotify.com/artist/71cZMt4XdCynLn983qeFow) | [Selini](https://open.spotify.com/album/4HoGrtxOYX94I868u270Km) | 3:30 | 2022-06-30 |  |
+| [Shake It](https://open.spotify.com/track/55Iej8nAWkAD7QlgQfpiJp) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [MUNEYLXRD](https://open.spotify.com/artist/6DAImhimwKn8bCYuGyflgB) | [Money and Drugs Can't Live In Poverty](https://open.spotify.com/album/4Q0nPhizN3vwTyzlvskQkC) | 3:02 | 2022-04-29 | 2022-07-01 |
 | [Shivers](https://open.spotify.com/track/75MNhvTCCKsST3YqqUiU9r) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/531c37GGv5IvddCvBv3sWT) | 3:27 | 2021-09-17 | 2021-09-18 |
 | [Shorty](https://open.spotify.com/track/6W11qt0cfGVx7ZOEYNrSYX) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd) | [Immortale](https://open.spotify.com/album/7eypibdDfmkcSp62ElEv1G) | 4:36 | 2021-06-05 | 2022-05-07 |
 | [SHUM](https://open.spotify.com/track/7mEDVrAHDnQJStDo8jKJJm) | [Go\_A](https://open.spotify.com/artist/4kvCU3MzggM2piZCqvxj0x) | [SHUM](https://open.spotify.com/album/4AQOhI7QMKq9vmHuzduPRk) | 2:52 | 2021-05-25 | 2021-06-02 |

@@ -4,7 +4,7 @@
 
 > Enjoy the sweet rhythms of bossa nova \- the perfect marriage of samba and jazz.
 
-41 songs - 2 hr 21 min - [published](https://open.spotify.com/playlist/2uWHbzFin9pQaAxg6ohkKX)
+41 songs - 2 hr 13 min - [published](https://open.spotify.com/playlist/2uWHbzFin9pQaAxg6ohkKX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Let's Face the Music and Dance](https://open.spotify.com/track/0upEwTChCn08mKReV9Wisj) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Let's Face The Music And Dance](https://open.spotify.com/album/3FccB4IjLLpXcQvqxD4dR7) | 3:23 | 2014-03-20 |  |
 | [Let's Waste Some Time](https://open.spotify.com/track/28kMxHsImZWOiLSnLMZ9EX) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [The Molly Johnson Songbook](https://open.spotify.com/album/2PDgjNqgLIbR4V3QmSBdUu) | 4:33 | 2014-03-20 |  |
 | [Lá Vem a Baiana](https://open.spotify.com/track/2OcfnaS3z0la3C05B2f1GL) | [Jussara Silveira](https://open.spotify.com/artist/59RULa3Jap6Q7Pj1o9tb7T) | [Canções de Caymmi](https://open.spotify.com/album/7Bb308nsxWjgOyY18ghys7) | 4:02 | 2014-03-20 |  |
-| [Meu Esquema](https://open.spotify.com/track/1aXPRjYQzAOnSLRgTVXGgu) | [Mundo Livre S/A](https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC) | [As 10 + do Manguebeat](https://open.spotify.com/album/4VYpmHovkGUVBvqeVlpG6d) | 4:21 | 2014-03-20 |  |
+| [Meu Esquema](https://open.spotify.com/track/1aXPRjYQzAOnSLRgTVXGgu) | [Mundo Livre S/A](https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC) | [As 10 + do Manguebeat](https://open.spotify.com/album/4VYpmHovkGUVBvqeVlpG6d) | 0:29 | 2014-03-20 |  |
 | [Night And Day](https://open.spotify.com/track/34gedGefD9nxriWN31PRTl) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [By Request: The Best of Karrin Allyson](https://open.spotify.com/album/0z6z7Ot3NT6GzttIgWL4Jo) | 5:26 | 2014-03-20 |  |
 | [O Amor Em Paz](https://open.spotify.com/track/6XKs3hMU57OYCc45LMCbz3) | [Dick Farney](https://open.spotify.com/artist/5yrpqAQx2OwR62pNE7d5bm), [Claudette Soares](https://open.spotify.com/artist/3mwORnkU8O0wdR9tXgcpmW) | [Viva A Bossa Nova](https://open.spotify.com/album/3TUR9xCtbikoqk5WcCdCxL) | 3:04 | 2014-03-20 |  |
 | [O Barquinho](https://open.spotify.com/track/2oBiFDhFwbEHYaGOf1Mfrb) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [20 Grandes Sucessos De Nara Leao](https://open.spotify.com/album/3szAhEAqI6a0L2INCE1IrJ) | 3:05 | 2014-03-20 |  |
@@ -38,7 +38,7 @@
 | [Sing](https://open.spotify.com/track/1Wpi2b2K6mg0ewiSrCo5HB) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [The Heart Of The Matter](https://open.spotify.com/album/5QupXSIXqRFRezb7bcQiUF) | 5:07 | 2014-03-20 |  |
 | [Slightly Out Of Tune \(Desafinado\)](https://open.spotify.com/track/04c0qM2oSmfGYEufFBytj1) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [The Very Best Of Julie London](https://open.spotify.com/album/2KpxHciuO5Zwd31c4cpKqk) | 2:04 | 2014-03-20 |  |
 | [Soul Bossa Nova](https://open.spotify.com/track/30Mzjj0qhwvobi0BTyefCz) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [Jazz Classics \- The Quintessence \- Big Band Bossa Nova](https://open.spotify.com/album/5RUvDUx3chZakpBa0uijcm) | 2:45 | 2014-03-20 |  |
-| [The Boy From Ipanema](https://open.spotify.com/track/0Ug9LJTND5pegxb70A0rb0) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Quiet Nights](https://open.spotify.com/album/1zTw5dv57Nd7qQNYO1qcmd) | 4:52 | 2014-03-20 |  |
+| [The Boy From Ipanema](https://open.spotify.com/track/0Ug9LJTND5pegxb70A0rb0) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Quiet Nights](https://open.spotify.com/album/1zTw5dv57Nd7qQNYO1qcmd) | 0:29 | 2014-03-20 |  |
 | [Till There Was You](https://open.spotify.com/track/0SAOda92hEoiXU6yC0KeJ3) | [Sitti](https://open.spotify.com/artist/0t7vWPRBcVv4xBEHPZHSWA) | [Bossa Covers](https://open.spotify.com/album/3fsgQPCmCIYpIi21FciJkh) | 2:58 | 2014-03-20 |  |
 | [Tim\-Tim\-Por\-Tim\-Tim](https://open.spotify.com/track/4KDhYE59IceF0kklPXyVQI) | [Os Cariocas](https://open.spotify.com/artist/1FbL4RGqW5gvZ2kZNGdfpA) | [Pure Bossa Nova](https://open.spotify.com/album/5AsuWDxKPYXmLOIm5KeOqX) | 2:23 | 2014-03-20 |  |
 | [Triste](https://open.spotify.com/track/0w4ufcWQwpRuLjOS1dpxu7) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Elis & Tom](https://open.spotify.com/album/1xusjxfHer7CzdlQwjuZWx) | 2:39 | 2014-03-20 |  |

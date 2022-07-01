@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4drXxn0GpOXXG6Rp5RvXca.md) - [plain]
 
 > Enjoy your morning to great breakfast dub beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133 likes - 25 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 133 likes - 25 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/4drXxn0GpOXXG6Rp5RvXca.md) - [plain]
 | 12 | [Beautiful Dub](https://open.spotify.com/track/5vB8MW0rJqY5Ss243MUftR) | [Tappa Zukie](https://open.spotify.com/artist/2qpvSkCJFS9Kv7u6JpSE1x) | [In Dub](https://open.spotify.com/album/0fJ2AEYdJWljtlRWbnLlaD) | 2:55 |
 | 13 | [Chalice In The Palace \- 1990 Digital Remaster](https://open.spotify.com/track/0XHbsFYB6kdzujxZs5bVBj) | [U\-Roy](https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra) | [Dread In A Babylon](https://open.spotify.com/album/1lK6XoX8y3NUfBrgCDXYbz) | 3:29 |
 | 14 | [Roots and Culture](https://open.spotify.com/track/2FvW1kJGtL2gx9xUT7Zfo2) | [Mikey Dread](https://open.spotify.com/artist/6xKQ3GOnt3gjzja4IcLyg4) | [The Prime of Mikey Dread](https://open.spotify.com/album/7dlFlZoYIJSaEX7zc8ZhZ8) | 6:05 |
-| 15 | [Conquering Lion](https://open.spotify.com/track/5DYcVPwhCOlkiuEJa6qNTY) | [Yabby You](https://open.spotify.com/artist/2vKNIZgOzsdLs8W40OZ4X8) | [Legacy](https://open.spotify.com/album/5SX30pvWARp4gC0SN6XGXe) | 3:24 |
+| 15 | [Conquering Lion](https://open.spotify.com/track/5DYcVPwhCOlkiuEJa6qNTY) | [Yabby You](https://open.spotify.com/artist/2vKNIZgOzsdLs8W40OZ4X8) | [Legacy](https://open.spotify.com/album/5SX30pvWARp4gC0SN6XGXe) | 0:29 |
 | 16 | [Stalowatt Dub](https://open.spotify.com/track/1coMhoLMuhGFeyW5qsCaLn) | [King Jammy](https://open.spotify.com/artist/0xvTSLJBdLWHwUoQhGNbCe) | [Dub Kings: King Jammy At King Tubby's](https://open.spotify.com/album/4Ldf759VeuSMFAaUmylcEK) | 3:00 |
 | 17 | [Java](https://open.spotify.com/track/4nCz1YGWAfKJgBiNTED0D8) | [Augustus Pablo](https://open.spotify.com/artist/5WwEQwX3ruZofwDDqtOXwI) | [This Is Augustus Pablo](https://open.spotify.com/album/5ejEJe4Oa1crudGTbCttV9) | 2:44 |
 | 18 | [Throw Away Your Gun \- 1991 Digital Remaster](https://open.spotify.com/track/65TNC2zSsAOnTcHcvZ1o76) | [Prince Far I](https://open.spotify.com/artist/6BkTUVaHHgKUAjc4U7xGUL) | [Dubwise](https://open.spotify.com/album/06PpN3LxxkiDYB5miBhUa2) | 4:23 |

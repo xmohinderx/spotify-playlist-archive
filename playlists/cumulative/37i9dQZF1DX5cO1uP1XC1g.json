@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 316056,
       "name": "3la 3eny",
       "url": "https://open.spotify.com/track/5Aun0pJOQFBQozav1hPpM1"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 177541,
       "name": "Aladdin Lamp",
       "url": "https://open.spotify.com/track/3HKwxtEpjx7dEtQgkt588J"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 242735,
       "name": "Ba'ad Gheyabo",
       "url": "https://open.spotify.com/track/2pO1mQeV6Sd9Y20HYVJYYr"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 201549,
       "name": "Baad Shu",
       "url": "https://open.spotify.com/track/051Ijb9ebRNDpKEDBakTyU"
@@ -561,7 +561,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 239454,
       "name": "Chokran la vie",
       "url": "https://open.spotify.com/track/2U8ErvM7WUELQ5rhXFQIUz"
@@ -579,7 +579,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 240000,
       "name": "Courage",
       "url": "https://open.spotify.com/track/2A17I9810aeJa9BHIvHYxp"
@@ -745,7 +745,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 308341,
       "name": "Eii Enta",
       "url": "https://open.spotify.com/track/2IUrw2RUKWwxP71q5GwmJL"
@@ -869,7 +869,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 252000,
       "name": "El Walida",
       "url": "https://open.spotify.com/track/1Ld7ou1JXz77rg70AG7usC"
@@ -945,7 +945,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 284000,
       "name": "Engag\u00e9",
       "url": "https://open.spotify.com/track/5ONxNp0ytrI7xzk4PZ2Vaz"
@@ -1079,7 +1079,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 208617,
       "name": "Enti W Ana",
       "url": "https://open.spotify.com/track/4uVwxyBzFXXIy0iPUMExIc"
@@ -1307,7 +1307,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 395520,
       "name": "Ghazal Ma Yensady",
       "url": "https://open.spotify.com/track/5EKVL6XHsGCWeMik7XBMh8"
@@ -1641,7 +1641,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 211623,
       "name": "J'en ai marre !",
       "url": "https://open.spotify.com/track/39jtccUn5BcqpMbjzqFRlj"
@@ -1659,7 +1659,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 222059,
       "name": "Jabbar",
       "url": "https://open.spotify.com/track/6np5g8KulUOqN7wCDrMuRt"
@@ -1963,7 +1963,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 231807,
       "name": "Leena Ra2sa",
       "url": "https://open.spotify.com/track/612qZheYzgDboDZGz2iJDv"
@@ -2358,6 +2358,24 @@
     },
     {
       "album": {
+        "name": "Namet Nenna",
+        "url": "https://open.spotify.com/album/1pWX63oQEUEctHaDU4som3"
+      },
+      "artists": [
+        {
+          "name": "Ruby",
+          "url": "https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201463,
+      "name": "Namet Nenna",
+      "url": "https://open.spotify.com/track/7pu5c7XiIjyxnbohUJQ0b0"
+    },
+    {
+      "album": {
         "name": "Nebghik Ou Manbaynhach",
         "url": "https://open.spotify.com/album/05DbEYXmplRR28kXZasjBF"
       },
@@ -2431,7 +2449,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 157959,
       "name": "No Me Interesa",
       "url": "https://open.spotify.com/track/3bZUHmDm7QCshN8gaMNoTW"
@@ -2543,7 +2561,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 196000,
       "name": "Sac",
       "url": "https://open.spotify.com/track/63DDC3J4z88hNMvcDFzQnH"
@@ -2587,7 +2605,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 167730,
       "name": "Salade Coco",
       "url": "https://open.spotify.com/track/71k5nrJuZcr9j3X0YIBwWh"
@@ -2677,7 +2695,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 237775,
       "name": "Single",
       "url": "https://open.spotify.com/track/29MbJ4ReqIZ2lduxiwp8Cd"
@@ -3196,7 +3214,7 @@
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 124520,
+      "duration_ms": 29048,
       "name": "\u0632\u0647\u0631\u0629 \u062d\u0627\u0644\u0629 \u062d\u0644\u0648\u0629 (\u0645\u0639 \u0645\u064a\u0631\u064a\u0627\u0645 \u0641\u0627\u0631\u0633 \u0648 \u0627\u0633\u0631 \u064a\u0627\u0633\u064a\u0646)",
       "url": "https://open.spotify.com/track/6AZzs7g85UpFDJUTKwLzgo"
     },
@@ -3285,7 +3303,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 183390,
       "name": "\u0643\u062f\u0627\u0628",
       "url": "https://open.spotify.com/track/64HC3afpYKfxi58vHDbBTQ"

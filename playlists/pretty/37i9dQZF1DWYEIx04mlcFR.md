@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > La nueva\-nueva ola de artistas y creadorxs mexas: presentamos a DAAZ e Ingratax\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,570 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,615 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 34 | [¿Qué Diría Tu Mamá?](https://open.spotify.com/track/09LvdCg0WK24zdq6ELQ0Ex) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [¿Qué Diría Tu Mamá?](https://open.spotify.com/album/6tHe9fFOH9OMiSfwd6tmte) | 2:48 |
 | 35 | [¿Cuándo Pero Cuándo?](https://open.spotify.com/track/4Hsp0FRXibfhCQwKkSGTdV) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [¿Cuándo Pero Cuándo?](https://open.spotify.com/album/5HYltXcXeofknbuBjt8X4e) | 2:34 |
 | 36 | [Cicatrices](https://open.spotify.com/track/47aJuPKFlwsBcTyECetM4S) | [Valeria Scolari](https://open.spotify.com/artist/1RE6hxyCRV22rq5Kr3xdGJ) | [Cicatrices](https://open.spotify.com/album/6OTYAR1Wc6i7NrdkwhIL84) | 3:14 |
-| 37 | [Ven](https://open.spotify.com/track/2tgJbpATqLIAjGpnLS71f1) | [Luisa Ferss](https://open.spotify.com/artist/1ItAvLPSVDyxMZoH7uqj2K) | [Ven](https://open.spotify.com/album/2H9tKoacyYJ0wrQvVLijzK) | 3:18 |
+| 37 | [Ven](https://open.spotify.com/track/2tgJbpATqLIAjGpnLS71f1) | [Luisa Ferss](https://open.spotify.com/artist/1ItAvLPSVDyxMZoH7uqj2K) | [Ven](https://open.spotify.com/album/2H9tKoacyYJ0wrQvVLijzK) | 0:29 |
 | 38 | [Llámame](https://open.spotify.com/track/6pUOXwDOMBTIsYKP87urb6) | [Axel Olloqui](https://open.spotify.com/artist/5G4Gh8x14AwqhaiH9zo5qs), [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Llámame](https://open.spotify.com/album/0fnmpFDb8x8qUkNgFJRvem) | 2:40 |
 | 39 | [Cada Día Te Quiero Más](https://open.spotify.com/track/3cj60CwhSsrMr0nxMRIGKP) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Cada Día Te Quiero Más](https://open.spotify.com/album/5x4CBMHXg9zVY37KEZSS3J) | 3:12 |
 | 40 | [Nadie Más](https://open.spotify.com/track/0B0nCve9pI1PJcdA3B4t0q) | [Aldo Carpes](https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ) | [Nadie Más](https://open.spotify.com/album/5POc5gwtXkHsFwTfp5e0L7) | 3:23 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 55 | [Después De Ti](https://open.spotify.com/track/2oqayEwuda4Jq1yvkZaTEg) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [Después De Ti](https://open.spotify.com/album/3IayybkRsPhakKWLdY5Jsu) | 2:57 |
 | 56 | [Miel](https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Miel](https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B) | 2:04 |
 | 57 | [la que calla](https://open.spotify.com/track/1MxFX1v93jngElLiOqpdJx) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [la que calla](https://open.spotify.com/album/5euZs2LCSSNhhgDOifldjU) | 3:30 |
-| 58 | [Te Marqué Pedo \- Remix](https://open.spotify.com/track/6FmNYdaLvcxqTiXjpXMriI) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Te Marqué Pedo \(Remix\)](https://open.spotify.com/album/0fRcpehAhXLPmOTyXanErg) | 3:37 |
+| 58 | [Te Marqué Pedo \- Remix](https://open.spotify.com/track/6FmNYdaLvcxqTiXjpXMriI) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Te Marqué Pedo \(Remix\)](https://open.spotify.com/album/0fRcpehAhXLPmOTyXanErg) | 0:29 |
 | 59 | [Muchachitos Feat\. Humbe](https://open.spotify.com/track/7Hwl1ai57xB7TxzICqT3zM) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Muchachitos Feat\. Humbe](https://open.spotify.com/album/6OTpdwUiPRk2KeeCFRZsX9) | 3:05 |
 | 60 | [empleado del mes](https://open.spotify.com/track/1p4PINMyO9rjyt4AN0DWxo) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [empleado del mes](https://open.spotify.com/album/4YvqwFBW0pc0HXX4D7xGfI) | 2:58 |
 | 61 | [LSNC](https://open.spotify.com/track/3LV3d4MEOVhcLuUhKvkltK) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [LSNC](https://open.spotify.com/album/5srzFKsRKHUk09jV2R5Tnh) | 2:33 |

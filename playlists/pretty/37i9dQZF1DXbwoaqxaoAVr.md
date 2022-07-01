@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 
 > Pop style reggae for a sunny vibe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,478 likes - 70 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,989 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 | 8 | [Mr Reggae](https://open.spotify.com/track/1Wu67nQXx74tc8PTax63zK) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Mr Reggae](https://open.spotify.com/album/17HsgjR6rhYGnDFsJVdiQw) | 3:04 |
 | 9 | [Get Free](https://open.spotify.com/track/0pHYQzbf7xJiSCn79w8Efb) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Amber of Dirty Projectors](https://open.spotify.com/artist/6ZNxsFRXMi2yGGgOtVZsrr) | [Get Free \(feat\. Amber of Dirty Projectors\)](https://open.spotify.com/album/2tH6X8xxt0p7EVQ0fcScL2) | 4:49 |
 | 10 | [Cupid \- Deluxe Edition Version](https://open.spotify.com/track/5kG1ARHk8dli0bKiMN2oE6) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:48 |
-| 11 | [Caribbean Plans \- Remix](https://open.spotify.com/track/2zIkY5vcsW2KoMHqBOmHF9) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Caribbean Plans \(Remix\)](https://open.spotify.com/album/2bFSReIMtrAkzp6gHAhHkl) | 3:50 |
+| 11 | [Caribbean Plans \- Remix](https://open.spotify.com/track/2zIkY5vcsW2KoMHqBOmHF9) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Caribbean Plans \(Remix\)](https://open.spotify.com/album/2bFSReIMtrAkzp6gHAhHkl) | 0:29 |
 | 12 | [Morning Is Coming \(with Shaggy\)](https://open.spotify.com/track/1MIoqrkFISWV3q3JvifC4S) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [44/876 \(Deluxe\)](https://open.spotify.com/album/1CoVw7saic0ozYSDTeQ26l) | 3:11 |
 | 13 | [Sunshine](https://open.spotify.com/track/1EiEPGecNb0Ctfc8z6ialX) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Sense of Purpose](https://open.spotify.com/album/2RKnPLi0ncp9vwKMgatVMr) | 4:22 |
 | 14 | [Lonely](https://open.spotify.com/track/5rPIC7hQVaDSZryekHY89Z) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Gifted](https://open.spotify.com/album/3OcgIT5qeI4lZnaUHqLQLi) | 4:08 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 | 62 | [Rescue \(feat\. Mic Dainjah\)](https://open.spotify.com/track/39pT7iJCkKGY6QkWqnvciP) | [Alysha Brilla](https://open.spotify.com/artist/72McluarQZqpzSS95goQ0Q), [Mic Dainjah](https://open.spotify.com/artist/1RUN1lzELak6Yf6NnvhX2A) | [Womyn](https://open.spotify.com/album/6geUEgI95kuk2uUJsw9rwa) | 4:44 |
 | 63 | [Don't Start Now](https://open.spotify.com/track/1jdOJBKLdLtSrV63ztyYdP) | [Bristol Love](https://open.spotify.com/artist/25w54ChZ90U3nrnC4SNjfp), [Lee Avril](https://open.spotify.com/artist/6LH7SUgERTDqDlpc2APvZu) | [Don't Start Now](https://open.spotify.com/album/6r55H42Pcw4fpChqvB5oZN) | 3:44 |
 | 64 | [All Day](https://open.spotify.com/track/5rzpYteMpmaXAymIQoqmFC) | [Mihali](https://open.spotify.com/artist/1GJKMYNEIsLbRfS3AyS4YV), [Iya Terra](https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D) | [All Day](https://open.spotify.com/album/1XBuh0Xy5nHzwb7jOyUAhP) | 4:05 |
-| 65 | [Is This Love](https://open.spotify.com/track/2w7xs3r4RZtipgMYTlxsvr) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 3:48 |
+| 65 | [Is This Love](https://open.spotify.com/track/2w7xs3r4RZtipgMYTlxsvr) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 0:29 |
 | 66 | [Hell and High Water \(feat\. Alessia Cara\)](https://open.spotify.com/track/5C2ry6OWozoqrEDyBz7MOX) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Music Is The Weapon](https://open.spotify.com/album/5sfr7pnsTBW9wcQPbxuitJ) | 2:25 |
 | 67 | [Magic Potion](https://open.spotify.com/track/3wE1mg5XLt1HR4BC3Dm6Tg) | [Lomez Brown](https://open.spotify.com/artist/6XBe77lygQAmgBFb6MGzpD), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [The Feels & Groove EP](https://open.spotify.com/album/1rtJZt0m57FZBKe3F9e6M4) | 4:12 |
 | 68 | [Tellme](https://open.spotify.com/track/67WqnBV34inBIzVoEX8UV1) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Tellme](https://open.spotify.com/album/7m75esfC7Hb4Uxn6d70ZSJ) | 3:18 |

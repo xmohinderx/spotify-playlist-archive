@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring COBRAH
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,186 likes - 110 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,370 likes - 110 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 72 | [Mr Valentine](https://open.spotify.com/track/2E51gp6rrOPtfvmrk6wIL5) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Mr Valentine](https://open.spotify.com/album/2TuYvh4A25VRWjqxnC4sf0) | 2:37 |
 | 73 | [I Hate You I Love You](https://open.spotify.com/track/5KgBj14914cz5SirCMvbCm) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [I Hate You I Love You](https://open.spotify.com/album/4hcjr6lpFL24nHjjy7LqjQ) | 2:15 |
 | 74 | [Dreamverse](https://open.spotify.com/track/7DnkH5iuTImLMZo7OtsBfI) | [Athena](https://open.spotify.com/artist/5zQVK5kEmMGuMqreKxjyNb) | [Dreamverse](https://open.spotify.com/album/1xWfwpVYVFZooH9KpXaiBx) | 4:56 |
-| 75 | [mess it up](https://open.spotify.com/track/2gpNArSO3LwEgD91do4BpG) | [Catnapp](https://open.spotify.com/artist/2W47Nby5KFaS1pdUt7qmCU) | [TRUST](https://open.spotify.com/album/1bvrpTqzbfMe4HvdbzwGu2) | 2:31 |
+| 75 | [mess it up](https://open.spotify.com/track/2gpNArSO3LwEgD91do4BpG) | [Catnapp](https://open.spotify.com/artist/2W47Nby5KFaS1pdUt7qmCU) | [TRUST](https://open.spotify.com/album/1bvrpTqzbfMe4HvdbzwGu2) | 0:29 |
 | 76 | [District 8](https://open.spotify.com/track/3oXiddNGiWhpmlQCWkJoJ9) | [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV) | [SYS02](https://open.spotify.com/album/1hWdAnaS9tsIcwYM3hC48Y) | 5:01 |
 | 77 | [Fine Night](https://open.spotify.com/track/6UeUyaI0Mg6YVrleDiUzdG) | [Goreshit](https://open.spotify.com/artist/2UyOnfaE8nWXKPwYQyp2La) | [gnb](https://open.spotify.com/album/5KWDHBSc9h4QkMTG2XS0Lz) | 5:16 |
 | 78 | [popipo00](https://open.spotify.com/track/3oYZkaAsoi7UqinSUcidnA) | [AKIBA](https://open.spotify.com/artist/5y51w1wj1qFCNOAU1b7BEc) | [im lost in a neverending dream](https://open.spotify.com/album/5LhJziay2LhxujQ0HsvSlk) | 2:36 |
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 97 | [Luv Like](https://open.spotify.com/track/3cJSNe3eSkegr9dZsZxr6c) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Luv Like](https://open.spotify.com/album/3dGdrMdedYlcSaijiU6AV3) | 3:06 |
 | 98 | [Starry](https://open.spotify.com/track/63f9LtwZTlLyTSBSLOpjaX) | [hxly xo](https://open.spotify.com/artist/4lYqhtjf8WpvRYBeTHKeJH), [THRSHXOLD](https://open.spotify.com/artist/4csh278n0tsDRZrBdLFa0u) | [Umbrae](https://open.spotify.com/album/2HOlwyoPNjveiZH9PPhHtM) | 2:15 |
 | 99 | [Audio](https://open.spotify.com/track/2C4kl8zvhUwmdlofcRcbH3) | [EASYFUN](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Audio](https://open.spotify.com/album/1MpGcRFAoTJi1e5fCEBoAd) | 3:31 |
-| 100 | [JUNGLE TEKNAH](https://open.spotify.com/track/0PjXRi6lYapTH4BXl8xNlU) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [JUNGLE TEKNAH](https://open.spotify.com/album/7ETcD2rHdCaGTOTd2cSLBH) | 4:01 |
+| 100 | [JUNGLE TEKNAH](https://open.spotify.com/track/0PjXRi6lYapTH4BXl8xNlU) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [JUNGLE TEKNAH](https://open.spotify.com/album/7ETcD2rHdCaGTOTd2cSLBH) | 0:29 |
 | 101 | [remember](https://open.spotify.com/track/2xwtIrjHLg4f61q6bFBbL4) | [Middle School](https://open.spotify.com/artist/6AjXxPL8C44rc1yJdi6RZB) | [remember](https://open.spotify.com/album/7bXEMpMJNRWkzQpnKziufZ) | 1:23 |
 | 102 | [Altered Reality](https://open.spotify.com/track/2JL9TRq38dryFpSoMHPNok) | [DreamWeaver](https://open.spotify.com/artist/5eJLr9gChrfI4p6AuEGT4z) | [Cloud9](https://open.spotify.com/album/6NW5PiEHF9eN8cCCcrPFCT) | 3:25 |
 | 103 | [Britnaeys new baby \[125 BPM\]](https://open.spotify.com/track/3eoWq5oqHA72MObemar3xY) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Don't Follow Me Because I'm Lost Too!!](https://open.spotify.com/album/0fzPd8PH6TQR8BQBkxQDRZ) | 2:52 |

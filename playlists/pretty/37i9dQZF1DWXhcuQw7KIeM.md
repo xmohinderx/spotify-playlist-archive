@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 
 > From the very deep spirit of the almighty North\. Cover: The HU
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,119 likes - 80 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,252 likes - 80 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 15 | [U\-Gra](https://open.spotify.com/track/1skpul4CRFFh1irTjprkF7) | [Nytt Land](https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp) | [U\-Gra](https://open.spotify.com/album/25S9xlQbFOAZE9pgV2sczx) | 6:00 |
 | 16 | [Hemkomst](https://open.spotify.com/track/6zZ4iLIL9u8ozZ9DllB7ln) | [Forndom](https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH) | [Faþir](https://open.spotify.com/album/7cOPDPI7NelUNNmbw8pHPC) | 5:40 |
 | 17 | [Yggdrasil](https://open.spotify.com/track/557wTI8uo48D59Caf2iM2I) | [Forndom](https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH) | [Yggdrasil](https://open.spotify.com/album/3TcQZvBmiStnfk8WXVfuu3) | 4:15 |
-| 18 | [Relics of the Natural Realm](https://open.spotify.com/track/5cbnif2ROYIXzqWWJ6ZUMa) | [Sojourner](https://open.spotify.com/artist/0XFkf3NSP76nB7zhzPdM9X) | [Perennial](https://open.spotify.com/album/3zxt9rDcbBMJBPL6fmgTeJ) | 5:20 |
+| 18 | [Relics of the Natural Realm](https://open.spotify.com/track/5cbnif2ROYIXzqWWJ6ZUMa) | [Sojourner](https://open.spotify.com/artist/0XFkf3NSP76nB7zhzPdM9X) | [Perennial](https://open.spotify.com/album/3zxt9rDcbBMJBPL6fmgTeJ) | 0:29 |
 | 19 | [Ég felé](https://open.spotify.com/track/4PSVK92v0jtq8NiOtgqnFe) | [The Moon & The Nightspirit](https://open.spotify.com/artist/7hm6tfDbNUdRrz2hfRpJG3) | [Ősforras](https://open.spotify.com/album/012OIS7HI85MqcAOKHL6fP) | 5:56 |
 | 20 | [Varjo](https://open.spotify.com/track/5V7GpFS9TX3JnNJtdDxNqR) | [Lost In Grey](https://open.spotify.com/artist/36V2JuO5EMWTRwf8sd6ior) | [Varjo](https://open.spotify.com/album/37xsrFZKpKpqDlNkKXm4wb) | 5:39 |
 | 21 | [Unnr \| MINDBEACH](https://open.spotify.com/track/38oAbSWuIpMZB7Ny0Z42zC) | [Kati Ran](https://open.spotify.com/artist/6Ug5CwD7oxSB5WNQH69NUJ), [Borgar Magnason](https://open.spotify.com/artist/0UvE0FOPYcShzzE4IYmD5n), [Gaahls WYRD](https://open.spotify.com/artist/7h8V7XHdJ3akShW3uFaZyn), [Theodor Bastard](https://open.spotify.com/artist/2PQ9UX4kWDE3mf2fYGRzqF) | [Unnr \| MINDBEACH](https://open.spotify.com/album/5B2Gsb3s1p0sNtPbj8HT4Y) | 9:36 |

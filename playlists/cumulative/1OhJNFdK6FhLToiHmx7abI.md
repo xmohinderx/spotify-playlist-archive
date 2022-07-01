@@ -4,7 +4,7 @@
 
 > 
 
-41 songs - 2 hr 51 min - [published](https://open.spotify.com/playlist/0Ib4iIXyKrveWODgQinaSO)
+41 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/0Ib4iIXyKrveWODgQinaSO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Benediction](https://open.spotify.com/track/1fQcNoxSkB8jZn3fbSZd24) | [Raffertie](https://open.spotify.com/artist/5UExdZdyiChMTvMm0nATlp) | [Build Me Up](https://open.spotify.com/album/7d6F3wNa6UqrsPHE0YPrV4) | 3:35 | 2013-06-07 |  |
 | [Betty Corrigall](https://open.spotify.com/track/2hqlTy6qjYfIyEav2Bts5C) | [The Magnetic North](https://open.spotify.com/artist/7kDENNLAOgnizz0fgUB6PX) | [Orkney: Symphony Of The Magnetic North](https://open.spotify.com/album/2sO3ITzbEmALfoRLTQOhQk) | 3:08 | 2013-06-07 |  |
 | [Build Me Up](https://open.spotify.com/track/7ztgoEN6prk2CRZcZ8fACR) | [Raffertie](https://open.spotify.com/artist/5UExdZdyiChMTvMm0nATlp) | [Build Me Up](https://open.spotify.com/album/7d6F3wNa6UqrsPHE0YPrV4) | 3:05 | 2013-06-07 |  |
-| [Call Me in the Afternoon](https://open.spotify.com/track/6MYM316fEnoXjG93Ga3l1L) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Dark Eyes](https://open.spotify.com/album/61f3wyDLcmz4Red83KWaAG) | 3:03 | 2013-06-07 |  |
+| [Call Me in the Afternoon](https://open.spotify.com/track/6MYM316fEnoXjG93Ga3l1L) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Dark Eyes](https://open.spotify.com/album/61f3wyDLcmz4Red83KWaAG) | 0:29 | 2013-06-07 |  |
 | [Careless Woman](https://open.spotify.com/track/2NKefbyaKdUVCYJLAlaw50) | [Tythe](https://open.spotify.com/artist/3iul5MO9XpmV7E2G9uVoER) | [Careless Woman](https://open.spotify.com/album/4x6OM54B2dPWbj5r4iYot3) | 5:18 | 2013-06-07 |  |
 | [Colours to Life](https://open.spotify.com/track/5NM5JuRUbMH5pNf82o6UZ7) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Colours to Life](https://open.spotify.com/album/3BHnYX23pp5jReGw1AGwLr) | 5:16 | 2013-06-07 |  |
 | [Destroyer](https://open.spotify.com/track/48nTLbUtQ0Csvyr6Rscyt2) | [The Rumour Said Fire](https://open.spotify.com/artist/6WwzrdpJKQcGbMpHJfSTWj) | [Dead Ends](https://open.spotify.com/album/7zaQnKMpvdFcuSFBBY6qnr) | 5:35 | 2013-06-07 |  |
@@ -24,7 +24,7 @@
 | [End Of The World](https://open.spotify.com/track/7xJVgULr1O0ZESSP7Mtz4l) | [Deap Vally](https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl) | [Get Deap! EP](https://open.spotify.com/album/2xMmN0zsiGvG6M847oIPyn) | 4:32 | 2013-06-07 |  |
 | [Festival \- Radio Edit](https://open.spotify.com/track/7Dtl25EYWPTXeRDUvEOJUP) | [Victoria and Jacob](https://open.spotify.com/artist/6ws4rEil3pTlEKQL6hdUMt) | [Festival](https://open.spotify.com/album/6QtABY6mqxKeE4SCsTGeER) | 3:22 | 2013-06-07 |  |
 | [Force and Matter](https://open.spotify.com/track/1TlLslThkHEYRv0El6yJgS) | [Foam Lake](https://open.spotify.com/artist/4fdfzUkkOlbqlVZ4eJYfGw) | [Force & Matter](https://open.spotify.com/album/5SpDOeXUwACtQVpvBjGxN9) | 3:19 | 2013-06-07 |  |
-| [Full Circle](https://open.spotify.com/track/682Yji3o5swGYXNUOIl5Ah) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Dark Eyes](https://open.spotify.com/album/61f3wyDLcmz4Red83KWaAG) | 3:02 | 2013-06-07 |  |
+| [Full Circle](https://open.spotify.com/track/682Yji3o5swGYXNUOIl5Ah) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Dark Eyes](https://open.spotify.com/album/61f3wyDLcmz4Red83KWaAG) | 0:29 | 2013-06-07 |  |
 | [Gonna Make My Own Money](https://open.spotify.com/track/51Iu8MoVeHIbGv69yk7vha) | [Deap Vally](https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl) | [1234](https://open.spotify.com/album/2gSpNhhfB6XUz5SsxquEln) | 2:33 | 2013-06-07 |  |
 | [Good Man](https://open.spotify.com/track/14F0wusOUa115ZKxzDSExM) | [Glimmermen](https://open.spotify.com/artist/3WZv5ZbjwmA8Crda1tNqFF) | [Satellite People EP](https://open.spotify.com/album/5o6ega0gitnhkYCcTzzuZe) | 4:30 | 2013-06-07 |  |
 | [Hi Life](https://open.spotify.com/track/3HOeCVPb0C9jRCvSNa1ZS7) | [The Magnetic North](https://open.spotify.com/artist/7kDENNLAOgnizz0fgUB6PX) | [Orkney: Symphony Of The Magnetic North](https://open.spotify.com/album/2sO3ITzbEmALfoRLTQOhQk) | 4:28 | 2013-06-07 |  |
@@ -32,14 +32,14 @@
 | [Lies](https://open.spotify.com/track/7tKvXqCJAtNlwVXuj9hnac) | [Deap Vally](https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl) | [Lies](https://open.spotify.com/album/7Dt4a2UhLjFPMWCJZsSPgt) | 3:04 | 2013-06-07 |  |
 | [Lucky Radio](https://open.spotify.com/track/4r2ICJBwicAMvjWVzaRa2B) | [Samuel Purdey](https://open.spotify.com/artist/091X0cjQWH2gYl5ky87kQB) | [Acid Jazz: Collection Three](https://open.spotify.com/album/3B43xFkukDCqxcqqD0dfKQ) | 3:56 | 2013-06-07 |  |
 | [Moon Stream](https://open.spotify.com/track/0rg3MVdNOsWrT4lzbhKaYl) | [The Rumour Said Fire](https://open.spotify.com/artist/6WwzrdpJKQcGbMpHJfSTWj) | [Dead Ends](https://open.spotify.com/album/7zaQnKMpvdFcuSFBBY6qnr) | 3:51 | 2013-06-07 |  |
-| [No More Losing the War](https://open.spotify.com/track/30JU9jFQmoLzoiCNxoTAeE) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Dark Eyes](https://open.spotify.com/album/61f3wyDLcmz4Red83KWaAG) | 3:57 | 2013-06-07 |  |
+| [No More Losing the War](https://open.spotify.com/track/30JU9jFQmoLzoiCNxoTAeE) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Dark Eyes](https://open.spotify.com/album/61f3wyDLcmz4Red83KWaAG) | 0:29 | 2013-06-07 |  |
 | [One Track Mind](https://open.spotify.com/track/28NH3wEdeOhOdujr4Rk2EL) | [Raffertie](https://open.spotify.com/artist/5UExdZdyiChMTvMm0nATlp) | [Mass Appeal](https://open.spotify.com/album/0vJyIE3HSa2hcS46AIw7dp) | 10:21 | 2013-06-07 |  |
 | [Pendulum](https://open.spotify.com/track/3h5mswXA3LSBIybgL30uYA) | [Pure Bathing Culture](https://open.spotify.com/artist/4WrK3qZXMjfwl0dQj09QSD) | [Pendulum](https://open.spotify.com/album/2xem2ryzvfyF8NeWVWmUfn) | 3:57 | 2013-06-07 |  |
-| [She Wants to Know](https://open.spotify.com/track/67yKn8Ouxo6nVQND5CyIJe) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Dark Eyes](https://open.spotify.com/album/61f3wyDLcmz4Red83KWaAG) | 4:11 | 2013-06-07 |  |
+| [She Wants to Know](https://open.spotify.com/track/67yKn8Ouxo6nVQND5CyIJe) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Dark Eyes](https://open.spotify.com/album/61f3wyDLcmz4Red83KWaAG) | 0:29 | 2013-06-07 |  |
 | [Staying Alive](https://open.spotify.com/track/1n5Vpe4BjOXdjJExGBfzsL) | [The Whigs](https://open.spotify.com/artist/62gHwaZEtHenaB124IuOW8) | [Enjoy The Company](https://open.spotify.com/album/2GiP4Rl8UkIUuMVfSr6cD4) | 8:15 | 2013-06-07 |  |
 | [Stromness](https://open.spotify.com/track/0OCXV3HaicYzlJnkynMnon) | [The Magnetic North](https://open.spotify.com/artist/7kDENNLAOgnizz0fgUB6PX) | [Orkney: Symphony Of The Magnetic North](https://open.spotify.com/album/2sO3ITzbEmALfoRLTQOhQk) | 1:16 | 2013-06-07 |  |
 | [Séance](https://open.spotify.com/track/5RvRLNEVyYXEvKPsHsnf51) | [The Rumour Said Fire](https://open.spotify.com/artist/6WwzrdpJKQcGbMpHJfSTWj) | [Dead Ends](https://open.spotify.com/album/7zaQnKMpvdFcuSFBBY6qnr) | 3:58 | 2013-06-07 |  |
-| [The Lion](https://open.spotify.com/track/4KSWqcLeYmnbzHjTCe39NK) | [The Migrant](https://open.spotify.com/artist/13hjZzAush5gyfkSNWDdCd) | [Beads](https://open.spotify.com/album/4QXQtk2tTC3iaZJTytMDga) | 5:36 | 2013-06-07 |  |
+| [The Lion](https://open.spotify.com/track/4KSWqcLeYmnbzHjTCe39NK) | [The Migrant](https://open.spotify.com/artist/13hjZzAush5gyfkSNWDdCd) | [Beads](https://open.spotify.com/album/4QXQtk2tTC3iaZJTytMDga) | 0:29 | 2013-06-07 |  |
 | [The Load](https://open.spotify.com/track/626LHjvlbmTNrpwS9wcyLa) | [Barbarossa](https://open.spotify.com/artist/2P9E82N4cW2AmY2IXjq0C2) | [The Load](https://open.spotify.com/album/7xCJjAjqOWauW5TLe6t9jz) | 3:40 | 2013-06-07 |  |
 | [This Time](https://open.spotify.com/track/1DFf22wAhURrEt5boeKYkf) | [The New Mendicants](https://open.spotify.com/artist/5x3OulmmMZoHdhOoQaNyP5) | [Australia 2013 EP](https://open.spotify.com/album/7vyi0Q11N3dKNm3vUERkLy) | 3:00 | 2013-06-07 |  |
 | [True Hearts](https://open.spotify.com/track/57B5lp7kSs3ygoD4MYnkS2) | [Foam Lake](https://open.spotify.com/artist/4fdfzUkkOlbqlVZ4eJYfGw) | [Force & Matter](https://open.spotify.com/album/5SpDOeXUwACtQVpvBjGxN9) | 3:40 | 2013-06-07 |  |

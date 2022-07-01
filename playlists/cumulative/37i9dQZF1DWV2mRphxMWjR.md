@@ -4,7 +4,7 @@
 
 > 8月6日公開<a href="https://www.onepiece\-film.jp/">『ONE PIECE FILM RED』</a>公式プレイリスト。「ONE PIECE」映画作品の主題歌集。The official playlist for "ONE PIECE FILM RED"\.  ©尾田栄一郎／2022「ワンピース」製作委員会
 
-18 songs - 1 hr 12 min - [published](https://open.spotify.com/playlist/6LuRPgfyQNkKYHYZnI0wNO)
+18 songs - 1 hr 8 min - [published](https://open.spotify.com/playlist/6LuRPgfyQNkKYHYZnI0wNO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [fanfare](https://open.spotify.com/track/78thhWnYLGIBaEqNcmhyHL) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [SENSE](https://open.spotify.com/album/2AG5d3p14xkRoSQROC6O7k) | 6:15 | 2022-06-08 |  |
 | [GONG](https://open.spotify.com/track/4TFUsim1NVJGvQjE2Ppeno) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [COMINATCHA!!](https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au) | 4:28 | 2022-06-08 |  |
 | [How You Remind Me](https://open.spotify.com/track/4H560RqZEEhrgOquGqTCvs) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Avril Lavigne \(Expanded Edition\)](https://open.spotify.com/album/7qjA5gbagHWVbqKUgVt49l) | 4:05 | 2022-06-08 |  |
-| [memories](https://open.spotify.com/track/12MSmLSGPWulxOPvYBy5Ss) | [Maki Otsuki](https://open.spotify.com/artist/10C2C3ecEhGKdHskghO52u) | [Stories](https://open.spotify.com/album/4qo7xzzzNICqYYU36O5x00) | 4:26 | 2022-06-08 |  |
+| [memories](https://open.spotify.com/track/12MSmLSGPWulxOPvYBy5Ss) | [Maki Otsuki](https://open.spotify.com/artist/10C2C3ecEhGKdHskghO52u) | [Stories](https://open.spotify.com/album/4qo7xzzzNICqYYU36O5x00) | 0:29 | 2022-06-08 |  |
 | [Ready !](https://open.spotify.com/track/5r5AoULU7BLfy9G7Ux5PbE) | [Folder 5](https://open.spotify.com/artist/2B7camiqgR0ErfveavlNIG) | [HYPER GROOVE 1](https://open.spotify.com/album/74FWMBzqWcuqRh18aGyphf) | 3:59 | 2022-06-08 |  |
 | [sailing day](https://open.spotify.com/track/3cQWusqyt053W56L3XBiIs) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [ユグドラシル](https://open.spotify.com/album/6nAhyJYpMCLzRGeVLJrico) | 4:04 | 2022-06-08 |  |
 | [あの場所へ](https://open.spotify.com/track/3UMb7ixO3h2gRWlXUywGLa) | [晴晴゛](https://open.spotify.com/artist/7dUWtf36bq6UgxALM703pF) | [あの場所へ](https://open.spotify.com/album/2Ouwto4fMc59q99LjYp3eX) | 4:01 | 2022-06-08 |  |

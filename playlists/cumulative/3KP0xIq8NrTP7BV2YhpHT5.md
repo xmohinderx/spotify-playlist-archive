@@ -4,7 +4,7 @@
 
 > Celebrate your baby boy and spread the good news!
 
-23 songs - 1 hr 29 min - [published](https://open.spotify.com/playlist/0UW8eOJlHHINh01XKFaYqu)
+23 songs - 1 hr 23 min - [published](https://open.spotify.com/playlist/0UW8eOJlHHINh01XKFaYqu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,13 +14,13 @@
 | [Bring Him Home](https://open.spotify.com/track/3FvgjfERD2q146UmzjNTc4) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [The Piano Guys](https://open.spotify.com/album/6P2EwTc87RwLx2ANZVr1JY) | 4:15 | 2013-10-17 |  |
 | [Call Me Papa](https://open.spotify.com/track/1l9DBbVxNiLNKQc1DFSVBl) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Donavon Frankenreiter](https://open.spotify.com/album/7HPDZ1Gu4pWyDn9o6DiToG) | 3:45 | 2013-10-06 |  |
 | [Father And Son](https://open.spotify.com/track/77vgQcXbwX5C4oapmx6phI) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Gold](https://open.spotify.com/album/1S1NJXGjE6yBGIq2PhVKyE) | 3:40 | 2013-10-15 |  |
-| [Forever Young \- 2008 Remaster](https://open.spotify.com/track/5MdaYkcPOlyEX56YjlQhZJ) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Definitive Rod Stewart](https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj) | 4:05 | 2013-10-17 |  |
+| [Forever Young \- 2008 Remaster](https://open.spotify.com/track/5MdaYkcPOlyEX56YjlQhZJ) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Definitive Rod Stewart](https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj) | 0:29 | 2013-10-17 |  |
 | [Godspeed \(Sweet Dreams\)](https://open.spotify.com/track/40xBxpWZMw7LYfv50Eru1m) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Home](https://open.spotify.com/album/2OlPK6y1JnP7PKW9fHFes0) | 4:41 | 2013-10-06 |  |
 | [He Lives In You \- From "Rhythm Of The Pride Lands"](https://open.spotify.com/track/2TDQZhGtgPKFl63HlElW7o) | [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA) | [Disney's Greatest Vol\. 3](https://open.spotify.com/album/6UuNvv5UFJG5bQkYzQIarh) | 4:51 | 2013-10-17 |  |
 | [Hey Jude \- From "Across The Universe" Soundtrack](https://open.spotify.com/track/41in1uId5IIsqOqNvYC7ua) | [Joe Anderson](https://open.spotify.com/artist/6EdedFZ0TxPvIRZzj0yF6s) | [Across The Universe \(Original Deluxe\)](https://open.spotify.com/album/2rHgctQLLQqcebs4jN82z1) | 4:10 | 2013-10-07 |  |
 | [Hourglass](https://open.spotify.com/track/1vU4IbmZlwbpC4uwRoLMhy) | [Mindy Gledhill](https://open.spotify.com/artist/24gJ2GCq5zx1Mh08ZpmiSo) | [Anchor](https://open.spotify.com/album/4QqFp5fKkDRyjCT8pLH3zF) | 3:06 | 2013-10-17 |  |
 | [I Will Follow Him](https://open.spotify.com/track/1mspRB1JIDtaMPXewN8XOs) | [Little Peggy March](https://open.spotify.com/artist/09vvlnqwFaimZwGAvpXgqy) | [I Will Follow Him](https://open.spotify.com/album/0wPcTchjoE6Oq5Wj3ojpE4) | 2:31 | 2013-10-17 |  |
-| [I've Got Your Number, Son](https://open.spotify.com/track/5k33ALWQ3GcoKvVwJkf1C6) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume 3](https://open.spotify.com/album/7L0jUfO6TEYQmrVQTDp2xA) | 3:10 | 2013-10-17 |  |
+| [I've Got Your Number, Son](https://open.spotify.com/track/5k33ALWQ3GcoKvVwJkf1C6) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume 3](https://open.spotify.com/album/7L0jUfO6TEYQmrVQTDp2xA) | 0:29 | 2013-10-17 |  |
 | [Just The Two Of Us](https://open.spotify.com/track/01F8B0dhzGdWvmcSO6vUdi) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 5:15 | 2013-10-17 |  |
 | [Little Rock 'N' Roller](https://open.spotify.com/track/0RYNmj0jHUSzDLBbndDw7m) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Fearless Heart](https://open.spotify.com/album/5JV8iAgzh7ZpqU6vkRr1WO) | 4:51 | 2013-10-17 |  |
 | [Lullaby For Wyatt](https://open.spotify.com/track/6g7ZJZrLi9DOJVvbKtRoiO) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Detours](https://open.spotify.com/album/245704RhuUXj2ty55RKoJh) | 4:07 | 2013-10-07 |  |

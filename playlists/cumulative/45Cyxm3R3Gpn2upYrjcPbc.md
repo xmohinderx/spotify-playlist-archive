@@ -4,7 +4,7 @@
 
 > 
 
-66 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/7s7gYqiaMVahGb4xGb8ASp)
+66 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/7s7gYqiaMVahGb4xGb8ASp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Dead Or Alive](https://open.spotify.com/track/0PpwTWjOnN3cXlDKxgjqHm) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Jimmy Jones](https://open.spotify.com/artist/7ydcRbgt0yM9etADb1Ackp) | [Come Home With Me](https://open.spotify.com/album/39944ACXhgHs7gjXa5HehY) | 4:07 | 2013-06-04 |  |
 | [Diamonds From Sierra Leone](https://open.spotify.com/track/3V8VqH4EmTU8VFVu00Ir9T) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Late Registration](https://open.spotify.com/album/0Ds6i3h0F9RcYIKAD5Olum) | 3:58 | 2013-06-04 |  |
 | [Doin' My Job](https://open.spotify.com/track/1Wrq0Vmv5eVg676QxpZg7G) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Trap Muzik](https://open.spotify.com/album/3I16wXzIVlaeb8ulHTxCXd) | 4:13 | 2013-06-04 |  |
-| [Dreams](https://open.spotify.com/track/7l7tTR8FVBemCeJBrzBOXm) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [The Documentary](https://open.spotify.com/album/0d0QL1mV66wpb9cBvCSF0G) | 4:46 | 2013-06-04 |  |
+| [Dreams](https://open.spotify.com/track/7l7tTR8FVBemCeJBrzBOXm) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [The Documentary](https://open.spotify.com/album/0d0QL1mV66wpb9cBvCSF0G) | 0:29 | 2013-06-04 |  |
 | [Drive Slow](https://open.spotify.com/track/5AMekX6PigBBeBRHvB4MfZ) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [GLC](https://open.spotify.com/artist/2hZ6jVi1cao5VlJHAEPzU7) | [Late Registration](https://open.spotify.com/album/0Ds6i3h0F9RcYIKAD5Olum) | 4:32 | 2013-06-04 |  |
 | [Drivin' Me Wild](https://open.spotify.com/track/7tuQOFadLOvJ7Dx0MJkVKt) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Finding Forever](https://open.spotify.com/album/4Jq4PRvkyBUceUFMS2d4jR) | 3:42 | 2013-06-04 |  |
 | [Encore](https://open.spotify.com/track/5lcW1x9duYBeWhVun0mdsc) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Hits Collection Volume One \(Deluxe\)](https://open.spotify.com/album/4EOivv4vgGvUpxzkC3HrL9) | 4:09 | 2013-06-04 |  |

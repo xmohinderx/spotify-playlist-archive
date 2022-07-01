@@ -4,7 +4,7 @@
 
 > Rap romântico pra amolecer os corações apaixonados e esquentar o clima.
 
-87 songs - 4 hr 37 min - [published](https://open.spotify.com/playlist/1yPSGL28SyZuxYmPOGgnKz)
+87 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/1yPSGL28SyZuxYmPOGgnKz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Nosso Relacionamento](https://open.spotify.com/track/7jV67Bz9qRkk57FMedir8S) | [Anezzi](https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Nosso Relacionamento](https://open.spotify.com/album/62gdsfaMG7QcgI2f9mG6xF) | 3:20 | 2022-03-07 |  |
 | [Nuvens](https://open.spotify.com/track/0iAOW4OvdJ851fMsBetwDg) | [Khauan](https://open.spotify.com/artist/7nbtGMD04rSRQSFwTZrPfx), [Ceejay SDB](https://open.spotify.com/artist/3GYBSj5XeeGqWbgOLIXQn9) | [Nuvens](https://open.spotify.com/album/3CONsQp5OceeRQ4yVmDP0M) | 3:17 | 2022-03-07 |  |
 | [Não Quero Mais](https://open.spotify.com/track/7Gj49C7gQ0aHHrCBiKLAK5) | [LK 3030](https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD), [Morenna](https://open.spotify.com/artist/562XNv9p1lt4n74KBe0oV1) | [Não Quero Mais](https://open.spotify.com/album/30x2ncGC4BxrgF5yDr8CdX) | 2:51 | 2022-06-24 |  |
-| [O Que Você Faz](https://open.spotify.com/track/3HTyLPUwl9e2gUp6Ewgd7e) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [O Que Você Faz](https://open.spotify.com/album/3nVHkr0UYH2LIGvNzkazNd) | 3:01 | 2022-03-07 |  |
+| [O Que Você Faz](https://open.spotify.com/track/3HTyLPUwl9e2gUp6Ewgd7e) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [O Que Você Faz](https://open.spotify.com/album/3nVHkr0UYH2LIGvNzkazNd) | 0:29 | 2022-03-07 |  |
 | [O Show Tem Que Continuar](https://open.spotify.com/track/6W3tS3wFIPNFj8Rz6T3tdx) | [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg) | [O Show Tem Que Continuar](https://open.spotify.com/album/6fcG7akg1cJhlMgYCqfoRT) | 2:39 | 2022-03-07 |  |
 | [Outro Dia](https://open.spotify.com/track/1lTsRXDMWFbsFjQGkbL5TX) | [A Banca Records, Lourena, Azzy, Mazin, Black](https://open.spotify.com/artist/29Tpb9NIA4RIZ6knnYXGDR) | [Outro Dia](https://open.spotify.com/album/1o2PIIFg4d09qZDRGDNfdo) | 3:52 | 2022-03-07 |  |
 | [Paga pra Ver](https://open.spotify.com/track/5DwKnpHXGRpoGjkw4f3cVD) | [Barretin](https://open.spotify.com/artist/12UTl00Nf8KIwZuk75n6Hw) | [Paga pra Ver](https://open.spotify.com/album/0fonDUXSKIm4rFSH3lCST8) | 2:12 | 2022-03-07 | 2022-06-04 |

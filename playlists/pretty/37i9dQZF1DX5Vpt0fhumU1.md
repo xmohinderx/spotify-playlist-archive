@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vpt0fhumU1.md) - [plain]
 
 > Soak up the spirit of Spain with a taste of these traditional flamenco and folk tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,711 likes - 51 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,792 likes - 51 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vpt0fhumU1.md) - [plain]
 | 18 | [Siguiriya](https://open.spotify.com/track/6b8ySeWH25bSEB36cFgjvh) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Jaleo](https://open.spotify.com/artist/5Q48J2yjDOKzNIdmY0oExU) | [Jaleo: Flamenco Live](https://open.spotify.com/album/3PjkbEd5jJoVxKk2u5yL6V) | 6:39 |
 | 19 | [Almas de Carmin](https://open.spotify.com/track/11BcyI4KFiUgDSKXMGE5qX) | [Manuel Lopez\-Ruiz](https://open.spotify.com/artist/6xhZFDNkudQnLXBSMI4AUo), [Chachi Ensemle, El](https://open.spotify.com/artist/0TEof0oj8lFZMZv3wAvAZE) | [Manuel El Chachi Lopez\-Ruiz: Gypsy Rumba Flamenco](https://open.spotify.com/album/28VAWyCBoQfMOTy7WvB2ad) | 3:30 |
 | 20 | [A la repompa](https://open.spotify.com/track/3ruZX26jLUFQAvwiHjE3In) | [Ketama](https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF), [Grupo Macarena](https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f) | [Grupo Macarena: Gypsy Flamenco Rumba](https://open.spotify.com/album/0rJdgMSbIldoKo1PZ5VBCU) | 4:31 |
-| 21 | [Quiereme Corazon Quiereme](https://open.spotify.com/track/0K38jgUjNNXz6AEgQneS6M) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Quiereme Corazon Quiereme](https://open.spotify.com/album/7z9wIysqZqoUNFso68D3zK) | 2:54 |
+| 21 | [Quiereme Corazon Quiereme](https://open.spotify.com/track/0K38jgUjNNXz6AEgQneS6M) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Quiereme Corazon Quiereme](https://open.spotify.com/album/7z9wIysqZqoUNFso68D3zK) | 0:29 |
 | 22 | [Un Jardín De Amor](https://open.spotify.com/track/0tB9K5yKFC9vJPsZsZB17l) | [Graciela Flores](https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ) | [Un Jardín De Amor](https://open.spotify.com/album/3nJ6jn0yfUEl1ic8qnGqiK) | 2:11 |
 | 23 | [Soleil](https://open.spotify.com/track/5OmA6yvLb3PNmN8LJlZHYs) | [Gerard Bik Regis](https://open.spotify.com/artist/51skdHapqPhKzvr55xfzSb), [Grupo Macarena](https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f) | [Grupo Macarena: Gypsy Flamenco](https://open.spotify.com/album/4OdCjbSwaBSAXZ3rf72r9a) | 4:36 |
 | 24 | [Princesa](https://open.spotify.com/track/5hfkO74XBzG9VocAwNxnJX) | [Antoine Kiko Motos](https://open.spotify.com/artist/2CJJeKI1vkYFxs0HoD5HmE), [Grupo Macarena](https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f) | [Grupo Macarena: Gypsy Flamenco](https://open.spotify.com/album/4OdCjbSwaBSAXZ3rf72r9a) | 4:36 |

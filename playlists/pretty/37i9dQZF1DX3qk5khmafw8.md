@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qk5khmafw8.md) - [plain]
 
 > A collection of live, intimate, exclusive performances from the most exciting pop artists in the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,722 likes - 44 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,723 likes - 44 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Somewhere Only We know \- Live from Spotify, London](https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Sessions](https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z) | 3:47 |
 | 2 | [Next To Me \- Live From Spotify NYC, USA/2012](https://open.spotify.com/track/4Y1ZvAbetcpZsmedL9uhmR) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Spotify Sessions \- Live From Spotify NYC, USA/2012](https://open.spotify.com/album/23NSEnpwoyErSZ3FXXPx4N) | 3:40 |
-| 3 | [Falling \- Live From Spotify Singapore / 2014](https://open.spotify.com/track/4EBS9ZxwIMQWLiodRK0PaN) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Spotify Sessions](https://open.spotify.com/album/2k3Xk2QZPruEfsTnLXL4tv) | 3:46 |
+| 3 | [Falling \- Live From Spotify Singapore / 2014](https://open.spotify.com/track/4EBS9ZxwIMQWLiodRK0PaN) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Spotify Sessions](https://open.spotify.com/album/2k3Xk2QZPruEfsTnLXL4tv) | 0:29 |
 | 4 | [Fireflies \- Live From Spotify NYC](https://open.spotify.com/track/67zbwvJ9qPmkRn9xraQDj1) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Spotify Sessions](https://open.spotify.com/album/3x6lW5NAOFH4QXdiEgViwv) | 4:53 |
 | 5 | [Same Love \- Live From Spotify NYC feat\. Mary Lambert](https://open.spotify.com/track/6rLNXRpMGdmlx6GoqzfxW0) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Mary Lambert](https://open.spotify.com/artist/5Z2NUZiY3FA00HKu5WTMhA) | [Spotify Sessions](https://open.spotify.com/album/3LwV3QIDQopbgERx5XJnBz) | 5:15 |
 | 6 | [Let Her Go \- Live at Spotify Amsterdam](https://open.spotify.com/track/73I4Ccq93WnE61uIAOc39w) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66), [Paul Schuurman](https://open.spotify.com/artist/550mC3mGyTpsIH4fpa6MqP) | [Spotify Sessions](https://open.spotify.com/album/6DsEzZwYqA0qcElMBEzUbk) | 3:43 |

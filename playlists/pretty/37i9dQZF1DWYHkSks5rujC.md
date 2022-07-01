@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHkSks5rujC.md) - [plain]
 
 > A journey through The Beatles' career.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,547 likes - 45 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,581 likes - 45 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHkSks5rujC.md) - [plain]
 | 34 | [All You Need Is Love \- Remastered](https://open.spotify.com/track/3xMSaDC9TU6AQJIsxQB7MK) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Magical Mystery Tour \(Remastered\)](https://open.spotify.com/album/6P9yO0ukhOx3dvmhGKeYoC) | 3:50 |
 | 35 | [Hello, Goodbye \- Remastered](https://open.spotify.com/track/7c76SiAfT7JkMiCm8BBCcP) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Magical Mystery Tour \(Remastered\)](https://open.spotify.com/album/6P9yO0ukhOx3dvmhGKeYoC) | 3:28 |
 | 36 | [Your Mother Should Know \- Remastered](https://open.spotify.com/track/61iJ2np62qzaMdEcGvjICc) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Magical Mystery Tour \(Remastered\)](https://open.spotify.com/album/6P9yO0ukhOx3dvmhGKeYoC) | 2:28 |
-| 37 | [Dear Prudence \- 2018 Mix](https://open.spotify.com/track/21pC0RPgkThjHlwpmCtxGb) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles](https://open.spotify.com/album/1WMVvswNzB9i2UMh9svso5) | 3:54 |
-| 38 | [While My Guitar Gently Weeps \- 2018 Mix](https://open.spotify.com/track/0ZqSsO2xoVvcrhpiRuqCmt) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles](https://open.spotify.com/album/1WMVvswNzB9i2UMh9svso5) | 4:45 |
-| 39 | [Why Don't We Do It In The Road? \- 2018 Mix](https://open.spotify.com/track/6CD4ZmCgYyiECTOWjm5LqC) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles](https://open.spotify.com/album/1WMVvswNzB9i2UMh9svso5) | 1:41 |
+| 37 | [Dear Prudence \- 2018 Mix](https://open.spotify.com/track/21pC0RPgkThjHlwpmCtxGb) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles](https://open.spotify.com/album/1WMVvswNzB9i2UMh9svso5) | 0:29 |
+| 38 | [While My Guitar Gently Weeps \- 2018 Mix](https://open.spotify.com/track/0ZqSsO2xoVvcrhpiRuqCmt) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles](https://open.spotify.com/album/1WMVvswNzB9i2UMh9svso5) | 0:29 |
+| 39 | [Why Don't We Do It In The Road? \- 2018 Mix](https://open.spotify.com/track/6CD4ZmCgYyiECTOWjm5LqC) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles](https://open.spotify.com/album/1WMVvswNzB9i2UMh9svso5) | 0:29 |
 | 40 | [Everybody's Got Something To Hide Except Me And My Monkey \- Remastered](https://open.spotify.com/track/0fDmdWRuV1mWwfn1NaoE67) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/03Qh833fEdVT30Pfs93ea6) | 2:24 |
-| 41 | [Revolution 9 \- 2018 Mix](https://open.spotify.com/track/6FQkfaghoLt72rLmhsAqFy) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles](https://open.spotify.com/album/1WMVvswNzB9i2UMh9svso5) | 8:20 |
+| 41 | [Revolution 9 \- 2018 Mix](https://open.spotify.com/track/6FQkfaghoLt72rLmhsAqFy) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles](https://open.spotify.com/album/1WMVvswNzB9i2UMh9svso5) | 0:29 |
 | 42 | [Come Together \- Remastered](https://open.spotify.com/track/0MKqeOVdZcUFGJvWpGCKbG) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd) | 4:19 |
 | 43 | [Something \- Remastered](https://open.spotify.com/track/7oSUp4yZ0FbuSvVmCxH2ty) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd) | 3:02 |
 | 44 | [Let It Be \- Remastered](https://open.spotify.com/track/5V1AHQugSTASVez5ffJtFo) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/2pCqZLeavM2BMovJXsJEIV) | 4:03 |

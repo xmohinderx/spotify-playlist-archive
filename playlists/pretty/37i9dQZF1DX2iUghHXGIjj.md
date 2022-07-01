@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 
 > Raw, emotional, and acoustic\. Cover: Taj Mahal
 
-[Spotify](https://open.spotify.com/user/spotify) - 669,393 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 669,387 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 | 31 | [Detroit Blues](https://open.spotify.com/track/5rJbBdz2yN7ZPIPjX70Foq) | [Danny Kroha](https://open.spotify.com/artist/0amf91cUep3YKQ5R7NJ1Mb) | [Detroit Blues](https://open.spotify.com/album/5r7zpXdCkM4wED1dVgXI70) | 2:49 |
 | 32 | [Sun on My Face](https://open.spotify.com/track/2hHyeOI9VDvR5cBK4JF5DP) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Sun on My Face](https://open.spotify.com/album/3HTbVEiLa8i13BNewI7nx2) | 4:05 |
 | 33 | [Quarter On The Ground \( A Song For Uncle Joe\)](https://open.spotify.com/track/6qDDv9vMjxxmhc4Jqh8nbL) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Free Man/Quarter On The Ground](https://open.spotify.com/album/0qzSJZMuzzsPC6zQUVSx5g) | 3:36 |
-| 34 | [Kansas City Blues](https://open.spotify.com/track/58TQAkARupFHoHVQ00Yj9S) | [Steve Howell](https://open.spotify.com/artist/3xJEpa8iyCscYkG3XlIxBU), [Jason Weinheimer](https://open.spotify.com/artist/4SVe1RgQ8VnJ5Lgb6NodF3) | [A Hundred Years from Today](https://open.spotify.com/album/2h4vnUECqd75oUIBehBMYl) | 3:07 |
+| 34 | [Kansas City Blues](https://open.spotify.com/track/58TQAkARupFHoHVQ00Yj9S) | [Steve Howell](https://open.spotify.com/artist/3xJEpa8iyCscYkG3XlIxBU), [Jason Weinheimer](https://open.spotify.com/artist/4SVe1RgQ8VnJ5Lgb6NodF3) | [A Hundred Years from Today](https://open.spotify.com/album/2h4vnUECqd75oUIBehBMYl) | 0:29 |
 | 35 | [Bad to the Bone](https://open.spotify.com/track/3yEPbndiOIRsH4FA2dBrTH) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Moon Goes Missing](https://open.spotify.com/album/3HTWMRiLGpWPb0YYNAHprh) | 4:04 |
 | 36 | [Life By The Drop](https://open.spotify.com/track/4KENBGgFQIxliSjJGb8FYa) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1), [Double Trouble](https://open.spotify.com/artist/05m9VGwNd8glcJ2o5UN8H3) | [The Essential Stevie Ray Vaughan And Double Trouble 3.0](https://open.spotify.com/album/44gP7lSICNoSqTSCDyScnA) | 2:27 |
 | 37 | [Hard Times](https://open.spotify.com/track/11BX1F2ao0DQTgW86W6H5B) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 3:08 |
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 | 63 | [Let's Have Some Fun](https://open.spotify.com/track/4krvAl6zfhfDfWL1KdvQAa) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Black Wind Howlin'](https://open.spotify.com/album/7iVYk6SKIzwsUf11kxoNS6) | 4:27 |
 | 64 | [Coffee Blues](https://open.spotify.com/track/16GdiwewBf99MhUSVsxUBe) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Complete Studio Recordings](https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ) | 3:47 |
 | 65 | [Guitar & Harmonica Rag](https://open.spotify.com/track/093EX8opuhjCfFzrGOwXwj) | [Bowling Green John Cephas](https://open.spotify.com/artist/1WLzLvyPtIKHVscQ8rbX1i), [Harmonica Phil Wiggins](https://open.spotify.com/artist/6dyecnDdUXZovKXNnOv1wq) | [Living Country Blues USA Vol\. 1](https://open.spotify.com/album/1wdmrcveHQIDxQ07VcOjok) | 3:11 |
-| 66 | [Cross Road Blues](https://open.spotify.com/track/1TrGdXSgiBm8W68D2K1COG) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 2:29 |
+| 66 | [Cross Road Blues](https://open.spotify.com/track/1TrGdXSgiBm8W68D2K1COG) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 0:29 |
 | 67 | [Apple Picker \(Acoustic\)](https://open.spotify.com/track/3y3cL6EO4ZwSUAFqSMF1Ec) | [Little G Weevil](https://open.spotify.com/artist/4hkwwRsMaMnDGor4KRup2m) | [Three Chords Too Many](https://open.spotify.com/album/5ncj1ATQJG0z62v5zvowKt) | 5:36 |
 | 68 | [Prisoner](https://open.spotify.com/track/17fAhKyok3ZImAd3mcqtGx) | [Cary Morin](https://open.spotify.com/artist/51oTB1rGltPYEUj9WqBqgh) | [Together](https://open.spotify.com/album/0i7k4eoj7BaJTEckmsismQ) | 4:09 |
 | 69 | [Play With Your Poodle](https://open.spotify.com/track/2Q7j9wJk8DomZhKckPeHdy) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Blowin' Harp Blues](https://open.spotify.com/album/1M0V9j5iTvdNT2hNGq5utx) | 3:39 |

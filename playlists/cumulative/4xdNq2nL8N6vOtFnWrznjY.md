@@ -4,7 +4,7 @@
 
 > This hard hitting rock playlist features rock icons YUNGBLUD, The 1975, and more!
 
-63 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/7FznKeCsQpNLqZlJ0uMlc2)
+63 songs - 3 hr 38 min - [published](https://open.spotify.com/playlist/7FznKeCsQpNLqZlJ0uMlc2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [JEKYLL & HIDE](https://open.spotify.com/track/3UmBgQiJhbNMmyPVceuH4d) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [CHAMPION](https://open.spotify.com/album/10XDik8bnbbPTfpO05tjwx) | 3:16 | 2020-03-30 |  |
 | [Last Day Under The Sun](https://open.spotify.com/track/739K06ZTvtdbVJc9RUmoFx) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Last Day Under The Sun](https://open.spotify.com/album/1tNmAs7Bx2PXO42zfNgeqn) | 4:47 | 2020-03-30 |  |
 | [Mars For The Rich](https://open.spotify.com/track/4lV1tx0EdlIChOw7Kz7fP0) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Infest The Rats' Nest](https://open.spotify.com/album/5Bz2LxOp0wz7ov0T9WiRmc) | 4:11 | 2020-03-30 |  |
-| [Natural Villain](https://open.spotify.com/track/3QBATpTo4SWcYPyhOwNFqh) | [The Man Who](https://open.spotify.com/artist/1wLFDPkWkMl7bNZvhmhxsG) | [Bet on You](https://open.spotify.com/album/5buxnaQzfA5i0iH5A7R09n) | 3:19 | 2020-03-30 |  |
+| [Natural Villain](https://open.spotify.com/track/3QBATpTo4SWcYPyhOwNFqh) | [The Man Who](https://open.spotify.com/artist/1wLFDPkWkMl7bNZvhmhxsG) | [Bet on You](https://open.spotify.com/album/5buxnaQzfA5i0iH5A7R09n) | 0:29 | 2020-03-30 |  |
 | [Never Know](https://open.spotify.com/track/2kl9r68q42crZzkcZwRUEL) | [Thunderpussy](https://open.spotify.com/artist/5wa2uCAfwySNkiWLr2xg3a) | [Never Know](https://open.spotify.com/album/3eP1VUboSQzVpFK6GPPe26) | 3:35 | 2020-03-30 |  |
 | [Nightmare](https://open.spotify.com/track/340UVheS8z3ncW9TTUhAbc) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Nightmare](https://open.spotify.com/album/4KaiavWFhR7j9tY1f7V6UL) | 3:51 | 2020-03-30 |  |
 | [Not OK!](https://open.spotify.com/track/2YbMlkq0ARgHiMGBFGTnxq) | [Chaz Cardigan](https://open.spotify.com/artist/7DJUlhy4pX4sxaDfQcH0Ms) | [Not OK!](https://open.spotify.com/album/0liYHS0MVX0AP18hq6lMoO) | 3:12 | 2020-03-30 |  |
@@ -62,7 +62,7 @@
 | [Stitch Me Up](https://open.spotify.com/track/58y7d9xg91SHf5ItIiGqIm) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Midnight](https://open.spotify.com/album/4lqJlTuRAEZoRUb1BSkfIa) | 3:19 | 2020-03-30 |  |
 | [Tame A Lion](https://open.spotify.com/track/2twkulAe4ukx6WZ1VbMKuM) | [The Almost](https://open.spotify.com/artist/5X09SRt3qx77eh0XRreLjr) | [Tame A Lion](https://open.spotify.com/album/2YiuSoHz7EecFoq6OfJJGj) | 3:53 | 2020-03-30 |  |
 | [Territory Blues](https://open.spotify.com/track/3r6qzw1EPzOOfcI5xTFYWV) | [Rei](https://open.spotify.com/artist/74BJTJjtRUwMBB8TjHiVwr) | [Territory Blues](https://open.spotify.com/album/22gm53Bix5wjvoKRwLSd8G) | 3:05 | 2020-03-30 |  |
-| [The Jester](https://open.spotify.com/track/28KccB3Iw5Gg8MjKewEQFW) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [OK, I'M SICK](https://open.spotify.com/album/08VFvUyNPi6G0tc1d4DPU4) | 4:05 | 2020-03-30 |  |
+| [The Jester](https://open.spotify.com/track/28KccB3Iw5Gg8MjKewEQFW) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [OK, I'M SICK](https://open.spotify.com/album/08VFvUyNPi6G0tc1d4DPU4) | 0:29 | 2020-03-30 |  |
 | [These Four Walls](https://open.spotify.com/track/4lIADYns7onzNNl0RIewFp) | [Pretty Vicious](https://open.spotify.com/artist/4KH4eOg39KeBpnfSgvIteD) | [Beauty Of Youth](https://open.spotify.com/album/6am0g93vswJjC98p8mihkF) | 3:47 | 2020-03-30 |  |
 | [Under The Pressure](https://open.spotify.com/track/5xKfNGlM3IiUIeRbMFyAuL) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Pressure](https://open.spotify.com/album/6Hln0DlVYzBFkKbJ3FrpgJ) | 3:27 | 2020-03-30 |  |
 | [Walk Away](https://open.spotify.com/track/7fjkeqkcVXWWimcMMEW6Hq) | [THE JACKS](https://open.spotify.com/artist/2MaOt31JjxLUV3E62dkbRw) | [Walk Away](https://open.spotify.com/album/20t1JYwBYZGJ0X1zSAkqMF) | 3:44 | 2020-03-30 |  |

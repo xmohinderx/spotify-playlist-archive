@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/44XJR1i3Vl2B3acOEYwinE.md) - [plain]
 
 > You know you love them...\. Get ready to sing like no one is listening to scores of timeless pop and rock power ballads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,173 likes - 79 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,173 likes - 79 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/44XJR1i3Vl2B3acOEYwinE.md) - [plain]
 | 35 | [I Will Always Love You](https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:31 |
 | 36 | [Hero](https://open.spotify.com/track/3wlmPMSqa0ErsHefznrj98) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Ballads](https://open.spotify.com/album/7ytzzJHmN6NqrFYCEAful2) | 4:18 |
 | 37 | [Never Forget](https://open.spotify.com/track/4A7VbI2m0mTMX4OHPWLfto) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Never Forget \- The Ultimate Collection](https://open.spotify.com/album/6bWWZvCQwCpfyi5NeKYDui) | 6:24 |
-| 38 | [Think Twice](https://open.spotify.com/track/7cttnBQfKHr5jbJGk9GF8a) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/2ApaGHSScrngRX8Hd87S4V) | 4:48 |
+| 38 | [Think Twice](https://open.spotify.com/track/7cttnBQfKHr5jbJGk9GF8a) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/2ApaGHSScrngRX8Hd87S4V) | 0:29 |
 | 39 | [The Power of Love](https://open.spotify.com/track/18DfMhEx4ddoreHrvZDF6Q) | [Jennifer Rush](https://open.spotify.com/artist/3fsCWTIuWIRvEGS7gerSJX) | [The Power Of Love: The Best Of Jennifer Rush](https://open.spotify.com/album/6qCyqeMjwwh2wRQWvQyHgG) | 4:28 |
 | 40 | [How Can We Be Lovers](https://open.spotify.com/track/1VoiDWjhGwHHvqZvh5q1Hw) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The Essential Michael Bolton](https://open.spotify.com/album/5Vv7ZpPJK3g53DqeDl0Ijv) | 3:54 |
 | 41 | [Leave A Light On](https://open.spotify.com/track/362xdD3M64pQtJ8oxfTTnL) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Her Greatest Hits](https://open.spotify.com/album/7GivFffZAIHYTe4OftgIjL) | 4:33 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/44XJR1i3Vl2B3acOEYwinE.md) - [plain]
 | 68 | [When the Children Cry](https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Pride](https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2) | 4:18 |
 | 69 | [More Than a Feeling](https://open.spotify.com/track/32kgOw8wejH7zUhtXCM8DH) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Boston](https://open.spotify.com/album/01OahkTPRCleDjobtRk7ST) | 4:45 |
 | 70 | [The Flame \- Single Edit](https://open.spotify.com/track/2XU2mXxRubAonnGbv1Zp42) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | ['80s Pop Hits](https://open.spotify.com/album/7xY34kpisIxOv8WMnNN8wg) | 4:39 |
-| 71 | [I Remember You](https://open.spotify.com/track/3ZPCqx2W8U6lOS6hM5xSBR) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Best Of](https://open.spotify.com/album/0D48ZbriW82M2GbOKCbd1G) | 5:14 |
+| 71 | [I Remember You](https://open.spotify.com/track/3ZPCqx2W8U6lOS6hM5xSBR) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Best Of](https://open.spotify.com/album/0D48ZbriW82M2GbOKCbd1G) | 0:29 |
 | 72 | [Don't Know What You Got \(Till It's Gone\)](https://open.spotify.com/track/3vPrFUtWpKT9oNW94NDDEW) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Long Cold Winter](https://open.spotify.com/album/0DGiVv0CmN2elcLYSeiXPm) | 5:54 |
 | 73 | [Poison](https://open.spotify.com/track/50r8v0uwRlhlBiy3o39DIq) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Playlist: The Very Best Of Alice Cooper](https://open.spotify.com/album/5M50gz8rh6inIVTdBUJ7z9) | 4:29 |
 | 74 | [When Love & Hate Collide](https://open.spotify.com/track/1bCMeYi91d4TH2Z5tJMW0c) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [When Love & Hate Collide \- Single](https://open.spotify.com/album/2eb76s2S0cEzqqyEeGJ8Xk) | 4:19 |

@@ -4,7 +4,7 @@
 
 > Relaxing Jazz beats from the best Lo\-Fi producers.
 
-80 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/0rMU8BH9rqYRaI5zkSzif1)
+80 songs - 2 hr 51 min - [published](https://open.spotify.com/playlist/0rMU8BH9rqYRaI5zkSzif1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Please Don't Say Goodbye](https://open.spotify.com/track/1GkNidhazrYWNClz3mWw7q) | [Kohai](https://open.spotify.com/artist/4i8YmrvKe2CSIUT08ewdpF) | [Air Signs](https://open.spotify.com/album/5pzqhtozA6dJu0pKh7vF15) | 1:57 | 2020-05-06 |  |
 | [Pure Bliss](https://open.spotify.com/track/3UGkOzl8GUJvwQlsdGYj8E) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Future Feelings](https://open.spotify.com/album/7F5LeCpEp53MwfmPtZqPnp) | 2:36 | 2020-05-06 |  |
 | [Pure Imagination](https://open.spotify.com/track/6redzaZ6sGkqvZiUxKLYB8) | [Channel Blue](https://open.spotify.com/artist/7KJsrz0B4NjLsJMcyW3HZ8) | [Discography](https://open.spotify.com/album/6d5aTFlnrl6n2U9Q7f8HNV) | 1:52 | 2020-05-06 |  |
-| [Q&A](https://open.spotify.com/track/4YEZCdWUOqcZXsx72lFDIE) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Aylior](https://open.spotify.com/artist/2yCHwCR4w8pZyoSCyoQQfx) | [Vondelpark](https://open.spotify.com/album/2A6YTjmAURvNi6N1EHMD3P) | 2:21 | 2020-05-06 |  |
+| [Q&A](https://open.spotify.com/track/4YEZCdWUOqcZXsx72lFDIE) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Aylior](https://open.spotify.com/artist/2yCHwCR4w8pZyoSCyoQQfx) | [Vondelpark](https://open.spotify.com/album/2A6YTjmAURvNi6N1EHMD3P) | 0:29 | 2020-05-06 |  |
 | [Reminiscing](https://open.spotify.com/track/1eaUFbZZvj19PYSWb3eg0E) | [Jhove](https://open.spotify.com/artist/1R9fj5Tiy9XMFp5ANzS7FA), [Flovry](https://open.spotify.com/artist/2pLu3Ut2C3RviYZ3xUanBs) | [Before You Go](https://open.spotify.com/album/05P1M73DOmjq2OrPxOAN50) | 2:38 | 2020-05-06 |  |
 | [Sassy](https://open.spotify.com/track/7v81zDad0PAPjJ45mphEul) | [Suwanti](https://open.spotify.com/artist/48QEanQFa6GOiSGR3uyiOi), [Cây](https://open.spotify.com/artist/2AMpDRQKGRKMI72ricUKNe) | [Sassy](https://open.spotify.com/album/39cCVhyG7YYWMKLm4yxlp5) | 1:51 | 2020-05-06 |  |
 | [Shifting](https://open.spotify.com/track/7kZ1PTCdvtf7VZ1GGGcQZx) | [ENRA](https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4), [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [Tomorrows That Follow](https://open.spotify.com/album/1gMU9NHaqaSyhCgD2qtbE8) | 2:24 | 2020-05-06 |  |
@@ -84,7 +84,7 @@
 | [Transcend](https://open.spotify.com/track/3jJCljhwWE6w5lOUWAxI7c) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs) | [Perpetual](https://open.spotify.com/album/2amoU2ZANcmAiZW6YMUORZ) | 2:01 | 2020-05-06 |  |
 | [Tripwire](https://open.spotify.com/track/4n8IYtgioSqtdcOvFsz7hI) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX), [edddi p](https://open.spotify.com/artist/15oeMOYxaCQ2JwugNZZrsp) | [Tripwire](https://open.spotify.com/album/3W0Gm5LJOJUktZaaJYToAr) | 2:48 | 2020-05-06 |  |
 | [u said we were meant to be](https://open.spotify.com/track/6CwlhVokKRt6QwtiBCSL2x) | [bearbare](https://open.spotify.com/artist/6PKlFeLEuDwKi9jOLf6qWi) | [u said we were meant to be](https://open.spotify.com/album/3AgsfwB7xhnhyhalAifcNg) | 1:35 | 2020-05-06 |  |
-| [Vondelpark](https://open.spotify.com/track/5Cux5AOD4KRKQIlrOxyfiu) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Aylior](https://open.spotify.com/artist/2yCHwCR4w8pZyoSCyoQQfx) | [Vondelpark](https://open.spotify.com/album/2A6YTjmAURvNi6N1EHMD3P) | 2:00 | 2020-05-06 |  |
+| [Vondelpark](https://open.spotify.com/track/5Cux5AOD4KRKQIlrOxyfiu) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Aylior](https://open.spotify.com/artist/2yCHwCR4w8pZyoSCyoQQfx) | [Vondelpark](https://open.spotify.com/album/2A6YTjmAURvNi6N1EHMD3P) | 0:29 | 2020-05-06 |  |
 | [Waiting for Me](https://open.spotify.com/track/575WSpF8OBLE1Giogp0ZmJ) | [backpackbackpack](https://open.spotify.com/artist/6ouTxKULWetTDB9nj5tBCV) | [Waiting for Me](https://open.spotify.com/album/7mndWYhAt9ZpgAftxos1Y9) | 1:14 | 2020-05-06 |  |
 | [we're broke but we're lucky](https://open.spotify.com/track/439btZgIM3pNEHAkBB5Ncl) | [dankush](https://open.spotify.com/artist/4zxP5ygXMD6Ycjfi3M8Gkf) | [we're broke but we're lucky](https://open.spotify.com/album/1HCZ3njvm41ZBWdn4cfMeF) | 2:04 | 2020-05-06 |  |
 | [What If It All Turned out Fine](https://open.spotify.com/track/2AZewWYUwBpqJygC4GAAO3) | [Jhove](https://open.spotify.com/artist/1R9fj5Tiy9XMFp5ANzS7FA) | [Before You Go](https://open.spotify.com/album/05P1M73DOmjq2OrPxOAN50) | 2:41 | 2020-05-06 |  |

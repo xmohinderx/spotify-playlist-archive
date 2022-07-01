@@ -4,7 +4,7 @@
 
 > För att fira de blå/gula färgerna har vi grävt djupt i den svenska låtskatten och sammanställt en spellista med 40 älskade klassiker\. Hitta spellistor för alla tillfällen på <a href="spotify:app:tunigo">Tunigo</a>
 
-41 songs - 2 hr 14 min - [published](https://open.spotify.com/playlist/5IB7wZlTvX2xs7cR4Lmcil)
+41 songs - 2 hr 6 min - [published](https://open.spotify.com/playlist/5IB7wZlTvX2xs7cR4Lmcil)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,10 +18,10 @@
 | [Bedårande sommarvals](https://open.spotify.com/track/0SgGRz86Qzr6q0td2rBBjm) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD), [Gals and Pals](https://open.spotify.com/artist/5jzboyuEKmtEVn8SqAnPVd) | [O vad en liten gumma kan gno](https://open.spotify.com/album/5fSDA3K2BP3bHRwOQyySo0) | 2:32 | 2012-05-31 |  |
 | [Blomstarteid \(Den blomstertid nu kommer\)](https://open.spotify.com/track/3VijGUUqjWsYBe1s4eLEXJ) | [Ainbusk](https://open.spotify.com/artist/4bkmsIjrznXB4Eg19UATWt) | [Skynda att älska](https://open.spotify.com/album/4ORwenjc6VrwVb00DGV1B1) | 3:51 | 2012-05-31 |  |
 | [De' ä' dans på Brännö brygga](https://open.spotify.com/track/4btmnUhwGptXwOV2tSCMvN) | [Lasse Dahlquist](https://open.spotify.com/artist/2QHYFZGCFIoIlU2GrAj664), [Einar Groths Orchestra](https://open.spotify.com/artist/1kksoejNGEWwcdQ2XRZ9IW), [Unknown Artist](https://open.spotify.com/artist/74Ch11L4833kZ9VfyziR3K) | [Osannolikt Svenskt](https://open.spotify.com/album/5y4svVH50PNDryrQTizEB7) | 3:17 | 2012-05-31 |  |
-| [Det blå](https://open.spotify.com/track/2Bc9r8LaZvW9EgB2zOgcij) | [Sonja Aldén](https://open.spotify.com/artist/3XyHsKlvXenLURpECPEQOJ) | [Under mitt tak](https://open.spotify.com/album/0JVsx5CVxCBlpEOIfy7uoj) | 3:26 | 2012-05-31 |  |
+| [Det blå](https://open.spotify.com/track/2Bc9r8LaZvW9EgB2zOgcij) | [Sonja Aldén](https://open.spotify.com/artist/3XyHsKlvXenLURpECPEQOJ) | [Under mitt tak](https://open.spotify.com/album/0JVsx5CVxCBlpEOIfy7uoj) | 0:29 | 2012-05-31 |  |
 | [Det gåtfulla folket](https://open.spotify.com/track/22w34SVETVpaPtfuuqHpQo) | [Olle Adolphson](https://open.spotify.com/artist/4hkOyd0eTeViYkZooM4Jay) | [Sol, vind och vatten](https://open.spotify.com/album/5ByQdOQTMaqhdtgudt2Ivm) | 3:33 | 2012-05-31 |  |
 | [Drömmen om Elin](https://open.spotify.com/track/4razqcIog5PxJQu5bKZmGt) | [Tommy Körberg](https://open.spotify.com/artist/6R21HSNyo7HVac8pyqY3T2) | [Änglamark](https://open.spotify.com/album/4ArA86KBWpxyBxVPfkAzd9) | 2:27 | 2012-06-01 |  |
-| [Ett liv i solen](https://open.spotify.com/track/6OVkH9hsMLTTGP0SDYwTLK) | [Frida](https://open.spotify.com/artist/5uOVb4hLSQVbHbVVt27tV1) | [Ensam](https://open.spotify.com/album/3ssNBlU22lLeuYEiUhkDAS) | 3:52 | 2012-05-31 |  |
+| [Ett liv i solen](https://open.spotify.com/track/6OVkH9hsMLTTGP0SDYwTLK) | [Frida](https://open.spotify.com/artist/5uOVb4hLSQVbHbVVt27tV1) | [Ensam](https://open.spotify.com/album/3ssNBlU22lLeuYEiUhkDAS) | 0:29 | 2012-05-31 |  |
 | [Ge en sol](https://open.spotify.com/track/2dGmmktcPOB3OLds6zKG3H) | [Ted Gärdestad](https://open.spotify.com/artist/6zpub6jbY6CdrcqQsDq8P4) | [Sol, vind och vatten/Det bästa med Ted Gärdestad](https://open.spotify.com/album/5nFegfmG4jQHvYVX0Mgr2A) | 3:00 | 2012-05-31 |  |
 | [Hav och sand](https://open.spotify.com/track/5b2SSDZIQzcaduHUoEPPpV) | [Lasse Berghagen](https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY) | [24 Bästa](https://open.spotify.com/album/4JciWM1Szae5nylLTHBVTH) | 3:12 | 2012-05-31 |  |
 | [Himlen är oskyldigt blå](https://open.spotify.com/track/4cWqg5Ii9qHX33jjiLdV4m) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Den svenska sommaren](https://open.spotify.com/album/5P5XwOAYMZleMz7HLqTYlX) | 3:54 | 2012-05-31 |  |
@@ -40,7 +40,7 @@
 | [Sjösala vals](https://open.spotify.com/track/5rTZToEwovN6JEBcPps7Ph) | [Evert Taube](https://open.spotify.com/artist/3fUWKywZQbkzjqydZH15fT) | [Evert Taube/Musik vi minns](https://open.spotify.com/album/5AO3qm5hMQR6ebrrL47nYi) | 2:57 | 2012-05-31 |  |
 | [Sol, vind och vatten](https://open.spotify.com/track/4IyN7o0glm8gXgvEvT6oiZ) | [Ted Gärdestad](https://open.spotify.com/artist/6zpub6jbY6CdrcqQsDq8P4) | [Sol, vind och vatten/Det bästa med Ted Gärdestad](https://open.spotify.com/album/5nFegfmG4jQHvYVX0Mgr2A) | 3:09 | 2012-06-01 |  |
 | [Sommar, Sommar, Sommar](https://open.spotify.com/track/4OWOm8ol4P3uUT81eyRZxE) | [Radions Underhallningsorkester](https://open.spotify.com/artist/7ekQSEOZHUS6bUkOqBTDwh) | [Sommar, sommar, sommar](https://open.spotify.com/album/0l537xeeUQXZAkArjKmb2H) | 0:45 | 2012-05-31 |  |
-| [Sommaren är kort](https://open.spotify.com/track/6wnWpJGIcYrY7P6yIikerN) | [Tomas Ledin](https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn) | [Tomas Ledin \- 80\-Tal](https://open.spotify.com/album/0YdkVmcOnLjq178i8I2RzK) | 3:03 | 2012-05-31 |  |
+| [Sommaren är kort](https://open.spotify.com/track/6wnWpJGIcYrY7P6yIikerN) | [Tomas Ledin](https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn) | [Tomas Ledin \- 80\-Tal](https://open.spotify.com/album/0YdkVmcOnLjq178i8I2RzK) | 0:29 | 2012-05-31 |  |
 | [Sommarvisa till Monique](https://open.spotify.com/track/4EID5HiCscYucwCkGJtTTG) | [Carl Anton](https://open.spotify.com/artist/1cat5qANo5zS8TawCLUGAP) | [Änglamark](https://open.spotify.com/album/4ArA86KBWpxyBxVPfkAzd9) | 3:38 | 2012-06-01 |  |
 | [Sträck ut din hand](https://open.spotify.com/track/1Lc7bKPaiBceH4NYkLDn2P) | [Lasse Berghagen](https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY) | [Svenska Dansfavoriter 3](https://open.spotify.com/album/11zaLW3fRLxEgKO31a7O0R) | 3:39 | 2012-06-01 |  |
 | [Så länge skutan kan gå](https://open.spotify.com/track/3wuNF70gxsyRYbp2uab5Ih) | [Gustav Torrestad](https://open.spotify.com/artist/165vNnFdkyAw88udlcY7eJ) | [Änglamark](https://open.spotify.com/album/4ArA86KBWpxyBxVPfkAzd9) | 3:11 | 2012-06-01 |  |

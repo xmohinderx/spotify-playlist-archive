@@ -4,7 +4,7 @@
 
 > Disfruta toda la música de Rombai!
 
-46 songs - 2 hr 6 min - [published](https://open.spotify.com/playlist/3YVkTrZYIq6W40UKFuURZc)
+46 songs - 2 hr 5 min - [published](https://open.spotify.com/playlist/3YVkTrZYIq6W40UKFuURZc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Japón](https://open.spotify.com/track/2jdb9uZtTF7bZuFDgi2sT1) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [POSITIVO](https://open.spotify.com/album/7ou9LKrsviR5Mmf6eoB3lp) | 2:26 | 2021-12-10 |  |
 | [Ke tAL si NoS EsCApaMOs ?](https://open.spotify.com/track/5LfPdiTd1BZyTzcZQocc36) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx) | [POSITIVO](https://open.spotify.com/album/7ou9LKrsviR5Mmf6eoB3lp) | 2:26 | 2021-12-10 |  |
 | [Locuras contigo](https://open.spotify.com/track/5jMvnSyOgGY8JpvHqeyVOg) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [De Fiesta](https://open.spotify.com/album/5QcyFFfTjCqvhVUO9Dl8pf) | 2:11 | 2021-12-10 |  |
-| [Me Encanta](https://open.spotify.com/track/3xr7FTBhWp0TQQ4yba9MtS) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Me Encanta](https://open.spotify.com/album/56oTK09fUuK1nfTS3I27F4) | 1:33 | 2022-01-28 |  |
+| [Me Encanta](https://open.spotify.com/track/3xr7FTBhWp0TQQ4yba9MtS) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Me Encanta](https://open.spotify.com/album/56oTK09fUuK1nfTS3I27F4) | 0:29 | 2022-01-28 |  |
 | [Me Voy](https://open.spotify.com/track/0hGHFAyClFZ7TFFSLIcb6Q) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [POSITIVO](https://open.spotify.com/album/7ou9LKrsviR5Mmf6eoB3lp) | 2:57 | 2021-12-10 |  |
 | [Me Voy \- Remix](https://open.spotify.com/track/1MGBV1Uj0sn2n6pNQOdCan) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Me Voy \(Remix\)](https://open.spotify.com/album/0LSYvsOXAYkbTpkYfbUWyZ) | 3:20 | 2021-12-10 |  |
 | [No llOreS más PoR Él](https://open.spotify.com/track/2TDVgaXcHxAuNajFXdmNh4) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [POSITIVO](https://open.spotify.com/album/7ou9LKrsviR5Mmf6eoB3lp) | 2:58 | 2021-12-10 |  |

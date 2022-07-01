@@ -4,7 +4,7 @@
 
 > Fall in Love with the Beauties of Tollywood!<br/>Cover : Sai Pallavi
 
-57 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/6CiuZSUfHYczuo85ChaXYn)
+57 songs - 3 hr 44 min - [published](https://open.spotify.com/playlist/6CiuZSUfHYczuo85ChaXYn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Arerey Manasa](https://open.spotify.com/track/3XwpSZtT3clAjJqVW0Cgoi) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Falaknuma Das \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1cBufU0U56Pcm7WIKNKtHE) | 5:01 | 2021-10-21 |  |
 | [Ay Pilla \- Telugu](https://open.spotify.com/track/5nVFeACm96rucybpDAjfK5) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Pawan Ch](https://open.spotify.com/artist/26FsIvdczntiZCsifDzKOK) | [Love Story](https://open.spotify.com/album/2qPF34ldSTpFg8SEywoQ8E) | 4:13 | 2021-10-21 |  |
 | [Baby Won't You Tell Me \(From "Saaho"\)](https://open.spotify.com/track/0wOu2i0WEwVl6zvUvOx6L6) | [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9), [Siddharth Mahadevan](https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ) | [Baby Won't You Tell Me \(From "Saaho"\)](https://open.spotify.com/album/2IqjsWyHv2EftxVZa5E38q) | 4:22 | 2021-10-21 |  |
-| [Balega Tagilavey Bangaram \(From "Krack"\)](https://open.spotify.com/track/3ZArIoBa7G4RoQbzWCBgkD) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Balega Tagilavey Bangaram \(From "Krack"\)](https://open.spotify.com/album/21nM2vkOGhGpMoFL3PRm63) | 3:43 | 2021-10-21 |  |
+| [Balega Tagilavey Bangaram \(From "Krack"\)](https://open.spotify.com/track/3ZArIoBa7G4RoQbzWCBgkD) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Balega Tagilavey Bangaram \(From "Krack"\)](https://open.spotify.com/album/21nM2vkOGhGpMoFL3PRm63) | 0:29 | 2021-10-21 |  |
 | [Beautiful Love](https://open.spotify.com/track/5Mp5XAiliIamV9G7lMJTg9) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Chaitra Ambadipudi](https://open.spotify.com/artist/4RUN8jnm64ftsLkAEhybFB) | [Naa Peru Surya Naa Illu India \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5TcQSkduOvcnlqnYcDr6tj) | 4:51 | 2021-10-21 |  |
 | [Bujji Bangaram](https://open.spotify.com/track/1Y5lew9Z79LKXNLO4vEeHe) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Deepthi Parthasarathy](https://open.spotify.com/artist/02p0Emo53CEFEVufEQtAUy) | [Guna 369](https://open.spotify.com/album/71WErS8E8fXb3dvFuVCaKy) | 3:28 | 2021-10-21 |  |
 | [Buttabomma \- Telugu](https://open.spotify.com/track/0dnDTvdUco2UbaBjUtPxNS) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Ala Vaikunthapurramuloo](https://open.spotify.com/album/2dnfny8QAiGbUk9NI2P9c2) | 3:18 | 2021-10-21 |  |

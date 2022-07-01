@@ -4,7 +4,7 @@
 
 > make it pop! cover: Dhruv
 
-312 songs - 15 hr 46 min - [published](https://open.spotify.com/playlist/4WlZyLyAP1klcXFbRzSjzt)
+312 songs - 15 hr 44 min - [published](https://open.spotify.com/playlist/4WlZyLyAP1klcXFbRzSjzt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [Lose My Number](https://open.spotify.com/track/6YG2PNDqV4qfKcKRhyMPKU) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [Lose My Number](https://open.spotify.com/album/4DHc6jdGV40ZcJeDzPpAGF) | 2:23 | 2021-10-29 | 2022-02-26 |
 | [Loserz](https://open.spotify.com/track/5RQiw6eBSeARgg9tSdW3Qb) | [Jordan Stephens](https://open.spotify.com/artist/0SVz62vUjHKkbVOgoTK4Ze) | [Let Me Die Inside You](https://open.spotify.com/album/6tBjeKusAd1fYNxZsjojmb) | 4:08 | 2022-02-25 | 2022-03-12 |
 | [Lost Boy](https://open.spotify.com/track/0VzHwYlPuWHjyaq6HLB9UV) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Kids](https://open.spotify.com/album/7DZuN9XYdWLa2l4huvH3jy) | 4:37 | 2022-04-01 | 2022-04-09 |
-| [Lost In The Moment](https://open.spotify.com/track/3nF5FjUP4W0QBxW4JCyUoa) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Lost In The Moment](https://open.spotify.com/album/68WmmsPnVwG3ltUQaDY0JJ) | 2:33 | 2022-03-18 |  |
+| [Lost In The Moment](https://open.spotify.com/track/3nF5FjUP4W0QBxW4JCyUoa) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Lost In The Moment](https://open.spotify.com/album/68WmmsPnVwG3ltUQaDY0JJ) | 0:29 | 2022-03-18 |  |
 | [maybe money](https://open.spotify.com/track/7LslekRtdFPRxkRlyC8vkC) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [maybe money](https://open.spotify.com/album/0lWMNJDiYO0EcjYO7O2cAC) | 2:23 | 2022-04-22 | 2022-06-11 |
 | [Me Myself & I](https://open.spotify.com/track/0C9aH2f4LO8SPPqUWOrcbk) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Me Myself & I](https://open.spotify.com/album/44rEE58rgbF88y9wrpadOl) | 2:57 | 2022-05-13 |  |
 | [MIA](https://open.spotify.com/track/31qUvtwOcX1OW4rTblwOcy) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [MIA](https://open.spotify.com/album/5OaiKNTvYpTMJIAj4mgATt) | 2:44 | 2021-10-29 | 2022-01-08 |

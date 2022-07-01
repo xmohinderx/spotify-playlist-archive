@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "SZNZ: Spring",
+        "url": "https://open.spotify.com/album/5dpaxVXET01VAgivwwUac6"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 29048,
+      "name": "A Little Bit of Love",
+      "url": "https://open.spotify.com/track/0JW1mKemtn6krfNC2rXhec"
+    },
+    {
+      "album": {
         "name": "A Little Bit of Love",
         "url": "https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge"
       },
@@ -113,24 +131,6 @@
       "duration_ms": 164359,
       "name": "A Little Bit of Love",
       "url": "https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA"
-    },
-    {
-      "album": {
-        "name": "SZNZ: Spring",
-        "url": "https://open.spotify.com/album/5dpaxVXET01VAgivwwUac6"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "date_added": "2022-03-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 164492,
-      "name": "A Little Bit of Love",
-      "url": "https://open.spotify.com/track/0JW1mKemtn6krfNC2rXhec"
     },
     {
       "album": {
@@ -2916,7 +2916,7 @@
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 243047,
+      "duration_ms": 29048,
       "name": "Lady Mine (feat. Chad Kroeger)",
       "url": "https://open.spotify.com/track/0afR9bRVOepZeNYj3pKCuq"
     },

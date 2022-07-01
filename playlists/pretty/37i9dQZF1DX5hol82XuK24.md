@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 
 > Are you afraid of the dark?
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,562 likes - 94 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,809 likes - 94 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 45 | [flashlight](https://open.spotify.com/track/7IDRXVRJDWg2Y1gUz11VS6) | [spookyghostboy](https://open.spotify.com/artist/3pHAJqPZhCGNoFShXcqD9k) | [flashlight](https://open.spotify.com/album/0d0sW4cetIRnwF4yACl9mu) | 3:05 |
 | 46 | [Birth](https://open.spotify.com/track/0McTGe6ZnZuPdj4Nhufesa) | [Runah](https://open.spotify.com/artist/1t7LGsCYaXFaDW6GiAuaNI) | [H\. B\. M\. T.](https://open.spotify.com/album/68LwK6oD8UHl2el001VB9X) | 4:08 |
 | 47 | [Tub Erupt](https://open.spotify.com/track/5UagxRDKDj3QyQHAWIJ9ZR) | [Vanishing Twin](https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5) | [Ookii Gekkou](https://open.spotify.com/album/7Gsi59BAXGkBz8nxEYy9n3) | 2:52 |
-| 48 | [My Friend Of Misery](https://open.spotify.com/track/2Z6ll7M4yRePY3Rr0TTM0U) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [My Friend Of Misery](https://open.spotify.com/album/36S8UQHffJYyNVLlEVn1zI) | 3:30 |
+| 48 | [My Friend Of Misery](https://open.spotify.com/track/2Z6ll7M4yRePY3Rr0TTM0U) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [My Friend Of Misery](https://open.spotify.com/album/36S8UQHffJYyNVLlEVn1zI) | 0:29 |
 | 49 | [Nightmare Hotel](https://open.spotify.com/track/0pErX8N1TzSfi8aSdpOFnQ) | [Priest](https://open.spotify.com/artist/6niO7WSbw5n0nD58jPi2Mx) | [New Flesh](https://open.spotify.com/album/1w3f32bbB7DS1dJxDOPw73) | 3:15 |
 | 50 | [Shape Shifter](https://open.spotify.com/track/4K2KgAsQlbKIC2fl99M5EM) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Gorilla Manor](https://open.spotify.com/album/2cIpJDijNEoHv88jJKwDID) | 5:29 |
 | 51 | [deepfake](https://open.spotify.com/track/4joNvDANwbD24bZhI6au7d) | [deep tan](https://open.spotify.com/artist/019NHPyN9SM5PRiEWs4X8D) | [deepfake](https://open.spotify.com/album/2FZLlKKbqTGs8EqTskm6cI) | 3:05 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 69 | [Sospeche](https://open.spotify.com/track/3mGzpu1cjU1QAeZdfmKaZ5) | [Maura Rosa](https://open.spotify.com/artist/4Xc3WZX50yTkyXr7ic7Rb1) | [Sospeche](https://open.spotify.com/album/4QZCtPpwh1zbhgz76v2VvI) | 3:52 |
 | 70 | [Fazer Folk \(Teeth Version\)](https://open.spotify.com/track/4MxUhgxYz3LMgvfOhhHZZZ) | [Teeth Agency](https://open.spotify.com/artist/3R2C23kElKLZaxLN2kxlhd) | [Fazer Folk / Many People](https://open.spotify.com/album/05RfJp5i4X3eMEhqS3jXt3) | 4:00 |
 | 71 | [One For Regret](https://open.spotify.com/track/4Poq4hcH8EmQgcERGJocGk) | [Lost Horizons](https://open.spotify.com/artist/2OJXAu43maMgqH7V2GxV4z), [Simon Raymonde](https://open.spotify.com/artist/31eiHDLnkVg1fEezZihdfQ), [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [In Quiet Moments](https://open.spotify.com/album/7cTWmSPSNBfU9o4ShtR8uO) | 2:11 |
-| 72 | [I Will Be the World](https://open.spotify.com/track/4IK1kdZdfaluKkm9dJRG59) | [Blaenavon](https://open.spotify.com/artist/79RmzX8i9w6YwqJjg3O1MY) | [That's Your Lot](https://open.spotify.com/album/5AJn8hwQYJ1JuvpX41TSUO) | 4:31 |
+| 72 | [I Will Be the World](https://open.spotify.com/track/4IK1kdZdfaluKkm9dJRG59) | [Blaenavon](https://open.spotify.com/artist/79RmzX8i9w6YwqJjg3O1MY) | [That's Your Lot](https://open.spotify.com/album/5AJn8hwQYJ1JuvpX41TSUO) | 0:29 |
 | 73 | [Witch Slap \(IOU\)](https://open.spotify.com/track/7LFxhbIwEO84r0QlrlN7wq) | [WOOZE](https://open.spotify.com/artist/2whltAXPg8ozoiC9U1knhA) | [Witch Slap \(IOU\)](https://open.spotify.com/album/5bty0rYDoqIxGohu3ifmuA) | 2:15 |
 | 74 | [Station Wagon](https://open.spotify.com/track/2cvBpyqeKbRCbomGBfa9PQ) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Drunk Tank Pink](https://open.spotify.com/album/7hl54HF6Nykh5IDrbqhiJX) | 6:39 |
 | 75 | [An Uncomfortable Month](https://open.spotify.com/track/37ZSlP83PH8y8u2fErev2y) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Measures \- EP](https://open.spotify.com/album/2hXBZCLBpVHcjfw0jKxP0v) | 5:26 |

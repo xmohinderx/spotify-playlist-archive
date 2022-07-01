@@ -1037,7 +1037,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 263120,
       "name": "M\u516b\u4e03",
       "url": "https://open.spotify.com/track/3sFdaHo9D3hfiFt2wVi6a5"
@@ -1233,7 +1233,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 249062,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/6crmtADvci3cPjB2jjjVqm"
@@ -1309,7 +1309,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 197995,
       "name": "Save Yourself",
       "url": "https://open.spotify.com/track/1B04DTxiZUA5QW9Zxe1IEJ"
@@ -1799,7 +1799,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 213684,
       "name": "ZOMBIE'S HIGH",
       "url": "https://open.spotify.com/track/76lHomIgluXSSV3B3OoyNb"
@@ -1926,6 +1926,24 @@
     },
     {
       "album": {
+        "name": "\u30d5\u30fc\u30ea\u30c3\u30b7\u30e5\u30b5\u30de\u30fc",
+        "url": "https://open.spotify.com/album/4xLSbMXqkmxhaY3mJKKXDh"
+      },
+      "artists": [
+        {
+          "name": "Deep Sea Diving Club",
+          "url": "https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267595,
+      "name": "\u30d5\u30fc\u30ea\u30c3\u30b7\u30e5\u30b5\u30de\u30fc",
+      "url": "https://open.spotify.com/track/6TqYBVT4sytzhEyiujcqjM"
+    },
+    {
+      "album": {
         "name": "\u30d7\u30ec\u30fb\u30ed\u30de\u30f3\u30b9",
         "url": "https://open.spotify.com/album/6G4IcMO9mMKRMFP0Y5XIYj"
       },
@@ -1941,7 +1959,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 216062,
       "name": "\u30d7\u30ec\u30fb\u30ed\u30de\u30f3\u30b9",
       "url": "https://open.spotify.com/track/1NLajpAmlLrh5OlnJpA2W4"
@@ -1966,6 +1984,32 @@
     },
     {
       "album": {
+        "name": "\u30e9\u30f3\u30c1\u30bf\u30a4\u30e0\u30fb\u30e9\u30d6",
+        "url": "https://open.spotify.com/album/2rVr0WAgddWIw5y4tO1rR8"
+      },
+      "artists": [
+        {
+          "name": "Lafuzin",
+          "url": "https://open.spotify.com/artist/1AHiKEHZA1R7NmOeUMmhoo"
+        },
+        {
+          "name": "BRIAN SHINSEKAI",
+          "url": "https://open.spotify.com/artist/162nZqAL1seshcby7rd2gY"
+        },
+        {
+          "name": "\u30aa\u30ab\u30e2\u30c8\u30b3\u30a6\u30ad",
+          "url": "https://open.spotify.com/artist/7jiN2HCXOBi9W0ZJFwfGHi"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308937,
+      "name": "\u30e9\u30f3\u30c1\u30bf\u30a4\u30e0\u30fb\u30e9\u30d6",
+      "url": "https://open.spotify.com/track/4IpYnXf5V3A6h0DS8UyFJL"
+    },
+    {
+      "album": {
         "name": "\u30ea\u30c3\u30d7\u30eb",
         "url": "https://open.spotify.com/album/5OYTQcR3aufuIJZ9Z0AJJb"
       },
@@ -1981,6 +2025,28 @@
       "duration_ms": 164909,
       "name": "\u30ea\u30c3\u30d7\u30eb",
       "url": "https://open.spotify.com/track/3ovSCyUHXi2QUlwgyOC3zx"
+    },
+    {
+      "album": {
+        "name": "\u5317\u9152\u5834 (Night Tempo Showa Groove Mix)",
+        "url": "https://open.spotify.com/album/4fE21MtzOKLym1kMnkOS66"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "Takashi Hosokawa",
+          "url": "https://open.spotify.com/artist/0Ap43v8UntUyEB5kLb7vac"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215253,
+      "name": "\u5317\u9152\u5834 - Night Tempo Showa Groove Mix",
+      "url": "https://open.spotify.com/track/6RPLd7T2Viv2MCXJp9lcQm"
     },
     {
       "album": {
@@ -2057,6 +2123,28 @@
       "duration_ms": 230666,
       "name": "\u559c\u5287",
       "url": "https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL"
+    },
+    {
+      "album": {
+        "name": "\u590f\u306b\u6eba\u308c\u305f\u3044",
+        "url": "https://open.spotify.com/album/3HfFRjMsM5dfUvaE6RfhcK"
+      },
+      "artists": [
+        {
+          "name": "Nao'ymt",
+          "url": "https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf"
+        },
+        {
+          "name": "Asami Izawa",
+          "url": "https://open.spotify.com/artist/4CSFDF5CSlREXqaXG0pGh4"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211866,
+      "name": "\u590f\u306b\u6eba\u308c\u305f\u3044",
+      "url": "https://open.spotify.com/track/3VHHhp7Si9eA8F6AvkrTUM"
     },
     {
       "album": {

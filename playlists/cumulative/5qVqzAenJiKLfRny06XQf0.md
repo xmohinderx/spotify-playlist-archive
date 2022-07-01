@@ -4,7 +4,7 @@
 
 > Help the band set\-up and get ready for the best live performances from your favorite artists.
 
-100 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/1hMBTleCydK5GxLeRe0tWK)
+100 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/1hMBTleCydK5GxLeRe0tWK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [All Along the Watchtower \- Live At Piedmont Park, Atlanta, GA \- September 2007](https://open.spotify.com/track/3B5Kbee2ktOlJyBCiZuOqO) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Live At Piedmont Park](https://open.spotify.com/album/5cNEE4N7x6plGT3Cj8cUZu) | 9:51 | 2013-11-21 |  |
 | [All Down The Line \- Live At The Beacon Theatre, New York / 2006](https://open.spotify.com/track/43AoR06EdhkvQRJdilKy68) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Shine A Light](https://open.spotify.com/album/0DGp28KE9WT7vY8Ykqm7oj) | 4:35 | 2013-11-21 |  |
 | [Ambitionz Az A Ridah \- Live](https://open.spotify.com/track/2qcs0NO8girzx18Po1YwsK) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Outlawz](https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC) | [Live at the House Of Blues](https://open.spotify.com/album/1qzfkoM52XWcEzmm8akE26) | 2:13 | 2013-11-21 |  |
-| [Amen \- Live From Spotify NYC](https://open.spotify.com/track/63GnRsA54dnZ49zNrLdjAS) | [Edens Edge](https://open.spotify.com/artist/6KAwb5D0KanI575XxOucMt) | [Spotify Sessions](https://open.spotify.com/album/4DveGLVEnhWSMhhPgrYLOT) | 4:26 | 2013-11-21 |  |
+| [Amen \- Live From Spotify NYC](https://open.spotify.com/track/63GnRsA54dnZ49zNrLdjAS) | [Edens Edge](https://open.spotify.com/artist/6KAwb5D0KanI575XxOucMt) | [Spotify Sessions](https://open.spotify.com/album/4DveGLVEnhWSMhhPgrYLOT) | 0:29 | 2013-11-21 |  |
 | [America \- Live at the Greek 2004](https://open.spotify.com/track/4i3KFHbAEWJAOOENdTYQJW) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Live at the Greek](https://open.spotify.com/album/1cKJvjjTkS2TM84gROgTxl) | 3:50 | 2013-11-21 |  |
 | [Angels Of The Silences \- Live At Chelsea Studios, New York/1997](https://open.spotify.com/track/6A4VnaYiim7dSCk84p60X2) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [Across A Wire \(Live In New York\)](https://open.spotify.com/album/1tqB9q7YnXgWekLtO6wggy) | 3:57 | 2013-11-21 |  |
 | [Beautiful Disaster \- Live](https://open.spotify.com/track/30bC3YZlG6JggfU5A6xoaI) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 4:37 | 2013-11-21 |  |

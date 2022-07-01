@@ -277,7 +277,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 139925,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
@@ -721,6 +721,28 @@
       "duration_ms": 281379,
       "name": "Chasing Stars",
       "url": "https://open.spotify.com/track/0a9J0dDKTOqNxBUYufLOzY"
+    },
+    {
+      "album": {
+        "name": "Cheat Code",
+        "url": "https://open.spotify.com/album/41N4WEXPbcLCJ5rgOQc6FC"
+      },
+      "artists": [
+        {
+          "name": "Pegboard Nerds",
+          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
+        },
+        {
+          "name": "REDLESS",
+          "url": "https://open.spotify.com/artist/30j2u2oo0Q8v2pBjnb3ctJ"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170396,
+      "name": "Cheat Code",
+      "url": "https://open.spotify.com/track/7JJnlfOlh7dmQhjRDkyG0x"
     },
     {
       "album": {
@@ -3975,7 +3997,7 @@
           "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
         },
         {
-          "name": "Nurko",
+          "name": "NURKO",
           "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
         },
         {

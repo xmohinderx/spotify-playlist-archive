@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\) cover: Cautious Clay
 
-876 songs - 1 day 20 hr 45 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
+876 songs - 1 day 20 hr 42 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [beachin](https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [beachin](https://open.spotify.com/album/0ceD9hGoyjc5kplHQNP4Mn) | 3:14 | 2022-01-28 | 2022-05-28 |
 | [Beam](https://open.spotify.com/track/3dP9Fwu7xhIJ7FVM7UDuke) | [Payday](https://open.spotify.com/artist/6I7IZDntAGBmzkCANUmtV0) | [It's Just Music](https://open.spotify.com/album/2bNUrlJF0MqreM2Q8LnyeR) | 1:43 | 2020-12-19 | 2021-03-14 |
 | [bedroom walls](https://open.spotify.com/track/6juSWnv6yERefw1dM13Qyu) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [bedroom walls](https://open.spotify.com/album/6cDZkG4uTrz3jlI3Bilapt) | 2:12 | 2021-06-05 | 2021-07-31 |
-| [Bento Box](https://open.spotify.com/track/1tUdhJYNkVlIeeww7m33DJ) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Bento Box](https://open.spotify.com/album/09etgwlYWXr867yvh6AwEi) | 3:23 | 2022-05-06 |  |
+| [Bento Box](https://open.spotify.com/track/1tUdhJYNkVlIeeww7m33DJ) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Bento Box](https://open.spotify.com/album/09etgwlYWXr867yvh6AwEi) | 3:25 | 2022-05-06 |  |
 | [Best of Me](https://open.spotify.com/track/1sDovYD581U1a5hk1QLBcs) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [All The Ways We Are Together](https://open.spotify.com/album/44wiGP3EtCvu6lDACZAvkC) | 2:37 | 2021-04-24 | 2021-08-14 |
 | [Best Thing](https://open.spotify.com/track/4O7N7BLSnvItd2NecWsrV9) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Best Thing](https://open.spotify.com/album/0mBeDTE8w6LE0ZmSEXCqDs) | 2:36 | 2021-04-17 | 2021-05-29 |
 | [Better Side](https://open.spotify.com/track/2wcKGUia6V3mR4ufloQRCH) | [Zach Oliver](https://open.spotify.com/artist/3mUGzseAIqVvSM5m3vJ4GX) | [Better Side](https://open.spotify.com/album/6YhS9NUBO7LvpuSm5U7pK8) | 2:47 | 2022-04-29 |  |
@@ -409,7 +409,7 @@
 | [In My Mind](https://open.spotify.com/track/2W779g2UrRZtVdf3FcEOO1) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [In My Mind](https://open.spotify.com/album/4uLn2Ci7bNaHSZ0tBHYlxt) | 2:42 | 2021-10-02 | 2022-01-29 |
 | [In Or In\-Between \(Remix\)](https://open.spotify.com/track/6dGPZFOXEAtTeTt98g8Qgn) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx), [Jesse](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [In Or In\-Between \(Remix\)](https://open.spotify.com/album/7q6NYmqtJPUX8oQmbePCmY) | 3:08 | 2021-09-11 | 2021-10-23 |
 | [in the darkness](https://open.spotify.com/track/2zxe1bIcH0mHSMwuc9Fh1k) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/6wplPsthY2RZExLI73Gclg) | 3:29 | 2021-09-11 | 2022-01-22 |
-| [In Your Body](https://open.spotify.com/track/2VRJKXrqR4ztn6WgJ28R9r) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [In Your Body](https://open.spotify.com/album/3esx5NZ3vrZ3bWkurnWRmX) | 3:23 | 2022-02-18 |  |
+| [In Your Body](https://open.spotify.com/track/2VRJKXrqR4ztn6WgJ28R9r) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [In Your Body](https://open.spotify.com/album/3esx5NZ3vrZ3bWkurnWRmX) | 0:29 | 2022-02-18 |  |
 | [In Your Mind](https://open.spotify.com/track/1pb3GpXukIdPvhwSEDLclz) | [Straats](https://open.spotify.com/artist/0higlnOzPAny6nOraITrsP) | [2 Be & In Your Mind](https://open.spotify.com/album/57mzzgh3cM00tUcFH8xeVe) | 2:35 | 2020-10-29\* | 2020-11-14 |
 | [Indecisive \(feat\. Tommy Genesis\)](https://open.spotify.com/track/2tQsKH9WgQSGbuV7GQXeP9) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Indecisive \(feat\. Tommy Genesis\)](https://open.spotify.com/album/1bmFqLkkpsfeAEZoBiV4W6) | 2:15 | 2021-08-14 | 2021-09-18 |
 | [Insane](https://open.spotify.com/track/3mLFCocZgUvih60frphM6l) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Insane](https://open.spotify.com/album/21gi2LoATc1aYgKLD39uVy) | 2:46 | 2021-02-06 | 2021-03-27 |

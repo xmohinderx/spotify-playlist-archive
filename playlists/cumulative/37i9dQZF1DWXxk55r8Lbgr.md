@@ -4,12 +4,12 @@
 
 > 這些歌手將以其令人讚嘆的嗓音和演唱技巧牽動你的心弦。
 
-28 songs - 1 hr 55 min - [published](https://open.spotify.com/playlist/4GzdWnyuh34dYIiqYkZc9p)
+28 songs - 1 hr 52 min - [published](https://open.spotify.com/playlist/4GzdWnyuh34dYIiqYkZc9p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Case of You](https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 4:23 | 2016-06-08 |  |
-| [All In My Head](https://open.spotify.com/track/098tAg0yjz9ds5oys4MAPG) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Handmade Songs By Tori Kelly](https://open.spotify.com/album/0cKsaZeZ7zxJWmP8haVHuf) | 3:30 | 2016-06-08 |  |
+| [All In My Head](https://open.spotify.com/track/098tAg0yjz9ds5oys4MAPG) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Handmade Songs By Tori Kelly](https://open.spotify.com/album/0cKsaZeZ7zxJWmP8haVHuf) | 0:29 | 2016-06-08 |  |
 | [All\-American Girl](https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 3:32 | 2016-06-08 |  |
 | [Always Be My Baby](https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:18 | 2016-06-08 |  |
 | [At Your Best \(You Are Love\)](https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Age Ain't Nothing But A Number](https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl) | 4:51 | 2016-06-08 |  |

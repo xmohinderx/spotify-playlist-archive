@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZzMQgXnSUD.md) - [plain]
 
 > "Bond..\. James Bond." Cover: <a href="spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH">Billie Eilish</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,981 likes - 28 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,025 likes - 28 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZzMQgXnSUD.md) - [plain]
 | 6 | [Writing's On The Wall \- From "Spectre" Soundtrack](https://open.spotify.com/track/1PWnAEQcbwQwK759otUbta) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Writing's On The Wall](https://open.spotify.com/album/50bQvrNAFsAaIbqCcfD7FT) | 4:38 |
 | 7 | [Nobody Does It Better](https://open.spotify.com/track/49RUdNvwSiUTC8fBh4KKoC) | [Marvin Hamlisch](https://open.spotify.com/artist/1VN38ZSdtQnHLa8PfTTKZD), [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [The Spy Who Loved Me](https://open.spotify.com/album/5k55f89cnXdy0BikkUeBHJ) | 3:32 |
 | 8 | [Goldeneye](https://open.spotify.com/track/528QhCT2v3HgD71RmrSUNW) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Goldeneye](https://open.spotify.com/album/4aBVXvgB75LzBQTbKiauQN) | 4:48 |
-| 9 | [You Only Live Twice \- Main Title](https://open.spotify.com/track/68qxZGCBmN5HY4gmK0iURW) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [You Only Live Twice \- Soundtrack](https://open.spotify.com/album/70yvWorA4DzKWsS3Nvz89q) | 2:47 |
+| 9 | [You Only Live Twice \- Main Title](https://open.spotify.com/track/68qxZGCBmN5HY4gmK0iURW) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [You Only Live Twice \- Soundtrack](https://open.spotify.com/album/70yvWorA4DzKWsS3Nvz89q) | 0:29 |
 | 10 | [From Russia With Love](https://open.spotify.com/track/5BAHAfFiz8NbgTHf9MgleH) | [Matt Monro](https://open.spotify.com/artist/06kr5yNAM2rOf4DXemM8fl) | [Great Gentlemen Of Song / Spotlight On Matt Monro](https://open.spotify.com/album/37OQPuhA2crGPP7Yk3yIzR) | 2:35 |
 | 11 | [Thunderball \(Main Title\) \- Remastered](https://open.spotify.com/track/4LU5jR2Vmj0lZiA8tHXIia) | [Don Black](https://open.spotify.com/artist/63KnR8pniNe7l75qr1GK7Q), [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz), [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Thunderball](https://open.spotify.com/album/3VEq0jeSYz3Yzh2ibaqryN) | 3:03 |
 | 12 | [Die Another Day](https://open.spotify.com/track/4NvgRMckw4uzjNn2t7taPe) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:36 |

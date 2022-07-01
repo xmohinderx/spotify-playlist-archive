@@ -412,6 +412,24 @@
     },
     {
       "album": {
+        "name": "Delta Lady",
+        "url": "https://open.spotify.com/album/7dJygQ3xuMrppaDbrBeJYL"
+      },
+      "artists": [
+        {
+          "name": "Peter Cincotti",
+          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183875,
+      "name": "Delta Lady",
+      "url": "https://open.spotify.com/track/2LU7TTi6IBhCwn3g1vyQ1N"
+    },
+    {
+      "album": {
         "name": "Moonlight Love Affair",
         "url": "https://open.spotify.com/album/1AJhYeele3DMImHJ0SzVPp"
       },
@@ -492,7 +510,7 @@
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 221173,
+      "duration_ms": 29048,
       "name": "El Jonito",
       "url": "https://open.spotify.com/track/4LvpjpTB9SJEVNINopueyX"
     },
@@ -654,6 +672,28 @@
     },
     {
       "album": {
+        "name": "Be-Bop!",
+        "url": "https://open.spotify.com/album/3Iq2Xv9Gsp18CytuKVtOWJ"
+      },
+      "artists": [
+        {
+          "name": "Pasquale Grasso",
+          "url": "https://open.spotify.com/artist/7M6Meoc3uCzIyRP7V8HQQY"
+        },
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174066,
+      "name": "I'm in a Mess (feat. Samara Joy)",
+      "url": "https://open.spotify.com/track/0mlPTJtrfFyrm2RZOI4naT"
+    },
+    {
+      "album": {
         "name": "In Our Time",
         "url": "https://open.spotify.com/album/6hDNnQWpJ8dlfpNw6XKifQ"
       },
@@ -669,6 +709,24 @@
       "duration_ms": 336333,
       "name": "Infant Eyes",
       "url": "https://open.spotify.com/track/49Qv1bSWp6czTQENrW3bP5"
+    },
+    {
+      "album": {
+        "name": "NOJAZZ PLAY JAZZ (Rework)",
+        "url": "https://open.spotify.com/album/5BUyHOxpXi2twMN4j7idx4"
+      },
+      "artists": [
+        {
+          "name": "Nojazz",
+          "url": "https://open.spotify.com/artist/6KLnaNNqxZlVKGMavwJ8Zn"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181631,
+      "name": "It Don't Mean a Thing - Rework",
+      "url": "https://open.spotify.com/track/2VAyWXjHrKpMGivAO2w6SY"
     },
     {
       "album": {
@@ -897,7 +955,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 225368,
       "name": "Matter",
       "url": "https://open.spotify.com/track/0u3Zx4Id7vUw1JaTOmCx9v"
@@ -915,7 +973,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 266106,
       "name": "Memories",
       "url": "https://open.spotify.com/track/55x97x7xf28wEQrI6yXNjr"
@@ -1147,7 +1205,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 150053,
       "name": "Opening Theme",
       "url": "https://open.spotify.com/track/671F0GecA6grxVyyKFbOLB"

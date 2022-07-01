@@ -4,12 +4,12 @@
 
 > Disfruta esta selección musical, de la mano de Poncho.
 
-50 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/6z6BraNWp3zglua5eYOicY)
+50 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/6z6BraNWp3zglua5eYOicY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Bananenräuber](https://open.spotify.com/track/05wEorkTyzUT67wKkjz2tP) | [Kalabrese](https://open.spotify.com/artist/2MUENaxB93ZPNclZIDEMMV) | [Bananenräuber EP \(incl\. Ripperton Remix\)](https://open.spotify.com/album/6XRkp3ex5HvV7mIZYEpwEK) | 9:31 | 2020-01-17 |  |
-| [Bani](https://open.spotify.com/track/1edhO7oohKuhmkEGvDNXcR) | [Susso](https://open.spotify.com/artist/6eSUQltc7DkN4OiPgOl4VP) | [Keira](https://open.spotify.com/album/4RYg4wd3xq5aHVImUfpbw4) | 4:51 | 2020-01-17 |  |
+| [Bani](https://open.spotify.com/track/1edhO7oohKuhmkEGvDNXcR) | [Susso](https://open.spotify.com/artist/6eSUQltc7DkN4OiPgOl4VP) | [Keira](https://open.spotify.com/album/4RYg4wd3xq5aHVImUfpbw4) | 0:29 | 2020-01-17 |  |
 | [Body and Soul \- Whatever / Whatever Mix](https://open.spotify.com/track/6kdJFaEr6Lqy0HAE8rnfq6) | [William Onyeabor](https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi), [Justin Strauss](https://open.spotify.com/artist/0Ffu60mxLNLa7b7Z3VSS01), [Bryan Mette](https://open.spotify.com/artist/2mHxr001vnNn0TvaDpbyvw) | [What?!](https://open.spotify.com/album/5K9nDeTEcoMBakMd7KvtCZ) | 7:59 | 2020-01-17 |  |
 | [Can't Do Without You \(Tale of Us & Mano Le Tough Remix\)](https://open.spotify.com/track/5pNgnQa5Qn9EpL0GxuP6LB) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love \(Expanded Edition\)](https://open.spotify.com/album/7k7LfcXJsRSWzzlNb3zjDC) | 7:36 | 2020-01-17 |  |
 | [Cosmic Wind](https://open.spotify.com/track/13RmM9nDjFtOWATD8NPY8l) | [Mike Theodore Orchestra](https://open.spotify.com/artist/1qYoCN6dB4KAzDzAZcRD0Y) | [Cosmic Wind/High On Mad Mountain](https://open.spotify.com/album/0UwD1LLu7KnAnpTdn9eQ3M) | 7:03 | 2020-01-17 |  |
@@ -38,7 +38,7 @@
 | [Loving U More \- Original Mix](https://open.spotify.com/track/4BQFu4CKPNV2XXDvmlFYgf) | [DJ Nature](https://open.spotify.com/artist/6PdSJRMSdqv6jmDDi79Mvc) | [Ultimate Delusion EP](https://open.spotify.com/album/7gSCLS6twKQN67WQFi8lLV) | 5:51 | 2020-01-17 |  |
 | [Move Your Body \- Club](https://open.spotify.com/track/2cA7ezNsy33h6HKi4dggGh) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [Original Acid House Tracks](https://open.spotify.com/album/2OAtpG4qmck9JB40ztJJpy) | 7:49 | 2020-01-17 |  |
 | [Mushrooms \- Salt City Orchestra Out There Mix](https://open.spotify.com/track/0DmMkCRnLCn30vkJeUhgK2) | [Marshall Jefferson vs\. Noosa Heads](https://open.spotify.com/artist/45KxlxhV4KySZkLb5pXo8V) | [Mushrooms](https://open.spotify.com/album/1Vy1OUHs1xkzpzbaoxeXZr) | 8:17 | 2020-01-17 |  |
-| [No Van a Parar](https://open.spotify.com/track/1GLYsZMbHm72Uy2QvzdgDQ) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Anestesia](https://open.spotify.com/album/28uJVNr4dYysur0Fcay4B2) | 4:46 | 2020-01-17 |  |
+| [No Van a Parar](https://open.spotify.com/track/1GLYsZMbHm72Uy2QvzdgDQ) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Anestesia](https://open.spotify.com/album/28uJVNr4dYysur0Fcay4B2) | 0:29 | 2020-01-17 |  |
 | [Oh! Superman \- Disco Spacer Mix](https://open.spotify.com/track/02zHKu5WvvOH5tGcNqvaA1) | [Marcello Giordani](https://open.spotify.com/artist/2a6QLhIoQNwc1Q87Y6v2cU), [Disco Spacer](https://open.spotify.com/artist/0NQA2MpWqHh8UZnUR9ZPBM) | [Oh! Superman \(Disco Spacer Mix\)](https://open.spotify.com/album/3Yv76JX2Cy2PVLXZt87YxX) | 7:09 | 2020-01-17 |  |
 | [Out Of Control \- The Avalanches Surrender To Love Mix](https://open.spotify.com/track/7nIxmdgXEqb7TDMFUc8Erk) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [Out Of Control \(The Avalanches Surrender To Love Mix\)](https://open.spotify.com/album/3Fn0wItrIpiXD9w8lsMXhB) | 3:44 | 2020-01-17 |  |
 | [Paris Latino \- Original Version 1983](https://open.spotify.com/track/3LCup59DMpM3r6fwQsZMYs) | [Bandolero](https://open.spotify.com/artist/5lh1imF7kkn87IHQsoEjJB) | [Best of Bandolero \(Le meilleur des années 80\)](https://open.spotify.com/album/0B2tZmiPYlz9Jc1jbupQOX) | 4:01 | 2020-01-17 |  |

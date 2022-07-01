@@ -46,7 +46,7 @@
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 164434,
+      "duration_ms": 29048,
       "name": "212",
       "url": "https://open.spotify.com/track/4G0AxSsM4G4CcWmOhHXpXU"
     },
@@ -1096,7 +1096,7 @@
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 191024,
+      "duration_ms": 29048,
       "name": "HOMESICK",
       "url": "https://open.spotify.com/track/14AHfTN3CXFiaLuilTjRIL"
     },
@@ -1678,20 +1678,24 @@
     },
     {
       "album": {
-        "name": "SB\u7684\u9006\u8972",
+        "name": "SB\u7684\u9006\u8972 feat. Spark\u7687\u6bc5",
         "url": "https://open.spotify.com/album/4oQEIgUamsklxojIWK4awk"
       },
       "artists": [
         {
           "name": "B.T.O.D",
           "url": "https://open.spotify.com/artist/0J3mq4yDXJf0WeO5s4gnbl"
+        },
+        {
+          "name": "Spark \u7687\u6bc5",
+          "url": "https://open.spotify.com/artist/2u725US4lQSMSwhtf2YvcR"
         }
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 186580,
-      "name": "SB\u7684\u9006\u8972",
+      "name": "SB\u7684\u9006\u8972 feat. Spark\u7687\u6bc5",
       "url": "https://open.spotify.com/track/0Z08g6HfRgXaVUkjUOoe6g"
     },
     {

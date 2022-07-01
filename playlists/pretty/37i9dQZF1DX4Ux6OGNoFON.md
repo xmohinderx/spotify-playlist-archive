@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ux6OGNoFON.md) - [plain]
 
 > Saca, prende y sorprende con esta selección de buenas vibras\. Foto: Dread Mar I
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,053 likes - 61 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,180 likes - 61 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ux6OGNoFON.md) - [plain]
 | 47 | [Voló](https://open.spotify.com/track/4IXek6EkG8BwxvP9ODN5Fo) | [Golden Ganga](https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0) | [Voló](https://open.spotify.com/album/35km1sHybswdMTiBP2Tpv8) | 4:24 |
 | 48 | [Sentimiento Irie](https://open.spotify.com/track/7JH96fwwAYOxiRRLNKQcbc) | [La Tifa](https://open.spotify.com/artist/4iEgVksJc31oR01iG8vhGh) | [Pueblo](https://open.spotify.com/album/0qdHmF2X6AiVhecplSEfNU) | 3:48 |
 | 49 | [Llamado](https://open.spotify.com/track/2JhNQJoJYc7SWkZgdVpGin) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Anblessnabi](https://open.spotify.com/artist/3uqqh1xh1gsFU2LRewg4x7) | [Llamado](https://open.spotify.com/album/0W6E96gtjauTn9qfb8yA0H) | 3:45 |
-| 50 | [Suavemente](https://open.spotify.com/track/0YZyA7EF2LeTat01RWWzGQ) | [Don Páli](https://open.spotify.com/artist/0vmHcxir9eaM0VLfstxKMt) | [Suavemente](https://open.spotify.com/album/7qRi1ylJhlb2Kr5Fb6XF4Q) | 4:30 |
+| 50 | [Suavemente](https://open.spotify.com/track/0YZyA7EF2LeTat01RWWzGQ) | [Don Páli](https://open.spotify.com/artist/0vmHcxir9eaM0VLfstxKMt) | [Suavemente](https://open.spotify.com/album/7qRi1ylJhlb2Kr5Fb6XF4Q) | 0:29 |
 | 51 | [Qué es Vivir \(What is Life\)](https://open.spotify.com/track/0iOv981COUDmcUin4dTmaU) | [Los Guardianes de Gregory](https://open.spotify.com/artist/7yysL6dfPj3b9XHyZWkUWL), [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Sonidos de Libertad](https://open.spotify.com/album/7JpJFHhcMt2EjqNXkeMyE4) | 5:56 |
 | 52 | [Despertar](https://open.spotify.com/track/7wf3C5qwgiBiXY3YCaKDgV) | [Luis Alcivar](https://open.spotify.com/artist/69SJJJMUR2h236UcoC6fyF), [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Despertar](https://open.spotify.com/album/6TUe35D9POeGY30j0gv6Uo) | 4:10 |
 | 53 | [Homestudio Session \#6](https://open.spotify.com/track/1TIylLDBqvqiQn2x5CuOSy) | [Chusterfield](https://open.spotify.com/artist/3m6N2XBSZqfkujRvGYcdi8), [Rastachai](https://open.spotify.com/artist/050LEfCTHMWKFC2AI0DEBR) | [Homestudio Session \#6](https://open.spotify.com/album/1qmW48LkyezRoLuY0BLJF7) | 4:54 |

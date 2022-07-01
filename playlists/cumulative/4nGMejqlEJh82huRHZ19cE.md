@@ -4,7 +4,7 @@
 
 > 
 
-10 songs - 41 min 36 sec - [published](https://open.spotify.com/playlist/3MrGg1leXmu70YcjT3b10a)
+10 songs - 38 min 30 sec - [published](https://open.spotify.com/playlist/3MrGg1leXmu70YcjT3b10a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,6 @@
 | [Livin' On A Prayer](https://open.spotify.com/track/3X7abqSXC4xrxuC1ykpWcY) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Bon Jovi Greatest Hits](https://open.spotify.com/album/3Ad4QdO0EJr1c2livr9cmm) | 4:10 | 2013-06-20 |  |
 | [Sweet Dreams \(Are Made of This\) \- Remastered](https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY) | 3:36 | 2013-06-20 |  |
 | [Tiny Dancer](https://open.spotify.com/track/0a93gOQyRFfc2tVtup7JVP) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rocket Man \(Deluxe Edition\)](https://open.spotify.com/album/1vsWzNT3lzLt7RNLUdUVZB) | 6:17 | 2013-06-20 |  |
-| [We Found Love](https://open.spotify.com/track/2Xc3NC04rNmRVrsFf0ypRL) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Talk That Talk](https://open.spotify.com/album/2PpT0B9E0IglzKhOZfMbQC) | 3:35 | 2013-06-20 |  |
+| [We Found Love](https://open.spotify.com/track/2Xc3NC04rNmRVrsFf0ypRL) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Talk That Talk](https://open.spotify.com/album/2PpT0B9E0IglzKhOZfMbQC) | 0:29 | 2013-06-20 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Celebrate your baby girl and spread the good news!
 
-25 songs - 1 hr 29 min - [published](https://open.spotify.com/playlist/2sqLSolRhzLvUTjh5we32J)
+25 songs - 1 hr 26 min - [published](https://open.spotify.com/playlist/2sqLSolRhzLvUTjh5we32J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Girls Just Want to Have Fun](https://open.spotify.com/track/7sMGwiS4vOMcz86ZY3vKYM) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [The Best Of The 80's](https://open.spotify.com/album/1WNKfSND9D7t30sBPDo1gr) | 3:48 | 2013-10-17 |  |
 | [In My Daughter's Eyes](https://open.spotify.com/track/7LkQBDAiS0GVSO5JQuYDzY) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Martina](https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd) | 3:13 | 2013-10-07 |  |
 | [Isn't She Lovely](https://open.spotify.com/track/3WGaUa5pfM8vPMYhYplWL4) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Original Musiquarium](https://open.spotify.com/album/6QnqUBcQocB0U3nl8eBVjm) | 6:33 | 2013-10-06 |  |
-| [Kiss The Girl](https://open.spotify.com/track/7Ly3iB2S2riCNaqRHRaOrx) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Princess Disneymania](https://open.spotify.com/album/61rR26BXw5dLnZ8iQfNGkh) | 3:16 | 2013-10-17 |  |
+| [Kiss The Girl](https://open.spotify.com/track/7Ly3iB2S2riCNaqRHRaOrx) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Princess Disneymania](https://open.spotify.com/album/61rR26BXw5dLnZ8iQfNGkh) | 0:29 | 2013-10-17 |  |
 | [Lullabye \(Goodnight, My Angel\)](https://open.spotify.com/track/2GTC5mupEuJm5HOB76y08J) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Essential Billy Joel](https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz) | 3:30 | 2013-10-06 |  |
 | [My Girl](https://open.spotify.com/track/0Vpswx5knuuXW8HmNK1LrT) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [An American Love Story](https://open.spotify.com/album/0P2UzaCywB5aWhIplMUryK) | 2:41 | 2013-10-06 |  |
 | [My Girl](https://open.spotify.com/track/7kehxTzXeVSVi5g3t9dCjv) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [My Girl](https://open.spotify.com/album/0qXVkSPYAJR3Afdu8he6GC) | 2:57 | 2013-10-17 |  |

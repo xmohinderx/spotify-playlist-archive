@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgtZZKiQlS2.md) - [plain]
 
 > The best of Detroit Blues
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,301 likes - 40 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,308 likes - 40 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgtZZKiQlS2.md) - [plain]
 | 36 | [Missing You](https://open.spotify.com/track/1rPLUAUsHr60GU6vXT52je) | [Detroit Blues Band](https://open.spotify.com/artist/2An3asnUA53RzxhnauVTOl) | [Can't Get You Off My Mind](https://open.spotify.com/album/2vFoISsNHDivnSwXtb566U) | 4:58 |
 | 37 | [Something's Wrong](https://open.spotify.com/track/46zXxs0KWfZYEpKPtQeKZ8) | [Robert Henry](https://open.spotify.com/artist/5LSBkrLDZkkNF4wlXWLSOQ) | [Detroit Ghetto Blues 1948\-1954](https://open.spotify.com/album/59bT09aoxNKanCjNpVSIP2) | 2:50 |
 | 38 | [Woman's Got Ways](https://open.spotify.com/track/4BhUlTik3YtCTRi9c4FiOC) | [Johnni Bassett](https://open.spotify.com/artist/0AlCRQs9e51hOOut6N70lb) | [The Gentleman is Back](https://open.spotify.com/album/1iwX6EAGD56zNknQMEbZmz) | 5:04 |
-| 39 | [It's Hard Going Up \(But Twice As Hard Coming Down\)](https://open.spotify.com/track/6DnKM8x0Ai0AyV7M2MOtwN) | [Little Sonny](https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX) | [Hard Goin' Up](https://open.spotify.com/album/6aLaVUMRalvPJ6bk1jj9Jo) | 3:54 |
+| 39 | [It's Hard Going Up \(But Twice As Hard Coming Down\)](https://open.spotify.com/track/6DnKM8x0Ai0AyV7M2MOtwN) | [Little Sonny](https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX) | [Hard Goin' Up](https://open.spotify.com/album/6aLaVUMRalvPJ6bk1jj9Jo) | 0:29 |
 | 40 | [Orange Driver](https://open.spotify.com/track/0tFcLqJMik9ZhWne94mSYg) | [Eddie Burns](https://open.spotify.com/artist/02xaLTHeUgXhM3THo3y7BO), [Eddie Burns Blues Band](https://open.spotify.com/artist/0BZejzzjFxsvyPDyj3ItWF), [Eddie Burns, guitar, harmonica, vocal](https://open.spotify.com/artist/3pqSveCVLoTn3E03BYRW8i), [Joe Hunter, piano](https://open.spotify.com/artist/3ujZt3R1bUyY23qlV8UO2a), [Frank Bryant, bass](https://open.spotify.com/artist/5rEhGoeGEepz5Rn3NXzUB3), [Bobby Welch, drums](https://open.spotify.com/artist/5ipBht0WuuX2JRZRlNrTLp) | [Detroit](https://open.spotify.com/album/3Hh5V9WtEeHXIXeAoo2deI) | 4:26 |
 
 Snapshot ID: `MTYwMjYyMDAxOCwwMDAwMDAwMjAwMDAwMTc1MjM5OGQwMjYwMDAwMDE3NTIzOTcxMjVl`

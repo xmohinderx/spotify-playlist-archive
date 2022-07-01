@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wjSut3Yfb.md) - [plain]
 
 > Big Freedia co\-curates a list of the very best songs from LGBTQQIA+ artists and allies The Big Easy has to offer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,313 likes - 33 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,312 likes - 33 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wjSut3Yfb.md) - [plain]
 | 29 | [Cheeks](https://open.spotify.com/track/6YyExue2FnKLre2h5gGrDx) | [SaxKixAve](https://open.spotify.com/artist/2MPLNf6a6M5wARlnZyVwTn) | [I Don't Wear Suits](https://open.spotify.com/album/6WRT3MszQRofWMos1CwA0m) | 3:08 |
 | 30 | [Marie Antoinette \(feat\. Big Freedia\)](https://open.spotify.com/track/2d2FZzHVWsBXLWazTSo9mL) | [Boyfriend](https://open.spotify.com/artist/1d0nvifbTEmCbO8BlRKjod), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Marie Antoinette \(feat\. Big Freedia\)](https://open.spotify.com/album/0OTcoDC01ze2y85nSPDpsW) | 2:44 |
 | 31 | [Control](https://open.spotify.com/track/47W8IGBMXcHAL6hUavCEEC) | [LeTrainiump](https://open.spotify.com/artist/5bfZ3ITa57jVjSqJE6EhwH) | [Control](https://open.spotify.com/album/0BhkhfJqRAItAV9J5DIHNa) | 3:43 |
-| 32 | [Away from You](https://open.spotify.com/track/5aJPOSVFcNEKNlU2a8HFLn) | [HaSizzle](https://open.spotify.com/artist/22mB4zQKJDI9I7ZnYs80iX), [Future x Sounds](https://open.spotify.com/artist/23Dbk18rlcFE1b4GpRle2v), [Alfred Banks](https://open.spotify.com/artist/486X9xbMecCjCRPOhUXpuE), [LeTrainiump](https://open.spotify.com/artist/5bfZ3ITa57jVjSqJE6EhwH), [SaxKixAve](https://open.spotify.com/artist/2MPLNf6a6M5wARlnZyVwTn) | [Collaboration Sessions Vol\. 1](https://open.spotify.com/album/1RuahJIlwyNOi8GPCCYC9E) | 3:50 |
+| 32 | [Away from You](https://open.spotify.com/track/5aJPOSVFcNEKNlU2a8HFLn) | [HaSizzle](https://open.spotify.com/artist/22mB4zQKJDI9I7ZnYs80iX), [Future x Sounds](https://open.spotify.com/artist/23Dbk18rlcFE1b4GpRle2v), [Alfred Banks](https://open.spotify.com/artist/486X9xbMecCjCRPOhUXpuE), [LeTrainiump](https://open.spotify.com/artist/5bfZ3ITa57jVjSqJE6EhwH), [SaxKixAve](https://open.spotify.com/artist/2MPLNf6a6M5wARlnZyVwTn) | [Collaboration Sessions Vol\. 1](https://open.spotify.com/album/1RuahJIlwyNOi8GPCCYC9E) | 0:29 |
 | 33 | [Technicolor](https://open.spotify.com/track/7CO0QIOb4gWuKOWQ08MyCr) | [glbl wrmng](https://open.spotify.com/artist/0jcJatDntfPx5JqXqF4wVe), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi), [LeTrainiump](https://open.spotify.com/artist/5bfZ3ITa57jVjSqJE6EhwH), [Dominic Scott](https://open.spotify.com/artist/3y5rpxyWWVPtPp6M5gEYfS) | [glbl wrmng, vol\. 1](https://open.spotify.com/album/2s0ltjib93tdGyK9MbzaJu) | 3:05 |
 
 Snapshot ID: `MTYyMjgzMTI0NSwwMDAwMDAwMzAwMDAwMTc5ZDg0N2E5MGYwMDAwMDE3OTlmZDQzMWRk`

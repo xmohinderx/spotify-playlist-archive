@@ -4,7 +4,7 @@
 
 > For those with a taste for both the new and the classic\. Cover: Calum Scott
 
-307 songs - 17 hr 29 min - [published](https://open.spotify.com/playlist/3C1K5LpRz1NNeHvy2kRwbA)
+307 songs - 17 hr 26 min - [published](https://open.spotify.com/playlist/3C1K5LpRz1NNeHvy2kRwbA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Hopeless Romantic](https://open.spotify.com/track/22VPpAWB7qzV8L9rgza11j) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Hopeless Romantic](https://open.spotify.com/album/0sKJKrBhK5gYDdN39fLYb2) | 3:01 | 2021-12-17 |  |
 | [House of Cards](https://open.spotify.com/track/58GufL5ouunj41e6QV65bw) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [House of Cards](https://open.spotify.com/album/4ElbBl74bLrx5yu8RXqh9z) | 3:34 | 2021-12-17 | 2022-01-22 |
 | [Hunter](https://open.spotify.com/track/3YtfvUPCg8KXTzsn8gEf8Q) | [Jessica Lowndes](https://open.spotify.com/artist/1XNfue8YO5vg53LLS2yYcP) | [Hunter](https://open.spotify.com/album/4HUS0Gip1lnJYjL3MMbNZ3) | 4:15 | 2022-05-20 | 2022-06-18 |
-| [Hurting Way More Then It Should](https://open.spotify.com/track/704e7fHX0ultxmaKBiVftV) | [Coobie](https://open.spotify.com/artist/2AeSbZ0zUL5615vJFXtHsH) | [Hurting Way More Then It Should](https://open.spotify.com/album/3mcajlqoDHLWCZc6hbcfMM) | 2:56 | 2022-06-24 |  |
+| [Hurting Way More Than It Should](https://open.spotify.com/track/704e7fHX0ultxmaKBiVftV) | [Coobie](https://open.spotify.com/artist/2AeSbZ0zUL5615vJFXtHsH) | [Hurting Way More Than It Should](https://open.spotify.com/album/3mcajlqoDHLWCZc6hbcfMM) | 2:56 | 2022-06-24 |  |
 | [Hurtless](https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Hurtless](https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST) | 3:00 | 2022-04-01 |  |
 | [I Blame The World](https://open.spotify.com/track/3SrSjUKxAJ6Cq1vpe1mqCZ) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I Blame The World](https://open.spotify.com/album/7mIYNERWd8SdGObD8GrO2F) | 3:17 | 2022-04-08 | 2022-05-14 |
 | [I Burned LA Down](https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Burned LA Down](https://open.spotify.com/album/71EPoeTo5QAlsr2OWCRNhM) | 3:15 | 2022-04-08 | 2022-05-07 |
@@ -271,7 +271,7 @@
 | [Speakers](https://open.spotify.com/track/1620rCO9xoE7kug77sS4AJ) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [\(Un\)Commentary](https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO) | 2:39 | 2022-04-15 | 2022-05-28 |
 | [Steady Love](https://open.spotify.com/track/0ZpcK7pDA45LAVQFTJ2ieb) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/6Dy4vBbWht1kb3ITtTfqZA) | 3:44 | 2022-02-11 | 2022-03-12 |
 | [still](https://open.spotify.com/track/7oDohZCDFN9RgxroWcxVAn) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [still](https://open.spotify.com/album/2w7vynYkjfQgzBRZYdFon8) | 2:42 | 2021-12-17 | 2022-01-15 |
-| [Strong](https://open.spotify.com/track/00nnzvRP1Nt3dzkUVFhuIQ) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Strong](https://open.spotify.com/album/4d91qyKEWqSefIIUYomXMe) | 3:19 | 2021-12-17 |  |
+| [Strong](https://open.spotify.com/track/00nnzvRP1Nt3dzkUVFhuIQ) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Strong](https://open.spotify.com/album/4d91qyKEWqSefIIUYomXMe) | 0:29 | 2021-12-17 |  |
 | [Stronger Than You Know](https://open.spotify.com/track/1Epi4xEbFkzvC6c8qxCpNq) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [Stronger Than You Know](https://open.spotify.com/album/5E48rgVYh9dE55JoERgssw) | 3:13 | 2022-05-27 | 2022-06-18 |
 | [Summer Rain \(feat\. Jazmine Sullivan\)](https://open.spotify.com/track/4fPO3377M8WMykvWUJmzeO) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Gold\-Diggers Sound \(Deluxe\)](https://open.spotify.com/album/6SV7Sl0rmVeMuqYlMMAqQB) | 2:44 | 2021-12-17 | 2022-01-08 |
 | [That's Hilarious](https://open.spotify.com/track/1jIMjbzcGCcCQn5iMu9CUc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [That's Hilarious](https://open.spotify.com/album/6Na1Irgy420bot5shdqlFz) | 2:26 | 2022-04-08 | 2022-05-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JNwc30ddaO.md) - [plain]
 
 > Meditative crystal and Tibetan tones for clarity and healing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,193 likes - 68 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,283 likes - 68 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JNwc30ddaO.md) - [plain]
 | 23 | [Octaves](https://open.spotify.com/track/78WS3GE1b8SOYXu92uH95v) | [Tibetan Singing Bowl Sounds](https://open.spotify.com/artist/4JwZIdOOQe0KsFr5AENBUR) | [Octaves](https://open.spotify.com/album/6do25Wf004W28A6ACgF398) | 7:23 |
 | 24 | [Transcend](https://open.spotify.com/track/4bbvU1EWM2r6SDKGC6Ql9t) | [Sun Prayers](https://open.spotify.com/artist/5ooYkvBXhXVAVuoTQTTscC) | [Relax in the Sound Bath](https://open.spotify.com/album/0estXKpvmUY8ZZM9yjC8aG) | 6:53 |
 | 25 | [Consciência](https://open.spotify.com/track/3zcRp4RaAL32YYGKW1QJe8) | [iD8](https://open.spotify.com/artist/3DjpvRyhGuXg5ICJqwng4z) | [Sonidos Curativos](https://open.spotify.com/album/7pKqJWGeLYgUObHXAzMUBY) | 3:52 |
-| 26 | [Throath Chakra \- \(Vishuddha\) 3 Octaves G](https://open.spotify.com/track/4aS3XkjjFSafYME58Wo1iY) | [Yeshi Namdak](https://open.spotify.com/artist/1Q024x44ggYq9bvRsaRPri) | [7 Chakra Meditation with Tibetan Bowls](https://open.spotify.com/album/2c8pxiKmUpGVvIjEWChg9X) | 2:50 |
+| 26 | [Throath Chakra \- \(Vishuddha\) 3 Octaves G](https://open.spotify.com/track/4aS3XkjjFSafYME58Wo1iY) | [Yeshi Namdak](https://open.spotify.com/artist/1Q024x44ggYq9bvRsaRPri) | [7 Chakra Meditation with Tibetan Bowls](https://open.spotify.com/album/2c8pxiKmUpGVvIjEWChg9X) | 0:29 |
 | 27 | [Peaceful Bowls](https://open.spotify.com/track/5bqdWWJaK1sLMy58VYMIg4) | [Monkville](https://open.spotify.com/artist/53qEoYIkHrhdTdC6AaSoiJ) | [Gong Zone](https://open.spotify.com/album/1by9VUzQJ6RxtPpuFUR0WA) | 3:30 |
 | 28 | [The Bliss of Singing Bowls](https://open.spotify.com/track/34yLMpL0U4Xn4g0GlH1j6g) | [Surrounding Life](https://open.spotify.com/artist/7x0g29FUOlzLsQrKB0NioF) | [Songs on Tibetan Bowls](https://open.spotify.com/album/1J9FhUBAz6rerpaHPAKokz) | 2:58 |
 | 29 | [Sound of Sarvastivada](https://open.spotify.com/track/6U6vGLAjQBWeU4vmiujSaF) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [Zen Gaya](https://open.spotify.com/album/54yk5I0Xqd2gL3B4h8Nff4) | 2:32 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JNwc30ddaO.md) - [plain]
 | 64 | [Grounding Tone C](https://open.spotify.com/track/3hYJ8hohXUL9Cwki1lHFbd) | [Wychazel](https://open.spotify.com/artist/3Ha5NFzupiI1mSkVVVkXhN) | [Tibetan Bowls](https://open.spotify.com/album/3TMvm79PL70U27YH1ExMXE) | 6:00 |
 | 65 | [Peaceful Sound Bath](https://open.spotify.com/track/1XOoK8b08hYrAU0vMcnQIS) | [The Tibetan Singing Bowls](https://open.spotify.com/artist/4gZYpXjnmCFu1Qzxz947v9) | [Sound Bath Escape](https://open.spotify.com/album/3rL8zuwDNsmKcOBCRgaXCb) | 3:12 |
 | 66 | [Tibetan Singing Bowls Meditation](https://open.spotify.com/track/3VFQy1WoVp5MhM0akyfHsT) | [Tibetan Bowls](https://open.spotify.com/artist/0G5m6OVzOTqmac2C5PIDHs) | [Tibetan Bowls](https://open.spotify.com/album/6jNAxr9kimOpVsFZAkLem1) | 3:52 |
-| 67 | [Root Chakra \(Muladhara\) \- 3 Octaves C](https://open.spotify.com/track/026nvVJ92VxqZCceoYKvJx) | [Yeshi Namdak](https://open.spotify.com/artist/1Q024x44ggYq9bvRsaRPri) | [7 Chakra Meditation with Tibetan Bowls](https://open.spotify.com/album/2c8pxiKmUpGVvIjEWChg9X) | 2:50 |
+| 67 | [Root Chakra \(Muladhara\) \- 3 Octaves C](https://open.spotify.com/track/026nvVJ92VxqZCceoYKvJx) | [Yeshi Namdak](https://open.spotify.com/artist/1Q024x44ggYq9bvRsaRPri) | [7 Chakra Meditation with Tibetan Bowls](https://open.spotify.com/album/2c8pxiKmUpGVvIjEWChg9X) | 0:29 |
 | 68 | [Tibetan Bowl Mind Clarity](https://open.spotify.com/track/5SXk3qGtMOLUDVUttQLea0) | [Relaxing Tibetan Singing Bowls](https://open.spotify.com/artist/7eWhSlk1SPRRFkt9l6QE7R) | [Tibetan Bowl Escape](https://open.spotify.com/album/15YrBa9VbWVAPwiplCdgmf) | 4:06 |
 
 Snapshot ID: `MTY1MjQ0MzE4MCwwMDAwMDAyYTAwMDAwMTgwYmQ0OWVjYTAwMDAwMDE4MGJkNDc4ZjYx`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Brazil.
 
-421 songs - 21 hr 7 min - [published](https://open.spotify.com/playlist/7t90PTv1rM5fuPfj2KijaF)
+421 songs - 21 hr 4 min - [published](https://open.spotify.com/playlist/7t90PTv1rM5fuPfj2KijaF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,8 +392,8 @@
 | [Ur Baby \(feat\. Khalid\)](https://open.spotify.com/track/66wc7tEC6OapOuvRx1ncbD) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 2:43 | 2022-04-14 | 2022-04-16 |
 | [Vagabundo](https://open.spotify.com/track/6Lrzxd7ST5oQ6FYKXKH7Ia) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Vagabundo](https://open.spotify.com/album/7fUBlrxykadQWJx0Jikf3v) | 2:45 | 2021-06-14 | 2021-11-08 |
 | [Vagabundo Chora \- Ao Vivo](https://open.spotify.com/track/2ebFBmle5uXcdbrCAOvPcZ) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Vagabundo Chora \(Ao Vivo\)](https://open.spotify.com/album/1plYdPJYejQQpBvlebGdnk) | 2:41 | 2022-04-10 |  |
+| [Vai Lá Em Casa Hoje](https://open.spotify.com/track/2wSCalnGOnXdAJC0Fn8OUY) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Vai Lá Em Casa Hoje](https://open.spotify.com/album/0JKlc3z8LMvYXvAvCv1EzG) | 0:29 | 2022-02-27 |  |
 | [Vai Lá Em Casa Hoje](https://open.spotify.com/track/1c4htMHiolERc0YJvZNdlc) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Vai Lá Em Casa Hoje](https://open.spotify.com/album/2ULXBNAz2pgBQmwc3qODUz) | 3:11 | 2021-11-12 | 2022-02-28 |
-| [Vai Lá Em Casa Hoje](https://open.spotify.com/track/2wSCalnGOnXdAJC0Fn8OUY) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Vai Lá Em Casa Hoje](https://open.spotify.com/album/0JKlc3z8LMvYXvAvCv1EzG) | 3:11 | 2022-02-27 |  |
 | [Vamo Tomar Uma](https://open.spotify.com/track/1YiO0AdZz9HNoJZr8nkaDR) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Chaaama](https://open.spotify.com/album/32Db0Wp1YHCpQW7GBqQbRU) | 2:19 | 2021-08-29 | 2021-10-10 |
 | [Vamo Tomar Uma](https://open.spotify.com/track/452LVnTBjXYW3guqe3xiqI) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Chaaama](https://open.spotify.com/album/7c3OrNevQnYSjGRFAjz5C1) | 2:19 | 2021-10-10 | 2022-02-02 |
 | [Vampiro](https://open.spotify.com/track/6bTdZ7xfKp3NqqADJ8HLyj) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Vampiro](https://open.spotify.com/album/2Czm8l03F67WEzX8MDruyy) | 4:10 | 2022-04-04 |  |

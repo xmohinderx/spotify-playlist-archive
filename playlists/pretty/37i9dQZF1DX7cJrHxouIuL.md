@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cJrHxouIuL.md) - [plain]
 
 > Kindie tunes for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,440 likes - 148 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,447 likes - 148 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cJrHxouIuL.md) - [plain]
 | 51 | [Be Kind](https://open.spotify.com/track/1SSgq52TJSHbsqsh3rDB1a) | [The Quokkas](https://open.spotify.com/artist/41y8Sg5SccQXAn7JpkQDIg) | [Be Kind EP](https://open.spotify.com/album/5jdgjnN42Y3EitwLkAkNtG) | 2:00 |
 | 52 | [You Are My Sunshine](https://open.spotify.com/track/4pSnr4nddXDvT7FTqRutUm) | [Lindsay Munroe](https://open.spotify.com/artist/1FVbng9WjrAw3kLWaLLFhM), [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [You Are My Sunshine](https://open.spotify.com/album/282bBuTXFWAQID7zQ8aX6C) | 1:27 |
 | 53 | [Tomorrow](https://open.spotify.com/track/36q9e2bci1iIm9e1zlJ8y0) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tomorrow](https://open.spotify.com/album/32J3TIXdYC4fQpK8IFhTDX) | 2:43 |
-| 54 | [Don't Grow up Too Soon](https://open.spotify.com/track/29Df1XJyKy7pYw3G79Fx36) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Rise and Fall](https://open.spotify.com/album/40LAPAJ4LC0dj1MTkrIjVi) | 2:29 |
+| 54 | [Don't Grow up Too Soon](https://open.spotify.com/track/29Df1XJyKy7pYw3G79Fx36) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Rise and Fall](https://open.spotify.com/album/40LAPAJ4LC0dj1MTkrIjVi) | 0:29 |
 | 55 | [Breakfast Club \(feat\. Carly Ciarrocchi\)](https://open.spotify.com/track/0USrh6qGiJVR3gzSk0d4H5) | [Tim Kubart](https://open.spotify.com/artist/1mmtvYjQNZ4rNL20mT1wDp), [Carly Ciarrocchi](https://open.spotify.com/artist/0L6dlPvmSXJ7pKkp7j03VC) | [Home](https://open.spotify.com/album/7slt3qTeXAus3QW1tAqcqW) | 3:25 |
 | 56 | [Long as I Got You](https://open.spotify.com/track/5mk8u1etFH79BfcNVuCPOx) | [Justin Roberts](https://open.spotify.com/artist/0gPiY8YtQXCp3arXBVFUk5) | [Lemonade](https://open.spotify.com/album/6JrSmqY6OEERxikQHUQ2vf) | 2:23 |
 | 57 | [For the Long Night](https://open.spotify.com/track/17F95g980LpKuKWjo3r43y) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Claudia Zanes](https://open.spotify.com/artist/1mEDDCiHoa4Win8FuJmAfh), [Dan + Claudia Zanes](https://open.spotify.com/artist/5qcWTB20UyUKLIKYyjcjyn), [Amadou Kouyate](https://open.spotify.com/artist/1WLB9ei0uFv9aDdnE2LXpg) | [Let Love Be Your Guide](https://open.spotify.com/album/29YQcKWonRl02h3pypRui6) | 4:17 |
@@ -146,8 +146,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cJrHxouIuL.md) - [plain]
 | 136 | [Electric Car](https://open.spotify.com/track/0wGtYIrTodIcfv9P9ALsx3) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O), [Robin Goldwasser](https://open.spotify.com/artist/3hMMtIOxxEPNUUWVRbGEGG) | [Here Comes Science](https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd) | 3:22 |
 | 137 | [Let My Love Open the Door](https://open.spotify.com/track/7lRsvbBASVBRYQEvA0namA) | [Andrew & Polly](https://open.spotify.com/artist/49jFRUETZfd3qMb92TcWda) | [Let My Love Open the Door](https://open.spotify.com/album/4q1TB2csSCPcwi3BdacVSm) | 2:41 |
 | 138 | [The Great Outdoors](https://open.spotify.com/track/3zl7jSccsjw567T8Txei67) | [Ralph's World](https://open.spotify.com/artist/4qIIexaFmYNueu5mnSQnzU) | [All Around Ralph's World](https://open.spotify.com/album/5EPFcPWtYQvo6VPXBWGkX5) | 2:40 |
-| 139 | [Winnie the Pooh](https://open.spotify.com/track/3iY7VgZ1T95LlFro7ccEBV) | [Zooey Deschanel](https://open.spotify.com/artist/2GEW6nJjHKAFyqnsE3TdWx), [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Winnie the Pooh](https://open.spotify.com/album/38lqlFkYKpEa3LgDQtqVdo) | 2:32 |
-| 140 | [From My Head to My Toes](https://open.spotify.com/track/02XuozZPsS2Exfcz10Bnvl) | [Music with Mandy](https://open.spotify.com/artist/2FkQ1kvpxbGnnL3hIW0uJ2) | [From My Head to My Toes](https://open.spotify.com/album/5GqrcPwPUPHuHGnmkBOaWA) | 4:00 |
+| 139 | [Winnie the Pooh](https://open.spotify.com/track/3iY7VgZ1T95LlFro7ccEBV) | [Zooey Deschanel](https://open.spotify.com/artist/2GEW6nJjHKAFyqnsE3TdWx), [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Winnie the Pooh](https://open.spotify.com/album/38lqlFkYKpEa3LgDQtqVdo) | 0:29 |
+| 140 | [From My Head to My Toes](https://open.spotify.com/track/02XuozZPsS2Exfcz10Bnvl) | [Music with Mandy](https://open.spotify.com/artist/2FkQ1kvpxbGnnL3hIW0uJ2) | [From My Head to My Toes](https://open.spotify.com/album/5GqrcPwPUPHuHGnmkBOaWA) | 0:29 |
 | 141 | [Dream a Little Dream of Me](https://open.spotify.com/track/6xAjAocTRpKamQlCy50RRQ) | [Zee Avi](https://open.spotify.com/artist/6zGcYBjlNOMSVVrl7ZoGsH) | [Zee Avi's Nightlight](https://open.spotify.com/album/2R8cMVzWRFq0Rsc2WZi97U) | 1:51 |
 | 142 | [I Want To Have Fun](https://open.spotify.com/track/3kzsBcxyZP0GyiMyeOx6Xw) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [For The Kids Three](https://open.spotify.com/album/1Dr9Qai7RQUBTtqLrJDo2A) | 2:33 |
 | 143 | [Roy G\. Biv](https://open.spotify.com/track/0UG9o1jtxAPt2aZXvWefBS) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Here Comes Science](https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd) | 2:07 |

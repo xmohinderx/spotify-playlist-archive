@@ -4,7 +4,7 @@
 
 > The perfect classical accompaniment to your wedding day.
 
-40 songs - 2 hr 32 min - [published](https://open.spotify.com/playlist/5Y8mV1kkK7RVGOGyZCwVZy)
+40 songs - 2 hr 28 min - [published](https://open.spotify.com/playlist/5Y8mV1kkK7RVGOGyZCwVZy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Main Title \(The Notebook\)](https://open.spotify.com/track/06xNkl12TrxwGYrwTGlUUd) | [Aaron Zigman](https://open.spotify.com/artist/74M3iphMpn1MA2YUe2Iigb) | [The Notebook \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1jxQ99vwL9ca4wEVJMjSY7) | 2:49 | 2021-12-17 |  |
 | [Nocturne](https://open.spotify.com/track/4Ihs5QBKqaVzRlfot22aKt) | [Alexander Borodin](https://open.spotify.com/artist/34MYamymtmnsmpwbqydd7I), [Julian Lloyd Webber](https://open.spotify.com/artist/1U4pv151m4SgVMg8fXROYp), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [James Judd](https://open.spotify.com/artist/3bRgHXc5F81fdXrdh5jpz5) | [Cello Moods](https://open.spotify.com/album/7i83TEHhrYpSdiemOVqajE) | 4:05 | 2021-12-17 |  |
 | [Orchestral Suite No\. 3 in D Major, BWV 1068: II\. Air](https://open.spotify.com/track/6t7lMFHSifu9j8NPMNCv9T) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Orpheus Chamber Orchestra](https://open.spotify.com/artist/35pZsti1RSA5Zv98jAm8kX) | [Orpheus Chamber Orchestra \- Baroque Highlights](https://open.spotify.com/album/2e0FIWorD7mcJNs573R4Zq) | 4:44 | 2021-12-17 |  |
-| [Pachelbel: Canon and Gigue for Three Violins and Continuo in D Major: Canon](https://open.spotify.com/track/7B4HbpZCSfLzKGapKzlUPD) | [Johann Pachelbel](https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3), [Sir Neville Marriner](https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9), [Academy of St\. Martin in the Fields](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF) | [Mozart: Academy in Concert](https://open.spotify.com/album/7GpLAOdLQp3wejURBwC144) | 5:01 | 2021-12-17 |  |
+| [Pachelbel: Canon and Gigue for Three Violins and Continuo in D Major: Canon](https://open.spotify.com/track/7B4HbpZCSfLzKGapKzlUPD) | [Johann Pachelbel](https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3), [Sir Neville Marriner](https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9), [Academy of St\. Martin in the Fields](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF) | [Mozart: Academy in Concert](https://open.spotify.com/album/7GpLAOdLQp3wejURBwC144) | 0:29 | 2021-12-17 |  |
 | [Pavane, Op\. 50](https://open.spotify.com/track/2kzJk1fFlxwavj3TcCHcqk) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [San Francisco Symphony](https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ), [Michael Tilson Thomas](https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78) | [Masterpieces in Miniature](https://open.spotify.com/album/0aeEn2dKbzSYIQY2tuYCrE) | 6:25 | 2021-12-17 |  |
 | [Perfect](https://open.spotify.com/track/33lI804DgErb7NSNWwkzxa) | [Atlys](https://open.spotify.com/artist/7tCzmM07JOGsFq2RwTzKRg) | [Perfect](https://open.spotify.com/album/4HwH5Vg7Ho7F8XlsSW1MPE) | 4:19 | 2021-12-17 |  |
 | [Rinaldo, HWV 7: Lascia ch'io pianga \(Arr\. for Piano & Bass\)](https://open.spotify.com/track/45QVpFPpNOYMXDbbEeZ39X) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [PianoBasso](https://open.spotify.com/artist/0lFzJ6s1Rip3L1KbqTDmP7) | [Tranquillo II](https://open.spotify.com/album/0YijaagftFAOjGIfwFwji3) | 3:32 | 2022-05-17 |  |

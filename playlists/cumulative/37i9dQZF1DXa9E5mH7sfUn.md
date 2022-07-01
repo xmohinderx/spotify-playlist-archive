@@ -4,7 +4,7 @@
 
 > Amigo, ven te invito una copa...
 
-65 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/4wWNt6GsmMvcFRUsO8irNk)
+66 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/4wWNt6GsmMvcFRUsO8irNk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Detrás de Mi Ventana](https://open.spotify.com/track/0vhOhQerNeK037EpSmphzb) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [NUEVA ERA](https://open.spotify.com/album/46vUx6DbaAJvrShgZYMLSU) | 4:39 | 2020-09-10 |  |
 | [Déjame Volver Contigo](https://open.spotify.com/track/6K1RFZ3mUdZaxktUnifSok) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [Imprescindibles](https://open.spotify.com/album/6GiVGJiqTdu0CcTnwK80go) | 4:12 | 2020-09-10 |  |
 | [Déjenme Si Estoy Llorando](https://open.spotify.com/track/0YvKdz58OcwgYdS67NJkkU) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Serie De Oro](https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d) | 2:48 | 2020-09-10 |  |
-| [Eclipse Total Del Amor \(Total Eclipse of the Heart\)](https://open.spotify.com/track/4UFlWyUXUots8pCHclBy9A) | [Lissette](https://open.spotify.com/artist/426RAP38E1nWbcslKrYNlw) | [Mis Recuerdos](https://open.spotify.com/album/1xPZDechSZxJuthlxcRXOE) | 5:36 | 2020-09-10 |  |
+| [Eclipse Total Del Amor \(Total Eclipse of the Heart\)](https://open.spotify.com/track/4UFlWyUXUots8pCHclBy9A) | [Lissette](https://open.spotify.com/artist/426RAP38E1nWbcslKrYNlw) | [Mis Recuerdos](https://open.spotify.com/album/1xPZDechSZxJuthlxcRXOE) | 0:29 | 2020-09-10 |  |
 | [El Amor Acaba](https://open.spotify.com/track/4TuVPlUrfKpAqPUJFjONcM) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Secretos](https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh) | 4:20 | 2020-09-10 |  |
 | [El Recuento de los Daños](https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Mas Turbada Que Nunca](https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh) | 3:55 | 2020-09-10 |  |
 | [Ella...Ella Ya Me Olvidó, Yo la Recuerdo Ahora](https://open.spotify.com/track/2IG7Gl8zcAJiYcZBKMvdWD) | [Leonardo Favio](https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq) | [Leonardo Favio Cronología \- Fuiste Mía un Verano \(1968\)](https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm) | 3:43 | 2020-09-10 |  |
@@ -33,7 +33,7 @@
 | [He Renunciado a Ti \- Remasterizado](https://open.spotify.com/track/59Q0mA0Bq3bqfV5ySjfTbn) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Secretos](https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh) | 3:54 | 2020-09-10 |  |
 | [Hipocresía](https://open.spotify.com/track/5Cf4aRX1Kr6Y0DMb18zaqi) | [Los Pasteles Verdes](https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y) | [Éxitos Eternos](https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon) | 4:19 | 2020-09-10 |  |
 | [Hoy Te Confieso](https://open.spotify.com/track/66QLqotHRmWcOM5rmtNtMX) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Los Exitos de Los Terricolas](https://open.spotify.com/album/0Unjdke7MtUvhko4pos0uG) | 3:48 | 2020-09-10 |  |
-| [Hoy tengo ganas de ti](https://open.spotify.com/track/17oji5hYaIqOFWFnPPWCeJ) | [Miguel Gallardo](https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T) | [2 \(Remasterizado 2017\)](https://open.spotify.com/album/5g5J0Xr0ERqUJXGhEGneOr) | 4:05 | 2020-09-10 |  |
+| [Hoy tengo ganas de ti](https://open.spotify.com/track/17oji5hYaIqOFWFnPPWCeJ) | [Miguel Gallardo](https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T) | [2 \(Remasterizado 2017\)](https://open.spotify.com/album/5g5J0Xr0ERqUJXGhEGneOr) | 0:29 | 2020-09-10 |  |
 | [La Copa Rota](https://open.spotify.com/track/5IfAlOMySAH08t03DopAoZ) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Coleccion Original: José Feliciano](https://open.spotify.com/album/5wDSxbDiNT3iraQnVhWrD0) | 2:38 | 2020-09-10 |  |
 | [La Media Vuelta](https://open.spotify.com/track/1lKI9y1DL6QnYTZguVmACX) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Segundo Romance](https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0) | 2:41 | 2020-09-10 |  |
 | [La Playa](https://open.spotify.com/track/2DNyZP4Py6f4zMASLBnIu6) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [El Viaje de Copperpot](https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu) | 4:07 | 2020-09-10 |  |
@@ -69,6 +69,7 @@
 | [Vamos A Platicar](https://open.spotify.com/track/4Slnnd4yLEYNsqyYQDMjgD) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Emonciones Sin Limite \(Volumen 5\)](https://open.spotify.com/album/4JdwBtjOiUEPiRfBYT5D42) | 3:20 | 2020-09-10 |  |
 | [Y Aquí Estoy](https://open.spotify.com/track/5PSES4lFkqiLk2ERayuuha) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Sagitario](https://open.spotify.com/album/05tHWQm1uJIo6FxQ9xzygd) | 3:44 | 2020-09-10 |  |
 | [Y Volveré](https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Clásicos Latinos](https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd) | 4:03 | 2020-09-10 |  |
+| [Ya Empaqué Tu Corazón](https://open.spotify.com/track/6vf4ZTuoFsHWFV2agprdZc) | [Jorge Gamboa Patrón](https://open.spotify.com/artist/6C7OQL7jqHWXAN6mURuqMu) | [Provocaciones](https://open.spotify.com/album/0ny2GEEopJ4UOZmMK5R7BK) | 4:47 | 2022-06-30 |  |
 | [Ya Te Olvidé](https://open.spotify.com/track/6svomc2OrfHEqm6bIDqddz) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Mis Mejores Canciones](https://open.spotify.com/album/3t2qZdlJXoWGeenwUPD5qQ) | 3:00 | 2020-09-10 |  |
 | [¿Porqué te vas?](https://open.spotify.com/track/11rsK9GDZ9UdWsxtDqnMmN) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Porque Te Vas](https://open.spotify.com/album/1qCaXMufzGyuuhkwvl2TYy) | 3:21 | 2020-09-10 |  |
 | [¿Y cómo es él?](https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Entre El Agua Y El Fuego](https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI) | 4:08 | 2020-09-10 |  |

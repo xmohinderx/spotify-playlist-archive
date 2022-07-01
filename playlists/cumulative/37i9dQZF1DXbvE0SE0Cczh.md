@@ -4,7 +4,7 @@
 
 > From new retro to classic country blues, honky tonk, rockabilly, and more...
 
-65 songs - 2 hr 52 min - [published](https://open.spotify.com/playlist/1Tc2vYhpkKJFNbCpnmKrSz)
+65 songs - 2 hr 49 min - [published](https://open.spotify.com/playlist/1Tc2vYhpkKJFNbCpnmKrSz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Blue Suede Shoes \- Remastered](https://open.spotify.com/track/3htVOUt4zoFthJhqtJMGTo) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [The Essential Elvis Presley](https://open.spotify.com/album/3X3rFfVKCW58sKMO0UXkwO) | 1:59 | 2019-03-04 |  |
 | [Burning Love](https://open.spotify.com/track/4VK3MDt1FAP101D0mnFJkz) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 75 \- Good Rockin' Tonight](https://open.spotify.com/album/34EYk8vvJHCUlNrpGxepea) | 2:49 | 2019-03-04 |  |
 | [C'mon Baby, Cry](https://open.spotify.com/track/6RdQx3nZNjYIZ9nlBw6JLG) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco: Chapter 1](https://open.spotify.com/album/5lGeIKePKFplfWbgfTBA8e) | 3:30 | 2022-02-11 |  |
-| [Come On, Let's Go](https://open.spotify.com/track/3wbZ4SLakqTZqV76czDeuZ) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Rhino Hi\-Five: Ritchie Valens](https://open.spotify.com/album/2UoXVAKOOVZjmVfTUidEHs) | 2:05 | 2019-03-04 |  |
+| [Come On, Let's Go](https://open.spotify.com/track/3wbZ4SLakqTZqV76czDeuZ) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Rhino Hi\-Five: Ritchie Valens](https://open.spotify.com/album/2UoXVAKOOVZjmVfTUidEHs) | 0:29 | 2019-03-04 |  |
 | [Crazy \- Single Version](https://open.spotify.com/track/4DuBNU1r50XEv4dvsrQcpY) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Gold](https://open.spotify.com/album/3kwl00I9hJSfwfWc4T3NAx) | 2:42 | 2019-03-04 |  |
 | [Don't Be Cruel](https://open.spotify.com/track/4zzXm1QJQXWLyUfFhWZBRg) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:02 | 2019-03-04 |  |
 | [Every Once In A While](https://open.spotify.com/track/2w7EwwSn1vCwkEmpuY66wg) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Nobody Lives Here Anymore](https://open.spotify.com/album/1GvCetmOWQbkkmG6fpXWgu) | 4:37 | 2022-02-11 |  |
@@ -72,6 +72,6 @@
 | [You Got It](https://open.spotify.com/track/6r20M5DWYdIoCDmDViBxuz) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Mystery Girl](https://open.spotify.com/album/1UPcuqLY9PC99fQAqWgrSU) | 3:30 | 2019-03-04 |  |
 | [You Never Can Tell \- 1964 Single Version / Mono](https://open.spotify.com/track/3OvsO3zxU1pMyPNpDtu4pz) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [20th Century Masters: The Millennium Collection: Best Of Chuck Berry](https://open.spotify.com/album/5oe2YLmp9uZgV0lKguAadC) | 2:43 | 2019-03-04 |  |
 | [You Really Got A Hold On Me \- Remastered 2009](https://open.spotify.com/track/7rgUYidQh5tH0YlXCoKaYJ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [With The Beatles \(Remastered\)](https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr) | 3:01 | 2019-03-04 |  |
-| [You're the One I Love](https://open.spotify.com/track/0LFtYzQb0xflHSlu00pO0S) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [Walk Right Back: The Everly Brothers on Warner Brothers, 1960\-1969](https://open.spotify.com/album/3O0QXvFFIzwahliBm6uzyw) | 2:02 | 2019-03-04 |  |
+| [You're the One I Love](https://open.spotify.com/track/0LFtYzQb0xflHSlu00pO0S) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [Walk Right Back: The Everly Brothers on Warner Brothers, 1960\-1969](https://open.spotify.com/album/3O0QXvFFIzwahliBm6uzyw) | 0:29 | 2019-03-04 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

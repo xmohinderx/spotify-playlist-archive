@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/5ahhg3aywppGeJs8tXvZOo.md) - [plain]
 
 > Fresh takes on all of your favorite standards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73 likes - 25 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 73 likes - 25 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Nearness Of You](https://open.spotify.com/track/03gk2zRwm8uUZDbyZJtPgh) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me](https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq) | 3:07 |
 | 2 | [Time After Time](https://open.spotify.com/track/7KyHMmVE4TuMnLqSXktjno) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Time After Time](https://open.spotify.com/album/6RNWRGO2GiHAENcKPRRSBT) | 3:22 |
 | 3 | [When I Fall in Love \(feat\. Chris Botti\)](https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB), [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Skylark \(Std\. Version\)](https://open.spotify.com/album/46FYQKraT48SZMaZRg7IOP) | 4:43 |
-| 4 | [Cheek To Cheek](https://open.spotify.com/track/6gmmK1JQf938kdVnOmZxic) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Cheek To Cheek](https://open.spotify.com/album/56uP6C9dDe31eLwhpfgIWT) | 2:50 |
+| 4 | [Cheek To Cheek](https://open.spotify.com/track/6gmmK1JQf938kdVnOmZxic) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Cheek To Cheek](https://open.spotify.com/album/56uP6C9dDe31eLwhpfgIWT) | 0:29 |
 | 5 | [I Got Rhythm](https://open.spotify.com/track/6Ebi3t0QFFvJlvBGO8UvoA) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi) | [Nikki](https://open.spotify.com/album/2FZvvk2PKLy5CX0MXLZdis) | 3:45 |
 | 6 | [Creep](https://open.spotify.com/track/26qhmNexrOJWTrakmx8ohR) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Vintage Café \- Lounge & Jazz Blends](https://open.spotify.com/album/5dPAnuLyn7AHGV6XIIcY64) | 3:27 |
 | 7 | [Blue Moon](https://open.spotify.com/track/6gNWvUQTgfoiIKzMwKjoQC) | [She Keeps Bees](https://open.spotify.com/artist/1dhUEswrKf1aUf6375EPSx) | [Skb\-007 7" Record](https://open.spotify.com/album/1eBNEBfL7IafkgdjsnddIh) | 2:41 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/5ahhg3aywppGeJs8tXvZOo.md) - [plain]
 | 20 | [Honeysuckle Rose](https://open.spotify.com/track/4LIw2QRvZWvtV48O92yfKu) | [Fats Waller](https://open.spotify.com/artist/0DYWCXTkNqGFZIf67SrWEa), [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Taking A Chance On Love](https://open.spotify.com/album/3SPCafRVqoXgwY3YsofV6W) | 3:37 |
 | 21 | [Come Fly with Me](https://open.spotify.com/track/2Cakl6tRkLxccrnqJdvGpu) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Michael Bublé](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) | 3:18 |
 | 22 | [Over The Rainbow](https://open.spotify.com/track/6ypjX27cjAhmJ36s8TGLBH) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [My One And Only Thrill](https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA) | 4:33 |
-| 23 | [It Don't Mean A Thing \(If It Ain't Got That Swing\)](https://open.spotify.com/track/060xyUBcm6dc9FlxJyfFuu) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Cheek To Cheek](https://open.spotify.com/album/56uP6C9dDe31eLwhpfgIWT) | 2:23 |
+| 23 | [It Don't Mean A Thing \(If It Ain't Got That Swing\)](https://open.spotify.com/track/060xyUBcm6dc9FlxJyfFuu) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Cheek To Cheek](https://open.spotify.com/album/56uP6C9dDe31eLwhpfgIWT) | 0:29 |
 | 24 | [Jeepers Creepers 2.0](https://open.spotify.com/track/2m4HNn5sBSumOmz5jl0vDl) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi) | [Little Secret \(Deluxe\)](https://open.spotify.com/album/6cmxjBCKQgE9OErwsIyhhW) | 2:59 |
 | 25 | [Georgia on My Mind](https://open.spotify.com/track/5BJmdbayrUuwVQK2eK1lr1) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Ryan Innes](https://open.spotify.com/album/66cdLV0Orp9oImywWapV72) | 4:48 |
 

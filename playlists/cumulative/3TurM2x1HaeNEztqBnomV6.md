@@ -4,7 +4,7 @@
 
 > Get through your workday with 8 hours of singer\-songwriter tunes.
 
-123 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/3zhtjDFWRvY6CI0Miu4Cpf)
+123 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/3zhtjDFWRvY6CI0Miu4Cpf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Colorblind](https://open.spotify.com/track/2hnWg1tqSP46SIi5SHVy1E) | [Matt White](https://open.spotify.com/artist/5nrKbDQoztn1qIZAwXvGUq) | [It's The Good Crazy](https://open.spotify.com/album/73IdghD2mqj2gtGiUnuu7U) | 3:39 | 2014-01-07 |  |
 | [Come Around \- Radio Edit](https://open.spotify.com/track/73n156MeV3oPzYq9kd6QXo) | [Rhett Miller](https://open.spotify.com/artist/0wNZd1CMOsFZ0TiBhlqjD5) | [The Instigator](https://open.spotify.com/album/0Pup5rX8QvSNgSBLX7Vu69) | 4:11 | 2014-01-07 |  |
 | [Cost Of Livin'](https://open.spotify.com/track/64SgS8XyiJWFSz3YoMyYcE) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Ronnie Dunn](https://open.spotify.com/album/54ibRJc8g9Un73BcWjIVXa) | 4:10 | 2014-01-07 |  |
-| [Crosses](https://open.spotify.com/track/1JbbrE9YNQM9zlHps3eKGf) | [Stephen Kellogg](https://open.spotify.com/artist/794GTZkztMS29PO7cTOnmY) | [Blunderstone Rookery](https://open.spotify.com/album/1Zj2v74TmKZWu35TiCo7aS) | 3:17 | 2014-01-07 |  |
+| [Crosses](https://open.spotify.com/track/1JbbrE9YNQM9zlHps3eKGf) | [Stephen Kellogg](https://open.spotify.com/artist/794GTZkztMS29PO7cTOnmY) | [Blunderstone Rookery](https://open.spotify.com/album/1Zj2v74TmKZWu35TiCo7aS) | 0:29 | 2014-01-07 |  |
 | [Damn The Rain](https://open.spotify.com/track/0USwNE184PGUd1XQHJMJIB) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Burning The Day](https://open.spotify.com/album/4p6822xC4ni8qkEbLsHCjK) | 3:01 | 2014-01-07 |  |
 | [Daniel](https://open.spotify.com/track/6fiu0zyR5SjpsbLYBtjzwY) | [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [Red](https://open.spotify.com/album/25dxgeksWwVbcbO0CwzfwB) | 3:35 | 2014-01-07 |  |
 | [Darlin' Do Not Fear](https://open.spotify.com/track/6eWj0yCSNi5J20m3W7CqfJ) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [So Much More](https://open.spotify.com/album/6DtYU4r7UWXV6NmnuKty7m) | 5:10 | 2014-01-07 |  |
@@ -47,10 +47,10 @@
 | [Gravity](https://open.spotify.com/track/2O2ce0tnygqGlvwEJRrSmI) | [Shawn McDonald](https://open.spotify.com/artist/0alRw2BasYQZdFSJLfLbIY) | [Double Take \- Shawn McDonald](https://open.spotify.com/album/2mTmx425FmVFQbgJi7hwT5) | 4:09 | 2014-01-07 |  |
 | [Great Escape](https://open.spotify.com/track/5R6JIkJgOoKaF4lwwwq44s) | [Mike Dignam](https://open.spotify.com/artist/6hSOhRdXUftWQ5Zi1JvhVE) | [Paint EP](https://open.spotify.com/album/2hwT8DcmtA6Yu2YeiDFMVG) | 4:07 | 2014-01-07 |  |
 | [Happy as the Sun](https://open.spotify.com/track/1y3inOvjbVkdHOCl9LnACl) | [Tyrone Wells](https://open.spotify.com/artist/5zeCSgiRyezbfLiGOpKAsR) | [Metal & Wood](https://open.spotify.com/album/0dcdC8vKdmAEAl6J24SP7p) | 2:44 | 2014-01-07 |  |
-| [Have It All](https://open.spotify.com/track/04xifNn1IuWnMnDtKXpKno) | [Jeremy Kay](https://open.spotify.com/artist/6HnFfQug60BF0wJPXpusXY) | [Jeremy Kay](https://open.spotify.com/album/0YM1iRw4n2p4GBpxLV7mFq) | 3:50 | 2014-01-07 |  |
+| [Have It All](https://open.spotify.com/track/04xifNn1IuWnMnDtKXpKno) | [Jeremy Kay](https://open.spotify.com/artist/6HnFfQug60BF0wJPXpusXY) | [Jeremy Kay](https://open.spotify.com/album/0YM1iRw4n2p4GBpxLV7mFq) | 0:29 | 2014-01-07 |  |
 | [Heard You Crying](https://open.spotify.com/track/2hMj8iDL2P41tUCAgFNFED) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Wide Awake](https://open.spotify.com/album/65Z3hZGZsiNcpOAT2U0Inn) | 3:50 | 2014-01-07 |  |
 | [Hello](https://open.spotify.com/track/0TWdIoUTRJMbY27VqeHyW7) | [Tristan Prettyman](https://open.spotify.com/artist/49RRjdOtssOA73G9NnVeUM) | [Hello](https://open.spotify.com/album/5Q8brDWn982fSVVDDtIVWg) | 3:25 | 2014-01-07 |  |
-| [Here We Are](https://open.spotify.com/track/2XEWmdLT8yyYlivcEG7JDS) | [Patrick Park](https://open.spotify.com/artist/4I1ZPDoEcZOul26MTXDhNO) | [Everyone's In Everyone](https://open.spotify.com/album/1sRWeQOIRPq8g02K7Jp3WA) | 3:09 | 2014-01-07 |  |
+| [Here We Are](https://open.spotify.com/track/2XEWmdLT8yyYlivcEG7JDS) | [Patrick Park](https://open.spotify.com/artist/4I1ZPDoEcZOul26MTXDhNO) | [Everyone's In Everyone](https://open.spotify.com/album/1sRWeQOIRPq8g02K7Jp3WA) | 0:29 | 2014-01-07 |  |
 | [Hold My Heart](https://open.spotify.com/track/7hH5avUeUDnGMV8j1TR9kb) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Kaleidoscope Heart](https://open.spotify.com/album/52LsxyQb7h9ysCp14ZbE30) | 4:32 | 2014-01-07 |  |
 | [Holding Up the World](https://open.spotify.com/track/6LSlxg7cNMhhCqt6qnbYCs) | [Eamonn McCrystal](https://open.spotify.com/artist/1OuyHZAJB1Yl6GiCMV7LaM) | [When In Nashville...](https://open.spotify.com/album/0Q9ckBP9anhOw2rUzRomwu) | 4:05 | 2014-01-07 |  |
 | [Honey and the Moon \- Radio Edit](https://open.spotify.com/track/7d16rhPpKoUY1TbkK9FVF7) | [Joseph Arthur](https://open.spotify.com/artist/5aD0uh1BpYTN7AzhiSDgaO) | [Honey And The Moon \(Radio Edit DMD\)](https://open.spotify.com/album/5iY3QyuTCN0Zz5Kg9DSDB4) | 3:36 | 2014-01-07 |  |
@@ -97,7 +97,7 @@
 | [Still](https://open.spotify.com/track/3U2RJI4Q1INkYHLw87IGah) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [Some Mad Hope](https://open.spotify.com/album/45A2E1YR00sPSwxJw5d3qu) | 3:51 | 2014-01-07 |  |
 | [Superman](https://open.spotify.com/track/236fBfnp2YrycOoGFtwjbb) | [Joe Brooks](https://open.spotify.com/artist/6Z8D437D8u4IdirS4Jc58d) | [Superman](https://open.spotify.com/album/6RUV6x6HZ7WRdgCxBqRntx) | 3:27 | 2014-01-07 |  |
 | [Suspended](https://open.spotify.com/track/6noUJneEcjyUwfTRG4QdZj) | [Robert & the Carrolls](https://open.spotify.com/artist/30n4YlQPZCYB1zFH8gOkjh) | [Robert & the Carrolls](https://open.spotify.com/album/1vjWPhzstcTKBX0WcP2tgl) | 4:45 | 2014-01-07 |  |
-| [Take Me](https://open.spotify.com/track/6UL4eJm0d9hxxYW8iEl0Y8) | [Shannon LaBrie](https://open.spotify.com/artist/2hbQ7GP1FxLy7D8lRX2Kq7) | [Just Be Honest](https://open.spotify.com/album/7j4eVcpLMIkASPxpjRMoXH) | 3:44 | 2014-01-07 |  |
+| [Take Me](https://open.spotify.com/track/6UL4eJm0d9hxxYW8iEl0Y8) | [Shannon LaBrie](https://open.spotify.com/artist/2hbQ7GP1FxLy7D8lRX2Kq7) | [Just Be Honest](https://open.spotify.com/album/7j4eVcpLMIkASPxpjRMoXH) | 0:29 | 2014-01-07 |  |
 | [Take Me Home](https://open.spotify.com/track/7alumeBmdvq6M64ZtfcthQ) | [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [Before the Storm](https://open.spotify.com/album/6hp2cLN450eObYf6HvOwT9) | 3:55 | 2014-01-07 |  |
 | [Tea & Toast](https://open.spotify.com/track/4494FBU5XHDKLIHWTUVHbO) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Join the Club](https://open.spotify.com/album/1IjbX0w4wI4Pb7G8lu238I) | 4:32 | 2014-01-07 |  |
 | [That Girl](https://open.spotify.com/track/6OyaOUmNEKoqGntDMTybQX) | [David Choi](https://open.spotify.com/artist/5TxL5c1vLglCvxeCrL6oap) | [By My Side](https://open.spotify.com/album/0fT0KiSdIiuA8ttakNaNsS) | 3:51 | 2014-01-07 |  |

@@ -4,7 +4,7 @@
 
 > Rock your workday lyric free with classic rock favorites, meditative heavy metal, and art rock wonders.
 
-42 songs - 3 hr 7 min - [published](https://open.spotify.com/playlist/7qdy6T0g0iRjw7Knk5q5Ba)
+42 songs - 2 hr 58 min - [published](https://open.spotify.com/playlist/7qdy6T0g0iRjw7Knk5q5Ba)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Jessica](https://open.spotify.com/track/0jg2KUI9Qv3lyJilY5gVH0) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Dreams](https://open.spotify.com/album/13LdOq7lBKInZF1WNbBieW) | 7:30 | 2016-02-13 |  |
 | [Journey of the Sorcerer \- 2013 Remaster](https://open.spotify.com/track/3OcBH9Vzd1UwJkQd3r1dVG) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 6:37 | 2016-02-13 |  |
 | [Just Like You Imagined](https://open.spotify.com/track/184ImITRjcX2h1awZ4WVT1) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Fragile](https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8) | 3:49 | 2016-02-13 |  |
-| [La Villa Strangiato](https://open.spotify.com/track/4CyElmiM9EF9aURGWlPZLi) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Hemispheres](https://open.spotify.com/album/2vrM9ltjKIvNg3nkwXoJuc) | 9:34 | 2016-02-13 |  |
+| [La Villa Strangiato](https://open.spotify.com/track/4CyElmiM9EF9aURGWlPZLi) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Hemispheres](https://open.spotify.com/album/2vrM9ltjKIvNg3nkwXoJuc) | 0:29 | 2016-02-13 |  |
 | [Little Wing](https://open.spotify.com/track/5x5AiFD1kix3H3ATtLgAsc) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Greatest Hits](https://open.spotify.com/album/2TuC4ryU5WnreJF2faTpNB) | 6:47 | 2016-02-13 |  |
 | [Miserlou](https://open.spotify.com/track/625T5HOILOVCzGTF6l4FLJ) | [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [Guitar Legend: The Very Best Of Dick Dale](https://open.spotify.com/album/1mGTsvhJFaoSFhb2580Lse) | 2:14 | 2016-02-13 |  |
 | [Moby Dick](https://open.spotify.com/track/0h2gzJQBt6duqZD6kWiz4s) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 4:20 | 2016-02-13 |  |

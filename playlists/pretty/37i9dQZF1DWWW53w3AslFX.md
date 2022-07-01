@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 
 > Från PJ Harvey via Jenny Wilson till Amanda Bergman och Slowgold\. Här hör du några av alla kvinnor som är med och skriver indiehistoria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,076 likes - 90 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,082 likes - 90 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 | 17 | [Till slutet av augusti](https://open.spotify.com/track/5m737LmWodZgXqJak2rJEy) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Till slutet av augusti](https://open.spotify.com/album/3vfpDINRI65m9b9EiiindO) | 3:51 |
 | 18 | [Mustn't Hurry](https://open.spotify.com/track/3uykbW7mjdI2JJnOGZIeap) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Plunge](https://open.spotify.com/album/515apt4YXIptGsf7OVYFeg) | 4:17 |
 | 19 | [Cry](https://open.spotify.com/track/55of3FNGaCpt5scLKZyas3) | [Saga Back](https://open.spotify.com/artist/6FRCzy12LTGeWQs6mKfX3R) | [Cry](https://open.spotify.com/album/0wFkZ4pDDUJg2IiOpYiEjc) | 4:31 |
-| 20 | [bodyache](https://open.spotify.com/track/2DopRU3QWz4CWymUUrKvO4) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [another eternity](https://open.spotify.com/album/4ymjpcGruNuUUUZOeGawLe) | 2:53 |
+| 20 | [bodyache](https://open.spotify.com/track/2DopRU3QWz4CWymUUrKvO4) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [another eternity](https://open.spotify.com/album/4ymjpcGruNuUUUZOeGawLe) | 0:29 |
 | 21 | [SuMmEr BrEaK](https://open.spotify.com/track/5YPXbnXdAtr946FDwoYkF1) | [ShitKid](https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m) | [SuMmEr BrEaK](https://open.spotify.com/album/38usvHB3kUIRCQzQdr0Nj0) | 2:40 |
 | 22 | [Seventeen](https://open.spotify.com/track/7yMYqHqzye8vtyiHqdVlZw) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/2dvXk4nacVRmDSnbKniwrS) | 4:25 |
 | 23 | [Kommer hända](https://open.spotify.com/track/434fDjhJpR9lTPsVeVUCYL) | [Säkert!](https://open.spotify.com/artist/6aNouxfdfQCKjiZG0LJcjx) | [Kommer hända](https://open.spotify.com/album/088wZCNH0tgX5AGQqgj4EN) | 3:02 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 | 33 | [Nameless, Faceless](https://open.spotify.com/track/2AUzpScdGwIZplM9y8nkbx) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Nameless, Faceless](https://open.spotify.com/album/6Zq2H87KhAd6WGfeSxKHAG) | 3:14 |
 | 34 | [Youth](https://open.spotify.com/track/6tqzOYuE3lrNVPDgtF3MjM) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/6E76aabodIl5DW5BTEZPHG) | 4:13 |
 | 35 | [Chasing Shadows](https://open.spotify.com/track/1vr8QWVT3ibyaFdqQxiMwI) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Chasing Shadows](https://open.spotify.com/album/7y6iOcabqDVuQF148KPrg0) | 3:15 |
-| 36 | [End Of Time](https://open.spotify.com/track/1BG5tjofRTxqZOzBDfyFnj) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [End Of Time](https://open.spotify.com/album/4AK73rNJEcr34d8cJ5uH3E) | 3:22 |
+| 36 | [End Of Time](https://open.spotify.com/track/1BG5tjofRTxqZOzBDfyFnj) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [End Of Time](https://open.spotify.com/album/4AK73rNJEcr34d8cJ5uH3E) | 0:29 |
 | 37 | [Don't Talk](https://open.spotify.com/track/3Dse8qKi2lwA0ePF6kb61N) | [Jennie Abrahamson](https://open.spotify.com/artist/6Q6y2vf2DZm7yLWHKQr7Bx) | [Reverseries](https://open.spotify.com/album/188s8GD7RXqz2RcOBReC4b) | 6:39 |
 | 38 | [No Thanks](https://open.spotify.com/track/4ZzFiMS203z53Hb34kJiNE) | [Amanda Tenfjord](https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr) | [No Thanks](https://open.spotify.com/album/4BkNGHFkgvA0j8nfjCPibb) | 3:10 |
 | 39 | [The Longer The Waiting \(The Sweeter The Kiss\)](https://open.spotify.com/track/1ErKzGtRz3WhZgsXsP7RJy) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308), [David Ferguson](https://open.spotify.com/artist/4MHz2XUNNGuttl6Yj9OHeA) | [The Night Visitor](https://open.spotify.com/album/2uRdTrtChn1rvFkDmAtL8N) | 3:49 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 | 47 | [Tvivlar](https://open.spotify.com/track/1DfKtnw4TTGuCZLTq67lW7) | [Donika Nimani](https://open.spotify.com/artist/4zUMIrBhG8wfW5g27vMlfC) | [Tvivlar](https://open.spotify.com/album/7aCYoWMW27LzSVOMRLXCYn) | 3:08 |
 | 48 | [Shadows of Our Past](https://open.spotify.com/track/3F7YNZqMX5jfNaOxlHicFe) | [Firefox AK](https://open.spotify.com/artist/6E6yZfLJy9X62bwXFDlCcw) | [A New Shape](https://open.spotify.com/album/7kULTYllotBzdwvzdyTdyw) | 3:33 |
 | 49 | [Winterman](https://open.spotify.com/track/4yMDOaUXWTw5eoEzZYPpFR) | [Vaz](https://open.spotify.com/artist/6leoird3GiSVlnrFZ1T56H) | [Necessary, Pt\. II](https://open.spotify.com/album/6AVPCXaMjNul5KBLLS4ktr) | 4:16 |
-| 50 | [Silvana](https://open.spotify.com/track/6O2N7tE7ivFrpyx4QNbdMS) | [F.N.Y](https://open.spotify.com/artist/04yNJEB7tEAEie8UWjzTAI) | [Silvana](https://open.spotify.com/album/4XjErE5yed7xjgfCwZcezm) | 3:28 |
-| 51 | [Shut Up Kiss Me](https://open.spotify.com/track/5uZLsGY9fknBd5Rxr7AIss) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [MY WOMAN](https://open.spotify.com/album/5M8xQaQZuW2LZGVXZ3mlKN) | 3:22 |
+| 50 | [Silvana](https://open.spotify.com/track/6O2N7tE7ivFrpyx4QNbdMS) | [F.N.Y](https://open.spotify.com/artist/04yNJEB7tEAEie8UWjzTAI) | [Silvana](https://open.spotify.com/album/4XjErE5yed7xjgfCwZcezm) | 0:29 |
+| 51 | [Shut Up Kiss Me](https://open.spotify.com/track/5uZLsGY9fknBd5Rxr7AIss) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [MY WOMAN](https://open.spotify.com/album/5M8xQaQZuW2LZGVXZ3mlKN) | 0:29 |
 | 52 | [Mouth to Mouth](https://open.spotify.com/track/5KxKFdP10B76t6R2JGiLuG) | [Sophia Somajo](https://open.spotify.com/artist/5T8zbK3dic52T9bFu0aY8z) | [Mouth to Mouth](https://open.spotify.com/album/6M6ZXKXa6cbrdLJkgJudTY) | 3:29 |
 | 53 | [Mind](https://open.spotify.com/track/25416pGgEeDoBm9qNGhuFw) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Love In The Milky Way](https://open.spotify.com/album/5eIpGFFgN0NpzsgqLBwrsx) | 4:10 |
 | 54 | [Demands](https://open.spotify.com/track/0o3CUHx38Z22LRYTYf5aPO) | [Makthaverskan](https://open.spotify.com/artist/57MIstrTi3Sw9J9yJybN0E) | [Demands](https://open.spotify.com/album/6jW0ajGzlKJOLIRtIl4q5h) | 2:59 |

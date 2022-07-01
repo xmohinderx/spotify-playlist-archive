@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Alok
 
-[Spotify](https://open.spotify.com/user/spotify) - 668,857 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 668,952 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Club Is Jumpin'](https://open.spotify.com/track/15OcbcAnu8RH7viF0vZw71) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [The Club Is Jumpin'](https://open.spotify.com/album/3OQLs0bSQczbwbNqm89T9T) | 2:15 |
 | 2 | [Domino \(feat\. Oxia\)](https://open.spotify.com/track/1TepyN2GXukyc6wo3kTFMO) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Oxia](https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK) | [Domino \(feat\. Oxia\)](https://open.spotify.com/album/0pth5KWHb0y7nvYqLp9Mzl) | 2:38 |
-| 3 | [Take Over](https://open.spotify.com/track/4Q3iraOig7nyrRoNz1mNKc) | [Devochka](https://open.spotify.com/artist/02xYwCW4WypA3nRQv6qEcX), [REDÜKT](https://open.spotify.com/artist/0Km0b0FjBqTqx2qkyrUHlH) | [Take Over](https://open.spotify.com/album/6Xd8V1pQiniYTlwldeYTr2) | 2:57 |
+| 3 | [Take Over](https://open.spotify.com/track/4Q3iraOig7nyrRoNz1mNKc) | [Devochka](https://open.spotify.com/artist/02xYwCW4WypA3nRQv6qEcX), [REDÜKT](https://open.spotify.com/artist/0Km0b0FjBqTqx2qkyrUHlH) | [Take Over](https://open.spotify.com/album/6Xd8V1pQiniYTlwldeYTr2) | 0:29 |
 | 4 | [ARPT](https://open.spotify.com/track/3obLSyxtsr0R5hGISMPwFd) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [ARPT](https://open.spotify.com/album/1nEOMBQLIp1YgBR3i9eyJP) | 3:15 |
-| 5 | [Haters](https://open.spotify.com/track/1g4a73fKAi2cZJiCXdVZl2) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Haters](https://open.spotify.com/album/0zw51vWfDGCqI2LbRAACOP) | 2:25 |
+| 5 | [Haters](https://open.spotify.com/track/1g4a73fKAi2cZJiCXdVZl2) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Haters](https://open.spotify.com/album/0zw51vWfDGCqI2LbRAACOP) | 0:29 |
 | 6 | [Ain't No Sunshine \(feat\. Jasmine Pace\)](https://open.spotify.com/track/3jKE64Lzp4fn9ZD28Z1dBc) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Jasmine Pace](https://open.spotify.com/artist/2URbjDB65sEN3MPX3e5tCy) | [Ain't No Sunshine \(feat\. Jasmine Pace\)](https://open.spotify.com/album/6EoWcArWFprS0ORf4oixfd) | 2:47 |
 | 7 | [Move Your Body](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body](https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL) | 2:37 |
 | 8 | [This Feeling](https://open.spotify.com/track/3hQpBuFdNnFM38NjTeg0XQ) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [This Feeling](https://open.spotify.com/album/5H39x8Yael0buJaEmmK7Xe) | 3:16 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 15 | [Clap Your Hands](https://open.spotify.com/track/1OoSh6HU59Am9V7uZkt9xc) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV) | [Clap Your Hands](https://open.spotify.com/album/6YBmROG6hXhDUpOfS3nYpJ) | 3:21 |
 | 16 | [Come With Me](https://open.spotify.com/track/2Ho4XR2Hmtf3y9lNO5w04b) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [Come With Me](https://open.spotify.com/album/290BpL6mrDRNMUCEACrPeC) | 2:08 |
 | 17 | [Delusional](https://open.spotify.com/track/1thWqWBc3uujDYspY1XxcL) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Rhōden](https://open.spotify.com/artist/0tMqOIq4kYn7jXmzL1fRss), [Lauren Nicole](https://open.spotify.com/artist/372yikzGlwhP86LfFwZqrX) | [Delusional](https://open.spotify.com/album/2JpeFmcaX5PZKTpDQ3Yvjb) | 3:23 |
-| 18 | [Stay](https://open.spotify.com/track/6syunUw85BZjNmMFAXQgL7) | [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj) | [Stay](https://open.spotify.com/album/0AZKItvBz3FYt5N4PykMmc) | 3:11 |
+| 18 | [Stay](https://open.spotify.com/track/6syunUw85BZjNmMFAXQgL7) | [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj) | [Stay](https://open.spotify.com/album/0AZKItvBz3FYt5N4PykMmc) | 0:29 |
 | 19 | [Bring Me To Life](https://open.spotify.com/track/7y10NhdvokswimTGeYyZ98) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [David Hodges](https://open.spotify.com/artist/7fRabwYwLBgvOudI9GY2Op) | [Bring Me To Life](https://open.spotify.com/album/2yiCoX8tk9OiarK38AmVvT) | 2:21 |
 | 20 | [Worst Enemy](https://open.spotify.com/track/3N3H2fNepRQVf71lnWqJ8I) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [Worst Enemy](https://open.spotify.com/album/4rhbowsSXfV2wH3vRau1RQ) | 2:44 |
 | 21 | [Cancún](https://open.spotify.com/track/2eLzS75uEe5NFXIWOhuoqy) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Lamic](https://open.spotify.com/artist/0kZghiFuW2mfJKbObHkwmA) | [Cancún](https://open.spotify.com/album/0wpYHCnXB6DjAtHODHQdj0) | 2:48 |

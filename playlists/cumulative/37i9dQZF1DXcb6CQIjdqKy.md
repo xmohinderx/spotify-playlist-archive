@@ -4,7 +4,7 @@
 
 > The best mix of today's Christian music, all genres, worldwide\.  Cover:  Katy Nichole
 
-275 songs - 19 hr 0 min - [published](https://open.spotify.com/playlist/3IGSOKftgGE885pvp0BADM)
+275 songs - 18 hr 56 min - [published](https://open.spotify.com/playlist/3IGSOKftgGE885pvp0BADM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [How Far](https://open.spotify.com/track/1gIFVl1aHTD5A3TPKtOTVC) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy) | 3:07 | 2022-05-20 |  |
 | [How Great \(Single Mix\)](https://open.spotify.com/track/0tpIBH9ycxYugBonIfWu1b) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Worship EP](https://open.spotify.com/album/77ccastPsMW1B90lFVV4vZ) | 3:41 | 2021-12-17 | 2022-01-22 |
 | [How You Love Me](https://open.spotify.com/track/0gsuWWKdj8JjXEto69wKsd) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo) | [Holy Spirit Come](https://open.spotify.com/album/1J2AR6hhW7PM7rbJk4O3Xq) | 4:03 | 2021-12-17 | 2022-06-11 |
-| [Hymn Of Heaven](https://open.spotify.com/track/6UwxHDz7vGUhbDSevNUUcj) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 4:27 | 2022-04-08 |  |
+| [Hymn Of Heaven](https://open.spotify.com/track/6UwxHDz7vGUhbDSevNUUcj) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 0:29 | 2022-04-08 |  |
 | [I Am Yours](https://open.spotify.com/track/5nUzRHDvRYqRcOlVWg67Di) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Into The Mystery](https://open.spotify.com/album/2vDmR7Be0zQwcxDnHAqe5X) | 4:36 | 2021-12-17 | 2022-03-12 |
 | [I Believe It Now](https://open.spotify.com/track/1tfjjxTZZhNeiAAsgWtlNe) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U), [Olivia Lane](https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6) | [I Believe It Now](https://open.spotify.com/album/4jiACLAncMZpfDbGuMkYkk) | 3:48 | 2022-02-18 |  |
 | [I Cry Jesus](https://open.spotify.com/track/0FOa9XhfjDffuC270lfFOG) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [I Cry Jesus](https://open.spotify.com/album/4oaP3NFBWzVfEBlOGm05xo) | 3:38 | 2022-05-06 |  |

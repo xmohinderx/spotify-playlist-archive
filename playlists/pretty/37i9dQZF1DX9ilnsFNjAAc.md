@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ilnsFNjAAc.md) - [plain]
 
 > Raw dance beats pushing club culture forwards\. Cover: Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,778 likes - 60 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,798 likes - 60 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ilnsFNjAAc.md) - [plain]
 | 10 | [Silkworm](https://open.spotify.com/track/4OnN0jEOJW4VVF4nvqvkAP) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Silkworm](https://open.spotify.com/album/3kmokPfbCakHuInhmWz1xp) | 5:25 |
 | 11 | [Foh](https://open.spotify.com/track/4FczDsZj8slwpppLz33rwA) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7) | [Drmtrk V](https://open.spotify.com/album/7Mh14BVjlgZJI7dGETrIdJ) | 4:06 |
 | 12 | [NOBODY](https://open.spotify.com/track/7H06sYnrGsMbWzAR377J8s) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [NOBODY](https://open.spotify.com/album/4Ukx5wyPQ367NvdLtQSkCp) | 1:56 |
-| 13 | [BAWDY](https://open.spotify.com/track/1bMG9DKuMJhdwTSTtphTDC) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [ALIAS](https://open.spotify.com/album/3lpcZOAsYJzvPepNSbzMSb) | 2:34 |
+| 13 | [BAWDY](https://open.spotify.com/track/1bMG9DKuMJhdwTSTtphTDC) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [ALIAS](https://open.spotify.com/album/3lpcZOAsYJzvPepNSbzMSb) | 0:29 |
 | 14 | [Familiars](https://open.spotify.com/track/71Rqoaw0XNXGUJ3cNiQmmV) | [Silk Road Assassins](https://open.spotify.com/artist/3Bwlxe7rFmvWcEkAnA6FRZ) | [State Of Ruin](https://open.spotify.com/album/6jqSLWomRrdEf3bcMelZlE) | 2:54 |
 | 15 | [Jinn](https://open.spotify.com/track/1eu1i0zc9KNa7GOzoFl7It) | [TSVI](https://open.spotify.com/artist/0uea1sBqx37JwQznLWxqeE) | [Inner Worlds](https://open.spotify.com/album/4DN13fYd1TQpeUkLQa4pVR) | 5:23 |
 | 16 | [Dollaz](https://open.spotify.com/track/3xYQWpjVadKo8ybW0orIHL) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3) | [First Body](https://open.spotify.com/album/2DGdiYDV8l74b53vUiW3K2) | 3:13 |

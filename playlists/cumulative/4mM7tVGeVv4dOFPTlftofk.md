@@ -4,7 +4,7 @@
 
 > Getaway Rock Festival är efter två år etablerad som en av Sveriges bästa och viktigaste rockfestivaler\. Sommarens upplaga arrangeras 5 \- 7 juli i Gävle\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
-71 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/5b8xktnPcYlD3T8klRtzd5)
+71 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/5b8xktnPcYlD3T8klRtzd5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Let It Ride](https://open.spotify.com/track/6EDfUsKeu0WWmbhscotD2e) | [Triggerfinger](https://open.spotify.com/artist/3UhIlk54Oe4ja06V962ptU) | [All This Dancin' Around](https://open.spotify.com/album/33Wl8TSxJ4byQwWa45ZRy2) | 3:23 | 2012-05-07 |  |
 | [Lickanthrope](https://open.spotify.com/track/5fXYJfopaT3oUgygBAgYxC) | [Moonspell](https://open.spotify.com/artist/17bYSQ9ZRnreVnJjE5X2x6) | [Alpha Noir \(2\-Track Promo Version\)](https://open.spotify.com/album/3Ks6Bo5d4VBVdAbWxZ0jUq) | 3:49 | 2012-05-07 |  |
 | [Livet är en fest](https://open.spotify.com/track/6FreaWmILQLBGSWjVjHMKc) | [Nationalteatern](https://open.spotify.com/artist/3GBq0lnwXpfnLmMndLDZ6U) | [Livet är en fest \(Bonus Version\)](https://open.spotify.com/album/1qCzGPy4a3l7zi32MQ8URA) | 4:13 | 2012-05-07 |  |
-| [Lonely Train](https://open.spotify.com/track/5lIqY3Yb3bPj5z1tiUIiCJ) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Black Stone Cherry](https://open.spotify.com/album/5XzjYognRznsIgYqmrHkGV) | 3:50 | 2012-05-07 |  |
+| [Lonely Train](https://open.spotify.com/track/5lIqY3Yb3bPj5z1tiUIiCJ) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Black Stone Cherry](https://open.spotify.com/album/5XzjYognRznsIgYqmrHkGV) | 0:29 | 2012-05-07 |  |
 | [Love Like Blood](https://open.spotify.com/track/1zkQJfNo2KpqqCKOOvWPF4) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Laugh? I Nearly Bought One!](https://open.spotify.com/album/0HkrY28rXvdAX5K15W2zdK) | 4:25 | 2012-05-07 |  |
 | [Låt Napalmen Regna](https://open.spotify.com/track/3NY8gd5d0YNhMpd4YzHLdC) | [Raubtier](https://open.spotify.com/artist/3nhhMoWycyLMmZydlwjk5z) | [Låt Napalmen Regna](https://open.spotify.com/album/4AzXDNkmx08eaXHrcpdItc) | 3:26 | 2012-05-07 |  |
 | [Marianas Trench](https://open.spotify.com/track/3lPowVtoNuC6YmX7xg49U1) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Constellations](https://open.spotify.com/album/35ei7VV5LWBHnmFRZtsrP8) | 4:19 | 2012-05-07 |  |
@@ -69,7 +69,7 @@
 | [Temple Of The Red\-Eyed Pigs](https://open.spotify.com/track/2dcE0D4mJ5cWWWsp502DpT) | [Sparzanza](https://open.spotify.com/artist/0TK5REi1e8RBhtp0h9xeCq) | [Temple of the Red\-Eyed Pigs](https://open.spotify.com/album/3jzfOl4z0oBImq8C0h9hAm) | 3:22 | 2012-05-07 |  |
 | [The Art of Partying](https://open.spotify.com/track/1jMjbrmkSZAVvi7iffs06D) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [The Art of Partying](https://open.spotify.com/album/7cU3FZ3u2jgKd5s8hhKJ9h) | 2:03 | 2012-05-07 |  |
 | [The Challenger](https://open.spotify.com/track/0upFklPa6Ufe1f6aBldPd6) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [Sounds Like Hell, Looks Like Heaven](https://open.spotify.com/album/1hyI2Ww6J0KcAA40DSlLOr) | 3:46 | 2012-05-07 |  |
-| [The Crow, The Owl And The Dove](https://open.spotify.com/track/2Be1LsKhxQo1pMSzsWio94) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [The Crow, The Owl And The Dove](https://open.spotify.com/album/6AQUfFDeBnACgYaetHPVtx) | 3:46 | 2012-05-07 |  |
+| [The Crow, The Owl And The Dove](https://open.spotify.com/track/2Be1LsKhxQo1pMSzsWio94) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [The Crow, The Owl And The Dove](https://open.spotify.com/album/6AQUfFDeBnACgYaetHPVtx) | 0:29 | 2012-05-07 |  |
 | [The Demon's Name Is Surveillance](https://open.spotify.com/track/4oYj17LwBGWhifJwwfSEdG) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [Koloss](https://open.spotify.com/album/1WzwZsb0LvVXhngbHjBfd9) | 4:39 | 2012-05-07 |  |
 | [The Mountie](https://open.spotify.com/track/6oVfh3OxCAdxD86IIACCMJ) | [Kings Destroy](https://open.spotify.com/artist/2vDfJFvPss9uWNgVLCmC3x) | [And The Rest Will Surely Perish](https://open.spotify.com/album/4MjmlfYk5nbWQRvh9mAOHz) | 6:33 | 2012-05-07 |  |
 | [Total panik](https://open.spotify.com/track/0r9ziXvLcN56HwWsHtKwL4) | [Lillasyster](https://open.spotify.com/artist/34uGMERnU9XHnmQDnK03Gj) | [3](https://open.spotify.com/album/2TjELkmo2W7yEmJGZbv7sR) | 4:22 | 2012-05-07 |  |

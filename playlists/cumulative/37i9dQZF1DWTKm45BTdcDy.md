@@ -4,7 +4,7 @@
 
 > Check out these young 'uns singing your favorite country tunes!
 
-46 songs - 2 hr 26 min - [published](https://open.spotify.com/playlist/17XSBBuBkHiAENsqlLcg9C)
+46 songs - 2 hr 23 min - [published](https://open.spotify.com/playlist/17XSBBuBkHiAENsqlLcg9C)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Deep in the Heart of Texas](https://open.spotify.com/track/6LRp5f8pa9E17eRYnBN8Ri) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Kids Sing Country Hits](https://open.spotify.com/album/61a2KVhGHB5TxIynsVO9KQ) | 2:17 | 2022-02-02 |  |
 | [Don't Fence Me In](https://open.spotify.com/track/0Fb26dGih4CeVvRo8SzzWY) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Kids Sing Country Hits](https://open.spotify.com/album/61a2KVhGHB5TxIynsVO9KQ) | 2:58 | 2022-02-02 |  |
 | [Famous](https://open.spotify.com/track/1lasE4yXQmZ5mwWdGQGn8E) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Famous EP](https://open.spotify.com/album/0uwi88sUbCRCvlwYEi6khZ) | 3:12 | 2022-02-02 |  |
-| [Growing Up](https://open.spotify.com/track/2qLlnVfkyIMtkViemtRtYb) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Growing Up](https://open.spotify.com/album/56Y7sj73J1tdMkXgRPSaMX) | 3:34 | 2022-02-02 |  |
+| [Growing Up](https://open.spotify.com/track/2qLlnVfkyIMtkViemtRtYb) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Growing Up](https://open.spotify.com/album/56Y7sj73J1tdMkXgRPSaMX) | 0:29 | 2022-02-02 |  |
 | [Hey Good Lookin'](https://open.spotify.com/track/29SU9RziPQse6ljhr0T1uv) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Kids Sing Country Hits](https://open.spotify.com/album/61a2KVhGHB5TxIynsVO9KQ) | 1:49 | 2022-02-02 |  |
 | [Home On the Range](https://open.spotify.com/track/0bIKiqZhVdqlyoxNtouq1v) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Kids Sing Country Hits](https://open.spotify.com/album/61a2KVhGHB5TxIynsVO9KQ) | 2:54 | 2022-02-02 |  |
 | [I Don't Know What Is](https://open.spotify.com/track/3BklUBGO6YzQTPBTetGvrb) | [Tegan Marie](https://open.spotify.com/artist/3Hb3tbO5BuOLQF6ehZvt4P) | [I Don't Know What Is](https://open.spotify.com/album/71I2oRpDOFdoLDyopWPC7L) | 3:32 | 2022-02-02 |  |

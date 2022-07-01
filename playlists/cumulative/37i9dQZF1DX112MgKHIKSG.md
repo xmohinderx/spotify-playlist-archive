@@ -4,7 +4,7 @@
 
 > Stories from the world of Peppa Pig!
 
-29 songs - 2 hr 20 min - [published](https://open.spotify.com/playlist/2ipshZDU9na0eERMIoB8NL)
+29 songs - 2 hr 8 min - [published](https://open.spotify.com/playlist/2ipshZDU9na0eERMIoB8NL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Move To Music](https://open.spotify.com/track/1cJznZ0QDWB0UU24ZDjHIi) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Move To Music](https://open.spotify.com/album/0KfLX0CKdU6uHic4xyPq0c) | 4:55 | 2021-12-03 |  |
 | [Mr Potato’s Fruit and Vegetable Quiz](https://open.spotify.com/track/7KskEdVJK6i1T1rL0YnmeU) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Mr Potato’s Fruit and Vegetable Quiz](https://open.spotify.com/album/4tPzxulpQr0eD0scth53hR) | 5:02 | 2021-12-03 |  |
 | [Mr\. Bull’s New Road](https://open.spotify.com/track/0GarqL5SGXuARB5gmyJcNz) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Mr\. Bull’s New Road](https://open.spotify.com/album/28F7Qyh5kegevu1NSWPaO7) | 4:40 | 2021-12-03 |  |
-| [Numbers](https://open.spotify.com/track/2GFjGY9lcKkt1CsrQu6MJM) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Numbers](https://open.spotify.com/album/1F5lXNSKE3pXV6KaiEIRae) | 5:04 | 2021-12-03 |  |
+| [Numbers](https://open.spotify.com/track/2GFjGY9lcKkt1CsrQu6MJM) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Numbers](https://open.spotify.com/album/1F5lXNSKE3pXV6KaiEIRae) | 0:29 | 2021-12-03 |  |
 | [Peppa's Diary](https://open.spotify.com/track/5GvBsY9pVnqxNFCEkgbaLx) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Peppa's Diary](https://open.spotify.com/album/2Qbqtrggsk6f48Aejd6Qqn) | 4:58 | 2021-12-03 |  |
 | [Pirate Treasure](https://open.spotify.com/track/5HbS4avLoZIYTVcElQmtmE) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Pirate Treasure](https://open.spotify.com/album/3hfnU4gXOokoXNh9zzesoO) | 5:00 | 2021-12-03 |  |
 | [Please and Thank You](https://open.spotify.com/track/65Pe1SrcTnhMgWKcTnwe6o) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Please and Thank You](https://open.spotify.com/album/5OJ1xJqd0jHQR2Fm2wBaCu) | 5:08 | 2021-12-03 |  |
@@ -34,8 +34,8 @@
 | [Talent Day](https://open.spotify.com/track/2LLlH12XHOZjv9gFA9ibax) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Talent Day](https://open.spotify.com/album/0lJqL5GWW0JF9ptafbhBKC) | 4:40 | 2021-12-03 | 2022-06-17 |
 | [The Diner](https://open.spotify.com/track/65pAgzaSTTz9K92UJ0voMM) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [The Diner](https://open.spotify.com/album/5YwKoIQPdAFUHk4HILFEFj) | 4:51 | 2021-12-03 |  |
 | [The Market](https://open.spotify.com/track/4G2Qswzk6xldWWX5sGQXId) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [The Market](https://open.spotify.com/album/3B8mE99K2j8RAlYXZw4fMg) | 4:51 | 2021-12-03 |  |
-| [The Noisy Night](https://open.spotify.com/track/76fYm2twdIR0V1JWI2pz4b) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [The Noisy Night](https://open.spotify.com/album/1DhGPaGfuzgqfcQ6qBx485) | 4:19 | 2021-12-03 |  |
-| [The Secret Club](https://open.spotify.com/track/3JXfwrh1eukIff5S2q4Wtn) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [The Secret Club](https://open.spotify.com/album/6YAIkMdVO9D3kzEQZmPQ4m) | 4:32 | 2021-12-03 |  |
+| [The Noisy Night](https://open.spotify.com/track/76fYm2twdIR0V1JWI2pz4b) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [The Noisy Night](https://open.spotify.com/album/1DhGPaGfuzgqfcQ6qBx485) | 0:29 | 2021-12-03 |  |
+| [The Secret Club](https://open.spotify.com/track/3JXfwrh1eukIff5S2q4Wtn) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [The Secret Club](https://open.spotify.com/album/6YAIkMdVO9D3kzEQZmPQ4m) | 0:29 | 2021-12-03 |  |
 | [Whistling](https://open.spotify.com/track/3eTV8uv5sxrFvpGMDEwKpb) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Whistling](https://open.spotify.com/album/4mYj1TrcCkA9tzOS2P7Jt5) | 4:51 | 2021-12-03 |  |
 
 \*This playlist was first scraped on 2022-04-19. Prior content cannot be recovered.

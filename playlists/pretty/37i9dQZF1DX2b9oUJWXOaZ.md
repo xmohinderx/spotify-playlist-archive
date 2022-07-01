@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2b9oUJWXOaZ.md) - [plain]
 
 > A playlist celebrating the range of Asian and Pacific Islander talent from your favorite TV shows and movies, brought to you by CAPE \(Coalition of Asian Pacifics in Entertainment\)\. Cover: Auli'i Cravalho
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,041 likes - 52 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,050 likes - 52 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2b9oUJWXOaZ.md) - [plain]
 | 41 | [Square Peg](https://open.spotify.com/track/2JzO1Z2HEmKj3qOksjbTUL) | [Eva Noblezada](https://open.spotify.com/artist/2praUrFAMThqstqmD6faQn) | [Yellow Rose \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5rQupxMfZaIIOlQiIqGdoU) | 4:05 |
 | 42 | [Close 2 U](https://open.spotify.com/track/7rgvhF2a3WjRkRtx2lndyc) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Moonstone EP](https://open.spotify.com/album/0YdgyT5LFI48qP4bo6Rd74) | 3:59 |
 | 43 | [Try With Me](https://open.spotify.com/track/13kWkBG45sSTyJL9fGWO3t) | [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [Killer Love \(Deluxe Edition\)](https://open.spotify.com/album/103CJSreSMtgNGvwOSg3CN) | 3:56 |
-| 44 | [Beautiful Day](https://open.spotify.com/track/3dw3CqTOvingT7L2oxIIIJ) | [Ho'onu'a](https://open.spotify.com/artist/7fNv44w4jZllwDLtLMxvup) | [Take You to the Jam](https://open.spotify.com/album/2zS3xNd3uff1A5p5p14B8J) | 3:36 |
+| 44 | [Beautiful Day](https://open.spotify.com/track/3dw3CqTOvingT7L2oxIIIJ) | [Ho'onu'a](https://open.spotify.com/artist/7fNv44w4jZllwDLtLMxvup) | [Take You to the Jam](https://open.spotify.com/album/2zS3xNd3uff1A5p5p14B8J) | 0:29 |
 | 45 | [Rocket to the Moon \(From the Netflix Film "Over the Moon"\)](https://open.spotify.com/track/7z6wKPYntTIAPLNOZRQq3t) | [Cathy Ang](https://open.spotify.com/artist/3qLXQKIfWi7roh2tmVRjzn) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 3:48 |
 | 46 | [Upside](https://open.spotify.com/track/1eRvvnfpeisIH2JY07equa) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Upside](https://open.spotify.com/album/5huXDLGFyTBjbtYxjilbJ1) | 2:50 |
 | 47 | [Fight For You \- From the Original Motion Picture "Judas and the Black Messiah"](https://open.spotify.com/track/2UJsKjM595pEyWUcd8JEIR) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Judas and the Black Messiah](https://open.spotify.com/artist/33eHnoVi12zOWe8MdqRYsR) | [Fight For You \(From the Original Motion Picture "Judas and the Black Messiah"\)](https://open.spotify.com/album/1K2PS79KFV29pQe7zfyoyP) | 4:30 |
 | 48 | [Boom Clap](https://open.spotify.com/track/0Y1MWB026LYxGvhq4EcMiC) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/5Ws5ktkIUJFpaIImvH3tYU) | 2:49 |
-| 49 | [I Gotta Feeling](https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:49 |
+| 49 | [I Gotta Feeling](https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 0:29 |
 | 50 | [Yellow](https://open.spotify.com/track/3e6PsN3KCWRp6NGKN9F9pA) | [Katherine Ho](https://open.spotify.com/artist/2XjmzdpCTEdJPI2KGwdeHy) | [Crazy Rich Asians \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2wMz3oVNS1bMXaEWY6QWmA) | 4:08 |
 | 51 | [Over the Rainbow](https://open.spotify.com/track/3oQomOPRNQ5NVFUmLJHbAV) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Alone In Iz World](https://open.spotify.com/album/4aM85igbrBcoRZVt7L11Zn) | 3:31 |
 | 52 | [Perfect Day](https://open.spotify.com/track/4pMyfWdA0eo3JY5RqMotbw) | [Hoku](https://open.spotify.com/artist/7ftZLBtMuNBXnnDFKbAblK) | [Perfect Day Single](https://open.spotify.com/album/5puXns5fNjj1XEnbufYHRJ) | 3:28 |

@@ -4,7 +4,7 @@
 
 > The latest in gamer music.
 
-729 songs - 1 day 16 hr 42 min - [published](https://open.spotify.com/playlist/2JpGV57sJHq5GKNwF0vuUD)
+729 songs - 1 day 16 hr 36 min - [published](https://open.spotify.com/playlist/2JpGV57sJHq5GKNwF0vuUD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -490,7 +490,7 @@
 | [Phone Numbers](https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Phone Numbers](https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT) | 2:26 | 2021-05-24 | 2022-02-08 |
 | [Photograph](https://open.spotify.com/track/6ut2gx43omNE2zchw86KSt) | [ill Nicky](https://open.spotify.com/artist/6NVUzbf5gy1bg5A4diGkqm), [Jared Anthony](https://open.spotify.com/artist/5jojdq6ltCT6cbv6WpKikI), [Cheeba Hawk](https://open.spotify.com/artist/6iIPyGOPCXoVpAuaq2ktBs), [BangerOfTheDay](https://open.spotify.com/artist/2eAs72bbxVWJpvHnwvDBJT) | [Photograph](https://open.spotify.com/album/2mKklgYnPY6d79RR4mvJrQ) | 3:06 | 2021-03-26 | 2021-12-11 |
 | [piccolo](https://open.spotify.com/track/5sG5EZKp6PoT7RnGEjjmUz) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [piccolo](https://open.spotify.com/album/6CawCRs087xs45bGR0Wz8K) | 2:00 | 2022-05-27 |  |
-| [Playground \(from the series Arcane League of Legends\)](https://open.spotify.com/track/5S09u7HLG7mNfkchjnc5uz) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/1hQaM7OHSXpXcNK7qExkW5) | 3:50 | 2021-11-07 |  |
+| [Playground \(from the series Arcane League of Legends\)](https://open.spotify.com/track/5S09u7HLG7mNfkchjnc5uz) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/1hQaM7OHSXpXcNK7qExkW5) | 0:29 | 2021-11-07 |  |
 | [Pockets](https://open.spotify.com/track/3minGt3vPFVTiobgjlh5on) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [Pockets](https://open.spotify.com/album/6eeltaNPXL42s8Y9zc3eYy) | 3:28 | 2021-05-27 | 2021-12-11 |
 | [Pogo](https://open.spotify.com/track/1lt7cGXUVit8XYPO7rTvsa) | [AREA21](https://open.spotify.com/artist/76YIoWHp3Ri3q1ocOPtFzp) | [Greatest Hits Vol\. 1](https://open.spotify.com/album/30WNa86MJsrzTlki1YHI6A) | 2:55 | 2022-04-20 |  |
 | [Pomegranate Lips](https://open.spotify.com/track/1mKuKTxekhyhbW1axz6lb2) | [Derivakat](https://open.spotify.com/artist/4T7KICeQg50AwFzauMCR9C) | [Pomegranate Lips](https://open.spotify.com/album/1CuRyhhGUWNEZCUHlQRyUi) | 2:39 | 2022-05-11 |  |
@@ -667,7 +667,7 @@
 | [Tonight](https://open.spotify.com/track/4mxX3vLu6bfhwKn3vnG53Q) | [Magic Man](https://open.spotify.com/artist/6ejhZKxWJr9apHAzj74DHv) | [Before the Waves](https://open.spotify.com/album/1UBdVrk0aaya4VX1r0r3Un) | 3:37 | 2021-03-17 | 2021-03-22 |
 | [Too Soon!](https://open.spotify.com/track/4wY3UagoZnVGTA91lHxlZQ) | [Kooma](https://open.spotify.com/artist/2OQpMQGdpN1kb9vf7Sn9Em), [Joey Nato](https://open.spotify.com/artist/5JyLnz21v6WXqKvXfTBJBT) | [Too Soon!](https://open.spotify.com/album/0IO4Ikvq89gnxEvp5vrK1h) | 2:49 | 2021-05-25 | 2021-12-11 |
 | [Top](https://open.spotify.com/track/6MuzfMTEMItnHbwdQSeXes) | [HDBeenDope](https://open.spotify.com/artist/7nE3HHVn8oM8s3kA6cbL8O) | [Top](https://open.spotify.com/album/2we251EwVMdZR4Am2Bv3TT) | 2:45 | 2021-03-14 | 2021-09-30 |
-| [Total Insecurity \(FNAF Security Breach\)](https://open.spotify.com/track/1Jw6U7RwZPIVTB3nqTIPbJ) | [Rockit Music](https://open.spotify.com/artist/0pPN4tp51uXAhkDux1Mmn4) | [Total Insecurity \(FNAF Security Breach\)](https://open.spotify.com/album/2H0OkIVu19oADjkyuHbKf0) | 3:28 | 2022-01-21 |  |
+| [Total Insecurity \(FNAF Security Breach\)](https://open.spotify.com/track/1Jw6U7RwZPIVTB3nqTIPbJ) | [Rockit Music](https://open.spotify.com/artist/0pPN4tp51uXAhkDux1Mmn4) | [Total Insecurity \(FNAF Security Breach\)](https://open.spotify.com/album/2H0OkIVu19oADjkyuHbKf0) | 0:29 | 2022-01-21 |  |
 | [Totally](https://open.spotify.com/track/0VzmboMWQmJsFRLN4kNAX5) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [It Won't Always Be Like This](https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu) | 3:56 | 2021-10-10 | 2021-12-11 |
 | [Touch](https://open.spotify.com/track/1fU4UBvocdQV0Elwd4XUm3) | [Mere Raj](https://open.spotify.com/artist/6RnS0Didmf0hdDnCC1Mwam) | [Touch](https://open.spotify.com/album/1ixdVPstLbzmU4lErQaxTK) | 2:51 | 2021-03-26 | 2022-02-24 |
 | [Toy](https://open.spotify.com/track/0HFGaYOqmm7S2yIgR7WLYc) | [Zachary Jordan](https://open.spotify.com/artist/6HVO28VMvdDQ4NjHs9Kq5X) | [Toy](https://open.spotify.com/album/2OI3J2Nx0M73PgiIzwkCiw) | 1:42 | 2021-03-28 | 2021-03-29 |

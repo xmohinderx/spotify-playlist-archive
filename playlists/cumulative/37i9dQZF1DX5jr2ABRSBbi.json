@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u017deny v pln\u00e9 s\u00edle. Poslouchej EQUAL CZ&SK. Cover: Tea Sofia",
+  "description": "\u017deny v pln\u00e9 s\u00edle. Poslouchej EQUAL CZ&SK. Cover: Sima",
   "name": "EQUAL CZ&SK",
   "published_playlist_ids": [
     "0SBZE5WqIPIEhAB3YQXr14"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 220826,
       "name": "10 Oceans",
       "url": "https://open.spotify.com/track/5FUGMqXyZIv2t06I2R7GJl"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 158403,
       "name": "Babi\u010dka",
       "url": "https://open.spotify.com/track/6brcN6QHs2PJTbXNbKZ92H"
@@ -463,10 +463,28 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 173454,
       "name": "Gentle",
       "url": "https://open.spotify.com/track/3Ct7xzXkaaS36XX2BuoSJh"
+    },
+    {
+      "album": {
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/0Umz5EHGYbWocsZLwVx7TO"
+      },
+      "artists": [
+        {
+          "name": "Fejbs",
+          "url": "https://open.spotify.com/artist/0LviqijMvqJfXDI6xJFXxm"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/3Sm5jkH3G1FMKiLMa5QKwv"
     },
     {
       "album": {
@@ -481,7 +499,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 158610,
       "name": "Hey Pretty Girl",
       "url": "https://open.spotify.com/track/6j88qCaGXIGKfO4npS3Zjd"
@@ -651,7 +669,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 168333,
       "name": "Jant\u00e1r",
       "url": "https://open.spotify.com/track/6jtCo1ziArPzJEtxsNSRDq"
@@ -727,7 +745,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 191094,
       "name": "Just Another Dream",
       "url": "https://open.spotify.com/track/39oWADXTHbyBXMaB9eQ1Uv"
@@ -848,7 +866,7 @@
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 205555,
+      "duration_ms": 29048,
       "name": "Lampiony",
       "url": "https://open.spotify.com/track/4wXqxa0NBj9pAt6Z9dbxae"
     },
@@ -909,6 +927,24 @@
       "duration_ms": 169454,
       "name": "Lithium",
       "url": "https://open.spotify.com/track/7ziz6Iu5msY4wCZMM2Wqr3"
+    },
+    {
+      "album": {
+        "name": "live. laugh. cry",
+        "url": "https://open.spotify.com/album/48qPWuZEfqbinvMRdfBKON"
+      },
+      "artists": [
+        {
+          "name": "Lenny",
+          "url": "https://open.spotify.com/artist/2KRtorIOtz60uFtab8N89y"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "live. laugh. cry",
+      "url": "https://open.spotify.com/track/6f7mhbSq9pW2jzoVWgphh5"
     },
     {
       "album": {
@@ -1060,6 +1096,24 @@
     },
     {
       "album": {
+        "name": "My Roots Go Deep",
+        "url": "https://open.spotify.com/album/0lK7xRv84yiVsuNagjUTkI"
+      },
+      "artists": [
+        {
+          "name": "Mark\u00e9ta Irglov\u00e1",
+          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307396,
+      "name": "My Roots Go Deep",
+      "url": "https://open.spotify.com/track/2tnXAYSW49qWmlN52Y3Czj"
+    },
+    {
+      "album": {
         "name": "M\u011bsto",
         "url": "https://open.spotify.com/album/1FIPMrGVTEMZY0UPN81oPN"
       },
@@ -1111,7 +1165,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 148651,
       "name": "Nie sme triezvy",
       "url": "https://open.spotify.com/track/0S2hh9GRIl6SmJfe24aCrs"
@@ -1191,6 +1245,24 @@
       "duration_ms": 163636,
       "name": "No\u010dn\u00ed nebe",
       "url": "https://open.spotify.com/track/6MhmF5c2ZAaN1Mlfnbh4Ka"
+    },
+    {
+      "album": {
+        "name": "O Tob\u011b i o mn\u011b",
+        "url": "https://open.spotify.com/album/3UhMueV8N3EVKqYVw9fOG4"
+      },
+      "artists": [
+        {
+          "name": "Anna K.",
+          "url": "https://open.spotify.com/artist/5OCpdoaMu02P7pJABqhsfS"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225275,
+      "name": "O Tob\u011b i o mn\u011b",
+      "url": "https://open.spotify.com/track/3MZNFHa1USLh0XKQmKvsEN"
     },
     {
       "album": {
@@ -1281,7 +1353,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 236017,
       "name": "Patience",
       "url": "https://open.spotify.com/track/4dRuSzS3c1bYWaqEnuiItC"
@@ -1378,6 +1450,24 @@
     },
     {
       "album": {
+        "name": "Private Poison",
+        "url": "https://open.spotify.com/album/5c4WLdjVqpx67TwUQxB9V5"
+      },
+      "artists": [
+        {
+          "name": "Arleta",
+          "url": "https://open.spotify.com/artist/5fBvlOLDUZQ5vAntpqpZ3J"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169912,
+      "name": "Private Poison",
+      "url": "https://open.spotify.com/track/5rRL6bqYWSzAp3meHMxUl6"
+    },
+    {
+      "album": {
         "name": "SelfSabotage",
         "url": "https://open.spotify.com/album/5CwBDrBH5Q3hBnCcIhiiRK"
       },
@@ -1432,6 +1522,24 @@
     },
     {
       "album": {
+        "name": "Right Place Wrong Guy",
+        "url": "https://open.spotify.com/album/4Kun5hAcBGWT4uQsDcn9tT"
+      },
+      "artists": [
+        {
+          "name": "Nykki",
+          "url": "https://open.spotify.com/artist/4tr3FhDOdmSORCDrH6Q4CX"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196208,
+      "name": "Right Place Wrong Guy",
+      "url": "https://open.spotify.com/track/00YbUbfTzwBOnnmvD8rp9p"
+    },
+    {
+      "album": {
         "name": "Ri\u0165",
         "url": "https://open.spotify.com/album/6sTXyVWd5op4bDeWiXhn0K"
       },
@@ -1465,7 +1573,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 149294,
       "name": "Roztomil\u00e1 Holka",
       "url": "https://open.spotify.com/track/3I2lMpY9rwDQD9mHtWuqk0"
@@ -1621,7 +1729,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 338079,
       "name": "Slow",
       "url": "https://open.spotify.com/track/73hWEDICEG0qtXFt8tvHYq"
@@ -1643,6 +1751,68 @@
       "duration_ms": 166268,
       "name": "Slow Burn",
       "url": "https://open.spotify.com/track/5EpD11MggncJ9ktRIpfEp4"
+    },
+    {
+      "album": {
+        "name": "Someone Else to Blame",
+        "url": "https://open.spotify.com/album/4wn7dbxKpYBq5SAjvgVStQ"
+      },
+      "artists": [
+        {
+          "name": "Kaya",
+          "url": "https://open.spotify.com/artist/2zzGa3s9F0bQ7Tp4YDcweH"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183541,
+      "name": "Someone Else to Blame",
+      "url": "https://open.spotify.com/track/5uz5fCKAkCZdv8eGcMNMIh"
+    },
+    {
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/5L4CSWnXl08ehI51nWaaTa"
+      },
+      "artists": [
+        {
+          "name": "Veronika Strapkov\u00e1",
+          "url": "https://open.spotify.com/artist/4I1G4UfWfY0WC2vsOF3XYa"
+        },
+        {
+          "name": "Milan Lieskovsky",
+          "url": "https://open.spotify.com/artist/6nfvEuOz5pg2iTT7xsybD4"
+        },
+        {
+          "name": "Eddie Sender",
+          "url": "https://open.spotify.com/artist/09vHz266dR5oAQkp99hhEt"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150349,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/2NiY72C2sPCYwWM9Ewxj6D"
+    },
+    {
+      "album": {
+        "name": "stuck in the cloud",
+        "url": "https://open.spotify.com/album/2uT7r7OByzixVROAuDH6Ex"
+      },
+      "artists": [
+        {
+          "name": "Pam Rabbit",
+          "url": "https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167974,
+      "name": "stuck in the cloud",
+      "url": "https://open.spotify.com/track/3bvzNtR80zFbbVCFjyXt7Y"
     },
     {
       "album": {
@@ -1874,6 +2044,24 @@
     },
     {
       "album": {
+        "name": "Ver\u00edm",
+        "url": "https://open.spotify.com/album/0SZQhC66vnT1mI56oQDatX"
+      },
+      "artists": [
+        {
+          "name": "Katarina Knechtova",
+          "url": "https://open.spotify.com/artist/0z3P3pZfNH9PP0pMwVkSwh"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198482,
+      "name": "Ver\u00edm",
+      "url": "https://open.spotify.com/track/4wVBzqaWU4apXIpQPtV761"
+    },
+    {
+      "album": {
         "name": "gone, gone",
         "url": "https://open.spotify.com/album/6WfmAfWuwNS1OyLsnJy6tf"
       },
@@ -1986,6 +2174,24 @@
     },
     {
       "album": {
+        "name": "you make me miserable",
+        "url": "https://open.spotify.com/album/1AQmAHENyNC8wcz5qXwxsY"
+      },
+      "artists": [
+        {
+          "name": "Karin Ann",
+          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "you make me miserable",
+      "url": "https://open.spotify.com/track/77mZIYNx234Fytm9V9FzUB"
+    },
+    {
+      "album": {
         "name": "Z dver\u00ed do dver\u00ed",
         "url": "https://open.spotify.com/album/3YQQVE5fSKrCvhr5B5cd4y"
       },
@@ -2051,7 +2257,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 147840,
       "name": "Zkraceno v p\u0159ekladu",
       "url": "https://open.spotify.com/track/3RiYzSJtBvepIaG2kPp7w7"

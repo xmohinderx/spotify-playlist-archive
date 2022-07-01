@@ -4,7 +4,7 @@
 
 > Digging deep into the history of 00s Metal\. Maybe rediscover old favorites?
 
-150 songs - 10 hr 55 min - [published](https://open.spotify.com/playlist/2qqqacNQkdIoxW5OswERI2)
+150 songs - 10 hr 47 min - [published](https://open.spotify.com/playlist/2qqqacNQkdIoxW5OswERI2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [99](https://open.spotify.com/track/5otXJIeiF43SPz7R7ov8GX) | [The Haunted](https://open.spotify.com/artist/2WLmgv66Uq4vt2i36vwkAq) | [rEVOLVEr \(Deluxe Edition\)](https://open.spotify.com/album/4i4PTPhqv08GiiEgQPdnZ0) | 3:58 | 2021-08-23 |  |
 | [A Dying God Coming into Human Flesh](https://open.spotify.com/track/4BspUUse4sw1i8YYKA8oSD) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [Monotheist](https://open.spotify.com/album/3Jyy0CkiG9OkGDxQQGhMgy) | 5:39 | 2021-08-23 |  |
 | [Alcohaulin' Ass](https://open.spotify.com/track/1OXzwmEPLq7cR6J6sbcLto) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [HELLYEAH](https://open.spotify.com/album/2aUYb3rhe78BvvUdyJuIh8) | 3:54 | 2021-08-23 |  |
-| [American Witch](https://open.spotify.com/track/3ZDnQ5UGuPvRBfUUmTmwEC) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Educated Horses](https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY) | 3:47 | 2021-08-23 |  |
+| [American Witch](https://open.spotify.com/track/3ZDnQ5UGuPvRBfUUmTmwEC) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Educated Horses](https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY) | 0:29 | 2021-08-23 |  |
 | [Anubis](https://open.spotify.com/track/2RMG3QSgPaSaQPHRODEj2F) | [Septicflesh](https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b) | [Communion](https://open.spotify.com/album/3akaVUNkh1appQhWYkqoAn) | 4:17 | 2021-08-23 |  |
 | [As I Am](https://open.spotify.com/track/6hz6lrQtLcxOOjflnYjF9o) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Train of Thought](https://open.spotify.com/album/1yAbzShRcY4muLKsX8UWxj) | 7:47 | 2021-08-23 |  |
 | [Battery](https://open.spotify.com/track/41qtH15yLXrhzzP2Dx9Vcm) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Blackening](https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI) | 5:04 | 2021-08-23 |  |
@@ -65,7 +65,7 @@
 | [Ich tu dir weh](https://open.spotify.com/track/7ritPWOWvsthxFDxOz1OjH) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da \(Special Edition\)](https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa) | 5:01 | 2021-08-23 |  |
 | [In the Name of Tragedy](https://open.spotify.com/track/1DhCdQMyNLklKGxBheRFxL) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Inferno](https://open.spotify.com/album/7jGmwdQeJQ7kZ8LN7uN4lD) | 3:03 | 2021-08-23 |  |
 | [In Your Face](https://open.spotify.com/track/2KvCLvH4Z749CQOgGSDKpl) | [Children Of Bodom](https://open.spotify.com/artist/1xUhNgw4eJDZfvumIpcz1B) | [Are You Dead Yet?](https://open.spotify.com/album/4JtmC1dly1OaggJbhdYAyZ) | 4:15 | 2021-08-23 |  |
-| [In Your Words](https://open.spotify.com/track/0ySuAMumI22t37FyJWdDCc) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/370Zx9kJojWrqUBrpEBRuW) | 5:24 | 2021-08-23 |  |
+| [In Your Words](https://open.spotify.com/track/0ySuAMumI22t37FyJWdDCc) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/370Zx9kJojWrqUBrpEBRuW) | 0:29 | 2021-08-23 |  |
 | [Inflikted](https://open.spotify.com/track/3bSnE01X7tezLVR8ppZjvB) | [Cavalera Conspiracy](https://open.spotify.com/artist/7F1K4WlMshx23V2TTz4KwV) | [Inflikted \(Special Edition\)](https://open.spotify.com/album/31oNLlWfqsJXymEbO50ERq) | 4:32 | 2021-08-23 |  |
 | [Inis Mona](https://open.spotify.com/track/1KmeyQfVjX1odybN9aEfWt) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [Slania](https://open.spotify.com/album/4UEyHAjtjEs3JNjR4NyyMJ) | 4:09 | 2021-08-23 |  |
 | [Invisible Wounds \(Dark Bodies\)](https://open.spotify.com/track/1jSrE27r42FFSbVcSHRCkl) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Digimortal \(Special Edition\)](https://open.spotify.com/album/6iOkuGkqZnPvQIxklldLqR) | 3:54 | 2021-08-23 |  |

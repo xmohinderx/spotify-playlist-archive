@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 
 > Shafqat Amanat Ali with his favourite tracks this Ramadan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,890 likes - 29 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,900 likes - 29 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Haq Ali Ali Maula](https://open.spotify.com/track/5PjqyZ3iFTaQgfSkbIOY1G) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Best of Ustad Nusrat Fateh Ali Khan](https://open.spotify.com/album/3G9LyV2ySOK2L1GZdqUb28) | 29:09 |
+| 1 | [Haq Ali Ali Maula](https://open.spotify.com/track/5PjqyZ3iFTaQgfSkbIOY1G) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Best of Ustad Nusrat Fateh Ali Khan](https://open.spotify.com/album/3G9LyV2ySOK2L1GZdqUb28) | 0:29 |
 | 2 | [Maula Tera Noor](https://open.spotify.com/track/43MM7jOLwi9QQRbGXcz6Tx) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Coke Studio Season 10: Episode 7](https://open.spotify.com/album/6N6JL68Ji3Huws0DNHlnv3) | 8:28 |
 | 3 | [Allahu Akbar](https://open.spotify.com/track/0oulvgKe81qlq8UvIW3uha) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Ahmed Jehanzeb](https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX) | [Coke Studio Season 10: Episode 1](https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8) | 8:39 |
 | 4 | [Ishq Ramazan \- From "Ishq Ramazan"](https://open.spotify.com/track/7v9kVugVA3CQP9mFbnBJ2d) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Ishq Ramazan \(From "Ishq Ramazan"\)](https://open.spotify.com/album/2f1CWqFilSHfBmHaXcFGEF) | 4:21 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 | 25 | [Noor\-E\-Ilahi](https://open.spotify.com/track/0haStQZr8cgw5jU121JSeA) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Noor\-E\-Ilahi \- Single](https://open.spotify.com/album/4tr24T6sT0z1VDjbTlaxBV) | 6:09 |
 | 26 | [Maula Maula](https://open.spotify.com/track/41bOleZs1DSWfxBLtCpSdl) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Zeb Bangash](https://open.spotify.com/artist/0QuAJhN4N4LgXtdU3yUS24) | [Noor\-E\-Azal](https://open.spotify.com/album/4cN5MKoETae7GLcbzJxuFY) | 8:28 |
 | 27 | [Ya Rabbil Alameen](https://open.spotify.com/track/6z95hvERZO7pG9pd1GyN7K) | [Nabeel Shaukat Ali](https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp) | [Ya Rabbil Alameen](https://open.spotify.com/album/6ZGHInu9fHT8pBz3xzkR0W) | 4:31 |
-| 28 | [Ya Nabi Salam Alayka](https://open.spotify.com/track/5HHjEUuf9lNhQWJ1pZeGgI) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Thank You Allah \(Turkish Version\)](https://open.spotify.com/album/1Wul1gjulHQkgnZ1aZMgne) | 4:56 |
+| 28 | [Ya Nabi Salam Alayka](https://open.spotify.com/track/5HHjEUuf9lNhQWJ1pZeGgI) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Thank You Allah \(Turkish Version\)](https://open.spotify.com/album/1Wul1gjulHQkgnZ1aZMgne) | 0:29 |
 | 29 | [Hasbi Rabbi](https://open.spotify.com/track/1VQI2F0o229lNoyFC9d6eh) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [My Ummah](https://open.spotify.com/album/3mInNCcr0tAvc6eFSTSUcz) | 4:18 |
 
 Snapshot ID: `MTY1MDI1NDQwMCwwMDAwMDBkNzAwMDAwMTgwM2FkM2NhNjQwMDAwMDE4MDJjN2Q2NmJk`

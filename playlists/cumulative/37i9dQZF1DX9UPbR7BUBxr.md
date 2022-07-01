@@ -4,7 +4,7 @@
 
 > Songs and episodes to help you find that work/pause balance\. Co\-curation: Varun Duggirala
 
-68 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/7qhRYDL50AsB9exwnr99dR)
+68 songs - 2 hr 49 min - [published](https://open.spotify.com/playlist/7qhRYDL50AsB9exwnr99dR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Mrs\. Maisel](https://open.spotify.com/track/1juFN5WAR5kBxbrHe6Sf4u) | [Grace Belly](https://open.spotify.com/artist/2RDpfx1SklZiHjaIsaZ3QW) | [Mrs\. Maisel](https://open.spotify.com/album/14WuuUXHJYrJiGjjOsjuBa) | 2:26 | 2022-06-17 |  |
 | [Mystic](https://open.spotify.com/track/1NRSiBSxPdrwyuCLeEhRvA) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [Mystic](https://open.spotify.com/album/5IRAzD6GLmmdceauEy33Il) | 1:55 | 2022-06-17 |  |
 | [nirwana](https://open.spotify.com/track/7Iu0d7ORgRU1CcDymzVPck) | [halfpastseven](https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk) | [nirwana](https://open.spotify.com/album/2plF1M083P6jysg6ODjBNj) | 2:17 | 2022-06-17 |  |
-| [Nocturnal](https://open.spotify.com/track/1nVHPEb7S4kVlNygXcJ3tU) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Hermetism](https://open.spotify.com/album/3kHd7wS71L5WVLzkz7O8yU) | 5:12 | 2022-06-17 |  |
+| [Nocturnal](https://open.spotify.com/track/1nVHPEb7S4kVlNygXcJ3tU) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Hermetism](https://open.spotify.com/album/3kHd7wS71L5WVLzkz7O8yU) | 0:29 | 2022-06-17 |  |
 | [Oceans](https://open.spotify.com/track/5ow7kw6f9wh82887rlrnTD) | [Orangelo](https://open.spotify.com/artist/6rGGEz9rM3t9SeOvwLJNIT) | [Midnight Sun](https://open.spotify.com/album/61ggX6ltMrTBy7fv96Bbip) | 2:30 | 2022-06-17 |  |
 | [Peach Sky](https://open.spotify.com/track/553ntYSPcu70QIRXtBjAHD) | [Moodula](https://open.spotify.com/artist/6e76Meb8yRDdpn42QfFeOh) | [Echo Cliff](https://open.spotify.com/album/5iPfYQFToHZYZMQHVZf9el) | 2:04 | 2022-06-17 |  |
 | [perception](https://open.spotify.com/track/6fVMTxRuHpBL5TwL71HL6R) | [cloudi](https://open.spotify.com/artist/64LHvgl55hJTLXtgaO454g) | [perception](https://open.spotify.com/album/4pMhm2IQ8ojjdvOPpaZA91) | 1:25 | 2022-06-17 |  |

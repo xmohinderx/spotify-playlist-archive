@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTHVqvNCwNq.md) - [plain]
 
 > Born in the Mississippi Delta \- at the turn of the 20th century \- the Delta Blues is one of the earliest and most influential styles of blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,918 likes - 46 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,947 likes - 46 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cross Road Blues](https://open.spotify.com/track/1TrGdXSgiBm8W68D2K1COG) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 2:29 |
+| 1 | [Cross Road Blues](https://open.spotify.com/track/1TrGdXSgiBm8W68D2K1COG) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 0:29 |
 | 2 | [Preachin' Blues](https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Preachin' Blues](https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G) | 5:16 |
 | 3 | [Death Letter Blues](https://open.spotify.com/track/0W0euvQlhbcsTydzsD4EQk) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Father Of The Delta Blues: The Complete 1965 Sessions](https://open.spotify.com/album/5SsZBxF3sRSJnFd0rZ3vcF) | 4:19 |
 | 4 | [Moon Is Rising](https://open.spotify.com/track/3WaC3Xx9ipaIAWE6OwpzCF) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Alternative Boogie: Early Studio Recordings, 1948\-1952](https://open.spotify.com/album/0rGdGbskTT8NnfJwfDVEkc) | 2:49 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTHVqvNCwNq.md) - [plain]
 | 15 | [Whoopee Blues](https://open.spotify.com/track/4RUCMtsSMsPQlt08nwmix8) | [King Solomon Hill](https://open.spotify.com/artist/5fJqKIhjv3fatslXWyKysG) | [Mississippi Masters: Early American Blues Classics 1927 \- 35](https://open.spotify.com/album/27nWGgtAdORVcReR3ppmpZ) | 3:11 |
 | 16 | [Where Did You Sleep Last Night](https://open.spotify.com/track/3XdnNX0cPynrR7KdRoyjwa) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Absolutely The Best](https://open.spotify.com/album/6I0A1EwU5SP9HCwweaWJIq) | 3:01 |
 | 17 | [Good Morning Little Schoolgirl](https://open.spotify.com/track/7iILVc0DSgB37UYqxrbfRO) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [Good Morning Little School Girl](https://open.spotify.com/album/0ZLpHSm1AdcbL88zn1n1ki) | 3:21 |
-| 18 | [Canned Heat Blues](https://open.spotify.com/track/1Uk2MppskA0wnHUj8JwYfC) | [Tommy Johnson](https://open.spotify.com/artist/6n4r5eMU2ZUiHPPWhFDcHq) | [Tommy Johnson 1928 \- 1929](https://open.spotify.com/album/1BrjO0ZJTNZliuhAi9Orf7) | 3:39 |
+| 18 | [Canned Heat Blues](https://open.spotify.com/track/1Uk2MppskA0wnHUj8JwYfC) | [Tommy Johnson](https://open.spotify.com/artist/6n4r5eMU2ZUiHPPWhFDcHq) | [Tommy Johnson 1928 \- 1929](https://open.spotify.com/album/1BrjO0ZJTNZliuhAi9Orf7) | 0:29 |
 | 19 | [Coffee Blues](https://open.spotify.com/track/16GdiwewBf99MhUSVsxUBe) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Complete Studio Recordings](https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ) | 3:47 |
 | 20 | [Street Walkin'](https://open.spotify.com/track/0w3lp6gfoUzjdhEFhvrxAP) | [Sonny Boy Nelson](https://open.spotify.com/artist/38FqeK3CPB9k6ZmIdsGWkC) | [Lonesome Road Blues \- 15 Years In The Mississippi Delta \(1926\-1941\)](https://open.spotify.com/album/5oGf3xPGdr6CHIvau7FUiy) | 2:33 |
 | 21 | [Cool Drink Of Water](https://open.spotify.com/track/5Ys4D2UDLSO1WrH6x3JYKd) | [Houston Stackhouse](https://open.spotify.com/artist/2JQ9OGncNXR1tFPLInvlPb) | [The Devil's Music Vol\. 1](https://open.spotify.com/album/4iwZoEbealEbp0NJBOop57) | 3:16 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTHVqvNCwNq.md) - [plain]
 | 42 | [Catfish Blues](https://open.spotify.com/track/7d89sBzsw47LbdprUMNyfJ) | [Robert Petway](https://open.spotify.com/artist/0zNSuwnNWdr8g5EmE0YWKx) | [Mississippi Blues \(1935\-1951\)](https://open.spotify.com/album/1tGPQ7JepAddVZ2506Wuu6) | 2:55 |
 | 43 | [Crawlin' King Snake](https://open.spotify.com/track/3DQhvYiIPe7DrfTKuI2Uc6) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Legendary Modern Recordings](https://open.spotify.com/album/3VZo6Z4zqLnODmtIqmVemL) | 3:02 |
 | 44 | [By The Spoonful](https://open.spotify.com/track/7oqDaJiG7dUvf7oIQrzGGF) | [J.D\. Short](https://open.spotify.com/artist/5aTQqSNBX17uG0FZxvorSz) | [The Sonet Blues Story](https://open.spotify.com/album/13JqwxkZBFM3B8kp86QsfZ) | 3:49 |
-| 45 | [Come On In My Kitchen](https://open.spotify.com/track/10W125nMbncRGcXRBoACOx) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 2:52 |
+| 45 | [Come On In My Kitchen](https://open.spotify.com/track/10W125nMbncRGcXRBoACOx) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 0:29 |
 | 46 | [Mississippi Bottom Blues](https://open.spotify.com/track/0trDFIYb4jdj9HOICf9dJc) | [Kid Bailey](https://open.spotify.com/artist/4yPQvmHuBCWokkEvXIvPUD) | [Son House & Great Delta Blues Singers 1928 \- 1930](https://open.spotify.com/album/2fLEYffzYZrGXm0NIfKBfO) | 2:49 |
 
 Snapshot ID: `MTYzOTcxNzI2MCwwMDAwMDAwYTAwMDAwMTdkYzZjM2NiN2YwMDAwMDE2ZDAwYzliMjI4`

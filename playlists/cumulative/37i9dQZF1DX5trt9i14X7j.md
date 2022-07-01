@@ -4,7 +4,7 @@
 
 > Dedicated to all the programmers out there.
 
-103 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/6vdqrM7pwsj6HQdLoLegp2)
+103 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/6vdqrM7pwsj6HQdLoLegp2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Monsters Theme](https://open.spotify.com/track/1ZF7dgpDrpruRFeS2EXlFk) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Monsters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3dTSBzYUFB1AjAoCTyxIHY) | 4:55 | 2021-12-08 |  |
 | [My Funny Valentine](https://open.spotify.com/track/1UWlVOM5NZdkFZobaYeAv5) | [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb) | [Midnight Thoughts](https://open.spotify.com/album/6u1pNJvksMfMkHaZAVOL3a) | 2:41 | 2021-12-08 |  |
 | [Nothing It Can](https://open.spotify.com/track/4ecwrnFDSJLlLyZlEH7YGK) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Moiety](https://open.spotify.com/album/2ep9D35aw04xUbb8crArYg) | 4:47 | 2021-12-08 |  |
-| [Once Around](https://open.spotify.com/track/17C3EXdU2eFGKnesQTkEJr) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Hardly A Day, Hardly A Night](https://open.spotify.com/album/3sXK7ip7DA3SZSKeYFbf6Q) | 3:42 | 2021-12-08 |  |
+| [Once Around](https://open.spotify.com/track/17C3EXdU2eFGKnesQTkEJr) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Hardly A Day, Hardly A Night](https://open.spotify.com/album/3sXK7ip7DA3SZSKeYFbf6Q) | 0:29 | 2021-12-08 |  |
 | [One Too Many](https://open.spotify.com/track/3MfbA1oqDBXC2teY5yFqR5) | [Exist Strategy](https://open.spotify.com/artist/5I1pEm0UZGOxOHtCNkLzut) | [Dreamcatcher](https://open.spotify.com/album/3NVFHTmDQPvM9rDJv1fpYm) | 4:00 | 2021-12-08 |  |
 | [Optimistic Nihilism](https://open.spotify.com/track/3PmEzB2ORXmXBx07JY9z66) | [Epic Mountain](https://open.spotify.com/artist/7meq0SFt3BxWzjbt5EVBbT) | [Kurzgesagt, Vol\. 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1lCnMllidUf5pmU5N67vb6) | 6:12 | 2021-12-08 |  |
 | [Origin Myth](https://open.spotify.com/track/1fFylTl5SVntCpGX6LMS9l) | [Hiatus](https://open.spotify.com/artist/421vyBBkhgRAOz4cYPvrZJ) | [Defeat](https://open.spotify.com/album/1wQlfIPrPVURn2gpi3rvBf) | 4:43 | 2021-12-08 |  |
@@ -92,7 +92,7 @@
 | [Scene 2](https://open.spotify.com/track/0MrHjYitcj2AM851dimyn3) | [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [Pentagram](https://open.spotify.com/album/339J9hyRpfNw5RAhmdcauO) | 2:52 | 2021-12-08 |  |
 | [Second Sun](https://open.spotify.com/track/1CyFbvzMACv6su5ys5wbYg) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Second Sun](https://open.spotify.com/album/0cHW1NaoS8qqe3aceCN22Z) | 3:44 | 2021-12-08 |  |
 | [Sibyl](https://open.spotify.com/track/5YmjFHheTqiMyhVtBM04lo) | [Hushed](https://open.spotify.com/artist/6Jkxik23CyCBIj3rKlflPn) | [Pillars](https://open.spotify.com/album/5aSe7EH7yhtFGvyQPsVcgF) | 4:03 | 2021-12-08 |  |
-| [Smile](https://open.spotify.com/track/2m0TUPv1FW6LoQpxV5l6Lf) | [Dixxy](https://open.spotify.com/artist/3tzNFZuGKTcNypBltcMf4a) | [Smile](https://open.spotify.com/album/1F2N2TDZBfge0Q03ypNo5k) | 3:34 | 2021-12-08 |  |
+| [Smile](https://open.spotify.com/track/2m0TUPv1FW6LoQpxV5l6Lf) | [Dixxy](https://open.spotify.com/artist/3tzNFZuGKTcNypBltcMf4a) | [Smile](https://open.spotify.com/album/1F2N2TDZBfge0Q03ypNo5k) | 0:29 | 2021-12-08 |  |
 | [Snowfields](https://open.spotify.com/track/5l3iFPNLr9pWXeYOI7dDhs) | [Shape Of Our Dreams](https://open.spotify.com/artist/17QBpw01txiuRtneh0l1tc) | [Snowfields](https://open.spotify.com/album/2IdkBSoQpjPa5LUo46DDe5) | 2:48 | 2022-05-31 |  |
 | [So We Won't Forget](https://open.spotify.com/track/1sL0oHu8NCQpImkjxkoVXj) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [So We Won't Forget](https://open.spotify.com/album/6AixWA1IbGyb70exJJKUUa) | 4:58 | 2021-12-08 |  |
 | [Solar Sailer \- From "TRON: Legacy"/Score](https://open.spotify.com/track/0Jc2SfIHv63JNsUZpunh54) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [TRON: Legacy](https://open.spotify.com/album/4US3nmuLIKELhVZdBPiKxx) | 2:42 | 2021-12-08 |  |
@@ -102,9 +102,9 @@
 | [Stillness Within](https://open.spotify.com/track/4TOJ3cjdXI3Mbj5Scd0XGg) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Stillness Within](https://open.spotify.com/album/1f3Ddyah41RiBNg8hVM4Vd) | 2:55 | 2022-05-31 |  |
 | [Sunday Glide](https://open.spotify.com/track/72Qac2FQd9e21XCibSOhfY) | [Kermesse](https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw) | [Kermesse](https://open.spotify.com/album/2hPiyh9HOXEEr93AoO9kub) | 5:47 | 2021-12-08 |  |
 | [Swoon](https://open.spotify.com/track/5hASCaq53lZP8aUwiIqZEV) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Recalibrate](https://open.spotify.com/album/2birbZpVxQLhcTht8Mxcnz) | 2:37 | 2021-12-08 |  |
-| [Take Me Back](https://open.spotify.com/track/69ScUfmrwMZgyqb0XRGw12) | [WYS](https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f) | [North Pole](https://open.spotify.com/album/5O8TzNyhGK7xTMN0kccpiX) | 2:56 | 2021-12-08 |  |
+| [Take Me Back](https://open.spotify.com/track/69ScUfmrwMZgyqb0XRGw12) | [WYS](https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f) | [North Pole](https://open.spotify.com/album/5O8TzNyhGK7xTMN0kccpiX) | 0:29 | 2021-12-08 |  |
 | [Ten Days Of Blue](https://open.spotify.com/track/2Ktuc6919DC0C0hx1tXDQH) | [John Beltran](https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd) | [Ten Days Of Blue](https://open.spotify.com/album/6Fq0lGFFhZ01BfsBWKGolA) | 7:33 | 2021-12-08 | 2022-06-01 |
-| [The Dream](https://open.spotify.com/track/7wlNWkXeVgJZNCVy0EXh7j) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [O R B I T](https://open.spotify.com/album/3eCwJk6D1j7ViqMItXa10G) | 2:33 | 2021-12-08 |  |
+| [The Dream](https://open.spotify.com/track/7wlNWkXeVgJZNCVy0EXh7j) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [O R B I T](https://open.spotify.com/album/3eCwJk6D1j7ViqMItXa10G) | 0:29 | 2021-12-08 |  |
 | [Train From Paris](https://open.spotify.com/track/2xibxsCa7g3ScMB2vIwHWC) | [Mindtrap](https://open.spotify.com/artist/4OA32fupbR1suJd44PZJxU) | [Northern Rooms](https://open.spotify.com/album/1KKp6eBkErHQ6V04jWfqPR) | 4:28 | 2021-12-08 |  |
 | [Void](https://open.spotify.com/track/2bcXFEJxYaQ1D3GRI4OM3Z) | [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF), [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK) | [Temporis](https://open.spotify.com/album/0uEoafTA875Dqw6hJDlrJ5) | 3:42 | 2021-12-08 |  |
 | [Voyager 22](https://open.spotify.com/track/2DChgRQfFPgJjRJnTbdAYw) | [Kalbaisakhi](https://open.spotify.com/artist/0GpnIJfvw6GV1WMlQXTSA5) | [Tunnels](https://open.spotify.com/album/5um9AFcLYg0xUejlloAyE9) | 3:44 | 2021-12-08 |  |

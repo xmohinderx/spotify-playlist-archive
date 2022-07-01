@@ -4,7 +4,7 @@
 
 > Celebrating the iconic tracks from the black queer club scene in 1980s and 1990s Chicago \- the defining era of house music\. Cover: Frankie Knuckles
 
-55 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/6Yv4Yq1148W8YtnN6t5EXN)
+55 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/6Yv4Yq1148W8YtnN6t5EXN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,8 +37,8 @@
 | [I've Lost Control](https://open.spotify.com/track/208Q2Xt456uJDLRwlZPCe5) | [Sleezy D](https://open.spotify.com/artist/3wD0bhAy5hb5nqcTReldti) | [I've Lost Control](https://open.spotify.com/album/6yh9HirYN8GQqcqEvCyWcC) | 9:45 | 2021-06-01 |  |
 | [In a Vision \- Club 12" Mix](https://open.spotify.com/track/25hbHxgFQxUzO07aTVjHts) | [Virgo Four](https://open.spotify.com/artist/21GOilQf7qSpQdz7Ar6NWP) | [Sources \- The Trax Records Anthology Compiled by Bill Brewster](https://open.spotify.com/album/1k8Bqa4KCK7ihCuyljIoBC) | 4:44 | 2021-06-01 |  |
 | [It's My Life](https://open.spotify.com/track/7pfhvQZld6TbfbST95KzCH) | [Da Posse](https://open.spotify.com/artist/6oHc1xzJP7C3YdsFvKZL4P) | [Strings](https://open.spotify.com/album/7CDOl2IKWOqNMwn4rp8Nmi) | 5:22 | 2021-06-01 |  |
-| [Jack Your Body \- 1986 Club Mix](https://open.spotify.com/track/10QGhgqQm0I2Y9maxrM7T6) | [Steve "Silk" Hurley](https://open.spotify.com/artist/2TzZ6XTFG1p1PAfhl0crDP) | [Jack Your Body \(S&S Reloaded\)](https://open.spotify.com/album/3UAvNbsdCDrUKyhp8YGfJT) | 5:06 | 2021-06-01 |  |
-| [Let The Music Take Control](https://open.spotify.com/track/2cQKELIwtNGxQw25SizKXp) | [Tyree](https://open.spotify.com/artist/0GLde9xobyOX0vNW3nY9pt) | [Jack'd Volume 1](https://open.spotify.com/album/3v0VLJ61hZHGXREAIJWc4j) | 5:19 | 2021-06-01 |  |
+| [Jack Your Body \- 1986 Club Mix](https://open.spotify.com/track/10QGhgqQm0I2Y9maxrM7T6) | [Steve "Silk" Hurley](https://open.spotify.com/artist/2TzZ6XTFG1p1PAfhl0crDP) | [Jack Your Body \(S&S Reloaded\)](https://open.spotify.com/album/3UAvNbsdCDrUKyhp8YGfJT) | 0:29 | 2021-06-01 |  |
+| [Let The Music Take Control](https://open.spotify.com/track/2cQKELIwtNGxQw25SizKXp) | [Tyree](https://open.spotify.com/artist/0GLde9xobyOX0vNW3nY9pt) | [Jack'd Volume 1](https://open.spotify.com/album/3v0VLJ61hZHGXREAIJWc4j) | 0:29 | 2021-06-01 |  |
 | [Life Is Like A Circle](https://open.spotify.com/track/1UP4rDAPPP9MwyUCFGAbWA) | [Derrick Carter](https://open.spotify.com/artist/3XwBizyFmbCCUFcdcsvMmm), [Chris Nazuka](https://open.spotify.com/artist/3poidKVZ5SL4RXJG89pfhY) | [A Red Nail Relic](https://open.spotify.com/album/21E87HF32raN1KLWdEX5go) | 6:32 | 2021-06-01 |  |
 | [Love Can't Turn Around \(Original Mix\)](https://open.spotify.com/track/37cwvKWbzlim74LV27VDxS) | [Farley "Jackmaster" Funk](https://open.spotify.com/artist/0B9P7RXrukgIdmutz9XMVN), [Darryl Pandy](https://open.spotify.com/artist/4DdTAu2ze9ocUPqcFg1sKs) | [Farley Jackmaster Funk](https://open.spotify.com/album/1dqRqbXfDnEdoxbHCzeZkl) | 4:11 | 2021-06-01 |  |
 | [May Datroit](https://open.spotify.com/track/51BkUYUUCjHmQ0l1gRVT59) | [Glenn Underground](https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc) | [Atmosfear](https://open.spotify.com/album/6l6VDvfN2xbSz6sFDXWJxz) | 5:34 | 2021-06-01 |  |

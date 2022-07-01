@@ -4,7 +4,7 @@
 
 > The very best Rai hits\. Cover: Cheb Bello.
 
-54 songs - 4 hr 24 min - [published](https://open.spotify.com/playlist/6JWCOzizL3CkwQnuQ3RJTt)
+54 songs - 4 hr 17 min - [published](https://open.spotify.com/playlist/6JWCOzizL3CkwQnuQ3RJTt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Engagé](https://open.spotify.com/track/5ONxNp0ytrI7xzk4PZ2Vaz) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Engagé](https://open.spotify.com/album/7z4Os1feFjBgWHdQlEv5xD) | 4:44 | 2021-10-19 |  |
 | [Ga3 Li Srali](https://open.spotify.com/track/4VwGNd7gYBkudOycgXZWpF) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Ga3 Li Srali](https://open.spotify.com/album/2UIsgooFCMOW5g3cVIH6lX) | 3:34 | 2021-10-19 |  |
 | [Harb Ahlia](https://open.spotify.com/track/51ma99eBjCpUuDJeIquhgX) | [Mohamed Benchenet](https://open.spotify.com/artist/1SXvU32qAqhAniQTUhJJdS) | [Harb Ahlia](https://open.spotify.com/album/0rwO5csrugYNREOZya0waC) | 3:32 | 2021-10-19 |  |
-| [Hkayetna Tkhlass Lyoum](https://open.spotify.com/track/24qwVpC78t6IkQCcUNw9gV) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1), [Bibi Maestro](https://open.spotify.com/artist/3rhycpQTLaIhJpM2e38d8A) | [Hkayetna Tkhlass Lyoum](https://open.spotify.com/album/3VUIHN3PowVv65jGKndH7t) | 6:50 | 2021-10-19 |  |
+| [Hkayetna Tkhlass Lyoum](https://open.spotify.com/track/24qwVpC78t6IkQCcUNw9gV) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1), [Bibi Maestro](https://open.spotify.com/artist/3rhycpQTLaIhJpM2e38d8A) | [Hkayetna Tkhlass Lyoum](https://open.spotify.com/album/3VUIHN3PowVv65jGKndH7t) | 0:29 | 2021-10-19 |  |
 | [Homa Dayrine Haka](https://open.spotify.com/track/3I3ZjOzrVyyF3OS4MvOyy7) | [Amine 31](https://open.spotify.com/artist/1FAQqzHTQMSqyDsYCzN6o9) | [Homa Dayrine Haka](https://open.spotify.com/album/17AqvRrbZYASiJnCT78qX0) | 4:26 | 2021-10-19 |  |
 | [I Am Crazy, Vol\. 1 \- La guerre de l'amour](https://open.spotify.com/track/581Q5vjsfwtJhZA1zXfCXd) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [I Am Crazy, Vol\. 1 \(La guerre de l'amour\)](https://open.spotify.com/album/5cYihB12ii8hF1VfueWwlV) | 3:19 | 2021-10-19 |  |
 | [Jabetli Ljah](https://open.spotify.com/track/7sIr0SWz4zeZRt8NuV112j) | [Didou Parisien](https://open.spotify.com/artist/2LWOOorT0uVplVdL6CRncj) | [Jabetli Ljah](https://open.spotify.com/album/5rHwMQTSEBYs2s2HRE7rcH) | 8:00 | 2021-10-19 |  |

@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 21334,
+  "num_followers": 21332,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "OTc2NSw1MGNiMWMwNGJjMmI0NDczOWZiODI3M2E5NzAzNzM1N2JhYTM5NjZj",
+  "snapshot_id": "OTc3OCw4YjExZTE4N2U4M2Y0ZGYwODU3ODEyOTBlMTFkZmVlZjZkYmQ1MTZj",
   "tracks": [
     {
       "added_at": "2022-06-23 19:13:06",
@@ -29,24 +29,20 @@
       "url": "https://open.spotify.com/track/2VT7wOadDYKMeDLsys9vzF"
     },
     {
-      "added_at": "2022-04-15 15:30:53",
+      "added_at": "2022-06-30 16:51:06",
       "album": {
-        "name": "Feel Flows (Vindata Remix)",
-        "url": "https://open.spotify.com/album/7rfoojq4ztmqSRJvhQTcFh"
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/1aY0os7oA39KJiT4cfWf6x"
       },
       "artists": [
         {
-          "name": "Slow Magic",
-          "url": "https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT"
-        },
-        {
-          "name": "Vindata",
-          "url": "https://open.spotify.com/artist/1Vxf1UfzcxqzqItoOA0DDT"
+          "name": "Hotel Garuda",
+          "url": "https://open.spotify.com/artist/73tITL3u5T35u309PLpN6K"
         }
       ],
-      "duration_ms": 262500,
-      "name": "Feel Flows - Vindata Remix",
-      "url": "https://open.spotify.com/track/3UoU6uFAxpX3veVkbhhjcB"
+      "duration_ms": 226566,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/5CvVWD27KlJNkvzDLU1zPS"
     },
     {
       "added_at": "2022-05-21 00:21:00",
@@ -165,6 +161,26 @@
       "url": "https://open.spotify.com/track/2tinYknqBborA5kYv07aKX"
     },
     {
+      "added_at": "2022-04-15 15:30:53",
+      "album": {
+        "name": "Feel Flows (Vindata Remix)",
+        "url": "https://open.spotify.com/album/7rfoojq4ztmqSRJvhQTcFh"
+      },
+      "artists": [
+        {
+          "name": "Slow Magic",
+          "url": "https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT"
+        },
+        {
+          "name": "Vindata",
+          "url": "https://open.spotify.com/artist/1Vxf1UfzcxqzqItoOA0DDT"
+        }
+      ],
+      "duration_ms": 262500,
+      "name": "Feel Flows - Vindata Remix",
+      "url": "https://open.spotify.com/track/3UoU6uFAxpX3veVkbhhjcB"
+    },
+    {
       "added_at": "2022-04-18 18:59:01",
       "album": {
         "name": "Paradise Again",
@@ -220,7 +236,7 @@
           "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
         }
       ],
-      "duration_ms": 188852,
+      "duration_ms": 29048,
       "name": "Heartaches - Covex Remix",
       "url": "https://open.spotify.com/track/0SjqXDddcHwgGoTh4RtHJl"
     },
@@ -451,6 +467,26 @@
       "duration_ms": 135187,
       "name": "The World - camoufly Remix",
       "url": "https://open.spotify.com/track/3yZfA14Zgp2UZyb5BysEa7"
+    },
+    {
+      "added_at": "2022-06-24 17:23:21",
+      "album": {
+        "name": "Matangi",
+        "url": "https://open.spotify.com/album/4Su74MoUdMkY6EMTobRuGG"
+      },
+      "artists": [
+        {
+          "name": "MEMBA",
+          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+        },
+        {
+          "name": "SLUMBERJACK",
+          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Matangi",
+      "url": "https://open.spotify.com/track/3Y4MR8D4w6RJmtxXuVJ6sk"
     },
     {
       "added_at": "2022-03-17 04:04:27",
@@ -719,26 +755,6 @@
       "duration_ms": 174155,
       "name": "find your way - Elohim Remix",
       "url": "https://open.spotify.com/track/2UYeqwRXXMeYY1qrnBz036"
-    },
-    {
-      "added_at": "2022-06-24 17:23:21",
-      "album": {
-        "name": "Matangi",
-        "url": "https://open.spotify.com/album/4Su74MoUdMkY6EMTobRuGG"
-      },
-      "artists": [
-        {
-          "name": "MEMBA",
-          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
-        },
-        {
-          "name": "SLUMBERJACK",
-          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Matangi",
-      "url": "https://open.spotify.com/track/3Y4MR8D4w6RJmtxXuVJ6sk"
     },
     {
       "added_at": "2022-06-24 17:23:35",
@@ -1171,6 +1187,42 @@
       "duration_ms": 215039,
       "name": "Wide Awake (feat. Charlie Houston)",
       "url": "https://open.spotify.com/track/4lKSHi12cKgQlXwkrPHQ6s"
+    },
+    {
+      "added_at": "2022-06-30 17:04:08",
+      "album": {
+        "name": "Dodgeball (Lightyear Remix)",
+        "url": "https://open.spotify.com/album/4xX8Pab64QMnsSRuOWndRr"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        },
+        {
+          "name": "Lightyear",
+          "url": "https://open.spotify.com/artist/1rJ2jr0BuFv7RGACToKrKc"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Dodgeball (Lightyear Remix)",
+      "url": "https://open.spotify.com/track/39nJPEdkQzSFakgt1mZ3V8"
+    },
+    {
+      "added_at": "2022-06-30 20:05:03",
+      "album": {
+        "name": "Spaz Out",
+        "url": "https://open.spotify.com/album/6HkBbZCjDPs1pXDoYCPcI1"
+      },
+      "artists": [
+        {
+          "name": "Pacific Patterns",
+          "url": "https://open.spotify.com/artist/4UnRCGcuWbqRnk6MN3T76a"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Spaz Out",
+      "url": "https://open.spotify.com/track/0EpnVwrbiZY3drT7C3CwHo"
     }
   ],
   "unique_name": "Moving Castle Monthly",

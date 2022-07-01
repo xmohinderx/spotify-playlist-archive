@@ -4,7 +4,7 @@
 
 > Restorative piano and ambient music.
 
-188 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/04iCS2Hqg3BL0NWy8kiZsb)
+188 songs - 9 hr 13 min - [published](https://open.spotify.com/playlist/04iCS2Hqg3BL0NWy8kiZsb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [A new day](https://open.spotify.com/track/36rrXNpPdOpmHpI2vZECFd) | [Nadine Gaertner](https://open.spotify.com/artist/20pShYixHbYfabMneFBBAW) | [A new day](https://open.spotify.com/album/6PaweQ9HpdnCbZyYDMAwrc) | 2:40 | 2021-12-23 |  |
 | [Allt finns kvar](https://open.spotify.com/track/6eTRQbYbCnrnm0ghn4eUNd) | [Eleonora Feldt](https://open.spotify.com/artist/3N5bWM0Opalb3v1tWy6NJn) | [Allt finns kvar](https://open.spotify.com/album/4peQko6d1eFGavCfFHJGT3) | 3:59 | 2021-12-23 |  |
 | [Anay degimay](https://open.spotify.com/track/3wuEQyST9B3qhPlNymA4Vl) | [Petros Idris](https://open.spotify.com/artist/2KPSqFXX8R2WJ72KyFFEdc) | [Anay degimay](https://open.spotify.com/album/23hYRiBfshqH0kACbIGjiH) | 3:17 | 2021-12-23 |  |
-| [Andromeda](https://open.spotify.com/track/2vOE9PLXx3MTPy5E0dxPor) | [Zoe Handfield](https://open.spotify.com/artist/0ifYKOfttKEUMV86E0mxxL) | [Andromeda](https://open.spotify.com/album/4QF6bAGczBfA3IgNftiaem) | 2:52 | 2021-12-23 |  |
+| [Andromeda](https://open.spotify.com/track/2vOE9PLXx3MTPy5E0dxPor) | [Zoe Handfield](https://open.spotify.com/artist/0ifYKOfttKEUMV86E0mxxL) | [Andromeda](https://open.spotify.com/album/4QF6bAGczBfA3IgNftiaem) | 0:29 | 2021-12-23 |  |
 | [Another Mellow Morning](https://open.spotify.com/track/3Zo7qbx3AaRTfQBzrcYwy8) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Another Mellow Morning](https://open.spotify.com/album/2rv2qbzEqctupxhMXkDX7n) | 3:59 | 2021-12-23 |  |
 | [Answers](https://open.spotify.com/track/2iOKDbXoqcTENod90jSmcH) | [Elmer Loyd](https://open.spotify.com/artist/4VIdNbofDE1Txze8n5jshd) | [Answers](https://open.spotify.com/album/6L7t3tZ2gQAJ3CYhM4joVp) | 2:58 | 2021-12-23 |  |
 | [As the Journey Begins](https://open.spotify.com/track/1FOWBeqc6Bh5oNzTn4Vbhr) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [As The Journey Begins](https://open.spotify.com/album/22La5mDDYfwZq946zZMEG7) | 3:04 | 2021-12-23 |  |
@@ -122,7 +122,7 @@
 | [O darkest night](https://open.spotify.com/track/529OV81Dqr98MG2TwH4hbq) | [Zara Mazure](https://open.spotify.com/artist/0qC06w5AZgtEhJLvt9CiE1) | [O darkest night](https://open.spotify.com/album/1Unof6GFYGga11mb6pmyfi) | 3:42 | 2021-12-23 |  |
 | [Oasis](https://open.spotify.com/track/3wSBG6keI8IMWvaqlEbugZ) | [Yi Nantiro](https://open.spotify.com/artist/05aWuDQP5PwWhJEEsGNqYp) | [For a Lifetime](https://open.spotify.com/album/4CIxHPyaHFbrbqh4k3QFPy) | 3:14 | 2021-12-23 |  |
 | [Ocean Deep](https://open.spotify.com/track/7uHM2BSftyHsPLIOGB9oY7) | [MAVALA](https://open.spotify.com/artist/7v6MC0U94altKRU8VGL0j8) | [Ocean Deep](https://open.spotify.com/album/341k8e5u1rQ6xuDPqOIc2u) | 2:35 | 2021-12-23 |  |
-| [October Skies](https://open.spotify.com/track/1YU1xwcePnMHo0H5MI9gtm) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/2CiGQi3XgsbETzwSFzn2yk) | 2:55 | 2021-12-23 |  |
+| [October Skies](https://open.spotify.com/track/1YU1xwcePnMHo0H5MI9gtm) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/2CiGQi3XgsbETzwSFzn2yk) | 0:29 | 2021-12-23 |  |
 | [Oculis](https://open.spotify.com/track/3rkfPXBvaNLZNzwrWZ0Dmd) | [Donna Vellema](https://open.spotify.com/artist/6AB8ZGAhAWesb0QZPmQv3o) | [Oculis](https://open.spotify.com/album/1bPneybtqTRAZ9UZaehET0) | 2:58 | 2021-12-23 |  |
 | [Padjelanta](https://open.spotify.com/track/5N5jZgY2X3sfj3HUSjg1Ic) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 2:44 | 2021-12-23 |  |
 | [Pajala Sunrise](https://open.spotify.com/track/3Rvh3RrMpDaBK0iBU6aS8A) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Pajala Sunrise](https://open.spotify.com/album/0nNz0PrwY1kFTxtiFS411q) | 3:01 | 2021-12-23 |  |
@@ -131,7 +131,7 @@
 | [Patience](https://open.spotify.com/track/342mXLmWmrjqqIaVtnYjRH) | [Jiao Ch'ien](https://open.spotify.com/artist/6cz6KGJs1Q28j0nknp9sck) | [Patience](https://open.spotify.com/album/4N1vWOBCOVTeQGcWKCavwl) | 3:00 | 2021-12-23 |  |
 | [Peaceful Instant](https://open.spotify.com/track/2u4RqOtADvonosxhSdS8eZ) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Gratitude](https://open.spotify.com/album/2Mh5szpygzvrRi00d8iJlC) | 2:55 | 2021-12-23 |  |
 | [Peaceful Shore](https://open.spotify.com/track/564sRJoCWNRZhGf0aMnx5Q) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [Dreams Within Dreams](https://open.spotify.com/album/4z7X3l4pXbdV4PdVwuyIIW) | 3:06 | 2021-12-23 |  |
-| [Petrichor](https://open.spotify.com/track/22KKy6ftT0i4nyGNCbwc1B) | [Cecelya](https://open.spotify.com/artist/03aCAywaPegfs9yvJ66eCp) | [Petrichor](https://open.spotify.com/album/0EeoPgnFgCP1TNJsBdelJ7) | 1:58 | 2021-12-23 |  |
+| [Petrichor](https://open.spotify.com/track/22KKy6ftT0i4nyGNCbwc1B) | [Cecelya](https://open.spotify.com/artist/03aCAywaPegfs9yvJ66eCp) | [Petrichor](https://open.spotify.com/album/0EeoPgnFgCP1TNJsBdelJ7) | 0:29 | 2021-12-23 |  |
 | [Phaedra](https://open.spotify.com/track/6GEYh8JguL5MIh5Uz5h0zL) | [Arlette Leduc](https://open.spotify.com/artist/3LyPSzNbQ3R4cgHZDUP06T) | [Phaedra](https://open.spotify.com/album/2N8X9XdiZrkxLRX7snQcpp) | 3:16 | 2021-12-23 |  |
 | [Phobos](https://open.spotify.com/track/0oMpRwCaNzymAs2gwfgRzQ) | [Orphoria](https://open.spotify.com/artist/0WTxtKGnW3poFGHyG9Hcpg) | [Solar Sail](https://open.spotify.com/album/5LnqmFMVmIut3nRotPDWzc) | 4:02 | 2021-12-23 |  |
 | [Pour l'amour de toi](https://open.spotify.com/track/30fnP9bbrN5BVLFQdLAeAu) | [Tranquil Cove](https://open.spotify.com/artist/7wcYGhAdnlsglHP4ty9b26) | [Pour l'amour de toi](https://open.spotify.com/album/5WuFegQt0hnehGmaEkUt4T) | 2:03 | 2021-12-23 |  |

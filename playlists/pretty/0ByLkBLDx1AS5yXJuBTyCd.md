@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ByLkBLDx1AS5yXJuBTyCd.md) - [plain]
 
 > Travel the world through sound – with indie and traditional folk and acoustic from across the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122 likes - 36 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 122 likes - 36 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/0ByLkBLDx1AS5yXJuBTyCd.md) - [plain]
 | 10 | [Baka](https://open.spotify.com/track/17vyu7wwITOfAUTGBVXM6F) | [Outback](https://open.spotify.com/artist/41HxkfEUQC5n2C5aRlzGiD) | [Baka](https://open.spotify.com/album/0BvYSqYmiaUmQB2RmYKtwx) | 6:34 |
 | 11 | [A la Huella – To the Huella \(huella\)](https://open.spotify.com/track/0fr6KSCaNXOfXBgwMhmLYI) | [Suni Paz](https://open.spotify.com/artist/1NfOPoGjQfGNsKdUxtFzvJ) | [Bandera Mia: Songs of Argentina](https://open.spotify.com/album/4bzRIAQm3KDgJSxpUI1vdA) | 2:21 |
 | 12 | [Africa](https://open.spotify.com/track/6lkNhHP3Kw1HIX3NABiQ3H) | [Habib Koité](https://open.spotify.com/artist/2laFwNRffMM18LvKKDxCs9) | [Afriki](https://open.spotify.com/album/727kDk4lCtZMcd7tnEv5Yw) | 4:51 |
-| 13 | [Bamboléo](https://open.spotify.com/track/3qzVJh6INW1CzSDVR9MRgS) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [Gipsy Kings](https://open.spotify.com/album/21Hxqmg032UyDlZydqS4DW) | 3:23 |
+| 13 | [Bamboléo](https://open.spotify.com/track/3qzVJh6INW1CzSDVR9MRgS) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [Gipsy Kings](https://open.spotify.com/album/21Hxqmg032UyDlZydqS4DW) | 0:29 |
 | 14 | [Paris sera toujours Paris](https://open.spotify.com/track/4yzsnjzNPXpOjQoZaZeSMP) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Paris sera toujours Paris](https://open.spotify.com/album/7KgGQorAMuKoSjkB8O89c2) | 2:58 |
 | 15 | [River](https://open.spotify.com/track/02uNz94xdQzo2b3tq7YDfF) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Oya](https://open.spotify.com/album/3B4uLDgZNyW21VqyUzxPDN) | 4:12 |
 | 16 | [Jungle Drum](https://open.spotify.com/track/0YWQXkEyPOPsOLxFvjR1JU) | [Emilíana Torrini](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) | [Me And Armini \(US Edition\)](https://open.spotify.com/album/0hvsonhgBUyLPlVCmI6BNh) | 2:13 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/0ByLkBLDx1AS5yXJuBTyCd.md) - [plain]
 | 27 | [Kissing In The Falling Rain](https://open.spotify.com/track/1Byu7Kfn21paic1Hu6y8Bj) | [Odd Hugo](https://open.spotify.com/artist/4VVgCpsMCfLoh6sEayUbBe) | [Odd Hugo](https://open.spotify.com/album/7nGRAnAAYbPiqqbUZU6MQO) | 6:17 |
 | 28 | [La licenza di tuttologo](https://open.spotify.com/track/2BdbAsZsyOi4g5DtMG2D3m) | [Cecco E Cipo](https://open.spotify.com/artist/0VbUbw58jB5hpnWdWMB3AJ) | [Lo gnomo e lo gnù](https://open.spotify.com/album/6N4xho8oQxLxMveqRENUxb) | 3:56 |
 | 29 | [Dusty Men](https://open.spotify.com/track/1WUCUeB6bvoio4oi1AZtZu) | [Saule](https://open.spotify.com/artist/2n2CmLay2NP2Iolah62W34), [Charlie Winston](https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3) | [Dusty Men](https://open.spotify.com/album/1IWBDKQ2lV7BCRnIKocXsb) | 3:25 |
-| 30 | [Courtship Song](https://open.spotify.com/track/3bzc0xRyNkeXvESUvE2VYr) | [Robert Mirabal](https://open.spotify.com/artist/3rCzOTPZysU7pjOi6fmwJg) | [Music From A Painted Cave](https://open.spotify.com/album/1m5WXwfbkc1Jbw9Kh1H4RE) | 3:59 |
+| 30 | [Courtship Song](https://open.spotify.com/track/3bzc0xRyNkeXvESUvE2VYr) | [Robert Mirabal](https://open.spotify.com/artist/3rCzOTPZysU7pjOi6fmwJg) | [Music From A Painted Cave](https://open.spotify.com/album/1m5WXwfbkc1Jbw9Kh1H4RE) | 0:29 |
 | 31 | [Iscanwaya](https://open.spotify.com/track/5mnLwCEirROAxinArA8JnU) | [Rumillajta](https://open.spotify.com/artist/6Y2Lacqni5uPW6SROD6Jlx) | [Hoja De Coca: The Music of the Andes](https://open.spotify.com/album/7lkpPNaQ21Feb89pbzXh9o) | 4:45 |
 | 32 | [Uja](https://open.spotify.com/track/1wz8uw6O4JjSXw8VhCumnd) | [Tanya Tagaq](https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY) | [Animism](https://open.spotify.com/album/22cC8ZwB07grQ7ml8ImeSm) | 2:49 |
 | 33 | [Wiyathul](https://open.spotify.com/track/3sVVe0GARr4jjg96B6te41) | [Gurrumul](https://open.spotify.com/artist/41U5QueLMyYyJ3Hoe4kKX4) | [Gurrumul](https://open.spotify.com/album/6mqFcbjkkCW30BspMZdZes) | 5:55 |

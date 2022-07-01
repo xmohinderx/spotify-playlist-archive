@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-176 songs - 8 hr 15 min - [published](https://open.spotify.com/playlist/7okZyc3inRIRHWsMfSeJko)
+180 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/7okZyc3inRIRHWsMfSeJko)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Butter and Eggs](https://open.spotify.com/track/1ba8qyfCD9olHnAfGGgxts) | [Julian Lage & Chris Eldridge](https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf) | [Avalon](https://open.spotify.com/album/1UC7rVuAprZfBehFxiAGDr) | 3:24 | 2022-05-13 | 2022-05-27 |
 | [By Your Side](https://open.spotify.com/track/69U72YqRzX3NUDlojqK6Uk) | [Colin Reed](https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs) | [By Your Side](https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx) | 3:11 | 2022-05-13 |  |
 | [Caledonia](https://open.spotify.com/track/7p22ATtUa29n9ME9rvoaLZ) | [Selena Dominguez](https://open.spotify.com/artist/2NixYvC1pTi52NazQO8zq6) | [Caledonia](https://open.spotify.com/album/4g2vl00ThtZT3xQW8BJIdz) | 3:28 | 2022-05-13 |  |
+| [Calming Rain](https://open.spotify.com/track/7gGoipsdaoYS99Sjw7gizS) | [Candelion](https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG) | [Say My Name!](https://open.spotify.com/album/3STB33e4MiSaNNvU2XXPbh) | 3:07 | 2022-07-01 |  |
 | [Candle](https://open.spotify.com/track/5nYu8VUjyA2sqsi0o48VQc) | [Candelion](https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG) | [Swaying](https://open.spotify.com/album/0uh0YgMWqpewFHCNy4yqtY) | 3:07 | 2022-06-10 |  |
 | [Ciudad nueva](https://open.spotify.com/track/2tOy5Z4ECTD5AaEDqR4Khb) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [Ciudad nueva](https://open.spotify.com/album/5hEsUfEEb8BtmGvo0iJgFp) | 2:36 | 2022-05-13 |  |
 | [Clear Skies](https://open.spotify.com/track/5IbREiXznEMSrENm8iOOtw) | [Channing Spence](https://open.spotify.com/artist/7HHhJuGxvzmJzu0UOfrEEp) | [Clear Skies](https://open.spotify.com/album/3bIlYKIGezGDTciPBX3JLU) | 3:15 | 2022-05-13 | 2022-06-10 |
@@ -65,7 +66,7 @@
 | [Gilmerton](https://open.spotify.com/track/2zJvW1rqjvYHFNPl2mYuPk) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Gilmerton](https://open.spotify.com/album/1X2C2VeeduvqLPPA9X6KlC) | 2:19 | 2022-05-13 |  |
 | [Golden Coast](https://open.spotify.com/track/0waUQx6xGwUQALnhBt9Hr8) | [Alexis Snell](https://open.spotify.com/artist/2meBF8usB3g5MDVAfJC8EK) | [Golden Coast](https://open.spotify.com/album/5kPv7r06j48SQ5FaItaA2a) | 3:20 | 2022-05-13 |  |
 | [Goodbye](https://open.spotify.com/track/0tDUVtkNs3dn799WQIfk97) | [Peter Lainson](https://open.spotify.com/artist/3wk9WtW2Txz1ssUoAZuE1a), [Randal L Meek](https://open.spotify.com/artist/7IbVTpxbYawdWViVedEJIB) | [Goodbye](https://open.spotify.com/album/5hCt1vCsVJrb4RocHLRiBF) | 3:25 | 2022-06-10 |  |
-| [Great Moments](https://open.spotify.com/track/6VQ4N5ybijwCc6ugRlFztv) | [Manuel Boltano](https://open.spotify.com/artist/1VPn9LztA72am356jYFyMH) | [Great Moments](https://open.spotify.com/album/5omrW0RAtTjG9JIvvPpUW4) | 3:03 | 2022-05-13 |  |
+| [Great Moments](https://open.spotify.com/track/6VQ4N5ybijwCc6ugRlFztv) | [Manuel Boltano](https://open.spotify.com/artist/1VPn9LztA72am356jYFyMH) | [Great Moments](https://open.spotify.com/album/5omrW0RAtTjG9JIvvPpUW4) | 0:29 | 2022-05-13 |  |
 | [Guitarra De Aire](https://open.spotify.com/track/4CeuvQWrIQ6IGWLicEsZzv) | [BeAlicia](https://open.spotify.com/artist/6WJPIJkV6uewElkY7llxso) | [Guitarra De Aire](https://open.spotify.com/album/4jQAhv8VySlv2D2qt4vh5Y) | 3:45 | 2022-05-13 |  |
 | [Happy Faces](https://open.spotify.com/track/3mXIi5dQIW1xmVvW8UQJ9G) | [Juno Harrell](https://open.spotify.com/artist/3JPYFv2u0fEm4GzDqKVrWY) | [Happy Faces](https://open.spotify.com/album/2kR5ZVraVvSPla3QndZ2fy) | 3:20 | 2022-05-13 |  |
 | [Heaven and Heart](https://open.spotify.com/track/2UEAKcbYQuvWjdB5FejH0D) | [Cardboard Fort](https://open.spotify.com/artist/6REpB3pDhUNmdel10sIhaB) | [Heaven and Heart](https://open.spotify.com/album/263bN9QIKj9Qjg6goyYJbk) | 2:20 | 2022-05-13 |  |
@@ -81,7 +82,7 @@
 | [I Saw the Fold](https://open.spotify.com/track/3G2TNt3qMr9TiGSsiroY4p) | [Realizer](https://open.spotify.com/artist/7I2pqQX5c5XTjyl8InIrbt) | [Cross Sectional](https://open.spotify.com/album/0J22yrydJduLHgS7BmRguo) | 2:46 | 2022-05-13 | 2022-06-10 |
 | [I Should Have Known](https://open.spotify.com/track/5WbbKkgOknoPUistDUVjA4) | [Charlie Miller](https://open.spotify.com/artist/4gedU51ks1jf6BRwzCWosG) | [I Should Have Known](https://open.spotify.com/album/0bAFkwTZqAicYDxc88URIK) | 5:24 | 2022-05-13 |  |
 | [I Still Care](https://open.spotify.com/track/44DlskiTMq62euBoQZWPKO) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [I Still Care](https://open.spotify.com/album/1gcFVNUSyHlxlv802adTnY) | 4:35 | 2022-05-13 |  |
-| [I'm Coming Home To You](https://open.spotify.com/track/2fPgNS9Q6hMc0vzO4RLuEY) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [I'm Coming Home To You](https://open.spotify.com/album/0k1LPi3NvLhSpzOygfuD8Z) | 2:12 | 2022-05-13 |  |
+| [I'm Coming Home To You](https://open.spotify.com/track/2fPgNS9Q6hMc0vzO4RLuEY) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [I'm Coming Home To You](https://open.spotify.com/album/0k1LPi3NvLhSpzOygfuD8Z) | 0:29 | 2022-05-13 |  |
 | [Ice, Slowly Melting](https://open.spotify.com/track/5aH0ooVXa9MufZGh3t7U11) | [Matt Emilien Parker](https://open.spotify.com/artist/1J9TuyJ5QFyXmGqGUHjCYl) | [A Moment To Arise](https://open.spotify.com/album/3eFAeBv4QZXulrBoTmphas) | 1:58 | 2022-05-13 | 2022-06-10 |
 | [If I Can Make It To The Hill](https://open.spotify.com/track/4CMxXvhCI8kVTsHqdmN2IZ) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [If I Can Make It To The Hill](https://open.spotify.com/album/7Cd8BWAq74gw22EGkK8HIu) | 4:04 | 2022-05-13 |  |
 | [Im Sonnenblumenfeld](https://open.spotify.com/track/3IFZMY6ohZsOgTVcMyL5b8) | [Erling Kruger](https://open.spotify.com/artist/4yyGsrMPRSGVkD8eNDfIGB) | [Am Flussufer](https://open.spotify.com/album/16sGnI2slEAdvJ1PHZkHmJ) | 2:55 | 2022-05-13 | 2022-05-27 |
@@ -96,7 +97,7 @@
 | [Lakeside](https://open.spotify.com/track/2Igh5u0Gj6TtitvFY2eRhB) | [Kit Degas](https://open.spotify.com/artist/4JnwupXUsT1x9UZHN6v4Ri) | [Lakeside](https://open.spotify.com/album/6Mw4gVTRoLSiY964SJDYR6) | 2:05 | 2022-05-13 |  |
 | [Lighthouse](https://open.spotify.com/track/527HRQnZDhhXM4fWV3iTga) | [Moody Me](https://open.spotify.com/artist/195UO4AUwZfApowkBDD3i8) | [Lighthouse](https://open.spotify.com/album/3AvjxvjZIFayjwENZ5ZFni) | 2:42 | 2022-05-13 |  |
 | [Little Memories](https://open.spotify.com/track/1GwZ8CJtCKMjR3bZPxMuYX) | [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [Little Memories](https://open.spotify.com/album/7zuMQmofglFthbWdpYZec0) | 2:33 | 2022-05-13 | 2022-06-10 |
-| [Long Ago](https://open.spotify.com/track/660XH9scfuNHY2vU0Ct5lv) | [Peaceful Green](https://open.spotify.com/artist/599IEilpy3m4OmWd2pD3Du) | [Long Ago](https://open.spotify.com/album/7d8B7P8xOr5CNN0w8IEJTE) | 3:22 | 2022-05-13 |  |
+| [Long Ago](https://open.spotify.com/track/660XH9scfuNHY2vU0Ct5lv) | [Peaceful Green](https://open.spotify.com/artist/599IEilpy3m4OmWd2pD3Du) | [Long Ago](https://open.spotify.com/album/7d8B7P8xOr5CNN0w8IEJTE) | 0:29 | 2022-05-13 |  |
 | [Long Gone](https://open.spotify.com/track/7oZeBMWwQtci8I9QfeUsmh) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Keep A Secret](https://open.spotify.com/album/4OhHkRhQyMXykmpn8D6PBi) | 2:26 | 2022-05-13 |  |
 | [Lost and Found](https://open.spotify.com/track/7KeTfLV4aFGz7ltM0mtNpS) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Lost and Found](https://open.spotify.com/album/5BGvqaNbefYZUxDEmqykcy) | 2:49 | 2022-05-13 | 2022-05-27 |
 | [Love Again](https://open.spotify.com/track/3QFAzAqPqhFmpodso3L3zX) | [Marc Zimmerman](https://open.spotify.com/artist/4j9koj6rBTYpRH9ESdhwKr) | [I Found You](https://open.spotify.com/album/5uW6Fo9RnB9IBjHcDtVVwQ) | 2:23 | 2022-05-13 |  |
@@ -119,7 +120,9 @@
 | [Open Eyes](https://open.spotify.com/track/7qOSXapFeF6dMXYZn6r7Jm) | [Fredrik Johansson](https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m) | [Open Eyes](https://open.spotify.com/album/7p8eObCrVEaGjXAuf8zZW8) | 3:32 | 2022-05-13 | 2022-05-27 |
 | [Open Fields](https://open.spotify.com/track/2FsGdBUGGU2gE7myOODMOv) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Graceful Moment & Open Fields](https://open.spotify.com/album/4ozWLRqVgvL3CJivu2Idzf) | 2:13 | 2022-05-13 |  |
 | [Other Days](https://open.spotify.com/track/3lLdHVyx76OUJtG9S9pJkW) | [Aaron Reid](https://open.spotify.com/artist/1ie0JBUOVxOoaVsQkuIsuG) | [Where I Belong](https://open.spotify.com/album/49FiONw30Aya5gcFJEOCz3) | 2:24 | 2022-05-13 |  |
-| [Past & Present](https://open.spotify.com/track/43dy9gJMpgJmuhCS9fXreR) | [Isabella Molinero](https://open.spotify.com/artist/37C7aJnXB81MAsj0UqX4PV) | [Past & Present](https://open.spotify.com/album/1YkLOGEug3hxm0QZPfWkcs) | 3:01 | 2022-05-13 |  |
+| [Pacific Northwest](https://open.spotify.com/track/5lQYoVqNiXEyqfRiwWOI4v) | [Roy Edwin Williams](https://open.spotify.com/artist/0VEjBPjfkuIaX9CM2G53oW) | [Pride of Pennsylvania](https://open.spotify.com/album/6S7lCi6gre8ywHHxXjtUQO) | 3:22 | 2022-07-01 |  |
+| [Palindrome](https://open.spotify.com/track/5LwVS7ZfA5n6uqkUJbwCUT) | [Twan Bracco Gartner](https://open.spotify.com/artist/2HfAA8YkWctZYQia5wFa6C) | [Palindrome](https://open.spotify.com/album/1gDcpPpuH5KWxRqgQ0c6zh) | 2:41 | 2022-07-01 |  |
+| [Past & Present](https://open.spotify.com/track/43dy9gJMpgJmuhCS9fXreR) | [Isabella Molinero](https://open.spotify.com/artist/37C7aJnXB81MAsj0UqX4PV) | [Past & Present](https://open.spotify.com/album/1YkLOGEug3hxm0QZPfWkcs) | 0:29 | 2022-05-13 |  |
 | [Peace of Mind](https://open.spotify.com/track/09h0hGwGHsI5hmFuN6Wfik) | [Aaron Reid](https://open.spotify.com/artist/1ie0JBUOVxOoaVsQkuIsuG) | [Where I Belong](https://open.spotify.com/album/49FiONw30Aya5gcFJEOCz3) | 2:15 | 2022-05-13 |  |
 | [Peaceful Workshop](https://open.spotify.com/track/5FsZl5A4Pn38PX1tajTsTB) | [Ewan O'Connoll](https://open.spotify.com/artist/1RiZWCRIUcWj990GDoTQro) | [Peaceful Workshop](https://open.spotify.com/album/632wdGEM8BkJLGGhnCoHcl) | 2:06 | 2022-05-13 |  |
 | [Pegasi](https://open.spotify.com/track/1j1LCMYDvPMho2uWB5qdUg) | [Hugo Lemieux](https://open.spotify.com/artist/0jeKJVRZWoZzS4uZCOAC9g) | [Cycling](https://open.spotify.com/album/7LZX5Bublv8SEqy0A9lyuM) | 2:18 | 2022-05-13 | 2022-06-10 |
@@ -142,6 +145,7 @@
 | [Seven Trees](https://open.spotify.com/track/4M44CM7HweGJPxTk0Aei8P) | [Lee Young](https://open.spotify.com/artist/50oK46NA905UBCOIRWBU5Z) | [Seven Trees](https://open.spotify.com/album/0SlOD5vmrLv445yvH0AmbV) | 2:27 | 2022-05-13 |  |
 | [Shimmering](https://open.spotify.com/track/0V9hBI4lEPGj4oXB1Sxr2b) | [Charles Theodore](https://open.spotify.com/artist/2hfHg46WyBCls0ZixeNtMq) | [Shimmering](https://open.spotify.com/album/5QlqAMPDmZlNYGtb14cgdt) | 2:53 | 2022-05-13 | 2022-06-10 |
 | [Silver City](https://open.spotify.com/track/3xTZpkPtRwNZ4XSyx53cuo) | [Ben Tofft](https://open.spotify.com/artist/5A2sXpZZ3Es4AgRGrJACy9) | [Silver City](https://open.spotify.com/album/0zeC3nS5nlOK1aJ9vK8mFE) | 2:59 | 2022-05-13 | 2022-06-10 |
+| [Sky](https://open.spotify.com/track/4gYayVU0GTqHEIqbLXu3N7) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Sky](https://open.spotify.com/album/6fFjqvw0ZkLTOihz2voCU0) | 1:53 | 2022-07-01 |  |
 | [Something Special](https://open.spotify.com/track/48KSYU3Ek5PBtRKNgcGoLS) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [Something Special](https://open.spotify.com/album/45ClUpyAnFBixVMmY9hcUm) | 2:48 | 2022-05-13 | 2022-06-10 |
 | [Soon Enough](https://open.spotify.com/track/6W7rCXxaqacJGS4Lo6w3pf) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Soon Enough](https://open.spotify.com/album/3QQXybzOkugKZwfe9kX2lV) | 2:05 | 2022-05-13 |  |
 | [Square One](https://open.spotify.com/track/0sI1V9eHnuebwAxmGqZ31d) | [Anisha Gale](https://open.spotify.com/artist/0R9PTFYaGHm7AgJAZjerfr) | [Break of Day](https://open.spotify.com/album/1k6gJNxCkFgHbdWu8C00HR) | 2:16 | 2022-05-13 |  |

@@ -4,7 +4,7 @@
 
 > Tejano's new wave, co\-curated with <a href="https://tejanonation.net/">Tejano Nation</a>! La nueva ola de la música tejana\. Cover: Stefani Montiel
 
-50 songs - 2 hr 46 min - [published](https://open.spotify.com/playlist/1DP7NGrjVhNrBARNSXYxLf)
+50 songs - 2 hr 40 min - [published](https://open.spotify.com/playlist/1DP7NGrjVhNrBARNSXYxLf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Escapate](https://open.spotify.com/track/4BmeGs3pWDmCB060bZlJdq) | [Mia](https://open.spotify.com/artist/1QLoe4M9MBhNEQzOnpO9t5) | [Escapate](https://open.spotify.com/album/5yuEwmyEjOJCRfoln9KZ2c) | 3:05 | 2022-03-07 |  |
 | [Final De Tu Amor](https://open.spotify.com/track/2z5Hj2JKmUsQUzQ9TIYRhD) | [Grupo Vidal](https://open.spotify.com/artist/7FCNesSEoaPmxc0eofRG4X) | [Final De Tu Amor](https://open.spotify.com/album/5w9djEjJOX1Fw0wAPcqjCv) | 3:25 | 2022-03-07 |  |
 | [Fuego](https://open.spotify.com/track/72AVNndCkM5kUUcKBS5pjD) | [Rene Ramirez Y Maduro](https://open.spotify.com/artist/6KTFRnm6tChi6OheSZqlJH) | [Fuego](https://open.spotify.com/album/4PYq6JhFzSGwC3ayQxfna6) | 3:20 | 2022-03-07 |  |
-| [La Kumbia Buena](https://open.spotify.com/track/7nbOH6UIl4bzK4N8xEYt07) | [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Ricky Rick](https://open.spotify.com/artist/6BzRBfSDqaGM9lrG0YqO90), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [La Kumbia Buena](https://open.spotify.com/album/28win3IYwvbgwb2D7imb23) | 3:04 | 2022-03-07 |  |
+| [La Kumbia Buena](https://open.spotify.com/track/7nbOH6UIl4bzK4N8xEYt07) | [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Ricky Rick](https://open.spotify.com/artist/6BzRBfSDqaGM9lrG0YqO90), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [La Kumbia Buena](https://open.spotify.com/album/28win3IYwvbgwb2D7imb23) | 0:29 | 2022-03-07 |  |
 | [La Primavera](https://open.spotify.com/track/7et8aJ6TWT1tkkz94qAut3) | [Severo y Grupo Fuego](https://open.spotify.com/artist/6KZCZ4IGZLiJpvVysat6F6) | [La Primavera](https://open.spotify.com/album/6sE3Ckmu17RGYHFt2Hn4Hp) | 3:12 | 2022-03-07 |  |
 | [Mariposas](https://open.spotify.com/track/1Wrecl8aAHUDAYvLk40T4A) | [Demmi Garcia](https://open.spotify.com/artist/710H12NnJsInoaPljAMeuu) | [Mariposas](https://open.spotify.com/album/2a8oKOwOI3JO3SDpsvWTWd) | 3:13 | 2022-03-07 |  |
 | [Me AventaronTus Brazos](https://open.spotify.com/track/7g3iaR8GqMxSu3aoioQVB6) | [Magnifico 7](https://open.spotify.com/artist/6zuG09EcKizF0eInZDECWm) | [Me AventaronTus Brazos](https://open.spotify.com/album/0HyEqogdn00njcAvcERo0U) | 3:08 | 2022-03-07 |  |
@@ -44,7 +44,7 @@
 | [Paloma Sin Nido](https://open.spotify.com/track/2DWsob6FCQvvqBhgBCzKxW) | [Nightlife](https://open.spotify.com/artist/2Ze33LupiJwJ9L7HusVyg8) | [On the Same Track](https://open.spotify.com/album/2XrPpixSLRPPOWRHEkTc2K) | 3:31 | 2022-03-07 |  |
 | [Por Fin Decidí](https://open.spotify.com/track/3IqyM1UkxCobbGc3uUN0XL) | [South TX Homies](https://open.spotify.com/artist/7yMp1Rpn2cWmZxvK4B95xq) | [Por Fin Decidí](https://open.spotify.com/album/1kgbKExAs7N14nY4nkLyMl) | 3:14 | 2022-03-07 |  |
 | [Por Una Cantina](https://open.spotify.com/track/3BOfif4vJLha8mEkSXBQGV) | [David Farias](https://open.spotify.com/artist/4sMapIElnnyICCw5HzpElc) | [Por Una Cantina](https://open.spotify.com/album/3lDhrqJKRw8ZjU23TkTWpC) | 3:28 | 2022-03-07 |  |
-| [Porque Sera](https://open.spotify.com/track/49mlIVwL62ml0RIi01u5RB) | [Madison Pulido](https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz) | [Porque Sera](https://open.spotify.com/album/3SUWloH93tzFK5eexbgt7L) | 3:47 | 2022-03-07 |  |
+| [Porque Sera](https://open.spotify.com/track/49mlIVwL62ml0RIi01u5RB) | [Madison Pulido](https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz) | [Porque Sera](https://open.spotify.com/album/3SUWloH93tzFK5eexbgt7L) | 0:29 | 2022-03-07 |  |
 | [Que Mentira](https://open.spotify.com/track/0uj22DquolnlzugVhJyL3L) | [Zenzio](https://open.spotify.com/artist/6ByST7GNSkwOdZNonKr1Dg) | [Historias](https://open.spotify.com/album/24zRLTmgWMv01DSs1E3eQI) | 2:55 | 2022-03-07 |  |
 | [Quedate](https://open.spotify.com/track/10aPjP4AFszpLKNPoQeJv7) | [Frankie Caballero Jr](https://open.spotify.com/artist/0XjGSfT3w9gccHfxcSFBCR) | [Quedate](https://open.spotify.com/album/2tcNInfjOxe4iJ4tq0V6bb) | 2:59 | 2022-03-07 |  |
 | [Quédate Con El](https://open.spotify.com/track/11QBmPdodhQsekFGZNYenY) | [Stefani Montiel](https://open.spotify.com/artist/68itzJPfdDLNgLecpEfaHI), [Vampiro](https://open.spotify.com/artist/0tzcColcnmXRisPnbE9VlK) | [Quédate Con El](https://open.spotify.com/album/0VAvg1yg2eL7TmReNFopnt) | 3:34 | 2022-03-07 |  |

@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 90s\. 1990年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-51 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/4IZcoENbRUH8fIMPWTB7x5)
+51 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/4IZcoENbRUH8fIMPWTB7x5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,10 +26,10 @@
 | [いとおしい人のために](https://open.spotify.com/track/3ox8aLcTppZcXw0vD0kytx) | [佐藤朱美](https://open.spotify.com/artist/0b4NaVu4HHtkMPNPJPMWGz) | [いとおしい人のために](https://open.spotify.com/album/5x8WJ0ilQQbkmdLeYiy8Z0) | 3:14 | 2022-04-10 |  |
 | [うれしい予感](https://open.spotify.com/track/24NgUiLBVjMQai0qKgvraZ) | [Marina Watanabe](https://open.spotify.com/artist/7fECFlpIoo88jHc85cD642) | [GOLDEN☆BEST 渡辺満里奈](https://open.spotify.com/album/068zocVA2NemLrj7LdYqL9) | 4:11 | 2022-04-10 |  |
 | [おジャ魔女カーニバル!!](https://open.spotify.com/track/63CbmTcrmJlFYSehryyG48) | [MAHO堂](https://open.spotify.com/artist/4iaXf3pKcpKpWrIaPDg2li) | [おジャ魔女どれみ Select Best](https://open.spotify.com/album/4IKaNqQcDMuRkfpTGU1HIT) | 3:35 | 2022-04-10 |  |
-| [さぁ](https://open.spotify.com/track/72zujXU2gjddcwOw48spLR) | [Surface](https://open.spotify.com/artist/7c3NwFEgdzvFdGIa7wku5K) | [Phase](https://open.spotify.com/album/46ZYjyPcLKOIVG6ckePek9) | 3:14 | 2022-04-10 |  |
+| [さぁ](https://open.spotify.com/track/72zujXU2gjddcwOw48spLR) | [Surface](https://open.spotify.com/artist/7c3NwFEgdzvFdGIa7wku5K) | [Phase](https://open.spotify.com/album/46ZYjyPcLKOIVG6ckePek9) | 0:29 | 2022-04-10 |  |
 | [さよなら文明](https://open.spotify.com/track/5P5sWf8z8yvVS81BpNKYHx) | [Bakufu Slump](https://open.spotify.com/artist/38S2jSY9Fr0AcZZWMrKuqC) | [決定版! 爆風スランプ大全集](https://open.spotify.com/album/1cEp9b0ylPPPxkgCD0W3Kd) | 3:15 | 2022-04-10 |  |
 | [そばかす](https://open.spotify.com/track/0y0lQ10KHJCZqRQtXIvh1T) | [JUDY AND MARY](https://open.spotify.com/artist/7unNuvk3OEqGmegHTaxRA9) | [THE POWER SOURCE](https://open.spotify.com/album/6WOs9qwCv99wCa8rI0hkMr) | 4:15 | 2022-04-10 |  |
-| [めざせポケモンマスター \-20th Anniversary\-](https://open.spotify.com/track/3ELgk6SEzS1e1BKqdIh252) | [Rica Matsumoto](https://open.spotify.com/artist/72GURBGvhqtUrJctxI6tE9) | [めざせポケモンマスター \-20th Anniversary\-](https://open.spotify.com/album/3KBzzDchZ4hNeBngIHASeu) | 4:19 | 2022-04-10 |  |
+| [めざせポケモンマスター \-20th Anniversary\-](https://open.spotify.com/track/3ELgk6SEzS1e1BKqdIh252) | [Rica Matsumoto](https://open.spotify.com/artist/72GURBGvhqtUrJctxI6tE9) | [めざせポケモンマスター \-20th Anniversary\-](https://open.spotify.com/album/3KBzzDchZ4hNeBngIHASeu) | 0:29 | 2022-04-10 |  |
 | [もののけ姫\(もののけ姫\)](https://open.spotify.com/track/5omQL0li1emtsxFOj0Byf5) | [Yoshikazu Mera](https://open.spotify.com/artist/1gMSjp1uxOKC3VWRTWKaJ2) | [スタジオジブリの歌 \-増補盤\-](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 3:32 | 2022-04-10 |  |
 | [ゆずれない願い \- Complete ver](https://open.spotify.com/track/0XwNZh26KzqJIKtX5pNLhl) | [Naomi Tamura](https://open.spotify.com/artist/0L7Qb17znlkaydgMefkLUq) | [ゆずれない願い \(Complete ver\)](https://open.spotify.com/album/6IwGUVLkEi4MGhNGTlBtca) | 3:51 | 2022-04-10 |  |
 | [アンパンマンのマーチ](https://open.spotify.com/track/1PKfIbqY6tFFPcvmbHP1RS) | [ドリーミング](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ!アンパンマン ベストヒット'13](https://open.spotify.com/album/6ngjF7VE4ylUtdEpIKody0) | 2:50 | 2022-04-10 |  |
@@ -56,8 +56,8 @@
 | [謎](https://open.spotify.com/track/42S5PVNFPb4xwxl51HVh0k) | [小松未歩](https://open.spotify.com/artist/2F7g9r3yzmCfMlUnfDa80X) | [謎](https://open.spotify.com/album/7mgGlCQhihfUrVj7IBabYk) | 4:35 | 2022-05-27 |  |
 | [走れマキバオー](https://open.spotify.com/track/2i6X1ALEo8tpKQhujqEYxk) | [F.MAP](https://open.spotify.com/artist/0YCyPvipguPxXqZmd0EHlB) | [走れマキバオー](https://open.spotify.com/album/2qjnjEgSosPOQYfT6gUIpd) | 3:50 | 2022-04-10 |  |
 | [輝きは君の中に](https://open.spotify.com/track/04uMxC39AD3awh5DoNdyP5) | [Yume Suzuki](https://open.spotify.com/artist/3DafdgrWjaJJ9pHUtnKUvt) | [決定盤「NINKU\-忍空\-」アニメ主題歌&キャラソン大全集\(+BGM集\)](https://open.spotify.com/album/2bxLROOE511QJ9NCQUB5xx) | 4:39 | 2022-04-10 |  |
-| [通学路](https://open.spotify.com/track/4aPWrSvOPs0TEfQviAvjAb) | [Whiteberry](https://open.spotify.com/artist/76oZZyUq2OsR4uvuZVYdPn) | [\(初\)](https://open.spotify.com/album/5N2CPtTbsPdd706lfTJiUj) | 4:05 | 2022-04-10 |  |
+| [通学路](https://open.spotify.com/track/4aPWrSvOPs0TEfQviAvjAb) | [Whiteberry](https://open.spotify.com/artist/76oZZyUq2OsR4uvuZVYdPn) | [\(初\)](https://open.spotify.com/album/5N2CPtTbsPdd706lfTJiUj) | 0:29 | 2022-04-10 |  |
 | [運命のルーレット廻して](https://open.spotify.com/track/36LFRJKinf0TWJjHg6SmHg) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [運命のルーレット廻して](https://open.spotify.com/album/0am0AmvgNvxLx0swxwyQVx) | 5:00 | 2022-04-10 |  |
-| [魂のルフラン](https://open.spotify.com/track/4pjQ19ATjMCMFqnEF75O9T) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [魂のルフラン](https://open.spotify.com/album/7j1OdqnevNe9r0mwxOmh15) | 5:14 | 2022-04-10 |  |
+| [魂のルフラン](https://open.spotify.com/track/4pjQ19ATjMCMFqnEF75O9T) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [魂のルフラン](https://open.spotify.com/album/7j1OdqnevNe9r0mwxOmh15) | 0:29 | 2022-04-10 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

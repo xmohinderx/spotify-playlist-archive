@@ -4,7 +4,7 @@
 
 > The best in new & current Dancehall\. Cover: Stefflondon
 
-107 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/06Owom4tM3pY6z1utpLRaA)
+107 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/06Owom4tM3pY6z1utpLRaA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Pay For It](https://open.spotify.com/track/5NQxP5ok2vnUhOgofXOTTQ) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Pay For It](https://open.spotify.com/album/29wkHXDK2pNy1Lpz2xraIq) | 2:14 | 2021-12-20 | 2022-03-03 |
 | [Po\-Po \(feat\. Nicho\)](https://open.spotify.com/track/6UOl8dMirCTcAoZvt7HMJh) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [Nicho](https://open.spotify.com/artist/1zvRNqK0adZUjZjO4YPQZN) | [10](https://open.spotify.com/album/7pKLvzqcLuNx96e59VFREP) | 2:26 | 2022-03-02 | 2022-03-22 |
 | [Professional Love](https://open.spotify.com/track/115Lty8K9kr2T6lg0I0sRx) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs) | [Professional Love](https://open.spotify.com/album/5kYbwdFPFBSCw2mCqrnHkS) | 2:51 | 2021-12-20 | 2022-03-22 |
-| [Promise](https://open.spotify.com/track/40w9HRXfnkLTDLGcX8gNDp) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Shane Skull](https://open.spotify.com/artist/3GahvoijDtBfjSOMdGfAP9), [Wire Brain](https://open.spotify.com/artist/0LdPRyepUIR7OOnQ3HbUuR) | [Promise](https://open.spotify.com/album/7DAL1tGwj7NiK4u5hNZYsu) | 3:39 | 2021-12-20 |  |
+| [Promise](https://open.spotify.com/track/40w9HRXfnkLTDLGcX8gNDp) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Shane Skull](https://open.spotify.com/artist/3GahvoijDtBfjSOMdGfAP9), [Wire Brain](https://open.spotify.com/artist/0LdPRyepUIR7OOnQ3HbUuR) | [Promise](https://open.spotify.com/album/7DAL1tGwj7NiK4u5hNZYsu) | 0:29 | 2021-12-20 |  |
 | [Protocol](https://open.spotify.com/track/1tn87Abu4ZTptxvpp6Zd8V) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh) | [Protocol](https://open.spotify.com/album/2dXHrlSfG2Lp5OOtd5J73q) | 3:19 | 2021-12-20 |  |
 | [Pull Up](https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Pull Up](https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq) | 2:51 | 2022-03-07 |  |
 | [Racketeer](https://open.spotify.com/track/2zLPeZ5T1ZLGiYLzHV1kCn) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Racketeer](https://open.spotify.com/album/2IjlI8ae5xYFntDtNnTJt9) | 2:39 | 2021-12-20 | 2022-03-03 |
@@ -86,7 +86,7 @@
 | [Run](https://open.spotify.com/track/6W7GzCtwCy88SazHUCN87W) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Run](https://open.spotify.com/album/6TbKQ11ZgYvCeeqOXX4C62) | 2:46 | 2021-12-20 | 2022-03-05 |
 | [Scripture](https://open.spotify.com/track/5mxjjwz1QzSBZL92y9Gm7N) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY), [DaVido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Scripture](https://open.spotify.com/album/43DlU7NOku21Zu2nxEIlrP) | 3:13 | 2021-12-20 | 2022-03-03 |
 | [Section](https://open.spotify.com/track/2R6wZFWXBF2rRIbvQirzjP) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Section](https://open.spotify.com/album/51ygRTQJLBz3v6EDqvsL6K) | 2:14 | 2022-06-17 |  |
-| [Silence](https://open.spotify.com/track/5Ea6VaQFplATEu2biAQdlB) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Forever](https://open.spotify.com/album/0xAUnt43o2FfxIpVFusIOq) | 3:35 | 2022-03-04 |  |
+| [Silence](https://open.spotify.com/track/5Ea6VaQFplATEu2biAQdlB) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Forever](https://open.spotify.com/album/0xAUnt43o2FfxIpVFusIOq) | 0:29 | 2022-03-04 |  |
 | [Skeleton Cartier](https://open.spotify.com/track/4OGhqENXneIdSfMPHRb1Og) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Skeleton Cartier](https://open.spotify.com/album/0nlrjWXIKkwMHTXxm5oiZZ) | 3:41 | 2022-03-04 |  |
 | [So Me Stay](https://open.spotify.com/track/0S8VgLfuZwWJMGXUBJXlEy) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [So Me Stay](https://open.spotify.com/album/4F7todLkxPeG4KjupkQSMQ) | 2:38 | 2022-06-17 |  |
 | [Sorry](https://open.spotify.com/track/0lpBRGQCaWT1PJQb36AEEO) | [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS) | [I Am Great](https://open.spotify.com/album/6i3SZiuix81nwtdGQ6Yh0r) | 3:25 | 2022-03-21 |  |

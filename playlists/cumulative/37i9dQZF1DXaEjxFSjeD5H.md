@@ -4,7 +4,7 @@
 
 > Nada que un buen danzón no pueda curar.
 
-75 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/1cCH7LjVsQpF2TSbyJcVCG)
+75 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/1cCH7LjVsQpF2TSbyJcVCG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Moliendo Cafe](https://open.spotify.com/track/2zVjGGILg03f8JGhDk5Rng) | [Ramon Marquez](https://open.spotify.com/artist/7MBfHtO5xhuBx6qK0mWb4m) | [Moliendo Cafe](https://open.spotify.com/album/62n2MMdfxWPoitHgtd4Fan) | 3:07 | 2022-01-25 |  |
 | [Murmurando \(Whispering\)](https://open.spotify.com/track/3xNPnrFHpxDIRjRekKOVHa) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [Lo Mejor de lo Mejor de RCA Victor](https://open.spotify.com/album/5FqL2fTOAN0vHR13GVnMkE) | 2:15 | 2022-01-25 |  |
 | [Nana](https://open.spotify.com/track/7mW06F9Qz6xWkqSOgTwlWT) | [Danzonera Veracruz](https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD), [Vicente Labastida Velasco](https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C) | [El Embrujo del Danzón](https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge) | 4:25 | 2022-01-25 |  |
-| [Nereidas](https://open.spotify.com/track/0LhhWkkz7pORVQegxOs0mH) | [Acerina Y Su Danzonera](https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh) | [Su Majestad](https://open.spotify.com/album/5K38IimP2EIC9QwBh8tN0l) | 3:03 | 2022-01-25 |  |
+| [Nereidas](https://open.spotify.com/track/0LhhWkkz7pORVQegxOs0mH) | [Acerina Y Su Danzonera](https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh) | [Su Majestad](https://open.spotify.com/album/5K38IimP2EIC9QwBh8tN0l) | 0:29 | 2022-01-25 |  |
 | [Nereidas](https://open.spotify.com/track/3mceH7jxn3fLm2TNlgEdev) | [Carlos Campos Y Orquesta](https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU) | [Danzones a la Manera del Campeon Volumen 1](https://open.spotify.com/album/3xCYxqu0uBH471i9cQ2bIq) | 4:14 | 2022-01-25 |  |
 | [Nereidas](https://open.spotify.com/track/1K8dbgWWPoEdB6OP5bfHt0) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Los Reyes del Danzón](https://open.spotify.com/album/4gcpaZ5fvmHylo6d019Nk9) | 4:10 | 2022-01-25 |  |
 | [Ofelia](https://open.spotify.com/track/2coXrhZjBOV8jjwNbpLyf2) | [Mario Álvarez](https://open.spotify.com/artist/3ewwxi1gRlSoYfjaDF5ltV) | [Danzón Inmortal](https://open.spotify.com/album/6IS3BzJEdTbFGzD6Dcy4TK) | 3:31 | 2022-01-25 |  |

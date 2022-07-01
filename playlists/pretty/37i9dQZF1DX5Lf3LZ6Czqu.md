@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 
 > Instrumental guitar shreddery\. Cover: Paul Gilbert
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,609 likes - 71 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,664 likes - 71 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 | 9 | [The Roaring Twenties](https://open.spotify.com/track/7jrR6S8gfJyVrWZ8K5FmsB) | [Maarten Ouweneel](https://open.spotify.com/artist/4tZfjyeyjqlORFxtCYJdjG) | [The Roaring Twenties](https://open.spotify.com/album/6Sy81CHsix5Idl3jkXs5sw) | 4:58 |
 | 10 | [Spare Tire](https://open.spotify.com/track/2IQENbY9YbzpwKmexVJ1jq) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Spare Tire](https://open.spotify.com/album/2YUPATCVtrrTMw5kFRqdhk) | 2:48 |
 | 11 | [A Thunderous Ovation Shook the Columns](https://open.spotify.com/track/6Kcmvtym0taGPHlciFxgKa) | [Paul Gilbert](https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG) | [A Thunderous Ovation Shook the Columns](https://open.spotify.com/album/5LIkApuwAK9pMeWcOH2s9G) | 3:56 |
-| 12 | [Magnetar \(feat\. Adam Deitch & Shaun Martin\)](https://open.spotify.com/track/3L3JqFvXR2Y2W9LhG1ZjE9) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Adam Deitch](https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw), [Shaun Martin](https://open.spotify.com/artist/14Im3li8h1ehG6eM3lersk) | [Magnetar \(feat\. Adam Deitch & Shaun Martin\)](https://open.spotify.com/album/7lE7qB2f0S6IL4aUJjKzA4) | 4:36 |
+| 12 | [Magnetar \(feat\. Adam Deitch & Shaun Martin\)](https://open.spotify.com/track/3L3JqFvXR2Y2W9LhG1ZjE9) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Adam Deitch](https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw), [Shaun Martin](https://open.spotify.com/artist/14Im3li8h1ehG6eM3lersk) | [Magnetar \(feat\. Adam Deitch & Shaun Martin\)](https://open.spotify.com/album/7lE7qB2f0S6IL4aUJjKzA4) | 0:29 |
 | 13 | [A Dragon's Tail \- Instrumental](https://open.spotify.com/track/7xOdjT5HRqckEXhjWGAOcP) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [A Dragon's Tail \(Instrumental\)](https://open.spotify.com/album/2JppXP0sF33yMsYcYObwX1) | 4:53 |
 | 14 | [Vanish](https://open.spotify.com/track/0HkxndKKtxlNJQzP45YKTM) | [Waxamilion](https://open.spotify.com/artist/7G97Mckd7WAQsjZLUF3vN6) | [Vanish](https://open.spotify.com/album/2mD8Ppr3WZCmV1JeFMi9zB) | 3:51 |
 | 15 | [Four Day Weekend](https://open.spotify.com/track/2Lv1k8ZSaC8XbjRvLPXqgM) | [Moray Pringle](https://open.spotify.com/artist/2XxpV0Zg0H0BZWCxgZQZKW) | [Four Day Weekend](https://open.spotify.com/album/4BJ2bEGlgs2EMv6GoDLLLt) | 4:25 |
@@ -67,14 +67,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 | 57 | [Guitar Sbrego](https://open.spotify.com/track/1U40tfjSlm0DkfLre7cZUy) | [Daniele Gottardo](https://open.spotify.com/artist/1gGKmdgj9oSMW5P18gtLWR) | [Frenzy of Ecstasy](https://open.spotify.com/album/2xe1fsuFOyPfGfWHEoCbAG) | 4:19 |
 | 58 | [Hammerhead](https://open.spotify.com/track/6JXGqMLXr0WhiJ6rtI8S4W) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Emotion & Commotion](https://open.spotify.com/album/2uZCLo1QvLgjAb74Q8kv53) | 4:15 |
 | 59 | [Falling Up](https://open.spotify.com/track/76u0xybJDLKrKS8TOnIE40) | [Allen Hinds](https://open.spotify.com/artist/3GxEPmRiVDifXYi0mswBAK) | [Falling Up](https://open.spotify.com/album/4j7MhzKAEAEzCSD9dXC4uK) | 4:45 |
-| 60 | [A Cure Promised](https://open.spotify.com/track/45RTzFWWGXLZHPzxvjvl1H) | [Nick Johnston](https://open.spotify.com/artist/3d5yBCe5SBKkJnWvl9GB7r) | [Wide Eyes in the Dark](https://open.spotify.com/album/6CqwEGC2juPOk98IL2WMUG) | 6:37 |
+| 60 | [A Cure Promised](https://open.spotify.com/track/45RTzFWWGXLZHPzxvjvl1H) | [Nick Johnston](https://open.spotify.com/artist/3d5yBCe5SBKkJnWvl9GB7r) | [Wide Eyes in the Dark](https://open.spotify.com/album/6CqwEGC2juPOk98IL2WMUG) | 0:29 |
 | 61 | [À l’avenir](https://open.spotify.com/track/6GhvoVU3BOpqN6bCdID8QP) | [Pete Thorn](https://open.spotify.com/artist/2fGIc4JSHwzCB7HIzATFtV) | [Pete Thorn II](https://open.spotify.com/album/26pXUKMlyQXLjhaHLHUZEe) | 3:31 |
 | 62 | [New Life](https://open.spotify.com/track/5LjXhZiJQC4cVjoMK1hV4T) | [Fabrizio Leo](https://open.spotify.com/artist/2Y65wPQtQsQnsIvsaV0cmr) | [Coming Home](https://open.spotify.com/album/5H9k65V3wheS2odmJ78YdJ) | 3:47 |
 | 63 | [Crispy](https://open.spotify.com/track/2vk1jBINwK3jVquZ9RW84W) | [Prashant Aswani](https://open.spotify.com/artist/6SU64uhdQiF86cThcWLXy2) | [Visions](https://open.spotify.com/album/2sYv87uNv8EKyo3x5MFiIp) | 4:18 |
 | 64 | [Dunia Duara](https://open.spotify.com/track/0LwSB5KbwWcDu1HbFip27U) | [Chris Buck](https://open.spotify.com/artist/6MKMSAadRiC0CB5D2vEtDn) | [3 Crows](https://open.spotify.com/album/7uGPN9GefcM4WEMhWAMcms) | 5:33 |
 | 65 | [Five Fourths Will Get You Six](https://open.spotify.com/track/59Arv6QbBfhA5RenhE9kpT) | [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Still](https://open.spotify.com/album/4HxFvpLAqMnIoW172AyxQw) | 6:30 |
 | 66 | [Bad Asteroid](https://open.spotify.com/track/5TzCDKy1ZmFZdW8100A8p9) | [The Aristocrats](https://open.spotify.com/artist/1V4jsLjkic1Mxvdke86Qth) | [The Aristocrats](https://open.spotify.com/album/7GKzcJbW0Qernh0Xab1bIf) | 5:53 |
-| 67 | [Undoing](https://open.spotify.com/track/2TtKJKiZmP54qgcKS56BSy) | [Brett Garsed](https://open.spotify.com/artist/01mN2lVKpGYTgyu1X9Tfas) | [Big Sky](https://open.spotify.com/album/5QmMhhXoF5jvbSD7DTYO0T) | 4:57 |
+| 67 | [Undoing](https://open.spotify.com/track/2TtKJKiZmP54qgcKS56BSy) | [Brett Garsed](https://open.spotify.com/artist/01mN2lVKpGYTgyu1X9Tfas) | [Big Sky](https://open.spotify.com/album/5QmMhhXoF5jvbSD7DTYO0T) | 0:29 |
 | 68 | [The 12th Hour](https://open.spotify.com/track/1S7LDIJFVGYDZVuuU5IbD7) | [Marco Sfogli](https://open.spotify.com/artist/3DH5T3XE9zij8BRWAxW6SF) | [Homeland](https://open.spotify.com/album/3qpPGP9Zmkab4GEMSLyWLl) | 4:43 |
 | 69 | [Same Sun Shines](https://open.spotify.com/track/3PcM0Wc601FYPjLNhbfUme) | [Vinnie Moore](https://open.spotify.com/artist/2plmfvGgldxCpZF0vLt3o4) | [Soul Shifter](https://open.spotify.com/album/2kkD4GgJc9OxQ0vheXnCNL) | 4:44 |
 | 70 | [Primal Feels](https://open.spotify.com/track/32Yc8905BkRVOKhBpHhuK3) | [Nili Brosh](https://open.spotify.com/artist/0ODUQ3W9ljLNLJELvO5ysk) | [Primal Feels](https://open.spotify.com/album/6Vn52SWI9Ymftd9Ml6nWYV) | 4:46 |

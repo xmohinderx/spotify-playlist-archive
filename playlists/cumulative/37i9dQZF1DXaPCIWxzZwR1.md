@@ -4,7 +4,7 @@
 
 > next gen pop featuring Conan Gray
 
-986 songs - 1 day 23 hr 50 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
+986 songs - 1 day 23 hr 48 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,7 +316,7 @@
 | [Friendly Sex](https://open.spotify.com/track/0UIaM3C7aw2ao6ZDatzEir) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Friendly Sex](https://open.spotify.com/album/3KgVXRJUmbAS28XfHrJOs2) | 2:39 | 2022-04-07 |  |
 | [Friends](https://open.spotify.com/track/1Vt4oAoHBIopxekC8KhT6X) | [emma løv](https://open.spotify.com/artist/7eCvJy2JvEw2s087UHlJdx), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [Friends](https://open.spotify.com/album/6OmzUBIzFkenjd3dJQhROK) | 2:50 | 2022-04-15 |  |
 | [Friends Don't Fuck](https://open.spotify.com/track/5YuN7z17cD0PRXVX2twIjG) | [HAVEN](https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd) | [Friends Don't Fuck](https://open.spotify.com/album/6u526hyt4EMZR2sFLN3U8a) | 2:09 | 2021-12-11 | 2022-04-02 |
-| [FU In My Head](https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [FU In My Head](https://open.spotify.com/album/02FPQ0z3Xm5PkzTulKcfKT) | 2:47 | 2022-05-25 |  |
+| [FU In My Head](https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [FU In My Head](https://open.spotify.com/album/02FPQ0z3Xm5PkzTulKcfKT) | 0:29 | 2022-05-25 |  |
 | [Fuck Up the Friendship](https://open.spotify.com/track/1ddKUwm3UuvcMWLLAgOIcX) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Fuck Up the Friendship](https://open.spotify.com/album/6OYKLdkagNi7b1cANWVAMg) | 2:52 | 2021-02-16\* | 2021-07-17 |
 | [FUCK YO FRIENDS](https://open.spotify.com/track/36sMJmEOxZLt2U8iT9lvAh) | [KILLBOY](https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm) | [FUCK YO FRIENDS](https://open.spotify.com/album/2PjEKH7XIg5dZ8U74C0VZU) | 3:28 | 2021-03-19 | 2021-05-08 |
 | [fuck, i luv my friends \(with Curtis Waters\) \- reimagined](https://open.spotify.com/track/6uA3l7SKpGUvc7zUsTuOmn) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [fuck, i luv my friends \(with Curtis Waters\) \[reimagined\]](https://open.spotify.com/album/3dLr7k3mSh1B6o0gniUSS3) | 3:04 | 2021-02-16\* | 2021-02-19 |

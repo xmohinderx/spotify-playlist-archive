@@ -4,7 +4,7 @@
 
 > Novidades e destaques do indie nacional\. Foto: saudade, Lorena Chaves
 
-210 songs - 12 hr 1 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
+210 songs - 11 hr 58 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Cada Pedaço](https://open.spotify.com/track/1LDq4X6erGwCEmxi28Xwbx) | [Karla](https://open.spotify.com/artist/3aM66YTgWf67QaT8HVg3ck) | [Prisma](https://open.spotify.com/album/0suNJm584XzPKKcy8RofZJ) | 3:03 | 2022-03-18 | 2022-04-02 |
 | [Café com Leite](https://open.spotify.com/track/7gy7BFORtrb1FNdE2nV6BX) | [Helo Cleaver](https://open.spotify.com/artist/5ddPmN9f59M0HHWxdObC3F) | [Priguis](https://open.spotify.com/album/5uWkRYYKp9dUQjWJFggTI5) | 3:17 | 2022-03-25 |  |
 | [Can I Call You?](https://open.spotify.com/track/5v6S9wdpQiv5weg8sSI5U7) | [Pablo Vermell](https://open.spotify.com/artist/1QXsIqLfotA6OnwVqQvPs5) | [Can I Call You?](https://open.spotify.com/album/0njUjg620qif2q9nNW72RU) | 2:17 | 2022-01-14 | 2022-02-19 |
-| [Cantiga](https://open.spotify.com/track/5eXBqFxpGIkcdCorF4hohu) | [Thomé](https://open.spotify.com/artist/1s2eZHp7L2dt3j30cUv7R6), [Shamani](https://open.spotify.com/artist/1RKQZ7tAjTqCk3omgA1D4i) | [Cantiga](https://open.spotify.com/album/6rkHu80E8LBhmOLoCcnO8n) | 3:26 | 2022-03-25 |  |
+| [Cantiga](https://open.spotify.com/track/5eXBqFxpGIkcdCorF4hohu) | [Thomé](https://open.spotify.com/artist/1s2eZHp7L2dt3j30cUv7R6), [Shamani](https://open.spotify.com/artist/1RKQZ7tAjTqCk3omgA1D4i) | [Cantiga](https://open.spotify.com/album/6rkHu80E8LBhmOLoCcnO8n) | 0:29 | 2022-03-25 |  |
 | [Canto Pra Você Voltar](https://open.spotify.com/track/4Y6QBWomomnfNGg6m4yPCF) | [Os Fugitivos](https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg), [Unidade Nova Praia](https://open.spotify.com/artist/1Onj9Nq0eoWQ1SOdxFJksp) | [Canto Pra Você Voltar](https://open.spotify.com/album/4MXGRPM9GtIqNHOYlVhsSi) | 3:58 | 2022-01-14 |  |
 | [Capixabilidade](https://open.spotify.com/track/1PK3xVCMaRJkvubVWhlTLn) | [Lisergia Tropical](https://open.spotify.com/artist/0uxlJVn4F65jyEI4NaxZNd) | [Capixabilidade](https://open.spotify.com/album/7FfLwljV6EqVYaxCfwsqIC) | 5:21 | 2022-01-14 | 2022-02-12 |
 | [Certo](https://open.spotify.com/track/5bZpmlDIFiCEGiTLwoUr6A) | [bule](https://open.spotify.com/artist/0G0UBEMCXDj4UWnT3BeBoS) | [Sacanear](https://open.spotify.com/album/08dwGSj9cJ2zEsGsb8sJRt) | 2:55 | 2022-01-14 | 2022-01-29 |

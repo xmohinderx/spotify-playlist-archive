@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ?si=zcGVv-aQQ8u8hjaqpfFKNg\">Manana</a>",
+  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI?si=EO3h-hzvQuGjOxGn5Pyltw\">Mlindo The Vocalist</a>",
   "name": "Made In South Africa",
   "published_playlist_ids": [
     "6BghGTymCVTsnBj72SFGI9"
@@ -169,7 +169,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 229511,
       "name": "Bambelela",
       "url": "https://open.spotify.com/track/13gjwBCjrN9xPEGkddT5KW"
@@ -191,7 +191,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 265450,
       "name": "Baningi",
       "url": "https://open.spotify.com/track/5byAvC8hytkJlo4TXnds0J"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 230865,
       "name": "Emkhathini",
       "url": "https://open.spotify.com/track/3P2UIfvIjW50aUICUjjPvA"
@@ -803,7 +803,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 290973,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/2RjU4DPIgrXZWc97pGsMuO"
@@ -829,7 +829,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 262000,
       "name": "Hot Stuff",
       "url": "https://open.spotify.com/track/6kl5YOLuMKktqFK2db4CBo"
@@ -873,6 +873,24 @@
       "duration_ms": 225238,
       "name": "Ilanga",
       "url": "https://open.spotify.com/track/2HmBIq2pmNSjCmNNeZMJjM"
+    },
+    {
+      "album": {
+        "name": "Imali",
+        "url": "https://open.spotify.com/album/7sHBHQnKV7WTD0XHTg7Hue"
+      },
+      "artists": [
+        {
+          "name": "Nobuhle",
+          "url": "https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Imali",
+      "url": "https://open.spotify.com/track/7GX1WWRjoDGeYTOLASuEnq"
     },
     {
       "album": {
@@ -1260,6 +1278,28 @@
     },
     {
       "album": {
+        "name": "Jumaima (feat. Ishmael)",
+        "url": "https://open.spotify.com/album/0Jm7rC9DQ3HeffxzqymdGG"
+      },
+      "artists": [
+        {
+          "name": "Mlindo The Vocalist",
+          "url": "https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI"
+        },
+        {
+          "name": "Ishmael",
+          "url": "https://open.spotify.com/artist/23kwDDCo3lIQQvjuWf1b08"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Jumaima (feat. Ishmael)",
+      "url": "https://open.spotify.com/track/6gHvVv7eOr3h4YVhE8VTR2"
+    },
+    {
+      "album": {
         "name": "Kangaka",
         "url": "https://open.spotify.com/album/6PevkShLRYE0WPuFTkxRZd"
       },
@@ -1367,7 +1407,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 269583,
       "name": "KOKHALABANTU",
       "url": "https://open.spotify.com/track/1LdodHeIoK2eBxlCW1UZ2M"
@@ -1496,7 +1536,7 @@
       "date_added": "2021-01-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 215172,
+      "duration_ms": 29048,
       "name": "Lala Ngoxolo (feat. Emtee)",
       "url": "https://open.spotify.com/track/54x9dhOK7DWwxj4VeL1bZN"
     },
@@ -1837,7 +1877,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 264000,
       "name": "Mayeh",
       "url": "https://open.spotify.com/track/6rdNalE5HbMyBBoNovo5yN"
@@ -1935,7 +1975,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 379828,
       "name": "Mmutla",
       "url": "https://open.spotify.com/track/1xOcUmvfl2mIcV7xsWdhWz"
@@ -1971,7 +2011,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 242840,
       "name": "My Dali",
       "url": "https://open.spotify.com/track/0162umcwk7g36RxucZnMPV"
@@ -2257,7 +2297,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 276660,
       "name": "Nginjena",
       "url": "https://open.spotify.com/track/5SuyPgnvNqJJz6v8NDreBq"
@@ -2479,7 +2519,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 213665,
       "name": "Ntokazi",
       "url": "https://open.spotify.com/track/1cOR2ZdjaTN9Yj0WrlzcvU"
@@ -2497,7 +2537,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 207348,
       "name": "Ntsoare Moo",
       "url": "https://open.spotify.com/track/0wKUAe9I3MUpkH25xE9Etb"
@@ -2595,7 +2635,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 222880,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/2mdqivSHJWsbTR6rIwSUWO"
@@ -2709,6 +2749,28 @@
       "duration_ms": 159230,
       "name": "READY",
       "url": "https://open.spotify.com/track/6QlDYJND6qGVJYbyZDXrun"
+    },
+    {
+      "album": {
+        "name": "Ringtone",
+        "url": "https://open.spotify.com/album/3DZNBpRuOxb8cav4LmO7yZ"
+      },
+      "artists": [
+        {
+          "name": "Team Distant",
+          "url": "https://open.spotify.com/artist/44vSsHayaApaYzZuOedry4"
+        },
+        {
+          "name": "Jinger Stone",
+          "url": "https://open.spotify.com/artist/0zuvB6HALKZ3cUfyzfq6Y2"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332098,
+      "name": "Ringtone",
+      "url": "https://open.spotify.com/track/3G17edA3Ozcr9oYikbT0mL"
     },
     {
       "album": {
@@ -3045,7 +3107,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 142500,
       "name": "Summervibe",
       "url": "https://open.spotify.com/track/04KdURLmbVwbgHx6S7mmIw"
@@ -3107,6 +3169,50 @@
       "duration_ms": 211294,
       "name": "Thixo Wethu",
       "url": "https://open.spotify.com/track/6DCwIC3eoEK7KNldnKscdd"
+    },
+    {
+      "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/5K3vyTejoGDuRHvjo4vFNH"
+      },
+      "artists": [
+        {
+          "name": "Jaziel Brothers",
+          "url": "https://open.spotify.com/artist/4KsgkEyPqr3FCNsKSaNzxs"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213793,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/1VMWvfEnjTzgwSd6777xeR"
+    },
+    {
+      "album": {
+        "name": "Tshwana Le Wena",
+        "url": "https://open.spotify.com/album/3Lw0gCRs8qMJvjqlX35IF8"
+      },
+      "artists": [
+        {
+          "name": "Tshego",
+          "url": "https://open.spotify.com/artist/2I1KI8uFju21FNrL4zdeqY"
+        },
+        {
+          "name": "John Tshenoli",
+          "url": "https://open.spotify.com/artist/5hju7PdSZQl3oYsM5TVD5I"
+        },
+        {
+          "name": "Alie Keys",
+          "url": "https://open.spotify.com/artist/1GXwvsKGbhtxZ6nBjV2liL"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287666,
+      "name": "Tshwana Le Wena",
+      "url": "https://open.spotify.com/track/1FiMnihg5K9UyMZ49ukJop"
     },
     {
       "album": {
@@ -3178,7 +3284,7 @@
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 209413,
+      "duration_ms": 29048,
       "name": "Uhambo",
       "url": "https://open.spotify.com/track/0UQiDKv1PxequtKI6sp2Ia"
     },
@@ -3199,7 +3305,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 223520,
       "name": "Ukukhanya",
       "url": "https://open.spotify.com/track/21zXbMOdDs7BterIteBmvU"
@@ -3371,7 +3477,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 192024,
       "name": "Uyajola",
       "url": "https://open.spotify.com/track/6XhB177w4FLohKRYMNkjRA"
@@ -3415,6 +3521,54 @@
       "duration_ms": 282107,
       "name": "Wa Nkutlwa Na",
       "url": "https://open.spotify.com/track/4Y9p2y8QnCxBlMnJ56rvas"
+    },
+    {
+      "album": {
+        "name": "Wampona Naah",
+        "url": "https://open.spotify.com/album/0dwg3rQ1M7Ir5KvkgBfKps"
+      },
+      "artists": [
+        {
+          "name": "Prince Benza",
+          "url": "https://open.spotify.com/artist/5jCHpUIjSnOXUzVaxwBA2k"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311513,
+      "name": "Wampona Naah",
+      "url": "https://open.spotify.com/track/5YsqtTeCZNyRDwzzQO7Bva"
+    },
+    {
+      "album": {
+        "name": "Wamuhle",
+        "url": "https://open.spotify.com/album/3yM2OA0HaTVOoytKipIADw"
+      },
+      "artists": [
+        {
+          "name": "DJ So Nice",
+          "url": "https://open.spotify.com/artist/5AZBqGvfbhzmsARDuBW9te"
+        },
+        {
+          "name": "KLY",
+          "url": "https://open.spotify.com/artist/0B6F56wObkhER2AmTNfcl3"
+        },
+        {
+          "name": "Saudi",
+          "url": "https://open.spotify.com/artist/37Qsf5KCKljH7mL134xp4k"
+        },
+        {
+          "name": "BonafideBilli",
+          "url": "https://open.spotify.com/artist/2J4kgQeg22uB6DhVYZXnUn"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225640,
+      "name": "Wamuhle",
+      "url": "https://open.spotify.com/track/1Hfi5ASQy39dZJRnRsE6ws"
     },
     {
       "album": {
@@ -3535,7 +3689,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 222786,
       "name": "Yelele",
       "url": "https://open.spotify.com/track/2FRbe1TC626TxkVeufmNsa"

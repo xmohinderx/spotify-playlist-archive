@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > Rap romântico pra amolecer os corações apaixonados e esquentar o clima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,107 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,190 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 64 | [Deixa](https://open.spotify.com/track/4zZ2rPOa8itw3VuusVSicv) | [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [Pep Starling](https://open.spotify.com/artist/2OKT3UlyCvDefb14iq4E71) | [Deixa](https://open.spotify.com/album/3D9D1yVykWFsUZI1JzRwqM) | 2:41 |
 | 65 | [Bandida](https://open.spotify.com/track/4S5PgR1MoE3nnVJHHtm0GL) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Sos](https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK), [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz) | [Bandida](https://open.spotify.com/album/0hMR7bGDhFgCLWbUfN4XPD) | 4:32 |
 | 66 | [Meu Grande Amor](https://open.spotify.com/track/5L6W7DKPFucGLTvMurMP3n) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Meu Grande Amor](https://open.spotify.com/album/2QgDyZ9WrVxj6BJKmOFejU) | 2:53 |
-| 67 | [O Que Você Faz](https://open.spotify.com/track/3HTyLPUwl9e2gUp6Ewgd7e) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [O Que Você Faz](https://open.spotify.com/album/3nVHkr0UYH2LIGvNzkazNd) | 3:01 |
+| 67 | [O Que Você Faz](https://open.spotify.com/track/3HTyLPUwl9e2gUp6Ewgd7e) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [O Que Você Faz](https://open.spotify.com/album/3nVHkr0UYH2LIGvNzkazNd) | 0:29 |
 | 68 | [Abre a porta](https://open.spotify.com/track/4ispiK8sx7pBgNlYjXunZm) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Abre a porta](https://open.spotify.com/album/6gsClmogCvPBWKy5JeaDxd) | 2:22 |
 | 69 | [Mil Vezes](https://open.spotify.com/track/0bxeaDbEOFn4ljflfOkBUK) | [Gabrá](https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3), [Maipo Beats](https://open.spotify.com/artist/63BTHXg5UTtmmAiAGc0fQx), [ZSS Ent.](https://open.spotify.com/artist/1L7rw4mLVQFgIkknFHkk47) | [Mil Vezes](https://open.spotify.com/album/6J8oqkGDyaMpBt6ji1BOnq) | 3:48 |
 | 70 | [Barbie Marley](https://open.spotify.com/track/58IVw28EnEMYwMwBg4bm9R) | [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Fa7her](https://open.spotify.com/album/0M40ouy3DGERXGiMffJR15) | 3:36 |

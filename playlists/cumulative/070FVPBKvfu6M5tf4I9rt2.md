@@ -4,7 +4,7 @@
 
 > The skies are filled with blues for a joyful ride.
 
-30 songs - 2 hr 16 min - [published](https://open.spotify.com/playlist/2eQWYfaAytRK3djiE8TNjg)
+30 songs - 2 hr 9 min - [published](https://open.spotify.com/playlist/2eQWYfaAytRK3djiE8TNjg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [I'll Play The Blues For You \(Pts 1 & 2\)](https://open.spotify.com/track/7kNSk6zNnnktkezDViTfYH) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [I'll Play The Blues For You \[Stax Remasters\]](https://open.spotify.com/album/5rd2jVM4s3zRxEc1eNqDH3) | 7:19 | 2015-04-08 |  |
 | [Living on the Moon](https://open.spotify.com/track/2RJo1FHQqdY7p9ts5aHkfx) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades of Blue](https://open.spotify.com/album/5WWZEwutrC1lNobBicaTrV) | 3:21 | 2015-04-08 |  |
 | [Marry You](https://open.spotify.com/track/2ZCs3CbZkxpTIcqc2fFV1U) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 4:59 | 2015-04-08 |  |
-| [Match Box Blues](https://open.spotify.com/track/73XHbBJYj2cOoa7Z9qweVr) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \(Remaster w/ eBooklet\)](https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4) | 7:39 | 2015-04-08 |  |
+| [Match Box Blues](https://open.spotify.com/track/73XHbBJYj2cOoa7Z9qweVr) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \(Remaster w/ eBooklet\)](https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4) | 0:29 | 2015-04-08 |  |
 | [Midnight Comes Too Soon](https://open.spotify.com/track/04mFsxUSo7wPNoWkAoIdPJ) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [A Day In Nashville](https://open.spotify.com/album/1cxbV3myYFcGCSmEiGRVAQ) | 4:57 | 2015-04-08 |  |
 | [New Orleans](https://open.spotify.com/track/3heuIY0TVaGIBie2u50ukf) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Lickety Split](https://open.spotify.com/album/4diA4mctkNynDb13mAFdi3) | 4:12 | 2015-04-08 |  |
 | [One Of Them Damn Days](https://open.spotify.com/track/4p1T99HN7UIstgP8DnLMzu) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV) | [Mystic Pinball](https://open.spotify.com/album/49BkeULEYD5Lc2MHC5aynC) | 2:46 | 2015-04-08 |  |

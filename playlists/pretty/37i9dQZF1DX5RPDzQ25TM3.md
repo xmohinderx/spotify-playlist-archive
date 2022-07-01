@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5RPDzQ25TM3.md) - [plain]
 
 > Make like it's 2009 \#SpotifyTBT
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,649 likes - 40 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,646 likes - 40 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5RPDzQ25TM3.md) - [plain]
 | 11 | [Good Girls Go Bad \(feat\. Leighton Meester\)](https://open.spotify.com/track/14q14Lv5EA8BQ6tXjYj7Li) | [Cobra Starship](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY), [Leighton Meester](https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn) | [Good Girls Go Bad \(feat\. Leighton Meester\)](https://open.spotify.com/album/2P81egki4DkHmyUcZo4XJY) | 3:16 |
 | 12 | [One Time](https://open.spotify.com/track/6eDApnV9Jdb1nYahOlbbUh) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [My World](https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI) | 3:35 |
 | 13 | [Love Story](https://open.spotify.com/track/1JR0kZfJpeNPJKo4HhdQJP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Love Story](https://open.spotify.com/album/28Nq4AiAa0BW54KGWYFxot) | 3:54 |
-| 14 | [I'm Yours](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 4:02 |
+| 14 | [I'm Yours](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 0:29 |
 | 15 | [Whatcha Say](https://open.spotify.com/track/123NAAjn1RMY2WeoZH8pVN) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Whatcha Say](https://open.spotify.com/album/43dNcQDSnQjpLfsmrv1szt) | 3:41 |
 | 16 | [Live Your Life \- feat\. Rihanna](https://open.spotify.com/track/3KzBxXbF2tc01LeKu1uIMM) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Live Your Life \(feat\. Rihanna\) \[International\]](https://open.spotify.com/album/0yg9tXul3bJKg7sqrDACFC) | 5:38 |
 | 17 | [I Gotta Feeling](https://open.spotify.com/track/70cTMpcgWMcR18t9MRJFjB) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[International Version\]](https://open.spotify.com/album/5lNzygOpCmzRx4N301icBB) | 4:49 |

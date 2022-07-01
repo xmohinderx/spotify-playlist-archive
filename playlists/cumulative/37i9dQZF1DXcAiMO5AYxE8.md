@@ -4,7 +4,7 @@
 
 > All the best soul disco sounds for getting down.
 
-66 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/4d56K0ojoUctLC4v8eczuD)
+66 songs - 4 hr 37 min - [published](https://open.spotify.com/playlist/4d56K0ojoUctLC4v8eczuD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Lady Marmalade](https://open.spotify.com/track/5D24mVHltrDuUEDEtUapSG) | [LaBelle](https://open.spotify.com/artist/3DznKagEU8yMQZR9z33Da5) | [The Best of Disco](https://open.spotify.com/album/0Um71BYb1Zl8Oa6vSvn2ox) | 3:55 | 2020-04-14 |  |
 | [Let's Groove](https://open.spotify.com/track/6ZFMq8W8dyUbTee0GDb08X) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Boogie Wonderland: The Best Of Earth, Wind & Fire](https://open.spotify.com/album/0jk3NWc3eDE2X2i0B3p8lb) | 5:36 | 2020-04-14 |  |
 | [Lost in Music \- 1995 Remaster](https://open.spotify.com/track/7zpm7lTY2EZn7AfFm3mGg2) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [The Best of Sister Sledge \(1973\-1985\)](https://open.spotify.com/album/4L1Astvd0LwOkF49jQ2Uyt) | 4:47 | 2020-04-14 |  |
-| [Lotta Love](https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo) | [Nicolette Larson](https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw) | [Nicolette](https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu) | 3:11 | 2020-04-14 |  |
+| [Lotta Love](https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo) | [Nicolette Larson](https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw) | [Nicolette](https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu) | 0:29 | 2020-04-14 |  |
 | [Love Really Hurts Without You](https://open.spotify.com/track/1wZAaGMT6gnaCqck7dwjKv) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [The Very Best of Billy Ocean](https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi) | 2:59 | 2020-04-14 |  |
 | [Love Train](https://open.spotify.com/track/3JzdgVWdm7jvtnUgH1OHyw) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Collections](https://open.spotify.com/album/0mImd05G3t8DkjQdDdPEoI) | 2:57 | 2020-04-14 |  |
 | [More, More, More \- Single Version](https://open.spotify.com/track/105PDCSRSsFPoTPxBI0M92) | [Andrea True Connection](https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM) | [Disco Fever](https://open.spotify.com/album/5FQrUtk7oZmMFaatVJBW5r) | 3:00 | 2020-04-14 |  |

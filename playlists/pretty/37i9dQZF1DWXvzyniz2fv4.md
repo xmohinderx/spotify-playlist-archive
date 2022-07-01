@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,574 likes - 65 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,682 likes - 65 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 23 | [Bem Vindx à Lyra](https://open.spotify.com/track/2qQpfNUbSknXrr3p467tRj) | [Iuri Mesan](https://open.spotify.com/artist/7fLP8QqaHMqvAenq3PrvGP), [Isadora Vilela](https://open.spotify.com/artist/7pBFXpm3z5suv9hCELSMnU), [Zero](https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR), [Sagita'](https://open.spotify.com/artist/1zXaS6knKG0RnEdnTuIyg3) | [Bem Vindx à Lyra](https://open.spotify.com/album/11zJh3b4sbGY49SyRkJ0If) | 3:48 |
 | 24 | [É Você](https://open.spotify.com/track/1e75Ro02st0st8uA2hsUxl) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa), [Mc Chagas](https://open.spotify.com/artist/0IjA8u18H9avxbo1ioOHdj), [Mc Rei Delas](https://open.spotify.com/artist/4Kl6JWs9QqrJbtz9x75p6i) | [É Você](https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa) | 3:17 |
 | 25 | [Agradeço](https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa), [Felipe Brasil](https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9) | [Agradeço](https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn) | 3:33 |
-| 26 | [Qualquer Maneira](https://open.spotify.com/track/4OuOPF6CxMSUTXCuKhwKZT) | [Incógnito](https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8) | [Qualquer Maneira](https://open.spotify.com/album/7j1DUPvd4pw2Z6uI3QJj7r) | 5:31 |
-| 27 | [Andressa \- Acústico](https://open.spotify.com/track/3AyCU3NXCYto3ciPZwC1Dy) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p) | [Andressa \(Acústico\)](https://open.spotify.com/album/7apVrtPwkoqsBydVbmgG8J) | 3:07 |
+| 26 | [Qualquer Maneira](https://open.spotify.com/track/4OuOPF6CxMSUTXCuKhwKZT) | [Incógnito](https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8) | [Qualquer Maneira](https://open.spotify.com/album/7j1DUPvd4pw2Z6uI3QJj7r) | 0:29 |
+| 27 | [Andressa \- Acústico](https://open.spotify.com/track/3AyCU3NXCYto3ciPZwC1Dy) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p) | [Andressa \(Acústico\)](https://open.spotify.com/album/7apVrtPwkoqsBydVbmgG8J) | 0:29 |
 | 28 | [Marília Mendonça](https://open.spotify.com/track/1CBjYXLotHrkiykMbI7EaU) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Marília Mendonça](https://open.spotify.com/album/46SOz1ZyHOohm8ADANNKGs) | 1:53 |
 | 29 | [Vento Bom](https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2) | [MC 2jhow](https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ), [Mc Tekáda\-B](https://open.spotify.com/artist/3Pd4HB94kuGBGGDQVISkcU) | [Vento Bom](https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l) | 2:49 |
 | 30 | [Sabe Qual É](https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe) | [Nathan](https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA) | [Sabe Qual É](https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd) | 2:30 |

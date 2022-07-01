@@ -4,7 +4,7 @@
 
 > Le plus beau, le plus triste\. Photo: Alexandra Streliski
 
-102 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/1uamJwZjgxkyJHjt785hKa)
+102 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/1uamJwZjgxkyJHjt785hKa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Ciel](https://open.spotify.com/track/4RzXLiXCQTPi84oxicyNtV) | [Ariane Brunet](https://open.spotify.com/artist/4nW5qDmFfqfYsNEil8gqxg) | [Stella](https://open.spotify.com/album/35I4P4msenASz5z5xjSIdo) | 4:17 | 2021-02-06 |  |
 | [Dactylo](https://open.spotify.com/track/6xPHQaoVqtg2w5N2hSDp9c) | [Samuele](https://open.spotify.com/artist/0p0KSaRWc5tzxkzbujbScQ) | [Les filles sages vont au paradis, les autres vont où elles veulent](https://open.spotify.com/album/2Pg6cmuD4apL5PLrtNpeye) | 4:16 | 2021-02-06 |  |
 | [Dans le ruisseau](https://open.spotify.com/track/0pP4TkjbnooOW2OQ4qamkO) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5), [Antoine Corriveau](https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak) | [Comme une odeur de déclin](https://open.spotify.com/album/0B46PUCUbNH1lJJPVAmJ8s) | 3:12 | 2021-02-06 |  |
-| [dans ma main](https://open.spotify.com/track/318nZ563bycP9gP69dU0lQ) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [dans ma main](https://open.spotify.com/album/07p5a0wtvxzxIFdb8xSg8W) | 4:12 | 2021-02-06 |  |
+| [dans ma main](https://open.spotify.com/track/318nZ563bycP9gP69dU0lQ) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [dans ma main](https://open.spotify.com/album/07p5a0wtvxzxIFdb8xSg8W) | 0:29 | 2021-02-06 |  |
 | [Dis\-moi](https://open.spotify.com/track/5nyQsFzJv3R7EcuWjwuDCi) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [Dis\-moi](https://open.spotify.com/album/2lCu0zzJtPiDSjQWMK3uBt) | 5:06 | 2021-02-06 |  |
 | [Domenico](https://open.spotify.com/track/4yJEtUfjCMB67Ovt7axGAv) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [22H22](https://open.spotify.com/album/42LXZidQyNhWGjJKis43T6) | 3:23 | 2021-02-06 |  |
 | [Elles](https://open.spotify.com/track/6EpNuGPeUHHyQajZuhbJvp) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w), [Frannie Holder](https://open.spotify.com/artist/6tRHDWQrzx6iK7tqSH69Lw) | [Elles](https://open.spotify.com/album/2Ci9LGrl1wf24m2ckMb4hR) | 4:13 | 2021-02-06 |  |
@@ -42,7 +42,7 @@
 | [Je sais](https://open.spotify.com/track/3LDuDSAyLuICLyhieUy6v0) | [Mina Tindle](https://open.spotify.com/artist/1myZw5gJTFWZUrqv4Qdq2E) | [Parades](https://open.spotify.com/album/68gezXq5hixi4zYIow8L22) | 3:33 | 2021-02-06 |  |
 | [Je veux de la lumière](https://open.spotify.com/track/2Ai6JxSdC8pYe6LoDvhstv) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [L'été](https://open.spotify.com/album/0BWPiGzJX7metY5xFS5q1y) | 4:28 | 2021-02-06 |  |
 | [Kirchner](https://open.spotify.com/track/09V0UyNXPmh42wyZKuXN5u) | [Julien Manaud](https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f) | [Kirchner](https://open.spotify.com/album/7liiZjV93hTameQ0eOyhWW) | 3:00 | 2021-02-06 |  |
-| [L'atelier](https://open.spotify.com/track/23KqejV4S6EAAHtQzqtq1q) | [David Giguère](https://open.spotify.com/artist/5p1R7oow69gd6tiEypZG3B) | [Hisser haut](https://open.spotify.com/album/2HDkdbOkHEZ9AtNRBxBIvR) | 3:22 | 2021-02-06 |  |
+| [L'atelier](https://open.spotify.com/track/23KqejV4S6EAAHtQzqtq1q) | [David Giguère](https://open.spotify.com/artist/5p1R7oow69gd6tiEypZG3B) | [Hisser haut](https://open.spotify.com/album/2HDkdbOkHEZ9AtNRBxBIvR) | 0:29 | 2021-02-06 |  |
 | [L'hiver](https://open.spotify.com/track/4GZNelA197oqxFMfwgABUk) | [Alexe](https://open.spotify.com/artist/25OceRescHJwftJk284v8K) | [Alexe](https://open.spotify.com/album/3DHxT9Sw6zYnTfl9yxUYST) | 4:33 | 2021-02-06 |  |
 | [L'oiseau mécanique](https://open.spotify.com/track/1Ejncf31O6GHVMI5gsZRPN) | [Stéphanie Lapointe](https://open.spotify.com/artist/0bEvfTJsHHsTxqpqzWGXDw) | [Les amours parallèles](https://open.spotify.com/album/11T9d2RtUrwFYRisTUgStp) | 3:38 | 2021-02-06 |  |
 | [L'éloge des dernières fois](https://open.spotify.com/track/3zCpnWcLYS8dsi497CNhcm) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Tokyo](https://open.spotify.com/album/0bMiShtGJ5QjAehkO34ULW) | 3:21 | 2021-02-06 |  |
@@ -101,7 +101,7 @@
 | [Throes](https://open.spotify.com/track/5mBkv8yj6OIN7E8Td1LcMC) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n), [Dylan Phillips](https://open.spotify.com/artist/5hH80bWKv0SEYAFlESiiQP) | [Sun Leads Me On](https://open.spotify.com/album/524nTFaECBD4ftiDNLYDKM) | 0:54 | 2021-02-06 |  |
 | [Trente ans](https://open.spotify.com/track/4i3MtW5nk16Ct5lzeI9x1s) | [Laurence Hélie](https://open.spotify.com/artist/1TazAmJyAWviNg6dPC6JcE) | [À présent le passé](https://open.spotify.com/album/04FLJLihX94PnInFUonkY5) | 4:29 | 2021-02-06 |  |
 | [Trop tard](https://open.spotify.com/track/0kGlndxcDA7drOZwgt4eOd) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Habit](https://open.spotify.com/album/47BeET8hEy09koztGMjD70) | 3:16 | 2021-02-06 |  |
-| [Tu me manques \(pourtant tu es là\)](https://open.spotify.com/track/1BiKX3nYW3RDWGJmMpJ6hf) | [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf), [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Trafic](https://open.spotify.com/album/6QriOvmJsd9myTf4oyyJXB) | 4:13 | 2021-02-06 |  |
+| [Tu me manques \(pourtant tu es là\)](https://open.spotify.com/track/1BiKX3nYW3RDWGJmMpJ6hf) | [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf), [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Trafic](https://open.spotify.com/album/6QriOvmJsd9myTf4oyyJXB) | 0:29 | 2021-02-06 |  |
 | [Un autre amour](https://open.spotify.com/track/329d06nIUGV7dRE6xYwblR) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [Matthias & Maxime \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1DBjSrdtHrW3RudYzyhCKR) | 2:47 | 2021-02-06 |  |
 | [Un Autre Été](https://open.spotify.com/track/22sQRY8rd7fIbIgMHRc3eO) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h) | [Un Autre Été](https://open.spotify.com/album/1EPQK7vUSd8UQzVLToWnWf) | 3:09 | 2021-02-06 |  |
 | [Un monstre](https://open.spotify.com/track/7lfYb4U3F4cNsPWUNicDUK) | [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Le treizième étage](https://open.spotify.com/album/6Z8fno2gZIrqRxGWaS1Rfj) | 6:29 | 2021-02-06 |  |

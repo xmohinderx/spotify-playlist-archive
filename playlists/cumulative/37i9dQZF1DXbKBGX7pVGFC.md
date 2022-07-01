@@ -4,13 +4,13 @@
 
 > Shout\. Strut\. Unite\. Riot Grrrl classics and other feminist staples.
 
-50 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/3eskUlqxPCMMZOE5csh3l5)
+50 songs - 2 hr 31 min - [published](https://open.spotify.com/playlist/3eskUlqxPCMMZOE5csh3l5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [50ft Queenie](https://open.spotify.com/track/3fJprjhRxTVtOp18EHdNfu) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 2:23 | 2019-08-21 |  |
 | [Any Resemblance...](https://open.spotify.com/track/5UK3u6D99v7rsOZboMDnMy) | [Cold Cold Hearts](https://open.spotify.com/artist/1LdA2Q0GE08HyoCdjbBbxa) | [Cold Cold Hearts](https://open.spotify.com/album/3Z9ZfzS8g72Walvv4qhmNU) | 2:04 | 2019-08-21 |  |
-| [Bad Ass Bitch](https://open.spotify.com/track/6RnIQtsHeCWSA9ILQgx6J1) | [Lunachicks](https://open.spotify.com/artist/3p3KAZ6zqhFkkH5ZdTuS5X) | [Luxury Problem](https://open.spotify.com/album/5QZhFMU4gDHawZeZFCjKXr) | 4:08 | 2019-08-21 |  |
+| [Bad Ass Bitch](https://open.spotify.com/track/6RnIQtsHeCWSA9ILQgx6J1) | [Lunachicks](https://open.spotify.com/artist/3p3KAZ6zqhFkkH5ZdTuS5X) | [Luxury Problem](https://open.spotify.com/album/5QZhFMU4gDHawZeZFCjKXr) | 0:29 | 2019-08-21 |  |
 | [Be Yr Mama](https://open.spotify.com/track/4zVWgMpKtdZ2PjUiAwmBJ1) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Sleater\-Kinney \(Remastered\)](https://open.spotify.com/album/3lQ9hhX2B7DPtEDZznyRtT) | 2:52 | 2019-08-21 |  |
 | [Bitch Theme](https://open.spotify.com/track/4UFkxKK6gvKTyx7QTln2jc) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Pottymouth](https://open.spotify.com/album/18FoSWsA63ZVL2t859PYv4) | 1:31 | 2019-08-21 |  |
 | [Cherry Bomb](https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 2:18 | 2019-08-21 |  |

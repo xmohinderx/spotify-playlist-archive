@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PMbm7GPN1x.md) - [plain]
 
 > Relive the 80s disco era with these hits\. Cover\- Bappi Lahiri
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,090 likes - 50 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,111 likes - 50 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PMbm7GPN1x.md) - [plain]
 | 16 | [Kasam Paida Karnewale](https://open.spotify.com/track/2tLBrpJMO18jFGGgbuzvUQ) | [Salma Agha, Bappi Lahiri, Chorus, Vijay Benedict](https://open.spotify.com/artist/4mT0O2ROvB6iOgP88gy1Bc) | [Kasam Paida Karnewale Ki](https://open.spotify.com/album/3TfLldnWadz6Ge9auIgY3J) | 6:24 |
 | 17 | [I Am A Disco Dancer](https://open.spotify.com/track/5IvBhmCrAHyNRIqBQ0n00Q) | [Vijay Benedict](https://open.spotify.com/artist/0LyiuqDYSPZCXAuEkPJ8jZ) | [Disco Dancer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HWHznN9Yi0HBMYWxifg3S) | 7:47 |
 | 18 | [Aao Na \- Album \- Disco Deewane](https://open.spotify.com/track/2AGXWUWXVW6DhJrYKh6URU) | [Nazia Hassan](https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR) | [Disco Deewane](https://open.spotify.com/album/5r0Od0pl5HlKmlEgnnYOkl) | 4:09 |
-| 19 | [Hari Om Hari](https://open.spotify.com/track/01XB8eBdOVeSzNGIRQqqv7) | [Usha Uthup](https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa) | [Pyaara Dushman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1EGYsYtquqd98zUrLOn53B) | 6:38 |
+| 19 | [Hari Om Hari](https://open.spotify.com/track/01XB8eBdOVeSzNGIRQqqv7) | [Usha Uthup](https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa) | [Pyaara Dushman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1EGYsYtquqd98zUrLOn53B) | 0:29 |
 | 20 | [Aap Ke Aa Jane Se \(From "Khudgarz"\)](https://open.spotify.com/track/0HkyMWJTYyhp4kALs17YlA) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek), [Mohammed Aziz](https://open.spotify.com/artist/3vXBH4XwXSLM1YIrRBt98k) | [Melodious Voice of Sadhana Sargam](https://open.spotify.com/album/7ID29f8hV3J5IOFmugRQQo) | 7:12 |
 | 21 | [Dil Lena Khel Hai Dildar Ka / Dialogue & Music : Laila , Majnu , Sheri , Farah \(Zamaane Ko Dikhana Hai\) \- Zamaane Ko Dikhana Hai / Soundtrack Version](https://open.spotify.com/track/0eUIFoZp2GtOLkd2MRZaBH) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Zamaane Ko Dikhana Hai \(OST\)](https://open.spotify.com/album/3YZnhGgYdoLoELL5sEchOD) | 7:59 |
 | 22 | [Udi Baba](https://open.spotify.com/track/4cdy3F7hCRFN8HvVIdOFTq) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Vidhaata \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3UaPWSo0xzoG0X82x7TZdw) | 6:23 |

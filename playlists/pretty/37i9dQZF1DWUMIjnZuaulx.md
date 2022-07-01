@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  The Fisk Jubilee Singers
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,173 likes - 100 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,316 likes - 100 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 68 | [Never Let Me Down \- Radio Edit](https://open.spotify.com/track/0vlEquyZ5kmN7BRAEd1prT) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH) | [Never Let Me Down \(Radio Edit\)](https://open.spotify.com/album/3gbha6N9JuiaXLB29z4AeN) | 4:09 |
 | 69 | [Praise His Holy Name \- Steppers Remix](https://open.spotify.com/track/2COIYESSMOjSNbm0X0nQK6) | [Maurice Joshua](https://open.spotify.com/artist/19T6vS2Umo5usI9wOVnKMd), [The Whispers](https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg) | [Praise His Holy Name \(Steppers Remix\)](https://open.spotify.com/album/7uZOD4qSnjVHDwv8Od0aZP) | 3:45 |
 | 70 | [Victory Remix](https://open.spotify.com/track/33725qjUklLUs5uZhN7Vtt) | [Kenny Lewis & One Voice](https://open.spotify.com/artist/7jWXyzgbVBqDzi3YszuL3O), [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA) | [Victory Remix](https://open.spotify.com/album/5D8ulRfzaLnRI9faAnvOQl) | 6:04 |
-| 71 | [One Touch](https://open.spotify.com/track/2OQY9SKxc9t97hlnN5Kx4t) | [Jabari Johnson](https://open.spotify.com/artist/51GgoENlsYAeLjWWsbCBAY) | [One Touch](https://open.spotify.com/album/1sljAXtcwQbrng7PrXv418) | 7:16 |
+| 71 | [One Touch](https://open.spotify.com/track/2OQY9SKxc9t97hlnN5Kx4t) | [Jabari Johnson](https://open.spotify.com/artist/51GgoENlsYAeLjWWsbCBAY) | [One Touch](https://open.spotify.com/album/1sljAXtcwQbrng7PrXv418) | 0:29 |
 | 72 | [Soul Pilot](https://open.spotify.com/track/0lqTHYyNFT6lUrQmcJql0o) | [Loren Mulraine](https://open.spotify.com/artist/3XNRiHEtnDhAmrv5EoZesW) | [Soul Pilot](https://open.spotify.com/album/2in6hHBjzB4oqQKn84ertW) | 4:12 |
 | 73 | [We Lift Our Worship \- Live](https://open.spotify.com/track/5WjqeVx7TnVzt4QJ38Paan) | [Isabel Davis](https://open.spotify.com/artist/0zLMumXvsZqoNGYU5KWHX0) | [We Lift Our Worship \(Live\)](https://open.spotify.com/album/6uL3mree4y7rbNGDdQQ9AD) | 8:00 |
 | 74 | [I'll Follow You](https://open.spotify.com/track/6bkBiQxDp9unoErvuUbNBk) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [I'm Here For You](https://open.spotify.com/album/4k3H2ZFyssNiUyF5v3vg9l) | 3:30 |

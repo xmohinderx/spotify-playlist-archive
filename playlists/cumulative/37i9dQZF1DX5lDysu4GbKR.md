@@ -4,7 +4,7 @@
 
 > Relax to these acoustic soul songs\. Cover: Allen Stone
 
-119 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/7iaAsve80WPfpQJbVIqmFm)
+119 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/7iaAsve80WPfpQJbVIqmFm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,9 +107,9 @@
 | [Socials \- Acoustic](https://open.spotify.com/track/643kFnFHrshqpBVJHPqS45) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [Elvis from Paradise](https://open.spotify.com/artist/199vtJaeoEBE4m4yJoB4wp), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Socials \(Acoustic\)](https://open.spotify.com/album/2HxdLVy8eXluEKfQnbut9l) | 3:04 | 2021-12-09 |  |
 | [Sorry \- Acoustic](https://open.spotify.com/track/6YEHDq6g27waFGt9oOtjoh) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv), [Hmlss](https://open.spotify.com/artist/5MIQztLQ1z5KBxe5cU3Fdq) | [Sorry \(Acoustic\)](https://open.spotify.com/album/7vqLcoCPelj0Y4KguIDLAi) | 3:55 | 2021-12-09 |  |
 | [Speak Now](https://open.spotify.com/track/4AIaSod5XuXDApmMv1ATqr) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN) | [Speak Now \(From The Motion Picture Soundtrack Of One Night In Miami...\)](https://open.spotify.com/album/7lj05DmCzCTu4Hxvnk1jAR) | 3:37 | 2021-12-09 |  |
-| [Still \- Mahogany Sessions](https://open.spotify.com/track/4YE0W3TgLWGr5lbRjCynfl) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [America / Still \(Mahogany Sessions\)](https://open.spotify.com/album/5mvlL1QYEbuXfWBCtX3EZL) | 3:18 | 2021-12-09 |  |
+| [Still \- Mahogany Sessions](https://open.spotify.com/track/4YE0W3TgLWGr5lbRjCynfl) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [America / Still \(Mahogany Sessions\)](https://open.spotify.com/album/5mvlL1QYEbuXfWBCtX3EZL) | 0:29 | 2021-12-09 |  |
 | [Stronger Than](https://open.spotify.com/track/5BhEJz8HuJttbVbKNJ3NFO) | [Gabe Bondoc](https://open.spotify.com/artist/6YloMIsWjpHzIRK8s5tzAr) | [One](https://open.spotify.com/album/4Jf5anF31w9IHg9EUa6FSQ) | 4:26 | 2021-12-09 |  |
-| [SULA \(Paperback\)](https://open.spotify.com/track/1vTfSWBXwH0Aih8vpTu0xi) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA \(Paperback\)](https://open.spotify.com/album/01JhAnnK43SleFCNaVeJXK) | 4:15 | 2021-12-09 |  |
+| [SULA \(Paperback\)](https://open.spotify.com/track/1vTfSWBXwH0Aih8vpTu0xi) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA \(Paperback\)](https://open.spotify.com/album/01JhAnnK43SleFCNaVeJXK) | 0:29 | 2021-12-09 |  |
 | [Talk In The Morning \- Acoustic](https://open.spotify.com/track/4E9xdYBKevFHZVfX91w3tP) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Talk In The Morning \(Acoustic\)](https://open.spotify.com/album/1ZboNHs3k8AGSjAOgCNYLC) | 3:24 | 2021-12-09 |  |
 | [The Reason Why \- Guitar Acoustic](https://open.spotify.com/track/45X6MX8ja2Mbq4vzJuDZCj) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [The Reason Why \(Acoustics\)](https://open.spotify.com/album/5IF22Rph1d2GA3cTlhCQoh) | 3:09 | 2021-12-09 |  |
 | [This Womans Work](https://open.spotify.com/track/5JoZlm8om4GQPZmRwe4QUg) | [Tingsek](https://open.spotify.com/artist/7ld5C8ya3nwAnCTHG923VE) | [Tingsek & Vindla String Quartet feat\. Måns Mernsten](https://open.spotify.com/album/6RjoVMuBbQYEGye4kswCYe) | 3:47 | 2021-12-09 |  |

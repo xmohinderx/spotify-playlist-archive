@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUvpePTXR1D.md) - [plain]
 
 > Sway your way through the evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,561 likes - 140 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,614 likes - 140 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUvpePTXR1D.md) - [plain]
 | 30 | [Something Simple](https://open.spotify.com/track/4a1HMAk6ABM11NPJvBkkeT) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Something Simple](https://open.spotify.com/album/21Fj4477nfc4wOV6UZjL0u) | 3:50 |
 | 31 | [Slow Dancing](https://open.spotify.com/track/11wR9PrHL8cW9fdQOjX15L) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Slow Dancing](https://open.spotify.com/album/2bspvMUoispCtccpCLWTlq) | 4:27 |
 | 32 | [Into The Mystic](https://open.spotify.com/track/3KnqKmlmKlgx0nmGM5Ks8Z) | [Andy Kong](https://open.spotify.com/artist/0Qrp8cpHBz47dbOyPfzzhP) | [Into The Mystic](https://open.spotify.com/album/1fIX2SntYbzlZxR1LB7uOR) | 2:48 |
-| 33 | [I Melt With You](https://open.spotify.com/track/11Ftd4jfRnTeAcDYZgxnGx) | [Daulton Hopkins](https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS) | [I Melt With You](https://open.spotify.com/album/3U5EtpqL7RLpfjAlkvV4OV) | 3:37 |
+| 33 | [I Melt With You](https://open.spotify.com/track/11Ftd4jfRnTeAcDYZgxnGx) | [Daulton Hopkins](https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS) | [I Melt With You](https://open.spotify.com/album/3U5EtpqL7RLpfjAlkvV4OV) | 0:29 |
 | 34 | [Colors](https://open.spotify.com/track/6vaSStNN5NX4nJ4QbRY3S0) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/54SlWgNocRPhlZEFTYjOfW) | 4:06 |
 | 35 | [Stay High](https://open.spotify.com/track/4vtyIW5uMCzu827nc5ThVt) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/6fbphjr9j57oxMB2bnhzUf) | 3:11 |
 | 36 | [Forever](https://open.spotify.com/track/4OV46g6ZgbOT4qVv1jWXTR) | [The Shadowboxers](https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4) | [Forever](https://open.spotify.com/album/5dj2rffvnfVtXwV505U3no) | 3:17 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUvpePTXR1D.md) - [plain]
 | 57 | [Green & Gold](https://open.spotify.com/track/4VPpZXXeZHfpzvHNaPjLcF) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Blood](https://open.spotify.com/album/0OyUgwL97FT5MWpBLqL6br) | 4:38 |
 | 58 | [Venom of Angels](https://open.spotify.com/track/6CZT7NYQ6dAHDtGWRf9dJz) | [Irma](https://open.spotify.com/artist/7KTLYKJhcUOMgNgayxBj9f) | [Venom of Angels](https://open.spotify.com/album/3xlrnbjsSvw1gaNkdP4Qey) | 3:42 |
 | 59 | [Come Away With Me](https://open.spotify.com/track/52FKX00U3PnzrBQmbMTB8b) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Deluxe Edition\)](https://open.spotify.com/album/6PguISnE2nz7CuhnIAWhQF) | 3:18 |
-| 60 | [The Last Song On Earth](https://open.spotify.com/track/6n8QYU46m0dO6HIKG0GN8S) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Two Songs For Now](https://open.spotify.com/album/6iU4TOsjA7CmhOb7XgXp40) | 3:53 |
+| 60 | [The Last Song On Earth](https://open.spotify.com/track/6n8QYU46m0dO6HIKG0GN8S) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Two Songs For Now](https://open.spotify.com/album/6iU4TOsjA7CmhOb7XgXp40) | 0:29 |
 | 61 | [Little Things](https://open.spotify.com/track/74mU4zNiHJl990F6gqBG4p) | [Charlie Brennan](https://open.spotify.com/artist/3YzXK1DQ9EkWqwmUkk6yc8), [Madelyn Paquette](https://open.spotify.com/artist/4yL7BcVGrznuqkWFmNM19M) | [Little Things](https://open.spotify.com/album/7z7s43LmJPmOqe9Wrmlbjw) | 2:26 |
 | 62 | [Perfectly Imperfect \- Gospel Choir Version](https://open.spotify.com/track/31FMQkdIK5MuclQbVC6d0z) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Perfectly Imperfect](https://open.spotify.com/album/7c0YzmmaKBhcGpD5YROdQB) | 3:14 |
 | 63 | [Home Again](https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 3:32 |
@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUvpePTXR1D.md) - [plain]
 | 110 | [Say It Now](https://open.spotify.com/track/0UkwLJL3rIop8vwAwGHjDd) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Say It Now](https://open.spotify.com/album/1eKlnFGyckKc4P06mfzJyK) | 3:23 |
 | 111 | [Mirror](https://open.spotify.com/track/5G2Q4Vx9zwBAdQoEWgM8uX) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Mirror](https://open.spotify.com/album/1JrRrStvJ9LpCYgYaMUOMH) | 3:14 |
 | 112 | [She's Mine](https://open.spotify.com/track/3dKcdJ2gEJhlTbQUIXhbbN) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [So Much More](https://open.spotify.com/album/6DtYU4r7UWXV6NmnuKty7m) | 4:31 |
-| 113 | [Chew On My Heart \- Piano & Voice](https://open.spotify.com/track/4VyOYqqy4sXCKsdx1mBDBc) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chew On My Heart \(Piano & Voice\)](https://open.spotify.com/album/3rZWc6tU0jEtwtrT3o2NvQ) | 3:41 |
+| 113 | [Chew On My Heart \- Piano & Voice](https://open.spotify.com/track/4VyOYqqy4sXCKsdx1mBDBc) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chew On My Heart \(Piano & Voice\)](https://open.spotify.com/album/3rZWc6tU0jEtwtrT3o2NvQ) | 0:29 |
 | 114 | [Changes](https://open.spotify.com/track/1fOc4Kf82a6J1C9gS5sE0d) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [Changes](https://open.spotify.com/album/7g7WzMzTLLOyTSzVUnJACI) | 6:00 |
 | 115 | [Lost In The Light](https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/4GRRGsQBwwd2kKaEXZqVNd) | 3:56 |
 | 116 | [Be Your Man](https://open.spotify.com/track/5rWjy4ys7LdinaFKZQBlZh) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Be Your Man](https://open.spotify.com/album/052JsWmQlm2x415X7glETB) | 4:00 |

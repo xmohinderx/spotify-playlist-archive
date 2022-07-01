@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp3yzk1civi.md) - [plain]
 
 > Relax to the more laid back sounds from today's greatest artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,842 likes - 51 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,829 likes - 51 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp3yzk1civi.md) - [plain]
 | 18 | [willow](https://open.spotify.com/track/3Uo7WG0vmLQ07WB4BDwy7D) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm) | 3:34 |
 | 19 | [Whole](https://open.spotify.com/track/2JZixjPnrQ67VOPQRDKSmH) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Whole](https://open.spotify.com/album/5rITGmazx7CpQZ8N3nTgaW) | 2:54 |
 | 20 | [The Sun Will Rise](https://open.spotify.com/track/2zEh9FgszAX9ms1rdOeDX0) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [The Sun Will Rise](https://open.spotify.com/album/3QC6ggv8vSOBWdIwkLU7BQ) | 3:03 |
-| 21 | [Your Power](https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Your Power](https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3) | 4:05 |
+| 21 | [Your Power](https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Your Power](https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3) | 0:29 |
 | 22 | [I’m Here for You](https://open.spotify.com/track/6qyPimk15pulIffKWUmEf7) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [I’m Here for You](https://open.spotify.com/album/54MmocNCchoMEor4lVo9ld) | 3:18 |
 | 23 | [Worst Ways](https://open.spotify.com/track/0ghlRol8j3cTjF5qn6dl5U) | [Rudie Edwards](https://open.spotify.com/artist/0UoYusnqGbla21PGYGmLfk) | [Worst Ways](https://open.spotify.com/album/0ZgynlbWqNOEKO2s5ANa1j) | 3:21 |
 | 24 | [The Hardest Part](https://open.spotify.com/track/4IwBk5Aje86JStWWhUm8Xp) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [What Am I Gonna Do On Sundays?](https://open.spotify.com/album/1nAyMIwsiY0PbGzFbRY742) | 2:56 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp3yzk1civi.md) - [plain]
 | 27 | [The Usual](https://open.spotify.com/track/2BypOWlak6LbJ2raGGzukY) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Homework Part 1](https://open.spotify.com/album/1oeQryPTvkNIr90wRPrkaZ) | 3:32 |
 | 28 | [Strange](https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:15 |
 | 29 | [Rules](https://open.spotify.com/track/2XIwD3NmkwkFFohxfqcYxB) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [Rules](https://open.spotify.com/album/0IZ0oihPi9rH8eOpCzLJE3) | 3:13 |
-| 30 | [Seven](https://open.spotify.com/track/7FRICngbPiyTPEKF7wRC9G) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Seven](https://open.spotify.com/album/0h6H0mvA1LVBjamUATXOM3) | 3:43 |
+| 30 | [Seven](https://open.spotify.com/track/7FRICngbPiyTPEKF7wRC9G) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Seven](https://open.spotify.com/album/0h6H0mvA1LVBjamUATXOM3) | 0:29 |
 | 31 | [butterfly](https://open.spotify.com/track/34ZfAjSGM4vxJ1P6N5geSp) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [butterfly](https://open.spotify.com/album/4n0NmhE2JvEhqkfdQnPDW6) | 3:09 |
 | 32 | [Falling For You](https://open.spotify.com/track/3G2V4UFoKTsUbJNCtNVJN1) | [Fia Moon](https://open.spotify.com/artist/0UIbKpz6Owrre4L7XNjad4) | [Falling For You](https://open.spotify.com/album/18LFvHoWe0ePVDzuFb8mHO) | 4:12 |
 | 33 | [Hymn for Her \(feat\. Lydia Clowes\)](https://open.spotify.com/track/2mKl6EfVpKxrCIdAmMAruF) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Hymn for Her](https://open.spotify.com/album/4PYpVd1NV1nT6fpkWzhGIC) | 3:18 |

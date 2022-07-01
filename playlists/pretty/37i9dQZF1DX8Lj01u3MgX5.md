@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Lj01u3MgX5.md) - [plain]
 
 > 80's Edition!  D\-Nice's essential jams for any party at home!
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,801 likes - 69 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,863 likes - 69 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Lj01u3MgX5.md) - [plain]
 | 12 | [Back To Life](https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf), [Caron Wheeler](https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY) | [Keep On Movin'](https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni) | 3:48 |
 | 13 | [Bang Zoom \(Let's Go\-Go\)](https://open.spotify.com/track/2AGmw3ewDomsRH8soSFpbS) | [The Real Roxanne](https://open.spotify.com/artist/0tWFCFuGxmuWwPL8PUHCU5) | [The Real Roxanne](https://open.spotify.com/album/1GaU037lWFDr9qu19zDuIk) | 5:57 |
 | 14 | [Behind The Groove](https://open.spotify.com/track/6nXCHvql32RBADi95fvHo9) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Lady T \(Expanded Edition 15 Track Version\)](https://open.spotify.com/album/4U0XSBp2dWNCD0aFl7oLTz) | 6:05 |
-| 15 | [Black Betty](https://open.spotify.com/track/2ZOTtG7v1OrSNs6EINIGb4) | [Ram Jam](https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz) | [The Very Best Of Ram Jam](https://open.spotify.com/album/6s1bwzTzWK3u9I4YPjp3lr) | 3:57 |
+| 15 | [Black Betty](https://open.spotify.com/track/2ZOTtG7v1OrSNs6EINIGb4) | [Ram Jam](https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz) | [The Very Best Of Ram Jam](https://open.spotify.com/album/6s1bwzTzWK3u9I4YPjp3lr) | 0:29 |
 | 16 | [Break My Stride](https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT) | [Matthew Wilder](https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP) | [I Don't Speak The Language](https://open.spotify.com/album/2coqGqbnSCAy740mClWesA) | 3:04 |
 | 17 | [Bounce, Rock, Skate, Roll](https://open.spotify.com/track/2zt545oVs5FxS39b5NB5we) | [Vaughan Mason and Crew](https://open.spotify.com/artist/5MBBgzM082fkQbg75YyKBO) | [Roll Bounce Soundtrack](https://open.spotify.com/album/3FTg8lRnHz4OqHk2Yj7dHl) | 5:29 |
 | 18 | [The Breaks](https://open.spotify.com/track/5TvcggVu3s2P1fMAS8BupX) | [Kurtis Blow](https://open.spotify.com/artist/25TKXk9zo9yk0HMJQ3TuE9) | [Kurtis Blow](https://open.spotify.com/album/1ZcUKK3nnmuYVGEUBxXSXt) | 7:43 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Lj01u3MgX5.md) - [plain]
 | 30 | [I Didn't Mean To Turn You On](https://open.spotify.com/track/7EejjSh1WDrm81z0u3Fhmk) | [Cherrelle](https://open.spotify.com/artist/4R2ZUCVWjJs5ef9pjnCVC4) | [Fragile](https://open.spotify.com/album/6jb40W1fi6E9OMh9YBEzc1) | 7:03 |
 | 31 | [Din daa daa \- Original Version 1983](https://open.spotify.com/track/6IibbxjQER0Y1yKtS7wiQV) | [George Kranz](https://open.spotify.com/artist/0XLhfP0Nt0IYLLKqfWjnbb) | [Din daa daa](https://open.spotify.com/album/77drDlevpf61Fli55FKDal) | 4:11 |
 | 32 | [Doctor Love](https://open.spotify.com/track/6G8s19BainATJIjqIwXcre) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4) | [12" Master Series Vol\. 1](https://open.spotify.com/album/2Q0k4pZ92k6xI2tQbb4zqk) | 8:20 |
-| 33 | [Don't Wanna Fall in Love](https://open.spotify.com/track/6eozUVzr02EXMji1vuxgiP) | [Jane Child](https://open.spotify.com/artist/5JBif5ahOKFFVuEpHhrp8Y) | [Jane Child](https://open.spotify.com/album/7lctp9rkvSczgxQ7OGKQaO) | 4:07 |
+| 33 | [Don't Wanna Fall in Love](https://open.spotify.com/track/6eozUVzr02EXMji1vuxgiP) | [Jane Child](https://open.spotify.com/artist/5JBif5ahOKFFVuEpHhrp8Y) | [Jane Child](https://open.spotify.com/album/7lctp9rkvSczgxQ7OGKQaO) | 0:29 |
 | 34 | [Don't Waste Your Time](https://open.spotify.com/track/6HCAvDSaFft5KL0ozPFgLs) | [Yarbrough & Peoples](https://open.spotify.com/artist/0rJcrQfLLtWSJAKbZPk6NV) | [Be a Winner](https://open.spotify.com/album/473YExvg2r8Y82kiAFolOc) | 7:29 |
 | 35 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Once Upon A Time \(Super Deluxe\)](https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm) | 4:23 |
 | 36 | [Down Under](https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Business As Usual](https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84) | 3:42 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Lj01u3MgX5.md) - [plain]
 | 40 | [Fake](https://open.spotify.com/track/3wN45r0Lz73AQcuvY2pdVe) | [Alexander O'Neal](https://open.spotify.com/artist/047D9GgqEzyMoULd2oKr7G) | [Hearsay](https://open.spotify.com/album/5K4obZM7WvlNQ5B9CJ6KgA) | 3:55 |
 | 41 | [The Glow of Love](https://open.spotify.com/track/2tpRtiVvuI4WnwpPYwk9Z6) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE) | [The Glow Of Love](https://open.spotify.com/album/2rzk6jm1tR1ZSAU5IVvyFP) | 6:14 |
 | 42 | [Forget Me Nots](https://open.spotify.com/track/7vuSGejUXpD365Nl9tyehq) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight From The Heart](https://open.spotify.com/album/73TPk27H5MBU6flqQ1lr09) | 4:35 |
-| 43 | [Found a Cure](https://open.spotify.com/track/1gND1zOlYtYgXdhRmpIOGJ) | [Ashford & Simpson](https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi), [James Simpson](https://open.spotify.com/artist/2iphCH37GnHODxVanwu4Wf) | [Stay Free](https://open.spotify.com/album/0deJgBEQc6s9ljcW2My2uV) | 7:01 |
+| 43 | [Found a Cure](https://open.spotify.com/track/1gND1zOlYtYgXdhRmpIOGJ) | [Ashford & Simpson](https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi), [James Simpson](https://open.spotify.com/artist/2iphCH37GnHODxVanwu4Wf) | [Stay Free](https://open.spotify.com/album/0deJgBEQc6s9ljcW2My2uV) | 0:29 |
 | 44 | [Freaks Come Out at Night](https://open.spotify.com/track/1JKJZLqLUh0vlemaD3IfLe) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [Escape \(Expanded Edition\)](https://open.spotify.com/album/0wXylkn9taeEjiiac1S2zU) | 4:44 |
 | 45 | [Funky Sensation](https://open.spotify.com/track/3SHKFKCccGc2gZkI7G1hMZ) | [Gwen McCrae](https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU) | [Funky Sensation \(MAW Mix\)](https://open.spotify.com/album/3xur0MAndcfC6MxQUa9o60) | 6:38 |
 | 46 | [Games People Play](https://open.spotify.com/track/7I5addssslGqt9rMJOypC9) | [Sweet G](https://open.spotify.com/artist/7wUlpdzzHI3cDIf1Rl4Bzk) | [Games People Play](https://open.spotify.com/album/6UQsMJRwGRVbKYGxIml8Ea) | 5:49 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Lj01u3MgX5.md) - [plain]
 | 65 | [Just a Touch of Love](https://open.spotify.com/track/1abbmCW62dP7ag10VjQBz4) | [Slave](https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e) | [Just A Touch Of Love](https://open.spotify.com/album/1KGJvJwBNbDpMW29QdW7qg) | 6:32 |
 | 66 | [My Philosophy](https://open.spotify.com/track/2P8KBF5BtraQiGpxDXrCnF) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [By All Means Necessary \(Expanded Edition\)](https://open.spotify.com/album/1ucCcn3bSPePeI67kUapwB) | 5:40 |
 | 67 | [Rock The Bells](https://open.spotify.com/track/4F4neui0edP1ozygvFiCi7) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Radio](https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a) | 4:00 |
-| 68 | [Sucker M.C.'s \(Krush\-Groove 1\)](https://open.spotify.com/track/3hx5R8nOKu5zvhlfDNSIQC) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [RUN\-DMC \(Expanded Edition\)](https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8) | 3:09 |
+| 68 | [Sucker M.C.'s \(Krush\-Groove 1\)](https://open.spotify.com/track/3hx5R8nOKu5zvhlfDNSIQC) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [RUN\-DMC \(Expanded Edition\)](https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8) | 0:29 |
 | 69 | [The Show](https://open.spotify.com/track/3umJExJml0XrE3BcGtAoCU) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1), [Doug E\. Fresh](https://open.spotify.com/artist/7xN8vFwslE67EC3DhgB9Ip) | [Dame Dash Presents Paid In Full / Dream Team](https://open.spotify.com/album/6cea3Mk3rvbeqZFqSt7TEy) | 4:26 |
 
 Snapshot ID: `MTU4NzA1NDUzNiwwMDAwMDAwODAwMDAwMTcxODNkMjY4ZTMwMDAwMDE3MTgzYzk4YTVj`

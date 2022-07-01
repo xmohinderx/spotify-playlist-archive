@@ -4,7 +4,7 @@
 
 > 
 
-50 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/6oML1Tzddq53bNnGK6sr6X)
+50 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/6oML1Tzddq53bNnGK6sr6X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Family Affair](https://open.spotify.com/track/0Mw6qRvvKyhqVc8BmP9aln) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Family Affair \(UK Version\)](https://open.spotify.com/album/4afHuF2XTwkNJQPLHXOg4a) | 4:27 | 2013-06-26 |  |
 | [Foolish](https://open.spotify.com/track/2FbD2sqUmAdjqqCBp0mn2g) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/3dAdilu5vv6ThGzgNwUlK3) | 3:47 | 2013-06-26 |  |
 | [Gangsta Lovin'](https://open.spotify.com/track/0kTmKrd9K5XfzcikZohAhf) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Eve\-Olution \[International Version \(Explicit\)\]](https://open.spotify.com/album/2v4I1FfOGJUxeZjlDtOVJ6) | 3:59 | 2013-06-26 |  |
-| [Get the Party Started](https://open.spotify.com/track/4bk78jvK8Fe9YHqruOJW0v) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [M!ssundaztood](https://open.spotify.com/album/03pT16iWbhVKpDodI37D8b) | 3:11 | 2013-06-26 |  |
+| [Get the Party Started](https://open.spotify.com/track/4bk78jvK8Fe9YHqruOJW0v) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [M!ssundaztood](https://open.spotify.com/album/03pT16iWbhVKpDodI37D8b) | 0:29 | 2013-06-26 |  |
 | [Girlfriend](https://open.spotify.com/track/2mHNLanyznatvwMwGCfU2i) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [The Collection](https://open.spotify.com/album/2EllCL0ddoEdwKWW0hKEPN) | 4:14 | 2013-06-26 |  |
 | [Halfcrazy \- Album Version \(Edited\)](https://open.spotify.com/track/2SHBcf88T7crQvNsY6qbJe) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Juslisen](https://open.spotify.com/album/7EziKiSrU9g1Lz0pLlMsfR) | 4:14 | 2013-06-26 |  |
 | [Happy](https://open.spotify.com/track/2Nu0P68oruhup6YcAi8On3) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/3dAdilu5vv6ThGzgNwUlK3) | 4:22 | 2013-06-26 |  |
@@ -56,7 +56,7 @@
 | [Wasting My Time](https://open.spotify.com/track/5dpAN1mjFPL38kh9kWsCiw) | [Default](https://open.spotify.com/artist/4nCzT3o7lMgCWBcmdwCMsT) | [The Fallout \(Limited Edition\)](https://open.spotify.com/album/7IUXXDlKqqLRkJLXrrhXCo) | 4:29 | 2013-06-26 |  |
 | [What's Luv? \(feat\. Ja\-Rule & Ashanti\)](https://open.spotify.com/track/2mKouqwAIdQnMP43zxR89r) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Jealous Ones Still Envy \(J.O.S.E\)](https://open.spotify.com/album/6vMgb2mih3pPiWUxF8VEdI) | 4:27 | 2013-06-26 |  |
 | [Whenever, Wherever](https://open.spotify.com/track/0RJWhctsc1G1Hg3Ov2th7x) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Servicio De Lavandería](https://open.spotify.com/album/62F8unRY46ZDR2EE5ag5Z5) | 3:17 | 2013-06-26 |  |
-| [Wherever You Will Go](https://open.spotify.com/track/37qI0mchgzUSeUhPiwUWPY) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [The Best Of...](https://open.spotify.com/album/0eumbPpzy0UGChIwnCpLpl) | 3:29 | 2013-06-26 |  |
+| [Wherever You Will Go](https://open.spotify.com/track/37qI0mchgzUSeUhPiwUWPY) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [The Best Of...](https://open.spotify.com/album/0eumbPpzy0UGChIwnCpLpl) | 0:29 | 2013-06-26 |  |
 | [Without Me](https://open.spotify.com/track/5pBvNeOAJ54zgd5lEOmM3b) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Curtain Call \(Deluxe\)](https://open.spotify.com/album/71xFWYFtiHC8eP99QB30AA) | 4:51 | 2013-06-26 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

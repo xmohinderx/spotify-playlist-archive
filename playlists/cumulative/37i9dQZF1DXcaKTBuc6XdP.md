@@ -4,7 +4,7 @@
 
 > A playlist of Christian summer camp favorites, past and present.
 
-53 songs - 3 hr 21 min - [published](https://open.spotify.com/playlist/4zi31rdXvldSXq3voUeFgF)
+53 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/4zi31rdXvldSXq3voUeFgF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,14 +24,14 @@
 | [Great Big God](https://open.spotify.com/track/4vLiBeWve4L9llDzGdpWsM) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Vineyard Kids](https://open.spotify.com/artist/2PwunoNd5k6WstyyC67xhH) | [Great Big God](https://open.spotify.com/album/0Y36IFn8h2NS5afQZXpnTT) | 2:51 | 2021-06-29 |  |
 | [Here I Am To Worship \- Mission Worship \- In Christ Alone Album Version](https://open.spotify.com/track/6CWg6OxlJE72TOLNja5vqh) | [Tim Hughes](https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh) | [In Christ Alone](https://open.spotify.com/album/0v4hMZok1tOdMGPRlcKXOC) | 5:16 | 2021-06-29 |  |
 | [Here We Go](https://open.spotify.com/track/56Dfc7SRXmLVUH2Dx4Soa2) | [Grits](https://open.spotify.com/artist/6aUgzC0cMh0StjV7LyFEDr) | [The Art of Translation](https://open.spotify.com/album/2DtNX7KFKsCf1CNJt5gvif) | 3:19 | 2021-06-29 |  |
-| [Holy Spirit \- Revisited](https://open.spotify.com/track/4Jvq8lCTo5shqoqeDTQ9F7) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Majestic \(Revisited\)](https://open.spotify.com/album/3gWb1UHZunO0Gz28KIyH6w) | 5:05 | 2021-06-29 |  |
+| [Holy Spirit \- Revisited](https://open.spotify.com/track/4Jvq8lCTo5shqoqeDTQ9F7) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Majestic \(Revisited\)](https://open.spotify.com/album/3gWb1UHZunO0Gz28KIyH6w) | 0:29 | 2021-06-29 |  |
 | [How Great Is Our God](https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 5:05 | 2021-06-29 |  |
 | [I Am Alive](https://open.spotify.com/track/4GX54jEsDkgxleYUCRfggA) | [SL Worship](https://open.spotify.com/artist/3ZArpBXyBswucER1dfHDKP) | [I Am Alive](https://open.spotify.com/album/5KLDaX1xJuK2N3vOGsCyAR) | 3:48 | 2021-06-29 |  |
 | [I've Got Peace Like A River](https://open.spotify.com/track/2CuTb9Tks9eeAmjHGm5vAC) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Sunday School Songs](https://open.spotify.com/album/4YSuzBvt9mppuiha44U2dX) | 1:33 | 2021-06-29 |  |
 | [In The Light \- Remastered 2013](https://open.spotify.com/track/2IpbrxP9MqUCtcQQchAiTK) | [DC Talk](https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh) | [Jesus Freak \(Remastered\)](https://open.spotify.com/album/6KbHC5ADEGbnvl7Ge3GVQF) | 5:05 | 2021-06-29 |  |
 | [Jesus Freak](https://open.spotify.com/track/5ID6qIRs04r4fMajBDY7uK) | [DC Talk](https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh) | [8 Great Hits dc Talk](https://open.spotify.com/album/4ml5pL07kDVb9AxJutpI9U) | 4:47 | 2021-06-29 |  |
 | [Joy Of The Lord](https://open.spotify.com/track/0zZOHnBVMmuJxCETvXUYlj) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [As Family We Go](https://open.spotify.com/album/7cenIKs6fcaaHsBiDGlXgn) | 3:46 | 2021-06-29 |  |
-| [Lift You Higher](https://open.spotify.com/track/1D1pCyVeec4FdazVM7l714) | [Copper Pointe Worship](https://open.spotify.com/artist/2uLK8YHG3eIG54kvlX2WxV) | [New Sound](https://open.spotify.com/album/1PX43Nn8AuApS7ggfUOAQf) | 3:08 | 2021-06-29 |  |
+| [Lift You Higher](https://open.spotify.com/track/1D1pCyVeec4FdazVM7l714) | [Copper Pointe Worship](https://open.spotify.com/artist/2uLK8YHG3eIG54kvlX2WxV) | [New Sound](https://open.spotify.com/album/1PX43Nn8AuApS7ggfUOAQf) | 0:29 | 2021-06-29 |  |
 | [Living in Freedom](https://open.spotify.com/track/0exZQ7G2AuvDaUnpNMpQDK) | [Stephen Witt](https://open.spotify.com/artist/3G14FwuoYRc81zwkSFQqkg) | [Living in Freedom](https://open.spotify.com/album/3JeN6zZsjrwk3s8gra1bOG) | 4:26 | 2021-06-29 |  |
 | [Lord I Lift Your Name On High](https://open.spotify.com/track/4YGyH585tBURMPnryf3OpV) | [Sonicflood](https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI) | [SonicPraise](https://open.spotify.com/album/2v1fOkMUrvzIeGPqAtAxN0) | 6:21 | 2021-06-29 |  |
 | [Lord, I Need You](https://open.spotify.com/track/4EHWldZTas5KUyFtT0rQlY) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The People Said Amen](https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu) | 3:25 | 2021-06-29 |  |

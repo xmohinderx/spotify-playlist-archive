@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82z3m3RyeLu.md) - [plain]
 
 > Listen BAEKHYUN's all solo tracks here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,880 likes - 38 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,922 likes - 38 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82z3m3RyeLu.md) - [plain]
 | 34 | [Every second](https://open.spotify.com/track/50eMP4iy5qLxcK7mHalDZw) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Record of Youth \(Original Television Soundtrack\)](https://open.spotify.com/album/7MmdJZrkNew5jymkmAOTq4) | 3:32 |
 | 35 | [My Love](https://open.spotify.com/track/0phZ2ubhVXBEk3aPSrOwuf) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Dr\. Romantic 2 OST](https://open.spotify.com/album/2r2lnbE1PtqdUaSxUGDLHc) | 3:13 |
 | 36 | [happy](https://open.spotify.com/track/4ktpGEOe6hPwlowhoOU6IN) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Do You Like Brahms? OST](https://open.spotify.com/album/2foGQCPi7r51K42QsxTbYq) | 3:52 |
-| 37 | [비처럼 음악처럼](https://open.spotify.com/track/2NituILXKHPDSTgPVh9wqt) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [2015 가요대전 Limited Edition](https://open.spotify.com/album/61gomND4rCDOYxKnR4sn69) | 3:01 |
+| 37 | [비처럼 음악처럼](https://open.spotify.com/track/2NituILXKHPDSTgPVh9wqt) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [2015 가요대전 Limited Edition](https://open.spotify.com/album/61gomND4rCDOYxKnR4sn69) | 0:29 |
 | 38 | [On the road](https://open.spotify.com/track/0i5rdCbqhk6Iao4bwI4B9J) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [HYENA \(Original Television Soundtrack\)](https://open.spotify.com/album/1ps9C9hsH6eT2W46d9r68D) | 3:58 |
 
 Snapshot ID: `MTYxNzA5NDg2MCwwMDAwMDAwNDAwMDAwMTc4ODI1ZDVkMzEwMDAwMDE3ODgyNDNiYWUw`

@@ -4,7 +4,7 @@
 
 > Peaceful music box tunes for sleepy babies.
 
-140 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/6TPXRhAYwfF0T2qiE0ZMzm)
+140 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/6TPXRhAYwfF0T2qiE0ZMzm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A Goodnight Lullaby](https://open.spotify.com/track/4cKRxN6IuZsDXmvixgDLvH) | [Egil Nielsen](https://open.spotify.com/artist/0oZuyZXAZ8zvY3ygyApIHf) | [A Goodnight Lullaby](https://open.spotify.com/album/5bUFergE5isqK0EzbLnVQk) | 1:25 | 2022-02-10 |  |
 | [A Ram Sam Sam](https://open.spotify.com/track/56QKL1S0CywvdIjp0vHtjh) | [Carine Vester](https://open.spotify.com/artist/3lfo96yWyh9kw1mprRdOLU) | [Ten Little Indians](https://open.spotify.com/album/1BfD4AamDekxsxZPEloJP2) | 1:33 | 2022-02-10 |  |
 | [A Smile for Everyone](https://open.spotify.com/track/6kkVJzTyJ4LKh4zM6TodVF) | [Miklos Whelan](https://open.spotify.com/artist/48jB9Z4z5OFMYizmWzOcmf) | [Flying](https://open.spotify.com/album/1fGV9ztSqsStPdKUfpKlKL) | 2:07 | 2022-02-10 |  |
-| [A Whole New World](https://open.spotify.com/track/4aJjW8KOhCj0AwozrV8NnC) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Lullabies on Music Box](https://open.spotify.com/album/1hDnsG6Lx0x4J2Q8pdJTo1) | 1:29 | 2022-02-10 |  |
+| [A Whole New World](https://open.spotify.com/track/4aJjW8KOhCj0AwozrV8NnC) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Lullabies on Music Box](https://open.spotify.com/album/1hDnsG6Lx0x4J2Q8pdJTo1) | 0:29 | 2022-02-10 |  |
 | [Above The Clouds](https://open.spotify.com/track/5aUiCEgcDoyrgBp19HMHoI) | [Tip Tap Toe](https://open.spotify.com/artist/4FaFReBiOHAUBP72P5y6Zq) | [Above The Clouds](https://open.spotify.com/album/0Qkj0sWVojbN3xsgiramj9) | 1:32 | 2022-02-10 | 2022-06-11 |
 | [Adventure Of Things](https://open.spotify.com/track/1AXMCQeypMb61BTIo3SBTn) | [Magical Wonders](https://open.spotify.com/artist/3WC72UDmuQ9lnnF5LIEvxE) | [Adventure Of Things](https://open.spotify.com/album/2y4N0o49sFYJJpzTqrJlrq) | 1:44 | 2022-02-10 |  |
 | [Amapola](https://open.spotify.com/track/4qBgpnKwSCsUGySMCXIzRc) | [Justin Tejedor](https://open.spotify.com/artist/5rF1iAOOglmQTg45bsmRu6) | [Musikbox](https://open.spotify.com/album/5W5UaRDHGYnaO4sk5AWQFZ) | 1:47 | 2022-02-10 | 2022-06-11 |
@@ -88,7 +88,7 @@
 | [Mon papa est fou!](https://open.spotify.com/track/4yLF6kMSFyQRaEVfBE3QJ3) | [Chante Abbott](https://open.spotify.com/artist/1T4QcRl1ubcs9mJgtjjP8q) | [Mon papa est fou!](https://open.spotify.com/album/44OlIOrbu2SBVRgs3tXUF3) | 1:17 | 2022-02-10 |  |
 | [My Bedtime Fairytale](https://open.spotify.com/track/6g1ykf0HVQpZwnNolxNZrK) | [Egil Nielsen](https://open.spotify.com/artist/0oZuyZXAZ8zvY3ygyApIHf) | [A Goodnight Lullaby](https://open.spotify.com/album/5bUFergE5isqK0EzbLnVQk) | 1:49 | 2022-02-10 |  |
 | [My Big Red Lollipop](https://open.spotify.com/track/6YM1LT4Lky8LVGr3MnUzYd) | [Lucie Avila](https://open.spotify.com/artist/2FPmkspLV88EjMpP6XKnwv) | [My Big Red Lollipop](https://open.spotify.com/album/6mjHxtb2Vbc0naLmpbX2qS) | 1:23 | 2022-02-10 |  |
-| [My Bonnie Lies Over The Ocean](https://open.spotify.com/track/55fdCHjMrDwp7a016z4zC7) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Lullabies on Music Box](https://open.spotify.com/album/1hDnsG6Lx0x4J2Q8pdJTo1) | 1:53 | 2022-02-10 |  |
+| [My Bonnie Lies Over The Ocean](https://open.spotify.com/track/55fdCHjMrDwp7a016z4zC7) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Lullabies on Music Box](https://open.spotify.com/album/1hDnsG6Lx0x4J2Q8pdJTo1) | 0:29 | 2022-02-10 |  |
 | [My Grandfather's Clock](https://open.spotify.com/track/2JkK9MpwEoU1JuhWFsnUrG) | [Philip Stuart](https://open.spotify.com/artist/0jvpyMCQkgCjMtOUdd8RoJ) | [Girls and Boys Come Out to Play](https://open.spotify.com/album/22ytu5JUFTp0aBdzFuHd8v) | 3:24 | 2022-02-10 |  |
 | [My Kitty Cat Kate](https://open.spotify.com/track/2IRZ8zO4uCRUFsseRhGqLy) | [Selby Petersen](https://open.spotify.com/artist/5p2vvsASYdfPaCQ8ewBBJp) | [My Kitty Cat Kate](https://open.spotify.com/album/2H3NXQTp7cG4XtUqP3Qute) | 1:21 | 2022-02-10 |  |
 | [My Sweet Sweet Angel](https://open.spotify.com/track/0pkmiHR34jvHpoTu9MjWQy) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Lullabies on Music Box Vol 2](https://open.spotify.com/album/6i60rEg1H3MI6LG4c2lUHF) | 1:27 | 2022-02-10 |  |
@@ -102,7 +102,7 @@
 | [Rock a Bye Baby](https://open.spotify.com/track/4powvsAQFZwXa6s0mTUPlY) | [Elliot Adasik](https://open.spotify.com/artist/0ygQ1CuZpZqv6dsdnIl3wL) | [Rock a Bye Baby](https://open.spotify.com/album/5TimNfsYRU63DIITnRaTce) | 1:31 | 2022-02-10 |  |
 | [Row Row Row Your Boat](https://open.spotify.com/track/6NESHnIoEs22LDboDnWuZb) | [Ella's Musicbox](https://open.spotify.com/artist/4KEu9b2csKG5x3MtzavPR8) | [Open The Box](https://open.spotify.com/album/2jloYI1ZDhvvgzHE9lXy1T) | 1:14 | 2022-02-10 |  |
 | [Sandras Lullaby](https://open.spotify.com/track/2STLwlsxG7uxigptaOl4Qt) | [Maurice Greenwood](https://open.spotify.com/artist/1Ajd6F60K356s8BACssfAo) | [Sandras Lullaby \(Music Box\)](https://open.spotify.com/album/65Ol3por3dr5rGgkKQaUTr) | 2:01 | 2022-02-10 |  |
-| [See You In The Morning](https://open.spotify.com/track/65Il6ojXnanbNrm33uMYAj) | [Sleepmoon](https://open.spotify.com/artist/46ipcNL1MA2CAdElB0jki4) | [See You In The Morning](https://open.spotify.com/album/6ZfKF5953dUSMZjLqgvwj3) | 1:13 | 2022-02-10 |  |
+| [See You In The Morning](https://open.spotify.com/track/65Il6ojXnanbNrm33uMYAj) | [Sleepmoon](https://open.spotify.com/artist/46ipcNL1MA2CAdElB0jki4) | [See You In The Morning](https://open.spotify.com/album/6ZfKF5953dUSMZjLqgvwj3) | 0:29 | 2022-02-10 |  |
 | [She'll Be Coming 'Round the Mountain](https://open.spotify.com/track/2ta7w3bwwcxevp5JLUoiK8) | [Donny Barnum](https://open.spotify.com/artist/3Li2AnR0Kbhr3KT48Qkuk0) | [London Bridge](https://open.spotify.com/album/5YZNhNnVcmFD3Zhm09j180) | 1:09 | 2022-02-10 |  |
 | [Shine Bright Little Star](https://open.spotify.com/track/67FfMaZW9QJ8Wl02hhemAt) | [Joy Farrow](https://open.spotify.com/artist/1bvPJO79WaiXgQjkQBGwRR) | [Shine Bright Little Star](https://open.spotify.com/album/4JBajV6LFaLCdcc82Muimq) | 0:52 | 2022-02-10 | 2022-04-23 |
 | [Sisters](https://open.spotify.com/track/327ydynonFKIBVoW9e5wXO) | [Cosy Pillows](https://open.spotify.com/artist/08x9OqSYuvqdN6K60DHIj7) | [Sisters](https://open.spotify.com/album/0nvdJRcQBlwoMwiOmLXEqU) | 1:04 | 2022-02-10 |  |
@@ -120,7 +120,7 @@
 | [Suo Gân](https://open.spotify.com/track/5ejZpwnJQipTb8H7IHr6va) | [Royce Prichard](https://open.spotify.com/artist/4iajyddKaNIX6a1LKwpovL) | [Somewhere over the rainbow](https://open.spotify.com/album/6OmptZeMhscTHVBeReXTz1) | 1:08 | 2022-02-10 |  |
 | [Teddy Toddler](https://open.spotify.com/track/5n2NlCI1zRcvPHTmiKSgds) | [Eli Demir](https://open.spotify.com/artist/51Nt493ykLjC5PvLbGmP9N) | [Teddy Toddler](https://open.spotify.com/album/3KSh6T3Lk7LWhuaecGZAUp) | 1:18 | 2022-02-10 |  |
 | [Ten Green Bottles](https://open.spotify.com/track/253pJVE3sYCzpEWZqteYZh) | [Mamie Botello](https://open.spotify.com/artist/0DIxPs7iNFy6DEvl86W9Yo) | [Sailor Went To Sea](https://open.spotify.com/album/4pHl7jAk6iXfpnkCRIScw6) | 0:46 | 2022-02-10 | 2022-04-23 |
-| [The Bestest Friend](https://open.spotify.com/track/3vT72R7AePCJXPKLMvqbpy) | [Tip Tap Toe](https://open.spotify.com/artist/4FaFReBiOHAUBP72P5y6Zq) | [The Bestest Friend](https://open.spotify.com/album/4IfCGH5U9lMo8sfv80Xha1) | 1:41 | 2022-02-10 |  |
+| [The Bestest Friend](https://open.spotify.com/track/3vT72R7AePCJXPKLMvqbpy) | [Tip Tap Toe](https://open.spotify.com/artist/4FaFReBiOHAUBP72P5y6Zq) | [The Bestest Friend](https://open.spotify.com/album/4IfCGH5U9lMo8sfv80Xha1) | 0:29 | 2022-02-10 |  |
 | [The Carousel](https://open.spotify.com/track/4RTdBnJYhV58DGrhCJy8Q2) | [Gobblis](https://open.spotify.com/artist/3YSmdEAelsfSIm4uArfV3O) | [The Carousel](https://open.spotify.com/album/3d14PkRC52xnekQ7C6QDTC) | 1:12 | 2022-02-10 |  |
 | [The Fisherman](https://open.spotify.com/track/61ZWC8H3rJ5HP4mwt6CR3Y) | [Hannah Belstead](https://open.spotify.com/artist/1qRdZ3SW7xLqk4GszgtCK6) | [The Fisherman](https://open.spotify.com/album/1xGyvv3513BTEYFACrEdF2) | 1:16 | 2022-02-10 |  |
 | [The Happy Hat](https://open.spotify.com/track/1jEDV9nHECLsE9D9fRRZKt) | [Sienna Coleman](https://open.spotify.com/artist/1tfI0CE5R55GgLDVwWwQlD) | [Baby Babble](https://open.spotify.com/album/5kMCaH2YOp9u1PainquWjn) | 1:29 | 2022-02-10 |  |
@@ -146,7 +146,7 @@
 | [When you wish upon a star](https://open.spotify.com/track/4yT4xev2ymB9x0SCahcLlV) | [Royce Prichard](https://open.spotify.com/artist/4iajyddKaNIX6a1LKwpovL) | [Somewhere over the rainbow](https://open.spotify.com/album/6OmptZeMhscTHVBeReXTz1) | 1:37 | 2022-02-10 |  |
 | [Whiskers](https://open.spotify.com/track/75ihfv5Y3KwvIiP5OhQPOF) | [Cat Morris](https://open.spotify.com/artist/1z4h0BDNJOpTzksITIOM6k) | [Whiskers](https://open.spotify.com/album/7IwJhve8nfyWXz7sEhfYIs) | 1:53 | 2022-02-10 |  |
 | [Whisper](https://open.spotify.com/track/2zO8FacMH5qKmRl0K4KQCX) | [Joan Carlsen](https://open.spotify.com/artist/6I0M6KDTQZvSCKt7iF8B4T) | [Whisper](https://open.spotify.com/album/7hGRrzGnFNR0XAWWYs2fN6) | 1:17 | 2022-02-10 |  |
-| [You Are My Sunshine](https://open.spotify.com/track/5WMbHgjzFrAzcSJk8ZrJc3) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Lullabies on Music Box](https://open.spotify.com/album/1hDnsG6Lx0x4J2Q8pdJTo1) | 1:02 | 2022-02-10 |  |
+| [You Are My Sunshine](https://open.spotify.com/track/5WMbHgjzFrAzcSJk8ZrJc3) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Lullabies on Music Box](https://open.spotify.com/album/1hDnsG6Lx0x4J2Q8pdJTo1) | 0:29 | 2022-02-10 |  |
 | [Zoe the Zebra](https://open.spotify.com/track/26B0F7D6IuonLfBep3KScC) | [Kazue Oyanagi](https://open.spotify.com/artist/3OMM7IfAu8t78Oysd4zgfu) | [Zoe the Zebra](https://open.spotify.com/album/0MgZVZt8jI09WJEKLDxCUG) | 0:48 | 2022-02-10 | 2022-04-23 |
 
 \*This playlist was first scraped on 2022-04-19. Prior content cannot be recovered.

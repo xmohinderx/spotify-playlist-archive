@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 
 > Women who define the past, present and future of music\. Listen at full volume\. Cover: HAAi
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,989 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,994 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 | 24 | [To Be Heard \- Edit](https://open.spotify.com/track/1VKJM0sZThLrMoBcbqnPy1) | [Just Her](https://open.spotify.com/artist/6SI2JOqTJwLVX63w28PxoL) | [To Be Heard \(Edit\)](https://open.spotify.com/album/2Yb8bZElygyed6glkg58vD) | 3:49 |
 | 25 | [Garden](https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Garden](https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm) | 3:35 |
 | 26 | [Home To You](https://open.spotify.com/track/2L3d9zBy8Iq8mKIde7cwmJ) | [ABISHA](https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ) | [Home To You](https://open.spotify.com/album/7d9uINjyNayVjn00b913Ah) | 3:23 |
-| 27 | [JUNGLE TEKNAH](https://open.spotify.com/track/0PjXRi6lYapTH4BXl8xNlU) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [JUNGLE TEKNAH](https://open.spotify.com/album/7ETcD2rHdCaGTOTd2cSLBH) | 4:01 |
+| 27 | [JUNGLE TEKNAH](https://open.spotify.com/track/0PjXRi6lYapTH4BXl8xNlU) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [JUNGLE TEKNAH](https://open.spotify.com/album/7ETcD2rHdCaGTOTd2cSLBH) | 0:29 |
 | 28 | [Sun Notification](https://open.spotify.com/track/2ESptLEkX0K9gcRzTIBXiw) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Tangerine](https://open.spotify.com/album/4olQWXC3W8iaZfzGyzkN0Y) | 5:20 |
 | 29 | [Manizer](https://open.spotify.com/track/32MHis9ga5UmCo2hivlkEs) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil) | [Manizer](https://open.spotify.com/album/0OY87u7mQKYk8nJ96Br0QM) | 4:04 |
 | 30 | [ECSTASY OF ST\. TERESA](https://open.spotify.com/track/7GYlqodPA2sXLI11yE44NZ) | [Object Blue](https://open.spotify.com/artist/51rzklJj6mqBOEXOiOPqY7) | [FIGURE BESIDE ME](https://open.spotify.com/album/1ua3QVWei0VVsllQKUtFxB) | 6:40 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 | 33 | [Transdimensional](https://open.spotify.com/track/6TL023PjPquxqJ4tzc1u2B) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU), [KAVARI](https://open.spotify.com/artist/2pvfGvbL4mouaDY9ZSwUmv) | [Angelica](https://open.spotify.com/album/2FRhqyhCl2pz7Bx7IiugOI) | 4:49 |
 | 34 | [Places \- Radio Edit](https://open.spotify.com/track/5XuWlOYjmbkuc81ID30omh) | [Amy Dabbs](https://open.spotify.com/artist/7MZwR2R0H1VofTGWMziqHl) | [Places \(Radio Edit\)](https://open.spotify.com/album/77zHgcPdfsJH3r73Plubub) | 4:03 |
 | 35 | [Can't we just have fun?](https://open.spotify.com/track/25Si5xf0LQCYVAF4sRKmua) | [Saoirse](https://open.spotify.com/artist/7AZxq55YIas0vYM7L82XKX) | [Two Bruised Egos EP](https://open.spotify.com/album/2TpxUQw76IzcTDV9xGW7fQ) | 5:44 |
-| 36 | [Proud](https://open.spotify.com/track/5COxPQbNaVMsLEr3tuicvp) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [I Hope It Lasts Forever](https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj) | 3:56 |
+| 36 | [Proud](https://open.spotify.com/track/5COxPQbNaVMsLEr3tuicvp) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [I Hope It Lasts Forever](https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj) | 0:29 |
 | 37 | [Last All Night](https://open.spotify.com/track/7JRnlLPASSHnwz9ntzvqfC) | [Meg Ward](https://open.spotify.com/artist/2mD3jEYpdABPmYGMkwIp8s) | [Last All Night](https://open.spotify.com/album/622SMJPYsk5LiMxckqN1dE) | 3:37 |
 | 38 | [Soul Full \(feat\. Joe Killington\)](https://open.spotify.com/track/4o8bcX3KzqCI09Xf4a37mJ) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [Mortimer](https://open.spotify.com/artist/7yJpTTkTOkN7pvn39nga98), [Joe Killington](https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237) | [Soul Full \(feat\. Joe Killington\)](https://open.spotify.com/album/0U7GxQHdZQB0nWrrWEOIEX) | 3:15 |
 | 39 | [Move To The](https://open.spotify.com/track/5OrMkiv57J2WIH4QTWuaKJ) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Move To The](https://open.spotify.com/album/3tsLIMNmEgp7PjrEu4YhPO) | 6:51 |

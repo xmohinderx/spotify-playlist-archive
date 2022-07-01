@@ -4,7 +4,7 @@
 
 > Enjoy the electric, amplified sound that is Chicago Blues.
 
-50 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/28L2R5utJ9qGYen8AAdvJB)
+50 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/28L2R5utJ9qGYen8AAdvJB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Lonesome Bedroom Blues](https://open.spotify.com/track/1SfonHAsXTcpSQCXKfKl5W) | [William Clarke](https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke) | [Blowin' Like Hell](https://open.spotify.com/album/7kDELK9sVLPsc1PCN6qL0e) | 5:45 | 2018-02-27 |  |
 | [Lonesome Blues](https://open.spotify.com/track/4SP7Fdwo42okQx8dzWJYjM) | [Johnny B\. Moore](https://open.spotify.com/artist/1FIws8DXI9Bfv29LBhcRWX) | [Lonesome Blues](https://open.spotify.com/album/04EOFvLpk32AFaI2TrwzrP) | 7:23 | 2018-02-27 |  |
 | [Lovesick Soul](https://open.spotify.com/track/0E3Ck752Kw29gVpyAVDLDo) | [Eddie Boyd](https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB) | [The Sonet Blues Story](https://open.spotify.com/album/4PTxdqiU8HhL5GW5Zf0pZ0) | 3:56 | 2018-02-27 |  |
-| [Madison Blues](https://open.spotify.com/track/7ktdaLy3DGPhmgS5vnHIx3) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [The Chess Blues\-Rock Songbook](https://open.spotify.com/album/7tMbO8A8r1yV4Lf39pLLP6) | 2:26 | 2016-03-21 |  |
+| [Madison Blues](https://open.spotify.com/track/7ktdaLy3DGPhmgS5vnHIx3) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [The Chess Blues\-Rock Songbook](https://open.spotify.com/album/7tMbO8A8r1yV4Lf39pLLP6) | 0:29 | 2016-03-21 |  |
 | [Mannish Boy](https://open.spotify.com/track/58PSYdY0GFg0LFb2PxYk4T) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 5:21 | 2016-03-21 |  |
 | [My Babe \- Single Version](https://open.spotify.com/track/2cXuMaLQcHxx3JF4F6NGab) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [His Best](https://open.spotify.com/album/3lmXsm1dVoB79uF6L6phid) | 2:44 | 2016-03-21 |  |
 | [Night Life](https://open.spotify.com/track/6tbhUMSYaqy5Enl0XDkJkO) | [Hip Linkchain](https://open.spotify.com/artist/3b0MiHp4LNaHJqDeu0YyLZ), [Pinetop Perkins](https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55) | [Change My Blues](https://open.spotify.com/album/6U3s4tNpNDKygphGvQnmye) | 4:48 | 2018-02-27 |  |

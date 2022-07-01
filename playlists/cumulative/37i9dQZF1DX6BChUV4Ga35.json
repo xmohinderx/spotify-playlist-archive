@@ -928,6 +928,28 @@
     },
     {
       "album": {
+        "name": "Hit Songs & Rarities",
+        "url": "https://open.spotify.com/album/6XFTvklE8rQN0eLEeZ23Bd"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 29048,
+      "name": "Monkey Man",
+      "url": "https://open.spotify.com/track/0qgQNwPyBYHt2W2KxzdBNO"
+    },
+    {
+      "album": {
         "name": "The Wiggles Duets",
         "url": "https://open.spotify.com/album/75V7OHy87uSlXCIhHq8wm5"
       },
@@ -950,28 +972,6 @@
     },
     {
       "album": {
-        "name": "Hit Songs & Rarities",
-        "url": "https://open.spotify.com/album/6XFTvklE8rQN0eLEeZ23Bd"
-      },
-      "artists": [
-        {
-          "name": "The Wiggles",
-          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
-        },
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "date_added": "2022-02-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 154440,
-      "name": "Monkey Man",
-      "url": "https://open.spotify.com/track/0qgQNwPyBYHt2W2KxzdBNO"
-    },
-    {
-      "album": {
         "name": "Och Aye The G\u2019Nu",
         "url": "https://open.spotify.com/album/0JhyE3KLmbA9k7mkj3YVnz"
       },
@@ -988,7 +988,7 @@
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 106142,
+      "duration_ms": 29048,
       "name": "Och Aye G'Nu And Kangaroo",
       "url": "https://open.spotify.com/track/75Kw6pYjna6mSsqc10VW5S"
     },
@@ -1042,7 +1042,7 @@
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 145826,
+      "duration_ms": 29048,
       "name": "Old MacDonald",
       "url": "https://open.spotify.com/track/0HU09XQgHGT1Va5MOoe00T"
     },
@@ -1428,7 +1428,7 @@
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 106602,
+      "duration_ms": 29048,
       "name": "When You're Living In The Zoo",
       "url": "https://open.spotify.com/track/3Pbl7P6xuV9lzZ7veNDTHj"
     },

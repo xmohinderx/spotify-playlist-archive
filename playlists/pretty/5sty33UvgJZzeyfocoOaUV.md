@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5sty33UvgJZzeyfocoOaUV.md) - [plain]
 
 > Get the most out of your day and \#makeithappen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75 likes - 30 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 75 likes - 30 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/5sty33UvgJZzeyfocoOaUV.md) - [plain]
 | 11 | [Song For Someone \- Radio Mix](https://open.spotify.com/track/3YOtGErUgDzukOkRhaZFc7) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Song For Someone \- Single](https://open.spotify.com/album/5kwnhxVMZ4EfVtuPloAuGY) | 3:49 |
 | 12 | [Break the Rules](https://open.spotify.com/track/2Uxn9uOgMUcGyy25SaMdq6) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/4UWPrrDdzEsdMUDzYM8FC6) | 3:23 |
 | 13 | [I'm Gonna Show You Crazy](https://open.spotify.com/track/5LtNBCM2ve0SxP0dlRVvMu) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Gonna Show You Crazy](https://open.spotify.com/album/1jjRCEFt2eCfCNWHV7AtEk) | 3:27 |
-| 14 | [Jealous](https://open.spotify.com/track/2woCw59DHRIb1vcyQ2a7Ca) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Nick Jonas \(Deluxe\)](https://open.spotify.com/album/4jd7U6ca3Ew6JYpbjFauxj) | 3:43 |
+| 14 | [Jealous](https://open.spotify.com/track/2woCw59DHRIb1vcyQ2a7Ca) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Nick Jonas \(Deluxe\)](https://open.spotify.com/album/4jd7U6ca3Ew6JYpbjFauxj) | 0:29 |
 | 15 | [Bang Bang](https://open.spotify.com/track/0puf9yIluy9W0vpMEUoAnN) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Sweet Talker \(Deluxe Version\)](https://open.spotify.com/album/2rDIivxBafNKpgRqlzIRSb) | 3:19 |
 | 16 | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:29 |
 | 17 | [Shut Up and Dance](https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 3:19 |

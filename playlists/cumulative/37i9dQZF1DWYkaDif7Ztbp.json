@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The tracks heating up the continent right now!  Cover: <a href=\"https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi?si=sJss0GZOSVasroqu1ZNFBg\" > Camidoh </a> ",
+  "description": "The tracks heating up the continent right now!  Cover: <a href=\"https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG?si=5MiFdkxjQHWTe6OmF_zPqg\" > Victony </a> ",
   "name": "African Heat",
   "published_playlist_ids": [
     "6CGfDwBbFDC5qx0eVHKRnz"
@@ -201,7 +201,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 143300,
       "name": "All Night",
       "url": "https://open.spotify.com/track/1MQaVZyTK4Fqm8OZy3wE6q"
@@ -227,6 +227,24 @@
       "duration_ms": 154957,
       "name": "Always (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF"
+    },
+    {
+      "album": {
+        "name": "Amagents",
+        "url": "https://open.spotify.com/album/0rgt2gSlZTttcQTg2xsvGK"
+      },
+      "artists": [
+        {
+          "name": "Samthing Soweto",
+          "url": "https://open.spotify.com/artist/6HwxMgE895sejjGFin9Gvm"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223669,
+      "name": "Amagents",
+      "url": "https://open.spotify.com/track/5dVd3tBZQhOctXiq2jwrhD"
     },
     {
       "album": {
@@ -469,7 +487,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 477328,
       "name": "Bathini (feat. Young Stunna & Artwork Sounds)",
       "url": "https://open.spotify.com/track/1rdeLjtCukMRFVW5GgZgHu"
@@ -1485,6 +1503,24 @@
       "duration_ms": 184196,
       "name": "Love Nwantiti (Acoustic Version)",
       "url": "https://open.spotify.com/track/450u5gGMGwQXmtLSR7AN2s"
+    },
+    {
+      "album": {
+        "name": "Many Man - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190621,
+      "name": "Many Man - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
     },
     {
       "album": {

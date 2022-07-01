@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV15Do5xY4up.md) - [plain]
 
 > Float away to the weightless sound of breakbeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,638 likes - 73 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,642 likes - 73 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,16 +22,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV15Do5xY4up.md) - [plain]
 | 12 | [Let’s Just](https://open.spotify.com/track/1WcNMJDbf4LkWa5bFNNOUw) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T) | [Let's Just / Can't Explain](https://open.spotify.com/album/18DGzL6akFFZw13Ey5M6oc) | 2:58 |
 | 13 | [Test Flight](https://open.spotify.com/track/5b9ifBWB1LQFNwnpwN7Tj5) | [Adam Fielding](https://open.spotify.com/artist/2COKeWJbqMc39mh0sFwnvE) | [Nocturnal Transmission](https://open.spotify.com/album/6ZHilzMuJjTaQTKN1HPk48) | 6:14 |
 | 14 | [Beach Simulator 3D](https://open.spotify.com/track/0NEti7J191QYOcYfVD9FfF) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb) | [Beach Simulator 3D](https://open.spotify.com/album/6T2Q6fg164JmYS99JbJNxO) | 4:56 |
-| 15 | [Lovin U](https://open.spotify.com/track/5NS2mvyyimFo4GStYcjrL1) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Falling In Love](https://open.spotify.com/album/2ZXNASZ0miJJPHZMRzrRLh) | 5:08 |
+| 15 | [Lovin U](https://open.spotify.com/track/5NS2mvyyimFo4GStYcjrL1) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Falling In Love](https://open.spotify.com/album/2ZXNASZ0miJJPHZMRzrRLh) | 0:29 |
 | 16 | [Chasing Shadows](https://open.spotify.com/track/7mIMl6BkmHWGqZz4EXROCG) | [Hugo Massien](https://open.spotify.com/artist/2W5iJGVOD94ioSvjS8x8Yu) | [Metamorphosis](https://open.spotify.com/album/4feBQDj6rFcZiH1CYVtO0n) | 4:37 |
 | 17 | [Hysteria](https://open.spotify.com/track/1YYTSy2xoYgabhcsTjo1xh) | [Richie Blacker](https://open.spotify.com/artist/1ZcjObwclhycsS6bdN2Kgn) | [Hysteria](https://open.spotify.com/album/3f1eHZkiFQeSioBt5wggH3) | 3:50 |
 | 18 | [Need You By My Side](https://open.spotify.com/track/22ddzTjm8BO39CySTC4J5y) | [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN) | [Need You By My Side](https://open.spotify.com/album/1iYfXhyJbX6SunMbZUKLcP) | 3:20 |
 | 19 | [U Trippin](https://open.spotify.com/track/10cj75OrGOzk9ACiG39CzQ) | [Haider](https://open.spotify.com/artist/7L7XkH1dMZGeedtOdYOVLF) | [The Muses Come Out at Night](https://open.spotify.com/album/6oklxHW7orD7EDYfSwO3Rh) | 6:51 |
 | 20 | [Seems Like Yesterday](https://open.spotify.com/track/2xUabXbWjP4zg8KLWzjf5U) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [Like Water](https://open.spotify.com/album/67jcLpkhhs8aym2g4ETAVf) | 6:57 |
-| 21 | [Opal](https://open.spotify.com/track/1nqNdeEJJTn13e9D7V5ABy) | [Nikonn](https://open.spotify.com/artist/1IUR872zLRlWXAfr7Uls4Q), [Chloe Ann](https://open.spotify.com/artist/0M3si2esFXD5q7uR6CROPc), [Melllo](https://open.spotify.com/artist/78ks8w7ilnLHMKd3lLqNTc) | [Opal](https://open.spotify.com/album/02vuelAR4xyXZP1ZecWryz) | 4:07 |
+| 21 | [Opal](https://open.spotify.com/track/1nqNdeEJJTn13e9D7V5ABy) | [Nikonn](https://open.spotify.com/artist/1IUR872zLRlWXAfr7Uls4Q), [Chloe Ann](https://open.spotify.com/artist/0M3si2esFXD5q7uR6CROPc), [Melllo](https://open.spotify.com/artist/78ks8w7ilnLHMKd3lLqNTc) | [Opal](https://open.spotify.com/album/02vuelAR4xyXZP1ZecWryz) | 0:29 |
 | 22 | [Ridge Road](https://open.spotify.com/track/3CXuqcOwULRO94390MGSAR) | [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Ridge Road](https://open.spotify.com/album/2YLOw1oVOWQvd3HB6sV6QP) | 3:58 |
 | 23 | [Time](https://open.spotify.com/track/3ueVK1E2huAZ5z1ZHYQh3M) | [Identical \(UK\)](https://open.spotify.com/artist/1OKXJiow05m9UQ37BsBliL) | [Time](https://open.spotify.com/album/7A52FQSOQK94yVNA3GYpn2) | 4:59 |
-| 24 | [Leaf](https://open.spotify.com/track/3kFX2uUuRtujp20lxIHbwF) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Leaf](https://open.spotify.com/album/0pykvqYUvN9Q8IO0gpw9Qq) | 4:06 |
+| 24 | [Leaf](https://open.spotify.com/track/3kFX2uUuRtujp20lxIHbwF) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Leaf](https://open.spotify.com/album/0pykvqYUvN9Q8IO0gpw9Qq) | 0:29 |
 | 25 | [Particles](https://open.spotify.com/track/3iUZS9DGzGRz9JcSfiPJQB) | [Tagavaka](https://open.spotify.com/artist/6r9d7O0TN4AZoM5AK4CmRy) | [Particles](https://open.spotify.com/album/7yt7kRWrRrJDz70iJhEFRl) | 4:47 |
 | 26 | [Area 39](https://open.spotify.com/track/51xqoC8MD2eo84eweXnG2b) | [Adelphi Music Factory](https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe) | [Joy & Fantasy](https://open.spotify.com/album/1TVmyP0kSZaJpDYoN30wNe) | 3:20 |
 | 27 | [Take it Further](https://open.spotify.com/track/2YNcbIe5ez6J9pLeS0TmdL) | [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [Take it Further](https://open.spotify.com/album/1g8uVD8Hk9ZOmjrSg1TwUb) | 4:33 |

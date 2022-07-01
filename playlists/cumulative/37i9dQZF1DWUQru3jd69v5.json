@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione di rapper italiani. Cover: 8blevrai",
+  "description": "La nuova generazione di rapper italiani. Cover: Papa V, Nerissima Serpe",
   "name": "Raptopia",
   "published_playlist_ids": [
     "6nhHRG6xegRC3RJpPdvh9l"
@@ -93,6 +93,24 @@
       "duration_ms": 144832,
       "name": "5 testimoni",
       "url": "https://open.spotify.com/track/4FKCQOfnGV5tU2bhuccarh"
+    },
+    {
+      "album": {
+        "name": "A TE",
+        "url": "https://open.spotify.com/album/3l52RCkfjUrcK9fXI5fodv"
+      },
+      "artists": [
+        {
+          "name": "Il Ghost",
+          "url": "https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124195,
+      "name": "A TE",
+      "url": "https://open.spotify.com/track/28XXZdpUgIHIHlibEL3Pmu"
     },
     {
       "album": {
@@ -193,6 +211,32 @@
       "duration_ms": 158250,
       "name": "Al Capone",
       "url": "https://open.spotify.com/track/24TVRkzUBDzQouxitIVcT1"
+    },
+    {
+      "album": {
+        "name": "Apparecchiato (feat. Nerissima Serpe)",
+        "url": "https://open.spotify.com/album/5dSZpDWUqAEZUGTjWpJEgv"
+      },
+      "artists": [
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Fri2",
+          "url": "https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158624,
+      "name": "Apparecchiato (feat. Nerissima Serpe)",
+      "url": "https://open.spotify.com/track/64phbsUhT5naqkPA3L0vXz"
     },
     {
       "album": {
@@ -374,6 +418,28 @@
     },
     {
       "album": {
+        "name": "Sodoma e Gomorra",
+        "url": "https://open.spotify.com/album/4Xo2XPp3yvbKWPxZbwlyFA"
+      },
+      "artists": [
+        {
+          "name": "Sosa Priority",
+          "url": "https://open.spotify.com/artist/0gDbGOh9itthM6koQpDLoc"
+        },
+        {
+          "name": "Kira",
+          "url": "https://open.spotify.com/artist/2HyasfYKBQnhWBIonOhabC"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154633,
+      "name": "Bilancino (feat. Kira)",
+      "url": "https://open.spotify.com/track/57IFK0uO6gM3Dz0LLNlIrU"
+    },
+    {
+      "album": {
         "name": "Bisous",
         "url": "https://open.spotify.com/album/18WfbdpSPZ3Gx1qlMlHGSP"
       },
@@ -411,7 +477,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 162899,
       "name": "Bleach",
       "url": "https://open.spotify.com/track/1srZMFBh4XhNvepHOzaEaC"
@@ -1059,7 +1125,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 145655,
       "name": "G CLASS",
       "url": "https://open.spotify.com/track/2s2slPHRcUQSYsOrlNhN5c"
@@ -1103,6 +1169,28 @@
       "duration_ms": 144638,
       "name": "Giri",
       "url": "https://open.spotify.com/track/14oEkVkKtqMOFsPw2Uas7v"
+    },
+    {
+      "album": {
+        "name": "SUL RADAR",
+        "url": "https://open.spotify.com/album/686XDVDTmdM4nRZZcIQNNJ"
+      },
+      "artists": [
+        {
+          "name": "Digital Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        },
+        {
+          "name": "Low-Red",
+          "url": "https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143269,
+      "name": "Global",
+      "url": "https://open.spotify.com/track/4cOBM07QPmnwA9l5f9KzTr"
     },
     {
       "album": {
@@ -1321,7 +1409,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 145553,
       "name": "In una bara",
       "url": "https://open.spotify.com/track/2uVwlsxxHMJw5BHYLo0kRj"
@@ -1347,7 +1435,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 216000,
       "name": "Inchiostro sulla face (feat. MamboLosco)",
       "url": "https://open.spotify.com/track/04bOah0UkqeUKrqc4QUalZ"
@@ -1913,7 +2001,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 176261,
       "name": "Nei pensieri",
       "url": "https://open.spotify.com/track/6YzDPCtvn2wFVZ1v1GA1pG"
@@ -2081,7 +2169,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 163000,
       "name": "PICCOLI",
       "url": "https://open.spotify.com/track/1FcxGXTJDdTTtkWXT9mVVc"
@@ -2321,6 +2409,28 @@
       "duration_ms": 151250,
       "name": "ROCK IN ROMA",
       "url": "https://open.spotify.com/track/1dk7Ewa8ns8C64laHp0xgj"
+    },
+    {
+      "album": {
+        "name": "RONALDINHO",
+        "url": "https://open.spotify.com/album/0MCQwQnytNn9Ksuh6mlyiU"
+      },
+      "artists": [
+        {
+          "name": "Digital Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "RONALDINHO",
+      "url": "https://open.spotify.com/track/2mON8OArGpK9GxSQdWKG7U"
     },
     {
       "album": {

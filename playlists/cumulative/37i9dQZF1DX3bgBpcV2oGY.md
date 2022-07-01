@@ -4,7 +4,7 @@
 
 > Instrumental guitar for rainy day contemplation.
 
-138 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/0OFjYAHKTUhiFgc9oYNNXy)
+140 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/0OFjYAHKTUhiFgc9oYNNXy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Amorosa](https://open.spotify.com/track/2U9Abi4ZwTuJXyyuru5aZJ) | [Tor Dahl](https://open.spotify.com/artist/5GfnXcZhvTgsNpj5U1CkBU) | [Amorosa](https://open.spotify.com/album/16fq5y6Mf70i5nfM10O7R6) | 2:34 | 2021-12-23 | 2022-03-02 |
 | [Autumn Arpeggio](https://open.spotify.com/track/2qbrCLrQYmF0MXsM14j0Xy) | [Philip Wise](https://open.spotify.com/artist/63CxYHMxXN1vygSUb0BgSP) | [Autumn Arpeggio](https://open.spotify.com/album/5UZkDelwTrgxwQQztgpdaj) | 2:11 | 2021-12-23 |  |
 | [Autumn Melancholia](https://open.spotify.com/track/4taVl4QvjzirByhD4Us9BY) | [DeLand](https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0) | [Autumn Melancholia](https://open.spotify.com/album/3QUiXppQZOO6c1uFLcEOoQ) | 2:24 | 2021-12-23 |  |
-| [Behind the lines](https://open.spotify.com/track/7qDMgfVahRq3GfjRFmW4aI) | [Alex Miracone](https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh) | [Behind the lines](https://open.spotify.com/album/2PzIJI6qTvSsEcBMxfACVC) | 2:17 | 2021-12-23 |  |
+| [Behind the lines](https://open.spotify.com/track/7qDMgfVahRq3GfjRFmW4aI) | [Alex Miracone](https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh) | [Behind the lines](https://open.spotify.com/album/2PzIJI6qTvSsEcBMxfACVC) | 0:29 | 2021-12-23 |  |
 | [Bibo No Aozora](https://open.spotify.com/track/5JitZNsoYf7zzF2MDcwO8G) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Bibo No Aozora](https://open.spotify.com/album/0o613KBRB7aYyCURvsyyZT) | 3:06 | 2021-12-23 | 2022-03-02 |
 | [Blessing](https://open.spotify.com/track/2mnkJQfcSdnT71z3FUpCFD) | [Rob Willard](https://open.spotify.com/artist/4AZkp9pNQJf5f8EZkjVgTl) | [Blessing](https://open.spotify.com/album/0hWDQ5WjbOBkWUfFxgI10B) | 1:59 | 2022-03-01 |  |
 | [Bosque Nevado](https://open.spotify.com/track/6S3dGUUgqt61UnjFqL1C0W) | [Ernesto Jiménez](https://open.spotify.com/artist/6xf34gZLMObXtgYsbmyjRS) | [Bosque Nevado](https://open.spotify.com/album/0mzN5tEu3Fm035fbQ7norg) | 2:23 | 2021-12-23 |  |
@@ -39,6 +39,7 @@
 | [Distant Shore](https://open.spotify.com/track/358grkBo9B5eR7qlnmSIGv) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [Distant Shore](https://open.spotify.com/album/2Vw8NgD0EVnt0k6SDtdHCY) | 2:27 | 2021-12-23 | 2022-03-02 |
 | [Doldrums](https://open.spotify.com/track/2OUZUGb2q6rDXtXfDYmTmG) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [Doldrums](https://open.spotify.com/album/5K7l55YIhPjl3HoY1eYgHF) | 2:20 | 2021-12-23 |  |
 | [Dromen van liefde](https://open.spotify.com/track/5Ag0yvwrHCr6UmBQb88itc) | [Helena Timmers](https://open.spotify.com/artist/0B8LhZQbdtQPuzAu0cQ2az) | [Dromen van liefde](https://open.spotify.com/album/7g0TCMEFkWBqKqaZhoDWLd) | 2:28 | 2021-12-23 |  |
+| [Drømmefanger](https://open.spotify.com/track/0T6bYCFzm1OZQYaKgpJw0e) | [Gunni Møller](https://open.spotify.com/artist/1W3Msj0w5UgqoO24nOybtE) | [Drømmefanger](https://open.spotify.com/album/4tWm0QSK75J3iiXBALU7zF) | 2:18 | 2022-07-01 |  |
 | [Dublin](https://open.spotify.com/track/7t82AQOD8JSHkLOZRSC0BM) | [Conor Flanagan](https://open.spotify.com/artist/2jWT6fuYQO2r65UmMCN3kA) | [Dublin](https://open.spotify.com/album/5PMaZ9o8XkTqg9TyYC6YpE) | 1:42 | 2021-12-23 | 2022-03-02 |
 | [E perto do anoitecer](https://open.spotify.com/track/12JjMTQI1A6Z6cpiuek0z2) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [E perto do anoitecer](https://open.spotify.com/album/2qUsqLtAeAoYKFPUKpR9Qo) | 2:41 | 2021-12-23 |  |
 | [East Wind](https://open.spotify.com/track/1GVjLE6wFF2JRb1SIGPcFA) | [Hannu Esaer](https://open.spotify.com/artist/3Tx1yuGiOQJfHqGPa5lZeF) | [East Wind](https://open.spotify.com/album/79nh2fw5rv7xbbnuNiC3CG) | 2:32 | 2021-12-23 |  |
@@ -73,7 +74,7 @@
 | [La Suerte Llegará](https://open.spotify.com/track/6kkupWXVg8I0XjbCbx7lHu) | [Alonso Librado](https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0) | [La Suerte Llegará](https://open.spotify.com/album/1kGSX1V9qlLqa51ldvn9TR) | 2:25 | 2021-12-23 |  |
 | [Lac de Marion](https://open.spotify.com/track/7DOfjD9dGQiYdYdBOaDTcB) | [Pascal Desprez](https://open.spotify.com/artist/6ejWaGjAI1lJ3PcLJ6c3OW) | [Lac de Marion](https://open.spotify.com/album/7f3ISdhodcTS8WkTJQ7saM) | 2:10 | 2021-12-23 |  |
 | [Lakeside](https://open.spotify.com/track/3fRdZDTuvJruh5mHXwja88) | [Antoine Pepe](https://open.spotify.com/artist/1GZ7usuOguq1obg0YHjy2S) | [Lakeside](https://open.spotify.com/album/5lkbhoHHJFAMEuFKAm74Ud) | 2:18 | 2021-12-23 | 2022-05-27 |
-| [Let Me Reach That Mountain](https://open.spotify.com/track/11jFSuok2S4g04ziCBd44w) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Let Me Reach That Mountain](https://open.spotify.com/album/63QYtDWsFzy2yxYvMPcnCT) | 3:31 | 2021-12-23 |  |
+| [Let Me Reach That Mountain](https://open.spotify.com/track/11jFSuok2S4g04ziCBd44w) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Let Me Reach That Mountain](https://open.spotify.com/album/63QYtDWsFzy2yxYvMPcnCT) | 0:29 | 2021-12-23 |  |
 | [Let there be dusk](https://open.spotify.com/track/2vAwGQP1uwWbntjDBI7zqE) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Let there be dusk](https://open.spotify.com/album/0pJ3iGzScpSKx0d0YAuxjg) | 2:53 | 2021-12-23 |  |
 | [Light of Seven](https://open.spotify.com/track/0RLxH84fjtDbLbflloUiQG) | [Tomas Hilber](https://open.spotify.com/artist/2pxii0UbnSs9vWOt4QcmHN) | [Light of Seven](https://open.spotify.com/album/3G395USQ5og7Qq5Hvnh7lg) | 1:59 | 2021-12-23 |  |
 | [Lighthouse](https://open.spotify.com/track/527HRQnZDhhXM4fWV3iTga) | [Moody Me](https://open.spotify.com/artist/195UO4AUwZfApowkBDD3i8) | [Lighthouse](https://open.spotify.com/album/3AvjxvjZIFayjwENZ5ZFni) | 2:42 | 2021-12-23 |  |
@@ -87,7 +88,7 @@
 | [Mad World](https://open.spotify.com/track/1sTFd9Uzlpn1ezszKvfA8U) | [Sergei Baronin](https://open.spotify.com/artist/43F9YqxW89cDIMwYv7Ruoy) | [Modern Composers on Guitar](https://open.spotify.com/album/1eMnPhrwbrQ2xCn75eNRo1) | 3:15 | 2021-12-23 |  |
 | [Magic Guitar](https://open.spotify.com/track/0S6EowEvexHX4r4t1SscDd) | [Madjid Fahem](https://open.spotify.com/artist/4r2IfAxqQFZ3NFOa44wA4w) | [Magic Guitar](https://open.spotify.com/album/3fGydqF4H5ncJDD4jr1Nv2) | 2:36 | 2021-12-23 |  |
 | [Mainway Orchard](https://open.spotify.com/track/1rKEYO07UzuaGoVIuGNUVS) | [Faircamp](https://open.spotify.com/artist/1xxKCb2lrYVUmTL6EbD0Pu) | [Into the Wind](https://open.spotify.com/album/4qrpQBGCS95ekF7eEvZRue) | 2:33 | 2021-12-23 |  |
-| [Mayo](https://open.spotify.com/track/5Q5Dt6MsjoVz5lqnV8H93e) | [Jaume Torrent](https://open.spotify.com/artist/04QMH563wBsRiKHJCi0O24) | [Mayo](https://open.spotify.com/album/0XOMQ8PVzoWIUNcR6grxY7) | 1:20 | 2021-12-23 |  |
+| [Mayo](https://open.spotify.com/track/5Q5Dt6MsjoVz5lqnV8H93e) | [Jaume Torrent](https://open.spotify.com/artist/04QMH563wBsRiKHJCi0O24) | [Mayo](https://open.spotify.com/album/0XOMQ8PVzoWIUNcR6grxY7) | 0:29 | 2021-12-23 |  |
 | [Melrose](https://open.spotify.com/track/5ngbgfC1bhMA7WMxzH9Cfe) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Melrose](https://open.spotify.com/album/6Z1EwaLJ7zU8SaGywp0pSj) | 2:04 | 2021-12-23 |  |
 | [Mendoza](https://open.spotify.com/track/1tDp655UeKaHN3J23HHave) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Mendoza](https://open.spotify.com/album/2Bxw8YfgCBm91kJrRk8U8k) | 4:31 | 2021-12-23 |  |
 | [Midnight in Olivebridge](https://open.spotify.com/track/73CfMnErjqLOpi1hIDtU4v) | [Marcel Vasnov](https://open.spotify.com/artist/0J6aflTK3MQGQGQgIqg9j3) | [Copake Lake](https://open.spotify.com/album/7bmwJew61SQ04jqcX9qW5U) | 2:43 | 2021-12-23 |  |
@@ -137,6 +138,7 @@
 | [Una Luz en el Silencio](https://open.spotify.com/track/5sKLWKEA2OEhBKdERE70vu) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Una Luz en el Silencio](https://open.spotify.com/album/0tuw4ClrE9s1IIsMb8Qgld) | 4:55 | 2021-12-23 |  |
 | [Vem kan segla förutan vind](https://open.spotify.com/track/1qFBqtdKIjeGDKH2viV8Js) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Vem kan segla förutan vind](https://open.spotify.com/album/3x64QzItu9GmrFSsUgfVth) | 1:25 | 2021-12-23 |  |
 | [Vero Amore](https://open.spotify.com/track/1kkvNP512ctkEDMJIq2ca3) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Vero Amore](https://open.spotify.com/album/2xfZJ7RYOMiBDWKy0m9g9L) | 2:40 | 2021-12-23 | 2022-03-02 |
+| [Waiting Is Over](https://open.spotify.com/track/6QKPjl901Y5aYw6ui19uHq) | [Mary\-Anne Petersen](https://open.spotify.com/artist/10jkdLoGCp06EB8vIRKAWO) | [Waiting Is Over](https://open.spotify.com/album/2qV9t17nZXTQ6aP0FUa4Vo) | 2:00 | 2022-07-01 |  |
 | [When It Hits You](https://open.spotify.com/track/2uLNVnUExOftiMwIpGKKnH) | [Wanderer's Trove](https://open.spotify.com/artist/5G70OWQLpkb6IXJU1ut7E1) | [When It Hits You](https://open.spotify.com/album/42i9m7AMjy7zq0we4KeEBH) | 2:56 | 2021-12-23 | 2022-05-27 |
 | [When the Sea Lets Go](https://open.spotify.com/track/47SJIHUBfKr48f8Q33xnX6) | [Vin Downes](https://open.spotify.com/artist/4hImyLoQH7OA08maVM1HAd) | [When the Sea Lets Go](https://open.spotify.com/album/5OTVYw9MtCCwBmh3FgjZRY) | 4:19 | 2021-12-23 |  |
 | [Where I'm From](https://open.spotify.com/track/4TzxVjpZprvyvOhZUXFizs) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Keep A Secret](https://open.spotify.com/album/4OhHkRhQyMXykmpn8D6PBi) | 3:36 | 2021-12-23 |  |

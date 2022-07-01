@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and beyond... Cover: <a href=\"https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi?si=eu6MKYO0RiyHFPeWDwx_OQ\">DJ Maphorisa</a> and <a href=\"https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR?si=pKD746lTRMiRSGig8I8UMA\">Kabza De Small</a> ",
+  "description": "The biggest Amapiano singles making waves in South Africa and beyond... Cover: <a href=\"https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz?si=lXfuvPo2QfmEsdFXTFmjaw\">Mellow & Sleazy</a>",
   "name": "AmaPiano Grooves",
   "published_playlist_ids": [
     "1OROzyYVlgHk2xjXQZDV5G"
@@ -1604,6 +1604,24 @@
     },
     {
       "album": {
+        "name": "Bomba",
+        "url": "https://open.spotify.com/album/74kdtu36eSVBHA7oTCvXvf"
+      },
+      "artists": [
+        {
+          "name": "Duncan R32",
+          "url": "https://open.spotify.com/artist/52X5UIn4TQYFTDbcwpZYCN"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382699,
+      "name": "Bomba",
+      "url": "https://open.spotify.com/track/6tzYLcEFcwAMkFvXI9ccvp"
+    },
+    {
+      "album": {
         "name": "Boomba (Radio Edit)",
         "url": "https://open.spotify.com/album/771lUuGKXyHk7lfZmeEXi9"
       },
@@ -2179,7 +2197,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 277649,
       "name": "Daliwami",
       "url": "https://open.spotify.com/track/4fknfsdbSutIkCmUQsV7mR"
@@ -2595,6 +2613,32 @@
       "duration_ms": 379350,
       "name": "Ekhaya (feat. SboshTheVee)",
       "url": "https://open.spotify.com/track/2DsLDLTMGqfAmUY1taNdxB"
+    },
+    {
+      "album": {
+        "name": "A Fierce Piano",
+        "url": "https://open.spotify.com/album/5ecMBGw8AJx9O3Q5awgfai"
+      },
+      "artists": [
+        {
+          "name": "TxC",
+          "url": "https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g"
+        },
+        {
+          "name": "Daliwonga",
+          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
+        },
+        {
+          "name": "TOSS",
+          "url": "https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437176,
+      "name": "Elokishini",
+      "url": "https://open.spotify.com/track/6UIcQfuUG0aENczKjyq3ep"
     },
     {
       "album": {
@@ -7527,7 +7571,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 290973,
       "name": "Sbeje",
       "url": "https://open.spotify.com/track/02dGj9zTDMmBYEfoxTgdUC"
@@ -9159,7 +9203,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 223008,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/2brb8G574Zt3KFZsP7FoUX"
@@ -9902,6 +9946,28 @@
     },
     {
       "album": {
+        "name": "Umuzi Wethu (feat. Madumane)",
+        "url": "https://open.spotify.com/album/4URJDluFa68fasADjp95bE"
+      },
+      "artists": [
+        {
+          "name": "Mlindo The Vocalist",
+          "url": "https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI"
+        },
+        {
+          "name": "Madumane",
+          "url": "https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276610,
+      "name": "Umuzi Wethu (feat. Madumane)",
+      "url": "https://open.spotify.com/track/6Vn8ZEeE8HVjG5aGXmgt2L"
+    },
+    {
+      "album": {
         "name": "Umxabanisi",
         "url": "https://open.spotify.com/album/3kwPmCe9Pg6u20j8y3EylB"
       },
@@ -10287,7 +10353,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 179657,
       "name": "Want",
       "url": "https://open.spotify.com/track/6vcL12JWIzSjpxxqFPmh9L"
@@ -10425,6 +10491,40 @@
       "duration_ms": 450304,
       "name": "Wena (Halala)",
       "url": "https://open.spotify.com/track/3PR5nhpgfz9to92V7wb5Nc"
+    },
+    {
+      "album": {
+        "name": "Wenza Kanjani (feat. 2woshort, TNK MusiQ & BoontleRSA)",
+        "url": "https://open.spotify.com/album/5IbMEbXMh2jDgr7NQl3YZL"
+      },
+      "artists": [
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "Chley",
+          "url": "https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N"
+        },
+        {
+          "name": "Boontle RSA",
+          "url": "https://open.spotify.com/artist/47krblknOhmovlOAbneemK"
+        },
+        {
+          "name": "2woshort",
+          "url": "https://open.spotify.com/artist/2CsKNR9HBBs3bAswmPz825"
+        },
+        {
+          "name": "TNK MusiQ",
+          "url": "https://open.spotify.com/artist/2oA819q93vu53ZDkCJYdbN"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 479916,
+      "name": "Wenza Kanjani (feat. 2woshort, TNK MusiQ & BoontleRSA)",
+      "url": "https://open.spotify.com/track/2zMTOFjChHz0XEcM0kRt4K"
     },
     {
       "album": {

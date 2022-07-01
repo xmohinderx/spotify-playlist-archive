@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1dB0DjEsx9Gy0VG7Hmyc7Q.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 146 likes - 27 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 146 likes - 27 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/1dB0DjEsx9Gy0VG7Hmyc7Q.md) - [plain]
 | 19 | [Poison \- New Main Version](https://open.spotify.com/track/3KRLB3lYB74kj9PiqY3HXC) | [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [Poison \(UK Version\)](https://open.spotify.com/album/2qc9JX5CdVXTO7YezujpBm) | 3:47 |
 | 20 | [Titanium \(feat\. Sia\)](https://open.spotify.com/track/2dOTkLZFbpNXrhc24CnTFd) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Nothing but the Beat Ultimate](https://open.spotify.com/album/1fAn5gw4Q5HN8Wpx2neYd2) | 4:05 |
 | 21 | [Right There](https://open.spotify.com/track/6wQIYp3JceGovaINQmAjxj) | [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [Killer Love](https://open.spotify.com/album/3Y72frMeiDNZlsIorQBES8) | 4:02 |
-| 22 | [Shackles \(Praise You\)](https://open.spotify.com/track/5siee1e4lz8uF51OokjglA) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Thankful](https://open.spotify.com/album/2CW02evpO85vRxOSYx7zcP) | 3:16 |
+| 22 | [Shackles \(Praise You\)](https://open.spotify.com/track/5siee1e4lz8uF51OokjglA) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Thankful](https://open.spotify.com/album/2CW02evpO85vRxOSYx7zcP) | 0:29 |
 | 23 | [Wet](https://open.spotify.com/track/7b7WSNukZ19L7VtmspH0um) | [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [Killer Love](https://open.spotify.com/album/3Y72frMeiDNZlsIorQBES8) | 3:36 |
 | 24 | [Lost & Found \- Alternate Version](https://open.spotify.com/track/7eAdM2NtkJ3Hjn9m5lyKs6) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lost & Found](https://open.spotify.com/album/1At2OfbCTftrSxxbg33ji5) | 4:29 |
 | 25 | [Puakenikeni](https://open.spotify.com/track/6jGTursjRpvyrpI2D81qix) | [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [Puakenikeni](https://open.spotify.com/album/3z3SSyLUSnDo49ITnPsRD4) | 4:01 |

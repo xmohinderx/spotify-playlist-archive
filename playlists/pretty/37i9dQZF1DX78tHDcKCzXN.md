@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78tHDcKCzXN.md) - [plain]
 
 > NCTzens! Sticker is here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,678 likes - 64 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,824 likes - 64 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78tHDcKCzXN.md) - [plain]
 | 46 | [Boom](https://open.spotify.com/track/67gusSJWD5yC8FdqUgSLqt) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YHFKsjb0e5q8Smb2CBUl7) | 3:29 |
 | 47 | [City 127](https://open.spotify.com/track/0UEknUD00qJuDjljnI1zw9) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Regular\-Irregular \- The 1st Album](https://open.spotify.com/album/4oU5Tp952fPL7z2Bax4JmU) | 3:19 |
 | 48 | [Love Me Now](https://open.spotify.com/track/1QLLNLd32qDJjsH1UPPMkp) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YHFKsjb0e5q8Smb2CBUl7) | 4:08 |
-| 49 | [Wakey\-Wakey](https://open.spotify.com/track/147lM5htxXyaYuwDM1j3zl) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Awaken](https://open.spotify.com/album/5ZZi6WiDmPcTkx2Vx7n61Z) | 3:02 |
+| 49 | [Wakey\-Wakey](https://open.spotify.com/track/147lM5htxXyaYuwDM1j3zl) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Awaken](https://open.spotify.com/album/5ZZi6WiDmPcTkx2Vx7n61Z) | 0:29 |
 | 50 | [White Night](https://open.spotify.com/track/0gu1joxLlUJKmg2ZvGTaZF) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YHFKsjb0e5q8Smb2CBUl7) | 4:03 |
 | 51 | [Fly Away With Me](https://open.spotify.com/track/4Tyc1oTfGTsuq52SapQWL9) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Regular\-Irregular \- The 1st Album](https://open.spotify.com/album/4oU5Tp952fPL7z2Bax4JmU) | 3:32 |
 | 52 | [MAD DOG](https://open.spotify.com/track/7ARkzETM5vjxptipR501ue) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YHFKsjb0e5q8Smb2CBUl7) | 3:03 |

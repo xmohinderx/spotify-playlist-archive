@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Chitarre pi\u00f9 o meno distorte (e, in cover, Nudha)",
+  "description": "Chitarre pi\u00f9 o meno distorte (e, in cover, Emma Nolde)",
   "name": "Rock Italia",
   "published_playlist_ids": [
     "1ygHfNTT8YmP8RXH0ojm4P"
@@ -117,6 +117,24 @@
       "duration_ms": 242497,
       "name": "Ansia Capitale",
       "url": "https://open.spotify.com/track/3aJ8dxraLU7aqEm1FKwhX7"
+    },
+    {
+      "album": {
+        "name": "Falli a pezzi!",
+        "url": "https://open.spotify.com/album/6Y5QkxB88qzpT3njgKH2LF"
+      },
+      "artists": [
+        {
+          "name": "Lo Straniero",
+          "url": "https://open.spotify.com/artist/0m2ZFwd9Gh7wI0NpqzIkBD"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223678,
+      "name": "Artistico serale",
+      "url": "https://open.spotify.com/track/5EBpMh8KabaQxYITlPd5nc"
     },
     {
       "album": {
@@ -315,7 +333,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 249354,
       "name": "Charlie Sheen",
       "url": "https://open.spotify.com/track/73DtLKoCK2gVwaXyU8JRuG"
@@ -499,7 +517,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 200261,
       "name": "Dove sei?",
       "url": "https://open.spotify.com/track/2xrkFsPXjRicYa0NIBvqhW"
@@ -669,7 +687,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 241493,
       "name": "Gent",
       "url": "https://open.spotify.com/track/4X0DLF1x69H8ybF2M3tkjl"
@@ -799,7 +817,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 219846,
       "name": "Horror",
       "url": "https://open.spotify.com/track/6fPGBlx8wsAxhoDn7BwiAH"
@@ -1050,6 +1068,24 @@
     },
     {
       "album": {
+        "name": "Libellula",
+        "url": "https://open.spotify.com/album/4xo1lo7z4A2sawH7WI7Eev"
+      },
+      "artists": [
+        {
+          "name": "Zagreb",
+          "url": "https://open.spotify.com/artist/72ampwyFXEhwaReO0BZ4WY"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Libellula",
+      "url": "https://open.spotify.com/track/0XbO1VbFRlFlycqvnaNuYn"
+    },
+    {
+      "album": {
         "name": "Ragazzina",
         "url": "https://open.spotify.com/album/3dKuOfQT48iqlWxEDPzMh6"
       },
@@ -1101,7 +1137,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 233240,
       "name": "Meravigliosa (feat. Ditonellapiaga)",
       "url": "https://open.spotify.com/track/3Ji5zXZw7hDUgIp5IkLFiy"
@@ -1249,7 +1285,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 235065,
       "name": "ORBO",
       "url": "https://open.spotify.com/track/4VBCWRlrzDNxyjBEfuubST"
@@ -1267,7 +1303,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 166326,
       "name": "Papaveri",
       "url": "https://open.spotify.com/track/78ZTkpYWq7YdLSfkPlhdgW"
@@ -1285,10 +1321,28 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 257500,
       "name": "Papavero",
       "url": "https://open.spotify.com/track/3qML5gP73yuL9XVmMm3Ns5"
+    },
+    {
+      "album": {
+        "name": "Parlami",
+        "url": "https://open.spotify.com/album/5yLLr1dLk439zVforZ4zZw"
+      },
+      "artists": [
+        {
+          "name": "Asia Ghergo",
+          "url": "https://open.spotify.com/artist/0TPUlnIZtGxkM27FIgl39N"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232307,
+      "name": "Parlami",
+      "url": "https://open.spotify.com/track/6EgGe4PI3Y9EWPD5Wpv6iE"
     },
     {
       "album": {
@@ -1321,7 +1375,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 192358,
       "name": "Pensiero magico",
       "url": "https://open.spotify.com/track/2Kann8MkDiYwDutctlgxyX"
@@ -1361,6 +1415,24 @@
       "duration_ms": 196614,
       "name": "POVERI DIAVOLI",
       "url": "https://open.spotify.com/track/7Kr5XGDiO1jytPSyVxb1yv"
+    },
+    {
+      "album": {
+        "name": "Proci",
+        "url": "https://open.spotify.com/album/79QoacS4YKcsu7aTSLIIvz"
+      },
+      "artists": [
+        {
+          "name": "Manuel Agnelli",
+          "url": "https://open.spotify.com/artist/1fLNnD2YIhtUR8VrX68As4"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213002,
+      "name": "Proci",
+      "url": "https://open.spotify.com/track/0d6K1KUiX01DZN4yBpjW8w"
     },
     {
       "album": {
@@ -1429,7 +1501,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 305164,
       "name": "Rincorretevi",
       "url": "https://open.spotify.com/track/5cZHjGtsw6vsu5DVOrDBRP"
@@ -1509,6 +1581,24 @@
       "duration_ms": 211213,
       "name": "Sereno",
       "url": "https://open.spotify.com/track/2U1XriPajBptR6r2B3hiP6"
+    },
+    {
+      "album": {
+        "name": "Humblekids",
+        "url": "https://open.spotify.com/album/3r2ghMcD9kK9hd4l3IJKNk"
+      },
+      "artists": [
+        {
+          "name": "Fiasko Leitmotiv",
+          "url": "https://open.spotify.com/artist/7mCEKbvh7Tt4JJUkZYbkR4"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281500,
+      "name": "Shirly",
+      "url": "https://open.spotify.com/track/7elf321mzsREI27HuwWWGC"
     },
     {
       "album": {
@@ -1654,7 +1744,7 @@
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 199384,
+      "duration_ms": 29048,
       "name": "Strappati Lungo i Bordi",
       "url": "https://open.spotify.com/track/1tmxGSXmeKk5NjZh3hIG7v"
     },
@@ -1671,7 +1761,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 191978,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/6jDTTi7Ebqzf2d67Rfoqph"
@@ -1747,6 +1837,24 @@
       "duration_ms": 176250,
       "name": "Tra chi fugge e chi resta",
       "url": "https://open.spotify.com/track/5YmJTaXU588pytZNYxVWew"
+    },
+    {
+      "album": {
+        "name": "Turnover",
+        "url": "https://open.spotify.com/album/1aCpnw0VjbPYz38eNzdNWe"
+      },
+      "artists": [
+        {
+          "name": "Antartica",
+          "url": "https://open.spotify.com/artist/3waKEzmxmiC9ZNDlCyL9Wb"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145242,
+      "name": "Turnover",
+      "url": "https://open.spotify.com/track/5Y2EMG7xInrfl5xeZI56A5"
     },
     {
       "album": {
@@ -1841,6 +1949,24 @@
       "duration_ms": 208101,
       "name": "Una festa",
       "url": "https://open.spotify.com/track/25aCtC19xMjjLdejTxJ0z3"
+    },
+    {
+      "album": {
+        "name": "UNO, DUE",
+        "url": "https://open.spotify.com/album/3lpVkPyUEVk6Swojw19kzs"
+      },
+      "artists": [
+        {
+          "name": "Le Endrigo",
+          "url": "https://open.spotify.com/artist/19iWcNNkOaOpcFtSRF7q5a"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205609,
+      "name": "UNO, DUE",
+      "url": "https://open.spotify.com/track/75HUCYfX4wop5tV0qKrHbR"
     },
     {
       "album": {

@@ -4,12 +4,12 @@
 
 > 
 
-75 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/6p9c4PTliFseHrbUcJ0JZh)
+75 songs - 4 hr 28 min - [published](https://open.spotify.com/playlist/6p9c4PTliFseHrbUcJ0JZh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 Other Lovers](https://open.spotify.com/track/5UbnXbZFkeBTYRdL4uWQKD) | [DeVotchKa](https://open.spotify.com/artist/0hk8VgR64voU5ueK96W2DI) | [100 Lovers](https://open.spotify.com/album/0y8MlcSEUYvVUvErLVra3R) | 4:11 | 2012-02-08 |  |
-| [A Song For The Lovers](https://open.spotify.com/track/7a90gal9tr3yS8bEXUvu8D) | [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Alone With Everybody](https://open.spotify.com/album/7rVo1K80X4sr88MxsD0vds) | 5:26 | 2012-02-08 |  |
+| [A Song For The Lovers](https://open.spotify.com/track/7a90gal9tr3yS8bEXUvu8D) | [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Alone With Everybody](https://open.spotify.com/album/7rVo1K80X4sr88MxsD0vds) | 0:29 | 2012-02-08 |  |
 | [Anything But You](https://open.spotify.com/track/5OU7fqdD61veczbQv16UAP) | [Fresh Body Shop](https://open.spotify.com/artist/1r0s0vbeTevDxVNKIyV4HO) | [Anything But You](https://open.spotify.com/album/1nQdp7ZPViwv4VxtJgDVe7) | 2:09 | 2012-02-08 |  |
 | [Baby Please Don't Go](https://open.spotify.com/track/2rPnCnQepsovEY5miG8J5a) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA) | [At The Movies \- Soundtrack Hits](https://open.spotify.com/album/6QNfQljmpW1rAPAvdXQ0He) | 2:43 | 2012-02-08 |  |
 | [Back For A Taste Of Your Love](https://open.spotify.com/track/2fYy4V21to5GlYcVq77byB) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Lie To Me](https://open.spotify.com/album/2VNyF8hG22dvrga7pUbyix) | 3:32 | 2012-02-08 |  |
@@ -80,8 +80,8 @@
 | [We Gotta Live Together \- Live At Fillmore East, 1970 / 50th Anniversary](https://open.spotify.com/track/3eyusi7FLZZW3TjZoCgwVf) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Band Of Gypsys \(50th Anniversary / Live\)](https://open.spotify.com/album/0B0Zwfcy4pAY2JAoxIEkR5) | 5:49 | 2012-02-08 |  |
 | [When a Man Loves a Woman](https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [When a Man Loves a Woman](https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M) | 2:53 | 2012-02-08 |  |
 | [When You Kisses Me](https://open.spotify.com/track/0sZQXrLDScxFXHB3ReiGsK) | [Joan Armatrading](https://open.spotify.com/artist/1bdAJUX6JPsnYHbTl5jbk6) | [Colour Collection \(International Version\)](https://open.spotify.com/album/46IWJOI6VosMyPHuKeCMJF) | 3:16 | 2012-02-08 |  |
-| [Your Kisses Burn](https://open.spotify.com/track/0QFuA9DpGIQXhWFggHp6Ur) | [Marc Almond](https://open.spotify.com/artist/7nBZYpVAH6bD0QlD7Mpil7) | [The Stars We Are](https://open.spotify.com/album/3HIPNQXH9gtsvrlt74dUXR) | 4:43 | 2012-02-08 |  |
-| [Your Love](https://open.spotify.com/track/5vZTy4R74rVHkRfjPskMtH) | [Bushman](https://open.spotify.com/artist/7LodktwOen0OBkVv3DyxMX) | [Songs for Reggae Lovers](https://open.spotify.com/album/3zn1pJ8SJfLgIMGYzkbciI) | 3:48 | 2012-02-08 |  |
+| [Your Kisses Burn](https://open.spotify.com/track/0QFuA9DpGIQXhWFggHp6Ur) | [Marc Almond](https://open.spotify.com/artist/7nBZYpVAH6bD0QlD7Mpil7) | [The Stars We Are](https://open.spotify.com/album/3HIPNQXH9gtsvrlt74dUXR) | 0:29 | 2012-02-08 |  |
+| [Your Love](https://open.spotify.com/track/5vZTy4R74rVHkRfjPskMtH) | [Bushman](https://open.spotify.com/artist/7LodktwOen0OBkVv3DyxMX) | [Songs for Reggae Lovers](https://open.spotify.com/album/3zn1pJ8SJfLgIMGYzkbciI) | 0:29 | 2012-02-08 |  |
 | [Your Love Remains](https://open.spotify.com/track/5llLTaF0gkmw5U5k4j625d) | [The Brilliance](https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e) | [Cavetime EP](https://open.spotify.com/album/0g51NkdqDm7V1mMMCvMkgs) | 4:55 | 2012-02-08 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

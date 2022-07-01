@@ -4,7 +4,7 @@
 
 > Shut out the noise around you with these acoustic instrumentals.
 
-63 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/5hjTWJounGDY6ag6ldJKXp)
+63 songs - 3 hr 54 min - [published](https://open.spotify.com/playlist/5hjTWJounGDY6ag6ldJKXp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,9 +15,9 @@
 | [Affirmatiion](https://open.spotify.com/track/73QZsh1bq7REnerepGhMYu) | [Adam Rafferty](https://open.spotify.com/artist/4ew33GzqUUdGNpeaKC3ejt) | [Play Pretty for the People](https://open.spotify.com/album/5SJc0gJRBSeeqIQKhxSNk9) | 4:07 | 2020-10-02 |  |
 | [All Dead, All Dead](https://open.spotify.com/track/0WyQf6CA8mEcs8NO3szCJk) | [Dylan Ryche](https://open.spotify.com/artist/0GvFKjJTMXpX16KPTxFw2i) | [All Dead, All Dead](https://open.spotify.com/album/0yvKbpXk6AucMzqpZ84qhi) | 3:16 | 2020-10-02 |  |
 | [Altalenanze](https://open.spotify.com/track/5UpCLtzvTE8uNbDzTVSAnc) | [Stefano Barone](https://open.spotify.com/artist/3SkmDmTvx0USL6SaL8uDs6) | [Danze Altalenanze](https://open.spotify.com/album/60pGj9J2Z0vjn2d9kzZzsW) | 3:54 | 2020-10-02 |  |
-| [Anchor](https://open.spotify.com/track/6ti9Ul1G1QlXoKj8hhKY4a) | [Trace Bundy](https://open.spotify.com/artist/1OqASoosW3wOTZreze7i97) | [Elephant King](https://open.spotify.com/album/36OT6yqrPiZJExw1YbCXVP) | 1:51 | 2020-10-02 |  |
+| [Anchor](https://open.spotify.com/track/6ti9Ul1G1QlXoKj8hhKY4a) | [Trace Bundy](https://open.spotify.com/artist/1OqASoosW3wOTZreze7i97) | [Elephant King](https://open.spotify.com/album/36OT6yqrPiZJExw1YbCXVP) | 0:29 | 2020-10-02 |  |
 | [Angelina](https://open.spotify.com/track/4QyN2UtrOHiYAUc248HkF6) | [Tommy Emmanuel](https://open.spotify.com/artist/6HjfVflhYjbu6PSIsFOjwM) | [Endless Road](https://open.spotify.com/album/3iSBx6866HmM1lCE25R9iJ) | 3:41 | 2020-10-02 |  |
-| [Beauty of Discipline](https://open.spotify.com/track/519POQZ8qXwhqtKzAu1Exp) | [Gareth Pearson](https://open.spotify.com/artist/6FFH7nU5jBOAum93OXVtZh) | [Urban Echoes Vol\. 1](https://open.spotify.com/album/6HgiKLLU61tqtmLk606sF5) | 4:23 | 2020-10-02 |  |
+| [Beauty of Discipline](https://open.spotify.com/track/519POQZ8qXwhqtKzAu1Exp) | [Gareth Pearson](https://open.spotify.com/artist/6FFH7nU5jBOAum93OXVtZh) | [Urban Echoes Vol\. 1](https://open.spotify.com/album/6HgiKLLU61tqtmLk606sF5) | 0:29 | 2020-10-02 |  |
 | [Blinded by Sunshine](https://open.spotify.com/track/2LdMVnYJrvDL2HGajCDzXa) | [Casper Esmann](https://open.spotify.com/artist/6HAdDbfnR8PXoiGqU5cJeD) | [Blinded by Sunshine](https://open.spotify.com/album/6fZrrNfreBmXblDjliOTB1) | 3:00 | 2020-10-02 |  |
 | [Breaking Of The Shells](https://open.spotify.com/track/04a0cAnBJYhAyDr90l9Yx5) | [Billy McLaughlin](https://open.spotify.com/artist/5uUZTnrbdFHzEbFvCtl03Y) | [Acoustic Original \(The Best Of Billy Mclaughlin\)](https://open.spotify.com/album/1Xb3Wx0bgWNDTg2TSh0J7t) | 4:24 | 2020-10-02 |  |
 | [Cowboy's Hymn](https://open.spotify.com/track/6U0a10beGhhUoKSOvVjPJ2) | [Gareth Pearson](https://open.spotify.com/artist/6FFH7nU5jBOAum93OXVtZh) | [A Tweak on Antique](https://open.spotify.com/album/5zRgjuU7fHrP6wmahryw3H) | 3:23 | 2020-10-02 |  |
@@ -43,7 +43,7 @@
 | [Movement I \- Awakening](https://open.spotify.com/track/63y9PsKjVQWxvx4yZ4QMdL) | [Maneli Jamal](https://open.spotify.com/artist/3jvyO2jDkfBe2vuI6euFny) | [The Lamaj Movement](https://open.spotify.com/album/6zFlPueRXz2QG5HnfFvem1) | 3:55 | 2020-10-02 |  |
 | [Mutter](https://open.spotify.com/track/2bQAQZiFa15fLnEFUPLj02) | [Rob Scallon](https://open.spotify.com/artist/0A51LEnyTnXX33IyuwM0Ts) | [Anchor EP \(Tour Edition\)](https://open.spotify.com/album/2NRmQa5rsSqARapsAQJx9n) | 6:33 | 2020-10-02 |  |
 | [Night After Sidewalk](https://open.spotify.com/track/5V8lsCRhYJCTO8eVGpdUcI) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV) | [..\. Until We Felt Red](https://open.spotify.com/album/30WhcR5ZIZ9FvT9LwMV9Pw) | 3:31 | 2020-10-02 |  |
-| [Noises in the Night](https://open.spotify.com/track/38YXfGxOCm3M1OU0lFD9Co) | [Franco Morone](https://open.spotify.com/artist/00L3DU7naaW3XOIX26HXVz) | [Noises in the Night](https://open.spotify.com/album/0tCUM1YBGWmxdtgCw4KByd) | 4:14 | 2020-10-02 |  |
+| [Noises in the Night](https://open.spotify.com/track/38YXfGxOCm3M1OU0lFD9Co) | [Franco Morone](https://open.spotify.com/artist/00L3DU7naaW3XOIX26HXVz) | [Noises in the Night](https://open.spotify.com/album/0tCUM1YBGWmxdtgCw4KByd) | 0:29 | 2020-10-02 |  |
 | [Ragamuffin](https://open.spotify.com/track/60DnPnqDqFSSRuv2q3ed01) | [Michael Hedges](https://open.spotify.com/artist/3IqoFUpoJi1qvebL8Vi2aK) | [Pure Michael Hedges](https://open.spotify.com/album/7hX0WHmzkU5zWEkVDG2T3E) | 3:14 | 2020-10-02 |  |
 | [Running Fox Trail](https://open.spotify.com/track/49iu1XAzIqM3bulXGzusLx) | [Maneli Jamal](https://open.spotify.com/artist/3jvyO2jDkfBe2vuI6euFny) | [The Mardom Movement](https://open.spotify.com/album/4q49GqYQxX7O8FwpaShxh5) | 4:11 | 2020-10-02 |  |
 | [Rylynn](https://open.spotify.com/track/5hN8B7iH9FsMgZFkyJtVcC) | [Don Ross](https://open.spotify.com/artist/3NQRIqPwnKZJ4KLKGSkl2Y), [Andy McKee](https://open.spotify.com/artist/0X73orYGQwzjF9lSYSE3Aj) | [The Thing That Came From Somewhere](https://open.spotify.com/album/4xrdRzR1WRxZjtLGxR1Pt0) | 5:54 | 2020-10-02 |  |

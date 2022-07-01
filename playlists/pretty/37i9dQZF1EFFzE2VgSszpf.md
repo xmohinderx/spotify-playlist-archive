@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFzE2VgSszpf.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Qo1l3s9YqHwoM1udvQbsr">Kadhja Bonet</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 387 likes - 39 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 390 likes - 39 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [12.38 \(feat\. 21 Savage, Ink & Kadhja Bonet\)](https://open.spotify.com/track/011ZwIM48eD8ee2UBpG8nK) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [3.15.20](https://open.spotify.com/album/600ClrWRsAr7jZ0qjaBLHz) | 6:32 |
 | 2 | [On Sight](https://open.spotify.com/track/5WiShbQYrJnoG7mD961IKY) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF), [MIKNNA](https://open.spotify.com/artist/53htGvuREf9YT5LYk5HEvb) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 4:09 |
-| 3 | [Brother's Keeper \(feat\. Pusha T\)](https://open.spotify.com/track/7GvKDZP30uHX0p8y3Kn6BM) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Oxnard](https://open.spotify.com/album/3rqqwtJE89WoWvMyPTvbZc) | 4:14 |
-| 4 | [Headlow \(feat\. Norelle\)](https://open.spotify.com/track/0L38hbPRV0C4x6CH7WZe1W) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Norelle](https://open.spotify.com/artist/5B08rGb3FZKEEhNdsyQV8T) | [Oxnard](https://open.spotify.com/album/3rqqwtJE89WoWvMyPTvbZc) | 4:10 |
+| 3 | [Brother's Keeper \(feat\. Pusha T\)](https://open.spotify.com/track/7GvKDZP30uHX0p8y3Kn6BM) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Oxnard](https://open.spotify.com/album/3rqqwtJE89WoWvMyPTvbZc) | 0:29 |
+| 4 | [Headlow \(feat\. Norelle\)](https://open.spotify.com/track/0L38hbPRV0C4x6CH7WZe1W) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Norelle](https://open.spotify.com/artist/5B08rGb3FZKEEhNdsyQV8T) | [Oxnard](https://open.spotify.com/album/3rqqwtJE89WoWvMyPTvbZc) | 0:29 |
 | 5 | [New Sky \(feat\. Kadhja Bonet\)](https://open.spotify.com/track/3J5fFQ0PxfKQU5putEvUoM) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Chasing Summer](https://open.spotify.com/album/5zUDvKAyEKkrhYLWJJWGPQ) | 3:11 |
-| 6 | [The Chase \(feat\. Kadhja Bonet\)](https://open.spotify.com/track/48Y9pNe30o273HGYKyMKj9) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Oxnard](https://open.spotify.com/album/3rqqwtJE89WoWvMyPTvbZc) | 3:23 |
+| 6 | [The Chase \(feat\. Kadhja Bonet\)](https://open.spotify.com/track/48Y9pNe30o273HGYKyMKj9) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Oxnard](https://open.spotify.com/album/3rqqwtJE89WoWvMyPTvbZc) | 0:29 |
 | 7 | [Honeycomb](https://open.spotify.com/track/72Q94I0gbEuHDYwLxW1Tbg) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [The Visitor](https://open.spotify.com/album/4V9BgSnwEMP5yRnZE5flSP) | 3:47 |
 | 8 | [Someone Like You](https://open.spotify.com/track/1rfmeLSq9SHLInp1fEsgbg) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Party Of One](https://open.spotify.com/album/7za7wEUn5JAq6yKC2SEbnj) | 4:09 |
 | 9 | [Plans We Made](https://open.spotify.com/track/2SieYbWMvEVhiTSmBUALv0) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe) | [Tomorrows I](https://open.spotify.com/album/49leS9Adpf8wPfT6fnu1Ix) | 3:40 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFzE2VgSszpf.md) - [plain]
 | 38 | [Wake](https://open.spotify.com/track/3YujvmwqVRN7JDZbEXiOji) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen Outtakes](https://open.spotify.com/album/5DBp30tDVgskvi4q1ykiGp) | 5:14 |
 | 39 | [Zombie](https://open.spotify.com/track/7LE0A2BjH23iXlBVXzBNuU) | [Saint Bodhi](https://open.spotify.com/artist/6X7nWsfLVq8lo1qePztyu5) | [Mad World](https://open.spotify.com/album/55xeus9CHAn0fy4Jo6Xs2v) | 3:01 |
 
-Snapshot ID: `Mjc2MDkxOTYsMDAwMDAwMDA1YjNjY2Q1ZmE1NmIyY2ZkYjQzM2I1MzYxYmY5YjM3OA==`
+Snapshot ID: `Mjc2MTA2MzYsMDAwMDAwMDA2ZTE0MTI5MGYwOTlkOGNlZTBmNWNiMWU3ZDZlZmZkNA==`

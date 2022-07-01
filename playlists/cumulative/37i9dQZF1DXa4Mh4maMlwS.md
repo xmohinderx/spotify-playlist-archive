@@ -4,7 +4,7 @@
 
 > Soundtrack your 2022 resolutions with Amanda Kloots.
 
-33 songs - 1 hr 59 min - [published](https://open.spotify.com/playlist/441cLWN4hcj3dwhYZAsloq)
+33 songs - 1 hr 56 min - [published](https://open.spotify.com/playlist/441cLWN4hcj3dwhYZAsloq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Kill The Lights \(with Nile Rodgers\) \- Audien Remix](https://open.spotify.com/track/4iCKHGl4ij4YMwFrUZLGEQ) | [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [DJ Cassidy](https://open.spotify.com/artist/1xLOb1CC0N70wA28T7Q5uE), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE) | [Kill The Lights \(with Nile Rodgers\) \[Remixes\]](https://open.spotify.com/album/3H2mPBmypuqKI2nLeVhLER) | 3:44 | 2022-01-12 |  |
 | [Love Again \- Imanbek Remix](https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Love Again \(Imanbek Remix\)](https://open.spotify.com/album/1P0qTV2aAW913jN2rDjnl7) | 3:34 | 2022-01-12 |  |
 | [Shivers](https://open.spotify.com/track/75MNhvTCCKsST3YqqUiU9r) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/531c37GGv5IvddCvBv3sWT) | 3:27 | 2022-01-12 |  |
-| [Shut Up and Dance](https://open.spotify.com/track/79m3gsQ2Ab1bhADmew8N2L) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Now That's What I Call Music! 91](https://open.spotify.com/album/12Gk2SUnu0POfjsEcdGSiX) | 3:18 | 2022-01-12 |  |
+| [Shut Up and Dance](https://open.spotify.com/track/79m3gsQ2Ab1bhADmew8N2L) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Now That's What I Call Music! 91](https://open.spotify.com/album/12Gk2SUnu0POfjsEcdGSiX) | 0:29 | 2022-01-12 |  |
 | [Surrender](https://open.spotify.com/track/0bmB3nzQuHBfI6nM4SETVu) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF) | [Blood, Sweat & 3 Years](https://open.spotify.com/album/1TgJXcoFJ7BN0NiViN7wtx) | 3:28 | 2022-01-12 |  |
 | [Symphony \(feat\. Zara Larsson\)](https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Symphony \(feat\. Zara Larsson\)](https://open.spotify.com/album/4b13SJlne61y53KSEwuQtD) | 3:32 | 2022-01-12 |  |
 | [Titanium \(feat\. Sia\) \- Extended](https://open.spotify.com/track/38p5XtUGu6YoPiwS9rsuzB) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Titanium \(feat\. Sia\)](https://open.spotify.com/album/7blIKgWQs6pk2xdCzDk3gB) | 5:12 | 2022-01-12 |  |

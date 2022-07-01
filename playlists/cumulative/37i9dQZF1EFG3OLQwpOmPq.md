@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/315bvK1m77RNynw5ycETfA">sad alex</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-72 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/2t8ugsWZMHNaJAkYvjfVuP)
+72 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/2t8ugsWZMHNaJAkYvjfVuP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Don't Make Me Miss You](https://open.spotify.com/track/607gOHvtj1UmM6youCL7aG) | [Wayne Regretzky](https://open.spotify.com/artist/1afYZ4zkRfwrgjz0OVhy1v), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Don't Make Me Miss You](https://open.spotify.com/album/6JFoyy1Ndxe0dhjWROVmzP) | 2:06 | 2022-05-29 |  |
 | [Don't You Worry](https://open.spotify.com/track/5PLh9vLtiBe3uTmMCOaFVZ) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Lord Quest](https://open.spotify.com/artist/1ckwRTxh0ESM12gYEUHf89) | [The Kelly Rowland Edition](https://open.spotify.com/album/0yVRzvvD1Wes1p4ffeZhhC) | 3:31 | 2022-05-29 |  |
 | [Elouise](https://open.spotify.com/track/2XHyh3INyHUK48Ums6ShOt) | [Ian Nelson](https://open.spotify.com/artist/0Qz341hUw2KNrPpassp9HQ) | [Elouise](https://open.spotify.com/album/06SBSILEyeDpD3kucveNMf) | 3:34 | 2022-05-29 |  |
-| [Give It All](https://open.spotify.com/track/53g2iXyDr5wAaQifpNsZCf) | [Emily Zeck](https://open.spotify.com/artist/696x5uEm1nV6xucEZNAbzH) | [Give It All](https://open.spotify.com/album/6dCdUkSiLM2H6zsWzu0wUa) | 3:12 | 2022-05-29 |  |
+| [Give It All](https://open.spotify.com/track/53g2iXyDr5wAaQifpNsZCf) | [Emily Zeck](https://open.spotify.com/artist/696x5uEm1nV6xucEZNAbzH) | [Give It All](https://open.spotify.com/album/6dCdUkSiLM2H6zsWzu0wUa) | 0:29 | 2022-05-29 |  |
 | [Give Up the Gold](https://open.spotify.com/track/5j9jatJTdfmJKJ7tFYbf32) | [Dola](https://open.spotify.com/artist/7zV7uaFYItDZduoF0E9XRK) | [Give Up the Gold](https://open.spotify.com/album/0qpYNafkpUcFR6OFRCQcGL) | 2:03 | 2022-05-29 |  |
 | [Golden Roses](https://open.spotify.com/track/6CLvWzSVYzYNO2ePEqaQNl) | [Emily Zeck](https://open.spotify.com/artist/696x5uEm1nV6xucEZNAbzH) | [Blissful Ignorance](https://open.spotify.com/album/6teRzD3N6CNwWYHgHQyOPc) | 3:28 | 2022-05-29 |  |
 | [Good Catch](https://open.spotify.com/track/4o0DR32ubkdQCPT1onM18W) | [Win and Woo](https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Good Catch](https://open.spotify.com/album/6cnhQqH39ScPvQpBtQazGc) | 2:35 | 2022-05-29 |  |
@@ -77,7 +77,7 @@
 | [wash your hands](https://open.spotify.com/track/4adT64TTEDpAelfTGZOEW2) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0) | [wash your hands](https://open.spotify.com/album/2UZUH95n1E3m88UvB9zATy) | 2:32 | 2022-05-29 |  |
 | [We Never Know Anymore](https://open.spotify.com/track/1pGvJsyMFGB5jZmUblTe8x) | [Hamster](https://open.spotify.com/artist/0XfWtCWAgbbYP899ssoZSo), [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [White Lie](https://open.spotify.com/album/4jrmj4Eqot3PzjjRL8HNyc) | 3:24 | 2022-05-29 |  |
 | [Welcome To The Dark Side](https://open.spotify.com/track/6lCWOGO78tWFPiEgzFB2j6) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [Welcome To The Dark Side](https://open.spotify.com/album/09e9JBmn3fH1rXHp9GmGOf) | 2:23 | 2022-05-29 |  |
-| [What I Said](https://open.spotify.com/track/0EJtMx3EsBvwjRIADEQybR) | [Dola](https://open.spotify.com/artist/7zV7uaFYItDZduoF0E9XRK) | [What I Said](https://open.spotify.com/album/2fow3g80xPNbqTUs6QZhSM) | 2:42 | 2022-05-29 |  |
+| [What I Said](https://open.spotify.com/track/0EJtMx3EsBvwjRIADEQybR) | [Dola](https://open.spotify.com/artist/7zV7uaFYItDZduoF0E9XRK) | [What I Said](https://open.spotify.com/album/2fow3g80xPNbqTUs6QZhSM) | 0:29 | 2022-05-29 |  |
 | [Work](https://open.spotify.com/track/7LHf7zXbYdBOcTN7ZrEPUs) | [Crush Effect](https://open.spotify.com/artist/5zH3mqX70eMohRdwUWY2XJ) | [Work](https://open.spotify.com/album/5spSfPDkIm0WdVfqieJi3s) | 2:38 | 2022-05-29 |  |
 | [Yours for the Night](https://open.spotify.com/track/3veOoTKXPdnXe5OyDyi8lS) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Worthy](https://open.spotify.com/album/6zbmQwwE1ootZFV4iAU2aD) | 3:13 | 2022-05-29 |  |
 

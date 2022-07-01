@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2eCpwX876ZuWtIsZweYMnr.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,840 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,841 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/2eCpwX876ZuWtIsZweYMnr.md) - [plain]
 | 43 | [Whatcha Say](https://open.spotify.com/track/2zJZwWF7BTGIIvrAlgzJEx) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Jason Derulo \(Deluxe Audio\)](https://open.spotify.com/album/773TVtjVxXvD6DFHsWFJGN) | 3:41 |
 | 44 | [Baby](https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [My World 2.0](https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9) | 3:34 |
 | 45 | [Whataya Want from Me](https://open.spotify.com/track/2rDwdvBma1O1eLzo29p2cr) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [For Your Entertainment](https://open.spotify.com/album/0cUNjl7p6LYZJkKXJWzqP0) | 3:47 |
-| 46 | [Mine](https://open.spotify.com/track/0dBW6ZsW8skfvoRfgeerBF) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) | 3:50 |
+| 46 | [Mine](https://open.spotify.com/track/0dBW6ZsW8skfvoRfgeerBF) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) | 0:29 |
 | 47 | [Only Girl \(In The World\)](https://open.spotify.com/track/6jAsmDJI8iPhGWtS27kZ67) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud](https://open.spotify.com/album/35dJsQDEr549O5DTFUy3uM) | 3:55 |
 | 48 | [Live Like We're Dying](https://open.spotify.com/track/51YhN4y2tOvfI0Sv1hoBRo) | [Kris Allen](https://open.spotify.com/artist/2zwHaEmXxX6DTv4i8ajNCM) | [Live Like We're Dying](https://open.spotify.com/album/3kCKozGQlG80GXSHQc77hY) | 3:32 |
 | 49 | [Hard](https://open.spotify.com/track/3XcCfweqtfMbZNbM7Mq0gg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Rated R](https://open.spotify.com/album/5oMe51UhWt6rsnkAvNRd1A) | 4:10 |

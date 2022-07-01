@@ -4,7 +4,7 @@
 
 > Ahgases! 7 or nothing.
 
-128 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/0st0ceeC45OmEBrj3S6PIY)
+128 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/0st0ceeC45OmEBrj3S6PIY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [You Are](https://open.spotify.com/track/6NyPIDsbl4hEm9tFKcKzsU) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [7 for 7](https://open.spotify.com/album/3VofrXVCFsACXqdwzTVsNy) | 3:20 | 2022-05-23 |  |
 | [You Calling My Name](https://open.spotify.com/track/6f4wghlwYWGLqGEIKc6HDQ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Call My Name](https://open.spotify.com/album/76B3bEVEuCnZTkwhOXdjmg) | 3:14 | 2022-05-23 |  |
 | [ZERO](https://open.spotify.com/track/4IAXVS8vOGoY89nWAAe1OH) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [I Won't Let You Go \(Complete Edition\)](https://open.spotify.com/album/2DxBZzlb1iNeOLAar8keYn) | 3:48 | 2022-05-23 |  |
-| [王嘉爾](https://open.spotify.com/track/380m8wx1X9cSSSF5If2D9X) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [王嘉爾](https://open.spotify.com/album/1F4k2mAISGJFSKRvDUt1f1) | 4:33 | 2022-05-23 |  |
+| [王嘉爾](https://open.spotify.com/track/380m8wx1X9cSSSF5If2D9X) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [王嘉爾](https://open.spotify.com/album/1F4k2mAISGJFSKRvDUt1f1) | 0:29 | 2022-05-23 |  |
 | [고백송 Confession Song](https://open.spotify.com/track/34gltOTtqFDuaPrieClQ7K) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [MAD Winter Edition](https://open.spotify.com/album/6T1mbOaUO00lxV0GNFlKHB) | 3:32 | 2022-05-23 |  |
 | [끝](https://open.spotify.com/track/00i5R78QV23krGPEVZyZVH) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [SPINNING TOP : BETWEEN SECURITY & INSECURITY](https://open.spotify.com/album/6OIEYHaYTSPpDQRz2coN1o) | 4:03 | 2022-05-23 |  |
 | [난 니가 좋아 I Like You](https://open.spotify.com/track/5tcBJ22l1dxIyQLtm116XI) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Got It?](https://open.spotify.com/album/2WAQjbbYLWMkoGFr2g2LYw) | 3:23 | 2022-05-23 |  |

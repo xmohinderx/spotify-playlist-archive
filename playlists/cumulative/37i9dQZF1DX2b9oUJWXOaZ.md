@@ -4,7 +4,7 @@
 
 > A playlist celebrating the range of Asian and Pacific Islander talent from your favorite TV shows and movies, brought to you by CAPE \(Coalition of Asian Pacifics in Entertainment\)\. Cover: Auli'i Cravalho
 
-52 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/3e04h7LMeTqDMd23GQD7Ie)
+52 songs - 2 hr 47 min - [published](https://open.spotify.com/playlist/3e04h7LMeTqDMd23GQD7Ie)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [4ever After](https://open.spotify.com/track/4aDA4gJJPDgP1LkBPXJsLs) | [Kero One](https://open.spotify.com/artist/5EXuZB9s9F3ezkS7zpV8d1), [Ace Hashimoto](https://open.spotify.com/artist/5Y8PCl4iNLDIHGkCMi5i76) | [Onethology: 2003\-2018](https://open.spotify.com/album/0wRU4F1ucOMN2lztZVSzuQ) | 3:04 | 2022-05-02 |  |
 | [All I Want](https://open.spotify.com/track/1v6svH1Fyx9C1nIt1mA2DT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series \(Original Soundtrack\)](https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI) | 2:57 | 2022-05-02 |  |
 | [Back to Life \- 80s Remix](https://open.spotify.com/track/3c4e5bs1Y9txBubMx2al9G) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Aris Archontis](https://open.spotify.com/artist/68lL5Kw5BipzxpiYgW9xtD) | [Back to Life \(from "Bumblebee"\)](https://open.spotify.com/album/5uaGbt3JKOTJRBcB2EYf4x) | 3:13 | 2022-05-02 |  |
-| [Beautiful Day](https://open.spotify.com/track/3dw3CqTOvingT7L2oxIIIJ) | [Ho'onu'a](https://open.spotify.com/artist/7fNv44w4jZllwDLtLMxvup) | [Take You to the Jam](https://open.spotify.com/album/2zS3xNd3uff1A5p5p14B8J) | 3:36 | 2022-05-02 |  |
+| [Beautiful Day](https://open.spotify.com/track/3dw3CqTOvingT7L2oxIIIJ) | [Ho'onu'a](https://open.spotify.com/artist/7fNv44w4jZllwDLtLMxvup) | [Take You to the Jam](https://open.spotify.com/album/2zS3xNd3uff1A5p5p14B8J) | 0:29 | 2022-05-02 |  |
 | [Best Friend \(feat\. Doja Cat\)](https://open.spotify.com/track/2etHQJxIbV0soyPhelVs9Y) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Best Friend \(feat\. Doja Cat\)](https://open.spotify.com/album/28Yv9BE6ZI6dccK0sxbEq4) | 2:35 | 2022-05-02 |  |
 | [Boom Clap](https://open.spotify.com/track/0Y1MWB026LYxGvhq4EcMiC) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/5Ws5ktkIUJFpaIImvH3tYU) | 2:49 | 2022-05-02 |  |
 | [Close 2 U](https://open.spotify.com/track/7rgvhF2a3WjRkRtx2lndyc) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Moonstone EP](https://open.spotify.com/album/0YdgyT5LFI48qP4bo6Rd74) | 3:59 | 2022-05-02 |  |
@@ -27,7 +27,7 @@
 | [How Far I'll Go](https://open.spotify.com/track/6mb6lVLNrcUgLnEN8QnDJd) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:43 | 2022-05-02 |  |
 | [Hyung](https://open.spotify.com/track/5kJkL8TEs1hcQJfKjnFuOf) | [Dumbfoundead](https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD) | [Hyung](https://open.spotify.com/album/0141homHBOYIYp7thXi8Vw) | 3:35 | 2022-05-02 |  |
 | [I Am The Best](https://open.spotify.com/track/26EM9sZnQkLLQxixGd88KE) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [I Am The Best](https://open.spotify.com/album/7zjLDZzHo2XgvYwpuNwEvK) | 3:28 | 2022-05-02 |  |
-| [I Gotta Feeling](https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:49 | 2022-05-02 |  |
+| [I Gotta Feeling](https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 0:29 | 2022-05-02 |  |
 | [I Punched Keanu Reeves](https://open.spotify.com/track/4W8j5adzWu8qwOBFWkPAm2) | [Hello Peril](https://open.spotify.com/artist/7y8pbT8YWTWOE37vQW0fVM) | [Always be My Maybe \(Original Music From The Netflix Film\)](https://open.spotify.com/album/2YcZfbFLz3UD6NBvhq9LXd) | 2:56 | 2022-05-02 |  |
 | [Kill This Love](https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) | 3:11 | 2022-05-02 |  |
 | [Lay You Down](https://open.spotify.com/track/13TQfKDmXDvX5yzMvWQrL0) | [Lava Beds](https://open.spotify.com/artist/7FEMD29hZQ6IbmiYeBGCp9) | [Lay You Down](https://open.spotify.com/album/6M46CX6OyPqjh8ha7P15IX) | 3:24 | 2022-05-02 |  |

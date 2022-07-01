@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Cover: Rican Da Menace
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,812 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,828 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 38 | [Price So High](https://open.spotify.com/track/1YHC1Gk86WpGJ1CjbxUYLY) | [Idontknowjeffery](https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6), [RXK Nephew](https://open.spotify.com/artist/2TsbsGsq2Jkj2qeNCITEBq) | [AINT NOBODY COOL](https://open.spotify.com/album/0Vr0ETwAJxwGSstVwOhQo0) | 2:42 |
 | 39 | [bloom!](https://open.spotify.com/track/67hbTDETlOrG5rGjhvnXux) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [bloom!](https://open.spotify.com/album/3PFYIt7KLgjS34js0Wsz8i) | 1:27 |
 | 40 | [KIDS](https://open.spotify.com/track/6ZvPVZJixqS3i2iUbamS7z) | [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7) | [KIDS](https://open.spotify.com/album/4A3mlvuOmU0a0avddEvRmh) | 2:13 |
-| 41 | [Conversations'](https://open.spotify.com/track/1m9pBF9THZQttjFWR9VKai) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav) | [Conversations'](https://open.spotify.com/album/00nLW5EdQN80khGmvFxStL) | 2:48 |
+| 41 | [Conversations'](https://open.spotify.com/track/1m9pBF9THZQttjFWR9VKai) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav) | [Conversations'](https://open.spotify.com/album/00nLW5EdQN80khGmvFxStL) | 0:29 |
 | 42 | [Hoochie Mama](https://open.spotify.com/track/2RXhmevjfxVlM9Kd7h0fhZ) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Superghetto](https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI) | 3:15 |
 | 43 | [Unsigned Hype](https://open.spotify.com/track/7t5ua3XEUvaQ32EglBnRQR) | [Idontknowjeffery](https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6), [Denaro Love](https://open.spotify.com/artist/3UQ4t7zbgnxHGuNuuVlewc) | [Unsigned Hype](https://open.spotify.com/album/0FEYaz2fMu7xOEeFACjng5) | 2:29 |
 | 44 | [CULT](https://open.spotify.com/track/1P5pnfWEcH0qUICxrCF4Kl) | [Van Buren Records](https://open.spotify.com/artist/2T6EOVQ5lAQc64poyLnXmj), [AzizTheShake](https://open.spotify.com/artist/7wSfJLfPWSahg3J5SeVr4z), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [SAINT LYOR](https://open.spotify.com/artist/0pltaFx5l05YFrswlNEafU), [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr), [Invada](https://open.spotify.com/artist/3FBvF7C8P5IztMR7Mbxc3X), [FELIX!](https://open.spotify.com/artist/1DN9Pgv4fiAaRSSgiisj5G) | [BLACK WALL STREET](https://open.spotify.com/album/0hNK1V7xzigl41liZTk4XU) | 4:40 |

@@ -4,7 +4,7 @@
 
 > Songs with some serious violin and cello action.
 
-39 songs - 2 hr 39 min - [published](https://open.spotify.com/playlist/65dIoabDN9AlsJyqrY8I5Q)
+39 songs - 2 hr 37 min - [published](https://open.spotify.com/playlist/65dIoabDN9AlsJyqrY8I5Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Fairytale](https://open.spotify.com/track/37lYrZzmbRiEySPGkiGjXA) | [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM) | [Fairytale](https://open.spotify.com/album/4SpIN9uoCm4Hx66iOhP3Vg) | 3:02 | 2015-03-06 |  |
 | [Fake Palindromes](https://open.spotify.com/track/4c2LVTyU1XIfwNJHPVfvCM) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [The Mysterious Production of Eggs](https://open.spotify.com/album/4BIN8LmF8yBg1WMaFacAnN) | 2:52 | 2015-03-06 |  |
 | [Falling Slowly](https://open.spotify.com/track/3y3pP3eHoAKIAY0e48rfQB) | [The Frames](https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM) | [The Cost](https://open.spotify.com/album/49X4oEWbrMtwtNEUCW74kW) | 4:35 | 2015-03-06 |  |
-| [Friends Of Mine](https://open.spotify.com/track/1qrAsSNDhrpFJCnvzYWnF1) | [Adam Green](https://open.spotify.com/artist/3RyJG8xp58XSmsiuIySzUj) | [Friends Of Mine](https://open.spotify.com/album/2Jk2voBW8SEBGofebPuwNf) | 2:49 | 2015-03-06 |  |
+| [Friends Of Mine](https://open.spotify.com/track/1qrAsSNDhrpFJCnvzYWnF1) | [Adam Green](https://open.spotify.com/artist/3RyJG8xp58XSmsiuIySzUj) | [Friends Of Mine](https://open.spotify.com/album/2Jk2voBW8SEBGofebPuwNf) | 0:29 | 2015-03-06 |  |
 | [Illuminine](https://open.spotify.com/track/4P9ZDAgFk4FBi2B6hYtJ7O) | [Thurston Moore](https://open.spotify.com/artist/1J4ACYB6yMqd79q3rjskqs) | [Demolished Thoughts](https://open.spotify.com/album/6hUTxk6xY5Rnay3FcSaAL9) | 4:02 | 2015-03-06 |  |
 | [In This Shirt](https://open.spotify.com/track/4rP4BdzTLVFZZAUCkHhGYs) | [The Irrepressibles](https://open.spotify.com/artist/1v5bOzXbhrQ57qSvRwGA6s) | [Mirror Mirror](https://open.spotify.com/album/6Omxp24ubNzrc2ffw9Pqcs) | 5:35 | 2015-03-06 |  |
 | [Islands](https://open.spotify.com/track/7JtxP4YfEwrnParaSgTC3M) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Young The Giant \(Special Edition\)](https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse) | 4:05 | 2015-03-06 |  |

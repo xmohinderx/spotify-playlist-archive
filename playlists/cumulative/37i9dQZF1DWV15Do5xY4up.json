@@ -606,7 +606,7 @@
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 246946,
+      "duration_ms": 29048,
       "name": "Leaf",
       "url": "https://open.spotify.com/track/3kFX2uUuRtujp20lxIHbwF"
     },
@@ -764,6 +764,24 @@
     },
     {
       "album": {
+        "name": "Falling In Love",
+        "url": "https://open.spotify.com/album/2ZXNASZ0miJJPHZMRzrRLh"
+      },
+      "artists": [
+        {
+          "name": "Coco Bryce",
+          "url": "https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5"
+        }
+      ],
+      "date_added": "2021-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 29048,
+      "name": "Lovin U",
+      "url": "https://open.spotify.com/track/5NS2mvyyimFo4GStYcjrL1"
+    },
+    {
+      "album": {
         "name": "Falling in Love",
         "url": "https://open.spotify.com/album/6lrT0niPPS9FBnh5W7YIP8"
       },
@@ -779,24 +797,6 @@
       "duration_ms": 308000,
       "name": "Lovin U",
       "url": "https://open.spotify.com/track/56xdjzfE5K0Fxq2LCs3RLS"
-    },
-    {
-      "album": {
-        "name": "Falling In Love",
-        "url": "https://open.spotify.com/album/2ZXNASZ0miJJPHZMRzrRLh"
-      },
-      "artists": [
-        {
-          "name": "Coco Bryce",
-          "url": "https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5"
-        }
-      ],
-      "date_added": "2021-10-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 308000,
-      "name": "Lovin U",
-      "url": "https://open.spotify.com/track/5NS2mvyyimFo4GStYcjrL1"
     },
     {
       "album": {
@@ -928,7 +928,7 @@
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 247850,
+      "duration_ms": 29048,
       "name": "Opal",
       "url": "https://open.spotify.com/track/1nqNdeEJJTn13e9D7V5ABy"
     },

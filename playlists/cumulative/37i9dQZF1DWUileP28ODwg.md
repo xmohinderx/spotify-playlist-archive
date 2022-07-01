@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Micah Tyler
 
-185 songs - 11 hr 28 min - [published](https://open.spotify.com/playlist/4vhwseXb2IJBghYVawMgmp)
+185 songs - 11 hr 19 min - [published](https://open.spotify.com/playlist/4vhwseXb2IJBghYVawMgmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Hard Times](https://open.spotify.com/track/67TGuYcdTm9fQyUvXbTCrv) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Hard Times](https://open.spotify.com/album/0WrA9C0zhyyXwrzKucVEse) | 2:57 | 2022-05-28 |  |
 | [Has It Been You](https://open.spotify.com/track/39JNapamVkzWAli5ZkPb7Q) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek), [Sarah McMillan](https://open.spotify.com/artist/1taeI8pm5kXswB7L4603Tz) | [Has It Been You](https://open.spotify.com/album/2dbKYT7INEowVBF5t0eTpP) | 3:20 | 2022-02-25 |  |
 | [He Is Not Worried](https://open.spotify.com/track/64bufFeb5iQoZhEhFPVJCb) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [He Is Not Worried](https://open.spotify.com/album/7IDS7l5JGzDfdnBY1P90st) | 4:29 | 2022-02-25 | 2022-04-23 |
-| [Healer](https://open.spotify.com/track/3U22Erp29T2a36lYMNjDrx) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Holy Ground](https://open.spotify.com/album/2SZGr3sHy7EwrVFKjJ44j6) | 5:17 | 2022-02-25 |  |
+| [Healer](https://open.spotify.com/track/3U22Erp29T2a36lYMNjDrx) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Holy Ground](https://open.spotify.com/album/2SZGr3sHy7EwrVFKjJ44j6) | 0:29 | 2022-02-25 |  |
 | [Heart of the Father](https://open.spotify.com/track/1TmLe4cOUoLjEiON85AOQF) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Heart of the Father](https://open.spotify.com/album/6eg9VkQpbxdVpgh3iwPkxR) | 4:03 | 2022-02-25 | 2022-03-21 |
 | [Heart of the Father](https://open.spotify.com/track/7gknAFcf8D0RgB0rFghWIf) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Heart of the Father](https://open.spotify.com/album/1XHod4wYHeTV6sCc2qrEpB) | 4:03 | 2022-03-19 | 2022-04-23 |
 | [Heaven Help Me](https://open.spotify.com/track/2fV1D2YYFYreZXNDhqxk4D) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Rescue Story](https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk) | 3:22 | 2022-02-25 | 2022-06-25 |
@@ -140,7 +140,7 @@
 | [Plans](https://open.spotify.com/track/7ylUm6UwDblnxBNFq1E0nh) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Plans](https://open.spotify.com/album/5p3ZxGjxM3xnGi8gzHLU6f) | 3:42 | 2022-05-28 |  |
 | [Prepare The Way](https://open.spotify.com/track/6LWllzUioINd9vMcoHGep7) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Prepare The Way](https://open.spotify.com/album/5U0RfxFmopL8VCvRtsCMvQ) | 4:15 | 2022-03-25 | 2022-04-29 |
 | [Promised Land \(Collab New\) \(feat\. Sheryl Crow\)](https://open.spotify.com/track/5eQCKQKBFcyMQAAsVk3clf) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Promised Land](https://open.spotify.com/album/1gSbjqSJcZWYdN9u2Gbn8z) | 3:34 | 2022-02-25 |  |
-| [Reason I Sing \- Acoustic](https://open.spotify.com/track/7BAPIZgldsXfRcQs0bybAC) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Reason I Sing \(Acoustic\)](https://open.spotify.com/album/0yXtdv0BpUh4LsVmroNoSm) | 4:32 | 2022-03-11 |  |
+| [Reason I Sing \- Acoustic](https://open.spotify.com/track/7BAPIZgldsXfRcQs0bybAC) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Reason I Sing \(Acoustic\)](https://open.spotify.com/album/0yXtdv0BpUh4LsVmroNoSm) | 0:29 | 2022-03-11 |  |
 | [RELATE](https://open.spotify.com/track/5h0DGzgQpKTyXL0bH5cvXZ) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [RELATE](https://open.spotify.com/album/7vGlKPoTxlj5GwzVos60Yr) | 2:53 | 2022-02-25 | 2022-03-12 |
 | [Remember](https://open.spotify.com/track/3lE2ganUNX7vhzfIrpkZlv) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [Remember](https://open.spotify.com/album/1hafawbr58odnjeRt2w5wm) | 3:17 | 2022-02-25 | 2022-05-29 |
 | [Rest For Your Soul \- Radio Edit](https://open.spotify.com/track/33SARMQfHP0TlKq7ZiLccc) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Rest For Your Soul \(Radio Edit\)](https://open.spotify.com/album/5VRabSTTQx9RlEe3cQn9up) | 3:32 | 2022-02-25 | 2022-03-26 |

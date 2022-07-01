@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KARSfd7WcM.md) - [plain]
 
 > The official playlist for Heartstopper\. Watch now on Netflix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,998 likes - 36 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,123 likes - 36 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KARSfd7WcM.md) - [plain]
 | 12 | [Telephone](https://open.spotify.com/track/4VgdhAy0DBSF5hbbKzTEdS) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FANDOM](https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb) | 2:33 |
 | 13 | [LUCID](https://open.spotify.com/track/7BoVAJ0HuKcBBRmUGlzX6o) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA \(Deluxe Edition\)](https://open.spotify.com/album/0pWu9s2gPdVgqHpMR2LDEx) | 3:38 |
 | 14 | [Don’t Leave Me \(Chapter 1: Despair\)](https://open.spotify.com/track/7nhItOdjPls6dqewYNSXRT) | [HMLTD](https://open.spotify.com/artist/0yd6o6a2MaOjsF1SglI4Hw) | [Don't Leave Me](https://open.spotify.com/album/5younwrp5jJoG1iopcoLRV) | 3:32 |
-| 15 | [Clearest Blue](https://open.spotify.com/track/0eozuFNutbnEbWKOvf4W86) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Every Open Eye \(Special Edition\)](https://open.spotify.com/album/6pcfjrxlkf7fk9irlvJUzG) | 3:53 |
+| 15 | [Clearest Blue](https://open.spotify.com/track/0eozuFNutbnEbWKOvf4W86) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Every Open Eye \(Special Edition\)](https://open.spotify.com/album/6pcfjrxlkf7fk9irlvJUzG) | 0:29 |
 | 16 | [Alaska \- Toby Green Remix](https://open.spotify.com/track/1S4z3fHfqPuIlWbx3fJAlp) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe), [Toby Green](https://open.spotify.com/artist/7IVgVM49Z4ztdmOqOIxhvP) | [Alaska \(Toby Green Remix\)](https://open.spotify.com/album/2CLcLiU2Fz9Dh5jLSih1Ur) | 3:05 |
 | 17 | [What's It Gonna Be?](https://open.spotify.com/track/1Jb8fejyUddXtl2JKAEFmQ) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Nothing's Real](https://open.spotify.com/album/2igeHhP9UZ7ko10H1K0DbP) | 3:34 |
 | 18 | [heart](https://open.spotify.com/track/6l9AVZVrvHw5u4nL3HL9N0) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [come out\. you're hiding \(deluxe\)](https://open.spotify.com/album/3GIL4DPTpx8qXKmCVavrjD) | 3:42 |
-| 19 | [nothing else i could do](https://open.spotify.com/track/08ZFO4ONTelCXs1Q5YRMcW) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [nothing else i could do](https://open.spotify.com/album/3JoL1vexsTdwS4JleasqfT) | 2:50 |
+| 19 | [nothing else i could do](https://open.spotify.com/track/08ZFO4ONTelCXs1Q5YRMcW) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [nothing else i could do](https://open.spotify.com/album/3JoL1vexsTdwS4JleasqfT) | 0:29 |
 | 20 | [UrbanAngel1999](https://open.spotify.com/track/0sDsJ3HMMzrelKD11WARqc) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [UrbanAngel1999](https://open.spotify.com/album/5axdYpfOE0FnDMPlhxyqXQ) | 3:10 |
 | 21 | [If You Want To](https://open.spotify.com/track/7I1kle4TNmkfednJDKo8GR) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:43 |
 | 22 | [Buzzkill](https://open.spotify.com/track/05rA1xpVFmKf8Tn6gKwn9e) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Medicine](https://open.spotify.com/album/1T8VdjuxLqYJVJQ1WNFVqK) | 3:24 |

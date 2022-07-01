@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSPqolnbHgK.md) - [plain]
 
 > With autumn comes darker days and colder weather.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,477 likes - 134 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,477 likes - 134 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSPqolnbHgK.md) - [plain]
 | 11 | [Sweet Feelings](https://open.spotify.com/track/3pG3G1lRhmuxIndGtEQ3Hz) | [Sofia's Choice](https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20) | [Into The Stillness](https://open.spotify.com/album/1flvmX3ZrUV6I4XPXugSJ6) | 3:37 |
 | 12 | [Midnight Rambla](https://open.spotify.com/track/4sMVYjkdBXbQQx0qK2YZTi) | [Barcelona Atmosphere](https://open.spotify.com/artist/2Y0VG1OXaXM81BHoZ95zCM) | [Barcelona Atmosphere](https://open.spotify.com/album/5CyMNHf4S61L6OeHEL57gI) | 3:30 |
 | 13 | [Patio Groove](https://open.spotify.com/track/5usVzIWJyYcwYeSjfPA7T2) | [Estelle Blanca](https://open.spotify.com/artist/1PoodiuzhtzA3XvvjO0uoM) | [Rock Solid](https://open.spotify.com/album/6w6FOM134mucLTtt0HQeEI) | 3:53 |
-| 14 | [Lifeline \- Spa Version](https://open.spotify.com/track/5qZzkhTtNx5T7hkXr2coqH) | [Melwin Z](https://open.spotify.com/artist/1bdJoMs9DTrrf9K2BZBhTD) | [Lifeline](https://open.spotify.com/album/60BHb0t1LKlwo168CcTKej) | 3:54 |
+| 14 | [Lifeline \- Spa Version](https://open.spotify.com/track/5qZzkhTtNx5T7hkXr2coqH) | [Melwin Z](https://open.spotify.com/artist/1bdJoMs9DTrrf9K2BZBhTD) | [Lifeline](https://open.spotify.com/album/60BHb0t1LKlwo168CcTKej) | 0:29 |
 | 15 | [Streets of Philadelphia](https://open.spotify.com/track/1RFA5RnMV4CRi4LUVXsPQJ) | [Dúo Calientas](https://open.spotify.com/artist/6ElNAiKEtqWnJMrdYxVP2G) | [La Carretera](https://open.spotify.com/album/2fJ3dl4x89GzX8Cl9qHZIB) | 3:31 |
 | 16 | [Gliding](https://open.spotify.com/track/6IMxaXgh0Z1G2xA6iGSOJj) | [Upstairs2](https://open.spotify.com/artist/46gshtccx7HL3aBw4ZKnbA) | [MInd Travel](https://open.spotify.com/album/1khdB3uTK43q8TDvpA7pI3) | 5:52 |
 | 17 | [Blue Moon](https://open.spotify.com/track/0L1uh6vRPBxUkoIdF9WGBE) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [Relax Edition 4](https://open.spotify.com/album/2wtmiOWkQOc7mzcvCZvxce) | 5:11 |
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSPqolnbHgK.md) - [plain]
 | 103 | [Living Stones](https://open.spotify.com/track/4K2Gz8DzhVZ4Ja4vlxWi2C) | [KiloWatts](https://open.spotify.com/artist/6bfMuPt1W4fIDD0nIR7ea2) | [Seven Succulents](https://open.spotify.com/album/3BEF1oNx2m4dHR8tgpqxvz) | 6:17 |
 | 104 | [Abalone Cove](https://open.spotify.com/track/3KN3YtptG4i5pyXfpFU2RS) | [L.A\. Atmosphere](https://open.spotify.com/artist/3yMtbN4jtLkilLiilLT7h0) | [L.A\. Atmosphere](https://open.spotify.com/album/1qN74vtlw3ukUKEuZPWQhU) | 3:40 |
 | 105 | [Maximillian](https://open.spotify.com/track/7jvv6kofcYT1qoitMejhxd) | [Studio Lodge](https://open.spotify.com/artist/5Ogwa5QHd5v7KdyGG8wlLi) | [Sunbed Chill Out \(Best Of 2014\-2016\)](https://open.spotify.com/album/5i27Q6xaT7YyAoowS3IP6R) | 6:38 |
-| 106 | [A Thousand Years \- Lounge Mix](https://open.spotify.com/track/6oAEaetwv2uPyfhrGAHXnf) | [Barfalk](https://open.spotify.com/artist/2uUFr8KWQGrg4XQ86wxxqO), [Honey Belle Pears](https://open.spotify.com/artist/00ftJM3LBf1E5uoGPe5bz2) | [Wedding/Boda Lounge \(Vol 1\)](https://open.spotify.com/album/2wG8ZvuasMAkyv8tSGhPIC) | 4:53 |
+| 106 | [A Thousand Years \- Lounge Mix](https://open.spotify.com/track/6oAEaetwv2uPyfhrGAHXnf) | [Barfalk](https://open.spotify.com/artist/2uUFr8KWQGrg4XQ86wxxqO), [Honey Belle Pears](https://open.spotify.com/artist/00ftJM3LBf1E5uoGPe5bz2) | [Wedding/Boda Lounge \(Vol 1\)](https://open.spotify.com/album/2wG8ZvuasMAkyv8tSGhPIC) | 0:29 |
 | 107 | [Blank Space \- Focus Version](https://open.spotify.com/track/1HNdw6CPdClwclR95AaHCh) | [Safari](https://open.spotify.com/artist/2064gVxX01k0MWouz6iITE), [Bruno](https://open.spotify.com/artist/0TC0Mv8ql2x5g06bq1oMPs) | [Blank Space](https://open.spotify.com/album/24pvIaPsj7z5ZBEkv5Ttiw) | 4:21 |
 | 108 | [St Germain 54](https://open.spotify.com/track/21TG8QkajgXY6rWjIK5dFO) | [Paris Atmosphere](https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k) | [Paris Atmosphere](https://open.spotify.com/album/71Ao0d8AcoKZdzOFhZzScO) | 2:54 |
 | 109 | [Exit](https://open.spotify.com/track/7fqVkGIea2Kb58i2Oajz3Z) | [Milo Heart](https://open.spotify.com/artist/5WOoGqaGJ9zND9M0SNzXL1) | [Enter](https://open.spotify.com/album/2itmHyFe6x0pzdWES5yIjn) | 3:34 |
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSPqolnbHgK.md) - [plain]
 | 111 | [Lazy Days](https://open.spotify.com/track/2CjQadRHjMyUsJDi3P2pQP) | [Uniq](https://open.spotify.com/artist/4bb4qHR1Nl65kHOqtK3unm), [A&J](https://open.spotify.com/artist/7bls5wO56OdhDj3hYIfWd2) | [By The Seaside \(Vol 2\)](https://open.spotify.com/album/0g8FK5yjAMJoUiZDPi8bYX) | 3:38 |
 | 112 | [First Flower](https://open.spotify.com/track/2xrzeCo6r8L31gYS0GmmEK) | [Vincente M](https://open.spotify.com/artist/5cLnH6eBtJJnoJ0zChZqJA) | [First Flower](https://open.spotify.com/album/0kRICOLMCYoy7QoN40sSJO) | 3:32 |
 | 113 | [Meet Me In The Shades](https://open.spotify.com/track/0Dy1Lp7leAQJ5FEAZugV7k) | [Shoreline Band](https://open.spotify.com/artist/6hAU9c2V56GFBl1bt0418S), [A&J](https://open.spotify.com/artist/7bls5wO56OdhDj3hYIfWd2) | [Atmosphere Mood](https://open.spotify.com/album/2prutZgrFTEzBNo2x6NRBR) | 4:13 |
-| 114 | [Listen To Your Soul](https://open.spotify.com/track/3aLtpuIBWobnJ5O1n8EpR1) | [High Flyers](https://open.spotify.com/artist/5MObop57iZqWE3o1nXtFVc) | [Fly With Me](https://open.spotify.com/album/3jw3aOwpCYR38l4ca35zQq) | 3:50 |
+| 114 | [Listen To Your Soul](https://open.spotify.com/track/3aLtpuIBWobnJ5O1n8EpR1) | [High Flyers](https://open.spotify.com/artist/5MObop57iZqWE3o1nXtFVc) | [Fly With Me](https://open.spotify.com/album/3jw3aOwpCYR38l4ca35zQq) | 0:29 |
 | 115 | [Late Night Talk](https://open.spotify.com/track/0MUntFeM4CFaAMWIiTGavi) | [Swan](https://open.spotify.com/artist/4s0mL7hFwXvFbN89uDjWeH) | [Diamond Shine](https://open.spotify.com/album/16GjOVmgFii8TdG06IKuxV) | 4:49 |
 | 116 | [Stay Lo Get Go \- Chill Original](https://open.spotify.com/track/5JVGYVANcbXaf1AThIYlQM) | [Ears Of Light](https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc) | [Once In A dream](https://open.spotify.com/album/4z830KeZlnQ04eNYxv4Pai) | 3:13 |
 | 117 | [Gardens Of History](https://open.spotify.com/track/2VyYnRQyoke9agw8xATKyK) | [Eddie Silverton](https://open.spotify.com/artist/6znVlolumkFwHyJRe3ufzn) | [Dirty Lounging](https://open.spotify.com/album/0rb4T59OePfEmPxxCrBLLx) | 5:40 |

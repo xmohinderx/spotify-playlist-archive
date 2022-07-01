@@ -4,7 +4,7 @@
 
 > This Sunday, let's tune out the words.
 
-45 songs - 2 hr 18 min - [published](https://open.spotify.com/playlist/0CpRLqW8EkKiQoCSEtTBEq)
+45 songs - 2 hr 7 min - [published](https://open.spotify.com/playlist/0CpRLqW8EkKiQoCSEtTBEq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [](https://open.spotify.com/track/3gyqvXs7R01FWc959ZLYP8) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2P0PQiflDD2PNoAhSRtd4I) | 0:00 | 2019-01-04 |  |
 | [](https://open.spotify.com/track/3t8g35pJTDnfr8SyleZv6T) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/483XEnSUk7MkWXldnGqNXo) | 0:00 | 2019-01-04 |  |
 | [](https://open.spotify.com/track/4ltFUwVA65LD3vgoFQo68b) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0L9vIwfTY6FIZexNc1aq27) | 0:00 | 2019-01-04 |  |
-| [1440 \(Remastered 10th Anniversary Edition\)](https://open.spotify.com/track/7E22ZfsSa40dqrwy0sxxLD) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [1440 \(Remastered 10th Anniversary Edition\)](https://open.spotify.com/album/4xFBsXgqmYocQXGVZeMA9g) | 6:56 | 2019-01-04 |  |
+| [1440 \(Remastered 10th Anniversary Edition\)](https://open.spotify.com/track/7E22ZfsSa40dqrwy0sxxLD) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [1440 \(Remastered 10th Anniversary Edition\)](https://open.spotify.com/album/4xFBsXgqmYocQXGVZeMA9g) | 0:29 | 2019-01-04 |  |
 | [Alexander](https://open.spotify.com/track/0XFWVvTcY1hntfA4Befeyz) | [Andreas Söderström](https://open.spotify.com/artist/5Z6TEAkzMC3QQj32jkdkAo), [Johan Berthling](https://open.spotify.com/artist/38aUI0eoAJAgRHtcYARlCT) | [Hotell](https://open.spotify.com/album/5C1Ynh8hxPOUyy5iA0tZXh) | 2:54 | 2019-01-04 |  |
 | [Anything You Synthesize \- Ambient](https://open.spotify.com/track/0OF6WSdeVmYEGBZlxvwvLq) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Ambient One](https://open.spotify.com/album/7A6VoC5v3dHcINkZudtJaD) | 4:08 | 2019-01-04 |  |
 | [Ashoken Farewell](https://open.spotify.com/track/1F8eHbbrXTSRQTPLEREItt) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [All Will Prosper](https://open.spotify.com/album/675K5zFrbNiUcuHMfLVKix) | 2:30 | 2019-01-04 |  |
@@ -40,7 +40,7 @@
 | [Quiet Fan For SK](https://open.spotify.com/track/5tKM4B9wwjmLNO8fTwsSfS) | [P.G\. Six](https://open.spotify.com/artist/4GYG5rH2oxRMJ8DSTof7QK) | [Parlor Tricks And Porch Favorites](https://open.spotify.com/album/2YxwapK0BWNieZnHOikHV3) | 7:03 | 2019-01-04 |  |
 | [Salt hill pt.1](https://open.spotify.com/track/27XkBk6X6o5MSST31awiNA) | [Rickard Jäverling](https://open.spotify.com/artist/7pO8kbDzeJOoZeUo6tYLvt) | [The Valleys](https://open.spotify.com/album/1QvatR5Ff7CDkeyQAgHrwW) | 2:40 | 2019-01-04 |  |
 | [Sliding Down](https://open.spotify.com/track/2KKAsmZmWc6eCuAutwGewl) | [Edgar Meyer](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD), [Mike Marshall](https://open.spotify.com/artist/2WJmZq6fEmecdQVd3s38jE), [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU) | [The Best of Edgar Meyer](https://open.spotify.com/album/0ZNuAoOW0siajqjFxLtHjc) | 4:41 | 2019-01-04 |  |
-| [Straumnes](https://open.spotify.com/track/16f0oRsBHo88vgUbVqcteK) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Með suð í eyrum við spilum endalaust](https://open.spotify.com/album/6gAPGWoCZTnIaqB5EMAllD) | 2:01 | 2019-01-04 |  |
+| [Straumnes](https://open.spotify.com/track/16f0oRsBHo88vgUbVqcteK) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Með suð í eyrum við spilum endalaust](https://open.spotify.com/album/6gAPGWoCZTnIaqB5EMAllD) | 0:29 | 2019-01-04 |  |
 | [The Joy of D.H\. Lawrence](https://open.spotify.com/track/32NuTwiZpdX9ZrC7TNvn3w) | [Erik Enocksson](https://open.spotify.com/artist/1ot4IWvtkwWLAYwNUJYZex) | [Kning Disk 2005\-2012 Box Set](https://open.spotify.com/album/2ArS0SJEyL8GAuV8lACeUu) | 4:04 | 2019-01-04 |  |
 | [The Wings](https://open.spotify.com/track/3oQpVsTPxbMobnIjeogbJz) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Brokeback Mountain Soundtrack](https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT) | 1:52 | 2019-01-04 |  |
 | [Them](https://open.spotify.com/track/55c9jHCc9bsryobmiSQyvh) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for the Motion Picture Victoria \(Bonus Track Version\)](https://open.spotify.com/album/6RHEdxcef0XLhkLHBYhINF) | 4:00 | 2019-01-04 |  |
@@ -50,7 +50,7 @@
 | [Truly, Madly, Deeply](https://open.spotify.com/track/5WuUl9c2VDoiVV3dp5XBeX) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Till The Sun Turns Black](https://open.spotify.com/album/6vV4DeXFZEKUiHN6I4GUTl) | 1:55 | 2019-01-04 |  |
 | [Twins](https://open.spotify.com/track/0SeCA3vPHuXGP6sizB05ZA) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [Days of Being Wild](https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0) | 0:50 | 2019-01-04 |  |
 | [Ulla och Åke](https://open.spotify.com/track/7rtFbbJ1EIexMwWWJ7s37u) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Vilja Bli](https://open.spotify.com/album/792cHkvwg6NFfDdZ3zINwJ) | 3:58 | 2019-01-04 |  |
-| [Vissel](https://open.spotify.com/track/5EdblWf0gHqPPVhjQSLyLT) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Vestiges & Claws](https://open.spotify.com/album/2CVcNGpC318XQN2OreeugJ) | 3:44 | 2019-01-04 |  |
+| [Vissel](https://open.spotify.com/track/5EdblWf0gHqPPVhjQSLyLT) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Vestiges & Claws](https://open.spotify.com/album/2CVcNGpC318XQN2OreeugJ) | 0:29 | 2019-01-04 |  |
 | [Your Hand In Mine](https://open.spotify.com/track/5uWzSBJKqdSKJ3uMrYYUIT) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [The Earth Is Not a Cold Dead Place](https://open.spotify.com/album/1JU4XTyTzADBQE1KpM0Wtx) | 8:16 | 2019-01-04 |  |
 | [Översiktskarta över Kullahusområdet](https://open.spotify.com/track/6PrdA5Of8StnkLBRuxSpzi) | [Jäverling ◇ von Euler](https://open.spotify.com/artist/1VPqh7tyQEXc2W8KBCRPMv) | [Översiktskarta över Kullahusområdet](https://open.spotify.com/album/0mwHQDfuiddyd3KIp7XB36) | 4:52 | 2019-01-04 |  |
 

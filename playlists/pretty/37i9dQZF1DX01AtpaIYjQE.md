@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01AtpaIYjQE.md) - [plain]
 
 > The essential tracks from LiSA\. アニメシーンから世界へと羽ばたく歌姫、LiSAのオールタイム・ベスト!
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,152 likes - 80 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,163 likes - 80 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01AtpaIYjQE.md) - [plain]
 | 35 | [罪人](https://open.spotify.com/track/1XgH1HlY9bLIlRaMihSaoQ) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [ASH](https://open.spotify.com/album/0sLZVLJmnkCe6EsJO3tO1a) | 4:11 |
 | 36 | [Brave Freak Out](https://open.spotify.com/track/3K3YCGSJDKdlrfU1pGjYJm) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiTTLE DEViL PARADE](https://open.spotify.com/album/6ShPLRahLkA0WcZ07ZLID9) | 4:15 |
 | 37 | [ViVA LA MiDALA](https://open.spotify.com/track/2dDNJswbpRBIIN1LNf7nv7) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LADYBUG](https://open.spotify.com/album/1X7vvwD3illZKuq4lhZJqB) | 4:04 |
-| 38 | [THIS ILLUSION](https://open.spotify.com/track/6fXj7wwHKF80K8OjULIwCP) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [THIS ILLUSION](https://open.spotify.com/album/3Vb5ngvuqVX3I5r2TnoyoG) | 4:03 |
+| 38 | [THIS ILLUSION](https://open.spotify.com/track/6fXj7wwHKF80K8OjULIwCP) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [THIS ILLUSION](https://open.spotify.com/album/3Vb5ngvuqVX3I5r2TnoyoG) | 0:29 |
 | 39 | [play the world!](https://open.spotify.com/track/4M9x9R9Ar89CFatJwMbkrf) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [PABLO](https://open.spotify.com/artist/395Le6nBY9v6viVKGYAIYw) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 4:18 |
 | 40 | [GL](https://open.spotify.com/track/6ehNNmlPGa1MlG1RyhT0I8) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LADYBUG](https://open.spotify.com/album/1X7vvwD3illZKuq4lhZJqB) | 3:00 |
 | 41 | [No More Time Machine](https://open.spotify.com/track/4IixynzZ8RYYaoAuniR7Mq) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Launcher](https://open.spotify.com/album/3nMoTXUkEcRao1A5lWdsgR) | 4:53 |

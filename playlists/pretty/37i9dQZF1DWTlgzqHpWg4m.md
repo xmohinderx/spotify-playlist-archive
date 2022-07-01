@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlgzqHpWg4m.md) - [plain]
 
 > Bands from and songs about The Golden State\. Here's your playlist for California Dreamin'
 
-[Spotify](https://open.spotify.com/user/spotify) - 769,326 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 769,433 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlgzqHpWg4m.md) - [plain]
 | 12 | [California](https://open.spotify.com/track/2cs6ASglDOWlPnlWbfaBZf) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [California](https://open.spotify.com/album/1tYUx0V2QRqtFqoxNvAB9n) | 2:43 |
 | 13 | [California](https://open.spotify.com/track/1Tc3kbOaPzpY8y9phWaVDx) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [21st Century Liability](https://open.spotify.com/album/1p64R5tjTpC2oH24YLdQgq) | 3:51 |
 | 14 | [California Sun \- 2017 Remaster](https://open.spotify.com/track/4dyBuBbYZj1iiK0ywYjYzT) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Leave Home \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId) | 2:07 |
-| 15 | [Mr\. Jones](https://open.spotify.com/track/4q5cQyhhUW5X0PQVzA8VsG) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [August And Everything After](https://open.spotify.com/album/3Eli3WxEALRUBF06CvcDtV) | 4:32 |
+| 15 | [Mr\. Jones](https://open.spotify.com/track/4q5cQyhhUW5X0PQVzA8VsG) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [August And Everything After](https://open.spotify.com/album/3Eli3WxEALRUBF06CvcDtV) | 0:29 |
 | 16 | [Hotel California \- 2013 Remaster](https://open.spotify.com/track/1ZA8L9IOkRhmmz4nPXXx7h) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Complete Greatest Hits \(2013 Remaster\)](https://open.spotify.com/album/21SQdfthbXUibmA8Jtf30b) | 6:31 |
 | 17 | [Going to California \- Remaster](https://open.spotify.com/track/70gbuMqwNBE2Y5rkQJE9By) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 3:32 |
 | 18 | [Dani California](https://open.spotify.com/track/6vODhpvfWwdsO0i9MBWnEq) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Dani California](https://open.spotify.com/album/3rrvHWzZCF8TvqT9oJtfVZ) | 4:42 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlgzqHpWg4m.md) - [plain]
 | 61 | [Miss Murder](https://open.spotify.com/track/6A5M31nKvt6GYaGL7XpX2w) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/58M3z3OMcaFtWbPJS5Bb0W) | 3:26 |
 | 62 | [Lost In Hollywood](https://open.spotify.com/track/5rHCsJAosL3718KJBWOOTR) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Mezmerize](https://open.spotify.com/album/5F2uZcRz9zWASUYswCgwHl) | 5:20 |
 | 63 | [I Sat By The Ocean](https://open.spotify.com/track/7oXRMDUzBPekkLRTJhSGvC) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Clockwork](https://open.spotify.com/album/06S2JBsr4U1Dz3YaenPdVq) | 3:55 |
-| 64 | [Doesn't Remind Me](https://open.spotify.com/track/2xVTJylqgOdEX7auZ0xLn9) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Out of Exile](https://open.spotify.com/album/7hmAnyHf8NAnqb7cqLT04t) | 4:15 |
+| 64 | [Doesn't Remind Me](https://open.spotify.com/track/2xVTJylqgOdEX7auZ0xLn9) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Out of Exile](https://open.spotify.com/album/7hmAnyHf8NAnqb7cqLT04t) | 0:29 |
 | 65 | [The Mephistopheles Of Los Angeles](https://open.spotify.com/track/0rp3C6QuEi2EsicBwb4ozV) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [THE PALE EMPEROR](https://open.spotify.com/album/3ujWbyBHwZjiA9K9Ti9M0A) | 4:57 |
 | 66 | [Take It Off](https://open.spotify.com/track/6QyBIZEvs11K9lKjyLYtv6) | [The Donnas](https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd) | [Spend The Night \(U.S\. Version\)](https://open.spotify.com/album/15wLLULZwFUQ2aDp4PB3nv) | 2:41 |
 | 67 | [Circadian Rhythm \(Last Dance\)](https://open.spotify.com/track/4ud5egyDjm6KAsyORTOfT1) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Better Nature](https://open.spotify.com/album/60pMcCyionfgX5ygfwZRBh) | 3:49 |

@@ -4,7 +4,7 @@
 
 > Some heart and soul for those up late.
 
-53 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/4GHpFgqd4bd7kxNUP0brg8)
+53 songs - 3 hr 25 min - [published](https://open.spotify.com/playlist/4GHpFgqd4bd7kxNUP0brg8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Awake](https://open.spotify.com/track/0bSFWaiftu7B6XVgGHPHpw) | [JC Brooks & The Uptown Sound](https://open.spotify.com/artist/1ZAYCA0KFAMMwOgVDOOQh6) | [Want More](https://open.spotify.com/album/3yZAWg60d7K3Hg3zeTVUdQ) | 3:20 | 2017-11-04 |  |
 | [Baby Blue \(with Diamonds\)](https://open.spotify.com/track/3u47oYrEeYsNOZAwWSUSpK) | [Zachary Kibbee](https://open.spotify.com/artist/3QYTmCDKIFaBgDCfwlZjdU) | [Baby Blue \(with Diamonds\)](https://open.spotify.com/album/4AGgqA9CNkFdxge6gW9cCS) | 4:15 | 2017-11-04 | 2022-03-09 |
 | [Before You Go](https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent \(Extended Edition\)](https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8) | 3:35 | 2020-04-08 |  |
-| [Better Man](https://open.spotify.com/track/7tOYSMYowhxJ0uK3WMoL5n) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 2:20 | 2017-11-04 |  |
+| [Better Man](https://open.spotify.com/track/7tOYSMYowhxJ0uK3WMoL5n) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 0:29 | 2017-11-04 |  |
 | [Better Man](https://open.spotify.com/track/6PN51jW5TJ4XOFMO41lc6h) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Caustic Love](https://open.spotify.com/album/0DnxCSZdeApVBVfcWsm3IJ) | 5:29 | 2017-11-04 |  |
 | [By My Side](https://open.spotify.com/track/6QF8BEta1IcrPi0eigAGWY) | [Kat Wright](https://open.spotify.com/artist/3FX6ZjUpCoJOwsxleWx2ci) | [By My Side](https://open.spotify.com/album/1Qi9oI1lVDTZQL3gFikBIH) | 6:07 | 2017-11-04 |  |
 | [Cry to Me](https://open.spotify.com/track/2ERRgYqz82Ps5UagTAzze2) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [S.O.S\. \- Save Our Soul, Vol\. 2: Soul on a Mission](https://open.spotify.com/album/3alOo6XDq9rGuaEFC2Khhy) | 2:37 | 2017-11-04 |  |
@@ -46,7 +46,7 @@
 | [Oh Me Oh My](https://open.spotify.com/track/14KmgxmGFECm8DKagcu23k) | [Erin Costelo](https://open.spotify.com/artist/2amUY80duVVhcrAIXfwBHN) | [We Can Get Over](https://open.spotify.com/album/1BZL72FKgcUBaaRnlLY5eQ) | 2:37 | 2017-11-04 |  |
 | [One Last Song](https://open.spotify.com/track/01uk7IzZyFNfQTDBXxx6NB) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:12 | 2017-11-04 |  |
 | [Ooo Baby Baby](https://open.spotify.com/track/7ctZyH4p5r1m33PxaN6CRX) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Strut](https://open.spotify.com/album/03vJ0BcslLb4fKyBYN78Gy) | 3:37 | 2017-11-04 | 2022-03-09 |
-| [Our Love](https://open.spotify.com/track/5cfGJHxNcS1S2qyZj9xH6z) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [The Story of Sonny Boy Slim](https://open.spotify.com/album/5gRwx5vpeXUA75GmuqwByn) | 4:11 | 2017-11-04 |  |
+| [Our Love](https://open.spotify.com/track/5cfGJHxNcS1S2qyZj9xH6z) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [The Story of Sonny Boy Slim](https://open.spotify.com/album/5gRwx5vpeXUA75GmuqwByn) | 0:29 | 2017-11-04 |  |
 | [Part Time Love](https://open.spotify.com/track/4QlzHnU3kgHfccvRcFePYF) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Boy Who Cried Freedom](https://open.spotify.com/album/6gCOpOSzeI2WTNN60VhlSg) | 2:49 | 2017-11-04 |  |
 | [People Make The World Go Round \- Crooklyn/Soundtrack Version](https://open.spotify.com/track/5DorAy7a2FZEbCDmsgjAEW) | [Marc Dorsey](https://open.spotify.com/artist/7A9mIAVm7NGceBFJkbb612) | [Crooklyn](https://open.spotify.com/album/5xeOuaDHjfirQTsfXvzWDv) | 5:06 | 2017-11-04 | 2022-03-09 |
 | [Run Deep](https://open.spotify.com/track/1VK2R2GPj0UqFZTSPJq3k8) | [Deva Mahal](https://open.spotify.com/artist/74kTlA5KHbgVuvqOEeKON0), [Coco Peila](https://open.spotify.com/artist/2wqEUjDwdVypX7eCG9Yhnf) | [Run Deep](https://open.spotify.com/album/0LoGyKk6ZWdZYZAZNob2Kp) | 3:39 | 2017-11-04 |  |

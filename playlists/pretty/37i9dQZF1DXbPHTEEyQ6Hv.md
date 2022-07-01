@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 
 > A calm and relaxing Christmas piano soundtrack for the Holidays
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,333 likes - 89 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,310 likes - 89 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 | 15 | [Blue Christmas](https://open.spotify.com/track/2QbWGtwuWcx7xblTgVQZeL) | [Linda Smuģe](https://open.spotify.com/artist/6LoUigEkesA4Bg7e248z15) | [Blue Christmas](https://open.spotify.com/album/4BfLDXV5kFmdlUBGUddaXx) | 2:31 |
 | 16 | [That's Christmas To Me](https://open.spotify.com/track/2RJynd5Zo2jM2uThsr0nt2) | [Wolfgang Hesse](https://open.spotify.com/artist/0DA4ip8spL0eleah5T7Xoz) | [Wolfgang Hesse](https://open.spotify.com/album/7LQuSNfNniF4uHmJxC1ruS) | 3:06 |
 | 17 | [When A Child Is Born](https://open.spotify.com/track/4FQ6j6YcjQKT08yvKugxRL) | [Ronald Emery](https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j) | [When A Child Is Born](https://open.spotify.com/album/4q8idsrmhuID1ffZYIxYkS) | 2:30 |
-| 18 | [I Saw Three Ships](https://open.spotify.com/track/1vllfkYHmbRY3lLbf8BRzX) | [Frosty Peters](https://open.spotify.com/artist/10b9fx6m0okIp4cogaZsPu) | [I Saw Three Ships](https://open.spotify.com/album/3dQzwnQqXdYXS2KCRHNKTm) | 2:49 |
+| 18 | [I Saw Three Ships](https://open.spotify.com/track/1vllfkYHmbRY3lLbf8BRzX) | [Frosty Peters](https://open.spotify.com/artist/10b9fx6m0okIp4cogaZsPu) | [I Saw Three Ships](https://open.spotify.com/album/3dQzwnQqXdYXS2KCRHNKTm) | 0:29 |
 | 19 | [Angels We Have Heard on High](https://open.spotify.com/track/2ZldA72ZbtvHaQEJFxybtm) | [Diego de Galdeano](https://open.spotify.com/artist/0VN4x01SCzLmIMFzuPzAKU) | [Oh Come, All Ye Faithful](https://open.spotify.com/album/1Wmhjzrbn1EOKzhqgGWfhq) | 3:09 |
 | 20 | [](https://open.spotify.com/track/5QarVtsSmGDiIsCy49yLEs) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0jN1WfdTAdNwP3dAPKUlym) | 0:00 |
-| 21 | [Star of Bethlehem](https://open.spotify.com/track/1B96IivJCEW4s9d7yODqZa) | [Emma Shynes](https://open.spotify.com/artist/7ie1xJZZDKyTGc3FxBTjTd) | [Star of Bethlehem](https://open.spotify.com/album/6VZJBmEQ9FbMmWDYuyxCN8) | 3:07 |
+| 21 | [Star of Bethlehem](https://open.spotify.com/track/1B96IivJCEW4s9d7yODqZa) | [Emma Shynes](https://open.spotify.com/artist/7ie1xJZZDKyTGc3FxBTjTd) | [Star of Bethlehem](https://open.spotify.com/album/6VZJBmEQ9FbMmWDYuyxCN8) | 0:29 |
 | 22 | [Do You Hear What I Hear](https://open.spotify.com/track/4cchwOn0AJBffk0mlB8wmU) | [Manny Heights](https://open.spotify.com/artist/3whru6xFIYhdqBRrDD12Wb) | [I Heard The Bells On Christmas Day](https://open.spotify.com/album/3GfMZyyP8eMXxsNrU9jFPA) | 3:20 |
 | 23 | [Let It Snow](https://open.spotify.com/track/6mZZoKItl25gYsrrDhXvlV) | [James DiResta](https://open.spotify.com/artist/3eV4rEEDa28eEDqtKAz99w) | [Let It Snow](https://open.spotify.com/album/4i8qY2SqCTNbhUajsHpZMT) | 2:58 |
 | 24 | [](https://open.spotify.com/track/3wa07vRutRz7omoaF8Y203) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6PAOEFCeBAB3QyTVrkNvXT) | 0:00 |
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 | 57 | [Christmas Peace](https://open.spotify.com/track/5Jxv7KoYizZe91nA4PpaDY) | [Amy Yeager](https://open.spotify.com/artist/5xfWkvMNQZUL93sfFVRQqj) | [The Joy of Christmas](https://open.spotify.com/album/6wIKUnFppzUPdkXF4AvWiD) | 2:54 |
 | 58 | [See Amidst The Winter's Snow](https://open.spotify.com/track/3JWJdn9hTC9IumZx6bUoQM) | [John Bladh](https://open.spotify.com/artist/7Lcufo2TcRg56x6KUmhlOc) | [Joy Of Christmas](https://open.spotify.com/album/0ZqKApps6FNEiOGYhZ2MKZ) | 2:28 |
 | 59 | [The Wassail Song \(Here We Come A\-Caroling\)](https://open.spotify.com/track/6s762qoRM0crwCOU63DLd6) | [Brad Jacobsen](https://open.spotify.com/artist/2qAOVsSeDczqT4oSWJ2q2s) | [Deck the Halls \~ Solo Piano Christmas](https://open.spotify.com/album/4eTP9X1l4ipmAvTM283Ws2) | 3:54 |
-| 60 | [A Cradle in Bethlehem](https://open.spotify.com/track/2Jpfg8Ad1ETuHtOgmUXIb7) | [Amy Krampf](https://open.spotify.com/artist/0XSMCDhwttU0Drh3z9Gk0i) | [A Cradle in Bethlehem](https://open.spotify.com/album/0VOw1vFXbhrB5E5XbRq0MU) | 3:17 |
+| 60 | [A Cradle in Bethlehem](https://open.spotify.com/track/2Jpfg8Ad1ETuHtOgmUXIb7) | [Amy Krampf](https://open.spotify.com/artist/0XSMCDhwttU0Drh3z9Gk0i) | [A Cradle in Bethlehem](https://open.spotify.com/album/0VOw1vFXbhrB5E5XbRq0MU) | 0:29 |
 | 61 | [The Coventry Carol](https://open.spotify.com/track/1qRLuNPkZL4NcTvhbrn6yI) | [Stian Jarrell](https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v) | [Seven Joys Of Mary](https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m) | 2:16 |
-| 62 | [The First Noël](https://open.spotify.com/track/2s286y2oyE6zfa6QF8X9eU) | [Ralph Aachen](https://open.spotify.com/artist/0dJtjZpWliouisclYavoGF) | [Gather Around The Christmas Tree](https://open.spotify.com/album/2bDhA7c8KAj4CzavWa49fU) | 2:02 |
+| 62 | [The First Noël](https://open.spotify.com/track/2s286y2oyE6zfa6QF8X9eU) | [Ralph Aachen](https://open.spotify.com/artist/0dJtjZpWliouisclYavoGF) | [Gather Around The Christmas Tree](https://open.spotify.com/album/2bDhA7c8KAj4CzavWa49fU) | 0:29 |
 | 63 | [](https://open.spotify.com/track/7ubJ40WEvyuzjmiFsH6RQa) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7CrpddnQnNkNBQEAJ0ci6a) | 0:00 |
 | 64 | [I Heard The Bells On Christmas Day](https://open.spotify.com/track/0RcE3ty89FWkfv84lZewEH) | [Manny Heights](https://open.spotify.com/artist/3whru6xFIYhdqBRrDD12Wb) | [I Heard The Bells On Christmas Day](https://open.spotify.com/album/3GfMZyyP8eMXxsNrU9jFPA) | 2:08 |
 | 65 | [Good King Wenceslas](https://open.spotify.com/track/25vdlTYdZPJssQbXU8qUsg) | [Chris Beard](https://open.spotify.com/artist/7hTEeJAMokCNuBxW8GtFKp) | [We Three Kings](https://open.spotify.com/album/5Ppd2aIzY3YD2ug3FMI7sg) | 2:02 |

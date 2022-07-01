@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f9ryYBYPg3.md) - [plain]
 
 > Welcome to Hypnosismic, a series of Japanese rap battle projects featuring 18 voice actors, each acting out unique anime characters\. 男性声優キャララップバトル、ヒプノシスマイク」公式プレイリスト！© King Record Co., Ltd\. All rights reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,085 likes - 136 songs - 23 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,118 likes - 136 songs - 23 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f9ryYBYPg3.md) - [plain]
 | 7 | [でらすげぇ宴](https://open.spotify.com/track/68Q0jsDJg0sc7GGOSiraL9) | [ヒプノシスマイク \-D.R.B\- \(Bad Ass Temple\)](https://open.spotify.com/artist/3fokOZQsXMeMTyvGHofqup) | [CROSS A LINE](https://open.spotify.com/album/4UTXT4DuQX43KjXzxYCkbV) | 3:36 |
 | 8 | [SUMMIT OF DIVISIONS](https://open.spotify.com/track/4sWhugJYLyt9P0x03fs38i) | [HYPNOSISMIC \-D.R.B\- \(Division All Stars\)](https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0) | [CROSS A LINE](https://open.spotify.com/album/4UTXT4DuQX43KjXzxYCkbV) | 7:18 |
 | 9 | [Hoodstar +](https://open.spotify.com/track/2QDeMHHj7zeYlEPvRBZL83) | [HYPNOSISMIC \-D.R.B\- \(Division All Stars\)](https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0) | [ヒプノシスマイク \-Division Rap Battle\- 2nd D.R.B Final Battle 『Buster Bros!!! VS 麻天狼 VS Fling Posse』](https://open.spotify.com/album/4sOGExLCKvW0ZVFqGVwjeQ) | 8:29 |
-| 10 | [Femme Fatale](https://open.spotify.com/track/5xjNH4sro043o7sEMamIc8) | [ヒプノシスマイク \-D.R.B\- \(中王区 言の葉党\)](https://open.spotify.com/artist/50a4H3hGs6sNLYCsLUsKgV) | [Femme Fatale](https://open.spotify.com/album/1TpfwmIabNeeZb3zpXzHaN) | 3:35 |
+| 10 | [Femme Fatale](https://open.spotify.com/track/5xjNH4sro043o7sEMamIc8) | [ヒプノシスマイク \-D.R.B\- \(中王区 言の葉党\)](https://open.spotify.com/artist/50a4H3hGs6sNLYCsLUsKgV) | [Femme Fatale](https://open.spotify.com/album/1TpfwmIabNeeZb3zpXzHaN) | 0:29 |
 | 11 | [キズアトがキズナとなる](https://open.spotify.com/track/5ySFq8N2HUO45hM7Z2lzOO) | [Hypnosis Mic \-D.R.B.\- \(Fling Posse\)](https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99) | [キズアトがキズナとなる](https://open.spotify.com/album/4OUkSxmENUJXnvqtyrsMkB) | 4:11 |
 | 12 | [SHOWDOWN](https://open.spotify.com/track/5YtrU5UELvL1x9HZ7TbVjn) | [Hypnosis Mic \-D.R.B.\- \(Buster Bros!!!\)](https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G), [Hypnosis Mic \-D.R.B.\- \(Matenrou\)](https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ), [Hypnosis Mic \-D.R.B.\- \(Fling Posse\)](https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99) | [ヒプノシスマイク \-Division Rap Battle\- 2nd D.R.B Final Battle 『Buster Bros!!! VS 麻天狼 VS Fling Posse』](https://open.spotify.com/album/4sOGExLCKvW0ZVFqGVwjeQ) | 4:28 |
 | 13 | [Rule the Stage wiz 6 mic](https://open.spotify.com/track/7lp4zV3sEfG8N2Mf03BGhx) | [ヒプノシスマイク \-D.R.B\- Rule the Stage \(Division Leaders\)](https://open.spotify.com/artist/781OlSl4fitMTjZt3FQ5PE) | [Turn up the Stage](https://open.spotify.com/album/6vcU5AgRDEMWC0RAjV0kda) | 5:25 |

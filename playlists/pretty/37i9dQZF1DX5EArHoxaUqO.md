@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5EArHoxaUqO.md) - [plain]
 
 > Make bedtime dreamlike with original lullabies from Timbuktu, Mapei and Pontus Winngren, as well as the artists' personal favorite lullabies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 623 likes - 26 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 623 likes - 26 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5EArHoxaUqO.md) - [plain]
 | 7 | [Peace Piece](https://open.spotify.com/track/58yFroDNbzHpYzvicaC0de) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 6:44 |
 | 8 | [Drops \- Instrumental](https://open.spotify.com/track/5vzZHEuFmRoJhCc5SBDRin) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz), [Lullabies](https://open.spotify.com/artist/49Ig1fdepIMRJ5JUIr7Ppg) | [Lullabies](https://open.spotify.com/album/1Lcth0stK7A9Xl46Gknzc7) | 2:51 |
 | 9 | [Paper Boat \- Instrumental](https://open.spotify.com/track/5DG8aEmZHVDOnI2D6VsuT5) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz), [Lullabies](https://open.spotify.com/artist/49Ig1fdepIMRJ5JUIr7Ppg) | [Lullabies](https://open.spotify.com/album/1Lcth0stK7A9Xl46Gknzc7) | 2:44 |
-| 10 | [Byssan lull](https://open.spotify.com/track/0VGKHZHCdEl8tq2Aqin8uI) | [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Barnvisor](https://open.spotify.com/album/4vVAWhdb0dpfqiqfdKAIR0) | 1:25 |
-| 11 | [Trollmors vaggsång](https://open.spotify.com/track/0HnzYVsrjA2RRHERHIAyvR) | [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Barnvisor](https://open.spotify.com/album/4vVAWhdb0dpfqiqfdKAIR0) | 2:05 |
+| 10 | [Byssan lull](https://open.spotify.com/track/0VGKHZHCdEl8tq2Aqin8uI) | [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Barnvisor](https://open.spotify.com/album/4vVAWhdb0dpfqiqfdKAIR0) | 0:29 |
+| 11 | [Trollmors vaggsång](https://open.spotify.com/track/0HnzYVsrjA2RRHERHIAyvR) | [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Barnvisor](https://open.spotify.com/album/4vVAWhdb0dpfqiqfdKAIR0) | 0:29 |
 | 12 | [](https://open.spotify.com/track/0Pjue24T1DIPZMNvQN06g1) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4uvvhkcmUIhQ3h9hvLSCk4) | 0:00 |
 | 13 | [C.R.E.A.M.](https://open.spotify.com/track/5ya6T5IWJLxl616Bf7DSaO) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Lullaby Renditions of Wu\-Tang Clan](https://open.spotify.com/album/7daFeFeJyRZP6NiEXWMsI8) | 2:37 |
 | 14 | [When You're Alone](https://open.spotify.com/track/6wumwltdJFMgSivEJ34W2I) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Hook \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2SNJN8cmx15IVdSa5jJCVR) | 3:13 |

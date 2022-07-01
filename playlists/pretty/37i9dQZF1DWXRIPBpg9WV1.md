@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 
 > Relax and unwind with gentle guitar covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,094 likes - 92 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,180 likes - 92 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 | 85 | [Colors Of the Wind](https://open.spotify.com/track/1vkxilXurIJu6FpIqUeOKX) | [Ned Michaels](https://open.spotify.com/artist/2WPWA7qliZnR3cxRZYiv1v) | [Hits](https://open.spotify.com/album/2fhFDlDU0kLMAJxlMOmqJs) | 4:03 |
 | 86 | [Love Me Like You Do](https://open.spotify.com/track/1nyxHNRjeyTlJQwsLMH7C0) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [Anna Kitkowska](https://open.spotify.com/album/02yT961mEldwOgfmrwzW0Z) | 3:18 |
 | 87 | [Hallelujah](https://open.spotify.com/track/0pt4S6qXybR7reJW8AfEka) | [Eddy Tyler](https://open.spotify.com/artist/7KT0K9Jyst149sFJoP4s3D) | [Guitar Instrumental Covers](https://open.spotify.com/album/11AG80Bq1aK3OldgwCYw4g) | 5:01 |
-| 88 | [drivers license](https://open.spotify.com/track/5k7fSPCovUFgqBNDYVcmmK) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [drivers license](https://open.spotify.com/album/6BmCLOx623OJZyswJ8BYxD) | 3:53 |
+| 88 | [drivers license](https://open.spotify.com/track/5k7fSPCovUFgqBNDYVcmmK) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [drivers license](https://open.spotify.com/album/6BmCLOx623OJZyswJ8BYxD) | 0:29 |
 | 89 | [Don't Speak](https://open.spotify.com/track/7eFWJOp5wESaxCakzJ5Jf1) | [Nylah Read](https://open.spotify.com/artist/1t57FjgpJN2vjPRo3WS9LZ) | [Don't Speak](https://open.spotify.com/album/62CounkU6ZMZGGhhGtqdIs) | 2:48 |
 | 90 | [Smile](https://open.spotify.com/track/3Mq40Xn8tqVaoSQAr3ozeW) | [Acoustic Guitar Collective](https://open.spotify.com/artist/4uUpWtX0o0EM3p4P5L5X6n) | [Love Letters](https://open.spotify.com/album/2V55EhNJmfwsvu1mOKubZ7) | 2:17 |
 | 91 | [You Are the Reason \(Acoustic Instrumental\)](https://open.spotify.com/track/2HZ1SeXEhfOpBkus7KGP47) | [Edward Ong](https://open.spotify.com/artist/511vWnluvbgTL9TDgqlwVZ) | [You Are the Reason \(Acoustic Instrumental\)](https://open.spotify.com/album/2IQfeMZm0Z4KeBWs5EXuVu) | 3:17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKXbV17YqGw.md) - [plain]
 
 > Dj Neptizzle & DJ FiiFii takeover Detty December with an Afro Paradise special, rounding up the biggest tracks from Africa's party season
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,108 likes - 51 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,126 likes - 51 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKXbV17YqGw.md) - [plain]
 | 10 | [Yekambo](https://open.spotify.com/track/142yw6cnWz1UA0LuTrXDc3) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Vigro Deep](https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [LuuDaDeejay](https://open.spotify.com/artist/1XoIF7wcOtFdQdB6vJQumb) | [Outside](https://open.spotify.com/album/4GSO0sVELc1GIiJQjzqt8E) | 5:22 |
 | 11 | [Ozumba Mbadiwe](https://open.spotify.com/track/4NLFnAPoMAiuuK8iXnit6W) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Ozumba Mbadiwe](https://open.spotify.com/album/6oYKhPbYdaaYGGnqZIqlNs) | 3:32 |
 | 12 | [Fever](https://open.spotify.com/track/1wCjMz6bqdzVjpJWl45p9L) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn) | [Fever](https://open.spotify.com/album/70gNO57xq8Anipepibg32m) | 4:13 |
-| 13 | [No Wahala](https://open.spotify.com/track/4vHy2IHzf3EabEa7oMpUZB) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Original Vibe Machine](https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3) | 2:42 |
+| 13 | [No Wahala](https://open.spotify.com/track/4vHy2IHzf3EabEa7oMpUZB) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Original Vibe Machine](https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3) | 0:29 |
 | 14 | [Second Sermon \- Remix](https://open.spotify.com/track/574QNMkQGedluLOgr275s9) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Second Sermon \(Remix\)](https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq) | 3:14 |
 | 15 | [Tigini \- Remix](https://open.spotify.com/track/5UrCA7KEkxjCQQEvCohIAn) | [Kikimoteleba](https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Tigini \(Remix\)](https://open.spotify.com/album/5Z0OHKESY25HeRWOjEUrKp) | 3:16 |
 | 16 | [B\. D'OR \(feat\. Wizkid\)](https://open.spotify.com/track/1n6vbblzNmLgkfyPiQK4Ig) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [B\. D'OR \(feat\. Wizkid\)](https://open.spotify.com/album/5A5mRL4y540qRyt9N6MNdZ) | 3:09 |

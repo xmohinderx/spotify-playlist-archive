@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 
 > Songs so beautiful, they'll stop you in your tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,220,481 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,220,470 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 |
+| 1 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 0:29 |
 | 2 | [Baghdad](https://open.spotify.com/track/7rOXvlA2T7jDETJ107zZW0) | [Flo Perlin](https://open.spotify.com/artist/2M9I6kX9POMfrxPfePZh05) | [Baghdad](https://open.spotify.com/album/4Dz25Hgxa02gqv0D6ZTbqk) | 3:26 |
 | 3 | [Grey](https://open.spotify.com/track/5uiBxGoDN7ys5iR7jQiiI6) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Grey](https://open.spotify.com/album/0VUfyApXn4pk0hkxiM7nan) | 3:05 |
-| 4 | [Hallelujah I Love Her So](https://open.spotify.com/track/6chbqElEHkFSRDJpEydK2H) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Hallelujah I Love Her So](https://open.spotify.com/album/4KkR1fwO3tgHfhsKRgfFuf) | 2:43 |
+| 4 | [Hallelujah I Love Her So](https://open.spotify.com/track/6chbqElEHkFSRDJpEydK2H) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Hallelujah I Love Her So](https://open.spotify.com/album/4KkR1fwO3tgHfhsKRgfFuf) | 0:29 |
 | 5 | [Bardennoch](https://open.spotify.com/track/1ECM3824V2vG1v0vxRe7Vq) | [VanIves](https://open.spotify.com/artist/6KFpXJms1gsfFAayMjj7Tj) | [Thanks](https://open.spotify.com/album/6u4h6z2FS9IdBgPKL8Xf8t) | 3:51 |
 | 6 | [Seastroke](https://open.spotify.com/track/5D1LlqWG0VUMMvfqRBch2S) | [Wyldest](https://open.spotify.com/artist/1H5bZEYikISQmR2qY2SASI) | [Seastroke](https://open.spotify.com/album/3P6RFTx68WRi9KQmdiTVgt) | 4:35 |
 | 7 | [Mountaineer](https://open.spotify.com/track/6qgiIu9Up7oDWfQnaajvy3) | [Arliston](https://open.spotify.com/artist/1zdjZcUSe5thcIAIU5NRYh) | [Mountaineer](https://open.spotify.com/album/5AtMxNyGbY4sJnEyFbbig7) | 3:41 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 34 | [Helios](https://open.spotify.com/track/5ZhqfB6GDAi5g5bQmPacli) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu), [A.W.A](https://open.spotify.com/artist/6J8FZOUaWFW8rEdCG3RDjZ) | [Helios](https://open.spotify.com/album/6zoKcY9fsgqCBVYoRKydv8) | 3:00 |
 | 35 | [Laoidh na h\-Oidhche](https://open.spotify.com/track/1QD5JdYBiOiyThFWIHPl4r) | [Kim Carnie](https://open.spotify.com/artist/3aEvUpNodEl3NLNZw5TU8Y), [Julie Fowlis](https://open.spotify.com/artist/3IqWMVFksTbtL2EaFi5o8k) | [Laoidh na h\-Oidhche](https://open.spotify.com/album/504tWRfe1cOp9Chr6wSOU1) | 4:36 |
 | 36 | [If I Met Your Shadow](https://open.spotify.com/track/5ruq5kWHENUzVNoclz1UtJ) | [Tom Bright](https://open.spotify.com/artist/5FeiISr6o8mHNSTNtwKceS) | [If I Met Your Shadow](https://open.spotify.com/album/33upVlBPSnf3oSjK0e9RCF) | 2:14 |
-| 37 | [New York Time](https://open.spotify.com/track/3UekVNBa1Loh1r7feLHKqa) | [Cj Pandit](https://open.spotify.com/artist/1nj5nrlKa0trBmdgilmG8G) | [New York Time](https://open.spotify.com/album/0rHbLWUYdBIoNqjUUdg0xS) | 4:12 |
+| 37 | [New York Time](https://open.spotify.com/track/3UekVNBa1Loh1r7feLHKqa) | [Cj Pandit](https://open.spotify.com/artist/1nj5nrlKa0trBmdgilmG8G) | [New York Time](https://open.spotify.com/album/0rHbLWUYdBIoNqjUUdg0xS) | 0:29 |
 | 38 | [Heavy](https://open.spotify.com/track/5VpgaWuqcWho0uJMniRNDs) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Heavy](https://open.spotify.com/album/00PsineKfAuLIl2PGnK5LB) | 4:04 |
 | 39 | [peace](https://open.spotify.com/track/6rTUr8OpU5kcSqLGL2TmyR) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/0xS0iOtxQRoJvfcFcJA5Gv) | 3:54 |
 | 40 | [JOY \(Not Sure What I'm Going Through\)](https://open.spotify.com/track/1uy6RVUC2Qb70rlrmr9ZFh) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [Human Again](https://open.spotify.com/album/2aiablb9OlYooQGVNylgid) | 3:17 |

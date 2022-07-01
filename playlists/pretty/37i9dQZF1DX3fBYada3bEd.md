@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fBYada3bEd.md) - [plain]
 
 > Sing along to these tunes about everything you can find on the farm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,445 likes - 58 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,450 likes - 58 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fBYada3bEd.md) - [plain]
 | 41 | [Backyard Farm](https://open.spotify.com/track/1hvUviLSHwDiFngAtZMwcB) | [Jenn Cleary](https://open.spotify.com/artist/3Q3maBFeVNeYstxZOjHptS) | [All Together Now](https://open.spotify.com/album/0CKYcjCylFYsyYtfyEprNQ) | 3:13 |
 | 42 | [Old MacDonald Had a Farm \(Food\) \- Learn About Food](https://open.spotify.com/track/0ZGl2nD1EI9F0bjtJmAlea) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Old MacDonald Had a Farm \(Food\) \[Learn About Food\]](https://open.spotify.com/album/3kxQPp0AQ3RbjHxH59yL98) | 3:08 |
 | 43 | [Lots Of Little Pigs](https://open.spotify.com/track/5itmtiXAl9iihvPIeLhl32) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Animal Songs](https://open.spotify.com/album/3dxdHE7M8flFgqlamTinsL) | 4:51 |
-| 44 | [Harvest Time](https://open.spotify.com/track/0GVreI7DlV8wpF3a1fRYfe) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Harvest Time](https://open.spotify.com/album/7Ib2xPIkvqDayE6em6wR8q) | 2:38 |
+| 44 | [Harvest Time](https://open.spotify.com/track/0GVreI7DlV8wpF3a1fRYfe) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Harvest Time](https://open.spotify.com/album/7Ib2xPIkvqDayE6em6wR8q) | 0:29 |
 | 45 | [Barndance](https://open.spotify.com/track/3qwpvveNMtQzOPqaHZg59x) | [Red Yarn](https://open.spotify.com/artist/13eFwXXIPS7klxrhNvU0jA) | [Red Yarn's Old Barn](https://open.spotify.com/album/2uS2KMdpasYe0AyAy1xBRh) | 2:25 |
 | 46 | [Growing in My Garden](https://open.spotify.com/track/7qBRLNQ7Bg1nlJWNKCGHuC) | [Amber Lawrence](https://open.spotify.com/artist/3RyYW4bMFeTeQ2jjLZu4xg) | [The Kid's Gone Country 2 \- Fun for All the Family](https://open.spotify.com/album/47LmloBTiB7sDzZYLUuhja) | 1:54 |
 | 47 | [On the Farm](https://open.spotify.com/track/4evojRrOPGYa0iC7aFRVsy) | [The New Fangles](https://open.spotify.com/artist/6oZcoOXMpv9ubyQIxAwoWB) | [Treasury](https://open.spotify.com/album/6e2n0nSLJNGw5xlu6TwL8P) | 2:23 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fBYada3bEd.md) - [plain]
 | 53 | [Who Took The Cookie? \(On The Farm\)](https://open.spotify.com/track/1n5XK1mgYshYtKeuaXadZK) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Circletime Songs for Kids](https://open.spotify.com/album/5WFZO3IUfgvbMGLns5mnDr) | 2:10 |
 | 54 | [I Had a Rooster](https://open.spotify.com/track/0uxH8cSDBvej4mSLFFWdUR) | [Red Yarn](https://open.spotify.com/artist/13eFwXXIPS7klxrhNvU0jA) | [Wake Up & Sing](https://open.spotify.com/album/6evNOZ98sURuV5qRsRGjcr) | 3:21 |
 | 55 | [Oats and Beans and Barley](https://open.spotify.com/track/5jK8ipbtGGtIEVLcW5S7yl) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Fun Food Songs](https://open.spotify.com/album/24wfwTCNevTGgV2acA4jhR) | 1:24 |
-| 56 | [Barn Dance](https://open.spotify.com/track/4WDPHvbfDKIqtegdF4EbuW) | [Eddie Cavazos](https://open.spotify.com/artist/1xhzwDZDi0W4GsYmqrlkkf) | [It's Okay to Be Different](https://open.spotify.com/album/5yYwOMPyby3PrJLtLjonKV) | 3:15 |
+| 56 | [Barn Dance](https://open.spotify.com/track/4WDPHvbfDKIqtegdF4EbuW) | [Eddie Cavazos](https://open.spotify.com/artist/1xhzwDZDi0W4GsYmqrlkkf) | [It's Okay to Be Different](https://open.spotify.com/album/5yYwOMPyby3PrJLtLjonKV) | 0:29 |
 | 57 | [Dingle Dangle Scarecrow](https://open.spotify.com/track/5NXdyIhX3aCIR9ygWEGBiQ) | [Toddler Fun Learning](https://open.spotify.com/artist/6J7tunc4bHIFmzTevQ2J6Q) | [The Happy Animal Choir and Other Favourite Nursery Rhymes for Children](https://open.spotify.com/album/0Q6RmOBdTnftQoDP5HY6ZY) | 1:35 |
 | 58 | [Grandad's Farm](https://open.spotify.com/track/1q0M0S7deKtkgNn1FzrkR8) | [Judi Cranston](https://open.spotify.com/artist/2N2v15qhPA6Hxe3gwCgY0B) | [KindyRock: Hoedown](https://open.spotify.com/album/1Oj8AzncJtK1eQvA3RrVlY) | 2:28 |
 

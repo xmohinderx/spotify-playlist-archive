@@ -4,7 +4,7 @@
 
 > Some incredible music to celebrate our culture this month and every month!
 
-40 songs - 2 hr 18 min - [published](https://open.spotify.com/playlist/6yiiI1yZ72uG8pgql6Tj5D)
+40 songs - 2 hr 4 min - [published](https://open.spotify.com/playlist/6yiiI1yZ72uG8pgql6Tj5D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,9 +20,9 @@
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2022-05-02 |  |
 | [Feeling Myself](https://open.spotify.com/track/5fyIGoaaKelzdyW8ELhYJZ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Pinkprint \(Deluxe\)](https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu) | 3:57 | 2022-05-02 |  |
 | [Fire In The Sky](https://open.spotify.com/track/3zpGIFghtnVlwMXWyKW474) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 3:21 | 2022-05-02 |  |
-| [Flower Through Concrete](https://open.spotify.com/track/5wHT1UYWQBHYAeIwRbBDJG) | [Chloe Flower](https://open.spotify.com/artist/1COAEcXEhWarbbgcz44KmJ) | [Chloe Flower](https://open.spotify.com/album/0Db8FrKhtOO0L5DxlYQbSI) | 4:00 | 2022-05-02 |  |
+| [Flower Through Concrete](https://open.spotify.com/track/5wHT1UYWQBHYAeIwRbBDJG) | [Chloe Flower](https://open.spotify.com/artist/1COAEcXEhWarbbgcz44KmJ) | [Chloe Flower](https://open.spotify.com/album/0Db8FrKhtOO0L5DxlYQbSI) | 0:29 | 2022-05-02 |  |
 | [Focus](https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 3:20 | 2022-05-02 |  |
-| [Get What U Get](https://open.spotify.com/track/7N3IfBzFRXanEMX55sqUru) | [Chloe Flower](https://open.spotify.com/artist/1COAEcXEhWarbbgcz44KmJ) | [Chloe Flower](https://open.spotify.com/album/0Db8FrKhtOO0L5DxlYQbSI) | 3:36 | 2022-05-02 |  |
+| [Get What U Get](https://open.spotify.com/track/7N3IfBzFRXanEMX55sqUru) | [Chloe Flower](https://open.spotify.com/artist/1COAEcXEhWarbbgcz44KmJ) | [Chloe Flower](https://open.spotify.com/album/0Db8FrKhtOO0L5DxlYQbSI) | 0:29 | 2022-05-02 |  |
 | [GIRL LIKE ME](https://open.spotify.com/track/1zLBsSVxETQOfINOLYvT5m) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:42 | 2022-05-02 |  |
 | [happier](https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlbfl) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:55 | 2022-05-02 |  |
 | [Kill This Love](https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) | 3:11 | 2022-05-02 |  |
@@ -38,12 +38,12 @@
 | [Nobody](https://open.spotify.com/track/2P5yIMu2DNeMXTyOANKS6k) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 3:13 | 2022-05-02 |  |
 | [OUTTA MY MIND](https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [OUTTA MY MIND](https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL) | 3:46 | 2022-05-02 |  |
 | [Power](https://open.spotify.com/track/4P9d4HswrDnEtFegdqZJNs) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Power](https://open.spotify.com/album/6H8FlOA6AbsRK8x3S1gVNk) | 3:16 | 2022-05-02 |  |
-| [Quiet](https://open.spotify.com/track/0lczHKLHGd8LuzgrzIJ0nO) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [This Is Not The End](https://open.spotify.com/album/14NXlqWlb4MGu4KswIm6xU) | 3:22 | 2022-05-02 |  |
+| [Quiet](https://open.spotify.com/track/0lczHKLHGd8LuzgrzIJ0nO) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [This Is Not The End](https://open.spotify.com/album/14NXlqWlb4MGu4KswIm6xU) | 0:29 | 2022-05-02 |  |
 | [Remember Me](https://open.spotify.com/track/630Ug0XtmhhFvAKo0PNuEI) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Remember Me](https://open.spotify.com/album/4iLi0ZWdcYtCZvsXZHTRLx) | 3:19 | 2022-05-02 |  |
-| [Sanctuary](https://open.spotify.com/track/5F1ZmucV0uJY14y2dYKePa) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm) | 3:00 | 2022-05-02 |  |
+| [Sanctuary](https://open.spotify.com/track/5F1ZmucV0uJY14y2dYKePa) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm) | 0:29 | 2022-05-02 |  |
 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 3:29 | 2022-05-02 |  |
 | [Talking to the Moon](https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:37 | 2022-05-02 |  |
-| [Tamie](https://open.spotify.com/track/4yjidF5LTpm8OY9dUZQRrU) | [Chloe Flower](https://open.spotify.com/artist/1COAEcXEhWarbbgcz44KmJ) | [Chloe Flower](https://open.spotify.com/album/0Db8FrKhtOO0L5DxlYQbSI) | 3:18 | 2022-05-02 |  |
+| [Tamie](https://open.spotify.com/track/4yjidF5LTpm8OY9dUZQRrU) | [Chloe Flower](https://open.spotify.com/artist/1COAEcXEhWarbbgcz44KmJ) | [Chloe Flower](https://open.spotify.com/album/0Db8FrKhtOO0L5DxlYQbSI) | 0:29 | 2022-05-02 |  |
 | [Thinkin Bout You](https://open.spotify.com/track/6xwQS49tTYgLQNPGnfWV2H) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:23 | 2022-05-02 |  |
 | [universe](https://open.spotify.com/track/7B4UxdHwRKJYRhvXxmgZhM) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 3:06 | 2022-05-02 |  |
 | [While We're Young](https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 3:56 | 2022-05-02 |  |

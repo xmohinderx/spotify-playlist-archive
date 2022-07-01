@@ -4,7 +4,7 @@
 
 > Listen to Eric Nam's greatest hits, all in one place.
 
-58 songs - 3 hr 10 min - [published](https://open.spotify.com/playlist/64ceLtYUlFs3VLXFCEHFFn)
+58 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/64ceLtYUlFs3VLXFCEHFFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [How'm I Doing](https://open.spotify.com/track/4Qg8CCTzWhNQvNOVxjQ6OJ) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Before We Begin](https://open.spotify.com/album/6kBsIjltkSNIc0FO4uiKXW) | 2:42 | 2021-10-14 |  |
 | [I Don't Know You Anymore](https://open.spotify.com/track/4Z4FusIyks3EQfscAFslWj) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [I Don't Know You Anymore](https://open.spotify.com/album/2CGgP7HTjvgAU2ta6bImXP) | 2:46 | 2021-10-14 |  |
 | [I Don't Know You Anymore](https://open.spotify.com/track/09ZDPL4NSDNxfIic9gPnCn) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 2:46 | 2022-01-09 |  |
-| [I Don't Miss You](https://open.spotify.com/track/42I5z4IRj90oQ5iyk6aqGc) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [I Don't Miss You](https://open.spotify.com/album/3VWdyUAxBEt5gY2sXJUzFT) | 2:52 | 2021-10-14 |  |
+| [I Don't Miss You](https://open.spotify.com/track/42I5z4IRj90oQ5iyk6aqGc) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [I Don't Miss You](https://open.spotify.com/album/3VWdyUAxBEt5gY2sXJUzFT) | 0:29 | 2021-10-14 |  |
 | [I'm OK](https://open.spotify.com/track/70erIN9ecPDru7T9NSkRWk) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [I'm Ok](https://open.spotify.com/album/0nCxgNlP3ynhDKpeim8INX) | 3:27 | 2021-10-14 |  |
 | [Idea of You](https://open.spotify.com/track/5SD3nF4GLH4UTtt0OGWatS) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Idea of You](https://open.spotify.com/album/1DALmYrnkpWNydgxCger3R) | 3:42 | 2021-10-14 |  |
 | [Interview](https://open.spotify.com/track/2izPoWJ6xAuZUNJkdXO3YS) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [INTERVIEW](https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH) | 3:25 | 2021-10-14 |  |

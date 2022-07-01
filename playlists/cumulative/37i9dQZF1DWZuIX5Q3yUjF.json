@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Wako, BigMama",
+  "description": "Il meglio dell'R&B italiano. Cover: Ganzo",
   "name": "anima R&B",
   "published_playlist_ids": [
     "6baLMOVUAzKiyXO33cGiRz"
@@ -237,10 +237,28 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 190000,
       "name": "candy baby",
       "url": "https://open.spotify.com/track/2ccgyfy8iZzVuZUgYP6ueJ"
+    },
+    {
+      "album": {
+        "name": "Catena",
+        "url": "https://open.spotify.com/album/6483X446suoGQDcMIATLTI"
+      },
+      "artists": [
+        {
+          "name": "AYSA",
+          "url": "https://open.spotify.com/artist/1aA0iJGpH2kSV8nqfjbsHC"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178615,
+      "name": "Catena",
+      "url": "https://open.spotify.com/track/2pKikj8zRj9cLjWm1ngM1r"
     },
     {
       "album": {
@@ -313,6 +331,24 @@
       "duration_ms": 162666,
       "name": "Chi Chiamer\u00f2",
       "url": "https://open.spotify.com/track/22UnlX9bx3C4FbtxiaQ2aE"
+    },
+    {
+      "album": {
+        "name": "Ci\u00f2 Che Non Ho",
+        "url": "https://open.spotify.com/album/6MIQSo9hmNQjqEwBONo6LC"
+      },
+      "artists": [
+        {
+          "name": "Sunken",
+          "url": "https://open.spotify.com/artist/167oxjyR82Rs8XinJirzvm"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132904,
+      "name": "Ci\u00f2 Che Non Ho",
+      "url": "https://open.spotify.com/track/25xfeNo9UFTEZUFpgWPYdb"
     },
     {
       "album": {
@@ -494,6 +530,28 @@
     },
     {
       "album": {
+        "name": "Corpi astrali",
+        "url": "https://open.spotify.com/album/27V0XvfNzIv9eOF4IYT4sp"
+      },
+      "artists": [
+        {
+          "name": "Livrea",
+          "url": "https://open.spotify.com/artist/64fhIeqXVHuWtTrmoT8HG0"
+        },
+        {
+          "name": "Nubula",
+          "url": "https://open.spotify.com/artist/7bGSYDi7LmU5F1wx8ITzIk"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185060,
+      "name": "Corpi astrali",
+      "url": "https://open.spotify.com/track/4yUVZ9AwqvuWOzpJtXScuW"
+    },
+    {
+      "album": {
         "name": "Cos'\u00e8 una regola",
         "url": "https://open.spotify.com/album/1dxJEVmp2GsAC2guij4tJW"
       },
@@ -527,6 +585,28 @@
       "duration_ms": 165000,
       "name": "Cult",
       "url": "https://open.spotify.com/track/0LJI0x54X29TStopw2PzFG"
+    },
+    {
+      "album": {
+        "name": "UV",
+        "url": "https://open.spotify.com/album/3LKaBArzE0hlP2jMkOaedY"
+      },
+      "artists": [
+        {
+          "name": "PLASTICA",
+          "url": "https://open.spotify.com/artist/2fB3iExnBIP2AA713JAqIM"
+        },
+        {
+          "name": "Missey",
+          "url": "https://open.spotify.com/artist/2DcrZVjp98sHG7ttcywb7s"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "DARK DRAGONITE (feat. Missey)",
+      "url": "https://open.spotify.com/track/5S6J3X4G1ulSJyM5D0EUp9"
     },
     {
       "album": {
@@ -715,7 +795,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 122666,
       "name": "Essere Me",
       "url": "https://open.spotify.com/track/5zwUQT8YfZGwtpdaqLlLhE"
@@ -799,6 +879,24 @@
       "duration_ms": 187800,
       "name": "Fior di glicine",
       "url": "https://open.spotify.com/track/3XdumBkBt85bdQTMGEdbEn"
+    },
+    {
+      "album": {
+        "name": "Fossi nato gemelli",
+        "url": "https://open.spotify.com/album/3W6F44q3hafFKita7WTWpB"
+      },
+      "artists": [
+        {
+          "name": "Nico Arezzo",
+          "url": "https://open.spotify.com/artist/58NJMW79swpy2lbC6BM35V"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213493,
+      "name": "Fossi nato gemelli",
+      "url": "https://open.spotify.com/track/6RQaetUr5u5u6X90JeTPIy"
     },
     {
       "album": {
@@ -945,7 +1043,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 188571,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/4tIQReYfn7HqUd2ngDUGeB"
@@ -989,6 +1087,24 @@
       "duration_ms": 134840,
       "name": "In My Way (chi sei)",
       "url": "https://open.spotify.com/track/296gP31laYpSz5V1dqxwgW"
+    },
+    {
+      "album": {
+        "name": "Interno N.6",
+        "url": "https://open.spotify.com/album/3TBGbh3LTDNsCUMHWX766z"
+      },
+      "artists": [
+        {
+          "name": "M\u00a5RA",
+          "url": "https://open.spotify.com/artist/3bSIOqKFJHDEVnuBSuOwWa"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204218,
+      "name": "Interno N.6",
+      "url": "https://open.spotify.com/track/57SBANqHenDufs98cl35Vl"
     },
     {
       "album": {
@@ -1376,6 +1492,24 @@
     },
     {
       "album": {
+        "name": "Monodose",
+        "url": "https://open.spotify.com/album/2RrqdXnY3YzsJAQif4JcW7"
+      },
+      "artists": [
+        {
+          "name": "Chiara Ranieri",
+          "url": "https://open.spotify.com/artist/3I0mGLOlyKCXxPSUD26Eu6"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "Monodose",
+      "url": "https://open.spotify.com/track/4Doceb3PbB1O4Rdijrn2Qp"
+    },
+    {
+      "album": {
         "name": "Negli Occhi",
         "url": "https://open.spotify.com/album/5kjmW3BcCHutYbwm7M2diZ"
       },
@@ -1653,6 +1787,24 @@
       "duration_ms": 136105,
       "name": "Paradiso & Inferno",
       "url": "https://open.spotify.com/track/4jmdFKP6vJlEOgTXTftaHW"
+    },
+    {
+      "album": {
+        "name": "Pas pour toi",
+        "url": "https://open.spotify.com/album/5kw4tP7YxEDnEvJm4Hj2N2"
+      },
+      "artists": [
+        {
+          "name": "Yasmina",
+          "url": "https://open.spotify.com/artist/0Ylj9zDExomAj5GhujYkyI"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199314,
+      "name": "Pas pour toi",
+      "url": "https://open.spotify.com/track/4ScqPc9ABKT0czGYbc0HLK"
     },
     {
       "album": {
@@ -2381,6 +2533,24 @@
       "duration_ms": 180000,
       "name": "x averti",
       "url": "https://open.spotify.com/track/3tThvTQnw9UiMiYQFU3GwC"
+    },
+    {
+      "album": {
+        "name": "CATRAME",
+        "url": "https://open.spotify.com/album/7hdFnnjccKNalbYJbnwO8i"
+      },
+      "artists": [
+        {
+          "name": "Bobby Wanna",
+          "url": "https://open.spotify.com/artist/3MloiHhHN5KznOzRWZKwOH"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186818,
+      "name": "ZERO PIANI",
+      "url": "https://open.spotify.com/track/2TAGp3elGFTsFg9fMi4rGF"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF"

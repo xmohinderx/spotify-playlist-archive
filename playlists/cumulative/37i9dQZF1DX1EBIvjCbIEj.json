@@ -45,7 +45,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 224440,
       "name": "21 Questions",
       "url": "https://open.spotify.com/track/70FCugJxa7XW04Np6iYJdI"
@@ -444,6 +444,24 @@
     },
     {
       "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/3S2InZkyQQfQ16oSQOsGGn"
+      },
+      "artists": [
+        {
+          "name": "Frankie J",
+          "url": "https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf"
+        }
+      ],
+      "date_added": "2020-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245293,
+      "name": "Don't Wanna Try",
+      "url": "https://open.spotify.com/track/1XE1UGRpvvkaFEeqe1OJpw"
+    },
+    {
+      "album": {
         "name": "No Stranger to Shame",
         "url": "https://open.spotify.com/album/1qv4N04uuM0EfIjaJZTAj9"
       },
@@ -742,7 +760,7 @@
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 324306,
+      "duration_ms": 29048,
       "name": "I Know What You Want (feat. Flipmode Squad)",
       "url": "https://open.spotify.com/track/0YImOCkIJ2PWhCXaURCZnY"
     },
@@ -759,7 +777,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 227250,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/1AdYZ6X00nXmO613Y7GJOl"
@@ -912,7 +930,7 @@
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 291693,
+      "duration_ms": 29048,
       "name": "La Danza Delle Streghe - Corto Mix",
       "url": "https://open.spotify.com/track/5i0D0ueEyBufRsruePeCpg"
     },
@@ -1118,7 +1136,7 @@
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 212413,
+      "duration_ms": 29048,
       "name": "Make Luv",
       "url": "https://open.spotify.com/track/6xXEw4y39shgIp6pacKQFH"
     },
@@ -2034,7 +2052,7 @@
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 240040,
+      "duration_ms": 29048,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/5ht9FVBi07F48ZAfIf7WdC"
     },
@@ -2109,7 +2127,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 249626,
       "name": "Your Body Is a Wonderland",
       "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"

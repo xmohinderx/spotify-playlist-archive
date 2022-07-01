@@ -1,35 +1,59 @@
 {
-  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk?si=vqbTd2YgSHe0cXRc1Cl1dQ\" > Arrdee </a> and <a href=\"https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=kBJ2YLi9SO2jkADHAwHlXw\" > Black Sherif </a> ",
-  "num_followers": 4883,
+  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em?si=kYlrZPFkR2K7rUjO8eZZXg\" > Guiltybeatz </a>, <a href=\"https://open.spotify.com/artist/1zV9UjTUevjp5VUddqIUUn?si=4rYTPrtpTBS7vGZWtl6diA\" > Mr Hudson </a>  and <a href=\"https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go?si=U-6UaZxDTPih_z1MYXb6CQ\" > Twitch4eva </a> ",
+  "num_followers": 4918,
   "original_name": "Gone Abroad ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjAyNTIwMCwwMDAwMDAyMjAwMDAwMTgxOTJjYjM2MDMwMDAwMDE4MTI1MTM3MTAz",
+  "snapshot_id": "MTY1NjYzMDAwMCwwMDAwMDAyMzAwMDAwMTgxYjZkN2JhM2IwMDAwMDE4MWI1NTczN2Q2",
   "tracks": [
     {
-      "added_at": "2022-06-23 23:00:00",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "SHOWING OFF HER BODY (with Davido)",
-        "url": "https://open.spotify.com/album/5CgztNME0IW2ebmYmjWqUN"
+        "name": "Call Me Every Day (feat. WizKid)",
+        "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
       },
       "artists": [
         {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         },
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 212639,
-      "name": "SHOWING OFF HER BODY (with Davido)",
-      "url": "https://open.spotify.com/track/5xHodqknQtgokj6oO1giHb"
+      "duration_ms": 146840,
+      "name": "Call Me Every Day (feat. WizKid)",
+      "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Universe",
+        "url": "https://open.spotify.com/album/76lQfFP5A7OnL68NJ8k9QB"
+      },
+      "artists": [
+        {
+          "name": "GuiltyBeatz",
+          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
+        },
+        {
+          "name": "Twitch 4EVA",
+          "url": "https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go"
+        },
+        {
+          "name": "Mr Hudson",
+          "url": "https://open.spotify.com/artist/1zV9UjTUevjp5VUddqIUUn"
+        }
+      ],
+      "duration_ms": 265486,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/53xvLHBlltsQQG3X9MrGtH"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Heavy Is The Head",
         "url": "https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c"
@@ -53,27 +77,7 @@
       "url": "https://open.spotify.com/track/4QPEwDdOMhY7rNS05mTyMR"
     },
     {
-      "added_at": "2022-06-17 07:51:19",
-      "album": {
-        "name": "Call Me Every Day (feat. WizKid)",
-        "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 146840,
-      "name": "Call Me Every Day (feat. WizKid)",
-      "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
-    },
-    {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
@@ -97,7 +101,27 @@
       "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
     },
     {
-      "added_at": "2022-06-02 23:00:00",
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/0WeSQZI8q1oY5FkCJh8sH7"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Mavado",
+          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+        }
+      ],
+      "duration_ms": 175800,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/6CXRRCv2CM0bRn4RgmNR8J"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Come & Go (Black Sherif Remix)",
         "url": "https://open.spotify.com/album/5fA5w0SjzUnAEaorPRLsht"
@@ -117,7 +141,27 @@
       "url": "https://open.spotify.com/track/6LVGUOLhw6b9gayQvQvaqh"
     },
     {
-      "added_at": "2022-06-23 23:00:00",
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "SHOWING OFF HER BODY (with Davido)",
+        "url": "https://open.spotify.com/album/5CgztNME0IW2ebmYmjWqUN"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 212639,
+      "name": "SHOWING OFF HER BODY (with Davido)",
+      "url": "https://open.spotify.com/track/5xHodqknQtgokj6oO1giHb"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Karolina",
         "url": "https://open.spotify.com/album/2GcjAAeJVgKHCyLWTZLkCV"
@@ -137,7 +181,7 @@
       "url": "https://open.spotify.com/track/0NkWxvR0jlPVgQiaBdma3U"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Sounds From The Other Side",
         "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
@@ -157,7 +201,35 @@
       "url": "https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Monalisa (Franglish & DJ Babs Remix)",
+        "url": "https://open.spotify.com/album/1kSQ8NGxEf1MN9nKPU0LGt"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "DJ Babs",
+          "url": "https://open.spotify.com/artist/0DrzKyq66BJLP9V5IjiE4d"
+        }
+      ],
+      "duration_ms": 181533,
+      "name": "Monalisa - Franglish & DJ Babs Remix",
+      "url": "https://open.spotify.com/track/3hGFT6lD3SMKpA7WQTHfDE"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Be Honest (feat. Burna Boy)",
         "url": "https://open.spotify.com/album/4d2oTHRFwGifGFgve7zSGC"
@@ -177,7 +249,7 @@
       "url": "https://open.spotify.com/track/5pAbCxt9e3f81lOmjIXwzd"
     },
     {
-      "added_at": "2022-06-23 23:00:00",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Hennessy (Remix)",
         "url": "https://open.spotify.com/album/0nZh7vzE6SPFK7qQckplwZ"
@@ -201,7 +273,7 @@
       "url": "https://open.spotify.com/track/6B6yXEraBwQVlTdqtT03Lx"
     },
     {
-      "added_at": "2022-04-29 06:37:22",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
@@ -225,7 +297,7 @@
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "My Oasis (feat. Burna Boy)",
         "url": "https://open.spotify.com/album/2eBIVchjZqWwwe7P8OmY0Q"
@@ -245,7 +317,7 @@
       "url": "https://open.spotify.com/track/2KoHxhRyWxJzA0VafWd5Nk"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "love nwantiti (feat. ElGrande Toto) [North African Remix]",
         "url": "https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg"
@@ -265,7 +337,7 @@
       "url": "https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Energy (Stay Far Away)",
         "url": "https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB"
@@ -285,7 +357,35 @@
       "url": "https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd"
     },
     {
-      "added_at": "2022-04-29 06:37:22",
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Never Forget",
+        "url": "https://open.spotify.com/album/1TGT83DEhv2ovTITDUQA2q"
+      },
+      "artists": [
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        },
+        {
+          "name": "Chef 187",
+          "url": "https://open.spotify.com/artist/26fSO7cYQ1Txtb8xNi8byv"
+        },
+        {
+          "name": "Tio Nason",
+          "url": "https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O"
+        },
+        {
+          "name": "Mwanj\u00e9",
+          "url": "https://open.spotify.com/artist/6KPQc1cLLKKnDrEyPBCvmU"
+        }
+      ],
+      "duration_ms": 217520,
+      "name": "Never Forget [Feat. Chef 187, Tio Nason, Mwanj\u00e9]",
+      "url": "https://open.spotify.com/track/4pBr2SjDVIxfGkUwvOJLx7"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "No Wahala (Latin Remix)",
         "url": "https://open.spotify.com/album/4QGp54NmocX8ptDWOJrRTz"
@@ -305,7 +405,7 @@
       "url": "https://open.spotify.com/track/2wzmZNutkmbhv0rNCHvPz4"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Want It All",
         "url": "https://open.spotify.com/album/6ggFYFT8Jiq3qw43SqYHQj"
@@ -325,7 +425,7 @@
       "url": "https://open.spotify.com/track/0tHvVjzxytG1BzfAJTJPtX"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Know Your Worth (feat. Davido & Tems)",
         "url": "https://open.spotify.com/album/6BugGRwIyG1xFbeZom0Mxz"
@@ -353,7 +453,7 @@
       "url": "https://open.spotify.com/track/04QTmCTsaVjcGaoxj8rSjE"
     },
     {
-      "added_at": "2022-04-14 23:00:00",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "D O D O (Adekunle Gold Version)",
         "url": "https://open.spotify.com/album/49s1JEe2mCLJMAVtMplzJo"
@@ -373,7 +473,7 @@
       "url": "https://open.spotify.com/track/5F9F0SxcAM9bCVyi00tL0W"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Simmer (feat. Burna Boy)",
         "url": "https://open.spotify.com/album/1l08IrLHEL9QQfsYBEs9MM"
@@ -393,31 +493,27 @@
       "url": "https://open.spotify.com/track/4JSEMSiKPVcIEBQIlmGuI3"
     },
     {
-      "added_at": "2022-06-23 23:00:00",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "chupacabra",
-        "url": "https://open.spotify.com/album/6Eot2hvCKWLv4jrZiiEPLM"
+        "name": "OCEAN",
+        "url": "https://open.spotify.com/album/6j5UNH6J13v4wjKVDlpOXI"
       },
       "artists": [
         {
-          "name": "Papa",
-          "url": "https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy"
+          "name": "B Young",
+          "url": "https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp"
         },
         {
-          "name": "Gonzalo",
-          "url": "https://open.spotify.com/artist/3bADXXwtATVDoPf59rn5DA"
-        },
-        {
-          "name": "anatu",
-          "url": "https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw"
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 130725,
-      "name": "chupacabra",
-      "url": "https://open.spotify.com/track/1jthFJfWHJjdi9MdnjTmJq"
+      "duration_ms": 246323,
+      "name": "OCEAN",
+      "url": "https://open.spotify.com/track/5PHyvWrp5vtBS8lma8IWRo"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Blow My Mind",
         "url": "https://open.spotify.com/album/31Z5vOXMKPSZjpERQHtaSp"
@@ -432,12 +528,12 @@
           "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 199173,
+      "duration_ms": 29048,
       "name": "Blow My Mind",
       "url": "https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "What Have We Done",
         "url": "https://open.spotify.com/album/0lN4UOd1DJQ7q2XCehxszU"
@@ -457,7 +553,7 @@
       "url": "https://open.spotify.com/track/45BFTgtQbHLsSs9lUmqtaz"
     },
     {
-      "added_at": "2022-05-26 23:00:00",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Different (With Majid Jordan)",
         "url": "https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k"
@@ -477,7 +573,7 @@
       "url": "https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Be My Guest",
         "url": "https://open.spotify.com/album/1RB15GJ8izqSFg1r0Qsykm"
@@ -497,7 +593,7 @@
       "url": "https://open.spotify.com/track/53bVld0y2swEHfRs1OpsCa"
     },
     {
-      "added_at": "2022-01-13 23:01:00",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Peru",
         "url": "https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO"
@@ -517,7 +613,7 @@
       "url": "https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ"
     },
     {
-      "added_at": "2022-06-02 23:00:00",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Too Hot (Maxi Single)",
         "url": "https://open.spotify.com/album/69GtT9BY795ZqWrKnSbY2d"
@@ -541,7 +637,7 @@
       "url": "https://open.spotify.com/track/51XLYXUO7WaEsXf9sUHt6a"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "4AM",
         "url": "https://open.spotify.com/album/1lOAu6ugGCM0WVXfmdwEnO"
@@ -573,7 +669,7 @@
       "url": "https://open.spotify.com/track/1b6seOTvtPREZUKqjhUtl5"
     },
     {
-      "added_at": "2022-05-26 23:00:00",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Poppin'",
         "url": "https://open.spotify.com/album/16HLb3NFsQ4lZj405mBHyG"
@@ -601,7 +697,7 @@
       "url": "https://open.spotify.com/track/582GTwikEv86oVKjYvfwcM"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Antidote (feat. Adekunle Gold)",
         "url": "https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX"
@@ -621,7 +717,7 @@
       "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
     },
     {
-      "added_at": "2022-05-26 23:00:00",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "blessing me (with Pa Salieu & Skillibeng)",
         "url": "https://open.spotify.com/album/4Z3TLFfO6xwXLgInns2gXI"
@@ -645,7 +741,7 @@
       "url": "https://open.spotify.com/track/3wyfDf57MYVDeGW8qYIWsn"
     },
     {
-      "added_at": "2022-05-19 23:00:00",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Monalisa",
         "url": "https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll"
@@ -669,7 +765,7 @@
       "url": "https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "African Giant",
         "url": "https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs"
@@ -689,7 +785,7 @@
       "url": "https://open.spotify.com/track/5u85l53Y04W59OfzQUsQX6"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
@@ -709,27 +805,7 @@
       "url": "https://open.spotify.com/track/08XWh5c0BMyD1nKVxxl91z"
     },
     {
-      "added_at": "2022-05-26 23:00:00",
-      "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/4mirrfYpCpG8UeXFskfWal"
-      },
-      "artists": [
-        {
-          "name": "Bbanner",
-          "url": "https://open.spotify.com/artist/1LpLNp9LL2xCWOBPbxbQcG"
-        },
-        {
-          "name": "Daev Zambia",
-          "url": "https://open.spotify.com/artist/4WzzjGo80jU0oO6mPMrJZW"
-        }
-      ],
-      "duration_ms": 164874,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/6cCwQS0nqtrMLkpkp6MPvo"
-    },
-    {
-      "added_at": "2022-01-27 23:00:00",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Good Love (feat. Tay Iwar)",
         "url": "https://open.spotify.com/album/25NtIUVnX0QEX2GKJxngfe"
@@ -749,7 +825,7 @@
       "url": "https://open.spotify.com/track/5e9zCEEb46UhmJijPq4rTn"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Tony Montana",
         "url": "https://open.spotify.com/album/43RnBjoNMaz6atnQZadGAE"
@@ -769,7 +845,7 @@
       "url": "https://open.spotify.com/track/5dl2O9ACpsfplIikHO0p6y"
     },
     {
-      "added_at": "2022-03-03 23:02:00",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Bad n Rude (feat. WSTRN)",
         "url": "https://open.spotify.com/album/4t9NUCaBagfEhBDUgOPYGc"
@@ -789,7 +865,7 @@
       "url": "https://open.spotify.com/track/5vwKhgUVH6G17g664pSZbf"
     },
     {
-      "added_at": "2022-05-19 23:00:00",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Pray 2 The East",
         "url": "https://open.spotify.com/album/6oOKILSxYzQ3xmk7QDncIR"
@@ -809,7 +885,7 @@
       "url": "https://open.spotify.com/track/5NI7jC26RB9s7prQc7SkZg"
     },
     {
-      "added_at": "2022-04-07 23:00:00",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Go German",
         "url": "https://open.spotify.com/album/566SSg2JNZLMGCVu8euxNN"
@@ -833,7 +909,7 @@
       "url": "https://open.spotify.com/track/1YpGByjEamqwgni31e3Ylu"
     },
     {
-      "added_at": "2022-05-05 23:00:00",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Connecting the Dots",
         "url": "https://open.spotify.com/album/2LNd9HCGhWEtSUeqqfYPkX"
@@ -861,7 +937,7 @@
       "url": "https://open.spotify.com/track/1GQnMal8SSHDZLeoOoD0JL"
     },
     {
-      "added_at": "2022-05-19 23:00:00",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Maria",
         "url": "https://open.spotify.com/album/52JXwMJ5QOTZBWMCVHq0cy"
@@ -881,7 +957,7 @@
       "url": "https://open.spotify.com/track/6kHUFs2zhLn9XU95U3UTyX"
     },
     {
-      "added_at": "2022-05-12 23:00:00",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "A Trip To Paris",
         "url": "https://open.spotify.com/album/3Iz17W8WgENVednqfGnBSv"
@@ -901,7 +977,7 @@
       "url": "https://open.spotify.com/track/4lbXuTWvKI6Xnfnla0QRar"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Sere (Remix)",
         "url": "https://open.spotify.com/album/2VTdHWIwS3hf7Yi1I14ZG9"
@@ -925,7 +1001,7 @@
       "url": "https://open.spotify.com/track/6kxo2n2WY48fAhLuiwYOAb"
     },
     {
-      "added_at": "2022-03-03 23:02:00",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Subaru Boys : FINAL HEAVEN",
         "url": "https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl"
@@ -945,7 +1021,7 @@
       "url": "https://open.spotify.com/track/1vq8fQ6GIdrys7zmZnQvUc"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
@@ -969,7 +1045,7 @@
       "url": "https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM"
     },
     {
-      "added_at": "2022-04-07 23:00:00",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "My Man",
         "url": "https://open.spotify.com/album/2P0BnbvscGJpuGBlCUEIUA"
@@ -989,7 +1065,7 @@
       "url": "https://open.spotify.com/track/6VaZy3CmYDMafPC6myZDeZ"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Big Conspiracy",
         "url": "https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn"
@@ -1009,27 +1085,7 @@
       "url": "https://open.spotify.com/track/3R60ekRcGXuaoZmnbdlf3n"
     },
     {
-      "added_at": "2022-05-19 23:00:00",
-      "album": {
-        "name": "A Little Bit",
-        "url": "https://open.spotify.com/album/7wbsace1VaY31fir8cMVNB"
-      },
-      "artists": [
-        {
-          "name": "Matteo",
-          "url": "https://open.spotify.com/artist/31s5WlyPC6fwjO56yCwors"
-        },
-        {
-          "name": "Idahams",
-          "url": "https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O"
-        }
-      ],
-      "duration_ms": 182449,
-      "name": "A Little Bit (feat. Idahams)",
-      "url": "https://open.spotify.com/track/5Fgu8nTqg5CtXxGJrZ0RH1"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Beauty In The Madness",
         "url": "https://open.spotify.com/album/3kMARMOndO5NMBDU37J4G8"
@@ -1053,7 +1109,7 @@
       "url": "https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F"
     },
     {
-      "added_at": "2022-04-14 23:00:00",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Big Thug Boys (feat. Jireel)",
         "url": "https://open.spotify.com/album/5JRBClxgYYiVaiU62rdBnT"
@@ -1073,7 +1129,7 @@
       "url": "https://open.spotify.com/track/7CcwGX8YiQqil6YcW4sXJ5"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
@@ -1093,7 +1149,7 @@
       "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
     },
     {
-      "added_at": "2022-03-24 23:00:00",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Rave & Roses",
         "url": "https://open.spotify.com/album/71S4BwV5E6Pwwz0ASZB7th"
@@ -1113,7 +1169,7 @@
       "url": "https://open.spotify.com/track/1KapwhqF90mrl8aIlagtQR"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Spirit (feat. Wale)",
         "url": "https://open.spotify.com/album/62HROJu6iE9DXc7EJjlmvv"
@@ -1133,7 +1189,7 @@
       "url": "https://open.spotify.com/track/6Gqzr5DpN48FESo5uHGsJ7"
     },
     {
-      "added_at": "2022-01-20 23:00:00",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Truth Be Told",
         "url": "https://open.spotify.com/album/5YZ4AHdhfiAtn3bhoF6Igs"
@@ -1153,7 +1209,7 @@
       "url": "https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "A Better Time",
         "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
@@ -1177,7 +1233,7 @@
       "url": "https://open.spotify.com/track/1ln2sDL64h9Y0PJIrUogM6"
     },
     {
-      "added_at": "2022-03-16 08:59:36",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "FYN",
         "url": "https://open.spotify.com/album/2U86RJZhOyvFzLxZtol3fH"
@@ -1197,7 +1253,7 @@
       "url": "https://open.spotify.com/track/5gdhbzqHrZsjc3Rf3SdeXE"
     },
     {
-      "added_at": "2022-03-03 23:02:00",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Frozen (Fireboy DML Remix)",
         "url": "https://open.spotify.com/album/2W8p1cjyw4IOMLQXhiAdiF"
@@ -1221,7 +1277,7 @@
       "url": "https://open.spotify.com/track/6LDZVinkfCfaBtqOMF1lSA"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Essence (feat. Justin Bieber & Tems)",
         "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
@@ -1245,7 +1301,7 @@
       "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "THE ANGEL YOU DON'T KNOW",
         "url": "https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE"
@@ -1269,7 +1325,7 @@
       "url": "https://open.spotify.com/track/5qaUDvqjsI6lnrtEhQqMle"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "The Lion King: The Gift",
         "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
@@ -1293,7 +1349,7 @@
       "url": "https://open.spotify.com/track/6tgEc2O1uFHcZDKPoo6PC8"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Gal Policy (Remix) [feat. Tiwa Savage]",
         "url": "https://open.spotify.com/album/7dnrc3yw8NH1xEW1Z2m8Xn"
@@ -1313,7 +1369,7 @@
       "url": "https://open.spotify.com/track/215J5CUKtWGWMcq4RlS1Hd"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Love Is Contagious",
         "url": "https://open.spotify.com/album/5Wt03bPDbH9Z1C6MUUuNiV"
@@ -1337,27 +1393,7 @@
       "url": "https://open.spotify.com/track/5h7wtv5xawuFU8xf19XuO9"
     },
     {
-      "added_at": "2022-02-17 23:01:00",
-      "album": {
-        "name": "Arrested by Love",
-        "url": "https://open.spotify.com/album/0zejTpsTCCZlAHUfdHyDQ8"
-      },
-      "artists": [
-        {
-          "name": "Teezee",
-          "url": "https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B"
-        },
-        {
-          "name": "Knucks",
-          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "DO ME JEJE",
-      "url": "https://open.spotify.com/track/761wgf2fyosAixTxmR5dpZ"
-    },
-    {
-      "added_at": "2022-03-03 23:02:00",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Attention",
         "url": "https://open.spotify.com/album/2dwAAJpNawqPDfoSQvjEKS"
@@ -1377,7 +1413,7 @@
       "url": "https://open.spotify.com/track/00pg6ROBxCsQ8lL9fpmosR"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Bad Habits (The Remixes)",
         "url": "https://open.spotify.com/album/1cvxALyvpgUpRqxix4vhLK"
@@ -1397,7 +1433,7 @@
       "url": "https://open.spotify.com/track/6OvZNs4JjdyebEiIi0jcaR"
     },
     {
-      "added_at": "2022-03-18 00:00:00",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/0FVNUQpXBN55azvwBh4hhr"
@@ -1421,7 +1457,7 @@
       "url": "https://open.spotify.com/track/7CGwYCUFYdGKuW3KNYtw6K"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
@@ -1441,7 +1477,7 @@
       "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Anloga Junction",
         "url": "https://open.spotify.com/album/58oROGFaWG6LUlfktncZ9C"
@@ -1461,7 +1497,7 @@
       "url": "https://open.spotify.com/track/17w34M5Uam8PTahTUUY97q"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Water & Garri",
         "url": "https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW"
@@ -1481,7 +1517,7 @@
       "url": "https://open.spotify.com/track/3Z9B9GQ2fFx4IRCG8bbWys"
     },
     {
-      "added_at": "2021-10-28 23:00:00",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Hopeless Romantic Remix ft. Wale",
         "url": "https://open.spotify.com/album/3XFcbSBVJOYRMelXXrz8ZL"
@@ -1501,7 +1537,7 @@
       "url": "https://open.spotify.com/track/1abN0WUTFolf1JfkSNBZNt"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
@@ -1521,7 +1557,7 @@
       "url": "https://open.spotify.com/track/2tB9OFgAHjAds3cqquLlvp"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "EDNA (Deluxe)",
         "url": "https://open.spotify.com/album/4KxJRAHWvrJSIeftGB9PHP"
@@ -1541,7 +1577,7 @@
       "url": "https://open.spotify.com/track/0lgUn1bN5txujF60W7YAbv"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Found (feat. Brent Faiyaz)",
         "url": "https://open.spotify.com/album/6nuNgD841boUffjDiI8et4"
@@ -1561,7 +1597,7 @@
       "url": "https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "APOLLO",
         "url": "https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq"
@@ -1581,7 +1617,7 @@
       "url": "https://open.spotify.com/track/2fY21NO9Y9Z2pWCdMTeXkR"
     },
     {
-      "added_at": "2022-03-11 00:00:00",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Random",
         "url": "https://open.spotify.com/album/0rnsTIkGzCYnd10aDwy7Rl"
@@ -1605,7 +1641,7 @@
       "url": "https://open.spotify.com/track/2X2UlvDS8TP71En3V5oclh"
     },
     {
-      "added_at": "2022-02-24 23:00:00",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "To The Beach",
         "url": "https://open.spotify.com/album/0rmZC27PDaGkn4FbB2SW4l"
@@ -1629,7 +1665,7 @@
       "url": "https://open.spotify.com/track/7unffucKdD9uCsocyWT9ZP"
     },
     {
-      "added_at": "2022-02-03 23:02:00",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Catch Me If You Can",
         "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
@@ -1649,7 +1685,7 @@
       "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
     },
     {
-      "added_at": "2022-02-17 23:01:00",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Touch It (Remix)",
         "url": "https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu"
@@ -1669,7 +1705,7 @@
       "url": "https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "All I Want",
         "url": "https://open.spotify.com/album/7dXvVVC6xytbsU8tQWGvko"
@@ -1689,7 +1725,7 @@
       "url": "https://open.spotify.com/track/0Z3WgEI6TL0cBa8t4lKvho"
     },
     {
-      "added_at": "2022-02-11 13:07:23",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Summer in the Ends (Juls Zikomo Remix)",
         "url": "https://open.spotify.com/album/7y8luOJivmYwb7CaniGjnJ"
@@ -1713,7 +1749,7 @@
       "url": "https://open.spotify.com/track/53Skuiqa6vxJkllH99ajXn"
     },
     {
-      "added_at": "2021-10-08 09:53:07",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"

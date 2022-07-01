@@ -55,7 +55,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 168293,
       "name": "Backbone",
       "url": "https://open.spotify.com/track/735JDdMlCfiJDastCL3WTA"
@@ -405,10 +405,28 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 250253,
       "name": "Fade",
       "url": "https://open.spotify.com/track/2FqDzr86n4Q5Qjb1MoeEaV"
+    },
+    {
+      "album": {
+        "name": "Hindsight",
+        "url": "https://open.spotify.com/album/0HohoNniglpDithTFEnqaW"
+      },
+      "artists": [
+        {
+          "name": "Joey Landreth",
+          "url": "https://open.spotify.com/artist/1n5S81eeVtaFs2vvo7p234"
+        }
+      ],
+      "date_added": "2020-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299733,
+      "name": "Father Son Holy Spirit",
+      "url": "https://open.spotify.com/track/1fM3aySZNTA1xXHdIGY6yQ"
     },
     {
       "album": {
@@ -423,7 +441,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 352853,
       "name": "Found out the Hard Way",
       "url": "https://open.spotify.com/track/4USHtkju7lWv8YAhmcf3AV"
@@ -441,7 +459,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 197237,
       "name": "Gettin Old",
       "url": "https://open.spotify.com/track/4co6ZEcJTAWRSbF6LFc28O"
@@ -477,7 +495,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 157413,
       "name": "Got to Get Up",
       "url": "https://open.spotify.com/track/4UPWcafmoDHKZziDsTumP3"
@@ -495,7 +513,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 241706,
       "name": "Groove With Me",
       "url": "https://open.spotify.com/track/2VaKZQ6d3qY0roo4E1Hapg"
@@ -575,7 +593,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 174892,
       "name": "Keep Your Light on Mama",
       "url": "https://open.spotify.com/track/0VCWM2PMWWUEyiNYBmYvWn"
@@ -867,7 +885,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 218088,
       "name": "Spirit",
       "url": "https://open.spotify.com/track/0G1p6qY60TM9fT3v9iHRdF"
@@ -962,7 +980,7 @@
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 362240,
+      "duration_ms": 29048,
       "name": "Texas",
       "url": "https://open.spotify.com/track/4mpfJizAX6YGwRRU1hIr0q"
     },
@@ -1015,7 +1033,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 232088,
       "name": "Threw Me To The Wolves",
       "url": "https://open.spotify.com/track/2pzX6WBgMtavA1hZ0pt91F"
@@ -1123,7 +1141,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 260013,
       "name": "Where Did I Go Wrong",
       "url": "https://open.spotify.com/track/7pi7XTGGaVBzrhlaYH97CV"
@@ -1159,7 +1177,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 237240,
       "name": "Word",
       "url": "https://open.spotify.com/track/627ZKn3BoKHQ7BleTgt3UY"

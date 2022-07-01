@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/285xVjuyHG2CusStdc8kCS.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 63 likes - 20 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 63 likes - 20 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/285xVjuyHG2CusStdc8kCS.md) - [plain]
 | 14 | [Get Up \(Rattle\)](https://open.spotify.com/track/1zYsvExrADZ5L7Epqd5J6D) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq) | [Get Up \(Rattle\)](https://open.spotify.com/album/7atvI5BIhbfq7sGp6jjCz3) | 2:46 |
 | 15 | [Animals \[Mix Cut\]](https://open.spotify.com/track/7KXD7pCpbW4nuDIuvetS1o) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Hardwell Presents Revealed Volume 4 \[Mixed Version\]](https://open.spotify.com/album/42WbfOLR1arO0LTO1jf6eq) | 2:21 |
 | 16 | [Three Triangles \[Mix Cut\] \- Original Club Mix](https://open.spotify.com/track/1JlQt4YWo86FrCpXuke7aI) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [We Are Planet Perfecto, Vol\. 2 \(Mixed By Paul Oakenfold\)](https://open.spotify.com/album/5fVp3qQHdrkECldTvCGI5a) | 3:45 |
-| 17 | [Center of the Universe \- Radio Edit](https://open.spotify.com/track/1CrEfdjH1puM8uZnmFHKZ1) | [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [Center of the Universe \(Original Radio Edit\)](https://open.spotify.com/album/0wYiObBT8ve2JQnbMmOLYe) | 3:37 |
+| 17 | [Center of the Universe \- Radio Edit](https://open.spotify.com/track/1CrEfdjH1puM8uZnmFHKZ1) | [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [Center of the Universe \(Original Radio Edit\)](https://open.spotify.com/album/0wYiObBT8ve2JQnbMmOLYe) | 0:29 |
 | 18 | [Rock the Casbah \- Club Mix](https://open.spotify.com/track/0MvXWbCiYJ7QH2pLHoXGEM) | [Tradelove](https://open.spotify.com/artist/1edZcw60om834YgyyK2Q6J) | [Rock the Casbah](https://open.spotify.com/album/0HdJTPlmSMG876G6hBg9ay) | 6:00 |
 | 19 | [Work Hard, Play Hard \(Radio Mix\)](https://open.spotify.com/track/3LQiB88LdqGP1l1AHfvdjo) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Work Hard, Play Hard](https://open.spotify.com/album/5gEyRaKnK8pfbE7xX6MYzc) | 3:56 |
 | 20 | [Don't You Worry Child \- Radio Edit](https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Don't You Worry Child](https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY) | 3:32 |

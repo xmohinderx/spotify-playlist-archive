@@ -4,7 +4,7 @@
 
 > Song of the Year winners from 1959\-2021\. How many do you know? \#SpotifyTBT
 
-63 songs - 4 hr 21 min - [published](https://open.spotify.com/playlist/5sviYI5JD7rztpjP8iZrzW)
+63 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/5sviYI5JD7rztpjP8iZrzW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [My Heart Will Go On \- Love Theme from "Titanic"](https://open.spotify.com/track/3oEHQmhvFLiE7ZYES0ulzv) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Let's Talk About Love](https://open.spotify.com/album/3SwxRkHbAarf3wWlInRTzA) | 4:40 | 2022-02-16 |  |
 | [Need You Now](https://open.spotify.com/track/7GAaTpSoTWUTbP2Yxlt4Hd) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/5RypFF6rN9MUxFe4aAWA28) | 3:56 | 2022-02-16 |  |
 | [Not Ready to Make Nice](https://open.spotify.com/track/6LCEyZZHFF4ebF1Mike1s5) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Taking The Long Way](https://open.spotify.com/album/2NeJdEWras0uSuzLPlJZk5) | 3:57 | 2022-02-16 |  |
-| [Rehab](https://open.spotify.com/track/1L5tZi0izXsi5Kk5OJf4W0) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 3:33 | 2022-02-16 |  |
+| [Rehab](https://open.spotify.com/track/1L5tZi0izXsi5Kk5OJf4W0) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 0:29 | 2022-02-16 |  |
 | [Rolling in the Deep](https://open.spotify.com/track/1CkvWZme3pRgbzaxZnTl5X) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147) | 3:48 | 2022-02-16 |  |
 | [Royals](https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:10 | 2022-02-16 |  |
 | [Sailing](https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah) | 4:16 | 2022-02-16 |  |
@@ -57,7 +57,7 @@
 | [The First Time Ever I Saw Your Face](https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 4:20 | 2022-02-16 |  |
 | [The Shadow of Your Smile \(Love Theme from "The Sandpiper"\)](https://open.spotify.com/track/66YI4JFp7BcMcepibGprsN) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [The Movie Song Album](https://open.spotify.com/album/0viEs6bCf3nP560AFtCDcn) | 3:37 | 2022-02-16 |  |
 | [The Way We Were](https://open.spotify.com/track/1vZTgn4JXWMahR8r99ug5H) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [The Way We Were](https://open.spotify.com/album/0vTu2dD57pVlPvd3pfxUSS) | 3:31 | 2022-02-16 |  |
-| [Theme of Exodus \- From "Exodus" Soundtrack](https://open.spotify.com/track/7A7Bak9REa9pRZzohssUPi) | [Ernest Gold](https://open.spotify.com/artist/41SzGMVZclC44YTVneXHlE) | [Theme of Exodus \(From "Exodus" Soundtrack\)](https://open.spotify.com/album/5micc2oKvQQYFUlUcsVtF0) | 14:52 | 2022-02-16 |  |
+| [Theme of Exodus \- From "Exodus" Soundtrack](https://open.spotify.com/track/7A7Bak9REa9pRZzohssUPi) | [Ernest Gold](https://open.spotify.com/artist/41SzGMVZclC44YTVneXHlE) | [Theme of Exodus \(From "Exodus" Soundtrack\)](https://open.spotify.com/album/5micc2oKvQQYFUlUcsVtF0) | 0:29 | 2022-02-16 |  |
 | [Thinking out Loud](https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:41 | 2022-02-16 |  |
 | [This Is America](https://open.spotify.com/track/0b9oOr2ZgvyQu88wzixux9) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [This Is America](https://open.spotify.com/album/7arx9qPJexCsDz67El4qvk) | 3:45 | 2022-02-16 | 2022-06-20 |
 | [Unforgettable](https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) | 3:11 | 2022-02-16 |  |

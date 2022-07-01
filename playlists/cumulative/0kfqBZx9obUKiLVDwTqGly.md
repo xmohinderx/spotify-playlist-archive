@@ -4,7 +4,7 @@
 
 > 
 
-44 songs - 2 hr 31 min - [published](https://open.spotify.com/playlist/08MSLBTtsltpfAsmNnuAd3)
+44 songs - 2 hr 28 min - [published](https://open.spotify.com/playlist/08MSLBTtsltpfAsmNnuAd3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Don't Be Scared](https://open.spotify.com/track/25cI0KRKQk8b9YIelPo9Zr) | [Bruce Johnston](https://open.spotify.com/artist/0yiSGGu3grpaH56F9znIeU) | [Going Public](https://open.spotify.com/album/7x5517dgXDj2NgIaaHoWZc) | 3:07 | 2013-06-27 |  |
 | [Feel Flows \- Remastered 2009](https://open.spotify.com/track/7lNATn8yN0Yjr4KOKDBdW6) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surf's Up](https://open.spotify.com/album/5NJHGcHNdLURknY2LfzjZg) | 4:48 | 2013-06-25 |  |
 | [Forever \- Remastered 2009](https://open.spotify.com/track/74D87XkpPozTefTJaGs1oH) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Sunflower](https://open.spotify.com/album/6oUeivCrkGIQwM9uSy0N1P) | 2:42 | 2013-06-26 |  |
-| [Friends \- Remastered 2001](https://open.spotify.com/track/0vKTQKH82qOthIyP4L9Tk9) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Friends \(Remastered\)](https://open.spotify.com/album/2EeDLAhZi04oPV3FJ2s6uS) | 2:33 | 2013-06-27 |  |
+| [Friends \- Remastered 2001](https://open.spotify.com/track/0vKTQKH82qOthIyP4L9Tk9) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Friends \(Remastered\)](https://open.spotify.com/album/2EeDLAhZi04oPV3FJ2s6uS) | 0:29 | 2013-06-27 |  |
 | [Funky Pretty \- Remastered 2000](https://open.spotify.com/track/6wH62Tkol3lkWiX676tgJs) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Holland \(2000 Remaster\)](https://open.spotify.com/album/56TmtkBepKW3eZKiRjEl0M) | 4:12 | 2013-06-25 |  |
 | [Heroes And Villains](https://open.spotify.com/track/14sSBBfrwIi4nRAL7zodQy) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Smile Sessions](https://open.spotify.com/album/5SKIMMI6ilJTGOLd69Q9aM) | 4:51 | 2013-06-25 |  |
 | [I Can Hear Music \- Remastered](https://open.spotify.com/track/2hpEptrTV8CSzl3kVwkYts) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [50 Big Ones: Greatest Hits](https://open.spotify.com/album/4nZ5wPL5XxSY2OuDgbnYdc) | 3:01 | 2013-06-25 |  |
@@ -35,7 +35,7 @@
 | [Leaving This Town \- Remastered 2000](https://open.spotify.com/track/6AFHZftM2TZOBkBN7QzOAN) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Holland \(2000 Remaster\)](https://open.spotify.com/album/56TmtkBepKW3eZKiRjEl0M) | 5:51 | 2013-06-26 |  |
 | [Lonely Sea](https://open.spotify.com/track/44fLoZlzaiQtR0yCueit52) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' Usa](https://open.spotify.com/album/6yshVOnq0d3AS97exK6qJd) | 2:23 | 2013-06-26 |  |
 | [Me](https://open.spotify.com/track/6qifiTswRLATDCVEhi8KYR) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Music For Cars EP](https://open.spotify.com/album/5eZGfcFOJcxGIDPwkLT4Bp) | 4:34 | 2013-06-27 |  |
-| [Meant For You \- Remastered 2001](https://open.spotify.com/track/2h5cpnAVMC4kOOLF7NqmIr) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Friends \(Remastered\)](https://open.spotify.com/album/2EeDLAhZi04oPV3FJ2s6uS) | 0:39 | 2013-06-25 |  |
+| [Meant For You \- Remastered 2001](https://open.spotify.com/track/2h5cpnAVMC4kOOLF7NqmIr) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Friends \(Remastered\)](https://open.spotify.com/album/2EeDLAhZi04oPV3FJ2s6uS) | 0:29 | 2013-06-25 |  |
 | [Our Sweet Love \- Remastered 2009](https://open.spotify.com/track/1vGqPTdYS0G7Bs1Ltru7Na) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Sunflower](https://open.spotify.com/album/6oUeivCrkGIQwM9uSy0N1P) | 2:40 | 2013-06-25 |  |
 | [Pipeline](https://open.spotify.com/track/1DQ3YAmtMIqF6v9LEtEGHN) | [Bruce Johnston](https://open.spotify.com/artist/0yiSGGu3grpaH56F9znIeU) | [Going Public](https://open.spotify.com/album/7x5517dgXDj2NgIaaHoWZc) | 4:36 | 2013-06-27 |  |
 | [Rendezvous](https://open.spotify.com/track/7KcM5RqiXnSCPIbuU0FFys) | [Bruce Johnston](https://open.spotify.com/artist/0yiSGGu3grpaH56F9znIeU) | [Going Public](https://open.spotify.com/album/7x5517dgXDj2NgIaaHoWZc) | 2:26 | 2013-06-27 |  |
@@ -49,7 +49,7 @@
 | [The Surfer Moon](https://open.spotify.com/track/4fOEy74dxPTLkmXFOvv1qF) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Beach Boys: Surfer Girl](https://open.spotify.com/album/7eu4ntQ1yq2zaPVRanGB4A) | 2:14 | 2013-06-25 |  |
 | [The Trader \- 2000 \- Remaster](https://open.spotify.com/track/2O1vOIZ3JRHNjGRvaWMmrL) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Greatest Hits Volume 3: The Best Of The Brother Years 1970 \- 1986](https://open.spotify.com/album/5od5MVWzGnuNQbZCTzYdsX) | 5:06 | 2013-06-25 |  |
 | [The Warmth of the Sun](https://open.spotify.com/track/6Ck7L2zEbjL6tZbY0IAA6N) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [50 Big Ones: Greatest Hits](https://open.spotify.com/album/4nZ5wPL5XxSY2OuDgbnYdc) | 4:14 | 2013-06-25 |  |
-| [Transcendental Meditation \- Remastered 2001](https://open.spotify.com/track/0nc4t5n6r5karpDkS6F8ab) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Friends \(Remastered\)](https://open.spotify.com/album/2EeDLAhZi04oPV3FJ2s6uS) | 1:52 | 2013-06-26 |  |
+| [Transcendental Meditation \- Remastered 2001](https://open.spotify.com/track/0nc4t5n6r5karpDkS6F8ab) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Friends \(Remastered\)](https://open.spotify.com/album/2EeDLAhZi04oPV3FJ2s6uS) | 0:29 | 2013-06-26 |  |
 | [Wind Chimes](https://open.spotify.com/track/3USfbRbjWl1d3rQL2jRxrK) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Smile Sessions](https://open.spotify.com/album/5SKIMMI6ilJTGOLd69Q9aM) | 3:06 | 2013-06-25 |  |
 | [Won't Somebody Dance With Me](https://open.spotify.com/track/6Kkn4ZYyyRXgbfq3t4biRB) | [Bruce Johnston](https://open.spotify.com/artist/0yiSGGu3grpaH56F9znIeU) | [Going Public](https://open.spotify.com/album/7x5517dgXDj2NgIaaHoWZc) | 4:00 | 2013-06-27 |  |
 

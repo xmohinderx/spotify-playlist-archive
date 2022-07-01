@@ -4,7 +4,7 @@
 
 > Want to power up your morning? Grab the beats to go.
 
-16 songs - 1 hr 0 min - [published](https://open.spotify.com/playlist/6mdVHwbiZMenBndEuPdx7m)
+16 songs - 57 min 5 sec - [published](https://open.spotify.com/playlist/6mdVHwbiZMenBndEuPdx7m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Party Ain't A Party \(feat\. 2 Chainz\)](https://open.spotify.com/track/2GUPyVJIFf9jMVRjhThmnY) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Party Ain't A Party \(feat\. 2 Chainz\)](https://open.spotify.com/album/7oHxBR7ipH6NAq4NiwiGXd) | 3:46 | 2018-05-09 |  |
 | [Rack City](https://open.spotify.com/track/21nFIDqoD1L7ELsprVSzOR) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Careless World: Rise Of The Last King](https://open.spotify.com/album/65CquQgUA42ecr7n6bGtOI) | 3:23 | 2018-05-09 |  |
 | [Sanctified](https://open.spotify.com/track/4WFYgmKlDSNWlCsmKZcpFL) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Mastermind](https://open.spotify.com/album/4Cq1LrwChjEuOcpFvvj8r4) | 4:49 | 2018-05-09 |  |
-| [She](https://open.spotify.com/track/20IYmMomxRNKY6UrWGI1mN) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [She](https://open.spotify.com/album/14DT31xSqyGacsIvpnm9Pf) | 3:44 | 2018-05-09 |  |
+| [She](https://open.spotify.com/track/20IYmMomxRNKY6UrWGI1mN) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [She](https://open.spotify.com/album/14DT31xSqyGacsIvpnm9Pf) | 0:29 | 2018-05-09 |  |
 | [Who Do You Love?](https://open.spotify.com/track/6Tx7BNqiakRXgAXngmnhCL) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Do You Love?](https://open.spotify.com/album/06uhHdJghVpOfZgEPNtYnz) | 3:53 | 2018-05-09 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

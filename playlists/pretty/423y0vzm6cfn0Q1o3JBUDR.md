@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/423y0vzm6cfn0Q1o3JBUDR.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 135 likes - 29 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 135 likes - 29 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/423y0vzm6cfn0Q1o3JBUDR.md) - [plain]
 | 14 | [We Are Never Ever Getting Back Together](https://open.spotify.com/track/32Z4ioCoKKsKMFS9vhzkJJ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [We Are Never Ever Getting Back Together](https://open.spotify.com/album/639ouO9OKdRqgup7ML8Lup) | 3:12 |
 | 15 | [Milkshake](https://open.spotify.com/track/4LmzPJDil70LpiApWfOI6O) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [The Hits](https://open.spotify.com/album/2pPNC9cSF3mhMZcT7t3iw7) | 3:02 |
 | 16 | [Pretty Girl Rock](https://open.spotify.com/track/2Adn2LNgkHMH5TelQVAu4n) | [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1) | [No Boys Allowed](https://open.spotify.com/album/7lRRlf0zRaSki9s3YVRHcZ) | 4:03 |
-| 17 | [Fastest Girl in Town](https://open.spotify.com/track/0yLbBsE67bgWRi5Co8o3Uh) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Four The Record \(Deluxe Edition\)](https://open.spotify.com/album/119X9tkbPTqambSALCUNdW) | 3:17 |
+| 17 | [Fastest Girl in Town](https://open.spotify.com/track/0yLbBsE67bgWRi5Co8o3Uh) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Four The Record \(Deluxe Edition\)](https://open.spotify.com/album/119X9tkbPTqambSALCUNdW) | 0:29 |
 | 18 | [Too Little, Too Late](https://open.spotify.com/track/6EEeAog1VBZ6FrYpJ2q3WF) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The High Road](https://open.spotify.com/album/570GLIlpWDeAeJgFHmanoG) | 3:41 |
 | 19 | [I Just Want To Make Love To You](https://open.spotify.com/track/7EfLlY6Gen7TCbyZ3f0CM1) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last The Very Best Of](https://open.spotify.com/album/5mKhSxFMOBFtf76VHaMyRS) | 3:08 |
 | 20 | [S&M](https://open.spotify.com/track/2PQ0GyIYxsYGkcMdeZqItT) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud](https://open.spotify.com/album/6oOSb28tSWklPZl0i82Z0X) | 4:03 |

@@ -4,7 +4,7 @@
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\. アニメ作品に登場するクラシック音楽と象徴的なサウンドトラックを1つのプレイリストで。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-51 songs - 2 hr 53 min - [published](https://open.spotify.com/playlist/1wR9DeurDAT9iRMvHlECcH)
+51 songs - 2 hr 51 min - [published](https://open.spotify.com/playlist/1wR9DeurDAT9iRMvHlECcH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [IiMuRoYa\-$.feat 3rd\-Mov.:HEiW@→KiZUN@](https://open.spotify.com/track/59owDR67uubyLwhXNEtQ2k) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 オリジナル・サウンドトラック II](https://open.spotify.com/album/0y3XZ3R8MsOQGx16H1wsuz) | 4:12 | 2022-03-25 |  |
 | [Kakusei Shinn Asuka](https://open.spotify.com/track/1WNJIa7BzKD6G9v3UR9JJZ) | [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [MOBILE SUITE GUNDAM SEED DESTINY Original Motion Picture Soundtrack 2](https://open.spotify.com/album/3zIYQhqTWF1iEoN220OOEu) | 1:49 | 2022-03-25 |  |
 | [L'isle joyeuse, L\. 106](https://open.spotify.com/track/4VTnc3rElZ3Ihcz5VM8mXa) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Debussy](https://open.spotify.com/album/4tYYPSmCZM2bmfrJvXAOfr) | 6:15 | 2022-03-25 |  |
-| [La Parfum de Fleurs](https://open.spotify.com/track/5aAWl9sN7rffpfQnND78QO) | [松司馬拓指揮 Ensemble FOVE](https://open.spotify.com/artist/5KafCCJozxvzGwbHdX8TDq) | [Oh! スケトラ!!! ユーリ!!! on ICE/オリジナル・スケートソングCOLLECTION](https://open.spotify.com/album/7fSGa139Q2t6IgAgf1Cx7n) | 2:05 | 2022-03-25 |  |
+| [La Parfum de Fleurs](https://open.spotify.com/track/5aAWl9sN7rffpfQnND78QO) | [松司馬拓指揮 Ensemble FOVE](https://open.spotify.com/artist/5KafCCJozxvzGwbHdX8TDq) | [Oh! スケトラ!!! ユーリ!!! on ICE/オリジナル・スケートソングCOLLECTION](https://open.spotify.com/album/7fSGa139Q2t6IgAgf1Cx7n) | 0:29 | 2022-03-25 |  |
 | [Liebesleid](https://open.spotify.com/track/4PAwFMCI2N0tPqAoX0lBnt) | [Fritz Kreisler](https://open.spotify.com/artist/0HdNDZaNm7xLt18v9aWDfe), [Joshua Bell](https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom), [Paul Coker](https://open.spotify.com/artist/6Xsc5sibYGiOZPZw4VakA7) | [The Kreisler Album](https://open.spotify.com/album/0Yn0K87VDMFwDzrvmZPrzE) | 3:41 | 2022-03-25 |  |
 | [lit\(var\)](https://open.spotify.com/track/7mZ5nhoyb6vcInY3AherBC) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [映画 聲の形 オリジナル・サウンドトラック a shape of light【形態A】](https://open.spotify.com/album/7ESzwDgNKNk8qJtbOAmX3Y) | 2:14 | 2022-03-25 |  |
 | [Memory 第四章 愛しみの旋律の彼方](https://open.spotify.com/track/7vitKfxtaSngoUbReATDAL) | [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [交響組曲 機動戦士ガンダムSEED](https://open.spotify.com/album/7LFAMQXx94kCFdROyCB3Kr) | 3:35 | 2022-03-25 |  |

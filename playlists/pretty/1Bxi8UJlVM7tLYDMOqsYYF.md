@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1Bxi8UJlVM7tLYDMOqsYYF.md) - [plain]
 
 > The ultimate playlist to get you ready for a fun night out with your girlfriends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,257 likes - 47 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,258 likes - 47 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/1Bxi8UJlVM7tLYDMOqsYYF.md) - [plain]
 | 30 | [A Millie](https://open.spotify.com/track/3EHaOiEcKmL5Ko62HpTITL) | [Ceazer](https://open.spotify.com/artist/70fopN00PwpPOAExmMXDah), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Chris Brown](https://open.spotify.com/artist/396wvM69VtHgLZSfFB0pyH) | [The Features](https://open.spotify.com/album/6Ufl6MVUFELqJp0yzqhTYB) | 5:47 |
 | 31 | [Hot Girls](https://open.spotify.com/track/2bPAXt6JTN8kN8qeUkPwIa) | [Dony & Elena](https://open.spotify.com/artist/4NGnPx3G4Yacr0tBxz2FpR), [Elena](https://open.spotify.com/artist/0RumimGfpHJk52huUuN3hq) | [Hot Girls](https://open.spotify.com/album/48waLWBTOEXIYokDzv5G76) | 3:41 |
 | 32 | [She Wants To Move](https://open.spotify.com/track/4ZU17d7AlHId9Xg7mhiXZ0) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [The Best Of](https://open.spotify.com/album/6wtS79TsATz44E2tGWb10Z) | 3:34 |
-| 33 | [A Public Affair](https://open.spotify.com/track/2rmjrqv4T9cnweOSudH97N) | [Jessica Simpson](https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma) | [A Public Affair](https://open.spotify.com/album/26PuctMKg6pHMN8TZZJaLe) | 3:21 |
+| 33 | [A Public Affair](https://open.spotify.com/track/2rmjrqv4T9cnweOSudH97N) | [Jessica Simpson](https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma) | [A Public Affair](https://open.spotify.com/album/26PuctMKg6pHMN8TZZJaLe) | 0:29 |
 | 34 | [My Chick Bad](https://open.spotify.com/track/3bMNprrp2JDKZsGbiXpsJl) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Battle Of The Sexes \(Deluxe\)](https://open.spotify.com/album/00kSgH9g6nYBQhjnRQFBew) | 3:36 |
 | 35 | [OMG](https://open.spotify.com/track/3r04p85xiJh9Wqk59YDYdc) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [Raymond v Raymond](https://open.spotify.com/album/4zZ80MJnva0LsHuQ1FaWmv) | 4:29 |
 | 36 | [Turn It Up \(feat\. Usher\)](https://open.spotify.com/track/2aupzXVfgAkI4nnVR8dDMe) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Basic Instinct](https://open.spotify.com/album/5kcwxjSYHuuafWqUflsSsu) | 3:08 |

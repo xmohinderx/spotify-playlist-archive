@@ -4,7 +4,7 @@
 
 > Time for dancing in the kitchen!
 
-56 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/1UD1v4gMRoi8wlQD3xgZBb)
+56 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/1UD1v4gMRoi8wlQD3xgZBb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,8 +41,8 @@
 | [okay](https://open.spotify.com/track/1a0Mg4XPdt4EKsUz5beRZY) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [okay](https://open.spotify.com/album/5jfU7VYOq1M8SllX6emQHN) | 2:49 | 2021-11-19 |  |
 | [Pancakes](https://open.spotify.com/track/5zZ4EPA81iTmQ8K6LwaU1r) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [LANY](https://open.spotify.com/album/2hVTFTbeg9QhXGZAY99oRa) | 3:52 | 2021-11-19 |  |
 | [paper](https://open.spotify.com/track/3VI7vR4nbDDhoF63XHSbmE) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [mama's boy](https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP) | 4:04 | 2021-11-19 |  |
-| [pink skies](https://open.spotify.com/track/6BZ6pl5bczDc3cMF1kBaOy) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [kinda](https://open.spotify.com/album/42jFcn7WDz3hkdkEUUQaM7) | 3:05 | 2021-11-19 |  |
-| [quit](https://open.spotify.com/track/05NiTlbGwYmiJtyhsYIqzt) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [kinda](https://open.spotify.com/album/42jFcn7WDz3hkdkEUUQaM7) | 3:20 | 2021-11-19 |  |
+| [pink skies](https://open.spotify.com/track/6BZ6pl5bczDc3cMF1kBaOy) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [kinda](https://open.spotify.com/album/42jFcn7WDz3hkdkEUUQaM7) | 0:29 | 2021-11-19 |  |
+| [quit](https://open.spotify.com/track/05NiTlbGwYmiJtyhsYIqzt) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [kinda](https://open.spotify.com/album/42jFcn7WDz3hkdkEUUQaM7) | 0:29 | 2021-11-19 |  |
 | [roll over, baby](https://open.spotify.com/track/6tbtPAY92umzdAlQQOdJkB) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [roll over, baby](https://open.spotify.com/album/68MzlG2mwETSByGOWCkMD8) | 3:24 | 2021-11-19 |  |
 | [Run](https://open.spotify.com/track/0QXHHEi0rHMwmkxK5pvc05) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Malibu Nights](https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za) | 3:48 | 2021-11-19 |  |
 | [sad](https://open.spotify.com/track/6guqC53ktWrwIuXOMApLbV) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [mama's boy](https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP) | 3:19 | 2021-11-19 |  |
@@ -61,7 +61,7 @@
 | [Walk Away](https://open.spotify.com/track/79XlfHDVYTMeqb2UR3ojEA) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Make Out](https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh) | 3:51 | 2021-11-19 |  |
 | [when you're drunk](https://open.spotify.com/track/0Bv25hxffynRiTkRvlPxw0) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [mama's boy](https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP) | 3:32 | 2021-11-19 |  |
 | [WHERE THE HELL ARE MY FRIENDS](https://open.spotify.com/track/4TA2nSix6i8K2VV9wt6rUn) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [WHERE THE HELL ARE MY FRIENDS](https://open.spotify.com/album/34ySll9UQXpSngEI0NJbFO) | 3:36 | 2021-11-19 |  |
-| [yea, babe, no way](https://open.spotify.com/track/2BL0OrWVgMzEUFdTbfRf0W) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [kinda](https://open.spotify.com/album/42jFcn7WDz3hkdkEUUQaM7) | 3:39 | 2021-11-19 |  |
+| [yea, babe, no way](https://open.spotify.com/track/2BL0OrWVgMzEUFdTbfRf0W) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [kinda](https://open.spotify.com/album/42jFcn7WDz3hkdkEUUQaM7) | 0:29 | 2021-11-19 |  |
 | [you!](https://open.spotify.com/track/4lSMKPkbZOAYPw3zxJ2eAF) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [you!](https://open.spotify.com/album/5Ob72SRWEGd36eRlASw6k2) | 4:34 | 2021-11-19 |  |
 | [youarefire](https://open.spotify.com/track/32NhGuyYmzL8uBM164QV33) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [I Loved You.](https://open.spotify.com/album/3hKjzbCr8wCNcjr54dYYv6) | 3:35 | 2021-11-19 |  |
 

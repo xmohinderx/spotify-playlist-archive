@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 
 > Carnival 2022 is in session, follow Kes as he takes us on a trip to Trinidad & Tobago
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,085 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,103 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 | 10 | [Out and Bad](https://open.spotify.com/track/2ycagZcHEqX3rPC44TIf5P) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Out and Bad](https://open.spotify.com/album/3yOplnxQdhPRwwv2IXH9kJ) | 3:24 |
 | 11 | [Happy Place](https://open.spotify.com/track/1BSJqgJMLhrp08utzoJDf7) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [The Backyard Jam](https://open.spotify.com/album/5rJPzIYo2g2HOdwbDEnQYe) | 3:48 |
 | 12 | [A Little Wine](https://open.spotify.com/track/35EHnUnphbYnA2B5oFBCx6) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Spanish Fly Riddim](https://open.spotify.com/album/5RUz93zJPiT2Lb8sLMMF8W) | 3:23 |
-| 13 | [Guh Down \(Remix\) \(feat\. Lil Rick\)](https://open.spotify.com/track/0fZ8ZJbCcGgiHBVN7TQIk3) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [The Return](https://open.spotify.com/album/4T4qIeRhgBXcGoY5Sc18oq) | 3:27 |
+| 13 | [Guh Down \(Remix\) \(feat\. Lil Rick\)](https://open.spotify.com/track/0fZ8ZJbCcGgiHBVN7TQIk3) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [The Return](https://open.spotify.com/album/4T4qIeRhgBXcGoY5Sc18oq) | 0:29 |
 | 14 | [People Business](https://open.spotify.com/track/7rLJbb31h0CC3KIfDxBvzJ) | [Teddyson John](https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp), [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x) | [People Business](https://open.spotify.com/album/6RDhsuM9IPsYwrgaxAQshk) | 3:00 |
 | 15 | [Up In The Party](https://open.spotify.com/track/27DPusjnPmFU2ocLC4hUlc) | [Jadel](https://open.spotify.com/artist/7KyDUKtDsgx2cXDCaywYWH) | [Buddy Pass Riddim](https://open.spotify.com/album/4A6riOxllXc7umV09PSViF) | 2:22 |
 | 16 | [BAM BAM](https://open.spotify.com/track/6viM8AjIw2kdqx2vqBUiQ4) | [DJ Private Ryan](https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp), [Sekon Sta](https://open.spotify.com/artist/6Jkbr7HmDNtlnBjWL3BdNk), [Salty](https://open.spotify.com/artist/5wTiDWdoGJYXviy2rK8Out) | [Beauty And The Beast Project](https://open.spotify.com/album/4RMF5JlF2DKPTSsJR36Fay) | 3:17 |
-| 17 | [Can You Feel It](https://open.spotify.com/track/6Fzy0v8BwwGk38cB45jbzV) | [DJ Private Ryan](https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp), [Terri Lyons](https://open.spotify.com/artist/54Pc87vBkLMKbQfrd7ZWxF) | [Can You Feel It](https://open.spotify.com/album/46f9lGS1JlRVi822uJoJ3J) | 3:22 |
+| 17 | [Can You Feel It](https://open.spotify.com/track/6Fzy0v8BwwGk38cB45jbzV) | [DJ Private Ryan](https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp), [Terri Lyons](https://open.spotify.com/artist/54Pc87vBkLMKbQfrd7ZWxF) | [Can You Feel It](https://open.spotify.com/album/46f9lGS1JlRVi822uJoJ3J) | 0:29 |
 | 18 | [All I Need](https://open.spotify.com/track/6F721B9BrRiEiSTyK554rZ) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA) | [All I Need](https://open.spotify.com/album/5tJt1IXP2O1bI3IOwCFgBy) | 2:57 |
 | 19 | [Trouble in the Morning](https://open.spotify.com/track/5fb4ALf0u5HaPhe5cL6mEM) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG) | [The Morning After Riddim](https://open.spotify.com/album/6soIeQllZJBYpOvQU9TGo1) | 3:30 |
 | 20 | [Hookin' Meh](https://open.spotify.com/track/7a3UBZZ4md9nJUDQbxqk7W) | [Farmer Nappy](https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN) | [Hooked on Soca](https://open.spotify.com/album/4O3wKLSGhkJojPEesmcoGu) | 3:03 |

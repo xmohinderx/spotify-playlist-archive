@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر\. الغلاف: حوده بندق
 
-69 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/6wRFf7uC9LQg9LaJkbdbju)
+69 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/6wRFf7uC9LQg9LaJkbdbju)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [انا غلط وانت صح](https://open.spotify.com/track/1kLxQJLEyMXdy3RFj5x9Lh) | [مسلم](https://open.spotify.com/artist/3T3MXGyT0JUhh8QiW7X2Ha) | [انا غلط وانت صح](https://open.spotify.com/album/5Z2jCHB5aj0SP0ZiC86xS9) | 2:48 | 2021-12-16 |  |
 | [انا في حاجه هتجنني](https://open.spotify.com/track/326wv1lze9tMWa8u4XUdaW) | [7l2olo](https://open.spotify.com/artist/6ZgtIJDAZHRNfnkSZI1oJt), [Mody Amin](https://open.spotify.com/artist/65PQtmRWkjiL4TrRyLo2Gx), [Ali Adora](https://open.spotify.com/artist/1YBCglSx16gpk34ayxU5Dp) | [انا في حاجه هتجنني](https://open.spotify.com/album/4Qi3pkAcgvhIu8zoRT5IwS) | 4:44 | 2021-12-16 | 2022-02-02 |
 | [انا مش بخير](https://open.spotify.com/track/3Wz60cK5MUiMOnuAWSFlKn) | [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [انا مش بخير](https://open.spotify.com/album/5nfgVXfzdSaayA7Zxt5RZ1) | 4:00 | 2022-02-24 |  |
-| [انتي قلبي](https://open.spotify.com/track/6FFbKaePLzo5jQLof1ZX5K) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Shaimaa El Maghraby](https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9) | [انتي قلبي](https://open.spotify.com/album/47KtVI2WQJoZXV0EE2e65m) | 3:12 | 2022-02-01 |  |
+| [انتي قلبي](https://open.spotify.com/track/6FFbKaePLzo5jQLof1ZX5K) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Shaimaa El Maghraby](https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9) | [انتي قلبي](https://open.spotify.com/album/47KtVI2WQJoZXV0EE2e65m) | 0:29 | 2022-02-01 |  |
 | [اندال اندال](https://open.spotify.com/track/6RpPYyGGMyDL9xfRcQfffj) | [Ahmed Moza](https://open.spotify.com/artist/4vOfY5JSqJJPspHqGp4EZl) | [اندال اندال](https://open.spotify.com/album/3f1ig6nQAQJrR778DlzNEr) | 4:03 | 2021-12-16 | 2022-01-11 |
 | [اوسكار \(قنبلة السوشيال ميديا\)](https://open.spotify.com/track/1l4FdHo3SVXuKAzuJdqYZ1) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Omar El Karwan](https://open.spotify.com/artist/2Ggdg8zHMqZpLyvlGS41Zr) | [اوسكار \(قنبلة السوشيال ميديا\)](https://open.spotify.com/album/6hBowQhPmpXID1e4oncCDZ) | 3:15 | 2021-12-16 |  |
 | [بوم طخ طخ](https://open.spotify.com/track/5vIONI8kvsS4S6ogssrCNG) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [بوم طخ طخ](https://open.spotify.com/album/0vvArbnHsNg0TfVDzqNJyu) | 4:27 | 2021-12-16 |  |
@@ -76,6 +76,6 @@
 | [يا اصفر](https://open.spotify.com/track/4zYPnTQw16Ep4dEEgvjQTu) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [يا اصفر](https://open.spotify.com/album/4enUdXXUFYoWg5I6TlKWE6) | 3:41 | 2022-02-24 |  |
 | [يا اصفر](https://open.spotify.com/track/5GGtKquPqPbdlom5OBeLqT) | [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv), [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [يا اصفر](https://open.spotify.com/album/7ILwar3dYtlYcXn0RNhsdR) | 3:52 | 2022-03-09 |  |
 | [يا سبايسي \(سجلتك على التليفون هارتي\)](https://open.spotify.com/track/5RmuMcCHkMTkos8SdnRohq) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Omar El Karwan](https://open.spotify.com/artist/2Ggdg8zHMqZpLyvlGS41Zr) | [يا سبايسي \(سجلتك على التليفون هارتي\)](https://open.spotify.com/album/7jvcy3vt3Jc5JaBiGS9vJO) | 2:28 | 2021-12-16 |  |
-| [يلا نفتح الحساب](https://open.spotify.com/track/0KMUn5bRLAYPJQSqIQk1Zf) | [احمد موزه](https://open.spotify.com/artist/7rXpNIZpdGCQIENvuY5jJx), [Essam Saasa](https://open.spotify.com/artist/5NlV2I6zpxnF0hodATO7wG) | [يلا نفتح الحساب](https://open.spotify.com/album/2AWPjLpGszbfWgmYlBHKHf) | 3:48 | 2022-01-10 |  |
+| [يلا نفتح الحساب](https://open.spotify.com/track/0KMUn5bRLAYPJQSqIQk1Zf) | [احمد موزه](https://open.spotify.com/artist/7rXpNIZpdGCQIENvuY5jJx), [Essam Saasa](https://open.spotify.com/artist/5NlV2I6zpxnF0hodATO7wG) | [يلا نفتح الحساب](https://open.spotify.com/album/2AWPjLpGszbfWgmYlBHKHf) | 0:29 | 2022-01-10 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

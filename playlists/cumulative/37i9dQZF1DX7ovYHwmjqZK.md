@@ -4,7 +4,7 @@
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento
 
-100 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/6irLJVar0NJeoObqheLojG)
+100 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/6irLJVar0NJeoObqheLojG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Paz](https://open.spotify.com/track/55TtEDqfXTOKdjI53ruLpA) | [Luiz Lucas](https://open.spotify.com/artist/37Z26WT0bfNIrRztWbGv0p) | [Anos Dourados](https://open.spotify.com/album/5uap9XbIdjhq3W1b6YjiKx) | 5:33 | 2021-11-26 |  |
 | [A Sombra do Meu Chapéu](https://open.spotify.com/track/6Dwi2vYqRAnD9rgKiZ8xQn) | [Rua das Pretas](https://open.spotify.com/artist/6FO2vyH5GHk0koe5TM7wjj), [Pierre Aderne](https://open.spotify.com/artist/4aIwULwYjN16CYIo39SJ6Z), [Nani Medeiros](https://open.spotify.com/artist/5294nZvyDPiw4PyyfQjD0z) | [Um Copo de Fado, Dois de Bossa Nova](https://open.spotify.com/album/0iqjItAMzNw18X8PYQQywG) | 5:02 | 2021-11-26 |  |
 | [A Voz do Brasil](https://open.spotify.com/track/0WaoKmi9KZWGUNAF7cY1uB) | [Lili Araujo](https://open.spotify.com/artist/2iXd6VRxzOvYMyGcHu1sfs) | [Dájazz](https://open.spotify.com/album/0wkPikoZerD96sxZPiwBST) | 5:03 | 2021-11-26 |  |
-| [Afro Choro](https://open.spotify.com/track/5H94YLx13J8JHNQp5HFjLg) | [Hamilton De Holanda](https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [Afro Choro](https://open.spotify.com/album/012JXOucxhsjzsyRPY1bMP) | 4:58 | 2021-11-26 |  |
+| [Afro Choro](https://open.spotify.com/track/5H94YLx13J8JHNQp5HFjLg) | [Hamilton De Holanda](https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [Afro Choro](https://open.spotify.com/album/012JXOucxhsjzsyRPY1bMP) | 0:29 | 2021-11-26 |  |
 | [All or Nothing at All](https://open.spotify.com/track/5Y70U7gxCIL0nEcp65FjE0) | [Billy Sides Trio](https://open.spotify.com/artist/4XG3dvGDIQxdbNHAa5tgTn) | [All or Nothing at All](https://open.spotify.com/album/4jRow9QSZKH0ik7T4LilYo) | 6:15 | 2021-11-26 |  |
 | [Allora Allor](https://open.spotify.com/track/6bNE6tP41XZAEAiYV9Rq0X) | [Piero Bianchi](https://open.spotify.com/artist/4D5VxntFo9nJEFxiVgALVy), [Ricardo Chacon](https://open.spotify.com/artist/5mHugJovhQFoVL1PTsunXU) | [Terra Papagali Coffee Shop](https://open.spotify.com/album/3q60h8km0is6TAC3w4hncb) | 2:35 | 2021-11-26 |  |
 | [Além da Bossa](https://open.spotify.com/track/7eoYRn9t2a0XprCvLLW7lZ) | [Carlos Lyra](https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS), [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Além da Bossa](https://open.spotify.com/album/19GvUGWM0Nxpeu9tAT3fnq) | 3:45 | 2021-11-26 |  |
@@ -85,7 +85,7 @@
 | [Samba Dolente](https://open.spotify.com/track/6qbo26M43ipM0bTF5SgzzR) | [Francis Hime](https://open.spotify.com/artist/0fSXB6V1mhguJCAN7pLzu6) | [Hoje](https://open.spotify.com/album/6CRvZxZavDdvzqjJbVcx2I) | 3:54 | 2021-11-26 |  |
 | [Samba E Amor](https://open.spotify.com/track/1e1TMmjzesb5AzbBLn3yrj) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [A Bossa De Caetano](https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv) | 2:52 | 2021-11-26 |  |
 | [Samba Sem Verão](https://open.spotify.com/track/5W5wploZHg8Y2CpiwTp1l9) | [Marcio Nucci](https://open.spotify.com/artist/5emBFil4bHt1h81zHDIhsa), [Delia Fischer](https://open.spotify.com/artist/4ervLQixU78Enkn5yLnGdG), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d) | [Samba Sem Verão](https://open.spotify.com/album/76pPBEo0uNo1NB1t7BKijH) | 4:13 | 2021-11-26 |  |
-| [Sambete](https://open.spotify.com/track/5FLvvnxzuhVPZIgDroYY6I) | [Zé Paulo Becker](https://open.spotify.com/artist/0dsqfNACo3h5n5Ed6rgKG2) | [Semente Chorojazz](https://open.spotify.com/album/06sIxnlL5TlCXfehFM33m9) | 4:27 | 2021-11-26 |  |
+| [Sambete](https://open.spotify.com/track/5FLvvnxzuhVPZIgDroYY6I) | [Zé Paulo Becker](https://open.spotify.com/artist/0dsqfNACo3h5n5Ed6rgKG2) | [Semente Chorojazz](https://open.spotify.com/album/06sIxnlL5TlCXfehFM33m9) | 0:29 | 2021-11-26 |  |
 | [Saudade da Saudade](https://open.spotify.com/track/70ig40aEN4esNMLSOAQWlR) | [Zé Miguel Wisnik](https://open.spotify.com/artist/4yazl771ZuBfsAKt6wyCbV), [José Miguel Wisnik](https://open.spotify.com/artist/5FVYrkTlyUHUXegj892Zni), [Alaíde Costa](https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs), [Sérgio Reze](https://open.spotify.com/artist/2n7NzG02khB453J56v7q2m), [Zeca Assumpção](https://open.spotify.com/artist/7gKUlLG0rXbo1vFLzl59AF) | [O Anel \- Alaíde Costa Canta José Miguel Wisnik](https://open.spotify.com/album/0pOnNIts6BIQjTLM7w41Hy) | 4:14 | 2021-11-26 |  |
 | [Se Acontecer](https://open.spotify.com/track/1PuqbHqhn1uGiT6xTyt4hw) | [Luciana Souza](https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM) | [Storytellers](https://open.spotify.com/album/79Nec7JBai5QMAC0PX81ic) | 5:10 | 2021-11-26 |  |
 | [Seres Incriveis](https://open.spotify.com/track/6k1V8fUxya4uGTu5gRZ1OW) | [Jair Oliveira](https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV) | [Selfie](https://open.spotify.com/album/7Al9VuPMLbkh6hjL90GFgz) | 3:07 | 2021-11-26 |  |

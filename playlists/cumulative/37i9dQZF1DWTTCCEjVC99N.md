@@ -4,7 +4,7 @@
 
 > Ya Wailee! Get ready for some serious 00s nostalgia\. Cover : Nancy Ajram
 
-63 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/7AMijtVhbae7derUkv7JiM)
+63 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/7AMijtVhbae7derUkv7JiM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Aktar Wahed](https://open.spotify.com/track/5d0PC29PLRZqem6ZvjXkg2) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Aktar Wahed Beihebak](https://open.spotify.com/album/3QDQnBiAmCcBndBaswQBk6) | 4:29 | 2021-12-06 |  |
 | [Allah Aleik Ya Seedy](https://open.spotify.com/track/2vknxlulbj1JApedTlmrZv) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Homma Kelmetain](https://open.spotify.com/album/4bZTy2HzhtQo2bwXs1EAUy) | 3:39 | 2021-12-06 |  |
 | [Ana Wala Aref](https://open.spotify.com/track/1MfhtMuyW4HgH9NzUvRJkH) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Ya Bent El Ea](https://open.spotify.com/album/4ma9wxBx1ammYF4q3EsQ94) | 4:51 | 2021-12-06 |  |
-| [Ana Wel Shog](https://open.spotify.com/track/3PhIFsnWr59wvfxR2dj64x) | [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh) | [Myriam](https://open.spotify.com/album/6iUy4VnIeT9xthSA9RuiTq) | 4:35 | 2021-12-06 |  |
+| [Ana Wel Shog](https://open.spotify.com/track/3PhIFsnWr59wvfxR2dj64x) | [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh) | [Myriam](https://open.spotify.com/album/6iUy4VnIeT9xthSA9RuiTq) | 0:29 | 2021-12-06 |  |
 | [Arabiyon Ana](https://open.spotify.com/track/35X8LBtskXgpURRUjyVoxq) | [Yuri Mrakadi](https://open.spotify.com/artist/5xIr5twGDcX741C7Oa18X2) | [Bellydance Superstars Vol\. IV](https://open.spotify.com/album/74rfF3sfdpJXVpyIpeO18B) | 4:44 | 2021-12-06 |  |
 | [Arraby Leya](https://open.spotify.com/track/2CCuNRmNuZXqlnSLs75qN4) | [Samo Zaen](https://open.spotify.com/artist/4s7xsFTPsZZcIzKv0Ryg22) | [Arraby Leya](https://open.spotify.com/album/2jBsjUNWT1qKhYEZVXlnj0) | 4:14 | 2021-12-06 |  |
 | [El Hantoor](https://open.spotify.com/track/1raaYGCQJY0P6nDSICeVxx) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP), [Amina](https://open.spotify.com/artist/5oqJdJiiqwYKUk1U4kFB2w) | [Qesset El Hay El Shaby](https://open.spotify.com/album/5PmiFejVfRvy3UbUelf8p4) | 3:54 | 2021-12-06 |  |
@@ -49,7 +49,7 @@
 | [Sahran](https://open.spotify.com/track/0HZC3QV8Q9gyqgsFBsCTVQ) | [Ahmed El Sherif](https://open.spotify.com/artist/11rEfO1VJ1WYgXEeXCNLfM) | [Bein Enass](https://open.spotify.com/album/5vLNsP0MNjlN6WZWI3CmbR) | 3:50 | 2021-12-06 |  |
 | [Shik Shak Shok](https://open.spotify.com/track/375TR2xdJLLeXkzceGzfq4) | [Hassan Abou Seoud](https://open.spotify.com/artist/7g4J1MFlUtDs117ACUxoUu) | [Shik Shak Shok](https://open.spotify.com/album/7D9ZZlV2MXfNWrM2ZXd2sb) | 5:32 | 2021-12-06 |  |
 | [Sidi Wesalak](https://open.spotify.com/track/5cV4VJEn6EeMbPYA1mwydl) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Leih Sebtaha](https://open.spotify.com/album/0LyRF1HsXB2HP971UZNRPQ) | 5:16 | 2021-12-06 |  |
-| [Tamally Maak](https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Tamally Maak](https://open.spotify.com/album/1qmAaW25CPUyam9Wrp9ZEu) | 4:29 | 2021-12-06 |  |
+| [Tamally Maak](https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Tamally Maak](https://open.spotify.com/album/1qmAaW25CPUyam9Wrp9ZEu) | 0:29 | 2021-12-06 |  |
 | [Tararam](https://open.spotify.com/track/6wxXxapAHwpxgHdB0FCax2) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Meen Ana](https://open.spotify.com/album/26ZTjcVfkvcQLowlbwCYGl) | 3:45 | 2021-12-06 |  |
 | [Tehlefly Asada](https://open.spotify.com/track/6Fa206Tdaj7QioM9XQsZGh) | [Wama](https://open.spotify.com/artist/7yB2bLPVo9PoqeN9c1T6UN) | [Ya Ghaly Alaya](https://open.spotify.com/album/2mZbo3T8JPKZQmYHnlGiWP) | 3:51 | 2021-12-06 |  |
 | [Tetraga Feya](https://open.spotify.com/track/0pWNpTm2RtWdYbVZVxUC6N) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Habeeb El Alb](https://open.spotify.com/album/0N6f8GhfijcS2cNAZRNS6h) | 5:30 | 2021-12-06 |  |

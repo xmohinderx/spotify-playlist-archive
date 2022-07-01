@@ -4,7 +4,7 @@
 
 > Putte i Parken arrangeras i år för femte året i rad\. Sommarens festival går av stapeln den 4 \- 7 juli i Karlstad\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
-79 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/28tsHK2ttzhwW3zEtx3Gpk)
+79 songs - 5 hr 32 min - [published](https://open.spotify.com/playlist/28tsHK2ttzhwW3zEtx3Gpk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Alla för sig](https://open.spotify.com/track/7z5yXEOW7XnpAOQgJQUGDB) | [Jonas Lundqvist](https://open.spotify.com/artist/5zGcn4MRRQ6nB88eyh9TX7) | [Så e de me de](https://open.spotify.com/album/6DHcDjMrGSIjYHmZWOBa79) | 4:18 | 2012-05-07 |  |
 | [Apex Of The Sun](https://open.spotify.com/track/582ItQ1Y1EUGlQwYbkJ9HF) | [Fibes, Oh Fibes!](https://open.spotify.com/artist/0MGJBcGDyvsk2Qczlmvx8W) | [Apex Of The Sun](https://open.spotify.com/album/5CjEBgXB9HZX28UqpsHnSt) | 4:08 | 2012-05-07 |  |
 | [Askan är den bästa jorden](https://open.spotify.com/track/0rJ11PgSzRDjDPBQOQ3wLP) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Mänsklig värme](https://open.spotify.com/album/0snLl5NOtBxWegGE6BHJ4Y) | 3:07 | 2012-05-07 |  |
-| [Beväpna dig med vingar](https://open.spotify.com/track/6HGm0lE0Oh7pdOVBFKdFLY) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Beväpna dig med vingar](https://open.spotify.com/album/2xMq0DLaCb66hJ2pt5Y6m8) | 5:16 | 2012-05-07 |  |
+| [Beväpna dig med vingar](https://open.spotify.com/track/6HGm0lE0Oh7pdOVBFKdFLY) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Beväpna dig med vingar](https://open.spotify.com/album/2xMq0DLaCb66hJ2pt5Y6m8) | 0:29 | 2012-05-07 |  |
 | [Beyond](https://open.spotify.com/track/0exUgJcl8O7QKei0k89MqZ) | [MRTN](https://open.spotify.com/artist/6no7WjQsyC1eDUWZFIawY9) | [Beyond](https://open.spotify.com/album/1S5Bxa42zATDqH9jktSfbS) | 4:12 | 2012-05-07 |  |
 | [Big In Japan](https://open.spotify.com/track/2MVBdpCOyFYmUzzUTBJuJZ) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Big In Japan](https://open.spotify.com/album/5opx7f1ypN3oP9lKhhkP2Y) | 3:09 | 2012-05-07 |  |
 | [Blue And Alone](https://open.spotify.com/track/1mzB4n17TM91Nxdn1ftjXm) | [Weeping Willows](https://open.spotify.com/artist/6f3he2xOHHHSZ0JVhTRIVj) | [Broken Promise Land](https://open.spotify.com/album/2YANW829wv0OxMQSuhUXTF) | 4:05 | 2012-05-07 |  |
@@ -66,7 +66,7 @@
 | [Roll the Dice \- Original Mix](https://open.spotify.com/track/20fQygA5qvm1WH24lUmmCr) | [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4) | [Roll the Dice](https://open.spotify.com/album/7FoTaURaFOfgCnX9tXDcnV) | 6:10 | 2012-05-07 |  |
 | [Saints & Sinners](https://open.spotify.com/track/5junj49WaCpCj9emkcZXac) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Saints & Sinners](https://open.spotify.com/album/17RschsEsbMq4AlJkXSCMf) | 3:31 | 2012-05-07 |  |
 | [Saknade Vänner](https://open.spotify.com/track/598BgYwZQN0sFb6m5slUDq) | [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [Saknade Vänner](https://open.spotify.com/album/6mghpaMDvvNfeYA8UideOd) | 3:45 | 2012-05-07 |  |
-| [Samarkanda](https://open.spotify.com/track/1t9Obgo7bELEcyHvhmbZpg) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Beväpna dig med vingar](https://open.spotify.com/album/2xMq0DLaCb66hJ2pt5Y6m8) | 4:39 | 2012-05-07 |  |
+| [Samarkanda](https://open.spotify.com/track/1t9Obgo7bELEcyHvhmbZpg) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Beväpna dig med vingar](https://open.spotify.com/album/2xMq0DLaCb66hJ2pt5Y6m8) | 0:29 | 2012-05-07 |  |
 | [Scream](https://open.spotify.com/track/6Ni37ZxZk1ybOR1yRLRGRw) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Scream](https://open.spotify.com/album/3oFozwGCAMMgibERs8W4dh) | 6:14 | 2012-05-07 |  |
 | [Snälla TV plz](https://open.spotify.com/track/3nj2bxr2yzfw4GDD3WOg9V) | [Slagsmålsklubben](https://open.spotify.com/artist/4TzSCfS4LS5SVChh2AB2wH) | [The Garage](https://open.spotify.com/album/0tthgvpkAWMqCgPcIMZtY1) | 4:41 | 2012-05-07 |  |
 | [Soldier](https://open.spotify.com/track/0MhCb3iakymVqQIOeYPSUf) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Sweeter](https://open.spotify.com/album/2zVRgW8bXd7ukXRZSWw81j) | 3:31 | 2012-05-07 |  |

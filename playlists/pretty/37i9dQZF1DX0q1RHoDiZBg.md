@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 
 > Fresh takes—from new revisions and iconic covers to unexpected versions and the songwriter's own covers\. Cover: <a href="spotify:artist:74ASZWbe4lXaubB36ztrGX">Bob Dylan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,168 likes - 92 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,223 likes - 92 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 | 25 | [Just Like Tom Thumb's Blues](https://open.spotify.com/track/1E1qWlczlv3IEpAZfQ5lJr) | [The Handsome Family](https://open.spotify.com/artist/72PnPUc1qv9UjRPaGVZ1jq) | [Scattered](https://open.spotify.com/album/06iGGLNnQrEjhP9JkG7Kgo) | 5:39 |
 | 26 | [Blowin' in the Wind \- 2004 Remaster](https://open.spotify.com/track/0XIe81wYNtdvIttRAUEau4) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [The Very Best of Peter, Paul and Mary](https://open.spotify.com/album/14Qo0TZ3M82PC4EFTt39X0) | 2:56 |
 | 27 | [Baby, I'm In The Mood For You](https://open.spotify.com/track/50ZHlDg707OUDn61nba1gy) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Odetta Sings Dylan](https://open.spotify.com/album/2laIs6Ws4MhFazcJpFgZ34) | 2:48 |
-| 28 | [To Ramona](https://open.spotify.com/track/2YIFEhugIuCCMK7rttQSPz) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Cryin' to You](https://open.spotify.com/album/3SoEcGncHdNs6qEoRLaWlj) | 4:36 |
+| 28 | [To Ramona](https://open.spotify.com/track/2YIFEhugIuCCMK7rttQSPz) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Cryin' to You](https://open.spotify.com/album/3SoEcGncHdNs6qEoRLaWlj) | 0:29 |
 | 29 | [A Hard Rain's A Gonna Fall](https://open.spotify.com/track/3IfL6ToMZmiMjIxvrtMPev) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Listen To Bob Dylan \- A Tribute](https://open.spotify.com/album/1lkp6bU55AW0FjGvmCr5bI) | 8:12 |
 | 30 | [I Could Have Told You](https://open.spotify.com/track/4kRh9lyQMQyg0MK1kzKAzN) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Triplicate](https://open.spotify.com/album/5coSubIBt21W8V40Po41pY) | 3:36 |
 | 31 | [The Lonesome Death Of Hattie Carroll](https://open.spotify.com/track/2lnrxXWkV6JHJjSIUtLLeL) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Chimes Of Freedom: The Songs Of Bob Dylan Honoring 50 Years Of Amnesty International](https://open.spotify.com/album/1SB9SD66SM04dm8wZdLatY) | 4:59 |
@@ -75,12 +75,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 | 65 | [I'll Be Your Baby Tonight](https://open.spotify.com/track/0QicMFiH82PB8oTPH7sGuy) | [The Hollies](https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ) | [Live in London \(Live\)](https://open.spotify.com/album/4gM5z3V8hh4I5qnMpzbbde) | 3:30 |
 | 66 | [Mr\. Tambourine Man](https://open.spotify.com/track/3AKHCVgvvSJFWln2LEBVtC) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Odetta Sings Dylan](https://open.spotify.com/album/2laIs6Ws4MhFazcJpFgZ34) | 10:43 |
 | 67 | [Lord Protect My Child](https://open.spotify.com/track/7pEevLRzUALbFAIBzJOx1c) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Hope And Desire](https://open.spotify.com/album/3i8UR9bri6o0FXLgMsGFeY) | 4:44 |
-| 68 | [All Along the Watchtower](https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 4:00 |
+| 68 | [All Along the Watchtower](https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 0:29 |
 | 69 | [Leopard\-Skin Pill\-Box Hat](https://open.spotify.com/track/0GgX7GIRa6l3MVFRa583Az) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [War Child \- Heroes Vol.1](https://open.spotify.com/album/68Q7huXVb1AVSUPtORn1qq) | 3:02 |
 | 70 | [New Pony](https://open.spotify.com/track/3zPtnhckq6bq36hqTaXW57) | [The Dead Weather](https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V) | [Horehound](https://open.spotify.com/album/748kQyYY7WAP6fMSBjV7l8) | 3:56 |
 | 71 | [Most Likely You Go Your Way and I'll Go Mine \(Live\)](https://open.spotify.com/track/1ztVU8vK82sWK1zQEIWYzP) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [50 Years of Blonde on Blonde \(Live\)](https://open.spotify.com/album/0uyUriz7zOAn1G9sB8zH8e) | 3:37 |
 | 72 | [Wicked Messenger](https://open.spotify.com/track/6L6ny8iKcFYdvA6CN3AKCR) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Gone Again](https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi) | 3:48 |
-| 73 | [Wanted Man \- 2009 Remastered Version](https://open.spotify.com/track/3kbUGSzvf1ENLHVEfoEeHH) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Firstborn Is Dead \(2009 Remastered Version\)](https://open.spotify.com/album/3ip2AtmEWIwqcdpdnXTx1o) | 5:26 |
+| 73 | [Wanted Man \- 2009 Remastered Version](https://open.spotify.com/track/3kbUGSzvf1ENLHVEfoEeHH) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Firstborn Is Dead \(2009 Remastered Version\)](https://open.spotify.com/album/3ip2AtmEWIwqcdpdnXTx1o) | 0:29 |
 | 74 | [Maggie's Farm](https://open.spotify.com/track/2t0tVmiSkHWvKgojpjO21Z) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Renegades](https://open.spotify.com/album/6iVOwFVjFRoQPgj8GUwSsi) | 6:34 |
 | 75 | [Stuck Inside of Mobile with the Memphis Blues Again](https://open.spotify.com/track/43yoPh5r95O0sltSQoY6Iw) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [I'm Not There \(Music From The Motion Picture\)](https://open.spotify.com/album/6ZSp2CcRWdyTm50DbI9MAX) | 6:53 |
 | 76 | [Ballad of a Thin Man](https://open.spotify.com/track/24PBFl3YtSkU2QeQ9z0Ys8) | [Stephen Malkmus](https://open.spotify.com/artist/0WISkx0PwT6lYWdPqKUJY8), [The Million Dollar Bashers](https://open.spotify.com/artist/2wdvUIaVFlQTfdUb7yN7kl) | [I'm Not There \(Music From The Motion Picture\)](https://open.spotify.com/album/6ZSp2CcRWdyTm50DbI9MAX) | 6:49 |

@@ -4,7 +4,7 @@
 
 > These beautifully\-hypnotising vocalists are bound to make your evenings more chilling than ever.
 
-71 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/6I9zKrFBIVKUckprWsUFLc)
+71 songs - 4 hr 23 min - [published](https://open.spotify.com/playlist/6I9zKrFBIVKUckprWsUFLc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [come out and play](https://open.spotify.com/track/7wC5eZcFS1Q1BsQ35DU6H4) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [come out and play](https://open.spotify.com/album/0ifM8RTX9HjtCJtY9452bW) | 3:30 | 2021-08-19 |  |
 | [Corset.](https://open.spotify.com/track/4OUWZo6p7Kf7Oqe9dovS00) | [Keigo.](https://open.spotify.com/artist/3YkzB5L1vnpsFgIS849R7y), [Paulo Herrera](https://open.spotify.com/artist/3m1FQvDukcgiSWImE3Flqb) | [Corset.](https://open.spotify.com/album/6tK73Hl7cCf9E0PHmQzYtS) | 2:07 | 2021-08-19 |  |
 | [Dawn](https://open.spotify.com/track/1ZD9gnpU4yex0ZLSpcG1Ub) | [Amy Cashmore](https://open.spotify.com/artist/26192SYpy5QVTYfgOEwM81) | [Up on the 20th Floor](https://open.spotify.com/album/3fzs4EDpSrqs0TVZAUvkg8) | 2:29 | 2021-08-19 |  |
-| [Daydream](https://open.spotify.com/track/2maRlyHobUhKKO6rF9S8ez) | [Odelia Rei](https://open.spotify.com/artist/7G7I02yeiNBx3WwKYWlpaA) | [Daydream](https://open.spotify.com/album/0G1SAm9dDdCyDEksXPQTp0) | 2:17 | 2021-08-19 |  |
+| [Daydream](https://open.spotify.com/track/2maRlyHobUhKKO6rF9S8ez) | [Odelia Rei](https://open.spotify.com/artist/7G7I02yeiNBx3WwKYWlpaA) | [Daydream](https://open.spotify.com/album/0G1SAm9dDdCyDEksXPQTp0) | 0:29 | 2021-08-19 |  |
 | [Dreamer \- Stripped Down](https://open.spotify.com/track/6yUs9h47yq1TLCuFNhtzyY) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Kaptan](https://open.spotify.com/artist/7yNfjZY3QJpm4cUj1i0fWD) | [Dreamer \(Stripped Down\)](https://open.spotify.com/album/6rgLhRgRjoZqTUfcpDFaQA) | 3:49 | 2021-08-19 |  |
 | [Electric Touch \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4ZRWxX9gfnsfKhQDRKoCui) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Spotify Singles](https://open.spotify.com/album/0pwbZvmxb1mwXNmIKupMnN) | 3:28 | 2021-08-19 |  |
 | [Fading Away](https://open.spotify.com/track/6X2W8BdsSo736WcWPWnBVt) | [Black Canvas](https://open.spotify.com/artist/4jsU72QZKXz7S0A96GaIsq) | [Fading Away](https://open.spotify.com/album/25BMeyyajhbUivwr1m0gkR) | 3:59 | 2021-08-19 | 2022-06-01 |
@@ -31,7 +31,7 @@
 | [Hell To The Liars](https://open.spotify.com/track/72wmXZCWjyJuAFcKCf4xur) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Truth Is A Beautiful Thing \(Deluxe\)](https://open.spotify.com/album/4Wdxu6kwMIfqgTwCLDurM6) | 6:04 | 2021-08-19 |  |
 | [Home](https://open.spotify.com/track/4NfyJOFtDvZvBnRQGeGWs7) | [Duara](https://open.spotify.com/artist/1XOfH1UedJEI98CfjiDlyF) | [Home](https://open.spotify.com/album/4ZRKdHyUGWyRqxRiJ9MS4N) | 3:56 | 2021-08-19 |  |
 | [Homesick](https://open.spotify.com/track/3mluWGHKcF9mOYsEomom4G) | [Hashy](https://open.spotify.com/artist/4Jmv1DRK6zstwBwF2W91D1) | [Homesick](https://open.spotify.com/album/4z51veoICLyD9mARDIYA5M) | 2:35 | 2021-08-19 |  |
-| [Horizon](https://open.spotify.com/track/0BDJTB38QlbuLJYQuP3NBZ) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [Black Dog: Being a Teacher \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/2tJflNSw531Y0XW5KmabiA) | 4:14 | 2021-08-19 |  |
+| [Horizon](https://open.spotify.com/track/0BDJTB38QlbuLJYQuP3NBZ) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [Black Dog: Being a Teacher \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/2tJflNSw531Y0XW5KmabiA) | 0:29 | 2021-08-19 |  |
 | [I Went Too Far \- MK Remix / Radio Version](https://open.spotify.com/track/71GieY2cMEh4s7Unv00gnw) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [I Went Too Far \(MK Remix\)](https://open.spotify.com/album/2nZmJPlEBwQYyVqN46GoHP) | 3:57 | 2021-08-19 |  |
 | [I wish I can be Rich](https://open.spotify.com/track/4U2I8Fi2kN6TFpGogWkghW) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [I wish I can be Rich](https://open.spotify.com/album/612xHundAqZJb5bIZusjyC) | 3:46 | 2021-08-19 |  |
 | [ifyoulovesomeone](https://open.spotify.com/track/4eECknCDvsXWYyacuycw4J) | [Su San](https://open.spotify.com/artist/141YMyiz2ugK1AxTXDkUdx) | [ifyoulovesomeone](https://open.spotify.com/album/2Kva6Kzzr5m8k70U4dQA0r) | 3:26 | 2021-08-19 |  |

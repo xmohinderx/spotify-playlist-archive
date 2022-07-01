@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: Romantic Echoes (Indonesia)",
+  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: OOHYO (Korea)",
   "name": ".ORG",
   "published_playlist_ids": [
     "150ZZwzNCm1BXFjIA5T8kJ"
@@ -85,7 +85,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 183847,
       "name": "Aking Pagtingin",
       "url": "https://open.spotify.com/track/2UMGTqA4EQBhtWyjVmksGS"
@@ -348,6 +348,24 @@
     },
     {
       "album": {
+        "name": "Beachtown Boys",
+        "url": "https://open.spotify.com/album/4qk6kwLEPZctXrC6k2SeMb"
+      },
+      "artists": [
+        {
+          "name": "Sansette",
+          "url": "https://open.spotify.com/artist/2QZgUdDucCesAV9xVpZHyI"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147966,
+      "name": "Beachtown Boys",
+      "url": "https://open.spotify.com/track/3jPBFCltUQcJt65nLCqDFF"
+    },
+    {
+      "album": {
         "name": "Behind Your Dream",
         "url": "https://open.spotify.com/album/0WMN5tB3fb7c5BcXvdNOTz"
       },
@@ -490,7 +508,7 @@
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 135189,
+      "duration_ms": 29048,
       "name": "Bitter to See You",
       "url": "https://open.spotify.com/track/7ukcgnAM0U3eAZelLiFQuV"
     },
@@ -634,6 +652,42 @@
     },
     {
       "album": {
+        "name": "Bullseye",
+        "url": "https://open.spotify.com/album/4K9A9hREpor7KTRbriaF7C"
+      },
+      "artists": [
+        {
+          "name": "Jeong Jia",
+          "url": "https://open.spotify.com/artist/2dbUmZGHQxbgINmaqNxzz3"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245091,
+      "name": "Bullseye",
+      "url": "https://open.spotify.com/track/72klky41z2aZ5ft5YAxlDy"
+    },
+    {
+      "album": {
+        "name": "Cadillac",
+        "url": "https://open.spotify.com/album/4fhBoDPPc6EXjQvKuMfHbm"
+      },
+      "artists": [
+        {
+          "name": "Patinda",
+          "url": "https://open.spotify.com/artist/0phlhzC4Oi9uh5yJCFQtdH"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147867,
+      "name": "Cadillac",
+      "url": "https://open.spotify.com/track/1UfBoOR19ZMYASHCu60yfl"
+    },
+    {
+      "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/7kVBQXeu6cfieD0rCWZZCB"
       },
@@ -670,6 +724,24 @@
     },
     {
       "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/4ca6ff4Fm8ooLvsWr3lbbd"
+      },
+      "artists": [
+        {
+          "name": "Arches",
+          "url": "https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142450,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/1ITGuB4Tgap1WaDcbamsRI"
+    },
+    {
+      "album": {
         "name": "Pastor Pedro & The Candle Light Children, Vol. 01",
         "url": "https://open.spotify.com/album/0YTOYMjzjsoGvJcUkIra4s"
       },
@@ -681,7 +753,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 298909,
       "name": "Changes",
       "url": "https://open.spotify.com/track/2hfvgjrLurakx7qltP75KO"
@@ -853,6 +925,24 @@
       "duration_ms": 211968,
       "name": "Coeur Kamikaze \u5fc3\u8207\u6d77",
       "url": "https://open.spotify.com/track/1xut6DzmmqwYixQ5xRskZ1"
+    },
+    {
+      "album": {
+        "name": "CRAY CRAY",
+        "url": "https://open.spotify.com/album/6N5p0VTqHdBmeQKgumUyx5"
+      },
+      "artists": [
+        {
+          "name": "The Sulis Club",
+          "url": "https://open.spotify.com/artist/27vU0dOcGeurMc8VYTSfsQ"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195300,
+      "name": "CRAY CRAY",
+      "url": "https://open.spotify.com/track/4TWfqCndoNB9iXs9PNZ4qS"
     },
     {
       "album": {
@@ -1120,6 +1210,24 @@
     },
     {
       "album": {
+        "name": "Dreamland Ecstasy",
+        "url": "https://open.spotify.com/album/5FpdtfuwZWFH5Iibn9MKDC"
+      },
+      "artists": [
+        {
+          "name": "Weaties",
+          "url": "https://open.spotify.com/artist/0foXRONshhoO2y3oAlvMwc"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Favourite Fancy",
+      "url": "https://open.spotify.com/track/5yMwuzROEjjtgiR6NATaQX"
+    },
+    {
+      "album": {
         "name": "Feeling Free",
         "url": "https://open.spotify.com/album/5uchrvieuhlfxfrhDwFPtt"
       },
@@ -1221,7 +1329,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 370688,
       "name": "Forgot That We're Once",
       "url": "https://open.spotify.com/track/3mguOTnxR0SjzKdZOwKSSZ"
@@ -1247,7 +1355,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 224000,
       "name": "Fotan Jazz Club",
       "url": "https://open.spotify.com/track/2EThbrd13icX0eP6OPzdBR"
@@ -1327,7 +1435,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 323791,
       "name": "Gi\u1ea5c M\u01a1",
       "url": "https://open.spotify.com/track/4DgmIQldBtmOMAayyxc7wi"
@@ -1939,7 +2047,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 220327,
       "name": "Ladybug",
       "url": "https://open.spotify.com/track/4J7A5l3KlT1tyi6jfE5dSE"
@@ -2305,6 +2413,24 @@
       "duration_ms": 297217,
       "name": "Misteri",
       "url": "https://open.spotify.com/track/4PClCnwEKx130WNvnciXIp"
+    },
+    {
+      "album": {
+        "name": "Bye Summer!",
+        "url": "https://open.spotify.com/album/36RrBlXZvntyXzOhTmsEH5"
+      },
+      "artists": [
+        {
+          "name": "yewee",
+          "url": "https://open.spotify.com/artist/1zQITcXMrdgZWsBF0dgwXD"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236250,
+      "name": "mooindo drift",
+      "url": "https://open.spotify.com/track/6SDELeMG3kX00rO61PIAP6"
     },
     {
       "album": {
@@ -2924,7 +3050,7 @@
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 181622,
+      "duration_ms": 29048,
       "name": "Ride",
       "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
     },
@@ -2945,6 +3071,24 @@
       "duration_ms": 204114,
       "name": "saekdallian",
       "url": "https://open.spotify.com/track/6i2bypuzfzhz5CSCMQl22K"
+    },
+    {
+      "album": {
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/201HRpAg7J6Q5xI56HuLx9"
+      },
+      "artists": [
+        {
+          "name": "OOHYO",
+          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201080,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp"
     },
     {
       "album": {
@@ -3494,6 +3638,24 @@
     },
     {
       "album": {
+        "name": "Tori 2022",
+        "url": "https://open.spotify.com/album/4PPV8jiPVXJdyVjSCjXEb7"
+      },
+      "artists": [
+        {
+          "name": "V\u0169 Thanh V\u00e2n",
+          "url": "https://open.spotify.com/artist/5ptgjFDE2abY6Xwo4ytufN"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299428,
+      "name": "Tori 2022",
+      "url": "https://open.spotify.com/track/1e645b1filW7ajQi19fc5S"
+    },
+    {
+      "album": {
         "name": "Trust Me With This (Mama)",
         "url": "https://open.spotify.com/album/1RqwlxPfColbEHt2hsQaZO"
       },
@@ -3509,6 +3671,24 @@
       "duration_ms": 224664,
       "name": "Trust Me With This (Mama)",
       "url": "https://open.spotify.com/track/68zHOxA7F3MU6ow3e2LfzL"
+    },
+    {
+      "album": {
+        "name": "Tsuki (\u0e1e\u0e23\u0e30\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c)",
+        "url": "https://open.spotify.com/album/4rEDnBmCvEm0YksuClGr1x"
+      },
+      "artists": [
+        {
+          "name": "LANDOKMAI",
+          "url": "https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216986,
+      "name": "Tsuki - \u0e1e\u0e23\u0e30\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
+      "url": "https://open.spotify.com/track/5ykMYZvOASxQrj756r9UXx"
     },
     {
       "album": {
@@ -3541,7 +3721,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 243321,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ"
@@ -3567,6 +3747,24 @@
       "duration_ms": 199161,
       "name": "Undo (feat. Su)",
       "url": "https://open.spotify.com/track/3PPw7f955j5emJDS4hrjbs"
+    },
+    {
+      "album": {
+        "name": "Ungodly Hour",
+        "url": "https://open.spotify.com/album/1HEcdNKpssVwc7L25PTiul"
+      },
+      "artists": [
+        {
+          "name": "Kisnue",
+          "url": "https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179062,
+      "name": "Ungodly Hour",
+      "url": "https://open.spotify.com/track/3mB2Avm1nBMtxpZumvmdVy"
     },
     {
       "album": {
@@ -3716,6 +3914,24 @@
     },
     {
       "album": {
+        "name": "What Love Meant",
+        "url": "https://open.spotify.com/album/0DAn2VlU2jpAvuoXKdJZfx"
+      },
+      "artists": [
+        {
+          "name": "Dameer",
+          "url": "https://open.spotify.com/artist/1rTEkzUiftHqoVMjSucIV6"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269892,
+      "name": "What Love Meant",
+      "url": "https://open.spotify.com/track/51r4ThTtRZgGyDstKxgvgi"
+    },
+    {
+      "album": {
         "name": "Three",
         "url": "https://open.spotify.com/album/7vuIX2SrGXFpDAccHaFW8g"
       },
@@ -3825,7 +4041,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 231422,
       "name": "Witches",
       "url": "https://open.spotify.com/track/65rPQRPaiv7RLj6uCDrnQZ"
@@ -3991,7 +4207,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 220000,
       "name": "\u0e27\u0e34\u0e40\u0e28\u0e29 (Magic)",
       "url": "https://open.spotify.com/track/2Z9U0wFqsxoALv3qtJKlwH"
@@ -4117,7 +4333,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 315637,
       "name": "\u5348\u5f8c\u8ff7\u832b2021",
       "url": "https://open.spotify.com/track/3owVY1qeMZJxEMRVs0POkj"
@@ -4139,7 +4355,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 300833,
       "name": "\u591c\u665a\u7684\u7260\u77e5\u9053 (feat. Joh Ung)",
       "url": "https://open.spotify.com/track/3RrKD78bVbQgmYw8WLgtn4"
@@ -4157,7 +4373,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 230368,
       "name": "\u6211\u6bcb\u662f\u5201\u6545\u610f (\u99ac\u5d17\u6f01\u6751 Version) - WINDIE \u6536OUT!",
       "url": "https://open.spotify.com/track/1tJD2IVvz1wD5QvxKyvusv"

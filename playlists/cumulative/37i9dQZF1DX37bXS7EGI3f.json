@@ -734,7 +734,7 @@
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 314000,
+      "duration_ms": 29048,
       "name": "Charcoal",
       "url": "https://open.spotify.com/track/5T5u6OqOiGwk0M7pLi4Yaz"
     },
@@ -1345,7 +1345,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 231396,
       "name": "Event Horizon",
       "url": "https://open.spotify.com/track/6OH0OWVVHryjQxQfEnv4Fc"
@@ -1925,6 +1925,24 @@
       "duration_ms": 280280,
       "name": "Golden Dawn",
       "url": "https://open.spotify.com/track/6fHfS2jRIrP52heiBobADA"
+    },
+    {
+      "album": {
+        "name": "Towards The Dying Lands",
+        "url": "https://open.spotify.com/album/1VrGCLxkDyMH7u252PQO0I"
+      },
+      "artists": [
+        {
+          "name": "Horizon Ignited",
+          "url": "https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/7swJjRerIGDjEAz55QiQnJ"
     },
     {
       "album": {
@@ -3829,7 +3847,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 179093,
       "name": "PvP",
       "url": "https://open.spotify.com/track/46HFTyFqLMzSye98Arqa98"
@@ -4824,7 +4842,7 @@
       "date_added": "2021-11-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 275000,
+      "duration_ms": 29048,
       "name": "The Last Rays of the Sun",
       "url": "https://open.spotify.com/track/5RAVYLt6qwE6qAJISplSud"
     },
@@ -5721,6 +5739,24 @@
       "duration_ms": 354653,
       "name": "Wolves At The Door",
       "url": "https://open.spotify.com/track/4xcyvmg5RAdxdQRzvApaUN"
+    },
+    {
+      "album": {
+        "name": "World on Fire",
+        "url": "https://open.spotify.com/album/1q2nD6Ft2JwA6zTNrgezMj"
+      },
+      "artists": [
+        {
+          "name": "Stratovarius",
+          "url": "https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "World on Fire",
+      "url": "https://open.spotify.com/track/4LyJfkFQTpMHRSj0rCBgdo"
     },
     {
       "album": {

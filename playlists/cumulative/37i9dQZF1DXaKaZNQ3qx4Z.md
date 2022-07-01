@@ -4,7 +4,7 @@
 
 > Los grandes éxitos de Shakira y Alejandro Sanz en un mismo lugar.
 
-50 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/6mYuqeCD0z3bCRGzsxg0t1)
+50 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/6mYuqeCD0z3bCRGzsxg0t1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Antes de las Seis](https://open.spotify.com/track/5J5uyhoBZxJwmjy2Zg6DgF) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Sale el Sol](https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW) | 2:54 | 2021-12-09 |  |
 | [Antologia](https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 4:14 | 2021-12-09 |  |
 | [Aquello que me diste](https://open.spotify.com/track/5iua35KoPKyet49uHr7aaU) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 4:45 | 2021-12-09 |  |
-| [Beautiful Liar](https://open.spotify.com/track/2P5cIXejqLpHDQeCHAbbBG) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Beautiful Liar](https://open.spotify.com/album/26vwjM6FkX2nEx9I0FKmih) | 3:21 | 2021-12-09 |  |
+| [Beautiful Liar](https://open.spotify.com/track/2P5cIXejqLpHDQeCHAbbBG) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Beautiful Liar](https://open.spotify.com/album/26vwjM6FkX2nEx9I0FKmih) | 0:29 | 2021-12-09 |  |
 | [Camino De Rosas](https://open.spotify.com/track/2b7w3IfuuP0y64tPlr4cb2) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [La Música No Se Toca \(Deluxe\)](https://open.spotify.com/album/5O5LrflUeCNwNAsCQ5o0jk) | 4:20 | 2021-12-09 |  |
 | [Chantaje](https://open.spotify.com/track/1WniHvhq9zTkny0WvGXX8o) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Chantaje](https://open.spotify.com/album/3EwBqZP15qaDl3B6DuWXZ7) | 3:15 | 2021-12-09 |  |
 | [Corazón partío](https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 5:43 | 2021-12-09 |  |

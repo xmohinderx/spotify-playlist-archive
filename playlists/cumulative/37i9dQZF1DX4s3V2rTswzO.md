@@ -4,7 +4,7 @@
 
 > Spend some quality time with these romantic classical masterpieces.
 
-44 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/4Lf7xMUsMOHP7AyEwLcLqv)
+44 songs - 3 hr 34 min - [published](https://open.spotify.com/playlist/4Lf7xMUsMOHP7AyEwLcLqv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Schumann: Davidsbündlertänze, Op\. 6: No\. 17, Wie aus der Ferne](https://open.spotify.com/track/16kgdmPNxzDr4LsnitiHh4) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Stephen Hough](https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP) | [Schumann Fantasy Davidsbündlertanze](https://open.spotify.com/album/7q6NL1O809AKxu6oUPRcey) | 4:03 | 2021-12-20 |  |
 | [Sechs Klavierstücke, Op\. 118: II\. Intermezzo in A Major](https://open.spotify.com/track/1Oo7XEqkrwifJn17aA0ocF) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Arcadi Volodos](https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg) | [Volodos Plays Brahms](https://open.spotify.com/album/1zWSdYsAlF38LhpcMEthzO) | 6:18 | 2021-12-20 |  |
 | [Serenade for Strings in E Minor, Op\. 20: II\. Larghetto](https://open.spotify.com/track/6aD8MeXrjHNz7YgrTLHhyA) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [Sofja Gülbadamova](https://open.spotify.com/artist/3NJlQ88OdMORyyJsdCtQ7j) | [Idylle](https://open.spotify.com/album/28ioFoAg9H3hoTpxQhpYcT) | 6:47 | 2021-12-20 |  |
-| [Siegfried Idyll](https://open.spotify.com/track/0AoBVHrn422YM52l4TAS0P) | [Richard Wagner](https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE), [Swedish Chamber Orchestra](https://open.spotify.com/artist/1mlMBjVFn5oeZLAXHIM5no), [Thomas Dausgaard](https://open.spotify.com/artist/58CE0vlZwCJZ8pLzctnt2B) | [Wagner: Wesendonck\-Lieder \- Siegfried\-Idyll](https://open.spotify.com/album/3znjjW6oBlje6noIsHkF75) | 17:10 | 2021-12-20 |  |
+| [Siegfried Idyll](https://open.spotify.com/track/0AoBVHrn422YM52l4TAS0P) | [Richard Wagner](https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE), [Swedish Chamber Orchestra](https://open.spotify.com/artist/1mlMBjVFn5oeZLAXHIM5no), [Thomas Dausgaard](https://open.spotify.com/artist/58CE0vlZwCJZ8pLzctnt2B) | [Wagner: Wesendonck\-Lieder \- Siegfried\-Idyll](https://open.spotify.com/album/3znjjW6oBlje6noIsHkF75) | 0:29 | 2021-12-20 |  |
 | [String Quartet No\. 3, Op\. 44 No\. 1, MWV R30: II\. Menuetto\. Up poco allegretto](https://open.spotify.com/track/6tOJ0ShJiEx6XXUQ0NgbYj) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [Doric String Quartet](https://open.spotify.com/artist/5eY6Yc7jVMpdIXgUI2spLr) | [Mendelssohn: String Quartets, Vol\. 2](https://open.spotify.com/album/0bCanBuTghKVuMhttLQZca) | 5:10 | 2021-12-20 |  |
 | [Ständchen \(From Schwanengesang, D957\)](https://open.spotify.com/track/1Fye8VOMOlXxtBo02TpNWD) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Evgeny Kissin](https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ) | [Kissin Plays Liszt](https://open.spotify.com/album/3iN0jN2bjNrr6nLDS7ZAEE) | 6:15 | 2021-12-20 |  |
 | [Suite Bergamasque, L\. 75: III\. Clair de lune \(Andante très expressif\)](https://open.spotify.com/track/6N7JzrteJv8lsr1GWYyu0b) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Alain Planès](https://open.spotify.com/artist/2T5bM1nb5fZVw5Bm851HNh) | [Debussy: Children's Corner, Suite bergamasque, Images](https://open.spotify.com/album/6kdiApKnIe8xQ1cTo9mWJJ) | 4:39 | 2021-12-20 |  |

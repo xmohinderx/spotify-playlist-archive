@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,151,378 likes - 100 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,158,879 likes - 100 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 86 | [MADNESS](https://open.spotify.com/track/6iZh7kG2Bjt3DHmnWcc0ov) | [Phonk Killer](https://open.spotify.com/artist/4Xpfcr6PHXIPeoCBlXNwtC), [GREEN ORXNGE](https://open.spotify.com/artist/57QsdaQhaRhRruISmg7W2G) | [MADNESS](https://open.spotify.com/album/2YHvfutjzC1HDdkFY45ksr) | 2:27 |
 | 87 | [BLAST](https://open.spotify.com/track/6m5tfUg4wyg3zKcKVutJGA) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [BLAST](https://open.spotify.com/album/6KkvhAL55Cdr3GwyEV31Bs) | 2:04 |
 | 88 | [Limbus](https://open.spotify.com/track/2AmdPOJE4vneIQwIXcyVOk) | [TUNDRAMANE](https://open.spotify.com/artist/3ucTA7IrKCwHk3EvnfRVOu), [TET RIDER](https://open.spotify.com/artist/0bpQ1MQepobDDXb6uxGZ8y) | [Limbus](https://open.spotify.com/album/2ZIF55OHukAUHeFcqyHr98) | 1:41 |
-| 89 | [Phonk Save the World](https://open.spotify.com/track/7G07J1fpapkm5j9XsE3C1W) | [Hikki Gaya](https://open.spotify.com/artist/0lkQpwtSrw1KdJNSCVAzCC) | [Phonk Save the World](https://open.spotify.com/album/6PNCpyW04F6Bhslj8keoZV) | 2:03 |
+| 89 | [Phonk Save the World](https://open.spotify.com/track/7G07J1fpapkm5j9XsE3C1W) | [Hikki Gaya](https://open.spotify.com/artist/0lkQpwtSrw1KdJNSCVAzCC) | [Phonk Save the World](https://open.spotify.com/album/6PNCpyW04F6Bhslj8keoZV) | 0:29 |
 | 90 | [Anime](https://open.spotify.com/track/3yyFNFV2MQIQ4M6Rj88Eru) | [Mari Ferrari](https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs) | [Anime](https://open.spotify.com/album/1sQGosp1A9oAFtl7Ye3e4p) | 2:44 |
 | 91 | [End of the World \- Slowed](https://open.spotify.com/track/7gCzXPNidSb1BSSdrbQ7VR) | [FORGOTTENAGE](https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC) | [End of the World \(Slowed\)](https://open.spotify.com/album/0j1BNnTDgLqQtn9wuxyZFj) | 3:03 |
 | 92 | [Mayday](https://open.spotify.com/track/1O3hr0mThUv1YxRKzG0PNL) | [V21](https://open.spotify.com/artist/67ALWf0iCYJTWxLJEvUJwk), [Cree+](https://open.spotify.com/artist/5zyatk5rWWeCj7Lcn5RV3u) | [Mayday](https://open.spotify.com/album/57LekU6dVn2HOa8RQBNCKn) | 2:20 |

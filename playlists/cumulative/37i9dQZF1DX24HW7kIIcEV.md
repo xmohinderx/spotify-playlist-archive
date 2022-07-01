@@ -4,7 +4,7 @@
 
 > T as in Troy? No Gabriella, T as in Time to relive your greatest childhood memories.
 
-87 songs - 4 hr 43 min - [published](https://open.spotify.com/playlist/6zZEew2FmrtE0tFqgmTPFu)
+87 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/6zZEew2FmrtE0tFqgmTPFu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Over](https://open.spotify.com/track/2vJzrTur6cWX2wX7ZvI38S) | [Lindsay Lohan](https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF) | [Speak](https://open.spotify.com/album/3ZxcXB6JtLDAEUDLVkiIRe) | 3:36 | 2022-03-25 |  |
 | [Party In The U.S.A.](https://open.spotify.com/track/3E7dfMvvCLUddWissuqMwr) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives \(International Version\)](https://open.spotify.com/album/0IuHVgAvbNDJnJepuSZ8Oz) | 3:22 | 2022-03-25 |  |
 | [Pop Princess](https://open.spotify.com/track/7DG7PKJu8yzV3mUuFwHBB7) | [The Click Five](https://open.spotify.com/artist/01lz5VBfkMFDteSA9pKJuP) | [Hannah Montana](https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu) | 4:24 | 2022-03-25 |  |
-| [Potential Breakup Song](https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 3:39 | 2022-03-25 |  |
+| [Potential Breakup Song](https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 0:29 | 2022-03-25 |  |
 | [Push It to the Limit](https://open.spotify.com/track/1KNu5fqNZvVpWN0vSxB1UN) | [Corbin Bleu](https://open.spotify.com/artist/5GuEFqVXxQsqJtjGqoFWvf) | [Jump In \(Soundtrack\)](https://open.spotify.com/album/1TFWwjt5FYOe8aizIwph0h) | 3:14 | 2022-03-25 |  |
 | [Reach \- Original Version](https://open.spotify.com/track/0kblBacvX0GNlnEs64vEW7) | [Caleigh Peters](https://open.spotify.com/artist/4q90j5LLa8ZamYiqCjTJCf) | [Ice Princess](https://open.spotify.com/album/6NfXy1XXbd5GsU3BVLlB6e) | 3:43 | 2022-03-25 | 2022-04-22 |
 | [Ready or Not](https://open.spotify.com/track/5xvUgoVED1F4mBu8FL0HaW) | [Bridgit Mendler](https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb) | [Hello My Name Is...](https://open.spotify.com/album/114sumrk5wTeMWHVin86QC) | 3:20 | 2022-03-25 |  |

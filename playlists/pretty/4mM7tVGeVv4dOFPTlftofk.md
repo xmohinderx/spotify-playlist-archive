@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/4mM7tVGeVv4dOFPTlftofk.md) - [plain]
 
 > Getaway Rock Festival är efter två år etablerad som en av Sveriges bästa och viktigaste rockfestivaler\. Sommarens upplaga arrangeras 5 \- 7 juli i Gävle\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31 likes - 71 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 31 likes - 71 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Far Beyond The Sun](https://open.spotify.com/track/671vZdjEOtml0luFydgvKU) | [Yngwie Malmsteen](https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG) | [Rising Force](https://open.spotify.com/album/4tJtJ6kgkBdyp4NZS9efW9) | 5:49 |
 | 2 | [Carry On](https://open.spotify.com/track/4S47FRAZ3VcyZS87FnQtmk) | [Manowar](https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ) | [Fighting the World](https://open.spotify.com/album/2Bju49iO98LXuJsY2vKEqg) | 4:12 |
-| 3 | [The Crow, The Owl And The Dove](https://open.spotify.com/track/2Be1LsKhxQo1pMSzsWio94) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [The Crow, The Owl And The Dove](https://open.spotify.com/album/6AQUfFDeBnACgYaetHPVtx) | 3:46 |
+| 3 | [The Crow, The Owl And The Dove](https://open.spotify.com/track/2Be1LsKhxQo1pMSzsWio94) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [The Crow, The Owl And The Dove](https://open.spotify.com/album/6AQUfFDeBnACgYaetHPVtx) | 0:29 |
 | 4 | [Princess of the Night \- 2009 Remastered Version](https://open.spotify.com/track/2QpP8SyXrumYR5BlcdJgTV) | [Saxon](https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU) | [Denim and Leather \(2009 Remastered Version\)](https://open.spotify.com/album/0KtDv1SIDSdJWDpjHBLJad) | 4:02 |
 | 5 | [The Art of Partying](https://open.spotify.com/track/1jMjbrmkSZAVvi7iffs06D) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [The Art of Partying](https://open.spotify.com/album/7cU3FZ3u2jgKd5s8hhKJ9h) | 2:03 |
 | 6 | [Friends & Traitors](https://open.spotify.com/track/5cxmDZMaeZ9wICgsufg4xu) | [Raised Fist](https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm) | [Veil Of Ignorance](https://open.spotify.com/album/5uCaHcPizsBJbjjZuWTyGl) | 3:10 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/4mM7tVGeVv4dOFPTlftofk.md) - [plain]
 | 40 | [Empire](https://open.spotify.com/track/776mMkx1vrLCveM1rpnZhv) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Leveler](https://open.spotify.com/album/0VIYwqjNogiqKL44uYLkKd) | 3:52 |
 | 41 | [My Hollow Shell](https://open.spotify.com/track/321djWhluGBvBGyIBe9aZw) | [Corroded](https://open.spotify.com/artist/2vH7B6YvHO3AHVb9R8bYi8) | [Exit To Transfer](https://open.spotify.com/album/7pkQmcclV2YhSN8Ibkgtz1) | 3:11 |
 | 42 | [Ratrace](https://open.spotify.com/track/0C7rougSokTIEmeDbmrpLl) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Ratrace](https://open.spotify.com/album/12Z7ASwmeJM2W9OaaHJfFk) | 3:21 |
-| 43 | [Lonely Train](https://open.spotify.com/track/5lIqY3Yb3bPj5z1tiUIiCJ) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Black Stone Cherry](https://open.spotify.com/album/5XzjYognRznsIgYqmrHkGV) | 3:50 |
+| 43 | [Lonely Train](https://open.spotify.com/track/5lIqY3Yb3bPj5z1tiUIiCJ) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Black Stone Cherry](https://open.spotify.com/album/5XzjYognRznsIgYqmrHkGV) | 0:29 |
 | 44 | [Forgotten Hopes](https://open.spotify.com/track/1JP3RIf9iBcmb6KdvIV8d7) | [Anathema](https://open.spotify.com/artist/0ZXKT0FCsLWkSLCjoBJgBX) | [Judgement](https://open.spotify.com/album/3eeamI1KG4oa8e8GySlktB) | 3:50 |
 | 45 | [Deep](https://open.spotify.com/track/5yuOjGskd7osXnfwJqWbbP) | [Anathema](https://open.spotify.com/artist/0ZXKT0FCsLWkSLCjoBJgBX) | [Judgement](https://open.spotify.com/album/3eeamI1KG4oa8e8GySlktB) | 4:53 |
 | 46 | [Dusty Mummy](https://open.spotify.com/track/2n4BeV9HostkJSeZpY4xTk) | [Kings Destroy](https://open.spotify.com/artist/2vDfJFvPss9uWNgVLCmC3x) | [And The Rest Will Surely Perish](https://open.spotify.com/album/4MjmlfYk5nbWQRvh9mAOHz) | 7:12 |

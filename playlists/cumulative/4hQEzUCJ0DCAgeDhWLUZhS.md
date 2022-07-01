@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Foals
 
-301 songs - 18 hr 10 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
+302 songs - 18 hr 9 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Go](https://open.spotify.com/track/1IWom0fqK0dJKITk1H95BB) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Go / Eagle Birds / Lo/Hi](https://open.spotify.com/album/09hrL0Pk3gObwTh2MIAGaG) | 2:26 | 2020-10-10\* | 2021-02-25 |
 | [Going Clear](https://open.spotify.com/track/6gFWTzrUMawFAyqCpThoUA) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Going Clear](https://open.spotify.com/album/4aGDnDxBgkJrzdUS7xxqTX) | 3:21 | 2022-01-21 |  |
 | [Going Down South](https://open.spotify.com/track/1Bm1YppuoO7oTAJ7s0Eyma) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Going Down South](https://open.spotify.com/album/5TeN9UapR2EHe4UDBW9lsh) | 3:48 | 2021-05-08 | 2022-03-18 |
-| [Good Times Bad Times](https://open.spotify.com/track/2Y9vBlthOtlpUkafR9jRAE) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Good Times Bad Times](https://open.spotify.com/album/6quGCuC6rPXfMAN9UT2ZAU) | 2:49 | 2021-11-12 |  |
+| [Good Times Bad Times](https://open.spotify.com/track/2Y9vBlthOtlpUkafR9jRAE) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Good Times Bad Times](https://open.spotify.com/album/6quGCuC6rPXfMAN9UT2ZAU) | 0:29 | 2021-11-12 |  |
 | [Growing Up](https://open.spotify.com/track/01MGjcd27q8hqHiv3jztV3) | [Alex the Astronaut](https://open.spotify.com/artist/42NjRVKqEGe2DkGvlUd5qM) | [Growing Up](https://open.spotify.com/album/3Edg3KMG3X3IqQUvO2tQEl) | 4:50 | 2021-11-19 |  |
 | [Guilty Love](https://open.spotify.com/track/4RGXedMqIrohHTmhMXPnLc) | [Ladyhawke](https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14), [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Guilty Love](https://open.spotify.com/album/3nIzN4pn6G17EXctMPCSNS) | 3:00 | 2021-03-08 | 2022-03-18 |
 | [Hard Luck](https://open.spotify.com/track/7Cpn5JqDJR22FoF6c94lHd) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [You Deserve Love](https://open.spotify.com/album/2hzRKcoWZUPY5M1qMrgtmR) | 3:59 | 2020-10-10\* | 2021-02-25 |
@@ -259,7 +259,7 @@
 | [TGIF \(feat\. Tom Morello\)](https://open.spotify.com/track/7MxfzO0meZnMOrrmDkQb4W) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [TGIF \(feat\. Tom Morello\)](https://open.spotify.com/album/6iJUFzxgiJKvrReWU0THNa) | 3:19 | 2021-05-22 | 2022-03-18 |
 | [The Big Come Down](https://open.spotify.com/track/3cl42VFcRop14wAduvSeaH) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Fragile](https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8) | 4:12 | 2020-10-10\* | 2021-02-25 |
 | [The Burden of Belief](https://open.spotify.com/track/4lyWDEzPsyJtmQmLRkCUC1) | [Times Of Grace](https://open.spotify.com/artist/0CfztphU9FWmAhGocFrrYC) | [The Burden of Belief](https://open.spotify.com/album/6Nt3lAffezruA8VjFQsymZ) | 5:39 | 2021-05-22 | 2022-03-18 |
-| [The Garden of Eden](https://open.spotify.com/track/2iDnZkKM40F9u9b44Y6Zc7) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [SZNZ: Spring](https://open.spotify.com/album/5dpaxVXET01VAgivwwUac6) | 3:15 | 2022-03-25 |  |
+| [The Garden of Eden](https://open.spotify.com/track/2iDnZkKM40F9u9b44Y6Zc7) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [SZNZ: Spring](https://open.spotify.com/album/5dpaxVXET01VAgivwwUac6) | 0:29 | 2022-03-25 |  |
 | [The Girls Are Fighting \- Edit](https://open.spotify.com/track/7F1dxj9sEAHy4SsGIHARGq) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [The Girls Are Fighting](https://open.spotify.com/album/3xt9SJ3g3ieRV3C2Om8Mws) | 3:01 | 2022-02-04 |  |
 | [The Knack](https://open.spotify.com/track/46NgqjSNoXMZEtmJyoeA97) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside](https://open.spotify.com/album/4v0i8VJOxYxngmADCFvi6o) | 2:59 | 2021-07-01 |  |
 | [The Loneliest Girl In The World](https://open.spotify.com/track/4KllPRafNDAYc3c3UHzj0u) | [PG Roxette](https://open.spotify.com/artist/3k87PFuum7Sv7zzjw7BMIg), [Per Gessle](https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK) | [The Loneliest Girl In The World](https://open.spotify.com/album/7mxXN1jc04KAdUiGEU3l1E) | 3:01 | 2022-06-03 |  |
@@ -307,6 +307,7 @@
 | [World Keeps Spinning](https://open.spotify.com/track/1Ekjbbbg6kWy0ITBPQSVhB) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [World Keeps Spinning / Say Nothing / Strangers / History of Violence](https://open.spotify.com/album/5H6tcLBsm1RpqWCoIC4F40) | 3:34 | 2020-10-10\* | 2021-05-13 |
 | [World Keeps Spinning](https://open.spotify.com/track/62CoqBSo6NUdiQQTIKQQAM) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Say Nothing](https://open.spotify.com/album/6MfiM93nfMmvDlegb3gbG5) | 3:34 | 2020-10-10\* | 2021-05-13 |
 | [Worship](https://open.spotify.com/track/5R0L4WPC4QTrd1Z87tWoa1) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [RITUALS](https://open.spotify.com/album/7gkXGlBcRhR8cBS9mXOXSE) | 3:56 | 2020-10-10\* | 2021-02-25 |
+| [Yeah, I Like You](https://open.spotify.com/track/6kNOYOpdMy0w67fC4XPc0q) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Yeah, I Like You](https://open.spotify.com/album/0vlDeWXsRPN0GZkdIoykfT) | 4:24 | 2022-07-01 |  |
 | [You n Me Sellin' Weed](https://open.spotify.com/track/3vbiHwFRUuoIU9oa01dwmx) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [You n Me Sellin' Weed](https://open.spotify.com/album/3v7rmNsFfuUSmIOdPMslld) | 4:56 | 2020-10-10\* | 2021-05-13 |
 | [You Oughta Know](https://open.spotify.com/track/5XfmXD9W5jClWQ1QtiXHsz) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [You Oughta Know](https://open.spotify.com/album/05Ukhe9G2XLfuByt31unQM) | 4:08 | 2021-07-17 |  |
 

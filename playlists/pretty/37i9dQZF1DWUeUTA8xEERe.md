@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUeUTA8xEERe.md) - [plain]
 
 > All jazz every Sunday, curated by Jermaine Dupri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,465 likes - 26 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,475 likes - 26 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUeUTA8xEERe.md) - [plain]
 | 7 | [No Mo'](https://open.spotify.com/track/4dHTtrTe3hajyFc7tywb8s) | [Tuzeint](https://open.spotify.com/artist/0iQ2RumqYpmrZVxHCR771X) | [No Mo'](https://open.spotify.com/album/3dT8UMIoAPXDDSh7nGyZtD) | 3:58 |
 | 8 | [Here For It All](https://open.spotify.com/track/6e6r6zA2q4LjUJz8s4MKkS) | [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Here For It All](https://open.spotify.com/album/2S8zPeU2nu6JwpY2My2OYT) | 3:14 |
 | 9 | [Dear Old Stockholm \(feat\. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones\)](https://open.spotify.com/track/1d0NjHhCDKCKZIbws021xD) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) | ['Round About Midnight](https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K) | 7:48 |
-| 10 | [Misty Dawn](https://open.spotify.com/track/1jBD5HKZtB8iXUrXzEmjAT) | [B0nds](https://open.spotify.com/artist/7ocYXGSTBnpzj74JufFDWB) | [Phantom Versions](https://open.spotify.com/album/5jluEyoiWf0Z6pALjNSx6m) | 2:22 |
+| 10 | [Misty Dawn](https://open.spotify.com/track/1jBD5HKZtB8iXUrXzEmjAT) | [B0nds](https://open.spotify.com/artist/7ocYXGSTBnpzj74JufFDWB) | [Phantom Versions](https://open.spotify.com/album/5jluEyoiWf0Z6pALjNSx6m) | 0:29 |
 | 11 | [Nogent\-Le\-Rotrou](https://open.spotify.com/track/4mcqCUOXlXGNJ5U0bQWaoM) | [Lenny Pickett](https://open.spotify.com/artist/0z51oMD1IlExmnfVFJCnln), [John Hadfield](https://open.spotify.com/artist/1xRCMJJtUe7hOOSiZmgKeI) | [Heard by Others](https://open.spotify.com/album/2OWY8OyuumW3PEnbFwddcw) | 2:38 |
 | 12 | [I Need Your Love](https://open.spotify.com/track/6WaXHYBzpBfvQuPy5OYYgt) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [No Beginning No End 2](https://open.spotify.com/album/1dwWH4m6TIepflnji3hVsG) | 4:19 |
 | 13 | [Hider or Seeker?](https://open.spotify.com/track/3syyeyRrAqC3kzQmA9OkEO) | [Nobuki Takamen](https://open.spotify.com/artist/6DCw1xv42cM22nmCgL0GyD) | [Life Is Now](https://open.spotify.com/album/4MCYzdoYSGdvKv8JNOPNE2) | 6:33 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUeUTA8xEERe.md) - [plain]
 | 19 | [Reposo](https://open.spotify.com/track/4rvDhlPppQfYkx5AJ3MON9) | [Menzel Mutzke](https://open.spotify.com/artist/5RpllGf1Yud5Czr5yHNQbJ) | [Spring](https://open.spotify.com/album/7xuXMXUWdtsSyNRg39CCmq) | 6:28 |
 | 20 | [Pelota](https://open.spotify.com/track/39p88iz6Hzx5KN00QbLIdv) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Pelota](https://open.spotify.com/album/2zX0TMRVNyesrH6kciPrQZ) | 2:47 |
 | 21 | [Ao Redor Do Samba](https://open.spotify.com/track/7qzI6DzO6kVHLYeNncwscM) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Azymuth JID004](https://open.spotify.com/album/30mmbtPJOYzPZSb9q20Bdn) | 4:30 |
-| 22 | [I'm Alive](https://open.spotify.com/track/3nIgICd9QMd8B337TtDq14) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I'm Alive](https://open.spotify.com/album/1095r17w02EJWTmkYa4hgz) | 4:16 |
+| 22 | [I'm Alive](https://open.spotify.com/track/3nIgICd9QMd8B337TtDq14) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I'm Alive](https://open.spotify.com/album/1095r17w02EJWTmkYa4hgz) | 0:29 |
 | 23 | [Ensueño](https://open.spotify.com/track/2tCOdryTpRqRto1asfS0Jd) | [GODTET](https://open.spotify.com/artist/09OgHVPSgCgflZLrGScfE9) | [Godtet](https://open.spotify.com/album/5IEhOa9sZC7jyq9Vse747Y) | 4:10 |
 | 24 | [Fall Afternoon](https://open.spotify.com/track/1FSs2R5yWVDAj1OUfyO3Wm) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Azymuth JID004](https://open.spotify.com/album/30mmbtPJOYzPZSb9q20Bdn) | 4:17 |
 | 25 | [Monster](https://open.spotify.com/track/679HxTmmDmrbs8BIuZr26f) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Taller \(Expanded Edition\)](https://open.spotify.com/album/70eLZovtqw7sivCdvooBgk) | 4:00 |

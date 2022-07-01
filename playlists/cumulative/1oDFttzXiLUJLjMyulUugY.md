@@ -4,7 +4,7 @@
 
 > Achieve optimal workday zen with this relaxed, meditative mix.
 
-75 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/5LZtncbGVmYkaBqv23p6OZ)
+75 songs - 8 hr 46 min - [published](https://open.spotify.com/playlist/5LZtncbGVmYkaBqv23p6OZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Miss You](https://open.spotify.com/track/1ph6Bncj7s3BmYp6FkIzP8) | [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS) | [Chilltronica No\. 2 \- Music for the Cold & Rainy Season](https://open.spotify.com/album/2BAjO8wwei9cdsb19QGbhp) | 4:03 | 2016-08-20 |  |
 | [Monochrome Existence \(Track 1\)](https://open.spotify.com/track/1HQBJn15KYL902c7PHDYPK) | [Bill Laswell and Tetsu Inoue](https://open.spotify.com/artist/3dk3ajqHMLFgCcCZOgiCXo) | [Cymatic Scan](https://open.spotify.com/album/548uL5m5N9uz1Q6ysJIUVd) | 10:00 | 2016-08-20 |  |
 | [Moon Trills](https://open.spotify.com/track/6kyC8h3hpORkVmZFVIsPmV) | [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU) | [Bodysong Original Soundtrack](https://open.spotify.com/album/6XiwEtt0KRS1W1cyNzEEnO) | 5:17 | 2016-08-20 |  |
-| [Nice Dream](https://open.spotify.com/track/2taOl3fvfWjMqKApl9bWgu) | [radio.string.quartet.vienna](https://open.spotify.com/artist/4ehcoSlGS3JfkExKnEXGz8) | [Radiodream](https://open.spotify.com/album/3onyEZwbFwdUQ62Lqy4naJ) | 3:29 | 2016-08-20 |  |
+| [Nice Dream](https://open.spotify.com/track/2taOl3fvfWjMqKApl9bWgu) | [radio.string.quartet.vienna](https://open.spotify.com/artist/4ehcoSlGS3JfkExKnEXGz8) | [Radiodream](https://open.spotify.com/album/3onyEZwbFwdUQ62Lqy4naJ) | 0:29 | 2016-08-20 |  |
 | [North](https://open.spotify.com/track/0UveyQuhXEd9jc8m2lZDhg) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [EPs, Singles and Remixes](https://open.spotify.com/album/3pGIYO9ZncnBfnrFkABnj0) | 7:58 | 2016-08-20 |  |
 | [North Atlantic Sea](https://open.spotify.com/track/2YVcbo0rnBYMvWrk2XR18i) | [Bliss](https://open.spotify.com/artist/0WeWsgv7wWrgSHKBCInMv0) | [So Many of Us](https://open.spotify.com/album/5cNblVdDg0Y0oxz8AJrEQQ) | 4:41 | 2016-08-20 |  |
 | [Ofelia](https://open.spotify.com/track/6O2MhqlT7ZqIYjRyr8kO8t) | [36](https://open.spotify.com/artist/1lcSbVHDXu6h6H6vIRDBhT) | [Shadow Play](https://open.spotify.com/album/1025Ub4NNYyge0eSInPlvp) | 6:11 | 2016-08-20 |  |
@@ -69,7 +69,7 @@
 | [Stars \- Remastered 2005](https://open.spotify.com/track/1cWHaz5GDrhfnkXTIYlGHh) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 8:00 | 2016-08-20 |  |
 | [Stasis](https://open.spotify.com/track/6UtQoYQWTROmBoWsXjc4Nf) | [Solar Bears](https://open.spotify.com/artist/5stWr4xhAG8w29JUSt8UCO) | [Supermigration](https://open.spotify.com/album/5nj5qM9SZDJ0vXkJW4h4Mi) | 1:09 | 2016-08-20 |  |
 | [Structures From Silence \(Excerpt\)](https://open.spotify.com/track/2kHRtLyNbgN50h507hN8wJ) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Eckhart Tolle's Music To Quiet The Mind](https://open.spotify.com/album/7yG7pXFaWwsNFMelCQ7TFV) | 8:02 | 2016-08-20 |  |
-| [Sweden](https://open.spotify.com/track/4NsPgRYUdHu2Q5JRNgXYU5) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Alpha](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) | 3:35 | 2016-08-20 |  |
+| [Sweden](https://open.spotify.com/track/4NsPgRYUdHu2Q5JRNgXYU5) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Alpha](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) | 0:29 | 2016-08-20 |  |
 | [Take A Bow](https://open.spotify.com/track/2cHqw7rcfOZRatkKYwTYkL) | [Greg Laswell](https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC) | [Take A Bow](https://open.spotify.com/album/4NGp3qZREnigsFHj78ZZ9E) | 3:59 | 2016-08-20 |  |
 | [Talking Book](https://open.spotify.com/track/352SyAVBsD7TO9L7Jhem4j) | [Darshan Ambient](https://open.spotify.com/artist/711EaFigHKV5CTbjIYWswu) | [A Day Within Days](https://open.spotify.com/album/1oO8tcrRJw7X0OxGTgTD1Y) | 6:44 | 2016-08-20 |  |
 | [The Drop](https://open.spotify.com/track/1NvIyNssIUX41tEyWoS2aR) | [The Haxan Cloak](https://open.spotify.com/artist/543jOiqi5zLNZIOv7rA6rg) | [Excavation](https://open.spotify.com/album/16DAUZi7MAWliYIiJvaQyk) | 12:57 | 2016-08-20 |  |

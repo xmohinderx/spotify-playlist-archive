@@ -1,15 +1,31 @@
 {
-  "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX. Foto: Sofi Mata",
-  "num_followers": 53779,
+  "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX. Foto: Steff",
+  "num_followers": 53815,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTUwNDA4OCwwMDAwMDExMzAwMDAwMTgxNzNiYmFlMDMwMDAwMDE4MTczYjgzNzYz",
+  "snapshot_id": "MTY1NjYzMDAwMCwwMDAwMDExNDAwMDAwMTgxYjZkN2JhMzUwMDAwMDE4MWI2YjQ4NzY0",
   "tracks": [
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "LA PUERTA",
+        "url": "https://open.spotify.com/album/08UiEXyBQY3dDgdfieN0mj"
+      },
+      "artists": [
+        {
+          "name": "Steff",
+          "url": "https://open.spotify.com/artist/0Gh7dmIj59Sa4JPy9x0yUt"
+        }
+      ],
+      "duration_ms": 183225,
+      "name": "LA PUERTA",
+      "url": "https://open.spotify.com/track/1C7dlhgx28pHMjCMfiiZun"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Mala Suerte",
         "url": "https://open.spotify.com/album/2GN3UKyz4WVNfFHqriMc33"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/5DlIHONh8EZTGHhLYJX8ch"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Pa' Eso Se Hizo",
         "url": "https://open.spotify.com/album/5pZsQEEC6uSa7zvJst7tSN"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/1LdMkXElKMDTB8mvgyvTKe"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "A Escondidas",
         "url": "https://open.spotify.com/album/5AVKaP9muBWh1HFmeWW9dL"
@@ -61,7 +77,7 @@
       "url": "https://open.spotify.com/track/2BwHStCcFVQ8DxnncSdMoq"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Necesito un Break de Tanta Pendejad*",
         "url": "https://open.spotify.com/album/3Xk7qVeD5ygv9rr8kokjUT"
@@ -85,7 +101,7 @@
       "url": "https://open.spotify.com/track/3gLTUkkHiWnbvG49FByvp2"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Salvaje",
         "url": "https://open.spotify.com/album/52ZUclHV8eBvrdRMsfGjkb"
@@ -105,7 +121,7 @@
       "url": "https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Pari\u0301s",
         "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
@@ -121,7 +137,7 @@
       "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Ir por Ti",
         "url": "https://open.spotify.com/album/6CmrNA7Brd2b1f00bYNkqS"
@@ -137,7 +153,7 @@
       "url": "https://open.spotify.com/track/65S5ZhV3ATRA4iHrTIj6mz"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Nieve de Vainilla",
         "url": "https://open.spotify.com/album/0Gor4xY55uhvXIxsB2y9ly"
@@ -153,7 +169,7 @@
       "url": "https://open.spotify.com/track/6DNaON1fypnYBW9ud7za94"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "BORRACHA",
         "url": "https://open.spotify.com/album/2dS81EdC1fIj8XX0X0O9Ex"
@@ -173,7 +189,7 @@
       "url": "https://open.spotify.com/track/3JWKzfp6YX4LXFk2ybAfql"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Jake Long",
         "url": "https://open.spotify.com/album/7rK1SC8EtVWFDMHGMjRmAM"
@@ -189,7 +205,7 @@
       "url": "https://open.spotify.com/track/5LifmYrL4h8gqOnZrym65U"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Mejor Sola",
         "url": "https://open.spotify.com/album/3TI2wvsbQINrmuV5CIXwWH"
@@ -209,7 +225,7 @@
       "url": "https://open.spotify.com/track/5bpklP2B9Nlj5BO90RuCyA"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Maviri",
         "url": "https://open.spotify.com/album/5w3ksWCecm2QnMYDsOKeJd"
@@ -225,27 +241,7 @@
       "url": "https://open.spotify.com/track/2KbDqOveWc2vInJ4QiSeuX"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
-      "album": {
-        "name": "Mal Mal Mal",
-        "url": "https://open.spotify.com/album/3x7JpBJgdqWUEDM0M3Tuv5"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 228214,
-      "name": "Mal Mal Mal",
-      "url": "https://open.spotify.com/track/4ejRdkyeBOCiiBwXRZPywX"
-    },
-    {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "INESTABLE",
         "url": "https://open.spotify.com/album/2m45lXuEtPji0HTrS3Vdw3"
@@ -261,7 +257,7 @@
       "url": "https://open.spotify.com/track/4Uxd6PAp9jeau7FfA22RIc"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "hembrismo",
         "url": "https://open.spotify.com/album/1BI2alnlw8r7uaFFjDGZur"
@@ -293,7 +289,27 @@
       "url": "https://open.spotify.com/track/5JWnIfs6jmUAJzx1HKJlEr"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Mal Mal Mal",
+        "url": "https://open.spotify.com/album/3x7JpBJgdqWUEDM0M3Tuv5"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 228214,
+      "name": "Mal Mal Mal",
+      "url": "https://open.spotify.com/track/4ejRdkyeBOCiiBwXRZPywX"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Pa' Siempre",
         "url": "https://open.spotify.com/album/5IFJYKAOgcxrzAA4VPbmrM"
@@ -309,7 +325,7 @@
       "url": "https://open.spotify.com/track/5vfTt52xIBWcTvYLYmcWuz"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "DEJA VU",
         "url": "https://open.spotify.com/album/2C6zo81kZcH4cyp8YUMLJe"
@@ -333,7 +349,7 @@
       "url": "https://open.spotify.com/track/2w2M7YfBSDqcigZFmMpoLL"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Imag\u00ednate",
         "url": "https://open.spotify.com/album/3E5kxpDUSFKT7SjJY1DOqw"
@@ -349,7 +365,7 @@
       "url": "https://open.spotify.com/track/5OyNPdV8PMbOE967zAVtKG"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Toketeo",
         "url": "https://open.spotify.com/album/42gM3PcVUatLaI2izJ6jmz"
@@ -373,7 +389,7 @@
       "url": "https://open.spotify.com/track/0pRgURvgp75RPKjTGQodau"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Las de Octubre",
         "url": "https://open.spotify.com/album/2w7wYFGBsvJJoUxQb8y1Td"
@@ -389,7 +405,7 @@
       "url": "https://open.spotify.com/track/570gZiXUFd5phvmvh2gGCc"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "FERNET",
         "url": "https://open.spotify.com/album/0UbxWnBpJKoUj4jmSFwUnc"
@@ -409,7 +425,7 @@
       "url": "https://open.spotify.com/track/2GVahxIzxivfRZc8lR39Ms"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Morena M\u00eda",
         "url": "https://open.spotify.com/album/5oBKjHnCEXWK1KlaqcFpH0"
@@ -425,7 +441,7 @@
       "url": "https://open.spotify.com/track/5ppm2LDV6yqf7cxjKHOqkG"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Como Antes",
         "url": "https://open.spotify.com/album/7rNprFES6lD2zMTaK2Vf2A"
@@ -441,7 +457,7 @@
       "url": "https://open.spotify.com/track/1zX8ub9Zy31pkCgb2xBr4E"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Imperio",
         "url": "https://open.spotify.com/album/1zChRGVRhtRB616iVGSra6"
@@ -457,7 +473,7 @@
       "url": "https://open.spotify.com/track/5TsqpA85xhzt2K3jkvBJ20"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "SI SE DA",
         "url": "https://open.spotify.com/album/16BOpWf37rPT7f5eTyxs9L"
@@ -481,7 +497,7 @@
       "url": "https://open.spotify.com/track/7I32i1J6IFa2SXdWGFa3eZ"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Numero 1",
         "url": "https://open.spotify.com/album/5QK2JiVGO67uLi0vqi9Wg6"
@@ -501,7 +517,7 @@
       "url": "https://open.spotify.com/track/6HXvazdtAr9hy0kThzxrE3"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Los Tweets",
         "url": "https://open.spotify.com/album/4Rrdn0CXxUWpiCQqssrdRX"
@@ -517,7 +533,7 @@
       "url": "https://open.spotify.com/track/1Jh7skKg0LaCQHGXRtLf2g"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Swipe Up",
         "url": "https://open.spotify.com/album/2nSrXIdqNv7xbENHUjYZqZ"
@@ -541,7 +557,7 @@
       "url": "https://open.spotify.com/track/4ShtXgPGZ6Xj0xGoK8mvkD"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Termin\u00e9 Contigo",
         "url": "https://open.spotify.com/album/0yI1O48KJZVhmQV4mhXdf9"
@@ -557,7 +573,7 @@
       "url": "https://open.spotify.com/track/17gA2iojI2oeb7DCiMlHCo"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "LUZ APAG\u00c1",
         "url": "https://open.spotify.com/album/7oKIMAZs7VrRMAKnjKSQZ0"
@@ -577,7 +593,7 @@
       "url": "https://open.spotify.com/track/0KpGFdhdydyHOVrkOqifFr"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "SESENTAYNUEVE",
         "url": "https://open.spotify.com/album/6oSklR7vWOmzc7yD6OaEET"
@@ -593,7 +609,7 @@
       "url": "https://open.spotify.com/track/1jlmhmxdbTUI4jY4Rbkeqs"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Tu Foto",
         "url": "https://open.spotify.com/album/0t5u5KgV1AEMpey8RcrNUJ"
@@ -609,7 +625,7 @@
       "url": "https://open.spotify.com/track/6sbE1uNp4efoI3vR41d0uD"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Charles Ans x Neto Pe\u00f1a x Yoss Bones - LQRA Session #5",
         "url": "https://open.spotify.com/album/6fEbvdp7RK0pfoeHiJ2r8a"
@@ -637,7 +653,7 @@
       "url": "https://open.spotify.com/track/1YVyKeuVEhIGNTdhNjbREI"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "La Oportunidad - Spotify Singles",
         "url": "https://open.spotify.com/album/1dVeSK7GcCkjb9Q8MaiyQy"
@@ -653,7 +669,7 @@
       "url": "https://open.spotify.com/track/4TSdm4ySoU7RMVhTFWLp2m"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Ya No Somos",
         "url": "https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8"
@@ -673,7 +689,7 @@
       "url": "https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Webcam",
         "url": "https://open.spotify.com/album/0QTW7ygeF5Uoz3r8mCD8z3"
@@ -697,7 +713,7 @@
       "url": "https://open.spotify.com/track/5jptp98AmzDqiDT8bBVcLy"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "12x3",
         "url": "https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr"
@@ -713,7 +729,7 @@
       "url": "https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "14",
         "url": "https://open.spotify.com/album/7jWHBDXnMcb9dG72nODTBI"
@@ -729,7 +745,7 @@
       "url": "https://open.spotify.com/track/7g4K0u8y6MV4t5669khiVw"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Otra Canci\u00f3n",
         "url": "https://open.spotify.com/album/2XfEFsy1BGDLwJoBiOpDy6"
@@ -745,7 +761,7 @@
       "url": "https://open.spotify.com/track/687Bt7NeMu6g33jAiPdNrB"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "La Duda",
         "url": "https://open.spotify.com/album/0cioRZF43qh52TX4t3rGcm"
@@ -761,7 +777,7 @@
       "url": "https://open.spotify.com/track/3crXhhRijAL3zvH5XzxZGG"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Las Gatas",
         "url": "https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n"
@@ -777,7 +793,7 @@
       "url": "https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Equivocado",
         "url": "https://open.spotify.com/album/5J8KXckopyAatMvWk2nyvI"
@@ -797,7 +813,7 @@
       "url": "https://open.spotify.com/track/371Q3sLN68N4rwkw4ObnTp"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Dm",
         "url": "https://open.spotify.com/album/1ZFsAQSEvEv7eczKu7kaSA"
@@ -817,7 +833,7 @@
       "url": "https://open.spotify.com/track/2HMCrWscGOkbUel0sCW0Bp"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Loco Demente",
         "url": "https://open.spotify.com/album/7DCjPNw8hZOV4kEURpaYJv"
@@ -833,7 +849,7 @@
       "url": "https://open.spotify.com/track/5IQzoxgcl28t2nhu6pY79o"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Gitana Kamp, Vol. I",
         "url": "https://open.spotify.com/album/2pgf9362aDcXAR8V5pE2A2"
@@ -852,12 +868,12 @@
           "url": "https://open.spotify.com/artist/55SWiLP14cnNXQKVJj36ps"
         }
       ],
-      "duration_ms": 146840,
+      "duration_ms": 29048,
       "name": "Se Siente Bien",
       "url": "https://open.spotify.com/track/1XEmFjZdshi5oQ6qsV44TQ"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Shot de Tequila",
         "url": "https://open.spotify.com/album/6CESDKI9wJgftoDyGzRXEc"
@@ -873,7 +889,7 @@
       "url": "https://open.spotify.com/track/0zTgXlqnEh9ivzze8OHumA"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Adicta",
         "url": "https://open.spotify.com/album/15NSR3NJJZJYU8Be5zFbUv"
@@ -889,7 +905,7 @@
       "url": "https://open.spotify.com/track/3hmuvslh6nU6lHi0QxIMsn"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Mal Acompa\u00f1ada",
         "url": "https://open.spotify.com/album/6whBPpJGLiL39sq4C7p17G"
@@ -909,7 +925,7 @@
       "url": "https://open.spotify.com/track/4RJlsx582twGDbz7H0M8XI"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "KRMA",
         "url": "https://open.spotify.com/album/0TuPGs0QmDGRWWkg4woomQ"
@@ -925,7 +941,7 @@
       "url": "https://open.spotify.com/track/4okYg73pQX4BWiarAKE6Nz"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Facetime",
         "url": "https://open.spotify.com/album/69EGNC4LO6dCs1DPAkhLi8"
@@ -936,12 +952,12 @@
           "url": "https://open.spotify.com/artist/3otSlac6GaXERmCz9opbqS"
         }
       ],
-      "duration_ms": 151333,
+      "duration_ms": 29048,
       "name": "Facetime",
       "url": "https://open.spotify.com/track/5cU6y5Qztm60N2UrWE01vQ"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Ven",
         "url": "https://open.spotify.com/album/2H9tKoacyYJ0wrQvVLijzK"
@@ -952,12 +968,12 @@
           "url": "https://open.spotify.com/artist/1ItAvLPSVDyxMZoH7uqj2K"
         }
       ],
-      "duration_ms": 198620,
+      "duration_ms": 29048,
       "name": "Ven",
       "url": "https://open.spotify.com/track/2tgJbpATqLIAjGpnLS71f1"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Uy K Raro",
         "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
@@ -973,7 +989,7 @@
       "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "La Cura",
         "url": "https://open.spotify.com/album/7KSWQfyFDwKtplryn2J1gH"
@@ -989,7 +1005,7 @@
       "url": "https://open.spotify.com/track/2M6Bh076nMWAuZPFJxFQkU"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Bailalo",
         "url": "https://open.spotify.com/album/4Z2n4N44wtzsVH7p9rLPzi"
@@ -1005,7 +1021,7 @@
       "url": "https://open.spotify.com/track/76goNKad1tCxAmEfH6PFPp"
     },
     {
-      "added_at": "2022-06-17 22:14:48",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Mi Plan B",
         "url": "https://open.spotify.com/album/0pMF3ZiXOvh5ZDvfMfjvT9"

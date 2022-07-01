@@ -2,16 +2,16 @@
 
 ### [EQUAL Israel](https://open.spotify.com/playlist/37i9dQZF1DWVbXsIvZBlOB)
 
-> Listen to Israeli women at full volume\. Cover: Anna Zak
+> Listen to Israeli women at full volume\. Cover: Odeya
 
-129 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/2e4OmeRUwQvswEW0cNS2Ew)
+133 songs - 7 hr 21 min - [published](https://open.spotify.com/playlist/2e4OmeRUwQvswEW0cNS2Ew)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Been a Long Time](https://open.spotify.com/track/0PmO0FsV2W20X3c10O4tWz) | [Shelly Archer](https://open.spotify.com/artist/30bKK8WANSnIYZJ4Yt7OhM) | [Been a Long Time](https://open.spotify.com/album/0VLeRZC4agTKBMryZPgPYr) | 3:49 | 2022-05-03 |  |
 | [Burning Fire](https://open.spotify.com/track/24bupXCofjyC7BreGcApcb) | [Sarah Samir](https://open.spotify.com/artist/2CeDiWMLBInw0mEh30CIW3) | [Burning Fire](https://open.spotify.com/album/010SsiUhMmPQfm5fTzez3X) | 3:44 | 2022-04-05 | 2022-06-01 |
 | [CEO](https://open.spotify.com/track/0d1SYlJPC9ZiF9DKFS8ZnH) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [CEO](https://open.spotify.com/album/3LJnIGIiyotvZIEmcEUznd) | 2:50 | 2022-02-01 | 2022-04-06 |
-| [Chew It](https://open.spotify.com/track/7G499yuBOJ5YIfJOxfn51t) | [Folly Tree](https://open.spotify.com/artist/1hT145icDtkvzjToOQkvkz) | [Remedies](https://open.spotify.com/album/4tmd4DyOAZqjpuzagYlqnS) | 2:29 | 2022-04-05 |  |
+| [Chew It](https://open.spotify.com/track/7G499yuBOJ5YIfJOxfn51t) | [Folly Tree](https://open.spotify.com/artist/1hT145icDtkvzjToOQkvkz) | [Remedies](https://open.spotify.com/album/4tmd4DyOAZqjpuzagYlqnS) | 2:29 | 2022-04-05 | 2022-07-01 |
 | [Curly](https://open.spotify.com/track/4LivK552rCxw7IY7NEboHV) | [Zohara](https://open.spotify.com/artist/5yrsEbPmlEUd4xgNod0QMT) | [Curly](https://open.spotify.com/album/4OEJQcu0pBsL6HE35VMDiB) | 3:00 | 2022-05-03 | 2022-06-01 |
 | [Everybody's Getting Married](https://open.spotify.com/track/1uf5Nxbcw99PicmOC8E9pX) | [MARBL](https://open.spotify.com/artist/4efPipgazWrrizMaLnIJ4o) | [Everybody's Getting Married](https://open.spotify.com/album/1pEu0y3dSwa29fmIvqnsZd) | 2:23 | 2022-02-01 | 2022-04-06 |
 | [Fly \- You're Mine](https://open.spotify.com/track/4fYluChkI4HFZWBvbBTUmm) | [ECHO](https://open.spotify.com/artist/5Ezb2z7gSLMpXaG0oyacpW) | [Fly \(You're Mine\)](https://open.spotify.com/album/5fQo0BWnHHwDTTAKuD80RM) | 2:58 | 2022-05-31 |  |
@@ -30,7 +30,7 @@
 | [NAILS](https://open.spotify.com/track/67qVRmg2JynkOZ5olduLAd) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [NAILS](https://open.spotify.com/album/6xNOhGAMlLrxbg0yV7gRNu) | 2:51 | 2022-05-31 |  |
 | [Rolling](https://open.spotify.com/track/4AJIZkKtEhT5w5Q1sc7Z2I) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI), [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Rolling](https://open.spotify.com/album/3RL2IP0ib81VRV64f8aWKq) | 3:36 | 2022-04-05 | 2022-05-04 |
 | [Scared](https://open.spotify.com/track/0se8OZtSoIVedBVNaKitBD) | [Gali Givon](https://open.spotify.com/artist/2DiOrNDsdtk2BAPfBhnPEQ) | [Scared](https://open.spotify.com/album/2NKfcIjX4fpZ8ndVfXsosf) | 2:55 | 2022-05-31 |  |
-| [Spider Under My Pillow](https://open.spotify.com/track/0NcSmG79INnYAtT6AQQemY) | [Totemo](https://open.spotify.com/artist/6tUQYwxSVGcNxUYvxIkqJg) | [Spider Under My Pillow](https://open.spotify.com/album/5NRPxAWJ0c73T2Nuxdmrmn) | 3:14 | 2022-04-05 |  |
+| [Spider Under My Pillow](https://open.spotify.com/track/0NcSmG79INnYAtT6AQQemY) | [Totemo](https://open.spotify.com/artist/6tUQYwxSVGcNxUYvxIkqJg) | [Spider Under My Pillow](https://open.spotify.com/album/5NRPxAWJ0c73T2Nuxdmrmn) | 3:14 | 2022-04-05 | 2022-07-01 |
 | [Sprint](https://open.spotify.com/track/04cIyefTLkZLVV4SKkXBRE) | [Hila Ruach](https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P) | [Sprint](https://open.spotify.com/album/5iS5VaDaVFO2yUzpyWDuTA) | 2:55 | 2022-02-01 | 2022-03-09 |
 | [Thought About That](https://open.spotify.com/track/0KqQk985HTWIkQgEABSwPP) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Thought About That](https://open.spotify.com/album/3G06Xtuozm5OVMq3iEetEL) | 3:19 | 2022-02-01 | 2022-04-06 |
 | [Time Can Wait](https://open.spotify.com/track/5Y57hnjbkAhRP47YnAPMgg) | [MARBL](https://open.spotify.com/artist/4efPipgazWrrizMaLnIJ4o) | [The Sunsets and Dawns of Everything](https://open.spotify.com/album/2NA1RgwG0KUGGaPAGTQ5GW) | 4:08 | 2022-05-31 |  |
@@ -86,7 +86,7 @@
 | [לא](https://open.spotify.com/track/2IxilcSUX6ITN0piwsbZRX) | [Jenny Penkin](https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke) | [זה מה שזה](https://open.spotify.com/album/5gqgKOTYd9l4ich2KlBlQn) | 2:50 | 2022-04-05 | 2022-05-04 |
 | [לא אכפת לי](https://open.spotify.com/track/3OhCIUjWVRP1KgHDTMdq87) | [Mor](https://open.spotify.com/artist/0oI0Dm98K3jmtSbfTLiChX) | [לא אכפת לי](https://open.spotify.com/album/3zqpJo4FKE7WK5utMBjpTo) | 2:47 | 2022-02-01 | 2022-03-09 |
 | [לא לפחד כלל](https://open.spotify.com/track/4XXgzLzQXMCoZ8GPw6B8rg) | [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [לא לפחד כלל](https://open.spotify.com/album/2BNebgn1ecwtk4W5B9jD3v) | 3:51 | 2022-03-07 |  |
-| [לב מתוק](https://open.spotify.com/track/37c05YWBqAw9aVcWOyDcKx) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB) | [לב מתוק](https://open.spotify.com/album/3zRlDFY76GvceE1qShHPp2) | 3:31 | 2022-02-01 |  |
+| [לב מתוק](https://open.spotify.com/track/37c05YWBqAw9aVcWOyDcKx) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB) | [לב מתוק](https://open.spotify.com/album/3zRlDFY76GvceE1qShHPp2) | 3:31 | 2022-02-01 | 2022-07-01 |
 | [לבה](https://open.spotify.com/track/1NZ21mNbqZDWkAtY7FhA7M) | [Coral Bismuth](https://open.spotify.com/artist/4HHSTY3bNxoprZF3vJ8gLE) | [לבה](https://open.spotify.com/album/7JO3hKCsGNty5HI4lBs4Ri) | 3:04 | 2022-04-05 | 2022-06-01 |
 | [ליבינג דה דרים](https://open.spotify.com/track/6so2IwKQyYFkNv1G0FrZ95) | [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG) | [ליבינג דה דרים](https://open.spotify.com/album/7gGR6IBvZYsqqSs3D1Eo6K) | 2:55 | 2022-02-01 | 2022-03-08 |
 | [לילה](https://open.spotify.com/track/3Bilj28bOzRlsuURDCXb1z) | [Nasrin Kadri](https://open.spotify.com/artist/6kKweapGufuHSv5CXVURim) | [לילה](https://open.spotify.com/album/4sI52msq87O7SdawbEcP44) | 2:42 | 2022-02-01 | 2022-04-06 |
@@ -95,7 +95,8 @@
 | [למרות](https://open.spotify.com/track/0F0WrndBWlnFOvQebbCoT9) | [Roni Dalumi](https://open.spotify.com/artist/5yjmxaLSoZEnkIWJRAmhQe) | [למרות](https://open.spotify.com/album/6syxZISsonjUF24Nrhif3o) | 3:29 | 2022-03-08 | 2022-06-01 |
 | [לקום](https://open.spotify.com/track/5dzc3KHJhhU1pwr33qhZ1w) | [Eden Alene](https://open.spotify.com/artist/3E7T8t0FwjEVxg9jufWZQG) | [לקום](https://open.spotify.com/album/1jvNqbk0iihBIAtTO6Xp38) | 3:15 | 2022-02-01 | 2022-04-06 |
 | [מגבות](https://open.spotify.com/track/7FHL9BVqOK06k1Eye7QaWi) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [מגבות](https://open.spotify.com/album/0ixOGqRks5AeXjRWQEpGIi) | 2:37 | 2022-02-01 | 2022-03-08 |
-| [מגיע לי יותר](https://open.spotify.com/track/0t1BGxsrhYECast5jQI2Gh) | [Coral Bismuth](https://open.spotify.com/artist/4HHSTY3bNxoprZF3vJ8gLE) | [מגיע לי יותר](https://open.spotify.com/album/5rdEzQAGuVgRcoMcfAvIwY) | 3:13 | 2022-05-31 |  |
+| [מגיע לי יותר](https://open.spotify.com/track/0t1BGxsrhYECast5jQI2Gh) | [Coral Bismuth](https://open.spotify.com/artist/4HHSTY3bNxoprZF3vJ8gLE) | [מגיע לי יותר](https://open.spotify.com/album/5rdEzQAGuVgRcoMcfAvIwY) | 3:13 | 2022-05-31 | 2022-07-01 |
+| [מגיע לי יותר](https://open.spotify.com/track/33Gsw1B8LUzHDonqIGUeNu) | [Coral Bismuth](https://open.spotify.com/artist/4HHSTY3bNxoprZF3vJ8gLE) | [שירי רחוב](https://open.spotify.com/album/6w7zgx1vayDs9nstbNXAY4) | 3:13 | 2022-06-30 |  |
 | [מה איתי](https://open.spotify.com/track/7ngFT6B306ad3HUfQM6bci) | [Amit Shauli](https://open.spotify.com/artist/5v5wCcs3M7J6VcD30IEscJ) | [מה איתי](https://open.spotify.com/album/7rnHdmAxiG5xyTJxubUIdz) | 3:02 | 2022-02-01 | 2022-06-01 |
 | [מוזה](https://open.spotify.com/track/7yJcplcCTih0E3SBno2mar) | [Or Edry](https://open.spotify.com/artist/0fx5Wp9roWDYVZY6lzbhQE), [Karni Postel](https://open.spotify.com/artist/1Jb6xj4DC7zQznURdIXBjy) | [מוזה](https://open.spotify.com/album/4V0tDOnDlatvv3vGl3bNq7) | 3:36 | 2022-02-01 | 2022-03-08 |
 | [מחט](https://open.spotify.com/track/146O2tWTZ93NjkljV5gTcg) | [Ethel](https://open.spotify.com/artist/1PkYjaCMjQO2A4Jotcar2V) | [לא ילדה טובה](https://open.spotify.com/album/5AH6bWVfP4qtCxjAKcfqII) | 3:12 | 2022-05-31 |  |
@@ -115,6 +116,7 @@
 | [עוד פעם](https://open.spotify.com/track/77gBzmzqaUGTVwT9pkCXyy) | [Jenny Penkin](https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke) | [עוד פעם](https://open.spotify.com/album/1oYveLIHfVXRi33ozC3Jb7) | 2:50 | 2022-02-01 | 2022-04-06 |
 | [עיניים](https://open.spotify.com/track/7nXGVxILXMM1SzRb05QdGx) | [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8), [אברי ג'י](https://open.spotify.com/artist/17WRn0H7lWQQZmNW34ZY4s) | [עיניים](https://open.spotify.com/album/5x4rMiP84EpqGFRlKZzL8o) | 3:53 | 2022-05-03 |  |
 | [על הספסל שבשכונה \(Al Ha'Safsal She’Bash’chuna\)](https://open.spotify.com/track/500WzrWUs0t3rP824sqSEt) | [Idan Raichel](https://open.spotify.com/artist/5EBnQEKoaiAk37Q7cfGrE1), [Margalit Tzan'ani](https://open.spotify.com/artist/2l6M7GaS9x3rZOX6nDX3CM) | [על הספסל שבשכונה \(Al Ha'Safsal She’Bash’chuna\)](https://open.spotify.com/album/4Ic1Pi6kx46HecsFWnMynL) | 3:45 | 2022-05-31 |  |
+| [עם או בלי לאהוב](https://open.spotify.com/track/1P3f2Dx0FdtBWr8FYxaT2q) | [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [עם או בלי לאהוב](https://open.spotify.com/album/4lj06g5unws8F7TYnnykPY) | 3:18 | 2022-06-30 |  |
 | [פירות](https://open.spotify.com/track/7ngqBftYL9Lv5LneLnXekY) | [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [פירות](https://open.spotify.com/album/6IJToETF8HRMdTWcWIrirk) | 2:51 | 2022-02-01 | 2022-04-06 |
 | [פעם את לילה](https://open.spotify.com/track/0sH3FnGvkT3kf5fu1LCgZy) | [Shay Hamber](https://open.spotify.com/artist/7gFDsAzdTcWL3Rq2t2ACa8) | [פעם את לילה](https://open.spotify.com/album/10kHYOC4pjaVUeMdQgy8Pw) | 3:16 | 2022-03-07 |  |
 | [פעמון](https://open.spotify.com/track/4DgyTAwiSJsT5u5EljsImB) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Itay Galo](https://open.spotify.com/artist/2aHFYxHwk45ask1ipRya1d) | [פעמון](https://open.spotify.com/album/5wQZzk2q5CM90DIvSB7LRH) | 3:00 | 2022-04-05 |  |
@@ -131,8 +133,10 @@
 | [שורפים ת'יום](https://open.spotify.com/track/1wvE3VopIgDz8Pfz8Mlwj2) | [Miri Mesika](https://open.spotify.com/artist/0GmwRPHVAU8zOdTOujIDUa) | [שורפים ת'יום](https://open.spotify.com/album/4xS8waWsE3CGnNk3wOvlbC) | 2:53 | 2022-02-01 | 2022-03-08 |
 | [שחור תלתן](https://open.spotify.com/track/4FBLscRO2QkJMad1k8l8bb) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [אין קונספט](https://open.spotify.com/album/0W9tb7Bq97k1W2mgtJx15a) | 3:04 | 2022-03-07 |  |
 | [שיאהבו אותי ככה](https://open.spotify.com/track/1DSph7GWBk4Xn33HVRpqsq) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [שיאהבו אותי ככה](https://open.spotify.com/album/5MPY98aHq9IJ0d7ji613Pr) | 2:57 | 2022-04-05 | 2022-05-04 |
+| [שלושה בנות](https://open.spotify.com/track/63TUZWEmunvQnAdLUD61yY) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Gitit Fisher](https://open.spotify.com/artist/1dhPws7AA939zNL1Fb7Nz0) | [שלושה בנות](https://open.spotify.com/album/6pUQfBq9yXndShYxbpi84y) | 3:37 | 2022-06-30 |  |
 | [שמיים](https://open.spotify.com/track/50aUHFEv8T9PkI9D8uednP) | [Maya Johanna](https://open.spotify.com/artist/2pgAILWtXXJqguZ19FoDtl) | [שמיים](https://open.spotify.com/album/07EylzZzY2qEZrehNhnzGu) | 3:55 | 2022-02-01 | 2022-04-06 |
 | [שמש בחלון \(By Offir Malol\)](https://open.spotify.com/track/73kQliWg9IPpt6oxAdecWr) | [Noy Fadlon](https://open.spotify.com/artist/4VFtBffxanXW7fbw1xH7at), [החללית](https://open.spotify.com/artist/0ZzM7T5Fehplt4gyE2PdXc) | [שמש בחלון \(By Offir Malol\)](https://open.spotify.com/album/0EllyDoYGh5dj8RzSVCYlf) | 2:55 | 2022-05-31 |  |
+| [תגיעי לירח](https://open.spotify.com/track/3oKVG5iHzm2fRdFFpQ9NLA) | [Aya Korem](https://open.spotify.com/artist/2elW0LtvW7wtgObGfNlH25) | [איה כורם 2022](https://open.spotify.com/album/2qg2Wa3S9jF8Sr5rva6w6T) | 2:48 | 2022-06-30 |  |
 | [תלוי בתהילה](https://open.spotify.com/track/1jHePRLw4udu1F4O5f3yOu) | [Noy Fadlon](https://open.spotify.com/artist/4VFtBffxanXW7fbw1xH7at) | [דיסוננס](https://open.spotify.com/album/0AKybiLj5AUCEnab781lYF) | 3:23 | 2022-03-07 | 2022-05-04 |
 | [תמיד לקום](https://open.spotify.com/track/4AAuvzavD6WJd8HQCWKThQ) | [Ester Rada](https://open.spotify.com/artist/7JTo5JZjCoBQ7CLUqnkw3g) | [תמיד לקום](https://open.spotify.com/album/7pakfv1C5q4zVN3JjYW8M7) | 3:10 | 2022-04-05 |  |
 | [תפילי עליי געגוע](https://open.spotify.com/track/3Xq5ayTa5Y5ioTAowvBgQO) | [Tamar Yahalomy](https://open.spotify.com/artist/25r2nGCH8YzS92nePwePjD) | [תפילי עליי געגוע](https://open.spotify.com/album/5uYvR1Er5PRYn3lyHoNQYc) | 2:59 | 2022-03-08 |  |

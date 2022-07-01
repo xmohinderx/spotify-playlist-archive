@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YFIEyRvxXj.md) - [plain]
 
 > These artists changed the world by changing their tune\.  Their music not only grooved but moved the world with personal and political messages.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,209 likes - 22 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,230 likes - 22 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YFIEyRvxXj.md) - [plain]
 | 10 | [Brother's Gonna Work It Out \- The Mack/Soundtrack Version](https://open.spotify.com/track/1haurWCw5Yb1oP8xNQTfCV) | [Willie Hutch](https://open.spotify.com/artist/5w834ZosnqiBBV8xXCi3oD) | [The Mack \- Original Motion Picture Soundtrack](https://open.spotify.com/album/0iOSxNFl6YhVjWxlzyq5T1) | 4:47 |
 | 11 | [My People...Hold On](https://open.spotify.com/track/5zKAlrdrdEkBkylhwT3cqH) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [People..\. Hold On](https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS) | 5:40 |
 | 12 | [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/track/1dnTzkUEdwm9jrmdpKSfWU) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/1tIrtPivfbpXp1Fp9fdhsg) | 3:16 |
-| 13 | [Higher Ground](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 3:42 |
+| 13 | [Higher Ground](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 0:29 |
 | 14 | [What The World Needs Now Is Love/Abraham, Martin And John](https://open.spotify.com/track/706CvlhWdQi3hmCEas3iBN) | [Tom Clay](https://open.spotify.com/artist/07PipPbqSffwUKRCQ5AcC6) | [The Complete Motown Singles Vol\. 11A: 1971](https://open.spotify.com/album/7B8AZ5Vx6quCCl5sDX6TaZ) | 6:19 |
 | 15 | [Greetings \(This Is Uncle Sam\) \- Single Version](https://open.spotify.com/track/4IlsLphpkrX1fxA1vuuSjy) | [The Valadiers](https://open.spotify.com/artist/7FJuJVKIVnGjlTQWksXwX7) | [The Complete Motown Singles, Vol\. 1: 1959\-1961](https://open.spotify.com/album/13z3kSJRI5AzqRuPnSHyOU) | 2:45 |
 | 16 | [It’s Nation Time](https://open.spotify.com/track/51YTMo5liOoytxQSMTRurI) | [Amiri Baraka](https://open.spotify.com/artist/7KYqj72JjHmay1VKYjC5c4) | [It's Nation Time \- African Visionary Music](https://open.spotify.com/album/7nFEkgNDRnjVP1hUvBCf5k) | 3:08 |

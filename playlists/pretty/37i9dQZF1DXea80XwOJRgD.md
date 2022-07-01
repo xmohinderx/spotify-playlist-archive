@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea80XwOJRgD.md) - [plain]
 
 > Some heart and soul for those up late.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,345 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,397 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea80XwOJRgD.md) - [plain]
 | 4 | [Love on the Brain](https://open.spotify.com/track/7rUOw3mS4gu5IGdnRtrjWU) | [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [Love on the Brain](https://open.spotify.com/album/1J894sC1hAwrXvR3po48jZ) | 3:33 |
 | 5 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 |
 | 6 | [Part Time Love](https://open.spotify.com/track/4QlzHnU3kgHfccvRcFePYF) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Boy Who Cried Freedom](https://open.spotify.com/album/6gCOpOSzeI2WTNN60VhlSg) | 2:49 |
-| 7 | [Better Man](https://open.spotify.com/track/7tOYSMYowhxJ0uK3WMoL5n) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 2:20 |
+| 7 | [Better Man](https://open.spotify.com/track/7tOYSMYowhxJ0uK3WMoL5n) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 0:29 |
 | 8 | [Oh Me Oh My](https://open.spotify.com/track/14KmgxmGFECm8DKagcu23k) | [Erin Costelo](https://open.spotify.com/artist/2amUY80duVVhcrAIXfwBHN) | [We Can Get Over](https://open.spotify.com/album/1BZL72FKgcUBaaRnlLY5eQ) | 2:37 |
 | 9 | [Miracles](https://open.spotify.com/track/3Z4m4bw6t1LTM09WfrXfPc) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi) | [Music](https://open.spotify.com/album/42T1PWZl6NilUzBk3vCXoz) | 4:51 |
 | 10 | [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea80XwOJRgD.md) - [plain]
 | 15 | [What Would It Take \- From "Fifty Shades Darker \(Original Motion Picture Soundtrack\)"](https://open.spotify.com/track/4y5tv0m1pUQMAt4AV7xjta) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4RPo8gaqAbJksSE8JOIVLF) | 3:59 |
 | 16 | [Till You Come Back Through](https://open.spotify.com/track/1gtn5hAcKPAh5kXiMgSCqA) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Spirit](https://open.spotify.com/album/4gv7LjCptAr47MsENyTJuR) | 3:02 |
 | 17 | [You Know How I Feel](https://open.spotify.com/track/3OZmwgYP0RFTjb2t6GtGBG) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Don't Give It Up](https://open.spotify.com/album/1a6NQvZckQ4wDximKHMlwp) | 4:24 |
-| 18 | [Our Love](https://open.spotify.com/track/5cfGJHxNcS1S2qyZj9xH6z) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [The Story of Sonny Boy Slim](https://open.spotify.com/album/5gRwx5vpeXUA75GmuqwByn) | 4:11 |
+| 18 | [Our Love](https://open.spotify.com/track/5cfGJHxNcS1S2qyZj9xH6z) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [The Story of Sonny Boy Slim](https://open.spotify.com/album/5gRwx5vpeXUA75GmuqwByn) | 0:29 |
 | 19 | [I Can Never Be](https://open.spotify.com/track/02ZjbFtRl4ZaFePMZIgXEH) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [An Introduction To Maverick Sabre](https://open.spotify.com/album/0rXEjsZAJDFIKb6ZV38ixG) | 5:01 |
 | 20 | [Mariella](https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 5:10 |
 | 21 | [Is This Love](https://open.spotify.com/track/5FvapYqWK6TEuh4csYwQ9O) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [The Love E.P.](https://open.spotify.com/album/4EeUxjtOwbspRduBfwJYHs) | 3:28 |

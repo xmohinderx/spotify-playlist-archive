@@ -4,7 +4,7 @@
 
 > The calming and pensive side of electric guitar\. Instrumental only.
 
-81 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/3oJlWxouvmQCoHhx3LLhbO)
+81 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/3oJlWxouvmQCoHhx3LLhbO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Sunset Blvd](https://open.spotify.com/track/7B6GIld7XdXdkOcziTsCHi) | [Faelt](https://open.spotify.com/artist/6FlnhTAnvtLGV8mEZLGkBX) | [Open Fields](https://open.spotify.com/album/6AUdvWLCptSVA1g8k7tMKD) | 3:27 | 2022-05-13 |  |
 | [Sway](https://open.spotify.com/track/1ECfMFb5v2sjl1kKBQg9do) | [Fambray](https://open.spotify.com/artist/4478Bpo6m6FSvsaANFykYp) | [Meandering Ghosts](https://open.spotify.com/album/6p8V58htpFLS0iPkiv1yyY) | 2:32 | 2022-05-13 |  |
 | [Tales](https://open.spotify.com/track/6sDT5Hy4pAS6r0KqcY2em5) | [Blake Newton](https://open.spotify.com/artist/248FFgnhqpwX9kcgXtLWKK) | [Water](https://open.spotify.com/album/6Y67bPBC2FOf0WLVrRcq7p) | 3:23 | 2022-05-13 |  |
-| [Taylor](https://open.spotify.com/track/5e9j1O0uzn49EYU5JswarF) | [Joe Castle](https://open.spotify.com/artist/5QPm2OdKelGlQ0OKgvT78z) | [Reflections](https://open.spotify.com/album/34DSq25KJCQJ7tlOhVfeLE) | 3:07 | 2022-05-13 |  |
+| [Taylor](https://open.spotify.com/track/5e9j1O0uzn49EYU5JswarF) | [Joe Castle](https://open.spotify.com/artist/5QPm2OdKelGlQ0OKgvT78z) | [Reflections](https://open.spotify.com/album/34DSq25KJCQJ7tlOhVfeLE) | 0:29 | 2022-05-13 |  |
 | [Telefono B](https://open.spotify.com/track/1rCn4c0ULASiBiEYdQMvc9) | [SEA](https://open.spotify.com/artist/0yMlqsQgpwBZZ6AzyofFAx) | [SEA](https://open.spotify.com/album/3fOrus5SZVYa42UQATcNpy) | 1:43 | 2022-05-13 |  |
 | [The Journey](https://open.spotify.com/track/1XcOci00g6G98QaDipUiPb) | [Jimmie Stills](https://open.spotify.com/artist/64FYFlv9Z4qfU4rXS6Ri5E) | [The Actress](https://open.spotify.com/album/2VOcYwupehwQHrQieOWbCH) | 3:12 | 2022-05-13 |  |
 | [The Kind Journeyman](https://open.spotify.com/track/2CgGcJ3cBHQJhhK2pqcm8g) | [Timestain](https://open.spotify.com/artist/3x4Wg2JsXrfZkMbfP0giOU) | [Ghost Town](https://open.spotify.com/album/2ceYok3cY1JTWnIP12B7u8) | 2:40 | 2022-05-13 |  |

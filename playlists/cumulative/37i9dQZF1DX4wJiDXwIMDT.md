@@ -4,7 +4,7 @@
 
 > Please don’t storm Area 51\. But if you do, listen to this\. 👽
 
-31 songs - 2 hr 11 min - [published](https://open.spotify.com/playlist/3mLF9PDN3bsrbfZsEL08cs)
+31 songs - 2 hr 7 min - [published](https://open.spotify.com/playlist/3mLF9PDN3bsrbfZsEL08cs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [I Am Not A Human Being](https://open.spotify.com/track/2QLWLAqMMJuiBRztcBFgvM) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [I Am Not A Human Being](https://open.spotify.com/album/5vfnsOgLqsgmEb3vGyc2FO) | 4:04 | 2019-07-15 |  |
 | [I Turned into a Martian](https://open.spotify.com/track/3laUFNdKR36ecG4WheN1bm) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Walk Among Us](https://open.spotify.com/album/6jKpIJNGv3uBpI2LNeCrAk) | 1:42 | 2019-07-15 |  |
 | [I've Seen The Saucers](https://open.spotify.com/track/15FemTRww0eSTvhcAH2Lu3) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 4:48 | 2019-07-15 |  |
-| [Intergalactic \- Remastered 2009](https://open.spotify.com/track/5fpizYGbi5IQoEraj6FP0R) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Hello Nasty \(Deluxe Version/Remastered 2009\)](https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB) | 3:51 | 2019-07-15 |  |
+| [Intergalactic \- Remastered 2009](https://open.spotify.com/track/5fpizYGbi5IQoEraj6FP0R) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Hello Nasty \(Deluxe Version/Remastered 2009\)](https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB) | 0:29 | 2019-07-15 |  |
 | [Interstellar Overdrive](https://open.spotify.com/track/3xyTufSSGLP3oZnomceAVW) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Piper at the Gates of Dawn](https://open.spotify.com/album/2Se4ZylF9NkFGD92yv1aZC) | 9:40 | 2019-07-15 |  |
 | [It Came Out Of The Sky](https://open.spotify.com/track/3bgTFCt5CTfasvpigHAdL0) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Willy And The Poor Boys \(Expanded Edition\)](https://open.spotify.com/album/31q47gQszFt0CddSyMksgO) | 2:55 | 2019-07-15 |  |
 | [Naruto Theme Song](https://open.spotify.com/track/5r0U37eqDx25e0vtDQl4Tt) | [Typhillosion](https://open.spotify.com/artist/3DvDYQx7kUpb3sz5njRC8p) | [Naruto Theme Song](https://open.spotify.com/album/0FkNvZZuqmrLpydpDkjXxV) | 4:04 | 2019-07-15 | 2022-06-19 |

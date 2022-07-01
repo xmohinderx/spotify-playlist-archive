@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 280853,
       "name": "Ain't Nobody",
       "url": "https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh"
@@ -481,7 +481,7 @@
       ],
       "date_added": "2021-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 254893,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/7hrUma6oSEaVwnlwkQa7XB"
@@ -931,7 +931,7 @@
       ],
       "date_added": "2021-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 214546,
       "name": "Midnight Love Affair",
       "url": "https://open.spotify.com/track/3IGYL4FbFEv9u9J1QC5BKI"
@@ -967,7 +967,7 @@
       ],
       "date_added": "2021-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 231933,
       "name": "Moody Caf\u00e9",
       "url": "https://open.spotify.com/track/1P1xOcWnRrekSVO7xbTB9M"
@@ -1003,7 +1003,7 @@
       ],
       "date_added": "2021-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 253320,
       "name": "Move Me No Mountain",
       "url": "https://open.spotify.com/track/0kgnNHZH8pY7TXYS7xtCBk"
@@ -1057,7 +1057,7 @@
       ],
       "date_added": "2021-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 230466,
       "name": "Never Too Much",
       "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
@@ -1134,7 +1134,7 @@
       "date_added": "2021-02-18",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 281200,
+      "duration_ms": 29048,
       "name": "Now That We Found Love",
       "url": "https://open.spotify.com/track/0qOkHfSClduvkvGk6fCu8l"
     },
@@ -1206,7 +1206,7 @@
       "date_added": "2021-02-18",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 257360,
+      "duration_ms": 29048,
       "name": "Overdose of Joy",
       "url": "https://open.spotify.com/track/0Ay7pwWStfH00fpQlEaLFM"
     },
@@ -1393,7 +1393,7 @@
       ],
       "date_added": "2021-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 200840,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/69eoS6bEWWfMac4TL36UiM"
@@ -1465,7 +1465,7 @@
       ],
       "date_added": "2021-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 288653,
       "name": "Through the Fire",
       "url": "https://open.spotify.com/track/4fZDZMgyWBxTg2Rc4OHVtB"
@@ -1487,6 +1487,24 @@
       "duration_ms": 172320,
       "name": "Tired of Being Alone",
       "url": "https://open.spotify.com/track/5vjmFhes2UVEo5aGQ27q7l"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/2kSQnTLbO7fevT5zOaM6Hv"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "date_added": "2021-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229440,
+      "name": "Turn Your Love Around - 2015 GH Version",
+      "url": "https://open.spotify.com/track/3jlKeObN7azQvrySwLdvP3"
     },
     {
       "album": {
@@ -1707,7 +1725,7 @@
       ],
       "date_added": "2021-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 155720,
       "name": "You're Messing Up A Good Thing",
       "url": "https://open.spotify.com/track/3SxBXDg4cJFwa3uwjpoxCU"
@@ -1726,7 +1744,7 @@
       "date_added": "2021-02-18",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 221293,
+      "duration_ms": 29048,
       "name": "Your Love Is King - Remastered",
       "url": "https://open.spotify.com/track/5EwNOL1CWnM74ptsVvW9OV"
     }

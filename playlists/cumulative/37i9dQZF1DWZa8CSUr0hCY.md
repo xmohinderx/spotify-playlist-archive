@@ -4,7 +4,7 @@
 
 > Laissez\-vous porter par le beat...
 
-69 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/0gghZCgUDQvda6LW20JSdc)
+69 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/0gghZCgUDQvda6LW20JSdc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,8 +23,8 @@
 | [Dusk to Dawn](https://open.spotify.com/track/2MXF16lswqJGnW57jhkqBR) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Dusk to Dawn](https://open.spotify.com/album/6RTzC0rDbvagTSJLlY7AKl) | 5:25 | 2020-10-20\* |  |
 | [Early Spring](https://open.spotify.com/track/5nMaFvH4APmJipUSAMYmUQ) | [.Sinh](https://open.spotify.com/artist/0qRgQLC8mPlcJ5Zo6mlcuG), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Early Spring](https://open.spotify.com/album/62IVBKLCnO60HfCkefrOEg) | 3:08 | 2022-04-28 |  |
 | [Ekans](https://open.spotify.com/track/2PaFzDcgVZIHqN8XvV4azQ) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [KEEN: Soft Beats Vol\. 1](https://open.spotify.com/album/3VgJOpq6wEKsHtn2zb7LKi) | 2:20 | 2020-10-20\* |  |
-| [El Manaba](https://open.spotify.com/track/6MwN6feVdE1qMsl6RwlxyG) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Hip Dozer, Vol\. 3](https://open.spotify.com/album/0KoSsP5po1jU95aGj4g14j) | 2:16 | 2020-11-06 |  |
-| [Every Time](https://open.spotify.com/track/3MDkws8QGzLrMrWVAbzoXO) | [Boogie Belgique](https://open.spotify.com/artist/4TIrC99WSg0tOtBCGDjMRY) | [Volta](https://open.spotify.com/album/6xFQdyHr6fQrLOmtRHv1Nb) | 4:01 | 2020-10-20\* |  |
+| [El Manaba](https://open.spotify.com/track/6MwN6feVdE1qMsl6RwlxyG) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Hip Dozer, Vol\. 3](https://open.spotify.com/album/0KoSsP5po1jU95aGj4g14j) | 0:29 | 2020-11-06 |  |
+| [Every Time](https://open.spotify.com/track/3MDkws8QGzLrMrWVAbzoXO) | [Boogie Belgique](https://open.spotify.com/artist/4TIrC99WSg0tOtBCGDjMRY) | [Volta](https://open.spotify.com/album/6xFQdyHr6fQrLOmtRHv1Nb) | 0:29 | 2020-10-20\* |  |
 | [Fall Has Come](https://open.spotify.com/track/6sW1czgSDDLkISEpk8zzI9) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [River Boats](https://open.spotify.com/album/0NIerYM4WLUzEuuudlXnft) | 2:04 | 2020-10-20\* | 2020-11-06 |
 | [Fallen Leaf](https://open.spotify.com/track/7jy55dXHKNQU2z1m8aUfuy) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Hip Dozer, Vol\. 6](https://open.spotify.com/album/2UPZZagR1OvO6uuouU1qJ0) | 2:35 | 2022-04-28 |  |
 | [Felted](https://open.spotify.com/track/0pc7pvoTQFPebXtWw35AK2) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [nobuddy](https://open.spotify.com/artist/05Vk6pbfFkjyz9cTEvb45v) | [Felted October](https://open.spotify.com/album/5vIvFrE4zGmZq2Fveo3ar4) | 1:51 | 2021-06-02 |  |

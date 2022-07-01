@@ -1,13 +1,29 @@
 {
   "description": "Monster Hiphop anthems to unlock your day. Tracks from Khalighraph Jones, Wakadinali, Kendrick Lamar and more",
-  "num_followers": 2765,
+  "num_followers": 3032,
   "original_name": "JumpOff",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjAxNzk0MCwwMDAwMDAwNDAwMDAwMTgxOTI1YzZlN2EwMDAwMDE4MTZiZWY4ZTU1",
+  "snapshot_id": "MTY1NjYyMjc0MCwwMDAwMDAwNTAwMDAwMTgxYjY2OGYyYzMwMDAwMDE4MTZiZWY4ZTU1",
   "tracks": [
+    {
+      "added_at": "2022-06-16 10:18:18",
+      "album": {
+        "name": "IGOR",
+        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 195320,
+      "name": "NEW MAGIC WAND",
+      "url": "https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf"
+    },
     {
       "added_at": "2022-06-16 10:18:18",
       "album": {
@@ -45,6 +61,26 @@
       "url": "https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t"
     },
     {
+      "added_at": "2022-06-23 20:59:00",
+      "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 218364,
+      "name": "Jimmy Cooks (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
+    },
+    {
       "added_at": "2022-06-16 10:18:18",
       "album": {
         "name": "Blue Ticks (feat. Femi One)",
@@ -65,24 +101,40 @@
       "url": "https://open.spotify.com/track/4idmyddVB7baddyWJWDnEF"
     },
     {
-      "added_at": "2022-06-23 20:59:00",
+      "added_at": "2022-06-16 10:18:18",
       "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+        "name": "THE GOAT",
+        "url": "https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         }
       ],
-      "duration_ms": 218364,
-      "name": "Jimmy Cooks (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
+      "duration_ms": 176574,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/40j4RoqmLiivqzRObbQ4BF"
+    },
+    {
+      "added_at": "2022-06-16 10:18:18",
+      "album": {
+        "name": "Elon Musk (feat. Gunna)",
+        "url": "https://open.spotify.com/album/5AviR59jAHiYp4Up3hj0bw"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 205758,
+      "name": "Elon Musk (feat. Gunna)",
+      "url": "https://open.spotify.com/track/6g6FfeozIEkVUXecpSq16Q"
     },
     {
       "added_at": "2022-06-16 10:18:18",
@@ -211,22 +263,22 @@
     {
       "added_at": "2022-06-16 10:18:18",
       "album": {
-        "name": "Elon Musk (feat. Gunna)",
-        "url": "https://open.spotify.com/album/5AviR59jAHiYp4Up3hj0bw"
+        "name": "family ties (with Kendrick Lamar)",
+        "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
       },
       "artists": [
         {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
         },
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 205758,
-      "name": "Elon Musk (feat. Gunna)",
-      "url": "https://open.spotify.com/track/6g6FfeozIEkVUXecpSq16Q"
+      "duration_ms": 252069,
+      "name": "family ties (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
     },
     {
       "added_at": "2022-06-16 10:18:18",
@@ -275,22 +327,6 @@
       "duration_ms": 135264,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb"
-    },
-    {
-      "added_at": "2022-06-16 10:18:18",
-      "album": {
-        "name": "THE GOAT",
-        "url": "https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 176574,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/40j4RoqmLiivqzRObbQ4BF"
     },
     {
       "added_at": "2022-06-16 10:18:18",
@@ -411,26 +447,6 @@
       "duration_ms": 192956,
       "name": "Wants and Needs (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/65OVbaJR5O1RmwOQx0875b"
-    },
-    {
-      "added_at": "2022-06-16 10:18:18",
-      "album": {
-        "name": "family ties (with Kendrick Lamar)",
-        "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 252069,
-      "name": "family ties (with Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
     },
     {
       "added_at": "2022-06-16 10:18:18",
@@ -580,7 +596,7 @@
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 181393,
+      "duration_ms": 29048,
       "name": "What Happened To Virgil (feat. Gunna)",
       "url": "https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P"
     },
@@ -607,38 +623,22 @@
     {
       "added_at": "2022-06-16 10:18:18",
       "album": {
-        "name": "Sleazy Flow (Remix)",
-        "url": "https://open.spotify.com/album/4N1yQmAeHbswH8jbcRnsEG"
+        "name": "Pop Out",
+        "url": "https://open.spotify.com/album/3DKxIMMpgRakBLeaXEs0JG"
       },
       "artists": [
         {
-          "name": "SleazyWorld Go",
-          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+          "name": "Lewis KE",
+          "url": "https://open.spotify.com/artist/5EWEp45uBW3TNr3v0F0bT3"
         },
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "The Renaissance Man",
+          "url": "https://open.spotify.com/artist/6nszgkJNXu8EhZdEzaYqWi"
         }
       ],
-      "duration_ms": 161355,
-      "name": "Sleazy Flow (with Lil Baby) - Remix",
-      "url": "https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz"
-    },
-    {
-      "added_at": "2022-06-16 10:18:18",
-      "album": {
-        "name": "IGOR",
-        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 195320,
-      "name": "NEW MAGIC WAND",
-      "url": "https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf"
+      "duration_ms": 189295,
+      "name": "Pop Out",
+      "url": "https://open.spotify.com/track/0XLWcdwnbkaq1sxbNXJBNs"
     },
     {
       "added_at": "2022-06-16 10:18:18",
@@ -775,6 +775,26 @@
     {
       "added_at": "2022-06-16 10:18:18",
       "album": {
+        "name": "Sleazy Flow (Remix)",
+        "url": "https://open.spotify.com/album/4N1yQmAeHbswH8jbcRnsEG"
+      },
+      "artists": [
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 161355,
+      "name": "Sleazy Flow (with Lil Baby) - Remix",
+      "url": "https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz"
+    },
+    {
+      "added_at": "2022-06-16 10:18:18",
+      "album": {
         "name": "D.R.U.G.S (Dear.Romance.U.Got.Sweet)",
         "url": "https://open.spotify.com/album/6p7woEtazKqCoSi4DpiIU8"
       },
@@ -787,22 +807,6 @@
       "duration_ms": 115973,
       "name": "Love",
       "url": "https://open.spotify.com/track/0wj0rGLu2CnpGEZBiXcZZi"
-    },
-    {
-      "added_at": "2022-06-16 10:18:18",
-      "album": {
-        "name": "EAST MPAKA LONDON",
-        "url": "https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G"
-      },
-      "artists": [
-        {
-          "name": "BURUKLYN BOYZ",
-          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
-        }
-      ],
-      "duration_ms": 175357,
-      "name": "BLICKY",
-      "url": "https://open.spotify.com/track/11onBbRpOfADTEMP9C4CYB"
     },
     {
       "added_at": "2022-06-16 10:18:18",
@@ -871,22 +875,6 @@
     {
       "added_at": "2022-06-16 10:18:18",
       "album": {
-        "name": "A Bag In A Lexus",
-        "url": "https://open.spotify.com/album/0xQcWh9alDQZF8eAc0iFs6"
-      },
-      "artists": [
-        {
-          "name": "Misee Billions",
-          "url": "https://open.spotify.com/artist/5Lhx3MUyzocreEfyAlOWJ7"
-        }
-      ],
-      "duration_ms": 174839,
-      "name": "A Bag In A Lexus",
-      "url": "https://open.spotify.com/track/3DW8Z1gH89lDgEGjmi903q"
-    },
-    {
-      "added_at": "2022-06-16 10:18:18",
-      "album": {
         "name": "ZOZA",
         "url": "https://open.spotify.com/album/0oOxh5ffZn4Gq7Jvxeey3o"
       },
@@ -924,9 +912,25 @@
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 180386,
+      "duration_ms": 29048,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
+    },
+    {
+      "added_at": "2022-06-16 10:18:18",
+      "album": {
+        "name": "EAST MPAKA LONDON",
+        "url": "https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G"
+      },
+      "artists": [
+        {
+          "name": "BURUKLYN BOYZ",
+          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+        }
+      ],
+      "duration_ms": 175357,
+      "name": "BLICKY",
+      "url": "https://open.spotify.com/track/11onBbRpOfADTEMP9C4CYB"
     },
     {
       "added_at": "2022-06-16 10:18:18",
@@ -947,22 +951,18 @@
     {
       "added_at": "2022-06-16 10:18:18",
       "album": {
-        "name": "Pop Out",
-        "url": "https://open.spotify.com/album/3DKxIMMpgRakBLeaXEs0JG"
+        "name": "A Bag In A Lexus",
+        "url": "https://open.spotify.com/album/0xQcWh9alDQZF8eAc0iFs6"
       },
       "artists": [
         {
-          "name": "Lewis KE",
-          "url": "https://open.spotify.com/artist/5EWEp45uBW3TNr3v0F0bT3"
-        },
-        {
-          "name": "The Renaissance Man",
-          "url": "https://open.spotify.com/artist/6nszgkJNXu8EhZdEzaYqWi"
+          "name": "Misee Billions",
+          "url": "https://open.spotify.com/artist/5Lhx3MUyzocreEfyAlOWJ7"
         }
       ],
-      "duration_ms": 189295,
-      "name": "Pop Out",
-      "url": "https://open.spotify.com/track/0XLWcdwnbkaq1sxbNXJBNs"
+      "duration_ms": 174839,
+      "name": "A Bag In A Lexus",
+      "url": "https://open.spotify.com/track/3DW8Z1gH89lDgEGjmi903q"
     }
   ],
   "unique_name": "JumpOff",

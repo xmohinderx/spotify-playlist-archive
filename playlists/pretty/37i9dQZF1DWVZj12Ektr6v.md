@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVZj12Ektr6v.md) - [plain]
 
 > To the world, this is NCT! This is NCT DREAM! The repackaged album, Beatbox is out!
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,598 likes - 59 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,869 likes - 59 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVZj12Ektr6v.md) - [plain]
 | 37 | [Irreplaceable](https://open.spotify.com/track/3EFNqXf54nYARxXm5b7kGT) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:24 |
 | 38 | [Dear DREAM](https://open.spotify.com/track/42HB7NqTtooRK7Lrwvwrq2) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Go Up](https://open.spotify.com/album/0pIWpPef8UFx8iQ5KSZsYj) | 3:09 |
 | 39 | [Déjà Vu](https://open.spotify.com/track/73TM9iCEp8VtKZNXZADbQb) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [NCT RESONANCE Pt\. 1 \- The 2nd Album](https://open.spotify.com/album/1rGpCbxrR8efs4nMPdUj1q) | 3:27 |
-| 40 | [Candle Light](https://open.spotify.com/track/6nUpdTLUSel3Zp6lhHZRbX) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Candle Light \- SM STATION](https://open.spotify.com/album/077Bz6P3dTrhGjYx2vF0yY) | 3:56 |
-| 41 | [Fireflies \(THE OFFICIAL SONG OF THE WORLD SCOUT FOUNDATION\)](https://open.spotify.com/track/1F9FQp9dnnQWTkaK6Nzm1W) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Fireflies \(THE OFFICIAL SONG OF THE WORLD SCOUT FOUNDATION\)](https://open.spotify.com/album/6MYKofPnqIdjfznGSopzCi) | 3:20 |
+| 40 | [Candle Light](https://open.spotify.com/track/6nUpdTLUSel3Zp6lhHZRbX) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Candle Light \- SM STATION](https://open.spotify.com/album/077Bz6P3dTrhGjYx2vF0yY) | 0:29 |
+| 41 | [Fireflies \(THE OFFICIAL SONG OF THE WORLD SCOUT FOUNDATION\)](https://open.spotify.com/track/1F9FQp9dnnQWTkaK6Nzm1W) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Fireflies \(THE OFFICIAL SONG OF THE WORLD SCOUT FOUNDATION\)](https://open.spotify.com/album/6MYKofPnqIdjfznGSopzCi) | 0:29 |
 | 42 | [Drippin'](https://open.spotify.com/track/5ZbwJYmRtJe5Uy9nFkki8W) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Go Up](https://open.spotify.com/album/0pIWpPef8UFx8iQ5KSZsYj) | 3:17 |
 | 43 | [Love Again](https://open.spotify.com/track/2eqehaP6hg04FQ82CLErFd) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Reload](https://open.spotify.com/album/1V5ilz8ghPl1PZJA1hbw3r) | 3:30 |
 | 44 | [Beautiful Time](https://open.spotify.com/track/12YCzgLIK66nMNz4IpPTuL) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Go Up](https://open.spotify.com/album/0pIWpPef8UFx8iQ5KSZsYj) | 3:27 |

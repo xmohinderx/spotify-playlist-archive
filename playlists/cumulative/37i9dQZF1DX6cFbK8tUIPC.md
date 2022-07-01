@@ -4,7 +4,7 @@
 
 > <a href="https://open.spotify.com/track/20bNmfHntXFvYInCEQZYfp?si=e255ce242aff4eae">latte foam art, tiny pumpkins, fuzzy comfy socks</a>
 
-115 songs - 7 hr 17 min - [published](https://open.spotify.com/playlist/0mBRoCtoHT76cBA1H5bvPI)
+115 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/0mBRoCtoHT76cBA1H5bvPI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Beach Baby](https://open.spotify.com/track/7oRNU7Tmek0nm2lqyDojoG) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Blood Bank](https://open.spotify.com/album/5MjC805qLtwgqXH1c0kpjK) | 2:40 | 2021-12-03 |  |
 | [Before the Fall](https://open.spotify.com/track/4zDgW6uebdnhvGnZsAicHa) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Before the Fall](https://open.spotify.com/album/7GvIlBDCCgy1xnjpQCLzkY) | 2:59 | 2021-12-03 |  |
 | [Beige](https://open.spotify.com/track/06uCqIkWqwxBDWVGzYXICN) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Beige](https://open.spotify.com/album/2ep49soIT8mJN77rwA0n78) | 3:22 | 2022-06-22 |  |
-| [Beige](https://open.spotify.com/track/0FfZudphGgQTGeEV6AhmOs) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/0tg6msTvhHx8glztrBii80) | 3:24 | 2021-12-03 |  |
+| [Beige](https://open.spotify.com/track/0FfZudphGgQTGeEV6AhmOs) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/0tg6msTvhHx8glztrBii80) | 0:29 | 2021-12-03 |  |
 | [Change](https://open.spotify.com/track/5WZGUtMLcqOMPem9J7PzVs) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Change](https://open.spotify.com/album/0RmOC132NVM3iENECtcmYb) | 6:04 | 2021-12-03 |  |
 | [Cherry](https://open.spotify.com/track/6hrH6nUOPoB9kW2dT4GXzy) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Cherry](https://open.spotify.com/album/1tC67mJvSOPmzKqglQKrzw) | 3:32 | 2022-06-22 |  |
 | [Cinnamon](https://open.spotify.com/track/7pJ8EpupQvfomVNPtfneql) | [Jome](https://open.spotify.com/artist/4rUMcxwZhidyj6FTbMSXse) | [Tunnels](https://open.spotify.com/album/7LhNffG8tDqV6o1vnjY88E) | 3:24 | 2021-12-03 |  |
@@ -43,7 +43,7 @@
 | [Deep End](https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Deep End](https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc) | 2:51 | 2021-12-03 |  |
 | [didn't you believe in me?](https://open.spotify.com/track/3nKtDtNpGFa8fRZQMpjNVR) | [Philip Brooks](https://open.spotify.com/artist/6Bo5UEoUopq42HZX3apU1w) | [quite early one morning](https://open.spotify.com/album/7COOYAhKymobmwEXFsRdLB) | 2:15 | 2021-12-03 |  |
 | [Dirty Paws](https://open.spotify.com/track/5g7rJvWYVrloJZwKiShqlS) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 4:38 | 2021-12-03 |  |
-| [Dog Years](https://open.spotify.com/track/5RRNZFyOi17nTh2bPEKPtp) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Now That The Light Is Fading](https://open.spotify.com/album/16wZsyXQ463IYlrXyJnRfY) | 4:37 | 2021-12-03 |  |
+| [Dog Years](https://open.spotify.com/track/5RRNZFyOi17nTh2bPEKPtp) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Now That The Light Is Fading](https://open.spotify.com/album/16wZsyXQ463IYlrXyJnRfY) | 0:29 | 2021-12-03 |  |
 | [doomsday](https://open.spotify.com/track/27KG1LszbO6bBHA0tPgeuW) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [doomsday](https://open.spotify.com/album/3RuDESb4PCEevmw6FVzOLm) | 4:28 | 2021-12-03 |  |
 | [end of my street](https://open.spotify.com/track/2MtvVsQcdNvTIFKicaOwLr) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [once the edge has worn off](https://open.spotify.com/album/1HzHGZQVUwJeBBExUQuhPg) | 2:42 | 2021-12-03 |  |
 | [erase me \(feat\. Jacob Collier\)](https://open.spotify.com/track/0In3u56vbH2at3bViAzzwq) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [erase me \(feat\. Jacob Collier\)](https://open.spotify.com/album/0HLowVrjApBviPxvLWbRKI) | 3:34 | 2021-12-03 |  |
@@ -52,7 +52,7 @@
 | [Fisher Island Sound](https://open.spotify.com/track/5F16DqcQbTuBTpzKjt5LCO) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Fisher Island Sound](https://open.spotify.com/album/7m9fOQhCj0noSv92E2XT9s) | 2:44 | 2021-12-03 |  |
 | [Folding](https://open.spotify.com/track/6DO7jBbwOWkjdbC3BoLvG1) | [Abimaro](https://open.spotify.com/artist/6ZrBzUQXpmwFpiUIlqSLbm) | [Folding](https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL) | 3:47 | 2021-12-03 |  |
 | [Follaton Wood](https://open.spotify.com/track/1bVlFkO4UyfNYWurqCghT7) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [The Old Pine E.P.](https://open.spotify.com/album/0k58WX5uI2CNJ0BlH1cKXA) | 4:49 | 2021-12-03 |  |
-| [For Good](https://open.spotify.com/track/2NywGeZ2cJl5G7SSEDRF3P) | [katie phelan](https://open.spotify.com/artist/7g4ZlfLhJhCxpaMPUH2PY4) | [For Good](https://open.spotify.com/album/2KimldDD1VuIayQTZV6svQ) | 3:18 | 2021-12-03 |  |
+| [For Good](https://open.spotify.com/track/2NywGeZ2cJl5G7SSEDRF3P) | [katie phelan](https://open.spotify.com/artist/7g4ZlfLhJhCxpaMPUH2PY4) | [For Good](https://open.spotify.com/album/2KimldDD1VuIayQTZV6svQ) | 0:29 | 2021-12-03 |  |
 | [Garden \- Secret Track](https://open.spotify.com/track/1g1gy3VFrHzc7UfXHrzeP7) | [Caoilfhionn Rose](https://open.spotify.com/artist/6YRqlhH88xZ7h2WOhwNYOb) | [Garden \(Secret Track\)](https://open.spotify.com/album/4d4OKNBrENh5TYu4LqRlwG) | 4:17 | 2021-12-03 |  |
 | [Georgia](https://open.spotify.com/track/5ASPgiUgnrHCfwnJlh04ZR) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 4:07 | 2021-12-03 |  |
 | [Happy Just to Know](https://open.spotify.com/track/3txtCmzzpRv33LqhYllCkA) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [High Moon](https://open.spotify.com/album/4lId9PZ1NyhAb3Tk1NfetV) | 3:24 | 2021-12-03 |  |

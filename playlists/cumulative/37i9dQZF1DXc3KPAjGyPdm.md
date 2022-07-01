@@ -4,7 +4,7 @@
 
 > Music from and inspired by Stranger Things\. Watch Season 4 now on Netflix.
 
-183 songs - 10 hr 46 min - [published](https://open.spotify.com/playlist/46rHkOw5I8WIIcWUUhwmZN)
+183 songs - 10 hr 42 min - [published](https://open.spotify.com/playlist/46rHkOw5I8WIIcWUUhwmZN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Every Breath You Take](https://open.spotify.com/track/0SNGe4xksgp7CGnY5kMXOJ) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Stranger Things \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/0CTCk1eshEadFqZ4NBfe9N) | 4:11 | 2017-12-20 |  |
 | [Fever](https://open.spotify.com/track/7w8MExakpbdxhVLos6ccRu) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Off The Bone](https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi) | 4:19 | 2022-05-27 |  |
 | [Find the Source](https://open.spotify.com/track/3EsW4otT3842xdOosEAxHb) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc) | 1:18 | 2019-07-10 |  |
-| [Full Fathom Five/I Shall Not Care](https://open.spotify.com/track/0Z6CuPLVLe21ljBhkTwplC) | [Pearls Before Swine](https://open.spotify.com/artist/01UrELDCYrQ6wrFArNbidS) | [The Wizard Of Is](https://open.spotify.com/album/5IgRl2HyYt1ZSaBbeRYwHA) | 2:47 | 2017-12-20 |  |
+| [Full Fathom Five/I Shall Not Care](https://open.spotify.com/track/0Z6CuPLVLe21ljBhkTwplC) | [Pearls Before Swine](https://open.spotify.com/artist/01UrELDCYrQ6wrFArNbidS) | [The Wizard Of Is](https://open.spotify.com/album/5IgRl2HyYt1ZSaBbeRYwHA) | 0:29 | 2017-12-20 |  |
 | [Funky Fanfare](https://open.spotify.com/track/3Vr406z58yyyO2Ofh1fbqA) | [Keith Mansfield](https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH) | [The Kpm 1000 Series \- Volume 1](https://open.spotify.com/album/1svikpX3DorNerwbCIGi6H) | 2:28 | 2019-07-10 |  |
 | [Get Up And Go](https://open.spotify.com/track/5u165RYdVYhMtPc8ukhaoY) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Greatest](https://open.spotify.com/album/6qDHT0nQqu8GhK2jFa5LNp) | 3:16 | 2019-07-10 |  |
 | [Ghostbusters](https://open.spotify.com/track/300zfRaCgTmEm5Eqe3HqZZ) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Arista Heritage Series: Ray Parker](https://open.spotify.com/album/1Fq1oCtmlSQabl1zIdoWCg) | 4:00 | 2017-12-20 |  |
@@ -94,7 +94,7 @@
 | [It's Just Ice](https://open.spotify.com/track/4mfLt3g1xUCQx44jzImphW) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc) | 4:00 | 2019-07-10 |  |
 | [Italian gigolo](https://open.spotify.com/track/2rVsrqkjAdxGNXCyhBqUYR) | [Vincenzo Salvia](https://open.spotify.com/artist/0B1OIGHmTqq2gEn4IMaEci) | [B\-side](https://open.spotify.com/album/7dtTKyIndETZViyWdBQQRR) | 3:06 | 2019-07-10 |  |
 | [Jack Tar's Hornpipe](https://open.spotify.com/track/6tbfEtqhGbGGRLCism9n1L) | [John Leach](https://open.spotify.com/artist/6AezXSEGAwTPfgZv6KPcoq) | [Kpm 1000 Series: Traditional Folk Music of Great Britain and France](https://open.spotify.com/album/5eqYt125fQEO5ePSKUvRiQ) | 1:09 | 2019-07-10 |  |
-| [Jenny May](https://open.spotify.com/track/4GBOWK3lV5zSVtcgEfTWFT) | [Trader Horne](https://open.spotify.com/artist/3kqRce9Kv4QgTeUaQ9sqYy) | [Morning Way](https://open.spotify.com/album/1wwod56wMvGvc8cmLEZGGo) | 2:26 | 2017-12-20 |  |
+| [Jenny May](https://open.spotify.com/track/4GBOWK3lV5zSVtcgEfTWFT) | [Trader Horne](https://open.spotify.com/artist/3kqRce9Kv4QgTeUaQ9sqYy) | [Morning Way](https://open.spotify.com/album/1wwod56wMvGvc8cmLEZGGo) | 0:29 | 2017-12-20 |  |
 | [Kids](https://open.spotify.com/track/68gzf3AleOyt4NlKwpV0MY) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 2:38 | 2017-12-20 |  |
 | [La Traviata / Act 1: "Libiamo ne' lieti calici" \(Brindisi\)](https://open.spotify.com/track/06xXOoiTp2xi8iUh3wKj2Y) | [Giuseppe Verdi](https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU), [Dame Joan Sutherland](https://open.spotify.com/artist/57ut70dPEUxC1dk83YY3hY), [The London Opera Chorus](https://open.spotify.com/artist/3RIfkcDRrJkrLteTN46oHJ), [National Philharmonic Orchestra](https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd), [Richard Bonynge](https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ) | [Pavarotti \(Music from the Motion Picture\)](https://open.spotify.com/album/1rfBOY8Mm8WCgaIRouJgw6) | 2:51 | 2019-07-10 |  |
 | [Land Deeds](https://open.spotify.com/track/7qkkd1COeUTxyUjtqTYVQr) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc) | 1:08 | 2019-07-10 |  |

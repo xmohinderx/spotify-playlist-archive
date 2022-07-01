@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Caamp
 
-[Spotify](https://open.spotify.com/user/spotify) - 725,962 likes - 156 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 726,166 likes - 156 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 12 | [Heads Look Like Drums](https://open.spotify.com/track/5LdYarV4vC2SZJeeTJJ8fa) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [The Less I Knew](https://open.spotify.com/album/0mPYANCi1rAEvSQspvRnXs) | 3:04 |
 | 13 | [Through The Echoes](https://open.spotify.com/track/13KhcUWu9WucFw0h5jB88R) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Through The Echoes / Lose It](https://open.spotify.com/album/6MyKaxAWINJVX8IeTrQxPC) | 3:41 |
 | 14 | [Rise the Tide](https://open.spotify.com/track/3nLP5Oftc3XeQaK4A0tRNx) | [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA) | [Rise the Tide](https://open.spotify.com/album/0gWHB0oCmgNYr3pRl7CYIX) | 4:05 |
-| 15 | [Meeting Eddie Smith](https://open.spotify.com/track/41MwuIrOmez8k0X5mH9emb) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Meeting Eddie Smith](https://open.spotify.com/album/0Zzyns4s6SphSyfDrg60cC) | 3:38 |
+| 15 | [Meeting Eddie Smith](https://open.spotify.com/track/41MwuIrOmez8k0X5mH9emb) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Meeting Eddie Smith](https://open.spotify.com/album/0Zzyns4s6SphSyfDrg60cC) | 0:29 |
 | 16 | [Go Home](https://open.spotify.com/track/5qbHBepTowbMldhK8RVhTl) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 5:25 |
 | 17 | [Michigan Cherry](https://open.spotify.com/track/0fOEjjXBEiyu395pW3C1eo) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Monoflora](https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE) | 3:43 |
 | 18 | [Didn't It Rain](https://open.spotify.com/track/17Youf3SH9GXk32LvDMpBV) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1) | [Didn't It Rain](https://open.spotify.com/album/0Mrr7AiQ2PvAd3JA7XrCiH) | 3:05 |
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 84 | [Hawk For The Dove](https://open.spotify.com/track/0YJeobNNtb6ZBtpk2QwA7B) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Hawk For The Dove](https://open.spotify.com/album/7f1VQAcjCcX2DHEzt6WjJ0) | 3:47 |
 | 85 | [Other Side](https://open.spotify.com/track/19kDyB6HprmUSzBvPbpkTl) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Other Side](https://open.spotify.com/album/75nchWQhiPgAjVdXsNLOaY) | 4:13 |
 | 86 | [creek](https://open.spotify.com/track/6yrQv90qvsZkKVwLtcislR) | [Philip Brooks](https://open.spotify.com/artist/6Bo5UEoUopq42HZX3apU1w), [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [creek](https://open.spotify.com/album/49lweSd5FdAmHS31xKPyoT) | 2:33 |
-| 87 | [Consolation Prize](https://open.spotify.com/track/71wiJ619MbaSStsiN6XT06) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi), [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Consolation Prize](https://open.spotify.com/album/5KyVj6FfbV3lwwMIXyQeZ1) | 4:00 |
+| 87 | [Consolation Prize](https://open.spotify.com/track/71wiJ619MbaSStsiN6XT06) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi), [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Consolation Prize](https://open.spotify.com/album/5KyVj6FfbV3lwwMIXyQeZ1) | 0:29 |
 | 88 | [Manly Man](https://open.spotify.com/track/3W8tRjkiC0TQZuUq0wA5zI) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Manly Man](https://open.spotify.com/album/79topiJ4Bj0SRE5XiBkpuH) | 3:30 |
 | 89 | [Mecca](https://open.spotify.com/track/4C5bRIloL1afbepFvjMLYE) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Mecca](https://open.spotify.com/album/0diLOQUXoO0jIWMmC4S4KV) | 4:51 |
 | 90 | [Go](https://open.spotify.com/track/30KzQNZUtnr7t7AKmZPlPk) | [Wallis Bird](https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX) | [Hands](https://open.spotify.com/album/5wCnLFRUkOcd1e7DrvjJNe) | 2:07 |
@@ -163,6 +163,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 153 | [Perfect Stranger](https://open.spotify.com/track/0aX5kjSlup9iqZbf1chTr3) | [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB), [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Hideaway](https://open.spotify.com/album/6AQJsRagE26OAfMcqNoo11) | 2:34 |
 | 154 | [Dogs and Alcohol](https://open.spotify.com/track/0h7TcbO0vScLjDdFI6YD3r) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Dogs and Alcohol](https://open.spotify.com/album/1EgvFwxA3PuwZ80iOjI3Kw) | 2:42 |
 | 155 | [Acre of Land](https://open.spotify.com/track/13IhhvCRSMREyJyAsLtDM2) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Past Dawn](https://open.spotify.com/album/61qIRfEjwnm1g80saLhf7T) | 3:59 |
-| 156 | [mud](https://open.spotify.com/track/0OMwFyor1IPZonwGIoor3H) | [Max García Conover](https://open.spotify.com/artist/4ztTnsVkjvWdYvrrXLFdW4), [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [mud](https://open.spotify.com/album/1CfVw2N6usb51VKkjnSNsq) | 2:06 |
+| 156 | [mud](https://open.spotify.com/track/0OMwFyor1IPZonwGIoor3H) | [Max García Conover](https://open.spotify.com/artist/4ztTnsVkjvWdYvrrXLFdW4), [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [mud](https://open.spotify.com/album/1CfVw2N6usb51VKkjnSNsq) | 0:29 |
 
 Snapshot ID: `MTY1NjMzODUxOSwwMDAwMDI3ODAwMDAwMTgxYTU3ODE1ODcwMDAwMDE4MTg5M2ZkNjE5`

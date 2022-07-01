@@ -4,7 +4,7 @@
 
 > Check out the top streamed indie tracks of 2016!
 
-50 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/6SV5UFRoikcNXXUuJPkMD6)
+50 songs - 2 hr 51 min - [published](https://open.spotify.com/playlist/6SV5UFRoikcNXXUuJPkMD6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Edge of Town](https://open.spotify.com/track/7cSX4wnBuNLY28CqqUMqGM) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Edge of Town](https://open.spotify.com/album/6XUja2jNgxhif2Aw49IpkY) | 3:44 | 2016-12-01 |  |
 | [Elodie](https://open.spotify.com/track/6GOfQ81U2uAUSVPDQvtA2u) | [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Elodie](https://open.spotify.com/album/2zi50TctF2o9UAjheikUiw) | 5:05 | 2016-12-01 |  |
 | [Feeling Ok](https://open.spotify.com/track/0hgsUnkawqDllP4OF4g9MN) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [California Nights](https://open.spotify.com/album/1JIhBE54vvyvz6yqqKKJ1A) | 3:16 | 2016-12-01 |  |
-| [Fire](https://open.spotify.com/track/5jRJlGB5EP7HFKwYBKvlSA) | [Diskopunk](https://open.spotify.com/artist/5Ck4KWOZsbrSQpiLimooDp) | [Fire](https://open.spotify.com/album/4b7DQdQztY3wvk8DJB8bgz) | 3:17 | 2016-12-01 |  |
+| [Fire](https://open.spotify.com/track/5jRJlGB5EP7HFKwYBKvlSA) | [Diskopunk](https://open.spotify.com/artist/5Ck4KWOZsbrSQpiLimooDp) | [Fire](https://open.spotify.com/album/4b7DQdQztY3wvk8DJB8bgz) | 0:29 | 2016-12-01 |  |
 | [Go Fuck Yourself](https://open.spotify.com/track/3VAeTjREoKPY1exOXR4oBm) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [First Steps](https://open.spotify.com/album/1IH1Oz8jD4hyN3eg8aHdjv) | 2:09 | 2016-12-01 |  |
 | [Gone](https://open.spotify.com/track/6OJMVcgJYX3rJrjN6txUOI) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Gone](https://open.spotify.com/album/1lVGIXjXpaPw2qoeYqBQjM) | 3:41 | 2016-12-01 |  |
 | [Hold Me Down](https://open.spotify.com/track/68J311jvo7JD5vldwzvMg3) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Far Shore](https://open.spotify.com/album/1Ax4vtguR5jbyuBdohcJVZ) | 4:29 | 2016-12-01 |  |
@@ -36,7 +36,7 @@
 | [ILYSB](https://open.spotify.com/track/3BwR5psKNxcyqWoc80eOuq) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Make Out](https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh) | 3:31 | 2016-12-01 |  |
 | [Just Tell Me](https://open.spotify.com/track/5yRBRUdJ0BFbuFJ3LP7M6O) | [Nico Yaryan](https://open.spotify.com/artist/6hOxW1tuM0aJHaI3FEXWeA) | [Just Tell Me](https://open.spotify.com/album/28fWMc9EINsAApKyFKDiU1) | 2:42 | 2016-12-01 |  |
 | [Low](https://open.spotify.com/track/4mxNpTSvmKCaQKdWhWnkCz) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Low](https://open.spotify.com/album/2Fs5beqHCsq6eCrtMiBOWu) | 3:26 | 2016-12-01 |  |
-| [Mountain at My Gates](https://open.spotify.com/track/53L6A3I9vf7rgEZnMzx54E) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/4uIDigk79DeZEYV6Z5Yf4s) | 4:04 | 2016-12-01 |  |
+| [Mountain at My Gates](https://open.spotify.com/track/53L6A3I9vf7rgEZnMzx54E) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/4uIDigk79DeZEYV6Z5Yf4s) | 0:29 | 2016-12-01 |  |
 | [Never Be Like You \(feat\. Kai\)](https://open.spotify.com/track/47zREtxQZ3cHHIZwUQnuuN) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [kai](https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml) | [Skin](https://open.spotify.com/album/6VHCF8ykDo3STafE5JfMAs) | 3:53 | 2016-12-01 |  |
 | [Never Going Home](https://open.spotify.com/track/4owKdwOIG7qs89ZfGv2PZg) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Never Going Home](https://open.spotify.com/album/5MwSzgWD4kNy3X3xijLbuV) | 3:55 | 2016-12-01 |  |
 | [Open Arms](https://open.spotify.com/track/5jQQDwJosT89Wy5vOLCafm) | [RKCB](https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc), [Demo Taped](https://open.spotify.com/artist/5JMtXD9vPBIygW4cTcQ8x9) | [Open Arms](https://open.spotify.com/album/2cpR8rul7YOEmrkGSxzMp1) | 3:48 | 2016-12-01 |  |
@@ -57,6 +57,6 @@
 | [Under the Sun](https://open.spotify.com/track/3yR8cAdli5Ohn3dUlS1PgV) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR) | 3:46 | 2016-12-01 |  |
 | [Underdressed](https://open.spotify.com/track/0v9W4BfBwrxFLzRqWnqXPZ) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Underdressed](https://open.spotify.com/album/1k545ek181tJaUiNwEzesy) | 3:54 | 2016-12-01 |  |
 | [Walrus](https://open.spotify.com/track/7lbkMraoYo4Lop0rSwdzCV) | [D.D Dumbo](https://open.spotify.com/artist/29PVoYGQeFwXgX9vIlnHmR) | [Utopia Defeated](https://open.spotify.com/album/2HFzHGB6jiMSRdrODrk83s) | 3:10 | 2016-12-01 |  |
-| [Winterbreak](https://open.spotify.com/track/7EsTdhH4PD6MugpLXJGZLW) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Winterbreak](https://open.spotify.com/album/59HB72GnzCfr9q0OKrMUfV) | 4:56 | 2016-12-01 |  |
+| [Winterbreak](https://open.spotify.com/track/7EsTdhH4PD6MugpLXJGZLW) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Winterbreak](https://open.spotify.com/album/59HB72GnzCfr9q0OKrMUfV) | 0:29 | 2016-12-01 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

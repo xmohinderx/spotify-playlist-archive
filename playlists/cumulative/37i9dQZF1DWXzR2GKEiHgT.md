@@ -4,7 +4,7 @@
 
 > Slip into slumber with soothing water sounds.
 
-203 songs - 9 hr 59 min - [published](https://open.spotify.com/playlist/3orUpWmUP8XdWYQVEuyTH3)
+203 songs - 9 hr 53 min - [published](https://open.spotify.com/playlist/3orUpWmUP8XdWYQVEuyTH3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Florida Rain Storm](https://open.spotify.com/track/41ngfIhPv1DkwHozVjH5Yc) | [Mother Nature Sound FX](https://open.spotify.com/artist/4lrOh2SR7H3guHky2lAYOk) | [Thunderstorms](https://open.spotify.com/album/47aFId4LZv1BI9UZEpzbpx) | 2:55 | 2021-11-11 |  |
 | [Foggy Beach](https://open.spotify.com/track/4CiUUzSjTJ6zwMVQfALO9T) | [Recording Nature](https://open.spotify.com/artist/2x6v7aNgZjdgT9zyua8iCz) | [Mindful Waves](https://open.spotify.com/album/2Cfqa2u2YSwX0YOzCdXPnk) | 2:52 | 2021-11-11 |  |
 | [Gentle Waves on Rocks](https://open.spotify.com/track/7oOeB6z1yHE3LTlZjJ5XJ9) | [Pinetree Way](https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67) | [Waves](https://open.spotify.com/album/4UvRUxM8fwrChyFg0fglnz) | 4:50 | 2021-11-11 |  |
-| [Gulf Waves](https://open.spotify.com/track/3NSpAXJ6a3F0aVGd2VoAOW) | [Horace Ocean](https://open.spotify.com/artist/1qncsXzEvFlwPccRiCD5g3) | [Safe Water](https://open.spotify.com/album/7ujlIQZIFK8MN6SbP3wBS0) | 2:38 | 2021-11-11 |  |
+| [Gulf Waves](https://open.spotify.com/track/3NSpAXJ6a3F0aVGd2VoAOW) | [Horace Ocean](https://open.spotify.com/artist/1qncsXzEvFlwPccRiCD5g3) | [Safe Water](https://open.spotify.com/album/7ujlIQZIFK8MN6SbP3wBS0) | 0:29 | 2021-11-11 |  |
 | [Hampton Shore](https://open.spotify.com/track/5WIt7p5lpoGCoaIkO0kfg3) | [Ambrook Glacier](https://open.spotify.com/artist/2nzv7rfJgsWoS068opqZDy) | [Water Supply](https://open.spotify.com/album/1Y5zK0n2UuFQdYOC89JI0Q) | 3:14 | 2021-11-11 |  |
 | [Healing Ocean Sounds](https://open.spotify.com/track/4g2u0nitKXjGmMlHEZ3mjr) | [In The Ocean \(Sound FX\)](https://open.spotify.com/artist/6gKlW4QncpQHg6n6eMUNxF) | [Wave Sounds From Scandinavia](https://open.spotify.com/album/26jypo8xGsCT0mzJPZjPD4) | 2:11 | 2022-01-21 |  |
 | [Healing Sea](https://open.spotify.com/track/4n5BmXTjGNof69csvvudV2) | [Outside HD Samples](https://open.spotify.com/artist/0puqEYQUnviYjUyomzF5rJ) | [Outside HD Samples](https://open.spotify.com/album/4YmuO6PMPy57kSKSCLqfG0) | 2:21 | 2021-11-11 |  |
@@ -74,7 +74,7 @@
 | [Intense Waves](https://open.spotify.com/track/1FtSAakJaU7QilpyRo2kmF) | [Waves Hard](https://open.spotify.com/artist/7m2W3E2UoY7QqQqvtuU3p0) | [Waves Hard](https://open.spotify.com/album/3rkI5EXt7Bb3lnECDesp89) | 2:27 | 2021-11-11 |  |
 | [Jetty Waves](https://open.spotify.com/track/1A82axqr3E5JFPVd0hKEgU) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Private Beach Wave Sounds](https://open.spotify.com/album/32DqIRyDehbR8cLyWFilgg) | 3:08 | 2021-11-11 |  |
 | [Liquid Seas](https://open.spotify.com/track/2OzmqBZDsLbzlUMg4Cw9M3) | [Wavesand](https://open.spotify.com/artist/4EZtMSNcLHaKdfBcrcsRmO) | [Liquid Seas](https://open.spotify.com/album/0PbmrdSxdxhGxeel5aEZlc) | 2:19 | 2021-11-11 |  |
-| [Lush Waves](https://open.spotify.com/track/75hBeoFUIqCtkEnO2c1VKs) | [Mindful Audio](https://open.spotify.com/artist/5oCUHDy7fu07K8dPo2DMNP) | [Lush Waves](https://open.spotify.com/album/3HsfMxvNvueXhO9PDqA7Oq) | 2:56 | 2021-11-11 |  |
+| [Lush Waves](https://open.spotify.com/track/75hBeoFUIqCtkEnO2c1VKs) | [Mindful Audio](https://open.spotify.com/artist/5oCUHDy7fu07K8dPo2DMNP) | [Lush Waves](https://open.spotify.com/album/3HsfMxvNvueXhO9PDqA7Oq) | 0:29 | 2021-11-11 |  |
 | [Malibu Beach Waves](https://open.spotify.com/track/2Z4zsO3cdegaWXknE8xVqd) | [Pacific Ocean Wave Sounds](https://open.spotify.com/artist/5xS7pgxPJgT5afkIppVezB) | [Volume 1](https://open.spotify.com/album/3RSVUGZJ3Zc0iEKZG5mvf9) | 3:10 | 2021-11-11 |  |
 | [Malibu Night Waves](https://open.spotify.com/track/5ZeQ5brvFiAUNvXVU70vWQ) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [California Ocean Sounds](https://open.spotify.com/album/3or8OyLPvGttkcdl1TwXtQ) | 2:49 | 2021-11-11 |  |
 | [Manhattan Beach Waves](https://open.spotify.com/track/1Zt1Ubwbu1qEwNgR2Ewqyc) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Calming Water and Nature](https://open.spotify.com/album/2wvSQLGnfV2fvkLgUrbKDB) | 3:08 | 2021-11-11 |  |
@@ -95,7 +95,7 @@
 | [North Shore](https://open.spotify.com/track/5aoaIqjggOwqTTWnxff74p) | [Pinetree Way](https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67) | [Waves](https://open.spotify.com/album/4UvRUxM8fwrChyFg0fglnz) | 6:12 | 2021-11-11 |  |
 | [Northern California Wind and Waves](https://open.spotify.com/track/1sWk6YnvIbxza7un39VPyj) | [California Coast Sound Recordings](https://open.spotify.com/artist/3m9UYzHMMeHADsX91DgQ4V) | [Coastal Relaxation](https://open.spotify.com/album/2P2hdKyXirmgc60wEMylrL) | 2:48 | 2021-11-11 |  |
 | [Ocean Sounds For relaxing](https://open.spotify.com/track/0cDQ3SqNWg87FTsEv5k8Pm) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Ocean Sounds Vol\. 1](https://open.spotify.com/album/10Ax8DSgxhf1bhIwXMrEa2) | 2:33 | 2021-11-11 |  |
-| [Ocean Storm](https://open.spotify.com/track/4a01QN0YoqkjmfGJuQKdjE) | [The Forest Escape](https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4) | [Forest and Ocean Sounds](https://open.spotify.com/album/2dmWE60Sa5659UxfxDth4M) | 1:58 | 2021-11-11 |  |
+| [Ocean Storm](https://open.spotify.com/track/4a01QN0YoqkjmfGJuQKdjE) | [The Forest Escape](https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4) | [Forest and Ocean Sounds](https://open.spotify.com/album/2dmWE60Sa5659UxfxDth4M) | 0:29 | 2021-11-11 |  |
 | [Ocean Talking](https://open.spotify.com/track/0oqibPXlwdz6hbI7cthPcN) | [Nano Sounds](https://open.spotify.com/artist/3hbAGbjrJ4esXMyjnzODz7) | [Nano Wave Sounds](https://open.spotify.com/album/10WTH1C6D3FXY9rsRlipeQ) | 3:59 | 2021-11-11 |  |
 | [Ocean Tranquility](https://open.spotify.com/track/6ssIEDSndneQgDbIlmRqqz) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Ocean Tranquility](https://open.spotify.com/album/4geX0rk2bvLyaToAuai8IT) | 3:50 | 2021-11-11 |  |
 | [Ocean waves for Relaxation](https://open.spotify.com/track/4101GsDqaKAsq30hnkxjBY) | [Sleep Recording Sounds](https://open.spotify.com/artist/4r0X3VjxxLGYO02PmVTF3B) | [Sleep Recording Sounds](https://open.spotify.com/album/2j0UiE5XXcCI88XGJBZJ2G) | 2:45 | 2021-11-11 |  |

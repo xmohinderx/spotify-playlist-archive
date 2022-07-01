@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Only the best rock in the world. Cover: Ozzy Osbourne",
+  "description": "Only the best rock in the world. Cover: M\u00e5neskin",
   "name": "Just Rock!",
   "published_playlist_ids": [
     "4b8D1RnS1amrOmfT4hWOtA"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 187381,
       "name": "Angel Numbers",
       "url": "https://open.spotify.com/track/6ND0L5nr36N57nWWGbuY4F"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 150834,
       "name": "Black Punk",
       "url": "https://open.spotify.com/track/00mQ7YTqP92vZU4jW4Zdxh"
@@ -302,7 +302,7 @@
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 314000,
+      "duration_ms": 29048,
       "name": "Charcoal",
       "url": "https://open.spotify.com/track/5T5u6OqOiGwk0M7pLi4Yaz"
     },
@@ -453,6 +453,24 @@
       "duration_ms": 191884,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/3CZD5SiAIAs8o8mTu2UbZ4"
+    },
+    {
+      "album": {
+        "name": "Don't Feel Like Feeling Sad Today",
+        "url": "https://open.spotify.com/album/2xI6WQRXM36V5B7PSzghFW"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116483,
+      "name": "Don't Feel Like Feeling Sad Today",
+      "url": "https://open.spotify.com/track/3EzNhsh3hCy559XDI44f4g"
     },
     {
       "album": {
@@ -912,6 +930,24 @@
     },
     {
       "album": {
+        "name": "Planet Zero",
+        "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218990,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/5glQ2KQjO3HZCh7TDyegvm"
+    },
+    {
+      "album": {
         "name": "how could you do this to me? feat. Kellin Quinn from Sleeping With Sirens",
         "url": "https://open.spotify.com/album/5d9zUPulqyPiHYS48HbkX0"
       },
@@ -963,7 +999,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 177582,
       "name": "i hope ur miserable until ur dead",
       "url": "https://open.spotify.com/track/4ka1FkKAMde6dQAFFMXKac"
@@ -1151,6 +1187,24 @@
       "duration_ms": 262500,
       "name": "Land of Smile",
       "url": "https://open.spotify.com/track/6lTBuxszarD3vejf6yMBnJ"
+    },
+    {
+      "album": {
+        "name": "Si Vis Pacem, Para Bellum (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/61fYGxrlD51FLZGWSlX68q"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213946,
+      "name": "Leave Me Be",
+      "url": "https://open.spotify.com/track/7Cz87d89aHhnk3MmGAG3L3"
     },
     {
       "album": {
@@ -1802,6 +1856,24 @@
     },
     {
       "album": {
+        "name": "Seasick",
+        "url": "https://open.spotify.com/album/5WdjEWFKc0aznBIb01FHo7"
+      },
+      "artists": [
+        {
+          "name": "The Rare Occasions",
+          "url": "https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150510,
+      "name": "Seasick",
+      "url": "https://open.spotify.com/track/7fR3tnzsPKVNZTx4Ms871S"
+    },
+    {
+      "album": {
         "name": "Shine A Light",
         "url": "https://open.spotify.com/album/7b6ghBEIH75YC11a9bNQzA"
       },
@@ -2283,7 +2355,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 186146,
       "name": "Tube Snake Boogie",
       "url": "https://open.spotify.com/track/48C4gR9T4fOTuUiNQ6W0RA"
@@ -2457,6 +2529,24 @@
       "duration_ms": 198840,
       "name": "Will Of The People",
       "url": "https://open.spotify.com/track/1bbyikfBqLFAMxzrAuGreh"
+    },
+    {
+      "album": {
+        "name": "Yeah, I Like You",
+        "url": "https://open.spotify.com/album/0vlDeWXsRPN0GZkdIoykfT"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264466,
+      "name": "Yeah, I Like You",
+      "url": "https://open.spotify.com/track/6kNOYOpdMy0w67fC4XPc0q"
     },
     {
       "album": {

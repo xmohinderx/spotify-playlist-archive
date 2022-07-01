@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkKnGZHv1kf.md) - [plain]
 
 > Early blues standards and classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 723,438 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 723,495 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkKnGZHv1kf.md) - [plain]
 | 3 | [Devil Got My Woman](https://open.spotify.com/track/1bWh9hOkQGahfQ0rEqvaGR) | [Skip James](https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ) | [Legends Of Country Blues: The Complete Pre\-War Recordings Of Skip James \(Disc A\)](https://open.spotify.com/album/2KNRkv1h7OYErPyhVIDQiV) | 3:01 |
 | 4 | [All Around Man](https://open.spotify.com/track/04O45djDgdvw08HOkouSKW) | [Bo Carter](https://open.spotify.com/artist/2naDLHeKqXSHT3DMII2eqb) | [Banana In Your Fruit Basket](https://open.spotify.com/album/3qYkVib546DphLJWz1mHY6) | 3:00 |
 | 5 | [You Was Born To Die](https://open.spotify.com/track/3Yt6mXwFK3GMQ3Jzzk0yIN) | [Curley Weaver](https://open.spotify.com/artist/6NkmPGz9etvaz1jn4QQWKS) | [Curley Weaver \(1933\-1935\)](https://open.spotify.com/album/5NAvEHRjGVYtRTtij0Y7ax) | 2:51 |
-| 6 | [Cross Road Blues](https://open.spotify.com/track/1TrGdXSgiBm8W68D2K1COG) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 2:29 |
+| 6 | [Cross Road Blues](https://open.spotify.com/track/1TrGdXSgiBm8W68D2K1COG) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 0:29 |
 | 7 | [Match Box Blues \(4446\)](https://open.spotify.com/track/7hYOjbDYBvUk7RymZ82To3) | [Blind Lemon Jefferson](https://open.spotify.com/artist/6EsuMifB8c5rm5P2DdjiLe) | [Blind Lemon Jefferson Vol\. 2 \(1927\)](https://open.spotify.com/album/6OFmNtEw40uQFoL7ljPWcP) | 3:03 |
-| 8 | [Guitar Rag](https://open.spotify.com/track/5xwCQuoGnPdgqw2omrgmCq) | [Sylvester Weaver](https://open.spotify.com/artist/2m2vWbN6WZU0Mtv569ndeb) | [The Slide Guitar: Bottles, Knives & Steel](https://open.spotify.com/album/1v6Wu8KqYLWsax5EjmZNAf) | 2:58 |
+| 8 | [Guitar Rag](https://open.spotify.com/track/5xwCQuoGnPdgqw2omrgmCq) | [Sylvester Weaver](https://open.spotify.com/artist/2m2vWbN6WZU0Mtv569ndeb) | [The Slide Guitar: Bottles, Knives & Steel](https://open.spotify.com/album/1v6Wu8KqYLWsax5EjmZNAf) | 0:29 |
 | 9 | [Grinnin' In Your Face](https://open.spotify.com/track/7bWhtFDDMgcA6DmFGGlS0C) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Son House Revisited Vol\. 1](https://open.spotify.com/album/0B1wPjeha3UdcgiYquEprz) | 1:56 |
 | 10 | [Runaway Blues](https://open.spotify.com/track/7KZ6eGK7OuLXUzTVGdc7cL) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j) | 2:26 |
 | 11 | [Where Did You Sleep Last Night](https://open.spotify.com/track/3XdnNX0cPynrR7KdRoyjwa) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Absolutely The Best](https://open.spotify.com/album/6I0A1EwU5SP9HCwweaWJIq) | 3:01 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkKnGZHv1kf.md) - [plain]
 | 20 | [The Twelves \(The Dirty Dozens\)](https://open.spotify.com/track/2sUGV5xBeNZOVhbs3Lkg2O) | [Casey Bill Weldon](https://open.spotify.com/artist/65DrfMsqDV0FYVyuu372EA), [Kokomo Arnold](https://open.spotify.com/artist/1kSOv0QaraiHwnDs5ld2kr) | [Bottleneck Guitar Trendsetters Of The 1930s](https://open.spotify.com/album/7vvGM3rkNW1Yjynmcxq0y6) | 3:11 |
 | 21 | [I Got the Cross the River Jordan](https://open.spotify.com/track/4vqDFur1cyE8lS1oD3XiCB) | [Blind Willie McTell](https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6) | [Atlanta Twelve String](https://open.spotify.com/album/3T9YA3PGLGDlybxgdnNzZ7) | 4:00 |
 | 22 | [That's No Way To Get Along](https://open.spotify.com/track/4m7GRlEcWGfaUFelKYljUj) | [Robert Wilkins](https://open.spotify.com/artist/6U174IQnD4TiKibxvVLYk6) | [Ghost World Soundtrack](https://open.spotify.com/album/1Lkm2l1evDz51NP2bX5Wi5) | 2:52 |
-| 23 | [Downtown Blues](https://open.spotify.com/track/6NzOw76Vq4ogyuRGmiXG4X) | [Frank Stokes](https://open.spotify.com/artist/3dahhupQzKVXptEwFBsodc) | [The Best Of Frank Stokes](https://open.spotify.com/album/5el2MJDFH4QMdYnFbWPpIu) | 3:17 |
+| 23 | [Downtown Blues](https://open.spotify.com/track/6NzOw76Vq4ogyuRGmiXG4X) | [Frank Stokes](https://open.spotify.com/artist/3dahhupQzKVXptEwFBsodc) | [The Best Of Frank Stokes](https://open.spotify.com/album/5el2MJDFH4QMdYnFbWPpIu) | 0:29 |
 | 24 | [Catfish Blues](https://open.spotify.com/track/7A9yfYiBXLEvKn1oJy3nPL) | [Robert Petway](https://open.spotify.com/artist/0zNSuwnNWdr8g5EmE0YWKx) | [Mississippi Blues Vol\. 3 "Catfish Blues"](https://open.spotify.com/album/4LjUYP4RO0OcX7f6lUVerz) | 2:54 |
 | 25 | [Man Stealer Blues](https://open.spotify.com/track/6Ad9JbwY1HGjbNhVYddNbk) | [Lucille Bogan](https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf) | [Shave 'Em Dry: The Best Of Lucille Bogan](https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw) | 3:02 |
 | 26 | [Back Door Blues](https://open.spotify.com/track/2mGnouFybpiIEWnzKq50fr) | [James Kokomo Arnold](https://open.spotify.com/artist/4zoZrRYkyH0mhppqcyM1ib) | [Kokomo Arnold \- His 20 Greatest Songs](https://open.spotify.com/album/5yanQWFSoZ5Ny2mQfKaWe2) | 3:24 |

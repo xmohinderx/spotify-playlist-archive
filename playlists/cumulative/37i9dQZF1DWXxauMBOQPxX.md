@@ -4,7 +4,7 @@
 
 > Heartbroken? These songs might just help...
 
-54 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/4JRrymEYXv68y6zp25JHgT)
+54 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/4JRrymEYXv68y6zp25JHgT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Unsteady](https://open.spotify.com/track/1RGsZfUwt2a6yLzL2yoj1X) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/5MEgrjkStq0JsQGO64Xvlq) | 3:13 | 2020-07-10 |  |
 | [Waves](https://open.spotify.com/track/64xJ1MMFxxK6osZxJH857T) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Waves](https://open.spotify.com/album/0dcIrW5U3oco3GDCKiJ33I) | 4:01 | 2020-07-10 |  |
 | [When I Was Your Man](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:33 | 2020-07-10 |  |
-| [When We Were Young](https://open.spotify.com/track/0cj2joJcY6b4XSRfj2eZOl) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 4:50 | 2020-07-10 |  |
+| [When We Were Young](https://open.spotify.com/track/0cj2joJcY6b4XSRfj2eZOl) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 0:29 | 2020-07-10 |  |
 | [When You Love Someone](https://open.spotify.com/track/5fX2oPyLCe5mBKqGDbOWqC) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [First Impressions](https://open.spotify.com/album/6ZPn3tnyLZAbgLFy3GSkqT) | 3:36 | 2020-07-10 |  |
 | [Who You Are](https://open.spotify.com/track/219eUQBWnfmADjKZEWEfSM) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp) | 3:50 | 2020-07-10 | 2022-01-19 |
 | [You Said You'd Grow Old With Me](https://open.spotify.com/track/41WTP0gosjYD74B06uS2tL) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Wide Awake](https://open.spotify.com/album/65Z3hZGZsiNcpOAT2U0Inn) | 3:44 | 2020-07-10 |  |

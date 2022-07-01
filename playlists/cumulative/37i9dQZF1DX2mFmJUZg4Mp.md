@@ -4,7 +4,7 @@
 
 > Soothing sounds of gentle rains.
 
-215 songs - 9 hr 53 min - [published](https://open.spotify.com/playlist/4ga3UYCr8dual7uzYJDIEx)
+215 songs - 9 hr 42 min - [published](https://open.spotify.com/playlist/4ga3UYCr8dual7uzYJDIEx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,12 +31,12 @@
 | [Cosy Storm](https://open.spotify.com/track/4NPhZSpTRJhsEG5DdbGH2P) | [Noise of Water](https://open.spotify.com/artist/72HyAh4s02aVrmIDCDHuBl) | [Noise of Water](https://open.spotify.com/album/5O0CKgV8A80zgqqwfQp8BK) | 2:20 | 2021-11-10 |  |
 | [Cozier Rain](https://open.spotify.com/track/0RQktlGrRK4m19H85ILLTO) | [Aqualogic](https://open.spotify.com/artist/4LiP2v7wfqtd3lLZta08UP) | [Late Night Drizzle](https://open.spotify.com/album/11GgUitOEBUhUysI0cdec6) | 2:14 | 2021-11-10 |  |
 | [Cozy Calming Nocturnal Rain](https://open.spotify.com/track/7yfJG16maztJXFzCQ3RJEa) | [Drip\-Drop](https://open.spotify.com/artist/0iDx4sYtJ0FfXi5tdGGXTA) | [Nocturnal Cozy Rain](https://open.spotify.com/album/3C4JU2iVIEI5F8B59b7upA) | 2:40 | 2021-11-10 |  |
-| [Det Regnar](https://open.spotify.com/track/0M3WuiuXXtxT1g2uAydhSs) | [Regnmannen](https://open.spotify.com/artist/64tKbWpanYm2SDHGclvjSj) | [Regnmannen](https://open.spotify.com/album/61sPEWCE2jjChul4Xs66Tn) | 3:12 | 2021-11-10 |  |
+| [Det Regnar](https://open.spotify.com/track/0M3WuiuXXtxT1g2uAydhSs) | [Regnmannen](https://open.spotify.com/artist/64tKbWpanYm2SDHGclvjSj) | [Regnmannen](https://open.spotify.com/album/61sPEWCE2jjChul4Xs66Tn) | 0:29 | 2021-11-10 |  |
 | [Distant Rain](https://open.spotify.com/track/5yvsWvwVq8bYrltqTi9TxJ) | [Pacific Rain](https://open.spotify.com/artist/1bgpRrszIfYOXgzXcR02jP) | [Distant Rain](https://open.spotify.com/album/5hy25TSUbMLRjGzyQp0FMR) | 3:28 | 2021-11-10 |  |
-| [Divine Sleep](https://open.spotify.com/track/1z6QujIsfrLI9RjR2vBRj0) | [Tranquility Spree](https://open.spotify.com/artist/5TwGqGqJXW0bmSzmdCKLp7) | [Divine Sleep](https://open.spotify.com/album/5E3Jk03J3a6pr8tbIL1KAL) | 2:40 | 2021-11-10 |  |
+| [Divine Sleep](https://open.spotify.com/track/1z6QujIsfrLI9RjR2vBRj0) | [Tranquility Spree](https://open.spotify.com/artist/5TwGqGqJXW0bmSzmdCKLp7) | [Divine Sleep](https://open.spotify.com/album/5E3Jk03J3a6pr8tbIL1KAL) | 0:29 | 2021-11-10 |  |
 | [Dock Rain 독 비](https://open.spotify.com/track/5Xn5HO5wAQS1ya8fmJMkAQ) | [sumyeon uisa 수면 의사](https://open.spotify.com/artist/2o0U8zZEXzdcTHWnbGQt4X) | [Dock Rain](https://open.spotify.com/album/00N23ZtewpOkwzYpluaZzf) | 2:07 | 2021-11-10 |  |
 | [Don't Mind The Rain](https://open.spotify.com/track/0MaiuoWpYrbJVeCibetT3k) | [R\. Guru](https://open.spotify.com/artist/1J6XFH9yaFImOmbaAWAx48) | [Don't Mind The Rain](https://open.spotify.com/album/3YIFklxeh8I6NljMqk1CEP) | 3:12 | 2021-11-10 |  |
-| [Dozy Rain \- Rain](https://open.spotify.com/track/5BMiNda6qOfuMa8KO4V7l3) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Nature's Rain, Oceans, Rivers](https://open.spotify.com/album/6nHdYuYYtvfDSRIBP7TCGo) | 3:04 | 2021-11-10 |  |
+| [Dozy Rain \- Rain](https://open.spotify.com/track/5BMiNda6qOfuMa8KO4V7l3) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Nature's Rain, Oceans, Rivers](https://open.spotify.com/album/6nHdYuYYtvfDSRIBP7TCGo) | 0:29 | 2021-11-10 |  |
 | [Dream Rain](https://open.spotify.com/track/4nmDCD7xB5mBFsupQxcx8M) | [24H Rain Sounds](https://open.spotify.com/artist/3Gx6UNiTUubJFQzUyUjKQW) | [Dream Rain](https://open.spotify.com/album/1J0soxGBVkV0duPq6dIZ5R) | 2:47 | 2021-11-10 |  |
 | [Dreamy Rain](https://open.spotify.com/track/4MkRYtYntl1YpyjeXLMP1B) | [Oasis of Sleep](https://open.spotify.com/artist/1BhI98thKFuBTeSvxFDd3g) | [Dreamy Rain](https://open.spotify.com/album/2ubzY0tGpiExYeNVvA89eI) | 2:48 | 2021-11-10 |  |
 | [Dreamy Rain](https://open.spotify.com/track/0oSU0oQ4xp3H6sMh1In9W8) | [Rainded](https://open.spotify.com/artist/0fHeyixPnac66k5oBPclVW) | [Skyscraps](https://open.spotify.com/album/6GsRwYmzOWbrMDXtBUmkCN) | 2:31 | 2021-11-10 |  |
@@ -91,7 +91,7 @@
 | [Magic Skies](https://open.spotify.com/track/76AKzeKmKutPgOAjgQBzYx) | [Embrace the Rain](https://open.spotify.com/artist/5sZvIwOBG1ngPYqGjzK5C2) | [Magic Skies](https://open.spotify.com/album/38Qhx2XFJufpeO72WTYrQK) | 3:50 | 2021-11-10 |  |
 | [Marsh Rain](https://open.spotify.com/track/2RfArgDAbCC1zHe5oGGmRO) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Calm Rain](https://open.spotify.com/album/1gKD89LziZTe7NUmp6NG8P) | 2:10 | 2021-11-10 |  |
 | [Mediatative Rain](https://open.spotify.com/track/1omNM0NNJZUoss3benPROm) | [High Sampling](https://open.spotify.com/artist/4DtTcZucLzox7VtkpWsVBw) | [Peaceful Rain Sounds](https://open.spotify.com/album/2PChgMddYdUsisFPjW9FGq) | 2:38 | 2021-11-10 |  |
-| [Memories Of Rain](https://open.spotify.com/track/2djsrAf6nUCMHaseamvwv4) | [Jeff Olaf](https://open.spotify.com/artist/6giyCf63EfeAgxIofVymOq) | [Gotland Rain Sounds](https://open.spotify.com/album/0Zl63O9EmQKZQRl8xSsqk5) | 2:20 | 2021-11-10 |  |
+| [Memories Of Rain](https://open.spotify.com/track/2djsrAf6nUCMHaseamvwv4) | [Jeff Olaf](https://open.spotify.com/artist/6giyCf63EfeAgxIofVymOq) | [Gotland Rain Sounds](https://open.spotify.com/album/0Zl63O9EmQKZQRl8xSsqk5) | 0:29 | 2021-11-10 |  |
 | [Message Of Rain](https://open.spotify.com/track/12qm8piXa60zlmygYDKOlP) | [Key Humphrey](https://open.spotify.com/artist/4BJ8h7BuQ1DYcEYrpTFloW) | [Rainward](https://open.spotify.com/album/1qeUd3oHip0fYm30FvwKzG) | 2:24 | 2021-11-10 |  |
 | [mid day rain](https://open.spotify.com/track/5KmbZq6mXkaY9O8ANVgKW1) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in copenhagen](https://open.spotify.com/album/52n9DE1JvE1uiN3IiRxBb4) | 3:00 | 2021-11-10 |  |
 | [Midnight Storm](https://open.spotify.com/track/36FvQBMn5ZaS9l5Ze5Dw5A) | [Ogień](https://open.spotify.com/artist/5d8IWNN5vBsIDVskioGQLw) | [Midnight Storm](https://open.spotify.com/album/1IEgHTWuEvpHQii8l48GNH) | 3:28 | 2021-11-10 |  |
@@ -204,7 +204,7 @@
 | [Spring Rain](https://open.spotify.com/track/3tJUPN4RceFzN6YScWnO46) | [Deszcz](https://open.spotify.com/artist/7mc60Wf7K9edgiJL0FQ6vz) | [Tea & Rainy Days](https://open.spotify.com/album/7t4DXof9s7bZIjH4ejRc03) | 3:32 | 2021-11-10 |  |
 | [starlit rainfall](https://open.spotify.com/track/7gkwTHnQ1QxWcM6HDBOqXo) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [starlit rainfall](https://open.spotify.com/album/2sknFZDDYwy2o1zlnkg4iN) | 2:41 | 2021-11-10 |  |
 | [Starting to rain](https://open.spotify.com/track/7dkQRyEnWGmki1fGtkvGAW) | [The Wet](https://open.spotify.com/artist/2IgElvWe0O1lxnnW4XPmNE) | [Rain outside my window](https://open.spotify.com/album/4EdscJEihXupZqV6UaKAhc) | 3:32 | 2021-11-10 |  |
-| [Steady Raining](https://open.spotify.com/track/6dVunPstQ12APTl3RivTIA) | [Bentline Peak](https://open.spotify.com/artist/6yOhpo1p2KSnaMAvHK6jo6) | [Chill Rain](https://open.spotify.com/album/2wWqahCeI8l1ZTvn3BdfTf) | 2:18 | 2021-11-10 |  |
+| [Steady Raining](https://open.spotify.com/track/6dVunPstQ12APTl3RivTIA) | [Bentline Peak](https://open.spotify.com/artist/6yOhpo1p2KSnaMAvHK6jo6) | [Chill Rain](https://open.spotify.com/album/2wWqahCeI8l1ZTvn3BdfTf) | 0:29 | 2021-11-10 |  |
 | [Stetiger Regen](https://open.spotify.com/track/3vwZ7YcQ24GtvvuWQTRcXO) | [Die ganze Nacht](https://open.spotify.com/artist/1OcoltzN3WhJYzAoAtf0Xl) | [Regen die ganze Nacht](https://open.spotify.com/album/1lzDK9FfV0KxJgAbOvYm1s) | 2:11 | 2021-11-10 |  |
 | [Stormy Road](https://open.spotify.com/track/5LOUGQmqx2GCTUt0oaQcFc) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [Countryside Storm](https://open.spotify.com/album/3sQS3qy5lYAOuzuBoxw2eY) | 3:28 | 2021-11-10 |  |
 | [Strawberry Rain](https://open.spotify.com/track/06EYu330c8GVTs3fDGJ0pD) | [DreamDrops](https://open.spotify.com/artist/20XfshUALsTbm05gj6Ea5M) | [Strawberry Rain](https://open.spotify.com/album/2sQA6ju0ve2lCiPHJo4VC1) | 3:32 | 2021-11-10 |  |

@@ -4,7 +4,7 @@
 
 > Holiday cheer from your Disney favorites!
 
-77 songs - 3 hr 34 min - [published](https://open.spotify.com/playlist/3IDYKnsQlFyTJMC7VBMRHz)
+77 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/3IDYKnsQlFyTJMC7VBMRHz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/7pDQSx6Gee0ZTpLE41ZtXR) | [Kermit the Frog](https://open.spotify.com/artist/1PGjAoXiKP1Hcx788WVFx9) | [The Muppets: A Green and Red Christmas](https://open.spotify.com/album/2SRnKY8vy3G72k8D55tWoA) | 3:49 | 2021-12-03 |  |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/3raNSxsive7mKRQvSAoAmE) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/78ghmfG83tQUF43coZ6FiH) | 3:46 | 2021-12-03 |  |
 | [Holidays At Home](https://open.spotify.com/track/6FQSGMx4izRscahI2z0YVl) | [Belle](https://open.spotify.com/artist/0PPpKyvqALNTHqNCkPh9WM) | [Princess Christmas](https://open.spotify.com/album/1WJHhN69hjNuQPG2iJ36BY) | 2:31 | 2021-12-03 |  |
-| [I Love Christmas](https://open.spotify.com/track/39rTGk6MVeykS2Z8FJkYdl) | [Austin Moon](https://open.spotify.com/artist/1eBGyqw9kLsidL0q2dimWF), [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT) | [I Love Christmas](https://open.spotify.com/album/6qn2TGYSCLeHCkk6t71Nk1) | 2:56 | 2021-12-03 |  |
+| [I Love Christmas](https://open.spotify.com/track/39rTGk6MVeykS2Z8FJkYdl) | [Austin Moon](https://open.spotify.com/artist/1eBGyqw9kLsidL0q2dimWF), [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT) | [I Love Christmas](https://open.spotify.com/album/6qn2TGYSCLeHCkk6t71Nk1) | 0:29 | 2021-12-03 |  |
 | [I See the Light \- From "Tangled" / Soundtrack Version](https://open.spotify.com/track/6klpXs2uAjagnZMFkt4qkl) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu), [Zachary Levi](https://open.spotify.com/artist/3XSyTI9ct70ZheMESAv2st) | [Tangled](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) | 3:44 | 2021-12-03 |  |
 | [I Wish I Could Be Santa Claus](https://open.spotify.com/track/1IL3cX5wKaahkzLvIxvgpj) | [Gonzo](https://open.spotify.com/artist/5HYbLJiXakWkswW7XNfVAC), [Fozzie](https://open.spotify.com/artist/7l1UtP9HDcanyFwHs3abSw) | [A Muppets Christmas: Letters to Santa](https://open.spotify.com/album/7ioIJ7nA0LziUkEEPy6fci) | 2:26 | 2021-12-03 |  |
 | [In Summer \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/7bG6SQBGZthPDG5QJL5Gf7) | [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 1:50 | 2021-12-03 |  |
@@ -81,7 +81,7 @@
 | [What's This?](https://open.spotify.com/track/3fytQQcjEOWXlvI9BDXVcK) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:05 | 2021-12-03 |  |
 | [When We're Together](https://open.spotify.com/track/6xsanHBuSwNCTESsldlB0o) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY), [Jonathan Groff](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB) | [Olaf's Frozen Adventure \(Original Soundtrack\)](https://open.spotify.com/album/2XaJcrXkpMvHaVJqr4FbPa) | 2:50 | 2021-12-03 |  |
 | [When You Wish Upon A Star](https://open.spotify.com/track/6JFyoWiWW69dTjPrJ0RxQ1) | [The Mamas](https://open.spotify.com/artist/5HUGPIHRwh79LbffYIUJeJ) | [When You Wish Upon A Star](https://open.spotify.com/album/0RwaotyCpvAytYj5WaH96L) | 3:03 | 2021-12-03 |  |
-| [White Christmas](https://open.spotify.com/track/7yURtJ9ZInIE8nwVj8vJSM) | [Goofy](https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64) | [Disney's Merry Little Christmas](https://open.spotify.com/album/1G9F59LYOnLc9RqWyFNYYz) | 2:30 | 2021-12-03 |  |
+| [White Christmas](https://open.spotify.com/track/7yURtJ9ZInIE8nwVj8vJSM) | [Goofy](https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64) | [Disney's Merry Little Christmas](https://open.spotify.com/album/1G9F59LYOnLc9RqWyFNYYz) | 0:29 | 2021-12-03 |  |
 | [Winter Wonderland](https://open.spotify.com/track/0ptalwARekSbKYsrTExmwY) | [The Disney Holiday Chorus](https://open.spotify.com/artist/4ag7CRSzcTZQX2Bter3fLR) | [Disney's Family Christmas Collection](https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg) | 1:48 | 2021-12-03 |  |
 | [Wonderful Christmastime](https://open.spotify.com/track/2VmipRkRAi9F78zojC3CzN) | [Randy Crenshaw](https://open.spotify.com/artist/1uYWNGwHu2d2au8iOXZROv) | [Disney Jingle Bell Fun](https://open.spotify.com/album/6Bd6pZU3QoytmcZxmMZbt8) | 2:36 | 2021-12-03 |  |
 | [Wrapped Up for Christmas](https://open.spotify.com/track/6q2CZUCGib5kTOldnKNDXI) | [Forever in Your Mind](https://open.spotify.com/artist/6gQnbY1egUGK5llcWsrwgE) | [Wrapped Up for Christmas](https://open.spotify.com/album/4qYm830ZeL7uNnxA9jC33C) | 3:42 | 2021-12-03 |  |

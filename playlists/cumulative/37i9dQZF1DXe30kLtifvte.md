@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1z1V8o4cq5VNtAU05T2q4W">AmyElle</a> celebrates her new studio with her House\-infused DJ mix.
 
-19 songs - 1 hr 0 min - [published](https://open.spotify.com/playlist/2YpLkMqMTK5ttZ7trv06DZ)
+19 songs - 51 min 28 sec - [published](https://open.spotify.com/playlist/2YpLkMqMTK5ttZ7trv06DZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,13 +13,13 @@
 | [Do You Feel Alright \- Mixed](https://open.spotify.com/track/5a8iU72dlxx8BNCBrRIMGf) | [Daniele Danieli](https://open.spotify.com/artist/23MZ3ueLKTQb2CHCe6fRiV), [Dj Fopp](https://open.spotify.com/artist/0Ik6UxWO96F8r1DGqLz6A9) | [Do You Feel Alright \(Mixed\)](https://open.spotify.com/album/2nhPmglt13JcPRzxr8GgAZ) | 4:20 | 2021-09-29 |  |
 | [Feel It \- Mixed](https://open.spotify.com/track/2IT8dQIIY5Tu8D8kg8MQ0Z) | [Skapes](https://open.spotify.com/artist/4RdHsZecp3xAk5ktnJULkB), [Kean](https://open.spotify.com/artist/2wkAel5WXBF0XA75mVVWyO) | [Feel It \(Mixed\)](https://open.spotify.com/album/6yRXcBcpfiYWBPT6vUui2T) | 3:58 | 2021-09-29 |  |
 | [Feel The Heat \- Mixed](https://open.spotify.com/track/7DXphNnKjYGnDGG5EkZbaG) | [AmyElle](https://open.spotify.com/artist/1z1V8o4cq5VNtAU05T2q4W) | [Feel The Heat \(Mixed\)](https://open.spotify.com/album/1YLEysAtoziFj6wq2Q2uj1) | 3:26 | 2021-09-29 |  |
-| [Floor Control \- Mixed](https://open.spotify.com/track/3nZnvuN1mlAeoYBrPSQ0nV) | [Bubba](https://open.spotify.com/artist/32DwHSgwIkq0ZFIpjxpu9c) | [Floor Control \(Mixed\)](https://open.spotify.com/album/3EAQEOKjQvIFOG0KTnO3sd) | 3:53 | 2021-09-29 |  |
+| [Floor Control \- Mixed](https://open.spotify.com/track/3nZnvuN1mlAeoYBrPSQ0nV) | [Bubba](https://open.spotify.com/artist/32DwHSgwIkq0ZFIpjxpu9c) | [Floor Control \(Mixed\)](https://open.spotify.com/album/3EAQEOKjQvIFOG0KTnO3sd) | 0:29 | 2021-09-29 |  |
 | [Fofan \- Mixed](https://open.spotify.com/track/0t5lpzcR69TLjOOSCgGTSM) | [Sound Quelle](https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18) | [Fofan \(Mixed\)](https://open.spotify.com/album/0zaHw6fsznjw747MccFFVS) | 2:57 | 2021-09-29 |  |
 | [Gotta Have You \- Mixed](https://open.spotify.com/track/65NYPxAzzdCVE2xGx7oEVZ) | [Star B](https://open.spotify.com/artist/6VsJbZqteZahl2iEzvnClt), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Mark Broom](https://open.spotify.com/artist/56HBXB2JoYhf04oMeko90l) | [Gotta Have You \(Mixed\)](https://open.spotify.com/album/1vYswsXTl2VRkLq7Fj7Uiu) | 2:55 | 2021-09-29 |  |
-| [Let Me Tell You \- Radio Mix \- Mixed](https://open.spotify.com/track/66IIyoMFw8q16sEPIIGe3X) | [Audio Jacker](https://open.spotify.com/artist/7F3GTgmyFCXZUJmUoIspZQ) | [Let Me Tell You \- Radio Mix \(Mixed\)](https://open.spotify.com/album/72MU8XSq2UdFqDCqICuamC) | 4:22 | 2021-09-29 |  |
+| [Let Me Tell You \- Radio Mix \- Mixed](https://open.spotify.com/track/66IIyoMFw8q16sEPIIGe3X) | [Audio Jacker](https://open.spotify.com/artist/7F3GTgmyFCXZUJmUoIspZQ) | [Let Me Tell You \- Radio Mix \(Mixed\)](https://open.spotify.com/album/72MU8XSq2UdFqDCqICuamC) | 0:29 | 2021-09-29 |  |
 | [Love Is Here \- Mixed](https://open.spotify.com/track/3UabK8Vp8py5F4l8y42epg) | [KI Creighton](https://open.spotify.com/artist/54fZiNN8CtExTWCj5Gbeu4), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Love Is Here \(Mixed\)](https://open.spotify.com/album/021rgPIrgHCngNbMS8a13R) | 2:10 | 2021-09-29 |  |
 | [Love Strut \- Mixed](https://open.spotify.com/track/0NLiAsmQ31O2elTQGsAD7z) | [Tenzella](https://open.spotify.com/artist/3CyQmSqQ54BXTXWNfSWeob) | [Love Strut \(Mixed\)](https://open.spotify.com/album/2eGOdWt2zKr9HCNwgZ6Sac) | 2:19 | 2021-09-29 |  |
-| [Mean World \- Mixed](https://open.spotify.com/track/3FE08Y50qxJQ79tRIgXN7I) | [Indigo Jung](https://open.spotify.com/artist/0Az3BmWqsJDMR78fdr0ExN) | [Mean World \(Mixed\)](https://open.spotify.com/album/0ouMSbUus0MTJa80NY6Rac) | 1:51 | 2021-09-29 |  |
+| [Mean World \- Mixed](https://open.spotify.com/track/3FE08Y50qxJQ79tRIgXN7I) | [Indigo Jung](https://open.spotify.com/artist/0Az3BmWqsJDMR78fdr0ExN) | [Mean World \(Mixed\)](https://open.spotify.com/album/0ouMSbUus0MTJa80NY6Rac) | 0:29 | 2021-09-29 |  |
 | [Miscellaneous \- Mixed](https://open.spotify.com/track/2xRzTnwu7LRuPqSnVChVZe) | [Alessio Cala'](https://open.spotify.com/artist/4AP7JhKdZAguEjw84OlM9b) | [Miscellaneous \(Mixed\)](https://open.spotify.com/album/26qhFi6MJAVDu3ybSIR9Nr) | 3:00 | 2021-09-29 |  |
 | [NYC 1988 \- Extended Mix \- Mixed](https://open.spotify.com/track/3WGB4A0T2sZbIBqv5TDWbY) | [Swales](https://open.spotify.com/artist/6XK8QXfi1PLT60pBkFeBy7) | [NYC 1988 \- Extended Mix \(Mixed\)](https://open.spotify.com/album/3YHvVSxesepU0HYNfamDKB) | 3:46 | 2021-09-29 |  |
 | [Running \- Original Mix \- Mixed](https://open.spotify.com/track/2rWG8ItbGWFNWbQE6dcFdI) | [Rockwell and Landers](https://open.spotify.com/artist/7czXFahPlcRI3SAaWSuD6c) | [Running \- Original Mix \(Mixed\)](https://open.spotify.com/album/54zcg4GDo2dgmrbOpcaS1s) | 1:10 | 2021-09-29 |  |

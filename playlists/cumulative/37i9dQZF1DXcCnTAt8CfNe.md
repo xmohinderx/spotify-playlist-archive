@@ -4,7 +4,7 @@
 
 > Soothe your mind with gentle instrumentals.
 
-218 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
+218 songs - 10 hr 8 min - [published](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,12 +20,12 @@
 | [anhelo](https://open.spotify.com/track/7dgNKgQTOXvDyL4oX1xrZ3) | [Ezechiel Almonte](https://open.spotify.com/artist/0v5fZ2O6PA8HBHeiIALNx9) | [anhelo](https://open.spotify.com/album/5CYhPhBDl0VX9OdvUto91Q) | 3:32 | 2021-12-09 |  |
 | [As With The Night Sky](https://open.spotify.com/track/6nJUw7h8liQrCLhqlNTL59) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Philip G Anderson](https://open.spotify.com/artist/0eQbtwyYUwzYwkq5MEdKrZ) | [Memoir Collections I \- Beginnings](https://open.spotify.com/album/538wzM7bIQT5TAuv79sHRU) | 2:27 | 2021-12-09 |  |
 | [at peace](https://open.spotify.com/track/5iLY3nwMD7WIm9p8q5tpWm) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [at peace](https://open.spotify.com/album/1PvZfkyXrVL9jPs4QioLUw) | 2:34 | 2021-12-09 |  |
-| [Athenian Mind](https://open.spotify.com/track/4ZyE9TB38tLADzmv1OImVU) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Athenian Mind](https://open.spotify.com/album/15FHTtzpay3sTq35INQKT8) | 2:32 | 2021-12-09 |  |
+| [Athenian Mind](https://open.spotify.com/track/4ZyE9TB38tLADzmv1OImVU) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Athenian Mind](https://open.spotify.com/album/15FHTtzpay3sTq35INQKT8) | 0:29 | 2021-12-09 |  |
 | [Atmos Eleven](https://open.spotify.com/track/0RIJAaogvQkeFuZVPhYlma) | [Atmos 11](https://open.spotify.com/artist/2dm3Qg6j7Y7Dl2yiFCT7MA) | [World of Wonders](https://open.spotify.com/album/2IofZvunariXmkfe7RYG45) | 3:47 | 2021-12-09 |  |
 | [Aura](https://open.spotify.com/track/2quE9M1AL9B7T6iSjzeT0o) | [Zion Llama](https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u) | [Aura](https://open.spotify.com/album/1GgB6wCGMjv9eIWbysYO4x) | 2:31 | 2022-01-20 |  |
 | [Avalanche](https://open.spotify.com/track/1Nm2fVCwabKAa7iVGsfGWy) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [Atmospheric Convection](https://open.spotify.com/album/2YNK9ns6luvhHrocjBteRp) | 3:34 | 2022-01-20 |  |
 | [Believer](https://open.spotify.com/track/6wsmXduFN4XMJ7ZwfEX52T) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 2:11 | 2021-12-09 |  |
-| [Black Light](https://open.spotify.com/track/0xCCENWuCBpUqk2xqsB4tU) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Black Light](https://open.spotify.com/album/24edgUNsqMAL1fUvS04GQ4) | 3:17 | 2021-12-09 |  |
+| [Black Light](https://open.spotify.com/track/0xCCENWuCBpUqk2xqsB4tU) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Black Light](https://open.spotify.com/album/24edgUNsqMAL1fUvS04GQ4) | 0:29 | 2021-12-09 |  |
 | [Blank Page](https://open.spotify.com/track/4CE7Fygc6DSOeC4Uw8cKxI) | [Evie Belcher](https://open.spotify.com/artist/502tjyEpMzN9vPl8nFYAmf) | [Blank Page](https://open.spotify.com/album/53jWtt7iHYe1CyVIcwk5Em) | 3:30 | 2022-06-16 |  |
 | [Bocks](https://open.spotify.com/track/2uefuYyOh0LTfrMcuvl2ID) | [Granite Stone](https://open.spotify.com/artist/2IIgijC6z7dO3WTWEX79tv) | [Bocks](https://open.spotify.com/album/5P5KYC3jZPN7F6lVMEZLCa) | 2:13 | 2021-12-09 |  |
 | [Breathe](https://open.spotify.com/track/2vx0jQ9EMGFcQNiY1wEThp) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Breathe](https://open.spotify.com/album/3HsM90jTIVTM3tkInTSxqC) | 3:06 | 2022-04-20 |  |
@@ -54,7 +54,7 @@
 | [Dreams](https://open.spotify.com/track/0e5hI6tWwk5ntTtGa0OYNG) | [Light & Sound](https://open.spotify.com/artist/2PUPgKWq4JNwSVQE41PXrT) | [Dreams](https://open.spotify.com/album/75Zm6EmgaCMhiCmDfHpcxe) | 3:16 | 2021-12-09 |  |
 | [Dromen over jou](https://open.spotify.com/track/3i066yEKcUByD71IIhr8f5) | [Niel Hupkes](https://open.spotify.com/artist/6PcwDVyKXjNm4SIFamEg30) | [Dromen over jou](https://open.spotify.com/album/6Hx2DpkhbReCoFJkxALAD7) | 3:52 | 2021-12-09 |  |
 | [Dulces Sueños](https://open.spotify.com/track/4xYu3ms4RRPwYjoZV7qEPl) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Dulces Sueños](https://open.spotify.com/album/1QlQTmNJSAroXlf82gRaAA) | 4:05 | 2021-12-09 | 2022-03-22 |
-| [Eclipse](https://open.spotify.com/track/1a21XB3h0NPXc3e7AoYc3O) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Eclipse](https://open.spotify.com/album/4aXLfqcjaxpUTZvIuUbQLJ) | 2:22 | 2021-12-09 |  |
+| [Eclipse](https://open.spotify.com/track/1a21XB3h0NPXc3e7AoYc3O) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Eclipse](https://open.spotify.com/album/4aXLfqcjaxpUTZvIuUbQLJ) | 0:29 | 2021-12-09 |  |
 | [Ein neuer Tag](https://open.spotify.com/track/0m3sUxYwx3DRzB291geuJR) | [Lina Amsler](https://open.spotify.com/artist/5i7lSqtuk0e6UOc9prZ88q) | [Ein neuer Tag](https://open.spotify.com/album/3k8hFl0PUK58om8iGsTHaD) | 2:56 | 2021-12-09 |  |
 | [Elusive](https://open.spotify.com/track/2qIW959qt0als3uu3gtjwB) | [Elysha Iman](https://open.spotify.com/artist/3YG9AoDdEIOygPtme6s1ZE) | [Elusive](https://open.spotify.com/album/0qxfxLXn8myAJLXKa6EmFS) | 2:15 | 2021-12-09 |  |
 | [Essential Sleep](https://open.spotify.com/track/7FkskPFn9biiXHFqFn4jFD) | [Alvaro Siesta](https://open.spotify.com/artist/2TqnggQ9LjdAR1GBHhUcZ1) | [Essential Sleep](https://open.spotify.com/album/7aoGBZ6Tb1YoUXZQNqOLhh) | 2:12 | 2022-06-16 |  |
@@ -74,7 +74,7 @@
 | [For now](https://open.spotify.com/track/1IdZJSn4MgU8nGWVQGm25D) | [Leah Maur](https://open.spotify.com/artist/5t4Zi1CHP9SPoQ5bcHvJRN) | [For now](https://open.spotify.com/album/3ewH2K6sin3yWusThvhdFV) | 2:41 | 2021-12-09 |  |
 | [Gentle Night](https://open.spotify.com/track/70mDYH59Vd9ipZFg7BmLvk) | [Selma Ström](https://open.spotify.com/artist/62k2sifCiGij6HZx3Z7dTp) | [Golden Hour](https://open.spotify.com/album/5XYFdD3nM3F5A1WlIB8o8Z) | 2:52 | 2021-12-09 |  |
 | [Giant](https://open.spotify.com/track/1skdG0IokRBAJGHylNqMck) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Jupiter Sunrise](https://open.spotify.com/album/0HkECsNONkYufTgr4dnBJv) | 2:35 | 2021-12-09 |  |
-| [Gone](https://open.spotify.com/track/4p7LooYAQniOpcNLunFnF3) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Breath of Life](https://open.spotify.com/album/4rVHSkEgzT6BwBYiS8NUAg) | 2:58 | 2021-12-09 |  |
+| [Gone](https://open.spotify.com/track/4p7LooYAQniOpcNLunFnF3) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Breath of Life](https://open.spotify.com/album/4rVHSkEgzT6BwBYiS8NUAg) | 0:29 | 2021-12-09 |  |
 | [Grain Of Sand](https://open.spotify.com/track/2WiuZ3Hn1qqvAoX7CUSfnm) | [Sol Aurora](https://open.spotify.com/artist/3gAQNBieKjVM4cpp5W470A) | [Grain Of Sand](https://open.spotify.com/album/0NdprMBVBSlzUK0w83q0l1) | 2:54 | 2021-12-09 |  |
 | [Grateful](https://open.spotify.com/track/05iwmG7u1JEo0MMZ2XEoIq) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Goodnight](https://open.spotify.com/album/661sIW9bDfiwExa9kF2z71) | 3:11 | 2021-12-09 |  |
 | [Gratitude](https://open.spotify.com/track/6uQzZwosuNDHx0V4gMXH8r) | [Stone Desert](https://open.spotify.com/artist/7cA7ooCUrAjngo3Spp6uCK) | [Gratitude](https://open.spotify.com/album/6nyaoTnXCsEwYINFKlmE8M) | 2:37 | 2021-12-09 |  |
@@ -87,7 +87,7 @@
 | [I Will Wait](https://open.spotify.com/track/5efmTcG1xyKUGP6UMBx6x3) | [Alina Linnéa](https://open.spotify.com/artist/2eWNqV0E7nkCq8MndbcmAU) | [I Will Wait](https://open.spotify.com/album/3djy7T65ukIdrFIOxFM1k6) | 2:06 | 2021-12-09 |  |
 | [In Bloom](https://open.spotify.com/track/60nhoUdtsUq4FOwts7B2bM) | [Zoé de Vera](https://open.spotify.com/artist/0ojIbBfm8uH68CpwcwoxGJ) | [In Bloom](https://open.spotify.com/album/1JdYFFVhnjTmj0lOXGwzZy) | 2:59 | 2021-12-09 |  |
 | [In the deep](https://open.spotify.com/track/0KCrx98nbNZoy4y0GYA4l1) | [Moon Swan](https://open.spotify.com/artist/2VGICkSc7ni1sr0orWXLo0) | [In the deep](https://open.spotify.com/album/3zUScCSyKqXMIGVrOrz1Bt) | 2:56 | 2022-02-03 |  |
-| [Inner Peace](https://open.spotify.com/track/7k59hF8Vc7Ob9HYO8fnbLF) | [Sabrina McGregor](https://open.spotify.com/artist/06r7F3mEYRJxjksrVsurYJ) | [Inner Peace](https://open.spotify.com/album/1UzLDrkqLbXxafCCog4pvF) | 2:59 | 2022-02-03 |  |
+| [Inner Peace](https://open.spotify.com/track/7k59hF8Vc7Ob9HYO8fnbLF) | [Sabrina McGregor](https://open.spotify.com/artist/06r7F3mEYRJxjksrVsurYJ) | [Inner Peace](https://open.spotify.com/album/1UzLDrkqLbXxafCCog4pvF) | 0:29 | 2022-02-03 |  |
 | [Jupiter](https://open.spotify.com/track/0X4MfCEzXp28yrhUKpOadD) | [Stratospheric](https://open.spotify.com/artist/2cuKHP8TmCTf4KovZNg1Ut) | [Jupiter](https://open.spotify.com/album/4MOIk31rXkeM3VYy6Dt72L) | 2:02 | 2021-12-09 |  |
 | [Jupiter Sunrise](https://open.spotify.com/track/1tQKUYjY3h950XByYm0ZAf) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Jupiter Sunrise](https://open.spotify.com/album/0HkECsNONkYufTgr4dnBJv) | 2:58 | 2021-12-09 | 2022-03-22 |
 | [Kaprifol](https://open.spotify.com/track/6ibcCbsk0xLgLzU5iWgUhf) | [Folksaga](https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf) | [Kaprifol](https://open.spotify.com/album/4sM4dk1tO71zcuRSKwBPJG) | 4:29 | 2021-12-09 |  |
@@ -112,7 +112,7 @@
 | [Moon Stage](https://open.spotify.com/track/2t4CN8rtDkodRYxYYhAAvL) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Moon Stage](https://open.spotify.com/album/42JKz2NOIzax2Erclm0Mmu) | 3:16 | 2022-05-25 |  |
 | [Moving through mist](https://open.spotify.com/track/32VQGpraYnbWBBR46vAppG) | [Esther Saunders](https://open.spotify.com/artist/2AmTNUzax2gngw3CseeDPK) | [Moving through mist](https://open.spotify.com/album/0ScW79cTIcqvIRfOhCugOc) | 2:17 | 2021-12-09 |  |
 | [Moving Towards Fine](https://open.spotify.com/track/2apnPHVAbn0ny2K8RowbpN) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [Envision](https://open.spotify.com/album/4yg5OckIrdMo7yIJcDRU4F) | 3:14 | 2021-12-09 |  |
-| [Muddus](https://open.spotify.com/track/45We1ecGx6GcCNJWiQywxA) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Muddus](https://open.spotify.com/album/2vgJ3w2gKOoKNFe9myNZcO) | 2:08 | 2021-12-09 |  |
+| [Muddus](https://open.spotify.com/track/45We1ecGx6GcCNJWiQywxA) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Muddus](https://open.spotify.com/album/2vgJ3w2gKOoKNFe9myNZcO) | 0:29 | 2021-12-09 |  |
 | [My Paradise](https://open.spotify.com/track/4FqRXEGuyM0YfpdtvecUgv) | [Clay Edwards](https://open.spotify.com/artist/2vmXrZiuBbcPV8K7fBclWC) | [My Paradise](https://open.spotify.com/album/0SBQ7Y3C7ifv590L0K6AQT) | 3:27 | 2021-12-09 |  |
 | [Nattljus](https://open.spotify.com/track/2QrJ8fjauMnKHUkdnghNzB) | [Pontus Josefsson](https://open.spotify.com/artist/1mxPkXiVRRYjy4GHEZQ6Ap) | [Nattljus](https://open.spotify.com/album/0Y1TTUkWznsaNE1GYQc0CX) | 2:34 | 2021-12-09 |  |
 | [Night Light](https://open.spotify.com/track/4iRBjXN9x4UdOrT9c6sSsL) | [Phoenomenatic](https://open.spotify.com/artist/1jOAI3YkQLJswHVGCIKbu4) | [Night Light](https://open.spotify.com/album/2q4lhQVfht53WO9uwkJYIr) | 2:30 | 2021-12-09 |  |
@@ -186,7 +186,7 @@
 | [State of Tranquility](https://open.spotify.com/track/1JFb0Na5vJFckCPOmrxPXR) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Gratitude](https://open.spotify.com/album/2Mh5szpygzvrRi00d8iJlC) | 4:08 | 2021-12-09 |  |
 | [Storytelling](https://open.spotify.com/track/2vVbuQJCiq6MfvmcQil2oW) | [Paul Dennehy](https://open.spotify.com/artist/5borNkYeud0HRvJWIdG3aM) | [Storytelling](https://open.spotify.com/album/5yB8ypsLT0ttxv0wSLM5IM) | 4:44 | 2021-12-09 |  |
 | [Sueño \(nos vemos mañana\)](https://open.spotify.com/track/6ageUeraq8yY687IBlpeEF) | [Artura Ponce Valles](https://open.spotify.com/artist/1V3rUG8q0KGU4wPVS0LIq1) | [Sueño \(nos vemos mañana\)](https://open.spotify.com/album/1cv6KC1L2brsbH63ImADBK) | 3:11 | 2021-12-09 |  |
-| [Sugar Dreams](https://open.spotify.com/track/1PU9FtEOCCDjigFFl5SliB) | [Alba's Pillows](https://open.spotify.com/artist/76zuGudqum0CSwVHgoAEDY) | [Sugar Dreams](https://open.spotify.com/album/71WNIvjWCIIY7HlXSHu1KN) | 3:31 | 2021-12-09 |  |
+| [Sugar Dreams](https://open.spotify.com/track/1PU9FtEOCCDjigFFl5SliB) | [Alba's Pillows](https://open.spotify.com/artist/76zuGudqum0CSwVHgoAEDY) | [Sugar Dreams](https://open.spotify.com/album/71WNIvjWCIIY7HlXSHu1KN) | 0:29 | 2021-12-09 |  |
 | [Sugar High](https://open.spotify.com/track/0H9ObVXY0RvFsXqdFDAdyp) | [Vanessa Sky](https://open.spotify.com/artist/3EBmLqXbxXtrJ1FDp4NRur) | [Sugar High](https://open.spotify.com/album/4cErrJtWfohldIG7dpgfiw) | 3:29 | 2021-12-09 |  |
 | [Summer Memories](https://open.spotify.com/track/2Jr8bmTiSIKWvn3OpTyN9s) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Summer Memories](https://open.spotify.com/album/1qf7trVq03K5jA7hCiy1Vi) | 2:47 | 2021-12-09 |  |
 | [Summits](https://open.spotify.com/track/7GfuqKFwIqZMPT3QpMOZay) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Worlds Apart](https://open.spotify.com/album/1Vwl7AuOBpF7zVEsiIRHlS) | 2:07 | 2021-12-09 |  |

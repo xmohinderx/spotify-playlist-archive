@@ -4,7 +4,7 @@
 
 > Whether it's by bus, subway, bike, or your own two feet, here are songs about all the ways to get around your neighborhood.
 
-46 songs - 1 hr 33 min - [published](https://open.spotify.com/playlist/39fXXUUoSwIdabmKIOWmAm)
+46 songs - 1 hr 32 min - [published](https://open.spotify.com/playlist/39fXXUUoSwIdabmKIOWmAm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Traffic Lights](https://open.spotify.com/track/7qorYwDKADOVTYK2DwVu9q) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong 50 Best Hits: Baby Shark and More](https://open.spotify.com/album/2GkjtrCWy2aAY9R0XG7Haq) | 0:46 | 2021-06-22 |  |
 | [Train Is A\-Coming](https://open.spotify.com/track/3EvF45l5hnDlJ55E1hAvdI) | [Kids Choir](https://open.spotify.com/artist/2rj7Su1MsQ6zRbSHnYqcJb) | [Songs Kids Really Love To Sing: 17 Playtime Songs](https://open.spotify.com/album/0aruGtg6RCRBEhrwNk2oWX) | 1:41 | 2021-06-22 |  |
 | [Train Song](https://open.spotify.com/track/4cLEtWfzH5KYpHmNc1fpC7) | [Brendan Parker](https://open.spotify.com/artist/3b7oGWr78Vwat438Dobb8f) | [Spaghetti Eddie! And Other Children's Songs, Vol\. 3](https://open.spotify.com/album/3dHyWeNdQFyk9Pd4t2mT5C) | 2:19 | 2021-06-22 |  |
-| [Tricycle](https://open.spotify.com/track/0kWvtFgFjgRsOTjqEpab1k) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Fascinating Creatures](https://open.spotify.com/album/0QNI8ietPOpLX0nrJPzrRi) | 1:36 | 2021-06-22 |  |
+| [Tricycle](https://open.spotify.com/track/0kWvtFgFjgRsOTjqEpab1k) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Fascinating Creatures](https://open.spotify.com/album/0QNI8ietPOpLX0nrJPzrRi) | 0:29 | 2021-06-22 |  |
 | [Trucks Are Tough](https://open.spotify.com/track/3RTdm0xgHyKVUMZX8dFruP) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/7b6l4ldOcy0FtFkI3pAgLF) | 1:54 | 2021-06-22 |  |
 | [Wheels In The City](https://open.spotify.com/track/7oRnunrwZCnDomjCvivJFm) | [Laura Doherty](https://open.spotify.com/artist/7bVSBw7ZOfKRyPBzTjEIoG) | [Kids In The City](https://open.spotify.com/album/0u6Q3uQTy7aqQ7DVKpGltt) | 1:51 | 2021-06-22 |  |
 | [Wheels on the Bus](https://open.spotify.com/track/0GzL6vZXfYOmMyfN3VszoT) | [Toddler Fun Learning](https://open.spotify.com/artist/6J7tunc4bHIFmzTevQ2J6Q), [Gecko's Garage](https://open.spotify.com/artist/2xHbxPlwNRVcJR3P3vjtX7) | [Gecko's Truck Songs for Children](https://open.spotify.com/album/4Id7UWpebesuBYQen93UNY) | 1:40 | 2021-06-22 |  |

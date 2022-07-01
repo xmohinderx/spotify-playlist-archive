@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzuTydUOXRi.md) - [plain]
 
 > Songs by Asian Americans calling for self\-empowerment, self\-determination, solidarity, and fighting erasure\. Built in partnership with <a href="https://hateisavirus.org/">Hate Is A Virus</a> & <a href="https://www.traktivist.com/">TRAKTIVIST</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 992 likes - 48 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 995 likes - 48 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzuTydUOXRi.md) - [plain]
 | 21 | [A Thousand Cuts](https://open.spotify.com/track/3BeSIS2pBi5ixg580Gy57U) | [Ruby Ibarra](https://open.spotify.com/artist/5y1a3x8WQZLTsmLPowFnkj), [Ann One](https://open.spotify.com/artist/0gbdUzudCwdzxynH0YSqhI) | [A Thousand Cuts](https://open.spotify.com/album/4rAVxJD6qAOsyEVBRKVOAQ) | 5:12 |
 | 22 | [Death To White Supremacy](https://open.spotify.com/track/48nOoECmqjr9RJLZM7eU1Q) | [OG Moose](https://open.spotify.com/artist/0K414ZbENjqYWIB3gXjUYF) | [Nuthin'](https://open.spotify.com/album/16GnE5g0W99H38fZhP170x) | 1:49 |
 | 23 | [Tonight](https://open.spotify.com/track/3ON6lpPUoE2HSINhpCCHTS) | [THE HOTEL LOBBY](https://open.spotify.com/artist/2bFpvoGZ1lD2HiAfE34Ypl) | [Tonight](https://open.spotify.com/album/0vwbVpk0mmS87BO8CqkUC1) | 2:47 |
-| 24 | [Americana](https://open.spotify.com/track/7MyDbHnlwF0r1hs88P2JmP) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Baby, I'm Hollywood!](https://open.spotify.com/album/5BcZjjb4BdRqZqgEPgcjzx) | 4:10 |
+| 24 | [Americana](https://open.spotify.com/track/7MyDbHnlwF0r1hs88P2JmP) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Baby, I'm Hollywood!](https://open.spotify.com/album/5BcZjjb4BdRqZqgEPgcjzx) | 0:29 |
 | 25 | [No Fear](https://open.spotify.com/track/5TjFxHpoDtVtLxIRezZhbR) | [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2), [Amber Liu](https://open.spotify.com/artist/4ZpzgTOUAznSK70KdPbJHf) | [No Fear](https://open.spotify.com/album/0OvPUr9aUdc763AqVcrPug) | 3:37 |
 | 26 | [What If](https://open.spotify.com/track/6WOBDIYdONshE17AKpp4gg) | [one vo1ce](https://open.spotify.com/artist/2XbrRvsnu4m56qwgBx5nnD) | [What If](https://open.spotify.com/album/3zr8ie94WO8a9GvJRKWQEA) | 4:20 |
 | 27 | [Try](https://open.spotify.com/track/46ZZhXlqekVBYCR3ikDJsM) | [Dolly Ave](https://open.spotify.com/artist/3CRylfSfibkfnjCMLhWmIk), [CHAI](https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC), [ALWAYS DIME](https://open.spotify.com/artist/1PYHM165Q7MLkCCT4ijJcE) | [Sleep](https://open.spotify.com/album/4GPhm4jal1zE0QscDbU6f2) | 2:55 |

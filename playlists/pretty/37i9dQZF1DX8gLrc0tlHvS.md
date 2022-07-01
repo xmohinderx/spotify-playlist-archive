@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gLrc0tlHvS.md) - [plain]
 
 > Driving rhythms, intricate instrumentation, and full harmonies\. Cover: Mumford & Sons
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,069 likes - 71 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,144 likes - 71 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Little Lion Man](https://open.spotify.com/track/2BBkIgdXLv5vyp1DR0wpQl) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/7GiLJfRPHARQrRJf01P2Tt) | 4:06 |
 | 2 | [Ophelia](https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 2:40 |
 | 3 | [As We Ran](https://open.spotify.com/track/5ITmuvjtUUdxVQCCsaKBDx) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [As We Ran](https://open.spotify.com/album/2MeNqK7a04QJIiUgrcX97y) | 3:20 |
-| 4 | [Call Me In The Afternoon](https://open.spotify.com/track/2BBb3UMJBNlofpC25pbSp4) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Spotify Sessions](https://open.spotify.com/album/0FCAIjkz366qJJbLe7RSis) | 3:13 |
+| 4 | [Call Me In The Afternoon](https://open.spotify.com/track/2BBb3UMJBNlofpC25pbSp4) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Spotify Sessions](https://open.spotify.com/album/0FCAIjkz366qJJbLe7RSis) | 0:29 |
 | 5 | [Wolf \(Bonus Track\)](https://open.spotify.com/track/0W4sXm430e78yQCgcvEXwp) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Wolf \- Single](https://open.spotify.com/album/0sZ3Kkl1X00ObODILIf3Td) | 3:40 |
 | 6 | [Moving Mountains](https://open.spotify.com/track/6PRr6dzkiaLTGbkLSdQCvL) | [The Brevet](https://open.spotify.com/artist/6tK77FerjTNLS5EEhI0zGM) | [American Novel: Ch\. I](https://open.spotify.com/album/6aOqx8c8t5I7I3fg3OxSCX) | 4:39 |
 | 7 | [1957](https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w) | [Milo Greene](https://open.spotify.com/artist/5euJsEvfrlfhYDorMR40OF) | [Milo Greene](https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w) | 3:24 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gLrc0tlHvS.md) - [plain]
 | 25 | [The Wolves](https://open.spotify.com/track/2eCTe3QlYxQlBhPTSMVIRU) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/1HWi1cL1VGLCiIYGfvHJmG) | 5:09 |
 | 26 | [Stomp](https://open.spotify.com/track/0eImrDDpQTEuHF0NBqmrei) | [The Stone Foxes](https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t) | [Bears & Bulls](https://open.spotify.com/album/790mhPtbtIdMDRdZM3Jimz) | 1:50 |
 | 27 | [Cleopatra](https://open.spotify.com/track/3ePbSxBnTdAkPswCEvTmhp) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/6tB4FD3WN5bKmsklNDEWXv) | 3:21 |
-| 28 | [Dearly Departed \(feat\. Esmé Patterson\)](https://open.spotify.com/track/6Gzjg6VWlLH5GluEOLdJfX) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Dearly Departed \(feat\. Esmé Patterson\)](https://open.spotify.com/album/5gluLjowIryNYpcyiAQmQU) | 3:32 |
+| 28 | [Dearly Departed \(feat\. Esmé Patterson\)](https://open.spotify.com/track/6Gzjg6VWlLH5GluEOLdJfX) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Dearly Departed \(feat\. Esmé Patterson\)](https://open.spotify.com/album/5gluLjowIryNYpcyiAQmQU) | 0:29 |
 | 29 | [Little Talks](https://open.spotify.com/track/3a2tuvXCHbW5nuUckuHkKT) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF) | 4:26 |
 | 30 | [Caroline](https://open.spotify.com/track/01xjqoUWoot91eGoYy7JDJ) | [Animal Years](https://open.spotify.com/artist/2TvIyBTuMGzgGuVLWKWJT1) | [Caroline](https://open.spotify.com/album/5dyHaBbEhvUdD7BW6VSzO1) | 3:32 |
 | 31 | [Strong Shoulders](https://open.spotify.com/track/0ZSrtQXrCT7T5icHd7RtvW) | [Caroline Smith & The Good Night Sleeps](https://open.spotify.com/artist/2gulZPrMWZDYyG2rCKrFza) | [Little Wind](https://open.spotify.com/album/48EYo3P2fFp3hlGkHJMEdI) | 2:08 |
@@ -78,6 +78,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gLrc0tlHvS.md) - [plain]
 | 68 | [The Ceiling](https://open.spotify.com/track/2jpCeGbbVGYu7utG7O4h4J) | [The Wild Feathers](https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn) | [The Wild Feathers \(Deluxe Version\)](https://open.spotify.com/album/2CJCzXS33sf7jcDNCNDRUv) | 6:18 |
 | 69 | [Come with Me Now](https://open.spotify.com/track/5ipT1OJ5riog93dLlQ98Wx) | [KONGOS](https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS) | [Come with Me Now](https://open.spotify.com/album/4MqDBcOy73ebbsQ1OopDq6) | 3:31 |
 | 70 | [The Way We Move](https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 2:48 |
-| 71 | [Hopeless Wanderer](https://open.spotify.com/track/7o7CXsKgDXhxbSMrqGVSd0) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/7HcmUZBCV4XR2YwEiQN5jK) | 5:07 |
+| 71 | [Hopeless Wanderer](https://open.spotify.com/track/7o7CXsKgDXhxbSMrqGVSd0) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/7HcmUZBCV4XR2YwEiQN5jK) | 0:29 |
 
 Snapshot ID: `MTYxMzEwNjEyMCwwMDAwMDAyMzAwMDAwMTc3OTQ5ZTA2MDIwMDAwMDE2ZDE1NTUzYjIz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 
 > What are you thankful for this Thanksgiving? These are the songs that make us feel grateful....
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,207 likes - 65 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,206 likes - 65 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 26 | [I Just Called To Say I Love You](https://open.spotify.com/track/6lJFfj7wWeKiYRjLMHN4SN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/5IneLpH3dsBiLlgcSseF8l) | 4:22 |
 | 27 | [The House That Built Me](https://open.spotify.com/track/02eD9ymfJOJOhM97HYp5R9) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Revolution](https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA) | 3:56 |
 | 28 | [You Are the Best Thing](https://open.spotify.com/track/0ocSSXx38j2MwPEvCo8wFN) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [You Are the Best Thing](https://open.spotify.com/album/4E7msOhehjCplHHAko0WTz) | 3:51 |
-| 29 | [Thank You](https://open.spotify.com/track/751gBcu62kORDelX7FV0mM) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/5HC0K52InwrhTEd5zDPzRk) | 3:37 |
+| 29 | [Thank You](https://open.spotify.com/track/751gBcu62kORDelX7FV0mM) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/5HC0K52InwrhTEd5zDPzRk) | 0:29 |
 | 30 | [Kind & Generous](https://open.spotify.com/track/6VrjF67WFChXh8uYYBfeRr) | [Natalie Merchant](https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD) | [Ophelia](https://open.spotify.com/album/79yCNDXk5sNKwskcAOxUtz) | 4:01 |
 | 31 | [With A Little Help From My Friends](https://open.spotify.com/track/6wEFAhLjqpt1xWfkZSieRd) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [The Anthology](https://open.spotify.com/album/7tNkiYXv3W2Sv132IuL6zH) | 5:13 |
 | 32 | [You Get What You Give](https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF) | [New Radicals](https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd) | [Maybe You've Been Brainwashed Too](https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR) | 5:00 |
-| 33 | [Long Way Home](https://open.spotify.com/track/4B8edpeAcQf1pQgXA0jdh9) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [American Love Call](https://open.spotify.com/album/4ZCrk8P8S1iSsEXZjimtPY) | 3:21 |
+| 33 | [Long Way Home](https://open.spotify.com/track/4B8edpeAcQf1pQgXA0jdh9) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [American Love Call](https://open.spotify.com/album/4ZCrk8P8S1iSsEXZjimtPY) | 0:29 |
 | 34 | [Home](https://open.spotify.com/track/3CqtlR0Yg54PxM5mkx75ma) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume Two](https://open.spotify.com/album/2U3hfrD7El484EiCfbILOq) | 4:40 |
 | 35 | [Thank You Friends](https://open.spotify.com/track/2bAbDf7h7gUEJQRxXBBq2N) | [Big Star](https://open.spotify.com/artist/3UvcmAOZt64oKpP95f6MMM) | [Keep An Eye On The Sky](https://open.spotify.com/album/7J7sZIPRWHxt3eVPGKsfi6) | 3:06 |
 | 36 | [Sweet Potato Pie](https://open.spotify.com/track/7FORSqVeo5krjnVjDmxbU6) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Genius Loves Company](https://open.spotify.com/album/7dYc03tSIjcF4dLJGXMS3f) | 3:46 |

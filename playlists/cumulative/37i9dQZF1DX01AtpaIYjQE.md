@@ -4,7 +4,7 @@
 
 > The essential tracks from LiSA\. アニメシーンから世界へと羽ばたく歌姫、LiSAのオールタイム・ベスト!
 
-80 songs - 5 hr 39 min - [published](https://open.spotify.com/playlist/5MXcZPGditWvob2cP9fj5u)
+80 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/5MXcZPGditWvob2cP9fj5u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [say my nameの片想い](https://open.spotify.com/track/1yhLT6y3sUpjL5r6oLFyQU) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDSPACE](https://open.spotify.com/album/5aKVOZqJWL30JXGpimjifo) | 4:07 | 2022-05-31 |  |
 | [She](https://open.spotify.com/track/5tudEWjNCbDGeFlLtv3Lgj) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LUCKY Hi FiVE!](https://open.spotify.com/album/58iuvEHBB7S230k6mY6uNR) | 3:56 | 2022-05-31 |  |
 | [the end of my world](https://open.spotify.com/track/2kIlRef8jWIVIQySIzXKcN) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiTTLE DEViL PARADE](https://open.spotify.com/album/6ShPLRahLkA0WcZ07ZLID9) | 3:28 | 2022-05-31 |  |
-| [THIS ILLUSION](https://open.spotify.com/track/6fXj7wwHKF80K8OjULIwCP) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [THIS ILLUSION](https://open.spotify.com/album/3Vb5ngvuqVX3I5r2TnoyoG) | 4:03 | 2022-05-31 |  |
+| [THIS ILLUSION](https://open.spotify.com/track/6fXj7wwHKF80K8OjULIwCP) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [THIS ILLUSION](https://open.spotify.com/album/3Vb5ngvuqVX3I5r2TnoyoG) | 0:29 | 2022-05-31 |  |
 | [Thrill, Risk, Heartless](https://open.spotify.com/track/3W6LrUmaUy26GrcvgPrZc8) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiSA Best \(Way\)](https://open.spotify.com/album/3iaPs4fFa4X19FVI1EUhNg) | 4:16 | 2022-05-31 |  |
 | [TODAY](https://open.spotify.com/track/2Hy4T5UiDimSa6V9jY06WW) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiTTLE DEViL PARADE](https://open.spotify.com/album/6ShPLRahLkA0WcZ07ZLID9) | 5:15 | 2022-05-31 |  |
 | [traumerei](https://open.spotify.com/track/3n9uepxPlsNW4gGkwAk9hW) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDSPACE](https://open.spotify.com/album/5aKVOZqJWL30JXGpimjifo) | 4:15 | 2022-05-31 |  |

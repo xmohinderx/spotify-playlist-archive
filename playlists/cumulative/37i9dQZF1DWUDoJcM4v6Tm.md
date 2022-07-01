@@ -4,12 +4,12 @@
 
 > Explore a sprawling musical landscape.
 
-136 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/6QNiRt36HWf1xbyQQcxk10)
+136 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/6QNiRt36HWf1xbyQQcxk10)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Age of Apathy](https://open.spotify.com/track/69MFthcMTOCpnGgQaa9OTj) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Age of Apathy](https://open.spotify.com/album/48Wth3kYQNTjOsPZ5n6a77) | 3:58 | 2022-01-05 |  |
-| [Ain't That The Way](https://open.spotify.com/track/0g31ynVt7Zy2cmYmTQfyjr) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [Ain't That The Way](https://open.spotify.com/album/1s1n8hW8oWLzTlj2w2nGLn) | 2:53 | 2021-10-08 |  |
+| [Ain't That The Way](https://open.spotify.com/track/0g31ynVt7Zy2cmYmTQfyjr) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [Ain't That The Way](https://open.spotify.com/album/1s1n8hW8oWLzTlj2w2nGLn) | 0:29 | 2021-10-08 |  |
 | [Albert Ross \- Acoustic Version](https://open.spotify.com/track/6b5spmZTz183Wv2NISqkuB) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Albert Ross \(Acoustic Version\)](https://open.spotify.com/album/1JOxodWPhouYYkrU4pokMs) | 4:30 | 2021-10-08 |  |
 | [All Is Well](https://open.spotify.com/track/77vpyfnzo1ROWQERRRe21h) | [Austin Basham](https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA) | [All Is Well](https://open.spotify.com/album/2p28pzBcrJHjxCBgWV9Exa) | 4:16 | 2021-10-08 |  |
 | [All Is Well](https://open.spotify.com/track/1wDSBJSCKxB8qZR6jnfqgt) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [All Is Well](https://open.spotify.com/album/7IAZgH8L6M6sOVx3I0FPWo) | 2:30 | 2022-02-25 |  |
@@ -51,7 +51,7 @@
 | [Flags](https://open.spotify.com/track/1CV6EB87upvFxfxJzFyL5T) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Flags](https://open.spotify.com/album/7MD7KO1Z8rbNqEontFyHw6) | 3:29 | 2021-10-08 |  |
 | [Flyin' Overhead](https://open.spotify.com/track/67djP6VPqGDjG5jJgBEuQb) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Flyin' Overhead](https://open.spotify.com/album/7weMOuQtaLZ5IM1FFpSv8v) | 4:51 | 2022-01-05 |  |
 | [For My Crimes](https://open.spotify.com/track/33QbtF1BYZBhYVZvmdbd7u) | [Marissa Nadler](https://open.spotify.com/artist/5zjaF8JUdylMWrA7AVo3hJ) | [For My Crimes](https://open.spotify.com/album/2LVoguhUIqWkr4HEdNRasZ) | 4:17 | 2021-10-08 |  |
-| [Galacticana](https://open.spotify.com/track/73xmoTyIsGhr2zevMYqa71) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [Galacticana](https://open.spotify.com/album/7qGW8JjT3nz4MC4x3daSZg) | 4:00 | 2021-10-08 |  |
+| [Galacticana](https://open.spotify.com/track/73xmoTyIsGhr2zevMYqa71) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [Galacticana](https://open.spotify.com/album/7qGW8JjT3nz4MC4x3daSZg) | 0:29 | 2021-10-08 |  |
 | [Garden Song](https://open.spotify.com/track/5uQRmdIqyMmKPWJcot4UmV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 3:39 | 2021-10-08 |  |
 | [Get Born, Grow up and Move Away](https://open.spotify.com/track/6kzo6FPHeAiJ9Fu0ep6Vyh) | [Clean Cut Kid](https://open.spotify.com/artist/0vnJ2wR879kbb5MuzblVOb) | [Mother’s Milk](https://open.spotify.com/album/6WB2kQKKY1mq9zRrsKU46b) | 2:22 | 2021-10-08 |  |
 | [Glass](https://open.spotify.com/track/1EK7pTpVpnSmQldZrVltgV) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Glass](https://open.spotify.com/album/5xdFjEgRe1KuD4soqeQF4z) | 3:19 | 2021-10-08 |  |
@@ -62,7 +62,7 @@
 | [Heart to Ride](https://open.spotify.com/track/3ksOjny1fxhYeRAMunOLcv) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Out of My Province](https://open.spotify.com/album/37ymm9QGZFi1sAQJrQZCzI) | 4:09 | 2021-10-08 |  |
 | [Honey Waits](https://open.spotify.com/track/6hcslraHCOI1OHxRIwP0pI) | [Keilan Creech](https://open.spotify.com/artist/4eXFlF6OR3cXk0NObEVk3I) | [Honey Waits](https://open.spotify.com/album/6kY02y7pp2lNFIbAZKLn0H) | 3:32 | 2021-10-08 |  |
 | [Honeyguide](https://open.spotify.com/track/4SQRMQ26Hlhzlcv70XP004) | [Frances Luke Accord](https://open.spotify.com/artist/5QkBg1W35HTtZZMiPk134k), [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Silver & Gold](https://open.spotify.com/album/2jopWuL3ljas5NHswGxC0k) | 3:17 | 2021-10-08 |  |
-| [How Bad I Wanna Live](https://open.spotify.com/track/4No2hBtuIufwb3w28Y0XZt) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [How Bad I Wanna Live](https://open.spotify.com/album/2kuPelS6p4hK1oAnKCvZKy) | 2:53 | 2022-02-25 |  |
+| [How Bad I Wanna Live](https://open.spotify.com/track/4No2hBtuIufwb3w28Y0XZt) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [How Bad I Wanna Live](https://open.spotify.com/album/2kuPelS6p4hK1oAnKCvZKy) | 0:29 | 2022-02-25 |  |
 | [How It Gets In \(feat\. Julien Baker\)](https://open.spotify.com/track/42ogcCoEQpdE84Hyvg36s8) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Recorded Songs](https://open.spotify.com/album/6iWVequrXlACmmalvL23c7) | 2:41 | 2021-10-08 |  |
 | [Howling](https://open.spotify.com/track/34hMOtKwf5nm8tjvkGV0Dk) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 5:09 | 2021-10-08 | 2022-02-26 |
 | [Human](https://open.spotify.com/track/4uBiUTHSuuRT4CtEoZHz2f) | [Molly Sarlé](https://open.spotify.com/artist/4XLoKwIIoARkhaKuZocq5d) | [Human](https://open.spotify.com/album/1CG4EjCxgzgQgadPN0piBA) | 3:54 | 2021-10-08 |  |
@@ -73,7 +73,7 @@
 | [Imogen](https://open.spotify.com/track/0X61Ud5Uzv44RvY3s1SsuO) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Wake Up Now](https://open.spotify.com/album/19YrX17syzkT6UZKLPpok4) | 4:15 | 2021-10-08 |  |
 | [In Brooklyn](https://open.spotify.com/track/2Jb4nEP0w6EtFhfRp2aiDg) | [Jess Morgan](https://open.spotify.com/artist/3sqUBL66V3rTDWwwG4XGaR) | [In Brooklyn](https://open.spotify.com/album/2fNRN3DASDB3Yn0gEYFBc3) | 3:35 | 2021-10-08 | 2022-01-06 |
 | [Is There Something in the Movies?](https://open.spotify.com/track/30Oss4XwkzQXRTlSQ0jqPq) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Is There Something in the Movies?](https://open.spotify.com/album/5uvP65mQl110ObhfVWdm01) | 3:30 | 2021-10-08 |  |
-| [It Just Goes On](https://open.spotify.com/track/5LF93y2ofrP9jlGcWrYoOR) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Go With Good](https://open.spotify.com/album/2mPIOuBkBQPMogyZD3hFCl) | 3:33 | 2022-04-13 |  |
+| [It Just Goes On](https://open.spotify.com/track/5LF93y2ofrP9jlGcWrYoOR) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Go With Good](https://open.spotify.com/album/2mPIOuBkBQPMogyZD3hFCl) | 0:29 | 2022-04-13 |  |
 | [Johnny](https://open.spotify.com/track/4WDtGj1M2HFlcjvYIiRFug) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [World On The Ground](https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH) | 3:59 | 2021-10-08 |  |
 | [Laughter](https://open.spotify.com/track/3Tm6srHVF3aHS2nWCRaXo0) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [Closer](https://open.spotify.com/album/6Kq1wGlsadyj4jQhjTO6CE) | 3:19 | 2021-10-08 | 2022-01-06 |
 | [Left the Academy](https://open.spotify.com/track/7EEA5pf6didfPM9QYHPY3G) | [Joshua Powell & the Great Train Robbery](https://open.spotify.com/artist/2Bg3YWw8JoE93lhqBPSEwx) | [Alyosha](https://open.spotify.com/album/3e5Gf2r2HqihUSNOn1E1Xu) | 2:59 | 2021-10-08 |  |
@@ -104,7 +104,7 @@
 | [Rose Petals](https://open.spotify.com/track/0NJ1LV5VblYyJsJt3EbAx7) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/7J2oRTfH14BbakDbmqMgiM) | 3:33 | 2021-10-08 |  |
 | [Say It Ain't So](https://open.spotify.com/track/1REohUFAzDBfIqPwL1CjUQ) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr), [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Say It Ain't So](https://open.spotify.com/album/22DE5yz0XPuClO8A0P6tyJ) | 3:43 | 2021-10-08 |  |
 | [Second Nature](https://open.spotify.com/track/0ZiZoJuytgBABtjeR9nzhE) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Don't Look Up \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7) | 4:02 | 2022-01-05 |  |
-| [Secret \- Acoustic](https://open.spotify.com/track/2DAshXha1ZTujz0pP7E28P) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Secret \(Acoustic\)](https://open.spotify.com/album/7BHKR9opVrudKl3vxPkbHt) | 3:10 | 2021-10-08 |  |
+| [Secret \- Acoustic](https://open.spotify.com/track/2DAshXha1ZTujz0pP7E28P) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Secret \(Acoustic\)](https://open.spotify.com/album/7BHKR9opVrudKl3vxPkbHt) | 0:29 | 2021-10-08 |  |
 | [Seventeen](https://open.spotify.com/track/3ctBlLC81pc2TMriIxnXxN) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [At Weddings](https://open.spotify.com/album/1v55LXxVAFvFV02xGMImwP) | 4:31 | 2021-10-08 |  |
 | [Shadow Bloom](https://open.spotify.com/track/1Dkzb965hsHKP8iTDqq0AT) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Emily Alone](https://open.spotify.com/album/2mpUdUSa6kIzdJQ23BgajX) | 3:40 | 2021-10-08 |  |
 | [Shadow in the Frame](https://open.spotify.com/track/1ZAAAOmcklGTQDrArjLBxa) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [You Belong There](https://open.spotify.com/album/2R74tj2OOtjri1Fi8C05B5) | 5:16 | 2022-04-13 |  |

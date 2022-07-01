@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 173085,
       "name": "ACORDA PEDRINHO",
       "url": "https://open.spotify.com/track/6hFwju6M40CKovKBPu5IpY"
@@ -2939,10 +2939,28 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 158754,
       "name": "Felina",
       "url": "https://open.spotify.com/track/0uXUzkR73X0SwgvuWuPtyE"
+    },
+    {
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5lKuOSbSAVobXK4fAwRe0Q"
+      },
+      "artists": [
+        {
+          "name": "Wiulzin",
+          "url": "https://open.spotify.com/artist/7wRT7A9WNYbV8kZyo7fbfz"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161889,
+      "name": "Felina",
+      "url": "https://open.spotify.com/track/55Sytdl0QwLXOgedPXt8B2"
     },
     {
       "album": {
@@ -5101,7 +5119,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 138855,
       "name": "Mini Game",
       "url": "https://open.spotify.com/track/4IVbbHg8tOBMx0ltNwGXFQ"
@@ -6269,7 +6287,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 126004,
       "name": "Pequi de Goi\u00e1s",
       "url": "https://open.spotify.com/track/292ypJvjQin21i3qYsbmjU"
@@ -7371,7 +7389,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 180645,
       "name": "Senta Danadinha",
       "url": "https://open.spotify.com/track/6Epk6YaI0oQOxy20TPk96m"
@@ -8172,6 +8190,24 @@
     },
     {
       "album": {
+        "name": "O Rei do Lambad\u00e3o",
+        "url": "https://open.spotify.com/album/0Mdw6Iu6RRbF0rFHopHoac"
+      },
+      "artists": [
+        {
+          "name": "Nivaldo Marques",
+          "url": "https://open.spotify.com/artist/38KlCsh4vAknywZfVbJuvH"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213312,
+      "name": "Tem Cabar\u00e9 Essa Noite",
+      "url": "https://open.spotify.com/track/2qjrr9H563mSppz1V2NgKI"
+    },
+    {
+      "album": {
         "name": "Termina Comigo Antes",
         "url": "https://open.spotify.com/album/3DnY0LdBlcqVcSOGLHE4Vq"
       },
@@ -8455,7 +8491,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 171712,
       "name": "Todo Seu - Ao Vivo",
       "url": "https://open.spotify.com/track/546dFmvwFGBY7MJOkV5ctq"

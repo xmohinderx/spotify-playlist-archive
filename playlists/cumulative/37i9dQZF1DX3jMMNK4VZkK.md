@@ -4,7 +4,7 @@
 
 > Who runs the world? GIRLS!
 
-103 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/02YbompUlncE5cgV47VrQg)
+103 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/02YbompUlncE5cgV47VrQg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Can't Get You out of My Head](https://open.spotify.com/track/7dxiorC4Um7Ph0fAPsVn76) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Step Back in Time: The Definitive Collection](https://open.spotify.com/album/3vA84e8wtK3OqVoq7jQs5V) | 3:50 | 2020-09-29 |  |
 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 | 2020-09-29 |  |
 | [Dancing In The Dark \- From The "Home" Soundtrack](https://open.spotify.com/track/5J4WHWFvEWRd2FBVhcTcmi) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Home \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4jzv8VHqVBSt6wHCNHpWZv) | 3:43 | 2020-09-29 |  |
-| [DDU\-DU DDU\-DU](https://open.spotify.com/track/2aI2k39nfa3KFsa4JclQzw) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/2zwfcNqJe7IT1RwgVyv1ug) | 3:29 | 2020-09-29 |  |
+| [DDU\-DU DDU\-DU](https://open.spotify.com/track/2aI2k39nfa3KFsa4JclQzw) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/2zwfcNqJe7IT1RwgVyv1ug) | 0:29 | 2020-09-29 |  |
 | [Diamond Hearts](https://open.spotify.com/track/0wq92Ke9N0hCukaohCY5rl) | [Run The World](https://open.spotify.com/artist/0cInwP8nWQOIaTXvjbnh7M), [Jam Jr.](https://open.spotify.com/artist/1XCnotN3MszWUMW7BdXc1u) | [Diamond Hearts](https://open.spotify.com/album/37TUhBeoz4HfXDQZYRYU9R) | 3:08 | 2020-09-29 |  |
 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 | 2020-09-29 |  |
 | [drivers license](https://open.spotify.com/track/4ml4WlnHDEpOK8HRVYTCWf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/7bYichzvtYHdjF8HF69dyA) | 4:02 | 2021-07-28 |  |
@@ -62,7 +62,7 @@
 | [Nah Nah Nah](https://open.spotify.com/track/3qL331Jhf5RO4j0T3DqWun) | [Haschak Sisters](https://open.spotify.com/artist/65bfJSe4WLgPfyEo9Pqelp) | [Nah Nah Nah](https://open.spotify.com/album/4IRJpqzRb4OR8PpBeEcgws) | 2:56 | 2021-02-18 |  |
 | [Nonstop](https://open.spotify.com/track/07sscPQA6fR2yGVf3vMmld) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Nonstop](https://open.spotify.com/album/75Ihw1IDFXtLMkqqLE57xg) | 2:20 | 2020-09-29 |  |
 | [Nothing Compares 2 U](https://open.spotify.com/track/3nvuPQTw2zuFAVuLsC9IYQ) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/34hQFIwGTLf03BZQmGL0iy) | 4:40 | 2020-09-29 |  |
-| [One Way Or Another](https://open.spotify.com/track/59CLe8stbcx4XYBWdsfbwK) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines](https://open.spotify.com/album/4M6s2jbhKWEcOdXZ8WiHts) | 3:37 | 2020-09-29 |  |
+| [One Way Or Another](https://open.spotify.com/track/59CLe8stbcx4XYBWdsfbwK) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines](https://open.spotify.com/album/4M6s2jbhKWEcOdXZ8WiHts) | 0:29 | 2020-09-29 |  |
 | [Only Happy When It Rains](https://open.spotify.com/track/1IsGA5ceSC4a5nxgAEYnQd) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage \(20th Anniversary Deluxe Edition/Remastered\)](https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7) | 3:56 | 2020-09-29 |  |
 | [Original \(from Dolittle\)](https://open.spotify.com/track/0YoquWDxpwAq8jFPj3K8wp) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Original \(from Dolittle\)](https://open.spotify.com/album/00CTugKcgZzpPJKpmeNdDS) | 3:33 | 2020-09-29 |  |
 | [Poker Face](https://open.spotify.com/track/0WfKDYeUAoLA3vdvLKKWMW) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame](https://open.spotify.com/album/2FBA8NCSuQNi8jaR2Xjbal) | 3:57 | 2020-09-29 |  |
@@ -95,8 +95,8 @@
 | [The Climb](https://open.spotify.com/track/5x5JM1BSB6vollcIzDocqT) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives \(International Version\)](https://open.spotify.com/album/0IuHVgAvbNDJnJepuSZ8Oz) | 3:54 | 2020-09-29 |  |
 | [There Must Be an Angel \(Playing with My Heart\)](https://open.spotify.com/track/2PKPMLZJDmw77S8V2kEl6D) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Ultimate Collection](https://open.spotify.com/album/1t7fYXGuOKQ61AY4qRtIot) | 4:40 | 2020-09-29 |  |
 | [Together In This \- From The Jungle Beat Motion Picture](https://open.spotify.com/track/0x9p2PjS0t9DbwqK4vgtWR) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Together In This \(From The Jungle Beat Motion Picture\)](https://open.spotify.com/album/4wsn49kPVdAGxM1GnCVlEt) | 2:57 | 2020-09-29 |  |
-| [Treat Myself](https://open.spotify.com/track/4f5hQ0btm9SOZn9PhGJc6b) | [Piper Rockelle](https://open.spotify.com/artist/4XU1w0lxvHVRYKFQbMOTss) | [Treat Myself](https://open.spotify.com/album/45CRnsoRtOaXe1XClA5c5I) | 2:47 | 2020-09-29 |  |
-| [Try Everything](https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3X6netsswLt0U97Doga56C) | 3:16 | 2020-09-29 |  |
+| [Treat Myself](https://open.spotify.com/track/4f5hQ0btm9SOZn9PhGJc6b) | [Piper Rockelle](https://open.spotify.com/artist/4XU1w0lxvHVRYKFQbMOTss) | [Treat Myself](https://open.spotify.com/album/45CRnsoRtOaXe1XClA5c5I) | 0:29 | 2020-09-29 |  |
+| [Try Everything](https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3X6netsswLt0U97Doga56C) | 0:29 | 2020-09-29 |  |
 | [Video](https://open.spotify.com/track/4oiAlcisfimXQc1wyAtX9a) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Acoustic Soul](https://open.spotify.com/album/6ApdnTHD5zXzmZqxf0TA9Z) | 4:09 | 2020-09-29 |  |
 | [Vulnerable](https://open.spotify.com/track/11OwAR3GlBj9E35Cznf7Lj) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:12 | 2020-09-29 |  |
 | [Waiting for Tonight](https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 4:06 | 2020-09-29 |  |

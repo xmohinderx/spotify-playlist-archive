@@ -4,7 +4,7 @@
 
 > The ultimate classical playlist for yoga, meditation and daily mindfulness.
 
-54 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/6WzOVMHapSVAlzMq8XAa77)
+54 songs - 3 hr 38 min - [published](https://open.spotify.com/playlist/6WzOVMHapSVAlzMq8XAa77)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [The Girl with the Flaxen Hair](https://open.spotify.com/track/3LArRyjSFrKpn36eKMiTeh) | [George Nascimento](https://open.spotify.com/artist/2hfcG7JOmq4zs2rkrM5L7u) | [Relaxing Classical Piano](https://open.spotify.com/album/0c9Gu8sIJ3EHmXRuKKUfD1) | 3:15 | 2021-03-18 |  |
 | [Too Soon](https://open.spotify.com/track/1nqFHztC0sDmMVqxksjNVL) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Too Soon](https://open.spotify.com/album/5kkUYXyrANeClclVI4nQow) | 4:03 | 2021-03-18 |  |
 | [Tramlines](https://open.spotify.com/track/10BepUUYRLzp0QV2NoEDAB) | [Neil Cowley](https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB) | [Tramlines](https://open.spotify.com/album/0ktupZczFTrZjn4FJGu14r) | 3:46 | 2021-03-18 |  |
-| [Tune from the Film by Lana Gogoberidze: When Almonds Blossomed](https://open.spotify.com/track/0vqNv43ZdOMGwq6ZZiRBEH) | [Giya Kancheli](https://open.spotify.com/artist/7eZXdqPC0XYtALWzaVjGLh), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Motherland](https://open.spotify.com/album/1QlwdrB0YycnoWOH1JqCqh) | 2:08 | 2021-03-18 |  |
-| [Where Worlds Collide](https://open.spotify.com/track/04F2CVACUouSEWkaApQnmf) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Evolution](https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct) | 4:02 | 2021-03-18 |  |
+| [Tune from the Film by Lana Gogoberidze: When Almonds Blossomed](https://open.spotify.com/track/0vqNv43ZdOMGwq6ZZiRBEH) | [Giya Kancheli](https://open.spotify.com/artist/7eZXdqPC0XYtALWzaVjGLh), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Motherland](https://open.spotify.com/album/1QlwdrB0YycnoWOH1JqCqh) | 0:29 | 2021-03-18 |  |
+| [Where Worlds Collide](https://open.spotify.com/track/04F2CVACUouSEWkaApQnmf) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Evolution](https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct) | 0:29 | 2021-03-18 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

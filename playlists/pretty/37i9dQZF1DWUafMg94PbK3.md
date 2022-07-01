@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafMg94PbK3.md) - [plain]
 
 > If you're driving a car, flying a plane, or riding a bus \- these songs about transportation are for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 775 likes - 59 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 775 likes - 59 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafMg94PbK3.md) - [plain]
 | 9 | [On My Bike](https://open.spotify.com/track/7pnqGRRdqOYRDjd3qzFyL3) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [A Potluck](https://open.spotify.com/album/4uBGyDlwFP7tlfLma1DDJk) | 3:03 |
 | 10 | [The Subway Shake](https://open.spotify.com/track/4UjWHUGzJUZoCuQCMElVdb) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes, Vol\. 6: Fun Baby Songs](https://open.spotify.com/album/5Z4p6QUeFGMH3DiUdfVRFP) | 1:59 |
 | 11 | [Traffic Light](https://open.spotify.com/track/7dy4mrnVEs5tkeMmOv7UFm) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Traffic Light](https://open.spotify.com/album/12LqvxqkIMHfwlsedY3Lq6) | 2:17 |
-| 12 | [The Airplane Song](https://open.spotify.com/track/6qBDXAIxumtwgXW7ryNZ1b) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Tunes, Vol\. 2: Machines \(Music for Toddlers\)](https://open.spotify.com/album/7FW8yYv5Ox3CJjkEJCA8Se) | 2:46 |
+| 12 | [The Airplane Song](https://open.spotify.com/track/6qBDXAIxumtwgXW7ryNZ1b) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Tunes, Vol\. 2: Machines \(Music for Toddlers\)](https://open.spotify.com/album/7FW8yYv5Ox3CJjkEJCA8Se) | 0:29 |
 | 13 | [Bicycle](https://open.spotify.com/track/4gHHytUVWdfPumbJA9AizA) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Mind of My Own](https://open.spotify.com/album/1vVu1xyubkJrslVtb1UHnk) | 2:03 |
 | 14 | [Wheels On The Bus](https://open.spotify.com/track/6fWbq3vHFs1Ggorg8JkJ23) | [Mellodees](https://open.spotify.com/artist/03H3gcpif0GufJE8ybbcpn) | [Wheels On The Bus](https://open.spotify.com/album/3di2EUUcC0LEP3JV9NlqOW) | 1:41 |
 | 15 | [Driving in My Car](https://open.spotify.com/track/2hNywVyL4cZgLnuHSuN1W0) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Vehicle Songs, Vol 1](https://open.spotify.com/album/6M4hu1ubzcihIDsAZFnlFX) | 1:25 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafMg94PbK3.md) - [plain]
 | 32 | [Freight Train](https://open.spotify.com/track/0ZNnVSjkU5TycXwvbJjC6X) | [Elizabeth Mitchell](https://open.spotify.com/artist/3gBQ1U5dXpRXS6tlbyNTDM) | [You Are My Flower](https://open.spotify.com/album/73UdZAjg3scbVKIO4r15PG) | 2:58 |
 | 33 | [Tractors Song](https://open.spotify.com/track/7K4Ye9DJpb4tAEBiVzmu84) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Vehicle Songs, Vol 1](https://open.spotify.com/album/6M4hu1ubzcihIDsAZFnlFX) | 1:43 |
 | 34 | [Bumping Up and Down](https://open.spotify.com/track/1JujKUKruyQVNzsAiNmXWu) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Singable Songs for the Very Young](https://open.spotify.com/album/3U5LJdhLG5ZxKkbHbNCyGH) | 1:32 |
-| 35 | [Tricycle](https://open.spotify.com/track/0kWvtFgFjgRsOTjqEpab1k) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Fascinating Creatures](https://open.spotify.com/album/0QNI8ietPOpLX0nrJPzrRi) | 1:36 |
+| 35 | [Tricycle](https://open.spotify.com/track/0kWvtFgFjgRsOTjqEpab1k) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Fascinating Creatures](https://open.spotify.com/album/0QNI8ietPOpLX0nrJPzrRi) | 0:29 |
 | 36 | [Little Red Wagon](https://open.spotify.com/track/51MZDoGoosjhi7jK07be8u) | [Russ](https://open.spotify.com/artist/1E6K4bbLCPao9TWnDWyYu4) | [Back to School, 50 Kindergarten Songs from Sesame Street, The Muppets, Phineas and Ferb, Sharon, Lois & Bram and More!](https://open.spotify.com/album/6dZ3FImmNlzkcQAjev5uO8) | 2:49 |
 | 37 | [10 Little Tractors](https://open.spotify.com/track/4MPSOqsA5CDK6t3St7YTTT) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Humpty Dumpty & More Kids Songs](https://open.spotify.com/album/0BzahBqTDaiYJ9183lO5Hu) | 1:56 |
 | 38 | [Song About Planes](https://open.spotify.com/track/6Chh6YgaSq4cNd3wKKdofj) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Vehicle Songs, Vol 1](https://open.spotify.com/album/6M4hu1ubzcihIDsAZFnlFX) | 1:32 |

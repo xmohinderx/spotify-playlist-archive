@@ -4,7 +4,7 @@
 
 > Lo mejor del Rock en Español de hoy\. Cover: Samantha Sánchez
 
-91 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/1oUEjRuRAeBE25oqoZZ6lQ)
+91 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/1oUEjRuRAeBE25oqoZZ6lQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,10 +14,10 @@
 | [AM 686 \(Baila Borrachin\)](https://open.spotify.com/track/6Giv0QAyUZkXmrQuGVVwkY) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL) | [Siempre es Domingo](https://open.spotify.com/album/31GxDV3JayxMdG91eKoNip) | 2:50 | 2022-04-15 |  |
 | [Amanecer Distinto](https://open.spotify.com/track/7iqkAo06Zi7Oqrx3sMXSfv) | [Los Tempestades](https://open.spotify.com/artist/1pCufdD30Lg2ipgL59qYLo) | [Amanecer Distinto](https://open.spotify.com/album/2PIzXBzk6modgFwPi90rEJ) | 2:12 | 2022-04-15 |  |
 | [Amores Mios \- Poca Madre Dancing Club](https://open.spotify.com/track/7c7MNnmBtzNWRwUYT4nmcS) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL) | [Amores Mios \(Poca Madre Dancing Club\)](https://open.spotify.com/album/09NRH51HivrhkAkIedt5Gu) | 3:52 | 2022-04-15 |  |
-| [Araña Subnormal](https://open.spotify.com/track/65aiOgU3pRWB6tA7BoPlXy) | [Revólver Plateado](https://open.spotify.com/artist/73GjkmYVJJkhT0S4FweayO) | [Araña Subnormal](https://open.spotify.com/album/51IevSRC4jUK4h6xMahZA4) | 4:01 | 2022-04-15 |  |
+| [Araña Subnormal](https://open.spotify.com/track/65aiOgU3pRWB6tA7BoPlXy) | [Revólver Plateado](https://open.spotify.com/artist/73GjkmYVJJkhT0S4FweayO) | [Araña Subnormal](https://open.spotify.com/album/51IevSRC4jUK4h6xMahZA4) | 0:29 | 2022-04-15 |  |
 | [Bad Kiss](https://open.spotify.com/track/1pXdYW93QYTfReu4hhXozQ) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Bad Kiss](https://open.spotify.com/album/6k9wPtpVp9mfAOwp56g5LJ) | 2:22 | 2022-04-15 |  |
 | [Baila](https://open.spotify.com/track/4PtZLOZWhq26oPaGegF1BF) | [Costera](https://open.spotify.com/artist/5JpCxwOe867Dbf62kLcQQM) | [Baila](https://open.spotify.com/album/1T6x46OfNbckEzfniu5kCn) | 4:16 | 2022-04-15 |  |
-| [Cantar de los Magos](https://open.spotify.com/track/6wNVd3n0AYoZrbuF45MYAL) | [El Viaje de Lázaro](https://open.spotify.com/artist/5BaL7UhFbZfIv7FzOD9so0) | [Cantar de los Magos](https://open.spotify.com/album/4AIbSPwiL3wb35iJTvqXFN) | 4:44 | 2022-04-15 |  |
+| [Cantar de los Magos](https://open.spotify.com/track/6wNVd3n0AYoZrbuF45MYAL) | [El Viaje de Lázaro](https://open.spotify.com/artist/5BaL7UhFbZfIv7FzOD9so0) | [Cantar de los Magos](https://open.spotify.com/album/4AIbSPwiL3wb35iJTvqXFN) | 0:29 | 2022-04-15 |  |
 | [Celosa](https://open.spotify.com/track/5lx3ZGWICq1EuSpkt0Zg04) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj) | [Celosa](https://open.spotify.com/album/4LwIDAHt4ALnQemPmkenUr) | 4:22 | 2022-04-15 |  |
 | [Clavo](https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9), [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Clavo](https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11) | 2:50 | 2022-04-15 |  |
 | [Cochina Crop Top](https://open.spotify.com/track/4ScLWxzOMebsJ7TktbkePd) | [Las Pijamas](https://open.spotify.com/artist/4YXs1wyOEwikSr8Vrz0sSz) | [Cochina Crop Top](https://open.spotify.com/album/1uVM0NzQXuTejFe1JKfvKq) | 2:31 | 2022-04-15 |  |
@@ -30,13 +30,13 @@
 | [Dame Love \- Remix](https://open.spotify.com/track/4osMQOkwTX79FUbNJpGxCD) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [7 Secretos](https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO) | 3:11 | 2022-04-15 |  |
 | [Danza de Sol](https://open.spotify.com/track/2IHswTTnpUppvV8jn7PHqH) | [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [Hijos del Sol](https://open.spotify.com/album/0syY8WEuVTi39vVHfrCbjq) | 3:10 | 2022-04-15 |  |
 | [De Policía a Ladrón](https://open.spotify.com/track/1jebYwGYhXdIpehhcKyJTt) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT) | [De Policía a Ladrón](https://open.spotify.com/album/2N7ur7BWpL1xvZ6fIfSzR6) | 3:12 | 2022-04-15 |  |
-| [Dime Qué Pasó](https://open.spotify.com/track/6TVW74b5hGxhttPMVICi3c) | [Madigan](https://open.spotify.com/artist/7koaptn4z7oXGkK9wtdmyI) | [Dime Qué Pasó](https://open.spotify.com/album/0oEiIxzRvUDBbwfhMVMFYx) | 3:04 | 2022-04-15 |  |
+| [Dime Qué Pasó](https://open.spotify.com/track/6TVW74b5hGxhttPMVICi3c) | [Madigan](https://open.spotify.com/artist/7koaptn4z7oXGkK9wtdmyI) | [Dime Qué Pasó](https://open.spotify.com/album/0oEiIxzRvUDBbwfhMVMFYx) | 0:29 | 2022-04-15 |  |
 | [Divergencia](https://open.spotify.com/track/0uA76b98PXOa8dtkjdqor8) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Divergencia](https://open.spotify.com/album/0kT0qtLqqPl44l7AmWbw5C) | 3:45 | 2022-04-15 |  |
 | [Dolor a mis espaldas](https://open.spotify.com/track/66pmTw5Ri5JSM92JgP5pys) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ), [Los Viejos](https://open.spotify.com/artist/3AS8HtsWG2bIRM7LqI8DUk) | [Dolor a mis espaldas](https://open.spotify.com/album/2IUUIeZDX70jHdmDCXBxlF) | 3:25 | 2022-04-15 |  |
 | [El Baile del Soldado Azul](https://open.spotify.com/track/51LoRqavhMgCstc1HFbBal) | [Las Cruxes](https://open.spotify.com/artist/3gL5WAtHmbaR1LR8zZiQn8) | [El Baile del Soldado Azul](https://open.spotify.com/album/1F1IGwu0w2X4Jgx0PY5qEd) | 4:02 | 2022-04-15 |  |
 | [El Día del Huracán](https://open.spotify.com/track/0TQtEsBJR3APXQRzGj5ZeW) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/0WPmKeCtjDH4dxCuJeQqIj) | 4:25 | 2022-04-15 |  |
 | [El Garage de Gina Monster \- Ajusco Mix](https://open.spotify.com/track/1FAqUyErZ1nGG8qOFeOouf) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U), [Ajusco](https://open.spotify.com/artist/1xpP29I2Utlk9GX0hjOEIc) | [El Garage de Gina Monster \(Ajusco Mix\)](https://open.spotify.com/album/1iz3PRDFtK1k3Pg6K4KJGQ) | 3:09 | 2022-04-15 |  |
-| [EL PEOR](https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [EL PEOR](https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv) | 1:54 | 2022-04-15 |  |
+| [EL PEOR](https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [EL PEOR](https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv) | 0:29 | 2022-04-15 |  |
 | [El Podio del TC](https://open.spotify.com/track/5Xl50bMwdD7WY2veOxmAi7) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Gracias Por Nada](https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte) | 3:02 | 2022-04-15 |  |
 | [El Portal](https://open.spotify.com/track/3doBRDu4E0hSEXuIDa5Ov3) | [REX MARTE](https://open.spotify.com/artist/7HQ7g5kSVZvXHhfBQzd3pk) | [El Portal](https://open.spotify.com/album/2P2Z88TI9kCt622KYLd3iS) | 4:27 | 2022-04-15 |  |
 | [EL PUENTE](https://open.spotify.com/track/4FlHFjk6TR4RQNnI1oYGvQ) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Transcender](https://open.spotify.com/album/1MWFI4H59Zw7cq1JvobjOk) | 3:48 | 2022-04-15 |  |
@@ -80,7 +80,7 @@
 | [Punks vs Emos](https://open.spotify.com/track/3hEyHrTsHskOcIzi7PDAR1) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [Martín Delgado presenta: La Otra Música x AireLibre​.​FM](https://open.spotify.com/album/02MKu06t0i6LMfeZl3EBKC) | 4:19 | 2022-04-15 |  |
 | [Punta Diamante](https://open.spotify.com/track/6ZM6qRRY9YUER561TWGENV) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Mazunte 2016](https://open.spotify.com/album/0lmrY3kRUsLpZUXw7clbfT) | 2:42 | 2022-04-15 |  |
 | [QUE SE MEJOREN](https://open.spotify.com/track/1ikC0IM4iDcdPtVpQ22fik) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [QUE SE MEJOREN](https://open.spotify.com/album/2YrxNeGDQAFYrNvOx3mYUe) | 3:01 | 2022-04-15 |  |
-| [Quiero Casarme Contigo](https://open.spotify.com/track/1s5FcXcjnYDEC785fcoBQv) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [El Tiempo y la Actitud](https://open.spotify.com/album/5fduhI9tX4BLmTXbSBjL4R) | 2:58 | 2022-04-15 |  |
+| [Quiero Casarme Contigo](https://open.spotify.com/track/1s5FcXcjnYDEC785fcoBQv) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [El Tiempo y la Actitud](https://open.spotify.com/album/5fduhI9tX4BLmTXbSBjL4R) | 0:29 | 2022-04-15 |  |
 | [Sandwich de Monda](https://open.spotify.com/track/7egAAtDHS0QIaEdqYHhvjC) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [Sandwich de Monda](https://open.spotify.com/album/77T0wIqtqyCTzQiLNYywOU) | 1:37 | 2022-04-15 |  |
 | [Si Te Pierdes, Nos Perdemos Juntos \| Ui](https://open.spotify.com/track/07Y5e1JIb0SktfRaCmKgpD) | [De Osos](https://open.spotify.com/artist/6QYqaSY7KhpQjMqIbqEh8K), [Throne For A Coward](https://open.spotify.com/artist/03emA0Aj3p5X2HLWjpJ2NK) | [Modificaciones del Modelo Original](https://open.spotify.com/album/6gnmos5liRTIAotnBdDjJL) | 5:13 | 2022-04-15 |  |
 | [Sintonízate](https://open.spotify.com/track/44664P6a23SRPxG3RzJwVs) | [Feelder](https://open.spotify.com/artist/5hlVR9GtWAmGrx9GLJhHxr) | [Sintonízate](https://open.spotify.com/album/4INjnB6dE6HFMh6fPQmXB3) | 2:38 | 2022-04-15 |  |
@@ -98,6 +98,6 @@
 | [When I'm Down](https://open.spotify.com/track/2TCdV9BPqra1Xx8taVwyFC) | [The Froys](https://open.spotify.com/artist/3DrFw6l7rWBb8AbZ3B5zlc) | [Martín Delgado presenta: La Otra Música x AireLibre​.​FM](https://open.spotify.com/album/02MKu06t0i6LMfeZl3EBKC) | 2:22 | 2022-04-15 |  |
 | [Witches](https://open.spotify.com/track/3XoSb47bCtKeqZkJuLN1UD) | [Elefangs](https://open.spotify.com/artist/1PXCJheCUd6J5YOk0AX0iU) | [II](https://open.spotify.com/album/59vszOgawI6rMXUDPO4yef) | 4:28 | 2022-04-15 |  |
 | [¿Qué Pedo Contigo?](https://open.spotify.com/track/7thvuaGGKMjUBNz3mnVjPX) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Sobredosis RPDF](https://open.spotify.com/album/25dd3steypAu7tmyAydIbl) | 3:06 | 2022-04-15 |  |
-| [Ícaro](https://open.spotify.com/track/1mw0oMAkcFDjsnGrhTqvvE) | [Feelder](https://open.spotify.com/artist/5hlVR9GtWAmGrx9GLJhHxr) | [Ícaro](https://open.spotify.com/album/5zXJByZzyJNoECnZotuc71) | 2:33 | 2022-04-15 |  |
+| [Ícaro](https://open.spotify.com/track/1mw0oMAkcFDjsnGrhTqvvE) | [Feelder](https://open.spotify.com/artist/5hlVR9GtWAmGrx9GLJhHxr) | [Ícaro](https://open.spotify.com/album/5zXJByZzyJNoECnZotuc71) | 0:29 | 2022-04-15 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > everyone has left and it's just you and your love dancing in the living room
 
-122 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/08aK71TJp2LJgwdm9FvJgw)
+122 songs - 7 hr 33 min - [published](https://open.spotify.com/playlist/08aK71TJp2LJgwdm9FvJgw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [I'm Just A Lucky So\-And\-So](https://open.spotify.com/track/3bZh3VXJkdQNzjMPBXsYx5) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Billy Kyle and His Trio](https://open.spotify.com/artist/2Ru6Dj5tdUgAzLrXcXje7q) | [The War Years \(1941\-1947\)](https://open.spotify.com/album/3xseO3iLY7v7dL7VP6jpsH) | 2:53 | 2022-02-17 |  |
 | [I'm Lost](https://open.spotify.com/track/4sWFAJNRxrkYlWC0UpYZXC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [Nat King Cole Sings George Shearing Plays](https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr) | 3:29 | 2022-06-17 |  |
 | [I'm Yours](https://open.spotify.com/track/1oAQJNKrMnIX5tLMan0UsY) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Complete Commodore Recordings](https://open.spotify.com/album/7zSWkh1YCGAo4zO7nje22z) | 3:18 | 2022-02-17 |  |
-| [If I Had You](https://open.spotify.com/track/79nMHWTfds6KJu5zWQbQ4n) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Don't Go To Strangers](https://open.spotify.com/album/7qK1Ds1huhA9XyVZBx9kkx) | 3:50 | 2022-02-17 |  |
+| [If I Had You](https://open.spotify.com/track/79nMHWTfds6KJu5zWQbQ4n) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Don't Go To Strangers](https://open.spotify.com/album/7qK1Ds1huhA9XyVZBx9kkx) | 0:29 | 2022-02-17 |  |
 | [In A Sentimental Mood](https://open.spotify.com/track/3MNxcdz3SFeMfX4KunRsjZ) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 2:48 | 2022-02-17 |  |
 | [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/4wGYHJ2Mcvb2QvHinDVGEC) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [I Just Dropped By To Say Hello](https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F) | 2:44 | 2022-02-17 |  |
 | [Isn't It Romantic?](https://open.spotify.com/track/7tvtx2Byz8Sc3LyosuqpEA) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Rodgers And Hart Song Book](https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9) | 3:02 | 2022-02-17 |  |
@@ -93,7 +93,7 @@
 | [Save Your Love For Me](https://open.spotify.com/track/4ur0Fd4coSwWtP8MWpkjR9) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 2:44 | 2022-02-17 |  |
 | [Say It Isn't So](https://open.spotify.com/track/5lLCrgPa3epNUXheIEIJX1) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 2:02 | 2022-02-17 |  |
 | [September Song](https://open.spotify.com/track/3vDxVKTS70JFyqgqcFh6In) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 5:46 | 2022-02-17 |  |
-| [She Was Too Good to Me](https://open.spotify.com/track/57ZSKA1UVoKIXy8VSHKPpt) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Love Songs](https://open.spotify.com/album/2VMX9CVAtvrSaKTwVhYglr) | 4:41 | 2022-02-17 |  |
+| [She Was Too Good to Me](https://open.spotify.com/track/57ZSKA1UVoKIXy8VSHKPpt) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Love Songs](https://open.spotify.com/album/2VMX9CVAtvrSaKTwVhYglr) | 0:29 | 2022-02-17 |  |
 | [Show Me The Way To Go Home](https://open.spotify.com/track/6BDZ7gY8WT9BaVQAljmuWM) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Easy Does It](https://open.spotify.com/album/1k39wDj3JzRzt80EIPUyUR) | 2:44 | 2022-02-17 |  |
 | [Since I Fell For You](https://open.spotify.com/track/5uY8P3Hy5hqE9u8jNiN4q5) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa), [Rudy Martin Trio](https://open.spotify.com/artist/1uRpD2R2QtRtUu7UhNRajo) | [The Complete Dinah Washington On Mercury, Vol.1 \(1946 \- 1949\)](https://open.spotify.com/album/1KYWVW40a4N1PijMjVk8PK) | 2:42 | 2022-02-17 |  |
 | [Softly, As In A Morning Sunrise \- Remastered](https://open.spotify.com/track/0vy2af1ux7lV8f3uiIn04N) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Abbey Is Blue](https://open.spotify.com/album/6fttEitwFXTGtUhlHd0dlp) | 2:42 | 2022-06-17 |  |

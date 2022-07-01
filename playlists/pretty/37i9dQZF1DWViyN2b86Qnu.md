@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 
 > Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non\-binary and gender\-fluid artists\. Cover: Smoothboi Ezra
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,773 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,876 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 80 | [Heels](https://open.spotify.com/track/308Utw07cMM1h6lErHcyP8) | [Sir Babygirl](https://open.spotify.com/artist/3Z9b1MnVKbJw8LpgQclsls) | [Crush on Me](https://open.spotify.com/album/6CId8BadkMmRCJ2Cz5aEtf) | 3:15 |
 | 81 | [Yandere](https://open.spotify.com/track/6a9gDPGHaLfiM2XYrKXOVy) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Yandere](https://open.spotify.com/album/3Np4ztZJFfK4IGT72lzqUo) | 3:31 |
 | 82 | [Oblivion](https://open.spotify.com/track/3VPXAK07TMZXyNvIMyVKgn) | [Freddie](https://open.spotify.com/artist/6AiidoqL85n3AcQhXvrkoK) | [Melanin Monroe](https://open.spotify.com/album/2ZuCOr5XBtkZf1h8kYoz0L) | 3:10 |
-| 83 | [Malibu](https://open.spotify.com/track/31k41EAntOsjbRBcAASfiL) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Malibu](https://open.spotify.com/album/7AiqBnEFt4gCA9XpKUoZRl) | 3:11 |
+| 83 | [Malibu](https://open.spotify.com/track/31k41EAntOsjbRBcAASfiL) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Malibu](https://open.spotify.com/album/7AiqBnEFt4gCA9XpKUoZRl) | 0:29 |
 | 84 | [Dysphøria](https://open.spotify.com/track/7EERmr3BgKN2AytN7wSiVp) | [Ezzy](https://open.spotify.com/artist/4Q5X4WCusKh5HIPcdN779z) | [Mother](https://open.spotify.com/album/6GVLNfMWPtOf4NYT1tRAbM) | 3:01 |
 | 85 | [Better Place](https://open.spotify.com/track/0iVAXd8mnbslvpMqJ70APv) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [Better Place](https://open.spotify.com/album/0EGwPQKfFVzzHFdT2Mbk56) | 3:46 |
 | 86 | [Brine](https://open.spotify.com/track/2CQ8Mz0HZHqT3196ZArjYb) | [Lonelyspeck](https://open.spotify.com/artist/0ghOmdop8dsN135XRLszJ5) | [Abyssal Body](https://open.spotify.com/album/1IGlNXEE9j2AFOmCyH8isT) | 4:16 |

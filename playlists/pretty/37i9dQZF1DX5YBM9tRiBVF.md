@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 
 > Listen to women from Belgium, at full volume\. Cover: Cyra Gwynth
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,636 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,637 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 | 40 | [Dans Het Weg](https://open.spotify.com/track/03TNQTcteLRNqsuHpamxbG) | [Eva De Roovere](https://open.spotify.com/artist/1GJOgIYZ4zZtey6Ev14sjD) | [Hier & Nu](https://open.spotify.com/album/5Q1Kg8UCwE10bijhos9ZqT) | 2:52 |
 | 41 | [Call Me](https://open.spotify.com/track/3caZMMvXvzWUOJqj7racJd) | [JUICY](https://open.spotify.com/artist/5tQ9IG78DFjEW8aW2R3XdY) | [Mobile](https://open.spotify.com/album/4ZIYGIDajXij2Duo6YAtxJ) | 2:54 |
 | 42 | [Making Sense Stop](https://open.spotify.com/track/2lxVvIdKuCtjNiRXt0HuDt) | [Charlotte Adigéry](https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy), [Bolis Pupul](https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl) | [Topical Dancer](https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz) | 4:00 |
-| 43 | [La salle aux lumières](https://open.spotify.com/track/4XJJCXGv7VDdmsHGwq6LCM) | [Coline & Toitoine](https://open.spotify.com/artist/23OQ6YOqstcqnorCjDM0GO) | [La salle aux lumières](https://open.spotify.com/album/0RJMgljPKrtFcPi8eHmedU) | 3:04 |
+| 43 | [La salle aux lumières](https://open.spotify.com/track/4XJJCXGv7VDdmsHGwq6LCM) | [Coline & Toitoine](https://open.spotify.com/artist/23OQ6YOqstcqnorCjDM0GO) | [La salle aux lumières](https://open.spotify.com/album/0RJMgljPKrtFcPi8eHmedU) | 0:29 |
 | 44 | [Disappear](https://open.spotify.com/track/3VcjVeWbzU3n3JGrdRmR3k) | [Chantal Acda](https://open.spotify.com/artist/1QfxBwzzbyqOBWnFWkJ4ps), [Frank Vander linden](https://open.spotify.com/artist/5hg176IVONJc3FG86cEXPp) | [Disappear](https://open.spotify.com/album/7APdhayTWP25YUDSKb3ImD) | 3:50 |
 | 45 | [Perfect timing](https://open.spotify.com/track/2DY5R8QvoWhJ6YtJvSdKvd) | [Helen](https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl) | [Perfect timing](https://open.spotify.com/album/2XuXb5n66tNpFONPqC8xSM) | 3:02 |
 | 46 | [Dans mon dos](https://open.spotify.com/track/1O7RIzTY1bz1ma7JfSkl7m) | [Camille Schneyder](https://open.spotify.com/artist/2jPO50YbPAgwG8D7kGWGVn) | [Dans mon dos](https://open.spotify.com/album/1EznXF8vOZ8zTjdzvigkdO) | 2:51 |

@@ -4,7 +4,7 @@
 
 > Pop, rock, funk, R&B, psychedelia—the man from Minneapolis was a true original and earth\-shattering performer\. Hear <a href="spotify:artist:5a2EaR3hamoenG9rDuVn8j">Prince Rogers Nelson</a>'s best right now.
 
-81 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/7fAjUWCKdwM8RcnPSoDoRu)
+81 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/7fAjUWCKdwM8RcnPSoDoRu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Diamonds and Pearls](https://open.spotify.com/track/7IoLw1bECmOSWcm2u9SmRH) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Diamonds and Pearls](https://open.spotify.com/album/0qcgEPOg67XnxGizdAAcGa) | 4:45 | 2021-04-09 |  |
 | [Dirty Mind](https://open.spotify.com/track/0xLusQmpL2MWGajcw0YyXQ) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Dirty Mind](https://open.spotify.com/album/3Cijd5OjHeWBm97DsPHpgs) | 4:14 | 2021-04-09 |  |
 | [Do Me, Baby](https://open.spotify.com/track/621BmKwXCNiTBfmeJtxoD8) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Controversy](https://open.spotify.com/album/68qpubhEKJPAKgWarrqfoA) | 7:43 | 2021-04-09 |  |
-| [Electric Intercourse \- Studio Version](https://open.spotify.com/track/5Bv97kzwGxJyzWy57PDTbN) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Electric Intercourse \(Studio Version\)](https://open.spotify.com/album/5R5muZM0qi8tyfEV6zcEE9) | 4:57 | 2021-04-09 |  |
+| [Electric Intercourse \- Studio Version](https://open.spotify.com/track/5Bv97kzwGxJyzWy57PDTbN) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Electric Intercourse \(Studio Version\)](https://open.spotify.com/album/5R5muZM0qi8tyfEV6zcEE9) | 0:29 | 2021-04-09 |  |
 | [Erotic City](https://open.spotify.com/track/0OfWbtiZ3fHd64VmpCSj7g) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [The Hits / The B\-Sides](https://open.spotify.com/album/3o0o5WPnqfGOeyx3UMJgvO) | 3:55 | 2021-04-09 |  |
 | [Gett Off](https://open.spotify.com/track/0wFkjAM4VVoepQdYB6kl4U) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [Eric Leeds](https://open.spotify.com/artist/7bNJ8B2kMi9urGEfKPsBGP) | [Diamonds and Pearls](https://open.spotify.com/album/0qcgEPOg67XnxGizdAAcGa) | 4:31 | 2021-04-09 |  |
 | [Girls & Boys](https://open.spotify.com/track/1MkfvXtx2S7cSs9aqLnMGs) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 5:29 | 2021-04-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvP5HMve5xc.md) - [plain]
 
 > Listen to Eric Nam's greatest hits, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,234 likes - 58 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,271 likes - 58 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvP5HMve5xc.md) - [plain]
 | 14 | [Love Die Young](https://open.spotify.com/track/0kFmBPYJhvgAqAIZU7RoEh) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Love Die Young](https://open.spotify.com/album/1kNA87dSvufeeCPLOPwRCO) | 3:23 |
 | 15 | [Congratulations](https://open.spotify.com/track/20Mw2qqWcGSCRFmKsa2nad) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Before We Begin](https://open.spotify.com/album/6kBsIjltkSNIc0FO4uiKXW) | 2:56 |
 | 16 | [Trouble With You](https://open.spotify.com/track/5YwroucvUJyUB6QdLHCrF7) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [The Other Side](https://open.spotify.com/album/6PoWQtf3kVQkglgvsFRm9h) | 2:32 |
-| 17 | [I Don't Miss You](https://open.spotify.com/track/42I5z4IRj90oQ5iyk6aqGc) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [I Don't Miss You](https://open.spotify.com/album/3VWdyUAxBEt5gY2sXJUzFT) | 2:52 |
+| 17 | [I Don't Miss You](https://open.spotify.com/track/42I5z4IRj90oQ5iyk6aqGc) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [I Don't Miss You](https://open.spotify.com/album/3VWdyUAxBEt5gY2sXJUzFT) | 0:29 |
 | 18 | [Runaway](https://open.spotify.com/track/40VdCGBk4RxjIUw4EyfX5s) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [Steve James](https://open.spotify.com/artist/2rYFy6vVM1YiECVIAHaJBY) | [Before We Begin](https://open.spotify.com/album/6kBsIjltkSNIc0FO4uiKXW) | 3:27 |
 | 19 | [How You Been](https://open.spotify.com/track/3tKplzefIgmzzjYvQPIORB) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [The Other Side](https://open.spotify.com/album/6PoWQtf3kVQkglgvsFRm9h) | 2:58 |
 | 20 | [Runaway](https://open.spotify.com/track/7JPzFzJLrzmINVguyqtMay) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Runaway](https://open.spotify.com/album/5drRznvTaLxrrdPgPLqHP5) | 2:33 |

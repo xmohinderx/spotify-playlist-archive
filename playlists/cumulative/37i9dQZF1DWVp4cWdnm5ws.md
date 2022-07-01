@@ -4,7 +4,7 @@
 
 > Discover new artists on the horizon.
 
-81 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/3x47cvEOoy8EUAZDcwGWs4)
+81 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/3x47cvEOoy8EUAZDcwGWs4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Dime Girls](https://open.spotify.com/track/5PxDyfqi8WA1j8irV3f2ks) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX) | [Alex Bruce](https://open.spotify.com/album/7c6dDiWcYxOAAoWn358ZyB) | 3:51 | 2022-03-24 |  |
 | [Diwa](https://open.spotify.com/track/5pQ6g1ZKnkg7Yi0NT6TAwl) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Diwa](https://open.spotify.com/album/3HynclQw8K5pH9gTKhWNA8) | 5:09 | 2021-11-25 | 2022-03-25 |
 | [Dream](https://open.spotify.com/track/4nQvPAV3gGFsOMSfQPdOT8) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Dream](https://open.spotify.com/album/1JsToJpmZ9t5GTJcSladwB) | 2:38 | 2022-03-24 |  |
-| [Eleven:Eleven](https://open.spotify.com/track/5DqYDCnrEsn1XwcvgFnzuY) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi) | [Eleven:Eleven](https://open.spotify.com/album/6zHBS4tfhaCbt3MtpIh88I) | 2:22 | 2022-03-24 |  |
+| [Eleven:Eleven](https://open.spotify.com/track/5DqYDCnrEsn1XwcvgFnzuY) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi) | [Eleven:Eleven](https://open.spotify.com/album/6zHBS4tfhaCbt3MtpIh88I) | 0:29 | 2022-03-24 |  |
 | [ERE](https://open.spotify.com/track/1sX7doViqq2BqfPbk80bwl) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Aypi](https://open.spotify.com/artist/6M1HtgIYfE2rpDB8ZVhVWa) | [ERE](https://open.spotify.com/album/4znUJaAlO9iG8Lu09spdqg) | 3:18 | 2021-11-25 | 2022-03-25 |
 | [Fake Friends](https://open.spotify.com/track/1qFvMil1TioIjDWSwYMjaB) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX) | [Fake Friends](https://open.spotify.com/album/2uWessfZbbv4YtDZMlwIVw) | 3:00 | 2021-11-25 | 2022-03-25 |
 | [Fake Love](https://open.spotify.com/track/1XR7JW85VGvDqbtcDBMuXf) | [of Mercury](https://open.spotify.com/artist/7b5ESQnv2E9bBUn4aa1ZUb) | [Fake Love](https://open.spotify.com/album/2O2yvHrN3CNNNaeUj7b8AG) | 3:34 | 2021-11-25 | 2022-03-25 |
@@ -88,6 +88,6 @@
 | [Woo Woo](https://open.spotify.com/track/5WnAOIwhl9dxdzNmBhW4hK) | [August Wahh](https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj) | [Woo Woo](https://open.spotify.com/album/3oTWydF6FVRShRa2ynHpsm) | 3:16 | 2021-11-25 | 2022-03-25 |
 | [Yakap](https://open.spotify.com/track/4cO62W6CErGU4vrDWF1Ruj) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX) | [Yakap](https://open.spotify.com/album/1nBiqfztbH4xqVgPI01HWg) | 3:20 | 2021-11-25 | 2022-03-25 |
 | [You](https://open.spotify.com/track/4BJa4tHm82NuaRvFPX67CJ) | [allen&elle](https://open.spotify.com/artist/2bJTpGmXD18Or3c10omzOe) | [You](https://open.spotify.com/album/6RX6AKmLXfFdLi00GdxQUs) | 4:47 | 2021-11-25 | 2022-03-25 |
-| [You'll Be Safe Here](https://open.spotify.com/track/4whLOE7hwNIAykoMcSZmvO) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [You'll Be Safe Here](https://open.spotify.com/album/32jPh5iI4WfK1bbSrPkBZM) | 5:44 | 2022-03-24 |  |
+| [You'll Be Safe Here](https://open.spotify.com/track/4whLOE7hwNIAykoMcSZmvO) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [You'll Be Safe Here](https://open.spotify.com/album/32jPh5iI4WfK1bbSrPkBZM) | 0:29 | 2022-03-24 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

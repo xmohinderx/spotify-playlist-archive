@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSVNtcbJ15L.md) - [plain]
 
 > vem de dm 🔥  ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,087 likes - 65 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,152 likes - 65 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,12 +35,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSVNtcbJ15L.md) - [plain]
 | 25 | [Recortes](https://open.spotify.com/track/7EtVFjjD8UPvBgihf5YPFy) | [antônio](https://open.spotify.com/artist/0gBzJRqpKs6se8l0coo7ue) | [Recortes](https://open.spotify.com/album/7bzLCXibLD9nzYwE7iBR8y) | 3:03 |
 | 26 | [Urano](https://open.spotify.com/track/4EJNoAGrRzb9020WLghozN) | [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY), [Louwiz](https://open.spotify.com/artist/0Q7iTb96HAijk2P0kQ9Xp3) | [Urano](https://open.spotify.com/album/7AvojkVgptdIw9PBtW9uwY) | 2:49 |
 | 27 | [Obra Prima](https://open.spotify.com/track/1sKpYhvUIcTewqsrIUEHoS) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T) | [Obra Prima](https://open.spotify.com/album/74x5o43BW51HjgZeWDZIGD) | 2:11 |
-| 28 | [PPRT](https://open.spotify.com/track/7jRujYuZFzPMMk2PMG7SfZ) | [Murilo França](https://open.spotify.com/artist/0PyoItyf0vbCXpSRuSdbtn) | [SOCORRO](https://open.spotify.com/album/4zpfBMqFzFyDUQA2y6KKKD) | 2:42 |
+| 28 | [PPRT](https://open.spotify.com/track/7jRujYuZFzPMMk2PMG7SfZ) | [Murilo França](https://open.spotify.com/artist/0PyoItyf0vbCXpSRuSdbtn) | [SOCORRO](https://open.spotify.com/album/4zpfBMqFzFyDUQA2y6KKKD) | 0:29 |
 | 29 | [Sua Presença](https://open.spotify.com/track/2O1CgtFQhx7StmDxNg5Isq) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [H o u d i n i](https://open.spotify.com/artist/2xysuV21VYh93dle4QZq7T), [Delaila Matta](https://open.spotify.com/artist/4hLKMU32ZyHZQ9vlYXCweB) | [Sua Presença](https://open.spotify.com/album/4J1rpTfBX9wyzM8CO5ODy5) | 2:14 |
 | 30 | [Céu Neon](https://open.spotify.com/track/77lJZx5Aj7FymJE1nPuc0N) | [Natu Rap](https://open.spotify.com/artist/0PtLgb2wKQeuLHaNftz0mk) | [Céu Neon](https://open.spotify.com/album/0tOuA6nhzH5sUn3ZSLrvLM) | 2:40 |
 | 31 | [Eu Preciso Fugir Daqui](https://open.spotify.com/track/4nHnd42dlZe4pvmEVl3Yst) | [MARCELA](https://open.spotify.com/artist/3hFbbks3zwyoCO6GEBu3wt), [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Eu Preciso Fugir Daqui](https://open.spotify.com/album/4YiFLVrTe54WuZrcjrsFoD) | 3:28 |
 | 32 | [Plutão](https://open.spotify.com/track/3ydmNkAyYq0AKtG8sTfE9P) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Plutão](https://open.spotify.com/album/2sZzCGg7xCNdWQwoVaFuro) | 3:41 |
-| 33 | [Planeta Lilás](https://open.spotify.com/track/1WC5DDdi6iSoYzrRb6pX8V) | [Sagaz](https://open.spotify.com/artist/5rl6n6CUJu1WGsvzf5m8M8), [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs), [Dudu Pacceli](https://open.spotify.com/artist/5O6LBBltqS4jHn90iy85Bj) | [Planeta Lilás](https://open.spotify.com/album/7rhYE7LriwOaFMkPjB4qpR) | 2:25 |
+| 33 | [Planeta Lilás](https://open.spotify.com/track/1WC5DDdi6iSoYzrRb6pX8V) | [Sagaz](https://open.spotify.com/artist/5rl6n6CUJu1WGsvzf5m8M8), [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs), [Dudu Pacceli](https://open.spotify.com/artist/5O6LBBltqS4jHn90iy85Bj) | [Planeta Lilás](https://open.spotify.com/album/7rhYE7LriwOaFMkPjB4qpR) | 0:29 |
 | 34 | [Vou Fugir](https://open.spotify.com/track/2zC4ae9xvZduLtJY8wHpc9) | [K4tt0](https://open.spotify.com/artist/5YpokbwUkNnmqyKVJiO2E3) | [Vou Fugir](https://open.spotify.com/album/3RbJ7Fv2U1rILm2AiThpEM) | 3:02 |
 | 35 | [Noiva Cadáver](https://open.spotify.com/track/1e0S2LL2am7tFwrUxCI9oV) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Homem Torto](https://open.spotify.com/album/4ghHxBJbufMNGo6eD0NsOL) | 1:42 |
 | 36 | [Saturno](https://open.spotify.com/track/30929halSXzxtYut5Jm152) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Saturno](https://open.spotify.com/album/4sB0goURJma5hqTtI1MdEx) | 3:54 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSVNtcbJ15L.md) - [plain]
 | 39 | [ping pong](https://open.spotify.com/track/44hMfAKIEFgSCBdgjVVjHr) | [belina](https://open.spotify.com/artist/3WhJVsZAzkUvuUQt2UycMg) | [ping pong](https://open.spotify.com/album/6UuwUOUJpp0vwpQgFdviTN) | 3:05 |
 | 40 | [Quer um sorvete?](https://open.spotify.com/track/7FvudQjnqmKHru7whaHVY3) | [K o d a](https://open.spotify.com/artist/0d39uPZOBEBNEai4P6eKoC) | [Quer um sorvete?](https://open.spotify.com/album/0JG3s687wofD6eQpa2FofA) | 2:48 |
 | 41 | [Coquinha de Café](https://open.spotify.com/track/2wKsVwVQzc9tp9zdNRmwB1) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY), [Guilherme Galeno](https://open.spotify.com/artist/31aLhhJNZBcilYlPCXxdGv) | [Coquinha de Café](https://open.spotify.com/album/3HQ8wBouWUkLeljTZLKmtO) | 3:22 |
-| 42 | [Só Eu](https://open.spotify.com/track/6MOKtdcZrMOjTFcAOqKyQQ) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Só Eu](https://open.spotify.com/album/5BP4n60jKYxbs3HSo2944E) | 2:52 |
+| 42 | [Só Eu](https://open.spotify.com/track/6MOKtdcZrMOjTFcAOqKyQQ) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Só Eu](https://open.spotify.com/album/5BP4n60jKYxbs3HSo2944E) | 0:29 |
 | 43 | [Ainda Lembro 2](https://open.spotify.com/track/5zEu047A1dckMMPk2ipsIP) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2), [Nanasai](https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S) | [Ainda Lembro 2](https://open.spotify.com/album/7JmNFkUeNhHBgqAHlOucMP) | 3:00 |
 | 44 | [Rádio\-Relógio](https://open.spotify.com/track/6hrq44XyDxvIkhemm70sbd) | [meot](https://open.spotify.com/artist/20xtrfwLue7Sslipsez0NI), [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Rádio\-Relógio](https://open.spotify.com/album/1Y2Nb9q1h3WK2NjSdVGX6u) | 2:40 |
 | 45 | [Amigos Que Se Beijam](https://open.spotify.com/track/5b7LOeiHvIhmj7rxzPSrzm) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs) | [Amigos Que Se Beijam](https://open.spotify.com/album/0GxaNSeUoWDFYolnWKvGzN) | 2:07 |

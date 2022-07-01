@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZFVMeJPr1Z.md) - [plain]
 
 > Spellistan för den svenska sommaren.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,560 likes - 65 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,725 likes - 65 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZFVMeJPr1Z.md) - [plain]
 | 3 | [Sommaren i City](https://open.spotify.com/track/1Y38A5HAP7SYJAzE48M3GW) | [Angel](https://open.spotify.com/artist/7FjElQ2FxgAbDGSrcE7K6O) | [Sommar, sommar, sommar](https://open.spotify.com/album/0l537xeeUQXZAkArjKmb2H) | 3:42 |
 | 4 | [Dina färger var blå](https://open.spotify.com/track/00IRhIiynu3eZjVaegnJ2h) | [Tommy Nilsson](https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq) | [Det bästa med Tommy Nilsson](https://open.spotify.com/album/3PeAWLOAjjqvNgkF06Z6vQ) | 5:02 |
 | 5 | [Juni, Juli, Augusti](https://open.spotify.com/track/4UDnYc528V932a2lEtMQ5P) | [Gyllene Tider](https://open.spotify.com/artist/0FINyNBXqnTlRC4dvpSeSb) | [GT25 \- Samtliga Hits!](https://open.spotify.com/album/6TOhFPZivcvhJSINywnllA) | 3:52 |
-| 6 | [Sommaren är kort](https://open.spotify.com/track/6wnWpJGIcYrY7P6yIikerN) | [Tomas Ledin](https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn) | [Tomas Ledin \- 80\-Tal](https://open.spotify.com/album/0YdkVmcOnLjq178i8I2RzK) | 3:03 |
+| 6 | [Sommaren är kort](https://open.spotify.com/track/6wnWpJGIcYrY7P6yIikerN) | [Tomas Ledin](https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn) | [Tomas Ledin \- 80\-Tal](https://open.spotify.com/album/0YdkVmcOnLjq178i8I2RzK) | 0:29 |
 | 7 | [Ett sista glas](https://open.spotify.com/track/1SZDQMXX1FrA97YY7Lt3Fj) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Hisingen och hem igen](https://open.spotify.com/album/3jBdOBQUdU4Z0GPBYahCWD) | 3:06 |
 | 8 | [Öppna landskap](https://open.spotify.com/track/1WVjxyTSZ5UiI6TlcHyUPh) | [Ulf Lundell](https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A) | [Öppna Landskap 7595](https://open.spotify.com/album/7aB0bPRv2elnc0Ou1whaty) | 4:38 |
 | 9 | [Oh, vilken härlig da'](https://open.spotify.com/track/4luq9irzpClkmCYfHmlRyh) | [Ted Gärdestad](https://open.spotify.com/artist/6zpub6jbY6CdrcqQsDq8P4) | [Ted \(Remastered 2009\)](https://open.spotify.com/album/5db764dqXRBFZHZGmX66B3) | 3:20 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZFVMeJPr1Z.md) - [plain]
 | 27 | [Sunnanvind](https://open.spotify.com/track/4GK4mydvnsodLEHWb4zJV4) | [Mares](https://open.spotify.com/artist/4TdxMK2fOY7eOBvgtDwbVC) | [Sunnanvind](https://open.spotify.com/album/11zMh9VPccELGpM5FgJIx9) | 3:22 |
 | 28 | [De dagar vi drömt om](https://open.spotify.com/track/4Ory9z52V9EUapFUtQpZQz) | [Tomas Ledin](https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn) | [De dagar vi drömt om](https://open.spotify.com/album/4mvSf9pYZt2LT5m8oJKVb7) | 3:23 |
 | 29 | [Vingar](https://open.spotify.com/track/5IWSOYqPqw6f0LG19GhesE) | [Mikael Rickfors](https://open.spotify.com/artist/2Q4l7xGX0Y3u1f0m4V7kG2) | [Vingar](https://open.spotify.com/album/237mMetlEPs6FWYHf6poMq) | 5:13 |
-| 30 | [Himlen är oskyldigt blå](https://open.spotify.com/track/27TFfAFo4sE4fw04QDqJmD) | [Ted Gärdestad](https://open.spotify.com/artist/6zpub6jbY6CdrcqQsDq8P4) | [Droppar av solregn](https://open.spotify.com/album/7vQoYBKkBQc3TK3gGPwehn) | 4:33 |
+| 30 | [Himlen är oskyldigt blå](https://open.spotify.com/track/27TFfAFo4sE4fw04QDqJmD) | [Ted Gärdestad](https://open.spotify.com/artist/6zpub6jbY6CdrcqQsDq8P4) | [Droppar av solregn](https://open.spotify.com/album/7vQoYBKkBQc3TK3gGPwehn) | 0:29 |
 | 31 | [Små lätta moln](https://open.spotify.com/track/73DZ1s6yXJdhJN5PLVgZMO) | [Pugh Rogefeldt](https://open.spotify.com/artist/22Wo43V44RtrpJZsjeI9EA) | [Svensk sommar](https://open.spotify.com/album/1hGknhDJeqGl2VR95CLGal) | 4:37 |
 | 32 | [Sommar och sol](https://open.spotify.com/track/00gbPslLIoIbrY0ARnwIj8) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Så mycket bättre 2017 \- Sven\-Ingvars hyllningsprogram](https://open.spotify.com/album/01yQocK96viU8qw8PxqMP4) | 2:44 |
 | 33 | [Sommarkort](https://open.spotify.com/track/5lRvBRQJFVWZGRqDm7YkL4) | [Cornelis Vreeswijk](https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9) | [Cornelis Bästa](https://open.spotify.com/album/6eoQyqhkcoDgjMHsqAphHs) | 3:30 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZFVMeJPr1Z.md) - [plain]
 | 36 | [Magaluf](https://open.spotify.com/track/3BtfdogDmGe7Rp9NceOzWo) | [Orup](https://open.spotify.com/artist/6fJM13619LsYtyPqHvsf6A) | [Svensk sommar](https://open.spotify.com/album/1hGknhDJeqGl2VR95CLGal) | 4:04 |
 | 37 | [Här kommer sommaren](https://open.spotify.com/track/3FmCk4vUECSBsOkqiuRuE3) | [Balsam Boys](https://open.spotify.com/artist/7ipEnB9F8J0yMsm9dX9R6o) | [Balsam Boys...& De Elva Spåren](https://open.spotify.com/album/25mvjzHe56sohSGHbQ5wyD) | 3:43 |
 | 38 | [Turistens klagan](https://open.spotify.com/track/4nFo5g8L40JXqWlh4LPu4l) | [Cornelis Vreeswijk](https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9) | [Den svenska sommaren](https://open.spotify.com/album/5P5XwOAYMZleMz7HLqTYlX) | 3:22 |
-| 39 | [Sommar och sol är det bästa jag vet](https://open.spotify.com/track/06Vm2JsuFNI3zv7MX6QiJG) | [Sven\-Ingvars](https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs) | [Svenska sommarklassiker 2005](https://open.spotify.com/album/1CEdo6I5G19D9UT9HMgfcZ) | 2:24 |
+| 39 | [Sommar och sol är det bästa jag vet](https://open.spotify.com/track/06Vm2JsuFNI3zv7MX6QiJG) | [Sven\-Ingvars](https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs) | [Svenska sommarklassiker 2005](https://open.spotify.com/album/1CEdo6I5G19D9UT9HMgfcZ) | 0:29 |
 | 40 | [Vatten](https://open.spotify.com/track/7kabbbmDm1PFKOQyldIpI1) | [Robert Broberg](https://open.spotify.com/artist/05JNHlwtdHqPJ6wcW7Mil5) | [Robert Brobergs Älskade Original](https://open.spotify.com/album/1eK1vnRIbR5mDbzRDm1iTl) | 2:13 |
 | 41 | [Sverige](https://open.spotify.com/track/3LodQuubJHwPgkxp4BxHE7) | [kent](https://open.spotify.com/artist/4KXp3xtaz1wWXnu5u34eVX) | [Vapen & ammunition](https://open.spotify.com/album/2DGzTm2R2v3G0IjnxXtP3Y) | 2:59 |
 | 42 | [Dé é sommar](https://open.spotify.com/track/0EWaUpAQtTWET3E14ye6ZV) | [Ronny & Ragge](https://open.spotify.com/artist/5pyF7nerLdGc4ZV3U72tdQ) | [Let's Pök](https://open.spotify.com/album/01sSw0PRIr0K7QnJc6YxPz) | 3:57 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZFVMeJPr1Z.md) - [plain]
 | 59 | [Semester](https://open.spotify.com/track/1uOWYajE7K9FL7APfTsjnL) | [Bo Kaspers Orkester](https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn) | [Samling](https://open.spotify.com/album/6OIHh42CFHZgbjR9fDT7u1) | 3:40 |
 | 60 | [Gröna granna sköna sanna sommar](https://open.spotify.com/track/5LqYhJNEsJZp8gw9HZtOUb) | [Lill\-Babs](https://open.spotify.com/artist/1YlYLkI3GlVDFSQGjMXWbt) | [Svenska sommarhits](https://open.spotify.com/album/0h2OVSK1cBJd3x8SzO6om7) | 2:23 |
 | 61 | [Vackert Väder](https://open.spotify.com/track/4ZwruJP25zyKDeA5DIgx8n) | [Orup](https://open.spotify.com/artist/6fJM13619LsYtyPqHvsf6A) | [Orups Bästa](https://open.spotify.com/album/49LxPWBil3biCYw4GdXbSc) | 3:57 |
-| 62 | [Sommartid](https://open.spotify.com/track/6x0cSVN0ahCXCteCtncdjg) | [Lena Philipsson](https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm) | [100% Lena Philipsson](https://open.spotify.com/album/0Uii6Rh3iHnzyz0HIXcRue) | 3:41 |
-| 63 | [Idas sommarvisa](https://open.spotify.com/track/1pOZfcXfa9MTm55CeGw8Eb) | [Alice Scherman](https://open.spotify.com/artist/0NInuq50w2W3MDM5kZfq7P) | [Barnplaneten \- Populära barnvisor, älskad barnmusik](https://open.spotify.com/album/5cNCYhcFbHmTGXqlwCSWMd) | 1:51 |
+| 62 | [Sommartid](https://open.spotify.com/track/6x0cSVN0ahCXCteCtncdjg) | [Lena Philipsson](https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm) | [100% Lena Philipsson](https://open.spotify.com/album/0Uii6Rh3iHnzyz0HIXcRue) | 0:29 |
+| 63 | [Idas sommarvisa](https://open.spotify.com/track/1pOZfcXfa9MTm55CeGw8Eb) | [Alice Scherman](https://open.spotify.com/artist/0NInuq50w2W3MDM5kZfq7P) | [Barnplaneten \- Populära barnvisor, älskad barnmusik](https://open.spotify.com/album/5cNCYhcFbHmTGXqlwCSWMd) | 0:29 |
 | 64 | [Till Stockholms skärgård](https://open.spotify.com/track/3OvozltJNr6KgHXW9K2Bxt) | [Lasse Berghagen](https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY) | [Saltstänkta Sånger](https://open.spotify.com/album/1BgHdnasaOGvfBAvtw35xt) | 4:40 |
 | 65 | [Sommartid](https://open.spotify.com/track/0aKmin3xzPUYtiwCPSJomL) | [Maja Ivarsson](https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK) | [Så mycket bättre \- säsong 3](https://open.spotify.com/album/1w9KVuHbmVhrtHBcPp6gnO) | 4:02 |
 

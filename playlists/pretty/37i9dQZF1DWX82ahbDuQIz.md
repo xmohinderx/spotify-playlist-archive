@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 
 > Musical songs from Broadway, the West End and beyond\. Cover: SIX
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,973 likes - 85 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,087 likes - 85 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 | 6 | [And I Am Telling You I'm Not Going \- Original Broadway Cast/1982](https://open.spotify.com/track/3ZPpFEandljtmTnz8D4trH) | [Jennifer Holliday](https://open.spotify.com/artist/2ju2ZxMe9yBOnt1MkWo32t) | [Dreamgirls: Original Broadway Cast Album \(25th Anniversary Special Edition\)](https://open.spotify.com/album/6XurFIcLRBy0OKPSVQ0ifa) | 4:04 |
 | 7 | [On My Own](https://open.spotify.com/track/0EcA4BQjy2bp7zUEBVVhBE) | [Les Misérables\-Original London Cast](https://open.spotify.com/artist/7EzZtsaDuv0EecScnO7wrh) | [Les Misérables \(Original London Cast Recording Highlights\)](https://open.spotify.com/album/2ZzdjfCbJNpWVKlW0NZS5O) | 3:59 |
 | 8 | [Maybe This Time](https://open.spotify.com/track/3qXqF0iZqC9ibQesMsspvH) | [Natasha Richardson](https://open.spotify.com/artist/6FwAZUidq5yFqZuLg94DuM) | [Cabaret \(New Broadway Cast Recording\)](https://open.spotify.com/album/0MKMfSWHaerNA66swrz4he) | 3:00 |
-| 9 | [Suddenly Seymour](https://open.spotify.com/track/0kjCT2l86GTuNwxfouBoLf) | [Tammy Blanchard](https://open.spotify.com/artist/41BsSiToqwYBTW1TQ0S1SF), [Jonathan Groff](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB), [Little Shop of Horrors Off\-Broadway Revival Company](https://open.spotify.com/artist/579F8Wqp8fzlCTbDQ4V6Wc) | [Little Shop of Horrors \(The New Off\-Broadway Cast Album\)](https://open.spotify.com/album/7Cag7tktEaptbKO2PhtUJ0) | 3:45 |
+| 9 | [Suddenly Seymour](https://open.spotify.com/track/0kjCT2l86GTuNwxfouBoLf) | [Tammy Blanchard](https://open.spotify.com/artist/41BsSiToqwYBTW1TQ0S1SF), [Jonathan Groff](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB), [Little Shop of Horrors Off\-Broadway Revival Company](https://open.spotify.com/artist/579F8Wqp8fzlCTbDQ4V6Wc) | [Little Shop of Horrors \(The New Off\-Broadway Cast Album\)](https://open.spotify.com/album/7Cag7tktEaptbKO2PhtUJ0) | 0:29 |
 | 10 | [Being Alive](https://open.spotify.com/track/4GDSnxxtmIyVS4Twl7Y7UB) | [Stephen Sondheim](https://open.spotify.com/artist/4TbtUt49IMXEIMmNdifHb1) | [Company](https://open.spotify.com/album/6PaCKF5VoZp0Q1anuqXjf1) | 5:06 |
 | 11 | [All I Ask Of You](https://open.spotify.com/track/52KiYg6Kn2NB9riY2IwUgi) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Phantom Of The Opera Original London Cast](https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25), [Steve Barton](https://open.spotify.com/artist/1gEOIEK9jgpYvvG57BP0US), [Sarah Brightman](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) | [The Phantom Of The Opera](https://open.spotify.com/album/36bEg6FTBaZGLg9ngJZIU6) | 4:14 |
 | 12 | [Meant to be Yours](https://open.spotify.com/track/6zQPRiKYLdpAIn5HDtzDYc) | [Jamie Muscato](https://open.spotify.com/artist/5uJiTfwUrMiaGG1PwuKCp3), [Original West End Cast of Heathers](https://open.spotify.com/artist/4WK6ZRLcS2beZfrDoNvjK7) | [Heathers the Musical \(Original West End Cast Recording\)](https://open.spotify.com/album/6r3jhI1kXM7NkEDowpkxOU) | 3:30 |

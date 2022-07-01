@@ -4,7 +4,7 @@
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto: Redimi2
 
-204 songs - 15 hr 43 min - [published](https://open.spotify.com/playlist/46xuGYmp3nbMhyLwZ3Xj5y)
+204 songs - 15 hr 39 min - [published](https://open.spotify.com/playlist/46xuGYmp3nbMhyLwZ3Xj5y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Amor Sin Fin](https://open.spotify.com/track/7EnWJlSBcWiws1VBHsWr3k) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm), [Ayrton Day](https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um) | [Amor Sin Fin](https://open.spotify.com/album/5w2gLlKerWKANqewZy3xQ2) | 2:54 | 2022-02-25 | 2022-05-14 |
 | [Amores Como el Tuyo](https://open.spotify.com/track/0fuDKjgO55dHCoO2kQo6xi) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Rojo](https://open.spotify.com/album/3l97qUoz7U9K9161S04xKh) | 3:19 | 2022-04-08 | 2022-06-25 |
 | [Amén \(with Kirk Franklin\)](https://open.spotify.com/track/45Ni3jzatASbwFJFBAHiM9) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Amén \(with Kirk Franklin\)](https://open.spotify.com/album/5AXZRreDc5jDfq1OFldEZL) | 4:37 | 2022-02-25 | 2022-04-02 |
-| [Anoche Llegaste Tarde feat\. Redimi2](https://open.spotify.com/track/1z7fvRmbZBfmIJtltBcTa3) | [Marcos Yaroide](https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Tributo](https://open.spotify.com/album/1sH8cS9dAq4S5Ny13d4dyo) | 3:51 | 2022-03-25 |  |
+| [Anoche Llegaste Tarde feat\. Redimi2](https://open.spotify.com/track/1z7fvRmbZBfmIJtltBcTa3) | [Marcos Yaroide](https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Tributo](https://open.spotify.com/album/1sH8cS9dAq4S5Ny13d4dyo) | 0:29 | 2022-03-25 |  |
 | [Apoyate en Mi](https://open.spotify.com/track/6e7IOcCCSHhJvUgWh0eryJ) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Apoyate en Mi](https://open.spotify.com/album/0OQXxLR9LOw8UwKRVFVkSs) | 4:19 | 2022-02-25 |  |
 | [Aquí Estoy](https://open.spotify.com/track/4NlOve2VChrt9pEYfTkmQV) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [Townix](https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2), [Seph Music](https://open.spotify.com/artist/39rf54k46sbCsxqiIvkW5x) | [Propósito](https://open.spotify.com/album/2b6QptlVHPdIENz4lq7GY3) | 3:35 | 2022-02-25 | 2022-04-23 |
 | [Aquí Estoy](https://open.spotify.com/track/3qQwoMsksLnArEIa3iBTi0) | [Iglesia Rey De Reyes & Claudio Freidzon](https://open.spotify.com/artist/4xtmhwkXcI1bfDZNzQHR8F) | [Aquí Estoy](https://open.spotify.com/album/3l7p9AOyAssVRhiMBw6e4x) | 5:01 | 2022-05-06 |  |

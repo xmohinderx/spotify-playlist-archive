@@ -4,7 +4,7 @@
 
 > Lyrical\. Legit\. This Pride vision of Folk, Americana, and Singer\-Songwriter music features LGBTQQIA+ acts and allies\. Cover: Angel Olsen
 
-108 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/1nsDgfpPkRNK6I7NchiJ6w)
+108 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/1nsDgfpPkRNK6I7NchiJ6w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,6 @@
 | [Where the Lavender Grows](https://open.spotify.com/track/30VxfPVRLFhtJC7bKqsJgP) | [Mya Byrne](https://open.spotify.com/artist/0dcndkmyjWKrGJfOb0APAi) | [Where the Lavender Grows](https://open.spotify.com/album/5aCbMFO34m2dfADU0vsESG) | 3:14 | 2022-06-01 |  |
 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 | 2021-06-01 |  |
 | [You and Me On The Rock \(feat\. Lucius\)](https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:50 | 2022-06-01 |  |
-| [You're Still My Love](https://open.spotify.com/track/0auPX06PfrehkJClLpH4cG) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX) | [Daddy's Country Gold](https://open.spotify.com/album/1b6lBkE4XKAGB8hGl8C57n) | 3:37 | 2022-06-01 |  |
+| [You're Still My Love](https://open.spotify.com/track/0auPX06PfrehkJClLpH4cG) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX) | [Daddy's Country Gold](https://open.spotify.com/album/1b6lBkE4XKAGB8hGl8C57n) | 0:29 | 2022-06-01 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

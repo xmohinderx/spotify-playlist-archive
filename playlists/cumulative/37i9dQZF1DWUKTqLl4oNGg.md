@@ -4,7 +4,7 @@
 
 > Above the city of Los Angeles, here are a few of the influential songs that echoed from the hills of Laurel Canyon in the 60s & 70s.
 
-60 songs - 3 hr 28 min - [published](https://open.spotify.com/playlist/3Rtd8cSKHPhlLrvluCR6Gh)
+60 songs - 3 hr 20 min - [published](https://open.spotify.com/playlist/3Rtd8cSKHPhlLrvluCR6Gh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [In My Room \- Remastered](https://open.spotify.com/track/62fX8EW16l8St2yL8rMer9) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfer Girl \(Remastered\)](https://open.spotify.com/album/1AhsZr98dNCfhO1XC4Ht7C) | 2:14 | 2019-12-05 |  |
 | [Jamaica Say You Will](https://open.spotify.com/track/0RwqThYUfPkAi71H2j63As) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Jackson Browne \(Saturate Before Using\)](https://open.spotify.com/album/0n93YRc9GP3ZgREgTHvP5u) | 3:23 | 2019-12-05 |  |
 | [Jesus in 3/4 Time](https://open.spotify.com/track/62zvmUQ6zmZKH6jEYvz7cE) | [JD Souther](https://open.spotify.com/artist/0I7UnRLIdCD310ZBgeuqh5) | [John David Souther](https://open.spotify.com/album/5pw5GDqCQjkfc6LctnfQKX) | 3:38 | 2019-12-05 |  |
-| [Kite Woman](https://open.spotify.com/track/4Z0aLq8K9YEvXssrfcVpd2) | [JD Souther](https://open.spotify.com/artist/0I7UnRLIdCD310ZBgeuqh5) | [Rhino Hi\-Five: J.D\. Souther](https://open.spotify.com/album/4Rq6anggo36B53PflhdgmV) | 3:06 | 2019-12-05 |  |
+| [Kite Woman](https://open.spotify.com/track/4Z0aLq8K9YEvXssrfcVpd2) | [JD Souther](https://open.spotify.com/artist/0I7UnRLIdCD310ZBgeuqh5) | [Rhino Hi\-Five: J.D\. Souther](https://open.spotify.com/album/4Rq6anggo36B53PflhdgmV) | 0:29 | 2019-12-05 |  |
 | [Ladies of the Canyon](https://open.spotify.com/track/1Q8BMaKg8czMR2Y6wLlXJf) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 3:32 | 2019-12-05 |  |
 | [Love Street](https://open.spotify.com/track/5Q2Im8o4RthlAMkvUMYwGj) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Waiting for the Sun](https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh) | 2:49 | 2019-12-05 |  |
 | [Love the One You're With](https://open.spotify.com/track/3NNkJwiHucP5QyUEAIMXra) | [Stephen Stills](https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX) | [Stephen Stills](https://open.spotify.com/album/2nkFniR6DseqFJLhxXV01T) | 3:04 | 2019-12-05 |  |
@@ -56,8 +56,8 @@
 | [So Far Away](https://open.spotify.com/track/4HHge4zAyIw3pkrtFzmwCl) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:55 | 2019-12-05 |  |
 | [Sweet Baby James](https://open.spotify.com/track/47cdhtxTfp7WvUbDpDeYa2) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James](https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ) | 2:51 | 2019-12-05 |  |
 | [Take It Easy \- 2013 Remaster](https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 3:31 | 2019-12-05 |  |
-| [The Bells of Rhymney](https://open.spotify.com/track/1mpv6hIbfG75txI9zJGcf4) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Mr\. Tambourine Man](https://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa) | 3:30 | 2019-12-05 |  |
-| [The Door Into Summer \- 2007 Remastered Version](https://open.spotify.com/track/2gzY74wkSgo1ts1IZbjxfT) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Pisces, Aquarius, Capricorn & Jones Ltd\. \(Deluxe Edition\)](https://open.spotify.com/album/0hYCs5ttzuQcu86VPCEsXF) | 2:50 | 2019-12-05 |  |
+| [The Bells of Rhymney](https://open.spotify.com/track/1mpv6hIbfG75txI9zJGcf4) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Mr\. Tambourine Man](https://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa) | 0:29 | 2019-12-05 |  |
+| [The Door Into Summer \- 2007 Remastered Version](https://open.spotify.com/track/2gzY74wkSgo1ts1IZbjxfT) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Pisces, Aquarius, Capricorn & Jones Ltd\. \(Deluxe Edition\)](https://open.spotify.com/album/0hYCs5ttzuQcu86VPCEsXF) | 0:29 | 2019-12-05 |  |
 | [Turn! Turn! Turn! \(To Everything There Is a Season\)](https://open.spotify.com/track/5qBqBdfTEIWJwAS0Jm2F5R) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Turn! Turn! Turn!](https://open.spotify.com/album/3v0i9qyogPoQEQj2bG6Fmn) | 3:49 | 2019-12-05 |  |
 | [Twelve Thirty \(Young Girls Are Coming To The Canyon\) \- Single Version](https://open.spotify.com/track/2Hu4vWuTm3C2DHOXnhjLsG) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [Greatest Hits: The Mamas & The Papas](https://open.spotify.com/album/2BXnmkCRSmX6SY392rTXYq) | 3:28 | 2019-12-05 |  |
 | [Ventura Highway](https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/0tcbedGX7n5UHrMhVsGmIU) | [Homecoming](https://open.spotify.com/album/7eqBAR9pblivMBOI70q2um) | 3:31 | 2019-12-05 |  |

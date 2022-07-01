@@ -4,7 +4,7 @@
 
 > Come on down to the waters ye sinner and dig deep into this collection of songs and stories steeped in struggle, hope, darkness, light, sin and salvation\.  Guest curation by <a href="https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP?si=nPq5VuyRTCuzlRDkRcl7kg/">Rhett Walker</a>
 
-41 songs - 2 hr 45 min - [published](https://open.spotify.com/playlist/3vGGjcaRiJfHsTAMuw2a1f)
+41 songs - 2 hr 29 min - [published](https://open.spotify.com/playlist/3vGGjcaRiJfHsTAMuw2a1f)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Doubting Thomas](https://open.spotify.com/track/5Y5mqKOWd1wzqSqBeYaeO9) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Why Should The Fire Die?](https://open.spotify.com/album/6l61p7zbizBUjQWY10LWmb) | 3:19 | 2018-04-16 |  |
 | [God's Gonna Cut You Down](https://open.spotify.com/track/0e8mTKsfKFirEXMkXArYuy) | [Caves](https://open.spotify.com/artist/2tzzfW0A5ktHkQ8W2JcBxD), [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [God's Gonna Cut You Down](https://open.spotify.com/album/7zauCoFZ0Q5kOtnpnVOtlD) | 3:58 | 2018-04-16 |  |
 | [God's Gonna Cut You Down](https://open.spotify.com/track/6RFkVsPmrM4pzlDkFswwJl) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American V: A Hundred Highways](https://open.spotify.com/album/40ObOkEaQKVmcJ6k1W2xMg) | 2:38 | 2018-04-16 |  |
-| [Haunted](https://open.spotify.com/track/6i8lkIyU8XiCIzfPwRtMPE) | [The Eagle Rock Gospel Singers](https://open.spotify.com/artist/6mSbhnOMxNViQqlh58ZOhE) | [No Glory](https://open.spotify.com/album/4YaWyI6imvYaPnrd96kemb) | 3:33 | 2018-04-16 |  |
+| [Haunted](https://open.spotify.com/track/6i8lkIyU8XiCIzfPwRtMPE) | [The Eagle Rock Gospel Singers](https://open.spotify.com/artist/6mSbhnOMxNViQqlh58ZOhE) | [No Glory](https://open.spotify.com/album/4YaWyI6imvYaPnrd96kemb) | 0:29 | 2018-04-16 |  |
 | [Hot Blood](https://open.spotify.com/track/7d9sZF7jmepe2EYdETlNWK) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 3:38 | 2018-04-16 |  |
 | [In Bloom](https://open.spotify.com/track/5StrN0F4XI5e0BHP32THhl) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [A Sailor's Guide to Earth](https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4) | 4:00 | 2018-04-16 |  |
 | [In Time](https://open.spotify.com/track/5XnXpQM5FR8ZQyvDY8RKQS) | [Mark Collie](https://open.spotify.com/artist/6kMOabD0AtCGJB632jMilU) | [The Punisher: The Album](https://open.spotify.com/album/35bHrnMSA8aZ0P5nemqhIp) | 2:45 | 2018-04-16 |  |
@@ -31,8 +31,8 @@
 | [Make It Rain](https://open.spotify.com/track/5puU24G3lHVsUXPAWW2ZpV) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Wembley Edition\)](https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct) | 6:44 | 2018-04-16 |  |
 | [Make Me No King](https://open.spotify.com/track/51VlHF8o4GlnZTNwUJvcXQ) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Make Me No King](https://open.spotify.com/album/0ggCg1U7w5k7j7fyoKzJM8) | 3:51 | 2018-04-16 |  |
 | [Mercy Now](https://open.spotify.com/track/4aSdp6vPtZcSQ0oMraE7Vd) | [Mike Farris](https://open.spotify.com/artist/2lGlFTygMMk37JsYm8a46o) | [Shine For All The People](https://open.spotify.com/album/299R8MIIIzRp68WPf2z3xg) | 4:50 | 2018-04-16 |  |
-| [Monsters](https://open.spotify.com/track/4ZQAlNuSk4bEnRvq2rNGSO) | [Heidi Mays](https://open.spotify.com/artist/6z8Uva3jdHUeS4J56jXVPO) | [Monsters](https://open.spotify.com/album/7t6XBMyawfnwxPPxjjv1Ae) | 3:13 | 2018-04-16 |  |
-| [No Glory](https://open.spotify.com/track/36eeEbMZhP6obQX060f0J7) | [The Eagle Rock Gospel Singers](https://open.spotify.com/artist/6mSbhnOMxNViQqlh58ZOhE) | [No Glory](https://open.spotify.com/album/4YaWyI6imvYaPnrd96kemb) | 5:14 | 2018-04-16 |  |
+| [Monsters](https://open.spotify.com/track/4ZQAlNuSk4bEnRvq2rNGSO) | [Heidi Mays](https://open.spotify.com/artist/6z8Uva3jdHUeS4J56jXVPO) | [Monsters](https://open.spotify.com/album/7t6XBMyawfnwxPPxjjv1Ae) | 0:29 | 2018-04-16 |  |
+| [No Glory](https://open.spotify.com/track/36eeEbMZhP6obQX060f0J7) | [The Eagle Rock Gospel Singers](https://open.spotify.com/artist/6mSbhnOMxNViQqlh58ZOhE) | [No Glory](https://open.spotify.com/album/4YaWyI6imvYaPnrd96kemb) | 0:29 | 2018-04-16 |  |
 | [Nothing But The Water \(I\)](https://open.spotify.com/track/4f9F6CSTaJeMyvn1Plu89U) | [Grace Potter & The Nocturnals](https://open.spotify.com/artist/23OknxGcY1i5xX1TRPilMj) | [Nothing But The Water](https://open.spotify.com/album/30b3ZKCE7CxRNumi4XojDD) | 2:44 | 2018-04-16 |  |
 | [O Children Come](https://open.spotify.com/track/1R1rjUsLIIcY6IBWGn6BZu) | [JJ Weeks Band](https://open.spotify.com/artist/6fXIdyfCq00oaElvH64eri) | [O Children Come](https://open.spotify.com/album/5RO9saHQxS1t66DlZNEksh) | 3:41 | 2018-04-16 |  |
 | [Oats In The Water](https://open.spotify.com/track/4dr5sJ1p6mdNpK3fIUz8vR) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [The Burgh Island EP](https://open.spotify.com/album/0SudjNaf3DuVpZzM7bGNZ5) | 4:59 | 2018-04-16 |  |
@@ -47,7 +47,7 @@
 | [Trampled Rose](https://open.spotify.com/track/4hZ3EvDUlqrh2lno4d82ZM) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raising Sand](https://open.spotify.com/album/54GfJ3ZEY2b6PKmvETmj1n) | 5:33 | 2018-04-16 |  |
 | [Way down We Go](https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 3:33 | 2018-04-16 |  |
 | [Where the Devil Don't Go](https://open.spotify.com/track/0mHSePRiFnTy7qYPsIeIJ8) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Love Stuff](https://open.spotify.com/album/0B4eikFaUJcf3hc6DaSVov) | 3:01 | 2018-04-16 |  |
-| [Where The Devil Don't Stay](https://open.spotify.com/track/0JHSj1ozIuflSqZ4sYmm3N) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [The Dirty South](https://open.spotify.com/album/1NWS8t0VKjxEy7tZFdwiFs) | 5:19 | 2018-04-16 |  |
+| [Where The Devil Don't Stay](https://open.spotify.com/track/0JHSj1ozIuflSqZ4sYmm3N) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [The Dirty South](https://open.spotify.com/album/1NWS8t0VKjxEy7tZFdwiFs) | 0:29 | 2018-04-16 |  |
 | [Wilderlove](https://open.spotify.com/track/4nWfJBA1NYQ74KIJV0GwWp) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Mercury & Lightning](https://open.spotify.com/album/6zKk1qsXNvOqAjy9cfzE2Q) | 4:41 | 2018-04-16 |  |
 
 \*This playlist was first scraped on 2022-04-09. Prior content cannot be recovered.

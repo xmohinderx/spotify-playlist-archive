@@ -4,19 +4,19 @@
 
 > The biggest Texas Country Hits over the last couple of years\. Formerly Texas Music Rewind.
 
-141 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/6kdXzda1LIaxeejkB6DjXj)
+141 songs - 8 hr 13 min - [published](https://open.spotify.com/playlist/6kdXzda1LIaxeejkB6DjXj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Til You Can't](https://open.spotify.com/track/13rC4iKtfQocWIfzPOJxaT) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | ['Til You Can’t / Longer Than She Did](https://open.spotify.com/album/5MzgI1Hzjkf1Dj7xW7d1GL) | 3:44 | 2021-10-08 |  |
 | [A Cowgirl Like You](https://open.spotify.com/track/0hqMV9QFpmF5u7kjKRj41d) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Dos Corazones](https://open.spotify.com/album/5kHo4RAMzYArFTulnKOEWr) | 4:09 | 2022-03-18 |  |
-| [A Life Where We Work Out \(feat\. Kaitlin Butts\)](https://open.spotify.com/track/7rJRYP73BI3LLFtteweC2F) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Humble Folks](https://open.spotify.com/album/62dtvPwt2JNDqtfPI7B7Aa) | 3:10 | 2021-04-16 |  |
-| [Ain't a Train](https://open.spotify.com/track/2iMcoxNfwUwTrKVNX1ZQya) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [After the Fire](https://open.spotify.com/album/7Cu0ei3sULRRyK21741f3H) | 3:05 | 2021-04-16 |  |
+| [A Life Where We Work Out \(feat\. Kaitlin Butts\)](https://open.spotify.com/track/7rJRYP73BI3LLFtteweC2F) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Humble Folks](https://open.spotify.com/album/62dtvPwt2JNDqtfPI7B7Aa) | 0:29 | 2021-04-16 |  |
+| [Ain't a Train](https://open.spotify.com/track/2iMcoxNfwUwTrKVNX1ZQya) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [After the Fire](https://open.spotify.com/album/7Cu0ei3sULRRyK21741f3H) | 0:29 | 2021-04-16 |  |
 | [Ain't My Day](https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Ain't My Day](https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61) | 3:21 | 2022-03-18 |  |
 | [Any Other Guy](https://open.spotify.com/track/1WaeUaL6AcSPZA96q5S8fA) | [Larissa Boyd](https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD) | [Any Other Guy](https://open.spotify.com/album/3aX8bB9ctFZJS3NF9YAliw) | 4:18 | 2022-05-27 |  |
 | [Around Forever](https://open.spotify.com/track/5PAuyhBNkrHp7NTHWjvF7V) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Leanna](https://open.spotify.com/album/4uqbe0uw5d6aLvjPSxwoCd) | 3:45 | 2021-09-24 |  |
 | [Austin](https://open.spotify.com/track/1PJD901fMmFd3NG5YMOpuS) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Austin](https://open.spotify.com/album/1tfMthCAptymFlFexlgQ9v) | 4:36 | 2021-04-16 |  |
-| [Back to Normal](https://open.spotify.com/track/3shmzsGH5ozbJRlMvZYTqr) | [Jason Eady](https://open.spotify.com/artist/78xCXcmrzDgoRkinWE0uUV) | [Back to Normal](https://open.spotify.com/album/2V2amXcBpINsgen4dtlUZx) | 4:22 | 2021-09-03 |  |
+| [Back to Normal](https://open.spotify.com/track/3shmzsGH5ozbJRlMvZYTqr) | [Jason Eady](https://open.spotify.com/artist/78xCXcmrzDgoRkinWE0uUV) | [Back to Normal](https://open.spotify.com/album/2V2amXcBpINsgen4dtlUZx) | 0:29 | 2021-09-03 |  |
 | [Bad Reputation](https://open.spotify.com/track/0icfvcZgDWltdFtgBZNUB2) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Bad Reputation](https://open.spotify.com/album/6z3Qev2DZEDOCDnZX0eNyw) | 3:39 | 2021-04-16 |  |
 | [Black Sheep](https://open.spotify.com/track/6gThvsjzd1FYE65F3whDMG) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Black Sheep](https://open.spotify.com/album/42FIwhkRiRgUp0bLKTwvVP) | 3:37 | 2021-10-08 | 2022-03-19 |
 | [Boomtown to Bust](https://open.spotify.com/track/0lApKrmYRXa5RhfhS68vlY) | [Kelley Mickwee](https://open.spotify.com/artist/1mL6Bc23N2p1OTNnlrgy3K) | [Boomtown to Bust](https://open.spotify.com/album/2CSLSJ2C3mLZWOOxJL4RfS) | 3:32 | 2022-03-18 |  |
@@ -25,7 +25,7 @@
 | [Broke Ass Kid](https://open.spotify.com/track/22NJ4gaxcMI4j5Fg8dbnug) | [Dylan Wheeler](https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87) | [Broke Ass Kid](https://open.spotify.com/album/2HfPwB24BxVvoZJf6aDVAP) | 4:02 | 2021-04-16 |  |
 | [Bury My Bones](https://open.spotify.com/track/0lB69AOLAMGpWBMBtIdORj) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Bury My Bones](https://open.spotify.com/album/5mzUwmFpVXseynxj03W3Qu) | 4:19 | 2021-04-16 |  |
 | [Can Down](https://open.spotify.com/track/1GIcsaFqm5xn5mkl97v0lV) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Can Down](https://open.spotify.com/album/42exaEEpqgK20M7sFz6dIF) | 3:08 | 2021-12-10 |  |
-| [Cigarettes and Alcohol](https://open.spotify.com/track/5KOIbBonnacDrt1TUgWmLe) | [Logan Ryan Band](https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P) | [Cigarettes and Alcohol](https://open.spotify.com/album/4YkOSXyyPDj923FSnXZJAJ) | 4:37 | 2022-03-18 |  |
+| [Cigarettes and Alcohol](https://open.spotify.com/track/5KOIbBonnacDrt1TUgWmLe) | [Logan Ryan Band](https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P) | [Cigarettes and Alcohol](https://open.spotify.com/album/4YkOSXyyPDj923FSnXZJAJ) | 0:29 | 2022-03-18 |  |
 | [Come Back Down](https://open.spotify.com/track/2OmdWZzYSufueUptTzGven) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Homeland Insecurity](https://open.spotify.com/album/3zroVeqEo7fIQ55qf3A422) | 3:28 | 2021-04-16 |  |
 | [Come Back Down](https://open.spotify.com/track/5rOaX636W0AaVdVMFO59cp) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Come Back Down](https://open.spotify.com/album/5JrajF3ctdyubuRCrNeTrf) | 4:33 | 2022-01-07 |  |
 | [Crash Landing](https://open.spotify.com/track/4gvIiHEnw4a9kBFefzVYfC) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Crash Landing](https://open.spotify.com/album/1uP0ZFi3vsQwBnhPxJaIwG) | 3:24 | 2022-03-18 |  |
@@ -93,7 +93,7 @@
 | [Me and You](https://open.spotify.com/track/7KxOnFed7EIza6mUvwNer9) | [Cannon Brand](https://open.spotify.com/artist/02inix3QCxIUGODnJxm02K) | [Me and You](https://open.spotify.com/album/2b6yPll4eLkmTH0vlFKJrD) | 3:37 | 2021-04-16 |  |
 | [Misunderstood](https://open.spotify.com/track/7fRUbeffEPwYVhZul3mtKF) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/6C9MVfh8Zhx1Q8xtR6ZVV2) | 3:21 | 2021-04-16 | 2022-03-19 |
 | [Must Be The Whiskey](https://open.spotify.com/track/6VChAU4QENeLwf3OaHBJxC) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Lifers](https://open.spotify.com/album/7ATjaMdT66SKP2AjrDvQ1J) | 3:25 | 2021-04-16 | 2022-03-19 |
-| [My Mistake](https://open.spotify.com/track/7qob3E6PdqRBJw0BnSjE5g) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [My Mistake](https://open.spotify.com/album/3kXYEKoW7QdKQALUEdKvbp) | 3:41 | 2022-03-18 |  |
+| [My Mistake](https://open.spotify.com/track/7qob3E6PdqRBJw0BnSjE5g) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [My Mistake](https://open.spotify.com/album/3kXYEKoW7QdKQALUEdKvbp) | 0:29 | 2022-03-18 |  |
 | [New Hometown](https://open.spotify.com/track/1bmXNp6T1sytYuUqblRBVW) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [New Hometown](https://open.spotify.com/album/0C6l4MBgfdd6sWFhJKYcAj) | 3:17 | 2021-04-16 | 2022-03-19 |
 | [New Tattoos](https://open.spotify.com/track/34WXK8DJ3AuVtyS4w4ShIx) | [South Texas Tweek](https://open.spotify.com/artist/7i1TAJ7JbLXS8OMi0tABmM) | [New Tattoos](https://open.spotify.com/album/780rPEbni816HNo8Fk2Yom) | 2:37 | 2022-03-18 |  |
 | [No Vacancy](https://open.spotify.com/track/72B4o9F7SbMeDWJoQPcqQJ) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [No Vacancy](https://open.spotify.com/album/4FLvEcu5X5ZUzsWP3Lbh8O) | 4:04 | 2022-01-07 |  |

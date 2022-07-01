@@ -4,7 +4,7 @@
 
 > The Midwest is always on time\. Cover: Polo G
 
-205 songs - 9 hr 31 min - [published](https://open.spotify.com/playlist/41V1Pq5RMClkd6MJCSDWfC)
+205 songs - 9 hr 29 min - [published](https://open.spotify.com/playlist/41V1Pq5RMClkd6MJCSDWfC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Outta Nowhere \(with Shoebox Baby\)](https://open.spotify.com/track/1syOiaKgtLTLEJ9WrITZ2S) | [BigKayBeezy](https://open.spotify.com/artist/4wpwsRGyik5kVa8fG37Q50), [Shoebox Baby](https://open.spotify.com/artist/3GXyMzBhozW9CaHPg54y9f) | [Outta Nowhere \(with Shoebox Baby\)](https://open.spotify.com/album/0YNe9m96bAPIgjG1edWYMS) | 2:57 | 2022-06-03 |  |
 | [Pass The Ball](https://open.spotify.com/track/46zVtEpYgxOn3HW5ODiRnj) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [Pass The Ball](https://open.spotify.com/album/7x48tJgtaTjSpgsmWwA476) | 2:05 | 2022-06-17 |  |
 | [Perfect Form Skub](https://open.spotify.com/track/4zZZkZ92eUCkmeVwzxMnnJ) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Perfect Form Skub](https://open.spotify.com/album/1g1dFDw1ctGtRHmeNS1RcY) | 3:08 | 2022-02-11 | 2022-03-18 |
-| [Petty Too \(feat\. Future\)](https://open.spotify.com/track/0VlpgNPHWCyh8xxLcaK2fp) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 2:39 | 2022-03-11 |  |
+| [Petty Too \(feat\. Future\)](https://open.spotify.com/track/0VlpgNPHWCyh8xxLcaK2fp) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 0:29 | 2022-03-11 |  |
 | [Pissed Me Off](https://open.spotify.com/track/52nTQQahs46s1iHFQ3Wv5Q) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Pissed Me Off](https://open.spotify.com/album/70m1QwzUoogjk2DDq1hA3b) | 2:03 | 2021-10-15 | 2022-03-12 |
 | [Poised](https://open.spotify.com/track/246mkx0FW2nU6nGXz4ReUX) | [TOB Duke](https://open.spotify.com/artist/0swrkotfXHdeJNfkELoFkS) | [Poised](https://open.spotify.com/album/10WVSnQrc0yZzUWwojqVv3) | 1:39 | 2022-04-08 | 2022-05-07 |
 | [PROUD OF YOU](https://open.spotify.com/track/4PcC5ofoImDVsHtShnbX5F) | [NoonieVsEverybody](https://open.spotify.com/artist/5PepByqZbni3dXJXF2eTaB) | [PROUD OF YOU](https://open.spotify.com/album/1Xtnt4yn49QQZMAWwk64vX) | 1:36 | 2022-03-18 | 2022-05-20 |

@@ -4,7 +4,7 @@
 
 > Get ready, to do, do rocksteady
 
-50 songs - 2 hr 31 min - [published](https://open.spotify.com/playlist/5E2s1kfen5rRaZahEjSJBP)
+50 songs - 2 hr 24 min - [published](https://open.spotify.com/playlist/5E2s1kfen5rRaZahEjSJBP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [In the Summertime](https://open.spotify.com/track/5l3HpuhW2UTa13ouM1ugug) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [The Big Hits](https://open.spotify.com/album/12lWmChSdOo8lMY5kXM17k) | 2:33 | 2022-03-28 |  |
 | [Inna My Yard](https://open.spotify.com/track/5JgdhMhhYq6fuBPia5wbck) | [Freddie McKay](https://open.spotify.com/artist/6BI5BLDBy5dY19EI2cw1P1) | [King Tubby And Bredrins](https://open.spotify.com/album/0yPvFl4yWaxnLPPWimWTeB) | 4:22 | 2014-12-10 |  |
 | [Island In the Sun](https://open.spotify.com/track/6RVgAYFeWCHaAZFCOErG1D) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 3:09 | 2022-03-28 |  |
-| [It's All in the Game](https://open.spotify.com/track/4Nb43yyzlpANYmNrjxykKx) | [The Gaylads](https://open.spotify.com/artist/1muKxK8kVO8ZKi8i3ymcpd) | [The Best Of...](https://open.spotify.com/album/1tpw4tscpRu4w2tfvZKlX3) | 2:31 | 2014-12-10 |  |
+| [It's All in the Game](https://open.spotify.com/track/4Nb43yyzlpANYmNrjxykKx) | [The Gaylads](https://open.spotify.com/artist/1muKxK8kVO8ZKi8i3ymcpd) | [The Best Of...](https://open.spotify.com/album/1tpw4tscpRu4w2tfvZKlX3) | 0:29 | 2014-12-10 |  |
 | [Judge Dread](https://open.spotify.com/track/0XmbuWZ2vn1i8bim4Ug6BL) | [Prince Buster](https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB) | [Prince Buster \- Fabulous Greatest Hits \[Diamond Range\]](https://open.spotify.com/album/3pLpyasCCfOs6mG4FylfVc) | 3:38 | 2018-04-23 |  |
 | [Let Your Yeah Be Yeah](https://open.spotify.com/track/0FIHZ7phD18PjIP3zcV5K6) | [The Pioneers](https://open.spotify.com/artist/4CSqr95TKzLmNeClcDr219) | [Reggae Chartbusters, Vol\. 3](https://open.spotify.com/album/0G8x45X2PtcB0w0FedVoN9) | 3:08 | 2014-12-10 |  |
 | [Little Boy Blue](https://open.spotify.com/track/0LtwkkHxMWPt5LEZa4sBn1) | [Pat Kelly](https://open.spotify.com/artist/5mLxA9ySBmpMnMNvx1bEUi) | [The Vintage Series Pat Kelly](https://open.spotify.com/album/1YXIHpqZqUDBMIhvgtIMdo) | 2:45 | 2014-12-10 |  |
@@ -55,8 +55,8 @@
 | [That Wonderful Sound](https://open.spotify.com/track/46JFegy0KkJNXhZK4BPOrB) | [Dobby Dobson](https://open.spotify.com/artist/5xYXtdpxl2wwzMBSqvgpM0) | [The Vintage Series: Dobby Dobson](https://open.spotify.com/album/3D66zjhBWUvpoYGiBjZrm0) | 3:24 | 2014-12-10 |  |
 | [The Loser](https://open.spotify.com/track/3mL3yUVgAajzONDlP0BbDW) | [Derrick Harriott](https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d) | [A Place Called Jamaica](https://open.spotify.com/album/0iLSbiSs1GJKuEwoeu69KP) | 3:41 | 2014-12-10 |  |
 | [The Tide Is High \- Stereo Version](https://open.spotify.com/track/7056gVvC7P3PpltHgippd2) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 2:41 | 2018-04-23 |  |
-| [To Sir With Love](https://open.spotify.com/track/3z2MqPZ6G0HodVUV5uQgit) | [Lynn Taitt](https://open.spotify.com/artist/2AOn8ToM1vaab3wtU74ldy), [The Jets](https://open.spotify.com/artist/3AHq6rutf72JF0ul8GB6G2) | [Rock Steady Greatest Hits](https://open.spotify.com/album/1uclMYfjo5gowsgDgjMxTS) | 2:40 | 2014-12-10 |  |
+| [To Sir With Love](https://open.spotify.com/track/3z2MqPZ6G0HodVUV5uQgit) | [Lynn Taitt](https://open.spotify.com/artist/2AOn8ToM1vaab3wtU74ldy), [The Jets](https://open.spotify.com/artist/3AHq6rutf72JF0ul8GB6G2) | [Rock Steady Greatest Hits](https://open.spotify.com/album/1uclMYfjo5gowsgDgjMxTS) | 0:29 | 2014-12-10 |  |
 | [True True True](https://open.spotify.com/track/6CucZ6tVBv8720etCZ1sOn) | [Ken Parker](https://open.spotify.com/artist/3VaRnHxXoKH77giznfGDgh) | [Treasure Isle Collection Vol\. 1](https://open.spotify.com/album/3s9tIqQhWLFgits980L0Sj) | 2:15 | 2014-12-10 |  |
-| [Weather Report](https://open.spotify.com/track/6eLgESGhZxeCMyA939t1RF) | [The Tennors](https://open.spotify.com/artist/55bKEFzORmQDLwL57O3Zz4) | [Moods](https://open.spotify.com/album/3lGDcKvwVc7hJqvnS6TZEj) | 2:28 | 2014-12-10 |  |
+| [Weather Report](https://open.spotify.com/track/6eLgESGhZxeCMyA939t1RF) | [The Tennors](https://open.spotify.com/artist/55bKEFzORmQDLwL57O3Zz4) | [Moods](https://open.spotify.com/album/3lGDcKvwVc7hJqvnS6TZEj) | 0:29 | 2014-12-10 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

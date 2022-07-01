@@ -4,7 +4,7 @@
 
 > Listen to the brand new album 'Ignorance is Bliss' and all his biggest tracks, all in one place.
 
-62 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/2BsWLVOJc324RnAzltg4Bg)
+62 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/2BsWLVOJc324RnAzltg4Bg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Lyrics](https://open.spotify.com/track/5m862WssDq7xBWWG6RBxzY) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc) | [Konnichiwa](https://open.spotify.com/album/2yegc4SUhhXxUXUavLHUqL) | 2:36 | 2019-05-30 |  |
 | [Make Peace Not War](https://open.spotify.com/track/1YHC7vYpLhkUMftjYJFUat) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Make Peace Not War](https://open.spotify.com/album/1TMGC0h58KA11cE9yZfq9b) | 3:14 | 2019-05-30 |  |
 | [Man](https://open.spotify.com/track/4lrD5zPJTGMsYzmYlwFtik) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Konnichiwa](https://open.spotify.com/album/2yegc4SUhhXxUXUavLHUqL) | 3:34 | 2019-05-30 |  |
-| [Might As Well](https://open.spotify.com/track/6mIlDvfn3OwEi4mQfpGwyK) | [C\. Biz](https://open.spotify.com/artist/6LAhIgGsYJAEwmpQ8EEywM), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Free H](https://open.spotify.com/album/78Vu11gTgQynGdw4LjCqMQ) | 2:34 | 2019-05-30 |  |
+| [Might As Well](https://open.spotify.com/track/6mIlDvfn3OwEi4mQfpGwyK) | [C\. Biz](https://open.spotify.com/artist/6LAhIgGsYJAEwmpQ8EEywM), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Free H](https://open.spotify.com/album/78Vu11gTgQynGdw4LjCqMQ) | 0:29 | 2019-05-30 |  |
 | [No Security](https://open.spotify.com/track/5y2K7jr9M8t1HRAu9jzssT) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [No Security](https://open.spotify.com/album/3tflD6jEQxt1AxQ65N9q5O) | 3:39 | 2019-05-30 |  |
 | [No Sleep](https://open.spotify.com/track/0Vq2Hxsd5awYmQVpbwRZ1b) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Ignorance is Bliss](https://open.spotify.com/album/22zpCX6Nb9ppOVklalvGec) | 3:11 | 2019-05-30 |  |
 | [Numbers](https://open.spotify.com/track/4oG9UZ8uvn8t340MVj2AW5) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Konnichiwa](https://open.spotify.com/album/2yegc4SUhhXxUXUavLHUqL) | 3:20 | 2019-05-30 |  |

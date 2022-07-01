@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gU1rnYEgSF.md) - [plain]
 
 > Your family can stomp, roar, and growl along to these songs about dinosaurs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,313 likes - 91 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,315 likes - 91 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [If I Had a Dinosaur](https://open.spotify.com/track/5xKHWLaim1EWKC3Rn8lgLW) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [More Singable Songs](https://open.spotify.com/album/0MRTAsSv2VDaLyMiNLkyQN) | 1:06 |
+| 1 | [If I Had a Dinosaur](https://open.spotify.com/track/5xKHWLaim1EWKC3Rn8lgLW) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [More Singable Songs](https://open.spotify.com/album/0MRTAsSv2VDaLyMiNLkyQN) | 0:29 |
 | 2 | [We Are The Dinosaurs](https://open.spotify.com/track/21ryEt5nCkFjsHJHegnLOA) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Whaddaya Think Of That?](https://open.spotify.com/album/43laH3uvyD7glYUOQ6RnjB) | 2:17 |
 | 3 | [Dinosaur Song](https://open.spotify.com/track/2JmJzeCjaihJKvmrRvQVf2) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Learning Lessons, Telling Time, Please & Thank You! Songs about Concepts, Development & Life Skills for Children with LittleBabyBum](https://open.spotify.com/album/6E3neJrYCA8ssrfuWsZF6I) | 1:35 |
 | 4 | [If Dinosaurs Were Still Alive](https://open.spotify.com/track/77gY2Dpk26t4U6s3NbDTpF) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Dinosaur Songs](https://open.spotify.com/album/4C2baITZMPwU2M5zB2VIjj) | 1:21 |
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gU1rnYEgSF.md) - [plain]
 | 73 | [Dino Rap](https://open.spotify.com/track/7keBoSqDEfhfTCqW7BzWzw) | [The Kerplunks](https://open.spotify.com/artist/1FtSjJqBHqIdhB4jW1E7Hy) | [Walk On](https://open.spotify.com/album/7C4z3FagwSJYuoBSMJ9T86) | 2:03 |
 | 74 | [Big, Bigger, Biggest](https://open.spotify.com/track/7dq82eB7J5gLBoxf4dl4zK) | [Wee Sing](https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ) | [Wee Sing Dinosaurs](https://open.spotify.com/album/3CtjxdVm5LRDEPMSi6EzR1) | 0:52 |
 | 75 | [What's for Lunch?](https://open.spotify.com/track/3CO1awO3kYXHU4YqowCnHR) | [Wee Sing](https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ) | [Wee Sing Dinosaurs](https://open.spotify.com/album/3CtjxdVm5LRDEPMSi6EzR1) | 0:30 |
-| 76 | [I Went To A Party With Dinosaurs](https://open.spotify.com/track/0GWkRtps0sXcKt1yuAPdiA) | [Andy Z](https://open.spotify.com/artist/6ETYDr9Q1fOPzBeUctjWgm) | [Welcome To Andyland](https://open.spotify.com/album/63sTRhpkQgancEZw6XLRhU) | 2:14 |
+| 76 | [I Went To A Party With Dinosaurs](https://open.spotify.com/track/0GWkRtps0sXcKt1yuAPdiA) | [Andy Z](https://open.spotify.com/artist/6ETYDr9Q1fOPzBeUctjWgm) | [Welcome To Andyland](https://open.spotify.com/album/63sTRhpkQgancEZw6XLRhU) | 0:29 |
 | 77 | [Little Dinosaurs](https://open.spotify.com/track/7a9hz7C7Vo8arrqw4yDnup) | [Wee Sing](https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ) | [Wee Sing Dinosaurs](https://open.spotify.com/album/3CtjxdVm5LRDEPMSi6EzR1) | 0:39 |
 | 78 | [My Tail](https://open.spotify.com/track/1agRqmzkgbXOFUDxI2iNZB) | [Wee Sing](https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ) | [Wee Sing Dinosaurs](https://open.spotify.com/album/3CtjxdVm5LRDEPMSi6EzR1) | 0:43 |
 | 79 | [The Prehistoric Animal Brigade](https://open.spotify.com/track/4kYK8umjwWrPSQqENmeSGM) | [Josephine](https://open.spotify.com/artist/67tX1fo6AJmnLmpU2BqPLl) | [Josephine's Action Songs For Children](https://open.spotify.com/album/06peWfIUvm1WiVqaAnUBnr) | 3:12 |

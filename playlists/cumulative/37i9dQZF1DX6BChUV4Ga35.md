@@ -4,7 +4,7 @@
 
 > Your family can visit all of the animals at the zoo with this fun playlist.
 
-80 songs - 2 hr 49 min - [published](https://open.spotify.com/playlist/5mDi0ly6f3Nrf2gFlIwbHJ)
+80 songs - 2 hr 43 min - [published](https://open.spotify.com/playlist/5mDi0ly6f3Nrf2gFlIwbHJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,12 +58,12 @@
 | [Little Sharks](https://open.spotify.com/track/4CXd8asKpF6SGH3qImlZfa) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Dance Party!](https://open.spotify.com/album/304rgWamJDyKqMD8wDkgUf) | 2:44 | 2022-02-01 |  |
 | [Mary Had A Little Lamb](https://open.spotify.com/track/0Z96UW7qNqYHaCATMM4jxw) | [Mellodees](https://open.spotify.com/artist/03H3gcpif0GufJE8ybbcpn) | [Kids Songs & Medlees Vol 1](https://open.spotify.com/album/5R4CEWCMgHHEaRkQEiaiRz) | 1:52 | 2022-02-01 |  |
 | [Moles, Hounds, Bears, Bees and Hares](https://open.spotify.com/track/4NbOutBgrVh1rSHfTSYICQ) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Why?](https://open.spotify.com/album/1UBoqT1cDpYCTyihYnMp5q) | 2:06 | 2022-02-01 |  |
+| [Monkey Man](https://open.spotify.com/track/0qgQNwPyBYHt2W2KxzdBNO) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Hit Songs & Rarities](https://open.spotify.com/album/6XFTvklE8rQN0eLEeZ23Bd) | 0:29 | 2022-02-01 |  |
 | [Monkey Man](https://open.spotify.com/track/2TiFPDD2YaO6Okmqo1ZncT) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [The Wiggles Duets](https://open.spotify.com/album/75V7OHy87uSlXCIhHq8wm5) | 2:22 | 2022-02-01 |  |
-| [Monkey Man](https://open.spotify.com/track/0qgQNwPyBYHt2W2KxzdBNO) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Hit Songs & Rarities](https://open.spotify.com/album/6XFTvklE8rQN0eLEeZ23Bd) | 2:34 | 2022-02-01 |  |
-| [Och Aye G'Nu And Kangaroo](https://open.spotify.com/track/75Kw6pYjna6mSsqc10VW5S) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ), [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Och Aye The G’Nu](https://open.spotify.com/album/0JhyE3KLmbA9k7mkj3YVnz) | 1:46 | 2022-02-01 |  |
+| [Och Aye G'Nu And Kangaroo](https://open.spotify.com/track/75Kw6pYjna6mSsqc10VW5S) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ), [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Och Aye The G’Nu](https://open.spotify.com/album/0JhyE3KLmbA9k7mkj3YVnz) | 0:29 | 2022-02-01 |  |
 | [Octopus's Garden \- Remastered 2009](https://open.spotify.com/track/0suLngfo7rJoetk7Ub6N8l) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 2:50 | 2022-02-01 |  |
 | [Oh Deer](https://open.spotify.com/track/5zdiFHxDaLMz1eZ18CHDGg) | [Urban Tails](https://open.spotify.com/artist/06UozYz8Pa1cAYrMSWUYXI) | [Urban Tails](https://open.spotify.com/album/3CfzVCZnB0PR5HGfu7B5t5) | 1:46 | 2022-02-01 |  |
-| [Old MacDonald](https://open.spotify.com/track/0HU09XQgHGT1Va5MOoe00T) | [Hap Palmer](https://open.spotify.com/artist/69mxXDPodcz1qr9p68AqsJ) | [Early Childhood Classics](https://open.spotify.com/album/1z0jmaapdXs1TZE9GQhVAw) | 2:25 | 2022-02-01 |  |
+| [Old MacDonald](https://open.spotify.com/track/0HU09XQgHGT1Va5MOoe00T) | [Hap Palmer](https://open.spotify.com/artist/69mxXDPodcz1qr9p68AqsJ) | [Early Childhood Classics](https://open.spotify.com/album/1z0jmaapdXs1TZE9GQhVAw) | 0:29 | 2022-02-01 |  |
 | [Owl Singalong](https://open.spotify.com/track/7iiDUCVjMzxSePQXRtFXBc) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Owl Singalong](https://open.spotify.com/album/6doaSrp3HWeu4B6NeFZXaM) | 3:06 | 2022-02-01 |  |
 | [Panda](https://open.spotify.com/track/1jmJZ6zmmonqdjE0ts9kV6) | [Kevin Hart](https://open.spotify.com/artist/3rHl3rSgCnHhOlVB87ZxyF) | [The Secret Life of Pets 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1T0nc8HicExHdI8g8cF21a) | 0:44 | 2022-02-01 |  |
 | [Say Hi to the Animals](https://open.spotify.com/track/0zjtrZUxd3h2R0uyI0xfVZ) | [Ralph's World](https://open.spotify.com/artist/4qIIexaFmYNueu5mnSQnzU) | [Happy Lemons](https://open.spotify.com/album/3BxUa5Rt3dtxwBY4tDhQz3) | 2:24 | 2022-02-01 |  |
@@ -84,7 +84,7 @@
 | [The Zoo](https://open.spotify.com/track/2bKEQq8LickshGi4NdQlUH) | [Juice Box Heroes](https://open.spotify.com/artist/59jD6ZyWCyKIXj7wbUMgZs) | [No Sugar Added](https://open.spotify.com/album/0cqtwAOjYoIxjbDUcyV790) | 2:34 | 2022-02-01 |  |
 | [This Little Piggy](https://open.spotify.com/track/6eIAL4vyNV85bS2ibvcBd7) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Animal Songs, Vol\. 2](https://open.spotify.com/album/57EVetORlpx4SiKLTr6KoT) | 1:37 | 2022-02-01 |  |
 | [What Is a Bird?](https://open.spotify.com/track/619VhpdmxCBHpolXyJbyCw) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Pancake Manor](https://open.spotify.com/album/6SCnHCUmOHe77UlUouWyrO) | 1:57 | 2022-02-01 |  |
-| [When You're Living In The Zoo](https://open.spotify.com/track/3Pbl7P6xuV9lzZ7veNDTHj) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ), [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Och Aye The G’Nu](https://open.spotify.com/album/0JhyE3KLmbA9k7mkj3YVnz) | 1:46 | 2022-02-01 |  |
+| [When You're Living In The Zoo](https://open.spotify.com/track/3Pbl7P6xuV9lzZ7veNDTHj) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ), [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Och Aye The G’Nu](https://open.spotify.com/album/0JhyE3KLmbA9k7mkj3YVnz) | 0:29 | 2022-02-01 |  |
 | [Wild and Free](https://open.spotify.com/track/3LLrYsa09Us4UFAtVJggsy) | [Bears and Lions](https://open.spotify.com/artist/55XGQSMgofzZFEtY4bDJPB) | [Wild and Free](https://open.spotify.com/album/5IMky5Cqw3PMV23se8BApI) | 3:02 | 2022-02-01 |  |
 | [You Otter Know](https://open.spotify.com/track/7io1AyyUiTm5hg0RLj7q9X) | [Urban Tails](https://open.spotify.com/artist/06UozYz8Pa1cAYrMSWUYXI) | [Urban Tails](https://open.spotify.com/album/3CfzVCZnB0PR5HGfu7B5t5) | 1:46 | 2022-02-01 |  |
 | [Zebra](https://open.spotify.com/track/2qdyZZueRIFaHZtUFSDiNS) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Animal Songs 2](https://open.spotify.com/album/5L9VHpr6V2kXzN3mI4eqZe) | 1:05 | 2022-02-01 |  |

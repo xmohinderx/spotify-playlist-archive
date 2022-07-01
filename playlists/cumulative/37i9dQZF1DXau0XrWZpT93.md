@@ -4,7 +4,7 @@
 
 > Start your day with these beautiful scores.
 
-64 songs - 2 hr 46 min - [published](https://open.spotify.com/playlist/77k28aHRsXOHJFjfmZMjS8)
+66 songs - 2 hr 49 min - [published](https://open.spotify.com/playlist/77k28aHRsXOHJFjfmZMjS8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Blossom Peak](https://open.spotify.com/track/5NRyda6chosK9GspXprHgK) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Blossom Peak & Warmcrest](https://open.spotify.com/album/5M8iB0dg3kg54ppszLVI9G) | 2:56 | 2022-06-10 |  |
 | [Breathing Softly](https://open.spotify.com/track/5fOXMCEaxYSAObSdJ7nvCV) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [Breathing Softly](https://open.spotify.com/album/6W9cOGtIJZtT1J5ypPCcHR) | 2:43 | 2022-06-10 |  |
 | [Daydream](https://open.spotify.com/track/1WlaTc6LFDBrag4vKuiuRs) | [HILMA](https://open.spotify.com/artist/5cfA35ok9YlWE032xcI423) | [Polaris](https://open.spotify.com/album/4zRFfOm7i3DhHqmW0rIIru) | 2:15 | 2022-06-10 |  |
+| [Deasyn Moira \(Piano and Strings\)](https://open.spotify.com/track/0ebRVAx7crlZr9lkXK4cm3) | [Daniel Ketchum](https://open.spotify.com/artist/6TwhBnzSvGRJBC9obv73uz) | [Piano and Strings](https://open.spotify.com/album/6L20li4JZ6jmRfwwts9CO4) | 2:26 | 2022-07-01 |  |
 | [Deep Forest \- Cello Version](https://open.spotify.com/track/7gi7v5tKoJ1R7yunvDeU5F) | [Christopher Varela](https://open.spotify.com/artist/2irB8SXzuA2u0rBten7TnK) | [Deep Forest \(Strings Version\)](https://open.spotify.com/album/436RU3hjPms95JzFFDXPma) | 1:52 | 2022-06-10 |  |
 | [Desert Parade](https://open.spotify.com/track/4xOHne4S1xas4MI5qPs69D) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Breathing Like the Pastures](https://open.spotify.com/album/2rzImKEk1JZHAyC6dVGJ5t) | 3:08 | 2022-06-10 |  |
 | [Distant Glow](https://open.spotify.com/track/2aBYVl2d2RFAPbYlZ7rIUf) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Weightless Again](https://open.spotify.com/album/66ZFnHFTZ1NcORTEAGX0dG) | 2:11 | 2022-06-10 |  |
@@ -24,7 +25,7 @@
 | [Elevated Pastures](https://open.spotify.com/track/7zWjcC7jNhFtqckFMkiNux) | [Chinyami](https://open.spotify.com/artist/1ey8cZsgOMCClk9NjQLJcd) | [Elevated Pastures](https://open.spotify.com/album/6ikmItGf76ftAlNgeNlEVm) | 3:33 | 2022-06-10 |  |
 | [Endurance](https://open.spotify.com/track/7kRnLUIABJA0Q21X13XmwJ) | [Aerian](https://open.spotify.com/artist/7bMCx1XzOM2Bb6XTk2sHKf) | [Endurance](https://open.spotify.com/album/1kIaz392QGviN4kPIOhCe5) | 2:29 | 2022-06-24 |  |
 | [Flare Inévitable](https://open.spotify.com/track/2P3LnLs7poXbWyKrf6KNav) | [Karin Reverdi](https://open.spotify.com/artist/2cUUKmjuAiKJqKyPP4VZbP) | [Flare Inévitable](https://open.spotify.com/album/4lkf9FvLdBo4UDUxl4alCL) | 2:40 | 2022-06-10 |  |
-| [Forever Yours](https://open.spotify.com/track/2nWSjphOxjauRxeR1siMMU) | [Sophie Deas](https://open.spotify.com/artist/702DXZGY75IDtJoJ3dXweg) | [Evening Songs](https://open.spotify.com/album/2Qo5gQN9HRFoyusNrM7NIw) | 2:50 | 2022-06-10 |  |
+| [Forever Yours](https://open.spotify.com/track/2nWSjphOxjauRxeR1siMMU) | [Sophie Deas](https://open.spotify.com/artist/702DXZGY75IDtJoJ3dXweg) | [Evening Songs](https://open.spotify.com/album/2Qo5gQN9HRFoyusNrM7NIw) | 2:50 | 2022-06-10 | 2022-07-01 |
 | [Frankenthaler](https://open.spotify.com/track/6fZyNWUtqDD9CXZI4Llh7G) | [Bromeliad](https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3) | [Frankenthaler](https://open.spotify.com/album/2l8wc98B9kwJpXiQaZ4l35) | 1:45 | 2022-06-10 |  |
 | [Garden Scene](https://open.spotify.com/track/63twEMe1QcF33Tp07c7pNw) | [Pei](https://open.spotify.com/artist/3t3n6VNps7sIVXcW3CIedE), [Erich Wolfgang Korngold](https://open.spotify.com/artist/3UaJz1tq0BBPzJBPgkBarb) | [Sicilienne](https://open.spotify.com/album/04ktgQdyXqTZiZFnZn0orD) | 1:47 | 2022-06-10 |  |
 | [Gold among the Sand](https://open.spotify.com/track/0QVG4AIVRPQdhNR1dOegsc) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [The Mountain Disconnect](https://open.spotify.com/album/7hEd3BEoTsDTFgBFPnBLDR) | 3:03 | 2022-06-10 |  |
@@ -54,18 +55,19 @@
 | [Rays of light](https://open.spotify.com/track/111YqYUFNPFN75J6qDhT1b) | [Naomi Young](https://open.spotify.com/artist/3i3Kwm6kFNGXpnnJfy8U1r) | [Adagio](https://open.spotify.com/album/7tafxsyYN332LgoNUKDZqh) | 2:28 | 2022-06-10 |  |
 | [Riposo](https://open.spotify.com/track/2nfCGwzsOxPJPl16g74I5I) | [Calma Flow](https://open.spotify.com/artist/19ImXdXZLbAXcDGgIpN56k) | [Riposo](https://open.spotify.com/album/4QDiZv3kD08DOYlAlzQcPm) | 2:17 | 2022-06-10 |  |
 | [Ripples \(Echoes\)](https://open.spotify.com/track/4WRgRrmrD0WWBB9O8MNO9g) | [Harbours & Oceans](https://open.spotify.com/artist/0k8elyDgYdovh5k0yn9fDX) | [Ripples](https://open.spotify.com/album/174WdSc7Cncl9KwFmF7mGd) | 2:54 | 2022-06-10 |  |
+| [Ser A Ti](https://open.spotify.com/track/6rDxnznYVvGb0vFkgsBmmE) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [Ser A Ti](https://open.spotify.com/album/0nC9dugAMHACUJQ6GSTZFB) | 3:34 | 2022-07-01 |  |
 | [Sincerity](https://open.spotify.com/track/3fQdsoPpWz3sbwlvlMfBF3) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Sentient](https://open.spotify.com/album/0tAguXAg4RwGUtle2ngQaQ) | 2:24 | 2022-06-10 |  |
 | [Sleeping In Seattle](https://open.spotify.com/track/2uVHaRTe5hyGyASOXZcx9d) | [Max Ellion](https://open.spotify.com/artist/5ws4QOSnfOqKDBbNQEZXtg) | [Sleeping In Seattle](https://open.spotify.com/album/3H9duc8pePa97f1AWFjuIi) | 2:55 | 2022-06-10 |  |
 | [Sostenuto](https://open.spotify.com/track/2pmzW6PbqlAunOXe0AdYIw) | [Camilla Solheim](https://open.spotify.com/artist/0paoGI3ZzVd4kwjmsJI6B0) | [Sostenuto](https://open.spotify.com/album/5bve8ozqZzt01twy16odc3) | 2:09 | 2022-06-10 |  |
 | [String Serenity](https://open.spotify.com/track/2YyOPD8UPgzDQyTFHo7Hdr) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [String Serenity](https://open.spotify.com/album/7wPh7ECKRf7wECHtUOqE9C) | 2:17 | 2022-06-10 |  |
-| [Sugarcane](https://open.spotify.com/track/7G3IcyTXBdeyDNCc25GSVV) | [Ensemble Rivr Dane](https://open.spotify.com/artist/2bYTGyR3eWFQmQ9FJElnBP), [Ana Olgica](https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc) | [Atoms Et Sugarcane](https://open.spotify.com/album/3XsOQQJYWhuGdJZujpcMLo) | 2:24 | 2022-06-10 |  |
+| [Sugarcane](https://open.spotify.com/track/7G3IcyTXBdeyDNCc25GSVV) | [Ensemble Rivr Dane](https://open.spotify.com/artist/2bYTGyR3eWFQmQ9FJElnBP), [Ana Olgica](https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc) | [Atoms Et Sugarcane](https://open.spotify.com/album/3XsOQQJYWhuGdJZujpcMLo) | 0:29 | 2022-06-10 |  |
 | [Suji](https://open.spotify.com/track/1c7J3x5nUIl7krcxbZqpW0) | [Hein Talbot](https://open.spotify.com/artist/234b7Rdxg4ncW2ok5s67p7) | [Suji](https://open.spotify.com/album/5p87YHJXjd0ZuaEPemyrRr) | 2:13 | 2022-06-10 |  |
 | [Sunrise](https://open.spotify.com/track/0nsDRLBkStw53EuYXbibO4) | [HILMA](https://open.spotify.com/artist/5cfA35ok9YlWE032xcI423) | [Polaris](https://open.spotify.com/album/4zRFfOm7i3DhHqmW0rIIru) | 2:56 | 2022-06-10 |  |
 | [Supposing](https://open.spotify.com/track/7vCNVMDqzV2tsdZi5Rodi6) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/34Xfn5YawRW1BmaVzgrtFt) | 3:07 | 2022-06-10 |  |
 | [The Mountain Disconnect](https://open.spotify.com/track/0KBIN2eno2koWYL4Flsf7S) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [The Mountain Disconnect](https://open.spotify.com/album/7hEd3BEoTsDTFgBFPnBLDR) | 3:06 | 2022-06-10 |  |
 | [The Saga](https://open.spotify.com/track/08ar8UUeKtraKthaGfEAVs) | [Rick Mays Orchestra](https://open.spotify.com/artist/6M8CwqhafAjTE6iqSPXazJ) | [The Saga](https://open.spotify.com/album/1m1Zh5Fy3fkbiXcYzc7H2l) | 1:49 | 2022-06-10 |  |
 | [The Streets of Belgrade](https://open.spotify.com/track/4cNtJQaOgmjlBSChAlrsBT) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/34Xfn5YawRW1BmaVzgrtFt) | 2:21 | 2022-06-10 |  |
-| [Three Pointer](https://open.spotify.com/track/1gUHSxsrCohFFQC8zuI1Cv) | [Bromeliad](https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3) | [Three Pointer](https://open.spotify.com/album/29ELg1RDinuDy0xw7oPd9L) | 1:00 | 2022-06-10 |  |
+| [Three Pointer](https://open.spotify.com/track/1gUHSxsrCohFFQC8zuI1Cv) | [Bromeliad](https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3) | [Three Pointer](https://open.spotify.com/album/29ELg1RDinuDy0xw7oPd9L) | 0:29 | 2022-06-10 |  |
 | [To Capture The Infinite](https://open.spotify.com/track/0hrTFLbtNvhe5X8b40DVOC) | [5th Dimension String Quartet](https://open.spotify.com/artist/0fd2h7Ve7ZDxWFW00AjxqL) | [To Capture The Infinite](https://open.spotify.com/album/1d8nHTu03NrgdX7KtwmNHk) | 2:47 | 2022-06-10 |  |
 | [Transition](https://open.spotify.com/track/00Jh6031MKpE5nunLJzvyM) | [Elora Bonilla](https://open.spotify.com/artist/5ytoulK1Bp6GLoU6VWs0Nr) | [Transition](https://open.spotify.com/album/0P61A45wt4xVVneycMqdyp) | 2:55 | 2022-06-10 |  |
 | [Under The Stars](https://open.spotify.com/track/0V0w0j63zyFlZTeKsjHF7e) | [Cinespacial](https://open.spotify.com/artist/2Z6ZkwaWC7kYWhQcift8d4) | [Under The Stars](https://open.spotify.com/album/0RyHnHgWSqhXO95qvByvUm) | 3:10 | 2022-06-10 |  |

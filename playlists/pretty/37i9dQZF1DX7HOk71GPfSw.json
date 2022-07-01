@@ -1,12 +1,12 @@
 {
   "description": "spotify hyperpop playlist Cover: glaive",
-  "num_followers": 333168,
+  "num_followers": 333409,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjQyNTUzNSwwMDAwMDE3MjAwMDAwMTgxYWFhN2Q3MDUwMDAwMDE4MTkyNWIzYTU3",
+  "snapshot_id": "MTY1NjYwMzc0NiwwMDAwMDE3NTAwMDAwMTgxYjU0NzIwMmEwMDAwMDE4MTkyNWIzYTU3",
   "tracks": [
     {
       "added_at": "2022-06-24 04:00:00",
@@ -39,6 +39,22 @@
       "duration_ms": 96000,
       "name": "MORE",
       "url": "https://open.spotify.com/track/1dh3gLolmSRmOcFrUNV3N3"
+    },
+    {
+      "added_at": "2022-06-30 15:40:23",
+      "album": {
+        "name": "this is our music \u266b",
+        "url": "https://open.spotify.com/album/0TrSCCZgwkfrfFAA2IfO4D"
+      },
+      "artists": [
+        {
+          "name": "Planet 1999",
+          "url": "https://open.spotify.com/artist/0aoBUiGI5wrK7DOWJAzAKe"
+        }
+      ],
+      "duration_ms": 96781,
+      "name": "i<3u",
+      "url": "https://open.spotify.com/track/1KS9pQrHrF326T9SXnQz89"
     },
     {
       "added_at": "2022-06-24 04:00:00",
@@ -256,7 +272,7 @@
           "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
         }
       ],
-      "duration_ms": 116550,
+      "duration_ms": 29048,
       "name": "i wanna slam my head against the wall",
       "url": "https://open.spotify.com/track/6mEMH5rbZ20ffSf4U9Ff37"
     },
@@ -801,22 +817,6 @@
       "url": "https://open.spotify.com/track/25LHlnz74eivcaMJBfkEbY"
     },
     {
-      "added_at": "2022-05-13 04:17:00",
-      "album": {
-        "name": "Succubus",
-        "url": "https://open.spotify.com/album/4jFHzc3Tv8JKuTeCOr6vlQ"
-      },
-      "artists": [
-        {
-          "name": "siouxxie sixxsta",
-          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Succubus",
-      "url": "https://open.spotify.com/track/2genk7x5jA1HtrEZFTkeNZ"
-    },
-    {
       "added_at": "2022-06-03 13:00:00",
       "album": {
         "name": "LOVESICK",
@@ -1053,26 +1053,6 @@
       "url": "https://open.spotify.com/track/3c3oUMxOr2cVFBY6V3v08C"
     },
     {
-      "added_at": "2022-04-08 14:52:39",
-      "album": {
-        "name": "fuck this town",
-        "url": "https://open.spotify.com/album/33ES0yrXxXqfnmYkPjBx26"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        },
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 115875,
-      "name": "fuck this town",
-      "url": "https://open.spotify.com/track/1kADZJDyRUbmlLxYiqi077"
-    },
-    {
       "added_at": "2022-04-08 04:05:00",
       "album": {
         "name": "HELLSCAPE SUBURBIA",
@@ -1177,22 +1157,6 @@
       "url": "https://open.spotify.com/track/5m8eFMfMToHYKRoxgJVRfw"
     },
     {
-      "added_at": "2022-04-01 13:22:34",
-      "album": {
-        "name": "crush",
-        "url": "https://open.spotify.com/album/4fq2gOSbxepdB6R0mvviv4"
-      },
-      "artists": [
-        {
-          "name": "Planet 1999",
-          "url": "https://open.spotify.com/artist/0aoBUiGI5wrK7DOWJAzAKe"
-        }
-      ],
-      "duration_ms": 148021,
-      "name": "crush",
-      "url": "https://open.spotify.com/track/6kLhilDX44nCibecCJldjP"
-    },
-    {
       "added_at": "2022-03-22 17:41:37",
       "album": {
         "name": "Teen Week",
@@ -1200,7 +1164,7 @@
       },
       "artists": [
         {
-          "name": "dltzk",
+          "name": "Jane Remover",
           "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
         },
         {
@@ -1881,22 +1845,6 @@
       "url": "https://open.spotify.com/track/7nhyXNAngH1yIMIxps3CDM"
     },
     {
-      "added_at": "2022-04-08 15:04:07",
-      "album": {
-        "name": "lifeline",
-        "url": "https://open.spotify.com/album/5brif3YJdrv7Ypu552Rb8x"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 165206,
-      "name": "lifeline",
-      "url": "https://open.spotify.com/track/2wPQ6FDiPAhmhO92JPpxHd"
-    },
-    {
       "added_at": "2022-05-13 04:17:00",
       "album": {
         "name": "Be Your USA",
@@ -2057,26 +2005,6 @@
       "url": "https://open.spotify.com/track/2yJzPbpErIh83LB99C3XPo"
     },
     {
-      "added_at": "2022-05-06 06:31:00",
-      "album": {
-        "name": "Twilight Zone",
-        "url": "https://open.spotify.com/album/1onkzMWL0XAmSY3egGWHiO"
-      },
-      "artists": [
-        {
-          "name": "Tohji",
-          "url": "https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF"
-        },
-        {
-          "name": "Bladee",
-          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
-        }
-      ],
-      "duration_ms": 213540,
-      "name": "Twilight Zone",
-      "url": "https://open.spotify.com/track/0upU8ZFS5cJlzATbjm9OKM"
-    },
-    {
       "added_at": "2022-05-20 06:10:00",
       "album": {
         "name": "Okeanos",
@@ -2207,30 +2135,6 @@
       "duration_ms": 126500,
       "name": "gerard way",
       "url": "https://open.spotify.com/track/7eSRQvTKVMXnGbSMtYFerR"
-    },
-    {
-      "added_at": "2022-03-25 04:04:00",
-      "album": {
-        "name": "comfort noise",
-        "url": "https://open.spotify.com/album/0xdxVPOEDH8DUbpV0O6srR"
-      },
-      "artists": [
-        {
-          "name": "umru",
-          "url": "https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx"
-        },
-        {
-          "name": "emotegi",
-          "url": "https://open.spotify.com/artist/0EZi1A6N8QYNTuA3D9KwB5"
-        },
-        {
-          "name": "Aj simons",
-          "url": "https://open.spotify.com/artist/2Hg3jEqEsp1jThhvybP0HX"
-        }
-      ],
-      "duration_ms": 154636,
-      "name": "losin my mind",
-      "url": "https://open.spotify.com/track/4I6p1e6U3tAPTDb7x12GYc"
     },
     {
       "added_at": "2022-01-28 05:13:00",

@@ -4,7 +4,7 @@
 
 > The official playlist for Cobra Kai\. Watch on Netflix.
 
-123 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/0ndLkmHW7tKwbEqiyvylLh)
+123 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/0ndLkmHW7tKwbEqiyvylLh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [The Cobra Effect](https://open.spotify.com/track/5rIPiNfzGNsycXlt5r5P26) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 3 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4op6NAPFktkyqLtRdPD4wC) | 2:33 | 2022-01-07 |  |
 | [The Food Stamp Stomp](https://open.spotify.com/track/79V3StSzZCWUCNFAHaDUWp) | [Backdrifter](https://open.spotify.com/artist/51IvajBFHTEEYI3DsnuQuQ) | [The Food Stamp Stomp](https://open.spotify.com/album/4z7FwtrmL2kRVHSrGEvCXC) | 2:40 | 2022-01-07 |  |
 | [The Gold Cup](https://open.spotify.com/track/1wnySIU8k2Fkv9hCpiSIzB) | [Al Hazan](https://open.spotify.com/artist/7qwaiCaE4p70SnI5XB9E8j) | [The Gold Cup](https://open.spotify.com/album/3W3OSAwTEAYVIbxzwGFN4I) | 1:52 | 2022-01-07 |  |
-| [The Kids Are Back](https://open.spotify.com/track/7xzmJPFQAn0O1ZYYtbGRlz) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [You Can't Stop Rock 'N' Roll](https://open.spotify.com/album/3KW5iWFnvhHtFoMHwWnUr5) | 3:18 | 2022-01-07 |  |
+| [The Kids Are Back](https://open.spotify.com/track/7xzmJPFQAn0O1ZYYtbGRlz) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [You Can't Stop Rock 'N' Roll](https://open.spotify.com/album/3KW5iWFnvhHtFoMHwWnUr5) | 0:29 | 2022-01-07 |  |
 | [The Moment Of The Truth](https://open.spotify.com/track/0r02aCNepGuuVHQfG0v1jB) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [The Karate Kid: The Original Motion Picture Soundtrack](https://open.spotify.com/album/1zNIDZncmWNpb1WkyfRPdH) | 3:44 | 2022-01-06 |  |
 | [The Moment of Truth \(From the "Cobra Kai" Season 4 Soundtrack\)](https://open.spotify.com/track/6l80jvpzBXXMIqVyX98Fji) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cobra Kai: Season 4, Vol\. 1 "All Valley Tournament 51" \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2ORE6f4jS4dLKvk9VA6oDl) | 3:47 | 2022-01-07 |  |
 | [The Swamp](https://open.spotify.com/track/1W9R3gcmOw3R2DiL2KLxPp) | [Backdrifter](https://open.spotify.com/artist/51IvajBFHTEEYI3DsnuQuQ) | [The Swamp Ep](https://open.spotify.com/album/2RJuOOON0TSbUqzDmGkAsr) | 4:12 | 2022-01-07 |  |

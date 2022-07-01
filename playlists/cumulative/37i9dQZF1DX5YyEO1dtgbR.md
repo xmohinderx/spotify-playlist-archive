@@ -4,7 +4,7 @@
 
 > Experimental electronic beyond the borders of tradition.
 
-88 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/0QCs1HUhlbrSzyN8H1j10w)
+88 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/0QCs1HUhlbrSzyN8H1j10w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [An Exhale](https://open.spotify.com/track/1Cdi1HIK4bJD3F8HGKZDQQ) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [An Exhale](https://open.spotify.com/album/2F3zesjbloU1HZUh2uqUYs) | 4:22 | 2021-10-15 |  |
 | [Anti Chessst](https://open.spotify.com/track/02oaq3LWUIYXfpnzHu2cZN) | [Proc Fiskal](https://open.spotify.com/artist/1eFFmUlWRIvt26lnUzdduk) | [Siren Spine Sysex](https://open.spotify.com/album/0FDd0owsYvpGVuUTalsuHS) | 3:19 | 2021-10-15 |  |
 | [Bassline Interferometry](https://open.spotify.com/track/2uouZv9rjjl4FkSs5jSkhc) | [Farr](https://open.spotify.com/artist/4g1i2rawu8DMMji6pdrz9o) | [The Crescent](https://open.spotify.com/album/7JvSQNRWplt2BlmIqEv3pS) | 6:18 | 2021-10-15 |  |
-| [Black Rainbow](https://open.spotify.com/track/35fdFuD916UVSJ9BBAlMt4) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Black Rainbow / Moonlight](https://open.spotify.com/album/3OJZNp1l2uBQWXa0YTujmA) | 4:32 | 2021-10-15 |  |
+| [Black Rainbow](https://open.spotify.com/track/35fdFuD916UVSJ9BBAlMt4) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Black Rainbow / Moonlight](https://open.spotify.com/album/3OJZNp1l2uBQWXa0YTujmA) | 0:29 | 2021-10-15 |  |
 | [Blush](https://open.spotify.com/track/24KzywRHnZa1YLDEbyd2s2) | [Facta](https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn) | [Blush](https://open.spotify.com/album/59dZbb8QdAs0OCaYEyr8hM) | 3:57 | 2021-10-15 |  |
 | [C Tactile Afferent](https://open.spotify.com/track/5dSqT8JFlqCWMoFKQrUJHa) | [Ola Szmidt](https://open.spotify.com/artist/7xwfXQXRpZH0QOzzM5U4bw) | [C Tactile Afferent](https://open.spotify.com/album/5krbsO1rn41ZxoepTT1Se2) | 3:36 | 2022-06-14 |  |
 | [Cinétique \- Edit](https://open.spotify.com/track/1jRdRoJqx2s6v4T5VZM41C) | [Jinjé](https://open.spotify.com/artist/59ceK8A6RxzUQZF05aXezk) | [Cinétique](https://open.spotify.com/album/36j2hkJhjKKiGDu6IRT9Vr) | 4:00 | 2021-10-15 |  |
@@ -78,7 +78,7 @@
 | [Shimmer and Glimmer](https://open.spotify.com/track/4ij6tfkN13bt1jfWGWXg9S) | [Chants](https://open.spotify.com/artist/1bboGoBc0rr3oXFdFlAjSC) | [Poly Pointillism](https://open.spotify.com/album/66zkrppo8OPQq9kMhxhzp0) | 2:10 | 2021-10-15 |  |
 | [Sistine \(Plucks\)](https://open.spotify.com/track/1cU2mzy2qMALRP53VJszzx) | [Facta](https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn) | [Sistine \(Plucks\)](https://open.spotify.com/album/2q6v3ilegZlsSg04Hoc4Gg) | 3:29 | 2021-10-15 |  |
 | [Sooty Tern](https://open.spotify.com/track/3q0lmG1rRSijb9YqUjXpEd) | [ELLLL](https://open.spotify.com/artist/40W5fNvMZwLnag1FYei0Jk) | [Sooty Tern](https://open.spotify.com/album/171D4IdaILZe3QeQ4e9O88) | 6:04 | 2021-10-15 | 2022-05-06 |
-| [Surge](https://open.spotify.com/track/6g0TV5mLWMBQWTeDVSNGmp) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Surge](https://open.spotify.com/album/2qDP6JVB5FksPqvFJ4xnEs) | 4:44 | 2021-10-15 |  |
+| [Surge](https://open.spotify.com/track/6g0TV5mLWMBQWTeDVSNGmp) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Surge](https://open.spotify.com/album/2qDP6JVB5FksPqvFJ4xnEs) | 0:29 | 2021-10-15 |  |
 | [Sympathetic Cycle](https://open.spotify.com/track/7xqA2LMreNRVdxxX3Ant5v) | [Surgeons Girl](https://open.spotify.com/artist/7CXSuH40c4n4hVbP1JDBFP) | [Sympathetic Cycle](https://open.spotify.com/album/2wQR6WKiEKoEFYV7caqzAf) | 5:01 | 2021-10-15 |  |
 | [The Look of Accessibility](https://open.spotify.com/track/33zJbabn0yQiT6RUY5lit8) | [Love Letters](https://open.spotify.com/artist/1ALDJWUSGEnfpul5JCtjbD) | [Beyond High Demand](https://open.spotify.com/album/3cSxAbJAYn4D7ud12tNOSr) | 5:11 | 2021-10-15 |  |
 | [The Way You Hold Me](https://open.spotify.com/track/64lsUto35QFrB6zpXWaOf2) | [3STRANGE](https://open.spotify.com/artist/4H9nlRIz8akpjJurwlFf6i) | [The Way You Hold Me](https://open.spotify.com/album/7BVPlloQ8udP1RuXwC6jF6) | 3:37 | 2021-10-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Fantastic Negrito
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,223 likes - 80 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,267 likes - 80 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 6 | [Feel Like Going Home](https://open.spotify.com/track/3MtPnzu1Q0PatrrMHsdfCB) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Feel Like Going Home](https://open.spotify.com/album/2DzbUMDWMSPbE7vJN2Ud1S) | 4:35 |
 | 7 | [I Like Games \- Single Version](https://open.spotify.com/track/0XfQWxtYE8OHwNQYV5tom9) | [Arthur Brown](https://open.spotify.com/artist/4Wyn0ejiSIAgFhCL6zbTRm) | [I Like Games](https://open.spotify.com/album/55RkPA2FJj70bBnKFPHjfu) | 4:21 |
 | 8 | [Mount up on the Wings of the King](https://open.spotify.com/track/30Hrgpp6gqufsaSY7F7txp) | [Kenny Neal](https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Straight from the Heart](https://open.spotify.com/album/2owcIwahZSfIqs5v4i86dQ) | 3:19 |
-| 9 | [Still The World Goes Round](https://open.spotify.com/track/6NC8TahwAZKURe6EolCBOv) | [Sass Jordan](https://open.spotify.com/artist/5s2RlLSGQMDvvQcv3dYtAB) | [Bitches Blues](https://open.spotify.com/album/1Dm1iro6Z5Hjv6USdF2NXY) | 4:01 |
+| 9 | [Still The World Goes Round](https://open.spotify.com/track/6NC8TahwAZKURe6EolCBOv) | [Sass Jordan](https://open.spotify.com/artist/5s2RlLSGQMDvvQcv3dYtAB) | [Bitches Blues](https://open.spotify.com/album/1Dm1iro6Z5Hjv6USdF2NXY) | 0:29 |
 | 10 | [Strong as Steel](https://open.spotify.com/track/2zurVB1sxDSgt2EdGjaICS) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Strong as Steel](https://open.spotify.com/album/0BCEBQ4oMiqVuVqhP9QrbA) | 4:09 |
 | 11 | [In Blood](https://open.spotify.com/track/6nNCEcTFxYSaQVKLRrYCb9) | [Emanuel Casablanca](https://open.spotify.com/artist/1FtqiVssCdvoJX1oqvOX0p), [Paul Gilbert](https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG) | [In Blood](https://open.spotify.com/album/6VfAGvpMdmt8ciFE7pRA1Z) | 4:05 |
 | 12 | [Through Being Blue Over You](https://open.spotify.com/track/36seRRquB1YkdjuTlrVc1V) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [You Broke Me](https://open.spotify.com/album/7rJjp8koNUpalsYy0qcPMp) | 3:51 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 20 | [Great Minds Drink Alike \- With Horns](https://open.spotify.com/track/0F68k79FGPe5Rc468GZmF9) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Great Minds Drink Alike \(With Horns\)](https://open.spotify.com/album/6pcpzddprnaCd9UfPN1vtt) | 3:57 |
 | 21 | [Healing Time](https://open.spotify.com/track/1TnboUz1hVeZvqubDBQcHM) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Unchange](https://open.spotify.com/album/0mIUChNWteeV1bIrROMlsH) | 4:35 |
 | 22 | [Cornbread, Peas, Black Molasses](https://open.spotify.com/track/3nRr46yu7zDTd8ly3PZNXn) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [GET ON BOARD](https://open.spotify.com/album/3d5mOvPLoAggvWctC7L12Z) | 3:43 |
-| 23 | [Stagger Lee](https://open.spotify.com/track/64H0CzxFjc1Dz3F3E1oWi5) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Stagger Lee](https://open.spotify.com/album/66JuQbdaWi0wnFJtayoIW0) | 2:35 |
+| 23 | [Stagger Lee](https://open.spotify.com/track/64H0CzxFjc1Dz3F3E1oWi5) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Stagger Lee](https://open.spotify.com/album/66JuQbdaWi0wnFJtayoIW0) | 0:29 |
 | 24 | [Stranger](https://open.spotify.com/track/2GvrLxJHY2SKitGQueKcj2) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy), [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK), [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Brother Johnny](https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa) | 4:06 |
 | 25 | [Last Call](https://open.spotify.com/track/50JkDzyvtn6xf75rklAVvc) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [TEN](https://open.spotify.com/album/7BOpTMhSI7AJl81BbePXcO) | 3:13 |
 | 26 | [You Know My Love](https://open.spotify.com/track/4ZHmUh8uIxHzAIeBdPg6mB) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues \(Deluxe Edition\)](https://open.spotify.com/album/2ZzQyza1rGp1AXsZ2SINRZ) | 4:18 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 28 | [Bad Man](https://open.spotify.com/track/3YvsPZ2najCeA2yao47eKa) | [Vaneese Thomas](https://open.spotify.com/artist/79cmm0PKrLWIrqp80GpJtK) | [Bad Man](https://open.spotify.com/album/0PshEpATig6xpoqCOnQ8fg) | 4:39 |
 | 29 | [Down To The Bottom](https://open.spotify.com/track/2867syuupBlecM1Ra7PGyZ) | [Larry McCray](https://open.spotify.com/artist/24NDm7vTLocVLStlgkKjJc), [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h) | [Blues Without You](https://open.spotify.com/album/0Bi6Nd9yKYnZRnwWCrhhyr) | 5:42 |
 | 30 | [Righteous Loving](https://open.spotify.com/track/2NKWAmzIFidQ7rYkS78Yv9) | [8 Ball Aitken](https://open.spotify.com/artist/1LLlMQFnYUd7M9H7dYLR78) | [Heart and Soul](https://open.spotify.com/album/0t9Y8U95Pt5ATKeHlnuVPa) | 3:37 |
-| 31 | [Why You Wanna Make War \- English Version](https://open.spotify.com/track/4yB81Xy4lvmharZ5qr7LVT) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Emotional Gangster](https://open.spotify.com/album/0FpsQrpsnBRAj4lnhq879R) | 3:27 |
+| 31 | [Why You Wanna Make War \- English Version](https://open.spotify.com/track/4yB81Xy4lvmharZ5qr7LVT) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Emotional Gangster](https://open.spotify.com/album/0FpsQrpsnBRAj4lnhq879R) | 0:29 |
 | 32 | [Keep The Faith](https://open.spotify.com/track/2AfGLVa5rzRqnPm23bPMLk) | [Gaye Alegbalola](https://open.spotify.com/artist/1P3kpd7uIblcLvcIFA4Nmo) | [Keep The Faith](https://open.spotify.com/album/6pSAFmBfO36ji39xuYu10r) | 3:28 |
 | 33 | [Here I'm Is](https://open.spotify.com/track/45DxmdLBAjYelavuazYJhg) | [Duke Robillard](https://open.spotify.com/artist/3SQa9cVuiUaZfao2KZiElA) | [Here I'm Is](https://open.spotify.com/album/2FwkQp2elO2xN3MOs2XJL9) | 2:27 |
 | 34 | [Sand Castles](https://open.spotify.com/track/01aamSYYax8Av0aHdsFkop) | [Rehab](https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS) | [Sand Castles](https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr) | 3:16 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 76 | [Mirror Blues](https://open.spotify.com/track/2YrssxTCneR1rjBTzoaaKS) | [Diesel](https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR) | [Alone With Blues](https://open.spotify.com/album/0BHOezr2qvAzYEt0TVEoRJ) | 3:39 |
 | 77 | [Raisin' Kane](https://open.spotify.com/track/1OojhoKnIxYreWCblSWZ4R) | [Seth James](https://open.spotify.com/artist/6PB0R8akORJQtWUbL36aPg), [Lee Roy Parnell](https://open.spotify.com/artist/3bW6mQczkt1r8tnWIDeBVJ) | [Raisin' Kane](https://open.spotify.com/album/0KpC9zQSsxuNqiHXWhoWXA) | 2:58 |
 | 78 | [Wild Women Don't Have the Blues](https://open.spotify.com/track/7FEKQ8ypfcwp970Bzgp7F3) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Wild Women Don't Have the Blues](https://open.spotify.com/album/3ogvLt5LN9StFxlrOVqnqx) | 3:38 |
-| 79 | [When It Rains](https://open.spotify.com/track/18CdYKjbXZQ1UYpkVUqlin) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Resurrection](https://open.spotify.com/album/3hBNP1QpE7MWs5OIInJxAG) | 6:23 |
+| 79 | [When It Rains](https://open.spotify.com/track/18CdYKjbXZQ1UYpkVUqlin) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Resurrection](https://open.spotify.com/album/3hBNP1QpE7MWs5OIInJxAG) | 0:29 |
 | 80 | [Hangover Blues](https://open.spotify.com/track/1babQrGnsSw3RZ07KvMapY) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Hangover Blues](https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz) | 4:04 |
 
 Snapshot ID: `MTY1NjA0MzMyMCwwMDAwMDA1MDAwMDAwMTgxOTNkZmIzMjcwMDAwMDE4MTFiN2I3YTAw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > The resurgence is real\. Cover: Day Wave
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,232 likes - 106 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,268 likes - 106 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 100 | [Trippin'](https://open.spotify.com/track/4bHGdLpbsGSwhif13wixh8) | [Private Island](https://open.spotify.com/artist/21MZoYDTcbPsC5crOQVqho) | [Trippin'](https://open.spotify.com/album/2ZIHFkknjewZZskM8GizUm) | 2:32 |
 | 101 | [DEATHBLOW](https://open.spotify.com/track/0UyDaW1aWaXAUReRul1sQw) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [ur not real](https://open.spotify.com/album/60PCJO6t6GxHI5MFacb1q3) | 2:56 |
 | 102 | [Killing Me](https://open.spotify.com/track/4NLrzQOSepUIR0MvqLxLZN) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/1XiXoTQLk4xjyZ4Dz4B4ob) | 2:45 |
-| 103 | [Mercy](https://open.spotify.com/track/5vWAgdYgGN5WXzKvfNwx2E) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Mercy](https://open.spotify.com/album/6bLQpivQqQcSn5ACBdliRP) | 2:59 |
+| 103 | [Mercy](https://open.spotify.com/track/5vWAgdYgGN5WXzKvfNwx2E) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Mercy](https://open.spotify.com/album/6bLQpivQqQcSn5ACBdliRP) | 0:29 |
 | 104 | [Empty Spaces](https://open.spotify.com/track/4JHCwcCEqwhN34m7qR1lNt) | [Aodhan](https://open.spotify.com/artist/3rlMJg2MzNFDMUoupg8EPB) | [Empty Spaces](https://open.spotify.com/album/3roXoKWvJK8uSqFKdsCHIV) | 3:47 |
 | 105 | [Parade](https://open.spotify.com/track/0cKatKxyXXsgjsLffKtota) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [Parade](https://open.spotify.com/album/6NhCwnGXxezzXptdm3MNL7) | 2:03 |
 | 106 | [2young2die](https://open.spotify.com/track/7IcpaXgRxjwrF8ZHBgxIVd) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [Love & Melancholy](https://open.spotify.com/album/7eynSCg4pvP075HLVnZNNx) | 2:57 |

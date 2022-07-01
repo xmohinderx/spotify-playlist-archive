@@ -4,7 +4,7 @@
 
 > This month: songs from an iconic era of Black film soundtracks.
 
-39 songs - 2 hr 56 min - [published](https://open.spotify.com/playlist/3WbwSM5Rxh6r83rw0ZWIf0)
+39 songs - 2 hr 49 min - [published](https://open.spotify.com/playlist/3WbwSM5Rxh6r83rw0ZWIf0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,12 +26,12 @@
 | [I Will Always Love You](https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:31 | 2021-02-02 |  |
 | [I'm Every Woman](https://open.spotify.com/track/2eHj0klWkwRQuIrNlPpCPa) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:45 | 2021-02-02 |  |
 | [Indo Smoke](https://open.spotify.com/track/63KcYWznO0w3J5wymiT9QK) | [Mista Grimm](https://open.spotify.com/artist/5kPhNBw1YtAwQgYUETh8iK) | [Poetic Justice: Music from the Motion Picture](https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3) | 5:22 | 2021-02-02 |  |
-| [Just Ask Me To](https://open.spotify.com/track/0gzjfF1qKORte5h0kKHQfB) | [Tevin Campbell](https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE) | [Boyz N The Hood](https://open.spotify.com/album/7KTu7Fg01AgY8UdPvbjIep) | 4:08 | 2021-02-02 |  |
+| [Just Ask Me To](https://open.spotify.com/track/0gzjfF1qKORte5h0kKHQfB) | [Tevin Campbell](https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE) | [Boyz N The Hood](https://open.spotify.com/album/7KTu7Fg01AgY8UdPvbjIep) | 0:29 | 2021-02-02 |  |
 | [Keep It Real](https://open.spotify.com/track/2IbrFmKzCc7ojJ7USAOmu5) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX), [Coko](https://open.spotify.com/artist/5tdfMErqfwoDib2Pq3n2z5), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [HAV PLENTY Music From The Motion Picture](https://open.spotify.com/album/7wxX5fskiw7VnGKw5PWwZc) | 4:41 | 2021-02-02 |  |
 | [Keep Their Heads Ringin'](https://open.spotify.com/track/7jIujRjK5JKNrMCcAvYUTN) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [Friday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28jbQJCBOGrZHnrkTb6uw5) | 5:05 | 2021-02-02 |  |
 | [Kid Vs\. Play \(The Battle\) \- From "House Party" Soundtrack](https://open.spotify.com/track/10PcEaonfyrhDfzrOrBTyq) | [Kid 'N Play](https://open.spotify.com/artist/7mldB9nEb6VC2cUj7EcgFw) | [House Party \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5bobERbX18vZzl9NNrIHUT) | 4:26 | 2021-02-02 |  |
 | [Let's Organize \(feat\. Q\-Tip\)](https://open.spotify.com/track/59Lf7JZarHeKndgFleAHJC) | [Organized Konfusion](https://open.spotify.com/artist/4trFlc6c04qfpnCGvlqFCV), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [A Low Down Dirty Shame \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4wsZKe08Etc5Z1vE5fHN9M) | 4:18 | 2021-02-02 |  |
-| [Me And You](https://open.spotify.com/track/2hcyCCIcnqkZUN85MwXvaY) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Boyz N The Hood](https://open.spotify.com/album/7KTu7Fg01AgY8UdPvbjIep) | 4:10 | 2021-02-02 |  |
+| [Me And You](https://open.spotify.com/track/2hcyCCIcnqkZUN85MwXvaY) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Boyz N The Hood](https://open.spotify.com/album/7KTu7Fg01AgY8UdPvbjIep) | 0:29 | 2021-02-02 |  |
 | [My Fantasy \- From "Do The Right Thing" Soundtrack](https://open.spotify.com/track/0f1uqm2rwQACn7mRbGQiOR) | [Teddy Riley](https://open.spotify.com/artist/5VDmBevaLkMLnK0rLOjijw), [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [Do The Right Thing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/39gQ1HiUS295YJs1NgRxkc) | 4:57 | 2021-02-02 |  |
 | [New Jack Hustler \(Nino's Theme\)](https://open.spotify.com/track/3kPFTuTu8rBgSoglYRBRiE) | [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [New Jack City \(Music from the Motion Picture\)](https://open.spotify.com/album/3N1GCkG6Z5Rs4Qy1iwnIEB) | 4:43 | 2021-02-02 |  |
 | [Not Gon' Cry \- from Waiting to Exhale \- Original Soundtrack](https://open.spotify.com/track/78wi1g772j8eJPEnD8rr9z) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Waiting To Exhale](https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM) | 4:58 | 2021-02-02 |  |

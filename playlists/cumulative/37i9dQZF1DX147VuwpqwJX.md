@@ -4,7 +4,7 @@
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-101 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/61jb2cF8g7zz9kda9fWPqS)
+101 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/61jb2cF8g7zz9kda9fWPqS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Hit It](https://open.spotify.com/track/60XKnJFLaCy2SH8bubf5pK) | [Moodshift](https://open.spotify.com/artist/7lqnPqyrFL0XGLbtXEh8Xa), [Johnny Sibilly](https://open.spotify.com/artist/6VLNC4sGFfIHJJ8poWQzsD) | [Hit It](https://open.spotify.com/album/0a52rXqUjvvej73zHXZdtK) | 2:08 | 2021-11-19 |  |
 | [HOUSE OF KETA \- Playgirls from Caracas Remix](https://open.spotify.com/track/3V9swS8KjBsVaSOJlnYzoi) | [FLUIDOSTUDIO](https://open.spotify.com/artist/51aWIDc4ApbJEEe3Ua2wRy), [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM), [Kenjii](https://open.spotify.com/artist/0gK6u95aXuNa8jNjhgPc0o), [Playgirls from Caracas](https://open.spotify.com/artist/2DtlP0AAGRMHdesTux8mu9) | [HOUSE OF KETA](https://open.spotify.com/album/5bKEalOUBTY6CvdXoIVAyQ) | 3:42 | 2021-11-19 |  |
 | [House Princess](https://open.spotify.com/track/2faERFNJkMa1dFoiGgV9Pp) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T), [Karnage Kills](https://open.spotify.com/artist/6Ngn318kVpmd89bZ0E7b3f) | [House Princess](https://open.spotify.com/album/6wgtaAwdbqmcjIYjMLOsVe) | 5:16 | 2022-03-04 |  |
-| [I Chant, You Vogue](https://open.spotify.com/track/4EMwjbmbQ3jQQCS6LVtHgS) | [Leggoh](https://open.spotify.com/artist/3QOXHCj0WrJNsTcR2FucQ0) | [Qweendom](https://open.spotify.com/album/6wQJ9AhRhjnj2SxBSyM86m) | 5:02 | 2021-11-19 |  |
+| [I Chant, You Vogue](https://open.spotify.com/track/4EMwjbmbQ3jQQCS6LVtHgS) | [Leggoh](https://open.spotify.com/artist/3QOXHCj0WrJNsTcR2FucQ0) | [Qweendom](https://open.spotify.com/album/6wQJ9AhRhjnj2SxBSyM86m) | 0:29 | 2021-11-19 |  |
 | [I Miss The Club](https://open.spotify.com/track/1kGXL1YKRNgmTM1niMUsyO) | [Kweku Saunderson](https://open.spotify.com/artist/6TLjcZpFzo4Sno68bY6MkZ), [Dai Burger](https://open.spotify.com/artist/1y6hiqeSWkQrJYXkU5PvUk) | [I Miss The Club](https://open.spotify.com/album/4xOt8HyBopCBsYZAda8u83) | 2:56 | 2021-11-19 |  |
 | [I'M AN ICON](https://open.spotify.com/track/19v2hGGiGoV6HG76q3AoBQ) | [Icon Sinia Alaia](https://open.spotify.com/artist/4lcAwldRw3SfyyEmL80Hpo), [B\. Ames](https://open.spotify.com/artist/4vTr4hPE8WSlvgo9dkSZNW) | [I'M AN ICON](https://open.spotify.com/album/4VtP614QxtGsjlzxfSGBRk) | 3:16 | 2021-11-19 |  |
 | [Into The Light](https://open.spotify.com/track/3qbpb3YepbCVJMLx4jONIy) | [Purple Crush](https://open.spotify.com/artist/7k38mPk8Flx7gjsdVMIhg1) | [Ballroom Baby](https://open.spotify.com/album/5ltQzlLgfYXeP4sKh9aVWU) | 3:58 | 2021-11-19 |  |
@@ -61,12 +61,12 @@
 | [Lite Werk](https://open.spotify.com/track/2ClaJ5SohcbFiwUDZsk7TY) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Proper Villains](https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S) | [Muvaland Vol\. 2](https://open.spotify.com/album/2vzMFec2lQn8bZWvljJayj) | 2:26 | 2021-11-19 |  |
 | [Love Hangover](https://open.spotify.com/track/4UqPeeSyRt59KZmC0aA2Ni) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana Ross \(Expanded Edition\)](https://open.spotify.com/album/2Fin5oppCDiqiLfqb3j3QO) | 7:48 | 2021-11-19 |  |
 | [Love the Girls](https://open.spotify.com/track/6xFco2Xpb1t1D8d3WeCGWD) | [B\. Ames](https://open.spotify.com/artist/4vTr4hPE8WSlvgo9dkSZNW), [Icon Sinia Alaia](https://open.spotify.com/artist/4lcAwldRw3SfyyEmL80Hpo) | [Love the Girls](https://open.spotify.com/album/5mJBMQB6A5wbIHQwXAFjLx) | 3:54 | 2021-11-19 |  |
-| [March](https://open.spotify.com/track/0sm118jBfsmXhMXziLMtf9) | [Monét X Change](https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w) | [March](https://open.spotify.com/album/6NA2jMLmEgq5PxrfIsMm8S) | 2:59 | 2021-11-19 |  |
+| [March](https://open.spotify.com/track/0sm118jBfsmXhMXziLMtf9) | [Monét X Change](https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w) | [March](https://open.spotify.com/album/6NA2jMLmEgq5PxrfIsMm8S) | 0:29 | 2021-11-19 |  |
 | [Musical Chairs](https://open.spotify.com/track/3fX94zWU2M0xwj4LACbyYx) | [DJ Delish](https://open.spotify.com/artist/1Dh6pMtqj1w0d5DsNm7Rfd) | [XP](https://open.spotify.com/album/2mfKcs777o7GN5gEdEtPmu) | 3:02 | 2021-11-19 |  |
 | [PINKROOM](https://open.spotify.com/track/7oGWBNcphgQDBp1nX5thm0) | [Divoli S'vere](https://open.spotify.com/artist/5auaHQB2vtaJTdrppcTAEw) | [:PINKROOM](https://open.spotify.com/album/0Zwm3DHDS1nYcOB2MW3Wqb) | 2:10 | 2021-11-19 |  |
 | [Qweendom](https://open.spotify.com/track/58dK6i9NAMEs0HguHnwChP) | [Qween Beat](https://open.spotify.com/artist/0VF9ULRE5eBuX7bkwLu9wB) | [Qweendom](https://open.spotify.com/album/4cuWLmE34YTJkiUgQVBeLv) | 3:33 | 2021-11-19 |  |
 | [Realness](https://open.spotify.com/track/1Fh6UKeOozklnE9a24GSSh) | [Ash B.](https://open.spotify.com/artist/73C4in0N0LZovDdQBtCoez) | [Qweendom](https://open.spotify.com/album/4cuWLmE34YTJkiUgQVBeLv) | 2:03 | 2021-11-19 |  |
-| [Scooby Dooby Boof](https://open.spotify.com/track/1ax9nndBPseVFcb0tXLDYa) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T) | [Scooby Dooby Boof](https://open.spotify.com/album/6FaGlFrarGOPuxGboI1W7K) | 3:48 | 2022-03-18 |  |
+| [Scooby Dooby Boof](https://open.spotify.com/track/1ax9nndBPseVFcb0tXLDYa) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T) | [Scooby Dooby Boof](https://open.spotify.com/album/6FaGlFrarGOPuxGboI1W7K) | 0:29 | 2022-03-18 |  |
 | [Shake & Pop](https://open.spotify.com/track/39lPOusXnJRAd3UbZrYfv8) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [H2o Club History 15 Years \(Electro House Session\)](https://open.spotify.com/album/0inSRhCNH5fRbpmt4QbxTJ) | 6:29 | 2021-11-19 |  |
 | [Show Me What You Got!](https://open.spotify.com/track/1Xzys6dX0jsREnWEc2ib9z) | [Sugur Shane](https://open.spotify.com/artist/6W5grmdNl1vuIaB4B0yPND) | [Show Me What You Got!](https://open.spotify.com/album/03qAvr8nGizSRugl3xpGR8) | 3:00 | 2021-11-19 |  |
 | [Sickening](https://open.spotify.com/track/0yO8JKlIOY6phGSlzFpKcm) | [Alsace Carcione](https://open.spotify.com/artist/43oMOJeZr8shNmaBvgvAKr) | [Sickening](https://open.spotify.com/album/2ZrjxpBRyOH2TdWntgXEre) | 3:11 | 2022-02-04 |  |

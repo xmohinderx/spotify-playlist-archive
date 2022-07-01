@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada, elevate your aura\. Cover: Idman
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,523 likes - 99 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,554 likes - 99 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 62 | [Is It Love?](https://open.spotify.com/track/2Lbfend8u6ccFu2zMFpPxF) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Is It Love?](https://open.spotify.com/album/4MgeGr34ni6NO5MEPAQ0Tz) | 3:27 |
 | 63 | [Shea Butter Baby](https://open.spotify.com/track/2QzHJns0EJD4nCQ1AevgwL) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Shea Butter Baby](https://open.spotify.com/album/2pOcq4SAJfA8B7eXPwseIt) | 2:33 |
 | 64 | [Sucré](https://open.spotify.com/track/1nPqHhpCGBVj9FE7m7zgiy) | [noiir](https://open.spotify.com/artist/4fajmnCbACvqKxvd2jXyxz), [Juic3Boy](https://open.spotify.com/artist/5wb69ju4N9tnD2Po57xNs5) | [Sucré](https://open.spotify.com/album/6zt4y1B8i4TnSvxtcXrEwY) | 2:36 |
-| 65 | [Half Empty](https://open.spotify.com/track/5P9r8VUZIn92AsTqe95nbW) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Half Empty](https://open.spotify.com/album/1RRvzs9YEYGWCunuLpZ3gH) | 3:24 |
+| 65 | [Half Empty](https://open.spotify.com/track/5P9r8VUZIn92AsTqe95nbW) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Half Empty](https://open.spotify.com/album/1RRvzs9YEYGWCunuLpZ3gH) | 0:29 |
 | 66 | [How Would You Feel](https://open.spotify.com/track/5yosbcAjMrTNcosZbhZiBo) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [How Would You Feel](https://open.spotify.com/album/373W4hy5SMxKxICDMDynoX) | 2:41 |
 | 67 | [Same Thing](https://open.spotify.com/track/10niVzPrVUTvGjLzzOgKDu) | [Jordan Solomon](https://open.spotify.com/artist/3F2OHxH7rWTkyfchtYA7bQ) | [Same Thing](https://open.spotify.com/album/3KBQw3JxrEo3kl1Fr1BPRk) | 2:13 |
 | 68 | [Paradise](https://open.spotify.com/track/4R3WUzM7xXAIzT5HhH1DDw) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Get Home SAFE \(Part 1\)](https://open.spotify.com/album/2vbt2pexKBrcNcEOZ2ObA2) | 3:22 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 70 | [SUNDOWN \(feat\. Justin Bieber\)](https://open.spotify.com/track/7J9UCy56nirwKuf1IMYtE1) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [ALIEN](https://open.spotify.com/album/6To6T5lr8PLhCQ8ik3vPdv) | 3:43 |
 | 71 | [Moments Ago](https://open.spotify.com/track/6OHfVVT9bIFWizu3XhSg3P) | [JJ Adrian](https://open.spotify.com/artist/4crJ8wTee0AgPI72R7YS77) | [Moments Ago / Yesterday Feels](https://open.spotify.com/album/77obPp4tcowHZwET3NGtBB) | 2:42 |
 | 72 | [Wildest Dreams](https://open.spotify.com/track/6rp1MrZlgg22oAdptVGXUR) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Wildest Dreams](https://open.spotify.com/album/5kHmg5RnlHYbArvbVylojB) | 3:12 |
-| 73 | [Can't Help Myself](https://open.spotify.com/track/6QlWVgJiRRC6IbaW6TSmwB) | [Eric Zayne](https://open.spotify.com/artist/5HMNsIi6AQplZELW9jeLjd) | [Can't Help Myself](https://open.spotify.com/album/14zKEx62p2QYnFb8gyP7qJ) | 3:56 |
+| 73 | [Can't Help Myself](https://open.spotify.com/track/6QlWVgJiRRC6IbaW6TSmwB) | [Eric Zayne](https://open.spotify.com/artist/5HMNsIi6AQplZELW9jeLjd) | [Can't Help Myself](https://open.spotify.com/album/14zKEx62p2QYnFb8gyP7qJ) | 0:29 |
 | 74 | [Still Not a Playa](https://open.spotify.com/track/0kTwzUwyXHngN2VIahINF8) | [Luu Breeze](https://open.spotify.com/artist/5B3Lma67FBdWs1R8m3BKUP) | [Still Not a Playa](https://open.spotify.com/album/7jsd5RS2LEKjhX4Ur7qAum) | 3:04 |
 | 75 | [Breadcrumbs](https://open.spotify.com/track/5wYFEpuiunJSVtZd0vGLOX) | [BAZELLE](https://open.spotify.com/artist/0jwm7oGCwb2uvwtEURfgzZ), [BertsBeatz](https://open.spotify.com/artist/5PhL9D8fkQE0GejhOhC9Lo) | [Breadcrumbs](https://open.spotify.com/album/6TrySjtl9fIlKdzv2kHcCo) | 3:09 |
 | 76 | [Soul N Me](https://open.spotify.com/track/5THyG13rOAd20KQurY6DM6) | [AHSIA](https://open.spotify.com/artist/0Io9HPbsIs5MqlnCIY1gdH) | [Soul N Me](https://open.spotify.com/album/7LXW20e37U6bYVWlNzQkSj) | 3:07 |

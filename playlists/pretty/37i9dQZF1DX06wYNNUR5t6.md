@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06wYNNUR5t6.md) - [plain]
 
 > Build the foundation of your day with this great list of inspired modern rock and hardcore songs!  Cover: Wolves At The Gate
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,423 likes - 52 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,427 likes - 52 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06wYNNUR5t6.md) - [plain]
 | 5 | [Hollowed Out](https://open.spotify.com/track/23jSwzxet90GsYoKdmlMS6) | [As Cities Burn](https://open.spotify.com/artist/7eJA8CZoXCETi9axIfBFGT) | [Hollowed Out](https://open.spotify.com/album/2Y9kDOy6g5dUdMCEyMNOLj) | 3:14 |
 | 6 | [The Cure](https://open.spotify.com/track/3bimN1JcQkbLWcUJexAEyh) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Eclipse](https://open.spotify.com/album/6L8gLKCluioceYP7WNmcol) | 4:16 |
 | 7 | [Rise](https://open.spotify.com/track/5s2VU6HkVBb92xnyNeM57q) | [The Letter Black](https://open.spotify.com/artist/7AH2bTtNIOYu24O3NuFxhG) | [Rise](https://open.spotify.com/album/0DsC2zkOx6orIpcTzmPchK) | 3:14 |
-| 8 | [Set Me Free](https://open.spotify.com/track/4jmM3DfZKnNmdk9E1hu9lg) | [Relentless Flood](https://open.spotify.com/artist/6EvpEo8wSoAZMDb3oV2y0V) | [Escape the Fall](https://open.spotify.com/album/5rVRimOcZf9yLvTZ72xluq) | 4:24 |
+| 8 | [Set Me Free](https://open.spotify.com/track/4jmM3DfZKnNmdk9E1hu9lg) | [Relentless Flood](https://open.spotify.com/artist/6EvpEo8wSoAZMDb3oV2y0V) | [Escape the Fall](https://open.spotify.com/album/5rVRimOcZf9yLvTZ72xluq) | 0:29 |
 | 9 | [The Evening Hate](https://open.spotify.com/track/2afTqQjKpq8e4qmUwZbQRI) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [The Evening Hate](https://open.spotify.com/album/7CDRVjW6yQIG1nt79t2qFS) | 4:47 |
 | 10 | [Mr\. Creeps](https://open.spotify.com/track/2AP3WF1VbuwLXPW5uWZqz0) | [Glasslands](https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy) | [Mr\. Creeps](https://open.spotify.com/album/455lo6Fp27QLZO5My8IZqk) | 3:01 |
-| 11 | [Better Off](https://open.spotify.com/track/1iHx9Ge9YO5Le3UCrjWZ8n) | [City of Auburn](https://open.spotify.com/artist/0FYVYl9r4gHtgP9rJD9GKy) | [Spinning](https://open.spotify.com/album/6FHT343fVHWuPvTRgiA1ak) | 3:46 |
+| 11 | [Better Off](https://open.spotify.com/track/1iHx9Ge9YO5Le3UCrjWZ8n) | [City of Auburn](https://open.spotify.com/artist/0FYVYl9r4gHtgP9rJD9GKy) | [Spinning](https://open.spotify.com/album/6FHT343fVHWuPvTRgiA1ak) | 0:29 |
 | 12 | [Panic Room](https://open.spotify.com/track/2NP0xYz37JZZiBwBFDDhgM) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO), [Andrew Schwab](https://open.spotify.com/artist/45peyKUmaNOcAC3aIyYWYc) | [Love Letter Kill Shot](https://open.spotify.com/album/6lcb1LKEbn5HF9Q6N9rOEY) | 4:29 |
 | 13 | [Legendary](https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 4:04 |
 | 14 | [Not a Victim](https://open.spotify.com/track/5Gr1c6N9fG6IjhPBhcFYzz) | [Cross the Divide](https://open.spotify.com/artist/4X2Ybhr3DI3uOVEE190lSK) | [Not a Victim](https://open.spotify.com/album/6OBJTOj43YxrPFkHZLNYdz) | 4:25 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06wYNNUR5t6.md) - [plain]
 | 19 | [Echoes](https://open.spotify.com/track/0iQa0axJxOqA5vlCSV3app) | [Ignite the Fire](https://open.spotify.com/artist/4xqGhP2gUWyaMMHqPU3UHj) | [Between Shadow and Solace](https://open.spotify.com/album/2IF2CZ13oq1wK51AXr0Lt6) | 4:24 |
 | 20 | [Foreigner](https://open.spotify.com/track/550uiBzwI7c0mrtHpZMrY7) | [LEDGER](https://open.spotify.com/artist/3OuIyI0FYMUZtINxhQVCL3) | [LEDGER EP](https://open.spotify.com/album/4F8Wv1pdbgLiAOajJmZbA1) | 3:57 |
 | 21 | [Tension](https://open.spotify.com/track/01l6eMjuUKrOgBW4ygu6Ka) | [Random Hero](https://open.spotify.com/artist/0FOuR45KED7o5G3bugebGA) | [Tension](https://open.spotify.com/album/7xE8XGR4Mcv9KUqDoqT9Q0) | 3:05 |
-| 22 | [Driftwood](https://open.spotify.com/track/2qLPxnOjFHilVIrZXZtMWQ) | [The Classic Crime](https://open.spotify.com/artist/4Y2ImQoh83EyhkbaJXmJr1) | [How to Be Human](https://open.spotify.com/album/6J9gRf2PpJL4pDsV5XwANi) | 4:21 |
+| 22 | [Driftwood](https://open.spotify.com/track/2qLPxnOjFHilVIrZXZtMWQ) | [The Classic Crime](https://open.spotify.com/artist/4Y2ImQoh83EyhkbaJXmJr1) | [How to Be Human](https://open.spotify.com/album/6J9gRf2PpJL4pDsV5XwANi) | 0:29 |
 | 23 | [Purpose For Pain](https://open.spotify.com/track/7hHZgpWWm3dkybCbyo4W1F) | [Scott Stapp](https://open.spotify.com/artist/6HySSUk2KthFj3bd9R61ql) | [Name](https://open.spotify.com/album/6aPKqOUCmNOJJ4s92TO89J) | 3:18 |
 | 24 | [Black Light](https://open.spotify.com/track/01cIqV4RrN3YoRNcnzVXSr) | [My Epic](https://open.spotify.com/artist/0HowPCaKsP1sJL2T2eMEoe) | [Violence](https://open.spotify.com/album/1JEGmU4yqtuuFceHpVCvHK) | 5:02 |
 | 25 | [Wolves](https://open.spotify.com/track/01HzjrOehvJUlKK3WsQ8qK) | [The Persuaded](https://open.spotify.com/artist/1mKqAPg3t3g6LuBH0Eci7j) | [Dawn Of Destruction](https://open.spotify.com/album/17e9TILgvyuJyuuRIaiT2M) | 3:16 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06wYNNUR5t6.md) - [plain]
 | 48 | [Breathe Again](https://open.spotify.com/track/6VGItaHKo3GC7I6Ky5S57b) | [Set for the Fall](https://open.spotify.com/artist/770Es4dWiuiq9sNiAdmXTr) | [Still Just Breathing](https://open.spotify.com/album/3o8qPT3byMsUolOB3915wZ) | 3:37 |
 | 49 | [Cuff the Criminal](https://open.spotify.com/track/0J0sGVSqnssg1jfgEcYQrv) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Love Letter Kill Shot](https://open.spotify.com/album/6lcb1LKEbn5HF9Q6N9rOEY) | 3:32 |
 | 50 | [All It Takes](https://open.spotify.com/track/25y7XhJeyjzcyT8xOeqKAj) | [DAV](https://open.spotify.com/artist/3UhOrPbn8pGeF4rZjUNXuS), [Jon The Revalaytor](https://open.spotify.com/artist/44YUYpFeZPJv7FaafB4TTW) | [All It Takes](https://open.spotify.com/album/6AP1djlzAEZMRBaluo99fR) | 4:01 |
-| 51 | [Drive](https://open.spotify.com/track/1TBujZFt2bUwq7Vy7AsiUK) | [Archers Rise](https://open.spotify.com/artist/6ApaGLSpdoD84Z3g7pKIi4) | [Drive](https://open.spotify.com/album/6EDV8HpxLYt7LWbqFMr6th) | 4:40 |
+| 51 | [Drive](https://open.spotify.com/track/1TBujZFt2bUwq7Vy7AsiUK) | [Archers Rise](https://open.spotify.com/artist/6ApaGLSpdoD84Z3g7pKIi4) | [Drive](https://open.spotify.com/album/6EDV8HpxLYt7LWbqFMr6th) | 0:29 |
 | 52 | [My Declaration](https://open.spotify.com/track/2uD6FPyDovbYAbI7oF2Srs) | [Bayless](https://open.spotify.com/artist/5cTZq90aOtEXdJBX4zThnu) | [My Declaration](https://open.spotify.com/album/1q7degKMC1ik1akGBNO0e9) | 4:12 |
 
 Snapshot ID: `MTYxODAxOTc3MCwwMDAwMDAwZjAwMDAwMTc4Yjk3ZTYyNTIwMDAwMDE3MGFmNGIzMDA0`

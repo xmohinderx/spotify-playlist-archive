@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3rMnCpY0WEROlje2b8Bjdn.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 463 likes - 69 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 463 likes - 69 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/3rMnCpY0WEROlje2b8Bjdn.md) - [plain]
 | 14 | [Your Enemy Cannot Harm You](https://open.spotify.com/track/0TqHpJiSiFIB3gyaq0hoaK) | [Rev\. Edward W\. Clayborn](https://open.spotify.com/artist/5L0XkS9tanTs61E3xxcEVL) | [Rev\. Edward W\. Clayborn \(1926\-1928\)](https://open.spotify.com/album/1121sARUKKaeafwx6lhGR6) | 2:58 |
 | 15 | [I’m Sitting On Top Of The World](https://open.spotify.com/track/6aHLz4CVuF8spQqx5IuECh) | [Al Jolson](https://open.spotify.com/artist/197mLk2Z62k4tvGxDL1pOa) | [Glenn Miller & Friends](https://open.spotify.com/album/67LEY9tr9M3kDGuCso4iNQ) | 2:33 |
 | 16 | [Heebie Jeebies](https://open.spotify.com/track/5K2UepRhZiw9WwOFAtgx0K) | [Louis Armstrong & His Hot Five](https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S) | [The Real..\. Louis Armstrong](https://open.spotify.com/album/7fHNyofki31zrNIwKSxs1y) | 2:51 |
-| 17 | [Muskrat Ramble](https://open.spotify.com/track/0F8OunV7ZzNolYkdFTQoGM) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Jazz Men](https://open.spotify.com/album/73U6QTKivtWv0Bv8nLbE5n) | 2:33 |
+| 17 | [Muskrat Ramble](https://open.spotify.com/track/0F8OunV7ZzNolYkdFTQoGM) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Jazz Men](https://open.spotify.com/album/73U6QTKivtWv0Bv8nLbE5n) | 0:29 |
 | 18 | [I've Never Seen a Straight Banana](https://open.spotify.com/track/0ptIAheT9G8MkFJO0UD0TX) | [Waring's Pennsylvanians](https://open.spotify.com/artist/6z3tvUdNmvwch9QtfH7Wwf) | [Odd Numbers of the 1920's](https://open.spotify.com/album/7gqIKK42LXJAQSHwrKTBz7) | 2:54 |
 | 19 | [Sunny](https://open.spotify.com/track/4BforxQIGJnNduf8sjkLGw) | [George Olsen](https://open.spotify.com/artist/45tQpWrlBy4DMpfAriqfcC) | [Volume 2, 1925\-1926](https://open.spotify.com/album/1XXtL3swLLKUBwruKq7gHK) | 3:09 |
 | 20 | [Do\-Do\-Do \- Oh, Kay 1926](https://open.spotify.com/track/68LbNTzv9eZKLkuieUXFNL) | [Gertrude Lawrence, Harold French](https://open.spotify.com/artist/3Q7ZSIg5AfemNCtNyupVLK) | [Broadway \(1919 \- 1946\)](https://open.spotify.com/album/4mjukq7UFdMsTS0zdB7Jl6) | 2:42 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Lil Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,096,719 likes - 99 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,097,135 likes - 99 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 53 | [Benz Truck](https://open.spotify.com/track/1hiyJ4CYoH3Cve19V7ZYoa) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Benz Truck](https://open.spotify.com/album/4U6veERIAILg0hKBck8R2x) | 3:06 |
 | 54 | [Krazy Krazy](https://open.spotify.com/track/6ZjP85QdIaiTojLrKixvbT) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Krazy Krazy](https://open.spotify.com/album/1Rgimz7Cn1RfMYz6cUsD4q) | 2:21 |
 | 55 | [Rap Niggas](https://open.spotify.com/track/4LutKtVnLcOiZHO3SWaYZr) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Rap Niggas](https://open.spotify.com/album/4eqIEeiyBrDTAFNNnncsgu) | 2:44 |
-| 56 | [Petty Too \(feat\. Future\)](https://open.spotify.com/track/0VlpgNPHWCyh8xxLcaK2fp) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 2:39 |
+| 56 | [Petty Too \(feat\. Future\)](https://open.spotify.com/track/0VlpgNPHWCyh8xxLcaK2fp) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 0:29 |
 | 57 | [Blood All On it \(feat\. Key Glock, Young Dolph\)](https://open.spotify.com/track/2DdpOlqObnMU1IcMGLp0nk) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Blood All On it \(feat\. Key Glock, Young Dolph\)](https://open.spotify.com/album/04IEdmPMiMvzWtBXdiOGGa) | 3:54 |
 | 58 | [LLB3 \(Long Live Boosa\)](https://open.spotify.com/track/3dkPdd6AqLU25pqI8JHuiH) | [Fat Trel](https://open.spotify.com/artist/1SncSgYiDk2kCBBaXIYcwd) | [LLB3 \(Long Live Boosa\)](https://open.spotify.com/album/2SrqrR0xnmCxEJzcTCuquA) | 3:43 |
 | 59 | [Mtv Traps](https://open.spotify.com/track/2pGq43GlL6XqHIAck7uXh7) | [Doley Bernays](https://open.spotify.com/artist/16WMnfMmfhqT4XWD9bkPch) | [Mtv Traps](https://open.spotify.com/album/5HyV8cBawSYLoKIr4wKKjy) | 3:21 |

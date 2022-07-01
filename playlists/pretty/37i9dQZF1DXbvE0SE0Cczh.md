@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvE0SE0Cczh.md) - [plain]
 
 > From new retro to classic country blues, honky tonk, rockabilly, and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,299 likes - 61 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,528 likes - 61 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvE0SE0Cczh.md) - [plain]
 | 24 | [Neon Blue](https://open.spotify.com/track/20LTvIfOH5vjhXC1E7WFxk) | [Joshua Hedley](https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh) | [Neon Blue](https://open.spotify.com/album/7tGi2TSrjFhjJ6W6BbD1wQ) | 2:51 |
 | 25 | [Great Balls Of Fire](https://open.spotify.com/track/64VP3skE86iTvdOlbzuIcO) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Jerry Lee's Greatest](https://open.spotify.com/album/02FCCye8QsWyjHwedg9Quj) | 1:51 |
 | 26 | [These Boots Are Made For Walkin'](https://open.spotify.com/track/2nwCO1PqpvyoFIvq3Vrj8N) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Boots](https://open.spotify.com/album/62FTy4WqUxi3paBlxOhh4M) | 2:46 |
-| 27 | [You're the One I Love](https://open.spotify.com/track/0LFtYzQb0xflHSlu00pO0S) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [Walk Right Back: The Everly Brothers on Warner Brothers, 1960\-1969](https://open.spotify.com/album/3O0QXvFFIzwahliBm6uzyw) | 2:02 |
+| 27 | [You're the One I Love](https://open.spotify.com/track/0LFtYzQb0xflHSlu00pO0S) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [Walk Right Back: The Everly Brothers on Warner Brothers, 1960\-1969](https://open.spotify.com/album/3O0QXvFFIzwahliBm6uzyw) | 0:29 |
 | 28 | [Everyday](https://open.spotify.com/track/6XJvB9UZYiJiUh8gWGWfXd) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D), [Norman Petty](https://open.spotify.com/artist/5M0cZ39iat2YdgcQX627oq), [C\. Hardin](https://open.spotify.com/artist/3YJENnOpwu0HbubqaijXGn) | [Big Fish \(Music from the Motion Picture\)](https://open.spotify.com/album/3xzFIcun38dKeUM0YRkrfm) | 2:09 |
 | 29 | [All I Have To Do Is Dream](https://open.spotify.com/track/6Et30R1GtviOIDU7wYYyxp) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [Simply \- The Everly Brothers \( 42 Essential Tracks\)](https://open.spotify.com/album/4wKRl6zRLNrg1WpHwpIGtX) | 2:19 |
 | 30 | [Jolene](https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene \(Expanded Edition\)](https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg) | 2:41 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvE0SE0Cczh.md) - [plain]
 | 46 | [Mr\. Jukebox](https://open.spotify.com/track/13QLwPqwFz6ArW0Mvo689t) | [Joshua Hedley](https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh) | [Mr\. Jukebox](https://open.spotify.com/album/0zeZuYMWyOCjEHfNZJR70q) | 3:16 |
 | 47 | [Son of a Preacher Man](https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis \[Deluxe Edition\]](https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg) | 2:29 |
 | 48 | [A Little Less Conversation \- JXL Radio Edit Remix](https://open.spotify.com/track/4l2hnfUx0esSbITQa7iJt0) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [JXL](https://open.spotify.com/artist/2GyakhIO8twSgCnUFfCzTN) | [Elvis 75 \- Good Rockin' Tonight](https://open.spotify.com/album/34EYk8vvJHCUlNrpGxepea) | 3:31 |
-| 49 | [Come On, Let's Go](https://open.spotify.com/track/3wbZ4SLakqTZqV76czDeuZ) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Rhino Hi\-Five: Ritchie Valens](https://open.spotify.com/album/2UoXVAKOOVZjmVfTUidEHs) | 2:05 |
+| 49 | [Come On, Let's Go](https://open.spotify.com/track/3wbZ4SLakqTZqV76czDeuZ) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Rhino Hi\-Five: Ritchie Valens](https://open.spotify.com/album/2UoXVAKOOVZjmVfTUidEHs) | 0:29 |
 | 50 | [Lil' Girl's Name](https://open.spotify.com/track/4LQrKasVYrBHM661Bjq47i) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Lil' Girl's Name](https://open.spotify.com/album/1arrXATjLoVGTGixUphVFl) | 2:01 |
 | 51 | [I Wonder Why](https://open.spotify.com/track/6m0BtKf29IaY6KlxHBJhGZ) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [I Wonder Why](https://open.spotify.com/album/23Kl1huMr3rcUyLvkxNBZF) | 2:05 |
 | 52 | [Heartbreak Hotel](https://open.spotify.com/track/7v1GxlbFevo4kLJGZf8aAZ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [The Essential Elvis Presley](https://open.spotify.com/album/3X3rFfVKCW58sKMO0UXkwO) | 2:09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/53yqWl4VM0iD34tl27ABhY.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 581 likes - 30 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 581 likes - 30 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/53yqWl4VM0iD34tl27ABhY.md) - [plain]
 | 15 | [Helter Skelter \- Outtake \- 1975](https://open.spotify.com/track/5svBTKTKa8S8jaZqV3XZgv) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Pandora's Box](https://open.spotify.com/album/4HxV2LEGimmJoD65yllfSL) | 3:14 |
 | 16 | [Runnin' With The Devil](https://open.spotify.com/track/3gLlcZQMvpwgtV9THHXrGp) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Reissue\)](https://open.spotify.com/album/7G2PY8yve3Db0PeGsosb4x) | 3:36 |
 | 17 | [Greedy Fly](https://open.spotify.com/track/4L3rX2zbxlB2h0h2k47pqE) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Bush Digital Collection](https://open.spotify.com/album/6qxLUeyoz4DpQL4cXbUK0v) | 4:29 |
-| 18 | [Rest My Chemistry](https://open.spotify.com/track/4iLG33TT4HaVILLC0q4rEn) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Our Love To Admire](https://open.spotify.com/album/49agqemJmnDfTA8nqod1qy) | 5:00 |
+| 18 | [Rest My Chemistry](https://open.spotify.com/track/4iLG33TT4HaVILLC0q4rEn) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Our Love To Admire](https://open.spotify.com/album/49agqemJmnDfTA8nqod1qy) | 0:29 |
 | 19 | [Head Like a Hole](https://open.spotify.com/track/60ig0jG8TkhAwfDRUbP6Eo) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Pretty Hate Machine](https://open.spotify.com/album/1EeKyBSqTljR1a0OOmL033) | 4:59 |
 | 20 | [Little White Lie](https://open.spotify.com/track/1YQ5dX31nGu1XbSzs6iXyp) | [Sammy Hagar](https://open.spotify.com/artist/1hXjTjJzZTXDZ75AclOo6N) | [The Essential Red Collection](https://open.spotify.com/album/6SUJunxhvTnNtwilWtL8d1) | 2:53 |
 | 21 | [Crossroads](https://open.spotify.com/track/4WBmkMJyWubRXRLYk8t9SI) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Battle Studies](https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou) | 2:29 |

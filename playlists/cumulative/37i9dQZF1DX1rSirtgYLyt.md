@@ -4,7 +4,7 @@
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-70 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/2CACYxcXWrR79wm1dLrCxU)
+70 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/2CACYxcXWrR79wm1dLrCxU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Blues In The Night](https://open.spotify.com/track/50y2NVBilJvswKuQn5qe5x) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Piece By Piece](https://open.spotify.com/album/39LGwjgf2oV1BlCPsuLp4S) | 4:12 | 2022-06-24 |  |
 | [Born Under A Bad Sign](https://open.spotify.com/track/2uxsnsH0XzOBZkMrSFVmll) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Wheels Of Fire](https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9) | 3:09 | 2022-06-24 |  |
 | [Bring It On Home To Me](https://open.spotify.com/track/4Vfgc4BdSKM2hRlkaRFc9C) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [Deuces Wild](https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV) | 3:10 | 2022-06-24 |  |
-| [Catfish Blues](https://open.spotify.com/track/3lnavfgHUTrxdRqcPmhqUA) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 7:47 | 2022-06-24 |  |
+| [Catfish Blues](https://open.spotify.com/track/3lnavfgHUTrxdRqcPmhqUA) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 0:29 | 2022-06-24 |  |
 | [Change Is Gonna Come](https://open.spotify.com/track/6QEhyWyMPQ3cUtCsu5MRM2) | [Ronnie Earl & The Broadcasters](https://open.spotify.com/artist/66YrJYZbRNlji0MisS2D1I) | [Good News](https://open.spotify.com/album/00gjkhEHHnrATP8ORz4C2G) | 6:02 | 2022-06-24 |  |
 | [Come Back Baby](https://open.spotify.com/track/6zN2SuJaXhGJYXhb77xPVO) | [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [Stars In My Crown](https://open.spotify.com/album/16vXqLiCvBwbSOPTF1VUwG) | 5:47 | 2022-06-24 |  |
 | [Crawling King Snake](https://open.spotify.com/track/35RfqVHfnWeGYXC9RH9q6Y) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Mississippi Son](https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf) | 4:10 | 2022-06-24 |  |
@@ -66,7 +66,7 @@
 | [Stop!](https://open.spotify.com/track/3WFfqRoJhJeHIZzKdW5xXZ) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Ballad of John Henry](https://open.spotify.com/album/0H8c4DhrLk4mtFaiYt43GN) | 6:48 | 2022-06-24 |  |
 | [Stormy Monday Blues](https://open.spotify.com/track/1jWzxiovfCE1Ye5Mdy9Kq2) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Greatest Blues Covers](https://open.spotify.com/album/16DVtb2ktkxqpkzFsYGnSG) | 4:23 | 2022-06-24 |  |
 | [Sweet Home Chicago \- Mono Rough Mix](https://open.spotify.com/track/5zGssSIGlzrEWZOH3M8Bn6) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Buddy Guy & Junior Wells Play The Blues \(Expanded\)](https://open.spotify.com/album/258nJWLkWNsQshy4AZUDaQ) | 4:00 | 2022-06-24 |  |
-| [Te Ni Nee Ni Nu](https://open.spotify.com/track/6FLhQua5ju8et7kCH6pDLA) | [Lou Ann Barton](https://open.spotify.com/artist/0uIrm4Ub9qBmp4t7A2Rchk) | [All Time Favorites: Lou Ann Barton](https://open.spotify.com/album/05lqmLDciO40z9cFmFSLYJ) | 2:54 | 2022-06-24 |  |
+| [Te Ni Nee Ni Nu](https://open.spotify.com/track/6FLhQua5ju8et7kCH6pDLA) | [Lou Ann Barton](https://open.spotify.com/artist/0uIrm4Ub9qBmp4t7A2Rchk) | [All Time Favorites: Lou Ann Barton](https://open.spotify.com/album/05lqmLDciO40z9cFmFSLYJ) | 0:29 | 2022-06-24 |  |
 | [There's A Bright Side Somewhere](https://open.spotify.com/track/3ThRt0CKd9Fu3d4SiSYf69) | [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [River Of Time](https://open.spotify.com/album/6FwFt4jIkHCRg09cqOQhXU) | 2:59 | 2022-06-24 |  |
 | [Tom Cat Blues](https://open.spotify.com/track/3XPY2HNMUsCPXOGKWXcPQn) | [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [Blue Country Heart](https://open.spotify.com/album/2bj1nmObmKUBAYmznB3crd) | 3:03 | 2022-06-24 |  |
 | [Travelling Riverside Blues \(BBC Session\) \- Remastered](https://open.spotify.com/track/3dCarMp6T3GsKCspJgeD0a) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Coda \(Deluxe Edition\)](https://open.spotify.com/album/56G9UnPmRifbubzPDJfAyd) | 5:11 | 2022-06-24 |  |

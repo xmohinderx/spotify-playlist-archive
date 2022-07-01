@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27DJRLhzQiD.md) - [plain]
 
 > Wendy Sulca y más mujeres, a todo volumen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,866 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,873 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27DJRLhzQiD.md) - [plain]
 | 35 | [Llorando Tu Partida](https://open.spotify.com/track/1JHE3fgK8QvaWdj2IjmzgL) | [Ada Y La Nueva Pasion](https://open.spotify.com/artist/19tl2bzCLRXDglG9AAozA0) | [Ada Y La Nueva Pasion](https://open.spotify.com/album/1oy6xKrcERrCYLqZxcqCdI) | 3:49 |
 | 36 | [Única](https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Única](https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9) | 3:20 |
 | 37 | [Obscuro Obituario](https://open.spotify.com/track/408zijg9l4YdpENJB4eIsi) | [Maria Usbeck](https://open.spotify.com/artist/16pdeeyke2dzEJXSj0MPft) | [Obscuro Obituario](https://open.spotify.com/album/1jVABPpRra4c76wXbFMybc) | 4:02 |
-| 38 | [Raices del Festejo \- Le Dije a Papa](https://open.spotify.com/track/4VufezCz0uNJknt5ffTtgs) | [Eva Ayllón](https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2) | [25 Años, 25 Exitos](https://open.spotify.com/album/4fRHhR0AhoWhsSNCYg85xK) | 4:06 |
+| 38 | [Raices del Festejo \- Le Dije a Papa](https://open.spotify.com/track/4VufezCz0uNJknt5ffTtgs) | [Eva Ayllón](https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2) | [25 Años, 25 Exitos](https://open.spotify.com/album/4fRHhR0AhoWhsSNCYg85xK) | 0:29 |
 | 39 | [Imposible Olvidarte](https://open.spotify.com/track/0yPN0chyb4wxdGdlHKBDqm) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy) | [Agua Bella y Sus Grandes Éxitos](https://open.spotify.com/album/2SumbKIZjNFcn3EcxcF2iG) | 4:11 |
 | 40 | [Por Qué Te Fuiste](https://open.spotify.com/track/3xsy9cyy4k6glloiOWhQb0) | [Maricarmen Marin](https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz) | [Por Qué Te Fuiste](https://open.spotify.com/album/3KaNBGh5xcSMP9uZVd0zJd) | 3:05 |
 | 41 | [Nunca Es Suficiente](https://open.spotify.com/track/5bNZVcZIPFX9eyeCzsjEUz) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ) | [Nunca Es Suficiente](https://open.spotify.com/album/22qXCxQhiH4Cg0TAqHYbOt) | 4:32 |
 | 42 | [Descifrar](https://open.spotify.com/track/431vrxogdCt65ZSWfUrP1G) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Descifrar](https://open.spotify.com/album/0CNmIBrerT1NQGzIkm20eA) | 2:58 |
 | 43 | [FIXXIÓN](https://open.spotify.com/track/3YCwaFpPituwo6yx2Eu6PC) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [FIXXIÓN](https://open.spotify.com/album/4wa2jkm7yOAXCR70ZrLj74) | 3:07 |
-| 44 | [LA SUERTE](https://open.spotify.com/track/1ZvH6ijf4f7kO2lpZK8Rie) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [LA SUERTE](https://open.spotify.com/album/31zundrva1JBJAprVqxsz8) | 4:29 |
+| 44 | [LA SUERTE](https://open.spotify.com/track/1ZvH6ijf4f7kO2lpZK8Rie) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [LA SUERTE](https://open.spotify.com/album/31zundrva1JBJAprVqxsz8) | 0:29 |
 | 45 | [Déjenme Sufrir](https://open.spotify.com/track/3kwM3eVq6Eoe64zm3spri2) | [Katy Jara y Banda Mix](https://open.spotify.com/artist/0gQ8SI9XgOALHs21Tcxkdb) | [La Reyna del Sur](https://open.spotify.com/album/2L6syCnwuNfHJuDiFKXBPM) | 3:29 |
 | 46 | [Te Vas a Arrepentir](https://open.spotify.com/track/3EEH5ZZ74BJ5TV3rQAPbLi) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ) | [Te Vas a Arrepentir](https://open.spotify.com/album/3Mn6khCVmpcSk7g5991JmR) | 4:12 |
 | 47 | [Nunca Pense Llorar](https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw) | [Rossy War y Su Banda Kaliente](https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ) | [Como un Dulce Poema, Vol\. 3](https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY) | 4:09 |

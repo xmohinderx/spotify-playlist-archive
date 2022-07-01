@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdejmG21jbny.md) - [plain]
 
 > Chill instrumental ambient for slow, focused movement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,890 likes - 143 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,907 likes - 143 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdejmG21jbny.md) - [plain]
 | 65 | [Een mooie droom](https://open.spotify.com/track/6nxvSAvwbVJIK4CaAjwA5N) | [Zeb Maessen](https://open.spotify.com/artist/28GCtr7gDIxtcAeaaWwpIu) | [Een mooie droom](https://open.spotify.com/album/280hU6Lrftj2KAayzIzROw) | 3:10 |
 | 66 | [Innervate](https://open.spotify.com/track/2ZUsvuyl43t1oqiwGaHMt7) | [Jasmine Viola](https://open.spotify.com/artist/46G2FNi6a9iLA5XyKQ00kZ) | [Innervate](https://open.spotify.com/album/10eJeTFDULwxl3aV41l2Ll) | 3:15 |
 | 67 | [Vectors](https://open.spotify.com/track/2U52xGJHhe707I26sNXYaU) | [Noah Staern](https://open.spotify.com/artist/2kAwGtAzhiz2f6mviwUO2e) | [Vectors](https://open.spotify.com/album/1WKN14lk6fEVNaKoLyefVy) | 2:59 |
-| 68 | [Dream of Me](https://open.spotify.com/track/34RHSQBCMRHLGPnqZMSepL) | [Keely Bain](https://open.spotify.com/artist/2ueoP3YsFTlMOO2Y2Co9Ad) | [Dream of Me](https://open.spotify.com/album/2SFPWjuV6pg0KYpRnNggFJ) | 2:43 |
+| 68 | [Dream of Me](https://open.spotify.com/track/34RHSQBCMRHLGPnqZMSepL) | [Keely Bain](https://open.spotify.com/artist/2ueoP3YsFTlMOO2Y2Co9Ad) | [Dream of Me](https://open.spotify.com/album/2SFPWjuV6pg0KYpRnNggFJ) | 0:29 |
 | 69 | [Voyage](https://open.spotify.com/track/4HeHMXNLyR4Nym7mgmaxsa) | [Natana Bach](https://open.spotify.com/artist/568DTgNHtIjbRfvgeQNDr4) | [Voyage](https://open.spotify.com/album/0ruApKQ9axPRwhjpPhaHra) | 2:36 |
 | 70 | [Sono In Bilico](https://open.spotify.com/track/2z2aFGYVDincSjBypjbrTy) | [Callisto Mazzi](https://open.spotify.com/artist/0m0GtPOIUqS9mroE1ErOBn) | [Sono In Bilico](https://open.spotify.com/album/1DBWlWJ5VKnK5WVywYnhjJ) | 3:02 |
 | 71 | [Dans Mes Rèves](https://open.spotify.com/track/5rnWDfjlHA2OVtes6J2RF7) | [Ervin Alba](https://open.spotify.com/artist/3gBRdpF4cFeZPXkvp0R1LQ) | [Dans Mes Rèves](https://open.spotify.com/album/1FEBGcOFl7kr7zf1GOK0rH) | 2:32 |
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdejmG21jbny.md) - [plain]
 | 89 | [My Paradise](https://open.spotify.com/track/4FqRXEGuyM0YfpdtvecUgv) | [Clay Edwards](https://open.spotify.com/artist/2vmXrZiuBbcPV8K7fBclWC) | [My Paradise](https://open.spotify.com/album/0SBQ7Y3C7ifv590L0K6AQT) | 3:27 |
 | 90 | [Tie Ties No Lies](https://open.spotify.com/track/0n6BeFtnYqf2JLriufM6qQ) | [Rippar Americano](https://open.spotify.com/artist/3ExIRLRDeE7h0rtCBuEW2k) | [Tie Ties No Lies](https://open.spotify.com/album/4UN85eNMhEHzHw5qUsgMW1) | 2:48 |
 | 91 | [Radiant](https://open.spotify.com/track/7KMOtD1iXghmWWR2Wn7PEq) | [Hibisc](https://open.spotify.com/artist/0YTD5FFHn4tt6ikL8fNqyi) | [Radiant](https://open.spotify.com/album/1sdwKv0Y7mM3gImhvduqe6) | 2:39 |
-| 92 | [Nourish](https://open.spotify.com/track/0t4SxD4RI2sZYu7ehNF0Dt) | [Calming Eyes](https://open.spotify.com/artist/32QebOlHD4A8nInyCK0wvf) | [Delicate](https://open.spotify.com/album/14NlEEottXO4wgKV8dHLkT) | 3:40 |
+| 92 | [Nourish](https://open.spotify.com/track/0t4SxD4RI2sZYu7ehNF0Dt) | [Calming Eyes](https://open.spotify.com/artist/32QebOlHD4A8nInyCK0wvf) | [Delicate](https://open.spotify.com/album/14NlEEottXO4wgKV8dHLkT) | 0:29 |
 | 93 | [Where the eagles fly](https://open.spotify.com/track/0DYvzlBhc8BDFiZYbG32V3) | [Beautiful Sleep](https://open.spotify.com/artist/4wapzvXqBROuuOhKmB0mxh) | [Where the eagles fly](https://open.spotify.com/album/6nw8UqhzWg9s7d32NbjdjU) | 3:20 |
 | 94 | [Pneuma](https://open.spotify.com/track/5Lc1wnS6xGMw2xajdDvKAp) | [Hello Artemisia!](https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3) | [Pneuma](https://open.spotify.com/album/3kmpm5eHmRqaAMEO3Ixgn6) | 3:47 |
 | 95 | [Lissajous](https://open.spotify.com/track/0HH5ug5dE5d7U1iz4gkHae) | [Furna](https://open.spotify.com/artist/2MtNVvbfAnblCOA9RXKfBx) | [Lissajous](https://open.spotify.com/album/2w7wfYGcI5SZfus9NNjjEo) | 3:02 |

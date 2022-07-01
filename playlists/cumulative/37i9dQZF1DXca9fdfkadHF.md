@@ -4,7 +4,7 @@
 
 > ¡A rockear con los titanes de Perú! Foto: Afrodisiaco
 
-60 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/2TM16VdLTGsbk088ETOR0g)
+60 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/2TM16VdLTGsbk088ETOR0g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Triciclo Perú](https://open.spotify.com/track/5GUPHcl11vUeOf1OwDjJb5) | [Los Mojarras](https://open.spotify.com/artist/1q7dN4c3Py4QbovlM01xYX) | [Rock Urbano](https://open.spotify.com/album/63VlyjU1ReBl1ZZaDyBJqr) | 3:38 | 2022-04-01 |  |
 | [Tus Alas Caerán](https://open.spotify.com/track/47RPhZOsbbgeSugavCkqtT) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [\[Campo De Almas\]](https://open.spotify.com/album/7vecFaeShbkNnkYshP8EgC) | 5:40 | 2022-04-01 |  |
 | [Tú y Yo](https://open.spotify.com/track/6EesgMPcFrCTh4AqMmC2LO) | [Los Zopilotes](https://open.spotify.com/artist/3LjNoICptpY8EE21CHv46E) | [Más Peruanos Que el Rock, Vol\. 1](https://open.spotify.com/album/35aOC07jH0evroYonYZjZh) | 2:19 | 2022-04-01 |  |
-| [Un Día Sin Sexo](https://open.spotify.com/track/5cmWOkiyVPPme4VeP9cZpR) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Lado B](https://open.spotify.com/album/3hPLzDRCvMNlQHtWB16DD0) | 6:37 | 2022-04-01 |  |
+| [Un Día Sin Sexo](https://open.spotify.com/track/5cmWOkiyVPPme4VeP9cZpR) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Lado B](https://open.spotify.com/album/3hPLzDRCvMNlQHtWB16DD0) | 0:29 | 2022-04-01 |  |
 | [Un Ovni en Mi Jardín](https://open.spotify.com/track/6EO9B5nyP0cS1auCFDIbYF) | [Trama](https://open.spotify.com/artist/5HT6tm0lJBhS5Zl2tXC0WY) | [Trama](https://open.spotify.com/album/7c7gUfqJxX21nhpDIZ5rX8) | 3:21 | 2022-04-01 |  |
 | [Un Vino, Una Cerveza](https://open.spotify.com/track/5Q2J37xbIR60z6ifswoGKe) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Degeneracion Actual](https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx) | 4:35 | 2022-04-01 |  |
 | [Vamos a Tocache](https://open.spotify.com/track/52ZXLXnrhz0yJLVKXtt31M) | [Miki Gonzalez](https://open.spotify.com/artist/0ifCMWK5i03zLZL2N5hmWy) | [Tantas Veces](https://open.spotify.com/album/4ka5fTmUpvGREuDcDHHIyb) | 4:07 | 2022-04-01 |  |

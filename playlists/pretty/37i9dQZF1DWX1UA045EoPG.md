@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1UA045EoPG.md) - [plain]
 
 > Sunny beats and the latest heat to soundtrack your summer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,383 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,397 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Rollin \(feat\. Future & Khalid\)](https://open.spotify.com/track/3FDrI0FLKzrYQiWxPhqV2W) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Rollin \(feat\. Future & Khalid\)](https://open.spotify.com/album/6nt2urfBROkUQWnzpSOohu) | 4:32 |
+| 1 | [Rollin \(feat\. Future & Khalid\)](https://open.spotify.com/track/3FDrI0FLKzrYQiWxPhqV2W) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Rollin \(feat\. Future & Khalid\)](https://open.spotify.com/album/6nt2urfBROkUQWnzpSOohu) | 0:29 |
 | 2 | [Summertime Magic](https://open.spotify.com/track/4j3GWI86JvSaF0BLdmgcfF) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Summer Pack](https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45) | 3:33 |
 | 3 | [Loud](https://open.spotify.com/track/556LJMJMhRJUNb4IggLTMM) | [Silk City](https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Loud](https://open.spotify.com/album/4esQRJHaiTQycN77tdw8fZ) | 3:19 |
 | 4 | [Sometime \(feat\. Brasstracks\)](https://open.spotify.com/track/5G9AFl0ibJsTbGm8h3N6jw) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr) | [Sometime \(feat\. Brasstracks\)](https://open.spotify.com/album/3JtPUd1jInKOtMUVFiqDOF) | 2:46 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1UA045EoPG.md) - [plain]
 | 27 | [Riri Thick \- Moods Remix](https://open.spotify.com/track/0xT4knFEialXamJIax97Yx) | [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh), [Sun BLVD](https://open.spotify.com/artist/7K9cfCRuleWnt1AmUxsCf9), [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Sundae Sauuce Presents: Strawberry Drizzle](https://open.spotify.com/album/1uGtAEx6E84HjpI77vWDtt) | 3:23 |
 | 28 | [Hyphlive](https://open.spotify.com/track/1snve7a1zOuwT88ABdXnnZ) | [Thoto\_leing](https://open.spotify.com/artist/5a4nrJ6eEVHg5CDeTbPwlm) | [Thoto\_leing](https://open.spotify.com/album/05zydkKDJWX9r0l4yRbCuN) | 1:35 |
 | 29 | [Stay There](https://open.spotify.com/track/29aHLkN2TNG0to6UJbo5Ao) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Stay There](https://open.spotify.com/album/5zZ7Bvs4aD5cSl1urhazu1) | 4:24 |
-| 30 | [Cinnamon](https://open.spotify.com/track/0VH7wmxrvFD1VBU701vueP) | [Hurley Mower](https://open.spotify.com/artist/6CoTYzOyg2NW2OUEFaSTxO) | [Cinnamon](https://open.spotify.com/album/3XalQXmk1Cek8ZBEjNQPFv) | 2:49 |
+| 30 | [Cinnamon](https://open.spotify.com/track/0VH7wmxrvFD1VBU701vueP) | [Hurley Mower](https://open.spotify.com/artist/6CoTYzOyg2NW2OUEFaSTxO) | [Cinnamon](https://open.spotify.com/album/3XalQXmk1Cek8ZBEjNQPFv) | 0:29 |
 | 31 | [Meltaway](https://open.spotify.com/track/3YKQqS7xr8DcXggBwv4I5P) | [Zhao](https://open.spotify.com/artist/5bfw7ydBnntO3NbtHagaQf) | [Meltaway](https://open.spotify.com/album/15tMsoy4cyJgmE77DX1Vnt) | 3:41 |
 | 32 | [Scintilla](https://open.spotify.com/track/7rYCnrsH8kAV9kJm6zI6UE) | [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW), [Luna Mae](https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP) | [Scintilla / Break My Back](https://open.spotify.com/album/4StJrEkwzZtJgqqKTwljuS) | 3:04 |
 | 33 | [Her.Thoughts](https://open.spotify.com/track/5w719VPErIafoSKcKhvAuN) | [Goldenninjah](https://open.spotify.com/artist/7h8yHAeuxxeKQjRXc7XiBu) | [Her.Thoughts](https://open.spotify.com/album/6eBoOWw9MdKHxmAfnSdugW) | 1:13 |

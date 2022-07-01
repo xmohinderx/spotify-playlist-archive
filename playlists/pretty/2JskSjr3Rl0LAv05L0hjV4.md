@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/2JskSjr3Rl0LAv05L0hjV4.md) - [plain]
 
 > Let these singers tug on your heartstrings with their amazing vocal performances.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71 likes - 25 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 71 likes - 25 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Will Always Love You](https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:31 |
 | 2 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 |
-| 3 | [All In My Head](https://open.spotify.com/track/098tAg0yjz9ds5oys4MAPG) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Handmade Songs By Tori Kelly](https://open.spotify.com/album/0cKsaZeZ7zxJWmP8haVHuf) | 3:30 |
+| 3 | [All In My Head](https://open.spotify.com/track/098tAg0yjz9ds5oys4MAPG) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Handmade Songs By Tori Kelly](https://open.spotify.com/album/0cKsaZeZ7zxJWmP8haVHuf) | 0:29 |
 | 4 | [When I See U](https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Fantasia](https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX) | 3:37 |
 | 5 | [Vision of Love](https://open.spotify.com/track/0gLQ6jhJsyYfl7PrD1RZ7X) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Mariah Carey](https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn) | 3:29 |
 | 6 | [Nothing Compares 2 U](https://open.spotify.com/track/4j6Hkosuk9xHcowXjtwefs) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/2azjbHOg6mdA5ABoyZOH4F) | 4:40 |

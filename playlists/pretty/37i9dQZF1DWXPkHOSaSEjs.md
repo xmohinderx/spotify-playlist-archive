@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPkHOSaSEjs.md) - [plain]
 
 > La mejor energía con los éxitos de Los Pericos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,738 likes - 51 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,760 likes - 51 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,14 +32,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPkHOSaSEjs.md) - [plain]
 | 22 | [Home Sweet Home](https://open.spotify.com/track/7IgcKZZNLZH7Mbe3tBeOX3) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Pampas Reggae](https://open.spotify.com/album/5UT1U06RzF2hWq6d7SGaTn) | 3:50 |
 | 23 | [Anónimos \(En Vivo\) \(feat\. Carla Morrison\)](https://open.spotify.com/track/7wbVFxOfhc6VXjSiN8Ri7h) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [3000 Vivos \(En Vivo\)](https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1) | 4:46 |
 | 24 | [Me Late](https://open.spotify.com/track/3CizlnqcWoZp9Sthem7jPM) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Big Yuyo](https://open.spotify.com/album/2zABqsniagHwdKt0x6qgSi) | 3:30 |
-| 25 | [Anónimos \(feat\. Carla Morrison\)](https://open.spotify.com/track/6pKADEM7gx8EZ6UypMUzyd) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Soundamerica](https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI) | 5:15 |
+| 25 | [Anónimos \(feat\. Carla Morrison\)](https://open.spotify.com/track/6pKADEM7gx8EZ6UypMUzyd) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Soundamerica](https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI) | 0:29 |
 | 26 | [Nada que perder](https://open.spotify.com/track/6Nts7aMEdMZuXYt0qrhX1g) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Lo Mejor De Los Mejores](https://open.spotify.com/album/31CRp4AWKOLePWXx7jcZ1e) | 4:12 |
 | 27 | [Eso Es Real](https://open.spotify.com/track/15ULF4ovZrbySuxbUwDUhi) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Big Yuyo](https://open.spotify.com/album/2zABqsniagHwdKt0x6qgSi) | 4:19 |
 | 28 | [Su Galán](https://open.spotify.com/track/1ArOL4ldJO9IWcAEZKH7Jq) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Pampas Reggae](https://open.spotify.com/album/5UT1U06RzF2hWq6d7SGaTn) | 3:41 |
 | 29 | [Caliente](https://open.spotify.com/track/7k9655GBLcnaQq1w2ak29r) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Yerba Buena](https://open.spotify.com/album/2ZgriRd8pxsaWfQjZRM9Mb) | 3:36 |
 | 30 | [La Hiena](https://open.spotify.com/track/7aW0biSvi7hOo1tSE4rExD) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Mystic Love \(Reissue\)](https://open.spotify.com/album/3GYWqJzLFjyUemww6zeaW9) | 3:24 |
-| 31 | [Señales Erróneas](https://open.spotify.com/track/39hge514fnHZ5VUXdkl8Nd) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Soundamerica](https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI) | 3:47 |
-| 32 | [Inalcanzable](https://open.spotify.com/track/2dGhvwIJFrNTvXraMAhcm0) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Soundamerica](https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI) | 3:32 |
+| 31 | [Señales Erróneas](https://open.spotify.com/track/39hge514fnHZ5VUXdkl8Nd) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Soundamerica](https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI) | 0:29 |
+| 32 | [Inalcanzable](https://open.spotify.com/track/2dGhvwIJFrNTvXraMAhcm0) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Soundamerica](https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI) | 0:29 |
 | 33 | [Mi Resistencia](https://open.spotify.com/track/0txbNwVOPJcpGupF4TNDLl) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Big Yuyo](https://open.spotify.com/album/2zABqsniagHwdKt0x6qgSi) | 3:29 |
 | 34 | [El Ritual De La Banana](https://open.spotify.com/track/4ddPLpcYicUAEXLFVnqp7m) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [El Ritual De La Banana / Los Pericos](https://open.spotify.com/album/6sN1L8SbguregFdB6slLWU) | 3:40 |
 | 35 | [Lindo Día](https://open.spotify.com/track/3tvN68IMEG2mPWZGlHJgLl) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Pura Vida](https://open.spotify.com/album/2uehSDVyhBGGHygslmy1ls) | 3:20 |
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPkHOSaSEjs.md) - [plain]
 | 42 | [Torito](https://open.spotify.com/track/6XZuWOLd3KQ17ZqbNp6aF2) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Pampas Reggae](https://open.spotify.com/album/5UT1U06RzF2hWq6d7SGaTn) | 3:27 |
 | 43 | [Hacé Lo Que Quieras](https://open.spotify.com/track/7FJ9mYg8SPHUhFMtFJL3Bs) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Big Yuyo](https://open.spotify.com/album/2zABqsniagHwdKt0x6qgSi) | 2:13 |
 | 44 | [No Me Pares](https://open.spotify.com/track/0cxOrceVGTBtqQ4kb85Xjx) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Yerba Buena](https://open.spotify.com/album/2ZgriRd8pxsaWfQjZRM9Mb) | 3:33 |
-| 45 | [Todos Lo Hacen](https://open.spotify.com/track/15YxQngUxvhImUXb9PxBb0) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Soundamerica](https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI) | 3:54 |
+| 45 | [Todos Lo Hacen](https://open.spotify.com/track/15YxQngUxvhImUXb9PxBb0) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Soundamerica](https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI) | 0:29 |
 | 46 | [Ocho Ríos](https://open.spotify.com/track/5axeeFo6ETWDWrtegFmwQ1) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [King Kong](https://open.spotify.com/album/1f19N0IA8DvKQqjhLUbJpK) | 3:46 |
-| 47 | [La Hora 25](https://open.spotify.com/track/0MsFSojKXUkCTOJzLldLnC) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Soundamerica](https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI) | 4:19 |
+| 47 | [La Hora 25](https://open.spotify.com/track/0MsFSojKXUkCTOJzLldLnC) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Soundamerica](https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI) | 0:29 |
 | 48 | [Voy Caminando Lento \- Live](https://open.spotify.com/track/7yEbY15xQmLCEstpmx6W5z) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [1000 Vivos](https://open.spotify.com/album/5wqv1v2PMphDkY5b7ASoPR) | 1:22 |
 | 49 | [Monkey Man](https://open.spotify.com/track/47kOyApVjpeMNWOeIaTnJw) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Mystic Love \(Reissue\)](https://open.spotify.com/album/3GYWqJzLFjyUemww6zeaW9) | 2:46 |
 | 50 | [Rata China \- Live](https://open.spotify.com/track/1gcvVJO6c9l8g5dExldA6j) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [1000 Vivos](https://open.spotify.com/album/5wqv1v2PMphDkY5b7ASoPR) | 1:55 |
-| 51 | [Palabras de Fuego \(feat\. Emanero\)](https://open.spotify.com/track/7LlLoe454Qj8R57mMa2Nc4) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [Soundamerica](https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI) | 3:19 |
+| 51 | [Palabras de Fuego \(feat\. Emanero\)](https://open.spotify.com/track/7LlLoe454Qj8R57mMa2Nc4) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [Soundamerica](https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI) | 0:29 |
 
 Snapshot ID: `MTYzNzg5NTYwMCwwMDAwMDAwODAwMDAwMTdkNWEyZjc4MTMwMDAwMDE3MGM0YmUzY2Fl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0sbkEFgqbA3Jjot2lbqsyx.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 338 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 338 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/0sbkEFgqbA3Jjot2lbqsyx.md) - [plain]
 | 23 | [Turn Around, Look at Me](https://open.spotify.com/track/6w8Pnj2aUSJysc0b5FSJyr) | [The Vogues](https://open.spotify.com/artist/0Ma8KxtvoIDSU5fHtuTS9F) | [Turn Around, Look At Me](https://open.spotify.com/album/5bq7lXvSaFD4xlhb8FQjbM) | 2:46 |
 | 24 | [Judy In Disguise \(With Glasses\)](https://open.spotify.com/track/1IdOSNQ4TF1rNtXaHWl4qY) | [John Fred and His Playboy Band](https://open.spotify.com/artist/1JJQnWXsIpAKIvcWJGUtfg) | [One Hit Wonders \- Vol\. 3](https://open.spotify.com/album/172jqsXIEMee9TDHA5qzjr) | 2:51 |
 | 25 | [Spooky](https://open.spotify.com/track/5z4iT44mMHyZozsTFy4A51) | [Classics IV](https://open.spotify.com/artist/6XGJvNG372fPJ2TV2OoN0Z) | [Best Of](https://open.spotify.com/album/1Tt7kLJ0EC4t8w3D4WyySr) | 2:55 |
-| 26 | [Love Child](https://open.spotify.com/track/3NEXHif5VQoVe3A9yidyBv) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Great Songs And Performances That Inspired The Motown 25th Anniversary T.V\. Special](https://open.spotify.com/album/7DKVGEwrtT5MzX0hLK5Zc4) | 2:56 |
+| 26 | [Love Child](https://open.spotify.com/track/3NEXHif5VQoVe3A9yidyBv) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Great Songs And Performances That Inspired The Motown 25th Anniversary T.V\. Special](https://open.spotify.com/album/7DKVGEwrtT5MzX0hLK5Zc4) | 0:29 |
 | 27 | [Angel of the Morning](https://open.spotify.com/track/27QxL30kLR6RyIjLXCMFdU) | [Merrilee Rush & The Turnabouts](https://open.spotify.com/artist/5TnMVQgTIbp6z3AydwnHW6) | [Angel Of The Morning](https://open.spotify.com/album/3G5uBH4LITdtjt8TEarfp2) | 3:12 |
 | 28 | [The Ballad of Bonnie & Clyde](https://open.spotify.com/track/1C2K7ouw8OYXVThAnSXID9) | [Georgie Fame](https://open.spotify.com/artist/5rWKAmlxinr3muqedXVIHa) | [The Third Face Of Fame](https://open.spotify.com/album/3MGdCtzNd66E1JTMJgw8hk) | 3:09 |
 | 29 | [Those Were The Days \- Rerecorded Version](https://open.spotify.com/track/5AOQ6Yyc31jwq4YhUW02W8) | [Mary Hopkin](https://open.spotify.com/artist/5pBljwfwnohfSNDXixEYHm) | [20th Century Rocks: 60's Pop \- Those Were the Days \(Rerecorded Version\)](https://open.spotify.com/album/02VjoqBNpB8VAw6l3BKJSa) | 4:56 |

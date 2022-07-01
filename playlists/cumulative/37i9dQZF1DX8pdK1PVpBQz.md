@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8pdK1PVpBQz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8pdK1PVpBQz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8pdK1PVpBQz)
 
-### [ Fresh Finds AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DX8pdK1PVpBQz)
+### [Fresh Finds AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DX8pdK1PVpBQz)
 
 > Discover something new from local independent artists on the rise\. Cover: ASTON\. Artwork: Isu Kim
 
-884 songs - 2 day 0 hr 53 min - [published](https://open.spotify.com/playlist/6SzaS17cgVZQMPJsRPmBsR)
+885 songs - 2 day 0 hr 57 min - [published](https://open.spotify.com/playlist/6SzaS17cgVZQMPJsRPmBsR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Control Dem](https://open.spotify.com/track/7CJj238MecPG1II1UgO1OJ) | [Club Angel](https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj) | [Control Dem](https://open.spotify.com/album/34pOYo2McKDiygDZgHoo6s) | 3:49 | 2022-06-15 |  |
 | [Cotton Candy](https://open.spotify.com/track/4uA2YqAL6Pm2u8ECRUNJU8) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [Cotton Candy](https://open.spotify.com/album/4hn9fzp2FQfVWbWi9LXje6) | 2:16 | 2021-12-28 | 2022-01-13 |
 | [cousins](https://open.spotify.com/track/4QtwXlHaDtrTtdSRPz7EwT) | [wongii](https://open.spotify.com/artist/20Dv10fNbZMfKMX5N12P99), [Max Henley](https://open.spotify.com/artist/0kDyN8taWBDSLwg3qyFBDx) | [cousins](https://open.spotify.com/album/2IKVtUsEEjuMFreKebMM4H) | 2:52 | 2022-01-12 | 2022-02-10 |
+| [Crave](https://open.spotify.com/track/1N9gYTjsWWCxQcPQLy1ZSw) | [D'Arcy Spiller](https://open.spotify.com/artist/7o5WFn4X3YuycrDdoEXqaO) | [Crave](https://open.spotify.com/album/2hzhnaVfLbaKd9NZc5B95v) | 3:22 | 2022-07-01 |  |
 | [Crawl in through my window](https://open.spotify.com/track/1uxqpLIHkhEAppQT5xNUnE) | [Archie's College Fund](https://open.spotify.com/artist/04HgXMHxlGCYLfMhYPydeG) | [Crawl in through my window](https://open.spotify.com/album/6gjH58k2Ua6cXyLoKFaRWG) | 4:14 | 2022-01-19 | 2022-02-24 |
 | [Crazy Life](https://open.spotify.com/track/0JYLBHAI3Vul2ldfNqzlu9) | [Sophiegrophy](https://open.spotify.com/artist/4VbLknkcJMhSninTvMZbfE) | [Crazy Life](https://open.spotify.com/album/3cJ3RqOLpSvJpoBXgdeBM6) | 2:48 | 2022-02-09 | 2022-03-16 |
 | [Criminal \(Edit\)](https://open.spotify.com/track/6PRJqFvs0pATsXCu9qnunc) | [Dorsal Fins](https://open.spotify.com/artist/4EtfwTmKV4RidvzmoM7pL4) | [Criminal](https://open.spotify.com/album/5LHPdvmSob3Bk9hcNrU9Lh) | 3:43 | 2022-04-13 | 2022-05-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBbGCLlic3p.md) - [plain]
 
 > Restorative piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,141 likes - 187 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,142 likes - 187 songs - 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBbGCLlic3p.md) - [plain]
 | 64 | [Simien](https://open.spotify.com/track/3tf0epgGh6Zbh2skKajYjw) | [Petros Idris](https://open.spotify.com/artist/2KPSqFXX8R2WJ72KyFFEdc) | [Simien](https://open.spotify.com/album/0vS0WdECffLMWHgYQEacuP) | 3:30 |
 | 65 | [Paralyzed](https://open.spotify.com/track/6qU5ggMJaYOItNCsUIGeyP) | [Phabels](https://open.spotify.com/artist/4EAkTd9K3QcamFKfvb8jfo) | [Paralyzed](https://open.spotify.com/album/6GAFR4ODXrRdbgNrpOpH4w) | 2:21 |
 | 66 | [Time Flies Away](https://open.spotify.com/track/22avKCPSA6gN7p3lKbTytV) | [Tin Shui](https://open.spotify.com/artist/5hSVBR00vPBcQuAfvY1sZs) | [Time Flies Away](https://open.spotify.com/album/5QyzVz6mNSkD253nZf1989) | 3:02 |
-| 67 | [October Skies](https://open.spotify.com/track/1YU1xwcePnMHo0H5MI9gtm) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/2CiGQi3XgsbETzwSFzn2yk) | 2:55 |
+| 67 | [October Skies](https://open.spotify.com/track/1YU1xwcePnMHo0H5MI9gtm) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/2CiGQi3XgsbETzwSFzn2yk) | 0:29 |
 | 68 | [Calling](https://open.spotify.com/track/6aSGp6af4KxWmYHadWTJDu) | [Monaxia](https://open.spotify.com/artist/5oSOrrskSneqhw8bwpkb1v) | [Calling \(Ambient version\)](https://open.spotify.com/album/25aXfFaajgtMVOrzAHAgMA) | 2:32 |
 | 69 | [Calm](https://open.spotify.com/track/7x8dZcTysEL2ugS7Gj7eMJ) | [Shibuki](https://open.spotify.com/artist/01ZOR2akLhLcm87lo8jHTg) | [Calm](https://open.spotify.com/album/4lPUDTcfykVSSj7YFmC8yw) | 3:37 |
 | 70 | [Sweet Dreams](https://open.spotify.com/track/6V8THVzHBSqnQG1fud3FjS) | [Nakatami](https://open.spotify.com/artist/169r1sNrXrpaXiTHkmKgWE) | [Sweet Dreams](https://open.spotify.com/album/1advw5ZtYzo7dO74Ny3bIU) | 3:00 |
@@ -150,7 +150,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBbGCLlic3p.md) - [plain]
 | 140 | [The Explorer](https://open.spotify.com/track/02CXPIbxZQD8utqIQBQ59A) | [Burgundy Skies](https://open.spotify.com/artist/2txYwbS88ztbJYTKGVeUrq) | [The Explorer](https://open.spotify.com/album/572p09vhNOLPyc0PHeMWuf) | 2:36 |
 | 141 | [Sunflower Sunset](https://open.spotify.com/track/3vPoUXeqlDaqHUx38pe7tb) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [Ambient Fields](https://open.spotify.com/album/7jBA8xzRMRWJtX2ZsxqW9w) | 3:25 |
 | 142 | [Lapis Lazuli](https://open.spotify.com/track/0K4Rz4toClO0a6zcUwWgMi) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Gemstones, Vol\. 2](https://open.spotify.com/album/6lUMWgJqyiSbJnkPrZGXpA) | 3:17 |
-| 143 | [Petrichor](https://open.spotify.com/track/22KKy6ftT0i4nyGNCbwc1B) | [Cecelya](https://open.spotify.com/artist/03aCAywaPegfs9yvJ66eCp) | [Petrichor](https://open.spotify.com/album/0EeoPgnFgCP1TNJsBdelJ7) | 1:58 |
+| 143 | [Petrichor](https://open.spotify.com/track/22KKy6ftT0i4nyGNCbwc1B) | [Cecelya](https://open.spotify.com/artist/03aCAywaPegfs9yvJ66eCp) | [Petrichor](https://open.spotify.com/album/0EeoPgnFgCP1TNJsBdelJ7) | 0:29 |
 | 144 | [Humilis Cicer](https://open.spotify.com/track/1sYKMOqw4fgn8jlHrlodmU) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [Humilis Cicer](https://open.spotify.com/album/4kJNPj1cyLiE3ux4LjhIgI) | 2:54 |
 | 145 | [Hiraeth](https://open.spotify.com/track/5DNpEwASbbGXz9wbr0ex6v) | [Chieloka](https://open.spotify.com/artist/3IBhxjT8AiBiz7DpMUEjEj) | [Hiraeth](https://open.spotify.com/album/5Ez2Xog7cRrcbx0W95g32V) | 3:01 |
 | 146 | [Lyrebird](https://open.spotify.com/track/72mDETn3Ba8yVewAcqnlqQ) | [Keira Conlon](https://open.spotify.com/artist/2PeXm2l3nGWuNKDr7ATimr) | [Lyrebird](https://open.spotify.com/album/73YZiV6JEfhRBr855r2fvk) | 2:33 |
@@ -190,7 +190,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBbGCLlic3p.md) - [plain]
 | 180 | [It Ends with Us](https://open.spotify.com/track/6RMjZgsE9IcQZqubTzLtDs) | [Steve Mokwebe](https://open.spotify.com/artist/4oJhB4wMqwZWue2kcpCmCz) | [It Ends with Us](https://open.spotify.com/album/2Teu3OC25GCc7H44rMngCu) | 2:10 |
 | 181 | [Relajación espiritual](https://open.spotify.com/track/7kbiF2WwENN3Z5yOZ2X0R2) | [Toga Bali](https://open.spotify.com/artist/0DUOo4Eips5aR2eA4V5Vfb) | [Relajación espiritual](https://open.spotify.com/album/2t4WoPwxh8Us4B2j1iDNQ9) | 3:10 |
 | 182 | [](https://open.spotify.com/track/4t6PkD6UKAkvDhHw7uKjdC) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7f6OrvOk73SluDD1g6Qbdt) | 0:00 |
-| 183 | [Andromeda](https://open.spotify.com/track/2vOE9PLXx3MTPy5E0dxPor) | [Zoe Handfield](https://open.spotify.com/artist/0ifYKOfttKEUMV86E0mxxL) | [Andromeda](https://open.spotify.com/album/4QF6bAGczBfA3IgNftiaem) | 2:52 |
+| 183 | [Andromeda](https://open.spotify.com/track/2vOE9PLXx3MTPy5E0dxPor) | [Zoe Handfield](https://open.spotify.com/artist/0ifYKOfttKEUMV86E0mxxL) | [Andromeda](https://open.spotify.com/album/4QF6bAGczBfA3IgNftiaem) | 0:29 |
 | 184 | [The Garden's Light](https://open.spotify.com/track/7uLFo7WHyKjEKi5Rm6qe2o) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [New Ambitions](https://open.spotify.com/album/1trY6YX2PRPKp7ZvPKijz6) | 3:13 |
 | 185 | [](https://open.spotify.com/track/7xzeJbiPtEJY5aYqkB2fwY) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1wRozGRs0G4auZhSA4UseC) | 0:00 |
 | 186 | [Mellow Moon](https://open.spotify.com/track/3pwWWv9jwQxxh81W8bKWSB) | [Dilaz](https://open.spotify.com/artist/0TOvt96p0iReJMOGxtV5ub) | [Winds](https://open.spotify.com/album/0y85Fl4PfcS9zsfvYyA7q6) | 3:25 |

@@ -64,7 +64,7 @@
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 169201,
+      "duration_ms": 29048,
       "name": "15 Years",
       "url": "https://open.spotify.com/track/5lmbiEhAum7m0lfijCdCYp"
     },
@@ -225,7 +225,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 164617,
       "name": "Alright (frick it!)",
       "url": "https://open.spotify.com/track/0guJsHG67oNPEtZCIHfMxm"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 178480,
       "name": "Blutooth",
       "url": "https://open.spotify.com/track/4mhHWZBaSyLeTeXrLp1xuK"
@@ -601,7 +601,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 193706,
       "name": "Brighter Day",
       "url": "https://open.spotify.com/track/1mS9SLlDMbUSjBHuJroaw9"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 204878,
       "name": "broken",
       "url": "https://open.spotify.com/track/1anwgwnvLAcrItcXMpc2Py"
@@ -731,7 +731,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 189130,
       "name": "Call the Night",
       "url": "https://open.spotify.com/track/6yYVXKCihtqj3MMFBdHSou"
@@ -894,7 +894,7 @@
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 223306,
+      "duration_ms": 29048,
       "name": "Closer to the Sun",
       "url": "https://open.spotify.com/track/7d4mgFtUuymNO1u90sEQrv"
     },
@@ -1419,7 +1419,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 172200,
       "name": "F*****g Up What Matters",
       "url": "https://open.spotify.com/track/5Asn2tpsfEpP4h5iio8lL5"
@@ -1545,7 +1545,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 159166,
       "name": "February",
       "url": "https://open.spotify.com/track/3zEQAX67O9w1cn8U8P9BrR"
@@ -1837,7 +1837,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 169760,
       "name": "Good",
       "url": "https://open.spotify.com/track/7sRdxkgNb3m3Ciai38ANmd"
@@ -2043,6 +2043,24 @@
       "duration_ms": 163749,
       "name": "High",
       "url": "https://open.spotify.com/track/6y055Bh8XDEpmFMBuycoLj"
+    },
+    {
+      "album": {
+        "name": "High Again",
+        "url": "https://open.spotify.com/album/1gwyYE4gE9VvucBwpaRMvK"
+      },
+      "artists": [
+        {
+          "name": "girlfriends",
+          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 29048,
+      "name": "High Again",
+      "url": "https://open.spotify.com/track/0DfJSAKlgfjqPLDIsBrOic"
     },
     {
       "album": {
@@ -2469,7 +2487,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 166920,
       "name": "If I Could Be Like You",
       "url": "https://open.spotify.com/track/7nzYP2Eznmu83TFdB7wDE9"
@@ -2689,7 +2707,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 195093,
       "name": "Kombucha",
       "url": "https://open.spotify.com/track/7pGYQz0yMkm8rLdP6u1wZW"
@@ -3248,7 +3266,7 @@
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 216533,
+      "duration_ms": 29048,
       "name": "Move Me",
       "url": "https://open.spotify.com/track/0vrGg6n72wLwgv32jeewgi"
     },
@@ -3301,7 +3319,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 204811,
       "name": "My Type",
       "url": "https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU"
@@ -4037,7 +4055,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 154466,
       "name": "Ribbon Around The Bomb",
       "url": "https://open.spotify.com/track/7voz4y45sbxa5GUB2oTxhP"
@@ -4077,7 +4095,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 199757,
       "name": "Role Model",
       "url": "https://open.spotify.com/track/57gXXZbi4KeojlnheJUets"
@@ -4225,7 +4243,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 199873,
       "name": "scream!",
       "url": "https://open.spotify.com/track/4ns5zRv5YXKZTfiGx3qEE0"
@@ -4315,7 +4333,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 176906,
       "name": "Shine",
       "url": "https://open.spotify.com/track/7ECdgylUCaSTNwxzY1Size"
@@ -4369,7 +4387,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 171221,
       "name": "Simple Things",
       "url": "https://open.spotify.com/track/5XmLP99v54O4zV9vrlBKVS"
@@ -4687,7 +4705,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 185994,
       "name": "Summer of Love",
       "url": "https://open.spotify.com/track/1KbTuqLQFreQpsrbF6tn1R"
@@ -5325,7 +5343,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-01",
       "duration_ms": 184435,
       "name": "Vowels (And the Importance of Being Me)",
       "url": "https://open.spotify.com/track/2jE3wqMD0Btzsf3cxr0FhO"
@@ -5635,7 +5653,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 164866,
       "name": "Wild Child",
       "url": "https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4"

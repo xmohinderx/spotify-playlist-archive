@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCp8Clax7tf.md) - [plain]
 
 > The Women who put Country Music on the map\. Cover: Loretta Lynn
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,817 likes - 97 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,995 likes - 97 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCp8Clax7tf.md) - [plain]
 | 2 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:42 |
 | 3 | [Lesson In Leavin'](https://open.spotify.com/track/0xo5dRgtkZlR2zNJwSYB37) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [All\-Time Greatest Hits](https://open.spotify.com/album/2W0uJ9ehsjiInD1CDvVHHX) | 3:40 |
 | 4 | [Seven Year Ache](https://open.spotify.com/track/2bYp7DYfjXULM24FUh9Z3Q) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [The Very Best Of Rosanne Cash](https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa) | 3:14 |
-| 5 | [Don't Tell Me What To Do](https://open.spotify.com/track/7C1NrxVM5jG9QwkNAKoDhW) | [Pam Tillis](https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6) | [Super Hits](https://open.spotify.com/album/1hpDgi4JCjIenc4d8obdvB) | 3:11 |
+| 5 | [Don't Tell Me What To Do](https://open.spotify.com/track/7C1NrxVM5jG9QwkNAKoDhW) | [Pam Tillis](https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6) | [Super Hits](https://open.spotify.com/album/1hpDgi4JCjIenc4d8obdvB) | 0:29 |
 | 6 | [I Feel Lucky](https://open.spotify.com/track/6IItFqIHg6jHleKOYI7Aas) | [Mary Chapin Carpenter](https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr) | [Country Dance Super Hits](https://open.spotify.com/album/5bySb9iJsD9QepIPfkZgSX) | 4:25 |
 | 7 | [Any Man Of Mine](https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:06 |
 | 8 | [Jolene](https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:41 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCp8Clax7tf.md) - [plain]
 | 61 | [Your Good Girl's Gonna Go Bad](https://open.spotify.com/track/2OFXgZXGzMwDQScl2qFavV) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [The Essential Tammy Wynette](https://open.spotify.com/album/5lmYjjjnij8ug8WrEoVQK7) | 2:01 |
 | 62 | [I Hope You Dance](https://open.spotify.com/track/65B1tEOv5W294uCKbmEcFV) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [I Hope You Dance](https://open.spotify.com/album/5NwzdF5qHEtXT6SepzhWJv) | 4:54 |
 | 63 | [Don't It Make My Brown Eyes Blue](https://open.spotify.com/track/1IDf3VUbfPPduW6bIfkIPQ) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [We Must Believe In Magic](https://open.spotify.com/album/2Up3szvumEB8A2Yk9ZBZPX) | 2:37 |
-| 64 | [Walkaway Joe](https://open.spotify.com/track/5pzoq7ggrA0GN3SMjy0NT8) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Hearts In Armor](https://open.spotify.com/album/6uk1KNSAZP0jwPHMRgronx) | 4:20 |
+| 64 | [Walkaway Joe](https://open.spotify.com/track/5pzoq7ggrA0GN3SMjy0NT8) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Hearts In Armor](https://open.spotify.com/album/6uk1KNSAZP0jwPHMRgronx) | 0:29 |
 | 65 | [Hopelessly Devoted To You \- From “Grease” Soundtrack](https://open.spotify.com/track/6isWFX5ZUvZykT2JYCqfKH) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Gold](https://open.spotify.com/album/24xwaPVl6xkUunl6lEWwje) | 3:05 |
 | 66 | [Somebody's Knockin'](https://open.spotify.com/track/4XZzz3KpYL7TSzRmSaIuiE) | [Terri Gibbs](https://open.spotify.com/artist/53I5L1MaOYGfbRM1uZ80xg) | [The Best Of Terri Gibbs](https://open.spotify.com/album/03cq73RJU7Kvqx6WOneh9t) | 3:01 |
 | 67 | [How Do I Get There](https://open.spotify.com/track/34VnYs7xwpscz3DkbTMoHb) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [Did I Shave My Legs For This?](https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn) | 4:09 |
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCp8Clax7tf.md) - [plain]
 | 80 | [I Will Always Love You](https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:56 |
 | 81 | [A Little Past Little Rock](https://open.spotify.com/track/3Xl5apC8UhqZ1FZ7u3HHfO) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet), [Jason Sellers](https://open.spotify.com/artist/5TRj3DqC4pcZaTIGFq99Bg) | [Greatest Hits](https://open.spotify.com/album/3Tdb9TrHS3ne1SjFqBYA5V) | 4:16 |
 | 82 | [Do Me with Love](https://open.spotify.com/track/023vtOQfgWyJFegMIe1WHv) | [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [Anthology](https://open.spotify.com/album/3thfGRk7zUBbrSWaGXhOxg) | 2:51 |
-| 83 | [What's Your Mama's Name Child](https://open.spotify.com/track/0J6dezPhTa0ePaN87kphCs) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Tanya Tucker / Super Hits](https://open.spotify.com/album/6oaors3y98ssmPuvBcc343) | 3:02 |
+| 83 | [What's Your Mama's Name Child](https://open.spotify.com/track/0J6dezPhTa0ePaN87kphCs) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Tanya Tucker / Super Hits](https://open.spotify.com/album/6oaors3y98ssmPuvBcc343) | 0:29 |
 | 84 | [Daddy's Hands](https://open.spotify.com/track/2VPnnOGXmejtKqxGY4jg66) | [Holly Dunn](https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH) | [Milestones\- Greatest Hits](https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP) | 3:29 |
 | 85 | [Shut Up And Drive](https://open.spotify.com/track/59aKpxi49wtCe9a1CscDTc) | [Chely Wright](https://open.spotify.com/artist/1aSIXmBKKrEVIbGLwhedIe) | [Let Me In](https://open.spotify.com/album/07eW2eBZwtpfDkSWOAB3jv) | 3:49 |
 | 86 | [I Was Country When Country Wasn't Cool \- \(Duet With George Jones\)](https://open.spotify.com/track/3qd4eFbXvTs0xsgDnExC0I) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg), [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [20th Century Masters: The Millennium Collection: Best Of Barbara Mandrell](https://open.spotify.com/album/1PmIuUV8MVxnHeUtfDU5IP) | 3:40 |

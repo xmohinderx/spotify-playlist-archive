@@ -4,7 +4,7 @@
 
 > Chart topping hits from the legendary label.
 
-65 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/7ndk3nV4DgJKqpMzIEHyoK)
+65 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/7ndk3nV4DgJKqpMzIEHyoK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Part\-Time Lover](https://open.spotify.com/track/0Dm43YLUlGdePpSbI1ct8h) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [In Square Circle](https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt) | 4:12 | 2019-06-27 |  |
 | [Please Mr\. Postman \- Stereo Version](https://open.spotify.com/track/5fNDP3NTdE69szQHUl4fFr) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [Forever: The Complete Motown Albums, Volume 1](https://open.spotify.com/album/1Jn2ZCQiEgVNt3arbJBewA) | 2:29 | 2019-06-27 |  |
 | [Reach Out I'll Be There](https://open.spotify.com/track/11npGmmHAsN9i11Vcnwtko) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [20th Century Masters – The Millennium Collection: The Best Of](https://open.spotify.com/album/3dfUrPJtFPlqZxoxD2f0Kb) | 3:00 | 2019-06-27 |  |
-| [Rhythm Of The Night](https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [Rhythm Of The Night](https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8) | 3:49 | 2019-06-27 |  |
+| [Rhythm Of The Night](https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [Rhythm Of The Night](https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8) | 0:29 | 2019-06-27 |  |
 | [Say You, Say Me](https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Dancing On The Ceiling \(Expanded Edition\)](https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf) | 4:01 | 2019-06-27 |  |
 | [Sir Duke](https://open.spotify.com/track/4RQgqR09VmHn345vRhKQ6T) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/2HVx2tiZnLX8xeaUthed1e) | 3:54 | 2019-06-27 |  |
 | [Someday We'll Be Together](https://open.spotify.com/track/79Yk6AlSKi5dxDFINID2hS) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Cream Of The Crop](https://open.spotify.com/album/44oDkaH8gO3ZvvxKE8lG4I) | 3:31 | 2019-06-27 |  |

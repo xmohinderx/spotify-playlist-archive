@@ -4,17 +4,17 @@
 
 > 
 
-30 songs - 1 hr 34 min - [published](https://open.spotify.com/playlist/1llOOS0K8C4Svio1fexiRT)
+30 songs - 1 hr 27 min - [published](https://open.spotify.com/playlist/1llOOS0K8C4Svio1fexiRT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Baby](https://open.spotify.com/track/0iTrbNlIQj7Kfk1ytfMopY) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume 3](https://open.spotify.com/album/30W17Ol4QWQpvID7OCQUpQ) | 3:15 | 2013-06-12 |  |
 | [Baby Baby Baby](https://open.spotify.com/track/1Ut95lm6Ydl5cxN1ExamOi) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [The Complete 1950's Masters \- Johnny Mathis](https://open.spotify.com/album/2kA1tewN9dZxnniJ3x5NG7) | 3:05 | 2013-06-12 |  |
 | [Baby Girl](https://open.spotify.com/track/0F4rlAo6JcczFGyr3l1HR6) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Whoa, Nelly! \[International Version \(UK Only\)\]](https://open.spotify.com/album/08hjab68q57U6XhLqk4Cu3) | 3:46 | 2013-06-12 |  |
-| [Baby Girl](https://open.spotify.com/track/7KSKBd07ewDUmjVng2WaMb) | [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3) | [Playtime Is Over](https://open.spotify.com/album/1Bzb6tlpnxrEwajQDM361B) | 2:42 | 2013-06-12 |  |
+| [Baby Girl](https://open.spotify.com/track/7KSKBd07ewDUmjVng2WaMb) | [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3) | [Playtime Is Over](https://open.spotify.com/album/1Bzb6tlpnxrEwajQDM361B) | 0:29 | 2013-06-12 |  |
 | [Baby Mine](https://open.spotify.com/track/1eRCRCO4IdkxHzdqVjUKQ3) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [A Hundred Miles or More: A Collection](https://open.spotify.com/album/01IjKv7DKoXKVI8wS0TLpU) | 3:35 | 2013-06-12 |  |
 | [Baby, I Love You](https://open.spotify.com/track/4CqfNNLTAO99k4vBBQRxZM) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Definitive Soul: Aretha Franklin](https://open.spotify.com/album/2TQwwjsqs7dsHWkzcTa36n) | 2:40 | 2013-06-12 |  |
-| [Born To Love](https://open.spotify.com/track/1B5JLFTP2IqHO5RbZgu9bJ) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [First Love \- 50 Hits](https://open.spotify.com/album/723W2Fu9VEqlF8dVhREBl2) | 2:38 | 2013-06-12 |  |
+| [Born To Love](https://open.spotify.com/track/1B5JLFTP2IqHO5RbZgu9bJ) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [First Love \- 50 Hits](https://open.spotify.com/album/723W2Fu9VEqlF8dVhREBl2) | 0:29 | 2013-06-12 |  |
 | [Daddy's Baby Girl](https://open.spotify.com/track/4lQ1ntNKWgDWK5YLcdGBM0) | [Jimmy Needham](https://open.spotify.com/artist/4yMGs8CtlMVF7RV2XU539m) | [Clear the Stage](https://open.spotify.com/album/1OXysRz4yKWPjeZFrAkOAe) | 3:06 | 2013-06-12 |  |
 | [Daddy's Little Girl](https://open.spotify.com/track/3DFRNxC3kROOKNT18i15Br) | [The Mills Brothers](https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha) | [The Hits Collection 1950](https://open.spotify.com/album/7GJLy632Hq1obJWb0SCZNu) | 2:55 | 2013-06-12 |  |
 | [Daniel](https://open.spotify.com/track/6ewPNRMyIV475LyLARjQjM) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Mala](https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca) | 3:05 | 2013-06-12 |  |
@@ -33,7 +33,7 @@
 | [Pretty Eyed Baby](https://open.spotify.com/track/1iNjyEYPmxA3JF17OzmLHs) | [Baby Washington](https://open.spotify.com/artist/29afta7TiMlvY1fkgaFJcH) | [Soul Sisters Girl Power](https://open.spotify.com/album/1GFNuRo7Cit3U18XCaYLPA) | 2:20 | 2013-06-12 |  |
 | [Prodigal Daughter](https://open.spotify.com/track/19ERwzxmbvcWDWdwdqDOZG) | [Pearl and the Beard](https://open.spotify.com/artist/5R2aEHXvhpcbsL6tAJt5do) | [Killing the Darlings](https://open.spotify.com/album/19tTbth3Il2QEnoirOGinC) | 2:32 | 2013-06-12 |  |
 | [Sofia](https://open.spotify.com/track/6CiKKl0pCZ1nEWKmDHKAlf) | [Michel Teló](https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA) | [Maria \(Versões de P \- Z\)](https://open.spotify.com/album/75WIZlS4xT0yHTMwpG4dPA) | 3:06 | 2013-06-12 |  |
-| [The Makings Of You](https://open.spotify.com/track/3H9Xxl4vitt2XgzZLrDyDB) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [The Anthology 1961\-1977](https://open.spotify.com/album/0qvxVXv3xnLJT4iUDATxVk) | 3:43 | 2013-06-12 |  |
+| [The Makings Of You](https://open.spotify.com/track/3H9Xxl4vitt2XgzZLrDyDB) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [The Anthology 1961\-1977](https://open.spotify.com/album/0qvxVXv3xnLJT4iUDATxVk) | 0:29 | 2013-06-12 |  |
 | [This Little Girl of Mine](https://open.spotify.com/track/1lHnGHEMoV31piUsLyM3mn) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Genius, Vol\. 2](https://open.spotify.com/album/3h9CC5eXsKd3Q2ym9upTVn) | 2:36 | 2013-06-12 |  |
 | [Turn Around](https://open.spotify.com/track/04e8lZDwgyiC3a4SYb8RdQ) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Last Time I Saw Him \(Expanded Edition\)](https://open.spotify.com/album/25b5PnuHsPiZqZj6gp6ye2) | 2:25 | 2013-06-12 |  |
 | [When My Little Girl Is Smiling](https://open.spotify.com/track/0RFxiywADCtJrpnWCjRXP5) | [Craig Douglas](https://open.spotify.com/artist/2B52XDLCjJiYiEjtBeeOD0) | [The Songs of Carole King](https://open.spotify.com/album/0OX19x2M0o3SeHaPdWtpy8) | 2:15 | 2013-06-12 |  |

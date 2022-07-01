@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with BLVK JVCK.
 
-280 songs - 16 hr 45 min - [published](https://open.spotify.com/playlist/4rpEmms9tZIvfVOnRe39hU)
+280 songs - 16 hr 42 min - [published](https://open.spotify.com/playlist/4rpEmms9tZIvfVOnRe39hU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Guilty](https://open.spotify.com/track/1ZxXGPR6WgTuUzvvExUomd) | [Synymata](https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC), [VARI](https://open.spotify.com/artist/3cWBRCln1EAqNqI7E0wMlA), [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH) | [Guilty](https://open.spotify.com/album/4YdooPYFoutH5LanHDFS3I) | 4:41 | 2022-02-18 |  |
 | [Gummy Worm \(feat\. Boogie T\)](https://open.spotify.com/track/3CvIbxdih7XqVgtoRmYMAq) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Boogie T](https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY) | [FRACTALS](https://open.spotify.com/album/7hQEgIcLdBAkdyvMnC6DNI) | 4:03 | 2022-05-20 |  |
 | [Happy Where We Are](https://open.spotify.com/track/1pq2CUdMBkl5MX7aDm5Twj) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX), [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF) | [Happy Where We Are](https://open.spotify.com/album/5o2HQx2gn126dQ0RCYQUsF) | 5:20 | 2021-12-17 | 2022-02-19 |
-| [Here For You](https://open.spotify.com/track/1MKqVGJElkzGwG3MidkwNI) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V) | [Here For You](https://open.spotify.com/album/3JGqBNtMILRIPmLTbyqusL) | 3:41 | 2021-12-17 |  |
+| [Here For You](https://open.spotify.com/track/1MKqVGJElkzGwG3MidkwNI) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V) | [Here For You](https://open.spotify.com/album/3JGqBNtMILRIPmLTbyqusL) | 0:29 | 2021-12-17 |  |
 | [Here With Me](https://open.spotify.com/track/6qLM7FY8SPWYIyKKhzzVO0) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [Here With Me](https://open.spotify.com/album/0MrSLoHEtnWYFmg38SSnjN) | 3:43 | 2021-12-17 | 2022-02-19 |
 | [HI\-TECH](https://open.spotify.com/track/1HCR9P0ZqA91ylnfJiT4c2) | [1788\-L](https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN) | [HI\-TECH](https://open.spotify.com/album/2cwfGnDOTg6CjVCkwOHGkH) | 2:48 | 2021-12-17 | 2022-03-12 |
 | [HIGH VIBRATIONS](https://open.spotify.com/track/4DBessCobMSYVbwLPMKyiS) | [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [HIGH VIBRATIONS](https://open.spotify.com/album/6YZ3M6gH49cRT92zBUZxMw) | 4:40 | 2021-12-17 | 2022-01-08 |

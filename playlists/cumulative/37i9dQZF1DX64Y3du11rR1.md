@@ -4,7 +4,7 @@
 
 > Acoustic covers of sad songs.
 
-90 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/3UOxMZybHjvo9OE7cF0Mll)
+90 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/3UOxMZybHjvo9OE7cF0Mll)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Bad Liar](https://open.spotify.com/track/7vg5fesQdq5I7Z7XGdyJd5) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [Bad Liar](https://open.spotify.com/album/6lumYymEx5DCyt7VEL4QlF) | 3:46 | 2021-12-22 |  |
 | [Be Alright](https://open.spotify.com/track/4r4aTOJc7K3iUIU3MEPw6I) | [Lola Rhodes](https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O) | [Be Alright](https://open.spotify.com/album/58YyhehZ9ErbmrMbzNkPx4) | 3:00 | 2021-12-22 |  |
 | [Believe](https://open.spotify.com/track/2xdQMKQ0ZO1O6WtAImKmYK) | [Ben & Tim](https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv) | [Believe](https://open.spotify.com/album/69nguqg69B4l4CnSHlQpzJ) | 3:02 | 2021-12-22 |  |
-| [Boulevard of Broken Dreams](https://open.spotify.com/track/05Pe2omHaIQtDAehonNlMX) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [Boulevard of Broken Dreams](https://open.spotify.com/album/0ARtwfvEYUKoVbCXdw7wb5) | 3:10 | 2022-06-15 |  |
+| [Boulevard of Broken Dreams](https://open.spotify.com/track/05Pe2omHaIQtDAehonNlMX) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [Boulevard of Broken Dreams](https://open.spotify.com/album/0ARtwfvEYUKoVbCXdw7wb5) | 0:29 | 2022-06-15 |  |
 | [Bullet Proof ..\. I Wish I Was](https://open.spotify.com/track/0UXRwWWIdPPpIuSyxUHv4Y) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Bullet Proof ..\. I Wish I Was / Sulk](https://open.spotify.com/album/3KTCSqDor8yIf6ZOVn3ICt) | 2:58 | 2021-12-22 | 2022-05-05 |
 | [Call Out My Name](https://open.spotify.com/track/4BBWuMf6GDi5c42AeCZKNt) | [Nef Medina](https://open.spotify.com/artist/1x9aBTOQP8VjLBgKVm81K6) | [All Acoustic](https://open.spotify.com/album/6RkbbiyYYYLOMFsZnWxElY) | 4:53 | 2021-12-22 |  |
 | [Cannonball](https://open.spotify.com/track/3zU6Sm45Jpd3uaI8sFnT8c) | [Chlara](https://open.spotify.com/artist/39rKElzF7q6K4O2flycSEc) | [\#acousticNOW5](https://open.spotify.com/album/3mCzvH0RCKiZft5aZClNNU) | 3:55 | 2021-12-22 |  |
