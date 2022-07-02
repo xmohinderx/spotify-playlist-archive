@@ -4,7 +4,7 @@
 
 > La casa dello street rap italiano\. Cover: Neima Ezza
 
-97 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/2xFrA1gU60YSyblsw3BI3i)
+97 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/2xFrA1gU60YSyblsw3BI3i)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Shakerando](https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Shakerando](https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ) | 3:15 | 2022-05-11 | 2022-06-10 |
 | [Shoot \(feat\. Sacky, Gazo, Nko\)](https://open.spotify.com/track/3pD4RJBwle4AmBi4xnI1qS) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [Shoot \(feat\. Sacky, Gazo, Nko\)](https://open.spotify.com/album/2ZTzIdgMFCFRYDd2OPc9cW) | 3:20 | 2022-05-11 | 2022-05-13 |
 | [Silenzioso](https://open.spotify.com/track/6LwupnM2Cd5bvKcegSXBWF) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Tempoxso](https://open.spotify.com/artist/1iVTp6WbD6ajQlBHtGoOUq) | [Silenzioso](https://open.spotify.com/album/0wmn2eLaiFYf2qN57RcWgH) | 2:05 | 2022-06-09 | 2022-06-24 |
-| [Soldi Puliti](https://open.spotify.com/track/02OFJLIZuX5l0IKApndnkh) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Soldi Puliti](https://open.spotify.com/album/0EGdVToK2bi2arUQ1PWtY4) | 0:29 | 2022-05-11 |  |
+| [Soldi Puliti](https://open.spotify.com/track/02OFJLIZuX5l0IKApndnkh) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Soldi Puliti](https://open.spotify.com/album/0EGdVToK2bi2arUQ1PWtY4) | 2:39 | 2022-05-11 |  |
 | [SOLITE PARE \(feat\. tha Supreme & Sfera Ebbasta\)](https://open.spotify.com/track/3NbehQmQsyuN17EP7dW5mJ) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [tha Supreme](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [X2](https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ) | 3:31 | 2022-05-11 | 2022-05-27 |
 | [SPACCIATORE \(feat\. Gazo, Vale Pain, Keta, Nko\)](https://open.spotify.com/track/61CX76RLIHI1RELTfVT0mM) | [SEVEN 7oo](https://open.spotify.com/artist/1Hg2H3Z46P8lXECM8DYSpU), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Vale pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [SEVEN 7oo Mixtape](https://open.spotify.com/album/5oKyvhBZaVBPVWUxIhsLAG) | 2:46 | 2022-05-26 | 2022-06-03 |
 | [Star \(feat\. Shiva\)](https://open.spotify.com/track/4LC3IJxi0FnvPALxJ8k6zw) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 3:01 | 2022-05-11 |  |

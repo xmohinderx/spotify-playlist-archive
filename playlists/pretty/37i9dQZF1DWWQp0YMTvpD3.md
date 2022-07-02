@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 
 > Uplifting, slow House music to work or relax to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,504 likes - 92 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,588 likes - 92 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 | 14 | [Yorokobi](https://open.spotify.com/track/08Sx51inTGt5tDEDlJp7Qk) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Yorokobi](https://open.spotify.com/album/2VzGChOsOb9gswrj4lAnau) | 2:55 |
 | 15 | [Maze](https://open.spotify.com/track/3fG4uUJ8yTCfe9KHUQM45W) | [Sasupt](https://open.spotify.com/artist/1UZDqEZC20MLeXRrbhtWbq) | [Maze](https://open.spotify.com/album/0803IoVPGn37OTU19kKF7z) | 2:06 |
 | 16 | [Unchained](https://open.spotify.com/track/31NkeO3kP3dgl8WuFFkG3F) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Listen To Your Heart](https://open.spotify.com/album/0eFkUtvlR1uJ80fou4ngng) | 3:00 |
-| 17 | [Real](https://open.spotify.com/track/6mf0FKVO9qQyNXn3DV5Kza) | [Coquinio](https://open.spotify.com/artist/5HPcMVzRD40VXSDzv4WqyQ) | [Real](https://open.spotify.com/album/77biufhXX9hRRZ47SdIrXC) | 0:29 |
+| 17 | [Real](https://open.spotify.com/track/6mf0FKVO9qQyNXn3DV5Kza) | [Coquinio](https://open.spotify.com/artist/5HPcMVzRD40VXSDzv4WqyQ) | [Real](https://open.spotify.com/album/77biufhXX9hRRZ47SdIrXC) | 3:45 |
 | 18 | [Ukiyo](https://open.spotify.com/track/4P7y3tcPZ7RyEZQpOy4yhN) | [Iwo Ito](https://open.spotify.com/artist/7kBNArTDXvGZ4kR09ZV8bY) | [Ukiyo](https://open.spotify.com/album/4xAGiDW10vBNJrwK76xGfe) | 2:56 |
 | 19 | [Africa to the World](https://open.spotify.com/track/2SVPNYPAozCGQP4C7uhTqq) | [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ) | [Africa to the World](https://open.spotify.com/album/5DHuZXoJiWYFbtqxRYDPH2) | 2:26 |
 | 20 | [Think It Through](https://open.spotify.com/track/5dQStS5S139vgcybY6gUJL) | [Billy Mccray](https://open.spotify.com/artist/2EqQ9FPklGoK7YmlJQ1qA4) | [Think It Through](https://open.spotify.com/album/5kqO9S5yFkV9x3FiqGFPA2) | 2:28 |
-| 21 | [The Ghost in Your Smile](https://open.spotify.com/track/63FttXBXFyghH7q9CVIjcW) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [The Ghost in Your Smile](https://open.spotify.com/album/3XanT5R6MH4AeDbSn5hJVa) | 0:29 |
+| 21 | [The Ghost in Your Smile](https://open.spotify.com/track/63FttXBXFyghH7q9CVIjcW) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [The Ghost in Your Smile](https://open.spotify.com/album/3XanT5R6MH4AeDbSn5hJVa) | 3:14 |
 | 22 | [In This Together](https://open.spotify.com/track/6I7lRMp9DcBxWQkUVY7kRW) | [Cedric Mercute](https://open.spotify.com/artist/09WaGi6h0LCbBFdKsjBMdk) | [In This Together](https://open.spotify.com/album/3HZMaVLmEIXqSNjhsTjrmD) | 2:49 |
 | 23 | [Fly Away](https://open.spotify.com/track/6DJxApYHiBvNG9kJe94r4z) | [Luca](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4) | [Fly Away](https://open.spotify.com/album/2GOKji1DkqfhO7SqImkSoN) | 2:52 |
 | 24 | [Sleep Online](https://open.spotify.com/track/4njORatgD4DQOZsgio3Wiq) | [Barbatula](https://open.spotify.com/artist/7hn07YGWIDqLjXljHGI6t9) | [Sungaze](https://open.spotify.com/album/1qHZRhAkC4JTXgYVi8LUXT) | 4:06 |
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 | 29 | [Summer Daze](https://open.spotify.com/track/6IicRTrwqlLmP0d3s5cFra) | [Kev Twine](https://open.spotify.com/artist/00LMt4rvi6xkahRJ8UVKDU) | [Summer Daze](https://open.spotify.com/album/7IMNPhTvyJ524UefN6aTQW) | 2:19 |
 | 30 | [Woodland](https://open.spotify.com/track/7hHrKHSTH6QFoKWl4xdZhx) | [Werlie](https://open.spotify.com/artist/6KQ7zOmEoEm2tgJsoYq55x) | [Woodland](https://open.spotify.com/album/3jeXBKbRQdPtQm924oDr4t) | 3:37 |
 | 31 | [Alla Prima](https://open.spotify.com/track/5qIGheFvtMbdmffqHvaBvV) | [Voodulce](https://open.spotify.com/artist/0oaRcSFPFh6FaAgZjSVYfr) | [Viridian](https://open.spotify.com/album/5kfojidGkqgfaHxyr2Gbvi) | 4:35 |
-| 32 | [You'll be Mine](https://open.spotify.com/track/2aptkMenBc4SkIS6vcIOID) | [DJ ZeeZee](https://open.spotify.com/artist/6vjAwcOZNHp71G8mYs2yUg) | [You'll Be Mine](https://open.spotify.com/album/1mFM3IJ59RI8W7zjYKoxA4) | 0:29 |
+| 32 | [You'll be Mine](https://open.spotify.com/track/2aptkMenBc4SkIS6vcIOID) | [DJ ZeeZee](https://open.spotify.com/artist/6vjAwcOZNHp71G8mYs2yUg) | [You'll Be Mine](https://open.spotify.com/album/1mFM3IJ59RI8W7zjYKoxA4) | 3:49 |
 | 33 | [Becoming True](https://open.spotify.com/track/3wm0X0vHD5IqEwZP8ND2kR) | [Eneko Artola](https://open.spotify.com/artist/3Q3pmaIKRKXh2e0g4A4Xpc) | [Becoming True](https://open.spotify.com/album/5hPgEH2bFnsZXUw4gFn3nP) | 2:58 |
 | 34 | [This Life \- Y.V.E\. 48 Remix](https://open.spotify.com/track/1tfVM4uwraShkT3vPClGcq) | [PINES](https://open.spotify.com/artist/3SL3PIAghJvyjrCZkZQXhZ), [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [This Life \(Y.V.E\. 48 Remix\)](https://open.spotify.com/album/2togNluo2gMQRkkWOOnum2) | 2:29 |
 | 35 | [They Do Exist](https://open.spotify.com/track/656iCGkgKBbDxvFs5EfzGK) | [Cerulean Skies](https://open.spotify.com/artist/5sB2GLv1x8cuwPyLnCHI9Z) | [They Do Exist](https://open.spotify.com/album/48I1k8R1X9Psk5XTrVDT2u) | 4:49 |
-| 36 | [Stick With U](https://open.spotify.com/track/2JquddjybdDlgVbOddsp3B) | [Kaan Pars](https://open.spotify.com/artist/6Cubdky3Aaaaxc3sn5C32N), [jfarr](https://open.spotify.com/artist/2CzqsCETQ20DPjcoRvVvaj) | [Stick With U](https://open.spotify.com/album/6D65CQ4A2LiCHY4HiZbP66) | 0:29 |
+| 36 | [Stick With U](https://open.spotify.com/track/2JquddjybdDlgVbOddsp3B) | [Kaan Pars](https://open.spotify.com/artist/6Cubdky3Aaaaxc3sn5C32N), [jfarr](https://open.spotify.com/artist/2CzqsCETQ20DPjcoRvVvaj) | [Stick With U](https://open.spotify.com/album/6D65CQ4A2LiCHY4HiZbP66) | 2:44 |
 | 37 | [Peyote](https://open.spotify.com/track/2UogGmSbe5uiGVJSoe3PcS) | [Beyhude](https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo) | [Peyote](https://open.spotify.com/album/0Z90edv3cnFePD7TkayWkb) | 3:48 |
 | 38 | [Nevada](https://open.spotify.com/track/3gCskbRL90fyXnTg6kNaUu) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Late Sun](https://open.spotify.com/album/1JGBUKbvb8xKBddvKP0ASW) | 6:03 |
 | 39 | [Free Form](https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Wave002](https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU) | 2:47 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 | 49 | [Dreams](https://open.spotify.com/track/3WnsrngoR8opauzEOnYXVJ) | [DJ ZeeZee](https://open.spotify.com/artist/6vjAwcOZNHp71G8mYs2yUg) | [Dreams](https://open.spotify.com/album/2b2uUCQBke5wtPskEnyzYP) | 3:42 |
 | 50 | [Heart On Fire](https://open.spotify.com/track/2v1GOkolx37zgMzwNBf9FG) | [Ingbrit](https://open.spotify.com/artist/1oqi1KuDH3koFICALPltAS) | [Heart On Fire](https://open.spotify.com/album/2J5jKANI4Taz8H9N5qKTuN) | 2:28 |
 | 51 | [Tinocle](https://open.spotify.com/track/0lf1B7OfNZ7RwXj3lLPQx3) | [Ralf](https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR) | [Drine](https://open.spotify.com/album/2gDEjivLQAHFzY7OdUgy5n) | 3:34 |
-| 52 | [Mare](https://open.spotify.com/track/6O56ptIydjWtGtQsQrEcfu) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Mare](https://open.spotify.com/album/5kMArzwEAveUKeNZZd5dNi) | 0:29 |
+| 52 | [Mare](https://open.spotify.com/track/6O56ptIydjWtGtQsQrEcfu) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Mare](https://open.spotify.com/album/5kMArzwEAveUKeNZZd5dNi) | 2:41 |
 | 53 | [Hydralove](https://open.spotify.com/track/7DDKbLDOseP6AAw1yj78W6) | [Jade Shade](https://open.spotify.com/artist/7Ilefc5kqmjsXyPdNExIt3) | [Hydralove](https://open.spotify.com/album/555BCXEOB1b412Bs6PhxrX) | 3:26 |
 | 54 | [Passion Dance](https://open.spotify.com/track/1pYGDlPoRvrV5wSUjDdAEW) | [Beechy Hayze](https://open.spotify.com/artist/0ayMvt8eo6a2HQwnu2q9Mi) | [Passion Dance](https://open.spotify.com/album/500ExojY2lcDHP6GGvrelw) | 3:38 |
 | 55 | [Yama](https://open.spotify.com/track/5S94oJQP87jbUfsDZ2uj4h) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Kantan](https://open.spotify.com/album/0EsACGm8MKS86WzhvWUV2K) | 3:13 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 | 87 | [Lifeless Major](https://open.spotify.com/track/7n9n0v33mqEMniNMTmxv1J) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Lifeless Major](https://open.spotify.com/album/2lV37OXeIK3GBP5vTAevLp) | 2:46 |
 | 88 | [Lujo](https://open.spotify.com/track/3eFYzQjpnwDWl2ThvF1rgI) | [DJ Duboise](https://open.spotify.com/artist/4rrvVP1Aeax1bAcLYpCBCN) | [Lujo](https://open.spotify.com/album/1oaJFXlAaPf1seL59yGGb7) | 2:37 |
 | 89 | [Hot Sand](https://open.spotify.com/track/3QwAIXZNTwWCGQCB1Mq25D) | [Neon Zebra](https://open.spotify.com/artist/6wql856Fi2nCHEqpdCGiUq), [Johannes Jungleson](https://open.spotify.com/artist/7ofvDzzumewLcN4apfxAxS) | [Summer Thoughts](https://open.spotify.com/album/6aeUpiVY8eoW8L4OA7lFBg) | 2:56 |
-| 90 | [Shades of Purple](https://open.spotify.com/track/6HhgIkDQuAnBDIhBzF8qkj) | [Johannes Jungleson](https://open.spotify.com/artist/7ofvDzzumewLcN4apfxAxS), [Mia Mare](https://open.spotify.com/artist/1ipQqTFEzS2eS1ZFvgen8r) | [Sunrise to Sunset](https://open.spotify.com/album/7HFihb6S7u5tKSjoL92Tfp) | 0:29 |
+| 90 | [Shades of Purple](https://open.spotify.com/track/6HhgIkDQuAnBDIhBzF8qkj) | [Johannes Jungleson](https://open.spotify.com/artist/7ofvDzzumewLcN4apfxAxS), [Mia Mare](https://open.spotify.com/artist/1ipQqTFEzS2eS1ZFvgen8r) | [Sunrise to Sunset](https://open.spotify.com/album/7HFihb6S7u5tKSjoL92Tfp) | 2:49 |
 | 91 | [Your Type](https://open.spotify.com/track/2opemWX71oebOvol9at15T) | [Chullo](https://open.spotify.com/artist/2qmnnOcCrlxJjgZOQcFbjH) | [Your Type](https://open.spotify.com/album/3CpL725jrZokuSmI7KMtLH) | 2:09 |
 | 92 | [Nocturne](https://open.spotify.com/track/03vZMNnBKCtR79aOvCnwzf) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x) | [Nocturne](https://open.spotify.com/album/1X3hAhpKf9B1Vf6HSfEfyQ) | 2:02 |
 
-Snapshot ID: `MTY1NjYzMzYwMCwwMDAwMDA2OTAwMDAwMTgxYjcwZWE4Y2MwMDAwMDE3ZWU5YTlmZjhk`
+Snapshot ID: `MTY1NjY2OTYzMiwwMDAwMDA2YTAwMDAwMTgxYjkzNDc5MDEwMDAwMDE4MWI5MzQyN2Ri`

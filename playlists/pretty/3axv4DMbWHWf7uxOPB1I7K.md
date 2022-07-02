@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3axv4DMbWHWf7uxOPB1I7K.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 364 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 364 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/3axv4DMbWHWf7uxOPB1I7K.md) - [plain]
 | 18 | [Bohemian Rhapsody](https://open.spotify.com/track/4339TrijLVEhPLlbMrVsW4) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Classic Queen](https://open.spotify.com/album/34xkEvKDDSW28MU8ibNbzU) | 5:55 |
 | 19 | [Misty Blue](https://open.spotify.com/track/2lBilUJAUX9jCNbbpPRQDD) | [Dorothy Moore](https://open.spotify.com/artist/3KQOgtRIeQVHdYFcNHKavs) | [Misty Blue](https://open.spotify.com/album/40Xnv4EBnCB6m93JblGTAi) | 3:42 |
 | 20 | [Boogie Fever](https://open.spotify.com/track/5lDFRLalsBKoH5vS8q7sQh) | [The Sylvers](https://open.spotify.com/artist/0efkWb9xKhT6H0E7kgSjFK) | [Lost Hits Of The 70's \(All Original Artists & Versions\)](https://open.spotify.com/album/3AcwJqNT1LgZdTttHkoaZ0) | 3:28 |
-| 21 | [I'd Really Love to See You Tonight](https://open.spotify.com/track/51WE0PFRB0hCSp9mDC5p8u) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Rhino Hi\-Five: England Dan & John Ford Coley](https://open.spotify.com/album/40V7QExJNlpQZaxZf1JTF5) | 0:29 |
+| 21 | [I'd Really Love to See You Tonight](https://open.spotify.com/track/51WE0PFRB0hCSp9mDC5p8u) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Rhino Hi\-Five: England Dan & John Ford Coley](https://open.spotify.com/album/40V7QExJNlpQZaxZf1JTF5) | 2:39 |
 | 22 | [You Sexy Thing](https://open.spotify.com/track/304FV3RRqAn9iJIrN2kE0C) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Love To Love](https://open.spotify.com/album/6AbPhbIJmobHvCx7yH8YM9) | 4:02 |
 | 23 | [Love Hurts \(from Dazed And Confused\) \(Re\-Recorded Version\)](https://open.spotify.com/track/55RlVvBcUVIAXpvG3LoIsz) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Rock In Movies](https://open.spotify.com/album/2tl2RhOhDZE8HaFsPmpIOU) | 3:51 |
 | 24 | [Get Up and Boogie \(That's Right\)](https://open.spotify.com/track/4hBqB9ggnSW1a68UVaKqua) | [Silver Convention](https://open.spotify.com/artist/5QHvbEwccF3WANUD5lEIuA) | [Silver Convention](https://open.spotify.com/album/4PbbYD1ElHiMUtCnjZwzR0) | 4:10 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/3axv4DMbWHWf7uxOPB1I7K.md) - [plain]
 | 42 | [Deep Purple](https://open.spotify.com/track/5q0CwoceMsA5pOdptSAtdO) | [Donny Osmond](https://open.spotify.com/artist/5ZEAzHE2TzAwUcOj6jMIgf), [Marie Osmond](https://open.spotify.com/artist/3ijY78RxOagYo8FOgSEkWj) | [20th Century Masters: The Millennium Collection: Best of Donny & Marie Osmond](https://open.spotify.com/album/6ywF3v0chlAEmj0xzPAIWM) | 2:47 |
 | 43 | [Theme From Mahogany \(Do You Know Where You're Going To\)](https://open.spotify.com/track/2yTC22G0DRaIeCpGi2JkWV) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Ultimate Collection: Diana Ross](https://open.spotify.com/album/5noU0f2NH1s9uBxKRIk3Jd) | 3:26 |
 | 44 | [Sweet Thing](https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Rufus Featuring Chaka Khan](https://open.spotify.com/album/3iWfRfxjYYQFN2Kvh3GuYX) | 3:20 |
-| 45 | [That's the Way I Like It](https://open.spotify.com/track/6q4WNR2hLjy57WkJ6kdUci) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [Shake Your Booty](https://open.spotify.com/album/2BJL2ppNKnjuuYYzyrKVMT) | 0:29 |
+| 45 | [That's the Way I Like It](https://open.spotify.com/track/6q4WNR2hLjy57WkJ6kdUci) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [Shake Your Booty](https://open.spotify.com/album/2BJL2ppNKnjuuYYzyrKVMT) | 3:05 |
 | 46 | [A Little Bit More \- Single Version](https://open.spotify.com/track/4QWJPSWldf2DuEeE24Ih5N) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Greatest Hits](https://open.spotify.com/album/0gC5d1rbDIOAx4OR5pG4MW) | 3:14 |
 | 47 | [Shannon](https://open.spotify.com/track/4IYoyOVK9oQyJS1QZt5Vyj) | [Henry Gross](https://open.spotify.com/artist/3u2E9OhKS2vkxi08itc25a) | [Release](https://open.spotify.com/album/5KoWyVRECXH3IYrGuF4oza) | 3:53 |
 | 48 | [If You Leave Me Now](https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago X](https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P) | 3:55 |

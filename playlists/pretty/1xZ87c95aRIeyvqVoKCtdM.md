@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1xZ87c95aRIeyvqVoKCtdM.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 361 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 361 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/1xZ87c95aRIeyvqVoKCtdM.md) - [plain]
 | 46 | [I’d Wait A Million Years](https://open.spotify.com/track/0K9w15EV7WixyQOPPSxsjE) | [The Grass Roots](https://open.spotify.com/artist/2IU5UBup85LmAXh5U36DeC) | [Cruisin' To The Hits Of The '50s & '60s](https://open.spotify.com/album/5hYsVAaeg5K69gsiqn9Lt4) | 2:49 |
 | 47 | [Touch Me \- New Stereo Mix](https://open.spotify.com/track/2sujv9FsfbD0mLOjTkFRnq) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Future Starts Here: The Essential Doors Hits](https://open.spotify.com/album/3OIjlStgBVQfGjkiftDAZp) | 3:12 |
 | 48 | [More Today Than Yesterday](https://open.spotify.com/track/4UOWkmOtb3DgMaSmI8rTaC) | [The Spiral Starecase](https://open.spotify.com/artist/7yICbxtb8buBAJECvQbRPb) | [More Today Than Yesterday](https://open.spotify.com/album/2QDy2Qhxc5r1XlLRpNF18f) | 3:08 |
-| 49 | [I've Gotta Be Me](https://open.spotify.com/track/4chNWMOlNGEWqR9dP6TDMb) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [The Essentials: Sammy Davis Jr.](https://open.spotify.com/album/2GLDjgO2lTU2sMoAEgMPtw) | 0:29 |
+| 49 | [I've Gotta Be Me](https://open.spotify.com/track/4chNWMOlNGEWqR9dP6TDMb) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [The Essentials: Sammy Davis Jr.](https://open.spotify.com/album/2GLDjgO2lTU2sMoAEgMPtw) | 2:54 |
 | 50 | [Lay, Lady, Lay](https://open.spotify.com/track/4uYwlMp841PLJmj1gJJwIq) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Nashville Skyline](https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN) | 3:17 |
 
 Snapshot ID: `Nyw4OTEyMDU4NzM1ZmQwZDkyOWVjMTk5ZTU1MGVjNzAxY2MyYzllNGQ2`

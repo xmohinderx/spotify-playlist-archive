@@ -4,7 +4,7 @@
 
 > Esta selección musical se te hará agua la boca.
 
-75 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/4GFgtQ6muqwEA78cKiRjck)
+75 songs - 4 hr 21 min - [published](https://open.spotify.com/playlist/4GFgtQ6muqwEA78cKiRjck)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [La Marea](https://open.spotify.com/track/4j0A2PMXd33JklSoFyGvKV) | [Marilia Monzón](https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93) | [La Marea](https://open.spotify.com/album/12IhC2r05joOiX66su3YCo) | 3:12 | 2022-04-20 |  |
 | [La Ola](https://open.spotify.com/track/2xi5RFdO9KqA5RFK8TDKGp) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [La Ola](https://open.spotify.com/album/7w1110HqfVqgHYXKHdfb4v) | 3:23 | 2022-04-20 |  |
 | [La Sombra](https://open.spotify.com/track/3monG9SQApxiOwivspTANk) | [Chesdana](https://open.spotify.com/artist/1PobiDleeGFCqJgRVvX9DY) | [La Sombra](https://open.spotify.com/album/1byXfg4uGQecfZKo9AjziF) | 3:46 | 2022-04-20 |  |
-| [Las Águilas](https://open.spotify.com/track/4LNsqgWGv3rXkOhzsBbe1v) | [Cecy Leos](https://open.spotify.com/artist/7Isargq7sZZ8hTbIx9yNsi) | [Las Águilas](https://open.spotify.com/album/363ShldiEBqfCFS9IKiJ12) | 0:29 | 2022-04-20 |  |
+| [Las Águilas](https://open.spotify.com/track/4LNsqgWGv3rXkOhzsBbe1v) | [Cecy Leos](https://open.spotify.com/artist/7Isargq7sZZ8hTbIx9yNsi) | [Las Águilas](https://open.spotify.com/album/363ShldiEBqfCFS9IKiJ12) | 3:02 | 2022-04-20 |  |
 | [Lento](https://open.spotify.com/track/1qjNi3E0y1RH7kTCK43W26) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [\(un poco + de\) FE](https://open.spotify.com/album/7JwkZdvu1ffUBOrrhuWIuZ) | 3:24 | 2022-04-20 |  |
 | [Leve](https://open.spotify.com/track/2QzlIYi5Bs9UodXVINbe7v) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Leve EP](https://open.spotify.com/album/3JLXfqgR8hZ97jkm51lAuh) | 2:54 | 2022-04-20 |  |
 | [Lo Calore](https://open.spotify.com/track/4MNEidJajMDoyP8EXwnF7j) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Lo Calore](https://open.spotify.com/album/2kbryqpDcmiro6AORkdNYC) | 3:56 | 2022-04-20 |  |

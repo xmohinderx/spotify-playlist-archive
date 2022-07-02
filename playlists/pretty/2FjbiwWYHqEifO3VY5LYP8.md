@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/2FjbiwWYHqEifO3VY5LYP8.md) - [plain]
 
 > A toast to all the artists who will be performing on New Year&\#x27;s Eve across the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64 likes - 41 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 64 likes - 41 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fancy](https://open.spotify.com/track/3oiMJQAWVaxSubJ7b2VUtX) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [The New Classic \(Deluxe Version\)](https://open.spotify.com/album/5kfo2COwQYeYR3cE69aSgx) | 3:19 |
-| 2 | [All About That Bass](https://open.spotify.com/track/1q676iYDR3GeJtOHdyggIU) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title](https://open.spotify.com/album/23T52TnvD0UqLRsuRHHAHA) | 0:29 |
+| 2 | [All About That Bass](https://open.spotify.com/track/1q676iYDR3GeJtOHdyggIU) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title](https://open.spotify.com/album/23T52TnvD0UqLRsuRHHAHA) | 3:07 |
 | 3 | [Anaconda](https://open.spotify.com/track/5a5so8nqDGq75MI5WMbBtT) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Anaconda](https://open.spotify.com/album/1pxED0aW8v0PpojjpJQUkC) | 4:20 |
 | 4 | [Fireball \(feat\. John Ryan\)](https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [John Ryan](https://open.spotify.com/artist/3s73tswJycj6HTBNNN393z) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:56 |
 | 5 | [Ghost](https://open.spotify.com/track/2FiceoWDJ67rrmb5tGBpgE) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Ghost](https://open.spotify.com/album/6MAEuDumUgxsWaEWA6lddg) | 3:36 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/2FjbiwWYHqEifO3VY5LYP8.md) - [plain]
 | 14 | [Me And My Broken Heart](https://open.spotify.com/track/41Ypl7Pzkod2H0VlcZH5DS) | [Rixton](https://open.spotify.com/artist/0kkxsdcaWmWU2yWAqclDh4) | [Me And My Broken Heart](https://open.spotify.com/album/6k7EWexxCDzvRMecFJj8CY) | 3:13 |
 | 15 | [L.A.LOVE \(la la\)](https://open.spotify.com/track/4RZMYKoQiDH27kh6UoIrI2) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G) | [L.A.LOVE \(la la\)](https://open.spotify.com/album/2sr4zoEQAje77BoGFwrCRT) | 3:12 |
 | 16 | [BO$$](https://open.spotify.com/track/6rXcizzkBRUeExD57bALen) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [BO$$](https://open.spotify.com/album/1R2prHq7IRSRTzhMJz7I6w) | 2:51 |
-| 17 | [Jealous](https://open.spotify.com/track/2woCw59DHRIb1vcyQ2a7Ca) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Nick Jonas \(Deluxe\)](https://open.spotify.com/album/4jd7U6ca3Ew6JYpbjFauxj) | 0:29 |
+| 17 | [Jealous](https://open.spotify.com/track/2woCw59DHRIb1vcyQ2a7Ca) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Nick Jonas \(Deluxe\)](https://open.spotify.com/album/4jd7U6ca3Ew6JYpbjFauxj) | 3:43 |
 | 18 | [Steal My Girl](https://open.spotify.com/track/2Bs4jQEGMycglOfWPBqrVG) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:48 |
 | 19 | [Boom Clap](https://open.spotify.com/track/113sWqjcYyjbb4caE8wVsV) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/4UWPrrDdzEsdMUDzYM8FC6) | 2:49 |
 | 20 | [Rather Be \(Clean Bandit Cover\)](https://open.spotify.com/track/4hxemf0pE0mSzubgsfRLWu) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTX, Vol\. III](https://open.spotify.com/album/32y54TelUHSUDWVOx4h1B4) | 3:32 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/2FjbiwWYHqEifO3VY5LYP8.md) - [plain]
 | 25 | [Sun Daze](https://open.spotify.com/track/0El2Zyt68nYySFDG87hZgM) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Anything Goes](https://open.spotify.com/album/5NG7WZaCZZ12M5LJm0JcVc) | 3:04 |
 | 26 | [If I Die Young](https://open.spotify.com/track/4u26EevCNXMhlvE1xFBJwX) | [The Band Perry](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) | [The Band Perry](https://open.spotify.com/album/3dASAcs9QOsmoSLhHjEhCu) | 3:42 |
 | 27 | [You Don't Know Her Like I Do](https://open.spotify.com/track/4WnY4W5KrqglCdIus8X9Bo) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Halfway To Heaven \(Deluxe Edition\)](https://open.spotify.com/album/3yWeEEaC5xs7FgzwRgjm1p) | 4:46 |
-| 28 | [Chains](https://open.spotify.com/track/5OfgGVovaV6pd9kQZUSRP7) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Nick Jonas \(Deluxe\)](https://open.spotify.com/album/4jd7U6ca3Ew6JYpbjFauxj) | 0:29 |
+| 28 | [Chains](https://open.spotify.com/track/5OfgGVovaV6pd9kQZUSRP7) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Nick Jonas \(Deluxe\)](https://open.spotify.com/album/4jd7U6ca3Ew6JYpbjFauxj) | 3:23 |
 | 29 | [Yours](https://open.spotify.com/track/3tIn65d1tiqGLPWatVgG22) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Yours](https://open.spotify.com/album/4znlcYQXxUuXeC2khQf88h) | 2:52 |
 | 30 | [50 Ways to Say Goodbye](https://open.spotify.com/track/2NniAhAtkRACaMeYt48xlD) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [California 37](https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1) | 4:07 |
 | 31 | [Where Do Broken Hearts Go](https://open.spotify.com/track/6HFywc5eQYRRYHYTatCb5Y) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:49 |

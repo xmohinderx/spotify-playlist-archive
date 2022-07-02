@@ -4,7 +4,7 @@
 
 > Be an ear\-witness to the music that gave birth to Country, Pop and Rock.
 
-63 songs - 2 hr 25 min - [published](https://open.spotify.com/playlist/49TY9RElDGcRdKuxPFwwYQ)
+63 songs - 2 hr 30 min - [published](https://open.spotify.com/playlist/49TY9RElDGcRdKuxPFwwYQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Big River](https://open.spotify.com/track/6tSlcd8gcp3XGstYNhL3It) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Johnny Cash at Sun](https://open.spotify.com/album/2Uu2hccRmXc9NyUNzwRpXT) | 2:31 | 2020-10-11 |  |
 | [Bip Bop Boom](https://open.spotify.com/track/7bkKBLFDN1hXXeSBdnpWUz) | [Mickey Hawks](https://open.spotify.com/artist/4w3hEoIQ1lXTz8bvOasZ9r) | [Bip Bop Boom](https://open.spotify.com/album/7x2mwvzhicAKaev9ufnjIG) | 1:38 | 2020-10-11 |  |
 | [Bird Dog \(Single Version\)](https://open.spotify.com/track/5OqpBsJQ45wuPJSDORXgkX) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [All I Have to Do Is Dream](https://open.spotify.com/album/7Dzfcj8tp9CUmkD6kXAqcb) | 2:17 | 2020-10-11 |  |
-| [Blue Suede Shoes](https://open.spotify.com/track/6YMYrOPAIKah6RHOkPP0oS) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [A\-Sides](https://open.spotify.com/album/6dknVJxHPNrsFkbQRU980y) | 0:29 | 2020-10-11 |  |
+| [Blue Suede Shoes](https://open.spotify.com/track/6YMYrOPAIKah6RHOkPP0oS) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [A\-Sides](https://open.spotify.com/album/6dknVJxHPNrsFkbQRU980y) | 2:16 | 2020-10-11 |  |
 | [Bye Bye Love](https://open.spotify.com/track/6oRHRkQigTzJ3KwpO3XOV6) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:22 | 2020-10-11 |  |
 | [Can't Hardly Stand It](https://open.spotify.com/track/3ZVOIu02drSOsMf6gLE31J) | [Charlie Feathers](https://open.spotify.com/artist/2EcNV0nlF6f6ZDtJJG2vKN) | [Kill Bill Vol\. 2 Original Soundtrack](https://open.spotify.com/album/0yrK3jKRexjtP4CRdYizjs) | 2:48 | 2020-10-11 |  |
 | [Chantilly Lace](https://open.spotify.com/track/63KLP5dmcQmby6KJQ6ueMd) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Classic Country Gold](https://open.spotify.com/album/7fpp1Q64fGPj0XXXh92ovu) | 2:49 | 2020-10-11 |  |
@@ -40,7 +40,7 @@
 | [Lonesome For A Letter](https://open.spotify.com/track/6IchDdwrBdPdiuHG81H1V1) | [Sanford Clark](https://open.spotify.com/artist/3REqunOj76TSpw9f6eKON2) | [Rockabilly Classics](https://open.spotify.com/album/57iN9SJYBZ7CkbVYATSDLG) | 1:52 | 2020-10-11 |  |
 | [Lotta Lovin'](https://open.spotify.com/track/0ijKW319aVwVVDmFGU4rGC) | [Gene Vincent](https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx), [The Blue Caps](https://open.spotify.com/artist/5EmQT0A3VxQU0EiX0qhrCo) | [Capitol Collectors Series](https://open.spotify.com/album/72cDPStUoZJZxUbQ67cgO6) | 2:11 | 2020-10-11 |  |
 | [Matchbox](https://open.spotify.com/track/6m0AX3ehvl3dSmMIQvtjYy) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/6tmyqBnmU3ifbcDw5rZHfc) | 2:07 | 2020-10-11 |  |
-| [Maybe Baby](https://open.spotify.com/track/20UjAGdEjVb8DniNXvqHJy) | [Buddy Holly & The Crickets](https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l) | [The "Chirping" Crickets](https://open.spotify.com/album/1KfXNUbZrdwHMtkAGNBLBq) | 0:29 | 2020-10-11 |  |
+| [Maybe Baby](https://open.spotify.com/track/20UjAGdEjVb8DniNXvqHJy) | [Buddy Holly & The Crickets](https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l) | [The "Chirping" Crickets](https://open.spotify.com/album/1KfXNUbZrdwHMtkAGNBLBq) | 2:02 | 2020-10-11 |  |
 | [Mystery Train](https://open.spotify.com/track/0GvhHQbWSnGltjl0je61dI) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [For LP Fans Only](https://open.spotify.com/album/1NVsMlJgD5GHf0CT1IewbU) | 2:24 | 2020-10-11 |  |
 | [Oh Baby Babe \- Single Version](https://open.spotify.com/track/1lhSVCcPspFV7XAdvWSazI) | [Johnny Burnette & The Rock 'N' Roll Trio](https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58) | [Tear It Up: The Complete Legedary Coral Recordings](https://open.spotify.com/album/5EEZg4wJpSRVqRi1nxwKL6) | 2:20 | 2020-10-11 |  |
 | [One Cup of Coffee](https://open.spotify.com/track/1LYNjTxJTxBBw4MsXqsyI2) | [Glen Glenn](https://open.spotify.com/artist/4HA1v7Kj8foWKczaOUbxQx) | [The Glen Glenn Story / Everybody's Movin'](https://open.spotify.com/album/5a40qEki2iQ98NvaMnvglC) | 2:03 | 2020-10-11 |  |
@@ -54,7 +54,7 @@
 | [Ready Teddy](https://open.spotify.com/track/45IGv48KwuQa2n6JVxbsqH) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [Gold](https://open.spotify.com/album/5Okmxm0sMbAifTrTd2dTy2) | 1:31 | 2020-10-11 |  |
 | [Ready Teddy](https://open.spotify.com/track/5wbZ3sbWf4PppzZiRxkxou) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Here's Little Richard \(Deluxe Edition\)](https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8) | 2:06 | 2020-10-11 |  |
 | [Right Or Wrong](https://open.spotify.com/track/6yodxkUjWFbAE8VV4XkuDv) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [20 Rock 'N' Roll Hits](https://open.spotify.com/album/12uadrsBO9OStSXlXLV6cW) | 2:39 | 2020-10-11 |  |
-| [Rock & Roll Ruby](https://open.spotify.com/track/6xaCoxc3yqOEwqrHW7A3qT) | [Warren Smith](https://open.spotify.com/artist/3EPmCVUm7QNc1fSrLsXGq5) | [The Originals \- Classic Hits from the 50's & 60's](https://open.spotify.com/album/05wRON6KWMYqj8Mu2hcsFb) | 0:29 | 2020-10-11 |  |
+| [Rock & Roll Ruby](https://open.spotify.com/track/6xaCoxc3yqOEwqrHW7A3qT) | [Warren Smith](https://open.spotify.com/artist/3EPmCVUm7QNc1fSrLsXGq5) | [The Originals \- Classic Hits from the 50's & 60's](https://open.spotify.com/album/05wRON6KWMYqj8Mu2hcsFb) | 2:55 | 2020-10-11 |  |
 | [Rock Billy Boogie](https://open.spotify.com/track/4NazHwfKb4e9WSkFM2OC52) | [Johnny Burnette & The Rock 'N' Roll Trio](https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58) | [Johnny Burnette And The Rock 'N Roll Trio](https://open.spotify.com/album/0WDDlUimET7qIVjs0Sm3mM) | 2:36 | 2020-10-11 |  |
 | [Rock Pretty Mama](https://open.spotify.com/track/08SmrLq3o5AE5da5RYS9Ao) | [Billy Adams](https://open.spotify.com/artist/5Td4CSGGe0oCwVHN5yLzKR), [The Rock\-A\-Teers](https://open.spotify.com/artist/6H6IG1FKsPAj4YURz8qTFb) | [Nau Voo Rock and Roll](https://open.spotify.com/album/5ANuYdTAkqfyOrr1Ex9Gyk) | 2:11 | 2020-10-11 |  |
 | [Rocking Daddy](https://open.spotify.com/track/3C0ZwmtVVWu4Kr3jZQUyrr) | [Sonny Fisher](https://open.spotify.com/artist/610dsr0Z6BvX7oDf6S98vZ) | [De Nuevo Rock'n Roll Vol\. 2](https://open.spotify.com/album/05BBkukZpVtCYYv4oHVObJ) | 2:31 | 2020-10-11 |  |

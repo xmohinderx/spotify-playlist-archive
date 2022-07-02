@@ -4,7 +4,7 @@
 
 > The latest and greatest metal tracks\. Cover: Bleeding Through
 
-1,141 songs - 3 day 5 hr 23 min - [published](https://open.spotify.com/playlist/5OQh8wHAw9gXsKdDndokZX)
+1,143 songs - 3 day 5 hr 33 min - [published](https://open.spotify.com/playlist/5OQh8wHAw9gXsKdDndokZX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -577,6 +577,7 @@
 | [Leviathan](https://open.spotify.com/track/4hnpgtGXHlsfQGHBAfYj4x) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [Leviathan](https://open.spotify.com/album/7fbTDvnweDQXMW3YNdGgBS) | 4:34 | 2022-03-03 | 2022-03-11 |
 | [Levitate](https://open.spotify.com/track/4yJTpQEI4HBszHdV8H1xXa) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Levitate](https://open.spotify.com/album/5H3PYYAUuoV1Jz0Q3ERxKt) | 4:32 | 2022-03-03 | 2022-03-18 |
 | [Levitate](https://open.spotify.com/track/4DCGjvuX1VMmbVDifmv7ZO) | [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51), [Blush Response](https://open.spotify.com/artist/04EzrrhYAQ81Go4FJ0prtu) | [REVENGE](https://open.spotify.com/album/0zm3crxBzuAmMMuLLkGH4c) | 4:51 | 2022-01-14 | 2022-02-04 |
+| [License to Mosh](https://open.spotify.com/track/4fMMuL32N7XfbUkdA16P3e) | [Nathan James](https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS) | [License to Mosh](https://open.spotify.com/album/1eyQeaBkItaJb4euiPMRVf) | 2:31 | 2022-07-01 |  |
 | [Lie2Me](https://open.spotify.com/track/5Lj46byXVaSNMFGB0NkK08) | [Octopus Montage](https://open.spotify.com/artist/1fTRB21pCaxDms0xwplYiG) | [Lie2Me](https://open.spotify.com/album/4nr7TwAm9Nc0MU5QG631EW) | 3:04 | 2022-02-11 | 2022-02-18 |
 | [LIFE AINT HARD](https://open.spotify.com/track/6GjOPvUZC99bWmvyAAt69L) | [The Weight of Silence](https://open.spotify.com/artist/29HCeD9ogozu2kPPhGGgjd) | [LIFE AINT HARD](https://open.spotify.com/album/73KdWNwRL72BgJFAHfckm8) | 3:10 | 2022-06-10 | 2022-06-17 |
 | [Life Leaves A Scar](https://open.spotify.com/track/6Tf9nCC6ayeKT0RTrg1yTd) | [Tokyo Blade](https://open.spotify.com/artist/6F9tjDKhGtXlm9M4s30KD5) | [Fury](https://open.spotify.com/album/4hNR1pSugWsUOD9YW6LdM1) | 4:18 | 2022-01-21 | 2022-02-18 |
@@ -862,6 +863,7 @@
 | [Sign Of Life](https://open.spotify.com/track/73QoCfWJJWbRYmm5nCH5Y2) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World](https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh) | 3:40 | 2022-06-10 | 2022-06-17 |
 | [Silence](https://open.spotify.com/track/0k2j2pU6hlmwAcyJOh23gP) | [Ludovico Technique](https://open.spotify.com/artist/1QLq3DjHn8KdTfUig43wP1) | [Silence](https://open.spotify.com/album/5X5QHOIbS1UUhltCKNdBSr) | 4:18 | 2022-04-08 | 2022-04-22 |
 | [Silence Broken](https://open.spotify.com/track/4HcBbO8UMWfUyIv3IBrzYm) | [Hopes Die Last](https://open.spotify.com/artist/7lDZOczH1YscXoadzACAil) | [Silence Broken](https://open.spotify.com/album/4KEtxaz1yu7otXRzhwBPY6) | 3:56 | 2022-03-03 | 2022-03-11 |
+| [SILENCE THE WORLD](https://open.spotify.com/track/01Pair9pvTuMRBcKzpwJ2P) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH), [Tom S\. Englund](https://open.spotify.com/artist/1JlSPIWzXu3HwBgealhTIk) | [SILENCE THE WORLD](https://open.spotify.com/album/7oEjybhppczzGPKjbV8sTw) | 7:13 | 2022-07-01 |  |
 | [Silent Violence](https://open.spotify.com/track/699Qvy17XV2gAJYFhVSPHp) | [White Hills](https://open.spotify.com/artist/0ttvGAnfEC6KZLrljUdIyX) | [Silent Violence](https://open.spotify.com/album/3yXtbINya1szgrDzrROr3S) | 7:15 | 2022-07-01 |  |
 | [Silvermoon](https://open.spotify.com/track/5ncJN5CqAxI6lDDT6f3E8V) | [Manntra](https://open.spotify.com/artist/5xKw7nNLyZ7UVvhaLC5kYd) | [Silvermoon](https://open.spotify.com/album/3lcpDZG0RNVg18HjwtXtyh) | 3:16 | 2022-06-24 | 2022-07-01 |
 | [Sinner](https://open.spotify.com/track/2Pf0u0mhGSxayM79Vy4LoT) | [Of Virtue](https://open.spotify.com/artist/4GnK2zRFtw1gBoiFORWHsA) | [Sinner](https://open.spotify.com/album/3jebAFkeFQWSGzXL3nfUzD) | 3:13 | 2022-04-29 | 2022-05-06 |

@@ -4,7 +4,7 @@
 
 > Always there, always true!  These are the songs, old and new, you can count on time after time\.  Cover: Bobby, Teddi, and Billy Ray Cyrus
 
-58 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/2lh87IirFnHxX7KFcEgDYj)
+58 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/2lh87IirFnHxX7KFcEgDYj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [I'll Take You Home](https://open.spotify.com/track/2TDe3tKqBs1Hj3P7SCPaEI) | [The Hoppers](https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7) | [Count Me In](https://open.spotify.com/album/1eiwgrOOTkycJKPHJLhaSk) | 3:32 | 2021-08-13 |  |
 | [If You Knew Him](https://open.spotify.com/track/1zSc1jQYXfam46npX6aLdH) | [The Perrys](https://open.spotify.com/artist/1xRTBMpX8h8nOZ60Gg98gU) | [Almost Morning](https://open.spotify.com/album/1jfwRHmsBUPjLoOVA3MEDl) | 4:49 | 2021-08-13 |  |
 | [In the Sweet by and By](https://open.spotify.com/track/6gJkNZt514JO7YR6dxS4JE) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Larry Cordle](https://open.spotify.com/artist/2FTZtjNxkvPnXU0XoMYedM), [Carl Jackson](https://open.spotify.com/artist/2Z983rZwtk7awKHxQprGLE), [Jerry Salley](https://open.spotify.com/artist/0vkoBzaQQvNfgn8wejIwtH), [Bradley Walker](https://open.spotify.com/artist/3WDUptC9KS6ZFNwkZipSlQ) | [In the Sweet by and By](https://open.spotify.com/album/7JZHTqJuqfFQDBqV0GqTE5) | 3:55 | 2021-08-13 |  |
-| [It's About the Cross](https://open.spotify.com/track/4VrSBQliLFkLvIB28wovQ5) | [The Ball Brothers](https://open.spotify.com/artist/5XeW4GrOw5InOknCsAo1Js) | [Breakthrough](https://open.spotify.com/album/51ycbHjIPZYsJAPDaUix4w) | 0:29 | 2021-08-13 |  |
+| [It's About the Cross](https://open.spotify.com/track/4VrSBQliLFkLvIB28wovQ5) | [The Ball Brothers](https://open.spotify.com/artist/5XeW4GrOw5InOknCsAo1Js) | [Breakthrough](https://open.spotify.com/album/51ycbHjIPZYsJAPDaUix4w) | 4:11 | 2021-08-13 |  |
 | [Jesus Is In The House](https://open.spotify.com/track/5y2JfftrZzXKSNPd49uq1d) | [11th Hour](https://open.spotify.com/artist/1HtIwustFdmwPcgO3IuShY) | [Picture This](https://open.spotify.com/album/6ScjxrKC9sqMbiG93rIkro) | 3:03 | 2021-08-13 |  |
 | [Jesus, The One](https://open.spotify.com/track/0TMGJmaXAKnUPmigOH5qrA) | [The Hoppers](https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7) | [Life Is Good](https://open.spotify.com/album/1vkIZ63AoFY6zRWyeQsZ0L) | 4:36 | 2021-08-13 |  |
 | [Let It Be Known](https://open.spotify.com/track/5pS98JjD95Q2RykrG4LCG1) | [The Booth Brothers](https://open.spotify.com/artist/01uI1SCsA0pLwWa2ENV6Gv) | [Let It Be Known](https://open.spotify.com/album/1V9qEeIkHddPHNlBPPxgCB) | 2:42 | 2021-08-13 |  |
@@ -35,7 +35,7 @@
 | [Never Forsaken](https://open.spotify.com/track/6A38eOAi4jOfKg3WoMNi9J) | [Tribute Quartet](https://open.spotify.com/artist/4TYL0NFQgCj8VLdz8gBfAC) | [Here For You](https://open.spotify.com/album/5PDIO7VrYdduS8jSKq9fAL) | 3:59 | 2021-08-13 |  |
 | [New Day Dawning](https://open.spotify.com/track/296RKoF8mdEZza3CPPkfLC) | [The Whisnants](https://open.spotify.com/artist/4c7zlvrqio2WjtIIGTx1pm) | [Heritage of Hits](https://open.spotify.com/album/5iIR5Dtpojh6yWbkhLh9wj) | 2:33 | 2021-08-13 |  |
 | [No Bones About It](https://open.spotify.com/track/0jrbL1mvRUpTaxvUDlPlrt) | [Kingdom Heirs](https://open.spotify.com/artist/6CPiQbiF0iVrQfGa4iDjqW) | [We Will Stand Our Ground](https://open.spotify.com/album/2mK1OSCYxXpeHgh4kUZm0D) | 2:51 | 2021-08-13 |  |
-| [Peter, James and John](https://open.spotify.com/track/62A7wB5s8F6aL26Y02koJS) | [Gold City](https://open.spotify.com/artist/6CkyBXEUTNVKtjuvpm4FrY) | [Somebody's Coming](https://open.spotify.com/album/5AjA9H7q0zaafTWJyNtxie) | 0:29 | 2021-08-13 |  |
+| [Peter, James and John](https://open.spotify.com/track/62A7wB5s8F6aL26Y02koJS) | [Gold City](https://open.spotify.com/artist/6CkyBXEUTNVKtjuvpm4FrY) | [Somebody's Coming](https://open.spotify.com/album/5AjA9H7q0zaafTWJyNtxie) | 3:41 | 2021-08-13 |  |
 | [Pray On The Little Days](https://open.spotify.com/track/0biHuPyqZNBWDYkA18UVdB) | [Mark Bishop](https://open.spotify.com/artist/1rB6iNJyZrKajKrOBwTO6k) | [This Is What It's All About](https://open.spotify.com/album/0oK5vEHqje5PzVCRLirFKb) | 4:41 | 2021-08-13 |  |
 | [Preacher Tell Me Like It Is](https://open.spotify.com/track/4YNiIVWAQWR3YsXKpLh9aj) | [Greater Vision](https://open.spotify.com/artist/2OmbA7QlIOP6jrevUft2BG) | [For All He's Done](https://open.spotify.com/album/0oIz7kicBrz1e61XYStYX1) | 4:06 | 2021-08-13 |  |
 | [Put It Right There](https://open.spotify.com/track/5SLln654pzZIvddrN8GVHY) | [The LeFevre Quartet](https://open.spotify.com/artist/6hcVPBaGt8ooJFwaSIIrwx) | [But for the Cross](https://open.spotify.com/album/51aM6q31vhutuwc5eXopKp) | 3:54 | 2021-08-13 |  |

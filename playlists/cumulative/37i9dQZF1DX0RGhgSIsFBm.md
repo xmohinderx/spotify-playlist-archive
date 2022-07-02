@@ -4,7 +4,7 @@
 
 > A collection of classic horror and spooky stories, from Stoker to Hitchcock.
 
-127 songs - 1 day 16 hr 31 min - [published](https://open.spotify.com/playlist/3QuUmxQpDsOeCDX4P6b5tf)
+127 songs - 1 day 17 hr 20 min - [published](https://open.spotify.com/playlist/3QuUmxQpDsOeCDX4P6b5tf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Canon Alberic's Scrap\-Book](https://open.spotify.com/track/4edUN7XsoGh29vlo9oU7lJ) | [Bart Wolffe](https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk) | [Ghost Stories of an Antiquary by M\. R\. James](https://open.spotify.com/album/4ptic7vkc9JtTJOcWtEEfq) | 35:03 | 2021-10-27 |  |
 | [Count Magnus](https://open.spotify.com/track/4qLI17ZiLftaIMXWleO1Oq) | [Emma Hignett](https://open.spotify.com/artist/2I31OmKUbh6WRIX3mG2KzN) | [Ghost Stories of an Antiquary by M\. R\. James](https://open.spotify.com/album/4ptic7vkc9JtTJOcWtEEfq) | 33:20 | 2021-10-27 |  |
 | [Danse Macabre By Henri Cazalis](https://open.spotify.com/track/4kRI0GswZDVFWrpybX27p4) | [Bart Wolffe](https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk) | [The Halloween Poetry Collection](https://open.spotify.com/album/1yMhVi0QBWc6ZmT0DCJCz9) | 2:06 | 2021-10-27 |  |
-| [Death For Sale](https://open.spotify.com/track/7674ggj11BvCUX8APhhVX3) | [Boris Karloff](https://open.spotify.com/artist/1W9sjfsJp3TqWFgvScMZdG) | [Death For Sale](https://open.spotify.com/album/6Caq3s2jiIlr1HKzYRIEFp) | 0:29 | 2021-10-27 |  |
+| [Death For Sale](https://open.spotify.com/track/7674ggj11BvCUX8APhhVX3) | [Boris Karloff](https://open.spotify.com/artist/1W9sjfsJp3TqWFgvScMZdG) | [Death For Sale](https://open.spotify.com/album/6Caq3s2jiIlr1HKzYRIEFp) | 23:10 | 2021-10-27 |  |
 | [Dr Jeckyll & Mr Hyde: Chapter 1, An Evil Story](https://open.spotify.com/track/7aqEIfDVM91ryHmfiulwmF) | [Tim Piggott Smith](https://open.spotify.com/artist/7jdAiDjbw8fp1k4CpVlO4p) | [Stevenson: Dr Jeckyll & Mr Hyde](https://open.spotify.com/album/64PDDO8ZyNAO713qNsIk7D) | 14:37 | 2021-10-27 |  |
 | [Dr Jeckyll & Mr Hyde: Chapter 2, Fruitless Enquiries](https://open.spotify.com/track/33NwjROKbuzKTVsVdKVFvI) | [Tim Piggott Smith](https://open.spotify.com/artist/7jdAiDjbw8fp1k4CpVlO4p) | [Stevenson: Dr Jeckyll & Mr Hyde](https://open.spotify.com/album/64PDDO8ZyNAO713qNsIk7D) | 21:47 | 2021-10-27 |  |
 | [Dr Jeckyll & Mr Hyde: Chapter 3, An Atrocious Crime](https://open.spotify.com/track/6zBtQe3d1ZYw8L8hu6gVLl) | [Tim Piggott Smith](https://open.spotify.com/artist/7jdAiDjbw8fp1k4CpVlO4p) | [Stevenson: Dr Jeckyll & Mr Hyde](https://open.spotify.com/album/64PDDO8ZyNAO713qNsIk7D) | 21:20 | 2021-10-27 |  |
@@ -33,7 +33,7 @@
 | [Evening by Zona Gale](https://open.spotify.com/track/2pbtgBnmdEzcHdXAW5y2Ds) | [Nelson Olmsted](https://open.spotify.com/artist/3qTB5caIpkSUtGFge9HB7Q), [Herbert Marshall](https://open.spotify.com/artist/7kEAIrSpOHG1YwP8uKiUsN) | [Tales of Suspense](https://open.spotify.com/album/7GoP0YPkwuYmE3iuJwXxdG) | 12:18 | 2021-10-27 |  |
 | [Finale](https://open.spotify.com/track/1elwx6d4pFNC7mhnXKFquW) | [Boris Karloff](https://open.spotify.com/artist/1W9sjfsJp3TqWFgvScMZdG) | [An Evening With Boris Karloff and His Friends](https://open.spotify.com/album/3CbqxcM7oVtO7oMZS0SYrY) | 1:26 | 2021-10-27 |  |
 | [Frankenstein](https://open.spotify.com/track/5m04WSmeAbUqBaofCwsw8b) | [Boris Karloff](https://open.spotify.com/artist/1W9sjfsJp3TqWFgvScMZdG) | [An Evening With Boris Karloff and His Friends](https://open.spotify.com/album/3CbqxcM7oVtO7oMZS0SYrY) | 3:19 | 2021-10-27 |  |
-| [Frankenstein \- The 1944 Radio Broadcast](https://open.spotify.com/track/3q2wIjH8SowKDsqw73HBzF) | [Frankenstein](https://open.spotify.com/artist/6Q6XKbZTemo9jK8YBdX81c) | [Frankenstein \- The 1944 Radio Broadcast](https://open.spotify.com/album/1hhHDowW8ddaBVZBrFY3QB) | 0:29 | 2021-10-27 |  |
+| [Frankenstein \- The 1944 Radio Broadcast](https://open.spotify.com/track/3q2wIjH8SowKDsqw73HBzF) | [Frankenstein](https://open.spotify.com/artist/6Q6XKbZTemo9jK8YBdX81c) | [Frankenstein \- The 1944 Radio Broadcast](https://open.spotify.com/album/1hhHDowW8ddaBVZBrFY3QB) | 26:42 | 2021-10-27 |  |
 | [Ghosts In Love By Vachel Lindsay](https://open.spotify.com/track/2aO0olCKpjZTyUYKXoGJ6H) | [Gideon Wagner](https://open.spotify.com/artist/4pSztHQeYcvamhq97bmaOD) | [Halloween Poems \- Volume 1](https://open.spotify.com/album/3W78ACpEh6bEVPJVvmShN2) | 0:35 | 2021-10-27 |  |
 | [Goblin Market](https://open.spotify.com/track/6sSizovsKbqxVBNuYkUqPy) | [Emma Topping](https://open.spotify.com/artist/3s7FQVBFjzA2tABAaqPiYe) | [The Poetry of Christina Rossetti](https://open.spotify.com/album/09PkP42KGo1zluPEbHbury) | 19:18 | 2021-10-27 |  |
 | [Introduction](https://open.spotify.com/track/44V3ttaOcnWhfT9CNmIP54) | [Boris Karloff](https://open.spotify.com/artist/1W9sjfsJp3TqWFgvScMZdG) | [An Evening With Boris Karloff and His Friends](https://open.spotify.com/album/3CbqxcM7oVtO7oMZS0SYrY) | 1:42 | 2021-10-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaSYtampkg5n.md) - [plain]
 
 > Sheer joy for sunny days in 50 old and new African jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,925 likes - 50 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,020 likes - 50 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaSYtampkg5n.md) - [plain]
 | 31 | [O.D.O.O\. \- Edit Version](https://open.spotify.com/track/4Db2j0IH9ZfsQoryddUSG7) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [The Best of the Black President](https://open.spotify.com/album/5KsZEYcRsGrJFzBkubfNGb) | 6:55 |
 | 32 | [Ku Tando](https://open.spotify.com/track/00JRJnpa2IqNjuIOPBB5IC) | [Bonga](https://open.spotify.com/artist/0I6bdBR4Q7uoc3HI1OgI8C) | [Angola 72/74](https://open.spotify.com/album/0wKklfUh0GTGAICfuQxpMP) | 3:33 |
 | 33 | [Soweto Disco](https://open.spotify.com/track/0jNS601kXdrD5eVTQnFmNM) | [The Movers](https://open.spotify.com/artist/2X07VlWN9IlypdVxQqtwY6) | [Next Stop Soweto 4: Zulu Rock, Afro\-Disco & Mbaqanga 1975\-1985](https://open.spotify.com/album/5khc9IMDttTmkq3DVHJ9U7) | 4:06 |
-| 34 | [Home Cooking](https://open.spotify.com/track/20x6NOGs8e0Q4FTFPejMUJ) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi) | [HomeCooking](https://open.spotify.com/album/5yzzvJinNh6q3305O3RuTQ) | 0:29 |
+| 34 | [Home Cooking](https://open.spotify.com/track/20x6NOGs8e0Q4FTFPejMUJ) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi) | [HomeCooking](https://open.spotify.com/album/5yzzvJinNh6q3305O3RuTQ) | 4:44 |
 | 35 | [Fantastic Man](https://open.spotify.com/track/0tVn1s7vUJcsbFhAGeeCLq) | [William Onyeabor](https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi) | [World Psychedelic Classics 5: Who Is \(Deluxe Edition\)](https://open.spotify.com/album/6hxUXnxYUzclI1GTwpUMUh) | 6:26 |
 | 36 | [Dancing Time](https://open.spotify.com/track/0injEpDsmEo9ejpMekkeQR) | [The Funkees](https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/4Qdl3L0yx9NmcbupcyhdSf) | 3:19 |
 | 37 | [Kokro\-Ko \(Hide and Seek\)](https://open.spotify.com/track/48FWYZGRRxhAHCkKRngYWw) | [The Actions](https://open.spotify.com/artist/6zVPjXxvk8RmPKjhOONids) | [Next Stop Soweto 4: Zulu Rock, Afro\-Disco & Mbaqanga 1975\-1985](https://open.spotify.com/album/5khc9IMDttTmkq3DVHJ9U7) | 6:08 |

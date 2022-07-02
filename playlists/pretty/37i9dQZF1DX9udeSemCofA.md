@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udeSemCofA.md) - [plain]
 
 > Mellow out with this dub music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,442 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,442 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [King in My Empire \(with Cornel Campbell\)](https://open.spotify.com/track/1i4KkAHiiTKHh8ysCSMvsJ) | [Rhythm & Sound](https://open.spotify.com/artist/5e5DeHuHjgcj0DbdrdYKMo), [Cornell Campbell](https://open.spotify.com/artist/1FOvLj8sNCGHjgueUOVvJi) | [With The Artists](https://open.spotify.com/album/0wmxAOYBMqz436kZJBmNQK) | 6:26 |
 | 2 | [Kunta Kinte Dub](https://open.spotify.com/track/6eCsMxyabKZWLOjoW3cgNF) | [The Revolutionaries](https://open.spotify.com/artist/72kiVqCJIy9eOnmLp8r0h7) | [Drum Sound \- More Gems From the Channel One Dub Room 1974 \-1980](https://open.spotify.com/album/405ttrp5xbSJKSkBz98poB) | 4:25 |
-| 3 | [On the Dub\-ble](https://open.spotify.com/track/1pWAOjPUV6rrGcmLJaXgPR) | [DJ Krush](https://open.spotify.com/artist/00G1NTDAoU7rBpjG4KoYAM) | [Modern Mantra](https://open.spotify.com/album/4EOMQi0exEn5o6M6uUEj0F) | 0:29 |
+| 3 | [On the Dub\-ble](https://open.spotify.com/track/1pWAOjPUV6rrGcmLJaXgPR) | [DJ Krush](https://open.spotify.com/artist/00G1NTDAoU7rBpjG4KoYAM) | [Modern Mantra](https://open.spotify.com/album/4EOMQi0exEn5o6M6uUEj0F) | 2:01 |
 | 4 | [One Step Forward](https://open.spotify.com/track/5Xmplqj77ATmZcVdvhtzoo) | [Max Romeo](https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv), [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [War Ina Babylon](https://open.spotify.com/album/4Bw7hyzk37wBHptu4HglHV) | 5:13 |
 | 5 | [Daphne](https://open.spotify.com/track/39LAeYCw8RfxNSDOLDuyzP) | [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Underwater Dub](https://open.spotify.com/album/5i09kveNkDrJEX7boW9ASU) | 3:58 |
 | 6 | [Blood Money](https://open.spotify.com/track/7EGPjajqOZC7XvV7UgR8pW) | [10 Ft\. Ganja Plant](https://open.spotify.com/artist/0lsuCH8qG9UM8BihdL1Vsc) | [Bass Chalice](https://open.spotify.com/album/7kbd0wisKvRa3FSMkPItKw) | 3:56 |
-| 7 | [Burru Saturday](https://open.spotify.com/track/3lyehLFWwaQgRl8Hbjc3Ux) | [Sly](https://open.spotify.com/artist/7mh5yWKyUcN4xYhEJsWcxI), [Robbie](https://open.spotify.com/artist/52f9xu2VBr99vFO7bzxiLP) | [Blackwood Dub](https://open.spotify.com/album/09DhBkExGYrp5TH8EMWSiD) | 0:29 |
+| 7 | [Burru Saturday](https://open.spotify.com/track/3lyehLFWwaQgRl8Hbjc3Ux) | [Sly](https://open.spotify.com/artist/7mh5yWKyUcN4xYhEJsWcxI), [Robbie](https://open.spotify.com/artist/52f9xu2VBr99vFO7bzxiLP) | [Blackwood Dub](https://open.spotify.com/album/09DhBkExGYrp5TH8EMWSiD) | 4:05 |
 | 8 | [Dub Of Excellence](https://open.spotify.com/track/4XbeYLrMzKzEQIY4IiJxGT) | [Mad Professor and Scientist](https://open.spotify.com/artist/06iQ6TH82zx4zV3PCsqMOO) | [Dub Massive Vol\. 1](https://open.spotify.com/album/5tiCR9iGhxWu8R4oqcKDzw) | 2:24 |
 | 9 | [Screaming Target](https://open.spotify.com/track/6jxka5AJgy5VReTKJJIAyw) | [Big Youth](https://open.spotify.com/artist/2TdzGitZtbe3Zw3BB4SFEH) | [Screaming Target](https://open.spotify.com/album/7IIPaUPCEYVQiXLP3R6ROW) | 3:39 |
 | 10 | [So Jah Sey Dub](https://open.spotify.com/track/0T5p5JWseJxbqGr3cILhL4) | [The Aggrovators](https://open.spotify.com/artist/2qX63C7rYqUDrY3CD7sbUm) | [So Jah Sey Dub](https://open.spotify.com/album/6qTqqeTkJfcPWq8vA1gVV2) | 4:20 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udeSemCofA.md) - [plain]
 | 16 | [Land of Version](https://open.spotify.com/track/4iPFmddLTNRzXlrHnijIPz) | [Judah Eskender Tafari](https://open.spotify.com/artist/6eXwWBiejwKVaFD9PRnVWi), [Mighty Massa](https://open.spotify.com/artist/06NDo8XKiHzcqQo3UiIUTY) | [Black Redemption Sounds, Pt\. 1](https://open.spotify.com/album/7tXjOH5s5Yp50SEZ83xAvP) | 4:17 |
 | 17 | [Chanting Down The Wicked](https://open.spotify.com/track/7fbjerF8AlMCF4lCkyEiyG) | [The Robotiks](https://open.spotify.com/artist/6A14AEcZSKVvJ0YaBx1wxW), [Jah Shaka](https://open.spotify.com/artist/3UdoO8DiElu02b95ig57cC) | [Haunted Halloween Dub](https://open.spotify.com/album/6EZaAwvsxhKRoy4AzTWSz5) | 4:14 |
 | 18 | [Zionyouth](https://open.spotify.com/track/2FrZoMAivb7RSId6R8z7ZW) | [Vin Gordon](https://open.spotify.com/artist/1mgF8WKDBi8uBzzC93wIyj) | [Keep The Pressure Down \- Essential Roots Reggae Rarities](https://open.spotify.com/album/2QDnGgCbcB48ZMCprCvoaf) | 3:08 |
-| 19 | [The Bomber](https://open.spotify.com/track/4z1wB5oMJcTrh0kUT5UCZJ) | [Sly](https://open.spotify.com/artist/7mh5yWKyUcN4xYhEJsWcxI), [Robbie](https://open.spotify.com/artist/52f9xu2VBr99vFO7bzxiLP) | [Blackwood Dub](https://open.spotify.com/album/09DhBkExGYrp5TH8EMWSiD) | 0:29 |
+| 19 | [The Bomber](https://open.spotify.com/track/4z1wB5oMJcTrh0kUT5UCZJ) | [Sly](https://open.spotify.com/artist/7mh5yWKyUcN4xYhEJsWcxI), [Robbie](https://open.spotify.com/artist/52f9xu2VBr99vFO7bzxiLP) | [Blackwood Dub](https://open.spotify.com/album/09DhBkExGYrp5TH8EMWSiD) | 4:30 |
 | 20 | [Sailors Dub](https://open.spotify.com/track/6nH9254NEli6m6KXKS98XS) | [The Crazy Mad Professor](https://open.spotify.com/artist/5n4FlWt1mBjuiNkx3vvyfI) | [At Channel One](https://open.spotify.com/album/5KSdupp6VuqFBBwxuS0Gyq) | 3:00 |
 | 21 | [Jail House Dub](https://open.spotify.com/track/1tszACVAezDsw71KyLOCpR) | [Mad Professor](https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7) | [The Roots Of Dubstep](https://open.spotify.com/album/6lIdi0b22HDe9Ic9E1zsMF) | 4:13 |
 | 22 | [Original Dub](https://open.spotify.com/track/5mPByd2ppul73z0C5zo1Ug) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [The African Brothers Meet King Tubby In Dub](https://open.spotify.com/album/0TFhySyNe3yuznZBzB1zxc) | 2:24 |

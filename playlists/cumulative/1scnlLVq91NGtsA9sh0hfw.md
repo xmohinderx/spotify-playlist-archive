@@ -4,7 +4,7 @@
 
 > Go behind the scenes of the <a href="http://www.twobytwomusic.com">Two By Two</a> book soundtrack curated by <a href="spotify:user:nicholassparksofficial">Nicholas Sparks</a> and featuring songs from <a href="spotify:artist:410MPX0LjYx4PFgIJsBbPT">JD Eicher</a>\. Then, linger a while with soundtrack selections from your favorite Nicholas Sparks films.
 
-53 songs - 2 hr 55 min - [published](https://open.spotify.com/playlist/5Hcd2hlcyiWmvHpzZafVvY)
+53 songs - 2 hr 59 min - [published](https://open.spotify.com/playlist/5Hcd2hlcyiWmvHpzZafVvY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Sparks reaches out to JD](https://open.spotify.com/track/0ovvdxdXgA1liaoO6HqzqH) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [JD Eicher/Nicholas Sparks](https://open.spotify.com/album/00YgtA9RiirNQN1WXT8DcU) | 0:29 | 2017-02-03 |  |
 | [Stay with You](https://open.spotify.com/track/6TEzNs4e52oaIX471TIOH7) | [Christian Lopez](https://open.spotify.com/artist/1KiDbdT8AHOwmlA0LwhpQc) | [Onward](https://open.spotify.com/album/5ZkIPjTBqLRk8Ey4QKA8R2) | 4:26 | 2017-02-03 |  |
 | [Sweet Jane](https://open.spotify.com/track/0afIwKfHwq2kF099SpjWi4) | [Cowboy Junkies](https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j) | [The Best Of Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HeQDO9ZFTTGxklzkRRdT2) | 3:35 | 2017-02-03 |  |
-| [Terrible Love \- Alternate Version](https://open.spotify.com/track/4WnrISPc8D8R9bFzb8jO7k) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [The Choice \(Original Soundtrack Album\)](https://open.spotify.com/album/32RhSvK7ERKo16s4kHWJHQ) | 0:29 | 2017-02-03 |  |
+| [Terrible Love \- Alternate Version](https://open.spotify.com/track/4WnrISPc8D8R9bFzb8jO7k) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [The Choice \(Original Soundtrack Album\)](https://open.spotify.com/album/32RhSvK7ERKo16s4kHWJHQ) | 4:18 | 2017-02-03 |  |
 | [The Creative Process](https://open.spotify.com/track/2DD2pHlM7YhSf63FkjZNjC) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [JD Eicher/Nicholas Sparks](https://open.spotify.com/album/00YgtA9RiirNQN1WXT8DcU) | 2:22 | 2017-02-03 |  |
 | [The Initial Meeting](https://open.spotify.com/track/7qQ77NXf54uOmjkGOgXjpY) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [JD Eicher/Nicholas Sparks](https://open.spotify.com/album/00YgtA9RiirNQN1WXT8DcU) | 0:56 | 2017-02-03 |  |
 | [The Last Love Song](https://open.spotify.com/track/2UYyRfpX1KZzkCenyejmPJ) | [JD Eicher](https://open.spotify.com/artist/410MPX0LjYx4PFgIJsBbPT) | [Into Place](https://open.spotify.com/album/1ynXPciQzmP7S7xHoXFwRk) | 3:32 | 2017-02-03 |  |

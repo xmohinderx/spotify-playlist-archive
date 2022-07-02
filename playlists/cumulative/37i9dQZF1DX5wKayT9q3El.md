@@ -4,7 +4,7 @@
 
 > It's all of your family's favorite boy bands in one chart\-topping playlist!
 
-46 songs - 2 hr 39 min - [published](https://open.spotify.com/playlist/0geTX7fV4AMKpKy8QFPXC3)
+46 songs - 2 hr 42 min - [published](https://open.spotify.com/playlist/0geTX7fV4AMKpKy8QFPXC3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Summer Girls](https://open.spotify.com/track/7uYroF9RRrhRJBrigRvB6H) | [LFO](https://open.spotify.com/artist/1FizW0swe8ODtXvEOHXbHX) | [LFO](https://open.spotify.com/album/6DZdRerOCdaQyBLwntH2cX) | 4:17 | 2022-03-11 |  |
 | [Talk](https://open.spotify.com/track/6rsm9NTgl9kKPatf7S1yCS) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [8 Letters](https://open.spotify.com/album/2qIbHfs93z6eDwGoAdCkXA) | 3:10 | 2022-03-11 |  |
 | [Tattoo \(How 'Bout You\)](https://open.spotify.com/track/7pueVHUwKar1JqWnqlKCf0) | [In Real Life](https://open.spotify.com/artist/09fEeGYqb3MUeV1c9BJgDI) | [Tattoo \(How 'Bout You\)](https://open.spotify.com/album/7eEdEB51wwksaSY6YoXkBu) | 3:49 | 2022-03-11 |  |
-| [The Call](https://open.spotify.com/track/1mxTCArq9EhSg4QPGqhjhT) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Black & Blue](https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO) | 0:29 | 2022-03-11 |  |
+| [The Call](https://open.spotify.com/track/1mxTCArq9EhSg4QPGqhjhT) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Black & Blue](https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO) | 3:24 | 2022-03-11 |  |
 | [This I Promise You](https://open.spotify.com/track/46n2EGFnPC3tzWCN1Aqe26) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 4:44 | 2022-03-11 |  |
 | [Tonight Tonight](https://open.spotify.com/track/2i0AUcEnsDm3dsqLrFWUCq) | [Hot Chelle Rae](https://open.spotify.com/artist/6jTnHxhb6cDCaCu4rdvsQ0) | [Whatever](https://open.spotify.com/album/0UkgnXc0w7qiRE2X086BdN) | 3:20 | 2022-03-11 |  |
 | [Walks Like Rihanna](https://open.spotify.com/track/65xj2tRI9FUdK5cKdUI0Ct) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [Word Of Mouth](https://open.spotify.com/album/3wLINTYfZERHv3w5pXZLdK) | 3:21 | 2022-03-11 |  |

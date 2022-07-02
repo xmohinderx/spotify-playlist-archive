@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle guitar covers.
 
-92 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/7BlL5UpDQdx2iXZ9eRyjoI)
+92 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/7BlL5UpDQdx2iXZ9eRyjoI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,13 +21,13 @@
 | [Can't Stop The Feeling](https://open.spotify.com/track/5VgeeaV1T4nB79tqNnPti0) | [Nick Morales](https://open.spotify.com/artist/54hfWstQiYCPpIxmNFTWTa) | [Can't Stop The Feeling](https://open.spotify.com/album/72o6QQid3mYqEyMrHaTAUc) | 2:47 | 2022-05-20 |  |
 | [Circles](https://open.spotify.com/track/03dllno5Z34LGvbNGzpxJF) | [Mike Ilyas](https://open.spotify.com/artist/2owXblciNaXXMUdm6nNfDe) | [Mike Ilyas](https://open.spotify.com/album/38uIgrRbN63mXyyquWx21j) | 3:15 | 2022-05-20 |  |
 | [Closing Time](https://open.spotify.com/track/7IoK9oPMLUumpyJdWKxBX8) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Closing Time](https://open.spotify.com/album/2AL1JpefubgHaKg0nxZEb6) | 2:33 | 2022-05-20 |  |
-| [Colors Of the Wind](https://open.spotify.com/track/1vkxilXurIJu6FpIqUeOKX) | [Ned Michaels](https://open.spotify.com/artist/2WPWA7qliZnR3cxRZYiv1v) | [Hits](https://open.spotify.com/album/2fhFDlDU0kLMAJxlMOmqJs) | 4:03 | 2022-05-20 |  |
+| [Colors Of the Wind](https://open.spotify.com/track/1vkxilXurIJu6FpIqUeOKX) | [Ned Michaels](https://open.spotify.com/artist/2WPWA7qliZnR3cxRZYiv1v) | [Hits](https://open.spotify.com/album/2fhFDlDU0kLMAJxlMOmqJs) | 4:03 | 2022-05-20 | 2022-07-02 |
 | [Come To My Window](https://open.spotify.com/track/2PbBN3RdEoS9EmNcmZzUHh) | [Arturo Jimenes](https://open.spotify.com/artist/5YTMkCli769bhvfuUrjKbr) | [Come To My Window](https://open.spotify.com/album/0E0UTRTQUYrcOpO7bZoovG) | 3:29 | 2022-05-20 |  |
 | [Crush](https://open.spotify.com/track/4aUK9c6yenNpRaW4vUpky5) | [Palladinos](https://open.spotify.com/artist/6Qnxpg01CHQLdkaEWIfCLf) | [Crush](https://open.spotify.com/album/6M2iRJvWOyljL7eUMJk7bB) | 2:48 | 2022-05-20 |  |
 | [Don't Know Why](https://open.spotify.com/track/2uHHH7iJjQDhoFKfWbFjo3) | [Acoustic Guitar Collective](https://open.spotify.com/artist/4uUpWtX0o0EM3p4P5L5X6n) | [Love Letters](https://open.spotify.com/album/2V55EhNJmfwsvu1mOKubZ7) | 2:52 | 2022-05-20 |  |
 | [Don't Speak](https://open.spotify.com/track/7eFWJOp5wESaxCakzJ5Jf1) | [Nylah Read](https://open.spotify.com/artist/1t57FjgpJN2vjPRo3WS9LZ) | [Don't Speak](https://open.spotify.com/album/62CounkU6ZMZGGhhGtqdIs) | 2:48 | 2022-05-20 |  |
 | [Don't Start Now](https://open.spotify.com/track/7GhDCGALFBPrsXycSH8q6Q) | [Mike Ilyas](https://open.spotify.com/artist/2owXblciNaXXMUdm6nNfDe) | [Mike Ilyas](https://open.spotify.com/album/38uIgrRbN63mXyyquWx21j) | 2:27 | 2022-05-20 |  |
-| [drivers license](https://open.spotify.com/track/5k7fSPCovUFgqBNDYVcmmK) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [drivers license](https://open.spotify.com/album/6BmCLOx623OJZyswJ8BYxD) | 0:29 | 2022-05-20 |  |
+| [drivers license](https://open.spotify.com/track/5k7fSPCovUFgqBNDYVcmmK) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [drivers license](https://open.spotify.com/album/6BmCLOx623OJZyswJ8BYxD) | 3:53 | 2022-05-20 |  |
 | [Easy On Me](https://open.spotify.com/track/7nZrgOtCRXGvrXCbPhuHch) | [Ivy Parry](https://open.spotify.com/artist/1yOVQN4qupWRciASq2Fz6I) | [Easy On Me](https://open.spotify.com/album/1JjZRAcvYYpjY6IALupLZl) | 2:56 | 2022-05-20 |  |
 | [Easy On Me](https://open.spotify.com/track/647uBk9wlI9O1PQu7YkyNG) | [Tim Raymond](https://open.spotify.com/artist/4kYHqjNdzbIyg2EsqY0nWe) | [Easy On Me](https://open.spotify.com/album/4O4BnpRC1m5VEBqgIFFmTI) | 4:09 | 2022-05-20 |  |
 | [Every Breath You Take](https://open.spotify.com/track/2TVLyjrb4R9rsPhmn6sXqf) | [Joseph Sullinger](https://open.spotify.com/artist/6mNAxWgMw0EjVXUNhHpRpM) | [Every Breath You Take](https://open.spotify.com/album/0dCDATZuYREXXs4YWFStlp) | 2:55 | 2022-05-20 |  |
@@ -41,7 +41,7 @@
 | [Goodbye Yellow Brick Road](https://open.spotify.com/track/69yGmOlMXuVMBhmJipSA1r) | [Glenn Roth](https://open.spotify.com/artist/2HVU7yTOl9v0FwAnK9c78d) | [Goodbye Yellow Brick Road](https://open.spotify.com/album/0ka00dwBBtENB19SEIM3yU) | 3:26 | 2022-05-20 |  |
 | [Greatest Love Of All](https://open.spotify.com/track/61EhAlUIqBXsgHqbdY7VT9) | [6 strings Guy](https://open.spotify.com/artist/195Dns39hXiNuoATNy03T1) | [Greatest Love Of All](https://open.spotify.com/album/1Ub5PvnX45BagytJfyDnjb) | 4:36 | 2022-05-20 |  |
 | [Hallelujah](https://open.spotify.com/track/0pt4S6qXybR7reJW8AfEka) | [Eddy Tyler](https://open.spotify.com/artist/7KT0K9Jyst149sFJoP4s3D) | [Guitar Instrumental Covers](https://open.spotify.com/album/11AG80Bq1aK3OldgwCYw4g) | 5:01 | 2022-05-20 |  |
-| [Heaven](https://open.spotify.com/track/7yAhqUJ1LAkEdYnF8XxNN5) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [Dean M Parker](https://open.spotify.com/album/2zNaQCdhfJlWgaYoedd4oP) | 1:39 | 2022-05-20 |  |
+| [Heaven](https://open.spotify.com/track/7yAhqUJ1LAkEdYnF8XxNN5) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [Dean M Parker](https://open.spotify.com/album/2zNaQCdhfJlWgaYoedd4oP) | 1:39 | 2022-05-20 | 2022-07-02 |
 | [Here Comes The Sun](https://open.spotify.com/track/0ioKfrLt4M6pkTmODSORO1) | [Caden Fox](https://open.spotify.com/artist/0OR3tNEJyrFIjuImwG5FI3) | [Here Comes The Sun](https://open.spotify.com/album/2Ji1nVM3CvZKj5mA2bfM7S) | 2:38 | 2022-05-20 |  |
 | [Hold on](https://open.spotify.com/track/0Wv0qxxnHhOiuvVhwNnqDv) | [Leif Skoog](https://open.spotify.com/artist/1lwfwnXehk28VHeVJ5BtQG) | [Hold on](https://open.spotify.com/album/6CnnqRJSFe5N2xWyfTaLip) | 3:23 | 2022-05-20 |  |
 | [How Deep Is Your Love](https://open.spotify.com/track/6WaePja4uzj9uw3TrZFdpM) | [Jean Cruiz](https://open.spotify.com/artist/4xS5okCP5UkUKVM1uZh9uD) | [How Deep Is Your Love](https://open.spotify.com/album/3foW7pDxBNyUfM4SpLFIop) | 3:21 | 2022-05-20 |  |
@@ -68,11 +68,11 @@
 | [Once I Was 7 years Old](https://open.spotify.com/track/1rU3j7FTsJY6TFU8dkoR3d) | [Ela Hills](https://open.spotify.com/artist/4rPETLWsKT01K13kePkC0r) | [Once I Was 7 years Old](https://open.spotify.com/album/6iaQfBdiUrwwlJqTFcB7nY) | 2:05 | 2022-05-20 |  |
 | [Only Wanna Be With You](https://open.spotify.com/track/0rNgJ3RXJEQKJBCv3NPfdp) | [Arturo Jimenes](https://open.spotify.com/artist/5YTMkCli769bhvfuUrjKbr) | [Only Wanna Be With You](https://open.spotify.com/album/39liycElEFslWeDOpDrwt8) | 3:27 | 2022-05-20 |  |
 | [Perfect \- Acoustic Guitar](https://open.spotify.com/track/0lqq3RSTNMgRuupfrXcVj1) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Perfect \(Acoustic Guitar\)](https://open.spotify.com/album/013FphjZqkqZzBaJNzb5yp) | 3:26 | 2022-05-20 |  |
-| [Riptide](https://open.spotify.com/track/6BPSmJLRdjDKn5NtEp6BUf) | [6 strings Guy](https://open.spotify.com/artist/195Dns39hXiNuoATNy03T1) | [6 strings Guy](https://open.spotify.com/album/1TXKVK2Ss0EgQkGg1mEJAe) | 4:33 | 2022-05-20 |  |
+| [Riptide](https://open.spotify.com/track/6BPSmJLRdjDKn5NtEp6BUf) | [6 strings Guy](https://open.spotify.com/artist/195Dns39hXiNuoATNy03T1) | [6 strings Guy](https://open.spotify.com/album/1TXKVK2Ss0EgQkGg1mEJAe) | 4:33 | 2022-05-20 | 2022-07-02 |
 | [See You Again](https://open.spotify.com/track/7bnHkXBteAwu9heqPphwvi) | [Prince May](https://open.spotify.com/artist/0XOki1WQ88CrMMMozwk3CH) | [See You Again](https://open.spotify.com/album/0zFFBkjNYzzO4Z04aRgMz0) | 2:16 | 2022-05-20 |  |
 | [Shallow](https://open.spotify.com/track/4yLMaK0MaKuqLP34Gfc9ai) | [Calminity](https://open.spotify.com/artist/6Vkw54SOR5th9JiZAUyA6A) | [Calminity](https://open.spotify.com/album/21KDImHvF9nLXCnCVbiLis) | 4:10 | 2022-05-20 |  |
 | [She's Always a Woman \(Instrumental\)](https://open.spotify.com/track/5k5nFDMGaG5EZIsGJTqYcL) | [Joseph Sullinger](https://open.spotify.com/artist/6mNAxWgMw0EjVXUNhHpRpM) | [She's Always a Woman \(Instrumental\)](https://open.spotify.com/album/4nO8YfywgUOyvYBounouqr) | 3:25 | 2022-05-20 |  |
-| [Smile](https://open.spotify.com/track/3Mq40Xn8tqVaoSQAr3ozeW) | [Acoustic Guitar Collective](https://open.spotify.com/artist/4uUpWtX0o0EM3p4P5L5X6n) | [Love Letters](https://open.spotify.com/album/2V55EhNJmfwsvu1mOKubZ7) | 2:17 | 2022-05-20 |  |
+| [Smile](https://open.spotify.com/track/3Mq40Xn8tqVaoSQAr3ozeW) | [Acoustic Guitar Collective](https://open.spotify.com/artist/4uUpWtX0o0EM3p4P5L5X6n) | [Love Letters](https://open.spotify.com/album/2V55EhNJmfwsvu1mOKubZ7) | 2:17 | 2022-05-20 | 2022-07-02 |
 | [Someone Like You](https://open.spotify.com/track/6YKzJ4tyzRds7YXPo2F0qC) | [MAX Space](https://open.spotify.com/artist/7qg2pbKUVUesXTnAIzt2kJ) | [MAX Space](https://open.spotify.com/album/7jNlVPdSvOYn0GnJPEQgtN) | 4:09 | 2022-05-20 |  |
 | [Stay](https://open.spotify.com/track/3IwotLyzLEwvnVV5tK3LxX) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Stay](https://open.spotify.com/album/2ZpJ6FLDVO1ktGjRf8d3jP) | 1:54 | 2022-05-20 |  |
 | [Stay](https://open.spotify.com/track/5PVEhEtuO3Lr3AI8Mh2uHJ) | [Tim Raymond](https://open.spotify.com/artist/4kYHqjNdzbIyg2EsqY0nWe) | [Stay](https://open.spotify.com/album/0wttAbqc24NaBJCE2j4BX4) | 2:29 | 2022-06-15 |  |

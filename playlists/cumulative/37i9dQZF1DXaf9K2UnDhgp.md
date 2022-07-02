@@ -4,7 +4,7 @@
 
 > Riffing around the Christmas tree\. Cover: My Chemical Romance
 
-110 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/5lFt6f9bgWuVMt1UoMEajh)
+110 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/5lFt6f9bgWuVMt1UoMEajh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Back Door Santa](https://open.spotify.com/track/2WhXgMG0rkNekIB98RHfEM) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Back Door Santa](https://open.spotify.com/album/0ZBgME8B93wdLfeR9mVInX) | 2:26 | 2021-11-26 |  |
 | [Break Up Holiday](https://open.spotify.com/track/1TQaN6gd939bAW7MmZJ6mA) | [Dude York](https://open.spotify.com/artist/5AV475oA3v91U6e9tOGRm9) | [Break Up Holiday](https://open.spotify.com/album/4qSSCXto6q2kKSp94BkP2b) | 3:30 | 2021-11-26 |  |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/3FaUJo1nrRUm51tc4nldkg) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/2rFjx4qhTiyQwCAnNSnJQs) | 3:07 | 2021-11-26 |  |
-| [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/5JBRAkR2DS1rsUQgxcj23t) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [A Very Special Christmas 25th Anniversary](https://open.spotify.com/album/2eMfhq6WQXRARD6wvjWgBw) | 0:29 | 2021-11-26 |  |
+| [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/5JBRAkR2DS1rsUQgxcj23t) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [A Very Special Christmas 25th Anniversary](https://open.spotify.com/album/2eMfhq6WQXRARD6wvjWgBw) | 2:19 | 2021-11-26 |  |
 | [Christmas All Over Again](https://open.spotify.com/track/30SNjazZhzunhAWCjhdyyD) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [A Very Special Christmas 2](https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM) | 4:14 | 2021-11-26 |  |
 | [Christmas Eve \(Soul Purpose\)](https://open.spotify.com/track/6aX7uTfG9blCOFjNkbPn7F) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Christmas Eve \(Soul Purpose\) / It’s Going To Be A Cold Winter](https://open.spotify.com/album/59LBLGqfxMTSXuLmMmGsIT) | 3:45 | 2021-11-26 |  |
 | [Christmas Girl](https://open.spotify.com/track/2JTP56o813IhXsAK8RtrOc) | [Last Youth](https://open.spotify.com/artist/7A8id9cqUSbYSyB1RjBK55) | [Christmas Girl](https://open.spotify.com/album/6fYRfUx9xB6dCeHpSsY1uV) | 3:35 | 2021-11-26 |  |
@@ -76,7 +76,7 @@
 | [Merry Christmas, Kiss My Ass](https://open.spotify.com/track/5QCUXpfShyuYYu7eGt9ZiR) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dirty Work](https://open.spotify.com/album/0rZ90NJ4y7F8piqOkJJiGQ) | 3:19 | 2021-11-26 |  |
 | [Mistress for Christmas](https://open.spotify.com/track/5Pk7LNZbcJk7E1cSMYhqV3) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Mistress for Christmas](https://open.spotify.com/album/1H08mkzymVRV8TSqf79GYj) | 3:34 | 2021-11-26 |  |
 | [My December](https://open.spotify.com/track/0fxGA5lxrdYNYoE7yJxTNZ) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 4:20 | 2021-11-26 |  |
-| [My Only Wish](https://open.spotify.com/track/2b53tTiN4ooFESadfs34pf) | [BEGINNERS](https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3) | [A BEGINNERS Guide to Christmas](https://open.spotify.com/album/7r2MCSBcbVk5JytEts0Ju6) | 0:29 | 2021-11-26 |  |
+| [My Only Wish](https://open.spotify.com/track/2b53tTiN4ooFESadfs34pf) | [BEGINNERS](https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3) | [A BEGINNERS Guide to Christmas](https://open.spotify.com/album/7r2MCSBcbVk5JytEts0Ju6) | 2:39 | 2021-11-26 |  |
 | [No Christmas While I'm Talking](https://open.spotify.com/track/29h1ZIoHfHxsU4Eyjpu8je) | [The Walkmen](https://open.spotify.com/artist/6kFay2DQ5aZfeu5OsrF3Pw) | [Bows + Arrows](https://open.spotify.com/album/0yI10WNFgAsBVShQIhFXW7) | 4:25 | 2021-11-26 |  |
 | [Nothing For Christmas](https://open.spotify.com/track/7oAq8Lm87Wk5ogjkJ9w0n9) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Nothing For Christmas](https://open.spotify.com/album/1rCvPSC0DI4dclEYbyyg67) | 3:43 | 2021-11-26 |  |
 | [O Family \(Why Can't I Leave\)](https://open.spotify.com/track/4jin1Yy8zECo9GA2V5f27L) | [The Orphan The Poet](https://open.spotify.com/artist/4cqHx0neEP7BFbGlKkmIHQ) | [O Family \(Why Can't I Leave\)](https://open.spotify.com/album/3VBQvEjSggD2SN2yaZBzn7) | 2:34 | 2021-11-26 |  |
@@ -99,7 +99,7 @@
 | [Sleigh Ride](https://open.spotify.com/track/0WR3Y6l751tKYI1fRsn8ac) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [A Walk Off the Earth Christmas](https://open.spotify.com/album/4mZeWbE7FbYYkoFSlLY1tM) | 3:28 | 2021-11-26 |  |
 | [Snow](https://open.spotify.com/track/4DOeT5Ilj6zK1F4HUxzXK8) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Snow](https://open.spotify.com/album/7CqngDsr2lfnXeZfgaNVI5) | 3:36 | 2021-11-26 |  |
 | [Somewhere in My Memory](https://open.spotify.com/track/0w06ax9ZDaTbFFmD2wOCnu) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Somewhere in My Memory](https://open.spotify.com/album/3aCzUZ1LlCUINl0yKQaGHa) | 2:29 | 2021-11-26 |  |
-| [Thank God It's Christmas \- 2011 Remaster](https://open.spotify.com/track/341h4Vfj9HJMm2tNDX3ARw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Platinum Collection \(2011 Remaster\)](https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8) | 0:29 | 2021-11-26 |  |
+| [Thank God It's Christmas \- 2011 Remaster](https://open.spotify.com/track/341h4Vfj9HJMm2tNDX3ARw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Platinum Collection \(2011 Remaster\)](https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8) | 4:21 | 2021-11-26 |  |
 | [The Christmas Song](https://open.spotify.com/track/74vAkZaoEU54yZdOoSLrTa) | [The Raveonettes](https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8) | [The Christmas Song](https://open.spotify.com/album/6fO7shxJjlvztDHwqPqLG2) | 2:12 | 2021-11-26 |  |
 | [The Christmas Song](https://open.spotify.com/track/03e41JmoFNLssjNbHhDma7) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Christmas EP](https://open.spotify.com/album/1HaPBR0BDJUDkcOxiHdGTy) | 3:07 | 2021-11-26 |  |
 | [The Lights and Buzz \- 2015 Remastered](https://open.spotify.com/track/7pw7YBfcX0F3e0Pm4vkO0F) | [Jack's Mannequin](https://open.spotify.com/artist/42aeGx2I3uXINpGqC8L0LD) | [Everything In Transit \(10th Anniversary Edition\)](https://open.spotify.com/album/2tiKjIoifWlFXTlJJSB6kv) | 3:36 | 2021-11-26 |  |

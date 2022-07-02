@@ -4,7 +4,7 @@
 
 > All the sweetest melodies, in one place.
 
-65 songs - 3 hr 41 min - [published](https://open.spotify.com/playlist/0dBVnVm667j7TpR5lj8ZYe)
+65 songs - 3 hr 44 min - [published](https://open.spotify.com/playlist/0dBVnVm667j7TpR5lj8ZYe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Oops](https://open.spotify.com/track/37xcWhVKQ99uuiA5Y4yapi) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Glory Days \(Deluxe\)](https://open.spotify.com/album/2GJLzxAajkFeyDPVH7X4Cs) | 3:24 | 2021-11-26 |  |
 | [Power](https://open.spotify.com/track/03Nor3UpgNjFpsv4rEQSgr) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Deluxe\)](https://open.spotify.com/album/2GJLzxAajkFeyDPVH7X4Cs) | 4:07 | 2021-11-26 |  |
 | [Private Show](https://open.spotify.com/track/5SuYKvxjUVGQtRpHfM0mQW) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Deluxe\)](https://open.spotify.com/album/2GJLzxAajkFeyDPVH7X4Cs) | 2:41 | 2021-11-26 |  |
-| [Reggaetón Lento \(Remix\)](https://open.spotify.com/track/3zoYkqS4y2BsGVShPL2nTE) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Reggaetón Lento \(Remix\)](https://open.spotify.com/album/3BuyJpIGcVs3apzuuBfohb) | 0:29 | 2021-11-26 |  |
+| [Reggaetón Lento \(Remix\)](https://open.spotify.com/track/3zoYkqS4y2BsGVShPL2nTE) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Reggaetón Lento \(Remix\)](https://open.spotify.com/album/3BuyJpIGcVs3apzuuBfohb) | 3:08 | 2021-11-26 |  |
 | [Salute](https://open.spotify.com/track/2E0fhpXbNfksy2mdjm57bf) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Salute \(The Deluxe Edition\)](https://open.spotify.com/album/06haetPrpbIFCY1FUWzVel) | 3:56 | 2021-11-26 |  |
 | [Secret Love Song \(feat\. Jason Derulo\)](https://open.spotify.com/track/4JIo8RztBbELr2gWJ5OGK6) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Get Weird \(Deluxe\)](https://open.spotify.com/album/4bzVI1FElc13HQagFR7S1W) | 4:09 | 2021-11-26 |  |
 | [Secret Love Song, Pt\. II](https://open.spotify.com/track/2BnjU9TqIovk0IQ7jJaA4z) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Get Weird \(Deluxe\)](https://open.spotify.com/album/4bzVI1FElc13HQagFR7S1W) | 4:26 | 2021-11-26 |  |

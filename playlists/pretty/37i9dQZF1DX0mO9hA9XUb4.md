@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mO9hA9XUb4.md) - [plain]
 
 > a musical love letter to fearless immigrant daughters\. to diaspora children showing up and taking names\. to the firsts, but not the lasts\. to queer & multilingual & proudly Asian American Pacific Islanders, Rina said it best, we out here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,080 likes - 43 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,108 likes - 43 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mO9hA9XUb4.md) - [plain]
 | 8 | [Jimmy](https://open.spotify.com/track/60r0mEqH580d1kYWGeEpwM) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:29 |
 | 9 | [Venom](https://open.spotify.com/track/0JTcrSy0QHpzpdiXykZufX) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Venom](https://open.spotify.com/album/2Sl73qVduRb08sWj28sIjz) | 1:53 |
 | 10 | [Sugarcoat](https://open.spotify.com/track/02LXZvKAyndCmWGzrp0sBT) | [Malavika](https://open.spotify.com/artist/1TCfnoI5nqmdISEbaZSpFZ) | [Sugarcoat](https://open.spotify.com/album/1prY9LTdmMIeSyc0VCw8dF) | 2:26 |
-| 11 | [You Look so Good](https://open.spotify.com/track/66tyrSjqL9P6sZAb8TQm3X) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [You Look so Good](https://open.spotify.com/album/5r73WnvgjwL3ydzrtsmqpm) | 0:29 |
+| 11 | [You Look so Good](https://open.spotify.com/track/66tyrSjqL9P6sZAb8TQm3X) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [You Look so Good](https://open.spotify.com/album/5r73WnvgjwL3ydzrtsmqpm) | 2:50 |
 | 12 | [a woman is a god](https://open.spotify.com/track/5kcERXTIoNbkBjb6o4vYBf) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [goldilocks x](https://open.spotify.com/album/2nkqAzbvQUWZ0p88NxrJ7s) | 2:58 |
 | 13 | [Indian Summer](https://open.spotify.com/track/6BjFI5EoskHoXWTVFbcK25) | [Shuba](https://open.spotify.com/artist/3Uios5Yyv4i8EBs9H3DUY5) | [Indian Summer](https://open.spotify.com/album/1qIKTrQQ5bErc4kr6qRtwL) | 3:05 |
 | 14 | [Sway With Me \(with GALXARA\)](https://open.spotify.com/track/5gqLY5H1ZyT3BScVr0nDMs) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [GALXARA](https://open.spotify.com/artist/0tu3jGW89NZZ8qrpd8c7xC) | [Sway With Me \(with GALXARA\)](https://open.spotify.com/album/5uC0YWUVDKRZD9x1cRgjyu) | 2:48 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mO9hA9XUb4.md) - [plain]
 | 24 | [Ladke](https://open.spotify.com/track/2eNTpPmJhxKbULrc0BtbRj) | [Shreea Kaul](https://open.spotify.com/artist/1c203LuoIFKuIn2X5Uz5lE), [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [Ladke](https://open.spotify.com/album/5JoeYlEhBE7R1LOQUG1Uqr) | 2:32 |
 | 25 | [Be Free](https://open.spotify.com/track/5wfU3eM43UptY57VigdHzh) | [Vidya Vox](https://open.spotify.com/artist/4OFJbe1HHVcpnw480py1uN) | [Kuthu Fire](https://open.spotify.com/album/22N9hU678amR5NiwIIlnEy) | 3:27 |
 | 26 | [MAKE IT MINE](https://open.spotify.com/track/4WnxgTTFsaJ7Fhh4CQbevQ) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [MAKE IT MINE](https://open.spotify.com/album/1P02N6AY2tk7mKlU5tjANK) | 2:10 |
-| 27 | [Back to the Streets \(feat\. Jhené Aiko\)](https://open.spotify.com/track/3MEruRteiUZXkStfTlZqRn) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Back to the Streets \(feat\. Jhené Aiko\)](https://open.spotify.com/album/5Qg2XXhV3sxOgfbXtAhU3N) | 0:29 |
+| 27 | [Back to the Streets \(feat\. Jhené Aiko\)](https://open.spotify.com/track/3MEruRteiUZXkStfTlZqRn) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Back to the Streets \(feat\. Jhené Aiko\)](https://open.spotify.com/album/5Qg2XXhV3sxOgfbXtAhU3N) | 3:09 |
 | 28 | [What I Need \(feat\. Kehlani\)](https://open.spotify.com/track/5nFyaoBWwwMJ9fv33tZ2MB) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Expectations](https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL) | 3:39 |
 | 29 | [On My Way](https://open.spotify.com/track/38zEODrwgUnlWODI3AGW7S) | [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5) | [On My Way](https://open.spotify.com/album/4c4aLA391P0WfAZOnaqhUR) | 2:41 |
 | 30 | [Bad Habits](https://open.spotify.com/track/4paOi2D1A1pS5bPugSfUg7) | [Madame Gandhi](https://open.spotify.com/artist/1zBHbitf3pjF7W00UIFfVf) | [Bad Habits](https://open.spotify.com/album/4qKIwcoyB91GMyy9431kaf) | 3:47 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mO9hA9XUb4.md) - [plain]
 | 35 | [KARMA](https://open.spotify.com/track/4wK7cKpXBSTuXPmWKG1pTg) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [KARMA](https://open.spotify.com/album/6ooIqBUjoxd1MAzRfF4SGj) | 2:48 |
 | 36 | [Kamali](https://open.spotify.com/track/6vwAUOhw6l1fSAbLjHZBo0) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [damnshestamil](https://open.spotify.com/album/5Uape09ZvhDOfCmSqQN8Wm) | 3:12 |
 | 37 | [Upside](https://open.spotify.com/track/1eRvvnfpeisIH2JY07equa) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Upside](https://open.spotify.com/album/5huXDLGFyTBjbtYxjilbJ1) | 2:50 |
-| 38 | [Firestarter](https://open.spotify.com/track/6OKflEmwo66otVCLryCSqt) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Firestarter](https://open.spotify.com/album/6gs8SxesV2lUoXo6x3PZWh) | 0:29 |
+| 38 | [Firestarter](https://open.spotify.com/track/6OKflEmwo66otVCLryCSqt) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Firestarter](https://open.spotify.com/album/6gs8SxesV2lUoXo6x3PZWh) | 2:35 |
 | 39 | [Freedom \(feat\. Jhené Aiko\)](https://open.spotify.com/track/1WL6Q6zaMDVE8yyGYwu3zG) | [吴亦凡](https://open.spotify.com/artist/650ZvsETuttSbMAgAodNTv), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Antares](https://open.spotify.com/album/6w5zZMxmvsqAED65Lx42lS) | 4:24 |
 | 40 | [Stoked](https://open.spotify.com/track/6nef0wHkelfKqNVHAtzJbR) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Stoked](https://open.spotify.com/album/1OU3G06GfW9lFtJ2Tneohy) | 3:09 |
 | 41 | [Good Luck](https://open.spotify.com/track/6IVsYkP3RWt3AwMeHOgDFF) | [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [Abhi vs The Universe](https://open.spotify.com/album/7npnMZIzcTaC9dFh2iqm0w) | 2:15 |

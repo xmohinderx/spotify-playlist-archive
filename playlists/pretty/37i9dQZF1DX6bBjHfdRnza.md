@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic music by independent artists and labels\. Updates every Wednesday\. Cover: Melle Brown, Artwork: Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,652 likes - 120 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,692 likes - 120 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 108 | [Francuski łącznik](https://open.spotify.com/track/3641llTDy8rJ502J8SnKUP) | [Tropiki](https://open.spotify.com/artist/7ayr90eJXhw76dWqkHT9hw) | [Panorama](https://open.spotify.com/album/7zZfUf4jVsH38OvemHiuGP) | 4:15 |
 | 109 | [Dust](https://open.spotify.com/track/6VPt0ouZwLGY3tOYdf2fgH) | [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF) | [Dust](https://open.spotify.com/album/1m4aTi4jZc9lBQNzWP9oDG) | 4:00 |
 | 110 | [Natalia](https://open.spotify.com/track/6lkwCchHWA4WadaF4snZQ5) | [Tanner Wilfong](https://open.spotify.com/artist/2IE0QapTWNRO9Bij3xFjYF) | [Natalia](https://open.spotify.com/album/05KaFDGtQKHDfxQJAy4GPY) | 2:57 |
-| 111 | [Unlikely Community](https://open.spotify.com/track/59cWHNhV0b48LWY486RxNa) | [Eamon Harkin](https://open.spotify.com/artist/2Vjxc2icvsiPPgzPz9nQQC) | [Unlikely Community](https://open.spotify.com/album/2eKIm2IX8mEbECPwH3eA58) | 0:29 |
+| 111 | [Unlikely Community](https://open.spotify.com/track/59cWHNhV0b48LWY486RxNa) | [Eamon Harkin](https://open.spotify.com/artist/2Vjxc2icvsiPPgzPz9nQQC) | [Unlikely Community](https://open.spotify.com/album/2eKIm2IX8mEbECPwH3eA58) | 6:02 |
 | 112 | [Song for Vinny D](https://open.spotify.com/track/0FpNTXxQHo1gjMoGZixA85) | [Ciel](https://open.spotify.com/artist/1Rv2Pete1cFEKlDYk0hjWl) | [Song for Vinny D](https://open.spotify.com/album/6wRLNW9bzcasBIfVZy8uFc) | 5:54 |
 | 113 | [That's How I Know](https://open.spotify.com/track/483llvndLWRuF9WoDxO2Ol) | [Marcus Cito](https://open.spotify.com/artist/3r26IN2ktuEyJs4hUoOlzC), [Sam Phay](https://open.spotify.com/artist/0zTCoyOV9kZ4RNUWpZsLTb) | [That's How I Know](https://open.spotify.com/album/7HHkxcy2V3O3GkLbkDU5FV) | 2:56 |
 | 114 | [Both Sides](https://open.spotify.com/track/0SkdSsuQQNkFz7ZllYFoGS) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw), [Denyher](https://open.spotify.com/artist/0sPzTv6cyRxqiBRVnNXd31) | [Both Sides](https://open.spotify.com/album/1iG6fN6hv4iMYYOHJnaymO) | 3:01 |

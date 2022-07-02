@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Representando la cultura con orgullo. Representing with pride! Cover: Danny Ocean",
+  "description": "Representando la cultura con orgullo. Representing with pride! Cover: Lasso",
   "name": "Made In Venezuela",
   "published_playlist_ids": [
     "4xACWEQcvbn1jztRRt6IeV"
@@ -368,7 +368,7 @@
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 230280,
       "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
       "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
     },
@@ -976,7 +976,7 @@
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 252453,
       "name": "Manantial de Coraz\u00f3n",
       "url": "https://open.spotify.com/track/24ri1EFlBW3eYOuidgmBxu"
     },
@@ -1065,7 +1065,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 283141,
       "name": "Me Tengo Que Ir",
       "url": "https://open.spotify.com/track/2EVrtZE6ssvmLQ4qDjsnc9"
@@ -1119,7 +1119,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 144000,
       "name": "Mienteme",
       "url": "https://open.spotify.com/track/1FRXYqJfNWcNCsuvsAPtHa"
@@ -1266,6 +1266,24 @@
     },
     {
       "album": {
+        "name": "Ojos Marrones",
+        "url": "https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198520,
+      "name": "Ojos Marrones",
+      "url": "https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88"
+    },
+    {
+      "album": {
         "name": "Pan Con Miel",
         "url": "https://open.spotify.com/album/3550c67ffZKqFF19wbtM15"
       },
@@ -1281,6 +1299,24 @@
       "duration_ms": 207166,
       "name": "Pan Con Miel",
       "url": "https://open.spotify.com/track/76KXhl2WCGyc6B0dkhO61W"
+    },
+    {
+      "album": {
+        "name": "Los Adolescentes",
+        "url": "https://open.spotify.com/album/6S1EDLEQGq8iofwgUtJxas"
+      },
+      "artists": [
+        {
+          "name": "Milleniun Hits",
+          "url": "https://open.spotify.com/artist/0xbGf3FKLF3P3yzf1hecRY"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282096,
+      "name": "Persona Ideal",
+      "url": "https://open.spotify.com/track/6RgTdJ485ABZ64HkWpEYon"
     },
     {
       "album": {
@@ -1666,7 +1702,7 @@
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 206611,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1"
     },
@@ -1750,7 +1786,7 @@
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 246000,
       "name": "Un D\u00eda a la Vez",
       "url": "https://open.spotify.com/track/1tlIVwWxXIIoNfqa9aELW9"
     },
@@ -1884,7 +1920,7 @@
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 215797,
       "name": "Ya Compr\u00e9 el Anillo",
       "url": "https://open.spotify.com/track/2iZwmHdh0xGzFpdm48uFbL"
     },

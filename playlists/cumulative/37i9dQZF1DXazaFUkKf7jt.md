@@ -4,7 +4,7 @@
 
 > Essential tracks from masterpiece RPG series, “SaGa”\. ゲーム史の変遷と共に歩み続け30年。数々の感動を生み続けるRPG「SaGa」シリーズの名曲たちをプレイリストで。
 
-61 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/2D0jbX6eAnZtJ3v3bXZ0zg)
+61 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/2D0jbX6eAnZtJ3v3bXZ0zg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,8 +19,8 @@
 | [Misgestalt](https://open.spotify.com/track/6npTHGbLFc0U7HnXRKoSp1) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [サガ フロンティア 2 オリジナル・サウンドトラック](https://open.spotify.com/album/7b6db88dCfBXaJvFTXRo3B) | 2:31 | 2021-05-21 |  |
 | [Postludium](https://open.spotify.com/track/5JeOpKFHvq62djJrZPIPGs) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [サガ フロンティア 2 オリジナル・サウンドトラック](https://open.spotify.com/album/7b6db88dCfBXaJvFTXRo3B) | 1:25 | 2021-05-21 |  |
 | [Re:Birth II \- Believing My Justice from Romancing SAGA \-Minstrel Song\-](https://open.spotify.com/track/0STp3IwJOFADVOCmxIIoC5) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Re:Birth II/ロマンシングサ・ガ バトル 伊藤賢治アレンジアルバム](https://open.spotify.com/album/0wujz1vNEQoDva67VD1gWg) | 4:15 | 2021-05-21 |  |
-| [Re:Birth II \-連\- 熱情の律動](https://open.spotify.com/track/6TKfzDuQiXhJ5oXnzRUcMk) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Re:BirthⅡ\-連\- / サガ バトルアレンジ](https://open.spotify.com/album/1YonD3ESd4UNqCx31AtCxr) | 0:29 | 2021-05-21 |  |
-| [Re:Birth II \-連\- 燃える血潮\~Save the world メドレー](https://open.spotify.com/track/4A5jFjRUU105tAtJ98u3N7) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Re:BirthⅡ\-連\- / サガ バトルアレンジ](https://open.spotify.com/album/1YonD3ESd4UNqCx31AtCxr) | 0:29 | 2021-05-21 |  |
+| [Re:Birth II \-連\- 熱情の律動](https://open.spotify.com/track/6TKfzDuQiXhJ5oXnzRUcMk) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Re:BirthⅡ\-連\- / サガ バトルアレンジ](https://open.spotify.com/album/1YonD3ESd4UNqCx31AtCxr) | 4:47 | 2021-05-21 |  |
+| [Re:Birth II \-連\- 燃える血潮\~Save the world メドレー](https://open.spotify.com/track/4A5jFjRUU105tAtJ98u3N7) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Re:BirthⅡ\-連\- / サガ バトルアレンジ](https://open.spotify.com/album/1YonD3ESd4UNqCx31AtCxr) | 5:09 | 2021-05-21 |  |
 | [Re:Birth II \-閃\- 必殺の一撃\~死闘の果てに メドレー](https://open.spotify.com/track/688XPw0omGnAlvG9ZL1a8r) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Re:BirthⅡ\-閃\- サガ バトルアレンジ](https://open.spotify.com/album/4cYtdRiUVTvrmEJSAAgLjb) | 4:58 | 2021-05-21 |  |
 | [Re:Birth Ⅱ \-閃\- 下水道](https://open.spotify.com/track/1IPdmqu9ukYRLcFoOA91D0) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Re:BirthⅡ\-閃\- サガ バトルアレンジ](https://open.spotify.com/album/4cYtdRiUVTvrmEJSAAgLjb) | 4:08 | 2021-05-21 |  |
 | [Re:Tune \- バトル1メドレー from Romancing Sa・Ga 1,2,3, Romancing SAGA \-Minstrel Song\-](https://open.spotify.com/track/4sG5Ic6cwKsUXNJTqUnMU9) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Re:Tune Romancing SaGa BATTLE ARRANGE](https://open.spotify.com/album/7qomlqhNvOEhMohbvPU2Qf) | 4:37 | 2021-05-21 |  |

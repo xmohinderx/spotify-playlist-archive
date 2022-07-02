@@ -46,7 +46,7 @@
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 253680,
       "name": "Ahnma",
       "url": "https://open.spotify.com/track/1sr9lbDDGIxmFK7wUdA1Z8"
     },
@@ -103,7 +103,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 266346,
       "name": "Alles verloren",
       "url": "https://open.spotify.com/track/3rTyIZehMuV8fZDx3ZevRr"
@@ -202,7 +202,7 @@
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 238560,
       "name": "Bilder im Kopf",
       "url": "https://open.spotify.com/track/3AzVdNe7tCYbjjRzQyVLbN"
     },
@@ -358,7 +358,7 @@
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 284906,
       "name": "Dickes B (feat. Black Kappa)",
       "url": "https://open.spotify.com/track/4eRmCZWJoEtLl0wy7EJPwd"
     },
@@ -437,7 +437,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 163506,
       "name": "Du bist Boss",
       "url": "https://open.spotify.com/track/32IKJthM7ARKvGBTZCE1Et"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 221333,
       "name": "Eines Tages",
       "url": "https://open.spotify.com/track/3PFjIAljdzO7uV1VDtedbU"
@@ -647,7 +647,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 212240,
       "name": "Gustav Gans",
       "url": "https://open.spotify.com/track/34zCp2LJUlYimBJQVpfpuX"
@@ -684,7 +684,7 @@
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 250680,
       "name": "Hey Du!",
       "url": "https://open.spotify.com/track/5YU9jwcZ5vzLkcyWU8NTcj"
     },
@@ -749,7 +749,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 189280,
       "name": "Ich rolle mit meim Besten - Babos Remix",
       "url": "https://open.spotify.com/track/2AXOg2WMjJt8Os7M3b589T"
@@ -869,7 +869,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 295440,
       "name": "Klar",
       "url": "https://open.spotify.com/track/4NoS6rrdfwBBJNrQnosub4"
@@ -1037,7 +1037,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 323253,
       "name": "Neuruppin",
       "url": "https://open.spotify.com/track/6REiDLAJKtYGoZsPVgNdiH"
@@ -1225,7 +1225,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 230546,
       "name": "Poesie Album",
       "url": "https://open.spotify.com/track/0T8wIusBn0OpzFm2H6AVNY"
@@ -1251,6 +1251,28 @@
       "duration_ms": 244026,
       "name": "Prison Break Anthem (Ich Glaub An Dich) - Single Version",
       "url": "https://open.spotify.com/track/0SsQNbkgmhYjR6zS5dOGEF"
+    },
+    {
+      "album": {
+        "name": "Rolle mit Hip Hop",
+        "url": "https://open.spotify.com/album/6bGk9TnHYMTKsQBpASDu3q"
+      },
+      "artists": [
+        {
+          "name": "Afrob",
+          "url": "https://open.spotify.com/artist/0XTiLzJ1VpU4HygM7uKA8c"
+        },
+        {
+          "name": "Ferris MC",
+          "url": "https://open.spotify.com/artist/7Jfwqfcttij8KlrvaIZRBk"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216693,
+      "name": "Reimemonster (feat. Ferris MC)",
+      "url": "https://open.spotify.com/track/0pgx8fWphTTM9Kv5KjWpXy"
     },
     {
       "album": {
@@ -1382,7 +1404,7 @@
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 200960,
       "name": "Stumm (Xenja)",
       "url": "https://open.spotify.com/track/2i7JKHuJsmbVIle3b7rxCx"
     },
@@ -1417,7 +1439,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 253760,
       "name": "Und was ist jetzt - Single Version",
       "url": "https://open.spotify.com/track/3GBYS5utUTjLGhmiTKKeam"

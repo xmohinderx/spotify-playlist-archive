@@ -4,7 +4,7 @@
 
 > This playlist is a soundtrack for you to live your best life, to experience the best love you will ever have, to remember that in the moments where things feel hard, hard times don't last forever\. With Love, <a href="https://www.theokraproject.com/">The Okra Project</a> \| Cover: Dominique Morgan
 
-50 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/3Gf6ys8rN3kfNRvU11Rtik)
+50 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/3Gf6ys8rN3kfNRvU11Rtik)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [And I](https://open.spotify.com/track/1Jp9n1uHB72CfK31j4mEPh) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Goodies](https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3) | 3:53 | 2022-03-08 |  |
 | [Be Alive \(Original Song from the Motion Picture "King Richard"\)](https://open.spotify.com/track/1RI4YQVFh7onQD07QuL8ND) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Be Alive \(Original Song from the Motion Picture "King Richard"\)](https://open.spotify.com/album/5a73HUmrKIebjmafM1QuFS) | 3:40 | 2022-03-08 |  |
 | [Brokenhearted](https://open.spotify.com/track/3zeyP0JnzXEx3uZLmpOdtP) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Brandy](https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6) | 5:52 | 2022-03-08 |  |
-| [Can't Raise a Man](https://open.spotify.com/track/0vvKyFjX1hzSwpNtVwnJ2H) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [Rebellious Soul](https://open.spotify.com/album/6fGZwUN91Qe5h8xFcLV487) | 0:29 | 2022-03-08 |  |
+| [Can't Raise a Man](https://open.spotify.com/track/0vvKyFjX1hzSwpNtVwnJ2H) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [Rebellious Soul](https://open.spotify.com/album/6fGZwUN91Qe5h8xFcLV487) | 3:28 | 2022-03-08 |  |
 | [Catch This Love](https://open.spotify.com/track/6srcAu7CPT2h2ePrCEm42q) | [Mila Jam](https://open.spotify.com/artist/6m7wJXzvVyE0j6eef6pj1a) | [Catch This Love](https://open.spotify.com/album/31BvJJpjUx5g8GjRgU8xQa) | 2:18 | 2022-03-08 |  |
 | [Dive](https://open.spotify.com/track/6qCJs5tpKRER18Ev4s7KGA) | [Asanni Armon](https://open.spotify.com/artist/2c4SvUMW4DTtQL6o3XAT2W), [Doug Thee Savage](https://open.spotify.com/artist/5qg3wWsQAz1oQ7iYiiMp2v), [PHARAOH RAPTURE](https://open.spotify.com/artist/21AxhVOZ35gW0kQxVzrd6z), [s.e.r](https://open.spotify.com/artist/03iO7GSdDJazWl7NBWBbDp), [Saint Justina](https://open.spotify.com/artist/3i9wTTVlckchlRby1LDBOK) | [Dive](https://open.spotify.com/album/7L4gV9Og1WCJDQFFA7f8yw) | 4:09 | 2022-03-08 |  |
 | [Do You Feel](https://open.spotify.com/track/7vuEdoEGYqzfR1ooE8EhlE) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [No Beginning No End](https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW) | 7:36 | 2022-03-08 |  |
@@ -38,7 +38,7 @@
 | [Love Wouldn't Count Me Out](https://open.spotify.com/track/10eMeD9SpGPtah40sU77GI) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Full Moon](https://open.spotify.com/album/7721xmJK5tmifUQdcmJ6An) | 4:19 | 2022-03-08 |  |
 | [Mine Again](https://open.spotify.com/track/38eXybknveyZKLQVA9vMps) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 4:01 | 2022-03-08 |  |
 | [Only One U](https://open.spotify.com/track/1ECGh3dbB4ClgPjrq0ZbGn) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Fantasia](https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX) | 4:00 | 2022-03-08 |  |
-| [Pressure](https://open.spotify.com/track/0ChvD4klEvWUqExCIuHvF6) | [Miss Iman Hill](https://open.spotify.com/artist/1oBacgdbTxrL6KS8VSGOmr) | [If Mona Lisa Could Talk](https://open.spotify.com/album/7t62YSvKh49ktuf1z3sBFj) | 0:29 | 2022-03-08 |  |
+| [Pressure](https://open.spotify.com/track/0ChvD4klEvWUqExCIuHvF6) | [Miss Iman Hill](https://open.spotify.com/artist/1oBacgdbTxrL6KS8VSGOmr) | [If Mona Lisa Could Talk](https://open.spotify.com/album/7t62YSvKh49ktuf1z3sBFj) | 3:10 | 2022-03-08 |  |
 | [Rider](https://open.spotify.com/track/7BUnSvQPU5m830Et7fLAZt) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [AZEB \- EP](https://open.spotify.com/album/0HvQdKEGTs0l1fV5feEYDi) | 2:45 | 2022-03-08 |  |
 | [She Got It](https://open.spotify.com/track/4AebZz6zjrNpqk7mehE24x) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Illustrations](https://open.spotify.com/album/00pFZrH0XRIXJGo86PQSYW) | 3:09 | 2022-03-08 |  |
 | [Slim Thicc](https://open.spotify.com/track/23M855TLK1ExaI0TUeYX6p) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9), [Trakgirl](https://open.spotify.com/artist/74sormm4xAseMByk8cFRGH) | [Slim Thicc](https://open.spotify.com/album/6ftFXoB67MzOgaQgM6aRLP) | 2:59 | 2022-03-08 |  |

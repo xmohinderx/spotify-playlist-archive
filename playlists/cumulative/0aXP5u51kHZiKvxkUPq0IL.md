@@ -4,13 +4,13 @@
 
 > Score your day with some signature indie ballads.
 
-57 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/04ZASbGllIfGh6S6l6QMRk)
+57 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/04ZASbGllIfGh6S6l6QMRk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Cause I'm A Man](https://open.spotify.com/track/7Bsty8kmuETmsBC15k2orC) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | ['Cause I'm A Man](https://open.spotify.com/album/4vCPJt9JIOQVowf3el0Thx) | 4:01 | 2015-04-07 |  |
 | [Air](https://open.spotify.com/track/1YQafeyn9ZQwB00u3kuH0k) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Air](https://open.spotify.com/album/06nwNSJTPSybqzY08z186g) | 3:11 | 2015-04-07 |  |
-| [All I Want](https://open.spotify.com/track/0JggQ4jzbptIywK9O2BcG2) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi) | [All I Want: The Sonic Factory Sessions](https://open.spotify.com/album/1LygChf3iU7L1fBzpBD6Y2) | 0:29 | 2015-01-28 |  |
+| [All I Want](https://open.spotify.com/track/0JggQ4jzbptIywK9O2BcG2) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi) | [All I Want: The Sonic Factory Sessions](https://open.spotify.com/album/1LygChf3iU7L1fBzpBD6Y2) | 3:57 | 2015-01-28 |  |
 | [Almost Lover](https://open.spotify.com/track/3GSYWQNnSdovwC2H8HpziA) | [A Fine Frenzy](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) | [One Cell In The Sea](https://open.spotify.com/album/0Ot7MEgreG2R93aN42M9iK) | 4:28 | 2015-01-29 |  |
 | [Another One](https://open.spotify.com/track/3eGW9ANdFCJUqs6pZwH3As) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Another One](https://open.spotify.com/album/62jm59Aclvv0KQHNdFsqrM) | 2:40 | 2015-06-23 |  |
 | [Big Decisions](https://open.spotify.com/track/1XqJU8TLwVCWOO6NUKhpSG) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [Big Decisions](https://open.spotify.com/album/0GU99JAWX8cpDg1TdD3A5k) | 3:52 | 2015-03-03 |  |
@@ -18,7 +18,7 @@
 | [Caroline \- Live At Spotify House](https://open.spotify.com/track/7AjZ0qsgxGFARwIRBsb102) | [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [Spotify Sessions](https://open.spotify.com/album/4Np9cPlbJVYWQxl6i4Fhc9) | 4:03 | 2015-01-29 |  |
 | [Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:28 | 2015-02-10 |  |
 | [Come on Back This Way \(feat\. Sharon Van Etten\)](https://open.spotify.com/track/4znW92ViEZynv5IdBauBZ9) | [Jack Ladder](https://open.spotify.com/artist/7nMCtlEV4oVcC7cAN2MlLn), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Playmates](https://open.spotify.com/album/6prkJPtNTby2uw2n0FTnLY) | 5:52 | 2015-02-26 |  |
-| [Ferris Wheel](https://open.spotify.com/track/4lOMlUFX4qN0d587hfQMDO) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Singing Saw](https://open.spotify.com/album/1s8RmcZjTuvDt9eQ4MAKLI) | 0:29 | 2016-04-27 |  |
+| [Ferris Wheel](https://open.spotify.com/track/4lOMlUFX4qN0d587hfQMDO) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Singing Saw](https://open.spotify.com/album/1s8RmcZjTuvDt9eQ4MAKLI) | 3:05 | 2016-04-27 |  |
 | [For You](https://open.spotify.com/track/6wUPboIgs7h3J1CE2Qq0d6) | [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [Skin \- EP](https://open.spotify.com/album/4nDTeEOiUHCS1YDOurQPC4) | 3:50 | 2015-04-28 |  |
 | [Foreigner's God](https://open.spotify.com/track/7038lbiIM5IE62i6a4qa5Y) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/36k5aXpxffjVGcNce12GLZ) | 3:45 | 2015-03-02 |  |
 | [Forest Whitaker](https://open.spotify.com/track/2kW59AS9OrpFsuXbi2939R) | [Bad Books](https://open.spotify.com/artist/0e9H8oaYYRCKFXOVv848nt) | [II](https://open.spotify.com/album/1yDgzhR6Dtv7r8F7vOKyIz) | 3:40 | 2015-02-10 |  |

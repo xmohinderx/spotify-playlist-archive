@@ -4,7 +4,7 @@
 
 > Energetic drum & bass to keep your rhythm pumping.
 
-51 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/5GsikiWgqsQsiiBpViWT2y)
+51 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/5GsikiWgqsQsiiBpViWT2y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 | 2022-01-21 |  |
 | [Elemental](https://open.spotify.com/track/2yx33cf8wV4gCCVip2vKMo) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Elemental](https://open.spotify.com/album/44J6yWMGZ8gdPTF9VniGkb) | 3:17 | 2022-01-21 |  |
 | [Embers feat\. Jill Harris \- Feint Remix](https://open.spotify.com/track/1fnY8pVtFE5pnmzI8uVBTP) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Jill Harris](https://open.spotify.com/artist/0sS6vdjySCo7woMsZ1rWtx) | [Bloodless](https://open.spotify.com/album/38RBUsybcjNmmNyquxSoU0) | 3:54 | 2022-01-21 |  |
-| [Emotional \- Draper Remix](https://open.spotify.com/track/3O3JsSOjllUk3jLtLsZVFa) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo), [Draper](https://open.spotify.com/artist/5Z8Qlj0jWh0OOmJ55EwSnu) | [Emotional \(Remixes\)](https://open.spotify.com/album/5LxU8bDcRfcMyAjWDOP50w) | 0:29 | 2022-01-21 |  |
+| [Emotional \- Draper Remix](https://open.spotify.com/track/3O3JsSOjllUk3jLtLsZVFa) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo), [Draper](https://open.spotify.com/artist/5Z8Qlj0jWh0OOmJ55EwSnu) | [Emotional \(Remixes\)](https://open.spotify.com/album/5LxU8bDcRfcMyAjWDOP50w) | 3:43 | 2022-01-21 |  |
 | [Endorphins \- Sub Focus Vs\. Fred V & Grafix Remix](https://open.spotify.com/track/7IvgViHYDXeWa2CILskhUX) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Alex Clare](https://open.spotify.com/artist/5Tf4EH8tDvznnjULcFxkIl), [N Douwma](https://open.spotify.com/artist/6GskrsOe5wAKXOgRfpsIM7), [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY) | [Endorphins](https://open.spotify.com/album/14HygQjdmJBRk3qFTLDtRB) | 4:35 | 2022-01-21 |  |
 | [Face Down \- Original Mix](https://open.spotify.com/track/0o26YnSW4wBGv8h0zkidgF) | [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU) | [Voyage \- \(Liquicity Presents\)](https://open.spotify.com/album/6lQMwpdVLyYvLz51f3uWo7) | 4:02 | 2022-01-21 |  |
 | [Falling Down](https://open.spotify.com/track/6LAC27g94jvgqpmK2EZ3dm) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Falling Down](https://open.spotify.com/album/2gH6ffMWP4qmEfThTGUqeu) | 3:48 | 2022-01-21 |  |

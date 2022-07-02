@@ -4,7 +4,7 @@
 
 > Pop style reggae for a sunny vibe!
 
-93 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/6OON8IP5XzEqV1CYjtEBCy)
+93 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/6OON8IP5XzEqV1CYjtEBCy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Bad Habits](https://open.spotify.com/track/741vtogYZT2POD24ma6X7k) | [Conkarah](https://open.spotify.com/artist/7vPGzgDg3qGUY5bWtrO3K4) | [Bad Habits](https://open.spotify.com/album/2Ofbih2q7WqJKrpubxr20H) | 3:46 | 2021-11-25 |  |
 | [Baltimore](https://open.spotify.com/track/4OXVBbmqS1YoLTHrYYimuw) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Baltimore](https://open.spotify.com/album/0GB2QWABy8Uij9UIS1E10Z) | 5:03 | 2021-11-25 |  |
 | [Beautiful Things](https://open.spotify.com/track/5f1ipolg7GbqPvU82RrPKW) | [Phonosonics](https://open.spotify.com/artist/2xpEIe8STKeim2STwFAVyH) | [Beautiful Things](https://open.spotify.com/album/5AHhfT944fJxDCAwXzSlHn) | 4:04 | 2021-11-25 |  |
-| [Caribbean Plans \- Remix](https://open.spotify.com/track/2zIkY5vcsW2KoMHqBOmHF9) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Caribbean Plans \(Remix\)](https://open.spotify.com/album/2bFSReIMtrAkzp6gHAhHkl) | 0:29 | 2021-11-25 |  |
+| [Caribbean Plans \- Remix](https://open.spotify.com/track/2zIkY5vcsW2KoMHqBOmHF9) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Caribbean Plans \(Remix\)](https://open.spotify.com/album/2bFSReIMtrAkzp6gHAhHkl) | 3:50 | 2021-11-25 |  |
 | [Catching Feelings \(feat\. J Boog\) \- Bimwala Remix](https://open.spotify.com/track/2mjlROYtPqKp9mWANqGtCf) | [Inigo Pascual](https://open.spotify.com/artist/0XOSmu9Qn1agQULUVe0dAK), [Moophs](https://open.spotify.com/artist/3HaL9ONkedXrAybTHYA3w1), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Bimwala](https://open.spotify.com/artist/6pXPBMM6APBn2Ffnh9M55C) | [Catching Feelings \(feat\. J Boog\) \[Bimwala Remix\]](https://open.spotify.com/album/6fkFfPMRuu19AOV1OjNBvJ) | 3:20 | 2021-11-25 |  |
 | [Chill Out](https://open.spotify.com/track/4bLXcbMmmM4aAuhALEfyD7) | [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Chill Out](https://open.spotify.com/album/4Lv1cH9BHvIpCzaP5LNusL) | 4:02 | 2021-11-25 |  |
 | [Circle of Peace](https://open.spotify.com/track/0NUnfqwO7g4jAijTRhrjGv) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebellion Rises](https://open.spotify.com/album/6dIsQaRQ8brUZkbI4TiZpm) | 3:21 | 2021-11-25 |  |
@@ -44,7 +44,7 @@
 | [I Wonder](https://open.spotify.com/track/5ZCNcQRCQfqdE9gAJir3Hg) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [I Wonder](https://open.spotify.com/album/7yHdGR9ZJLR7Gm56tWdKh8) | 2:39 | 2022-04-28 |  |
 | [If Not Today](https://open.spotify.com/track/6l3N5PqwZlGBRTMljrX923) | [JR Kenna](https://open.spotify.com/artist/2ZwZZINTWJqycmO64P77kN), [Governor Tiggy](https://open.spotify.com/artist/5IwMTcaqt4B2bAcPqchc9u), [DJ Jeren](https://open.spotify.com/artist/5QkPMsK0XHCvM6jCbKhuEJ) | [If Not Today](https://open.spotify.com/album/3laz5leeSqRa3adGm0zjXP) | 4:16 | 2021-11-25 | 2022-05-27 |
 | [Imagine](https://open.spotify.com/track/1FIRMWlPQlIVa8cIZe9v6v) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Imagine](https://open.spotify.com/album/1XaxFtVX2ERvKgJftzjGGD) | 4:26 | 2022-03-10 | 2022-04-15 |
-| [Is This Love](https://open.spotify.com/track/2w7xs3r4RZtipgMYTlxsvr) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 0:29 | 2021-11-25 |  |
+| [Is This Love](https://open.spotify.com/track/2w7xs3r4RZtipgMYTlxsvr) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 3:48 | 2021-11-25 |  |
 | [Is This Love](https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 3:52 | 2021-11-25 |  |
 | [Justice \(Get Up, Stand Up\)](https://open.spotify.com/track/0vSNrXPYNh0o7HdSLgsdIY) | [Nakkia Gold](https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Justice \(Get Up, Stand Up\) \(ft\. Wiz Khalifa, Bob Marley & The Wailers\)](https://open.spotify.com/album/0zZhdEIwCXO6hQqIZWxWuC) | 3:18 | 2021-11-25 |  |
 | [Kush Kween](https://open.spotify.com/track/1z7xIbCTOAIOXZXfasscAa) | [Hollie Cook](https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE), [Jah9](https://open.spotify.com/artist/6jNPkvFjV9LEguf2CrcFoH) | [Kush Kween](https://open.spotify.com/album/3fhFCRCkxMpSiURVWwYx1K) | 3:20 | 2022-04-28 |  |

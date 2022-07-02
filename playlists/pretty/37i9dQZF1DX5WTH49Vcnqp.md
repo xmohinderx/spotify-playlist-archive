@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > music that's hard to define but easy to love feat\. Sycco
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,422 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,459 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 71 | [Crosswalk](https://open.spotify.com/track/7o8CauLugNjyHaRI1ko6Fw) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Crosswalk](https://open.spotify.com/album/4a5Y59JwD5YUxVa0xQSqxo) | 4:26 |
 | 72 | [Lemon Lime](https://open.spotify.com/track/2WXkVx5MEJjZ7fpIbOGnJO) | [Jye](https://open.spotify.com/artist/2VXm4JOiSfNQJmo4IXjWOH) | [Lemon Lime](https://open.spotify.com/album/3ymqSQFuvE9pjyIcjcyIDM) | 4:38 |
 | 73 | [Falling Away](https://open.spotify.com/track/1a5Ai6hDNiFwCsxIw9d8b5) | [edith](https://open.spotify.com/artist/6l9Hv70cP4vLDZIMl9KfKQ), [Taj Ralph](https://open.spotify.com/artist/6VU9Ht3FVOrhBT69pmiwG4) | [Falling Away](https://open.spotify.com/album/3yjeisWRJnusRrjswpZCqi) | 3:39 |
-| 74 | [Next High](https://open.spotify.com/track/6B64wN1vUrw79dHumCzfe1) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s), [Kim Tee](https://open.spotify.com/artist/7DA6NRbeRXME2U3tC5sjtp) | [Next High](https://open.spotify.com/album/0kn73DiUZBTTa4rbtj5DjL) | 0:29 |
+| 74 | [Next High](https://open.spotify.com/track/6B64wN1vUrw79dHumCzfe1) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s), [Kim Tee](https://open.spotify.com/artist/7DA6NRbeRXME2U3tC5sjtp) | [Next High](https://open.spotify.com/album/0kn73DiUZBTTa4rbtj5DjL) | 3:29 |
 | 75 | [Flush with Love](https://open.spotify.com/track/5pbpePKq40EPcbfQSlFHD3) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u) | [Mirror Mountain](https://open.spotify.com/album/3hcYCXbWFUV5eP4wZPQn8K) | 4:55 |
 | 76 | [Miss Power](https://open.spotify.com/track/6xRRVm0hhxZCWidWHeCmS9) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Miss Power](https://open.spotify.com/album/6yc8nbYl18KJWnyfwie2Ro) | 2:44 |
 | 77 | [We Don't Talk](https://open.spotify.com/track/1i7FsxeHL4ucIaEUjkK8tB) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [We Don't Talk](https://open.spotify.com/album/69EnFZJj2dKshASrtQIash) | 3:25 |

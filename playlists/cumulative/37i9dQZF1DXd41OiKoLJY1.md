@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Jiya Noina, Artwork: Isu Kim
 
-422 songs - 1 day 1 hr 31 min - [published](https://open.spotify.com/playlist/19D7ttJ9yoRDUaIqZ2rt1y)
+422 songs - 1 day 1 hr 36 min - [published](https://open.spotify.com/playlist/19D7ttJ9yoRDUaIqZ2rt1y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [in love with the city](https://open.spotify.com/track/5UsOLMPeAKi0Fbgzj4gqC0) | [Serif](https://open.spotify.com/artist/0HEonjJEXyvmEYH7yvcZo1) | [in love with the city](https://open.spotify.com/album/6TiFqnah7vUVpg2tlBlW9r) | 3:31 | 2022-01-07 | 2022-03-11 |
 | [INFORMAL](https://open.spotify.com/track/3CeVJsE2VRMGds0ZI9AyDD) | [boredr](https://open.spotify.com/artist/04F0UpZLrWzmLu12KIavZJ), [gio](https://open.spotify.com/artist/7cRlM81fbHdZ3oq7Z70i7X) | [INFORMAL](https://open.spotify.com/album/61Oqz1nhny0j2IrX79JOXb) | 2:43 | 2022-02-03 | 2022-04-01 |
 | [Intentions](https://open.spotify.com/track/02e41nTi85IEEtZOoj711q) | [Skip Tan](https://open.spotify.com/artist/0aEahlmYT7IiWGKzH3wF2T) | [Intentions](https://open.spotify.com/album/3h4H0wOSl0hJbwZ1TwyX05) | 3:37 | 2022-04-21 |  |
-| [isang iglap](https://open.spotify.com/track/1z9IrK41E1nXd0VXgbipIG) | [Roggie Santos](https://open.spotify.com/artist/7JyYqqt7JhlS801H19BuJZ) | [isang iglap](https://open.spotify.com/album/0TW6dBmXASnAFEwBLUTmwf) | 0:29 | 2022-03-31 |  |
+| [isang iglap](https://open.spotify.com/track/1z9IrK41E1nXd0VXgbipIG) | [Roggie Santos](https://open.spotify.com/artist/7JyYqqt7JhlS801H19BuJZ) | [isang iglap](https://open.spotify.com/album/0TW6dBmXASnAFEwBLUTmwf) | 4:28 | 2022-03-31 |  |
 | [ISFIL](https://open.spotify.com/track/6mKXtkDtxCnr0WfHL29bfy) | [Kezia Vanyel](https://open.spotify.com/artist/7xSspTZQjqeHJFbhIFQDWZ) | [ISFIL](https://open.spotify.com/album/4nJxaydCPn29t0f4KfB6BH) | 1:03 | 2022-02-24 | 2022-04-01 |
 | [Ito Lang](https://open.spotify.com/track/70XKo2DmRpsWjyj5TyNibp) | [Aidon Panlaqui](https://open.spotify.com/artist/0ejmq5vo6rqWWWpdPjp31u) | [Ito Lang](https://open.spotify.com/album/1XluBNt9H8CNu76dKvSi5F) | 2:30 | 2022-01-20 | 2022-03-11 |
 | [Ito Na](https://open.spotify.com/track/0jZnhGEM7QpqAxMadYhxok) | [Bigg X](https://open.spotify.com/artist/6mzwrBOWso2xe0H3e11ueq) | [Ito Na](https://open.spotify.com/album/2Te3ZYmP1lpH5102o8n9Dr) | 4:50 | 2022-04-28 | 2022-05-06 |
@@ -253,7 +253,7 @@
 | [Moments](https://open.spotify.com/track/1yPJQTblcMJsbgkS94VnPe) | [Social Climb](https://open.spotify.com/artist/0qJyDXaczsO0G4qsssWXxL) | [Moments](https://open.spotify.com/album/0kAWEAnlFjphpTls7rPrON) | 3:47 | 2022-01-20 | 2022-02-11 |
 | [Mon Amour](https://open.spotify.com/track/60npTP91s65FauHJQojAs1) | [franki](https://open.spotify.com/artist/02yti3oQP7nggaUs2Wqoa9) | [Mon Amour](https://open.spotify.com/album/7IR9jaKXplsIn9BDk0B5Hs) | 3:02 | 2022-01-20 | 2022-02-11 |
 | [MONEY CHASE 2.0](https://open.spotify.com/track/0c1cn4zAETDPdd6LXLWv60) | [OjifvcknBert](https://open.spotify.com/artist/06us9eiJFKQ9Fn7QEyCrCj) | [MONEY CHASE 2.0](https://open.spotify.com/album/2uMgloAXVgtxy22dSFMYr6) | 2:44 | 2022-04-21 | 2022-05-06 |
-| [Moody](https://open.spotify.com/track/2y8r2TucNIvDK8JT8LTuHB) | [Saint Klutch](https://open.spotify.com/artist/4O5M5erNF5cqbhGJmsuDDj) | [Moody](https://open.spotify.com/album/0092agiGtnwg31W5NOftTG) | 0:29 | 2022-03-31 |  |
+| [Moody](https://open.spotify.com/track/2y8r2TucNIvDK8JT8LTuHB) | [Saint Klutch](https://open.spotify.com/artist/4O5M5erNF5cqbhGJmsuDDj) | [Moody](https://open.spotify.com/album/0092agiGtnwg31W5NOftTG) | 2:12 | 2022-03-31 |  |
 | [Morning After Dark](https://open.spotify.com/track/5xDegCyhbfLrPcuh8wgV3O) | [Persii Dijor](https://open.spotify.com/artist/4o19E9lVTAB2PJafVLsorO) | [Morning After Dark](https://open.spotify.com/album/3ccpa9AhxMZtXV22QfOmO8) | 2:57 | 2022-05-19 | 2022-06-17 |
 | [Move With Me](https://open.spotify.com/track/5jJetLGNFoBeyLOFFmhzFS) | [Noy Cajilig](https://open.spotify.com/artist/7hZlzZiPRDfVE6iR2LPngo) | [Move With Me](https://open.spotify.com/album/0bzZlGLm9xnMfZxyjsNxhP) | 2:58 | 2022-01-20 | 2022-02-11 |
 | [Moving On](https://open.spotify.com/track/7ykQxImrJdypa6x32abHbX) | [Matty J](https://open.spotify.com/artist/25KKc9q1O6bKVS9NdgMdGF) | [Moving On](https://open.spotify.com/album/56y9HetpA4gCHfbE3SlfnL) | 3:13 | 2022-06-02 | 2022-06-17 |

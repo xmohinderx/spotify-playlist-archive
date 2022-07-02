@@ -4,11 +4,11 @@
 
 > You'll be up with the sun and running to this playlist of fast paced feel good tunes!
 
-25 songs - 1 hr 28 min - [published](https://open.spotify.com/playlist/3cJYhu5XOiKw5Z1sCU5J49)
+25 songs - 1 hr 31 min - [published](https://open.spotify.com/playlist/3cJYhu5XOiKw5Z1sCU5J49)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Call Me In The Afternoon](https://open.spotify.com/track/2BBb3UMJBNlofpC25pbSp4) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Spotify Sessions](https://open.spotify.com/album/0FCAIjkz366qJJbLe7RSis) | 0:29 | 2015-07-25 |  |
+| [Call Me In The Afternoon](https://open.spotify.com/track/2BBb3UMJBNlofpC25pbSp4) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Spotify Sessions](https://open.spotify.com/album/0FCAIjkz366qJJbLe7RSis) | 3:13 | 2015-07-25 |  |
 | [Cassy O'](https://open.spotify.com/track/4utxrxc5CohfZa6ZhWDdNn) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage](https://open.spotify.com/album/7L4ZwpSwKQCerDQv9C4O1M) | 3:04 | 2015-07-25 |  |
 | [Dime Store Cowgirl](https://open.spotify.com/track/6oU7wRtqnudEKA00egD3sP) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Dime Store Cowgirl](https://open.spotify.com/album/68FVTBYr7BfNK0djLweUcX) | 3:35 | 2015-07-25 |  |
 | [Dust](https://open.spotify.com/track/7L3WVfrpwUN07jkvZg1vrP) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH) | [Little May](https://open.spotify.com/album/15h8DXuEUUU8FKcElRPf4S) | 5:07 | 2015-07-25 |  |

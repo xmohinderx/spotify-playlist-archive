@@ -244,7 +244,7 @@
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 457600,
       "name": "Born Under a Bad Sign",
       "url": "https://open.spotify.com/track/1HbOlAS9kF9d5j7WNQbin9"
     },
@@ -262,7 +262,7 @@
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 311240,
       "name": "Built For Comfort",
       "url": "https://open.spotify.com/track/3klYyhZSVWWnCEsPyD0dSs"
     },
@@ -1130,6 +1130,24 @@
     },
     {
       "album": {
+        "name": "Green Onions",
+        "url": "https://open.spotify.com/album/2sSDqJOZ7gea3yMbqPUrhq"
+      },
+      "artists": [
+        {
+          "name": "Booker T. & the M.G.'s",
+          "url": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150693,
+      "name": "Jelly Bread",
+      "url": "https://open.spotify.com/track/2eaAUnd8AKIFD0RAfPiW3z"
+    },
+    {
+      "album": {
         "name": "Goin' To Chicago",
         "url": "https://open.spotify.com/album/4p5MlG351OaQac8CRZsF3K"
       },
@@ -1290,7 +1308,7 @@
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 321800,
       "name": "Mannish Boy",
       "url": "https://open.spotify.com/track/5vZOZXF9p5v2ttJKk5Vo0L"
     },
@@ -1868,7 +1886,7 @@
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 528133,
       "name": "Voodoo Chile Blues",
       "url": "https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1"
     },

@@ -4,7 +4,7 @@
 
 > Enjoy the glorious summer days with these happy mood tracks full of sunshine.
 
-42 songs - 2 hr 30 min - [published](https://open.spotify.com/playlist/23e1w0MnmDr7XxaMta4KDX)
+42 songs - 2 hr 38 min - [published](https://open.spotify.com/playlist/23e1w0MnmDr7XxaMta4KDX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Belgian Venice](https://open.spotify.com/track/2lC2rdpZPP7lA3YXHldl2E) | [Danny Blue and the Old Socks](https://open.spotify.com/artist/5s0rjfjcB5bk1bKAE2azc8) | [Backyard Days](https://open.spotify.com/album/0z03PSSDy2Dn5i2LEINoet) | 3:36 | 2018-05-07 |  |
 | [Brooklyn](https://open.spotify.com/track/6k56rrBNL9gFtig2UKR1dr) | [Glass Vaults](https://open.spotify.com/artist/3M4TKjKZ5wcoXtPMiw4kOj) | [Brooklyn](https://open.spotify.com/album/11P0ter2ur131f8qUE8eDd) | 4:16 | 2017-04-30 |  |
 | [California Sunrise](https://open.spotify.com/track/1rTwIDd21owxbDdHI9l8lI) | [Dirty Gold](https://open.spotify.com/artist/2BcIBFXVoydowG3UQYYq49) | [California Sunrise \- Single](https://open.spotify.com/album/618hXEDhJknMT3tReeAAg9) | 3:58 | 2017-04-25 |  |
-| [Classic](https://open.spotify.com/track/0gqVHimPxgL91CSBPfg9lK) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Classic](https://open.spotify.com/album/59cUwR1ZpD2e0dup12eyPr) | 0:29 | 2018-04-14 |  |
+| [Classic](https://open.spotify.com/track/0gqVHimPxgL91CSBPfg9lK) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Classic](https://open.spotify.com/album/59cUwR1ZpD2e0dup12eyPr) | 4:40 | 2018-04-14 |  |
 | [Darling](https://open.spotify.com/track/7Lpi2otSpwKiTpFsdDKEzP) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Darling](https://open.spotify.com/album/45zccaZrkPvaq6kIDYo0pz) | 4:20 | 2017-04-30 |  |
 | [Day at Work](https://open.spotify.com/track/2nZeaBoYarVADvHyslB2zr) | [Nouveau Vélo](https://open.spotify.com/artist/2fHGph9uCiA0sBSfoumYQn) | [Day at Work](https://open.spotify.com/album/6fhWJS64hkoOB34BYzLCNK) | 3:16 | 2017-04-29 |  |
 | [Default](https://open.spotify.com/track/0KRt3JLzhqVeS4RCUFuBpT) | [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab) | [Django Django](https://open.spotify.com/album/0xSfNEjEO1rB1RDBRuIjJL) | 3:05 | 2017-05-28 |  |
@@ -29,7 +29,7 @@
 | [Magnolia](https://open.spotify.com/track/78lFgN1JjH5bUfIbNgJ5O1) | [The Essentialists](https://open.spotify.com/artist/0RV8ECWr4P9PFZXSobsnh9) | [Magnolia](https://open.spotify.com/album/6fziHdgbWCiVR44A2r8mTx) | 5:02 | 2017-04-24 |  |
 | [Matter of Time](https://open.spotify.com/track/7MqscQics2OqU2nonxH0fv) | [Surfer Blood](https://open.spotify.com/artist/0IlQRCafsMrd0QkTRBU6n0) | [Snowdonia](https://open.spotify.com/album/7fs3du7ZRrwnnyAQwR1XFG) | 3:03 | 2017-04-29 |  |
 | [Mississippi, Come and Take Me](https://open.spotify.com/track/4e5c0YKrkcwwb47HflzBy1) | [Syntax Club](https://open.spotify.com/artist/2IHBT1NtXh3s3fcoP2D8A9) | [Mississippi, Come and Take Me](https://open.spotify.com/album/0QdR1EmvXQzIgwv8pCHK2i) | 2:38 | 2017-06-26 |  |
-| [Move](https://open.spotify.com/track/4P8ANTO1EXeEhYVDa8Tcy7) | [Pacific Air](https://open.spotify.com/artist/3LedjkHgJTjLJfDTM5YgmD) | [Stop Talking \(Spotify Exclusive\)](https://open.spotify.com/album/2P4wXBq6Db5MiVgbhyxJte) | 0:29 | 2017-04-30 |  |
+| [Move](https://open.spotify.com/track/4P8ANTO1EXeEhYVDa8Tcy7) | [Pacific Air](https://open.spotify.com/artist/3LedjkHgJTjLJfDTM5YgmD) | [Stop Talking \(Spotify Exclusive\)](https://open.spotify.com/album/2P4wXBq6Db5MiVgbhyxJte) | 3:55 | 2017-04-30 |  |
 | [Never Will](https://open.spotify.com/track/5OANa4wh3pZsu2nW7paD5v) | [Headclouds](https://open.spotify.com/artist/19NbjjKpZKE98SQ1pXGdTz) | [Never Will](https://open.spotify.com/album/4CWqZfErzPWMD6C27XG2av) | 3:52 | 2018-03-31 |  |
 | [New Beat](https://open.spotify.com/track/3sHWjEze0wDgblzdW6C0UN) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Underneath The Pine](https://open.spotify.com/album/7jgEQCZH6wzCG1ufHsqki4) | 4:04 | 2017-04-26 |  |
 | [Overreactin'](https://open.spotify.com/track/7kObKLaURkqCkTiAVm2ADP) | [The 1900s](https://open.spotify.com/artist/1GHQ24SSGHZehhuiQwrLRE) | [Return of the Century](https://open.spotify.com/album/1L2pzIC3o1cKUmSTH8wujK) | 3:16 | 2017-04-29 |  |

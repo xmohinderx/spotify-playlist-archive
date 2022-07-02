@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Surf Drums",
+        "url": "https://open.spotify.com/album/0pmft5pJtKhZaJxE1Bg9mp"
+      },
+      "artists": [
+        {
+          "name": "The Lively Ones",
+          "url": "https://open.spotify.com/artist/63T2P0nIRzAj4rCSwnSC8J"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182466,
+      "name": "40 Miles Bad Road",
+      "url": "https://open.spotify.com/track/1SzKu64YLIUqbIVDHyDWOx"
+    },
+    {
+      "album": {
         "name": "Golden Guitar Years",
         "url": "https://open.spotify.com/album/1yrrjgxtLP1HRjpW7xKxNq"
       },
@@ -313,6 +331,24 @@
       "duration_ms": 249478,
       "name": "Atmosphere - 2010 Remaster",
       "url": "https://open.spotify.com/track/5UPnBgnylUCjtAPtAH4tJY"
+    },
+    {
+      "album": {
+        "name": "Chocolate Soup for Diabetics, Vol. 1",
+        "url": "https://open.spotify.com/album/4H3Y4L9NS0OTKHFGI5cNnc"
+      },
+      "artists": [
+        {
+          "name": "The Nuchez's",
+          "url": "https://open.spotify.com/artist/5juac9B6Ytvkp5a5s12muD"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132400,
+      "name": "B.g.\u2019s One Eye",
+      "url": "https://open.spotify.com/track/1V3CJZwyzkDw0QBZY8C0ns"
     },
     {
       "album": {
@@ -968,6 +1004,24 @@
     },
     {
       "album": {
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253920,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
+    },
+    {
+      "album": {
         "name": "Off The Bone",
         "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
       },
@@ -983,6 +1037,24 @@
       "duration_ms": 259040,
       "name": "Fever",
       "url": "https://open.spotify.com/track/7w8MExakpbdxhVLos6ccRu"
+    },
+    {
+      "album": {
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463773,
+      "name": "Fields of Coral",
+      "url": "https://open.spotify.com/track/27iy87clL6mJQh9ybqLNK8"
     },
     {
       "album": {
@@ -1004,6 +1076,42 @@
     },
     {
       "album": {
+        "name": "Free Beer\u00ae - Best",
+        "url": "https://open.spotify.com/album/2yATWjO3BytnvQ1Xd0hzhL"
+      },
+      "artists": [
+        {
+          "name": "Free Beer",
+          "url": "https://open.spotify.com/artist/1EwicW2et3B7nOzkOmKaIT"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191316,
+      "name": "Fine Time",
+      "url": "https://open.spotify.com/track/0hePnybCyyhHn97nRWLgp5"
+    },
+    {
+      "album": {
+        "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
+        "url": "https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202613,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/4a08JFMdOAeLMFz9ov82E4"
+    },
+    {
+      "album": {
         "name": "The Wizard Of Is",
         "url": "https://open.spotify.com/album/5IgRl2HyYt1ZSaBbeRYwHA"
       },
@@ -1016,7 +1124,7 @@
       "date_added": "2017-12-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 167533,
       "name": "Full Fathom Five/I Shall Not Care",
       "url": "https://open.spotify.com/track/0Z6CuPLVLe21ljBhkTwplC"
     },
@@ -1628,7 +1736,7 @@
       "date_added": "2017-12-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 146533,
       "name": "Jenny May",
       "url": "https://open.spotify.com/track/4GBOWK3lV5zSVtcgEfTWFT"
     },
@@ -1744,6 +1852,24 @@
     },
     {
       "album": {
+        "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
+        "url": "https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 514479,
+      "name": "Master of Puppets",
+      "url": "https://open.spotify.com/track/799XxzSlWNYkuWJxUbuGnF"
+    },
+    {
+      "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Original Series, Season 3",
         "url": "https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP"
       },
@@ -1831,6 +1957,24 @@
       "duration_ms": 119146,
       "name": "My Bologna",
       "url": "https://open.spotify.com/track/5aUTSJltF24eevgzM2j7gE"
+    },
+    {
+      "album": {
+        "name": "On The Other Side Of Dub (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7JpAENwKVKiDiZrAvnFWis"
+      },
+      "artists": [
+        {
+          "name": "Lone Ranger",
+          "url": "https://open.spotify.com/artist/3Hzw8xWrukU2WgGxqZ5SV3"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Natty Dread On The Go",
+      "url": "https://open.spotify.com/track/2nHoCN8OT5UWrWjGdBLX0F"
     },
     {
       "album": {
@@ -2261,6 +2405,24 @@
     {
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
+        "url": "https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w"
+      },
+      "artists": [
+        {
+          "name": "Rick Derringer",
+          "url": "https://open.spotify.com/artist/1FX4aA0cUcWndv39j1YoTm"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173960,
+      "name": "Rock and Roll, Hoochie Koo - Single Version",
+      "url": "https://open.spotify.com/track/4s063dTrg9T3nSvgddqBHX"
+    },
+    {
+      "album": {
+        "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
         "url": "https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq"
       },
       "artists": [
@@ -2477,6 +2639,10 @@
         {
           "name": "Journey",
           "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        },
+        {
+          "name": "Steve Perry",
+          "url": "https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf"
         }
       ],
       "date_added": "2022-04-12",
@@ -2485,6 +2651,28 @@
       "duration_ms": 165074,
       "name": "Separate Ways (Worlds Apart) - Bryce Miller/Alloy Tracks Remix",
       "url": "https://open.spotify.com/track/0muK9BAzu2TJXQgWPsEj6e"
+    },
+    {
+      "album": {
+        "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
+        "url": "https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        },
+        {
+          "name": "Steve Perry",
+          "url": "https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197133,
+      "name": "Separate Ways (Worlds Apart) - Steve Perry & Bryce Miller Extended Remix",
+      "url": "https://open.spotify.com/track/4QQL5qNwVZ1FctLoVqN9rn"
     },
     {
       "album": {
@@ -2575,6 +2763,24 @@
       "duration_ms": 123806,
       "name": "Six Facts",
       "url": "https://open.spotify.com/track/1mXodH7QcmZuU2D9IuAlkx"
+    },
+    {
+      "album": {
+        "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
+        "url": "https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195506,
+      "name": "Spellbound",
+      "url": "https://open.spotify.com/track/193bm1RUDDOF0cnLJHJ93V"
     },
     {
       "album": {
@@ -3078,6 +3284,24 @@
     },
     {
       "album": {
+        "name": "The CCCP Years",
+        "url": "https://open.spotify.com/album/0VxATEaN6KiKbszFYcrPyB"
+      },
+      "artists": [
+        {
+          "name": "The Red Army Choir",
+          "url": "https://open.spotify.com/artist/4yNluGAiPbYXLwlA9KspbG"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Twilight's Fires",
+      "url": "https://open.spotify.com/track/42oCqSWKMxVnBZlJqm5YZU"
+    },
+    {
+      "album": {
         "name": "Stranger Things (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/0CTCk1eshEadFqZ4NBfe9N"
       },
@@ -3093,6 +3317,24 @@
       "duration_ms": 217053,
       "name": "Twist of Fate",
       "url": "https://open.spotify.com/track/7k7i5YHJSLTbBSuwnWtSBn"
+    },
+    {
+      "album": {
+        "name": "Cosmo's Factory (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161466,
+      "name": "Up Around The Bend",
+      "url": "https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT"
     },
     {
       "album": {
@@ -3249,6 +3491,42 @@
       "duration_ms": 127001,
       "name": "What Did You Do To Him?",
       "url": "https://open.spotify.com/track/7H5z5uEyt29WklcDNL4Sr5"
+    },
+    {
+      "album": {
+        "name": "Stranger Things 4 (Original Score From The Netflix Series)",
+        "url": "https://open.spotify.com/album/5qRG8S2ClNtl71wEf2TKPp"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dixon & Michael Stein",
+          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167851,
+      "name": "What's the Internet?",
+      "url": "https://open.spotify.com/track/7xMIdaVtT9ElM0IOgmbRVZ"
+    },
+    {
+      "album": {
+        "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
+        "url": "https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252986,
+      "name": "When It's Cold I'd Like To Die",
+      "url": "https://open.spotify.com/track/2RhBtpsSB5QwzGu0fVZ4PA"
     },
     {
       "album": {
@@ -3451,6 +3729,24 @@
       "duration_ms": 260880,
       "name": "You're a Fighter",
       "url": "https://open.spotify.com/track/08j7EnYlOsO8tNnDAJuLUc"
+    },
+    {
+      "album": {
+        "name": "Stranger Things 4 (Original Score From The Netflix Series)",
+        "url": "https://open.spotify.com/album/5qRG8S2ClNtl71wEf2TKPp"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dixon & Michael Stein",
+          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194484,
+      "name": "You\u2019re The Heart",
+      "url": "https://open.spotify.com/track/3ukoPvhHj5GWDIiDApO3UD"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXc3KPAjGyPdm"

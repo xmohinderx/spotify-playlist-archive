@@ -4,7 +4,7 @@
 
 > A collection of classics from the height of the folk revival to the rise of the folk rock era\. Cover: <a href="spotify:artist:74ASZWbe4lXaubB36ztrGX">Bob Dylan</a>
 
-118 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/5XrR4yd4Dusry8J0LVbkFW)
+118 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/5XrR4yd4Dusry8J0LVbkFW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,13 +26,13 @@
 | [California Dreamin' \- Single Version](https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 2:42 | 2021-08-18 |  |
 | [Carolina in My Mind](https://open.spotify.com/track/2T5Ch09nefwckOu5NQvjIk) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Greatest Hits](https://open.spotify.com/album/2L4U4JjEADYaVltkvDrkCC) | 3:58 | 2021-08-18 |  |
 | [Carry On](https://open.spotify.com/track/4bjvLvKovcWqZwDbXT5QQX) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [Deja Vu](https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb) | 4:25 | 2021-08-18 | 2022-03-09 |
-| [Cat's in the Cradle](https://open.spotify.com/track/6hLqEJg2GnnDG4W0Y64hyD) | [Harry Chapin](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) | [Cat's in the Cradle / Vacancy](https://open.spotify.com/album/2Nh9PmJwU1W7d06m7woqB1) | 0:29 | 2021-08-18 |  |
+| [Cat's in the Cradle](https://open.spotify.com/track/6hLqEJg2GnnDG4W0Y64hyD) | [Harry Chapin](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) | [Cat's in the Cradle / Vacancy](https://open.spotify.com/album/2Nh9PmJwU1W7d06m7woqB1) | 3:32 | 2021-08-18 |  |
 | [Catch the Wind](https://open.spotify.com/track/3uJhF1XGOJ27hweKEeBOtk) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [Catch the Wind](https://open.spotify.com/album/006j4f1nSU6G9mqolViKSd) | 2:55 | 2021-08-18 |  |
 | [Catch The Wind \- Original Single Version With Strings](https://open.spotify.com/track/4GAizlU5mkaYNjNgy23bjs) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [The Essential Donovan](https://open.spotify.com/album/26orZ1DZ1S7StZbpkv9SZ7) | 2:16 | 2021-08-18 |  |
 | [Chilly Winds \- Live](https://open.spotify.com/track/17vXaFnZxB8GD9IWiqjXYE) | [The Kingston Trio](https://open.spotify.com/artist/3qtcbDvdIgQOXkPbtRvBaQ) | [The Capitol Years](https://open.spotify.com/album/7JLbOcsGsFxEsWV65vGcA8) | 2:38 | 2021-08-18 |  |
 | [City of New Orleans](https://open.spotify.com/track/6sQv6XMvSp0PB0cuuS6Dfz) | [Steve Goodman](https://open.spotify.com/artist/0n5eyZr2XjOLUODPGZrlLB) | [Steve Goodman](https://open.spotify.com/album/61MUZCoQITIcWwghwrgYHM) | 3:50 | 2021-08-18 |  |
 | [Dream A Little Dream Of Me](https://open.spotify.com/track/4GQaSM60Y9UvCNYOKHPIxd) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [Creeque Alley \- The History Of The Mamas And The Papas](https://open.spotify.com/album/6Wo8kOZUTssB59PNQ5Zcp8) | 3:13 | 2021-08-18 |  |
-| [Early Morning Rain](https://open.spotify.com/track/5M1gX3DQvgc7GI6dBWX9FL) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Gord's Gold](https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ) | 0:29 | 2021-08-18 |  |
+| [Early Morning Rain](https://open.spotify.com/track/5M1gX3DQvgc7GI6dBWX9FL) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Gord's Gold](https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ) | 3:18 | 2021-08-18 |  |
 | [Early Morning Rain](https://open.spotify.com/track/4GV5wmFd0G5NW8lQK9aVvP) | [Ian & Sylvia](https://open.spotify.com/artist/2QkNXWhQoTVUMyS9OIDP0H) | [Early Morning Rain](https://open.spotify.com/album/7d4POkYBpW8zKTcZvNEyxa) | 3:58 | 2021-08-18 |  |
 | [Eleanor Rigby](https://open.spotify.com/track/0EbFmS2uZycsxJfg6jvlrn) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Greatest Hits And Others](https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj) | 2:20 | 2021-08-18 |  |
 | [Fire and Rain](https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James](https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ) | 3:20 | 2021-08-18 |  |
@@ -124,7 +124,7 @@
 | [When I'm Gone](https://open.spotify.com/track/0yQ9vnsC7CyPMwAQ3BlWcJ) | [Phil Ochs](https://open.spotify.com/artist/3JhQGw54MOytJP3GZ8KNPo) | [There But For Fortune](https://open.spotify.com/album/5uhYaHfiH4leO4tbdEOZJe) | 4:13 | 2021-08-18 |  |
 | [Where Have All The Flowers Gone? \- Remastered](https://open.spotify.com/track/4C3jDWATqX5n4xaRO8wZOF) | [The Kingston Trio](https://open.spotify.com/artist/3qtcbDvdIgQOXkPbtRvBaQ) | [The Capitol Collector's Series](https://open.spotify.com/album/21Rt1AxI2XkU9codmltHFJ) | 3:04 | 2021-08-18 |  |
 | [Who Knows Where The Time Goes?](https://open.spotify.com/track/1kxtStKyjUkbPqMZXh5i4q) | [Fairport Convention](https://open.spotify.com/artist/2LIdnZDzySb04oH40be1fR) | [Meet On The Ledge: The Classic Years \(1967\-1975\)](https://open.spotify.com/album/6lHi6BAQFyyoEviq9ii9ii) | 5:07 | 2021-08-18 |  |
-| [Wild World](https://open.spotify.com/track/1ykYncbYWgaHapHMJWyGqi) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [The Best Of Cat Stevens 20th Century Masters The Millennium Collection](https://open.spotify.com/album/0oUgS7KaSqBid8THz1Nmnc) | 0:29 | 2021-08-18 |  |
+| [Wild World](https://open.spotify.com/track/1ykYncbYWgaHapHMJWyGqi) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [The Best Of Cat Stevens 20th Century Masters The Millennium Collection](https://open.spotify.com/album/0oUgS7KaSqBid8THz1Nmnc) | 3:19 | 2021-08-18 |  |
 | [Wildflowers \- Remastered](https://open.spotify.com/track/1J7BEJg43wE2fCJiXPY1xq) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [The Complete Trio Collection](https://open.spotify.com/album/25X28V6p34T7dNc2x7Vzt4) | 3:36 | 2021-08-18 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

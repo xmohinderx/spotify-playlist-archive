@@ -4,7 +4,7 @@
 
 > Aerial post\-rock sounds to take you somewhere else.
 
-58 songs - 6 hr 6 min - [published](https://open.spotify.com/playlist/2vUbCCQUSY5J25PxfmpGKN)
+58 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/2vUbCCQUSY5J25PxfmpGKN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Colors In Stereo](https://open.spotify.com/track/2ThL97UJtUQwqZHpgtkktm) | [Moonlit Sailor](https://open.spotify.com/artist/3YX8jgxBqkl30HXjazVXXU) | [Colors In Stereo](https://open.spotify.com/album/6QWZgvK9Gid1Nu8w3rLfCx) | 3:39 | 2020-10-20\* |  |
 | [Coolverine](https://open.spotify.com/track/0h0smRHEjrkSFUhNWQh8SR) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Coolverine](https://open.spotify.com/album/4VbkhUhlZDvaxqXadIdtjk) | 6:16 | 2020-10-20\* | 2021-02-19 |
 | [Darkfield](https://open.spotify.com/track/2aovLXeN9SYnqKKs4LA8BK) | [Caspian](https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa) | [Darkfield](https://open.spotify.com/album/7KAOFjxkdtA3Daw4RdLRc6) | 6:36 | 2020-10-20\* | 2021-10-27 |
-| [Debutante](https://open.spotify.com/track/0CpaNwilKJGqn9WF6K6aRV) | [65daysofstatic](https://open.spotify.com/artist/6DVVsQAnpHdJjb1nYuOQ6g) | [We Were Exploding Anyway](https://open.spotify.com/album/3W3aDgjrpZRIO2YKaWMuyJ) | 0:29 | 2021-06-09 |  |
+| [Debutante](https://open.spotify.com/track/0CpaNwilKJGqn9WF6K6aRV) | [65daysofstatic](https://open.spotify.com/artist/6DVVsQAnpHdJjb1nYuOQ6g) | [We Were Exploding Anyway](https://open.spotify.com/album/3W3aDgjrpZRIO2YKaWMuyJ) | 7:21 | 2021-06-09 |  |
 | [El Odio\. Parte I](https://open.spotify.com/track/60oLFjfjcmDk0qPewtt5Tm) | [Toundra](https://open.spotify.com/artist/3cgIU3hh7Y4pUsPgHB8aYT) | [El Odio\. Parte I](https://open.spotify.com/album/1H3Ps2PV4sNgbpTzZvuinS) | 8:05 | 2021-10-26 |  |
 | [Ether](https://open.spotify.com/track/2mfwBdDf28c24qqKAABkUK) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Ether](https://open.spotify.com/album/7v40ZeGjhUByCeN8GSDbHn) | 5:10 | 2020-10-20\* | 2021-06-09 |
 | [Every Second is a Second Chance](https://open.spotify.com/track/19q3MEth6JSO5PLWtGLhce) | [The Last Dinosaur](https://open.spotify.com/artist/69sFt37arbuC0hGSFAoWqZ) | [Hooray! For Happiness](https://open.spotify.com/album/711BUAij7FQyF93WPaBuh8) | 6:13 | 2020-10-20\* | 2021-06-09 |

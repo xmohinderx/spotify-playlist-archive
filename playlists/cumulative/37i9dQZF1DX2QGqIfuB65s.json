@@ -524,7 +524,7 @@
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 336453,
       "name": "In The Air Tonight - 2015 Remastered",
       "url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb"
     },
@@ -669,24 +669,6 @@
     {
       "album": {
         "name": "2014 Forest Hills Drive",
-        "url": "https://open.spotify.com/album/5EVSKBHF8YN0zyMCONnrAn"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "date_added": "2022-04-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 29048,
-      "name": "No Role Modelz",
-      "url": "https://open.spotify.com/track/69kFyd2ymmN4o7o4ozZCQS"
-    },
-    {
-      "album": {
-        "name": "2014 Forest Hills Drive",
         "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
       },
       "artists": [
@@ -701,6 +683,24 @@
       "duration_ms": 292799,
       "name": "No Role Modelz",
       "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
+    },
+    {
+      "album": {
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/5EVSKBHF8YN0zyMCONnrAn"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292986,
+      "name": "No Role Modelz",
+      "url": "https://open.spotify.com/track/69kFyd2ymmN4o7o4ozZCQS"
     },
     {
       "album": {
@@ -850,7 +850,7 @@
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 200221,
       "name": "POPSTAR (feat. Drake)",
       "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
     },

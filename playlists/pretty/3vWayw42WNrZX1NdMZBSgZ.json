@@ -1,13 +1,109 @@
 {
-  "description": "The perfect mix of the biggest <a href=\"https://www.instagram.com/sonymusiclatin/\">Sony Music Latin</a> hits! Follow this playlist for hot new updates. Cover: Chayanne",
-  "num_followers": 56803,
+  "description": "The perfect mix of the biggest <a href=\"https://www.instagram.com/sonymusiclatin/\">Sony Music Latin</a> hits! Follow this playlist for hot new updates. Cover: Mariangela",
+  "num_followers": 56800,
   "original_name": "Top Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "MzM0NyxhZDYwNGJmMDJlYmRjZDFiMzI4MjNlODRkZWI2NGNkNzUwNDQyNDk2",
+  "snapshot_id": "MzM2MCxjNGU5NTUxMDYxOTZkNTQzNjc2ZmM3YTNlODMxNGE5ZTliNGRjYmUx",
   "tracks": [
+    {
+      "added_at": "2022-07-01 04:06:51",
+      "album": {
+        "name": "So\u00f1arte",
+        "url": "https://open.spotify.com/album/7DvbHY38S9h6wUfQftT2E6"
+      },
+      "artists": [
+        {
+          "name": "Mariangela",
+          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
+        }
+      ],
+      "duration_ms": 185253,
+      "name": "So\u00f1arte",
+      "url": "https://open.spotify.com/track/1UJbPo4QxQPrteYZdNY00H"
+    },
+    {
+      "added_at": "2022-06-30 22:02:51",
+      "album": {
+        "name": "Nicki Nicole (Live at NPR's Tiny Desk)",
+        "url": "https://open.spotify.com/album/56vHzz7py4Ki3p901P1Db5"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 197412,
+      "name": "Colocao - Tiny Desk",
+      "url": "https://open.spotify.com/track/1sdOQxBSDlGc922jSMhPVy"
+    },
+    {
+      "added_at": "2022-07-01 04:10:37",
+      "album": {
+        "name": "Camino al Sol",
+        "url": "https://open.spotify.com/album/1XuG26LABHJVOLlf8VqkSN"
+      },
+      "artists": [
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "duration_ms": 225173,
+      "name": "Jugar a Vivir",
+      "url": "https://open.spotify.com/track/1QlZUoChINBN5BMRmZF0sS"
+    },
+    {
+      "added_at": "2022-07-01 04:12:38",
+      "album": {
+        "name": "Te So\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/4KqGXxT87BWM8NSBmWsqYs"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 215709,
+      "name": "Te So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/65ppBwrWamnB3tSmDZUYPz"
+    },
+    {
+      "added_at": "2022-06-30 22:02:10",
+      "album": {
+        "name": "Volar (feat. Los Legendarios)",
+        "url": "https://open.spotify.com/album/6ktIFKel3BO3Mv9VLvR6R1"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Chris Andrew",
+          "url": "https://open.spotify.com/artist/7vnithGAUscrk9Imtyr6Sd"
+        },
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/5gvs5uFO7JnkuPoc9kxW53"
+        },
+        {
+          "name": "Los Legendarios",
+          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "Volar (feat. Los Legendarios)",
+      "url": "https://open.spotify.com/track/6hrLV324vAy3frmFZZvnEX"
+    },
     {
       "added_at": "2022-06-24 14:39:07",
       "album": {
@@ -49,50 +145,6 @@
       "url": "https://open.spotify.com/track/20yLo8tCAM1LXixAdBf3f2"
     },
     {
-      "added_at": "2022-06-30 22:02:10",
-      "album": {
-        "name": "Volar (feat. Los Legendarios)",
-        "url": "https://open.spotify.com/album/6ktIFKel3BO3Mv9VLvR6R1"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Chris Andrew",
-          "url": "https://open.spotify.com/artist/7vnithGAUscrk9Imtyr6Sd"
-        },
-        {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/5gvs5uFO7JnkuPoc9kxW53"
-        },
-        {
-          "name": "Los Legendarios",
-          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "Volar (feat. Los Legendarios)",
-      "url": "https://open.spotify.com/track/6hrLV324vAy3frmFZZvnEX"
-    },
-    {
-      "added_at": "2022-06-30 22:02:51",
-      "album": {
-        "name": "Nicki Nicole (Live at NPR's Tiny Desk)",
-        "url": "https://open.spotify.com/album/56vHzz7py4Ki3p901P1Db5"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 197412,
-      "name": "Colocao - Tiny Desk",
-      "url": "https://open.spotify.com/track/1sdOQxBSDlGc922jSMhPVy"
-    },
-    {
       "added_at": "2022-06-23 20:34:40",
       "album": {
         "name": "Nunca y Pico",
@@ -117,6 +169,22 @@
       "url": "https://open.spotify.com/track/0GcToAAsQocPVkbVvsORj1"
     },
     {
+      "added_at": "2022-06-30 22:02:51",
+      "album": {
+        "name": "Nicki Nicole (Live at NPR's Tiny Desk)",
+        "url": "https://open.spotify.com/album/56vHzz7py4Ki3p901P1Db5"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 169737,
+      "name": "Parte de M\u00ed - Tiny Desk",
+      "url": "https://open.spotify.com/track/1dWV9oiQdRPpUAnCR4EUpQ"
+    },
+    {
       "added_at": "2022-06-23 22:39:58",
       "album": {
         "name": "T\u00fa y Yo (feat. Vanesa Mart\u00edn)",
@@ -135,22 +203,6 @@
       "duration_ms": 209466,
       "name": "T\u00fa y Yo (feat. Vanesa Mart\u00edn)",
       "url": "https://open.spotify.com/track/71vzHHi7B66IZWfJfjVN7W"
-    },
-    {
-      "added_at": "2022-06-30 22:02:51",
-      "album": {
-        "name": "Nicki Nicole (Live at NPR's Tiny Desk)",
-        "url": "https://open.spotify.com/album/56vHzz7py4Ki3p901P1Db5"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 169737,
-      "name": "Parte de M\u00ed - Tiny Desk",
-      "url": "https://open.spotify.com/track/1dWV9oiQdRPpUAnCR4EUpQ"
     },
     {
       "added_at": "2022-06-16 16:06:32",
@@ -2648,7 +2700,7 @@
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 191360,
       "name": "No Puede Ser - with Eladio Carrion",
       "url": "https://open.spotify.com/track/6X1zhbLzOH4Pw5ip4MTnM1"
     },
@@ -3008,7 +3060,7 @@
           "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 164289,
       "name": "De Enero a Diciembre",
       "url": "https://open.spotify.com/track/1p22yVi9e8DT6BEUvOZ0TL"
     },
@@ -3460,7 +3512,7 @@
           "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 181684,
       "name": "DPM (De Pxta Madre)",
       "url": "https://open.spotify.com/track/37vqi0b9BqN0XN7QHLHTQ8"
     },
@@ -3572,7 +3624,7 @@
           "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 246787,
       "name": "Pa'lla Voy",
       "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
     },
@@ -4344,7 +4396,7 @@
           "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 230728,
       "name": "Mala Costumbre",
       "url": "https://open.spotify.com/track/70uX4beGHc1nQikXveOknp"
     },

@@ -4,7 +4,7 @@
 
 > 
 
-50 songs - 3 hr 11 min - [published](https://open.spotify.com/playlist/69XafBCsMoX255M4c6NQib)
+50 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/69XafBCsMoX255M4c6NQib)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Living Inside Myself](https://open.spotify.com/track/61pglv4fMK2URrYVUL6Ob6) | [Gino Vannelli](https://open.spotify.com/artist/6ltcwvni6HdZAJaWhmIvNR) | [These Are The Days](https://open.spotify.com/album/25ed71g0yD2Ay3bXbhfZHx) | 4:24 | 2013-06-27 |  |
 | [Love On The Rocks](https://open.spotify.com/track/1GcPgAM56VA4w1WIyV7OI6) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [THE GREATEST HITS 1966 \- 1992](https://open.spotify.com/album/1c0Wx6lMXoCyxW9djwsRG6) | 3:39 | 2013-06-27 |  |
 | [Morning Train \(Nine to Five\)](https://open.spotify.com/track/6CEKntwndUlmWhSRflWA5X) | [Sheena Easton](https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s) | [Greatest Hits](https://open.spotify.com/album/7oYG4SA51T8d3QAMpImZ7G) | 3:20 | 2013-06-27 |  |
-| [Passion \- 2008 Remaster](https://open.spotify.com/track/2yF4DENCsYzXKOxpppYmmx) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Definitive Rod Stewart](https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj) | 0:29 | 2013-06-27 |  |
+| [Passion \- 2008 Remaster](https://open.spotify.com/track/2yF4DENCsYzXKOxpppYmmx) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Definitive Rod Stewart](https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj) | 5:32 | 2013-06-27 |  |
 | [Queen Of Hearts](https://open.spotify.com/track/2c2DZHcSLqfCfGEkRMVt1T) | [Juice Newton](https://open.spotify.com/artist/4L1z1IcfK7lbqx8izGHaw5) | [Angel Of The Morning](https://open.spotify.com/album/7uf3R2KfVSvbHLl7sMxAHi) | 3:23 | 2013-06-27 |  |
 | [Rapture](https://open.spotify.com/track/6F2vo4sxRNQ58VYe3pdiaL) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 4:59 | 2013-06-27 |  |
 | [Slow Hand](https://open.spotify.com/track/0woCEywARpK9rZvyaEDimi) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Fire! The Very Best of The Pointer Sisters](https://open.spotify.com/album/091NaILFpszQchbFnIFiIX) | 3:52 | 2013-06-27 |  |

@@ -4,7 +4,7 @@
 
 > Serving up your favorite songs about snacks!
 
-35 songs - 1 hr 16 min - [published](https://open.spotify.com/playlist/13MRTFFYUMBnQ24Jf2e69H)
+35 songs - 1 hr 18 min - [published](https://open.spotify.com/playlist/13MRTFFYUMBnQ24Jf2e69H)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Peanut Butter Sandwich](https://open.spotify.com/track/0b2fS5eCN4TxvYsE8ct1Zr) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Fun Food Songs](https://open.spotify.com/album/24wfwTCNevTGgV2acA4jhR) | 0:58 | 2021-01-08 |  |
 | [Peanut Butter Toast](https://open.spotify.com/track/6NohpfYGyT8JzHNRlFYtjY) | [Peanut Butter Jams](https://open.spotify.com/artist/2kvrXvmS6qLg14n8Z9WZZq) | [Kitchen Dance Party](https://open.spotify.com/album/7Kc3AF4vCj9Dl1tqRmt4U6) | 3:30 | 2021-04-21 |  |
 | [Pie](https://open.spotify.com/track/0TZBFGATIhsjkhxKigJuQm) | [Brady Rymer and the Little Band That Could](https://open.spotify.com/artist/2q0R0ObitsBJIp1sMtfHz6) | [Brady Rymer & The Little Band That Could](https://open.spotify.com/album/1RQo08B3Zf07gHIVxyOiQT) | 3:35 | 2021-01-08 |  |
-| [Pineapple](https://open.spotify.com/track/4Iiq7AOeBXdRcjbrjUpIWb) | [fleaBITE](https://open.spotify.com/artist/6rfo4U1CM0NDIuikxFYDJW), [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Pineapple](https://open.spotify.com/album/4itSGSv8rIQLUjvv9CC5kd) | 0:29 | 2021-01-08 |  |
+| [Pineapple](https://open.spotify.com/track/4Iiq7AOeBXdRcjbrjUpIWb) | [fleaBITE](https://open.spotify.com/artist/6rfo4U1CM0NDIuikxFYDJW), [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Pineapple](https://open.spotify.com/album/4itSGSv8rIQLUjvv9CC5kd) | 2:41 | 2021-01-08 |  |
 | [Popcorn](https://open.spotify.com/track/1I5QE0N3lgDRiu4qZLceU6) | [Laura Doherty](https://open.spotify.com/artist/7bVSBw7ZOfKRyPBzTjEIoG) | [Shining Like a Star](https://open.spotify.com/album/63ha83xWIBGMoCBa1Xnaun) | 2:27 | 2021-01-08 |  |
 | [Popcorn Calling Me](https://open.spotify.com/track/3C5udcs2yXK7uireCnMSJc) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Food Songs](https://open.spotify.com/album/1wQoxA5ERdJj7VNn25amOO) | 1:40 | 2021-01-08 |  |
 | [Raise Your Snack](https://open.spotify.com/track/472BQV4zdV55S4ZU3d3N1f) | [Juice Box Heroes](https://open.spotify.com/artist/59jD6ZyWCyKIXj7wbUMgZs) | [Raise Your Snack](https://open.spotify.com/album/4lwwIcacPugmBh6g8JOl3v) | 3:25 | 2021-01-08 |  |

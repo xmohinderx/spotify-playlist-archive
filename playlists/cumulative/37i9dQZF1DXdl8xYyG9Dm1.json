@@ -1972,6 +1972,28 @@
     },
     {
       "album": {
+        "name": "This Life",
+        "url": "https://open.spotify.com/album/7Jpo8hdYQsZWsjpMv8UXRx"
+      },
+      "artists": [
+        {
+          "name": "Imadh",
+          "url": "https://open.spotify.com/artist/0TOKFUBpQUqy5njsggfDUb"
+        },
+        {
+          "name": "Mbuzi Gang",
+          "url": "https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240041,
+      "name": "This Life",
+      "url": "https://open.spotify.com/track/7apKD9mYK4mD1qR0lHgxAF"
+    },
+    {
+      "album": {
         "name": "tufF lucK",
         "url": "https://open.spotify.com/album/4bOwdHNy1wXRKNdhMRpscl"
       },

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Cradle In Bethlehem](https://open.spotify.com/track/76JY0EcePnLePHMXuYSkvH) | [Plain Simple](https://open.spotify.com/artist/0XUcGC1QHkYmsVInVDjFad) | [A Cradle in Bethlehem](https://open.spotify.com/album/4riylNG00A6FG6CdVhb5hA) | 0:29 | 2021-12-17 |  |
+| [A Cradle In Bethlehem](https://open.spotify.com/track/76JY0EcePnLePHMXuYSkvH) | [Plain Simple](https://open.spotify.com/artist/0XUcGC1QHkYmsVInVDjFad) | [A Cradle in Bethlehem](https://open.spotify.com/album/4riylNG00A6FG6CdVhb5hA) | 3:08 | 2021-12-17 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/4AeRtxiXa5Z6hakq6vTdrk) | [Ashley Jones](https://open.spotify.com/artist/5oZSkpd6njJYnWjqINJ0nJ) | [All I Want for Christmas Is You](https://open.spotify.com/album/474t5zcCFnsicUn3nNooel) | 3:12 | 2021-12-17 |  |
 | [All My Christmases](https://open.spotify.com/track/7M3k7CQYsEOknxlCrXgj1D) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [All My Christmases](https://open.spotify.com/album/1Oc0lXoyXZP6ed8otsHiQJ) | 3:24 | 2021-12-17 |  |
 | [Angel \(Holiday\)](https://open.spotify.com/track/5mb6YQWIVJ44alLjCZmGTT) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [This Warm December, A Brushfire Holiday Vol\. 2](https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T) | 2:02 | 2021-12-17 |  |
@@ -66,6 +66,6 @@
 | [White Christmas](https://open.spotify.com/track/162vGpooHZzhRYDgmVL17b) | [Aurelia Goldspark](https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW) | [White Christmas](https://open.spotify.com/album/0590p13JeOaXsRCl38lKPO) | 2:40 | 2021-12-17 |  |
 | [Winter Wonderland](https://open.spotify.com/track/2SslxBSZSqeyVRq9Mhd6uU) | [McKenna Williams](https://open.spotify.com/artist/03uZO3ld49qo2B5Y39Io05) | [Winter Wonderland](https://open.spotify.com/album/2pQFkne3QWb67GFH4Dr6cX) | 1:51 | 2021-12-17 |  |
 | [Wonderful Christmastime](https://open.spotify.com/track/7G1cFCMNKHixbmq9I8nRvh) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [Wonderful Christmastime](https://open.spotify.com/album/7Aw5Eeq7mSfQGqQj2bZT7V) | 4:14 | 2021-12-17 |  |
-| [You're All I Want For Christmas](https://open.spotify.com/track/6k5yUgb2kSjiJtFWcAIswU) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [You're All I Want For Christmas](https://open.spotify.com/album/0hz1EdPK295xrolats4Mae) | 2:24 | 2021-12-17 |  |
+| [You're All I Want For Christmas](https://open.spotify.com/track/6k5yUgb2kSjiJtFWcAIswU) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [You're All I Want For Christmas](https://open.spotify.com/album/0hz1EdPK295xrolats4Mae) | 0:29 | 2021-12-17 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

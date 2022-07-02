@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0aArwHugPhiiuaL8KxyVXQ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 398 likes - 105 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 398 likes - 105 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/0aArwHugPhiiuaL8KxyVXQ.md) - [plain]
 | 10 | [Pumpin Blood](https://open.spotify.com/track/3dNcq4dzEtbFUM4PGeHHXp) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [Pumpin Blood](https://open.spotify.com/album/3RxXgt17o9OICCTJ17CSHI) | 3:29 |
 | 11 | [My Type](https://open.spotify.com/track/6WP4WTHzaPTCk1QrbRLhgL) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type \- Single](https://open.spotify.com/album/56UzySm3iGD6bq9RvCu578) | 3:23 |
 | 12 | [Saint Valentine](https://open.spotify.com/track/3YmZwc3kRj2yBsnVPJ7iMc) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [The Weatherman](https://open.spotify.com/album/2lh2MrIPBJHvysfyX8pdMg) | 3:23 |
-| 13 | [Gasoline](https://open.spotify.com/track/4UiOaM8S2tC0SujDYM7Ryq) | [Alpine](https://open.spotify.com/artist/4tKUoNubW02udXOh7SLtXV) | [A Is For Alpine](https://open.spotify.com/album/7d4RmUhDVw98Nknceg3iwh) | 0:29 |
+| 13 | [Gasoline](https://open.spotify.com/track/4UiOaM8S2tC0SujDYM7Ryq) | [Alpine](https://open.spotify.com/artist/4tKUoNubW02udXOh7SLtXV) | [A Is For Alpine](https://open.spotify.com/album/7d4RmUhDVw98Nknceg3iwh) | 3:21 |
 | 14 | [Tennis Court](https://open.spotify.com/track/2v38YLdDpheg1gOX94DcBs) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Tennis Court](https://open.spotify.com/album/3cyAckv74LsJfbV5rCZ4bO) | 3:18 |
 | 15 | [Hearts Like Ours](https://open.spotify.com/track/4GBWsXICBxdLndHS0GWaMj) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Hearts Like Ours](https://open.spotify.com/album/7rjvszJemC8mx2jbS5oMgE) | 4:32 |
 | 16 | [Manic Baby](https://open.spotify.com/track/68NxIaewEABNb8We46wlEb) | [The Preatures](https://open.spotify.com/artist/5gcDZA9xXCOspWgQilUYIu) | [Is This How You Feel](https://open.spotify.com/album/3IWF4BvE36s2bkhXArN4kC) | 2:26 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/0aArwHugPhiiuaL8KxyVXQ.md) - [plain]
 | 66 | [The Throw \(Radio Edit\)](https://open.spotify.com/track/2mgWFhiAuY7OOKfjgi5Syz) | [Jagwar Ma](https://open.spotify.com/artist/6fEO1r9Y9TYL9O4w5kVPmc) | [The Throw](https://open.spotify.com/album/1cPkNqmTgIQcWRcp7xqz7I) | 3:37 |
 | 67 | [Sierra Lift](https://open.spotify.com/track/5TtNpBiVb0frGgr63WEyyv) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ) | [Untogether](https://open.spotify.com/album/4TZRCva0skwxl1Vpt5eKZc) | 3:40 |
 | 68 | [Counting](https://open.spotify.com/track/4nUxbwDzKYPlWwv8T98gyA) | [Autre Ne Veut](https://open.spotify.com/artist/7MC5zmK3iZHzPqGZEVSROe) | [Counting](https://open.spotify.com/album/3k0R8rFnmaXgLnd4XXpEjs) | 3:41 |
-| 69 | [Full Circle](https://open.spotify.com/track/682Yji3o5swGYXNUOIl5Ah) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Dark Eyes](https://open.spotify.com/album/61f3wyDLcmz4Red83KWaAG) | 0:29 |
+| 69 | [Full Circle](https://open.spotify.com/track/682Yji3o5swGYXNUOIl5Ah) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Dark Eyes](https://open.spotify.com/album/61f3wyDLcmz4Red83KWaAG) | 3:02 |
 | 70 | [Visitor](https://open.spotify.com/track/2LLxDo0owFrRCXY2RWWcJW) | [Hundred Waters](https://open.spotify.com/artist/108ugtkRFQzP9nGgNiyERO) | [Hundred Waters LP](https://open.spotify.com/album/0NGok7cyyS6TleVCAs4sQx) | 3:48 |
 | 71 | [Wishingbone](https://open.spotify.com/track/2XmElimJJTpdRG3CWxlUOx) | [Winter People](https://open.spotify.com/artist/2gzz731y806RHjpdGwd9ha) | [Wishingbone \- Single](https://open.spotify.com/album/19kPx1lYOnXHtsb548vRnU) | 3:12 |
 | 72 | [Know Til Now](https://open.spotify.com/track/4NMsPwPqkOnXFlUT1ROl9f) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Know Til Now](https://open.spotify.com/album/1R06XDgK6WZb68xTa6w7Xx) | 6:26 |
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/0aArwHugPhiiuaL8KxyVXQ.md) - [plain]
 | 92 | [Whatsapper](https://open.spotify.com/track/70aw21VAAt3fdvqe3GyaG3) | [MC Fitti](https://open.spotify.com/artist/22s3c52N3peN95URzypPcD) | [Whatsapper](https://open.spotify.com/album/5Rx9BxwatDberN8z10RaAC) | 2:46 |
 | 93 | [Heart Shaped Gun](https://open.spotify.com/track/2w2Hky6PaDeND6u5aV7Fby) | [Femme Schmidt](https://open.spotify.com/artist/7qIBB82POU9aRTjsQ4yOZJ) | [Femme SCHMIDT](https://open.spotify.com/album/4ZCVpYnIu1ZCVFR2frZ6pX) | 3:48 |
 | 94 | [Julie \- Cassara's Retouch](https://open.spotify.com/track/3EnXcifc0WW8x7izDfJMAk) | [Wilhelm Tell Me](https://open.spotify.com/artist/1dXrVDV7evHGSp1JVjBucF), [Cassara](https://open.spotify.com/artist/7d3407kIJjwLd6N4aV4VLi) | [Julie](https://open.spotify.com/album/74KvIN4RNmozn7c8UJDbY8) | 5:14 |
-| 95 | [Let Her Go](https://open.spotify.com/track/47UDiZQHAkVtMNhx6EjyOn) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All The Little Lights](https://open.spotify.com/album/0q2zjp8NOkpocqH9LkEPLS) | 0:29 |
+| 95 | [Let Her Go](https://open.spotify.com/track/47UDiZQHAkVtMNhx6EjyOn) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All The Little Lights](https://open.spotify.com/album/0q2zjp8NOkpocqH9LkEPLS) | 4:12 |
 | 96 | [Holdin On](https://open.spotify.com/track/1CRFWfZEfLCs7pYDlXFYMJ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Flume](https://open.spotify.com/album/0cQ4rRAcQ8q5jh1cCjOET1) | 2:34 |
 | 97 | [Dark Again](https://open.spotify.com/track/2qnveiee536HVQ6ayNkAQV) | [Gold Fields](https://open.spotify.com/artist/3kJeINOSExu0ctySTaMu6Q) | [Dark Again \(Lights Out\)](https://open.spotify.com/album/6gxmFCuqOH2zNAHxTH2B66) | 4:39 |
 | 98 | [Bloom](https://open.spotify.com/track/0axYkHi1PrPvfaVGnbP0VE) | [Gypsy & The Cat](https://open.spotify.com/artist/54xBWCXYw0pydXBknIdiC6) | [The Late Blue](https://open.spotify.com/album/2rXxEMp0qSA1G8pG5zalX7) | 3:55 |

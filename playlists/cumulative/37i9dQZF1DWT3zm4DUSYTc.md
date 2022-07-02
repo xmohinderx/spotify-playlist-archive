@@ -4,7 +4,7 @@
 
 > Peaceful tracks for the whole family.
 
-195 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/70JlTcW90vM4eY1bmvDf6c)
+195 songs - 9 hr 59 min - [published](https://open.spotify.com/playlist/70JlTcW90vM4eY1bmvDf6c)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Aion](https://open.spotify.com/track/0ssdj7toIUWMGFmMVMW7Ge) | [O.A.S.](https://open.spotify.com/artist/1aoMIhif29oGaZGwQJ1oTt) | [Aion](https://open.spotify.com/album/1kkglpZHhzTKTLiYx0AXol) | 3:25 | 2021-12-17 |  |
 | [Amoralis](https://open.spotify.com/track/6hVsOvinmJAGJJpXxpPhDy) | [Sheila's Disciples](https://open.spotify.com/artist/6fVRZUOhSnwc3dtmooHbkO) | [Always Wear A Crown](https://open.spotify.com/album/1lqjD9lHsGxFVgzoYP7Xxg) | 4:13 | 2021-12-17 |  |
 | [Anatomy of Change](https://open.spotify.com/track/1kh6iEcYhNL6jbMr5BVEVG) | [Oto Roth](https://open.spotify.com/artist/0tpBeC4HolBI7fkc5omALQ) | [Anatomy of Change](https://open.spotify.com/album/4MrcKyzpC5XEr21ut3bH69) | 2:24 | 2021-12-17 |  |
-| [Andromeda](https://open.spotify.com/track/2vOE9PLXx3MTPy5E0dxPor) | [Zoe Handfield](https://open.spotify.com/artist/0ifYKOfttKEUMV86E0mxxL) | [Andromeda](https://open.spotify.com/album/4QF6bAGczBfA3IgNftiaem) | 0:29 | 2021-12-17 |  |
+| [Andromeda](https://open.spotify.com/track/2vOE9PLXx3MTPy5E0dxPor) | [Zoe Handfield](https://open.spotify.com/artist/0ifYKOfttKEUMV86E0mxxL) | [Andromeda](https://open.spotify.com/album/4QF6bAGczBfA3IgNftiaem) | 2:52 | 2021-12-17 |  |
 | [Appreciation](https://open.spotify.com/track/70w16KjhO0HQz6eqllKYJo) | [Vishal Casey](https://open.spotify.com/artist/4gaEPQ8r7KJfK9QE9nV0Wa) | [Appreciation](https://open.spotify.com/album/1YZf74mUBjZqIhNEeymUw9) | 2:49 | 2021-12-17 |  |
 | [Arrival](https://open.spotify.com/track/3jaCuiu5pvF2e7XnSi1NBw) | [Jupiter Breeze](https://open.spotify.com/artist/5kMqqN0tglnYIi4eXGmL0A) | [Jupiter One](https://open.spotify.com/album/4sVkpKX5ifo2XYpSNHKLyU) | 3:05 | 2021-12-17 |  |
 | [Arriving](https://open.spotify.com/track/730JGpAFz7uj2i53ySidzR) | [Arctic Pulse](https://open.spotify.com/artist/3KFpB0Bu4nUJ4zkJ1JoPVi) | [Eternalis](https://open.spotify.com/album/3qZMZFTUJyvi0fOJuo31sx) | 3:12 | 2021-12-17 |  |
@@ -33,7 +33,7 @@
 | [Blua Aero](https://open.spotify.com/track/3ff3N25wTsj8T1mf2gMTQp) | [Manolakas](https://open.spotify.com/artist/1I2mrOO7itWnvfrda514vi) | [Blua Aero](https://open.spotify.com/album/2rbrHz1pIDymFTlTqImW3Z) | 2:08 | 2021-12-17 |  |
 | [Blunda](https://open.spotify.com/track/49I7QPn7L2aZHnXp3gK3jn) | [Astrid Alvarsson](https://open.spotify.com/artist/6VyE0DpIbQFZlbLCHUdePH) | [Blunda](https://open.spotify.com/album/5Qz5JcIaJzDYdjqiWjcNDK) | 3:32 | 2021-12-17 |  |
 | [Breathe](https://open.spotify.com/track/6o9CIioJ5lDlz9fmgILo3q) | [Sophie Emitt](https://open.spotify.com/artist/2eoLmo76ASA6kgdyZ5QRSN) | [Breathe](https://open.spotify.com/album/5Cz7f35QQnktMlWhmKopX1) | 3:02 | 2021-12-17 |  |
-| [Calibration of Time](https://open.spotify.com/track/4942rhM8v2rn45GZwNdV1K) | [Sleep Lab](https://open.spotify.com/artist/5m6EST12WzdTRdYKtk5w7W) | [Calibration of Time](https://open.spotify.com/album/6cRk4SEFqjH5vPNTNv78KW) | 0:29 | 2021-12-17 |  |
+| [Calibration of Time](https://open.spotify.com/track/4942rhM8v2rn45GZwNdV1K) | [Sleep Lab](https://open.spotify.com/artist/5m6EST12WzdTRdYKtk5w7W) | [Calibration of Time](https://open.spotify.com/album/6cRk4SEFqjH5vPNTNv78KW) | 3:20 | 2021-12-17 |  |
 | [Calm](https://open.spotify.com/track/2LxskIBEuhVXVpl0w4WLne) | [Amber Glow](https://open.spotify.com/artist/20V6s9VAMU5cW2u2r8v6dJ) | [Calm](https://open.spotify.com/album/2Gq3PzfqwVrFHOCyWMEQNP) | 2:59 | 2021-12-17 |  |
 | [Calm Dreams](https://open.spotify.com/track/6nlpDEKjy3VecZrhmaCV27) | [Eleanor Arroway](https://open.spotify.com/artist/3x2VCXXsd5bySXXdbhLZPJ), [Skyler Wilson](https://open.spotify.com/artist/2V2FOQ4bEqDyrhGnzLBCr3) | [Serenities](https://open.spotify.com/album/0wtat5gtD4pBOzLTJVBEIg) | 3:50 | 2021-12-17 |  |
 | [Catharsis](https://open.spotify.com/track/0lDLcIR8XdXwXD4rzEUVMb) | [Zzeta](https://open.spotify.com/artist/2App8sL5EXUqCRCqYYiZIr) | [Catharsis](https://open.spotify.com/album/2BsvG13W1rHgl5sawsazjf) | 2:46 | 2021-12-17 |  |
@@ -45,8 +45,8 @@
 | [Convince Me](https://open.spotify.com/track/2Voua6X82CCcgADavNaBwo) | [Aysha Mathis](https://open.spotify.com/artist/0ONhDd13hkXTpzbP8tkBSy) | [Convince Me](https://open.spotify.com/album/3i2bKg8UkKFYrEWsLuO9k1) | 3:35 | 2021-12-17 |  |
 | [Covering the Sun](https://open.spotify.com/track/1IUe9CBv83sg56rTorIVLp) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Ivory Clouds](https://open.spotify.com/album/4nYrgdNmIyEbayYyjdmppr) | 3:13 | 2021-12-17 |  |
 | [Dark Blue](https://open.spotify.com/track/2BTJLOrqvYeLLeEub0IDJx) | [Palace Flower](https://open.spotify.com/artist/1uU27K4D96Hn0ws2lULjHp) | [Dark Blue](https://open.spotify.com/album/4RlbWH1eu5h1ICu4zeA35n) | 2:54 | 2021-12-17 |  |
-| [Day One](https://open.spotify.com/track/4ahkHICHrJKitc3ki96AAY) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Day One](https://open.spotify.com/album/0GCpcuJ72RuNUVwurbmPTu) | 0:29 | 2021-12-17 |  |
-| [Decumbent](https://open.spotify.com/track/45nNKzH7nKMfyFhUUqdyGY) | [Clifford Solum](https://open.spotify.com/artist/7fU4kMtmQKYqCJoJGEEjnu) | [Decumbent](https://open.spotify.com/album/5bf2DjnmsLeJOYVdDeUM5E) | 0:29 | 2021-12-17 |  |
+| [Day One](https://open.spotify.com/track/4ahkHICHrJKitc3ki96AAY) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Day One](https://open.spotify.com/album/0GCpcuJ72RuNUVwurbmPTu) | 3:42 | 2021-12-17 |  |
+| [Decumbent](https://open.spotify.com/track/45nNKzH7nKMfyFhUUqdyGY) | [Clifford Solum](https://open.spotify.com/artist/7fU4kMtmQKYqCJoJGEEjnu) | [Decumbent](https://open.spotify.com/album/5bf2DjnmsLeJOYVdDeUM5E) | 3:11 | 2021-12-17 |  |
 | [Deep breaths](https://open.spotify.com/track/1XhhBtMKmNGM4yfgMZQVxf) | [Jirou Soller](https://open.spotify.com/artist/0gTSb6SH0iohVVodJGSUlH) | [Deep breaths](https://open.spotify.com/album/3JEiMxMBlySWYU9dpuSMoA) | 2:11 | 2021-12-17 |  |
 | [Deep Down](https://open.spotify.com/track/0reoP6d2gauomTnn8eEF3H) | [Aurora Blue](https://open.spotify.com/artist/7mGqBs7GKrbPVzHZmw637f) | [Deep Down](https://open.spotify.com/album/2rnC5NylKztR1CFSStORe2) | 2:37 | 2021-12-17 |  |
 | [Deep Eyes](https://open.spotify.com/track/3HBzTLiE1KmE0jcxZaYmVe) | [Mikael Arvo](https://open.spotify.com/artist/2RlRTTL9u7o7tf8dGgb78C) | [Deep Eyes](https://open.spotify.com/album/5WrYPWDyABuP2AIZERufky) | 4:40 | 2021-12-17 |  |
@@ -81,7 +81,7 @@
 | [Hanami](https://open.spotify.com/track/0DAX6DFAopKq9PqzIXJi42) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Hanami](https://open.spotify.com/album/5khFi2xy0WnJVwiJ3PW609) | 3:05 | 2021-12-17 |  |
 | [Hibernation](https://open.spotify.com/track/1mYTROYR85RaiaVEtQztis) | [Hushed](https://open.spotify.com/artist/6Jkxik23CyCBIj3rKlflPn) | [Hibernation](https://open.spotify.com/album/5yEAkgLUufqQRCqwAbsS1R) | 3:36 | 2021-12-17 |  |
 | [Huitussi](https://open.spotify.com/track/5gDjNqBVupjXg9FpgVQ68c) | [Sayulita](https://open.spotify.com/artist/1TZG0boEXBMRfxjj1nH6TM) | [Huitussi](https://open.spotify.com/album/64u7zy3JliXzjqK9T3H4Zd) | 2:57 | 2021-12-17 |  |
-| [Hush](https://open.spotify.com/track/13CYT9XLC54qtyg0U8aqb7) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Hush](https://open.spotify.com/album/7B4bF2l6xVB640JDVyu4jP) | 0:29 | 2021-12-17 |  |
+| [Hush](https://open.spotify.com/track/13CYT9XLC54qtyg0U8aqb7) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Hush](https://open.spotify.com/album/7B4bF2l6xVB640JDVyu4jP) | 3:10 | 2021-12-17 |  |
 | [Hypnosis](https://open.spotify.com/track/6xhwbnVSG3DeLM6oZau2Mr) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [The Minimalist](https://open.spotify.com/album/2XtO4MwzBtukUmgMEWZ33M) | 3:12 | 2021-12-17 |  |
 | [Hypnoticum](https://open.spotify.com/track/7jNMkBF2qVypzudevxrC83) | [Soundtopia](https://open.spotify.com/artist/3dZZaV34fz4h29XOiXY1v4) | [Inner States](https://open.spotify.com/album/6vEKd2wkRxT1n4yw7dEcDd) | 3:31 | 2021-12-17 |  |
 | [In my quiet hour](https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk) | [Nicholas Sipka](https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4) | [In My Quiet Hour](https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN) | 2:06 | 2021-12-17 |  |
@@ -90,7 +90,7 @@
 | [Inevitability](https://open.spotify.com/track/0k5TnsKv68q20aE1sJYY7a) | [Fannie Shelton](https://open.spotify.com/artist/3IgG6CQo3mfhUsT1AgNWum) | [Inevitability](https://open.spotify.com/album/6nRr1olpoiH9pky8VQ1eZW) | 3:31 | 2021-12-17 |  |
 | [Insomniac](https://open.spotify.com/track/1CgE3BgULa6UIBk5R3fa7t) | [Sven Stierna](https://open.spotify.com/artist/5nOXbh86dUQBwqI8VZ1upA) | [Insomniac](https://open.spotify.com/album/2D97fLRbV4XVzCIWxKAObW) | 4:21 | 2021-12-17 |  |
 | [Insua](https://open.spotify.com/track/4jAgDrorjMDaqWCB8oVzK1) | [Nordesía](https://open.spotify.com/artist/6sbqijgtC98MAYaPcH3cuu) | [Insua](https://open.spotify.com/album/5AUkwgbTPKrkYs6cyHadxv) | 2:41 | 2021-12-17 |  |
-| [It Matters](https://open.spotify.com/track/0oCxeVzo0X6D0MIgB3c6Bj) | [Mikael Arvo](https://open.spotify.com/artist/2RlRTTL9u7o7tf8dGgb78C) | [Introversion](https://open.spotify.com/album/5F8DCSOMEhSRn3ysLn6cjb) | 0:29 | 2021-12-17 |  |
+| [It Matters](https://open.spotify.com/track/0oCxeVzo0X6D0MIgB3c6Bj) | [Mikael Arvo](https://open.spotify.com/artist/2RlRTTL9u7o7tf8dGgb78C) | [Introversion](https://open.spotify.com/album/5F8DCSOMEhSRn3ysLn6cjb) | 5:06 | 2021-12-17 |  |
 | [Kustlijnen](https://open.spotify.com/track/6LT6ucr7adcngXzRlUdvgz) | [Ebba Dekker](https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg) | [Kustlijnen](https://open.spotify.com/album/3Y9r2EA6hru4h1v8UEuZii) | 2:34 | 2021-12-17 |  |
 | [Langeland](https://open.spotify.com/track/6vZRJSlkmxAEDb51WeqZFC) | [Felix Langgard](https://open.spotify.com/artist/4TGwoikKqGTkf6yt1DVSSL) | [Langeland](https://open.spotify.com/album/4uWdAqHiYju8w7gW1Yilqf) | 3:02 | 2021-12-17 |  |
 | [Lasai](https://open.spotify.com/track/1vXPvFeZGpojHygGjSjQfH) | [Darcie Roman](https://open.spotify.com/artist/3bhvCKBgGPO4OURkbYkt3b) | [Lasai](https://open.spotify.com/album/7kYXPNnP4j96kO0FzCfYjb) | 3:41 | 2021-12-17 |  |
@@ -151,7 +151,7 @@
 | [Rivers](https://open.spotify.com/track/5ymF1YOLVmBCuu4sl7lgNF) | [Howling Winds](https://open.spotify.com/artist/3oRIhCYM75fKWEx2IQUPB0) | [Into The Unknown](https://open.spotify.com/album/11mE08XW63xZM1ZI7nEkxQ) | 3:22 | 2021-12-17 |  |
 | [Sajama](https://open.spotify.com/track/16lkqroAzQvli59vxKjvpF) | [Connie Li](https://open.spotify.com/artist/2pQHm9K7nA97zJGOYhfXau) | [Sajama](https://open.spotify.com/album/6MSBAT2vZRcoi3Ez6TMzV6) | 3:06 | 2021-12-17 |  |
 | [Sajda](https://open.spotify.com/track/0LW7Czzs4PJVBqmftvKk1m) | [Ijaya Gupta](https://open.spotify.com/artist/7uoqtxBclrIjUFV1Ov0tsk) | [Sajda](https://open.spotify.com/album/0UlB8zVbHEuhwEj4YYH2ip) | 3:40 | 2021-12-17 |  |
-| [Salaio](https://open.spotify.com/track/3JtiHgyAOj8mvHUi5zR3Sq) | [De Seu](https://open.spotify.com/artist/1cnFAHOmH9W9QqZYhNSoMs) | [Salaio](https://open.spotify.com/album/1wp9I2G3CzvuTB8LpBQ52k) | 0:29 | 2021-12-17 |  |
+| [Salaio](https://open.spotify.com/track/3JtiHgyAOj8mvHUi5zR3Sq) | [De Seu](https://open.spotify.com/artist/1cnFAHOmH9W9QqZYhNSoMs) | [Salaio](https://open.spotify.com/album/1wp9I2G3CzvuTB8LpBQ52k) | 2:36 | 2021-12-17 |  |
 | [Salve](https://open.spotify.com/track/3ciGnLsselzhecVZZiHzfZ) | [Ferdinando Zetticci](https://open.spotify.com/artist/4MLLLG0z38an4nXddu8R3O) | [Salve](https://open.spotify.com/album/73yZQQSNzwlGyMBwndXjrd) | 2:50 | 2021-12-17 |  |
 | [Sapnis](https://open.spotify.com/track/0UmxO4xdWoH3hRUQwcqdqC) | [Pax Gene](https://open.spotify.com/artist/1IxEav5X3hEPqk0of4PY1I) | [Sapnis](https://open.spotify.com/album/4T8YxsVIllqkGfBz1RRUhW) | 3:37 | 2021-12-17 |  |
 | [Schwerelos](https://open.spotify.com/track/2bDvPs9HTk7Gxq24VO2lBJ) | [Cole Meier](https://open.spotify.com/artist/74J4wQidt7b0i28v7lygYE) | [Schwerelos](https://open.spotify.com/album/2Pl5lSmFbuoB0DgaN3t58R) | 2:30 | 2021-12-17 |  |
@@ -172,7 +172,7 @@
 | [Stories](https://open.spotify.com/track/0ETgVH10Y5yiljMWO5kNtV) | [Rebecka Aether](https://open.spotify.com/artist/06s7ddCmb1OcHlZzu9DzIr) | [Stories](https://open.spotify.com/album/6rxRh7wYIckgED89wMQwE5) | 2:52 | 2021-12-17 |  |
 | [Stratus](https://open.spotify.com/track/72FRs65Zmikn6KvZG3kolE) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Cotton](https://open.spotify.com/album/2jd08QhDM85KldC8tjagjI) | 4:07 | 2021-12-17 |  |
 | [Sueño tranquilo](https://open.spotify.com/track/7vCDAK4DJNr1GHYEG3Ylyp) | [Pedro Caceres](https://open.spotify.com/artist/61YOovGWdnYImyV9dgnaMA) | [Sueño tranquilo](https://open.spotify.com/album/7jstHQo9AWHr8buCOkbM1K) | 3:02 | 2021-12-17 |  |
-| [Suffer Well](https://open.spotify.com/track/7sja76lX8ntiFjv7iDxX5d) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Breath of Life](https://open.spotify.com/album/4rVHSkEgzT6BwBYiS8NUAg) | 0:29 | 2021-12-17 |  |
+| [Suffer Well](https://open.spotify.com/track/7sja76lX8ntiFjv7iDxX5d) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Breath of Life](https://open.spotify.com/album/4rVHSkEgzT6BwBYiS8NUAg) | 2:32 | 2021-12-17 |  |
 | [Suilven](https://open.spotify.com/track/3mNYWG8IAA5pCcPzuZ3jnU) | [Keeva Craig](https://open.spotify.com/artist/6xTIuLiCQBph46JUwkf2Fp) | [Suilven](https://open.spotify.com/album/1NNcF0tflr5jmYMRO1EoTE) | 3:58 | 2021-12-17 |  |
 | [Sunset](https://open.spotify.com/track/4gpqUShgtvlOZbtcVLjBM0) | [Vera Martin](https://open.spotify.com/artist/0niimfX9PMavXj1AWDcAjs) | [Sunset](https://open.spotify.com/album/2dPiwfhNgVCS1AHPcNkRsd) | 3:21 | 2021-12-17 |  |
 | [Supernova](https://open.spotify.com/track/5KBswDWzbvbe6o0cyQA788) | [Adrian Coly](https://open.spotify.com/artist/2XnemPdUKzthyhXV9k8rpF) | [Supernova](https://open.spotify.com/album/0sXoCL4yCSEwhfCBym7xnS) | 2:20 | 2021-12-17 |  |
@@ -180,7 +180,7 @@
 | [Teach me](https://open.spotify.com/track/1yie0sbCLfoPN3NJq7oASy) | [Kalea Jeffery](https://open.spotify.com/artist/4BsTLYWkgv4es56L2gwWFc) | [Teach me](https://open.spotify.com/album/0y1G3ChN0LOlznWJcvbVMI) | 3:06 | 2021-12-17 |  |
 | [The Gift](https://open.spotify.com/track/1GF0zNrSjuQiw2Y16cYqnW) | [Laura Dawson](https://open.spotify.com/artist/1IM8iJAfKOjMCKp7UJGAP9) | [The Gift](https://open.spotify.com/album/1UjHHH07JQoG48ng4746ku) | 2:53 | 2021-12-17 |  |
 | [The Other Side](https://open.spotify.com/track/7MRwNia7W4TCMUq1X8JbAU) | [Rosetta Arroyo](https://open.spotify.com/artist/6SOqlkZOWQ8ySlNYoxysKg) | [The Other Side](https://open.spotify.com/album/5LUfRAw3B31LKzv9ZXT1tz) | 2:50 | 2021-12-17 |  |
-| [The Road Back](https://open.spotify.com/track/75awJg9Xgn3cRJrPFihiV4) | [Corbin Tellier](https://open.spotify.com/artist/3hg9opvN3lCbZsoG6T0gpn) | [The Road Back](https://open.spotify.com/album/6yXBd5kQQujRewckYFsupC) | 0:29 | 2021-12-17 |  |
+| [The Road Back](https://open.spotify.com/track/75awJg9Xgn3cRJrPFihiV4) | [Corbin Tellier](https://open.spotify.com/artist/3hg9opvN3lCbZsoG6T0gpn) | [The Road Back](https://open.spotify.com/album/6yXBd5kQQujRewckYFsupC) | 4:06 | 2021-12-17 |  |
 | [This Space](https://open.spotify.com/track/6127NAkQKvpHxsQ7QS3bsm) | [Rubicon Fray](https://open.spotify.com/artist/26I6Wv05zdcv6tt43ruf5Z) | [This Space](https://open.spotify.com/album/6fwQ6CKuVG15epkMRXNP3o) | 2:52 | 2021-12-17 |  |
 | [Tranquility](https://open.spotify.com/track/3hEugJ3cU9p9gN5b6imbvX) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Effortless](https://open.spotify.com/album/6JBZgfycZAmFDdNdjT98hT) | 2:29 | 2021-12-17 |  |
 | [Trust the Universe](https://open.spotify.com/track/4P7LF3ktiDORMF1coYTf66) | [Chama Wijnen](https://open.spotify.com/artist/7ftRhte6NNzoF9MIKfKJsP) | [Trust the Universe](https://open.spotify.com/album/7yqbDPDVpLpJAjBTHAgUme) | 2:49 | 2021-12-17 |  |

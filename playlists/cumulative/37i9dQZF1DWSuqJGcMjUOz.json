@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 229600,
       "name": "+ La vie",
       "url": "https://open.spotify.com/track/7cGLbzrQw1Rxo0ZX9hOXiO"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 185896,
       "name": "3 minutes 5 secondes",
       "url": "https://open.spotify.com/track/4TmF97A331kpuP0Lc3NEZp"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 179530,
       "name": "Aisance",
       "url": "https://open.spotify.com/track/6C6BGrlP8I65MxXjFWmPeH"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 146106,
       "name": "Am\u00e8ne-toi chez nous",
       "url": "https://open.spotify.com/track/3IjLvU7Of9foqyfRrvktKG"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 181989,
       "name": "BBQ",
       "url": "https://open.spotify.com/track/6v9lOMNewPgFkwCH74dK62"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 123000,
       "name": "Br\u00fbler des condos",
       "url": "https://open.spotify.com/track/3o4iZUEJHGlx9JKE8qePm1"
@@ -337,7 +337,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 223437,
       "name": "Br\u00fbler les ponts",
       "url": "https://open.spotify.com/track/2bLCDHwZVyyKFEAB8uRRv3"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 173040,
       "name": "Cendre et descendre",
       "url": "https://open.spotify.com/track/3Wsu2aeYFDvTec6O1AhFwM"
@@ -489,7 +489,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 266301,
       "name": "Comme les autres",
       "url": "https://open.spotify.com/track/4VGzKGIisYS83nrLlgtnzG"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 197622,
       "name": "Comment t'aimer",
       "url": "https://open.spotify.com/track/7IRpU0mxVISZtZQuBAwfVW"
@@ -713,7 +713,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 209306,
       "name": "Espoir",
       "url": "https://open.spotify.com/track/6wUL2qBFXtycEgsoMrRjce"
@@ -774,6 +774,24 @@
     },
     {
       "album": {
+        "name": "Cok\u00e9 computer",
+        "url": "https://open.spotify.com/album/0KNO3Q60JAe0xrttY8ebiu"
+      },
+      "artists": [
+        {
+          "name": "Fuck Toute",
+          "url": "https://open.spotify.com/artist/2m1BD3CySkF2gBV9wVKNik"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187573,
+      "name": "Gel\u00e9 su'l feu",
+      "url": "https://open.spotify.com/track/2oxwXUbPkkq2Jy47kmRHcb"
+    },
+    {
+      "album": {
         "name": "Tristesse Business : Saison 1",
         "url": "https://open.spotify.com/album/2rYWseZkKpXd63uixoE0m0"
       },
@@ -803,7 +821,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 160417,
       "name": "Go\u00fbt cerise",
       "url": "https://open.spotify.com/track/6De4pSjXtfFzde6rspWLcG"
@@ -821,7 +839,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 133200,
       "name": "Gucci, Chanel",
       "url": "https://open.spotify.com/track/15HDG2RFHASg5citb8CGqN"
@@ -839,7 +857,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 153421,
       "name": "Holiday Inn",
       "url": "https://open.spotify.com/track/2gcq5nOTW4xhvShjcq3Dro"
@@ -893,7 +911,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 201573,
       "name": "Il n'y a que toi",
       "url": "https://open.spotify.com/track/437SZweapEV4CPxYc6OHi2"
@@ -911,7 +929,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 170573,
       "name": "IND\u00c9L\u00c9BILE",
       "url": "https://open.spotify.com/track/5Mwwrp4vtCAhExnFFHbwBt"
@@ -983,7 +1001,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 149293,
       "name": "J'esp\u00e8re",
       "url": "https://open.spotify.com/track/2rlu5RD8NUOLkjg9Mrg6ET"
@@ -1019,7 +1037,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 189027,
       "name": "Je me souviens",
       "url": "https://open.spotify.com/track/1YDOT9IYoh3LiPpUZeXU7s"
@@ -1073,7 +1091,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 319840,
       "name": "Je voudrais voir la mer",
       "url": "https://open.spotify.com/track/49PbjFOCzUYDUbjUJxin8V"
@@ -1127,7 +1145,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 275333,
       "name": "Ka Utapanashkutshet",
       "url": "https://open.spotify.com/track/1qlp7EzNcAUdU9FlIA4O4W"
@@ -1217,7 +1235,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 209043,
       "name": "La faute",
       "url": "https://open.spotify.com/track/4ryqKro3aiitMhfDTzkbws"
@@ -1253,7 +1271,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 248826,
       "name": "La jungle du capital",
       "url": "https://open.spotify.com/track/0uEMCE8qrTD3ivM3TVoQtu"
@@ -1459,7 +1477,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 207493,
       "name": "Le Dernier Jour du Disco",
       "url": "https://open.spotify.com/track/2Yu8DEe4uc8ApN7t7q0P4s"
@@ -1495,7 +1513,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 284653,
       "name": "Le souhait de Carmen",
       "url": "https://open.spotify.com/track/6SBDaSKJHFlDpaFKDn4Dy7"
@@ -1513,7 +1531,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 135652,
       "name": "Le temps au temps",
       "url": "https://open.spotify.com/track/02O2SLRlUGY2KdY6xmOYfs"
@@ -1535,7 +1553,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 203160,
       "name": "Le temps est bon",
       "url": "https://open.spotify.com/track/2U5kSevItDmL0XzSDyemRp"
@@ -1625,7 +1643,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 117636,
       "name": "Levinas",
       "url": "https://open.spotify.com/track/6Qtwkmr2qpve1v3vfIHozx"
@@ -1665,7 +1683,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 188005,
       "name": "Mayo",
       "url": "https://open.spotify.com/track/5TbsQ0az5xY47FTHmVWtHJ"
@@ -1724,7 +1742,7 @@
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 230213,
       "name": "Moi non plus",
       "url": "https://open.spotify.com/track/1XLvZv0wum0j7uO59pzZhB"
     },
@@ -1759,7 +1777,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 205373,
       "name": "Mot de passe",
       "url": "https://open.spotify.com/track/5DPdRHRTZHwxiz35F2FQCt"
@@ -1777,7 +1795,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 250469,
       "name": "Moteskano - Les sentiers de nos anc\u00eatres",
       "url": "https://open.spotify.com/track/5mevy3xuFjvc6KsYwc6ajp"
@@ -1943,7 +1961,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 238253,
       "name": "O\u00f9 sera le monde",
       "url": "https://open.spotify.com/track/3b5qtWnYTEq6qubIjVxCbq"
@@ -2189,7 +2207,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 188179,
       "name": "Qui te conna\u00eet ?",
       "url": "https://open.spotify.com/track/4uOhyZoUFNIJaE6yQhjwpd"
@@ -2207,7 +2225,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 193951,
       "name": "Ramenez-moi",
       "url": "https://open.spotify.com/track/1rC8OcM3G4Um7WFzRroU2J"
@@ -2243,7 +2261,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 153846,
       "name": "Roi",
       "url": "https://open.spotify.com/track/3FVlQblG8CCPrTHfwcUUk0"
@@ -2279,7 +2297,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 237500,
       "name": "Run",
       "url": "https://open.spotify.com/track/4Q5CtdUQiJXeAHZ5gIWtVY"
@@ -2297,7 +2315,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 168858,
       "name": "Samba",
       "url": "https://open.spotify.com/track/3AyeEQHxCOzJ22b2mQTUPK"
@@ -2391,7 +2409,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 222800,
       "name": "Si fragile",
       "url": "https://open.spotify.com/track/1LTXnatIwSDf8mfhOOwpF0"
@@ -2463,7 +2481,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 176173,
       "name": "Sous le m\u00eame to\u00eet",
       "url": "https://open.spotify.com/track/61P1ORWkI1Q8VtiiXamTYZ"
@@ -2499,7 +2517,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 396142,
       "name": "Sur la pointe des pieds",
       "url": "https://open.spotify.com/track/1jK4orgoFQGbmYAYp7OMbq"
@@ -2517,7 +2535,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 229413,
       "name": "Sweet Mont\u00e9r\u00e9gie",
       "url": "https://open.spotify.com/track/622Po4YytbjATQ1B9J6xid"
@@ -2535,7 +2553,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 232046,
       "name": "Terre de nos a\u00efeux",
       "url": "https://open.spotify.com/track/41lSwH24Xl5Pc31P3OdYzX"
@@ -2607,7 +2625,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 206853,
       "name": "Tu t\u2019en iras",
       "url": "https://open.spotify.com/track/273vXUGkKr04KJUPvWD16Y"
@@ -2625,7 +2643,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 254926,
       "name": "Usage domestique",
       "url": "https://open.spotify.com/track/68aXgoS8GiTryD4S67fERN"
@@ -2643,7 +2661,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 168780,
       "name": "Vendeur de bi\u00e8re",
       "url": "https://open.spotify.com/track/0wa3tRQrqKlHeow3TmpUQp"
@@ -2791,7 +2809,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 209000,
       "name": "\u00c9tat d'urgence",
       "url": "https://open.spotify.com/track/2Pq98zKj1IKXIF0YpE99td"

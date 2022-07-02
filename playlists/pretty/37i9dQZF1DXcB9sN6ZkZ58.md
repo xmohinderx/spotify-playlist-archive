@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcB9sN6ZkZ58.md) - [plain]
 
 > Food sing\-a\-longs for breakfast, lunch, or snack time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,919 likes - 98 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,919 likes - 98 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcB9sN6ZkZ58.md) - [plain]
 | 7 | [Cooking in the Kitchen](https://open.spotify.com/track/2CJH3oNhDEBPTxjtpGZOLn) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Dance Party!](https://open.spotify.com/album/304rgWamJDyKqMD8wDkgUf) | 2:38 |
 | 8 | [Lunch](https://open.spotify.com/track/2Y8khnYHrjO4RRXpIc87B5) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Blazer Fresh](https://open.spotify.com/artist/4pgIT5fWtcmcMm0YqPDEV0) | [Best Of GoNoodle](https://open.spotify.com/album/17qQDHKvpjpMkeZzLgxRrt) | 1:20 |
 | 9 | [Hot Potato](https://open.spotify.com/track/19m3CyoifSlSRKCVXhyMSg) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Hot Potatoes! The Best of The Wiggles](https://open.spotify.com/album/4E3YeOlS3XChnyBE1kpgwj) | 1:18 |
-| 10 | [Pineapple](https://open.spotify.com/track/4Iiq7AOeBXdRcjbrjUpIWb) | [fleaBITE](https://open.spotify.com/artist/6rfo4U1CM0NDIuikxFYDJW), [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Pineapple](https://open.spotify.com/album/4itSGSv8rIQLUjvv9CC5kd) | 0:29 |
+| 10 | [Pineapple](https://open.spotify.com/track/4Iiq7AOeBXdRcjbrjUpIWb) | [fleaBITE](https://open.spotify.com/artist/6rfo4U1CM0NDIuikxFYDJW), [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Pineapple](https://open.spotify.com/album/4itSGSv8rIQLUjvv9CC5kd) | 2:41 |
 | 11 | [The Sushi Song](https://open.spotify.com/track/73JULBVnVxfA0BEhpFgyI0) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Romeo Eats](https://open.spotify.com/artist/5woC1o9bxzyhV7sXR5t5Nd) | [Walk off the Earth & Romeo Eats, Vol\. 1](https://open.spotify.com/album/44vnzHdyCejk6nXISI9LYE) | 2:43 |
 | 12 | [Do You Like Waffles?](https://open.spotify.com/track/0jwrcvzJQacwH9mPVrigPh) | [Parry Gripp](https://open.spotify.com/artist/56P8qdYp640M24wkk9eTfc) | [For Kids About To Rock](https://open.spotify.com/album/1Y9WmnzSZAJiCBboZ92z8R) | 0:30 |
 | 13 | [Ketchup\(I like it, I love it\)](https://open.spotify.com/track/7GhPe9v9lvnNdug8aLYCLO) | [Dad Jokes Duo](https://open.spotify.com/artist/4alPoOoReavkZAMBR5E4y0) | [Are We There Yet?](https://open.spotify.com/album/1WKVF97SZHVb7fAVkVHsoz) | 2:51 |

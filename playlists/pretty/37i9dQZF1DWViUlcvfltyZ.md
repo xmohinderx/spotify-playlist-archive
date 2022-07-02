@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Chitarre più o meno distorte \(e, in cover, Emma Nolde\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,613 likes - 51 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,629 likes - 51 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 16 | [rotten](https://open.spotify.com/track/4nU6o0IqVjUFjoqODuJBQl) | [grungelo](https://open.spotify.com/artist/6P6GEHeCnE88477yIshOMy), [The Steiner](https://open.spotify.com/artist/0E0656VNBS8nCeuLyjRFjp) | [rotten](https://open.spotify.com/album/04Jz6N7SeKqALkWIkVXCSL) | 2:40 |
 | 17 | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt) | 3:16 |
 | 18 | [UNO, DUE](https://open.spotify.com/track/75HUCYfX4wop5tV0qKrHbR) | [Le Endrigo](https://open.spotify.com/artist/19iWcNNkOaOpcFtSRF7q5a) | [UNO, DUE](https://open.spotify.com/album/3lpVkPyUEVk6Swojw19kzs) | 3:25 |
-| 19 | [Strappati Lungo i Bordi](https://open.spotify.com/track/1tmxGSXmeKk5NjZh3hIG7v) | [Giancane](https://open.spotify.com/artist/5SHRnc9Tl14jqVV0CTr49B) | [Strappati Lungo i Bordi \(Music from the Original TV Series “Strappare lungo i bordi”\)](https://open.spotify.com/album/18jzdWKRrSxdgDr9IRe0RM) | 0:29 |
+| 19 | [Strappati Lungo i Bordi](https://open.spotify.com/track/1tmxGSXmeKk5NjZh3hIG7v) | [Giancane](https://open.spotify.com/artist/5SHRnc9Tl14jqVV0CTr49B) | [Strappati Lungo i Bordi \(Music from the Original TV Series “Strappare lungo i bordi”\)](https://open.spotify.com/album/18jzdWKRrSxdgDr9IRe0RM) | 3:19 |
 | 20 | [looney](https://open.spotify.com/track/5iYyPap3wN9D2W0gCYmaMi) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [dalla terra a marte](https://open.spotify.com/album/6z2qRqLEQN4vz1scFkRiyr) | 3:25 |
 | 21 | [My Best](https://open.spotify.com/track/1UEWOpc2PUrzwPOP4X9UPd) | [I'm Not a Blonde](https://open.spotify.com/artist/2kYPuOngkMzjFdCl4dz8EO) | [This Is Light](https://open.spotify.com/album/2csk5nXDfK75W5NMNpGoQD) | 3:38 |
 | 22 | [Stati di agitazione](https://open.spotify.com/track/7bTraSxvK6F3beRP5vL17h) | [Blindur](https://open.spotify.com/artist/7LUvRhMok52Bi5G2gmQzGc), [Rodrigo D'Erasmo](https://open.spotify.com/artist/6eeTkJg6QLQ34VbYXdqpBX) | [Stati di agitazione](https://open.spotify.com/album/54BgILjJKbhtYkbpLN3Jiv) | 3:07 |

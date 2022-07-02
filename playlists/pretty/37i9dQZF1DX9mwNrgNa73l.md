@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,011 likes - 47 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,109 likes - 47 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,14 +37,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 27 | [Dam Mast Qalander](https://open.spotify.com/track/2y5nVgj5Fg1wEC2wBL8Mvm) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Nusrat Fateh Ali Khan No\. 1 Hits](https://open.spotify.com/album/2iHgZ58kj74cIwwvAkbSyO) | 6:23 |
 | 28 | [Maula](https://open.spotify.com/track/6Z0hi7ntpmQSkTDiBMcZVl) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Maula](https://open.spotify.com/album/0XYIRzV6BpXXSH02O8uaMz) | 6:03 |
 | 29 | [Aameen Sum Aameen](https://open.spotify.com/track/2tvbXJeZYwii8TQrq8b3Mx) | [Sahir Ali Bagga](https://open.spotify.com/artist/4cxl9RcyEbY0koslSaEKLY) | [Aameen Sum Aameen](https://open.spotify.com/album/7GAzkyAAWcYpcfB5l28cYm) | 4:23 |
-| 30 | [Allahu Akbar](https://open.spotify.com/track/0oulvgKe81qlq8UvIW3uha) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Ahmed Jehanzeb](https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX) | [Coke Studio Season 10: Episode 1](https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8) | 8:39 |
+| 30 | [Allahu Akbar](https://open.spotify.com/track/0oulvgKe81qlq8UvIW3uha) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Ahmed Jehanzeb](https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX) | [Coke Studio Season 10: Episode 1](https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8) | 0:29 |
 | 31 | [Tu Jhoom](https://open.spotify.com/track/0X5jMLCYWZjuXHRc1zp0G6) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Naseebo Lal](https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a) | [Tu Jhoom](https://open.spotify.com/album/61yLyqdz6hdZiAHMk4Bxxi) | 6:37 |
 | 32 | [Sufi Medley](https://open.spotify.com/track/5B8LDzUQokG5X9zS9PphtB) | [Abdullah Qureshi](https://open.spotify.com/artist/6WKmWnj8GuxXXx1bB0QFw8) | [Sufi Kalaam](https://open.spotify.com/album/4ifFmYqbwRSbYuswAg0gax) | 8:10 |
 | 33 | [Ya Ali Tere Sadqe Jawan](https://open.spotify.com/track/6TMHIctlQkhOewask1NBLU) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Ya Ali Tere Sadqe Jawan](https://open.spotify.com/album/7flQwsY6LtnDSjUiM9tlvq) | 4:35 |
 | 34 | [Duma dum mast qalandar](https://open.spotify.com/track/4AnFOrG0buaFD9DYCty84Q) | [Reshma](https://open.spotify.com/artist/0xawOgbaKGtq7KSlrRWrWP) | [Dumadum Mast Qalandar\- 5 Powerpacked Renditions](https://open.spotify.com/album/4so80ydgtvJRV2lAhP00r1) | 9:19 |
 | 35 | [Salaam](https://open.spotify.com/track/69gnztZiBrymiPoZmiZf8n) | [Shiraz Uppal](https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy) | [Salaam](https://open.spotify.com/album/10F3wxfHMiYO6De0UPF3X2) | 4:37 |
 | 36 | [Man Kunto Maula](https://open.spotify.com/track/7yFs95J0gZt15FjC4ylJVj) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Ali Azmat](https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr) | [Man Kunto Maula](https://open.spotify.com/album/4aDtJNM4kem6tl4CeR7YAt) | 9:28 |
-| 37 | [Maikada 2](https://open.spotify.com/track/6IH1DsmUezNkZIxW1SM95q) | [Muhammad Samie](https://open.spotify.com/artist/6G5nbVLqZWNNT37I5icSVs) | [Maikada 2](https://open.spotify.com/album/60EYSdCM5BQDajqMyG0xz0) | 0:29 |
+| 37 | [Maikada 2](https://open.spotify.com/track/6IH1DsmUezNkZIxW1SM95q) | [Muhammad Samie](https://open.spotify.com/artist/6G5nbVLqZWNNT37I5icSVs) | [Maikada 2](https://open.spotify.com/album/60EYSdCM5BQDajqMyG0xz0) | 9:10 |
 | 38 | [Kamli](https://open.spotify.com/track/04KCgCUQTPCenk5IwASx4s) | [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP) | [Wajd, Vol\. 1](https://open.spotify.com/album/5M92ubLBqNXRwraM3kqjqF) | 8:42 |
 | 39 | [La Salam Mast Qalandar](https://open.spotify.com/track/5NTcVdlPxt0Xh8ZHpY9Xia) | [Jimmy Khan](https://open.spotify.com/artist/1Xy0t0XYuOpuBK7Gnuwvpu), [Atef Malhas](https://open.spotify.com/artist/6gm05jmgIx3YvLtzl1GDas), [Rawan Risheq](https://open.spotify.com/artist/5R9Ghk1KBInYUMdAhN9B6O), [Shahab Hussain](https://open.spotify.com/artist/7ymVr1v5z0MP6rcohSM5up), [Yazan Sarayrah](https://open.spotify.com/artist/3hnWpiOnZfHrY7uq2zNReK), [Hrag Mouridian](https://open.spotify.com/artist/7dCyaFjdwI7EpiWgaB6QS0) | [La Salam Mast Qalandar](https://open.spotify.com/album/1YtFZPnsIuoHiPCKk7aOYm) | 4:11 |
 | 40 | [Kalaam, Pt\. 1](https://open.spotify.com/track/0kmx6XKJG768AVMlR1YZcC) | [Mehak Ali](https://open.spotify.com/artist/6XnTAfn0rCJ6hrABktaOIW) | [Saif Ul Malook](https://open.spotify.com/album/04bQOP9TC9BMNVm3xQx2Yw) | 5:44 |

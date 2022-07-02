@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2NlKNewIrq.md) - [plain]
 
 > Dive in to the Ambient of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,455 likes - 74 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,485 likes - 74 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Towards the Blue \- 2021 Remastered](https://open.spotify.com/track/4cmGoOiC6y7kUenRgG1j4u) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Quiet Music \(35th Anniversary Remastered 3\-Hour Collection\)](https://open.spotify.com/album/2TgLjrozwbkq1EUrmqeMd4) | 3:20 |
 | 2 | [Einklang](https://open.spotify.com/track/7x9ytTQXFqpk9Mvh4uDUX6) | [Peter Michael Hamel](https://open.spotify.com/artist/4fzLlOozmMPyVBg5o2Sd1j) | [Hamel: Let It Play \- Selected Pieces 1979\-1983](https://open.spotify.com/album/4G8ThDaZc0Z06kivJO97Dd) | 10:04 |
-| 3 | [Meditation No\. 2](https://open.spotify.com/track/5Z1HyqdD5QozNnFNZA8BMK) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 3: Day Of Radiance](https://open.spotify.com/album/42Lahj8mKJKxPgncRXPuPw) | 0:29 |
+| 3 | [Meditation No\. 2](https://open.spotify.com/track/5Z1HyqdD5QozNnFNZA8BMK) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 3: Day Of Radiance](https://open.spotify.com/album/42Lahj8mKJKxPgncRXPuPw) | 7:50 |
 | 4 | [Reflecting Light](https://open.spotify.com/track/5soViX7uPUyYaPT6EJJD5e) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU) | [Reflecting Light, Vol\. 1](https://open.spotify.com/album/5egigwAjsqdGSS7OHCOpH8) | 2:47 |
 | 5 | [TREMBLING\#2/揺動・\#2\(トレンブリング\#2\)](https://open.spotify.com/track/0pDNtxXyRGR0BUlg2cSgPF) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [THE ENDLESS TALKING/エンドレス・トーキング](https://open.spotify.com/album/55TS7AN0dxJbQuTHdzXOta) | 5:43 |
 | 6 | [Water Copy](https://open.spotify.com/track/48MPwRtt4PRuC0gUZgkI48) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 6:11 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2NlKNewIrq.md) - [plain]
 | 42 | [Pete’s Boogie \(Previously Unreleased\)](https://open.spotify.com/track/6gO6hIsH31P8L2wy12PZz7) | [David Lynch](https://open.spotify.com/artist/2Gu6Q05ExIGwHTF43kqLBI), [Alan R\. Splet](https://open.spotify.com/artist/55AfCsXWthqoG9dDIGqVrD) | [Eraserhead Soundtrack](https://open.spotify.com/album/2qve7kxq4hcJ19USaBur4i) | 3:58 |
 | 43 | [The Plateaux Of Mirror \- Remastered 2004](https://open.spotify.com/track/75Q2oWlmhsTiM9KTbjyduU) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 2: The Plateaux Of Mirror \(Remastered 2004\)](https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO) | 4:13 |
 | 44 | [Answered Prayers](https://open.spotify.com/track/5crzkDImlrzn3M1W3hnvgU) | [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [Gone To Earth \(Remastered 2003\)](https://open.spotify.com/album/3CRipGCmcoBTKdadiYIMOc) | 3:07 |
-| 45 | [Meditation No\. 1](https://open.spotify.com/track/3Z9PWaE8d55XcOxEHwx6U8) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 3: Day Of Radiance](https://open.spotify.com/album/42Lahj8mKJKxPgncRXPuPw) | 0:29 |
+| 45 | [Meditation No\. 1](https://open.spotify.com/track/3Z9PWaE8d55XcOxEHwx6U8) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 3: Day Of Radiance](https://open.spotify.com/album/42Lahj8mKJKxPgncRXPuPw) | 18:47 |
 | 46 | [Baby Elephant Magic](https://open.spotify.com/track/3WpEhCd1k2ccwuA2ke4yZv) | [Richard Horowitz](https://open.spotify.com/artist/18k4PVY4WySALYiokkex0R) | [Eros in Arabia](https://open.spotify.com/album/0iEbpePNJdijf0zgJWhjIe) | 4:42 |
 | 47 | [Meciendo El Engaño](https://open.spotify.com/track/0HbaFS42e5PhQ0UWGpO4x7) | [Música Esporádica](https://open.spotify.com/artist/0h71X1g6FJuanP96HHvGmg), [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh), [Orquesta de las Nubes](https://open.spotify.com/artist/7CqUn7HsQQ3OrCyMvBnwRS) | [Música Esporádica](https://open.spotify.com/album/7dnlyE1XLw84eNn4UJSU0j) | 11:01 |
 | 48 | [Stars \- Remastered 2005](https://open.spotify.com/track/1cWHaz5GDrhfnkXTIYlGHh) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 8:00 |

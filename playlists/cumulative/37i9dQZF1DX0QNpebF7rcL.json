@@ -1372,6 +1372,24 @@
     },
     {
       "album": {
+        "name": "I'm Just Getting Started!",
+        "url": "https://open.spotify.com/album/2Pd2hfBHc4OaM4ZEtBgaoZ"
+      },
+      "artists": [
+        {
+          "name": "Mick Kolassa",
+          "url": "https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159886,
+      "name": "I'm Just Getting Started!",
+      "url": "https://open.spotify.com/track/17v5PPcGy8FSN4n9xnKpUd"
+    },
+    {
+      "album": {
         "name": "One Way Out",
         "url": "https://open.spotify.com/album/19Qpt0zW5Rj8Z85T47YpUG"
       },
@@ -2808,7 +2826,7 @@
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 155336,
       "name": "Stagger Lee",
       "url": "https://open.spotify.com/track/64H0CzxFjc1Dz3F3E1oWi5"
     },
@@ -2862,7 +2880,7 @@
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 241480,
       "name": "Still The World Goes Round",
       "url": "https://open.spotify.com/track/6NC8TahwAZKURe6EolCBOv"
     },
@@ -3626,7 +3644,7 @@
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 383360,
       "name": "When It Rains",
       "url": "https://open.spotify.com/track/18CdYKjbXZQ1UYpkVUqlin"
     },
@@ -3666,7 +3684,7 @@
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 207000,
       "name": "Why You Wanna Make War - English Version",
       "url": "https://open.spotify.com/track/4yB81Xy4lvmharZ5qr7LVT"
     },
@@ -3683,7 +3701,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 218163,
       "name": "Wild Women Don't Have the Blues",
       "url": "https://open.spotify.com/track/7FEKQ8ypfcwp970Bzgp7F3"

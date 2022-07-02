@@ -4,7 +4,7 @@
 
 > ¡Canciones para sonreír durante el día!
 
-75 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/5pAUo2hk22N0FPa4hd7kD7)
+75 songs - 4 hr 17 min - [published](https://open.spotify.com/playlist/5pAUo2hk22N0FPa4hd7kD7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [amable](https://open.spotify.com/track/2UZUINJukkXWvBv4hpByAT) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [amable](https://open.spotify.com/album/2yT1zEJgfTCy2uJJ2d6Zec) | 3:18 | 2021-11-26 |  |
 | [Amanecí](https://open.spotify.com/track/0dZaWz0Gb17uHE0wnS4Rnu) | [Pachará](https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI) | [Amanecí](https://open.spotify.com/album/0lUukmYVwTH15t2Yobp683) | 3:27 | 2021-11-26 |  |
 | [Bichota \- Spotify Singles](https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Bichota – Spotify Singles](https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq) | 2:37 | 2021-11-26 |  |
-| [BPR Strut \- Join Us & You'll Be Fine](https://open.spotify.com/track/4xsNrKW4VsrWJlj1H8lUuE) | [Barry Paquin Roberge](https://open.spotify.com/artist/2C7WoEy5Fq9vcUt5AOthxn) | [BPR Strut \(Join Us & You'll Be Fine\)](https://open.spotify.com/album/6mSEZTfkMocw6MvG10IbQS) | 0:29 | 2021-11-26 |  |
+| [BPR Strut \- Join Us & You'll Be Fine](https://open.spotify.com/track/4xsNrKW4VsrWJlj1H8lUuE) | [Barry Paquin Roberge](https://open.spotify.com/artist/2C7WoEy5Fq9vcUt5AOthxn) | [BPR Strut \(Join Us & You'll Be Fine\)](https://open.spotify.com/album/6mSEZTfkMocw6MvG10IbQS) | 2:49 | 2021-11-26 |  |
 | [Coloréame](https://open.spotify.com/track/1KzrAfacBCJDESlNO0QV8r) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Naona](https://open.spotify.com/album/0GVmPDtsGwp9YEg5DTLmb9) | 3:12 | 2021-11-26 |  |
 | [Danzas en el Mar](https://open.spotify.com/track/5jMN6VfvoLIckMMR4LkrLt) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [Danzas en el Mar](https://open.spotify.com/album/0jS2O7cjIDDV5Uh1jdY06V) | 3:36 | 2021-11-26 |  |
 | [Departamento \(feat\. Adan Jodorowsky\)](https://open.spotify.com/track/1M04B9UxiulxVrXDke44bA) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [Departamento](https://open.spotify.com/album/21XEoBT8DznaK0IRzFRMVE) | 3:54 | 2021-11-26 |  |
@@ -27,7 +27,7 @@
 | [Energía](https://open.spotify.com/track/4gVsC6cmPuF2tBMcm0DfoZ) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Energía](https://open.spotify.com/album/0XW7CLD5UPOKwoAqV28Qeq) | 3:36 | 2021-11-26 |  |
 | [GIRL LIKE ME](https://open.spotify.com/track/1zLBsSVxETQOfINOLYvT5m) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:42 | 2021-11-26 |  |
 | [Here Comes The Sun \- Remastered 2009](https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:05 | 2021-11-26 |  |
-| [I Like That](https://open.spotify.com/track/2RkZZh5XQ4y3sG8gCu96Tz) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [I Like That](https://open.spotify.com/album/0Nu5uWgrnNGWWbWfzXPgPI) | 0:29 | 2021-11-26 |  |
+| [I Like That](https://open.spotify.com/track/2RkZZh5XQ4y3sG8gCu96Tz) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [I Like That](https://open.spotify.com/album/0Nu5uWgrnNGWWbWfzXPgPI) | 2:38 | 2021-11-26 |  |
 | [Johatsu \(feat\. Flore Benguigui\)](https://open.spotify.com/track/1tS8zywiyhHZESTunIJ2Pt) | [KESMAR](https://open.spotify.com/artist/3KHK5h7PZYBEfcTsGfkfJW), [Flore Benguigui](https://open.spotify.com/artist/4taAxKHZ4ODt4MwWVPDmbw) | [Forever Holiday](https://open.spotify.com/album/3rAyL8YHdqusEH2XiTEyWn) | 4:32 | 2021-11-26 |  |
 | [Just The Two of Us](https://open.spotify.com/track/5cwCW4r6ybpSiHWMpMKHoJ) | [Kauai45](https://open.spotify.com/artist/01veRCzqGIkUMo7L5PyBAD), [Sweet Cocoa](https://open.spotify.com/artist/1eXbxTRUsI5OKMp77hpDef) | [Just The Two of Us](https://open.spotify.com/album/2BeZeRUR2CqrwOGzxWCwI1) | 1:57 | 2021-11-26 |  |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-11-26 |  |

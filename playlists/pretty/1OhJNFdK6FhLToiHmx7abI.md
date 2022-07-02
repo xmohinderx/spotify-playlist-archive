@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/1OhJNFdK6FhLToiHmx7abI.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 154 likes - 42 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 154 likes - 42 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [This Time](https://open.spotify.com/track/1DFf22wAhURrEt5boeKYkf) | [The New Mendicants](https://open.spotify.com/artist/5x3OulmmMZoHdhOoQaNyP5) | [Australia 2013 EP](https://open.spotify.com/album/7vyi0Q11N3dKNm3vUERkLy) | 3:00 |
-| 2 | [The Lion](https://open.spotify.com/track/4KSWqcLeYmnbzHjTCe39NK) | [The Migrant](https://open.spotify.com/artist/13hjZzAush5gyfkSNWDdCd) | [Beads](https://open.spotify.com/album/4QXQtk2tTC3iaZJTytMDga) | 0:29 |
+| 2 | [The Lion](https://open.spotify.com/track/4KSWqcLeYmnbzHjTCe39NK) | [The Migrant](https://open.spotify.com/artist/13hjZzAush5gyfkSNWDdCd) | [Beads](https://open.spotify.com/album/4QXQtk2tTC3iaZJTytMDga) | 5:36 |
 | 3 | [Good Man](https://open.spotify.com/track/14F0wusOUa115ZKxzDSExM) | [Glimmermen](https://open.spotify.com/artist/3WZv5ZbjwmA8Crda1tNqFF) | [Satellite People EP](https://open.spotify.com/album/5o6ega0gitnhkYCcTzzuZe) | 4:30 |
 | 4 | [Ache](https://open.spotify.com/track/0ycyU8f8WI928fIWSqLKlg) | [Thirty Spokes](https://open.spotify.com/artist/1tqNyTGvpObEZe7mrNfSf9), [Cheyenne Marie Mize](https://open.spotify.com/artist/5GqSLrKrvXqNQEjJfEYyg3) | [Muses & Excuses](https://open.spotify.com/album/6BbGsH9dwF9BZFxrEDg6xA) | 4:10 |
 | 5 | [A New Error](https://open.spotify.com/track/6OGRM4MAOlyOdhHuX0OJ6P) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [Moderat \(Deluxe Version\)](https://open.spotify.com/album/1FAgdEJ056QYPVEP755mE3) | 6:07 |
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/1OhJNFdK6FhLToiHmx7abI.md) - [plain]
 | 16 | [Gonna Make My Own Money](https://open.spotify.com/track/51Iu8MoVeHIbGv69yk7vha) | [Deap Vally](https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl) | [1234](https://open.spotify.com/album/2gSpNhhfB6XUz5SsxquEln) | 2:33 |
 | 17 | [End Of The World](https://open.spotify.com/track/7xJVgULr1O0ZESSP7Mtz4l) | [Deap Vally](https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl) | [Get Deap! EP](https://open.spotify.com/album/2xMmN0zsiGvG6M847oIPyn) | 4:32 |
 | 18 | [Ain't Fair](https://open.spotify.com/track/5HGGY6h7dPTx7377cpsOZy) | [Deap Vally](https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl) | [Get Deap! EP](https://open.spotify.com/album/2xMmN0zsiGvG6M847oIPyn) | 2:56 |
-| 19 | [Full Circle](https://open.spotify.com/track/682Yji3o5swGYXNUOIl5Ah) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Dark Eyes](https://open.spotify.com/album/61f3wyDLcmz4Red83KWaAG) | 0:29 |
-| 20 | [Call Me in the Afternoon](https://open.spotify.com/track/6MYM316fEnoXjG93Ga3l1L) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Dark Eyes](https://open.spotify.com/album/61f3wyDLcmz4Red83KWaAG) | 0:29 |
-| 21 | [No More Losing the War](https://open.spotify.com/track/30JU9jFQmoLzoiCNxoTAeE) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Dark Eyes](https://open.spotify.com/album/61f3wyDLcmz4Red83KWaAG) | 0:29 |
-| 22 | [She Wants to Know](https://open.spotify.com/track/67yKn8Ouxo6nVQND5CyIJe) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Dark Eyes](https://open.spotify.com/album/61f3wyDLcmz4Red83KWaAG) | 0:29 |
+| 19 | [Full Circle](https://open.spotify.com/track/682Yji3o5swGYXNUOIl5Ah) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Dark Eyes](https://open.spotify.com/album/61f3wyDLcmz4Red83KWaAG) | 3:02 |
+| 20 | [Call Me in the Afternoon](https://open.spotify.com/track/6MYM316fEnoXjG93Ga3l1L) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Dark Eyes](https://open.spotify.com/album/61f3wyDLcmz4Red83KWaAG) | 3:03 |
+| 21 | [No More Losing the War](https://open.spotify.com/track/30JU9jFQmoLzoiCNxoTAeE) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Dark Eyes](https://open.spotify.com/album/61f3wyDLcmz4Red83KWaAG) | 3:57 |
+| 22 | [She Wants to Know](https://open.spotify.com/track/67yKn8Ouxo6nVQND5CyIJe) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Dark Eyes](https://open.spotify.com/album/61f3wyDLcmz4Red83KWaAG) | 4:11 |
 | 23 | [Build Me Up](https://open.spotify.com/track/7ztgoEN6prk2CRZcZ8fACR) | [Raffertie](https://open.spotify.com/artist/5UExdZdyiChMTvMm0nATlp) | [Build Me Up](https://open.spotify.com/album/7d6F3wNa6UqrsPHE0YPrV4) | 3:05 |
 | 24 | [Benediction](https://open.spotify.com/track/1fQcNoxSkB8jZn3fbSZd24) | [Raffertie](https://open.spotify.com/artist/5UExdZdyiChMTvMm0nATlp) | [Build Me Up](https://open.spotify.com/album/7d6F3wNa6UqrsPHE0YPrV4) | 3:35 |
 | 25 | [One Track Mind](https://open.spotify.com/track/28NH3wEdeOhOdujr4Rk2EL) | [Raffertie](https://open.spotify.com/artist/5UExdZdyiChMTvMm0nATlp) | [Mass Appeal](https://open.spotify.com/album/0vJyIE3HSa2hcS46AIw7dp) | 10:21 |

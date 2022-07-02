@@ -4,7 +4,7 @@
 
 > 
 
-26 songs - 1 hr 34 min - [published](https://open.spotify.com/playlist/1rquXRY3eSGJ45KUuTJ1tC)
+26 songs - 1 hr 36 min - [published](https://open.spotify.com/playlist/1rquXRY3eSGJ45KUuTJ1tC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Poison \- New Main Version](https://open.spotify.com/track/3KRLB3lYB74kj9PiqY3HXC) | [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [Poison \(UK Version\)](https://open.spotify.com/album/2qc9JX5CdVXTO7YezujpBm) | 3:47 | 2013-06-25 |  |
 | [Puakenikeni](https://open.spotify.com/track/6jGTursjRpvyrpI2D81qix) | [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [Puakenikeni](https://open.spotify.com/album/3z3SSyLUSnDo49ITnPsRD4) | 4:01 | 2013-06-25 |  |
 | [Right There](https://open.spotify.com/track/6wQIYp3JceGovaINQmAjxj) | [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [Killer Love](https://open.spotify.com/album/3Y72frMeiDNZlsIorQBES8) | 4:02 | 2013-06-25 |  |
-| [Shackles \(Praise You\)](https://open.spotify.com/track/5siee1e4lz8uF51OokjglA) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Thankful](https://open.spotify.com/album/2CW02evpO85vRxOSYx7zcP) | 0:29 | 2013-06-25 |  |
+| [Shackles \(Praise You\)](https://open.spotify.com/track/5siee1e4lz8uF51OokjglA) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Thankful](https://open.spotify.com/album/2CW02evpO85vRxOSYx7zcP) | 3:16 | 2013-06-25 |  |
 | [Supervillain](https://open.spotify.com/track/3h2v3Qfz4IZH0vHu0DH7uF) | [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [Supervillain](https://open.spotify.com/album/3gjbjSkggQEmR0fS4Iji6i) | 4:04 | 2013-06-25 |  |
 | [Tell the World \(feat\. Mali Music\)](https://open.spotify.com/track/5Kjq2vqB77H1KhGshxVph4) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [Gravity](https://open.spotify.com/album/4hVibj0u1CY78Qc3UyQLiq) | 3:36 | 2013-06-25 |  |
 | [The Proof Of Your Love](https://open.spotify.com/track/4hOl2YlgaUIuxCE5bRgU9X) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Crave](https://open.spotify.com/album/0brUpqI88x23atYivQ2aff) | 3:17 | 2013-06-25 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Kawe, WIU",
+  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Fabin",
   "name": "Dose Trap",
   "published_playlist_ids": [
     "4OQp0dXIgEe6I8MlQwrCOG"
@@ -75,7 +75,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 150447,
       "name": "4 Real",
       "url": "https://open.spotify.com/track/5zJQWY0aWwNkUWLXXfJulA"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 256626,
       "name": "Anos 80",
       "url": "https://open.spotify.com/track/7BsXx2zYKagHNlhg7o8KUl"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 192080,
       "name": "B.O",
       "url": "https://open.spotify.com/track/3P5LT1wpHz8jAC9MDkRJei"
@@ -555,7 +555,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 211397,
       "name": "Bala",
       "url": "https://open.spotify.com/track/2ohodNwrRI5OFUlkAUmdXT"
@@ -1312,6 +1312,28 @@
     },
     {
       "album": {
+        "name": "BREAKFAST",
+        "url": "https://open.spotify.com/album/10XLRM6E0iOrOGb6fReoSj"
+      },
+      "artists": [
+        {
+          "name": "Asaph",
+          "url": "https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI"
+        },
+        {
+          "name": "BIG THE KIID",
+          "url": "https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124857,
+      "name": "DE NADA",
+      "url": "https://open.spotify.com/track/5ijBpUO3w7kqTZj72ttyam"
+    },
+    {
+      "album": {
         "name": "Deboche GR",
         "url": "https://open.spotify.com/album/0j4gRJQhT5ONxa2sMs5Myz"
       },
@@ -1520,6 +1542,32 @@
     },
     {
       "album": {
+        "name": "Diddy Kong",
+        "url": "https://open.spotify.com/album/44CdbNQjt2qoRH54O7BlxD"
+      },
+      "artists": [
+        {
+          "name": "Dom Smoking",
+          "url": "https://open.spotify.com/artist/383PUe2dAOgrqwJ7moGjk9"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        },
+        {
+          "name": "Bubblegun Studios",
+          "url": "https://open.spotify.com/artist/4vqazZms8Y4wPQM6rbtOGx"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142682,
+      "name": "Diddy Kong",
+      "url": "https://open.spotify.com/track/2ScrHk4yAjDY13LJAuCBXH"
+    },
+    {
+      "album": {
         "name": "Distante",
         "url": "https://open.spotify.com/album/2Q1xkwzOeAWQ8G6V19cS34"
       },
@@ -1535,6 +1583,42 @@
       "duration_ms": 203076,
       "name": "Distante",
       "url": "https://open.spotify.com/track/2fg1guOKTbWgXVYbKuNvHT"
+    },
+    {
+      "album": {
+        "name": "Do Crime a Fama 2",
+        "url": "https://open.spotify.com/album/5M5ex3CUTmTfoeT26BkFK6"
+      },
+      "artists": [
+        {
+          "name": "2T",
+          "url": "https://open.spotify.com/artist/3ls0I42IWbgbZFnFCfi21m"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210193,
+      "name": "Do Crime a Fama 2",
+      "url": "https://open.spotify.com/track/263ZN0oePtTVUGS32QKZn1"
+    },
+    {
+      "album": {
+        "name": "Domin\u00f3",
+        "url": "https://open.spotify.com/album/1iDKJPSsQbElS3M1jY8hMR"
+      },
+      "artists": [
+        {
+          "name": "Psych",
+          "url": "https://open.spotify.com/artist/56cqVCO3vabMghliZvW9S1"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159307,
+      "name": "Domin\u00f3",
+      "url": "https://open.spotify.com/track/7cYAE74uGy0ggBLilqvjxn"
     },
     {
       "album": {
@@ -1881,7 +1965,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 141333,
       "name": "Favelado Submundo",
       "url": "https://open.spotify.com/track/7CyLW5xojpNo8RHatkUkSD"
@@ -2251,7 +2335,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 134359,
       "name": "Gata Indecisa",
       "url": "https://open.spotify.com/track/4fLdaUwDkFh3yyF97nhekW"
@@ -2349,6 +2433,24 @@
       "duration_ms": 88065,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/7ry1Fs1NsV1fuU3ma7Vdnh"
+    },
+    {
+      "album": {
+        "name": "Hot City",
+        "url": "https://open.spotify.com/album/285dyplMmdf18fGjnRQZak"
+      },
+      "artists": [
+        {
+          "name": "Spartano",
+          "url": "https://open.spotify.com/artist/5VkAxeOIPrz93DkfyhdHDL"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187008,
+      "name": "Hot City",
+      "url": "https://open.spotify.com/track/51F79RkXKKxyXxn0WdcpSL"
     },
     {
       "album": {
@@ -3116,6 +3218,24 @@
     },
     {
       "album": {
+        "name": "Meu Mundo",
+        "url": "https://open.spotify.com/album/7IoTpNoubIPLY25VfhJI7W"
+      },
+      "artists": [
+        {
+          "name": "Fabin",
+          "url": "https://open.spotify.com/artist/5CFIBhFm7Ndt7xVCBwwlrF"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166125,
+      "name": "Meu Mundo",
+      "url": "https://open.spotify.com/track/0UbuoewSfbeKlzaHXNzIFa"
+    },
+    {
+      "album": {
         "name": "Midas",
         "url": "https://open.spotify.com/album/4NCVk7TXkHFnkRfk20bQ0U"
       },
@@ -3339,6 +3459,28 @@
       "duration_ms": 225750,
       "name": "n\u00e3o mais",
       "url": "https://open.spotify.com/track/7dSOWUPP9KkixmLRHnmHgL"
+    },
+    {
+      "album": {
+        "name": "Rico Bem Novin",
+        "url": "https://open.spotify.com/album/5vGJ6Mgt5MWj5Y0ZXc0QJF"
+      },
+      "artists": [
+        {
+          "name": "Shoy",
+          "url": "https://open.spotify.com/artist/3qGnDZ8BHEsA9Go8ui3RUJ"
+        },
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183652,
+      "name": "O Que Voc\u00ea Quer?",
+      "url": "https://open.spotify.com/track/5HdpRBA7H8i2dNHAY7aslT"
     },
     {
       "album": {
@@ -3742,6 +3884,28 @@
     },
     {
       "album": {
+        "name": "POP",
+        "url": "https://open.spotify.com/album/6isIl1j3yXvKBTPzO9EvcH"
+      },
+      "artists": [
+        {
+          "name": "Cabal",
+          "url": "https://open.spotify.com/artist/1NaCje3joxxJ1jduJoV5Xt"
+        },
+        {
+          "name": "Terra Preta",
+          "url": "https://open.spotify.com/artist/5ngE7XJPqw9CoOq3agu5FP"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212462,
+      "name": "POP",
+      "url": "https://open.spotify.com/track/3XsIJfFNAJhx21XkCRVf1n"
+    },
+    {
+      "album": {
         "name": "Marenostrum (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6XDqJ4Ao5AF9k98lihdFiV"
       },
@@ -3861,7 +4025,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 147428,
       "name": "Proibid\u00e3o",
       "url": "https://open.spotify.com/track/0tHrwWKfAHGWmJ38X5ta4q"
@@ -3931,6 +4095,32 @@
       "duration_ms": 141918,
       "name": "Puma",
       "url": "https://open.spotify.com/track/328ncue00w94Ql0inXdtiQ"
+    },
+    {
+      "album": {
+        "name": "Quarta Dimens\u00e3o",
+        "url": "https://open.spotify.com/album/0r5SYIXuZRCDW1XgtjNv9I"
+      },
+      "artists": [
+        {
+          "name": "Akira Presidente",
+          "url": "https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG"
+        },
+        {
+          "name": "DJ Ingrid",
+          "url": "https://open.spotify.com/artist/3q71k4pkDBUUn14oobY0O3"
+        },
+        {
+          "name": "Mr Break",
+          "url": "https://open.spotify.com/artist/1HhYGWmoTgSneUI79Z5gRf"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150241,
+      "name": "Quarta Dimens\u00e3o",
+      "url": "https://open.spotify.com/track/6Z3p7NVYk4exjmos3873VA"
     },
     {
       "album": {
@@ -4225,7 +4415,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 182564,
       "name": "Se Envolve",
       "url": "https://open.spotify.com/track/5LiLgO6j2JCb9Yicoc6Skq"
@@ -4751,7 +4941,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 192200,
       "name": "Tralha",
       "url": "https://open.spotify.com/track/7JXGcuv2CY9U6OBVCuSUyU"

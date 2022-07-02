@@ -4,7 +4,7 @@
 
 > LeeHi's here for you, Hice Creams!
 
-67 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/64ixMffQEVRKXFtILyCHmm)
+67 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/64ixMffQEVRKXFtILyCHmm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Don\`t Stop The Music](https://open.spotify.com/track/4GFWSbLd0iJEosvgqvWLxU) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 Top 8](https://open.spotify.com/album/1RxTY8pxYuPtpBscVqHFVJ) | 2:47 | 2022-03-14 |  |
 | [Dream](https://open.spotify.com/track/4X8l8E63XuzSSRLAoaezlS) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [First Love](https://open.spotify.com/album/4m0yIZ1YpdcKQAoDJq466S) | 4:49 | 2022-03-14 |  |
 | [Fool For Love](https://open.spotify.com/track/66Ghfp5KCWdp8QTGBoiCjB) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [First Love](https://open.spotify.com/album/4m0yIZ1YpdcKQAoDJq466S) | 4:05 | 2022-03-14 |  |
-| [For You](https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [For You](https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz) | 0:29 | 2022-03-14 |  |
+| [For You](https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [For You](https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz) | 3:25 | 2022-03-14 |  |
 | [For You \(Holiday Remix\) \- Spotify Singles Holiday](https://open.spotify.com/track/7I4DnQPWhzZvK79px5UhT5) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Spotify Singles \- Holiday](https://open.spotify.com/album/5AVL4k3pesuk0jRkTeCOSm) | 3:31 | 2022-03-14 |  |
 | [FXXK WIT US](https://open.spotify.com/track/2qWgqPdW1OiAP8KSBH1b93) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [SEOULITE](https://open.spotify.com/album/1xnXVzinhfO4I9CzTocPfh) | 3:37 | 2022-03-14 |  |
 | [Golden Slumbers](https://open.spotify.com/track/6wdG5d2iQpFw2iTw06N4r5) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Golden Slumbers \[Original Motion Pictures Soundtrack \(Special Track\)\]](https://open.spotify.com/album/16jwxhrAtCOLPRKmux5PWh) | 2:28 | 2022-03-14 |  |

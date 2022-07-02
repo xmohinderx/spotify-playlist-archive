@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Chara Kai\-Le\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,394 likes - 65 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,399 likes - 65 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 30 | [I F\*CKED a CHEATER](https://open.spotify.com/track/5TvuiNsfLwiPe3WPq8OHqC) | [Jjdroy](https://open.spotify.com/artist/4aJ8I7dbcRtx1mFdA8Sh5w), [Jude](https://open.spotify.com/artist/4oTyEQgj8L5eFsj42Kf0Na) | [I F\*CKED a CHEATER](https://open.spotify.com/album/08JTfXV5vjB9StoAKVUmSJ) | 2:59 |
 | 31 | [Tarifa](https://open.spotify.com/track/7CeeE95qlhwAWbu7XTh5xN) | [dylan chan](https://open.spotify.com/artist/3mKBWcBH58qiZXLs4ojPdK) | [Funerals by a Nightstand](https://open.spotify.com/album/2vBBsK12wQ4G6W1tHzWZ1K) | 2:25 |
 | 32 | [Platform Heels](https://open.spotify.com/track/5UNXUEUP9tWQUfNHqrOSvI) | [The Peachskins](https://open.spotify.com/artist/6slLx3tKNbSTpbAkkikwzd) | [ARE YOU OKAY?](https://open.spotify.com/album/0QdpUwL2nYTpTOgs7oDtxZ) | 1:52 |
-| 33 | [LDR \- Long\-Distance Relationship](https://open.spotify.com/track/67heGxkX8txhtkyfPXkj5M) | [Amanda Ong](https://open.spotify.com/artist/0XaKTTVvegITqWH3AW1DeD) | [LDR \(Long\-Distance Relationship\)](https://open.spotify.com/album/4arYXBTaHBY7YVGJtAPEey) | 0:29 |
+| 33 | [LDR \- Long\-Distance Relationship](https://open.spotify.com/track/67heGxkX8txhtkyfPXkj5M) | [Amanda Ong](https://open.spotify.com/artist/0XaKTTVvegITqWH3AW1DeD) | [LDR \(Long\-Distance Relationship\)](https://open.spotify.com/album/4arYXBTaHBY7YVGJtAPEey) | 2:23 |
 | 34 | [As Long As We Stay](https://open.spotify.com/track/34uhrPCTuIez9sRuuuYkBm) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy), [Heidi](https://open.spotify.com/artist/5ejbmmyWwnQys0g72tuems) | [As Long As We Stay](https://open.spotify.com/album/4MVcR1fEQjV3kfhQRznExk) | 3:48 |
 | 35 | [Without You](https://open.spotify.com/track/3lIO5alrxwoxc0VOqVu57f) | [Keith VVolf](https://open.spotify.com/artist/3TPbOzdrHElYaEhPxvg3e9) | [Without You](https://open.spotify.com/album/32c00YWobzmjAr3XYjBifM) | 6:11 |
 | 36 | [Now](https://open.spotify.com/track/5Yw87BrKuMvoborbwxAagF) | [Huzkee](https://open.spotify.com/artist/1tfpoJkjawQMKzlybghU5P) | [Now](https://open.spotify.com/album/4BDimkoIT1WGP183LVQNII) | 2:52 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,376 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,381 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 | 41 | [Fa Hooki Me](https://open.spotify.com/track/5E79kYZQN4Ea2HTJ4fLsQv) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Fa Hooki Me](https://open.spotify.com/album/1gqTSytfkUbGMTTiXgRpOZ) | 3:06 |
 | 42 | [Feelings \(feat\. Maleek Berry\)](https://open.spotify.com/track/4Z3s3IfcvJjxmHupIbb4SZ) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 3:41 |
 | 43 | [Down on One \(feat\. Fuse Odg\)](https://open.spotify.com/track/3elGAya8lU9d2dC1J4QYuh) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Fuse ODG](https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 3:47 |
-| 44 | [Coachella](https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Coachella](https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh) | 3:05 |
-| 45 | [Anything](https://open.spotify.com/track/6xuBRuNBKQR3LnBjUS7ZIn) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 4:51 |
+| 44 | [Anything](https://open.spotify.com/track/6xuBRuNBKQR3LnBjUS7ZIn) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 4:51 |
+| 45 | [Coachella](https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Coachella](https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh) | 3:05 |
 | 46 | [Bumper](https://open.spotify.com/track/2Kz8Wobrg0ATJsnM9nG9Fd) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Bumper](https://open.spotify.com/album/7Cbxz4Z0qDSP4Vgbtajtya) | 2:58 |
 | 47 | [Didi \(feat\. Kelvynboy & Strongman\)](https://open.spotify.com/track/0jVd212WpucXRGRR6m5Quc) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kelvynboy](https://open.spotify.com/artist/1ILezeIGUwWL0L3UT6vnEF), [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9) | [Didi \(feat\. Kelvynboy & Strongman\)](https://open.spotify.com/album/76Q4XFRm6azY8a1FzE8Dpw) | 3:50 |
 | 48 | [Angels and Demons](https://open.spotify.com/track/0y0zAsjxaoGvV7HQm3QrwB) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Alpha](https://open.spotify.com/album/3vB23UtiQmUqwsw9Ge8xcr) | 2:28 |
-| 49 | [Hope \(Brighter Day\)](https://open.spotify.com/track/7E0KDOByWpvZBX83SJua0e) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Hope \(Brighter Day\)](https://open.spotify.com/album/0eDB6dnzG46Xfn1yhycDGM) | 5:16 |
+| 49 | [Illuminati](https://open.spotify.com/track/1ZXEvJhugYz8uBqrm4yv2c) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 2:46 |
 | 50 | [Where Did I Go Wrong \(feat\. Efya\)](https://open.spotify.com/track/7odv9xmbrBNXzyavIHw5uV) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Rapperholic](https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK) | 4:28 |
 
-Snapshot ID: `Mjc2MTAwNDAsMDAwMDAwMDA4N2Q3NTdjYjI2NTQyNWY5YmU5NTQ0NWIwYzRmNzJiMw==`
+Snapshot ID: `Mjc2MTE0MjMsMDAwMDAwMDBjNmZjMTA0MjUzMWM4NGZlMTE4YzNkMjE4ODcxMmFiNg==`

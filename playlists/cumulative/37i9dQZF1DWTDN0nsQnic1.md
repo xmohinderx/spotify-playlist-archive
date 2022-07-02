@@ -4,7 +4,7 @@
 
 > Lush, shimmery guitars\. Cover: Tom Misch
 
-56 songs - 2 hr 53 min - [published](https://open.spotify.com/playlist/2cOIoz7kl4h0oUp84atVFL)
+56 songs - 2 hr 59 min - [published](https://open.spotify.com/playlist/2cOIoz7kl4h0oUp84atVFL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Lemon Squeezy](https://open.spotify.com/track/5sPGOHTaJSyGpun0ZxiKOV) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Lemon Squeezy / Afrique](https://open.spotify.com/album/5TOrJJWoM61EENIZi4PSSp) | 3:32 | 2022-04-01 |  |
 | [Lost in Paris](https://open.spotify.com/track/6lxcWIvMQK3yezxwFfZcKZ) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Lost in Paris](https://open.spotify.com/album/3OGqx2jmVKVkKOIOxGjOQC) | 3:14 | 2021-09-08 |  |
 | [Lovespell](https://open.spotify.com/track/37w7whht8ii8yxGfqkSf1d) | [Ben Rosett](https://open.spotify.com/artist/1dtiGEl2aljrMiP2QqqoZZ) | [Lovespell](https://open.spotify.com/album/0StAahiWVzY6SqoAKl26CR) | 3:18 | 2021-09-08 |  |
-| [Morning Dew](https://open.spotify.com/track/51AcBAVVnSQ3S4ojp3jzcs) | [Matt Quentin](https://open.spotify.com/artist/23cC3RI0hgD5sWmXKPAJuG) | [Morning Dew](https://open.spotify.com/album/65XZ1fxe3AgVnC8WHVcJFW) | 0:29 | 2021-09-08 |  |
+| [Morning Dew](https://open.spotify.com/track/51AcBAVVnSQ3S4ojp3jzcs) | [Matt Quentin](https://open.spotify.com/artist/23cC3RI0hgD5sWmXKPAJuG) | [Morning Dew](https://open.spotify.com/album/65XZ1fxe3AgVnC8WHVcJFW) | 3:57 | 2021-09-08 |  |
 | [Movie](https://open.spotify.com/track/6pxElwU80zhjbCC77Vn8EI) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 5:57 | 2021-09-08 |  |
 | [Negai](https://open.spotify.com/track/4G4wIWnQXvJzdBifQwx749) | [Zoology](https://open.spotify.com/artist/3V1zHjaKSXKbaOEGNHjuPO) | [Negai](https://open.spotify.com/album/69QyT4Q2OvYPQG5zZ2Nh8A) | 3:16 | 2021-09-08 |  |
 | [Nostalgia \(feat\. Taura\)](https://open.spotify.com/track/5iIZTr2dlpGW0w2K4pwLR2) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Boys & Girls Mixtape](https://open.spotify.com/album/09GalPugs4ZBrI0rrLQPf6) | 3:43 | 2021-09-08 |  |
@@ -46,7 +46,7 @@
 | [Super Sad Always](https://open.spotify.com/track/1BqSqUUGo1ilm7Pg4ghJvR) | [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Super Sad Always](https://open.spotify.com/album/5TZUlZef0K4UmjUFzOh3HL) | 3:13 | 2021-09-08 |  |
 | [Surface](https://open.spotify.com/track/44bTGsp2iJO8AjYEjRqP47) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [INIMI](https://open.spotify.com/artist/4tge67x7Fvdd1Z04eJr2LL) | [Could It Be U / Surface](https://open.spotify.com/album/4cU2LPwnLxgMwF8151yNxt) | 3:07 | 2022-04-15 |  |
 | [Suspended](https://open.spotify.com/track/38K8mmhKeQ5A15xFZOeYzA) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Florent Garcia](https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh) | [Suspended](https://open.spotify.com/album/4e1u1Z1IvPsdH15Qd0gY6L) | 2:10 | 2021-10-29 |  |
-| [syrupy](https://open.spotify.com/track/0jL4kBFDLR9tCJuDP9B7iH) | [av4ln](https://open.spotify.com/artist/3E6IjOeXDYo2swzAUYZ5ln), [ichika](https://open.spotify.com/artist/0gnJx3IKBjjTrDpg1xNG52) | [syrupy](https://open.spotify.com/album/7j9dYye1M5ANMKkBhK0pnV) | 0:29 | 2021-09-08 |  |
+| [syrupy](https://open.spotify.com/track/0jL4kBFDLR9tCJuDP9B7iH) | [av4ln](https://open.spotify.com/artist/3E6IjOeXDYo2swzAUYZ5ln), [ichika](https://open.spotify.com/artist/0gnJx3IKBjjTrDpg1xNG52) | [syrupy](https://open.spotify.com/album/7j9dYye1M5ANMKkBhK0pnV) | 2:49 | 2021-09-08 |  |
 | [Tadow](https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 5:01 | 2021-09-08 |  |
 | [Talk In The Morning](https://open.spotify.com/track/4yxaiawEicI6fJHlGp5wAQ) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Breathe](https://open.spotify.com/album/6q39FZTCwg8y91KKQUTBq5) | 3:37 | 2021-09-08 |  |
 | [Tell Me When](https://open.spotify.com/track/2BlscWwajIvT29g6EiQaM9) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Tell Me When](https://open.spotify.com/album/32UaNF5vL1cC0341SHFfzO) | 4:27 | 2021-09-08 |  |

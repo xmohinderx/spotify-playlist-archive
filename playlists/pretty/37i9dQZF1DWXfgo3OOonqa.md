@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > Håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,114 likes - 85 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,271 likes - 85 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 77 | [Dedär – Spotify Studio 100 Recording](https://open.spotify.com/track/06CHD99F2QktVszKVpKqCs) | [Robin Nazari](https://open.spotify.com/artist/4aK9sNftDZEcieWnzCk2Ed), [RAHIMIC](https://open.spotify.com/artist/4rSe5VVdZX6GOPCcMYT7ZM) | [Dedär – Spotify Studio 100 Recording](https://open.spotify.com/album/35ziEJaUtgMrNzN4OtsRdl) | 3:21 |
 | 78 | [Going Lit \- Spotify Studio 100 Recording](https://open.spotify.com/track/3gxAIJwFeYpba15gx9zXre) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Going Lit \- Spotify Studio 100 Recording](https://open.spotify.com/album/46LsdSRGIqiDUvNdXa0hq8) | 2:20 |
 | 79 | [Guitar \- Spotify Studio 100 Recording](https://open.spotify.com/track/3h8WBhNnafO0wzsEnGeJfX) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [Guitar \- Spotify Studio 100 Recording](https://open.spotify.com/album/3ymlmZD01qezHfoQlDtUWB) | 2:44 |
-| 80 | [fuego \(feat\. GABIFUEGO\) \- Spotify Studio 100 Recording](https://open.spotify.com/track/2hYNimCc8MwLGMzCZI4IfR) | [Musti](https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6), [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ), [GABIFUEGO](https://open.spotify.com/artist/0F1ctf2KXhKhtcHzWdonJr) | [fuego \(feat\. GABIFUEGO\) \[Spotify Studio 100 Recording\]](https://open.spotify.com/album/02gT5JjdBLAkwSr2dGoyT5) | 0:29 |
+| 80 | [fuego \(feat\. GABIFUEGO\) \- Spotify Studio 100 Recording](https://open.spotify.com/track/2hYNimCc8MwLGMzCZI4IfR) | [Musti](https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6), [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ), [GABIFUEGO](https://open.spotify.com/artist/0F1ctf2KXhKhtcHzWdonJr) | [fuego \(feat\. GABIFUEGO\) \[Spotify Studio 100 Recording\]](https://open.spotify.com/album/02gT5JjdBLAkwSr2dGoyT5) | 2:44 |
 | 81 | [En Stund \- Spotify Studio 100 Recording](https://open.spotify.com/track/4bFeSR93jyLv2QPcmzOJRp) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [En Stund \(Spotify Studio 100 Recording\)](https://open.spotify.com/album/5rfIp18A4D6aRHMKuRJOG9) | 3:01 |
 | 82 | [OuOu \- Spotify Studio 100 Recording](https://open.spotify.com/track/44EsiFbw1i2wSvYMvC76pJ) | [L1NA](https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [OuOu \(Spotify Studio 100 Recording\)](https://open.spotify.com/album/7n9tKJ15sySDyVOJxrl4xo) | 2:33 |
 | 83 | [Branschen \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/6ZFe0Rzy31duWc50Ivk4lJ) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [Studio 100](https://open.spotify.com/album/1a6R6CjMJ6E3e1MEPPw544) | 2:40 |

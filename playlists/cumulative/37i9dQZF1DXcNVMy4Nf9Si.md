@@ -4,7 +4,7 @@
 
 > Hear all of TAEYEON's biggest and best hits in one playlist.
 
-79 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/29UVr9MpEgujCNX539vx1g)
+79 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/29UVr9MpEgujCNX539vx1g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Night](https://open.spotify.com/track/26X50tiIvOem3M7pvJ2bm5) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Why \- The 2nd Mini Album](https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU) | 3:13 | 2022-02-14 |  |
 | [No Love Again](https://open.spotify.com/track/2b0RhgCNG1jIU8gc5HoGRM) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:14 | 2022-02-14 |  |
 | [One Day](https://open.spotify.com/track/6hjvQTrIkCc8gAX4BfSJjn) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Something New \- The 3rd Mini Album](https://open.spotify.com/album/0xYQcPVyEEegJlTXLttWUx) | 3:30 | 2022-02-14 |  |
-| [Only one](https://open.spotify.com/track/0V7f8xzZdIrtlNnhEOMAYH) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Baramibunda OST Part 5](https://open.spotify.com/album/6bp7CU0TgsOOhXIyAuejtG) | 0:29 | 2022-02-14 |  |
+| [Only one](https://open.spotify.com/track/0V7f8xzZdIrtlNnhEOMAYH) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Baramibunda OST Part 5](https://open.spotify.com/album/6bp7CU0TgsOOhXIyAuejtG) | 4:15 | 2022-02-14 |  |
 | [Rain](https://open.spotify.com/track/1ukyvyEeSg1odSQvhlRAIU) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Rain \- SM STATION](https://open.spotify.com/album/5MgY1E2inbDcthAQEzwz8L) | 3:42 | 2022-02-14 |  |
 | [Rescue Me](https://open.spotify.com/track/0xO4wM6ZRx5OMOSv2RHoMk) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [ファイナルライフ \-明日、君が消えても\- \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/6rhSqYOzLZzDqKLNqnJH0u) | 4:22 | 2022-02-14 |  |
 | [Secret](https://open.spotify.com/track/3Outs0mBJ9APOreUan9xpU) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Rain \- SM STATION](https://open.spotify.com/album/5MgY1E2inbDcthAQEzwz8L) | 3:37 | 2022-02-14 |  |

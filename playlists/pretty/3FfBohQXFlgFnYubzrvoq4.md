@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3FfBohQXFlgFnYubzrvoq4.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 13 likes - 20 songs - 1 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 13 likes - 20 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/3FfBohQXFlgFnYubzrvoq4.md) - [plain]
 | 4 | [What I'm Thinking About](https://open.spotify.com/track/2jbUPfffA74IpoBJD3CdsJ) | [The Swon Brothers](https://open.spotify.com/artist/1nf0nRF0W4ybnJdda00pKY) | [The Swon Brothers](https://open.spotify.com/album/6O1P8K69uFGvCfpyAvdsx1) | 3:19 |
 | 5 | [Dibs](https://open.spotify.com/track/1DDfGKUuz5saLOkne2CSNL) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Kelsea Ballerini](https://open.spotify.com/album/1763oiO7mm9HCC7ZAWOtaB) | 3:02 |
 | 6 | [No Hurry](https://open.spotify.com/track/020ffiIfWvx5EH9VJ8Dkg2) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [You Get What You Give \(Deluxe\)](https://open.spotify.com/album/0AXoQGOZDaYSaOo0qCTiCr) | 3:46 |
-| 7 | [Smile On My Mouth](https://open.spotify.com/track/0oF3HWrmp5gLXtXGvyJiWF) | [Thompson Square](https://open.spotify.com/artist/0Bvs8yPjrQSbmVIRqSg1Sp) | [Smile On My Mouth](https://open.spotify.com/album/1QiQBJK75UyqZzeHyJQBvl) | 0:29 |
+| 7 | [Smile On My Mouth](https://open.spotify.com/track/0oF3HWrmp5gLXtXGvyJiWF) | [Thompson Square](https://open.spotify.com/artist/0Bvs8yPjrQSbmVIRqSg1Sp) | [Smile On My Mouth](https://open.spotify.com/album/1QiQBJK75UyqZzeHyJQBvl) | 3:43 |
 | 8 | [Little Bit Of Everything](https://open.spotify.com/track/1J8j3IeJz1HXoHF59LoP4h) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Fuse](https://open.spotify.com/album/5rESCws46ubPJlqOeb30Rv) | 3:25 |
 | 9 | [Good On You](https://open.spotify.com/track/5qIg6CWItyCyk4SFGbAYnl) | [Native Run](https://open.spotify.com/artist/4nKcKE5cfDEzGUQXRY6cla) | [Good On You \- EP](https://open.spotify.com/album/7Jv83qLL8ZYW8IMDF8TQsL) | 3:20 |
 | 10 | [What You Do to Me](https://open.spotify.com/track/5zXPsVuwJ4vLBcxAWzrnD6) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Where It All Began](https://open.spotify.com/album/2Zkvy7eARxR3qjKNWMiwMa) | 3:30 |

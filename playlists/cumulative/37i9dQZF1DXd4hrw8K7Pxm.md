@@ -4,12 +4,12 @@
 
 > Let it go and belt it out to these classic ballads – covered\. Cover: <a href="spotify:artist:3DIk8KcmVKTr4uGw3AuCtJ">Rose Cousins</a>
 
-54 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/4kV4p5GG7I9PAKbvOcs33Y)
+54 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/4kV4p5GG7I9PAKbvOcs33Y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [7 Years](https://open.spotify.com/track/2VgaZrBVBJqh4lMYeqN0pQ) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [7 Years](https://open.spotify.com/album/5MupNow8t7OcTop26MnsrO) | 3:58 | 2020-10-16 |  |
-| [A Thousand Years](https://open.spotify.com/track/1xKQ533l7XXlbFL8m60x4a) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/0nPQ4uEOKLeGQ35Mcs94xH) | 0:29 | 2020-10-16 |  |
+| [A Thousand Years](https://open.spotify.com/track/1xKQ533l7XXlbFL8m60x4a) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/0nPQ4uEOKLeGQ35Mcs94xH) | 3:41 | 2020-10-16 |  |
 | [Always On My Mind](https://open.spotify.com/track/036pGlJwc9ZVFJNLmniSbF) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sweetheart 2014](https://open.spotify.com/album/0qjDs1pSBA36pw3qL57LAx) | 4:15 | 2020-10-16 |  |
 | [Believe](https://open.spotify.com/track/1ty3N197je3o1dN0F6Fu1G) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [Believe](https://open.spotify.com/album/2fEYL3YBVILeEuiKJL7S2n) | 3:56 | 2020-10-16 |  |
 | [Best Thing I Never Had \(made famous by Beyoncé\)](https://open.spotify.com/track/1u3PLSZ2YkkUBuapHKz29w) | [Megan & Liz](https://open.spotify.com/artist/6mRrGf8lw51Iux6dPQWWlr) | [Best Thing I Never Had \- Single](https://open.spotify.com/album/6lwW0tcsq3ak4Hca5bbYca) | 3:03 | 2020-10-16 |  |

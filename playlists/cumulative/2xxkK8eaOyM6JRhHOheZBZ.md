@@ -4,7 +4,7 @@
 
 > Sweden Rock är Sveriges största hårdrocksfestival\. Sommarens upplaga äger rum 6 \- 9 juni i Sölvesborg\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
-75 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/3O99m6CCrcVjZq2EssXLXB)
+75 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/3O99m6CCrcVjZq2EssXLXB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Bastards Of Rock n Roll](https://open.spotify.com/track/1aORxPvnoYukSS0dxXVnuk) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Sultans Of Sin](https://open.spotify.com/album/31GiMxSNTSuTE7w1iWwz13) | 4:04 | 2012-05-07 |  |
 | [Be Forewarned](https://open.spotify.com/track/3FxxRafE9wmz3tWv0Z7cE8) | [Pentagram](https://open.spotify.com/artist/0xybuiDEYo3YuT3fLPaIyE) | [First Daze Here](https://open.spotify.com/album/0nGceuITQR9TWnpYiqboUD) | 3:27 | 2012-05-07 |  |
 | [Between The Lines](https://open.spotify.com/track/1yUurcZU99B1DQJQhvZivz) | [Beyond All Recognition](https://open.spotify.com/artist/1PMagroptnVMBgWJYgTaC6) | [Now Or Never](https://open.spotify.com/album/5WtT21ERyo0SK0zLcv0kMk) | 3:49 | 2012-05-07 |  |
-| [Black Hole Sun](https://open.spotify.com/track/0O7oB0P3rRzbDggXBYPnbG) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Telephantasm \(Deluxe Edition\)](https://open.spotify.com/album/0hMEh0PFv93ziVTc9ADXwX) | 0:29 | 2012-05-07 |  |
+| [Black Hole Sun](https://open.spotify.com/track/0O7oB0P3rRzbDggXBYPnbG) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Telephantasm \(Deluxe Edition\)](https://open.spotify.com/album/0hMEh0PFv93ziVTc9ADXwX) | 5:17 | 2012-05-07 |  |
 | [Boogie Sea](https://open.spotify.com/track/5x2imu35bw7qmmmJcLf48W) | [Vdelli](https://open.spotify.com/artist/325JB8b3FuPyMoVjgkQJsL) | [Ain't Bringing Me Down](https://open.spotify.com/album/3dqlA4N7fmZLpWwwLTEtTt) | 4:08 | 2012-05-07 |  |
 | [Born Too Late](https://open.spotify.com/track/7rmLLDnpptvTIU1Dt3Wfh8) | [Saint Vitus](https://open.spotify.com/artist/64yj4wx5kNH3NTUW0ghyxn) | [Born Too Late](https://open.spotify.com/album/6CyKigkGRtW3xTDZczqlRC) | 6:53 | 2012-05-07 |  |
 | [Broken Wings](https://open.spotify.com/track/1IzfSKXYt8KMGix4GahE87) | [Scarlet Drop](https://open.spotify.com/artist/6siRgfoot198KXZyhfQpsi) | [Broken Wings](https://open.spotify.com/album/60mnuHvrCOoAAvQGHGQeqR) | 4:15 | 2012-05-07 |  |
@@ -42,7 +42,7 @@
 | [Heaven](https://open.spotify.com/track/7fBkEDtMehae8jgmZEQNzQ) | [Gotthard](https://open.spotify.com/artist/4DwhNqibDIsxIamSxWb7tQ) | [Made In Switzerland](https://open.spotify.com/album/4fKA8aAj2jBeZ2Y7nRCgZN) | 6:32 | 2012-05-07 |  |
 | [Heavy Metal Maniac](https://open.spotify.com/track/6mUJe6wZzOmI7vWpHFRQcO) | [Exciter](https://open.spotify.com/artist/1jH2JkQvdH6R63yORA8GTd) | [New Testament](https://open.spotify.com/album/5eFR1SErPmyghAsKh10XDm) | 3:48 | 2012-05-07 |  |
 | [Hillbilly Heart](https://open.spotify.com/track/73QjNZTTFk1LKgTaNx04fZ) | [Bourbon Boys](https://open.spotify.com/artist/2ubeUsJWHWzu2ul4qA2jFt) | [Hillbilly Heart](https://open.spotify.com/album/4uQdNSEJonTgbeRbZBIi7Q) | 3:23 | 2012-05-07 |  |
-| [House Of Sleep](https://open.spotify.com/track/7iWTV4w2vTse1o83uqYeu5) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [Eclipse](https://open.spotify.com/album/7yFP90dbNBPAMuBFxam3IS) | 0:29 | 2012-05-07 |  |
+| [House Of Sleep](https://open.spotify.com/track/7iWTV4w2vTse1o83uqYeu5) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [Eclipse](https://open.spotify.com/album/7yFP90dbNBPAMuBFxam3IS) | 4:15 | 2012-05-07 |  |
 | [I Believe in a Thing Called Love](https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Permission to Land](https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM) | 3:37 | 2012-05-07 |  |
 | [I Can Make You Run](https://open.spotify.com/track/7noMM92SFp8J4HUm93oyGI) | [The Gloria Story](https://open.spotify.com/artist/65TRT4diGaU8iHXau6w2ld) | [Shades of White](https://open.spotify.com/album/1ayf7emlTl7EXnzZCgiWNY) | 3:01 | 2012-05-07 |  |
 | [Iconoclast](https://open.spotify.com/track/50ZjdtLAQTlWfeb3vRXvFG) | [Symphony X](https://open.spotify.com/artist/4MnZkh4dpNmTMPxkl4Ev5L) | [Iconoclast](https://open.spotify.com/album/2kCIgZHxtHvGgyRomHgOFe) | 10:51 | 2012-05-07 |  |
@@ -74,7 +74,7 @@
 | [The Chase](https://open.spotify.com/track/22O6usT184qfjv5dZmIMMD) | [Evasive](https://open.spotify.com/artist/58YLW4aJF8LCktIV6v0dTd) | [Evasive EP](https://open.spotify.com/album/2KGD6jrBnAT6lY7vBmjbC5) | 4:36 | 2012-05-07 |  |
 | [The Night Pat Murphy Died](https://open.spotify.com/track/35G80ilx4muxU2LDnUy3NN) | [Fiddler's Green](https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe) | [Drive Me Mad!](https://open.spotify.com/album/1QSzULVs9BQjPtBywq4pl0) | 3:36 | 2012-05-07 |  |
 | [The Wall Street Shuffle \- Live](https://open.spotify.com/track/2UBb4MVW5tEP7AQpqkrKZX) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [10Cc Live](https://open.spotify.com/album/08tmjL7INZXARdoXBNHBwh) | 4:54 | 2012-05-07 |  |
-| [Too Fast for Love](https://open.spotify.com/track/7xOhoY3PgZGaDxP6aWspZe) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Greatest Hits](https://open.spotify.com/album/1npsN9rkVQZgoZfxZt0AWy) | 0:29 | 2012-05-07 |  |
+| [Too Fast for Love](https://open.spotify.com/track/7xOhoY3PgZGaDxP6aWspZe) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Greatest Hits](https://open.spotify.com/album/1npsN9rkVQZgoZfxZt0AWy) | 3:22 | 2012-05-07 |  |
 | [Too Late](https://open.spotify.com/track/6xYHkoY3PmDBqLzydhJ80Z) | [Axel Rudi Pell](https://open.spotify.com/artist/7dWw3TXxNe2aEhng9vVRNl) | [The Crest](https://open.spotify.com/album/77RTQpX9WfuZY5RJCyRGv8) | 5:58 | 2012-05-07 |  |
 | [Truthful profession](https://open.spotify.com/track/4iYuMUlOmdP93vHrtacSLX) | [Deals Death](https://open.spotify.com/artist/4uPWvwgl5qwMLqyUSZPhnv) | [Internal Demons](https://open.spotify.com/album/5VJAGaldcAF66pLEt6Eb2E) | 3:19 | 2012-05-07 |  |
 | [Vingar](https://open.spotify.com/track/4dYPO4PFD9ytd4W3dpCucC) | [Mikael Rickfors](https://open.spotify.com/artist/2Q4l7xGX0Y3u1f0m4V7kG2) | [Svensk sommar](https://open.spotify.com/album/1hGknhDJeqGl2VR95CLGal) | 5:13 | 2012-05-07 |  |

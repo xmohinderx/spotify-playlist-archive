@@ -4,13 +4,13 @@
 
 > <a href="spotify:artist:3AN049igIAaoX0fjTCkpnf">Jennifer Cardini</a>'s favorite tracks\. Updated regularly\. Curated by Jennifer Cardini\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-152 songs - 15 hr 10 min - [published](https://open.spotify.com/playlist/2Ef1pT9lprEUZ0GG1CMnv6)
+152 songs - 15 hr 28 min - [published](https://open.spotify.com/playlist/2Ef1pT9lprEUZ0GG1CMnv6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [19](https://open.spotify.com/track/3OMtFItpmbW4H8muL3Da0F) | [Miss Kittin](https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL), [The Hacker](https://open.spotify.com/artist/763V8ZisRsw5kCoquzKTUp) | [19](https://open.spotify.com/album/3Kg7bmC3lyqSGoMBukgnfo) | 3:55 | 2022-05-13 |  |
 | [A Fine Day For A Drubbing \- Zillas On Acid Remix](https://open.spotify.com/track/5GCLPhpwjMFQJQMjWg8Jaq) | [Russian Chandeliers](https://open.spotify.com/artist/5sbDZ2Mx2bIHQqBa52dvCs), [Zillas On Acid](https://open.spotify.com/artist/3eagsKVJKWTP5XmPnE5ZQZ) | [Silos EP](https://open.spotify.com/album/5f69QjZh1U8NdbHyXgFoEy) | 8:09 | 2021-12-10 | 2022-01-15 |
-| [Acperience 1](https://open.spotify.com/track/2IQ61J0AFfjnxBm4lQEU0W) | [Hardfloor](https://open.spotify.com/artist/6z9JhbmcTrVKITp9ah4mJk) | [TB Resucitation](https://open.spotify.com/album/2ucG4BEW3uOUQgjdJ9c5GN) | 0:29 | 2022-05-13 |  |
+| [Acperience 1](https://open.spotify.com/track/2IQ61J0AFfjnxBm4lQEU0W) | [Hardfloor](https://open.spotify.com/artist/6z9JhbmcTrVKITp9ah4mJk) | [TB Resucitation](https://open.spotify.com/album/2ucG4BEW3uOUQgjdJ9c5GN) | 9:02 | 2022-05-13 |  |
 | [Acuario \- Prins Thomas Remix](https://open.spotify.com/track/1Azlpadk9bzg8Gak1KCOqH) | [Shubostar](https://open.spotify.com/artist/5J7kzftVddD7jcs6ce3Cbv), [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Various: Space Station Part 2 \(Internasjonal\)](https://open.spotify.com/album/3exPHOYwSvz9FsdUbecklS) | 6:22 | 2022-05-13 |  |
 | [Afrikan III](https://open.spotify.com/track/2iwbPDO5pFkGqEcVyt6KSk) | [Simoncino](https://open.spotify.com/artist/38mGXV1meeU3dz3HtO4toI) | [Come with Me](https://open.spotify.com/album/2krNh15cGXPm5V1Ev6hGu8) | 3:37 | 2022-01-14 | 2022-05-14 |
 | [Alpine Breaks \- Alex Kassian Remix](https://open.spotify.com/track/7lBaZd781ZgNmJudOibET1) | [Clint](https://open.spotify.com/artist/3SUXHChvS0yDwYxSOwKltb), [Alex Kassian](https://open.spotify.com/artist/3YcfGOBLEsPKVZj5Ecu0QY) | [Planet Dance Vol\. II](https://open.spotify.com/album/0kqslLuTBxBfQLYnnFAFcd) | 7:49 | 2022-05-13 |  |
@@ -92,7 +92,7 @@
 | [Koalas March](https://open.spotify.com/track/45HZpeLionW8N1SsKcuVFe) | [Lennart](https://open.spotify.com/artist/43AQ7km11ZWj9An55MOHgP) | [Vitamin D](https://open.spotify.com/album/2ezGue3qqbhfBNtPeOBpGL) | 7:07 | 2022-05-13 |  |
 | [La Hafla \- Delmore Remix](https://open.spotify.com/track/0TH2wpQqX3pYv2ZqThHacv) | [Acid Arab](https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7), [Delmore](https://open.spotify.com/artist/6M5DieyYBHaKlkTPTqHqF9) | [Remixed](https://open.spotify.com/album/2IiSd2rbbQGtnlRhLUo7eD) | 4:31 | 2022-05-13 |  |
 | [Little Drummer Boy \- Lauer Remix](https://open.spotify.com/track/5dBltnK1rVjyrKZLKN9CRy) | [Patrick Bishop](https://open.spotify.com/artist/3N4Z2iZc3I4o6hhGeoqDEv), [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [Little Drummer Boy \(Lauer Remix\)](https://open.spotify.com/album/0yTu9KOD3BcWMNAhfdbF39) | 4:22 | 2021-12-10 | 2022-05-14 |
-| [Lush Life](https://open.spotify.com/track/4XkuBnhvrRLJg3TvHay3W8) | [Superpitcher](https://open.spotify.com/artist/55BdmUTmTmoUNOFQxm54k5), [Fantastic Twins](https://open.spotify.com/artist/6da8OOYjq640zH3b4e4wci) | [Lush Life](https://open.spotify.com/album/7wAG08EkVojJORs48iThNm) | 0:29 | 2022-05-13 |  |
+| [Lush Life](https://open.spotify.com/track/4XkuBnhvrRLJg3TvHay3W8) | [Superpitcher](https://open.spotify.com/artist/55BdmUTmTmoUNOFQxm54k5), [Fantastic Twins](https://open.spotify.com/artist/6da8OOYjq640zH3b4e4wci) | [Lush Life](https://open.spotify.com/album/7wAG08EkVojJORs48iThNm) | 9:42 | 2022-05-13 |  |
 | [Lux Interior](https://open.spotify.com/track/32sW26Qkz5Pgn8h8ciAf09) | [Whitesquare](https://open.spotify.com/artist/3bMbfexE8OmHIPigyIpROI) | [Discreet Moment Thing Pt\. 1](https://open.spotify.com/album/25LeXLJbRJBrFVWkazXStQ) | 6:10 | 2021-12-10 | 2022-05-14 |
 | [Macarena](https://open.spotify.com/track/0uEG4uStQzwVkbtRNEe1mK) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [+](https://open.spotify.com/album/611LjdYsQvGXLI0pCOrmZk) | 4:33 | 2022-05-13 |  |
 | [Magic](https://open.spotify.com/track/0DbW2bBLUHII0X4p5l3hAf) | [REES](https://open.spotify.com/artist/4DsD95lJoAXFmrh7vhL6MU) | [Magic](https://open.spotify.com/album/6PmXQbhaQw4M3zlKSVHS6s) | 5:05 | 2022-05-13 |  |

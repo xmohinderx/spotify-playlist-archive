@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/2xxkK8eaOyM6JRhHOheZBZ.md) - [plain]
 
 > Sweden Rock är Sveriges största hårdrocksfestival\. Sommarens upplaga äger rum 6 \- 9 juni i Sölvesborg\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50 likes - 75 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 50 likes - 75 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Madman](https://open.spotify.com/track/4HYo754p6gvG8OBfoJPpfJ) | [Ugly Kid Joe](https://open.spotify.com/artist/3XsgWn63EnA4wYZBjVyxjf) | [As Ugly As It Gets: The Very Best Of](https://open.spotify.com/album/31aXXorWWr7XjDz6L0bDBX) | 3:38 |
 | 2 | [Don't Fear the Reaper](https://open.spotify.com/track/1SV6va1FdRvOm6fMtCnWsx) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [Alive In America: Pt\. 1](https://open.spotify.com/album/0J7Fhf8Kuy5VYntKId4hd2) | 6:53 |
-| 3 | [Black Hole Sun](https://open.spotify.com/track/0O7oB0P3rRzbDggXBYPnbG) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Telephantasm \(Deluxe Edition\)](https://open.spotify.com/album/0hMEh0PFv93ziVTc9ADXwX) | 0:29 |
-| 4 | [Too Fast for Love](https://open.spotify.com/track/7xOhoY3PgZGaDxP6aWspZe) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Greatest Hits](https://open.spotify.com/album/1npsN9rkVQZgoZfxZt0AWy) | 0:29 |
+| 3 | [Black Hole Sun](https://open.spotify.com/track/0O7oB0P3rRzbDggXBYPnbG) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Telephantasm \(Deluxe Edition\)](https://open.spotify.com/album/0hMEh0PFv93ziVTc9ADXwX) | 5:17 |
+| 4 | [Too Fast for Love](https://open.spotify.com/track/7xOhoY3PgZGaDxP6aWspZe) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Greatest Hits](https://open.spotify.com/album/1npsN9rkVQZgoZfxZt0AWy) | 3:22 |
 | 5 | [Dirt Bound](https://open.spotify.com/track/2cnjjPKvh3jKShMSJqNU0b) | [Bonafide](https://open.spotify.com/artist/3Gtok2fWD0FxgheDPYZ6Mw) | [Somethings Drippin](https://open.spotify.com/album/6tEXDbRCTuZd00YxGxmllN) | 3:43 |
 | 6 | [Iconoclast](https://open.spotify.com/track/50ZjdtLAQTlWfeb3vRXvFG) | [Symphony X](https://open.spotify.com/artist/4MnZkh4dpNmTMPxkl4Ev5L) | [Iconoclast](https://open.spotify.com/album/2kCIgZHxtHvGgyRomHgOFe) | 10:51 |
 | 7 | [Progenies Of The Great Apocalypse](https://open.spotify.com/track/1n1OAL9sl46kemH4j7vtvo) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Death Cult Armageddon](https://open.spotify.com/album/75AhduVSOiy5urwKkH3Uyw) | 5:18 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/2xxkK8eaOyM6JRhHOheZBZ.md) - [plain]
 | 44 | [Bad Company \(Remastered Album Version\)](https://open.spotify.com/track/7LZyhNjhyXj27iEXUYQYHo) | [Bad Company](https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84) | [Bad Company](https://open.spotify.com/album/6DaTfshdfMQiM00Yw1CG3J) | 4:47 |
 | 45 | [Confessions](https://open.spotify.com/track/3fllpI9uZKkdy3NJS0J1oV) | [Cannibal Corpse](https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n) | [Seven Gates Of Horror \- A Tribute To Possessed](https://open.spotify.com/album/6ilTfno0Wb3UWSOn8frpUZ) | 2:54 |
 | 46 | [Womankind](https://open.spotify.com/track/4JgCfjkFyG4NzBARt0P4r9) | [Little Angels](https://open.spotify.com/artist/4TRBBxb2qDow4v5lmGtXIU) | [True Power\-Ballads / 3CD set](https://open.spotify.com/album/01KB6ccwWZ1iVufgXMoOuX) | 4:38 |
-| 47 | [House Of Sleep](https://open.spotify.com/track/7iWTV4w2vTse1o83uqYeu5) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [Eclipse](https://open.spotify.com/album/7yFP90dbNBPAMuBFxam3IS) | 0:29 |
+| 47 | [House Of Sleep](https://open.spotify.com/track/7iWTV4w2vTse1o83uqYeu5) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [Eclipse](https://open.spotify.com/album/7yFP90dbNBPAMuBFxam3IS) | 4:15 |
 | 48 | [The Night Pat Murphy Died](https://open.spotify.com/track/35G80ilx4muxU2LDnUy3NN) | [Fiddler's Green](https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe) | [Drive Me Mad!](https://open.spotify.com/album/1QSzULVs9BQjPtBywq4pl0) | 3:36 |
 | 49 | [Bye Bye Johnny](https://open.spotify.com/track/3q8jR9ivjezvte2Max7SFX) | [Return](https://open.spotify.com/artist/5sn5IwgzVoS4ICZP1lN9mQ) | [Attitudes](https://open.spotify.com/album/3vnHle15dmVpqPfVJBCSWm) | 4:11 |
 | 50 | [Sister Christian](https://open.spotify.com/track/6LoSKNsYkRQbyuiReooMjG) | [Night Ranger](https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH) | [Boogie Nights / Music From The Original Motion Picture](https://open.spotify.com/album/4HUntZg0YV0qCvRxmIhq2U) | 5:00 |

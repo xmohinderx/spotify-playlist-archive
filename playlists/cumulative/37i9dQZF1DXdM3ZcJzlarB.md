@@ -4,7 +4,7 @@
 
 > Progressive & Melodic House desde Argentina, by Surface.
 
-50 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/5k8ugTh05xlQzMgqSon7MY)
+50 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/5k8ugTh05xlQzMgqSon7MY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Analog Ghosts \- Original Mix](https://open.spotify.com/track/2mKzqGh8lGQPfFv10eL3jS) | [Matias Chilano](https://open.spotify.com/artist/2LpqyWMwfJfzA0MWYONoLw) | [Red Line](https://open.spotify.com/album/4Fnum52nd6UfjW6fhz8EVr) | 7:30 | 2020-09-04 |  |
 | [Apocalyptic Love](https://open.spotify.com/track/3hThqI5UeSRg5xiLkRn6H6) | [After Burn](https://open.spotify.com/artist/4qxOWkTfAz2n6UHllPAIKX) | [Apocalyptic Love](https://open.spotify.com/album/0cY0qRmL8wmJZ4xWpjF4yP) | 7:32 | 2020-09-04 |  |
 | [Assemble](https://open.spotify.com/track/6eK1oTcuQ8WcFOlHFZGKWG) | [Zagitar](https://open.spotify.com/artist/1sLDL9ECqXb7hLQVsykf8d) | [Assemble EP](https://open.spotify.com/album/73okAAeBYmmguLGfgl8GHb) | 7:10 | 2020-09-04 |  |
-| [Astroboy](https://open.spotify.com/track/7fGA2ygZsqYqXpBoW3TKha) | [Ivan Aliaga](https://open.spotify.com/artist/67UXfHRkdnXZ5rh1Ick7Ay) | [FGIX](https://open.spotify.com/album/5NIWox3JztNgZDNsyu5wZl) | 0:29 | 2020-09-04 |  |
+| [Astroboy](https://open.spotify.com/track/7fGA2ygZsqYqXpBoW3TKha) | [Ivan Aliaga](https://open.spotify.com/artist/67UXfHRkdnXZ5rh1Ick7Ay) | [FGIX](https://open.spotify.com/album/5NIWox3JztNgZDNsyu5wZl) | 7:40 | 2020-09-04 |  |
 | [Bane \- Original Mix](https://open.spotify.com/track/3nBiBY8DNnJNbquQVoL7Q1) | [Mercurio](https://open.spotify.com/artist/4J8apBMaUX5Ofyn2dbbpxG) | [Todo Pasa](https://open.spotify.com/album/6CXmtcXDhZ2LJlQFwhD3m3) | 7:23 | 2020-09-04 |  |
 | [Bells In The City \- Original Mix](https://open.spotify.com/track/1waXr3hfD2ClJweduv16v8) | [Maxi Degrassi](https://open.spotify.com/artist/2MrE6u1IaGHEFGayZkxpGD) | [Bells In The City EP](https://open.spotify.com/album/0wpoF3SrFhEziktsJMvKEO) | 6:33 | 2020-09-04 |  |
 | [Black Eleven](https://open.spotify.com/track/2vIsurdCIhwEUmxJXz6LmU) | [Mariano Montori](https://open.spotify.com/artist/3a6xqDiV8vYORt9BuKwUJt) | [Black Eleven / Unstoppable](https://open.spotify.com/album/4adC8BXuTnR3HNlNSaPaiL) | 8:00 | 2020-09-04 |  |
@@ -44,8 +44,8 @@
 | [Petih](https://open.spotify.com/track/35c5oiMKqvnSUjZ4P5ZM09) | [Carl OS](https://open.spotify.com/artist/5XWqZtLEwd0w2E2QH3gIc1) | [Petih](https://open.spotify.com/album/3GPlVHcRFbHi9DttFg9P6v) | 8:00 | 2020-09-04 |  |
 | [Plexo](https://open.spotify.com/track/1GtBfYQR8FJig0YiYNjedr) | [FunkState](https://open.spotify.com/artist/6V83rdyRMOwknBz8d4UKng) | [Plexo](https://open.spotify.com/album/7e0MJ7cxWWFKAwkzMUui6J) | 7:04 | 2020-09-04 |  |
 | [Reliance \- Original Mix](https://open.spotify.com/track/5N6kCxZHx2gXSvshCBP1K6) | [Eze Ramirez](https://open.spotify.com/artist/3Opa18T1i19my4JhThTWiw) | [My Pleasures](https://open.spotify.com/album/127OqDJSx9zNsu5AnwbPjF) | 7:06 | 2020-09-04 |  |
-| [Rhapsody](https://open.spotify.com/track/0d28O6vqhwrQCYJ6H7dTO5) | [Kevin Di Serna](https://open.spotify.com/artist/6wktCejPtNcStIDD24buEm) | [Rhapsody](https://open.spotify.com/album/3o67s2rF1XBkueTauBJ9jm) | 0:29 | 2020-09-04 |  |
-| [Ritual of Love](https://open.spotify.com/track/7eU7DnmuYgOGdgIHIwDnLL) | [Niceshot](https://open.spotify.com/artist/5lYS0rvjMNATxRrk8Do5DE) | [Seasons \| Winter 2020](https://open.spotify.com/album/368fuamMcpa6Xp3GWCDvPR) | 0:29 | 2020-09-04 |  |
+| [Rhapsody](https://open.spotify.com/track/0d28O6vqhwrQCYJ6H7dTO5) | [Kevin Di Serna](https://open.spotify.com/artist/6wktCejPtNcStIDD24buEm) | [Rhapsody](https://open.spotify.com/album/3o67s2rF1XBkueTauBJ9jm) | 5:24 | 2020-09-04 |  |
+| [Ritual of Love](https://open.spotify.com/track/7eU7DnmuYgOGdgIHIwDnLL) | [Niceshot](https://open.spotify.com/artist/5lYS0rvjMNATxRrk8Do5DE) | [Seasons \| Winter 2020](https://open.spotify.com/album/368fuamMcpa6Xp3GWCDvPR) | 8:18 | 2020-09-04 |  |
 | [Rotator \- Original Mix](https://open.spotify.com/track/7m7EJuQ8tF7TPdh036FwpI) | [Ezequiel Arias](https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ) | [Globular](https://open.spotify.com/album/5qTrZyXSG7VO5KojULMd7Q) | 7:56 | 2020-09-04 |  |
 | [Sand Waves](https://open.spotify.com/track/19cecQlufpLqz369fFxfWv) | [Max & Nim](https://open.spotify.com/artist/2HWIznpGV3NYozQqochmbX) | [Sand Waves](https://open.spotify.com/album/6gAG0C3oSeH81sQWtbZMTn) | 3:06 | 2020-09-04 |  |
 | [Sensitive \(Part II\)](https://open.spotify.com/track/2h1lMvv4Tz8zJ0NhS2Xtjk) | [Paul \(AR\)](https://open.spotify.com/artist/1HlaPjfSvC73YiHc3HH9eO) | [Small Musical Stories](https://open.spotify.com/album/4fYQ3930NKvfCSflAS6dMk) | 8:16 | 2020-09-04 |  |

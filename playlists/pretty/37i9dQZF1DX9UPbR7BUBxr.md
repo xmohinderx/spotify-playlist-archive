@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UPbR7BUBxr.md) - [plain]
 
 > Songs and episodes to help you find that work/pause balance\. Co\-curation: Varun Duggirala
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,160 likes - 68 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,207 likes - 68 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UPbR7BUBxr.md) - [plain]
 | 49 | [In Love](https://open.spotify.com/track/16Pc6ZWQZxwc8wLzF2VZUf) | [Tundra Beats](https://open.spotify.com/artist/5j4yh8KxZ3yfg1cHsD24qD) | [Smile](https://open.spotify.com/album/4mXCEus360pAz7z3uF5dp6) | 2:47 |
 | 50 | [solitude](https://open.spotify.com/track/2UonTNnl58lV6nvxQQ0Ly3) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc) | [magic](https://open.spotify.com/album/1jZz5EeVbLzHfhDLDQmPKZ) | 1:18 |
 | 51 | [Lofi One](https://open.spotify.com/track/2FvHJmr7XOhmNI9Dch2x4R) | [DeLeon Rovon](https://open.spotify.com/artist/5CY40uLhxYpHIWjaMozKNb) | [Beats + Smoothies](https://open.spotify.com/album/7zcmnWx6KOoqYxr0oQ0EJt) | 3:50 |
-| 52 | [Nocturnal](https://open.spotify.com/track/1nVHPEb7S4kVlNygXcJ3tU) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Hermetism](https://open.spotify.com/album/3kHd7wS71L5WVLzkz7O8yU) | 0:29 |
+| 52 | [Nocturnal](https://open.spotify.com/track/1nVHPEb7S4kVlNygXcJ3tU) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Hermetism](https://open.spotify.com/album/3kHd7wS71L5WVLzkz7O8yU) | 5:12 |
 | 53 | [Felted](https://open.spotify.com/track/0pc7pvoTQFPebXtWw35AK2) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [nobuddy](https://open.spotify.com/artist/05Vk6pbfFkjyz9cTEvb45v) | [Felted October](https://open.spotify.com/album/5vIvFrE4zGmZq2Fveo3ar4) | 1:51 |
 | 54 | [Views from Yamashita Park](https://open.spotify.com/track/2jcfdXuo45Jl4RP5gWtUxc) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Views from Yamashita Park / Hatagaya Greenways](https://open.spotify.com/album/4pdN4RfKX8F3r8q2OIbREL) | 1:40 |
 | 55 | [Coasting](https://open.spotify.com/track/7JIRlDcPu3HwNedizSrRoG) | [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu) | [Growing Pains](https://open.spotify.com/album/6d35dyULlXBI0kRPEyKT3Y) | 2:01 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UPbR7BUBxr.md) - [plain]
 | 67 | [Komori Uta](https://open.spotify.com/track/5d0Znm8jnIPkHy54i1OeGu) | [pedrolina.](https://open.spotify.com/artist/2mFdkJcl12IZARwSKYhOjx) | [Bai](https://open.spotify.com/album/0gbH2AB8ATXvDZh9TkOJaB) | 2:27 |
 | 68 | [Peach Sky](https://open.spotify.com/track/553ntYSPcu70QIRXtBjAHD) | [Moodula](https://open.spotify.com/artist/6e76Meb8yRDdpn42QfFeOh) | [Echo Cliff](https://open.spotify.com/album/5iPfYQFToHZYZMQHVZf9el) | 2:04 |
 
-Snapshot ID: `MTY1NjYzOTU1NCwwMDAwMDAwMGY5YjY1N2U3ODcwY2M5ZTM2M2NmNzRiYTU0NGZmZDk1`
+Snapshot ID: `MTY1NjcyNjI1NCwwMDAwMDAwMGY5YjY1N2U3ODcwY2M5ZTM2M2NmNzRiYTU0NGZmZDk1`

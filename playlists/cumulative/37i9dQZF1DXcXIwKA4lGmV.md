@@ -4,7 +4,7 @@
 
 > Songs all about cleaning up.
 
-33 songs - 1 hr 6 min - [published](https://open.spotify.com/playlist/2ReI04f5VoYE7BBtfAWes4)
+33 songs - 1 hr 9 min - [published](https://open.spotify.com/playlist/2ReI04f5VoYE7BBtfAWes4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,9 +22,9 @@
 | [Clean Up Time](https://open.spotify.com/track/7GX2IeEpBtCVDUXqMsKcE5) | [Radha & The Kiwi Kids](https://open.spotify.com/artist/6J9Lq9uvCdflqtZU3Ix2yd) | [Clean Up Time](https://open.spotify.com/album/71tt7461lEJ4Fov8P46pB3) | 3:29 | 2022-04-08 |  |
 | [Clean Up Trash Song](https://open.spotify.com/track/0CUND8t73n7O27uhiKEVWS) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Cocomelon Kids Hits, Vol\. 10](https://open.spotify.com/album/6K7fcWjYUMPRnew4XiXW8D) | 3:00 | 2022-04-08 |  |
 | [Clean up Warning](https://open.spotify.com/track/2ey5dbkgSZVtdX5sJS7B16) | [Anthony Broughton](https://open.spotify.com/artist/7Dkbc3C9t6HSSwZ08CbuIb) | [In the B\-Hive with Mister B: Inspirational & Educational Children's Hip Hop Music](https://open.spotify.com/album/4zReCC2vlgsRaUWbLzkb3R) | 0:37 | 2022-04-08 |  |
-| [Clean Up Your Room](https://open.spotify.com/track/5p3QRQTza7Tu3I2KxEYYeP) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Clean Up Your Room](https://open.spotify.com/album/17CeLbSIgFMMycpcgFtGuX) | 0:29 | 2022-04-08 |  |
+| [Clean Up Your Room](https://open.spotify.com/track/5p3QRQTza7Tu3I2KxEYYeP) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Clean Up Your Room](https://open.spotify.com/album/17CeLbSIgFMMycpcgFtGuX) | 2:11 | 2022-04-08 |  |
 | [Clean Up!](https://open.spotify.com/track/4ei0HMUjDQT7n5UCJbI7PI) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Moose Tube](https://open.spotify.com/artist/1OPaMKFqNqlj4VKjPPMIOa), [Lindsay Ryan](https://open.spotify.com/artist/1KZteRtFzCRWyfRdDKQl6v), [Katrina Jones](https://open.spotify.com/artist/6DjI6iXS7M0EOnq5WvcYLp) | [Clean Up!](https://open.spotify.com/album/5KeNemUAU29lWGFxvE3Zfl) | 1:23 | 2022-04-08 |  |
-| [Clean Up!](https://open.spotify.com/track/5DmFTIXDKISut46X50RJWX) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Classroom Songs](https://open.spotify.com/album/2Nrljq7rYGd2SvyRplYnfA) | 0:29 | 2022-04-08 |  |
+| [Clean Up!](https://open.spotify.com/track/5DmFTIXDKISut46X50RJWX) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Classroom Songs](https://open.spotify.com/album/2Nrljq7rYGd2SvyRplYnfA) | 1:33 | 2022-04-08 |  |
 | [Cleaning Up Is Fun](https://open.spotify.com/track/3FvjTQN8pgwcXRHlywrSET) | [The BeatBuds](https://open.spotify.com/artist/7p1Lnq4QqQko93rJbaerql) | [The BeatBuds, Vol\. 2 \(Remastered\)](https://open.spotify.com/album/5j3GHHRBYeVKht6078KwoL) | 2:17 | 2022-04-08 |  |
 | [Cleanup Song](https://open.spotify.com/track/6MDIYpxszXLSjzXSttR83O) | [Dora The Explorer](https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt) | [We Did It! Dora's Greatest Hits](https://open.spotify.com/album/2PsQyBDm80E6A8fypVFRpE) | 1:08 | 2022-04-08 |  |
 | [Cleanup Time](https://open.spotify.com/track/1WM37alvId4gYIFQKeq2bg) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask The StoryBots: Season 1 \(Music From The Original Series\)](https://open.spotify.com/album/1SKApykupjLWWole4UiXoT) | 1:09 | 2022-04-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbxDw7wBcIC.md) - [plain]
 
 > The birth of the blues, as it happened...
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,776 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,801 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,12 +42,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbxDw7wBcIC.md) - [plain]
 | 32 | [Mean Old Twister \- Remastered](https://open.spotify.com/track/2A110W6j3xAbTDsOXu4uN0) | [Kokomo Arnold](https://open.spotify.com/artist/1kSOv0QaraiHwnDs5ld2kr) | [Beans And Rice](https://open.spotify.com/album/2hz4Wc59RDGTsFQ4P61LsA) | 2:58 |
 | 33 | [Where Did You Sleep Last Night](https://open.spotify.com/track/5vG3tamFBlafnmorXMEsot) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Tradition Masters Series: Lead Belly](https://open.spotify.com/album/2YiY4PkENsQzhJ7d5sISXh) | 3:01 |
 | 34 | [Some Day Baby](https://open.spotify.com/track/12MFtyrU4ZPJqClBcjYFIA) | [Lonnie Johnson](https://open.spotify.com/artist/74g0xdNndEjFzMKSRFUMNM) | [Lonnie Johnson Vol\. 3 \(1944\-1947\)](https://open.spotify.com/album/1QsQCR85oK7iTlBkeFXE6E) | 3:08 |
-| 35 | [Milkcow's Calf Blues \- Version 2](https://open.spotify.com/track/3QxCNZv6qhFd9vL3wrfSp8) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [Robert Johnson](https://open.spotify.com/album/65ZlWphuVYtW1HtWqUXCl1) | 0:29 |
+| 35 | [Milkcow's Calf Blues \- Version 2](https://open.spotify.com/track/3QxCNZv6qhFd9vL3wrfSp8) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [Robert Johnson](https://open.spotify.com/album/65ZlWphuVYtW1HtWqUXCl1) | 2:19 |
 | 36 | [It Hurts Me Too](https://open.spotify.com/track/0m4cEL8cwcRwqdQIDzgzUt) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [The Very Best of Elmore James](https://open.spotify.com/album/0RZFOxY3XpAZiEeTLh1o4g) | 3:19 |
-| 37 | [Cross Road Blues](https://open.spotify.com/track/1TrGdXSgiBm8W68D2K1COG) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 0:29 |
+| 37 | [Cross Road Blues](https://open.spotify.com/track/1TrGdXSgiBm8W68D2K1COG) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 2:29 |
 | 38 | [Hard Time Killin' Floor Blues](https://open.spotify.com/track/77xNKAq581eD62ipzK81yc) | [Skip James](https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ) | [Skip James 1931](https://open.spotify.com/album/2MG7zkZAjRN58gncuqAvpl) | 2:50 |
 | 39 | [Down The Dirt Road Blues](https://open.spotify.com/track/4sCCIP8eG3HVizWnm1SQ0G) | [Charley Patton](https://open.spotify.com/artist/7aExFIr0IHWO5aFjMrGwKw) | [Charley Patton Vol\. 1 \(1929\)](https://open.spotify.com/album/0fWV8D1byaFWLivZSRqf8v) | 2:54 |
-| 40 | [Canned Heat Blues](https://open.spotify.com/track/1Uk2MppskA0wnHUj8JwYfC) | [Tommy Johnson](https://open.spotify.com/artist/6n4r5eMU2ZUiHPPWhFDcHq) | [Tommy Johnson 1928 \- 1929](https://open.spotify.com/album/1BrjO0ZJTNZliuhAi9Orf7) | 0:29 |
+| 40 | [Canned Heat Blues](https://open.spotify.com/track/1Uk2MppskA0wnHUj8JwYfC) | [Tommy Johnson](https://open.spotify.com/artist/6n4r5eMU2ZUiHPPWhFDcHq) | [Tommy Johnson 1928 \- 1929](https://open.spotify.com/album/1BrjO0ZJTNZliuhAi9Orf7) | 3:39 |
 | 41 | [When the Levee Breaks](https://open.spotify.com/track/70MpR0jSVh7s01JSmRt8Mu) | [Kansas Joe McCoy & Memphis Minnie](https://open.spotify.com/artist/1QZUvdEu3lVvtFALqy5BXe) | [When the Levee Breaks \- Greatest Blues Masters](https://open.spotify.com/album/1AaewEHO7A87PJH3ykSHWY) | 3:10 |
 | 42 | [Good Morning Little Schoolgirl](https://open.spotify.com/track/7iILVc0DSgB37UYqxrbfRO) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [Good Morning Little School Girl](https://open.spotify.com/album/0ZLpHSm1AdcbL88zn1n1ki) | 3:21 |
 | 43 | [Match Box Blues](https://open.spotify.com/track/1Fae2EbIMVEu14Qmb3fg41) | [Blind Lemon Jefferson](https://open.spotify.com/artist/6EsuMifB8c5rm5P2DdjiLe) | [Essential Blind Lemon Jefferson, Vol\. 2](https://open.spotify.com/album/1sgSyKEC1dpHu02oOWx5YO) | 2:55 |

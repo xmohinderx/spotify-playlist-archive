@@ -4,7 +4,7 @@
 
 > 80's Edition!  D\-Nice's essential jams for any party at home!
 
-69 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/50QR79j8k5LtNRr6rof7wE)
+69 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/50QR79j8k5LtNRr6rof7wE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Back To Life](https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf), [Caron Wheeler](https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY) | [Keep On Movin'](https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni) | 3:48 | 2020-04-13 |  |
 | [Bang Zoom \(Let's Go\-Go\)](https://open.spotify.com/track/2AGmw3ewDomsRH8soSFpbS) | [The Real Roxanne](https://open.spotify.com/artist/0tWFCFuGxmuWwPL8PUHCU5) | [The Real Roxanne](https://open.spotify.com/album/1GaU037lWFDr9qu19zDuIk) | 5:57 | 2020-04-13 |  |
 | [Behind The Groove](https://open.spotify.com/track/6nXCHvql32RBADi95fvHo9) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Lady T \(Expanded Edition 15 Track Version\)](https://open.spotify.com/album/4U0XSBp2dWNCD0aFl7oLTz) | 6:05 | 2020-04-13 |  |
-| [Black Betty](https://open.spotify.com/track/2ZOTtG7v1OrSNs6EINIGb4) | [Ram Jam](https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz) | [The Very Best Of Ram Jam](https://open.spotify.com/album/6s1bwzTzWK3u9I4YPjp3lr) | 0:29 | 2020-04-13 |  |
+| [Black Betty](https://open.spotify.com/track/2ZOTtG7v1OrSNs6EINIGb4) | [Ram Jam](https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz) | [The Very Best Of Ram Jam](https://open.spotify.com/album/6s1bwzTzWK3u9I4YPjp3lr) | 3:57 | 2020-04-13 |  |
 | [Bounce, Rock, Skate, Roll](https://open.spotify.com/track/2zt545oVs5FxS39b5NB5we) | [Vaughan Mason and Crew](https://open.spotify.com/artist/5MBBgzM082fkQbg75YyKBO) | [Roll Bounce Soundtrack](https://open.spotify.com/album/3FTg8lRnHz4OqHk2Yj7dHl) | 5:29 | 2020-04-13 |  |
 | [Break My Stride](https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT) | [Matthew Wilder](https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP) | [I Don't Speak The Language](https://open.spotify.com/album/2coqGqbnSCAy740mClWesA) | 3:04 | 2020-04-13 |  |
 | [Broken Wings](https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm) | [Mr\. Mister](https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ) | [Welcome To The Real World](https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl) | 5:43 | 2020-04-13 |  |
@@ -33,7 +33,7 @@
 | [Der Kommissar](https://open.spotify.com/track/0ROtxObpdDA25o5DriPSOk) | [After The Fire](https://open.spotify.com/artist/194g4SFwSSzyPtgkH7v3Cx) | [Radio Hits Of the '80s](https://open.spotify.com/album/4OhFkx7dTPfj0BXerfldyk) | 5:37 | 2020-04-13 |  |
 | [Din daa daa \- Original Version 1983](https://open.spotify.com/track/6IibbxjQER0Y1yKtS7wiQV) | [George Kranz](https://open.spotify.com/artist/0XLhfP0Nt0IYLLKqfWjnbb) | [Din daa daa](https://open.spotify.com/album/77drDlevpf61Fli55FKDal) | 4:11 | 2020-04-13 |  |
 | [Doctor Love](https://open.spotify.com/track/6G8s19BainATJIjqIwXcre) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4) | [12" Master Series Vol\. 1](https://open.spotify.com/album/2Q0k4pZ92k6xI2tQbb4zqk) | 8:20 | 2020-04-13 |  |
-| [Don't Wanna Fall in Love](https://open.spotify.com/track/6eozUVzr02EXMji1vuxgiP) | [Jane Child](https://open.spotify.com/artist/5JBif5ahOKFFVuEpHhrp8Y) | [Jane Child](https://open.spotify.com/album/7lctp9rkvSczgxQ7OGKQaO) | 0:29 | 2020-04-13 |  |
+| [Don't Wanna Fall in Love](https://open.spotify.com/track/6eozUVzr02EXMji1vuxgiP) | [Jane Child](https://open.spotify.com/artist/5JBif5ahOKFFVuEpHhrp8Y) | [Jane Child](https://open.spotify.com/album/7lctp9rkvSczgxQ7OGKQaO) | 4:07 | 2020-04-13 |  |
 | [Don't Waste Your Time](https://open.spotify.com/track/6HCAvDSaFft5KL0ozPFgLs) | [Yarbrough & Peoples](https://open.spotify.com/artist/0rJcrQfLLtWSJAKbZPk6NV) | [Be a Winner](https://open.spotify.com/album/473YExvg2r8Y82kiAFolOc) | 7:29 | 2020-04-13 |  |
 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Once Upon A Time \(Super Deluxe\)](https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm) | 4:23 | 2020-04-13 |  |
 | [Don't You Want Me](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 3:56 | 2020-04-13 |  |
@@ -44,7 +44,7 @@
 | [Eye of the Tiger](https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:05 | 2020-04-13 |  |
 | [Fake](https://open.spotify.com/track/3wN45r0Lz73AQcuvY2pdVe) | [Alexander O'Neal](https://open.spotify.com/artist/047D9GgqEzyMoULd2oKr7G) | [Hearsay](https://open.spotify.com/album/5K4obZM7WvlNQ5B9CJ6KgA) | 3:55 | 2020-04-13 |  |
 | [Forget Me Nots](https://open.spotify.com/track/7vuSGejUXpD365Nl9tyehq) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight From The Heart](https://open.spotify.com/album/73TPk27H5MBU6flqQ1lr09) | 4:35 | 2020-04-13 |  |
-| [Found a Cure](https://open.spotify.com/track/1gND1zOlYtYgXdhRmpIOGJ) | [Ashford & Simpson](https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi), [James Simpson](https://open.spotify.com/artist/2iphCH37GnHODxVanwu4Wf) | [Stay Free](https://open.spotify.com/album/0deJgBEQc6s9ljcW2My2uV) | 0:29 | 2020-04-13 |  |
+| [Found a Cure](https://open.spotify.com/track/1gND1zOlYtYgXdhRmpIOGJ) | [Ashford & Simpson](https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi), [James Simpson](https://open.spotify.com/artist/2iphCH37GnHODxVanwu4Wf) | [Stay Free](https://open.spotify.com/album/0deJgBEQc6s9ljcW2My2uV) | 7:01 | 2020-04-13 |  |
 | [Freaks Come Out at Night](https://open.spotify.com/track/1JKJZLqLUh0vlemaD3IfLe) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [Escape \(Expanded Edition\)](https://open.spotify.com/album/0wXylkn9taeEjiiac1S2zU) | 4:44 | 2020-04-13 |  |
 | [Funky Sensation](https://open.spotify.com/track/3SHKFKCccGc2gZkI7G1hMZ) | [Gwen McCrae](https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU) | [Funky Sensation \(MAW Mix\)](https://open.spotify.com/album/3xur0MAndcfC6MxQUa9o60) | 6:38 | 2020-04-13 |  |
 | [Games People Play](https://open.spotify.com/track/7I5addssslGqt9rMJOypC9) | [Sweet G](https://open.spotify.com/artist/7wUlpdzzHI3cDIf1Rl4Bzk) | [Games People Play](https://open.spotify.com/album/6UQsMJRwGRVbKYGxIml8Ea) | 5:49 | 2020-04-13 |  |
@@ -72,7 +72,7 @@
 | [My Philosophy](https://open.spotify.com/track/2P8KBF5BtraQiGpxDXrCnF) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [By All Means Necessary \(Expanded Edition\)](https://open.spotify.com/album/1ucCcn3bSPePeI67kUapwB) | 5:40 | 2020-04-13 |  |
 | [Rock The Bells](https://open.spotify.com/track/4F4neui0edP1ozygvFiCi7) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Radio](https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a) | 4:00 | 2020-04-13 |  |
 | [Steppin' Out](https://open.spotify.com/track/2KY0QUeRY3IPuJI1gyU9BJ) | [Joe Jackson](https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT) | [Night And Day](https://open.spotify.com/album/01sMJCr0xosXP8uZ2djLvd) | 4:28 | 2020-04-13 |  |
-| [Sucker M.C.'s \(Krush\-Groove 1\)](https://open.spotify.com/track/3hx5R8nOKu5zvhlfDNSIQC) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [RUN\-DMC \(Expanded Edition\)](https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8) | 0:29 | 2020-04-13 |  |
+| [Sucker M.C.'s \(Krush\-Groove 1\)](https://open.spotify.com/track/3hx5R8nOKu5zvhlfDNSIQC) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [RUN\-DMC \(Expanded Edition\)](https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8) | 3:09 | 2020-04-13 |  |
 | [The Breaks](https://open.spotify.com/track/5TvcggVu3s2P1fMAS8BupX) | [Kurtis Blow](https://open.spotify.com/artist/25TKXk9zo9yk0HMJQ3TuE9) | [Kurtis Blow](https://open.spotify.com/album/1ZcUKK3nnmuYVGEUBxXSXt) | 7:43 | 2020-04-13 |  |
 | [The Glamorous Life](https://open.spotify.com/track/179SfVFJ0ZN41toTxnpgRD) | [Sheila E.](https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P) | [The Glamorous Life](https://open.spotify.com/album/2fv3CMkuVgYRtQVnhv1rQW) | 9:03 | 2020-04-13 |  |
 | [The Glow of Love](https://open.spotify.com/track/2tpRtiVvuI4WnwpPYwk9Z6) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE) | [The Glow Of Love](https://open.spotify.com/album/2rzk6jm1tR1ZSAU5IVvyFP) | 6:14 | 2020-04-13 |  |

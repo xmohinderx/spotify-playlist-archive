@@ -4,14 +4,14 @@
 
 > A collection of songs from <a href="spotify:user:nytrvduf711vc7ja3kv9vwgnm">Tony Hawk's Pro Skater 1 + 2</a>.
 
-53 songs - 2 hr 27 min - [published](https://open.spotify.com/playlist/3gnvN3gU2eit5kuCl7Hk1j)
+53 songs - 2 hr 38 min - [published](https://open.spotify.com/playlist/3gnvN3gU2eit5kuCl7Hk1j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Afraid of Heights](https://open.spotify.com/track/0P44AUPRzaIAHNWquN0fGR) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Afraid of Heights](https://open.spotify.com/album/6frG0tN5DQbV26LFKbjYTu) | 3:45 | 2020-07-28 |  |
 | [All My Friends Are Nobodies](https://open.spotify.com/track/0ImdOZzfzWSIkB4ToC2buF) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [All My Friends Are Nobodies](https://open.spotify.com/album/6VTNdekziQXzcf4gvy9hcM) | 3:03 | 2020-07-28 |  |
 | [All Souls' Day](https://open.spotify.com/track/38EE7D3CKR9vlagRqGlAT2) | [The Ataris](https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi) | [All Souls' Day & The Graveyard of the Atlantic](https://open.spotify.com/album/3uihiMv004O19TfHqKm8xM) | 4:58 | 2020-07-28 |  |
-| [Bass](https://open.spotify.com/track/22ws6uOt1pfpG1fP8I0QGo) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Hopsin](https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [Bass](https://open.spotify.com/album/1b2mpMMbxX80y87DKi6xwn) | 0:29 | 2020-07-28 |  |
+| [Bass](https://open.spotify.com/track/22ws6uOt1pfpG1fP8I0QGo) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Hopsin](https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [Bass](https://open.spotify.com/album/1b2mpMMbxX80y87DKi6xwn) | 3:53 | 2020-07-28 |  |
 | [Blood Brothers](https://open.spotify.com/track/2Ll44WxlG2eiqL6NtEnf8M) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Infest](https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m) | 3:33 | 2020-05-15 |  |
 | [bloody valentine](https://open.spotify.com/track/1bWEngw5tAF7vWByrf5Oy5) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [bloody valentine](https://open.spotify.com/album/268JRqKvCGhDrbqH74sDFz) | 3:25 | 2020-07-28 |  |
 | [Bomb Drop](https://open.spotify.com/track/1MAnAUtRTzqnviymxYHTAg) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Sound the Alarm](https://open.spotify.com/album/64ygJgQjUX8peOKPjGm8AX) | 3:06 | 2020-07-28 |  |
@@ -20,7 +20,7 @@
 | [Connect To Consume](https://open.spotify.com/track/5GybndUlmvM1wzM6liWsdp) | [A\. Swayze & The Ghosts](https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd) | [Connect To Consume](https://open.spotify.com/album/595dcTaOC9sXOIfbutmwGr) | 3:14 | 2020-07-28 |  |
 | [Cyclone](https://open.spotify.com/track/2qQieiApQ1TkvkZGLkbCH0) | [Dub Pistols](https://open.spotify.com/artist/4LYX3rRdXV2l99wR5YPFoK) | [Point Blank](https://open.spotify.com/album/4IMpWiEUoJKedGQ21Nmmq4) | 3:34 | 2020-05-15 |  |
 | [Cyco Vision](https://open.spotify.com/track/3I9K8tSZRsAw7bRYfbhJEA) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [Freedumb](https://open.spotify.com/album/272uyFl2Z35T3MPtHTg92C) | 1:49 | 2020-07-30 |  |
-| [Deathwire](https://open.spotify.com/track/68XsbWfxcvmlAVukxPVy9d) | [Rough Francis](https://open.spotify.com/artist/60uXjIudDRbL8LIWwYk2sQ) | [Deathwire](https://open.spotify.com/album/3MYhb46f5Vusrzt58E6uot) | 0:29 | 2020-07-28 |  |
+| [Deathwire](https://open.spotify.com/track/68XsbWfxcvmlAVukxPVy9d) | [Rough Francis](https://open.spotify.com/artist/60uXjIudDRbL8LIWwYk2sQ) | [Deathwire](https://open.spotify.com/album/3MYhb46f5Vusrzt58E6uot) | 3:09 | 2020-07-28 |  |
 | [Duck Eat Duck World](https://open.spotify.com/track/0VuJkzId5KlafuZTN38P4B) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Make Room](https://open.spotify.com/album/7aTumdbpn2n1AG6CjCqvnR) | 2:10 | 2020-07-28 |  |
 | [Euro\-Barge](https://open.spotify.com/track/5mA9emcAvirVisUHkrE5PU) | [The Vandals](https://open.spotify.com/artist/4AqIRTZF6DDmKmdorgFug6) | [Hitler Bad, Vandals Good](https://open.spotify.com/album/1VDzkX1kHYOhlnHWQjqy05) | 1:53 | 2020-05-15 |  |
 | [Evil Eye](https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI) | [Fu Manchu](https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k) | [The Action Is Go](https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9) | 3:30 | 2020-05-15 |  |
@@ -49,7 +49,7 @@
 | [Run It up Pt\. II](https://open.spotify.com/track/16oNPQ2sVbzZyAscp4SFHD) | [Spilt Milk](https://open.spotify.com/artist/5a4YbQRezrArmu3VxdMGao) | [Run It up Pt\. II](https://open.spotify.com/album/723LwYSgRF5wC9niD819eF) | 2:34 | 2020-07-28 |  |
 | [Same In The End](https://open.spotify.com/track/4B6dMwXS6q8pw1HBWV8Cc8) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/4R3tXoorBpHji6Jdms8a4Q) | 2:36 | 2020-07-28 |  |
 | [Sedona](https://open.spotify.com/track/3oQMwKCFTi3wKi9VANfTbE) | [JunkBunny](https://open.spotify.com/artist/2UdPcvUuTpvrq7flh94PaE) | [Junk Rock](https://open.spotify.com/album/1uxlk6rLTGtccpbOyv6h6J) | 3:09 | 2020-07-28 |  |
-| [She's Famous Now](https://open.spotify.com/track/3acefyyfBIV0ed0n4WAJea) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Why Do They Rock So Hard](https://open.spotify.com/album/77ONgv2XviPXVVQo7kFfmA) | 0:29 | 2020-07-28 |  |
+| [She's Famous Now](https://open.spotify.com/track/3acefyyfBIV0ed0n4WAJea) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Why Do They Rock So Hard](https://open.spotify.com/album/77ONgv2XviPXVVQo7kFfmA) | 3:05 | 2020-07-28 |  |
 | [Shutdown](https://open.spotify.com/track/22okfZRLfP6hxuplYUGef6) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Shutdown](https://open.spotify.com/album/0xCAtTLLKHVXXRG3QszG7Y) | 3:08 | 2020-07-28 |  |
 | [Slow Learner](https://open.spotify.com/track/3anIPGbdjxjkbwtHoBG4W4) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Street Worms](https://open.spotify.com/album/7GCnSXQc6H4vF8TU7hSdSk) | 3:11 | 2020-07-28 |  |
 | [South](https://open.spotify.com/track/4P4oazg6dLImZsqNAb9JlZ) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [South](https://open.spotify.com/album/5b3B3DiNKPnuESmFv2o72m) | 2:09 | 2020-07-28 |  |
@@ -59,7 +59,7 @@
 | [The Struggle](https://open.spotify.com/track/7kBP4kOVgeAv7NWcpowA4y) | [Black Prez](https://open.spotify.com/artist/3kGJGwSmyImKKigpSkKnTz), [KID SOMETHING](https://open.spotify.com/artist/0ZUzov4ewXiJRz0uO2DiLO) | [The Struggle](https://open.spotify.com/album/67HP7rGmoX7rZGAFEC41Uc) | 3:31 | 2020-08-13 |  |
 | [Vilified](https://open.spotify.com/track/1zlxmKxBTo0vZebDNl3WWs) | [Even Rude](https://open.spotify.com/artist/5b6NZkhncbICzEVWlQVzqq) | [Superabsorbent](https://open.spotify.com/album/1bPRVSF2bCP7Tpakdp7u2T) | 3:30 | 2020-06-08 |  |
 | [West Coast](https://open.spotify.com/track/41hKOXSa1WMSpdQgsgK0fc) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Too](https://open.spotify.com/album/0qI8J5xjJcdBG52FASB3RC) | 3:22 | 2020-07-28 |  |
-| [When Worlds Collide](https://open.spotify.com/track/6aF5JtQSrh7wNrkDE9B0My) | [Powerman 5000](https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC) | [Tonight The Stars Revolt](https://open.spotify.com/album/3Z3yndLeHs01iYPSNzTBBk) | 0:29 | 2020-05-15 |  |
+| [When Worlds Collide](https://open.spotify.com/track/6aF5JtQSrh7wNrkDE9B0My) | [Powerman 5000](https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC) | [Tonight The Stars Revolt](https://open.spotify.com/album/3Z3yndLeHs01iYPSNzTBBk) | 2:57 | 2020-05-15 |  |
 | [You](https://open.spotify.com/track/71dRBSmaKMdaFZPeZlVzf5) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [No Control](https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle) | 2:06 | 2020-05-15 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

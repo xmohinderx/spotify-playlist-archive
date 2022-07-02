@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 197913,
       "name": "Caf\u00e9 com Leite",
       "url": "https://open.spotify.com/track/7gy7BFORtrb1FNdE2nV6BX"
@@ -510,7 +510,7 @@
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 273239,
       "name": "Espectro do Tempo",
       "url": "https://open.spotify.com/track/2ro19IYp4o8PIhNmpZzSxO"
     },
@@ -546,7 +546,7 @@
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 184687,
       "name": "Eu N\u00e3o Aceito",
       "url": "https://open.spotify.com/track/0QvNN1G5Vi7DFpLo0TZNoD"
     },
@@ -1486,6 +1486,24 @@
     },
     {
       "album": {
+        "name": "UM",
+        "url": "https://open.spotify.com/album/4BrdjlUCGMUkAqbSVVH7N0"
+      },
+      "artists": [
+        {
+          "name": "Luna Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/1xwQvoELtGoQL2HVGnd9fK"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223146,
+      "name": "Pra Voc\u00ea",
+      "url": "https://open.spotify.com/track/7liHoUtzVaTmU9jbsUlEzf"
+    },
+    {
+      "album": {
         "name": "Preta",
         "url": "https://open.spotify.com/album/6YLuaPop02e4JQc586GnJj"
       },
@@ -1774,7 +1792,7 @@
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 148695,
       "name": "Sem No\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/7gKmkQ6duGD1k32MW9TgeA"
     },

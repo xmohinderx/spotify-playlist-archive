@@ -4,12 +4,12 @@
 
 > Hymns and anthems of artists stepping  into the culture at large! Speak truth\. Cover; Joshua Luke Smith
 
-49 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/5zoHWtnr63H3IOL754pMXc)
+49 songs - 2 hr 59 min - [published](https://open.spotify.com/playlist/5zoHWtnr63H3IOL754pMXc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10K](https://open.spotify.com/track/5G2g7titQVbMK8jjRPWWr6) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [10K](https://open.spotify.com/album/5rwY84Tz6gnlCAdz1fdVwr) | 3:16 | 2020-06-17 |  |
-| [Backseat](https://open.spotify.com/track/6wDJfepTbKTD77PWL4lato) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Backseat](https://open.spotify.com/album/0p7IKV2hLRD82kyXv9js0v) | 0:29 | 2020-06-17 |  |
+| [Backseat](https://open.spotify.com/track/6wDJfepTbKTD77PWL4lato) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Backseat](https://open.spotify.com/album/0p7IKV2hLRD82kyXv9js0v) | 3:31 | 2020-06-17 |  |
 | [Blinded By Your Grace, Pt\. 2 \(feat\. MNEK\)](https://open.spotify.com/track/0ihguwGVwKihJ1Nj8fGQlY) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Gang Signs & Prayer](https://open.spotify.com/album/5fkFWJ9LZizXE4yPenNGuy) | 3:50 | 2020-06-17 |  |
 | [Body In Motion](https://open.spotify.com/track/7srkcblVXjo60Clqk9lywq) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek), [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [Mercury & Lightning](https://open.spotify.com/album/2X5598poSfDQ3B0YRytfgf) | 3:41 | 2020-06-17 |  |
 | [Bury Me](https://open.spotify.com/track/4QDiWSoFqt8u2WZRA5CSU8) | [George Glew](https://open.spotify.com/artist/3841DHBEOAE2ksodVZkV7U) | [Bury Me](https://open.spotify.com/album/6OTdYz0uSfO86gJHpSlXKL) | 3:45 | 2020-06-17 |  |
@@ -41,7 +41,7 @@
 | [Pack a Bag](https://open.spotify.com/track/1eyfRgScLbmcFiLHaTUx3G) | [S.O.C.O.M.](https://open.spotify.com/artist/2xy8Q3ffCr9OxUijmGDx3Z) | [Pack a Bag](https://open.spotify.com/album/3eIH5pdEQqWX9Gm8PVPmwV) | 3:04 | 2020-06-17 |  |
 | [Quarantino](https://open.spotify.com/track/3LKmwpIWHicHZbVKEz1usZ) | [DaShawn Shauntá](https://open.spotify.com/artist/5c0sCqEmXd6T0uWWcAyis9) | [Quarantino](https://open.spotify.com/album/4B63Fl7bus1DEph97L9uQu) | 2:40 | 2020-06-17 |  |
 | [Redefine Cutter](https://open.spotify.com/track/7q8Nn4dqU6bemMxyllbCrh) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [Lee Green](https://open.spotify.com/artist/3uEPcUqKdsFhjuzngfXIK1) | [Excellent](https://open.spotify.com/album/5Fxipt4BbFuEqQhOhv4wUX) | 3:28 | 2020-06-17 |  |
-| [Redemption](https://open.spotify.com/track/3uaE3Y0rY09kDJxGDlpNFy) | [King Chav](https://open.spotify.com/artist/1e5ZIHiMERAHN9fsK3sdGt), [Kham](https://open.spotify.com/artist/5G8KfxzfIdxP6dnA3Hl1De), [DJ Mykael V](https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt) | [Redemption](https://open.spotify.com/album/0wuWP88YfJ4s5PEZ8PyevM) | 0:29 | 2020-06-17 |  |
+| [Redemption](https://open.spotify.com/track/3uaE3Y0rY09kDJxGDlpNFy) | [King Chav](https://open.spotify.com/artist/1e5ZIHiMERAHN9fsK3sdGt), [Kham](https://open.spotify.com/artist/5G8KfxzfIdxP6dnA3Hl1De), [DJ Mykael V](https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt) | [Redemption](https://open.spotify.com/album/0wuWP88YfJ4s5PEZ8PyevM) | 2:56 | 2020-06-17 |  |
 | [River](https://open.spotify.com/track/0NeJjNlprGfZpeX2LQuN6c) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home](https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg) | 3:58 | 2020-06-17 |  |
 | [Same Drugs](https://open.spotify.com/track/6m9qPYXmhge2QhBLfFKnVF) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 4:17 | 2020-06-17 |  |
 | [Shed a Little Light](https://open.spotify.com/track/6fO7SWzkzIQCYhyIB8FH42) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Hope](https://open.spotify.com/album/0Vy0pKZuZGoNDtiXfEg1YD) | 3:31 | 2020-06-17 |  |

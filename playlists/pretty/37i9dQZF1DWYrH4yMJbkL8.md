@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators in Canada\. Currently curated by Susan Aglukark
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,325 likes - 25 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,340 likes - 25 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 5 | [Be Set Free](https://open.spotify.com/track/5NHF3ad1JVbBiCQ0Vx9Ulf) | [Susan Aglukark](https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C) | [The Crossing](https://open.spotify.com/album/3BfHBDbLtxtsBbkccQ4QnV) | 5:07 |
 | 6 | [Heart of the People](https://open.spotify.com/track/7AUnMhRUEabLvFiOt8xTfz) | [Leela Gilday](https://open.spotify.com/artist/0nSstpr48Xb3fVs5AZHOLN) | [Heart of the People](https://open.spotify.com/album/2XtigHY7mljmjRSpGUgcew) | 4:53 |
 | 7 | [Apu Peikussian](https://open.spotify.com/track/7sJAGuzZB5uFiatKPJDXzF) | [Florent Vollant](https://open.spotify.com/artist/46yst9cUnaE2cftTAxwFSp) | [Puamuna](https://open.spotify.com/album/3gEGWP7BwI5seQ9o2auz8n) | 3:24 |
-| 8 | [O Siem](https://open.spotify.com/track/2ouMDSbiSvFZqeAUr4mmVg) | [Susan Aglukark](https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C) | [White Sahara](https://open.spotify.com/album/6qnBJUlyjtoJO8yAQ3fSxP) | 0:29 |
+| 8 | [O Siem](https://open.spotify.com/track/2ouMDSbiSvFZqeAUr4mmVg) | [Susan Aglukark](https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C) | [White Sahara](https://open.spotify.com/album/6qnBJUlyjtoJO8yAQ3fSxP) | 4:17 |
 | 9 | [Snowblind](https://open.spotify.com/track/4F6C1k9TfEEzCo86m4K1Bu) | [Tanya Tagaq](https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY) | [Snowblind](https://open.spotify.com/album/3EX2pi3FS9thuxBfv9s6C3) | 3:50 |
 | 10 | [Sakomawit](https://open.spotify.com/track/1f3HgAuHPyGx1ZwL9RTRAZ) | [Jeremy Dutcher](https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f) | [Wolastoqiyik Lintuwakonawa](https://open.spotify.com/album/568Hw1PX6K12BdqyFSBj1E) | 3:32 |
 | 11 | [SKODEN](https://open.spotify.com/track/3ssxyKEYJgkZxPjrmniL5w) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [SKODEN](https://open.spotify.com/album/4bQcsJ1UJGeyg1PPjA3I3i) | 3:33 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 24 | [Come and Get Your Love \- Single Version](https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD) | [Redbone](https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF) | [Come and Get Your Love](https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu) | 3:25 |
 | 25 | [Red Brother Red Sister](https://open.spotify.com/track/0kyK2LNhahUA5wGj2muvci) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [In The Falling Dark](https://open.spotify.com/album/60VKXUmkuvPBIbahpkgqMD) | 4:16 |
 
-Snapshot ID: `MTY1NjYzODQ1NSwwMDAwMDAwMDU0N2QzY2UwOGNhZTJhMDk1YTdlZmM1ZjQ2OGE3YWRk`
+Snapshot ID: `MTY1NjcyNDc2NiwwMDAwMDAwMDU0N2QzY2UwOGNhZTJhMDk1YTdlZmM1ZjQ2OGE3YWRk`

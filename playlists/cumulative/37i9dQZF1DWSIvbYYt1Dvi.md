@@ -2,7 +2,7 @@
 
 ### [AULAS](https://open.spotify.com/playlist/37i9dQZF1DWSIvbYYt1Dvi)
 
-> black alien é AULAS
+> bin e rd é AULAS
 
 97 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/2GpYMlHQWhJaqR9gXTSMkt)
 

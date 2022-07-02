@@ -1,6 +1,6 @@
 {
   "description": "Music from the gaming series \"Yakuza: Like a Dragon\" -\u300c\u9f8d\u304c\u5982\u304f7\u3000\u5149\u3068\u95c7\u306e\u884c\u65b9\u300d\u767a\u58f2\u8a18\u5ff5\uff01\u30b7\u30ea\u30fc\u30ba\u6b74\u4ee3\u30c6\u30fc\u30de\u30bd\u30f3\u30b0\u3001\u30b5\u30f3\u30c8\u30e9\u697d\u66f2\u3092\u7db2\u7f85\u3057\u305f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u767b\u5834",
-  "num_followers": 31350,
+  "num_followers": 31363,
   "original_name": "\u9f8d\u304c\u5982\u304f -Yakuza: Like a Dragon-",
   "owner": {
     "name": "Spotify",
@@ -196,8 +196,8 @@
           "url": "https://open.spotify.com/artist/57wo2Em3UktCMqpCRK5pFv"
         },
         {
-          "name": "\u7f8e\u7dd2(Castledoor)",
-          "url": "https://open.spotify.com/artist/1YsDRZzmb3Gva9njaZHRfP"
+          "name": "\u7f8e\u7dd2",
+          "url": "https://open.spotify.com/artist/59OrirVzqqGU63UES7pKde"
         }
       ],
       "duration_ms": 156966,
@@ -376,7 +376,7 @@
           "url": "https://open.spotify.com/artist/4fEkryoARm02INZe34De3q"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 282186,
       "name": "Moment de la Petite Sirene -\u5239\u90a3\u306e\u4eba\u9b5a\u59eb- - Full Spec Edition",
       "url": "https://open.spotify.com/track/09kXFMLhz3AAb1lYfBweU0"
     },
@@ -456,12 +456,16 @@
       },
       "artists": [
         {
-          "name": "T-SET(\u767d\u77f3\u6dbc\u5b50/\u91ce\u4e2d\u85cd)",
-          "url": "https://open.spotify.com/artist/4TArKg9IZBonRDoRyw7HPn"
-        },
-        {
           "name": "T-SET",
           "url": "https://open.spotify.com/artist/0VDcUeLgTQwXIa5UTuO5L0"
+        },
+        {
+          "name": "\u767d\u77f3\u6dbc\u5b50",
+          "url": "https://open.spotify.com/artist/4cVDNLxCf9lBMs8YTLkrPl"
+        },
+        {
+          "name": "\u91ce\u4e2d\u85cd",
+          "url": "https://open.spotify.com/artist/4bfRjWX4KyVcO8AMcbnctq"
         }
       ],
       "duration_ms": 267786,
@@ -485,7 +489,7 @@
         }
       ],
       "duration_ms": 275251,
-      "name": "\u5239\u90a3\u306e\u4eba\u9b5a\u59eb\u301cHeart break mermaid\u301c - Full Spec Edition",
+      "name": "\u5239\u90a3\u306e\u4eba\u9b5a\u59eb~Heart break mermaid~ - Full Spec Edition",
       "url": "https://open.spotify.com/track/7519s7yaJNhvRV1QcVFfcn"
     },
     {
@@ -632,12 +636,16 @@
       },
       "artists": [
         {
-          "name": "T-SET(\u767d\u77f3\u6dbc\u5b50/\u91ce\u4e2d\u85cd)",
-          "url": "https://open.spotify.com/artist/4TArKg9IZBonRDoRyw7HPn"
-        },
-        {
           "name": "T-SET",
           "url": "https://open.spotify.com/artist/0VDcUeLgTQwXIa5UTuO5L0"
+        },
+        {
+          "name": "\u767d\u77f3\u6dbc\u5b50",
+          "url": "https://open.spotify.com/artist/4cVDNLxCf9lBMs8YTLkrPl"
+        },
+        {
+          "name": "\u91ce\u4e2d\u85cd",
+          "url": "https://open.spotify.com/artist/4bfRjWX4KyVcO8AMcbnctq"
         }
       ],
       "duration_ms": 214045,
@@ -788,7 +796,7 @@
           "url": "https://open.spotify.com/artist/0Vj7kpS0MofQRxTy1Getdn"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 232188,
       "name": "\u610f\u5730\u685c2000 - Full Spec Edition",
       "url": "https://open.spotify.com/track/6izSFKc1KYwqzeCW5ICsUk"
     },

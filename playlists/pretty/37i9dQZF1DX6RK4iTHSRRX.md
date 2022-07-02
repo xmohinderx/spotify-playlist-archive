@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RK4iTHSRRX.md) - [plain]
 
 > Instrumental acoustic guitar renditions of the Christmas songs you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,594 likes - 65 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,588 likes - 65 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Last Christmas](https://open.spotify.com/track/2bMTaFsvRxO05fjCKEc0Sn) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [Last Christmas](https://open.spotify.com/album/7c8HuqoBKlSFFIDhJS1ehD) | 1:57 |
 | 2 | [Happy X\-mas \(War Is Over\)](https://open.spotify.com/track/78YZqUt9BHyJ4II6nSJYjZ) | [Leon Arms](https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj) | [Happy X\-mas](https://open.spotify.com/album/320OZqeC45NvR8vnQjKOaF) | 3:02 |
 | 3 | [Let It Snow](https://open.spotify.com/track/7nD6zoYPL1ShkHwcsev9DV) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Christmas Acoustic](https://open.spotify.com/album/4GEU8iOMl6c38XpYY1mesV) | 3:02 |
-| 4 | [I'll Be Home For Christmas](https://open.spotify.com/track/5YvgKMgdZrx1Ey4zdieQj1) | [Olivier Dernier](https://open.spotify.com/artist/3P2YIrQS0MGBnBUsenITLp) | [I'll Be Home For Christmas](https://open.spotify.com/album/5op9V5kvT225OgvhHdb0J4) | 0:29 |
+| 4 | [I'll Be Home For Christmas](https://open.spotify.com/track/5YvgKMgdZrx1Ey4zdieQj1) | [Olivier Dernier](https://open.spotify.com/artist/3P2YIrQS0MGBnBUsenITLp) | [I'll Be Home For Christmas](https://open.spotify.com/album/5op9V5kvT225OgvhHdb0J4) | 1:14 |
 | 5 | [White Christmas](https://open.spotify.com/track/5vIsN7senV9wiMucuxyUOA) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [White Christmas](https://open.spotify.com/album/3iBqjJbDNHhf2I6pGlWQyt) | 1:34 |
 | 6 | [Ding Dong Merrily High](https://open.spotify.com/track/2Dyf9xAvNTnv6kl8PxSDMN) | [Emma Mann Lee](https://open.spotify.com/artist/5qidU3ekPOWXD3I7qzI18Y) | [Ding Dong Merrily High](https://open.spotify.com/album/1f6UoUJCV7cyPZ4WPLI9SL) | 2:44 |
 | 7 | [Santa Claus is Coming to Town](https://open.spotify.com/track/3E7fNt0yiBwdqzUxQhWCFy) | [Tommy Englund](https://open.spotify.com/artist/4GggdE9cVWvlG7OyusbefC) | [Santa Claus is Coming to Town](https://open.spotify.com/album/0oENAzxK49AAxVDk2ogJR6) | 1:41 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RK4iTHSRRX.md) - [plain]
 | 39 | [Lo! How A Rose E' er Blooming](https://open.spotify.com/track/4H1uUrPoIciE4QkV5XO3uN) | [David Snellbacher](https://open.spotify.com/artist/599FWOk7IwAvQSkkTYV2p4) | [All Acoustic Christmas](https://open.spotify.com/album/4O52UOM58x3bRdIZDPomF8) | 3:03 |
 | 40 | [Oh How Joyful](https://open.spotify.com/track/70lL1qN68gyXEyjBqGSG4b) | [Liam Simon](https://open.spotify.com/artist/2z660oi3KO1WylKrZlxi6y) | [A Joyful Christmas](https://open.spotify.com/album/4TWNCHyFgjy0lDT17EH9wm) | 3:07 |
 | 41 | [Christmas Time is Here](https://open.spotify.com/track/2r1v0uJmuLHfKHMpGtzJTu) | [Edward Wright](https://open.spotify.com/artist/4RyILBSzO6HaIMayAo6M4W) | [Christmas\-Peaceful Christmas Guitar Solos](https://open.spotify.com/album/6lwSZRUhZiKI1uMkx5Ao96) | 1:58 |
-| 42 | [Mary's Boy Child](https://open.spotify.com/track/7DS5ZlzSQ6XUCxZQt6uvRw) | [Olivier Dernier](https://open.spotify.com/artist/3P2YIrQS0MGBnBUsenITLp) | [I'll Be Home For Christmas](https://open.spotify.com/album/5op9V5kvT225OgvhHdb0J4) | 0:29 |
+| 42 | [Mary's Boy Child](https://open.spotify.com/track/7DS5ZlzSQ6XUCxZQt6uvRw) | [Olivier Dernier](https://open.spotify.com/artist/3P2YIrQS0MGBnBUsenITLp) | [I'll Be Home For Christmas](https://open.spotify.com/album/5op9V5kvT225OgvhHdb0J4) | 1:34 |
 | 43 | [Feliz Navidad](https://open.spotify.com/track/1vWVGELREX5WZKcjMNZaa6) | [Chris Richter](https://open.spotify.com/artist/2Salm1AJWZ4jsIX2SLLZDi) | [Acoustic Christmas Songs: 40 Holiday Favorites Arranged for Instrumental Classical Guitar](https://open.spotify.com/album/32ba7omgonaVctekBdymyH) | 2:29 |
 | 44 | [Merry Christmas Darling \(Instrumental Version\)](https://open.spotify.com/track/1e0CuobY5MyxB0bgoj1stt) | [Acoustic Guitar Songs,Classical Guitar Masters & Classical Christmas Music](https://open.spotify.com/artist/5XdbiV13oxsZNUdwgXZnhn), [Christmas Hits,Christmas Songs & Christmas](https://open.spotify.com/artist/5q54Ivn39BGY46s48SsktP), [Instrumental Christmas Music](https://open.spotify.com/artist/6BE55tLQQGp0TeQpicxL1P) | [It's the Most Wonderful Time of the Year \- Christmas Guitar](https://open.spotify.com/album/4rHmFEhmly9U7FAV7GLsmp) | 3:06 |
 | 45 | [My Grown Up Christmas List](https://open.spotify.com/track/4xMeWrXp8otvk2uKnmo2jc) | [Richard Mollenbeck](https://open.spotify.com/artist/2zFkwocH9Ah8KpUzydbcrO) | [My Grown Up Christmas List](https://open.spotify.com/album/5tbvWgWYczNeYLKQePqSkS) | 2:59 |

@@ -4,7 +4,7 @@
 
 > Zone in \(or out\) with ethereal, meditative instrumental indie folk and acoustic tracks.
 
-115 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/1Tx1MEjzWZkrD2HrMsUqGL)
+115 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/1Tx1MEjzWZkrD2HrMsUqGL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Crippled\-up Blues](https://open.spotify.com/track/1IFELYLpQlreLdG6ahFszj) | [3hattrio](https://open.spotify.com/artist/1J2E48OgZMv8t0Sbk01lhR) | [Dark Desert Night](https://open.spotify.com/album/12p2GSwbbxhNySkX4emr2M) | 2:17 | 2020-07-13 |  |
 | [Cumberland Gap](https://open.spotify.com/track/1W3WoQ2ECZzQnpOEt3XZVK) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Nothing We Say \- EP](https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7) | 2:13 | 2020-07-13 |  |
 | [Dance of Death](https://open.spotify.com/track/0TmXJc8p6FHnuUilFYrBim) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Fingerlings 4](https://open.spotify.com/album/6g0XYCj2dR1RJxmGO0Iz72) | 3:47 | 2020-07-13 |  |
-| [Duet for Guitars \#2](https://open.spotify.com/track/3jgGyltkhzYjDWGibVUBlW) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Duet For Guitars \#2](https://open.spotify.com/album/0930d2exi3078g6LEXGQCG) | 0:29 | 2020-07-13 |  |
+| [Duet for Guitars \#2](https://open.spotify.com/track/3jgGyltkhzYjDWGibVUBlW) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Duet For Guitars \#2](https://open.spotify.com/album/0930d2exi3078g6LEXGQCG) | 2:05 | 2020-07-13 |  |
 | [Duet for Guitars \#3](https://open.spotify.com/track/3zeHdmXo195KoBqqHOO6A9) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Transfiguration of Vincent](https://open.spotify.com/album/3I1zi5eB3rHCYye20JoG2U) | 1:52 | 2020-07-13 |  |
 | [Elk River](https://open.spotify.com/track/75s7uFrBUhwHH4sVbsSn0a) | [Six Organs Of Admittance](https://open.spotify.com/artist/5jX8L7D6vWHYlNj9k361vI) | [For Octavio Paz](https://open.spotify.com/album/1KsF9degqPu3DEJTQLalNI) | 3:11 | 2020-07-13 |  |
 | [Eventual Surrender](https://open.spotify.com/track/0GNSXFE8a9MkDR4ZTiF4Lj) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Goes West](https://open.spotify.com/album/0JbGIBNY8NDj1rpV6BAOCD) | 3:03 | 2020-07-13 |  |
@@ -61,7 +61,7 @@
 | [HEIR I](https://open.spotify.com/track/5rex1EYt4davYPo4igd2eH) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [HEIR](https://open.spotify.com/album/62J9QPjudiX5JlRXFPivbD) | 5:00 | 2020-07-13 |  |
 | [Her Smoke Rose Up Forever](https://open.spotify.com/track/7Ko4so8MIU5HBwrCMcOI1c) | [James Blackshaw](https://open.spotify.com/artist/0v3A74qYtkL8Wjj1rzLe9Z) | [Love Is the Plan, The Plan Is Death](https://open.spotify.com/album/0Hs9ZPAGmekggdUCj4g6e9) | 7:06 | 2020-07-13 |  |
 | [Here Too Far](https://open.spotify.com/track/383MxeoXVw7bdeBKEz68Po) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Colony of Bees](https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU) | 0:55 | 2020-07-13 |  |
-| [Home Over Yonder Variations Pt\. 2](https://open.spotify.com/track/1YgPS8qdg3lbX4Tmv97rYw) | [Sarah Louise](https://open.spotify.com/artist/2lGwVpVjE5WrnI4pP5Lu0y) | [Field Guide](https://open.spotify.com/album/6AwdnAvL3eD7oH87pDtrpe) | 0:29 | 2020-07-13 |  |
+| [Home Over Yonder Variations Pt\. 2](https://open.spotify.com/track/1YgPS8qdg3lbX4Tmv97rYw) | [Sarah Louise](https://open.spotify.com/artist/2lGwVpVjE5WrnI4pP5Lu0y) | [Field Guide](https://open.spotify.com/album/6AwdnAvL3eD7oH87pDtrpe) | 2:33 | 2020-07-13 |  |
 | [I Can't Tell My Secret Weapon](https://open.spotify.com/track/6NiCAvbTwwW305zhHBfS6d) | [Chessboxer](https://open.spotify.com/artist/7M6RbP2krwdFSjgzXnHp3b) | [Apollo EP](https://open.spotify.com/album/2MyL8boDt6oLbNwko8poPQ) | 2:33 | 2020-07-13 |  |
 | [Impossible Air](https://open.spotify.com/track/6tPCFKdtVp9zMCV3JJlj6C) | [Nathan Salsburg](https://open.spotify.com/artist/2d4DsLfaKstHsimzDw0LyM) | [Third](https://open.spotify.com/album/2KsxcezzgHLuzZiCqgsmg1) | 4:48 | 2020-07-13 |  |
 | [Instrumental](https://open.spotify.com/track/0aFjIDGbpXAspTiSHXmU45) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [In Deepest Blue](https://open.spotify.com/album/2mjQ5iFpI8lCTXdXTZQU5J) | 2:57 | 2020-07-13 |  |
@@ -107,7 +107,7 @@
 | [The Ballad of Barbara Allen](https://open.spotify.com/track/47yKkSXhPH2YG8hmdGqCpW) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [All Will Prosper](https://open.spotify.com/album/675K5zFrbNiUcuHMfLVKix) | 1:43 | 2020-07-13 |  |
 | [The Beekeeper](https://open.spotify.com/track/3X4a2AYRrq5H5QWySInuyU) | [Danny Black](https://open.spotify.com/artist/1acLmH4vW6PaaqDCDyNf46) | [Adventure Soundtrack](https://open.spotify.com/album/5yLqVDYBeB03t52Nm0myXi) | 2:09 | 2020-07-13 |  |
 | [The Cascades](https://open.spotify.com/track/6X3618mK5K2tKZ1w71309J) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Helplessness Blues](https://open.spotify.com/album/20RJRsAPD9Yx3Nols5cAGR) | 2:07 | 2020-07-13 |  |
-| [The Day is Past and Gone \(Variations\), Extended](https://open.spotify.com/track/2vSjs5QYsnVfp1HIDMhHdh) | [Sarah Louise](https://open.spotify.com/artist/2lGwVpVjE5WrnI4pP5Lu0y) | [Field Guide](https://open.spotify.com/album/6AwdnAvL3eD7oH87pDtrpe) | 0:29 | 2020-07-13 |  |
+| [The Day is Past and Gone \(Variations\), Extended](https://open.spotify.com/track/2vSjs5QYsnVfp1HIDMhHdh) | [Sarah Louise](https://open.spotify.com/artist/2lGwVpVjE5WrnI4pP5Lu0y) | [Field Guide](https://open.spotify.com/album/6AwdnAvL3eD7oH87pDtrpe) | 4:43 | 2020-07-13 |  |
 | [The Lizard](https://open.spotify.com/track/15BLGHLGn4PW7zjWQyWi1S) | [Ralegh Long](https://open.spotify.com/artist/1jxZMbJSBONtZQvlqH2nJ8) | [Hoverance](https://open.spotify.com/album/2K33kTgCQDyN4ox2EmgxTR) | 2:20 | 2020-07-13 |  |
 | [The Old Favourite](https://open.spotify.com/track/7EVcYnk0RQAwjntUiNLiyi) | [The Gloaming](https://open.spotify.com/artist/4fQbIxjM2vH6YF4OsWlaGT) | [2](https://open.spotify.com/album/2G10IAMXTYotpRk5w5psSV) | 4:09 | 2020-07-13 |  |
 | [The Quiet at Night](https://open.spotify.com/track/5qMWvCm0ufA59sLxdCmN3U) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [At the Dam](https://open.spotify.com/album/21WPKbevLh1bhIEWwx7Z5r) | 4:12 | 2020-07-13 |  |

@@ -4,11 +4,11 @@
 
 > 
 
-30 songs - 1 hr 52 min - [published](https://open.spotify.com/playlist/3mYWNPHzigYsbz7HMTxxXW)
+30 songs - 1 hr 54 min - [published](https://open.spotify.com/playlist/3mYWNPHzigYsbz7HMTxxXW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [10,000 Emerald Pools](https://open.spotify.com/track/2pA4ip3VIEVcIa3qE02oAX) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 0:29 | 2016-06-29 |  |
+| [10,000 Emerald Pools](https://open.spotify.com/track/2pA4ip3VIEVcIa3qE02oAX) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 2:54 | 2016-06-29 |  |
 | [Above The Clouds Of Pompeii](https://open.spotify.com/track/23tDyaKIRBPXgwBwz1jE4K) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Islands](https://open.spotify.com/album/6t4hbVlShehFEJQ9nXR8x8) | 4:39 | 2016-06-29 |  |
 | [Cannonball](https://open.spotify.com/track/1Ez4p27fWkO7j9F1o5aHOD) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Cannonball](https://open.spotify.com/album/5xL9BEb10q8us1fRdQdGkm) | 3:55 | 2016-06-29 |  |
 | [Clap Your Hands](https://open.spotify.com/track/5ndyjqPPACB114cu4PlAw9) | [Whilk & Misky](https://open.spotify.com/artist/6m9a3tDNWDe6bVR2csIjEv) | [The First Sip](https://open.spotify.com/album/0gGA9Yz4OpCcxxqPmQUA1I) | 5:05 | 2016-06-29 |  |

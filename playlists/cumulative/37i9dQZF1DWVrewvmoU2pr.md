@@ -4,7 +4,7 @@
 
 > 由抑壓到釋放，由自憐到自信，尋覓真愛同時又不忘調情色誘，從藍奕邦近20年創作的字裡行間，找到異類們成為大器之路上所流出的血與汗。
 
-51 songs - 3 hr 4 min - [published](https://open.spotify.com/playlist/6mVBkmhR4OzyzNdQQH6C7g)
+51 songs - 3 hr 9 min - [published](https://open.spotify.com/playlist/6mVBkmhR4OzyzNdQQH6C7g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [WANNABE](https://open.spotify.com/track/4pspYVQGFHLPEFgQPD1J7e) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) | 3:11 | 2022-04-07 | 2022-06-24 |
 | [一分鐘稀客一分鐘色誘](https://open.spotify.com/track/0Bw2tMHhLpVS416nfHWvSx) | [Kary Ng](https://open.spotify.com/artist/3B9ZmIcte26paTCaI1PFKE) | [豔羨](https://open.spotify.com/album/5io1WPmed3j2hO6712p0pL) | 4:23 | 2022-06-23 |  |
 | [仙樂飄飄處處聞](https://open.spotify.com/track/6Yrocv0hTFHEbJAFQ9Zgr8) | [Eman Lam](https://open.spotify.com/artist/3SJsybXfmMSrXcwpK56YuU) | [Eman Lam](https://open.spotify.com/album/49A8kv0BJoXsX5Ay6JxW5w) | 5:00 | 2022-06-23 |  |
-| [你明日回來](https://open.spotify.com/track/4kwInhDFXmyi37NZTE4vat) | [Terence Siufay](https://open.spotify.com/artist/3AemIC066y8n3TetXWkVoE) | [你明日回來](https://open.spotify.com/album/2o1dSDA7Um9YGUcF8Z9iI9) | 0:29 | 2022-06-23 |  |
+| [你明日回來](https://open.spotify.com/track/4kwInhDFXmyi37NZTE4vat) | [Terence Siufay](https://open.spotify.com/artist/3AemIC066y8n3TetXWkVoE) | [你明日回來](https://open.spotify.com/album/2o1dSDA7Um9YGUcF8Z9iI9) | 5:15 | 2022-06-23 |  |
 | [內外](https://open.spotify.com/track/3BKcJgFlqwy4TxTREXgQkT) | [Terence Siufay](https://open.spotify.com/artist/3AemIC066y8n3TetXWkVoE) | [睡前服](https://open.spotify.com/album/05pqyGdgVCRW0vzcPxpY3e) | 3:47 | 2022-06-23 |  |
 | [兩溝](https://open.spotify.com/track/48yohb2AiPofoAtj8AYjWA) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [兩溝](https://open.spotify.com/album/0szYhZL6ZIOpiHasU8lLA4) | 4:09 | 2022-06-23 |  |
 | [共勉之](https://open.spotify.com/track/28SGHjFqN0dLbXO00FxIR8) | [Ella Koon](https://open.spotify.com/artist/3iwCTx6CrptnO8AuGlmbVU) | [共勉之](https://open.spotify.com/album/1xVkzZsxmbXBBv1Dqvbe32) | 3:14 | 2022-06-23 |  |

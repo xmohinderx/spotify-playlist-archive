@@ -4,7 +4,7 @@
 
 > Elevate the moment and unwind with the lush sounds of these ethereal tracks.
 
-109 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/2sqAkZ7irgoKucdGgQUB0Y)
+109 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/2sqAkZ7irgoKucdGgQUB0Y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Grace](https://open.spotify.com/track/4wtfiQUdHZSgi6fpy7Teqn) | [Kitt Philippa](https://open.spotify.com/artist/7vdR3mj5oI4T6PbnhWcxcX) | [Human](https://open.spotify.com/album/7ipnHJKBQdgjutJ3RnyABL) | 2:58 | 2021-10-22 |  |
 | [Heal Me](https://open.spotify.com/track/56vlzMRLMYKL1f8HHXTRCn) | [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Heal Me](https://open.spotify.com/album/3GODmi11GtFyfmlUqJA5vP) | 3:27 | 2021-10-22 |  |
 | [Heavy](https://open.spotify.com/track/6CnXcjsNmdzh5aUfnxgcQb) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Heavy](https://open.spotify.com/album/4nZA7fWo4mVBvOaTjgX4AV) | 3:01 | 2021-10-22 |  |
-| [Hollow](https://open.spotify.com/track/6kEIzzsomuC1yknzS8TAwD) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Hollow](https://open.spotify.com/album/7wHbT4Baoyi3De2UAI8uOD) | 0:29 | 2021-10-22 |  |
+| [Hollow](https://open.spotify.com/track/6kEIzzsomuC1yknzS8TAwD) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Hollow](https://open.spotify.com/album/7wHbT4Baoyi3De2UAI8uOD) | 4:18 | 2021-10-22 |  |
 | [Horizon](https://open.spotify.com/track/7sqxbAwB1tl6MfQXHhA2R5) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Horizon](https://open.spotify.com/album/3wMaqh7xUYaBWsf4hLGbIC) | 4:09 | 2021-10-22 |  |
 | [Horizons](https://open.spotify.com/track/1V34QucIbEs3XUi7SolWQE) | [Xavia](https://open.spotify.com/artist/3nryYEIQnCTnBZ8OPmOd6i) | [Horizons](https://open.spotify.com/album/2uFwQ8yiZR0NsIvzmzWf8j) | 4:34 | 2021-10-22 |  |
 | [Hours Are the New Days](https://open.spotify.com/track/4Yj0zFarMIlpNj8eyQPq53) | [Mary Glenn](https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0) | [Hours Are the New Days](https://open.spotify.com/album/3icg7KC4xfcrVtgANJ0duJ) | 4:04 | 2021-10-22 | 2022-06-15 |
@@ -83,7 +83,7 @@
 | [Sapphire](https://open.spotify.com/track/2thyOEqaDSJwb9jaHvsa6F) | [Diamond Thug](https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX) | [Sapphire](https://open.spotify.com/album/0IA5VCej9UIVUNtcCD0oH8) | 3:12 | 2021-10-22 |  |
 | [Saving Us a Riot](https://open.spotify.com/track/1jpMsR7pZ56267QsvCOhci) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Volition](https://open.spotify.com/album/5o5VHNjnZ5E5fb5cuoRzBZ) | 4:17 | 2021-10-22 |  |
 | [Seven Hours](https://open.spotify.com/track/6mmrnnwdZNLcl1k3er9mik) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH) | [Seven Hours](https://open.spotify.com/album/6M240fvGl9RkyTPKBu7aVt) | 3:41 | 2021-10-22 |  |
-| [Shortline](https://open.spotify.com/track/4ROdI7pMLhREchUg6xb4ix) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 0:29 | 2021-10-22 |  |
+| [Shortline](https://open.spotify.com/track/4ROdI7pMLhREchUg6xb4ix) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 3:54 | 2021-10-22 |  |
 | [Slacks](https://open.spotify.com/track/01qIefOW1UdSDS1mHoSZ3x) | [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Slacks](https://open.spotify.com/album/7dj1YwKeoOGrhvgQU87qWh) | 3:26 | 2021-10-22 |  |
 | [Slumbr](https://open.spotify.com/track/5PQ1a1zxILh9ncbj2gwxEe) | [Zack Oke](https://open.spotify.com/artist/3M3KbaQtjT2PgdDLM85oqG), [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Sleepwalkers](https://open.spotify.com/album/16b9hC4l55WPqi5K3frIUI) | 2:42 | 2021-10-22 |  |
 | [Smoke Signals](https://open.spotify.com/track/7or32cFiQXLE1pHMIe0RVk) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Smoke Signals](https://open.spotify.com/album/2X3NLw5d2q9Lwn0L3g5wtn) | 5:23 | 2021-10-22 |  |
@@ -98,7 +98,7 @@
 | [Tayrona \(feat\. Wilsen\)](https://open.spotify.com/track/2Sxt4EK2LAElVzvMl6POvI) | [Mt\. Wolf](https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z), [Wilsen](https://open.spotify.com/artist/4aiyHXUEJDuoEBjnwjR2LZ) | [Tayrona \(feat\. Wilsen\)](https://open.spotify.com/album/6lvPAszkUIE6rLddZ3cVBs) | 3:19 | 2021-10-22 |  |
 | [Tayrona \(feat\. Wilsen\) \[Henry Green Rework\]](https://open.spotify.com/track/4PgKJq4xGJt7KBRxgV96ZU) | [Mt\. Wolf](https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z), [Wilsen](https://open.spotify.com/artist/4aiyHXUEJDuoEBjnwjR2LZ), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Tayrona \(feat\. Wilsen\) \[Henry Green Rework\]](https://open.spotify.com/album/2YvoUeZyhKk0fR4oYdh00c) | 3:27 | 2021-10-22 | 2022-06-15 |
 | [Tethered](https://open.spotify.com/track/4knHKWetkNFiYHbsGqHljq) | [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy) | [Vessels](https://open.spotify.com/album/4VrBpjOk4RZGtZd2LzJkns) | 3:26 | 2021-10-22 |  |
-| [The Meetings of the Waters](https://open.spotify.com/track/2EH99L821vO7FTvKVo5YnJ) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The Meetings of the Waters](https://open.spotify.com/album/4Z1NVo5nAjUFxL07vgSQkA) | 0:29 | 2021-10-22 |  |
+| [The Meetings of the Waters](https://open.spotify.com/track/2EH99L821vO7FTvKVo5YnJ) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The Meetings of the Waters](https://open.spotify.com/album/4Z1NVo5nAjUFxL07vgSQkA) | 5:00 | 2021-10-22 |  |
 | [The Wire](https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [The Wire](https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc) | 3:00 | 2021-11-17 |  |
 | [The Wolf](https://open.spotify.com/track/3HMd3dLDhHC9JfS9I6X4LJ) | [LEØ](https://open.spotify.com/artist/1dIdB87SOCg58ixm8rEtnm) | [The Wolf](https://open.spotify.com/album/2rMdFF4V0BhFxGExXFddY3) | 3:54 | 2021-10-22 |  |
 | [Then Again](https://open.spotify.com/track/3y8nbtLl3XgTB5VlMuENg6) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Hold to the Light](https://open.spotify.com/album/1KMlbpnEzCcKxoBFiuNnrD) | 4:54 | 2021-10-22 |  |

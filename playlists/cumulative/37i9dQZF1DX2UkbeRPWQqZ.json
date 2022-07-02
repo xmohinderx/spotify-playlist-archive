@@ -254,7 +254,7 @@
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 137089,
       "name": "Baby Mine",
       "url": "https://open.spotify.com/track/0QuySdLpzsu6KNfvd79WVL"
     },
@@ -898,6 +898,42 @@
     },
     {
       "album": {
+        "name": "Kling och klang",
+        "url": "https://open.spotify.com/album/2BsQ8v9OA15dH9XZo0SpYe"
+      },
+      "artists": [
+        {
+          "name": "Simon Fj\u00e4llstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5cmNqNdfwQv9XZWjT7YGpT"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147210,
+      "name": "Kling och klang",
+      "url": "https://open.spotify.com/track/183VkWkmFqG7iv6AbtbW5H"
+    },
+    {
+      "album": {
+        "name": "La Magia del Alma",
+        "url": "https://open.spotify.com/album/5LLIHdECpb0s7LJHLz45py"
+      },
+      "artists": [
+        {
+          "name": "Ernesto Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/6xf34gZLMObXtgYsbmyjRS"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "La Magia del Alma",
+      "url": "https://open.spotify.com/track/4kyEfs7bWqDzdBwndT7l9d"
+    },
+    {
+      "album": {
         "name": "Classical Lullabies",
         "url": "https://open.spotify.com/album/4WAOzYGmbwp2DaPL5NJsLb"
       },
@@ -913,6 +949,24 @@
       "duration_ms": 104664,
       "name": "Lake District",
       "url": "https://open.spotify.com/track/62rk91S0MdArx37LedWsZH"
+    },
+    {
+      "album": {
+        "name": "Lego Lego",
+        "url": "https://open.spotify.com/album/5E1XwidizfIascTQ6PqgqR"
+      },
+      "artists": [
+        {
+          "name": "Mia O\u2019Reilly",
+          "url": "https://open.spotify.com/artist/73DTyr2tWDvEQQfoQUQUEc"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137701,
+      "name": "Lego Lego",
+      "url": "https://open.spotify.com/track/1kxyDjsR44bTOnLDm9XyFV"
     },
     {
       "album": {
@@ -1210,7 +1264,7 @@
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 118308,
       "name": "On Top of Old Smokey (Instrumental Version)",
       "url": "https://open.spotify.com/track/0iPYaJS6hbMahRGl7VtueR"
     },

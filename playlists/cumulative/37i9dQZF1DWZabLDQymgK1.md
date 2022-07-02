@@ -4,7 +4,7 @@
 
 > <ahref="https://www.instagram.com/homoelectric/?hl=en">Homoelectric</a> is a legendary queer\-clubbing utopia, creating a safe space at the heart of Manchester’s LGBTQIA+ scene\. This is their sound of Pride.
 
-50 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/4KFliLiyOHO98s1YWCgllz)
+50 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/4KFliLiyOHO98s1YWCgllz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Heard It All Before \- Radio Edit](https://open.spotify.com/track/0RyUnFQa4HxFxDa2tjGsAJ) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [90s R&B Classics](https://open.spotify.com/album/68BFQDpibItUS8NGYPfJLh) | 3:59 | 2021-06-02 |  |
 | [Hold It/Control It](https://open.spotify.com/track/7wQdeiZwrwMdJTwuw4syaH) | [Rex The Dog](https://open.spotify.com/artist/5zbQoW1WWTzvITE8w4ckoC) | [Crasher](https://open.spotify.com/album/7nhRhJ0XUNWt5malAs9q67) | 6:42 | 2021-06-02 |  |
 | [Homosapien](https://open.spotify.com/track/6u6guT1xiBrbaEaQSPl4NW) | [Pete Shelley](https://open.spotify.com/artist/7r2lG8Ui6vGHAgsKlE8Hd8) | [Island Records Post Punk Box Set \- Out Come The Freaks](https://open.spotify.com/album/0THgn0SNHFx0tqqYqQlt4R) | 4:34 | 2021-06-02 |  |
-| [I Hear Music in the Streets](https://open.spotify.com/track/5HgE5eXfu0An2moseSM635) | [Unlimited Touch](https://open.spotify.com/artist/4VaFWblR1Rv24L8kAfhtxm) | [Searching to Find the One](https://open.spotify.com/album/31fKBqNpIIRDSiBoTv408q) | 0:29 | 2021-06-02 |  |
+| [I Hear Music in the Streets](https://open.spotify.com/track/5HgE5eXfu0An2moseSM635) | [Unlimited Touch](https://open.spotify.com/artist/4VaFWblR1Rv24L8kAfhtxm) | [Searching to Find the One](https://open.spotify.com/album/31fKBqNpIIRDSiBoTv408q) | 6:53 | 2021-06-02 |  |
 | [La Rock 01](https://open.spotify.com/track/2NNljOKFmhMxsfK8J5z4eF) | [Vitalic](https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9) | [OK Cowboy](https://open.spotify.com/album/3FbISaAK2oqQeLZACLifbo) | 5:26 | 2021-06-02 |  |
 | [Let Me Love You for Tonight \- House Club Version](https://open.spotify.com/track/3M2eKHfiVbAcdVbXq2vuHl) | [Kariya](https://open.spotify.com/artist/2v7BAefOHtrwbwIaeSrznH) | [Let Me Love You for Tonight](https://open.spotify.com/album/4O98lK9544U20ateVtGfaX) | 6:18 | 2021-06-02 |  |
 | [Like a Prayer \(Churchapella\)](https://open.spotify.com/track/4UX7TUsMu6QVPoBdpBEEqB) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like A Prayer](https://open.spotify.com/album/2qmMKmWqpPbsd6dKrZXgSV) | 6:08 | 2021-06-02 |  |

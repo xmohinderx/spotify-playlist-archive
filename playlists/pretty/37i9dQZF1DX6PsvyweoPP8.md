@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,865 likes - 65 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,900 likes - 65 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 45 | [Apaga a Luz](https://open.spotify.com/track/7kvIWyx7Jun0uEzTtQlLPj) | [Khauan](https://open.spotify.com/artist/7nbtGMD04rSRQSFwTZrPfx), [Jayy](https://open.spotify.com/artist/2YXlo4oLmS4JhncjEDHNdc) | [Apaga a Luz](https://open.spotify.com/album/2bx5mPk3d2GT4QzaiB9Cg0) | 2:34 |
 | 46 | [Luxúria](https://open.spotify.com/track/5kuUOpHZlZjL8b7HXkxRsm) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Pecado Capital](https://open.spotify.com/album/285LCOhTbxMYMSR5VOE2r3) | 3:05 |
 | 47 | [Pra Te Entorpecer](https://open.spotify.com/track/2JkWVfcXCXJ0uVUd7XPKHN) | [Di Paiva](https://open.spotify.com/artist/6VgzwK3rGqvD6bkug6XYk6), [Drizzy](https://open.spotify.com/artist/4GdVnTiuhvPVYdrPOLB7b1) | [Pra Te Entorpecer](https://open.spotify.com/album/0HKdaBbwcs9eWXg1KCppSp) | 3:06 |
-| 48 | [3am](https://open.spotify.com/track/74ApTVJtZx6Eq2YI7FwRYA) | [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [3am](https://open.spotify.com/album/4rNZcmAi0bjWSTKqRMjIXn) | 0:29 |
+| 48 | [3am](https://open.spotify.com/track/74ApTVJtZx6Eq2YI7FwRYA) | [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [3am](https://open.spotify.com/album/4rNZcmAi0bjWSTKqRMjIXn) | 3:32 |
 | 49 | [Beijo Com Trap](https://open.spotify.com/track/37LmF3FHmdMQErxJJUQaSd) | [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Beijo Com Trap](https://open.spotify.com/album/5xR5eyS25Z6QnpHx05anGs) | 3:07 |
 | 50 | [Sommelier](https://open.spotify.com/track/3HOlhweyZyyD8QSTZjI63I) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Intactoz Corp.](https://open.spotify.com/artist/3uMHwSzAIRTT0pRMihvQJw) | [Sommelier](https://open.spotify.com/album/3O8I6X87Nn2Yb04kqFuiyX) | 2:54 |
 | 51 | [Ingrata](https://open.spotify.com/track/1BBbpZML2z4hifuhnRFMFh) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Turmalina](https://open.spotify.com/album/0CftZS5wl7MH0WZqG8ChR5) | 2:20 |

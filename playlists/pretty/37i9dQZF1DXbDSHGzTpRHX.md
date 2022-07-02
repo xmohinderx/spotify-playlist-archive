@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,634 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,637 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 90 | [90's Green Screen](https://open.spotify.com/track/7yXkyxotSbVF1mkP2KNjEA) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Bad Sports](https://open.spotify.com/album/6YJHZfZHLAuwCfBN5FbzPI) | 3:10 |
 | 91 | [Limbo](https://open.spotify.com/track/6VVr03DVlC6rqp8uFTPVUx) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Limbo](https://open.spotify.com/album/4ciSUimSqK6DSbeAuBDm5Q) | 3:44 |
 | 92 | [Could Be a Curse](https://open.spotify.com/track/381Q9ZYMHHoHDZBKOT0dE6) | [KAINA](https://open.spotify.com/artist/7c6eQSFEfIt9rV3gh4cgtj), [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [Next to The Sun](https://open.spotify.com/album/4Mz0w3wQuqi383Yj2xBteb) | 6:12 |
-| 93 | [Eggshell](https://open.spotify.com/track/3FVBclNMrglEl6qnquLwYp) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Eggshell](https://open.spotify.com/album/2SW5ToU0ODNlsTMifq2p2A) | 0:29 |
+| 93 | [Eggshell](https://open.spotify.com/track/3FVBclNMrglEl6qnquLwYp) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Eggshell](https://open.spotify.com/album/2SW5ToU0ODNlsTMifq2p2A) | 3:24 |
 | 94 | [Floating](https://open.spotify.com/track/2hofoCNuOAcfp4X9R4vuxB) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Floating](https://open.spotify.com/album/75kKVn3AHBrFeE0XBKzwyA) | 3:21 |
 | 95 | [High Hopes](https://open.spotify.com/track/0GK4nfrXCwZclIGOKIUUJq) | [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [High Hopes](https://open.spotify.com/album/7HfHsLFj1kXhP2hPpjWiif) | 2:52 |
 | 96 | [Type](https://open.spotify.com/track/5SKvZHMap1g3fBO2vBruBy) | [Joël](https://open.spotify.com/artist/1aKxOOjrr9tPOCat11beik) | [Type](https://open.spotify.com/album/4rmrxAWpwcseb09Ti68ndJ) | 3:01 |

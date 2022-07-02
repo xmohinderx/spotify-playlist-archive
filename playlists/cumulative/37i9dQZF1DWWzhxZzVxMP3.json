@@ -274,7 +274,7 @@
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 223106,
       "name": "Cake By The Ocean",
       "url": "https://open.spotify.com/track/5Rr1dkY556PBAKf1c83clx"
     },
@@ -331,7 +331,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 353756,
       "name": "Careless Whisper",
       "url": "https://open.spotify.com/track/4uTeVyCIvptw95iGjb6Jfz"
@@ -656,6 +656,24 @@
     },
     {
       "album": {
+        "name": "Chill in Saint Tropez",
+        "url": "https://open.spotify.com/album/2gofzKGHpl3kezVkubqwNT"
+      },
+      "artists": [
+        {
+          "name": "Ituana",
+          "url": "https://open.spotify.com/artist/4gus7u7NSeJ3OGIhOnNgIr"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203426,
+      "name": "Garota de Ipanema (The Girl From Ipanema)",
+      "url": "https://open.spotify.com/track/0xYbaQtR9Nj1VbkPPIAUII"
+    },
+    {
+      "album": {
         "name": "Girls Like You",
         "url": "https://open.spotify.com/album/1LnVYXf8KSGZOKOtjnKMdl"
       },
@@ -667,7 +685,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 193660,
       "name": "Girls Like You",
       "url": "https://open.spotify.com/track/269KxTQgkQuL9m5BQDESZn"
@@ -776,7 +794,7 @@
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 276791,
       "name": "Hazard",
       "url": "https://open.spotify.com/track/0h62LobkzlOtaLekngojE9"
     },
@@ -1376,7 +1394,7 @@
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 199596,
       "name": "Pure Shores - Bossa Nova",
       "url": "https://open.spotify.com/track/0ezFSlUTyj7SWQbZxUZXw9"
     },
@@ -1506,7 +1524,7 @@
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 246639,
       "name": "September (Bossa Version)",
       "url": "https://open.spotify.com/track/686fADYgnMdwtXvRAuxdna"
     },
@@ -1523,7 +1541,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 266440,
       "name": "Shape Of You - Bossa Mix",
       "url": "https://open.spotify.com/track/4yo1BZtyOL5DeqRCtAhg38"
@@ -1618,7 +1636,7 @@
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 215593,
       "name": "Something Just Like This - Bossa Mix",
       "url": "https://open.spotify.com/track/1oMTC7wvZCf7zeUpodLlQf"
     },
@@ -1672,7 +1690,7 @@
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 186425,
       "name": "Stand by Me",
       "url": "https://open.spotify.com/track/5JagoCyaJWBriQfGdhTAVs"
     },
@@ -1961,6 +1979,28 @@
       "duration_ms": 203215,
       "name": "Weak",
       "url": "https://open.spotify.com/track/24mJZpO5vC4weHpATNQXef"
+    },
+    {
+      "album": {
+        "name": "Whole Again",
+        "url": "https://open.spotify.com/album/3Lifjzuc8bU1yBhnAJPVCC"
+      },
+      "artists": [
+        {
+          "name": "Juis de Fora",
+          "url": "https://open.spotify.com/artist/46BKARTr4WbL2apQKFZ4kt"
+        },
+        {
+          "name": "Tobey Rosen",
+          "url": "https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161514,
+      "name": "Whole Again",
+      "url": "https://open.spotify.com/track/5vQPUsti44KFsm1xOrhKHj"
     },
     {
       "album": {

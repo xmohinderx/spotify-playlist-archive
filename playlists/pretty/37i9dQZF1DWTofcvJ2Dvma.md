@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTofcvJ2Dvma.md) - [plain]
 
 > Soundtrack your practice with this mix of chill and motivational tracks perfect for vinyasa yoga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,741 likes - 193 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,775 likes - 193 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Banana Boat](https://open.spotify.com/track/0LvDUrxEU3St6H3iOwXgwU) | [Hashi Kayuto](https://open.spotify.com/artist/62MyyPTGilL229efTaEJAN) | [Banana Boat](https://open.spotify.com/album/3rp44tCPnWNyeIOVY8lI8W) | 4:10 |
-| 2 | [Zenith](https://open.spotify.com/track/2Jdezp0U1YKmlBJK1IrYBm) | [lowclowds](https://open.spotify.com/artist/25oJa6BWwoxxrNa299VMh1) | [Venice](https://open.spotify.com/album/0FSV7nJLdW3WtRGmfnzeVb) | 0:29 |
+| 2 | [Zenith](https://open.spotify.com/track/2Jdezp0U1YKmlBJK1IrYBm) | [lowclowds](https://open.spotify.com/artist/25oJa6BWwoxxrNa299VMh1) | [Venice](https://open.spotify.com/album/0FSV7nJLdW3WtRGmfnzeVb) | 2:47 |
 | 3 | [Now is the Time](https://open.spotify.com/track/6PYCYPO63qpGYkBXyjFyzR) | [Red & Blu](https://open.spotify.com/artist/0aWmJOUtoim1hFMcqNblDj) | [Just Breathe](https://open.spotify.com/album/7oR6ePQufS93SsdWMM4DSH) | 1:31 |
 | 4 | [Zealous](https://open.spotify.com/track/4FIpXfK5Py8emyfmWCTcm1) | [Fast Flux](https://open.spotify.com/artist/3jndf0YYCbrGOLFij8XuFs) | [Zealous](https://open.spotify.com/album/4QsVtR5zmxTXx66KeBnwt0) | 2:21 |
 | 5 | [Surrounded by Nature](https://open.spotify.com/track/4AbAaS6hmijUEX0TJ4bwYZ) | [Chill Cole](https://open.spotify.com/artist/1Ns2CQv733eYFITrIHvW6Z) | [Surrounded by Nature](https://open.spotify.com/album/1vlB8bNLzqtgWZ4zwV8L6V) | 5:43 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTofcvJ2Dvma.md) - [plain]
 | 23 | [Hide Me](https://open.spotify.com/track/3rH00yyUuY5QaCmr7TEimq) | [Qommodity](https://open.spotify.com/artist/5Pts11yzPI5Qsl7PmTed5P) | [Hide Me](https://open.spotify.com/album/6StMIiLIF66coXCGXZIWok) | 2:34 |
 | 24 | [Love Is The Way](https://open.spotify.com/track/0RNPDddo8zB84QRtAJGMvz) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [Love Is The Way](https://open.spotify.com/album/5DMBh7ShLfPG02Nji6G3Lt) | 1:43 |
 | 25 | [Lazy](https://open.spotify.com/track/4yGSbEBbtmLQ8vtdB3XE5K) | [Hi Rollaz](https://open.spotify.com/artist/3fcAnLtdyYfvkg1BRtpDyA) | [Lazy](https://open.spotify.com/album/74VN5PP227HuAZivDeRrXl) | 3:18 |
-| 26 | [crisp](https://open.spotify.com/track/5x7r4EEFe1MdqmoQVFUGPk) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [crisp](https://open.spotify.com/album/7HB0lwZLOR5DmXPqToszrG) | 0:29 |
+| 26 | [crisp](https://open.spotify.com/track/5x7r4EEFe1MdqmoQVFUGPk) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [crisp](https://open.spotify.com/album/7HB0lwZLOR5DmXPqToszrG) | 2:08 |
 | 27 | [Lonely and I like it](https://open.spotify.com/track/2aL54CY3OQEjTQ73Yj6DDK) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [Lonely and I like it](https://open.spotify.com/album/1nPKqBuxMHZd8nO2L6WHG1) | 2:43 |
 | 28 | [Row](https://open.spotify.com/track/1DUOaKbG2qAbRYgOlQMBah) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Row](https://open.spotify.com/album/7zeALtA6XRlLZQIlFapcDO) | 1:49 |
 | 29 | [Sun o'clock](https://open.spotify.com/track/3mLe9QMhMCcPvlkJgQbEi8) | [Idris Kelly](https://open.spotify.com/artist/2V8HJffWKh4zmPWFqvwImv) | [Sun o'clock](https://open.spotify.com/album/4AxgTe4ALkZ41Eu0DKI2H9) | 2:17 |
@@ -63,14 +63,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTofcvJ2Dvma.md) - [plain]
 | 53 | [Despertar al Sol](https://open.spotify.com/track/3NFL1h0KgrVb67DtM8dKFv) | [Ralf](https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR) | [Despertar al Sol](https://open.spotify.com/album/1X499n1XH8hjUAN4L7H7cm) | 1:55 |
 | 54 | [u make me](https://open.spotify.com/track/6OyPiy5eWajl56cC6Em7no) | [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc), [milligon](https://open.spotify.com/artist/62h3mAlyYduSmprbNEdKKD) | [u make me](https://open.spotify.com/album/3iXK2nkrVGdDeAd50g67UY) | 2:02 |
 | 55 | [City Bay](https://open.spotify.com/track/5G2aoK7fQ8XEIEgsRiRq01) | [Samenoise](https://open.spotify.com/artist/56RZezyHNErwmoGug3V3Xc) | [City Bay](https://open.spotify.com/album/1dhDrI75BqHuigJzDsbaaX) | 1:50 |
-| 56 | [Make A Wish](https://open.spotify.com/track/6z3xPj5FqC1eagvTbx6khY) | [Laizman](https://open.spotify.com/artist/7IgCfXJ8DHWGTli0aDft56) | [Make A Wish](https://open.spotify.com/album/08i8H39Mw86XEn1eQ4gH9E) | 0:29 |
+| 56 | [Make A Wish](https://open.spotify.com/track/6z3xPj5FqC1eagvTbx6khY) | [Laizman](https://open.spotify.com/artist/7IgCfXJ8DHWGTli0aDft56) | [Make A Wish](https://open.spotify.com/album/08i8H39Mw86XEn1eQ4gH9E) | 2:27 |
 | 57 | [More are coming](https://open.spotify.com/track/4Lq0St06IYrqMlaTJfwSfO) | [U\-kata](https://open.spotify.com/artist/2K78Mcf0SeQlIy2QCtjqcn) | [More are coming](https://open.spotify.com/album/0nLfjFFnJpSRzb9ykavkX8) | 3:32 |
 | 58 | [twin planet](https://open.spotify.com/track/3nhzAqz5Asv0avIhJ1g63u) | [phonadium](https://open.spotify.com/artist/1EbUbtNohBB2nDSZVdb0P8) | [twin planet](https://open.spotify.com/album/3xPP7FAISkVunroqwDsubD) | 1:46 |
 | 59 | [mararun](https://open.spotify.com/track/2nG9Kq8al1Y8CwuikqWXut) | [m3lly](https://open.spotify.com/artist/6ImTBYsoSoDNEMgY9VFU23) | [mararun](https://open.spotify.com/album/4T3cSDUhFHeoIEo4fDec58) | 2:06 |
 | 60 | [Secret Escape](https://open.spotify.com/track/59T1QsjRMjA0tdhoX20dTs) | [Frongen](https://open.spotify.com/artist/5nHpUxLu1yEHRV0aGL5t5y) | [Secret Escape](https://open.spotify.com/album/3pVDT0tiIRzs1kUm3IublH) | 2:30 |
 | 61 | [mosaic maker](https://open.spotify.com/track/3oOFrBFkh8vvEOhBgzB9PR) | [Rollin Hand](https://open.spotify.com/artist/7oKCQiTL5z1a63V76WyDtw) | [mosaic maker](https://open.spotify.com/album/3vGv2KrRg2QRh8vLbhgggR) | 2:31 |
 | 62 | [Feedback Loop](https://open.spotify.com/track/5zlcNIbJAbRtCFFmQQi6Qe) | [hoodeeny](https://open.spotify.com/artist/7BCtXoU5pnFzU38zvpl6Cg) | [Feedback Loop](https://open.spotify.com/album/313KqTMx8BzQMsf1wK1LSt) | 3:17 |
-| 63 | [Starstruck](https://open.spotify.com/track/4pduLVGTNsZ3KQUqK36Z2z) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Starstruck](https://open.spotify.com/album/5sYXhwMzCigsbf5LH3dN18) | 0:29 |
+| 63 | [Starstruck](https://open.spotify.com/track/4pduLVGTNsZ3KQUqK36Z2z) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Starstruck](https://open.spotify.com/album/5sYXhwMzCigsbf5LH3dN18) | 2:22 |
 | 64 | [Turnin'](https://open.spotify.com/track/1FPITXegY60iam6bYx4p5w) | [Chill Collusion](https://open.spotify.com/artist/1TtW6tuwl4p3aUWydX2kMj) | [Turnin'](https://open.spotify.com/album/2gceX5SfUJzI3bjS4BjzGo) | 2:20 |
 | 65 | [Ox](https://open.spotify.com/track/32dBcJq0JvvfuT3vLB23ZB) | [High Tip](https://open.spotify.com/artist/1GmHbj4LThdp2urHblLSWC) | [NYC Springtime](https://open.spotify.com/album/1gjrInZoxANNKBBnXq3YWi) | 4:20 |
 | 66 | [My greenhouse](https://open.spotify.com/track/6X0XSp7bFsgUwvkx5Qlix9) | [Cumulus Clouds](https://open.spotify.com/artist/2fDTMkLhW2WqPDobcohAZC) | [My greenhouse](https://open.spotify.com/album/6lQfts5lYwKlmnh1uQvJoT) | 2:10 |
@@ -105,13 +105,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTofcvJ2Dvma.md) - [plain]
 | 95 | [Resting bull face](https://open.spotify.com/track/1YWebNgNeLzNqybFQsoXn4) | [Catch ze Bull](https://open.spotify.com/artist/2FtYPL4cwgV84Z1xoJaM4S) | [Resting bull face](https://open.spotify.com/album/0lUn82bsrNOJkOXqI5AnVd) | 2:11 |
 | 96 | [Hidden Village](https://open.spotify.com/track/1XlLmcGawSaHSysOg5YPbq) | [Slacker Jack's](https://open.spotify.com/artist/3IYkO05jx2ouEKrI90Fml0) | [Hidden Village](https://open.spotify.com/album/3vr5I9Jb9vgRuFsRfTfhnQ) | 2:37 |
 | 97 | [Peeter Skeeter](https://open.spotify.com/track/1diQndJIjHScnOZtBj3404) | [With All Respect](https://open.spotify.com/artist/1owj0RO3l3iK7vPwn4rV1O) | [Peeter Skeeter](https://open.spotify.com/album/5lVaT8a2QE8nayhdrz79Jm) | 1:45 |
-| 98 | [florida keys](https://open.spotify.com/track/4cGB1bYpm6kvBMUERmaFHl) | [Kolorama](https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC) | [florida keys](https://open.spotify.com/album/27EBx07LQxBo1M690AWHzo) | 0:29 |
+| 98 | [florida keys](https://open.spotify.com/track/4cGB1bYpm6kvBMUERmaFHl) | [Kolorama](https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC) | [florida keys](https://open.spotify.com/album/27EBx07LQxBo1M690AWHzo) | 2:04 |
 | 99 | [Adore](https://open.spotify.com/track/2elyvOdJyP3b0h0FxM7BqT) | [Apsa](https://open.spotify.com/artist/6DDiYDtHywDhJPGHDCSKzm) | [Adore](https://open.spotify.com/album/6FTW4vthpJX9HeB97mtvh4) | 2:02 |
 | 100 | [Be Great](https://open.spotify.com/track/4N9h6vHzovo7YvInYRxgqt) | [Moodyears](https://open.spotify.com/artist/6n5CIF20bYLj8EeWvTjKUp) | [Be Great](https://open.spotify.com/album/2kG8Q47Uir1SMatGYzYoez) | 2:09 |
 | 101 | [Empty Hallways](https://open.spotify.com/track/7Glvm1A5eVOTgrKhkuJPG9) | [Luna Rossa](https://open.spotify.com/artist/5KM0Pgy2NxMnZrxtOhM9nW) | [Empty Hallways](https://open.spotify.com/album/2RrbweEpM42paH0jr6F8td) | 2:26 |
 | 102 | [Sunset](https://open.spotify.com/track/5vdDf4eRSFrrHlBtM6YyrO) | [Dream Phobia](https://open.spotify.com/artist/5PYBO1ouuWJGeyAJyimodq) | [Sunset](https://open.spotify.com/album/2H1Pcmt0UkQqBqVAc6ZObM) | 2:26 |
 | 103 | [Whispered Winds](https://open.spotify.com/track/2bkaAE4VM6lLeygzWsakdz) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj), [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [Whispered Winds](https://open.spotify.com/album/4D4TennrYGTmUk0el0lebi) | 2:09 |
-| 104 | [Venice](https://open.spotify.com/track/1FO9LieasI7ttaaDzijInm) | [lowclowds](https://open.spotify.com/artist/25oJa6BWwoxxrNa299VMh1) | [Venice](https://open.spotify.com/album/0FSV7nJLdW3WtRGmfnzeVb) | 0:29 |
+| 104 | [Venice](https://open.spotify.com/track/1FO9LieasI7ttaaDzijInm) | [lowclowds](https://open.spotify.com/artist/25oJa6BWwoxxrNa299VMh1) | [Venice](https://open.spotify.com/album/0FSV7nJLdW3WtRGmfnzeVb) | 3:24 |
 | 105 | [Etoile](https://open.spotify.com/track/3NhKzgs0nq8YNsxFcydt3m) | [Boyakaza](https://open.spotify.com/artist/7CwH4lMBbUZGz10FTJodF5) | [Etoile](https://open.spotify.com/album/3MQsERyDqkYLQztXDBofaV) | 2:29 |
 | 106 | [Phthalo](https://open.spotify.com/track/7kxdWrh8gb2rdvCZDfTknO) | [Luigi Valentino](https://open.spotify.com/artist/5we8GkSvBODzF7t0TLaiOS) | [Outlines](https://open.spotify.com/album/3nf6Yp27qmRCzusFEEgChh) | 2:04 |
 | 107 | [DaylightZ \- Forest Version](https://open.spotify.com/track/4CApZ8VcoaUFLHmi94y1ey) | [strøget](https://open.spotify.com/artist/7JtjqVMOUr4hbaYRVQevHq) | [DaylightZ](https://open.spotify.com/album/4vnuKbIQy1gtw4ao29JCzl) | 2:04 |
@@ -191,7 +191,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTofcvJ2Dvma.md) - [plain]
 | 181 | [lost memories](https://open.spotify.com/track/1dpmFHAy4bxWpWjOJPt33n) | [minor5](https://open.spotify.com/artist/59n0ix9TW7WoF1LCr1og2g) | [lost memories](https://open.spotify.com/album/7xAPf47vM4zzTL2EPy8GHt) | 2:27 |
 | 182 | [Clouds](https://open.spotify.com/track/51qdf2XksX7V5YfhS4VghX) | [Mentalism](https://open.spotify.com/artist/7uxVLIxwB1UHlBT96DAJdj) | [Clouds](https://open.spotify.com/album/1KYeDdVmd8NEzg0siza8gv) | 2:27 |
 | 183 | [Tasty Bites](https://open.spotify.com/track/5istmkXN6fiucHQtaF1xV4) | [Blue and White](https://open.spotify.com/artist/3D7Q3FCSjGuFl5UNN3X4Ow) | [Tasty Bites](https://open.spotify.com/album/6Y0zEucjiXtyVXtxu0JgZi) | 2:19 |
-| 184 | [Koodu Beat](https://open.spotify.com/track/3eWSufYeo9lVW9QvorDuPz) | [Qalander](https://open.spotify.com/artist/1fgzNEfvwvl89CVNprnohN) | [Koodu Beat](https://open.spotify.com/album/2HMB79pfnDfhWUtC3uosfV) | 0:29 |
+| 184 | [Koodu Beat](https://open.spotify.com/track/3eWSufYeo9lVW9QvorDuPz) | [Qalander](https://open.spotify.com/artist/1fgzNEfvwvl89CVNprnohN) | [Koodu Beat](https://open.spotify.com/album/2HMB79pfnDfhWUtC3uosfV) | 3:35 |
 | 185 | [Circular](https://open.spotify.com/track/25ARgyzXiYLjCq9K1gY5oL) | [Bobby Jerkins](https://open.spotify.com/artist/5uYUaQ0DxE07CPwVourqFG) | [Circular](https://open.spotify.com/album/1cS1eflPDbgVM4eQtpk8b6) | 2:17 |
 | 186 | [Fluxuations](https://open.spotify.com/track/2QAnxnRsvHXIG3qRwNOtnL) | [Dew Of Light](https://open.spotify.com/artist/0JocAa8oEKpsd3NOoVxuP6) | [Fluxuations](https://open.spotify.com/album/50YZ3IEsdP2wMFPBIreR0x) | 3:15 |
 | 187 | [Wiredraw](https://open.spotify.com/track/36mzhoBpnQKiF8BBsU7Lxg) | [Rey Si](https://open.spotify.com/artist/2MjwVzV9h0FuG8VgDqxUs6) | [Prosper](https://open.spotify.com/album/6v7I17j0nrGW7EQ7MHCRSq) | 2:25 |

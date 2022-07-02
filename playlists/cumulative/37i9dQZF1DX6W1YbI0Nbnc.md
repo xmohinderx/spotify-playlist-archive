@@ -4,7 +4,7 @@
 
 > 一起感受香港製造的女聲力量！\(cover: 泳兒\)
 
-164 songs - 10 hr 34 min - [published](https://open.spotify.com/playlist/3fyf9kJjwMb77gM8igxXJz)
+164 songs - 10 hr 40 min - [published](https://open.spotify.com/playlist/3fyf9kJjwMb77gM8igxXJz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [I'm Fine, Thx.](https://open.spotify.com/track/2MHibR4RkeGXkSvnVcTj13) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [I'm Fine, Thx.](https://open.spotify.com/album/2Hj7d0PyY4gWtmmQG7SMck) | 3:39 | 2022-01-04 | 2022-03-08 |
 | [IDK](https://open.spotify.com/track/4TlU4jNsch6P9hgbFxNK8L) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [IDK](https://open.spotify.com/album/6TA2BHMMBRmW2dGthzsQZV) | 3:22 | 2021-12-07 | 2022-01-05 |
 | [It’s OK To Be Sad](https://open.spotify.com/track/0up477QX11ffSLneXa0xHA) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [It’s OK To Be Sad](https://open.spotify.com/album/5HJdjpBgRxl4XcMuimvho9) | 3:59 | 2021-12-07 | 2022-03-08 |
-| [lately](https://open.spotify.com/track/0xEpNvwICCpdZU6i2h0GUr) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [lately](https://open.spotify.com/album/69k19hsB1YmW23a7Z5fHqf) | 0:29 | 2022-03-07 |  |
+| [lately](https://open.spotify.com/track/0xEpNvwICCpdZU6i2h0GUr) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [lately](https://open.spotify.com/album/69k19hsB1YmW23a7Z5fHqf) | 2:50 | 2022-03-07 |  |
 | [lengjai^^](https://open.spotify.com/track/7yDruVlhR2MJTiLYSpvIhh) | [GTB](https://open.spotify.com/artist/0vnu65ZX92UZbd1cYPXDwP) | [Whoa.](https://open.spotify.com/album/3grmmzVBjbgZhN8FCVmlPi) | 2:42 | 2022-01-04 | 2022-02-03 |
 | [Let Us Go Then You and I](https://open.spotify.com/track/68bpbRXf2ICC7yQYZoOykS) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [Don't Text Him](https://open.spotify.com/album/1E5h69F88qemJq7si8rLrW) | 5:28 | 2021-12-07 | 2022-01-05 |
 | [Like a moth to a flame](https://open.spotify.com/track/3cOKFEcuKcOz1DkVqcdLCu) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Like a moth to a flame](https://open.spotify.com/album/4icgEpwdhmocUOOqL9wtC6) | 3:23 | 2022-01-04 | 2022-05-04 |
@@ -171,6 +171,6 @@
 | [靜夜歌](https://open.spotify.com/track/7uVPQnJIh2x4J3UOZSELYN) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [靜夜歌](https://open.spotify.com/album/6GZ1SDblzNaLfcMerPxgRJ) | 4:48 | 2021-12-07 |  |
 | [風靡](https://open.spotify.com/track/5sEEhOScgED3KxkF9lzgEd) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [風靡](https://open.spotify.com/album/20KC0BCuXFmg7XFjkdpAW9) | 3:50 | 2022-05-03 |  |
 | [黑暗中漫舞 \(音樂永續作品\)](https://open.spotify.com/track/1Wste23dWh4oBK7MDV60EQ) | [Candy Lo](https://open.spotify.com/artist/51ZbCFgOspWvhBjd1DUYEV) | [黑暗中漫舞 \(音樂永續作品\)](https://open.spotify.com/album/7MA3Eu4JGjc9Ho1vee5xvg) | 4:01 | 2022-01-04 | 2022-02-03 |
-| [點點](https://open.spotify.com/track/5O34UglxtH9cKJj729BxlS) | [Yuki Lovey](https://open.spotify.com/artist/4o8jCavg8iCZ7lXJmJ6wGz) | [點點](https://open.spotify.com/album/4MBBUwcHZWBRXY0RGKBImX) | 0:29 | 2022-03-07 |  |
+| [點點](https://open.spotify.com/track/5O34UglxtH9cKJj729BxlS) | [Yuki Lovey](https://open.spotify.com/artist/4o8jCavg8iCZ7lXJmJ6wGz) | [點點](https://open.spotify.com/album/4MBBUwcHZWBRXY0RGKBImX) | 3:19 | 2022-03-07 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

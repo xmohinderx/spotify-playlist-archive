@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4NAi06Izmj4CPqmMuY1RsE.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 56 likes - 20 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 56 likes - 20 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/4NAi06Izmj4CPqmMuY1RsE.md) - [plain]
 | 16 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 |
 | 17 | [Let's Go](https://open.spotify.com/track/5KQrOv9nFVnM465CVGriW9) | [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [Lightning](https://open.spotify.com/album/6yRV3ISRWTSAfXS9SPoLiH) | 3:30 |
 | 18 | [Beautiful Day](https://open.spotify.com/track/0G5F2msfVO77xs7ql2RiTS) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [U218 Singles \(Deluxe Version\)](https://open.spotify.com/album/7k7aHoW1MGWWQR0KXvswkx) | 4:05 |
-| 19 | [All Summer Long](https://open.spotify.com/track/6DsxePZXexaZgZKEdgXOh8) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [All Summer Long](https://open.spotify.com/album/3PWfmOyPSSgz5kvhWVYaDl) | 0:29 |
+| 19 | [All Summer Long](https://open.spotify.com/track/6DsxePZXexaZgZKEdgXOh8) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [All Summer Long](https://open.spotify.com/album/3PWfmOyPSSgz5kvhWVYaDl) | 4:56 |
 | 20 | [Life Is A Highway](https://open.spotify.com/track/4rlWtsOCfxD8u1aCbbaHHp) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Rascal Flatts](https://open.spotify.com/album/515OQ3WRGIqpqa0bRiN83e) | 4:36 |
 
 Snapshot ID: `NCwyYWFjZGM4MGQ4YmRmNGIwZTVkODM4NjgxNWNkMzhhMWIwM2I5YmM3`

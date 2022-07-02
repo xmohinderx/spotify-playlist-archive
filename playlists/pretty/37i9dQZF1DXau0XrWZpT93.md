@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXau0XrWZpT93.md) - [plain]
 
 > Start your day with these beautiful scores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,083 likes - 65 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,094 likes - 65 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXau0XrWZpT93.md) - [plain]
 | 31 | [Nine Times around the Heart](https://open.spotify.com/track/5KEhwMi5xD7HxfoXe0iPM7) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Nocturne in Green](https://open.spotify.com/album/7KqJAgIwlqINIVJzeg00KN) | 2:57 |
 | 32 | [A Drop in the Ocean](https://open.spotify.com/track/2T6vRytpOROVVawULkC0AC) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [A Drop in the Ocean](https://open.spotify.com/album/0ZQQAZfQcQEU171lBODhZM) | 3:03 |
 | 33 | [What Once Was](https://open.spotify.com/track/1Dsf2HhRM2J44tg6BcfXYN) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Summer Memories](https://open.spotify.com/album/1qf7trVq03K5jA7hCiy1Vi) | 2:25 |
-| 34 | [Three Pointer](https://open.spotify.com/track/1gUHSxsrCohFFQC8zuI1Cv) | [Bromeliad](https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3) | [Three Pointer](https://open.spotify.com/album/29ELg1RDinuDy0xw7oPd9L) | 0:29 |
+| 34 | [Three Pointer](https://open.spotify.com/track/1gUHSxsrCohFFQC8zuI1Cv) | [Bromeliad](https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3) | [Three Pointer](https://open.spotify.com/album/29ELg1RDinuDy0xw7oPd9L) | 1:00 |
 | 35 | [Kalapas](https://open.spotify.com/track/5fWDUCwrMxj7xUAJT5uq6s) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Kalapas](https://open.spotify.com/album/6p1IOmTKWUdeG5RRSFpVeJ) | 2:45 |
 | 36 | [To Capture The Infinite](https://open.spotify.com/track/0hrTFLbtNvhe5X8b40DVOC) | [5th Dimension String Quartet](https://open.spotify.com/artist/0fd2h7Ve7ZDxWFW00AjxqL) | [To Capture The Infinite](https://open.spotify.com/album/1d8nHTu03NrgdX7KtwmNHk) | 2:47 |
 | 37 | [Ripples \(Echoes\)](https://open.spotify.com/track/4WRgRrmrD0WWBB9O8MNO9g) | [Harbours & Oceans](https://open.spotify.com/artist/0k8elyDgYdovh5k0yn9fDX) | [Ripples](https://open.spotify.com/album/174WdSc7Cncl9KwFmF7mGd) | 2:54 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXau0XrWZpT93.md) - [plain]
 | 46 | [The Mountain Disconnect](https://open.spotify.com/track/0KBIN2eno2koWYL4Flsf7S) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [The Mountain Disconnect](https://open.spotify.com/album/7hEd3BEoTsDTFgBFPnBLDR) | 3:06 |
 | 47 | [Valleys](https://open.spotify.com/track/5MSVACqJSKrICwAQQW91wb) | [Harbours & Oceans](https://open.spotify.com/artist/0k8elyDgYdovh5k0yn9fDX) | [Ripples](https://open.spotify.com/album/174WdSc7Cncl9KwFmF7mGd) | 3:05 |
 | 48 | [Gold among the Sand](https://open.spotify.com/track/0QVG4AIVRPQdhNR1dOegsc) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [The Mountain Disconnect](https://open.spotify.com/album/7hEd3BEoTsDTFgBFPnBLDR) | 3:03 |
-| 49 | [Sugarcane](https://open.spotify.com/track/7G3IcyTXBdeyDNCc25GSVV) | [Ensemble Rivr Dane](https://open.spotify.com/artist/2bYTGyR3eWFQmQ9FJElnBP), [Ana Olgica](https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc) | [Atoms Et Sugarcane](https://open.spotify.com/album/3XsOQQJYWhuGdJZujpcMLo) | 0:29 |
+| 49 | [Sugarcane](https://open.spotify.com/track/7G3IcyTXBdeyDNCc25GSVV) | [Ensemble Rivr Dane](https://open.spotify.com/artist/2bYTGyR3eWFQmQ9FJElnBP), [Ana Olgica](https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc) | [Atoms Et Sugarcane](https://open.spotify.com/album/3XsOQQJYWhuGdJZujpcMLo) | 2:24 |
 | 50 | [In My Sight](https://open.spotify.com/track/6zZTUG7kGV3GAOS5JPcRm0) | [Oscar Rhodes](https://open.spotify.com/artist/3ICSZdpAbJIZRtvYCxlAzX) | [Path of The Moon](https://open.spotify.com/album/4l5q2eFbVXYKWdrcjFJHo1) | 2:27 |
 | 51 | [Itinere](https://open.spotify.com/track/3SJyrNsIX3mkiyFKekNAty) | [Rickard Nilsson](https://open.spotify.com/artist/6qa2LFLjGOvQPRxs8LZuZX), [Helmut Schenker](https://open.spotify.com/artist/6wf5DKFK08Qx5d11LNhesK) | [Itinere](https://open.spotify.com/album/47GVftysLfyzIMrF3D95Gw) | 2:08 |
 | 52 | [Just Before Morning](https://open.spotify.com/track/1GPB6ZrLXvrkJAAGIRifA8) | [JNUARY](https://open.spotify.com/artist/66A9oG2ybGddl9xwDibKak) | [Just Before Morning](https://open.spotify.com/album/1MQ7w7BpVcXvKXby233Wd1) | 1:36 |

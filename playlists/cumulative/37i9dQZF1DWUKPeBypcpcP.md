@@ -4,7 +4,7 @@
 
 > Where nature and white noise meet.
 
-134 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/3PEHXXxoI35nN8diF5gcHS)
+134 songs - 6 hr 5 min - [published](https://open.spotify.com/playlist/3PEHXXxoI35nN8diF5gcHS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Crisp Precipitation](https://open.spotify.com/track/62RI1GNvl6ZICvlttCIdYg) | [Convective Clouds](https://open.spotify.com/artist/1dhWDBwgf0Y6iKgyrKQMUL) | [Cloudburst](https://open.spotify.com/album/2Mg89tpP7lv2MvAQKEghtl) | 2:19 | 2022-01-06 |  |
 | [Dans La Pluie](https://open.spotify.com/track/37Rprogt5b76oUXqGiTZ1b) | [Embrasser La Pluie](https://open.spotify.com/artist/2lHoCBVRrYgUnAmfinOLIM) | [Dans La Pluie](https://open.spotify.com/album/3W7AE7mWmVesrtg8KuJea5) | 2:11 | 2021-12-22 |  |
 | [Dark Forest](https://open.spotify.com/track/2NMA93HoL1DkxNLbnyOOqA) | [Natural Sound Makers](https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8) | [Forest By Night](https://open.spotify.com/album/2GLxsxoWpW8MOw9O9AAsf9) | 2:30 | 2021-12-08 |  |
-| [Deep Forest Soft Rain Birds Chirp Away](https://open.spotify.com/track/0KJdVfQkMHZn9rJB8PlBnH) | [Nature Noise](https://open.spotify.com/artist/6DRwKWnvWIApUcEUqbyM5Z) | [Rain Sounds & White Noise](https://open.spotify.com/album/1Jxxz6IARapq4T2QDZrLsI) | 0:29 | 2021-12-08 |  |
+| [Deep Forest Soft Rain Birds Chirp Away](https://open.spotify.com/track/0KJdVfQkMHZn9rJB8PlBnH) | [Nature Noise](https://open.spotify.com/artist/6DRwKWnvWIApUcEUqbyM5Z) | [Rain Sounds & White Noise](https://open.spotify.com/album/1Jxxz6IARapq4T2QDZrLsI) | 4:00 | 2021-12-08 |  |
 | [Distant Waves Pt\. 1](https://open.spotify.com/track/1a02pxK7AH63PZhGMUCUCh) | [Brainwave Samples](https://open.spotify.com/artist/3yivOlARUBTtzvsacIgLb7) | [Oceanic Breeze](https://open.spotify.com/album/57LHRRqc9ItBhuwmRFEMqp) | 2:52 | 2021-12-08 |  |
 | [Distant Waves Pt\. 2](https://open.spotify.com/track/6gj55yZkNA0UA9XDO4PXof) | [Brainwave Samples](https://open.spotify.com/artist/3yivOlARUBTtzvsacIgLb7) | [Oceanic Breeze](https://open.spotify.com/album/57LHRRqc9ItBhuwmRFEMqp) | 2:48 | 2021-12-08 |  |
 | [Dream Drops](https://open.spotify.com/track/50MxG7EVsohdIPpVEXIEqY) | [lumen](https://open.spotify.com/artist/6wtLDIGKKFNj1SgEJgkfVu) | [Dream Drops](https://open.spotify.com/album/3Cmdq6WqCXNgmZDMpx9ABi) | 3:28 | 2021-12-08 |  |
@@ -118,10 +118,10 @@
 | [Sound Of Rain](https://open.spotify.com/track/2pO4VCd6vKG1XjzxlNvGPd) | [Rain ZPE](https://open.spotify.com/artist/5btXRFPLxDHay7eed3kHLd) | [Falling Clouds](https://open.spotify.com/album/6wGZLw1MBKZQVLelPdBoDJ) | 2:00 | 2021-12-08 |  |
 | [Spring Birds And Melting Snow](https://open.spotify.com/track/6INKmY0qfuOPtsP1AmoJZt) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Spring Birds](https://open.spotify.com/album/0pkEvYY6HzXUaEveXWYOnE) | 1:45 | 2021-12-08 |  |
 | [Spring Time Sea](https://open.spotify.com/track/39YRVxyP1tcghBDTewGf2i) | [Glacier Waves](https://open.spotify.com/artist/3xhQ0XLgsXSbrI5IvEPlHZ) | [Dreamy Sea Sound](https://open.spotify.com/album/1IILruPhnd3n5b5WZ3Q57i) | 1:49 | 2022-03-08 |  |
-| [Steady Rain](https://open.spotify.com/track/07sMMvZeZ0AExRWF2UX8Wf) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Nature Rain Relaxation](https://open.spotify.com/album/6l6y3ned8RViGuo8Jy07gq) | 0:29 | 2021-12-08 |  |
+| [Steady Rain](https://open.spotify.com/track/07sMMvZeZ0AExRWF2UX8Wf) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Nature Rain Relaxation](https://open.spotify.com/album/6l6y3ned8RViGuo8Jy07gq) | 2:32 | 2021-12-08 |  |
 | [Steady Rainfall](https://open.spotify.com/track/39BW5mOBurJlUpeIJhzrys) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [Suburban Rain Sounds](https://open.spotify.com/album/0TgW0ohXTbUPnZBvkUVih2) | 3:31 | 2021-12-08 |  |
 | [Stereo Waves](https://open.spotify.com/track/29DeShLV9kzW2RXeTpo8bX) | [4D Nature Recordings](https://open.spotify.com/artist/6EAXjip845wircvDzEImru) | [Stereo Waves](https://open.spotify.com/album/0jsBg94hPzWjFfGYUFwdJJ) | 2:34 | 2021-12-08 |  |
-| [Streaming Brook](https://open.spotify.com/track/7gXySy6c7ixl0m6FYTrGsu) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [JBE River Sounds](https://open.spotify.com/album/3orPY7ARSexj6E3z5JIQVc) | 0:29 | 2022-01-06 |  |
+| [Streaming Brook](https://open.spotify.com/track/7gXySy6c7ixl0m6FYTrGsu) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [JBE River Sounds](https://open.spotify.com/album/3orPY7ARSexj6E3z5JIQVc) | 2:42 | 2022-01-06 |  |
 | [Suburban Forest Rain 2](https://open.spotify.com/track/0rtT2DmXIcwqpcXVrX6C7V) | [Aquagirl](https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ) | [Suburban Forest Rain](https://open.spotify.com/album/4f7VQq5S72LpVOV1bu08Tt) | 2:09 | 2021-12-08 |  |
 | [Summer Rain](https://open.spotify.com/track/7a3eLJPSgAk3PQbpYjrYdM) | [Rain Sounds FX](https://open.spotify.com/artist/3oA1rlM2x6SYsgVwc9kikK) | [Summer Rain](https://open.spotify.com/album/089nbe8JjcObU0nej5hJKb) | 2:32 | 2021-12-08 |  |
 | [The Oceanic Beach Sound](https://open.spotify.com/track/5mvw769FihTs6dokvzhosR) | [4D Nature Recordings](https://open.spotify.com/artist/6EAXjip845wircvDzEImru) | [Stereo Waves](https://open.spotify.com/album/0jsBg94hPzWjFfGYUFwdJJ) | 2:53 | 2021-12-08 |  |

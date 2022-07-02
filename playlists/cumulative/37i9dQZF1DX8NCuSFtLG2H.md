@@ -4,7 +4,7 @@
 
 > Relax to the sounds of the kora.
 
-111 songs - 8 hr 32 min - [published](https://open.spotify.com/playlist/5YL0tdMxwypZE5ZeRT09hJ)
+111 songs - 8 hr 46 min - [published](https://open.spotify.com/playlist/5YL0tdMxwypZE5ZeRT09hJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Kora Solo](https://open.spotify.com/track/6HTTBEPexAJGXAzzJEOr6i) | [Hélène Blazy](https://open.spotify.com/artist/33m7gT6eP9unPArdo8wfbr) | [Faces of Africa: An Inspirational Celebration of Africa Then and Now](https://open.spotify.com/album/59OpJHZvPKsU5SounjoUzq) | 1:51 | 2022-04-15 |  |
 | [Kouroukanfouga](https://open.spotify.com/track/6ul7PrzpeHa1aLDrrqn2Zn) | [Rajery](https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Driss El Maloumi](https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB) | [3 MA \(Madagascar, Mali, Maroc\)](https://open.spotify.com/album/3AP6ehGlQxMOrMsqOly0c2) | 5:13 | 2022-04-15 |  |
 | [L'aube](https://open.spotify.com/track/6Ki3Bt5AKwth2UGzHcq9Xy) | [Jacques Burtin](https://open.spotify.com/artist/0FNLrVKyvRdifc0MHYnl8x) | [Le chant de la forêt \- Un compositeur dialogue avec la création](https://open.spotify.com/album/6vRnda2nqFPDMuOH5Gc7Lg) | 4:46 | 2022-04-15 |  |
-| [Laban Djoro](https://open.spotify.com/track/1i6wlop1bLQohfpx7hPEqU) | [Mamadou Diabaté](https://open.spotify.com/artist/4Ue2Ve285CkFy9mv6TPcBf) | [Courage](https://open.spotify.com/album/77sVRRrzfdWlqZ7jPZ4Irr) | 0:29 | 2022-04-15 |  |
+| [Laban Djoro](https://open.spotify.com/track/1i6wlop1bLQohfpx7hPEqU) | [Mamadou Diabaté](https://open.spotify.com/artist/4Ue2Ve285CkFy9mv6TPcBf) | [Courage](https://open.spotify.com/album/77sVRRrzfdWlqZ7jPZ4Irr) | 5:48 | 2022-04-15 |  |
 | [Lampedusa](https://open.spotify.com/track/6HMrdo2aPHXiEC0FbQqNLt) | [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA) | [Toumani & Sidiki](https://open.spotify.com/album/0e9dYHAAknjGXVtXxKK3WV) | 4:26 | 2022-04-15 |  |
 | [Las morillas de Jaén](https://open.spotify.com/track/2Zku7DKoRSacXpHWqQkboq) | [Jacques Burtin](https://open.spotify.com/artist/0FNLrVKyvRdifc0MHYnl8x) | [Méditation kora & alto](https://open.spotify.com/album/1QuXZSXeCU8REnW638fC2G) | 2:52 | 2022-04-15 |  |
 | [Le Chemin Clair](https://open.spotify.com/track/4ShKWvE03JkEjapnCg1Yct) | [Jacques Burtin](https://open.spotify.com/artist/0FNLrVKyvRdifc0MHYnl8x) | [Le Jour Des Merveilles \(Kora En Prière\)](https://open.spotify.com/album/1KqIoZvQaj1FeRejsDdxye) | 5:26 | 2022-04-15 |  |
@@ -94,7 +94,7 @@
 | [Salaman](https://open.spotify.com/track/6xAmovtbPXpbN4akFMeiau) | [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY) | [New Ancient Strings](https://open.spotify.com/album/5FElpzjo07AXmZdkL4eRpW) | 6:14 | 2022-04-15 |  |
 | [Signare](https://open.spotify.com/track/032OUXmSVtzXyU9G1AX4Bf) | [Ablaye Cissoko](https://open.spotify.com/artist/7F6474dJ7eusD2MkXm2Lwx) | [Saint Louis](https://open.spotify.com/album/7oVuVFh50WFX1FeeQ2886A) | 4:23 | 2022-04-15 |  |
 | [Simbo](https://open.spotify.com/track/39M353KyEDfl468Bm69s3L) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [In the Heart of the Moon](https://open.spotify.com/album/1tSY0PB7uHvKhnEnjJQXLX) | 3:59 | 2022-04-15 |  |
-| [Simbo Salaba](https://open.spotify.com/track/2emh3LCxxzqekzR0ekc6t5) | [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY) | [Simbo Salaba](https://open.spotify.com/album/5hEajz3vakPl6PYnVikUCA) | 0:29 | 2022-04-15 |  |
+| [Simbo Salaba](https://open.spotify.com/track/2emh3LCxxzqekzR0ekc6t5) | [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY) | [Simbo Salaba](https://open.spotify.com/album/5hEajz3vakPl6PYnVikUCA) | 4:30 | 2022-04-15 |  |
 | [Siya](https://open.spotify.com/track/46x7AUiSnsY0Zui4hV8gJE) | [Yacouba Sissoko](https://open.spotify.com/artist/5AFOBMdVFA8785NYQtWiad) | [Siya](https://open.spotify.com/album/1T7Y2XS0DCAgUnZjAq7L5R) | 5:23 | 2022-04-15 |  |
 | [Soul of Life](https://open.spotify.com/track/7jUGnanNpc16zhVo53bLkR) | [Ravi](https://open.spotify.com/artist/4Jdc5hzHfGwwc7dxquKGso) | [Ravi: African Kora](https://open.spotify.com/album/02Kd5u5BzFZyfQobh3mX47) | 5:44 | 2022-04-15 |  |
 | [Soutoukou](https://open.spotify.com/track/6gIDxfe90k3aJpOB3bnOSr) | [Mamadou Diabaté](https://open.spotify.com/artist/4Ue2Ve285CkFy9mv6TPcBf) | [Tunga](https://open.spotify.com/album/67CHsaPZV6Q5m41AcHdQ4x) | 3:37 | 2022-04-15 |  |
@@ -112,7 +112,7 @@
 | [Tilô \- Lumière](https://open.spotify.com/track/4AsYhyxnqGpHMWXskhF5Nb) | [Ablaye Cissoko](https://open.spotify.com/artist/7F6474dJ7eusD2MkXm2Lwx) | [Diam \(La paix\)](https://open.spotify.com/album/6Dt3pAgQpu0HtPLWcwgUzi) | 5:03 | 2022-04-15 |  |
 | [Tougoude](https://open.spotify.com/track/6Gkoa1dKL34PD7p66wP8wE) | [Yacouba Sissoko](https://open.spotify.com/artist/5AFOBMdVFA8785NYQtWiad) | [Siya](https://open.spotify.com/album/1T7Y2XS0DCAgUnZjAq7L5R) | 5:54 | 2022-04-15 |  |
 | [Toutou Diarra](https://open.spotify.com/track/4uEmFWgfgnIJT3lLS3srZc) | [Lamine Cissokho](https://open.spotify.com/artist/4yNX2MT20zgrgvC7rrsFv6) | [Kora +1](https://open.spotify.com/album/7p5u26mM2kqrPCFUmJNJvG) | 4:18 | 2022-04-15 |  |
-| [United Hands \(West African Solo Kora Piece\)](https://open.spotify.com/track/45MCuEKnSf4AOLRmXqQLTd) | [Lamine Cissokho](https://open.spotify.com/artist/4yNX2MT20zgrgvC7rrsFv6), [Manish Pingle](https://open.spotify.com/artist/6IEbzmpRNL3IDQRSOdfUFB) | [New Continents](https://open.spotify.com/album/3AleC0olG2Nolct0kvgPf9) | 0:29 | 2022-04-15 |  |
+| [United Hands \(West African Solo Kora Piece\)](https://open.spotify.com/track/45MCuEKnSf4AOLRmXqQLTd) | [Lamine Cissokho](https://open.spotify.com/artist/4yNX2MT20zgrgvC7rrsFv6), [Manish Pingle](https://open.spotify.com/artist/6IEbzmpRNL3IDQRSOdfUFB) | [New Continents](https://open.spotify.com/album/3AleC0olG2Nolct0kvgPf9) | 4:55 | 2022-04-15 |  |
 | [Warbé](https://open.spotify.com/track/3T5vxl7qadr3rh7YVV296S) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi) | 4:51 | 2022-04-15 |  |
 | [Winter Trees Stand Sleeping](https://open.spotify.com/track/18PMUMZqCeKiZ5sV5fn1kz) | [Dawda Jobarteh](https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh) | [Transitional Times](https://open.spotify.com/album/10yK1rIl0mevzccNi8nlie) | 2:20 | 2022-04-15 |  |
 | [Wo Yé N'Gnougobine](https://open.spotify.com/track/07KsS4IqdRckOlD4LqjqAe) | [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Vincent Ségal](https://open.spotify.com/artist/1DM0tMCA5GRAgG3qLCy67F) | [Chamber Music](https://open.spotify.com/album/3X9jyh4EcJSKO1X0mdQkXJ) | 5:51 | 2022-04-15 |  |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Progressive & Melodic House desde Argentina, by Surface.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,764 likes - 50 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,770 likes - 50 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [That's the Way It Goes](https://open.spotify.com/track/7LLPb7lwljnDSksJ2iOJ7u) | [SidiRum](https://open.spotify.com/artist/6aCzyU3S7tQc31Cv09EcYu), [Juan Hansen](https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo) | [Buen Augurio](https://open.spotify.com/album/6Ef0wz2lp7g7FD6PJIMb71) | 7:40 |
 | 2 | [Stimulation](https://open.spotify.com/track/6xxKj11FS5vVSrP6dcTsEb) | [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Soundexile](https://open.spotify.com/artist/0fCvNSLDgVZZGQK2GfYOEg) | [Balance presents Sunsetstrip \(Unmixed Version\)](https://open.spotify.com/album/5SnS5ApOhE4fxXugAy0OiV) | 7:25 |
 | 3 | [Hiding Sun](https://open.spotify.com/track/2L1WnYPOSux57PuGoeaXk3) | [Juan Hansen](https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo) | [Balance presents Sunsetstrip \(Unmixed Version\)](https://open.spotify.com/album/5SnS5ApOhE4fxXugAy0OiV) | 8:39 |
-| 4 | [Rhapsody](https://open.spotify.com/track/0d28O6vqhwrQCYJ6H7dTO5) | [Kevin Di Serna](https://open.spotify.com/artist/6wktCejPtNcStIDD24buEm) | [Rhapsody](https://open.spotify.com/album/3o67s2rF1XBkueTauBJ9jm) | 0:29 |
+| 4 | [Rhapsody](https://open.spotify.com/track/0d28O6vqhwrQCYJ6H7dTO5) | [Kevin Di Serna](https://open.spotify.com/artist/6wktCejPtNcStIDD24buEm) | [Rhapsody](https://open.spotify.com/album/3o67s2rF1XBkueTauBJ9jm) | 5:24 |
 | 5 | [Time Is An Illusion](https://open.spotify.com/track/0jj1tCb1DCGsKsYmf8zFNS) | [Ditian](https://open.spotify.com/artist/6JIvK1wvwFlrjpAWjETPLx) | [Time Is An Illusion EP](https://open.spotify.com/album/3Lhg5VoqZlOrFBzGqppqnj) | 7:29 |
 | 6 | [38 & 46](https://open.spotify.com/track/58q8fCZzu1d7hkfeEazOSI) | [Baunder](https://open.spotify.com/artist/744syf9NAt7tUG1cXCiKog) | [Balance presents The Soundgarden \(Unmixed Version\)](https://open.spotify.com/album/6EbpbxMyd4PGHyn908dpYm) | 7:52 |
 | 7 | [Bells In The City \- Original Mix](https://open.spotify.com/track/1waXr3hfD2ClJweduv16v8) | [Maxi Degrassi](https://open.spotify.com/artist/2MrE6u1IaGHEFGayZkxpGD) | [Bells In The City EP](https://open.spotify.com/album/0wpoF3SrFhEziktsJMvKEO) | 6:33 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 10 | [Landscape](https://open.spotify.com/track/0lL7N936MmkQGNfGMzgu74) | [Marian \(AR\)](https://open.spotify.com/artist/1aqX6VY3056jMl6cXqAdmV) | [Landscape](https://open.spotify.com/album/4zJsfpFrCLcmub0tHbejHU) | 7:11 |
 | 11 | [Morgana](https://open.spotify.com/track/6X0OQT0i0cUrrk5LEfJowc) | [Simon Vuarambon](https://open.spotify.com/artist/2W3M7XIkEKENCT1LXJ6mdj) | [Morgana / Toscana / Kaskazi](https://open.spotify.com/album/1xbCeOhci5mBshpP8dbmvg) | 9:12 |
 | 12 | [Grizzly](https://open.spotify.com/track/2q9MxkasX02QRMxIwmOuyh) | [Valdovinos](https://open.spotify.com/artist/1VkZyYSFTT0p8xNyyaUV0L), [Josefina Barreix](https://open.spotify.com/artist/5SXlK4xm33IALfIZedwDaG) | [Grizzly EP](https://open.spotify.com/album/61tID3JlAy9ZeUsG01kI3w) | 7:57 |
-| 13 | [Ritual of Love](https://open.spotify.com/track/7eU7DnmuYgOGdgIHIwDnLL) | [Niceshot](https://open.spotify.com/artist/5lYS0rvjMNATxRrk8Do5DE) | [Seasons \| Winter 2020](https://open.spotify.com/album/368fuamMcpa6Xp3GWCDvPR) | 0:29 |
+| 13 | [Ritual of Love](https://open.spotify.com/track/7eU7DnmuYgOGdgIHIwDnLL) | [Niceshot](https://open.spotify.com/artist/5lYS0rvjMNATxRrk8Do5DE) | [Seasons \| Winter 2020](https://open.spotify.com/album/368fuamMcpa6Xp3GWCDvPR) | 8:18 |
 | 14 | [Stampi](https://open.spotify.com/track/5B3FNvNReTQF1iJYN9TfOL) | [Nico Szabo](https://open.spotify.com/artist/0Vw8wTJPM8hzOHwqAjsFri) | [The Soundgarden Winter Collection](https://open.spotify.com/album/3tevMtF2CvFb2WX3Jzq3zZ) | 8:43 |
 | 15 | [Have a Name](https://open.spotify.com/track/0yAwmFCrHVUgJt9OBZz7nk) | [Nacho Varela](https://open.spotify.com/artist/2WzYsYG7sMgHwVBFl4Ygbk), [Cruz Vittor](https://open.spotify.com/artist/4y56vMJhfSq2h8zydFq4U3), [Geri Terella](https://open.spotify.com/artist/531tcRjfpYktr60afxz7fR) | [Summer Sampler 2019](https://open.spotify.com/album/3euhzUoPnyiNLlpaw3IV1i) | 8:11 |
 | 16 | [Metroplex](https://open.spotify.com/track/3XyQKmLHT7sdAabF9m4XgK) | [Alejo Gonzalez](https://open.spotify.com/artist/4sge30tp8UhRBvSYE7KVCG), [Max Blade](https://open.spotify.com/artist/0AnJtl5BiGIzJCWcDEuaB7) | [Metroplex](https://open.spotify.com/album/2KpgQmJMaWgyldi14SUq9G) | 7:00 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 36 | [Fem Up](https://open.spotify.com/track/70NRqUiwH12vHtQd7TZWgp) | [Nicolas Buccafusca](https://open.spotify.com/artist/72VS5a1a3ReXYh7EPiEZPc), [Julian Rocchi](https://open.spotify.com/artist/2PKhyWF1kMugS2qL9WdMix) | [Two Stories About A Lie](https://open.spotify.com/album/4mjhi9ClXEV7pJkiyMUrPz) | 6:13 |
 | 37 | [Apocalyptic Love](https://open.spotify.com/track/3hThqI5UeSRg5xiLkRn6H6) | [After Burn](https://open.spotify.com/artist/4qxOWkTfAz2n6UHllPAIKX) | [Apocalyptic Love](https://open.spotify.com/album/0cY0qRmL8wmJZ4xWpjF4yP) | 7:32 |
 | 38 | [Voltaire](https://open.spotify.com/track/6RhZ3wEOHmJpZGuXhfl2HJ) | [Analog Jungs](https://open.spotify.com/artist/7xsRDdsB4gzJqlbMiuowa1) | [Voltaire](https://open.spotify.com/album/1fLFRG742JTDx3eilXsbnM) | 10:41 |
-| 39 | [Astroboy](https://open.spotify.com/track/7fGA2ygZsqYqXpBoW3TKha) | [Ivan Aliaga](https://open.spotify.com/artist/67UXfHRkdnXZ5rh1Ick7Ay) | [FGIX](https://open.spotify.com/album/5NIWox3JztNgZDNsyu5wZl) | 0:29 |
+| 39 | [Astroboy](https://open.spotify.com/track/7fGA2ygZsqYqXpBoW3TKha) | [Ivan Aliaga](https://open.spotify.com/artist/67UXfHRkdnXZ5rh1Ick7Ay) | [FGIX](https://open.spotify.com/album/5NIWox3JztNgZDNsyu5wZl) | 7:40 |
 | 40 | [Sensitive \(Part II\)](https://open.spotify.com/track/2h1lMvv4Tz8zJ0NhS2Xtjk) | [Paul \(AR\)](https://open.spotify.com/artist/1HlaPjfSvC73YiHc3HH9eO) | [Small Musical Stories](https://open.spotify.com/album/4fYQ3930NKvfCSflAS6dMk) | 8:16 |
 | 41 | [Rotator \- Original Mix](https://open.spotify.com/track/7m7EJuQ8tF7TPdh036FwpI) | [Ezequiel Arias](https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ) | [Globular](https://open.spotify.com/album/5qTrZyXSG7VO5KojULMd7Q) | 7:56 |
 | 42 | [Hy Macrophylla \- Original Mix](https://open.spotify.com/track/4Bsg82R9JpPZcaA1OtdTsF) | [Artfaq](https://open.spotify.com/artist/4xsjxIpPpmPiqV9gxdN9TZ), [Berni Turletti](https://open.spotify.com/artist/1lhA46N6VsjJDN8wQccLtW) | [Sudbeat Showcrates 8](https://open.spotify.com/album/2AWXxk7erzxX685F664TzT) | 8:28 |

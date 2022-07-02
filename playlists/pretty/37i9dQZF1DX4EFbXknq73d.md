@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 
 > Hand\-picked kind, tasty jams! / Cover: Grateful Dead
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,337 likes - 129 songs - 14 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,349 likes - 129 songs - 14 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 | 26 | [The Night They Drove Old Dixie Down \- Concert Version](https://open.spotify.com/track/3ECIC2erE6103yYfSxWz80) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [The Last Waltz \(Deluxe Version\)](https://open.spotify.com/album/7uqVE9qWdqjtDeLpdHyMxP) | 4:37 |
 | 27 | [Soulshine](https://open.spotify.com/track/0avyrMFNsAkN1ggXEnn9fh) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h) | [Live At Bonnaroo](https://open.spotify.com/album/4yYqT8PUl2m0L1LaJR9f3U) | 6:42 |
 | 28 | [Ripple \- Live](https://open.spotify.com/track/31Ch2wIS1T0ZTZf13XFvfs) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Reckoning \(Live\)](https://open.spotify.com/album/1T7YIthjEvwsxbUHZ7NdBD) | 4:27 |
-| 29 | [Typical Situation \- Live at Whittemore Center Arena, Durham, NH, 02.19.96](https://open.spotify.com/track/68UuRHI7HeiZl8DJMRlQ0W) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Live Trax Vol\. 23: Whittemoore Center Arena](https://open.spotify.com/album/2pJ6zerds0wfJUrKT8oaJm) | 0:29 |
+| 29 | [Typical Situation \- Live at Whittemore Center Arena, Durham, NH, 02.19.96](https://open.spotify.com/track/68UuRHI7HeiZl8DJMRlQ0W) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Live Trax Vol\. 23: Whittemoore Center Arena](https://open.spotify.com/album/2pJ6zerds0wfJUrKT8oaJm) | 6:17 |
 | 30 | [She Talks to Angels](https://open.spotify.com/track/47cBKOTLfTt7EOavt7ZW5V) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Croweology](https://open.spotify.com/album/6V5oOvWQrsiRM9gKEKTjOo) | 6:16 |
 | 31 | [I Shall Be Released \(with Fleet Foxes\) \- Live](https://open.spotify.com/track/4gIYdTW0oUC3jnCHbDUl65) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Alpha Mike Foxtrot: Rare Tracks 1994 \- 2014](https://open.spotify.com/album/71CIpjzqwqHxnUxL1FDS0M) | 3:33 |
 | 32 | [Ship of Fools \- Live at Giants Stadium, East Rutherford, NJ, 6/17/91](https://open.spotify.com/track/36aq2C4UEP0BB5j5dDfLcc) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Saint of Circumstance: Giants Stadium, East Rutherford, NJ 6/17/91 \(Live\)](https://open.spotify.com/album/1f0whW4QE9bFNLpeyaPQiV) | 8:01 |
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 | 100 | [Midnight In Harlem \(Swamp Raga intro with Little Martha\) \- Live](https://open.spotify.com/track/72UfjeC5R2SWpe9TTzwhKT) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Everybody's Talkin'](https://open.spotify.com/album/2U7PtD3lqcSSVSZ4g875ki) | 10:23 |
 | 101 | [Sweet Emotion](https://open.spotify.com/track/3fsoiPJOP9e1yST9HFZ7Ww) | [Leo Kottke](https://open.spotify.com/artist/6cjuHeJM6CHRUhIhApwFwx), [Mike Gordon](https://open.spotify.com/artist/2Onb70uN9rRM3VMerSpA37) | [Sixty Six Steps](https://open.spotify.com/album/1xvOhmnVQcbtN0oOBneBoP) | 5:32 |
 | 102 | [Run It](https://open.spotify.com/track/03zAw2uv4CfkW2quov1fWy) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [The Waterfall II](https://open.spotify.com/album/5QdrLd11irInpKv030UbHV) | 4:37 |
-| 103 | [Red Eyes](https://open.spotify.com/track/71jGGLe5VtEHjIk5dU2W3S) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5) | 0:29 |
+| 103 | [Red Eyes](https://open.spotify.com/track/71jGGLe5VtEHjIk5dU2W3S) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5) | 4:58 |
 | 104 | [Lady and Man](https://open.spotify.com/track/0tjTndnyFm1xQsaHGf2imW) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/42j41uUwuHZT3bnedq2XtM) | 4:18 |
 | 105 | [Wish You Were Here](https://open.spotify.com/track/4EzEvgNPXLlT7cDPucg1VZ) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Dark Side of the Mule \(Deluxe Edition\)](https://open.spotify.com/album/2V78RuVG8YmX509TP0DM51) | 7:38 |
 | 106 | [All Your Favorite Bands \(Live From An Evening With Dawes\)](https://open.spotify.com/track/2OPFkmOev87CEcpqvZKgcS) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [We're All Gonna Live](https://open.spotify.com/album/6EcOXh4NhGg7oqwStcQn1a) | 4:29 |

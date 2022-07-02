@@ -4,7 +4,7 @@
 
 > From denial and pleading to anger and acceptance, this genre\-blending playlist will carry you through each stage of your breakup blues.
 
-43 songs - 2 hr 26 min - [published](https://open.spotify.com/playlist/3i3MfNixZjLR4sW4DXekZN)
+43 songs - 2 hr 30 min - [published](https://open.spotify.com/playlist/3i3MfNixZjLR4sW4DXekZN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Thoroughly Modern Breakup](https://open.spotify.com/track/7G4IYIhUYBYo5967tp2FW6) | [Mr.B The Gentleman Rhymer](https://open.spotify.com/artist/0ilsDGmlSM7nHPJgbOX0A9) | [O.G\. Original Gentleman](https://open.spotify.com/album/7vJRdw4u5V83dtTdGgLLso) | 2:09 | 2015-01-28 |  |
 | [Babe I'm Gonna Leave You \- 1990 Remaster](https://open.spotify.com/track/4OMu5a8sFpcRCPCcsoEaov) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 6:41 | 2015-01-28 |  |
 | [Bang Bang \(My Baby Shot Me Down\)](https://open.spotify.com/track/4Sqg63Kx6nE5o6R1aA80p4) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Valentine's Day Massacre: Breakup Songs](https://open.spotify.com/album/6waAppjgNshXF7jRb9OKUW) | 2:42 | 2015-01-28 |  |
-| [Blame It On The Breakup](https://open.spotify.com/track/3El9QD3z0EEKn3b38OuMZP) | [Low Volts](https://open.spotify.com/artist/3PxUwSSsVaW0XyBiRJF2oS) | [Twist Shake Grind Break](https://open.spotify.com/album/0gNmg8hzKJurZytJsoca6U) | 0:29 | 2015-01-28 |  |
+| [Blame It On The Breakup](https://open.spotify.com/track/3El9QD3z0EEKn3b38OuMZP) | [Low Volts](https://open.spotify.com/artist/3PxUwSSsVaW0XyBiRJF2oS) | [Twist Shake Grind Break](https://open.spotify.com/album/0gNmg8hzKJurZytJsoca6U) | 1:18 | 2015-01-28 |  |
 | [Blue Moon](https://open.spotify.com/track/4uIOpk5ih0Ui3a9pBwGKHn) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Blue Moon](https://open.spotify.com/album/13XvLU3zkNevaDY6WOfe93) | 4:02 | 2015-01-28 |  |
 | [Born To Die](https://open.spotify.com/track/6eFmEwPGFlSSau4yMUEaqN) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die](https://open.spotify.com/album/0wjZLB37I9YAcvlMf86eM9) | 4:45 | 2015-01-28 |  |
 | [Breakeven](https://open.spotify.com/track/1fyysXwSGNtMeqMBLwW3SI) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc) | 4:21 | 2015-01-28 |  |
@@ -36,7 +36,7 @@
 | [Love Is A Losing Game](https://open.spotify.com/track/568d3A1d2OAffNAeiAaoZu) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/1Ks2ssPMkWLthhInmOO5La) | 2:34 | 2015-01-28 |  |
 | [Nothing Compares 2 U](https://open.spotify.com/track/07iHAswcApphvyllRDQrEa) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Pure Driving Rock](https://open.spotify.com/album/7HCpCOgvZQMt2YwPtp1y8p) | 4:40 | 2015-01-28 |  |
 | [Please Don't Leave Me](https://open.spotify.com/track/3EuoUivJpZ3sArzWT6XfPn) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Greatest Hits...So Far!!!](https://open.spotify.com/album/2tUn9E3nHXhUIJ47yv6ePD) | 3:52 | 2015-01-28 |  |
-| [Potential Breakup Song](https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 0:29 | 2015-01-28 |  |
+| [Potential Breakup Song](https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 3:39 | 2015-01-28 |  |
 | [Rolling In The Deep](https://open.spotify.com/track/7h8Ud480Fm4ReUVxgFF9ZX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Rolling In The Deep](https://open.spotify.com/album/3ng0Nr1GuIqsp4oEzyMHVm) | 3:48 | 2015-01-28 |  |
 | [Somebody That I Used To Know](https://open.spotify.com/track/1qDrWA6lyx8cLECdZE7TV7) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/4G2rJNhsKOE6iHgtUqZ0Ye) | 4:04 | 2015-01-28 |  |
 | [Stay](https://open.spotify.com/track/4ARhdB2FzpXcko8T03YVen) | [Lisa Loeb & Nine Stories](https://open.spotify.com/artist/4a7CDXcRCXi4kp5z7SEXtg) | [Tails](https://open.spotify.com/album/5z0b4cI7aflFVUIGnLW8v8) | 3:03 | 2015-01-28 |  |

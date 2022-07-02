@@ -4,7 +4,7 @@
 
 > Pop en inglés para apapachar a tu corazón herido 💔
 
-53 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/10dOy7ussxv3SPnsuowUMH)
+53 songs - 3 hr 34 min - [published](https://open.spotify.com/playlist/10dOy7ussxv3SPnsuowUMH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [My Immortal](https://open.spotify.com/track/4UzVcXufOhGUwF56HT7b8M) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 4:22 | 2022-02-01 |  |
 | [No One's Gonna Love You](https://open.spotify.com/track/0b1Vajse5stBtGv8WOtvm1) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Cease To Begin](https://open.spotify.com/album/6qz1hWYLCvUoDCdur4UzDF) | 3:37 | 2022-02-01 | 2022-06-07 |
 | [Rolling In The Deep](https://open.spotify.com/track/7h8Ud480Fm4ReUVxgFF9ZX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Rolling In The Deep](https://open.spotify.com/album/3ng0Nr1GuIqsp4oEzyMHVm) | 3:48 | 2022-02-01 |  |
-| [Shape of My Heart](https://open.spotify.com/track/35o9a4iAfLl5jRmqMX9c1D) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Black & Blue](https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO) | 0:29 | 2022-02-01 |  |
+| [Shape of My Heart](https://open.spotify.com/track/35o9a4iAfLl5jRmqMX9c1D) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Black & Blue](https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO) | 3:50 | 2022-02-01 |  |
 | [She Will Be Loved](https://open.spotify.com/track/2vICzUUia22chV8mQKk1Pt) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Love \(UMGI Version\)](https://open.spotify.com/album/2Bb4DoRXCqNBV3168xFmKG) | 4:16 | 2022-02-01 |  |
 | [Someone Like You](https://open.spotify.com/track/6QPKYGnAW9QozVz2dSWqRg) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/7n3QJc7TBOxXtlYh4Ssll8) | 4:45 | 2022-02-01 |  |
 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 | 2022-02-01 |  |

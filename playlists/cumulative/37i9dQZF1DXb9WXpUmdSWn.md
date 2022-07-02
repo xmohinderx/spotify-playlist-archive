@@ -4,7 +4,7 @@
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the songwriter's owner covers.
 
-50 songs - 2 hr 57 min - [published](https://open.spotify.com/playlist/0Ij2p11ySRhLverD0eg7Nv)
+50 songs - 3 hr 1 min - [published](https://open.spotify.com/playlist/0Ij2p11ySRhLverD0eg7Nv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Me And Julio Down By The Schoolyard](https://open.spotify.com/track/31cxwb3czvOxxEc9Gw69b5) | [Jack Antonoff](https://open.spotify.com/artist/414TS3VqZf1XPCBixdmX9n) | [The Secret Life Of Pets 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6v3cV4buefnvRAVq3WzAIE) | 2:47 | 2022-01-21 |  |
 | [Mrs\. Robinson](https://open.spotify.com/track/10FqpvfLZAKnmtAFKOrHC6) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Don Costa](https://open.spotify.com/artist/0RApVWsazsKH8QZsLtffn9) | [My Way \(Expanded Edition\)](https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn) | 2:56 | 2022-01-21 |  |
 | [Mrs\. Robinson \- Remastered](https://open.spotify.com/track/5EugXICXL06waHgP4iTI58) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [It's A Shame About Ray \(Expanded Edition\)](https://open.spotify.com/album/3AKjod7W29b6DQKwuInZji) | 3:44 | 2022-01-21 |  |
-| [Scarborough Fair](https://open.spotify.com/track/4vixgSEittlcLbvclr6xjN) | [Sarah Brightman](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) | [La Luna](https://open.spotify.com/album/0yT5WqbZms0BcBR5JUyIFe) | 0:29 | 2022-01-21 |  |
+| [Scarborough Fair](https://open.spotify.com/track/4vixgSEittlcLbvclr6xjN) | [Sarah Brightman](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) | [La Luna](https://open.spotify.com/album/0yT5WqbZms0BcBR5JUyIFe) | 4:11 | 2022-01-21 |  |
 | [Scarborough Fair \- Remastered/2003](https://open.spotify.com/track/0s0s823rpcq4YDFwatzdC0) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [Empire \- 20th Anniversary Edition](https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow) | 3:50 | 2022-01-21 |  |
 | [Slip Sliding Away](https://open.spotify.com/track/1gfifpIZ3sD6mxrdS3reUC) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Slip Sliding Away](https://open.spotify.com/album/0sElUOxlJkz6gu2Gt3wWPU) | 3:07 | 2022-01-21 |  |
 | [Slip Sliding Away](https://open.spotify.com/track/2HX8D5h48H0ehKA1nSGTlx) | [The Persuasions](https://open.spotify.com/artist/1s1K3nAfVupmteRMDCPnx5), [Joe Russell](https://open.spotify.com/artist/4vXOxRMidWplwRVuEf5Bgo) | [No Frills](https://open.spotify.com/album/7fYwACZdlTIJWc0rJNnXnD) | 4:24 | 2022-01-21 |  |

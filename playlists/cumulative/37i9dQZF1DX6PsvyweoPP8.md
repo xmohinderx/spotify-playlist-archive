@@ -4,13 +4,13 @@
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-71 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/4rU0SGAH9zhIFDqKgDDJgY)
+71 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/4rU0SGAH9zhIFDqKgDDJgY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10Min](https://open.spotify.com/track/4o7Eankd4tED31C2Bkw3U3) | [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P), [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Thomaz](https://open.spotify.com/artist/2Y9JJi5tsqEFAzr1NY9Mag) | [10Min](https://open.spotify.com/album/3kqgJR1MqCuziuY65f5XaK) | 2:52 | 2022-03-18 |  |
 | [2 Minutos](https://open.spotify.com/track/3bZZd8qlz5WhRkxXfKxsw2) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX) | [2 Minutos](https://open.spotify.com/album/5DPRUTrk79KG5HMKmsl6XQ) | 3:35 | 2022-03-18 |  |
-| [3am](https://open.spotify.com/track/74ApTVJtZx6Eq2YI7FwRYA) | [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [3am](https://open.spotify.com/album/4rNZcmAi0bjWSTKqRMjIXn) | 0:29 | 2022-03-18 |  |
+| [3am](https://open.spotify.com/track/74ApTVJtZx6Eq2YI7FwRYA) | [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [3am](https://open.spotify.com/album/4rNZcmAi0bjWSTKqRMjIXn) | 3:32 | 2022-03-18 |  |
 | [Acende o Isqueiro](https://open.spotify.com/track/1DdEU9f7uXklMx6Dm0Mdwq) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic) | [Acende o Isqueiro](https://open.spotify.com/album/141vLpxhW08k1udBJoTW1r) | 3:27 | 2022-03-18 |  |
 | [Amor Bandido 2](https://open.spotify.com/track/68oLX8URC7McGqhuZZej6q) | [Dan Lellis](https://open.spotify.com/artist/7Jp5Nw7cNZTkwFgJX06Cqk) | [DDD61 \(Despedida do Dan\)](https://open.spotify.com/album/5WQEMD9nJazCJ7xEUAhtv5) | 3:35 | 2022-03-18 | 2022-05-28 |
 | [Apaga a Luz](https://open.spotify.com/track/7kvIWyx7Jun0uEzTtQlLPj) | [Khauan](https://open.spotify.com/artist/7nbtGMD04rSRQSFwTZrPfx), [Jayy](https://open.spotify.com/artist/2YXlo4oLmS4JhncjEDHNdc) | [Apaga a Luz](https://open.spotify.com/album/2bx5mPk3d2GT4QzaiB9Cg0) | 2:34 | 2022-03-18 |  |

@@ -4,7 +4,7 @@
 
 > This playlist is perfect for when you've got a fever..\. and the only prescription is more banjo!
 
-37 songs - 2 hr 4 min - [published](https://open.spotify.com/playlist/7rUIVYAViY0wltRYMwNU1O)
+37 songs - 2 hr 6 min - [published](https://open.spotify.com/playlist/7rUIVYAViY0wltRYMwNU1O)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Devil's Spoke](https://open.spotify.com/track/4juAgY220gZ7YZ2ECX49tW) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [I Speak Because I Can](https://open.spotify.com/album/2OBWLdVGBOOHSV6LCyzfdQ) | 3:38 | 2014-09-23 |  |
 | [Down in the Valley](https://open.spotify.com/track/5Gtn8HgCAo0TUiaKKgP6us) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF) | 5:03 | 2014-09-23 |  |
 | [Ebb & Flow](https://open.spotify.com/track/4zC2HgUsuIxn2OS8e9PUVy) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Salt For Salt](https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC) | 2:25 | 2014-09-23 |  |
-| [Fall On My Knees](https://open.spotify.com/track/3KfbOr4e59w9vxmoIH23On) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Down Home Girl \- EP](https://open.spotify.com/album/7viKmi3CRdgPBUKaUi6MXh) | 0:29 | 2014-09-23 |  |
+| [Fall On My Knees](https://open.spotify.com/track/3KfbOr4e59w9vxmoIH23On) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Down Home Girl \- EP](https://open.spotify.com/album/7viKmi3CRdgPBUKaUi6MXh) | 2:14 | 2014-09-23 |  |
 | [For the Widows in Paradise, For the Fatherless in Ypsilanti](https://open.spotify.com/track/2vlAtG8OJdg8XW3Gh8CCZ2) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Michigan](https://open.spotify.com/album/3plkEj2U2OQGOXwbxRmmrl) | 3:57 | 2014-09-23 |  |
 | [Gracefully Facedown](https://open.spotify.com/track/1Ppn5e9ounSzQ0ucVlfkRM) | [The Devil Makes Three](https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte) | [Do Wrong Right](https://open.spotify.com/album/0fMFnSJdL2B63PYbpIAbrz) | 4:11 | 2014-09-23 |  |
 | [Hatchlings](https://open.spotify.com/track/1Lyx35A2tc1ctmt8jX2JeK) | [Emily Portman](https://open.spotify.com/artist/54AJMblioei5X7hlGg4U9K) | [Hatchling](https://open.spotify.com/album/7GvQJoASjgWs3bX8tuA8TT) | 4:19 | 2014-09-23 |  |

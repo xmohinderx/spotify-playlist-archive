@@ -2,9 +2,9 @@
 
 ### [Folk & Friends](https://open.spotify.com/playlist/37i9dQZF1DWWv6MSZULLBi)
 
-> A laid\-back trip in the folk scene\. Cover: Caamp
+> A laid\-back trip in the folk scene\. Cover: Ten Kills the Pack
 
-128 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
+136 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,8 @@
 | [Annie](https://open.spotify.com/track/4cbwJEhIBM7WSn73X63Vgj) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Years](https://open.spotify.com/album/7zcCuIj4uZhrx1WfPfe9Gx) | 3:07 | 2022-05-13 |  |
 | [Answers](https://open.spotify.com/track/3P6fiFnHTkaryP2WmwV6Ch) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Answers](https://open.spotify.com/album/4fGYs2TDBA1LzQEDIc0C4a) | 2:47 | 2022-05-13 |  |
 | [Armour](https://open.spotify.com/track/4Oo5MkhMfWTSjh58tZB898) | [Royal Wood](https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc) | [Armour](https://open.spotify.com/album/6FSGKvGRDmBSGmhfSmVEh8) | 3:13 | 2022-06-29 |  |
+| [Baby, You Know](https://open.spotify.com/track/4t5wDXWX3BwwgkqzdYieH3) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Baby, You Know](https://open.spotify.com/album/330iEZ1HuQ1ghRg53B0xog) | 3:02 | 2022-07-01 |  |
+| [Bandages](https://open.spotify.com/track/32z65nCDfiHwd7Ly1AyN2t) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Bandages](https://open.spotify.com/album/7qUzSfHicu7sV7EIflvMtR) | 2:54 | 2022-07-01 |  |
 | [Bathroom Light](https://open.spotify.com/track/71glNHT4FultOqlau4zrFf) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Bathroom Light](https://open.spotify.com/album/2lwaQXJpfIPNduWAN7w0vu) | 3:08 | 2022-06-03 |  |
 | [Beautifully Black](https://open.spotify.com/track/0EgaO4boPVHe3Kk1sNUdMB) | [Rahael](https://open.spotify.com/artist/3oldP3klCA3xONdq9IW6YJ) | [Beautifully Black](https://open.spotify.com/album/74Ps9MKdrjQwRHY4rryHCG) | 3:05 | 2022-05-13 | 2022-06-11 |
 | [Begin Again](https://open.spotify.com/track/02TKEQYD6jLEB0cYpBflFE) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Begin Again](https://open.spotify.com/album/5XSgaLPBoAAno2FwKhaIHl) | 3:19 | 2022-05-13 |  |
@@ -39,7 +41,7 @@
 | [Echo](https://open.spotify.com/track/0XuSeDzApPW3VEeMM2G4ei) | [Alysha Brilla](https://open.spotify.com/artist/72McluarQZqpzSS95goQ0Q) | [Echo](https://open.spotify.com/album/4IF5F9A68n96gZd9uJTY7A) | 2:34 | 2022-06-10 |  |
 | [EMPATHY 4 BETHANY](https://open.spotify.com/track/6Ly65M250uqDVZfj2Z0LdH) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [EMPATHY 4 BETHANY / GREEN APPLE \(EVERY NIGHT I RIDE NIGHT MARES\)](https://open.spotify.com/album/6sQW60NQvtOAjWhysIEO8q) | 4:54 | 2022-05-27 |  |
 | [Endless Time](https://open.spotify.com/track/1JS1QZwFXKVCdJPxoUAwrl) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [How Is It That I Should Look At The Stars](https://open.spotify.com/album/6GgHy26g1ILOtU9hkrHbLb) | 4:20 | 2022-05-13 | 2022-06-04 |
-| [Every Shade of Blue](https://open.spotify.com/track/1cKWyEiGWLXAUTz6jI1d7c) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Every Shade of Blue](https://open.spotify.com/album/4ee1hU8IWOpRMN7GNjZ4Nf) | 0:29 | 2022-05-13 |  |
+| [Every Shade of Blue](https://open.spotify.com/track/1cKWyEiGWLXAUTz6jI1d7c) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Every Shade of Blue](https://open.spotify.com/album/4ee1hU8IWOpRMN7GNjZ4Nf) | 3:33 | 2022-05-13 |  |
 | [Fables \- The Garden Version](https://open.spotify.com/track/3jLVtU8Sm0cyiVHWFENICL) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Fables \(The Garden Version\)](https://open.spotify.com/album/38uDEzlrOXkLtPfRz0zX5s) | 2:56 | 2022-05-13 |  |
 | [Fast Car](https://open.spotify.com/track/6oSkiBsy0ruE8uhdBLybNB) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Fast Car](https://open.spotify.com/album/7tCmNKU1tMnDLNCqcfMvTD) | 2:15 | 2022-05-13 |  |
 | [Fatal Line](https://open.spotify.com/track/6JAQKyDivpPVulL0K6J6zo) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 3:01 | 2022-05-13 |  |
@@ -55,6 +57,7 @@
 | [I Lied](https://open.spotify.com/track/0LwMEbqobYWjhwMpYaFWpM) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Long Lost](https://open.spotify.com/album/48nTl6TmV8hS2x8MCQlUbm) | 3:54 | 2022-05-13 | 2022-05-28 |
 | [I Loved You Then \(And I Love You Still\)](https://open.spotify.com/track/5dWTDZf56Aw4e0JGhRWma8) | [Woodlock](https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa) | [I Loved You Then](https://open.spotify.com/album/1Yd60KMmi6HeDL404WVqaz) | 2:38 | 2022-05-13 | 2022-05-20 |
 | [I'd Have to Think About It](https://open.spotify.com/track/50lUr1G0TYol01m2RlqPzZ) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I'd Have to Think About It](https://open.spotify.com/album/0wfdQFjAZI2tJ506KTGnbY) | 2:30 | 2022-05-13 | 2022-06-30 |
+| [iknowiknow](https://open.spotify.com/track/2eawTHlYcv1LilpGnV3VOe) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [iknowiknow](https://open.spotify.com/album/1YvMLexPYivqu5NqAffK4n) | 2:10 | 2022-07-01 |  |
 | [In 40 Years](https://open.spotify.com/track/0emj2UaC4T1mOGs7duFy01) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [In 40 Years](https://open.spotify.com/album/5WOd2d1WlsHFywLl927fRz) | 3:03 | 2022-06-24 |  |
 | [In Your Corner \(For Scott Hutchison\)](https://open.spotify.com/track/7bWoSTEWfg97lxGoByeyYH) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [In Your Corner \(For Scott Hutchison\)](https://open.spotify.com/album/481cy5V3RYhcCCLaaB2mav) | 3:16 | 2022-05-13 |  |
 | [It Ain't Me](https://open.spotify.com/track/1ngOAftE7NfyGtfy5Fv3el) | [Wayley](https://open.spotify.com/artist/4veqtAYLEOwcd5osGcwmE3) | [It Ain't Me](https://open.spotify.com/album/1jYLdSozplK2eI9fHLi2Gf) | 3:37 | 2022-05-13 |  |
@@ -65,6 +68,7 @@
 | [Left Behind](https://open.spotify.com/track/1YtdAhBzYibqmqc6uILz8w) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [Adjustments](https://open.spotify.com/album/4yUmdXZO5MItU75tgCDdaA) | 3:37 | 2022-06-24 |  |
 | [Let Go](https://open.spotify.com/track/6C4iAGKybEdevddZklaxpX) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Let Go](https://open.spotify.com/album/24lCE3skRS14egP6xhAIjr) | 3:02 | 2022-05-13 |  |
 | [Let Me Drown](https://open.spotify.com/track/62hBYWGwzo2fb4THTsNnKA) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 3:19 | 2022-05-13 |  |
+| [Lost In The Water](https://open.spotify.com/track/3sW1rJ2twqyUKXu5iHqgGK) | [Adam Wendler](https://open.spotify.com/artist/3ea4XDPCrAm68rpImApb94) | [Lost In The Water](https://open.spotify.com/album/5nG0Wogo87eozwXnKHjXJ4) | 3:10 | 2022-07-01 |  |
 | [Lotusland](https://open.spotify.com/track/3sK6qdQsZvPjRkua3UrSGD) | [Jordan Klassen](https://open.spotify.com/artist/70QS2gTlkKW2rNjlmMBNp8) | [Glossolalia](https://open.spotify.com/album/66hCqmyDrUMjZrooeuG1PM) | 3:21 | 2022-05-13 |  |
 | [Love Is Selfish](https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Love Is Selfish](https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A) | 2:52 | 2022-05-13 |  |
 | [Midnight Man](https://open.spotify.com/track/5HyUsFzJ06qWYKW54KGw97) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [Midnight Man](https://open.spotify.com/album/5Xhlkgcl7indPnmlVpQR12) | 3:09 | 2022-05-13 |  |
@@ -72,7 +76,7 @@
 | [Miserable Man](https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Miserable Man](https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4) | 3:52 | 2022-05-13 |  |
 | [Monica](https://open.spotify.com/track/5CtJFkJ5IPpqKgqaV9KuxL) | [Dom Louis](https://open.spotify.com/artist/13vGPMHjEc5xzTS1utb4Ph) | [Monica](https://open.spotify.com/album/6g94kYUfexRH2MUcgYQHmr) | 3:43 | 2022-05-13 | 2022-05-28 |
 | [My Ego Dies At The End](https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [My Ego Dies At The End](https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8) | 4:02 | 2022-05-13 |  |
-| [My Everything](https://open.spotify.com/track/3R7HVKI87LEglZelj5qLxI) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [My Everything](https://open.spotify.com/album/5FTKbBum46H9nCNmqzQzGE) | 3:14 | 2022-05-20 |  |
+| [My Everything](https://open.spotify.com/track/3R7HVKI87LEglZelj5qLxI) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [My Everything](https://open.spotify.com/album/5FTKbBum46H9nCNmqzQzGE) | 3:14 | 2022-05-20 | 2022-07-02 |
 | [My Mind](https://open.spotify.com/track/3kxGvXqQDSOTo2KC6bEHNF) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [My Mind](https://open.spotify.com/album/2Y204wp0ouq1A83CBnnKtz) | 3:22 | 2022-05-13 |  |
 | [My Mother's Hand](https://open.spotify.com/track/0yVQ329gUPO2f51IUDCwy2) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [My Mother's Hand](https://open.spotify.com/album/23QAp4ByfojrrcTE7E6KzJ) | 3:40 | 2022-05-13 |  |
 | [Never Been More In Love](https://open.spotify.com/track/0JTJ51CWvZSyPdtVYgG5o6) | [Ashley Jane](https://open.spotify.com/artist/5kiSvzjHG8z4UOpC6FAehk) | [Never Been More In Love](https://open.spotify.com/album/0eQEOoFPiaBxLK49FioYwM) | 3:57 | 2022-05-27 |  |
@@ -81,9 +85,12 @@
 | [October Birds](https://open.spotify.com/track/23WVcYeTP5SUoOB7oXb32j) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [October Birds](https://open.spotify.com/album/2ttBuqxGYwwTHIK9XWUbtr) | 3:01 | 2022-05-13 |  |
 | [On the Edge](https://open.spotify.com/track/7G5kS3Z1uzgUZlVv6kGhDw) | [Zackery](https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc) | [On the Edge](https://open.spotify.com/album/2LEAHem1o9t6AzAxVbMRja) | 2:40 | 2022-05-13 |  |
 | [One Step Ahead](https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [One Step Ahead](https://open.spotify.com/album/1CnJ8xFUzWfQUS6MhAkZNt) | 3:11 | 2022-05-13 |  |
+| [Paper Moth Flame](https://open.spotify.com/track/7Hi5HKcidYR1EdqIKLnVq1) | [Elissa Mielke](https://open.spotify.com/artist/0pu3ESGhCGupolNCwxDCOw) | [Paper Moth Flame](https://open.spotify.com/album/0RnFXtW6Xaz4S6AQSdmdaZ) | 3:30 | 2022-07-01 |  |
 | [Part of Me](https://open.spotify.com/track/2Ru68Iv4ZT40sjxPB2XuSb) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Part of Me](https://open.spotify.com/album/67U9k8R3snre8EAnLbt7o0) | 3:43 | 2022-05-13 |  |
+| [people like me](https://open.spotify.com/track/1UMchpMJZ3ZAQhJCsLnF3Q) | [Wander All Winter.](https://open.spotify.com/artist/0s6YDxpGpZ3UltZhGEYEJm), [Alexa Cirri](https://open.spotify.com/artist/0jitaHotzcSiJNkm4amOOr) | [home](https://open.spotify.com/album/5R8j37bgQQzpvP1aaURZ4u) | 3:50 | 2022-07-01 |  |
 | [People Like You](https://open.spotify.com/track/3UqBPBdzqlSSjsHBVNmXL3) | [Charissa](https://open.spotify.com/artist/2mA5aOUA0aNvFIzBKE1iTc) | [People Like You](https://open.spotify.com/album/74fFc4s6XhBplUTuYEDJg7) | 3:04 | 2022-05-13 |  |
 | [Phantom](https://open.spotify.com/track/2fq4SiCvhv8NrLnxeNa8l9) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal \(10th Anniversary Edition\)](https://open.spotify.com/album/3BNRyWlVJZWjakfP0ybfhB) | 4:42 | 2022-05-13 |  |
+| [Pictures](https://open.spotify.com/track/7cvElcxrvUMyYi5LS5rF5o) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Pictures](https://open.spotify.com/album/18CLAx0OMzkMDXpd3osLod) | 3:16 | 2022-07-01 |  |
 | [Provincetown](https://open.spotify.com/track/5i9Ir9R83xVrIh5PNYmDl8) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 4:10 | 2022-05-13 |  |
 | [Rivers Underground](https://open.spotify.com/track/3LYMan3y4v8iZLUqvwOXdJ) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [Rivers Underground](https://open.spotify.com/album/1EeLU0ZjBdR8RdwsSxWTrM) | 6:34 | 2022-05-13 | 2022-06-25 |
 | [Robin](https://open.spotify.com/track/5Ma2vRYotanVRTZuhOguZM) | [Genesis Ritchot](https://open.spotify.com/artist/3G7RNCad1xTbtGy4GYMZhm) | [Robin](https://open.spotify.com/album/68LVD0utr1na8Y0NOyH2h0) | 3:22 | 2022-05-13 |  |
@@ -104,6 +111,7 @@
 | [Sous](https://open.spotify.com/track/1QLIRpQ1hefPg79G8SIUWS) | [Okay Mann](https://open.spotify.com/artist/40LzaNxYeMt3RVPw6dHJRy) | [Sous](https://open.spotify.com/album/2RsaZIxP04R2bqRorEXEHZ) | 3:10 | 2022-05-13 | 2022-06-25 |
 | [Star](https://open.spotify.com/track/6OpUywbnvtDyCpgsv8FBdT) | [Clay Orange](https://open.spotify.com/artist/2FICqqKkeglWrQwrIqG5r7) | [Star](https://open.spotify.com/album/7LuB2Eyyz5Oj6RpX0fLinQ) | 3:42 | 2022-05-13 |  |
 | [Steady Hands](https://open.spotify.com/track/2xh0XApnMqcRdTeDhTnNIb) | [Jillian Lake](https://open.spotify.com/artist/1VBiXsCfOgQzy8uxyhCnPY) | [Steady Hands](https://open.spotify.com/album/0WOARW08YKazgcu8LPL4bg) | 2:45 | 2022-05-13 |  |
+| [Still Up Late](https://open.spotify.com/track/6UKwfhGhfYwHYRixMuHobY) | [Ten Kills the Pack](https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l) | [Still Up Late](https://open.spotify.com/album/00OJ79Opv0VIdznPhueG6R) | 2:51 | 2022-07-01 |  |
 | [Stir the Ashes](https://open.spotify.com/track/3mdchH0HaDSPa3bK6DUlsu) | [iskwē](https://open.spotify.com/artist/31flUlPgtGjDz3WL9hn420), [Tom Wilson](https://open.spotify.com/artist/5yC7xvjGxlXLUTzmrmprLu) | [Stir the Ashes](https://open.spotify.com/album/23gdrtXeUIHbVcffDGYDD7) | 2:52 | 2022-06-10 |  |
 | [Stop A Heart](https://open.spotify.com/track/5WPMwhD9u8THuItYQFhggn) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [Stop A Heart](https://open.spotify.com/album/5Q5MxnYdlBCOhJWstXFyGJ) | 2:53 | 2022-05-13 | 2022-06-11 |
 | [Stubborn Heart](https://open.spotify.com/track/6CuaS0ZrVqMafHACp8YdJ5) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Sidelines](https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP) | 2:39 | 2022-05-13 |  |

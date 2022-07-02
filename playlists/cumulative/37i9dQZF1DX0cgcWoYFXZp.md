@@ -4,7 +4,7 @@
 
 > Cruise through Japanese “Neo” City Pop from the ’00s./ 渋谷系の系譜から、ボーダーレスに多様化に向かっていった’00年代。ネオ・シティポップ新時代の波はすぐそこに。
 
-50 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/5yyWojYBZhg2uafZai4AOr)
+50 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/5yyWojYBZhg2uafZai4AOr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [太陽の逃亡者](https://open.spotify.com/track/7EQ7VERVM2ybwZ2Ecq3Kd4) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU), [Takao Tajima](https://open.spotify.com/artist/3SH8KJyDPMZZz7kqAm41NV) | [VIVA! 6x7](https://open.spotify.com/album/4f4fIIv5TSpPuHBWa9Fy7J) | 4:27 | 2021-08-01 |  |
 | [小麦色のマーメイド](https://open.spotify.com/track/5gcFA0NZLvLeRW7BY7eqZF) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Summerin'](https://open.spotify.com/album/6L6yRvmmoGMQubMeYBPWLi) | 3:26 | 2021-08-01 |  |
 | [微笑みのひと](https://open.spotify.com/track/5lcTuZBBsRIzquCxCOoeJg) | [Miki Imai](https://open.spotify.com/artist/64Y8hjY7esLUC8ucjtHYwZ) | [Pearl](https://open.spotify.com/album/39ATuRqjwAb6MJOkqMSAJs) | 4:08 | 2021-08-01 |  |
-| [恋の彗星](https://open.spotify.com/track/32uA7XyuewkwLIdTsq4Er0) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [踊る太陽](https://open.spotify.com/album/0VlNJhtDkqaGe6BNcFVMzC) | 0:29 | 2021-08-01 |  |
+| [恋の彗星](https://open.spotify.com/track/32uA7XyuewkwLIdTsq4Er0) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [踊る太陽](https://open.spotify.com/album/0VlNJhtDkqaGe6BNcFVMzC) | 4:33 | 2021-08-01 |  |
 | [星降らない夜](https://open.spotify.com/track/6CI7HfVKIr9RdS8w4SOx95) | [Sing Like Talking](https://open.spotify.com/artist/6XrphHC917hKfMIzHW6Bsq), [Misako Odani](https://open.spotify.com/artist/1qyvDpymTYPpF5iguflCMT) | [RENASCENCE](https://open.spotify.com/album/6NXUqXrL6U54xbkqGxoMMc) | 5:24 | 2021-08-01 |  |
 | [春雨道中](https://open.spotify.com/track/3PQsf3jCUw9lGXuP3zC0OJ) | [Mamalaid Rag](https://open.spotify.com/artist/112Zt20SrWrXOrzlV2IzjJ) | [春雨道中](https://open.spotify.com/album/24yetVma2PeUIVqAwl8sqP) | 4:37 | 2021-08-01 |  |
 | [最終列車は25時](https://open.spotify.com/track/0hXjQnyGcdr0b1TNEsZiCb) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [恋人へ](https://open.spotify.com/album/6WgMpBZ44zDNKIlVPbjrwn) | 4:23 | 2021-08-01 |  |

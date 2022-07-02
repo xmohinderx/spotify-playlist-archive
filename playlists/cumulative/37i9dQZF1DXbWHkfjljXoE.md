@@ -4,7 +4,7 @@
 
 > Remembering the voices that have always spoken truth to power.
 
-41 songs - 3 hr 44 min - [published](https://open.spotify.com/playlist/7vAfmpBAVQyXweFVmlW8iX)
+41 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/7vAfmpBAVQyXweFVmlW8iX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Mystery of Iniquity \- Live](https://open.spotify.com/track/5KZwRD3KklSP73jnLoNWtF) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [MTV Unplugged No\. 2.0](https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM) | 5:10 | 2021-04-16 |  |
 | [On Becoming An Activist](https://open.spotify.com/track/0lyAZ6lmJKcmJRZGDxGAaw) | [Angela Davis](https://open.spotify.com/artist/4LsP9Fcfyln6GOh8GwYDkT) | [The Prison Industrial Complex](https://open.spotify.com/album/4CAWyoeSPevGr4NyTD9U3U) | 3:36 | 2021-04-16 |  |
 | [Oprah 75th Golden Globes Cecil B\. DeMille Award Acceptance Speech](https://open.spotify.com/track/1xGn1kNBQe21ZDBiQ8igBJ) | [Oprah Winfrey](https://open.spotify.com/artist/1pzHHVOWwwvu4IPWVle6RW) | [75th Golden Globes](https://open.spotify.com/album/0qkgX98Mjgslj9ycSEh8Ed) | 8:24 | 2021-04-16 |  |
-| [Part 2](https://open.spotify.com/track/3SwfHDQDlR0n4JnvvUqrOj) | [Marcus Garvey](https://open.spotify.com/artist/2aTAfW8erTD8F50nnhKZmD) | [The Great Black Nationalist](https://open.spotify.com/album/1vO6OhN5zuyLk4pEyPJDAD) | 0:29 | 2021-04-16 |  |
+| [Part 2](https://open.spotify.com/track/3SwfHDQDlR0n4JnvvUqrOj) | [Marcus Garvey](https://open.spotify.com/artist/2aTAfW8erTD8F50nnhKZmD) | [The Great Black Nationalist](https://open.spotify.com/album/1vO6OhN5zuyLk4pEyPJDAD) | 7:17 | 2021-04-16 |  |
 | [Power to the People](https://open.spotify.com/track/6WIWwePtXmO2ECop98cNgy) | [Eldridge Cleaver](https://open.spotify.com/artist/6nxhRvqz0JgSi5oBxqHILh) | [Live At Syracuse, 1968](https://open.spotify.com/album/7GCsvxac90RKJ2DQm6SFYY) | 7:36 | 2021-04-16 |  |
 | [Racism & Injustice](https://open.spotify.com/track/2ZDKBAhNLp2ZhXWDLEXUF1) | [Martin Luther King, Jr.](https://open.spotify.com/artist/4lWl4G5wgAH9i3GwumUDkB) | [Racism And Injustice](https://open.spotify.com/album/1VppqDl97hTheqLvKO2Y2T) | 4:20 | 2021-04-16 |  |
 | [Revolutionary Culture](https://open.spotify.com/track/1HxcfKjWfe3oZGwJy82cs8) | [Huey P\. Newton](https://open.spotify.com/artist/2SMi8AArIjUwlhY9TVxkZ7) | [Huey Newton Speaks](https://open.spotify.com/album/4yOtfYeRNDMJ3RRTWZAQnN) | 6:28 | 2021-04-16 |  |

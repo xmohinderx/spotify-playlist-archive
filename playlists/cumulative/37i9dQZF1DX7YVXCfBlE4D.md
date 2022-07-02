@@ -4,7 +4,7 @@
 
 > Deja que tu corazón se rinda ante la música romántica de antaño.
 
-255 songs - 12 hr 27 min - [published](https://open.spotify.com/playlist/397jGpRsbRdsmrqQjQPUxi)
+255 songs - 12 hr 31 min - [published](https://open.spotify.com/playlist/397jGpRsbRdsmrqQjQPUxi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Amor de Cabaret](https://open.spotify.com/track/6uZkEJ50i02zAePs6ixIMC) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [La Guapachosa Sonora Santanera](https://open.spotify.com/album/57zQXzK66UwTjNGz6abdjS) | 2:57 | 2021-05-15 |  |
 | [Amor de Mis Amores \- Remasterizado](https://open.spotify.com/track/41vLJe422IYKU1zkuXY7iN) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [20 Auténticos Éxitos Originales \- Agustín Lara](https://open.spotify.com/album/6H3uJxjt9N3kjwjwpYOtof) | 3:00 | 2021-05-15 |  |
 | [Amor Perdido](https://open.spotify.com/track/2iPmBU3IIXPD5cQ4z0sxXb) | [Maria Luisa Landin](https://open.spotify.com/artist/6xwRfnFKMKRoHL8LuLNBpf) | [Las Estrellas De La Hora Azul](https://open.spotify.com/album/2dysWYVNIqgxZyV6NipkLh) | 3:14 | 2021-05-15 |  |
-| [Amor Que Malo Eres](https://open.spotify.com/track/4Xwg1xbEg5Dx4N3PMEisKQ) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Amor Que Malo Eres](https://open.spotify.com/album/1OKUKlhIVJwedZcUkrBcBB) | 0:29 | 2021-05-15 |  |
+| [Amor Que Malo Eres](https://open.spotify.com/track/4Xwg1xbEg5Dx4N3PMEisKQ) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Amor Que Malo Eres](https://open.spotify.com/album/1OKUKlhIVJwedZcUkrBcBB) | 2:36 | 2021-05-15 |  |
 | [Amor Que Malo Eres](https://open.spotify.com/track/3UALUQSEr7cIp3yjnPCMVe) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Boleros In Trío](https://open.spotify.com/album/6Q5WjwqD0rXwSlU5fuw0O7) | 2:37 | 2021-05-15 | 2022-01-22 |
 | [Ansia](https://open.spotify.com/track/6KrX3IfuPmsw2j7QNGglzG) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 3:06 | 2021-05-15 |  |
 | [Aquellos Ojos Verdes](https://open.spotify.com/track/340Qeg5Z8kGkMlJ8u6DL4D) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D) | [Ibrahim Ferrer \(Buena Vista Social Club presents\)](https://open.spotify.com/album/27HNh1cyB39ERqdpSjM2i1) | 4:54 | 2021-05-15 |  |
@@ -106,8 +106,8 @@
 | [Historia De Un Amor](https://open.spotify.com/track/7BHjsEyxagVzLibURml7p6) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Historia De Un Amor](https://open.spotify.com/album/0sy6MHUDULpCcN5rTlwPIg) | 3:06 | 2021-05-15 |  |
 | [Historia de un Amor](https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY) | [Leo Marini](https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Latin Trumpets \- Bolero](https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K) | 2:48 | 2021-05-15 | 2022-01-22 |
 | [Hola Soledad](https://open.spotify.com/track/58grdOcf8LLqCTMqkYB4ni) | [Rolando Laserie](https://open.spotify.com/artist/6uMKHBVEnY2FWZVujFGYf5) | [Homenaje Postumo](https://open.spotify.com/album/2qSMNUJCSanfO2ANcbcRoS) | 2:51 | 2021-05-15 |  |
-| [Inolvidable](https://open.spotify.com/track/3sZMQJtTOUvqRubANvforI) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [Boleros Del Ayer](https://open.spotify.com/album/5k2QZxc37qPFP0rhfRjgNJ) | 3:13 | 2021-05-15 |  |
-| [Inolvidable](https://open.spotify.com/track/0lQU56BKMYPNugZD74Oe4x) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [15 Inolvidables Exitos](https://open.spotify.com/album/4QDmGzIIdGibZKrxbUfeDm) | 3:13 | 2022-01-21 | 2022-07-01 |
+| [Inolvidable](https://open.spotify.com/track/3sZMQJtTOUvqRubANvforI) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [Boleros Del Ayer](https://open.spotify.com/album/5k2QZxc37qPFP0rhfRjgNJ) | 3:13 | 2021-05-15 | 2022-07-02 |
+| [Inolvidable](https://open.spotify.com/track/0lQU56BKMYPNugZD74Oe4x) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [15 Inolvidables Exitos](https://open.spotify.com/album/4QDmGzIIdGibZKrxbUfeDm) | 3:13 | 2022-01-21 |  |
 | [Jacaranda](https://open.spotify.com/track/2hRVeyoTKWxUnSsOS2xge3) | [Los Santos](https://open.spotify.com/artist/2yecGImQIcTzSN0nh6BHcI) | [Los Santos](https://open.spotify.com/album/55V3MJmvS6WOl6ZxEseAbA) | 2:56 | 2021-05-15 | 2022-01-22 |
 | [La Barca](https://open.spotify.com/track/09rx2OvihPD8lCeC1MKw2p) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Los Tres Caballeros](https://open.spotify.com/album/23b1jZJyfKP9IZeCcpbjiV) | 3:17 | 2021-05-15 | 2022-01-22 |
 | [La Consentida](https://open.spotify.com/track/5gVHtoux61H8WpJHS8lIP1) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [La Consentida](https://open.spotify.com/album/6DXALbPNgKm6YOUYeksMkL) | 2:05 | 2021-05-15 |  |
@@ -158,7 +158,7 @@
 | [No Me Platiques Mas](https://open.spotify.com/track/3GIgOOrpY7SRTXufiOYHsl) | [Lucho Gatica](https://open.spotify.com/artist/4LCEJ7K3OmivUPkYYH9iZK) | [Por Siempre Boleros](https://open.spotify.com/album/1fs3KzLeD3gelqjyW9XZeh) | 3:12 | 2021-05-15 |  |
 | [No Me Platiques Ya](https://open.spotify.com/track/11XewRcCioJMftI9Ayj3Kf) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Los Tres Ases](https://open.spotify.com/album/3qQNIEw5zY5NOpgTNAVhZJ) | 2:53 | 2021-05-15 | 2022-01-22 |
 | [No vuelvo contigo](https://open.spotify.com/track/3mvTuk8kQW3sAP3kSXJov0) | [Martha Triana](https://open.spotify.com/artist/2yrWpGwML5NXC2b69g64xK) | [Antología ...Boleros\*](https://open.spotify.com/album/4hrLWzDuaYiKlQeExrmjVP) | 2:52 | 2022-01-21 |  |
-| [Noche de ronda \- Remastered](https://open.spotify.com/track/4GmB6Lu69s3SlVLmNfjbby) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Noche de Ronda \(Remastered\)](https://open.spotify.com/album/5pzenVChYMh4Ukkf8R9pM4) | 0:29 | 2021-05-15 |  |
+| [Noche de ronda \- Remastered](https://open.spotify.com/track/4GmB6Lu69s3SlVLmNfjbby) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Noche de Ronda \(Remastered\)](https://open.spotify.com/album/5pzenVChYMh4Ukkf8R9pM4) | 2:17 | 2021-05-15 |  |
 | [Noche de Ronda \- Remasterizado](https://open.spotify.com/track/6TZ4ordnW04k8I2Be4vqc8) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [20 Auténticos Éxitos Originales \- Agustín Lara](https://open.spotify.com/album/6H3uJxjt9N3kjwjwpYOtof) | 3:30 | 2021-05-15 |  |
 | [Noche Negra](https://open.spotify.com/track/0jm4wpiCZy3wXupv0IAXrN) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Noche Negra](https://open.spotify.com/album/5FuPvDHLQTr3eaxl2r9PCE) | 1:59 | 2021-05-15 |  |
 | [Noche No Te Vayas](https://open.spotify.com/track/4wT0r729o0vloZ1DZBKzNE) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Cubana](https://open.spotify.com/album/7hP4oDamAlwpL9ELVUjNLt) | 2:58 | 2021-05-15 | 2022-01-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 
 > The best music from one of the greatest jazz labels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,540 likes - 101 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,611 likes - 101 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 | 81 | [2300 Skiddoo](https://open.spotify.com/track/65YLG03j69WO4jpnslcjgs) | [Herbie Nichols](https://open.spotify.com/artist/65kzYsVfMR2mJPPUmIYehi) | [The Complete Blue Note Recordings Of Herbie Nichols](https://open.spotify.com/album/0aLoFT88EQEjIaxLrCxphg) | 4:43 |
 | 82 | [New Monastery \- Rudy Van Gelder Edition/1999 Remaster](https://open.spotify.com/track/5K6jQyCr2sxKMvcBLI6Zfv) | [Andrew Hill](https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy) | [Point Of Departure \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/647o8vl4OD1sjvvhql3jFS) | 7:05 |
 | 83 | [Gangsterism On Canvas](https://open.spotify.com/track/3KVKimpQ2S6X3IZxKbR8ot) | [Jason Moran](https://open.spotify.com/artist/7g3iwvP459BN53F7CDxemI) | [Soundtrack To Human Motion](https://open.spotify.com/album/5DEgkcPpvX1PSNVSbq0PAS) | 4:37 |
-| 84 | [Lifewish](https://open.spotify.com/track/6zU9WvBMEKRcHd7NbjWa1c) | [Renee Rosnes](https://open.spotify.com/artist/7ixjaiJXnC2cxrbIE3WugD) | [Ancestors](https://open.spotify.com/album/2VDTLlEcXLav53hfVkqV5R) | 0:29 |
+| 84 | [Lifewish](https://open.spotify.com/track/6zU9WvBMEKRcHd7NbjWa1c) | [Renee Rosnes](https://open.spotify.com/artist/7ixjaiJXnC2cxrbIE3WugD) | [Ancestors](https://open.spotify.com/album/2VDTLlEcXLav53hfVkqV5R) | 7:33 |
 | 85 | [Don't Explain \- Remastered](https://open.spotify.com/track/62QZvTYmdmEZMIIqwa3vHU) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [A Swingin' Affair](https://open.spotify.com/album/2MDFi0jt8SnjYIFwgtU2Q3) | 6:06 |
 | 86 | [Lotus Flower \- Rudy Van Gelder Edition/2007 Digital Remaster](https://open.spotify.com/track/5LCOngkOEmtgLf0Igfu63k) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Afro\-Cuban \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/6sfAnBHbBbI8Z4NEDpXycZ) | 4:16 |
 | 87 | [Sunday Mornin' \- Digitally Remastered](https://open.spotify.com/track/2sSXpVDd1DbzZaICG6i0FG) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Sunday Mornin'](https://open.spotify.com/album/13kjTNpNB9CkwNIys1M1bG) | 4:01 |

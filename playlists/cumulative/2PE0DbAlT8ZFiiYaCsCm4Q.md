@@ -4,7 +4,7 @@
 
 > 
 
-50 songs - 2 hr 8 min - [published](https://open.spotify.com/playlist/37zGKdHHKOkoKyu7REZ9ws)
+50 songs - 2 hr 10 min - [published](https://open.spotify.com/playlist/37zGKdHHKOkoKyu7REZ9ws)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Burning Bridges](https://open.spotify.com/track/32yB2Ocgc3wRiWuK7CAtJV) | [Jack Scott](https://open.spotify.com/artist/4ucP0bNegd7Q4ewdOKIBfz) | [The Wonderful World of the 50's \- 100 Hit Songs](https://open.spotify.com/album/6WRu7jCqLB1hwyYGURJ6qg) | 2:44 | 2013-06-27 |  |
 | [Cathy's Clown](https://open.spotify.com/track/4L2HVN4gc7fgkbvkSHwgVZ) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Everly Brothers In Concert](https://open.spotify.com/album/1j56s9V1Hqk6REFO27XqLV) | 2:37 | 2013-06-27 |  |
 | [Chain Gang](https://open.spotify.com/track/1sK10Me7qS9em2QTx6dYRe) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:40 | 2013-06-27 |  |
-| [Cradle of Love](https://open.spotify.com/track/4sthCEbCCGaYbEA8V823XB) | [Johnny Preston](https://open.spotify.com/artist/1B8n8vtEeexQ5NKehHTkeo) | [The 60's Collection Vol\. 1](https://open.spotify.com/album/5EaM4QZVCeEMtDkprocmLZ) | 0:29 | 2013-06-27 |  |
+| [Cradle of Love](https://open.spotify.com/track/4sthCEbCCGaYbEA8V823XB) | [Johnny Preston](https://open.spotify.com/artist/1B8n8vtEeexQ5NKehHTkeo) | [The 60's Collection Vol\. 1](https://open.spotify.com/album/5EaM4QZVCeEMtDkprocmLZ) | 2:22 | 2013-06-27 |  |
 | [El Paso](https://open.spotify.com/track/4f8hBeMXMvssn6HtFAtblo) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [Gunfighter Ballads And Trail Songs](https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl) | 4:19 | 2013-06-27 |  |
 | [Everybody's Somebody's Fool](https://open.spotify.com/track/1c76zkDkV61Hw7jybzWuf7) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Mad Men: Betty Draper](https://open.spotify.com/album/2vSDhSZaYa7l7r1ac4Tkgh) | 2:38 | 2013-06-27 |  |
 | [Finger Poppin Time](https://open.spotify.com/track/38mt8WfEdB6S6yB7WUu4iR) | [Hank Ballard](https://open.spotify.com/artist/3R0XvRGDJEL5cGXVLiAbDB) | [Finger Poppin Time](https://open.spotify.com/album/671QFXPHWw9ii2ZvH6ip2Z) | 2:37 | 2013-06-27 |  |

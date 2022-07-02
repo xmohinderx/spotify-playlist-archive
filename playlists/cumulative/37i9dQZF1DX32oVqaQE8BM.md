@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-333 songs - 14 hr 10 min - [published](https://open.spotify.com/playlist/7jgVc9y4snu47roHOSBA7u)
+333 songs - 14 hr 18 min - [published](https://open.spotify.com/playlist/7jgVc9y4snu47roHOSBA7u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Cl3an](https://open.spotify.com/track/6SDm5pj3FJIKtKavxrjU3q) | [Camden Clown](https://open.spotify.com/artist/56yn1U5TaMjH6ENhDdlWfM) | [Cl3an](https://open.spotify.com/album/6MZlHlhLrLUwkCcYbuegSE) | 3:35 | 2022-05-10 |  |
 | [closer to the sun](https://open.spotify.com/track/3wEHw5omffhjUdt6XJh3Lq) | [Lhaw](https://open.spotify.com/artist/3UwfNxtuc0VZg4YniqFgnI) | [closer to the sun](https://open.spotify.com/album/19htATAYZJNwlWREgEYoP2) | 2:19 | 2022-07-01 |  |
 | [Clovers](https://open.spotify.com/track/1msjbtKlPK8arXPqZa8zeZ) | [Dimension 09](https://open.spotify.com/artist/6iuTugq19D6JIxJWQwLlr0) | [Charms](https://open.spotify.com/album/12wz2J41ZvWQrIdDOeoJrg) | 3:12 | 2022-06-10 | 2022-07-01 |
-| [Club Row](https://open.spotify.com/track/09be8fMevpQYEOkuD75eC7) | [Clint Is Quinn](https://open.spotify.com/artist/1utD3S9jRGZPWdNeLuoaOx) | [Club Row](https://open.spotify.com/album/1K9rT7uipaYEjlxDXINrNl) | 0:29 | 2022-01-21 |  |
+| [Club Row](https://open.spotify.com/track/09be8fMevpQYEOkuD75eC7) | [Clint Is Quinn](https://open.spotify.com/artist/1utD3S9jRGZPWdNeLuoaOx) | [Club Row](https://open.spotify.com/album/1K9rT7uipaYEjlxDXINrNl) | 2:26 | 2022-01-21 |  |
 | [coconut milk](https://open.spotify.com/track/5jd5mt4HrrIrBFGZtNqFMd) | [shamgang](https://open.spotify.com/artist/5BfSohdNvmTJkJeo9ksrVh) | [coastal](https://open.spotify.com/album/69vGEggn8CFnHT0aZNQwHS) | 2:22 | 2021-11-10 | 2022-07-01 |
 | [Coffee Stains](https://open.spotify.com/track/7bIsfpQdz9021OFeh9zhYB) | [Lofive](https://open.spotify.com/artist/2MIjUuqUlQPxk995OG41Tq) | [Coffee Stains](https://open.spotify.com/album/5P6CotqB9NZv1WZaKEpP9P) | 2:42 | 2021-11-10 |  |
 | [Come Alive](https://open.spotify.com/track/6EY8GTREw2nQWUR6rkZMqJ) | [Antuigo](https://open.spotify.com/artist/0SIxo5o3Jh1i8IjKtZhjcd) | [Come Alive](https://open.spotify.com/album/70FBJICtGpHQKyUKs1WKHi) | 3:20 | 2021-11-10 |  |
@@ -222,7 +222,7 @@
 | [Pina Colada](https://open.spotify.com/track/5kdAsrSLFycGMkziF7vgNT) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [Pina Colada](https://open.spotify.com/album/3OMdzGnHYTefjOZqzWXefu) | 2:58 | 2022-07-01 |  |
 | [Prayers](https://open.spotify.com/track/3JQxZ1RsHmDp2NYlWFrFWs) | [Cal Credence](https://open.spotify.com/artist/0T64wysQFvIl2GXHa1XRY7) | [Prayers](https://open.spotify.com/album/4xC3jUh93PIE9hcOjFVZ5u) | 3:41 | 2021-11-10 | 2022-02-11 |
 | [Puente Aéreo](https://open.spotify.com/track/6CRnWfWQuBdomKKZELkxtK) | [Senoidal](https://open.spotify.com/artist/6r9s2iVXnrwENfSRUUtxpa) | [Puente Aéreo](https://open.spotify.com/album/66R0udn5QbbdTX6G2z1ODs) | 1:55 | 2022-05-10 |  |
-| [Pulse](https://open.spotify.com/track/4Wei2xM1ylJMPC8m4gS7jb) | [Kripto](https://open.spotify.com/artist/0VdlvJNWbvKfguCf7tdgop) | [Pulse](https://open.spotify.com/album/0qw2Z5e22Ncizew1ilSAX9) | 0:29 | 2021-11-10 |  |
+| [Pulse](https://open.spotify.com/track/4Wei2xM1ylJMPC8m4gS7jb) | [Kripto](https://open.spotify.com/artist/0VdlvJNWbvKfguCf7tdgop) | [Pulse](https://open.spotify.com/album/0qw2Z5e22Ncizew1ilSAX9) | 2:06 | 2021-11-10 |  |
 | [Purple Beach](https://open.spotify.com/track/3zxGVoaYUMzKTVqLYBwUt9) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Purple Beach](https://open.spotify.com/album/3enWSoGm1E6TXXbcPsvsh6) | 3:51 | 2022-05-10 |  |
 | [Quest](https://open.spotify.com/track/5sf0Xc3p18BDmu3oGDqyoP) | [Wishard](https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81) | [Quest](https://open.spotify.com/album/4VTCHFe7m7mgFfMnXxtkTX) | 2:37 | 2021-11-10 |  |
 | [Quiet Waves](https://open.spotify.com/track/0RcmfhNN9ZCP52BbwZX9Zf) | [All Day Island](https://open.spotify.com/artist/6RAO3kyt1fVpFdfPxf8EcD) | [Quiet Waves](https://open.spotify.com/album/1sXlTrDVeXcaOM8WMg5Jd4) | 2:40 | 2021-11-10 | 2022-05-11 |
@@ -277,7 +277,7 @@
 | [spring](https://open.spotify.com/track/6mpcfOpE6QGqRKHlaJuRkP) | [slowseventeen](https://open.spotify.com/artist/09h6Xfv6UuvH9rIjAASA2X) | [spring](https://open.spotify.com/album/3efxXYGDQvWZFTqarrykWX) | 2:23 | 2021-11-10 | 2022-05-20 |
 | [Spring](https://open.spotify.com/track/62aTQ3i94Ho3xlB3sQzouy) | [The Hooder](https://open.spotify.com/artist/2GwSswDcepZ97m3Oa3onEI) | [Spring](https://open.spotify.com/album/7EWq0eegyBShBKHtAgFBak) | 2:43 | 2022-06-03 |  |
 | [Squared](https://open.spotify.com/track/64X7j3lsLdVnh8wkBCuW3E) | [Calvio](https://open.spotify.com/artist/0ERiQMnG5wKxqgyUtJjcM8) | [Squared](https://open.spotify.com/album/37e0iLccpQTmnDVjcjDc9R) | 2:19 | 2022-04-05 |  |
-| [Starstruck](https://open.spotify.com/track/4pduLVGTNsZ3KQUqK36Z2z) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Starstruck](https://open.spotify.com/album/5sYXhwMzCigsbf5LH3dN18) | 0:29 | 2021-11-10 |  |
+| [Starstruck](https://open.spotify.com/track/4pduLVGTNsZ3KQUqK36Z2z) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Starstruck](https://open.spotify.com/album/5sYXhwMzCigsbf5LH3dN18) | 2:22 | 2021-11-10 |  |
 | [stuffin](https://open.spotify.com/track/6mb1iSZnSRH8gFhihPYl0A) | [youefoh](https://open.spotify.com/artist/5lLRYA4wx1a3WcdYiz9vYh) | [stuffin](https://open.spotify.com/album/26T3ADYF16bjYapOZgZaCO) | 2:32 | 2021-11-10 | 2022-05-11 |
 | [Style Stranger](https://open.spotify.com/track/0M33TAxfZialo30HwJUDIj) | [Phresh Milk](https://open.spotify.com/artist/4U5mB170iJgggrvfl1bdCX) | [Style Stranger](https://open.spotify.com/album/746P5Q85sRZMmaMu2oolTa) | 2:19 | 2021-11-10 |  |
 | [Sun Dust](https://open.spotify.com/track/6S62v3zd7j4AA9MwyGdJlS) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Sun Dust](https://open.spotify.com/album/7nMfNR8ZJ7b0dyc6zLz7P4) | 3:32 | 2021-11-10 | 2022-04-15 |
@@ -324,7 +324,7 @@
 | [Vacation](https://open.spotify.com/track/3EvZtIXtY5pRyboLxVc93n) | [Hanawal](https://open.spotify.com/artist/3xUcEsjHpe4Ps5ziYErlqs) | [Vacation](https://open.spotify.com/album/6mgZeATUdVHaEOobbSR6Dv) | 3:15 | 2022-05-20 |  |
 | [Vacay lets gooo](https://open.spotify.com/track/2xCtE1orl0wVEhSI1fDMDY) | [Sapphire Llama](https://open.spotify.com/artist/0ukEGWLjiNHntHlKL4qeF9) | [Vacay lets gooo](https://open.spotify.com/album/5xUrXJ3vZ3biL78DOEabhH) | 2:01 | 2022-05-20 |  |
 | [Vegetable Potion](https://open.spotify.com/track/5IaPHmM1d2l7WH2PXrkSor) | [Bring Your Vest](https://open.spotify.com/artist/3cCwLIIuTQy9USf5NyVKH3) | [Vegetable Potion](https://open.spotify.com/album/0e2Cyivw8FxGN1GCqbl3hU) | 2:03 | 2021-11-10 |  |
-| [Venice](https://open.spotify.com/track/1FO9LieasI7ttaaDzijInm) | [lowclowds](https://open.spotify.com/artist/25oJa6BWwoxxrNa299VMh1) | [Venice](https://open.spotify.com/album/0FSV7nJLdW3WtRGmfnzeVb) | 0:29 | 2022-01-21 |  |
+| [Venice](https://open.spotify.com/track/1FO9LieasI7ttaaDzijInm) | [lowclowds](https://open.spotify.com/artist/25oJa6BWwoxxrNa299VMh1) | [Venice](https://open.spotify.com/album/0FSV7nJLdW3WtRGmfnzeVb) | 3:24 | 2022-01-21 |  |
 | [Venus Vacuum](https://open.spotify.com/track/0HymQuVijWULNPUvTgZmbx) | [spice rack](https://open.spotify.com/artist/4as7eq7Z4RegcT6FJ754Ub) | [the spice is right](https://open.spotify.com/album/1PHAihdUhYxo9dZrN1QOyb) | 1:54 | 2021-11-10 |  |
 | [views](https://open.spotify.com/track/08mTqFMEMurVe2oEHOvLlo) | [riddim bound](https://open.spotify.com/artist/6XUR7Q1okdrm17EvNv9NKe) | [views](https://open.spotify.com/album/6tWK51CJJbUAsf1GZufE1R) | 2:12 | 2022-06-03 |  |
 | [Views from Yamashita Park](https://open.spotify.com/track/08GrJ04y6DrNm6t1OZ7a7N) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Views from Yamashita Park / Hatagaya Greenways](https://open.spotify.com/album/0CAD18JM3by6WU8WYPOMIC) | 1:40 | 2021-11-10 |  |

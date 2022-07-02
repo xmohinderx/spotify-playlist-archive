@@ -4,7 +4,7 @@
 
 > Free\-spirited, atmospheric vibes.
 
-165 songs - 10 hr 14 min - [published](https://open.spotify.com/playlist/79WKo1g8A6daCdei56m7Tj)
+165 songs - 10 hr 17 min - [published](https://open.spotify.com/playlist/79WKo1g8A6daCdei56m7Tj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Ballad Of A Thin Place](https://open.spotify.com/track/3Cc71VdFO7dJUXxxmx2OCl) | [RF Shannon](https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5) | [Rain On Dust](https://open.spotify.com/album/4zZ8LQ2Pin7He38D53XvzQ) | 4:16 | 2021-07-30 |  |
 | [Bare](https://open.spotify.com/track/0Lg7CTyeg8Zviv6HYFg2kM) | [Amber Maya](https://open.spotify.com/artist/3jPSmQEwdBu8xw5WoiFmEU) | [Bare](https://open.spotify.com/album/4pVpKIqbJrPgWrb2gagfR0) | 3:53 | 2021-07-30 | 2022-02-26 |
 | [Beautiful Life](https://open.spotify.com/track/4nNc2bR3D0wKjQTOPVkWLs) | [Harry Pane](https://open.spotify.com/artist/0Rl5q2Pq8y9xRbujCpZueF) | [Beautiful Life](https://open.spotify.com/album/10lYRcf8EiT52FUjPcHtXP) | 3:25 | 2021-07-30 |  |
-| [Beige](https://open.spotify.com/track/0FfZudphGgQTGeEV6AhmOs) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/0tg6msTvhHx8glztrBii80) | 0:29 | 2021-07-30 |  |
+| [Beige](https://open.spotify.com/track/0FfZudphGgQTGeEV6AhmOs) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/0tg6msTvhHx8glztrBii80) | 3:24 | 2021-07-30 |  |
 | [Believe](https://open.spotify.com/track/6wk5veel2BFz73y1Q6femh) | [Amen Dunes](https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM) | [Believe](https://open.spotify.com/album/0zM4Raxvwaguumyd85xrCx) | 5:46 | 2021-07-30 |  |
 | [Belong](https://open.spotify.com/track/0Dv5ygyhMWCuHZBl7d8fdV) | [Samuel R\. Saffery](https://open.spotify.com/artist/48CwlHHMcLLsgGRKoLbQc3) | [Belong](https://open.spotify.com/album/4jIP2IEDx0erZE5A04ZUjj) | 3:52 | 2021-07-30 |  |
 | [Berlin](https://open.spotify.com/track/123W7snVRuONLwn2uMdJB3) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Berlin EP](https://open.spotify.com/album/2d90pcby1VFHjXUGYJNBJc) | 2:50 | 2021-07-30 |  |
@@ -62,7 +62,7 @@
 | [Everybody Needs Somebody](https://open.spotify.com/track/2M2pSUyaOpEg83cjK3Va7q) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Everybody Needs Somebody](https://open.spotify.com/album/0VHkRpOycTEskfVDfR1fq0) | 3:30 | 2021-07-30 |  |
 | [Fair Play \- Acoustic Version](https://open.spotify.com/track/47MaqBFCgw4coZjhTCc6ft) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF), [Lucy McWilliams](https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k) | [Fair Play \(Acoustic Version\)](https://open.spotify.com/album/44ikoQvtBYqsSAqimPLknB) | 4:19 | 2021-07-30 |  |
 | [False Calls](https://open.spotify.com/track/0xJtaKrodyhERoGzs2jKwr) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [False Calls](https://open.spotify.com/album/232qeU7aFhdPET4kq1qiCC) | 3:43 | 2021-07-30 |  |
-| [Fever Dream](https://open.spotify.com/track/5aQge4CQGxd4hp7YtVEHy5) | [Sea High](https://open.spotify.com/artist/3zOedO0mn7ikOxKcshuHsY), [Wallfella](https://open.spotify.com/artist/6fYRV3qeqpfNv29wOThawF), [Citizen Black](https://open.spotify.com/artist/1XZroKJxeCMmLjHScn7XTO) | [Degradation of Imagination](https://open.spotify.com/album/3h227ffzTp1JxmbK76fg6C) | 0:29 | 2021-07-30 |  |
+| [Fever Dream](https://open.spotify.com/track/5aQge4CQGxd4hp7YtVEHy5) | [Sea High](https://open.spotify.com/artist/3zOedO0mn7ikOxKcshuHsY), [Wallfella](https://open.spotify.com/artist/6fYRV3qeqpfNv29wOThawF), [Citizen Black](https://open.spotify.com/artist/1XZroKJxeCMmLjHScn7XTO) | [Degradation of Imagination](https://open.spotify.com/album/3h227ffzTp1JxmbK76fg6C) | 3:22 | 2021-07-30 |  |
 | [Fever Pitch](https://open.spotify.com/track/0CczqIwQrFvuiR0Q6g6IYP) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Fever Pitch](https://open.spotify.com/album/7KAcbEEU9MREoPJxW78cEU) | 2:43 | 2021-07-30 |  |
 | [Fever To The Form](https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:12 | 2021-07-30 |  |
 | [Friend City](https://open.spotify.com/track/5kKlAcXPZw3qhd57UquKqr) | [Rozi Plain](https://open.spotify.com/artist/2plHc7V92yXf40BD8lQl2x) | [Friend](https://open.spotify.com/album/2DRGOooaLuTThGjfk1nMgA) | 3:06 | 2021-07-30 |  |
@@ -172,6 +172,6 @@
 | [You Can’t Go Home Again](https://open.spotify.com/track/7gQiRs2Zd88RnmE1q8XbZm) | [Nealo](https://open.spotify.com/artist/0HR90wEU7v0pQRVsltcQKO), [Adam Garrett](https://open.spotify.com/artist/4WzjMiGqjSIJoSJsBuS05p), [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [All the Leaves Are Falling](https://open.spotify.com/album/0ieSj735PdL4YaPSv7XxDI) | 3:44 | 2021-07-30 |  |
 | [You're Smiling \(But I Don't Believe You\)](https://open.spotify.com/track/5qZVuornKKdSdsHPnsJjWT) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [If & When](https://open.spotify.com/album/3XnbZU5JpcMK6D5wo6f3Qg) | 3:33 | 2021-07-30 |  |
 | [You're the Best](https://open.spotify.com/track/139i2wb3YFaxNgC94nA8JA) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [You're the Best](https://open.spotify.com/album/4xWqmTIYhQs17R9X5nZkve) | 2:58 | 2021-07-30 |  |
-| [Émigré](https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [Cusp](https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4) | 3:11 | 2021-07-30 |  |
+| [Émigré](https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [Cusp](https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4) | 0:29 | 2021-07-30 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

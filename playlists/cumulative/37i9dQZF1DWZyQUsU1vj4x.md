@@ -4,7 +4,7 @@
 
 > Indie folk ventures into the cinematic West.
 
-96 songs - 5 hr 48 min - [published](https://open.spotify.com/playlist/2V1p4xykjAhFetkB4ZPv4j)
+96 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/2V1p4xykjAhFetkB4ZPv4j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [King of California](https://open.spotify.com/track/5rfPSIMVQ2Ezro4IzjSt6K) | [Renn](https://open.spotify.com/artist/4TOkHwfvErnRSxmlJ7XfOJ) | [King of California](https://open.spotify.com/album/757L0NxYfCmjaHpxX6F6tC) | 4:40 | 2019-10-31 |  |
 | [Land Of The Red Man](https://open.spotify.com/track/0n1qmC4kLGVtZ9BEi5iIx8) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Oklahoma Room: Folk Alliance International 2014](https://open.spotify.com/album/5FCZd4PWRL44BM9tdsVdyv) | 3:06 | 2019-10-31 |  |
 | [Lead Me Home \- Live At Spotify House](https://open.spotify.com/track/7HTKT7u1M7f1zsaq5YZ2PU) | [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [Spotify Sessions](https://open.spotify.com/album/4Np9cPlbJVYWQxl6i4Fhc9) | 2:31 | 2019-10-31 |  |
-| [Let This Remain](https://open.spotify.com/track/168Vc6GtKTO6CxypymkDxo) | [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY) | [Let This Remain](https://open.spotify.com/album/60V5m75Zb1n2EXTilxL946) | 0:29 | 2019-10-31 |  |
+| [Let This Remain](https://open.spotify.com/track/168Vc6GtKTO6CxypymkDxo) | [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY) | [Let This Remain](https://open.spotify.com/album/60V5m75Zb1n2EXTilxL946) | 3:22 | 2019-10-31 |  |
 | [Light That Match](https://open.spotify.com/track/5iiXIpA0AGJekS2sOsMBUf) | [Down Like Silver](https://open.spotify.com/artist/5u96pPXm3JmksPRgYDiVps) | [Light That Match](https://open.spotify.com/album/7kgdul3E3sTCCS3hLU01vx) | 3:02 | 2019-10-31 |  |
 | [Make It Out \(feat\. Maisie Peters\)](https://open.spotify.com/track/5qXbNSvVp8rB4Kcy2DTTIt) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Make It Out \(feat\. Maisie Peters\)](https://open.spotify.com/album/3i51kXWcF0fLzcwDBZFgNo) | 3:03 | 2022-01-27 |  |
 | [Manuscripts](https://open.spotify.com/track/1Q7FOLlniUrL6P3nOfh2Y9) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Exits](https://open.spotify.com/album/3vSNB85xVwlQHjh2AmME8s) | 3:43 | 2019-10-31 |  |

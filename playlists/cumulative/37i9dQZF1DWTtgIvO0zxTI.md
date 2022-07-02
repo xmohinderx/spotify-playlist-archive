@@ -4,7 +4,7 @@
 
 > Aquí está el sonido urbano de Venezuela\. Cover: Micro TDH, Jerry Di, Big Soto, ADSO, Akapellah
 
-75 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/2efGXAVzCEGB6nG3nfhwEs)
+75 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/2efGXAVzCEGB6nG3nfhwEs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Andas En Mi Cabeza](https://open.spotify.com/track/23WI5V2eD4EyGKxSl7Pyeq) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Andas En Mi Cabeza](https://open.spotify.com/album/0MaeGZFHJa76NUjYux7ygZ) | 4:07 | 2022-03-11 | 2022-05-12 |
 | [Antivirus](https://open.spotify.com/track/5YxHt7H46QWZLLCyhXG35Q) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7) | [De Vuelta A Casa](https://open.spotify.com/album/22N2pYZpb2MlkZT29OARmC) | 3:28 | 2022-03-11 |  |
 | [Arcade](https://open.spotify.com/track/6dLWgR4WB3gAqcUyW3k5Xj) | [Blackie & Lois](https://open.spotify.com/artist/5NzYjj1jWW74JwmrN9ERhm) | [Arcade](https://open.spotify.com/album/4vsxOtS3Ni1EhMpzGfNm4l) | 3:13 | 2022-03-11 |  |
-| [Brujería](https://open.spotify.com/track/335X50bC4WpFbQmMGBxi6a) | [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Brujería](https://open.spotify.com/album/5oaQ0wLZfmH8V7swwzZwHl) | 0:29 | 2022-03-11 |  |
+| [Brujería](https://open.spotify.com/track/335X50bC4WpFbQmMGBxi6a) | [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Brujería](https://open.spotify.com/album/5oaQ0wLZfmH8V7swwzZwHl) | 2:48 | 2022-03-11 |  |
 | [BUBBLE](https://open.spotify.com/track/5aLl7KbfB7l4gi4Z0ZAo8S) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [BUBBLE](https://open.spotify.com/album/7025lUSjzFSCFJYVFfHxyh) | 3:13 | 2022-03-11 |  |
 | [Buena Gente](https://open.spotify.com/track/4NY9HfnB5ghgth31M0FwcY) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU), [Kobi Cantillo](https://open.spotify.com/artist/3eAw8vSPkVqu0VfSZxv79h) | [Asocial](https://open.spotify.com/album/79S9WO9sAIk7LZ0v84xsbT) | 3:45 | 2022-03-11 |  |
 | [Báilame \- Remix](https://open.spotify.com/track/4l3xGFwoTinvYxsePytOOf) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [La Criatura](https://open.spotify.com/album/3C2Y8YZGNyGqXZLPHPUMj3) | 3:37 | 2022-03-11 |  |

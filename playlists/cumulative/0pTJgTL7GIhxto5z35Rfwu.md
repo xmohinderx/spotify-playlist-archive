@@ -4,7 +4,7 @@
 
 > 
 
-39 songs - 2 hr 28 min - [published](https://open.spotify.com/playlist/2fydrvh7WjW6XubgPmCaXu)
+39 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/2fydrvh7WjW6XubgPmCaXu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Bodywork Lover](https://open.spotify.com/track/0pxDyMjjHlYQ1g9Oc9msf1) | [Noonie Bao](https://open.spotify.com/artist/1vIuPjtFhqIPE2n9W2ePgO) | [I Am Noonie Bao](https://open.spotify.com/album/4lih8LOeKRk3NfEtS6QrDW) | 3:59 | 2014-03-20 |  |
 | [Bonfire](https://open.spotify.com/track/0QIYINh2AwmOmdu8CRYvlw) | [Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH) | [Rage Valley](https://open.spotify.com/album/2KZKR8bLDZPUxOE6JhTh4X) | 4:32 | 2014-03-20 |  |
 | [Can't Get Better Than This \- Radio Edit](https://open.spotify.com/track/0oPXSsxIOcEBeOBQvThSDF) | [Parachute Youth](https://open.spotify.com/artist/7y5xCKz1V2iSh1YsOLyOPH) | [Can't Get Better Than This](https://open.spotify.com/album/2XTomRxjgSTISfjnqwe0JL) | 3:34 | 2014-03-20 |  |
-| [casualties \(radio edit\)](https://open.spotify.com/track/79P6gASX4GhuxUvzfsHT6H) | [MFMB](https://open.spotify.com/artist/3KGC1KE7hhOa5O3VLago08) | [casualties](https://open.spotify.com/album/5kxNXE35Stkcy0j8uQAUYH) | 0:29 | 2014-03-20 |  |
+| [casualties \(radio edit\)](https://open.spotify.com/track/79P6gASX4GhuxUvzfsHT6H) | [MFMB](https://open.spotify.com/artist/3KGC1KE7hhOa5O3VLago08) | [casualties](https://open.spotify.com/album/5kxNXE35Stkcy0j8uQAUYH) | 4:09 | 2014-03-20 |  |
 | [Closer](https://open.spotify.com/track/1HDpZNBwkE14hHeD5ERHfp) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Closer](https://open.spotify.com/album/6oSgEasPKd0VMri2mDlAzB) | 3:32 | 2014-03-20 |  |
 | [Det Står Skrivet](https://open.spotify.com/track/4Bai4T1Z1gm8zBvZHrhgh9) | [Dödens Dal](https://open.spotify.com/artist/5nolItm8IpNzhI55yY4PPx) | [Det Står Skrivet](https://open.spotify.com/album/0YpC1y0Xy93Yd86QJNsyzM) | 4:01 | 2014-03-20 |  |
 | [Diamant](https://open.spotify.com/track/3HjVKQWXh1czc9aZI0Qqfi) | [Lorentz & Sakarias](https://open.spotify.com/artist/2OvrB1ySg1P7YWsiMl7Giu) | [Himlen är som mörkast när stjärnorna lyser starkast](https://open.spotify.com/album/0YY3fFCBmIjhtduKY1004p) | 3:44 | 2014-03-20 |  |
@@ -40,7 +40,7 @@
 | [Shades of Marble](https://open.spotify.com/track/1RVw59gWpRJO5d1k8Ja49y) | [Trentmoller](https://open.spotify.com/artist/1FWBMLgd0jtxiRlev4YgZ7) | [The Skin I Live In: La piel que habito \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KR8RgDl6GLzyCOB9lqFET) | 5:52 | 2014-03-20 |  |
 | [Skirts \- Radio Edit](https://open.spotify.com/track/4YAzmdKBJXqY7YOLmLbNxL) | [The Other Tribe](https://open.spotify.com/artist/58aFXYJH2kj1nkLSwA8Uv8) | [Skirts](https://open.spotify.com/album/5IZ3T2dV0wHmPj5K07ZhND) | 3:13 | 2014-03-20 |  |
 | [So Far So Long](https://open.spotify.com/track/1ykOCLm0kCZA2wOlYNQtp8) | [Nightlands](https://open.spotify.com/artist/6j1PJ7qiMlHAzkyPN3ldN6) | [Oak Island](https://open.spotify.com/album/672jDAyzhqtgr2DfcyobOY) | 4:17 | 2014-03-20 |  |
-| [Teenage Crime \- Radio Edit](https://open.spotify.com/track/1E2tRwT1GIHk1a8oYQMfjC) | [Adrian Lux](https://open.spotify.com/artist/5kp9Qhzri9LrDkzrtjt5Sh) | [Teenage Crime](https://open.spotify.com/album/72XSI1AWTvZbMrzCRvbtUK) | 0:29 | 2014-03-20 |  |
+| [Teenage Crime \- Radio Edit](https://open.spotify.com/track/1E2tRwT1GIHk1a8oYQMfjC) | [Adrian Lux](https://open.spotify.com/artist/5kp9Qhzri9LrDkzrtjt5Sh) | [Teenage Crime](https://open.spotify.com/album/72XSI1AWTvZbMrzCRvbtUK) | 2:50 | 2014-03-20 |  |
 | [The Funeral](https://open.spotify.com/track/4o0NjemqhmsYLIMwlcosvW) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Everything All The Time](https://open.spotify.com/album/5uMfshtC2Jwqui0NUyUYIL) | 5:21 | 2014-03-20 |  |
 | [The Rip](https://open.spotify.com/track/4kOy7M6eT5kYJCZxh0c6Lh) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Third](https://open.spotify.com/album/18JyZd2XLdT2rmekw6EwoS) | 4:30 | 2014-03-20 |  |
 | [When The Past Was Present](https://open.spotify.com/track/32VZp5f7imXSewOEQ79d5p) | [John Talabot](https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD) | [Fin](https://open.spotify.com/album/3m779E07PwAQ3841RKHolm) | 5:06 | 2014-03-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3sJ6SlgRo56Oa7YhHcLK5l.md) - [plain]
 
 > What artists have been your favorite new finds this year? Check out a sampling of our favorites here, and don’t forget to check back for updates! For your own list, head over to <a href="http://spoti.fi/1JQhkfk">http://spoti.fi/1JQhkfk</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,120 likes - 20 songs - 1 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,118 likes - 20 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/3sJ6SlgRo56Oa7YhHcLK5l.md) - [plain]
 | 7 | [Hypnotic](https://open.spotify.com/track/2zsWRxMcUdGjj8TnWkVKw0) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Kicker](https://open.spotify.com/album/600XgAY1N6sRPVczmBogiF) | 2:56 |
 | 8 | [Dangerous \(feat\. Joywave\)](https://open.spotify.com/track/3y8AEUef1AVfr0npU5UOa9) | [Big Data](https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa), [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [2.0](https://open.spotify.com/album/7MvpqHRTRxHu7QoPiYnmzH) | 4:40 |
 | 9 | [Chocolate](https://open.spotify.com/track/44Ljlpy44mHvLJxcYUvTK0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb) | 3:44 |
-| 10 | [Talk Is Cheap](https://open.spotify.com/track/6rZG4b7DocC5rO43Lv8zWi) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Talk Is Cheap](https://open.spotify.com/album/6If2bJHDvvM5PvxnKO8IAX) | 0:29 |
+| 10 | [Talk Is Cheap](https://open.spotify.com/track/6rZG4b7DocC5rO43Lv8zWi) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Talk Is Cheap](https://open.spotify.com/album/6If2bJHDvvM5PvxnKO8IAX) | 3:40 |
 | 11 | [House Party](https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:10 |
 | 12 | [Jealousy](https://open.spotify.com/track/2igkt5sVPBzrLXKWR98rFF) | [Robert DeLong](https://open.spotify.com/artist/42crL07E4WPfVovyUtMpvC) | [In The Cards](https://open.spotify.com/album/1Syxk8SXUlybhTg9AhzZmn) | 3:35 |
 | 13 | [Take Me Home \(feat\. Bebe Rexha\)](https://open.spotify.com/track/3qZkpG7RW81clweFyefCe2) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Overtime EP](https://open.spotify.com/album/5lLQIsKacRMQwp4tfrocjh) | 3:26 |

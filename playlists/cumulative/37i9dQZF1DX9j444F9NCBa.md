@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-126 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/77bJtEBIOaCjByBFHduKkX)
+126 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/77bJtEBIOaCjByBFHduKkX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Fake a smile](https://open.spotify.com/track/2JI53ZVCxMucM68UpCtZ5C) | [Wayne Mack](https://open.spotify.com/artist/62eR2vdahhu9BuJesGEQCI) | [Fake a smile](https://open.spotify.com/album/4Z9LkxhZbqK0jY3bkj2uo7) | 2:49 | 2022-01-21 |  |
 | [Fallin' For You](https://open.spotify.com/track/2i0lhzbf0qiulrcrIxl15R) | [Melissa Peters](https://open.spotify.com/artist/1S8pKU0zpKVlmGt4dS1nMR) | [One Of Us](https://open.spotify.com/album/1Qe9RvrEVOH3Ir514edwQg) | 4:26 | 2022-01-21 |  |
 | [Falling Slowly](https://open.spotify.com/track/2dcM4AzebSOcRALTZmK5xx) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Keeping Score](https://open.spotify.com/album/4TMVA7oifhJUjeOKKJSKa4) | 3:18 | 2022-01-21 |  |
-| [Fields of gold](https://open.spotify.com/track/0XQKhaXCmkXURkz92za8pX) | [Mio Camara](https://open.spotify.com/artist/3IxsGUuQ0znzQTqASdftJq) | [Fields of gold](https://open.spotify.com/album/5rhWv8xXKNsfXKkTOOIhlv) | 0:29 | 2022-01-21 |  |
+| [Fields of gold](https://open.spotify.com/track/0XQKhaXCmkXURkz92za8pX) | [Mio Camara](https://open.spotify.com/artist/3IxsGUuQ0znzQTqASdftJq) | [Fields of gold](https://open.spotify.com/album/5rhWv8xXKNsfXKkTOOIhlv) | 3:33 | 2022-01-21 |  |
 | [Fields Of Gold](https://open.spotify.com/track/3pajXCqOSkwgTIBXZEauQD) | [Tobias Berntsson](https://open.spotify.com/artist/1ATcda1cBf3inR0K5yqlU6) | [Fields Of Gold](https://open.spotify.com/album/740iE8dch9vJaHW9OeNSbv) | 3:24 | 2022-01-21 |  |
 | [Fix You](https://open.spotify.com/track/3ForPcmt7W2jUTqgGjyKAN) | [Raphaela Esquelas](https://open.spotify.com/artist/7pd3yh8h1rD9x8POMkzkgg) | [Fix You](https://open.spotify.com/album/428DgqAtnVbbJhVKmcZ2Fl) | 3:39 | 2022-01-21 |  |
 | [Forever Young](https://open.spotify.com/track/4SSCgMiOi06l74FrQhaHwC) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [Forever Young](https://open.spotify.com/album/2WSQbJ9oBwXXzCcQgDjyPd) | 2:46 | 2022-01-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0pTJgTL7GIhxto5z35Rfwu.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 13 likes - 39 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 13 likes - 39 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/0pTJgTL7GIhxto5z35Rfwu.md) - [plain]
 | 6 | [Right Here, Right Now](https://open.spotify.com/track/26bCJd8gbuI4DQms1dq90K) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You've Come A Long Way, Baby](https://open.spotify.com/album/5dbW25KDJWBkv2gtaQdmxJ) | 6:28 |
 | 7 | [Do You Realize??](https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Yoshimi Battles the Pink Robots](https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf) | 3:33 |
 | 8 | [Am I Wry? No](https://open.spotify.com/track/4PQSDHGXXxNojUC7BO6lWw) | [Mew](https://open.spotify.com/artist/6kDMoHTcBICPILP2aclPWZ) | [Eggs Are Funny](https://open.spotify.com/album/0CUfteeG6R9RogZKJwvg4Z) | 4:52 |
-| 9 | [Teenage Crime \- Radio Edit](https://open.spotify.com/track/1E2tRwT1GIHk1a8oYQMfjC) | [Adrian Lux](https://open.spotify.com/artist/5kp9Qhzri9LrDkzrtjt5Sh) | [Teenage Crime](https://open.spotify.com/album/72XSI1AWTvZbMrzCRvbtUK) | 0:29 |
+| 9 | [Teenage Crime \- Radio Edit](https://open.spotify.com/track/1E2tRwT1GIHk1a8oYQMfjC) | [Adrian Lux](https://open.spotify.com/artist/5kp9Qhzri9LrDkzrtjt5Sh) | [Teenage Crime](https://open.spotify.com/album/72XSI1AWTvZbMrzCRvbtUK) | 2:50 |
 | 10 | [Diamant](https://open.spotify.com/track/3HjVKQWXh1czc9aZI0Qqfi) | [Lorentz & Sakarias](https://open.spotify.com/artist/2OvrB1ySg1P7YWsiMl7Giu) | [Himlen är som mörkast när stjärnorna lyser starkast](https://open.spotify.com/album/0YY3fFCBmIjhtduKY1004p) | 3:44 |
 | 11 | [The Funeral](https://open.spotify.com/track/4o0NjemqhmsYLIMwlcosvW) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Everything All The Time](https://open.spotify.com/album/5uMfshtC2Jwqui0NUyUYIL) | 5:21 |
 | 12 | [Lisztomania](https://open.spotify.com/track/3EXCJvehlOGEP9ntHaEMAg) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix \(Standard Version\)](https://open.spotify.com/album/6QwlhIbsK5hrP95Q5FPKXr) | 4:01 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/0pTJgTL7GIhxto5z35Rfwu.md) - [plain]
 | 22 | [Can't Get Better Than This \- Radio Edit](https://open.spotify.com/track/0oPXSsxIOcEBeOBQvThSDF) | [Parachute Youth](https://open.spotify.com/artist/7y5xCKz1V2iSh1YsOLyOPH) | [Can't Get Better Than This](https://open.spotify.com/album/2XTomRxjgSTISfjnqwe0JL) | 3:34 |
 | 23 | [Skirts \- Radio Edit](https://open.spotify.com/track/4YAzmdKBJXqY7YOLmLbNxL) | [The Other Tribe](https://open.spotify.com/artist/58aFXYJH2kj1nkLSwA8Uv8) | [Skirts](https://open.spotify.com/album/5IZ3T2dV0wHmPj5K07ZhND) | 3:13 |
 | 24 | [Kids Aren't Safe in the Metro](https://open.spotify.com/track/51w9TrOEsnHUciZbscgMN7) | [Satellite Stories](https://open.spotify.com/artist/2qRxFU6TyYb3HCMIIq8npH) | [Phrases to Break the Ice](https://open.spotify.com/album/77sjsgdedmK3lQTbQds6bW) | 3:43 |
-| 25 | [casualties \(radio edit\)](https://open.spotify.com/track/79P6gASX4GhuxUvzfsHT6H) | [MFMB](https://open.spotify.com/artist/3KGC1KE7hhOa5O3VLago08) | [casualties](https://open.spotify.com/album/5kxNXE35Stkcy0j8uQAUYH) | 0:29 |
+| 25 | [casualties \(radio edit\)](https://open.spotify.com/track/79P6gASX4GhuxUvzfsHT6H) | [MFMB](https://open.spotify.com/artist/3KGC1KE7hhOa5O3VLago08) | [casualties](https://open.spotify.com/album/5kxNXE35Stkcy0j8uQAUYH) | 4:09 |
 | 26 | [I Wanna Know](https://open.spotify.com/track/3nb12t0G39wafaphFkrFcO) | [Woodlands](https://open.spotify.com/artist/1FMBhdxMxRpopeVjr2gE3y) | [Woodlands](https://open.spotify.com/album/1bGvui7acqgW40Vkh7f5e1) | 3:26 |
 | 27 | [Bodywork Lover](https://open.spotify.com/track/0pxDyMjjHlYQ1g9Oc9msf1) | [Noonie Bao](https://open.spotify.com/artist/1vIuPjtFhqIPE2n9W2ePgO) | [I Am Noonie Bao](https://open.spotify.com/album/4lih8LOeKRk3NfEtS6QrDW) | 3:59 |
 | 28 | [YAST](https://open.spotify.com/track/0ETztqrXSUKfS9Os1DvLrL) | [YAST](https://open.spotify.com/artist/2paiM1wNsRF27BbehU5nlL) | [YAST](https://open.spotify.com/album/1ZwaEWh9xI937J4zR7Axrz) | 2:49 |

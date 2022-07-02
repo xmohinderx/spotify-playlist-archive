@@ -210,6 +210,24 @@
     },
     {
       "album": {
+        "name": "Trees, Grass and Things",
+        "url": "https://open.spotify.com/album/0b8cDv6nV54vVcQQz3ycu8"
+      },
+      "artists": [
+        {
+          "name": "Charles Williams",
+          "url": "https://open.spotify.com/artist/15592lDspISn6JFzKnmcQk"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277945,
+      "name": "Chop! Chop!",
+      "url": "https://open.spotify.com/track/0GKR7py5cFS598Qr2ueDxq"
+    },
+    {
+      "album": {
         "name": "The Real Deal",
         "url": "https://open.spotify.com/album/1aI7k455fkWA6fKq0UrUGV"
       },
@@ -1007,6 +1025,24 @@
       "duration_ms": 255226,
       "name": "You Shook Me",
       "url": "https://open.spotify.com/track/1xns0tyPRpOrODwND6ELTF"
+    },
+    {
+      "album": {
+        "name": "I Don't Worry About A Thing",
+        "url": "https://open.spotify.com/album/58vFtbiyFPwDKwdhRI5D4V"
+      },
+      "artists": [
+        {
+          "name": "Mose Allison",
+          "url": "https://open.spotify.com/artist/0sN4enVJwylJKEXZlSbgsm"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Your Mind Is on Vacation",
+      "url": "https://open.spotify.com/track/1GEf45ad9tT9njeDYw9WPx"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXakNfvv7h2fY"

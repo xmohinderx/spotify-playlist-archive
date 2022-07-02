@@ -4,7 +4,7 @@
 
 > Get the most out of your day and \#makeithappen.
 
-30 songs - 1 hr 47 min - [published](https://open.spotify.com/playlist/2NfnKhwSG039yzdfwNKw71)
+30 songs - 1 hr 50 min - [published](https://open.spotify.com/playlist/2NfnKhwSG039yzdfwNKw71)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [I Think I'm In Love](https://open.spotify.com/track/3U1TuSqHIubBA10cVP7Sk6) | [Kat Dahlia](https://open.spotify.com/artist/1peH5tSqnYm8W6Bo3I5egE) | [My Garden](https://open.spotify.com/album/7IQvaeTZKibqE8OkOwicM0) | 3:22 | 2015-03-18 |  |
 | [I Will Never Let You Down](https://open.spotify.com/track/2ia7iiEtpiOL2ZVuWxBZGB) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [I Will Never Let You Down](https://open.spotify.com/album/415fhs8Ft2VMFY0rWLK4BD) | 3:23 | 2015-03-18 |  |
 | [I'm Gonna Show You Crazy](https://open.spotify.com/track/5LtNBCM2ve0SxP0dlRVvMu) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Gonna Show You Crazy](https://open.spotify.com/album/1jjRCEFt2eCfCNWHV7AtEk) | 3:27 | 2015-03-18 |  |
-| [Jealous](https://open.spotify.com/track/2woCw59DHRIb1vcyQ2a7Ca) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Nick Jonas \(Deluxe\)](https://open.spotify.com/album/4jd7U6ca3Ew6JYpbjFauxj) | 0:29 | 2015-03-18 |  |
+| [Jealous](https://open.spotify.com/track/2woCw59DHRIb1vcyQ2a7Ca) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Nick Jonas \(Deluxe\)](https://open.spotify.com/album/4jd7U6ca3Ew6JYpbjFauxj) | 3:43 | 2015-03-18 |  |
 | [Locked out of Heaven](https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:53 | 2015-03-18 |  |
 | [Love Me Harder](https://open.spotify.com/track/5J4ZkQpzMUFojo1CtAZYpn) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:56 | 2015-03-18 |  |
 | [Nobody Love](https://open.spotify.com/track/1jQNuXoP9ppDtPbPqGibRA) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Nobody Love](https://open.spotify.com/album/5kUeFmIpcW2sq5TqqVjlQW) | 3:22 | 2015-03-18 |  |

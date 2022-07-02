@@ -4,7 +4,7 @@
 
 > Glockenspiel lullabies for your baby to fall asleep.
 
-135 songs - 3 hr 38 min - [published](https://open.spotify.com/playlist/79jliU0lroEmqzvLywaZ5u)
+135 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/79jliU0lroEmqzvLywaZ5u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [My Favorite Pyjamas](https://open.spotify.com/track/21aemMaPbPGfEGoiuIbJ2o) | [Grady Spears](https://open.spotify.com/artist/2GXt9sALXllpAl8Ywqc90Q) | [My Favorite Pyjamas](https://open.spotify.com/album/5JyQBOoHoDMqQ6hCOOd5RP) | 1:30 | 2022-06-30 |  |
 | [My Favorite Teddy](https://open.spotify.com/track/1KcZU1k4ZqGJA5P1pxf0LX) | [Kim Low](https://open.spotify.com/artist/1TpRygqPUvLFJOOMaQtmMX) | [My Favorite Teddy](https://open.spotify.com/album/2gLzKQI3XmcIBTsLilOspq) | 1:21 | 2022-06-10 |  |
 | [My Island](https://open.spotify.com/track/0utNwwCUb1Tfq1RnlNqss4) | [Jervis Tollemache](https://open.spotify.com/artist/2RtsCV1nqcCjQ82JpCbtho) | [My Island](https://open.spotify.com/album/4OvdeNw3yt0Q8P1Q4EvBBh) | 1:25 | 2021-11-11 |  |
-| [My Lucky Star](https://open.spotify.com/track/3biHKGutlJ1N3omX2uSGcu) | [Kaja Tucker](https://open.spotify.com/artist/5MTYungdXV9JzKLDWg4Uyt) | [My Lucky Star](https://open.spotify.com/album/2E2SyWnuCwyejUGqVTYygu) | 0:29 | 2021-11-11 |  |
+| [My Lucky Star](https://open.spotify.com/track/3biHKGutlJ1N3omX2uSGcu) | [Kaja Tucker](https://open.spotify.com/artist/5MTYungdXV9JzKLDWg4Uyt) | [My Lucky Star](https://open.spotify.com/album/2E2SyWnuCwyejUGqVTYygu) | 1:42 | 2021-11-11 |  |
 | [My Night Story](https://open.spotify.com/track/68Q6EE8l8Wr76XCqjhGwzR) | [Codie Banner](https://open.spotify.com/artist/2zvjZSjUq7B9ECMj1aIuI6) | [My Night Story](https://open.spotify.com/album/7rP6wZZ1wYLtqLvKIRt4FA) | 1:48 | 2022-06-30 |  |
 | [My Own](https://open.spotify.com/track/58WENxytKUwwWfU9MhlRRf) | [Niles Hodges](https://open.spotify.com/artist/56QqQPFEpl4yfIYc5EHIc5) | [My Own](https://open.spotify.com/album/2w7uJhkF93qSjnoAAtoXmD) | 1:13 | 2022-06-10 |  |
 | [My Perfect Star](https://open.spotify.com/track/0Hz2GlWTNl5CDRiRaxPxH0) | [Egbert Devine](https://open.spotify.com/artist/4A4PVIJyA3KM3c8dh58gG5) | [My Perfect Star](https://open.spotify.com/album/2yWDl1bdglLnZSRpAiKzEe) | 1:41 | 2022-06-10 |  |
@@ -103,7 +103,7 @@
 | [Old Macdonald Had A Farm](https://open.spotify.com/track/6XhB9iK4XYIvPl8Ofdtw9B) | [Chile Bellamy](https://open.spotify.com/artist/107IKw3J6M1kySaTwoiA0k) | [Old Macdonald Had A Farm](https://open.spotify.com/album/2M80JNa7W78U46SfiV1HBb) | 1:38 | 2021-11-11 |  |
 | [One day I'll fly away](https://open.spotify.com/track/2vTV4arQgo5bKYVBiP1Fz8) | [Well Ness](https://open.spotify.com/artist/6CCYWWZWKyTQM8veKYJcuY) | [Nap Time Glockenspiel](https://open.spotify.com/album/3xq2fiVAhgB4m3pnOmFWT9) | 3:28 | 2021-11-11 | 2022-06-11 |
 | [Play Date](https://open.spotify.com/track/0gMfP5nSvwTMt2TRnC6uos) | [Tomas Stork](https://open.spotify.com/artist/7aalEV35bfPJRpQPGNKCWb) | [Glockenspiel](https://open.spotify.com/album/7vjJFbFpgyxlnRDUYyBSNJ) | 2:47 | 2021-11-11 |  |
-| [Playing Marbles](https://open.spotify.com/track/4WQbArr5ji9cQleFLs9qcP) | [Ronda Thurman](https://open.spotify.com/artist/49p3D2yCQu1mDSJ7R2IiJj) | [Playing Marbles](https://open.spotify.com/album/4QRI6JbZ2c9qXyeF2WNUAy) | 0:29 | 2021-11-11 |  |
+| [Playing Marbles](https://open.spotify.com/track/4WQbArr5ji9cQleFLs9qcP) | [Ronda Thurman](https://open.spotify.com/artist/49p3D2yCQu1mDSJ7R2IiJj) | [Playing Marbles](https://open.spotify.com/album/4QRI6JbZ2c9qXyeF2WNUAy) | 1:03 | 2021-11-11 |  |
 | [Porque eu te amo](https://open.spotify.com/track/0vEfpWpXFQ1PvNjsyiGVxR) | [Leonora Magalhães](https://open.spotify.com/artist/7jpsbb109bwLhTQhqpPaOV) | [Porque eu te amo](https://open.spotify.com/album/6ivfoZDZ58MH7O1O2wzFt0) | 1:38 | 2021-11-11 |  |
 | [Puppy Love](https://open.spotify.com/track/2yJmL5g8rcKi9qviTS2yQA) | [Bryson Sydney](https://open.spotify.com/artist/6T8HGfSR1Bg9oHGZU84LN3) | [Puppy Love](https://open.spotify.com/album/1EGu4aStvEE41Ihn5TbJ9N) | 1:41 | 2021-11-11 |  |
 | [Rainy Night](https://open.spotify.com/track/6FZs9SfcLsNWi6T05OPhW5) | [Satchel Stacks](https://open.spotify.com/artist/45lCsf8XODbOC3vNPX7Nd5) | [Rainy Night](https://open.spotify.com/album/7bUVh7R0pSDR410GPIKDeo) | 1:08 | 2021-11-11 |  |
@@ -135,12 +135,12 @@
 | [Trudy The Fox](https://open.spotify.com/track/2S3uOARpZwfZdkXcq7gYtQ) | [Orson Pierson](https://open.spotify.com/artist/43rTSYyJFSBjnuS3nNQswf) | [Trudy The Fox](https://open.spotify.com/album/6W2b1qWMVDCPJAKaEX1qAu) | 1:38 | 2022-06-10 |  |
 | [Twinkle Twinkle Little Star \(Music Box Version\)](https://open.spotify.com/track/1jkWPpYdq58FozTvsW3XFo) | [John B\. Lund](https://open.spotify.com/artist/7aeRsfmuN284l1Hs1eyVbW) | [Twinkle Twinkle Little Star](https://open.spotify.com/album/5tqLaaETd1BYq5muZoirC8) | 1:33 | 2021-11-11 |  |
 | [When she sleeps](https://open.spotify.com/track/08ilBU7S4yPwYm9Ke8veyF) | [Rusty Everett](https://open.spotify.com/artist/6XzRNYTnp1uab8LvuYBaTg) | [When she sleeps](https://open.spotify.com/album/2dBj0EjXxzfNiNZtlXBTbi) | 1:28 | 2021-11-11 |  |
-| [When the stars](https://open.spotify.com/track/0Jz7MSxiJIySmnQ9YRXNXG) | [Winslow Winchester](https://open.spotify.com/artist/1r4Sgia0s6wqck1PKaNmuH) | [When the stars](https://open.spotify.com/album/113aJdsZnyvHbxsWQZZvt8) | 0:29 | 2021-11-11 |  |
+| [When the stars](https://open.spotify.com/track/0Jz7MSxiJIySmnQ9YRXNXG) | [Winslow Winchester](https://open.spotify.com/artist/1r4Sgia0s6wqck1PKaNmuH) | [When the stars](https://open.spotify.com/album/113aJdsZnyvHbxsWQZZvt8) | 1:39 | 2021-11-11 |  |
 | [White Pyjamas](https://open.spotify.com/track/14MRYeRX5S2u9o6Mev6tNC) | [Lyndon Cole](https://open.spotify.com/artist/4YuJWQXYXtQrXTNOFupZfI) | [White Pyjamas](https://open.spotify.com/album/4DS6GovDyxuwrZCrFNJuYa) | 1:31 | 2021-11-11 |  |
 | [Wilhelmina](https://open.spotify.com/track/5NBemQIlOEOXrXFAidkLkw) | [Juliane Waechter](https://open.spotify.com/artist/7IsD38M0WKhRpntIENOowC) | [Wilhelmina](https://open.spotify.com/album/7jcNcm1BOg5zUsnM8ZRwYE) | 1:10 | 2021-11-11 |  |
 | [Write to Me](https://open.spotify.com/track/1EXfPEm8YJeO0Y55FSnLkE) | [Elroy Sadler](https://open.spotify.com/artist/2uXHbgkDsEIZK5roQl8xBt) | [Write to Me](https://open.spotify.com/album/2hOLsqSymCvbq6dtD8JGIK) | 1:07 | 2022-05-17 |  |
 | [Yawn at Dawn](https://open.spotify.com/track/0DcbhT9Gkji3MzxHzjkBGU) | [Kirsten Cagle](https://open.spotify.com/artist/5PccRblfC6x56aEc9QFFa6) | [Naptime](https://open.spotify.com/album/6gkiPwfiBMRrFHfPuL3JmD) | 1:42 | 2021-11-11 |  |
-| [You Are My Sunshine](https://open.spotify.com/track/47e0nnskYVSS2VMw1HuIQ9) | [Stig Speleman](https://open.spotify.com/artist/6TaqXDgR9ZFZmXJgNmSpqR) | [Glockenspiel](https://open.spotify.com/album/4vJcvpxBnK5RsH8qLBghIa) | 0:29 | 2021-11-11 |  |
+| [You Are My Sunshine](https://open.spotify.com/track/47e0nnskYVSS2VMw1HuIQ9) | [Stig Speleman](https://open.spotify.com/artist/6TaqXDgR9ZFZmXJgNmSpqR) | [Glockenspiel](https://open.spotify.com/album/4vJcvpxBnK5RsH8qLBghIa) | 2:38 | 2021-11-11 |  |
 | [Your First Words](https://open.spotify.com/track/1Rg5up8Vq7fSUXvi9T0ENn) | [Anthony Pinkley](https://open.spotify.com/artist/1yXV6gm8CPTqCLQ9XHkDBR) | [Bobby Bird](https://open.spotify.com/album/4UnSUHkjh50hz52I4NiZ1a) | 1:07 | 2021-11-11 |  |
 | [’Round Bedtime](https://open.spotify.com/track/4GWnLFPZHuoOrZ6w20PAP4) | [Jonty Kitchen](https://open.spotify.com/artist/6iHkOcJyOSWq4YC0LpBO2L) | [’Round Bedtime](https://open.spotify.com/album/7wDxb1WU5AJMVSJ9smiS4W) | 1:37 | 2021-11-11 |  |
 

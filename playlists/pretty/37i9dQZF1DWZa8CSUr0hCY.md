@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 
 > Laissez\-vous porter par le beat...
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,007 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,038 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 | 5 | [Breathe](https://open.spotify.com/track/46LwAOzg3UYvxiXyyaFedz) | [Télépopmusik](https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF) | [genetic world](https://open.spotify.com/album/401DhjeJg1yVIfBN2A55JY) | 4:56 |
 | 6 | [Yeah Yeah Yeah](https://open.spotify.com/track/5u2chFalnZgdgN8K3YKxI0) | [Kognitif](https://open.spotify.com/artist/6Jv6uJdhLc9R50kSy6RbLz) | [Soul Food](https://open.spotify.com/album/6grLCGzVBkmrdvYmnLxOwv) | 4:08 |
 | 7 | [Chinese Morning](https://open.spotify.com/track/7xRJpOn1TVd8uwzziaKQYU) | [The Geek x Vrv](https://open.spotify.com/artist/4JhjlqgMbd4RlrT81VoTIF) | [Chinese Morning](https://open.spotify.com/album/1BNdhMopFVqmfxUjbBHtoh) | 2:54 |
-| 8 | [Every Time](https://open.spotify.com/track/3MDkws8QGzLrMrWVAbzoXO) | [Boogie Belgique](https://open.spotify.com/artist/4TIrC99WSg0tOtBCGDjMRY) | [Volta](https://open.spotify.com/album/6xFQdyHr6fQrLOmtRHv1Nb) | 0:29 |
+| 8 | [Every Time](https://open.spotify.com/track/3MDkws8QGzLrMrWVAbzoXO) | [Boogie Belgique](https://open.spotify.com/artist/4TIrC99WSg0tOtBCGDjMRY) | [Volta](https://open.spotify.com/album/6xFQdyHr6fQrLOmtRHv1Nb) | 4:01 |
 | 9 | [Que Sera](https://open.spotify.com/track/0lnfcWRREvnGtXPP2ZDeq7) | [Wax Tailor](https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG) | [Tales of the Forgotten Melodies](https://open.spotify.com/album/1sWIbvCurzF7ZVFYWjLGQO) | 2:44 |
 | 10 | [Time Is the Enemy](https://open.spotify.com/track/24ylIO48nRsdaONlM8l2HF) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [The 5th Exotic](https://open.spotify.com/album/2tMQ2DeB9RydEFl1gcRkHb) | 3:39 |
 | 11 | [All or Nothing](https://open.spotify.com/track/6jWFsJT5IYVKCJEQ55L29W) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS), [Tanya Morgan](https://open.spotify.com/artist/1s8WiPtSSuQmJPGBwFTwFG), [Lorine Chia](https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9) | [Eternal](https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9) | 3:46 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 | 37 | [Sooner or Later](https://open.spotify.com/track/7HH1CbWdSFVRx5wI6vsTXe) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Sooner or Later](https://open.spotify.com/album/2HpPvSwsKSSoksjJeZEu8e) | 3:09 |
 | 38 | [Backwards](https://open.spotify.com/track/5FdqPo0Wg2ybDQ7tLEURwz) | [Vanilla](https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn) | [Hip Dozer, Vol\. 6](https://open.spotify.com/album/2UPZZagR1OvO6uuouU1qJ0) | 3:54 |
 | 39 | [A Place I Know](https://open.spotify.com/track/2P2lnaf2K0dNnN5mKcjGzl) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [A Place I Know](https://open.spotify.com/album/5GWiZ1O8WsRvc2LN6W1uFH) | 2:07 |
-| 40 | [El Manaba](https://open.spotify.com/track/6MwN6feVdE1qMsl6RwlxyG) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Hip Dozer, Vol\. 3](https://open.spotify.com/album/0KoSsP5po1jU95aGj4g14j) | 0:29 |
+| 40 | [El Manaba](https://open.spotify.com/track/6MwN6feVdE1qMsl6RwlxyG) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Hip Dozer, Vol\. 3](https://open.spotify.com/album/0KoSsP5po1jU95aGj4g14j) | 2:16 |
 | 41 | [Quiet](https://open.spotify.com/track/5t4us3YJhXto5KTdPUKTXK) | [WYS](https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f) | [Quiet](https://open.spotify.com/album/1SSCSOL35AKsT4NSLDBM5i) | 1:38 |
 | 42 | [Ekans](https://open.spotify.com/track/2PaFzDcgVZIHqN8XvV4azQ) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [KEEN: Soft Beats Vol\. 1](https://open.spotify.com/album/3VgJOpq6wEKsHtn2zb7LKi) | 2:20 |
 | 43 | [Hainan Paradise](https://open.spotify.com/track/3au9gDDso4imJhWbJAS5Fp) | [SINY](https://open.spotify.com/artist/6d1bmKQyB8OJWCOJJPCkVT) | [Mitsuwa](https://open.spotify.com/album/02OQlC7v4VlNAB8eJK2R4N) | 2:05 |

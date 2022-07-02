@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-297 songs - 13 hr 29 min - [published](https://open.spotify.com/playlist/7C5W2Uqg0ynw9C4XUHonb9)
+297 songs - 13 hr 45 min - [published](https://open.spotify.com/playlist/7C5W2Uqg0ynw9C4XUHonb9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Bruges](https://open.spotify.com/track/47lCvHZru5N4raYpfdlXLx) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Bruges](https://open.spotify.com/album/3lvqn1jtS9pERcfFOZh9n6) | 3:20 | 2022-07-01 |  |
 | [By Myself but Not Alone](https://open.spotify.com/track/3Um3kj4lrIubR86Y81qCWj) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [By Myself but Not Alone](https://open.spotify.com/album/4kBBI0yalDHd0QQ6MW6hb2) | 4:05 | 2021-12-08 | 2022-05-11 |
 | [Cadaqués](https://open.spotify.com/track/5jg06BQ7aNRWBArYMDlw77) | [Jacques Walter](https://open.spotify.com/artist/3Ag2nPTVyDtgYpbAIe8xHn) | [Cadaqués](https://open.spotify.com/album/3LGKDNlZXmrJNo8iDFjD9s) | 2:23 | 2021-12-08 | 2022-06-17 |
-| [Cadiz](https://open.spotify.com/track/7GlGgZVvEI5oCpZGrEWyKN) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Cadiz](https://open.spotify.com/album/16WtMA3bkNFXtvTzdL9su3) | 0:29 | 2021-12-08 |  |
+| [Cadiz](https://open.spotify.com/track/7GlGgZVvEI5oCpZGrEWyKN) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Cadiz](https://open.spotify.com/album/16WtMA3bkNFXtvTzdL9su3) | 3:05 | 2021-12-08 |  |
 | [Campeche](https://open.spotify.com/track/3iyvjySmpI2Sxlxbg4Ds7q) | [Mauricio Hernandez Monterrubio](https://open.spotify.com/artist/5K5WYuWrH1riDA7600TlE6), [José Isidoro](https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz) | [Serenata Huasteca](https://open.spotify.com/album/0t2VyqSCljrNyXjycI0ilk) | 3:38 | 2021-12-08 | 2022-03-26 |
 | [Cape Verde](https://open.spotify.com/track/6iXra1rxJdrWxzzeiklNJW) | [Solomon Davis](https://open.spotify.com/artist/1UsbAYI6GPRqkeH7BEWkBl) | [Cape Verde](https://open.spotify.com/album/1mwFAxMM37n91KzyMFMJ2H) | 2:32 | 2021-12-08 |  |
 | [Carcassonne](https://open.spotify.com/track/3qDeU6b8Fopj9VJ11SIEH2) | [Ludwig Van Bergen](https://open.spotify.com/artist/2hnIX2H6zuWej61nQDuSaj) | [Carcassonne](https://open.spotify.com/album/41TT6I8Nv5rknmR0o0LYul) | 2:58 | 2021-12-08 | 2022-04-06 |
@@ -155,7 +155,7 @@
 | [Le minuit glacé](https://open.spotify.com/track/54ZMjrPx3tZ3qI3sGmbfB8) | [Séraphine Crépin](https://open.spotify.com/artist/4XR40KDmxNGUPXdxXv7FkS) | [Le minuit glacé](https://open.spotify.com/album/4TGrOoZktt23ZDE8FoYzNy) | 2:08 | 2022-01-19 |  |
 | [Lemon Butterflies](https://open.spotify.com/track/6LD3GreVtXhePn8SmPDUzm) | [Moldoni](https://open.spotify.com/artist/0wyLg7FcGRulowJqoek8lw) | [Lemon Butterflies](https://open.spotify.com/album/79atPdOAmjxkB3H4bABUt4) | 1:24 | 2022-07-01 |  |
 | [Les Ondes](https://open.spotify.com/track/06vt7BIMyVW3CrvWNQ5vCx) | [Dawn Geller](https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC) | [Les Ondes](https://open.spotify.com/album/47iTH8q00rx6DxOhU6UQcp) | 1:44 | 2022-06-10 |  |
-| [Let Me Reach That Mountain](https://open.spotify.com/track/11jFSuok2S4g04ziCBd44w) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Let Me Reach That Mountain](https://open.spotify.com/album/63QYtDWsFzy2yxYvMPcnCT) | 0:29 | 2021-12-08 |  |
+| [Let Me Reach That Mountain](https://open.spotify.com/track/11jFSuok2S4g04ziCBd44w) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Let Me Reach That Mountain](https://open.spotify.com/album/63QYtDWsFzy2yxYvMPcnCT) | 3:31 | 2021-12-08 |  |
 | [Light Rain](https://open.spotify.com/track/78k8bk96GLr61Y4fp1K6Io) | [Alessandro Minci](https://open.spotify.com/artist/3sjBbv6BttORQh4rrqmsrl) | [Light Rain](https://open.spotify.com/album/7J867UR9iSCI86N70IIsA5) | 3:54 | 2022-06-10 |  |
 | [Like A Tourist On Caminito](https://open.spotify.com/track/6alGPVL0zYvetBZiSULNiP) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Like A Tourist On Caminito](https://open.spotify.com/album/3PDesyI19q0YPY8VBjZvnd) | 3:54 | 2021-12-08 |  |
 | [Little Krumbs](https://open.spotify.com/track/3vrkYJODH1pEthNwy9bdSq) | [Aurélien Trigo](https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE) | [The Acoustic Mind \- Vol\. 3](https://open.spotify.com/album/1e3eyPgitBo2NNaKJ096YY) | 3:13 | 2021-12-08 | 2022-04-22 |
@@ -225,7 +225,7 @@
 | [Rain On My WIndowpane](https://open.spotify.com/track/2WXJAtb7jxs6hYMeZSRwGU) | [Carrie Mittenkemp](https://open.spotify.com/artist/6nKvQqW0UVk8LBPUNxUH1P) | [Mist & Meadows](https://open.spotify.com/album/5TxaDCEN0hCDOAzs8PYo2k) | 2:33 | 2021-12-08 | 2022-06-10 |
 | [Raphaela](https://open.spotify.com/track/09eAG4nD5njEFBEhm2aQy9) | [Victor Manu](https://open.spotify.com/artist/2faFzPAZ0UYeY6TlerQmGK) | [Raphaela](https://open.spotify.com/album/2rHXOxttBdWZ45jSuMKgXv) | 3:00 | 2021-12-08 |  |
 | [Red Lava](https://open.spotify.com/track/5WXMiX0oO7fOya8WTWlXda) | [Oscar Roland](https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH) | [Red Lava](https://open.spotify.com/album/3hv5Apc4dgS9cVVKmmDqQH) | 2:54 | 2021-12-08 |  |
-| [Regenbogen](https://open.spotify.com/track/5vxJG9LhA0Og1hUrXYLkV7) | [Marc Neuer](https://open.spotify.com/artist/78g28CYicu3HUg0nsmh9FV) | [Regenbogen](https://open.spotify.com/album/6PBEKfVOxMDYBO9pxD3daL) | 0:29 | 2021-12-08 |  |
+| [Regenbogen](https://open.spotify.com/track/5vxJG9LhA0Og1hUrXYLkV7) | [Marc Neuer](https://open.spotify.com/artist/78g28CYicu3HUg0nsmh9FV) | [Regenbogen](https://open.spotify.com/album/6PBEKfVOxMDYBO9pxD3daL) | 3:03 | 2021-12-08 |  |
 | [Remember Me \- Acoustic Guitar Fingerstyle](https://open.spotify.com/track/4PJKrajpXGcWDKgloksMxl) | [Liu Musix](https://open.spotify.com/artist/32P70mYx8VgEtP4byzEjiI) | [Remember Me \(Acoustic Guitar Fingerstyle\)](https://open.spotify.com/album/7kx9txBwz5cAYn4ZzD5cF8) | 1:14 | 2022-06-10 |  |
 | [Rest Sea](https://open.spotify.com/track/5UcoxNaxIuTV1WQ4eOzvYm) | [Glen Beasley](https://open.spotify.com/artist/46Xi2XceJCdHvaqnh55jyP) | [Rest Sea](https://open.spotify.com/album/1TXSpQbz2TlYhGxfh5eowq) | 2:13 | 2022-02-25 |  |
 | [Rio Panama](https://open.spotify.com/track/5nmvzqwFTpY7UvC8t748bK) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Rio Panama](https://open.spotify.com/album/6n18Rbe3dJKLS0QbHCPE39) | 2:46 | 2021-12-08 |  |
@@ -245,8 +245,8 @@
 | [Serra Calderona](https://open.spotify.com/track/3tEO6W2sRQSZ4oQUABbcEa) | [Carly Sands](https://open.spotify.com/artist/1khKUhCNWMR6oXIP2SVbnD) | [Serra Calderona](https://open.spotify.com/album/7uIP8aYQMlkbaKlqQvKxPU) | 2:59 | 2021-12-08 |  |
 | [Seven Hills of Rome](https://open.spotify.com/track/6X57NpjrTZmKqzT0tnJPF0) | [Carol Maddox](https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb) | [Seven Hills of Rome](https://open.spotify.com/album/5oUkh52zA4MoZQ5G1Zw6y1) | 2:12 | 2021-12-08 | 2022-04-22 |
 | [Señorita](https://open.spotify.com/track/2cTCzjusZUZpGsnytkABMZ) | [WoodenSound](https://open.spotify.com/artist/0ouvNQ3dhZP8pyPHngaS9U) | [Señorita](https://open.spotify.com/album/0iYqYun1zmAPPVvl4xDDOT) | 2:05 | 2022-06-17 |  |
-| [Shoes Filled With Water](https://open.spotify.com/track/2yYjoMurH5WOclS46dZU7c) | [Peter Netz](https://open.spotify.com/artist/2IrjMzbLiQJ60OBz4dk1ui) | [Shoes Filled With Water](https://open.spotify.com/album/1wN4NcPAER9ivsoqj5h3yi) | 0:29 | 2022-03-18 |  |
-| [Showers of Peace](https://open.spotify.com/track/4bs9xDSrypNaBwr5gpz13t) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Showers of Peace](https://open.spotify.com/album/4dMEHoghOzPnQajEqi0nKn) | 0:29 | 2022-03-25 |  |
+| [Shoes Filled With Water](https://open.spotify.com/track/2yYjoMurH5WOclS46dZU7c) | [Peter Netz](https://open.spotify.com/artist/2IrjMzbLiQJ60OBz4dk1ui) | [Shoes Filled With Water](https://open.spotify.com/album/1wN4NcPAER9ivsoqj5h3yi) | 3:33 | 2022-03-18 |  |
+| [Showers of Peace](https://open.spotify.com/track/4bs9xDSrypNaBwr5gpz13t) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Showers of Peace](https://open.spotify.com/album/4dMEHoghOzPnQajEqi0nKn) | 2:41 | 2022-03-25 |  |
 | [Siena](https://open.spotify.com/track/6hebly36sQyqXZerurmsuO) | [Marcus Larsen](https://open.spotify.com/artist/3VvLdbNVbOdEcCrsmaOfYX) | [Siena](https://open.spotify.com/album/7uBcvHDsSXkR6m5CSHqCFJ) | 2:11 | 2021-12-08 | 2022-04-22 |
 | [Silberberg](https://open.spotify.com/track/1nK1oBJTscRvCM8dfmHejS) | [Pierre Lune](https://open.spotify.com/artist/1kuEeg8wBDQ0zJXN0puWNa) | [Le Louvre](https://open.spotify.com/album/2oO72iywMunjNXkhplNFHU) | 3:25 | 2021-12-08 | 2022-05-11 |
 | [Silent Sigh](https://open.spotify.com/track/612dMYgROLM8ZTF7ucY41U) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Silent Sigh](https://open.spotify.com/album/5znmBBJ5OV0jVSMFX9a7rT) | 2:45 | 2022-06-17 |  |
@@ -302,7 +302,7 @@
 | [Where The River Ends](https://open.spotify.com/track/3CqKDahwi9OVbSqErqolPY) | [Henry Windon](https://open.spotify.com/artist/6DQOxNdaDC3E2vfbUjpTNH) | [Where The River Ends](https://open.spotify.com/album/6B4j3Ib3hKVSFnRvHhsmna) | 1:39 | 2022-07-01 |  |
 | [Wishing It Was So](https://open.spotify.com/track/144IEqxttGI6l5MKryGZsL) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Wishing It Was So](https://open.spotify.com/album/1Gf2koBhgOt4z4QaWYVuAU) | 2:41 | 2022-07-01 |  |
 | [Zamba Para Ti](https://open.spotify.com/track/49eAMmDhReUAPvcOEgVsyx) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Zamba Para Ti](https://open.spotify.com/album/659BfmDqHVsR92lBbcJ6OL) | 2:53 | 2021-12-08 |  |
-| [Zirbenwald](https://open.spotify.com/track/1gdYPWZy8U0ucfHLRLx7HQ) | [Josep De León](https://open.spotify.com/artist/3aymPrB7uRKThm7TCk59Zl) | [Clementia](https://open.spotify.com/album/4GOIfeNnXb5pOOCYT4cV8G) | 0:29 | 2021-12-08 |  |
+| [Zirbenwald](https://open.spotify.com/track/1gdYPWZy8U0ucfHLRLx7HQ) | [Josep De León](https://open.spotify.com/artist/3aymPrB7uRKThm7TCk59Zl) | [Clementia](https://open.spotify.com/album/4GOIfeNnXb5pOOCYT4cV8G) | 3:03 | 2021-12-08 |  |
 | [Zitronen Garten](https://open.spotify.com/track/7dsDIENmLdbXdjbkzCMxAT) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Adrienne](https://open.spotify.com/album/0zmACHu3BvVIRJd2gLxF1F) | 2:23 | 2021-12-08 |  |
 | [Água e Vinho](https://open.spotify.com/track/5xPqNq3Z58ZOHH75WHs4vi) | [Yuto Kanazawa](https://open.spotify.com/artist/01svVAKPw9ioP5e46kMARC), [Diego Diaz](https://open.spotify.com/artist/3F3ZqEckbn2ofYE3LPo3su), [Eclectic Spirit](https://open.spotify.com/artist/4XKk8AOY8iU1w8DSOLaifN) | [Água e Vinho](https://open.spotify.com/album/6oqDlztZMSJQgQAMxqVQjy) | 9:53 | 2022-04-22 | 2022-07-01 |
 

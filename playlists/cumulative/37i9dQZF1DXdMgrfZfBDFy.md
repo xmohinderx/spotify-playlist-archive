@@ -4,7 +4,7 @@
 
 > Höj volymen och happy EuroPride 2018!
 
-47 songs - 2 hr 47 min - [published](https://open.spotify.com/playlist/0VHvJFJuQ0N6ErCpLQ9e4n)
+47 songs - 2 hr 53 min - [published](https://open.spotify.com/playlist/0VHvJFJuQ0N6ErCpLQ9e4n)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Boys In The Street](https://open.spotify.com/track/0gG3KpZ0bZdHpxN0ElGv36) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Greg Holden](https://open.spotify.com/artist/7Bcr2Bs6phLymt6kdqNNez) | [Boys In The Street](https://open.spotify.com/album/0PT1x8QYy3gg97nqtvx73T) | 2:44 | 2018-08-13 |  |
 | [By Your Side](https://open.spotify.com/track/5tRHBN2n050OBzhE7HwVqm) | [CocoRosie](https://open.spotify.com/artist/05fo024EFotg9songSENOZ) | [La Maison de Mon Rêve](https://open.spotify.com/album/3LSrxBoKE1q7mvFqBrShuX) | 3:59 | 2018-08-13 |  |
 | [Can't Get You out of My Head](https://open.spotify.com/track/7MoKXLQeI0Bh2QodCjDO4K) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever \(Deluxe Edition\)](https://open.spotify.com/album/2QDWFfsBr3EngvBwPtxoIY) | 3:50 | 2018-08-13 |  |
-| [Colour](https://open.spotify.com/track/7haQE5nOcxwk0HXahP0aV3) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Colour](https://open.spotify.com/album/7xniwwZWn3QwUwPqg9NbaF) | 0:29 | 2018-08-13 |  |
+| [Colour](https://open.spotify.com/track/7haQE5nOcxwk0HXahP0aV3) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Colour](https://open.spotify.com/album/7xniwwZWn3QwUwPqg9NbaF) | 3:21 | 2018-08-13 |  |
 | [Firework](https://open.spotify.com/track/3Kc1TDpaMfq6DBt4Gz3Pq1) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/3bj1fCpQtvM7xMDQRCxgNw) | 3:47 | 2018-08-13 |  |
 | [For Today I Am A Boy](https://open.spotify.com/track/5HfrHnxZ9PFVGqqAv0429L) | [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [I Am A Bird Now](https://open.spotify.com/album/0hQS7BgndCG2JCObRbZcv3) | 2:36 | 2018-08-13 |  |
 | [Forrest Gump](https://open.spotify.com/track/6RBAJlxHY9Ulvw2y7yk4aX) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE \(Explicit Version\)](https://open.spotify.com/album/623Ef2ZEB3Njklix4PC0Rs) | 3:14 | 2018-08-13 |  |
@@ -39,7 +39,7 @@
 | [Louder](https://open.spotify.com/track/3mIGfxLFKPV6xEdT5udaLR) | [Mariette](https://open.spotify.com/artist/76nW12AUcUVEiC8fwFoAns) | [Louder](https://open.spotify.com/album/2kwQVSyIGmKaWvZbHC8bwk) | 3:20 | 2018-08-13 |  |
 | [Love Yourself](https://open.spotify.com/track/6g1qEBFnXZadlTqYfKct12) | [House of Wallenberg](https://open.spotify.com/artist/6ZpU1XfAwdZID8oGwwxx2v), [Jwl B.](https://open.spotify.com/artist/3azkuacqkJcffwcF2pPUe8) | [Love Yourself \- Test Yourself](https://open.spotify.com/album/2d0a7XXca2CtKYl1pwh5sc) | 3:34 | 2018-08-13 |  |
 | [Missing U](https://open.spotify.com/track/74L6lPSnpSY5IiPcKwazZu) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Missing U](https://open.spotify.com/album/2KkPC4rSyOk7QSLVKn3Zsa) | 4:51 | 2018-08-13 |  |
-| [My My My!](https://open.spotify.com/track/2Tq2R8sRftNEqdgJK5HadO) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [My My My!](https://open.spotify.com/album/7wQrwQy96jtQETGmyGzxr8) | 0:29 | 2018-08-13 |  |
+| [My My My!](https://open.spotify.com/track/2Tq2R8sRftNEqdgJK5HadO) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [My My My!](https://open.spotify.com/album/7wQrwQy96jtQETGmyGzxr8) | 3:24 | 2018-08-13 |  |
 | [One More in the Crowd](https://open.spotify.com/track/1h3vEdVj2BPSt5bA5tMAyn) | [Thomas Sekelius](https://open.spotify.com/artist/6EzLWsqvWr22J1Xqfb725F) | [One More in the Crowd](https://open.spotify.com/album/6HVMmyBwNAiMSLSVMkRCwz) | 3:14 | 2018-08-13 |  |
 | [Pass This On](https://open.spotify.com/track/43ByS4cUILhcNM08Vscj4o) | [The Knife](https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4) | [Deep Cuts](https://open.spotify.com/album/7jVPfsUGg2AffU5G5oOP3j) | 3:48 | 2018-08-13 |  |
 | [Pynk \(feat\. Grimes\)](https://open.spotify.com/track/5OpiyfqaQLdtwHd3SfembH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 4:00 | 2018-08-13 |  |

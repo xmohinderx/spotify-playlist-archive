@@ -4,7 +4,7 @@
 
 > Upptäck svenska talanger som kommer att vara soundtracket till ditt 2014\.  En spellista som ständigt uppdateras.
 
-63 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/12ULcUeryTX9L62IjU8aNs)
+63 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/12ULcUeryTX9L62IjU8aNs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [I'm In Love](https://open.spotify.com/track/0M94S8r84UQlj30DiGakJG) | [Zhala](https://open.spotify.com/artist/2vI70V5Tc6jB3d2uzb2UEA) | [I'm In Love](https://open.spotify.com/album/4d9WOie0E4Iq4zs8rpcw9Y) | 4:00 | 2014-08-27 |  |
 | [Indian Summer](https://open.spotify.com/track/7ak59eu2Pw4TORd9GcXg2m) | [Marlene](https://open.spotify.com/artist/0pAV5GaO9ak8wk1NnF37Cl) | [Indian Summer](https://open.spotify.com/album/38G4kkUQiCtIYrTr0a2aEB) | 3:30 | 2014-06-27 |  |
 | [Inte OK](https://open.spotify.com/track/0Wm74MutbYsqdNk5DRqPX8) | [Min Stora Sorg](https://open.spotify.com/artist/53mirS5AzwzEw9MsquLXFo) | [Mvh Anso, M$$](https://open.spotify.com/album/5lTCy0H7QkUCWsilyhkhfq) | 3:13 | 2014-06-27 |  |
-| [It's All Good](https://open.spotify.com/track/4Zn4pQK12WQ96kGHMRhiKO) | [Naomi Pilgrim](https://open.spotify.com/artist/5QpXKWRjxAVZlmn5trAa16) | [It's All Good](https://open.spotify.com/album/0WD3NDgF06gmSKCFrGlvjw) | 0:29 | 2014-10-27 |  |
+| [It's All Good](https://open.spotify.com/track/4Zn4pQK12WQ96kGHMRhiKO) | [Naomi Pilgrim](https://open.spotify.com/artist/5QpXKWRjxAVZlmn5trAa16) | [It's All Good](https://open.spotify.com/album/0WD3NDgF06gmSKCFrGlvjw) | 4:09 | 2014-10-27 |  |
 | [Karma](https://open.spotify.com/track/5Oc4FV7Xst4FV6h7Djnhza) | [ROSH](https://open.spotify.com/artist/739zjStIc6EHrV5thshKkp) | [Karma](https://open.spotify.com/album/3UPYf6XG4KnoFoYXkDqt8C) | 2:11 | 2014-09-01 |  |
 | [Kattliv](https://open.spotify.com/track/3YHmE7BGCTAlMnwS58prHa) | [JOY](https://open.spotify.com/artist/0XgxgYnzpP0KwA4BMliFlq) | [Kattliv](https://open.spotify.com/album/6F8xptDIjdalRhckYJi6hs) | 3:35 | 2014-11-05 |  |
 | [Knäpper mina fingrar \- Remix](https://open.spotify.com/track/0PIXeBuPkFCpV0zAhLROoS) | [Linda Pira](https://open.spotify.com/artist/0qeei9KQnptjwb8MgkqEoy), [Kumba](https://open.spotify.com/artist/0GD2LYGX4nMj9F84HsIWp1), [ROSH](https://open.spotify.com/artist/739zjStIc6EHrV5thshKkp), [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs), [SEP](https://open.spotify.com/artist/7aNX7YUSCDIcwGNlZlVpKo), [Vanessa Falk](https://open.spotify.com/artist/0GIFTbUHTZfEHaGy2ZsI0E), [Rawda](https://open.spotify.com/artist/7vITWGrhforyqJKaMUwdAH), [Julia Spada](https://open.spotify.com/artist/0GtgBnMAiOhU6MebyAB0V2), [JOY](https://open.spotify.com/artist/0XgxgYnzpP0KwA4BMliFlq) | [Knäpper mina fingrar \(Remix\)](https://open.spotify.com/album/3SqGWXewLT9SsdQRvFYJeQ) | 4:23 | 2014-09-01 |  |
@@ -54,7 +54,7 @@
 | [Ovanför mitt huvud](https://open.spotify.com/track/4Dr4FgZgEzVKuzQ85Us0F4) | [Hanna Järver](https://open.spotify.com/artist/6JHabNWuD8rd3TQQtMf6Q5) | [Smutsen](https://open.spotify.com/album/1Qq6LX6e7j7KyYhLJmnuJC) | 2:35 | 2014-06-27 |  |
 | [Over and Out](https://open.spotify.com/track/2Yb9rplJSs1UxcRnXX508Q) | [Elin Bell](https://open.spotify.com/artist/0vbY7qZnawsS6XoxZ0wKev) | [Over and Out](https://open.spotify.com/album/4BT3Md1gzoZ6tsEZ1XACnE) | 3:02 | 2014-06-27 |  |
 | [Refugee](https://open.spotify.com/track/2lvMXoYjfJMJpjly1PVBLB) | [Nadia Tehran](https://open.spotify.com/artist/09ESvFEyyX1aDdRg5kmsvu) | [Refugee](https://open.spotify.com/album/1mWT7urJptqLU6t5cGexxk) | 3:05 | 2014-09-22 |  |
-| [Say it Like You Mean it](https://open.spotify.com/track/30YuvcPzM120mgeNchky6p) | [Maria Hazell](https://open.spotify.com/artist/44pv88VpkRu39v0lupR2gZ) | [Say it Like You Mean it](https://open.spotify.com/album/38cgcDlZXNWPgU1L4OLbhf) | 0:29 | 2014-06-27 |  |
+| [Say it Like You Mean it](https://open.spotify.com/track/30YuvcPzM120mgeNchky6p) | [Maria Hazell](https://open.spotify.com/artist/44pv88VpkRu39v0lupR2gZ) | [Say it Like You Mean it](https://open.spotify.com/album/38cgcDlZXNWPgU1L4OLbhf) | 3:16 | 2014-06-27 |  |
 | [Scarred for Life](https://open.spotify.com/track/6hSxfT77rrINwjBwNLJQyk) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Scarred for Life](https://open.spotify.com/album/2pLJ6YzC5PaXwm33bvU4Y6) | 3:48 | 2014-06-27 |  |
 | [Se mig](https://open.spotify.com/track/7eQqI59dSjsfwB3BZGGBd8) | [Ida Redig](https://open.spotify.com/artist/2Q5xMO7xxS59W7ipdDQMQe) | [Se mig](https://open.spotify.com/album/3ZFgKDVHC0csLpU5KBqBkY) | 2:53 | 2014-06-27 |  |
 | [Side by Side](https://open.spotify.com/track/0YmkdpMyPBwf3aaJmlNTl9) | [Nottee](https://open.spotify.com/artist/4HzwGvwclnBi96qEpAh42Q) | [Side by Side](https://open.spotify.com/album/7GFioZolEtO3efNAgPRfx6) | 3:57 | 2014-06-27 |  |
@@ -68,7 +68,7 @@
 | [Vacant Days](https://open.spotify.com/track/5vWzyysH15DxnwjQDc2AmX) | [Linn Öberg](https://open.spotify.com/artist/23tqPeCtmL4RUtfy8VAG00) | [Vacant Days](https://open.spotify.com/album/3PRhxHPndECx3G2FbeYgzB) | 3:51 | 2014-06-27 |  |
 | [Vita Bergens klockor](https://open.spotify.com/track/1tQm2rikJzY16ydAO4MarP) | [Little Jinder](https://open.spotify.com/artist/5QYBoZAoupoPPuFB1KHfx0) | [Vita Bergens klockor](https://open.spotify.com/album/6Q599hbIBQ1Kc31U40oS3o) | 2:58 | 2014-08-29 |  |
 | [Weaken Me](https://open.spotify.com/track/7dtWskhOE8BM0QFTZV60pS) | [Bright Light](https://open.spotify.com/artist/5eVGKlBIDFLuG0wJPL6wHi) | [Weaken Me](https://open.spotify.com/album/6Uzv0LKk4R0MFTg1wGFNHK) | 4:48 | 2014-08-18 |  |
-| [Wild At Heart](https://open.spotify.com/track/3WZFBxHWyIVlzH4nDAyR0B) | [Jaquline Ronneklew](https://open.spotify.com/artist/1mDQs9Mv3bVIJJyx2XCawe) | [Wild At Heart](https://open.spotify.com/album/0RY8mgqyjUUfXRa47kf9FF) | 0:29 | 2014-06-27 |  |
+| [Wild At Heart](https://open.spotify.com/track/3WZFBxHWyIVlzH4nDAyR0B) | [Jaquline Ronneklew](https://open.spotify.com/artist/1mDQs9Mv3bVIJJyx2XCawe) | [Wild At Heart](https://open.spotify.com/album/0RY8mgqyjUUfXRa47kf9FF) | 3:11 | 2014-06-27 |  |
 | [Yes I Did Go There](https://open.spotify.com/track/6ZYDtUFfikwkTNwxzmxDtx) | [Linnea Olsson](https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0) | [Breaking and Shaking](https://open.spotify.com/album/0FUxJv4VOv3YcDij7mXo6n) | 3:11 | 2014-10-15 |  |
 | [You](https://open.spotify.com/track/2kAwRhYlFuUTqhdeeWdzyO) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [For Madeleine](https://open.spotify.com/album/0rk5czGKHLHVD0UYSz2cNB) | 3:41 | 2014-10-01 |  |
 

@@ -4,7 +4,7 @@
 
 > Descubre hoy a los artistas de mañana\. Foto: Quevedo
 
-121 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/0uaQZzCtnp7y3M4o0OYD28)
+121 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/0uaQZzCtnp7y3M4o0OYD28)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [No Limit](https://open.spotify.com/track/0z6ojlCxcIJViynVpq7MUg) | [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki), [ThePoing](https://open.spotify.com/artist/25GeI9XfoQKewss8IzQyyO) | [No Limit](https://open.spotify.com/album/6bZBGnZnq8j512ROPGMxZ9) | 3:00 | 2021-12-31 | 2022-02-18 |
 | [No Llores \(feat\. Alice Wonder\)](https://open.spotify.com/track/78LUKLAVTjqQEf7f6b0PXg) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [No Llores \(feat\. Alice Wonder\)](https://open.spotify.com/album/2NlrMp7I85XX6HdkFJmJBM) | 3:38 | 2022-03-31 |  |
 | [Noche polar](https://open.spotify.com/track/4cXeNKP5jqKXuVyhdDAN6n) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [Noche polar](https://open.spotify.com/album/2AYtEgiEF4ZUyFlqDZfkoL) | 3:18 | 2021-12-31 | 2022-04-01 |
-| [Nunca](https://open.spotify.com/track/5GX4SBazl8LN2evBukEbQt) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [100tas / Nunca](https://open.spotify.com/album/6sudcxwz43CeEYXrmBvlys) | 0:29 | 2022-03-31 |  |
+| [Nunca](https://open.spotify.com/track/5GX4SBazl8LN2evBukEbQt) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [100tas / Nunca](https://open.spotify.com/album/6sudcxwz43CeEYXrmBvlys) | 3:12 | 2022-03-31 |  |
 | [Oh my love \(ho tens tot per fer\)](https://open.spotify.com/track/3zToxIvBtdKcR5JNBb16gM) | [Marialluïsa](https://open.spotify.com/artist/57vnEmo3jRkWAigCYgNRaD) | [Oh my love \(ho tens tot per fer\)](https://open.spotify.com/album/0PiNBGPTW8hxh3bqEeTuPf) | 2:51 | 2021-12-31 | 2022-02-05 |
 | [Ojalá Fuéramos Amigos \(Buffetlibre Remix\)](https://open.spotify.com/track/5j6eTIKDiwc8r0LN3lFMSB) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q), [Buffetlibre](https://open.spotify.com/artist/4wlrSsiSPO3L9DbJVuzXuh) | [Dime Algo \(bonito\) \(True Fans Edition\)](https://open.spotify.com/album/3Pvc669UGSa0e2LajSLL9g) | 3:22 | 2022-06-06 |  |
 | [Olvídate](https://open.spotify.com/track/60Xq104dahklh2LSciVGEs) | [Love Yi](https://open.spotify.com/artist/6qyklgt2wzPT7KRdu15ZFL), [Naes Beats](https://open.spotify.com/artist/3XOMOMdcShaVEZi9xtuMNu) | [Olvídate](https://open.spotify.com/album/4Tpa7IkzjSUOELKTr9Cfi2) | 2:38 | 2021-12-31 | 2022-04-01 |

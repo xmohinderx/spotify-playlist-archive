@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67KMeDsV7oL.md) - [plain]
 
 > Check out the Official Spiderhead Playlist\. Watch now on Netflix
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,197 likes - 21 songs - 1 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,262 likes - 21 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,14 +17,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67KMeDsV7oL.md) - [plain]
 | 7 | [Drip On](https://open.spotify.com/track/4hhFueieNdbLnYyHg0FHN9) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Spiderhead \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/5haACGpU0WzL5FkCUr6YGI) | 1:13 |
 | 8 | [Breezin'](https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Breezin'](https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5) | 5:41 |
 | 9 | [More Than This](https://open.spotify.com/track/6N7gPTru90HYLRUIVDQ185) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Avalon](https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw) | 4:30 |
-| 10 | [Rise](https://open.spotify.com/track/1TsmHRIXvMTLP7Vu53XsUV) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [Rise](https://open.spotify.com/album/7HY0aAzDNhAqmFHATtABPY) | 0:29 |
+| 10 | [Rise](https://open.spotify.com/track/1TsmHRIXvMTLP7Vu53XsUV) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [Rise](https://open.spotify.com/album/7HY0aAzDNhAqmFHATtABPY) | 7:37 |
 | 11 | [Free Fridays](https://open.spotify.com/track/7rywJRCE0hIWh3VzkBHXVd) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Spiderhead \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/5haACGpU0WzL5FkCUr6YGI) | 2:59 |
 | 12 | [Shanghai Express](https://open.spotify.com/track/5oqDSbyHSMKSQocnTx6U28) | [Maurizio Dami](https://open.spotify.com/artist/5TVeAJmehYn5Feb2mojsAF) | [Heart Of The Chart](https://open.spotify.com/album/2tlyQK9gIlVCbunjrPFOHH) | 3:02 |
 | 13 | [The Choice](https://open.spotify.com/track/6uIpCAvWH0OniWOLz3L6oL) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M), [Tonality](https://open.spotify.com/artist/5pcicNTH7aIJujRAA7WFXg) | [Spiderhead \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/5haACGpU0WzL5FkCUr6YGI) | 3:49 |
 | 14 | [Peppermint Park](https://open.spotify.com/track/3T8euNLupr0hwqS1oEITjt) | [Paul Hart](https://open.spotify.com/artist/6HqDg6DeGjz0SgqEEEEmVu) | [Bruton Vaults: Disco, Vol\. 1](https://open.spotify.com/album/68w7yR6DkhU0OL9EXeeEbK) | 3:17 |
 | 15 | [Double Dose](https://open.spotify.com/track/6ufiWSDtrSMSoZVF5gPmJf) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Spiderhead \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/5haACGpU0WzL5FkCUr6YGI) | 1:24 |
 | 16 | [Can People Change?](https://open.spotify.com/track/3AYs78JSa3FgmQxTtNyrQi) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M), [Tonality](https://open.spotify.com/artist/5pcicNTH7aIJujRAA7WFXg) | [Spiderhead \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/5haACGpU0WzL5FkCUr6YGI) | 3:11 |
-| 17 | [Crazy Love](https://open.spotify.com/track/4l6uTQ4A2eWZrOzjgm1bey) | [Poco](https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR) | [Legend](https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi) | 0:29 |
+| 17 | [Crazy Love](https://open.spotify.com/track/4l6uTQ4A2eWZrOzjgm1bey) | [Poco](https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR) | [Legend](https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi) | 2:56 |
 | 18 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 3:10 |
 | 19 | [Holy F\*cking Sh\*t](https://open.spotify.com/track/4yzTjl4ty6k2KSQ9JCd2fc) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Spiderhead \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/5haACGpU0WzL5FkCUr6YGI) | 2:11 |
 | 20 | [The Logical Song](https://open.spotify.com/track/2IOeOJyiuzwF8BRAK9jJyj) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America](https://open.spotify.com/album/7i75GRwJbhDDiLi2uQHTtZ) | 4:11 |

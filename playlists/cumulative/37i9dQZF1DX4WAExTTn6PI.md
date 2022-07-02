@@ -4,7 +4,7 @@
 
 > Americana's artists and hits of tomorrow\. Cover: <b>Margo Cilker</b>
 
-100 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/3WdmenyKB3dQaj0flMEbZm)
+100 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/3WdmenyKB3dQaj0flMEbZm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [False Gods](https://open.spotify.com/track/3yP5h28oeRzAphURxUruUt) | [Evan Bartels](https://open.spotify.com/artist/1Ylh9mfN4qqJMl2uDr6sUd) | [Lonesome](https://open.spotify.com/album/4Tb5K95mAHziwCorYbpFOt) | 3:42 | 2022-01-28 |  |
 | [Feelin' the Miles](https://open.spotify.com/track/6sBhfRlQWEGJ8QyEvZMX0v) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD) | [Feelin' the Miles](https://open.spotify.com/album/1StvJe5JR5Sx96l4hAw0Xv) | 4:17 | 2022-01-28 |  |
 | [Fine](https://open.spotify.com/track/6LmNt8QiBNUdJEjoH1LjX0) | [Stephanie Lambring](https://open.spotify.com/artist/7chfbqQEd0M1cJPwybXaZD) | [Fine](https://open.spotify.com/album/7aEcSdpc5OpkK2hUxXEff8) | 2:40 | 2022-01-28 |  |
-| [For the Birds](https://open.spotify.com/track/5eCSVLc6dpco6I8yNSLTsq) | [Aaron Raitiere](https://open.spotify.com/artist/3Gbx4tL0G9U5j233fXABXw) | [For the Birds](https://open.spotify.com/album/3W4ao1ItDRAehHMxMrW6tA) | 0:29 | 2022-02-25 |  |
+| [For the Birds](https://open.spotify.com/track/5eCSVLc6dpco6I8yNSLTsq) | [Aaron Raitiere](https://open.spotify.com/artist/3Gbx4tL0G9U5j233fXABXw) | [For the Birds](https://open.spotify.com/album/3W4ao1ItDRAehHMxMrW6tA) | 3:41 | 2022-02-25 |  |
 | [For the Rest of Our Lives](https://open.spotify.com/track/7ejg7RBniZZI2UnfLhfoLF) | [Sam Outlaw](https://open.spotify.com/artist/7H7Gnji0UkEt9bWGPRP55r) | [Popular Mechanics](https://open.spotify.com/album/3cHqOwdigCwPgHKHCPt2oP) | 3:40 | 2022-01-28 |  |
 | [Frosty](https://open.spotify.com/track/0FmlgrraTPBRAxKXZLqQew) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Frosty](https://open.spotify.com/album/5k2zEnNqQRfmR8CWdJaAtH) | 3:51 | 2022-01-28 |  |
 | [Further Away \(feat\. Brit Taylor\) \- Acoustic](https://open.spotify.com/track/0k4scDoifVtunh3rPqTGp4) | [Adam Chaffins](https://open.spotify.com/artist/7u8QKSBu9RZDBjCn0H4jlj), [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC) | [Further Away \(Acoustic\) \[feat\. Brit Taylor\]](https://open.spotify.com/album/6qWkuqAxfQMh1uDcnk7BFD) | 3:56 | 2022-01-28 |  |
@@ -36,7 +36,7 @@
 | [Get It ‘Fore It’s Gone](https://open.spotify.com/track/0yEK6lJ4hZw1mx2nIQ5i66) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [Get It ‘Fore It’s Gone](https://open.spotify.com/album/36rWb7X5e9PkWN8wpsVFXW) | 3:34 | 2022-01-28 |  |
 | [Give Until It Hurts](https://open.spotify.com/track/6LtFRtkqcMYttZVFLdpjcT) | [Jace Everett](https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs) | [Give Until It Hurts](https://open.spotify.com/album/06ExLCRx2FS9iJfXd1z8rd) | 3:17 | 2022-02-25 |  |
 | [Golden Child](https://open.spotify.com/track/54ST44raZeEPHldDpV0x2m) | [Mercy Bell](https://open.spotify.com/artist/66gM98dnEDRy8GkDmZt0EG) | [Golden Child](https://open.spotify.com/album/3zgi09x1GpxbxjBx087ajX) | 3:59 | 2022-01-28 |  |
-| [Good Night Down in Georgia](https://open.spotify.com/track/2SJygkVMOLAp8690LOee1h) | [The Dirty Guv'nahs](https://open.spotify.com/artist/4h3cy2TQzlb5Aklcr2CghR) | [Revival](https://open.spotify.com/album/4C75RzJVeSN3s1K0cwZTpY) | 0:29 | 2022-01-28 |  |
+| [Good Night Down in Georgia](https://open.spotify.com/track/2SJygkVMOLAp8690LOee1h) | [The Dirty Guv'nahs](https://open.spotify.com/artist/4h3cy2TQzlb5Aklcr2CghR) | [Revival](https://open.spotify.com/album/4C75RzJVeSN3s1K0cwZTpY) | 4:10 | 2022-01-28 |  |
 | [Goodbye to Goodbye](https://open.spotify.com/track/3cwJEaPREKbmAOqG1cIx2T) | [Thomas Csorba](https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH) | [For You](https://open.spotify.com/album/5Gv1mY3pYSO0mEu7J3aR9F) | 3:46 | 2022-01-28 |  |
 | [Green Rocky Road](https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY) | [Bria](https://open.spotify.com/artist/7f71lxhHip9KvlOVpwtWm3) | [Green Rocky Road](https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8) | 3:21 | 2022-01-28 |  |
 | [Guilty](https://open.spotify.com/track/1WKRU8ovR8lbHD5gIj8h2P) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Guilty](https://open.spotify.com/album/50ahLeRHDEANoAMhDnaNCz) | 3:02 | 2022-01-28 |  |
@@ -54,7 +54,7 @@
 | [In Dreams](https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Long Time Coming](https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB) | 2:41 | 2022-01-28 |  |
 | [Jack of Fools](https://open.spotify.com/track/1Fx7t6OvcoswWDtOlh1NcL) | [Spencer Cullum](https://open.spotify.com/artist/1u2RgFiCSd9phVG5OB51jr) | [Jack of Fools](https://open.spotify.com/album/3roREPgmhlZx06ZxDn7vyR) | 4:48 | 2022-01-28 |  |
 | [Joke’s On Me](https://open.spotify.com/track/3D5oJNxiaeiUoXAtj30gUS) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs) | [Cycles](https://open.spotify.com/album/2rVf460T5uk97vo7pwM44L) | 2:46 | 2022-01-28 |  |
-| [Just Friends](https://open.spotify.com/track/57zMdIUJcV523YHPGe4HoY) | [Them Coulee Boys](https://open.spotify.com/artist/0rHOjcy9iMdgpJMq0kPf08) | [Just Friends](https://open.spotify.com/album/1lVS2UkbgxtNZjCDPXmdTo) | 0:29 | 2022-01-28 |  |
+| [Just Friends](https://open.spotify.com/track/57zMdIUJcV523YHPGe4HoY) | [Them Coulee Boys](https://open.spotify.com/artist/0rHOjcy9iMdgpJMq0kPf08) | [Just Friends](https://open.spotify.com/album/1lVS2UkbgxtNZjCDPXmdTo) | 3:34 | 2022-01-28 |  |
 | [Just Like Leaving](https://open.spotify.com/track/63C5SO2zyoWvMS6JL6mv8Y) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Just Like Leaving](https://open.spotify.com/album/0Opbhs5LBTdPR63ndzzsNw) | 3:26 | 2022-01-28 |  |
 | [KD and Lunch Meat](https://open.spotify.com/track/6e9MVekzR3Gku26kBwGezo) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Church of Better Daze](https://open.spotify.com/album/3nvWKBg5uzny3jko5ezHJJ) | 4:20 | 2022-01-28 |  |
 | [Learn to Love You Better](https://open.spotify.com/track/1pWfVPTZXjRMSQDDz0fPNg) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Learn to Love You Better](https://open.spotify.com/album/0HfN0dvsXuFL316in0EoPu) | 3:34 | 2022-01-28 |  |

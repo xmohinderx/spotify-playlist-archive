@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/0mJut6QO3dUUAOJlBPujT1.md) - [plain]
 
 > Popaganda jubilerar, då festivalen nu fyller 10 år\. Sommarens upplaga arrangeras vid Eriksdalsbadet i Stockholm, den 24 \- 25 augusti\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22 likes - 22 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 22 likes - 22 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Du växer upp](https://open.spotify.com/track/1AsAOHQlQWPceJBaslqowu) | [Love Antell](https://open.spotify.com/artist/1NsCBCpJLNQstRoKr4oS0G) | [Gatorna tillhör oss](https://open.spotify.com/album/5J3bD2tzyHMiELErfPu4fB) | 5:01 |
-| 2 | [Beväpna dig med vingar](https://open.spotify.com/track/6HGm0lE0Oh7pdOVBFKdFLY) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Beväpna dig med vingar](https://open.spotify.com/album/2xMq0DLaCb66hJ2pt5Y6m8) | 0:29 |
+| 2 | [Beväpna dig med vingar](https://open.spotify.com/track/6HGm0lE0Oh7pdOVBFKdFLY) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Beväpna dig med vingar](https://open.spotify.com/album/2xMq0DLaCb66hJ2pt5Y6m8) | 5:16 |
 | 3 | [Barnens ö](https://open.spotify.com/track/1MwitWogRB9PS6yi9RjFRJ) | [Love Antell](https://open.spotify.com/artist/1NsCBCpJLNQstRoKr4oS0G) | [Gatorna tillhör oss](https://open.spotify.com/album/5J3bD2tzyHMiELErfPu4fB) | 4:43 |
-| 4 | [9 Crimes](https://open.spotify.com/track/5GZEeowhvSieFDiR8fQ2im) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [9](https://open.spotify.com/album/25gOFTD048bIqswkdmG0FH) | 0:29 |
+| 4 | [9 Crimes](https://open.spotify.com/track/5GZEeowhvSieFDiR8fQ2im) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [9](https://open.spotify.com/album/25gOFTD048bIqswkdmG0FH) | 3:37 |
 | 5 | [Bring Us Closer Together](https://open.spotify.com/track/7AZcRVaCaewwKx3coErtHW) | [Hooray For Earth](https://open.spotify.com/artist/6nWFpsxlVUMJW6epD1DAan) | [True Loves](https://open.spotify.com/album/405Qw2K0QaD0Fw1kc00Qcq) | 4:27 |
 | 6 | [Precious](https://open.spotify.com/track/411VbQuHjjLeHUVGcWGn3i) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/0Sspmm7cIY7LAyupAGbPxH) | 3:51 |
 | 7 | [When Buildings Sleep](https://open.spotify.com/track/4Wi4Yh4maMkg7wJs2EG2Ax) | [Deportees](https://open.spotify.com/artist/64WsK4rMjSwnyuzTPFHVH4) | [Islands & Shores](https://open.spotify.com/album/0CcemDxth7sipgWhMj3TvZ) | 3:12 |

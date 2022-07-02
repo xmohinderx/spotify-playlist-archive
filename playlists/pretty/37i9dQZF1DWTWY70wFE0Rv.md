@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWY70wFE0Rv.md) - [plain]
 
 > This playlist is a soundtrack for you to live your best life, to experience the best love you will ever have, to remember that in the moments where things feel hard, hard times don't last forever\. With Love, <a href="https://www.theokraproject.com/">The Okra Project</a> \| Cover: Dominique Morgan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,745 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,747 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWY70wFE0Rv.md) - [plain]
 | 3 | [Do You Feel](https://open.spotify.com/track/7vuEdoEGYqzfR1ooE8EhlE) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [No Beginning No End](https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW) | 7:36 |
 | 4 | [Forever, For Always, For Love](https://open.spotify.com/track/6tQX9qDeJ88Vhk7uZfFvNo) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Outrun The Sky](https://open.spotify.com/album/6owHkIavlncFxnnbUMJwbE) | 5:52 |
 | 5 | [4 The Fem Queens](https://open.spotify.com/track/5jnVGp8kk4GWF2FlXux4P5) | [Miss Mojo](https://open.spotify.com/artist/2wDJcQxaxR2xnoKtfx3AwY) | [JUICY](https://open.spotify.com/album/4Xj3Sgf7vACo5nNij3gkVI) | 3:40 |
-| 6 | [Pressure](https://open.spotify.com/track/0ChvD4klEvWUqExCIuHvF6) | [Miss Iman Hill](https://open.spotify.com/artist/1oBacgdbTxrL6KS8VSGOmr) | [If Mona Lisa Could Talk](https://open.spotify.com/album/7t62YSvKh49ktuf1z3sBFj) | 0:29 |
+| 6 | [Pressure](https://open.spotify.com/track/0ChvD4klEvWUqExCIuHvF6) | [Miss Iman Hill](https://open.spotify.com/artist/1oBacgdbTxrL6KS8VSGOmr) | [If Mona Lisa Could Talk](https://open.spotify.com/album/7t62YSvKh49ktuf1z3sBFj) | 3:10 |
 | 7 | [Be Alive \(Original Song from the Motion Picture "King Richard"\)](https://open.spotify.com/track/1RI4YQVFh7onQD07QuL8ND) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Be Alive \(Original Song from the Motion Picture "King Richard"\)](https://open.spotify.com/album/5a73HUmrKIebjmafM1QuFS) | 3:40 |
 | 8 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 |
 | 9 | [Rider](https://open.spotify.com/track/7BUnSvQPU5m830Et7fLAZt) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [AZEB \- EP](https://open.spotify.com/album/0HvQdKEGTs0l1fV5feEYDi) | 2:45 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWY70wFE0Rv.md) - [plain]
 | 34 | [Wrong Side Of A Love Song](https://open.spotify.com/track/43cN7vrp1gSL1e0pdvVNxA) | [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [The MF Life \(Deluxe Version\)](https://open.spotify.com/album/3PWwOV9kUSHZ4EvFFKWLLY) | 4:30 |
 | 35 | [Why I Love You So Much](https://open.spotify.com/track/7EKvTUo567BRNzZ37clvlf) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Miss Thang](https://open.spotify.com/album/71mPApAzW9HkbUGdYzMQHb) | 4:30 |
 | 36 | [I Wish You Loved Me](https://open.spotify.com/track/2KsOotB3cHPTO4dB07dlJp) | [Tynisha Keli](https://open.spotify.com/artist/4woYaobeWQFBSGf9mtoAZ8) | [The Chronicles Of TK \[Japanese Edition\]](https://open.spotify.com/album/41hpT7k9MNRkgghU1QqHlw) | 4:53 |
-| 37 | [Can't Raise a Man](https://open.spotify.com/track/0vvKyFjX1hzSwpNtVwnJ2H) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [Rebellious Soul](https://open.spotify.com/album/6fGZwUN91Qe5h8xFcLV487) | 0:29 |
+| 37 | [Can't Raise a Man](https://open.spotify.com/track/0vvKyFjX1hzSwpNtVwnJ2H) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [Rebellious Soul](https://open.spotify.com/album/6fGZwUN91Qe5h8xFcLV487) | 3:28 |
 | 38 | [Love and War](https://open.spotify.com/track/3fLBmhcgWkPI47LfVQ8paB) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS) | [Love and War](https://open.spotify.com/album/1783Mxpt38yxafCtFlgHNF) | 4:01 |
 | 39 | [I Was in Love With a Leo](https://open.spotify.com/track/35ZH2BO1Na2VZ2QHJBX7O6) | [Dominique Morgan](https://open.spotify.com/artist/4riHAK77Qlj2f1Kp1lYyHh) | [I Was in Love With a Leo](https://open.spotify.com/album/1Al0gWEeIwG7w8v3hgHFe6) | 4:31 |
 | 40 | [I Care 4 U](https://open.spotify.com/track/2YpFUAIL8VXtS4oUap79ZR) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [I Care 4 U](https://open.spotify.com/album/50GHwAog5gmnqkypVkDso8) | 4:33 |

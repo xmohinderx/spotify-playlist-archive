@@ -4,7 +4,7 @@
 
 > Ženy v plné síle\. Poslouchej EQUAL CZ&SK\. Cover: Sima
 
-126 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/0SBZE5WqIPIEhAB3YQXr14)
+126 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/0SBZE5WqIPIEhAB3YQXr14)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Kancelář](https://open.spotify.com/track/6IuzpgMwwyRXhUJgiVGZmu) | [Annie](https://open.spotify.com/artist/67IQhB57JST5EyO2UrLssN) | [Kancelář](https://open.spotify.com/album/7GhVvSQAUYJblb40MZzD4w) | 2:48 | 2022-05-31 |  |
 | [Každá z nás](https://open.spotify.com/track/5vdAfclJ9hvFP2AYgmBlQT) | [Patricia Vittek](https://open.spotify.com/artist/6wrZoxN06FzISm5GLxIrVD) | [Každá z nás](https://open.spotify.com/album/2LnOCuZCOMnmIKuqp5BCNd) | 3:07 | 2022-01-04 | 2022-06-01 |
 | [Když padá sníh](https://open.spotify.com/track/1xrMKGJ5nycrs0bb5fxFLi) | [Beata Hlavenková](https://open.spotify.com/artist/68dZWan7YTk0CRUFAcnL5a), [Patrick Karpentski](https://open.spotify.com/artist/7oF08zezX4pP7Lj3FmDZ8i), [Oskar Török](https://open.spotify.com/artist/6ggig1QTrvv08jV2Q92vhs), [Miloš Klápště](https://open.spotify.com/artist/1LLJW5e4EiNCrIAZUxf5Bm) | [Žijutě](https://open.spotify.com/album/5Wv0jQgHdS7x4keczmy9uB) | 4:17 | 2021-12-07 | 2022-03-08 |
-| [Lampiony](https://open.spotify.com/track/4wXqxa0NBj9pAt6Z9dbxae) | [DIA](https://open.spotify.com/artist/0PsuGDOlfOP2oextgt3x6H) | [Lampiony](https://open.spotify.com/album/73OblXxnh21rQ9KMZNKgng) | 0:29 | 2022-03-07 |  |
+| [Lampiony](https://open.spotify.com/track/4wXqxa0NBj9pAt6Z9dbxae) | [DIA](https://open.spotify.com/artist/0PsuGDOlfOP2oextgt3x6H) | [Lampiony](https://open.spotify.com/album/73OblXxnh21rQ9KMZNKgng) | 3:25 | 2022-03-07 |  |
 | [Lilith](https://open.spotify.com/track/4aNNkD2DuKkq2xT074awc6) | [Terra](https://open.spotify.com/artist/1HCRMgwVECDvvNTDcgu1Df) | [Lilith](https://open.spotify.com/album/6V74Tl5BkFcmjgFzlrXKlS) | 3:42 | 2022-01-04 | 2022-06-01 |
 | [Linen](https://open.spotify.com/track/1eko0b6kZqU7rYxMfeOy9N) | [Chief Bromden](https://open.spotify.com/artist/3P0deXQVCXFzlLH4kMYth7), [Lenka Dusilová](https://open.spotify.com/artist/3VbN94vOm46nI5TTJgnKtI) | [Linen](https://open.spotify.com/album/5fdGPlWPcQVMp92RvTrKsN) | 4:56 | 2022-04-05 |  |
 | [Lithium](https://open.spotify.com/track/7ziz6Iu5msY4wCZMM2Wqr3) | [Lenny](https://open.spotify.com/artist/2KRtorIOtz60uFtab8N89y) | [Lithium](https://open.spotify.com/album/3cUCl0xAC7X5IdIhcSkWDH) | 2:49 | 2021-12-07 | 2022-04-06 |

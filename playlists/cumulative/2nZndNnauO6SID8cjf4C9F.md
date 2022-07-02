@@ -4,13 +4,13 @@
 
 > MMG top picks chosen by Spotify.
 
-40 songs - 2 hr 32 min - [published](https://open.spotify.com/playlist/4y8nGcU7lg9W5cfmjTKAH5)
+40 songs - 2 hr 38 min - [published](https://open.spotify.com/playlist/4y8nGcU7lg9W5cfmjTKAH5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3 Kings \- Album Version \(Edited\)](https://open.spotify.com/track/1uNqULK5Y6cKkjFCv0gljK) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [God Forgives, I Don't \(Deluxe Edition\)](https://open.spotify.com/album/1tNzdqkrtt6vwdCTj5gYCD) | 4:21 | 2013-03-26 |  |
 | [Amen \(feat\. Drake\)](https://open.spotify.com/track/32UIpKdyGzgTPTO8e5ge5c) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Dreams and Nightmares \(Deluxe Edition\)](https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7) | 4:49 | 2013-03-26 |  |
-| [Another Luvr](https://open.spotify.com/track/7skVOyJoDimP45EO8TkEew) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE) | [Luxurious Undergrind](https://open.spotify.com/album/2Ey4YxvrLth0qSj0sprlX8) | 0:29 | 2013-03-26 |  |
+| [Another Luvr](https://open.spotify.com/track/7skVOyJoDimP45EO8TkEew) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE) | [Luxurious Undergrind](https://open.spotify.com/album/2Ey4YxvrLth0qSj0sprlX8) | 4:20 | 2013-03-26 |  |
 | [Bad \(feat\. Tiara Thomas\)](https://open.spotify.com/track/64Nbnw22f8adeMuLd1nSBD) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Tiara Thomas](https://open.spotify.com/artist/69FykkhiqpzqeSNYRxc8BI) | [Bad \(feat\. Tiara Thomas\)](https://open.spotify.com/album/06oKL6rtXNlQxlPyZQeb1i) | 4:15 | 2013-03-26 |  |
 | [Bad Girls Club \(feat\. J\. Cole\)](https://open.spotify.com/track/1CS4y2ml2YyisaXuXtqhiQ) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Bad Girls Club \(feat\. J\. Cole\)](https://open.spotify.com/album/7IyNUXrfIuRa2KYngZRYSU) | 4:34 | 2013-03-26 |  |
 | [Bag of Money \(feat\. Rick Ross & T\-Pain\)](https://open.spotify.com/track/3fXYcpFvBCsfyZAtOWoPXz) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Bag Of Money \(feat\. Rick Ross, Meek Mill & T\-Pain\)](https://open.spotify.com/album/6VW4wK2qi8mHeBGcgHYvBo) | 4:07 | 2013-03-26 |  |
@@ -47,6 +47,6 @@
 | [The War](https://open.spotify.com/track/4qaiKyqxcmZP8VPhfylMVv) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [More About Nothing](https://open.spotify.com/album/5nq9ioskYcYPa7CYULSQ8T) | 4:27 | 2013-03-26 |  |
 | [The Zenith \(feat\. Rick Ross\)](https://open.spotify.com/track/6mE4db2UrqbEDSxOvkkxIo) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Stalley](https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [MMG Presents: Self Made, Vol\. 2 \(Deluxe Version\)](https://open.spotify.com/album/2l6Ea6NWoJBM23iVKwxgV5) | 4:30 | 2013-03-26 |  |
 | [This Thing of Ours \(feat\. Rick Ross & Nas\)](https://open.spotify.com/track/4Izv8YcbPkIXOZW76h68hG) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [MMG Presents: Self Made, Vol\. 2 \(Deluxe Version\)](https://open.spotify.com/album/6i5RM49EP7GbJiHX7D2eV6) | 4:09 | 2013-03-26 |  |
-| [To Hell With It](https://open.spotify.com/track/1Yb7Brj9jmIdoHns2InldA) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE) | [Luxurious Undergrind](https://open.spotify.com/album/2Ey4YxvrLth0qSj0sprlX8) | 0:29 | 2013-03-26 |  |
+| [To Hell With It](https://open.spotify.com/track/1Yb7Brj9jmIdoHns2InldA) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE) | [Luxurious Undergrind](https://open.spotify.com/album/2Ey4YxvrLth0qSj0sprlX8) | 3:27 | 2013-03-26 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

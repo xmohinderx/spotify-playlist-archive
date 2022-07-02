@@ -4,7 +4,7 @@
 
 > These artists changed the world by changing their tune\.  Their music not only grooved but moved the world with personal and political messages.
 
-22 songs - 1 hr 27 min - [published](https://open.spotify.com/playlist/1V8WWR5ROjEXfGUfw3HRgC)
+22 songs - 1 hr 30 min - [published](https://open.spotify.com/playlist/1V8WWR5ROjEXfGUfw3HRgC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Friendship Train](https://open.spotify.com/track/6ZuT1W9PtkDMit1dbDs8jz) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [20th Century Masters: The Millennium Collection: Best Of Gladys Knight & The Pips](https://open.spotify.com/album/69XU1bvrFrlSonYJpWKjrn) | 3:50 | 2019-06-18 |  |
 | [Greetings \(This Is Uncle Sam\) \- Single Version](https://open.spotify.com/track/4IlsLphpkrX1fxA1vuuSjy) | [The Valadiers](https://open.spotify.com/artist/7FJuJVKIVnGjlTQWksXwX7) | [The Complete Motown Singles, Vol\. 1: 1959\-1961](https://open.spotify.com/album/13z3kSJRI5AzqRuPnSHyOU) | 2:45 | 2019-06-18 |  |
 | [He Ain't Heavy, He's My Brother](https://open.spotify.com/track/70n6myJfcm0dOmqbu9iA4l) | [David Ruffin](https://open.spotify.com/artist/3FZn8Z2B7mfaSOU8NE62KR), [Jimmy Ruffin](https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy) | [I Am My Brother's Keeper \- Expanded Edition](https://open.spotify.com/album/0ZSBkSovYAg7DxQQ8119tK) | 4:04 | 2019-06-18 |  |
-| [Higher Ground](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 0:29 | 2019-06-18 |  |
+| [Higher Ground](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 3:42 | 2019-06-18 |  |
 | [I Should Be Proud](https://open.spotify.com/track/2nxSAQBvF6gDIwZmG6B9nO) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Natural Resources](https://open.spotify.com/album/2LVHRojdrMALUMJpXX4aFJ) | 2:56 | 2019-06-18 |  |
 | [It’s Nation Time](https://open.spotify.com/track/51YTMo5liOoytxQSMTRurI) | [Amiri Baraka](https://open.spotify.com/artist/7KYqj72JjHmay1VKYjC5c4) | [It's Nation Time \- African Visionary Music](https://open.spotify.com/album/7nFEkgNDRnjVP1hUvBCf5k) | 3:08 | 2019-06-18 |  |
 | [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/track/1dnTzkUEdwm9jrmdpKSfWU) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/1tIrtPivfbpXp1Fp9fdhsg) | 3:16 | 2019-06-18 |  |

@@ -4,7 +4,7 @@
 
 > As the snow falls outside, cozy up and relax with this collection of soothing acoustic tracks.
 
-104 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/19ImRQ3ywsfClb7Hyt4MEm)
+104 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/19ImRQ3ywsfClb7Hyt4MEm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,6 @@
 | [Winter Song](https://open.spotify.com/track/1NdkXoNpn0EcaYpEikGp3V) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart \(Deluxe Edition\)](https://open.spotify.com/album/1gq1Q9wDoI8xqBG0x0HxSu) | 2:43 | 2014-11-07 |  |
 | [Winter Trees](https://open.spotify.com/track/40Rew7oxP3g1j06FHb9cPG) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Dead & Born & Grown](https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9) | 3:37 | 2014-11-07 |  |
 | [Winters Hold](https://open.spotify.com/track/3mLNyLfTp6Mf9ZqtaROiRj) | [Puzzle Muteson](https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK) | [Theatrics](https://open.spotify.com/album/7wOI4ZyLe9oNEdfa5AHgsg) | 3:26 | 2017-03-24 |  |
-| [Your Soul](https://open.spotify.com/track/1QxqhELF8bYIBSAs3258ib) | [Iwan Rheon](https://open.spotify.com/artist/0Q2mYJ2ur4Hb0AmZjcGMIl) | [Bang!Bang!](https://open.spotify.com/album/5gDLZJbhn7jk15y6ziqdEC) | 0:29 | 2014-11-07 |  |
+| [Your Soul](https://open.spotify.com/track/1QxqhELF8bYIBSAs3258ib) | [Iwan Rheon](https://open.spotify.com/artist/0Q2mYJ2ur4Hb0AmZjcGMIl) | [Bang!Bang!](https://open.spotify.com/album/5gDLZJbhn7jk15y6ziqdEC) | 3:12 | 2014-11-07 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

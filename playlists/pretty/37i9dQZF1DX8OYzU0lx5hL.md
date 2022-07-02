@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OYzU0lx5hL.md) - [plain]
 
 > One of the finest <a href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">voices</a> we've ever known\. Now hear her greatest songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,624 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,774 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OYzU0lx5hL.md) - [plain]
 | 4 | [Sinnerman](https://open.spotify.com/track/5xRP5iyVdGglqlY4Vcjhkx) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues](https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z) | 10:22 |
 | 5 | [Color Is A Beautiful Thing](https://open.spotify.com/track/027wIJmxOgCGvpI6qzHjj2) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Fodder On My Wings](https://open.spotify.com/album/3HvgNs3UlPTLN6qliUzjUM) | 1:03 |
 | 6 | [Lilac Wine](https://open.spotify.com/track/2qhievF6KHSxylW7XBt1pz) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Wild Is The Wind](https://open.spotify.com/album/1XG6LCgenqe1bgkG3u2cHA) | 4:13 |
-| 7 | [Strange Fruit \- Live In New York/1965](https://open.spotify.com/track/7onuv6SC1xOoL8K4c908lQ) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues \(Originals\)](https://open.spotify.com/album/5b2uj8OsgNJAbJuKyNykRb) | 0:29 |
+| 7 | [Strange Fruit \- Live In New York/1965](https://open.spotify.com/track/7onuv6SC1xOoL8K4c908lQ) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues \(Originals\)](https://open.spotify.com/album/5b2uj8OsgNJAbJuKyNykRb) | 3:28 |
 | 8 | [Ne Me Quitte Pas](https://open.spotify.com/track/51T0GbjupzFyoJqhnLji47) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/13jolTb1DQl8IVPczYtQJ3) | 3:34 |
-| 9 | [Be My Husband \- Live In New York/1965](https://open.spotify.com/track/1uSedrh9ywZJKQje4RWi7d) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues \(Originals\)](https://open.spotify.com/album/5b2uj8OsgNJAbJuKyNykRb) | 0:29 |
+| 9 | [Be My Husband \- Live In New York/1965](https://open.spotify.com/track/1uSedrh9ywZJKQje4RWi7d) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues \(Originals\)](https://open.spotify.com/album/5b2uj8OsgNJAbJuKyNykRb) | 3:20 |
 | 10 | [Here Comes the Sun](https://open.spotify.com/track/1x9ahz0ALGHgbN9wwDjmre) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Here Comes The Sun \(Expanded Edition\)](https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g) | 3:34 |
 | 11 | [My Baby Just Cares For Me](https://open.spotify.com/track/0njBiVj53H0uVZY8Apbvxu) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Autour De Minuit \- Nina Simone](https://open.spotify.com/album/3iNGkF2fnu38AxNuCrhMd3) | 3:38 |
 | 12 | [The Times They Are A\-Changin' \- Outtake](https://open.spotify.com/track/159F1pdX35fbRevVBbjTFw) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [A Single Woman \(Expanded\)](https://open.spotify.com/album/5pSGlGB1DVrSlvQBcvlPyB) | 0:58 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OYzU0lx5hL.md) - [plain]
 | 45 | [Four Women](https://open.spotify.com/track/01lMbl9TiYtrmVY2PwECDd) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Wild Is The Wind](https://open.spotify.com/album/1XG6LCgenqe1bgkG3u2cHA) | 4:24 |
 | 46 | [Don't Smoke in Bed](https://open.spotify.com/track/2aRxqvDFWVbRYqCpKZh2Xe) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(Remastered 2013\)](https://open.spotify.com/album/0jIbJ6WxiAoOb3kpHmU6QD) | 3:10 |
 | 47 | [Tomorrow Is My Turn](https://open.spotify.com/track/62ETPJazhz7Ty9BBeX9MmA) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/13jolTb1DQl8IVPczYtQJ3) | 2:48 |
-| 48 | [Nobody Knows You When You're Down And Out \- Live In New York/1965](https://open.spotify.com/track/5QEVHaiiTKVZ6qkXReIxHc) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues \(Originals\)](https://open.spotify.com/album/5b2uj8OsgNJAbJuKyNykRb) | 0:29 |
+| 48 | [Nobody Knows You When You're Down And Out \- Live In New York/1965](https://open.spotify.com/track/5QEVHaiiTKVZ6qkXReIxHc) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues \(Originals\)](https://open.spotify.com/album/5b2uj8OsgNJAbJuKyNykRb) | 2:38 |
 | 49 | [No Woman, No Cry \- Outtake](https://open.spotify.com/track/3SmTSujkbFtr7OKhHhheQi) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [A Single Woman \(Expanded\)](https://open.spotify.com/album/5pSGlGB1DVrSlvQBcvlPyB) | 3:15 |
 | 50 | [The Other Woman \- Live In New York/1964](https://open.spotify.com/track/2FyTJxPdcMJnrxcIWBSNce) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Let It All Out](https://open.spotify.com/album/3vBx19MVX89jILEWWE4syK) | 3:02 |
 

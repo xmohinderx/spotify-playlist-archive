@@ -4,7 +4,7 @@
 
 > The latest singles on Spotify all in one playlist\. Updated weekly.
 
-76 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/5XmfkZLyyyaxek9bcgI9kg)
+76 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/5XmfkZLyyyaxek9bcgI9kg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Governor](https://open.spotify.com/track/0l3EAxaJbPkDqCWg8FpdeM) | [Majestee of Sweden](https://open.spotify.com/artist/1d90xBxKelVchnzy51yq7O) | [Governor \- Single](https://open.spotify.com/album/4UPJbo5p3xH5qTDaj5IU1c) | 3:38 | 2013-04-26 |  |
 | [Green Garden](https://open.spotify.com/track/5a1oQTpqvYEwziAa878C6M) | [Laura Mvula](https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT) | [Green Garden](https://open.spotify.com/album/4jX31a1mWTlvC6Pr8aOcA8) | 4:09 | 2013-02-27 |  |
 | [Hand On Heart](https://open.spotify.com/track/3m2riGbF1EZLR7NV2nGgSC) | [The Heartbreaks](https://open.spotify.com/artist/4tE2pnU40yxjN1rmnahWdE) | [Funtimes](https://open.spotify.com/album/3fI1WKw3ZTHXbQ9RLn2hoW) | 3:30 | 2013-01-29 |  |
-| [Harper Lee](https://open.spotify.com/track/03pfqpPr51l5hNT8lTyE1Z) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Harper Lee EP](https://open.spotify.com/album/6eBKf0cZTevff2CBso3mVp) | 0:29 | 2013-01-29 |  |
+| [Harper Lee](https://open.spotify.com/track/03pfqpPr51l5hNT8lTyE1Z) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Harper Lee EP](https://open.spotify.com/album/6eBKf0cZTevff2CBso3mVp) | 3:31 | 2013-01-29 |  |
 | [Hold This Moment](https://open.spotify.com/track/1H2CufOweMcJt97bxy8Hjs) | [Vanbot](https://open.spotify.com/artist/21BNK6J98DN07SsiS0MQjD) | [Hold This Moment](https://open.spotify.com/album/1b1dhuhLVgPnq8rYrMYCFY) | 3:26 | 2013-01-30 |  |
 | [I Could Be The One \(Avicii Vs\. Nicky Romero\) \- Radio Edit](https://open.spotify.com/track/4q7dBdsALA5BSunzryc104) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [I Could Be the One \(Avicii vs\. Nicky Romero\)](https://open.spotify.com/album/4Xn3jf19ktN3c6pDEGvSIo) | 3:28 | 2013-02-15 |  |
 | [In My City](https://open.spotify.com/track/13BgvomXU7V84leC261Js7) | [Priyanka Chopra](https://open.spotify.com/artist/5TPY1mgCEaVjJQnpDPFJVF), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [In My City](https://open.spotify.com/album/2qAut0Sn00ySasqqGFD57R) | 3:40 | 2013-01-08 |  |
@@ -55,10 +55,10 @@
 | [My Life](https://open.spotify.com/track/2bMtVpIdbxDqIaomv2vLWc) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [My Life](https://open.spotify.com/album/5NgjvH6nD3xB4sbC1KydTp) | 3:59 | 2013-01-29 |  |
 | [No Freedom](https://open.spotify.com/track/6p5k5WxpMvyKQPB9V4UvSV) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Freedom](https://open.spotify.com/album/4jOH8pEJgWqw0n8YR52CWK) | 3:18 | 2013-02-27 |  |
 | [Now](https://open.spotify.com/track/6ZahS1pMntQdla9v4wCd66) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Now](https://open.spotify.com/album/2KTXYh2xQV29rkwS9oYsDB) | 4:10 | 2013-02-27 |  |
-| [Now Is The Start](https://open.spotify.com/track/3gEyA6UtRSk1058sev61D6) | [A Fine Frenzy](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) | [PINES](https://open.spotify.com/album/1876e9QcHkJ3Hgo4NqKXBN) | 0:29 | 2013-02-04 |  |
 | [Now Is The Start](https://open.spotify.com/track/10Jy0e8zlU7Q70tR2MnWcd) | [A Fine Frenzy](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) | [Now Is The Start](https://open.spotify.com/album/3nmBLCDePUMHUk7TUO8rsU) | 4:46 | 2013-02-15 |  |
+| [Now Is The Start](https://open.spotify.com/track/3gEyA6UtRSk1058sev61D6) | [A Fine Frenzy](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) | [PINES](https://open.spotify.com/album/1876e9QcHkJ3Hgo4NqKXBN) | 4:46 | 2013-02-04 |  |
 | [Object Is A Navigator](https://open.spotify.com/track/1XQ6bDy5z6Mvt9Hkvl04mO) | [Luke Abbott](https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg) | [Object Is A Navigator](https://open.spotify.com/album/3VnGVYLJHQ3iucXRTyj8id) | 5:33 | 2013-01-23 |  |
-| [One Finger and a Fist](https://open.spotify.com/track/3nEEr9OJ6ikZUJgVOUHcIl) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [One Finger and a Fist](https://open.spotify.com/album/75xWtN8icvxpEDGfgFCvdZ) | 0:29 | 2013-02-15 |  |
+| [One Finger and a Fist](https://open.spotify.com/track/3nEEr9OJ6ikZUJgVOUHcIl) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [One Finger and a Fist](https://open.spotify.com/album/75xWtN8icvxpEDGfgFCvdZ) | 3:06 | 2013-02-15 |  |
 | [One Pound Fish \- Radio Mix](https://open.spotify.com/track/7wRYFKIAm4zIxcaugiipGO) | [£1 Fish Man](https://open.spotify.com/artist/56cD92qDMo7d0yOYBC2FwE), [Fergus Brignal](https://open.spotify.com/artist/6EEkZz1Ad6DwRFlBAXTi9C), [Will Smith](https://open.spotify.com/artist/6EGRALbBbQGwHiDrQNgsR9) | [One Pound Fish](https://open.spotify.com/album/3FCXb1TrvtTBWSo3VHMHdb) | 2:27 | 2013-01-23 |  |
 | [Overload](https://open.spotify.com/track/3hu3a8U9lvEhdz5fe3hhfW) | [Random Impulse](https://open.spotify.com/artist/22RVM3QYYm9YI4TTteiKTV) | [Overload](https://open.spotify.com/album/343aIi79pwmEk7POsq1yH8) | 3:06 | 2013-02-27 |  |
 | [Please Don't Say You Love Me](https://open.spotify.com/track/4y0GYqBSHEy7e1FOemdLjK) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Please Don't Say You Love Me](https://open.spotify.com/album/18Ni6bqSaSdui11feMiZxA) | 3:01 | 2013-02-15 |  |

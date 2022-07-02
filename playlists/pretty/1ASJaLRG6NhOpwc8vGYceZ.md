@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1ASJaLRG6NhOpwc8vGYceZ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 413 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 413 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/1ASJaLRG6NhOpwc8vGYceZ.md) - [plain]
 | 15 | [Heaven](https://open.spotify.com/track/42J9ponGUZ7A9QlZQT6csY) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [80s Power Ballads](https://open.spotify.com/album/27aGEj8VmQbakGkL50jp1c) | 4:33 |
 | 16 | [Girl I'm Gonna Miss You](https://open.spotify.com/track/1Aau7fbm21rcFEgFGl6WVz) | [Milli Vanilli](https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM) | [2x2 \- The Best of Milli Vanilli](https://open.spotify.com/album/51J8xsKlAeAOwy1p7dwnN5) | 3:57 |
 | 17 | [The Look](https://open.spotify.com/track/4N4iWVwNNXIH0qT5KUCIsp) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [The Pop Hits \(Deluxe Version\)](https://open.spotify.com/album/1bhjB7DbLk8U9fNNJkOlrr) | 3:57 |
-| 18 | [She Drives Me Crazy](https://open.spotify.com/track/2BPfKiV9U0CR1dpUgeUwuH) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp) | [The Raw And The Cooked](https://open.spotify.com/album/59R6wpHlRk6Ui19e7qAgo1) | 0:29 |
+| 18 | [She Drives Me Crazy](https://open.spotify.com/track/2BPfKiV9U0CR1dpUgeUwuH) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp) | [The Raw And The Cooked](https://open.spotify.com/album/59R6wpHlRk6Ui19e7qAgo1) | 3:35 |
 | 19 | [On Our Own](https://open.spotify.com/track/5Ufxoce7evv4Z9LofZUKpx) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Dance...Ya Know It!](https://open.spotify.com/album/0RVHA8KCQCJG17pj7mNMdX) | 4:32 |
 | 20 | [Two Hearts](https://open.spotify.com/track/75nyQgntsm6IzWkb4G52bx) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...Hits](https://open.spotify.com/album/7hV0YSxAQSng8H0zMR0HBf) | 3:24 |
 | 21 | [Blame It on the Rain](https://open.spotify.com/track/3UUmtkxF3B55hS864zZDsD) | [Milli Vanilli](https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM) | [Frank Farian \- The Hit Man](https://open.spotify.com/album/6M5eqNISf3irfHuWTuo0pI) | 3:52 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/1ASJaLRG6NhOpwc8vGYceZ.md) - [plain]
 | 36 | [When I'm With You](https://open.spotify.com/track/3RJof5CojqlbgZ5adHw50O) | [Sheriff](https://open.spotify.com/artist/5jllns7VtBfhF3AyjvZP8d) | [Sheriff](https://open.spotify.com/album/23sISo3WqoIysj2AHHem3V) | 3:58 |
 | 37 | [Don't Rush Me](https://open.spotify.com/track/1AD86pvzfJGWzenfK5lSV4) | [Dominique Karan](https://open.spotify.com/artist/2WBHpkqFLXc6bgQZAi6cQZ) | [80s Mania](https://open.spotify.com/album/5hgzC9IxDx8wcos3LTGrCh) | 5:08 |
 | 38 | [Born To Be My Baby](https://open.spotify.com/track/6htVxmiiuZdYvbnO9R0iQR) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Bon Jovi Greatest Hits](https://open.spotify.com/album/0C8Poy7zwJ1kQh2sldyvHm) | 4:40 |
-| 39 | [Good Thing](https://open.spotify.com/track/76ZnyGfjQZSM8GPfR7OqiJ) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp) | [The Raw And The Cooked](https://open.spotify.com/album/59R6wpHlRk6Ui19e7qAgo1) | 0:29 |
+| 39 | [Good Thing](https://open.spotify.com/track/76ZnyGfjQZSM8GPfR7OqiJ) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp) | [The Raw And The Cooked](https://open.spotify.com/album/59R6wpHlRk6Ui19e7qAgo1) | 3:21 |
 | 40 | [Bust A Move](https://open.spotify.com/track/1wfpgFR4S9u975iWtIjlAB) | [Young MC](https://open.spotify.com/artist/5n30a5V4ftXNMHCHChmK2h) | [Stone Cold Rhymin'](https://open.spotify.com/album/0Db3XCvBuy5hms4i1YV0Ry) | 4:22 |
 | 41 | [Once Bitten, Twice Shy](https://open.spotify.com/track/5xskaOZUPKUCk8Vmc6yTWN) | [Great White](https://open.spotify.com/artist/6ZPbX2Lxd40e2UVkXpyxvI) | [Rock Me: The Best Of Great White](https://open.spotify.com/album/2TUjGbi6H75rcYGBFwe5f5) | 5:16 |
 | 42 | [Batdance](https://open.spotify.com/track/4DbUk1qwcz9KKcUY4t8f8u) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Batman](https://open.spotify.com/album/2FwzHgJ4XaPhC19Y0uL6SK) | 6:13 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/1ASJaLRG6NhOpwc8vGYceZ.md) - [plain]
 | 45 | [Love Shack \- Edit](https://open.spotify.com/track/64B4UbGRLtGRBtiN2m8OvF) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Love Shack \(Edit\) / Channel Z](https://open.spotify.com/album/4ugIloQYMfDhN7lOtEWezy) | 4:17 |
 | 46 | [Every Little Step \- Remix](https://open.spotify.com/track/6OmknRIYvZmABONKgva2GK) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Dance...Ya Know It!](https://open.spotify.com/album/0RVHA8KCQCJG17pj7mNMdX) | 4:41 |
 | 47 | [Hangin' Tough \- 7" Remix](https://open.spotify.com/track/5fLNSn0KurYAS8O1gyiSkL) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [NKOTBSB](https://open.spotify.com/album/5Zwuaan4RIS108lyMEYYmw) | 3:49 |
-| 48 | [My Heart Can't Tell Me No \- 2008 Remaster](https://open.spotify.com/track/2yMZVQlOz0z8J27hxQIfN1) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Definitive Rod Stewart](https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj) | 0:29 |
+| 48 | [My Heart Can't Tell Me No \- 2008 Remaster](https://open.spotify.com/track/2yMZVQlOz0z8J27hxQIfN1) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Definitive Rod Stewart](https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj) | 5:17 |
 | 49 | [So Alive](https://open.spotify.com/track/6amZm52SfS7d6oCEu9NDMl) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Love and Rockets](https://open.spotify.com/album/7ySBlv1N2wbYcaIwHBcBuy) | 4:17 |
 | 50 | [You Got It \(The Right Stuff\)](https://open.spotify.com/track/50vs7ckrWFbamxtbDc9c6v) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [NKOTBSB](https://open.spotify.com/album/5Zwuaan4RIS108lyMEYYmw) | 4:11 |
 

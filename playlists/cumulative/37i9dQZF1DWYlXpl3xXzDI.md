@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op maandag met deze zachte pop liedjes.
 
-100 songs - 5 hr 45 min - [published](https://open.spotify.com/playlist/563ovKwZSfQUbNXXR9wBOM)
+100 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/563ovKwZSfQUbNXXR9wBOM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Be Good \(feat\. Tom Rosenthal\)](https://open.spotify.com/track/7ksUuRAALPLYjhlpwTcDCH) | [Max Brodie](https://open.spotify.com/artist/08Fba5XNvK4sXAbH68DYPf), [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Be Good \(feat\. Tom Rosenthal\)](https://open.spotify.com/album/4IWLXhyvj0rH2cm5VwuuW9) | 2:44 | 2017-12-03 |  |
 | [Bloom \- Bonus Track](https://open.spotify.com/track/5ltFw9shfgX60qfErriunE) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland \- EP](https://open.spotify.com/album/3ctOX1Spy9lX8HZ7EDYn4R) | 3:30 | 2017-12-03 |  |
 | [Chateau](https://open.spotify.com/track/2eKTPiHsDLaVV5aJpjW7Y3) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Chateau](https://open.spotify.com/album/08cceZ2uTJGPx6lsHDAaiU) | 4:33 | 2017-12-03 |  |
-| [City Of Stars](https://open.spotify.com/track/3DrY78fwQBAuqlntINQRB4) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [City Of Stars](https://open.spotify.com/album/3v9QR7FRm3OfNywqWX5Trw) | 0:29 | 2017-12-03 |  |
+| [City Of Stars](https://open.spotify.com/track/3DrY78fwQBAuqlntINQRB4) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [City Of Stars](https://open.spotify.com/album/3v9QR7FRm3OfNywqWX5Trw) | 2:34 | 2017-12-03 |  |
 | [Close To You](https://open.spotify.com/track/0ptKXVvF6qrNAjm9HGG0Rw) | [Michael Prins](https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m) | [De Beste Singer Songwriter van Nederland 2](https://open.spotify.com/album/5rWkw0mK0WGSWtZnfKE8DV) | 4:50 | 2017-12-03 |  |
 | [Coffee Shop Boy](https://open.spotify.com/track/1iMItSsYpJoU0xzxwyNlXp) | [Zoe Hess](https://open.spotify.com/artist/3LGk1fSWkZLW6sCMGt8OJT) | [Coffee Shop Boy](https://open.spotify.com/album/3tOEPACvWdVTjBW170N7AZ) | 3:27 | 2021-11-18 |  |
 | [Corners](https://open.spotify.com/track/5InaPMeIHecsyEVzTnmXfb) | [Octave Lissner](https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7) | [Corners](https://open.spotify.com/album/2IZtWvH7yrESKey65JeHkM) | 3:39 | 2017-12-03 |  |
@@ -63,7 +63,7 @@
 | [Mind Made Up](https://open.spotify.com/track/5wrDrajYZSJqta7rJBvcJV) | [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [Mind Made Up](https://open.spotify.com/album/4f01RCCz0A0NmtT6LuWH92) | 2:32 | 2017-12-03 |  |
 | [Morning Light](https://open.spotify.com/track/58FDKxg4uUVEOV0lSRHnQf) | [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [David Benjamin](https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW) | [Morning Light](https://open.spotify.com/album/61RZZpsBP6RXUofd4uv5NZ) | 3:14 | 2017-12-03 |  |
 | [My Little Love](https://open.spotify.com/track/2DuPBbS5mIldXnh7Wum8Cy) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:29 | 2022-03-08 |  |
-| [October Road](https://open.spotify.com/track/0nILp5SpecXFvJQotZe48y) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [October Road \(Special Edition\)](https://open.spotify.com/album/3RHJNmuwD0fnwccBv2HTif) | 0:29 | 2017-12-03 |  |
+| [October Road](https://open.spotify.com/track/0nILp5SpecXFvJQotZe48y) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [October Road \(Special Edition\)](https://open.spotify.com/album/3RHJNmuwD0fnwccBv2HTif) | 3:56 | 2017-12-03 |  |
 | [Old Records \- Acoustic](https://open.spotify.com/track/40bfm9RRM6PY8cTckh0s6Z) | [Jacqueline Govaert](https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li) | [Old Records](https://open.spotify.com/album/2Mt62UoiVpVQCdxNIuuS0V) | 3:17 | 2017-12-03 |  |
 | [One More Night](https://open.spotify.com/track/0N24Ao3uRkKLbT0Cuc45gb) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [One More Night](https://open.spotify.com/album/2UeAhscxcxmAaPGwQuASRL) | 3:53 | 2017-12-03 |  |
 | [Over And Over Again](https://open.spotify.com/track/4IcRwlfIwp7BDljw7m8cSe) | [Nathan Sykes](https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Over And Over Again](https://open.spotify.com/album/3eVtrM29JMD5lEn8mwBfo3) | 4:06 | 2017-12-03 |  |
@@ -71,14 +71,14 @@
 | [Passport Home](https://open.spotify.com/track/4sasqE4lDhBhm4ER7EsQaf) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Passport Home](https://open.spotify.com/album/35oMYxeEPYIGzwIOOVqX28) | 3:00 | 2017-12-03 |  |
 | [Perfect Day](https://open.spotify.com/track/5J0SmV2j0F0qCBfCaQbmkK) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Perfect Day](https://open.spotify.com/album/78GZSUPP29XyjgpZAQKCBW) | 2:57 | 2021-11-18 |  |
 | [Pray](https://open.spotify.com/track/7DsX5K72fewVGb47qj7Tbg) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:41 | 2017-12-03 |  |
-| [Princess](https://open.spotify.com/track/3OzgmgV9iwlOSfrlPFNWxy) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Princess](https://open.spotify.com/album/7BoMdLxz0tfcAAV5ZW7W1J) | 0:29 | 2017-12-03 |  |
+| [Princess](https://open.spotify.com/track/3OzgmgV9iwlOSfrlPFNWxy) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Princess](https://open.spotify.com/album/7BoMdLxz0tfcAAV5ZW7W1J) | 3:56 | 2017-12-03 |  |
 | [Rather Be with You](https://open.spotify.com/track/3AVE9qpiII7fyKjENTN8YI) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Rather Be with You](https://open.spotify.com/album/1VTHEGSEWZ8ob1kGSJXt4x) | 3:19 | 2017-12-03 |  |
 | [Real Love Baby](https://open.spotify.com/track/2qEqMx1n0dnCBzWT9l3nGL) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/0IpNqqkTlVMm54WIZTn6Pk) | 3:09 | 2017-12-03 |  |
-| [Remedy](https://open.spotify.com/track/6CGf2aPvKj7497cZ6JMmGT) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 0:29 | 2017-12-03 |  |
+| [Remedy](https://open.spotify.com/track/6CGf2aPvKj7497cZ6JMmGT) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 4:05 | 2017-12-03 |  |
 | [Running Out \- Live From The Studio / 2016](https://open.spotify.com/track/1obcO5plIza6FtGmMD9ceN) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Running Out \(Live From The Studio\)](https://open.spotify.com/album/5ewH5nYKdwRlAAdPkieTTS) | 2:45 | 2017-12-03 |  |
 | [Say You Won't Let Go](https://open.spotify.com/track/1Pw5C4N6Fn5E4mGCxmbbVa) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Say You Won't Let Go](https://open.spotify.com/album/0BL67dR6x0CPU7B7J9P8qC) | 3:31 | 2017-12-03 |  |
 | [Selfish Love](https://open.spotify.com/track/6ywvpOWVw6GerSxaY8WQI2) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Selfish Love](https://open.spotify.com/album/2XALd6mECQvIXM8Zjg1hIP) | 3:54 | 2017-12-03 |  |
-| [Settle](https://open.spotify.com/track/6JiiOlcOe1DCYpaMMlUNbK) | [Jordan Smith](https://open.spotify.com/artist/6TV0LZ3BaEun0OQEh96elP) | [Something Beautiful \(Deluxe Version\)](https://open.spotify.com/album/0KCUHaAxYIVucnEkeXwNaV) | 0:29 | 2017-12-03 |  |
+| [Settle](https://open.spotify.com/track/6JiiOlcOe1DCYpaMMlUNbK) | [Jordan Smith](https://open.spotify.com/artist/6TV0LZ3BaEun0OQEh96elP) | [Something Beautiful \(Deluxe Version\)](https://open.spotify.com/album/0KCUHaAxYIVucnEkeXwNaV) | 3:11 | 2017-12-03 |  |
 | [She Treats Me Well](https://open.spotify.com/track/5N1itNLaYtifU8YVbg9SBQ) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4EcVVeYCeafIQk383MQfp5) | 5:17 | 2017-12-03 |  |
 | [She Will Sing](https://open.spotify.com/track/2yVpADjZg3DY4GlCYimH63) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [She Will Sing](https://open.spotify.com/album/6yA8sTOhnfBlYkrtem5w1t) | 3:44 | 2017-12-03 |  |
 | [Shine](https://open.spotify.com/track/3XwOaKFb6sH0K6BfNJ4VDq) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Shine \(Kygo Remix\)](https://open.spotify.com/album/6tUKtq2hrHaWVs5Qokzc1P) | 2:58 | 2017-12-03 |  |

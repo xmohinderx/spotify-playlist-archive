@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5H22bACwDGRsIQQyE9oy3I.md) - [plain]
 
 > Relax in the shade and uncover the best new underground folk and rising Americana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26 likes - 25 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 26 likes - 25 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/5H22bACwDGRsIQQyE9oy3I.md) - [plain]
 | 15 | [Watering Can](https://open.spotify.com/track/7KAiyJeOUMrB6JLzqQe7Ly) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [The Colder Months](https://open.spotify.com/album/2e0UF1lwDIhvbpEY3hlog1) | 3:56 |
 | 16 | [Know Your Strength](https://open.spotify.com/track/2aVbwg7yKZbkUAlO2v5eA0) | [Lowpines](https://open.spotify.com/artist/0kZBnGKs8TYKxzJZwy2jXo) | [Lowpines \(Bonus Track Version\)](https://open.spotify.com/album/17xNMOqlXGG6w4doGdsSau) | 2:58 |
 | 17 | [Queensbury Shuffle](https://open.spotify.com/track/7rMMmxOuD0TaR8dozMGhyy) | [The Dwells](https://open.spotify.com/artist/6QCV8iyUTalBQmONetrKWI) | [Don't Ever Leave Me Like You Do](https://open.spotify.com/album/1UOjsnBomCXCTuSpag0T17) | 3:13 |
-| 18 | [Psalms](https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9) | [Vudu Sister](https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8) | [Bastard Children](https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG) | 0:29 |
+| 18 | [Psalms](https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9) | [Vudu Sister](https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8) | [Bastard Children](https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG) | 3:40 |
 | 19 | [Coward's Luck](https://open.spotify.com/track/1Kv4GPGNyAerkHuGHLCVOV) | [Hip Hatchet](https://open.spotify.com/artist/0OXSCbegzPwAwKVxXO6PO9) | [Coward's Luck](https://open.spotify.com/album/1dacUtZYMEHMWf1gh9Ko4m) | 4:01 |
 | 20 | [Long Gone](https://open.spotify.com/track/0gRbPhI9a5kgthP9A3AKZW) | [Josiah Leming](https://open.spotify.com/artist/1Rrdi9SnIkdlD52SCtFLyq) | [Long Gone](https://open.spotify.com/album/6DcPgd67PBTC1Rw5OHkFwZ) | 2:23 |
 | 21 | [Wild & You](https://open.spotify.com/track/3hGke9arVQkZ9Qg3sFOKJw) | [My Bubba](https://open.spotify.com/artist/09VsCALGBjeVE3pq9k085d) | [Goes Abroader](https://open.spotify.com/album/78Kf30PAIge7tlSFRKIuQL) | 2:29 |

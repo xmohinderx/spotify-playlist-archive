@@ -4,13 +4,13 @@
 
 > Add dramatic flair to your strategy game.
 
-64 songs - 3 hr 6 min - [published](https://open.spotify.com/playlist/7chXrYGnaDM6wXcboPhu0N)
+64 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/7chXrYGnaDM6wXcboPhu0N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A March Across Ancient Land](https://open.spotify.com/track/0l3VuArlNjQnRV1FbkfOHf) | [John Abbot](https://open.spotify.com/artist/2JsmEc5Wm7dLTsTO3JlQTX) | [A March Across Ancient Land](https://open.spotify.com/album/5DOG8ZRsYMAiVQngJynsiZ) | 2:56 | 2022-04-22 |  |
 | [Adventures of the Young Hero](https://open.spotify.com/track/7iirjTnooylfcBG6BmlqYi) | [Grant Newman](https://open.spotify.com/artist/6kmQi7lLCBpa5OORRJpU9s) | [Adventures of the Young Hero](https://open.spotify.com/album/3YufQhwnRqmpOLDXOjiKuH) | 2:59 | 2022-04-22 |  |
-| [Afterlight](https://open.spotify.com/track/2wklH1fCEBMwHyNvKHDLOW) | [Eternal Eclipse](https://open.spotify.com/artist/2mudOp0EB2SFnG0mVazTJs) | [Forgotten Odes](https://open.spotify.com/album/3KT3DRHJdpEZD5OxSK7hj0) | 0:29 | 2022-04-22 |  |
+| [Afterlight](https://open.spotify.com/track/2wklH1fCEBMwHyNvKHDLOW) | [Eternal Eclipse](https://open.spotify.com/artist/2mudOp0EB2SFnG0mVazTJs) | [Forgotten Odes](https://open.spotify.com/album/3KT3DRHJdpEZD5OxSK7hj0) | 2:17 | 2022-04-22 |  |
 | [Allegiances](https://open.spotify.com/track/2Pibzoc8ihtklVxLGDsczG) | [Hampus Naeselius](https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5) | [Allegiances](https://open.spotify.com/album/68KKEyqsRqgLeVQFsS4IUi) | 2:13 | 2022-04-22 |  |
 | [Aléatoire](https://open.spotify.com/track/2eHtBGvfD7PD7SiTl52Vxr) | [Darker In Vine](https://open.spotify.com/artist/58jh9fSzagZAZLbetSDIIg) | [Aléatoire](https://open.spotify.com/album/7KA3DTbG22n9hPSSV3YruJ) | 2:58 | 2022-04-22 |  |
 | [Arrival](https://open.spotify.com/track/0CewGD0QltN3DCLHeg66Mb) | [Edgar Hopp](https://open.spotify.com/artist/5nn0v7ZNnO4cY7TEAjjfSx) | [Arrival](https://open.spotify.com/album/6k7cnJ2DJKoIgZ9mAT2fxk) | 4:15 | 2022-04-22 |  |
@@ -54,7 +54,7 @@
 | [Progressive Progress](https://open.spotify.com/track/6Marmee2WT50icMbZP31EU) | [Howard Harper\-Barnes](https://open.spotify.com/artist/447ceX8wMVdX94yevKZFDe) | [The Light from Within](https://open.spotify.com/album/5DeBurv4zuboaQM1uqDgYK) | 2:30 | 2022-04-22 |  |
 | [Refined Enlightenment](https://open.spotify.com/track/2ulSScFSvKVwIBJJrKcNA2) | [Howard Harper\-Barnes](https://open.spotify.com/artist/447ceX8wMVdX94yevKZFDe) | [To All the Glory](https://open.spotify.com/album/59IuJfXNv7h6Np4JVKUYWM) | 2:23 | 2022-04-22 |  |
 | [Run with Your Heart](https://open.spotify.com/track/0YNt7VRQwXeDI1HDZne2IM) | [Dream Cave](https://open.spotify.com/artist/6Ga6q3KSIGpJt2H1vbtTI0) | [Valiant](https://open.spotify.com/album/6PqElyGUMeroZmARx67gXj) | 2:24 | 2022-04-22 |  |
-| [Sky](https://open.spotify.com/track/5ZwrQKuPqHFFrtrZlSt6NT) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Trace](https://open.spotify.com/album/6Vfof63wDXpmWEVW12Ag80) | 0:29 | 2022-04-22 |  |
+| [Sky](https://open.spotify.com/track/5ZwrQKuPqHFFrtrZlSt6NT) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Trace](https://open.spotify.com/album/6Vfof63wDXpmWEVW12Ag80) | 3:36 | 2022-04-22 |  |
 | [The Bard's Tale](https://open.spotify.com/track/2w06ho0m1rgeioNoMQO6F2) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [Far Over the Highlands](https://open.spotify.com/album/7GmRudqNcSzDQr8PVW2EWn) | 2:23 | 2022-04-22 |  |
 | [The Fellowship](https://open.spotify.com/track/6rqVIvtZV2g8fqXTGp065U) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [Far Over the Highlands](https://open.spotify.com/album/7GmRudqNcSzDQr8PVW2EWn) | 2:22 | 2022-04-22 |  |
 | [The Great Unknown](https://open.spotify.com/track/4nY7xJxAsbgalPsOiWBonK) | [Hampus Naeselius](https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5) | [Where Heroes Come to Die](https://open.spotify.com/album/6oWPtpkD348BpY3ZTxWOzp) | 3:59 | 2022-04-22 |  |
@@ -63,14 +63,14 @@
 | [The Norman Kings](https://open.spotify.com/track/7tXoC0hKQy1TTv9XA8gofz) | [Bonnie Grace](https://open.spotify.com/artist/3z6E6ZPwJ7l0mp3HHcOfd2) | [Call the Herd](https://open.spotify.com/album/4fE45M3ETuMtzHPpNfmV5o) | 3:08 | 2022-04-22 |  |
 | [The Sanctuary Within](https://open.spotify.com/track/5WsT8YFHlMz56vfcgJYGaU) | [Erasmus Talbot](https://open.spotify.com/artist/2P5kUKkNT67xnSyi3bBOoB) | [Light in the Attic](https://open.spotify.com/album/65jhpuyU0R9JPfnC8wcN4x) | 3:06 | 2022-04-22 |  |
 | [To All the Glory](https://open.spotify.com/track/0ekQHMaMjyFuuPtoiQA69T) | [Howard Harper\-Barnes](https://open.spotify.com/artist/447ceX8wMVdX94yevKZFDe) | [To All the Glory](https://open.spotify.com/album/59IuJfXNv7h6Np4JVKUYWM) | 2:40 | 2022-04-22 |  |
-| [Trace](https://open.spotify.com/track/6sauZJqeqUy4426Qj6joFe) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Trace](https://open.spotify.com/album/6Vfof63wDXpmWEVW12Ag80) | 0:29 | 2022-04-22 |  |
+| [Trace](https://open.spotify.com/track/6sauZJqeqUy4426Qj6joFe) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Trace](https://open.spotify.com/album/6Vfof63wDXpmWEVW12Ag80) | 3:30 | 2022-04-22 |  |
 | [Tsimtsum](https://open.spotify.com/track/1RxaEvQCmT36nIZFYjpk5F) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2) | [Life of Pi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0ogV7CBV00ONXAVx4tm0gk) | 2:49 | 2022-04-22 |  |
 | [Tudor](https://open.spotify.com/track/3O4IPW1FuvnzSVLDZuhou2) | [Bonnie Grace](https://open.spotify.com/artist/3z6E6ZPwJ7l0mp3HHcOfd2) | [Call the Herd](https://open.spotify.com/album/4fE45M3ETuMtzHPpNfmV5o) | 2:27 | 2022-04-22 |  |
 | [Una Mañana De Cine](https://open.spotify.com/track/4MF2bWyLJ1s3SAXFJq71EM) | [Roberto Vetere](https://open.spotify.com/artist/5S2Js5ci1dHnRN86Dt6wmm) | [Evolution](https://open.spotify.com/album/2oPGweO8HecWmmIuAKDOXw) | 3:57 | 2022-04-22 |  |
 | [Valiant](https://open.spotify.com/track/1yDH9vW8GboBkqNJujPiF6) | [Dream Cave](https://open.spotify.com/artist/6Ga6q3KSIGpJt2H1vbtTI0) | [Valiant](https://open.spotify.com/album/6PqElyGUMeroZmARx67gXj) | 2:17 | 2022-04-22 |  |
 | [Wayfinders](https://open.spotify.com/track/6rEF3F1fu6SPyEbzRGxUKr) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Nocturne](https://open.spotify.com/album/0r8EWo5tLMJoOLNhystGx1) | 2:51 | 2022-04-22 |  |
 | [Where Heroes Come to Die](https://open.spotify.com/track/1paOx5tHH937AcHuWjgEa8) | [Hampus Naeselius](https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5) | [Where Heroes Come to Die](https://open.spotify.com/album/6oWPtpkD348BpY3ZTxWOzp) | 3:51 | 2022-04-22 |  |
-| [Yearning Hearts](https://open.spotify.com/track/2GTaqPwHbtHb6Co8tIbUim) | [Eternal Eclipse](https://open.spotify.com/artist/2mudOp0EB2SFnG0mVazTJs) | [Forgotten Odes](https://open.spotify.com/album/3KT3DRHJdpEZD5OxSK7hj0) | 0:29 | 2022-04-22 |  |
+| [Yearning Hearts](https://open.spotify.com/track/2GTaqPwHbtHb6Co8tIbUim) | [Eternal Eclipse](https://open.spotify.com/artist/2mudOp0EB2SFnG0mVazTJs) | [Forgotten Odes](https://open.spotify.com/album/3KT3DRHJdpEZD5OxSK7hj0) | 2:35 | 2022-04-22 |  |
 | [Zion](https://open.spotify.com/track/2QLu8c1L4Sr3HwQez9GVdc) | [Edgar Hopp](https://open.spotify.com/artist/5nn0v7ZNnO4cY7TEAjjfSx) | [In Abundance](https://open.spotify.com/album/6GIEUr2Nhe8E37amFtuAcv) | 3:36 | 2022-04-22 |  |
 
 \*This playlist was first scraped on 2022-06-20. Prior content cannot be recovered.

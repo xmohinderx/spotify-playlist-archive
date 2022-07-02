@@ -4,7 +4,7 @@
 
 > Celebrating 50 years of the original artists, songs, and recordings from the iconic 1969 Woodstock Music Festival
 
-100 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/79hWuis0D7vMO7G2HTY3qC)
+100 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/79hWuis0D7vMO7G2HTY3qC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Tobacco Road \- Live at The Woodstock Music & Art Fair, August 18, 1969](https://open.spotify.com/track/6gttrdKKRO56JPynr67ekw) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO), [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk) | [Johnny Winter: The Woodstock Experience](https://open.spotify.com/album/0eVzMYs0TMHO9uMP1dAOsK) | 10:40 | 2019-08-15 |  |
 | [Try \(Just A Little Bit Harder\) \- Live at The Woodstock Music & Art Fair, August 17, 1969](https://open.spotify.com/track/45I632WnoYEUjYIkIMyTU0) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Janis Joplin: The Woodstock Experience](https://open.spotify.com/album/6U1PifBvvskUGjsJGeKGp4) | 5:13 | 2019-08-15 |  |
 | [Tuning My Guitar \- Live at Woodstock](https://open.spotify.com/track/3LZx7JD73a9oao8hT7lt9g) | [Melanie](https://open.spotify.com/artist/6sOP8RUFR0q0nBOBOXGdBK) | [Live at Woodstock](https://open.spotify.com/album/2zlv17M05aUbvb0C802lIT) | 5:16 | 2019-08-15 |  |
-| [Voodoo Child \(Slight Return\)](https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 0:29 | 2019-08-15 |  |
+| [Voodoo Child \(Slight Return\)](https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 5:13 | 2019-08-15 |  |
 | [Waiting \- Live at The Woodstock Music & Art Fair, August 16, 1969](https://open.spotify.com/track/5zLXUaYlIqhTcm7OJVSqgb) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana \(Legacy Edition\)](https://open.spotify.com/album/2hQwyoPiM1G9iLWkXqC2Hu) | 4:44 | 2019-08-15 |  |
 | [Waiting To Take You Away \- Live at Woodstock, Bethel, NY \- August 1969](https://open.spotify.com/track/1EzOhQiEtUYq8QtWVi1QVG) | [Mountain](https://open.spotify.com/artist/7LCp4MN0SOIVWlssid9KyE) | [Live: The Road Goes Ever On](https://open.spotify.com/album/73Lij8gmkU5zjhlrBh220A) | 4:39 | 2019-08-15 |  |
 | [We're Not Gonna Take It \- Remixed Album Version](https://open.spotify.com/track/34P7GzADn3f3SO54mI36bY) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w), [Andy Macpherson](https://open.spotify.com/artist/3eLgh6OisMjiR9tWPyZCp5), [Jon Astley](https://open.spotify.com/artist/1I8A3N4AgFS3geeMC8uh8I) | [Tommy](https://open.spotify.com/album/4lzu0HmhbocnBCQQDHiL40) | 7:08 | 2019-08-15 |  |

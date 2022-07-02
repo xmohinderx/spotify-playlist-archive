@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 
 > Lounge and chill out music for your workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,606 likes - 229 songs - 10 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,663 likes - 229 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 9 | [Somewhere](https://open.spotify.com/track/1CYrpAj5Gdnv1zNBoEhJj4) | [Pat Poker](https://open.spotify.com/artist/6CAC4ia3z2NKbunyFfzEDS) | [Somewhere](https://open.spotify.com/album/559m1quyOHDPpwenShOIp6) | 2:48 |
 | 10 | [Views from Yamashita Park](https://open.spotify.com/track/08GrJ04y6DrNm6t1OZ7a7N) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Views from Yamashita Park / Hatagaya Greenways](https://open.spotify.com/album/0CAD18JM3by6WU8WYPOMIC) | 1:40 |
 | 11 | [Lost In Translation, The Saga](https://open.spotify.com/track/6A5bkBm5kT35mubo9TUk0Y) | [Pausa Psi](https://open.spotify.com/artist/43Ojd4Mv19doUZziYeCs2S) | [Lost In Translation, The Saga](https://open.spotify.com/album/5x9pmUiSJ1opkM2aom3egS) | 2:35 |
-| 12 | [Kissing on the Dance Floor](https://open.spotify.com/track/3LHZHqkVQRfUbxWli3717M) | [Tyler Greyson](https://open.spotify.com/artist/6oqXcmdNWohuzozZgdcS9o) | [Kissing on the Dance Floor](https://open.spotify.com/album/6uSeYFPvoMv0DZxsrZyIS2) | 0:29 |
+| 12 | [Kissing on the Dance Floor](https://open.spotify.com/track/3LHZHqkVQRfUbxWli3717M) | [Tyler Greyson](https://open.spotify.com/artist/6oqXcmdNWohuzozZgdcS9o) | [Kissing on the Dance Floor](https://open.spotify.com/album/6uSeYFPvoMv0DZxsrZyIS2) | 2:42 |
 | 13 | [let it be](https://open.spotify.com/track/0KNi97NfOrRQdeM05jVSCv) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [let it be](https://open.spotify.com/album/4XizbKgg1yjquakMaQmUFF) | 2:05 |
 | 14 | [Sepia Story](https://open.spotify.com/track/3EppUOHNVjSn5C1WF5QWby) | [Rasmus Faber](https://open.spotify.com/artist/6cdmYp8fPQYDIU1l1Sqt8X) | [Lose The Net EP](https://open.spotify.com/album/3Zrl7BMOKHsfeQ0EyvYeqD) | 3:56 |
 | 15 | [Beat Wave](https://open.spotify.com/track/0K07LFH3vL8cNkEo1iMfok) | [Butia](https://open.spotify.com/artist/6xSMvc8GFkP4ElMTOeNH0h) | [Beat Wave](https://open.spotify.com/album/6W0wlThNv1BAiNqsWaxnQg) | 2:48 |
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 23 | [Lacando](https://open.spotify.com/track/7FzrMqCONRlc3twQKA3ldI) | [Pourin](https://open.spotify.com/artist/28eoDOQ57hVzGolimLCQPD) | [Lacando](https://open.spotify.com/album/74GA0mW6J1bRHolW9VzDmg) | 2:10 |
 | 24 | [Dancing With Ghosts](https://open.spotify.com/track/2oRtlVAnhakWxItbGeopID) | [J Gov](https://open.spotify.com/artist/5PhC3eQ7MXDtQK6PhcuoTx) | [A Good Place To Hide](https://open.spotify.com/album/2INkfFj1vBZsdDRWImey95) | 3:16 |
 | 25 | [Cuddle](https://open.spotify.com/track/0qPQBBWJdESIBv0S5CS3to) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Cuddle](https://open.spotify.com/album/7mjXhZxuAENnEQ3NVjHZaa) | 2:19 |
-| 26 | [Club Row](https://open.spotify.com/track/09be8fMevpQYEOkuD75eC7) | [Clint Is Quinn](https://open.spotify.com/artist/1utD3S9jRGZPWdNeLuoaOx) | [Club Row](https://open.spotify.com/album/1K9rT7uipaYEjlxDXINrNl) | 0:29 |
+| 26 | [Club Row](https://open.spotify.com/track/09be8fMevpQYEOkuD75eC7) | [Clint Is Quinn](https://open.spotify.com/artist/1utD3S9jRGZPWdNeLuoaOx) | [Club Row](https://open.spotify.com/album/1K9rT7uipaYEjlxDXINrNl) | 2:26 |
 | 27 | [Oopsie](https://open.spotify.com/track/2raJ4DfItpzmRHZk744DKM) | [Full Woop](https://open.spotify.com/artist/5j6TPsEm7BfEUInHCanPLg) | [Oopsie](https://open.spotify.com/album/27AnLNejMrxCWeDT2CMYce) | 2:19 |
-| 28 | [Memory](https://open.spotify.com/track/4jyb5EgkOCUoW9xgsMH7Xq) | [Memcache](https://open.spotify.com/artist/5Eaga24r5FNYwzF1PR51ay) | [Memory](https://open.spotify.com/album/64RiRPWs3ogB6i2KjhJG8B) | 0:29 |
+| 28 | [Memory](https://open.spotify.com/track/4jyb5EgkOCUoW9xgsMH7Xq) | [Memcache](https://open.spotify.com/artist/5Eaga24r5FNYwzF1PR51ay) | [Memory](https://open.spotify.com/album/64RiRPWs3ogB6i2KjhJG8B) | 2:33 |
 | 29 | [Slow Burner](https://open.spotify.com/track/6Kfirj7YHcY1fvuibJd3Vf) | [Jack May](https://open.spotify.com/artist/0DjOM3p7J0A8ANeln1hjqn) | [Slow Burner](https://open.spotify.com/album/2vtz0imwdKGHlnGsQHN0O3) | 2:37 |
 | 30 | [Souls](https://open.spotify.com/track/3ChoL4frV5kJSk0C9F3IWz) | [Del Risa](https://open.spotify.com/artist/4gzZiN07Ka3Idx3QvR1ZuS) | [Souls](https://open.spotify.com/album/118kdRwrFscCUlo9bSr096) | 4:14 |
 | 31 | [Bloomin'](https://open.spotify.com/track/4V84CYLnNvkP3YzhL5cpLx) | [Austeria](https://open.spotify.com/artist/6nImttseHjHeRnSY68rFBj) | [Bloomin'](https://open.spotify.com/album/6lgNSOo9OivZS0jLaWeXwB) | 2:16 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 33 | [Tryin' \- Chill House](https://open.spotify.com/track/22epPcE6Y7GwJGmPQbtOtC) | [Mosebe](https://open.spotify.com/artist/6lj1J9zFm8AJ2Vu4cZOF8g) | [Tryin' \- Chill House](https://open.spotify.com/album/7toIQ03j9CygKydoqvhzff) | 3:22 |
 | 34 | [Mannequin](https://open.spotify.com/track/36Uz12ctE58QztkK67Doya) | [Chewy WO](https://open.spotify.com/artist/3pa7MdSYqgFazXfYIQehhV) | [Mannequin](https://open.spotify.com/album/4k3gJQHthd1Vcs90viihk1) | 3:09 |
 | 35 | [Lumina Mov](https://open.spotify.com/track/6u1PJVc6R2HjO9VmArEqAC) | [Undeva Ploua](https://open.spotify.com/artist/2pTLeyGB0F7IAftkVc3nga) | [Lucid Moments](https://open.spotify.com/album/6RlE8VrwG6K3Bqs3NbuxwV) | 1:51 |
-| 36 | [Eagle](https://open.spotify.com/track/2gHawVp05GgRFsghwuJasb) | [Diz](https://open.spotify.com/artist/02Fpx7VRq10jCSdPM89TUT) | [Eagle](https://open.spotify.com/album/6sehfPAmRF7aCZfnX8nSNM) | 0:29 |
+| 36 | [Eagle](https://open.spotify.com/track/2gHawVp05GgRFsghwuJasb) | [Diz](https://open.spotify.com/artist/02Fpx7VRq10jCSdPM89TUT) | [Eagle](https://open.spotify.com/album/6sehfPAmRF7aCZfnX8nSNM) | 2:51 |
 | 37 | [Sleepy](https://open.spotify.com/track/72lefppJV4GNMzknCilJzd) | [BoW](https://open.spotify.com/artist/0UYWqGl6QTZCJizQty7kFI) | [Night Sky](https://open.spotify.com/album/63ysIA8671nsKzVD90fFwa) | 2:01 |
 | 38 | [The Yellow Taxi](https://open.spotify.com/track/2t7CtXjvm9a4tVl8rj6O05) | [Tethered Ghosts](https://open.spotify.com/artist/4tMeBDw2jUzYYCxx4MqlVM) | [Left on Read](https://open.spotify.com/album/0p3KQ3yiMRA82ueeUAdcIq) | 2:44 |
 | 39 | [Concession](https://open.spotify.com/track/24ad6v49HSgza51bogmg98) | [Ash Spark](https://open.spotify.com/artist/4nByMghGme4u8Zq4uSuh6w) | [Concession](https://open.spotify.com/album/0W9VfRzTmuPzJmoIb39wzf) | 2:49 |
@@ -122,7 +122,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 112 | [LV](https://open.spotify.com/track/6hsUEoIwD9Oq1wqwzdCr8J) | [Robot Robit](https://open.spotify.com/artist/3ZQr5RhizqlZaMgx0SY1jD) | [LV](https://open.spotify.com/album/3Rz2yFrvSzt6rO362bb30P) | 3:03 |
 | 113 | [Cannonball](https://open.spotify.com/track/7f1ZpHuGeGQOzD5qumBg5F) | [Dove Tales](https://open.spotify.com/artist/70Tk6S5pkOGDREV86Mn8Qf) | [Monty Hall](https://open.spotify.com/album/4MPyqq00qt7THWrpiHwRa7) | 3:41 |
 | 114 | [Soft Serve](https://open.spotify.com/track/0PNIIKHVnhKMAsO1liy0yh) | [Palm Terrace](https://open.spotify.com/artist/6zqf46RVjLtZnmG86hOTbg) | [Soft Serve](https://open.spotify.com/album/2wx9trU9OKtAJDF5jGnjA8) | 2:59 |
-| 115 | [Ebullience](https://open.spotify.com/track/5F9JKU4bZwtsWRs3R3kk1A) | [Kalizé](https://open.spotify.com/artist/1RucQs51dYwiXQbDKIpaKS) | [Ebullience](https://open.spotify.com/album/7c0CC4Tx5h6fem5482f4tE) | 0:29 |
+| 115 | [Ebullience](https://open.spotify.com/track/5F9JKU4bZwtsWRs3R3kk1A) | [Kalizé](https://open.spotify.com/artist/1RucQs51dYwiXQbDKIpaKS) | [Ebullience](https://open.spotify.com/album/7c0CC4Tx5h6fem5482f4tE) | 2:31 |
 | 116 | [Babylon](https://open.spotify.com/track/3phCbf2aKOilnmUdlSm0Uh) | [Lak Host](https://open.spotify.com/artist/6rsmOmkstPMAPmXCKJhgam) | [Babylon](https://open.spotify.com/album/0EMCjRQIXRInbqSsVwvvUf) | 3:28 |
 | 117 | [Nanimoshinai](https://open.spotify.com/track/2Tn9t0J8lcoWoqFt3salVA) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Yukkuri](https://open.spotify.com/album/3UsJZDdh685GcDK7a0bdTp) | 3:13 |
 | 118 | [Up Through The Clouds](https://open.spotify.com/track/6HpU6c2ke3qC1RWakDp3nW) | [Antonne](https://open.spotify.com/artist/4aVCtWZXi66nIRjFglKHwH) | [Up Through The Clouds](https://open.spotify.com/album/71PuIL86MUp2L33YNSqfk3) | 3:58 |
@@ -194,7 +194,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 184 | [pacific stars](https://open.spotify.com/track/0sDJcl9cf4ir3HBwAtVBTM) | [Phet Kharma](https://open.spotify.com/artist/4iAzEYiC4HuGDyzGVcq4B6) | [pacific stars](https://open.spotify.com/album/0xPYPTXQbXQxsG6H4YDi1g) | 2:45 |
 | 185 | [Smooth Mind](https://open.spotify.com/track/3l0bF4yF0PyovHRFcWN7He) | [Safe Tock](https://open.spotify.com/artist/2Wz1Gs5fSAP2v31hzx113t) | [Smooth Mind](https://open.spotify.com/album/5uQibIak3bvGti5AEvePm5) | 2:58 |
 | 186 | [Lounges](https://open.spotify.com/track/1eJ6VriKLzktGdph6f06jT) | [HollyDave](https://open.spotify.com/artist/0fwfq3m3px40mSeOdDPVnJ) | [Lounges](https://open.spotify.com/album/2n8ETq2ybdSzRi15mGm4bt) | 1:56 |
-| 187 | [Agoura Eyes](https://open.spotify.com/track/0d036L67zOm3Il6h3jLCb7) | [Parker Son](https://open.spotify.com/artist/3ID3ZMg7Mf5wRvqFJwF82r) | [Agoura Eyes](https://open.spotify.com/album/6NTIOA7EHjs7tS3s88P28N) | 0:29 |
+| 187 | [Agoura Eyes](https://open.spotify.com/track/0d036L67zOm3Il6h3jLCb7) | [Parker Son](https://open.spotify.com/artist/3ID3ZMg7Mf5wRvqFJwF82r) | [Agoura Eyes](https://open.spotify.com/album/6NTIOA7EHjs7tS3s88P28N) | 2:24 |
 | 188 | [Out Of Nothing](https://open.spotify.com/track/1JT9cRJV8IyQT1aWKV0cxM) | [the beats of...](https://open.spotify.com/artist/6xI7tRm64d9dwDuXrSv1Kr) | [Out Of Nothing](https://open.spotify.com/album/0qieGIV1ehZACjDA04nTST) | 2:58 |
 | 189 | [Dim Eyes](https://open.spotify.com/track/12c2Ttzw2pzF95V7NcGil6) | [Bagnio](https://open.spotify.com/artist/4ILDYx71BU6WiKLptF6IJQ) | [Dim Eyes](https://open.spotify.com/album/1GsILIyXFnCifMHBVPUiec) | 3:22 |
 | 190 | [For No Reason](https://open.spotify.com/track/4h93amQ2V3qCp5ZMJ6r6lB) | [Temperal Guidance](https://open.spotify.com/artist/5NYAa1gibaabXhygG2bcsi) | [For No Reason](https://open.spotify.com/album/3YapZf1lBVPmczSuMTnkjx) | 2:19 |
@@ -212,7 +212,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 202 | [midnight slushee](https://open.spotify.com/track/6aPaDaf5QBxN3wBg4abYNx) | [sergeant rivers](https://open.spotify.com/artist/61MbaqO16BaExSacDkAbQA) | [stormy summer stories](https://open.spotify.com/album/2u7sprLEATxfN8TQpZrsh6) | 1:57 |
 | 203 | [spring](https://open.spotify.com/track/6mpcfOpE6QGqRKHlaJuRkP) | [slowseventeen](https://open.spotify.com/artist/09h6Xfv6UuvH9rIjAASA2X) | [spring](https://open.spotify.com/album/3efxXYGDQvWZFTqarrykWX) | 2:23 |
 | 204 | [Joseph's Well](https://open.spotify.com/track/1qfKWLhAOL9PBvZ5wsOhsU) | [Orange Roundabout](https://open.spotify.com/artist/5MLibyV1Zt03HCKOvJCHnB) | [Joseph's Well](https://open.spotify.com/album/7EZfQDTuKmTGircFR8XA9A) | 2:07 |
-| 205 | [Rooftop Grill](https://open.spotify.com/track/61MsjQN0Q7KahSXROkTuCT) | [My Ol' Man](https://open.spotify.com/artist/37j2MNjIAKO9lXKTXlhxJM) | [Rooftop Grill](https://open.spotify.com/album/15zZne87pgRocffEgZX7CO) | 0:29 |
+| 205 | [Rooftop Grill](https://open.spotify.com/track/61MsjQN0Q7KahSXROkTuCT) | [My Ol' Man](https://open.spotify.com/artist/37j2MNjIAKO9lXKTXlhxJM) | [Rooftop Grill](https://open.spotify.com/album/15zZne87pgRocffEgZX7CO) | 2:22 |
 | 206 | [drift](https://open.spotify.com/track/0vvtzmmvWQRP9VmCoZBHxn) | [lola dreams](https://open.spotify.com/artist/5b2IjxR1EQiDcay0RSzgNY) | [drift](https://open.spotify.com/album/5ywDwMQPjZl3ixzfCZHVaG) | 2:34 |
 | 207 | [Rolling Waves](https://open.spotify.com/track/5Z7UJUFFqFUeoH4kI1rBQu) | [Calvio](https://open.spotify.com/artist/0ERiQMnG5wKxqgyUtJjcM8) | [Rolling Waves](https://open.spotify.com/album/6xxZBlJhExbVHs3qJvTkJm) | 2:22 |
 | 208 | [Montreux](https://open.spotify.com/track/5BCogYGUcjCVn7u6aYarva) | [Desoncote](https://open.spotify.com/artist/5aMtYcDTbmtmG2VeCDq0zi) | [Montreux](https://open.spotify.com/album/6DNfPtbVjz5s4qoOIttveN) | 2:15 |
@@ -220,7 +220,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 210 | [Through The Lense](https://open.spotify.com/track/26N4LCZnAAWNsM42U8fAgB) | [Keyser](https://open.spotify.com/artist/52XeGIGAMhVqec1ev8t3Qc) | [Through The Lense](https://open.spotify.com/album/1h0hx2D61dW17Cymqzmxoy) | 2:18 |
 | 211 | [Anywhere With You](https://open.spotify.com/track/73SKouRCNSHqPTLTBOJKOq) | [Cassette Treasures](https://open.spotify.com/artist/3oF0M86slqb8GWlqB2JXZw) | [Anywhere With You](https://open.spotify.com/album/3hNlPn59m504e5pHgRRrlN) | 2:21 |
 | 212 | [Estuary](https://open.spotify.com/track/0uvXmStLwVQFAnhP6YD9TR) | [Post Op](https://open.spotify.com/artist/2QLZFqNC0yRXuhZi3VvOqS) | [Estuary](https://open.spotify.com/album/4RHtv2ncUKuH3TVzbLFtB8) | 3:13 |
-| 213 | [Pulse](https://open.spotify.com/track/4Wei2xM1ylJMPC8m4gS7jb) | [Kripto](https://open.spotify.com/artist/0VdlvJNWbvKfguCf7tdgop) | [Pulse](https://open.spotify.com/album/0qw2Z5e22Ncizew1ilSAX9) | 0:29 |
+| 213 | [Pulse](https://open.spotify.com/track/4Wei2xM1ylJMPC8m4gS7jb) | [Kripto](https://open.spotify.com/artist/0VdlvJNWbvKfguCf7tdgop) | [Pulse](https://open.spotify.com/album/0qw2Z5e22Ncizew1ilSAX9) | 2:06 |
 | 214 | [Reflect](https://open.spotify.com/track/2FUIdzhQtFixAuxpcjwhTP) | [Dimmer Signal](https://open.spotify.com/artist/0DnCXK4n3Ug9zpNWKGAD6Y) | [Reflect](https://open.spotify.com/album/0YJKBHgaTNxqTXWUrNZcCt) | 1:32 |
 | 215 | [Nattsudd](https://open.spotify.com/track/6HMT16Rk6JTTQ2LuYLHVRb) | [Overklig](https://open.spotify.com/artist/44GjBAdTaRpLUjQi7wJMa2) | [Nattsudd](https://open.spotify.com/album/1oJoXscf6fpPQKbzDJe2OT) | 2:36 |
 | 216 | [Molecular Force](https://open.spotify.com/track/15cnM6N7rgjv7mBAHLiG63) | [Blue Cousins](https://open.spotify.com/artist/5xTmsiaHwO4F5BolRtmvCY) | [Molecular Force](https://open.spotify.com/album/4av4XmjYKDALjdQKSTozLZ) | 1:42 |
@@ -234,7 +234,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 224 | [Seed of a Thought](https://open.spotify.com/track/6smNHgmjTDNJWaovT0NbRR) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj), [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [Seed of a Thought](https://open.spotify.com/album/3GnK0lasJIQFXFEc8SwLak) | 1:59 |
 | 225 | [Ground Concrete](https://open.spotify.com/track/7rhoPowNAOMG9GPzZUCQD9) | [Rudy Boy](https://open.spotify.com/artist/3oAXW0WYR5lFZdx62Vr8OM) | [Architecture](https://open.spotify.com/album/3NbGDz98pX5aWxroN1t0Cy) | 2:09 |
 | 226 | [Focused Projections](https://open.spotify.com/track/1W2z4uJzZuA0r0MDQWJvex) | [Tom Kalani](https://open.spotify.com/artist/19b5Zn4pI7sCFiHfSlRFSc) | [Clusters](https://open.spotify.com/album/7mPBccYXc1Wkx45EGsN0ir) | 3:25 |
-| 227 | [Isotropic](https://open.spotify.com/track/65akmuRiBnvX9qQoEwUT4f) | [Sonalis](https://open.spotify.com/artist/3n6RFRevPSBR62Ae3LgPlY) | [Isotropic](https://open.spotify.com/album/45Ou3IRgSS28SjPGvScIw0) | 0:29 |
+| 227 | [Isotropic](https://open.spotify.com/track/65akmuRiBnvX9qQoEwUT4f) | [Sonalis](https://open.spotify.com/artist/3n6RFRevPSBR62Ae3LgPlY) | [Isotropic](https://open.spotify.com/album/45Ou3IRgSS28SjPGvScIw0) | 2:52 |
 | 228 | [Night Drives 1986](https://open.spotify.com/track/1Q9rUjbPdWNu1K7o6g3zta) | [Khari Khalamari](https://open.spotify.com/artist/4YVlEQzEuzMreascg8g32A) | [Night Drives 1986](https://open.spotify.com/album/6rBDX0PUnOKvw5egPRRKtq) | 2:36 |
 | 229 | [Keep on Keepin' On](https://open.spotify.com/track/6T6Uf0q0Jpe5t4LnFQU3tM) | [FAKTESS](https://open.spotify.com/artist/6epkbYGmkRjKc18xWsEXPM) | [Keep On Keepin' On](https://open.spotify.com/album/3kPWOAZcaf92yz139YLcbL) | 2:20 |
 

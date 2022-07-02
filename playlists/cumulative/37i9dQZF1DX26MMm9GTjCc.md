@@ -4,7 +4,7 @@
 
 > The soundtrack to your festive get\-together!
 
-50 songs - 2 hr 52 min - [published](https://open.spotify.com/playlist/4aTtG0lLgznSH9xY438zpI)
+50 songs - 2 hr 56 min - [published](https://open.spotify.com/playlist/4aTtG0lLgznSH9xY438zpI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Merry Xmas Everybody](https://open.spotify.com/track/3iwZ8hg0q1kTBB5kjg0nO4) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Wall Of Hits](https://open.spotify.com/album/3qQsv8mJaD5Qn10yCEuk84) | 3:25 | 2021-10-28 |  |
 | [Naughty List \(with Dixie\)](https://open.spotify.com/track/2Y0ktCGrGoGcQFXsGztvhi) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [Naughty List \(with Dixie\)](https://open.spotify.com/album/2xvYb1xTCb5hhxzXub0RdM) | 2:34 | 2021-10-28 |  |
 | [One I've Been Missing](https://open.spotify.com/track/4VpnrB9Lai2uHsRbh5C8Ft) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [One I've Been Missing](https://open.spotify.com/album/2s0uYI8G5VpBHYaXHQaXJg) | 3:12 | 2021-10-28 |  |
-| [One More Sleep](https://open.spotify.com/track/78pn8k7RogKo2oxl0DyX6d) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 0:29 | 2021-10-28 |  |
+| [One More Sleep](https://open.spotify.com/track/78pn8k7RogKo2oxl0DyX6d) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 3:59 | 2021-10-28 |  |
 | [Rockin' Around the Christmas Tree](https://open.spotify.com/track/09OojFvtrM9YRzRjnXqJjA) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [A Brenda Lee Christmas](https://open.spotify.com/album/1cBDfonflxnXLLW1Ttnp9F) | 2:06 | 2021-10-28 |  |
 | [Rudolph the Red Nosed Reindeer](https://open.spotify.com/track/3IV8xIrnjv7TdJY6KUmdrD) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Rocky Mountain Christmas](https://open.spotify.com/album/0dXhgmr4nXrx4lTVC2IKBq) | 1:43 | 2021-10-28 |  |
 | [Run Rudolph Run](https://open.spotify.com/track/56MD76UpyaINinoqWzcqVM) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Snowed In](https://open.spotify.com/album/0SnP7ybqXYGyRFNqhmxWE1) | 3:12 | 2021-10-28 |  |

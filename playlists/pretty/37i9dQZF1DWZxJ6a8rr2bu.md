@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxJ6a8rr2bu.md) - [plain]
 
 > A <a href="http://www.womeninmusic.org">Women in Music</a> curated list of barrier\-breaking talent impacting the music world\. Features songs from artists directly from our WIM Community \| Cover: Flo Milli
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,099 likes - 40 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,105 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxJ6a8rr2bu.md) - [plain]
 | 6 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 |
 | 7 | [What’s New](https://open.spotify.com/track/3jRHehB5ulTMKfK5WaqDqc) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:35 |
 | 8 | [I'm The Shit](https://open.spotify.com/track/7xvH8b20hOofWwxVo1aOvG) | [Mari Taylor](https://open.spotify.com/artist/5wC3UaKzdIu72XMWQY2hbI) | [Taylor Made](https://open.spotify.com/album/28bebqd6h16USwC16XU8nV) | 2:23 |
-| 9 | [Softly](https://open.spotify.com/track/2drDZnirL0TSVp8pOA756W) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 0:29 |
+| 9 | [Softly](https://open.spotify.com/track/2drDZnirL0TSVp8pOA756W) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:53 |
 | 10 | [you should see me in a crown](https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:00 |
 | 11 | [Fast Times](https://open.spotify.com/track/0oN3KzKOxYtyIuNiobf8Q4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Fast Times](https://open.spotify.com/album/2rR0wpBcmvYpxQd77BWShd) | 2:54 |
 | 12 | [Lady Deity](https://open.spotify.com/track/2qxk5IUkxWXPWX8qOJCgFE) | [SIESKI](https://open.spotify.com/artist/2gMTrqdCY8fLSyNrRNdZme) | [Lady Deity](https://open.spotify.com/album/2C852pAhGvYSYc5u7aIl3v) | 3:26 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxJ6a8rr2bu.md) - [plain]
 | 30 | [Big Fish Theory](https://open.spotify.com/track/2ncMj2NVad6z51PD6xhp0M) | [Chrxstal Sarah](https://open.spotify.com/artist/2JZL2IaH2OajY3wO8ztidA) | [Big Fish Theory](https://open.spotify.com/album/0o1K4Ax8YryKGeNc48nrAG) | 2:35 |
 | 31 | [BIG](https://open.spotify.com/track/0wRpsc7jtLA8V0COFkwtYG) | [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P) | [BIG](https://open.spotify.com/album/4mYgWeJ39gMlXqTPOUzASz) | 2:40 |
 | 32 | [CAN'T TOUCH THIS](https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:26 |
-| 33 | [Worth It](https://open.spotify.com/track/7AQRpyFBYQqtWfkmlqkw4l) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 0:29 |
+| 33 | [Worth It](https://open.spotify.com/track/7AQRpyFBYQqtWfkmlqkw4l) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 4:18 |
 | 34 | [Fingers Crossed](https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY) | 2:55 |
 | 35 | [Solace](https://open.spotify.com/track/1Lqr5ceE4xCEPNeCBZsM4k) | [Bobbie](https://open.spotify.com/artist/18DSBebqUjUt7uGMv4bXH3) | [Solace](https://open.spotify.com/album/140rqbHfBtHsJ4Q2bF659x) | 5:25 |
 | 36 | [2021](https://open.spotify.com/track/5KTX2DzpMC3CaOPUUqcnZS) | [Tamara Kumbula](https://open.spotify.com/artist/0UX16aLcy0oMwn4Tnnydf0), [Kalcatraz](https://open.spotify.com/artist/0KOoXNEBWvDwqcyzn400aQ) | [2021](https://open.spotify.com/album/3d2KbmqejpYTVz5YhXyyPV) | 2:33 |

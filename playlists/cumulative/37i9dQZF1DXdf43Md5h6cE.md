@@ -4,7 +4,7 @@
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-57 songs - 5 hr 6 min - [published](https://open.spotify.com/playlist/3J3LPO0Z4tLv0nyKiEt64G)
+57 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/3J3LPO0Z4tLv0nyKiEt64G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Bohemian Paradise](https://open.spotify.com/track/76BZeboUrTw8niFWxWET13) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [In the Age of Aristocracy](https://open.spotify.com/album/2VyzPKVjOkYIlevXe7midR) | 4:54 | 2022-05-19 |  |
 | [Break The Cycle](https://open.spotify.com/track/5dUpUWlBPGIydeG9Ew0fQa) | [Clariloops](https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4) | [Micro Macro](https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB) | 4:46 | 2022-05-19 |  |
 | [Chinsi](https://open.spotify.com/track/6sBNaiB80PUXMiFeJJ5wNc) | [Bunraku](https://open.spotify.com/artist/2KRjFUNJ9GJepRGAGextuq) | [Yoru](https://open.spotify.com/album/19KxJBqNupp2VPFOg3ZgaH) | 4:13 | 2022-05-19 |  |
-| [Cold Air](https://open.spotify.com/track/01FewOTOeVj75RV6BYygod) | [Color of Time](https://open.spotify.com/artist/5GhEh1BgnOafsIAUgNtF02), [From Overseas](https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV), [Tyresta](https://open.spotify.com/artist/0HgueusJAiyVI6iQPSFquL) | [Color of Time](https://open.spotify.com/album/7uEqAuTyaC02sBgYRQb8gI) | 0:29 | 2022-05-19 |  |
+| [Cold Air](https://open.spotify.com/track/01FewOTOeVj75RV6BYygod) | [Color of Time](https://open.spotify.com/artist/5GhEh1BgnOafsIAUgNtF02), [From Overseas](https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV), [Tyresta](https://open.spotify.com/artist/0HgueusJAiyVI6iQPSFquL) | [Color of Time](https://open.spotify.com/album/7uEqAuTyaC02sBgYRQb8gI) | 2:52 | 2022-05-19 |  |
 | [Dandelions](https://open.spotify.com/track/6IFQFMp1sazAG1ZA6bIA57) | [Amanita Phalloides](https://open.spotify.com/artist/7dipuZgipLo3oDsGhl6dQL), [Heavenchord](https://open.spotify.com/artist/0N1G1lizxkv4jmvMkg0n5X) | [Hope Never Dies](https://open.spotify.com/album/7o9JDarAd1qKHN5mTVI6P4) | 3:44 | 2022-05-19 |  |
 | [Day 1](https://open.spotify.com/track/4IqM95Bxy0Ki0xbSIrNYKN) | [Joel Shearer](https://open.spotify.com/artist/4HrrmVtL1VbUi15AvooVeR) | [Morning Loops](https://open.spotify.com/album/518ACaHelXkskhf4AtBEvA) | 11:52 | 2022-05-19 |  |
 | [Ends](https://open.spotify.com/track/0m5yyFEck8AjOjBnik2sn0) | [Líom](https://open.spotify.com/artist/1cB3Rx6pGBifTruhYgnMuS) | [Coast](https://open.spotify.com/album/2cV90JgRQmnI8eAm5mGwr0) | 5:55 | 2022-05-19 |  |

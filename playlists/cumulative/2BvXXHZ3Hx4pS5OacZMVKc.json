@@ -738,6 +738,24 @@
     },
     {
       "album": {
+        "name": "Faster",
+        "url": "https://open.spotify.com/album/49W9j2gUsprNUqp3r6hmft"
+      },
+      "artists": [
+        {
+          "name": "Razihel",
+          "url": "https://open.spotify.com/artist/5RKCVcnmcgyhFf85I4Ry9O"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126958,
+      "name": "Faster",
+      "url": "https://open.spotify.com/track/1jw3vByyGzHaeKkhl6W5vo"
+    },
+    {
+      "album": {
         "name": "Fearless Pt. II",
         "url": "https://open.spotify.com/album/1EfxWO4kPvf4d2Nj6HCL3D"
       },
@@ -1032,7 +1050,7 @@
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 302040,
       "name": "Hardwired",
       "url": "https://open.spotify.com/track/3VajuLxTdiugx8bbSJfW3s"
     },
@@ -1217,6 +1235,24 @@
       "duration_ms": 132352,
       "name": "Hurt Me",
       "url": "https://open.spotify.com/track/7IT4rIcgqQ3XjCOgp5a82V"
+    },
+    {
+      "album": {
+        "name": "Hyperphantasia",
+        "url": "https://open.spotify.com/album/4QE2gQnuibf71b7JcupHbp"
+      },
+      "artists": [
+        {
+          "name": "Everen Maxwell",
+          "url": "https://open.spotify.com/artist/23kOQsgl3Wmza7ppIaq0SB"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238956,
+      "name": "Hyperphantasia",
+      "url": "https://open.spotify.com/track/5jXJR2v7l3fzAooJQlAGrm"
     },
     {
       "album": {
@@ -1976,7 +2012,7 @@
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 140000,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/2wAfNfNYVBoDuu1xu91X8U"
     },
@@ -2278,7 +2314,7 @@
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 176404,
       "name": "Promise",
       "url": "https://open.spotify.com/track/5ACNwDb4ukIExNiAN0fpVo"
     },
@@ -3186,7 +3222,7 @@
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 228571,
       "name": "Warriors",
       "url": "https://open.spotify.com/track/67CXgSwER3AaTU67HhxJCO"
     },
@@ -3380,7 +3416,7 @@
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 151605,
       "name": "Zero Gravity",
       "url": "https://open.spotify.com/track/2qwQQJST3AmRQrexMxS04J"
     }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 
 > The official playlist for Outer Banks now\. Watch now only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,227 likes - 81 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,298 likes - 81 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 63 | [Aftermath](https://open.spotify.com/track/5L7IV2oz935HS8kekbIneh) | [David Wingo](https://open.spotify.com/artist/7mRf8eSpaoh4FD8D4mtvRk) | [Mud \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/713MVG5cxRcOHLPsqVKRCD) | 2:17 |
 | 64 | [Left Hand Free](https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a) | 2:53 |
 | 65 | [The Bastard](https://open.spotify.com/track/5lw0dTUg5x65uT7dt59ffb) | [Whitefield Brothers](https://open.spotify.com/artist/1ynl48Y4KflTXf1alW9g1L) | [Original Raw Soul III](https://open.spotify.com/album/3NFV4ua8myvE75kCnOsT5d) | 3:05 |
-| 66 | [Up Up](https://open.spotify.com/track/4aAAVrmG2NaxOLyjP5n5o0) | [Sandollar](https://open.spotify.com/artist/5uHzTbTdUPeRaYdcn4qlsG) | [Roller Coaster Ride](https://open.spotify.com/album/2tjkE0GvZ6WXZbUNS4xnGn) | 0:29 |
+| 66 | [Up Up](https://open.spotify.com/track/4aAAVrmG2NaxOLyjP5n5o0) | [Sandollar](https://open.spotify.com/artist/5uHzTbTdUPeRaYdcn4qlsG) | [Roller Coaster Ride](https://open.spotify.com/album/2tjkE0GvZ6WXZbUNS4xnGn) | 4:56 |
 | 67 | [Maria También](https://open.spotify.com/track/66MpvsWO5O7gy9LjXGFw6I) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/42j41uUwuHZT3bnedq2XtM) | 3:10 |
 | 68 | [High School Lover](https://open.spotify.com/track/2hPT4VtaYhDY5OcT7jxzAb) | [Cayucas](https://open.spotify.com/artist/7LLcRttKjV6PeJOlCNCYon) | [Bigfoot](https://open.spotify.com/album/5KqryI5QWOvC0mVsJrvAJD) | 3:40 |
 | 69 | [Hold Me](https://open.spotify.com/track/5t93hSW6hOhojflI6pjits) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2FiJglbmAD9roZsCwKJYIb) | 3:07 |

@@ -4,7 +4,7 @@
 
 > The latest and greatest music out now!
 
-116 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/52T0XSksRpY416TzA7vg99)
+116 songs - 5 hr 55 min - [published](https://open.spotify.com/playlist/52T0XSksRpY416TzA7vg99)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2022-01-25 |  |
 | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q) | 2:40 | 2022-01-25 |  |
 | [Bitter Tonic](https://open.spotify.com/track/77N6PBJUCcJtkaQmIEKJSW) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Bitter Tonic](https://open.spotify.com/album/0hDjyDRFlLdK4nAeR876Bd) | 3:21 | 2022-01-25 |  |
-| [Blessings](https://open.spotify.com/track/54hWxzuJd16U6zYPM8KI7b) | [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [Blessings](https://open.spotify.com/album/21w847NRJxT2RaYk7ekYUx) | 0:29 | 2022-01-25 |  |
+| [Blessings](https://open.spotify.com/track/54hWxzuJd16U6zYPM8KI7b) | [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [Blessings](https://open.spotify.com/album/21w847NRJxT2RaYk7ekYUx) | 3:20 | 2022-01-25 |  |
 | [Blue](https://open.spotify.com/track/4a1RWaG4BTkifgMSx3rpf3) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Life Support](https://open.spotify.com/album/1TKYO9znkrY14VayHze05r) | 3:49 | 2022-01-25 |  |
 | [Body](https://open.spotify.com/track/3uG6rdUthcTvbK70fwkPky) | [Jordan Suaste](https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0) | [Body](https://open.spotify.com/album/3gIzo73IbdwgslkfliWnyy) | 3:25 | 2022-01-25 | 2022-02-26 |
 | [Boy In A Billion](https://open.spotify.com/track/6DMWwt5XEJKlWYhw2EK76h) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Boy In A Billion](https://open.spotify.com/album/4V32yx2U7pEJpTjcpaRRI0) | 3:27 | 2022-01-25 |  |

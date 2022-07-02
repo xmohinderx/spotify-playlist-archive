@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24HW7kIIcEV.md) - [plain]
 
 > T as in Troy? No Gabriella, T as in Time to relive your greatest childhood memories.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,302 likes - 85 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,701 likes - 85 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24HW7kIIcEV.md) - [plain]
 | 15 | [Fabulous](https://open.spotify.com/track/6jyXQ8HGI7ikECGA0670uo) | [Sharpay Evans](https://open.spotify.com/artist/3WtcOzeKXq5mUINE0bNfnt), [Ryan](https://open.spotify.com/artist/1fe7Tefs9PHQdILRR6gKoa), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical 2 \(Original Soundtrack\)](https://open.spotify.com/album/04Xde0FJSo4LVQ1GE36t49) | 3:00 |
 | 16 | [Cruisin' for a Bruisin' \- From "Teen Beach Movie"](https://open.spotify.com/track/6EAyw7NCo33RC35eXsx8k1) | [Austin Moon](https://open.spotify.com/artist/1eBGyqw9kLsidL0q2dimWF), [Grace Phipps](https://open.spotify.com/artist/2k8LSCieAnywX4Ku6k3X4m), [Jason Evigan](https://open.spotify.com/artist/1aZENDSuD4XXPlue0RJwSj) | [Teen Beach Movie](https://open.spotify.com/album/0FJ1ktsf4S5LKR6sP0L4y2) | 3:15 |
 | 17 | [Beggin' On Your Knees \(feat\. Victoria Justice\)](https://open.spotify.com/track/116kG9vvdUtoprjYtToONt) | [Victorious Cast](https://open.spotify.com/artist/1KYszkVzlhV3rAqmAcYIgd), [Victoria Justice](https://open.spotify.com/artist/2OTfr6S2kuHRYStjt1IkY6) | [Victorious: Music From The Hit TV Show \(feat\. Victoria Justice\)](https://open.spotify.com/album/1VM5qKftnTKFU9rthvEgYx) | 3:13 |
-| 18 | [Potential Breakup Song](https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 0:29 |
+| 18 | [Potential Breakup Song](https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 3:39 |
 | 19 | [He Said She Said](https://open.spotify.com/track/0jTTjg6q4jsd2RhuHwTvLj) | [Ashley Tisdale](https://open.spotify.com/artist/2ddxtfC0oS8LoktXUHE7YL) | [Headstrong](https://open.spotify.com/album/18Cdeub4WBPKku92zlsfWp) | 3:08 |
 | 20 | [Strut \- From "The Cheetah Girls 2"](https://open.spotify.com/track/1g1Jor1zrllXn2ogj8KGAH) | [The Cheetah Girls](https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY) | [The Cheetah Girls 2](https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG) | 3:18 |
 | 21 | [Lovebug](https://open.spotify.com/track/3F8xLc6T4VvKH7I6wqVAN2) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [A Little Bit Longer](https://open.spotify.com/album/4jcRw4qVurxoZcfIYPKDpz) | 3:40 |

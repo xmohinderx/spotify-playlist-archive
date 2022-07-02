@@ -4,7 +4,7 @@
 
 > The best in Black music from Ireland\. Cover: Soulé
 
-96 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/3nAIeyixZaYOskCsYoaIs7)
+96 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/3nAIeyixZaYOskCsYoaIs7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Evil Eye \- A COLORS SHOW](https://open.spotify.com/track/0X4OaqRlKPYdIFL2LZECHv) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Evil Eye \- A COLORS SHOW](https://open.spotify.com/album/3uc0BBMDWAkDwxunNXZtJx) | 2:55 | 2021-10-26 | 2022-03-17 |
 | [Fall Asleep](https://open.spotify.com/track/0PZQWlZ4A8CSD1f9P9xoTx) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Sistahs](https://open.spotify.com/album/7pToEE1w4P0UAMqhaPxoQr) | 2:56 | 2021-10-26 | 2022-03-17 |
 | [For You](https://open.spotify.com/track/2B2jI2PdBMhUkG17F0lor2) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [For You](https://open.spotify.com/album/4c2GXEVeTy83c1Bd2xT92y) | 2:18 | 2021-10-26 | 2022-03-17 |
-| [Garden](https://open.spotify.com/track/50iDsxVvLyArwlS5PUuiy3) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [What Should We Do This Summer ?](https://open.spotify.com/album/63SUShWKQ0g7ttqbgN8b2P) | 0:29 | 2022-03-17 |  |
+| [Garden](https://open.spotify.com/track/50iDsxVvLyArwlS5PUuiy3) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [What Should We Do This Summer ?](https://open.spotify.com/album/63SUShWKQ0g7ttqbgN8b2P) | 3:12 | 2022-03-17 |  |
 | [Go Ali Go](https://open.spotify.com/track/21pbWipcWfNFjwdgJyDKe0) | [Alicia Raye](https://open.spotify.com/artist/5JcE1g6GbiFOLEdxpM5nmZ) | [Go Ali Go](https://open.spotify.com/album/0fE6v0x1iZ7IiUDmuyUYRc) | 2:35 | 2022-03-17 |  |
 | [Golden](https://open.spotify.com/track/03UZ8fbo1heGpeeVI380lY) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/0hNccp1ktroLsmDFPvUh0l) | 3:09 | 2021-10-26 |  |
 | [Got Me](https://open.spotify.com/track/3mghKdqAomZMZKShUppmae) | [Laura Mvula](https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT) | [Got Me](https://open.spotify.com/album/7s073AT8XNarGOBLruWghZ) | 3:26 | 2021-10-26 | 2022-03-17 |
@@ -43,7 +43,7 @@
 | [Jealous \(feat\. Rico Nasty\)](https://open.spotify.com/track/0IIn18QlxCeUpLPRaR6a7K) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Jealous \(feat\. Rico Nasty\)](https://open.spotify.com/album/2SNoIwHcpdsPWq8SuoqG3p) | 3:19 | 2021-10-26 | 2022-03-17 |
 | [K78 Bop \(feat\. Nadz20\)](https://open.spotify.com/track/0FcUEpeqkcT38SNLK70Jpp) | [Femz20](https://open.spotify.com/artist/3v3Pi3YRfCFklCJmXCWC8n), [Nadz20](https://open.spotify.com/artist/35App72eBUQ6IPQnuLI6Pc) | [K78 Bop \(feat\. Nadz20\)](https://open.spotify.com/album/2Ufc8HeqYxsLbyn9fpdGmO) | 3:35 | 2022-03-17 |  |
 | [Know You](https://open.spotify.com/track/30GaxnloZ9ayDQwnz3RW6e) | [Monjola](https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6) | [Know You](https://open.spotify.com/album/1Pprnco4ZZclQx5nHSKPDs) | 3:10 | 2022-03-17 |  |
-| [Ladies Night \(Freestyle\)](https://open.spotify.com/track/2rc3E5tuT8NCnXgwE8tbYS) | [JyellowL](https://open.spotify.com/artist/7zWrMTItje9ZjKK2XWTPle) | [Ladies Night \(Freestyle\)](https://open.spotify.com/album/4unU2ER6lmRSetQORPdmIn) | 3:50 | 2022-03-17 |  |
+| [Ladies Night \(Freestyle\)](https://open.spotify.com/track/2rc3E5tuT8NCnXgwE8tbYS) | [JyellowL](https://open.spotify.com/artist/7zWrMTItje9ZjKK2XWTPle) | [Ladies Night \(Freestyle\)](https://open.spotify.com/album/4unU2ER6lmRSetQORPdmIn) | 0:29 | 2022-03-17 |  |
 | [Letting You Know](https://open.spotify.com/track/3lt7UEgLnIFdNSbm5BzAW6) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Letting You Know](https://open.spotify.com/album/6eAACSfsRHEqRhP5QI8Tkr) | 3:04 | 2022-03-17 |  |
 | [Long Nights](https://open.spotify.com/track/7jJ8iI3nd7qtKEwpHBBiIX) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Long Nights](https://open.spotify.com/album/3VQp3peJICpaQMShwYRgJW) | 3:18 | 2022-03-17 |  |
 | [Love Tonight](https://open.spotify.com/track/0pkfyhvGnYHoSwGvRS36Gh) | [Soulé](https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP), [C Cane](https://open.spotify.com/artist/3iKIlc0XHCyQQf7yQqARkG) | [Love Tonight](https://open.spotify.com/album/48xz1tzlZKsT3cHbUCzt4t) | 3:14 | 2021-10-26 |  |
@@ -69,7 +69,7 @@
 | [Roadside \(feat\. AJ Tracey\)](https://open.spotify.com/track/3ARhN1R7vBVTEtN7ldAZvn) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Roadside \(feat\. AJ Tracey\)](https://open.spotify.com/album/6VDecxKGHUwHtGv8kKj3lm) | 3:26 | 2021-10-26 | 2022-03-17 |
 | [Royalty \(feat\. Kojey Radical\)](https://open.spotify.com/track/2c15izvJZsztJa3QWer3sW) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Royalty \(feat\. Kojey Radical\)](https://open.spotify.com/album/19uZMpx3fqVJW5z7sdfQrF) | 3:07 | 2021-10-26 | 2022-03-17 |
 | [Running \(feat\. Ghetts\)](https://open.spotify.com/track/6UgCwRo8iOguJ0DbGZh29q) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [Motion Sick](https://open.spotify.com/album/30E4JSpb6dJ7xiCFf5Uyxm) | 4:02 | 2021-10-26 | 2022-03-17 |
-| [Seven](https://open.spotify.com/track/1t8G3u5OSk1fCx6p2qfvx6) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Seven](https://open.spotify.com/album/1QKWxr9CgCYTjctWwOMj9I) | 0:29 | 2022-03-17 |  |
+| [Seven](https://open.spotify.com/track/1t8G3u5OSk1fCx6p2qfvx6) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Seven](https://open.spotify.com/album/1QKWxr9CgCYTjctWwOMj9I) | 2:20 | 2022-03-17 |  |
 | [Sharingan](https://open.spotify.com/track/369BjuBIVwQ9Z0ZvNrdCK9) | [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2) | [Sharingan](https://open.spotify.com/album/3Dp4gQKgU5nDuFp10dwDoC) | 3:03 | 2022-03-17 |  |
 | [Shining](https://open.spotify.com/track/0KW1G9rKXlALday2nNAjNd) | [BoyW1DR](https://open.spotify.com/artist/6FTMDtJd40DcXsEOSMNImb) | [Shining](https://open.spotify.com/album/0mWrV1xXwbYAXuOkC7KK9Y) | 3:09 | 2022-03-17 |  |
 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 | 2021-10-26 | 2022-03-17 |

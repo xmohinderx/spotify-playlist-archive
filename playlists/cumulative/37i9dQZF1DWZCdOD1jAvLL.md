@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: 401 WST
 
-220 songs - 12 hr 17 min - [published](https://open.spotify.com/playlist/2inX9KjLJ9q0s1JwzrIqze)
+223 songs - 12 hr 27 min - [published](https://open.spotify.com/playlist/2inX9KjLJ9q0s1JwzrIqze)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Autumn Leaves](https://open.spotify.com/track/2WZk9IjjmgThbmlyuu6UFK) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [Autumn Leaves](https://open.spotify.com/album/6AYKIeSkQ1D1IcKTRgynd4) | 2:25 | 2022-04-15 |  |
 | [Away From Myself](https://open.spotify.com/track/1MTHQrIE43p9HnjtC5kBDP) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [ALRT](https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf) | [Away From Myself](https://open.spotify.com/album/2X04oTtQLfh0rcvHVsbcbB) | 3:12 | 2022-01-14 | 2022-04-02 |
 | [Backfire](https://open.spotify.com/track/632paTWO6lWhhkpSPvlKiG) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Jay Colin](https://open.spotify.com/artist/3hLsFuuBcVto50AoXympLx) | [Backfire](https://open.spotify.com/album/6SBDRakZ5IAO7V36ZBuFuK) | 3:19 | 2022-01-14 | 2022-04-16 |
+| [BADBOI](https://open.spotify.com/track/1pKk7nVh4fGjI8k6t20PmX) | [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY), [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [BADBOI](https://open.spotify.com/album/1vpixBHNGprGXBkLsQofuN) | 3:16 | 2022-07-01 |  |
 | [Badman](https://open.spotify.com/track/02teKCLbOxKUIVg7DPoWCE) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Badman](https://open.spotify.com/album/3rTuLnXYLDhVJ0ox9oGHot) | 2:39 | 2022-03-18 | 2022-06-25 |
 | [Bang Harder](https://open.spotify.com/track/6TokZjKiCwAFSmA7pdWTaK) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC) | [Bang Harder](https://open.spotify.com/album/244J1SCEVhFlmilwONiEL4) | 2:44 | 2022-04-15 |  |
 | [Bass](https://open.spotify.com/track/112Yjd5oS9Z2IJtAYYuQwz) | [401 WST](https://open.spotify.com/artist/5wuaDFXpmEuasEnBVSDLqQ), [4Korners](https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab), [Ashton Adams](https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X) | [Bass](https://open.spotify.com/album/43e1DojkQdaa1s3mr4pVal) | 3:18 | 2022-04-01 |  |
@@ -214,6 +215,8 @@
 | [Trigger](https://open.spotify.com/track/76IBjqYohp5r2ff5hvbXqg) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Trigger](https://open.spotify.com/album/37zquxYvzsXCvhO8whITBM) | 2:46 | 2022-05-06 |  |
 | [Trigger Technology](https://open.spotify.com/track/29e8sjYkArwTiNxKNEgvpX) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Trigger Technology](https://open.spotify.com/album/61Hv14MDmklquNTnwh55wo) | 3:34 | 2022-04-15 | 2022-05-07 |
 | [Tripasia](https://open.spotify.com/track/365aB2RegILTAZqCEgmkUc) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl) | [Tripasia](https://open.spotify.com/album/45cq3fJrBfvSPU8dKgZpwS) | 2:56 | 2022-03-25 | 2022-06-25 |
+| [True Colours](https://open.spotify.com/track/2WCA3a7LQRdsKYf93AleId) | [Sivz](https://open.spotify.com/artist/0NUhITSw1R757ncPIm3pGq), [Tinywiings](https://open.spotify.com/artist/1VUJORAhVbWM59xRLR8DY3) | [True Colours](https://open.spotify.com/album/1SDYcBpXWtPNYPtfRwc2XV) | 2:55 | 2022-07-01 |  |
+| [Tuko Tuko](https://open.spotify.com/track/5YzoHnKF8AF4Ys76VPmpKR) | [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Tuko Tuko](https://open.spotify.com/album/6W3EQfiO498fLmBgCJNDwB) | 3:37 | 2022-07-01 |  |
 | [Turn Off The Lights \- Cloonee Remix](https://open.spotify.com/track/5pg2odADhTPe42uf0BghWA) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Alexis Roberts](https://open.spotify.com/artist/2GtBFxIWM3H6wRI2uzZvyt) | [Turn Off The Lights \(Cloonee Remix\)](https://open.spotify.com/album/716AWEWgxG0yhWfy0PfGhc) | 3:18 | 2022-01-21 | 2022-06-11 |
 | [Up Down Jumper](https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Up Down Jumper](https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv) | 7:12 | 2022-06-10 |  |
 | [Ur Body](https://open.spotify.com/track/4KD6CYSCX2m3rxYdQQuyYP) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [Ur Body](https://open.spotify.com/album/6xUwGauHFII4qhNBAldvQi) | 3:36 | 2022-03-18 | 2022-06-25 |

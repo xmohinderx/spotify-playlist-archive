@@ -4,7 +4,7 @@
 
 > Soft, instrumental blues to help you concentrate.
 
-66 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/3w5oWJqeLcaobZU8By1wyO)
+66 songs - 4 hr 53 min - [published](https://open.spotify.com/playlist/3w5oWJqeLcaobZU8By1wyO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Blue Earth](https://open.spotify.com/track/4JAIpmm35zsuwvJvqG2gD6) | [Bo Ramsey](https://open.spotify.com/artist/38qOf8V7eBUzxgFH9wTFYd) | [How Many Miles](https://open.spotify.com/album/4zILuFyP6jRsSMN5Nv25l0) | 3:23 | 2022-04-15 |  |
 | [Blues 'Fore Dawn \- Instrumental](https://open.spotify.com/track/3zVx7964ROy15h1lC7fhzD) | [Jimmy Thackery](https://open.spotify.com/artist/22I2nRL3Avazb5FfXhmyDQ) | [Guitar](https://open.spotify.com/album/1k1BDnn6ynbeFG5ts58NRI) | 4:54 | 2022-04-15 |  |
 | [Blues After Hours](https://open.spotify.com/track/56ENCoeGxJ9PWnAJpEktgs) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [If I Ever Get Lucky](https://open.spotify.com/album/5ypZMTcLSmNU8Bya5ZXaqK) | 5:09 | 2022-04-15 |  |
-| [Blues Boys Tune](https://open.spotify.com/track/63wEUQ8SN2S8nx2r21zTnl) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Blues On The Bayou](https://open.spotify.com/album/5niyTbKPj1WYWj8fVVLq0r) | 0:29 | 2022-04-15 |  |
+| [Blues Boys Tune](https://open.spotify.com/track/63wEUQ8SN2S8nx2r21zTnl) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Blues On The Bayou](https://open.spotify.com/album/5niyTbKPj1WYWj8fVVLq0r) | 3:29 | 2022-04-15 |  |
 | [Blues for Magic Sam](https://open.spotify.com/track/2fZjnNYEvJO76sc6kqN24z) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [The Luckiest Man](https://open.spotify.com/album/5bj6EpqoaEgKeaEH6Qivnh) | 5:24 | 2022-04-15 |  |
 | [Blues for Rj](https://open.spotify.com/track/4XSj02UDZIGVm0ZHHY9o4H) | [Paul Lenart](https://open.spotify.com/artist/5hNtEnm2mJ5CeXCLpxWHI0), [Geoff Bartley](https://open.spotify.com/artist/2B6pHv1CQAmCQBN7OrTlGB) | [Folk & Blues Guitar](https://open.spotify.com/album/5IdfA8A5wIiNFRG557NLs2) | 1:52 | 2022-05-27 |  |
 | [Blues For Ruthie Foster](https://open.spotify.com/track/6DVDYuQPe6XIC21qDUKhzR) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [Mercy Me](https://open.spotify.com/album/1wSy1a6XpkddFp8R8yHeyj) | 5:23 | 2022-04-15 |  |
@@ -36,7 +36,7 @@
 | [Five Pop Tunes II: Bluesy](https://open.spotify.com/track/3pPOTu0HzLBnfNBvGDK86v) | [Daniel Murray](https://open.spotify.com/artist/0nK5viu6PiGYoeBiTTHTOk) | [Five Pop Tunes](https://open.spotify.com/album/3l0le9nsDpokAmAlWCfiex) | 2:18 | 2022-04-15 |  |
 | [Ghost of the Mountain](https://open.spotify.com/track/4cwQ5XhN8p6UkUUYj8hPp2) | [Justin Johnson](https://open.spotify.com/artist/151RUyDTIDJM8gXwGJbv7z) | [The Bootleg Series, Vol\. 3: Son of a Witch](https://open.spotify.com/album/6RT8HJmp4VKpA7WfTdJT67) | 5:38 | 2022-04-15 |  |
 | [Good Times](https://open.spotify.com/track/4YLLXJnKBQmYVC0XXvR1XS) | [Brian Grey](https://open.spotify.com/artist/0anlv8wmuRThghL7Fw4xDS) | [Bittersweet](https://open.spotify.com/album/286Ej4KKpT8Fc02kMA1MBf) | 4:33 | 2022-04-15 |  |
-| [Gospel Groove](https://open.spotify.com/track/55mwnnVCq90cdzFro3UFGZ) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Here Comes Shuggie Otis](https://open.spotify.com/album/6mzeogguJ6lMUHWgBJzhcd) | 0:29 | 2022-04-15 |  |
+| [Gospel Groove](https://open.spotify.com/track/55mwnnVCq90cdzFro3UFGZ) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Here Comes Shuggie Otis](https://open.spotify.com/album/6mzeogguJ6lMUHWgBJzhcd) | 4:15 | 2022-04-15 |  |
 | [Guitar Interlude in Bb](https://open.spotify.com/track/3KTfFNKOAHsFhuKNX90tbT) | [Pablo Queu](https://open.spotify.com/artist/6unlzVywR1plttUTcFVltU) | [Deep in the Pocket](https://open.spotify.com/album/2PXYPnt5dgNToCoASzy9ii) | 1:59 | 2022-04-15 |  |
 | [Home Alone](https://open.spotify.com/track/1IWK7wCyYkUiTbY78KE0jr) | [Soothing Dog Sounds](https://open.spotify.com/artist/30tUXL7OQLtFE7DmKCKLCo) | [Blues Music for Dogs](https://open.spotify.com/album/42KEN0fc3AtktxdETSDlZa) | 2:56 | 2022-04-15 |  |
 | [It's a Rough Ride We're On](https://open.spotify.com/track/2RiU43I9nzxG1by7Q8Y5Zi) | [Berdon Kirksaether](https://open.spotify.com/artist/0wp3pipE3auQxIeHfFvH6o), [The Twang Bar Kings](https://open.spotify.com/artist/2gOxxvd4sVhmsEmu3GQVLo) | [Blues](https://open.spotify.com/album/16Tjd5ycFqkHDU6f78rKYk) | 3:30 | 2022-04-15 |  |
@@ -53,7 +53,7 @@
 | [Pirates \- Live In Belgium / Dubbed in Denmark](https://open.spotify.com/track/2AQJqe6b3mNyAp81ETFi1k) | [Gustaf Ljunggren](https://open.spotify.com/artist/448xgQqrgiEalhGErK14bs), [Emil de Waal](https://open.spotify.com/artist/7qlFXCufyt5bgI52L6v6xb) | [Pirates \(Live in Belgium / Dubbed in Denmark\)](https://open.spotify.com/album/6gzqbVNqUK54CzgOqymluE) | 5:09 | 2022-04-15 |  |
 | [Planet Caravan](https://open.spotify.com/track/0CMXruCTkGen9gLpsTH8xH) | [Justin Johnson](https://open.spotify.com/artist/151RUyDTIDJM8gXwGJbv7z) | [The Bootleg Series, Vol\. 3: Son of a Witch](https://open.spotify.com/album/6RT8HJmp4VKpA7WfTdJT67) | 7:48 | 2022-04-15 |  |
 | [Poontang](https://open.spotify.com/track/7vNS5HDDcbf06EA4k6gqWe) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [Good Feelin'](https://open.spotify.com/album/4tRciHLk7U2JNVkcbbMrxA) | 2:55 | 2022-04-15 |  |
-| [Rainbow Bird Blues](https://open.spotify.com/track/2pQzKjn9C68S4bnnXJMOl6) | [Wolf Mail](https://open.spotify.com/artist/2bN1TY9rrW2axotPjQzFV6) | [Blue Fix](https://open.spotify.com/album/2P6Fu4EqitlskRVpyosR16) | 0:29 | 2022-04-15 |  |
+| [Rainbow Bird Blues](https://open.spotify.com/track/2pQzKjn9C68S4bnnXJMOl6) | [Wolf Mail](https://open.spotify.com/artist/2bN1TY9rrW2axotPjQzFV6) | [Blue Fix](https://open.spotify.com/album/2P6Fu4EqitlskRVpyosR16) | 5:28 | 2022-04-15 |  |
 | [Rainy Day Blues](https://open.spotify.com/track/3s6ezi7niuEzr1xgqERNsj) | [Michael Fix](https://open.spotify.com/artist/2NPDDS5mWRp1JgtOj9iRci) | [Rainy Day Blues](https://open.spotify.com/album/01zVpYm27HjF8DCcCLDn34) | 3:03 | 2022-04-15 |  |
 | [Rainy Day Blues \- Instrumental](https://open.spotify.com/track/2wDMSutZ0eXoB1cQ0WE8f7) | [Tom Nicholls](https://open.spotify.com/artist/2YEluKwvonHGvzeLrCqtyi) | [Rainy Day Blues \(Instrumental\)](https://open.spotify.com/album/6I4k1yLhMfuJGl7j680IXi) | 2:28 | 2022-04-15 |  |
 | [Red Dirt](https://open.spotify.com/track/3z1rYUvrX29vA2thDTTNBs) | [Torbjörn Sörenson](https://open.spotify.com/artist/6hy4IkbbvbRXoXREwZpw4i) | [Red Dirt](https://open.spotify.com/album/1wByxDUH6YkilEPLyvTt3G) | 4:29 | 2022-04-15 |  |

@@ -4,7 +4,7 @@
 
 > Selections of North Indian classical music.
 
-54 songs - 15 hr 49 min - [published](https://open.spotify.com/playlist/6KxJho2Z4Stal5h3YgTXxS)
+54 songs - 16 hr 19 min - [published](https://open.spotify.com/playlist/6KxJho2Z4Stal5h3YgTXxS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Rag Manj Khammaj](https://open.spotify.com/track/6wkuzkjsWM1Gk9zmRXiS7g) | [Ustad Ali Akbar Khan / Pandit Nikhil Banerjee](https://open.spotify.com/artist/1jelB3sYBf9MGpcd0GUlns), [Mahapurush Misra](https://open.spotify.com/artist/29kLzsMucI6Ao40Yk7jT5B) | [AMMP Signature Series Volume 4 \- Rag Manj Khammaj / Rag Misra Mand](https://open.spotify.com/album/1Td23rJHTglRiuGmiGO6W2) | 21:27 | 2021-12-06 |  |
 | [Rag Marwa, Part 2](https://open.spotify.com/track/6827uN6sw0pHEQe9R2Jzcm) | [Ali Akbar Khan](https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u) | [Signature Series, Vol\. 3](https://open.spotify.com/album/0xOx85Xa1RQn5XuEmGFLVH) | 21:13 | 2021-12-06 |  |
 | [Rag Misra Mand](https://open.spotify.com/track/0ppq8cAPs91MBoUb4vMiCw) | [Ustad Ali Akbar Khan / Pandit Nikhil Banerjee](https://open.spotify.com/artist/1jelB3sYBf9MGpcd0GUlns), [Mahapurush Misra](https://open.spotify.com/artist/29kLzsMucI6Ao40Yk7jT5B) | [AMMP Signature Series Volume 4 \- Rag Manj Khammaj / Rag Misra Mand](https://open.spotify.com/album/1Td23rJHTglRiuGmiGO6W2) | 21:30 | 2021-12-06 |  |
-| [Rag Ramkali](https://open.spotify.com/track/6ReCvtUGG9S1mVohS9kVXk) | [Budhaditya Mukherjee](https://open.spotify.com/artist/5M9yKSeW6TbTmuNZ1bz80y), [Anindo Chatterjee](https://open.spotify.com/artist/3DOkGwQFyRso8rJoz8d6ZL), [Nandu Kamat](https://open.spotify.com/artist/0gfpwV8BF3XiMtbWgH1AKO) | [Rag Ramkali & Rag Jhinjoti](https://open.spotify.com/album/13jFkhhVmkQuvGYoXdxW1i) | 0:29 | 2021-12-06 |  |
+| [Rag Ramkali](https://open.spotify.com/track/6ReCvtUGG9S1mVohS9kVXk) | [Budhaditya Mukherjee](https://open.spotify.com/artist/5M9yKSeW6TbTmuNZ1bz80y), [Anindo Chatterjee](https://open.spotify.com/artist/3DOkGwQFyRso8rJoz8d6ZL), [Nandu Kamat](https://open.spotify.com/artist/0gfpwV8BF3XiMtbWgH1AKO) | [Rag Ramkali & Rag Jhinjoti](https://open.spotify.com/album/13jFkhhVmkQuvGYoXdxW1i) | 30:23 | 2021-12-06 |  |
 | [Raga Asavari Todi](https://open.spotify.com/track/6L8tXG8hFllYNNjnyrbuOF) | [Bhimsen Joshi](https://open.spotify.com/artist/5MHTQcUQIhxhZdB6Glwmmk) | [Sangeet Sartaj Vol\. 1 & 2](https://open.spotify.com/album/2HSvyuPBF5HSdz4zxS5SGO) | 32:27 | 2021-12-06 |  |
 | [Raga Basant Bahar \- Raga Basant Bahar \- Ektaal \- Teentaal](https://open.spotify.com/track/5EmNsq9at10HMawWfhM2K6) | [Kishori Amonkar](https://open.spotify.com/artist/0tLjWOxzh42O8gr0nFzv45) | [Sangeet Sartaj, Vol\. 1 & 2](https://open.spotify.com/album/0KyNZodk1oplO3iJhy5GHk) | 29:27 | 2021-12-06 |  |
 | [Raga Bhairavii: Baju Band Khul Khul Jani](https://open.spotify.com/track/6JyggcRCT6CEw7JVDJfODF) | [Shruti Sadolikar](https://open.spotify.com/artist/6caUPzMY65rQ7qk9yw2xDq) | [Raga Miyan\-Ki\-Todi, Raga Bibhas & Raga Bhairavi](https://open.spotify.com/album/02Utu7DnngYqwgcHr2rN4H) | 13:43 | 2021-12-06 |  |

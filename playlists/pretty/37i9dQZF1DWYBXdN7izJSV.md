@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 
 > Classic cuts from the alternative country music scene\. Cover: Uncle Tupelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,138 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,179 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 13 | [Feel Alright](https://open.spotify.com/track/7fF6Af2M3vL4IUtE8cMy6G) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [I Feel Alright](https://open.spotify.com/album/1CEAVKLVVaCoKyEoVVr8Bh) | 2:56 |
 | 14 | [Furr](https://open.spotify.com/track/6n1zT8W5EaIYvWIT2DyROL) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr](https://open.spotify.com/album/2X5LfrkRtEik2jGgaDDRMO) | 4:07 |
 | 15 | [Nights Like These](https://open.spotify.com/track/2PfxuxTsQpiqFBaN5id09z) | [Lucero](https://open.spotify.com/artist/1MspPfENB9nzFGaagXmF7R) | [Tennessee](https://open.spotify.com/album/4AIs45q4TIzgJOeNMaThTf) | 3:55 |
-| 16 | [Pass You By](https://open.spotify.com/track/3CMMEJHMYeW7AHorJm4MSW) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Revival](https://open.spotify.com/album/733rVkP3oBulDHJbiuRANa) | 0:29 |
+| 16 | [Pass You By](https://open.spotify.com/track/3CMMEJHMYeW7AHorJm4MSW) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Revival](https://open.spotify.com/album/733rVkP3oBulDHJbiuRANa) | 3:57 |
 | 17 | [Leaving Time](https://open.spotify.com/track/1Hs92JZ4fuPMqenoZYcOyR) | [Patterson Hood](https://open.spotify.com/artist/5JnjssuFBg104paXN0mKKn) | [Heat Lightning Rumbles In The Distance](https://open.spotify.com/album/3Jo6AKd469tCcVBb6g5Hs6) | 3:31 |
 | 18 | [Baltimore Blues No\. 1](https://open.spotify.com/track/3Dy8QNZ77cre9ThUPRguy0) | [Deer Tick](https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO) | [War Elephant](https://open.spotify.com/album/0mOjYGdxvpusOVunsElaCq) | 3:01 |
-| 19 | [Clear the Crowds](https://open.spotify.com/track/09BqimBt4igAq1YFIDa1vH) | [Jim Bryson](https://open.spotify.com/artist/1PVWC0rStR8mcd9vf3VZpU) | [Where The Bungalows Roam](https://open.spotify.com/album/4YuMZyQ7O67kDGF2iO6RlK) | 0:29 |
+| 19 | [Clear the Crowds](https://open.spotify.com/track/09BqimBt4igAq1YFIDa1vH) | [Jim Bryson](https://open.spotify.com/artist/1PVWC0rStR8mcd9vf3VZpU) | [Where The Bungalows Roam](https://open.spotify.com/album/4YuMZyQ7O67kDGF2iO6RlK) | 2:47 |
 | 20 | [I'm Over You](https://open.spotify.com/track/3QcdXZVpVqc1D5ZdrNBshK) | [The Silos](https://open.spotify.com/artist/4CvAzkeYfFG9DbZ4rCRzih) | [The Silos \(Bonus Track Version\)](https://open.spotify.com/album/4fjTfbiZfqOPtkcuvucevg) | 4:58 |
 | 21 | [Jacksonville Skyline](https://open.spotify.com/track/7m4KbhRBRnnBryiODCUbPg) | [Whiskeytown](https://open.spotify.com/artist/0tyLMmQvEuyQR4qjGBdbem) | [Pneumonia](https://open.spotify.com/album/0ChzfEcyxgyv6Lvf1XBDjq) | 3:00 |
 | 22 | [Brady](https://open.spotify.com/track/42FrunKt2Ad5bDW2fVrRIj) | [Backyard Tire Fire](https://open.spotify.com/artist/3OvUCYn1LXlIffYy9HSxT0) | [Good to Be](https://open.spotify.com/album/3g1s5N9mNDd8ZV2GlOJ8NX) | 4:06 |
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 29 | [The Battle \(feat: Ryan Adams\)](https://open.spotify.com/track/2NuSgERr71Qf3SPDJchUIY) | [Caitlin Cary](https://open.spotify.com/artist/2lMw9KHEs2ymoFBRuSrMHk) | [Battle EP](https://open.spotify.com/album/4jRa95kGlrwPCxZAirwz8u) | 3:00 |
 | 30 | [Kerosene](https://open.spotify.com/track/3TGpooseyntR0X8EBQzdgC) | [The Bottle Rockets](https://open.spotify.com/artist/5YsFZtitLEPVCFjixwBIkW) | [The Bottle Rockets & The Brooklyn Side](https://open.spotify.com/album/11wjQ6TTqZQjUTumb8THVm) | 3:12 |
 | 31 | [Gathering Flowers For The Master's Bouquet](https://open.spotify.com/track/0dA2DNenFzwMkSCyTL3wnb) | [Blood Oranges](https://open.spotify.com/artist/4u4wxGuvHyV56OlAKesNNC) | [The Slaughter Rule \(Original Movie Soundtrack\)](https://open.spotify.com/album/7FE8uV5jYFd5OiFWiKIBDU) | 4:40 |
-| 32 | [Officer Down](https://open.spotify.com/track/2hS1eS0RAg5b9VzRPSPK6J) | [Carolyn Mark](https://open.spotify.com/artist/5LEbX3AeiknZxV5zOIFhCH), [NQ Arbuckle](https://open.spotify.com/artist/0UXWUsqoGhYC4sCiEe7tEk) | [Let's Just Stay Here](https://open.spotify.com/album/610I6r165R7zGCI2rFlQc7) | 0:29 |
+| 32 | [Officer Down](https://open.spotify.com/track/2hS1eS0RAg5b9VzRPSPK6J) | [Carolyn Mark](https://open.spotify.com/artist/5LEbX3AeiknZxV5zOIFhCH), [NQ Arbuckle](https://open.spotify.com/artist/0UXWUsqoGhYC4sCiEe7tEk) | [Let's Just Stay Here](https://open.spotify.com/album/610I6r165R7zGCI2rFlQc7) | 3:57 |
 | 33 | [Too Lazy To Work, Too Nervous To Steal](https://open.spotify.com/track/0kkBKoElWdLJKlEHt4nM58) | [BR549](https://open.spotify.com/artist/6h72WuqMdodzUIZGS0YEyU) | [This Is BR549](https://open.spotify.com/album/4E1URWpVQFzwRlCokb2mc0) | 3:53 |
 | 34 | [Surrounded](https://open.spotify.com/track/6UIi5w7MoJ1bpJFKM3tCbp) | [Richard Buckner](https://open.spotify.com/artist/6vrwcJbfs2QyRtApdx1hXX) | [Surrounded](https://open.spotify.com/album/7FaZIW5t6sEh6mBSYXKRmq) | 2:47 |
-| 35 | [Troubled Times](https://open.spotify.com/track/5QN73EQuWKibn8DL3dama6) | [Tim Easton](https://open.spotify.com/artist/11ixEVNpyaaCW7VfC7fx8M) | [Not Cool](https://open.spotify.com/album/0RvEzLT10e6smAuHctaQpK) | 0:29 |
+| 35 | [Troubled Times](https://open.spotify.com/track/5QN73EQuWKibn8DL3dama6) | [Tim Easton](https://open.spotify.com/artist/11ixEVNpyaaCW7VfC7fx8M) | [Not Cool](https://open.spotify.com/album/0RvEzLT10e6smAuHctaQpK) | 2:12 |
 | 36 | [Always A Friend](https://open.spotify.com/track/7136gj6H3nc3ZIKmJmxKRT) | [Alejandro Escovedo](https://open.spotify.com/artist/1Cc79YAHP7xvQAVQSjveP6) | [Real Animal](https://open.spotify.com/album/5xIyoIpTJy9fhNNFHSNk9l) | 3:35 |
 | 37 | [Red Right Hand](https://open.spotify.com/track/5acXrmMJ2HFympa3z0Rfrk) | [Giant Sand](https://open.spotify.com/artist/339qxEdD8z8okRAiTp1HKf) | [Cover Magazine \(25th Anniversary Edition\)](https://open.spotify.com/album/3ceqBvEUADRATj8ihPITvq) | 4:40 |
 | 38 | [Drown](https://open.spotify.com/track/0pudWyp5g98c7jAYYp7MUL) | [Son Volt](https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe) | [Trace](https://open.spotify.com/album/5secpXfB8n8zeDiA0l60K6) | 3:21 |

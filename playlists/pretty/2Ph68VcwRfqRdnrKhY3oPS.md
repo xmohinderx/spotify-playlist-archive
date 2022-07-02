@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/2Ph68VcwRfqRdnrKhY3oPS.md) - [plain]
 
 > A charming musical touch to the most significant moment in your life.
 
-[Spotify](https://open.spotify.com/user/spotify) - 987 likes - 62 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 987 likes - 62 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Won't Give Up](https://open.spotify.com/track/05pKAafT85jeeNhZ6kq7HT) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [I Won't Give Up](https://open.spotify.com/album/3WeU5jvi9QBSbwV0hYG66P) | 4:00 |
-| 2 | [Heartbeats](https://open.spotify.com/track/7BzhqmRj3iOZXqMHqiifHr) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Imperial Recordings Best Of](https://open.spotify.com/album/6v5e6P19VdYAy73GGjRDBV) | 0:29 |
+| 2 | [Heartbeats](https://open.spotify.com/track/7BzhqmRj3iOZXqMHqiifHr) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Imperial Recordings Best Of](https://open.spotify.com/album/6v5e6P19VdYAy73GGjRDBV) | 2:40 |
 | 3 | [Across The Universe \- Remix](https://open.spotify.com/track/6GGA4fEbHJop37OOjK2kFR) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Poses \(Expanded Edition\)](https://open.spotify.com/album/5CAT7o1EpDKqLjE1x5tgqU) | 4:10 |
 | 4 | [Chapel Of Love](https://open.spotify.com/track/0SMRck5oZi9hc16L6FuRF6) | [The Dixie Cups](https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772) | [Full Metal Jacket \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF) | 2:47 |
 | 5 | [Til Kingdom Come](https://open.spotify.com/track/1wQXj5bgxyZQ2XmE2X9s6n) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:10 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/2Ph68VcwRfqRdnrKhY3oPS.md) - [plain]
 | 18 | [When You Say Nothing At All](https://open.spotify.com/track/0zu7EjQ4ij0uVpqp9eGR1J) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Now That I've Found You: A Collection](https://open.spotify.com/album/1yt29znD6KxC2ayfnT1Cqk) | 4:20 |
 | 19 | [You Had Me from Hello](https://open.spotify.com/track/4jQvuRdc8l5M5nmbQlusa0) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Greatest Hits](https://open.spotify.com/album/7hBQCzlr7jYkwvwBiLIDSp) | 3:50 |
 | 20 | [I'm Gonna Love You Through It](https://open.spotify.com/track/3qpgmZfF8BDXqncaZYi4Eq) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [I'm Gonna Love You Through It](https://open.spotify.com/album/1peQxdtveAbaKog6dCp1oN) | 3:45 |
-| 21 | [Only Love](https://open.spotify.com/track/0gU7XaWTFbfWt3ZxUT4nmI) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Aimless Love](https://open.spotify.com/album/3rnk4AHvr43nlyJY42iQM8) | 0:29 |
+| 21 | [Only Love](https://open.spotify.com/track/0gU7XaWTFbfWt3ZxUT4nmI) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Aimless Love](https://open.spotify.com/album/3rnk4AHvr43nlyJY42iQM8) | 3:29 |
 | 22 | [Valentine](https://open.spotify.com/track/0AyKFrN3VAuKzRXA2BtPgP) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P), [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [The Essential Martina McBride](https://open.spotify.com/album/0HiQVsQdNpLarQJN3RgOhU) | 3:12 |
 | 23 | [The Love In Your Eyes](https://open.spotify.com/track/3USxMmW6gDVAQvixssJyTc) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [20th Century Masters: The Millennium Collection: Best Of George Jones](https://open.spotify.com/album/495RJcXuyz2LErGY7KKurF) | 3:52 |
 | 24 | [From This Moment On](https://open.spotify.com/track/7aDcS8ufyLrf6IqTloqfI1) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [Bryan White](https://open.spotify.com/artist/45kyLFJs5SIEqyzfVopuSc) | [Come On Over](https://open.spotify.com/album/5Ji9gLL9thCA79usDNBi7M) | 4:41 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/2Ph68VcwRfqRdnrKhY3oPS.md) - [plain]
 | 27 | [We Must Be Loving Right](https://open.spotify.com/track/5w3SnKBS0vwCjJZHSF1tYJ) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Easy Come Easy Go](https://open.spotify.com/album/44XR4fEym71RYn4e30KOgz) | 3:36 |
 | 28 | [I Do Cherish You](https://open.spotify.com/track/28dKRl0QkZcll8JEqXfe8m) | [Mark Wills](https://open.spotify.com/artist/0dlwjJe4kg9TgOMN184bJF) | [The Legend of Mark Wills](https://open.spotify.com/album/7KbUCpDM0Ercj13qWE2hz9) | 3:17 |
 | 29 | [I'll Be](https://open.spotify.com/track/3cJNDQGaYptpN1FO0zCf8C) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Best Of/20th Century](https://open.spotify.com/album/0Rb3coYXuUlgRLoi3UhADa) | 4:27 |
-| 30 | [You Won't Ever Be Lonely](https://open.spotify.com/track/0wfr8FjpLXIO1YjqEyVCg5) | [Andy Griggs](https://open.spotify.com/artist/7CyJIUpcWZK2zFM6gKLKvD) | [You Won' t Ever Be Lonely](https://open.spotify.com/album/3CTLrEYxd3j14KtSWvp3RQ) | 0:29 |
+| 30 | [You Won't Ever Be Lonely](https://open.spotify.com/track/0wfr8FjpLXIO1YjqEyVCg5) | [Andy Griggs](https://open.spotify.com/artist/7CyJIUpcWZK2zFM6gKLKvD) | [You Won' t Ever Be Lonely](https://open.spotify.com/album/3CTLrEYxd3j14KtSWvp3RQ) | 3:30 |
 | 31 | [Bless The Broken Road](https://open.spotify.com/track/4YjjNHtEsTX6Af4mCTupT5) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Feels Like Today](https://open.spotify.com/album/5NH87jdrVjOHt8gDMHT1Wy) | 3:46 |
 | 32 | [There You'll Be \- 2007 Remaster](https://open.spotify.com/track/1s2khOWzC99udpUaPICLJI) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [The Hits](https://open.spotify.com/album/7fvl3dOnDrv9rq5IBmLbAa) | 3:40 |
 | 33 | [Back At One](https://open.spotify.com/track/7EjflQQa1KpqzJHtn7irHN) | [Mark Wills](https://open.spotify.com/artist/0dlwjJe4kg9TgOMN184bJF) | [The Definitive Collection](https://open.spotify.com/album/53UJYswHmUEZtPxyUEM0Be) | 4:06 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/2Ph68VcwRfqRdnrKhY3oPS.md) - [plain]
 | 37 | [I Loved Her First](https://open.spotify.com/track/0fZq48okuWkpAgjsWogAJ4) | [Heartland](https://open.spotify.com/artist/6B10yUcmUVw4RPKe6j58E9) | [I Loved Her First](https://open.spotify.com/album/6TrguRnEqy2RL8mB1n3Z33) | 3:32 |
 | 38 | [My Best Friend](https://open.spotify.com/track/0TITWbP9cAwrMhOAVFPSSV) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Number One Hits](https://open.spotify.com/album/2H2XBOxn7GzKRcXpeYKUIn) | 4:39 |
 | 39 | [Love You Out Loud](https://open.spotify.com/track/2WsWOqZk5YKJD1WTGKihRp) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Melt](https://open.spotify.com/album/6kGMwYN1ChjX0yyhN7tDs2) | 3:05 |
-| 40 | [The Woman with You](https://open.spotify.com/track/38svIEZx14taLmeQQfMFDv) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [When The Sun Goes Down \(Deluxe Version\)](https://open.spotify.com/album/5xpXkqZo7ljnrvWSMpxxOn) | 0:29 |
+| 40 | [The Woman with You](https://open.spotify.com/track/38svIEZx14taLmeQQfMFDv) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [When The Sun Goes Down \(Deluxe Version\)](https://open.spotify.com/album/5xpXkqZo7ljnrvWSMpxxOn) | 4:30 |
 | 41 | [I Run To You](https://open.spotify.com/track/2YVCkTYJpv5jelYrHYoEG8) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Lady Antebellum](https://open.spotify.com/album/3MHTGwjWJhfcc3yBnvo6yh) | 4:16 |
 | 42 | [Amazed](https://open.spotify.com/track/6iNcyWk5iUEY7P9zeTc5hm) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Playlist: The Very Best Of Lonestar](https://open.spotify.com/album/6FoiXUlfC8amjO8yqmYZM5) | 3:59 |
 | 43 | [Waiting On You](https://open.spotify.com/track/3i6M5lPYYDNK8bnmuuHxhZ) | [KingBilly](https://open.spotify.com/artist/7weIhUR1qqJJo1HE9nWbNK) | [Waiting On You: EP](https://open.spotify.com/album/3NHiUGM0GYo5CAWtqqP2ZI) | 5:00 |

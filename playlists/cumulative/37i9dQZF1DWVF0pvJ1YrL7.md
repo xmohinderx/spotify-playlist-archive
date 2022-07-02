@@ -4,7 +4,7 @@
 
 > Welcome, you belong here.
 
-101 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/187ScON8KrrWo7kYQuCuMH)
+101 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/187ScON8KrrWo7kYQuCuMH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [New Planet](https://open.spotify.com/track/1dc9jGDbgqdFo0m0onh7gi) | [Ford & Lopatin](https://open.spotify.com/artist/3eTOYD8UyQa3MalrtkyKha) | [Channel Pressure](https://open.spotify.com/album/6Lemct6qvXXqcKqFPeThF3) | 3:22 | 2021-10-06 |  |
 | [no vacancy](https://open.spotify.com/track/0RCXebMfBjjNoflA5DaxiM) | [sfam](https://open.spotify.com/artist/571ojpVCIGwAp4c1LV8yxI) | [below sea level](https://open.spotify.com/album/7yZqGvVqcspruMHtrI0Uvb) | 3:10 | 2022-04-06 |  |
 | [no.2](https://open.spotify.com/track/4hRY2e2IWSwx77Y8Nvkd76) | [Koji Nakamura](https://open.spotify.com/artist/1gXCdzLEaK18Qis2j0eQ0N), [foodman](https://open.spotify.com/artist/4e8VeCyfFRBL1e06oGg1dR), [Takashi Numazawa](https://open.spotify.com/artist/5YeWcBYGQXWGRFUcplaoUx) | [no.2](https://open.spotify.com/album/6LXEEy77zr5D7ZN5TV1lud) | 2:21 | 2022-01-04 |  |
-| [Not Not Not](https://open.spotify.com/track/1YV1bvMBjZuhp4syPdKJxU) | [Kate NV](https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx) | [Room For The Moon](https://open.spotify.com/album/1GmdNCH9lvYzn0ZgtG8Mpa) | 0:29 | 2021-10-06 |  |
+| [Not Not Not](https://open.spotify.com/track/1YV1bvMBjZuhp4syPdKJxU) | [Kate NV](https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx) | [Room For The Moon](https://open.spotify.com/album/1GmdNCH9lvYzn0ZgtG8Mpa) | 5:15 | 2021-10-06 |  |
 | [Occurrence at the Triple Door](https://open.spotify.com/track/1VJC2cp8lqk8zTEujQDWPu) | [Strategy](https://open.spotify.com/artist/5EkvvANKznoDO5bi8W7nXs) | [The Infinity File](https://open.spotify.com/album/6Mpti6xmLwJMRVLAPL6M3Y) | 3:40 | 2021-10-06 |  |
 | [Oh Yeh](https://open.spotify.com/track/6hnjUiYQYjqegejKd8nZdY) | [S\-Type](https://open.spotify.com/artist/0Akz4zScvHzgDHt5lDByTT) | [Oh Yeh](https://open.spotify.com/album/7raytp06e3QexgdY9kFgFS) | 2:36 | 2022-01-21 |  |
 | [Okra Ooze](https://open.spotify.com/track/65XrhSXZKHhBz9V8gMNhKL) | [Kee Avil](https://open.spotify.com/artist/178F3Nm61BKsUtDP3egSoR) | [Crease](https://open.spotify.com/album/5HrRbXAcV7NZ2G2Z2ghcF6) | 3:54 | 2022-03-30 |  |

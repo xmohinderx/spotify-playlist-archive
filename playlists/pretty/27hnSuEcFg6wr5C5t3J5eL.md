@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/27hnSuEcFg6wr5C5t3J5eL.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 458 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 458 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Sign](https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [Greatest Hits](https://open.spotify.com/album/0nQFgMfnmWrcWDOQqIgJL7) | 3:09 |
 | 2 | [I Swear](https://open.spotify.com/track/3V0PeMg2mhbYRtk9bioAwF) | [All\-4\-One](https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG) | [Rhino Hi\-Five: All\-4\-One](https://open.spotify.com/album/0OrEq5JeWVzislPoSg0fzZ) | 4:19 |
 | 3 | [I'll Make Love To You](https://open.spotify.com/track/627KV5gq7CbBa3RaivClx6) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Twenty](https://open.spotify.com/album/3ZmM5U2amDgT3jQTYrVPVi) | 3:57 |
-| 4 | [The Power of Love](https://open.spotify.com/track/7wW5aYk098ICCaLqme13Vh) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/2ApaGHSScrngRX8Hd87S4V) | 0:29 |
+| 4 | [The Power of Love](https://open.spotify.com/track/7wW5aYk098ICCaLqme13Vh) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/2ApaGHSScrngRX8Hd87S4V) | 5:42 |
 | 5 | [Hero](https://open.spotify.com/track/5K05Ecsyzh7jEb2HwPJZIe) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [\#1's](https://open.spotify.com/album/4gWPIB6d0O4LxfIIodAwkR) | 4:17 |
 | 6 | [Stay](https://open.spotify.com/track/0jlgrHvssAloyAidZ1aJzs) | [Lisa Loeb & Nine Stories](https://open.spotify.com/artist/4a7CDXcRCXi4kp5z7SEXtg) | [The Very Best Of](https://open.spotify.com/album/2ieqNp8mf5cc50jLi5w0FX) | 3:04 |
 | 7 | [Breathe Again](https://open.spotify.com/track/1xFliXOpcu7E89AsDAZ7JV) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Toni Braxton](https://open.spotify.com/album/73ojqvZakvdkBxSg9pyPqz) | 4:29 |
 | 8 | [All For Love \- From "The Three Musketeers" Soundtrack](https://open.spotify.com/track/5h92ib6UGUe0BkUvNz8AtP) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Best Of Me](https://open.spotify.com/album/21hEsQUnuxQw3mFKL9O35g) | 4:40 |
 | 9 | [All That She Wants](https://open.spotify.com/track/4PifbP29I4IF0I437LTMW3) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [Happy Nation](https://open.spotify.com/album/6ainZWIWWIxOhIEGuSAZbg) | 3:33 |
 | 10 | [Don't Turn Around](https://open.spotify.com/track/0AWpG6NUEaRZvS3eMvXkBg) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [Singles of the 90s](https://open.spotify.com/album/3BSPr0MAvO0iTCkxPs1vIA) | 3:48 |
-| 11 | [Bump n' Grind](https://open.spotify.com/track/2OeSwSbwlmn9u8SsutfxPO) | [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ) | [The R\. In R&B Collection: Volume 1](https://open.spotify.com/album/0mfaOc6KL6Kak3DYUyjNVl) | 0:29 |
+| 11 | [Bump n' Grind](https://open.spotify.com/track/2OeSwSbwlmn9u8SsutfxPO) | [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ) | [The R\. In R&B Collection: Volume 1](https://open.spotify.com/album/0mfaOc6KL6Kak3DYUyjNVl) | 4:15 |
 | 12 | [Again](https://open.spotify.com/track/0IaMMHVbpJ0LrRAeigWOXr) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Janet](https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg) | 3:47 |
 | 13 | [I'll Remember \(Theme from the Motion Picture With Honors\)](https://open.spotify.com/track/00U0pedRUMEzREpyRqbVT6) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Something to Remember](https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5) | 4:23 |
 | 14 | [Whatta Man](https://open.spotify.com/track/7yQsd17sVkOLaDwa4tz9dT) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ), [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [The Best Of Salt\-N\-Pepa 20th Century Masters The Millennium Collection](https://open.spotify.com/album/0nHRtMQ4TiSCZOIqW5qJBq) | 5:08 |

@@ -4,7 +4,7 @@
 
 > From slack\-key masters to songwriting royals, Native Hawaiians have been behind the isles' most memorable music\. Cover: <a href="spotify:artist:69NjH5MsRLr0CX0zSlGmN3">Jake Shimabukuro</a>
 
-52 songs - 3 hr 5 min - [published](https://open.spotify.com/playlist/1jo88XDGrRdHEAZh0fJEh3)
+52 songs - 3 hr 10 min - [published](https://open.spotify.com/playlist/1jo88XDGrRdHEAZh0fJEh3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Ke Kuko E Ka Manawa](https://open.spotify.com/track/0MmoH7CeEX43zEYfI2YHxd) | [Natalie Ai Kamauu](https://open.spotify.com/artist/2xNjvgxtzsBxo3iAyrxGux) | [Eia](https://open.spotify.com/album/3TVoC0p4iQP3aFSE4yaADG) | 3:22 | 2022-05-02 |  |
 | [Ku'u Lei Awapuhi](https://open.spotify.com/track/2l0zhAFbn7mELo8sCXbXcT) | [Hapa](https://open.spotify.com/artist/3w0M90LteiOnPZkklwQPqZ) | [HAPA](https://open.spotify.com/album/5WIrLJC5sC3AQvLzoMh1De) | 4:38 | 2022-05-02 |  |
 | [Ku'u Poli'ahu](https://open.spotify.com/track/2sfZQiHXz95HPaMX9hZ1bl) | [Kalani Pe'a](https://open.spotify.com/artist/2dn7TmEojNdgWeRhbO15hg) | [E Walea](https://open.spotify.com/album/5lm1nmjm0NWth85dImVdgt) | 0:29 | 2022-05-02 |  |
-| [Lava](https://open.spotify.com/track/0wqeaDeaKq14IuQESPqBEJ) | [Kuana Torres Kahele](https://open.spotify.com/artist/7Eshpryyi2F9Jg0ixaysNn), [Napua Greig](https://open.spotify.com/artist/7ycscFAP7S0I6HGFaqmT4B), [James Ford Murphy](https://open.spotify.com/artist/60vk2VjuoktubJq0FFguLK) | [Lava \(From "Lava"\)](https://open.spotify.com/album/3ps9fwedIocKsm52J2zoX9) | 0:29 | 2022-05-02 |  |
+| [Lava](https://open.spotify.com/track/0wqeaDeaKq14IuQESPqBEJ) | [Kuana Torres Kahele](https://open.spotify.com/artist/7Eshpryyi2F9Jg0ixaysNn), [Napua Greig](https://open.spotify.com/artist/7ycscFAP7S0I6HGFaqmT4B), [James Ford Murphy](https://open.spotify.com/artist/60vk2VjuoktubJq0FFguLK) | [Lava \(From "Lava"\)](https://open.spotify.com/album/3ps9fwedIocKsm52J2zoX9) | 5:46 | 2022-05-02 |  |
 | [Lei 'Awapuhi](https://open.spotify.com/track/1dVyAJFUCAD5TjbWTKzpk0) | [Bob Brozman](https://open.spotify.com/artist/0rbQ6RnCd7jkHUr9zof16V), [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K) | [Kīkā Kila Meets Kī Hō'alu](https://open.spotify.com/album/66dhjYbfLwwC4r87dSFYl6) | 4:42 | 2022-05-02 |  |
 | [Lei Pikake](https://open.spotify.com/track/7xZZlNe5OhKQmrPvj5E6E6) | [Hapa](https://open.spotify.com/artist/3w0M90LteiOnPZkklwQPqZ) | [HAPA](https://open.spotify.com/album/5WIrLJC5sC3AQvLzoMh1De) | 5:29 | 2022-05-02 |  |
 | [Manu Kapalulu](https://open.spotify.com/track/6EJ580b3P2Xa1r5b9xuJLp) | [Ku'uipo Kumukahi](https://open.spotify.com/artist/2K7KDGiQOUiroJaJYWPyGS) | [Na Lani 'Eha](https://open.spotify.com/album/0fTOKGeG9xw0YDwWiORmaT) | 4:02 | 2022-05-02 |  |

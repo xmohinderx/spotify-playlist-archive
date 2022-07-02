@@ -4,7 +4,7 @@
 
 > A collection of the best recent Prog Rock tracks\. Cover: Steve Vai
 
-75 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/3ztjRpgCKn1hLb0zkDuLj3)
+75 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/3ztjRpgCKn1hLb0zkDuLj3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Blood Moon Night](https://open.spotify.com/track/4Z4RfWMnxsBG7Fs5KvEVGY) | [Kadavar](https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z), [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [ELDOVAR \- A Story of Darkness & Light](https://open.spotify.com/album/2SN8LGMcmauPEAr4BLiT6e) | 11:04 | 2022-05-20 |  |
 | [Break It All](https://open.spotify.com/track/1SdxRh3a4qUs3HJcJvsHjr) | [The Pineapple Thief](https://open.spotify.com/artist/4lrBMUSk8PiNnCEZfsmPAk) | [Break It All](https://open.spotify.com/album/4LpRz5IwhznG4gHWeLHcTU) | 4:21 | 2022-05-20 |  |
 | [Broken](https://open.spotify.com/track/6b5xAENeyuvpA3gRwuKAQs) | [The Flower Kings](https://open.spotify.com/artist/0BI5vXwUl4lZMtARfXQ0No) | [Broken](https://open.spotify.com/album/06ixIi6RB7vy0ns1bUIfpg) | 6:47 | 2022-05-20 |  |
-| [Castaway Angels](https://open.spotify.com/track/3Gy5q1K4nTwDVVtyQWYv3t) | [Leprous](https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5) | [Castaway Angels](https://open.spotify.com/album/0DSyIQMgYhiwjeh7PW2IRB) | 0:29 | 2022-05-20 |  |
+| [Castaway Angels](https://open.spotify.com/track/3Gy5q1K4nTwDVVtyQWYv3t) | [Leprous](https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5) | [Castaway Angels](https://open.spotify.com/album/0DSyIQMgYhiwjeh7PW2IRB) | 4:55 | 2022-05-20 |  |
 | [Closer](https://open.spotify.com/track/5TUn5aeSBFYKiQFLO3fE5N) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Closer](https://open.spotify.com/album/1at11cxee5blIgarVbwuY0) | 5:15 | 2022-05-20 |  |
 | [Danger](https://open.spotify.com/track/3UqvyqOpZI0AyYmpO0HEwS) | [Relent](https://open.spotify.com/artist/3BcuUq1rwq2xlcyab2w3lu) | [Heavy](https://open.spotify.com/album/6jnRsK6HHmSL12NuVL1ygi) | 3:48 | 2022-05-20 |  |
 | [Deep Waters](https://open.spotify.com/track/4NY0pyyRKObg9S58koRXDz) | [Port Noir](https://open.spotify.com/artist/6s6x6p9qZFaPfeALpVvcpR) | [Deep Waters](https://open.spotify.com/album/1rleWJZprZvmlqv1fH8KLZ) | 3:29 | 2022-05-20 |  |
@@ -33,7 +33,7 @@
 | [Future Memories](https://open.spotify.com/track/7hPKHjWDp2vmPEg6TCtjuP) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [The Quest](https://open.spotify.com/album/5mJQGS0NqD41OGyM77vIX9) | 5:07 | 2022-05-20 |  |
 | [Harridan](https://open.spotify.com/track/2ixHZTXZwFkPGauOYTLQrW) | [Porcupine Tree](https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0) | [Harridan](https://open.spotify.com/album/3vjYPAzHWD2jB3SeIpoAp0) | 8:07 | 2022-05-20 |  |
 | [Hazard](https://open.spotify.com/track/10KlXJAkq44AjU3Tj8LKwl) | [Long Distance Calling](https://open.spotify.com/artist/3SiCxhceGZgzusCLHd4Zz6) | [Hazard](https://open.spotify.com/album/4iCjBIOD626agMphqSZo0q) | 6:08 | 2022-05-20 |  |
-| [I Can't Stay Here Anymore](https://open.spotify.com/track/2wj1ZSQ32XsMKIvMNO61R2) | [Pattern\-Seeking Animals](https://open.spotify.com/artist/3X2gxHjnxuXGLgs0nrqMuW) | [I Can't Stay Here Anymore](https://open.spotify.com/album/2vP68Dxqg2tWue80ASr1HR) | 0:29 | 2022-05-20 |  |
+| [I Can't Stay Here Anymore](https://open.spotify.com/track/2wj1ZSQ32XsMKIvMNO61R2) | [Pattern\-Seeking Animals](https://open.spotify.com/artist/3X2gxHjnxuXGLgs0nrqMuW) | [I Can't Stay Here Anymore](https://open.spotify.com/album/2vP68Dxqg2tWue80ASr1HR) | 6:05 | 2022-05-20 |  |
 | [If You Deserve It, You Deserve It](https://open.spotify.com/track/4yshCbCvJUSPREjR1iAuni) | [The Seafloor Cinema](https://open.spotify.com/artist/39a4hGdTS669oJBra6j9Ru) | [If You Deserve It, You Deserve It](https://open.spotify.com/album/4TTGDY1fmeNNzDtzDcETzJ) | 3:18 | 2022-05-20 |  |
 | [Immunity](https://open.spotify.com/track/00gHK05ITKDT2c40WJDevj) | [Long Distance Calling](https://open.spotify.com/artist/3SiCxhceGZgzusCLHd4Zz6) | [Immunity](https://open.spotify.com/album/56wRI2u3cxOM6CHEG9S9kY) | 5:40 | 2022-05-20 |  |
 | [In Dreams](https://open.spotify.com/track/4Wtd80eE4GyuzuwVMOxigs) | [Esoterica](https://open.spotify.com/artist/63l2JZ9H6olP7LjPwYXN21) | [In Dreams](https://open.spotify.com/album/6SySbe7lsj4wlbLjuv56pF) | 4:18 | 2022-05-20 |  |
@@ -41,7 +41,7 @@
 | [Inertiatic Esp](https://open.spotify.com/track/16Elz7HJPLZPMylp13ewxv) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Deloused in the Comatorium](https://open.spotify.com/album/0CA2EVHhRPR5VPV78KZw89) | 4:23 | 2022-05-20 |  |
 | [Keeping People as Pets](https://open.spotify.com/track/2Bs1pRSZh0imh8my3EczOC) | [Lonely Robot](https://open.spotify.com/artist/6QsBFBEWHLod7IqInyBOjJ) | [Keeping People as Pets](https://open.spotify.com/album/54tLhnUTtB5qX8w57Qmh8n) | 5:20 | 2022-05-20 |  |
 | [KING GHOST](https://open.spotify.com/track/0ZAvLVvtW8kOxMh0ZtSw9r) | [Steven Wilson](https://open.spotify.com/artist/4X42BfuhWCAZ2swiVze9O0) | [KING GHOST](https://open.spotify.com/album/0wrhpT6H9KiWdgzMfmXMN8) | 4:06 | 2022-05-20 |  |
-| [Lonely City](https://open.spotify.com/track/3K2xMzzdy0xInRejjFa1zp) | [Chain Reaktor](https://open.spotify.com/artist/4nzvCySNE90I8Vc16KHsUR) | [Lonely City](https://open.spotify.com/album/2NKJKVeHiAehVJv1JBQZ7Z) | 0:29 | 2022-05-20 |  |
+| [Lonely City](https://open.spotify.com/track/3K2xMzzdy0xInRejjFa1zp) | [Chain Reaktor](https://open.spotify.com/artist/4nzvCySNE90I8Vc16KHsUR) | [Lonely City](https://open.spotify.com/album/2NKJKVeHiAehVJv1JBQZ7Z) | 4:59 | 2022-05-20 |  |
 | [Machines and Men](https://open.spotify.com/track/1lr87YIenNN9zdmQDACsUj) | [Airbag](https://open.spotify.com/artist/0gTqi1zdqD9s6islG2wLKC) | [Machines and Men](https://open.spotify.com/album/55CrAJlqsxryfW0wiscp4v) | 9:54 | 2022-05-20 |  |
 | [New Obsession](https://open.spotify.com/track/1WotDZTlWaQefZlyDgDqVT) | [Pure Reason Revolution](https://open.spotify.com/artist/0DauHVRiE8SpGWxW0YINj3) | [New Obsession](https://open.spotify.com/album/2bDVCWxixrwLP9h8hShlGQ) | 5:07 | 2022-05-20 |  |
 | [Nighttime Disguise](https://open.spotify.com/track/2cXtLOiUWyCDebAT65p5cJ) | [Leprous](https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5) | [Aphelion](https://open.spotify.com/album/1FqPZscG7gDH6utCpoWnkG) | 7:04 | 2022-05-20 |  |

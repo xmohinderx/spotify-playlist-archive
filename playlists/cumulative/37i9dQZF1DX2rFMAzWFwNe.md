@@ -4,7 +4,7 @@
 
 > ¡Y suena y suena..\. MS!
 
-96 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/4aLGMwMufY0fSYhU1Oevnh)
+96 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/4aLGMwMufY0fSYhU1Oevnh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [El Color de Tus Ojos \- Versión Acústica](https://open.spotify.com/track/5vqKT1wBUAxlFq57ymoOeJ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Color de Tus Ojos \(Versión Acústica\)](https://open.spotify.com/album/0oPqmNycT3rm72Qp6KcvLU) | 3:50 | 2022-05-26 |  |
 | [El Patrón](https://open.spotify.com/track/7y8euUGZzG1E58Nt6bOKNb) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Amor Enfermo](https://open.spotify.com/album/0WS7m1l6aKMdpsdIWeodxo) | 2:19 | 2022-05-26 |  |
 | [El Trabajo Es La Suerte](https://open.spotify.com/track/2PQcAZu2OweqjtlzuCbBoT) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Trabajo Es La Suerte](https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk) | 3:05 | 2022-05-26 |  |
-| [Es Tuyo Mi Amor](https://open.spotify.com/track/2eW9CRtyLNhjgyLFJNHhtD) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Es Tuyo Mi Amor \- Single](https://open.spotify.com/album/5khQ7lkhdQhJZH2IijmGij) | 0:29 | 2022-05-26 |  |
+| [Es Tuyo Mi Amor](https://open.spotify.com/track/2eW9CRtyLNhjgyLFJNHhtD) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Es Tuyo Mi Amor \- Single](https://open.spotify.com/album/5khQ7lkhdQhJZH2IijmGij) | 2:55 | 2022-05-26 |  |
 | [Este Borracho](https://open.spotify.com/track/0BNGiz0sIkVj1YzhWELMpd) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Que Bendición](https://open.spotify.com/album/5iCAbAQCi21EREKse2kJgy) | 2:25 | 2022-05-26 |  |
 | [Gracias a Ti](https://open.spotify.com/track/44PK0PRRKlF16JbXx6erQB) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Gracias a Ti](https://open.spotify.com/album/6KLyjUQiHec4t9KtcQFeph) | 3:25 | 2022-05-26 |  |
 | [Gracias Por Eso](https://open.spotify.com/track/1KXvZAHfm7U1dnz9FhQcTm) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Trabajo Es La Suerte](https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk) | 3:41 | 2022-05-26 |  |

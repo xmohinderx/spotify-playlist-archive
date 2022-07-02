@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain]
 
 > Open your mind to these classics from the golden era of New Age music\. Deuter on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,495 likes - 58 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,543 likes - 58 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain]
 | 7 | [Blue Lagoon](https://open.spotify.com/track/2bFiEBBSHacd7pRyyJzpuE) | [Tony O'Connor](https://open.spotify.com/artist/5f4UBNURyjjZJDqhLCCfmC) | [Seashore Sunrise](https://open.spotify.com/album/2h4Dm6JaQx93MWfKCsigGw) | 10:05 |
 | 8 | [She Trails Flowers](https://open.spotify.com/track/0BlKAekb8c0K0mUPlQvIDS) | [Neutron 9000](https://open.spotify.com/artist/0wTMDXNFj8bX2rKZuBDEdd) | [Lady Burning Sky](https://open.spotify.com/album/0Q9MAgJqzAEbFaBopjzY1H) | 10:07 |
 | 9 | [Forest I](https://open.spotify.com/track/1OOWBKG1rigxUbM6HHso6G) | [Peter Davison](https://open.spotify.com/artist/5hLJQt5bIzxV7O0HvYNFqy) | [Forest/Mountain](https://open.spotify.com/album/01rVoq4sFduuosgPmo3uui) | 6:34 |
-| 10 | [Silent Spirit](https://open.spotify.com/track/6sXAaxtCZFjcUPKX7z1UtS) | [Tony O'Connor](https://open.spotify.com/artist/5f4UBNURyjjZJDqhLCCfmC) | [Rainforest Magic](https://open.spotify.com/album/4kSD8egAl0J8Ogyw0Srxgi) | 0:29 |
+| 10 | [Silent Spirit](https://open.spotify.com/track/6sXAaxtCZFjcUPKX7z1UtS) | [Tony O'Connor](https://open.spotify.com/artist/5f4UBNURyjjZJDqhLCCfmC) | [Rainforest Magic](https://open.spotify.com/album/4kSD8egAl0J8Ogyw0Srxgi) | 7:37 |
 | 11 | [Novus Pt\. 1: Tears of Terra](https://open.spotify.com/track/2mrZhu6HeLOB4x0jGFDQCV) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Novus Magnificat \(Alternate Version\)](https://open.spotify.com/album/5qvqdmI2weOLkMU4fyuoxB) | 4:26 |
 | 12 | [Freedom at the 45th Floor](https://open.spotify.com/track/2mDbBQ9Abwo3AV1cbc14Uk) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Music](https://open.spotify.com/album/5DHqPXz2CqfjzynPDQACSw) | 4:34 |
 | 13 | [Novus Pt\. 1: Ascent](https://open.spotify.com/track/4yhY9LhY4SLqzdOELAEgDP) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Novus Magnificat \(Alternate Version\)](https://open.spotify.com/album/5qvqdmI2weOLkMU4fyuoxB) | 5:12 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain]
 | 26 | [El\-Hadra](https://open.spotify.com/track/57Xvgypj0JSo0E5IvnKGgP) | [Klaus Wiese](https://open.spotify.com/artist/2uvdsw07VR5CuNk9NvQ1kr), [Ted De Jong](https://open.spotify.com/artist/4UEGXaYpVtqbZkhFEt0SAJ) | [Sacred Planet \(From women & man to gods & godnesses\)](https://open.spotify.com/album/5CFRiMivWeZdmlTtrAfk1f) | 3:57 |
 | 27 | [Fergana](https://open.spotify.com/track/3BqqN5jhO7H41ziAUGdIyr) | [Klaus Wiese](https://open.spotify.com/artist/2uvdsw07VR5CuNk9NvQ1kr) | [Samarkand](https://open.spotify.com/album/4uqo1AjPmDQFnhB4rNfvkd) | 5:16 |
 | 28 | [Clouds 1](https://open.spotify.com/track/0sBHVlBysBkOZPFecBTxCX) | [Norman Beede](https://open.spotify.com/artist/1QjdtCSzyQLBmtnoHyWmxn), [Kenny Sawhill](https://open.spotify.com/artist/1pxfFDVoeSLkqnlRkiCbHl), [Rolan Tripp](https://open.spotify.com/artist/6JYREywwsHIzxmSZ2Ie52Z), [Robert Mehren](https://open.spotify.com/artist/09y79wa9KKdBw96jCfRPIW), [Craig Kupka](https://open.spotify.com/artist/10BujleeZpW0oZ3fDeBRRR) | [Clouds: Music for Relaxation](https://open.spotify.com/album/0jaAga0dbHYrVUjPFnVf0p) | 22:53 |
-| 29 | [Glide II](https://open.spotify.com/track/5rBdnTSaWqveEuoYBNF0iF) | [Peter Davison](https://open.spotify.com/artist/5hLJQt5bIzxV7O0HvYNFqy) | [Glide/Star Gazer](https://open.spotify.com/album/2Rk837DGOC1KWlqBHjWz9K) | 0:29 |
+| 29 | [Glide II](https://open.spotify.com/track/5rBdnTSaWqveEuoYBNF0iF) | [Peter Davison](https://open.spotify.com/artist/5hLJQt5bIzxV7O0HvYNFqy) | [Glide/Star Gazer](https://open.spotify.com/album/2Rk837DGOC1KWlqBHjWz9K) | 5:43 |
 | 30 | [Eternally](https://open.spotify.com/track/65l7HLOExPxBtOI2gLOLU3) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [Comfort Zone](https://open.spotify.com/album/5dmtYNXYgS2gIq7J0nN7R4) | 3:34 |
 | 31 | [The Space Between](https://open.spotify.com/track/7FNpgKsAUFgt5ONasflWtc) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [The Space Between](https://open.spotify.com/album/7JO8XrLsnzmn6cBP5kyMUH) | 21:53 |
 | 32 | [Crystals](https://open.spotify.com/track/1oHsdvHWOYUz06YLNDWyzp) | [Bob Ose](https://open.spotify.com/artist/2KFktC8T24X7duh0peZZrg), [Norman Beede](https://open.spotify.com/artist/1QjdtCSzyQLBmtnoHyWmxn), [Craig Kupka](https://open.spotify.com/artist/10BujleeZpW0oZ3fDeBRRR) | [Crystals: New Music for Relaxation \# 2](https://open.spotify.com/album/2r8goCcnxJ2CcaeYqd2omy) | 21:18 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain]
 | 40 | [At\-One\-Ment](https://open.spotify.com/track/6OOE3yQoMNcyd6jwtSpEST) | [JD Emmanuel](https://open.spotify.com/artist/39eBp0j2hpQyucio2z0el6) | [Wizards](https://open.spotify.com/album/08Ak0ziV7ddHUu4gf91U9z) | 8:56 |
 | 41 | [Rising](https://open.spotify.com/track/2NaCaczaxowz52EreEMlQT) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU) | [Reflecting Light, Vol\. 1](https://open.spotify.com/album/5egigwAjsqdGSS7OHCOpH8) | 8:36 |
 | 42 | [Temple of Aesthetic Action](https://open.spotify.com/track/2uJ68HZNjTNRsAyJy1TZol) | [Jordan De La Sierra](https://open.spotify.com/artist/0C31G6WRrM2kEf5q8Yn2Pf) | [Gymnosphere: Song of the Rose](https://open.spotify.com/album/20sKBptJV69qrBXUEQVlzp) | 24:55 |
-| 43 | [Memories](https://open.spotify.com/track/5Fryu3Yxywb5F5y1UmiC8I) | [Tony O'Connor](https://open.spotify.com/artist/5f4UBNURyjjZJDqhLCCfmC) | [Rainforest Magic](https://open.spotify.com/album/4kSD8egAl0J8Ogyw0Srxgi) | 0:29 |
+| 43 | [Memories](https://open.spotify.com/track/5Fryu3Yxywb5F5y1UmiC8I) | [Tony O'Connor](https://open.spotify.com/artist/5f4UBNURyjjZJDqhLCCfmC) | [Rainforest Magic](https://open.spotify.com/album/4kSD8egAl0J8Ogyw0Srxgi) | 5:07 |
 | 44 | [Valley of the Birds](https://open.spotify.com/track/02Zatp9qpcjzaO6JdjWLRK) | [Emerald Web](https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe) | [Traces of Time](https://open.spotify.com/album/2HnWEjopC87eePuc3NAbqr) | 11:56 |
 | 45 | [Spirales](https://open.spotify.com/track/1nOhbBe3MY3sF6wLWiROIa) | [Chaitanya Hari Deuter](https://open.spotify.com/artist/6ShqyafouDcEeQVmdVuTzR) | [Deuter: San](https://open.spotify.com/album/4BBzx6fjLsoH10SwCABIvm) | 6:54 |
 | 46 | [Tropical Convergence](https://open.spotify.com/track/3Ic62vrDwJtxQ7lPXfug0O) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Angel Tears in Sunlight](https://open.spotify.com/album/40tlrXYp2qd0ioGD92haRj) | 2:41 |

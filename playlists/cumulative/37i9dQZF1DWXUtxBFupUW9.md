@@ -4,7 +4,7 @@
 
 > Exercise together with uplifting soul music.
 
-107 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/1ZRKCMPICSklVRCzmyn6z2)
+107 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/1ZRKCMPICSklVRCzmyn6z2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Chain of Fools](https://open.spotify.com/track/0sUe1KY92PKd8tpkf7hvDa) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Queen of Soul \- The Best of Aretha Franklin](https://open.spotify.com/album/6OxXVtZwExAmdrUIG2afFf) | 2:43 | 2021-12-20 |  |
 | [Come On Through](https://open.spotify.com/track/2GMjU0QuHVOXjGI02ksGrw) | [Eamon](https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9) | [No Matter The Season](https://open.spotify.com/album/0KImBK7q3JYm43snwJGZgL) | 2:18 | 2022-03-24 | 2022-04-19 |
 | [Come See About Me](https://open.spotify.com/track/307kcWJQNMdiYYKj1LgClU) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go](https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV) | 2:43 | 2022-01-21 |  |
-| [Cool Jerk](https://open.spotify.com/track/1CQHMHRCDs1qioeseVTbaR) | [The Capitols](https://open.spotify.com/artist/2AYmrUFn1ATSfFSx3B4tvb) | [Dance The Cool Jerk](https://open.spotify.com/album/4tunfFO1SffujlRfanDyZI) | 2:46 | 2021-12-20 | 2022-06-30 |
+| [Cool Jerk](https://open.spotify.com/track/1CQHMHRCDs1qioeseVTbaR) | [The Capitols](https://open.spotify.com/artist/2AYmrUFn1ATSfFSx3B4tvb) | [Dance The Cool Jerk](https://open.spotify.com/album/4tunfFO1SffujlRfanDyZI) | 2:46 | 2021-12-20 |  |
 | [Crystal Closet Queen](https://open.spotify.com/track/6AJPxUP4NWh1SwXLzHPAXK) | [Leon Russell](https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN) | [Leon Russell And The Shelter People](https://open.spotify.com/album/3zkbaJQr8tQl8qdwN9v53k) | 2:59 | 2022-03-24 | 2022-04-18 |
 | [Dancing In The Street \- Stereo](https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Dance Party](https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ) | 2:45 | 2021-12-20 |  |
 | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/track/08QLNLM2Ops9H4yWDBfcPt) | [Frank Wilson](https://open.spotify.com/artist/7Emrl5SyjpneJuRdHqBKRN) | [Soul \- One in a Million](https://open.spotify.com/album/782ms3JLN4hYEICoaGdGtg) | 2:28 | 2022-01-21 | 2022-06-15 |
@@ -46,7 +46,7 @@
 | [Harlem Shuffle](https://open.spotify.com/track/32CMlKiHOj3BCLpxBqxkn8) | [Bob & Earl](https://open.spotify.com/artist/2gOghlWpnfwGGip7S1cMuq) | [Island Life: 50 Years of Island Records](https://open.spotify.com/album/4noQW7rdnUCJxHl6NLKdLS) | 2:48 | 2022-03-24 | 2022-04-17 |
 | [Hold Me](https://open.spotify.com/track/3Rhfga08pNnhLMQVb2nRXp) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi) | 3:07 | 2022-03-24 |  |
 | [How Sweet It Is \(To Be Loved By You\)](https://open.spotify.com/track/72oGEdOAH8TzjReQfv8Don) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [The Definitive Collection](https://open.spotify.com/album/6pDK4Z6EZy39RSvD4HWhTn) | 2:59 | 2021-12-20 |  |
-| [I Can't Help Myself \(Sugar Pie, Honey Bunch\)](https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops Second Album](https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O) | 0:29 | 2022-01-21 |  |
+| [I Can't Help Myself \(Sugar Pie, Honey Bunch\)](https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops Second Album](https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O) | 2:40 | 2022-01-21 |  |
 | [I Got You \(I Feel Good\)](https://open.spotify.com/track/3ASrlku9X40moDdtdoPDqb) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Get On Up \- The James Brown Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IRbJUSU6v0dJr8IZvX1IP) | 2:47 | 2022-03-24 | 2022-04-21 |
 | [I Hear A Symphony](https://open.spotify.com/track/5SCB7L1alKg7ZEeSw7Sq9f) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [I Hear A Symphony](https://open.spotify.com/album/7vNmiLEdMqJYUlPxSx2zgg) | 2:42 | 2021-12-20 | 2022-06-29 |
 | [I Just Want To Make Love To You](https://open.spotify.com/track/7EfLlY6Gen7TCbyZ3f0CM1) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last The Very Best Of](https://open.spotify.com/album/5mKhSxFMOBFtf76VHaMyRS) | 3:08 | 2021-12-20 |  |
@@ -109,7 +109,7 @@
 | [Twenty Five Miles](https://open.spotify.com/track/6zpOu65vJLr3v6Wl6PbDHo) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [The Hits Of Edwin Starr](https://open.spotify.com/album/5Lj0voE6hpEZ9zTms5i4Z2) | 3:16 | 2022-01-21 | 2022-06-25 |
 | [Twistin' the Night Away](https://open.spotify.com/track/4pHLMH4f3NKP5cBRfPlIZb) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Twistin' the Night Away \(Classic Album \- Gold Edition\)](https://open.spotify.com/album/5tTtfbF5NOceHLjzjWywYC) | 2:42 | 2021-12-20 |  |
 | [Uptight \(Everything's Alright\)](https://open.spotify.com/track/5q5q7yDHiVkBnaivsda4TN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Up\-Tight Everything's Alright](https://open.spotify.com/album/79jRgkYwwfQjxkB1qd5mAP) | 2:55 | 2021-12-20 |  |
-| [Wade In The Water](https://open.spotify.com/track/3cuvHbi1A18vg58oi4CEfV) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Freedom Highway](https://open.spotify.com/album/5613XvsC5XhGi3gfNWXpjg) | 2:56 | 2021-12-20 |  |
+| [Wade In The Water](https://open.spotify.com/track/3cuvHbi1A18vg58oi4CEfV) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Freedom Highway](https://open.spotify.com/album/5613XvsC5XhGi3gfNWXpjg) | 2:56 | 2021-12-20 | 2022-07-02 |
 | [Warpaint](https://open.spotify.com/track/3sqb5hfu5gIdrd2U70FT3L) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Warpaint](https://open.spotify.com/album/2MkJIYLt4fz2SDSozVntDD) | 4:50 | 2022-03-24 | 2022-07-01 |
 | [Where Did Our Love Go](https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go](https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV) | 2:33 | 2022-01-21 |  |
 | [Who Wouldn't Love A Man Like That \- 1963 Single Version](https://open.spotify.com/track/5NuayszykW1KOq5Y3cAKeA) | [Mable John](https://open.spotify.com/artist/2WKCi6dbtPIPiUzqSJWKRn) | [The Collection](https://open.spotify.com/album/2IBl3cBVopZdPobnMBVzBt) | 2:45 | 2022-03-24 | 2022-04-21 |

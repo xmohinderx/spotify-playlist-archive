@@ -4,7 +4,7 @@
 
 > Enjoy the hottest <a href="spotify:genre:funkbrazil">Brazilian Funk</a>\. Lo mejor del <a href="spotify:genre:funkbrazil">Funk de Brasil </a>! Cover: Mc Kevin O Chris
 
-50 songs - 2 hr 29 min - [published](https://open.spotify.com/playlist/0JfAREWmsf4OMLVBZTUBmc)
+50 songs - 2 hr 36 min - [published](https://open.spotify.com/playlist/0JfAREWmsf4OMLVBZTUBmc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Deu Onda](https://open.spotify.com/track/0EPxmvsG1BY5td4aTOkWBF) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Deu Onda](https://open.spotify.com/album/4kL6UmXZ0QGt4crDk2n1op) | 2:24 | 2020-05-22 |  |
 | [Din Din Din \(Participação especial de MC Pupio e MC Doguinha\)](https://open.spotify.com/track/78Q2gghkt8iLJ7J0Uc4QYb) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mc Doguinha](https://open.spotify.com/artist/6GX3y0u61X0EHZZogsQFbL), [MC Pupio](https://open.spotify.com/artist/0n9VWli2NkR8OqJS4dXTqw) | [Din Din Din \(Participação especial de MC Pupio e MC Doguinha\)](https://open.spotify.com/album/6laRHX70QNe2Wt3iWkc8wK) | 3:04 | 2020-05-22 |  |
 | [Envolvimento](https://open.spotify.com/track/1Wolb8MRcXR2IMMaELTRpE) | [MC Loma e As Gêmeas Lacração](https://open.spotify.com/artist/6tdM5Njlln7nWkonCppW0u) | [Envolvimento](https://open.spotify.com/album/3GnrnufuuDBC8Kf6D5CyIi) | 2:26 | 2020-05-22 |  |
-| [Faz Gostoso \(feat\. Anitta\)](https://open.spotify.com/track/2SC14LGDbRWRlyLg9Wupa0) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 0:29 | 2020-05-22 |  |
+| [Faz Gostoso \(feat\. Anitta\)](https://open.spotify.com/track/2SC14LGDbRWRlyLg9Wupa0) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 4:05 | 2020-05-22 |  |
 | [Fazer Falta](https://open.spotify.com/track/6pSYjx66rlqRmGGTHhnjCo) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Fazer Falta](https://open.spotify.com/album/12SX4VJ6rdQQpMGHVBl1oe) | 3:30 | 2020-05-22 |  |
 | [Finalidade Era Ficar em Casa](https://open.spotify.com/track/2Y73798F4zbbbvKT02fbtE) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Finalidade Era Ficar em Casa](https://open.spotify.com/album/2Fm7ad2tXYu5LHKePgBLcP) | 3:05 | 2020-05-22 |  |
 | [Fuleragem](https://open.spotify.com/track/6tuzPD1zPPvwMbGiD0TBay) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh) | [Fuleragem](https://open.spotify.com/album/0tyHlKvPDsGxeCzqS12iPT) | 2:21 | 2020-05-22 |  |
@@ -38,7 +38,7 @@
 | [Nossa Que Absurdo](https://open.spotify.com/track/4s75aDCVs0lm1ubPpw9cf8) | [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk), [Mc Nando Dk](https://open.spotify.com/artist/3tQ3S05OMjsRpkQr8CvIqU) | [Nossa Que Absurdo](https://open.spotify.com/album/5FkIsdw4LUyfFzZ88IHpA8) | 3:09 | 2020-05-22 |  |
 | [Não encosta](https://open.spotify.com/track/3TLik0AUo5Ri65DFrEivd4) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [DJ Will22](https://open.spotify.com/artist/4WrL8YBVkibeodZIhBLjsn) | [Não encosta](https://open.spotify.com/album/0FVXKp0wuQJikYk6qg1cW3) | 2:24 | 2020-05-22 |  |
 | [Não Pare](https://open.spotify.com/track/4wIUFSrHS8wR0ggNpmHsBS) | [Jessi](https://open.spotify.com/artist/0f8oDE74ZkCvIOamuwh306), [Jyayo](https://open.spotify.com/artist/2kyppI9RJmlA20LaOqdn2s), [Yaw Faso](https://open.spotify.com/artist/15DoyzRB8Y3fOIAOoZr3MV) | [Não Pare](https://open.spotify.com/album/7GCjgOvt3728sKyNDVpQsJ) | 3:30 | 2020-05-22 |  |
-| [O Grave Bater](https://open.spotify.com/track/1bUazU9SSOh02AdlOPeTvm) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [O Grave Bater](https://open.spotify.com/album/45flnIWcOtLPij1pv65BTm) | 0:29 | 2020-05-22 |  |
+| [O Grave Bater](https://open.spotify.com/track/1bUazU9SSOh02AdlOPeTvm) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [O Grave Bater](https://open.spotify.com/album/45flnIWcOtLPij1pv65BTm) | 3:01 | 2020-05-22 |  |
 | [Olha A Explosão \- Remix](https://open.spotify.com/track/5RBW30fFFVav2n0IqFj0fY) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [Olha A Explosão \(Remix\)](https://open.spotify.com/album/69krsAEiMZ6nClROTNExfp) | 3:30 | 2020-05-22 |  |
 | [Os Muleke É Liso](https://open.spotify.com/track/6OmKF6WW3eQtZzGQ4hDSOX) | [MC Rodolfinho](https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp) | [Os Muleke É Liso](https://open.spotify.com/album/4H8m7WqTAjfVBTcw7qgBDp) | 3:52 | 2020-05-22 |  |
 | [Papum](https://open.spotify.com/track/5tNnnptCfuLXLHnDqrL9ku) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Papum](https://open.spotify.com/album/4eiu7WQBepn2ALvWA9UdbM) | 2:19 | 2020-05-22 |  |

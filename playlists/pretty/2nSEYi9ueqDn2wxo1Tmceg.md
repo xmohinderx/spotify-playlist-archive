@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 78,841 likes - 50 songs - 3 hr 3 min
+[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 78,838 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 | 41 | [On & On](https://open.spotify.com/track/4gDolFunOhVEfAPJRJTZwc) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [On & On](https://open.spotify.com/album/41HC7KwuNr5PxEtyYxgYQm) | 3:10 |
 | 42 | [Blessing](https://open.spotify.com/track/14ZagAXGWz5Ycpm0AsZQYZ) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Blessing](https://open.spotify.com/album/7Aqk8isy5td8NUUmXF3Z3d) | 3:05 |
 | 43 | [Tonight's the Day](https://open.spotify.com/track/50qWe1O9wEHGl7WHSngOqc) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Cruel Country](https://open.spotify.com/album/67GC6lWDvJ0lUc1aVBXTcT) | 3:26 |
-| 44 | [Concrete](https://open.spotify.com/track/14moR256JoSCPnJrirQXYC) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Barbara](https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL) | 0:29 |
+| 44 | [Concrete](https://open.spotify.com/track/14moR256JoSCPnJrirQXYC) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Barbara](https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL) | 4:02 |
 | 45 | [Sold Me a Dream \- Terry Tracksuit Edit](https://open.spotify.com/track/05n521uk7tzOpvuQZMtQag) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu), [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG), [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Sold Me a Dream \(Terry Tracksuit Edit\)](https://open.spotify.com/album/2O4jdVnB7QgVETMA17wQ46) | 2:50 |
 | 46 | [Space Song](https://open.spotify.com/track/7sB9BkfzR1SsuHqjU3jtt1) | [mostly sleeping](https://open.spotify.com/artist/0c4hWy19I8yBCVb4dnrm31) | [Space Song](https://open.spotify.com/album/1dY1LX7VxNKtYqrC0xP8QE) | 3:58 |
 | 47 | [Seed](https://open.spotify.com/track/2taAXpP5azRBLZxOCJGC3U) | [Just Mustard](https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi) | [Heart Under](https://open.spotify.com/album/6zVROv27567N68Hu6EVbxb) | 4:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpLwNv0bd2.md) - [plain]
 
 > Check out the Latest Love Tunes.<br/>Cover : VTK
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,243 likes - 51 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,277 likes - 51 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpLwNv0bd2.md) - [plain]
 | 33 | [Ice Katti Kuruvi \- From "D Block"](https://open.spotify.com/track/4WQjkG66fNyFE1N7XOSoL6) | [Ron Ethan Yohann](https://open.spotify.com/artist/0AojazIcemdBzAX3LqAGFF), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6) | [Ice Katti Kuruvi \(From "D Block"\)](https://open.spotify.com/album/6kR7SUlPfVCDFZ3LkLn9RF) | 4:23 |
 | 34 | [Thozhi \(From "Hey Sinamika"\)](https://open.spotify.com/track/5JC1RPGBMSiKlA3gniEmCW) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6) | [Thozhi \(From "Hey Sinamika"\)](https://open.spotify.com/album/0cxMKNG3gmLPt9dTEBHkEg) | 4:57 |
 | 35 | [Ullam Urugudhaiya](https://open.spotify.com/track/6CJHEfXmn6x9j03oV1hABh) | [Pradeep Kumar](https://open.spotify.com/artist/3EZ1qFe0cWESoSi0aB7cdQ), [Vandana Srinivasan](https://open.spotify.com/artist/0aK5YwPtmSJ8g7nSEMPLJm), [Brindha Manickavasakan](https://open.spotify.com/artist/1xtEfIskJsreKcsNkwO55X), [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0) | [Etharkkum Thunindhavan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3eWiif4iU60XSSada84hhw) | 3:54 |
-| 36 | [Kutty Pattas](https://open.spotify.com/track/7AHKnQ6XB5l7GL4pTJWLZn) | [Santhosh Dhayanidhi](https://open.spotify.com/artist/45W4EDnXayqLZPpJQJAKN3), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [Kutty Pattas](https://open.spotify.com/album/2Ea9r6jaWYTgPGUB5ipQDs) | 0:29 |
+| 36 | [Kutty Pattas](https://open.spotify.com/track/7AHKnQ6XB5l7GL4pTJWLZn) | [Santhosh Dhayanidhi](https://open.spotify.com/artist/45W4EDnXayqLZPpJQJAKN3), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [Kutty Pattas](https://open.spotify.com/album/2Ea9r6jaWYTgPGUB5ipQDs) | 3:59 |
 | 37 | [Thiraiyoadu Thoorigai \(From "Radhe Shyam"\)](https://open.spotify.com/track/7obXTjMlADOJyIB6GjSgDw) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr) | [Thiraiyoadu Thoorigai \(From "Radhe Shyam"\)](https://open.spotify.com/album/5Kgd1s63hF3ZfzKFT01ifd) | 4:54 |
 | 38 | [Saara Kaattrae \(From "Annaatthe"\)](https://open.spotify.com/track/2fln1y4AGWnEclguilGaca) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Saara Kaattrae \(From "Annaatthe"\)](https://open.spotify.com/album/1eBXLAdEXKoXPYZiyQtcuD) | 4:07 |
 | 39 | [Arakkiyae \(From "Anbarivu"\)](https://open.spotify.com/track/5TCmpwdXWcTvUvX52tHuOa) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Arakkiyae \(From "Anbarivu"\)](https://open.spotify.com/album/5wGTuwwxCEhotwZpDTs6nL) | 3:01 |

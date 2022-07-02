@@ -4,7 +4,7 @@
 
 > Your guide to what's hot in Austin, TX during South By Southwest 2017\. Cover: <a href="spotify:artist:4NZvixzsSefsNiIqXn0NDe">Maggie Rogers</a>.
 
-62 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/6mfoCYkJ8cB0ccTo1yXGqm)
+62 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/6mfoCYkJ8cB0ccTo1yXGqm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Cool Blue](https://open.spotify.com/track/0Lbe98RKWwBbu1sipPSa4n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Clean](https://open.spotify.com/album/4T1o6BUMpITeK7DfE5qZqp) | 3:51 | 2017-03-15 |  |
 | [Cringe](https://open.spotify.com/track/0hy48SusJtyhy4DNB2rEaS) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Cringe](https://open.spotify.com/album/478ANbJC5ILBK4tqZpe2i7) | 3:36 | 2017-03-15 |  |
 | [Dante's Creek](https://open.spotify.com/track/3RWrguFf3z2OPrUQyfwaIJ) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Dante's Creek](https://open.spotify.com/album/04EOwnoXQlwaH7cYupBOsP) | 3:02 | 2017-03-15 |  |
-| [Different](https://open.spotify.com/track/7dES51jQZhXiD0XNHfkY2S) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Different](https://open.spotify.com/album/2jFsGLCuSiTH9zyDUtQDUf) | 0:29 | 2017-02-27 |  |
+| [Different](https://open.spotify.com/track/7dES51jQZhXiD0XNHfkY2S) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Different](https://open.spotify.com/album/2jFsGLCuSiTH9zyDUtQDUf) | 3:02 | 2017-02-27 |  |
 | [Don't Kill My Vibe](https://open.spotify.com/track/1jbguX18Gtjm0UwVsLRIFT) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Don't Kill My Vibe](https://open.spotify.com/album/2nXomRUHGA5cYyGHZyQ7HF) | 3:04 | 2017-03-12 |  |
 | [Don't Stay Away \(feat\. Naations\)](https://open.spotify.com/track/2FlUBiGa1DhDZbroUa0Vb3) | [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5), [NAATIONS](https://open.spotify.com/artist/6mpxgK8EZh8VDoe6trGF0f) | [Don't Stay Away \- EP](https://open.spotify.com/album/4hfKYxN00xgVEipyn4whfF) | 2:26 | 2017-02-27 |  |
 | [Down](https://open.spotify.com/track/5eCkuGPZNl4mISFNPgr3Dd) | [Marian Hill](https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5) | [ACT ONE](https://open.spotify.com/album/5laClXclOn3sCQOWKqFohJ) | 3:17 | 2017-03-15 |  |
@@ -48,7 +48,7 @@
 | [No Scrubs \(feat\. Jon Santana\)](https://open.spotify.com/track/1GLzCv2crATQgyUGdN94c3) | [Cappa](https://open.spotify.com/artist/1LCPvGsQVJUQE8oyIRihHh), [Jon Santana](https://open.spotify.com/artist/05XxXeBmy0Kge0WdgDfj05) | [No Scrubs \(feat\. Jon Santana\)](https://open.spotify.com/album/5as05Dv2Svm5DJzh3gzKfX) | 3:34 | 2017-03-15 |  |
 | [Ocean Eyes \- Astronomyy Remix](https://open.spotify.com/track/6NOq79ynBpBi6BSJMdgReN) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Astronomyy](https://open.spotify.com/artist/3EpmmPtV7DduqNmeqaADIm) | [Ocean Eyes \(The Remixes\)](https://open.spotify.com/album/44OSkEmvHwdTFhPBCewIks) | 4:56 | 2017-03-15 |  |
 | [Oceans Away](https://open.spotify.com/track/4NJpJ17Dgm5r4OYExFbxLk) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Oceans Away](https://open.spotify.com/album/4JXvWkSdccqwwRJBVvF4Oq) | 3:13 | 2017-03-02 |  |
-| [On + Off](https://open.spotify.com/track/6HzDEVbfnDD1p0qFKqiZWU) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Now That The Light Is Fading](https://open.spotify.com/album/16wZsyXQ463IYlrXyJnRfY) | 0:29 | 2017-02-27 |  |
+| [On + Off](https://open.spotify.com/track/6HzDEVbfnDD1p0qFKqiZWU) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Now That The Light Is Fading](https://open.spotify.com/album/16wZsyXQ463IYlrXyJnRfY) | 3:41 | 2017-02-27 |  |
 | [One Step At A Time \(feat\. Natalola\)](https://open.spotify.com/track/0TzWLXV3gnCqTSzOYrLs8h) | [Bearson](https://open.spotify.com/artist/3SPEPveuGIJZQPCHmNg4wg), [Nat Dunn](https://open.spotify.com/artist/6uNiUxDeo17yUnA472Zhni) | [One Step At A Time \(feat\. Natalola\)](https://open.spotify.com/album/1qIIi6k7zgXi5gDZ4yr6Q5) | 3:15 | 2017-02-27 |  |
 | [Out Of My System](https://open.spotify.com/track/4MUNZkVe0VfomuSgY1EJun) | [Youngr](https://open.spotify.com/artist/5TrkbV9x6OdTBlzWPJeBz5) | [Out Of My System](https://open.spotify.com/album/6JUiJmrHbaag8LP3SXcC2F) | 3:23 | 2017-02-27 |  |
 | [Painting \(Masterpiece\)](https://open.spotify.com/track/4kK14radw0XfwxJDPt9tnP) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Lewis Del Mar](https://open.spotify.com/album/7BKGTpCWDwTCeHnlLFcfLJ) | 4:03 | 2017-03-12 |  |

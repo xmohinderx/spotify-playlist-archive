@@ -4,7 +4,7 @@
 
 > 01110000 01101100 01100001 01111001 01101100 01101001 01110011 01110100
 
-90 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/3QfjFdmBC3jioryCEPHkRe)
+91 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/3QfjFdmBC3jioryCEPHkRe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Brian is the Most Beautiful](https://open.spotify.com/track/1YkMJr3IwSLmMpcsBI5KWS) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/4Ei52mFcaEtc4yrQAPGS8w) | 3:45 | 2022-05-19 |  |
 | [Bulbform](https://open.spotify.com/track/5c5LFrdYFQSyb5gIUiVCY9) | [TR/ST](https://open.spotify.com/artist/64NhyHqRKYhV0IZylrElWu) | [TRST](https://open.spotify.com/album/5QYWYA7xLfaWdK0WKrreRK) | 4:49 | 2022-05-19 |  |
 | [Bury](https://open.spotify.com/track/4336Bwzy1TUIGZeO7YKfxG) | [Mire.](https://open.spotify.com/artist/1tERo1AaIEC4X7PKG8futp) | [A Meaning of Love](https://open.spotify.com/album/0TgDjPWkpbfdu2RkyKAy3a) | 3:55 | 2022-05-19 |  |
+| [Business Class](https://open.spotify.com/track/6562NxLaKG87YFbsUHFBKu) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [Business Class](https://open.spotify.com/album/6Q73cei1BLUT7RdFR7dDvX) | 4:42 | 2022-07-01 |  |
 | [Chrome Country](https://open.spotify.com/track/5G54EXkOheyrrT3CDM07Mm) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [R Plus Seven](https://open.spotify.com/album/68PRq4zj7YXMwiUq6FNGvR) | 5:05 | 2022-05-19 |  |
 | [Core](https://open.spotify.com/track/6Knx4Tp8hE7IlYtde2dCYI) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP) | [VOID](https://open.spotify.com/album/5UWAfUBImV6jcswkXkXZOs) | 3:56 | 2022-05-19 |  |
 | [Crimewave](https://open.spotify.com/track/3TjliM0xQ3fkza0RpINRrq) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 4:18 | 2022-05-19 |  |
@@ -80,7 +81,7 @@
 | [Some Minds \(feat\. Andrew Wyatt\)](https://open.spotify.com/track/65oGVYJfdT6mYIdmmb6q3c) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Andrew Wyatt](https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm) | [Some Minds \(feat\. Andrew Wyatt\)](https://open.spotify.com/album/63SwZU3t9Bqb45SVWoPprT) | 4:23 | 2022-05-19 |  |
 | [Someday](https://open.spotify.com/track/7LA4E5n1SvGb2Srzh6bCZ8) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [The Weight](https://open.spotify.com/album/5zB9HVERRys2UNiyNszxIP) | 5:44 | 2022-05-19 |  |
 | [Spaced](https://open.spotify.com/track/4dz8WzdifDQPWqHq2jWRKA) | [The Toxic Avenger](https://open.spotify.com/artist/5zExRf0VQCl3GO4Jrj8r0s) | [Globe, Vol\. 3](https://open.spotify.com/album/0vSQUrgafUyXCBaDiReL4q) | 4:48 | 2022-05-19 |  |
-| [Stress](https://open.spotify.com/track/1YdbiBOWvFUi6Zko3HXyEG) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 4:58 | 2022-05-19 |  |
+| [Stress](https://open.spotify.com/track/1YdbiBOWvFUi6Zko3HXyEG) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 4:58 | 2022-05-19 | 2022-07-02 |
 | [Suffer With Me](https://open.spotify.com/track/3nfj9Fdbl30TvcZE9sU0Vx) | [líue](https://open.spotify.com/artist/3xFXCUS8RN65oCwsO4PJRI) | [Suffer With Me](https://open.spotify.com/album/6G8FJ9OgqUFa5p7qxhAqki) | 3:27 | 2022-05-19 |  |
 | [Sulk](https://open.spotify.com/track/1CuNAntYhT2j6LNJoIEfF4) | [TR/ST](https://open.spotify.com/artist/64NhyHqRKYhV0IZylrElWu) | [TRST](https://open.spotify.com/album/5QYWYA7xLfaWdK0WKrreRK) | 6:17 | 2022-05-19 |  |
 | [Sweet Dreams \(Are Made of This\) \- Remastered](https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY) | 3:36 | 2022-05-19 |  |

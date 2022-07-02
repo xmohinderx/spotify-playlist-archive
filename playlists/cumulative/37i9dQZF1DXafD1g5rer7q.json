@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 156774,
       "name": "1999 (I Wanna Go Back)",
       "url": "https://open.spotify.com/track/4LXXrqp6zXLI7JyZpdY1wF"
@@ -85,7 +85,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 158709,
       "name": "Another You (feat. The Vamps)",
       "url": "https://open.spotify.com/track/2OPCGQHz6Gi7U7aDShfhR8"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 190080,
       "name": "Candy Shop (feat. James Wilson & Irma) - ManyFew Remix",
       "url": "https://open.spotify.com/track/27S6T3IK5tt0m5VOb6HzA7"
@@ -439,7 +439,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 203225,
       "name": "Creep",
       "url": "https://open.spotify.com/track/7CEIFwLf4XmFz8okORSizE"
@@ -543,7 +543,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 161294,
       "name": "DayDream",
       "url": "https://open.spotify.com/track/1MKQj677S3V9umUj7Eip0t"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 161280,
       "name": "Disturbia",
       "url": "https://open.spotify.com/track/37DVyKUzBMXu6HvMoGoYDk"
@@ -767,7 +767,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 184838,
       "name": "Everybody Wants To Party",
       "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
@@ -816,7 +816,7 @@
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 151680,
       "name": "Faded",
       "url": "https://open.spotify.com/track/6ioF5JQREw0LPPTW9czakA"
     },
@@ -1111,7 +1111,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 148392,
       "name": "Gone Tomorrow",
       "url": "https://open.spotify.com/track/4WXJttCW2oufmQMrMoxjDx"
@@ -1273,7 +1273,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 260509,
       "name": "High On You - dEVOLVE Remix",
       "url": "https://open.spotify.com/track/3saz9bCErSnjxUtebvPuqH"
@@ -1391,7 +1391,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 174500,
       "name": "Iko Iko (My Bestie) (feat. Small Jam) - Imanbek Remix",
       "url": "https://open.spotify.com/track/7K6HPAoJ4odzjOAgciJUqg"
@@ -1439,7 +1439,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 156960,
       "name": "ily (i love you baby) (Topic Remix) [feat. Emilee]",
       "url": "https://open.spotify.com/track/4TpXLhpLYQPMHM1A8W9J84"
@@ -1461,7 +1461,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 199764,
       "name": "In & Out",
       "url": "https://open.spotify.com/track/7HCXtYPQka5aa8DflAUZI2"
@@ -1567,7 +1567,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 174406,
       "name": "Life",
       "url": "https://open.spotify.com/track/1JmrB1mUq9BislMIDHjlJu"
@@ -1637,7 +1637,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 180233,
       "name": "Makes Me Feel This Way",
       "url": "https://open.spotify.com/track/0d3aYLE4tPWtCDdM3ibmRY"
@@ -1659,6 +1659,24 @@
       "duration_ms": 161593,
       "name": "Mind Blown",
       "url": "https://open.spotify.com/track/7oahNRcO0CxOOQWlqpuH40"
+    },
+    {
+      "album": {
+        "name": "Move Up",
+        "url": "https://open.spotify.com/album/0iX0mDDPY7A5ayoPza4tpK"
+      },
+      "artists": [
+        {
+          "name": "Autograf",
+          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Move Up",
+      "url": "https://open.spotify.com/track/1wyg0x1IvNNSWv8JWxKpRn"
     },
     {
       "album": {
@@ -1757,7 +1775,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 181741,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/4kd8NJrrfzzPvarSre2yAu"
@@ -2001,7 +2019,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 167822,
       "name": "Poppin Bottles",
       "url": "https://open.spotify.com/track/2FIa0Zmilui8GpApF3vF1a"
@@ -2369,7 +2387,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 159360,
       "name": "Start Over Again (feat. Vula)",
       "url": "https://open.spotify.com/track/63ihmOkC4b2lsglpPG9GoU"
@@ -2417,7 +2435,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 155000,
       "name": "Sunglasses At Night",
       "url": "https://open.spotify.com/track/0Zst3tJ1WhBLfmISlV9JKZ"
@@ -2505,7 +2523,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 134442,
       "name": "That Feeling (feat. Hayley May)",
       "url": "https://open.spotify.com/track/7clsGP3ea7rhBaEK9ga898"
@@ -2821,7 +2839,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 165048,
       "name": "What It Feels Like",
       "url": "https://open.spotify.com/track/24Rt28AO3fHK3Svg2fDsmV"
@@ -2883,7 +2901,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 146666,
       "name": "Work That Trunk (with MOTi)",
       "url": "https://open.spotify.com/track/77EhqUJMLbAq6qFp2Kqp13"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1o2bTwofazfzElA5mXGf2t.md) - [plain]
 
 > From denial and pleading to anger and acceptance, this genre\-blending playlist will carry you through each stage of your breakup blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217 likes - 43 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 217 likes - 43 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/1o2bTwofazfzElA5mXGf2t.md) - [plain]
 | 11 | [Blue Moon](https://open.spotify.com/track/4uIOpk5ih0Ui3a9pBwGKHn) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Blue Moon](https://open.spotify.com/album/13XvLU3zkNevaDY6WOfe93) | 4:02 |
 | 12 | [9 Crimes](https://open.spotify.com/track/08YEGpKt2LHJ0URCXKHEie) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [9](https://open.spotify.com/album/4B7O0E5V0ntVTz41tCfPdF) | 3:39 |
 | 13 | [Somebody That I Used To Know](https://open.spotify.com/track/1qDrWA6lyx8cLECdZE7TV7) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/4G2rJNhsKOE6iHgtUqZ0Ye) | 4:04 |
-| 14 | [Potential Breakup Song](https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 0:29 |
+| 14 | [Potential Breakup Song](https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 3:39 |
 | 15 | [A Thoroughly Modern Breakup](https://open.spotify.com/track/7G4IYIhUYBYo5967tp2FW6) | [Mr.B The Gentleman Rhymer](https://open.spotify.com/artist/0ilsDGmlSM7nHPJgbOX0A9) | [O.G\. Original Gentleman](https://open.spotify.com/album/7vJRdw4u5V83dtTdGgLLso) | 2:09 |
-| 16 | [Blame It On The Breakup](https://open.spotify.com/track/3El9QD3z0EEKn3b38OuMZP) | [Low Volts](https://open.spotify.com/artist/3PxUwSSsVaW0XyBiRJF2oS) | [Twist Shake Grind Break](https://open.spotify.com/album/0gNmg8hzKJurZytJsoca6U) | 0:29 |
+| 16 | [Blame It On The Breakup](https://open.spotify.com/track/3El9QD3z0EEKn3b38OuMZP) | [Low Volts](https://open.spotify.com/artist/3PxUwSSsVaW0XyBiRJF2oS) | [Twist Shake Grind Break](https://open.spotify.com/album/0gNmg8hzKJurZytJsoca6U) | 1:18 |
 | 17 | [Bang Bang \(My Baby Shot Me Down\)](https://open.spotify.com/track/4Sqg63Kx6nE5o6R1aA80p4) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Valentine's Day Massacre: Breakup Songs](https://open.spotify.com/album/6waAppjgNshXF7jRb9OKUW) | 2:42 |
 | 18 | [The Breakup](https://open.spotify.com/track/66IHt7Ev7AmtfW1TLmbBqh) | [Fleeting Joys](https://open.spotify.com/artist/314EDjJCQdcNfzwefA7daH) | [Despondent Transponder](https://open.spotify.com/album/3Crg8b3vGdMBH6a7rGBtN9) | 5:20 |
 | 19 | [Just Another Breakup Song](https://open.spotify.com/track/1Hdm1EUw5rhyiwvLIRiqIL) | [Tigirlily](https://open.spotify.com/artist/7svOgAS4qeCt0uW0tgPckm) | [Good Place to Start](https://open.spotify.com/album/7FnUlxUgD2ARwxVGWhaYfS) | 2:56 |

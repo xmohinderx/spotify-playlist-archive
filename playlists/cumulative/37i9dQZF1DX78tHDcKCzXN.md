@@ -4,7 +4,7 @@
 
 > NCTzens! Sticker is here!
 
-64 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/4sV5zpts2Ks9RxeBvmHERq)
+64 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/4sV5zpts2Ks9RxeBvmHERq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Superhuman](https://open.spotify.com/track/0TU7xhMfZbI1okpLyHptFV) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 WE ARE SUPERHUMAN \- The 4th Mini Album](https://open.spotify.com/album/15DNWLVXy5ES2USQ1PFnF5) | 3:57 | 2021-10-25 |  |
 | [Switch \- Bonus Track](https://open.spotify.com/track/2xL2yWZsd3cvEk4heGkctC) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH), [SR15B](https://open.spotify.com/artist/1zhkYR8PTdyZhOlJGmPv5e) | [NCT \#127 \- The 1st Mini Album](https://open.spotify.com/album/7xmqXxPAmkgn5HK9FcyBxR) | 3:04 | 2021-10-25 |  |
 | [The Rainy Night](https://open.spotify.com/track/0AY4qmK5YRpqSpGsnjskDK) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:19 | 2021-10-25 |  |
-| [Wakey\-Wakey](https://open.spotify.com/track/147lM5htxXyaYuwDM1j3zl) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Awaken](https://open.spotify.com/album/5ZZi6WiDmPcTkx2Vx7n61Z) | 0:29 | 2021-10-25 |  |
+| [Wakey\-Wakey](https://open.spotify.com/track/147lM5htxXyaYuwDM1j3zl) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Awaken](https://open.spotify.com/album/5ZZi6WiDmPcTkx2Vx7n61Z) | 3:02 | 2021-10-25 |  |
 | [Welcome To My Playground](https://open.spotify.com/track/56f5GO8ir5ucrcQ00k4a8t) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Regulate \- The 1st Album Repackage](https://open.spotify.com/album/5iJsCigDROOTMgUpJ6ex2S) | 3:59 | 2021-10-25 |  |
 | [Whiplash](https://open.spotify.com/track/2iPxDFeN27VrKgGdZ0AIKw) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 CHERRY BOMB– The 3rd Mini Album](https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s) | 3:21 | 2021-10-25 |  |
 | [White Night](https://open.spotify.com/track/0gu1joxLlUJKmg2ZvGTaZF) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YHFKsjb0e5q8Smb2CBUl7) | 4:03 | 2021-10-25 |  |

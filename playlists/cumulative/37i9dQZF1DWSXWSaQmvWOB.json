@@ -1323,7 +1323,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 203840,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/6oNwXGQLCZS42nrdfYeT0I"
@@ -1559,7 +1559,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 246123,
       "name": "Compromise",
       "url": "https://open.spotify.com/track/2AmHr7dwgdScxcufpT9IGS"
@@ -2783,7 +2783,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 29048,
       "name": "Fuel to the Soul",
       "url": "https://open.spotify.com/track/4GYbEoWXcdQIlyGVXdtIT6"
@@ -7948,6 +7948,24 @@
     },
     {
       "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV"
+      },
+      "artists": [
+        {
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222496,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
+    },
+    {
+      "album": {
         "name": "Tell Me Why (feat. Sabri)",
         "url": "https://open.spotify.com/album/2zKqFkItWJB90sn1EKhNgu"
       },
@@ -8218,7 +8236,7 @@
       "date_added": "2021-07-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 210329,
+      "duration_ms": 29048,
       "name": "The Way That I Do",
       "url": "https://open.spotify.com/track/6Zx618hMvnGqGnQCSLXVbY"
     },
@@ -8236,7 +8254,7 @@
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 171000,
       "name": "These Fires",
       "url": "https://open.spotify.com/track/6owBVeLgPaKffX6OAOdM9d"
     },

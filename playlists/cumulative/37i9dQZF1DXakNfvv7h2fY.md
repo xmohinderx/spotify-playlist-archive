@@ -4,7 +4,7 @@
 
 > Rain keep a fallin’ round my window pane..\. Blues to warm the soul when there’s no point going outside.
 
-55 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/7oJ0v1QCs5RqWKmg8kv7zj)
+57 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/7oJ0v1QCs5RqWKmg8kv7zj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Can't Kick the Habit](https://open.spotify.com/track/7tQhQvPb7IENv3P7EvdvWr) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 3:43 | 2022-05-25 |  |
 | [Chains And Things](https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Indianola Mississippi Seeds](https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l) | 4:53 | 2022-05-25 |  |
 | [Cheatin' Woman](https://open.spotify.com/track/60sAnhCfK8tprPRwIKimoi) | [Wilbert Harrison](https://open.spotify.com/artist/7rETVFaF9VOFPmmzsY3kO6) | [The Essential Wilbert Harrison](https://open.spotify.com/album/5mOlRGNmlz5TvbHRPauniG) | 3:37 | 2022-05-25 |  |
+| [Chop! Chop!](https://open.spotify.com/track/0GKR7py5cFS598Qr2ueDxq) | [Charles Williams](https://open.spotify.com/artist/15592lDspISn6JFzKnmcQk) | [Trees, Grass and Things](https://open.spotify.com/album/0b8cDv6nV54vVcQQz3ycu8) | 4:37 | 2022-07-01 |  |
 | [Come Back Baby](https://open.spotify.com/track/5gzTrPtMxG44ZhuaR4hE2Y) | [John Primer](https://open.spotify.com/artist/1CePnHlc38UfIQovWgyzKP) | [The Real Deal](https://open.spotify.com/album/1aI7k455fkWA6fKq0UrUGV) | 4:54 | 2022-05-25 |  |
 | [Depression Blues](https://open.spotify.com/track/3KHGqtmQwiR24ze3UqSKaj) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [The Peacock Recordings: 1949\-1959](https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV) | 2:56 | 2022-05-25 |  |
 | [Five Long Years](https://open.spotify.com/track/5joO3RcUHeTMjasJrjVa9a) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Outta' Season](https://open.spotify.com/album/3oKjmBZzVdDLTQWI7vf5Jg) | 3:22 | 2022-05-25 |  |
@@ -63,5 +64,6 @@
 | [Trying So Hard to Forget](https://open.spotify.com/track/26tvejfVo4iDlMFJYy2vUg) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mr\. Wonderful](https://open.spotify.com/album/2yBjm0Jb8d8Oaor7F6ivyN) | 4:45 | 2022-05-25 |  |
 | [When The Welfare Turns Its Back On You](https://open.spotify.com/track/0TgqyhREoY6ZXQ1pA6qo5J) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 5:26 | 2022-05-25 |  |
 | [You Shook Me](https://open.spotify.com/track/1xns0tyPRpOrODwND6ELTF) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [I Am The Blues](https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N) | 4:15 | 2022-05-25 |  |
+| [Your Mind Is on Vacation](https://open.spotify.com/track/1GEf45ad9tT9njeDYw9WPx) | [Mose Allison](https://open.spotify.com/artist/0sN4enVJwylJKEXZlSbgsm) | [I Don't Worry About A Thing](https://open.spotify.com/album/58vFtbiyFPwDKwdhRI5D4V) | 2:37 | 2022-07-01 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

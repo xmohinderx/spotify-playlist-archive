@@ -4,14 +4,14 @@
 
 > Music from the early days of Ambient.
 
-47 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/71Cz0OyglZmhU8EyYAjCR6)
+47 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/71Cz0OyglZmhU8EyYAjCR6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2\. Satz: Gewitter \(Energy Rise \- Energy Collaps\)](https://open.spotify.com/track/5rlG4Fnws22Ecu6aXctE33) | [Klaus Schulze](https://open.spotify.com/artist/3U2U4TR03ZuStsizrv0EJB) | [Irrlicht \(Remastered 2017\)](https://open.spotify.com/album/6G1eYsIgEbtpXIDFQqIYUb) | 5:38 | 2021-12-23 |  |
 | [2/1 \- Remastered 2004](https://open.spotify.com/track/1Qr6LFKNBFNNa2y6nMDO31) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 8:54 | 2021-12-23 |  |
 | [2/2 \- Remastered 2004](https://open.spotify.com/track/3QpN3dazIcMNqru0L1qLMt) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 9:38 | 2021-12-23 |  |
-| [Ahoi](https://open.spotify.com/track/13CJ6xGmEhTyMkFBQVGimJ) | [Harmonia](https://open.spotify.com/artist/0tHDVpPzMs1JqKTAuGQkQR) | [Musik Von Harmonia](https://open.spotify.com/album/4rfEDCRHa4TR9EtjHJpWge) | 0:29 | 2021-12-23 |  |
+| [Ahoi](https://open.spotify.com/track/13CJ6xGmEhTyMkFBQVGimJ) | [Harmonia](https://open.spotify.com/artist/0tHDVpPzMs1JqKTAuGQkQR) | [Musik Von Harmonia](https://open.spotify.com/album/4rfEDCRHa4TR9EtjHJpWge) | 5:13 | 2021-12-23 |  |
 | [An Index Of Metals V](https://open.spotify.com/track/6eoQETbC7HlbRUOSQg5rHB) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 4:23 | 2021-12-23 |  |
 | [Ancient Leaves](https://open.spotify.com/track/1XWKSNngAvp3hs6w3cFWAs) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Collected Ambient & Textural Works 1977\-1987](https://open.spotify.com/album/0qTBGDCJp6R5BraUlhZlXq) | 4:35 | 2021-12-23 |  |
 | [Aries](https://open.spotify.com/track/33Y2YALzXqMQtBVSDcHOof) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Inter\-Dimensional Music](https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr) | 1:31 | 2021-12-23 |  |
@@ -24,7 +24,7 @@
 | [Für Luise](https://open.spotify.com/track/2LwDYNc1Jdr0YdGgCD9yZA) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 3:26 | 2021-12-23 |  |
 | [Garden Of Paradise](https://open.spotify.com/track/4lNSQYwalYgYczSXfW72UI) | [Steve Hillage](https://open.spotify.com/artist/4ruO9Y424Hf796fUGMLKcC) | [Rainbow Dome Musick](https://open.spotify.com/album/4g631XQPF1MQrY5znRrc8D) | 23:14 | 2021-12-23 |  |
 | [Gloaming](https://open.spotify.com/track/56ARoXVByxL6Op5XTWa6qa) | [Ernest Hood](https://open.spotify.com/artist/0f5dQ7uAYmopoRAEF4VHo2) | [Neighborhoods](https://open.spotify.com/album/7N32BcLkZxz9CWOSEHSSKk) | 8:32 | 2021-12-23 |  |
-| [In Ewigkeit](https://open.spotify.com/track/6OI7uCuLdKk8QNzjVr26XA) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Sowiesoso](https://open.spotify.com/album/4QAH6e1Mi25uNXvvJTCneV) | 0:29 | 2021-12-23 |  |
+| [In Ewigkeit](https://open.spotify.com/track/6OI7uCuLdKk8QNzjVr26XA) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Sowiesoso](https://open.spotify.com/album/4QAH6e1Mi25uNXvvJTCneV) | 7:24 | 2021-12-23 |  |
 | [La mer recommencée \- Remastered](https://open.spotify.com/track/2E5pG7BvL5miMCqe3xNORg) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [L'apocalypse des animaux \(Remastered\)](https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD) | 5:54 | 2021-12-23 |  |
 | [Last Not Least](https://open.spotify.com/track/4msoPisSMcp5m46BF36Hvy) | [Klaus Schulze](https://open.spotify.com/artist/3U2U4TR03ZuStsizrv0EJB) | [La Vie Electronique, Vol\. 2](https://open.spotify.com/album/1yZOrl7EsWSLgX0VZ05Qq8) | 7:01 | 2021-12-23 |  |
 | [Le singe bleu \- Remastered](https://open.spotify.com/track/4QNTuaDSBZTg7sKEF8zXf4) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [L'apocalypse des animaux \(Remastered\)](https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD) | 7:40 | 2021-12-23 |  |

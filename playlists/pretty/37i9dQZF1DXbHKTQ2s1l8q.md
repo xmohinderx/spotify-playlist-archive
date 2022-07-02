@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHKTQ2s1l8q.md) - [plain]
 
 > Beachy, acoustic tunes for lazy summer days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,183 likes - 103 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,190 likes - 103 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHKTQ2s1l8q.md) - [plain]
 | 7 | [Your Letter Made Me Smile](https://open.spotify.com/track/38nJhWtNoSagRzd7IWaqFi) | [Oliver Young](https://open.spotify.com/artist/1v27VC8z9CqB2tpHBzZ0xv) | [Just One Step At A Time](https://open.spotify.com/album/49pNKyGqE0DIc9vF9XVjGp) | 4:23 |
 | 8 | [The Bones](https://open.spotify.com/track/2iscuzrTQy4BNduk41rwC8) | [Dev Lin](https://open.spotify.com/artist/5Qz8NfhvVepyU3JXyLQq88) | [Riptide](https://open.spotify.com/album/7AWubZyMIE5eGvfG9UiOhV) | 3:24 |
 | 9 | [Bossa for Baden](https://open.spotify.com/track/0xp48lPf2ngBBC9CgW9LE6) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Botafogo](https://open.spotify.com/album/4RiZs4dwqI2Jybd4nHL59H) | 3:09 |
-| 10 | [Don't Belong Anywhere](https://open.spotify.com/track/6ehsAZzWS6dADcl5bQ5Hyb) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Don't Belong Anywhere](https://open.spotify.com/album/1qdJJiWx2rAQBmHJIo4Bgj) | 0:29 |
+| 10 | [Don't Belong Anywhere](https://open.spotify.com/track/6ehsAZzWS6dADcl5bQ5Hyb) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Don't Belong Anywhere](https://open.spotify.com/album/1qdJJiWx2rAQBmHJIo4Bgj) | 3:53 |
 | 11 | [Pegasi](https://open.spotify.com/track/1j1LCMYDvPMho2uWB5qdUg) | [Hugo Lemieux](https://open.spotify.com/artist/0jeKJVRZWoZzS4uZCOAC9g) | [Cycling](https://open.spotify.com/album/7LZX5Bublv8SEqy0A9lyuM) | 2:18 |
 | 12 | [Mirabella](https://open.spotify.com/track/7aRXzPNyUh0hLLJJ3oA1ry) | [Oleks Rudenko](https://open.spotify.com/artist/32r7SszS0EjJeiaeue1Fnc) | [Mirabella](https://open.spotify.com/album/1r9ghXZTQnM5TncbR8iCJU) | 3:19 |
 | 13 | [Don't Worry Be Happy](https://open.spotify.com/track/4CGLkQhF9G2aTExZChONix) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Don't Worry Be Happy / Let It Be](https://open.spotify.com/album/1ydxRAszbsOi1V9SMWsoP8) | 5:22 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHKTQ2s1l8q.md) - [plain]
 | 19 | [Volition](https://open.spotify.com/track/7MnW1eLaCPKhssI9Pq44l6) | [Julian Pereira](https://open.spotify.com/artist/1t4ZlQTc5HH5YMylnyDnBT) | [Volition](https://open.spotify.com/album/15Ac5DJYCoK5LPeDmO8kP5) | 1:52 |
 | 20 | [Soak up the Sun](https://open.spotify.com/track/1BT8IDlFYmMel8FidLu0oK) | [The Smooth Day Sessions](https://open.spotify.com/artist/7nlyKpx26nRLVda7O4NEA5) | [Ukulele Surf Style \(Acoustic Style Covers\)](https://open.spotify.com/album/73ReNL7RJuuQppRERCQqOd) | 3:16 |
 | 21 | [A Whole New World](https://open.spotify.com/track/7op9X5ZYlq9UdauKylkaHH) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [A Whole New World](https://open.spotify.com/album/7xBiLnPeo8O8Wy1JxIe9AI) | 2:40 |
-| 22 | [Frozen Caipirinha](https://open.spotify.com/track/0rl1WFFKnRVG0tDlrB2vJU) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Frozen Caipirinha](https://open.spotify.com/album/3OXLuVmNEUvts49jtiSqw4) | 3:11 |
+| 22 | [Frozen Caipirinha](https://open.spotify.com/track/0rl1WFFKnRVG0tDlrB2vJU) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Frozen Caipirinha](https://open.spotify.com/album/3OXLuVmNEUvts49jtiSqw4) | 0:29 |
 | 23 | [Kahakai](https://open.spotify.com/track/2cX6M5AO0xQAaZtXtHgwYj) | [Wave Catchers](https://open.spotify.com/artist/666Y0fEHAFWPzV1iznA7RA) | [Kahakai](https://open.spotify.com/album/0fTMgwOLelHGCctAZYUfzR) | 2:21 |
 | 24 | [Colors](https://open.spotify.com/track/6nbEqrP3sm08UJ7fBgjEqM) | [Alex Miracone](https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh) | [Colors](https://open.spotify.com/album/7soao7wkz07f7w3EZn7p6Q) | 3:02 |
 | 25 | [A Thousand Years](https://open.spotify.com/track/4nhlQ1y76rSqrQs0SZwylA) | [Michael Sharon](https://open.spotify.com/artist/3nwEO3bnbLWk2QGHo7JSvm) | [Uke Classics](https://open.spotify.com/album/27AhRs4C9zr6daRn8f0ckn) | 4:43 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xGWOQUB6jgHd4PLVQvbfG.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 90 likes - 20 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 90 likes - 20 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/3xGWOQUB6jgHd4PLVQvbfG.md) - [plain]
 | 7 | [Cruise](https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Here's To The Good Times](https://open.spotify.com/album/5MH765pytbQasmDxXArTah) | 3:28 |
 | 8 | [I Love It \(feat\. Charli XCX\)](https://open.spotify.com/track/3VZQshi4COChhXaz7cLP02) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [I Love It](https://open.spotify.com/album/5hf74KpfuwSJXVs85k3dVI) | 2:35 |
 | 9 | [My Songs Know What You Did In The Dark \(Light Em Up\)](https://open.spotify.com/track/2COhljkZObSdthS0NG5s3B) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [My Songs Know What You Did In The Dark \(Light Em Up\)](https://open.spotify.com/album/0L56YbQhfJpw5XhXM3Jrxh) | 3:08 |
-| 10 | [The Other Side](https://open.spotify.com/track/4CLZ3D2RCI5ZCfB51D6NwB) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [The Other Side](https://open.spotify.com/album/2ejPQTLiU87009N1BG2Th0) | 0:29 |
+| 10 | [The Other Side](https://open.spotify.com/track/4CLZ3D2RCI5ZCfB51D6NwB) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [The Other Side](https://open.spotify.com/album/2ejPQTLiU87009N1BG2Th0) | 3:46 |
 | 11 | [Clarity](https://open.spotify.com/track/0VGrgE7GbWaINRnh1bR4k9) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [Clarity](https://open.spotify.com/album/0C6m4LiyUwsLI0eK6kJyeh) | 4:31 |
 | 12 | [Treasure](https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 2:58 |
 | 13 | [Just Give Me a Reason](https://open.spotify.com/track/1qHaLcG3LOeh6ZB8vii5ZZ) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Nate Ruess](https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ) | [The Truth About Love](https://open.spotify.com/album/2rBb9rAEuMC8VH9uk7js3e) | 4:02 |

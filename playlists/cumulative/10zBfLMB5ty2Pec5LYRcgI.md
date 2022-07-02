@@ -4,7 +4,7 @@
 
 > 
 
-27 songs - 1 hr 48 min - [published](https://open.spotify.com/playlist/6pqUpRdRcvTg7qiwRNHvMZ)
+27 songs - 1 hr 52 min - [published](https://open.spotify.com/playlist/6pqUpRdRcvTg7qiwRNHvMZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [My God](https://open.spotify.com/track/1bAyhhi49qRGBfPADwJ3ts) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [My God](https://open.spotify.com/album/62mClO5skiQRndiTlOV6gZ) | 3:36 | 2013-07-18 |  |
 | [N.Y\. State of Mind](https://open.spotify.com/track/7vX0URwYs1nqPfPnJ2qCrS) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Greatest Hits](https://open.spotify.com/album/3SITIrdryEpRSRvdEpRToQ) | 4:52 | 2013-07-18 |  |
 | [Nightmares Of The Bottom](https://open.spotify.com/track/37sImz0wkOcX1cMWzo080d) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter IV \(Deluxe\)](https://open.spotify.com/album/1uuSC0RCJB3dSp8Mb6GflZ) | 4:41 | 2013-07-18 |  |
-| [No New Friends \- SFTB Remix](https://open.spotify.com/track/1jZi8HvWkfWIQcmlxmqber) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [No New Friends \(SFTB Remix\)](https://open.spotify.com/album/0miqsmiM9kOTvkAwgvrFV8) | 0:29 | 2013-07-18 |  |
+| [No New Friends \- SFTB Remix](https://open.spotify.com/track/1jZi8HvWkfWIQcmlxmqber) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [No New Friends \(SFTB Remix\)](https://open.spotify.com/album/0miqsmiM9kOTvkAwgvrFV8) | 5:07 | 2013-07-18 |  |
 | [Ooh Ahh \(My Life Be Like\) \(feat\. Toby Mac\)](https://open.spotify.com/track/1iUoWD9qE93GyoT80O5IKt) | [Grits](https://open.spotify.com/artist/6aUgzC0cMh0StjV7LyFEDr), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [The Art of Translation](https://open.spotify.com/album/5WAGBm7u5rnDz0veMVF0zA) | 3:53 | 2013-07-19 |  |
 | [Pain \- Edited Version](https://open.spotify.com/track/3yc65w3lincFanvea3tf22) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Pain](https://open.spotify.com/album/230MDf4KnsnFDxXB617AKe) | 4:10 | 2013-07-18 |  |
 | [Started From the Bottom \- Edited Version](https://open.spotify.com/track/0pLkLdCVJyt2yR53L1JdAu) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Started From the Bottom \(Edited Version\)](https://open.spotify.com/album/5rcHodcxBk6N59OjRBDQfx) | 2:53 | 2013-07-18 |  |

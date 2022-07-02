@@ -907,7 +907,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 189880,
       "name": "Clap Your Hands",
       "url": "https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI"
@@ -1356,6 +1356,28 @@
     },
     {
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149516,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk"
+    },
+    {
+      "album": {
         "name": "Easy :)",
         "url": "https://open.spotify.com/album/1ZyP1Zl2G7SLJDy2QHwt4h"
       },
@@ -1552,7 +1574,7 @@
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 177523,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/51jBT10cge1QNFiDqwMLEa"
     },
@@ -2308,7 +2330,7 @@
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 208568,
       "name": "How Long Have You Been Away?",
       "url": "https://open.spotify.com/track/0W1jh3ExLv0nMvvmNJOBxh"
     },
@@ -4772,7 +4794,7 @@
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 192614,
       "name": "Temptation (feat. Elise LeGrow)",
       "url": "https://open.spotify.com/track/5nz5inh9IXoP7wwi2hi8kO"
     },

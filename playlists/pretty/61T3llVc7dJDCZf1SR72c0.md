@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61T3llVc7dJDCZf1SR72c0.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 910 likes - 28 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 910 likes - 28 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/61T3llVc7dJDCZf1SR72c0.md) - [plain]
 | 10 | [Waves](https://open.spotify.com/track/1fb6b2Mas9q2mWxJazzeRI) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Waves](https://open.spotify.com/album/2R6wefBXnMzCkRoqD7FdNk) | 3:33 |
 | 11 | [Hand Pistol](https://open.spotify.com/track/5vvYMFTofMtcyMS9CmBYRO) | [GRMLN](https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f) | [Empire](https://open.spotify.com/album/0DyDceUdgSjH119Fxfaprd) | 2:27 |
 | 12 | [Rich Blood](https://open.spotify.com/track/1R8pRYzLvpRtgDglBWotVD) | [Spanish Prisoners](https://open.spotify.com/artist/1np79cXxjY87jZbtt2d0mO) | [Gold Fools](https://open.spotify.com/album/3KoZOsiw0U8515O6Ueullx) | 3:41 |
-| 13 | [Cheaters \(John Talabot's Classic Vocal Refix\)](https://open.spotify.com/track/6xSGgrkVzYGu9iCxaOKbTa) | [Teengirl Fantasy](https://open.spotify.com/artist/6Y7sP6UmEue4Ym3m5HqK8X) | [Cheaters Remixes](https://open.spotify.com/album/467lmII7b3TL7pV6fFkfMs) | 0:29 |
+| 13 | [Cheaters \(John Talabot's Classic Vocal Refix\)](https://open.spotify.com/track/6xSGgrkVzYGu9iCxaOKbTa) | [Teengirl Fantasy](https://open.spotify.com/artist/6Y7sP6UmEue4Ym3m5HqK8X) | [Cheaters Remixes](https://open.spotify.com/album/467lmII7b3TL7pV6fFkfMs) | 7:01 |
 | 14 | [Where Do You Run To](https://open.spotify.com/track/1ImdBUOBB4DvOOUTXgnzDJ) | [Vivian Girls](https://open.spotify.com/artist/0WkO9Px6qQCM7so8lYvaCv) | [Vivian Girls](https://open.spotify.com/album/0SPJvYiT9flvWZfVdvj9CU) | 3:15 |
 | 15 | [Wakin on a Pretty Day](https://open.spotify.com/track/3cSlU4ZH4wzb5pM7wI1k3f) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Wakin On A Pretty Daze](https://open.spotify.com/album/2imxOfDIDk2voAYCZP88u2) | 9:30 |
 | 16 | [Stoned and Starving](https://open.spotify.com/track/1NyTUDcWBYPCUxeY3UKbpD) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Light Up Gold](https://open.spotify.com/album/7p1ydiRQ7EOYgp4iWPdG3n) | 5:11 |

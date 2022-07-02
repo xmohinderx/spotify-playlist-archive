@@ -4,7 +4,7 @@
 
 > Svensk jazz när den är som bäst.
 
-96 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/6qZTArQLQuNPHxbD40Nm9v)
+96 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/6qZTArQLQuNPHxbD40Nm9v)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Ma](https://open.spotify.com/track/5gKTtGBur3s7n5FBePUYZn) | [Lars Gullin](https://open.spotify.com/artist/4gquwMHteaMQ0ZQOMj9CsI) | [Fäbodjazz](https://open.spotify.com/album/698BkVjPZ6aBbp4OP1jLyW) | 5:45 | 2021-11-08 |  |
 | [Med ögon känsliga för grönt](https://open.spotify.com/track/3CBzqx1pnfeI2L7GlIOny0) | [Nannie Porres](https://open.spotify.com/artist/6IboNBnbFipQmDMFJ30tEk) | [Nära](https://open.spotify.com/album/6HjPtJzVZVuRuXLPHqPOQx) | 4:59 | 2021-11-08 |  |
 | [Min bild](https://open.spotify.com/track/0Mj8pe6EAvO6tm73gLfcCI) | [Amanda Ginsburg](https://open.spotify.com/artist/0WnqhdeUWBRldiZFW83Ahj) | [I det lilla händer det mesta](https://open.spotify.com/album/6vWDQSUaFJg9T3LDoE1YMd) | 4:54 | 2021-11-08 |  |
-| [Most of the Time](https://open.spotify.com/track/7e24GhiKpJF41P3gZLz0GZ) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Most of the Time](https://open.spotify.com/album/6pc1rk5fKEg0RQgFwHKmTz) | 0:29 | 2021-11-08 |  |
+| [Most of the Time](https://open.spotify.com/track/7e24GhiKpJF41P3gZLz0GZ) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Most of the Time](https://open.spotify.com/album/6pc1rk5fKEg0RQgFwHKmTz) | 3:49 | 2021-11-08 |  |
 | [New Beginning](https://open.spotify.com/track/3P0ndzQkcubRQr1u2uv7PQ) | [Adam Forkelid](https://open.spotify.com/artist/3WcxxtroBeJy2PPN5s6CRW), [Carl Mörner Ringström](https://open.spotify.com/artist/69e8RvFXfQnels113EADzc), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Daniel Fredriksson](https://open.spotify.com/artist/7hKJYQtmuy2g7QAp5dmTle) | [New Beginning](https://open.spotify.com/album/51YHotVNniiWWCdlHZyCKR) | 5:53 | 2022-02-03 |  |
 | [Nu har jag fått den jag vill ha](https://open.spotify.com/track/5j3AIwVPkGjpmIeQRw6nJL) | [Iris Bergcrantz](https://open.spotify.com/artist/56Kqv5LknYc2xYYOdaAblg) | [Nu har jag fått den jag vill ha](https://open.spotify.com/album/2SS01HTXsMDhwZBNecbxQf) | 5:26 | 2021-11-08 |  |
 | [Nu är det gott att leva \- Live](https://open.spotify.com/track/1zJ12lT4SM5RPAiGUm8ubG) | [Jazzagenturen](https://open.spotify.com/artist/0PfYT2Yk58IWMc83t0iuiO), [Leo Lindberg Trio](https://open.spotify.com/artist/46jpwHnuLDnmEjcHMggddG) | [Live at Södra Teatern](https://open.spotify.com/album/6YHq2KIqhgB7GwA8vM4tIw) | 5:23 | 2022-02-24 |  |
@@ -67,7 +67,7 @@
 | [Old Country](https://open.spotify.com/track/5o8OVGf5YpHyHIghJx5vAT) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Stations](https://open.spotify.com/album/1d21jnvVSGyjHtvKBKJZH6) | 5:59 | 2021-11-08 |  |
 | [Oslo](https://open.spotify.com/track/5cAHupL3mv1dNstR0IXbyC) | [Fredrik Ljungkvist and the Yun Kan 5](https://open.spotify.com/artist/3PeIu9Iid94d06zGuE99xa) | [Badaling](https://open.spotify.com/album/5FLgahjtdZpbijATZ7IwUZ) | 7:01 | 2021-11-08 |  |
 | [Over the Rainbow](https://open.spotify.com/track/4otJKSqjYaYtZdwZIDPO81) | [Isabella Lundgren](https://open.spotify.com/artist/58Ftd7Tzkeve7Ht36LYL2j), [Filip Ekestubbe](https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX) | [Over the Rainbow](https://open.spotify.com/album/6VE6aYlCFQhHudofXEdMmA) | 3:42 | 2021-11-08 |  |
-| [Payday](https://open.spotify.com/track/7zhlzuqPO0xbDBk7j36TMZ) | [John Venkiah Trio](https://open.spotify.com/artist/3XFIlyqb9Vx3mszxFHiKEQ), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm) | [On to Something Good](https://open.spotify.com/album/45nFMsq34mgAppXfaP9FJl) | 0:29 | 2021-11-08 |  |
+| [Payday](https://open.spotify.com/track/7zhlzuqPO0xbDBk7j36TMZ) | [John Venkiah Trio](https://open.spotify.com/artist/3XFIlyqb9Vx3mszxFHiKEQ), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm) | [On to Something Good](https://open.spotify.com/album/45nFMsq34mgAppXfaP9FJl) | 6:05 | 2021-11-08 |  |
 | [Point of Life](https://open.spotify.com/track/7A4WyJ4qHATquuSzxfxyC2) | [Thomas Darelid](https://open.spotify.com/artist/3VgrYw0LQjgMkYa5kuYeaQ) | [Point of Life](https://open.spotify.com/album/43EjhSDByvdZwCNhme3fnZ) | 4:57 | 2021-11-08 |  |
 | [President](https://open.spotify.com/track/4XpyOXxSNOM4GMec79nMNz) | [The Calle Stenman Quintet](https://open.spotify.com/artist/33HmwOuCQt9l75KLBR557Y), [Oskar Schönning](https://open.spotify.com/artist/7B8n58KGwvuObuoNCpiFhZ), [Sara Parkman](https://open.spotify.com/artist/3QKspYZWuPR8sJ6WW1zAdw) | [President](https://open.spotify.com/album/4LQoy1UPFaaUV1AFtOqzdm) | 3:21 | 2021-11-08 |  |
 | [Prélude C Minor](https://open.spotify.com/track/1cxzewcPOwz58W0sFHQ9r6) | [Bengt Hallberg](https://open.spotify.com/artist/5q3Zh4BS8gJVpcrcGOhk8J) | [Hallberg's Surprise](https://open.spotify.com/album/7cXni9CXht7tFagNUiWikb) | 3:57 | 2021-11-08 |  |

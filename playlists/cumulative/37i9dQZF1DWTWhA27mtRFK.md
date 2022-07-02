@@ -4,7 +4,7 @@
 
 > Open your mind to these classics from the golden era of New Age music\. Deuter on cover.
 
-58 songs - 9 hr 46 min - [published](https://open.spotify.com/playlist/4tyuUu7ygG1hC5zYxQAnHv)
+58 songs - 10 hr 3 min - [published](https://open.spotify.com/playlist/4tyuUu7ygG1hC5zYxQAnHv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,12 +33,12 @@
 | [First Stage \- A](https://open.spotify.com/track/3MvBKhKe9mI1idiBgKjORo) | [OSHO](https://open.spotify.com/artist/63Cd2A4y0kWaLw0yxYjo2F), [Karunesh](https://open.spotify.com/artist/4M6YdvdCPW1fvQYbLwmNWZ) | [Osho Chakra Sounds Meditation™](https://open.spotify.com/album/2zhADYsVJ3SCwjPBH5neZM) | 14:36 | 2021-08-20 |  |
 | [Forest I](https://open.spotify.com/track/1OOWBKG1rigxUbM6HHso6G) | [Peter Davison](https://open.spotify.com/artist/5hLJQt5bIzxV7O0HvYNFqy) | [Forest/Mountain](https://open.spotify.com/album/01rVoq4sFduuosgPmo3uui) | 6:34 | 2021-08-20 |  |
 | [Freedom at the 45th Floor](https://open.spotify.com/track/2mDbBQ9Abwo3AV1cbc14Uk) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Music](https://open.spotify.com/album/5DHqPXz2CqfjzynPDQACSw) | 4:34 | 2021-08-20 |  |
-| [Glide II](https://open.spotify.com/track/5rBdnTSaWqveEuoYBNF0iF) | [Peter Davison](https://open.spotify.com/artist/5hLJQt5bIzxV7O0HvYNFqy) | [Glide/Star Gazer](https://open.spotify.com/album/2Rk837DGOC1KWlqBHjWz9K) | 0:29 | 2021-08-20 |  |
+| [Glide II](https://open.spotify.com/track/5rBdnTSaWqveEuoYBNF0iF) | [Peter Davison](https://open.spotify.com/artist/5hLJQt5bIzxV7O0HvYNFqy) | [Glide/Star Gazer](https://open.spotify.com/album/2Rk837DGOC1KWlqBHjWz9K) | 5:43 | 2021-08-20 |  |
 | [Golden Cloud Layers](https://open.spotify.com/track/46doTykO7orQMvEZg58BCE) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [The Space Between](https://open.spotify.com/album/7JO8XrLsnzmn6cBP5kyMUH) | 6:36 | 2021-08-20 |  |
 | [In the magic of Cosmos](https://open.spotify.com/track/6l6eGJDCe2d0sEsgJNi2cU) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [In the magic of Cosmos](https://open.spotify.com/album/4TAdRpNFxDNE2Y36OfPXS1) | 2:07 | 2021-08-20 |  |
 | [L'Azzuro](https://open.spotify.com/track/7icrlwHpkpnxEL2tVrdOxV) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Meditations for Dreams, Relaxation, and Sleep](https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i) | 5:12 | 2021-08-20 |  |
 | [Lovesong from the Mountains](https://open.spotify.com/track/3MJd5S8ZIUp19dVvKxgNoe) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 7:58 | 2022-01-14 |  |
-| [Memories](https://open.spotify.com/track/5Fryu3Yxywb5F5y1UmiC8I) | [Tony O'Connor](https://open.spotify.com/artist/5f4UBNURyjjZJDqhLCCfmC) | [Rainforest Magic](https://open.spotify.com/album/4kSD8egAl0J8Ogyw0Srxgi) | 0:29 | 2021-08-20 |  |
+| [Memories](https://open.spotify.com/track/5Fryu3Yxywb5F5y1UmiC8I) | [Tony O'Connor](https://open.spotify.com/artist/5f4UBNURyjjZJDqhLCCfmC) | [Rainforest Magic](https://open.spotify.com/album/4kSD8egAl0J8Ogyw0Srxgi) | 5:07 | 2021-08-20 |  |
 | [Morning Light Silhouettes 1](https://open.spotify.com/track/7qhqxUZim8dgGAe7dzhVlR) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Love](https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh) | 7:31 | 2021-08-20 |  |
 | [Morning Splendor](https://open.spotify.com/track/6b6eJ6TUApdRxmOUMwqYCm) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Music](https://open.spotify.com/album/5DHqPXz2CqfjzynPDQACSw) | 6:02 | 2021-08-20 |  |
 | [Music for Gymnastics](https://open.spotify.com/track/4hTCTBxBoTTbO6Ao3fKQxk) | [Jordan De La Sierra](https://open.spotify.com/artist/0C31G6WRrM2kEf5q8Yn2Pf) | [Gymnosphere: Song of the Rose](https://open.spotify.com/album/20sKBptJV69qrBXUEQVlzp) | 24:17 | 2021-08-20 |  |
@@ -52,7 +52,7 @@
 | [See My Wings Shining: Brow / 3rd Eye Chakra](https://open.spotify.com/track/55QGndKaKmUFSLGejUj6k1) | [Kay Gardner](https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3) | [A Rainbow Path](https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY) | 6:17 | 2021-08-20 |  |
 | [Seraphims](https://open.spotify.com/track/4yamOTc0Hq9oOzPQ9wTFuk) | [Don Campbell](https://open.spotify.com/artist/0Bb6vF6PtIh30Xw5K2dGZq) | [Essence](https://open.spotify.com/album/6fjUjZZJ8E7ggW6ClhZ9y6) | 23:11 | 2021-08-20 |  |
 | [She Trails Flowers](https://open.spotify.com/track/0BlKAekb8c0K0mUPlQvIDS) | [Neutron 9000](https://open.spotify.com/artist/0wTMDXNFj8bX2rKZuBDEdd) | [Lady Burning Sky](https://open.spotify.com/album/0Q9MAgJqzAEbFaBopjzY1H) | 10:07 | 2021-08-20 |  |
-| [Silent Spirit](https://open.spotify.com/track/6sXAaxtCZFjcUPKX7z1UtS) | [Tony O'Connor](https://open.spotify.com/artist/5f4UBNURyjjZJDqhLCCfmC) | [Rainforest Magic](https://open.spotify.com/album/4kSD8egAl0J8Ogyw0Srxgi) | 0:29 | 2021-08-20 |  |
+| [Silent Spirit](https://open.spotify.com/track/6sXAaxtCZFjcUPKX7z1UtS) | [Tony O'Connor](https://open.spotify.com/artist/5f4UBNURyjjZJDqhLCCfmC) | [Rainforest Magic](https://open.spotify.com/album/4kSD8egAl0J8Ogyw0Srxgi) | 7:37 | 2021-08-20 |  |
 | [Singing Bowl](https://open.spotify.com/track/6HUnasN0QtdqSXa2QSUsmL) | [Paul Horn](https://open.spotify.com/artist/1LI9iEq0loU9cdIa1dxVDj), [Keola Beamer](https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY), [Christopher Hedge](https://open.spotify.com/artist/7D4tkMk6hIpagbLrw3j7Ji) | [Himalayan Sessions](https://open.spotify.com/album/1PVqJVYkSZ5mYyg3AybLNw) | 9:59 | 2021-08-20 |  |
 | [Spirales](https://open.spotify.com/track/1nOhbBe3MY3sF6wLWiROIa) | [Chaitanya Hari Deuter](https://open.spotify.com/artist/6ShqyafouDcEeQVmdVuTzR) | [Deuter: San](https://open.spotify.com/album/4BBzx6fjLsoH10SwCABIvm) | 6:54 | 2021-08-20 |  |
 | [Spirit on the Wind](https://open.spotify.com/track/2JH4RHY09LArvLRfttqTbM) | [Tony O'Connor](https://open.spotify.com/artist/5f4UBNURyjjZJDqhLCCfmC) | [Seashore Sunrise](https://open.spotify.com/album/2h4Dm6JaQx93MWfKCsigGw) | 7:04 | 2021-08-20 |  |

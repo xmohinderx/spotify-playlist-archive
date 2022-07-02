@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 248773,
       "name": "A un minuto de ti (feat. Coque Malla)",
       "url": "https://open.spotify.com/track/3DXW50R1GIUkhq6zctX2Uz"
@@ -319,7 +319,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 208839,
       "name": "Buscando en la basura",
       "url": "https://open.spotify.com/track/46Yp4JsZIh8ceg5WBqW1ZB"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 187999,
       "name": "Chiquilla",
       "url": "https://open.spotify.com/track/6kNYjCKdEqYEdHAbxV5v5K"
@@ -665,7 +665,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 276426,
       "name": "Devil Came To Me - 2007 Remastered Version",
       "url": "https://open.spotify.com/track/7oycM5ZYxqampQrp1z5Zsk"
@@ -701,7 +701,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 281560,
       "name": "Dulce condena",
       "url": "https://open.spotify.com/track/1J2XL5ciqUgCQ92TmFDAAZ"
@@ -719,10 +719,92 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 462013,
       "name": "Dulce introducci\u00f3n al caos",
       "url": "https://open.spotify.com/track/1aDeaDooAd79p2sdImGG4a"
+    },
+    {
+      "album": {
+        "name": "El Carro de la Vida",
+        "url": "https://open.spotify.com/album/3gNZBIQIf7FHfHPqQCL8db"
+      },
+      "artists": [
+        {
+          "name": "Sinkope",
+          "url": "https://open.spotify.com/artist/3pGly9FAB9GLVX1wkNTXoP"
+        },
+        {
+          "name": "Ara Malikian",
+          "url": "https://open.spotify.com/artist/5kIE5Bm5P9h6KDsz46V2qc"
+        },
+        {
+          "name": "Los ni\u00f1os de los ojos rojos",
+          "url": "https://open.spotify.com/artist/6XmvBOd1tQZKCbGcoPwCDA"
+        },
+        {
+          "name": "Marea",
+          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
+        },
+        {
+          "name": "Reincidentes",
+          "url": "https://open.spotify.com/artist/6AZ89uxvjtR2Cpe1hE3kpX"
+        },
+        {
+          "name": "O'Funk'illo",
+          "url": "https://open.spotify.com/artist/3GaVCQ4OFLD0BdrXoCKKh8"
+        },
+        {
+          "name": "Ant\u00edlopez",
+          "url": "https://open.spotify.com/artist/5h12OrXotCPo7Ze3hFKYQK"
+        },
+        {
+          "name": "S\u00f4ber",
+          "url": "https://open.spotify.com/artist/3Y2UMfxP15qisezhYgjTKN"
+        },
+        {
+          "name": "Tah\u00fares Z\u00fardos",
+          "url": "https://open.spotify.com/artist/5B6JwEo3bqy1bun6WKFCxR"
+        },
+        {
+          "name": "BAMBIKINA",
+          "url": "https://open.spotify.com/artist/6yQRoGwzyeHHHnUZGf6iZW"
+        },
+        {
+          "name": "Derby Motoreta\u2019s Burrito Kachimba",
+          "url": "https://open.spotify.com/artist/1nRVWZrJJCFAfkRWtFFPj4"
+        },
+        {
+          "name": "El Drogas",
+          "url": "https://open.spotify.com/artist/5jJWnRLQeU7fe9VaDjpIWK"
+        },
+        {
+          "name": "La Ira",
+          "url": "https://open.spotify.com/artist/3tTvOTpqhx1NKvmdMi4kdV"
+        },
+        {
+          "name": "Porretas",
+          "url": "https://open.spotify.com/artist/728RoHc1KnzggoepsGWPdk"
+        },
+        {
+          "name": "Adormidera",
+          "url": "https://open.spotify.com/artist/04VCcTST2Kr8bwhjAqa8yD"
+        },
+        {
+          "name": "Kutxi Romero",
+          "url": "https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY"
+        },
+        {
+          "name": "Aurora Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/3GnMrfvoW6rrZxbau2b6fu"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287873,
+      "name": "El Carro de la Vida - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/2rbKYumh9CLEcXhv1IVzg3"
     },
     {
       "album": {
@@ -773,7 +855,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 275026,
       "name": "El Limite",
       "url": "https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu"
@@ -944,7 +1026,7 @@
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 262626,
       "name": "Flojos de pantal\u00f3n",
       "url": "https://open.spotify.com/track/5xEQItoulehU1apBfxqkM1"
     },
@@ -1442,6 +1524,24 @@
     },
     {
       "album": {
+        "name": "Historia de una Banda (En Directo)",
+        "url": "https://open.spotify.com/album/5yxWQnpSWZdXeiZ6YPOOlu"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo De La Fila",
+          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217379,
+      "name": "Mar Antiguo - En Directo",
+      "url": "https://open.spotify.com/track/0kaXTiic9ZOOAxBc1cmO01"
+    },
+    {
+      "album": {
         "name": "Veo Veo Mamoneo",
         "url": "https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI"
       },
@@ -1544,7 +1644,7 @@
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 297106,
       "name": "Miedo",
       "url": "https://open.spotify.com/track/47oZRFceogtlw8Kcu5UGaj"
     },
@@ -1664,7 +1764,7 @@
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 254840,
       "name": "No Puedo Vivir Sin Ti",
       "url": "https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3"
     },
@@ -1849,7 +1949,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 173226,
       "name": "Pienso en Aquella Tarde",
       "url": "https://open.spotify.com/track/0O3pXUg9rgLYgBJcO91b37"
@@ -1965,7 +2065,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 231519,
       "name": "Quien lo iba a suponer",
       "url": "https://open.spotify.com/track/45CZzSaBBLqghpO6fuO4X3"
@@ -2019,7 +2119,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 249066,
       "name": "Rock and Roll Star - Remaster 2017",
       "url": "https://open.spotify.com/track/3EV5Oh2zrKF0FIKWxnE3L0"
@@ -2233,7 +2333,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 281666,
       "name": "So payaso",
       "url": "https://open.spotify.com/track/5HSpMRUC4m3L3q48to2Kmu"
@@ -2417,7 +2517,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 222013,
       "name": "Veneno en la Piel",
       "url": "https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln"

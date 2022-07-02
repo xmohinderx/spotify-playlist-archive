@@ -4,7 +4,7 @@
 
 > Sheer joy for sunny days in 50 old and new African jams.
 
-50 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/41r1TwzS2DsY8J0laGzpi0)
+50 songs - 4 hr 30 min - [published](https://open.spotify.com/playlist/41r1TwzS2DsY8J0laGzpi0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Fantastic Man](https://open.spotify.com/track/0tVn1s7vUJcsbFhAGeeCLq) | [William Onyeabor](https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi) | [World Psychedelic Classics 5: Who Is \(Deluxe Edition\)](https://open.spotify.com/album/6hxUXnxYUzclI1GTwpUMUh) | 6:26 | 2018-07-02 |  |
 | [Greetings](https://open.spotify.com/track/2ha70kafYrxpwKB2DHLTJT) | [Johnny Haastrup](https://open.spotify.com/artist/2CQhdBxDO7W5bNDAYC82xb) | [Soundway presents Nigeria Disco Funk Special \(The Sound of the Underground Lagos Dancefloor 1974\-1979\)](https://open.spotify.com/album/0dz2rEJQWICfv4tbVIJFbc) | 6:14 | 2018-07-02 |  |
 | [Gyae Su](https://open.spotify.com/track/4dqT5slEDm4TCG8TKako0t) | [Pat Thomas](https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy), [Kwashibu Area Band](https://open.spotify.com/artist/53PQcfQVWV5FU1Mh7Of1yP) | [Pat Thomas & Kwashibu Area Band](https://open.spotify.com/album/0vI4coIOAGzhLZRAIcDKHL) | 4:12 | 2018-07-02 |  |
-| [Home Cooking](https://open.spotify.com/track/20x6NOGs8e0Q4FTFPejMUJ) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi) | [HomeCooking](https://open.spotify.com/album/5yzzvJinNh6q3305O3RuTQ) | 0:29 | 2018-07-02 |  |
+| [Home Cooking](https://open.spotify.com/track/20x6NOGs8e0Q4FTFPejMUJ) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi) | [HomeCooking](https://open.spotify.com/album/5yzzvJinNh6q3305O3RuTQ) | 4:44 | 2018-07-02 |  |
 | [Jarabi](https://open.spotify.com/track/0RxOwIbcKkIIYlofyLznGY) | [AfroCubism](https://open.spotify.com/artist/2Los7jf0DpltIz39dDgNen), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Eliades Ochoa & Bassekou Kouyaté](https://open.spotify.com/artist/0VjN7ASjJCJTldoryWvxM4) | [Afrocubism](https://open.spotify.com/album/1CH76GNjApPSbQcRqComt7) | 5:57 | 2018-07-02 |  |
 | [Kai Wawa](https://open.spotify.com/track/1jSfn07Bqf24cLlW8nRMtC) | [The Mercury Dance Band](https://open.spotify.com/artist/5s7yP5PdeJyqfoLJ50YYBB) | [Soundway presents Ghana Special \(Modern Highlife, Afro Sounds & Ghanaian Blues 1968\-81\)](https://open.spotify.com/album/5DKrMCbixQ2EjIvSBcLM28) | 3:00 | 2018-07-02 |  |
 | [Kare Nanhasi](https://open.spotify.com/track/085HOiIrvSvFxfv9gT4Ny0) | [Hallelujah Chicken Run Band](https://open.spotify.com/artist/4F4uGrDn844DLT3ThoztIE) | [Take One \(Analog Africa No\. 2\)](https://open.spotify.com/album/7dRwLFKHSz4QV2PKkIuHMD) | 3:36 | 2018-07-02 |  |

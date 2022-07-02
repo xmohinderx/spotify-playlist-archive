@@ -4,7 +4,7 @@
 
 > Sit back and relax to the smooth sound of blues piano.
 
-53 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/6pVEAMIhTh8lrPSIN67nvp)
+53 songs - 2 hr 57 min - [published](https://open.spotify.com/playlist/6pVEAMIhTh8lrPSIN67nvp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Blues for Stella](https://open.spotify.com/track/5vUNWP8gpNDYFDlbZhClwS) | [James Goodwin](https://open.spotify.com/artist/5sY7M6lEJILtXM7Jm2A0lG) | [Blue\-eyed Devil: Solo Blues Piano](https://open.spotify.com/album/6I0OPUCGyx4Y79a93CY5E9) | 4:37 | 2021-12-03 |  |
 | [Blues In Central Park](https://open.spotify.com/track/0UZjDQEfsravm7l8lW4G7n) | [Michael Silverman Blues Piano Trio](https://open.spotify.com/artist/48IpL2WhL9WJegvN2ADaUJ) | [Blues](https://open.spotify.com/album/0cX6CQ3MWCTysXi57T1we1) | 3:08 | 2021-12-03 |  |
 | [Blues Please](https://open.spotify.com/track/2jUJ9QJHAIPmttR92dB0K8) | [Relaxing Piano Crew](https://open.spotify.com/artist/09zTbBto6vE4LzVjQluIz2) | [Tea Time Jazz \- Afternoon Delight BGM](https://open.spotify.com/album/70sWWQ9WY232KHurqoRwMl) | 2:15 | 2021-12-03 |  |
-| [Boogie Relaxing Piano](https://open.spotify.com/track/2xpXXqFnUXFmbhHwFWWLoO) | [Alan Baratieri](https://open.spotify.com/artist/1FbUxr0wVOPPMFPq9qjv0w) | [Instrumental Piano Music](https://open.spotify.com/album/0LK4eqJzdORsuIW8xOcrFq) | 0:29 | 2021-12-03 |  |
+| [Boogie Relaxing Piano](https://open.spotify.com/track/2xpXXqFnUXFmbhHwFWWLoO) | [Alan Baratieri](https://open.spotify.com/artist/1FbUxr0wVOPPMFPq9qjv0w) | [Instrumental Piano Music](https://open.spotify.com/album/0LK4eqJzdORsuIW8xOcrFq) | 2:47 | 2021-12-03 |  |
 | [Buddy Bolden Blues](https://open.spotify.com/track/3ERqgrgOFiYgMMIzq6fhc3) | [Jan Luley](https://open.spotify.com/artist/3FgqxBiYnrUlk5iYzGvuFE) | [Down In Pianorleans \- Blues Gumbo](https://open.spotify.com/album/5IXB69TZ7HTr7NfMc6nzLP) | 4:17 | 2021-12-03 |  |
 | [Central Park East Blues Song](https://open.spotify.com/track/2E8qQTaAUbHp2a50wqM1FE) | [Blues Piano All Stars](https://open.spotify.com/artist/3v45sKwSn2bjvr9ETf4HrQ) | [Blues Piano \- Blues Songs and Music](https://open.spotify.com/album/7D3OoVu6zvaS5TLe8cRRj5) | 3:05 | 2021-12-03 |  |
 | [Cheered by the Blues](https://open.spotify.com/track/2fWh9Sks5LmWXo9GvAiNqf) | [Relaxing Piano Crew](https://open.spotify.com/artist/09zTbBto6vE4LzVjQluIz2), [Kazuhiro Chujo](https://open.spotify.com/artist/3h7iR2Yq6tYRfZou6MjtyV) | [Bar Blues Piano BGM](https://open.spotify.com/album/3HdSdlPlAW0qSqHB229Mpg) | 2:14 | 2021-12-03 |  |

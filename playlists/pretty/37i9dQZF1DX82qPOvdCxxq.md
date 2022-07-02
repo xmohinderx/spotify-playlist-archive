@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > Go deep in discovery for great new songs of faith and inspiration\. Cover: Becca Bradley
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,825 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,842 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 8 | [Miracles](https://open.spotify.com/track/3QzlaToAAD4RAI1NneP6uH) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Cafe Sessions](https://open.spotify.com/album/0y8StZ7GXFcsXq8BIDWG0h) | 3:38 |
 | 9 | [Mark My Hands](https://open.spotify.com/track/6nbwAzMvYE83l8Sp7UlDC2) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [Garage Sessions](https://open.spotify.com/album/7rihcgWC15RATcai38bxWW) | 5:43 |
 | 10 | [Alchemy](https://open.spotify.com/track/1GRcZ66VWTuCWHfENuebh9) | [Damian](https://open.spotify.com/artist/3MnicHyslW5NAnIMcOsGeK) | [Alchemy](https://open.spotify.com/album/3ojNI0Iitk4xoLY6QPNLgx) | 3:41 |
-| 11 | [Collide](https://open.spotify.com/track/6teXAe3jjyrye9rcpKgvSp) | [Antioch Cape Town](https://open.spotify.com/artist/2LSZm1g2gXfZlChtSZVTvx) | [Holy Roar](https://open.spotify.com/album/6V9BKbaGCtz7zyhxNJ1c3u) | 6:20 |
+| 11 | [Collide](https://open.spotify.com/track/6teXAe3jjyrye9rcpKgvSp) | [Antioch Cape Town](https://open.spotify.com/artist/2LSZm1g2gXfZlChtSZVTvx) | [Holy Roar](https://open.spotify.com/album/6V9BKbaGCtz7zyhxNJ1c3u) | 0:29 |
 | 12 | [Queen of a Wasteland](https://open.spotify.com/track/14IaGlfgUEAdGOU7hAILca) | [Becca Bradley](https://open.spotify.com/artist/0qPGusro9QlIqKGlgywzRU) | [Queen of a Wasteland](https://open.spotify.com/album/4emHfbGjN1LqDZ6xuxfGhY) | 3:07 |
 | 13 | [All Things New](https://open.spotify.com/track/2oS1ul2vytG27u33VUbMvQ) | [G12 Worship](https://open.spotify.com/artist/4oXrWm10NH01Ot8IxPASAw) | [All Things New](https://open.spotify.com/album/7BNnaGcSUvxBnpxyXvencQ) | 7:53 |
 | 14 | [Even Louder \(Spontaneous\) \- Live](https://open.spotify.com/track/31r3D1fQPyHvYnDSgNXWVm) | [The Church Will Sing](https://open.spotify.com/artist/0TfWxv8ygT7qBnqxqyYige) | [Even Louder \(Spontaneous\) \[Live\]](https://open.spotify.com/album/4RFvIjXutsFtMcLCQ0jhn2) | 7:08 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 39 | [Where I Belong](https://open.spotify.com/track/3DMhc9kOCKfSYLwOFmqVg8) | [Graveyards to Gardens](https://open.spotify.com/artist/1EM7XPBRpj2YuJcWbzs9XI) | [Home](https://open.spotify.com/album/1rWqw8qoWyNvykOiQeREo0) | 3:33 |
 | 40 | [Heart](https://open.spotify.com/track/5DmjuTfP9NeOqV9USaid6v) | [Isaiah William](https://open.spotify.com/artist/6HR7LwzhMQSgmBbUcdGJFc) | [Heart](https://open.spotify.com/album/5uGox3vtKqSOnrSZFCpfoe) | 5:05 |
 | 41 | [Grave Digger](https://open.spotify.com/track/6jwc4eHtQo2jlHOYnG07ls) | [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Grave Digger](https://open.spotify.com/album/0MgJ8Ns32yLtgUXSteD4Ft) | 4:16 |
-| 42 | [Great Is the Hope](https://open.spotify.com/track/7AsO6COcAbqjRxEcVZ7Arb) | [North Coast Church](https://open.spotify.com/artist/2O8REwWdtzkvKvBqjd1ijb) | [Great Is the Hope](https://open.spotify.com/album/4LQsFZlwX8gwlSRuCH1GUh) | 0:29 |
+| 42 | [Great Is the Hope](https://open.spotify.com/track/7AsO6COcAbqjRxEcVZ7Arb) | [North Coast Church](https://open.spotify.com/artist/2O8REwWdtzkvKvBqjd1ijb) | [Great Is the Hope](https://open.spotify.com/album/4LQsFZlwX8gwlSRuCH1GUh) | 4:47 |
 | 43 | [I'll Be Okay](https://open.spotify.com/track/2oBjArqKH9SxMVsWsVbCAy) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [I'll Be Okay](https://open.spotify.com/album/5GUa8R91rDlhA3SCVbbfXE) | 4:02 |
 | 44 | [Fantasma](https://open.spotify.com/track/4fUuSGIcSWgBLCzp3ZGmLx) | [Marty](https://open.spotify.com/artist/5fnKWHQ5YpV5T5S0aDvqkA), [Inbal](https://open.spotify.com/artist/6SbhMNYOdCBgifhMnCWhHH) | [Fantasma](https://open.spotify.com/album/08Rktvmj8JpkRzjLB5HvAh) | 6:59 |
 | 45 | [If You Only Knew](https://open.spotify.com/track/1xfqHOTSdVSwzlty8qcdgc) | [André K Barrow](https://open.spotify.com/artist/4Ldcu5W8LWs5jUYbI0ZGiZ), [Niki Carless](https://open.spotify.com/artist/2sEB8jCfYOGYh5IeNwiNJk) | [If You Only Knew](https://open.spotify.com/album/1EDDMhz2KDeBiqGWw2c05x) | 3:38 |

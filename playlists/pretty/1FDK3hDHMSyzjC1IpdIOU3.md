@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1FDK3hDHMSyzjC1IpdIOU3.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 503 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 503 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/1FDK3hDHMSyzjC1IpdIOU3.md) - [plain]
 | 4 | [Nobody Knows](https://open.spotify.com/track/2PsHIonOTmX6bSrzIJSjyS) | [The Tony Rich Project](https://open.spotify.com/artist/7uwPrVdjss0FyCCTzpLx5A) | [Words](https://open.spotify.com/album/5r6mhWWkCitNZmhiSIYbCT) | 5:06 |
 | 5 | [Always Be My Baby](https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:18 |
 | 6 | [Give Me One Reason](https://open.spotify.com/track/4vDBJeeQCbhP9FaPPMsYkY) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [New Beginning](https://open.spotify.com/album/3XsOzkIBoHsxZ7jP3QF2oB) | 4:28 |
-| 7 | [I Love You Always Forever](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD) | [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2) | [Now in a Minute](https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL) | 0:29 |
+| 7 | [I Love You Always Forever](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD) | [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2) | [Now in a Minute](https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL) | 3:59 |
 | 8 | [You're Makin' Me High](https://open.spotify.com/track/32VygCu5knUb9ZmC5acyKZ) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [The Essential Toni Braxton](https://open.spotify.com/album/44YkbOX8QxlFuBtYec4hPG) | 4:27 |
 | 9 | [Twisted](https://open.spotify.com/track/69QIVIjPMnI1ABLBqh9P1b) | [Keith Sweat](https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m) | [Keith Sweat](https://open.spotify.com/album/0BzXvdpUKDEk612hLc6rZV) | 4:20 |
 | 10 | [C'mon 'N' Ride It \(The Train\)](https://open.spotify.com/track/4vwZCZxHs4t2hR5PrrJCi6) | [Quad City DJ's](https://open.spotify.com/artist/4mar1GMMEhvGyJdWagu6KS) | [Ultimate Club Dance 90s](https://open.spotify.com/album/6vreeK6rwyqgpjGdlgvwkT) | 4:03 |
@@ -34,14 +34,14 @@ pretty - [cumulative](/playlists/cumulative/1FDK3hDHMSyzjC1IpdIOU3.md) - [plain]
 | 24 | [Who Will Save Your Soul](https://open.spotify.com/track/1SYXw0U7vE9BpUw5bEFvKw) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Pieces Of You](https://open.spotify.com/album/6t0qVXx77kMCVyxHejzJsP) | 3:59 |
 | 25 | [Where Do You Go](https://open.spotify.com/track/1i7Gv6yN5aCyygveod0QDH) | [No Mercy](https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3) | [No Mercy](https://open.spotify.com/album/6BOqwJHtWmGtzVra2w183C) | 4:32 |
 | 26 | [I Can't Sleep Baby \(If I\)](https://open.spotify.com/track/6JR2utS6oY0U6OVDmIHiqV) | [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ) | [R\. Kelly](https://open.spotify.com/album/4MYENSmUM01QisUKLi6FWr) | 5:30 |
-| 27 | [Counting Blue Cars \(Tell Me Your Thoughts On God\)](https://open.spotify.com/track/6PI6pRqxDM6PlSdi4IvJEx) | [Dishwalla](https://open.spotify.com/artist/6F3NW2aC9Sni1FH7QPSLvw) | [Modern Rock Number 1's](https://open.spotify.com/album/3HKGB8wZqadLRJJYP59jJS) | 0:29 |
+| 27 | [Counting Blue Cars \(Tell Me Your Thoughts On God\)](https://open.spotify.com/track/6PI6pRqxDM6PlSdi4IvJEx) | [Dishwalla](https://open.spotify.com/artist/6F3NW2aC9Sni1FH7QPSLvw) | [Modern Rock Number 1's](https://open.spotify.com/album/3HKGB8wZqadLRJJYP59jJS) | 4:51 |
 | 28 | [You Learn](https://open.spotify.com/track/1HsbGJnOXPWfocSS6FoR60) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill](https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW) | 3:59 |
 | 29 | [One Of Us](https://open.spotify.com/track/1xNmF1Uep5OGutizZSbKvd) | [Joan Osborne](https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o) | [Relish](https://open.spotify.com/album/1qgjfFOO3IMDimAuAWZLLt) | 5:20 |
 | 30 | [Wonder](https://open.spotify.com/track/5Hz6aGrZZizNBoJ6kE6Rqi) | [Natalie Merchant](https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD) | [Tigerlily](https://open.spotify.com/album/6BThqXIsF0nanWam5MSV8d) | 4:26 |
 | 31 | [Not Gon' Cry \- from Waiting to Exhale \- Original Soundtrack](https://open.spotify.com/track/78wi1g772j8eJPEnD8rr9z) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Waiting To Exhale](https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM) | 4:58 |
 | 32 | [Gangsta's Paradise \(feat\. L.V.\)](https://open.spotify.com/track/3u9fHuAtjMY1RW2mZfO4Cf) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/3gj5MfnW3Oud8Ji1n7Tops) | 4:01 |
 | 33 | [Only You \(feat\. The Notorious B.I.G\. & Mase\) \- Bad Boy Remix](https://open.spotify.com/track/2p8h9x7uILKctLhvyWaLB4) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Anywhere \(Remix\)](https://open.spotify.com/album/1NBt2XRpm93xhyNr6FthmT) | 4:51 |
-| 34 | [Down Low \(Nobody Has to Know\)](https://open.spotify.com/track/3boJ2JFTCfWfVMJneVeB77) | [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ), [Ronald Isley](https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L), [Ernie Isley](https://open.spotify.com/artist/3zgBwOoVIZBiNd3wIrKnhS) | [The R\. In R&B Collection: Volume 1](https://open.spotify.com/album/0mfaOc6KL6Kak3DYUyjNVl) | 0:29 |
+| 34 | [Down Low \(Nobody Has to Know\)](https://open.spotify.com/track/3boJ2JFTCfWfVMJneVeB77) | [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ), [Ronald Isley](https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L), [Ernie Isley](https://open.spotify.com/artist/3zgBwOoVIZBiNd3wIrKnhS) | [The R\. In R&B Collection: Volume 1](https://open.spotify.com/album/0mfaOc6KL6Kak3DYUyjNVl) | 4:22 |
 | 35 | [You're the One](https://open.spotify.com/track/0yqwZSgCWsmfhpGlulQKpZ) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [Best Of SWV](https://open.spotify.com/album/2QHtc53nHnTTQip9d3VmoP) | 4:43 |
 | 36 | [Sweet Dreams](https://open.spotify.com/track/77cViEH08OA9uusjsaEa5R) | [La Bouche](https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie) | [Sweet Dreams](https://open.spotify.com/album/6TvKIFNhNpXtkq8hf955ZT) | 3:22 |
 | 37 | [Before You Walk Out of My Life](https://open.spotify.com/track/6xrvubhznLOcEO3AM6XBN2) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Miss Thang](https://open.spotify.com/album/71mPApAzW9HkbUGdYzMQHb) | 4:52 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,119 likes - 177 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,431 likes - 177 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 14 | [Magic Place](https://open.spotify.com/track/4Pf6gWTEHTh7ujrokx4des) | [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9) | [Magic Place](https://open.spotify.com/album/4f5m9A7pQw3LV8zuvrNKq1) | 1:53 |
 | 15 | [Distance](https://open.spotify.com/track/22EUPDSks0pkcJwXJ6CEem) | [Towerz](https://open.spotify.com/artist/1bbah9s09626gweOzzLbKG) | [Distance](https://open.spotify.com/album/7yQtCMYBR5qG1tiuRJT6mW) | 2:12 |
 | 16 | [Sundets](https://open.spotify.com/track/1s8KFO2b6qhK94kzCc375G) | [Kanbina Mind](https://open.spotify.com/artist/6sPgHyYKS3VMneq1yoflgm) | [Kanbina](https://open.spotify.com/album/6HZiWLomAqbJbt56oOiK34) | 2:02 |
-| 17 | [Earth](https://open.spotify.com/track/47grvGTNigrMww35L06LJa) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv) | [Earth](https://open.spotify.com/album/3akTQPLju7tOIB1YRLz3p1) | 0:29 |
+| 17 | [Earth](https://open.spotify.com/track/47grvGTNigrMww35L06LJa) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv) | [Earth](https://open.spotify.com/album/3akTQPLju7tOIB1YRLz3p1) | 2:30 |
 | 18 | [hardly trying](https://open.spotify.com/track/7q2jpq2xFH1Q54QbrE5kPe) | [weirdboi](https://open.spotify.com/artist/50IAuRmsangO5zqJkowx2A) | [hardly trying](https://open.spotify.com/album/7g8BhI4ywxdNmORpmaNMvw) | 1:49 |
 | 19 | [Resilience](https://open.spotify.com/track/0pDD5xsCuWALq5km2nNoD5) | [Wishard](https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81) | [Resilience](https://open.spotify.com/album/2fhxjLyV5huWci8fcAaKi5) | 2:12 |
 | 20 | [first look](https://open.spotify.com/track/4fhwddTpcG2yxv26BFVLDd) | [jacob klev](https://open.spotify.com/artist/3XV2xVPuckMYpUbguXZ57D) | [first look](https://open.spotify.com/album/3yZU9nbHQenBDDdgiDIEKt) | 2:04 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 26 | [nightly adventures](https://open.spotify.com/track/45d5IT2ToIWAkoVTi5EoDi) | [Zzcenic](https://open.spotify.com/artist/0ZEozBSxUxi99LJmOE3qOL) | [nightly adventures](https://open.spotify.com/album/4iv0I4ZzBFoFPGLjR0QLEM) | 2:05 |
 | 27 | [It's Okay](https://open.spotify.com/track/2Ld6nHyCQvDNcmePZfiOaD) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [It's Okay](https://open.spotify.com/album/3vprDMK4fnYJNHgrqcYF9I) | 1:32 |
 | 28 | [vibrant](https://open.spotify.com/track/5eNkJcy6x0dbixtp5kdfdu) | [polychromatic](https://open.spotify.com/artist/2HM6rO2rgqS32I7lFYOiwz) | [vibrant](https://open.spotify.com/album/1czwTEne4QTAMt8tmbsiOu) | 2:31 |
-| 29 | [Delicate](https://open.spotify.com/track/6KEoIOQahTzFYCTRFiVB0z) | [Broken Holiday](https://open.spotify.com/artist/0O76plZlrqmubSLOZHDOmI), [Jaden Christy](https://open.spotify.com/artist/26Lja0Loc02XwrkUdLH7X9), [P.Wasy](https://open.spotify.com/artist/18IRV55F0nkTqWD23Dvxmk) | [Delicate](https://open.spotify.com/album/79dqRJc8ZVlaSwGwg2gCM3) | 0:29 |
+| 29 | [Delicate](https://open.spotify.com/track/6KEoIOQahTzFYCTRFiVB0z) | [Broken Holiday](https://open.spotify.com/artist/0O76plZlrqmubSLOZHDOmI), [Jaden Christy](https://open.spotify.com/artist/26Lja0Loc02XwrkUdLH7X9), [P.Wasy](https://open.spotify.com/artist/18IRV55F0nkTqWD23Dvxmk) | [Delicate](https://open.spotify.com/album/79dqRJc8ZVlaSwGwg2gCM3) | 2:04 |
 | 30 | [Warriors of Words](https://open.spotify.com/track/16jz4LRv6ccmunMe0MXRJK) | [loftown](https://open.spotify.com/artist/1WpAuMe0iaQltsO94LeLRX) | [THE TOWNLOFT](https://open.spotify.com/album/1LDRClxJYRYnUWBlHP8QDj) | 1:23 |
 | 31 | [Cuddle](https://open.spotify.com/track/0qPQBBWJdESIBv0S5CS3to) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Cuddle](https://open.spotify.com/album/7mjXhZxuAENnEQ3NVjHZaa) | 2:19 |
 | 32 | [Silent Sky](https://open.spotify.com/track/1CwEJgKOytEZgRt7XmYdd0) | [Lofi Leif](https://open.spotify.com/artist/4rPu3mEDy7ZWvjAsNE6q0N) | [Silent Sky](https://open.spotify.com/album/0YxKDYxkNGU6qbnVtLN9PV) | 2:19 |

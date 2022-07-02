@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,277 likes - 118 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,309 likes - 118 songs - 10 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 | 43 | [forest fall](https://open.spotify.com/track/4VqK9ZR5KFfcK8JuDDmkbl) | [Claudio Manu](https://open.spotify.com/artist/1qjGStWWGtXWsnNk7n6ty9) | [forest fall](https://open.spotify.com/album/3P7eY7szqpvjxTtAhWWdvX) | 2:30 |
 | 44 | [Und](https://open.spotify.com/track/0Zseawrdx3aB2JJp0UbknM) | [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Logue](https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik) | 3:24 |
 | 45 | [Threshold](https://open.spotify.com/track/7fdcKs5PsbxAFo59pOoBkl) | [Matthias Hahn](https://open.spotify.com/artist/7Coxn5cvWI6RM2Kof5jklU) | [Villanelle](https://open.spotify.com/album/6vV3tRQvr4q2UR3A8dz5Qc) | 4:34 |
-| 46 | [Hayama Ambient 034](https://open.spotify.com/track/6ucVMSqO3QHvvBNMPOnCch) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Hayama Ambient 034](https://open.spotify.com/album/3BYHi87dcmiYFiCMbaDcoj) | 0:29 |
+| 46 | [Hayama Ambient 034](https://open.spotify.com/track/6ucVMSqO3QHvvBNMPOnCch) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Hayama Ambient 034](https://open.spotify.com/album/3BYHi87dcmiYFiCMbaDcoj) | 2:19 |
 | 47 | [Fromme](https://open.spotify.com/track/24BctB6JjJ4hwtpzUPkO3f) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [coast/range/arc//](https://open.spotify.com/album/2aIBQ7UFrxGtMrPpmmZ6uE) | 7:42 |
 | 48 | [rainfall](https://open.spotify.com/track/39dhyocdtP2THBx7OG1pPn) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [dusk to dawn](https://open.spotify.com/album/5UHg2dMdXffuSepLuOcBdo) | 4:09 |
 | 49 | [Swan and Morning Dews](https://open.spotify.com/track/2Ox800jaDGqxFW1KoDYE3N) | [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT) | [Stories](https://open.spotify.com/album/6bOC2AtibqcjwP1OOHHOTD) | 4:16 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 | 57 | [Imaginary Soundscape III, Postcard Two](https://open.spotify.com/track/4Onuwx9ruFbjuLQi9zU0w2) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB) | [Six Postcards & Other Stories](https://open.spotify.com/album/3Q4Mj2ui2oGXdZPMiylMY3) | 3:41 |
 | 58 | [Kono Yoni Yomeri \(Sono 2\)](https://open.spotify.com/track/0nByarxBnlqMBH5tWvBuTG) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Kakashi](https://open.spotify.com/album/0ZVkkcvhUWQ4hIeoC8Y5Kb) | 2:20 |
 | 59 | [Quiet Stream](https://open.spotify.com/track/2Rv0fVIawPogTWGxovvvlq) | [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI), [Sound Bath](https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO) | [Quiet Stream](https://open.spotify.com/album/7uv0Z9Er9ZKdCtPYQ6xRP4) | 4:24 |
-| 60 | [Japanese Meditation](https://open.spotify.com/track/4OG6VAfkY5Z2ZiDsitnjDs) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Fragmentary](https://open.spotify.com/album/77dDhKqacxTQBz9womkmbY) | 0:29 |
+| 60 | [Japanese Meditation](https://open.spotify.com/track/4OG6VAfkY5Z2ZiDsitnjDs) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Fragmentary](https://open.spotify.com/album/77dDhKqacxTQBz9womkmbY) | 3:00 |
 | 61 | [Passiflora](https://open.spotify.com/track/6EAkJSMoXNlzcPXOzZ2jrB) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Passiflora](https://open.spotify.com/album/22zNb8tjCpUr82NEVv4wLE) | 21:40 |
 | 62 | [Still Can't Believe It](https://open.spotify.com/track/2dwgDe9pLWHpvN9P5EfJck) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt) | [Gradients](https://open.spotify.com/album/0BSRvxpcMxZZ17jnegHvni) | 6:36 |
 | 63 | [Forest Trails](https://open.spotify.com/track/2Gvy4DbDM6NQ5rUJDljXz4) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Forest Trails](https://open.spotify.com/album/4IraxSJiP3P7561LUlNTrY) | 5:46 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 | 67 | [First Light](https://open.spotify.com/track/2aUkNmO4g5iSCxly4bPKuj) | [Ariel Kalma](https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq) | [Open Like a Flute](https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP) | 5:13 |
 | 68 | [Primitive Associations/Great Mass Above](https://open.spotify.com/track/106ijoJLCBU8fhosegfx1x) | [Growing](https://open.spotify.com/artist/57SlFijfkLdoiN09FSueTI) | [The Soul of the Rainbow and the Harmony of Light](https://open.spotify.com/album/2JSUhFkv27CejriQWOzF88) | 12:35 |
 | 69 | [Puddle](https://open.spotify.com/track/6n2mvV2UE8yfIGl5TlqOF5) | [Yuichiro Fujimoto](https://open.spotify.com/artist/2P0IReI87eMGenUXZjnnAP) | [Speaks Melodies](https://open.spotify.com/album/4SmlzePYPZdnOgDnVnk3P8) | 3:19 |
-| 70 | [目覚めの時](https://open.spotify.com/track/6KdPYneC5b5UVck4p7RZia) | [RELAX WORLD](https://open.spotify.com/artist/4lqbWKnNx21gjvmC7k3NSx) | [アロマセラピストがすすめる美しく眠るヒーリング・アロマ 〜朝の目覚めを気持ちよく](https://open.spotify.com/album/6RefLGyt0wgm2qdn2aCxXG) | 0:29 |
+| 70 | [目覚めの時](https://open.spotify.com/track/6KdPYneC5b5UVck4p7RZia) | [RELAX WORLD](https://open.spotify.com/artist/4lqbWKnNx21gjvmC7k3NSx) | [アロマセラピストがすすめる美しく眠るヒーリング・アロマ 〜朝の目覚めを気持ちよく](https://open.spotify.com/album/6RefLGyt0wgm2qdn2aCxXG) | 6:02 |
 | 71 | [ocean waves](https://open.spotify.com/track/3NzGJehX7HJxqLgz8ycKNS) | [koss](https://open.spotify.com/artist/0tW8feNRfFHuEQp4GpFwpx) | [ANCIENT RAIN](https://open.spotify.com/album/64dhVWCPpQXxIrwTCY9Q4w) | 9:12 |
 | 72 | [Aru](https://open.spotify.com/track/3imnDatPTaEg1Y1SuBlvEs) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [Hibi](https://open.spotify.com/album/2ilbAhaYpdlFGe5e3FzRhS) | 2:46 |
 | 73 | [Ashore](https://open.spotify.com/track/7okAPL9Qoj88byNDbuIjiV) | [Ebauche](https://open.spotify.com/artist/5n0eez6NwUmuLTn2AwA0i3) | [Adrift](https://open.spotify.com/album/19jaJ8g4HUynwp0fREHFe4) | 9:20 |
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 | 92 | [Thalfang](https://open.spotify.com/track/2pKCu894n98a9xwpSJ8nmG) | [Yosi Horikawa](https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ) | [Thousands of Eyes in the Dark](https://open.spotify.com/album/4QMtlhvAyEYpxPLhw7XBqI) | 5:23 |
 | 93 | [Signals](https://open.spotify.com/track/3dmgdlknLnVte97AURFYyf) | [Marcus Woods](https://open.spotify.com/artist/4qCRpU52vK7JBpObHgKkH4) | [Signals](https://open.spotify.com/album/7C7WpnmXw6RufxybdZbZlS) | 2:46 |
 | 94 | [Epilogue](https://open.spotify.com/track/1LIUJgDSRkNYjo4tVtoz2e) | [Yutaka Hirose](https://open.spotify.com/artist/1FdNQlWcuAjkLTEx7xHf25) | [Nova + 4 \(Extended Version\)](https://open.spotify.com/album/7lETHTMoNPXfiqrEWcuKg1) | 7:41 |
-| 95 | [Amayadori](https://open.spotify.com/track/22FIQx73AmjHLpUhkgdswZ) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Fragmentary](https://open.spotify.com/album/77dDhKqacxTQBz9womkmbY) | 0:29 |
+| 95 | [Amayadori](https://open.spotify.com/track/22FIQx73AmjHLpUhkgdswZ) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Fragmentary](https://open.spotify.com/album/77dDhKqacxTQBz9womkmbY) | 8:20 |
 | 96 | [Morgenånder](https://open.spotify.com/track/3OtCjXOx1v2GEEDtxmmXWA) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Hidden Terraces](https://open.spotify.com/album/2POudgO00jsxmmUAwJhh7c) | 18:07 |
 | 97 | [Nacre Meadow](https://open.spotify.com/track/2aVgJE85GexucuDrHeyfeL) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Nacre Meadow](https://open.spotify.com/album/7pCr6UqsBdMdSpT0yNHREw) | 6:08 |
 | 98 | [Praying For Mother / Earth, Pt\. 1](https://open.spotify.com/track/34AmO1eE0L5aOdAVRFhv1G) | [Akira Ito](https://open.spotify.com/artist/6AuRHPIlYDhz1UA0GOkhjm) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 4:13 |

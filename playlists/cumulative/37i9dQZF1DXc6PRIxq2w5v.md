@@ -2,9 +2,9 @@
 
 ### [Gospel Flow](https://open.spotify.com/playlist/37i9dQZF1DXc6PRIxq2w5v)
 
-> Entre os versos e beats, a palavra do Senhor\. Foto: VICTIN
+> Entre os versos e beats, a palavra do Senhor\. Foto: Asaph, BIG THE KIID
 
-90 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/3j1tW8qwWrXfBEybLADTJk)
+91 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/3j1tW8qwWrXfBEybLADTJk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Cores Novas](https://open.spotify.com/track/5mumRcr5TySm83gAq490ZK) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Cores Novas](https://open.spotify.com/album/1yhKSiRIQgRJ4CV0v00Vr7) | 2:18 | 2022-04-29 |  |
 | [CQC](https://open.spotify.com/track/4JkzJn1FnabMbGAmlQ3A4Y) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [CQC](https://open.spotify.com/album/7L9uEDiFsqSZGB2F5KBynC) | 3:01 | 2022-03-22 |  |
 | [Céu](https://open.spotify.com/track/2gWJECcGcgrnlRdtdoTrvI) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Céu](https://open.spotify.com/album/5R1ZegDpgnJerbLgDjXUUi) | 2:00 | 2022-03-22 |  |
+| [DE NADA](https://open.spotify.com/track/5ijBpUO3w7kqTZj72ttyam) | [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI), [BIG THE KIID](https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1) | [BREAKFAST](https://open.spotify.com/album/10XLRM6E0iOrOGb6fReoSj) | 2:04 | 2022-07-01 |  |
 | [Defeitos](https://open.spotify.com/track/5wHw0jYd89joDdHeC2jlPn) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Defeitos](https://open.spotify.com/album/3PLJerY96TWy9XJ9TDXBjk) | 3:18 | 2022-03-22 |  |
 | [Deserto](https://open.spotify.com/track/4RAeUonVKVHJVosv2j0eyU) | [MN MC](https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV), [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP), [Christian Beaver](https://open.spotify.com/artist/2CyK0BBUAT5zi2ITLK5xPB) | [Deserto](https://open.spotify.com/album/0MF14iNYICi1Lkn7yZYlZh) | 3:29 | 2022-03-22 |  |
 | [Desilusões](https://open.spotify.com/track/1F4PqJexlZ6A92ZVUeaMc9) | [OnSet](https://open.spotify.com/artist/486ZJwd4t1GNxDMDzGQqwI), [Dablyo](https://open.spotify.com/artist/4ojsT7JOFibDg7ZjW8Ormz), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Desilusões](https://open.spotify.com/album/5O7lHnbVs8HaS88T7ME2LB) | 2:30 | 2022-03-22 |  |
@@ -67,7 +68,7 @@
 | [Montanha](https://open.spotify.com/track/4KnjB9F6E9TKv7fYh3GpkP) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Montanha](https://open.spotify.com/album/6DgOXKXNHH3UPQghDRfRYK) | 3:13 | 2022-03-22 |  |
 | [Nessa Guerra Aqui Ninguém Ganha](https://open.spotify.com/track/65WuhK6Xk2g6uvnLzxvthQ) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw), [P.N.D.K](https://open.spotify.com/artist/5PZfYnajyzVyk0PlY0ChKw) | [Nessa Guerra Aqui Ninguém Ganha](https://open.spotify.com/album/2blQM5I7JF1xHtjQeyI7ID) | 3:45 | 2022-03-22 |  |
 | [Não Se Trata de Mim](https://open.spotify.com/track/4rjuNb4lymltkPuQifQPK2) | [Emithir](https://open.spotify.com/artist/40TYtSTZBwMftZVA6OZCOb) | [Não Se Trata de Mim](https://open.spotify.com/album/5nQbJHAdRpGpuZLVBdnP3y) | 3:17 | 2022-03-22 |  |
-| [Não Tentarás](https://open.spotify.com/track/43MqAg9aHnBxaQjTcfCa9h) | [MN MC](https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV), [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Não Tentarás](https://open.spotify.com/album/4betQllYN8d9WMmkrCzPdp) | 4:08 | 2022-03-22 |  |
+| [Não Tentarás](https://open.spotify.com/track/43MqAg9aHnBxaQjTcfCa9h) | [MN MC](https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV), [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Não Tentarás](https://open.spotify.com/album/4betQllYN8d9WMmkrCzPdp) | 4:08 | 2022-03-22 | 2022-07-02 |
 | [O Bem Que Eu Quero Fazer Não Faço](https://open.spotify.com/track/6AzxGlceDX62BM7Obp7JH2) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [O Bem Que Eu Quero Fazer Não Faço](https://open.spotify.com/album/2RGP9VALNUJ9oWyYwA2k5S) | 3:26 | 2022-03-22 |  |
 | [O Pai Espera Você Voltar](https://open.spotify.com/track/6dlL6wopzZIaF0232y6ZOI) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [O Pai Espera Você Voltar](https://open.spotify.com/album/4BEKkCNmiA6bFIY7BxgIZN) | 4:17 | 2022-03-22 |  |
 | [Oração](https://open.spotify.com/track/27ewarCSYA5W1Su9Fp3o7h) | [P\. Oliveira](https://open.spotify.com/artist/7fqc3O97h2bySMwdI2g9Zd), [Victor Henry](https://open.spotify.com/artist/2BlDMHgN6HfWB0wvGa8DPu) | [Oração](https://open.spotify.com/album/3Cm1d2xUKGUxEoGl6xUPkZ) | 2:19 | 2022-03-22 | 2022-04-09 |

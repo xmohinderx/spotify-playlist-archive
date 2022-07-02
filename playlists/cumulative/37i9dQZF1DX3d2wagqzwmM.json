@@ -173,7 +173,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 184826,
       "name": "Arabian Nights",
       "url": "https://open.spotify.com/track/3e9lh8yGoVFBfOWt9e3imb"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 165714,
       "name": "Closer",
       "url": "https://open.spotify.com/track/4uUGyVwAKE8z7fyoyHBdvd"
@@ -862,6 +862,28 @@
     },
     {
       "album": {
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/5c7KBGm5itLGnklFh2JSeh"
+      },
+      "artists": [
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        },
+        {
+          "name": "L3N",
+          "url": "https://open.spotify.com/artist/1CPGHY0C0ju8YUFVSXAWOy"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/77gg2iID0drmIb7bvj3pqo"
+    },
+    {
+      "album": {
         "name": "Feel The Fire",
         "url": "https://open.spotify.com/album/3ZcDLMFFOfhextDOboIB0j"
       },
@@ -1035,7 +1057,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 29048,
       "name": "Founding Fathers",
       "url": "https://open.spotify.com/track/0XvtB7JNbIvWaQGVAy8amP"
@@ -1325,7 +1347,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 231562,
       "name": "Hero - Dubvision Remix",
       "url": "https://open.spotify.com/track/1zz4r1u9x46gVmY5qZthEC"
@@ -1347,7 +1369,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 29048,
       "name": "Huang",
       "url": "https://open.spotify.com/track/2LQNjxWyhEsFhVxnwLrmSB"
@@ -1949,7 +1971,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 180047,
       "name": "Out Of My Mind",
       "url": "https://open.spotify.com/track/2wSudk1Z9HMdPNrWnwu6mc"
@@ -2121,7 +2143,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 229565,
       "name": "Raindrops - Avao Remix",
       "url": "https://open.spotify.com/track/16b1sDaG65MWEBnRGLm9Gd"
@@ -2161,7 +2183,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 160888,
       "name": "Raptor",
       "url": "https://open.spotify.com/track/4rQWeoQSHpBFP4Qk6mlw0T"
@@ -2227,7 +2249,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 173027,
       "name": "Readymade Sweat",
       "url": "https://open.spotify.com/track/47RHGBGyfNHQkyT9m5lXpi"
@@ -2316,7 +2338,7 @@
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 225230,
       "name": "Safe",
       "url": "https://open.spotify.com/track/71WFZwTIUZoYpzjO56g3KH"
     },
@@ -2381,7 +2403,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 217142,
       "name": "She Movin'",
       "url": "https://open.spotify.com/track/2Mx93ho6F2ovN2FA4vs3Ud"
@@ -2466,7 +2488,7 @@
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 166812,
       "name": "Skydance",
       "url": "https://open.spotify.com/track/0c5nqQNIH07Lh16AOjqEPQ"
     },
@@ -2797,7 +2819,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 162461,
       "name": "The Passenger (LaLaLa) [feat. MOKABY] - Gabry Ponte Festival Mix",
       "url": "https://open.spotify.com/track/0LpWBNqyyn81WnoILV9mxV"

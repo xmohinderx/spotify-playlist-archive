@@ -4,7 +4,7 @@
 
 > 
 
-50 songs - 3 hr 7 min - [published](https://open.spotify.com/playlist/5aiZZXVRJwIq3dkN1PC8RG)
+50 songs - 3 hr 12 min - [published](https://open.spotify.com/playlist/5aiZZXVRJwIq3dkN1PC8RG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Get Up and Boogie \(That's Right\)](https://open.spotify.com/track/4hBqB9ggnSW1a68UVaKqua) | [Silver Convention](https://open.spotify.com/artist/5QHvbEwccF3WANUD5lEIuA) | [Silver Convention](https://open.spotify.com/album/4PbbYD1ElHiMUtCnjZwzR0) | 4:10 | 2013-06-27 |  |
 | [Golden Years \- 2002 Remaster](https://open.spotify.com/track/4KL2SFwIL1OjbBn7gpwaL2) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Best of Bowie](https://open.spotify.com/album/1jdQFC3s8PZUc5i7vovZTv) | 3:29 | 2013-06-27 |  |
 | [I Write the Songs \- Single Edit](https://open.spotify.com/track/3XmIxdK4YX8m94XWmwKheA) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [The Essential Barry Manilow](https://open.spotify.com/album/2RIG6dV498CqdszzYfZYgA) | 3:54 | 2013-06-27 |  |
-| [I'd Really Love to See You Tonight](https://open.spotify.com/track/51WE0PFRB0hCSp9mDC5p8u) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Rhino Hi\-Five: England Dan & John Ford Coley](https://open.spotify.com/album/40V7QExJNlpQZaxZf1JTF5) | 0:29 | 2013-06-27 |  |
+| [I'd Really Love to See You Tonight](https://open.spotify.com/track/51WE0PFRB0hCSp9mDC5p8u) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Rhino Hi\-Five: England Dan & John Ford Coley](https://open.spotify.com/album/40V7QExJNlpQZaxZf1JTF5) | 2:39 | 2013-06-27 |  |
 | [If You Leave Me Now](https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago X](https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P) | 3:55 | 2013-06-27 |  |
 | [Kiss and Say Goodbye](https://open.spotify.com/track/4GBq8IPJieQyxwpHfLCxAx) | [The Manhattans](https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf) | [The Best Of The Manhattans: Kiss And Say Goodbye](https://open.spotify.com/album/4shPsyHdXeoYwJeqt10Ttq) | 4:25 | 2013-06-27 |  |
 | [Let Your Love Flow](https://open.spotify.com/track/1l2HvhigEz3SB0KCSTnSzT) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/4Vv4XTwqGHe4QuBnQtm8OB) | 3:17 | 2013-06-27 |  |
@@ -51,7 +51,7 @@
 | [Sweet Love \- Single Version](https://open.spotify.com/track/5duak2hUo9XuQ8ZPewMZgU) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [100% Motown \- '70s](https://open.spotify.com/album/5Cl3cbt9kJKWH0RAprTAi9) | 3:25 | 2013-06-27 |  |
 | [Sweet Thing](https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Rufus Featuring Chaka Khan](https://open.spotify.com/album/3iWfRfxjYYQFN2Kvh3GuYX) | 3:20 | 2013-06-27 |  |
 | [Take It to the Limit \- 2013 Remaster](https://open.spotify.com/track/0JLQwnFGBbM69Hn9LlkoAu) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Very Best of the Eagles \(2013 Remaster\)](https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa) | 4:47 | 2013-06-27 |  |
-| [That's the Way I Like It](https://open.spotify.com/track/6q4WNR2hLjy57WkJ6kdUci) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [Shake Your Booty](https://open.spotify.com/album/2BJL2ppNKnjuuYYzyrKVMT) | 0:29 | 2013-06-27 |  |
+| [That's the Way I Like It](https://open.spotify.com/track/6q4WNR2hLjy57WkJ6kdUci) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [Shake Your Booty](https://open.spotify.com/album/2BJL2ppNKnjuuYYzyrKVMT) | 3:05 | 2013-06-27 |  |
 | [Theme From Mahogany \(Do You Know Where You're Going To\)](https://open.spotify.com/track/2yTC22G0DRaIeCpGi2JkWV) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Ultimate Collection: Diana Ross](https://open.spotify.com/album/5noU0f2NH1s9uBxKRIk3Jd) | 3:26 | 2013-06-27 |  |
 | [Theme From S.W.A.T.](https://open.spotify.com/track/4hDDfS0yW4YH0VGsJEjSM8) | [Rhythm Heritage](https://open.spotify.com/artist/2ZGlJUO9hdjZEvl710OpVX) | [Thriller Jazz \(Jazz Club\)](https://open.spotify.com/album/3PBEMIhUUqHs75tWjekVvt) | 3:21 | 2013-06-27 |  |
 | [Turn the Beat Around \- Single Version](https://open.spotify.com/track/2TziLOnBMT8kDVo2LA1X6t) | [Vicki Sue Robinson](https://open.spotify.com/artist/25pwh5JrKHzLv2FTPSvoqa) | [Radio Hits Of the '70s](https://open.spotify.com/album/2JcwQwy2KY3CEIzHUC30wG) | 4:12 | 2013-06-27 |  |

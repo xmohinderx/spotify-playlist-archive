@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-451 songs - 20 hr 16 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
+451 songs - 20 hr 19 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [FOREVER](https://open.spotify.com/track/3cDQCtkUOkdwxPjNRp652b) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [INLOGGAD 2](https://open.spotify.com/album/6hnfGHMjUdFgaAdnX442Yy) | 2:22 | 2022-06-09 | 2022-06-23 |
 | [Foxy \(feat\. PABI\)](https://open.spotify.com/track/4MiFfAn85FcJBKB52Ucux8) | [Imenella](https://open.spotify.com/artist/6IuS73qKuYfrYqA5g5iq0h), [PABI](https://open.spotify.com/artist/5Y3Y1CiblRM9kggjDwTEU8) | [Foxy \(feat\. PABI\)](https://open.spotify.com/album/1gztWrd3PxGKHBYtKwkZK3) | 2:12 | 2022-01-13 | 2022-03-04 |
 | [Fram och Tillbaka](https://open.spotify.com/track/51uJomQJxisIyjyXIErid0) | [Nisch](https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU) | [Fram och Tillbaka](https://open.spotify.com/album/2vVQ2qe1IMLBwcxUJijs95) | 2:38 | 2022-06-27 |  |
-| [fuego \(feat\. GABIFUEGO\) \- Spotify Studio 100 Recording](https://open.spotify.com/track/2hYNimCc8MwLGMzCZI4IfR) | [Musti](https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6), [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ), [GABIFUEGO](https://open.spotify.com/artist/0F1ctf2KXhKhtcHzWdonJr) | [fuego \(feat\. GABIFUEGO\) \[Spotify Studio 100 Recording\]](https://open.spotify.com/album/02gT5JjdBLAkwSr2dGoyT5) | 0:29 | 2021-12-16 |  |
+| [fuego \(feat\. GABIFUEGO\) \- Spotify Studio 100 Recording](https://open.spotify.com/track/2hYNimCc8MwLGMzCZI4IfR) | [Musti](https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6), [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ), [GABIFUEGO](https://open.spotify.com/artist/0F1ctf2KXhKhtcHzWdonJr) | [fuego \(feat\. GABIFUEGO\) \[Spotify Studio 100 Recording\]](https://open.spotify.com/album/02gT5JjdBLAkwSr2dGoyT5) | 2:44 | 2021-12-16 |  |
 | [För alltid \(feat\. Cherrie\)](https://open.spotify.com/track/5ifuPXMJyFzb6m0ypJn5ac) | [Imenella](https://open.spotify.com/artist/6IuS73qKuYfrYqA5g5iq0h), [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Gemini](https://open.spotify.com/album/0lalDWNxyKDSBrWcoA5uhU) | 2:56 | 2022-03-10 | 2022-06-03 |
 | [För evigt](https://open.spotify.com/track/6i9bzIGdgfQiyw9S3QhSCy) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [För evigt](https://open.spotify.com/album/143MKTPgMmzi5emJl2sZhM) | 2:32 | 2022-05-05 | 2022-06-17 |
 | [För Evigt Tacksam](https://open.spotify.com/track/5o9DhuKsjDOhlGfQ9Dnpua) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB), [Lani Mo](https://open.spotify.com/artist/45hO5u8evtwIpSYefQHW8P) | [Allting Har Sitt Pris \(Del 1\)](https://open.spotify.com/album/4cXRcULPoRuWTEOK25Wz2u) | 2:27 | 2022-02-21 | 2022-03-17 |

@@ -4,7 +4,7 @@
 
 > Beats inspired by the golden era of hip hop.
 
-146 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
+146 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Nothing Changed](https://open.spotify.com/track/1NAllfYf8F5ncZL2GcLsbC) | [Alcynoos](https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY), [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve) | [Nothing Changed](https://open.spotify.com/album/4E8YcQ4mA19bPQayQB2nkv) | 2:35 | 2022-05-20 |  |
 | [Old Enough To Party](https://open.spotify.com/track/1toZcQ10Fj2q2kFlM6f7e3) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Superpad](https://open.spotify.com/album/71f8yJ3jyE0366wpVCFfl4) | 1:08 | 2021-11-11 |  |
 | [Old Tram](https://open.spotify.com/track/3nFoFJdKjaIEdJcNuEcIZB) | [Ozelot](https://open.spotify.com/artist/0EGqP4H6r2Fc7VquwjgMtY) | [Old Tram](https://open.spotify.com/album/1o3IAb8iXLdEeUmj6tfbTf) | 2:10 | 2022-02-18 |  |
-| [Out of Control](https://open.spotify.com/track/4WJoNiRZ35DDsQINC2GXxd) | [Sepalot](https://open.spotify.com/artist/3sZWrl2jYnPP1vw9cIqDZV) | [Break Again](https://open.spotify.com/album/1yL7GuPfFfhM1764j3dB6s) | 0:29 | 2021-11-11 |  |
+| [Out of Control](https://open.spotify.com/track/4WJoNiRZ35DDsQINC2GXxd) | [Sepalot](https://open.spotify.com/artist/3sZWrl2jYnPP1vw9cIqDZV) | [Break Again](https://open.spotify.com/album/1yL7GuPfFfhM1764j3dB6s) | 1:48 | 2021-11-11 |  |
 | [Painting My Thoughts](https://open.spotify.com/track/6DTKZsmOR9drYUqPqxe48U) | [Obie Hans](https://open.spotify.com/artist/59WcuCFVwOnZdOUvAHW1NV) | [Painting My Thoughts](https://open.spotify.com/album/5767LRfb1YKV5k8KRbTmoP) | 2:29 | 2021-11-11 |  |
 | [Paranoid Society \- Instrumental](https://open.spotify.com/track/65dL2H0PFe9IAV1dOAl0d3) | [Damu The Fudgemunk](https://open.spotify.com/artist/7Mws36yO3takBR2WMsXOkM) | [Travel Instrumentals \(10 Year Anniversary Edition\)](https://open.spotify.com/album/1PGmuVGUYfBN68kNoCShJX) | 4:27 | 2021-11-11 | 2022-05-20 |
 | [Phoenix Wright Ace Attorney](https://open.spotify.com/track/0I3nfnIvEJ8a2umI8qs0x2) | [Cartridge 1987](https://open.spotify.com/artist/359GzoMEPYlm349fhv6YHo) | [Phoenix Wright Ace Attorney](https://open.spotify.com/album/2gGmh1bcLPDt1voOMDoAds) | 2:15 | 2022-06-17 |  |
@@ -113,7 +113,7 @@
 | [Pool Party](https://open.spotify.com/track/5YsdcIOa9LYt9ac7mtlcle) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Pool Party](https://open.spotify.com/album/5u1iXg6tsP7IivnYl9JkKF) | 1:12 | 2021-11-11 |  |
 | [Priddy](https://open.spotify.com/track/45WLGoZ4j4x7jFBRZzrzcR) | [Fasion](https://open.spotify.com/artist/5uhPMkoNEzwhbfAw5UzAUg) | [Priddy](https://open.spotify.com/album/2QcQv4BizwMYpohZ9md2u5) | 3:10 | 2021-11-11 |  |
 | [Pyramid Hands](https://open.spotify.com/track/3akR3qgQ7PIRcNAxEmf37L) | [Blue Cousins](https://open.spotify.com/artist/5xTmsiaHwO4F5BolRtmvCY) | [Pyramid Hands](https://open.spotify.com/album/7vpMvEpPKdo6iG5D3Mp7GT) | 2:12 | 2022-02-17 |  |
-| [Queens](https://open.spotify.com/track/7uVJflRdFQdUOiZiUVLSYJ) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Overnight Oats](https://open.spotify.com/album/2NJsKmG09F4z4dz9XEHN9f) | 0:29 | 2021-11-11 |  |
+| [Queens](https://open.spotify.com/track/7uVJflRdFQdUOiZiUVLSYJ) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Overnight Oats](https://open.spotify.com/album/2NJsKmG09F4z4dz9XEHN9f) | 2:27 | 2021-11-11 |  |
 | [rebounce](https://open.spotify.com/track/2tW8wzVmE4NZNX2dCpDyz4) | [shamgang](https://open.spotify.com/artist/5BfSohdNvmTJkJeo9ksrVh) | [Moods 2020](https://open.spotify.com/album/645AC6dlytq5nFwF6kvpA4) | 2:02 | 2021-11-11 |  |
 | [Renegades](https://open.spotify.com/track/2aW6bhzUQ53imrld5G8VKY) | [Sleepy Tigers](https://open.spotify.com/artist/1DK5TN3sWOFCRHTQYODjpH) | [Renegades](https://open.spotify.com/album/7gbhY8Cdb3HLvTsoT5EgPc) | 2:58 | 2021-11-11 |  |
 | [Rites of Summer \- All Love](https://open.spotify.com/track/5wnlOiHUL6ihduM0jRpiul) | [Kuranes](https://open.spotify.com/artist/3BU4UGbnzKAtkq79Y1MW0e) | [Rites of Summer \(All Love\)](https://open.spotify.com/album/1DYT6iXMPKG6B6JZD0imU5) | 1:32 | 2022-05-13 | 2022-05-20 |

@@ -4,7 +4,7 @@
 
 > canzoni da gridare ed è iniziata anche questa summersad ❤️‍🩹🌦
 
-176 songs - 7 hr 59 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
+176 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,9 +27,9 @@
 | [Anime Lady](https://open.spotify.com/track/2hjSYkVfpDQz0mbTa29TO0) | [b0nd](https://open.spotify.com/artist/1wEV0uFQT41Ur0GgbOMRyD) | [Anime Lady](https://open.spotify.com/album/6grvdZizkXcb7rGDaoOG7n) | 3:31 | 2022-05-19 | 2022-05-27 |
 | [ASAP!](https://open.spotify.com/track/3cR8Pdmm1chaWiO0BZTA3m) | [ReVersa](https://open.spotify.com/artist/73j6qmBgbP3pra3REEEqas) | [ASAP!](https://open.spotify.com/album/0CD4oYjzga6ixLoUxMMuyo) | 3:05 | 2022-06-23 | 2022-06-28 |
 | [Ascolta](https://open.spotify.com/track/2tX4EAq6MsQcncVfrNE1EP) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1) | [Ascolta](https://open.spotify.com/album/2TXXhzyuerk6eXLn4CR4y4) | 2:34 | 2022-05-06 | 2022-06-10 |
-| [Aurora](https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Aurora](https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9) | 0:29 | 2022-06-27 |  |
+| [Aurora](https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Aurora](https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9) | 2:54 | 2022-06-27 |  |
 | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/track/374EllG6WyKdKvklfanNZT) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/album/1e9CbSWMgie8riYCSvqNs3) | 2:04 | 2022-05-06 | 2022-06-03 |
-| [BABY GODDAMN](https://open.spotify.com/track/3yWHQ4n4ARLDfYTuT2NhnN) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [BABY GODDAMN](https://open.spotify.com/album/6bOKRuocPC83OuQDrRIklj) | 0:29 | 2022-05-06 |  |
+| [BABY GODDAMN](https://open.spotify.com/track/3yWHQ4n4ARLDfYTuT2NhnN) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [BABY GODDAMN](https://open.spotify.com/album/6bOKRuocPC83OuQDrRIklj) | 2:29 | 2022-05-06 |  |
 | [Basta](https://open.spotify.com/track/2A76lNgorxfhOnG0yLSOvu) | [Holy](https://open.spotify.com/artist/7rKhniAoTGdu1IFQFxEajZ) | [Basta](https://open.spotify.com/album/5kJUJ5naCgnRONx5ROtZkz) | 2:44 | 2022-05-26 |  |
 | [BELLA E CATTIVA](https://open.spotify.com/track/0kcbXArgh2BA7jnl36m1Ra) | [LACRAY](https://open.spotify.com/artist/4xpU5TueW8UPyRCpwnXwbo), [demoncandy](https://open.spotify.com/artist/68SYpEb4cmSAjA4k3B8npz) | [BELLA E CATTIVA](https://open.spotify.com/album/2ZQk4UNmyL5ALrc8YcRMW7) | 2:29 | 2022-05-06 | 2022-05-27 |
 | [Bimbi sperduti](https://open.spotify.com/track/2cbhjonbV2YPffUoaliMvW) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Bimbi sperduti](https://open.spotify.com/album/71Hni2mOJAUVC9ll9fpvdo) | 2:47 | 2022-05-06 | 2022-06-10 |
@@ -38,7 +38,7 @@
 | [Boy, don’t cry](https://open.spotify.com/track/64JyXTxIsxgmY5mElMvnGq) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [Mr\. Monkey](https://open.spotify.com/artist/1sHljqzdPCaYRcFrkHW8if) | [Lalalacrime](https://open.spotify.com/album/4AH6JYWDjp38EElRqCTFRN) | 3:10 | 2022-05-13 | 2022-06-24 |
 | [break me!](https://open.spotify.com/track/4kAtlOHiKnGFfJVPfLyHo1) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [break me!](https://open.spotify.com/album/3mV2ebkKgbEaEjnTbi0sJD) | 2:33 | 2022-06-02 | 2022-06-28 |
 | [Canzone d'amore](https://open.spotify.com/track/1gCKZvQnUvuyURWo8iJfbS) | [Lost](https://open.spotify.com/artist/2eUAT3EZcrLTorvfc38Opo) | [Canzone d'amore](https://open.spotify.com/album/6in0ilspKm2XlNj6IQ8Y7n) | 3:28 | 2022-06-02 |  |
-| [Che pace // Che palle](https://open.spotify.com/track/2Z4jER1WEKoy0tcmJCVb0X) | [empty](https://open.spotify.com/artist/0IOp28iZmU4zrgRR2ol34d), [MATA](https://open.spotify.com/artist/4jh2kCacRBgKhCGF1Vcx5L) | [Che pace // Che palle](https://open.spotify.com/album/3FUUCdMCilMdLeXPKoIAaR) | 0:29 | 2022-05-06 |  |
+| [Che pace // Che palle](https://open.spotify.com/track/2Z4jER1WEKoy0tcmJCVb0X) | [empty](https://open.spotify.com/artist/0IOp28iZmU4zrgRR2ol34d), [MATA](https://open.spotify.com/artist/4jh2kCacRBgKhCGF1Vcx5L) | [Che pace // Che palle](https://open.spotify.com/album/3FUUCdMCilMdLeXPKoIAaR) | 2:37 | 2022-05-06 |  |
 | [CI BERREMO SOPRA](https://open.spotify.com/track/14MPHzoxuguLWUfRvuirNo) | [treDiCuori](https://open.spotify.com/artist/5urMNWGVpr57ON72Xo6rpR), [Polly](https://open.spotify.com/artist/0x3VDd0WGoNLhMTd4hgxIA) | [FALSO NUEVE](https://open.spotify.com/album/2WSTRYVg6eFuer1IIRr7Tr) | 2:26 | 2022-05-06 | 2022-06-17 |
 | [CIELO DRIVE](https://open.spotify.com/track/4QXnwCNswo3RzJzAr1EjWP) | [PAULO](https://open.spotify.com/artist/6ZyBrWgVAZXWCqTXTFaY5p) | [CIELO DRIVE](https://open.spotify.com/album/56Luh3qipxzWTZhCQhOGJc) | 2:23 | 2022-05-06 | 2022-05-20 |
 | [COME NOI](https://open.spotify.com/track/1QZyZdurNkP6oI0vTEiYM8) | [Alias De Plume](https://open.spotify.com/artist/5l6Sfr7EEfEDqr3ykwuFpC), [Ladyb](https://open.spotify.com/artist/7AFf4ct0bJervH23P2PoDQ) | [COME NOI](https://open.spotify.com/album/6EIHEZs5kwOea8Vrm0k7Ac) | 2:21 | 2022-05-06 | 2022-05-27 |

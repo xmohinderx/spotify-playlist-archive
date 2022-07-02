@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Sinta o flow do rap em estilo ac\u00fastico ou rom\u00e2ntico. Foto: Cesar MC, Lourena",
+  "description": "Sinta o flow do rap em estilo ac\u00fastico ou rom\u00e2ntico. Foto: 3030",
   "name": "Rap Ac\u00fastico",
   "published_playlist_ids": [
     "3Y7mPYZlaTNNZskH9TnUUs"
@@ -676,6 +676,28 @@
     },
     {
       "album": {
+        "name": "Duas Vezes Melhor (Session)",
+        "url": "https://open.spotify.com/album/07jccOrExTeXRc44Rj6xZ6"
+      },
+      "artists": [
+        {
+          "name": "Cave",
+          "url": "https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7"
+        },
+        {
+          "name": "Liink",
+          "url": "https://open.spotify.com/artist/6XAaynGctovNbHNyGohYkA"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207272,
+      "name": "Colecionador de ilus\u00e3o",
+      "url": "https://open.spotify.com/track/1mZ5TKdEHnvoikySj0TeE3"
+    },
+    {
+      "album": {
         "name": "Contratei o Tempo",
         "url": "https://open.spotify.com/album/5KTiTNaCP6cZjwxlgMf4v0"
       },
@@ -791,7 +813,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 170000,
       "name": "Em Brasa",
       "url": "https://open.spotify.com/track/00OdVb1DXh4VnEDSjxB67X"
@@ -851,6 +873,42 @@
       "duration_ms": 242526,
       "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
       "url": "https://open.spotify.com/track/4Sz4wqydJaWpFfR2QoaLCJ"
+    },
+    {
+      "album": {
+        "name": "Expectativas",
+        "url": "https://open.spotify.com/album/13xuKcNArawB92zGJibUKh"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201459,
+      "name": "Expectativas",
+      "url": "https://open.spotify.com/track/0EvH4HVrhZnvAfyctBSGrk"
+    },
+    {
+      "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/5hZTCAtb2Whkb1hQzyFtr0"
+      },
+      "artists": [
+        {
+          "name": "Cidade Verde Sounds",
+          "url": "https://open.spotify.com/artist/2tVU8TVXlrwk6KESQxLwH8"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219661,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/293RaVNeAHU4fpDCd873wX"
     },
     {
       "album": {
@@ -1471,7 +1529,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 176000,
       "name": "O Que Voc\u00ea Quiser",
       "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
@@ -1500,7 +1558,7 @@
         },
         {
           "name": "Rominho",
-          "url": "https://open.spotify.com/artist/5Ya5uHo4BWHmVPzAy9LgmB"
+          "url": "https://open.spotify.com/artist/3DvN5raDaY6Hf5LC6w95Di"
         },
         {
           "name": "Sarah Fonseca",
@@ -2743,7 +2801,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 135255,
       "name": "Trago",
       "url": "https://open.spotify.com/track/4kglT9uk5zPBxctH70Uapl"

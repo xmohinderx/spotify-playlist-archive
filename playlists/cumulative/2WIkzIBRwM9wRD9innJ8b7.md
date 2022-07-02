@@ -4,7 +4,7 @@
 
 > 
 
-20 songs - 1 hr 14 min - [published](https://open.spotify.com/playlist/1KpFM6APa3tCQ8UYse3jaq)
+20 songs - 1 hr 22 min - [published](https://open.spotify.com/playlist/1KpFM6APa3tCQ8UYse3jaq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [My Songs Know What You Did In The Dark \(Light Em Up\)](https://open.spotify.com/track/7s0lDK7y3XLmI7tcsRAbW0) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Save Rock And Roll](https://open.spotify.com/album/0EVJX4RlYKuApsAN5CaDa3) | 3:06 | 2013-06-26 |  |
 | [One More Night](https://open.spotify.com/track/45kbpUIFmkS9Xla7hMXpzn) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Overexposed \(Deluxe\)](https://open.spotify.com/album/0JLLn5vaJZecVH0lTEsDXP) | 3:39 | 2013-06-26 |  |
 | [Pass Out \- Radio Edit](https://open.spotify.com/track/3X6I31MGo4GwICW7Ur3nLx) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [I Give It A Year \(Original Soundtrack\)](https://open.spotify.com/album/6lgf17LyB0S78u40c2WEMo) | 3:58 | 2013-06-26 |  |
-| [Pusher Love Girl](https://open.spotify.com/track/4tVEJTR4VgBvvb2R6phA2v) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The 20/20 Experience](https://open.spotify.com/album/41br7lBSZOr9RjJAjk0om6) | 0:29 | 2013-06-26 |  |
+| [Pusher Love Girl](https://open.spotify.com/track/4tVEJTR4VgBvvb2R6phA2v) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The 20/20 Experience](https://open.spotify.com/album/41br7lBSZOr9RjJAjk0om6) | 8:02 | 2013-06-26 |  |
 | [Radioactive](https://open.spotify.com/track/6h1Wkcm9qz79Xt1Qnp4n4A) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Continued Silence EP](https://open.spotify.com/album/0lW1cNfQfZDndoQ8ej2TSP) | 3:08 | 2013-06-26 |  |
 | [Rumour Has It](https://open.spotify.com/track/76N7FdzCI9OsiUnzJVLY2m) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147) | 3:41 | 2013-06-26 |  |
 | [Sail](https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 4:19 | 2013-06-26 |  |

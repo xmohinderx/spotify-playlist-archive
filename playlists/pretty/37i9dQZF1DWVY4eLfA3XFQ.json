@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring Green Velvet.",
-  "num_followers": 557131,
+  "num_followers": 557476,
   "original_name": "Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA0MzI2MCwwMDAwMDEzYTAwMDAwMTgxOTNkZWM4ZGMwMDAwMDE4MTZlNzFmOGM1",
+  "snapshot_id": "MTY1NjY0ODA2MCwwMDAwMDEzYjAwMDAwMTgxYjdlYjRkNDcwMDAwMDE4MTZlNzFmOGM1",
   "tracks": [
     {
       "added_at": "2022-06-03 04:00:00",
@@ -47,6 +47,26 @@
       "duration_ms": 202017,
       "name": "OoooH",
       "url": "https://open.spotify.com/track/0pirokrbgCxZ0nvZsl5qEU"
+    },
+    {
+      "added_at": "2022-06-21 14:40:24",
+      "album": {
+        "name": "Chiquetere",
+        "url": "https://open.spotify.com/album/7762QoadEu8iEVvhDo94P6"
+      },
+      "artists": [
+        {
+          "name": "Paskman",
+          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
+        },
+        {
+          "name": "Rafa Villalba",
+          "url": "https://open.spotify.com/artist/55r5KF4IQdMkhXEzoluxUm"
+        }
+      ],
+      "duration_ms": 163488,
+      "name": "Chiquetere (feat. Rafa Villalba)",
+      "url": "https://open.spotify.com/track/1pdsBkhNchpGCQTGoNQXZI"
     },
     {
       "added_at": "2022-06-03 04:00:00",
@@ -113,6 +133,26 @@
       "url": "https://open.spotify.com/track/4Ynibk8PO978n4voJ1Uzby"
     },
     {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Tuko Tuko",
+        "url": "https://open.spotify.com/album/6W3EQfiO498fLmBgCJNDwB"
+      },
+      "artists": [
+        {
+          "name": "Lee Foss",
+          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+        },
+        {
+          "name": "Paskman",
+          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
+        }
+      ],
+      "duration_ms": 217142,
+      "name": "Tuko Tuko",
+      "url": "https://open.spotify.com/track/5YzoHnKF8AF4Ys76VPmpKR"
+    },
+    {
       "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Rudeboi",
@@ -129,24 +169,20 @@
       "url": "https://open.spotify.com/track/3oUkoGYPWVxt3NrohcoMHY"
     },
     {
-      "added_at": "2022-06-21 14:40:24",
+      "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Chiquetere",
-        "url": "https://open.spotify.com/album/7762QoadEu8iEVvhDo94P6"
+        "name": "Trompeta",
+        "url": "https://open.spotify.com/album/3fyDFUE6R0Q8TdFHC5q2nz"
       },
       "artists": [
         {
-          "name": "Paskman",
-          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
-        },
-        {
-          "name": "Rafa Villalba",
-          "url": "https://open.spotify.com/artist/55r5KF4IQdMkhXEzoluxUm"
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
         }
       ],
-      "duration_ms": 163488,
-      "name": "Chiquetere (feat. Rafa Villalba)",
-      "url": "https://open.spotify.com/track/1pdsBkhNchpGCQTGoNQXZI"
+      "duration_ms": 188571,
+      "name": "Trompeta",
+      "url": "https://open.spotify.com/track/6o4BO9LLCPe5p43YKZzFuv"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -199,6 +235,30 @@
       "duration_ms": 178629,
       "name": "Eastern Dub",
       "url": "https://open.spotify.com/track/6cVlxUZCdNqNQsgH0T2aqh"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Ameno Amapiano (You Wanna Bamba) [Todd Terry Remix]",
+        "url": "https://open.spotify.com/album/1p8WJo98RIGtAVRIFrXFsh"
+      },
+      "artists": [
+        {
+          "name": "Goya Menor",
+          "url": "https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX"
+        },
+        {
+          "name": "Nektunez",
+          "url": "https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "duration_ms": 132800,
+      "name": "Ameno Amapiano Remix (You Wanna Bamba) - Todd Terry Remix",
+      "url": "https://open.spotify.com/track/0Yx4DyxRnhoXdEQcSbn0CD"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -581,6 +641,22 @@
       "url": "https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh"
     },
     {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "Get After It",
+        "url": "https://open.spotify.com/album/1FTU08UNsEwjvtvsFhC4vI"
+      },
+      "artists": [
+        {
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+        }
+      ],
+      "duration_ms": 178837,
+      "name": "Get After It",
+      "url": "https://open.spotify.com/track/0a089la64vLzIReKpnjrfZ"
+    },
+    {
       "added_at": "2022-06-10 14:37:31",
       "album": {
         "name": "Superfly",
@@ -629,20 +705,24 @@
       "url": "https://open.spotify.com/track/5h2ED2Bw6lKWZDOuQTTSDG"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Get After It",
-        "url": "https://open.spotify.com/album/1FTU08UNsEwjvtvsFhC4vI"
+        "name": "Calabria (Claptone Remix)",
+        "url": "https://open.spotify.com/album/5qHPt0JFip30XVeQvXLIzI"
       },
       "artists": [
         {
-          "name": "Wade",
-          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        },
+        {
+          "name": "Rune",
+          "url": "https://open.spotify.com/artist/1ZidiBfjGcKKQgglqGVfj1"
         }
       ],
-      "duration_ms": 178837,
-      "name": "Get After It",
-      "url": "https://open.spotify.com/track/0a089la64vLzIReKpnjrfZ"
+      "duration_ms": 171310,
+      "name": "Calabria - Claptone Remix",
+      "url": "https://open.spotify.com/track/5SJaU2u1QXVvSenZoDlKMi"
     },
     {
       "added_at": "2022-06-10 14:37:31",
@@ -857,6 +937,26 @@
       "url": "https://open.spotify.com/track/0sUcDU6ysFrbl8l4JP3qS5"
     },
     {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Feel It (GUZ Remix)",
+        "url": "https://open.spotify.com/album/583DHou9e1MRu6pnIooV4j"
+      },
+      "artists": [
+        {
+          "name": "Hayley May",
+          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
+        },
+        {
+          "name": "Guz",
+          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
+        }
+      ],
+      "duration_ms": 168190,
+      "name": "Feel It - GUZ Remix",
+      "url": "https://open.spotify.com/track/39Oxhni4ULZjYNGQL2CFKr"
+    },
+    {
       "added_at": "2022-06-03 04:00:00",
       "album": {
         "name": "Bumpin'",
@@ -875,6 +975,22 @@
       "duration_ms": 170078,
       "name": "Bumpin'",
       "url": "https://open.spotify.com/track/2JSRHxHfbteGcueRhfKtm7"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Strut",
+        "url": "https://open.spotify.com/album/7kJtQku5TZl47Wkl0taooD"
+      },
+      "artists": [
+        {
+          "name": "Kyle Walker",
+          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
+        }
+      ],
+      "duration_ms": 183356,
+      "name": "Strut",
+      "url": "https://open.spotify.com/track/0nevM5K8CCJOTbAcpOS1Js"
     },
     {
       "added_at": "2022-05-06 04:01:00",
@@ -1185,26 +1301,6 @@
       "url": "https://open.spotify.com/track/7zEOLbjfVd6jvEK7roRBvn"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "On & On (Kevin McKay Remix)",
-        "url": "https://open.spotify.com/album/0Loqru4GwLUyDo0t26CaPp"
-      },
-      "artists": [
-        {
-          "name": "Francesco Poggi",
-          "url": "https://open.spotify.com/artist/0kLNTRYte4lXSc4deAGDVZ"
-        },
-        {
-          "name": "Kevin McKay",
-          "url": "https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "On & On - Kevin McKay Remix",
-      "url": "https://open.spotify.com/track/4PUpNh8xGyWxjyNB4Wf8ZY"
-    },
-    {
       "added_at": "2022-05-20 04:01:00",
       "album": {
         "name": "Where's Your Head At (Martin Ikin Remix)",
@@ -1271,22 +1367,6 @@
       "duration_ms": 184935,
       "name": "More Money Girls",
       "url": "https://open.spotify.com/track/3qWeNg7bQLcssTFYjnQFwB"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Feel It",
-        "url": "https://open.spotify.com/album/0Xlrltos3265GCIltt7uXX"
-      },
-      "artists": [
-        {
-          "name": "Hayley May",
-          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
-        }
-      ],
-      "duration_ms": 180031,
-      "name": "Feel It",
-      "url": "https://open.spotify.com/track/2MhH5aAORsvCgl3E8aOC1q"
     },
     {
       "added_at": "2022-05-20 04:01:00",
@@ -1489,22 +1569,6 @@
       "url": "https://open.spotify.com/track/3hp1sx2wqHipS9fanoPrzV"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Never Ever",
-        "url": "https://open.spotify.com/album/5gYdpQEHqsfd8y0rvakbw6"
-      },
-      "artists": [
-        {
-          "name": "Saison",
-          "url": "https://open.spotify.com/artist/6AST5BAhARWnhaXlMnXGp7"
-        }
-      ],
-      "duration_ms": 168387,
-      "name": "Never Ever",
-      "url": "https://open.spotify.com/track/7pXtDwdYtjILjN5cK7UonH"
-    },
-    {
       "added_at": "2022-05-06 04:01:00",
       "album": {
         "name": "Boots 'N' Cats",
@@ -1579,26 +1643,6 @@
       "duration_ms": 186964,
       "name": "Out The Door",
       "url": "https://open.spotify.com/track/1u00EMt2762l5buwd6uQAK"
-    },
-    {
-      "added_at": "2022-04-27 04:46:08",
-      "album": {
-        "name": "In My Bones (feat. Jaxxon)",
-        "url": "https://open.spotify.com/album/0Ol6ie0K0SDn5GMqHm2IRT"
-      },
-      "artists": [
-        {
-          "name": "Guz",
-          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
-        },
-        {
-          "name": "Jaxxon",
-          "url": "https://open.spotify.com/artist/7o5nzsM0oh6IlGfLOg4qVJ"
-        }
-      ],
-      "duration_ms": 160200,
-      "name": "In My Bones (feat. Jaxxon)",
-      "url": "https://open.spotify.com/track/1bhbPMV1VGOLK05yfzMQ8r"
     },
     {
       "added_at": "2022-04-08 04:01:00",
@@ -1691,42 +1735,6 @@
       "duration_ms": 215238,
       "name": "Gimme More",
       "url": "https://open.spotify.com/track/34j6PD501kYByTTjWtYjOl"
-    },
-    {
-      "added_at": "2022-04-29 12:27:06",
-      "album": {
-        "name": "Radar",
-        "url": "https://open.spotify.com/album/5ur625TMdgqvNQdVYq4DmY"
-      },
-      "artists": [
-        {
-          "name": "Lekota",
-          "url": "https://open.spotify.com/artist/4DXQ3UFHciEdLjwwJe3gEU"
-        }
-      ],
-      "duration_ms": 204639,
-      "name": "Radar",
-      "url": "https://open.spotify.com/track/1djoRrseUF5KsdgOQeArmO"
-    },
-    {
-      "added_at": "2022-03-25 17:23:15",
-      "album": {
-        "name": "Tripasia",
-        "url": "https://open.spotify.com/album/45cq3fJrBfvSPU8dKgZpwS"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Brisotti",
-          "url": "https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl"
-        }
-      ],
-      "duration_ms": 176791,
-      "name": "Tripasia",
-      "url": "https://open.spotify.com/track/365aB2RegILTAZqCEgmkUc"
     },
     {
       "added_at": "2022-04-15 15:02:33",
@@ -1847,22 +1855,6 @@
       "duration_ms": 186365,
       "name": "Records U Play",
       "url": "https://open.spotify.com/track/5VkNcbo3JDsUw25CLP6FZh"
-    },
-    {
-      "added_at": "2022-03-25 18:51:15",
-      "album": {
-        "name": "Feel Me",
-        "url": "https://open.spotify.com/album/2z0thBP0lCR9baj0Bc0Kxm"
-      },
-      "artists": [
-        {
-          "name": "Roxe",
-          "url": "https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp"
-        }
-      ],
-      "duration_ms": 220312,
-      "name": "Feel Me",
-      "url": "https://open.spotify.com/track/6ZDVabmemwAPrbGwnCKgAE"
     }
   ],
   "unique_name": "Operator",

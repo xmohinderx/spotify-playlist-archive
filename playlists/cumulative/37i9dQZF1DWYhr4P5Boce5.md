@@ -4,12 +4,12 @@
 
 > Songs of deep relationships to inspire your journey with each other.
 
-67 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/7x1MYtipwfxns13j9VJIYR)
+67 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/7x1MYtipwfxns13j9VJIYR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All Of Me](https://open.spotify.com/track/40WDnUnzQL4XTo81vUJlKt) | [Matt Hammitt](https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw) | [Every Falling Tear](https://open.spotify.com/album/57KfddAY3ffu3A3F7M5b0h) | 4:06 | 2020-04-17 |  |
-| [Angel](https://open.spotify.com/track/7qO1aodqqumMLHFybn0AvP) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Come To The Well](https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze) | 0:29 | 2020-04-17 |  |
+| [Angel](https://open.spotify.com/track/7qO1aodqqumMLHFybn0AvP) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Come To The Well](https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze) | 3:44 | 2020-04-17 |  |
 | [Beautiful Soul](https://open.spotify.com/track/4gxT7DX1NVig7cnQBhSmiM) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 2](https://open.spotify.com/album/4TLmOaKZJL0Hk6KBd2c8Jj) | 3:36 | 2020-04-17 |  |
 | [Big Ole Love](https://open.spotify.com/track/1CX3zLl6r7KJpzzO1Ckulv) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Who Knew \(Vol\. 1\)](https://open.spotify.com/album/5yStb9FTFvAkY2TJ8NKkWN) | 3:50 | 2020-04-17 |  |
 | [Bless The Broken Road](https://open.spotify.com/track/07M8OzJz2u11i4PeXs0iKu) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [Bless The Broken Road \(The Duets Album\)](https://open.spotify.com/album/4hzXCIFqlFGPbgeNoiD05G) | 4:10 | 2020-04-17 |  |
@@ -69,7 +69,7 @@
 | [We Will Dance](https://open.spotify.com/track/1vvKpTt15DT2xWA6mNcF6o) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [All About Love](https://open.spotify.com/album/0GtzQXs1ecJK73NsRXfXAM) | 4:40 | 2020-04-17 |  |
 | [What A Mystery](https://open.spotify.com/track/2FYSON92zpz3iiDAmG2IMg) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [Carry Me](https://open.spotify.com/album/4xjAeY5J7q6iHlRWEF07b0) | 2:57 | 2020-04-17 |  |
 | [With Every Act Of Love](https://open.spotify.com/track/3hSzCNU37Yfauxrdup4sxi) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Love Will Have The Final Word](https://open.spotify.com/album/0Caxc2aix73gGj6J0cbCjC) | 3:36 | 2020-04-17 |  |
-| [With You](https://open.spotify.com/track/2OEnuXApFl7zqqbUY69RdH) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab) | [PANORAMA](https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33) | 0:29 | 2020-04-17 |  |
+| [With You](https://open.spotify.com/track/2OEnuXApFl7zqqbUY69RdH) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab) | [PANORAMA](https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33) | 4:09 | 2020-04-17 |  |
 | [You](https://open.spotify.com/track/6OW9DM0XwDzdiIlKcTuPD3) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [You](https://open.spotify.com/album/2mgnhYvHdQQzVOM2LDkuXU) | 3:46 | 2020-04-17 |  |
 | [You're Beautiful](https://open.spotify.com/track/0hjwwsqVDoPuXZyl4wznBE) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Cannons](https://open.spotify.com/album/7a72IwLQwp6Wleo6kANv7J) | 4:53 | 2020-04-17 |  |
 | [YOU'RE THE ONE I WANT](https://open.spotify.com/track/5fK3vohIJQ0BFQglpPapfZ) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [NATIVE TONGUE](https://open.spotify.com/album/2fxJMrLJLQzKNOmpCwJcqc) | 2:05 | 2020-04-17 |  |

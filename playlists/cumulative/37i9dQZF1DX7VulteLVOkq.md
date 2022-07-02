@@ -4,7 +4,7 @@
 
 > Just some of the many highlights from the <a href="spotify:artist:3PhoLpVuITZKcymswpck5b">Rocket Man</a>'s career.
 
-51 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/2gLRn6w7L54vomQPqYMuBE)
+51 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/2gLRn6w7L54vomQPqYMuBE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Bennie And The Jets \- Recorded At The Colosseum, Caesars Palace, Las Vegas](https://open.spotify.com/track/144y07SeEatHOBswM3BZHk) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Spotify Singles](https://open.spotify.com/album/7HNrFnh0uwG7DuXdgGEY0z) | 6:01 | 2021-12-03 |  |
 | [Bennie And The Jets \- Remastered 2014](https://open.spotify.com/track/3iJxloILmOu2NIRZ0OGyui) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration/ Super Deluxe Edition\)](https://open.spotify.com/album/6Gp6qSE1ywXCLjal5NUWUE) | 5:22 | 2021-12-03 |  |
 | [Blue Eyes \- Remastered 2003](https://open.spotify.com/track/1rUu58wEd44nEzIbF2CYil) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up! \(Remastered 2003\)](https://open.spotify.com/album/2IK2faEYu07GxN2mhZW0F4) | 3:26 | 2021-12-03 |  |
-| [Breaking Hearts \(Ain't What It Used To Be\)](https://open.spotify.com/track/3w7ALluoTA0KCX0m4DBa7V) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Breaking Hearts \(Remastered\)](https://open.spotify.com/album/7jKGIW8OzSkaHUuEINdGE3) | 0:29 | 2021-12-03 |  |
+| [Breaking Hearts \(Ain't What It Used To Be\)](https://open.spotify.com/track/3w7ALluoTA0KCX0m4DBa7V) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Breaking Hearts \(Remastered\)](https://open.spotify.com/album/7jKGIW8OzSkaHUuEINdGE3) | 3:33 | 2021-12-03 |  |
 | [Burn Down The Mission](https://open.spotify.com/track/6vS7WmlHHzv8to3XmIxHvD) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Tumbleweed Connection \(Deluxe Edition\)](https://open.spotify.com/album/0TuCLx6fu1rEd46r5Oxx7y) | 6:21 | 2021-12-03 |  |
 | [Can You Feel The Love Tonight](https://open.spotify.com/track/67HKtdqchK0rmODxsBeWT8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Love Songs](https://open.spotify.com/album/1bnoqPJyaxMCtYuSprcBTD) | 4:00 | 2021-12-03 |  |
 | [Candle In The Wind \- Remastered 2014](https://open.spotify.com/track/1j0Nyzf2MFBcZcC8GPmynK) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration/ Super Deluxe Edition\)](https://open.spotify.com/album/5zbzqL7RTp3KlJ2kIqbi72) | 3:48 | 2021-12-03 |  |
@@ -40,7 +40,7 @@
 | [I'm Still Standing](https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 3:03 | 2021-12-03 |  |
 | [In The Name Of You](https://open.spotify.com/track/6ygS5mLIiRi6u711PEyE64) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night](https://open.spotify.com/album/10BzXBAjOIr8EkDsIYrY1B) | 4:33 | 2021-12-03 |  |
 | [Lucy In The Sky With Diamonds](https://open.spotify.com/track/7wBmWdMs0cWeWZGFBhJeOB) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Captain Fantastic \(Deluxe Edition\)](https://open.spotify.com/album/7bcUz60MilxMGurjN2T5nS) | 6:18 | 2021-12-03 |  |
-| [Made In England](https://open.spotify.com/track/6ryzRaNxzMtOHQkNRlReDh) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Made In England](https://open.spotify.com/album/6IaKLU7NOK4XzxNGDeyC9R) | 0:29 | 2021-12-03 |  |
+| [Made In England](https://open.spotify.com/track/6ryzRaNxzMtOHQkNRlReDh) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Made In England](https://open.spotify.com/album/6IaKLU7NOK4XzxNGDeyC9R) | 5:03 | 2021-12-03 |  |
 | [Merry Christmas](https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Merry Christmas](https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK) | 3:28 | 2021-12-03 |  |
 | [Nikita](https://open.spotify.com/track/5lBI9isMBEHRn5Wxde058W) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire \(Remastered With Bonus Tracks\)](https://open.spotify.com/album/77IyyuuRV7IDN1ri7mBEuI) | 5:43 | 2021-12-03 |  |
 | [Nothing Else Matters](https://open.spotify.com/track/54OjiOo0P2qro91GkZOQxp) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [WATT](https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Robert Trujillo](https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16), [Chad Smith](https://open.spotify.com/artist/4DW34vji6G9GgGY0k2mic7) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 6:35 | 2021-12-03 |  |

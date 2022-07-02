@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/15wD5DzfOIRx7QnJKDLtav.md) - [plain]
 
 > Your guide to what's hot in Austin, TX during South By Southwest 2017\. Cover: <a href="spotify:artist:4NZvixzsSefsNiIqXn0NDe">Maggie Rogers</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,164 likes - 62 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,164 likes - 62 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/15wD5DzfOIRx7QnJKDLtav.md) - [plain]
 | 2 | [bellyache](https://open.spotify.com/track/51NFxnQvaosfDDutk0tams) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Bellyache](https://open.spotify.com/album/25FGyvj0UnD6YYWLq0s9nl) | 2:59 |
 | 3 | [Location](https://open.spotify.com/track/1WIfWj5skn5UUZTs4cEFBe) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Location](https://open.spotify.com/album/5f4VQ4QMbjZLMfxL7RM5aE) | 3:37 |
 | 4 | [Out Of My System](https://open.spotify.com/track/4MUNZkVe0VfomuSgY1EJun) | [Youngr](https://open.spotify.com/artist/5TrkbV9x6OdTBlzWPJeBz5) | [Out Of My System](https://open.spotify.com/album/6JUiJmrHbaag8LP3SXcC2F) | 3:23 |
-| 5 | [On + Off](https://open.spotify.com/track/6HzDEVbfnDD1p0qFKqiZWU) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Now That The Light Is Fading](https://open.spotify.com/album/16wZsyXQ463IYlrXyJnRfY) | 0:29 |
+| 5 | [On + Off](https://open.spotify.com/track/6HzDEVbfnDD1p0qFKqiZWU) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Now That The Light Is Fading](https://open.spotify.com/album/16wZsyXQ463IYlrXyJnRfY) | 3:41 |
 | 6 | [Down](https://open.spotify.com/track/5eCkuGPZNl4mISFNPgr3Dd) | [Marian Hill](https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5) | [ACT ONE](https://open.spotify.com/album/5laClXclOn3sCQOWKqFohJ) | 3:17 |
 | 7 | [Hard Liquor](https://open.spotify.com/track/4bgCNtpyjevRbn1dQkodHS) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Hard Liquor](https://open.spotify.com/album/5RZj93T9jHLzu64APvPnw6) | 4:04 |
 | 8 | [Company \- MUNA Remix](https://open.spotify.com/track/3JBpwwdOE8Oz1GPhIN38F6) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Company \(MUNA Remix\)](https://open.spotify.com/album/1ey0KnGHKibLFMikFUaBLY) | 3:10 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/15wD5DzfOIRx7QnJKDLtav.md) - [plain]
 | 52 | [Perfume](https://open.spotify.com/track/7GdEHrt8Y23hzjGei28A9J) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Just Wanna See](https://open.spotify.com/album/5Vrr6bcdIqweodnKpYXvDB) | 3:30 |
 | 53 | [Clear](https://open.spotify.com/track/5aSpdEubSdMnRNevctb55H) | [Pusher](https://open.spotify.com/artist/2exudSjTjUksRJhnF5JZYn), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Clear](https://open.spotify.com/album/4UEnjmsxamL7Ojl3t9i43K) | 3:56 |
 | 54 | [\(It's Not About\) Running](https://open.spotify.com/track/6yeVAVnUskTNb3TutTaU64) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Unknown / \(It's Not About\) Running](https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC) | 4:06 |
-| 55 | [Different](https://open.spotify.com/track/7dES51jQZhXiD0XNHfkY2S) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Different](https://open.spotify.com/album/2jFsGLCuSiTH9zyDUtQDUf) | 0:29 |
+| 55 | [Different](https://open.spotify.com/track/7dES51jQZhXiD0XNHfkY2S) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Different](https://open.spotify.com/album/2jFsGLCuSiTH9zyDUtQDUf) | 3:02 |
 | 56 | [Hold Me Down](https://open.spotify.com/track/68J311jvo7JD5vldwzvMg3) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Far Shore](https://open.spotify.com/album/1Ax4vtguR5jbyuBdohcJVZ) | 4:29 |
 | 57 | [Golden \(feat\. St\. South\)](https://open.spotify.com/track/2BTZ3gJLZyditWBnsoK0eH) | [Mt\. Wolf](https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z), [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Golden \(feat\. St\. South\)](https://open.spotify.com/album/4v2OIfevNQvUTZrSwCf28W) | 3:19 |
 | 58 | [Anywhere \(feat\. Mothica\)](https://open.spotify.com/track/0BL4TTFa2BJIKVhcyOFM7j) | [Owen Bones](https://open.spotify.com/artist/31ZxERZETij0PyIq5bLkIz), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Dive Club](https://open.spotify.com/album/1xo6LkPsIh73N1eOeSYJJ8) | 4:10 |

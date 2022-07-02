@@ -4,7 +4,7 @@
 
 > Soak up the serenity with these beautiful melodies.
 
-409 songs - 22 hr 50 min - [published](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
+409 songs - 23 hr 0 min - [published](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Break With Me](https://open.spotify.com/track/28ISI9ACJ3Z3tQ7rQehHlZ) | [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Break With Me](https://open.spotify.com/album/47KET5CfuFBk1zjC3UTilg) | 2:35 | 2021-03-06 |  |
 | [Breathe Again](https://open.spotify.com/track/3vutFeUl31fjJyPpAGmLGf) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Breathe Again](https://open.spotify.com/album/3bA0ThKib48JGzsr9srrBF) | 3:20 | 2020-06-05 | 2022-05-13 |
 | [Broke Me Down](https://open.spotify.com/track/7kU3HeAcYkI0zYGlMQY9QG) | [Janine](https://open.spotify.com/artist/4k3yrCOPB5wp2ne8R9MQoM) | [Broke Me Down](https://open.spotify.com/album/16QaPNZhIz9fLwzpRHo6uc) | 3:21 | 2019-09-27 | 2020-02-21 |
-| [Broken Love](https://open.spotify.com/track/1FWhEtW3U4QjSBtY9aIauZ) | [Jordan Anthony](https://open.spotify.com/artist/5Ec9nF9JPvOgcpQv8NlNay) | [Broken Love](https://open.spotify.com/album/1TBhau4j1Mu5OE79ppbskY) | 0:29 | 2021-06-28 |  |
+| [Broken Love](https://open.spotify.com/track/1FWhEtW3U4QjSBtY9aIauZ) | [Jordan Anthony](https://open.spotify.com/artist/5Ec9nF9JPvOgcpQv8NlNay) | [Broken Love](https://open.spotify.com/album/1TBhau4j1Mu5OE79ppbskY) | 4:00 | 2021-06-28 |  |
 | [Bruises \- Live Orchestral Version](https://open.spotify.com/track/5FMSmqgBagV4KSMqMjB2Ro) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Bruises EP](https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR) | 3:48 | 2019-09-27 | 2021-04-07 |
 | [Brush Fire](https://open.spotify.com/track/4jp8ragG1fHm1eucECebYF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Brush Fire](https://open.spotify.com/album/0q9LcQHXp9DuszlWNJZoLB) | 3:10 | 2020-12-11 | 2022-01-14 |
 | [can I call you back?](https://open.spotify.com/track/3bWubl9oMzs5Z1n5KZXSSz) | [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [can I call you back?](https://open.spotify.com/album/0WKhEo5uustTfpRpm0tMhL) | 2:33 | 2020-04-12 | 2021-06-28 |
@@ -250,7 +250,7 @@
 | [Memory Lane](https://open.spotify.com/track/1KMEDSIl2j1NwYa9mgvMyg) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Memory Lane](https://open.spotify.com/album/5qkmdOLUeAkSMJlP0DnLFk) | 2:34 | 2022-01-13 |  |
 | [Mess Her Up \- Single Edit](https://open.spotify.com/track/3TZgPOKPqzvj2pS4AeGTAu) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Mess Her Up](https://open.spotify.com/album/5CSCU90DSnBpCZNrQ2PE7B) | 3:25 | 2019-08-02 | 2019-10-25 |
 | [Mind Is A Prison](https://open.spotify.com/track/4GGSmoTmc5LClrowB4SmEw) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Mind Is A Prison](https://open.spotify.com/album/3oFteG1YXJg2LS6R7Ge2yB) | 2:42 | 2019-12-13 | 2020-06-29 |
-| [Miss The Rest](https://open.spotify.com/track/1UE3EwqySM5IXywpXUyuNZ) | [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Miss The Rest](https://open.spotify.com/album/1QoshcVjsmudDw9K2JSDWJ) | 0:29 | 2022-01-27 |  |
+| [Miss The Rest](https://open.spotify.com/track/1UE3EwqySM5IXywpXUyuNZ) | [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Miss The Rest](https://open.spotify.com/album/1QoshcVjsmudDw9K2JSDWJ) | 2:50 | 2022-01-27 |  |
 | [Modern Loneliness](https://open.spotify.com/track/7MZF7YLxOP2to9iblSulLc) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/0YuPbtHpnpGEhyjg0rCyEi) | 4:12 | 2020-02-21 | 2020-11-20 |
 | [Moral of the Story](https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Moral of the Story](https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP) | 3:21 | 2020-02-17 | 2020-06-19 |
 | [More of You](https://open.spotify.com/track/3KwddnMagr7xnFFZTb4t7Z) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [More of You](https://open.spotify.com/album/6otrwuXbuZ1ntS6AHWX0AT) | 2:34 | 2021-06-18 | 2022-01-28 |
@@ -389,7 +389,7 @@
 | [Walked Through Hell](https://open.spotify.com/track/6c7N5N7amAOpeMykjlovjI) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Walked Through Hell](https://open.spotify.com/album/2altfvjSV6RIRAE5Pmhw7i) | 3:36 | 2020-11-20 | 2022-02-11 |
 | [wallflower](https://open.spotify.com/track/5VpINvanQ4iEYsFAwDKigB) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dusk](https://open.spotify.com/album/6oCFVNkKjrFRmieVbpQa3s) | 3:20 | 2020-10-09 | 2021-04-24 |
 | [Want Me Back](https://open.spotify.com/track/62ThvHsujqV9sMr1V7yAJr) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Want Me Back](https://open.spotify.com/album/1Wjga5d8cmSnBaHwBodxVv) | 3:54 | 2019-08-02 | 2019-12-09 |
-| [Waste My Time](https://open.spotify.com/track/6VKw8mwyk1Z1bFCXy1PC6C) | [Hattie Oates](https://open.spotify.com/artist/21XMngjCd7tTpvn2ruHB6R) | [Waste My Time](https://open.spotify.com/album/15sNqB0QCpkWaTsvuYcLPs) | 0:29 | 2021-06-28 |  |
+| [Waste My Time](https://open.spotify.com/track/6VKw8mwyk1Z1bFCXy1PC6C) | [Hattie Oates](https://open.spotify.com/artist/21XMngjCd7tTpvn2ruHB6R) | [Waste My Time](https://open.spotify.com/album/15sNqB0QCpkWaTsvuYcLPs) | 4:26 | 2021-06-28 |  |
 | [Watching You](https://open.spotify.com/track/2EavlQQU2HmQPEHcOABejp) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Watching You \- EP](https://open.spotify.com/album/21frkW73VasXrfciyDTuFL) | 3:10 | 2020-02-14 | 2021-04-07 |
 | [We Cry](https://open.spotify.com/track/2gXbtADykoLc8IiA3NBLt3) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [We Cry](https://open.spotify.com/album/69q3Au1hkKj9eQB7eA7rD0) | 3:47 | 2021-09-14 |  |
 | [We Don’t Talk Enough \(with Alexander 23\)](https://open.spotify.com/track/4IaizE26moyyMYn70TeFiX) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Change of Scenery II](https://open.spotify.com/album/6B3LAqHoBKmSN9HLbyy0Ro) | 2:28 | 2021-03-06 | 2022-02-11 |

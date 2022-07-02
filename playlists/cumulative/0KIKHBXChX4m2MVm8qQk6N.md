@@ -4,7 +4,7 @@
 
 > 
 
-50 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/2Psd8vF4qTD3t7PLS2lorX)
+50 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/2Psd8vF4qTD3t7PLS2lorX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Thnks fr th Mmrs](https://open.spotify.com/track/0263Q0WRYFVGUEWZ03LNAr) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Believers Never Die \- Greatest Hits](https://open.spotify.com/album/1uIgPRSggJqaVxJAwUpPok) | 3:28 | 2013-06-27 |  |
 | [U + Ur Hand](https://open.spotify.com/track/7hH0SbMx1MeAh2C09v48FW) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Greatest Hits...So Far!!!](https://open.spotify.com/album/3nR5vEcIp8UzOJgkw8G8yX) | 3:34 | 2013-06-27 |  |
 | [Umbrella](https://open.spotify.com/track/5i66xrvSh1MjjyDd6zcwgj) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Good Girl Gone Bad](https://open.spotify.com/album/1YhbfKnjrFgnYyWz6cn9mN) | 4:35 | 2013-06-27 |  |
-| [Waiting On the World to Change](https://open.spotify.com/track/2n1xGch3RCfNTS0SuTqB2D) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Pure..\. Guitar Heroes](https://open.spotify.com/album/56KOCXxFdiqTnCRWcpLJSd) | 0:29 | 2013-06-27 |  |
+| [Waiting On the World to Change](https://open.spotify.com/track/2n1xGch3RCfNTS0SuTqB2D) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Pure..\. Guitar Heroes](https://open.spotify.com/album/56KOCXxFdiqTnCRWcpLJSd) | 3:20 | 2013-06-27 |  |
 | [Walk It Out](https://open.spotify.com/track/29TwAJfQ7rR7peyr6eZpL0) | [Unk](https://open.spotify.com/artist/0PGtMx1bsqoCHCy3MB3gXA) | [Beat N' Down Yo Block \- Deluxe Edition](https://open.spotify.com/album/6Jo88kZqXXFgUoS6PG2Kiy) | 2:53 | 2013-06-27 |  |
 | [We Fly High](https://open.spotify.com/track/5blkgkItJK6s3ZhVxn6hqB) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [Hustler's P.O.M.E.](https://open.spotify.com/album/4E2DlcVftbevbPRAD7z9gt) | 3:53 | 2013-06-27 |  |
 | [What Goes Around.../...Comes Around \(Interlude\)](https://open.spotify.com/track/76D83dghHeE2NFedPFD4tf) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [FutureSex/LoveSounds](https://open.spotify.com/album/51lCQxAHpJHuqvvK0z12zp) | 7:28 | 2013-06-27 |  |

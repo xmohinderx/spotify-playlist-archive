@@ -1738,6 +1738,28 @@
     },
     {
       "album": {
+        "name": "Nature & Life",
+        "url": "https://open.spotify.com/album/256dZn7vDsrXAFXgJeBYtP"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Maurizio Baglini",
+          "url": "https://open.spotify.com/artist/6GKFibfWHRW8jfNr102ZkU"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238240,
+      "name": "Symphony No. 6 in F Major, Op. 68 \"Pastoral\" (Transcr. Liszt for Piano, S. 464/6): IV. Gewitter. Sturm. Allegro",
+      "url": "https://open.spotify.com/track/1P4sxkTbgPZd4nTc59epkQ"
+    },
+    {
+      "album": {
         "name": "Beethoven: Symphonies Nos. 4 and 7",
         "url": "https://open.spotify.com/album/4UgyF4SKKjFE00egVxKnkb"
       },

@@ -2,9 +2,9 @@
 
 ### [Trapperz Brasil](https://open.spotify.com/playlist/37i9dQZF1DWWr5uieiPUVM)
 
-> 🚂  Aqui é só o trem caro do trap! Foto: Teto, Mateca
+> 🚂  Aqui é só o trem caro do trap! Foto: Kawe, WIU
 
-110 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/2bZk5f2KVSoGqtFW20OKam)
+111 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/2bZk5f2KVSoGqtFW20OKam)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [OUTRO PATAMAR](https://open.spotify.com/track/48zE1jY1K1oqjpD3G6UGfH) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [OUTRO PATAMAR](https://open.spotify.com/album/1nb3EIZXO75bxWDz0Agxfo) | 3:26 | 2022-03-18 | 2022-03-26 |
 | [Pandora](https://open.spotify.com/track/0yL7K9MzC20uBesZTPY81r) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Pandora](https://open.spotify.com/album/25yqPTm5X7FXx62mPnjcsC) | 2:57 | 2022-03-18 |  |
 | [Paraíso Periférico](https://open.spotify.com/track/0piW8h3hjHkKfEJu6LzU7j) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Paraíso Periférico](https://open.spotify.com/album/1TQdoLB4Ys0i4qCw693kZR) | 2:51 | 2022-03-25 | 2022-04-16 |
-| [Paypal](https://open.spotify.com/track/6x1FttETfbRLerumlTn0ZH) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [previas.zip](https://open.spotify.com/album/1Mp4qx0rzYoZHXmTX5ViS4) | 0:29 | 2022-03-18 |  |
+| [Paypal](https://open.spotify.com/track/6x1FttETfbRLerumlTn0ZH) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [previas.zip](https://open.spotify.com/album/1Mp4qx0rzYoZHXmTX5ViS4) | 2:46 | 2022-03-18 |  |
 | [PERSONNALITE](https://open.spotify.com/track/3qJtSjw9weAyQJfui2lmr6) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP) | [PERSONNALITE](https://open.spotify.com/album/7kK3DVlw7NDEjiRNVseFLj) | 3:28 | 2022-03-25 |  |
 | [Pra Cima Meu Sócio](https://open.spotify.com/track/14O5eC5Nv9pY2ILJOcBuqk) | [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Mc G Talibã](https://open.spotify.com/artist/3WqjZ3slxmWPlsKxJcAPMc), [BlakkClout](https://open.spotify.com/artist/4pZ2z5NE2z1vvdRqf7q0Gq) | [Pra Cima Meu Sócio](https://open.spotify.com/album/7oWj9WdTSqfxEdV5eo01DQ) | 2:25 | 2022-05-20 | 2022-06-11 |
 | [Progresso](https://open.spotify.com/track/0tLRlU39HHqJ2BX4DN4qnm) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Progresso](https://open.spotify.com/album/3dgya99ntx0TtotTsXnoFN) | 2:41 | 2022-03-18 | 2022-06-07 |
@@ -115,7 +115,8 @@
 | [Vestido da Fendi](https://open.spotify.com/track/0pZIBIJ253pH9gJtXE0Ouf) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [Vestido da Fendi](https://open.spotify.com/album/70bR7r6giSSPpnJeEzVP8Y) | 2:44 | 2022-03-18 |  |
 | [Vilão](https://open.spotify.com/track/4PWlhItUNE3kSBw25aXQOt) | [Yung Buda](https://open.spotify.com/artist/34JhhuxlkDFSA5ek4AuZOp), [Lord Prince](https://open.spotify.com/artist/2QwiWPcVYPCvwDsQx2IGMG), [DevilGreen](https://open.spotify.com/artist/76HXO5vkme2J9KHxXEZ1g0) | [Vilão](https://open.spotify.com/album/44eDKRm0QHiGWzuL062hFv) | 4:21 | 2022-04-25 | 2022-04-29 |
 | [Vizão de Cria](https://open.spotify.com/track/0zmfFA2d0ZRZ2aFeE4E76b) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Anezzi](https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk), [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Vizão de Cria](https://open.spotify.com/album/5A1sLSZqKooVjMXsuZirEQ) | 4:37 | 2022-03-18 |  |
-| [Vlife](https://open.spotify.com/track/5iR6O7EKag8BRlOVj5hx2L) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Vlife](https://open.spotify.com/album/6FBfqGRQu7uD6F1cPFrnF6) | 2:40 | 2022-06-13 |  |
+| [Vlife](https://open.spotify.com/track/2evcFxT2aW4FZznh6DyEwK) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Vlife](https://open.spotify.com/album/47on59OkWHDwxyP2zBjhwd) | 2:40 | 2022-07-01 |  |
+| [Vlife](https://open.spotify.com/track/5iR6O7EKag8BRlOVj5hx2L) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Vlife](https://open.spotify.com/album/6FBfqGRQu7uD6F1cPFrnF6) | 2:40 | 2022-06-13 | 2022-07-02 |
 | [X1](https://open.spotify.com/track/0dcHD9QhnWRA41zoLnC83X) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE HAIR](https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V) | 3:08 | 2022-06-24 |  |
 | [ye](https://open.spotify.com/track/3IYHWJMzL4aftnp3ENWoXM) | [Japa](https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA) | [ye](https://open.spotify.com/album/7MOwVvOQvt3ljxqzznrt2P) | 2:47 | 2022-05-30 |  |
 

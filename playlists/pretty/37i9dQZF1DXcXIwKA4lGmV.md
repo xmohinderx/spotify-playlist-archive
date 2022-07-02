@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXIwKA4lGmV.md) - [plain]
 
 > Songs all about cleaning up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,458 likes - 33 songs - 1 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,462 likes - 33 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Clean Up](https://open.spotify.com/track/1D33HYMtMhZ9KvBdgOHZEU) | [Barney](https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK) | [Start Singing with Barney](https://open.spotify.com/album/3AxlaORIaUzvFupsxC06yh) | 0:33 |
 | 2 | [Cleanup Song](https://open.spotify.com/track/6MDIYpxszXLSjzXSttR83O) | [Dora The Explorer](https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt) | [We Did It! Dora's Greatest Hits](https://open.spotify.com/album/2PsQyBDm80E6A8fypVFRpE) | 1:08 |
 | 3 | [Oh My Goodness, Look At This Mess!](https://open.spotify.com/track/0f9SOXX5YZr7NEMIjlIrWl) | [Sweet Honey In The Rock](https://open.spotify.com/artist/3d4KAl1xvEw3akBK6CVCCA) | [Still The Same Me](https://open.spotify.com/album/1i33KQ49Ns9MCvkLHpGOvP) | 3:19 |
-| 4 | [Clean Up!](https://open.spotify.com/track/5DmFTIXDKISut46X50RJWX) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Classroom Songs](https://open.spotify.com/album/2Nrljq7rYGd2SvyRplYnfA) | 0:29 |
+| 4 | [Clean Up!](https://open.spotify.com/track/5DmFTIXDKISut46X50RJWX) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Classroom Songs](https://open.spotify.com/album/2Nrljq7rYGd2SvyRplYnfA) | 1:33 |
 | 5 | [Put Them Away](https://open.spotify.com/track/76KL8ox8hfLZiNQ8QW6fNh) | [Teeny Tiny Stevies](https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov) | [Useful Songs for Little People](https://open.spotify.com/album/44nDe0SKcKPjGCwY7qSJ7G) | 3:02 |
 | 6 | [Clean Up](https://open.spotify.com/track/75gisOvXlUiZPB75G6ppWP) | [Hey Duby](https://open.spotify.com/artist/0WDtuYF2JlOtStg7gKpL02) | [Hits 4 Kids \(Junior\)](https://open.spotify.com/album/4BrZmS5VWV1QaGfKhQQdSO) | 2:20 |
 | 7 | [Clean Up](https://open.spotify.com/track/0t1rkqsHhGf4JsZycaeNSs) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Tunes, Vol\. 3](https://open.spotify.com/album/4yXRgaXo2hTMr4aRPCL21b) | 2:51 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXIwKA4lGmV.md) - [plain]
 | 26 | [Clean Up](https://open.spotify.com/track/3SL6K3A1lXg2p3PDYkKjyA) | [Ralph's World](https://open.spotify.com/artist/4qIIexaFmYNueu5mnSQnzU) | [Happy Lemons](https://open.spotify.com/album/3BxUa5Rt3dtxwBY4tDhQz3) | 2:14 |
 | 27 | [Under the Bed](https://open.spotify.com/track/7JiMJTS474AbTv1x9Cfn6p) | [Brady Rymer and the Little Band That Could](https://open.spotify.com/artist/2q0R0ObitsBJIp1sMtfHz6) | [I Found It!](https://open.spotify.com/album/10h2NbahLm1oQlkFaqt2m1) | 4:05 |
 | 28 | [Clean It Up!](https://open.spotify.com/track/1MQtc9JALkjXqOafjdeJnJ) | [The Juicebox Jukebox](https://open.spotify.com/artist/5E97AmvYFM4aGWCOtJkzYH) | [Now Hear This!](https://open.spotify.com/album/2cYNQhLqOi3bjGUqhfu34q) | 2:02 |
-| 29 | [Clean Up Your Room](https://open.spotify.com/track/5p3QRQTza7Tu3I2KxEYYeP) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Clean Up Your Room](https://open.spotify.com/album/17CeLbSIgFMMycpcgFtGuX) | 0:29 |
+| 29 | [Clean Up Your Room](https://open.spotify.com/track/5p3QRQTza7Tu3I2KxEYYeP) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Clean Up Your Room](https://open.spotify.com/album/17CeLbSIgFMMycpcgFtGuX) | 2:11 |
 | 30 | [Let's Play Pack Away! \(Tidy Up Game\)](https://open.spotify.com/track/05vmTdz8fo6yVcb9gIRmXU) | [Tiptoe Giants](https://open.spotify.com/artist/7MBs915vZuGiDTEl9GKApR) | [Colour the World](https://open.spotify.com/album/56M2NxnFNjYbFC5NTiHPmb) | 2:10 |
 | 31 | [Clean Up Trash Song](https://open.spotify.com/track/0CUND8t73n7O27uhiKEVWS) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Cocomelon Kids Hits, Vol\. 10](https://open.spotify.com/album/6K7fcWjYUMPRnew4XiXW8D) | 3:00 |
 | 32 | [Cleaning Up Is Fun](https://open.spotify.com/track/3FvjTQN8pgwcXRHlywrSET) | [The BeatBuds](https://open.spotify.com/artist/7p1Lnq4QqQko93rJbaerql) | [The BeatBuds, Vol\. 2 \(Remastered\)](https://open.spotify.com/album/5j3GHHRBYeVKht6078KwoL) | 2:17 |

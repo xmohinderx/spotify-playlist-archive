@@ -4,13 +4,13 @@
 
 > 
 
-28 songs - 1 hr 50 min - [published](https://open.spotify.com/playlist/0njlJCbT1u20Df3fofto6O)
+28 songs - 1 hr 56 min - [published](https://open.spotify.com/playlist/0njlJCbT1u20Df3fofto6O)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A More Perfect Union](https://open.spotify.com/track/5XgUwP0KHtV0ERDTDD0mEt) | [Titus Andronicus](https://open.spotify.com/artist/5lJ4XQ2hlPlxACN7q3xKL1) | [The Monitor](https://open.spotify.com/album/6NUpRcLLoLzBWcko0kzPms) | 7:09 | 2013-06-06 |  |
 | [Bank Head](https://open.spotify.com/track/5BdSApBxtLlGjrarGKS7Aj) | [Kingdom](https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj), [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Vertical XL](https://open.spotify.com/album/45ExKEujXX6n47QDRhMPNG) | 4:20 | 2013-06-06 |  |
-| [Cheaters \(John Talabot's Classic Vocal Refix\)](https://open.spotify.com/track/6xSGgrkVzYGu9iCxaOKbTa) | [Teengirl Fantasy](https://open.spotify.com/artist/6Y7sP6UmEue4Ym3m5HqK8X) | [Cheaters Remixes](https://open.spotify.com/album/467lmII7b3TL7pV6fFkfMs) | 0:29 | 2013-06-06 |  |
+| [Cheaters \(John Talabot's Classic Vocal Refix\)](https://open.spotify.com/track/6xSGgrkVzYGu9iCxaOKbTa) | [Teengirl Fantasy](https://open.spotify.com/artist/6Y7sP6UmEue4Ym3m5HqK8X) | [Cheaters Remixes](https://open.spotify.com/album/467lmII7b3TL7pV6fFkfMs) | 7:01 | 2013-06-06 |  |
 | [Dark Allies](https://open.spotify.com/track/3nvMVJAHo9snRFYI5swjZx) | [Light Asylum](https://open.spotify.com/artist/2y98d6N81pArQNXYvkupr8) | [In Tension](https://open.spotify.com/album/2QV2fXrrBJR2VPyBVLi9Qj) | 6:01 | 2013-06-06 |  |
 | [Diane Young](https://open.spotify.com/track/104pmtTQOlmW8Zt2BipGKH) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/2Qi2SySN2ePZwMLDSv9Krn) | 2:40 | 2013-06-06 |  |
 | [Don't Swallow the Cap](https://open.spotify.com/track/0QEHU0ZccfSXYUpF2iVUab) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/2JhR4tjuc3MIKa8v2JaKze) | 4:45 | 2013-06-06 |  |

@@ -4,7 +4,7 @@
 
 > ¡Música urbana representando a Cuba! Cover: Gente de Zona
 
-71 songs - 4 hr 6 min - [published](https://open.spotify.com/playlist/10FYMQLgw0cDsX64VDlIyb)
+71 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/10FYMQLgw0cDsX64VDlIyb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Mentira Por Verdad](https://open.spotify.com/track/7laeO3wKVaPcC2l2uLjGWp) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [Mentira Por Verdad](https://open.spotify.com/album/5P1nl4E9G5KxMzrvaXsSot) | 4:08 | 2022-02-25 |  |
 | [Mi Corazón Es Tuyo](https://open.spotify.com/track/4KZ2PTRuQ3rvWVTlqKtRLn) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Mi Corazón Es Tuyo](https://open.spotify.com/album/7r3RmEnhnCNAo38aE4vwFv) | 3:31 | 2022-02-25 |  |
 | [Mi Palon Divino](https://open.spotify.com/track/0WzpyDEB8sDLIEufgYf6Kg) | [Chocolate Mc](https://open.spotify.com/artist/15QmBDKjNXo007uqM3KnNb) | [Mi Palon Divino](https://open.spotify.com/album/26TVHgbLZtTSnCXZw8oWnZ) | 3:40 | 2022-02-25 |  |
-| [Mio y Tuyo](https://open.spotify.com/track/2jFCB5MGjDdiKQIQgHvVps) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp) | [Mio y Tuyo](https://open.spotify.com/album/4LuzWKkxWb7Ug4MIp6KPHE) | 0:29 | 2022-02-25 |  |
+| [Mio y Tuyo](https://open.spotify.com/track/2jFCB5MGjDdiKQIQgHvVps) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp) | [Mio y Tuyo](https://open.spotify.com/album/4LuzWKkxWb7Ug4MIp6KPHE) | 3:46 | 2022-02-25 |  |
 | [Mírala \(La Mulata\)](https://open.spotify.com/track/20xdL2kIceHLTwppELBr4m) | [El Kimiko y Yordy](https://open.spotify.com/artist/0DjHJO4Ez3nSVfhv8x95cn), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [Michel Boutic](https://open.spotify.com/artist/1uac76BPb8mnvmQv6AtBZ9) | [Mírala \(La Mulata\)](https://open.spotify.com/album/58K4ZRt1EgQiCS3fXObfJT) | 3:03 | 2022-02-25 |  |
 | [No Mas Mentiras \(Remix\)](https://open.spotify.com/track/6wgLzHzCA8BJxDT37KMFNZ) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Uniko](https://open.spotify.com/artist/78vl46oKTqjC6esrYZK2Mu), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [No Mas Mentiras \(Remix\)](https://open.spotify.com/album/6mZFvQAV8a1ZkNKaYDDK5H) | 4:04 | 2022-02-25 |  |
 | [No Me Afecta](https://open.spotify.com/track/4a2k1d0lKgxKkWIygmADsv) | [Yomil y El Dany](https://open.spotify.com/artist/2eQMfQXKQGV98HKiCOB7en) | [Sólido](https://open.spotify.com/album/1lSt8wSoQSMdC41mY7DpsU) | 3:17 | 2022-02-25 |  |
@@ -75,7 +75,7 @@
 | [Tenemos El Control \(feat\. Jorge Jr & Los 4\)](https://open.spotify.com/track/7zKXVAALHOZPmKeQxLTwam) | [Srta\. Dayana](https://open.spotify.com/artist/3CeHl9feqxRIV99dtatz6W), [Jorge Jr.](https://open.spotify.com/artist/4rTOPh4U5GgLw0sVViorhV), [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Tenemos El Control \(feat\. Jorge Jr & Los 4\)](https://open.spotify.com/album/15Lnc1Yh5SK47FcS5cVRKo) | 3:48 | 2022-02-25 |  |
 | [Todo Está Rico](https://open.spotify.com/track/1UVhtVwRBmLtU8yQ0LZRWb) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Latin Hits \- Reggaeton Edition \(32 Reggaeton Hits \- 50 Top Artists\)](https://open.spotify.com/album/3lSc3QSRCt5bNjywt1ozGO) | 3:13 | 2022-02-25 |  |
 | [Tu Carita \- DJ Unic Remix](https://open.spotify.com/track/6CVeR1pWdcCi1Bc0kz6nqV) | [EL ENVIADO](https://open.spotify.com/artist/2vSJeNz3wFRJ5i5rh1Z8Nt), [DJ Unic](https://open.spotify.com/artist/1ADFyan08VIwFUGwGXDxNe) | [Tu Carita \(DJ Unic Remix\)](https://open.spotify.com/album/1J1WXvowRRSrkGeHcHVcHF) | 4:23 | 2022-02-25 |  |
-| [Tu de Que Vas](https://open.spotify.com/track/6vElrorgVSjGQIdXgGwIbO) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Los Exitos](https://open.spotify.com/album/6SVZmGEBS8LfEzMFEuF8Gm) | 0:29 | 2022-02-25 |  |
+| [Tu de Que Vas](https://open.spotify.com/track/6vElrorgVSjGQIdXgGwIbO) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Los Exitos](https://open.spotify.com/album/6SVZmGEBS8LfEzMFEuF8Gm) | 4:22 | 2022-02-25 |  |
 | [Tuki Tuki](https://open.spotify.com/track/0jtuFuZNhMV142OIXPonEO) | [Pucho Y Tucutu](https://open.spotify.com/artist/6q6sntFmzW5GgUFzAagcrh), [Motiff](https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Tuki Tuki](https://open.spotify.com/album/0dU3EdsJVImaGc9kYRQF9p) | 3:12 | 2022-02-25 |  |
 | [Volvere Junto a Ti](https://open.spotify.com/track/00mhWSGsOidu8YVEWiwqDV) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [X+ \(Deluxe Edition\)](https://open.spotify.com/album/1pFGaaejCIj06DhPW5r7H7) | 3:48 | 2022-02-25 |  |
 | [Yo Lo Se](https://open.spotify.com/track/4Wg0arjOVJ0cGYpm1lZqoJ) | [Yomil y El Dany](https://open.spotify.com/artist/2eQMfQXKQGV98HKiCOB7en) | [Ambidiestros](https://open.spotify.com/album/3Ni4EcYEa90suVEg4lqj08) | 3:27 | 2022-02-25 |  |

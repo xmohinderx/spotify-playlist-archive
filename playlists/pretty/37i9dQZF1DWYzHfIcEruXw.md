@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 
 > The hottest Anime hits of the 10s\. 2010年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,889 likes - 66 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,057 likes - 66 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 | 33 | [crossing field](https://open.spotify.com/track/5RsRhryZD9FdTmxsAaZ2mM) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDSPACE](https://open.spotify.com/album/5aKVOZqJWL30JXGpimjifo) | 4:08 |
 | 34 | [打上花火](https://open.spotify.com/track/7pcTLUekZJQnzDOUDuExVJ) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [打上花火](https://open.spotify.com/album/1zIM9xHEOKU0rDCH6nIXQS) | 4:49 |
 | 35 | [優しさの理由](https://open.spotify.com/track/0HXk4XpvZCCltHWeXZe1zb) | [ChouCho](https://open.spotify.com/artist/5t7eQ2d1UmzfIr9oWQ538Y) | [優しさの理由](https://open.spotify.com/album/1aeT8dhSsfW3EFk1c44BWO) | 4:15 |
-| 36 | [Brave Shine](https://open.spotify.com/track/5FD8hfeNHqXqRxaGSxMr4p) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [DAWN](https://open.spotify.com/album/2fRyWvN5Rq4FRmae80RzF7) | 0:29 |
+| 36 | [Brave Shine](https://open.spotify.com/track/5FD8hfeNHqXqRxaGSxMr4p) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [DAWN](https://open.spotify.com/album/2fRyWvN5Rq4FRmae80RzF7) | 3:53 |
 | 37 | [ジョジョ〜その血の運命](https://open.spotify.com/track/6oT13AZPh97zsU5JJlqhpj) | [Hiroaki Tommy Tominaga](https://open.spotify.com/artist/3Pp8OVTOM4HoXf7Vysq2dZ) | [ジョジョ〜その血の運命](https://open.spotify.com/album/50cdfJPU1f3R3VAupPCloV) | 4:22 |
 | 38 | [Escape](https://open.spotify.com/track/59jTsPBWKpV3iP9Xj0Ze3S) | [Hemenway](https://open.spotify.com/artist/1aelbjRiScFc639v34vNsv) | [Escape](https://open.spotify.com/album/0bCJr7yy5E6wAbIVSdT94L) | 3:37 |
 | 39 | [ようこそジャパリパークへ](https://open.spotify.com/track/7z0HnNeAREuJmRvQtpQIz0) | [Doubutsu Biscuits](https://open.spotify.com/artist/5S7SMGimbPWuPh2F0urDgE), [PPP](https://open.spotify.com/artist/2V17fC0iAXQ2MpOw4DPvBV) | [ようこそジャパリパークへ](https://open.spotify.com/album/2ySoProatKQk7URAGuMuQf) | 3:24 |
@@ -54,11 +54,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 | 44 | [Q&A リサイタル!](https://open.spotify.com/track/42JZfJvi86NWu1DmtMVHII) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Q&A リサイタル!](https://open.spotify.com/album/6JlcyYhNoypfXeE97971JJ) | 4:51 |
 | 45 | [adrenaline!!!](https://open.spotify.com/track/1InmP0qrPm6NgRdRmeMbwI) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [TAILWIND](https://open.spotify.com/album/0JwVYCw3rL7IMIKtV7nc0e) | 4:34 |
 | 46 | [ギミー!レボリューション](https://open.spotify.com/track/6NrLhZLj28EU0MC9tUMRsI) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [ギミー!レボリューション 通常盤](https://open.spotify.com/album/5HokbXu6Fv0aijHkrWg4fw) | 3:55 |
-| 47 | [僕らは今のなかで](https://open.spotify.com/track/3CWqynPQ19CcRK1Tk67pUN) | [μ's](https://open.spotify.com/artist/2hYjPkmTry3LYVVSymws5i) | [μ's Best Album Best Live! Collection Ⅱ](https://open.spotify.com/album/3F84bX5oG31d2aFd8CE5CQ) | 0:29 |
-| 48 | [いけないボーダーライン](https://open.spotify.com/track/0OYGXK8T2oyWBSsehn44g9) | [ワルキューレ](https://open.spotify.com/artist/5JDlDUXsBqvwhSEZf3suXh) | [一度だけの恋なら / ルンがピカッと光ったら](https://open.spotify.com/album/00Omq87MkN7OhS7CZd2sO3) | 0:29 |
+| 47 | [僕らは今のなかで](https://open.spotify.com/track/3CWqynPQ19CcRK1Tk67pUN) | [μ's](https://open.spotify.com/artist/2hYjPkmTry3LYVVSymws5i) | [μ's Best Album Best Live! Collection Ⅱ](https://open.spotify.com/album/3F84bX5oG31d2aFd8CE5CQ) | 4:36 |
+| 48 | [いけないボーダーライン](https://open.spotify.com/track/0OYGXK8T2oyWBSsehn44g9) | [ワルキューレ](https://open.spotify.com/artist/5JDlDUXsBqvwhSEZf3suXh) | [一度だけの恋なら / ルンがピカッと光ったら](https://open.spotify.com/album/00Omq87MkN7OhS7CZd2sO3) | 4:42 |
 | 49 | [マジLOVE1000%](https://open.spotify.com/track/2d7xS3RBz24ucevGPzWsck) | [ST☆RISH](https://open.spotify.com/artist/4qozdjjHNXwEDYMMuK6dUb) | [マジLOVE1000%](https://open.spotify.com/album/50lbroyCZOxivlsFFdMe13) | 3:35 |
 | 50 | [UNION](https://open.spotify.com/track/2Op7ZaXB0Kt5zDhetTL0ZQ) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [SSSS.GRIDMANオープニング主題歌「UNION」](https://open.spotify.com/album/3dHQ6Kdva0TkCfydkLKpoh) | 3:46 |
-| 51 | [ここだけの話](https://open.spotify.com/track/3baB33li9jI9yIg1vhNO2A) | [Chatmonchy](https://open.spotify.com/artist/0GtBUVp1cWdIUKwm2GHTHc) | [チャットモンチー BEST\~2005\-2011\~](https://open.spotify.com/album/1l2NYBINebX1Uj3DjB87hV) | 0:29 |
+| 51 | [ここだけの話](https://open.spotify.com/track/3baB33li9jI9yIg1vhNO2A) | [Chatmonchy](https://open.spotify.com/artist/0GtBUVp1cWdIUKwm2GHTHc) | [チャットモンチー BEST\~2005\-2011\~](https://open.spotify.com/album/1l2NYBINebX1Uj3DjB87hV) | 3:20 |
 | 52 | [恋をしたのは](https://open.spotify.com/track/7dVZBUR06TnFQCJLJbfdtV) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [恋をしたのは](https://open.spotify.com/album/5Aqfm6uy9pzMfrj3QGNzW4) | 6:02 |
 | 53 | [Songbirds](https://open.spotify.com/track/56WdyKvj6C0qO3UDnnuyzy) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [WHALE LIVING](https://open.spotify.com/album/6g2VJGloN8HVnedNkGEmK7) | 5:29 |
 | 54 | [Hello,world!](https://open.spotify.com/track/1YqVJ2YSgwxWpfuENocF2t) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Butterflies](https://open.spotify.com/album/7xEb9qTZuR3LMPETeHR1A5) | 4:08 |

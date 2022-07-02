@@ -4,7 +4,7 @@
 
 > Spend an afternoon jamming to this curated playlist of all Asian and Pacific Islander musicians across genres and geographies!
 
-40 songs - 1 hr 58 min - [published](https://open.spotify.com/playlist/0wchqQtZZgd5ObhZrlv8DX)
+40 songs - 2 hr 16 min - [published](https://open.spotify.com/playlist/0wchqQtZZgd5ObhZrlv8DX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Chasing Tidal Waves](https://open.spotify.com/track/7kB8eDV1UlAqvn1AIpe6Go) | [Lo! Peninsula](https://open.spotify.com/artist/5bEUSUY0iBo1UeJ9IcOdgf) | [Chasing Tidal Waves](https://open.spotify.com/album/5Bj5N59eaOi0PaH0yF3feb) | 4:36 | 2022-05-02 |  |
 | [cold/mess](https://open.spotify.com/track/7uhINGViZPygI2AljxO8KN) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [cold/mess](https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK) | 4:41 | 2022-05-02 |  |
 | [damn Right](https://open.spotify.com/track/01ukVTKa6DhejzNulpoG2t) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [a liquid breakfast](https://open.spotify.com/album/45QlLBsyMU0XRqw3cxdTKb) | 2:44 | 2022-05-02 |  |
-| [Diversity](https://open.spotify.com/track/44RW3hbKP46t81jW2op8ko) | [Too Attached](https://open.spotify.com/artist/6tpCnZYpvujd9t6pVUbsI0) | [Angry](https://open.spotify.com/album/1TlqsF8mq2EAZCxC11G00u) | 0:29 | 2022-05-02 |  |
+| [Diversity](https://open.spotify.com/track/44RW3hbKP46t81jW2op8ko) | [Too Attached](https://open.spotify.com/artist/6tpCnZYpvujd9t6pVUbsI0) | [Angry](https://open.spotify.com/album/1TlqsF8mq2EAZCxC11G00u) | 3:21 | 2022-05-02 |  |
 | [double take](https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:51 | 2022-05-02 |  |
 | [Feet Don't Fail Me Now](https://open.spotify.com/track/5goqVeMYUQecvpcjNxpadU) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:18 | 2022-05-02 |  |
 | [focus](https://open.spotify.com/track/3DkAsqU5LrMBz2QJTczoHU) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [The Edge](https://open.spotify.com/album/1nqf27BW5Sxt6QCr6NttWL) | 3:12 | 2022-05-02 |  |
@@ -27,16 +27,16 @@
 | [Illuminous](https://open.spotify.com/track/099SC5HFifJ4cOr9xTCEuc) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Illuminous](https://open.spotify.com/album/5tJE3R6o5gD1w1WSvvVrXt) | 2:46 | 2022-05-02 |  |
 | [In a River](https://open.spotify.com/track/5eum0L07wuKd7Agse5Lgy1) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [In a River](https://open.spotify.com/album/1dmgv74ZmRNaeju9S2rjeA) | 3:43 | 2022-05-02 |  |
 | [Ku'u Poli'ahu](https://open.spotify.com/track/2sfZQiHXz95HPaMX9hZ1bl) | [Kalani Pe'a](https://open.spotify.com/artist/2dn7TmEojNdgWeRhbO15hg) | [E Walea](https://open.spotify.com/album/5lm1nmjm0NWth85dImVdgt) | 0:29 | 2022-05-02 |  |
-| [Last Night](https://open.spotify.com/track/3OBkjktMqs7QJ6dOUPWTji) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 0:29 | 2022-05-02 |  |
+| [Last Night](https://open.spotify.com/track/3OBkjktMqs7QJ6dOUPWTji) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 5:58 | 2022-05-02 |  |
 | [like i need u](https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [THE REAPER](https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB) | 3:02 | 2022-05-02 |  |
 | [Like the Movies](https://open.spotify.com/track/4crdHmkZQmNd2hucSIk7dA) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me EP](https://open.spotify.com/album/6gGP0HuDvAzkZQk9wQOwdo) | 2:42 | 2022-05-02 |  |
 | [Mind Over Matter](https://open.spotify.com/track/5Az8KU81g2aLBbJN67F2CI) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Mind Over Matter](https://open.spotify.com/album/3cSzKBfylctgJwqorcNEo2) | 4:04 | 2022-05-02 |  |
 | [My Type](https://open.spotify.com/track/5KBARWIxeMGkvUax9VtVC9) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [ICY](https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH) | 2:06 | 2022-05-02 |  |
 | [Native Tongue](https://open.spotify.com/track/3pe88vNQ5MWgSXOA1a2xcc) | [Mo’Ju](https://open.spotify.com/artist/08kSC3EyOASw4LU1BmBG6g), [Pasefika Vitoria Choir](https://open.spotify.com/artist/1lm9HeVotNqu7h0Kv14oKO) | [Native Tongue](https://open.spotify.com/album/4eIPiC26JL1CijhjXwlFzs) | 3:49 | 2022-05-02 |  |
-| [O Vai \(Who Am I\)](https://open.spotify.com/track/35rxZp3ZdbxMrPaV2x7DBw) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis), [Vaiteani](https://open.spotify.com/artist/4lQP2uFkQMLlWxTfNrqEkP) | [O Vai \(Who Am I\)](https://open.spotify.com/album/1i0oXRu3T8To32BOAB4hde) | 0:29 | 2022-05-02 |  |
-| [Once](https://open.spotify.com/track/75Exrl1RCc2FK509PXW4sP) | [Ngaiire](https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY) | [Blastoma](https://open.spotify.com/album/5V2DfUqYqHvK4W2CCmPgnf) | 0:29 | 2022-05-02 |  |
+| [O Vai \(Who Am I\)](https://open.spotify.com/track/35rxZp3ZdbxMrPaV2x7DBw) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis), [Vaiteani](https://open.spotify.com/artist/4lQP2uFkQMLlWxTfNrqEkP) | [O Vai \(Who Am I\)](https://open.spotify.com/album/1i0oXRu3T8To32BOAB4hde) | 2:28 | 2022-05-02 |  |
+| [Once](https://open.spotify.com/track/75Exrl1RCc2FK509PXW4sP) | [Ngaiire](https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY) | [Blastoma](https://open.spotify.com/album/5V2DfUqYqHvK4W2CCmPgnf) | 5:11 | 2022-05-02 |  |
 | [Pears](https://open.spotify.com/track/06nKF46jG8p1zwyP4ziAyG) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Pears](https://open.spotify.com/album/4XedVnZRFfk9n7uX601gvb) | 2:21 | 2022-05-02 |  |
-| [Quiet \- Stripped](https://open.spotify.com/track/60oCAd3gei66GObniGX4wV) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Quiet \(Stripped\)](https://open.spotify.com/album/4dqLW8pQA05EoWHZtrlWPi) | 0:29 | 2022-05-02 |  |
+| [Quiet \- Stripped](https://open.spotify.com/track/60oCAd3gei66GObniGX4wV) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Quiet \(Stripped\)](https://open.spotify.com/album/4dqLW8pQA05EoWHZtrlWPi) | 3:28 | 2022-05-02 |  |
 | [Raiments](https://open.spotify.com/track/5IpcpeWGJl0BGb7Ke3zrS9) | [Ami Dang](https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig) | [Parted Plains](https://open.spotify.com/album/2CY7iodG7q2mC8C6GbMeTq) | 3:23 | 2022-05-02 |  |
 | [Raingurl](https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ) | 3:57 | 2022-05-02 |  |
 | [Sad Femme Club](https://open.spotify.com/track/43a6t6358iWCCK7mmBzyy3) | [Kimmortal](https://open.spotify.com/artist/0ioYxkShKhYOKpQh0ERVFS) | [X Marks the Swirl](https://open.spotify.com/album/5kIApXnrHMMm5TfMnDYhRY) | 3:41 | 2022-05-02 |  |

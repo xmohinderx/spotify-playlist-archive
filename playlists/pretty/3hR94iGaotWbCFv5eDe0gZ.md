@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3hR94iGaotWbCFv5eDe0gZ.md) - [plain]
 
 > Shady Records top picks chosen by Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91 likes - 41 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 91 likes - 41 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/3hR94iGaotWbCFv5eDe0gZ.md) - [plain]
 | 16 | [First Date](https://open.spotify.com/track/3EqDoZT29XfLiwEXBzeBas) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [First Date](https://open.spotify.com/album/3HBDwZmWMzmxWdRu6ful1B) | 3:37 |
 | 17 | [New Day](https://open.spotify.com/track/2aI8URxh4JgaDAE7LHk8HY) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [New Day](https://open.spotify.com/album/1s5WZukFQjoyAyApSbFejC) | 4:24 |
 | 18 | [I Just Wanna](https://open.spotify.com/track/0ikHzi979gUsOKQPfyhtDF) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Tony Yayo](https://open.spotify.com/artist/50UMTib697JJ44le8DO2Va) | [I Just Wanna](https://open.spotify.com/album/0hJbXLGpQGlRfRqwEj7DWc) | 3:28 |
-| 19 | [My Life](https://open.spotify.com/track/2GoOioZVtOF1iMYfnzkreg) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [My Life](https://open.spotify.com/album/7iHmgWi3XupDinqX5qwBUc) | 0:29 |
+| 19 | [My Life](https://open.spotify.com/track/2GoOioZVtOF1iMYfnzkreg) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [My Life](https://open.spotify.com/album/7iHmgWi3XupDinqX5qwBUc) | 3:59 |
 | 20 | [Our House](https://open.spotify.com/track/4g4to04UaOZpBrGtOda3BO) | [Slaughterhouse](https://open.spotify.com/artist/5rVbcJv0JRfhWLA3mgM73r), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [welcome to: OUR HOUSE \(Deluxe\)](https://open.spotify.com/album/5ztTCKLCKuiIXzXpbqdUGa) | 5:58 |
 | 21 | [Coffin](https://open.spotify.com/track/1oyz5aQv81Sx25qaCZc7MV) | [Slaughterhouse](https://open.spotify.com/artist/5rVbcJv0JRfhWLA3mgM73r), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [welcome to: OUR HOUSE \(Deluxe\)](https://open.spotify.com/album/5ztTCKLCKuiIXzXpbqdUGa) | 3:41 |
 | 22 | [My Life](https://open.spotify.com/track/5j21tjqJmMO5Jlu1uKZysY) | [Slaughterhouse](https://open.spotify.com/artist/5rVbcJv0JRfhWLA3mgM73r), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [welcome to: OUR HOUSE \(Deluxe\)](https://open.spotify.com/album/5ztTCKLCKuiIXzXpbqdUGa) | 4:21 |

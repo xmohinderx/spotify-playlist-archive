@@ -4,7 +4,7 @@
 
 > music that's hard to define but easy to love feat\. Sycco
 
-406 songs - 23 hr 5 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
+406 songs - 23 hr 8 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,7 +255,7 @@
 | [new ground](https://open.spotify.com/track/4wq4nZrqN8i4dRz3Wlj1OX) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [new ground](https://open.spotify.com/album/3Fph5JhkVM91EjzCLAxUsV) | 2:52 | 2022-02-10 | 2022-03-25 |
 | [New Moon](https://open.spotify.com/track/2WQUdOtqdAZm3qf5esD6x6) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Motordrome](https://open.spotify.com/album/5PYtz6P7n4V5ryGlRIambH) | 3:14 | 2022-01-27 | 2022-03-30 |
 | [New Shapes \(feat\. Christine and the Queens and Caroline Polachek\)](https://open.spotify.com/track/2JvWoj5bTklsb6fPzRfZ3x) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [New Shapes \(feat\. Christine and the Queens and Caroline Polachek\)](https://open.spotify.com/album/3oFHBiIriBPXysgMbeaUVY) | 3:20 | 2021-12-28 | 2022-01-14 |
-| [Next High](https://open.spotify.com/track/6B64wN1vUrw79dHumCzfe1) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s), [Kim Tee](https://open.spotify.com/artist/7DA6NRbeRXME2U3tC5sjtp) | [Next High](https://open.spotify.com/album/0kn73DiUZBTTa4rbtj5DjL) | 0:29 | 2022-03-14 |  |
+| [Next High](https://open.spotify.com/track/6B64wN1vUrw79dHumCzfe1) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s), [Kim Tee](https://open.spotify.com/artist/7DA6NRbeRXME2U3tC5sjtp) | [Next High](https://open.spotify.com/album/0kn73DiUZBTTa4rbtj5DjL) | 3:29 | 2022-03-14 |  |
 | [nice pup](https://open.spotify.com/track/44ZzrQnqhQt3bAOOJ9iQbE) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [puppy luv](https://open.spotify.com/album/24MK23qVssP0WYEeb6lbYq) | 2:43 | 2022-04-11 | 2022-06-07 |
 | [No Charm](https://open.spotify.com/track/3bJoIjkszx2gIbuybsVdkj) | [Sunbather](https://open.spotify.com/artist/0lSrXS3AviAI69PscG7BM8) | [No Charm](https://open.spotify.com/album/4oGGEdR03JP11cTn2MUiFi) | 3:28 | 2022-06-16 |  |
 | [No Choice](https://open.spotify.com/track/4dj1qglNo2j45K8z2sDFEY) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No Choice](https://open.spotify.com/album/61hEtv7eRNxChNrsbpGXSC) | 3:41 | 2021-12-28 | 2022-02-18 |

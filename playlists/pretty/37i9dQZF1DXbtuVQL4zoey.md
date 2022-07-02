@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Chill, tropical vibes only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,238 likes - 246 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,306 likes - 246 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 8 | [Dream On](https://open.spotify.com/track/1s6LKq5nOjmqY65VdrmUej) | [Emapea](https://open.spotify.com/artist/3BiFZY6zbND5L3MEM6niE6) | [Dream On](https://open.spotify.com/album/5r3ZX0rDuI6lH0oAWTvJh1) | 2:42 |
 | 9 | [Poetico](https://open.spotify.com/track/3WOVGisKBJAaab268pcVSw) | [Smokestack](https://open.spotify.com/artist/4fCYV8QWYzc8BDm1M2lhrz) | [Birdcage](https://open.spotify.com/album/1rt06RiwxbqpW7lANXybwj) | 2:36 |
 | 10 | [Sunday Mornings](https://open.spotify.com/track/7sigACWgeejkcI9Q41FCue) | [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi) | [Sunday Mornings](https://open.spotify.com/album/5iaDKlmMD0TtfsLwMyvJJC) | 2:49 |
-| 11 | [The Chillest](https://open.spotify.com/track/6uA5tWVvj13MGLNxhHGxhr) | [Chilou](https://open.spotify.com/artist/2wTi41vTfbFFHdAAezSSF8) | [The Chillest](https://open.spotify.com/album/0CrclNcvwEUbTl9zSFjkzW) | 2:31 |
+| 11 | [The Chillest](https://open.spotify.com/track/6uA5tWVvj13MGLNxhHGxhr) | [Chilou](https://open.spotify.com/artist/2wTi41vTfbFFHdAAezSSF8) | [The Chillest](https://open.spotify.com/album/0CrclNcvwEUbTl9zSFjkzW) | 0:29 |
 | 12 | [Mysteries](https://open.spotify.com/track/4Gs49fzepEtYLIlGDvHP7U) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Mysteries](https://open.spotify.com/album/1wb2u1Q89azoYcZGWy11ZT) | 1:55 |
 | 13 | [Caribs](https://open.spotify.com/track/77IvFp174yhWdvqwBYkphA) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Caribs](https://open.spotify.com/album/26hrmwEdbhGyQSKcJ6nu1w) | 2:07 |
 | 14 | [strolling](https://open.spotify.com/track/1d4ZvL8uuUPTEAnocC3zEa) | [!nvite](https://open.spotify.com/artist/6KJtK1U4TEYXQgg65JYAJI) | [strolling](https://open.spotify.com/album/6AxCT4NDfeK3WCzmQnZ2fF) | 2:18 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 25 | [Lazily](https://open.spotify.com/track/31O9nHEGRZGcAVDxHL1g56) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Lazily](https://open.spotify.com/album/1F5fZmVZ7Id86HWpjZJNj1) | 2:18 |
 | 26 | [Funkophomatic](https://open.spotify.com/track/3llezaxf0tOO3n0S81ZgDI) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Funkophomatic](https://open.spotify.com/album/795wf2HDzo17vytmfBRcuo) | 2:40 |
 | 27 | [Boom Bap a Lula](https://open.spotify.com/track/1bqbXMB4sjKR5QEkZRAm2h) | [Better Call Soul](https://open.spotify.com/artist/1JXhp3JDs7zoyf1YsGfjHG) | [Boom Bap a Lula](https://open.spotify.com/album/2k5gyXnBomBRmlKqj0F5gt) | 2:44 |
-| 28 | [Lab](https://open.spotify.com/track/2kHDQldORUg2dYR1BOQlWc) | [Jon Droulis](https://open.spotify.com/artist/1SmwmdWkvYoC7dw13cEIbs) | [Lab](https://open.spotify.com/album/4CnTuWjhnYgnE2Wqv57AUc) | 0:29 |
+| 28 | [Lab](https://open.spotify.com/track/2kHDQldORUg2dYR1BOQlWc) | [Jon Droulis](https://open.spotify.com/artist/1SmwmdWkvYoC7dw13cEIbs) | [Lab](https://open.spotify.com/album/4CnTuWjhnYgnE2Wqv57AUc) | 2:21 |
 | 29 | [Waking Waves](https://open.spotify.com/track/2CCvwL3lgXH94oajKSOblm) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Waking Waves](https://open.spotify.com/album/0GTAbLRocrPLSAu3y1MQT6) | 3:07 |
 | 30 | [Chillin'](https://open.spotify.com/track/54G7nglEzYJdrIfCcur3El) | [Slacker Boy](https://open.spotify.com/artist/4jII3hmI346hnrWtf7jx3A) | [From Above](https://open.spotify.com/album/7AzyGdeuLj3yYOMgCahejP) | 2:08 |
 | 31 | [Lucy Goosey](https://open.spotify.com/track/5Qnot7dFk2OguRXGOzG3rN) | [Lofi Lucy](https://open.spotify.com/artist/2oIGzku5w8Rj3SOFLhShBO) | [Pink Lemonade](https://open.spotify.com/album/2Hl7QyBwj65cFqpWBhgcSm) | 1:30 |
@@ -89,14 +89,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 79 | [Something Has Happened](https://open.spotify.com/track/5irlm4HR7wslp9BTuMlLQo) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi), [Hippo Dreams](https://open.spotify.com/artist/7d1hAWnZ7H67F3aarrkr9H), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Artifacts](https://open.spotify.com/album/5J0M15urtyOM5CxTjtgT8F) | 1:56 |
 | 80 | [I got to love you](https://open.spotify.com/track/5XW0aneQhkAE93vrxvTDHx) | [Yankee Hart](https://open.spotify.com/artist/3QjEKf7OgPZayWOOt8AUBi) | [I got to love you](https://open.spotify.com/album/2AZB7Ph3AycHxjYKB2jfwn) | 2:12 |
 | 81 | [Gelato 33](https://open.spotify.com/track/3Gzs37SLuzINUby4IAD0Hs) | [Hazeeman](https://open.spotify.com/artist/5mLnKXD8YyMwMI7dCBpFkP) | [Amnesia](https://open.spotify.com/album/0gkzkNt2Uj4xz8tNLhDIru) | 1:52 |
-| 82 | [Where the Sun Lives](https://open.spotify.com/track/1Q6Yq87dBVj1BYaiOsjKph) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Chillin In Cabo](https://open.spotify.com/album/0R3G448YpmWiCpGRGfGgbo) | 0:29 |
+| 82 | [Where the Sun Lives](https://open.spotify.com/track/1Q6Yq87dBVj1BYaiOsjKph) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Chillin In Cabo](https://open.spotify.com/album/0R3G448YpmWiCpGRGfGgbo) | 2:21 |
 | 83 | [special](https://open.spotify.com/track/5YqgLosDBFzjeXUvNwCnQC) | [bird](https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs) | [special](https://open.spotify.com/album/5GfEDnVTeachHBtWYl4YTr) | 2:26 |
 | 84 | [Wonderland](https://open.spotify.com/track/6qeMnGssbQmFZQ4NA9NPT2) | [So\_nny](https://open.spotify.com/artist/1sHQ9ZkPcQPs3TIG3EJFd4) | [Wonderland](https://open.spotify.com/album/1FXPEiafiBIQoBL2FnoWGl) | 2:30 |
 | 85 | [Night Blue Skies](https://open.spotify.com/track/69oebUHeibzbgcD1MUsSsl) | [Midnight Smoothie](https://open.spotify.com/artist/6f4iOB89UDwS8PToDSVkMB) | [Night Blue Skies](https://open.spotify.com/album/13kmXJCG5VJtNalpumVr0e) | 2:08 |
 | 86 | [Trip Vibe](https://open.spotify.com/track/7K6XMQzUNiLQ3NIhCqBwU4) | [Monzzune](https://open.spotify.com/artist/1RWZV3rPwdheATWccxhAbp) | [Go To Kaua'i](https://open.spotify.com/album/25da3jJUKkKnkkWPL7Ozb8) | 2:14 |
 | 87 | [Ferrochrome](https://open.spotify.com/track/10yzr6JwWrvxVuJnFKSe6B) | [C\-90](https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq) | [Ferrochrome](https://open.spotify.com/album/4MSQHrcg30VMIWxCskZzjO) | 2:22 |
 | 88 | [Opus 2](https://open.spotify.com/track/7JV0q80mvbiEUDGUFxE3J5) | [WillSum](https://open.spotify.com/artist/65yQkihuUYn5wSktWTgSVG) | [Opus 2](https://open.spotify.com/album/716LHTsujovH8m2J576NaV) | 2:00 |
-| 89 | [lustig](https://open.spotify.com/track/4PqKF4AvWgQLDh7hUYdYtc) | [Izidore x](https://open.spotify.com/artist/2z2cKX1dfFL2jBrOXRjVKd) | [lustig](https://open.spotify.com/album/0mlMroJGJndveu0n7an5ak) | 2:09 |
+| 89 | [lustig](https://open.spotify.com/track/4PqKF4AvWgQLDh7hUYdYtc) | [Izidore x](https://open.spotify.com/artist/2z2cKX1dfFL2jBrOXRjVKd) | [lustig](https://open.spotify.com/album/0mlMroJGJndveu0n7an5ak) | 0:29 |
 | 90 | [Happy to See You](https://open.spotify.com/track/2c6Si68uNJOXbWA4gFOo6p) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Happy To See You](https://open.spotify.com/album/2RQywmTrDDg7Zf4FdOKNIr) | 2:11 |
 | 91 | [Space Girl](https://open.spotify.com/track/5PXZzdz01lZXKw9ep65Mik) | [Anex Xi Ko](https://open.spotify.com/artist/49aViG8nPbDT9il51JrGD4) | [Space Girl](https://open.spotify.com/album/2jq5PeLCFGCLnayVn9ohRB) | 2:01 |
 | 92 | [Dirib Dirib](https://open.spotify.com/track/5mR1njp8a1rfU3b8BllWS9) | [Linn Blink](https://open.spotify.com/artist/5oV5bOkm37Icq1ia1XNh7H) | [Dirib Dirib](https://open.spotify.com/album/1pRsWXNvF6P4VqqPbAFt57) | 1:44 |
@@ -132,7 +132,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 122 | [Crushin](https://open.spotify.com/track/0kzFqquPfU14JmkkUUHbX8) | [The Man from Mexico](https://open.spotify.com/artist/7ig2AJW5U845K57IhLZvdb) | [La Muchacha Ochentas](https://open.spotify.com/album/15rmla56JfHzwiuU4a9vyh) | 2:36 |
 | 123 | [Papillon](https://open.spotify.com/track/6S1uhrWCT8WFV6z8f5P8Va) | [Xsist](https://open.spotify.com/artist/5UXNo7yX1QsF9VkPVCNKxW) | [Goodwill](https://open.spotify.com/album/1at0iMkraJOI1A582LDqgX) | 1:50 |
 | 124 | [Tightrope Dancer](https://open.spotify.com/track/2KNjcNgghOZqNmfCGa5KuY) | [Malia Løu](https://open.spotify.com/artist/7L101JhKGlktbrpW8DQ3GL) | [Tightrope Dancer](https://open.spotify.com/album/3sHWJRv2zeA6aoc9Y5CeiH) | 2:22 |
-| 125 | [contour](https://open.spotify.com/track/2Pb6ZuEm6FEfcGlqhHuqPN) | [Tatami Construct](https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC) | [Contour](https://open.spotify.com/album/6JX4qMJQLiq2lRBOKavCQI) | 0:29 |
+| 125 | [contour](https://open.spotify.com/track/2Pb6ZuEm6FEfcGlqhHuqPN) | [Tatami Construct](https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC) | [Contour](https://open.spotify.com/album/6JX4qMJQLiq2lRBOKavCQI) | 2:55 |
 | 126 | [Llama Drama](https://open.spotify.com/track/3BIigRWvCUldxIeQkzSEMa) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Llama Drama](https://open.spotify.com/album/1JjljDOBIiFcWw7j3Qrxcw) | 2:07 |
 | 127 | [Backwards](https://open.spotify.com/track/0YE6RLx2NP461VXbb8PddM) | [Vanilla](https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn) | [Backwards](https://open.spotify.com/album/1yU0j3TmoAdXMCs2tH6TMO) | 3:54 |
 | 128 | [Step](https://open.spotify.com/track/51pGm8SzomGrEjBKzGQnYQ) | [Stereo Pack](https://open.spotify.com/artist/7En99WrIYmOSMXYJK3A16w) | [Sunrise Citi](https://open.spotify.com/album/3ZV8TP7HHfTQN5JnpRrTUM) | 2:00 |
@@ -195,7 +195,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 185 | [hoppy](https://open.spotify.com/track/3rtfnxiJifhesXJcecjcnG) | [lola dreams](https://open.spotify.com/artist/5b2IjxR1EQiDcay0RSzgNY) | [hoppy](https://open.spotify.com/album/3YCOsMcVUVL9wR06k7TZ72) | 2:29 |
 | 186 | [Late Hour](https://open.spotify.com/track/5ueBL4PSEp7B7TInLXxhFA) | [kahlooa station](https://open.spotify.com/artist/7IltJzcGeHqTULdYFB0GwT) | [Late Hour](https://open.spotify.com/album/2XmEWdLXAmLF6pY3mht9wi) | 2:18 |
 | 187 | [Times, Times](https://open.spotify.com/track/1CEeMld7h9WlsJBTobGPyu) | [Eric Goldander](https://open.spotify.com/artist/271Et84OFD9kd3AHKbjoEz) | [Times, Times](https://open.spotify.com/album/2PGffwBFMtFQqAOWPVERQj) | 2:13 |
-| 188 | [Habana Vieja](https://open.spotify.com/track/1mI09jvN78SzxAk3pvHmiD) | [Yumas](https://open.spotify.com/artist/3xmU1hRg5TC6koUJ24CRBv) | [¿Qué bolá?](https://open.spotify.com/album/2IVF0eGQmUwWVHRZ5sBtZg) | 0:29 |
+| 188 | [Habana Vieja](https://open.spotify.com/track/1mI09jvN78SzxAk3pvHmiD) | [Yumas](https://open.spotify.com/artist/3xmU1hRg5TC6koUJ24CRBv) | [¿Qué bolá?](https://open.spotify.com/album/2IVF0eGQmUwWVHRZ5sBtZg) | 3:06 |
 | 189 | [G&T!](https://open.spotify.com/track/6tgghxEXGuAeQWn3NYIsKT) | [pastels](https://open.spotify.com/artist/3FMHJYjF4SBeWszMXgWoaR) | [G&T!](https://open.spotify.com/album/0E9J985TjgZozA7pUrwcCF) | 2:44 |
 | 190 | [Agua de Coco](https://open.spotify.com/track/4lgsYg7OxR2vwtlZQ55CMK) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD) | [Agua de Coco](https://open.spotify.com/album/30QZOYyCdPZIlthnT29gla) | 2:37 |
 | 191 | [bad habit](https://open.spotify.com/track/5TZjQUcJwhqlDfQ4BApbYy) | [cingie](https://open.spotify.com/artist/3LRWwnmhuhlhZilHht5dYw) | [bad habit](https://open.spotify.com/album/5Y67fTLxbnk8hgscy8nEB9) | 2:02 |

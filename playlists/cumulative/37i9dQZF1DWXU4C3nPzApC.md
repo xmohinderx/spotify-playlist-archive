@@ -4,7 +4,7 @@
 
 > The best music with a Nashville flavour\. Cover: Twinnie
 
-75 songs - 4 hr 6 min - [published](https://open.spotify.com/playlist/5MYHtRglmvJsgUyFpYLHKg)
+75 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/5MYHtRglmvJsgUyFpYLHKg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Bad Idea](https://open.spotify.com/track/6oAAYARqajLiHX9vf5T211) | [Lisa McHugh](https://open.spotify.com/artist/0hdsor8yel8RFdw4HA4RMP) | [Bad Idea](https://open.spotify.com/album/3RWiNnqxRTpUmlZBuZ7fEp) | 3:02 | 2021-12-17 | 2022-01-12 |
 | [Better Than We Found It](https://open.spotify.com/track/6IVLDX1miNBy1BOWebnMP2) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Better Than We Found It](https://open.spotify.com/album/4DI81D0NrKjNh88p7qusbC) | 3:17 | 2021-12-17 | 2022-03-09 |
 | [Blessed & Free](https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Blessed & Free](https://open.spotify.com/album/055uuuPMs7soYjnONo02QV) | 3:18 | 2021-12-17 |  |
-| [Bruise You Left](https://open.spotify.com/track/4QlQ9E86UWTyLNO8724Drv) | [The Rising](https://open.spotify.com/artist/0I4Sg6JkRdKpkOTichDMpI) | [Bruise You Left](https://open.spotify.com/album/0lCoGeUUOQ2iQXk8FJsg2D) | 0:29 | 2021-12-17 |  |
+| [Bruise You Left](https://open.spotify.com/track/4QlQ9E86UWTyLNO8724Drv) | [The Rising](https://open.spotify.com/artist/0I4Sg6JkRdKpkOTichDMpI) | [Bruise You Left](https://open.spotify.com/album/0lCoGeUUOQ2iQXk8FJsg2D) | 3:00 | 2021-12-17 |  |
 | [C'est La Vie](https://open.spotify.com/track/32DspJXRL1U3c9RwOhRJZE) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Pacifico \(Deluxe\)](https://open.spotify.com/album/29srkzNK3ixAW0NLVlR59A) | 2:55 | 2021-12-17 |  |
 | [Ceremony](https://open.spotify.com/track/4ei1wfqTvqneY8b9pbdtY6) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Lay Low EP](https://open.spotify.com/album/6ybtVG56huE7EZGWsz6gYv) | 3:05 | 2021-12-17 |  |
 | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK) | 3:27 | 2021-12-17 | 2022-03-08 |

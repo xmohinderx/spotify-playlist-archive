@@ -4,7 +4,7 @@
 
 > Epic and melodic metal, for the dragonslayer in you! Cover: Wind Rose
 
-309 songs - 23 hr 12 min - [published](https://open.spotify.com/playlist/7kEcasUjgrsWeDSNxMBt56)
+309 songs - 23 hr 21 min - [published](https://open.spotify.com/playlist/7kEcasUjgrsWeDSNxMBt56)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Chain of the Golden Horn](https://open.spotify.com/track/2Fn6YAHjuM0Th4L0QCvwUV) | [Leaves' Eyes](https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ) | [Chain of the Golden Horn](https://open.spotify.com/album/7vGhZpOO230V2JKMNYcWXj) | 4:00 | 2020-11-29\* | 2021-11-27 |
 | [Chambers of Fire](https://open.spotify.com/track/0t6hb4sQPxJQAAB7iYPrpt) | [Battlelore](https://open.spotify.com/artist/6vDPwpGZIflBoW6Gy3FWFw) | [Chambers of Fire](https://open.spotify.com/album/2knMVLETWD9mGLSF02iClX) | 4:13 | 2022-05-06 |  |
 | [Chandelier](https://open.spotify.com/track/6yqcGYzJ7V4tv9wXt827ue) | [Rioghan](https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw) | [Covers II](https://open.spotify.com/album/0iGeVl7864jzkdwMGrrrNd) | 3:38 | 2021-11-20 | 2022-06-18 |
-| [Charcoal](https://open.spotify.com/track/5T5u6OqOiGwk0M7pLi4Yaz) | [Windrunner](https://open.spotify.com/artist/7GqHmgqt4wkWHZr8fcc9P7) | [TAN](https://open.spotify.com/album/5CaUwC3aR3rdy325CtWPLH) | 0:29 | 2022-04-01 |  |
+| [Charcoal](https://open.spotify.com/track/5T5u6OqOiGwk0M7pLi4Yaz) | [Windrunner](https://open.spotify.com/artist/7GqHmgqt4wkWHZr8fcc9P7) | [TAN](https://open.spotify.com/album/5CaUwC3aR3rdy325CtWPLH) | 5:14 | 2022-04-01 |  |
 | [Childhood](https://open.spotify.com/track/1CznPeF4zp76HqUmZk26dp) | [Dawn of Destiny](https://open.spotify.com/artist/6AOHVA5mVwHahUw5H4Fa45), [Chris Harms](https://open.spotify.com/artist/4iBB0ZxqxKEsGo6xbMuYVD) | [Of Silence](https://open.spotify.com/album/1dR6oYAK5YRVstm9q6AtA1) | 3:50 | 2022-06-24 |  |
 | [Clone](https://open.spotify.com/track/4G9hW8GiFh3CJrGOHCRzGv) | [Tulip](https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY) | [Clone](https://open.spotify.com/album/07hUtl2HsFlRcEb5KeBbbP) | 4:09 | 2021-08-14 | 2022-04-09 |
 | [Cloud Connected](https://open.spotify.com/track/6hAYbPSzILcsjxhId7ILLy) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [Cloud Connected](https://open.spotify.com/album/2Jh3N37zJQBE4TrDP3T0KE) | 3:48 | 2021-02-26 | 2022-01-22 |
@@ -265,7 +265,7 @@
 | [The Land of Xia](https://open.spotify.com/track/75RY9AwhKebedSsNs0hRqg) | [Memories Of Old](https://open.spotify.com/artist/3jwxNFNe7BHnFTas8X2cGS) | [The Land of Xia](https://open.spotify.com/album/3OeFbWpvoCLnVBaYT0lT90) | 6:00 | 2020-11-29\* | 2021-09-25 |
 | [The Last Glow of Day](https://open.spotify.com/track/5A8Swwa08RlHqJ8SCcrGk9) | [Walk in Darkness](https://open.spotify.com/artist/4J5dAuYmTTvllJTymoS3tL) | [The Last Glow of Day](https://open.spotify.com/album/1bDmn617Zj0iFIaa6uVQfv) | 5:15 | 2021-10-01 | 2022-05-14 |
 | [The Last Hymn to Life](https://open.spotify.com/track/2m1SoDCpZAE0oRs6gGCCXe) | [Insania](https://open.spotify.com/artist/5PgpbJGDEilZcBglUPMMPl) | [V \(Praeparatus Supervivet\)](https://open.spotify.com/album/6DjBQrACipS0vKlBIqUgzI) | 7:36 | 2021-11-13 | 2022-06-12 |
-| [The Last Rays of the Sun](https://open.spotify.com/track/5RAVYLt6qwE6qAJISplSud) | [Her Alone](https://open.spotify.com/artist/2dnG7Q4xgIcfNpItnAwLAv) | [The Last Rays of the Sun](https://open.spotify.com/album/4vOgylNHYI8EGze0sJGWOg) | 0:29 | 2021-11-27 |  |
+| [The Last Rays of the Sun](https://open.spotify.com/track/5RAVYLt6qwE6qAJISplSud) | [Her Alone](https://open.spotify.com/artist/2dnG7Q4xgIcfNpItnAwLAv) | [The Last Rays of the Sun](https://open.spotify.com/album/4vOgylNHYI8EGze0sJGWOg) | 4:35 | 2021-11-27 |  |
 | [The Last Wave](https://open.spotify.com/track/3HIrL5CpFrc6CNjiOCDidI) | [The Ferrymen](https://open.spotify.com/artist/6THX1gyfwGIwiPSyU5ffL7) | [The Last Wave](https://open.spotify.com/album/4fh7KDwJsiTCLwzeEEJIXL) | 4:47 | 2021-12-17 | 2022-06-18 |
 | [The Longing](https://open.spotify.com/track/6nLAVYh5wKwASkNoYVNSNi) | [Oversense](https://open.spotify.com/artist/2s2E3a8FosQdQvs1r8KHYd) | [The Longing](https://open.spotify.com/album/7bNjKNmZ2Wj58s9zCRCJ0u) | 4:43 | 2021-07-10 | 2022-04-02 |
 | [The Other Side](https://open.spotify.com/track/3o9soRptwDhjVZ5IW0c2OG) | [DAMPF](https://open.spotify.com/artist/0S3PwQ8ImA3ORcNpYsG6my) | [The Other Side](https://open.spotify.com/album/6pzWHJIhb1m0bynoFZzx7Q) | 3:34 | 2022-03-22 | 2022-06-18 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PFzdbtx1Us.md) - [plain]
 
 > Minimalism, electronica and modern classical to concentrate to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,229,296 likes - 90 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,229,278 likes - 90 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kyle \(Northern Line\)](https://open.spotify.com/track/2rHefyfbrhfXVaquedNvnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life Piano EP \(April 14 \- December 17 2020\)](https://open.spotify.com/album/77cR5kSztr2fcYtr0vsyes) | 2:44 |
-| 2 | [Next](https://open.spotify.com/track/3YNbisxUYGwvlqlGYoa0fo) | [Emily Rubye](https://open.spotify.com/artist/1ra1CeoAhMOYZunkNRDvwp) | [Finding Rain](https://open.spotify.com/album/6FSHR1O0FVsANtmPMWINB8) | 0:29 |
+| 2 | [Next](https://open.spotify.com/track/3YNbisxUYGwvlqlGYoa0fo) | [Emily Rubye](https://open.spotify.com/artist/1ra1CeoAhMOYZunkNRDvwp) | [Finding Rain](https://open.spotify.com/album/6FSHR1O0FVsANtmPMWINB8) | 2:08 |
 | 3 | [At Last, Sunrise](https://open.spotify.com/track/4z0spwzLajA7R76czkAIEE) | [Maree Docia](https://open.spotify.com/artist/2UjQMEOzrwt2v4L3dNrcqe) | [We Were Legends](https://open.spotify.com/album/0Rv82yRFV9inly8ChKaO72) | 2:00 |
 | 4 | [Borrowed Peace](https://open.spotify.com/track/51s3ibJpDlmrr41l331xJA) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Nainsook](https://open.spotify.com/album/0c2uw96zlJP8jMui1HA38h) | 1:45 |
 | 5 | [Small Memory](https://open.spotify.com/track/5sWFhWNyWU55TDmGSXQMpM) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/2t8hYss2U3w8cJqs9ZzeqW) | 1:40 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PFzdbtx1Us.md) - [plain]
 | 61 | [](https://open.spotify.com/track/6ppQV7oq5k1utPnzmcVgfz) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1wRozGRs0G4auZhSA4UseC) | 0:00 |
 | 62 | [Rainbow Child](https://open.spotify.com/track/6gqxXQgdx4rN6Bce3kIZnB) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Early Bird](https://open.spotify.com/album/628TBG979WM6q2v6fphLB3) | 4:10 |
 | 63 | [Prelude](https://open.spotify.com/track/7AgPMkEsH3t2g75HAVsruh) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Prelude](https://open.spotify.com/album/3AReOddmQZpANnPBiWVteQ) | 2:49 |
-| 64 | [Intervention](https://open.spotify.com/track/5w8M2WZDLoFwycrmB3QfBm) | [Gabriel Parker](https://open.spotify.com/artist/4mo8fqMn19RX8Ekf2yz0t4) | [Fractions](https://open.spotify.com/album/5ZVtZ3m4nZBoc0R2paTrKc) | 0:29 |
+| 64 | [Intervention](https://open.spotify.com/track/5w8M2WZDLoFwycrmB3QfBm) | [Gabriel Parker](https://open.spotify.com/artist/4mo8fqMn19RX8Ekf2yz0t4) | [Fractions](https://open.spotify.com/album/5ZVtZ3m4nZBoc0R2paTrKc) | 2:19 |
 | 65 | [The Last Spring](https://open.spotify.com/track/23DarNj68Jdadgb8ETaSV9) | [Elba](https://open.spotify.com/artist/3vyBIFbCPSFdrzamx6G60r) | [The Last Spring](https://open.spotify.com/album/1FQidmEkogespC5aJ6rJe1) | 2:10 |
 | 66 | [African Violet](https://open.spotify.com/track/2AS9ZM50B6JkihVq1KY6b6) | [Arden Forest](https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7) | [Dark Taupe](https://open.spotify.com/album/47AoMLS4iKE2Lx942HBIKY) | 3:02 |
 | 67 | [Now](https://open.spotify.com/track/2jFfDGcVzMONceohrF4Jre) | [Dilia](https://open.spotify.com/artist/5uqiYjT81VEQvHDYpIlM7Z) | [The Giant](https://open.spotify.com/album/2LOc5ZVVbA75nq1LKK6HfU) | 3:02 |

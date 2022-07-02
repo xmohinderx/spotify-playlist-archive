@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/315bvK1m77RNynw5ycETfA">sad alex</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 490 likes - 71 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 491 likes - 71 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 18 | [Like You](https://open.spotify.com/track/7p5MI2KnFzTmY31nrGWxki) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Like You](https://open.spotify.com/album/0HzVZc17Up2e3QR7dB3yHD) | 2:45 |
 | 19 | [lovesick \(feat\. ellise\)](https://open.spotify.com/track/3KMvDzhXsVzXtTkwTfyaKh) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09), [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [joke's on you](https://open.spotify.com/album/7m81PtaaFgg72fNkVvU5gF) | 2:43 |
 | 20 | [mess without u](https://open.spotify.com/track/6jrdQDuG6OiLvbBU7zL1b8) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [mess without u](https://open.spotify.com/album/4cGO1Zt2uM6G97rUIcQIJI) | 3:14 |
-| 21 | [Give It All](https://open.spotify.com/track/53g2iXyDr5wAaQifpNsZCf) | [Emily Zeck](https://open.spotify.com/artist/696x5uEm1nV6xucEZNAbzH) | [Give It All](https://open.spotify.com/album/6dCdUkSiLM2H6zsWzu0wUa) | 0:29 |
+| 21 | [Give It All](https://open.spotify.com/track/53g2iXyDr5wAaQifpNsZCf) | [Emily Zeck](https://open.spotify.com/artist/696x5uEm1nV6xucEZNAbzH) | [Give It All](https://open.spotify.com/album/6dCdUkSiLM2H6zsWzu0wUa) | 3:12 |
 | 22 | [I Can’t Be Me](https://open.spotify.com/track/6zu3Rz7BgVmeE7QD4DcWzN) | [Alex Aiono](https://open.spotify.com/artist/5KPJMJR9PCfMWSfco8i4W4) | [I Can’t Be Me](https://open.spotify.com/album/4LCZyfna7fJpsMstdTjbVX) | 3:11 |
 | 23 | [stockholm's a ghost town](https://open.spotify.com/track/7cdXnczyweF4F6v7lfB8xh) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [stockholm's a ghost town](https://open.spotify.com/album/7yv0GU6bkJGMBxI0C4H6W1) | 2:50 |
 | 24 | [Red Sangria](https://open.spotify.com/track/0rvBpvSy3on3VR1oDJ46sG) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Red Sangria](https://open.spotify.com/album/3bNtHQhVXWiBq2lX07D7m1) | 3:05 |
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 65 | [No Matter the Miles](https://open.spotify.com/track/2rHIarcktKShfbSTnd3V7c) | [Taylor Dukes](https://open.spotify.com/artist/4IKsiLmD4PNTbwVaEg3NSV), [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb), [Caitlin Eadie](https://open.spotify.com/artist/280gGNu14wG60HkEvvJ3p8) | [No Matter the Miles](https://open.spotify.com/album/1Dk3FGYitZV8U4CDI222hJ) | 3:05 |
 | 66 | [Welcome To The Dark Side](https://open.spotify.com/track/6lCWOGO78tWFPiEgzFB2j6) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [Welcome To The Dark Side](https://open.spotify.com/album/09e9JBmn3fH1rXHp9GmGOf) | 2:23 |
 | 67 | [Too Fire](https://open.spotify.com/track/7Jk8iKurfAjKtwHJGKe4Wh) | [Dola](https://open.spotify.com/artist/7zV7uaFYItDZduoF0E9XRK) | [SPACE DAUGHTER](https://open.spotify.com/album/33IGC1O1gF3s6Dnn8kmbyE) | 3:06 |
-| 68 | [What I Said](https://open.spotify.com/track/0EJtMx3EsBvwjRIADEQybR) | [Dola](https://open.spotify.com/artist/7zV7uaFYItDZduoF0E9XRK) | [What I Said](https://open.spotify.com/album/2fow3g80xPNbqTUs6QZhSM) | 0:29 |
+| 68 | [What I Said](https://open.spotify.com/track/0EJtMx3EsBvwjRIADEQybR) | [Dola](https://open.spotify.com/artist/7zV7uaFYItDZduoF0E9XRK) | [What I Said](https://open.spotify.com/album/2fow3g80xPNbqTUs6QZhSM) | 2:42 |
 | 69 | [New Beginning](https://open.spotify.com/track/6Ys6nrCN4SOZEwxoOCOSyH) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [New Beginning](https://open.spotify.com/album/37LwwsRyDPVIXCEjmMU5ax) | 2:01 |
 | 70 | [The Heart Always Wins](https://open.spotify.com/track/3bNXPv2uIbtc9x8YnGmjiY) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:32 |
 | 71 | [It's All Good](https://open.spotify.com/track/7k4IoEjEyhWgITb1JoF3mO) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:15 |
 
-Snapshot ID: `Mjc2MTA2NDIsMDAwMDAwMDAxNTZhMTcwZDliM2ZjZWFkOTk1N2ZlOTQzM2UyMDg1ZQ==`
+Snapshot ID: `Mjc2MTIwODIsMDAwMDAwMDA4ZGNlZTRjYWM0MDM4ZDk4M2VjOGU0ZGIwNmIyNTgwZA==`

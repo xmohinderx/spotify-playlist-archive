@@ -4,7 +4,7 @@
 
 > This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
 
-70 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/24imJLVW9FZTNmf0BSg9VS)
+70 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/24imJLVW9FZTNmf0BSg9VS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Umusa Kankulunkulu \(Mercy of God\)](https://open.spotify.com/track/0GqlEEum0IeztVdE5RhllQ) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Journey Of Dreams](https://open.spotify.com/album/3vMHGUT6cjoHD4jIopv9tL) | 3:26 | 2022-06-23 | 2022-06-26 |
 | [Upendi \- From "The Lion King II: Simba's Pride"/Soundtrack Version](https://open.spotify.com/track/6RJayUS0XvdWGt0d2HTKTH) | [Liz Callaway](https://open.spotify.com/artist/4hcWMDrWJYyU66HA583nCb), [Gene Miller](https://open.spotify.com/artist/1KYA9tk1iUyyaU523Wy8bc), [Robert Guillaume](https://open.spotify.com/artist/5ohxmJ6nh8Dx2WFzudufCl), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Lion King 2: Simba's Pride](https://open.spotify.com/album/1Qi1XRfG99dwoh7bX1cyQy) | 2:54 | 2021-12-28 |  |
 | [We Are One \- From "Simba's Pride"](https://open.spotify.com/track/0Qz6rnFScHPUAUfvNAVS5Y) | [Cam Clarke](https://open.spotify.com/artist/3zsO3rIX3eZkJUtHcMcWVS), [Charity Sanoy](https://open.spotify.com/artist/0XdnLYUACJL47W0Zbs7Dyp), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Lion King 2: Simba's Pride](https://open.spotify.com/album/1Qi1XRfG99dwoh7bX1cyQy) | 3:45 | 2021-12-28 |  |
-| [We Will Sing @30](https://open.spotify.com/track/4FpZMe9Hoath6c9K5kggu1) | [Kate Rusby](https://open.spotify.com/artist/3Cf7jFBOVBRDTvFUxGAJgF), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [30 : Happy Returns](https://open.spotify.com/album/2RqzGr5REeTjUOYbT0Pds7) | 4:07 | 2022-05-16 |  |
+| [We Will Sing @30](https://open.spotify.com/track/4FpZMe9Hoath6c9K5kggu1) | [Kate Rusby](https://open.spotify.com/artist/3Cf7jFBOVBRDTvFUxGAJgF), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [30 : Happy Returns](https://open.spotify.com/album/2RqzGr5REeTjUOYbT0Pds7) | 0:29 | 2022-05-16 |  |
 | [We Will Sing @30](https://open.spotify.com/track/6kBMl2D1mUdsPATvOD980l) | [Kate Rusby](https://open.spotify.com/artist/3Cf7jFBOVBRDTvFUxGAJgF), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [We Will Sing @30](https://open.spotify.com/album/6jyXTCLGzWtgJssij4UNnY) | 4:07 | 2022-04-16 | 2022-05-17 |
 | [Weeping \(with Ladysmith Black Mambazo & Vusi Mahlasela\)](https://open.spotify.com/track/1nTIMFZ6rD8BRe2HvXZrph) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Vusi Mahlasela](https://open.spotify.com/artist/7tUdxVCUWjTPf3Ic90eWDJ) | [Awake](https://open.spotify.com/album/6E6fumzB50Dwmzc7MUkXuC) | 4:44 | 2021-12-30 | 2022-07-01 |
 | [Wimoweh \(feat\. Ladysmith Black Mambazo\)](https://open.spotify.com/track/2ZHwMnAiXZ6YvnLtPMQE4e) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 4:19 | 2022-01-03 | 2022-06-28 |

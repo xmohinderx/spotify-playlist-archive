@@ -4,7 +4,7 @@
 
 > Early blues standards and classics
 
-50 songs - 2 hr 21 min - [published](https://open.spotify.com/playlist/1s3RaW5fhxW7VeqvAIPMfc)
+50 songs - 2 hr 29 min - [published](https://open.spotify.com/playlist/1s3RaW5fhxW7VeqvAIPMfc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,15 +19,15 @@
 | [Catfish Blues](https://open.spotify.com/track/7A9yfYiBXLEvKn1oJy3nPL) | [Robert Petway](https://open.spotify.com/artist/0zNSuwnNWdr8g5EmE0YWKx) | [Mississippi Blues Vol\. 3 "Catfish Blues"](https://open.spotify.com/album/4LjUYP4RO0OcX7f6lUVerz) | 2:54 | 2018-03-28 |  |
 | [Come Back Baby](https://open.spotify.com/track/061qVrfyTW07DCB9B4BBmI) | [Doctor Ross](https://open.spotify.com/artist/59gZhkxiZ8x4umU9ua2ZBn) | [Come Back Baby / Chicago Breakdown](https://open.spotify.com/album/14WqCYoHNfJBr2GCdsees3) | 2:47 | 2021-10-29 |  |
 | [Crazy Blues](https://open.spotify.com/track/5j6tQBJnNG4wLLdVISJ5g2) | [Mamie Smith](https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk) | [Mamie Smith Vol\. 1 \(1920\-1921\)](https://open.spotify.com/album/5R4HBYPhpEXGLXeyjWFbmT) | 3:22 | 2018-03-28 |  |
-| [Cross Road Blues](https://open.spotify.com/track/1TrGdXSgiBm8W68D2K1COG) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 0:29 | 2018-02-13 |  |
+| [Cross Road Blues](https://open.spotify.com/track/1TrGdXSgiBm8W68D2K1COG) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 2:29 | 2018-02-13 |  |
 | [Devil Got My Woman](https://open.spotify.com/track/1bWh9hOkQGahfQ0rEqvaGR) | [Skip James](https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ) | [Legends Of Country Blues: The Complete Pre\-War Recordings Of Skip James \(Disc A\)](https://open.spotify.com/album/2KNRkv1h7OYErPyhVIDQiV) | 3:01 | 2018-03-28 |  |
 | [Don't Start Me To Talkin'](https://open.spotify.com/track/1f9FEeBWZkuT4ItJZwsJ2l) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [Down And Out Blues](https://open.spotify.com/album/6uhJ93exe9enyJnV3jgyLO) | 2:36 | 2018-03-28 |  |
 | [Down The Dirt Road Blues](https://open.spotify.com/track/4sCCIP8eG3HVizWnm1SQ0G) | [Charley Patton](https://open.spotify.com/artist/7aExFIr0IHWO5aFjMrGwKw) | [Charley Patton Vol\. 1 \(1929\)](https://open.spotify.com/album/0fWV8D1byaFWLivZSRqf8v) | 2:54 | 2018-03-28 |  |
-| [Downtown Blues](https://open.spotify.com/track/6NzOw76Vq4ogyuRGmiXG4X) | [Frank Stokes](https://open.spotify.com/artist/3dahhupQzKVXptEwFBsodc) | [The Best Of Frank Stokes](https://open.spotify.com/album/5el2MJDFH4QMdYnFbWPpIu) | 0:29 | 2018-03-28 |  |
+| [Downtown Blues](https://open.spotify.com/track/6NzOw76Vq4ogyuRGmiXG4X) | [Frank Stokes](https://open.spotify.com/artist/3dahhupQzKVXptEwFBsodc) | [The Best Of Frank Stokes](https://open.spotify.com/album/5el2MJDFH4QMdYnFbWPpIu) | 3:17 | 2018-03-28 |  |
 | [Garter Snake Blues](https://open.spotify.com/track/6PScTantRyDSp4AkOGTKUT) | [Victoria Spivey](https://open.spotify.com/artist/3GjPnuJtWUiwPm1Kn8zyG4) | [Victoria Spivey Vol\. 1 1926\-1927](https://open.spotify.com/album/7rtTHKZbip3YBDgcOzSc5k) | 3:17 | 2018-03-28 |  |
 | [Goin' Down Slow](https://open.spotify.com/track/5EpIZRPAEqniltILeAjk38) | [St\. Louis Jimmy Oden](https://open.spotify.com/artist/6lot4YJARPUg9K35xNjDH6) | [Blues Legend \- The Best Of](https://open.spotify.com/album/1bQWiBkg3AosmjIzsp88pe) | 3:11 | 2018-03-28 |  |
 | [Grinnin' In Your Face](https://open.spotify.com/track/7bWhtFDDMgcA6DmFGGlS0C) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Son House Revisited Vol\. 1](https://open.spotify.com/album/0B1wPjeha3UdcgiYquEprz) | 1:56 | 2018-03-28 |  |
-| [Guitar Rag](https://open.spotify.com/track/5xwCQuoGnPdgqw2omrgmCq) | [Sylvester Weaver](https://open.spotify.com/artist/2m2vWbN6WZU0Mtv569ndeb) | [The Slide Guitar: Bottles, Knives & Steel](https://open.spotify.com/album/1v6Wu8KqYLWsax5EjmZNAf) | 0:29 | 2018-03-28 |  |
+| [Guitar Rag](https://open.spotify.com/track/5xwCQuoGnPdgqw2omrgmCq) | [Sylvester Weaver](https://open.spotify.com/artist/2m2vWbN6WZU0Mtv569ndeb) | [The Slide Guitar: Bottles, Knives & Steel](https://open.spotify.com/album/1v6Wu8KqYLWsax5EjmZNAf) | 2:58 | 2018-03-28 |  |
 | [High And Lonesome](https://open.spotify.com/track/4uvdVSZSfDrXL09nFcrVTW) | [Jimmy Reed](https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV) | [Mr\. Luck: The Complete Vee\-Jay Singles](https://open.spotify.com/album/2zQv74POvtwU8V7v8FRlAe) | 2:47 | 2018-03-28 |  |
 | [I Can't Be Satisfied](https://open.spotify.com/track/0Q4qVBG7jAF3Ar4sheUidp) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Best Of Muddy Waters](https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY) | 2:42 | 2018-03-28 |  |
 | [I Can't Quit You Baby](https://open.spotify.com/track/1TVtYIucWI5fqdQwwlZFR3) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [An Introduction To Otis Rush](https://open.spotify.com/album/1PD0bGAiG3boXRd7MGHtjO) | 3:39 | 2018-03-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4hrw8K7Pxm.md) - [plain]
 
 > Let it go and belt it out to these classic ballads – covered\. Cover: <a href="spotify:artist:3DIk8KcmVKTr4uGw3AuCtJ">Rose Cousins</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,994 likes - 54 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,006 likes - 54 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4hrw8K7Pxm.md) - [plain]
 | 40 | [Like I'm Gonna Lose You](https://open.spotify.com/track/3QRoTJ1vIlh3e5Ze8kph1b) | [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm), [Chris Collins](https://open.spotify.com/artist/4s93zlqCp8gzg7znyuB933), [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [Like I'm Gonna Lose You](https://open.spotify.com/album/2SW2MjxjlpLRba9xJJD3ni) | 2:56 |
 | 41 | [Use Somebody](https://open.spotify.com/track/4LBhBtcGb6aOn2pbgOdyN5) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [The Living Room Sessions Vol\. 1](https://open.spotify.com/album/1eF6bx49eA7EsTvdZZ4KNj) | 3:24 |
 | 42 | [Counting Stars](https://open.spotify.com/track/6O33j9aabTuZcD1U40LdtM) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Cover Sessions, Vol\. 2](https://open.spotify.com/album/3tCHNcehvK6wsvuvFAkpgH) | 2:56 |
-| 43 | [A Thousand Years](https://open.spotify.com/track/1xKQ533l7XXlbFL8m60x4a) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/0nPQ4uEOKLeGQ35Mcs94xH) | 0:29 |
+| 43 | [A Thousand Years](https://open.spotify.com/track/1xKQ533l7XXlbFL8m60x4a) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/0nPQ4uEOKLeGQ35Mcs94xH) | 3:41 |
 | 44 | [Best Thing I Never Had \(made famous by Beyoncé\)](https://open.spotify.com/track/1u3PLSZ2YkkUBuapHKz29w) | [Megan & Liz](https://open.spotify.com/artist/6mRrGf8lw51Iux6dPQWWlr) | [Best Thing I Never Had \- Single](https://open.spotify.com/album/6lwW0tcsq3ak4Hca5bbYca) | 3:03 |
 | 45 | [In My Life](https://open.spotify.com/track/6IZOM0mpvqxtHXngtLdwJ7) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [Aqui, Ali, em Qualquer Lugar](https://open.spotify.com/album/25gF6m29zFfS7NRTZ9SMq6) | 2:23 |
 | 46 | [Happy \(Acoustic\)](https://open.spotify.com/track/1x1gLI1YkA90lPp9QZ9PQQ) | [Skylar Stecker](https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0) | [UnCovered](https://open.spotify.com/album/4MjJg3GMvdo85uZkpInk5D) | 2:36 |

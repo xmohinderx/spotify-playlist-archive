@@ -4,7 +4,7 @@
 
 > Neighborhood Storytellers\. Cover: NoCap
 
-93 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/5n5KtY8h4kAoEatkpfvbQd)
+93 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/5n5KtY8h4kAoEatkpfvbQd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Doctor \(feat\. Lil Tjay\)](https://open.spotify.com/track/5Xks4meWbkd8vjWsxqYeNF) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Doctor \(feat\. Lil Tjay\)](https://open.spotify.com/album/566YUUlXUHUdv98SJKo0Os) | 2:47 | 2021-11-05 | 2022-04-16 |
 | [Evil](https://open.spotify.com/track/5zG5U3PGRdzzGcpUKP3W1J) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [Evil](https://open.spotify.com/album/5X8WNJ9F7SmfCXjC19I2e0) | 2:19 | 2022-02-04 |  |
 | [Eyes Open \(feat\. Lil Baby & Young Thug\)](https://open.spotify.com/track/0va4UcIcxAOf4yVpxGQWSa) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [2 Get You Thru The Rain](https://open.spotify.com/album/5AWE3CWvvlvpBBqKIjTrji) | 3:22 | 2021-12-10 | 2022-06-04 |
-| [Federal Nightmares](https://open.spotify.com/track/4W730PJT4aw79pZ9D8BLhl) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 0:29 | 2022-03-11 |  |
+| [Federal Nightmares](https://open.spotify.com/track/4W730PJT4aw79pZ9D8BLhl) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 2:31 | 2022-03-11 |  |
 | [Feelin Like Rylo](https://open.spotify.com/track/5bHXahWwP3DHKcXAcgIS2d) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Feelin Like Rylo](https://open.spotify.com/album/6SnxOflet3jdrMvcmbhNKl) | 2:25 | 2022-04-10 |  |
 | [Feeling Down \(feat\. NoCap\)](https://open.spotify.com/track/4BKN3EPTN0HVte4s59dj68) | [No Savage](https://open.spotify.com/artist/0yMuWrw3m4KacxLCpFQW9w), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Life of a Savage 2](https://open.spotify.com/album/6r3kyA8HungIaSRs7CVtqW) | 3:14 | 2021-12-03 |  |
 | [Fighting Demons](https://open.spotify.com/track/71QsPXEpe7UijIeaJJpDox) | [Enphamus](https://open.spotify.com/artist/1YuG9W2X7E1yLwM0qDeGUb), [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [Fighting Demons](https://open.spotify.com/album/6MD7sPfMj3TCYXtRai3lew) | 2:42 | 2022-06-24 |  |
@@ -100,6 +100,6 @@
 | [VOP](https://open.spotify.com/track/7vdunoBHpNn9M85W7VQOQQ) | [Soldier Kidd](https://open.spotify.com/artist/7BA072InWOjB1X7MZGOloy) | [Soldier Kidd Fly High](https://open.spotify.com/album/7nTmZkR90qoOZqKoWEZWbv) | 2:11 | 2021-12-17 | 2022-05-20 |
 | [We Slide \(feat\. Young Thug\)](https://open.spotify.com/track/43JY1IBWONa8J8FqlbNOZ1) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Expensive Pain](https://open.spotify.com/album/3cLQ49Ll3nGRkw3HSSk92K) | 3:30 | 2021-10-01 | 2022-01-08 |
 | [Weezy Flow](https://open.spotify.com/track/6Y6EWbUjuiu3lmLuuoO4S7) | [Calvary Kylan](https://open.spotify.com/artist/3GJruOCHZYChqnOxMcGipy) | [Weezy Flow](https://open.spotify.com/album/2vpuYJsioxbxygRyxo4WhC) | 2:06 | 2022-06-24 |  |
-| [What Happened To Virgil \(feat\. Gunna\)](https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 0:29 | 2022-03-11 |  |
+| [What Happened To Virgil \(feat\. Gunna\)](https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 3:01 | 2022-03-11 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

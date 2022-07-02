@@ -4,7 +4,7 @@
 
 > 
 
-50 songs - 2 hr 36 min - [published](https://open.spotify.com/playlist/6T7nq9wcsLUUmiJzFVziBM)
+50 songs - 2 hr 46 min - [published](https://open.spotify.com/playlist/6T7nq9wcsLUUmiJzFVziBM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Help Me Make It Through The Night](https://open.spotify.com/track/3DlrvYMG2VRxjX0tQIzv2b) | [Sammi Smith](https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS) | [Help Me Make It Through The Night](https://open.spotify.com/album/15nCQjdOTqAoyMEjH4r6j1) | 2:32 | 2013-06-27 |  |
 | [How Can You Mend a Broken Heart? \- Remastered Version](https://open.spotify.com/track/4qoKzh91WRDcwHCgQLN3vV) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Best Of Bee Gees, Vol\. 2](https://open.spotify.com/album/2MD51I2qd8w0FoUGg9Msba) | 3:57 | 2013-06-27 |  |
 | [I Don't Know How To Love Him](https://open.spotify.com/track/6DSq5IghuzKhH3AYatSb6h) | [Helen Reddy](https://open.spotify.com/artist/0Sq7oGrYEe0BDmb13wgjOO) | [I Don't Know How To Love Him](https://open.spotify.com/album/3pDoYPmWZOKa2fabrXVpaB) | 3:19 | 2013-06-27 |  |
-| [If You Could Read My Mind](https://open.spotify.com/track/0fjYN9BylnRXMA3or3QSld) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Gord's Gold](https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ) | 0:29 | 2013-06-27 |  |
+| [If You Could Read My Mind](https://open.spotify.com/track/0fjYN9BylnRXMA3or3QSld) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Gord's Gold](https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ) | 3:49 | 2013-06-27 |  |
 | [If You Really Love Me](https://open.spotify.com/track/2jJWc1MIlKdqpcrzmiZ47V) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Motown Legends Love Songs](https://open.spotify.com/album/0cdJa1aPGUpVu0UElq9Wr0) | 2:57 | 2013-06-27 |  |
 | [Indian Reservation \(The Lament Of The Cherokee Reservation Indian\)](https://open.spotify.com/track/55OHlWgzchYzRZ7qWdoYIW) | [Paul Revere & The Raiders](https://open.spotify.com/artist/32HPpJAhgnGPT3V7UOggzi) | [The Legend Of Paul Revere \(feat\. Mark Lindsay\)](https://open.spotify.com/album/5QWmP1uLBMWsQ81Vx5r2vX) | 2:52 | 2013-06-27 |  |
 | [It's Too Late](https://open.spotify.com/track/1oC4vE7vSN259qX8VpQjGU) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Carole King: The Ode Collection](https://open.spotify.com/album/3kbEbYvWSub8LsGZpq6lcp) | 3:53 | 2013-06-27 |  |
@@ -41,7 +41,7 @@
 | [Rainy Days And Mondays \- Single Version](https://open.spotify.com/track/0rL5RSERoMfEIak4DAI51d) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [The Singles 1969 \- 1973](https://open.spotify.com/album/1ZipQdyXZFZx4BlfhDo9zN) | 3:20 | 2013-06-27 |  |
 | [Rose Garden](https://open.spotify.com/track/5mJwUOv7NUUxRRRfd43BWI) | [Lynn Anderson](https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2) | [Rose Garden](https://open.spotify.com/album/3IyZ2Ch39Jw9U98639H6pM) | 2:54 | 2013-06-27 |  |
 | [She's A Lady](https://open.spotify.com/track/0GWKqusjrUtxWZexPvDHhJ) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Gold \(1965 \- 1975\)](https://open.spotify.com/album/0gPa2i2Tb3WAaizBLiW3B5) | 2:52 | 2013-06-27 |  |
-| [Signs](https://open.spotify.com/track/5KWXi2eCYsC6ofIILjvG4V) | [Five Man Electrical Band](https://open.spotify.com/artist/1GjVNyMzPjdBuip6Xanllu) | [Absolutely Right \- The Best Of Five Man Electrical Band](https://open.spotify.com/album/5W6F5tJqFnmmbPV4oJKbbR) | 0:29 | 2013-06-27 |  |
+| [Signs](https://open.spotify.com/track/5KWXi2eCYsC6ofIILjvG4V) | [Five Man Electrical Band](https://open.spotify.com/artist/1GjVNyMzPjdBuip6Xanllu) | [Absolutely Right \- The Best Of Five Man Electrical Band](https://open.spotify.com/album/5W6F5tJqFnmmbPV4oJKbbR) | 4:01 | 2013-06-27 |  |
 | [Smiling Faces Sometimes](https://open.spotify.com/track/49JLml1RaJugNsjUX4VaCn) | [The Undisputed Truth](https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw) | [Dead Presidents Volume II / Music From The Motion Picture](https://open.spotify.com/album/52Us0gT9wf2yGMNlwTATGB) | 3:16 | 2013-06-27 |  |
 | [Spanish Harlem](https://open.spotify.com/track/090Q53dV6xScbIsQmkePke) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Queen of Soul \- The Best of Aretha Franklin](https://open.spotify.com/album/6OxXVtZwExAmdrUIG2afFf) | 3:31 | 2013-06-27 |  |
 | [Stay Awhile](https://open.spotify.com/track/6yj4nR2aM6Oh0bfQiPPKXc) | [The Bells](https://open.spotify.com/artist/66akX7UszLtTZqTTdcFvBL) | [Hard Core Logo II \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/3B6L5PciwjKpMBCtjbI92Z) | 3:22 | 2013-06-27 |  |
@@ -54,7 +54,7 @@
 | [Tired Of Being Alone](https://open.spotify.com/track/6d9rNfRFOQ0XmsUwJ8C5J0) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Greatest Hits](https://open.spotify.com/album/0fgloBlv8EpPqyL4j1W4AO) | 2:43 | 2013-06-27 |  |
 | [Treat Her Like A Lady](https://open.spotify.com/track/75t6tcHkZDFKLKJwjXFMtq) | [Cornelius Brothers & Sister Rose](https://open.spotify.com/artist/2GFB1Lc67mbqFXTPCM9XzT) | [The Story Of Cornelius Brothers & Sister Rose](https://open.spotify.com/album/2DO7omBXXS8eGg1TyJ23iW) | 2:40 | 2013-06-27 |  |
 | [Want Ads](https://open.spotify.com/track/3YpN9pvaTXKSXurj3HBq8M) | [Honey Cone](https://open.spotify.com/artist/0CXNdUUhv5Cw42dr0wWrjd) | [Because I Said So \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/70gDHlCYONYFiaHZj98hLY) | 2:46 | 2013-06-27 |  |
-| [What's Going On \- Single Version / Stereo](https://open.spotify.com/track/29BawlXsDMFKvK9WAYEBEI) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Anthology](https://open.spotify.com/album/4QzwFXkYn1onuH5wr2AcYY) | 0:29 | 2013-06-27 |  |
+| [What's Going On \- Single Version / Stereo](https://open.spotify.com/track/29BawlXsDMFKvK9WAYEBEI) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Anthology](https://open.spotify.com/album/4QzwFXkYn1onuH5wr2AcYY) | 3:58 | 2013-06-27 |  |
 | [Whatcha See Is Whatcha Get](https://open.spotify.com/track/6J7uQ9vLtBqNikEhlKUOnu) | [The Dramatics](https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97) | [Stax Chartbusters, Vol\. 6](https://open.spotify.com/album/3JHCqXHLS46aDpgVmypkib) | 3:32 | 2013-06-27 |  |
 | [Yo\-Yo](https://open.spotify.com/track/4o36OjTixw5gsMvwgbdIzv) | [The Osmonds](https://open.spotify.com/artist/5fU6lODhpw3GEGGJuaDprR) | [20th Century Masters: The Millennium Collection: Best of The Osmonds](https://open.spotify.com/album/6hM44tvEu7vu3saAvOrbR2) | 3:15 | 2013-06-27 |  |
 | [You've Got A Friend](https://open.spotify.com/track/7ccxwuSgkRF2ONdDA9sBZD) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Rhino Hi\-Five: James Taylor](https://open.spotify.com/album/7dv7ZbDs30Q5CkbKjNp5yf) | 4:30 | 2013-06-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: 吳林峰
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,471 likes - 112 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,475 likes - 112 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 91 | [Obe](https://open.spotify.com/track/4OY2hvyx8v5tkKsZAODkX5) | [薛晉寧](https://open.spotify.com/artist/51gtz3TwZi8vKNM74TVYdP) | [Obe](https://open.spotify.com/album/2lba5fmL5XmnwZiZg17uAG) | 1:45 |
 | 92 | [when the lights are out](https://open.spotify.com/track/2hMK2gJTcXQA1I0101FCsz) | [Gwyn](https://open.spotify.com/artist/1vqrJaMnLPeWiRp1oabfxR) | [slow walks to the movies](https://open.spotify.com/album/4C1WlzyM8JttiUJt537bxI) | 3:02 |
 | 93 | [bandaid](https://open.spotify.com/track/0lIAm02QM3kruSx08BaJOc) | [Isaac Chan](https://open.spotify.com/artist/6M3ZAQrnGowesc5rG8WlNV), [Jessica Oh](https://open.spotify.com/artist/1545Lqks1a2K8J41pueQCb) | [bandaid](https://open.spotify.com/album/5t1JNivEUa8zdGbi8qd8Yz) | 2:51 |
-| 94 | [lately](https://open.spotify.com/track/0xEpNvwICCpdZU6i2h0GUr) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [lately](https://open.spotify.com/album/69k19hsB1YmW23a7Z5fHqf) | 0:29 |
+| 94 | [lately](https://open.spotify.com/track/0xEpNvwICCpdZU6i2h0GUr) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [lately](https://open.spotify.com/album/69k19hsB1YmW23a7Z5fHqf) | 2:50 |
 | 95 | [Milk Tea](https://open.spotify.com/track/1253emKVUpxXPWB7Cltapk) | [嚴駿祺](https://open.spotify.com/artist/38m0kCZDDi22UDW0MgRhbx) | [Milk Tea](https://open.spotify.com/album/2yeerOJhWhJzEBCYXwECJC) | 4:06 |
 | 96 | [Hush](https://open.spotify.com/track/3ciHwbZp1ijnmzyKgksfqX) | [Peace Lo](https://open.spotify.com/artist/0NiSYetyXtCKWhDZXfqydC) | [Hush](https://open.spotify.com/album/1V1Xqe6dKCPxq1KBOf5P1D) | 3:34 |
 | 97 | [小鹿亂撞\(feat\. Teriver Cheung\)](https://open.spotify.com/track/2t5nL7RagGw1jJGy0Bve76) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [Teriver Cheung](https://open.spotify.com/artist/4vPd1Ln6Xn65TCTvhT6ARy) | [小鹿亂撞\(feat\. Teriver Cheung\)](https://open.spotify.com/album/65MVSKnupszlQDM48dTzqr) | 4:06 |

@@ -4,7 +4,7 @@
 
 > Get into the rhythm of SXSW '17 with this collection of tracks from artists set to perform this year\. Cover: <a href="spotify:artist:4TsHKU8l8Wq7n7OPVikirn">Jidenna</a>.
 
-23 songs - 1 hr 17 min - [published](https://open.spotify.com/playlist/5rW6Jls37bSKk3xmMYdx8M)
+23 songs - 1 hr 22 min - [published](https://open.spotify.com/playlist/5rW6Jls37bSKk3xmMYdx8M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Frustrated](https://open.spotify.com/track/1N5j9dRZ3foNWwU4Zp0pbq) | [R.LUM.R](https://open.spotify.com/artist/7JBZN2pehWRUu3fX11lP2y) | [Frustrated](https://open.spotify.com/album/22I1D0zjOvt3oz5xmot6Ab) | 3:21 | 2017-02-27 |  |
 | [Good As Hell](https://open.spotify.com/track/6uAm7pG66O1XesXS9bpHSF) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Good As Hell](https://open.spotify.com/album/5PMpdvn38HScK6IuLniRep) | 2:39 | 2017-02-27 |  |
 | [Got Me Loose](https://open.spotify.com/track/4xsjRZgz4eKl4MdAZ8afjJ) | [Reesa Renee](https://open.spotify.com/artist/1sP9nzoMXxaI0LiU1uWoLL) | [Got Me Loose](https://open.spotify.com/album/0u5pSvtfkTrcAwf11TxxFW) | 3:57 | 2017-02-27 |  |
-| [Hello](https://open.spotify.com/track/44s8AnWjkj68J5N9JKX8Zw) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [But You Caint Use My Phone \(Mixtape\)](https://open.spotify.com/album/4f2Gxvy2gb2VXTIWemUEqL) | 0:29 | 2017-02-27 |  |
+| [Hello](https://open.spotify.com/track/44s8AnWjkj68J5N9JKX8Zw) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [But You Caint Use My Phone \(Mixtape\)](https://open.spotify.com/album/4f2Gxvy2gb2VXTIWemUEqL) | 5:19 | 2017-02-27 |  |
 | [I Don't Wanna Leave](https://open.spotify.com/track/6f02BtyPQvYflisHQPlCTz) | [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw), [Tdot illdude](https://open.spotify.com/artist/4gcBXAL1iwHPIrf1LdVsKg) | [Morning Comes Too Fast](https://open.spotify.com/album/5SMNVBBlhEKuzwe78byNnl) | 3:13 | 2017-02-27 |  |
 | [I Really Don't Care](https://open.spotify.com/track/1KHdXgBdPvihVRLO1EM25z) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [In Another Life](https://open.spotify.com/album/6InQseLVCMxyyoC7a6Y1mq) | 2:59 | 2017-02-27 |  |
 | [I'm Leaving You \(feat\. Ledisi & John Scofield\)](https://open.spotify.com/track/4m6UKPkoGeSAuA2jRvo9hk) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Everything's Beautiful](https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh) | 3:13 | 2017-02-27 |  |

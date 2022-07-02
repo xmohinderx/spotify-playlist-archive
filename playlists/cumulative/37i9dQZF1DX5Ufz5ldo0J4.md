@@ -4,7 +4,7 @@
 
 > Lean back, close your eyes, and relax.
 
-248 songs - 11 hr 28 min - [published](https://open.spotify.com/playlist/6R3n3sy2PZgo8hDFzJepwy)
+248 songs - 11 hr 39 min - [published](https://open.spotify.com/playlist/6R3n3sy2PZgo8hDFzJepwy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,9 +57,9 @@
 | [Dolce](https://open.spotify.com/track/0PbMPORCi8wc3jlw1kipOm) | [Niccolò Pagliani](https://open.spotify.com/artist/59yX2grILnPdqDdLnYhKJE) | [Dolce](https://open.spotify.com/album/0ygFEGKH9Rn6GeeThGKVOc) | 1:46 | 2021-12-10 |  |
 | [Dolores](https://open.spotify.com/track/1P9g7RhZ5Qf89iiHlWYQPx) | [Lo Kee](https://open.spotify.com/artist/08uLNgUnd5EHzB8BfTJYUF) | [Dolores](https://open.spotify.com/album/5NxcPLEVWtUSsCMW4pQgXd) | 2:35 | 2021-12-10 |  |
 | [Dream Voucher](https://open.spotify.com/track/2T6wyxLBkQ4Y2ZjTbpuYfr) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Dream Voucher](https://open.spotify.com/album/2okoZfiEKs54ajikpoc9WZ) | 2:35 | 2021-12-10 |  |
-| [Dreaming](https://open.spotify.com/track/2ehZXVH7qTOFxxDZymEffu) | [Sarah Neumann](https://open.spotify.com/artist/5alCiHBSrsl9QwRvp2ASy1) | [Dreaming](https://open.spotify.com/album/1izkq2wwDzUJJ2FpN3Bqza) | 0:29 | 2021-12-10 |  |
+| [Dreaming](https://open.spotify.com/track/2ehZXVH7qTOFxxDZymEffu) | [Sarah Neumann](https://open.spotify.com/artist/5alCiHBSrsl9QwRvp2ASy1) | [Dreaming](https://open.spotify.com/album/1izkq2wwDzUJJ2FpN3Bqza) | 2:50 | 2021-12-10 |  |
 | [Dreaming](https://open.spotify.com/track/1apyGj27ZxI2QTEnq9hGNx) | [Vinnie Gianni](https://open.spotify.com/artist/6sLmYoTs56uTqmDs3V9c7h) | [Dreaming](https://open.spotify.com/album/6I8TngvQAo6X5XSkYmKpCf) | 2:19 | 2021-12-10 |  |
-| [Dreamland](https://open.spotify.com/track/1Z6HL87hCbjrmlhunxj0mK) | [Lucy Vincent](https://open.spotify.com/artist/3aZqkX0ePw0fBoERFYCD6Z) | [Dreamland](https://open.spotify.com/album/2tlJFcJHHKml5irtNTugCR) | 0:29 | 2021-12-10 |  |
+| [Dreamland](https://open.spotify.com/track/1Z6HL87hCbjrmlhunxj0mK) | [Lucy Vincent](https://open.spotify.com/artist/3aZqkX0ePw0fBoERFYCD6Z) | [Dreamland](https://open.spotify.com/album/2tlJFcJHHKml5irtNTugCR) | 3:27 | 2021-12-10 |  |
 | [Dreams](https://open.spotify.com/track/0e5hI6tWwk5ntTtGa0OYNG) | [Light & Sound](https://open.spotify.com/artist/2PUPgKWq4JNwSVQE41PXrT) | [Dreams](https://open.spotify.com/album/75Zm6EmgaCMhiCmDfHpcxe) | 3:16 | 2021-12-10 |  |
 | [Dvala](https://open.spotify.com/track/3MOqT1Ka4jEf9PKSafbDiT) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Dvala](https://open.spotify.com/album/0cE9nCfxJWkXE9MbB8jAuZ) | 2:57 | 2021-12-10 |  |
 | [Echo Valley](https://open.spotify.com/track/4jx3Qj8UTIze5LxJ0WI9x0) | [Xavier H Summers](https://open.spotify.com/artist/18ql1O0CcgLfH59H18jrOc) | [Echo Valley](https://open.spotify.com/album/5AhOkc8DDvQLlLJw45AY0K) | 2:27 | 2021-12-10 |  |
@@ -132,7 +132,7 @@
 | [Moment of Peace](https://open.spotify.com/track/3IvRypHZvFCKf6y7H4VLSX) | [Mediteight Dimensional](https://open.spotify.com/artist/2OeyY5gT2fNl8dQpBVpolj) | [Moment of Peace](https://open.spotify.com/album/5Wv1t9GPKKJUbVu7bzckgo) | 3:49 | 2021-12-10 |  |
 | [Moon Stage](https://open.spotify.com/track/2t4CN8rtDkodRYxYYhAAvL) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Moon Stage](https://open.spotify.com/album/42JKz2NOIzax2Erclm0Mmu) | 3:16 | 2022-05-26 |  |
 | [Morning Haze](https://open.spotify.com/track/6C6joxj0BbyQUJWBpNv4Fc) | [Blissful Heaven](https://open.spotify.com/artist/4QEyQYiRdLu1c6wzHyp0ds) | [Morning Haze](https://open.spotify.com/album/2fbMcdbcUhU4utgAlqrjgD) | 3:10 | 2021-12-10 |  |
-| [Nattljus](https://open.spotify.com/track/2QrJ8fjauMnKHUkdnghNzB) | [Pontus Josefsson](https://open.spotify.com/artist/1mxPkXiVRRYjy4GHEZQ6Ap) | [Nattljus](https://open.spotify.com/album/0Y1TTUkWznsaNE1GYQc0CX) | 2:34 | 2021-12-10 |  |
+| [Nattljus](https://open.spotify.com/track/2QrJ8fjauMnKHUkdnghNzB) | [Pontus Josefsson](https://open.spotify.com/artist/1mxPkXiVRRYjy4GHEZQ6Ap) | [Nattljus](https://open.spotify.com/album/0Y1TTUkWznsaNE1GYQc0CX) | 0:29 | 2021-12-10 |  |
 | [Nature Calling](https://open.spotify.com/track/1U5nro2p0IGtHE6kZqt8WG) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Nature Calling](https://open.spotify.com/album/1IHAC5mZAYnmqlKkfEoH4L) | 1:54 | 2021-12-10 |  |
 | [Near Dawn](https://open.spotify.com/track/2j8g4uNaY4vIyDlKz5qVOj) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Near Dawn](https://open.spotify.com/album/1kwA8Ztf4Na8mlGciyedSS) | 2:47 | 2021-12-10 |  |
 | [Nefelibata](https://open.spotify.com/track/07MRGolhqppoqEWDV5aZhJ) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Nefelibata](https://open.spotify.com/album/5jBINfpl1J0tRvunNAxkOn) | 3:00 | 2021-12-10 |  |
@@ -164,7 +164,7 @@
 | [Phases](https://open.spotify.com/track/7l2VE8ahJR2uN95OnDrwxV) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Phases](https://open.spotify.com/album/7sJJum4P8SaEmJI6Ud1rpk) | 2:34 | 2021-12-10 |  |
 | [Phosphenes](https://open.spotify.com/track/7zCXE5rdGmk2YzsSWuhO8I) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Phosphenes](https://open.spotify.com/album/5gjWfsOxuWUuxt63LiuuAh) | 3:00 | 2021-12-10 |  |
 | [Piamino](https://open.spotify.com/track/58LhrS1LxrBMe0oEOIQQVi) | [Klaus Steiner](https://open.spotify.com/artist/0QqxPV8XBzOlkgKWoXAhbt) | [Ma Belle](https://open.spotify.com/album/6HYlPk0YVry6TQKA1pnp5n) | 2:50 | 2021-12-10 |  |
-| [Point of No Return](https://open.spotify.com/track/33h42Lr9t0sgZ4JxYRLu5M) | [Ishitani](https://open.spotify.com/artist/7l5MAuQW3tchqPDTn4vo0i) | [Point of No Return](https://open.spotify.com/album/6YQWk5y3yjYByJ1MQRnDsX) | 0:29 | 2021-12-10 |  |
+| [Point of No Return](https://open.spotify.com/track/33h42Lr9t0sgZ4JxYRLu5M) | [Ishitani](https://open.spotify.com/artist/7l5MAuQW3tchqPDTn4vo0i) | [Point of No Return](https://open.spotify.com/album/6YQWk5y3yjYByJ1MQRnDsX) | 3:58 | 2021-12-10 |  |
 | [Postojna Cave](https://open.spotify.com/track/2wmDt99ctDHWmv90eCUmha) | [Goran Sveic](https://open.spotify.com/artist/6IKG997m7bF9OUAGkkdFtL) | [Postojna Cave](https://open.spotify.com/album/4yBH7PEvcVyTzbfBL0Gkr7) | 2:02 | 2021-12-10 |  |
 | [Pour que tu m’aimes encore](https://open.spotify.com/track/4C9ysvTrYnfCjZ8x8HJWp8) | [Joséphine Auclair](https://open.spotify.com/artist/0apUwW6GnlGwDJLyV35jUy) | [Pour que tu m’aimes encore](https://open.spotify.com/album/5Xbze3vkFASbO4tX2rHNuU) | 2:35 | 2021-12-10 |  |
 | [Psalm \#1](https://open.spotify.com/track/2M3TYW4G60raCQnznf0e1o) | [René Sturgess](https://open.spotify.com/artist/5gEyAqENfIITIqk0dUaPUm) | [Psalm \#1](https://open.spotify.com/album/5Pa5qVrKMenKj5XTGkr1JL) | 1:49 | 2021-12-10 |  |
@@ -207,12 +207,12 @@
 | [Stated Intent](https://open.spotify.com/track/21RmYoBNHh9RwEE2n19lrf) | [Lucinda Friese](https://open.spotify.com/artist/6YhUWOVu9JXCbtpvkeYGDT) | [Stated Intent](https://open.spotify.com/album/09gL5fyZzCWtt6ss56XxV5) | 2:33 | 2021-12-10 |  |
 | [Steady](https://open.spotify.com/track/089DXbcfLgJEJyuOyQWEdN) | [Alina Linnéa](https://open.spotify.com/artist/2eWNqV0E7nkCq8MndbcmAU) | [Look Ahead](https://open.spotify.com/album/650nklWLMUwYLTG9AVsH34) | 2:52 | 2021-12-10 |  |
 | [Sueño \(nos vemos mañana\)](https://open.spotify.com/track/6ageUeraq8yY687IBlpeEF) | [Artura Ponce Valles](https://open.spotify.com/artist/1V3rUG8q0KGU4wPVS0LIq1) | [Sueño \(nos vemos mañana\)](https://open.spotify.com/album/1cv6KC1L2brsbH63ImADBK) | 3:11 | 2021-12-10 |  |
-| [Sugar Dreams](https://open.spotify.com/track/1PU9FtEOCCDjigFFl5SliB) | [Alba's Pillows](https://open.spotify.com/artist/76zuGudqum0CSwVHgoAEDY) | [Sugar Dreams](https://open.spotify.com/album/71WNIvjWCIIY7HlXSHu1KN) | 0:29 | 2021-12-10 |  |
+| [Sugar Dreams](https://open.spotify.com/track/1PU9FtEOCCDjigFFl5SliB) | [Alba's Pillows](https://open.spotify.com/artist/76zuGudqum0CSwVHgoAEDY) | [Sugar Dreams](https://open.spotify.com/album/71WNIvjWCIIY7HlXSHu1KN) | 3:31 | 2021-12-10 |  |
 | [Sumire](https://open.spotify.com/track/7j5U7NtYQbqbgTuEmznPnh) | [Josephe Cressac](https://open.spotify.com/artist/2sEVgwrqZxHDJIfV62TXbW) | [Sumire](https://open.spotify.com/album/2QgVDh8p6bSVBjGyBE6cKh) | 2:48 | 2021-12-10 |  |
 | [Summer Memories](https://open.spotify.com/track/2Jr8bmTiSIKWvn3OpTyN9s) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Summer Memories](https://open.spotify.com/album/1qf7trVq03K5jA7hCiy1Vi) | 2:47 | 2021-12-10 |  |
 | [supine](https://open.spotify.com/track/7IMGJM5S0YYcQhvtdeJH14) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [hopes](https://open.spotify.com/album/2XdFgoXMYe0EXNtvJv3VA8) | 3:28 | 2021-12-10 |  |
 | [Surging Shapes](https://open.spotify.com/track/1CAk7eIlboHJ3FfmGeSzlV) | [Lea Ardella](https://open.spotify.com/artist/0I5BqWqbu0DEpAgepIodnm) | [Surging Shapes](https://open.spotify.com/album/28GVLis8M4eYoMCxbXTgis) | 2:54 | 2021-12-10 |  |
-| [Svanninge Bakker](https://open.spotify.com/track/0rC5Pg1C2ig0OxyaM3Gro3) | [Alida Sørby](https://open.spotify.com/artist/47AYObaLEm9QiTcfz3u7M9) | [Svanninge Bakker](https://open.spotify.com/album/4fuBNKsqvOsvVZRe0rd0XX) | 0:29 | 2021-12-10 |  |
+| [Svanninge Bakker](https://open.spotify.com/track/0rC5Pg1C2ig0OxyaM3Gro3) | [Alida Sørby](https://open.spotify.com/artist/47AYObaLEm9QiTcfz3u7M9) | [Svanninge Bakker](https://open.spotify.com/album/4fuBNKsqvOsvVZRe0rd0XX) | 1:57 | 2021-12-10 |  |
 | [Sweet Dreams](https://open.spotify.com/track/6V8THVzHBSqnQG1fud3FjS) | [Nakatami](https://open.spotify.com/artist/169r1sNrXrpaXiTHkmKgWE) | [Sweet Dreams](https://open.spotify.com/album/1advw5ZtYzo7dO74Ny3bIU) | 3:00 | 2021-12-10 |  |
 | [That day](https://open.spotify.com/track/6pvG7rCh9GQQTWUCkPVjDB) | [Leroy Bolander](https://open.spotify.com/artist/667m0gdFzATbXE189xJwOl) | [That day](https://open.spotify.com/album/5ygk6D7doJkoxOJs9uNLJp) | 1:58 | 2021-12-10 |  |
 | [The Departure](https://open.spotify.com/track/39SpltUyLzdXOFGAfGq94n) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [In This Moment](https://open.spotify.com/album/2befcUn0DLzERrsU0OgU68) | 2:42 | 2021-12-10 |  |

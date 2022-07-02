@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Shreez",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Rowjay",
   "name": "Rap qu\u00e9b",
   "published_playlist_ids": [
     "4D4AEhD54qWlJrQjbPhrFK"
@@ -363,7 +363,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 175000,
       "name": "Authentique",
       "url": "https://open.spotify.com/track/1w2OMNBVtRDQ86hFcrfHy4"
@@ -727,6 +727,24 @@
       "duration_ms": 220285,
       "name": "Burbur",
       "url": "https://open.spotify.com/track/5enoxGPrGxhYR0hQPbYb6U"
+    },
+    {
+      "album": {
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/7jn4kEZDYWLmpHKy1IFF2A"
+      },
+      "artists": [
+        {
+          "name": "Bouldat",
+          "url": "https://open.spotify.com/artist/6OJIqTSNa43LsvZmIURNAb"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172137,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/3ym3QmdWVeugFq99ml1lt5"
     },
     {
       "album": {
@@ -1393,7 +1411,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 180000,
       "name": "Drop Top",
       "url": "https://open.spotify.com/track/0HaNQlN2fYf5Q8izAuXd3c"
@@ -1834,6 +1852,28 @@
     },
     {
       "album": {
+        "name": "G\u00e9nie",
+        "url": "https://open.spotify.com/album/5nJbetDfb7n5oHvOz6JAX9"
+      },
+      "artists": [
+        {
+          "name": "Mahdi Ba",
+          "url": "https://open.spotify.com/artist/4bjdItQFpfNUmAWpY2ao7M"
+        },
+        {
+          "name": "Youv Dee",
+          "url": "https://open.spotify.com/artist/5P3mgWx3KvnURMhlVm5pMS"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107076,
+      "name": "G\u00e9nie",
+      "url": "https://open.spotify.com/track/6d47cASiELHow0wPMkDZbw"
+    },
+    {
+      "album": {
         "name": "Nikamo",
         "url": "https://open.spotify.com/album/0fX3Mn5XHkCnQwNxhe6I8w"
       },
@@ -2129,6 +2169,24 @@
       "duration_ms": 230457,
       "name": "J'ai pas l'time",
       "url": "https://open.spotify.com/track/7oXiWuQPvywjQgKwoVrDY4"
+    },
+    {
+      "album": {
+        "name": "J'suis Une Star",
+        "url": "https://open.spotify.com/album/4DSmfUB6ivQRGdtv9HbmGo"
+      },
+      "artists": [
+        {
+          "name": "White Migz",
+          "url": "https://open.spotify.com/artist/2HLKLDXuuQlYM5YxZ21rN8"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174167,
+      "name": "J'suis Une Star",
+      "url": "https://open.spotify.com/track/7G2jhgy1zW8p83pl3quwAm"
     },
     {
       "album": {
@@ -2609,7 +2667,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 228579,
       "name": "Misunderstood",
       "url": "https://open.spotify.com/track/6uqdKP6QZIlAaVqyZP6krW"
@@ -3195,7 +3253,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 156000,
       "name": "Pyrogue",
       "url": "https://open.spotify.com/track/7eTHUYu1P5c6AmBmSHuBI5"
@@ -3601,10 +3659,32 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 133466,
       "name": "Rouge Cardinal",
       "url": "https://open.spotify.com/track/0xX5ijuhkRhqDV7l6uafgL"
+    },
+    {
+      "album": {
+        "name": "Rowzin",
+        "url": "https://open.spotify.com/album/15oSQFCbYUQ2Jgo9slqOOf"
+      },
+      "artists": [
+        {
+          "name": "Rowjay",
+          "url": "https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc"
+        },
+        {
+          "name": "Jwles",
+          "url": "https://open.spotify.com/artist/4vbxtxqdkeHt1dICi63qs8"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152582,
+      "name": "Rowzin",
+      "url": "https://open.spotify.com/track/0YhTHQ37vdhsNbienW9YTB"
     },
     {
       "album": {
@@ -4143,6 +4223,24 @@
       "duration_ms": 134068,
       "name": "V12",
       "url": "https://open.spotify.com/track/634JCPeIeQqZk33b87A7Wf"
+    },
+    {
+      "album": {
+        "name": "Vertige",
+        "url": "https://open.spotify.com/album/2yoSmS2boP6CbLhUlZPciN"
+      },
+      "artists": [
+        {
+          "name": "Tronel",
+          "url": "https://open.spotify.com/artist/6n7VICMu1PgML7oEbDLmWu"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225007,
+      "name": "Vertige",
+      "url": "https://open.spotify.com/track/1ImplX8y9L2iv53JX2NkCy"
     },
     {
       "album": {

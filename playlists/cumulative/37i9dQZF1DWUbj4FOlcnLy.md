@@ -4,7 +4,7 @@
 
 > Disfruta esta selección musical, de la mano de Las Pelotas.
 
-50 songs - 3 hr 22 min - not published yet
+50 songs - 3 hr 31 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,9 +54,9 @@
 | [Thank You \- 1990 Remaster](https://open.spotify.com/track/4ZkhFcoS3apzze9w2yI9NO) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 4:49 | 2020-01-17 |  |
 | [The Real Me](https://open.spotify.com/track/0bNdtECaLZcHA4B9QPjeUk) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia](https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a) | 3:20 | 2020-01-17 |  |
 | [The Story Of An Artist](https://open.spotify.com/track/73cER0SBGggJuZ9wfnfZmp) | [Daniel Johnston](https://open.spotify.com/artist/1jeYbk5eqo6wgsQPjLeU5w) | [Don't Be Scared](https://open.spotify.com/album/2PXZM8IASLuLDCp5JqBq5G) | 5:10 | 2020-01-17 |  |
-| [Un Día Punk](https://open.spotify.com/track/2Lk7Ib4YynkYwevr8L0Anw) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Forfun](https://open.spotify.com/album/6NIqpybaq4hFvrsHEnmxCM) | 0:29 | 2020-01-17 |  |
+| [Un Día Punk](https://open.spotify.com/track/2Lk7Ib4YynkYwevr8L0Anw) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Forfun](https://open.spotify.com/album/6NIqpybaq4hFvrsHEnmxCM) | 4:12 | 2020-01-17 |  |
 | [Victoria](https://open.spotify.com/track/7IZhGuH9p2w3Bwpgajolkf) | [The Fall](https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6) | [The Frenz Experiment](https://open.spotify.com/album/3rirpZpS2CYSIxb37cRsMo) | 2:45 | 2020-01-17 |  |
-| [Weird Fishes/ Arpeggi](https://open.spotify.com/track/4Iyo50UoYhuuYORMLrGDci) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f) | 0:29 | 2020-01-17 |  |
+| [Weird Fishes/ Arpeggi](https://open.spotify.com/track/4Iyo50UoYhuuYORMLrGDci) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f) | 5:18 | 2020-01-17 |  |
 | [Won't Get Fooled Again \- Original Album Version](https://open.spotify.com/track/0cJPLFrlV7TTCyPLupHzcH) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 8:31 | 2020-01-17 |  |
 
 \*This playlist was first scraped on 2022-06-30. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > The best of Detroit Blues
 
-40 songs - 2 hr 46 min - [published](https://open.spotify.com/playlist/0vDnBzMRT6DKANzb3EBCnw)
+40 songs - 2 hr 49 min - [published](https://open.spotify.com/playlist/0vDnBzMRT6DKANzb3EBCnw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [I Need A Hundred Dollars](https://open.spotify.com/track/1esDf8HdU03qBhNijFD7R5) | [One String Sam](https://open.spotify.com/artist/1DuUpYJDpdP2kSToyejstV) | [Rural Blues Vol\. 1 1934\-1956](https://open.spotify.com/album/6NYnUkUwSl4Hi5XIq6ZrVR) | 3:01 | 2020-10-13 |  |
 | [I'd Rather Be Alone](https://open.spotify.com/track/0fBqfLS5c14e39BVrs7kIR) | [Thornetta Davis](https://open.spotify.com/artist/02HWgoL7gYSPcVlNjrJWRb) | [Honest Woman](https://open.spotify.com/album/4s0TMynFd7n5A6yd6QH789) | 6:09 | 2020-10-13 |  |
 | [Industrial Boogie](https://open.spotify.com/track/58O4WeWqboLX7tZM7yRya9) | [Doctor Ross](https://open.spotify.com/artist/59gZhkxiZ8x4umU9ua2ZBn) | [Rockin' Blues Essentials](https://open.spotify.com/album/5TIc8idRzn4AQ2ivvIHYB0) | 2:37 | 2020-10-13 |  |
-| [It's Hard Going Up \(But Twice As Hard Coming Down\)](https://open.spotify.com/track/6DnKM8x0Ai0AyV7M2MOtwN) | [Little Sonny](https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX) | [Hard Goin' Up](https://open.spotify.com/album/6aLaVUMRalvPJ6bk1jj9Jo) | 0:29 | 2020-10-13 |  |
+| [It's Hard Going Up \(But Twice As Hard Coming Down\)](https://open.spotify.com/track/6DnKM8x0Ai0AyV7M2MOtwN) | [Little Sonny](https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX) | [Hard Goin' Up](https://open.spotify.com/album/6aLaVUMRalvPJ6bk1jj9Jo) | 3:54 | 2020-10-13 |  |
 | [Lonesome Feeling](https://open.spotify.com/track/0byftPfdqBARAkZR33O3aK) | [Eddie Burns](https://open.spotify.com/artist/02xaLTHeUgXhM3THo3y7BO) | [Lonesome Feeling \(NL 1986\) \[Blues Reference\]](https://open.spotify.com/album/6gVNy0qKhpg4S4oa2283qU) | 4:47 | 2020-10-13 |  |
 | [Love Lessons](https://open.spotify.com/track/0Rbr1ioyoFajCsxaOHVgk4) | [Johnnie Bassett](https://open.spotify.com/artist/2ZlNZiymCW3X6GE1PzXbND) | [I Can Make That Happen](https://open.spotify.com/album/3cT1ofNKCnlBI4Qv6sTY4m) | 3:36 | 2020-10-13 |  |
 | [Love Money Can't Buy](https://open.spotify.com/track/0ePxqRzmI90yaxH9af9sA2) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Gotta Boogie \- The Modern Recordings 1948\-55](https://open.spotify.com/album/0cVyOf0zKFIDMW5NziJ8Gf) | 2:40 | 2020-10-13 |  |

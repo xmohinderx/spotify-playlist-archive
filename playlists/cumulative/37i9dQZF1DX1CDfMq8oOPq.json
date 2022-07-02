@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Meu Santo \u00c9 Forte",
+        "url": "https://open.spotify.com/album/5Wl3slNLngCEEmoziB0GzP"
+      },
+      "artists": [
+        {
+          "name": "Mc Tha",
+          "url": "https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192128,
+      "name": "Afreket\u00ea",
+      "url": "https://open.spotify.com/track/6KG9pXyveLUvV1ff5iuAAe"
+    },
+    {
+      "album": {
         "name": "Aquecimento",
         "url": "https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw"
       },
@@ -834,7 +856,7 @@
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 254711,
       "name": "Molinha",
       "url": "https://open.spotify.com/track/4l9eU058jn4MM9EEBA4hIo"
     },
@@ -1224,7 +1246,7 @@
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 166014,
       "name": "Se Envolver",
       "url": "https://open.spotify.com/track/5Mu7uE5PxXJsGLOpjMUjYJ"
     },
@@ -1245,7 +1267,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 178321,
       "name": "Segredo",
       "url": "https://open.spotify.com/track/1vQXkWFnyhotk8WhS7gRxA"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 
 > SHERELLE's favorite tracks\. Updated regularly\. Curated by SHERELLE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,168 likes - 60 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,186 likes - 60 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 | 19 | [Real Enough To Feel Good](https://open.spotify.com/track/5lVPbg9XJzLHsjoYcrnEXf) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [Real Enough To Feel Good](https://open.spotify.com/album/6dqJnQp0qoNsklAphZyTYQ) | 5:06 |
 | 20 | [Pink22 VIP \- DJ Phil Remix](https://open.spotify.com/track/4Kuygv66NlizDm0VO5VXoe) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj), [DJ Phil](https://open.spotify.com/artist/4L2n1xvdqgPgQjYxLHUAbG) | [Take It All / Pink 22 \(Remixes\)](https://open.spotify.com/album/7GdZiovVW91EemZGfp2Duo) | 2:39 |
 | 21 | [Right Dere](https://open.spotify.com/track/0HQxbCn4OjDbr5o4P0jhlK) | [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [Bass + Funk & Soul](https://open.spotify.com/album/45ppFjeJY6UXzmLdlbdj7Z) | 3:13 |
-| 22 | [Wicked We Wicked](https://open.spotify.com/track/0sO4zmZcVjN7SrOCBqVZkE) | [NameBrandSound](https://open.spotify.com/artist/65kgJ8N0DY3S5XcMAtOSmD) | [Spell T.H.I.S.O.N.E](https://open.spotify.com/album/4PyY2Zv3MVGPULIgMfN3XN) | 0:29 |
+| 22 | [Wicked We Wicked](https://open.spotify.com/track/0sO4zmZcVjN7SrOCBqVZkE) | [NameBrandSound](https://open.spotify.com/artist/65kgJ8N0DY3S5XcMAtOSmD) | [Spell T.H.I.S.O.N.E](https://open.spotify.com/album/4PyY2Zv3MVGPULIgMfN3XN) | 3:53 |
 | 23 | [Grace](https://open.spotify.com/track/04fMUmnmn07aTq5pajtjIN) | [Anna Morgan](https://open.spotify.com/artist/30X6dIzlcixPlRNNYesrA4) | [Grace](https://open.spotify.com/album/6TL5TqiDI7ridICZYWr6LA) | 3:15 |
 | 24 | [UNISIL](https://open.spotify.com/track/0oRzcIZcW4oB2K2XfB2Uky) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [UNISIL](https://open.spotify.com/album/7lQaDQVfZphQDGCi8Vu1Y0) | 2:06 |
 | 25 | [22:22](https://open.spotify.com/track/0q9hYb3uhZfC5c0NC2hGqq) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [22:22](https://open.spotify.com/album/2M8yyYRNPiFO5D3bsxmsCa) | 1:40 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUpLoMa4BXi9.md) - [plain]
 
 > Listen to narrated stories from your family's favorite Disney movies like The Lion King, Toy Story, and The Little Mermaid.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,437 likes - 30 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,468 likes - 30 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUpLoMa4BXi9.md) - [plain]
 | 13 | [The Little Mermaid](https://open.spotify.com/track/175Hp7R2vZCPJSB0PcYuqp) | [Roy Dotrice](https://open.spotify.com/artist/5DB0TjFJRAPRUdfIVWYJXm) | [Songs and Story: The Little Mermaid](https://open.spotify.com/album/487TgoOliAew4DIQTr7Ak8) | 14:10 |
 | 14 | [Tangled](https://open.spotify.com/track/16IKUZbb64LoX2sOrdxFeb) | [Cindy Robinson](https://open.spotify.com/artist/7Cky42ttadk7opBWW0yi38) | [Songs and Story: Tangled](https://open.spotify.com/album/1E8pqXmmxlhn8soDCXabfF) | 20:21 |
 | 15 | [Up](https://open.spotify.com/track/4qaG0e6gWNuuxGBnNuyzuW) | [Kirk Thornton](https://open.spotify.com/artist/15unNxeCj0UZ7g3RM1bdt1), [Bob Peterson](https://open.spotify.com/artist/2YgtFNJmLJ0DzhaTWRiO5O) | [Songs and Story: Up](https://open.spotify.com/album/4DntPIfqiquBzgbmFee7u2) | 16:34 |
-| 16 | [Pocahontas](https://open.spotify.com/track/5OOJEvD0XGaLo02p4bswY6) | [Roy Dotrice](https://open.spotify.com/artist/5DB0TjFJRAPRUdfIVWYJXm) | [Songs and Story: Pocahontas](https://open.spotify.com/album/6uCMCobTioiSEnMgUle7uj) | 0:29 |
+| 16 | [Pocahontas](https://open.spotify.com/track/5OOJEvD0XGaLo02p4bswY6) | [Roy Dotrice](https://open.spotify.com/artist/5DB0TjFJRAPRUdfIVWYJXm) | [Songs and Story: Pocahontas](https://open.spotify.com/album/6uCMCobTioiSEnMgUle7uj) | 15:47 |
 | 17 | [Toy Story 2](https://open.spotify.com/track/5oY2u1iRFNoFy0ScuxoFjX) | [Steven Weber](https://open.spotify.com/artist/5q29Mh9QFJpcnPSZXMwjQ6) | [Songs and Story: Toy Story 2](https://open.spotify.com/album/6uRo9YVZYotOAT7YiAn21c) | 16:07 |
 | 18 | [Wreck\-It Ralph](https://open.spotify.com/track/3FEx5KiBaGmrJq0u094qjo) | [Nolan North](https://open.spotify.com/artist/6BKh5PiiIVM7K2aTtS60cU) | [Songs and Story: Wreck\-It Ralph](https://open.spotify.com/album/6IAqezhgjV6UskVCCcwK10) | 9:35 |
 | 19 | [Sleeping Beauty](https://open.spotify.com/track/5igPvKQ6hLqSVLGibysbSw) | [Cindy Robinson](https://open.spotify.com/artist/7Cky42ttadk7opBWW0yi38) | [Songs and Story: Sleeping Beauty](https://open.spotify.com/album/0g9VcAua5r6AIaQs2BINWu) | 19:03 |

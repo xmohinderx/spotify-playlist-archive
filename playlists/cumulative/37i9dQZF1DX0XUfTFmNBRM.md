@@ -4,7 +4,7 @@
 
 > Hottest Hindi music served here\. Cover\- Bhool Bhulaiyaa 2
 
-186 songs - 12 hr 59 min - [published](https://open.spotify.com/playlist/62e26QUbeJ31xjxLbj35D3)
+186 songs - 13 hr 2 min - [published](https://open.spotify.com/playlist/62e26QUbeJ31xjxLbj35D3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Afsos](https://open.spotify.com/track/5O2TLsYT9WwPZ3Gy4plGz3) | [Badal](https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp) | [Afsos](https://open.spotify.com/album/4ypbnAlf7ZUhZeThC1Z9Ll) | 2:43 | 2021-04-06 | 2021-04-12 |
 | [Aila Re Aillaa \(From "Sooryavanshi"\)](https://open.spotify.com/track/6Aq6LN9pt3TxjkfAJmet5A) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Daler Mehndi](https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx) | [Aila Re Aillaa \(From "Sooryavanshi"\)](https://open.spotify.com/album/4eh49RMjtblXH3IKE98rps) | 2:36 | 2021-10-24 | 2022-01-04 |
 | [Asal Mein](https://open.spotify.com/track/1StFDfq4raRws97W8Wb3QS) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Asal Mein \- Single](https://open.spotify.com/album/3yFJOvXHvK0pgCllEWAyPV) | 3:44 | 2021-01-25\* | 2021-07-08 |
-| [Atak Gaya \- Arijit Singh](https://open.spotify.com/track/5WzfGg2ueNoOS5aIkaR9qX) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Rupali Moghe](https://open.spotify.com/artist/3quVbB0VVwzGIU1FRBWpX0) | [Badhaai Do \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2g7GkmjF2onRnLexy9cUiC) | 0:29 | 2022-04-11 |  |
+| [Atak Gaya \- Arijit Singh](https://open.spotify.com/track/5WzfGg2ueNoOS5aIkaR9qX) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Rupali Moghe](https://open.spotify.com/artist/3quVbB0VVwzGIU1FRBWpX0) | [Badhaai Do \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2g7GkmjF2onRnLexy9cUiC) | 3:19 | 2022-04-11 |  |
 | [Baarish Ban Jaana](https://open.spotify.com/track/3sFlG5sYt712TtjvWM8Ocb) | [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq) | [Baarish Ban Jaana](https://open.spotify.com/album/4iKug0MTkj0wulrZ33t310) | 3:20 | 2021-06-08 |  |
 | [Baarish Ki Jaaye](https://open.spotify.com/track/4OQFlJOSID2AzpmOcuDlJl) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Nawazuddin Siddiqui](https://open.spotify.com/artist/1qcVHIPfwFFc0gMnAxG9I1), [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Baarish Ki Jaaye](https://open.spotify.com/album/61MMNyvMw4jPfrQiex5jm5) | 4:11 | 2021-04-12 | 2022-05-20 |
 | [Baawla](https://open.spotify.com/track/55STs3JmcOC8CgzK4cTxRt) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Uchana Amit](https://open.spotify.com/artist/5bUGkhve6dkRRnwUH12IHW) | [Baawla](https://open.spotify.com/album/4nMEgsg90wXkc7AfzZkuw5) | 3:08 | 2021-08-03 | 2021-11-16 |

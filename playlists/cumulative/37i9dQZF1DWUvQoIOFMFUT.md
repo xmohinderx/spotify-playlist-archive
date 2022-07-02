@@ -4,7 +4,7 @@
 
 > Breathe deep and release that pressure.
 
-100 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/5GZxzvQkasDyP4drhgqZon)
+100 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/5GZxzvQkasDyP4drhgqZon)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Full Moon](https://open.spotify.com/track/4UAjNk9bNHnu38kFGAvpUv) | [Koala Karlous](https://open.spotify.com/artist/5h0JMWzRBgCtl8dahtxugO) | [Full Moon](https://open.spotify.com/album/7q0xGQXyCQOBNxcOot3P2c) | 3:41 | 2021-10-14 |  |
 | [Girl](https://open.spotify.com/track/0wcHV7AT77zzyH4ftt11vh) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/2Hz6tGm9vVbjYWgpANWp5E) | 3:32 | 2021-10-14 |  |
 | [Glass Shards](https://open.spotify.com/track/1Yhkq1TUW3d1WYyhS7Vt9g) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lonely City](https://open.spotify.com/album/7067zgNsGbFQdkyS6jL1wn) | 4:08 | 2021-10-14 |  |
-| [Golden Ratio](https://open.spotify.com/track/3MHBYSloK2tHDGAZ3ucA5I) | [Hayden Thorpe](https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d) | [Golden Ratio](https://open.spotify.com/album/3gBKFggMKS5mbwWWg6TdZp) | 0:29 | 2021-10-14 |  |
+| [Golden Ratio](https://open.spotify.com/track/3MHBYSloK2tHDGAZ3ucA5I) | [Hayden Thorpe](https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d) | [Golden Ratio](https://open.spotify.com/album/3gBKFggMKS5mbwWWg6TdZp) | 4:27 | 2021-10-14 |  |
 | [Goodbye](https://open.spotify.com/track/3bApjbLgcVRQOjgXSyIg5R) | [Grace Gillespie](https://open.spotify.com/artist/4owaayCKTzC8Y7PeADjuAk) | [Goodbye](https://open.spotify.com/album/7LhX8bhTNmCtuRLEYmzAh1) | 3:17 | 2021-10-14 |  |
 | [Gravity](https://open.spotify.com/track/5ozy2aMf0l8YIyOwc0B91p) | [Tiggs](https://open.spotify.com/artist/7vqraVZiWn0GQT2lYkJCgz) | [Gravity](https://open.spotify.com/album/02Airjrme24zvE7ksjTI8d) | 3:26 | 2021-10-14 |  |
 | [H.I.T.H](https://open.spotify.com/track/4Xpm7HOmxhh9HqiDFYsgYX) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [H.I.T.H](https://open.spotify.com/album/4O6s6vAzfOXQBtRjgYE5wz) | 3:25 | 2021-10-14 |  |
@@ -95,7 +95,7 @@
 | [Tethered, Wrapped Around](https://open.spotify.com/track/6wFHsAZrmqPBuqIHofO74H) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Tethered, Wrapped Around](https://open.spotify.com/album/0WExIWydeeZDe8ZxAGzlaa) | 3:15 | 2021-10-14 |  |
 | [The Bottom Line](https://open.spotify.com/track/4zO1yIlRNBzF0TF2Zx4fKZ) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Josin](https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW) | [some kind of peace](https://open.spotify.com/album/5GoNI6fKC1BVsuITYKMRB9) | 4:02 | 2021-10-14 |  |
 | [The Girls Before Me](https://open.spotify.com/track/7IecWBldlrmQNoqZH0FH5u) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [The Girls Before Me](https://open.spotify.com/album/13RMTU3mRKfjemE1ouEjIZ) | 3:35 | 2021-10-14 |  |
-| [The Sun Is Up Forever](https://open.spotify.com/track/1Lb1S77Ooubhoy3sz509aY) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [The Sun Is Up Forever](https://open.spotify.com/album/4E2TcDaegufL6YTbOzHiqR) | 0:29 | 2021-10-14 |  |
+| [The Sun Is Up Forever](https://open.spotify.com/track/1Lb1S77Ooubhoy3sz509aY) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [The Sun Is Up Forever](https://open.spotify.com/album/4E2TcDaegufL6YTbOzHiqR) | 3:44 | 2021-10-14 |  |
 | [Third Way](https://open.spotify.com/track/3IMUCgc92c7ciudifIGkLf) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Begin Again \- EP](https://open.spotify.com/album/78GfKzBtwL7C9D7nWp31PN) | 4:47 | 2021-10-14 |  |
 | [This is Where it Ends](https://open.spotify.com/track/4RErVR8msKr0WXp4hkRPnU) | [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [This is Where it Ends](https://open.spotify.com/album/6kyYwC2flZrnoYB7QvQTIc) | 3:42 | 2021-10-14 |  |
 | [To Adore](https://open.spotify.com/track/2pkAP51vRGsfMPEK8JijHD) | [A House In The Trees](https://open.spotify.com/artist/7ybXCaa1Cc7rMNDoMZoWzS) | [To Adore](https://open.spotify.com/album/6KLNsaVxNlldwQRgpljZzb) | 4:31 | 2021-10-14 |  |

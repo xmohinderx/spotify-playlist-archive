@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtgIvO0zxTI.md) - [plain]
 
 > Aquí está el sonido urbano de Venezuela\. Cover: Micro TDH, Jerry Di, Big Soto, ADSO, Akapellah
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,838 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,883 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtgIvO0zxTI.md) - [plain]
 | 44 | [BUBBLE](https://open.spotify.com/track/5aLl7KbfB7l4gi4Z0ZAo8S) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [BUBBLE](https://open.spotify.com/album/7025lUSjzFSCFJYVFfHxyh) | 3:13 |
 | 45 | [Buena Gente](https://open.spotify.com/track/4NY9HfnB5ghgth31M0FwcY) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU), [Kobi Cantillo](https://open.spotify.com/artist/3eAw8vSPkVqu0VfSZxv79h) | [Asocial](https://open.spotify.com/album/79S9WO9sAIk7LZ0v84xsbT) | 3:45 |
 | 46 | [Raro](https://open.spotify.com/track/4DEldV3wQKjbMRhVw64bg6) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7), [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [Raro](https://open.spotify.com/album/3yepH0ckADnbqwISL1zi0M) | 3:19 |
-| 47 | [Brujería](https://open.spotify.com/track/335X50bC4WpFbQmMGBxi6a) | [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Brujería](https://open.spotify.com/album/5oaQ0wLZfmH8V7swwzZwHl) | 0:29 |
+| 47 | [Brujería](https://open.spotify.com/track/335X50bC4WpFbQmMGBxi6a) | [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Brujería](https://open.spotify.com/album/5oaQ0wLZfmH8V7swwzZwHl) | 2:48 |
 | 48 | [Combina](https://open.spotify.com/track/3ZRstEup7FvszzoJaDbDWk) | [EstoeSPosdata](https://open.spotify.com/artist/78xJabNNsBJOz0uuBY23cN), [Jisa](https://open.spotify.com/artist/1eW3fgEEXYMqD2jc6EWEZs), [Omar K11](https://open.spotify.com/artist/5MgAfWCS0vzouE9lVzwjJy), [Dejota2021](https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY), [Jair Blanco](https://open.spotify.com/artist/3nxRFYiToLJqHdM05Pmq8n), [Marval](https://open.spotify.com/artist/0qKkpjlY5VEmY4n6CRbPZM) | [Combina](https://open.spotify.com/album/5TtVx5OfmsCB1vCrnKT6nv) | 5:13 |
 | 49 | [Mi Cuarto](https://open.spotify.com/track/6fmQjRuo7XvRFCK2qex5hQ) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [DI LETRA](https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn) | 3:17 |
 | 50 | [Cuando Quieras \- Remix](https://open.spotify.com/track/2Le3wJyr5NDDEhYIll7GLj) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [The Good Trip](https://open.spotify.com/album/0xlPK1D3VcRtgT29aZX2VY) | 3:56 |

@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4w7ghxoWOTa.md) - [plain]
 
 > アニソン界を代表する作詞家として、様々な作品のファンを魅了してきた畑 亜貴。多彩な作風でシンガーソングライター、作曲家、プロデュースチーム「Q\-MHz」メンバーとしても活躍中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,096 likes - 48 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,104 likes - 48 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ハレ晴レユカイ](https://open.spotify.com/track/651dM1w0QS5qG1qdL2zraO) | [Aya Hirano](https://open.spotify.com/artist/3i2cfgYBlN8krGOtCqEYHj), [茅原実里](https://open.spotify.com/artist/2BVUhHYQGZDr1YOQuySRuZ), [後藤邑子](https://open.spotify.com/artist/125fR1G9GJOC9YD8ZQ7a0Q) | [涼宮ハルヒの完奏〜コンプリートサウンドトラック〜](https://open.spotify.com/album/5Th1Ca5zP4rocYmRCY59NI) | 3:35 |
 | 2 | [Snow halation](https://open.spotify.com/track/7B2YKWz6UoXvOUEX32r3ov) | [μ's](https://open.spotify.com/artist/2hYjPkmTry3LYVVSymws5i) | [ラブライブ! μ's Best Album Best Live! Collection](https://open.spotify.com/album/3D6S8s4QyjcF92x5oMZBKU) | 4:20 |
-| 3 | [水中飛行](https://open.spotify.com/track/2OytQYY4XxAspxnMf22AOK) | [Aki Hata](https://open.spotify.com/artist/4OeurE1dYEfIjd2STbvMoC) | [水中飛行 \- 懐古庭園 Vol.03 \-](https://open.spotify.com/album/0Cqnoy1cXnlQzD30bUigS4) | 0:29 |
+| 3 | [水中飛行](https://open.spotify.com/track/2OytQYY4XxAspxnMf22AOK) | [Aki Hata](https://open.spotify.com/artist/4OeurE1dYEfIjd2STbvMoC) | [水中飛行 \- 懐古庭園 Vol.03 \-](https://open.spotify.com/album/0Cqnoy1cXnlQzD30bUigS4) | 3:30 |
 | 4 | [Paradise Lost](https://open.spotify.com/track/2bwOFXhpw67kglSOTO9Q2i) | [茅原実里](https://open.spotify.com/artist/2BVUhHYQGZDr1YOQuySRuZ) | [Paradise Lost](https://open.spotify.com/album/5i7vFlY7TmEJLTIIaWmIDP) | 4:43 |
-| 5 | [Enter Enter MISSION!](https://open.spotify.com/track/7cmX1cBE5n0RWjOJ6dWAEQ) | [あんこうチーム](https://open.spotify.com/artist/70rOGXZSfjcHvPt6risXrJ) | [Enter Enter MISSION!](https://open.spotify.com/album/7eItUmp8TJdTiOaE7DYctX) | 0:29 |
+| 5 | [Enter Enter MISSION!](https://open.spotify.com/track/7cmX1cBE5n0RWjOJ6dWAEQ) | [あんこうチーム](https://open.spotify.com/artist/70rOGXZSfjcHvPt6risXrJ) | [Enter Enter MISSION!](https://open.spotify.com/album/7eItUmp8TJdTiOaE7DYctX) | 4:05 |
 | 6 | [雪、無音、窓辺にて。](https://open.spotify.com/track/14P8J1kHSxa7h7O0Y2S6Pe) | [長門有希 \(CV.茅原実里\)](https://open.spotify.com/artist/6sApso3RvtZgoqPpkWIdsB) | [涼宮ハルヒの憂鬱 キャラクターソング \(Vol.2 長門有希\)](https://open.spotify.com/album/6nGmXtQlwNjWT5B7sUfKP7) | 4:30 |
 | 7 | [冒険でしょでしょ?](https://open.spotify.com/track/5yolws5GuK8GemMTTeSsxh) | [Aya Hirano](https://open.spotify.com/artist/3i2cfgYBlN8krGOtCqEYHj) | [冒険でしょでしょ?](https://open.spotify.com/album/1VX60De1ZNF0osyP5FpeXU) | 4:18 |
 | 8 | [God knows...](https://open.spotify.com/track/71ccYxWvQJ66ebPUZScJzn) | [涼宮ハルヒ \(CV.平野 綾\)](https://open.spotify.com/artist/4eWMhmDkvSkgeHo0D2RT31) | [涼宮ハルヒの完奏〜コンプリートサウンドトラック〜](https://open.spotify.com/album/5Th1Ca5zP4rocYmRCY59NI) | 4:38 |
-| 9 | [正解はひとつ!じゃない!!](https://open.spotify.com/track/3slLs4vWwt1aWW8PkFdSmO) | [ミルキィホームズ](https://open.spotify.com/artist/4XgSkyo3tmEoKYYBzFhyQu) | [正解はひとつ!じゃない!!](https://open.spotify.com/album/76bsRzjKBt66xEgseoXb64) | 0:29 |
+| 9 | [正解はひとつ!じゃない!!](https://open.spotify.com/track/3slLs4vWwt1aWW8PkFdSmO) | [ミルキィホームズ](https://open.spotify.com/artist/4XgSkyo3tmEoKYYBzFhyQu) | [正解はひとつ!じゃない!!](https://open.spotify.com/album/76bsRzjKBt66xEgseoXb64) | 4:02 |
 | 10 | [花ハ踊レヤいろはにほ](https://open.spotify.com/track/7DGlPJwVQY3INApfDS0l8P) | [チーム“ハナヤマタ”](https://open.spotify.com/artist/099PpAOXjE1xbE6gN7214P) | [花ハ踊レヤいろはにほ](https://open.spotify.com/album/6KqK4ORYe2KvTXbIoTlvoj) | 4:10 |
 | 11 | [僕たちはひとつの光](https://open.spotify.com/track/005NUwN5Mnre7uZ0KkQCaG) | [μ's](https://open.spotify.com/artist/2hYjPkmTry3LYVVSymws5i) | [僕たちはひとつの光/Future style](https://open.spotify.com/album/1MYEucgIhngkOi11Mj6yV1) | 4:55 |
 | 12 | [僕らのLIVE 君とのLIFE](https://open.spotify.com/track/3N3jaGb18pYfFzpe1GZgfI) | [μ's](https://open.spotify.com/artist/2hYjPkmTry3LYVVSymws5i) | [僕らのLIVE 君とのLIFE](https://open.spotify.com/album/5Jm69hA6DIRSxKeBKUxPeH) | 5:23 |
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4w7ghxoWOTa.md) - [plain]
 | 18 | [純白サンクチュアリィ](https://open.spotify.com/track/1DOvTy3Ysf7b8VobWpbdZR) | [茅原実里](https://open.spotify.com/artist/2BVUhHYQGZDr1YOQuySRuZ) | [純白サンクチュアリィ](https://open.spotify.com/album/4KZcIpumgWdYOfIXl35bxE) | 4:52 |
 | 19 | [Future Stream](https://open.spotify.com/track/7qpd7gpBM11o7fRSmJ1i4y) | [Sphere](https://open.spotify.com/artist/7qAl67yej6N3CHV5XJShP7) | [Future Stream](https://open.spotify.com/album/2oPq8FUYfqFdjsJ295oc5T) | 4:22 |
 | 20 | [童話迷宮](https://open.spotify.com/track/1lEDbcMIAPnT2HYjxpDy3t) | [Yukari Tamura](https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ) | [童話迷宮](https://open.spotify.com/album/3N5adcjY3Er5xUnU7eYpQn) | 3:55 |
-| 21 | [少女迷路でつかまえて](https://open.spotify.com/track/160vKqpghe9g2y3HV0ryfg) | [美郷あき](https://open.spotify.com/artist/4qEleN0MdPvcOOyiOqRBjy) | [少女迷路でつかまえて](https://open.spotify.com/album/786JSY42TK9kf5OH7IvbPr) | 0:29 |
+| 21 | [少女迷路でつかまえて](https://open.spotify.com/track/160vKqpghe9g2y3HV0ryfg) | [美郷あき](https://open.spotify.com/artist/4qEleN0MdPvcOOyiOqRBjy) | [少女迷路でつかまえて](https://open.spotify.com/album/786JSY42TK9kf5OH7IvbPr) | 4:08 |
 | 22 | [ブラウン通りで待ってます](https://open.spotify.com/track/1EFbe8ZhODX4dzYiA1pBqj) | [Aki Hata](https://open.spotify.com/artist/4OeurE1dYEfIjd2STbvMoC) | [鏡の名前 \- 懐古庭園 Vol.05 \-](https://open.spotify.com/album/3Yplas98vWwBgIGFpUXFLG) | 3:32 |
-| 23 | [蜿蜒 on and on and](https://open.spotify.com/track/2nKOj62YYsOMtVHmz1Somg) | [Aki Hata](https://open.spotify.com/artist/4OeurE1dYEfIjd2STbvMoC) | [蜿蜒 on and on and](https://open.spotify.com/album/72nNEQncy3ZQgoyltEsBha) | 5:00 |
+| 23 | [蜿蜒 on and on and](https://open.spotify.com/track/2nKOj62YYsOMtVHmz1Somg) | [Aki Hata](https://open.spotify.com/artist/4OeurE1dYEfIjd2STbvMoC) | [蜿蜒 on and on and](https://open.spotify.com/album/72nNEQncy3ZQgoyltEsBha) | 0:29 |
 | 24 | [未来の僕らは知ってるよ](https://open.spotify.com/track/4Kr4DGSLD2SRmjxNjfm3uS) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [未来の僕らは知ってるよ](https://open.spotify.com/album/1MlqcaVEU0wY1jDr1lka7U) | 4:10 |
 | 25 | [Love marginal](https://open.spotify.com/track/69oopEcHr93WjL84ZGg0oS) | [Printemps](https://open.spotify.com/artist/5UDdlpW0SOJwKm8ZkSbO30) | [μ's Complete BEST BOX \(Chapter.07\)](https://open.spotify.com/album/7nNBandGoFJqSVTHCVlt8F) | 4:32 |
 | 26 | [Silent tonight](https://open.spotify.com/track/5klLVOYKURBm2cVEDUkCIH) | [BiBi](https://open.spotify.com/artist/2Y3ofvZHDfYYsmOHdpPy2D) | [μ's Complete BEST BOX \(Chapter.08\)](https://open.spotify.com/album/0QSPYBVhpK1CgN0kFKPqEb) | 5:17 |

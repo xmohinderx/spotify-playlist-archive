@@ -4,7 +4,7 @@
 
 > Hip\-hop mexicano, rimas de la calle, en viva voz de Dharius.
 
-167 songs - 9 hr 53 min - [published](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
+168 songs - 9 hr 57 min - [published](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Cuando Huele](https://open.spotify.com/track/4QhOpSey4O0bnYVzXBcjtz) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Cuando Huele](https://open.spotify.com/album/2zToNcX1Rn7Y1LQI8BP3HD) | 3:22 | 2022-01-28 | 2022-02-12 |
 | [Cuando Te Vas](https://open.spotify.com/track/4q9Rjz3WD5clmY2TIE3uPr) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Cuando Te Vas](https://open.spotify.com/album/4iQwXt31sNhZ7Z7egRKu6M) | 2:46 | 2022-01-28 | 2022-04-29 |
 | [Cuidando El Territorio](https://open.spotify.com/track/64ImcY4fJhY243wr20SR3e) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [Cuidando El Territorio](https://open.spotify.com/album/6kPeskyrkdkWT3xFYx9kvb) | 3:06 | 2022-01-28 | 2022-06-28 |
+| [Cómo Diamante](https://open.spotify.com/track/76j6ISLdqxSKJBNGLL0fPb) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Akasha](https://open.spotify.com/artist/45dFGC8WhidxNiuhMbTIvo), [Cozy Cuz](https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ) | [Humo en la Trampa 3](https://open.spotify.com/album/52pj5NqKKtffjSmxvMzhlY) | 3:27 | 2022-07-01 |  |
 | [Dale](https://open.spotify.com/track/7BQT6c7FWsc3WrW7N5zZev) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Reyna](https://open.spotify.com/album/6gurGGQvCTVdFZZh1Abs3c) | 3:21 | 2022-04-18 | 2022-05-14 |
 | [Dangerous](https://open.spotify.com/track/76cdJNuDt1dgoUAg3Zsmbq) | [La Sinclair](https://open.spotify.com/artist/5kkRe5KI7U7AvJ3PgLMwB9), [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Adan Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Dangerous](https://open.spotify.com/album/5P6rDFKtvsQO8KsaviUVtq) | 3:35 | 2022-05-06 |  |
 | [De Callejón](https://open.spotify.com/track/0Z1ap3SVAzq7XjUgp6v9gH) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Luz & Sombra](https://open.spotify.com/album/4zfSMksNSvSWuwVWE0QmM8) | 3:51 | 2022-01-28 | 2022-05-14 |
@@ -65,7 +66,7 @@
 | [Es El Detalle](https://open.spotify.com/track/4QjRh8tHDt3xuSJpfLiCzl) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Es El Detalle](https://open.spotify.com/album/6GIGJm67mSLkAvGFDXxhtL) | 3:08 | 2022-02-18 |  |
 | [Estilolibre](https://open.spotify.com/track/5urWBmqFpzyWrG4OEuUhNp) | [Adan Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Estilolibre](https://open.spotify.com/album/6Y21IpEoxevroZJDc1y60N) | 2:27 | 2022-04-01 | 2022-05-20 |
 | [Eyeliner de Katana](https://open.spotify.com/track/1qXBSGhndWVt7RnOWBS78J) | [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Eyeliner de Katana](https://open.spotify.com/album/7yiB0Lc8603bb6mrz8SDJW) | 2:01 | 2022-05-13 | 2022-06-04 |
-| [EYO](https://open.spotify.com/track/50VID8NClGL3T4eJQhl9IX) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Huracán](https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi) | 3:25 | 2022-01-28 |  |
+| [EYO](https://open.spotify.com/track/50VID8NClGL3T4eJQhl9IX) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Huracán](https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi) | 3:25 | 2022-01-28 | 2022-07-02 |
 | [Fact Check](https://open.spotify.com/track/4X1ihd94KGVZQiSu1Xct0Z) | [SUPIČIĆ](https://open.spotify.com/artist/6nmMdJBINPKVDb4kCCbQyU), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2) | [Fact Check](https://open.spotify.com/album/5Li2FGFEnUGoDu3hx7pSbL) | 3:31 | 2022-06-17 | 2022-06-29 |
 | [Fe](https://open.spotify.com/track/5E3DUwke6Or4h5rosrn5Z1) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Fe](https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP) | 4:14 | 2022-01-28 |  |
 | [Flight 0006](https://open.spotify.com/track/4nI5HHuZTJ9Os6oX7r91T9) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V) | [Flight 0006](https://open.spotify.com/album/6AWzO7oPAcQnbhOdX2jOWb) | 3:17 | 2022-01-28 | 2022-02-12 |

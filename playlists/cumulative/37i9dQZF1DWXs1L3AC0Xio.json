@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 168482,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/0XKeX2a57RKZrYikf5tmPa"
@@ -579,7 +579,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 231106,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/6lFUdRItQEsEuD7dSINL47"
@@ -692,7 +692,7 @@
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 219760,
       "name": "Hear Me Now (feat. DIAMANTE)",
       "url": "https://open.spotify.com/track/51qppaTjmtD3fclww1e8W1"
     },
@@ -770,6 +770,24 @@
     },
     {
       "album": {
+        "name": "Planet Zero",
+        "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218990,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/5glQ2KQjO3HZCh7TDyegvm"
+    },
+    {
+      "album": {
         "name": "How Did You Love",
         "url": "https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP"
       },
@@ -836,7 +854,7 @@
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 230642,
+      "duration_ms": 29048,
       "name": "If Only For Now",
       "url": "https://open.spotify.com/track/1QROneYqhpjl0IDKYou8j2"
     },
@@ -889,7 +907,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 204972,
       "name": "let go of your love",
       "url": "https://open.spotify.com/track/1ehMNecFGwZu0tmCImU473"
@@ -1353,7 +1371,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 345786,
       "name": "Present Tense",
       "url": "https://open.spotify.com/track/679zqcQuKakOGI93NPCqB8"
@@ -1426,7 +1444,7 @@
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 322306,
       "name": "Retrograde",
       "url": "https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6"
     },
@@ -1479,7 +1497,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 337066,
       "name": "Silence",
       "url": "https://open.spotify.com/track/7tm6kZFYu4hIaxFkw1RZj8"
@@ -1534,7 +1552,7 @@
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 235946,
       "name": "Space",
       "url": "https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM"
     },
@@ -1786,7 +1804,7 @@
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 339980,
+      "duration_ms": 29048,
       "name": "Til Kingdom Come",
       "url": "https://open.spotify.com/track/164EnZMFkzwI02U78jSzvW"
     },
@@ -1894,7 +1912,7 @@
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 259133,
       "name": "Watch Over You",
       "url": "https://open.spotify.com/track/7kxfWvj6u9oWQ5C36kMtGb"
     },

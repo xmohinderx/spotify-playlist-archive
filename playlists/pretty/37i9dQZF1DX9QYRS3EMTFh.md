@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : Bamby
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,562 likes - 40 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,663 likes - 40 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Buzz](https://open.spotify.com/track/7dNKk2V4bD0MXdBhh1PLmR) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [Buzz](https://open.spotify.com/album/2ByFERdFOCwLIyxXfz1an5) | 2:02 |
 | 2 | [Bad \(Latin Remix\)](https://open.spotify.com/track/5GoYi5Nx1ImQTjrCxVkwuk) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Kafu Banton](https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij) | [Bad \(Latin Remix\)](https://open.spotify.com/album/4RYR5yNVhoYnCes9n949qP) | 3:23 |
 | 3 | [Roulman](https://open.spotify.com/track/6kuEgsXZ5KjidJfsq6hMFV) | [DJ SEBB](https://open.spotify.com/artist/6tWA0KYYzAiQzgKzImRQGF), [Junior](https://open.spotify.com/artist/5ZVc8t2irmJwaMSkDXY1Rj), [Black\-T](https://open.spotify.com/artist/1nFZ21xwCakE48rU514Ao6), [P.L.L](https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf) | [Roulman](https://open.spotify.com/album/1YsiqO5UH3bKIV37dwdcBS) | 2:56 |
-| 4 | [Slap](https://open.spotify.com/track/5CwSPRRv1pgwekI2OjT8D7) | [Its Natascha](https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6), [Joli Rouge Sound](https://open.spotify.com/artist/6Pwx5SQ0bBlpMxgx7RHVyM) | [Slap](https://open.spotify.com/album/7lieUHWGYUrAm8lC7BVhV5) | 0:29 |
+| 4 | [Slap](https://open.spotify.com/track/5CwSPRRv1pgwekI2OjT8D7) | [Its Natascha](https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6), [Joli Rouge Sound](https://open.spotify.com/artist/6Pwx5SQ0bBlpMxgx7RHVyM) | [Slap](https://open.spotify.com/album/7lieUHWGYUrAm8lC7BVhV5) | 2:26 |
 | 5 | [Stand Firm](https://open.spotify.com/track/6nphDFw2CnNspvwyswNv69) | [Babybang](https://open.spotify.com/artist/5AE51Ys60V4FluAz6NQQup), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x) | [Stand Firm](https://open.spotify.com/album/17OIKPVlA5sZ7GlIZ4mcCy) | 2:32 |
 | 6 | [Laptop](https://open.spotify.com/track/7e2vCAtcYXuM8JOUqIZ9GQ) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Tombolo](https://open.spotify.com/album/5x2zkoZogYhBNF6pYJIzk3) | 2:47 |
 | 7 | [Gou \(feat\. Maurane Voyer\)](https://open.spotify.com/track/3NLhKzG3abdgcYYkcI3eK6) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se), [Maurane Voyer](https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351) | [Gou \(feat\. Maurane Voyer\)](https://open.spotify.com/album/5y4H7p0msZzx5Q3Gh7tFny) | 3:57 |

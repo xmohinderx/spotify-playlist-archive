@@ -4,7 +4,7 @@
 
 > The best metal of 2016!
 
-128 songs - 11 hr 3 min - [published](https://open.spotify.com/playlist/78oYCipLw9bL0rcTsN8kW4)
+128 songs - 11 hr 32 min - [published](https://open.spotify.com/playlist/78oYCipLw9bL0rcTsN8kW4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Ensigns Of Victory](https://open.spotify.com/track/2YVaKGtAZPt58BdObKvP5A) | [Winterfylleth](https://open.spotify.com/artist/0cKyWvYnOGpPV2NpulEYf5) | [Ensigns Of Victory](https://open.spotify.com/album/289l5qWtPYRtuugMdjmvZA) | 6:47 | 2016-12-02 |  |
 | [Failure](https://open.spotify.com/track/2r6YsK1Mf3hqBaxE0QSTpH) | [Devin Townsend Project](https://open.spotify.com/artist/54Xuca1P5nDqfKYZGDfHxl) | [Transcendence \(Deluxe Edition\)](https://open.spotify.com/album/3C3x7g8DmzmnXd6Busxugp) | 6:02 | 2016-12-02 |  |
 | [Falling While Rising](https://open.spotify.com/track/7KH8bAOiAshoNKmLZnqwk7) | [Crowbar](https://open.spotify.com/artist/3xtIpqzIOfQUxKce8BU4Ka) | [The Serpent Only Lies](https://open.spotify.com/album/1gzb17Vim8JBwIFp4yDwww) | 5:37 | 2016-12-02 |  |
-| [Fire Is the End Lesson](https://open.spotify.com/track/1J4TyM72zi7Uk3VWY8pJrn) | [Neurosis](https://open.spotify.com/artist/1KHydwFySZY3YcWyo2q2dF) | [Fires Within Fires](https://open.spotify.com/album/4HMbz4WUJc55v3LLQB2ljg) | 0:29 | 2016-12-15 |  |
+| [Fire Is the End Lesson](https://open.spotify.com/track/1J4TyM72zi7Uk3VWY8pJrn) | [Neurosis](https://open.spotify.com/artist/1KHydwFySZY3YcWyo2q2dF) | [Fires Within Fires](https://open.spotify.com/album/4HMbz4WUJc55v3LLQB2ljg) | 6:54 | 2016-12-15 |  |
 | [Following the Voice](https://open.spotify.com/track/5SYCdwUaMSNmRNt273nT8K) | [Anciients](https://open.spotify.com/artist/3YQOcYukzO6U1MjFcavDUE) | [Voice of the Void](https://open.spotify.com/album/3m6aQUzU5OtUCebQt1kExQ) | 6:48 | 2016-12-02 |  |
 | [Forged in Iron \- Crowned in Steel](https://open.spotify.com/track/65nrGyffoIRNQuFO9wB38q) | [Grand Magus](https://open.spotify.com/artist/7GTkjp7qsfmx8iJzBUQLmN) | [Sword Songs](https://open.spotify.com/album/1izvgTqDV0vgR3Cykqlatr) | 5:38 | 2016-12-02 |  |
 | [Frontiers](https://open.spotify.com/track/5P4ThTth2r6hg5eQqgFVfD) | [Omnium Gatherum](https://open.spotify.com/artist/52xuvlUvnxqH0xzxGPKXSu) | [Grey Heavens](https://open.spotify.com/album/5M68VCqen9jhoChwUUCJow) | 5:09 | 2016-12-02 |  |
@@ -62,7 +62,7 @@
 | [Home](https://open.spotify.com/track/7zTOZF5EeB9rf8e1hYfxAy) | [Numenorean](https://open.spotify.com/artist/2qBGuYUZX53HN4Vk7Msjlc) | [Home](https://open.spotify.com/album/5JNGeAZWSXLXpxzsQ1IsV5) | 9:13 | 2016-12-02 |  |
 | [Hunt the Buffalo](https://open.spotify.com/track/1HRwKWGgkRdWPqpVW68FoA) | [Cobalt](https://open.spotify.com/artist/2yawagTvYt4y9mXm0d3n3p) | [Slow Forever](https://open.spotify.com/album/5yOrSjOeKeOiyWEm34y3H4) | 8:48 | 2016-12-02 |  |
 | [I Speak Astronomy](https://open.spotify.com/track/0YqlrrEiorpDEBQfKPN7GR) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [I Speak Astronomy](https://open.spotify.com/album/55TibNC3am3S73SizJlDBw) | 5:53 | 2016-12-02 |  |
-| [Image of Control \(II\)](https://open.spotify.com/track/66cMGk7UfCbR8ziN4qNJr5) | [Sumac](https://open.spotify.com/artist/51yGpqOaCT6TlLzV3LefDV) | [What One Becomes](https://open.spotify.com/album/0s1U9VBobxvNn7Kctl5WN2) | 0:29 | 2016-12-02 |  |
+| [Image of Control \(II\)](https://open.spotify.com/track/66cMGk7UfCbR8ziN4qNJr5) | [Sumac](https://open.spotify.com/artist/51yGpqOaCT6TlLzV3LefDV) | [What One Becomes](https://open.spotify.com/album/0s1U9VBobxvNn7Kctl5WN2) | 5:59 | 2016-12-02 |  |
 | [Immersion](https://open.spotify.com/track/1YbLL2x99kFDu8Urq58yve) | [Binary Code](https://open.spotify.com/artist/6cLgIBFIStaW7q7wTWhGvS) | [Moonsblood](https://open.spotify.com/album/2P1YK7bUMmgCzwZGuxTWsi) | 3:17 | 2016-12-02 |  |
 | [In Orbit](https://open.spotify.com/track/0qAlAfnqtWuZtrvvc1zwoA) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D), [Floor Jansen](https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ) | [The Storm Within](https://open.spotify.com/album/1v0fzHYZBtVxH8Uq9pCcUY) | 5:38 | 2016-12-02 |  |
 | [Incandescent](https://open.spotify.com/track/1lklm7l2pWgjHqNtlvTtgR) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Air](https://open.spotify.com/album/2jo6mNNlHx8UnlSCdaTFsL) | 5:11 | 2016-12-02 |  |
@@ -71,7 +71,7 @@
 | [Is There Anybody out There?](https://open.spotify.com/track/3KWW3wKaQviTplvq6cFYFR) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Is There Anybody out There?](https://open.spotify.com/album/6kNCcyVUU39nbjSImUK8V5) | 4:32 | 2016-12-02 |  |
 | [Island Of Fools](https://open.spotify.com/track/4tW4eeqaYwieH1Y5TvZAzO) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [The Last Hero](https://open.spotify.com/album/5UGzaaihp7tX8hLwbxEJRT) | 5:00 | 2016-12-02 |  |
 | [Karate](https://open.spotify.com/track/4H3FpMCBuyUfYjyxeaCeC3) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Metal Resistance](https://open.spotify.com/album/2Xzz2rVZIwoJr1S3btHPho) | 4:23 | 2016-12-02 |  |
-| [Kvervandi](https://open.spotify.com/track/2Hghr7m6ojS6FtrWToPO6n) | [Ivar Bjørnson & Einar Selvik](https://open.spotify.com/artist/6oMLJmmChVOrBm8MmcfHES) | [Skuggsjá](https://open.spotify.com/album/0g2MYTHCdT74TYAt4E3UGu) | 0:29 | 2016-12-02 |  |
+| [Kvervandi](https://open.spotify.com/track/2Hghr7m6ojS6FtrWToPO6n) | [Ivar Bjørnson & Einar Selvik](https://open.spotify.com/artist/6oMLJmmChVOrBm8MmcfHES) | [Skuggsjá](https://open.spotify.com/album/0g2MYTHCdT74TYAt4E3UGu) | 6:26 | 2016-12-02 |  |
 | [Live and Burn](https://open.spotify.com/track/5kheBCHERdvNziSYgDdbc2) | [Deströyer 666](https://open.spotify.com/artist/67T5lWCllFJE7hDrslnxYK) | [Wildfire](https://open.spotify.com/album/29NdXziu9bQePCxjSf9b5G) | 4:31 | 2016-12-02 |  |
 | [Looking Down the Barrel of Today](https://open.spotify.com/track/5hQfs9spSyXUavvPe7jmgn) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [The Concrete Confessional](https://open.spotify.com/album/300egwhkQSsKEFLbZgFa36) | 2:41 | 2016-12-02 |  |
 | [Marigold](https://open.spotify.com/track/2YZZ8qsDdvC008LgtpMoI6) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Periphery III: Select Difficulty](https://open.spotify.com/album/1NBUh16Mfz7kNjIJKVO9sC) | 7:19 | 2016-12-02 |  |
@@ -110,9 +110,9 @@
 | [Suckerpunch](https://open.spotify.com/track/1yVQYRNPbBGtL7YvL5H8zz) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [Moonbathers \(Deluxe Edition\)](https://open.spotify.com/album/7vswKSNygV6k40pw8wViCg) | 4:09 | 2016-12-02 |  |
 | [Suden Tunti](https://open.spotify.com/track/2lL0Z7Ko5vfW6pVtKRgfu9) | [Moonsorrow](https://open.spotify.com/artist/4PdaU6ArZ8JTZvCX9ZWuTI) | [Jumalten Aika](https://open.spotify.com/album/4lNfKXCC8LLMeTr89vRF1D) | 7:06 | 2016-12-02 |  |
 | [Suffer the Last Bridge](https://open.spotify.com/track/3Kyah08cIZJKhjnUa3vHJ2) | [Oceans of Slumber](https://open.spotify.com/artist/2JSza6IRxLr1Ez3wqKd0SY) | [Winter](https://open.spotify.com/album/50O9zBtbDovF8Z8Z4xnHEO) | 5:00 | 2016-12-02 |  |
-| [Symptom of Terminal Illness](https://open.spotify.com/track/6wBoZc8SwGed6EPApAXuWo) | [The Dillinger Escape Plan](https://open.spotify.com/artist/7IGcjaMGAtsvKBLQX26W4i) | [Dissociation](https://open.spotify.com/album/52hA4AUoiCwTuXXuClt0SR) | 0:29 | 2016-12-02 |  |
+| [Symptom of Terminal Illness](https://open.spotify.com/track/6wBoZc8SwGed6EPApAXuWo) | [The Dillinger Escape Plan](https://open.spotify.com/artist/7IGcjaMGAtsvKBLQX26W4i) | [Dissociation](https://open.spotify.com/album/52hA4AUoiCwTuXXuClt0SR) | 4:03 | 2016-12-02 |  |
 | [The Black](https://open.spotify.com/track/4ORXSxr4tV5H6gH5KHAiAh) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [The Black](https://open.spotify.com/album/399w1uaOvKhnkczdMMZYoy) | 4:41 | 2016-12-02 |  |
-| [The Call to Orion](https://open.spotify.com/track/1rbfCsj5x84ozBCHxjgSLZ) | [In Mourning](https://open.spotify.com/artist/0gsIXiV7rw5I9wJaxgoOdB) | [Afterglow](https://open.spotify.com/album/69Eghq1EV8MOWLL8hvNMKG) | 0:29 | 2016-12-02 |  |
+| [The Call to Orion](https://open.spotify.com/track/1rbfCsj5x84ozBCHxjgSLZ) | [In Mourning](https://open.spotify.com/artist/0gsIXiV7rw5I9wJaxgoOdB) | [Afterglow](https://open.spotify.com/album/69Eghq1EV8MOWLL8hvNMKG) | 8:24 | 2016-12-02 |  |
 | [The Curse That Is](https://open.spotify.com/track/5kJNNOqHrfmIPhlavNZRbV) | [Graves at Sea](https://open.spotify.com/artist/5T1dDRWd0885FMI7BihUJM) | [The Curse That Is \- Single](https://open.spotify.com/album/5IiwPuLbGhoHhQZbHIqXvi) | 11:14 | 2016-12-02 |  |
 | [The End](https://open.spotify.com/track/2y5ZL8DvcXewQYfjVZOlT2) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Battles](https://open.spotify.com/album/2QMulEvqQCSiQqomqEBVtA) | 3:58 | 2016-12-02 |  |
 | [The Fool](https://open.spotify.com/track/63fLWnxo6JAZIBbhc9jYSW) | [Fleshgod Apocalypse](https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML) | [King](https://open.spotify.com/album/3jZDOEIsXpZUXmqb1o6Lzm) | 4:06 | 2016-12-02 |  |

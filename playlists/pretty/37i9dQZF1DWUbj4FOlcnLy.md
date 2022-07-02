@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbj4FOlcnLy.md) - [plain]
 
 > Disfruta esta selección musical, de la mano de Las Pelotas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,091 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,092 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbj4FOlcnLy.md) - [plain]
 | 5 | [Más de Todo](https://open.spotify.com/track/7p8PBTRbPqqmd0fzaJaNV9) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Cerca de las Nubes](https://open.spotify.com/album/74lHbJkzv0QSuxVoSebpxW) | 4:09 |
 | 6 | [Behind Blue Eyes](https://open.spotify.com/track/0cKk8BKEi7zXbdrYdyqBP5) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 3:41 |
 | 7 | [Between The Bars](https://open.spotify.com/track/52Bg6oaos7twR7IUtEpqcE) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L) | 2:21 |
-| 8 | [Weird Fishes/ Arpeggi](https://open.spotify.com/track/4Iyo50UoYhuuYORMLrGDci) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f) | 0:29 |
+| 8 | [Weird Fishes/ Arpeggi](https://open.spotify.com/track/4Iyo50UoYhuuYORMLrGDci) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f) | 5:18 |
 | 9 | [Thank You \- 1990 Remaster](https://open.spotify.com/track/4ZkhFcoS3apzze9w2yI9NO) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 4:49 |
 | 10 | [Gold on the Ceiling](https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:44 |
 | 11 | [Girls & Boys \- 2012 Remaster](https://open.spotify.com/track/2qrL1YF9aA865b6SKhLZ78) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Parklife \(Special Edition\)](https://open.spotify.com/album/0DBkFC6739trhCoVreZyds) | 4:51 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbj4FOlcnLy.md) - [plain]
 | 45 | [Incinerate](https://open.spotify.com/track/6bGnkppjxJJY4HeOQ5dheD) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Rather Ripped](https://open.spotify.com/album/57V5TA5DLxNvwPCPyXW1tB) | 4:55 |
 | 46 | [La Marmota](https://open.spotify.com/track/6AOVeEqm394cuWxNuB1gl6) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Basta](https://open.spotify.com/album/6TX2RKQxlhWMa6Bb7iXfAU) | 3:15 |
 | 47 | [Era](https://open.spotify.com/track/360c0jDKsarxhu3cpUFX5V) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Brindando por Nada](https://open.spotify.com/album/3rvzEf5YFWKyOn0NCSZ4xx) | 4:01 |
-| 48 | [Un Día Punk](https://open.spotify.com/track/2Lk7Ib4YynkYwevr8L0Anw) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Forfun](https://open.spotify.com/album/6NIqpybaq4hFvrsHEnmxCM) | 0:29 |
+| 48 | [Un Día Punk](https://open.spotify.com/track/2Lk7Ib4YynkYwevr8L0Anw) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Forfun](https://open.spotify.com/album/6NIqpybaq4hFvrsHEnmxCM) | 4:12 |
 | 49 | [Nada Es Real](https://open.spotify.com/track/6SrG832Ui4yIm1IWCPb4hD) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Brindando por Nada](https://open.spotify.com/album/3rvzEf5YFWKyOn0NCSZ4xx) | 3:37 |
 | 50 | [Contra Todos Los Males De Este Mundo](https://open.spotify.com/track/5C36ZFzzQlMWLMrwLabYtL) | [Spinetta Jade](https://open.spotify.com/artist/3WxVICwFDAWMTWH8sELmRe) | [Los Niños Que Escriben En El Cielo](https://open.spotify.com/album/1EvxxViNArpX7YXmgMd4Zw) | 3:04 |
 

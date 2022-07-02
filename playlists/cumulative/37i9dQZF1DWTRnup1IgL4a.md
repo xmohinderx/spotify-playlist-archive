@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-113 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/7ISFFwuQB5ntspjOylTJdw)
+113 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/7ISFFwuQB5ntspjOylTJdw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Draumurinn](https://open.spotify.com/track/7cMQbAS4eqmHT1I8cnYplu) | [Aiday Ainur](https://open.spotify.com/artist/5BuB7CRnNJKxzSsu6Mznbj) | [Draumurinn](https://open.spotify.com/album/5CG1s3VqpxBjcZqN1lwieV) | 2:08 | 2021-12-09 |  |
 | [Dreamcatcher](https://open.spotify.com/track/64t8q2udrOR4Myb6i83SaC) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Celta](https://open.spotify.com/album/6UXPdmRQ3KQlnUTX8Dmis8) | 3:10 | 2022-05-27 |  |
 | [Dreamland](https://open.spotify.com/track/6RK4JN6grUWO6P5n8v5LVW) | [Bella Wonder](https://open.spotify.com/artist/4anNtmalUlxmPp1vCwLS8a) | [Dreamland](https://open.spotify.com/album/37uuw8k3rQ7hyUGgJ16AmY) | 1:46 | 2022-05-27 |  |
-| [Dulces alegrías](https://open.spotify.com/track/5PSOuj6VsXy6eXhBkBHqEr) | [Adriana Von](https://open.spotify.com/artist/1vaAJMEhSW3SEr07yzlKDO) | [Dulces alegrías](https://open.spotify.com/album/0mA6A0yYI516pR5G08rCNf) | 0:29 | 2021-12-09 |  |
+| [Dulces alegrías](https://open.spotify.com/track/5PSOuj6VsXy6eXhBkBHqEr) | [Adriana Von](https://open.spotify.com/artist/1vaAJMEhSW3SEr07yzlKDO) | [Dulces alegrías](https://open.spotify.com/album/0mA6A0yYI516pR5G08rCNf) | 2:20 | 2021-12-09 |  |
 | [Dunes](https://open.spotify.com/track/5IFtrRzuEqTCyw1spoN5qs) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Something Good](https://open.spotify.com/album/2HNNOqcuGOPt05kFzwPZIR) | 2:40 | 2021-12-09 | 2022-04-22 |
 | [E perto do anoitecer](https://open.spotify.com/track/12JjMTQI1A6Z6cpiuek0z2) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [E perto do anoitecer](https://open.spotify.com/album/2qUsqLtAeAoYKFPUKpR9Qo) | 2:41 | 2021-12-09 |  |
 | [Empire \(Delta Binaural Beat\)](https://open.spotify.com/track/0GawhkkBNAhPTyiITkqyFR) | [Pathfinder](https://open.spotify.com/artist/4teMSBnvZUn588FGFbu3qE) | [Empire \(Delta Binaural Beat\)](https://open.spotify.com/album/6LFbkAVLD2Reo2NcESuSit) | 2:14 | 2022-04-22 |  |

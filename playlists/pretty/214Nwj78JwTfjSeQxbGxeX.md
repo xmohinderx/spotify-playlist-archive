@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/214Nwj78JwTfjSeQxbGxeX.md) - [plain]
 
 > A different option for your New Year's Eve party\. Sweet pop, rock, and singer/songwriter tunes about this special holiday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 458 likes - 28 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 458 likes - 28 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/214Nwj78JwTfjSeQxbGxeX.md) - [plain]
 | 9 | [Maybe Baby \(New Year's Day\)](https://open.spotify.com/track/77Ci26Iuib9AR4o2uZf9jn) | [Sugarland](https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD) | [Gold And Green](https://open.spotify.com/album/1ZXD0GX9NuVrF7BMpckk2z) | 5:01 |
 | 10 | [New Year's Eve 1999](https://open.spotify.com/track/6pNZ4e8pkO4BwoU1eOm81c) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Alabama Christmas Volume II](https://open.spotify.com/album/33n4QsTxkSrmyTPoo9KcdR) | 2:45 |
 | 11 | [Our New Year](https://open.spotify.com/track/1MAOl1ZUb5bv90kSDs9erN) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Midwinter Graces](https://open.spotify.com/album/08HbuNqWS9mclkn9BvJmYi) | 4:11 |
-| 12 | [Nothin' New for New Year \(feat\. George Jones\)](https://open.spotify.com/track/6bJUyfryLLaCseNHr1XNpC) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79), [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Harry For The Holidays](https://open.spotify.com/album/4kC0FqUUVgEi1uo2I2JItE) | 0:29 |
+| 12 | [Nothin' New for New Year \(feat\. George Jones\)](https://open.spotify.com/track/6bJUyfryLLaCseNHr1XNpC) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79), [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Harry For The Holidays](https://open.spotify.com/album/4kC0FqUUVgEi1uo2I2JItE) | 4:05 |
 | 13 | [Same Old Lang Syne](https://open.spotify.com/track/0juQNDN4EdiuG97rgKywkF) | [Dan Fogelberg](https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO) | [Love Songs](https://open.spotify.com/album/2HBiEHyRhKl6dxWBKQpxID) | 5:15 |
 | 14 | [New Year's Day](https://open.spotify.com/track/523WmUh42Mk6iJOSPCHQiV) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [A Christmas Carole](https://open.spotify.com/album/5gBBrMxrSMiSMWCt4cQsLq) | 3:55 |
 | 15 | [A Brand New Day](https://open.spotify.com/track/2fa0wCd21pLr7K8JV9Vm9l) | [Lisa Miskovsky](https://open.spotify.com/artist/5J0dXmqEYctfFsmcakqZFH) | [Last Year's Songs \[Greatest Hits\]](https://open.spotify.com/album/6xRbPobv1qhcmANZqL7Txy) | 3:42 |

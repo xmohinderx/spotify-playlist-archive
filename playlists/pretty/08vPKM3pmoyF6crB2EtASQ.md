@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/08vPKM3pmoyF6crB2EtASQ.md) - [plain]
 
 > Sometimes only music can describe that feeling...
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,857 likes - 33 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,860 likes - 33 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/08vPKM3pmoyF6crB2EtASQ.md) - [plain]
 | 25 | [Repeat Pleasure](https://open.spotify.com/track/2z5pZh5P21JzkwJJcM1cez) | [How To Dress Well](https://open.spotify.com/artist/4jLcgJjDGmW0HmvbSf6lEI) | ["What Is This Heart?" \(Deluxe Edition\)](https://open.spotify.com/album/329XZJQ2x2nRNhly1itL49) | 3:35 |
 | 26 | [When You Loved Me Least](https://open.spotify.com/track/54Or9jvM3jWsZPaxEBBP4Y) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [When You Loved Me Least](https://open.spotify.com/album/7zQnwdDRSVpsxQsYC3LBih) | 3:36 |
 | 27 | [Opaque](https://open.spotify.com/track/2JiGBWSNdoZY3LA1NvFrKw) | [Smoke Season](https://open.spotify.com/artist/1WNXj8T5x4LqlHgr1kMIdc) | [Hot Coals Cold Souls](https://open.spotify.com/album/2PsJuf0H17AqYjmZnqmkUA) | 4:31 |
-| 28 | [push pull](https://open.spotify.com/track/6pTfJ82DLrBoTTaKJrFr7R) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [another eternity](https://open.spotify.com/album/4ymjpcGruNuUUUZOeGawLe) | 0:29 |
+| 28 | [push pull](https://open.spotify.com/track/6pTfJ82DLrBoTTaKJrFr7R) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [another eternity](https://open.spotify.com/album/4ymjpcGruNuUUUZOeGawLe) | 3:27 |
 | 29 | [Josephine](https://open.spotify.com/track/2V5vmvIwxqVizuaYJgrmlE) | [RITUAL](https://open.spotify.com/artist/3RP50pmG8Wz1mhNCidQj68), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [From The City To The Wilderness](https://open.spotify.com/album/0S8rucvrE6IF4FClzTndk1) | 4:05 |
 | 30 | [Off Road](https://open.spotify.com/track/3HPMrClJOyhFK4G5WSk3hY) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Off Road](https://open.spotify.com/album/4zpo68xBe58RxIb4gKTgdK) | 3:17 |
 | 31 | [Slacks](https://open.spotify.com/track/01qIefOW1UdSDS1mHoSZ3x) | [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Slacks](https://open.spotify.com/album/7dj1YwKeoOGrhvgQU87qWh) | 3:26 |

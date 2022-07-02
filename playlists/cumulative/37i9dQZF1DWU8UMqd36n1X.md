@@ -4,7 +4,7 @@
 
 > Music from that amazing era\. Cover: Teddy Riley
 
-49 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/3LLczNPMEh351FaOO7FDDn)
+49 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/3LLczNPMEh351FaOO7FDDn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Remember the Time](https://open.spotify.com/track/4jnFqNWeJCeCRHc4HCdxfd) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Dangerous](https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg) | 3:59 | 2021-02-25 |  |
 | [Reminisce](https://open.spotify.com/track/0EWT5JnKOf6saRn4ASff3j) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [What's The 411?](https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2) | 5:23 | 2021-02-25 |  |
 | [Rub You The Right Way](https://open.spotify.com/track/3HGE6Is63CrKHS9DZ26RIO) | [Johnny Gill](https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn) | [Johnny Gill](https://open.spotify.com/album/1I1wFLIuEXMYqQ4fm3NwOo) | 5:33 | 2021-02-25 |  |
-| [She's Mine \(feat\. Pete Rock, C.L\. Smooth & D.J\. Eddie F\)](https://open.spotify.com/track/1Q75FxFg6LPlhtKYB9DOwc) | [Basic Black](https://open.spotify.com/artist/4CZadfC6KxSQMYlwUNL3tY), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2), [C.L\. Smooth](https://open.spotify.com/artist/2i4dJzzPuB6lTP1ZQv9Tfb), [DJ Eddie F](https://open.spotify.com/artist/0IV9m4slFCexbJE15vv4bS) | [Basic Black](https://open.spotify.com/album/3SoRURaEucgHEq6YmBYOdD) | 0:29 | 2021-02-25 |  |
+| [She's Mine \(feat\. Pete Rock, C.L\. Smooth & D.J\. Eddie F\)](https://open.spotify.com/track/1Q75FxFg6LPlhtKYB9DOwc) | [Basic Black](https://open.spotify.com/artist/4CZadfC6KxSQMYlwUNL3tY), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2), [C.L\. Smooth](https://open.spotify.com/artist/2i4dJzzPuB6lTP1ZQv9Tfb), [DJ Eddie F](https://open.spotify.com/artist/0IV9m4slFCexbJE15vv4bS) | [Basic Black](https://open.spotify.com/album/3SoRURaEucgHEq6YmBYOdD) | 3:50 | 2021-02-25 |  |
 | [She's Playing Hard To Get](https://open.spotify.com/track/3xRbymJj98leHL7K8Y94WS) | [Hi\-Five](https://open.spotify.com/artist/0EVUivUkugMtNF09L4QBMH) | [Greatest Hits](https://open.spotify.com/album/50q6yYmQ9Mzk4L95sxGXib) | 4:36 | 2021-02-25 |  |
 | [Somebody For Me](https://open.spotify.com/track/4USWxDtF8lnLTTaQDs2mQa) | [Heavy D & The Boyz](https://open.spotify.com/artist/4KHdmkq99PXA6QEJ2lKpA3) | [Big Tyme](https://open.spotify.com/album/2RDUJixbxpkSdNdDLR4LL8) | 5:03 | 2021-02-25 |  |
 | [Spread My Wings](https://open.spotify.com/track/1b5SISCI3nhthZFcVSLgIF) | [Troop](https://open.spotify.com/artist/5r7mGejWrGSxheAYEIfSwI) | [Attitude](https://open.spotify.com/album/7JejBAyNL3oKVt1tNHLosr) | 5:08 | 2021-02-25 |  |

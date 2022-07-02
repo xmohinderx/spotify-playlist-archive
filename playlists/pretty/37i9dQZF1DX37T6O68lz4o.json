@@ -1,13 +1,29 @@
 {
   "description": "New England music breaking waves. Cover, Bia",
-  "num_followers": 962,
+  "num_followers": 967,
   "original_name": "Ripple Effect: New England",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDg4MzE4NiwwMDAwMDAxYzAwMDAwMTgxNGViOTc3ZTEwMDAwMDE4MDJjM2QzNzg2",
+  "snapshot_id": "MTY1NjY0ODA2MCwwMDAwMDAxZDAwMDAwMTgxYjdlYjRjN2YwMDAwMDE4MDJjM2QzNzg2",
   "tracks": [
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "MIA Freestyle",
+        "url": "https://open.spotify.com/album/4kXVVOTcmOs7kHG9Z5Qow2"
+      },
+      "artists": [
+        {
+          "name": "euro",
+          "url": "https://open.spotify.com/artist/3d9x5nPJE3VL3ngxkZ6aUC"
+        }
+      ],
+      "duration_ms": 131092,
+      "name": "MIA Freestyle",
+      "url": "https://open.spotify.com/track/2DAWd9getY6cG4mpUOBdt4"
+    },
     {
       "added_at": "2022-06-10 17:46:26",
       "album": {
@@ -51,26 +67,6 @@
     {
       "added_at": "2022-06-07 21:56:35",
       "album": {
-        "name": "Demon (feat. Coi Leray)",
-        "url": "https://open.spotify.com/album/4EwRqzafybk4iS0XUBXE9Z"
-      },
-      "artists": [
-        {
-          "name": "B-Lovee",
-          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 122141,
-      "name": "Demon (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/3QB87iPcNT3pNOSqDGQUHG"
-    },
-    {
-      "added_at": "2022-06-07 21:56:35",
-      "album": {
         "name": "HICCUP",
         "url": "https://open.spotify.com/album/3qfGUkYziMf2xqIBwVAZcg"
       },
@@ -99,6 +95,22 @@
       "duration_ms": 167400,
       "name": "Simplicity",
       "url": "https://open.spotify.com/track/3dh3wF8WAbIEdXTIpbisxk"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "This Is Personal",
+        "url": "https://open.spotify.com/album/1qTvju357JrsJkk6oPeZpL"
+      },
+      "artists": [
+        {
+          "name": "Israel Wusu",
+          "url": "https://open.spotify.com/artist/7v9HwZnQWL9zfACSgDqz3f"
+        }
+      ],
+      "duration_ms": 151813,
+      "name": "Say You Love Me",
+      "url": "https://open.spotify.com/track/7jvpSnEPKnHEtplo2uEBrT"
     },
     {
       "added_at": "2022-04-15 08:01:02",
@@ -233,6 +245,38 @@
       "url": "https://open.spotify.com/track/36aRN8cZQOsNCzflng8p4u"
     },
     {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "A Love Story",
+        "url": "https://open.spotify.com/album/3hz0T3PvNrvMPaTCh1XehM"
+      },
+      "artists": [
+        {
+          "name": "Aura",
+          "url": "https://open.spotify.com/artist/5bfbqVepB9jL5gBANS74iU"
+        }
+      ],
+      "duration_ms": 109480,
+      "name": "flip phone freestyle",
+      "url": "https://open.spotify.com/track/1VEu96fRp4ntbFJv3fwg37"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Self Titled (Deluxe)",
+        "url": "https://open.spotify.com/album/1xuZ8Fe3CLodBRGOEO5yce"
+      },
+      "artists": [
+        {
+          "name": "Theo Martins",
+          "url": "https://open.spotify.com/artist/0tjTmItQq8Eo1hsVvOf83D"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Where you'll find me - demo take 1",
+      "url": "https://open.spotify.com/track/1cjhbtVsKkrCuYReLsBVBA"
+    },
+    {
       "added_at": "2021-10-08 03:57:21",
       "album": {
         "name": "BLACK WALL STREET",
@@ -339,22 +383,6 @@
       "duration_ms": 99875,
       "name": "Misfire",
       "url": "https://open.spotify.com/track/74dMp1Nj1tuhZDHPbmYjCK"
-    },
-    {
-      "added_at": "2022-05-13 20:20:24",
-      "album": {
-        "name": "Home Runs",
-        "url": "https://open.spotify.com/album/7BtWzviA4kgRwdOI9I1Vzk"
-      },
-      "artists": [
-        {
-          "name": "Theo Martins",
-          "url": "https://open.spotify.com/artist/0tjTmItQq8Eo1hsVvOf83D"
-        }
-      ],
-      "duration_ms": 293142,
-      "name": "Balloons",
-      "url": "https://open.spotify.com/track/47b2XVQ10Jor3O72vv8Sd8"
     },
     {
       "added_at": "2022-04-29 17:40:05",
@@ -515,22 +543,6 @@
       "duration_ms": 128548,
       "name": "Mean It",
       "url": "https://open.spotify.com/track/3OlEg3GUNv4nzGlffycGcn"
-    },
-    {
-      "added_at": "2022-06-10 17:46:26",
-      "album": {
-        "name": "Dear, Summer - EP",
-        "url": "https://open.spotify.com/album/0vRZEZmQpdrvshqftT5aaj"
-      },
-      "artists": [
-        {
-          "name": "C. Wells",
-          "url": "https://open.spotify.com/artist/4gfQutFlhH2GGtixg1ItOw"
-        }
-      ],
-      "duration_ms": 138057,
-      "name": "Do What I Do",
-      "url": "https://open.spotify.com/track/1oErEfQjPxgmOz6KbqnN0O"
     },
     {
       "added_at": "2022-04-29 17:40:05",
@@ -765,22 +777,6 @@
       "url": "https://open.spotify.com/track/6iukxcu5Y6aDNlWomndA3u"
     },
     {
-      "added_at": "2022-04-15 08:01:02",
-      "album": {
-        "name": "Dancing With The Devil",
-        "url": "https://open.spotify.com/album/6gRCG7vCuYBYdyZozqP663"
-      },
-      "artists": [
-        {
-          "name": "Y Gizzle",
-          "url": "https://open.spotify.com/artist/2NrmxpPJ1YPMkidYYckQVT"
-        }
-      ],
-      "duration_ms": 165631,
-      "name": "Cold Heart",
-      "url": "https://open.spotify.com/track/1lmKuhfpjHbnV0JMsmSOBo"
-    },
-    {
       "added_at": "2022-06-07 21:56:35",
       "album": {
         "name": "R U KIDDING ME ?",
@@ -864,7 +860,7 @@
           "url": "https://open.spotify.com/artist/2L9BuG9iW0jm6Sm1bSSvzM"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 194538,
       "name": "CONVERSATIONS WITH THE PLUG",
       "url": "https://open.spotify.com/track/7EyDWblggvlq72t9uegWtt"
     },
@@ -885,20 +881,24 @@
       "url": "https://open.spotify.com/track/68BtzrEvjP4CBIin4NLvKy"
     },
     {
-      "added_at": "2022-06-07 21:56:35",
+      "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Slim",
-        "url": "https://open.spotify.com/album/0isUqQR3p0qSVcO4kejjdh"
+        "name": "Ride with It",
+        "url": "https://open.spotify.com/album/4Gel07KlTobHtai7UYKEWy"
       },
       "artists": [
         {
-          "name": "Najee Janey",
-          "url": "https://open.spotify.com/artist/2whc6gja7yTVsL7EqWEQnF"
+          "name": "Olmighty",
+          "url": "https://open.spotify.com/artist/55JFBiX0i7zEeoN9jovS0R"
+        },
+        {
+          "name": "Tmoney Jasi1time",
+          "url": "https://open.spotify.com/artist/7qcEJUYsaXlslD6u0SXa8u"
         }
       ],
-      "duration_ms": 145822,
-      "name": "Slim",
-      "url": "https://open.spotify.com/track/3CLYermBjfGLEGBC9vg4aO"
+      "duration_ms": 192078,
+      "name": "Ride with It",
+      "url": "https://open.spotify.com/track/2c9nlnWbw7xCv9ggxzkLiP"
     }
   ],
   "unique_name": "Ripple Effect: New England",

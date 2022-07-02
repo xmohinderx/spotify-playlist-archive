@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 
 > Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,778 likes - 134 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,141 likes - 134 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 | 49 | [Snap Shoot](https://open.spotify.com/track/6Ow2fTmMI6T7LeOUznHBAm) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [An Ode](https://open.spotify.com/album/4btxaakgIaE1AkXqpReLwd) | 2:55 |
 | 50 | [HEY BUDDY](https://open.spotify.com/track/1hd8IgMElWy3OqcFVjZMUx) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [; \[Semicolon\]](https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL) | 3:18 |
 | 51 | [24H](https://open.spotify.com/track/3gAR6cBifLqbW8kOrMqZPr) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [24H](https://open.spotify.com/album/24Uj6VdVytaReqt1KJWxfc) | 3:08 |
-| 52 | [CALL CALL CALL!](https://open.spotify.com/track/28teoB4Tqk3Oh3YrLnM4uh) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [WE MAKE YOU](https://open.spotify.com/album/3Rbfzy3NnA4k4zchrKla4v) | 0:29 |
+| 52 | [CALL CALL CALL!](https://open.spotify.com/track/28teoB4Tqk3Oh3YrLnM4uh) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [WE MAKE YOU](https://open.spotify.com/album/3Rbfzy3NnA4k4zchrKla4v) | 3:19 |
 | 53 | [Good to Me](https://open.spotify.com/track/2ujZatFh8uZMkiBTu2z7AH) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 6TH MINI ALBUM 'YOU MADE MY DAWN'](https://open.spotify.com/album/1Or4crj0DlitdTRp36TjnT) | 3:09 |
 | 54 | [AH! LOVE](https://open.spotify.com/track/5TgfB8nBnuKaytBbjmrzO7) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [; \[Semicolon\]](https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL) | 3:14 |
 | 55 | [My My](https://open.spotify.com/track/2ofZmsQptNzgUfmbNlnPYI) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3tWstxfjHMtqt2ZsRvhlYy) | 3:05 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 | 69 | [Lie Again](https://open.spotify.com/track/3LUwHkWsx9iljzZyqwWBHc) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [An Ode](https://open.spotify.com/album/4btxaakgIaE1AkXqpReLwd) | 3:20 |
 | 70 | [TRAUMA](https://open.spotify.com/track/6MEsfQJ5ZpO1WozVfsVDzZ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 2ND ALBUM 'TEEN, AGE'](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:33 |
 | 71 | [乌鸦](https://open.spotify.com/track/6b8uuOryGyZt9K3ELL3TjB) | [文俊辉](https://open.spotify.com/artist/38Gn0ZVC8TQwuaMxBK1yRV) | [寂寞号登机口](https://open.spotify.com/album/4h6gy2C01BXJWsD3KuZFod) | 5:02 |
-| 72 | [Q&A](https://open.spotify.com/track/1pHCzbRvRFg59Kvc7WHckN) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Q&A](https://open.spotify.com/album/4qpCDSbJiez1wPcplEv2ET) | 0:29 |
+| 72 | [Q&A](https://open.spotify.com/track/1pHCzbRvRFg59Kvc7WHckN) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Q&A](https://open.spotify.com/album/4qpCDSbJiez1wPcplEv2ET) | 3:40 |
 | 73 | [9\-TEEN](https://open.spotify.com/track/5G5MW3CIQ26AV08Yl7UV6m) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [A\-TEEN2 Part.2](https://open.spotify.com/album/3U2CtLGvuiukljwO8rPoVk) | 3:17 |
 | 74 | [Pinwheel](https://open.spotify.com/track/2NvrIHgujKttUQyx2uUMY9) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 2ND ALBUM 'TEEN, AGE'](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:39 |
 | 75 | [Flower](https://open.spotify.com/track/3wIDLZ8nEHeyxSrVJsD6tv) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 2ND ALBUM 'TEEN, AGE'](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:27 |

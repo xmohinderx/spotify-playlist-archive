@@ -4,14 +4,14 @@
 
 > 
 
-20 songs - 1 hr 2 min - [published](https://open.spotify.com/playlist/44XJQkzIwjZrMA7OaZDl5u)
+20 songs - 1 hr 4 min - [published](https://open.spotify.com/playlist/44XJQkzIwjZrMA7OaZDl5u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24/Seven](https://open.spotify.com/track/6FkX1akf4mwRZSznL73kDR) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [24/seven](https://open.spotify.com/album/2G4kkolVlo7QhPFcIvlda9) | 3:09 | 2013-06-28 |  |
 | [A Billion Hits](https://open.spotify.com/track/2nTBTPGYLra1MLnrZ4i4CY) | [Austin Moon](https://open.spotify.com/artist/1eBGyqw9kLsidL0q2dimWF) | [Austin & Ally](https://open.spotify.com/album/4d65jQefqOs6KWxqCT6VVF) | 3:09 | 2013-06-28 |  |
 | [Bad Day](https://open.spotify.com/track/2reurw2Op0sFSd5iD4wsB6) | [Alvin & The Chipmunks](https://open.spotify.com/artist/1SCWcYnoEh1978ycTDhZoW) | [Alvin & The Chipmunks / OST](https://open.spotify.com/album/5ZtqEmMQTZMsWcTgPlYfiV) | 3:33 | 2013-06-28 |  |
-| [Banana](https://open.spotify.com/track/6nNI7zCfOv7pgphR6lnAQ7) | [The Aggrolites](https://open.spotify.com/artist/5tdgsoMr7dIrcVUVauzuvM) | [Yo Gabba Gabba! Music Is Awesome! Volume 3](https://open.spotify.com/album/3eh8VNKJsgYGusXRCPBqBy) | 0:29 | 2013-06-28 |  |
+| [Banana](https://open.spotify.com/track/6nNI7zCfOv7pgphR6lnAQ7) | [The Aggrolites](https://open.spotify.com/artist/5tdgsoMr7dIrcVUVauzuvM) | [Yo Gabba Gabba! Music Is Awesome! Volume 3](https://open.spotify.com/album/3eh8VNKJsgYGusXRCPBqBy) | 2:22 | 2013-06-28 |  |
 | [Breaking Free](https://open.spotify.com/track/7gF9RfiO8nBhFhBkLuiUrb) | [Troy](https://open.spotify.com/artist/6zTbBugfNc95zo8ClFDhIn), [Gabriella](https://open.spotify.com/artist/0GyAZiIV45rnBBf4KdGLS7), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical Original Soundtrack](https://open.spotify.com/album/1gquVtfIDwZKamEZtJL8qe) | 3:27 | 2013-06-28 |  |
 | [Cheetah Love](https://open.spotify.com/track/7rUvQpIKZluigUx7hvQue5) | [The Cheetah Girls](https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY) | [One World](https://open.spotify.com/album/6WxSyVYrnhBnbIOfPYd0Vx) | 3:14 | 2013-06-28 |  |
 | [Contagious Love](https://open.spotify.com/track/2Lzk2TJX2UGGNqQAkB3Y9M) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs), [Bella Thorne](https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX) | [Shake It Up: I <3 Dance](https://open.spotify.com/album/57Cd64D2RrJf4NOVlwgn4O) | 2:15 | 2013-06-28 |  |

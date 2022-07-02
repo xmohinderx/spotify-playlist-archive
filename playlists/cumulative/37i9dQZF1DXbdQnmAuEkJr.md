@@ -4,7 +4,7 @@
 
 > Un viaje al país del amor a través de sus canciones más hermosas.
 
-70 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/4sVhpXSOjw8xtSawtZABe0)
+70 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/4sVhpXSOjw8xtSawtZABe0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [La vénus du mélo](https://open.spotify.com/track/4IJcZGJbZy0FQEC7oNnfVg) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Raconte\-Moi](https://open.spotify.com/album/1ilGPKSMrPIiY2vswYIEmR) | 3:47 | 2021-10-13 |  |
 | [Le bonheur](https://open.spotify.com/track/4V540eGeHM6c2QrUjItLvI) | [Berry](https://open.spotify.com/artist/3lKHlBiM6NdmkAOvlpoTyp) | [Mademoiselle](https://open.spotify.com/album/0nJQlZ0PBl7U9NzoNW4lw4) | 3:17 | 2021-10-13 |  |
 | [Le petit guépard](https://open.spotify.com/track/7soGbFgMlGBOulL0pEb6GG) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Le petit guépard](https://open.spotify.com/album/1U2odX1aLIb1lFHblHeUPA) | 2:58 | 2021-10-13 |  |
-| [Les amants parallèles](https://open.spotify.com/track/4Gxptq1UR22gsacCxBqBtg) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [Les amants parallèles](https://open.spotify.com/album/1UfQSmht8aSAH9so8AHQ40) | 0:29 | 2021-10-13 |  |
+| [Les amants parallèles](https://open.spotify.com/track/4Gxptq1UR22gsacCxBqBtg) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [Les amants parallèles](https://open.spotify.com/album/1UfQSmht8aSAH9so8AHQ40) | 1:40 | 2021-10-13 |  |
 | [Les Deux Printemps](https://open.spotify.com/track/0Nic6UN7Gkmc0KEGZeD5lL) | [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [Quatre Saisons Dans Le Désordre](https://open.spotify.com/album/5bbkmESAWYp9QuMzLCLpbe) | 3:14 | 2021-10-13 |  |
 | [Les eaux de mars](https://open.spotify.com/track/3ePsmfhb7hduvnDadoNNyi) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Raconte\-Moi](https://open.spotify.com/album/1ilGPKSMrPIiY2vswYIEmR) | 3:38 | 2021-10-13 |  |
 | [Les jeux interdits](https://open.spotify.com/track/44qefuWGfLohrFQp8GbK2N) | [Jane Birkin](https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5) | [Les jeux interdits](https://open.spotify.com/album/1x5DkSA6fYIIpzDH3iYR2L) | 3:12 | 2021-10-13 |  |
@@ -56,11 +56,11 @@
 | [On va s'aimer encore](https://open.spotify.com/track/3rxHqfRwEgzGogEXZi8vRU) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Le monde tourne fort](https://open.spotify.com/album/3EOba5FWaiKDItcFsJUqBd) | 4:18 | 2021-10-13 |  |
 | [Oublie pas](https://open.spotify.com/track/1mDbWDkzeT50OIsGPK5FY8) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Saratoga](https://open.spotify.com/album/5HiUleHNA5jKXSzfoN65OB) | 4:57 | 2021-10-13 |  |
 | [P'tit cœur](https://open.spotify.com/track/3XDpOcUKwlJkJQyI0KPXCZ) | [Les Ogres De Barback](https://open.spotify.com/artist/3avSMklPuyXhcT5Smt1h7G) | [Amours grises & colères rouges](https://open.spotify.com/album/5I4dgah2issnwrQ3fb9vKX) | 4:25 | 2021-10-13 |  |
-| [Petite fleur](https://open.spotify.com/track/6Xy0TKhM0Ytjt65QuVEN67) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chansons](https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp) | 0:29 | 2021-10-13 |  |
+| [Petite fleur](https://open.spotify.com/track/6Xy0TKhM0Ytjt65QuVEN67) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chansons](https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp) | 2:43 | 2021-10-13 |  |
 | [Pour que tu m'aimes encore](https://open.spotify.com/track/5iUdu5DddFwvqmnwL0nOBI) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Pour que tu m'aimes encore](https://open.spotify.com/album/7F0oYlWbXKjecsCJS9wUMW) | 4:48 | 2021-10-13 |  |
 | [Pourquoi pleures\-tu ?](https://open.spotify.com/track/1M6DskAStbwyACr5Pxpq0I) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [Pourquoi tu pleures ? \(Musiques et chansons inspirées du film\)](https://open.spotify.com/album/4YZHmg5LPTX47UFkG3xIH5) | 2:22 | 2021-10-13 |  |
 | [Quand j'aime une fois j'aime pour toujours](https://open.spotify.com/track/40PuSCcS6qI3J9iEJeP3od) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Desjardins](https://open.spotify.com/album/2VPoXJSzpdtKp5VTrds7XC) | 3:24 | 2021-10-13 |  |
-| [Que c'est triste Venise](https://open.spotify.com/track/5paHM9dgKmjUGy8n7HufaH) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Que c'est triste Venise \(Remastered 2014\)](https://open.spotify.com/album/0wcD2yLF9h3i41ryKQpgmK) | 0:29 | 2021-10-13 |  |
+| [Que c'est triste Venise](https://open.spotify.com/track/5paHM9dgKmjUGy8n7HufaH) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Que c'est triste Venise \(Remastered 2014\)](https://open.spotify.com/album/0wcD2yLF9h3i41ryKQpgmK) | 2:37 | 2021-10-13 |  |
 | [Quelqu'un m'a dit](https://open.spotify.com/track/5lIOhDGfy2lQJWWwxBm8L4) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Quelqu'un m'a dit](https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k) | 2:48 | 2021-10-13 |  |
 | [Quelque chose](https://open.spotify.com/track/45UVzUVdOmTXVkkaGp0eeG) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [quelque chose](https://open.spotify.com/album/3RrD5guMYGrFPfq73qG1qB) | 2:45 | 2021-10-13 |  |
 | [Rien que l’extase](https://open.spotify.com/track/1Cx1DQg6r4nj52EeQMNOBw) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Carla Bruni \(Deluxe\)](https://open.spotify.com/album/4MSaeFSXAUFD7x4OmVhuhN) | 3:22 | 2021-10-13 |  |

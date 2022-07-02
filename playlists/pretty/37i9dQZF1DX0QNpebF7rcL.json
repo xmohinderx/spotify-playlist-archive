@@ -1,12 +1,12 @@
 {
   "description": "The best in blues right now. Cover: Fantastic Negrito",
-  "num_followers": 38267,
+  "num_followers": 38293,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA0MzMyMCwwMDAwMDA1MDAwMDAwMTgxOTNkZmIzMjcwMDAwMDE4MTFiN2I3YTAw",
+  "snapshot_id": "MTY1NjY0ODEyMCwwMDAwMDA1MTAwMDAwMTgxYjdlYzM3NTQwMDAwMDE4MTFiN2I3YTAw",
   "tracks": [
     {
       "added_at": "2022-06-24 04:02:00",
@@ -89,6 +89,22 @@
       "url": "https://open.spotify.com/track/0RGaAfyeo6VspXL6eK3l4l"
     },
     {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "I'm Just Getting Started!",
+        "url": "https://open.spotify.com/album/2Pd2hfBHc4OaM4ZEtBgaoZ"
+      },
+      "artists": [
+        {
+          "name": "Mick Kolassa",
+          "url": "https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG"
+        }
+      ],
+      "duration_ms": 159886,
+      "name": "I'm Just Getting Started!",
+      "url": "https://open.spotify.com/track/17v5PPcGy8FSN4n9xnKpUd"
+    },
+    {
       "added_at": "2022-06-03 04:02:00",
       "album": {
         "name": "Feel Like Going Home",
@@ -156,7 +172,7 @@
           "url": "https://open.spotify.com/artist/5s2RlLSGQMDvvQcv3dYtAB"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 241480,
       "name": "Still The World Goes Round",
       "url": "https://open.spotify.com/track/6NC8TahwAZKURe6EolCBOv"
     },
@@ -392,7 +408,7 @@
           "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 155336,
       "name": "Stagger Lee",
       "url": "https://open.spotify.com/track/64H0CzxFjc1Dz3F3E1oWi5"
     },
@@ -536,7 +552,7 @@
           "url": "https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 207000,
       "name": "Why You Wanna Make War - English Version",
       "url": "https://open.spotify.com/track/4yB81Xy4lvmharZ5qr7LVT"
     },
@@ -1321,22 +1337,6 @@
       "url": "https://open.spotify.com/track/1OojhoKnIxYreWCblSWZ4R"
     },
     {
-      "added_at": "2021-07-02 04:01:00",
-      "album": {
-        "name": "Wild Women Don't Have the Blues",
-        "url": "https://open.spotify.com/album/3ogvLt5LN9StFxlrOVqnqx"
-      },
-      "artists": [
-        {
-          "name": "Dani Wilde",
-          "url": "https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB"
-        }
-      ],
-      "duration_ms": 218163,
-      "name": "Wild Women Don't Have the Blues",
-      "url": "https://open.spotify.com/track/7FEKQ8ypfcwp970Bzgp7F3"
-    },
-    {
       "added_at": "2021-07-16 04:01:00",
       "album": {
         "name": "Resurrection",
@@ -1348,7 +1348,7 @@
           "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 383360,
       "name": "When It Rains",
       "url": "https://open.spotify.com/track/18CdYKjbXZQ1UYpkVUqlin"
     },

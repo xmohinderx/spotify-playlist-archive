@@ -4,7 +4,7 @@
 
 > Latest and biggest tracks from Jamaica's Dancehall scene\. Cover: Skeng
 
-50 songs - 2 hr 32 min - [published](https://open.spotify.com/playlist/5CCqycT3xKUm1yqlOpRcRl)
+50 songs - 2 hr 35 min - [published](https://open.spotify.com/playlist/5CCqycT3xKUm1yqlOpRcRl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Chosen](https://open.spotify.com/track/0n81yw2IFUG6imbKQbd1hT) | [Rytikal](https://open.spotify.com/artist/2XmUEusYfpe4UG5BJtRwgX) | [Chosen](https://open.spotify.com/album/3m0ma3GvTHyf5Ia1g69awi) | 4:33 | 2021-10-20 |  |
 | [Clip Tall](https://open.spotify.com/track/739LurvLBsXBgJJBLZzm27) | [IWaata](https://open.spotify.com/artist/2xtVXoJRIMnX1UAmOCrHrB) | [Clip Tall](https://open.spotify.com/album/5GZgcPNrrneDbjmPceY1kR) | 2:52 | 2021-10-20 |  |
 | [Condensed Milk](https://open.spotify.com/track/0vdsBH9VEZnOaFRzz0wYQP) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Condensed Milk](https://open.spotify.com/album/7lk8DbGwZWNkHcNPg9cFUQ) | 3:13 | 2021-10-20 |  |
-| [Cree](https://open.spotify.com/track/0NyKyA4P2zi6irhUYh45MR) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [Cree](https://open.spotify.com/album/4yd4HKsNGqdoNVnVNbe8Zt) | 0:29 | 2021-10-20 |  |
+| [Cree](https://open.spotify.com/track/0NyKyA4P2zi6irhUYh45MR) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [Cree](https://open.spotify.com/album/4yd4HKsNGqdoNVnVNbe8Zt) | 3:06 | 2021-10-20 |  |
 | [Dior Kicks](https://open.spotify.com/track/4r07a9L5IDW5l68WfzOAed) | [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh), [BL Tha Hook Slaya](https://open.spotify.com/artist/7fNtLOQqt7xawYGAVMt4DJ), [Skirdle Sparta](https://open.spotify.com/artist/6ipyegbx9d7n8iGBmDtw0n) | [Dior Kicks](https://open.spotify.com/album/3LUDwZHFWsZSn9s23RKUNt) | 3:27 | 2021-10-20 |  |
 | [Dirt Bounce](https://open.spotify.com/track/2v8fm0qBLnk7y9s7AylvaU) | [Laa Lee](https://open.spotify.com/artist/4cb3HigJCNGP3rcRhVbYwS) | [Dirt Bounce](https://open.spotify.com/album/1m4lFc3r7VV0V0OSJ4NEAf) | 2:56 | 2021-10-20 |  |
 | [Don't Play with Me](https://open.spotify.com/track/3XIZmcWXwjvPv1bUgz6qj7) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Don't Play with Me](https://open.spotify.com/album/7h9p1vEitLwJgfA0V78Erz) | 2:59 | 2021-10-20 |  |

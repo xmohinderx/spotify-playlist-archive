@@ -4,7 +4,7 @@
 
 > 
 
-50 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/1js9GIIQaAQ7JG7OAFOete)
+50 songs - 3 hr 40 min - [published](https://open.spotify.com/playlist/1js9GIIQaAQ7JG7OAFOete)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Honey](https://open.spotify.com/track/33SWpfAzf61K2lk4pwth92) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [\#1's](https://open.spotify.com/album/4gWPIB6d0O4LxfIIodAwkR) | 4:58 | 2013-06-27 |  |
 | [How Do I Live](https://open.spotify.com/track/5VJlvaPufnazmTvt2sHQqc) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Greatest Hits](https://open.spotify.com/album/6mcwghwWeSp1Ol1IpsYDOM) | 4:26 | 2013-06-27 |  |
 | [Hypnotize](https://open.spotify.com/track/1oLIBuedMjAbHlO4WTGJi3) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Life After Death](https://open.spotify.com/album/4oVdpzxBJM1KrBm9cjyye7) | 3:57 | 2013-06-27 |  |
-| [I Believe I Can Fly](https://open.spotify.com/track/0AIfr4oi192dWLRJZrRz1O) | [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ) | [The R\. In R&B Collection: Volume 1](https://open.spotify.com/album/0mfaOc6KL6Kak3DYUyjNVl) | 0:29 | 2013-06-27 |  |
+| [I Believe I Can Fly](https://open.spotify.com/track/0AIfr4oi192dWLRJZrRz1O) | [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ) | [The R\. In R&B Collection: Volume 1](https://open.spotify.com/album/0mfaOc6KL6Kak3DYUyjNVl) | 5:20 | 2013-06-27 |  |
 | [I Believe in You and Me \- Record Version](https://open.spotify.com/track/1iQWeGjJ1FQBQFLVK0ct9e) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I Will Always Love You: The Best Of Whitney Houston](https://open.spotify.com/album/1rHNR6cz7WzrGmuqL9Wlyq) | 3:52 | 2013-06-27 |  |
 | [I Belong To You \(Every Time I See Your Face\)](https://open.spotify.com/track/1nP6feYWJVpbO41aezFtm2) | [Rome](https://open.spotify.com/artist/6KcJMeHZr0A6XHwAwlmfef) | [Rome](https://open.spotify.com/album/4ol8aChmHBMIL85LzG10ja) | 4:33 | 2013-06-27 |  |
 | [I Want You](https://open.spotify.com/track/3XorCFmcupSm5QS6hA9g4N) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4) | 3:52 | 2013-06-27 |  |
@@ -44,7 +44,7 @@
 | [MMMBop](https://open.spotify.com/track/0YYbQESOOReEZjVzbYJtMC) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [MmmBop : The Collection](https://open.spotify.com/album/3Yv1iUvF60SaPmxJoCQc5r) | 4:27 | 2013-06-27 |  |
 | [Mo Money Mo Problems \(feat\. Mase & Puff Daddy\)](https://open.spotify.com/track/2XncSBceg7BwEpbWVI6FLi) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [Life After Death](https://open.spotify.com/album/4oVdpzxBJM1KrBm9cjyye7) | 4:17 | 2013-06-27 |  |
 | [Mouth](https://open.spotify.com/track/2uWBgF1sPF8dSiig3ksgXZ) | [Merril Bainbridge](https://open.spotify.com/artist/0lSDlT2Z5EvUGNIl7WQ7k0) | [Radio Waves of the '90s: Pop Hits](https://open.spotify.com/album/2na3fS7r06IGua9sGMpCun) | 3:24 | 2013-06-27 |  |
-| [My Love Is the Shhh!](https://open.spotify.com/track/3TS25nchaYIPb2Y2fw6cbb) | [Somethin' For The People](https://open.spotify.com/artist/1Hu56IprUt6GltqTkpvguI) | [This Time It's Personal](https://open.spotify.com/album/7H9HgzKgHs2Bb5BM6tmXE3) | 0:29 | 2013-06-27 |  |
+| [My Love Is the Shhh!](https://open.spotify.com/track/3TS25nchaYIPb2Y2fw6cbb) | [Somethin' For The People](https://open.spotify.com/artist/1Hu56IprUt6GltqTkpvguI) | [This Time It's Personal](https://open.spotify.com/album/7H9HgzKgHs2Bb5BM6tmXE3) | 4:41 | 2013-06-27 |  |
 | [No Diggity](https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ) | [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Queen Pen](https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr) | [Another Level](https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi) | 5:04 | 2013-06-27 |  |
 | [Nobody \(feat\. Athena Cage\)](https://open.spotify.com/track/4SF1747p541umnykBp352Q) | [Keith Sweat](https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m), [Athena Cage](https://open.spotify.com/artist/2kqVmaPdvLEcfaT9oibK27) | [Keith Sweat](https://open.spotify.com/album/0BzXvdpUKDEk612hLc6rZV) | 4:24 | 2013-06-27 |  |
 | [Not Tonight](https://open.spotify.com/track/1vMdYJe6OweG41UjDzEYe8) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Hard Core](https://open.spotify.com/album/39xHAZmTUSQJyXt6ebpjKT) | 4:31 | 2013-06-27 |  |

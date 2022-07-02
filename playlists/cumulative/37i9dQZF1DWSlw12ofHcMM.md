@@ -4,7 +4,7 @@
 
 > Bold tracks packing some serious swagger...
 
-111 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/1mwIOAyn3PtAgQdJFJ2Psa)
+111 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/1mwIOAyn3PtAgQdJFJ2Psa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Stand For Myself](https://open.spotify.com/track/1S8NRzYfxtEDce2hEI80af) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/0cQJAAGTwnKJCz4FKLmooz) | 4:13 | 2021-11-19 |  |
 | [Stomp](https://open.spotify.com/track/0eImrDDpQTEuHF0NBqmrei) | [The Stone Foxes](https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t) | [Bears & Bulls](https://open.spotify.com/album/790mhPtbtIdMDRdZM3Jimz) | 1:50 | 2021-11-19 |  |
 | [Take The Journey](https://open.spotify.com/track/3cGblMVSNAG6UgIsro3kQ0) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [When You're Ready](https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV) | 2:42 | 2021-11-19 |  |
-| [Tell That Devil](https://open.spotify.com/track/4wU4XL8nX0we6MXgmFAmnh) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Tell That Devil](https://open.spotify.com/album/4SUzxP2sBgdjiogiNlbSaw) | 0:29 | 2021-11-19 |  |
+| [Tell That Devil](https://open.spotify.com/track/4wU4XL8nX0we6MXgmFAmnh) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Tell That Devil](https://open.spotify.com/album/4SUzxP2sBgdjiogiNlbSaw) | 2:38 | 2021-11-19 |  |
 | [The Prowl](https://open.spotify.com/track/6KmSpuVSuYBvut7zb1e0ys) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Keep It Hid](https://open.spotify.com/album/1aS3ouxrqC2xAjR5LJku6M) | 3:16 | 2021-11-19 |  |
 | [The Way I Do](https://open.spotify.com/track/60DjyiAXyLzZpDjdOWFQEc) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [The Way I Do](https://open.spotify.com/album/1hoDdW5RmBvRbdR6yD4krb) | 4:03 | 2021-11-19 |  |
 | [Trouble Finds You](https://open.spotify.com/track/1gwDIyATjLVi42oBsyUgyJ) | [Juliet Simms](https://open.spotify.com/artist/1hlXIybvN1I8r3ooBEkYRh) | [From the Grave](https://open.spotify.com/album/5DZwggP6PDtv9VMkAmpAsD) | 3:35 | 2021-11-19 |  |

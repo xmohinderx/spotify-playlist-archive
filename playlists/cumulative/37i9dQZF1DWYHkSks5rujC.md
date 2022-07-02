@@ -4,7 +4,7 @@
 
 > A journey through The Beatles' career.
 
-45 songs - 1 hr 57 min - [published](https://open.spotify.com/playlist/2vH7QFejVO1fA3pMsde2oG)
+45 songs - 2 hr 14 min - [published](https://open.spotify.com/playlist/2vH7QFejVO1fA3pMsde2oG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Baby It's You \- Remastered](https://open.spotify.com/track/5gnrZoSS7nbDYtHp32RFiI) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/7gDXyW16byCQOgK965BRzn) | 2:40 | 2019-06-28 |  |
 | [Can't Buy Me Love \- Remastered 2015](https://open.spotify.com/track/7pQAq14Z73YUFMtxCyt0bG) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/5ju5Ouzan3QwXqQt1Tihbh) | 2:11 | 2019-06-28 |  |
 | [Come Together \- Remastered](https://open.spotify.com/track/0MKqeOVdZcUFGJvWpGCKbG) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd) | 4:19 | 2019-06-28 |  |
-| [Dear Prudence \- 2018 Mix](https://open.spotify.com/track/21pC0RPgkThjHlwpmCtxGb) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles](https://open.spotify.com/album/1WMVvswNzB9i2UMh9svso5) | 0:29 | 2019-06-28 |  |
+| [Dear Prudence \- 2018 Mix](https://open.spotify.com/track/21pC0RPgkThjHlwpmCtxGb) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles](https://open.spotify.com/album/1WMVvswNzB9i2UMh9svso5) | 3:54 | 2019-06-28 |  |
 | [Drive My Car \- Remastered](https://open.spotify.com/track/02wfEb4PyvM4XvsqDNtqVm) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/3OdI6e43crvyAHhaqpxSyz) | 2:28 | 2019-06-28 |  |
 | [Eight Days A Week \- Remastered](https://open.spotify.com/track/2B3ArhTa6DRox1W4CJZ1dM) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Beatles For Sale \(Remastered\)](https://open.spotify.com/album/7BgGBZndAvDlKOcwe5rscZ) | 2:43 | 2019-06-28 |  |
 | [Everybody's Got Something To Hide Except Me And My Monkey \- Remastered](https://open.spotify.com/track/0fDmdWRuV1mWwfn1NaoE67) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/03Qh833fEdVT30Pfs93ea6) | 2:24 | 2019-06-28 |  |
@@ -35,7 +35,7 @@
 | [Norwegian Wood \(This Bird Has Flown\) \- Remastered](https://open.spotify.com/track/4DE42oDol0KHxympBsaiYu) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/3OdI6e43crvyAHhaqpxSyz) | 2:04 | 2019-06-28 |  |
 | [Nowhere Man \- Remastered](https://open.spotify.com/track/1OpY6W5UY8xkfrnl3hlMJy) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/3OdI6e43crvyAHhaqpxSyz) | 2:43 | 2019-06-28 |  |
 | [Please Please Me \- Mono / Remastered](https://open.spotify.com/track/2Ekx8lzXbAh5KNyOvmmjH5) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1962 \- 1966 \(Remastered\)](https://open.spotify.com/album/3rCxVyqwgJlkqL8z2dZdHh) | 2:01 | 2019-06-28 |  |
-| [Revolution 9 \- 2018 Mix](https://open.spotify.com/track/6FQkfaghoLt72rLmhsAqFy) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles](https://open.spotify.com/album/1WMVvswNzB9i2UMh9svso5) | 0:29 | 2019-06-28 |  |
+| [Revolution 9 \- 2018 Mix](https://open.spotify.com/track/6FQkfaghoLt72rLmhsAqFy) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles](https://open.spotify.com/album/1WMVvswNzB9i2UMh9svso5) | 8:20 | 2019-06-28 |  |
 | [Rock And Roll Music \- Remastered](https://open.spotify.com/track/1Bx4cgnLSOTS5heoB2sIrb) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Beatles For Sale \(Remastered\)](https://open.spotify.com/album/7BgGBZndAvDlKOcwe5rscZ) | 2:31 | 2019-06-28 |  |
 | [Roll Over Beethoven \- Remastered](https://open.spotify.com/track/5cRyBkxNi0EWEY6fZyPWnh) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [With The Beatles \(Remastered\)](https://open.spotify.com/album/3nkEsxmIX0zRNXGAexaHAn) | 2:45 | 2019-06-28 |  |
 | [She Loves You \- Mono / Remastered](https://open.spotify.com/track/7zmMlHeeN2DW8D8aKQYC0i) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1962 \- 1966 \(Remastered\)](https://open.spotify.com/album/3rCxVyqwgJlkqL8z2dZdHh) | 2:22 | 2019-06-28 |  |
@@ -46,8 +46,8 @@
 | [Ticket To Ride \- Remastered](https://open.spotify.com/track/2zO5cQdHLBOPlnQqWeNCFM) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Help! \(Remastered\)](https://open.spotify.com/album/19K3IHYeVkUTjcBHGfbCOi) | 3:09 | 2019-06-28 |  |
 | [Till There Was You \- Remastered](https://open.spotify.com/track/4w52uloVZcKSDRXB73Pi66) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [With The Beatles \(Remastered\)](https://open.spotify.com/album/3nkEsxmIX0zRNXGAexaHAn) | 2:13 | 2019-06-28 |  |
 | [Twist And Shout \- Remastered](https://open.spotify.com/track/4Z1fbYp0HuxLBje4MOZcSD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/7gDXyW16byCQOgK965BRzn) | 2:35 | 2019-06-28 |  |
-| [While My Guitar Gently Weeps \- 2018 Mix](https://open.spotify.com/track/0ZqSsO2xoVvcrhpiRuqCmt) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles](https://open.spotify.com/album/1WMVvswNzB9i2UMh9svso5) | 0:29 | 2019-06-28 |  |
-| [Why Don't We Do It In The Road? \- 2018 Mix](https://open.spotify.com/track/6CD4ZmCgYyiECTOWjm5LqC) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles](https://open.spotify.com/album/1WMVvswNzB9i2UMh9svso5) | 0:29 | 2019-06-28 |  |
+| [While My Guitar Gently Weeps \- 2018 Mix](https://open.spotify.com/track/0ZqSsO2xoVvcrhpiRuqCmt) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles](https://open.spotify.com/album/1WMVvswNzB9i2UMh9svso5) | 4:45 | 2019-06-28 |  |
+| [Why Don't We Do It In The Road? \- 2018 Mix](https://open.spotify.com/track/6CD4ZmCgYyiECTOWjm5LqC) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles](https://open.spotify.com/album/1WMVvswNzB9i2UMh9svso5) | 1:41 | 2019-06-28 |  |
 | [With A Little Help From My Friends \- Remix](https://open.spotify.com/track/08XKCwMrwEAyyfTCTGkkhg) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Super Deluxe Edition\)](https://open.spotify.com/album/1ntNLgaYCFCkeW4flGYlY2) | 2:45 | 2019-06-28 |  |
 | [Yellow Submarine \- Remastered](https://open.spotify.com/track/6NqtddM4j4X9dG75yOmy0S) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Yellow Submarine \(Remastered\)](https://open.spotify.com/album/47bcKzmKgmMPHXNVOWpLiu) | 2:39 | 2019-06-28 |  |
 | [Yesterday \- Remastered](https://open.spotify.com/track/1e0hllQ23AG0QGFgezgLOq) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Help! \(Remastered\)](https://open.spotify.com/album/19K3IHYeVkUTjcBHGfbCOi) | 2:05 | 2019-06-28 |  |

@@ -4,11 +4,11 @@
 
 > Listen to women from Singapore and Malaysia at full volume\. Cover: Jean Seizure
 
-312 songs - 17 hr 58 min - [published](https://open.spotify.com/playlist/4EQCek61VeDxcyurji0j0V)
+312 songs - 18 hr 2 min - [published](https://open.spotify.com/playlist/4EQCek61VeDxcyurji0j0V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#Supergirls \- Malay Version](https://open.spotify.com/track/401loIzqP3qQmZrl57zzuA) | [De Fam](https://open.spotify.com/artist/4m8URcWW3beNdxt4DnihgK) | [\#Supergirls \(Malay Version\)](https://open.spotify.com/album/1BEOfGmM9AQD8rk9GAcIZa) | 0:29 | 2022-06-01 |  |
+| [\#Supergirls \- Malay Version](https://open.spotify.com/track/401loIzqP3qQmZrl57zzuA) | [De Fam](https://open.spotify.com/artist/4m8URcWW3beNdxt4DnihgK) | [\#Supergirls \(Malay Version\)](https://open.spotify.com/album/1BEOfGmM9AQD8rk9GAcIZa) | 4:14 | 2022-06-01 |  |
 | [20 Seconds](https://open.spotify.com/track/0hpF8qVI0XmbVNH3RXSEcb) | [BECKA](https://open.spotify.com/artist/0zH5akhP1A41eUk6VCQUNz) | [BECKA](https://open.spotify.com/album/0VwTX1Zfou8zktSyqQ3uFD) | 2:25 | 2022-01-04 | 2022-02-03 |
 | [24 Hours](https://open.spotify.com/track/0ujDmkO6xZwv2cHbKJEaAT) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y2](https://open.spotify.com/album/1o1Jc1rX5e2OVDZKcl6ukX) | 2:55 | 2022-06-01 |  |
 | [3 Hours On](https://open.spotify.com/track/04GU4KyNvEedkZSWLMdS9v) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Good Behaviour](https://open.spotify.com/album/4bAfpIai1dvdqA0UgA5r7c) | 3:31 | 2022-01-04 | 2022-02-03 |

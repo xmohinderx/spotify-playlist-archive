@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BChUV4Ga35.md) - [plain]
 
 > Your family can visit all of the animals at the zoo with this fun playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,236 likes - 80 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,235 likes - 80 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Anthony Ant](https://open.spotify.com/track/5ZGAcHR3u41Poz8htUrIYT) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf), [Jack Gatto](https://open.spotify.com/artist/37aejcbXF9L2MvRiK9jHJC) | [Anthony Ant](https://open.spotify.com/album/3PDuRyRoHmztocgORbCUT9) | 1:17 |
 | 2 | [Little Sharks](https://open.spotify.com/track/4CXd8asKpF6SGH3qImlZfa) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Dance Party!](https://open.spotify.com/album/304rgWamJDyKqMD8wDkgUf) | 2:44 |
 | 3 | [Good Morning, Farm Animals](https://open.spotify.com/track/2Uc4LVXQM6pVFPH3ehFv0e) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Dance Party!](https://open.spotify.com/album/304rgWamJDyKqMD8wDkgUf) | 3:34 |
-| 4 | [Old MacDonald](https://open.spotify.com/track/0HU09XQgHGT1Va5MOoe00T) | [Hap Palmer](https://open.spotify.com/artist/69mxXDPodcz1qr9p68AqsJ) | [Early Childhood Classics](https://open.spotify.com/album/1z0jmaapdXs1TZE9GQhVAw) | 0:29 |
+| 4 | [Old MacDonald](https://open.spotify.com/track/0HU09XQgHGT1Va5MOoe00T) | [Hap Palmer](https://open.spotify.com/artist/69mxXDPodcz1qr9p68AqsJ) | [Early Childhood Classics](https://open.spotify.com/album/1z0jmaapdXs1TZE9GQhVAw) | 2:25 |
 | 5 | [ABC Animals](https://open.spotify.com/track/3kjsci8HHMLnxb9tE4UYes) | [Regurgitator's Pogogo Show](https://open.spotify.com/artist/264s8SLuCBJBkJRSRRcpDk) | [ABC Animals](https://open.spotify.com/album/2qqBNP16TbPUym2VTjJeop) | 3:06 |
 | 6 | [Baa Baa Black Sheep](https://open.spotify.com/track/5TvkzVJZ8YrN8WF9gixsEr) | [Mellodees](https://open.spotify.com/artist/03H3gcpif0GufJE8ybbcpn) | [Kids Songs & Medlees Vol 1](https://open.spotify.com/album/5R4CEWCMgHHEaRkQEiaiRz) | 1:38 |
 | 7 | [Happy Hippopotamus \(Call and Response Song\)](https://open.spotify.com/track/3beHoEaoGFqqwWvEurmcqJ) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Happy Hippopotamus \(Call and Response Song\)](https://open.spotify.com/album/0Cyty72ybODI6A7d8E2Vwd) | 2:24 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BChUV4Ga35.md) - [plain]
 | 64 | [Bumblebee \(Buzz Buzz\)](https://open.spotify.com/track/4F3ddWC6h5vgJKNih9v340) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Animal Songs](https://open.spotify.com/album/3dxdHE7M8flFgqlamTinsL) | 2:55 |
 | 65 | [Did You Ever See My Tail?](https://open.spotify.com/track/1haPzV8dBR3FvptN1lNoCr) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Animal Songs](https://open.spotify.com/album/1S7mumn7D4riEX2gVWYgPO) | 1:22 |
 | 66 | [The Lion, King Of The Jungle](https://open.spotify.com/track/6dgLHP9sceDeTET9g6StW5) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Carnival Of The Animals](https://open.spotify.com/album/14tIANf79XEg4L9y6ELote) | 1:32 |
-| 67 | [Och Aye G'Nu And Kangaroo](https://open.spotify.com/track/75Kw6pYjna6mSsqc10VW5S) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ), [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Och Aye The G’Nu](https://open.spotify.com/album/0JhyE3KLmbA9k7mkj3YVnz) | 0:29 |
+| 67 | [Och Aye G'Nu And Kangaroo](https://open.spotify.com/track/75Kw6pYjna6mSsqc10VW5S) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ), [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Och Aye The G’Nu](https://open.spotify.com/album/0JhyE3KLmbA9k7mkj3YVnz) | 1:46 |
 | 68 | [Blue Whale](https://open.spotify.com/track/2EaMZzWk01lNJM8saw3vTd) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Animal Songs 2](https://open.spotify.com/album/5L9VHpr6V2kXzN3mI4eqZe) | 1:00 |
 | 69 | [I Know A Chicken](https://open.spotify.com/track/3g1mTMwdLnJWsVBq2Od3h9) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Animal Songs](https://open.spotify.com/album/3dxdHE7M8flFgqlamTinsL) | 3:14 |
 | 70 | [Lil' red Rooster](https://open.spotify.com/track/2kqx7Js7xvJNFHABI75LRS) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [A Potluck](https://open.spotify.com/album/4uBGyDlwFP7tlfLma1DDJk) | 2:49 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BChUV4Ga35.md) - [plain]
 | 75 | [Octopus's Garden \- Remastered 2009](https://open.spotify.com/track/0suLngfo7rJoetk7Ub6N8l) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 2:50 |
 | 76 | [Hedgehog Riddle](https://open.spotify.com/track/0gI1NjqaKSwizuoUb3CAx3) | [Urban Tails](https://open.spotify.com/artist/06UozYz8Pa1cAYrMSWUYXI) | [Urban Tails](https://open.spotify.com/album/3CfzVCZnB0PR5HGfu7B5t5) | 1:46 |
 | 77 | [The Fox \(What Does the Fox Say?\)](https://open.spotify.com/track/5HOpkTTVcmZHnthgyxrIL8) | [Ylvis](https://open.spotify.com/artist/2lEOFtf3cCyzomQcMHJGfZ) | [The Fox \(What Does the Fox Say?\)](https://open.spotify.com/album/77QwsMRvonZJn7adV47V78) | 3:33 |
-| 78 | [When You're Living In The Zoo](https://open.spotify.com/track/3Pbl7P6xuV9lzZ7veNDTHj) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ), [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Och Aye The G’Nu](https://open.spotify.com/album/0JhyE3KLmbA9k7mkj3YVnz) | 0:29 |
+| 78 | [When You're Living In The Zoo](https://open.spotify.com/track/3Pbl7P6xuV9lzZ7veNDTHj) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ), [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Och Aye The G’Nu](https://open.spotify.com/album/0JhyE3KLmbA9k7mkj3YVnz) | 1:46 |
 | 79 | [Baby Animals](https://open.spotify.com/track/6Cqinxek9SxhSsooX5rAhL) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Animal Songs](https://open.spotify.com/album/1S7mumn7D4riEX2gVWYgPO) | 1:12 |
-| 80 | [Monkey Man](https://open.spotify.com/track/0qgQNwPyBYHt2W2KxzdBNO) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Hit Songs & Rarities](https://open.spotify.com/album/6XFTvklE8rQN0eLEeZ23Bd) | 0:29 |
+| 80 | [Monkey Man](https://open.spotify.com/track/0qgQNwPyBYHt2W2KxzdBNO) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Hit Songs & Rarities](https://open.spotify.com/album/6XFTvklE8rQN0eLEeZ23Bd) | 2:34 |
 
 Snapshot ID: `MTY0Mzc1NDI4NCwwMDAwMDAxNzAwMDAwMTdlYjc2M2U3YzUwMDAwMDE3MGFmNDQwMTgz`

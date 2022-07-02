@@ -4,12 +4,12 @@
 
 > Big Freedia co\-curates a list of the very best songs from LGBTQQIA+ artists and allies The Big Easy has to offer!
 
-33 songs - 1 hr 59 min - [published](https://open.spotify.com/playlist/5jUUccHT07zu0YJOpTYLyW)
+33 songs - 2 hr 2 min - [published](https://open.spotify.com/playlist/5jUUccHT07zu0YJOpTYLyW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3rd Ward Bounce \(feat\. Erica Falls\)](https://open.spotify.com/track/7IlJD8Fm3ry7hqjBC74cV8) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Erica Falls](https://open.spotify.com/artist/4W3Re8hcwf5DvvqaKjV0eR) | [3rd Ward Bounce](https://open.spotify.com/album/6wzAzsG8uu5DxGR1q4tVxj) | 5:48 | 2021-06-01 |  |
-| [Away from You](https://open.spotify.com/track/5aJPOSVFcNEKNlU2a8HFLn) | [HaSizzle](https://open.spotify.com/artist/22mB4zQKJDI9I7ZnYs80iX), [Future x Sounds](https://open.spotify.com/artist/23Dbk18rlcFE1b4GpRle2v), [Alfred Banks](https://open.spotify.com/artist/486X9xbMecCjCRPOhUXpuE), [LeTrainiump](https://open.spotify.com/artist/5bfZ3ITa57jVjSqJE6EhwH), [SaxKixAve](https://open.spotify.com/artist/2MPLNf6a6M5wARlnZyVwTn) | [Collaboration Sessions Vol\. 1](https://open.spotify.com/album/1RuahJIlwyNOi8GPCCYC9E) | 0:29 | 2021-06-01 |  |
+| [Away from You](https://open.spotify.com/track/5aJPOSVFcNEKNlU2a8HFLn) | [HaSizzle](https://open.spotify.com/artist/22mB4zQKJDI9I7ZnYs80iX), [Future x Sounds](https://open.spotify.com/artist/23Dbk18rlcFE1b4GpRle2v), [Alfred Banks](https://open.spotify.com/artist/486X9xbMecCjCRPOhUXpuE), [LeTrainiump](https://open.spotify.com/artist/5bfZ3ITa57jVjSqJE6EhwH), [SaxKixAve](https://open.spotify.com/artist/2MPLNf6a6M5wARlnZyVwTn) | [Collaboration Sessions Vol\. 1](https://open.spotify.com/album/1RuahJIlwyNOi8GPCCYC9E) | 3:50 | 2021-06-01 |  |
 | [Beat It Out the Frame](https://open.spotify.com/track/5RTkjmZ6S3iLxy7flBurqZ) | [Sissy Nobby](https://open.spotify.com/artist/0bnSXLp5VJS5wS40ilaBGK) | [Bounce Out \- The Hitz\(From 2006 to 2010\)](https://open.spotify.com/album/6NoC9TGYP6IMgJbWl2OxJS) | 3:17 | 2021-06-01 |  |
 | [Booty\-Whop](https://open.spotify.com/track/1nMTBjKdCNPQoZdxsxzTLE) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Booty\-Whop](https://open.spotify.com/album/0e6OBPayhe2ljUVUk2T3Py) | 3:38 | 2021-06-01 |  |
 | [Bounce It Biggity Bounce It](https://open.spotify.com/track/0Gg4nUaxVAwGNjE1orNjlp) | [HaSizzle](https://open.spotify.com/artist/22mB4zQKJDI9I7ZnYs80iX) | [The Voice of Bounce, Vol\. 1](https://open.spotify.com/album/0rGFcjkxtE3IKjvvAqH2Rh) | 3:18 | 2021-06-01 |  |

@@ -4,12 +4,12 @@
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org/conference</a>\. Cover: Kyshona Armstrong
 
-320 songs - 20 hr 53 min - [published](https://open.spotify.com/playlist/77WoQGjdtAfs1yp2VHvlry)
+320 songs - 21 hr 3 min - [published](https://open.spotify.com/playlist/77WoQGjdtAfs1yp2VHvlry)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 Years](https://open.spotify.com/track/5wLFq2Gu7YomnXRw8wwX6g) | [Amanda Rheaume](https://open.spotify.com/artist/3AolL1C2j6PAqp3BuWzsRZ) | [100 Years](https://open.spotify.com/album/3bpXxgMyuQNlM1EdM7VI7Y) | 3:42 | 2022-04-25 |  |
-| [2020 Vision](https://open.spotify.com/track/6RLxchD1PMUeM4p8x9tgU7) | [Danny Schmidt](https://open.spotify.com/artist/5th2qoAWV7PiSo8r9zlIRD) | [2020 Vision](https://open.spotify.com/album/0Y3eVuwwMZVxU6LsZmm307) | 0:29 | 2022-04-25 |  |
+| [2020 Vision](https://open.spotify.com/track/6RLxchD1PMUeM4p8x9tgU7) | [Danny Schmidt](https://open.spotify.com/artist/5th2qoAWV7PiSo8r9zlIRD) | [2020 Vision](https://open.spotify.com/album/0Y3eVuwwMZVxU6LsZmm307) | 4:45 | 2022-04-25 |  |
 | [25](https://open.spotify.com/track/4YbjZUFdKbKm2bVjcqJs5o) | [Emma Charles](https://open.spotify.com/artist/6yEBQRTCukkD2H0rq3am89) | [25](https://open.spotify.com/album/4kCNwoPh5HIgSz7XbVQ3Rx) | 3:10 | 2021-02-23 | 2022-04-26 |
 | [A Case of You](https://open.spotify.com/track/43rdsl5Lb0Pp2m8THe3MjW) | [Alice Howe](https://open.spotify.com/artist/4G9FK6kbQ0hT2s7Cwoh9oO) | [A Case of You](https://open.spotify.com/album/25m35BisnCT8UYUhfUl9nH) | 4:41 | 2022-04-25 |  |
 | [A Healing Inside](https://open.spotify.com/track/2V2uciap0YjuDi2ART8tRo) | [Lilli Lewis](https://open.spotify.com/artist/2dh2iaRf6yHgqVmEJok53L), [Lady A](https://open.spotify.com/artist/2nlAGNTrkx2kGJBiIVPDtK), [Arnae Batson](https://open.spotify.com/artist/30mdqvKiSLv4bNNLKc9rQF), [Vienna Carroll](https://open.spotify.com/artist/2eTy6f6C4zd7IeHLjca3X5), [Angelique Francis](https://open.spotify.com/artist/3AoZtg3XjzbONsDfAXCene), [Kim Richardson](https://open.spotify.com/artist/1uUrjZpk2uXwtY1XVSlMs0) | [Americana](https://open.spotify.com/album/0lKtpVHcWOkO0IfEdzAq42) | 2:59 | 2022-04-25 |  |
@@ -128,7 +128,7 @@
 | [HISTORY](https://open.spotify.com/track/12TLBNeRIhUPgGIkacXrVO) | [Beatrice Deer](https://open.spotify.com/artist/3YEhsztAtjqpC0JikHMmYe) | [HISTORY](https://open.spotify.com/album/4GQP3AyTjmTd9e8CmuYzWP) | 3:31 | 2022-04-25 |  |
 | [Holdin' On](https://open.spotify.com/track/6b7Py04DSzST3Okdz1ONzw) | [Lanita Smith](https://open.spotify.com/artist/68a7UZEjiasnxXMZ02ciEn) | [Holdin' On](https://open.spotify.com/album/7wcJtyBam8XqXK4bRRUteA) | 3:55 | 2021-02-23 | 2022-04-26 |
 | [Homecoming](https://open.spotify.com/track/6hVrALHnE9h0bSpnOwX7gG) | [Lore](https://open.spotify.com/artist/2szlp4jqn8XBTqnhpvwtNk) | [Homecoming](https://open.spotify.com/album/3gWApeKQBMmNe0UqqqV4y0) | 4:13 | 2022-04-25 |  |
-| [Hungover Eyes](https://open.spotify.com/track/2fzqMjT5OsO6Fjv1p2JoiH) | [Adrian + Meredith](https://open.spotify.com/artist/4qkOE9F3pGhhestpgh80m9) | [Bad For Business](https://open.spotify.com/album/7xhjFl71Ib8zTwky12Zi5C) | 0:29 | 2022-04-25 |  |
+| [Hungover Eyes](https://open.spotify.com/track/2fzqMjT5OsO6Fjv1p2JoiH) | [Adrian + Meredith](https://open.spotify.com/artist/4qkOE9F3pGhhestpgh80m9) | [Bad For Business](https://open.spotify.com/album/7xhjFl71Ib8zTwky12Zi5C) | 2:47 | 2022-04-25 |  |
 | [Hustlin' \[Feat\. Jerry Douglas & Chris Eldridge\]](https://open.spotify.com/track/69Sgn7yVDF59YyR9xCaTZE) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Chris Eldridge](https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW) | [Hearts Town](https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY) | 3:39 | 2021-02-23 | 2022-04-26 |
 | [I Am a Man of Constant Sorrow](https://open.spotify.com/track/3lrSJACaJg325VjYxNvtD6) | [Élage Diouf](https://open.spotify.com/artist/1IjC1jUjeLi2VXaxGT1B76) | [Askil](https://open.spotify.com/album/5dzofMWG4wPUa5XcngV0cM) | 4:08 | 2021-02-23 | 2022-04-26 |
 | [I Can't Live Without You](https://open.spotify.com/track/04PjWMmT6nF51TRrVDNu7S) | [The Once](https://open.spotify.com/artist/7ux4UfCVUvMPKS7zNh6aJP) | [I Can't Live Without You](https://open.spotify.com/album/2RTVazLtXShVnYCEk04FAm) | 3:57 | 2022-04-25 |  |
@@ -306,7 +306,7 @@
 | [Warped Window](https://open.spotify.com/track/19cLwp9WS5E4CTYxcM7Wi1) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Idle Mind](https://open.spotify.com/album/74nVJp60GIsz0j7QTQymWB) | 4:55 | 2021-02-23 | 2022-04-26 |
 | [Wawu](https://open.spotify.com/track/2nVMr2HeRMyY1BZ83jEFja) | [Deline Briscoe](https://open.spotify.com/artist/3z3rhWvh9EffrXsMJqiFPw) | [Wawu](https://open.spotify.com/album/1amJlVVndk17nAO8ETkcOT) | 1:29 | 2021-02-23 | 2022-04-26 |
 | [Wayfaring Stranger](https://open.spotify.com/track/7aKA4nMjrf5YkE6DVdQ2NB) | [Hayde Bluegrass Orchestra](https://open.spotify.com/artist/5L3ac0hlDxpbLBj3oQq3Ly) | [Wayfaring Stranger](https://open.spotify.com/album/4LEKaWT6TPm1ja8C27iOW6) | 4:46 | 2021-02-23 | 2022-04-26 |
-| [We Believe You](https://open.spotify.com/track/2Wbvgw07sYpbgaNnHm7eaE) | [Diana Jones](https://open.spotify.com/artist/5UV85ewmX2Ls0NN9KaW0fX) | [Song to a Refugee](https://open.spotify.com/album/1vws9AOFerzmU4auFU5UfA) | 0:29 | 2022-04-25 |  |
+| [We Believe You](https://open.spotify.com/track/2Wbvgw07sYpbgaNnHm7eaE) | [Diana Jones](https://open.spotify.com/artist/5UV85ewmX2Ls0NN9KaW0fX) | [Song to a Refugee](https://open.spotify.com/album/1vws9AOFerzmU4auFU5UfA) | 3:57 | 2022-04-25 |  |
 | [We Made It](https://open.spotify.com/track/7grmdH9UkWas0f6R7tycoB) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Benton County Relic](https://open.spotify.com/album/2qwusH3jkwaQepmNSLR8rO) | 3:34 | 2021-02-23 | 2022-04-26 |
 | [We'll Be Alright](https://open.spotify.com/track/5LSoeOB15wZi5gQo2xlzL1) | [Josh Sahunta](https://open.spotify.com/artist/37aXAbBndtjTPR4aUKumLV) | [We'll Be Alright](https://open.spotify.com/album/4E6Zhfv1coWWvmZAyXMDGu) | 2:29 | 2021-02-23 | 2022-04-26 |
 | [Wedding Day](https://open.spotify.com/track/52XMM0EcwDpSa08kewBzey) | [Last Birds](https://open.spotify.com/artist/627PkVC8Fgs7b0Y9nBPdcP) | [Wedding Day](https://open.spotify.com/album/3QNNorGIiELlj2J2nu1zCL) | 3:54 | 2021-02-23 | 2022-04-26 |

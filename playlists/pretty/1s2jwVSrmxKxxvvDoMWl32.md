@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1s2jwVSrmxKxxvvDoMWl32.md) - [plain]
 
 > A collection of classic Sub Pop tracks from the 80s and 90s, all that is grunge adjacent!
 
-[Sub Pop](https://open.spotify.com/user/subpoprecords) - 5,197 likes - 40 songs - 2 hr 5 min
+[Sub Pop](https://open.spotify.com/user/subpoprecords) - 5,201 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/1s2jwVSrmxKxxvvDoMWl32.md) - [plain]
 | 20 | [Shove](https://open.spotify.com/track/0AeIgH9Cmx08QL47ZBPAN4) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Smell The Magic](https://open.spotify.com/album/1pXoAahgLu9ewP3HVt3md5) | 3:12 |
 | 21 | [Goin' Commando](https://open.spotify.com/track/5U6d57indQnFPOULqD55Ss) | [Godheadsilo](https://open.spotify.com/artist/19U1TljX5HGtzVlI1JljwV) | [Share The Fantasy](https://open.spotify.com/album/3VIL90Q8BN4bUNO20cfEZ8) | 3:27 |
 | 22 | [About A Girl \- Remastered](https://open.spotify.com/track/4T0OWC2ISMWVDAIdhIPXK4) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach: Deluxe Edition](https://open.spotify.com/album/4vEqluvGq8AC9Xx2Fx4cZ3) | 2:48 |
-| 23 | [High Command](https://open.spotify.com/track/70jjEHFCtbHPZihBqRgLSu) | [Earth](https://open.spotify.com/artist/4mTFQE6aiehScgvreB9llC) | [Pentastar: In The Style of Demons](https://open.spotify.com/album/7M2HxkfzBMftGLjmbd3sBE) | 0:29 |
+| 23 | [High Command](https://open.spotify.com/track/70jjEHFCtbHPZihBqRgLSu) | [Earth](https://open.spotify.com/artist/4mTFQE6aiehScgvreB9llC) | [Pentastar: In The Style of Demons](https://open.spotify.com/album/7M2HxkfzBMftGLjmbd3sBE) | 5:50 |
 | 24 | [Rawhead](https://open.spotify.com/track/3CfLom1pwg7Z0AmlfErbC4) | [Teen Angels](https://open.spotify.com/artist/4BfscLIqG4hjMzZtZaVDE9) | [Daddy](https://open.spotify.com/album/2iMSKzeVxmLYO1xj5KtFcU) | 2:24 |
 | 25 | [Mubby's Theme](https://open.spotify.com/track/5qjmc5KMBJ6IekQ7pmT4j8) | [Pond](https://open.spotify.com/artist/2C3d4ZcjA6BLPvl2uGZ7X6) | [The Practice of Joy Before Death](https://open.spotify.com/album/30ZCDWu8xHZ68AdFEmS4il) | 3:30 |
 | 26 | [Flower](https://open.spotify.com/track/44OxoDksTnkbNXW9OxiHgg) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Ultramega OK \(Expanded Reissue\)](https://open.spotify.com/album/5ZenjDvGoaKRK8xGmBXnVx) | 3:26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: CHOCO; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,956 likes - 101 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,973 likes - 101 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 81 | [Đô Thị Hóa](https://open.spotify.com/track/5eRfBORyfF0rgbvb2MIArc) | [Vương Cây](https://open.spotify.com/artist/6neBRpXrFRsa1yxFwFlm1o), [Tô](https://open.spotify.com/artist/3y3HyoYE1bIWeM5i1cnLuG) | [Đô Thị Hóa](https://open.spotify.com/album/5PMuHtEDQQwDsyiF6KAVM1) | 2:53 |
 | 82 | [về nhà ăn cơm](https://open.spotify.com/track/0p5IsaYs1NORTYm9sGdoVE) | [TaylorDaClownn](https://open.spotify.com/artist/3HZZADizLAtNsAy36T8wiD), [Phanh nèe](https://open.spotify.com/artist/7Gw2yW6mWrj0IEDhW9WOQE) | [về nhà ăn cơm](https://open.spotify.com/album/6G0NSG8Qhh94UlJypARzFx) | 4:20 |
 | 83 | [Có Mùa Hạ Như Thế](https://open.spotify.com/track/1I67osLu2XjBfNg3qo4BnG) | [Đào Duy Quý](https://open.spotify.com/artist/66tegNzEwfuKGJHCmk5hvi) | [Có Mùa Hạ Như Thế](https://open.spotify.com/album/7MyB04AEJ46BO7xWjbDfdG) | 5:21 |
-| 84 | [ĐẠI DIỆN CHO TRÁI TIM](https://open.spotify.com/track/3qv9LRzmaA4BX3v427FBi4) | [Southalid](https://open.spotify.com/artist/5n4HPFtb9AUMQMAw8asZu6), [MaL.](https://open.spotify.com/artist/6n0P5VPfsk3qLSVja7xzb5) | [ĐẠI DIỆN CHO TRÁI TIM](https://open.spotify.com/album/0qIp0FFFHGlxfzyWuWG9zs) | 0:29 |
+| 84 | [ĐẠI DIỆN CHO TRÁI TIM](https://open.spotify.com/track/3qv9LRzmaA4BX3v427FBi4) | [Southalid](https://open.spotify.com/artist/5n4HPFtb9AUMQMAw8asZu6), [MaL.](https://open.spotify.com/artist/6n0P5VPfsk3qLSVja7xzb5) | [ĐẠI DIỆN CHO TRÁI TIM](https://open.spotify.com/album/0qIp0FFFHGlxfzyWuWG9zs) | 3:59 |
 | 85 | [Giấc Mơ Rất Thơ](https://open.spotify.com/track/546ce8vBSyZFwiEfOZ3fx1) | [Mer](https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5), [thaison!](https://open.spotify.com/artist/1VQyG9aks9QYQYzwmP12Fz) | [Giấc Mơ Rất Thơ](https://open.spotify.com/album/3emRWovxjpnUNKVYbDTctY) | 2:52 |
 | 86 | [Bởi Vì Có Em](https://open.spotify.com/track/1yXZp3CI1nHjvmzxTmum7f) | [Nguyễn Tấn Đạt](https://open.spotify.com/artist/1Z5DJV3W8q8VmU43xwhdGY) | [Bởi Vì Có Em](https://open.spotify.com/album/33ZPnUg7xgWPdxbaMDRk8l) | 3:21 |
 | 87 | [Cuopnhabang](https://open.spotify.com/track/5haJ12Z9jxCI9NMqsOkANR) | [Bạn Có Tài Mà](https://open.spotify.com/artist/6FCF4ljKz7tzcsOyUExpS7), [Dick](https://open.spotify.com/artist/1tikl40deDgJWS57GTKiVh), [Anh Khơ Me](https://open.spotify.com/artist/29ViXw9QKSCmO9lLkNWVnL), [Key](https://open.spotify.com/artist/2EkVb80vJNSvw96kEy2GeF), [Xám](https://open.spotify.com/artist/0RidbITP912tB7Nm85bebv), [MegaShock](https://open.spotify.com/artist/78BCjtPwVVmrolLWLArPaX), [Ngắn](https://open.spotify.com/artist/7k7UnidybNpIJX5TIQ0TS0) | [Cuopnhabang](https://open.spotify.com/album/4MlBx3WcrVXI8ZXoABqfMK) | 6:49 |

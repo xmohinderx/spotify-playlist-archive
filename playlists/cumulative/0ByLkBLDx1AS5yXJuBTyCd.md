@@ -4,7 +4,7 @@
 
 > Travel the world through sound – with indie and traditional folk and acoustic from across the globe.
 
-36 songs - 2 hr 8 min - [published](https://open.spotify.com/playlist/4Thw0013FxwwpeOiArYjdf)
+36 songs - 2 hr 11 min - [published](https://open.spotify.com/playlist/4Thw0013FxwwpeOiArYjdf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,8 +14,8 @@
 | [All The Pretty Girls](https://open.spotify.com/track/4lwt3Bqp3wvk4V1q6KXkb7) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [All The Pretty Girls](https://open.spotify.com/album/2flXsLAGJHPQ7Mt6MEXbU8) | 4:30 | 2014-12-17 |  |
 | [Au font du lac](https://open.spotify.com/track/42SLjspf2620Mt4sW3lIYO) | [Feufollet](https://open.spotify.com/artist/1BrbrpyPalpYADWybAjCAh) | [En Couleurs](https://open.spotify.com/album/4Mo8mFAmvseh69lRM7Bxe0) | 3:11 | 2014-12-17 |  |
 | [Baka](https://open.spotify.com/track/17vyu7wwITOfAUTGBVXM6F) | [Outback](https://open.spotify.com/artist/41HxkfEUQC5n2C5aRlzGiD) | [Baka](https://open.spotify.com/album/0BvYSqYmiaUmQB2RmYKtwx) | 6:34 | 2014-12-17 |  |
-| [Bamboléo](https://open.spotify.com/track/3qzVJh6INW1CzSDVR9MRgS) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [Gipsy Kings](https://open.spotify.com/album/21Hxqmg032UyDlZydqS4DW) | 0:29 | 2014-12-17 |  |
-| [Courtship Song](https://open.spotify.com/track/3bzc0xRyNkeXvESUvE2VYr) | [Robert Mirabal](https://open.spotify.com/artist/3rCzOTPZysU7pjOi6fmwJg) | [Music From A Painted Cave](https://open.spotify.com/album/1m5WXwfbkc1Jbw9Kh1H4RE) | 0:29 | 2014-12-17 |  |
+| [Bamboléo](https://open.spotify.com/track/3qzVJh6INW1CzSDVR9MRgS) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [Gipsy Kings](https://open.spotify.com/album/21Hxqmg032UyDlZydqS4DW) | 3:23 | 2014-12-17 |  |
+| [Courtship Song](https://open.spotify.com/track/3bzc0xRyNkeXvESUvE2VYr) | [Robert Mirabal](https://open.spotify.com/artist/3rCzOTPZysU7pjOi6fmwJg) | [Music From A Painted Cave](https://open.spotify.com/album/1m5WXwfbkc1Jbw9Kh1H4RE) | 3:59 | 2014-12-17 |  |
 | [Cumbia Americana \- Charangos](https://open.spotify.com/track/3D1vmCqbTKKQsAytgeEB44) | [Alejo García](https://open.spotify.com/artist/2dwM9OcE4c3Ph1UBINSodx), [Damian Verdun](https://open.spotify.com/artist/0ABDf2OVkwKpTxQ9EH7LeK) | [Americanito](https://open.spotify.com/album/4FLFlOrbLwNYDd0iiebQXK) | 2:29 | 2014-12-17 |  |
 | [Dusty Men](https://open.spotify.com/track/1WUCUeB6bvoio4oi1AZtZu) | [Saule](https://open.spotify.com/artist/2n2CmLay2NP2Iolah62W34), [Charlie Winston](https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3) | [Dusty Men](https://open.spotify.com/album/1IWBDKQ2lV7BCRnIKocXsb) | 3:25 | 2014-12-17 |  |
 | [El Maíz](https://open.spotify.com/track/6DiLpptCM35qEr384QweYU) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Me Saco el Sombrero](https://open.spotify.com/album/4OQgvzsaoGRNAFfzEAkxpv) | 3:42 | 2014-12-17 |  |
@@ -40,7 +40,7 @@
 | [River](https://open.spotify.com/track/02uNz94xdQzo2b3tq7YDfF) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Oya](https://open.spotify.com/album/3B4uLDgZNyW21VqyUzxPDN) | 4:12 | 2014-12-17 |  |
 | [Romeo](https://open.spotify.com/track/0hDUNNRTLQD00YhgLNDTyD) | [Edwina and Deko](https://open.spotify.com/artist/7aQjIxzmpQJpkQjvjVJNsI) | [Berlin Seasons](https://open.spotify.com/album/3ktadj5svj1omB5EZnTIVP) | 2:43 | 2014-12-17 |  |
 | [Somnium](https://open.spotify.com/track/1KmZ26oqWZyNFRdsCYXShV) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [9 Dead Alive](https://open.spotify.com/album/4GAtAJJ602Wal8aUakQ3zm) | 3:43 | 2014-12-17 |  |
-| [T.I Blues](https://open.spotify.com/track/513ngsQXc4ulMEuhq1VHb7) | [Seaman Dan](https://open.spotify.com/artist/7kupJXgSeK8OCWSqYipqqS) | [Somewhere There's An Island \(Best Of 1999 \- 2006\)](https://open.spotify.com/album/6qB5XRFLJxpex8W9AmL5iP) | 4:19 | 2014-12-17 |  |
+| [T.I Blues](https://open.spotify.com/track/513ngsQXc4ulMEuhq1VHb7) | [Seaman Dan](https://open.spotify.com/artist/7kupJXgSeK8OCWSqYipqqS) | [Somewhere There's An Island \(Best Of 1999 \- 2006\)](https://open.spotify.com/album/6qB5XRFLJxpex8W9AmL5iP) | 0:29 | 2014-12-17 |  |
 | [Uja](https://open.spotify.com/track/1wz8uw6O4JjSXw8VhCumnd) | [Tanya Tagaq](https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY) | [Animism](https://open.spotify.com/album/22cC8ZwB07grQ7ml8ImeSm) | 2:49 | 2014-12-17 |  |
 | [Wiyathul](https://open.spotify.com/track/3sVVe0GARr4jjg96B6te41) | [Gurrumul](https://open.spotify.com/artist/41U5QueLMyYyJ3Hoe4kKX4) | [Gurrumul](https://open.spotify.com/album/6mqFcbjkkCW30BspMZdZes) | 5:55 | 2014-12-17 |  |
 | [Óró Sé Do Bheatha 'Bhaile](https://open.spotify.com/track/5mWl3DN1GZVFFs5p8zFCWk) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Sean\-Nós Nua](https://open.spotify.com/album/1NMS8GqPS88wMFSZICXaWK) | 3:20 | 2014-12-17 |  |

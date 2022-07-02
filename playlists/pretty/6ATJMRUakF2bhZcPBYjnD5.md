@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ATJMRUakF2bhZcPBYjnD5.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 423 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 423 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/6ATJMRUakF2bhZcPBYjnD5.md) - [plain]
 | 43 | [Hole Hearted](https://open.spotify.com/track/1cItNpcJskTVETprljc7HV) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC) | 3:39 |
 | 44 | [Power of Love / Love Power](https://open.spotify.com/track/5r0v9CyX7CblZkQUltCUX3) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Love, Luther](https://open.spotify.com/album/4WuUrS1xAamOUSmov8UBc3) | 6:42 |
 | 45 | [Impulsive](https://open.spotify.com/track/2lxfnTyWxW381PXDm9Mg77) | [Wilson Phillips](https://open.spotify.com/artist/1yMYjh77WgOVafRkI50mim) | [Wilson Phillips](https://open.spotify.com/album/1Xi55xFMaymXdSWshmxhw2) | 4:34 |
-| 46 | [Rhythm of My Heart \- 2008 Remaster](https://open.spotify.com/track/0fLgxhfATkNRJGca4rCu9X) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Definitive Rod Stewart](https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj) | 0:29 |
+| 46 | [Rhythm of My Heart \- 2008 Remaster](https://open.spotify.com/track/0fLgxhfATkNRJGca4rCu9X) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Definitive Rod Stewart](https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj) | 4:15 |
 | 47 | [Things That Make You Go Hmmmm....](https://open.spotify.com/track/1sHU0mVyfc0QFZrsNzN1DM) | [C & C Music Factory](https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF), [Freedom Williams](https://open.spotify.com/artist/08MVPakTEdRJimQNV61NFR) | [Super Hits](https://open.spotify.com/album/5LZ9AHzmXsU55tpB3DNnpv) | 5:22 |
 | 48 | [I Touch Myself](https://open.spotify.com/track/6oNvmplQGUkmAh441Teows) | [Divinyls](https://open.spotify.com/artist/5t06MTkDD3yr5LVs3YFLQC) | [Divinyls](https://open.spotify.com/album/50bQGJWB4VoD1GY3c4vYbv) | 3:47 |
 | 49 | [Tom's Diner](https://open.spotify.com/track/7f9sC9fvtjYSZYOLSmKJlq) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw), [DNA](https://open.spotify.com/artist/2rGm8R7YDTbqDCVlNssQyL) | [Tom's Album](https://open.spotify.com/album/0eV4zOG2uMHbQoexXCkK4z) | 3:48 |

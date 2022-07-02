@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 
 > Enjoy music from "NARUTO" series! / 音楽で辿る「NARUTO \-ナルト\-」シリーズの世界。<br/>©岸本斉史 スコット／集英社・テレビ東京・ぴえろ
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,481 likes - 115 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,773 likes - 115 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,14 +15,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 | 5 | [シルエット](https://open.spotify.com/track/0E72B3egvyX7Ic89O1wf1y) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [シルエット](https://open.spotify.com/album/2ld49L4qqH8G1vlfisypTi) | 4:01 |
 | 6 | [動天](https://open.spotify.com/track/2lN3LquWyOGx8xPSOhsqPT) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [NARUTO\-ナルト\- 疾風伝 オリジナル・サウンドトラック](https://open.spotify.com/album/4f5CITLlnnTPE49n5Bd0zN) | 3:03 |
 | 7 | [NARUTO Main Theme'16](https://open.spotify.com/track/2x9mxZswDySC1QOFFH09q7) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o), [YAIBA](https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4) | [NARUTO\-ナルト\- 疾風伝 オリジナル・サウンドトラック Ⅲ](https://open.spotify.com/album/7DQCQeGbnpjr3tF7p3f2jA) | 4:25 |
-| 8 | [Sign](https://open.spotify.com/track/0xmWQKzc5m9rLv2ucDWxwD) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [MICROCOSM](https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa) | 0:29 |
+| 8 | [Sign](https://open.spotify.com/track/0xmWQKzc5m9rLv2ucDWxwD) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [MICROCOSM](https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa) | 3:56 |
 | 9 | [沸き上がる闘志](https://open.spotify.com/track/7k9D5GUqhn0Jf3kBnfgQJ6) | [MUSASHI PROJECT](https://open.spotify.com/artist/1HNngbrg0LENVuq56iQo0m) | [NARUTO \-ナルト\- オリジナルサウンドトラック](https://open.spotify.com/album/6NrJzDuBPZvp3ZRXnIqs1P) | 1:36 |
 | 10 | [疾風伝](https://open.spotify.com/track/0y2OZcxtwVvzk4vHsSJXwu) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [NARUTO\-ナルト\- 疾風伝 オリジナル・サウンドトラック](https://open.spotify.com/album/4f5CITLlnnTPE49n5Bd0zN) | 2:05 |
 | 11 | [ニワカ雨ニモ負ケズ](https://open.spotify.com/track/6kQqhJpPKSbfFKEpdwlt5g) | [NICO Touches the Walls](https://open.spotify.com/artist/16FpDRuy5xMHpuLYZV0Hkt) | [ニワカ雨ニモ負ケズ](https://open.spotify.com/album/6rPFEmIJteFJxjnLzpQ8e6) | 4:22 |
 | 12 | [激と撃](https://open.spotify.com/track/4WoEh8QCiKcpjiueiVj58a) | [MUSASHI PROJECT](https://open.spotify.com/artist/1HNngbrg0LENVuq56iQo0m) | [NARUTO \-ナルト\- オリジナルサウンドトラック](https://open.spotify.com/album/6NrJzDuBPZvp3ZRXnIqs1P) | 2:07 |
 | 13 | [青春狂騒曲](https://open.spotify.com/track/4fepUL9SGzSly5Yfh6cCJA) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [サンボマスターは君に語りかける](https://open.spotify.com/album/4wNlwJS7hT0NVpYv2OSyKt) | 4:46 |
 | 14 | [CLOSER](https://open.spotify.com/track/1e7E8dOJJPw2Y5krfkft71) | [Joe Inoue](https://open.spotify.com/artist/04q6GxPQU1OTqHGrUxeufd) | [CLOSER](https://open.spotify.com/album/3wmVPZ0DNAAMaq9BjQSjAL) | 3:28 |
-| 15 | [Diver](https://open.spotify.com/track/7x0fMadka2HamhfLER14bN) | [NICO Touches the Walls](https://open.spotify.com/artist/16FpDRuy5xMHpuLYZV0Hkt) | [PASSENGER](https://open.spotify.com/album/4yCKMos9V6PoE7yqeMijkZ) | 0:29 |
+| 15 | [Diver](https://open.spotify.com/track/7x0fMadka2HamhfLER14bN) | [NICO Touches the Walls](https://open.spotify.com/artist/16FpDRuy5xMHpuLYZV0Hkt) | [PASSENGER](https://open.spotify.com/album/4yCKMos9V6PoE7yqeMijkZ) | 4:08 |
 | 16 | [波風サテライト](https://open.spotify.com/track/2ytqDhgvsWd8Q6lLiIbpfa) | [SNOWKEL](https://open.spotify.com/artist/12OSHhni6aZbqfUp7nzjKC) | [波風サテライト](https://open.spotify.com/album/1BX328PWuRJ6GSS8YBN5IO) | 4:12 |
 | 17 | [Hero's Come Back!!](https://open.spotify.com/track/57MEabqODzmQnsTDfkb9cb) | [nobodyknows+](https://open.spotify.com/artist/7lSZHedda1CjyJwI6Z9Zlj) | [vulgarhythm](https://open.spotify.com/album/4yGC9Yq3aPvrd7i451KmwQ) | 4:33 |
 | 18 | [哀と悲](https://open.spotify.com/track/6faRsCMylJKKQqESbwJTA9) | [MUSASHI PROJECT](https://open.spotify.com/artist/1HNngbrg0LENVuq56iQo0m) | [NARUTO \-ナルト\- オリジナルサウンドトラック](https://open.spotify.com/album/6NrJzDuBPZvp3ZRXnIqs1P) | 2:59 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 | 22 | [形勢逆転](https://open.spotify.com/track/3MbKr047dH74iTk4nuxb7j) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [NARUTO\-ナルト\- 疾風伝 オリジナル・サウンドトラック](https://open.spotify.com/album/4f5CITLlnnTPE49n5Bd0zN) | 4:00 |
 | 23 | [出陣](https://open.spotify.com/track/4x9JFIsht1WWEv7go9vJcF) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [NARUTO\-ナルト\- 疾風伝 オリジナル・サウンドトラック](https://open.spotify.com/album/4f5CITLlnnTPE49n5Bd0zN) | 2:09 |
 | 24 | [カラノココロ](https://open.spotify.com/track/2syPbR6XTK1ZUGYlLJCGT5) | [Anly](https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz) | [anly one](https://open.spotify.com/album/3DSSM8uCxwXdoqt5xcKFId) | 4:24 |
-| 25 | [透明だった世界](https://open.spotify.com/track/3ILmwMefYZoQh5Cf5jeuUQ) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [Documentary](https://open.spotify.com/album/6RJ8dTBDiLHZb2tSb76Pdt) | 0:29 |
+| 25 | [透明だった世界](https://open.spotify.com/track/3ILmwMefYZoQh5Cf5jeuUQ) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [Documentary](https://open.spotify.com/album/6RJ8dTBDiLHZb2tSb76Pdt) | 3:52 |
 | 26 | [ビバ★ロック 〜japanese side〜](https://open.spotify.com/track/1mYNlXFX7lLH69B11yNPZv) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [ビバ★ロック](https://open.spotify.com/album/2agPtSGmUaEF1Xk0TPMiHI) | 3:31 |
 | 27 | [美しき碧い野獣](https://open.spotify.com/track/5zHi6caMFuPsiarfo7PQNG) | [Toshio Masuda](https://open.spotify.com/artist/78JmbZfna6DOfhSoxccZZw) | [NARUTO \-ナルト\- オリジナルサウンドトラック Ⅲ](https://open.spotify.com/album/1HObVU42QE1DcypM59MBFS) | 2:00 |
 | 28 | [黒点](https://open.spotify.com/track/7mf6IzeXWHVkoczzu08Y6p) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o), [YAIBA](https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4) | [NARUTO\-ナルト\- 疾風伝 オリジナル・サウンドトラック Ⅱ](https://open.spotify.com/album/1GoWJc6XFiHW1ewHcY1Xqm) | 2:16 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 | 47 | [スピード](https://open.spotify.com/track/5rAuNvszNJdX4SONZzVRgJ) | [Analogfish](https://open.spotify.com/artist/5KvfVmM9oHCiIy88GOG58h) | [スピード](https://open.spotify.com/album/1Fp0wrJPgDe3wHJunYiAt2) | 3:15 |
 | 48 | [そばにいるから](https://open.spotify.com/track/7h13ZBhtHPRHrlJv2ADa9Y) | [Amadori](https://open.spotify.com/artist/28KMnC9M7253QQlCevUhlQ) | [そばにいるから](https://open.spotify.com/album/7Md8OzzDfQNsT3i486oolU) | 3:47 |
 | 49 | [パレード](https://open.spotify.com/track/17CLgOZqX9GAjZvSHMAHDn) | [Chaba](https://open.spotify.com/artist/1u6OC7tz9YNmdsZ1AeX9m0) | [パレード](https://open.spotify.com/album/0PsoJQF9JB0RNgtVse0WBM) | 4:53 |
-| 50 | [Yellow Moon](https://open.spotify.com/track/0qmz5vEUmfwaO2Ema7VjE0) | [明星 <Akeboshi>](https://open.spotify.com/artist/5STm6pQxk2nHd7JVcQCBoa) | [Yellow Moon](https://open.spotify.com/album/4b8VI9iRWsbS06xYN0Rogb) | 0:29 |
+| 50 | [Yellow Moon](https://open.spotify.com/track/0qmz5vEUmfwaO2Ema7VjE0) | [明星 <Akeboshi>](https://open.spotify.com/artist/5STm6pQxk2nHd7JVcQCBoa) | [Yellow Moon](https://open.spotify.com/album/4b8VI9iRWsbS06xYN0Rogb) | 5:11 |
 | 51 | [ピノキオ](https://open.spotify.com/track/7dDY3F4eAXs6Rp0olRzBN0) | [ORESKABAND](https://open.spotify.com/artist/56OQWVhAWYw1yRxD0R2HSR) | [WAO!!](https://open.spotify.com/album/0dyEtIksUU6PYFBsttExjk) | 2:19 |
 | 52 | [シナリオ](https://open.spotify.com/track/30F5PZwQcNr5CRU66pIzRb) | [SABOTEN](https://open.spotify.com/artist/7sXuNhQNs04fBoANVpwUq0) | [シナリオ](https://open.spotify.com/album/0ZqlepXsFU3tQRjferu7Kx) | 3:18 |
 | 53 | [道標](https://open.spotify.com/track/5wWNIJ48TTYv0uLK9Rk5Yn) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [心景](https://open.spotify.com/album/2PT2sQZ4nzQ08RVCqei3xg) | 4:11 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 | 65 | [ラヴァーズ](https://open.spotify.com/track/3p5pxZMHYckuag289jDV9S) | [7!!](https://open.spotify.com/artist/3rJbSZv98yyWLNOvD6MsAV) | [ドキドキ](https://open.spotify.com/album/7vkc3ltubQau8rjKDV25YV) | 3:42 |
 | 66 | [newsong](https://open.spotify.com/track/7hJZYWwUv0nooEKOv8M3nm) | [tacica](https://open.spotify.com/artist/6iglpAqZTAmvm0ffNKlaFS) | [newsong e.p.](https://open.spotify.com/album/4nCNG6x0rHMC7B3PXIDmsc) | 3:31 |
 | 67 | [Moshimo](https://open.spotify.com/track/1Kss9j7vEw8qSr4ihI2R1h) | [Daisuke](https://open.spotify.com/artist/1UrLJfOnrfCZLeAAfdcYPO) | [Moshimo](https://open.spotify.com/album/4hq6zuZKNDSRKxPPuApEYg) | 3:58 |
-| 68 | [月の大きさ](https://open.spotify.com/track/5zzfDKUAzsHns9KhQ24iQz) | [Nogizaka46](https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq) | [バレッタ TypeA](https://open.spotify.com/album/34VdNoUlGdLQUG6T7YEpO3) | 0:29 |
+| 68 | [月の大きさ](https://open.spotify.com/track/5zzfDKUAzsHns9KhQ24iQz) | [Nogizaka46](https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq) | [バレッタ TypeA](https://open.spotify.com/album/34VdNoUlGdLQUG6T7YEpO3) | 3:56 |
 | 69 | [紅蓮](https://open.spotify.com/track/4oUrnIm8mNYH7GosaHIJvD) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [DOES](https://open.spotify.com/album/5DGEsMSPSZec7OLcn6uLoA) | 4:03 |
 | 70 | [風](https://open.spotify.com/track/0sJRu148C7jPWRj38x4wYY) | [Yamazaru](https://open.spotify.com/artist/6VuxycWaTHHrz5ZP5sNSsd) | [風](https://open.spotify.com/album/5h6x8s1b5fYthnOhwr9p7S) | 4:09 |
 | 71 | [LINE](https://open.spotify.com/track/1m3qFOyT5u01Yd2WBVX0cI) | [Sukima Switch](https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m) | [LINE](https://open.spotify.com/album/3JJFe7V4VAITHCxR8kg7Jm) | 4:40 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 | 90 | [Place to Try](https://open.spotify.com/track/4M5sXktNWk02yKcXfcGBFr) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [Place to Try](https://open.spotify.com/album/2DaUa6Tjbje7APna8mqiEg) | 3:39 |
 | 91 | [バイマイサイド](https://open.spotify.com/track/39zRDK54BJJQqcIYydsfSy) | [Hemenway](https://open.spotify.com/artist/1aelbjRiScFc639v34vNsv) | [バイマイサイド](https://open.spotify.com/album/4oTSOH7gH3wMqngbs05Zww) | 3:27 |
 | 92 | [カスケード](https://open.spotify.com/track/4DSpUCRkIjsCPHMejjBBkb) | [UNLIMITS](https://open.spotify.com/artist/79J1fd1c3x60MVdSkBMGoX) | [カスケード](https://open.spotify.com/album/6812lyYjNFc5eaCH15G3Gp) | 3:48 |
-| 93 | [この声枯らして](https://open.spotify.com/track/0upoZcX12ewPXjCi0Um2y1) | [AISHA](https://open.spotify.com/artist/2ZaCjRExBrJiwBJ6dfhwqw), [CHEHON](https://open.spotify.com/artist/6tQMcZAnZhztsJfTeZ5UYY) | [この声枯らして](https://open.spotify.com/album/0FUkDMCMPeag0MTFOh2LaZ) | 0:29 |
+| 93 | [この声枯らして](https://open.spotify.com/track/0upoZcX12ewPXjCi0Um2y1) | [AISHA](https://open.spotify.com/artist/2ZaCjRExBrJiwBJ6dfhwqw), [CHEHON](https://open.spotify.com/artist/6tQMcZAnZhztsJfTeZ5UYY) | [この声枯らして](https://open.spotify.com/album/0FUkDMCMPeag0MTFOh2LaZ) | 5:07 |
 | 94 | [さよならメモリー](https://open.spotify.com/track/65dTOvIBMqUgBfv9oqtces) | [7!!](https://open.spotify.com/artist/3rJbSZv98yyWLNOvD6MsAV) | [ドキドキ](https://open.spotify.com/album/3CkjjWdhr8y5wrIkNWkw21) | 3:38 |
 | 95 | [I Can Hear](https://open.spotify.com/track/0L7fEOHGGwruAQEv5NDiYZ) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [I Can Hear](https://open.spotify.com/album/4gEzorSNobwGnxDv6hXXKD) | 4:13 |
 | 96 | [夢を抱いて〜はじまりのクリスロード〜](https://open.spotify.com/track/5qLub0eSq8rKhz6Jmd3oiO) | [Rake](https://open.spotify.com/artist/3vQ2DVwzWWorNTS3kObltH) | [夢を抱いて〜はじまりのクリスロード〜](https://open.spotify.com/album/0hZBUR7ftz0ZAcPPaPFdEt) | 4:40 |
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 | 104 | [虹の空](https://open.spotify.com/track/1ugw9zRE5ufC6AA2YriY52) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [虹の空](https://open.spotify.com/album/4R8P6rKkqSlwJgIairXN5x) | 4:07 |
 | 105 | [トラブルメイカー](https://open.spotify.com/track/7kEFyP8uYvvK8gmTnV2WG6) | [KANIKAPILA](https://open.spotify.com/artist/4bedfsHRUZwNxKY8ybWekd) | [トラブルメイカー](https://open.spotify.com/album/1899GVOWcTJL3rRV8o5Lqx) | 4:04 |
 | 106 | [そんな君、こんな僕](https://open.spotify.com/track/6UNWa5YS4G0rJkisF4quAW) | [Thinking Dogs](https://open.spotify.com/artist/09bKUD807BdDQb21HLz0Lq) | [そんな君、こんな僕](https://open.spotify.com/album/1H8RzwNWOHOtDyFR4VEyew) | 4:48 |
-| 107 | [ピノとアメリ](https://open.spotify.com/track/7FU7YMyvkTUmzg7lAZdAhU) | [Huwie Ishizaki](https://open.spotify.com/artist/4NZJF1Qong0IAWBRE2EjTr) | [ピノとアメリ](https://open.spotify.com/album/4oLcoI947dNZ2m4qhmJBqU) | 0:29 |
+| 107 | [ピノとアメリ](https://open.spotify.com/track/7FU7YMyvkTUmzg7lAZdAhU) | [Huwie Ishizaki](https://open.spotify.com/artist/4NZJF1Qong0IAWBRE2EjTr) | [ピノとアメリ](https://open.spotify.com/album/4oLcoI947dNZ2m4qhmJBqU) | 4:33 |
 | 108 | [旅立ちの唄](https://open.spotify.com/track/2uwemnWSqSTlurgPTuG5Vn) | [Ayumikurikamaki](https://open.spotify.com/artist/0UDiy9fLk3rtgfh5lDqRqu) | [旅立ちの唄](https://open.spotify.com/album/2JPWO6LZguL45Vh3dSPEsl) | 3:27 |
 | 109 | [絶絶](https://open.spotify.com/track/1oifj4ZzYNNDvkM9mByhsM) | [Swimy](https://open.spotify.com/artist/2sUEUvyOBblaAJdcHnlLXV) | [絶絶ep](https://open.spotify.com/album/2IXNMAhPmymjYfZZDQPnOP) | 3:19 |
 | 110 | [Lie\-Lie\-Lie](https://open.spotify.com/track/3VjwnpyaDRKtwE8Py6GOQt) | [DJ OZMA](https://open.spotify.com/artist/20WW027E2lIhdDHif2m05y) | [Lie\-Lie\-Lie](https://open.spotify.com/album/1rNjYE0bTbhulTIfTWlSpD) | 3:46 |

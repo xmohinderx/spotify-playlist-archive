@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 
 > Laid\-back beats for an easygoing morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,965 likes - 169 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,997 likes - 169 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 | 34 | [perception](https://open.spotify.com/track/6fVMTxRuHpBL5TwL71HL6R) | [cloudi](https://open.spotify.com/artist/64LHvgl55hJTLXtgaO454g) | [perception](https://open.spotify.com/album/4pMhm2IQ8ojjdvOPpaZA91) | 1:25 |
 | 35 | [Bonsai Leaves](https://open.spotify.com/track/2pdYunyCJgWozx9tlAyu1V) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [Strong Maurice](https://open.spotify.com/artist/47gEMSfOuk4AEQbKhT0O3V) | [Pasture](https://open.spotify.com/album/6jAPtWXrCP066JPaKeG3gs) | 2:17 |
 | 36 | [hoj ti to](https://open.spotify.com/track/2qzjYqTA8dwy99L6Mhp91n) | [Ted Mandy](https://open.spotify.com/artist/6zuQeHBicF8rBO33EAf5TI) | [hoj ti to](https://open.spotify.com/album/2UuKxvayuxXBjzi5iSVuFO) | 1:50 |
-| 37 | [Low\-Key Into You](https://open.spotify.com/track/2z4t24jysAzffGRI99idTW) | [Benjamin August](https://open.spotify.com/artist/5mYtzsopZvARbaLrR0puNS) | [Low\-Key Into You](https://open.spotify.com/album/0h51gXK0Oe3OyfHBt2sgxV) | 0:29 |
+| 37 | [Low\-Key Into You](https://open.spotify.com/track/2z4t24jysAzffGRI99idTW) | [Benjamin August](https://open.spotify.com/artist/5mYtzsopZvARbaLrR0puNS) | [Low\-Key Into You](https://open.spotify.com/album/0h51gXK0Oe3OyfHBt2sgxV) | 2:20 |
 | 38 | [play it](https://open.spotify.com/track/78WfketyVicKm5FjIUlnjU) | [B.O Mitz](https://open.spotify.com/artist/2N2Pm6RaNByrYBzEcguka9) | [play it](https://open.spotify.com/album/2J32iHvpetzGjSi2BiM1JE) | 2:32 |
 | 39 | [Resistance](https://open.spotify.com/track/0EPGaVpdeFYEEWm77ynjwL) | [Le Giles](https://open.spotify.com/artist/10L8AituT5YOgxLrXwnWkn) | [Capacitance & Resistance](https://open.spotify.com/album/69wvNNzJFYHAUrJGwokZ3L) | 2:01 |
 | 40 | [No Spice](https://open.spotify.com/track/4CXxhPs3BHYbw1zpCxOt7E) | [Eazy Chilly](https://open.spotify.com/artist/5U8CoE6n8Qk0CamwlGzvUJ) | [Blue Days](https://open.spotify.com/album/17vgAGk55ehVmJvllHC7J0) | 1:45 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 | 68 | [Sundets](https://open.spotify.com/track/1s8KFO2b6qhK94kzCc375G) | [Kanbina Mind](https://open.spotify.com/artist/6sPgHyYKS3VMneq1yoflgm) | [Kanbina](https://open.spotify.com/album/6HZiWLomAqbJbt56oOiK34) | 2:02 |
 | 69 | [lucking out](https://open.spotify.com/track/6f8bZWdO64g2cgCJle01OD) | [late tripper](https://open.spotify.com/artist/6qAFdIh8283HnxwpcVa7yD) | [lucking out](https://open.spotify.com/album/0ESc7FdQlxeel0vvKVJkAa) | 2:13 |
 | 70 | [Scenery](https://open.spotify.com/track/0q7hWEmXW4wFGo4u1RrriA) | [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb), [Lawrence Walther](https://open.spotify.com/artist/40GMyQ5sv1bfiui9CrEPME) | [Scenery](https://open.spotify.com/album/1F85ZcndEEfLMCrABfeZ9t) | 2:10 |
-| 71 | [Angel Number](https://open.spotify.com/track/0nwUtqy8TOnRahAzCmL42A) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Angel Number](https://open.spotify.com/album/1X6EUgFJT1cwbG5SCePy7f) | 0:29 |
+| 71 | [Angel Number](https://open.spotify.com/track/0nwUtqy8TOnRahAzCmL42A) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Angel Number](https://open.spotify.com/album/1X6EUgFJT1cwbG5SCePy7f) | 2:26 |
 | 72 | [The Rain Said No](https://open.spotify.com/track/0QR9H35hAAIrT3PcBbaqEt) | [Grandmaster Tilden](https://open.spotify.com/artist/20yERPydly9DkcL45T65uJ) | [Weeds](https://open.spotify.com/album/3l6W3WJym9nVX0FNwChUzy) | 2:48 |
 | 73 | [no.2](https://open.spotify.com/track/1OM8kCT4sIrBDU0mFU6cUm) | [Horushi K](https://open.spotify.com/artist/0pOfzllQvQIJCr1zmKppfc) | [Pachong](https://open.spotify.com/album/1OZw6Dvy5YGWsmXx0HtM9Q) | 1:49 |
 | 74 | [Vanilla](https://open.spotify.com/track/4ORT7AWNeQ34OL7uboB43c) | [XXIII](https://open.spotify.com/artist/1iMewV5kCtODzBgKmPnIq7), [Silvaa.beats](https://open.spotify.com/artist/3TpGusolSBzkwFqtj9Kwre) | [Vanilla](https://open.spotify.com/album/1Yuuyou4kxFrniqFbfgsLL) | 2:03 |
@@ -134,7 +134,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 | 124 | [all the things I can't control](https://open.spotify.com/track/7qQot1bz4npRHXSrPGbfVa) | [Aviscerall](https://open.spotify.com/artist/39eka3QcVZN0xYUX5nvtXM) | [all the things I can't control](https://open.spotify.com/album/424klxgKsiS3TbbZjTylsD) | 2:14 |
 | 125 | [i cannot believe my eyes](https://open.spotify.com/track/64ag5onD9UYygeni6UAIs6) | [skipweath](https://open.spotify.com/artist/74eByJRUsX1z9H2SvNgkfa) | [i cannot believe my eyes](https://open.spotify.com/album/7EQHbsS3gYzm223QQETZUn) | 2:33 |
 | 126 | [Ophelia](https://open.spotify.com/track/3tZ9zFWeupwDORFgI0krgD) | [lilhugz](https://open.spotify.com/artist/3MjTMOiHklTmUksExsbTwq) | [Ophelia](https://open.spotify.com/album/7F5LJTqpYbuaxgmbORaJmc) | 2:40 |
-| 127 | [positive](https://open.spotify.com/track/6EXzpGmH1gpvQclBz4GcfR) | [Slopoke](https://open.spotify.com/artist/1iJ5ZP2QithYEHlojjT3Dw) | [positive](https://open.spotify.com/album/4dmOhdd46ePy9uaCQXwIaz) | 0:29 |
+| 127 | [positive](https://open.spotify.com/track/6EXzpGmH1gpvQclBz4GcfR) | [Slopoke](https://open.spotify.com/artist/1iJ5ZP2QithYEHlojjT3Dw) | [positive](https://open.spotify.com/album/4dmOhdd46ePy9uaCQXwIaz) | 2:33 |
 | 128 | [pEach cObbler](https://open.spotify.com/track/7nLZjRukkxR0WHv95DrnZX) | [aUra Lu](https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag) | [pEach cObbler](https://open.spotify.com/album/1jYX0kd0KX5wALVLaiur3i) | 1:50 |
 | 129 | [Days Of Noburu](https://open.spotify.com/track/31LBBQL98E7LutHxW9hT1X) | [Etzuko.](https://open.spotify.com/artist/2UnLJpotwiOvhCz8LXdVXb) | [Days Of Noburu](https://open.spotify.com/album/1sf3MH8rtSKOcuEoStAtnG) | 2:23 |
 | 130 | [Midnight Drive](https://open.spotify.com/track/4As7GSrNZ9KdczyqSP3asZ) | [Dream Phobia](https://open.spotify.com/artist/5PYBO1ouuWJGeyAJyimodq) | [In My Mind](https://open.spotify.com/album/4625gAejmwqcXrUuuPX3FZ) | 2:03 |
@@ -142,7 +142,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 | 132 | [Le Hippie](https://open.spotify.com/track/37bVtb7OiKv6L8qJuDWCBG) | [Herbert Ungarn](https://open.spotify.com/artist/0ha44a2tcK2b9iERUaXWAQ) | [Le Hippie](https://open.spotify.com/album/3y9zpas3INXBk6lUVnrIVF) | 2:22 |
 | 133 | [Wandering Spirits](https://open.spotify.com/track/76m67K7hbJPgW4rtsPKO6j) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP), [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb) | [Wandering Spirits](https://open.spotify.com/album/612IheuxPoqhGTVq3POXUM) | 2:45 |
 | 134 | [thoughtful](https://open.spotify.com/track/6UxJXmMIwCm8BhUxtlFCft) | [monolog](https://open.spotify.com/artist/6EPLnRqGeSBaydNgjC0Tom) | [thoughtful](https://open.spotify.com/album/6eF3xjASByX8RcuICSHQ55) | 2:18 |
-| 135 | [Lagoon](https://open.spotify.com/track/0bVyfYQTJoFbj1xR3ZzzdE) | [Zzcenic](https://open.spotify.com/artist/0ZEozBSxUxi99LJmOE3qOL) | [Lagoon](https://open.spotify.com/album/6ZzoQZAu83Y4F7q1LGn7xy) | 0:29 |
+| 135 | [Lagoon](https://open.spotify.com/track/0bVyfYQTJoFbj1xR3ZzzdE) | [Zzcenic](https://open.spotify.com/artist/0ZEozBSxUxi99LJmOE3qOL) | [Lagoon](https://open.spotify.com/album/6ZzoQZAu83Y4F7q1LGn7xy) | 2:14 |
 | 136 | [Colors Reborn](https://open.spotify.com/track/35TEwXps2V5OY2SQuj4MZR) | [Obie Hans](https://open.spotify.com/artist/59WcuCFVwOnZdOUvAHW1NV) | [Colors Reborn](https://open.spotify.com/album/01qBohYObZzLvk49rEtlov) | 2:32 |
 | 137 | [right now, huh?](https://open.spotify.com/track/3O1LaaHCHuombngwVBOOlE) | [shapeofbeatz](https://open.spotify.com/artist/4FsGtMHS0hniDPi7GjMvj5) | [right now, huh?](https://open.spotify.com/album/17b7BjWkdfP68m9WPOluWi) | 2:13 |
 | 138 | [Aisuru](https://open.spotify.com/track/1kNRezqPjsOWe4eD5PKFju) | [Pat Laine](https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g) | [Aisuru](https://open.spotify.com/album/39EihYglkIR0bgY68aTEht) | 2:44 |

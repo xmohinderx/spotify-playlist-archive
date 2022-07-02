@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YyEO1dtgbR.md) - [plain]
 
 > Experimental electronic beyond the borders of tradition.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,685 likes - 75 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,701 likes - 75 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YyEO1dtgbR.md) - [plain]
 | 29 | [Hoshikuzu Tenboudai](https://open.spotify.com/track/4KXBdopxHq9KVemwpazP4q) | [foodman](https://open.spotify.com/artist/4e8VeCyfFRBL1e06oGg1dR) | [Yasuragi Land](https://open.spotify.com/album/3X6y43KU2Rl8dFEMt76aow) | 2:35 |
 | 30 | [Life's Eye](https://open.spotify.com/track/42P7N4JchhebdIP85o1J9H) | [Jerome](https://open.spotify.com/artist/2nBW1boUyewDzaMao8BrtJ) | [Life's Eye](https://open.spotify.com/album/58IHisBAnBd1yi2UTivpGr) | 4:14 |
 | 31 | [Roygbiv](https://open.spotify.com/track/06teMXvgw1V8HP3wIfoMUm) | [Third Son](https://open.spotify.com/artist/3V0CkmupRFH97LSOafzfbc) | [Roygbiv](https://open.spotify.com/album/2l1FDimk3Ps9g404lYOsjr) | 5:08 |
-| 32 | [Black Rainbow](https://open.spotify.com/track/35fdFuD916UVSJ9BBAlMt4) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Black Rainbow / Moonlight](https://open.spotify.com/album/3OJZNp1l2uBQWXa0YTujmA) | 0:29 |
+| 32 | [Black Rainbow](https://open.spotify.com/track/35fdFuD916UVSJ9BBAlMt4) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Black Rainbow / Moonlight](https://open.spotify.com/album/3OJZNp1l2uBQWXa0YTujmA) | 4:32 |
 | 33 | [Nychthemera in A Major](https://open.spotify.com/track/1VXkNxE0szN2MNsk4x7P8C) | [Time Binding Ensemble](https://open.spotify.com/artist/3J38y27gYbg3Nea2kHAOsC) | [Nothing New Under the Sun](https://open.spotify.com/album/1jfzhXPBdOKHgWN8NyIZPt) | 3:40 |
 | 34 | [Copacetia](https://open.spotify.com/track/1VEO3XUn4W2dCCB0mCA5DG) | [Ochre](https://open.spotify.com/artist/0OmHDBh5styCXDWKwz58Ts) | [Lemodie \(15th Anniversary Edition\)](https://open.spotify.com/album/6vmNIGqZ4J7UGGIbAMpt8o) | 6:39 |
 | 35 | [In Flames](https://open.spotify.com/track/7tKquE5yFjw4p7Oev98FE8) | [Feral](https://open.spotify.com/artist/5DsrGhHrqGPbRsU93R9H5A) | [In Flames](https://open.spotify.com/album/5HEnjjuO3omOyLR158m9qi) | 3:29 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YyEO1dtgbR.md) - [plain]
 | 55 | [Shimmer and Glimmer](https://open.spotify.com/track/4ij6tfkN13bt1jfWGWXg9S) | [Chants](https://open.spotify.com/artist/1bboGoBc0rr3oXFdFlAjSC) | [Poly Pointillism](https://open.spotify.com/album/66zkrppo8OPQq9kMhxhzp0) | 2:10 |
 | 56 | [Heart of Darkness](https://open.spotify.com/track/5Ax3jEG6VsLbDEXVrmdSNB) | [Overlook](https://open.spotify.com/artist/3rkCIOMxodtXwWH17WoH1b), [Karim Maas](https://open.spotify.com/artist/6oxrR6cq85sqyD9RJK5RBY) | [UVB76\-018](https://open.spotify.com/album/0u3aRSYNf9dV1DDTkyATr1) | 6:43 |
 | 57 | [Fern Flowers](https://open.spotify.com/track/60jGfXjxMVaCtuPiDN81qx) | [Lutto Lento](https://open.spotify.com/artist/5u7ZnbVxxcImkr5fx8GJta) | [LEGENDO](https://open.spotify.com/album/62N0giCXIgepaMQl864MIk) | 4:32 |
-| 58 | [Surge](https://open.spotify.com/track/6g0TV5mLWMBQWTeDVSNGmp) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Surge](https://open.spotify.com/album/2qDP6JVB5FksPqvFJ4xnEs) | 0:29 |
+| 58 | [Surge](https://open.spotify.com/track/6g0TV5mLWMBQWTeDVSNGmp) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Surge](https://open.spotify.com/album/2qDP6JVB5FksPqvFJ4xnEs) | 4:44 |
 | 59 | [Theeves](https://open.spotify.com/track/21akbV3wXyKaD37ogldlzB) | [Jurango](https://open.spotify.com/artist/3yYwPy49Jy9zvElS6bsfxo) | [Theeves](https://open.spotify.com/album/3hvtDPoc9bAZBwBaVMJRZ9) | 4:38 |
 | 60 | [Glitter](https://open.spotify.com/track/2yeQcrKMvMELwJ1u6LUpwZ) | [Inigo Kennedy](https://open.spotify.com/artist/4UiRPifoPfW3sozAElsHYe) | [Eyes Closed in the Sun](https://open.spotify.com/album/0qqyOvdptTiXKRZZLYq4ea) | 6:07 |
 | 61 | [Woah](https://open.spotify.com/track/44UJiD8fCGMThu9po83lQr) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Woah](https://open.spotify.com/album/4O7A8PZimfssTEUOM7nxvE) | 5:03 |

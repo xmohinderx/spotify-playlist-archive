@@ -4,7 +4,7 @@
 
 > Your family can stomp, roar, and growl along to these songs about dinosaurs!
 
-91 songs - 2 hr 57 min - [published](https://open.spotify.com/playlist/5xr5WhoYuNNtSpHlvThomm)
+91 songs - 2 hr 59 min - [published](https://open.spotify.com/playlist/5xr5WhoYuNNtSpHlvThomm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,12 +51,12 @@
 | [I Am a Paleontologist](https://open.spotify.com/track/0MSqR4unoY5KReMoOP6E2D) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O), [Danny Weinkauf](https://open.spotify.com/artist/00s1oYBnUz6FlP3sdD6x0u) | [Here Comes Science](https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd) | 2:32 | 2022-01-14 |  |
 | [I Love Dinosaurs](https://open.spotify.com/track/4VR721woI4keJB0FEexftt) | [The MikMaks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [The MikMaks](https://open.spotify.com/album/2y3WycvsBQ8DWyjerX7NmI) | 1:52 | 2022-01-14 |  |
 | [I Want to Be a Dinosaur](https://open.spotify.com/track/67jLpM4I2DwzgdkEkpYMqH) | [Monkey Rock Music](https://open.spotify.com/artist/1Nb0YH1uQpQOnLlYDYwEiM) | [Monkey Rock Music](https://open.spotify.com/album/5mNZjlGPSFy80rU9tqD6R0) | 2:53 | 2022-01-14 |  |
-| [I Went To A Party With Dinosaurs](https://open.spotify.com/track/0GWkRtps0sXcKt1yuAPdiA) | [Andy Z](https://open.spotify.com/artist/6ETYDr9Q1fOPzBeUctjWgm) | [Welcome To Andyland](https://open.spotify.com/album/63sTRhpkQgancEZw6XLRhU) | 0:29 | 2022-01-14 |  |
+| [I Went To A Party With Dinosaurs](https://open.spotify.com/track/0GWkRtps0sXcKt1yuAPdiA) | [Andy Z](https://open.spotify.com/artist/6ETYDr9Q1fOPzBeUctjWgm) | [Welcome To Andyland](https://open.spotify.com/album/63sTRhpkQgancEZw6XLRhU) | 2:14 | 2022-01-14 |  |
 | [I'm A Little Dinosaur](https://open.spotify.com/track/5JC3RVsVRhkeG0Zw2T2bs1) | [Randy Kaplan](https://open.spotify.com/artist/03kKiot9h8in4294vr5FUm) | [Five Cent Piece](https://open.spotify.com/album/2qwZ5mxHuycIXdohstoXpX) | 2:14 | 2022-01-14 |  |
 | [I've Got a Dinosaur in My Back Yard!](https://open.spotify.com/track/2MBCVpOqGaVHncwaikBYa3) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk) | [I've Got a Dinosaur in My Back Yard!](https://open.spotify.com/album/0G7vEZn46mvoQG3qOK91QX) | 4:23 | 2022-01-14 |  |
 | [If Dinosaurs Were Still Alive](https://open.spotify.com/track/77gY2Dpk26t4U6s3NbDTpF) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Dinosaur Songs](https://open.spotify.com/album/4C2baITZMPwU2M5zB2VIjj) | 1:21 | 2022-01-14 |  |
 | [If I Could Be a Dinosaur](https://open.spotify.com/track/1hUsRrItLCkz53gK7v6K1K) | [Wee Sing](https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ) | [Wee Sing Dinosaurs](https://open.spotify.com/album/3CtjxdVm5LRDEPMSi6EzR1) | 0:46 | 2022-01-14 |  |
-| [If I Had a Dinosaur](https://open.spotify.com/track/5xKHWLaim1EWKC3Rn8lgLW) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [More Singable Songs](https://open.spotify.com/album/0MRTAsSv2VDaLyMiNLkyQN) | 0:29 | 2022-01-14 |  |
+| [If I Had a Dinosaur](https://open.spotify.com/track/5xKHWLaim1EWKC3Rn8lgLW) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [More Singable Songs](https://open.spotify.com/album/0MRTAsSv2VDaLyMiNLkyQN) | 1:06 | 2022-01-14 |  |
 | [Itsy Bitsy Tinysaur](https://open.spotify.com/track/7pgHPi3Oofl7Hb9X4xjSfS) | [Daddy Donut](https://open.spotify.com/artist/5A2AuQZwTIH1KtbV6g47D4) | [Dinosaur Songs](https://open.spotify.com/album/2E0PvfB0DgRIcNVbnW8MOr) | 2:05 | 2022-01-14 |  |
 | [Jazzasaurus](https://open.spotify.com/track/0iaLGnGlvDJ9buO8NEicBk) | [Laura Doherty](https://open.spotify.com/artist/7bVSBw7ZOfKRyPBzTjEIoG) | [Animal Tracks](https://open.spotify.com/album/1wKjCVsykLnMVSD1GjnoFa) | 2:20 | 2022-01-14 |  |
 | [Let's Sing About Dinosaurs](https://open.spotify.com/track/6Gs7Cv18lX5p2ebusnbO0D) | [Wee Sing](https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ) | [Wee Sing Dinosaurs](https://open.spotify.com/album/3CtjxdVm5LRDEPMSi6EzR1) | 2:55 | 2022-01-14 |  |

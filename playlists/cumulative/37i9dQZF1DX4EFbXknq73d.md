@@ -4,7 +4,7 @@
 
 > Hand\-picked kind, tasty jams! / Cover: Grateful Dead
 
-129 songs - 14 hr 30 min - [published](https://open.spotify.com/playlist/34uDDmpPcvj3AK4jHVKMxu)
+129 songs - 14 hr 41 min - [published](https://open.spotify.com/playlist/34uDDmpPcvj3AK4jHVKMxu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Portal to an Empty Head](https://open.spotify.com/track/4yp8SBDicCWL074V18wasl) | [The Disco Biscuits](https://open.spotify.com/artist/1sahk8ZhHF9FB59DMyDi8D) | [Otherwise Law Abiding Citizens](https://open.spotify.com/album/1YONbNiaS0FsDw82IJ4RoQ) | 6:50 | 2020-07-24 |  |
 | [Posthuman](https://open.spotify.com/track/4S3rxCB17lz2PYc76J4kiA) | [Robert Walter's 20th Congress](https://open.spotify.com/artist/7oGihoTlnS0XMulthQExEj), [Robert Walter](https://open.spotify.com/artist/4vqJywDSqxaNITMBlTRGER) | [Spacesuit](https://open.spotify.com/album/6TOYHislX8tElDKsRxwBW5) | 4:53 | 2020-09-08 |  |
 | [Present Ghosts](https://open.spotify.com/track/4QXGE5zWtIWNscLFs4FTob) | [Dopapod](https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX) | [Never Odd or Even](https://open.spotify.com/album/3mImh5KLHLBPk0MkuaihZG) | 8:04 | 2020-09-08 |  |
-| [Red Eyes](https://open.spotify.com/track/71jGGLe5VtEHjIk5dU2W3S) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5) | 0:29 | 2020-09-08 |  |
+| [Red Eyes](https://open.spotify.com/track/71jGGLe5VtEHjIk5dU2W3S) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5) | 4:58 | 2020-09-08 |  |
 | [Ripple \- Live](https://open.spotify.com/track/31Ch2wIS1T0ZTZf13XFvfs) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Reckoning \(Live\)](https://open.spotify.com/album/1T7YIthjEvwsxbUHZ7NdBD) | 4:27 | 2020-09-08 |  |
 | [Rita Is Gone](https://open.spotify.com/track/4gi81cgaU0Xmek1IuOENM5) | [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9) | [The Marcus King Band](https://open.spotify.com/album/2aV3gQ8recdvTivyl8EFiO) | 4:25 | 2020-09-08 |  |
 | [Ruby Waves \- Live, 4/20/19](https://open.spotify.com/track/3bNNZWjyWtN1MURGYMHOFd) | [Trey Anastasio](https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ), [Ghosts of the Forest](https://open.spotify.com/artist/6hyqfMtRP8jWaXrGrDLVFv) | [Ghosts of the Forest: Beneath a Sea of Stars \(Live\)](https://open.spotify.com/album/37n19PLHn5b0sVBEeUJZNJ) | 10:17 | 2020-09-08 |  |
@@ -126,7 +126,7 @@
 | [Truckin' \(Live at the Capitol Theatre, Port Chester, NY, 2/18/71\)](https://open.spotify.com/track/5cc8TvVgYMX4YXfoEUFOi1) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Truckin' \(Live at the Capitol Theatre, Port Chester, NY, 2/18/71\)](https://open.spotify.com/album/484WV51x5X8tXB2V11Fn9n) | 9:14 | 2020-09-24 |  |
 | [Tweezer Reprise](https://open.spotify.com/track/2dr35Ocrnflsum09XReWdC) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [LivePhish, Vol\. 16 10/31/98 \(Thomas & Mack Center, Las Vegas, NV\)](https://open.spotify.com/album/69H9X2W50K5Sy0MyhHbw3m) | 3:51 | 2020-09-08 |  |
 | [Two For Bleu](https://open.spotify.com/track/0tNDiq8LzjMNeSyqpv3RyK) | [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Charlie Hunter](https://open.spotify.com/album/251reNF6bDMHO5SB7YUvno) | 5:39 | 2020-09-08 |  |
-| [Typical Situation \- Live at Whittemore Center Arena, Durham, NH, 02.19.96](https://open.spotify.com/track/68UuRHI7HeiZl8DJMRlQ0W) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Live Trax Vol\. 23: Whittemoore Center Arena](https://open.spotify.com/album/2pJ6zerds0wfJUrKT8oaJm) | 0:29 | 2020-09-08 |  |
+| [Typical Situation \- Live at Whittemore Center Arena, Durham, NH, 02.19.96](https://open.spotify.com/track/68UuRHI7HeiZl8DJMRlQ0W) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Live Trax Vol\. 23: Whittemoore Center Arena](https://open.spotify.com/album/2pJ6zerds0wfJUrKT8oaJm) | 6:17 | 2020-09-08 |  |
 | [Use Me](https://open.spotify.com/track/5EGQGLZ9llVEC0jyhbORmG) | [Widespread Panic](https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf) | [Night of Joy](https://open.spotify.com/album/321EyhJFiv74lsARRlWdiO) | 8:27 | 2020-09-08 |  |
 | [V Neck Sweater](https://open.spotify.com/track/2QdcIeRxcBbTQk3B6fng25) | [The Greyboy Allstars](https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07) | [What Happened To Television?](https://open.spotify.com/album/6y4pGQRe2Nipa05NbGwsCq) | 2:35 | 2020-09-08 |  |
 | [Water in the Sky](https://open.spotify.com/track/21t0M7q4VA7LKIJNJUOwYC) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [The Story of the Ghost](https://open.spotify.com/album/420MDayNDxht0GcPwnBv1d) | 2:29 | 2020-09-08 |  |

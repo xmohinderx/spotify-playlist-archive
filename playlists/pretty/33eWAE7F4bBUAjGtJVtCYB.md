@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/33eWAE7F4bBUAjGtJVtCYB.md) - [plain]
 
 > För att fira de blå/gula färgerna har vi grävt djupt i den svenska låtskatten och sammanställt en spellista med 40 älskade klassiker\. Hitta spellistor för alla tillfällen på <a href="spotify:app:tunigo">Tunigo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 891 likes - 41 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 891 likes - 41 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [National Anthem Sweden \- Du Gamla, Du Fria](https://open.spotify.com/track/7nL0243awu5NCbQseIro2q) | [Kpm National Anthems](https://open.spotify.com/artist/3ASrAFrD7EMO3yISaDjs78) | [National Anthem Sweden \(Du Gamla, Du Fria\)](https://open.spotify.com/album/1qqnYZ5RAnPifhypdjCwog) | 0:47 |
 | 2 | [Sommar, Sommar, Sommar](https://open.spotify.com/track/4OWOm8ol4P3uUT81eyRZxE) | [Radions Underhallningsorkester](https://open.spotify.com/artist/7ekQSEOZHUS6bUkOqBTDwh) | [Sommar, sommar, sommar](https://open.spotify.com/album/0l537xeeUQXZAkArjKmb2H) | 0:45 |
 | 3 | [Sol, vind och vatten](https://open.spotify.com/track/4IyN7o0glm8gXgvEvT6oiZ) | [Ted Gärdestad](https://open.spotify.com/artist/6zpub6jbY6CdrcqQsDq8P4) | [Sol, vind och vatten/Det bästa med Ted Gärdestad](https://open.spotify.com/album/5nFegfmG4jQHvYVX0Mgr2A) | 3:09 |
-| 4 | [Sommaren är kort](https://open.spotify.com/track/6wnWpJGIcYrY7P6yIikerN) | [Tomas Ledin](https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn) | [Tomas Ledin \- 80\-Tal](https://open.spotify.com/album/0YdkVmcOnLjq178i8I2RzK) | 0:29 |
+| 4 | [Sommaren är kort](https://open.spotify.com/track/6wnWpJGIcYrY7P6yIikerN) | [Tomas Ledin](https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn) | [Tomas Ledin \- 80\-Tal](https://open.spotify.com/album/0YdkVmcOnLjq178i8I2RzK) | 3:03 |
 | 5 | [Turistens klagan](https://open.spotify.com/track/7E1LNK9XBkrBlVmiyBO6Sp) | [Cornelis Vreeswijk](https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9) | [Cornelis Bästa](https://open.spotify.com/album/6eoQyqhkcoDgjMHsqAphHs) | 3:16 |
 | 6 | [Barfotavisan](https://open.spotify.com/track/3f559IV4JDAlFO6SlG4usl) | [Mats Paulson](https://open.spotify.com/artist/0HW2OAV5XOPQgKoFx2Q6uJ) | [Väder Och Vind](https://open.spotify.com/album/7mbzFNxIbje2j3oq7ElGau) | 3:24 |
 | 7 | [Hav och sand](https://open.spotify.com/track/5b2SSDZIQzcaduHUoEPPpV) | [Lasse Berghagen](https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY) | [24 Bästa](https://open.spotify.com/album/4JciWM1Szae5nylLTHBVTH) | 3:12 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/33eWAE7F4bBUAjGtJVtCYB.md) - [plain]
 | 10 | [Att angöra en brygga](https://open.spotify.com/track/3drbNrqO4iNlzCBLUOChpE) | [The Real Group](https://open.spotify.com/artist/4EIXOUTnf8Gtbk2kq4LYNK) | [Sol, vind och vatten](https://open.spotify.com/album/5ByQdOQTMaqhdtgudt2Ivm) | 2:29 |
 | 11 | [Så skimrande var aldrig havet](https://open.spotify.com/track/2Ghsy6SwtSqiwslp7bJrSv) | [Lill Lindfors](https://open.spotify.com/artist/7CAcmPN2c4Tw70JQScmdwC) | [24 Bästa](https://open.spotify.com/album/28Q6o36lPOPWvMl6BcY69Q) | 2:37 |
 | 12 | [Himlen är oskyldigt blå](https://open.spotify.com/track/4cWqg5Ii9qHX33jjiLdV4m) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Den svenska sommaren](https://open.spotify.com/album/5P5XwOAYMZleMz7HLqTYlX) | 3:54 |
-| 13 | [Det blå](https://open.spotify.com/track/2Bc9r8LaZvW9EgB2zOgcij) | [Sonja Aldén](https://open.spotify.com/artist/3XyHsKlvXenLURpECPEQOJ) | [Under mitt tak](https://open.spotify.com/album/0JVsx5CVxCBlpEOIfy7uoj) | 0:29 |
+| 13 | [Det blå](https://open.spotify.com/track/2Bc9r8LaZvW9EgB2zOgcij) | [Sonja Aldén](https://open.spotify.com/artist/3XyHsKlvXenLURpECPEQOJ) | [Under mitt tak](https://open.spotify.com/album/0JVsx5CVxCBlpEOIfy7uoj) | 3:26 |
 | 14 | [Drömmen om Elin](https://open.spotify.com/track/4razqcIog5PxJQu5bKZmGt) | [Tommy Körberg](https://open.spotify.com/artist/6R21HSNyo7HVac8pyqY3T2) | [Änglamark](https://open.spotify.com/album/4ArA86KBWpxyBxVPfkAzd9) | 2:27 |
 | 15 | [Blomstarteid \(Den blomstertid nu kommer\)](https://open.spotify.com/track/3VijGUUqjWsYBe1s4eLEXJ) | [Ainbusk](https://open.spotify.com/artist/4bkmsIjrznXB4Eg19UATWt) | [Skynda att älska](https://open.spotify.com/album/4ORwenjc6VrwVb00DGV1B1) | 3:51 |
 | 16 | [Balladen om herr Fredrik Åkare och den söta fröken Cecilia Lind](https://open.spotify.com/track/4rDR0voqaAssWMNqaxHItT) | [Anita Lindblom](https://open.spotify.com/artist/2mcJ23guBaJ3g8i8Hjjw6E) | [25 bästa](https://open.spotify.com/album/1FcDOfoPCjXVz6edERlgUQ) | 3:17 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/33eWAE7F4bBUAjGtJVtCYB.md) - [plain]
 | 27 | [Bedårande sommarvals](https://open.spotify.com/track/0SgGRz86Qzr6q0td2rBBjm) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD), [Gals and Pals](https://open.spotify.com/artist/5jzboyuEKmtEVn8SqAnPVd) | [O vad en liten gumma kan gno](https://open.spotify.com/album/5fSDA3K2BP3bHRwOQyySo0) | 2:32 |
 | 28 | [Afton på Solvik](https://open.spotify.com/track/35aEw0M5M0WPA7jobI12w8) | [Andrew Walter](https://open.spotify.com/artist/2Yxp7rubuk3AIyix35fUTi) | [Dans på Brännö brygga](https://open.spotify.com/album/367In3E9IyjFgZw8wtDVKt) | 2:42 |
 | 29 | [Allt som jag känner](https://open.spotify.com/track/2QxhwvGFTcjdzicyUJaREZ) | [Tone Norum](https://open.spotify.com/artist/0a6rCwqcO5k3S6nHJFCRyn), [Tommy Nilsson](https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq) | [Den svenska sommaren](https://open.spotify.com/album/5P5XwOAYMZleMz7HLqTYlX) | 4:10 |
-| 30 | [Ett liv i solen](https://open.spotify.com/track/6OVkH9hsMLTTGP0SDYwTLK) | [Frida](https://open.spotify.com/artist/5uOVb4hLSQVbHbVVt27tV1) | [Ensam](https://open.spotify.com/album/3ssNBlU22lLeuYEiUhkDAS) | 0:29 |
+| 30 | [Ett liv i solen](https://open.spotify.com/track/6OVkH9hsMLTTGP0SDYwTLK) | [Frida](https://open.spotify.com/artist/5uOVb4hLSQVbHbVVt27tV1) | [Ensam](https://open.spotify.com/album/3ssNBlU22lLeuYEiUhkDAS) | 3:52 |
 | 31 | [Lilla Vackra Anna](https://open.spotify.com/track/237NEFOtZLXpgLL11J3L3n) | [Göran Fristorp](https://open.spotify.com/artist/2Yo1VjRnajVV0548nqI5gG) | [Fristorp Fullständig \[2 Cd\]](https://open.spotify.com/album/1sDi72AIyFuoMK3mGE5P0r) | 4:08 |
 | 32 | [Av längtan till dig](https://open.spotify.com/track/4s7bzuomGTaQ57m9ewrdzD) | [Cajsa Stina Åkerström](https://open.spotify.com/artist/0N98N0DiskOexjlZjJ6YZ7) | [En bit på väg](https://open.spotify.com/album/1FCgSQmMwUhUSu0Qd8GH9W) | 3:31 |
 | 33 | [Sträck ut din hand](https://open.spotify.com/track/1Lc7bKPaiBceH4NYkLDn2P) | [Lasse Berghagen](https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY) | [Svenska Dansfavoriter 3](https://open.spotify.com/album/11zaLW3fRLxEgKO31a7O0R) | 3:39 |

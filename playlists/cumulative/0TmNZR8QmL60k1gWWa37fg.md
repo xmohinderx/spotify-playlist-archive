@@ -4,11 +4,11 @@
 
 > Catch up on all the performers at the 2013 Macy's Thanksgiving Day Parade.
 
-28 songs - 1 hr 34 min - [published](https://open.spotify.com/playlist/5kv79IEcSNZJwbokg8gezQ)
+28 songs - 1 hr 36 min - [published](https://open.spotify.com/playlist/5kv79IEcSNZJwbokg8gezQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Ain't No Chimneys In The Projects](https://open.spotify.com/track/4rypPlTSyEa6E7Z6kxeuMT) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Soul Time!](https://open.spotify.com/album/71wOCRaYty23tGKYCwCiSJ) | 0:29 | 2013-11-29 |  |
+| [Ain't No Chimneys In The Projects](https://open.spotify.com/track/4rypPlTSyEa6E7Z6kxeuMT) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Soul Time!](https://open.spotify.com/album/71wOCRaYty23tGKYCwCiSJ) | 2:21 | 2013-11-29 |  |
 | [Amazing Grace](https://open.spotify.com/track/6sMKUs0782Jo7SKYYso7tk) | [Cherokee National Youth Choir](https://open.spotify.com/artist/7BZ3hZC5J0I8sZyiJ8SzKF) | [Precious Memories](https://open.spotify.com/album/2P1LjBw8UMOZhw31mjufyO) | 2:17 | 2013-11-18 |  |
 | [Banga! Banga!](https://open.spotify.com/track/5zA45MPrqNiFZb9IUeTLDm) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z) | [Banga! Banga!](https://open.spotify.com/album/64UIvMWfPhNCGbFAvvVaep) | 3:15 | 2013-11-18 |  |
 | [Best Days of Your Life](https://open.spotify.com/track/27BMLvWD1TYdosiReVgbAt) | [Kellie Pickler](https://open.spotify.com/artist/021hNAnkFIbyFyL97br6NB) | [Kellie Pickler](https://open.spotify.com/album/1PaWZcwVckRVsEGwhGxEEG) | 3:46 | 2013-11-18 |  |

@@ -4,7 +4,7 @@
 
 > Hasta allá donde tú te encuentres te ha de llegar mi olvido.
 
-50 songs - 2 hr 31 min - [published](https://open.spotify.com/playlist/2BaZ95RVlGdhSZvXT2egiK)
+50 songs - 2 hr 32 min - [published](https://open.spotify.com/playlist/2BaZ95RVlGdhSZvXT2egiK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Te Voy a Olvidar](https://open.spotify.com/track/6DAlU6VmY22PDAI8KpLRT2) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con Mariachi Vol.2 \(with El Mariachi México '70 de Pepe López\)](https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd) | 3:23 | 2022-01-25 |  |
 | [Tengo Que Olvidar](https://open.spotify.com/track/4yrX8XKr7g75yemExDlcO5) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Todo](https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX) | 3:16 | 2022-01-25 |  |
 | [Todo](https://open.spotify.com/track/16ZxtS0oRWIBhxdpA9oDOr) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Todo](https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX) | 2:27 | 2022-01-25 |  |
-| [Tu Abandono](https://open.spotify.com/track/2fdWAsOrZDwNhAk7CA67Fb) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [10 De Los Grandes De Juan Gabriel](https://open.spotify.com/album/4pTqllwyGiIb7kD9Jvg6EP) | 0:29 | 2022-01-25 |  |
+| [Tu Abandono](https://open.spotify.com/track/2fdWAsOrZDwNhAk7CA67Fb) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [10 De Los Grandes De Juan Gabriel](https://open.spotify.com/album/4pTqllwyGiIb7kD9Jvg6EP) | 1:50 | 2022-01-25 |  |
 | [Ya Me Voy](https://open.spotify.com/track/5im9CHHz4v7szI9wxEVcvf) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel Con Banda..\. El Recodo](https://open.spotify.com/album/3noaO4I0Z1RCHltgBtmabl) | 2:19 | 2022-01-25 |  |
 | [Ya No Quiero Volver Con Usted](https://open.spotify.com/track/1lCSFyE36mLI4yCBcfNZCe) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Todo](https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX) | 2:32 | 2022-01-25 |  |
 | [Ya No Vuelvo a Molestarte](https://open.spotify.com/track/7ykNB1WZij1HwzWAEaykA4) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con Mariachi Vol.2 \(with El Mariachi México '70 de Pepe López\)](https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd) | 2:12 | 2022-01-25 |  |

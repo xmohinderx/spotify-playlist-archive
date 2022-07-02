@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,742 likes - 121 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,814 likes - 121 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 34 | [Magic Mind](https://open.spotify.com/track/3nqicEuiIvZvqtHeQtue74) | [Duane Drew](https://open.spotify.com/artist/5yFE7Dwg7yEJtQNGBuAx0J) | [Magic Mind](https://open.spotify.com/album/2sqn4T8rIqQkc0WHBabWIC) | 2:35 |
 | 35 | [Soft Break](https://open.spotify.com/track/7wUsYTdSrTZUTkAeu9JXnU) | [Zzcenic](https://open.spotify.com/artist/0ZEozBSxUxi99LJmOE3qOL) | [Soft Break](https://open.spotify.com/album/26e0W4CJZT6KL5BUrLOA8F) | 1:52 |
 | 36 | [Heaven's Nite](https://open.spotify.com/track/4n5QiZSOrc5dK6a9QFlL38) | [Blizzful](https://open.spotify.com/artist/0gG46tMHvdFASm9BmM0icf) | [Heaven's Nite](https://open.spotify.com/album/3elfAJETFNriDHy3SIbP8d) | 2:29 |
-| 37 | [Easy](https://open.spotify.com/track/3tsA89ew9UKnNL1O5PAOL2) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Easy](https://open.spotify.com/album/2HJonL9q1xMZA8dXxMR9bH) | 0:29 |
+| 37 | [Easy](https://open.spotify.com/track/3tsA89ew9UKnNL1O5PAOL2) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Easy](https://open.spotify.com/album/2HJonL9q1xMZA8dXxMR9bH) | 1:34 |
 | 38 | [Água de beber \- Lofi](https://open.spotify.com/track/1H1q2sQFV13oGHbMMOs48W) | [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv), [FaOut](https://open.spotify.com/artist/4yRJjgsEvPRqZOyNBOfZ9V) | [Água de beber \(Lofi\)](https://open.spotify.com/album/6E8Q1FV8DZsMZxannvP0BO) | 2:47 |
 | 39 | [nightfall](https://open.spotify.com/track/6Jll9RzBBvPYWWNvQhiPyj) | [Roe Cutz](https://open.spotify.com/artist/3tv9tFr4bEFisyEYhXkyxQ) | [nightfall](https://open.spotify.com/album/7dag2jPl7v0GCjXPPMkBPd) | 2:13 |
 | 40 | [full sail ahead](https://open.spotify.com/track/0NkI38RjrMyLaboKWpxA86) | [Summeriez](https://open.spotify.com/artist/2aVml0FoztVW45SVjA0FsW) | [full sail ahead](https://open.spotify.com/album/7zksuVzQD8iJXqVe09y96k) | 2:14 |

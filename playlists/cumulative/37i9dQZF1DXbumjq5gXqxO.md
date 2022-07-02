@@ -4,7 +4,7 @@
 
 > Check out the Official Hustle Playlist\. Watch now on Netflix.
 
-23 songs - 1 hr 20 min - [published](https://open.spotify.com/playlist/65dLCw1mMs6FlCK4Cx2lXJ)
+23 songs - 1 hr 24 min - [published](https://open.spotify.com/playlist/65dLCw1mMs6FlCK4Cx2lXJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Street Talkin'](https://open.spotify.com/track/4TGHOWSNAwUXn5onDQr0P1) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [The Art Of Storytelling](https://open.spotify.com/album/4cZL0gsOEIOPLXdhc18vex) | 3:41 | 2022-06-08 |  |
 | [Streetball](https://open.spotify.com/track/1p8pZ8f1DvFZZ2GiiKuHFG) | [Dan Deacon](https://open.spotify.com/artist/5Z3IWpvwOvoaWodujHw7xh), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M), [Royal Scottish National Orchestra](https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf) | [Hustle \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/3jex2C4qMfmBiXmRcIE8Oj) | 2:02 | 2022-06-08 |  |
 | [Sunny \- Summer Vibe Mix](https://open.spotify.com/track/12Dov40hSJdrgS5uHGKNP3) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Relax Edition 9](https://open.spotify.com/album/0qVnxo6sYG3Dl7Fzw4PRKs) | 4:19 | 2022-06-08 |  |
-| [The Seed \(2.0\)](https://open.spotify.com/track/6HxweNytuEQdmGeVtZPZz3) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [Cody Chesnutt](https://open.spotify.com/artist/3sO8muEXafy2NGwUZByrTr) | [Phrenology](https://open.spotify.com/album/01FOonRYntwISzaCSa7S7p) | 0:29 | 2022-06-08 |  |
+| [The Seed \(2.0\)](https://open.spotify.com/track/6HxweNytuEQdmGeVtZPZz3) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [Cody Chesnutt](https://open.spotify.com/artist/3sO8muEXafy2NGwUZByrTr) | [Phrenology](https://open.spotify.com/album/01FOonRYntwISzaCSa7S7p) | 4:27 | 2022-06-08 |  |
 | [The World Is Mine](https://open.spotify.com/track/4xmq2DFdbkwVqimOKQGZU7) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [The World Is Mine](https://open.spotify.com/album/5g8JqJiCJig4cHawcL65Py) | 2:55 | 2022-06-08 |  |
 | [¿Porqué te vas?](https://open.spotify.com/track/11rsK9GDZ9UdWsxtDqnMmN) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Porque Te Vas](https://open.spotify.com/album/1qCaXMufzGyuuhkwvl2TYy) | 3:21 | 2022-06-08 |  |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 
 > Soak up the serenity with these beautiful melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,379 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,392 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 23 | [fiimy \- fuck it, i miss you](https://open.spotify.com/track/4BWtx4oafnboNpyH1x8zEc) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [fiimy \(fuck it, i miss you\)](https://open.spotify.com/album/4Vygyz6oY8L618erw7bx99) | 3:58 |
 | 24 | [Tell Me About It](https://open.spotify.com/track/4NVTUHYCmMGtnnULELfZjy) | [thea wang](https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo) | [Tell Me About It](https://open.spotify.com/album/10yraezHmuWHzLrJK5qEls) | 3:20 |
 | 25 | [I Guess That Was Goodbye](https://open.spotify.com/track/3mtSPmyeEkkqvHdXj7W4qg) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [I Guess That Was Goodbye](https://open.spotify.com/album/1Ta5G7cdU0U7yDjZjbvyVl) | 3:10 |
-| 26 | [Miss The Rest](https://open.spotify.com/track/1UE3EwqySM5IXywpXUyuNZ) | [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Miss The Rest](https://open.spotify.com/album/1QoshcVjsmudDw9K2JSDWJ) | 0:29 |
+| 26 | [Miss The Rest](https://open.spotify.com/track/1UE3EwqySM5IXywpXUyuNZ) | [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Miss The Rest](https://open.spotify.com/album/1QoshcVjsmudDw9K2JSDWJ) | 2:50 |
 | 27 | [i should just leave](https://open.spotify.com/track/1b2liV9Zp9IemfkwDwk9JK) | [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [i should just leave](https://open.spotify.com/album/6tnvpdq0gI8htBVcwWMFgg) | 3:33 |
 | 28 | [Come Close](https://open.spotify.com/track/10LSITr9KpQs2uCh7g2QQh) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Come Close](https://open.spotify.com/album/3IwrLHxANKcf9PKXpZ2lh7) | 2:59 |
 | 29 | [Memory Lane](https://open.spotify.com/track/1KMEDSIl2j1NwYa9mgvMyg) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Memory Lane](https://open.spotify.com/album/5qkmdOLUeAkSMJlP0DnLFk) | 2:34 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 61 | [wish you were here](https://open.spotify.com/track/0DEVHeqxATyAmwUMFGFTfv) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wish you were here](https://open.spotify.com/album/30ssp982Ym9GCQstBVvEve) | 3:22 |
 | 62 | [November \(No Hard Feelings\)](https://open.spotify.com/track/3N8Ki2VXGM1WiSeUyGJYaD) | [Chris Bates](https://open.spotify.com/artist/1wMxoWB76tKp8gOJDGRxxJ) | [they don't know a thing about me 2.0](https://open.spotify.com/album/4twPtThjgLVmCHImxrE6Xt) | 4:28 |
 | 63 | [Traffic Lights](https://open.spotify.com/track/6CRMSbYypKAf9XubEsmvkN) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Traffic Lights](https://open.spotify.com/album/374RbvDWAdosSKBLYOjh5z) | 3:24 |
-| 64 | [Broken Love](https://open.spotify.com/track/1FWhEtW3U4QjSBtY9aIauZ) | [Jordan Anthony](https://open.spotify.com/artist/5Ec9nF9JPvOgcpQv8NlNay) | [Broken Love](https://open.spotify.com/album/1TBhau4j1Mu5OE79ppbskY) | 0:29 |
+| 64 | [Broken Love](https://open.spotify.com/track/1FWhEtW3U4QjSBtY9aIauZ) | [Jordan Anthony](https://open.spotify.com/artist/5Ec9nF9JPvOgcpQv8NlNay) | [Broken Love](https://open.spotify.com/album/1TBhau4j1Mu5OE79ppbskY) | 4:00 |
 | 65 | [Amy Shark](https://open.spotify.com/track/7tqxntC1aIERvpBdo4PU03) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Amy Shark](https://open.spotify.com/album/4VIz1hhfNr7d6zkSh31Zv7) | 3:07 |
 | 66 | [Afterlove](https://open.spotify.com/track/41Y62K2cEzTms22MQx7mIO) | [Mason Watts](https://open.spotify.com/artist/3U0qz6QvONMmrEb3gO1jZN) | [Afterlove](https://open.spotify.com/album/74aFSJNqK2F8x5GSWuXPe3) | 3:24 |
 | 67 | [happy for you](https://open.spotify.com/track/27KDaaYxMJgJcyixSP7oHO) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [happy for you](https://open.spotify.com/album/7ICy7rPZmqu9weXb8j5LrB) | 2:45 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 69 | [Dependent](https://open.spotify.com/track/2DTZh7A26l610AyBSl0XQV) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Dependent](https://open.spotify.com/album/72JaAAHyW5lWTearn99Tbb) | 3:18 |
 | 70 | [if i were a friend](https://open.spotify.com/track/11gjN7Mh7DA6GzVJmhUvcn) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [if i were a friend](https://open.spotify.com/album/6n5YzvSeJh7THkuLUAAnRE) | 2:32 |
 | 71 | [Winter City](https://open.spotify.com/track/6pdvuLmF736BybOwSYEXeg) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Winter City](https://open.spotify.com/album/3MUZrFCwm6v0aUQaawLcFG) | 2:41 |
-| 72 | [Waste My Time](https://open.spotify.com/track/6VKw8mwyk1Z1bFCXy1PC6C) | [Hattie Oates](https://open.spotify.com/artist/21XMngjCd7tTpvn2ruHB6R) | [Waste My Time](https://open.spotify.com/album/15sNqB0QCpkWaTsvuYcLPs) | 0:29 |
+| 72 | [Waste My Time](https://open.spotify.com/track/6VKw8mwyk1Z1bFCXy1PC6C) | [Hattie Oates](https://open.spotify.com/artist/21XMngjCd7tTpvn2ruHB6R) | [Waste My Time](https://open.spotify.com/album/15sNqB0QCpkWaTsvuYcLPs) | 4:26 |
 | 73 | [Perfect Conditions](https://open.spotify.com/track/5PegehfZSBLp5HZ8OuUJQz) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Perfect Conditions](https://open.spotify.com/album/3FM0hBQz5w7U6hLd6upexO) | 2:51 |
 | 74 | [Wrecked](https://open.spotify.com/track/1X3XX1npmZ0RZfitNPsNIJ) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [Wrecked](https://open.spotify.com/album/0q2zjzbYPDkVvobNut4pfu) | 3:24 |
 | 75 | [Break With Me](https://open.spotify.com/track/28ISI9ACJ3Z3tQ7rQehHlZ) | [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Break With Me](https://open.spotify.com/album/47KET5CfuFBk1zjC3UTilg) | 2:35 |

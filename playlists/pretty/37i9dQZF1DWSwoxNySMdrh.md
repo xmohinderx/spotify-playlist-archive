@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwoxNySMdrh.md) - [plain]
 
 > Listen Korean indie queen BOL4's melting voice.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,943 likes - 77 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,987 likes - 77 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwoxNySMdrh.md) - [plain]
 | 53 | [심술](https://open.spotify.com/track/1oA76RZAamiCIxfOn3kBUj) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Half Album RED ICKLE](https://open.spotify.com/album/32bYHeLBEGkEwdEHuv1IWp) | 2:38 |
 | 54 | [가끔씩 \(우지윤의 보컬 스틸\)](https://open.spotify.com/track/0vxff4hUpCAU9O21MH33Ay) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Half Album RED ICKLE](https://open.spotify.com/album/32bYHeLBEGkEwdEHuv1IWp) | 3:43 |
 | 55 | [Mermaid](https://open.spotify.com/track/35Hag1i7PY2FFTvflTUUr8) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/4pR0eatWzDISWS8LHv5dzZ) | 4:56 |
-| 56 | [Be Your Christmas \(feat\. BOL4\)](https://open.spotify.com/track/4zoiPeH0WyFLqStxsHtUHT) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp), [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Be Your Christmas](https://open.spotify.com/album/0PrF2IuvcBPb0ZKdL64stz) | 0:29 |
+| 56 | [Be Your Christmas \(feat\. BOL4\)](https://open.spotify.com/track/4zoiPeH0WyFLqStxsHtUHT) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp), [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Be Your Christmas](https://open.spotify.com/album/0PrF2IuvcBPb0ZKdL64stz) | 2:38 |
 | 57 | [25](https://open.spotify.com/track/4ap4V1LYFyBQDxHKQSavKq) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Two Five](https://open.spotify.com/album/0UJsvx1tZnZRmcpzaG3wRH) | 3:16 |
 | 58 | [XX](https://open.spotify.com/track/7ffi3nWxgyGiQW84Jghlhe) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Two Five](https://open.spotify.com/album/0UJsvx1tZnZRmcpzaG3wRH) | 3:14 |
 | 59 | [Taste](https://open.spotify.com/track/7m4i9WUvXhdF28TW38qLNq) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Two Five](https://open.spotify.com/album/0UJsvx1tZnZRmcpzaG3wRH) | 3:05 |

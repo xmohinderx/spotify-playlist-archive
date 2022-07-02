@@ -1,12 +1,12 @@
 {
   "description": "iykyk",
-  "num_followers": 3623,
+  "num_followers": 3630,
   "original_name": "Internet Famous",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjAyMTI0MywwMDAwMDAyNjAwMDAwMTgxOTI4ZWQ1YjcwMDAwMDE3YzkyOTQxZWVl",
+  "snapshot_id": "MTY1NjY2NDAxMSwwMDAwMDAyNzAwMDAwMTgxYjhkZWIxOGEwMDAwMDE3YzkyOTQxZWVl",
   "tracks": [
     {
       "added_at": "2022-06-13 13:22:53",
@@ -103,6 +103,22 @@
       "duration_ms": 185364,
       "name": "Kwaku the Traveller",
       "url": "https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop"
+    },
+    {
+      "added_at": "2022-07-01 08:26:51",
+      "album": {
+        "name": "EX BOYFRIEND",
+        "url": "https://open.spotify.com/album/1OVZQ2AGHb6fQM0CFAviQq"
+      },
+      "artists": [
+        {
+          "name": "Raybekah",
+          "url": "https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW"
+        }
+      ],
+      "duration_ms": 134546,
+      "name": "EX BOYFRIEND",
+      "url": "https://open.spotify.com/track/3pcITc6cPAvj5JtOnXiB1X"
     },
     {
       "added_at": "2022-03-28 06:46:40",

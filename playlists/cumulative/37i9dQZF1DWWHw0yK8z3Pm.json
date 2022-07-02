@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "Singer-songwriters who colour outside the lines. Cover: Digging Roots",
+  "description": "Singer-songwriters who colour outside the lines. Cover: Julian Taylor",
   "name": "Renegade Folk",
   "published_playlist_ids": [
     "5h0SoEEkn4gAx7xRIlcPhO"
@@ -460,6 +460,24 @@
     },
     {
       "album": {
+        "name": "Communion (Country version)",
+        "url": "https://open.spotify.com/album/4xiVZUqaazxXUHUVYoOI1A"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234626,
+      "name": "Communion - Country version",
+      "url": "https://open.spotify.com/track/0Nyu1FPOJAu7JykM4mf6HR"
+    },
+    {
+      "album": {
         "name": "Crucified",
         "url": "https://open.spotify.com/album/1LJqHpDylPidxHHunS58Se"
       },
@@ -731,7 +749,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 186197,
       "name": "Fall",
       "url": "https://open.spotify.com/track/0V6Z6nEvYq7IG1ar1zm5gT"

@@ -4,7 +4,7 @@
 
 > Sunny beats and the latest heat to soundtrack your summer.
 
-50 songs - 2 hr 35 min - [published](https://open.spotify.com/playlist/2K6YrqQzm2uYcrfoftG3PK)
+50 songs - 2 hr 41 min - [published](https://open.spotify.com/playlist/2K6YrqQzm2uYcrfoftG3PK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Before You Get a Boyfriend.](https://open.spotify.com/track/4KVTbc2x0EahbAaLHv8TkH) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Before You Get a Boyfriend.](https://open.spotify.com/album/09vk699RVpDUZ0fPXbTfZS) | 4:13 | 2018-09-14 |  |
 | [Change](https://open.spotify.com/track/6vKqMteEK461i7fZbnfLqF) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Joy, Ease, Lightness](https://open.spotify.com/album/4kyr762vpU3cdZTqto4NdF) | 4:35 | 2018-09-14 |  |
 | [Changed](https://open.spotify.com/track/1eqUhiAigR4rtx5EmZkiNl) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Changed](https://open.spotify.com/album/1PyVw5kgM8EZGH0BABIvTK) | 3:50 | 2018-09-14 |  |
-| [Cinnamon](https://open.spotify.com/track/0VH7wmxrvFD1VBU701vueP) | [Hurley Mower](https://open.spotify.com/artist/6CoTYzOyg2NW2OUEFaSTxO) | [Cinnamon](https://open.spotify.com/album/3XalQXmk1Cek8ZBEjNQPFv) | 0:29 | 2018-09-14 |  |
+| [Cinnamon](https://open.spotify.com/track/0VH7wmxrvFD1VBU701vueP) | [Hurley Mower](https://open.spotify.com/artist/6CoTYzOyg2NW2OUEFaSTxO) | [Cinnamon](https://open.spotify.com/album/3XalQXmk1Cek8ZBEjNQPFv) | 2:49 | 2018-09-14 |  |
 | [Confession](https://open.spotify.com/track/1KRoRM6vuzm3TTAMDrQYNK) | [McClenney](https://open.spotify.com/artist/44drVL4jbdo6T6llD5cMgx) | [Confession](https://open.spotify.com/album/3KrnlFZDvXlRWNnTRR3sxQ) | 3:55 | 2018-09-14 |  |
 | [Cool It](https://open.spotify.com/track/063IdJMX78fSgSJnaYwSKh) | [Mars Today](https://open.spotify.com/artist/60jVpPkp3hgECctyeE9gWH) | [Cool It](https://open.spotify.com/album/5VoqRVINQCZpRLvPeSPfmI) | 3:42 | 2018-09-14 |  |
 | [Crumbs](https://open.spotify.com/track/0wgElszsos5fWd2lT8AJGG) | [Jordan Dennis](https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5), [Blush'ko](https://open.spotify.com/artist/2HIOco7R2mZPqBSL2SMIFw) | [Crumbs](https://open.spotify.com/album/5nRCPFk5CcyWduE1zgskS0) | 3:13 | 2018-09-14 |  |
@@ -44,7 +44,7 @@
 | [Riri Thick \- Moods Remix](https://open.spotify.com/track/0xT4knFEialXamJIax97Yx) | [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh), [Sun BLVD](https://open.spotify.com/artist/7K9cfCRuleWnt1AmUxsCf9), [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Sundae Sauuce Presents: Strawberry Drizzle](https://open.spotify.com/album/1uGtAEx6E84HjpI77vWDtt) | 3:23 | 2018-09-14 |  |
 | [Roll \(Burbank Funk\)](https://open.spotify.com/track/01bfHCsUTwydXCHP1VoLlI) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 3:11 | 2018-09-14 |  |
 | [Rollercoaster](https://open.spotify.com/track/2MLgNLIkT0SZ2YPhZ8rbg4) | [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Rollercoaster](https://open.spotify.com/album/4ZCormQxAfZzBFxNx0jnfm) | 3:17 | 2018-09-14 |  |
-| [Rollin \(feat\. Future & Khalid\)](https://open.spotify.com/track/3FDrI0FLKzrYQiWxPhqV2W) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Rollin \(feat\. Future & Khalid\)](https://open.spotify.com/album/6nt2urfBROkUQWnzpSOohu) | 0:29 | 2018-09-14 |  |
+| [Rollin \(feat\. Future & Khalid\)](https://open.spotify.com/track/3FDrI0FLKzrYQiWxPhqV2W) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Rollin \(feat\. Future & Khalid\)](https://open.spotify.com/album/6nt2urfBROkUQWnzpSOohu) | 4:32 | 2018-09-14 |  |
 | [Scintilla](https://open.spotify.com/track/7rYCnrsH8kAV9kJm6zI6UE) | [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW), [Luna Mae](https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP) | [Scintilla / Break My Back](https://open.spotify.com/album/4StJrEkwzZtJgqqKTwljuS) | 3:04 | 2018-09-14 |  |
 | [Sky High](https://open.spotify.com/track/4KPTn94q9A0WsuypOrSzIV) | [Mr\. Goldenfold](https://open.spotify.com/artist/6FPuOcm8xqY362N137yZXi) | [Neighborhood](https://open.spotify.com/album/5LvMZHMGHz6w3N2nwVjdkB) | 2:55 | 2018-09-14 |  |
 | [Slinky Man](https://open.spotify.com/track/0nVLAxfxzW9487k5LZpscC) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Irene](https://open.spotify.com/album/156TeTaPykSuBs9lh0h2vc) | 2:11 | 2018-09-14 |  |

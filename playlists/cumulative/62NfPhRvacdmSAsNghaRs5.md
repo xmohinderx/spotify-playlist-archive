@@ -4,7 +4,7 @@
 
 > 
 
-50 songs - 3 hr 40 min - [published](https://open.spotify.com/playlist/5Ojj6385TJ75qjGp5etqJt)
+50 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/5Ojj6385TJ75qjGp5etqJt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Diamonds and Pearls](https://open.spotify.com/track/7IoLw1bECmOSWcm2u9SmRH) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Diamonds and Pearls](https://open.spotify.com/album/0qcgEPOg67XnxGizdAAcGa) | 4:45 | 2013-06-27 |  |
 | [Don't Let the Sun Go Down on Me](https://open.spotify.com/track/0q90594hk25yo0xZmBTqCd) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 5:46 | 2013-06-27 |  |
 | [End Of The Road](https://open.spotify.com/track/1c48FSKfpobDF3VzopU10V) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [The Best Of Boyz II Men 20th Century Masters The Millennium Collection](https://open.spotify.com/album/1aVyRcDS6m2qIyiSgCj4ge) | 5:48 | 2013-06-27 |  |
-| [Finally](https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv) | [CeCe Peniston](https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD) | [Finally](https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip) | 0:29 | 2013-06-27 |  |
+| [Finally](https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv) | [CeCe Peniston](https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD) | [Finally](https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip) | 4:05 | 2013-06-27 |  |
 | [Giving Him Something He Can Feel](https://open.spotify.com/track/70aBlCLalffIq1c1cng6zO) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [The Very Best of En Vogue](https://open.spotify.com/album/6ABqEktNUuYULXWUubkHKg) | 3:55 | 2013-06-27 |  |
 | [Good For Me](https://open.spotify.com/track/2GwDKcTJlvoRDaJXkA7ULJ) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Heart In Motion](https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H) | 3:59 | 2013-06-27 |  |
 | [Humpin' Around \- Album Mix](https://open.spotify.com/track/7lhjU4EUIW66x3GCqmYDgO) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE), [Stylz](https://open.spotify.com/artist/48qNVPF7H7nw6RFgGjJbTk) | [The Best Of Bobby Brown 20th Century Masters The Millennium Collection](https://open.spotify.com/album/1T7RZdtMdC1svs3WGT15A5) | 4:21 | 2013-06-27 |  |
@@ -54,7 +54,7 @@
 | [The Best Things In Life Are Free \- Classic Club Edit](https://open.spotify.com/track/3E9wmxhFXGLFJJEooJR3Dn) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [One Night With You: The Best Of Love, Volume 2](https://open.spotify.com/album/2lkLq0W75R4m4xFZrmXGrB) | 4:01 | 2013-06-27 |  |
 | [The One](https://open.spotify.com/track/5QXNPpRqJuDKTi297tfjh2) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Greatest Hits 1970\-2002](https://open.spotify.com/album/6CPTYd8BQRbF6VzhnTWIfL) | 5:53 | 2013-06-27 |  |
 | [This Used to Be My Playground](https://open.spotify.com/track/637V2ymBt4Ljlbz4EmRys8) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Something to Remember](https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5) | 5:10 | 2013-06-27 |  |
-| [To Be With You](https://open.spotify.com/track/0Yi128S6QgQDnAKg5A0OZw) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Deep Cuts: The Best Of The Ballads](https://open.spotify.com/album/0DYLNt604AgwFMQhK3HNLR) | 0:29 | 2013-06-27 |  |
+| [To Be With You](https://open.spotify.com/track/0Yi128S6QgQDnAKg5A0OZw) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Deep Cuts: The Best Of The Ballads](https://open.spotify.com/album/0DYLNt604AgwFMQhK3HNLR) | 3:28 | 2013-06-27 |  |
 | [Under the Bridge](https://open.spotify.com/track/23NPGXlSaIqWzvxIRhM2oG) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Greatest Hits](https://open.spotify.com/album/53tvjWbVNZKd3CvpENkzOC) | 4:25 | 2013-06-27 |  |
 | [When a Man Loves a Woman](https://open.spotify.com/track/1rLYWSXPrJGWnlGlSwPEia) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The Essential Michael Bolton](https://open.spotify.com/album/5Vv7ZpPJK3g53DqeDl0Ijv) | 3:50 | 2013-06-27 |  |
 | [Wishing On a Star](https://open.spotify.com/track/7EE5va6hu88TSdtbXrEl0J) | [The Cover Girls](https://open.spotify.com/artist/6D01mATo26VaiiCfZzpWAm) | [Love Songs](https://open.spotify.com/album/1Mc07d9wxKEWY7hYBLAMII) | 4:41 | 2013-06-27 |  |

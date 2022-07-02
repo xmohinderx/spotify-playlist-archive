@@ -20,7 +20,7 @@
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 137574,
       "name": "25 Years",
       "url": "https://open.spotify.com/track/277WR3fUAz1T1QNkede17l"
     },
@@ -60,7 +60,7 @@
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 196213,
       "name": "Abre Los Ojos",
       "url": "https://open.spotify.com/track/06H5BeXjWXqjslelYiLuB7"
     },
@@ -686,7 +686,7 @@
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 312453,
       "name": "Grains of Sand",
       "url": "https://open.spotify.com/track/4jwpV7Rgg6a2lYDNGXnKnx"
     },
@@ -1464,6 +1464,24 @@
     },
     {
       "album": {
+        "name": "Obi-Wan Kenobi (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246520,
+      "name": "Obi-Wan",
+      "url": "https://open.spotify.com/track/22VtvEbttc3y0MuekCm7Sb"
+    },
+    {
+      "album": {
         "name": "Open Road (From Wonder Woman 1984)",
         "url": "https://open.spotify.com/album/1YbLmCnQbXLV1yG6jJqAo5"
       },
@@ -1498,7 +1516,7 @@
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 191386,
       "name": "Over The Pines",
       "url": "https://open.spotify.com/track/2gAIy3MuCMOZUejECGPBUa"
     },
@@ -2557,6 +2575,24 @@
       "duration_ms": 126427,
       "name": "Uncharted",
       "url": "https://open.spotify.com/track/403J2ArGAXfFE6H1Ip14zB"
+    },
+    {
+      "album": {
+        "name": "Video Games (from \"Westworld: Season 4\")",
+        "url": "https://open.spotify.com/album/6Cv0IrQKQ7DQdl7PuykFdk"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232851,
+      "name": "Video Games - from \"Westworld: Season 4\"",
+      "url": "https://open.spotify.com/track/2zFhqeicX665k6vGPeTeDW"
     },
     {
       "album": {

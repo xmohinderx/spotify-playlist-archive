@@ -4,7 +4,7 @@
 
 > Classic Ambient and Environmental music made in Japan.
 
-49 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/4ZZLOdQNvNgxBdDIIzifmx)
+49 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/4ZZLOdQNvNgxBdDIIzifmx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,6 @@
 | [ザ・ミラージュ](https://open.spotify.com/track/1fvrnSlOdMqNTsRMzZZLSZ) | [Yoshio Chin Suzuki](https://open.spotify.com/artist/6W8LyZnFvPHsiapMkFb1dD) | [モーニング・ピクチャー](https://open.spotify.com/album/0nwnSiW0Zeo2UnODZu1UNC) | 5:06 | 2021-12-23 |  |
 | [ミート・ミー・イン・ザ・シープ・メドウ](https://open.spotify.com/track/4SQbhj7q0H1yIA7LjATtt5) | [Yoshio Chin Suzuki](https://open.spotify.com/artist/6W8LyZnFvPHsiapMkFb1dD) | [モーニング・ピクチャー](https://open.spotify.com/album/0nwnSiW0Zeo2UnODZu1UNC) | 3:25 | 2021-12-23 |  |
 | [銀の船](https://open.spotify.com/track/5BeIxIMY0exSWc7LyPrchH) | [Yumiko Morioka](https://open.spotify.com/artist/65qxdUIxnh54KIpE7zfS4o) | [Resonance](https://open.spotify.com/album/51wuR1THuIkmMQONEN7ztk) | 5:21 | 2021-12-23 |  |
-| [雪](https://open.spotify.com/track/6Yob39WAE8Um7Dox1ch886) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Seventh Garden](https://open.spotify.com/album/3zPHBf3UoBjK0nQEUz1gCi) | 0:29 | 2021-12-23 |  |
+| [雪](https://open.spotify.com/track/6Yob39WAE8Um7Dox1ch886) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Seventh Garden](https://open.spotify.com/album/3zPHBf3UoBjK0nQEUz1gCi) | 5:49 | 2021-12-23 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

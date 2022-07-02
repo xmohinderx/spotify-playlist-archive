@@ -4,7 +4,7 @@
 
 > Uplifting scores and soundtracks to make your heart happy.
 
-55 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/0k0VtrZCFLgHJzINOLLZfg)
+55 songs - 3 hr 5 min - [published](https://open.spotify.com/playlist/0k0VtrZCFLgHJzINOLLZfg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Rey's Theme](https://open.spotify.com/track/5wsHtmFHWntJzcN6n8ivjd) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Force Awakens \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR) | 3:11 | 2021-01-29 |  |
 | [Score Suite](https://open.spotify.com/track/4jVaVybiUiKHPd0SxfU3ZK) | [Nate Heller](https://open.spotify.com/artist/1upi0p1RPmbUDRvbDjxNKn) | [A Beautiful Day in the Neighborhood \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ivFRy56HgNNiwYeeTdIIa) | 4:46 | 2021-01-29 |  |
 | [Stationary Cycle](https://open.spotify.com/track/3MZwaRLlfyvPSIP7qHpBO8) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T), [Mark Graham](https://open.spotify.com/artist/2n2ZWyoCn0jr3I5rhDoFAw) | [The Secret Life of Walter Mitty \(Original Motion Picture Score\)](https://open.spotify.com/album/2pLC40gyEsQljWWBV3zA1T) | 2:43 | 2021-01-29 |  |
-| [The Bell Tower](https://open.spotify.com/track/5xlq7bxuhPDUEI5GQFS4zQ) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [The Hunchback of Notre Dame Original Soundtrack \(English Version\)](https://open.spotify.com/album/4oO2rv8QInfX4jVrCdLzlp) | 0:29 | 2021-01-29 |  |
+| [The Bell Tower](https://open.spotify.com/track/5xlq7bxuhPDUEI5GQFS4zQ) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [The Hunchback of Notre Dame Original Soundtrack \(English Version\)](https://open.spotify.com/album/4oO2rv8QInfX4jVrCdLzlp) | 3:04 | 2021-01-29 |  |
 | [The bioluminescence of the night](https://open.spotify.com/track/7mJNJKQ1eZFKMmJoaqyw55) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [AVATAR Music From The Motion Picture Music Composed and Conducted by James Horner](https://open.spotify.com/album/1H81jGoWeLI8ufq42GfDPn) | 3:37 | 2021-01-29 |  |
 | [The Blue Planet](https://open.spotify.com/track/5TLBCv54hqLxMPfVQ8JMzq) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [NDR Radiophilharmonie](https://open.spotify.com/artist/6i9KFEJuHq78nMsQxeB1vR), [Ben Palmer](https://open.spotify.com/artist/7BuKIq2YqVZhxSdquEnwko), [Pop\-Up](https://open.spotify.com/artist/2X7XzvKER9pdR7rwYFy6r1) | [Epic Orchestra \- New Sound of Classical](https://open.spotify.com/album/2dIqWzU2giK5FkyZ3x9YAr) | 3:13 | 2021-01-29 |  |
 | [The Burning Bush](https://open.spotify.com/track/5tgyHc2LLF0BI2udBTMFJz) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Prince Of Egypt \(Music From The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA) | 7:16 | 2021-01-29 |  |

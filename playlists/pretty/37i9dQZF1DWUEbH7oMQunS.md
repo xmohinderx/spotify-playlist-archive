@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,975 likes - 60 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,978 likes - 60 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 3 | [Kani \(Day\)](https://open.spotify.com/track/5h5CZG6DA94wk4lkf0a3bc) | [Porya Hatami](https://open.spotify.com/artist/6qGn1dMbzeGodjzNfzG4gZ) | [Kani](https://open.spotify.com/album/17gT7g6MJFP9JVAGYewSao) | 8:57 |
 | 4 | [Brave New World \(Instrumental\)](https://open.spotify.com/track/2Ca3o4dhghbtJgrtgOzyw3) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Brave New World](https://open.spotify.com/album/3oQQHU0q1xYRXOLZuaqFwb) | 1:59 |
 | 5 | [Come Near](https://open.spotify.com/track/6L35gpPSKYwCyJWGEH4ucP) | [Jaisua](https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5) | [Come Near](https://open.spotify.com/album/6uElGh9tQQTiDZXnxRoG7e) | 4:09 |
-| 6 | [Hallelujah \(Instrumental\)](https://open.spotify.com/track/4ldTfT3bAMz6fLnSOkineb) | [Magnify Worship](https://open.spotify.com/artist/6PkpPJKGGLwWKOTdJ1Qwg2) | [Hallelujah \(Instrumental\)](https://open.spotify.com/album/1ihY9iKIY9ksHOYVjZzIHB) | 0:29 |
+| 6 | [Hallelujah \(Instrumental\)](https://open.spotify.com/track/4ldTfT3bAMz6fLnSOkineb) | [Magnify Worship](https://open.spotify.com/artist/6PkpPJKGGLwWKOTdJ1Qwg2) | [Hallelujah \(Instrumental\)](https://open.spotify.com/album/1ihY9iKIY9ksHOYVjZzIHB) | 6:28 |
 | 7 | [Greater Than All Other Names \(Instrumental\)](https://open.spotify.com/track/0kk8MqjYbkW5C7cvKBf1yq) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [After All These Years \(Instrumental\)](https://open.spotify.com/album/3oeoGMDFnsw8FCnQuIghpx) | 5:36 |
 | 8 | [Velveteen](https://open.spotify.com/track/4EqMffOPYDDgXlwPgYgbUy) | [Christa Wells](https://open.spotify.com/artist/3gCNiuPNPiAA5UQSgb8Uby) | [Velveteen](https://open.spotify.com/album/5VjY0h9wEbhKYaYuk3QXnO) | 3:57 |
 | 9 | [Take My Heart](https://open.spotify.com/track/4FtDp8L6RFyTJY61LWUJkW) | [Jordan Biel](https://open.spotify.com/artist/47ajtsMyL04FFtTblqx4Iw) | [Instrumental Worship Music, Vol\. 1](https://open.spotify.com/album/3MJUlOTqubrCSjFJGhmkNx) | 5:30 |

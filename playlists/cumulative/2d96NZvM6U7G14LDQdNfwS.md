@@ -4,7 +4,7 @@
 
 > SXSW has deep roots in Austin\. Get a sense of the city and all its sounds.
 
-41 songs - 2 hr 44 min - [published](https://open.spotify.com/playlist/1iwZsXIoVt8E1wQycCkerw)
+41 songs - 2 hr 49 min - [published](https://open.spotify.com/playlist/1iwZsXIoVt8E1wQycCkerw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Good Intentions](https://open.spotify.com/track/6HIgrafXhn0z5ZycQIkf0E) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [The Lights From The Chemical Plant](https://open.spotify.com/album/0aqTGYTiTZwpTerC1KRGER) | 2:47 | 2015-02-03 |  |
 | [I Lie When I Drink](https://open.spotify.com/track/5NgsQpPwUctIwodiKTR02i) | [Dale Watson](https://open.spotify.com/artist/67meObnM9NdAyCO373aaEp) | [El Rancho Azul](https://open.spotify.com/album/7zoRBT1uTnenuJyiNCt5sc) | 3:07 | 2015-03-12 |  |
 | [Lights \- from Sons of Anarchy](https://open.spotify.com/track/7ExAw5efpnvHHOOTOivcta) | [Battleme](https://open.spotify.com/artist/2VnNIlyX9iVtx1FYavvm90), [The Forest Rangers](https://open.spotify.com/artist/46xMgypLHP8GNsYME3vRnV) | [Songs of Anarchy: Volume 2 \(Music from Sons of Anarchy\)](https://open.spotify.com/album/26zNMJYGEKI4lNVZoMGO6c) | 3:45 | 2015-02-03 |  |
-| [Lost Coastlines](https://open.spotify.com/track/2016zoJ6TxYzqjwQNMh3kw) | [Okkervil River](https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY) | [The Stand Ins](https://open.spotify.com/album/4iyJdf6kUi1QrnluWY0GfQ) | 0:29 | 2015-02-03 |  |
+| [Lost Coastlines](https://open.spotify.com/track/2016zoJ6TxYzqjwQNMh3kw) | [Okkervil River](https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY) | [The Stand Ins](https://open.spotify.com/album/4iyJdf6kUi1QrnluWY0GfQ) | 5:31 | 2015-02-03 |  |
 | [Man Of The World](https://open.spotify.com/track/5jEYNVT3krk7k8RprQhUG8) | [Alejandro Escovedo](https://open.spotify.com/artist/1Cc79YAHP7xvQAVQSjveP6) | [Big Station](https://open.spotify.com/album/1QUGnSOQzrorna2s0x6jfY) | 3:31 | 2015-02-03 |  |
 | [Masollan](https://open.spotify.com/track/4AMeTATGlTyPaPCRzpvN47) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Stranger](https://open.spotify.com/album/1i1nw0aTv9wCCeIrfRz3S3) | 5:13 | 2015-02-03 |  |
 | [Naked As We Came](https://open.spotify.com/track/2gUSIsapdX6jEJ0DvjqTt2) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days](https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt) | 2:32 | 2015-02-03 |  |

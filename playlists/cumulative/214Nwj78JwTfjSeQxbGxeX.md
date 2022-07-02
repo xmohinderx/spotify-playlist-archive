@@ -4,7 +4,7 @@
 
 > A different option for your New Year's Eve party\. Sweet pop, rock, and singer/songwriter tunes about this special holiday.
 
-28 songs - 1 hr 52 min - [published](https://open.spotify.com/playlist/4P577G96GUNn1BMUbl35Kj)
+28 songs - 1 hr 56 min - [published](https://open.spotify.com/playlist/4P577G96GUNn1BMUbl35Kj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [New Year's Eve's The Loneliest Night Of The Year](https://open.spotify.com/track/64a75xSSYnuug5qnrUjkwu) | [Trembling Bells with Bonny Prince Billy](https://open.spotify.com/artist/7tHmLEXGdWmV1LqCirn5SX) | [New Year's Eve's The Loneliest Night Of The Year](https://open.spotify.com/album/5sMbanNrRhlwnq5vZNqUfr) | 4:28 | 2014-12-16 |  |
 | [New Year's Greetings](https://open.spotify.com/track/6IlVrmuGFjNKPlGOhR1J9J) | [The Triffids](https://open.spotify.com/artist/2kTn692duPSkqN6czSilyk) | [The Black Swan](https://open.spotify.com/album/4Nzg5wRf8goFXHeq6tK6Xz) | 5:45 | 2014-12-16 |  |
 | [New Year's Prayer](https://open.spotify.com/track/3BFpiZlx72SBGMy0vQQCMP) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [SKETCHES for My Sweetheart The Drunk](https://open.spotify.com/album/4mbFh6JSG3y4CTLetWVjnn) | 4:38 | 2014-12-16 |  |
-| [Nothin' New for New Year \(feat\. George Jones\)](https://open.spotify.com/track/6bJUyfryLLaCseNHr1XNpC) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79), [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Harry For The Holidays](https://open.spotify.com/album/4kC0FqUUVgEi1uo2I2JItE) | 0:29 | 2014-12-16 |  |
+| [Nothin' New for New Year \(feat\. George Jones\)](https://open.spotify.com/track/6bJUyfryLLaCseNHr1XNpC) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79), [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Harry For The Holidays](https://open.spotify.com/album/4kC0FqUUVgEi1uo2I2JItE) | 4:05 | 2014-12-16 |  |
 | [Our New Year](https://open.spotify.com/track/1MAOl1ZUb5bv90kSDs9erN) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Midwinter Graces](https://open.spotify.com/album/08HbuNqWS9mclkn9BvJmYi) | 4:11 | 2014-12-16 |  |
 | [Queen Of The New Year](https://open.spotify.com/track/1VN95opsathK1Tg04nnwcz) | [Deacon Blue](https://open.spotify.com/artist/5jqKIZLB5WA5KquEihB3ND) | [The Very Best Of](https://open.spotify.com/album/0G1PqZ1AKqbPzzm2tJHA89) | 3:36 | 2014-12-16 |  |
 | [Same Old Lang Syne](https://open.spotify.com/track/0juQNDN4EdiuG97rgKywkF) | [Dan Fogelberg](https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO) | [Love Songs](https://open.spotify.com/album/2HBiEHyRhKl6dxWBKQpxID) | 5:15 | 2014-12-16 |  |

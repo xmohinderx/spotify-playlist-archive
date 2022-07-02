@@ -4,7 +4,7 @@
 
 > Run, dance, jump, and play with this kid\-approved workout playlist!
 
-65 songs - 2 hr 32 min - [published](https://open.spotify.com/playlist/1jY7LJwYF6jzt4YuqIk0Gc)
+65 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/1jY7LJwYF6jzt4YuqIk0Gc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Hide and Seek](https://open.spotify.com/track/0x8qnlBomm4AaM4U0CYMsK) | [The Zing Zangs](https://open.spotify.com/artist/2SWcpBbgCZbpKV3FtGafez), [Mista Cookie Jar](https://open.spotify.com/artist/0HL2EVwbtbmTaUirGt9hWt) | [Hide and Seek](https://open.spotify.com/album/186DtJ2hwhU7n0zCkc7URN) | 2:40 | 2022-03-24 |  |
 | [I Just Want to Dance](https://open.spotify.com/track/7uGObyP7bodsd9DrJ6LtwK) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Why?](https://open.spotify.com/album/3ZHZfgfkKiLElooB0lhvtY) | 1:08 | 2022-03-24 |  |
 | [I'm Gonna Catch You](https://open.spotify.com/track/7iQ0LPpCjATFwuMrTYzJeh) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [The Best of The Laurie Berkner Band](https://open.spotify.com/album/3nIq9JVNYxwbRbFgNW7sJ1) | 3:22 | 2022-03-24 |  |
-| [If You’re Happy And You Know It](https://open.spotify.com/track/5GppFsE03nmnaUha3yyIwH) | [Big Bird](https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE), [Oscar,Kid Chorus](https://open.spotify.com/artist/7CdPfjeINtRWDagKED20xi) | [Sesame Street: Kids’ Favorite Songs 2](https://open.spotify.com/album/6oHa2yd0RrkyVUakFRWBN1) | 0:29 | 2022-03-24 |  |
+| [If You’re Happy And You Know It](https://open.spotify.com/track/5GppFsE03nmnaUha3yyIwH) | [Big Bird](https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE), [Oscar,Kid Chorus](https://open.spotify.com/artist/7CdPfjeINtRWDagKED20xi) | [Sesame Street: Kids’ Favorite Songs 2](https://open.spotify.com/album/6oHa2yd0RrkyVUakFRWBN1) | 2:31 | 2022-03-24 |  |
 | [Jump For Joy](https://open.spotify.com/track/5CmMQ6ATyBqdh48pIPSSWG) | [Birdie](https://open.spotify.com/artist/3HK0Kzy8QxtqXRSIjwYV8L) | [My Family Tree](https://open.spotify.com/album/0055NV6qBdM0bnNMGhiCIg) | 2:23 | 2022-03-24 |  |
 | [Jump Up!](https://open.spotify.com/track/7LTaySawqIyeb0NJa0Bj7C) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Imagination Movers: For Those About to Hop](https://open.spotify.com/album/0Ycbxh5rx0Da1yEAMxp9UQ) | 1:05 | 2022-03-24 |  |
 | [Keep Active](https://open.spotify.com/track/1vnzJdkQvIDmHEraygqYlG) | [Lah\-Lah](https://open.spotify.com/artist/6Cmgy0JwJP82zSFZkiCNmm) | [Keep Active](https://open.spotify.com/album/20u8HsV7iQoGyQIi8xyKd0) | 2:19 | 2022-03-24 |  |

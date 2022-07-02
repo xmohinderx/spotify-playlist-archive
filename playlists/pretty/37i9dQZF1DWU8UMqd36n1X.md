@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8UMqd36n1X.md) - [plain]
 
 > Music from that amazing era\. Cover: Teddy Riley
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,324 likes - 48 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,386 likes - 48 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8UMqd36n1X.md) - [plain]
 | 35 | [Exclusivity \(Remix\) \- Radio Edit](https://open.spotify.com/track/63DGRme6rFWbHaHE8kP5ia) | [Damian Dame](https://open.spotify.com/artist/0iBgDj1dAWyi7R5J6KYXJM), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Antonio "LA" Reid](https://open.spotify.com/artist/3elLpPB70JMTTlCo8ncDkG) | [Damian Dame](https://open.spotify.com/album/2eSIbUfDDE6JV8bpFgsb5M) | 4:59 |
 | 36 | [The Right Stuff](https://open.spotify.com/track/04c7gHwmtsa37ejt5o3Kdp) | [Vanessa Williams](https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW) | [Greatest Hits](https://open.spotify.com/album/3p2Dme76YEwMHKVODUHMxW) | 4:27 |
 | 37 | [My Fantasy](https://open.spotify.com/track/16jT6110SdOUXEIo6HpjME) | [Teddy Riley](https://open.spotify.com/artist/5VDmBevaLkMLnK0rLOjijw), [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [The Very Best Of Guy](https://open.spotify.com/album/56sbs837bd13CfqPuvvw6x) | 4:55 |
-| 38 | [She's Mine \(feat\. Pete Rock, C.L\. Smooth & D.J\. Eddie F\)](https://open.spotify.com/track/1Q75FxFg6LPlhtKYB9DOwc) | [Basic Black](https://open.spotify.com/artist/4CZadfC6KxSQMYlwUNL3tY), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2), [C.L\. Smooth](https://open.spotify.com/artist/2i4dJzzPuB6lTP1ZQv9Tfb), [DJ Eddie F](https://open.spotify.com/artist/0IV9m4slFCexbJE15vv4bS) | [Basic Black](https://open.spotify.com/album/3SoRURaEucgHEq6YmBYOdD) | 0:29 |
+| 38 | [She's Mine \(feat\. Pete Rock, C.L\. Smooth & D.J\. Eddie F\)](https://open.spotify.com/track/1Q75FxFg6LPlhtKYB9DOwc) | [Basic Black](https://open.spotify.com/artist/4CZadfC6KxSQMYlwUNL3tY), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2), [C.L\. Smooth](https://open.spotify.com/artist/2i4dJzzPuB6lTP1ZQv9Tfb), [DJ Eddie F](https://open.spotify.com/artist/0IV9m4slFCexbJE15vv4bS) | [Basic Black](https://open.spotify.com/album/3SoRURaEucgHEq6YmBYOdD) | 3:50 |
 | 39 | [Rub You The Right Way](https://open.spotify.com/track/3HGE6Is63CrKHS9DZ26RIO) | [Johnny Gill](https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn) | [Johnny Gill](https://open.spotify.com/album/1I1wFLIuEXMYqQ4fm3NwOo) | 5:33 |
 | 40 | [Baby Be Mine](https://open.spotify.com/track/3c2noI6hwdH2YoETIriUbX) | [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA), [David Roland Williams](https://open.spotify.com/artist/3SYKJoZtFzV5d8ngCgxqTE), [Richard Iverson](https://open.spotify.com/artist/5dbRY8iAB9vdUACnschuB2) | [Blackstreet](https://open.spotify.com/album/26yshjRCAGf1mLJtfTrlsb) | 3:02 |
 | 41 | [Give U My Heart \(feat\. Toni Braxton\)](https://open.spotify.com/track/6pMliTILbMMQJVFvru12DX) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Boomerang](https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh) | 5:01 |

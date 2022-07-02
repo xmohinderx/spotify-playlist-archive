@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 
 > Uplifting scores and soundtracks to make your heart happy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,152 likes - 55 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,230 likes - 55 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 | 28 | [Flying Theme \- From "E.T"](https://open.spotify.com/track/2oDlOeEQIVRNxWHaTVGKHh) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q) | [John Williams: A Life In Music](https://open.spotify.com/album/35IxiAY1JPlCVM93bD4vMI) | 4:05 |
 | 29 | [A Little Chaos](https://open.spotify.com/track/0cKJ9VKdpwPA0MryV8K0vq) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [A Little Chaos \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2JJeRNz4Qu3YJ4JNevYQjW) | 5:37 |
 | 30 | [Field Trip](https://open.spotify.com/track/4GjD1FcG5UkQUuHE4pI1Fa) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Finding Nemo Original Soundtrack](https://open.spotify.com/album/7BWvDrobl2vSTnbDN7wXQk) | 0:57 |
-| 31 | [The Bell Tower](https://open.spotify.com/track/5xlq7bxuhPDUEI5GQFS4zQ) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [The Hunchback of Notre Dame Original Soundtrack \(English Version\)](https://open.spotify.com/album/4oO2rv8QInfX4jVrCdLzlp) | 0:29 |
+| 31 | [The Bell Tower](https://open.spotify.com/track/5xlq7bxuhPDUEI5GQFS4zQ) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [The Hunchback of Notre Dame Original Soundtrack \(English Version\)](https://open.spotify.com/album/4oO2rv8QInfX4jVrCdLzlp) | 3:04 |
 | 32 | [Making Water](https://open.spotify.com/track/0AeUTVVGVWgwPCpPGAm6sT) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [The Martian: Original Motion Picture Score](https://open.spotify.com/album/17o7ljUmsa9MusgN2BjXwV) | 2:38 |
 | 33 | [The Last Bus](https://open.spotify.com/track/3EL2tGbkBSyRvoLwo8stEe) | [Nick Lloyd Webber](https://open.spotify.com/artist/3r0kvjF0xGitqk9azZVB35) | [The Last Bus \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/231VrH3cg7DOmHpLB2AlGx) | 3:33 |
 | 34 | [Enchanted Suite](https://open.spotify.com/track/4Mbloi1I0HIBIYPsuP5EAG) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Enchanted](https://open.spotify.com/album/13XdxzvBnVAhAtMt7uldLV) | 4:34 |

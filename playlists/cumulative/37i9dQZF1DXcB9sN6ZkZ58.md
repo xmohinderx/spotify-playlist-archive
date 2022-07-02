@@ -4,7 +4,7 @@
 
 > Food sing\-a\-longs for breakfast, lunch, or snack time.
 
-98 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/13RbIJFt6BWK5QypeKN401)
+98 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/13RbIJFt6BWK5QypeKN401)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Pancakes for Breakfast](https://open.spotify.com/track/7kRTWwrPgRCtwftX2oTRF4) | [Ginalina](https://open.spotify.com/artist/06QOnJaT57H3lQcrx3B1kP) | [Forest Friends' Nature Club Album](https://open.spotify.com/album/6e79AwZQO9nJYq6qb7SL16) | 1:38 | 2022-04-05 |  |
 | [Pat\-a\-Cake, Pat\-a\-Cake](https://open.spotify.com/track/5W3cEk3UQTFeq9Tl4hrpAX) | [The Montreal Children's Workshop](https://open.spotify.com/artist/0NAOoExRWvbLIrFuPzMz5x) | [Kids Songs! Fun Children's Music from Sesame Street, Phineas and Ferb and More!](https://open.spotify.com/album/30CMD4AQlK6F83q96ntZA7) | 2:22 | 2022-04-05 |  |
 | [Pickles and Olives](https://open.spotify.com/track/0wnwuYYSJZeuwjwwfDlQX4) | [Ants on a Log](https://open.spotify.com/artist/6FhfWrn7f8y6OI8JZV2P3g) | [You Could Draw the Album Art!](https://open.spotify.com/album/6fAkgy3mHYCHSIuLqacj82) | 1:36 | 2022-04-05 |  |
-| [Pineapple](https://open.spotify.com/track/4Iiq7AOeBXdRcjbrjUpIWb) | [fleaBITE](https://open.spotify.com/artist/6rfo4U1CM0NDIuikxFYDJW), [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Pineapple](https://open.spotify.com/album/4itSGSv8rIQLUjvv9CC5kd) | 0:29 | 2022-04-05 |  |
+| [Pineapple](https://open.spotify.com/track/4Iiq7AOeBXdRcjbrjUpIWb) | [fleaBITE](https://open.spotify.com/artist/6rfo4U1CM0NDIuikxFYDJW), [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Pineapple](https://open.spotify.com/album/4itSGSv8rIQLUjvv9CC5kd) | 2:41 | 2022-04-05 |  |
 | [Plain Plate Of Noodles](https://open.spotify.com/track/5Dylc4N929pK4WPgu0roRL) | [Orson Hong](https://open.spotify.com/artist/4fOfG0cFnoMOqoF41egcYh), [The Sack Lunch Bunch](https://open.spotify.com/artist/4m5nO3q3BD6TVa3wsmFiVC) | [John Mulaney & The Sack Lunch Bunch](https://open.spotify.com/album/5as2GZU6iCKTHhMmVjqu4J) | 2:49 | 2022-04-05 |  |
 | [Pots and Pans](https://open.spotify.com/track/5g5ehzNPVKsnboOu4DJwQ9) | [Falu](https://open.spotify.com/artist/3jk7OJ4HfTtHvmwh0DkAl1) | [Falu's Bazaar](https://open.spotify.com/album/3wy3vxrfLLj3LtqORejl5o) | 3:03 | 2022-04-05 |  |
 | [Raining Tacos](https://open.spotify.com/track/01apQz7E72krU1k1b4VWs7) | [Parry Gripp](https://open.spotify.com/artist/56P8qdYp640M24wkk9eTfc) | [Parry Gripp Mega\-Party \(2008 \- 2012\)](https://open.spotify.com/album/0xbbsauKysPCTQDd38P2CW) | 1:32 | 2022-04-05 |  |

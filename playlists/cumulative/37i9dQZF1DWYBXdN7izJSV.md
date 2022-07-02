@@ -4,7 +4,7 @@
 
 > Classic cuts from the alternative country music scene\. Cover: Uncle Tupelo
 
-75 songs - 4 hr 37 min - [published](https://open.spotify.com/playlist/78EHvdOEXG9LXU2nIHnS9Q)
+75 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/78EHvdOEXG9LXU2nIHnS9Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Car Wheels On A Gravel Road](https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 4:44 | 2020-10-13 |  |
 | [Chickamauga](https://open.spotify.com/track/3pnfc7f0fix6C6HcOLYxzH) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [Anodyne](https://open.spotify.com/album/5DQRAlGAFTpHsXGEg5zw9V) | 3:42 | 2020-10-13 |  |
 | [Cigarettes Coffee and Booze](https://open.spotify.com/track/5ZZAwkEnpJDAOv4oD9qvND) | [The Minus 5](https://open.spotify.com/artist/7k8oHbK8ratXIVlYX7fVRU) | [The Minus 5](https://open.spotify.com/album/2fX1V0fpifL0pfLBLtf6Fs) | 4:24 | 2020-10-13 |  |
-| [Clear the Crowds](https://open.spotify.com/track/09BqimBt4igAq1YFIDa1vH) | [Jim Bryson](https://open.spotify.com/artist/1PVWC0rStR8mcd9vf3VZpU) | [Where The Bungalows Roam](https://open.spotify.com/album/4YuMZyQ7O67kDGF2iO6RlK) | 0:29 | 2020-10-13 |  |
+| [Clear the Crowds](https://open.spotify.com/track/09BqimBt4igAq1YFIDa1vH) | [Jim Bryson](https://open.spotify.com/artist/1PVWC0rStR8mcd9vf3VZpU) | [Where The Bungalows Roam](https://open.spotify.com/album/4YuMZyQ7O67kDGF2iO6RlK) | 2:47 | 2020-10-13 |  |
 | [Desdemona](https://open.spotify.com/track/7FezHxN3JiG6lK7L5Sl84M) | [The Alternate Routes](https://open.spotify.com/artist/2bIN86ZmfyWfkN9c3C3YXE), [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [A Sucker's Dream](https://open.spotify.com/album/69e9cBeYvuAFXC1iaT8T7H) | 5:54 | 2020-10-13 |  |
 | [Drown](https://open.spotify.com/track/0pudWyp5g98c7jAYYp7MUL) | [Son Volt](https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe) | [Trace](https://open.spotify.com/album/5secpXfB8n8zeDiA0l60K6) | 3:21 | 2020-10-13 |  |
 | [Excuse Me While I Break My Own Heart Tonight](https://open.spotify.com/track/5KaQa8KU0q7luDE136Wmjs) | [Whiskeytown](https://open.spotify.com/artist/0tyLMmQvEuyQR4qjGBdbem) | [Strangers Almanac \[Deluxe Edition\]](https://open.spotify.com/album/1LdMwGDQsjsAXRrslK5TLX) | 3:15 | 2020-10-13 |  |
@@ -50,10 +50,10 @@
 | [New Madrid](https://open.spotify.com/track/4Ssgx7QJr0fzabt4D4JZ1b) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [Anodyne](https://open.spotify.com/album/5DQRAlGAFTpHsXGEg5zw9V) | 3:31 | 2020-10-13 |  |
 | [Nights Like These](https://open.spotify.com/track/2PfxuxTsQpiqFBaN5id09z) | [Lucero](https://open.spotify.com/artist/1MspPfENB9nzFGaagXmF7R) | [Tennessee](https://open.spotify.com/album/4AIs45q4TIzgJOeNMaThTf) | 3:55 | 2020-10-13 |  |
 | [No More Buffalo](https://open.spotify.com/track/7fyi9AWHCum1tXzUacFYro) | [James McMurtry](https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH) | [It Had To Happen](https://open.spotify.com/album/3l7cwOKo22Jw2YfuT9hP3q) | 7:19 | 2020-10-13 |  |
-| [Officer Down](https://open.spotify.com/track/2hS1eS0RAg5b9VzRPSPK6J) | [Carolyn Mark](https://open.spotify.com/artist/5LEbX3AeiknZxV5zOIFhCH), [NQ Arbuckle](https://open.spotify.com/artist/0UXWUsqoGhYC4sCiEe7tEk) | [Let's Just Stay Here](https://open.spotify.com/album/610I6r165R7zGCI2rFlQc7) | 0:29 | 2020-10-13 |  |
+| [Officer Down](https://open.spotify.com/track/2hS1eS0RAg5b9VzRPSPK6J) | [Carolyn Mark](https://open.spotify.com/artist/5LEbX3AeiknZxV5zOIFhCH), [NQ Arbuckle](https://open.spotify.com/artist/0UXWUsqoGhYC4sCiEe7tEk) | [Let's Just Stay Here](https://open.spotify.com/album/610I6r165R7zGCI2rFlQc7) | 3:57 | 2020-10-13 |  |
 | [On the Streets](https://open.spotify.com/track/31KmmPSvUorrhCWDRysxUq) | [Rico Bell](https://open.spotify.com/artist/6LrIoFLMuU0yXD86WBmNe0) | [The Return of Rico Bell](https://open.spotify.com/album/6wz72pyGjk99MDs8AgTHzd) | 3:55 | 2020-10-13 |  |
 | [Outfit](https://open.spotify.com/track/0jkCFkoSMYsElFZTbTb38r) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [Decoration Day](https://open.spotify.com/album/25wDEWipTG177BElptDzlD) | 4:06 | 2020-10-13 |  |
-| [Pass You By](https://open.spotify.com/track/3CMMEJHMYeW7AHorJm4MSW) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Revival](https://open.spotify.com/album/733rVkP3oBulDHJbiuRANa) | 0:29 | 2020-10-13 |  |
+| [Pass You By](https://open.spotify.com/track/3CMMEJHMYeW7AHorJm4MSW) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Revival](https://open.spotify.com/album/733rVkP3oBulDHJbiuRANa) | 3:57 | 2020-10-13 |  |
 | [Pinball Song](https://open.spotify.com/track/3X2stgfjH1I30FMLHzFWJI) | [Slobberbone](https://open.spotify.com/artist/5U1pEBuiFLycsQ4mYP3nmK) | [Everything You Thought Was Right Was Wrong Today](https://open.spotify.com/album/1Yj7OK3fnKoic98iMha6Bw) | 4:36 | 2020-10-13 |  |
 | [Post to Wire](https://open.spotify.com/track/2vwOmgQGX1abLc6dDqyRry) | [Richmond Fontaine](https://open.spotify.com/artist/2zTCLiQ8OUIWEyV6eZWzFy) | [Post to Wire](https://open.spotify.com/album/1IQSQJop8pMbbWozvZsMbc) | 2:13 | 2020-10-13 |  |
 | [Question](https://open.spotify.com/track/2m5ItG3IIMsaGYJjZOvUoE) | [Old 97's](https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF) | [Satellite Rides](https://open.spotify.com/album/6SVjHaDr6gwCXUEvHoUhpA) | 2:15 | 2020-10-13 |  |
@@ -76,7 +76,7 @@
 | [The Galway Girl](https://open.spotify.com/track/1KnilWyiAb1Jwa9QJXZGMN) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Transcendental Blues](https://open.spotify.com/album/15FbLxuzw8MuuIC1AOob6k) | 3:05 | 2020-10-13 |  |
 | [Timebomb](https://open.spotify.com/track/2S6yBUXa5KddBV0CqBkcP1) | [Old 97's](https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF) | [Too Far To Care](https://open.spotify.com/album/0Jo6Fx3HfybzdNhwXOPD7D) | 3:08 | 2020-10-13 |  |
 | [Too Lazy To Work, Too Nervous To Steal](https://open.spotify.com/track/0kkBKoElWdLJKlEHt4nM58) | [BR549](https://open.spotify.com/artist/6h72WuqMdodzUIZGS0YEyU) | [This Is BR549](https://open.spotify.com/album/4E1URWpVQFzwRlCokb2mc0) | 3:53 | 2020-10-13 |  |
-| [Troubled Times](https://open.spotify.com/track/5QN73EQuWKibn8DL3dama6) | [Tim Easton](https://open.spotify.com/artist/11ixEVNpyaaCW7VfC7fx8M) | [Not Cool](https://open.spotify.com/album/0RvEzLT10e6smAuHctaQpK) | 0:29 | 2020-10-13 |  |
+| [Troubled Times](https://open.spotify.com/track/5QN73EQuWKibn8DL3dama6) | [Tim Easton](https://open.spotify.com/artist/11ixEVNpyaaCW7VfC7fx8M) | [Not Cool](https://open.spotify.com/album/0RvEzLT10e6smAuHctaQpK) | 2:12 | 2020-10-13 |  |
 | [Two Hearts Down](https://open.spotify.com/track/18i8x1wiccOX6XiHrauIDn) | [The Black Lillies](https://open.spotify.com/artist/06Y4yJmsrlzPrwIG46ce7X) | [100 Miles of Wreckage](https://open.spotify.com/album/6dSZmYZTOVUgrsHUMUIChX) | 3:37 | 2020-10-13 |  |
 | [Victoria](https://open.spotify.com/track/0mmSXKVBMjfYkLLJVQ5tF9) | [Old 97's](https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF) | [Hit By A Train: The Best Of Old 97's](https://open.spotify.com/album/5fyrNg3ZGMZzY0V5gqUAFA) | 3:51 | 2020-10-13 |  |
 | [Walk Through The Fire](https://open.spotify.com/track/4waV8mpuoXeZqvWch7Cl95) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Filth & Fire](https://open.spotify.com/album/1TXlWspn7oQGH0FDMOE2M0) | 4:38 | 2020-10-13 |  |

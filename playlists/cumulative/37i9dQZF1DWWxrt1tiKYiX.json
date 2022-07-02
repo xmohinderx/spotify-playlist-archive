@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-05",
-  "description": "Stripped-down versions of all your favorite pop hits. Cover: Shawn Mendes",
+  "description": "Stripped-down versions of all your favorite pop hits. Cover: Halsey",
   "name": "Unplugged",
   "published_playlist_ids": [
     "6HVsDWyBbAUBPhu4S7Fnez"
@@ -56,7 +56,7 @@
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 598150,
       "name": "All Too Well (Sad Girl Autumn Version) - Recorded at Long Pond Studios",
       "url": "https://open.spotify.com/track/1n3b9Eekoy3S9ZSZ5DmTW1"
     },
@@ -457,7 +457,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 148968,
       "name": "Everytime (Cover)",
       "url": "https://open.spotify.com/track/0LbOiJLqqVStCVdO8lX1IR"
@@ -476,7 +476,7 @@
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 235733,
       "name": "Fall Into Me - Acoustic",
       "url": "https://open.spotify.com/track/3tb8o3JQwicRSkbaB2uUcG"
     },
@@ -1524,7 +1524,7 @@
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 232591,
       "name": "Safe Inside - Acoustic",
       "url": "https://open.spotify.com/track/0kIpJQHzu46yw6q3V78Ypt"
     },
@@ -1606,7 +1606,7 @@
     },
     {
       "album": {
-        "name": "Skinny Dipping (Acoustic)",
+        "name": "skinny dipping (Acoustic)",
         "url": "https://open.spotify.com/album/6QKqTHMTvzHbePp5yCizRK"
       },
       "artists": [
@@ -1619,8 +1619,26 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 192887,
-      "name": "Skinny Dipping - Acoustic",
+      "name": "skinny dipping - Acoustic",
       "url": "https://open.spotify.com/track/5pIjrMZ0B7hmuQBIG1hNQP"
+    },
+    {
+      "album": {
+        "name": "So Good (Stripped)",
+        "url": "https://open.spotify.com/album/1THYS7xuqQeUFgZcKoapie"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191919,
+      "name": "So Good - Stripped",
+      "url": "https://open.spotify.com/track/4vi0VouKDXJZEBANYxwCFN"
     },
     {
       "album": {
@@ -1748,7 +1766,7 @@
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 172563,
       "name": "Sunshine - Acoustic Version",
       "url": "https://open.spotify.com/track/5OAuga7P1grWVNYp9v2qGq"
     },

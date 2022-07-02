@@ -4,11 +4,11 @@
 
 > 
 
-59 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/4j1mWpyYNcr2DQcqZcZGdH)
+59 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/4j1mWpyYNcr2DQcqZcZGdH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [18 and Life](https://open.spotify.com/track/1HlGblweLq0eAwnb0NY1EQ) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Best Of](https://open.spotify.com/album/0D48ZbriW82M2GbOKCbd1G) | 0:29 | 2014-03-20 |  |
+| [18 and Life](https://open.spotify.com/track/1HlGblweLq0eAwnb0NY1EQ) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Best Of](https://open.spotify.com/album/0D48ZbriW82M2GbOKCbd1G) | 3:51 | 2014-03-20 |  |
 | [All We Are](https://open.spotify.com/track/3rKsX8C1Rc9eFpE5mP7X2x) | [Doro](https://open.spotify.com/artist/5GLeyUhj8B8f5pJxqZllKl) | [Classic Diamonds](https://open.spotify.com/album/4AHJJRUoKRzQLEIhD4xKVM) | 2:57 | 2014-03-20 |  |
 | [Arrival](https://open.spotify.com/track/0Khu3lwmM3NBw7Xkk5YF4n) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Eremita](https://open.spotify.com/album/78cdLSogu9HIZyD540GTZC) | 5:40 | 2014-03-20 |  |
 | [Ashes](https://open.spotify.com/track/2VdA2H1umS9hHbwLxMt62J) | [Threshold](https://open.spotify.com/artist/7KTRbZ1YTch5oXQOmQTStM) | [March Of Progress](https://open.spotify.com/album/0VKQsL9MD2i5P4scLXuTiQ) | 6:51 | 2014-03-20 |  |
@@ -16,7 +16,7 @@
 | [Baptism Of Fire](https://open.spotify.com/track/5U22OTGVkjoszIIvyrFJua) | [Sahg](https://open.spotify.com/artist/1avAVvUyTYVWjXOZzCGND4) | [Sahg III](https://open.spotify.com/album/3vWLCjynyeRgz5ZO7AP39Z) | 3:39 | 2014-03-20 |  |
 | [Bite The Bullet](https://open.spotify.com/track/3dAjuDCMfPwGVfnFVXowfL) | [Bullet](https://open.spotify.com/artist/6e8DrBevl7KCm0Kfse6fvB) | [Bite The Bullet](https://open.spotify.com/album/5daaYoph0sCSpHnnEsgcpO) | 2:43 | 2014-03-20 |  |
 | [Born To Be Wild](https://open.spotify.com/track/0H8iyBZDnWYgwVNAOcLiah) | [Krokus](https://open.spotify.com/artist/4YveAIZNQZBiWbt7iWsvCa) | [Hoodoo](https://open.spotify.com/album/2xIHNHmbm7DQoDKFQqxByO) | 3:34 | 2014-03-20 |  |
-| [Caravan \- Single Version](https://open.spotify.com/track/4BIaDz7pMzF1KjEWJSKSOE) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Caravan](https://open.spotify.com/album/7EDHajaYGxPjxWLIv97Aui) | 0:29 | 2014-03-20 |  |
+| [Caravan \- Single Version](https://open.spotify.com/track/4BIaDz7pMzF1KjEWJSKSOE) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Caravan](https://open.spotify.com/album/7EDHajaYGxPjxWLIv97Aui) | 5:40 | 2014-03-20 |  |
 | [Deconstruction](https://open.spotify.com/track/3gDsKqY2XBDCNyEIWQsJmI) | [Witchcraft](https://open.spotify.com/artist/3HVmba1wHgrLVsVC5IIzkG) | [Legend \(Bonus Version\)](https://open.spotify.com/album/37PmPATTGfiCR5TjAbBzS1) | 5:09 | 2014-03-20 |  |
 | [Die With a Beer in Your Hand](https://open.spotify.com/track/2gyfpkZJ7KKONUNa1tvobj) | [Tankard](https://open.spotify.com/artist/0lKpKsvjBKLUeyVIAPHUy1) | [Beast of Bourbon](https://open.spotify.com/album/13lzdJSE38KQu00dWmCtNE) | 5:33 | 2014-03-20 |  |
 | [Divine Victim](https://open.spotify.com/track/1ZrE6kQQtLpliVYldVAMqF) | [Manilla Road](https://open.spotify.com/artist/1qt7m48wpniTuMJ2YsVBI5) | [The Deluge](https://open.spotify.com/album/5gJKmnOkZEZBVPexciuEYY) | 3:09 | 2012-10-30 |  |
@@ -36,8 +36,8 @@
 | [Five Minutes of Fame](https://open.spotify.com/track/3ELrgS9uCAY1CQEo3VUzlK) | [Martin Prahl](https://open.spotify.com/artist/5IvSLCqwr7E95rcTYn8OOC) | [Martin Prahl's Skelter Wheel](https://open.spotify.com/album/5Xel594RSMB1hSirEW2X5P) | 3:38 | 2014-03-20 |  |
 | [Hang Man](https://open.spotify.com/track/6CFrAnrMgWlUgjtfJBHQVw) | [Spiders](https://open.spotify.com/artist/19kCN9kQcd5T2IyqvPfjVt) | [Flash Point](https://open.spotify.com/album/6oGHeTbWSkkNYlv2FNSgUz) | 2:43 | 2014-03-20 |  |
 | [Heat Of The Moment](https://open.spotify.com/track/7KA66zSwthBv5X9bNQEeX1) | [Asia](https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej) | [Asia](https://open.spotify.com/album/1H6UavEu5ZiRwybDHo9vCd) | 3:47 | 2014-03-20 |  |
-| [Heaven in black](https://open.spotify.com/track/3ovX9TOXTizeKYZjbKvGoc) | [Axxis](https://open.spotify.com/artist/2kGeYVloFXuKXgXnhQTcIT) | [Back To The Kingdom](https://open.spotify.com/album/4tg0OrjsTQbTIoaWjn0MRH) | 0:29 | 2014-03-20 |  |
-| [Heaven's on Fire](https://open.spotify.com/track/1QaglzLLwx2OctlhWviDXh) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Sonic Boom](https://open.spotify.com/album/06TUPSt0LmDoAm3jnE93Ww) | 0:29 | 2014-03-20 |  |
+| [Heaven in black](https://open.spotify.com/track/3ovX9TOXTizeKYZjbKvGoc) | [Axxis](https://open.spotify.com/artist/2kGeYVloFXuKXgXnhQTcIT) | [Back To The Kingdom](https://open.spotify.com/album/4tg0OrjsTQbTIoaWjn0MRH) | 3:40 | 2014-03-20 |  |
+| [Heaven's on Fire](https://open.spotify.com/track/1QaglzLLwx2OctlhWviDXh) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Sonic Boom](https://open.spotify.com/album/06TUPSt0LmDoAm3jnE93Ww) | 3:24 | 2014-03-20 |  |
 | [Hey Mister](https://open.spotify.com/track/2dEnSKKTYz15BE7P1HIi4a) | [Stacie Collins](https://open.spotify.com/artist/7ho0qX1GkESi1hOHkECWk3) | [Sometimes Ya Gotta...](https://open.spotify.com/album/7cPRbV87MMlkgwViyeRHXY) | 4:01 | 2014-03-20 |  |
 | [Hollow](https://open.spotify.com/track/3WoMvAfMvMYMIJshxaKKOv) | [Morgana Lefay](https://open.spotify.com/artist/6wEcnwWPcae1cLkZDtGTJJ) | [Grand Materia](https://open.spotify.com/album/4YSNSBRYiwXhn66nOOs4NG) | 4:07 | 2014-03-20 |  |
 | [Hollywood Seven](https://open.spotify.com/track/74fj2eaGuHrPFDUZjceNrG) | [Jon English](https://open.spotify.com/artist/6H2LnEj5myKc4vVz0huuxW) | [Hollywood Seven](https://open.spotify.com/album/2ZnrCsKyhxnq4l1J7fc7M6) | 4:50 | 2014-03-20 |  |

@@ -44,6 +44,28 @@
     },
     {
       "album": {
+        "name": "Africvillean Funk",
+        "url": "https://open.spotify.com/album/4dA1mxVyeTqlbOurVp76TN"
+      },
+      "artists": [
+        {
+          "name": "Aquakultre",
+          "url": "https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus"
+        },
+        {
+          "name": "Trobiz",
+          "url": "https://open.spotify.com/artist/1SOChUFxbvRq02w2HC1XvX"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192133,
+      "name": "Africvillean Funk",
+      "url": "https://open.spotify.com/track/1rbN7wvQtAYoGV5DZliziB"
+    },
+    {
+      "album": {
         "name": "B Side - Dr. Rubberfunk Mix",
         "url": "https://open.spotify.com/album/1IJYB2w5KHSGickzC7y0Mj"
       },
@@ -115,6 +137,24 @@
       "duration_ms": 174456,
       "name": "Bad Mother",
       "url": "https://open.spotify.com/track/4xljuYgtxgfNAHqRXJDjMe"
+    },
+    {
+      "album": {
+        "name": "Bay B. MoMa",
+        "url": "https://open.spotify.com/album/6MkQxVuiyhDEXCL2JttDbc"
+      },
+      "artists": [
+        {
+          "name": "The Du-Rites",
+          "url": "https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242959,
+      "name": "Bay B. MoMa",
+      "url": "https://open.spotify.com/track/60gfsjq0ZiSeTNozFfO8bl"
     },
     {
       "album": {
@@ -359,6 +399,24 @@
       "duration_ms": 199893,
       "name": "Confident (feat. The MB's)",
       "url": "https://open.spotify.com/track/28YkfGOg7FmjJpokMe9wS6"
+    },
+    {
+      "album": {
+        "name": "Cool (From 'Minions: The Rise of Gru' Soundtrack)",
+        "url": "https://open.spotify.com/album/0CnL6CPos3VkeqKRaR9Uwp"
+      },
+      "artists": [
+        {
+          "name": "Verdine White",
+          "url": "https://open.spotify.com/artist/4tMJliVd96wXoMVNdcOBHp"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174149,
+      "name": "Cool - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/2NV8520xo3iYrpD8wv4Sxy"
     },
     {
       "album": {
@@ -627,6 +685,36 @@
       "duration_ms": 215146,
       "name": "Giving You My Heart",
       "url": "https://open.spotify.com/track/3pBE5lftPP2MxhD2DQRvBm"
+    },
+    {
+      "album": {
+        "name": "Gonna Get In My Way",
+        "url": "https://open.spotify.com/album/70v48r8qwciZ0uyHvsHgST"
+      },
+      "artists": [
+        {
+          "name": "The New Mastersounds",
+          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
+        },
+        {
+          "name": "Eddie Roberts",
+          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
+        },
+        {
+          "name": "Lamar Williams Jr.",
+          "url": "https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4"
+        },
+        {
+          "name": "Chad Pike",
+          "url": "https://open.spotify.com/artist/2jHsExomQEvt5bk6OQfJDL"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235480,
+      "name": "Gonna Get In My Way",
+      "url": "https://open.spotify.com/track/6pebyG1lz94gB0qxjTyIs2"
     },
     {
       "album": {
@@ -1013,7 +1101,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 321844,
       "name": "If You Want Me to Stay",
       "url": "https://open.spotify.com/track/0IFQpkcrFHy8bJOlrjKDEZ"
@@ -2752,7 +2840,7 @@
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 251540,
+      "duration_ms": 29048,
       "name": "Zodiac",
       "url": "https://open.spotify.com/track/7hoem34FJzzQWkAb58Tlkz"
     }

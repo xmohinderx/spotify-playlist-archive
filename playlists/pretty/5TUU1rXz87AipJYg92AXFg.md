@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5TUU1rXz87AipJYg92AXFg.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 667 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 667 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/5TUU1rXz87AipJYg92AXFg.md) - [plain]
 | 10 | [Independent Women, Pt\. 1](https://open.spotify.com/track/69XUpOpjzDKcfdxqZebGiI) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9) | 3:41 |
 | 11 | [Hit 'Em Up Style \(Oops!\)](https://open.spotify.com/track/0ho4ac5tM9CNcmeIElhadF) | [Blu Cantrell](https://open.spotify.com/artist/6vytZ677lz4LzCrUDcDokM) | [Bittersweet](https://open.spotify.com/album/6AnYRqJHyeEzt2zviudTMH) | 4:10 |
 | 12 | [It Wasn't Me](https://open.spotify.com/track/0ec2YqaLnasKAES0iWMmhy) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Rik Rok](https://open.spotify.com/artist/67wCYxOq4A1ohAs7jWYaOJ) | [The Boombastic Collection \- Best Of Shaggy \(International Version\)](https://open.spotify.com/album/0JFoLERkkPF0TMg5XnMjDs) | 3:47 |
-| 13 | [Stutter \(feat\. Mystikal\) \- Double Take Remix](https://open.spotify.com/track/7C5XOHS3FXH8PWbAB9WdWS) | [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX), [Mystikal](https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5), [Allen Gordon](https://open.spotify.com/artist/1f7DyDtA0IwtD0f9NLf4P6) | [Greatest Hits](https://open.spotify.com/album/2hwM2z7y5OWRkCZ9cPaOLq) | 0:29 |
+| 13 | [Stutter \(feat\. Mystikal\) \- Double Take Remix](https://open.spotify.com/track/7C5XOHS3FXH8PWbAB9WdWS) | [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX), [Mystikal](https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5), [Allen Gordon](https://open.spotify.com/artist/1f7DyDtA0IwtD0f9NLf4P6) | [Greatest Hits](https://open.spotify.com/album/2hwM2z7y5OWRkCZ9cPaOLq) | 3:33 |
 | 14 | [It's Been Awhile](https://open.spotify.com/track/1BExV8JprNJLvLeDE9qdEW) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Break the Cycle](https://open.spotify.com/album/0HogGfosAvj4tF3GTv2KIE) | 4:24 |
 | 15 | [U Remind Me](https://open.spotify.com/track/2QsZVnbWVSjKMXK6K3uRBL) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [8701](https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi) | 4:26 |
 | 16 | [Where the Party At \(feat\. Nelly\)](https://open.spotify.com/track/5mNV8Mz59bzyuQ53gTw0c0) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Jagged Little Thrill](https://open.spotify.com/album/2LFRjzwf61Y7CIl54Kiq8j) | 3:52 |
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/5TUU1rXz87AipJYg92AXFg.md) - [plain]
 | 42 | [Bootylicious](https://open.spotify.com/track/2jZESuj23z92RqbooSsMqV) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [\#1's](https://open.spotify.com/album/01gnLdVDtDGFd8nmLL1U18) | 3:27 |
 | 43 | [I'm Like A Bird](https://open.spotify.com/track/11eg9aN1TQjFpaVhHFDnO0) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [The Best of Nelly Furtado \(International Version\)](https://open.spotify.com/album/2vCWHXLetotBI8ETx7TICg) | 4:04 |
 | 44 | [Kryptonite](https://open.spotify.com/track/5ZPp1V3PufN6qhAe3rLNmb) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/6lVwZdo0vX9Q6u294XKYds) | 3:53 |
-| 45 | [Fiesta \- Remix](https://open.spotify.com/track/50aYYSNIEfwUjCvjDgkrQe) | [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Boo](https://open.spotify.com/artist/5Z3tsYTS1kfBUfGjCLXmqy), [Gotti](https://open.spotify.com/artist/4AX9k5ERS9sFbH7XPl1y4J) | [The R\. In R&B Collection: Volume 1](https://open.spotify.com/album/0mfaOc6KL6Kak3DYUyjNVl) | 0:29 |
+| 45 | [Fiesta \- Remix](https://open.spotify.com/track/50aYYSNIEfwUjCvjDgkrQe) | [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Boo](https://open.spotify.com/artist/5Z3tsYTS1kfBUfGjCLXmqy), [Gotti](https://open.spotify.com/artist/4AX9k5ERS9sFbH7XPl1y4J) | [The R\. In R&B Collection: Volume 1](https://open.spotify.com/album/0mfaOc6KL6Kak3DYUyjNVl) | 4:01 |
 | 46 | [When It's Over \- Remastered](https://open.spotify.com/track/3eWxADd1CLwJVhyPzrCpl8) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [The Best Of Sugar Ray](https://open.spotify.com/album/2hjQQj7x2YipViOCw6UX1N) | 3:38 |
 | 47 | [Jaded](https://open.spotify.com/track/1sP9rpx5OradxxSxnzu0cJ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [The Essential Aerosmith](https://open.spotify.com/album/36mvzijHQpxFLBBcrJCjbR) | 3:34 |
-| 48 | [Promise](https://open.spotify.com/track/1X1KDnhTnb28tpJlgOV3lD) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [J.E\. Heartbreak](https://open.spotify.com/album/4tIkdOt2ohTHJ1VptEwNu3) | 0:29 |
+| 48 | [Promise](https://open.spotify.com/track/1X1KDnhTnb28tpJlgOV3lD) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [J.E\. Heartbreak](https://open.spotify.com/album/4tIkdOt2ohTHJ1VptEwNu3) | 4:06 |
 | 49 | [Missing You](https://open.spotify.com/track/10b8G4LwhvNOPgwF68fW5p) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Open Letter](https://open.spotify.com/album/7ukcAS5K6poq7YC0ueUS79) | 4:45 |
 | 50 | [Differences](https://open.spotify.com/track/0Uyh92tLyb9JawG8lmWCzJ) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [The Life](https://open.spotify.com/album/5IZeegMeRHlyKE6LKrVuYt) | 4:25 |
 

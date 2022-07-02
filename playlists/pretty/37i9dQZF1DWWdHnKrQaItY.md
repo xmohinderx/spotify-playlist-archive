@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdHnKrQaItY.md) - [plain]
 
 > Run, dance, jump, and play with this kid\-approved workout playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,444 likes - 65 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,449 likes - 65 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdHnKrQaItY.md) - [plain]
 | 27 | [The Floor is Lava Song for Kids](https://open.spotify.com/track/5EYSpobhxemmxtmYpDEg33) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [The Floor is Lava Song for Kids](https://open.spotify.com/album/3kbwCxMvfrfMzmdELRWVTE) | 3:30 |
 | 28 | [Baby Shark](https://open.spotify.com/track/5ygDXis42ncn6kYG14lEVG) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Animal Songs](https://open.spotify.com/album/1S7mumn7D4riEX2gVWYgPO) | 1:20 |
 | 29 | [Best Friends Forever \- Single Version](https://open.spotify.com/track/0v2xEadRgNFT7INr6t5YT4) | [Regurgitator's Pogogo Show](https://open.spotify.com/artist/264s8SLuCBJBkJRSRRcpDk) | [Best Friends Forever](https://open.spotify.com/album/5FOSwa1tus2IZEHABA05u7) | 1:51 |
-| 30 | [If You’re Happy And You Know It](https://open.spotify.com/track/5GppFsE03nmnaUha3yyIwH) | [Big Bird](https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE), [Oscar,Kid Chorus](https://open.spotify.com/artist/7CdPfjeINtRWDagKED20xi) | [Sesame Street: Kids’ Favorite Songs 2](https://open.spotify.com/album/6oHa2yd0RrkyVUakFRWBN1) | 0:29 |
+| 30 | [If You’re Happy And You Know It](https://open.spotify.com/track/5GppFsE03nmnaUha3yyIwH) | [Big Bird](https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE), [Oscar,Kid Chorus](https://open.spotify.com/artist/7CdPfjeINtRWDagKED20xi) | [Sesame Street: Kids’ Favorite Songs 2](https://open.spotify.com/album/6oHa2yd0RrkyVUakFRWBN1) | 2:31 |
 | 31 | [My Jam](https://open.spotify.com/track/4r5ibfNn0SOvfF2Dh1znnH) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [My Jam](https://open.spotify.com/album/2d3S8K0TuX800sJc4sBB80) | 2:45 |
 | 32 | [Bunny Hop](https://open.spotify.com/track/4ALGayAi9P281f71KCxo7T) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Shake It Up](https://open.spotify.com/album/7kM5MY7QlkOWuwNmG00Pnw) | 2:30 |
 | 33 | [Shake Your Body Down](https://open.spotify.com/track/6vaxOLlCcMwkQnpsHsH4ee) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [The Ultimate Laurie Berkner Band Collection](https://open.spotify.com/album/76WdfWymaHkKBU84g37Mmb) | 3:06 |

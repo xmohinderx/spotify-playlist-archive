@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0uZg7go8TKu5hpv1L6CJ4y.md) - [plain]
 
 > Samla dina vänner och ladda inför de Olypiska Spelen\. Nu kör vi!
 
-[Spotify](https://open.spotify.com/user/spotify) - 49 likes - 51 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 49 likes - 51 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/0uZg7go8TKu5hpv1L6CJ4y.md) - [plain]
 | 17 | [Empire State Of Mind \[Jay\-Z + Alicia Keys\]](https://open.spotify.com/track/69yVxyuRahEzs2taFMVVoO) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint 3](https://open.spotify.com/album/03JboE7JdI2P2lZjzVFjUP) | 4:37 |
 | 18 | [Come Together](https://open.spotify.com/track/0WGji1pxqswFYpd9MAvZCf) | [The Beatles Tribute Project](https://open.spotify.com/artist/7EzNTMzMN70jRxBWbxeshd) | [The Beatles Tribute Project: Volume I](https://open.spotify.com/album/14z6Ed6BQpI7YO1c740OiV) | 4:09 |
 | 19 | [Hey Ya!](https://open.spotify.com/track/3AszgPDZd9q0DpDFt4HFBy) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [The Way You Move / Hey Ya!](https://open.spotify.com/album/7etFl9qeqjD0luC40JAg8l) | 3:59 |
-| 20 | [Shake Ya Tailfeather \(feat\. Nelly & Murphy Lee\)](https://open.spotify.com/track/6EtkH6EfTfNLjUHKDylEym) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Murphy Lee](https://open.spotify.com/artist/07W0YfsvHM7Mw7Bq48Mb0A), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Bad Boys II](https://open.spotify.com/album/4DXLSy0XusV4o9ZhDfY0Ow) | 0:29 |
+| 20 | [Shake Ya Tailfeather \(feat\. Nelly & Murphy Lee\)](https://open.spotify.com/track/6EtkH6EfTfNLjUHKDylEym) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Murphy Lee](https://open.spotify.com/artist/07W0YfsvHM7Mw7Bq48Mb0A), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Bad Boys II](https://open.spotify.com/album/4DXLSy0XusV4o9ZhDfY0Ow) | 4:53 |
 | 21 | [Hold On, We're Going Home](https://open.spotify.com/track/6jdOi5U5LBzQrc4c1VT983) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Nothing Was The Same \(Deluxe\)](https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA) | 3:47 |
 | 22 | [Who's That Chick ? \(feat\. Rihanna\) \[Single Version\]](https://open.spotify.com/track/3sQyQlEbhmxH7anwJqFDpw) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Who's That Chick \(feat.Rihanna \) \[Single version\] \- Single](https://open.spotify.com/album/02yy0R11lqcQ2eyXygByNA) | 2:47 |
 | 23 | [Your Love](https://open.spotify.com/track/5dRQUolXAVX3BbCiIxmSsf) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y) | [Super Hits](https://open.spotify.com/album/5FfkiNcXAvagExRCLd8nn4) | 3:41 |

@@ -4,7 +4,7 @@
 
 > Raw dance beats pushing club culture forwards\. Cover: Shygirl
 
-60 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/6c2DXccUunEn5VXDoEgAbj)
+60 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/6c2DXccUunEn5VXDoEgAbj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Anxiety](https://open.spotify.com/track/5FTWn7HNbo9XM5Swh7pqi3) | [Leila Samir](https://open.spotify.com/artist/3SEWWBoysH0FKZ7KROMAaG) | [No Music](https://open.spotify.com/album/0LSg3GZEeIW7vMSPJP5bO5) | 4:16 | 2021-02-19 |  |
 | [AS Too Wrong](https://open.spotify.com/track/2WzubBUQcauu7X1dHmXkUy) | [Amnesia Scanner](https://open.spotify.com/artist/2J3LwjEkmryU6BSAubwbMF) | [Another Life](https://open.spotify.com/album/5xYZZk3w1qqSUPokXTQvLr) | 4:14 | 2021-02-19 |  |
 | [Babysitter \(feat\. Trent Reznor\)](https://open.spotify.com/track/35oJDDDWifBkZp6WVQfqs0) | [TOBACCO](https://open.spotify.com/artist/3ikKyCOrsMeANi0d5u8BCR), [Trent Reznor](https://open.spotify.com/artist/0hRijdwO8UsJMudc3476ma) | [Babysitter \(feat\. Trent Reznor\)](https://open.spotify.com/album/5o7gcYei8BfGoMRey3a9bF) | 2:17 | 2021-02-19 |  |
-| [BAWDY](https://open.spotify.com/track/1bMG9DKuMJhdwTSTtphTDC) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [ALIAS](https://open.spotify.com/album/3lpcZOAsYJzvPepNSbzMSb) | 0:29 | 2021-02-19 |  |
+| [BAWDY](https://open.spotify.com/track/1bMG9DKuMJhdwTSTtphTDC) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [ALIAS](https://open.spotify.com/album/3lpcZOAsYJzvPepNSbzMSb) | 2:34 | 2021-02-19 |  |
 | [BB](https://open.spotify.com/track/1oTZfA19b295ZdWdFTzJNj) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [BB](https://open.spotify.com/album/24QFQfxBMBCr0H2oPXZNZT) | 2:46 | 2021-02-19 |  |
 | [Black Dragons](https://open.spotify.com/track/3hkaTxcPol9mojh5NupAT3) | [Rabit](https://open.spotify.com/artist/2X3e2rDdxibDfJGv0CwS7A), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [Black Dragons](https://open.spotify.com/album/0eJF1w6vSoYGLahJ1tyjFv) | 3:05 | 2021-02-19 |  |
 | [Blaze Away \- Throwing Snow Remix](https://open.spotify.com/track/2Yp7Ulnqr80EqEla4GRx2G) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd), [Throwing Snow](https://open.spotify.com/artist/0Qur5LqqAVVunjY2PnjhUp) | [Blaze Away \(Throwing Snow Remix\)](https://open.spotify.com/album/2M903dUWZcuXCDxvahm07N) | 3:23 | 2021-02-19 |  |

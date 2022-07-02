@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-122 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/5PXW8WDXeIw3YqfXn9AhIU)
+122 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/5PXW8WDXeIw3YqfXn9AhIU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Apartment Song \#5](https://open.spotify.com/track/0GG1KOVmUeZfipy9MB9m4e) | [Bruno Bavota](https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH) | [Apartment Song \#5](https://open.spotify.com/album/3c5jf7GTivqPWw5bGLvtT5) | 3:11 | 2021-12-10 |  |
 | [As Wind Echoes Over Snow](https://open.spotify.com/track/31sFVhpsghiYz85q6pdxao) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [Winter Poetry](https://open.spotify.com/album/3UAMIANsQQemUfXOyTe5TU) | 3:41 | 2021-12-10 |  |
 | [Ascent \- Day 1](https://open.spotify.com/track/1Bdgn4nmMlADRQ6DPJh7UM) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Seven Days Walking \(Day 1\)](https://open.spotify.com/album/1m4GKm4lVNZdA4dHwcr8of) | 5:37 | 2021-12-10 |  |
-| [At Dawn](https://open.spotify.com/track/6JOoavIQalujOEbpyN7ofg) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [At Dawn](https://open.spotify.com/album/6FIqEmWuczU1JgLbbIVJBv) | 0:29 | 2021-12-10 |  |
+| [At Dawn](https://open.spotify.com/track/6JOoavIQalujOEbpyN7ofg) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [At Dawn](https://open.spotify.com/album/6FIqEmWuczU1JgLbbIVJBv) | 3:00 | 2021-12-10 |  |
 | [Atoms](https://open.spotify.com/track/1b85pN99A6Mn3UU81SYUg0) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Atoms](https://open.spotify.com/album/3eP234mqeVO9RjB0RZyd9F) | 3:03 | 2021-12-10 |  |
 | [Autumn](https://open.spotify.com/track/6k72nrGlCMKzs5TZXUF9Gp) | [Rosey Chan](https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR) | [Autumn](https://open.spotify.com/album/4tfc7VtpuBBON6YHnGFaXU) | 4:41 | 2021-12-10 |  |
 | [Balcony Hotel \- From 'Miss'](https://open.spotify.com/track/1ugTSkllKG0YdiPaOEPa0z) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Balcony Hotel \(From 'Miss'\)](https://open.spotify.com/album/03gQiVHlkBcujpdfozAUKz) | 2:48 | 2021-12-10 |  |
@@ -57,7 +57,7 @@
 | [Himitsu](https://open.spotify.com/track/17DJuwGNugAo1UzfyA7On8) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [By the Border](https://open.spotify.com/album/2ahyKR00M06DOvnNfXeGmd) | 2:38 | 2021-12-10 |  |
 | [Holm Sound](https://open.spotify.com/track/7vvqiqB4O7nPXWxiehIH9l) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Holm Sound](https://open.spotify.com/album/3B8s4Z5VhzbK1R7upD1IP5) | 2:55 | 2021-12-10 |  |
 | [I wanted you to know \(on Yamaha Upright, 1981\)](https://open.spotify.com/track/1WQiXGnr4RwC4C8jBEhIB5) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Correlations \(on 11 pianos\) \- I wanted you to know \(on Yamaha Upright, 1981\)](https://open.spotify.com/album/0X0pCoI82tq3qy446cmrXm) | 4:33 | 2021-12-10 |  |
-| [In the Waiting](https://open.spotify.com/track/0WzetzBykY3fl41dEJjoYa) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [You Finally Knew](https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K) | 0:29 | 2021-12-10 |  |
+| [In the Waiting](https://open.spotify.com/track/0WzetzBykY3fl41dEJjoYa) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [You Finally Knew](https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K) | 2:39 | 2021-12-10 |  |
 | [Inno \(Prologo\)](https://open.spotify.com/track/4CYoKviFpkT3XC6nDbjYte) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [\#002 Hymns](https://open.spotify.com/album/0tVvs2WoGh1ZkYp9ZuGkot) | 2:43 | 2022-02-25 |  |
 | [Inventing Light](https://open.spotify.com/track/0yquufspHuwdG9o7hVNv26) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Inventing Light](https://open.spotify.com/album/0hoJC8NU80jLnsw8l5iZq0) | 3:02 | 2021-12-10 |  |
 | [K.A.H.D\. \- Home Session](https://open.spotify.com/track/79NexPR54Uygigj6OynSn0) | [Christian Badzura](https://open.spotify.com/artist/4o4c7wie7O9R8ju7JWtHsQ), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Reflections Pt\. 2 / Debussy: Canope](https://open.spotify.com/album/1HNnHVV9ITkbflRYzsxFJH) | 4:21 | 2021-12-10 |  |
@@ -78,7 +78,7 @@
 | [Morgen](https://open.spotify.com/track/43g9xRCsD9ez3qzVLRdFeX) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Morgen](https://open.spotify.com/album/61KSoFutstVwhqyoAxfdKj) | 2:45 | 2021-12-10 |  |
 | [Mrs\. Potter's Garden](https://open.spotify.com/track/4hRULDo9fR449jPin3MmIg) | [Frerick Den Haan](https://open.spotify.com/artist/0TBTYt8ytHV9fqmQmXQZs5) | [Mrs\. Potter's Garden](https://open.spotify.com/album/4wgoLr9H9hmCscuUF72E1r) | 2:38 | 2021-12-10 |  |
 | [Muse d'eau](https://open.spotify.com/track/2X32IY314Mt7NRi2taldLX) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Reflections Pt\. 3 / RWKS](https://open.spotify.com/album/4lKjOi9WFEBvafMP8IXToY) | 3:33 | 2021-12-10 |  |
-| [Necessary Things](https://open.spotify.com/track/3jfHBBkgGytf4lIn0BMfXT) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Necessary Things](https://open.spotify.com/album/5KlfW6GEYoTWTbT4TSy2fo) | 0:29 | 2021-12-10 |  |
+| [Necessary Things](https://open.spotify.com/track/3jfHBBkgGytf4lIn0BMfXT) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Necessary Things](https://open.spotify.com/album/5KlfW6GEYoTWTbT4TSy2fo) | 3:52 | 2021-12-10 |  |
 | [Nocturnal](https://open.spotify.com/track/7BpDcPsVqfMgHdVglLK3Kt) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Nocturnal](https://open.spotify.com/album/2gnADpRKbG8Jq0Vc5ikLKK) | 5:12 | 2022-01-28 |  |
 | [Nocturnes op.3](https://open.spotify.com/track/589UW75kHbBNDPERjvGUDo) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Nocturnes op.3](https://open.spotify.com/album/1eFpKpEOeJK8fR1gtd6HaE) | 2:34 | 2022-01-21 |  |
 | [nostalgia](https://open.spotify.com/track/2Mu8WX2LlDIGl8Ea2C6lF8) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [nostalgia](https://open.spotify.com/album/0OyO7mdSxWDcK1nLg9jkwY) | 3:11 | 2021-12-10 |  |
@@ -103,7 +103,7 @@
 | [S.A.D.](https://open.spotify.com/track/7u8V66KV1rXJtJSR9gCQ0L) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [S.A.D\. Storm and Drugs](https://open.spotify.com/album/6D17eYpXEBKROPdbONmdHM) | 3:21 | 2021-12-10 |  |
 | [saman](https://open.spotify.com/track/7iiOQHrIPuafVip6E9hIqZ) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [saman](https://open.spotify.com/album/4vBnwCup5n0lu4I8Az6lrS) | 2:11 | 2021-12-10 |  |
 | [Siciliana \(from "The Tree of Life", Arr\. for Piano from Antiche Danze, Suite No\. 3 by Ottorino Respighi\)](https://open.spotify.com/track/32gGCtoIqSmRPmRbWUsVaw) | [Ottorino Respighi](https://open.spotify.com/artist/7KkUirCiJZhgRN3NbgG98L), [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp) | [Siciliana \(from "The Tree of Life", Arr\. for Piano from Antiche Danze, Suite No\. 3 by Ottorino Respighi\)](https://open.spotify.com/album/7Hk7YO67ZN4npwRLDa28Ah) | 2:54 | 2021-12-10 |  |
-| [Silhouette](https://open.spotify.com/track/2hwV3gqCQ0hmS8sp8vXioj) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Silhouette](https://open.spotify.com/album/04KfDPzBhw4C3iAqNJIV5A) | 0:29 | 2021-12-10 |  |
+| [Silhouette](https://open.spotify.com/track/2hwV3gqCQ0hmS8sp8vXioj) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Silhouette](https://open.spotify.com/album/04KfDPzBhw4C3iAqNJIV5A) | 2:23 | 2021-12-10 |  |
 | [Some](https://open.spotify.com/track/28gRlopNz7IIWwiH32poAb) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Solo](https://open.spotify.com/album/1pvK662Ezwrn0ofOxHZOcP) | 4:14 | 2021-12-10 |  |
 | [Stars Light Up The Water](https://open.spotify.com/track/3Jff69kvbsXnRwHnJTOL2A) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Stars Light Up The Water](https://open.spotify.com/album/3rsPuZNT9JJUVwCfjBY8eJ) | 2:16 | 2021-12-10 |  |
 | [Stella de Oro](https://open.spotify.com/track/0nf1kFIPnMpPgZaCWTYuUx) | [Yana](https://open.spotify.com/artist/3tJde1HLB27pgg4UCWN8cA) | [Solace](https://open.spotify.com/album/3DsKkabaqsYGKSriLuHHRl) | 4:10 | 2022-04-01 |  |
@@ -114,8 +114,8 @@
 | [That Feeling, Though](https://open.spotify.com/track/5W7cnjrNZcv1ITMv3xyvkV) | [Fabrizio Paterlini](https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi) | [That Feeling, Though](https://open.spotify.com/album/0KApkc3q8azy74RibeRkb1) | 1:31 | 2021-12-10 |  |
 | [The Arts and the Hours](https://open.spotify.com/track/1G3QPQkoXvpChjNUhd6Tfs) | [Jean\-Philippe Rameau](https://open.spotify.com/artist/4JSWO1Pf2zV991fq64uAce), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Rameau, Ólafsson: The Arts and the Hours](https://open.spotify.com/album/4omnRCjOvnHa3ETQlqZpd1) | 4:45 | 2021-12-10 |  |
 | [The Departure](https://open.spotify.com/track/7oTKvLjCe7db1UxsImGBwr) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Leftovers \(Music from the HBO® Series\) Season 1](https://open.spotify.com/album/3QxkdzjGRA4Z1dOfY0e994) | 1:15 | 2021-12-10 | 2022-01-05 |
-| [The First Day](https://open.spotify.com/track/3bM1rGq4A21d9fsTsHfDDB) | [Nico Pistolesi](https://open.spotify.com/artist/0KGZu0Jtfq6sQ2CVbPEccR) | [The First Day](https://open.spotify.com/album/3yrF6SRjPWXNEidFUI4q4T) | 0:29 | 2021-12-10 |  |
-| [The Weight Of Fear](https://open.spotify.com/track/1QCAEjOCUPePqYLZTQ0UuQ) | [Peter Cavallo](https://open.spotify.com/artist/4wkhNurLn15nvnOh3O8yCV) | [The Weight Of Fear](https://open.spotify.com/album/1znZjWMZo7qMlYadTcn8G0) | 0:29 | 2021-12-10 |  |
+| [The First Day](https://open.spotify.com/track/3bM1rGq4A21d9fsTsHfDDB) | [Nico Pistolesi](https://open.spotify.com/artist/0KGZu0Jtfq6sQ2CVbPEccR) | [The First Day](https://open.spotify.com/album/3yrF6SRjPWXNEidFUI4q4T) | 3:01 | 2021-12-10 |  |
+| [The Weight Of Fear](https://open.spotify.com/track/1QCAEjOCUPePqYLZTQ0UuQ) | [Peter Cavallo](https://open.spotify.com/artist/4wkhNurLn15nvnOh3O8yCV) | [The Weight Of Fear](https://open.spotify.com/album/1znZjWMZo7qMlYadTcn8G0) | 3:13 | 2021-12-10 |  |
 | [Thirty](https://open.spotify.com/track/3VkJtin5wvok5H43TN4xv5) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Thirty](https://open.spotify.com/album/4h5DGFxPNsrOW3wxs2miTY) | 2:34 | 2022-01-21 |  |
 | [Time Spent](https://open.spotify.com/track/3ZLzPbSOw4OfVqa5zyEWCu) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Owl Splinters](https://open.spotify.com/album/0UCWmdeObrNjjW92mA6bRn) | 2:09 | 2021-12-10 |  |
 | [Transience](https://open.spotify.com/track/7065v1WsWaUVaH0ZPRwhkC) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Transience](https://open.spotify.com/album/5KKSxCujaeW9FTT9Q0jZxA) | 2:59 | 2021-12-10 |  |
@@ -129,6 +129,6 @@
 | [When Orange is the Sky](https://open.spotify.com/track/17xaw9sDx8gyw1ZAOUb1Ns) | [Fabrizio Paterlini](https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi) | [When Orange is the Sky](https://open.spotify.com/album/2OCteDOA3yS9yKZqVjxpZv) | 1:39 | 2021-12-10 |  |
 | [Wintergreen](https://open.spotify.com/track/7zf1xFJp2PuqM00hhsC3ax) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Wintergreen](https://open.spotify.com/album/5abZ6znESLYUw9nEhUveJa) | 3:44 | 2021-12-10 |  |
 | [æfre](https://open.spotify.com/track/2irbT1BSYaIEF44PlyKaoM) | [praam](https://open.spotify.com/artist/6cumWjeQABBu9dCqRV4wOP) | [æfre](https://open.spotify.com/album/4qvfeDEPDNmJFIJdOjGoaW) | 3:06 | 2021-12-10 |  |
-| […And at the Hour of Death](https://open.spotify.com/track/1gU5jNTPxkrF52O7vUTWzR) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Bach Reworks \(Pt\. 1\)](https://open.spotify.com/album/2SpKHUMv3voHKHsmNhuD38) | 0:29 | 2021-12-10 |  |
+| […And at the Hour of Death](https://open.spotify.com/track/1gU5jNTPxkrF52O7vUTWzR) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Bach Reworks \(Pt\. 1\)](https://open.spotify.com/album/2SpKHUMv3voHKHsmNhuD38) | 2:32 | 2021-12-10 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

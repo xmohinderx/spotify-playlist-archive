@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QSrZ8cQbyd.md) - [plain]
 
 > Glockenspiel lullabies for your baby to fall asleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,006 likes - 117 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,008 likes - 117 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,13 +47,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QSrZ8cQbyd.md) - [plain]
 | 37 | [Hold My Hand](https://open.spotify.com/track/4VHOulCmJNhrmBj4hn49lz) | [Jonty Kitchen](https://open.spotify.com/artist/6iHkOcJyOSWq4YC0LpBO2L) | [Hold My Hand](https://open.spotify.com/album/4jBmAyPpxu69QyGrF66LV8) | 1:26 |
 | 38 | [Flying Home](https://open.spotify.com/track/1ZA0AyYQGuyIQhf4w5xl9y) | [Russ Pettigrew](https://open.spotify.com/artist/3f3dcPeDuB6DxuypFvvguG) | [Flying Home](https://open.spotify.com/album/7nu7rx6LukwWpv4Q8Csxo4) | 1:21 |
 | 39 | [När du somnat](https://open.spotify.com/track/3QZE0HhI3LkEjuEMw5gQT5) | [Anna\-Lisa Hemming](https://open.spotify.com/artist/5YYU0jVhnwE2PyM0zBiaTw) | [När du somnat](https://open.spotify.com/album/0OVh3eYoUP3hCqu2upV0w2) | 1:47 |
-| 40 | [When the stars](https://open.spotify.com/track/0Jz7MSxiJIySmnQ9YRXNXG) | [Winslow Winchester](https://open.spotify.com/artist/1r4Sgia0s6wqck1PKaNmuH) | [When the stars](https://open.spotify.com/album/113aJdsZnyvHbxsWQZZvt8) | 0:29 |
+| 40 | [When the stars](https://open.spotify.com/track/0Jz7MSxiJIySmnQ9YRXNXG) | [Winslow Winchester](https://open.spotify.com/artist/1r4Sgia0s6wqck1PKaNmuH) | [When the stars](https://open.spotify.com/album/113aJdsZnyvHbxsWQZZvt8) | 1:39 |
 | 41 | [Bin ich klein?](https://open.spotify.com/track/6GDyd83lliW1JvoaHqQFfk) | [Elia Eberhart](https://open.spotify.com/artist/6lCADeFyIubA6EgyTXY7GR) | [Wenn kleine Hasen schlafen gehen](https://open.spotify.com/album/57L5fdxYdk16AXSDeSAA6d) | 1:36 |
 | 42 | [My Island](https://open.spotify.com/track/0utNwwCUb1Tfq1RnlNqss4) | [Jervis Tollemache](https://open.spotify.com/artist/2RtsCV1nqcCjQ82JpCbtho) | [My Island](https://open.spotify.com/album/4OvdeNw3yt0Q8P1Q4EvBBh) | 1:25 |
 | 43 | [My Night Story](https://open.spotify.com/track/68Q6EE8l8Wr76XCqjhGwzR) | [Codie Banner](https://open.spotify.com/artist/2zvjZSjUq7B9ECMj1aIuI6) | [My Night Story](https://open.spotify.com/album/7rP6wZZ1wYLtqLvKIRt4FA) | 1:48 |
 | 44 | [Trudy The Fox](https://open.spotify.com/track/2S3uOARpZwfZdkXcq7gYtQ) | [Orson Pierson](https://open.spotify.com/artist/43rTSYyJFSBjnuS3nNQswf) | [Trudy The Fox](https://open.spotify.com/album/6W2b1qWMVDCPJAKaEX1qAu) | 1:38 |
 | 45 | [Feeling Happy](https://open.spotify.com/track/411MQaWsxcCUVMH21TMNlx) | [Wilbur Aiken](https://open.spotify.com/artist/6CjjZDbsjGRhjE9dwk0nTY) | [Feeling Happy](https://open.spotify.com/album/4RejapE6dMgDIllg9bhysq) | 1:42 |
-| 46 | [Playing Marbles](https://open.spotify.com/track/4WQbArr5ji9cQleFLs9qcP) | [Ronda Thurman](https://open.spotify.com/artist/49p3D2yCQu1mDSJ7R2IiJj) | [Playing Marbles](https://open.spotify.com/album/4QRI6JbZ2c9qXyeF2WNUAy) | 0:29 |
+| 46 | [Playing Marbles](https://open.spotify.com/track/4WQbArr5ji9cQleFLs9qcP) | [Ronda Thurman](https://open.spotify.com/artist/49p3D2yCQu1mDSJ7R2IiJj) | [Playing Marbles](https://open.spotify.com/album/4QRI6JbZ2c9qXyeF2WNUAy) | 1:03 |
 | 47 | [Flying](https://open.spotify.com/track/1ZKCESOX3YPiti5ZCA55qL) | [Lyndon Kelsey](https://open.spotify.com/artist/2MhESJnJMSY6WDl9xC5BUG) | [Flying](https://open.spotify.com/album/1TM8Nm8flNAltoyHATMYiK) | 1:29 |
 | 48 | [Rainy Night](https://open.spotify.com/track/6FZs9SfcLsNWi6T05OPhW5) | [Satchel Stacks](https://open.spotify.com/artist/45lCsf8XODbOC3vNPX7Nd5) | [Rainy Night](https://open.spotify.com/album/7bUVh7R0pSDR410GPIKDeo) | 1:08 |
 | 49 | [My Favorite Teddy](https://open.spotify.com/track/1KcZU1k4ZqGJA5P1pxf0LX) | [Kim Low](https://open.spotify.com/artist/1TpRygqPUvLFJOOMaQtmMX) | [My Favorite Teddy](https://open.spotify.com/album/2gLzKQI3XmcIBTsLilOspq) | 1:21 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QSrZ8cQbyd.md) - [plain]
 | 56 | [Sleepwalking](https://open.spotify.com/track/1KzTlr4xfHOdZkmiW6beCs) | [Filipa Manson](https://open.spotify.com/artist/5o43MqiGYUuAkfRKo2OBwv) | [Sleepwalking](https://open.spotify.com/album/6WOxbkgZ0Lt0oODgG1nCqI) | 1:16 |
 | 57 | [Let's Play Football](https://open.spotify.com/track/2jV3cUmwBoPnwMicISuQGn) | [Madlyn Chadwick](https://open.spotify.com/artist/0iANAXIKzdC3b8UGpp9Pub) | [Let's Play Football](https://open.spotify.com/album/3CKcm5xrL4mH0DfRG3BLS9) | 1:08 |
 | 58 | [My Bestest Friend](https://open.spotify.com/track/6zLXJhHRDaPg1BylRNo4l6) | [Jay Orsini](https://open.spotify.com/artist/2jIhq7p0P8ulIWQRiw0UD3) | [My Bestest Friend](https://open.spotify.com/album/4PvFRhUfhKe1q9uXEDxKLi) | 1:37 |
-| 59 | [My Lucky Star](https://open.spotify.com/track/3biHKGutlJ1N3omX2uSGcu) | [Kaja Tucker](https://open.spotify.com/artist/5MTYungdXV9JzKLDWg4Uyt) | [My Lucky Star](https://open.spotify.com/album/2E2SyWnuCwyejUGqVTYygu) | 0:29 |
+| 59 | [My Lucky Star](https://open.spotify.com/track/3biHKGutlJ1N3omX2uSGcu) | [Kaja Tucker](https://open.spotify.com/artist/5MTYungdXV9JzKLDWg4Uyt) | [My Lucky Star](https://open.spotify.com/album/2E2SyWnuCwyejUGqVTYygu) | 1:42 |
 | 60 | [Puppy Love](https://open.spotify.com/track/2yJmL5g8rcKi9qviTS2yQA) | [Bryson Sydney](https://open.spotify.com/artist/6T8HGfSR1Bg9oHGZU84LN3) | [Puppy Love](https://open.spotify.com/album/1EGu4aStvEE41Ihn5TbJ9N) | 1:41 |
 | 61 | [Every Dream](https://open.spotify.com/track/3iCWZyQVbNBHw4CGd5JE4k) | [Quincey Sessions](https://open.spotify.com/artist/16rAx6s1F0u4VRj6IAP08J) | [Every Dream](https://open.spotify.com/album/4Pe6bZMYHyhHTqBiW9InC7) | 1:27 |
 | 62 | [’Round Bedtime](https://open.spotify.com/track/4GWnLFPZHuoOrZ6w20PAP4) | [Jonty Kitchen](https://open.spotify.com/artist/6iHkOcJyOSWq4YC0LpBO2L) | [’Round Bedtime](https://open.spotify.com/album/7wDxb1WU5AJMVSJ9smiS4W) | 1:37 |
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QSrZ8cQbyd.md) - [plain]
 | 106 | [Greensleaves](https://open.spotify.com/track/6edPOOfxJGvHvsewUnIHEn) | [Mino Mentoni](https://open.spotify.com/artist/3xf1BsykKMqHCxmJBRGlBX) | [Greensleaves](https://open.spotify.com/album/52wztb50Swni7LsmJgVLmm) | 1:28 |
 | 107 | [Gymnopédie](https://open.spotify.com/track/0v7kquV0jG7radH78bvBgi) | [Dulce de Lago](https://open.spotify.com/artist/4Oi1HzgJuS0O66JmE9ADKd) | [Gymnopédie](https://open.spotify.com/album/3OWu5CyQaClgpCW8HktVkO) | 3:05 |
 | 108 | [Write to Me](https://open.spotify.com/track/1EXfPEm8YJeO0Y55FSnLkE) | [Elroy Sadler](https://open.spotify.com/artist/2uXHbgkDsEIZK5roQl8xBt) | [Write to Me](https://open.spotify.com/album/2hOLsqSymCvbq6dtD8JGIK) | 1:07 |
-| 109 | [You Are My Sunshine](https://open.spotify.com/track/47e0nnskYVSS2VMw1HuIQ9) | [Stig Speleman](https://open.spotify.com/artist/6TaqXDgR9ZFZmXJgNmSpqR) | [Glockenspiel](https://open.spotify.com/album/4vJcvpxBnK5RsH8qLBghIa) | 0:29 |
+| 109 | [You Are My Sunshine](https://open.spotify.com/track/47e0nnskYVSS2VMw1HuIQ9) | [Stig Speleman](https://open.spotify.com/artist/6TaqXDgR9ZFZmXJgNmSpqR) | [Glockenspiel](https://open.spotify.com/album/4vJcvpxBnK5RsH8qLBghIa) | 2:38 |
 | 110 | [I Love You](https://open.spotify.com/track/2ANrXzrdthrTcW7M7eN9Ow) | [Niles Hodges](https://open.spotify.com/artist/56QqQPFEpl4yfIYc5EHIc5) | [I Love You](https://open.spotify.com/album/2b8qJ3ImYhPzJzIeIMaMvw) | 1:34 |
 | 111 | [Sleep Tight](https://open.spotify.com/track/5hmt1Zpg1h9VdD7Y4NYUbf) | [Denise Küttner](https://open.spotify.com/artist/6wAehPof6E3VaaJDa10WAU) | [Glocken Sleep](https://open.spotify.com/album/26IROeMJ3pCu5oIpsYLKTm) | 2:15 |
 | 112 | [Itsy Bitsy Spider](https://open.spotify.com/track/3rRgStxDZMMv1irHYhZsX8) | [Pascal Pauli](https://open.spotify.com/artist/6gGkVAzOgJnvTGohZy4DpT) | [Buenos Noches](https://open.spotify.com/album/1CSwrZUn5OT63c94owSBMr) | 1:13 |

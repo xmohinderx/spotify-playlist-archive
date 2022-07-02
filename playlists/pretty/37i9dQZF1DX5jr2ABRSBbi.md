@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Ženy v plné síle\. Poslouchej EQUAL CZ&SK\. Cover: Sima
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,541 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,541 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 47 | [almost 20](https://open.spotify.com/track/7qalncJL3kgrFl3puKub1n) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [side effects of being human](https://open.spotify.com/album/6oJSaG6vnE04zA86rkTAm8) | 2:12 |
 | 48 | [Úbočí](https://open.spotify.com/track/5pJzzbzjPgCJrKe394kv8Y) | [Bára Zmeková](https://open.spotify.com/artist/25kg48KQR5IPL7CHQO5QhC), [Francesca Mountfort](https://open.spotify.com/artist/4rvGhMLpsSo6W2UKI1sqDJ) | [Úbočí](https://open.spotify.com/album/5ZB03QZgrrujo158132H2h) | 4:14 |
 | 49 | [I Want To Be Perfect](https://open.spotify.com/track/0cfLMh35GyuZne7PNaJIFn) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [I Want To Be Perfect](https://open.spotify.com/album/1LJL5tyy403JxvpgPoSMQD) | 2:53 |
-| 50 | [Lampiony](https://open.spotify.com/track/4wXqxa0NBj9pAt6Z9dbxae) | [DIA](https://open.spotify.com/artist/0PsuGDOlfOP2oextgt3x6H) | [Lampiony](https://open.spotify.com/album/73OblXxnh21rQ9KMZNKgng) | 0:29 |
+| 50 | [Lampiony](https://open.spotify.com/track/4wXqxa0NBj9pAt6Z9dbxae) | [DIA](https://open.spotify.com/artist/0PsuGDOlfOP2oextgt3x6H) | [Lampiony](https://open.spotify.com/album/73OblXxnh21rQ9KMZNKgng) | 3:25 |
 
 Snapshot ID: `MTY1NjYyNjQwMCwwMDAwMDAxMzAwMDAwMTgxYjZhMGNjZDkwMDAwMDE4MWIwMTkxNjNl`

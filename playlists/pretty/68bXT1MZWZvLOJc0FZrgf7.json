@@ -1,13 +1,33 @@
 {
   "description": "Press play and dance away to your favorite electronic hits. Featuring Rezz, Alan Walker, Kygo and more! Cover: Party Favor &amp; Lil Gnaur",
-  "num_followers": 117865,
+  "num_followers": 117859,
   "original_name": "Dance For Days",
   "owner": {
     "name": "Filtr US",
     "url": "https://open.spotify.com/user/myplay.com"
   },
-  "snapshot_id": "MzMxMCxhZWYxOTE3ODVkOTBjOTM4ZTc0ODYyY2Q5NTc1NmY3NTc3NTIwZTIz",
+  "snapshot_id": "MzMxMiw1ZTc5NDc5MzVkZjhmMmZmYmYwOTFhMDFjOTM4YTkwYzY5NWU5OGEx",
   "tracks": [
+    {
+      "added_at": "2022-07-01 15:00:48",
+      "album": {
+        "name": "ORRO",
+        "url": "https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Gigolo Y La Exce",
+          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Adicto (feat. Gigolo y La Exce)",
+      "url": "https://open.spotify.com/track/2L6rsP2nThuVySclwSUkBT"
+    },
     {
       "added_at": "2022-06-24 14:03:11",
       "album": {
@@ -968,7 +988,7 @@
           "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 203411,
       "name": "Payback (feat. Icona Pop)",
       "url": "https://open.spotify.com/track/7KoFHvEScguiEnD06xYtSt"
     },
@@ -1652,7 +1672,7 @@
           "url": "https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 188571,
       "name": "HEAVEN'S GATES (feat. Izzy Camina)",
       "url": "https://open.spotify.com/track/25lRu5PG4eZnDz9earNetB"
     },
@@ -1700,7 +1720,7 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 275966,
       "name": "Post Punk (feat. Iggy Pop)",
       "url": "https://open.spotify.com/track/1LfZVlZg1JMxOS1W1fmWOK"
     },
@@ -2252,7 +2272,7 @@
           "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
         }
       ],
-      "duration_ms": 197619,
+      "duration_ms": 29048,
       "name": "Planet In The Sky (feat. MKLA)",
       "url": "https://open.spotify.com/track/32eSXKGSMITI1oJbjBxAHS"
     },
@@ -3284,7 +3304,7 @@
           "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 179760,
       "name": "Cooler Than Me",
       "url": "https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz"
     },

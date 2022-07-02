@@ -4,7 +4,7 @@
 
 > <a href ="spotify:artist:0Dc2rdPzleezxhvQhQbXuS">Idris Elba</a>'s tantalizing mix demonstrates the renowned actor's talents on the decks.
 
-14 songs - 55 min 4 sec - [published](https://open.spotify.com/playlist/4Vt8y8ADxadMidWj8qdSA1)
+14 songs - 58 min 47 sec - [published](https://open.spotify.com/playlist/4Vt8y8ADxadMidWj8qdSA1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [No More Looking Back \(feat\. Steffanie Christi'an\) \- David Penn Remix \- Mixed](https://open.spotify.com/track/12l2lGYYP3uWiPVOnwJcNL) | [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Steffanie Christi'an](https://open.spotify.com/artist/7kY9ne2m81JVEziwNj9tTF), [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki) | [No More Looking Back \(feat\. Steffanie Christi'an\) \- David Penn Remix \[Mixed\]](https://open.spotify.com/album/7xwO6v8CjGwkofetbPYQIC) | 4:20 | 2021-12-17 |  |
 | [Pronk \- Mixed](https://open.spotify.com/track/39CddxzMKxEsELQgyfgftC) | [GAWP](https://open.spotify.com/artist/7nRbEJhGU1wq3sEuQelrzb) | [Pronk \(Mixed\)](https://open.spotify.com/album/6LjqVZOeGFG0FJeY0M9M1I) | 4:15 | 2021-12-17 |  |
 | [Rain \(Idris Elba Edit\) \- Mixed](https://open.spotify.com/track/6RdJtIJlhpcOkoSpZbTNR2) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Rain \(Idris Elba Edit\) \[Mixed\]](https://open.spotify.com/album/1dlNKzwWOMqysCWiPEoFn3) | 3:19 | 2021-12-17 |  |
-| [The Payoff \- Extended Mix \- Mixed](https://open.spotify.com/track/4xAM7aIfsBy8TOcJa4yj6Q) | [ATFC](https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs), [Gene Farris](https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU) | [The Payoff \- Extended Mix \(Mixed\)](https://open.spotify.com/album/5zrWOL3ZbvWbW70bNhckt0) | 0:29 | 2021-12-17 |  |
+| [The Payoff \- Extended Mix \- Mixed](https://open.spotify.com/track/4xAM7aIfsBy8TOcJa4yj6Q) | [ATFC](https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs), [Gene Farris](https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU) | [The Payoff \- Extended Mix \(Mixed\)](https://open.spotify.com/album/5zrWOL3ZbvWbW70bNhckt0) | 4:12 | 2021-12-17 |  |
 | [Wine It \- Mixed](https://open.spotify.com/track/5vnBJanTegEzGTAezqbtaI) | [Bluey](https://open.spotify.com/artist/5Z0rj4BsGFT66VxIOXD4Xa) | [Wine It \(Mixed\)](https://open.spotify.com/album/4LOrbMFzk1imXDAKr4IrxF) | 5:11 | 2021-12-17 |  |
 
 \*This playlist was first scraped on 2022-05-13. Prior content cannot be recovered.

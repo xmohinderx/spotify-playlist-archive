@@ -4,7 +4,7 @@
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films\. 代表作「進撃の巨人」シリーズ劇伴をはじめ、数々の名曲を世界に送り出している音楽家。SawanoHiroyuki\[nZk\]名義でも精力的に活動中。
 
-74 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/2rE5a26Axvv4DWNYd8FyYO)
+74 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/2rE5a26Axvv4DWNYd8FyYO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [AOTF\-s1](https://open.spotify.com/track/4UsCRRCctHBF45wci4a4BR) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack](https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9) | 7:57 | 2022-06-07 |  |
 | [AOTF\-s2](https://open.spotify.com/track/5sXmXSfvguJBhQRDzQMqZ8) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack](https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9) | 3:33 | 2022-06-07 |  |
 | [AOTF\-s3](https://open.spotify.com/track/2fA7GDUDBo2SO1GRLC5uWe) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack](https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9) | 3:42 | 2022-06-07 |  |
-| [Avid](https://open.spotify.com/track/28QpCzFbTf09Jsj2zuz58t) | [SawanoHiroyuki\[nZk\]:mizuki](https://open.spotify.com/artist/3QWtKCUakFDZoosqTReaRS) | [Avid](https://open.spotify.com/album/1OpeVvRFxOPSydD2IrOepC) | 0:29 | 2022-06-07 |  |
+| [Avid](https://open.spotify.com/track/28QpCzFbTf09Jsj2zuz58t) | [SawanoHiroyuki\[nZk\]:mizuki](https://open.spotify.com/artist/3QWtKCUakFDZoosqTReaRS) | [Avid](https://open.spotify.com/album/1OpeVvRFxOPSydD2IrOepC) | 4:10 | 2022-06-07 |  |
 | [Back to the Starting Point](https://open.spotify.com/track/7qlTOfTqpFFr4hXG1TimGh) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [日本テレビ系火曜ドラマ「貧乏男子」オリジナル・サウンドトラック](https://open.spotify.com/album/7mEJs3rEABEunfhoRtrr55) | 4:23 | 2022-06-07 |  |
 | [Barricades](https://open.spotify.com/track/09IDtgw1w7BETDAV2X9UWt) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」Season 2 オリジナルサウンドトラック](https://open.spotify.com/album/5SRHGqmW4mzRrFMUtwF2kg) | 3:41 | 2022-06-07 |  |
 | [Barricades <MODv>](https://open.spotify.com/track/6ifVlWjbfDBIwmlz4QmOzS) | [SawanoHiroyuki\[nZk\]:Yosh](https://open.spotify.com/artist/2LjjIxKVSELsdFKkmABPNT) | [iv](https://open.spotify.com/album/5gCI0vdexP2ItOqQnENQ6w) | 3:40 | 2022-06-07 |  |
@@ -34,7 +34,7 @@
 | [Fanfare of Adolescence](https://open.spotify.com/track/1sKltygOQPxYakUJ0E5YwC) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [群青のファンファーレ オリジナル・サウンドトラック](https://open.spotify.com/album/3DczGU9W9xrKLpE9WFJ8iX) | 5:54 | 2022-06-07 |  |
 | [God of ink](https://open.spotify.com/track/5s0LeGW1HW39G1ZqxonnFj) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [Re:CREATORS Original Soundtrack](https://open.spotify.com/album/79D8sROYs9ik8C3f8dm9ZG) | 4:11 | 2022-06-07 |  |
 | [gravityWall](https://open.spotify.com/track/5vM7uTVvj65yNYKwnuERFo) | [SawanoHiroyuki\[nZk\]:Tielle&Gemie](https://open.spotify.com/artist/2A0KFlCxqLrv5U7YSFLl8q) | [Gravity Wall / Sh0ut](https://open.spotify.com/album/40OdNHLOlVwCqp5ZkKBM2O) | 3:46 | 2022-06-07 |  |
-| [Grenzlinie](https://open.spotify.com/track/7AA3ECkK5bJWVGpNwKrwAT) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [甲鉄城のカバネリ ORIGINAL SOUNDTRACK](https://open.spotify.com/album/3g5qoaQMLMpDOnfof2RPCn) | 0:29 | 2022-06-07 |  |
+| [Grenzlinie](https://open.spotify.com/track/7AA3ECkK5bJWVGpNwKrwAT) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [甲鉄城のカバネリ ORIGINAL SOUNDTRACK](https://open.spotify.com/album/3g5qoaQMLMpDOnfof2RPCn) | 4:56 | 2022-06-07 |  |
 | [His/Story](https://open.spotify.com/track/2PvKDoq2wPHhY4oqicrBwJ) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz) | [His/Story / Roll The Dice](https://open.spotify.com/album/36kha76MJobek1T7CzFASG) | 3:54 | 2022-06-07 |  |
 | [Inferno](https://open.spotify.com/track/1haosXb8XNSXWBuNirom1g) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [「プロメア」オリジナルサウンドトラック](https://open.spotify.com/album/69VJ66DL7INzABSeI90Ufh) | 3:54 | 2022-06-07 |  |
 | [Into the Sky](https://open.spotify.com/track/6tlNCRtMwXKf0gw33ynf3X) | [SawanoHiroyuki\[nZk\]:Tielle](https://open.spotify.com/artist/4smWxSH6ikie95jXI9S0Br) | [Into the Sky](https://open.spotify.com/album/4PT63MlJlgFJtBYoNNjMxW) | 3:49 | 2022-06-07 |  |
@@ -52,9 +52,9 @@
 | [Perfect Time <HNMT>](https://open.spotify.com/track/4ov3V0TuMnKcd9CfqcQj6H) | [Eliana](https://open.spotify.com/artist/5gLLotXhk8QIBIi4oxaFmP), [mpi](https://open.spotify.com/artist/0M8XP8YqaT4sUTFR6O6EKz) | [劇場版 七つの大罪 光に呪われし者たち オリジナル・サウンドトラック](https://open.spotify.com/album/2jexefwEMStHRf4ZNCCR3F) | 6:20 | 2022-06-07 |  |
 | [REMIND YOU](https://open.spotify.com/track/28lfGtjQI5KYTRXxxzsu2t) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Mika Kobayashi](https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz) | [機動戦士ガンダムUC オリジナルサウンドトラック 2](https://open.spotify.com/album/7gd542CJnlwAYiTJvpvynh) | 4:56 | 2022-06-07 |  |
 | [Roads to Ride <LCv>](https://open.spotify.com/track/5oHSA48gcFs3z8C1lQkVyg) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Laco](https://open.spotify.com/artist/7yEsBM3bZnkNfKyB9XGyyd) | [OUTSIDERS](https://open.spotify.com/album/74YSQrwO2zF3pvzPvpGonN) | 2:36 | 2022-06-07 |  |
-| [s\-AVE](https://open.spotify.com/track/1cT6cws3eNVGQCyrtpGHpQ) | [SawanoHiroyuki\[nZk\]:Aimer](https://open.spotify.com/artist/24aMUtQKIRHDMvPI7wPd35) | [o1](https://open.spotify.com/album/7rvt413Q8h0wYZZ7AjNL6T) | 0:29 | 2022-06-07 |  |
+| [s\-AVE](https://open.spotify.com/track/1cT6cws3eNVGQCyrtpGHpQ) | [SawanoHiroyuki\[nZk\]:Aimer](https://open.spotify.com/artist/24aMUtQKIRHDMvPI7wPd35) | [o1](https://open.spotify.com/album/7rvt413Q8h0wYZZ7AjNL6T) | 4:34 | 2022-06-07 |  |
 | [S\_TEAM](https://open.spotify.com/track/01oCO0CvwQLlbq3aHOvJOZ) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [甲鉄城のカバネリ COMPLETE SOUNDTRACK](https://open.spotify.com/album/4w86tNooD8SvmyWVjsjwNt) | 3:58 | 2022-06-07 |  |
-| [Saving Us](https://open.spotify.com/track/3qhuTGCGZJ0O9mFz5gpl69) | [SawanoHiroyuki\[nZk\]:Gemie](https://open.spotify.com/artist/1RET5OmR7BEQ7rQthMCRWE) | [o1](https://open.spotify.com/album/7rvt413Q8h0wYZZ7AjNL6T) | 0:29 | 2022-06-07 |  |
+| [Saving Us](https://open.spotify.com/track/3qhuTGCGZJ0O9mFz5gpl69) | [SawanoHiroyuki\[nZk\]:Gemie](https://open.spotify.com/artist/1RET5OmR7BEQ7rQthMCRWE) | [o1](https://open.spotify.com/album/7rvt413Q8h0wYZZ7AjNL6T) | 4:43 | 2022-06-07 |  |
 | [scene](https://open.spotify.com/track/4k1XsRFBBrqcGUgYzUMwrz) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [scene](https://open.spotify.com/album/2xRpDHjmbnYyEuQHJIcLxN) | 3:21 | 2022-06-07 |  |
 | [sh0ut](https://open.spotify.com/track/72CR78tomDaGj2yXyPAUWI) | [SawanoHiroyuki\[nZk\]:Tielle&Gemie](https://open.spotify.com/artist/2A0KFlCxqLrv5U7YSFLl8q) | [2V\-ALK](https://open.spotify.com/album/1cWreaVLzKCYEim1vDF89j) | 4:05 | 2022-06-07 |  |
 | [StarRingChild](https://open.spotify.com/track/4X9TyaTlXZKoYEaljWBIEK) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Best Selection Noir](https://open.spotify.com/album/6RLAmJ22IPTWR4JF9DsZtR) | 5:28 | 2022-06-07 |  |

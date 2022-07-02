@@ -126,7 +126,7 @@
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 156640,
       "name": "Amor del Monte",
       "url": "https://open.spotify.com/track/23BlW00INye3PrZl18b1uT"
     },
@@ -520,6 +520,28 @@
     },
     {
       "album": {
+        "name": "El Buen Amor",
+        "url": "https://open.spotify.com/album/2s5IEssk2imk49CDHNRFdA"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Clerc",
+          "url": "https://open.spotify.com/artist/1OR1n8BM2O2WcV33F9M6hf"
+        },
+        {
+          "name": "Piti Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194154,
+      "name": "El Buen Amor",
+      "url": "https://open.spotify.com/track/2CIKfgKkXhzkBwLhKGvstL"
+    },
+    {
+      "album": {
         "name": "Carnavalito",
         "url": "https://open.spotify.com/album/4fTZtP2wJgcdvLlyKFofoH"
       },
@@ -862,7 +884,7 @@
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 257120,
       "name": "La Gringa",
       "url": "https://open.spotify.com/track/0KVEYVcWNe1ElvxWUz8ytv"
     },
@@ -1236,7 +1258,7 @@
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 149016,
       "name": "Mi Lunita Cordobesa",
       "url": "https://open.spotify.com/track/3qsDt6tpHNSWf7CsFCaOvm"
     },
@@ -1272,7 +1294,7 @@
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 216661,
       "name": "Mientes",
       "url": "https://open.spotify.com/track/6w8vrqjspBrCckBZOerReI"
     },
@@ -1311,7 +1333,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 144010,
       "name": "Navidad y A\u00f1o Nuevo",
       "url": "https://open.spotify.com/track/60SbkLG67htrmPIUDWv68D"

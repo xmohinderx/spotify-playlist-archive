@@ -4,7 +4,7 @@
 
 > 'Tis the season to be melancholy.
 
-28 songs - 1 hr 43 min - [published](https://open.spotify.com/playlist/5KQxeb1Y3JrD6SL4w2L40j)
+28 songs - 1 hr 48 min - [published](https://open.spotify.com/playlist/5KQxeb1Y3JrD6SL4w2L40j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Lonely This Christmas](https://open.spotify.com/track/3CIvynowLFibpsDYR52OZ7) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Have Yourself A Very KT Christmas](https://open.spotify.com/album/0SQB2ET4MjidXbuPyNqpEd) | 4:17 | 2018-10-23 |  |
 | [Merry Christmas Darling \- Single Version](https://open.spotify.com/track/7nxvcuBjqp1F2Jxqvtyx7H) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [The Essential Collection \(1965\-1997\)](https://open.spotify.com/album/6QMgqNXQkj8gbZzIRIHR8W) | 3:05 | 2018-10-23 |  |
 | [Please Come Home for Christmas \(Bells Will Be Ringing\)](https://open.spotify.com/track/42X0uRpzqXXHJzX0mzThGL) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:19 | 2018-10-23 |  |
-| [Same Old Lang Syne](https://open.spotify.com/track/4Vl4sf0EljY8GxAyjqJD6p) | [Dan Fogelberg](https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO) | [Portrait: The Music Of Dan Fogelberg From 1972\-1997](https://open.spotify.com/album/3xzrUc5WHC8dv9UmiUWxH1) | 0:29 | 2018-10-23 |  |
+| [Same Old Lang Syne](https://open.spotify.com/track/4Vl4sf0EljY8GxAyjqJD6p) | [Dan Fogelberg](https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO) | [Portrait: The Music Of Dan Fogelberg From 1972\-1997](https://open.spotify.com/album/3xzrUc5WHC8dv9UmiUWxH1) | 5:20 | 2018-10-23 |  |
 | [The Coldest Night of the Year](https://open.spotify.com/track/4G1riMW9K3O9nI49UawBIX) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Christmas Party](https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR) | 3:34 | 2018-10-23 |  |
 | [What Do The Lonely Do At Christmas?](https://open.spotify.com/track/78yD3lSwoeA0NAvKNSyLdC) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [Christmas In Soulsville](https://open.spotify.com/album/00OBaIgdYLlBLRNWng5Sjq) | 3:27 | 2018-10-23 |  |
 | [Winter Song](https://open.spotify.com/track/1KDkSCXJIR4CJaVUK9qP7O) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM), [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [The Hotel Café presents..\. Winter Songs](https://open.spotify.com/album/4fhTdBtyYkBi1pJpfSLRad) | 4:26 | 2018-10-23 |  |

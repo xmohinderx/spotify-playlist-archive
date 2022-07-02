@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEOhBtBn64i.md) - [plain]
 
 > <a href="https://www.vitalvoices.org/">Women changing the world</a> \| Cover: MILCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 322 likes - 37 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 324 likes - 37 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEOhBtBn64i.md) - [plain]
 | 14 | [This Woman's Work \- 2018 Remaster](https://open.spotify.com/track/04GlCBjIl0HPR3TWQpraJ3) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World \(2018 Remaster\)](https://open.spotify.com/album/3k9p0yOIiw3O39chv3fYYO) | 3:36 |
 | 15 | [Underdog](https://open.spotify.com/track/7FsAFw1oZeTJUZmIzSh0cg) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:24 |
 | 16 | [Steady As We Go](https://open.spotify.com/track/6FBAOW0MehljKCouAXi46z) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Steady As We Go](https://open.spotify.com/album/6X512lmOJ3THv0HCaaMscr) | 3:16 |
-| 17 | [Quiet](https://open.spotify.com/track/0lczHKLHGd8LuzgrzIJ0nO) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [This Is Not The End](https://open.spotify.com/album/14NXlqWlb4MGu4KswIm6xU) | 0:29 |
+| 17 | [Quiet](https://open.spotify.com/track/0lczHKLHGd8LuzgrzIJ0nO) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [This Is Not The End](https://open.spotify.com/album/14NXlqWlb4MGu4KswIm6xU) | 3:22 |
 | 18 | [Somebody’s Beloved \(feat\. Bipolar Sunshine\)](https://open.spotify.com/track/6IXxikNdYchPoiQFBUG513) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Somebody’s Beloved \(feat\. Bipolar Sunshine\)](https://open.spotify.com/album/0noqYCPJIZEQqS4ziM9BOz) | 3:29 |
 | 19 | [Shining Light](https://open.spotify.com/track/1pxXeBbza2SmcRP4MspYNg) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [The Annie Lennox Collection](https://open.spotify.com/album/6VXTaHgpeG2fZDwyHsn6eJ) | 4:19 |
 | 20 | [Wombo Lombo](https://open.spotify.com/track/1Sv9rQgh9qrbeJVHKGTfCM) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Fifa](https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm) | 4:15 |

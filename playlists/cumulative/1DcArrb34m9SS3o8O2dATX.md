@@ -4,7 +4,7 @@
 
 > 
 
-49 songs - 2 hr 44 min - [published](https://open.spotify.com/playlist/78qaOdsV2GnALgWux2mYDd)
+49 songs - 2 hr 47 min - [published](https://open.spotify.com/playlist/78qaOdsV2GnALgWux2mYDd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Everybody Plays the Fool](https://open.spotify.com/track/3DkqEHCCqlkknDfksHWWu0) | [The Main Ingredient](https://open.spotify.com/artist/6vuD08WKtmp1yc7kQx1rBm) | [Everybody Plays The Fool: The Best Of The Main Ingredient](https://open.spotify.com/album/6jsWa1n8iL7fJYfMJaWa7K) | 3:22 | 2013-06-27 |  |
 | [Everything I Own](https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [Baby I'm\-a Want You](https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5) | 3:07 | 2013-06-27 |  |
 | [Garden Party](https://open.spotify.com/track/7J5tyfg3OYVNR97KH66ovw) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS), [The Stone Canyon Band](https://open.spotify.com/artist/4VPrTgtrZqcXCy5nGYKDAe) | [Garden Party](https://open.spotify.com/album/76BrDrAEcQhjvXehCVMpWv) | 3:49 | 2013-06-27 |  |
-| [Go All The Way \- Remastered](https://open.spotify.com/track/4eW5I5uh4VNkhrHEFtHryZ) | [Raspberries](https://open.spotify.com/artist/7Kkx4dACo6kFSeT9wjfVA5) | [Greatest](https://open.spotify.com/album/3nmVeIA9wx7NMJuu7autZt) | 0:29 | 2013-06-27 |  |
+| [Go All The Way \- Remastered](https://open.spotify.com/track/4eW5I5uh4VNkhrHEFtHryZ) | [Raspberries](https://open.spotify.com/artist/7Kkx4dACo6kFSeT9wjfVA5) | [Greatest](https://open.spotify.com/album/3nmVeIA9wx7NMJuu7autZt) | 3:21 | 2013-06-27 |  |
 | [Hold Your Head Up \- Single Version](https://open.spotify.com/track/79oydkSJLNgBVw2m5dGLVP) | [Argent](https://open.spotify.com/artist/46VosWAvtZsBl7rvxufsWG) | [Greatest Hits: Singles](https://open.spotify.com/album/29B1zjSznrn5eAhQwNqSCv) | 3:17 | 2013-06-27 |  |
 | [I Can See Clearly Now \- Edit](https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf) | [Johnny Nash](https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a) | [I Can See Clearly Now](https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU) | 2:44 | 2013-06-27 |  |
 | [I Gotcha](https://open.spotify.com/track/5fbbE7GmFRfXcaqUK4Pecl) | [Joe Tex](https://open.spotify.com/artist/5TbXjzD8tYgMD5JU2g2F8q) | [Skinny Legs And All](https://open.spotify.com/album/3o3ZwbkRGzJQ2xSMMitBEU) | 2:39 | 2013-06-27 |  |

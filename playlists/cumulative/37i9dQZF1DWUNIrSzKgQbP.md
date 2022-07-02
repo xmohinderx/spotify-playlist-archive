@@ -4,7 +4,7 @@
 
 > Sweet songs for sunny days.
 
-261 songs - 15 hr 59 min - [published](https://open.spotify.com/playlist/6ihRyE4LvPowKDrcfjRMak)
+261 songs - 16 hr 5 min - [published](https://open.spotify.com/playlist/6ihRyE4LvPowKDrcfjRMak)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Cherry Blossoms](https://open.spotify.com/track/7paYa83IYmg2dvRu3NvcKL) | [Night Beds](https://open.spotify.com/artist/533wKOfkJylNSi6ntO1wXd) | [Country Sleep](https://open.spotify.com/album/0g1M5RuzXzcn2NPleWsRoy) | 3:42 | 2022-03-21 | 2022-06-08 |
 | [Cherry Wine](https://open.spotify.com/track/3EJaUuGn4gtGa7u0vswTGv) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [Cherry Wine](https://open.spotify.com/album/4YksSqrl0x1dKKNrZLMk7j) | 4:06 | 2021-12-20 | 2022-03-22 |
 | [Coast](https://open.spotify.com/track/4ih6tIjbm3jJMjHYwYe7x9) | [Participant](https://open.spotify.com/artist/7G3EOvlud2ZumHznucmZPc) | [Modern Retelling](https://open.spotify.com/album/07ztbIFK4y5fAlIzrUra9z) | 3:57 | 2021-12-20 | 2022-03-22 |
-| [Consolation Prize](https://open.spotify.com/track/71wiJ619MbaSStsiN6XT06) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi), [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Consolation Prize](https://open.spotify.com/album/5KyVj6FfbV3lwwMIXyQeZ1) | 0:29 | 2022-06-07 |  |
+| [Consolation Prize](https://open.spotify.com/track/71wiJ619MbaSStsiN6XT06) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi), [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Consolation Prize](https://open.spotify.com/album/5KyVj6FfbV3lwwMIXyQeZ1) | 4:00 | 2022-06-07 |  |
 | [Constantly](https://open.spotify.com/track/7i7a9AYgpKIcjmqBDENEoy) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Constantly](https://open.spotify.com/album/0OjlnHNdy3QtNaxwpYPg98) | 3:26 | 2021-12-20 | 2022-03-22 |
 | [Contrails](https://open.spotify.com/track/7FfzzH3wQ2voAj9tE5aRhD) | [All The Luck In The World](https://open.spotify.com/artist/60ewzuY3lVH0QElQbFagIS) | [A Blind Arcade](https://open.spotify.com/album/6F6H7R7YMnHkkQjZ5hohzP) | 4:42 | 2022-03-21 | 2022-06-08 |
 | [Cucurucu](https://open.spotify.com/track/34a7VkqKRQ4pA2598XizKN) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/5Lr1JRVi5TeuBIogQjGePq) | 4:27 | 2021-12-20 | 2022-03-22 |
@@ -64,7 +64,7 @@
 | [Dogs](https://open.spotify.com/track/0Pu8358WBHkCMiocX6ExCe) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [9](https://open.spotify.com/album/11vMNKs6uP74to2W9H1gFv) | 4:10 | 2022-06-07 |  |
 | [Donoughmore](https://open.spotify.com/track/3hcMGfmZBzpR9l1tkk5Iy2) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Natural Conclusion](https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi) | 3:15 | 2022-03-21 | 2022-06-08 |
 | [Down in the Valley](https://open.spotify.com/track/5Gtn8HgCAo0TUiaKKgP6us) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF) | 5:03 | 2022-06-07 |  |
-| [Dream in Blue](https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [The Stray Birds](https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t) | 0:29 | 2022-06-07 |  |
+| [Dream in Blue](https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [The Stray Birds](https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t) | 3:32 | 2022-06-07 |  |
 | [EBB](https://open.spotify.com/track/2nxQPAZV2pe9TOFL52nTMu) | [Ed Tullett](https://open.spotify.com/artist/5VGsR5wapeJIuRPX26IeGn) | [Trawl](https://open.spotify.com/album/0njLp1RAZLe6DOCOP1oj8c) | 4:23 | 2022-03-21 | 2022-06-08 |
 | [Edges Run](https://open.spotify.com/track/3O6NFigtXvVzT0366H88ao) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/42D84lYZPddM4dpDVNpECv) | 3:14 | 2022-03-21 | 2022-06-08 |
 | [Eight](https://open.spotify.com/track/5T20empZEdKnAdIq26xtTA) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS), [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Eight](https://open.spotify.com/album/5R6BFu0xrBtlOXN8NR12c4) | 2:49 | 2021-12-20 | 2022-03-22 |

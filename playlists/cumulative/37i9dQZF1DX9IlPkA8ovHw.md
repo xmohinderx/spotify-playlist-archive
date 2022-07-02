@@ -4,7 +4,7 @@
 
 > The best of the Fab Four and their post\-Beatles ventures and solo albums.
 
-124 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/3i9Nw0jeYr7S4UhuaeXWCM)
+124 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/3i9Nw0jeYr7S4UhuaeXWCM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [And I Love Her \- Remastered 2009](https://open.spotify.com/track/65vdMBskhx3akkG9vQlSH1) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [A Hard Day's Night \(Remastered\)](https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV) | 2:29 | 2021-09-17 |  |
 | [Another Day \- Remastered 2012](https://open.spotify.com/track/6qYmf2NjhDfsF7x5U5DUOf) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Linda McCartney](https://open.spotify.com/artist/6QEKXJs8gQCiyBq5L8knco) | [Ram \(Archive Collection\)](https://open.spotify.com/album/3DTMsrNO6lEHNmDJ0fsN4v) | 3:42 | 2021-09-17 |  |
 | [Arrow Through Me \- Remastered 1993](https://open.spotify.com/track/3NiYvMjp5A3FZmP3dojS8k) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Back To The Egg](https://open.spotify.com/album/3zMRSD0zUqopFPaoER2ODc) | 3:36 | 2021-09-17 |  |
-| [Band On The Run \- Remastered 2010](https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run \(Standard\)](https://open.spotify.com/album/257oomaawruFknt5wYCPDh) | 0:29 | 2021-09-17 |  |
+| [Band On The Run \- Remastered 2010](https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run \(Standard\)](https://open.spotify.com/album/257oomaawruFknt5wYCPDh) | 5:13 | 2021-09-17 |  |
 | [Beautiful Boy \(Darling Boy\) \- Remastered 2010](https://open.spotify.com/track/5URfZHMlUWTWxPvvSBWcPk) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Double Fantasy](https://open.spotify.com/album/1NWA2fPLUAW5df7UGI5thp) | 4:05 | 2021-09-17 |  |
 | [Blackbird \- Remastered 2009](https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 2:18 | 2021-09-17 |  |
 | [Can't Buy Me Love \- Remastered 2009](https://open.spotify.com/track/3SdingSsFcZDZAyvcJbgAw) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [A Hard Day's Night \(Remastered\)](https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV) | 2:11 | 2021-09-17 |  |
@@ -69,7 +69,7 @@
 | [In My Life \- Remastered 2009](https://open.spotify.com/track/3KfbEIOC7YIv90FIfNSZpo) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:26 | 2021-09-17 |  |
 | [It Don't Come Easy](https://open.spotify.com/track/4RFqi5JQduiSlRZCVlUDGH) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Ringo](https://open.spotify.com/album/6zjenDV68SpvM3oEhorTDm) | 3:04 | 2021-09-17 |  |
 | [Jealous Guy \- Remastered 2010](https://open.spotify.com/track/3D9iV6cYkYJRAPFO6DRKIE) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 4:17 | 2021-09-17 |  |
-| [Jet \- Remastered 2010](https://open.spotify.com/track/4D40ZlFAWsvX7lua1Kablh) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run \(Standard\)](https://open.spotify.com/album/257oomaawruFknt5wYCPDh) | 0:29 | 2021-09-17 |  |
+| [Jet \- Remastered 2010](https://open.spotify.com/track/4D40ZlFAWsvX7lua1Kablh) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run \(Standard\)](https://open.spotify.com/album/257oomaawruFknt5wYCPDh) | 4:08 | 2021-09-17 |  |
 | [Let 'Em In \- Remastered 2014](https://open.spotify.com/track/37RqEET1SYQaAcHDxDQLZY) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Wings At The Speed Of Sound \(Archive Collection\)](https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D) | 5:11 | 2021-09-17 |  |
 | [Let It Be \- 2021 Mix](https://open.spotify.com/track/7qCYQmOVnHMzSqWwr0hSCp) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(2021 Mix\)](https://open.spotify.com/album/0rkNp9nLkAPIoLArGQnjZ8) | 4:03 | 2021-09-17 |  |
 | [Let It Be / Please Please Me / Let It Be \- Take 10](https://open.spotify.com/track/15tcqNCx9skvXmmlscpAjF) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Super Deluxe\)](https://open.spotify.com/album/1BdxbYp1FaNejpDgtDo25V) | 4:32 | 2021-10-15 |  |
@@ -83,7 +83,7 @@
 | [My Valentine](https://open.spotify.com/track/0LJrw4m55mJcLB8X2IPwpB) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Kisses On The Bottom](https://open.spotify.com/album/5jOBxNZ2fXG1k0x8SYJ38e) | 3:14 | 2021-09-17 |  |
 | [Never Without You](https://open.spotify.com/track/4lVEP02SQqQxfaBj6WUJgH) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Ringorama](https://open.spotify.com/album/41yEHFWW7razZxdyQ7hlLb) | 5:22 | 2021-09-17 |  |
 | [New](https://open.spotify.com/track/3YlclXWOLPq216RIWJTgTD) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [NEW](https://open.spotify.com/album/1zd1DOaqrJq6tgdo74kAIj) | 2:56 | 2021-09-17 |  |
-| [Nineteen Hundred And Eighty Five \- Remastered 2010](https://open.spotify.com/track/5VErNsWF69eD0HiBt2vWcH) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run \(Standard\)](https://open.spotify.com/album/257oomaawruFknt5wYCPDh) | 0:29 | 2021-09-17 |  |
+| [Nineteen Hundred And Eighty Five \- Remastered 2010](https://open.spotify.com/track/5VErNsWF69eD0HiBt2vWcH) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run \(Standard\)](https://open.spotify.com/album/257oomaawruFknt5wYCPDh) | 5:31 | 2021-09-17 |  |
 | [No More Lonely Nights \(Ballad\) \- Remastered 1993](https://open.spotify.com/track/3CCBwpqjdar1PG6HHulmD0) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Give My Regards To Broad Street](https://open.spotify.com/album/2AtvtW3U8dv9C61S88M2w8) | 5:12 | 2021-09-17 |  |
 | [No\-No Song](https://open.spotify.com/track/2YnZugg0pdEkAtSHR4dwFo) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Goodnight Vienna](https://open.spotify.com/album/6HuHvPC7L7MiJgkqpZlmH4) | 2:34 | 2021-09-17 |  |
 | [Nobody Told Me \- Remastered 2010](https://open.spotify.com/track/31QuJZfFiMk1uOawow8ejS) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Milk And Honey](https://open.spotify.com/album/1HRCspKjuNI3bGzZgvFU3y) | 3:34 | 2021-09-17 |  |

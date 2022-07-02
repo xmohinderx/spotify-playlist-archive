@@ -4,7 +4,7 @@
 
 > Classic and contemporary pioneers of New Age music\. Cover: Pauline Anna Strom
 
-72 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/56lk90X1aHgxooSiDMUuWr)
+72 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/56lk90X1aHgxooSiDMUuWr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [See My Wings Shining: Brow / 3rd Eye Chakra](https://open.spotify.com/track/55QGndKaKmUFSLGejUj6k1) | [Kay Gardner](https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3) | [A Rainbow Path](https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY) | 6:17 | 2021-10-15 |  |
 | [September Rain](https://open.spotify.com/track/5HlvfP7We9wt4Sr2Es9oJd) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Harmonic Dreams](https://open.spotify.com/album/59NYhfyieB8lMKSiuxarUP) | 5:56 | 2021-10-15 |  |
 | [Ship Ahoy](https://open.spotify.com/track/67Zxpws8FVxlsg0GgVyK2M) | [Michele Ippolito](https://open.spotify.com/artist/02T9iupvpUM5kUAXy74bOM) | [Drifting in Dreams](https://open.spotify.com/album/5Jt9bhKrGeU6hh69D8scOy) | 5:52 | 2021-10-15 |  |
-| [Silent Wolf](https://open.spotify.com/track/5VIsj4I7FufxKKyVa8ambj) | [Mary Youngblood](https://open.spotify.com/artist/0pRrf0i6X4uUIdzYrA2mDz) | [Dance with the Wind](https://open.spotify.com/album/1rWvERc73t9QUtAKw4sgLP) | 0:29 | 2021-10-15 |  |
+| [Silent Wolf](https://open.spotify.com/track/5VIsj4I7FufxKKyVa8ambj) | [Mary Youngblood](https://open.spotify.com/artist/0pRrf0i6X4uUIdzYrA2mDz) | [Dance with the Wind](https://open.spotify.com/album/1rWvERc73t9QUtAKw4sgLP) | 2:56 | 2021-10-15 |  |
 | [Solace](https://open.spotify.com/track/1X24Py9UDIXggX46BGph4i) | [City of Dawn](https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2), [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [Solace](https://open.spotify.com/album/5hCRHq9hCkIzpV7dOXNYOp) | 3:44 | 2021-10-15 |  |
 | [Starglider](https://open.spotify.com/track/4RMxab9U5V5olIYpCYqzXG) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU), [Tajalli](https://open.spotify.com/artist/5QyqROUCMkD0ZNEcYzLmr6) | [Brilliance](https://open.spotify.com/album/4JJuAiFy9T90tbDPyt59kT) | 8:14 | 2021-10-15 |  |
 | [Tempest](https://open.spotify.com/track/2blEElPRwz8TaXcASaGcC2) | [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [Renewal](https://open.spotify.com/album/2yWua3aCOCQ3sUVEmbhMX5) | 4:42 | 2021-10-15 |  |

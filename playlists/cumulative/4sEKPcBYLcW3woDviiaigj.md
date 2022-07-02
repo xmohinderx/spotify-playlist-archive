@@ -4,7 +4,7 @@
 
 > Give in to the season, with the ultimate collection of classic snow songs.
 
-50 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/3MI9Q2lZumNQfu6eaMUaMo)
+50 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/3MI9Q2lZumNQfu6eaMUaMo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [50 Words For Snow](https://open.spotify.com/track/6MtXVfbFWxYUWSaMwKsyZJ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [50 Words for Snow](https://open.spotify.com/album/1VAB3Xn92dPKPWzocgQqkh) | 8:30 | 2014-01-02 |  |
 | [A Hazy Shade of Winter](https://open.spotify.com/track/0quVAA0KO9Ph79wndSJBXy) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Essential Simon & Garfunkel](https://open.spotify.com/album/12BwdaXk3rbOjTnIKxXa4G) | 2:17 | 2014-01-02 |  |
 | [Amid the Falling Snow](https://open.spotify.com/track/69BSguYY4m6b1yibQdUBst) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [Amarantine](https://open.spotify.com/album/2efGoxVxoX55EATLcD0o8y) | 3:38 | 2014-01-02 |  |
-| [Angel In The Snow](https://open.spotify.com/track/4Ca4JITj1KlT4OyK2oeWno) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon \(2xCD\)](https://open.spotify.com/album/4c2uWXpA7ROez9KV7FQ3TU) | 0:29 | 2014-01-02 |  |
+| [Angel In The Snow](https://open.spotify.com/track/4Ca4JITj1KlT4OyK2oeWno) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon \(2xCD\)](https://open.spotify.com/album/4c2uWXpA7ROez9KV7FQ3TU) | 2:37 | 2014-01-02 |  |
 | [By\-Tor And The Snow Dog](https://open.spotify.com/track/0hRJNNyjoIlRcrgYVypM2Y) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Fly By Night](https://open.spotify.com/album/3ZtICWkqezf0bBTUwY1Khe) | 8:37 | 2014-01-02 |  |
 | [Cold as Ice \- 2008 Remaster](https://open.spotify.com/track/3iM9wFGlyR28IBZrXYZK9j) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [No End in Sight: The Very Best of Foreigner](https://open.spotify.com/album/4VRXqPaa2ZTwC2AG364RWO) | 3:20 | 2014-01-02 |  |
 | [Cold Rain and Snow](https://open.spotify.com/track/4Tdc6SSkkHBAH4ckkWvnzU) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Grateful Dead](https://open.spotify.com/album/0DaisqoiVdNtl5f33hEPxt) | 2:26 | 2014-01-02 |  |
@@ -37,7 +37,7 @@
 | [Snow \(Hey Oh\)](https://open.spotify.com/track/6fgbQt13JlpN59PytgTMsA) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Snow \(Hey Oh\)](https://open.spotify.com/album/45AEwWiI7JPZolwc2Xwaoc) | 5:34 | 2014-01-02 |  |
 | [Snow Day](https://open.spotify.com/track/3jFTSi4nm1Gosfqh7gvSPd) | [Matt Pond PA](https://open.spotify.com/artist/3JVgWZxQa78cVa2cUuAUQ4) | [Winter Songs EP](https://open.spotify.com/album/12LlLnVszu0tnMIEng9d61) | 3:31 | 2014-01-02 |  |
 | [Snow in Summer](https://open.spotify.com/track/2ISfJj4SxAHHfZkymGrWMl) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Join the Dots: B\-Sides and Rarities, 1978\-2001 \(The Fiction Years\)](https://open.spotify.com/album/0Be9aR7uSUhQII8AC404TP) | 3:27 | 2014-01-02 |  |
-| [Snow Queen](https://open.spotify.com/track/4P3orcdgIe7j64YzUUfQ1f) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume 3](https://open.spotify.com/album/7L0jUfO6TEYQmrVQTDp2xA) | 0:29 | 2014-01-02 |  |
+| [Snow Queen](https://open.spotify.com/track/4P3orcdgIe7j64YzUUfQ1f) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume 3](https://open.spotify.com/album/7L0jUfO6TEYQmrVQTDp2xA) | 2:32 | 2014-01-02 |  |
 | [Snowball](https://open.spotify.com/track/7BJIcG07Gjyca9skBOO6CE) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Freedom of Choice](https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41) | 2:28 | 2014-01-02 |  |
 | [Snowbird](https://open.spotify.com/track/2ik5qJAcmrjbpON5QPxmRr) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [This Way Is My Way](https://open.spotify.com/album/1VTWCkA6n7QtJefDSlPC2F) | 2:14 | 2014-01-02 |  |
 | [Snowblind](https://open.spotify.com/track/64ewia8OkN3Rpsl9OfN82a) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Gold](https://open.spotify.com/album/2SIFXSFOHJgqC6q3whbSZU) | 4:58 | 2014-01-02 |  |

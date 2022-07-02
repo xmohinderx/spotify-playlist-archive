@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Aidil Saputra\. Artwork: Isu Kim.
 
-817 songs - 2 day 2 hr 3 min - [published](https://open.spotify.com/playlist/56sjum0leqDJVjHk9gB1Ns)
+818 songs - 2 day 2 hr 5 min - [published](https://open.spotify.com/playlist/56sjum0leqDJVjHk9gB1Ns)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Can't Wait No More!](https://open.spotify.com/track/1XYNsbtrARYoD2NXcv7h6l) | [Cal Limertha](https://open.spotify.com/artist/0tzp5PHbUKst9fnChzKMfh), [leehs](https://open.spotify.com/artist/5Jxj0BurhJpsi56wkAZK08) | [Can't Wait No More!](https://open.spotify.com/album/5qKOWZnlaBq22pZspZFlTl) | 2:45 | 2022-04-07 | 2022-04-22 |
 | [Candu](https://open.spotify.com/track/561mKE9VPhGJ8LhrcxP61k) | [Tres](https://open.spotify.com/artist/1hG431jvRHUGiEs2Yl48hP) | [Candu](https://open.spotify.com/album/64GanQCIpUok2nku5if0G2) | 4:55 | 2022-02-24 | 2022-03-11 |
 | [Carlaine](https://open.spotify.com/track/513lk8yQTgl9vmG2hDPB6y) | [Sink 90](https://open.spotify.com/artist/2odKmrzwdsSa5CT9cMs53C) | [Sink's Up To Something](https://open.spotify.com/album/14qaIgzow4rzAksaxMNbtK) | 4:08 | 2022-02-10 | 2022-02-25 |
+| [Cemas](https://open.spotify.com/track/6EyrIy71F8iLvlyLeu5MVx) | [Amira Karin](https://open.spotify.com/artist/3rCwi62vIXjO26qeTbDtKp) | [Cemas](https://open.spotify.com/album/5tFw3xFreyS9zIJbD9Kwww) | 2:04 | 2022-07-01 |  |
 | [Cerita Lama](https://open.spotify.com/track/5dn6H3bbsczTDveLnDOCrL) | [Montase](https://open.spotify.com/artist/7JR5FyBZjNYkQjiJgpiMMn) | [Cerita Lama](https://open.spotify.com/album/1Gjm8uFGLQSydTmXjbxU0L) | 4:07 | 2022-03-24 | 2022-04-15 |
 | [chains](https://open.spotify.com/track/51l37XlaXVTAWtBqz6Wv1K) | [heygun](https://open.spotify.com/artist/6iIqs4INSrl1WIoPOfUxih) | [chains](https://open.spotify.com/album/3C7giZtH0bTTTSdlUZ67B4) | 2:33 | 2022-01-13 | 2022-01-28 |
 | [Chamomile](https://open.spotify.com/track/7jBtXdbmmR9gAaRhlmkyss) | [Kei Cinantya](https://open.spotify.com/artist/636q9447fjIbrCetxeLpZS) | [Chamomile](https://open.spotify.com/album/6FcdDJ0vgSFkQWEcyIOz7K) | 3:58 | 2022-01-13 | 2022-01-28 |

@@ -4,7 +4,7 @@
 
 > No, not to tango..\. to write an awesome rock song! These duos know how to make a lot out of what they've got.
 
-37 songs - 1 hr 52 min - [published](https://open.spotify.com/playlist/325Jyut4dbApNPZbs4zUNy)
+37 songs - 1 hr 56 min - [published](https://open.spotify.com/playlist/325Jyut4dbApNPZbs4zUNy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [I'll Be Your Man](https://open.spotify.com/track/0i7n7nFCtB7MenEhibsrt0) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Big Come Up](https://open.spotify.com/album/769QgaY3ERCY0mqoTVw3jg) | 2:20 | 2013-12-11 |  |
 | [It's Getting Boring By The Sea](https://open.spotify.com/track/3gab7CsdTCjjkZQbOhYxMF) | [Blood Red Shoes](https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR) | [Scott Pilgrim vs\. the World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3q1e0dxZARuaHxZkLzgErK) | 2:55 | 2013-12-11 |  |
 | [King Of The Beach](https://open.spotify.com/track/44wIEAIAv1N2VK3p6nSHj1) | [Wavves](https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ) | [King Of The Beach](https://open.spotify.com/album/0EYSLCjAJiGtGfPuENfQYc) | 2:38 | 2013-12-11 |  |
-| [Lately](https://open.spotify.com/track/4IfsAMEKYWO6LmaDoCAUKI) | [The Helio Sequence](https://open.spotify.com/artist/6JoxwT8CwvpxxNaP55R6q2) | [Keep Your Eyes Ahead](https://open.spotify.com/album/7zTTDD5ak9agYdEgNlRenX) | 0:29 | 2013-12-11 |  |
+| [Lately](https://open.spotify.com/track/4IfsAMEKYWO6LmaDoCAUKI) | [The Helio Sequence](https://open.spotify.com/artist/6JoxwT8CwvpxxNaP55R6q2) | [Keep Your Eyes Ahead](https://open.spotify.com/album/7zTTDD5ak9agYdEgNlRenX) | 4:10 | 2013-12-11 |  |
 | [Love In a Trashcan](https://open.spotify.com/track/6vVeogbozV20zRhRLbWj9j) | [The Raveonettes](https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8) | [Pretty In Black](https://open.spotify.com/album/5QupBS86IY8mTYsmQ3D9cp) | 2:51 | 2013-12-11 |  |
 | [My Doorbell](https://open.spotify.com/track/29bzX8jP7wO07FyMdOkYT7) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Get Behind Me Satan](https://open.spotify.com/album/6QK4LkEULkPZjhRPaRvYyV) | 4:01 | 2013-12-12 |  |
 | [My Love Won't Wait](https://open.spotify.com/track/6tgVAmyIwnNU8GqY35bbRw) | [Two Gallants](https://open.spotify.com/artist/38umPQJRH11dxydNwq8yGP) | [The Bloom And The Blight](https://open.spotify.com/album/6Ov0Zu5L0gRtKOfXxWROPN) | 3:45 | 2013-12-11 |  |

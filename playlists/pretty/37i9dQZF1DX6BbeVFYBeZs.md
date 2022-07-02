@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,455 likes - 112 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,542 likes - 112 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 | 5 | [I Know My Luck](https://open.spotify.com/track/2qZTw4KQo2mKHhCdHNCF0p) | [Papió](https://open.spotify.com/artist/14ivAwcaq4oDPoupWn8cQU) | [I Know My Luck](https://open.spotify.com/album/0gWN0Xay0UHApfRTzqSoHU) | 2:50 |
 | 6 | [Poemas](https://open.spotify.com/track/5HAGuQKDFNwzBb9DrlhcZi) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Poemas](https://open.spotify.com/album/14LzDSYYy3zINHJ2MCh3Kh) | 2:07 |
 | 7 | [Adelita](https://open.spotify.com/track/5qGYBd0wZHJ9Chu3YnvYvu) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Tres mazurcas](https://open.spotify.com/album/0gE3MUJGWkrAcnZtiQhzSD) | 1:38 |
-| 8 | [Vitoya](https://open.spotify.com/track/1xenzCpJ2WBBZJWvMHzEmk) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ) | [Vitoya](https://open.spotify.com/album/32r0Ctv0IjNJf1W7sNLk0t) | 0:29 |
+| 8 | [Vitoya](https://open.spotify.com/track/1xenzCpJ2WBBZJWvMHzEmk) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ) | [Vitoya](https://open.spotify.com/album/32r0Ctv0IjNJf1W7sNLk0t) | 3:31 |
 | 9 | [Tahmina](https://open.spotify.com/track/4mNxFvcJoW90QeKkxQkmfW) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Tahmina](https://open.spotify.com/album/59VV54issBKB9UgscAGq8x) | 3:32 |
 | 10 | [The Gastruck](https://open.spotify.com/track/4IJnVCZll8ikwz0bKUbuvH) | [Diego Fernandez](https://open.spotify.com/artist/14kV1ZJprPqD2eTOSG6SCk) | [The Gastruck](https://open.spotify.com/album/25xzlHNAAhJSiZUQL9XkqK) | 2:28 |
 | 11 | [Soñando](https://open.spotify.com/track/70BMqswqh9Kjz6Sr6lQ47W) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Soñando](https://open.spotify.com/album/1jem5C7Z4jV2ZcpLDVwpt7) | 1:57 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 | 27 | [Afrodite](https://open.spotify.com/track/6skzlMw87XL85eM9YhMAxR) | [Isaac Valero](https://open.spotify.com/artist/6E6ZVCiRYmdbc6Y1Ujgxnm) | [Compañero de vida](https://open.spotify.com/album/7790K3EuMhGdVZYPGErxVD) | 1:46 |
 | 28 | [Tiempo Diferente](https://open.spotify.com/track/2Ydby2f4z6soHFOJ5vwksZ) | [Francisca Fortinbras](https://open.spotify.com/artist/5fwKwRmjgEbAclDp30ssyD) | [Tiempo Diferente](https://open.spotify.com/album/7Hop5OQe2ynxNv0CoOUR9g) | 2:27 |
 | 29 | [Crimson Heart](https://open.spotify.com/track/1u521i6mDeguA5VEhLMhJB) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Crimson Heart](https://open.spotify.com/album/6NC3fHTp6RQ8n2oEOn3a0d) | 2:43 |
-| 30 | [Don't Belong Anywhere](https://open.spotify.com/track/6ehsAZzWS6dADcl5bQ5Hyb) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Don't Belong Anywhere](https://open.spotify.com/album/1qdJJiWx2rAQBmHJIo4Bgj) | 0:29 |
+| 30 | [Don't Belong Anywhere](https://open.spotify.com/track/6ehsAZzWS6dADcl5bQ5Hyb) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Don't Belong Anywhere](https://open.spotify.com/album/1qdJJiWx2rAQBmHJIo4Bgj) | 3:53 |
 | 31 | [In The Morning Sun](https://open.spotify.com/track/3GK06PqC7srEok5b6tlfAc) | [Mario Regio](https://open.spotify.com/artist/37J9hiCCgzUYyi8V46abD2) | [Pinus Halepensis](https://open.spotify.com/album/5VbSF6F1JbowAFGpB3YB9C) | 3:33 |
 | 32 | [Red Maple Leaves](https://open.spotify.com/track/0I2PBwHOSV64TRDxqvdBIB) | [Knut Bjørnar Asphol](https://open.spotify.com/artist/3O0OUcf7693cHwTBJWKl5K), [KNUT](https://open.spotify.com/artist/6h3SYhsBfgz8N71ozZtHbD) | [Red Maple Leaves](https://open.spotify.com/album/4o8yu9sJK3u53SGIZTduOW) | 3:22 |
 | 33 | [Eres Divina](https://open.spotify.com/track/2yv8w2ANzHumAGdN3fwLoK) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Eres Divina](https://open.spotify.com/album/6MrqCkkoPr5ko3Mw8UTOrr) | 2:47 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 | 44 | [Amarilla](https://open.spotify.com/track/3QW1G65bI9fplVMY1vvgWq) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Amarilla](https://open.spotify.com/album/7LvbQ7xAtrw2mzWZxzHuzk) | 2:27 |
 | 45 | [Tres Amores](https://open.spotify.com/track/7DpDb8R3OxTr3FaiKwhYKB) | [Julian Vigil](https://open.spotify.com/artist/37iIAObpTKbDOZ9BjSrmMv) | [Tres Amores](https://open.spotify.com/album/01HM86e0bYj6oqXdCJ03AN) | 2:25 |
 | 46 | [Tarrega: Recuerdos de la Alhambra](https://open.spotify.com/track/66SBPvMDMrYFdArOWR5zfz) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Heike Matthiesen](https://open.spotify.com/artist/7EFCTBKgRURpMVhzE8p9a5) | [Tarrega: Recuerdos de la Alhambra](https://open.spotify.com/album/3UhVWFar6415uPXjLFFZBD) | 6:22 |
-| 47 | [Las Lagrimas De Lucia](https://open.spotify.com/track/7znYxzLpVk7LN3fMkGLB3g) | [Rimoneta](https://open.spotify.com/artist/3sGbxLPqbkEwXndXF5rZZc) | [Las Lagrimas De Lucia](https://open.spotify.com/album/4xlHGwdnzANu33Pp7spHtp) | 0:29 |
+| 47 | [Las Lagrimas De Lucia](https://open.spotify.com/track/7znYxzLpVk7LN3fMkGLB3g) | [Rimoneta](https://open.spotify.com/artist/3sGbxLPqbkEwXndXF5rZZc) | [Las Lagrimas De Lucia](https://open.spotify.com/album/4xlHGwdnzANu33Pp7spHtp) | 2:13 |
 | 48 | [Retornar](https://open.spotify.com/track/2RyKPVRF7xEKgGPxHsmz3n) | [Olle Linder](https://open.spotify.com/artist/3DnXgG6Wr1VxhsP543vnug) | [Retornar](https://open.spotify.com/album/5sRaOWsuKC0rFsPeBzSAni) | 4:21 |
 | 49 | [Gentle Touch Of Spring](https://open.spotify.com/track/3yabvTCobMLdS4RccsDUw1) | [Charlie Miller](https://open.spotify.com/artist/4gedU51ks1jf6BRwzCWosG) | [Gentle Touch Of Spring](https://open.spotify.com/album/7EdkaBsPKGAGuXX1hJAfqr) | 3:39 |
 | 50 | [Sol de medianoche](https://open.spotify.com/track/1kA41wXyC5knLXtUHJYokH) | [Manuel Gonza](https://open.spotify.com/artist/0DvrI5NcxFYxzaySshEJxw) | [Sol de medianoche](https://open.spotify.com/album/6YDejeG2RxP2S6HidOS4Mq) | 2:11 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 | 69 | [Coming Home to You](https://open.spotify.com/track/3z7zpVaGejh3GBR3DhlHWQ) | [Luca Stavos](https://open.spotify.com/artist/4haSSnvfxfNuKQ0Rxroodu) | [Coming home to you](https://open.spotify.com/album/5RuJR2nM1Rur7O5cAQxfrk) | 3:16 |
 | 70 | [Whispers At Dawn](https://open.spotify.com/track/5WyGvhxqJjNyFUf7TsZ6ra) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Whispers At Dawn](https://open.spotify.com/album/2Mbd5VHwehYOKADGeuRFqU) | 1:50 |
 | 71 | [Trafalgar](https://open.spotify.com/track/6Klz0YteuP0CQmHvqHNFkd) | [Donata Antoni](https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4) | [Trafalgar](https://open.spotify.com/album/1bFDU1We8vz1qZTETrhGYk) | 3:23 |
-| 72 | [I will be back](https://open.spotify.com/track/5UuYbBrZRwP5vlkTztARVN) | [Jose el Petate](https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj) | [I will be back](https://open.spotify.com/album/6WFcDbSDSNawB0MoVLXBsL) | 0:29 |
+| 72 | [I will be back](https://open.spotify.com/track/5UuYbBrZRwP5vlkTztARVN) | [Jose el Petate](https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj) | [I will be back](https://open.spotify.com/album/6WFcDbSDSNawB0MoVLXBsL) | 1:14 |
 | 73 | [Shape Of My Heart](https://open.spotify.com/track/6PHLD9YXtN4GOeDZofs9op) | [Paolo Velera](https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH) | [Shape Of My Heart](https://open.spotify.com/album/03v8TGP1Zc77rJhr1rT8ZF) | 3:28 |
 | 74 | [Viajando Solo](https://open.spotify.com/track/6zKkOpnyYB8sFhjK6NQRgX) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Viajando Solo](https://open.spotify.com/album/4H7MijgiJFlbsVpP2vd1Ij) | 2:43 |
 | 75 | [Uma Valsa e dois Amores](https://open.spotify.com/track/4DMdVTsX30OCuKZMWSNnO0) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Uma Valsa e dois Amores](https://open.spotify.com/album/7uCzTmgWQgau9Y3OSCnZet) | 3:33 |
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 | 92 | [Mirada](https://open.spotify.com/track/3PDsnkJXHj4eTPkCuhfTBS) | [Julian Mari](https://open.spotify.com/artist/4F0VCWk7SLkuBevjKJEw8e) | [Mirada](https://open.spotify.com/album/1Mc3fzPLnPs3aLkmI15MNK) | 2:22 |
 | 93 | [Pont\-Neuf](https://open.spotify.com/track/1aUihnmoI7VFaGnkyeuamf) | [Armand de Paris](https://open.spotify.com/artist/2DoqtOrY51c1iTxYnZN9sk) | [Pont\-Neuf](https://open.spotify.com/album/59efgTiQRg2BPHdD5fqdcV) | 3:04 |
 | 94 | [San Gervasi](https://open.spotify.com/track/6nH1eo4LuuJisJ4m8Blw2h) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [San Gervasi](https://open.spotify.com/album/27DWEE5aDyLTksMdhueuM8) | 2:30 |
-| 95 | [Golden Hour](https://open.spotify.com/track/1ECJllDwvRqd9zqR5a1kgZ) | [Maneli Jamal](https://open.spotify.com/artist/3jvyO2jDkfBe2vuI6euFny), [Tommy Berre](https://open.spotify.com/artist/1JS0Gw2KxVFPmFNivcjmgt) | [Peaceful Guitar](https://open.spotify.com/album/7safXlm6HVfUN5eucu542l) | 0:29 |
+| 95 | [Golden Hour](https://open.spotify.com/track/1ECJllDwvRqd9zqR5a1kgZ) | [Maneli Jamal](https://open.spotify.com/artist/3jvyO2jDkfBe2vuI6euFny), [Tommy Berre](https://open.spotify.com/artist/1JS0Gw2KxVFPmFNivcjmgt) | [Peaceful Guitar](https://open.spotify.com/album/7safXlm6HVfUN5eucu542l) | 2:57 |
 | 96 | [Outonecendo](https://open.spotify.com/track/5mzYXTWLRX5o6JUkhFe4PS) | [Alexandre Guerra](https://open.spotify.com/artist/1aK1TyJBakc4zSAKAPfd8O), [Daniel Murray](https://open.spotify.com/artist/0nK5viu6PiGYoeBiTTHTOk) | [Lugar ao Vento](https://open.spotify.com/album/3aZGaoMyVrUnYW1Cmjo0nn) | 3:28 |
 | 97 | [Venecia](https://open.spotify.com/track/03tFups6fAAso68zTzwtpc) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Venecia](https://open.spotify.com/album/3eo8sHVLrCyjaTLvS76qUh) | 3:18 |
 | 98 | [Indian Glass](https://open.spotify.com/track/6MIIniY6BMAFscSLC8KPQp) | [Diego Fernandez](https://open.spotify.com/artist/14kV1ZJprPqD2eTOSG6SCk) | [Indian Glass](https://open.spotify.com/album/69QJ0fQcw6T6kRNKpLYxM9) | 3:27 |
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 | 108 | [Barefoot Again](https://open.spotify.com/track/6bd8i923aA2lavpzd7YbIu) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Barefoot Again](https://open.spotify.com/album/7bxvPmLbLvLwArNY4bJz3J) | 3:30 |
 | 109 | [Purechucho](https://open.spotify.com/track/6fkS6EqkQKsqOk4PLSaWzI) | [Ringunguinja](https://open.spotify.com/artist/1I2a9L3JSAla2s2DlBQppu) | [El Pejo](https://open.spotify.com/album/5jO5hpZ9DQ9GHqovA1jdoh) | 2:35 |
 | 110 | [Costa del Azahar](https://open.spotify.com/track/0vR5LtNZNWdZDoy2qDvZ6Y) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ), [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Costa del Azahar](https://open.spotify.com/album/6bu11bayfc1ZUlF8fDUhSM) | 2:54 |
-| 111 | [Sombra](https://open.spotify.com/track/7vpF6W64XotHKOESMN7eKp) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX) | [Sombra](https://open.spotify.com/album/2BKmkEhOxgCUInScgtmcG0) | 0:29 |
+| 111 | [Sombra](https://open.spotify.com/track/7vpF6W64XotHKOESMN7eKp) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX) | [Sombra](https://open.spotify.com/album/2BKmkEhOxgCUInScgtmcG0) | 1:42 |
 | 112 | [Path To The Mind](https://open.spotify.com/track/14V2T4B8QG4kMZLc7XyYPv) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Path To The Mind](https://open.spotify.com/album/1qCBCQvepLF70Ge8hQJSxF) | 3:23 |
 
 Snapshot ID: `MTY1NjYzMzYwMCwwMDAwMDA0MDAwMDAwMTgxYjcwZWE4ZDUwMDAwMDE3MzcxMjFkMGZi`

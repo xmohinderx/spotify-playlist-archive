@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/070FVPBKvfu6M5tf4I9rt2.md) - [plain]
 
 > The skies are filled with blues for a joyful ride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90 likes - 30 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 90 likes - 30 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Match Box Blues](https://open.spotify.com/track/73XHbBJYj2cOoa7Z9qweVr) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \(Remaster w/ eBooklet\)](https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4) | 0:29 |
+| 1 | [Match Box Blues](https://open.spotify.com/track/73XHbBJYj2cOoa7Z9qweVr) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \(Remaster w/ eBooklet\)](https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4) | 7:39 |
 | 2 | [For Me](https://open.spotify.com/track/3nmjapTy10JPxmavz9sRDK) | [Casey Wasner](https://open.spotify.com/artist/0BoU1geDb86Xs43qliJzTh) | [Casey Wasner](https://open.spotify.com/album/4y301kP11JUp3bHSN2vNi0) | 3:39 |
 | 3 | [True](https://open.spotify.com/track/21KjuyE73NArFSDKayTKmz) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Back To The River](https://open.spotify.com/album/2VRGI6aGaoCALCJyk0dGdc) | 3:20 |
 | 4 | [Hindsight](https://open.spotify.com/track/1gTeTAPjm2uc6oGAfzpAwQ) | [Matt Schofield](https://open.spotify.com/artist/2X84rq2QtQimpEoY6Ms7JE) | [Far As I Can See](https://open.spotify.com/album/1BiBu7h8zXi8cGdKusAtJk) | 4:59 |

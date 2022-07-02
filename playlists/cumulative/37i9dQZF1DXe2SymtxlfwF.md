@@ -4,7 +4,7 @@
 
 > Your essential Max Richter, all in one collection.
 
-91 songs - 6 hr 6 min - [published](https://open.spotify.com/playlist/0zsXEWNwhNine63JAckY5T)
+91 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/0zsXEWNwhNine63JAckY5T)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Mercy](https://open.spotify.com/track/2MCJ5Mk1JkWYnEbc93sTVE) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Mari Samuelsen](https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx) | [Mercy](https://open.spotify.com/album/7GLOFKK7gZHLC0RkSmSRgz) | 5:28 | 2022-04-01 |  |
 | [Mercy Duet](https://open.spotify.com/track/2QSDy7lQFSywmy3dpntiIc) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Voices 2](https://open.spotify.com/album/29qu0lgHevmRAWZMWkDsD5) | 4:26 | 2022-04-01 |  |
 | [Mirrors](https://open.spotify.com/track/5cR0oEVJrFbHPvhFnEPv06) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Voices 2](https://open.spotify.com/album/29qu0lgHevmRAWZMWkDsD5) | 2:36 | 2022-04-01 |  |
-| [Miss Sloane Solo](https://open.spotify.com/track/45SUuwxzQQzvnAaMjuM5XZ) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Miss Sloane \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yZ9kWiGkJ3i6fxWw9cxV9) | 0:29 | 2022-04-01 |  |
+| [Miss Sloane Solo](https://open.spotify.com/track/45SUuwxzQQzvnAaMjuM5XZ) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Miss Sloane \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yZ9kWiGkJ3i6fxWw9cxV9) | 2:07 | 2022-04-01 |  |
 | [Movement Study](https://open.spotify.com/track/5MKvfWEvkc50Vu07HRotqW) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Mari Samuelsen](https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx) | [Voices 2](https://open.spotify.com/album/29qu0lgHevmRAWZMWkDsD5) | 5:48 | 2022-04-01 |  |
 | [Nonviolent Offender](https://open.spotify.com/track/3fc6z0RlVBu0ggtidwCpvw) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [White Boy Rick \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2oEASogrKIZSBOa6ykScxq) | 3:31 | 2022-04-01 |  |
 | [November](https://open.spotify.com/track/4NtfmGeS6yNfDG7GXZu1n2) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Memoryhouse](https://open.spotify.com/album/5CuuPArp8w5ckkJpcEcCyO) | 6:22 | 2022-04-01 |  |

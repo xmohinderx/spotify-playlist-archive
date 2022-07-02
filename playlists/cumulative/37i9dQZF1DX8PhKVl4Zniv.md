@@ -4,7 +4,7 @@
 
 > So you think you got pocket? Cover: Nate Smith
 
-62 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/15lxGNaHMFbMSCk4fEh6qG)
+62 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/15lxGNaHMFbMSCk4fEh6qG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Duck People](https://open.spotify.com/track/3QZxDFLLr5tiuCtPKEnGaa) | [FORQ](https://open.spotify.com/artist/7vXBNF4wc830rnuWRBXsz1) | [Four](https://open.spotify.com/album/2wQ0Zr1lshzY6cWsKbhTca) | 5:05 | 2022-06-01 |  |
 | [Elroy](https://open.spotify.com/track/6jmUbrySw9qGfG7HW2dqC0) | [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn) | [Planet Earth](https://open.spotify.com/album/0PL8zomkWnMjhkJae8k6ee) | 6:05 | 2022-06-01 |  |
 | [Equinox](https://open.spotify.com/track/5Xwb0M95oUwnS6Ga2k89d9) | [Lydian Collective](https://open.spotify.com/artist/5E7gb8Ugqx2c9mCoytD6gw) | [Adventure](https://open.spotify.com/album/6qMB487YzABEnYaqoCtw91) | 5:46 | 2022-06-01 |  |
-| [Extraction](https://open.spotify.com/track/00xDcOBS1NwrxZlh3XfVr6) | [Greg Howe](https://open.spotify.com/artist/2dunvwAyryLzQqXUNlLoCV), [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj), [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn) | [Extraction](https://open.spotify.com/album/7jWTOy2PAD52QCw7P4rRKT) | 0:29 | 2022-06-01 |  |
+| [Extraction](https://open.spotify.com/track/00xDcOBS1NwrxZlh3XfVr6) | [Greg Howe](https://open.spotify.com/artist/2dunvwAyryLzQqXUNlLoCV), [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj), [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn) | [Extraction](https://open.spotify.com/album/7jWTOy2PAD52QCw7P4rRKT) | 6:13 | 2022-06-01 |  |
 | [Face First](https://open.spotify.com/track/2iuf8q0JzFh6oJdFYXsx1v) | [Tribal Tech](https://open.spotify.com/artist/4OmMxTxYbR4ZDSvw4H0RAz) | [Face First](https://open.spotify.com/album/2IEMGFWKMDb7AgPz6pIATf) | 7:04 | 2022-06-01 |  |
 | [Flex](https://open.spotify.com/track/6LefLnrYCefkpnjVJoZZTq) | [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [Palmystery](https://open.spotify.com/album/1TP1qgFrX4iLjF23NE5Ouv) | 6:37 | 2022-06-01 |  |
 | [Good Morning Mr Shmink](https://open.spotify.com/track/065t46m5WdOSgKtkX37DsN) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Resonate](https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs) | 4:59 | 2022-06-01 |  |

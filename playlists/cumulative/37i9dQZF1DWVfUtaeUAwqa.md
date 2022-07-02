@@ -4,7 +4,7 @@
 
 > Dixieland, Chicago Style and upbeat traditional jazz.
 
-57 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/7mDWtjnoYGtiNOTOKCesxv)
+57 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/7mDWtjnoYGtiNOTOKCesxv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Frankie & Johnny](https://open.spotify.com/track/7iYvxt7QPOdaH4TQ0IIVx2) | [Wilbur De Paris](https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo) | [That's A Plenty](https://open.spotify.com/album/2QNvebWOK7Zie6rKYoEeEx) | 3:47 | 2020-08-19 |  |
 | [I Found A New Baby](https://open.spotify.com/track/666dKdmoRCRcBNY6BwB98J) | [Sidney Bechet](https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk) | [The Best Of Sidney Bechet](https://open.spotify.com/album/1DNkzO3Wq6tXBmlg7Xrpj1) | 3:08 | 2020-08-19 |  |
 | [I Wish I Could Shimmy Like My Sister Kate](https://open.spotify.com/track/0UmWAlvkmfqaHdAYPfNlFX) | [Muggsy Spanier](https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK) | [1939\-1944](https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC) | 2:55 | 2020-08-19 |  |
-| [I Wish I Could Shimmy Like My Sister Kate](https://open.spotify.com/track/7Mk3l9pfGuMdEe0joNtAMH) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [New Orleans Preservation, Vol\. 1](https://open.spotify.com/album/7z3Dd0P3mcGlbzTXDtfznd) | 0:29 | 2020-08-19 |  |
+| [I Wish I Could Shimmy Like My Sister Kate](https://open.spotify.com/track/7Mk3l9pfGuMdEe0joNtAMH) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [New Orleans Preservation, Vol\. 1](https://open.spotify.com/album/7z3Dd0P3mcGlbzTXDtfznd) | 4:26 | 2020-08-19 |  |
 | [I'm Gonna Stomp, Mr\. Henry Lee](https://open.spotify.com/track/7h2QMRQZbt7VtcHh3VLT1X) | [Eddie Condon](https://open.spotify.com/artist/1YaB5mqH5zlJqvJaKIsBrS) | [Eddie Condon](https://open.spotify.com/album/6zCjaiz6yCujSEdBV0EWg2) | 3:37 | 2020-08-19 |  |
 | [In The Good Old Summertime](https://open.spotify.com/track/7eb2OuqP9Ejwbqmv4m6HEz) | [The Muscrat Ramblers](https://open.spotify.com/artist/7sshU7PI841z2AbqZBiswL) | [50 Classics: The Best Of Dixieland Jazz](https://open.spotify.com/album/1ajfH3JSRXnjsnYNwsNCiO) | 3:08 | 2020-08-19 |  |
 | [It's Tight Like That](https://open.spotify.com/track/0t16VNebyMXzZUKqDjnmWK) | [Jimmy McPartland](https://open.spotify.com/artist/3bRlHJno4vEvZz8ZxLwGqp), [Gil Rodin](https://open.spotify.com/artist/0Hiv5EHMLjUjuD4NIBh6nd), [Larry Binyon](https://open.spotify.com/artist/6xrtn0fNHyLN4RSABdkVhm), [Vic Briedis](https://open.spotify.com/artist/1TG4CLzdfmBCqsF0ktkT56), [Dick Morgan](https://open.spotify.com/artist/0yDEmCGMl7jMaEMBbj3x0G), [Jack Teagarden](https://open.spotify.com/artist/3okiREk3dV4F8BmK7cpEJf), [Ray Bauduc](https://open.spotify.com/artist/4ylWW97tTAKWZFvhNM4MLg), [Harry Goodman](https://open.spotify.com/artist/6UXN2AIyPh6Epv9FCuuvHZ), [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve), [Jimmy Bracken's Toe Ticklers](https://open.spotify.com/artist/2L7s1XIW9ZnTRc77HWj2KD) | [Ken Burns Jazz\-Benny Goodman](https://open.spotify.com/album/2fIAk4u4vd8yy8th8ZSlbS) | 2:48 | 2020-08-19 |  |

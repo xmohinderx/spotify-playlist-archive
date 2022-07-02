@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 
 > beats + birds = <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,165 likes - 156 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,241 likes - 156 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 17 | [FORWARD](https://open.spotify.com/track/56IW9O3dVCJ9hdA4TJINVs) | [WASTELAND](https://open.spotify.com/artist/1Nxw0yfsMqk14UsOqMKOXP) | [FORWARD](https://open.spotify.com/album/75OwXvuvF4eU9icYhebnWJ) | 2:39 |
 | 18 | [Morning In The Forest](https://open.spotify.com/track/3fX2BwW4wtmvPOsy9nDmEj) | [Stainlexz](https://open.spotify.com/artist/1Qcw8vwRygx31ecdpJZsyT) | [Morning In The Forest](https://open.spotify.com/album/1mdPUcchdD1uXRAjPixTCD) | 2:12 |
 | 19 | [overcast](https://open.spotify.com/track/5HhaJtn3ilA7rjQHctEI1y) | [Sophia Lopez](https://open.spotify.com/artist/6cgDJHmQSZ3o3jVAQA7lKp) | [overcast](https://open.spotify.com/album/65JKVp9Jb7pc9ickxQoEdF) | 2:00 |
-| 20 | [Sunset Over Paris](https://open.spotify.com/track/4A7HE0qtkcaueIdBqTQIKK) | [Tall Roots](https://open.spotify.com/artist/6QHqHz26iLQmFVPbhEeOup) | [Sunset Over Paris](https://open.spotify.com/album/6U8r9IvFcbFpJva7TKWpxg) | 0:29 |
+| 20 | [Sunset Over Paris](https://open.spotify.com/track/4A7HE0qtkcaueIdBqTQIKK) | [Tall Roots](https://open.spotify.com/artist/6QHqHz26iLQmFVPbhEeOup) | [Sunset Over Paris](https://open.spotify.com/album/6U8r9IvFcbFpJva7TKWpxg) | 2:28 |
 | 21 | [Microwave Jam](https://open.spotify.com/track/0JXHJVMM7sy9sszTiEpumr) | [C\-90](https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq) | [Microwave Jam](https://open.spotify.com/album/75JaaUPon3gnk3c8zT4RCm) | 2:25 |
 | 22 | [koi pond](https://open.spotify.com/track/6dSZwsuFjOyY6F9Ny6lPjo) | [Arden Records](https://open.spotify.com/artist/4t6K3qACkVu8WWrG3mvo0r), [clay house](https://open.spotify.com/artist/12im7CjaLsHG55sOqVEHCB) | [koi pond](https://open.spotify.com/album/7jWNdUO6px7SAlLyXDN0ir) | 3:02 |
 | 23 | [island vibes](https://open.spotify.com/track/1afFU8ViYqQo6XMXxyKCfl) | [dLira](https://open.spotify.com/artist/62qH5lO3YpMpkVJJb7JuEv) | [island vibes](https://open.spotify.com/album/0r3fC17UPhDT0Pgqs2UCf5) | 2:36 |
@@ -83,14 +83,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 73 | [Fingers Crossed](https://open.spotify.com/track/2gQmlDrCMN49X5E2tiKT5I) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Fingers Crossed](https://open.spotify.com/album/54VqTA5zvV38BXk4W5FjcX) | 1:25 |
 | 74 | [Feel Jolly](https://open.spotify.com/track/2X7IEYH1ani18XiYyhFYaY) | [Matt Kaff](https://open.spotify.com/artist/4k9rFz2MLEyxG3GqdZ1Uqg) | [Feel Jolly](https://open.spotify.com/album/43mTxTivOAECBc4LcAaHz5) | 2:52 |
 | 75 | [Le Hippie](https://open.spotify.com/track/37bVtb7OiKv6L8qJuDWCBG) | [Herbert Ungarn](https://open.spotify.com/artist/0ha44a2tcK2b9iERUaXWAQ) | [Le Hippie](https://open.spotify.com/album/3y9zpas3INXBk6lUVnrIVF) | 2:22 |
-| 76 | [Artwork](https://open.spotify.com/track/5J5NcN1lGvb3Yo794ohu8f) | [Push & Play](https://open.spotify.com/artist/7zWFDTGDhv8Ftdxd6Y6Eng) | [Artwork](https://open.spotify.com/album/1S2pNdwEk83jQrPJlPqbmS) | 0:29 |
+| 76 | [Artwork](https://open.spotify.com/track/5J5NcN1lGvb3Yo794ohu8f) | [Push & Play](https://open.spotify.com/artist/7zWFDTGDhv8Ftdxd6Y6Eng) | [Artwork](https://open.spotify.com/album/1S2pNdwEk83jQrPJlPqbmS) | 2:20 |
 | 77 | [Faro](https://open.spotify.com/track/6jL7VAN6WbWWWGH092DHKB) | [Sou El](https://open.spotify.com/artist/11UKM0qEi2HoFEIsS18t9f) | [Faro](https://open.spotify.com/album/1moyLhxoQIXe2rogVoUckL) | 2:35 |
 | 78 | [Tomorrow Will Be Better](https://open.spotify.com/track/62zFKMb9q7pnJgV64UQX1f) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [Inner Passages](https://open.spotify.com/album/2SAg5ASeGWGt7YDXqiOEs7) | 2:34 |
 | 79 | [I Am a Flower](https://open.spotify.com/track/2jxi0UFqcT99mvQ05TjsFW) | [Nyans](https://open.spotify.com/artist/1QVaQ41mTgU3pkTwbuRIQt) | [Pilot Girl](https://open.spotify.com/album/1XJVz61Pjb6HJhhMTTIpxi) | 1:43 |
 | 80 | [dead reckoning](https://open.spotify.com/track/1HPRFECUZyvqlTsVcnVQqL) | [exogon](https://open.spotify.com/artist/2IJJALo5Ey8JvuJYzKnzvO) | [abstract mapping](https://open.spotify.com/album/3wnY9D1Dl69OohA8MtkU2z) | 1:48 |
 | 81 | [Garden Zoo](https://open.spotify.com/track/73O23xizU9YUdLDHF0iRJW) | [Henry Lowe](https://open.spotify.com/artist/1Op6kjtkZu2Yqx5UprLQVt) | [Phantom Experience & Garden Zoo](https://open.spotify.com/album/4nPJVAKbB3x98ka18j24aD) | 2:28 |
 | 82 | [DaylightZ \- Forest Version](https://open.spotify.com/track/4CApZ8VcoaUFLHmi94y1ey) | [strøget](https://open.spotify.com/artist/7JtjqVMOUr4hbaYRVQevHq) | [DaylightZ](https://open.spotify.com/album/4vnuKbIQy1gtw4ao29JCzl) | 2:04 |
-| 83 | [positive](https://open.spotify.com/track/6EXzpGmH1gpvQclBz4GcfR) | [Slopoke](https://open.spotify.com/artist/1iJ5ZP2QithYEHlojjT3Dw) | [positive](https://open.spotify.com/album/4dmOhdd46ePy9uaCQXwIaz) | 0:29 |
+| 83 | [positive](https://open.spotify.com/track/6EXzpGmH1gpvQclBz4GcfR) | [Slopoke](https://open.spotify.com/artist/1iJ5ZP2QithYEHlojjT3Dw) | [positive](https://open.spotify.com/album/4dmOhdd46ePy9uaCQXwIaz) | 2:33 |
 | 84 | [Lusette \- Garden Lofi Mix](https://open.spotify.com/track/7EXdaAjjY3WutDTmpqyb18) | [Mad Chronic](https://open.spotify.com/artist/6EZ4ixvQRudMRAcxGGH3Dt) | [Lusette \- Lofi Ambience](https://open.spotify.com/album/6Jqb6VM5XseparH4RjuVw9) | 2:00 |
 | 85 | [Sleep For Love](https://open.spotify.com/track/3ReZQOgEy144SBdzOs3KSP) | [Codename Chinadoll](https://open.spotify.com/artist/1M7I2GYBClRIiT9B72xUTg) | [Broken Pattern](https://open.spotify.com/album/0Z3GpZmRqjydyBUSkMJ3MJ) | 1:33 |
 | 86 | [saturday sun](https://open.spotify.com/track/72JFBOJAw2f2FOFJJsO7KL) | [Awrail](https://open.spotify.com/artist/7bNQNzvOo3pNycy6qspOXO) | [saturday sun](https://open.spotify.com/album/5fi72u7BrWXzBMLpJZjczt) | 2:44 |
@@ -145,7 +145,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 135 | [Daybreak](https://open.spotify.com/track/2MdpwUHQLQ7yJwQh9oxksN) | [after noon](https://open.spotify.com/artist/23ZyvK3IS7xXY1COP8KiRW), [skyswimming](https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy) | [Daybreak](https://open.spotify.com/album/4i16zC5CPIWVLdD3dFdGgJ) | 2:45 |
 | 136 | [need a vacation?](https://open.spotify.com/track/1sHID1bINevTLGNkvfLQfC) | [kobicha](https://open.spotify.com/artist/4nJ6L5ADQdv6cZHXcvsRNd) | [need a vacation?](https://open.spotify.com/album/5xadz5QNEgrbOSKCje5wSf) | 2:08 |
 | 137 | [Andantino](https://open.spotify.com/track/6JONGK3utqMZaFK7l6QyTk) | [Odinson](https://open.spotify.com/artist/2NsbX1kNxxmyCPYNUwylr5) | [Lofi Chopin](https://open.spotify.com/album/6aPscdWMhIG3RrbE9wKp64) | 2:50 |
-| 138 | [Carvings](https://open.spotify.com/track/6z4JNDNIHHrLz79QET2jrA) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Disque Magique](https://open.spotify.com/album/58LvwpDLLsRGNwJN160DWU) | 0:29 |
+| 138 | [Carvings](https://open.spotify.com/track/6z4JNDNIHHrLz79QET2jrA) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Disque Magique](https://open.spotify.com/album/58LvwpDLLsRGNwJN160DWU) | 2:36 |
 | 139 | [A Little Bird Told Me](https://open.spotify.com/track/0ZXi3n1FhNbusnpDcnxLmA) | [Etchen](https://open.spotify.com/artist/3n5F1rL9ZHZIsYfX9DsT8R) | [WAVES](https://open.spotify.com/album/6AOwfXtb6LPoNa1fKcMunQ) | 1:17 |
 | 140 | [Chi\-town](https://open.spotify.com/track/6IlUL7y90tJ87q4f37egWZ) | [55 South](https://open.spotify.com/artist/6Fu4AVSoxW8zh9MB1yuotB) | [Chi\-town](https://open.spotify.com/album/4UswIixSDaHuBY5YdrBQi7) | 2:41 |
 | 141 | [quiet thoughts](https://open.spotify.com/track/1ND8aZ8F6qe74L9lF8XZop) | [sumthin](https://open.spotify.com/artist/1m1oQ84LqqtpGvE3Omv8Rd) | [quiet thoughts](https://open.spotify.com/album/6GXoGTgAT0ibfre1Mqv3Kq) | 1:33 |

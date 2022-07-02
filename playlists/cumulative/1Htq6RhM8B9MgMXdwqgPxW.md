@@ -4,7 +4,7 @@
 
 > Break out of your routine with trios of tracks from some of the brightest new stars in Jazz.
 
-45 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/2yRNLhjQHtiyKb5VI6IUyD)
+45 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/2yRNLhjQHtiyKb5VI6IUyD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Green And Gold](https://open.spotify.com/track/3Lz7F78L8bmAftMGkwoGCh) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Rising Son](https://open.spotify.com/album/7GDnn7XSLCIjZkBkw0SMZd) | 4:58 | 2015-03-17 |  |
 | [Half Steppin’](https://open.spotify.com/track/4hNejbtl93aLRxnftdUgIj) | [Ben Williams](https://open.spotify.com/artist/2NVNbP5qYO9vHhOPGGuPJV) | [Half Steppin'](https://open.spotify.com/album/4RfnfI836oNMgAYns5RG2H) | 7:21 | 2015-03-17 |  |
 | [If Music Was That Easy](https://open.spotify.com/track/6yAPBF2E4QfcitKoKRiovS) | [Skalpel](https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q) | [Transit](https://open.spotify.com/album/5hUjimESHfgftKXaM5nk7E) | 3:22 | 2015-04-29 |  |
-| [Isadora](https://open.spotify.com/track/7G9VsVr1m6YzaJgHyRgz4y) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Yesterday You Said Tomorrow](https://open.spotify.com/album/1yEatbNaAycy7doYijdili) | 0:29 | 2015-03-17 |  |
+| [Isadora](https://open.spotify.com/track/7G9VsVr1m6YzaJgHyRgz4y) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Yesterday You Said Tomorrow](https://open.spotify.com/album/1yEatbNaAycy7doYijdili) | 6:13 | 2015-03-17 |  |
 | [It's Not You It's Me \(But You Didn't Help\)](https://open.spotify.com/track/3JMCf7gRXhazwvoA2ZfACK) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [AfroPhysicist](https://open.spotify.com/album/5oWRvCk9dkMLU5K029qw6P) | 6:14 | 2015-03-17 |  |
 | [Journey in Satchidananda](https://open.spotify.com/track/7jIE9yaNiRlm3KqyFeSQiX) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46), [The Gondwana Orchestra](https://open.spotify.com/artist/19yM7q6cq3QGb7V67Czgm8) | [Journey in Satchidananda / Blue Nile](https://open.spotify.com/album/26OAl3xCnVQEv4z22BQ9bS) | 6:46 | 2015-03-17 |  |
 | [Kiyomizu\-Dera](https://open.spotify.com/track/6PMobmlh8yrpEjFjioPFGy) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46), [The Gondwana Orchestra](https://open.spotify.com/artist/19yM7q6cq3QGb7V67Czgm8) | [When the World Was One](https://open.spotify.com/album/0XVEjoxFFwtcx7dFwAYz7Z) | 6:53 | 2015-03-17 |  |
@@ -47,7 +47,7 @@
 | [Sunset](https://open.spotify.com/track/320ehnEo8iPidSSzMpqHsD) | [Skalpel](https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q) | [Transit](https://open.spotify.com/album/5hUjimESHfgftKXaM5nk7E) | 4:05 | 2015-04-29 |  |
 | [Take the 'A' Train](https://open.spotify.com/track/1BbtIqq4H1Bm524cOSQnKh) | [Alexander Hawkins](https://open.spotify.com/artist/5odU2GyEFgXZzhs1nfdu7r) | [Song Singular](https://open.spotify.com/album/55QAWnMLyR3fip9HzFJCI8) | 2:58 | 2015-03-17 |  |
 | [The Dream](https://open.spotify.com/track/0iAs0VdpjLi6ViVQGvufDb) | [Kait Dunton](https://open.spotify.com/artist/2uKlChPlTr6ONNvdtjZdRs) | [Mountain Suite](https://open.spotify.com/album/3Jr1BPchPc9ng0jZawH6N1) | 4:01 | 2015-03-17 |  |
-| [The Eraser](https://open.spotify.com/track/71tQB5sKtc7bImFPxQTjz0) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Yesterday You Said Tomorrow](https://open.spotify.com/album/1yEatbNaAycy7doYijdili) | 0:29 | 2015-03-17 |  |
+| [The Eraser](https://open.spotify.com/track/71tQB5sKtc7bImFPxQTjz0) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Yesterday You Said Tomorrow](https://open.spotify.com/album/1yEatbNaAycy7doYijdili) | 5:25 | 2015-03-17 |  |
 | [The Jazz Man Speaks \(Maple Leaf Rag\)](https://open.spotify.com/track/5E7dGfVaFqlT5UvnMKl3rF) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Social Music](https://open.spotify.com/album/4Jhr4IDfUoNxHoodEePluk) | 1:20 | 2015-03-17 |  |
 | [Urban Control](https://open.spotify.com/track/1CuE5ugqnQLdsvvamUqK2k) | [Phronesis](https://open.spotify.com/artist/3FtuExHiGsLvTnreIt7i2x) | [Life to Everything](https://open.spotify.com/album/2K1dsXDX5Lv0PdhJrQiGnU) | 7:52 | 2015-03-17 |  |
 | [Visions \(feat\. Stefon Harris\) \(feat\. Stefon Harris\)](https://open.spotify.com/track/3TpWhQLCDXSL0kvLuXVNk5) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Stefon Harris](https://open.spotify.com/artist/4FDlrSZ3mEv5Jvn482sCbZ) | [AfroPhysicist](https://open.spotify.com/album/5oWRvCk9dkMLU5K029qw6P) | 6:37 | 2015-03-17 |  |

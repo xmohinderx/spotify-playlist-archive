@@ -4,7 +4,7 @@
 
 > <a href="https://linktr.ee/PunkaBristol">Punka</a> creates a safe space for the alternative scene with their club night at the heart of Bristol’s LGBTQIA+ community.\. This is their sound of Pride\. Photography: Delirium and Proper Job Productions
 
-52 songs - 2 hr 58 min - [published](https://open.spotify.com/playlist/5jRw18kvgpN77vsHjCscPj)
+52 songs - 3 hr 1 min - [published](https://open.spotify.com/playlist/5jRw18kvgpN77vsHjCscPj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Boys Wanna Be Her](https://open.spotify.com/track/0MAior6fZ9hfPgzjphQLXk) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Impeach My Bush](https://open.spotify.com/album/0J8M07C6x7L21gBGaBnCf8) | 3:55 | 2021-06-02 |  |
 | [Boyz Will Be Boyz](https://open.spotify.com/track/4OQ5Ts4dShOK2jWNnvIol0) | [The Menstrual Cramps](https://open.spotify.com/artist/5ZV8lDOPUCh9tzkSQBVarI) | [Free Bleedin'](https://open.spotify.com/album/20EOnbktQbZbkxOJGrqLmA) | 3:18 | 2021-06-02 |  |
 | [Break the Silence](https://open.spotify.com/track/4UpXpUBBpmG3PMZqA1sC6K) | [Cosmic Ninja](https://open.spotify.com/artist/0ryAONck63otPuVOjfeAJu) | [Break the Silence](https://open.spotify.com/album/15tAWPIhlhxGT1IDc0ha2k) | 4:08 | 2021-06-02 |  |
-| [Camelot](https://open.spotify.com/track/20c0ddoDmkoYwglFFKDJgh) | [Skating Polly](https://open.spotify.com/artist/1ST6hERy8rGdwUaNAZxfG9) | [The Make It All Show](https://open.spotify.com/album/0PaV2cQZJLbjYjnZRoYq2f) | 0:29 | 2021-06-02 |  |
+| [Camelot](https://open.spotify.com/track/20c0ddoDmkoYwglFFKDJgh) | [Skating Polly](https://open.spotify.com/artist/1ST6hERy8rGdwUaNAZxfG9) | [The Make It All Show](https://open.spotify.com/album/0PaV2cQZJLbjYjnZRoYq2f) | 3:28 | 2021-06-02 |  |
 | [Celebrity Skin](https://open.spotify.com/track/2VTQAjZr7FPoEJD2sNoH3o) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/0ZIlM7A6pZyNhfohaWjauj) | 2:42 | 2021-06-02 |  |
 | [Chickens](https://open.spotify.com/track/5hnktvtMR96jGKA54FEi7U) | [Forrest Flowers](https://open.spotify.com/artist/6dpJaK0AIrYLSHi4UFeeA8) | [Chickens](https://open.spotify.com/album/1aDGrlOO5aCxtArveJH8fI) | 4:20 | 2021-06-02 |  |
 | [Dancing On My Own](https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk Pt\. 1](https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn) | 4:45 | 2021-06-02 |  |

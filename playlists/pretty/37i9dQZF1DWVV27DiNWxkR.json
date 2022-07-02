@@ -1,34 +1,18 @@
 {
   "description": "The premier alternative melancholia playlist.",
-  "num_followers": 1088111,
+  "num_followers": 1088652,
   "original_name": "Sad Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTUwNTc1OSwwMDAwMDA3MDAwMDAwMTgxNzNkNTJiOWIwMDAwMDE2ZDE1MzcyMjU5",
+  "snapshot_id": "MTY1NjcwOTI2MSwwMDAwMDA3MTAwMDAwMTgxYmI5MTI3YjgwMDAwMDE2ZDE1MzcyMjU5",
   "tracks": [
     {
-      "added_at": "2022-06-17 22:42:39",
+      "added_at": "2022-07-01 21:01:01",
       "album": {
-        "name": "caroline",
-        "url": "https://open.spotify.com/album/3Nsfsb5QeDLoTClGzWRxpd"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "caroline",
-      "url": "https://open.spotify.com/track/05RI03bh5Mn7Dz254H5XdB"
-    },
-    {
-      "added_at": "2020-09-11 04:01:00",
-      "album": {
-        "name": "Call Me By Your Name (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7K0x1O9gqMQlDwbMkyCCIM"
+        "name": "Fourth of July",
+        "url": "https://open.spotify.com/album/6iDSCbUNbvIrSiM3JfJyCL"
       },
       "artists": [
         {
@@ -36,9 +20,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 248964,
-      "name": "Mystery of Love",
-      "url": "https://open.spotify.com/track/4HbeGjbt7u3pvwDk1vN7P0"
+      "duration_ms": 279316,
+      "name": "Fourth of July",
+      "url": "https://open.spotify.com/track/1LjVNoqN5YsWf9vGu2JzhF"
     },
     {
       "added_at": "2020-09-11 04:01:00",
@@ -57,20 +41,40 @@
       "url": "https://open.spotify.com/track/4AmcmraFjVzFb9SQDNTRyl"
     },
     {
-      "added_at": "2022-05-02 17:11:28",
+      "added_at": "2021-07-23 19:45:08",
       "album": {
-        "name": "MAGDALENE",
-        "url": "https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ"
+        "name": "The Twilight Saga: New Moon (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2PDlvc7K51qC4Bkali3q0R"
       },
       "artists": [
         {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        },
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 204066,
-      "name": "cellophane",
-      "url": "https://open.spotify.com/track/7x8pIrhMu9FCmqqHNyuH0P"
+      "duration_ms": 289560,
+      "name": "Rosyln",
+      "url": "https://open.spotify.com/track/4k7x3QKrc3h3U0Viqk0uop"
+    },
+    {
+      "added_at": "2022-06-17 22:42:39",
+      "album": {
+        "name": "caroline",
+        "url": "https://open.spotify.com/album/3Nsfsb5QeDLoTClGzWRxpd"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "caroline",
+      "url": "https://open.spotify.com/track/05RI03bh5Mn7Dz254H5XdB"
     },
     {
       "added_at": "2020-09-11 04:01:00",
@@ -121,24 +125,20 @@
       "url": "https://open.spotify.com/track/6mORGLOz79w6VsCRLWYYuK"
     },
     {
-      "added_at": "2021-07-23 19:45:08",
+      "added_at": "2022-05-25 19:19:20",
       "album": {
-        "name": "The Twilight Saga: New Moon (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2PDlvc7K51qC4Bkali3q0R"
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
       },
       "artists": [
         {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        },
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 289560,
-      "name": "Rosyln",
-      "url": "https://open.spotify.com/track/4k7x3QKrc3h3U0Viqk0uop"
+      "duration_ms": 171727,
+      "name": "Liability",
+      "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
     },
     {
       "added_at": "2020-09-11 04:01:00",
@@ -173,6 +173,22 @@
       "url": "https://open.spotify.com/track/5Aq4CusaoqGNQlvNUUnA7t"
     },
     {
+      "added_at": "2020-09-11 04:01:00",
+      "album": {
+        "name": "Call Me By Your Name (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7K0x1O9gqMQlDwbMkyCCIM"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 248964,
+      "name": "Mystery of Love",
+      "url": "https://open.spotify.com/track/4HbeGjbt7u3pvwDk1vN7P0"
+    },
+    {
       "added_at": "2022-04-09 15:13:20",
       "album": {
         "name": "Ultraviolence (Deluxe)",
@@ -189,20 +205,36 @@
       "url": "https://open.spotify.com/track/1KuVEZR4xuQVNr1KkanAV4"
     },
     {
-      "added_at": "2022-05-25 19:19:20",
+      "added_at": "2020-10-14 16:55:27",
       "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+        "name": "Coexist",
+        "url": "https://open.spotify.com/album/7zNbatyo73uEnOlTDSVJed"
       },
       "artists": [
         {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
         }
       ],
-      "duration_ms": 171727,
-      "name": "Liability",
-      "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
+      "duration_ms": 171653,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/4g5QKYTjNoAN8w5LmNbkwo"
+    },
+    {
+      "added_at": "2022-05-02 17:11:28",
+      "album": {
+        "name": "MAGDALENE",
+        "url": "https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 204066,
+      "name": "cellophane",
+      "url": "https://open.spotify.com/track/7x8pIrhMu9FCmqqHNyuH0P"
     },
     {
       "added_at": "2020-09-11 04:01:00",
@@ -253,22 +285,6 @@
       "url": "https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4"
     },
     {
-      "added_at": "2020-10-14 16:55:27",
-      "album": {
-        "name": "Coexist",
-        "url": "https://open.spotify.com/album/7zNbatyo73uEnOlTDSVJed"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "duration_ms": 171653,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/4g5QKYTjNoAN8w5LmNbkwo"
-    },
-    {
       "added_at": "2020-09-11 04:01:00",
       "album": {
         "name": "Stranger in the Alps (Deluxe Edition)",
@@ -285,22 +301,6 @@
       "url": "https://open.spotify.com/track/0xF4pgg7PrOG1HccKenJYz"
     },
     {
-      "added_at": "2022-05-20 16:22:31",
-      "album": {
-        "name": "Hold The Line",
-        "url": "https://open.spotify.com/album/7K5A0lg0PxbYoqa05ss4nj"
-      },
-      "artists": [
-        {
-          "name": "Bartees Strange",
-          "url": "https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG"
-        }
-      ],
-      "duration_ms": 263301,
-      "name": "Hold The Line",
-      "url": "https://open.spotify.com/track/5oLrRaqC1dgKKFbXZ7H2Dw"
-    },
-    {
       "added_at": "2020-09-11 04:01:00",
       "album": {
         "name": "Dawn",
@@ -312,7 +312,7 @@
           "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 174172,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8"
     },
@@ -524,7 +524,7 @@
           "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 217946,
       "name": "9 Crimes",
       "url": "https://open.spotify.com/track/5GZEeowhvSieFDiR8fQ2im"
     },

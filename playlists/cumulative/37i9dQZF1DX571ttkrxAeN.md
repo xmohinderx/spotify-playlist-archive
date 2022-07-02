@@ -4,7 +4,7 @@
 
 > Sit and sip a cup as you soak up some acoustic vibes from across the world\. Cover: Souad Massi.
 
-78 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/31hLfCAGOoZ6PgHyjSv4v4)
+78 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/31hLfCAGOoZ6PgHyjSv4v4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Intro](https://open.spotify.com/track/1pmnRWyl6HdWtraKmMe3gz) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Mangaliso](https://open.spotify.com/album/1fXiO7h7dDB3RBG13jLh8A) | 3:02 | 2020-05-03 |  |
 | [Ja må du leva \- Akustisk version](https://open.spotify.com/track/1Bh4HmorrjRSTAMgyHTkL5) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Ja må du leva \(Akustisk version\)](https://open.spotify.com/album/0frL0AdL5jK1RisL0nCObh) | 3:32 | 2020-05-03 |  |
 | [Je t'emmènerai](https://open.spotify.com/track/0e1tpQ8A7L2BTRpXXs8znZ) | [Willows](https://open.spotify.com/artist/0UNhcjtUIMb5u5v6niKshW) | [Willows](https://open.spotify.com/album/276kwfvHvCeNJYHGhcx7jj) | 3:47 | 2020-05-03 |  |
-| [Jungla de Asfalto \- Acústica](https://open.spotify.com/track/0L2rbBHxOiYkOmfab6ymPY) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Jungla de Asfalto \(Acústica\)](https://open.spotify.com/album/4PKNNrYVTrHJl1tvZsTjh4) | 0:29 | 2020-05-03 |  |
+| [Jungla de Asfalto \- Acústica](https://open.spotify.com/track/0L2rbBHxOiYkOmfab6ymPY) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Jungla de Asfalto \(Acústica\)](https://open.spotify.com/album/4PKNNrYVTrHJl1tvZsTjh4) | 2:39 | 2020-05-03 |  |
 | [L'amour à la plage \(with Alice on the roof\)](https://open.spotify.com/track/4ye35w29eey363ETpWYN88) | [Suarez](https://open.spotify.com/artist/6D40RuzdpIC5ip4yL2UUvD), [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [Sur tes lèvres](https://open.spotify.com/album/3KzsgbbJAJYPQWG2PiIhYV) | 2:49 | 2020-05-03 |  |
 | [La maladie du siècle](https://open.spotify.com/track/744sJKmbuq0PxKpN4v0IiM) | [Marie Claudel](https://open.spotify.com/artist/1W6ikPowiwsdGChhf21l0A) | [Ne parle pas aux étranges](https://open.spotify.com/album/2L2fpncQVPAS1VZTnnEN9c) | 3:05 | 2020-05-03 |  |
 | [La mort des étoiles](https://open.spotify.com/track/43ScxV6zQAbwCZyPfPhRaI) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [La mort des étoiles](https://open.spotify.com/album/6irhBIxDE9UcjLOE4Ih063) | 4:19 | 2020-05-03 |  |

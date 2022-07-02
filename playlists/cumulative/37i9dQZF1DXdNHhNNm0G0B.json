@@ -139,7 +139,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 214933,
       "name": "Bumble Bee",
       "url": "https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R"
@@ -212,7 +212,7 @@
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 238000,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/2V9zMWtLds91PjE1KJ6qjL"
     },
@@ -229,7 +229,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 207360,
       "name": "Cool Drink of Water Blues",
       "url": "https://open.spotify.com/track/0CDbCahovsgZPNumyO7aD2"
@@ -319,7 +319,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 316048,
       "name": "Dodge City",
       "url": "https://open.spotify.com/track/5ny1yG9VdXEa2UmfRImdjZ"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 215662,
       "name": "Dust My Broom",
       "url": "https://open.spotify.com/track/3OGfvgASu7KjQn8whfBALw"
@@ -446,7 +446,7 @@
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 178333,
       "name": "Guitar Rag",
       "url": "https://open.spotify.com/track/5xwCQuoGnPdgqw2omrgmCq"
     },
@@ -661,7 +661,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 188373,
       "name": "Let Your Light Shine on Me",
       "url": "https://open.spotify.com/track/51qp3WsYjiDuBhzR7AON69"
@@ -679,7 +679,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 152106,
       "name": "Lonely Days",
       "url": "https://open.spotify.com/track/0PtXPKTg2CWsWSNit3zXS5"
@@ -733,7 +733,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 245066,
       "name": "Long River (Allegheny)",
       "url": "https://open.spotify.com/track/1IlKCRTZl9WhFze6Mn9uTE"
@@ -864,7 +864,7 @@
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 212000,
       "name": "Orange County Serenade",
       "url": "https://open.spotify.com/track/4jw7C3myL67kCqREaJ906E"
     },
@@ -917,7 +917,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 261333,
       "name": "Right Kind of Trouble",
       "url": "https://open.spotify.com/track/1CZ8Z3XLlhWuR8XH509ZDp"
@@ -1173,7 +1173,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 186591,
       "name": "The Man From Nowhere",
       "url": "https://open.spotify.com/track/6LAiCNbCebsCf5M8w8A2Ws"
@@ -1213,6 +1213,24 @@
       "duration_ms": 176826,
       "name": "They're Red Hot",
       "url": "https://open.spotify.com/track/4AtJLGEdKSrhkncXGbF73S"
+    },
+    {
+      "album": {
+        "name": "1950-1953",
+        "url": "https://open.spotify.com/album/0i3x4kt3iiLqyIfo57d50t"
+      },
+      "artists": [
+        {
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188426,
+      "name": "Tough Times (12-?-53)",
+      "url": "https://open.spotify.com/track/0BGReizzVdAhKT9FpWOEXD"
     },
     {
       "album": {
@@ -1263,7 +1281,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 192946,
       "name": "Way Down Yonder Blues",
       "url": "https://open.spotify.com/track/5cMLUxRl1dO83NLNgo8by9"
@@ -1321,7 +1339,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 150941,
       "name": "Willow Witchin' (Hot Take)",
       "url": "https://open.spotify.com/track/6QaEUzzNtspNmCAdG4OUb6"

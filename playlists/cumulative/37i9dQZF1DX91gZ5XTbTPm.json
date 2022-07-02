@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The Midwest is always on time. Cover: Polo G",
+  "description": "The Midwest is always on time. Cover: Lil Durk",
   "name": "CST",
   "published_playlist_ids": [
     "41V1Pq5RMClkd6MJCSDWfC"
@@ -812,6 +812,24 @@
     },
     {
       "album": {
+        "name": "Cold Soul 1.5",
+        "url": "https://open.spotify.com/album/2EmIrbzkMPR7gPZ9Rkdoze"
+      },
+      "artists": [
+        {
+          "name": "YSN Flow",
+          "url": "https://open.spotify.com/artist/1je11NKORfLMSjgSNP0DPF"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206377,
+      "name": "Cold Soul 1.5",
+      "url": "https://open.spotify.com/track/3ksOL8ryXDGux9E6Gzy47z"
+    },
+    {
+      "album": {
         "name": "Come My Way (feat. Krayzie Bone)",
         "url": "https://open.spotify.com/album/3FjPBKW9kN5z33VYXzAeZa"
       },
@@ -1455,7 +1473,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 91685,
       "name": "Gettin Off",
       "url": "https://open.spotify.com/track/3nCSmcfVwsqYi2uCKGfTqP"
@@ -1741,7 +1759,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 180800,
       "name": "Hotbox",
       "url": "https://open.spotify.com/track/2HKv5HnXAAOoQdluLGTYMM"
@@ -2848,7 +2866,7 @@
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 159926,
       "name": "Petty Too (feat. Future)",
       "url": "https://open.spotify.com/track/0VlpgNPHWCyh8xxLcaK2fp"
     },
@@ -3375,6 +3393,24 @@
       "duration_ms": 105826,
       "name": "Spinback",
       "url": "https://open.spotify.com/track/6bsRaxW3vYniwPytZQXZB6"
+    },
+    {
+      "album": {
+        "name": "Stained Couch",
+        "url": "https://open.spotify.com/album/05LCG5oAqLSv9KnUYZc03D"
+      },
+      "artists": [
+        {
+          "name": "Bfb Da Packman",
+          "url": "https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100388,
+      "name": "Stained Couch",
+      "url": "https://open.spotify.com/track/3xF4oYMm5obes4vValfGvP"
     },
     {
       "album": {

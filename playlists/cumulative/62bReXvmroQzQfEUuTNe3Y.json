@@ -769,7 +769,7 @@
       ],
       "date_added": "2021-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 255094,
       "name": "Cocaine Model",
       "url": "https://open.spotify.com/track/6A5oBZXRtUmGqLrOhdUTHr"
@@ -2182,7 +2182,7 @@
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 146127,
       "name": "How Would It Feel",
       "url": "https://open.spotify.com/track/7mzuPw1HXwxQge1C1yUFY9"
     },
@@ -3440,7 +3440,7 @@
       "date_added": "2021-08-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 129836,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/2YK9mLBoqHBtQzJfSC4yEn"
     },
@@ -3585,7 +3585,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 231724,
       "name": "Never Give Up",
       "url": "https://open.spotify.com/track/2p0FewtVb0Y9davyTsUWOz"
@@ -4262,7 +4262,7 @@
       "date_added": "2021-10-02",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 238032,
       "name": "Road",
       "url": "https://open.spotify.com/track/6kckNpuM5oXZrObLExRg6d"
     },
@@ -4973,6 +4973,28 @@
       "duration_ms": 277681,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/2aT8QoKvwvhgx9PURO4DEP"
+    },
+    {
+      "album": {
+        "name": "Take Me Away (feat. Rico 56)",
+        "url": "https://open.spotify.com/album/6rnoI2sa1qO0UA2C0KwjGQ"
+      },
+      "artists": [
+        {
+          "name": "P.A.V",
+          "url": "https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV"
+        },
+        {
+          "name": "Rico 56",
+          "url": "https://open.spotify.com/artist/1fMQutD7EmZamY65WftFWm"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148292,
+      "name": "Take Me Away (feat. Rico 56)",
+      "url": "https://open.spotify.com/track/1xktPopalLPKqqGXKg6Y9q"
     },
     {
       "album": {
@@ -6010,6 +6032,24 @@
     },
     {
       "album": {
+        "name": "World on Fire",
+        "url": "https://open.spotify.com/album/2qTM4bE0QAxuYBA1hKg4N8"
+      },
+      "artists": [
+        {
+          "name": "Keanler",
+          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181483,
+      "name": "World on Fire",
+      "url": "https://open.spotify.com/track/68LKHOlkTt4ZPu80TsnKRA"
+    },
+    {
+      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1"
       },
@@ -6146,7 +6186,7 @@
       "date_added": "2020-09-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 163758,
       "name": "Your Man",
       "url": "https://open.spotify.com/track/6Vgtvd7I5yopJdBuxqjBd2"
     }

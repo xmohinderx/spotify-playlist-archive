@@ -4,7 +4,7 @@
 
 > Take some time out of your day to recharge your mind.
 
-93 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/5KDYphaKZ3wQd4nx3UbBU0)
+93 songs - 6 hr 58 min - [published](https://open.spotify.com/playlist/5KDYphaKZ3wQd4nx3UbBU0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Glass](https://open.spotify.com/track/1sbF3VYrVS6D3VOhZKveTy) | [Black Hills](https://open.spotify.com/artist/3xuz43sD2chPgOiDziXFKa) | [Black Gold](https://open.spotify.com/album/4nKj4eZv9OGv9BMS50mTH1) | 3:45 | 2016-08-21 |  |
 | [Glow](https://open.spotify.com/track/0LF29vtBiXGfFdLzq0dkdo) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [Chronicle](https://open.spotify.com/album/0VIxw6zt84N7sWxGzgXEOU) | 4:16 | 2016-08-21 |  |
 | [Green Arrow](https://open.spotify.com/track/43x3Mgyfiw2XZJ48quyA15) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Can Hear The Heart Beating As One](https://open.spotify.com/album/0BpCcCe0SbfFybKzo6mGOF) | 5:43 | 2016-08-21 |  |
-| [Groping The Dark](https://open.spotify.com/track/6MGhsDZgytGOK8lK2dRXNR) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Echolocations: Canyon](https://open.spotify.com/album/46rToEvrpltWPRZ0AFQAIs) | 0:29 | 2016-08-21 |  |
+| [Groping The Dark](https://open.spotify.com/track/6MGhsDZgytGOK8lK2dRXNR) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Echolocations: Canyon](https://open.spotify.com/album/46rToEvrpltWPRZ0AFQAIs) | 10:43 | 2016-08-21 |  |
 | [Heard About You Last Night](https://open.spotify.com/track/45dNWdzIqcgdJuEPRcDMHQ) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [RAVE TAPES](https://open.spotify.com/album/2fpcgO6HxWRz4u2dm3ECsH) | 5:24 | 2016-08-21 |  |
 | [Highway](https://open.spotify.com/track/7MyrEl5fQhAQ6yXkhW4UU9) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Gimme Shelter \[Original Soundtrack Album\]](https://open.spotify.com/album/3VpzLJy4rcGnQRMuBDrJyn) | 2:49 | 2016-08-21 |  |
 | [Hunting Bears](https://open.spotify.com/track/65OdRsADfMX6VInNGtuZfU) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Amnesiac \(Collector's Edition\)](https://open.spotify.com/album/7mUKceir3qJ2WeQETnvz8g) | 2:01 | 2016-08-21 |  |
@@ -64,12 +64,12 @@
 | [Leather and Lace](https://open.spotify.com/track/0w5meNXPj2syJfQSekRA2Y) | [amiina](https://open.spotify.com/artist/79MO0KcrOdScKyzuDTtI3k) | [The Lighthouse Project](https://open.spotify.com/album/6ZnyPdZT3mDvWDPWMgcnN1) | 4:04 | 2016-08-21 |  |
 | [Lemonade](https://open.spotify.com/track/1v7wst1u5aDqal0wttuwjh) | [Braids](https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i) | [Native Speaker](https://open.spotify.com/album/7gvUdQ8T5L05d0ROOsIsP1) | 6:46 | 2016-08-21 |  |
 | [Life in Technicolor](https://open.spotify.com/track/3Uwk9OS6sE5jphtvXbpHQ5) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida \(Prospekt's March Edition\)](https://open.spotify.com/album/2LIlrvVO0NP48jamVdlDo3) | 2:29 | 2016-08-21 |  |
-| [Lifetime Loop](https://open.spotify.com/track/4RRpLlbh5iV9vB7w2YstZN) | [David Augustin](https://open.spotify.com/artist/7ctSAP93mjdDwHpAN5IHwF) | [An Ecstasy of Fumbling](https://open.spotify.com/album/5BKBrLx5dwsYLeyJWQi44a) | 0:29 | 2016-08-21 |  |
-| [Lost Map / The Hawk](https://open.spotify.com/track/3wBkDs9bRmlVapJuwBsdB6) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [How I Live Now \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/08pEXTrrE2pbbmCMlFP1ZL) | 0:29 | 2016-08-21 |  |
+| [Lifetime Loop](https://open.spotify.com/track/4RRpLlbh5iV9vB7w2YstZN) | [David Augustin](https://open.spotify.com/artist/7ctSAP93mjdDwHpAN5IHwF) | [An Ecstasy of Fumbling](https://open.spotify.com/album/5BKBrLx5dwsYLeyJWQi44a) | 4:06 | 2016-08-21 |  |
+| [Lost Map / The Hawk](https://open.spotify.com/track/3wBkDs9bRmlVapJuwBsdB6) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [How I Live Now \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/08pEXTrrE2pbbmCMlFP1ZL) | 3:48 | 2016-08-21 |  |
 | [Lucid Dreaming](https://open.spotify.com/track/6XLbk1mjHyYgC0rGmRaAxs) | [Fait](https://open.spotify.com/artist/69tcDXkp7o35sdxxGQtDm9) | [Atmosphere](https://open.spotify.com/album/7tIOTUy2cCV0DWgcBR9olN) | 3:07 | 2016-08-21 |  |
 | [Manhattan](https://open.spotify.com/track/7ugrFQal2nZiEdTSuZQcsj) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Manhattan](https://open.spotify.com/album/5WK3G4b7ZltzWCcsYsRpLo) | 3:42 | 2016-08-21 |  |
 | [Neume](https://open.spotify.com/track/3ZpB85CSKqqrChl8CBBjGV) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [Cloud.Not Mountain](https://open.spotify.com/album/67a106OTwtVrltEbtJjMst) | 5:17 | 2016-08-21 |  |
-| [Nice Dream](https://open.spotify.com/track/2taOl3fvfWjMqKApl9bWgu) | [radio.string.quartet.vienna](https://open.spotify.com/artist/4ehcoSlGS3JfkExKnEXGz8) | [Radiodream](https://open.spotify.com/album/3onyEZwbFwdUQ62Lqy4naJ) | 0:29 | 2016-08-21 |  |
+| [Nice Dream](https://open.spotify.com/track/2taOl3fvfWjMqKApl9bWgu) | [radio.string.quartet.vienna](https://open.spotify.com/artist/4ehcoSlGS3JfkExKnEXGz8) | [Radiodream](https://open.spotify.com/album/3onyEZwbFwdUQ62Lqy4naJ) | 3:29 | 2016-08-21 |  |
 | [Nishe](https://open.spotify.com/track/21yJ7CyodxVIQz0EOYwsHp) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Unintended](https://open.spotify.com/album/7rVgrwaIGtV02VxLpEiNSo) | 2:45 | 2016-08-21 |  |
 | [Not Alone \- Broadchurch \- From "Broadchurch"](https://open.spotify.com/track/70x3WR1S3ZhNMmDEGrM9in) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Not Alone \- Broadchurch](https://open.spotify.com/album/5SEhIOVYtgBFQq6UqcNvMO) | 3:19 | 2016-08-21 |  |
 | [Näckrosdammen](https://open.spotify.com/track/3pQq8CJgYmnFLL35euNIxO) | [Junip](https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW) | [In Every Direction](https://open.spotify.com/album/0UEsNPHMRxHFLUuqB98L1U) | 3:40 | 2016-08-21 |  |
@@ -86,7 +86,7 @@
 | [The Chill Air \- Remastered 2004](https://open.spotify.com/track/1ijeMou08IoCT7ZhjPvu42) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Ambient 2: The Plateaux Of Mirror \(Remastered 2004\)](https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO) | 2:13 | 2016-08-21 |  |
 | [The Mark \- Interlude](https://open.spotify.com/track/6VnhAF0JxxeNAmjfU3NM0M) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [II](https://open.spotify.com/album/3slifx1g9Vqn5mbITZWrxb) | 1:36 | 2016-08-21 |  |
 | [The Meaning of Love](https://open.spotify.com/track/0tqfL9BbY7TTI68kmJrOBb) | [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Goddess](https://open.spotify.com/album/252x6axgOKxPsoNYN5Bp7d) | 5:53 | 2016-08-21 |  |
-| [The River](https://open.spotify.com/track/4eYRGgqMlqJ0Y1EwzFez4y) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [How I Live Now \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/08pEXTrrE2pbbmCMlFP1ZL) | 0:29 | 2016-08-21 |  |
+| [The River](https://open.spotify.com/track/4eYRGgqMlqJ0Y1EwzFez4y) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [How I Live Now \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/08pEXTrrE2pbbmCMlFP1ZL) | 1:50 | 2016-08-21 |  |
 | [The Snow in Kryvorivnya](https://open.spotify.com/track/4UJjf1BlFn8mqMAN9gYgq0) | [A Hawk And A Hacksaw](https://open.spotify.com/artist/6ErV6lPlwldDFGzb26sKua) | [You Have Already Gone to the Other World](https://open.spotify.com/album/07WPMhGwIyceXZBbJFs92H) | 2:57 | 2016-08-21 |  |
 | [The Sun Will Rise yet We Won't Be Here](https://open.spotify.com/track/6zuuMLP0XXtD2pOT8lKeY6) | [Heinali](https://open.spotify.com/artist/5v5c1zBRKBwkDh4sQEHcMx) | [The Sun Will Rise yet We Won't Be Here](https://open.spotify.com/album/2rqd5yrz7LiRAENIZuXXY1) | 8:23 | 2016-08-21 |  |
 | [Theme 1 \(waltz\)](https://open.spotify.com/track/4uqD36FVK1bwPFcGmIHN07) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Ballad of the Red Shoes](https://open.spotify.com/album/4JvlKnmGrNX6YgNV8JNzwz) | 1:56 | 2016-08-21 |  |

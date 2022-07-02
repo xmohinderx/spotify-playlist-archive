@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9Q01E86Ntt.md) - [plain]
 
 > The greatest works from mastermind composer Ryuichi Sakamoto
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,353 likes - 52 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,383 likes - 52 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9Q01E86Ntt.md) - [plain]
 | 23 | [Riot in Lagos](https://open.spotify.com/track/3yCPzmnmaHI3q2iI82Hi2U) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [/04](https://open.spotify.com/album/5h5d12f2X21NAyfn7XdWaw) | 4:35 |
 | 24 | [+33](https://open.spotify.com/track/50f8IbD6O9HjhzQVQ9ZP3g) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [/04](https://open.spotify.com/album/5h5d12f2X21NAyfn7XdWaw) | 5:44 |
 | 25 | [八重の桜 メインテーマ \- Playing the Orchestra Ver.](https://open.spotify.com/track/2AwA1w50cFpu6OvkL0cUVd) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [NHK大河ドラマ「八重の桜」 \(オリジナル・サウンドトラック コンプリート盤\)](https://open.spotify.com/album/2SXKwtazZVLnN6NYKt9L2R) | 2:42 |
-| 26 | [WORLD CITIZEN \-I won't be disappointed\- \- short version](https://open.spotify.com/track/5YeWWr0tzI9hzhLPE2PMjd) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [WORLD CITIZEN \-I won't be disappointed\-](https://open.spotify.com/album/5fSg0GYR6LRi33k9eg0iUM) | 0:29 |
+| 26 | [WORLD CITIZEN \-I won't be disappointed\- \- short version](https://open.spotify.com/track/5YeWWr0tzI9hzhLPE2PMjd) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [WORLD CITIZEN \-I won't be disappointed\-](https://open.spotify.com/album/5fSg0GYR6LRi33k9eg0iUM) | 3:47 |
 | 27 | [Japan](https://open.spotify.com/track/741HcBynfd6qdUIAydLBSj) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Coda](https://open.spotify.com/album/4kTsxek2lBXpTueqI37qA8) | 2:58 |
 | 28 | [美貌の青空\(Original\)](https://open.spotify.com/track/6Pr6KO5wWLBKCAZHmgZQNa) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [SMOOCHY](https://open.spotify.com/album/7oeVetwYBxgvx2uqLSrLAV) | 5:39 |
 | 29 | [Fatalism \- 坂本龍一&高橋幸宏 Remix](https://open.spotify.com/track/4j1qIS3cgfG4816UQaI2aZ) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Yukihiro Takahashi](https://open.spotify.com/artist/5Rv28BOArteQRhL8YUYgD5) | [Heligoland](https://open.spotify.com/album/47zwSXi2WmVaWcZN2VVGcq) | 4:54 |

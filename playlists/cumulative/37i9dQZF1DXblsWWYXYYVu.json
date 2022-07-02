@@ -74,7 +74,7 @@
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 204800,
       "name": "Alice",
       "url": "https://open.spotify.com/track/5sjUQ1Yj3ZjjwT3bxMwdkS"
     },
@@ -481,7 +481,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 262120,
       "name": "Hares on the Mountain",
       "url": "https://open.spotify.com/track/1YEpmYM9X9wN2kCyYVGnhe"
@@ -1206,6 +1206,24 @@
     },
     {
       "album": {
+        "name": "Pictures",
+        "url": "https://open.spotify.com/album/18CLAx0OMzkMDXpd3osLod"
+      },
+      "artists": [
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196499,
+      "name": "Pictures",
+      "url": "https://open.spotify.com/track/7cvElcxrvUMyYi5LS5rF5o"
+    },
+    {
+      "album": {
         "name": "Place We Were Made",
         "url": "https://open.spotify.com/album/1lFHYunIYd9r5R3dNVpTOT"
       },
@@ -1254,7 +1272,7 @@
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 219659,
       "name": "Pretty Blue View",
       "url": "https://open.spotify.com/track/5t9f0NGMiwHKF3D8mTWEyW"
     },
@@ -1960,7 +1978,7 @@
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 203294,
       "name": "True Love",
       "url": "https://open.spotify.com/track/7sigUoQGHreBIG14Rn7LGp"
     },

@@ -4,7 +4,7 @@
 
 > Soundtrack your 2022 resolutions with Demi Bagby.
 
-37 songs - 2 hr 19 min - [published](https://open.spotify.com/playlist/1CfVo623JNzPTPDIRxZ1qv)
+37 songs - 2 hr 21 min - [published](https://open.spotify.com/playlist/1CfVo623JNzPTPDIRxZ1qv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Takeaway](https://open.spotify.com/track/3g0mEQx3NTanacLseoP0Gw) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [World War Joy](https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD) | 3:29 | 2022-01-12 |  |
 | [Takes My Body Higher \(feat\. Lincoln Jesser\)](https://open.spotify.com/track/5QqxR3xORg3aSEKG2y9rhm) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG), [Lincoln Jesser](https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG) | [Takes My Body Higher \(feat\. Lincoln Jesser\)](https://open.spotify.com/album/25XTGO6OhEr9OCURO6HpTW) | 4:11 | 2022-01-12 |  |
 | [The Middle](https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [The Middle](https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c) | 3:04 | 2022-01-12 |  |
-| [The Weekend \- Funk Wav Remix](https://open.spotify.com/track/0P6AWOA4LG1XOctzaVu5tt) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [The Weekend \(Funk Wav Remix\)](https://open.spotify.com/album/5enEsi887wD3qGoMCK4jLr) | 0:29 | 2022-01-12 |  |
+| [The Weekend \- Funk Wav Remix](https://open.spotify.com/track/0P6AWOA4LG1XOctzaVu5tt) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [The Weekend \(Funk Wav Remix\)](https://open.spotify.com/album/5enEsi887wD3qGoMCK4jLr) | 2:51 | 2022-01-12 |  |
 | [Thief](https://open.spotify.com/track/5Ce9z7GqSknXccyppRxNLY) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Thief](https://open.spotify.com/album/1TEDJMksfymmVbEpa3pG26) | 3:59 | 2022-01-12 |  |
 | [Toluca Lake \- Imad Remix](https://open.spotify.com/track/4EdNY3scTlTbGpwGlbjfyg) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8), [Imad](https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU) | [Toluca Lake \(Imad Remix\)](https://open.spotify.com/album/1yNt1F49ZPZn8HBCtBWAG2) | 3:00 | 2022-01-12 |  |
 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 | 2022-01-12 |  |

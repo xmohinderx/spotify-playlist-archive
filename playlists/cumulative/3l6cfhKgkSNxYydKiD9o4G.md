@@ -4,7 +4,7 @@
 
 > 
 
-36 songs - 2 hr 19 min - [published](https://open.spotify.com/playlist/6vAmIlG2BJpn1wCHkxgCmC)
+36 songs - 2 hr 23 min - [published](https://open.spotify.com/playlist/6vAmIlG2BJpn1wCHkxgCmC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [One Of These Days \- 2011 Remastered Version](https://open.spotify.com/track/7t6iW9FZVJH7wSH8HKYcC2) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle \(2011 Remastered Version\)](https://open.spotify.com/album/397UShovgBCMVxbnDXMjUN) | 5:54 | 2013-06-20 |  |
 | [Pipeline](https://open.spotify.com/track/7Fb5YJcmP1McOwYZQCVRT7) | [Johnny Thunders](https://open.spotify.com/artist/421A23lYymEUE6SozCfWbr) | [So Alone](https://open.spotify.com/album/1RUZkUP7Fj7vqbfQaNjBZC) | 2:23 | 2013-06-20 |  |
 | [Running Wild](https://open.spotify.com/track/3JfhiZTYKfxRBCKzZ6FBi8) | [Tindersticks](https://open.spotify.com/artist/3dmSPhg0tdao8ePj4pySJ5) | [Waiting for the Moon](https://open.spotify.com/album/76fOMh0SVhDXHqspDFMhua) | 4:14 | 2013-06-20 |  |
-| [Shuck Dub](https://open.spotify.com/track/0NRR0GRi0N2kcZ9KOvyWoB) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Come On In](https://open.spotify.com/album/0yI1kMsqFqVOaH8TsyhsPu) | 0:29 | 2013-06-20 |  |
+| [Shuck Dub](https://open.spotify.com/track/0NRR0GRi0N2kcZ9KOvyWoB) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Come On In](https://open.spotify.com/album/0yI1kMsqFqVOaH8TsyhsPu) | 4:28 | 2013-06-20 |  |
 | [Sing Sing Sing](https://open.spotify.com/track/3Di2TlQTlq3LkxOtEp3e8D) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [Kings of Swing, Vol\. 1](https://open.spotify.com/album/5ROWPc0iH8pchIlDddb8fL) | 8:46 | 2013-06-20 |  |
 | [State Trooper](https://open.spotify.com/track/5GxFIuDvl2Y73HfhQyWTXA) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska](https://open.spotify.com/album/6mNCZrmp1UcSeUxMJLEBfH) | 3:13 | 2013-06-20 |  |
 | [The Blues Is My Business](https://open.spotify.com/track/2A68kpC1WW3S4suklKc7Rv) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last \- The Best Of](https://open.spotify.com/album/5EkJv3BGd1YesMGQlE35ci) | 3:32 | 2013-06-20 |  |

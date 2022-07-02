@@ -4,7 +4,7 @@
 
 > Latin music making waves\. Cover: Jenn Morel
 
-107 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/0zMa04VYLgYObHIDHZsMot)
+107 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/0zMa04VYLgYObHIDHZsMot)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Si Tu Quieres](https://open.spotify.com/track/3yC4gzNRrycuufTcRPSRx2) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Si Tu Quieres](https://open.spotify.com/album/6uRf20wqSSfYmjwSC6wuYT) | 2:49 | 2022-02-18 | 2022-06-03 |
 | [Si Veo a Tu Mama](https://open.spotify.com/track/2tf7mh67EHpNwlYaXV7jfz) | [Rauli V](https://open.spotify.com/artist/1TyllKWCaozGr3Ytrw95FG) | [Renditions](https://open.spotify.com/album/6dixzwmH9yxhoEzn43lwVa) | 2:53 | 2022-02-18 | 2022-06-01 |
 | [Sigue y Sigue](https://open.spotify.com/track/35orhhCkn3yT4Ijbb9gdxA) | [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Sigue y Sigue](https://open.spotify.com/album/2UyuskfWq1BFbUKutvE3jS) | 2:26 | 2022-06-02 |  |
-| [Sin Aire](https://open.spotify.com/track/4m93OTJad26zWgEFprZICX) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Sin Aire](https://open.spotify.com/album/4NA7ABRbQr0hgnmmJXWjBd) | 0:29 | 2022-02-18 |  |
+| [Sin Aire](https://open.spotify.com/track/4m93OTJad26zWgEFprZICX) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Sin Aire](https://open.spotify.com/album/4NA7ABRbQr0hgnmmJXWjBd) | 2:00 | 2022-02-18 |  |
 | [Sister 2 Sister](https://open.spotify.com/track/2nSancXdw3xATmlG1X6Ts0) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Spell 31](https://open.spotify.com/album/6STKW3SGtdk3Gy2QrDuO5m) | 3:15 | 2022-06-02 |  |
 | [Sky Walker \- Spanish Version](https://open.spotify.com/track/4Jyv7sW01crlVLoNbbBhOg) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sky Walker \(Spanish Version\)](https://open.spotify.com/album/10mIDi29wQw0dbRH83seWe) | 3:10 | 2022-02-18 | 2022-06-03 |
 | [Sola](https://open.spotify.com/track/3pFvfrF9ye3Cn97rcZZv3q) | [Ghetto Kumbé](https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3) | [Ghetto Kumbé](https://open.spotify.com/album/0eqlUfZMwPxebIrelMJZVe) | 4:15 | 2022-02-18 | 2022-06-03 |

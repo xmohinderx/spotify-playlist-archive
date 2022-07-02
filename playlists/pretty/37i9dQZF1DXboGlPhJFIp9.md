@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboGlPhJFIp9.md) - [plain]
 
 > The calming and pensive side of electric guitar\. Instrumental only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,811 likes - 81 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,832 likes - 81 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [let the reins go](https://open.spotify.com/track/6edZwX23WcUDbKx9VOxC1Z) | [flower water](https://open.spotify.com/artist/2q0V4ngQ2LJ3gVS5lVW5Ww) | [kind of wind](https://open.spotify.com/album/47Pzq0DT4akwlF9DowYtc6) | 3:15 |
-| 2 | [Taylor](https://open.spotify.com/track/5e9j1O0uzn49EYU5JswarF) | [Joe Castle](https://open.spotify.com/artist/5QPm2OdKelGlQ0OKgvT78z) | [Reflections](https://open.spotify.com/album/34DSq25KJCQJ7tlOhVfeLE) | 0:29 |
+| 2 | [Taylor](https://open.spotify.com/track/5e9j1O0uzn49EYU5JswarF) | [Joe Castle](https://open.spotify.com/artist/5QPm2OdKelGlQ0OKgvT78z) | [Reflections](https://open.spotify.com/album/34DSq25KJCQJ7tlOhVfeLE) | 3:07 |
 | 3 | [Wagonside](https://open.spotify.com/track/4Tb2hOoWV5c6Xe8CcI2sUP) | [Arpwatch](https://open.spotify.com/artist/4QWzCQdSl0I35LnBIN5Lmr) | [Rotations](https://open.spotify.com/album/1yyulWBUveBEnszGh0Zseu) | 3:18 |
 | 4 | [Hold My Hand](https://open.spotify.com/track/4yf9GHCVO6VyY6q9yl2LvI) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [It's Not in Vain](https://open.spotify.com/album/5vgSuONhdEqvHfp6C0ge8u) | 2:42 |
 | 5 | [cold start](https://open.spotify.com/track/1oRYeH614gcXBYZMjjvnOz) | [RRST](https://open.spotify.com/artist/3nPrEz2yxxCTnR2yPHiFo6) | [cold start](https://open.spotify.com/album/50bVrDOjalJh8BlPpsNHYZ) | 2:32 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboGlPhJFIp9.md) - [plain]
 | 29 | [just jump](https://open.spotify.com/track/4M0sEJzmZoQy2hcvCbfEHp) | [Jens Wenig](https://open.spotify.com/artist/4U52OGCZcwbncL3VCuvk2r) | [into bloom](https://open.spotify.com/album/5ZRzmKDXIhbAfCCBo4Zfts) | 3:10 |
 | 30 | [One Fine Day](https://open.spotify.com/track/1TzWtETf8eo588fqJllZ4Y) | [Tip Tam](https://open.spotify.com/artist/2WeojxFCkGinfmkmpsi8B9) | [Flowcade](https://open.spotify.com/album/7GmBggUFdYbYHQErF6EzLi) | 2:38 |
 | 31 | [Heavy Sun](https://open.spotify.com/track/3Qpwi2wStbfsZBmULlVFpS) | [Appletrove](https://open.spotify.com/artist/0FkbvhIhFy46IGyR4Ah1Pd) | [Sometimes I Wish](https://open.spotify.com/album/64swfOKUaHH7FCD7QdEBnW) | 2:49 |
-| 32 | [Sway](https://open.spotify.com/track/1ECfMFb5v2sjl1kKBQg9do) | [Fambray](https://open.spotify.com/artist/4478Bpo6m6FSvsaANFykYp) | [Meandering Ghosts](https://open.spotify.com/album/6p8V58htpFLS0iPkiv1yyY) | 2:32 |
+| 32 | [Sway](https://open.spotify.com/track/1ECfMFb5v2sjl1kKBQg9do) | [Fambray](https://open.spotify.com/artist/4478Bpo6m6FSvsaANFykYp) | [Meandering Ghosts](https://open.spotify.com/album/6p8V58htpFLS0iPkiv1yyY) | 0:29 |
 | 33 | [Over the Highlands](https://open.spotify.com/track/0YnGWHjeqvBxbdf1T2RXbM) | [Stim Rush](https://open.spotify.com/artist/6oauPLbeRb1ShwhY7dzRUn) | [Expanse](https://open.spotify.com/album/5To2yLp2nIg7TZ11RGc9Ho) | 3:10 |
 | 34 | [Count Me In](https://open.spotify.com/track/1BHe1rqxhkVlJctZQ9nzIY) | [Thoughtlines](https://open.spotify.com/artist/7g04f5dUBMBNO7jdBrBZfR) | [Electric Hearts](https://open.spotify.com/album/0oz8kXBIk0xIMrylycgwPs) | 3:00 |
 | 35 | [Youngblood](https://open.spotify.com/track/6o5J6cSMaL5Eawyj5kcPNj) | [Smith/Hill](https://open.spotify.com/artist/7HBGJDqgtjAhCnoFpZzFDS) | [Youngblood](https://open.spotify.com/album/31UVKQURguKgZxV4rED6Gc) | 3:12 |

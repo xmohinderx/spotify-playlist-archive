@@ -4,7 +4,7 @@
 
 > Classic folk, bluegrass, country blues, and spirituals, along with some recent songs that have a traditional vibe.
 
-48 songs - 2 hr 28 min - [published](https://open.spotify.com/playlist/4Jo19HBA4ixNDiU0S9aYdZ)
+48 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/4Jo19HBA4ixNDiU0S9aYdZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Return to Darden Road](https://open.spotify.com/track/357UvGGqSiIezy31Vo5T9q) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Seven Sisters \(Deluxe Edition\)](https://open.spotify.com/album/3MK1qd5wxqbi7S2CJVwBi1) | 3:21 | 2014-03-20 |  |
 | [Run Around](https://open.spotify.com/track/66ZSRYPKVUOTsir8855Xvx) | [Austin Lucas](https://open.spotify.com/artist/2xXNqL807BAunM2FdmAixU) | [A New Home In The Old World](https://open.spotify.com/album/0rYuSSusgSd5wR18oDsPUx) | 2:53 | 2014-03-20 |  |
 | [Shenandoah \- with Keith Richards](https://open.spotify.com/track/7kSMtEHQ9fIPsmrQtj5SnY) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Son Of Rogues Gallery: Pirate Ballads, Sea Songs & Chanteys](https://open.spotify.com/album/1uU1qkM6WRnwLGIDYVYKP4) | 4:02 | 2014-03-20 |  |
-| [Strawberry Roan](https://open.spotify.com/track/2DeYIGCgDVliOlUD0BDVVn) | [Dave Stamey](https://open.spotify.com/artist/1RcznpTY0WgHLYFgpDMwh4) | [Campfire Waltz](https://open.spotify.com/album/6kSNmVoXjd8PIWWDxrfEJV) | 0:29 | 2014-03-20 |  |
+| [Strawberry Roan](https://open.spotify.com/track/2DeYIGCgDVliOlUD0BDVVn) | [Dave Stamey](https://open.spotify.com/artist/1RcznpTY0WgHLYFgpDMwh4) | [Campfire Waltz](https://open.spotify.com/album/6kSNmVoXjd8PIWWDxrfEJV) | 3:29 | 2014-03-20 |  |
 | [Swanno Mountain](https://open.spotify.com/track/54a8wvCRamd5ZXZpFR9lRm) | [Roscoe Holcomb](https://open.spotify.com/artist/7JZ7Ok3UaKmZmD5otFfcY3) | [An Untamed Sense of Control](https://open.spotify.com/album/2aahFDSJKQc8CeqRDbtrmT) | 3:17 | 2014-03-20 |  |
 | [That Year](https://open.spotify.com/track/5RtIFveFctGcvO1J9wVStV) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Give Up The Ghost](https://open.spotify.com/album/1NhFksWs1Nsz6wQI8ysTkv) | 3:35 | 2014-03-20 |  |
 | [The Ballad of Casey Jones](https://open.spotify.com/track/2c2oQjNd2nTVQ4LdE0pOmg) | [Buck Johnsen & The Wild Ones](https://open.spotify.com/artist/6S5aqaNYkgtD0k6l9ajxzb) | [Out of the Blue](https://open.spotify.com/album/0zcOicloARCbkgw13UxoVd) | 4:02 | 2014-03-20 |  |
@@ -52,7 +52,7 @@
 | [The Way It Goes](https://open.spotify.com/track/2DaNTEBubgB541HTbGEssJ) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [The Harrow & The Harvest](https://open.spotify.com/album/7d43Lo04zus42vyadC3Izr) | 4:01 | 2014-03-20 |  |
 | [This Land is Your Land](https://open.spotify.com/track/7CNaYAdLyi86kofGafReiT) | [Woody Guthrie](https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1) | [The Asch Recordings, Vol\. 1\-4](https://open.spotify.com/album/0QfX3caqG3gvfY1Kal2tlQ) | 2:19 | 2014-03-20 |  |
 | [Tom Dula](https://open.spotify.com/track/7pIuX8kYgWu3lfi0RyUM9C) | [Carolina Chocolate Drops](https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz) | [Dona Got a Ramblin' Mind](https://open.spotify.com/album/2oXZFTTybB7V9u0Cr42DA7) | 3:29 | 2014-03-20 |  |
-| [Wayfarin' Stranger](https://open.spotify.com/track/2OvYoehlbU1emq4xQnLqkf) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [Crazy Horse](https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3) | [Americana](https://open.spotify.com/album/1VfoJdwAjt5vbcg8TuczNY) | 0:29 | 2014-03-20 |  |
+| [Wayfarin' Stranger](https://open.spotify.com/track/2OvYoehlbU1emq4xQnLqkf) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [Crazy Horse](https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3) | [Americana](https://open.spotify.com/album/1VfoJdwAjt5vbcg8TuczNY) | 3:06 | 2014-03-20 |  |
 | [We Shall Overcome](https://open.spotify.com/track/1jhEkutY7aEmRD8rRvm5eR) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Around the Campfire](https://open.spotify.com/album/2iGp6aL5TSPT0GQDsxJB7l) | 4:04 | 2014-03-20 |  |
 | [What Did The Deep Sea Say](https://open.spotify.com/track/4Hov0sFRfIddEvja8cbOpK) | [Dave Alvin](https://open.spotify.com/artist/1QSEKTN8PPjVzniAkpJ90p) | [Public Domain: Songs From The Wild Land](https://open.spotify.com/album/76WKbpZUN6T17SAQBY172S) | 3:01 | 2014-03-20 |  |
 | [Wildwood Flower](https://open.spotify.com/track/0nr7SuSNymfeyfe09ozVsu) | [A\. P\. Carter](https://open.spotify.com/artist/3x1B1NQJKJTIVT18k7bKQ7), [Sara Carter](https://open.spotify.com/artist/59Au2ho6KTcJoeAMPxlv18), [Maybelle Carter](https://open.spotify.com/artist/1aX2I47Hjh8XlMBFFKcqJ3) | [The Carter Family 1927 \- 1934 Disc A](https://open.spotify.com/album/1wqOIP0VTdkRHp9fhKdyO9) | 3:10 | 2014-03-20 |  |

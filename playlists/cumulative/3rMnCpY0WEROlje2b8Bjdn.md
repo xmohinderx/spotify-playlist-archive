@@ -4,7 +4,7 @@
 
 > 
 
-69 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/1CTOGgkHZPQvAZKeWvqGIq)
+69 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/1CTOGgkHZPQvAZKeWvqGIq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Lost Your Head Blues](https://open.spotify.com/track/62I7Nz0DQbkwlsfNs7PXnG) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Very Best Of](https://open.spotify.com/album/3KcmMl1uSPLtkLZ8TjwQVX) | 2:57 | 2013-06-10 |  |
 | [Miami](https://open.spotify.com/track/0jt0E7L3kTjNNKJPQkz1YK) | [Al Jolson](https://open.spotify.com/artist/197mLk2Z62k4tvGxDL1pOa) | [Legends](https://open.spotify.com/album/7LaYbeB0SrSQVHI2va0bjT) | 2:37 | 2013-06-10 |  |
 | [Mojo Strut \(c\. 12\-26\)](https://open.spotify.com/track/2Ka6xqBNTs5k7ByYxGHia9) | [Tiny Parham](https://open.spotify.com/artist/4cTA31F2VpSG0GhcWmtvor) | [Complete Jazz Series 1926 \- 1929](https://open.spotify.com/album/5VeXEZCpzMBPnyEXMAyYm5) | 2:55 | 2013-06-10 |  |
-| [Muskrat Ramble](https://open.spotify.com/track/0F8OunV7ZzNolYkdFTQoGM) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Jazz Men](https://open.spotify.com/album/73U6QTKivtWv0Bv8nLbE5n) | 0:29 | 2013-06-10 |  |
+| [Muskrat Ramble](https://open.spotify.com/track/0F8OunV7ZzNolYkdFTQoGM) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Jazz Men](https://open.spotify.com/album/73U6QTKivtWv0Bv8nLbE5n) | 2:33 | 2013-06-10 |  |
 | [My Brand New Papa](https://open.spotify.com/track/0waW1eIfLylBU9UVkfjHDG) | [Clara Smith](https://open.spotify.com/artist/2It5hXbGPFBNCCJQQr7iHH) | [Clara Smith Vol\. 4 \(1926\-1927\)](https://open.spotify.com/album/2eC4pYFZHVtq8Lpdmb2m85) | 3:19 | 2013-06-10 |  |
 | [My Castle in Spain](https://open.spotify.com/track/57YuphOlG7gB8vhwhDAuuq) | [Isham Jones And His Orchestra](https://open.spotify.com/artist/1hAB05TXiiOAD8pzZ3L1j1) | [Song of the Blues](https://open.spotify.com/album/51bSVlJCnHY20UQs6Ta6xc) | 3:03 | 2013-06-10 |  |
 | [New Wang Wang Blues \(09\-17\-26\)](https://open.spotify.com/track/3eXSOqWmSdQQCSpNhZ8Eut) | [King Oliver](https://open.spotify.com/artist/24PJRbYtu3Cq5CuF24c1QZ) | [Complete Jazz Series 1926 \- 1928](https://open.spotify.com/album/27qVZ594YEkUp8ifGWD29B) | 2:57 | 2013-06-10 |  |

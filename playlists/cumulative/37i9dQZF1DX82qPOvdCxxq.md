@@ -4,7 +4,7 @@
 
 > Go deep in discovery for great new songs of faith and inspiration\. Cover: Becca Bradley
 
-50 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/5f5nzHVSRoG5ROI8VWQOvj)
+50 songs - 3 hr 41 min - [published](https://open.spotify.com/playlist/5f5nzHVSRoG5ROI8VWQOvj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Believe](https://open.spotify.com/track/4HZymwMOjMQ6dDNCYvQ4eb) | [E2 Worship](https://open.spotify.com/artist/35Tb0WfK5zOw3bqWHetFeE) | [Believe](https://open.spotify.com/album/2nUa9LepKPT5Myeq83J2tp) | 5:15 | 2021-02-12 |  |
 | [Blessed.](https://open.spotify.com/track/4A5eegXZx6Bb4tnfza5Wiq) | [Conceptz](https://open.spotify.com/artist/2EqEcWQJAWmfOvs1xlW7GE) | [Blessed.](https://open.spotify.com/album/1DlOXOqfYGWCWEjXNRb0xM) | 3:02 | 2021-02-12 |  |
 | [Champion](https://open.spotify.com/track/2LZWEKYD2W5Bd4cPwfzuC2) | [ZVK](https://open.spotify.com/artist/0ynKD5JYcp1pd9zLLqGzt0), [Tychie](https://open.spotify.com/artist/5ysQlIaKJnMqj5haxYpKpN) | [Champion](https://open.spotify.com/album/0wCdbFPQEMJLUxvrDhMgDY) | 4:56 | 2021-02-12 |  |
-| [Collide](https://open.spotify.com/track/6teXAe3jjyrye9rcpKgvSp) | [Antioch Cape Town](https://open.spotify.com/artist/2LSZm1g2gXfZlChtSZVTvx) | [Holy Roar](https://open.spotify.com/album/6V9BKbaGCtz7zyhxNJ1c3u) | 6:20 | 2021-02-12 |  |
+| [Collide](https://open.spotify.com/track/6teXAe3jjyrye9rcpKgvSp) | [Antioch Cape Town](https://open.spotify.com/artist/2LSZm1g2gXfZlChtSZVTvx) | [Holy Roar](https://open.spotify.com/album/6V9BKbaGCtz7zyhxNJ1c3u) | 0:29 | 2021-02-12 |  |
 | [Control of My Life](https://open.spotify.com/track/2kKKS3ZjdTbrYAWHq4SMBL) | [Edu Linares](https://open.spotify.com/artist/3unyXg4kPMCsKrn8cboutD), [Alien Music](https://open.spotify.com/artist/1oNotkalFlNy3InH3lrI06), [Sofia Villalba](https://open.spotify.com/artist/4GRZZETHU6sZ7bgLIYYwKx) | [Control of My Life](https://open.spotify.com/album/7gFAw4ZZXhxpnqqj5PXxvs) | 3:11 | 2021-02-12 |  |
 | [Deepest Part of You](https://open.spotify.com/track/7kKOQeNAFSHTihMD3jj1l6) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Deepest Part of You](https://open.spotify.com/album/4XZh5i7ww2bYwnbQczUfrE) | 3:07 | 2021-02-12 |  |
 | [Even Louder \(Spontaneous\) \- Live](https://open.spotify.com/track/31r3D1fQPyHvYnDSgNXWVm) | [The Church Will Sing](https://open.spotify.com/artist/0TfWxv8ygT7qBnqxqyYige) | [Even Louder \(Spontaneous\) \[Live\]](https://open.spotify.com/album/4RFvIjXutsFtMcLCQ0jhn2) | 7:08 | 2021-02-12 |  |
@@ -31,7 +31,7 @@
 | [God is Good](https://open.spotify.com/track/5RpjuJlOl5geMH4FFDzKCY) | [Kathleen Carnali](https://open.spotify.com/artist/16uWurkegZQxAeKSQ0IHKr) | [God Is Good \(Single\)](https://open.spotify.com/album/1JySNWP57ehfW5HfutPwsf) | 3:56 | 2021-02-12 |  |
 | [God of My Soul](https://open.spotify.com/track/6ptsmS7Cq639PRd4VvDCST) | [Psalm](https://open.spotify.com/artist/0ieSrH9PNNvCvSz3x5Fsew), [Bryann Trejo](https://open.spotify.com/artist/2TGwlNX2Mb4ANNVIYF2BXk) | [Deathproof](https://open.spotify.com/album/2yoPuSRR30qrDbtGV5oCpY) | 4:13 | 2021-02-12 |  |
 | [Grave Digger](https://open.spotify.com/track/6jwc4eHtQo2jlHOYnG07ls) | [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Grave Digger](https://open.spotify.com/album/0MgJ8Ns32yLtgUXSteD4Ft) | 4:16 | 2021-02-12 |  |
-| [Great Is the Hope](https://open.spotify.com/track/7AsO6COcAbqjRxEcVZ7Arb) | [North Coast Church](https://open.spotify.com/artist/2O8REwWdtzkvKvBqjd1ijb) | [Great Is the Hope](https://open.spotify.com/album/4LQsFZlwX8gwlSRuCH1GUh) | 0:29 | 2021-02-12 |  |
+| [Great Is the Hope](https://open.spotify.com/track/7AsO6COcAbqjRxEcVZ7Arb) | [North Coast Church](https://open.spotify.com/artist/2O8REwWdtzkvKvBqjd1ijb) | [Great Is the Hope](https://open.spotify.com/album/4LQsFZlwX8gwlSRuCH1GUh) | 4:47 | 2021-02-12 |  |
 | [Heart](https://open.spotify.com/track/5DmjuTfP9NeOqV9USaid6v) | [Isaiah William](https://open.spotify.com/artist/6HR7LwzhMQSgmBbUcdGJFc) | [Heart](https://open.spotify.com/album/5uGox3vtKqSOnrSZFCpfoe) | 5:05 | 2021-02-12 |  |
 | [How Deep the Father's Love for Us](https://open.spotify.com/track/5X1ty3YswK6QwHYzg58pKO) | [Jeremy Moore](https://open.spotify.com/artist/6ENcD6rUAiliA2XXi0PY4d) | [How Deep the Father's Love for Us](https://open.spotify.com/album/3d4R9BzQa1qklEvw4elM0Z) | 3:11 | 2021-02-12 |  |
 | [I feel you](https://open.spotify.com/track/3VhgxVfFdhN9acDTwaxf5D) | [Trigo](https://open.spotify.com/artist/27C9nRPcL8knUGGww20rW1), [Black Dillinger](https://open.spotify.com/artist/6MPyzSI31XLs2GWVXD5sr7) | [I feel you](https://open.spotify.com/album/48sBFXGpXfS9di0zhB0tc8) | 3:33 | 2021-02-12 |  |

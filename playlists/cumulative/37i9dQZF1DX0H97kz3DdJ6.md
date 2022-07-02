@@ -4,7 +4,7 @@
 
 > as mais tristes do brasil
 
-73 songs - 3 hr 21 min - [published](https://open.spotify.com/playlist/4ADBfixRHFwffrKYoekmv1)
+73 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/4ADBfixRHFwffrKYoekmv1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,17 +45,17 @@
 | [Eu Tô Bem](https://open.spotify.com/track/5HR0ti4siqbTIr1BitbZ7d) | [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0) | [Eu Tô Bem](https://open.spotify.com/album/4uoVTixtQcytRqPUZ0qBKE) | 2:14 | 2022-05-20 |  |
 | [Fim do Dia](https://open.spotify.com/track/1gIqYVNx0tKaKYf0LAZ2Mu) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [Fim do Dia](https://open.spotify.com/album/1RvaZRpmC03BbhFaS6hGJa) | 2:39 | 2022-05-20 |  |
 | [Fragmentado](https://open.spotify.com/track/2rq3atuTm26XTjbnTDWtti) | [Nasac](https://open.spotify.com/artist/6g5b2tgMUMnb51tZ8Z3Tby), [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h) | [Fragmentado](https://open.spotify.com/album/0fOi6D7J5ySn7S3NbB3SQN) | 2:00 | 2022-05-20 |  |
-| [Game Over](https://open.spotify.com/track/3K4ob6HwtPzya2X1uAi4vs) | [Preto & Branco](https://open.spotify.com/artist/0gozYYUszYsIkCyzGAOM9d), [Dudu Pacceli](https://open.spotify.com/artist/5O6LBBltqS4jHn90iy85Bj) | [Game Over](https://open.spotify.com/album/4Zn8bqwMPMU8Aeose3mnJt) | 0:29 | 2022-05-20 |  |
+| [Game Over](https://open.spotify.com/track/3K4ob6HwtPzya2X1uAi4vs) | [Preto & Branco](https://open.spotify.com/artist/0gozYYUszYsIkCyzGAOM9d), [Dudu Pacceli](https://open.spotify.com/artist/5O6LBBltqS4jHn90iy85Bj) | [Game Over](https://open.spotify.com/album/4Zn8bqwMPMU8Aeose3mnJt) | 2:57 | 2022-05-20 |  |
 | [Indecisão](https://open.spotify.com/track/3F1WYsocwVRRBg5z1So0Uj) | [K8TIE](https://open.spotify.com/artist/4E60gF2h5In3yPiP7actgA), [Najjuu](https://open.spotify.com/artist/44zNCSENkAVHJ5jZlmzMys) | [Indecisão](https://open.spotify.com/album/0Cxryz8Lzqe5Tnm0AwQ3En) | 2:38 | 2022-05-20 |  |
 | [Isso Não É um Desabafo](https://open.spotify.com/track/53jDwzRyOzxOncQGnraKcU) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8), [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h) | [Isso \(Não\) É um Desabafo](https://open.spotify.com/album/1Te6WZEIRuqHR2eukOnmr4) | 2:43 | 2022-05-20 |  |
-| [Juro](https://open.spotify.com/track/46CGL339JEgS7LPv7zscpA) | [Augus7o](https://open.spotify.com/artist/78iJtzui4jnlK1KsDnlykz) | [Juro](https://open.spotify.com/album/007chL0LwceNlirR0nZVqO) | 0:29 | 2022-05-20 |  |
+| [Juro](https://open.spotify.com/track/46CGL339JEgS7LPv7zscpA) | [Augus7o](https://open.spotify.com/artist/78iJtzui4jnlK1KsDnlykz) | [Juro](https://open.spotify.com/album/007chL0LwceNlirR0nZVqO) | 3:39 | 2022-05-20 |  |
 | [Madrugada Fria](https://open.spotify.com/track/3EStz3jCq7hbfsKHl6K6iO) | [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Madrugada Fria](https://open.spotify.com/album/3FBYAIJEp1HIefkzPcTj4l) | 2:38 | 2022-05-20 |  |
 | [marte](https://open.spotify.com/track/5na5GPlpl7Kzb4hkiMqhiF) | [Leborato](https://open.spotify.com/artist/22YKiuRdkpMJ0yKO550zIq) | [marte](https://open.spotify.com/album/5Vqnlm59yl2ZHno48OaFnp) | 2:38 | 2022-05-20 |  |
 | [Me Deixe Sumir](https://open.spotify.com/track/3CBipIZlGVKFmEA3PhfhOl) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Me Deixe Sumir](https://open.spotify.com/album/0wBFtJxxSoh06TID6OFtrl) | 3:37 | 2022-05-20 |  |
 | [Me Sinto Feio](https://open.spotify.com/track/3gNq7VguwQLV4Xfj5HDAi3) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Me Sinto Feio](https://open.spotify.com/album/2YtiZtDUwFhK84M5RVW6gj) | 3:09 | 2022-05-20 |  |
 | [Melodias](https://open.spotify.com/track/6qBC2vH4DWjmcqfxF9uR3b) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [SaraH](https://open.spotify.com/artist/3NkF2WYP1E10LDHlukuLbW), [Dracko](https://open.spotify.com/artist/6gOq16KSO2ORGiVS7yDZHY) | [Melodias](https://open.spotify.com/album/31DMhYfPerQqXFxJEZMXdk) | 2:45 | 2022-05-20 |  |
 | [Mentiras](https://open.spotify.com/track/3Spub8dfTQ7ctrWjW1PlQ1) | [Jade Olie](https://open.spotify.com/artist/4pDmJqugegEQyqRepTEQE0) | [Mentiras](https://open.spotify.com/album/5gJVCufz4RmRfD9jKuFMUv) | 3:04 | 2022-05-20 |  |
-| [Meu Caos](https://open.spotify.com/track/0y2YZTZeGNwnYITMsXwZSw) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [Atlas Oficial](https://open.spotify.com/artist/43PE2zF3EaEl4yhXXdY3Og) | [Meu Caos](https://open.spotify.com/album/5AWgyZNiqRoK1WoRAW3ZXK) | 0:29 | 2022-05-20 |  |
+| [Meu Caos](https://open.spotify.com/track/0y2YZTZeGNwnYITMsXwZSw) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [Atlas Oficial](https://open.spotify.com/artist/43PE2zF3EaEl4yhXXdY3Og) | [Meu Caos](https://open.spotify.com/album/5AWgyZNiqRoK1WoRAW3ZXK) | 3:25 | 2022-05-20 |  |
 | [Monstro](https://open.spotify.com/track/0TGN193dpJ5dg9YOk1oCAR) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF) | [Monstro](https://open.spotify.com/album/6ejBYCdgc2II7gwAmFKxnW) | 3:36 | 2022-05-20 |  |
 | [Nunca Vaza](https://open.spotify.com/track/0vxAsQ83Uca0tTczrx257Q) | [Gabziim](https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6) | [Nunca Vaza](https://open.spotify.com/album/18qlFy0abmSI3OzPvLRlep) | 2:29 | 2022-05-20 |  |
 | [Não sei o que você viu em mim](https://open.spotify.com/track/1YkJXJGTkKYgKlvdOkgkr0) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Kourah](https://open.spotify.com/artist/0ZZjUA7WDQGjBN416iSBae) | [Não sei o que você viu em mim](https://open.spotify.com/album/0yD3aNHrXCYFYUfuNjOIbm) | 2:16 | 2022-05-20 |  |

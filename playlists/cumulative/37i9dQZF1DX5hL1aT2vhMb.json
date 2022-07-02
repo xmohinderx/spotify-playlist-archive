@@ -536,7 +536,7 @@
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 370346,
       "name": "For Airi",
       "url": "https://open.spotify.com/track/1qEJ1pHXVtuMTeHPvk0hMS"
     },
@@ -790,7 +790,7 @@
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 307893,
       "name": "Nonet in E-Flat Major, Op. 38: III. Scherzo. Vivace",
       "url": "https://open.spotify.com/track/2z7iDr3N4NbW4VmwpQWbTS"
     },
@@ -946,7 +946,7 @@
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 183346,
       "name": "Preludium c-moll",
       "url": "https://open.spotify.com/track/2DlnfCf3ECnhcMySe1IPmu"
     },
@@ -1102,7 +1102,7 @@
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 286266,
       "name": "String poetic: II. Nocturne",
       "url": "https://open.spotify.com/track/1D5AWyG2oOk42eQFdLN1bK"
     },
@@ -1221,6 +1221,32 @@
       "duration_ms": 566573,
       "name": "Symphony No. 3 in G Minor, Op. 36: II. Adagio cantabile",
       "url": "https://open.spotify.com/track/4caRxA3WAlAgD9Y2kqsRc5"
+    },
+    {
+      "album": {
+        "name": "Emilie Mayer: Symphonies Nos. 6 & 3",
+        "url": "https://open.spotify.com/album/4aafrVnSjSZZwh8Efmw2B6"
+      },
+      "artists": [
+        {
+          "name": "Emilie Mayer",
+          "url": "https://open.spotify.com/artist/4zkusum5eZdIObW4RHOkIh"
+        },
+        {
+          "name": "Philharmonisches Orchester Bremerhaven",
+          "url": "https://open.spotify.com/artist/5u08wVG2M2CiOn5XaMihZ4"
+        },
+        {
+          "name": "Marc Niemann",
+          "url": "https://open.spotify.com/artist/5AeeHjsoomHicj1ImSDFUZ"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 864413,
+      "name": "Symphony No. 6 in E Major: I. Adagio - Allegro con spirito",
+      "url": "https://open.spotify.com/track/5PNE2h3eBgjdNA97JreMeM"
     },
     {
       "album": {

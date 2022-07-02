@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2d96NZvM6U7G14LDQdNfwS.md) - [plain]
 
 > SXSW has deep roots in Austin\. Get a sense of the city and all its sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 651 likes - 41 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 651 likes - 41 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/2d96NZvM6U7G14LDQdNfwS.md) - [plain]
 | 13 | [Are You Alright?](https://open.spotify.com/track/28EK7qsobexG3NJRrTE4tc) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [West](https://open.spotify.com/album/3bA55G1u1MJfdWDKW2hf8K) | 5:18 |
 | 14 | [Bitch, I Love You](https://open.spotify.com/track/6XxsaUGWRXc30HgewJ10M8) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/album/090X467JS4xj4diMdewTZs) | 2:44 |
 | 15 | [Good Intentions](https://open.spotify.com/track/6HIgrafXhn0z5ZycQIkf0E) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [The Lights From The Chemical Plant](https://open.spotify.com/album/0aqTGYTiTZwpTerC1KRGER) | 2:47 |
-| 16 | [Lost Coastlines](https://open.spotify.com/track/2016zoJ6TxYzqjwQNMh3kw) | [Okkervil River](https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY) | [The Stand Ins](https://open.spotify.com/album/4iyJdf6kUi1QrnluWY0GfQ) | 0:29 |
+| 16 | [Lost Coastlines](https://open.spotify.com/track/2016zoJ6TxYzqjwQNMh3kw) | [Okkervil River](https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY) | [The Stand Ins](https://open.spotify.com/album/4iyJdf6kUi1QrnluWY0GfQ) | 5:31 |
 | 17 | [Summertime](https://open.spotify.com/track/7hPTKT0j7mEn9lBKerFtit) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Take To The Sky](https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2) | 5:12 |
 | 18 | [Punk as Fuck](https://open.spotify.com/track/6FcGBRTiMQMAY7g6xquoxg) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know by Heart](https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S) | 4:09 |
 | 19 | [\(Is Anybody Going To\) San Antone \- Single Version](https://open.spotify.com/track/5jbfC3A4ZfNIxAfWDQV3Vy) | [Doug Sahm](https://open.spotify.com/artist/2PL6uHCPVIWjmr6lK2U9pG) | [Doug Sahm And His Band](https://open.spotify.com/album/79bYMSm2LIp9yDh5heqhtB) | 3:09 |

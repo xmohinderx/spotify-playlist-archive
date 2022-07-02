@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2wqwH7uKckoLe7UVTx1RfO.md) - [plain]
 
 > Coast through the good life with these folksy and blissed out tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,709 likes - 78 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,708 likes - 78 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/2wqwH7uKckoLe7UVTx1RfO.md) - [plain]
 | 8 | [Riptide](https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:24 |
 | 9 | [Sweet Disposition](https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Conditions](https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt) | 3:50 |
 | 10 | [Happy When You Go](https://open.spotify.com/track/16CywUzxIuuuGBdcS2xJkf) | [Banfi](https://open.spotify.com/artist/0yfI8sEHeH1cZBrTEIHATo) | [Happy When You Go](https://open.spotify.com/album/1JbSjCJjEkMAj04VfcGb3Q) | 3:22 |
-| 11 | [Lost Coastlines](https://open.spotify.com/track/2016zoJ6TxYzqjwQNMh3kw) | [Okkervil River](https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY) | [The Stand Ins](https://open.spotify.com/album/4iyJdf6kUi1QrnluWY0GfQ) | 0:29 |
+| 11 | [Lost Coastlines](https://open.spotify.com/track/2016zoJ6TxYzqjwQNMh3kw) | [Okkervil River](https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY) | [The Stand Ins](https://open.spotify.com/album/4iyJdf6kUi1QrnluWY0GfQ) | 5:31 |
 | 12 | [Best Day Of My Life](https://open.spotify.com/track/5k31cAfP8yymw8v0AYQIjr) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Best Day Of My Life](https://open.spotify.com/album/3KEPRnqIELnO99csbeizVy) | 3:14 |
 | 13 | [Back To You](https://open.spotify.com/track/0ZuBuUl61M7jg9m1dABtJx) | [Twin Forks](https://open.spotify.com/artist/6GwNGuDRNbx5XwoHQA3QiD) | [EP](https://open.spotify.com/album/6Cj5uvUSXYaGlY3Jz3TdeX) | 2:50 |
 | 14 | [Little Numbers](https://open.spotify.com/track/5aUG1uGIUyehIJhT9ZgHU2) | [BOY](https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX) | [Little Numbers](https://open.spotify.com/album/2fUDoGacwjrK7zVFEQ60yG) | 3:39 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/2wqwH7uKckoLe7UVTx1RfO.md) - [plain]
 | 17 | [Budapest](https://open.spotify.com/track/7q0aQpiLv5tIsupcgQ3Ny4) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage](https://open.spotify.com/album/7L4ZwpSwKQCerDQv9C4O1M) | 3:20 |
 | 18 | [Shut Up and Dance](https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 3:19 |
 | 19 | [Jackie and Wilson](https://open.spotify.com/track/0PywzrV955BnXDC8FHAf0n) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:43 |
-| 20 | [Celeste](https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste EP](https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt) | 0:29 |
+| 20 | [Celeste](https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste EP](https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt) | 3:23 |
 | 21 | [Spirits](https://open.spotify.com/track/0VhDlpezWuAgOnfOCx2fRv) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Spirits](https://open.spotify.com/album/6YObUrJfBLhs4f2vfRMzqD) | 3:23 |
 | 22 | [Fall Together](https://open.spotify.com/track/1Bf2irDnxISWx1dsQIVnUP) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Fall Together](https://open.spotify.com/album/5fCbkbFxBacQ0WfR7p1w9S) | 3:20 |
 | 23 | [Chateau Lobby \#4 \(in C for Two Virgins\)](https://open.spotify.com/track/4KmylOc7EVRfTfy6OImJPX) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [I Love You, Honeybear](https://open.spotify.com/album/7buEcyw6fJF3WPgr06BomH) | 2:50 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/2wqwH7uKckoLe7UVTx1RfO.md) - [plain]
 | 27 | [Fell In Love With A Girl](https://open.spotify.com/track/33ytgjBqchYHhhRfKWMCvH) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6ivqUxtSPTljd9Frfdyxbg) | 1:50 |
 | 28 | [Digital Witness](https://open.spotify.com/track/5L16tlSHNt93RiiRiCc8ya) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [St\. Vincent](https://open.spotify.com/album/2CJnMhwEEkS8R1ctgt5llf) | 3:22 |
 | 29 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 |
-| 30 | [The Walker](https://open.spotify.com/track/0Nk7bSn0MItonkR0GNs3mj) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream \(Deluxe Edition\)](https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK) | 0:29 |
+| 30 | [The Walker](https://open.spotify.com/track/0Nk7bSn0MItonkR0GNs3mj) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream \(Deluxe Edition\)](https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK) | 3:53 |
 | 31 | [Elevate](https://open.spotify.com/track/5BxVRqpZi6tIhAap1ZjzVD) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [When The Night](https://open.spotify.com/album/7fbye8EAeiLsiKAe2upMEh) | 5:08 |
 | 32 | [Reflections](https://open.spotify.com/track/3rniDk4qfZKvo6U4qiWROi) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Reflections](https://open.spotify.com/album/3d7x5nrXiNbOuzubUq1yVH) | 3:08 |
 | 33 | [Just Our Style](https://open.spotify.com/track/0RKtiYWRTP3Ze0lhNQDegm) | [Wayfarers](https://open.spotify.com/artist/2ITSMMQkSxMMULKrwOFY3V) | [Just Our Style](https://open.spotify.com/album/3ZJKwvzl6ePz3APzPaCgQM) | 2:44 |

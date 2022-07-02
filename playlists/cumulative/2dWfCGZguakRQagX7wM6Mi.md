@@ -4,7 +4,7 @@
 
 > Stay tuned for a fresh mix of flashback hits! This week, party like it's 1999!
 
-50 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/2GkwX1ftJXERWKzcFnaUVH)
+50 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/2GkwX1ftJXERWKzcFnaUVH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,12 +12,12 @@
 | [...Baby One More Time](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:31 | 2016-04-16 |  |
 | [All I Have to Give](https://open.spotify.com/track/3hlhefxgyp4MDnN6C2dQ5H) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 4:36 | 2016-04-16 |  |
 | [All Star](https://open.spotify.com/track/19fm0eNKTeg1JbHCHwPhLe) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [All Star Smash Hits](https://open.spotify.com/album/2UQrm3KoMSJ16a2PTUlx2E) | 3:20 | 2016-04-16 |  |
-| [Angel](https://open.spotify.com/track/6a12yrkah2Fs6FQ8QCdFfP) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Closer: The Best Of Sarah McLachlan \(Deluxe Version\)](https://open.spotify.com/album/3RfooZA6Pvw8odFuOvnjhB) | 0:29 | 2016-04-16 |  |
+| [Angel](https://open.spotify.com/track/6a12yrkah2Fs6FQ8QCdFfP) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Closer: The Best Of Sarah McLachlan \(Deluxe Version\)](https://open.spotify.com/album/3RfooZA6Pvw8odFuOvnjhB) | 4:30 | 2016-04-16 |  |
 | [Angel of Mine](https://open.spotify.com/track/1AM1o0mKbgAK5oMpY8B3Z7) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [The Boy Is Mine](https://open.spotify.com/album/6mIyViyBHV4eoQqI4JZByh) | 4:10 | 2016-04-16 |  |
 | [Bailamos](https://open.spotify.com/track/2bbeNsFmjZqdoDhjLsKNWe) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique](https://open.spotify.com/album/183XphT974zDxwM5QxETET) | 3:34 | 2016-04-16 |  |
 | [Believe](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:59 | 2016-04-16 |  |
 | [Bills, Bills, Bills](https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 4:16 | 2016-04-16 |  |
-| [Can I Get A...](https://open.spotify.com/track/4LGMSdeKOUoy5Wf75Je0Hl) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Amil](https://open.spotify.com/artist/6NzM38IkXdbQsQ4qW9CG7z), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6) | [Vol.2..\. Hard Knock Life](https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb) | 0:29 | 2016-04-16 |  |
+| [Can I Get A...](https://open.spotify.com/track/4LGMSdeKOUoy5Wf75Je0Hl) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Amil](https://open.spotify.com/artist/6NzM38IkXdbQsQ4qW9CG7z), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6) | [Vol.2..\. Hard Knock Life](https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb) | 5:09 | 2016-04-16 |  |
 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/2Uu8IiLkLY0UXhCHka4Dlr) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/2Uc0HAF0Cj0LAgyzYZX5e3) | 5:20 | 2016-04-16 |  |
 | [Every Morning \- Remastered](https://open.spotify.com/track/6Neq7tjnknt4URNI8txFL4) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [The Best Of Sugar Ray](https://open.spotify.com/album/2hjQQj7x2YipViOCw6UX1N) | 3:40 | 2016-04-16 |  |
 | [Fly Away](https://open.spotify.com/track/0n0eMsX7WgEtc7dlscbuKU) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Greatest Hits](https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv) | 3:41 | 2016-04-16 |  |
@@ -53,7 +53,7 @@
 | [That Don't Impress Me Much](https://open.spotify.com/track/0KvLsZYwodakWxOQUYAR5I) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/0vOj0JVKv2bobFBBUTjgQF) | 3:58 | 2016-04-16 |  |
 | [The Hardest Thing](https://open.spotify.com/track/7EEdDKopE2INq8y1sOZuhU) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [The Collection](https://open.spotify.com/album/5J0kPrSHVGdNhPNpNmi981) | 4:34 | 2016-04-16 |  |
 | [Unpretty](https://open.spotify.com/track/0BUoLE4o9eVahDHvTqak67) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 4:38 | 2016-04-16 |  |
-| [What It's Like \[Explicit Version\]](https://open.spotify.com/track/1WgfNvPhqJQHfu2ewqnkl3) | [Everlast](https://open.spotify.com/artist/14ZxDAK6ITtZZqPdiWrvSn) | [Whitey Ford Sings The Blues \[Explicit\]](https://open.spotify.com/album/6IQmWJTawuzWees9oVQ3Zm) | 0:29 | 2016-04-16 |  |
+| [What It's Like \[Explicit Version\]](https://open.spotify.com/track/1WgfNvPhqJQHfu2ewqnkl3) | [Everlast](https://open.spotify.com/artist/14ZxDAK6ITtZZqPdiWrvSn) | [Whitey Ford Sings The Blues \[Explicit\]](https://open.spotify.com/album/6IQmWJTawuzWees9oVQ3Zm) | 5:03 | 2016-04-16 |  |
 | [What's It Gonna Be?! \(feat\. Janet Jackson\)](https://open.spotify.com/track/0FpLfrOyHblbDlHUsrPN1N) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Extinction Level Event: The Final World Front](https://open.spotify.com/album/4zb4gmGzDYtlWMjmc1NZWW) | 5:24 | 2016-04-16 |  |
 | [Where My Girls At](https://open.spotify.com/track/4VSyH8AkIt3kaR5xIPFVVi) | [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo) | [702](https://open.spotify.com/album/6PELMehRtCwGXXyFS0fLKR) | 2:46 | 2016-04-16 |  |
 | [Who Dat](https://open.spotify.com/track/2rbb3lOMI71NIMbJCS1wQQ) | [JT Money](https://open.spotify.com/artist/1pJhCUTEZhR4nYeemYlkVz) | [Pimpin' On Wax](https://open.spotify.com/album/47hDRYMv9yCkQV0svP9GFP) | 3:51 | 2016-04-16 |  |

@@ -4,7 +4,7 @@
 
 > Relax in the shade and uncover the best new underground folk and rising Americana.
 
-25 songs - 1 hr 27 min - [published](https://open.spotify.com/playlist/33Dtuj74rL8fGjasTxfod2)
+25 songs - 1 hr 30 min - [published](https://open.spotify.com/playlist/33Dtuj74rL8fGjasTxfod2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [No Name](https://open.spotify.com/track/1cpWGt7UeDsMQN8jirFUbI) | [Tula](https://open.spotify.com/artist/2rt1lA3wAA26HkcPjJtdlH) | [No Name](https://open.spotify.com/album/5RLyocbIEjUgUzcZiSjthz) | 5:12 | 2015-03-18 |  |
 | [Old Hearts Reborn](https://open.spotify.com/track/3OTN6XgJ9ktum5SUIRFzhn) | [Hidden Highways](https://open.spotify.com/artist/4HDogokKoBHPXY8Oztwfqy) | [Old Hearts Reborn](https://open.spotify.com/album/65fmHrkD2cMJSu18tXFmGn) | 4:29 | 2015-03-18 |  |
 | [Possumhaw](https://open.spotify.com/track/6IXNFFijF1gmQrxPFyyrS2) | [Joseph LeMay](https://open.spotify.com/artist/3BRHUE4Ml0PKrgZ5EjVtxf) | [Seventeen Acres](https://open.spotify.com/album/2gHqNCEbiiYGoE8WAEkFZf) | 4:11 | 2015-03-18 |  |
-| [Psalms](https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9) | [Vudu Sister](https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8) | [Bastard Children](https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG) | 0:29 | 2015-03-18 |  |
+| [Psalms](https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9) | [Vudu Sister](https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8) | [Bastard Children](https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG) | 3:40 | 2015-03-18 |  |
 | [Queensbury Shuffle](https://open.spotify.com/track/7rMMmxOuD0TaR8dozMGhyy) | [The Dwells](https://open.spotify.com/artist/6QCV8iyUTalBQmONetrKWI) | [Don't Ever Leave Me Like You Do](https://open.spotify.com/album/1UOjsnBomCXCTuSpag0T17) | 3:13 | 2015-03-18 |  |
 | [Snow](https://open.spotify.com/track/7u4i1AB1qcnpdEq3UkeLnM) | [Wyvern Lingo](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN) | [The Widow Knows E.P.](https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe) | 4:11 | 2015-03-18 |  |
 | [Take This Body](https://open.spotify.com/track/77WfmtG1bMlAkh2cpO8zpO) | [Gill Landry](https://open.spotify.com/artist/3HQmd0s1eohI3OA4VPd8rh) | [Gill Landry](https://open.spotify.com/album/3CVg2b9nNk7R5w6qQ7REJR) | 4:52 | 2015-03-18 |  |

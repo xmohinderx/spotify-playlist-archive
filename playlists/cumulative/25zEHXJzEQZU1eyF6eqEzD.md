@@ -4,7 +4,7 @@
 
 > A rich, mellow blend of hits to see you through your most productive days and cozy nights.
 
-65 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/1gvp4Z6MVwROvI4CdD1I5Z)
+65 songs - 4 hr 0 min - [published](https://open.spotify.com/playlist/1gvp4Z6MVwROvI4CdD1I5Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Solving Problems](https://open.spotify.com/track/3PqsztdeFo2l5m4ND9eV1D) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Solving Problems](https://open.spotify.com/album/3OCAo9BH5a1YtqD2Y8kwa5) | 2:34 | 2016-08-17 |  |
 | [Somehow](https://open.spotify.com/track/77CNLILe76SEGnaHJcOOhd) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Somehow](https://open.spotify.com/album/7GcgFuDrWVO1HwVRHI8HjD) | 6:51 | 2016-08-17 |  |
 | [Straight Time](https://open.spotify.com/track/4gupPromYvaSQaiawbtbgH) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Ghost Of Tom Joad](https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl) | 3:25 | 2016-08-17 |  |
-| [Sullivan Street](https://open.spotify.com/track/48kKgJhyOHAQffNXtV7YEK) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [August And Everything After](https://open.spotify.com/album/3Eli3WxEALRUBF06CvcDtV) | 0:29 | 2016-08-17 |  |
+| [Sullivan Street](https://open.spotify.com/track/48kKgJhyOHAQffNXtV7YEK) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [August And Everything After](https://open.spotify.com/album/3Eli3WxEALRUBF06CvcDtV) | 4:29 | 2016-08-17 |  |
 | [Sun Tomorrow](https://open.spotify.com/track/6T97p73YEfYN77MRVcEPdc) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [Honest](https://open.spotify.com/album/00ZcKI8FsAB47BfFFNwEYx) | 5:25 | 2016-08-17 |  |
 | [Sunny Days](https://open.spotify.com/track/2FYfpstPNRnnN6D28byznU) | [Anna Elizabeth Laube](https://open.spotify.com/artist/6O0rWDT0LuZk9Cpe45kbcx) | [Tree](https://open.spotify.com/album/3pALJvtTxIm5i1aYlaZDnA) | 2:16 | 2016-09-28 |  |
 | [Sunrise](https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:20 | 2016-08-17 |  |

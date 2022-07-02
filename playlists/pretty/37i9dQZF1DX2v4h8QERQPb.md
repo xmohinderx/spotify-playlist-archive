@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Trueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,681 likes - 99 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,761 likes - 99 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny) | 0:29 |
+| 1 | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny) | 2:26 |
 | 2 | [MANIFIESTO FREESTYLE](https://open.spotify.com/track/3TaK5hftxlrp38Gt0wAPq4) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [MANIFIESTO FREESTYLE](https://open.spotify.com/album/2xiR9BHSrYTogEJvEo4nVY) | 2:42 |
 | 3 | [CANGURO](https://open.spotify.com/track/4wyNKAZe82BNlp2lHiR1FX) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [CANGURO](https://open.spotify.com/album/7EFoBWXYfQ6QmA5wsxjl4s) | 3:16 |
 | 4 | [BIEN O MAL](https://open.spotify.com/track/4n0MBJuHpZ9dnD1BtsOIxB) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 2:56 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 24 | [Tengo Sed](https://open.spotify.com/track/3acTJvD1eCLOBfBG4hAbfe) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm) | [Tengo Sed](https://open.spotify.com/album/1qBiq07wvvO6W8fsuoz2UE) | 2:28 |
 | 25 | [PELOTUDA](https://open.spotify.com/track/5jq68GFT3eBI341pgT5Zwh) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [PELOTUDA](https://open.spotify.com/album/7ttTUSFx4HqlALyCqqOxDP) | 3:05 |
 | 26 | [Basura](https://open.spotify.com/track/0cYBYOIh4MBfqKTJLW7l7B) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA) | [Basura](https://open.spotify.com/album/3i7rjEauwC9KmXiMsyS5U1) | 2:20 |
-| 27 | [Ahora Me Toca a Mi](https://open.spotify.com/track/7jMqM4CMNu2JFRXs2xHfOt) | [Klan](https://open.spotify.com/artist/7flslx3D22tWYKvoChQX8o) | [Ahora Me Toca a Mi](https://open.spotify.com/album/1wAIdJeAqWrXhcaHAMykLM) | 0:29 |
+| 27 | [Ahora Me Toca a Mi](https://open.spotify.com/track/7jMqM4CMNu2JFRXs2xHfOt) | [Klan](https://open.spotify.com/artist/7flslx3D22tWYKvoChQX8o) | [Ahora Me Toca a Mi](https://open.spotify.com/album/1wAIdJeAqWrXhcaHAMykLM) | 2:16 |
 | 28 | [Malas Vistas](https://open.spotify.com/track/01A48XpjWFsdh3iF7mC37N) | [Fianru](https://open.spotify.com/artist/6RAj8Czs5jmwbbXU7r2SmW) | [Paterna09](https://open.spotify.com/album/4LY7eHDCFXfdL7IrW72Q7L) | 3:33 |
 | 29 | [2 Gramos](https://open.spotify.com/track/4b3bC2qVLpBmsQXoOPCB1R) | [Fazzini](https://open.spotify.com/artist/0UgMoItq2HrVT6sRUF9ouY), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Always](https://open.spotify.com/album/5A6Dg5sCDSjW26RNkRYMmV) | 2:50 |
 | 30 | [Disciplina](https://open.spotify.com/track/7kL7d77orEOY6oZZMSjk0J) | [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr), [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [Ambición y Disciplina](https://open.spotify.com/album/6byABFFo15jmymFmdBR8zb) | 3:32 |

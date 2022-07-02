@@ -4,7 +4,7 @@
 
 > 2022 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: 龔敬文 \(KUNG\)
 
-174 songs - 10 hr 19 min - [published](https://open.spotify.com/playlist/4F7NjOso9HiGHjthWcrZL4)
+174 songs - 10 hr 25 min - [published](https://open.spotify.com/playlist/4F7NjOso9HiGHjthWcrZL4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Santé](https://open.spotify.com/track/0Ykbr3QGOHAYmuX5BIk1ig) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [A Bedroom of One's Own](https://open.spotify.com/album/106w7wcRpHY8hqHhajG3nb) | 3:34 | 2022-01-20 |  |
 | [Satellite \(feat\. 李佳歡\)](https://open.spotify.com/track/7onWLCs10ymbRjd5DWnNcq) | [Apio](https://open.spotify.com/artist/6uuzm4DlmoSw9XCePLWRIv), [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [Un271](https://open.spotify.com/album/0muV1QnzaWEH3JI3pDEPG6) | 3:52 | 2022-06-30 |  |
 | [Soggy](https://open.spotify.com/track/1xX6bPNSdjpHiJTDRt2rOy) | [翁靖堯yao](https://open.spotify.com/artist/6i8TiylkUFKqXajJM69a7N) | [Soggy](https://open.spotify.com/album/196bfmnRG1paG7aplcJoWj) | 3:12 | 2022-03-24 | 2022-04-22 |
-| [Soufflé](https://open.spotify.com/track/6m7h2pLpDVSGFFFfFBS2VL) | [許光漢](https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv) | [許光漢](https://open.spotify.com/album/3w2vtxAWKHXvLRIaS5LITp) | 0:29 | 2022-01-13 |  |
+| [Soufflé](https://open.spotify.com/track/6m7h2pLpDVSGFFFfFBS2VL) | [許光漢](https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv) | [許光漢](https://open.spotify.com/album/3w2vtxAWKHXvLRIaS5LITp) | 3:10 | 2022-01-13 |  |
 | [Stay](https://open.spotify.com/track/58xBxGyRUuoRIaKUsjmKoh) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC) | [UU&U](https://open.spotify.com/album/78XT5si8Zp3XhRQEiPZ1pr) | 3:26 | 2022-06-23 |  |
 | [Strawberry](https://open.spotify.com/track/6G7o4jAd4EYFH0GDviT4lj) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [Strawberry](https://open.spotify.com/album/6Svok47SrVCMuGxIeV0m3M) | 2:33 | 2022-02-17 | 2022-04-22 |
 | [Summer Party](https://open.spotify.com/track/1jMfT6oXPPabXkhKPQVqen) | [NEKO Highway](https://open.spotify.com/artist/2qO2tbo4OI29yMSM3WJ0bX) | [Summer Party](https://open.spotify.com/album/5LOBB4evIAoG0mHfPSouKF) | 3:07 | 2021-12-30 | 2022-02-11 |
@@ -126,7 +126,7 @@
 | [我陪你好嗎 \- bilibili & Disney《正義的算法》插曲](https://open.spotify.com/track/0dkP7JE3rTjiPhNIuNVAPz) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [我陪你好嗎 \(bilibili & Disney《正義的算法》插曲\)](https://open.spotify.com/album/77Iijl8ZaBdEdlREnaHMjM) | 3:29 | 2022-06-23 |  |
 | [戰](https://open.spotify.com/track/0rV6J7qM31GxU9p4Mf7gBd) | [吳霏](https://open.spotify.com/artist/2q5HrJWKwU4iHaTTSKGZC4) | [戰](https://open.spotify.com/album/2pwg7cIxiYOc2M5lBoCEAq) | 2:40 | 2022-03-31 | 2022-06-17 |
 | [挨你一枪](https://open.spotify.com/track/2pYc1VfhWKv1vzOgrJEdgS) | [NEKO Highway](https://open.spotify.com/artist/2qO2tbo4OI29yMSM3WJ0bX) | [挨你一枪](https://open.spotify.com/album/7jwuZcuW6pK95pUTa06gxi) | 3:51 | 2022-02-03 | 2022-04-08 |
-| [揣摩](https://open.spotify.com/track/2iVgPTx2uGBwHzre52clg3) | [許光漢](https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv) | [許光漢](https://open.spotify.com/album/3w2vtxAWKHXvLRIaS5LITp) | 0:29 | 2022-01-20 |  |
+| [揣摩](https://open.spotify.com/track/2iVgPTx2uGBwHzre52clg3) | [許光漢](https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv) | [許光漢](https://open.spotify.com/album/3w2vtxAWKHXvLRIaS5LITp) | 3:51 | 2022-01-20 |  |
 | [景美](https://open.spotify.com/track/1jSX6c7mL2hcJVPWuNpUwL) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK) | [景美](https://open.spotify.com/album/41lFXP12zmvOQy6ziL2uPj) | 3:35 | 2022-05-12 |  |
 | [最美的風景 \(feat\. 莫宰羊\)](https://open.spotify.com/track/3LkITiONSVW8eWhruHhiDJ) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9), [莫宰羊](https://open.spotify.com/artist/2yN7qnZbV8krGJEB16nUOe) | [最美的風景 \(feat\. 莫宰羊\)](https://open.spotify.com/album/0oM9cYr2l14guScjTsMIKX) | 3:17 | 2022-02-17 | 2022-04-15 |
 | [有些](https://open.spotify.com/track/3V2v19gDm4rmRkMwcgS4X2) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [失眠症候群](https://open.spotify.com/album/1XD00QTaV6BAcPdsmGzyyN) | 3:49 | 2022-01-06 | 2022-03-11 |

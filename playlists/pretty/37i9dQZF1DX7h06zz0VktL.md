@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7h06zz0VktL.md) - [plain]
 
 > All E.L.F's go to playlist! A brand new album is here! Listen to The Renaissance!
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,266 likes - 128 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,318 likes - 128 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7h06zz0VktL.md) - [plain]
 | 28 | [More Days with You](https://open.spotify.com/track/4UcsdzPYKdfdateRyROTQM) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Renaissance \- The 10th Album](https://open.spotify.com/album/3qyzxavqOfixEPDfFCEMlH) | 4:13 |
 | 29 | [Tell Me Baby](https://open.spotify.com/track/7GEM1YF2cr4nbZbaYMKIyP) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Renaissance \- The 10th Album](https://open.spotify.com/album/3qyzxavqOfixEPDfFCEMlH) | 3:09 |
 | 30 | [The Melody](https://open.spotify.com/track/5FqgslYHEkv51KtapyWsBZ) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Melody](https://open.spotify.com/album/749XA133WWzUmG03OCSqFn) | 3:11 |
-| 31 | [Daystar](https://open.spotify.com/track/6HcNz2K1JVXb1xgMAD93og) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Daystar](https://open.spotify.com/album/0EOLOmGmGxtLntJpB2SxMu) | 0:29 |
+| 31 | [Daystar](https://open.spotify.com/track/6HcNz2K1JVXb1xgMAD93og) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Daystar](https://open.spotify.com/album/0EOLOmGmGxtLntJpB2SxMu) | 3:58 |
 | 32 | [No Love](https://open.spotify.com/track/5mMqlFlWJNAApggUOEfYDn) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [BAD LIAR \- The 4th Mini Special Album](https://open.spotify.com/album/0ExK4LxhnukLaSgbmwITmj) | 3:19 |
 | 33 | [B.A.D](https://open.spotify.com/track/3VJtASWPj2bu8aGL8cvtss) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [BAD BLOOD \- The 4th Mini Album](https://open.spotify.com/album/5c4Hq6RUECnCJi4zEVV5ta) | 3:20 |
 | 34 | [Starry Night \(With RYEOWOOK\) \- Korean Version](https://open.spotify.com/track/25N2hsST4tGyBmSMl3WgG8) | [ZHOUMI](https://open.spotify.com/artist/2xrUYKqC1VxHd16IiPxOUH), [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [Starry Night](https://open.spotify.com/album/15i3akpJ3pSEdIS2mwnXT5) | 3:56 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7h06zz0VktL.md) - [plain]
 | 38 | [I Can’t](https://open.spotify.com/track/3PiOKHrhVdy5waPHcIbsz2) | [SUPER JUNIOR\-K.R.Y.](https://open.spotify.com/artist/5Kdp1Iq26eCz7XbPxOgt7F) | [When We Were Us \- The 1st Mini Album](https://open.spotify.com/album/0iUESqGVBginzy7gCYMvt2) | 3:53 |
 | 39 | [Home](https://open.spotify.com/track/1XLyluVDscGSqz9dItoxzV) | [SUPER JUNIOR\-K.R.Y.](https://open.spotify.com/artist/5Kdp1Iq26eCz7XbPxOgt7F) | [When We Were Us \- The 1st Mini Album](https://open.spotify.com/album/0iUESqGVBginzy7gCYMvt2) | 3:54 |
 | 40 | [Midnight Story](https://open.spotify.com/track/6mvSl6ZE7rFjXFP8cQm64o) | [SUPER JUNIOR\-K.R.Y.](https://open.spotify.com/artist/5Kdp1Iq26eCz7XbPxOgt7F) | [When We Were Us \- The 1st Mini Album](https://open.spotify.com/album/0iUESqGVBginzy7gCYMvt2) | 3:06 |
-| 41 | [All Day Long](https://open.spotify.com/track/1EGggFwIQwciGlo803CQ83) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [When the Weather is fine OST Part.3](https://open.spotify.com/album/2HK3bKkHIAp1XcdKb1L5jI) | 0:29 |
+| 41 | [All Day Long](https://open.spotify.com/track/1EGggFwIQwciGlo803CQ83) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [When the Weather is fine OST Part.3](https://open.spotify.com/album/2HK3bKkHIAp1XcdKb1L5jI) | 4:48 |
 | 42 | [2YA2YAO!](https://open.spotify.com/track/7iQTGSIl9m4jofHBGby9kZ) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [TIMELESS \- The 9th Album Repackage](https://open.spotify.com/album/32o8mUN1uID4VlBUrsCN2f) | 3:20 |
 | 43 | [The Crown](https://open.spotify.com/track/5bHTRBY6iFbok6xm6dP4HH) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [TIMELESS \- The 9th Album Repackage](https://open.spotify.com/album/32o8mUN1uID4VlBUrsCN2f) | 3:39 |
 | 44 | [Ticky Tocky](https://open.spotify.com/track/5D0Gpis3u5V6Qm2PPvti18) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [TIMELESS \- The 9th Album Repackage](https://open.spotify.com/album/32o8mUN1uID4VlBUrsCN2f) | 3:31 |

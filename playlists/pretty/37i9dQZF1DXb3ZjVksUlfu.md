@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 
 > The defining alternative hits from a decade that changed music\. Cover: David Bowie
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,317 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,524 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 | 16 | [Teenage Kicks](https://open.spotify.com/track/16jUJ4RsmyQG8z3clJuUaz) | [The Undertones](https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt) | [The Undertones \(30th Anniversary Edition\)](https://open.spotify.com/album/1alUMzp8loodnpZkPdsP81) | 2:28 |
 | 17 | [Sheena Is a Punk Rocker \- 2001 Remaster](https://open.spotify.com/track/2UnY8ApZT4roi66n1LDAil) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rocket to Russia \(Expanded 2005 Remaster\)](https://open.spotify.com/album/7J4f5lG898uHHGVOpNzD2I) | 2:49 |
 | 18 | [Ça Plane Pour Moi](https://open.spotify.com/track/7bx4zW72qdZKBb8p6g80jb) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P) | [Ça Plane Pour Moi](https://open.spotify.com/album/6bv0t7P61aPvCjgbqMZk0V) | 2:59 |
-| 19 | [Immigrant Song \- Remaster](https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 0:29 |
+| 19 | [Immigrant Song \- Remaster](https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 2:26 |
 | 20 | [Virginia Plain](https://open.spotify.com/track/5ZgNecJcN9SSopnmCTlpXs) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Roxy Music](https://open.spotify.com/album/4KjUgJn22cmBRQC0AHcjI3) | 2:58 |
 | 21 | [This Town Ain't Big Enough For Both Of Us](https://open.spotify.com/track/5FTbeZMbUgKfaSaCN8bY09) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [Kimono My House](https://open.spotify.com/album/4jwO7dt0trrGu0ozSVNRgo) | 3:05 |
 | 22 | [Cars](https://open.spotify.com/track/6HZ67VImxqr8aMBEEhblzf) | [Gary Numan](https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE) | [The Pleasure Principle](https://open.spotify.com/album/6wHjdKs7VVPVcqaHRzwqJt) | 3:58 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 | 27 | [Cool For Cats](https://open.spotify.com/track/4wZSxAXLNRFfQ0yyaCvHei) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [Cool For Cats](https://open.spotify.com/album/1WWmLNVao1zR1wf9YZDb08) | 3:39 |
 | 28 | [Rock Lobster](https://open.spotify.com/track/0rme3FLbw5o1KLXpJzivjS) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [B\-52's](https://open.spotify.com/album/4VcKXOCUzcrxltYt0Jyqfk) | 6:52 |
 | 29 | [Lucky Number](https://open.spotify.com/track/0kqFlkmfvKzQ4QSmx5PZ1A) | [Lene Lovich](https://open.spotify.com/artist/1yFJnlNMiBUBplMaOP5CMX) | [Stateless](https://open.spotify.com/album/5qz97wcq8cv3LRLpJr9noR) | 2:51 |
-| 30 | [Make Me Smile \(Come up and See Me\)](https://open.spotify.com/track/6cFaRahEaLyew4ATx1QaUx) | [Steve Harley](https://open.spotify.com/artist/3dS8rLINyM7EYuMXryXJym), [Steve Harley & Cockney Rebel](https://open.spotify.com/artist/6EL5GD53kaaVgJCHgdtdLz) | [Face to Face \(A Live Recording\)](https://open.spotify.com/album/5SzaD6YBaGzFFBl50JBlhL) | 0:29 |
+| 30 | [Make Me Smile \(Come up and See Me\)](https://open.spotify.com/track/6cFaRahEaLyew4ATx1QaUx) | [Steve Harley](https://open.spotify.com/artist/3dS8rLINyM7EYuMXryXJym), [Steve Harley & Cockney Rebel](https://open.spotify.com/artist/6EL5GD53kaaVgJCHgdtdLz) | [Face to Face \(A Live Recording\)](https://open.spotify.com/album/5SzaD6YBaGzFFBl50JBlhL) | 6:44 |
 | 31 | [The Eton Rifles \- Single Edit](https://open.spotify.com/track/1Qb2f8cDXorwKTbY0nQ0IH) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [Setting Sons \(Deluxe\)](https://open.spotify.com/album/3tKtB5gTaPvjOCfgF8UTo2) | 3:28 |
 | 32 | [Germ Free Adolescents](https://open.spotify.com/track/1aMxqU4b59JT5Y9Wtyusis) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents: The Anthology](https://open.spotify.com/album/0eafkMUkZUVKr02M9F4te9) | 3:14 |
 | 33 | [All the Young Dudes](https://open.spotify.com/track/0WNGPpmWqzPnk0psUhJ3SX) | [Mott The Hoople](https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6) | [All The Young Dudes \(Expanded Edition\)](https://open.spotify.com/album/3LdlOZcV0dp7ePBXe2KAGa) | 3:31 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 | 39 | [\(Don't Fear\) The Reaper](https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [Agents Of Fortune](https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt) | 5:08 |
 | 40 | [Is She Really Going Out With Him?](https://open.spotify.com/track/17GEcOhfo7rRr3wKumLHV2) | [Joe Jackson](https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT) | [Look Sharp! \(Remastered\)](https://open.spotify.com/album/7D82cIGmk9tZQusSVoRJfy) | 3:35 |
 | 41 | [New Rose](https://open.spotify.com/track/55TeO50ytH96i93yihdNJE) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Damned Damned Damned \(30th Anniversary Expanded Edition\)](https://open.spotify.com/album/2qYIFoIkV7McyXptWEYevu) | 2:42 |
-| 42 | [Sex & Drugs & Rock & Roll](https://open.spotify.com/track/1PwB9EADXS90I8LoewLXfl) | [Ian Dury](https://open.spotify.com/artist/5PFSmueeFLrjYXqn3agenn) | [New Boots And Panties \(Deluxe Edition\)](https://open.spotify.com/album/5tuUAXD8S0QVhPW7M2aQb0) | 0:29 |
+| 42 | [Sex & Drugs & Rock & Roll](https://open.spotify.com/track/1PwB9EADXS90I8LoewLXfl) | [Ian Dury](https://open.spotify.com/artist/5PFSmueeFLrjYXqn3agenn) | [New Boots And Panties \(Deluxe Edition\)](https://open.spotify.com/album/5tuUAXD8S0QVhPW7M2aQb0) | 3:07 |
 | 43 | [10:15 Saturday Night](https://open.spotify.com/track/2h97II7QJZTBZv02HcocI7) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/3414eS256JZKBXCoqFlRV6) | 3:41 |
 | 44 | [Alternative Ulster](https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 2:43 |
 | 45 | [Silver Machine \- Live at the Roundhouse London; 1996 Remaster](https://open.spotify.com/track/73HSIWZlSCfs4tqVkrGv7H) | [Hawkwind](https://open.spotify.com/artist/2jK54ZlZhTF1TxygsVeR05) | [In Search of Space](https://open.spotify.com/album/1cgsYqtDTMTetu7FjEsIhI) | 4:39 |

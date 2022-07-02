@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 
 > Moody beats for sleepless nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,248 likes - 220 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,263 likes - 220 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 87 | [Sisel](https://open.spotify.com/track/4RuOmLG4DBz3BA5UyWpcpS) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Sisel](https://open.spotify.com/album/0j6HgcImiDOjaQeXK4utp7) | 2:23 |
 | 88 | [Sloane](https://open.spotify.com/track/1fbANcHGIX2fCXtKev0pMA) | [Julia Groves](https://open.spotify.com/artist/2kobiVcFE5QbsUbkxkrFq3) | [Sloane](https://open.spotify.com/album/6MFvfBN3PKYApyt3Te04tv) | 2:13 |
 | 89 | [Float n Flutter](https://open.spotify.com/track/2TypGPFyLoIbLDInw8ddD5) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Float n Flutter](https://open.spotify.com/album/6x5U1UCPqcD4BPfN2x7c7t) | 3:32 |
-| 90 | [Lagoon](https://open.spotify.com/track/0bVyfYQTJoFbj1xR3ZzzdE) | [Zzcenic](https://open.spotify.com/artist/0ZEozBSxUxi99LJmOE3qOL) | [Lagoon](https://open.spotify.com/album/6ZzoQZAu83Y4F7q1LGn7xy) | 0:29 |
+| 90 | [Lagoon](https://open.spotify.com/track/0bVyfYQTJoFbj1xR3ZzzdE) | [Zzcenic](https://open.spotify.com/artist/0ZEozBSxUxi99LJmOE3qOL) | [Lagoon](https://open.spotify.com/album/6ZzoQZAu83Y4F7q1LGn7xy) | 2:14 |
 | 91 | [city lights](https://open.spotify.com/track/5wbf6h3eYS2tiR0fCDDva5) | [Embassay](https://open.spotify.com/artist/7inQZsZhHZBxBN9CGZ3YXt) | [city lights](https://open.spotify.com/album/4oPlp5R6PaB7udvrdfalKP) | 2:20 |
 | 92 | [E\. Z\. Breezy Beautiful](https://open.spotify.com/track/0NEg0G2YPFVcZZ3Uo3LWjW) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [E\. Z\. Breezy Beautiful](https://open.spotify.com/album/0Zh07HvEXGkobcknMcG1CP) | 3:16 |
 | 93 | [Ode to Ullr](https://open.spotify.com/track/2X3D0QRYxmD6RRuFWXiSxY) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Dela](https://open.spotify.com/album/7Ht1OrBV5hd7GKsVZKM49f) | 2:05 |
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 108 | [no capuccino](https://open.spotify.com/track/1E7OUtZolsHcNCvn2JFKwS) | [wavcrush](https://open.spotify.com/artist/0mSqso2Yuc7l3b0Aw22dXm) | [fin alley](https://open.spotify.com/album/10VoNIPKgsTtrpV5hJtNPj) | 2:01 |
 | 109 | [Side Focus](https://open.spotify.com/track/3bXjePJ9oGJJ4pt7U9yWw6) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [Magic City](https://open.spotify.com/album/4v2xg0Vq1c9JHDwTygsHdN) | 1:55 |
 | 110 | [Cory](https://open.spotify.com/track/1yOuR4ax7jqvgROmSfkHm0) | [New London Flags](https://open.spotify.com/artist/1TZ6NyWonWgQDdEFFuhgQg) | [Hargrove](https://open.spotify.com/album/1UlXagzks52uCntrxoUfiU) | 3:53 |
-| 111 | [Amboise](https://open.spotify.com/track/1aIgoyzrFUzUwJGTlUy4kN) | [Jail Daon](https://open.spotify.com/artist/0n24oVAxK02KVRQLnYN2PK) | [Amboise](https://open.spotify.com/album/0RR86LIQ8WqyRDEh700gzi) | 0:29 |
+| 111 | [Amboise](https://open.spotify.com/track/1aIgoyzrFUzUwJGTlUy4kN) | [Jail Daon](https://open.spotify.com/artist/0n24oVAxK02KVRQLnYN2PK) | [Amboise](https://open.spotify.com/album/0RR86LIQ8WqyRDEh700gzi) | 3:16 |
 | 112 | [Another Redroom Ramble](https://open.spotify.com/track/6pAW3tv04ptjKaFopM1uMJ) | [Aphid Friend](https://open.spotify.com/artist/6gQZaq3bhFr819MDPbmEso) | [Partners](https://open.spotify.com/album/6ItLwHBpRMlotPZ7wP4q7g) | 2:38 |
 | 113 | [Pink Elephants](https://open.spotify.com/track/6Owf9tXo9S2GZiVDXG7xrK) | [Timestreet](https://open.spotify.com/artist/1ZUmSYkOlZf9weqimkmtC6) | [Waterfalls](https://open.spotify.com/album/3NKUeD45OF8kHbL2zWNytO) | 2:51 |
 | 114 | [Coordinates](https://open.spotify.com/track/0HUp60k8bDWw8CHtEDq8qL) | [Aberdeen/Stavanger](https://open.spotify.com/artist/1pr2LbfqeB3gh6KUIRKVPk) | [Coordinates](https://open.spotify.com/album/1f2HZfMX8DhUtMHUPLP7j3) | 2:51 |
@@ -143,7 +143,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 133 | [Beyond Sight](https://open.spotify.com/track/1roMpJzKbIqZzqS79K33oj) | [DunE](https://open.spotify.com/artist/4MWcljkqkBsrfiZu2CA88k) | [Tratoria](https://open.spotify.com/album/45xdMa03XY6auauofA1ESG) | 2:00 |
 | 134 | [Cryon](https://open.spotify.com/track/5HGbCqPkdjQMuzA4FuHZ2F) | [Rhode Chain](https://open.spotify.com/artist/7bNOMStsWlhQ05wzIu8vIW) | [Rhode Chain](https://open.spotify.com/album/4hNCIHb12UGIyHcGItCD3m) | 2:37 |
 | 135 | [Cloudy Daze](https://open.spotify.com/track/2fNcvNQROEwslviciOWQ6G) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Cloudy Daze](https://open.spotify.com/album/0MfuxNdYR6sVbgdoB4Bz4m) | 3:35 |
-| 136 | [Ikea At Dusk](https://open.spotify.com/track/0b7acSt2NsF35xwFXj3ftl) | [Byoushay Brothers](https://open.spotify.com/artist/0GtIuE9H6qSS9GRnjRzasi) | [Ikea At Dusk](https://open.spotify.com/album/6ZB0pO293H9T320qrx0vak) | 0:29 |
+| 136 | [Ikea At Dusk](https://open.spotify.com/track/0b7acSt2NsF35xwFXj3ftl) | [Byoushay Brothers](https://open.spotify.com/artist/0GtIuE9H6qSS9GRnjRzasi) | [Ikea At Dusk](https://open.spotify.com/album/6ZB0pO293H9T320qrx0vak) | 2:39 |
 | 137 | [Rio's Theme](https://open.spotify.com/track/7sU5wuYdP5ON4fcSAWHiJE) | [Salvador Bem](https://open.spotify.com/artist/34gjCGKqjGDiQqkaOfUk3P) | [Rio's Theme](https://open.spotify.com/album/2Q4i9dIFD7R7yTn0WfxrYm) | 2:20 |
 | 138 | [Spoon fed](https://open.spotify.com/track/6T8akIF5ID2SaLx1P4TMFK) | [the origame](https://open.spotify.com/artist/5bwZ4wl2VdB4nTzIvbVtgh) | [Spoon fed](https://open.spotify.com/album/0CmQYCP33z0RT9EV19z7dS) | 2:13 |
 | 139 | [Union Station](https://open.spotify.com/track/4sW9IMneuWCFGj3bZDbDcM) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [Astor Place](https://open.spotify.com/album/71nfxEIhkcqhV2oI7o14Ha) | 2:06 |
@@ -152,7 +152,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 142 | [The Rain Said No](https://open.spotify.com/track/0QR9H35hAAIrT3PcBbaqEt) | [Grandmaster Tilden](https://open.spotify.com/artist/20yERPydly9DkcL45T65uJ) | [Weeds](https://open.spotify.com/album/3l6W3WJym9nVX0FNwChUzy) | 2:48 |
 | 143 | [miletones](https://open.spotify.com/track/4vqrhPRaeoJ8pHL6dKTlfW) | [luvuto](https://open.spotify.com/artist/5jjdhw89A0Q9drbfysftNm) | [miletones](https://open.spotify.com/album/1JK0ujihjq1lSOBXrS38Mg) | 2:27 |
 | 144 | [triton](https://open.spotify.com/track/6rDJ58SbxAL9cwBHOeid1w) | [mt\. koala](https://open.spotify.com/artist/5ryb7Zr3TEu4mGQ0Yhns9M) | [wilderness](https://open.spotify.com/album/3PIXBJReX3ZgenQVpO63Rl) | 1:55 |
-| 145 | [The Monster Under My Bed](https://open.spotify.com/track/6e1CdbMZtce6YpTxDJnNc5) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [The Monster Under My Bed](https://open.spotify.com/album/61CZefoQUPOSvk5Pzg3TtJ) | 0:29 |
+| 145 | [The Monster Under My Bed](https://open.spotify.com/track/6e1CdbMZtce6YpTxDJnNc5) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [The Monster Under My Bed](https://open.spotify.com/album/61CZefoQUPOSvk5Pzg3TtJ) | 2:27 |
 | 146 | [Cloud Surfing](https://open.spotify.com/track/6iTEM8WzzFkRkmgO7r5JUL) | [Kid Kio](https://open.spotify.com/artist/5Y2wHchGaDlDsk9FPC0YSE), [Azido 88](https://open.spotify.com/artist/36Hfqd2C0x7oulFJTAuIt0) | [Cloud Surfing](https://open.spotify.com/album/5KyFDwjz3hxtoJDBnjsBb0) | 1:41 |
 | 147 | [After Hours](https://open.spotify.com/track/4xIA6rtVQukSRpcYjsUS9A) | [Olivier Abeille](https://open.spotify.com/artist/43d1D4ncfmUYZCkZsxvfEy) | [Embrasser](https://open.spotify.com/album/6VcrwQODoxJbkotX3DFJOk) | 2:07 |
 | 148 | [Seed of a Thought](https://open.spotify.com/track/6smNHgmjTDNJWaovT0NbRR) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj), [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [Seed of a Thought](https://open.spotify.com/album/3GnK0lasJIQFXFEc8SwLak) | 1:59 |
@@ -213,7 +213,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 203 | [Villi’s Dream](https://open.spotify.com/track/3L3Bqylf4R6dz8gEWgk7Gn) | [Odinson](https://open.spotify.com/artist/2NsbX1kNxxmyCPYNUwylr5) | [Fantasque](https://open.spotify.com/album/73b18tIjK8WMaDXkFc2rZ6) | 2:33 |
 | 204 | [life is a balloon](https://open.spotify.com/track/2GoAhMIvnZ1n7ZEqj7jrAa) | [frek!](https://open.spotify.com/artist/00vQreQBu9wC4dQCmHWJin) | [comic sans](https://open.spotify.com/album/5pG11FB3kK2GNbFpW4w6Vu) | 1:44 |
 | 205 | [majesty](https://open.spotify.com/track/7zmlnEYfe8WoO17JSrp0Vi) | [ding m](https://open.spotify.com/artist/3YpyfRGmyOjU5Sdx6xMwBn) | [majesty](https://open.spotify.com/album/1ZeWCYweISZtipIM5u9ICL) | 2:46 |
-| 206 | [Black Sands White Coffee](https://open.spotify.com/track/2ZpxtRMNvBkgQVZiCGIIub) | [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Gino's Cappuccino](https://open.spotify.com/album/3etXsPOM7IutaC6rUKUxAe) | 4:05 |
+| 206 | [Black Sands White Coffee](https://open.spotify.com/track/2ZpxtRMNvBkgQVZiCGIIub) | [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Gino's Cappuccino](https://open.spotify.com/album/3etXsPOM7IutaC6rUKUxAe) | 0:29 |
 | 207 | [Lonely But I Like It](https://open.spotify.com/track/1T1VEnOmFJg6blKc3NphLh) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [Lonely But I Like It](https://open.spotify.com/album/47sPJLTejvcVqheE9fuRpI) | 4:55 |
 | 208 | [Pour the Blue](https://open.spotify.com/track/6b7oKYz6sfV90rMTG4Bkvu) | [Jackson Hacking](https://open.spotify.com/artist/220Ej7lTYoyJxdsbGwahB6) | [Pour The Blue](https://open.spotify.com/album/1TzJxGqIZ81oRWXdiEkisM) | 2:05 |
 | 209 | [clever ground](https://open.spotify.com/track/4s6r8g1LcwUOco4eNsQMWQ) | [bonecatcher](https://open.spotify.com/artist/4w8UEShgdyDVYlKAAFfNNW) | [clever ground](https://open.spotify.com/album/7cP1C9c0nqyySrFWtFURYW) | 1:49 |

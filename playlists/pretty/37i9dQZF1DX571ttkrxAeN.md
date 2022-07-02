@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX571ttkrxAeN.md) - [plain]
 
 > Sit and sip a cup as you soak up some acoustic vibes from across the world\. Cover: Souad Massi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,921 likes - 78 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,964 likes - 78 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX571ttkrxAeN.md) - [plain]
 | 50 | [Al Norte](https://open.spotify.com/track/67fUnCQc6m44QT3KnWzHZS) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Al Norte](https://open.spotify.com/album/2l4VdF6kbTeN26cG4c1cgk) | 3:19 |
 | 51 | [Silence](https://open.spotify.com/track/57qGpleOUN8dJqBLHcUaSp) | [Jordane](https://open.spotify.com/artist/53w2o1UZ53Pc5gir1VuAa1) | [Silence](https://open.spotify.com/album/2K9r66llU9ToZD2RJDKreZ) | 3:11 |
 | 52 | [Hier und jetzt](https://open.spotify.com/track/0t9dprvMbyS8AlT6SsYimg) | [Benne](https://open.spotify.com/artist/0eS2ZGOnJi5Cp4ASTy4aBc) | [Alles auf dem Weg](https://open.spotify.com/album/3ZeKcF7KMlN9Lf2IRXrmKY) | 3:58 |
-| 53 | [Jungla de Asfalto \- Acústica](https://open.spotify.com/track/0L2rbBHxOiYkOmfab6ymPY) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Jungla de Asfalto \(Acústica\)](https://open.spotify.com/album/4PKNNrYVTrHJl1tvZsTjh4) | 0:29 |
+| 53 | [Jungla de Asfalto \- Acústica](https://open.spotify.com/track/0L2rbBHxOiYkOmfab6ymPY) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Jungla de Asfalto \(Acústica\)](https://open.spotify.com/album/4PKNNrYVTrHJl1tvZsTjh4) | 2:39 |
 | 54 | [Dich Zu Lieben Ist Einfach](https://open.spotify.com/track/4XnHhhPJxHG7JznWZ0S0a7) | [Gisbert Zu Knyphausen](https://open.spotify.com/artist/2tDVKS41XWT3vvy4A3ZbcV) | [Das Licht Dieser Welt](https://open.spotify.com/album/2hJye4UZnpAyo3FWIJdxKm) | 3:33 |
 | 55 | [Pourquoi pas](https://open.spotify.com/track/5ZWFl0ajpIOKK91p3fV9Hc) | [Mathieu Boogaerts](https://open.spotify.com/artist/0LlWS1VC17Bpd2RUd6enaQ) | [Promeneur](https://open.spotify.com/album/4F9D7C0ypc3LcKC9TnxUXk) | 3:10 |
 | 56 | [Que entre el frío](https://open.spotify.com/track/12OU5vEQio4792IRVMr2B6) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Loza](https://open.spotify.com/album/0RAoYFdwdNtRG19pGJK8Be) | 4:27 |

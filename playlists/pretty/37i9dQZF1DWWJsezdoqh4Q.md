@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJsezdoqh4Q.md) - [plain]
 
 > Whether it's by bus, subway, bike, or your own two feet, here are songs about all the ways to get around your neighborhood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279 likes - 46 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 279 likes - 46 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJsezdoqh4Q.md) - [plain]
 | 25 | [Riding On A Train](https://open.spotify.com/track/4411Vd2aDCFEto1aBUOzX1) | [Dirk Scheele](https://open.spotify.com/artist/6aYoZj5hriqO12UUSffEaA) | [New Children's Songs and Kids Music vol.1](https://open.spotify.com/album/4Ljq9QXdXTsrqWySqddn7j) | 3:19 |
 | 26 | [Song About Trucks](https://open.spotify.com/track/5fRnaOgaEn0u8PeSEcOf4c) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Vehicle Songs, Vol 1](https://open.spotify.com/album/6M4hu1ubzcihIDsAZFnlFX) | 1:27 |
 | 27 | [Choo Choo Train](https://open.spotify.com/track/3CetOnQ4zzhKZsvgv1QMBn) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Vehicle Songs, Vol 1](https://open.spotify.com/album/6M4hu1ubzcihIDsAZFnlFX) | 1:56 |
-| 28 | [Tricycle](https://open.spotify.com/track/0kWvtFgFjgRsOTjqEpab1k) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Fascinating Creatures](https://open.spotify.com/album/0QNI8ietPOpLX0nrJPzrRi) | 0:29 |
+| 28 | [Tricycle](https://open.spotify.com/track/0kWvtFgFjgRsOTjqEpab1k) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Fascinating Creatures](https://open.spotify.com/album/0QNI8ietPOpLX0nrJPzrRi) | 1:36 |
 | 29 | [5 Little Buses](https://open.spotify.com/track/13ra1zuvT6vnzKt661KYFp) | [Gecko's Garage](https://open.spotify.com/artist/2xHbxPlwNRVcJR3P3vjtX7), [Toddler Fun Learning](https://open.spotify.com/artist/6J7tunc4bHIFmzTevQ2J6Q) | [Cars, Trucks and Buses with Gecko!](https://open.spotify.com/album/6594786EydH2PJk33SCMa7) | 2:02 |
 | 30 | [Take Me Away on a Train](https://open.spotify.com/track/1d0bSpuxKXmPvwLgQlxLTu) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/7b6l4ldOcy0FtFkI3pAgLF) | 1:21 |
 | 31 | [A Very Merry Ferry Ride](https://open.spotify.com/track/7beShwsrRGlpq6C0yCkA0i) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Excavator & More Vehicle Songs for Kids](https://open.spotify.com/album/36ALk5EplIDZph31IiPNJR) | 2:08 |

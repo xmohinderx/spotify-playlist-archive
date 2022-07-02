@@ -4,7 +4,7 @@
 
 > Check out the most loveable ladies of K\-Town!
 
-55 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/0XnZdPXNMro0Z14SbfzsnO)
+55 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/0XnZdPXNMro0Z14SbfzsnO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Don'u Don'u Don'u \- The Don's Romance](https://open.spotify.com/track/2kbxGCtWSV0f1ON720Bd4O) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Alisha Thomas](https://open.spotify.com/artist/2JlwKfQpBmPFip5JT4d7VG) | [Maari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5g4gqBANFcdQ7G5zjGddvl) | 3:15 | 2021-06-24 |  |
 | [En Jeevan](https://open.spotify.com/track/5jkH9Pgv28mW9ve6uGtohT) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Saindhavi](https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit), [Vaikom Vijayalakshmi](https://open.spotify.com/artist/1tsy6ph4p6fVETd32Cbpcb) | [Theri \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/57PZ81n80Hwh4fNLdsx7vp) | 5:20 | 2021-06-24 |  |
 | [Enna Nadanthalum](https://open.spotify.com/track/7yk8CT3m3KI8u6DEWc3dFk) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Kaushik Krish](https://open.spotify.com/artist/0qkE3ei6S9JhPheroVpzqn) | [Meesaya Murukku \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6huPBShibyH3IJg5pPv8Bl) | 4:05 | 2021-06-24 |  |
-| [Ennadi Maayavi Nee](https://open.spotify.com/track/47Cd4WP1ZOK8WXC68kqZ03) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [VadaChennai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5oZttbNRyrYfBLhej6HAY7) | 0:29 | 2021-06-24 |  |
+| [Ennadi Maayavi Nee](https://open.spotify.com/track/47Cd4WP1ZOK8WXC68kqZ03) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [VadaChennai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5oZttbNRyrYfBLhej6HAY7) | 4:11 | 2021-06-24 |  |
 | [Gaandakannazhagi](https://open.spotify.com/track/6oq9EhpHVx5XnCzRtWKFz7) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Namma Veettu Pillai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28Jjlqhywu1ntsCxGYYVFD) | 4:03 | 2021-06-24 |  |
 | [Gaandu Kannamma](https://open.spotify.com/track/7eS07q4Ft2ySmiH7NalStq) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW) | [Gaandu Kannamma](https://open.spotify.com/album/2yZXnhQoiiQN6PMNoGcQ4r) | 3:25 | 2021-06-24 |  |
 | [Haiyo Haiyo \(From "Oh My Kadavule"\)](https://open.spotify.com/track/0b4C8AiF7eVbZCNGFrx1rv) | [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy) | [Haiyo Haiyo \(From "Oh My Kadavule"\)](https://open.spotify.com/album/6wLpBzOFpvoom2L12aJy1O) | 3:29 | 2021-06-24 |  |

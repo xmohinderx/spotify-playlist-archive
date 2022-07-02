@@ -4,7 +4,7 @@
 
 > What are you thankful for this Thanksgiving? These are the songs that make us feel grateful....
 
-65 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/5GTz5fENvpfuW4x8P5AoYT)
+65 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/5GTz5fENvpfuW4x8P5AoYT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [In Color](https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 4:50 | 2021-11-10 |  |
 | [In My Life \- Remastered 2009](https://open.spotify.com/track/3KfbEIOC7YIv90FIfNSZpo) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:26 | 2021-11-10 |  |
 | [Kind & Generous](https://open.spotify.com/track/6VrjF67WFChXh8uYYBfeRr) | [Natalie Merchant](https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD) | [Ophelia](https://open.spotify.com/album/79yCNDXk5sNKwskcAOxUtz) | 4:01 | 2021-11-10 |  |
-| [Long Way Home](https://open.spotify.com/track/4B8edpeAcQf1pQgXA0jdh9) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [American Love Call](https://open.spotify.com/album/4ZCrk8P8S1iSsEXZjimtPY) | 0:29 | 2021-11-10 |  |
+| [Long Way Home](https://open.spotify.com/track/4B8edpeAcQf1pQgXA0jdh9) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [American Love Call](https://open.spotify.com/album/4ZCrk8P8S1iSsEXZjimtPY) | 3:21 | 2021-11-10 |  |
 | [My Friends](https://open.spotify.com/track/7foGTA6I8jkYTwQzwljQLA) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [A Creature I Don't Know](https://open.spotify.com/album/4m5V9tVSVClEXDeBT1dk2F) | 3:58 | 2021-11-10 |  |
 | [Not Gonna Let You Walk Away](https://open.spotify.com/track/5X7tsMPIJH2KidJTDVpPUC) | [LOLO](https://open.spotify.com/artist/0H0OkFxp022WOyKlt3HmlA) | [Not Gonna Let You Walk Away](https://open.spotify.com/album/6WVI2YJKVejlAg5mSwKWH0) | 2:44 | 2021-11-10 |  |
 | [Nothing Short of Thankful](https://open.spotify.com/track/7CHgiPKBF9DLYDpjJvrnVI) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Mignonette](https://open.spotify.com/album/3Qre72w4Yc9Ib2UeCgTaOK) | 3:26 | 2021-11-10 |  |
@@ -55,7 +55,7 @@
 | [River](https://open.spotify.com/track/0NeJjNlprGfZpeX2LQuN6c) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home](https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg) | 3:58 | 2021-11-10 |  |
 | [Stuffy Turkey](https://open.spotify.com/track/3uhMIRBwvsXAfVGrLqdGJs) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [It's Monk's Time](https://open.spotify.com/album/5hc8bRQxYiJNK1f3PSB1UH) | 8:10 | 2021-11-10 |  |
 | [Sweet Potato Pie](https://open.spotify.com/track/7FORSqVeo5krjnVjDmxbU6) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Genius Loves Company](https://open.spotify.com/album/7dYc03tSIjcF4dLJGXMS3f) | 3:46 | 2021-11-10 |  |
-| [Thank You](https://open.spotify.com/track/751gBcu62kORDelX7FV0mM) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/5HC0K52InwrhTEd5zDPzRk) | 0:29 | 2021-11-10 |  |
+| [Thank You](https://open.spotify.com/track/751gBcu62kORDelX7FV0mM) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/5HC0K52InwrhTEd5zDPzRk) | 3:37 | 2021-11-10 |  |
 | [Thank You](https://open.spotify.com/track/5xXjFLdqsj0Jnb7GXduA99) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [Words & Music: John Mellencamp's Greatest Hits](https://open.spotify.com/album/4apfDLU5QtNOu784u2Z2B5) | 3:37 | 2021-11-10 |  |
 | [Thank You \- 2008 Remaster](https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 2:50 | 2021-11-10 |  |
 | [Thank You Friends](https://open.spotify.com/track/2bAbDf7h7gUEJQRxXBBq2N) | [Big Star](https://open.spotify.com/artist/3UvcmAOZt64oKpP95f6MMM) | [Keep An Eye On The Sky](https://open.spotify.com/album/7J7sZIPRWHxt3eVPGKsfi6) | 3:06 | 2021-11-10 |  |

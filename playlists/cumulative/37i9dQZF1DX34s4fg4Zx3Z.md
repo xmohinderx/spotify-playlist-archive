@@ -4,7 +4,7 @@
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: CHOCO; thiết kế: Isu Kim
 
-433 songs - 1 day 1 hr 0 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
+433 songs - 1 day 1 hr 4 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,7 +431,7 @@
 | [Đưa Anh Tờ Giấy Đó](https://open.spotify.com/track/2C3XvbGDiVe8BrLVHELS1Y) | [Dab](https://open.spotify.com/artist/7dFC6SVFS2YkIcRfE2SyfV), [Limitlxss](https://open.spotify.com/artist/7CvaEyUJFgQOdgzfqqU5t7) | [Đưa Anh Tờ Giấy Đó](https://open.spotify.com/album/3ARYSUUZErfVr3XNOts8ul) | 2:42 | 2022-03-22 | 2022-03-31 |
 | [Đưa Đôi Tay Đây](https://open.spotify.com/track/5n3slwb8POHmZ3eM9M6qM3) | [Lê Vũ](https://open.spotify.com/artist/5t18GHcI1L5EeeMCQLKchZ), [Hồ Văn Quý](https://open.spotify.com/artist/7uU7S5FLq7ZZABczz5xstR), [XAM](https://open.spotify.com/artist/0eu5rO5SFhiupVgf5woh9H) | [Đưa Đôi Tay Đây](https://open.spotify.com/album/6m4X1PZ3MqZgyilGMECnI1) | 3:36 | 2022-01-06 | 2022-01-21 |
 | [Đường Vẫn Còn Dài](https://open.spotify.com/track/5dkMPrtwjnRzAtE6gMnwK6) | [SMO](https://open.spotify.com/artist/1eLRJ9F6qwKeI6frD3ZzQg) | [Đường Vẫn Còn Dài](https://open.spotify.com/album/0jxKreW7Q1Btq4pcEU1zYH) | 3:36 | 2022-04-22 | 2022-06-22 |
-| [ĐẠI DIỆN CHO TRÁI TIM](https://open.spotify.com/track/3qv9LRzmaA4BX3v427FBi4) | [Southalid](https://open.spotify.com/artist/5n4HPFtb9AUMQMAw8asZu6), [MaL.](https://open.spotify.com/artist/6n0P5VPfsk3qLSVja7xzb5) | [ĐẠI DIỆN CHO TRÁI TIM](https://open.spotify.com/album/0qIp0FFFHGlxfzyWuWG9zs) | 0:29 | 2022-06-16 |  |
+| [ĐẠI DIỆN CHO TRÁI TIM](https://open.spotify.com/track/3qv9LRzmaA4BX3v427FBi4) | [Southalid](https://open.spotify.com/artist/5n4HPFtb9AUMQMAw8asZu6), [MaL.](https://open.spotify.com/artist/6n0P5VPfsk3qLSVja7xzb5) | [ĐẠI DIỆN CHO TRÁI TIM](https://open.spotify.com/album/0qIp0FFFHGlxfzyWuWG9zs) | 3:59 | 2022-06-16 |  |
 | [Đầu To](https://open.spotify.com/track/31HwayLskRLAbNRISnylKt) | [Linh Thộn](https://open.spotify.com/artist/50bDh0lNWnngFN237F1rJq), [A.C Xuân Tài](https://open.spotify.com/artist/4cXmPRr3FNM39g79G2IovE) | [Đầu To](https://open.spotify.com/album/6ECnLHuvUXhu331tIyD1eS) | 3:03 | 2022-06-02 | 2022-06-22 |
 | [Đắm Say](https://open.spotify.com/track/3N5czkNQEpX8zD6MCSsnZ7) | [Poll](https://open.spotify.com/artist/3xQWxnx3qhT127zrRaRXMN) | [Đắm Say](https://open.spotify.com/album/3EiLsFu60L1vXBw1X8aYdl) | 3:43 | 2022-01-06 | 2022-03-11 |
 | [Để Làm Người Yêu Em](https://open.spotify.com/track/1M5rKwCJqCAEXvXNU32W0G) | [Chuy Blue](https://open.spotify.com/artist/6SFb0xKEcWAdWto6pwQYxd) | [Để Làm Người Yêu Em](https://open.spotify.com/album/78825gwjBoURlJ8kxSwy2a) | 3:26 | 2022-05-04 |  |

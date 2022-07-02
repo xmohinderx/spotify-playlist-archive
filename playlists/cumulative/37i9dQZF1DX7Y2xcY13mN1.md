@@ -4,7 +4,7 @@
 
 > New and familiar folk in the Irish tradition\. Cover: Ye Vagabonds
 
-57 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/4dGxVFj5HCMkSll4e0gfQa)
+57 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/4dGxVFj5HCMkSll4e0gfQa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Dublin In The Rare Auld Times](https://open.spotify.com/track/6WWLO6aWNAMdtOI6iOL86D) | [Luke Kelly](https://open.spotify.com/artist/2ZYIql5vmxtz3LbDLIaWo9) | [The Best Ever Collection Of Irish Pub Songs \- Volume 1](https://open.spotify.com/album/03EhSxO0WLA1axY6Nwb1H6) | 4:59 | 2021-10-12 |  |
 | [Fair And Tender Ladies](https://open.spotify.com/track/2HMhoxU8RE7vvYsnBizBjR) | [Danú](https://open.spotify.com/artist/0Mm3mSg0GPDZwSI1fdznTV) | [Think Before You Think](https://open.spotify.com/album/0R2sTBxIqG8ksRH1PCoHiH) | 4:28 | 2021-10-12 |  |
 | [He Moved Through the Fair](https://open.spotify.com/track/0W7j85pNUDFELwo0X1LYuT) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Gospel Oak](https://open.spotify.com/album/6atSPS93SeVrBd9zHHpvR2) | 4:22 | 2021-10-12 |  |
-| [Hungover at Mass](https://open.spotify.com/track/31Yu3GZPzEP0W5VQbgYpAn) | [Junior Brother](https://open.spotify.com/artist/2CdmJGEGEkzPZ966NCmtKz) | [Fuck Off I Love You](https://open.spotify.com/album/3pgfgpBBeC180QtwWT1uIB) | 0:29 | 2022-03-07 |  |
+| [Hungover at Mass](https://open.spotify.com/track/31Yu3GZPzEP0W5VQbgYpAn) | [Junior Brother](https://open.spotify.com/artist/2CdmJGEGEkzPZ966NCmtKz) | [Fuck Off I Love You](https://open.spotify.com/album/3pgfgpBBeC180QtwWT1uIB) | 2:49 | 2022-03-07 |  |
 | [Liscannor Bay](https://open.spotify.com/track/32hl16DWU7E2QRVEDbOmTx) | [The Fiddle Case](https://open.spotify.com/artist/4sk1ZccF7bAlhBzdg5lgta) | [Audio Incense](https://open.spotify.com/album/0gurWRwbN6vQoZe7kJJAwf) | 5:02 | 2021-10-12 |  |
 | [Lisdoonvarna](https://open.spotify.com/track/05KvSXpXEWd3YCwTPG0xu9) | [Christy Moore](https://open.spotify.com/artist/3Ebn7mKYzD0L3DaUB1gNJZ) | [On the Road](https://open.spotify.com/album/0pGk5GqEidvPcTratzBAyJ) | 5:06 | 2021-10-12 |  |
 | [Medley: The Recruiting Sergeant / The Rocky Road to Dublin / Galway Races](https://open.spotify.com/track/1boQR0hrVk6rJ7r2JbpvLh) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [If I Should Fall from Grace with God \(Expanded Edition\)](https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L) | 4:04 | 2021-10-12 |  |

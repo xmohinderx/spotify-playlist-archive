@@ -4,7 +4,7 @@
 
 > A spine\-chilling selection of classical favourites and supernatural soundtracks.
 
-48 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/1ohNgKUVv603CyUhWhtNO6)
+48 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/1ohNgKUVv603CyUhWhtNO6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Fire Temple](https://open.spotify.com/track/3gW27yBKGV7eC4XWzZLnn7) | [Bobby Krlic](https://open.spotify.com/artist/0e3tj3Rn5xXhUmOjn2cv1J) | [Midsommar \(Original Score\)](https://open.spotify.com/album/7ua9yjYsmUO77joP5fknf7) | 9:34 | 2021-10-18 |  |
 | [Gaspard de la nuit, M.55: Le gibet](https://open.spotify.com/track/1hhS4RF40qWmVP5akCZBxA) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Vladimir Ashkenazy](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) | [Ravel: Gaspard de la nuit; Pavane pour un infante défunte](https://open.spotify.com/album/7mWF6cmoi9cXAb0AhNotD0) | 5:13 | 2021-10-18 |  |
 | [Goldberg Variations Bwv 988: Aria \- Da Capo](https://open.spotify.com/track/4Cr7xmAJyVbX6qgS4Pxl66) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [Hannibal \- Original Motion Picture Soundtrack](https://open.spotify.com/album/6JgvWFkxKiG6Z2rDWZCLGV) | 1:48 | 2021-10-18 |  |
-| [Hamlet Suite, Op\. 116a: Story of Horatio and the Ghost](https://open.spotify.com/track/0cpOdI17BkkiP2BgvA3bjr) | [Dmitri Shostakovich](https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA), [Russian Philharmonic Orchestra](https://open.spotify.com/artist/1ZqfApY0fqguhw8PVf4mWq), [Dmitry Yablonsky](https://open.spotify.com/artist/6jKsnWXyWgE3jyC0Cs0Cdb) | [Shostakovich: Hamlet, Op\. 116](https://open.spotify.com/album/6Pp7WA6gVwyyhP7HJg00x1) | 0:29 | 2021-10-18 |  |
+| [Hamlet Suite, Op\. 116a: Story of Horatio and the Ghost](https://open.spotify.com/track/0cpOdI17BkkiP2BgvA3bjr) | [Dmitri Shostakovich](https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA), [Russian Philharmonic Orchestra](https://open.spotify.com/artist/1ZqfApY0fqguhw8PVf4mWq), [Dmitry Yablonsky](https://open.spotify.com/artist/6jKsnWXyWgE3jyC0Cs0Cdb) | [Shostakovich: Hamlet, Op\. 116](https://open.spotify.com/album/6Pp7WA6gVwyyhP7HJg00x1) | 2:21 | 2021-10-18 |  |
 | [Hedwig's Theme](https://open.spotify.com/track/1n8NKQRg8LVHy7oUhUgbFF) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 5:09 | 2021-10-18 |  |
 | [I Colori Di Dicembere \(Laura's Theme: The Last Farewell\)](https://open.spotify.com/track/74jAVegerAA7qDiIwKZ8Lp) | [Pino Donaggio](https://open.spotify.com/artist/1M5wLoT4Yub4wWOZAcj7z0) | [Don't Look Now \(Original Film Soundtrack\)](https://open.spotify.com/album/61zcqMiKlVwnv83DBWncxW) | 3:26 | 2021-10-18 |  |
 | [Imhotep](https://open.spotify.com/track/2XZ6Cc4sfNVLQZ9oLfugZm) | [Jerry Goldsmith](https://open.spotify.com/artist/7t8q7ikEtcPNtoaKAm9Vu6) | [The Mummy \- Original Motion Picture Soundtrack](https://open.spotify.com/album/5npe6B2eEGqG4g6jYk71Kb) | 4:16 | 2021-10-18 |  |

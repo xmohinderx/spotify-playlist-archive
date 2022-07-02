@@ -4,7 +4,7 @@
 
 > Trap latino que alimenta tu espíritu\. Cover: Redimi2
 
-50 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/4QTolJARsiGXtNoXJeFdWi)
+50 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/4QTolJARsiGXtNoXJeFdWi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Esto Suena Bien](https://open.spotify.com/track/7cSgNzK1xqz2H3MHWIFOCL) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Oveja Cosmica](https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6) | [Esto Suena Bien](https://open.spotify.com/album/5dMNKaddEtUy2LEVR36H4q) | 4:14 | 2020-08-28 |  |
 | [Gone](https://open.spotify.com/track/1A4BHF16dXjJM8zHulGdtT) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [Gone](https://open.spotify.com/album/7Fifup8H6gJyKjeMLT2YO8) | 3:16 | 2020-08-28 |  |
 | [Gravy](https://open.spotify.com/track/6cpfEoMf8sWeid3EVTuWq3) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Gravy](https://open.spotify.com/album/1YJcCaqfuuHQTJtJYRjJcX) | 3:50 | 2020-08-28 |  |
-| [Green Card](https://open.spotify.com/track/7GP9H9G4JTqtyuYeaZLKeo) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab), [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7) | [PANORAMA](https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33) | 0:29 | 2020-08-28 |  |
+| [Green Card](https://open.spotify.com/track/7GP9H9G4JTqtyuYeaZLKeo) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab), [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7) | [PANORAMA](https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33) | 2:58 | 2020-08-28 |  |
 | [Hambre](https://open.spotify.com/track/7gXy7UL90pN9zXEpyz0Rf6) | [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Hambre](https://open.spotify.com/album/4RtyI0l65CD6pUXtPSMDg7) | 3:41 | 2020-08-28 |  |
 | [La Cuerda Floja](https://open.spotify.com/track/4RrEOgcIjTrcOeLzdHdMOn) | [Zoprano](https://open.spotify.com/artist/2mdcXhVmknCqnJU4M5ofyl), [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [La Cuerda Floja](https://open.spotify.com/album/7ztgUSvjFg8vQB9YGXoqWk) | 3:53 | 2020-08-28 |  |
 | [Lift](https://open.spotify.com/track/3zTlidxfvKnuLay7tmxTfI) | [Carlos Herrera Music](https://open.spotify.com/artist/6XyhP9ocGrfEqrIm6vHDYG), [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [Lift](https://open.spotify.com/album/5t62fhTVsy040NJgla87v2) | 3:04 | 2020-08-28 |  |

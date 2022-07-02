@@ -4,7 +4,7 @@
 
 > Revive las mejores batallas, y descubre música original de los participantes\. Foto: Aczino
 
-86 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/0czRm1bZ5YA9YxDSXYTnLg)
+86 songs - 7 hr 39 min - [published](https://open.spotify.com/playlist/0czRm1bZ5YA9YxDSXYTnLg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Mis Honorarios](https://open.spotify.com/track/10rDSQODRPXrTSrje8IRGS) | [Lobo Estepario](https://open.spotify.com/artist/3mqPl8mavq0P24IIbbgYnI) | [Licantropía](https://open.spotify.com/album/2gB4IgCBulmiXCoywn0aUz) | 4:45 | 2019-10-21 |  |
 | [Niño Mimado](https://open.spotify.com/track/3bEY4qdwQrD28O0zp0QSSv) | [Arkano](https://open.spotify.com/artist/5ACyfaynUH9FpBaR8uZprQ) | [Bioluminiscencia](https://open.spotify.com/album/3jw8WWo39iUGpNfJnbwUy6) | 3:00 | 2019-10-21 |  |
 | [Old Custom](https://open.spotify.com/track/2VESXwMfSPjBrjLcQZT5sx) | [Elm Beats](https://open.spotify.com/artist/7brhh1t9PeV6zLQQQsaibj), [Artesano](https://open.spotify.com/artist/74kDIwInoOBAZ7jKtTVFRC) | [Old Custom](https://open.spotify.com/album/2b3Ksd7KlZ3y1OtSEAX9Zx) | 2:56 | 2019-10-21 |  |
-| [Otro Intento Más](https://open.spotify.com/track/56K06SR4qLBtFWMuz4A45v) | [Arkano](https://open.spotify.com/artist/5ACyfaynUH9FpBaR8uZprQ) | [Otro Intento Más](https://open.spotify.com/album/0OEojMGaIwaXxZydGSXoep) | 0:29 | 2019-10-21 |  |
+| [Otro Intento Más](https://open.spotify.com/track/56K06SR4qLBtFWMuz4A45v) | [Arkano](https://open.spotify.com/artist/5ACyfaynUH9FpBaR8uZprQ) | [Otro Intento Más](https://open.spotify.com/album/0OEojMGaIwaXxZydGSXoep) | 3:10 | 2019-10-21 |  |
 | [Otro Mes](https://open.spotify.com/track/2jlRkCcZCXeHJBOjo1WwOj) | [Cehzar](https://open.spotify.com/artist/2VcROjgvAPmuYEICxUCC50) | [Bateria Baja](https://open.spotify.com/album/770LkNDCdGvaDsEJlFxcoB) | 3:33 | 2019-10-21 |  |
 | [Pero Mañana](https://open.spotify.com/track/0j32EsfL1TQ04ssfnnhMuI) | [Skone](https://open.spotify.com/artist/3b0zCqdij8lmz7vFSzqvco), [Hazhe](https://open.spotify.com/artist/4p362NN14lMGC5NOnFR0lk) | [Pero Mañana](https://open.spotify.com/album/1iqVykI5syjP5bxQbCI0ir) | 3:19 | 2022-06-27 |  |
 | [Peros](https://open.spotify.com/track/7phBhs5M9A6HT8eQ9kuJAk) | [Lancer Lirical](https://open.spotify.com/artist/0Sq7xXe2dPIIyRva4efEgm) | [Perenne](https://open.spotify.com/album/3qjg1FpcJITc33HXdh7Rcu) | 3:27 | 2019-10-21 |  |

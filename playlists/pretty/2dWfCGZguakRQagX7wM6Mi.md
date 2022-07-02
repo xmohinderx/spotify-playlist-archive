@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2dWfCGZguakRQagX7wM6Mi.md) - [plain]
 
 > Stay tuned for a fresh mix of flashback hits! This week, party like it's 1999!
 
-[Spotify](https://open.spotify.com/user/spotify) - 321 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 321 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/2dWfCGZguakRQagX7wM6Mi.md) - [plain]
 | 14 | [Slide](https://open.spotify.com/track/0eG5CqXwJpa5MBjYyg1lRm) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Greatest Hits Volume One \- The Singles](https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO) | 3:33 |
 | 15 | [I'm Your Angel](https://open.spotify.com/track/02nsNxmxmRKR4Tbv3Fcbfh) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ) | [The Essential Celine Dion](https://open.spotify.com/album/4Weiw9hd6IyxyjRyeDp3dF) | 5:30 |
 | 16 | [Believe](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:59 |
-| 17 | [Angel](https://open.spotify.com/track/6a12yrkah2Fs6FQ8QCdFfP) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Closer: The Best Of Sarah McLachlan \(Deluxe Version\)](https://open.spotify.com/album/3RfooZA6Pvw8odFuOvnjhB) | 0:29 |
+| 17 | [Angel](https://open.spotify.com/track/6a12yrkah2Fs6FQ8QCdFfP) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Closer: The Best Of Sarah McLachlan \(Deluxe Version\)](https://open.spotify.com/album/3RfooZA6Pvw8odFuOvnjhB) | 4:30 |
 | 18 | [Smooth \(feat\. Rob Thomas\)](https://open.spotify.com/track/3i3GeK0qLQybu4ah42YmCY) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Ultimate Santana](https://open.spotify.com/album/6FbFvnlSfEoNhwz5MdK0Dx) | 4:55 |
 | 19 | [Unpretty](https://open.spotify.com/track/0BUoLE4o9eVahDHvTqak67) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 4:38 |
 | 20 | [Bills, Bills, Bills](https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 4:16 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/2dWfCGZguakRQagX7wM6Mi.md) - [plain]
 | 23 | [All I Have to Give](https://open.spotify.com/track/3hlhefxgyp4MDnN6C2dQ5H) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 4:36 |
 | 24 | [Bailamos](https://open.spotify.com/track/2bbeNsFmjZqdoDhjLsKNWe) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique](https://open.spotify.com/album/183XphT974zDxwM5QxETET) | 3:34 |
 | 25 | [What's It Gonna Be?! \(feat\. Janet Jackson\)](https://open.spotify.com/track/0FpLfrOyHblbDlHUsrPN1N) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Extinction Level Event: The Final World Front](https://open.spotify.com/album/4zb4gmGzDYtlWMjmc1NZWW) | 5:24 |
-| 26 | [What It's Like \[Explicit Version\]](https://open.spotify.com/track/1WgfNvPhqJQHfu2ewqnkl3) | [Everlast](https://open.spotify.com/artist/14ZxDAK6ITtZZqPdiWrvSn) | [Whitey Ford Sings The Blues \[Explicit\]](https://open.spotify.com/album/6IQmWJTawuzWees9oVQ3Zm) | 0:29 |
+| 26 | [What It's Like \[Explicit Version\]](https://open.spotify.com/track/1WgfNvPhqJQHfu2ewqnkl3) | [Everlast](https://open.spotify.com/artist/14ZxDAK6ITtZZqPdiWrvSn) | [Whitey Ford Sings The Blues \[Explicit\]](https://open.spotify.com/album/6IQmWJTawuzWees9oVQ3Zm) | 5:03 |
 | 27 | [Fly Away](https://open.spotify.com/track/0n0eMsX7WgEtc7dlscbuKU) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Greatest Hits](https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv) | 3:41 |
 | 28 | [Someday \- Remastered](https://open.spotify.com/track/6NcHJ23mLQKnVxQcOmT7JW) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [The Best Of Sugar Ray](https://open.spotify.com/album/2hjQQj7x2YipViOCw6UX1N) | 4:03 |
 | 29 | [That Don't Impress Me Much](https://open.spotify.com/track/0KvLsZYwodakWxOQUYAR5I) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/0vOj0JVKv2bobFBBUTjgQF) | 3:58 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/2dWfCGZguakRQagX7wM6Mi.md) - [plain]
 | 32 | [I Still Believe](https://open.spotify.com/track/3OeB0shjSeOFu8F92bg9gA) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Ballads](https://open.spotify.com/album/7ytzzJHmN6NqrFYCEAful2) | 3:54 |
 | 33 | [The Hardest Thing](https://open.spotify.com/track/7EEdDKopE2INq8y1sOZuhU) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [The Collection](https://open.spotify.com/album/5J0kPrSHVGdNhPNpNmi981) | 4:34 |
 | 34 | [Summer Girls](https://open.spotify.com/track/7uYroF9RRrhRJBrigRvB6H) | [LFO](https://open.spotify.com/artist/1FizW0swe8ODtXvEOHXbHX) | [LFO](https://open.spotify.com/album/6DZdRerOCdaQyBLwntH2cX) | 4:17 |
-| 35 | [Can I Get A...](https://open.spotify.com/track/4LGMSdeKOUoy5Wf75Je0Hl) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Amil](https://open.spotify.com/artist/6NzM38IkXdbQsQ4qW9CG7z), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6) | [Vol.2..\. Hard Knock Life](https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb) | 0:29 |
+| 35 | [Can I Get A...](https://open.spotify.com/track/4LGMSdeKOUoy5Wf75Je0Hl) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Amil](https://open.spotify.com/artist/6NzM38IkXdbQsQ4qW9CG7z), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6) | [Vol.2..\. Hard Knock Life](https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb) | 5:09 |
 | 36 | [Jumper](https://open.spotify.com/track/6gkD0tbTaBy9t6meSK4aIL) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Rhino Hi\-Five: Third Eye Blind](https://open.spotify.com/album/04Th6MzQSvha0DtPzkb2Q6) | 4:32 |
 | 37 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/2Uu8IiLkLY0UXhCHka4Dlr) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/2Uc0HAF0Cj0LAgyzYZX5e3) | 5:20 |
 | 38 | [Mambo No\. 5 \(A Little Bit of...\)](https://open.spotify.com/track/3qrUiGsAC0ZXKP6uOtikOY) | [Lou Bega](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) | [Fiesta Latina](https://open.spotify.com/album/2L4ZOOWkxzPzuVdlMx92CO) | 3:40 |

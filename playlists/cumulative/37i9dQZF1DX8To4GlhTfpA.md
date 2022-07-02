@@ -4,14 +4,14 @@
 
 > SHINee's back!
 
-88 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/2JTNzgRpCpXidFyNqublRO)
+88 songs - 5 hr 6 min - [published](https://open.spotify.com/playlist/2JTNzgRpCpXidFyNqublRO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 of 1](https://open.spotify.com/track/6UmRhJatcth1KF76r5ucvZ) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [1 of 1 \- The 5th Album](https://open.spotify.com/album/1hG9lZDk2HqmOHMtuI3Zdj) | 3:23 | 2021-12-29 |  |
 | [2 KIDS](https://open.spotify.com/track/35IJPK0rh5w4GwKvqHvnoZ) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [2 KIDS](https://open.spotify.com/album/5oFGlBqhY9IYR9slnZjhxH) | 3:33 | 2021-12-29 |  |
 | [Advice](https://open.spotify.com/track/4rOODw637hsmsq0uzT0DN3) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Advice \- The 3rd Mini Album](https://open.spotify.com/album/0kNUDDHwjpemplDqSZ72Ct) | 3:11 | 2021-12-29 |  |
-| [AMIGO](https://open.spotify.com/track/1ru2r3r1Njis2C4IbGzgfS) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [AMIGO \- The 1st Album Repackage](https://open.spotify.com/album/3iPBAfKqX3Kv7BTikuIg4K) | 0:29 | 2021-12-29 |  |
+| [AMIGO](https://open.spotify.com/track/1ru2r3r1Njis2C4IbGzgfS) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [AMIGO \- The 1st Album Repackage](https://open.spotify.com/album/3iPBAfKqX3Kv7BTikuIg4K) | 2:59 | 2021-12-29 |  |
 | [Area](https://open.spotify.com/track/4PnMI5KkpjvJTJfP4Wuz0n) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Atlantis \- The 7th Album Repackage](https://open.spotify.com/album/4hyhyzEkMEsaSHzkuMn4Ds) | 3:27 | 2021-12-29 |  |
 | [Artistic Groove](https://open.spotify.com/track/3NoazwpMAu02KkRwzjM3aS) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [WANT \- The 2nd Mini Album](https://open.spotify.com/album/7E01VOJ7gyYPz9HXUVeQeq) | 3:37 | 2021-12-29 |  |
 | [Atlantis](https://open.spotify.com/track/0BBUGRUURDjwcXmDS3kQkN) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Atlantis \- The 7th Album Repackage](https://open.spotify.com/album/4hyhyzEkMEsaSHzkuMn4Ds) | 2:58 | 2021-12-29 |  |
@@ -31,7 +31,7 @@
 | [Don't Call Me](https://open.spotify.com/track/462OPOKW0VMbvW9H7HIb0U) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Don't Call Me \- The 7th Album](https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3) | 3:40 | 2021-12-29 |  |
 | [Don’t Call Me \- Japanese Version](https://open.spotify.com/track/6TsYRhXOsWmXCpXI42ub3x) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [SUPERSTAR](https://open.spotify.com/album/5WuWV2xSRmdtPx6L5v855S) | 3:40 | 2021-12-29 |  |
 | [Don’t Stop](https://open.spotify.com/track/4AyydjmmNOh7GBrxqXT40l) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [1 of 1 \- The 5th Album](https://open.spotify.com/album/1hG9lZDk2HqmOHMtuI3Zdj) | 4:05 | 2021-12-29 |  |
-| [Dream Girl](https://open.spotify.com/track/3PrdbYsr8JsDW8f4Tob5pW) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Chapter 1\. 'Dream Girl \- The Misconceptions of You' \- The 3rd Album](https://open.spotify.com/album/4HbeuXyXcLWhZxJ7DS8epV) | 0:29 | 2021-12-29 |  |
+| [Dream Girl](https://open.spotify.com/track/3PrdbYsr8JsDW8f4Tob5pW) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Chapter 1\. 'Dream Girl \- The Misconceptions of You' \- The 3rd Album](https://open.spotify.com/album/4HbeuXyXcLWhZxJ7DS8epV) | 3:00 | 2021-12-29 |  |
 | [Drip Drop](https://open.spotify.com/track/7EYDRfuloB4kG28ECZkPZB) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Press It \- The 1st Album](https://open.spotify.com/album/3BPjJEl3GqXKDhYZf7iFfs) | 3:25 | 2021-12-29 |  |
 | [End of a day](https://open.spotify.com/track/0cAFqRrz8OqAoHdbiCM5OD) | [JONGHYUN](https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY) | [JONGHYUN The Collection "Story Op.1"](https://open.spotify.com/album/6tYoidZViVVzSXG4jKEmNd) | 4:37 | 2021-12-29 |  |
 | [Everybody](https://open.spotify.com/track/0BiYJIeiAxB8OrCOm9Hgq6) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Everybody \- The 5th Mini Album](https://open.spotify.com/album/0cJUtiybZCK22BF7yfSeA4) | 4:09 | 2021-12-29 |  |
@@ -66,7 +66,7 @@
 | [Prism](https://open.spotify.com/track/3vm0mFRTYFRmtym8SPHmUq) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [1 of 1 \- The 5th Album](https://open.spotify.com/album/1hG9lZDk2HqmOHMtuI3Zdj) | 3:11 | 2021-12-29 |  |
 | [Replay](https://open.spotify.com/track/3lezH4ocsAaxqVGL8E0pS4) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Replay \- The First Mini Album](https://open.spotify.com/album/2zarKiOQYtJ9PGWxYxUOk5) | 3:36 | 2021-12-29 |  |
 | [Ring Ding Dong](https://open.spotify.com/track/4vLqN0bIxIQjlet2mIMBnx) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [2009, Year Of Us \- The Third Mini Album](https://open.spotify.com/album/5AH7uBaxp7ojNCvImOeZvC) | 3:53 | 2021-12-29 |  |
-| [Ring Ding Dong \- SHINee WORLD 3 Version, Live](https://open.spotify.com/track/2DNGD5gd2R3jqmfEHAZ5mI) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [SHINee WORLD Ⅲ in SEOUL \- THE 3rd CONCERT ALBUM](https://open.spotify.com/album/3rDiBT1raLwVjVrVwUV5VZ) | 0:29 | 2021-12-29 |  |
+| [Ring Ding Dong \- SHINee WORLD 3 Version, Live](https://open.spotify.com/track/2DNGD5gd2R3jqmfEHAZ5mI) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [SHINee WORLD Ⅲ in SEOUL \- THE 3rd CONCERT ALBUM](https://open.spotify.com/album/3rDiBT1raLwVjVrVwUV5VZ) | 5:09 | 2021-12-29 |  |
 | [Romance](https://open.spotify.com/track/61YsdyXJPVKL5YOH70D3gR) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Odd \- The 4th Album](https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa) | 3:36 | 2021-12-29 |  |
 | [SAVIOR](https://open.spotify.com/track/2yQYEuvSXyyTx31ixs8q0r) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Married To The Music \- The 4th Album Repackage](https://open.spotify.com/album/41YpOLdNiBOP4CqZyVzBSB) | 3:53 | 2021-12-29 |  |
 | [SEASONS](https://open.spotify.com/track/71jQCPt4REcDtz2pREMJx1) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [SUPERSTAR](https://open.spotify.com/album/5WuWV2xSRmdtPx6L5v855S) | 3:54 | 2021-12-29 |  |

@@ -4,7 +4,7 @@
 
 > 作詞・作曲・編曲を手掛けるマルチ音楽コンポーザー。映画・アニメ・ゲーム・舞台・TVなど幅広い分野で活躍。Kalafinaのプロデュースや自身のユニットSee\-Saw、新プロジェクトFictionJunctionとしての活動でも知られ、ヨーロッパと東洋のエッセンスが融合した独自の世界観で熱い支持を集めている。
 
-67 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/1XZaYKhiGp9PN6eM141esm)
+67 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/1XZaYKhiGp9PN6eM141esm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [the world](https://open.spotify.com/track/3JTzSjvoNTfVRYoW9hMf5R) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [.hack//SIGN ORIGINAL SOUND & SONG TRACK1](https://open.spotify.com/album/2lA3xStYGlHINVKyab7pAl) | 5:03 | 2022-02-28 |  |
 | [to the beginning](https://open.spotify.com/track/3UqqDey54pOsAc31ZnXL0y) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Consolation](https://open.spotify.com/album/5QI1q4o2LJ4UpbgesVfBcL) | 4:16 | 2022-02-28 |  |
 | [to the next era](https://open.spotify.com/track/2CjcG32kIYTUtgbDxssGw3) | [JAM Project](https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU) | [The Age of Dragon Knights](https://open.spotify.com/album/0tX0mfPY2L2SfmxNgHePye) | 2:33 | 2022-02-28 |  |
-| [wonderland](https://open.spotify.com/track/2le6yHsjyys4h3mHs65tss) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Walpurgis](https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz) | 0:29 | 2022-02-28 |  |
+| [wonderland](https://open.spotify.com/track/2le6yHsjyys4h3mHs65tss) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Walpurgis](https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz) | 5:03 | 2022-02-28 |  |
 | [あんなに一緒だったのに](https://open.spotify.com/track/6JQl8e2SWQ6ba5rbSixPaV) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [あんなに一緒だったのに](https://open.spotify.com/album/1yTDSFN4NOhv4pQZoz5XJq) | 4:48 | 2022-02-28 |  |
 | [それは小さな光のような](https://open.spotify.com/track/23NlSC7lOjCHmJYYggvJe0) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [それは小さな光のような\-special edition](https://open.spotify.com/album/3n5g6PWeL2XVwFXevw96H8) | 4:32 | 2022-02-28 |  |
 | [ひかりふる](https://open.spotify.com/track/5qJGYNfb91Wml51v5vnj4K) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [ひかりふる](https://open.spotify.com/album/64TNI4SlacrbN6sA5Zig4f) | 4:51 | 2022-02-28 |  |

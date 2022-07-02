@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTHlwqNeZ4l.md) - [plain]
 
 > Tapping Gallant, ANOHNI, and more, the Canadian duo forge a Pride list that defines eclecticism\. Listen for a new tune with Ingrid Michaelson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,439 likes - 27 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,439 likes - 27 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTHlwqNeZ4l.md) - [plain]
 | 7 | [Tegan and Sara on Madonna](https://open.spotify.com/track/0NJIw3OZN1e1NtPhoUGs7o) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Tegan and Sara \- Spotify Pride](https://open.spotify.com/album/0xYvIMRxFzd25UqhFOeSIq) | 0:33 |
 | 8 | [Holiday](https://open.spotify.com/track/7arHM2KZ0KzIZXFVDRGClI) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/1DWWb4Q39mp1T3NgyscowF) | 3:51 |
 | 9 | [Everybody Wants to Love You](https://open.spotify.com/track/2xMkD3Zv3tBUMyOzLmIYYZ) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Everybody Wants to Love You](https://open.spotify.com/album/7iRFeAePGZRT2HLP9WkmBv) | 2:12 |
-| 10 | [Sprained Ankle](https://open.spotify.com/track/5mHTg6cqhyP0BmsTQKzN1X) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Sprained Ankle](https://open.spotify.com/album/4dRzxZm69k9s0nzKmKb8Gj) | 0:29 |
+| 10 | [Sprained Ankle](https://open.spotify.com/track/5mHTg6cqhyP0BmsTQKzN1X) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Sprained Ankle](https://open.spotify.com/album/4dRzxZm69k9s0nzKmKb8Gj) | 2:22 |
 | 11 | [Tangled Memories](https://open.spotify.com/track/1lRidQjEY5OrBB0QrOdBuS) | [GEMS](https://open.spotify.com/artist/1hjVmBR8STjix0vBUe5YfN) | [Tangled Memories](https://open.spotify.com/album/0o4evpsxawqnPzfplaYyYS) | 4:00 |
 | 12 | [Boyfriend](https://open.spotify.com/track/0LS0zdRKdEfulSAD0BKOVa) | [The Goon Sax](https://open.spotify.com/artist/7qtF58vGfOhD4z3yzrD9PD) | [Boyfriend](https://open.spotify.com/album/6XSVTDsitBTYEJe9R3PZce) | 2:59 |
 | 13 | [Blush](https://open.spotify.com/track/19uZpCvv7D2xcz2KwXFgiO) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Rojus \(Designed To Dance\)](https://open.spotify.com/album/1Qzmv9hS3iDJf3tE3UdY6Q) | 8:30 |

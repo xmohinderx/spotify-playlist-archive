@@ -4,7 +4,7 @@
 
 > The original soundtrack to a dancefloor revolution, from the basement to the world \- this is Acid.
 
-48 songs - 4 hr 30 min - [published](https://open.spotify.com/playlist/7s0i33BBUjQHA9lPvjbnaK)
+48 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/7s0i33BBUjQHA9lPvjbnaK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [I Want You](https://open.spotify.com/track/1hONFIdBCTdn9DTiEbRTkI) | [Ralphi Rosario](https://open.spotify.com/artist/0c5584rnmlOvkMpJtpBLTh) | [Ralphi Rosario's Greatest Hits](https://open.spotify.com/album/1X1NgiMTByMIIZkjvoAtXh) | 7:46 | 2018-06-21 |  |
 | [I'll House You](https://open.spotify.com/track/2IOIuMlbkvA3lBYMQV73fZ) | [Jungle Brothers](https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj) | [The Big Apple Bites Back \- New York House & Remix Culture](https://open.spotify.com/album/1BD2W3RVzcCjnJ6a5AVfZm) | 4:58 | 2018-06-21 |  |
 | [In\-Ten\-Si\-T \(Justin Robertson Edit\)](https://open.spotify.com/track/7MZpzMpifYZ8JjHegxEvZT) | [Mickey Oliver](https://open.spotify.com/artist/38Z7qUi0hKwX35bT7AW7dE) | [The Art Of Acid Re\-Edits](https://open.spotify.com/album/29yqMCQDnePeZrNksbQb3c) | 7:16 | 2018-06-21 |  |
-| [Jack Your Body \- Original Club Mix](https://open.spotify.com/track/0qD3sHqLrmKDcRX3MKvsFX) | [Steve "Silk" Hurley](https://open.spotify.com/artist/2TzZ6XTFG1p1PAfhl0crDP) | [Best Of DJ International \- Part One](https://open.spotify.com/album/5Pu8tU3qumOLfYcS50TBmn) | 0:29 | 2018-06-21 |  |
+| [Jack Your Body \- Original Club Mix](https://open.spotify.com/track/0qD3sHqLrmKDcRX3MKvsFX) | [Steve "Silk" Hurley](https://open.spotify.com/artist/2TzZ6XTFG1p1PAfhl0crDP) | [Best Of DJ International \- Part One](https://open.spotify.com/album/5Pu8tU3qumOLfYcS50TBmn) | 6:53 | 2018-06-21 |  |
 | [Jiggerwatts](https://open.spotify.com/track/35qEbPhtPsijSpbDVqtci4) | [Phortune](https://open.spotify.com/artist/3SKiqrQqIsYjfR8KpY5WW3) | [The Haçienda \- Acid House Classics](https://open.spotify.com/album/7lwBCmb2LjThWjPAasAyoW) | 6:09 | 2018-06-21 |  |
 | [Lack Of Love](https://open.spotify.com/track/21gvRGGQ81d7zijU6QlLZX) | [Charles B.](https://open.spotify.com/artist/4X1STxfD2HlEZOCqkp3Wla) | [The Haçienda \- Acid House Classics](https://open.spotify.com/album/7lwBCmb2LjThWjPAasAyoW) | 7:10 | 2018-06-21 |  |
 | [Let The Music Use You](https://open.spotify.com/track/0vpXry3pru4sIm7VraagKY) | [The Nightwriters](https://open.spotify.com/artist/06SAdf9QB0xFf5BicN99SV) | [Frankie Knuckles Presents: His Greatest Hits from Trax Records](https://open.spotify.com/album/4d5YuKmY2IwltrdzNVCZyD) | 7:57 | 2018-06-21 |  |

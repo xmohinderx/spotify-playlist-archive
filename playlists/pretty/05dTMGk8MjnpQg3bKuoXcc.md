@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/05dTMGk8MjnpQg3bKuoXcc.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 368 likes - 51 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 368 likes - 51 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/05dTMGk8MjnpQg3bKuoXcc.md) - [plain]
 | 9 | [Boogie Oogie Oogie \- Remastered 2004](https://open.spotify.com/track/07NrCEN3egNvw8td2LxqJO) | [A Taste Of Honey](https://open.spotify.com/artist/1ii6e2pv8VIRwnTER71rMl) | [A Taste Of Honey](https://open.spotify.com/album/4QJA3YXQdpLhuIztkSgrpo) | 5:38 |
 | 10 | [Three Times A Lady](https://open.spotify.com/track/6QdEjUUKxXf6jWGEQUaq8i) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [The Commodores Anthology](https://open.spotify.com/album/14nSJs3okLuuhGsYCpdcQM) | 6:39 |
 | 11 | [Grease](https://open.spotify.com/track/74t6ZmO6Vzq553l2zRgdhs) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [Grease](https://open.spotify.com/album/3ku54lKW19XjXwhNkNdtzZ) | 3:25 |
-| 12 | [I Go Crazy](https://open.spotify.com/track/5qZNMsjtZwB02g4oQnHXWf) | [Paul Davis](https://open.spotify.com/artist/6EJmqnuK0r6qiAevFFiNNR) | [Paul Davis Greatest Hits](https://open.spotify.com/album/6FTbmoGyMvyTtJnmL6Dh41) | 0:29 |
+| 12 | [I Go Crazy](https://open.spotify.com/track/5qZNMsjtZwB02g4oQnHXWf) | [Paul Davis](https://open.spotify.com/artist/6EJmqnuK0r6qiAevFFiNNR) | [Paul Davis Greatest Hits](https://open.spotify.com/album/6FTbmoGyMvyTtJnmL6Dh41) | 3:52 |
 | 13 | [You're The One That I Want](https://open.spotify.com/track/5k611PjxiTgNqt4FVr033f) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Back To Basics: The Essential Collection 1971\-1992](https://open.spotify.com/album/2oakCvKsiK8NqZvvlEzmn4) | 2:48 |
 | 14 | [Emotion](https://open.spotify.com/track/4VysuZmoPFPQuym9vYK3vM) | [Samantha Sang](https://open.spotify.com/artist/1IvJtmPLbzpxDxfrw4rMFa) | [Emotion](https://open.spotify.com/album/4scN0SoJ3l2MvPcG1zKj3G) | 3:59 |
 | 15 | [Lay Down Sally](https://open.spotify.com/track/7gATKlmWuNh3ThrDUiuWec) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand \(Remasters\)](https://open.spotify.com/album/1CHN1KX7fySkOFQlvhxuVR) | 3:56 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/05dTMGk8MjnpQg3bKuoXcc.md) - [plain]
 | 34 | [Sometimes When We Touch](https://open.spotify.com/track/0qUNXZL3rzJ8cXM2DCmQcU) | [Dan Hill](https://open.spotify.com/artist/5rOhfAsK4uxq9OdREiQRKa) | [Longer Fuse](https://open.spotify.com/album/2oBnfhXy78UkPb94PeERgw) | 4:12 |
 | 35 | [Last Dance \- Single Version](https://open.spotify.com/track/0xBUip8pf80321XF6jDYqx) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [The Journey: The Very Best Of Donna Summer](https://open.spotify.com/album/6xeTCiThDHUeCjBM7KxHtr) | 3:18 |
 | 36 | [Hopelessly Devoted To You](https://open.spotify.com/track/4ffryesggmTUgxvsD90msA) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Back To Basics: The Essential Collection 1971\-1992](https://open.spotify.com/album/2oakCvKsiK8NqZvvlEzmn4) | 3:07 |
-| 37 | [Hot Blooded](https://open.spotify.com/track/6xMHglHoafdDFGXS6qfwSH) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Double Vision \(Expanded\)](https://open.spotify.com/album/6lu6DYE0eHHp1gd3QGUYhu) | 0:29 |
+| 37 | [Hot Blooded](https://open.spotify.com/track/6xMHglHoafdDFGXS6qfwSH) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Double Vision \(Expanded\)](https://open.spotify.com/album/6lu6DYE0eHHp1gd3QGUYhu) | 4:28 |
 | 38 | [You're in My Heart \(The Final Acclaim\)](https://open.spotify.com/track/1lsAJKTZGQrKBhNVMZhZtq) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Rhino Hi\-Five: Rod Stewart](https://open.spotify.com/album/05Jdpw1EnrGoJyw5xgPIx9) | 4:30 |
 | 39 | [The Closer I Get to You](https://open.spotify.com/track/44jdxE3S8EX1lOAxV9vQbZ) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 4:40 |
 | 40 | [Dust in the Wind](https://open.spotify.com/track/4E0lSJ6c5unoku9UIZoJSl) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [The Best Of Kansas](https://open.spotify.com/album/3eLtE3HWyUWQbO2CYFKkwO) | 3:25 |

@@ -4,7 +4,7 @@
 
 > Beautiful mandolin music to accompany your Italian supper\. Buon appetito.
 
-53 songs - 2 hr 42 min - [published](https://open.spotify.com/playlist/1wWzoqfCgituqvGu8AuaaR)
+53 songs - 2 hr 45 min - [published](https://open.spotify.com/playlist/1wWzoqfCgituqvGu8AuaaR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Come to the Sea, Vieni Sul Mar](https://open.spotify.com/track/0xUK0FtYr4MSOArxPLi954) | [Italian Mandolin Torna A Surriento](https://open.spotify.com/artist/6B1qY6diGzu9FFbGOG7fSk) | [Italian Music, Tarantella, Come Back to Sorrento](https://open.spotify.com/album/191xZsXIZWwYcKshzfEJbg) | 2:28 | 2021-08-13 |  |
 | [Danza](https://open.spotify.com/track/3ffa2QEGmJ2B03LFqObUnA) | [Rebecca Arons](https://open.spotify.com/artist/5yWsPDJZtUgZrQyVhLTTBt) | [Mangia! Italian Dinner Night](https://open.spotify.com/album/4DgaA9cywJuxbkFcXmLAkx) | 4:37 | 2021-08-13 |  |
 | [Drinking Song](https://open.spotify.com/track/4MHgsC2QMjKOdCHDyLpCNr) | [Il Nuovo Canzoniere Italiano G](https://open.spotify.com/artist/0bL3HwV4MUNY6zWF48FBFJ) | [Legendary Favorite Songs of Italy](https://open.spotify.com/album/3kRcceh4bQYuJ6MIdKnXNN) | 1:54 | 2021-08-13 |  |
-| [E Spingule Francese](https://open.spotify.com/track/2SAzbO5y0kPu5UrZt25Ag6) | [Romano Zanotti](https://open.spotify.com/artist/77jndz0F7PziSYe6POtrAS) | [La chanson napolitaine de 1650 à 1987](https://open.spotify.com/album/1jCSvp59VIQOtsC3Gkc3Nb) | 0:29 | 2021-08-13 |  |
+| [E Spingule Francese](https://open.spotify.com/track/2SAzbO5y0kPu5UrZt25Ag6) | [Romano Zanotti](https://open.spotify.com/artist/77jndz0F7PziSYe6POtrAS) | [La chanson napolitaine de 1650 à 1987](https://open.spotify.com/album/1jCSvp59VIQOtsC3Gkc3Nb) | 3:36 | 2021-08-13 |  |
 | [Fellini Days](https://open.spotify.com/track/6kueWeSlE3v5RaObViNXtx) | [Italian Social Club](https://open.spotify.com/artist/05TCFEjumGZHwHezCWNwK0) | [Italian Café: Traditional Romantic Dinner Music from Italy](https://open.spotify.com/album/7hHYu4VO064qljJ4oKdjrD) | 3:10 | 2021-08-13 |  |
 | [Fettuccine Alfredo](https://open.spotify.com/track/5mSiy4neve8KOgR1gnpKE7) | [Italian Social Club](https://open.spotify.com/artist/05TCFEjumGZHwHezCWNwK0) | [Italian Café: Traditional Romantic Dinner Music from Italy](https://open.spotify.com/album/7hHYu4VO064qljJ4oKdjrD) | 2:44 | 2021-08-13 |  |
 | [Figghiu Miu](https://open.spotify.com/track/6calBfoTbCrWdQkt3y0DW5) | [Matilde Politi](https://open.spotify.com/artist/21RqU08tcujA0D1NXvVToE) | [Folk Songs from Sicily](https://open.spotify.com/album/6k3DQRlUYuiejMrkuBiiGG) | 3:46 | 2021-08-13 |  |

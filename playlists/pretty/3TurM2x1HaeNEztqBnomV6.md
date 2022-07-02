@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3TurM2x1HaeNEztqBnomV6.md) - [plain]
 
 > Get through your workday with 8 hours of singer\-songwriter tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,465 likes - 123 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,465 likes - 123 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/3TurM2x1HaeNEztqBnomV6.md) - [plain]
 | 3 | [Tea & Toast](https://open.spotify.com/track/4494FBU5XHDKLIHWTUVHbO) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Join the Club](https://open.spotify.com/album/1IjbX0w4wI4Pb7G8lu238I) | 4:32 |
 | 4 | [Miss Johnson's Honey](https://open.spotify.com/track/3om6x3ppzVr8t2SfaIZ6xP) | [Brigitte DeMeyer](https://open.spotify.com/artist/04D8yxhcrB6E94sYGMEfP4) | [Rose of Jericho](https://open.spotify.com/album/09lg8F0MZeNlOnvvwTTFkq) | 3:04 |
 | 5 | [Great Escape](https://open.spotify.com/track/5R6JIkJgOoKaF4lwwwq44s) | [Mike Dignam](https://open.spotify.com/artist/6hSOhRdXUftWQ5Zi1JvhVE) | [Paint EP](https://open.spotify.com/album/2hwT8DcmtA6Yu2YeiDFMVG) | 4:07 |
-| 6 | [Crosses](https://open.spotify.com/track/1JbbrE9YNQM9zlHps3eKGf) | [Stephen Kellogg](https://open.spotify.com/artist/794GTZkztMS29PO7cTOnmY) | [Blunderstone Rookery](https://open.spotify.com/album/1Zj2v74TmKZWu35TiCo7aS) | 0:29 |
+| 6 | [Crosses](https://open.spotify.com/track/1JbbrE9YNQM9zlHps3eKGf) | [Stephen Kellogg](https://open.spotify.com/artist/794GTZkztMS29PO7cTOnmY) | [Blunderstone Rookery](https://open.spotify.com/album/1Zj2v74TmKZWu35TiCo7aS) | 3:17 |
 | 7 | [This Is for You](https://open.spotify.com/track/0NWlszpa1lhIEE42Ls8ddH) | [Emma Stevens](https://open.spotify.com/artist/4ULAjXdgOJfwASBSBJFTUW) | [Enchanted](https://open.spotify.com/album/6WIrRlAVYRk6KljpWFIXDm) | 3:04 |
 | 8 | [Under My Bed](https://open.spotify.com/track/2iwcZzrGQFsrQE6SimQfGS) | [Meiko](https://open.spotify.com/artist/6tW9jWf8lpuzDzAdVMvNMV) | [Meiko](https://open.spotify.com/album/7iUWX1Z3rB1xYSuf5Ok1yU) | 3:48 |
 | 9 | [Just You And Me](https://open.spotify.com/track/70GTVr12vcjw7LQycKbUPh) | [Zee Avi](https://open.spotify.com/artist/6zGcYBjlNOMSVVrl7ZoGsH) | [Zee Avi](https://open.spotify.com/album/6666t41NfjMqq4OYTrrPyu) | 2:56 |
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/3TurM2x1HaeNEztqBnomV6.md) - [plain]
 | 11 | [Circumstances](https://open.spotify.com/track/4S082AesJHFnwdIF7n3a1I) | [Daphne Willis](https://open.spotify.com/artist/40Qm9cpj6FlrkoL1sziJ2S), [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Because I Can](https://open.spotify.com/album/45I01f8BpIx3ypiLIMWHBz) | 2:56 |
 | 12 | [Simple Life](https://open.spotify.com/track/3XUKAzSuLQjgAlAXY2pQoC) | [Casey Abrams](https://open.spotify.com/artist/1UxNUybRFdtksz3l5HtCEG) | [Casey Abrams](https://open.spotify.com/album/3MwQNFaP6TKspBt4L0WZ47) | 3:36 |
 | 13 | [Kissin'](https://open.spotify.com/track/1r0WADWQeT9Oz1ZTszrWT0) | [Zane Williams](https://open.spotify.com/artist/7LjXLho6TAS9wkSfnjd0AX) | [Overnight Success](https://open.spotify.com/album/6n6sPaGhVEOp2Rvk8tcD4Q) | 4:05 |
-| 14 | [Have It All](https://open.spotify.com/track/04xifNn1IuWnMnDtKXpKno) | [Jeremy Kay](https://open.spotify.com/artist/6HnFfQug60BF0wJPXpusXY) | [Jeremy Kay](https://open.spotify.com/album/0YM1iRw4n2p4GBpxLV7mFq) | 0:29 |
+| 14 | [Have It All](https://open.spotify.com/track/04xifNn1IuWnMnDtKXpKno) | [Jeremy Kay](https://open.spotify.com/artist/6HnFfQug60BF0wJPXpusXY) | [Jeremy Kay](https://open.spotify.com/album/0YM1iRw4n2p4GBpxLV7mFq) | 3:50 |
 | 15 | [When Will I See Your Face Again](https://open.spotify.com/track/2iNv8Iomdg4CyBfWk6kUXJ) | [Jamie Scott & The Town](https://open.spotify.com/artist/4BCijRD020JSmK7XNipkU1) | [Park Bench Theories](https://open.spotify.com/album/2at2uSg1A1jkeGjazPFDDq) | 4:22 |
 | 16 | [Yellow Rose](https://open.spotify.com/track/7c24T83BppA73rwHFVM2Wb) | [Christopher Jak](https://open.spotify.com/artist/1R89fyGUo0ssDF11zBgHD9) | [The New Nostalgia](https://open.spotify.com/album/0nhKMKByrHektFiINvXTSo) | 3:18 |
 | 17 | [What I Wouldn't Do](https://open.spotify.com/track/6venqrqaUzmWD2kGa8YirO) | [A Fine Frenzy](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) | [Bomb In A Birdcage](https://open.spotify.com/album/36KSPD9Sc3QhkLojaDUk7Y) | 2:57 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/3TurM2x1HaeNEztqBnomV6.md) - [plain]
 | 24 | [Replaced](https://open.spotify.com/track/6kSnoxLwGylZr1uaei9s8J) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Replaced](https://open.spotify.com/album/03kTjnvGinXCsEKXkD2vPb) | 3:45 |
 | 25 | [Please Don't Say You Love Me](https://open.spotify.com/track/4y0GYqBSHEy7e1FOemdLjK) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Please Don't Say You Love Me](https://open.spotify.com/album/18Ni6bqSaSdui11feMiZxA) | 3:01 |
 | 26 | [Heard You Crying](https://open.spotify.com/track/2hMj8iDL2P41tUCAgFNFED) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Wide Awake](https://open.spotify.com/album/65Z3hZGZsiNcpOAT2U0Inn) | 3:50 |
-| 27 | [Take Me](https://open.spotify.com/track/6UL4eJm0d9hxxYW8iEl0Y8) | [Shannon LaBrie](https://open.spotify.com/artist/2hbQ7GP1FxLy7D8lRX2Kq7) | [Just Be Honest](https://open.spotify.com/album/7j4eVcpLMIkASPxpjRMoXH) | 0:29 |
+| 27 | [Take Me](https://open.spotify.com/track/6UL4eJm0d9hxxYW8iEl0Y8) | [Shannon LaBrie](https://open.spotify.com/artist/2hbQ7GP1FxLy7D8lRX2Kq7) | [Just Be Honest](https://open.spotify.com/album/7j4eVcpLMIkASPxpjRMoXH) | 3:44 |
 | 28 | [Daniel](https://open.spotify.com/track/6fiu0zyR5SjpsbLYBtjzwY) | [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [Red](https://open.spotify.com/album/25dxgeksWwVbcbO0CwzfwB) | 3:35 |
 | 29 | [Beautiful Day](https://open.spotify.com/track/7K9Fb8wGrT5s4i6rOYzxwZ) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [Wax Wings](https://open.spotify.com/album/2jrk1eG8cn2ZNHOdG3d8qq) | 3:32 |
 | 30 | [Paper Doll](https://open.spotify.com/track/2GAljG6WxV0XU7N88TWhb1) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Paper Doll](https://open.spotify.com/album/5lNLtkz1m10oElEs42267Q) | 4:17 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/3TurM2x1HaeNEztqBnomV6.md) - [plain]
 | 33 | [Camden Town](https://open.spotify.com/track/0KKviEEBzrLFBeBiOK5da4) | [Michelle Featherstone](https://open.spotify.com/artist/1Y50jSAGSM3NnuzqB8yTsk) | [Blue Bike](https://open.spotify.com/album/5Rz70hATX6pPVGVZUrEzxY) | 3:45 |
 | 34 | [Even In Your Doubt](https://open.spotify.com/track/05xmVxlMpIuiFvCHgXBdrG) | [Jake Walden](https://open.spotify.com/artist/1FEFkuIZgcGGl5KOAgL5IO) | [Same Something Different](https://open.spotify.com/album/267BKPoZFaSspY57qq0hIy) | 3:16 |
 | 35 | [You Can Run](https://open.spotify.com/track/5lt2cMmHxKMpc0LsWzTyGw) | [Bryan Greenberg](https://open.spotify.com/artist/2s7yDhxYxmB8aq5Skh3oTG) | [We Don't Have Forever](https://open.spotify.com/album/0F38RZDnSWcw44RjMuA4n8) | 3:17 |
-| 36 | [Here We Are](https://open.spotify.com/track/2XEWmdLT8yyYlivcEG7JDS) | [Patrick Park](https://open.spotify.com/artist/4I1ZPDoEcZOul26MTXDhNO) | [Everyone's In Everyone](https://open.spotify.com/album/1sRWeQOIRPq8g02K7Jp3WA) | 0:29 |
+| 36 | [Here We Are](https://open.spotify.com/track/2XEWmdLT8yyYlivcEG7JDS) | [Patrick Park](https://open.spotify.com/artist/4I1ZPDoEcZOul26MTXDhNO) | [Everyone's In Everyone](https://open.spotify.com/album/1sRWeQOIRPq8g02K7Jp3WA) | 3:09 |
 | 37 | [The Middle of the Road](https://open.spotify.com/track/38skFZxNKSkP9jZ2cqOnaU) | [Johnathan Rice](https://open.spotify.com/artist/0mWvEaKCRY0wHoPuMDn9n0) | [Further North](https://open.spotify.com/album/7FLplERZ0nJ8uoI73YdQew) | 4:01 |
 | 38 | [This Far](https://open.spotify.com/track/5psOrWBND4BmCXgYwZ87uW) | [Landon Pigg](https://open.spotify.com/artist/1whjlG0NSaQytgDIWz10GS) | [The Boy Who Never](https://open.spotify.com/album/1fFFfcxhKi0kSPhm8kdOuf) | 3:57 |
 | 39 | [Name on My Shirt](https://open.spotify.com/track/5GFlZ3lSiE2UOm4HAqvLVW) | [The Dirt Drifters](https://open.spotify.com/artist/1i8JjHb2xPYOQrnKGMwpOf) | [This Is My Blood](https://open.spotify.com/album/32tRzmHVO5OxNv7IK36x24) | 4:39 |

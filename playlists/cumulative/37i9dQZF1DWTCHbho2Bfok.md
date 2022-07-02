@@ -4,17 +4,17 @@
 
 > All the festive faves to soundtrack your very merry Christmas!
 
-53 songs - 2 hr 42 min - [published](https://open.spotify.com/playlist/6kMROUmrhkoCB9OtoHeyZI)
+53 songs - 2 hr 51 min - [published](https://open.spotify.com/playlist/6kMROUmrhkoCB9OtoHeyZI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(It Must've Been Ol'\) Santa Claus](https://open.spotify.com/track/54G7kjF8wbQAwG3WGmP6Ji) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When My Heart Finds Christmas](https://open.spotify.com/album/1It3aEvCmT8UvUMmBm5DIV) | 4:36 | 2021-12-23 |  |
-| [8 Days of Christmas](https://open.spotify.com/track/7o4HtESXicUqk3oRqngIsS) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [8 Days Of Christmas](https://open.spotify.com/album/0MnAbxbwU1Rjg8hbGzKjYZ) | 0:29 | 2021-12-23 |  |
+| [8 Days of Christmas](https://open.spotify.com/track/7o4HtESXicUqk3oRqngIsS) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [8 Days Of Christmas](https://open.spotify.com/album/0MnAbxbwU1Rjg8hbGzKjYZ) | 3:29 | 2021-12-23 |  |
 | [A Holly Jolly Christmas \- Single Version](https://open.spotify.com/track/2HbKKeBC5tZcrVqt7N4kXl) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Christmas Classics](https://open.spotify.com/album/1Vwa96loe5FeAjyE4Z1KuA) | 2:12 | 2021-12-23 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/7nQrUXVzVeYb0hAuabfmaP) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Christmas Hits](https://open.spotify.com/album/6Mtye5lhYh1JtHenUkIsH6) | 4:01 | 2021-12-23 |  |
 | [Baby It's Cold Outside \(duet with Michael Bublé\)](https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Holiday Wishes](https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl) | 2:46 | 2021-12-23 |  |
 | [Blue Christmas](https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Christmas Album](https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N) | 2:09 | 2021-12-23 |  |
-| [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/5JBRAkR2DS1rsUQgxcj23t) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [A Very Special Christmas 25th Anniversary](https://open.spotify.com/album/2eMfhq6WQXRARD6wvjWgBw) | 0:29 | 2021-12-23 |  |
+| [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/5JBRAkR2DS1rsUQgxcj23t) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [A Very Special Christmas 25th Anniversary](https://open.spotify.com/album/2eMfhq6WQXRARD6wvjWgBw) | 2:19 | 2021-12-23 |  |
 | [Christmas All Over Again](https://open.spotify.com/track/3nCcFA1iiehndgGSddMiV2) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [A Very Special Christmas 2](https://open.spotify.com/album/6ji3q7ebjcGPuZZun0ifBU) | 4:14 | 2021-12-23 |  |
 | [Christmas In Hollis](https://open.spotify.com/track/1MxFicnnrdo9RzFLAm4Gsf) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Christmas Hits](https://open.spotify.com/album/6Mtye5lhYh1JtHenUkIsH6) | 2:58 | 2021-12-23 |  |
 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/1hvpDAxZPKjKztOc72sv06) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know Its Christmas?](https://open.spotify.com/album/5v6oVunOk4DA8SMlBFqsKG) | 3:42 | 2021-12-23 |  |
@@ -52,7 +52,7 @@
 | [Sleigh Ride](https://open.spotify.com/track/1zOnUH1tBBLYREt1hgzvgf) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Christmas Hits](https://open.spotify.com/album/6Mtye5lhYh1JtHenUkIsH6) | 3:01 | 2021-12-23 |  |
 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 | 2021-12-23 |  |
 | [Step Into Christmas](https://open.spotify.com/track/10HDoLPz2bucGBkoNEjDHW) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered\)](https://open.spotify.com/album/4wBEBXmZSMUnscian0hgCI) | 4:32 | 2021-12-23 |  |
-| [Thank God It's Christmas \- 2011 Remaster](https://open.spotify.com/track/341h4Vfj9HJMm2tNDX3ARw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Platinum Collection \(2011 Remaster\)](https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8) | 0:29 | 2021-12-23 |  |
+| [Thank God It's Christmas \- 2011 Remaster](https://open.spotify.com/track/341h4Vfj9HJMm2tNDX3ARw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Platinum Collection \(2011 Remaster\)](https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8) | 4:21 | 2021-12-23 |  |
 | [The Christmas Song \(Merry Christmas To You\) \- Remastered 1999](https://open.spotify.com/track/4cqLCCMzG6GQ9Bch2PBzFp) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song](https://open.spotify.com/album/2d3wa6DNw6HEdrKf6VmW4O) | 3:11 | 2021-12-23 |  |
 | [The Little Drummer Boy](https://open.spotify.com/track/5byWqEEi3ZdTpz3UJafR91) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Only Santa Knows \(Deluxe Edition\)](https://open.spotify.com/album/4HPh13sNS108WhMSmXgXjV) | 3:33 | 2021-12-23 |  |
 | [The Little Drummer Boy](https://open.spotify.com/track/1KUKcrbrjN6pBrIN1xtQX5) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Christmas Hits](https://open.spotify.com/album/6Mtye5lhYh1JtHenUkIsH6) | 2:33 | 2021-12-23 |  |

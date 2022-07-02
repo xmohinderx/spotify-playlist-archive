@@ -4,7 +4,7 @@
 
 > Celebrate Dad with these songs for the whole family.
 
-34 songs - 1 hr 8 min - [published](https://open.spotify.com/playlist/6tl6Ybu4TpCwX9cllSPtj0)
+34 songs - 1 hr 10 min - [published](https://open.spotify.com/playlist/6tl6Ybu4TpCwX9cllSPtj0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Daddy Song \- Thank You](https://open.spotify.com/track/6CExjOhY0hn4vsFFh2wmhe) | [Morphle](https://open.spotify.com/artist/0klGLXMn3FdjcUlNqQJosO) | [Daddy Song \- Thank You](https://open.spotify.com/album/2F3UwWSOHBnyEr6aorFUVf) | 2:05 | 2022-04-08 |  |
 | [Daddy Takes Good Care of Me \- 2015 Version](https://open.spotify.com/track/1hQDkxjJotKkwh1ISYsfuO) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Mother's Day and Father's Day Songs for Kids](https://open.spotify.com/album/5Kzm0vKSwHDj1Ib3w4fVE8) | 2:02 | 2022-04-08 |  |
 | [Daddy's Whiskers](https://open.spotify.com/track/5B7vbfnVqNX1zkcy0uqasM) | [Sharon, Lois & Bram](https://open.spotify.com/artist/0SPvCvZvk7XDx8tGtGQhiE) | [Skinnamarink TV](https://open.spotify.com/album/2Mwc6S6uZkjBCFhACiADZL) | 2:04 | 2022-04-08 |  |
-| [Daddy\-o](https://open.spotify.com/track/6ti6642d8YTQ7YNy7I9OD0) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Fascinating Creatures](https://open.spotify.com/album/0QNI8ietPOpLX0nrJPzrRi) | 0:29 | 2022-04-08 |  |
+| [Daddy\-o](https://open.spotify.com/track/6ti6642d8YTQ7YNy7I9OD0) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Fascinating Creatures](https://open.spotify.com/album/0QNI8ietPOpLX0nrJPzrRi) | 2:03 | 2022-04-08 |  |
 | [Dance to Your Daddy](https://open.spotify.com/track/6hSE9c2XBJvSaZsBj4oF4x) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Taking Off!](https://open.spotify.com/album/1z2g7LzBZArYxElKvT47kl) | 1:18 | 2022-04-08 |  |
 | [Dear Old Dad](https://open.spotify.com/track/2POHHxEXrtaoieUdXuynyA) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Rock\-O\-Matic](https://open.spotify.com/album/2s0fLhzaaSO4zOlbpA9MOD) | 2:29 | 2022-04-08 |  |
 | [Father's Day! Father's Day!](https://open.spotify.com/track/2QhuyNYE0WBPNhsGC4chR3) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Kids Pop Songs for Father's Day](https://open.spotify.com/album/4pOfhxZCAqDEiRTpgJEG4O) | 1:33 | 2022-04-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JzJ8vAK836.md) - [plain]
 
 > Pop, rock, funk, R&B, psychedelia—the man from Minneapolis was a true original and earth\-shattering performer\. Hear <a href="spotify:artist:5a2EaR3hamoenG9rDuVn8j">Prince Rogers Nelson</a>'s best right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 737,188 likes - 80 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 737,317 likes - 80 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JzJ8vAK836.md) - [plain]
 | 74 | [BREAKFAST CAN WAIT](https://open.spotify.com/track/0JMuL1ruqVGPkeZULI6toQ) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [ART OFFICIAL AGE](https://open.spotify.com/album/1xRg9g9QCGjFp9poxLnU5M) | 3:54 |
 | 75 | [Stare](https://open.spotify.com/track/2eZJ9lrNeSqDt9iOgtft0M) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Stare](https://open.spotify.com/album/2qzNTR3brGnweQTOidQiUZ) | 3:43 |
 | 76 | [THIS COULD BE US](https://open.spotify.com/track/5FahqUmF2xPV5e0mUEAlxK) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [ART OFFICIAL AGE](https://open.spotify.com/album/1xRg9g9QCGjFp9poxLnU5M) | 5:12 |
-| 77 | [Electric Intercourse \- Studio Version](https://open.spotify.com/track/5Bv97kzwGxJyzWy57PDTbN) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Electric Intercourse \(Studio Version\)](https://open.spotify.com/album/5R5muZM0qi8tyfEV6zcEE9) | 0:29 |
+| 77 | [Electric Intercourse \- Studio Version](https://open.spotify.com/track/5Bv97kzwGxJyzWy57PDTbN) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Electric Intercourse \(Studio Version\)](https://open.spotify.com/album/5R5muZM0qi8tyfEV6zcEE9) | 4:57 |
 | 78 | [When 2 R in Love](https://open.spotify.com/track/14YFuTZYstAv3xHR9TGEKu) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Lovesexy](https://open.spotify.com/album/6asxKdvUleeZYNrjmK81nJ) | 3:59 |
 | 79 | [Our Destiny / Roadhouse Garden](https://open.spotify.com/track/6qHqJaSMvKI1X01SoVduJA) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Our Destiny / Roadhouse Garden](https://open.spotify.com/album/0jQEqYfjq2t5TYJ7sN1L3M) | 6:25 |
 | 80 | [Let's Go Crazy \- Live In Syracuse, March 30, 1985 \- 2022 Remaster](https://open.spotify.com/track/0x2RD4R0yWGXaBZPo7lDqY) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Let's Go Crazy \(Live In Syracuse, March 30, 1985 \- 2022 Remaster\)](https://open.spotify.com/album/5YfFeRzMeykwYn0WhWK9Ep) | 5:50 |

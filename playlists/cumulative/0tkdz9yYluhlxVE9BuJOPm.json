@@ -200,7 +200,7 @@
       "date_added": "2013-07-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 266933,
       "name": "Amen - Live From Spotify NYC",
       "url": "https://open.spotify.com/track/63GnRsA54dnZ49zNrLdjAS"
     },
@@ -474,7 +474,7 @@
       "date_added": "2013-08-12",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 238606,
       "name": "Big When I Was Little - Live from Spotify London",
       "url": "https://open.spotify.com/track/2vKP60Zf2zMLj7psqYHz0C"
     },
@@ -1005,7 +1005,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 266845,
-      "name": "Come On - Live from OMD",
+      "name": "Come On (Live from OMD)",
       "url": "https://open.spotify.com/track/1fGSMo4heECWu6keARMIiN"
     },
     {
@@ -2729,6 +2729,24 @@
     {
       "album": {
         "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/6iuA6XJNXqhZrvDs1XGoq5"
+      },
+      "artists": [
+        {
+          "name": "Vanaprasta",
+          "url": "https://open.spotify.com/artist/6YMcrNf5xN1AFPcACq0IV5"
+        }
+      ],
+      "date_added": "2013-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 14716,
+      "name": "Intro (Live from OMD)",
+      "url": "https://open.spotify.com/track/5VlwZribXFeavViTyz9u8X"
+    },
+    {
+      "album": {
+        "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0QuhK83kcM5JLfcFbC3uBk"
       },
       "artists": [
@@ -2818,24 +2836,6 @@
     },
     {
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/6iuA6XJNXqhZrvDs1XGoq5"
-      },
-      "artists": [
-        {
-          "name": "Vanaprasta",
-          "url": "https://open.spotify.com/artist/6YMcrNf5xN1AFPcACq0IV5"
-        }
-      ],
-      "date_added": "2013-04-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 14716,
-      "name": "Intro - Live from OMD",
-      "url": "https://open.spotify.com/track/5VlwZribXFeavViTyz9u8X"
-    },
-    {
-      "album": {
         "name": "Spotify Sessions - Long Way Down",
         "url": "https://open.spotify.com/album/3801iWIKMAQT9FRuEoJCXN"
       },
@@ -2902,7 +2902,7 @@
       "date_added": "2013-07-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 60253,
       "name": "Intro - Live From Spotify NYC",
       "url": "https://open.spotify.com/track/7zMCimkrDaR0MdQQMMmdrf"
     },
@@ -3544,7 +3544,7 @@
       "date_added": "2013-07-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 257066,
       "name": "Last Supper - Live From Spotify NYC",
       "url": "https://open.spotify.com/track/2j9leA0BzqqXSr0IWZyPIh"
     },
@@ -3746,7 +3746,7 @@
       "date_added": "2013-07-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 209733,
       "name": "Little Bird - Live From Spotify NYC",
       "url": "https://open.spotify.com/track/7zvzOJRosUf2qsrRDDat5S"
     },
@@ -4273,7 +4273,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 280172,
-      "name": "Nine Equals Nine - Live from OMD",
+      "name": "Nine Equals Nine (Live from OMD)",
       "url": "https://open.spotify.com/track/2rs94PSZMqkKK7Hi1E5t5c"
     },
     {
@@ -5163,7 +5163,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 294172,
-      "name": "Self Indulgent Feeling - Live from OMD",
+      "name": "Self Indulgent Feeling (Live from OMD)",
       "url": "https://open.spotify.com/track/3S2hyc9XzCINp384pJXGbR"
     },
     {
@@ -5653,7 +5653,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 296724,
-      "name": "Supernumerary - Live from OMD",
+      "name": "Supernumerary (Live from OMD)",
       "url": "https://open.spotify.com/track/43hrdUMgE6Ynqc66D4fMoA"
     },
     {
@@ -6438,7 +6438,7 @@
       "date_added": "2013-07-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 240746,
       "name": "Too Good To Be True - Live From Spotify NYC",
       "url": "https://open.spotify.com/track/4C4biV0mWZ1Bsc4A8OwQWZ"
     },

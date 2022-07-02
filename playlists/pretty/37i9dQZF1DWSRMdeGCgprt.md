@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRMdeGCgprt.md) - [plain]
 
 > Get into the rhythm of SXSW '17 with this collection of tracks from artists set to perform this year\. Cover: <a href="spotify:artist:4TsHKU8l8Wq7n7OPVikirn">Jidenna</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,273 likes - 23 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,274 likes - 23 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Let Out \(feat\. Quavo\)](https://open.spotify.com/track/7yMhyRmQGv6mSD6SkfhPeF) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [The Let Out \(feat\. Quavo\)](https://open.spotify.com/album/5DBsERTpvdP0KfhG25aHif) | 3:55 |
 | 2 | [Diddy Bop \(feat\. Cam O'bi & Raury\)](https://open.spotify.com/track/6JvfBzqZmSiEG5MjM7OcSY) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Cam O'bi](https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ), [Raury](https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ) | [Telefone](https://open.spotify.com/album/18Scpsg5OV1iYNtSaCsjwz) | 3:28 |
-| 3 | [Hello](https://open.spotify.com/track/44s8AnWjkj68J5N9JKX8Zw) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [But You Caint Use My Phone \(Mixtape\)](https://open.spotify.com/album/4f2Gxvy2gb2VXTIWemUEqL) | 0:29 |
+| 3 | [Hello](https://open.spotify.com/track/44s8AnWjkj68J5N9JKX8Zw) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [But You Caint Use My Phone \(Mixtape\)](https://open.spotify.com/album/4f2Gxvy2gb2VXTIWemUEqL) | 5:19 |
 | 4 | [Fall in Love \(feat\. Ciscero\)](https://open.spotify.com/track/2RISD4aJrioDB54exm5WWM) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Ciscero](https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL) | [Fall in Love \(feat\. Ciscero\)](https://open.spotify.com/album/5ryBqWw69xLn1nLaPCGOev) | 3:04 |
 | 5 | [Ballin](https://open.spotify.com/track/0YclWqGe9XpQBx3gwAyyJJ) | [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [Ballin](https://open.spotify.com/album/5QT2WIYOht8nmAspk57Je7) | 3:39 |
 | 6 | [California Heaven](https://open.spotify.com/track/0TW3dlG3BaF2LNiDkUu10u) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Foreign Water](https://open.spotify.com/album/7ocGYko8jsqIcV18uPfUk9) | 4:02 |

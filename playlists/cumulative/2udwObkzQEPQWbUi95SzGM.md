@@ -4,7 +4,7 @@
 
 > Escalating folk and chamber pop to pump up your day.
 
-22 songs - 1 hr 18 min - [published](https://open.spotify.com/playlist/6dltagLZucHokroOA3bLZs)
+22 songs - 1 hr 23 min - [published](https://open.spotify.com/playlist/6dltagLZucHokroOA3bLZs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Please Don't Say You Love Me](https://open.spotify.com/track/6DdyZAF3pvMXMRrI0OtDqy) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [English Rain EP](https://open.spotify.com/album/0G4kXYZgIt2jORbXiiK8lC) | 3:01 | 2015-03-17 |  |
 | [Pompeii](https://open.spotify.com/track/3gbBpTdY8lnQwqxNCcf795) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Bad Blood](https://open.spotify.com/album/64fQ94AVziavTPdnkCS6Nj) | 3:34 | 2015-03-17 |  |
 | [Someone New](https://open.spotify.com/track/0efT4YKQLQx2YHbp6vgRX8) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:42 | 2015-03-17 |  |
-| [Southern Sun](https://open.spotify.com/track/40ttk439NA9RvbLBJpJU1M) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Harlequin Dream](https://open.spotify.com/album/3v8hOkHJAF79wbr3bVwAAf) | 0:29 | 2015-03-17 |  |
+| [Southern Sun](https://open.spotify.com/track/40ttk439NA9RvbLBJpJU1M) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Harlequin Dream](https://open.spotify.com/album/3v8hOkHJAF79wbr3bVwAAf) | 4:41 | 2015-03-17 |  |
 | [The John Wayne](https://open.spotify.com/track/460n97wRvhCNU4OVgZyM0V) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Absolute Zero](https://open.spotify.com/album/0FSlXUD9lWwWP1NkfiNmQH) | 4:51 | 2015-03-17 |  |
 | [Thinking out Loud](https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:41 | 2015-03-17 |  |
 | [Up Up Up](https://open.spotify.com/track/0BRvYS2qu4nVi9bF7MgyOq) | [GIVERS](https://open.spotify.com/artist/6t4Gtzu86ovaXYUmAL2zb3) | [In Light](https://open.spotify.com/album/16mFJtVBLtnm7FMH0FMQLp) | 4:33 | 2015-03-17 |  |

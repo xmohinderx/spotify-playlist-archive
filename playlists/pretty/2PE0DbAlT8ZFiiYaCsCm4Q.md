@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2PE0DbAlT8ZFiiYaCsCm4Q.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 423 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 423 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/2PE0DbAlT8ZFiiYaCsCm4Q.md) - [plain]
 | 41 | [Mr\. Custer \- Re\-Recording](https://open.spotify.com/track/5s3lvjoko5otcZrprzcWeD) | [Larry Verne](https://open.spotify.com/artist/6vWMWDRy2Jbshg42p1Iuzg) | [\#1 Hits Of The 60's](https://open.spotify.com/album/6Mio3JCszE0BTyjTmfYsLY) | 3:09 |
 | 42 | [I Want To Be Wanted](https://open.spotify.com/track/6yj3zwjgUptj3LL0Q9PdX5) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Sweet Nothin's](https://open.spotify.com/album/6ib9HX4bwMIeH5Esgu8zef) | 2:49 |
 | 43 | [Mule Skinner Blues](https://open.spotify.com/track/2YsNLEBGS9LP0mtcDY3GnR) | [The Fendermen](https://open.spotify.com/artist/2hOXOavOPsbPgls3ebJLFp) | [Monster Mash](https://open.spotify.com/album/54lmZz23NZiOW81Kp1KpkC) | 2:22 |
-| 44 | [Cradle of Love](https://open.spotify.com/track/4sthCEbCCGaYbEA8V823XB) | [Johnny Preston](https://open.spotify.com/artist/1B8n8vtEeexQ5NKehHTkeo) | [The 60's Collection Vol\. 1](https://open.spotify.com/album/5EaM4QZVCeEMtDkprocmLZ) | 0:29 |
+| 44 | [Cradle of Love](https://open.spotify.com/track/4sthCEbCCGaYbEA8V823XB) | [Johnny Preston](https://open.spotify.com/artist/1B8n8vtEeexQ5NKehHTkeo) | [The 60's Collection Vol\. 1](https://open.spotify.com/album/5EaM4QZVCeEMtDkprocmLZ) | 2:22 |
 | 45 | [You Got What It Takes](https://open.spotify.com/track/49ax6w7sxo2vkDrISdRd89) | [Marv Johnson](https://open.spotify.com/artist/40PAEtNxO98lBeQHCza9vA) | [United Artists Black Singles 1959\-1967: ''Motor City To Central Park''](https://open.spotify.com/album/0QIsqKfh4h5dWicuHWSxOC) | 2:43 |
 | 46 | [Please Help Me I'm Falling](https://open.spotify.com/track/4o9fGL5BfhAjBDxvziWRt2) | [Hank Locklin](https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq) | [Hank Locklin Fifty Favourites](https://open.spotify.com/album/2YYZ8OJjakRfWqg6NUOQ0T) | 2:20 |
 | 47 | [Love You So \- Re\-Recording](https://open.spotify.com/track/3y5S5McahiMrgmvAgJqDbJ) | [Ron Holden](https://open.spotify.com/artist/0orxtneN4LcJWNxbLXtMZu) | [100 Timeless Love Songs](https://open.spotify.com/album/3UBER54cmpemko0k0GsD1h) | 3:07 |

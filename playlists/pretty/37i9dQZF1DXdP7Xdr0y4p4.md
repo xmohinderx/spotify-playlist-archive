@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 
 > An essential list of recent hits of SoGo\.  Cover: 11th Hour
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,133 likes - 70 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,132 likes - 70 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Anthem of the Ages](https://open.spotify.com/track/0F3sh3OSyT1LwVJuMlP0Dq) | [11th Hour](https://open.spotify.com/artist/1HtIwustFdmwPcgO3IuShY) | [Anthem of the Ages](https://open.spotify.com/album/6llHCfaQDHhPsHI1xDJeWv) | 0:29 |
+| 1 | [Anthem of the Ages](https://open.spotify.com/track/0F3sh3OSyT1LwVJuMlP0Dq) | [11th Hour](https://open.spotify.com/artist/1HtIwustFdmwPcgO3IuShY) | [Anthem of the Ages](https://open.spotify.com/album/6llHCfaQDHhPsHI1xDJeWv) | 3:14 |
 | 2 | [The Manger And The Cross](https://open.spotify.com/track/6GsbpLss1jkRLvoLVP2Hhp) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [The Manger And The Cross](https://open.spotify.com/album/4f8wygcqODEfKb6at9FOIy) | 4:35 |
 | 3 | [Welcome to Your Life](https://open.spotify.com/track/5NiZESfwDHW1gRgrZr1wGY) | [Legacy Five](https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk) | [Something New](https://open.spotify.com/album/60vvK9ecxcFAaHEr0yqI24) | 3:19 |
-| 4 | [Something's Happening](https://open.spotify.com/track/1loca6ugoRDXMlZxLRYLJw) | [The Hoppers](https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7) | [Something's Happening](https://open.spotify.com/album/6GZrCDfDuhx6fa6eBvLNRK) | 0:29 |
+| 4 | [Something's Happening](https://open.spotify.com/track/1loca6ugoRDXMlZxLRYLJw) | [The Hoppers](https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7) | [Something's Happening](https://open.spotify.com/album/6GZrCDfDuhx6fa6eBvLNRK) | 4:44 |
 | 5 | [Reunion In Heaven \(Live\)](https://open.spotify.com/track/6Uxn3QxcZGsTsY0bsMiUfr) | [The Inspirations](https://open.spotify.com/artist/5r3AH74NQJVPeRGmBfnNf3) | [What A Wonderful Time \(Live\)](https://open.spotify.com/album/017dDngI2UkE14N4MS5DCK) | 2:17 |
 | 6 | [Return to Me](https://open.spotify.com/track/1PTSNsuDlyRzHeYQV1hkSt) | [Don Moen](https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe) | [Return to Me](https://open.spotify.com/album/6tagHeuKrx8MSlkhaJ06Nt) | 7:12 |
 | 7 | [The Lighthouse \- 50 Year Celebration](https://open.spotify.com/track/2ZGDPgfa0rOiRezBCY56qk) | [Ronny Hinson](https://open.spotify.com/artist/6b5TbMekdEbb75ItLBOoRs) | [The Lighthouse \(50 Year Celebration\)](https://open.spotify.com/album/7DTKYFvwOP0q9jBz6OtclE) | 4:22 |
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 25 | [Heaven Is](https://open.spotify.com/track/56GlmV7X4EAYlVH1dTBF9h) | [Legacy Five](https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk) | [Songs From The Pen of Lee Black & Friends](https://open.spotify.com/album/6ZkLNPF7TvPDPpE3MbQvCZ) | 2:21 |
 | 26 | [The Beauty of the Blood](https://open.spotify.com/track/6aO8y9WvS3eaTIacPfbytw) | [Joseph Habedank](https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be) | [Welcome Home](https://open.spotify.com/album/4kHhfCyyuKu3LZ1S9lb633) | 3:57 |
 | 27 | [God's Great](https://open.spotify.com/track/3puMAV6xXfHP818Vev0lIE) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG) | [Right Now](https://open.spotify.com/album/75pbu099NctdUv2WkxdK1Y) | 3:51 |
-| 28 | [It's About the Cross](https://open.spotify.com/track/4VrSBQliLFkLvIB28wovQ5) | [The Ball Brothers](https://open.spotify.com/artist/5XeW4GrOw5InOknCsAo1Js) | [Breakthrough](https://open.spotify.com/album/51ycbHjIPZYsJAPDaUix4w) | 0:29 |
+| 28 | [It's About the Cross](https://open.spotify.com/track/4VrSBQliLFkLvIB28wovQ5) | [The Ball Brothers](https://open.spotify.com/artist/5XeW4GrOw5InOknCsAo1Js) | [Breakthrough](https://open.spotify.com/album/51ycbHjIPZYsJAPDaUix4w) | 4:11 |
 | 29 | [Hidden Heroes \- Live](https://open.spotify.com/track/0GM6FGGTxnYtVFyJKngteZ) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [Hidden Heroes \(Live\)](https://open.spotify.com/album/6r7WdJdlmywE97i8PFq7VT) | 4:12 |
 | 30 | [Best Thing](https://open.spotify.com/track/2LqfoPg1e7dud9HJSnaVsn) | [Triumphant Quartet](https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC) | [Bigger Than Sunday](https://open.spotify.com/album/0RgdcpTzlEU9m0WnfgsU19) | 3:17 |
 | 31 | [Faith Like That](https://open.spotify.com/track/1cxxA1gqowDgJTwCGDZsi9) | [Gordon Mote](https://open.spotify.com/artist/08EFt670UCZCyxbhI1VtxG) | [All Things New](https://open.spotify.com/album/1PcbJ1DL1tFKjAzsBEoEVe) | 3:39 |
-| 32 | [Over and Over](https://open.spotify.com/track/7k0LsUZGKgL0bFP70J8Xjd) | [Jeff](https://open.spotify.com/artist/7ykVfK7CvBVpYSmOGb1cA4), [Sheri Easter](https://open.spotify.com/artist/5gGEvMumtP6WCNSMsFTOo5) | [Life Is Great and Gettin' Better!](https://open.spotify.com/album/5c2VB3xZxsuDirMjWyMAwN) | 0:29 |
+| 32 | [Over and Over](https://open.spotify.com/track/7k0LsUZGKgL0bFP70J8Xjd) | [Jeff](https://open.spotify.com/artist/7ykVfK7CvBVpYSmOGb1cA4), [Sheri Easter](https://open.spotify.com/artist/5gGEvMumtP6WCNSMsFTOo5) | [Life Is Great and Gettin' Better!](https://open.spotify.com/album/5c2VB3xZxsuDirMjWyMAwN) | 3:52 |
 | 33 | [When God Ran](https://open.spotify.com/track/5kEFIhcDGTY7RSRwAyy73j) | [Kingsmen](https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX) | [When God Ran](https://open.spotify.com/album/4jEXIkQuLatroq0mE3MlY5) | 5:12 |
 | 34 | [Celebrate Me Home](https://open.spotify.com/track/0LH08OJwwPnBIHO74jh1yK) | [The Perrys](https://open.spotify.com/artist/1xRTBMpX8h8nOZ60Gg98gU) | [Blue Skies Coming](https://open.spotify.com/album/5nNQe5KIv0XZm1G8UjAQGO) | 4:15 |
 | 35 | [Pray Now](https://open.spotify.com/track/6ouBqhPAnUTybW52iWIynl) | [Karen Peck & New River](https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5) | [Pray Now](https://open.spotify.com/album/2qdDTQkPE63hAK3NpDMK3b) | 4:27 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 53 | [The Broken Ones](https://open.spotify.com/track/4Efe7Jg9SAHOIh3fuXHbtF) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [Stages](https://open.spotify.com/album/02FDhQ9v3H9QSGrs4WjFzf) | 3:39 |
 | 54 | [Get On Board](https://open.spotify.com/track/5ouVj70EPUseD8zFovkCU5) | [Amanda Cook](https://open.spotify.com/artist/6BoGPE6HncyAwa1Ka8uQVn) | [Narrowing The Gap](https://open.spotify.com/album/0LTfDbC0Afyc7eDK1Gp59Z) | 2:59 |
 | 55 | [I Will Meet You In The Morning \(Live\)](https://open.spotify.com/track/32l9DEfiZd5xsu84XgTGnX) | [Kingsmen](https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX) | [40th Anniversary Reunion \(Live\) \[Expanded, Remixed & Remastered\]](https://open.spotify.com/album/5MeldE3iEJv64gRyPgVVed) | 2:46 |
-| 56 | [I'm Not Who I Was](https://open.spotify.com/track/5sYLGagWKJDOHvFl64nkT0) | [Kenna Turner West](https://open.spotify.com/artist/2Xlx8qrPLqmZbifn6PE5s5) | [I'm Not Who I Was](https://open.spotify.com/album/4qV2L4VBvvZGbbeCCnRfQ9) | 0:29 |
+| 56 | [I'm Not Who I Was](https://open.spotify.com/track/5sYLGagWKJDOHvFl64nkT0) | [Kenna Turner West](https://open.spotify.com/artist/2Xlx8qrPLqmZbifn6PE5s5) | [I'm Not Who I Was](https://open.spotify.com/album/4qV2L4VBvvZGbbeCCnRfQ9) | 4:19 |
 | 57 | [Wake Up](https://open.spotify.com/track/1psN7GabVAeaBo0lTaDNUM) | [Ernie Haase & Signature Sound](https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0) | [Wake Up](https://open.spotify.com/album/2YUHflr83aTEzmqzpAWH57) | 3:38 |
 | 58 | [These Are The Days](https://open.spotify.com/track/5R8RKqIh4EKQKY5U5Q8K8y) | [Kingsmen](https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX) | [These Are The Days](https://open.spotify.com/album/4NLFC87jCshYTUAz3hbhP6) | 3:18 |
 | 59 | [King of Kings](https://open.spotify.com/track/2ZbBnFvIivkLCMsAUFIVrU) | [Jack Greene](https://open.spotify.com/artist/14h0UcPJlGYv5Qrjp7m1jQ) | [I Am Not Alone](https://open.spotify.com/album/3Ty52esdbMGej9m3Fzb1hR) | 2:58 |

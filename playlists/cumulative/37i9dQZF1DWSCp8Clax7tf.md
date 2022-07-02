@@ -4,7 +4,7 @@
 
 > The Women who put Country Music on the map\. Cover: Loretta Lynn
 
-97 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/1Tu1mArc6Ym1uHBqG7xX3z)
+97 songs - 5 hr 32 min - [published](https://open.spotify.com/playlist/1Tu1mArc6Ym1uHBqG7xX3z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Does He Love You](https://open.spotify.com/track/7xQ0BegzdB8TCLreb0MQsi) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Linda Davis](https://open.spotify.com/artist/3rXeRTogAKT6xqOLyfC7xv) | [50 Greatest Hits](https://open.spotify.com/album/2Fs8kfD1oFmBpQxf5XIYgR) | 4:19 | 2021-10-22 |  |
 | [Don't Come Home A\-Drinkin' \(With Lovin' On Your Mind\) \- Single Version](https://open.spotify.com/track/6zQnzN80m28yNfz544YBI2) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [The Definitive Collection](https://open.spotify.com/album/7hdLJRd4vHkHbMzaGgQsJ2) | 2:07 | 2021-10-22 |  |
 | [Don't It Make My Brown Eyes Blue](https://open.spotify.com/track/1IDf3VUbfPPduW6bIfkIPQ) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [We Must Believe In Magic](https://open.spotify.com/album/2Up3szvumEB8A2Yk9ZBZPX) | 2:37 | 2021-10-22 |  |
-| [Don't Tell Me What To Do](https://open.spotify.com/track/7C1NrxVM5jG9QwkNAKoDhW) | [Pam Tillis](https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6) | [Super Hits](https://open.spotify.com/album/1hpDgi4JCjIenc4d8obdvB) | 0:29 | 2021-10-22 |  |
+| [Don't Tell Me What To Do](https://open.spotify.com/track/7C1NrxVM5jG9QwkNAKoDhW) | [Pam Tillis](https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6) | [Super Hits](https://open.spotify.com/album/1hpDgi4JCjIenc4d8obdvB) | 3:11 | 2021-10-22 |  |
 | [Don't Touch Me](https://open.spotify.com/track/1Y2G8nl3CGR3qMPDDBuDhb) | [Jeannie Seely](https://open.spotify.com/artist/0i9f82nIFjrLnnsf2YX3vY) | [The Seely Style](https://open.spotify.com/album/5dx7Vs0d283fuSeaYpvSsw) | 3:12 | 2021-10-22 |  |
 | [Down at the Twist and Shout](https://open.spotify.com/track/76BuIHRNV8KDdrYveZBOOa) | [Mary Chapin Carpenter](https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr) | [The Essential Mary Chapin Carpenter](https://open.spotify.com/album/5XZgZAIHcrnQwcAWq4Tbn9) | 3:21 | 2021-10-22 |  |
 | [Eighteen Wheels And A Dozen Roses](https://open.spotify.com/track/50iMY1vxRo3GiVvReK9Hxf) | [Kathy Mattea](https://open.spotify.com/artist/7ndzHjxbErIwvwnEUewMWe) | [Untasted Honey](https://open.spotify.com/album/2B94aIHbi4KKuKX0wlGbZO) | 3:23 | 2021-10-22 |  |
@@ -90,9 +90,9 @@
 | [This One's for the Girls](https://open.spotify.com/track/01CnYyPXMFRzOFVQBU8WMb) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Martina](https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd) | 4:03 | 2021-10-22 |  |
 | [Timber I'm Falling In Love](https://open.spotify.com/track/30iNMvCpSaqZ7owJZmIBb7) | [Patty Loveless](https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT) | [Honky Tonk Angel](https://open.spotify.com/album/1e59JnYLO3n6srpPN3mH3p) | 2:32 | 2022-03-01 |  |
 | [Two More Bottles of Wine \- 2003 Remaster](https://open.spotify.com/track/62buMnGJ9bLrZAV03fGjYc) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Quarter Moon in a Ten Cent Town \(Expanded & Remastered\)](https://open.spotify.com/album/0kwZMM8Nj0a4dPvVPUiN2y) | 3:06 | 2021-10-22 |  |
-| [Walkaway Joe](https://open.spotify.com/track/5pzoq7ggrA0GN3SMjy0NT8) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Hearts In Armor](https://open.spotify.com/album/6uk1KNSAZP0jwPHMRgronx) | 0:29 | 2021-10-22 |  |
+| [Walkaway Joe](https://open.spotify.com/track/5pzoq7ggrA0GN3SMjy0NT8) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Hearts In Armor](https://open.spotify.com/album/6uk1KNSAZP0jwPHMRgronx) | 4:20 | 2021-10-22 |  |
 | [Walkin' After Midnight](https://open.spotify.com/track/4HbWgdhQcrV1PbCkzspTSF) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [The Very Best Of Patsy Cline](https://open.spotify.com/album/5Ql9o96eFmpLRwesa8OTrv) | 2:34 | 2021-10-22 |  |
-| [What's Your Mama's Name Child](https://open.spotify.com/track/0J6dezPhTa0ePaN87kphCs) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Tanya Tucker / Super Hits](https://open.spotify.com/album/6oaors3y98ssmPuvBcc343) | 0:29 | 2021-10-22 |  |
+| [What's Your Mama's Name Child](https://open.spotify.com/track/0J6dezPhTa0ePaN87kphCs) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Tanya Tucker / Super Hits](https://open.spotify.com/album/6oaors3y98ssmPuvBcc343) | 3:02 | 2021-10-22 |  |
 | [When Will I Be Loved \- Remastered](https://open.spotify.com/track/2MCiAzjR2Uo9cZUnWhGIRI) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [The Best Of Linda Ronstadt: The Capitol Years](https://open.spotify.com/album/68B2voidWkXgP0MeVPVJxO) | 2:04 | 2021-10-22 |  |
 | [When You Say Nothing At All](https://open.spotify.com/track/46LI9mnlQ8fJHH47ioBubg) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT) | [A Tribute Album](https://open.spotify.com/album/2GPq8BXUNLgiDb191QM7j8) | 4:21 | 2021-10-22 |  |
 | [Who's Cheatin' Who](https://open.spotify.com/track/46y7bPllfnlkyoAf5irnVW) | [Charly McClain](https://open.spotify.com/artist/7vay9JhHThC1PXnge5IPTW) | [Greatest Hits](https://open.spotify.com/album/4q7F9QvjPJEvuWpSkc5Jvg) | 2:14 | 2021-10-22 |  |

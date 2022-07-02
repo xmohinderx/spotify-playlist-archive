@@ -4,7 +4,7 @@
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: Karol G
 
-121 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/52JA0GNAstvKsstw41UXnX)
+121 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/52JA0GNAstvKsstw41UXnX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Cásate Conmigo](https://open.spotify.com/track/6f4UPdDBQONKJBRqwZGjaJ) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Cásate Conmigo](https://open.spotify.com/album/037f8ym7M1fzMAaWHtHY98) | 3:29 | 2022-01-12 |  |
 | [Diciembre, Otra Vez –Epílogo–](https://open.spotify.com/track/3r0l64cTauzcbqJF0LUqrA) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [–EPílogo– Diciembre, Otra Vez](https://open.spotify.com/album/6EZOLQYsbxm6ayT7s8sX5F) | 4:07 | 2022-05-28 |  |
 | [Dos Oruguitas](https://open.spotify.com/track/0HFxZvViHzxYpavybvKVq9) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Encanto \(Banda Sonora Original en Español\)](https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF) | 3:34 | 2022-01-12 | 2022-03-05 |
-| [Déjala Que Vuelva \(feat\. Manuel Turizo\)](https://open.spotify.com/track/33bnxcjePIkcmNjEFTJX0l) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Déjala Que Vuelva \(feat\. Manuel Turizo\)](https://open.spotify.com/album/70WadO9CAH4rOI1rEbTS0a) | 0:29 | 2022-01-12 |  |
+| [Déjala Que Vuelva \(feat\. Manuel Turizo\)](https://open.spotify.com/track/33bnxcjePIkcmNjEFTJX0l) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Déjala Que Vuelva \(feat\. Manuel Turizo\)](https://open.spotify.com/album/70WadO9CAH4rOI1rEbTS0a) | 3:40 | 2022-01-12 |  |
 | [Déjate Querer](https://open.spotify.com/track/3mN2DtljBhnrIpc3Nu2pJ8) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94), [Trapical Minds](https://open.spotify.com/artist/7lilUV0c5xjhnakgpbmpdi) | [Déjate Querer](https://open.spotify.com/album/1BqgA0LjVFVKEbiCyqIjah) | 3:22 | 2022-01-12 |  |
 | [EDM](https://open.spotify.com/track/7fRPM4l4iytjKuLOpA9BAG) | [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [EDM](https://open.spotify.com/album/0esPhuSOpBmkaSlaUtOcyg) | 3:38 | 2022-03-04 | 2022-04-29 |
 | [El Canto del Colibrí](https://open.spotify.com/track/4z4mt5zrCrnDQkhZaQV1zp) | [David Kawooq](https://open.spotify.com/artist/71miEAUvClO9XgUdy6dqnZ), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [KOGIMAN](https://open.spotify.com/artist/5u1QKYPcO8wQj4w02NiZZQ), [Alto Grado](https://open.spotify.com/artist/5VvEb9IBLasKGbAI2R27FH) | [El Canto del Colibrí](https://open.spotify.com/album/1eYj8SkvA96uf0sJQZvpK2) | 4:18 | 2022-03-04 | 2022-04-27 |

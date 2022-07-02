@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/44Ht3IACEyKqiLBZupIhIk.md) - [plain]
 
 > Sweet and slow, soft and soothing..\. a collection of beautiful bluegrass vocals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225 likes - 29 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 225 likes - 29 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wildflowers](https://open.spotify.com/track/6invZZ1AIuGp22kxeeLr3I) | [Ana Egge](https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch) | [Bright Shadow](https://open.spotify.com/album/5iPNtCubSl6R02RY4jFFrO) | 3:07 |
-| 2 | [Dream in Blue](https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [The Stray Birds](https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t) | 0:29 |
+| 2 | [Dream in Blue](https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [The Stray Birds](https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t) | 3:32 |
 | 3 | [Forgotten](https://open.spotify.com/track/5ThoiwUqwVYkS411dbEhIV) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [The Phosphorescent Blues](https://open.spotify.com/album/3cdqpjwuTvDeLe3RYIGb0j) | 4:17 |
 | 4 | [Build Me Up From Bones](https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Build Me Up From Bones](https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK) | 3:36 |
 | 5 | [Sweetgrass](https://open.spotify.com/track/3mvvQc9wfuShJU2AH69PyP) | [Lauren Shera](https://open.spotify.com/artist/4BHgCTlgRJGkP54Ppwsz8R) | [Gold and Rust](https://open.spotify.com/album/0eIJHC23HajzamprzLAF5g) | 4:14 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/44Ht3IACEyKqiLBZupIhIk.md) - [plain]
 | 13 | [Long Time Traveller](https://open.spotify.com/track/2AhbZP2oChiLpq5HHKg1xP) | [The Wailin' Jennys](https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj) | [Firecracker](https://open.spotify.com/album/2UDTbcRmFVjrFnFSwmfe8z) | 2:08 |
 | 14 | [Black Widow](https://open.spotify.com/track/1AKFvLirpQFURUG2u5kfBl) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [This Side Of Jordan](https://open.spotify.com/album/3A6DYcbcB9vrZr7134jFQ7) | 3:14 |
 | 15 | [Maya's Waltz](https://open.spotify.com/track/53a2CxT0YQLtkg0q369xc1) | [Zoe & Cloyd](https://open.spotify.com/artist/09Mifrze5fnPx2jhnJUgWz) | [Equinox](https://open.spotify.com/album/4vyNneLoWZIzKToaBTPtyw) | 3:17 |
-| 16 | [Same Same Stars](https://open.spotify.com/track/6u5YgLV7ZEgm0XYqZeVys8) | [Sleepy Man](https://open.spotify.com/artist/3i9moIfK3STAW5CD3Sdaen) | [By My Side \- EP](https://open.spotify.com/album/5wvlQTDsQGslz8Kz1vhb1e) | 0:29 |
+| 16 | [Same Same Stars](https://open.spotify.com/track/6u5YgLV7ZEgm0XYqZeVys8) | [Sleepy Man](https://open.spotify.com/artist/3i9moIfK3STAW5CD3Sdaen) | [By My Side \- EP](https://open.spotify.com/album/5wvlQTDsQGslz8Kz1vhb1e) | 4:21 |
 | 17 | [Small Town Heroes](https://open.spotify.com/track/65BtFxiMYr6hSYhaIzFxn1) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [Small Town Heroes](https://open.spotify.com/album/2Jgs7uTMWm1SmG8hQXS4yx) | 4:28 |
 | 18 | [A Heart Arcane](https://open.spotify.com/track/264bH2jUIFmlclwJfpmEk9) | [Horse Feathers](https://open.spotify.com/artist/0lO2c86rQmrRJArBxgw0v8) | [Cynic's New Year](https://open.spotify.com/album/32HXUSvlymSKkbIVOAO2nM) | 2:49 |
 | 19 | [My Friend](https://open.spotify.com/track/4tO2OXTXh8ccL4yW5d6ZFm) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Sara Watkins](https://open.spotify.com/album/0maAVEcKDvldcwOhK6geq6) | 3:14 |

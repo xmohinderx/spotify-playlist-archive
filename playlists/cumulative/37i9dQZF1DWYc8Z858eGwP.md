@@ -4,7 +4,7 @@
 
 > The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG?si=5MiFdkxjQHWTe6OmF\_zPqg">Victony</a>
 
-109 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/1XAJ71W9OWLJNt1VAjOZn2)
+109 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/1XAJ71W9OWLJNt1VAjOZn2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [For Here](https://open.spotify.com/track/5yOzTV0lLUDjjrPFzimeLI) | [Terri](https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto) | [In Transit](https://open.spotify.com/album/5mbF3xlYXQDSfMOmf6k5Ly) | 2:56 | 2022-05-05 |  |
 | [For My Sanity](https://open.spotify.com/track/5niAmm5V1bj0wY4IVcwd3u) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [The Burning Tree](https://open.spotify.com/album/0NnJ99VCcTCuKBB2PUpdp2) | 3:24 | 2022-05-05 |  |
 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 | 2022-05-05 |  |
-| [Forever](https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Seed \- EP](https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK) | 0:29 | 2021-05-03 |  |
+| [Forever](https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Seed \- EP](https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK) | 3:16 | 2021-05-03 |  |
 | [Getting Late](https://open.spotify.com/track/7iPnbJ1W7wus9QqeBtpuII) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Getting Late](https://open.spotify.com/album/3fxqOwmITBpQnS5Ub5Zyjy) | 4:14 | 2021-03-01 | 2022-05-06 |
 | [Ghana Bop](https://open.spotify.com/track/3zvitqVLMhzKzq3tQR4INc) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Wondergirl](https://open.spotify.com/album/5gX8CJicdyXFqlUtYTNqF6) | 2:44 | 2021-05-03 | 2022-05-06 |
 | [Girlfriend](https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave Deluxe](https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y) | 3:16 | 2022-06-16 |  |
@@ -79,7 +79,7 @@
 | [Missed Takes](https://open.spotify.com/track/6YRnPXAxKd7E6fGwwzJw7W) | [Hoosh](https://open.spotify.com/artist/451QYarjabz09nL2SSufeV) | [Missed Takes](https://open.spotify.com/album/402M9erMhD5d5ivzoXkvT1) | 2:41 | 2021-05-03 | 2022-05-06 |
 | [MJ](https://open.spotify.com/track/3hEKfBbFeRPFOifTpfNnfv) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [MJ](https://open.spotify.com/album/6wFETNulZHS0gqDeOKK9GH) | 2:37 | 2021-05-03 | 2022-05-06 |
 | [Nairobi](https://open.spotify.com/track/3HNzLvkfe8hHvoNQab0AIT) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Nairobi](https://open.spotify.com/album/5dvUS7NVMJPAMyzEcPWMPp) | 3:16 | 2022-05-05 | 2022-05-20 |
-| [No Wahala](https://open.spotify.com/track/4vHy2IHzf3EabEa7oMpUZB) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Original Vibe Machine](https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3) | 0:29 | 2022-05-05 |  |
+| [No Wahala](https://open.spotify.com/track/4vHy2IHzf3EabEa7oMpUZB) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Original Vibe Machine](https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3) | 2:42 | 2022-05-05 |  |
 | [Outside](https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Outside](https://open.spotify.com/album/3s9e6NFuPRzU2WUdSvLGi6) | 3:11 | 2021-10-08 | 2022-05-06 |
 | [Over U](https://open.spotify.com/track/5SevsJvmoSo9GGVllZerpe) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [Salem](https://open.spotify.com/album/5uBSHGOMcYcVSBYTWl1hKZ) | 2:56 | 2021-10-14 | 2022-05-06 |
 | [Owo Ni Koko](https://open.spotify.com/track/4WLdlAi4KBDNRxaq3GnRYH) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Gbagada Express](https://open.spotify.com/album/71t8ET4M40jagPMwWtGDAd) | 2:59 | 2022-05-05 |  |
@@ -109,8 +109,8 @@
 | [This Year](https://open.spotify.com/track/72yBgL4r5tmrPnvDtBLqOI) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [This Year](https://open.spotify.com/album/5ZnsRZ5JTSOMDaQ9HjAufJ) | 3:10 | 2021-05-03 | 2022-05-06 |
 | [Twenties](https://open.spotify.com/track/1li8msSlPGNuiMPUNqz0Ys) | [Suhn](https://open.spotify.com/artist/21FjHoi27TUaIuUSYxdOwf) | [Twenties](https://open.spotify.com/album/1ofj7jvoMEFCMts0v4ZjqI) | 2:24 | 2022-05-05 |  |
 | [UMDALI](https://open.spotify.com/track/6Ez01NIwZoUm85QtgPK6J0) | [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [INGANEKWANE](https://open.spotify.com/album/2MfkJ9pIDlnoqF8nDZKoYJ) | 6:40 | 2022-05-05 | 2022-06-17 |
-| [umoya](https://open.spotify.com/track/5Mg5kfEzI7stnjNoXHyaUC) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [4LUV](https://open.spotify.com/album/2SGGNsEIuL5zM0NHiO5dBd) | 0:29 | 2022-05-05 |  |
-| [Universe](https://open.spotify.com/track/53xvLHBlltsQQG3X9MrGtH) | [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [Twitch 4EVA](https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go), [Mr Hudson](https://open.spotify.com/artist/1zV9UjTUevjp5VUddqIUUn) | [Universe](https://open.spotify.com/album/76lQfFP5A7OnL68NJ8k9QB) | 4:25 | 2022-06-30 |  |
+| [umoya](https://open.spotify.com/track/5Mg5kfEzI7stnjNoXHyaUC) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [4LUV](https://open.spotify.com/album/2SGGNsEIuL5zM0NHiO5dBd) | 4:31 | 2022-05-05 |  |
+| [Universe](https://open.spotify.com/track/53xvLHBlltsQQG3X9MrGtH) | [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [Mr Hudson](https://open.spotify.com/artist/1zV9UjTUevjp5VUddqIUUn), [Twitch 4EVA](https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go) | [Universe](https://open.spotify.com/album/76lQfFP5A7OnL68NJ8k9QB) | 4:25 | 2022-06-30 |  |
 | [Uthando To The T](https://open.spotify.com/track/64UhamKOp5B4FHkHhdD4Bl) | [Okmalumkoolkat](https://open.spotify.com/artist/0CaeXDVwH52TDLA0GLRo4f), [Debra Nist](https://open.spotify.com/artist/1vsudt2lY3JLZQ540M2ffW) | [uShukela eTiyeni](https://open.spotify.com/album/0KhIspDpJ86o85vMvoMwfT) | 5:15 | 2022-05-05 | 2022-07-01 |
 | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33) | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL) | 4:48 | 2022-06-16 |  |
 | [WITH YOU](https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [WITH YOU](https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u) | 3:12 | 2022-05-05 |  |

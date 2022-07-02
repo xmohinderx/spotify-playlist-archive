@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JOn3LSfpbCrOQ7azB4S6C.md) - [plain]
 
 > The latest singles on Spotify all in one playlist\. Updated weekly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,749 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,749 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/5JOn3LSfpbCrOQ7azB4S6C.md) - [plain]
 | 25 | [I Could Be The One \(Avicii Vs\. Nicky Romero\) \- Radio Edit](https://open.spotify.com/track/4q7dBdsALA5BSunzryc104) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [I Could Be the One \(Avicii vs\. Nicky Romero\)](https://open.spotify.com/album/4Xn3jf19ktN3c6pDEGvSIo) | 3:28 |
 | 26 | [Deathwish](https://open.spotify.com/track/3XQfWG8fVuL3Do6C7a7asb) | [Bebe Black](https://open.spotify.com/artist/5Hq1Wd8EWM4xqTriypkCsD) | [Deathwish](https://open.spotify.com/album/0VSPlUL3g1GrilHrLEPROo) | 3:41 |
 | 27 | [Channel 42](https://open.spotify.com/track/2EFjA0bQbpIseUlPHCeIil) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [> Album Title Goes Here <](https://open.spotify.com/album/5cpwmGEav9fYtQi33w0YTj) | 4:51 |
-| 28 | [One Finger and a Fist](https://open.spotify.com/track/3nEEr9OJ6ikZUJgVOUHcIl) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [One Finger and a Fist](https://open.spotify.com/album/75xWtN8icvxpEDGfgFCvdZ) | 0:29 |
+| 28 | [One Finger and a Fist](https://open.spotify.com/track/3nEEr9OJ6ikZUJgVOUHcIl) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [One Finger and a Fist](https://open.spotify.com/album/75xWtN8icvxpEDGfgFCvdZ) | 3:06 |
 | 29 | [Please Don't Say You Love Me](https://open.spotify.com/track/4y0GYqBSHEy7e1FOemdLjK) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Please Don't Say You Love Me](https://open.spotify.com/album/18Ni6bqSaSdui11feMiZxA) | 3:01 |
 | 30 | [Secular Haze](https://open.spotify.com/track/1raeiEiXqXcz0eWEkqlrFw) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Secular Haze](https://open.spotify.com/album/3TePSB5AqweypLeQwffHlT) | 5:08 |
 | 31 | [Go On Strike](https://open.spotify.com/track/0EWeP458DJYpCtxwCxoIij) | [Lower Than Atlantis](https://open.spotify.com/artist/1kF0gYnHLUJvFuPdoowO02) | [Changing Tune \(Deluxe Edition\)](https://open.spotify.com/album/3wC9qA44u8cDFuZob6Ddyt) | 2:51 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/5JOn3LSfpbCrOQ7azB4S6C.md) - [plain]
 | 41 | [Beach Of Diamonds](https://open.spotify.com/track/02RteujagbLdaXvC2zZ4f2) | [Pure Love](https://open.spotify.com/artist/2KV7qDNZM2xuNvpxWJErJg) | [Anthems](https://open.spotify.com/album/4d9EZN44GyLdmPD5sSUjz4) | 3:03 |
 | 42 | [Little White Lies](https://open.spotify.com/track/3zqyDLNLdtyz2ZO2PEz7cD) | [Robots Don't Sleep](https://open.spotify.com/artist/4J4MSynCpeuNCLIoxttRUP) | [Robots Don't Sleep](https://open.spotify.com/album/3shggwV0ymwk394fe3K5vJ) | 3:29 |
 | 43 | [Lose You Tonight](https://open.spotify.com/track/5FS4PATrDGK44mPJkakAEC) | [Kristina Train](https://open.spotify.com/artist/2v6mbdTJmUzHlPNfPYwkaK) | ["Dark Black" Track By Track](https://open.spotify.com/album/5G1v8TZX16uoUrBQwEqKyi) | 3:34 |
-| 44 | [Now Is The Start](https://open.spotify.com/track/3gEyA6UtRSk1058sev61D6) | [A Fine Frenzy](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) | [PINES](https://open.spotify.com/album/1876e9QcHkJ3Hgo4NqKXBN) | 0:29 |
+| 44 | [Now Is The Start](https://open.spotify.com/track/3gEyA6UtRSk1058sev61D6) | [A Fine Frenzy](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) | [PINES](https://open.spotify.com/album/1876e9QcHkJ3Hgo4NqKXBN) | 4:46 |
 | 45 | [Radioactive](https://open.spotify.com/track/5WkUEAGya6TGeC5U0HDa80) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [ORA Deluxe](https://open.spotify.com/album/3KrONVBdZc7AhGf4v7imlo) | 4:11 |
 | 46 | [Closer](https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Heartthrob](https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX) | 3:29 |
 | 47 | [Indigo](https://open.spotify.com/track/6JViDApXvT7VGVjvS5qiPE) | [Frida Sundemo](https://open.spotify.com/artist/5vuIOnOp6NI06rjLgTpYiY) | [Indigo](https://open.spotify.com/album/1GPtX9ZvK9gUdJQCwMoO6i) | 3:53 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/5JOn3LSfpbCrOQ7azB4S6C.md) - [plain]
 | 49 | [Hand On Heart](https://open.spotify.com/track/3m2riGbF1EZLR7NV2nGgSC) | [The Heartbreaks](https://open.spotify.com/artist/4tE2pnU40yxjN1rmnahWdE) | [Funtimes](https://open.spotify.com/album/3fI1WKw3ZTHXbQ9RLn2hoW) | 3:30 |
 | 50 | [These Days Are Mine](https://open.spotify.com/track/4f5KDA8Oy9dQOhw9HrSu2R) | [I Am Kloot](https://open.spotify.com/artist/4IDoKaZIEacb3QncU8RQMp) | [Let It All In](https://open.spotify.com/album/2sltQu1TW0RpJmyEwmIgxg) | 5:36 |
 | 51 | [Cold Wire](https://open.spotify.com/track/12EIdtHvMEb1fw6kTaTxyb) | [Life in Film](https://open.spotify.com/artist/1GiGmnJBIwKiXV8AbjuJ9P) | [Cold Wire](https://open.spotify.com/album/4AmsUPJKkyZ8XfYtbEkVRx) | 2:51 |
-| 52 | [Harper Lee](https://open.spotify.com/track/03pfqpPr51l5hNT8lTyE1Z) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Harper Lee EP](https://open.spotify.com/album/6eBKf0cZTevff2CBso3mVp) | 0:29 |
+| 52 | [Harper Lee](https://open.spotify.com/track/03pfqpPr51l5hNT8lTyE1Z) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Harper Lee EP](https://open.spotify.com/album/6eBKf0cZTevff2CBso3mVp) | 3:31 |
 | 53 | [Pull Me Down](https://open.spotify.com/track/0FVPq7QbvLI8a6mixwQaqI) | [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Pull Me Down](https://open.spotify.com/album/2TFHrsy0R5Q22KQ4CdL0Mw) | 3:25 |
 | 54 | [Let It Go](https://open.spotify.com/track/4Zm0cTwEMly3aCgPdyqIQz) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Thank You,](https://open.spotify.com/album/5MOCeDoizSpQ4FnpX8VFky) | 3:17 |
 | 55 | [Wraith](https://open.spotify.com/track/0akGVkngvjW54mHIfvhsdN) | [Peace](https://open.spotify.com/artist/2O9XW1nnGRMkMV1wpK8IiS) | [Wraith](https://open.spotify.com/album/54HPLmTM35lg4bBuPEGkHF) | 3:11 |

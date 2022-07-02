@@ -4,12 +4,12 @@
 
 > 
 
-20 songs - 1 hr 14 min - [published](https://open.spotify.com/playlist/41I3nf5FoHhPDW1bI4ExeC)
+20 songs - 1 hr 18 min - [published](https://open.spotify.com/playlist/41I3nf5FoHhPDW1bI4ExeC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1901](https://open.spotify.com/track/7hExqd5aeA6cdDFx6sBfd3) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/7bJTscIEKaObZS61RmpviI) | 3:13 | 2013-06-28 |  |
-| [All Summer Long](https://open.spotify.com/track/6DsxePZXexaZgZKEdgXOh8) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [All Summer Long](https://open.spotify.com/album/3PWfmOyPSSgz5kvhWVYaDl) | 0:29 | 2013-06-28 |  |
+| [All Summer Long](https://open.spotify.com/track/6DsxePZXexaZgZKEdgXOh8) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [All Summer Long](https://open.spotify.com/album/3PWfmOyPSSgz5kvhWVYaDl) | 4:56 | 2013-06-28 |  |
 | [Beautiful Day](https://open.spotify.com/track/0G5F2msfVO77xs7ql2RiTS) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [U218 Singles \(Deluxe Version\)](https://open.spotify.com/album/7k7aHoW1MGWWQR0KXvswkx) | 4:05 | 2013-06-28 |  |
 | [Brokenhearted](https://open.spotify.com/track/4urcG6Nfubqsuqy3juMjBi) | [Karmin](https://open.spotify.com/artist/4M0DLz8te9Q1lNIXBBwvfG) | [Hello](https://open.spotify.com/album/7FbPwQGriWa8IT4u6RxjWK) | 3:47 | 2013-06-28 |  |
 | [Dancing in the Moonlight](https://open.spotify.com/track/1FHNctV68GUNLgXclG2DtR) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Dancing In The Moonlight: The Best Of Toploader](https://open.spotify.com/album/3Yxy4ITyguWRkdXwrB9uC9) | 3:53 | 2013-06-28 |  |

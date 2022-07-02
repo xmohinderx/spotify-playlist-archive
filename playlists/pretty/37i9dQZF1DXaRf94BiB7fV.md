@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels from India, updated every Wednesday\. Cover: Gaya, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,548 likes - 98 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,612 likes - 98 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 68 | [Na Manzoor](https://open.spotify.com/track/0UObfj9ap06f2ao2YYGiHR) | [Samarth Swarup](https://open.spotify.com/artist/4aJYDGgfPkCmnWOLQqskNK) | [Na Manzoor](https://open.spotify.com/album/1Oy5jmi18Run2moBwRTG0l) | 3:26 |
 | 69 | [Soja](https://open.spotify.com/track/3LZ2ROTCJGIUlCJS0B0FAE) | [Ishan Krishan](https://open.spotify.com/artist/3a00s1dpBoSxGDi1tiVcTD) | [Soja](https://open.spotify.com/album/71EmFgNSQQz2wuxTfKMLgr) | 3:16 |
 | 70 | [Kho Gaya Dil](https://open.spotify.com/track/7cY6YGw5kG7DdtKmjRSACU) | [Vinayak Bahl](https://open.spotify.com/artist/0a3d9L4ClTZmqUQEcg4CLv), [Shobhit Agarwal](https://open.spotify.com/artist/5Qj0uLYfV3IRUzuKKDKzbC) | [Kho Gaya Dil](https://open.spotify.com/album/4XHokoR1hVhTiDTouPOiPt) | 3:40 |
-| 71 | [Mein Akela Kaafi hu](https://open.spotify.com/track/06cSxldQoKZOJER2asXap9) | [Ekansh Mamgai](https://open.spotify.com/artist/1oMcWeHQ2Gz1iJpSoZBX5T) | [Mein Akela Kaafi hu](https://open.spotify.com/album/41RUHbY23PMLTJyZXIgw88) | 0:29 |
+| 71 | [Mein Akela Kaafi hu](https://open.spotify.com/track/06cSxldQoKZOJER2asXap9) | [Ekansh Mamgai](https://open.spotify.com/artist/1oMcWeHQ2Gz1iJpSoZBX5T) | [Mein Akela Kaafi hu](https://open.spotify.com/album/41RUHbY23PMLTJyZXIgw88) | 2:16 |
 | 72 | [Bin Bataye](https://open.spotify.com/track/3FG79ZhBtwQoy4sVkXVIhE) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Ragasuram](https://open.spotify.com/artist/5TOAOQvO0N5gjNZMse9P60), [Saurabh Tripathi](https://open.spotify.com/artist/2kOWriOsQOgsIeuRshJf36) | [Bin Bataye](https://open.spotify.com/album/0SEa6MorRu0A4XC9jJlt1G) | 2:41 |
 | 73 | [Meheki](https://open.spotify.com/track/22SAfeL8FJysl2otqjgMR2) | [Priyanka Shinde](https://open.spotify.com/artist/11FQjZppJKBa8Y8K34iszI) | [Meheki](https://open.spotify.com/album/33HxPVJUeWYUmUPphJbIOq) | 2:41 |
 | 74 | [Jee Lein Hum](https://open.spotify.com/track/7oqczzTqckOYUbOeqnl0wm) | [Harish Budhwani](https://open.spotify.com/artist/1Gl7igag9ejxcepMCPDg4H) | [Jee Lein Hum](https://open.spotify.com/album/7ifBfM0KFfPjtJVX7NXOYE) | 4:45 |
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 77 | [Oooo](https://open.spotify.com/track/7hzc2mlb4ueqONnjJ80Lia) | [Abhimanyu\-Pragya](https://open.spotify.com/artist/1seJPM2gF3Bqhnr3T8yqPr) | [Oooo](https://open.spotify.com/album/7lXWxNBDEWAn8r3ziaMUc0) | 2:41 |
 | 78 | [Saavan](https://open.spotify.com/track/0dddCnn5V9rEqeZF625HT4) | [Satwik Kumar](https://open.spotify.com/artist/7CH4vn9FuFwQjc6SKCaSRG) | [Saavan](https://open.spotify.com/album/2erJ4eVKivyb8Fp1a6OWlo) | 3:43 |
 | 79 | [persephone](https://open.spotify.com/track/2wVUPIC27DOrJiQX9388EJ) | [Gaia Meera](https://open.spotify.com/artist/1UELyRsYJIZC0QrOayNKxw) | [persephone](https://open.spotify.com/album/16ZNDmpFolJfTsdx939wiT) | 4:11 |
-| 80 | [Mitwaa Jee Le Zaraa](https://open.spotify.com/track/3pFiolkiuB5DOwegrBbeMO) | [Anish Kanchan](https://open.spotify.com/artist/7I555I07lz7zyJwQkxyBkh) | [Mitwaa Jee Le Zaraa](https://open.spotify.com/album/13HygA8nZiMLbzSdrAWU0O) | 0:29 |
+| 80 | [Mitwaa Jee Le Zaraa](https://open.spotify.com/track/3pFiolkiuB5DOwegrBbeMO) | [Anish Kanchan](https://open.spotify.com/artist/7I555I07lz7zyJwQkxyBkh) | [Mitwaa Jee Le Zaraa](https://open.spotify.com/album/13HygA8nZiMLbzSdrAWU0O) | 3:16 |
 | 81 | [Guzarish](https://open.spotify.com/track/524ovLWFCWeMbMlMQWp5Zf) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Guzarish](https://open.spotify.com/album/5KH94qpVVG6IEMrkJvJmSJ) | 4:18 |
 | 82 | [Tumhaare Liye](https://open.spotify.com/track/4VZ52z4L7JcvEzcWsIEc6P) | [Sohini Chakraborty](https://open.spotify.com/artist/2uPj3lgvxMzWQTf01KkLiQ) | [Tumhaare Liye](https://open.spotify.com/album/3GekTdWCDYf0wcsOnfPxWQ) | 4:15 |
 | 83 | [Better](https://open.spotify.com/track/6HBZ1LYwGLS9wt9sF4Lknb) | [Manchild](https://open.spotify.com/artist/29DEknQpxdiLrlgOHxnWKF), [Michael Timothy](https://open.spotify.com/artist/3otIJ7390hY2hUdOPSS5WP), [Rohith Manoj](https://open.spotify.com/artist/3CDqKbUX1huBj40oqlqL0I) | [Better](https://open.spotify.com/album/2LbRnmHDvZvsN0Ag8uC2at) | 3:56 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 85 | [Teri Rooh](https://open.spotify.com/track/71uTEP7pjH3M3ofMWMgNr8) | [Trishita Recs](https://open.spotify.com/artist/4lB0A51UgKHZ00Uhuta9K4) | [Teri Rooh](https://open.spotify.com/album/3VhgLRqu9QlhnWWOFRE8js) | 3:23 |
 | 86 | [Falsafa](https://open.spotify.com/track/5YEHvf2AQrcmVCKjclAgMp) | [Vipin Singh](https://open.spotify.com/artist/3TGlt6sJbS4hMPy5MDcDQp) | [Falsafa](https://open.spotify.com/album/0hFtZ1ECjQjsm1muPIfFbE) | 3:56 |
 | 87 | [Phase](https://open.spotify.com/track/6YUTTAipgb0FdBbVXB4GkB) | [Sarthak Saksena](https://open.spotify.com/artist/3rGPKj1qScQgEsDyL8PKfu) | [Phase](https://open.spotify.com/album/5yfYDSHDo712lB9m2ek2Y1) | 3:44 |
-| 88 | [Theher Ja Tu](https://open.spotify.com/track/39IDnhcezSNxCO7P505zvs) | [Sartek](https://open.spotify.com/artist/7twKy3fK03wqUCnHDCL6Qc), [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Theher Ja Tu](https://open.spotify.com/album/65fZrXiqlCjrIVxM4vRz9N) | 0:29 |
+| 88 | [Theher Ja Tu](https://open.spotify.com/track/39IDnhcezSNxCO7P505zvs) | [Sartek](https://open.spotify.com/artist/7twKy3fK03wqUCnHDCL6Qc), [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Theher Ja Tu](https://open.spotify.com/album/65fZrXiqlCjrIVxM4vRz9N) | 2:43 |
 | 89 | [Dhaage](https://open.spotify.com/track/1YHnsw5xO7w5eck4FrBPPW) | [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE) | [Dhaage](https://open.spotify.com/album/6UcteRSKERxRKaaAc6rHsX) | 3:16 |
 | 90 | [Stuck In The Past](https://open.spotify.com/track/3KZeDfFfihhjYynQIeL4x0) | [Ansar.](https://open.spotify.com/artist/4PBJ9JbSHMMA78dtwhXtLa), [Vipasha Malhotra](https://open.spotify.com/artist/0SV9O7Y4ub6JXoPiLoDBzp) | [Stuck In The Past](https://open.spotify.com/album/1utqntrEuaKNtIcJ6HskZJ) | 3:43 |
 | 91 | [Zameen](https://open.spotify.com/track/2VmExCXsbi79GKd2lNssA5) | [Dhi Harmony](https://open.spotify.com/artist/3Thq0cpi3FinFQhr2d8EqY) | [Zameen](https://open.spotify.com/album/0PuKmpsavABFX8sq0nhfka) | 4:31 |

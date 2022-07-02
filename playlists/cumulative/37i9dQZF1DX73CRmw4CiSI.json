@@ -296,7 +296,7 @@
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 230280,
       "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
       "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
     },
@@ -422,7 +422,7 @@
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 240093,
       "name": "Echo De Menos",
       "url": "https://open.spotify.com/track/5F9NOb35E8wWEFY79Dv4vE"
     },
@@ -656,7 +656,7 @@
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 230106,
       "name": "Joselito",
       "url": "https://open.spotify.com/track/72Fm5e7KPBEQwCeIcSU33g"
     },
@@ -673,7 +673,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 271160,
       "name": "Kalikeno - Rumba",
       "url": "https://open.spotify.com/track/4LxFbjtxUtV1h6DNIqRBIK"
@@ -839,7 +839,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 205413,
       "name": "Lim\u00f3n y Sal",
       "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
@@ -1003,10 +1003,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 225693,
       "name": "Nada Fue Un Error - Live In Spain / 2005",
       "url": "https://open.spotify.com/track/15RAXEkBCh62ZB6xddv0wO"
+    },
+    {
+      "album": {
+        "name": "De Aki A Ketama",
+        "url": "https://open.spotify.com/album/0Gw8HKoLK67806LLeSAJT7"
+      },
+      "artists": [
+        {
+          "name": "Ketama",
+          "url": "https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277333,
+      "name": "No Estamos Lokos (Kalikeno)",
+      "url": "https://open.spotify.com/track/6qD5Tep3hEoRDQUpyrrDLK"
     },
     {
       "album": {
@@ -1022,7 +1040,7 @@
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 254840,
       "name": "No Puedo Vivir Sin Ti",
       "url": "https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3"
     },
@@ -1242,7 +1260,7 @@
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 238533,
       "name": "Puedes Contar Conmigo",
       "url": "https://open.spotify.com/track/3xQbgIqO1tmJMAz91CRiCK"
     },

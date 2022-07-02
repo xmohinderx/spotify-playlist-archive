@@ -4,7 +4,7 @@
 
 > Get fascinated by Japanese City Pop from the ‘90s with Shibuya\-kei flavor./ シティポップの発展が渋谷系へと向かう。多幸感に溢れる時代の空気と共に、モードな再構築が新たなカルチャーを生んだ。
 
-50 songs - 4 hr 0 min - [published](https://open.spotify.com/playlist/4ss52AmbN8gEtsSGVT2apA)
+50 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/4ss52AmbN8gEtsSGVT2apA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [ENDLESS SUMMER NUDE](https://open.spotify.com/track/0QeQUNszvuv1lyIFgpd5XA) | [Magokoro Brothers](https://open.spotify.com/artist/7vDBc24PdLxDQEF6tGHnzM) | [I will Survive](https://open.spotify.com/album/7GFX6rzvQeZQkrildFNh7V) | 5:16 | 2021-04-15 |  |
 | [Girl Talk \~never fall in love again\~](https://open.spotify.com/track/2D2Z9gHas01CpA2ciEfDru) | [COSA NOSTRA](https://open.spotify.com/artist/3XTQoYcUS34mM1jloWW85u) | [SEVEN](https://open.spotify.com/album/6KPK1tNvB5qZTJeTBrji7X) | 4:20 | 2021-04-15 |  |
 | [Happy\-Go\-Lucky](https://open.spotify.com/track/2nPddaj5ME4Vm11jvKEkSe) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [LUCY](https://open.spotify.com/album/0N1zL99Endak0l1KFoWT18) | 4:26 | 2021-04-15 |  |
-| [HORIZON](https://open.spotify.com/track/3Ge54kJCBs3OkZZWaFOB4b) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [PETIT](https://open.spotify.com/album/1D6uibmGUV7WE8NQMF2hJH) | 0:29 | 2021-04-15 |  |
+| [HORIZON](https://open.spotify.com/track/3Ge54kJCBs3OkZZWaFOB4b) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [PETIT](https://open.spotify.com/album/1D6uibmGUV7WE8NQMF2hJH) | 4:55 | 2021-04-15 |  |
 | [It's a Beautiful Day](https://open.spotify.com/track/62bLC5IoSiLW7T33u5h4Yw) | [Carnation](https://open.spotify.com/artist/5NvPLoJWfBHkEvTsiwmEog) | [a Beautiful Day](https://open.spotify.com/album/47rfXgKpkpIEcNLBWHdsnR) | 6:36 | 2021-04-15 |  |
 | [Jolie](https://open.spotify.com/track/0JGEQ4bpgXwpwwEHfD4rL7) | [COSA NOSTRA](https://open.spotify.com/artist/3XTQoYcUS34mM1jloWW85u) | [Jolie](https://open.spotify.com/album/2vyEwx01MpkV5b5uXr6Zjq) | 5:00 | 2021-04-15 |  |
 | [Melody](https://open.spotify.com/track/0hSjIvAknh110jd5Q1HtNR) | [Kenjiro Sakiya](https://open.spotify.com/artist/14tdomXFf9cDR8ms2xVN03) | [ただ一度だけの永遠](https://open.spotify.com/album/0UjcF5Vk5pAPKXsQSFluDA) | 5:28 | 2021-04-15 |  |
@@ -42,7 +42,7 @@
 | [ヴィーナス](https://open.spotify.com/track/3BLWk8c92LgNNfujuiEaEQ) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [ORIGINAL LOVE SINGLES BACK TO 1991\-1995](https://open.spotify.com/album/2tJ9fdkia7sIr9bvI7jWLB) | 5:13 | 2021-04-15 |  |
 | [今日の雨はいい雨だ](https://open.spotify.com/track/6uDYSBml0AD7FCvqnXcmXO) | [The CHANG](https://open.spotify.com/artist/4TUK5uS3Y5yEMk1je8dvsU) | [DAY OFF](https://open.spotify.com/album/4ShmM3FVCQqCbPw7Hw8qrQ) | 3:30 | 2021-04-15 |  |
 | [休日〜Holiday〜](https://open.spotify.com/track/54svovuyYwv8UFFYhqNbuE) | [The CHANG](https://open.spotify.com/artist/4TUK5uS3Y5yEMk1je8dvsU) | [ACTON](https://open.spotify.com/album/3Xwv5EJuTQ3rnZR8AAv6GC) | 4:26 | 2021-04-15 |  |
-| [午前2時のエンジェル](https://open.spotify.com/track/0Fs9fqPPNslWeWbWjH0h4p) | [Cano Caoli](https://open.spotify.com/artist/5dKIn28hp1VpQYeigddI8r) | [裸であいましょう](https://open.spotify.com/album/29TFyKg4WZsMriAA9NJhMS) | 0:29 | 2021-04-15 |  |
+| [午前2時のエンジェル](https://open.spotify.com/track/0Fs9fqPPNslWeWbWjH0h4p) | [Cano Caoli](https://open.spotify.com/artist/5dKIn28hp1VpQYeigddI8r) | [裸であいましょう](https://open.spotify.com/album/29TFyKg4WZsMriAA9NJhMS) | 5:56 | 2021-04-15 |  |
 | [双子座グラフィティ](https://open.spotify.com/track/4a7fOYlDAiskqEgmeQsAQh) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [ペイパードライヴァーズミュージック](https://open.spotify.com/album/3mukrXkwtuUnV4HTA0yqQ4) | 4:50 | 2021-04-15 |  |
 | [地上の9mの宇宙](https://open.spotify.com/track/4IziiuY1hf00wLYSkk072A) | [Seiko Sato](https://open.spotify.com/artist/4sxVVljhdcKe36YGDZW3uV) | [CRYSTAL](https://open.spotify.com/album/39HbPKcc3M6MP63G4fFY7E) | 4:57 | 2021-04-15 |  |
 | [夢の中で会えるでしょう](https://open.spotify.com/track/5Y9wdPTsQlnk3B17HDUewK) | [Hiroshi Takano](https://open.spotify.com/artist/1Z3tfBrHfzbWjvnOQh9GnO) | [Sorrow and Smile](https://open.spotify.com/album/0cS9IiWAUlpcj4jRn6GOg6) | 5:59 | 2021-04-15 |  |

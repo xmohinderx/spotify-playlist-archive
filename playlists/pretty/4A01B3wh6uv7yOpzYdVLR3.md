@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/4A01B3wh6uv7yOpzYdVLR3.md) - [plain]
 
 > Weekly Selects of the best music chosen by the TeamSupremeCrew themselves..\. Turn the Volume up to 100.
 
-[beatteamsupreme](https://open.spotify.com/user/beatteamsupreme) - 12,936 likes - 40 songs - 2 hr 23 min
+[beatteamsupreme](https://open.spotify.com/user/beatteamsupreme) - 12,935 likes - 40 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mob Life](https://open.spotify.com/track/0eIvSXZSVO8kOgtqI5pPKV) | [Project Paradis](https://open.spotify.com/artist/39knGxcpec9LosNwA623O3), [Mr\. Carmack](https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn), [Promnite](https://open.spotify.com/artist/5nhrH1JLtBXqhhliwceEI5) | [Mob Life](https://open.spotify.com/album/70Q3t8CLZa7H4RN6EYHpgZ) | 3:23 |
 | 2 | [All Over Again](https://open.spotify.com/track/5xlxGmggSr4fNhde4fVfyX) | [Falcons](https://open.spotify.com/artist/7lm68Uw3UZDD1vlAWpLeDL), [Tzar](https://open.spotify.com/artist/6oMBHWDRue76zAGaT8Rxw0) | [All Over Again](https://open.spotify.com/album/1J1ta7VVa0RoTEnUsvB0UD) | 3:24 |
 | 3 | [DeJa Vu](https://open.spotify.com/track/1vJXZIdnyGzEzJ9NedL4s3) | [Maejor](https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX), [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5) | [For You \- EP](https://open.spotify.com/album/1J6pcP9HXGajjOtfterWZP) | 3:03 |
-| 4 | [drink i'm sippin on](https://open.spotify.com/track/5DmCLnojsZpi5SH2MMBDOW) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [drink i'm sippin on](https://open.spotify.com/album/0xLUccIzFFPP32oUfabz0B) | 0:29 |
+| 4 | [drink i'm sippin on](https://open.spotify.com/track/5DmCLnojsZpi5SH2MMBDOW) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [drink i'm sippin on](https://open.spotify.com/album/0xLUccIzFFPP32oUfabz0B) | 3:21 |
 | 5 | [Neither Do I](https://open.spotify.com/track/4IYmJKwEsFTwQUdzsWSiv1) | [Stwo](https://open.spotify.com/artist/5WQxQAu4xmUwCzxPw3GiB4), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Neither Do I](https://open.spotify.com/album/37mrK3xXqshDGqoIwzSH0b) | 3:40 |
 | 6 | [11:59](https://open.spotify.com/track/6KihLJV6gpjNSwoaVKdkuz) | [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR) | [Audiology](https://open.spotify.com/album/6tFQbGKDTnroxDmVwOtugu) | 4:12 |
 | 7 | [Celadon Fire](https://open.spotify.com/track/3ELwjaRb0Ti9aro1fNoeWA) | [Glacci](https://open.spotify.com/artist/1vmPXcKvniaZvX8u0KrdfS) | [Lifeforce](https://open.spotify.com/album/6t6iYQ7I9QEApanLY1WSbb) | 4:34 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/4A01B3wh6uv7yOpzYdVLR3.md) - [plain]
 | 24 | [MOVING MASSES \- AIRSPACE Remix](https://open.spotify.com/track/7167TQnxX8v3W1WQLO3ZSp) | [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI), [Airspace](https://open.spotify.com/artist/1cTz7eRiaYjmpCpZORhiG8) | [MOVING MASSES \(AIRSPACE Remix\)](https://open.spotify.com/album/7GHmMWx7eNOa7Een15py21) | 5:27 |
 | 25 | [Rendezvous](https://open.spotify.com/track/1DduAiS3MVEhONChg2axkJ) | [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR) | [Audiology](https://open.spotify.com/album/6tFQbGKDTnroxDmVwOtugu) | 5:01 |
 | 26 | [Why Do We](https://open.spotify.com/track/66lPcyI4Sasjzkk6XrizpZ) | [Marty Khan](https://open.spotify.com/artist/0evjxZDmHKlimAuDUCqPjP) | [Why Do We](https://open.spotify.com/album/1gCW6oQkC6Zqx2fB0Edgak) | 3:32 |
-| 27 | [Nonsense](https://open.spotify.com/track/78gd02yyiWj0W80gLSWoDu) | [Falcons](https://open.spotify.com/artist/7lm68Uw3UZDD1vlAWpLeDL), [KingJet](https://open.spotify.com/artist/66UIbw9tYvJsqKEWsLqZUe) | [Nonsense](https://open.spotify.com/album/2K1FSgeG8G7HayrrtfgJfa) | 0:29 |
+| 27 | [Nonsense](https://open.spotify.com/track/78gd02yyiWj0W80gLSWoDu) | [Falcons](https://open.spotify.com/artist/7lm68Uw3UZDD1vlAWpLeDL), [KingJet](https://open.spotify.com/artist/66UIbw9tYvJsqKEWsLqZUe) | [Nonsense](https://open.spotify.com/album/2K1FSgeG8G7HayrrtfgJfa) | 2:38 |
 | 28 | [Frails](https://open.spotify.com/track/4UhjMqP1fLNvMazO5F5NcC) | [Elkkle](https://open.spotify.com/artist/5O3OUnaadL3aEVi5x6ImOl) | [Frails](https://open.spotify.com/album/1MSQVpiRPjYbiM0ZbOa7wV) | 3:01 |
 | 29 | [I’ll Be There](https://open.spotify.com/track/2uZ1QybKa1eErzMxAzJiJV) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5), [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5) | [For You \- EP](https://open.spotify.com/album/1J6pcP9HXGajjOtfterWZP) | 4:23 |
 | 30 | [When It's Magic](https://open.spotify.com/track/4gfO9yDER0Ku3O55iCWQXw) | [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR) | [Audiology](https://open.spotify.com/album/6tFQbGKDTnroxDmVwOtugu) | 4:28 |

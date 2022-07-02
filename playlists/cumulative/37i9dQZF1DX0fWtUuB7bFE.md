@@ -4,12 +4,12 @@
 
 > New music from all\-time greats! Cover: Pink Floyd
 
-51 songs - 3 hr 21 min - [published](https://open.spotify.com/playlist/417uTD9hFYLOKnNMeHCzDQ)
+51 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/417uTD9hFYLOKnNMeHCzDQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A King Has Gone \(feat\. Michael Kiske, Bobby Rondinelli, Bob Daisley & Tony Carey\)](https://open.spotify.com/track/4hJY176L0CKPXcXkaGoQYY) | [Michael Schenker Group](https://open.spotify.com/artist/5uSY4FF3dZMCVSkZslKCHi), [Bob Daisley](https://open.spotify.com/artist/67vieFbFOOhGMEz0OLznOO), [Bobby Rondinelli](https://open.spotify.com/artist/3H2AYJg4F5mCMz9ak4FOEq), [Michael Kiske](https://open.spotify.com/artist/0gCtlB8zAb5lkus3e4X1ET), [Tony Carey](https://open.spotify.com/artist/4urvwbid7NFoVes5PTx9lV) | [A King Has Gone](https://open.spotify.com/album/2hfvFV1cayX5ditLOxlhDo) | 4:53 | 2022-05-20 |  |
-| [Act of Love](https://open.spotify.com/track/6Kn6kjrz2UL5obNi2q4Uto) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Act of Love](https://open.spotify.com/album/5uALptibEa9zDZYmMj8ICg) | 0:29 | 2022-05-20 |  |
+| [Act of Love](https://open.spotify.com/track/6Kn6kjrz2UL5obNi2q4Uto) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Act of Love](https://open.spotify.com/album/5uALptibEa9zDZYmMj8ICg) | 4:02 | 2022-05-20 |  |
 | [Actions Speak Louder Than Words \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/track/3pg8FGqUihrwtsPxmBf8NJ) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy And The Conspirators](https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6) | [4 \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/album/5hEFdC1iEWOjgQgiRqdtXQ) | 4:01 | 2022-05-20 |  |
 | [After Midnight \- Live](https://open.spotify.com/track/1b5mtWHbzYdA7jPxoeUotd) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [After Midnight \(Live\)](https://open.spotify.com/album/4NyvpVcqZ0yo6dOruEvEsk) | 5:00 | 2022-05-20 |  |
 | [Always Have, Always Will](https://open.spotify.com/track/02p16pYf7Hk0zgkwGF5EzL) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [So Happy It Hurts](https://open.spotify.com/album/5tccDKivQOkZJSlAbVwWHI) | 3:46 | 2022-05-20 |  |
@@ -57,7 +57,7 @@
 | [Tumbling Dice \- Live At The El Mocambo 1977](https://open.spotify.com/track/4ysl37uXN7mZhSedAzKCUD) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tumbling Dice / Hot Stuff \(Live At The El Mocambo 1977\)](https://open.spotify.com/album/4oJx1yVKrT7cKoS2dvpCLk) | 4:56 | 2022-05-20 |  |
 | [Tush \(7" Version\)](https://open.spotify.com/track/227z0JaI3cU3FThHOa4PVo) | [Girlschool](https://open.spotify.com/artist/2TRtXTjjmyzK5oUGec1Gv8) | [Play Dirty \(Bonus Track Edition\)](https://open.spotify.com/album/2T4pSW43IHC4LfLGOCPzSt) | 2:13 | 2022-05-20 |  |
 | [Waiting for the World to End](https://open.spotify.com/track/4gNzAlHWjr73HycnkCcGSs) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Surviving the Law](https://open.spotify.com/album/3Z5yXM2AoHoIUMqNXtZjYI) | 2:47 | 2022-05-20 |  |
-| [We're All Just Trying To Get By](https://open.spotify.com/track/0MScNXn0DvA1HXlndSiq5p) | [Roger Taylor](https://open.spotify.com/artist/2PZEd7yktruWruOqORRChA), [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [We’re All Just Trying To Get By](https://open.spotify.com/album/1UF5v2Zq76v4GLUamIfoMB) | 0:29 | 2022-05-20 |  |
+| [We're All Just Trying To Get By](https://open.spotify.com/track/0MScNXn0DvA1HXlndSiq5p) | [Roger Taylor](https://open.spotify.com/artist/2PZEd7yktruWruOqORRChA), [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [We’re All Just Trying To Get By](https://open.spotify.com/album/1UF5v2Zq76v4GLUamIfoMB) | 2:52 | 2022-05-20 |  |
 | [White Room](https://open.spotify.com/track/3nWDytplyudbnv36JdKmeW) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Turning to Crime](https://open.spotify.com/album/4rsA0I5GWl2bnrQLI4ODVm) | 4:53 | 2022-05-20 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

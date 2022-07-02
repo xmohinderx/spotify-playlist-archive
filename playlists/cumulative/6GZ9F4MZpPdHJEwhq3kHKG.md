@@ -4,7 +4,7 @@
 
 > Listen to all of Seth's favorite classic soul tracks right here\. And be sure to check out his charity, Hilarity for Charity.
 
-41 songs - 1 hr 34 min - [published](https://open.spotify.com/playlist/5YsLaBRjUJNx2hkGeBYsEG)
+41 songs - 1 hr 41 min - [published](https://open.spotify.com/playlist/5YsLaBRjUJNx2hkGeBYsEG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Delfonics Theme \(How Could You\)](https://open.spotify.com/track/2LukR1MpbneHgRKaqGh06v) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Delfonics](https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX) | 4:32 | 2016-11-28 |  |
 | [Do You Love Me](https://open.spotify.com/track/41FRsZNXpsBkJ46BxyC20m) | [The Contours](https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1) | [Hitsville USA \- The Motown Singles Collection 1959\-1971](https://open.spotify.com/album/4Vzr2AGcCyYSQQB243PQLl) | 2:52 | 2016-11-28 |  |
 | [Everybody Needs Somebody to Love](https://open.spotify.com/track/4NL8D4RQsC6ux6eI3m3Lg5) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [The Very Best of Solomon Burke](https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE) | 2:46 | 2016-11-28 |  |
-| [Fool for You](https://open.spotify.com/track/7ppPgpUdNPbHhuqYwN2SXu) | [The Impressions](https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO) | [This Is My Country](https://open.spotify.com/album/1kKPH6oqlh9iPP3uAQhb68) | 0:29 | 2016-11-28 |  |
+| [Fool for You](https://open.spotify.com/track/7ppPgpUdNPbHhuqYwN2SXu) | [The Impressions](https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO) | [This Is My Country](https://open.spotify.com/album/1kKPH6oqlh9iPP3uAQhb68) | 2:52 | 2016-11-28 |  |
 | [Have You Seen Her](https://open.spotify.com/track/01cQPNCptd662nikuY42zw) | [The Chi\-Lites](https://open.spotify.com/artist/7BFr36uI1dzJyo6tpa5Ued) | [The Ultimate Chi\-Lites](https://open.spotify.com/album/3sTSxqixe7nXq5STqXOGD3) | 5:10 | 2016-11-28 |  |
 | [Hear The Delfonics](https://open.spotify.com/track/4PN6G9RyRTmQpn6eOovvRt) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Seth Rogen \- Classic Soul](https://open.spotify.com/album/4psvWKJCKc1OTVCVbo4gMA) | 0:12 | 2016-11-28 |  |
 | [Here's Some Sweet Music](https://open.spotify.com/track/28loehMDri9eBOFsF0RNCK) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Seth Rogen \- Classic Soul](https://open.spotify.com/album/4psvWKJCKc1OTVCVbo4gMA) | 0:14 | 2016-11-28 |  |
@@ -35,7 +35,7 @@
 | [Meeting Little Richard](https://open.spotify.com/track/3ILQLUWM9kJhfpzQtVVZi4) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Seth Rogen \- Classic Soul](https://open.spotify.com/album/4psvWKJCKc1OTVCVbo4gMA) | 0:18 | 2016-11-28 |  |
 | [Patches](https://open.spotify.com/track/5vk9PL1tTyWrQY3TqRq2Rg) | [Clarence Carter](https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB) | [Patches](https://open.spotify.com/album/2AcHC18egTq63cyBagwINA) | 3:13 | 2016-11-28 |  |
 | [Please Mr\. Postman \- Stereo Version](https://open.spotify.com/track/5fNDP3NTdE69szQHUl4fFr) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [Forever: The Complete Motown Albums, Volume 1](https://open.spotify.com/album/1Jn2ZCQiEgVNt3arbJBewA) | 2:29 | 2016-11-28 |  |
-| [Pusher Man](https://open.spotify.com/track/3qY9dX6T0nqbd5ni1eI4LJ) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [The Hangover Part II: Original Motion Picture Soundtrack](https://open.spotify.com/album/5HtMBeXlzeIwnvvbM0TPDl) | 0:29 | 2016-11-28 |  |
+| [Pusher Man](https://open.spotify.com/track/3qY9dX6T0nqbd5ni1eI4LJ) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [The Hangover Part II: Original Motion Picture Soundtrack](https://open.spotify.com/album/5HtMBeXlzeIwnvvbM0TPDl) | 4:59 | 2016-11-28 |  |
 | [Seth Rogen \- Classic Soul Intro](https://open.spotify.com/track/5T30zoNNgnVZrkCsHNtvD7) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Seth Rogen \- Classic Soul](https://open.spotify.com/album/4psvWKJCKc1OTVCVbo4gMA) | 0:12 | 2016-11-28 |  |
 | [Seth Rogen \- Thank You](https://open.spotify.com/track/3HOGSOiAzreUzcTOuoXsy1) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Seth Rogen \- Classic Soul](https://open.spotify.com/album/4psvWKJCKc1OTVCVbo4gMA) | 0:19 | 2016-11-28 |  |
 | [Shake a Tail Feather](https://open.spotify.com/track/0pb8OfGT4sZEyLVB7x8OSh) | [James & Bobby Purify](https://open.spotify.com/artist/1qO2mRQM4zbksO586oM0W7) | [Shake A Tail Feather! The Best Of James And Bobby Purify](https://open.spotify.com/album/5wtLC8QWMF9tZKVI9cBqcX) | 2:07 | 2016-11-28 |  |

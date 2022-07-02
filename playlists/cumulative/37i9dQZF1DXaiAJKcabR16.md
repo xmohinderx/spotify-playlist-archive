@@ -4,7 +4,7 @@
 
 > Slide and steel\. Set your soundtrack to some moody, gritty blues folk.
 
-62 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/0UHsjagwmAQGvmHUDaFYKF)
+62 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/0UHsjagwmAQGvmHUDaFYKF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Crocodile Tears](https://open.spotify.com/track/0lcsIpA9Ff2DZufaMIQe4k) | [little hurricane](https://open.spotify.com/artist/5VLQQzAkJrzG7QggE4DVg2) | [Homewrecker](https://open.spotify.com/album/16fqu9m0E5Q4zj7nGX3Zw3) | 3:55 | 2021-07-30 |  |
 | [Darkwater](https://open.spotify.com/track/1EXyAPbplzZKhFZx54smQW) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Darkwater](https://open.spotify.com/album/1RLIdkQQRksFvvjWD1IEyZ) | 4:46 | 2021-07-30 |  |
 | [Deep Love](https://open.spotify.com/track/6SKThyaFX1OQKL4CmOmvO6) | [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [Deep Love](https://open.spotify.com/album/3fJb3ILnfIJlTGbavZZPPy) | 3:57 | 2021-07-30 |  |
-| [Don't Need It](https://open.spotify.com/track/4DnK27URnJcCULRNDHvm2M) | [William Elliott Whitmore](https://open.spotify.com/artist/55N838yCXjxLVkBkIM5pnf) | [Field Songs \(Deluxe Edition\)](https://open.spotify.com/album/5udj0c8CJSjywp6SKHsV2x) | 0:29 | 2021-07-30 |  |
+| [Don't Need It](https://open.spotify.com/track/4DnK27URnJcCULRNDHvm2M) | [William Elliott Whitmore](https://open.spotify.com/artist/55N838yCXjxLVkBkIM5pnf) | [Field Songs \(Deluxe Edition\)](https://open.spotify.com/album/5udj0c8CJSjywp6SKHsV2x) | 3:33 | 2021-07-30 |  |
 | [Dry Dirt \(Stripped\)](https://open.spotify.com/track/7g4fX37Y3lziLMoxrTTGI3) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Spirit's Furnace](https://open.spotify.com/album/3cQWEV1dkuOosKa2EJNaxj) | 3:34 | 2021-07-30 |  |
 | [Forget \- Live from Spotify, NYC](https://open.spotify.com/track/1gpyfbutOl79qgVjMrZQOe) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Spotify Sessions](https://open.spotify.com/album/6YYarhAfY1nBoYsDichIts) | 4:38 | 2021-07-30 |  |
 | [Gold](https://open.spotify.com/track/2BEqkiPEzz4tYul7V0SGxW) | [Arum Rae](https://open.spotify.com/artist/4aqcilLiGfXetHrTuC8DG9) | [Gold](https://open.spotify.com/album/3TO7DNWI1fhBnPtjw0afJ5) | 4:31 | 2021-07-30 |  |
@@ -39,7 +39,7 @@
 | [Lazaretto](https://open.spotify.com/track/3T76zPJz3tWL27FrjJe2ot) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Lazaretto](https://open.spotify.com/album/36LXzRarDP8TU8K0REGpt6) | 3:39 | 2021-07-30 |  |
 | [Lead Me Home \- The Walking Dead Soundtrack](https://open.spotify.com/track/2DBFAJgsqhYk5Z1AF7tAMH) | [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [The Walking Dead \(AMC’s Original Soundtrack – Vol\. 1\)](https://open.spotify.com/album/6m6doB3yM5Fehx4wukSvEs) | 1:57 | 2021-07-30 |  |
 | [Little Jose](https://open.spotify.com/track/1Yc25rbbGJZCtz8dtizMKY) | [Grey Reverend](https://open.spotify.com/artist/1EbvbxCONeiXZTVIS2Cw0e) | [A Hero's Lie](https://open.spotify.com/album/6PLuyY1t5OrYGKRdyhDGEJ) | 1:59 | 2021-07-30 |  |
-| [Little Lady Blues](https://open.spotify.com/track/1LfGP4l3u94cu57cR4khzq) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Orange Co\. Serenade](https://open.spotify.com/album/4SEomhM9X27zNDnJjal0yW) | 0:29 | 2021-07-30 |  |
+| [Little Lady Blues](https://open.spotify.com/track/1LfGP4l3u94cu57cR4khzq) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Orange Co\. Serenade](https://open.spotify.com/album/4SEomhM9X27zNDnJjal0yW) | 5:12 | 2021-07-30 |  |
 | [Little Red Rooster](https://open.spotify.com/track/06PsyBBc0YCQhGNlfPZ1SS) | [Dan Owen](https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5) | [Bad for Me \- EP](https://open.spotify.com/album/176IZWTuFw7Ei2n3OtUl4p) | 3:21 | 2021-07-30 |  |
 | [Methhead](https://open.spotify.com/track/2mLYN7Hz2czFkZugFscrrb) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [Off This Mountaintop](https://open.spotify.com/album/5ihcQ3YrAH2Ip9wHUqeQyT) | 3:50 | 2021-07-30 |  |
 | [Missing At Sea](https://open.spotify.com/track/5WKhPe4lSUYgHhhwFMnX4Y) | [Maggie Bjorklund](https://open.spotify.com/artist/4uk9cWBqeiel7tO1w9MPe0) | [Shaken](https://open.spotify.com/album/4WzdSt2xFoWboaIR9ceEkl) | 3:38 | 2021-07-30 |  |
@@ -54,7 +54,7 @@
 | [Set My Soul on Fire](https://open.spotify.com/track/5yuqWMCOtMY0IBaQCBzqT5) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Down to the River](https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2) | 4:59 | 2021-07-30 |  |
 | [Shake It](https://open.spotify.com/track/6RjnBLAqjop8cgSsPrUlCs) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Exits](https://open.spotify.com/album/3vSNB85xVwlQHjh2AmME8s) | 3:42 | 2021-07-30 |  |
 | [She Took a Gamble](https://open.spotify.com/track/2b2oHgRMo5QYRLft2TRDFi) | [Hannah Read](https://open.spotify.com/artist/3ffIal1i0EioO2cZE9oLa9) | [She Took a Gamble](https://open.spotify.com/album/0l1lw4zbFRgQyUXkhJtYCZ) | 3:15 | 2021-07-30 |  |
-| [Singing Saw](https://open.spotify.com/track/0VVBiLcDZthpwsXXBCXPgu) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Singing Saw](https://open.spotify.com/album/1s8RmcZjTuvDt9eQ4MAKLI) | 0:29 | 2021-07-30 |  |
+| [Singing Saw](https://open.spotify.com/track/0VVBiLcDZthpwsXXBCXPgu) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Singing Saw](https://open.spotify.com/album/1s8RmcZjTuvDt9eQ4MAKLI) | 7:15 | 2021-07-30 |  |
 | [Sleeping on the Blacktop](https://open.spotify.com/track/3FYVkmrVYbEo17vXmb5x2A) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/1fU47P4gQ63M7Rr7gNtZZz) | 3:12 | 2021-07-30 |  |
 | [Slow Coming](https://open.spotify.com/track/27B8NcE66RUKHP3cN46Fhx) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [Benjamin Booker](https://open.spotify.com/album/0uDoyIuGkx8lrhsu6RBlBZ) | 4:31 | 2021-07-30 |  |
 | [So Damn Lucky](https://open.spotify.com/track/4TYu2jojSGxALs2YNWnnwr) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [So Damn Lucky](https://open.spotify.com/album/5qCE1zhNO3S8Vo0nPCXdhu) | 4:03 | 2021-07-30 |  |

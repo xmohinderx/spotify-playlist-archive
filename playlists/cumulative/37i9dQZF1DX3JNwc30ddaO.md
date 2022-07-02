@@ -4,7 +4,7 @@
 
 > Meditative crystal and Tibetan tones for clarity and healing.
 
-68 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/1wcoY7hOzprWoSsRPIyjVD)
+68 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/1wcoY7hOzprWoSsRPIyjVD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Healing Bowls](https://open.spotify.com/track/67DxDlLod2unLLBwdIBmDn) | [Sound of Muses](https://open.spotify.com/artist/5l9VrNt92FCVro9qeWKBwi) | [Healing Tibetan Singing Bowls](https://open.spotify.com/album/5NmADUzrobLLRJ271n2Q9W) | 2:54 | 2022-05-13 |  |
 | [Healing Tibetan Bowls](https://open.spotify.com/track/27R2tfIn7bS4Hvq14AelZI) | [The Tibetan Singing Bowls](https://open.spotify.com/artist/4gZYpXjnmCFu1Qzxz947v9) | [Sound Bath Escape](https://open.spotify.com/album/3rL8zuwDNsmKcOBCRgaXCb) | 3:45 | 2022-05-13 |  |
 | [Himalayan Bowls](https://open.spotify.com/track/54fOvKvdGylK3KdcR8gz2Z) | [Tibetan Meditation](https://open.spotify.com/artist/5UAgX4YftBF7I3DqNKazf5) | [Tibetan Singing Bowls](https://open.spotify.com/album/3zD1ESqCyJGPpeJDX0DBj9) | 2:25 | 2022-05-13 |  |
-| [Inharmonic](https://open.spotify.com/track/4dBF8Rb7rTZP08ndwnNZ4p) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Yoga Gong Karma](https://open.spotify.com/album/1T9xagnSXjguJIoXiidlly) | 3:21 | 2022-05-13 |  |
+| [Inharmonic](https://open.spotify.com/track/4dBF8Rb7rTZP08ndwnNZ4p) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Yoga Gong Karma](https://open.spotify.com/album/1T9xagnSXjguJIoXiidlly) | 0:29 | 2022-05-13 |  |
 | [Lamrim](https://open.spotify.com/track/0x8k5gECEEFCJV5x29S8z3) | [Dakpa Nepali](https://open.spotify.com/artist/6ehZfyyber5F5KyAUtlYob) | [Dakpa Nepali](https://open.spotify.com/album/0Dg7fosaqmafdKYLWiDp0m) | 5:08 | 2022-05-13 |  |
 | [Mind Relaxation](https://open.spotify.com/track/0MISp1fN8x4x7nzLGHIc65) | [The Tibetan Singing Bowls](https://open.spotify.com/artist/4gZYpXjnmCFu1Qzxz947v9) | [Mind Relaxation](https://open.spotify.com/album/2qDLrNXs9eHZIQuyxOKqJF) | 2:47 | 2022-05-13 |  |
 | [Mixed Meditation Bowl Sounds](https://open.spotify.com/track/4w9bLHuNZlrvvv8E2vaFYN) | [Meditators](https://open.spotify.com/artist/35qLVQ5G13Moug3HQcf90C) | [Meditation Bowls](https://open.spotify.com/album/2AKGiEMHjSodVRkFyBdf0O) | 4:40 | 2022-05-13 |  |
@@ -37,7 +37,7 @@
 | [Pratityasamutpada](https://open.spotify.com/track/4THOrb3uODy21CmF6WK4oz) | [Mindful Eclipse](https://open.spotify.com/artist/7AqjdmOiPPFzX6oy0Mfo1j) | [Mindful Eclipse](https://open.spotify.com/album/0CfC4UCQEihJ4hNUz2rF3A) | 4:08 | 2022-05-13 |  |
 | [Prayer for Protection](https://open.spotify.com/track/09o9vEpXDAzjABUNGWIxQj) | [Xumantra](https://open.spotify.com/artist/0VEyOGSIOChZJa2Di3auGm) | [Healing Bells](https://open.spotify.com/album/0cVPDtE02pe4BEpPbZ3ZYu) | 6:29 | 2022-05-13 |  |
 | [Relaxation](https://open.spotify.com/track/4qmPhAOXK9oNSBrQ6IPzSV) | [Tibetan Singing Bowls](https://open.spotify.com/artist/6kwJsOLwA762nHcbkRCKq0) | [Tibetan Singing Bowls](https://open.spotify.com/album/2xuIDSiC8KG61XFuEYvMed) | 5:45 | 2022-05-13 |  |
-| [Root Chakra \(Muladhara\) \- 3 Octaves C](https://open.spotify.com/track/026nvVJ92VxqZCceoYKvJx) | [Yeshi Namdak](https://open.spotify.com/artist/1Q024x44ggYq9bvRsaRPri) | [7 Chakra Meditation with Tibetan Bowls](https://open.spotify.com/album/2c8pxiKmUpGVvIjEWChg9X) | 0:29 | 2022-05-13 |  |
+| [Root Chakra \(Muladhara\) \- 3 Octaves C](https://open.spotify.com/track/026nvVJ92VxqZCceoYKvJx) | [Yeshi Namdak](https://open.spotify.com/artist/1Q024x44ggYq9bvRsaRPri) | [7 Chakra Meditation with Tibetan Bowls](https://open.spotify.com/album/2c8pxiKmUpGVvIjEWChg9X) | 2:50 | 2022-05-13 |  |
 | [Sacral Tone D](https://open.spotify.com/track/2f859eZNcLhI7IwFVgalUE) | [Wychazel](https://open.spotify.com/artist/3Ha5NFzupiI1mSkVVVkXhN) | [Tibetan Bowls](https://open.spotify.com/album/3TMvm79PL70U27YH1ExMXE) | 6:00 | 2022-05-13 |  |
 | [Safe Haven](https://open.spotify.com/track/5FQiL1O5UkwjJ8nPLxaGGb) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Tibetan Singing Bowl Songs](https://open.spotify.com/album/78jpWr2ktBjpOKa3Cx1j1R) | 3:13 | 2022-05-13 |  |
 | [Sati Bowl](https://open.spotify.com/track/4jgvF7VdROvGudjZCFsQv7) | [Dhyāna One](https://open.spotify.com/artist/0UFdIjW2UB80v8wuOMUrYC) | [Dhyāna](https://open.spotify.com/album/4aJArtbJHKy4F88Wy2pMn9) | 3:53 | 2022-05-13 |  |
@@ -57,7 +57,7 @@
 | [The Singing Bowl](https://open.spotify.com/track/3M6rco9567iURViiYXXKen) | [Satorio](https://open.spotify.com/artist/54dz2oZHyoh9ZmfldoKogN) | [Crystal Bowls & Tibetan Singing Bowls](https://open.spotify.com/album/0cJhl9uqOjDbSSLzJWi1KE) | 7:38 | 2022-05-13 |  |
 | [Third Eye Chakra Singing Bowl](https://open.spotify.com/track/55s8n5TnnDr1WAKbhaB7OA) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Singing Bowls of Purity](https://open.spotify.com/album/08PG1DXpZq2hgu4UTmMmPm) | 3:44 | 2022-05-13 |  |
 | [Three Buddhas](https://open.spotify.com/track/132d0MEtF5Wr4gmbPqQrOc) | [Xumantra](https://open.spotify.com/artist/0VEyOGSIOChZJa2Di3auGm) | [Singing Bowls](https://open.spotify.com/album/15k2UpQBzV2oHMIlYfBAFl) | 6:26 | 2022-05-13 |  |
-| [Throath Chakra \- \(Vishuddha\) 3 Octaves G](https://open.spotify.com/track/4aS3XkjjFSafYME58Wo1iY) | [Yeshi Namdak](https://open.spotify.com/artist/1Q024x44ggYq9bvRsaRPri) | [7 Chakra Meditation with Tibetan Bowls](https://open.spotify.com/album/2c8pxiKmUpGVvIjEWChg9X) | 0:29 | 2022-05-13 |  |
+| [Throath Chakra \- \(Vishuddha\) 3 Octaves G](https://open.spotify.com/track/4aS3XkjjFSafYME58Wo1iY) | [Yeshi Namdak](https://open.spotify.com/artist/1Q024x44ggYq9bvRsaRPri) | [7 Chakra Meditation with Tibetan Bowls](https://open.spotify.com/album/2c8pxiKmUpGVvIjEWChg9X) | 2:50 | 2022-05-13 |  |
 | [Tibetan Bells](https://open.spotify.com/track/66Uz6LmJU9NsGeRl9DI8Wh) | [Tibetan Singing Bowls](https://open.spotify.com/artist/6kwJsOLwA762nHcbkRCKq0) | [Tibetan Singing Bowls](https://open.spotify.com/album/2xuIDSiC8KG61XFuEYvMed) | 6:34 | 2022-05-13 |  |
 | [Tibetan Bowl Escape](https://open.spotify.com/track/2aHikc0squ4xiHaYEVR5N2) | [Relaxing Tibetan Singing Bowls](https://open.spotify.com/artist/7eWhSlk1SPRRFkt9l6QE7R) | [Tibetan Bowl Escape](https://open.spotify.com/album/15YrBa9VbWVAPwiplCdgmf) | 2:30 | 2022-05-13 |  |
 | [Tibetan Bowl Meditation](https://open.spotify.com/track/2Vh8dAhsAWDjX651xHGKwt) | [Relaxing Tibetan Singing Bowls](https://open.spotify.com/artist/7eWhSlk1SPRRFkt9l6QE7R) | [Tibetan Bowl Escape](https://open.spotify.com/album/15YrBa9VbWVAPwiplCdgmf) | 2:37 | 2022-05-13 |  |

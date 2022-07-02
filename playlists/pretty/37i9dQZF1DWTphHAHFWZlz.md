@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 
 > El sonido del nuevo rock argentino esta acá\. Foto: Las Sombras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,197 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,199 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 | 43 | [Avenida Vacía](https://open.spotify.com/track/7iVyf30YjmmRFHct0h8AOE) | [Doctor Brown](https://open.spotify.com/artist/4E97sUnBxVIE4LsUDYvyFh) | [Avenida Vacía](https://open.spotify.com/album/4WPsJyLgeqOvgDjqpfriwg) | 3:55 |
 | 44 | [Dos Luceros](https://open.spotify.com/track/3krdv9V71ZcmKALHypnB0f) | [Años Luz](https://open.spotify.com/artist/46N1BjrxCmtoQO0RVjVzlP) | [Dos Luceros](https://open.spotify.com/album/77B1LOCbF0hDeQzoSxwk2c) | 3:24 |
 | 45 | [Atlántida](https://open.spotify.com/track/6JCAu0nt4HFMAEvdFLHQvW) | [Pyramides](https://open.spotify.com/artist/1YbKrHuxHjOQGBSMiz2YHU) | [Atlántida](https://open.spotify.com/album/7kWcGPdxlEhJk9liwvUPUF) | 4:03 |
-| 46 | [Se Va Lejos](https://open.spotify.com/track/1z6YhJS25796qL3BvWCjhG) | [Superchería](https://open.spotify.com/artist/357XNr9zK8hSYbqT6prx4v) | [Superchería](https://open.spotify.com/album/7AJDzOjQ47jiQ35HteffDM) | 0:29 |
+| 46 | [Se Va Lejos](https://open.spotify.com/track/1z6YhJS25796qL3BvWCjhG) | [Superchería](https://open.spotify.com/artist/357XNr9zK8hSYbqT6prx4v) | [Superchería](https://open.spotify.com/album/7AJDzOjQ47jiQ35HteffDM) | 2:35 |
 | 47 | [El Ahorcado](https://open.spotify.com/track/00PwPqjTsQDLsVONkT9fIb) | [Luceros el Ojo Daltónico](https://open.spotify.com/artist/7aDsgRYwyCrJDUT0u1kyUV) | [A Lo Bonzo](https://open.spotify.com/album/3w2IgQG674ov762lQXq1HY) | 3:05 |
 | 48 | [Revelado](https://open.spotify.com/track/2K822m6CHGBliLJqG9JkHt) | [Los Burritos](https://open.spotify.com/artist/20pbYX3EUvtEdG3Cjx9qG1) | [Revelado](https://open.spotify.com/album/1dWi6jCXNTxxCrpMd7aB5q) | 3:10 |
 | 49 | [El Sol de Enero](https://open.spotify.com/track/1JFRDOc6v7KVrUNglnopVJ) | [Martes 13](https://open.spotify.com/artist/4yQad4h1S2VKZbiEYlnFKy) | [El Sol de Enero](https://open.spotify.com/album/1LHMrdu5ExbRfwv5t5Xj1H) | 2:48 |

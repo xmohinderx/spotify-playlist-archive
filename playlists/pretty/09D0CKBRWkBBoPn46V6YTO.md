@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/09D0CKBRWkBBoPn46V6YTO.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 409 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 409 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/09D0CKBRWkBBoPn46V6YTO.md) - [plain]
 | 5 | [War](https://open.spotify.com/track/0H7cM7atT2ri9CshIt0ag9) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [Motown Unmixed](https://open.spotify.com/album/541mfRpYMoZbVs8kCfZCdN) | 3:23 |
 | 6 | [Ain't No Mountain High Enough \- Single Version](https://open.spotify.com/track/0yLchb1kn0jtEgIRtoTCwq) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana Ross \(Expanded Edition\)](https://open.spotify.com/album/2fRnRS1s58KLndlxOi8c36) | 6:20 |
 | 7 | [I'll Be There](https://open.spotify.com/track/1NQQ4kRk5UQDB3qxlw2zji) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Love Songs](https://open.spotify.com/album/5RiTJE1E1cmY8vOTqmqqu6) | 3:57 |
-| 8 | [Get Ready](https://open.spotify.com/track/06ahXfNkTO6Tu289M5PUeI) | [Rare Earth](https://open.spotify.com/artist/6eEsIl4wosvhuWI0mfXxAF) | [Brady Days \- Music Inspired By The Brady Bunch](https://open.spotify.com/album/6VyJ0GRhy0rRdmKP7rVuZu) | 0:29 |
+| 8 | [Get Ready](https://open.spotify.com/track/06ahXfNkTO6Tu289M5PUeI) | [Rare Earth](https://open.spotify.com/artist/6eEsIl4wosvhuWI0mfXxAF) | [Brady Days \- Music Inspired By The Brady Bunch](https://open.spotify.com/album/6VyJ0GRhy0rRdmKP7rVuZu) | 3:52 |
 | 9 | [Let It Be](https://open.spotify.com/track/2dTIQ0acrLv9cazhWyb6P5) | [The Yesteryears](https://open.spotify.com/artist/7vfFFI4s6twLs3L5POUURF) | [A Tribute to \#1 Beatles Hits \- The Best of the Beatles](https://open.spotify.com/album/0BCeflkkC6czcKvv5Ixcx9) | 3:48 |
 | 10 | [Band Of Gold \- Re\-Record](https://open.spotify.com/track/3IhZEfDURJjZetiaJ40Sxo) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [Band Of Gold](https://open.spotify.com/album/6CN993t7RK0wh9pHRjGeVz) | 2:54 |
 | 11 | [Mama Told Me \(Not To Come\)](https://open.spotify.com/track/1VCpTqHK43wTIB5BcVxiZo) | [Three Dog Night](https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV) | [Boogie Nights \#2 \(More Music From The Original Motion Picture\)](https://open.spotify.com/album/5Vh4H5yxqnzIBfCAws53Hb) | 3:16 |
-| 12 | [Everything Is Beautiful](https://open.spotify.com/track/2X1vF9EkaOC08o50XfOQKF) | [Ray Stevens](https://open.spotify.com/artist/7MpUvihmfilIxyN20kXwQj) | [Golden Hits forever V4](https://open.spotify.com/album/0QEpGrv9COXKuF8oXzP87V) | 0:29 |
+| 12 | [Everything Is Beautiful](https://open.spotify.com/track/2X1vF9EkaOC08o50XfOQKF) | [Ray Stevens](https://open.spotify.com/artist/7MpUvihmfilIxyN20kXwQj) | [Golden Hits forever V4](https://open.spotify.com/album/0QEpGrv9COXKuF8oXzP87V) | 3:32 |
 | 13 | [Make It with You](https://open.spotify.com/track/11gfsr13S8qsfN48IILcHU) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [The Best of Bread](https://open.spotify.com/album/27PnJozrSZByyLlqFtiVtx) | 3:12 |
 | 14 | [Hitchin a Ride](https://open.spotify.com/track/0jyEmGRHhZjH1MG46M8QKf) | [Vanity Fare](https://open.spotify.com/artist/0Wt8hmgHtXUgwsLg5NpMZv) | [Hitchin' A Ride](https://open.spotify.com/album/18f77iENiqAxD3AZlfk5kK) | 2:57 |
 | 15 | [ABC](https://open.spotify.com/track/01gwPP2h3ajRnqiIphUtR7) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Anthology: Jackson 5](https://open.spotify.com/album/0EwhxzV0N61hu3S3PkB2Ku) | 2:57 |

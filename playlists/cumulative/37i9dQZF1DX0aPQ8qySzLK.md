@@ -4,13 +4,13 @@
 
 > Our editorial picks for Folk's best of 2021 in Canada\. Cover: Ocie Elliott
 
-100 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/6iR9FAQx2rscTZFHnWNECo)
+100 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/6iR9FAQx2rscTZFHnWNECo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Troubled Mind](https://open.spotify.com/track/3onPL6KjCPM0K8wZkDeU7y) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cape Elizabeth](https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj) | 3:01 | 2021-12-01 |  |
 | [All The Time](https://open.spotify.com/track/31owmdBKTNs0rAZzs5mWtb) | [Mattie Leon](https://open.spotify.com/artist/3hJTvfT20mDphCF1yJsnC0) | [In Natural Light](https://open.spotify.com/album/2UWI6DUp9mY9nOAZJBZVxO) | 3:33 | 2021-12-01 |  |
-| [All This Time Running](https://open.spotify.com/track/4qrVC09Ud9a0B2hpwT1EGV) | [Craig Cardiff](https://open.spotify.com/artist/2VMxEtyyo7Jg3jmVDQPHwx) | [All This Time Running](https://open.spotify.com/album/71FWp5uo78GM4C7ZseK2O9) | 0:29 | 2021-12-01 |  |
+| [All This Time Running](https://open.spotify.com/track/4qrVC09Ud9a0B2hpwT1EGV) | [Craig Cardiff](https://open.spotify.com/artist/2VMxEtyyo7Jg3jmVDQPHwx) | [All This Time Running](https://open.spotify.com/album/71FWp5uo78GM4C7ZseK2O9) | 3:05 | 2021-12-01 |  |
 | [Always Alone](https://open.spotify.com/track/2Iams73705r7Q06aSSm0XA) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [This Time I See It](https://open.spotify.com/album/5GKghelnfdwT1Xnzc4RF2O) | 4:41 | 2021-12-01 |  |
 | [Back to Love](https://open.spotify.com/track/1CsGyKtUsk0uEKIoaHIEuR) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Back to Love](https://open.spotify.com/album/64Ll0RVJLquQzXJCFTuDNx) | 3:51 | 2021-12-01 |  |
 | [Bedside Love Song](https://open.spotify.com/track/3dh5AzMmKDT6ztWUgIjV1u) | [Frank Moyo](https://open.spotify.com/artist/0UwN9iFJc5vV2mpJyFGCyf) | [Bedside Love Song](https://open.spotify.com/album/1OQnsI6YfHKOrCTowUx0rC) | 3:19 | 2021-12-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6WdWXzlAP9E.md) - [plain]
 
 > Celebrating 50 years of the original artists, songs, and recordings from the iconic 1969 Woodstock Music Festival
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,655 likes - 100 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,707 likes - 100 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6WdWXzlAP9E.md) - [plain]
 | 2 | [Purple Haze \- Live at The Woodstock Music & Art Fair, August 18, 1969](https://open.spotify.com/track/2lk8WgD5OirqjGNaY8M3hO) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Live at Woodstock](https://open.spotify.com/album/3ok1qnMfMHuJTjPo5G0sQc) | 4:23 |
 | 3 | [Hey Joe \- Live at The Woodstock Music & Art Fair, August 18, 1969](https://open.spotify.com/track/3CPLiX94bQmtr0vGbl38MR) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Live at Woodstock](https://open.spotify.com/album/3ok1qnMfMHuJTjPo5G0sQc) | 5:52 |
 | 4 | [Star Spangled Banner \- Live at The Woodstock Music & Art Fair, August 18, 1969](https://open.spotify.com/track/3lpa6fzS3rSAbRogEhWxu7) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Live at Woodstock](https://open.spotify.com/album/3ok1qnMfMHuJTjPo5G0sQc) | 3:43 |
-| 5 | [Voodoo Child \(Slight Return\)](https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 0:29 |
+| 5 | [Voodoo Child \(Slight Return\)](https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 5:13 |
 | 6 | [Foxey Lady \- Live at The Woodstock Music & Art Fair, August 18, 1969](https://open.spotify.com/track/1RfZD13DmitXpTekmSUIh8) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Live at Woodstock](https://open.spotify.com/album/3ok1qnMfMHuJTjPo5G0sQc) | 5:06 |
 | 7 | [Woodstock Inprovisation \- Live at The Woodstock Music & Art Fair, August 18, 1969](https://open.spotify.com/track/01CyjvhY0cA1T9XwST7FAH) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Live at Woodstock](https://open.spotify.com/album/3ok1qnMfMHuJTjPo5G0sQc) | 3:59 |
 | 8 | [Waiting \- Live at The Woodstock Music & Art Fair, August 16, 1969](https://open.spotify.com/track/5zLXUaYlIqhTcm7OJVSqgb) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana \(Legacy Edition\)](https://open.spotify.com/album/2hQwyoPiM1G9iLWkXqC2Hu) | 4:44 |

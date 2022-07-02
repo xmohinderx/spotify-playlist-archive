@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > Hip\-Hop tracks from the Arab world\. Cover: Dafencii
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,097 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,145 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,11 +79,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 69 | [Cartable](https://open.spotify.com/track/0L1amLwBWnkKWJsNrOC2Y2) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Têtu \(Deluxe Version\)](https://open.spotify.com/album/57LaqfE51kDdWhhWtjfn71) | 3:12 |
 | 70 | [CTRL](https://open.spotify.com/track/2lj1RNDztkIsyzhAX2soEa) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [CTRL](https://open.spotify.com/album/0OyMCkjFdI6EoYeAQlEAjS) | 3:05 |
 | 71 | [أنا \(مع الناين\)](https://open.spotify.com/track/1RlBtg1ckszvlAYmbgJ1dB) | [A1 Awesome](https://open.spotify.com/artist/745nbTMdhGgNwZZiYhjzln) | [أنا \(مع الناين\)](https://open.spotify.com/album/5k2BiM23sQvhKuII0vwqpw) | 2:54 |
-| 72 | [Kafi](https://open.spotify.com/track/2TxM4LbxB54gZXprhgPPhU) | [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [Kafi](https://open.spotify.com/album/5jSKq3z3kdw0aUczztEsyp) | 0:29 |
-| 73 | [Ghaba](https://open.spotify.com/track/45GbniNGdKE7vSgggfcBWl) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [Ghaba](https://open.spotify.com/album/3dllHmcOIukOlPcbo5i6mJ) | 0:29 |
+| 72 | [Kafi](https://open.spotify.com/track/2TxM4LbxB54gZXprhgPPhU) | [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [Kafi](https://open.spotify.com/album/5jSKq3z3kdw0aUczztEsyp) | 2:25 |
+| 73 | [Ghaba](https://open.spotify.com/track/45GbniNGdKE7vSgggfcBWl) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [Ghaba](https://open.spotify.com/album/3dllHmcOIukOlPcbo5i6mJ) | 3:04 |
 | 74 | [Maalish](https://open.spotify.com/track/42CFrgrQ2SOvAXPSbnaH3e) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Phoenix](https://open.spotify.com/album/6Xmpgs3PqfYMBsILATKj12) | 3:18 |
 | 75 | [Sham3 3id El Milad](https://open.spotify.com/track/0kcmuRtga0TXoKTOcfLRXr) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc) | [Sham3 3id El Milad](https://open.spotify.com/album/2ubz2Ex7oXN1nch00vvyKN) | 2:14 |
-| 76 | [Hattatack Battatack](https://open.spotify.com/track/3RzrCMppvv3cYLmAI1KdGp) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [PUBG MOBILE](https://open.spotify.com/artist/7q9bAXCK4bTiYigFMjvs3I) | [Hattatack Battatack](https://open.spotify.com/album/5KYIVbKwWrIyTlXfZr3bQs) | 0:29 |
+| 76 | [Hattatack Battatack](https://open.spotify.com/track/3RzrCMppvv3cYLmAI1KdGp) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [PUBG MOBILE](https://open.spotify.com/artist/7q9bAXCK4bTiYigFMjvs3I) | [Hattatack Battatack](https://open.spotify.com/album/5KYIVbKwWrIyTlXfZr3bQs) | 2:25 |
 | 77 | [MORAL](https://open.spotify.com/track/7xrIIxFmBpIozEoEHBs3YY) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [MORAL](https://open.spotify.com/album/03p4HxzW5x6yIGAnyhqppm) | 3:22 |
 | 78 | [روس مايلة](https://open.spotify.com/track/0jM99irYwb4HCPfX5euOx4) | [Khalz](https://open.spotify.com/artist/6Ypyp6sAbGndh7J0EMfope) | [روس مايلة](https://open.spotify.com/album/71CoAxArBEm4CU5edrftJr) | 3:14 |
 | 79 | [Ezayak](https://open.spotify.com/track/27az6aDS4zWJ3yRU7gXJVH) | [Batistuta](https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo), [L5VAV](https://open.spotify.com/artist/7iriVfN6kftRpKDqdm492u) | [Ezayak](https://open.spotify.com/album/2xl5oVu3n8v9nAZDbmgi41) | 3:14 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 96 | [Adary](https://open.spotify.com/track/18vgXrkt2LuZDyT96YjB4B) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Adary](https://open.spotify.com/album/1Ck7BOASzBk6gkWqZDh6r3) | 3:04 |
 | 97 | [DaY5a](https://open.spotify.com/track/05V7RavGedViEzzD4moNwK) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Wezza Montaser](https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj) | [DaY5a](https://open.spotify.com/album/4eU2GHuR6RmM0zTCWyKh94) | 2:57 |
 | 98 | [Rio](https://open.spotify.com/track/3Nmka6ycOZm2jiHyCJCjcc) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Florida](https://open.spotify.com/album/4bSsYSyiKLlP36LA1sY94N) | 3:15 |
-| 99 | [KIKI](https://open.spotify.com/track/3n58EssjWguXRIQucF12cZ) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Moroccan Dream](https://open.spotify.com/album/5aUtrbOfZvn6yhgZuVhIFb) | 0:29 |
+| 99 | [KIKI](https://open.spotify.com/track/3n58EssjWguXRIQucF12cZ) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Moroccan Dream](https://open.spotify.com/album/5aUtrbOfZvn6yhgZuVhIFb) | 2:59 |
 | 100 | [Zahri](https://open.spotify.com/track/7epBNl7bl4Gi5UwA5tdmyN) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Zahri](https://open.spotify.com/album/3tsez1d6MZIe6QwkVfTc47) | 3:20 |
 
 Snapshot ID: `MTY1NjA4MjU2MCwwMDAwMDFjODAwMDAwMTgxOTYzNjc1ZDkwMDAwMDE4MTRkMTc1OTU4`

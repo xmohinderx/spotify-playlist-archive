@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kI525v95Yu.md) - [plain]
 
 > The greatest hits of U2, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,049,472 likes - 59 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,049,750 likes - 59 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kI525v95Yu.md) - [plain]
 | 40 | [In A Little While](https://open.spotify.com/track/1NBf3nsIIaBTikQzV5hICg) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 3:40 |
 | 41 | [I'll Go Crazy If I Don't Go Crazy Tonight](https://open.spotify.com/track/6Bxd6SGnWO0bTWCDYh4ZWk) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [No Line On The Horizon](https://open.spotify.com/album/5yqMA7IvahYJc53ewRAMnP) | 4:13 |
 | 42 | [Bullet The Blue Sky](https://open.spotify.com/track/6bOQkyznhXQ2kd1bVtmvSt) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5OkSkzxPZuziL8waHmU8Zd) | 4:31 |
-| 43 | [The Ground Beneath Her Feet](https://open.spotify.com/track/28mukXvwZFIFEQU749chRG) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can’t Leave Behind \(20th Anniversary Edition / Super Deluxe / Remastered 2020\)](https://open.spotify.com/album/6qghLuq9nn2SddGSrqBDrh) | 0:29 |
+| 43 | [The Ground Beneath Her Feet](https://open.spotify.com/track/28mukXvwZFIFEQU749chRG) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can’t Leave Behind \(20th Anniversary Edition / Super Deluxe / Remastered 2020\)](https://open.spotify.com/album/6qghLuq9nn2SddGSrqBDrh) | 3:43 |
 | 44 | [Gone](https://open.spotify.com/track/5Ix7eNDeGdS2y2n3OSTCr5) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pop](https://open.spotify.com/album/5mojJwWgWNJcY3odUGgQc3) | 4:26 |
 | 45 | [Love Is All We Have Left](https://open.spotify.com/track/3CGZnJkBe1Kk5Jx4Kc3kPv) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/3cbQd0gKxPirUnTG38rrUY) | 2:41 |
 | 46 | [Love Is Bigger Than Anything In Its Way](https://open.spotify.com/track/6i56nPbOOe3hEeUku2Wnpx) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/3cbQd0gKxPirUnTG38rrUY) | 4:00 |

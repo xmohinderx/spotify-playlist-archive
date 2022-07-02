@@ -1,12 +1,12 @@
 {
   "description": "POV: sipping tea in the parlour with your BFF.",
-  "num_followers": 107380,
+  "num_followers": 107428,
   "original_name": "regency vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjUwNzc1NywwMDAwMDAwZTAwMDAwMTgxYWY4ZTc0NWMwMDAwMDE3YTBhYmU4NTM5",
+  "snapshot_id": "MTY1NjY3MTIzNCwwMDAwMDAwZjAwMDAwMTgxYjk0Y2U5NDUwMDAwMDE3YTBhYmU4NTM5",
   "tracks": [
     {
       "added_at": "2022-06-29 13:02:37",
@@ -76,9 +76,29 @@
           "url": "https://open.spotify.com/artist/5vJAuQf7YI4bRYev7UfZDs"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 221731,
       "name": "Nocturne No. 1 in E Flat Major, H.24",
       "url": "https://open.spotify.com/track/4h4py9AzEuUGBTJZO4ifnm"
+    },
+    {
+      "added_at": "2022-06-29 13:02:37",
+      "album": {
+        "name": "Love & Friendship (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2UZg52siXUEix9x1Yb3bpW"
+      },
+      "artists": [
+        {
+          "name": "William Butt",
+          "url": "https://open.spotify.com/artist/3haPAcAMMngBtugMQSIaSg"
+        },
+        {
+          "name": "Archie Chen",
+          "url": "https://open.spotify.com/artist/23Ghizx5CEAgDo7LDWipKs"
+        }
+      ],
+      "duration_ms": 42786,
+      "name": "Cello Sonata No.3 in A Major: Adagio",
+      "url": "https://open.spotify.com/track/7llgKyvaQR10beuT6aInYQ"
     },
     {
       "added_at": "2022-06-29 13:02:37",
@@ -163,26 +183,6 @@
     {
       "added_at": "2022-06-29 13:02:37",
       "album": {
-        "name": "Poldark: Music from the TV Series (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4swL8BznFgV5IhDRFyB7bO"
-      },
-      "artists": [
-        {
-          "name": "Anne Dudley",
-          "url": "https://open.spotify.com/artist/41dLItQx3PSyP6n1AMd87b"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 221893,
-      "name": "Poldark Prelude",
-      "url": "https://open.spotify.com/track/2ZiKX8sUWhINzoprZAWTzl"
-    },
-    {
-      "added_at": "2022-06-29 13:02:37",
-      "album": {
         "name": "Sinfonia Concertante for 2 Cellos in E Major/II. Largo",
         "url": "https://open.spotify.com/album/1vitj79yjkSsLdPfTOFLEV"
       },
@@ -227,42 +227,6 @@
     {
       "added_at": "2022-06-29 13:02:37",
       "album": {
-        "name": "Paganini Fantasy",
-        "url": "https://open.spotify.com/album/1dksgm6bFDPofWg34V76vs"
-      },
-      "artists": [
-        {
-          "name": "Niccol\u00f2 Paganini",
-          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
-        },
-        {
-          "name": "Nemanja Radulovi\u0107",
-          "url": "https://open.spotify.com/artist/1KicbGCOVNG7FkghcRVcQs"
-        }
-      ],
-      "duration_ms": 417000,
-      "name": "Moses Fantasy",
-      "url": "https://open.spotify.com/track/75FLA49VKCQPbhVHtnz3pU"
-    },
-    {
-      "added_at": "2022-06-29 13:02:37",
-      "album": {
-        "name": "Sanditon (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/7zbe6VlYuPAYeoQ9o1FQWW"
-      },
-      "artists": [
-        {
-          "name": "Ruth Barrett",
-          "url": "https://open.spotify.com/artist/48ZoDch2iKE7FZEYY67DPB"
-        }
-      ],
-      "duration_ms": 142041,
-      "name": "Sidney and Charlotte Dance",
-      "url": "https://open.spotify.com/track/4Dg3T3W6yESLFXKsfQGoDI"
-    },
-    {
-      "added_at": "2022-06-29 13:02:37",
-      "album": {
         "name": "Far from the Madding Crowd (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4J9mOsvXXsEy7ocReEwBBP"
       },
@@ -279,62 +243,30 @@
     {
       "added_at": "2022-06-29 13:02:37",
       "album": {
-        "name": "Beethoven: Complete Works for Piano & Cello",
-        "url": "https://open.spotify.com/album/11YquqSJiRgbYl1c4NufA0"
+        "name": "Hummel / Du Puy / Danzi / Weber: The Romantic Bassoon",
+        "url": "https://open.spotify.com/album/13N56hu1ywksI4Dae9yDnI"
       },
       "artists": [
         {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+          "name": "Edouard Du Puy",
+          "url": "https://open.spotify.com/artist/4YSCbLTg7qXHjtIeW8YhV4"
         },
         {
-          "name": "Adrian Brendel",
-          "url": "https://open.spotify.com/artist/1eRJUh6hSr6p0aedjNQVZH"
+          "name": "Christian Davidsson",
+          "url": "https://open.spotify.com/artist/0UL3VyugD1PWfgrYZQ6LqZ"
         },
         {
-          "name": "Alfred Brendel",
-          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
-        }
-      ],
-      "duration_ms": 519106,
-      "name": "Sonata for Cello and Piano No.3 in A, Op.69: 3. Adagio cantabile - Allegro vivace",
-      "url": "https://open.spotify.com/track/4bOm9kjSbkskc4xfuelshT"
-    },
-    {
-      "added_at": "2022-06-29 13:02:37",
-      "album": {
-        "name": "Haydn (The Best Of)",
-        "url": "https://open.spotify.com/album/5dfDcgXCQnKc1lKVtyqCtv"
-      },
-      "artists": [
-        {
-          "name": "Franz Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+          "name": "Sundsvall Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/4YvXczozKiUsl0KTspMIA6"
         },
         {
-          "name": "Kod\u00e1ly Quartet",
-          "url": "https://open.spotify.com/artist/1LP6gYZMSGJNpso6MWoOWr"
+          "name": "Niklas Willen",
+          "url": "https://open.spotify.com/artist/3VVhInf9f2hRXZBIaPcYyY"
         }
       ],
-      "duration_ms": 406000,
-      "name": "String Quartet in D Major, Op. 64/5: Adagio cantabile",
-      "url": "https://open.spotify.com/track/3y9uQIatvsOg3tI8mPK8u4"
-    },
-    {
-      "added_at": "2022-06-29 13:02:37",
-      "album": {
-        "name": "Varese Sarabande: A 25th Anniversary Celebration (25 Years Of Great Film Music)",
-        "url": "https://open.spotify.com/album/0D10oCY4gRp4ASj1kJZsyp"
-      },
-      "artists": [
-        {
-          "name": "Rachel Portman",
-          "url": "https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR"
-        }
-      ],
-      "duration_ms": 178466,
-      "name": "Emma - From \"Emma\"",
-      "url": "https://open.spotify.com/track/2W602jFzodgV2MWp52nrKe"
+      "duration_ms": 335160,
+      "name": "Bassoon Quintet in A Minor: II. Andante sostenuto",
+      "url": "https://open.spotify.com/track/3uE83JeBkY95ZnnhxyZJsj"
     },
     {
       "added_at": "2022-06-29 13:02:37",
@@ -356,7 +288,7 @@
           "url": "https://open.spotify.com/artist/1sylrdKARMDYTJbs8IPWGy"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 360000,
       "name": "Piano Concerto No. 2 in D Minor, Op. 16: II. Andante cantabile",
       "url": "https://open.spotify.com/track/1x4dOZWD7WbD9lkvmi8jmw"
     },
@@ -379,70 +311,6 @@
       "duration_ms": 338253,
       "name": "Chopin: Nocturne No. 8 in D-Flat Major, Op. 27 No. 2",
       "url": "https://open.spotify.com/track/4hbvrHgfZ8lqFrPx1Ztd6j"
-    },
-    {
-      "added_at": "2022-06-29 13:02:37",
-      "album": {
-        "name": "Sense & Sensibility - Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/5cdzYLI2HbFMJsqyt028Gq"
-      },
-      "artists": [
-        {
-          "name": "Patrick Doyle",
-          "url": "https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ"
-        },
-        {
-          "name": "Tony Hymas",
-          "url": "https://open.spotify.com/artist/6A479xP05787vKnE5MtLSG"
-        },
-        {
-          "name": "Robert Ziegler",
-          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
-        }
-      ],
-      "duration_ms": 327573,
-      "name": "My Father's Favourite",
-      "url": "https://open.spotify.com/track/0LrA0EtiJsr4tDHIGw82OW"
-    },
-    {
-      "added_at": "2022-06-29 13:02:37",
-      "album": {
-        "name": "Arias for Dramatic Soprano. Only Music (Instrumental Version)",
-        "url": "https://open.spotify.com/album/5SPcQRuuEdXJCPWD8ZYTOj"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Orchestra Filarmonica Ucraina",
-          "url": "https://open.spotify.com/artist/7dCm81ernkaCetMxzdV62i"
-        },
-        {
-          "name": "Silvano Frontalini",
-          "url": "https://open.spotify.com/artist/4hB6gspHUv7YlN9c6ViLhN"
-        }
-      ],
-      "duration_ms": 160533,
-      "name": "Tosca: \"Vissi d'arte\" - Instrumental Version",
-      "url": "https://open.spotify.com/track/1sLdtvscJQJU0m8lE3UgGv"
-    },
-    {
-      "added_at": "2022-06-29 13:02:37",
-      "album": {
-        "name": "EMMA. (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2QwIcZ1a1FuDUw8i0u1dGS"
-      },
-      "artists": [
-        {
-          "name": "The Chamber Orchestra Of London",
-          "url": "https://open.spotify.com/artist/2IS9rTtWwEfUEY4u3mecIT"
-        }
-      ],
-      "duration_ms": 129229,
-      "name": "Mr. Turner's Waltz",
-      "url": "https://open.spotify.com/track/1bV9N9F9QHilS9ZusAL6VM"
     },
     {
       "added_at": "2022-06-29 13:02:37",
@@ -492,7 +360,7 @@
           "url": "https://open.spotify.com/artist/7l8HgcLsRg3x9IbeAQjaGz"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 464000,
       "name": "Violin Concerto No.8 in A minor, Op.47 (Im Form einer Gesangsszene): 2. Adagio - Andante",
       "url": "https://open.spotify.com/track/0Y5N7jqHSVuRcjpxh8yldi"
     },
@@ -599,22 +467,118 @@
     {
       "added_at": "2022-06-29 13:02:37",
       "album": {
-        "name": "Love & Friendship (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2UZg52siXUEix9x1Yb3bpW"
+        "name": "Poldark: Music from the TV Series (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4swL8BznFgV5IhDRFyB7bO"
       },
       "artists": [
         {
-          "name": "William Butt",
-          "url": "https://open.spotify.com/artist/3haPAcAMMngBtugMQSIaSg"
+          "name": "Anne Dudley",
+          "url": "https://open.spotify.com/artist/41dLItQx3PSyP6n1AMd87b"
         },
         {
-          "name": "Archie Chen",
-          "url": "https://open.spotify.com/artist/23Ghizx5CEAgDo7LDWipKs"
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 42786,
-      "name": "Cello Sonata No.3 in A Major: Adagio",
-      "url": "https://open.spotify.com/track/7llgKyvaQR10beuT6aInYQ"
+      "duration_ms": 221893,
+      "name": "Poldark Prelude",
+      "url": "https://open.spotify.com/track/2ZiKX8sUWhINzoprZAWTzl"
+    },
+    {
+      "added_at": "2022-06-29 13:02:37",
+      "album": {
+        "name": "Sanditon (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7zbe6VlYuPAYeoQ9o1FQWW"
+      },
+      "artists": [
+        {
+          "name": "Ruth Barrett",
+          "url": "https://open.spotify.com/artist/48ZoDch2iKE7FZEYY67DPB"
+        }
+      ],
+      "duration_ms": 142041,
+      "name": "Sidney and Charlotte Dance",
+      "url": "https://open.spotify.com/track/4Dg3T3W6yESLFXKsfQGoDI"
+    },
+    {
+      "added_at": "2022-06-29 13:02:37",
+      "album": {
+        "name": "Varese Sarabande: A 25th Anniversary Celebration (25 Years Of Great Film Music)",
+        "url": "https://open.spotify.com/album/0D10oCY4gRp4ASj1kJZsyp"
+      },
+      "artists": [
+        {
+          "name": "Rachel Portman",
+          "url": "https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR"
+        }
+      ],
+      "duration_ms": 178466,
+      "name": "Emma - From \"Emma\"",
+      "url": "https://open.spotify.com/track/2W602jFzodgV2MWp52nrKe"
+    },
+    {
+      "added_at": "2022-06-29 13:02:37",
+      "album": {
+        "name": "Sense & Sensibility - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/5cdzYLI2HbFMJsqyt028Gq"
+      },
+      "artists": [
+        {
+          "name": "Patrick Doyle",
+          "url": "https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ"
+        },
+        {
+          "name": "Tony Hymas",
+          "url": "https://open.spotify.com/artist/6A479xP05787vKnE5MtLSG"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        }
+      ],
+      "duration_ms": 327573,
+      "name": "My Father's Favourite",
+      "url": "https://open.spotify.com/track/0LrA0EtiJsr4tDHIGw82OW"
+    },
+    {
+      "added_at": "2022-06-29 13:02:37",
+      "album": {
+        "name": "Arias for Dramatic Soprano. Only Music (Instrumental Version)",
+        "url": "https://open.spotify.com/album/5SPcQRuuEdXJCPWD8ZYTOj"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Orchestra Filarmonica Ucraina",
+          "url": "https://open.spotify.com/artist/7dCm81ernkaCetMxzdV62i"
+        },
+        {
+          "name": "Silvano Frontalini",
+          "url": "https://open.spotify.com/artist/4hB6gspHUv7YlN9c6ViLhN"
+        }
+      ],
+      "duration_ms": 160533,
+      "name": "Tosca: \"Vissi d'arte\" - Instrumental Version",
+      "url": "https://open.spotify.com/track/1sLdtvscJQJU0m8lE3UgGv"
+    },
+    {
+      "added_at": "2022-06-29 13:02:37",
+      "album": {
+        "name": "EMMA. (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2QwIcZ1a1FuDUw8i0u1dGS"
+      },
+      "artists": [
+        {
+          "name": "The Chamber Orchestra Of London",
+          "url": "https://open.spotify.com/artist/2IS9rTtWwEfUEY4u3mecIT"
+        }
+      ],
+      "duration_ms": 129229,
+      "name": "Mr. Turner's Waltz",
+      "url": "https://open.spotify.com/track/1bV9N9F9QHilS9ZusAL6VM"
     },
     {
       "added_at": "2022-06-29 13:02:37",
@@ -631,34 +595,6 @@
       "duration_ms": 139706,
       "name": "You Would Be My Wife",
       "url": "https://open.spotify.com/track/0ZqHBAapHJM5cj6jxeKg3i"
-    },
-    {
-      "added_at": "2022-06-29 13:02:37",
-      "album": {
-        "name": "Hummel / Du Puy / Danzi / Weber: The Romantic Bassoon",
-        "url": "https://open.spotify.com/album/13N56hu1ywksI4Dae9yDnI"
-      },
-      "artists": [
-        {
-          "name": "Edouard Du Puy",
-          "url": "https://open.spotify.com/artist/4YSCbLTg7qXHjtIeW8YhV4"
-        },
-        {
-          "name": "Christian Davidsson",
-          "url": "https://open.spotify.com/artist/0UL3VyugD1PWfgrYZQ6LqZ"
-        },
-        {
-          "name": "Sundsvall Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/4YvXczozKiUsl0KTspMIA6"
-        },
-        {
-          "name": "Niklas Willen",
-          "url": "https://open.spotify.com/artist/3VVhInf9f2hRXZBIaPcYyY"
-        }
-      ],
-      "duration_ms": 335160,
-      "name": "Bassoon Quintet in A Minor: II. Andante sostenuto",
-      "url": "https://open.spotify.com/track/3uE83JeBkY95ZnnhxyZJsj"
     },
     {
       "added_at": "2022-06-29 13:02:37",

@@ -146,7 +146,7 @@
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 236293,
       "name": "ever after",
       "url": "https://open.spotify.com/track/0mkctINFN0327pYxp1CRhQ"
     },
@@ -334,7 +334,7 @@
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 345133,
       "name": "RE:I AM",
       "url": "https://open.spotify.com/track/4hps0PPTjr0C8gSGUq1Has"
     },
@@ -424,7 +424,7 @@
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 285826,
       "name": "STAND-ALONE",
       "url": "https://open.spotify.com/track/4adxfjDov8fxK1vXTVvGfU"
     },
@@ -442,7 +442,7 @@
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 328026,
       "name": "StarRingChild",
       "url": "https://open.spotify.com/track/3Xzb9D64WsKmYcV8AGMmeu"
     },
@@ -799,10 +799,28 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 232786,
       "name": "\u5730\u7403\u5100",
       "url": "https://open.spotify.com/track/6NffEVuGbmTvIpfSS93aMU"
+    },
+    {
+      "album": {
+        "name": "\u5b63\u8def",
+        "url": "https://open.spotify.com/album/6j0uUaKQdWOHV48kYA8fbA"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352265,
+      "name": "\u5b63\u8def",
+      "url": "https://open.spotify.com/track/2JFrbjQNJSBPeUz2Pn4ZaY"
     },
     {
       "album": {
@@ -854,7 +872,7 @@
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 305386,
       "name": "\u6625\u306f\u3086\u304f",
       "url": "https://open.spotify.com/track/2rizK3oastlZwyoYwrcLgC"
     },

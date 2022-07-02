@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-705 songs - 1 day 13 hr 14 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
+705 songs - 1 day 13 hr 17 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -589,7 +589,7 @@
 | [Skyene](https://open.spotify.com/track/58M1sRcgw5Q1dp8t1qGjuQ) | [Adrian Sellevoll](https://open.spotify.com/artist/7A3fefmffBi6jDv2MxMcz3), [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X) | [Skyene](https://open.spotify.com/album/4T7NxnBRcIGVJWCSXbgoZt) | 2:26 | 2021-09-19 | 2021-09-20 |
 | [SKÅL](https://open.spotify.com/track/7qhNaWtYZoJz1bH0aOqssy) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [SKÅL](https://open.spotify.com/album/5l6rviSjbfWaR8sKoSHoqe) | 2:10 | 2022-05-18 | 2022-05-20 |
 | [SloMo](https://open.spotify.com/track/3XREkzDHsWdBL5tybyCDBH) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [SloMo](https://open.spotify.com/album/0UMDRKVU0rz2nALo2bms9d) | 2:56 | 2022-05-16 | 2022-05-27 |
-| [Slå hjerte, slå](https://open.spotify.com/track/6qMf3eqbmToDXj7LixyK1w) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Bak en fasade](https://open.spotify.com/album/3d0h7wXfZmHtOpX6YlNXGg) | 0:29 | 2022-03-20 |  |
+| [Slå hjerte, slå](https://open.spotify.com/track/6qMf3eqbmToDXj7LixyK1w) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Bak en fasade](https://open.spotify.com/album/3d0h7wXfZmHtOpX6YlNXGg) | 3:17 | 2022-03-20 |  |
 | [Smil Pent](https://open.spotify.com/track/21M6OJQHFoXQDjMJlqGnAL) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [SMILE PENT, STÅ I RO](https://open.spotify.com/album/54GlTX0yhIc6trTbLWcOBV) | 3:11 | 2021-10-20 | 2022-03-06 |
 | [Smilet i ditt eget speil](https://open.spotify.com/track/2bSVFkcYAQwkGlGK7v1Ihl) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Smilet i ditt eget speil](https://open.spotify.com/album/4H0LGJypqseHZmiR1gU2d3) | 2:52 | 2021-03-27\* | 2022-03-21 |
 | [Smilet i ditt eget speil](https://open.spotify.com/track/6NSkEJkizMph9GJSqjNhFW) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Bak en fasade](https://open.spotify.com/album/3d0h7wXfZmHtOpX6YlNXGg) | 2:52 | 2022-03-20 | 2022-05-08 |

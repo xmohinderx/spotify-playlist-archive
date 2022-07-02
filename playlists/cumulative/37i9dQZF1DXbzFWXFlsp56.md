@@ -4,7 +4,7 @@
 
 > Descubre los nuevos talentos de Colombia, Ecuador, Venezuela y Perú\. Foto: Neoma.
 
-67 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/0El6d1cmmL8jOMAA1PJf0U)
+67 songs - 3 hr 52 min - [published](https://open.spotify.com/playlist/0El6d1cmmL8jOMAA1PJf0U)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,8 +56,8 @@
 | [Qué Fuerte!](https://open.spotify.com/track/622LoMYDvaNxAY0ana38OA) | [Micaela Salaverry](https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo) | [Qué Fuerte!](https://open.spotify.com/album/4IUPx8lwW7xBbXMkGFYsPf) | 3:35 | 2021-11-10 |  |
 | [Salto De Fe](https://open.spotify.com/track/1JlYmgtbYWX9RnnODCmESk) | [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf), [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m) | [Quarriors](https://open.spotify.com/album/22JTiWsvV2RUhk8LGm0xaW) | 3:53 | 2022-03-22 |  |
 | [Se metieron en mi casa](https://open.spotify.com/track/4aGrgj6OiWW2HXnJzcGQd6) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Se metieron en mi casa](https://open.spotify.com/album/230ShJkfGjkrKKu9Pqdft5) | 3:23 | 2022-03-22 | 2022-06-15 |
-| [si estuviésemos juntos](https://open.spotify.com/track/3fnZZvv0sNrr0AFB4qg1wI) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [EL ETERNO RETORNO](https://open.spotify.com/album/6vBjLUk61sV9Qy27RwVOHj) | 0:29 | 2021-11-10 |  |
-| [siento](https://open.spotify.com/track/7F9ZGygVeeBb30zC3u5xkt) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2), [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [EL ETERNO RETORNO](https://open.spotify.com/album/6vBjLUk61sV9Qy27RwVOHj) | 0:29 | 2022-03-22 |  |
+| [si estuviésemos juntos](https://open.spotify.com/track/3fnZZvv0sNrr0AFB4qg1wI) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [EL ETERNO RETORNO](https://open.spotify.com/album/6vBjLUk61sV9Qy27RwVOHj) | 3:50 | 2021-11-10 |  |
+| [siento](https://open.spotify.com/track/7F9ZGygVeeBb30zC3u5xkt) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2), [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [EL ETERNO RETORNO](https://open.spotify.com/album/6vBjLUk61sV9Qy27RwVOHj) | 3:19 | 2022-03-22 |  |
 | [Sin Maquillaje](https://open.spotify.com/track/6PsucEjVsPVm7MkgCVYdFR) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE) | [Sin Maquillaje](https://open.spotify.com/album/2OGdAssIxtcMOSFFygJMeE) | 2:48 | 2022-05-12 |  |
 | [SÉ \- Ep\. 4: Flores 4E](https://open.spotify.com/track/5HW70b0HU0cQk28s10ycX7) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj), [Paola Navarrete](https://open.spotify.com/artist/4mGcbF0028Z1ZyP8CZ6nbn) | [SÉ \- Ep\. 4: Flores 4E](https://open.spotify.com/album/7elTdPAcknRyyOgDzIifAj) | 4:23 | 2021-11-10 | 2022-04-09 |
 | [Tears at Bae](https://open.spotify.com/track/3WPFFAjIYYGnfRkjO29lqQ) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Tears at Bae](https://open.spotify.com/album/0nVGuICcGzCEm3A3psO84B) | 3:22 | 2022-03-22 | 2022-04-09 |

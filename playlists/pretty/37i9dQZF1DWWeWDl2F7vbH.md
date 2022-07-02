@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWeWDl2F7vbH.md) - [plain]
 
 > Celebrating the iconic tracks from the black queer club scene in 1980s and 1990s Chicago \- the defining era of house music\. Cover: Frankie Knuckles
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,296 likes - 55 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,364 likes - 55 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWeWDl2F7vbH.md) - [plain]
 | 16 | [Never No More Lonely](https://open.spotify.com/track/3vvFD7Vd5gANTraXckJeuu) | [Fingers Inc.](https://open.spotify.com/artist/7DbXdVqrretuCKPkTeX8Kk) | [Another Side](https://open.spotify.com/album/0h1OjjFTmWLJaRGLhOuNf7) | 5:30 |
 | 17 | [Free Yourself](https://open.spotify.com/track/5MEWg5QOPwn3FMLDxoP1Wd) | [Virgo](https://open.spotify.com/artist/2ByXYkrbs6o7fQGrn17gZt) | [Trax Records: Queer Trax](https://open.spotify.com/album/4KQBQoG77BGnzTiE8cYIaa) | 3:31 |
 | 18 | [Work The Box](https://open.spotify.com/track/6aP8letPTuSZ91CFlssH0h) | [Santos](https://open.spotify.com/artist/1fxl29ywXYE3iCZVJBolwt) | [Trax Records: Queer Trax](https://open.spotify.com/album/4KQBQoG77BGnzTiE8cYIaa) | 2:22 |
-| 19 | [Let The Music Take Control](https://open.spotify.com/track/2cQKELIwtNGxQw25SizKXp) | [Tyree](https://open.spotify.com/artist/0GLde9xobyOX0vNW3nY9pt) | [Jack'd Volume 1](https://open.spotify.com/album/3v0VLJ61hZHGXREAIJWc4j) | 0:29 |
+| 19 | [Let The Music Take Control](https://open.spotify.com/track/2cQKELIwtNGxQw25SizKXp) | [Tyree](https://open.spotify.com/artist/0GLde9xobyOX0vNW3nY9pt) | [Jack'd Volume 1](https://open.spotify.com/album/3v0VLJ61hZHGXREAIJWc4j) | 5:19 |
 | 20 | [Life Is Like A Circle](https://open.spotify.com/track/1UP4rDAPPP9MwyUCFGAbWA) | [Derrick Carter](https://open.spotify.com/artist/3XwBizyFmbCCUFcdcsvMmm), [Chris Nazuka](https://open.spotify.com/artist/3poidKVZ5SL4RXJG89pfhY) | [A Red Nail Relic](https://open.spotify.com/album/21E87HF32raN1KLWdEX5go) | 6:32 |
-| 21 | [Jack Your Body \- 1986 Club Mix](https://open.spotify.com/track/10QGhgqQm0I2Y9maxrM7T6) | [Steve "Silk" Hurley](https://open.spotify.com/artist/2TzZ6XTFG1p1PAfhl0crDP) | [Jack Your Body \(S&S Reloaded\)](https://open.spotify.com/album/3UAvNbsdCDrUKyhp8YGfJT) | 0:29 |
+| 21 | [Jack Your Body \- 1986 Club Mix](https://open.spotify.com/track/10QGhgqQm0I2Y9maxrM7T6) | [Steve "Silk" Hurley](https://open.spotify.com/artist/2TzZ6XTFG1p1PAfhl0crDP) | [Jack Your Body \(S&S Reloaded\)](https://open.spotify.com/album/3UAvNbsdCDrUKyhp8YGfJT) | 5:06 |
 | 22 | [I Feel The Rhythm](https://open.spotify.com/track/2JVzNkHarX3ceGbOB4aF6Q) | [Ron Trent](https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d) | [Primitive Arts](https://open.spotify.com/album/15sHxOZhSMHaTwhJhmNY2K) | 6:24 |
 | 23 | [I Can't Forget \- Club](https://open.spotify.com/track/4uekeVJKBNAZeV8d9srFDr) | [Mr\. Lee](https://open.spotify.com/artist/7GXl7JNlpliaLZhSVRLQKu) | [I Can't Forget](https://open.spotify.com/album/3zzi0L40kSaMvOOxUfylEd) | 5:41 |
 | 24 | [Funk U Up \- Original 12" Vocal](https://open.spotify.com/track/4np1ZSefZyjnML0fEfElBo) | [Jesse Saunders](https://open.spotify.com/artist/6ZYa9hYoOGVzvQa2vmiVhi) | [Funk U Up \(Those Pretty Girls\)](https://open.spotify.com/album/3zef0TNhCEtdSlJXH61LX3) | 5:30 |

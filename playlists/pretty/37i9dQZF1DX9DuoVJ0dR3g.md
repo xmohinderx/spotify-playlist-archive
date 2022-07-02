@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9DuoVJ0dR3g.md) - [plain]
 
 > Generation defining music, one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,929 likes - 51 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,945 likes - 51 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9DuoVJ0dR3g.md) - [plain]
 | 16 | [Suicidal Dream](https://open.spotify.com/track/3AZ5XoHdiFpiKMky6M1Gt9) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 3:12 |
 | 17 | [Slave](https://open.spotify.com/track/7yUGMbFsUH5MuPNuq75MyP) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 3:55 |
 | 18 | [Luv Your Life](https://open.spotify.com/track/6GzhMCwuST1x0z5hbN1IiG) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Diorama](https://open.spotify.com/album/6Bef401qUtLZTVGXByUycq) | 4:29 |
-| 19 | [Hollywood](https://open.spotify.com/track/5Coz936Nb9zD9MYTJQbsbe) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Without You](https://open.spotify.com/album/16JseuvRyx6cxLunIpQkpu) | 0:29 |
+| 19 | [Hollywood](https://open.spotify.com/track/5Coz936Nb9zD9MYTJQbsbe) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Without You](https://open.spotify.com/album/16JseuvRyx6cxLunIpQkpu) | 4:44 |
 | 20 | [Across the Night](https://open.spotify.com/track/1zcaoYzMsxtnJzwZ92iWeV) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Diorama](https://open.spotify.com/album/6Bef401qUtLZTVGXByUycq) | 5:37 |
 | 21 | [Paint Pastel Princess](https://open.spotify.com/track/50L4BKgP2HNyq37tbhqFqR) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Neon Ballroom](https://open.spotify.com/album/10bobqzP8mtragmflBolOM) | 4:33 |
 | 22 | [If You Keep Losing Sleep](https://open.spotify.com/track/1yt5aHFSy1ZlrkJenysdnx) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Young Modern](https://open.spotify.com/album/7aTpmoysIfl5vhgAOJ0mp5) | 3:21 |

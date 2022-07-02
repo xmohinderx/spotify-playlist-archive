@@ -4,12 +4,12 @@
 
 > 
 
-15 songs - 57 min 49 sec - [published](https://open.spotify.com/playlist/65S9bp7TxmytBq1iXhBqpP)
+15 songs - 1 hr 0 min - [published](https://open.spotify.com/playlist/65S9bp7TxmytBq1iXhBqpP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ascot](https://open.spotify.com/track/7k1201dEGp3VsiGwCUo2bR) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Original Album Classics](https://open.spotify.com/album/4LmJmpUFSDO2iz6pEXcDKO) | 1:52 | 2013-06-18 |  |
-| [Ascot Dream](https://open.spotify.com/track/7HWSFt4HdDc64EyhhW2mIc) | [Piero Piccioni](https://open.spotify.com/artist/2WPn0emjr8XPmMOT0bBcPe) | [Fumo Di Londra](https://open.spotify.com/album/4OSFYtiUeJmImSrhytWeoL) | 0:29 | 2013-06-18 |  |
+| [Ascot Dream](https://open.spotify.com/track/7HWSFt4HdDc64EyhhW2mIc) | [Piero Piccioni](https://open.spotify.com/artist/2WPn0emjr8XPmMOT0bBcPe) | [Fumo Di Londra](https://open.spotify.com/album/4OSFYtiUeJmImSrhytWeoL) | 3:20 | 2013-06-18 |  |
 | [Ascot Enclosure](https://open.spotify.com/track/2kPLUSlkTbNIm5s9GDCWAa) | [Peter Yorke](https://open.spotify.com/artist/356KdDxPATOYtRwDL6edO2) | [Retrospection Volume 1](https://open.spotify.com/album/0E12hVqS9ZDgs33SXEAmpT) | 3:01 | 2013-06-18 |  |
 | [Blue Hat for a Blue Day](https://open.spotify.com/track/6tmPGn3YaLKHSDin9XmrKZ) | [Nick Heyward](https://open.spotify.com/artist/2DmyIp3IBWUwRukba22G3n) | [Essential 80s \- Classic Eighties Pop And Rock Hits](https://open.spotify.com/album/61D7IT0EC6PaQ25e4HNXXu) | 4:00 | 2013-06-18 |  |
 | [Every Day is Ladies Day With Me \- Remastered Version](https://open.spotify.com/track/6ar1epBrGNFmdE4dK2jN9U) | [Victor Herbert](https://open.spotify.com/artist/4KKrqNQzDsogR5DCD9a9fv), [Henry Blossom](https://open.spotify.com/artist/1RlZCh7F1xRwZYZqUNCYna), [Wilbur Evans](https://open.spotify.com/artist/1u3JFfqe12MVXlhm8aTMuj), [Male Chorus](https://open.spotify.com/artist/50qo8RvRhI4EDfvCk04Tl0) | [Babes In Toyland/The Red Mill](https://open.spotify.com/album/6pgLxr9IM0drGAdJK6rxr2) | 3:04 | 2013-06-18 |  |

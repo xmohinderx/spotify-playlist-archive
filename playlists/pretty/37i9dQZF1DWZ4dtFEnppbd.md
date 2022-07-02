@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4dtFEnppbd.md) - [plain]
 
 > Sounds of spiritual comfort and cultural traditions of triumph.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,048 likes - 27 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,048 likes - 27 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4dtFEnppbd.md) - [plain]
 | 11 | [I Know I've Been Changed](https://open.spotify.com/track/4sfrZS1LHxbiesSpqDBRga) | [LaShun Pace](https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln) | [He Lives](https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH) | 4:36 |
 | 12 | [When Sunday Comes](https://open.spotify.com/track/1JIyzwxYKUktXe7tn4oqk9) | [Daryl Coley](https://open.spotify.com/artist/2k7eX9JBghoFsvRljRzi01) | [Compositions: A Decade Of Song](https://open.spotify.com/album/5EXmnESegPhactTtjsF8md) | 7:33 |
 | 13 | [Jesus Is Love](https://open.spotify.com/track/52i3VeUFbCRk3z8YgBFM7N) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [The Best Of Lionel Richie 20th Century Masters The Millennium Collection](https://open.spotify.com/album/6UaOmeGGHUSHyy3F4ngAwa) | 6:06 |
-| 14 | [Great Is Thy Faithfulness](https://open.spotify.com/track/26jEK23GYzHoLGIrZOyIDH) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Delores "Mom" Winans](https://open.spotify.com/artist/5UMZOxh7uusc8idFcHNe7T) | [Alone In His Presence](https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ) | 0:29 |
+| 14 | [Great Is Thy Faithfulness](https://open.spotify.com/track/26jEK23GYzHoLGIrZOyIDH) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Delores "Mom" Winans](https://open.spotify.com/artist/5UMZOxh7uusc8idFcHNe7T) | [Alone In His Presence](https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ) | 5:00 |
 | 15 | [Everything You Touch Is a Song](https://open.spotify.com/track/3ahBlS5O40OR0zqKVwvOcU) | [The Winans](https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8) | [Feel the Spirit](https://open.spotify.com/album/04l4rg5skAfyKkriPC7jm0) | 5:22 |
 | 16 | [Now Behold the Lamb](https://open.spotify.com/track/77aKjAafF8qar9i3d6F84P) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [The Family](https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp) | [Christmas](https://open.spotify.com/album/2LEbJTBi1Wi88sb3SWRxg4) | 6:58 |
 | 17 | [The Potter's House \- Live](https://open.spotify.com/track/2GLX6WynSRAirDye9AtKkw) | [Tramaine Hawkins](https://open.spotify.com/artist/3VrvtMPf98keYfWoBPx4OR) | [Tramaine Hawkins Live](https://open.spotify.com/album/0e7ByrzFOoMGqhPTQttAT4) | 6:35 |

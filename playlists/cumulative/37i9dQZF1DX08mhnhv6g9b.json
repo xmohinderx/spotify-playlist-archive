@@ -27,24 +27,6 @@
     {
       "album": {
         "name": "MAP OF THE SOUL : 7",
-        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "date_added": "2022-06-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 29048,
-      "name": "00:00 (Zero O\u2019Clock)",
-      "url": "https://open.spotify.com/track/6fqaMyg066xlukvUJWdM2T"
-    },
-    {
-      "album": {
-        "name": "MAP OF THE SOUL : 7",
         "url": "https://open.spotify.com/album/7HXqq0fokRpOKG0bQW4xnB"
       },
       "artists": [
@@ -59,6 +41,24 @@
       "duration_ms": 250295,
       "name": "00:00 (Zero O\u2019Clock)",
       "url": "https://open.spotify.com/track/2rk5DdEFF6wJ13Wrwm2sy6"
+    },
+    {
+      "album": {
+        "name": "MAP OF THE SOUL : 7",
+        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250295,
+      "name": "00:00 (Zero O\u2019Clock)",
+      "url": "https://open.spotify.com/track/6fqaMyg066xlukvUJWdM2T"
     },
     {
       "album": {
@@ -704,24 +704,6 @@
     },
     {
       "album": {
-        "name": "MAP OF THE SOUL : 7",
-        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "date_added": "2022-06-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 29048,
-      "name": "Black Swan",
-      "url": "https://open.spotify.com/track/2EmcTFQ1rM11wp2ztsXTHa"
-    },
-    {
-      "album": {
         "name": "Black Swan",
         "url": "https://open.spotify.com/album/4RR8ROIGix5CbCGlXHA53I"
       },
@@ -737,6 +719,24 @@
       "duration_ms": 198260,
       "name": "Black Swan",
       "url": "https://open.spotify.com/track/24NuEDgyRIljwSyY0lsr7b"
+    },
+    {
+      "album": {
+        "name": "MAP OF THE SOUL : 7",
+        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198260,
+      "name": "Black Swan",
+      "url": "https://open.spotify.com/track/2EmcTFQ1rM11wp2ztsXTHa"
     },
     {
       "album": {
@@ -968,28 +968,6 @@
     },
     {
       "album": {
-        "name": "MAP OF THE SOUL : 7",
-        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "date_added": "2022-06-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 29048,
-      "name": "Boy With Luv (Feat. Halsey)",
-      "url": "https://open.spotify.com/track/7lrqvdivAYRGEiO8JFP31G"
-    },
-    {
-      "album": {
         "name": "Proof",
         "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
       },
@@ -1053,6 +1031,28 @@
       "duration_ms": 229773,
       "name": "Boy With Luv (feat. Halsey)",
       "url": "https://open.spotify.com/track/5KawlOMHjWeUjQtnuRs22c"
+    },
+    {
+      "album": {
+        "name": "MAP OF THE SOUL : 7",
+        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229773,
+      "name": "Boy With Luv (Feat. Halsey)",
+      "url": "https://open.spotify.com/track/7lrqvdivAYRGEiO8JFP31G"
     },
     {
       "album": {
@@ -1970,24 +1970,6 @@
     },
     {
       "album": {
-        "name": "MAP OF THE SOUL : 7",
-        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "date_added": "2022-06-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 29048,
-      "name": "Dionysus",
-      "url": "https://open.spotify.com/track/5LvqzuJCNpi2pNkJAX8mBT"
-    },
-    {
-      "album": {
         "name": "MAP OF THE SOUL : PERSONA",
         "url": "https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6"
       },
@@ -2003,6 +1985,24 @@
       "duration_ms": 249215,
       "name": "Dionysus",
       "url": "https://open.spotify.com/track/2Wkm4JBcIV2uSuu4qlbqFN"
+    },
+    {
+      "album": {
+        "name": "MAP OF THE SOUL : 7",
+        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249215,
+      "name": "Dionysus",
+      "url": "https://open.spotify.com/track/5LvqzuJCNpi2pNkJAX8mBT"
     },
     {
       "album": {
@@ -2386,7 +2386,7 @@
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 197993,
       "name": "Dynamite - Acoustic Remix",
       "url": "https://open.spotify.com/track/083PvB3ID4h3jiGJ1GbbPA"
     },
@@ -2422,7 +2422,7 @@
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 198939,
       "name": "Dynamite - EDM Remix",
       "url": "https://open.spotify.com/track/0GIfKnZxlWAtX7P3b8PYyP"
     },
@@ -2476,7 +2476,7 @@
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 182591,
       "name": "Dynamite - Poolside Remix",
       "url": "https://open.spotify.com/track/087YUEkmOGciKOflc5sQE6"
     },
@@ -2530,7 +2530,7 @@
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 197101,
       "name": "Dynamite - Tropical Remix",
       "url": "https://open.spotify.com/track/3u4igxLGmXBu1eiQjawtoe"
     },
@@ -2829,24 +2829,6 @@
     {
       "album": {
         "name": "MAP OF THE SOUL : 7",
-        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "date_added": "2022-06-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 29048,
-      "name": "Filter",
-      "url": "https://open.spotify.com/track/4bZZVcgWWMWPBwzTTp642w"
-    },
-    {
-      "album": {
-        "name": "MAP OF THE SOUL : 7",
         "url": "https://open.spotify.com/album/6mJZTV8lCqnwftYZa94bXS"
       },
       "artists": [
@@ -2861,6 +2843,24 @@
       "duration_ms": 180220,
       "name": "Filter",
       "url": "https://open.spotify.com/track/0ono6UCNVZ1XqOm6j78Blu"
+    },
+    {
+      "album": {
+        "name": "MAP OF THE SOUL : 7",
+        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180220,
+      "name": "Filter",
+      "url": "https://open.spotify.com/track/4bZZVcgWWMWPBwzTTp642w"
     },
     {
       "album": {
@@ -3002,7 +3002,7 @@
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 199338,
       "name": "Friends",
       "url": "https://open.spotify.com/track/5RjUtRlDonw3TBgGGMLC5b"
     },
@@ -3674,7 +3674,7 @@
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 233265,
       "name": "Inner Child",
       "url": "https://open.spotify.com/track/25MHcbjvSdcfTiFgbKJiZF"
     },
@@ -3717,24 +3717,6 @@
     {
       "album": {
         "name": "MAP OF THE SOUL : 7",
-        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "date_added": "2022-06-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 29048,
-      "name": "Interlude : Shadow",
-      "url": "https://open.spotify.com/track/7om4LRoSct9hiMPo0fPn7m"
-    },
-    {
-      "album": {
-        "name": "MAP OF THE SOUL : 7",
         "url": "https://open.spotify.com/album/6mJZTV8lCqnwftYZa94bXS"
       },
       "artists": [
@@ -3749,6 +3731,24 @@
       "duration_ms": 259821,
       "name": "Interlude : Shadow",
       "url": "https://open.spotify.com/track/2Nib4r0saYQf2pUV4RFDhl"
+    },
+    {
+      "album": {
+        "name": "MAP OF THE SOUL : 7",
+        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259821,
+      "name": "Interlude : Shadow",
+      "url": "https://open.spotify.com/track/7om4LRoSct9hiMPo0fPn7m"
     },
     {
       "album": {
@@ -3789,24 +3789,6 @@
     {
       "album": {
         "name": "MAP OF THE SOUL : 7",
-        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "date_added": "2022-06-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 29048,
-      "name": "Intro : Persona",
-      "url": "https://open.spotify.com/track/7incJHhOl108CJBxylqc1z"
-    },
-    {
-      "album": {
-        "name": "MAP OF THE SOUL : 7",
         "url": "https://open.spotify.com/album/6mJZTV8lCqnwftYZa94bXS"
       },
       "artists": [
@@ -3839,6 +3821,24 @@
       "duration_ms": 171023,
       "name": "Intro : Persona",
       "url": "https://open.spotify.com/track/2GXWzWPsYlTZcvVW8JIu69"
+    },
+    {
+      "album": {
+        "name": "MAP OF THE SOUL : 7",
+        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171023,
+      "name": "Intro : Persona",
+      "url": "https://open.spotify.com/track/7incJHhOl108CJBxylqc1z"
     },
     {
       "album": {
@@ -4096,7 +4096,7 @@
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 227275,
       "name": "Jamais Vu",
       "url": "https://open.spotify.com/track/0PpNBEXkjalflGCMMsBV5B"
     },
@@ -4535,24 +4535,6 @@
     {
       "album": {
         "name": "MAP OF THE SOUL : 7",
-        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "date_added": "2022-06-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 29048,
-      "name": "Louder than bombs",
-      "url": "https://open.spotify.com/track/4Aw8n6r2vuU0KUo1a2nftp"
-    },
-    {
-      "album": {
-        "name": "MAP OF THE SOUL : 7",
         "url": "https://open.spotify.com/album/7HXqq0fokRpOKG0bQW4xnB"
       },
       "artists": [
@@ -4567,6 +4549,24 @@
       "duration_ms": 217404,
       "name": "Louder than bombs",
       "url": "https://open.spotify.com/track/15xT6IkTumRGbbSim0t11u"
+    },
+    {
+      "album": {
+        "name": "MAP OF THE SOUL : 7",
+        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217404,
+      "name": "Louder than bombs",
+      "url": "https://open.spotify.com/track/4Aw8n6r2vuU0KUo1a2nftp"
     },
     {
       "album": {
@@ -4726,7 +4726,7 @@
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 226321,
       "name": "Make It Right",
       "url": "https://open.spotify.com/track/30YLyzfEjMQsXj4ZFslAmT"
     },
@@ -4854,7 +4854,7 @@
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 246322,
       "name": "Make It Right (feat. Lauv) - EDM Remix",
       "url": "https://open.spotify.com/track/57PBRXsXl2rEAR85Gh4Qac"
     },
@@ -5056,24 +5056,6 @@
     },
     {
       "album": {
-        "name": "MAP OF THE SOUL : 7",
-        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "date_added": "2022-06-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 29048,
-      "name": "Moon",
-      "url": "https://open.spotify.com/track/6KhAXXgDtEEahVzATvFNcn"
-    },
-    {
-      "album": {
         "name": "Proof",
         "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
       },
@@ -5107,6 +5089,24 @@
       "duration_ms": 208589,
       "name": "Moon",
       "url": "https://open.spotify.com/track/1xfXXujIlLZAx5wpu46Nyk"
+    },
+    {
+      "album": {
+        "name": "MAP OF THE SOUL : 7",
+        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208589,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/6KhAXXgDtEEahVzATvFNcn"
     },
     {
       "album": {
@@ -5182,6 +5182,24 @@
     },
     {
       "album": {
+        "name": "MORE",
+        "url": "https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180022,
+      "name": "MORE",
+      "url": "https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2"
+    },
+    {
+      "album": {
         "name": "The Most Beautiful Moment in Life: Young Forever",
         "url": "https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09"
       },
@@ -5230,7 +5248,7 @@
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 234457,
       "name": "My Time",
       "url": "https://open.spotify.com/track/0YJFlxeHMUr9MxSDQVuQJA"
     },
@@ -5584,7 +5602,7 @@
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 246380,
       "name": "ON",
       "url": "https://open.spotify.com/track/0fZRNhPJ4AGmwY7rkpdbqK"
     },
@@ -5627,28 +5645,6 @@
     {
       "album": {
         "name": "MAP OF THE SOUL : 7",
-        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "date_added": "2022-06-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 29048,
-      "name": "ON (Feat. Sia)",
-      "url": "https://open.spotify.com/track/4JWbH50WabthGhmtduR8b9"
-    },
-    {
-      "album": {
-        "name": "MAP OF THE SOUL : 7",
         "url": "https://open.spotify.com/album/6mJZTV8lCqnwftYZa94bXS"
       },
       "artists": [
@@ -5677,12 +5673,34 @@
         {
           "name": "BTS",
           "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 246816,
+      "name": "ON (Feat. Sia)",
+      "url": "https://open.spotify.com/track/4JWbH50WabthGhmtduR8b9"
+    },
+    {
+      "album": {
+        "name": "MAP OF THE SOUL : 7",
+        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196198,
       "name": "Outro : Ego",
       "url": "https://open.spotify.com/track/2LVw2bIK99go1NdD77dUCW"
     },
@@ -6186,7 +6204,7 @@
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 237540,
       "name": "Respect",
       "url": "https://open.spotify.com/track/2yKBnKOmPXePrbHqRv42r4"
     },
@@ -7423,24 +7441,6 @@
     {
       "album": {
         "name": "MAP OF THE SOUL : 7",
-        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "date_added": "2022-06-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 29048,
-      "name": "UGH!",
-      "url": "https://open.spotify.com/track/2QZe2H1f03t5PJWEMg2Mbe"
-    },
-    {
-      "album": {
-        "name": "MAP OF THE SOUL : 7",
         "url": "https://open.spotify.com/album/6mJZTV8lCqnwftYZa94bXS"
       },
       "artists": [
@@ -7455,6 +7455,24 @@
       "duration_ms": 225012,
       "name": "UGH!",
       "url": "https://open.spotify.com/track/1aKuG1GG76xPLUkjBbQo3W"
+    },
+    {
+      "album": {
+        "name": "MAP OF THE SOUL : 7",
+        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225012,
+      "name": "UGH!",
+      "url": "https://open.spotify.com/track/2QZe2H1f03t5PJWEMg2Mbe"
     },
     {
       "album": {
@@ -7532,7 +7550,7 @@
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 261542,
       "name": "We are Bulletproof : the Eternal",
       "url": "https://open.spotify.com/track/133ocfbXXG4HTk76qgSeUb"
     },

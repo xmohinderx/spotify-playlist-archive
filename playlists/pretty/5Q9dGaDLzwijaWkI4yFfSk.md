@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/5Q9dGaDLzwijaWkI4yFfSk.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 23 likes - 45 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 23 likes - 45 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wings](https://open.spotify.com/track/0rf8whOpWQjuBqQwPbtLma) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC) | [Wings](https://open.spotify.com/album/2wiNiheGgmiI4irB7Zh7uJ) | 0:29 |
+| 1 | [Wings](https://open.spotify.com/track/0rf8whOpWQjuBqQwPbtLma) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC) | [Wings](https://open.spotify.com/album/2wiNiheGgmiI4irB7Zh7uJ) | 4:58 |
 | 2 | [Troll \- Original Mix](https://open.spotify.com/track/1NY8DKH5VnnBBmytMeJdTQ) | [Qulinez](https://open.spotify.com/artist/6d7AYr4nvqHPhfPaDLLeRU) | [Troll](https://open.spotify.com/album/6PYHg7xcz0M2bZEml9cRba) | 6:06 |
-| 3 | [Northern Lights](https://open.spotify.com/track/4OEmL49aDzQEnYm6WRneei) | [The Bots](https://open.spotify.com/artist/4BytPrwCFHaxTtfKxoaaxD) | [Ladies & Gentlemen](https://open.spotify.com/album/6wDSfnZJiHYNv5ahhnNVlN) | 0:29 |
+| 3 | [Northern Lights](https://open.spotify.com/track/4OEmL49aDzQEnYm6WRneei) | [The Bots](https://open.spotify.com/artist/4BytPrwCFHaxTtfKxoaaxD) | [Ladies & Gentlemen](https://open.spotify.com/album/6wDSfnZJiHYNv5ahhnNVlN) | 3:40 |
 | 4 | [Always on My Mind](https://open.spotify.com/track/07ABETRdek3ACMpRPvQuaT) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Discography \- Complete Singles Collection](https://open.spotify.com/album/0Jt2LzWgtGxy3GZH5i2Kcy) | 3:54 |
 | 5 | [It's a Sin](https://open.spotify.com/track/3GNwCZIv4xKUiyoaQfj9Ah) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Discography \- Complete Singles Collection](https://open.spotify.com/album/0Jt2LzWgtGxy3GZH5i2Kcy) | 5:01 |
 | 6 | [Enjoy the Silence \- 2006 \- Remaster](https://open.spotify.com/track/2oZGpVkUrvh7uDOgXwBliN) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Best Of Depeche Mode \- Volume One](https://open.spotify.com/album/6gHRLG5Gbjk3vwtgmadx1g) | 4:14 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/5Q9dGaDLzwijaWkI4yFfSk.md) - [plain]
 | 29 | [Jag kysste henne våldsamt](https://open.spotify.com/track/2tKQSwNSf0cpqUlCI5LiSB) | [Anders F\. Rönnblom](https://open.spotify.com/artist/6oR29GMMjXQ5aZCM8LwYB3) | [En popklassiker](https://open.spotify.com/album/3HBgLzQPDhJSd2LjqYKuop) | 3:30 |
 | 30 | [SaharA](https://open.spotify.com/track/7ibwGHlIr6SLNSWgyPbqbM) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [Visions](https://open.spotify.com/album/4Y6QBwYse2f1gVJcaiHGFA) | 4:31 |
 | 31 | [Now & Forever \(feat\. Christian Älvestam\)](https://open.spotify.com/track/51nTBmTFLkWyw2BkFy0YJZ) | [Henrik B](https://open.spotify.com/artist/1qM7ddO1J0S7eGGnuVmEXn) | [Now & Forever \(feat\. Christian Älvestam\) \- Single](https://open.spotify.com/album/2Hz0CQtlTZBPpETS3Dazbl) | 7:57 |
-| 32 | [Wings \- Radio Version](https://open.spotify.com/track/12h1t8Nnzgv6u5m7q4qbJq) | [Lunde Bros](https://open.spotify.com/artist/3vfze5i984lHvh9VHS4fTJ) | [Wings](https://open.spotify.com/album/7BZIkNumU3UwFvUXssTpBr) | 0:29 |
+| 32 | [Wings \- Radio Version](https://open.spotify.com/track/12h1t8Nnzgv6u5m7q4qbJq) | [Lunde Bros](https://open.spotify.com/artist/3vfze5i984lHvh9VHS4fTJ) | [Wings](https://open.spotify.com/album/7BZIkNumU3UwFvUXssTpBr) | 3:58 |
 | 33 | [Who's At The Door](https://open.spotify.com/track/3RhySASWf4Io3ivgL5g6te) | [Young Squage](https://open.spotify.com/artist/47NhkkzyXmVSUa2wXOmUbb) | [Who's At the Door](https://open.spotify.com/album/2ZCLiWOvWHzEQ1TBf2eoxR) | 4:05 |
 | 34 | [What's The Point](https://open.spotify.com/track/5wJ21Tafkdymm6LX9xTJuj) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Mavericks](https://open.spotify.com/album/1wuMWkIWPFmNRDHCiAxBPg) | 4:15 |
 | 35 | [Krossa alla fönster](https://open.spotify.com/track/4gBWeVgSetIJQcGohFNLeE) | [Maskinen](https://open.spotify.com/artist/6nDcZd5c9z3OS5hWvCsWBf) | [Framgång & Efterfrågan](https://open.spotify.com/album/3AI2WJtdsq9jMtThYjqR3K) | 3:32 |

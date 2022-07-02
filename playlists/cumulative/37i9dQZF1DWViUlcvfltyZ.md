@@ -4,7 +4,7 @@
 
 > Chitarre più o meno distorte \(e, in cover, Emma Nolde\)
 
-112 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/1ygHfNTT8YmP8RXH0ojm4P)
+112 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/1ygHfNTT8YmP8RXH0ojm4P)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Stare sveglio](https://open.spotify.com/track/1ERgcJITJ5bcd9eRWxnQMa) | [sonosem](https://open.spotify.com/artist/6krFvHoGuJyMjcjeFZRc0P) | [Da così lontano](https://open.spotify.com/album/77h73NDhSPBayfCsKrVs75) | 3:16 | 2022-05-09 | 2022-05-27 |
 | [Stati di agitazione](https://open.spotify.com/track/7bTraSxvK6F3beRP5vL17h) | [Blindur](https://open.spotify.com/artist/7LUvRhMok52Bi5G2gmQzGc), [Rodrigo D'Erasmo](https://open.spotify.com/artist/6eeTkJg6QLQ34VbYXdqpBX) | [Stati di agitazione](https://open.spotify.com/album/54BgILjJKbhtYkbpLN3Jiv) | 3:07 | 2022-06-23 |  |
 | [Still Got My Time](https://open.spotify.com/track/1niBgFt03sHUfrBrqmZbrw) | [Westfalia](https://open.spotify.com/artist/1xMsdujnDYoi3k6C26k3Uh) | [We're Not Just Good at Playing](https://open.spotify.com/album/4FoyUZkBrkRdHxnAvuH0T8) | 3:16 | 2022-05-09 | 2022-06-24 |
-| [Strappati Lungo i Bordi](https://open.spotify.com/track/1tmxGSXmeKk5NjZh3hIG7v) | [Giancane](https://open.spotify.com/artist/5SHRnc9Tl14jqVV0CTr49B) | [Strappati Lungo i Bordi \(Music from the Original TV Series “Strappare lungo i bordi”\)](https://open.spotify.com/album/18jzdWKRrSxdgDr9IRe0RM) | 0:29 | 2022-05-09 |  |
+| [Strappati Lungo i Bordi](https://open.spotify.com/track/1tmxGSXmeKk5NjZh3hIG7v) | [Giancane](https://open.spotify.com/artist/5SHRnc9Tl14jqVV0CTr49B) | [Strappati Lungo i Bordi \(Music from the Original TV Series “Strappare lungo i bordi”\)](https://open.spotify.com/album/18jzdWKRrSxdgDr9IRe0RM) | 3:19 | 2022-05-09 |  |
 | [Sunflower](https://open.spotify.com/track/6jDTTi7Ebqzf2d67Rfoqph) | [Piqued Jacks](https://open.spotify.com/artist/5eprmPyM92CrWnnE1P840z) | [Sunflower](https://open.spotify.com/album/7rDVuv58Z6ZfUEOMvBD6Eb) | 3:11 | 2022-06-09 | 2022-07-01 |
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-05-12 |  |
 | [The Light Shedder](https://open.spotify.com/track/68qqIsRN1CXGr2OC0fZWwc) | [Laeds](https://open.spotify.com/artist/0hqZLWRcPUaQ6chCgYYi7g) | [The Light Shedder](https://open.spotify.com/album/0NQGhIUUHSi7EYUq9pue06) | 6:33 | 2022-06-09 |  |

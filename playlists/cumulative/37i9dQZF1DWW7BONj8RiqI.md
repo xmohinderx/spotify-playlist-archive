@@ -4,21 +4,21 @@
 
 > The BIGGEST tracks in Soca from all the islands, presented by Patrice Roberts.
 
-90 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/3Z8zm9B7hkX1o3xTsJ8Z1Z)
+90 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/3Z8zm9B7hkX1o3xTsJ8Z1Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Outta 10](https://open.spotify.com/track/7pLekRLFessQEXoPhw5jB3) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [10 Outta 10](https://open.spotify.com/album/1Ekae0nx8S2LySjBnMb1hq) | 2:20 | 2022-02-24 |  |
 | [All I Need](https://open.spotify.com/track/6F721B9BrRiEiSTyK554rZ) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA) | [All I Need](https://open.spotify.com/album/5tJt1IXP2O1bI3IOwCFgBy) | 2:57 | 2022-02-26 |  |
 | [Ammunition](https://open.spotify.com/track/2UFDkkQAVpCmDS0YW33pdi) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY), [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [VENT DELUXE](https://open.spotify.com/album/7MyHCz9ZMfRlIpfs4ov6Cq) | 4:15 | 2022-02-24 |  |
-| [Bacchanalist](https://open.spotify.com/track/5HgYDywJjr19X20XDHr1qQ) | [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA), [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA) | [Antilles Riddim \(Soca 2012 Trinidad and Tobago Carnival\)](https://open.spotify.com/album/6UZiTsFyDpUdq4Feei6wF7) | 0:29 | 2021-08-26 |  |
+| [Bacchanalist](https://open.spotify.com/track/5HgYDywJjr19X20XDHr1qQ) | [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA), [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA) | [Antilles Riddim \(Soca 2012 Trinidad and Tobago Carnival\)](https://open.spotify.com/album/6UZiTsFyDpUdq4Feei6wF7) | 3:18 | 2021-08-26 |  |
 | [Bad Chargie](https://open.spotify.com/track/1n1IsZ2qpSG13H2HdKEl8o) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Viking Ding Dong](https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK) | [Bad Chargie](https://open.spotify.com/album/78VuycOHtyffAFMjIxDkP6) | 2:20 | 2022-02-24 |  |
 | [Baddie](https://open.spotify.com/track/4tlgccJjMDLc29R9qhkKdz) | [Faith Callender](https://open.spotify.com/artist/5p6XUkurST6rtnoYETb57o) | [Baddie](https://open.spotify.com/album/4zuzXBcdQc98Ftd1RC6dnL) | 3:02 | 2022-02-24 |  |
 | [Band Parade](https://open.spotify.com/track/5SlZRyJO2SgRrRwLz48NmD) | [Skinny Banton](https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6) | [Band Parade](https://open.spotify.com/album/6jXr4E3rxL6gXXfophsJH1) | 4:10 | 2022-02-26 |  |
 | [Bend Over](https://open.spotify.com/track/4vZoDdx3UqLPCy1qb90BTp) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [The Return](https://open.spotify.com/album/4T4qIeRhgBXcGoY5Sc18oq) | 3:26 | 2021-08-26 | 2022-02-25 |
 | [Blinkin Bad](https://open.spotify.com/track/5os0fpMF0zgXbwKG8HYPew) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x) | [Gas Station Riddim](https://open.spotify.com/album/4hBtvACfUm2HTY9SkLGTBY) | 3:08 | 2022-02-24 |  |
 | [Boss Lady \(Sign Me Up\)](https://open.spotify.com/track/6PR1VSJ3fAnZpRrgIAYgXJ) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Baila Riddim](https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS) | 2:13 | 2021-08-26 | 2022-02-25 |
-| [Brass](https://open.spotify.com/track/0m3MH6inL2emHj0KtFcLyU) | [Preedy](https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn), [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Brass](https://open.spotify.com/album/4AuHzwI04u2KmaUMZb6eHK) | 0:29 | 2022-02-24 |  |
+| [Brass](https://open.spotify.com/track/0m3MH6inL2emHj0KtFcLyU) | [Preedy](https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn), [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Brass](https://open.spotify.com/album/4AuHzwI04u2KmaUMZb6eHK) | 3:25 | 2022-02-24 |  |
 | [Carnival](https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [The Xtatik Circus](https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I) | 3:47 | 2021-08-26 | 2022-02-25 |
 | [Carnival Tabanca](https://open.spotify.com/track/7hkxLRJsB7aratKW1FvtcX) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Differentology](https://open.spotify.com/album/3KU878aDWMso8fbh7JCI1a) | 3:47 | 2021-08-26 | 2022-02-25 |
 | [Carry On](https://open.spotify.com/track/4trbSqUbXaoBoAPLKu2Ydb) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Pop's Guitar Riddim](https://open.spotify.com/album/4wQOygGteHTa1gxraUG5zg) | 3:57 | 2021-08-26 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Caamp",
+  "description": "A laid-back trip in the folk scene. Cover: Ten Kills the Pack",
   "name": "Folk & Friends",
   "published_playlist_ids": [
     "5U0EeaLNxWf1VoBuo6txNc"
@@ -135,6 +135,42 @@
       "duration_ms": 193654,
       "name": "Armour",
       "url": "https://open.spotify.com/track/4Oo5MkhMfWTSjh58tZB898"
+    },
+    {
+      "album": {
+        "name": "Baby, You Know",
+        "url": "https://open.spotify.com/album/330iEZ1HuQ1ghRg53B0xog"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182655,
+      "name": "Baby, You Know",
+      "url": "https://open.spotify.com/track/4t5wDXWX3BwwgkqzdYieH3"
+    },
+    {
+      "album": {
+        "name": "Bandages",
+        "url": "https://open.spotify.com/album/7qUzSfHicu7sV7EIflvMtR"
+      },
+      "artists": [
+        {
+          "name": "Rachel Bobbitt",
+          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174840,
+      "name": "Bandages",
+      "url": "https://open.spotify.com/track/32z65nCDfiHwd7Ly1AyN2t"
     },
     {
       "album": {
@@ -590,7 +626,7 @@
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 213293,
       "name": "Every Shade of Blue",
       "url": "https://open.spotify.com/track/1cKWyEiGWLXAUTz6jI1d7c"
     },
@@ -882,6 +918,24 @@
     },
     {
       "album": {
+        "name": "iknowiknow",
+        "url": "https://open.spotify.com/album/1YvMLexPYivqu5NqAffK4n"
+      },
+      "artists": [
+        {
+          "name": "PACKS",
+          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130705,
+      "name": "iknowiknow",
+      "url": "https://open.spotify.com/track/2eawTHlYcv1LilpGnV3VOe"
+    },
+    {
+      "album": {
         "name": "In 40 Years",
         "url": "https://open.spotify.com/album/5WOd2d1WlsHFywLl927fRz"
       },
@@ -1066,6 +1120,24 @@
     },
     {
       "album": {
+        "name": "Lost In The Water",
+        "url": "https://open.spotify.com/album/5nG0Wogo87eozwXnKHjXJ4"
+      },
+      "artists": [
+        {
+          "name": "Adam Wendler",
+          "url": "https://open.spotify.com/artist/3ea4XDPCrAm68rpImApb94"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Lost In The Water",
+      "url": "https://open.spotify.com/track/3sW1rJ2twqyUKXu5iHqgGK"
+    },
+    {
+      "album": {
         "name": "Glossolalia",
         "url": "https://open.spotify.com/album/66hCqmyDrUMjZrooeuG1PM"
       },
@@ -1203,7 +1275,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 194985,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/3R7HVKI87LEglZelj5qLxI"
@@ -1354,6 +1426,24 @@
     },
     {
       "album": {
+        "name": "Paper Moth Flame",
+        "url": "https://open.spotify.com/album/0RnFXtW6Xaz4S6AQSdmdaZ"
+      },
+      "artists": [
+        {
+          "name": "Elissa Mielke",
+          "url": "https://open.spotify.com/artist/0pu3ESGhCGupolNCwxDCOw"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210261,
+      "name": "Paper Moth Flame",
+      "url": "https://open.spotify.com/track/7Hi5HKcidYR1EdqIKLnVq1"
+    },
+    {
+      "album": {
         "name": "Part of Me",
         "url": "https://open.spotify.com/album/67U9k8R3snre8EAnLbt7o0"
       },
@@ -1369,6 +1459,28 @@
       "duration_ms": 223786,
       "name": "Part of Me",
       "url": "https://open.spotify.com/track/2Ru68Iv4ZT40sjxPB2XuSb"
+    },
+    {
+      "album": {
+        "name": "home",
+        "url": "https://open.spotify.com/album/5R8j37bgQQzpvP1aaURZ4u"
+      },
+      "artists": [
+        {
+          "name": "Wander All Winter.",
+          "url": "https://open.spotify.com/artist/0s6YDxpGpZ3UltZhGEYEJm"
+        },
+        {
+          "name": "Alexa Cirri",
+          "url": "https://open.spotify.com/artist/0jitaHotzcSiJNkm4amOOr"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230477,
+      "name": "people like me",
+      "url": "https://open.spotify.com/track/1UMchpMJZ3ZAQhJCsLnF3Q"
     },
     {
       "album": {
@@ -1405,6 +1517,24 @@
       "duration_ms": 282440,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/2fq4SiCvhv8NrLnxeNa8l9"
+    },
+    {
+      "album": {
+        "name": "Pictures",
+        "url": "https://open.spotify.com/album/18CLAx0OMzkMDXpd3osLod"
+      },
+      "artists": [
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196499,
+      "name": "Pictures",
+      "url": "https://open.spotify.com/track/7cvElcxrvUMyYi5LS5rF5o"
     },
     {
       "album": {
@@ -1785,6 +1915,24 @@
       "duration_ms": 165110,
       "name": "Steady Hands",
       "url": "https://open.spotify.com/track/2xh0XApnMqcRdTeDhTnNIb"
+    },
+    {
+      "album": {
+        "name": "Still Up Late",
+        "url": "https://open.spotify.com/album/00OJ79Opv0VIdznPhueG6R"
+      },
+      "artists": [
+        {
+          "name": "Ten Kills the Pack",
+          "url": "https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171707,
+      "name": "Still Up Late",
+      "url": "https://open.spotify.com/track/6UKwfhGhfYwHYRixMuHobY"
     },
     {
       "album": {

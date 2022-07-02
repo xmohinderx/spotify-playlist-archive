@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAdqTQgzvYM.md) - [plain]
 
 > Because everyone else is already taken!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,432 likes - 88 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,439 likes - 88 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAdqTQgzvYM.md) - [plain]
 | 19 | [Marvelous Me](https://open.spotify.com/track/4JHaXSiuALVZYJUnNv4xvS) | [Rise Up, Sing Out \- Cast](https://open.spotify.com/artist/5kOWaYDn4KXG6HntLwTGEx), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Rise Up, Sing Out](https://open.spotify.com/album/0wqVMWhboaCzHYYm2sJG5U) | 1:30 |
 | 20 | [Dark Skin Boy](https://open.spotify.com/track/6Xp1m82UqUsaIpSl3YUXhJ) | [Super Siah](https://open.spotify.com/artist/36s30oXmxBFCjVoJLiOY9P) | [Dark Skin Boy](https://open.spotify.com/album/06pPkVzfy4O3t153okMQs7) | 1:48 |
 | 21 | [It's Cool to Be Different](https://open.spotify.com/track/3jhpViY77j75H3wKuZ8n6b) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap 2](https://open.spotify.com/album/7ndGSRyfpUFnBtD1sFXQ4j) | 2:10 |
-| 22 | [The Man](https://open.spotify.com/track/4e6ZN0EcEqYx74BTC5xQzy) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Lift Your Spirit](https://open.spotify.com/album/5fTxUo4VVLBlU9nVGXiHEF) | 0:29 |
+| 22 | [The Man](https://open.spotify.com/track/4e6ZN0EcEqYx74BTC5xQzy) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Lift Your Spirit](https://open.spotify.com/album/5fTxUo4VVLBlU9nVGXiHEF) | 4:15 |
 | 23 | [Independent Women, Pt\. 1](https://open.spotify.com/track/5EDUIiDf1Sp6nVnmCMRxa2) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) | 3:41 |
 | 24 | [Resilient](https://open.spotify.com/track/3By64Pmpn0LkwPKSjqSTBp) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:07 |
 | 25 | [Wings](https://open.spotify.com/track/4awRNvd5iC7QGVQOwSCffw) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [DNA \(Deluxe\)](https://open.spotify.com/album/2WRIExN0uRt1buVuJj7iUD) | 3:39 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAdqTQgzvYM.md) - [plain]
 | 29 | [Nah Nah Nah](https://open.spotify.com/track/3qL331Jhf5RO4j0T3DqWun) | [Haschak Sisters](https://open.spotify.com/artist/65bfJSe4WLgPfyEo9Pqelp) | [Nah Nah Nah](https://open.spotify.com/album/4IRJpqzRb4OR8PpBeEcgws) | 2:56 |
 | 30 | [Everybody's Welcome](https://open.spotify.com/track/1TBA44ZYMUyzxuDEfGG2UN) | [The Quokkas](https://open.spotify.com/artist/41y8Sg5SccQXAn7JpkQDIg) | [Everybody's Welcome](https://open.spotify.com/album/1BNc82IhmE9jwYWdp4R9fe) | 2:18 |
 | 31 | [Proud Of My Hair](https://open.spotify.com/track/32Mar6wKUVHa886N2iwcG0) | [Karma's World](https://open.spotify.com/artist/2d9kWGh7cYV72fwJkePAVS) | [Karma’s World](https://open.spotify.com/album/2WtR8Ymlpgvx3DXnZIrcAA) | 2:10 |
-| 32 | [Like Nobody Else](https://open.spotify.com/track/7Dyvh9iPegx9fy94brVfdz) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn), [Tha Vill](https://open.spotify.com/artist/6NJ76YwhayxlWaCVMEzWIP) | [Big Heart Beats: Like Nobody Else](https://open.spotify.com/album/2GNSfXk2BurMZgd201FYI1) | 0:29 |
+| 32 | [Like Nobody Else](https://open.spotify.com/track/7Dyvh9iPegx9fy94brVfdz) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn), [Tha Vill](https://open.spotify.com/artist/6NJ76YwhayxlWaCVMEzWIP) | [Big Heart Beats: Like Nobody Else](https://open.spotify.com/album/2GNSfXk2BurMZgd201FYI1) | 1:40 |
 | 33 | [Nobody Can Change Me!](https://open.spotify.com/track/1o7715nSyvmepjU6Q2LU1s) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [The J Team \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/784cFhESN44WTceqtXcPLN) | 3:37 |
 | 34 | [Be Myself](https://open.spotify.com/track/6jVlick94ZyVWEZMijkVAF) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Okay to Be Different](https://open.spotify.com/album/79hcqBz6rqKuv1aMCJfx23) | 2:45 |
 | 35 | [Just Gotta Be You \(feat\. Bob\)](https://open.spotify.com/track/4XZLWhFiv9gOomdxVsAIDN) | [Pete the Cat](https://open.spotify.com/artist/1KbfmqDS5wguok1IaKV9kg), [Bob](https://open.spotify.com/artist/2vBJ4hpLhhrIGEBvMHZCp3) | [Pete The Cat \(Expanded Version\)](https://open.spotify.com/album/3q9koO8kP01VWel8LYjd37) | 3:15 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAdqTQgzvYM.md) - [plain]
 | 47 | [Daisies](https://open.spotify.com/track/4uqh9bualXNHXXwO2wPorc) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Daisies](https://open.spotify.com/album/2m5J1DUH7hJpPSOromIqpN) | 2:53 |
 | 48 | [Girl Can't Be Herself](https://open.spotify.com/track/3ztWLUKTd7WnrZZc1nZHo6) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/66RQAPD5x5nQgQzOa0X3sz) | 2:39 |
 | 49 | [I Can Be Anything](https://open.spotify.com/track/4giRqZsdTq0aiI3vnzePZC) | [Divinity Roxx](https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI) | [I Can Be Anything](https://open.spotify.com/album/1nPzCQseyxa69KJVMl0sIE) | 4:37 |
-| 50 | [My Crown](https://open.spotify.com/track/4KH1A0T82cTt0nFd2uzC3v) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw), [Uncle Jumbo](https://open.spotify.com/artist/7aV5KB8LdwHDrpgVb3GfAI) | [Family Tree](https://open.spotify.com/album/2ipWREGW50eHJTjXVVWiCj) | 0:29 |
+| 50 | [My Crown](https://open.spotify.com/track/4KH1A0T82cTt0nFd2uzC3v) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw), [Uncle Jumbo](https://open.spotify.com/artist/7aV5KB8LdwHDrpgVb3GfAI) | [Family Tree](https://open.spotify.com/album/2ipWREGW50eHJTjXVVWiCj) | 2:44 |
 | 51 | [Smart](https://open.spotify.com/track/4ADVfhoTylxrCM8tQRLGXI) | [Madison](https://open.spotify.com/artist/02n1FZN9wmHROIziGS5JXa) | [Smart](https://open.spotify.com/album/4nZKR9JU7hUkKm7LrnrFJr) | 3:15 |
 | 52 | [Photoshop](https://open.spotify.com/track/2TzDvcvICUWLDzio9LHMOo) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Leanna Crawford \- EP](https://open.spotify.com/album/1JMEL72dcpvDYEHB0wlUSu) | 3:26 |
 | 53 | [Dare to Be Me](https://open.spotify.com/track/2YzDcXvqiREtH6lHlguUAO) | [Kaci Bolls](https://open.spotify.com/artist/1YKEhQzwfMQklnViW6QpX9), [The Happy Racers](https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt) | [Dare to Be Me](https://open.spotify.com/album/7FqMUPXFtcQN01EdnnaSA1) | 2:25 |

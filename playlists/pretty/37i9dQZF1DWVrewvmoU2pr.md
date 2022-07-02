@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrewvmoU2pr.md) - [plain]
 
 > 由抑壓到釋放，由自憐到自信，尋覓真愛同時又不忘調情色誘，從藍奕邦近20年創作的字裡行間，找到異類們成為大器之路上所流出的血與汗。
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,731 likes - 25 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,731 likes - 25 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrewvmoU2pr.md) - [plain]
 | 21 | [Come With Me](https://open.spotify.com/track/35MCt0BeMs2pWtYNhMR92l) | [Kary Ng](https://open.spotify.com/artist/3B9ZmIcte26paTCaI1PFKE), [AF](https://open.spotify.com/artist/6CygVJXs3ziiuKWNA4TkF9) | [Come With Me](https://open.spotify.com/album/7GboJALajHDdhgqetBTZRU) | 3:14 |
 | 22 | [藍田金婚](https://open.spotify.com/track/0xeWZtBCK8fuf7Xp4KoRFI) | [Pong Nan](https://open.spotify.com/artist/6G7bdG4rBz6OQgKudNjoGL) | [撫愛](https://open.spotify.com/album/4u7KOwUYFykiVaEOIZJObH) | 4:24 |
 | 23 | [共勉之](https://open.spotify.com/track/28SGHjFqN0dLbXO00FxIR8) | [Ella Koon](https://open.spotify.com/artist/3iwCTx6CrptnO8AuGlmbVU) | [共勉之](https://open.spotify.com/album/1xVkzZsxmbXBBv1Dqvbe32) | 3:14 |
-| 24 | [你明日回來](https://open.spotify.com/track/4kwInhDFXmyi37NZTE4vat) | [Terence Siufay](https://open.spotify.com/artist/3AemIC066y8n3TetXWkVoE) | [你明日回來](https://open.spotify.com/album/2o1dSDA7Um9YGUcF8Z9iI9) | 0:29 |
+| 24 | [你明日回來](https://open.spotify.com/track/4kwInhDFXmyi37NZTE4vat) | [Terence Siufay](https://open.spotify.com/artist/3AemIC066y8n3TetXWkVoE) | [你明日回來](https://open.spotify.com/album/2o1dSDA7Um9YGUcF8Z9iI9) | 5:15 |
 | 25 | [女神](https://open.spotify.com/track/47MN8iVKji2TUL2DOnXpgJ) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [JOYCE](https://open.spotify.com/album/02Brb1tEIxIPc7t5DwX4xv) | 4:16 |
 
 Snapshot ID: `MTY1NjA1MDgxNCwwMDAwMDAxNjAwMDAwMTgxOTQ1MjBkZjkwMDAwMDE4MThhYzgyNThj`

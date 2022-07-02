@@ -4,7 +4,7 @@
 
 > The quiet Beatle\. Listen to all his essential tracks.
 
-50 songs - 3 hr 11 min - [published](https://open.spotify.com/playlist/7dDRiy335B5YClsB9QvI3a)
+50 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/7dDRiy335B5YClsB9QvI3a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Blow Away \- Remastered 2004](https://open.spotify.com/track/67F9MFQj4YZG2i0V0HCMUs) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [George Harrison](https://open.spotify.com/album/5LEZHIvSR7NRc9J4ojDUwU) | 4:00 | 2021-06-11 |  |
 | [Brainwashed](https://open.spotify.com/track/1vxKboEoCzJXJW8CsSTArA) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Brainwashed](https://open.spotify.com/album/2VFLjY1S0D8nKml6nlU2MD) | 6:07 | 2021-06-11 |  |
 | [Can't Stop Thinking About You](https://open.spotify.com/track/1ewoOusucZ6KHYkfjVxCW1) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Extra Texture \(Remastered\)](https://open.spotify.com/album/3ZmAgqz6EzC4Zrxc8FQAhf) | 4:32 | 2021-06-11 |  |
-| [Cheer Down \- 2009 Mix](https://open.spotify.com/track/35sKi1iEOS6xCq1NHzgZJE) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Let It Roll \- Songs Of George Harrison](https://open.spotify.com/album/3AMq1D2XLJSADpdYTAtKoL) | 0:29 | 2021-06-11 |  |
+| [Cheer Down \- 2009 Mix](https://open.spotify.com/track/35sKi1iEOS6xCq1NHzgZJE) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Let It Roll \- Songs Of George Harrison](https://open.spotify.com/album/3AMq1D2XLJSADpdYTAtKoL) | 4:06 | 2021-06-11 |  |
 | [Cloud Nine \- Remastered 2004](https://open.spotify.com/track/6bNFmr8aQ9guGerSLqf0Ct) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/1nbq8GgaVdINI3PulXvPUq) | 3:16 | 2021-06-11 |  |
 | [Cosmic Empire \- Day 2 Demo / Take 1](https://open.spotify.com/track/3dbhRlMVh3tiz1NdBbMlTp) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cosmic Empire/Run Of The Mill](https://open.spotify.com/album/47LKl381PkVTCkM3GD6U6w) | 2:09 | 2021-07-08 |  |
 | [Crackerbox Palace \- Remastered 2004](https://open.spotify.com/track/3bygXv7MxNgL7zJFq7Cg9W) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Thirty Three & 1/3](https://open.spotify.com/album/7y9Fefugnr5b8fHHt9eE7X) | 3:58 | 2021-06-11 |  |
@@ -54,7 +54,7 @@
 | [Wake Up My Love \- Remastered 2004](https://open.spotify.com/track/3dRafF3mJEGCxVaONlh4h2) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Gone Troppo](https://open.spotify.com/album/6hqxSTZauLStrt5lThvY2r) | 3:36 | 2021-06-11 |  |
 | [What Is Life](https://open.spotify.com/track/7be7aHPLjs3qkKmxR18jeY) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered\)](https://open.spotify.com/album/7I2wUjVsMFGVaJvchEzXSP) | 4:24 | 2021-06-11 |  |
 | [When We Was Fab \- Remastered 2004](https://open.spotify.com/track/6fAADiK2jnjdm5QRI7hSYc) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/1nbq8GgaVdINI3PulXvPUq) | 3:59 | 2021-06-11 |  |
-| [While My Guitar Gently Weeps \- Live From Madison Square Garden, New York, U.S.A, 1971 / 2009 Mix](https://open.spotify.com/track/1sW8AxMW4vuoV5LCDZj7r7) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Let It Roll \- Songs Of George Harrison](https://open.spotify.com/album/3AMq1D2XLJSADpdYTAtKoL) | 0:29 | 2021-06-11 |  |
+| [While My Guitar Gently Weeps \- Live From Madison Square Garden, New York, U.S.A, 1971 / 2009 Mix](https://open.spotify.com/track/1sW8AxMW4vuoV5LCDZj7r7) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Let It Roll \- Songs Of George Harrison](https://open.spotify.com/album/3AMq1D2XLJSADpdYTAtKoL) | 4:46 | 2021-06-11 |  |
 | [While My Guitar Gently Weeps \- Remastered 2009](https://open.spotify.com/track/389QX9Q1eUOEZ19vtzzI9O) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 4:45 | 2021-06-11 |  |
 | [Within You Without You \- Remastered 2009](https://open.spotify.com/track/3Umg8CDhO8dOSj7yBTInYb) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Remastered\)](https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW) | 5:04 | 2021-06-11 |  |
 | [You](https://open.spotify.com/track/1WGK9GqetBJp4Cg6TlVluD) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Extra Texture \(Remastered\)](https://open.spotify.com/album/3ZmAgqz6EzC4Zrxc8FQAhf) | 3:43 | 2021-06-11 |  |

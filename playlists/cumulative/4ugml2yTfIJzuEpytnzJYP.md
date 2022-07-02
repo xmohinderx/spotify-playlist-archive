@@ -4,7 +4,7 @@
 
 > Lovingly updated every week\.  Make sure to click the heart 💓 to follow the playlist
 
-113 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/56aybtrwt3JyZMLBFDdbFd)
+113 songs - 6 hr 58 min - [published](https://open.spotify.com/playlist/56aybtrwt3JyZMLBFDdbFd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Chase The Vibe](https://open.spotify.com/track/3vH0K3jfGarjDwAwFioG9x) | [Defunk](https://open.spotify.com/artist/79OsU8JudFdMQxQTnyOJcF) | [Chase The Vibe](https://open.spotify.com/album/0oN7CkEjR8eEDm90Hpu4O1) | 3:07 | 2021-10-18 | 2022-02-28 |
 | [Color Of Your Soul](https://open.spotify.com/track/71LZ7lwCisTG3H9UXKraTe) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [Color Of Your Soul](https://open.spotify.com/album/0WKsuKxJZYxAf0sUeNCUZd) | 3:22 | 2022-02-11 | 2022-04-13 |
 | [Compass](https://open.spotify.com/track/61u2a1VcmmUoI9jOHdSWN5) | [DMVU](https://open.spotify.com/artist/59DcOmdlmKUgsUrb2S7Nb6) | [Tools For Those Who've Lost Their Way](https://open.spotify.com/album/7N3wsrHIFKe3J8BqHdVU2H) | 3:22 | 2022-04-15 |  |
-| [Cosmos](https://open.spotify.com/track/34KsxA9KlUo7DqENzW9l2Y) | [Teffa](https://open.spotify.com/artist/3w8EiOMwnAuuWfPmX5kRqb) | [Cosmos](https://open.spotify.com/album/0KgmLt015HgyQQmHR2WlxI) | 0:29 | 2022-04-26 |  |
+| [Cosmos](https://open.spotify.com/track/34KsxA9KlUo7DqENzW9l2Y) | [Teffa](https://open.spotify.com/artist/3w8EiOMwnAuuWfPmX5kRqb) | [Cosmos](https://open.spotify.com/album/0KgmLt015HgyQQmHR2WlxI) | 3:46 | 2022-04-26 |  |
 | [CREATE](https://open.spotify.com/track/6pQeuElje6CepCLUSTTs1o) | [TR!P HVZVRD](https://open.spotify.com/artist/5Lx937tgItqFWdlOoyATpC), [OTATOP](https://open.spotify.com/artist/4kMFIAZUbaMvqb7cJjvtRj) | [CREATE](https://open.spotify.com/album/1yAyjHimE6Iandit8s0Ki3) | 3:05 | 2022-01-17 | 2022-02-18 |
 | [DNA](https://open.spotify.com/track/6igOu1dKezn6cqJgAoXuAo) | [Hatcha](https://open.spotify.com/artist/6uKJAfwWvzUrpHovtyaPet) | [HATCHED 051](https://open.spotify.com/album/39sdmhLnB00K0Qx22LCpMW) | 5:39 | 2022-04-15 |  |
 | [Do What You Love](https://open.spotify.com/track/2d6VpS0QGYPDipralkDfCY) | [9 Theory](https://open.spotify.com/artist/06tYi7DxoKe8PfYCeHGGFK) | [Comfort In The Orange Glow](https://open.spotify.com/album/5IPhg5fIyLvkA2eJj3tsOQ) | 3:10 | 2022-02-25 |  |
@@ -74,7 +74,7 @@
 | [Magick is Real](https://open.spotify.com/track/601Km68r5hhVzwG1oKnX2z) | [Zingara](https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1) | [Mind & Body](https://open.spotify.com/album/3U9B2nWzZpMT8vWoVv1VSx) | 3:34 | 2022-04-12 |  |
 | [Mangal Sound \- Cesco Remix](https://open.spotify.com/track/61t8KC9k8RCY8ogEWqlrqh) | [Oddkut](https://open.spotify.com/artist/45ME91Qyv7XQQk0SBaSxgQ), [Hotcut](https://open.spotify.com/artist/2LOBWnVyFlt96KFUF4nieL), [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3) | [DUPLOC WAR DUBS 2](https://open.spotify.com/album/4ZcTmuD4WEUrGc9Rx3bjZb) | 5:36 | 2022-04-15 |  |
 | [Meeks](https://open.spotify.com/track/3RB4NzaKJ8c9tYLGZ3J5Mb) | [MOLOKAI](https://open.spotify.com/artist/0MpAe8If4MbY3bBLLJ3VzQ) | [Meeks](https://open.spotify.com/album/4ZhUnoSB8Qy40jKXl38s7m) | 2:59 | 2022-01-22 | 2022-04-16 |
-| [Midnight Angler](https://open.spotify.com/track/6jjG4Hhpggq0LuQGz22r1a) | [Cam Lasky](https://open.spotify.com/artist/2UWIVc2ZEBbdoFjOYf4yph) | [Kyoka Hyaku 013 Midnight Angler](https://open.spotify.com/album/0KcMkmJGnpSBfo9PlNGHNx) | 0:29 | 2022-04-15 |  |
+| [Midnight Angler](https://open.spotify.com/track/6jjG4Hhpggq0LuQGz22r1a) | [Cam Lasky](https://open.spotify.com/artist/2UWIVc2ZEBbdoFjOYf4yph) | [Kyoka Hyaku 013 Midnight Angler](https://open.spotify.com/album/0KcMkmJGnpSBfo9PlNGHNx) | 4:17 | 2022-04-15 |  |
 | [Molecular Express](https://open.spotify.com/track/0v36EluEKE4zQrnK9p09ZS) | [TINK](https://open.spotify.com/artist/66nP6vbedxoqgG9WUZhDXF), [Roob](https://open.spotify.com/artist/6hpFsaxuaEm3anP7Z0oLfX) | [Molecular Express](https://open.spotify.com/album/1EU2lvd7k4JfHRHi4GmZdn) | 2:45 | 2021-10-15 | 2022-04-16 |
 | [MULTIVERSE](https://open.spotify.com/track/23oOs4H4jRkYCSwOf7MApd) | [Sky Suite](https://open.spotify.com/artist/0D3OutokoXMRF8kwCPpJZc) | [MULTIVERSE](https://open.spotify.com/album/1a63sK5PcSjgbceKc5u0oU) | 4:15 | 2022-04-25 |  |
 | [Narrow](https://open.spotify.com/track/54Ys41zXshiXCVlxENznb5) | [sumthin sumthin](https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm), [Player Dave](https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0) | [Narrow](https://open.spotify.com/album/4afOs1aVHjBfr5SByIOn1R) | 3:36 | 2022-01-22 | 2022-04-16 |

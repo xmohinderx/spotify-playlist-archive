@@ -4,7 +4,7 @@
 
 > Get moving with these family\-friendly dance hits!
 
-38 songs - 1 hr 43 min - [published](https://open.spotify.com/playlist/5BeG8cl5OqoZoz4Jy5zAW1)
+38 songs - 1 hr 50 min - [published](https://open.spotify.com/playlist/5BeG8cl5OqoZoz4Jy5zAW1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,13 +21,13 @@
 | [Dance Silly](https://open.spotify.com/track/7jY4Uj5MaWxxhswF96X65F) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/4Kd1PKvFJR37T0PL7fTn84) | 3:04 | 2022-04-01 |  |
 | [Dance, Dance, Freeze](https://open.spotify.com/track/5oVTyy9JZ6RIXxiZ3nNaMm) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi's Birthday Party](https://open.spotify.com/album/1WPDUEohi6ZRZuMKOH4lLa) | 2:10 | 2022-04-01 |  |
 | [Do as I'm Doing](https://open.spotify.com/track/7J6pdbrX4gG1AfIM4qCUcK) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Do as I'm Doing](https://open.spotify.com/album/169CIBnpB6WtwZWCDgyMgN) | 1:56 | 2022-04-01 |  |
-| [Do Your Own Dance](https://open.spotify.com/track/5OFRH7DX66YJxWMWxEZt4b) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Scrambled Eggs For All](https://open.spotify.com/album/0GDRDnnvLcMVLtHshEpDkV) | 0:29 | 2022-04-01 |  |
+| [Do Your Own Dance](https://open.spotify.com/track/5OFRH7DX66YJxWMWxEZt4b) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Scrambled Eggs For All](https://open.spotify.com/album/0GDRDnnvLcMVLtHshEpDkV) | 2:31 | 2022-04-01 |  |
 | [Electric Slide](https://open.spotify.com/track/0VhsAybZAPC1O1oEpmOTvU) | [Electric Slide Music Makers](https://open.spotify.com/artist/1VCtMJoDuOXAqX0rVG8xCe) | [Electric Slide: with friends...](https://open.spotify.com/album/0OP47i79jrKw8XcUaEDxn8) | 3:57 | 2022-04-01 |  |
 | [Gangnam Style \(강남스타일\)](https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Gangnam Style \(강남스타일\)](https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99) | 3:39 | 2022-04-01 |  |
 | [Get Yo Body Movin'](https://open.spotify.com/track/7GizF53H6JpwNWIEsZRuWC) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Whoopty Whoop](https://open.spotify.com/album/6ophnm6Vp3brWGK8NvldMT) | 1:57 | 2022-04-01 |  |
-| [Hand Jive](https://open.spotify.com/track/60GhTHlRCZuM1NOuHll3NY) | [Patty Shukla](https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc) | [Dance! Sing! Move!](https://open.spotify.com/album/691W7vodFTYvZXrlqYhiNP) | 0:29 | 2022-04-01 |  |
+| [Hand Jive](https://open.spotify.com/track/60GhTHlRCZuM1NOuHll3NY) | [Patty Shukla](https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc) | [Dance! Sing! Move!](https://open.spotify.com/album/691W7vodFTYvZXrlqYhiNP) | 2:59 | 2022-04-01 |  |
 | [Head, Shoulders, Knees and Toes](https://open.spotify.com/track/3LporUvjsmpxGBdREXWlwu) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Nursery Rhymes](https://open.spotify.com/album/0ZZiqgSSDNybO8p6YW5fqr) | 1:30 | 2022-04-01 |  |
-| [Jump](https://open.spotify.com/track/4pM7P3snklLvAG2J3cWL6o) | [Patty Shukla](https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc) | [Dance! Sing! Move!](https://open.spotify.com/album/691W7vodFTYvZXrlqYhiNP) | 0:29 | 2022-04-01 |  |
+| [Jump](https://open.spotify.com/track/4pM7P3snklLvAG2J3cWL6o) | [Patty Shukla](https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc) | [Dance! Sing! Move!](https://open.spotify.com/album/691W7vodFTYvZXrlqYhiNP) | 2:50 | 2022-04-01 |  |
 | [Let's Samba](https://open.spotify.com/track/5BaCOocC0d5SPUtqs4GLKm) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Movement Songs](https://open.spotify.com/album/3WZZS7mxHy9gedlgUD0e3i) | 2:41 | 2022-04-01 |  |
 | [Let's Shake About!](https://open.spotify.com/track/2py4vXQSKtDmYYe98p4Do6) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Silly Songs Sing\-Along](https://open.spotify.com/album/3z7PERlx9otKn0E4rKeKP9) | 2:01 | 2022-04-01 |  |
 | [Limbo Rock](https://open.spotify.com/track/6FXjVsmKPW93LXRFYhfmmw) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [Chubby Checker Classics](https://open.spotify.com/album/36tc0l1brbD9CCaUDrvqVi) | 2:28 | 2022-04-01 |  |

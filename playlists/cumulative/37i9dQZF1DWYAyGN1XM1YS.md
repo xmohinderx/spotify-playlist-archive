@@ -4,7 +4,7 @@
 
 > Back to the golden age of emo\. Cover: Thursday
 
-50 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/2OcBf1DX0Haz6eQXJ4V6dg)
+50 songs - 3 hr 20 min - [published](https://open.spotify.com/playlist/2OcBf1DX0Haz6eQXJ4V6dg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Factory](https://open.spotify.com/track/5hns2g1le2bQDkQaUJPRvB) | [Samiam](https://open.spotify.com/artist/7eNSfWxOEWP2B2QQgHGBoo) | [You're Freaking Me Out](https://open.spotify.com/album/06KigeTnRtnm7YS0hjIVl8) | 3:30 | 2021-06-28 |  |
 | [For Me This Is Heaven](https://open.spotify.com/track/64Kk49W8HFh22diWSBVxCr) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 4:06 | 2021-06-28 |  |
 | [For Want of](https://open.spotify.com/track/7mZjpi86XWnEBiu8VMR3GI) | [Rites of Spring](https://open.spotify.com/artist/1FIzwiROYEiAdCClC6Kvly) | [Rites of Spring](https://open.spotify.com/album/2xtDqnjyKOuOd3Y9wl3Thx) | 3:10 | 2021-06-28 |  |
-| [Golden Brown](https://open.spotify.com/track/74qgrn0YAo3cgRcH4xQBsA) | [Drive Like Jehu](https://open.spotify.com/artist/7FbdCzKUwoZs1v9bCl43Ev) | [Yank Crime](https://open.spotify.com/album/7AHbaRIYnilUwe981nZpmi) | 0:29 | 2021-06-28 |  |
+| [Golden Brown](https://open.spotify.com/track/74qgrn0YAo3cgRcH4xQBsA) | [Drive Like Jehu](https://open.spotify.com/artist/7FbdCzKUwoZs1v9bCl43Ev) | [Yank Crime](https://open.spotify.com/album/7AHbaRIYnilUwe981nZpmi) | 3:14 | 2021-06-28 |  |
 | [Golf Hill Drive](https://open.spotify.com/track/3qAkXCzLSEHiypXxoLhl8K) | [Boys Life](https://open.spotify.com/artist/6pkUxQmEvLkvQRa75wf7Ta) | [Boys Life](https://open.spotify.com/album/6IiDM5sfirROcIXPRXxaUl) | 2:30 | 2021-06-28 |  |
 | [Grace Kelly With Wings](https://open.spotify.com/track/3LTwneFzQwPFSI1O8QfNXf) | [Piebald](https://open.spotify.com/artist/4rOGGTXaYygtFIHsPgLKJv) | [If It Weren’t for Venetian Blinds, It Would Be Curtains for Us All](https://open.spotify.com/album/0VrUE9XpB5OBnvRewc0Aq0) | 5:25 | 2021-06-28 |  |
 | [Half Of Ninety](https://open.spotify.com/track/38Io4HK6GhMKlkzY3IXxS1) | [Pop Unknown](https://open.spotify.com/artist/4CLc2mcJfxXTAFGVHlonB7) | [If Arsenic Fails, Try Algebra](https://open.spotify.com/album/3oP8OX2XPNsI4uBCcrpYgG) | 4:03 | 2021-06-28 |  |
@@ -52,7 +52,7 @@
 | [The Casualty](https://open.spotify.com/track/5kgwBCYQtJ3vS0RpCrI6jG) | [Cursive](https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3) | [Cursive's Domestica](https://open.spotify.com/album/215RKfiHGpOXzOxftk3fqs) | 3:30 | 2021-06-28 |  |
 | [The D In Detroit](https://open.spotify.com/track/0tlgt22cueiCMotxCMc6Cf) | [The Anniversary](https://open.spotify.com/artist/1mi3Fx4j7ektT97ycLSxl8) | [Designing a Nervous Breakdown](https://open.spotify.com/album/42fsY10FqhlkSbkJA4lUCJ) | 4:16 | 2021-06-28 |  |
 | [The Great Depression](https://open.spotify.com/track/1xNDXKQPbd49Ik9MxlwJ94) | [Cross My Heart](https://open.spotify.com/artist/5Lp6cRiaJy2ryj66SfTKYQ) | [Temporary Contemporary](https://open.spotify.com/album/3YNTAfolDugX8teETYvrCx) | 4:01 | 2021-06-28 |  |
-| [The Scars to Prove It](https://open.spotify.com/track/1B6gt0Nvi3XmGvGrrdADkm) | [The Jazz June](https://open.spotify.com/artist/71jiZJ6LUwYWXihX80dZD0) | [The Medicine](https://open.spotify.com/album/4EryTp8PVe5XFM9wrIw26m) | 0:29 | 2021-06-28 |  |
+| [The Scars to Prove It](https://open.spotify.com/track/1B6gt0Nvi3XmGvGrrdADkm) | [The Jazz June](https://open.spotify.com/artist/71jiZJ6LUwYWXihX80dZD0) | [The Medicine](https://open.spotify.com/album/4EryTp8PVe5XFM9wrIw26m) | 4:04 | 2021-06-28 |  |
 | [This Afternoons Malady](https://open.spotify.com/track/0wHxHYnNvnhjX4f399sjMz) | [Jejune](https://open.spotify.com/artist/0dH7IS6J0rfzfMCyxG8b4V) | [Extreme Music Sampler](https://open.spotify.com/album/4m0GhiaLelgQ44HRnG14ow) | 4:21 | 2021-06-28 |  |
 | [This Time Next Year](https://open.spotify.com/track/3ZfoS2MfHC8aRldwqlknfS) | [The Movielife](https://open.spotify.com/artist/6WuH3nSjp98OqgwnDqYnRK) | [This Time Next Year](https://open.spotify.com/album/18KiEYIQ5jdFSpRzdNET1A) | 2:50 | 2021-06-28 |  |
 | [Travel By Telephone](https://open.spotify.com/track/0FgSTUS1Dbw3D1JUsWUh7E) | [Rival Schools](https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz) | [United By Fate](https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC) | 2:47 | 2021-06-28 |  |

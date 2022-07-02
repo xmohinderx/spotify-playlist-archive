@@ -4,7 +4,7 @@
 
 > Feel\-good Afropop from Europe and Africa\. Cover: Naza
 
-167 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/1dEBeASsRuQMcB6nFV6Y3W)
+167 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/1dEBeASsRuQMcB6nFV6Y3W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Méchante](https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Méchante](https://open.spotify.com/album/1k6MS0e5EMEkCDZ88fiLQ5) | 2:51 | 2022-06-30 |  |
 | [Mélodie](https://open.spotify.com/track/2kDTpQZdRcBVNXJVyVePAy) | [Sifoor](https://open.spotify.com/artist/0dSAqgiskNQy5Kr6aRDiZj) | [O'bosso, Vol\. 2 \(Afro Swing Don Edition\)](https://open.spotify.com/album/3FgQafXs5a8qM9ZuhUF4RH) | 2:49 | 2022-03-10 | 2022-03-16 |
 | [Mélodie \(Tatami\)](https://open.spotify.com/track/78cYGQUXUNS5LZuNRzeqk7) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Ronisia](https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo) | 2:20 | 2022-02-10 | 2022-06-24 |
-| [No Wahala](https://open.spotify.com/track/4vHy2IHzf3EabEa7oMpUZB) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Original Vibe Machine](https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3) | 0:29 | 2022-01-13 |  |
+| [No Wahala](https://open.spotify.com/track/4vHy2IHzf3EabEa7oMpUZB) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Original Vibe Machine](https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3) | 2:42 | 2022-01-13 |  |
 | [Nzoto](https://open.spotify.com/track/2TXxYgXnKnq3qJTXclJHTj) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Nzoto](https://open.spotify.com/album/5g1MSyNcRhNKQroEZ8MKOR) | 4:38 | 2021-12-27 | 2022-02-04 |
 | [o'dun](https://open.spotify.com/track/5e6Em24aptMFZaDCsvBJpu) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [God's Timing’s the Best](https://open.spotify.com/album/24dNVB3ThSVZWsTO5KhBc7) | 2:35 | 2022-06-02 |  |
 | [Omo Ope \(feat\. Olamide\)](https://open.spotify.com/track/7d1aTQlsHMgWmkPywDi7h1) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Omo Ope](https://open.spotify.com/album/6PU3yx6qtcu2BKkRMGSbdG) | 2:46 | 2022-02-10 |  |
@@ -171,7 +171,7 @@
 | [Understand](https://open.spotify.com/track/6teW0qt23aGnWhC0rSvtoz) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Understand](https://open.spotify.com/album/3gPckvEZDTVrXGXYMIh9VK) | 2:54 | 2021-12-27 | 2022-02-25 |
 | [Va bene \(feat\. Tayc, Soolking, Jul & Naza\)](https://open.spotify.com/track/2rCWBH2DlKNgsEJFb8diw3) | [4.4.2](https://open.spotify.com/artist/5ocH0jGbwm0TeLOlegUVUY), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Va bene \(feat\. Tayc, Soolking, Jul & Naza\)](https://open.spotify.com/album/2ZLgyBAHLT9i9meO9baB8k) | 3:37 | 2022-03-31 | 2022-05-20 |
 | [Vitamine \- \(Remix\) feat\. Ya Levis](https://open.spotify.com/track/0cuBU0NjEZImmFEFn7kVsb) | [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Vitamine \(Remix\)](https://open.spotify.com/album/3R3KNEZBmPYbxGVNtqZo4q) | 2:34 | 2022-01-13 | 2022-05-27 |
-| [WAHALA](https://open.spotify.com/track/1fCDZFT7cAYMWSJPwrihge) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG) | [ROUGE](https://open.spotify.com/album/28dP7VNZqg0SyrIZtPsbfj) | 2:36 | 2022-06-30 |  |
+| [WAHALA](https://open.spotify.com/track/1fCDZFT7cAYMWSJPwrihge) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG) | [ROUGE](https://open.spotify.com/album/28dP7VNZqg0SyrIZtPsbfj) | 3:12 | 2022-06-30 |  |
 | [WANGANA \(feat\. Ya Levis\)](https://open.spotify.com/track/2s6NHVwzYTg7ThzIiMvsZg) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [RELATIONS \(SAISON 1\)](https://open.spotify.com/album/2wJ1gNdP3LKeRWdqgQN6VG) | 3:26 | 2022-06-16 |  |
 | [WATAWI \(feat\. Davido, Focalistic & Abidoza\) \- Edit](https://open.spotify.com/track/2ZLcMQmxJvHHQgcRbawsjz) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33) | [WATAWI \(feat\. Davido, Focalistic & Abidoza\) \[Edit\]](https://open.spotify.com/album/2aN0xNQEkjaEGW2d0NReSg) | 2:49 | 2022-06-16 |  |
 | [Wawah bébé](https://open.spotify.com/track/3zsXIz9wszecQHy0faMth0) | [Samarino](https://open.spotify.com/artist/3rIS2pZczFmGjl4LVxelm7) | [Wawah Bébé](https://open.spotify.com/album/5Mcui7LLoY1EkkCqnlrsRI) | 3:20 | 2021-12-27 | 2022-01-14 |

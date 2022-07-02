@@ -1,13 +1,33 @@
 {
   "description": "Screaming, crying, throwing up.  Like this, you'll love <a href=\"spotify:playlist:37i9dQZF1DX1SbnWqcjJBz\">DESERVED</a>. Cover: Rina Sawayama",
-  "num_followers": 22900,
+  "num_followers": 23082,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA0NzI3MSwwMDAwMDAzODAwMDAwMTgxOTQxYmZjZjQwMDAwMDE4MTZkMmE1ZmU2",
+  "snapshot_id": "MTY1NjcwNzU4MCwwMDAwMDAzYTAwMDAwMTgxYmI3NzgzNGEwMDAwMDE4MTZkMmE1ZmU2",
   "tracks": [
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Hot In It",
+        "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 129817,
+      "name": "Hot In It",
+      "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
+    },
     {
       "added_at": "2022-05-20 04:00:00",
       "album": {
@@ -25,20 +45,20 @@
       "url": "https://open.spotify.com/track/6A6yKpsgFr4gIKd7gsfHhm"
     },
     {
-      "added_at": "2022-06-21 04:00:00",
+      "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "BREAK MY SOUL",
-        "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
+        "name": "Tongue",
+        "url": "https://open.spotify.com/album/0TNM4CTPP3WUA7oZcpe5cN"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "R\u00eave",
+          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
         }
       ],
-      "duration_ms": 278281,
-      "name": "BREAK MY SOUL",
-      "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
+      "duration_ms": 133333,
+      "name": "Tongue",
+      "url": "https://open.spotify.com/track/2bJgUPmlG2o6A0qfZJgkdh"
     },
     {
       "added_at": "2022-06-24 04:00:00",
@@ -57,20 +77,68 @@
       "url": "https://open.spotify.com/track/13DNuiQyuTDcAw6Y8thZFM"
     },
     {
-      "added_at": "2022-06-10 04:00:00",
+      "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Another Stranger",
-        "url": "https://open.spotify.com/album/5bnsd00W441t5LStFk95ov"
+        "name": "Main Character",
+        "url": "https://open.spotify.com/album/68YJc00xWlIsDm2by8wGsx"
       },
       "artists": [
         {
-          "name": "Hedda Mae",
-          "url": "https://open.spotify.com/artist/7zd05tehJ8h4VEpwxdo4g4"
+          "name": "Rosse",
+          "url": "https://open.spotify.com/artist/0rUWPf3mbRGeUusm1P3Z4i"
         }
       ],
-      "duration_ms": 178065,
-      "name": "Another Stranger",
-      "url": "https://open.spotify.com/track/03ApTIkz4BbUuIY7grHTEr"
+      "duration_ms": 120000,
+      "name": "Main Character",
+      "url": "https://open.spotify.com/track/2iyPrCtdlawRkNi0i3YnGx"
+    },
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 243236,
+      "name": "What I Want",
+      "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Explosive",
+        "url": "https://open.spotify.com/album/3HDeUdqtFGF5NIkLZP4KWl"
+      },
+      "artists": [
+        {
+          "name": "CuteBad",
+          "url": "https://open.spotify.com/artist/09FEhj90tAtYK9WDdWfgeP"
+        }
+      ],
+      "duration_ms": 202213,
+      "name": "Explosive",
+      "url": "https://open.spotify.com/track/2eAekdkZ8Dbtkv1dmXWQWT"
+    },
+    {
+      "added_at": "2022-06-21 04:00:00",
+      "album": {
+        "name": "BREAK MY SOUL",
+        "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 278281,
+      "name": "BREAK MY SOUL",
+      "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -101,6 +169,62 @@
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
     },
     {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Lesbionic",
+        "url": "https://open.spotify.com/album/6SnfGH3zgu3MILSTpPMHhu"
+      },
+      "artists": [
+        {
+          "name": "Gia Woods",
+          "url": "https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP"
+        }
+      ],
+      "duration_ms": 161446,
+      "name": "Lesbionic",
+      "url": "https://open.spotify.com/track/35Kejpttob4ICouzMYjZg1"
+    },
+    {
+      "added_at": "2022-07-01 20:33:00",
+      "album": {
+        "name": "Am I Gay? - Single",
+        "url": "https://open.spotify.com/album/1HTFFIR6wPWMuvQ1AEAVLX"
+      },
+      "artists": [
+        {
+          "name": "ziwe",
+          "url": "https://open.spotify.com/artist/4MPEpqfNghhc9u2QZhveib"
+        },
+        {
+          "name": "Jen Goma",
+          "url": "https://open.spotify.com/artist/5k82r3hAQ8j4CEpnbQHNS6"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Am I Gay? (feat. Jen Goma)",
+      "url": "https://open.spotify.com/track/60plBCQE49eGPVtHrhQhR3"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "You're Free",
+        "url": "https://open.spotify.com/album/3kufQdX9NuDXE0QxT1eDoM"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Ultra Nat\u00e9",
+          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+        }
+      ],
+      "duration_ms": 167298,
+      "name": "You're Free",
+      "url": "https://open.spotify.com/track/0KF938333oCvIXDxe72K44"
+    },
+    {
       "added_at": "2022-06-03 04:02:00",
       "album": {
         "name": "lay all your love on me",
@@ -117,20 +241,20 @@
       "url": "https://open.spotify.com/track/3wrWJ4cpGWSL2JZieVXhdR"
     },
     {
-      "added_at": "2022-06-24 04:00:00",
+      "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "MUNA",
-        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+        "name": "Love You When You\u2019re Gone",
+        "url": "https://open.spotify.com/album/79tNM6qA2pbRsx7fXfXAG2"
       },
       "artists": [
         {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
         }
       ],
-      "duration_ms": 243236,
-      "name": "What I Want",
-      "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
+      "duration_ms": 184166,
+      "name": "Love You When You\u2019re Gone",
+      "url": "https://open.spotify.com/track/4a5a4NpPcsp8lKLjsGqks2"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -147,6 +271,22 @@
       "duration_ms": 190318,
       "name": "Maybe You\u2019re The Problem",
       "url": "https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA"
+    },
+    {
+      "added_at": "2022-02-15 15:40:26",
+      "album": {
+        "name": "Ancient Dreams In A Modern Land (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6NlDNvgAkT6noaBECDxS2d"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "duration_ms": 206080,
+      "name": "Ancient Dreams In A Modern Land",
+      "url": "https://open.spotify.com/track/2Do0VnlZgtjaVnKU5T4zC0"
     },
     {
       "added_at": "2022-06-24 04:00:00",
@@ -177,42 +317,6 @@
       "url": "https://open.spotify.com/track/013PVeWEFQio3XHFH9rIC6"
     },
     {
-      "added_at": "2022-05-27 04:01:00",
-      "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/2PY1DxGDRf8s6a8rJMVQFK"
-      },
-      "artists": [
-        {
-          "name": "Gia Woods",
-          "url": "https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP"
-        }
-      ],
-      "duration_ms": 127741,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/2k5cMN5C6DEzvumS13eiGQ"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "You're Free",
-        "url": "https://open.spotify.com/album/3kufQdX9NuDXE0QxT1eDoM"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "Ultra Nat\u00e9",
-          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
-        }
-      ],
-      "duration_ms": 167298,
-      "name": "You're Free",
-      "url": "https://open.spotify.com/track/0KF938333oCvIXDxe72K44"
-    },
-    {
       "added_at": "2022-03-18 04:00:00",
       "album": {
         "name": "CRASH",
@@ -227,6 +331,82 @@
       "duration_ms": 145840,
       "name": "Used To Know Me",
       "url": "https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd"
+    },
+    {
+      "added_at": "2022-05-09 14:06:34",
+      "album": {
+        "name": "Am I A Girl?",
+        "url": "https://open.spotify.com/album/5QCXxPUwoOtxeZQmve6w2u"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 145272,
+      "name": "Girls In Bikinis",
+      "url": "https://open.spotify.com/track/5FXn5JHL50tDPMITGun9zh"
+    },
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "hollaback bitch (with Shygirl & Channel Tres)",
+        "url": "https://open.spotify.com/album/1hITEiMMdQFFFS2mkWmFd5"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 203549,
+      "name": "hollaback bitch (with Shygirl & Channel Tres)",
+      "url": "https://open.spotify.com/track/2LFLXzQe95ViTXZeq1WRdx"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Another Stranger",
+        "url": "https://open.spotify.com/album/5bnsd00W441t5LStFk95ov"
+      },
+      "artists": [
+        {
+          "name": "Hedda Mae",
+          "url": "https://open.spotify.com/artist/7zd05tehJ8h4VEpwxdo4g4"
+        }
+      ],
+      "duration_ms": 178065,
+      "name": "Another Stranger",
+      "url": "https://open.spotify.com/track/03ApTIkz4BbUuIY7grHTEr"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Let Love Go",
+        "url": "https://open.spotify.com/album/1neoGq8qTuu9k4QbBQqxgj"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "Let Love Go",
+      "url": "https://open.spotify.com/track/6wULOKKYcFk3K6bJnFPxMg"
     },
     {
       "added_at": "2022-06-24 04:00:00",
@@ -265,22 +445,6 @@
       "url": "https://open.spotify.com/track/1xIk1ez2aX9hgRpqSMOrA9"
     },
     {
-      "added_at": "2022-02-15 15:40:26",
-      "album": {
-        "name": "Ancient Dreams In A Modern Land (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6NlDNvgAkT6noaBECDxS2d"
-      },
-      "artists": [
-        {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
-        }
-      ],
-      "duration_ms": 206080,
-      "name": "Ancient Dreams In A Modern Land",
-      "url": "https://open.spotify.com/track/2Do0VnlZgtjaVnKU5T4zC0"
-    },
-    {
       "added_at": "2022-05-06 04:00:00",
       "album": {
         "name": "No One Dies From Love",
@@ -295,6 +459,22 @@
       "duration_ms": 186018,
       "name": "No One Dies From Love",
       "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "for the girls",
+        "url": "https://open.spotify.com/album/2kgCpb55LqgeaIu34UterB"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 158486,
+      "name": "for the girls",
+      "url": "https://open.spotify.com/track/0ZKGfdW7a1vUIMulTbNmqM"
     },
     {
       "added_at": "2022-06-24 05:07:51",
@@ -315,30 +495,6 @@
       "duration_ms": 196160,
       "name": "NO PROBLEM (Feat. Felix of Stray Kids)",
       "url": "https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC"
-    },
-    {
-      "added_at": "2022-06-24 04:00:00",
-      "album": {
-        "name": "hollaback bitch (with Shygirl & Channel Tres)",
-        "url": "https://open.spotify.com/album/1hITEiMMdQFFFS2mkWmFd5"
-      },
-      "artists": [
-        {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        },
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 203549,
-      "name": "hollaback bitch (with Shygirl & Channel Tres)",
-      "url": "https://open.spotify.com/track/2LFLXzQe95ViTXZeq1WRdx"
     },
     {
       "added_at": "2022-06-03 04:02:00",
@@ -549,22 +705,6 @@
       "url": "https://open.spotify.com/track/0yNJ6ohn2kmEndRLAXhQvJ"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
-        "name": "for the girls",
-        "url": "https://open.spotify.com/album/2kgCpb55LqgeaIu34UterB"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 158486,
-      "name": "for the girls",
-      "url": "https://open.spotify.com/track/0ZKGfdW7a1vUIMulTbNmqM"
-    },
-    {
       "added_at": "2022-06-24 04:00:00",
       "album": {
         "name": "Light Of My Life",
@@ -613,22 +753,6 @@
       "url": "https://open.spotify.com/track/5kyJ6sznnWACqHbw65p34Q"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "Masquerade",
-        "url": "https://open.spotify.com/album/0fHm1IHv4PpNo6OBsWyUG5"
-      },
-      "artists": [
-        {
-          "name": "Bananarama",
-          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
-        }
-      ],
-      "duration_ms": 253826,
-      "name": "Masquerade",
-      "url": "https://open.spotify.com/track/3kNA4Ln5W156mrDl9nOAst"
-    },
-    {
       "added_at": "2022-06-24 04:00:00",
       "album": {
         "name": "Blur",
@@ -643,22 +767,6 @@
       "duration_ms": 172340,
       "name": "Blur",
       "url": "https://open.spotify.com/track/3OGH7oTsxIrpBfmmh0PV8q"
-    },
-    {
-      "added_at": "2022-05-09 14:06:34",
-      "album": {
-        "name": "Am I A Girl?",
-        "url": "https://open.spotify.com/album/5QCXxPUwoOtxeZQmve6w2u"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 145272,
-      "name": "Girls In Bikinis",
-      "url": "https://open.spotify.com/track/5FXn5JHL50tDPMITGun9zh"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -775,22 +883,6 @@
       "duration_ms": 439613,
       "name": "Platinum Megamix",
       "url": "https://open.spotify.com/track/2Z9agUb5fMyvfVeSA4r9rX"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "Illusion",
-        "url": "https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 195053,
-      "name": "Illusion",
-      "url": "https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH"
     },
     {
       "added_at": "2022-05-27 04:01:00",
@@ -1013,22 +1105,6 @@
       "url": "https://open.spotify.com/track/2lMWevrECYrdFogaMY3Vg1"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
-        "name": "Lovesick",
-        "url": "https://open.spotify.com/album/57FiXP5MECC5vtGTC3JuWC"
-      },
-      "artists": [
-        {
-          "name": "Miss Madeline",
-          "url": "https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v"
-        }
-      ],
-      "duration_ms": 177902,
-      "name": "Lovesick",
-      "url": "https://open.spotify.com/track/5rtdjMt1W8eYgrvHnYaCZB"
-    },
-    {
       "added_at": "2022-05-06 04:00:00",
       "album": {
         "name": "YouYouYou",
@@ -1133,22 +1209,6 @@
       "url": "https://open.spotify.com/track/4e64oQwdgwUUADrC26DCdI"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "Western Wind",
-        "url": "https://open.spotify.com/album/5WCdg2iITZNONNV8Wp5P7M"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 225946,
-      "name": "Western Wind",
-      "url": "https://open.spotify.com/track/0Q2FDq304w57PGAKKcC3Qk"
-    },
-    {
       "added_at": "2022-04-01 04:01:00",
       "album": {
         "name": "Follow Me",
@@ -1180,7 +1240,7 @@
           "url": "https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 203809,
       "name": "Sugar Daddy",
       "url": "https://open.spotify.com/track/2ViSWfhT0kvEulXA1HH7Wk"
     },
@@ -1196,7 +1256,7 @@
           "url": "https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 240000,
       "name": "Kiss Me Right Now",
       "url": "https://open.spotify.com/track/6YgSKX15auxiOAkCSpbdX8"
     },
@@ -1352,7 +1412,7 @@
           "url": "https://open.spotify.com/artist/2kG6IPsHwVJ1fR3txhSpKq"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 149754,
       "name": "out of the blue",
       "url": "https://open.spotify.com/track/3BoHfjuu9WBbQZ6dCd0CY7"
     },
@@ -1391,22 +1451,6 @@
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
-      "added_at": "2022-05-06 04:45:57",
-      "album": {
-        "name": "Like Whoa (A&A Version)",
-        "url": "https://open.spotify.com/album/2wlLW5gY9bMR8ktc78JF4K"
-      },
-      "artists": [
-        {
-          "name": "Aly & AJ",
-          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Like Whoa (A&A Version)",
-      "url": "https://open.spotify.com/track/6ZmqS2ru3VVCAype7FJ6Xu"
     },
     {
       "added_at": "2022-04-15 04:01:00",
@@ -1501,22 +1545,6 @@
       "url": "https://open.spotify.com/track/1F3NBThWyr845YUwpm5n1F"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Naked in Manhattan",
-        "url": "https://open.spotify.com/album/2aA0deq09WgAaMzIpQcv4p"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 211057,
-      "name": "Naked in Manhattan",
-      "url": "https://open.spotify.com/track/74oXlQPr6x05HDrGVaiYXZ"
-    },
-    {
       "added_at": "2022-03-01 23:39:02",
       "album": {
         "name": "Baby",
@@ -1528,7 +1556,7 @@
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 159920,
       "name": "Baby",
       "url": "https://open.spotify.com/track/4KNk5VS4bR4nUVvnJwVmUE"
     },
@@ -1647,22 +1675,6 @@
       "duration_ms": 241163,
       "name": "24 Hours",
       "url": "https://open.spotify.com/track/58uUDYcy9U1dqS84ykFTFD"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/0B1vdRsHv8o51NQPYtMICO"
-      },
-      "artists": [
-        {
-          "name": "Joanne",
-          "url": "https://open.spotify.com/artist/75z1OhYtUgB075L3zyMfFH"
-        }
-      ],
-      "duration_ms": 163278,
-      "name": "Midnight",
-      "url": "https://open.spotify.com/track/3hU59rmiHip8h7kboQV5yE"
     },
     {
       "added_at": "2022-02-15 15:40:26",

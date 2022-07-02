@@ -4,7 +4,7 @@
 
 > Instrumental beats for a restful night's sleep.
 
-189 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/23A7fnWUHMhejMeGoVNotd)
+189 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/23A7fnWUHMhejMeGoVNotd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [daydreaming](https://open.spotify.com/track/6AmPCKcsVYNXZhTI4BFcAI) | [swiftly](https://open.spotify.com/artist/6cfk21YEPJx5qIv6PSaEa7) | [daydreaming](https://open.spotify.com/album/4ZUJhn8sxrETBsSmndnYW5) | 2:04 | 2022-07-01 |  |
 | [Daylight](https://open.spotify.com/track/1QsPIqPMsqhRv3a1CIkk1Q) | [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K) | [Daylight](https://open.spotify.com/album/3ln64PtkNk9lQbynHo9uCN) | 1:44 | 2022-05-20 |  |
 | [deep water](https://open.spotify.com/track/6v7Ww0tGCRAoxbvKA2MZKu) | [Beaterish](https://open.spotify.com/artist/6dGolXh0myfF6lQYNizu0M) | [deep water](https://open.spotify.com/album/1Quc1qXFAtvwxfK5MD44q1) | 2:24 | 2022-05-27 |  |
-| [Delicate](https://open.spotify.com/track/6KEoIOQahTzFYCTRFiVB0z) | [Broken Holiday](https://open.spotify.com/artist/0O76plZlrqmubSLOZHDOmI), [Jaden Christy](https://open.spotify.com/artist/26Lja0Loc02XwrkUdLH7X9), [P.Wasy](https://open.spotify.com/artist/18IRV55F0nkTqWD23Dvxmk) | [Delicate](https://open.spotify.com/album/79dqRJc8ZVlaSwGwg2gCM3) | 0:29 | 2022-05-20 |  |
+| [Delicate](https://open.spotify.com/track/6KEoIOQahTzFYCTRFiVB0z) | [Broken Holiday](https://open.spotify.com/artist/0O76plZlrqmubSLOZHDOmI), [Jaden Christy](https://open.spotify.com/artist/26Lja0Loc02XwrkUdLH7X9), [P.Wasy](https://open.spotify.com/artist/18IRV55F0nkTqWD23Dvxmk) | [Delicate](https://open.spotify.com/album/79dqRJc8ZVlaSwGwg2gCM3) | 2:04 | 2022-05-20 |  |
 | [Despite the Falling Rain](https://open.spotify.com/track/2lSUiEOYZxFfBZNjqeaCtT) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [Despite the Falling Rain](https://open.spotify.com/album/7dqyqtb2PZF8iMFlEQQPn2) | 2:25 | 2022-05-20 |  |
 | [Distance](https://open.spotify.com/track/22EUPDSks0pkcJwXJ6CEem) | [Towerz](https://open.spotify.com/artist/1bbah9s09626gweOzzLbKG) | [Distance](https://open.spotify.com/album/7yQtCMYBR5qG1tiuRJT6mW) | 2:12 | 2022-05-20 |  |
 | [do not disturb](https://open.spotify.com/track/4yuWAQTFV7lkWSB8W4V2C5) | [drowsy](https://open.spotify.com/artist/0GlXvaYL6TY3zsZPQBk9sd) | [do not disturb](https://open.spotify.com/album/1aJ8kCdJgdEWEdOKaKtpYh) | 2:03 | 2022-05-20 |  |
@@ -54,7 +54,7 @@
 | [Dream On](https://open.spotify.com/track/4L6P9Nol31bQuNKhAtUZs1) | [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9) | [Dream On](https://open.spotify.com/album/0Qt7DZzOjxddcsTv48VJ5k) | 1:36 | 2022-06-10 | 2022-07-01 |
 | [dreams](https://open.spotify.com/track/4YRmrJ0bFhYfDQQInW52Qb) | [Shane Houghtaling](https://open.spotify.com/artist/1zYSgEq8kLr65eHLGaIUK5) | [still dreams](https://open.spotify.com/album/7G3PuHLBnLpUy7k8ZtqdiK) | 1:20 | 2022-05-20 |  |
 | [Dreemin'](https://open.spotify.com/track/6L4ZXA6ROpbQCF8UlDqZ9A) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Dreemin'](https://open.spotify.com/album/44WEHjidINWRXTcjHP9mF0) | 2:11 | 2022-05-20 |  |
-| [Earth](https://open.spotify.com/track/47grvGTNigrMww35L06LJa) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv) | [Earth](https://open.spotify.com/album/3akTQPLju7tOIB1YRLz3p1) | 0:29 | 2022-05-20 |  |
+| [Earth](https://open.spotify.com/track/47grvGTNigrMww35L06LJa) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv) | [Earth](https://open.spotify.com/album/3akTQPLju7tOIB1YRLz3p1) | 2:30 | 2022-05-20 |  |
 | [elevation](https://open.spotify.com/track/7spTNUW2VouHtkboiO30sF) | [hinako fukushi](https://open.spotify.com/artist/5glOFLmRNoXs1AC2jGYS6j) | [elevation](https://open.spotify.com/album/6bfqiDky9JqXxkfs6VCKst) | 2:10 | 2022-05-20 |  |
 | [ether](https://open.spotify.com/track/4zrOqot4vi27IPPQ7u1B2l) | [kyoshi](https://open.spotify.com/artist/3f07ZRsXK7XDJfccmAJNi1) | [drifting off](https://open.spotify.com/album/7g0HJ1tAmHfR28Bg5hQKVU) | 2:58 | 2022-05-20 |  |
 | [Evening Glow](https://open.spotify.com/track/5YmgGYuvTRawhddL0tesXV) | [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu) | [Evening Glow](https://open.spotify.com/album/7GnD0GoF9I8gMiHJTLgAtD) | 2:29 | 2022-05-27 |  |

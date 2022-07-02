@@ -4,7 +4,7 @@
 
 > Disco, house, funk and soul for the good times.
 
-73 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/4MuRhMJEqvmmTkzoVfHgon)
+73 songs - 5 hr 39 min - [published](https://open.spotify.com/playlist/4MuRhMJEqvmmTkzoVfHgon)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Bamboo Mask](https://open.spotify.com/track/23xJy8COmTLKWsUcj3ng74) | [Boyoca](https://open.spotify.com/artist/2UZMTPwwvwD24gmqjX3OSE) | [Bamboo Mask](https://open.spotify.com/album/2MIf4ISMBARDWX8F5gZ9oz) | 3:43 | 2021-07-24 |  |
 | [Break My Heart / Cosmic Girl \(Dimitri From Paris Edit\) \[Mixed\]](https://open.spotify.com/track/6oCGHGu19poEz8iF3ZXHrj) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid), [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [Club Future Nostalgia \(DJ Mix\)](https://open.spotify.com/album/3W04W2HfQ5kVeByxfjbu2C) | 3:00 | 2021-07-24 |  |
 | [Catching Eyes](https://open.spotify.com/track/3LJ7dXJzZ2umb3Ccsuq5fT) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Catching Eyes](https://open.spotify.com/album/66SXZvXGSD2NEtFSos2HtB) | 4:09 | 2021-07-24 |  |
-| [Cruel Summer \- Part I \(feat\. Zampera & Muttofunk\)](https://open.spotify.com/track/4YTO9Z4RSkQRfCoX6kYNrz) | [North of Loreto](https://open.spotify.com/artist/6FZ6p42HnE0rs0GRRmXuLo), [Zampera & Muttofunk](https://open.spotify.com/artist/1DeIegb677snMXzU6LMLMQ) | [Cruel Summer \(feat\. Zampera & Muttofunk\)](https://open.spotify.com/album/0nrCAUDPvtB9w4p7BAZX3a) | 0:29 | 2021-07-24 |  |
+| [Cruel Summer \- Part I \(feat\. Zampera & Muttofunk\)](https://open.spotify.com/track/4YTO9Z4RSkQRfCoX6kYNrz) | [North of Loreto](https://open.spotify.com/artist/6FZ6p42HnE0rs0GRRmXuLo), [Zampera & Muttofunk](https://open.spotify.com/artist/1DeIegb677snMXzU6LMLMQ) | [Cruel Summer \(feat\. Zampera & Muttofunk\)](https://open.spotify.com/album/0nrCAUDPvtB9w4p7BAZX3a) | 3:05 | 2021-07-24 |  |
 | [Dance baby oh](https://open.spotify.com/track/27hxOtUPvhetUhiHMXCoEQ) | [Basti Grub](https://open.spotify.com/artist/3VAVMUyDwL7FlkivpaMeRh) | [Dance baby oh / Ko sar ra di ep](https://open.spotify.com/album/6FYjgDCCqAk8ANMfEUUX4E) | 6:47 | 2021-07-24 |  |
 | [Desire](https://open.spotify.com/track/3Gn4tklv1fPb6UpCPivw60) | [Froman](https://open.spotify.com/artist/2XmYUy3NJHRuT3hBb8IS76) | [Desire](https://open.spotify.com/album/6ZeIMMCUmFekpbfVlvHpXz) | 3:50 | 2021-07-24 |  |
 | [Desire](https://open.spotify.com/track/0WdiVvjH6uajYCcxPTmsy9) | [Swales](https://open.spotify.com/artist/6XK8QXfi1PLT60pBkFeBy7) | [13th Hour Vol\. 4](https://open.spotify.com/album/36BKV0HxVYyJldaw98fFOK) | 5:54 | 2021-07-24 |  |
@@ -61,7 +61,7 @@
 | [Point One](https://open.spotify.com/track/5G7UKEiJ6MXpsRShpPRarl) | [Demi Riquísimo](https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac) | [Point One](https://open.spotify.com/album/0E0WPv8eP2oV1DNg9bbMxU) | 4:35 | 2021-07-24 | 2022-06-21 |
 | [Ritmo 6](https://open.spotify.com/track/1vJsWeFVitz10PLxpvCTOo) | [Christian S](https://open.spotify.com/artist/0GQQT1VBcDpqgy4qJsRUqo), [Sano](https://open.spotify.com/artist/6DbQX2GURCMS7mNyXR5Ndj) | [Tannin](https://open.spotify.com/album/3zUhds2roiqMd53y36uc62) | 4:59 | 2021-07-24 |  |
 | [Rushing Back](https://open.spotify.com/track/5YSu7cIVCuvbOkDeckjVhL) | [Infinity Ink](https://open.spotify.com/artist/4aulLg9UvpHY9dIRqr30Qh), [Yasmin](https://open.spotify.com/artist/5KEjVMaEdZ1tHgaAIkZCVp) | [Rushing Back](https://open.spotify.com/album/1BU49cvjSWAqnab2VwZPqq) | 3:44 | 2021-07-24 |  |
-| [Sarita Colonia \- Edit](https://open.spotify.com/track/0VNtKhOQZConLZc1GjQckk) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sarita Colonia](https://open.spotify.com/album/0ku4piLs17h4xD7e92FEf6) | 0:29 | 2021-07-24 |  |
+| [Sarita Colonia \- Edit](https://open.spotify.com/track/0VNtKhOQZConLZc1GjQckk) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sarita Colonia](https://open.spotify.com/album/0ku4piLs17h4xD7e92FEf6) | 3:47 | 2021-07-24 |  |
 | [Satisfy Your Fantasy](https://open.spotify.com/track/5ftPNzPPQSm3my65xrZsMa) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Satisfy Your Fantasy](https://open.spotify.com/album/3fZHiJmXFcQCICVudoOVuV) | 7:04 | 2021-07-24 |  |
 | [Seventies](https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ) | 3:16 | 2021-07-24 |  |
 | [Situation](https://open.spotify.com/track/2RBKhwns5udznQu3O8fK4s) | [Infinity Ink](https://open.spotify.com/artist/4aulLg9UvpHY9dIRqr30Qh), [Cedric Gasaida](https://open.spotify.com/artist/0rc2hhdzeHeHmvyUVPnJ3C) | [Situation](https://open.spotify.com/album/5ITWMM5JR1SrpGbzO61hj7) | 3:20 | 2021-07-24 |  |
@@ -73,7 +73,7 @@
 | [The Sea](https://open.spotify.com/track/0vDyt6VTJtFzyfnE9il1pf) | [Crazy Fluke](https://open.spotify.com/artist/1mVwhF4BGCmj165LyEHVKT) | [The Sea](https://open.spotify.com/album/5GutsKyXeAmABV8n6xM3Ea) | 3:14 | 2021-07-24 |  |
 | [This Moment](https://open.spotify.com/track/5dg97Wk0dj5LsywKrVEdRH) | [tade kop](https://open.spotify.com/artist/3hRZovynAos5EBfchVKP1X) | [This Moment](https://open.spotify.com/album/4yJmLaVjw7boUufKOxKHkb) | 7:56 | 2021-07-24 |  |
 | [Tokyo](https://open.spotify.com/track/5ZSqGX8UtroLgLwdvcihmg) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Kayleigh Noble](https://open.spotify.com/artist/5t5cteO6lFQ506pSuFXARH) | [On a Different Page](https://open.spotify.com/album/1tVCrfSA85W4NAeo5vgATR) | 3:55 | 2021-07-24 |  |
-| [Tom's Bar](https://open.spotify.com/track/4KvzDmumgsIpFGAJf9cjG9) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [MOSS](https://open.spotify.com/album/1zpy9y8QLdMYZnHUaMbcPs) | 0:29 | 2021-07-24 |  |
+| [Tom's Bar](https://open.spotify.com/track/4KvzDmumgsIpFGAJf9cjG9) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [MOSS](https://open.spotify.com/album/1zpy9y8QLdMYZnHUaMbcPs) | 4:10 | 2021-07-24 |  |
 | [Turning Point](https://open.spotify.com/track/7acNNBB5PObjYKnRNLH9vR) | [Pandar](https://open.spotify.com/artist/2zZ1SrHD5FqPVXgBIH7Xe1) | [Turning Point](https://open.spotify.com/album/6J5pC5wdHx2ODTdnKlKF0z) | 6:35 | 2022-06-20 |  |
 | [Vesuvio](https://open.spotify.com/track/6d5Ef0SJJxvzafpgKCRFoC) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS) | 4:41 | 2022-06-20 |  |
 | [Walking Away](https://open.spotify.com/track/5vhNn6ZfEXbFMw0qR6Grpn) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Walking Away](https://open.spotify.com/album/2WJYEyGr2q6xUt0jyDuJq1) | 3:01 | 2021-07-24 |  |

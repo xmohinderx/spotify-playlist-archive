@@ -4,7 +4,7 @@
 
 > The perfect soundtrack for when you're having fun in the sun.
 
-50 songs - 2 hr 23 min - [published](https://open.spotify.com/playlist/3LCmoDT9YdMiDU2JUfP0Gb)
+50 songs - 2 hr 25 min - [published](https://open.spotify.com/playlist/3LCmoDT9YdMiDU2JUfP0Gb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Beach Song](https://open.spotify.com/track/1bDMoH8fmHwGRqEBy0v8Eg) | [Dog On Fleas](https://open.spotify.com/artist/4IeVO9BEsrReZNdAtF2h6L) | [Beautiful World](https://open.spotify.com/album/5Ko4WA7utUQPe8HJTDGq5p) | 2:45 | 2021-05-25 |  |
 | [Bird On the Beach](https://open.spotify.com/track/6NFR6PdaSZlsUVnW783hvx) | ["Mrs\. Kate" Carpenter](https://open.spotify.com/artist/7oUHwZ5Zx7NYPvtUh0oSJs) | [Nanatunes](https://open.spotify.com/album/1uShZkpPPa8nATGJcb0rWo) | 4:02 | 2021-05-25 |  |
 | [California Sun](https://open.spotify.com/track/6qpTh8eRZ4wPycoRZvbWnd) | [The Rivieras](https://open.spotify.com/artist/5iIxOyBhMCDCFwAYGM6B3P) | [California Sun \- the Best of the Rivieras](https://open.spotify.com/album/212ZbylSmSvOazpXpR7T60) | 2:26 | 2021-05-25 |  |
-| [Coastal](https://open.spotify.com/track/22ejspKqayOvA7eCzUjFlk) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Hemingway's Whiskey](https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7) | 0:29 | 2021-05-25 |  |
+| [Coastal](https://open.spotify.com/track/22ejspKqayOvA7eCzUjFlk) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Hemingway's Whiskey](https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7) | 2:39 | 2021-05-25 |  |
 | [Enjoy Yourself](https://open.spotify.com/track/2gXudOFrHDzj7D2JqbcFWm) | [Prince Buster](https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB) | [Tutti Frutti](https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm) | 3:05 | 2021-05-25 |  |
 | [Follow the Sun](https://open.spotify.com/track/0fGe6WYDEaC9TQLJt2AqRn) | [Danny Jacob](https://open.spotify.com/artist/3J6ns49mHsAFXgp5EoDJjS), [Laura Dickinson](https://open.spotify.com/artist/24atAUm9yln5x8Os9PEIwv) | [Phineas and Ferb Summer Belongs to You](https://open.spotify.com/album/77jAlhvBI46I7MiMmfsEbF) | 1:22 | 2021-05-25 |  |
 | [Getting a Sunburn](https://open.spotify.com/track/6H7tY1fZgPTAPwl9zhVW16) | [Recess Monkey](https://open.spotify.com/artist/0oXrvAp6NnKeWz1qnKrNLb) | [Desert Island Disc](https://open.spotify.com/album/15bBuB1A3MOOhfbqv45PbS) | 2:32 | 2021-05-25 |  |

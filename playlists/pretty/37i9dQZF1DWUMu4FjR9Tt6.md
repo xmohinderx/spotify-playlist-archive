@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMu4FjR9Tt6.md) - [plain]
 
 > Check out the official playlist from Umbrella Academy\. Watch now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,077 likes - 86 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,352 likes - 86 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMu4FjR9Tt6.md) - [plain]
 | 16 | [We'll Get Through](https://open.spotify.com/track/7qzWNwTdiodHlOMgC1MC5A) | [The Slugs](https://open.spotify.com/artist/2uVd7a7CGDZKUYP4yK7aer) | [Fort Fun](https://open.spotify.com/album/1LSJiyGSX7F27HwJj5bpVq) | 3:16 |
 | 17 | [Bruttosozialprodukt](https://open.spotify.com/track/2jWCLuhLinumCeHiCGONu3) | [Geier Sturzflug](https://open.spotify.com/artist/3vQGJGekBpxyOrob92qTcE) | [Das Beste von Geier Sturzflug](https://open.spotify.com/album/55KUCRFnvEUxWyogeidPex) | 3:02 |
 | 18 | [Let's Be Badder](https://open.spotify.com/track/0hCMEyev24LH0FVUzpwvTa) | [Lucern Raze](https://open.spotify.com/artist/7dI3P00ZhNevHfPf1zYkKn), [Cherry Pickles](https://open.spotify.com/artist/3dIfGgzwaWbsCHA0OhE2mK) | [INTERNATIONAL BREAKDOWN](https://open.spotify.com/album/5bOvLgGiCnEv9hFfqFhE6l) | 2:59 |
-| 19 | [Ride Wit Me](https://open.spotify.com/track/3Gf5nttwcX9aaSQXRWidEZ) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [City Spud](https://open.spotify.com/artist/3L2SIGZah4QZSvN4wC8rHl) | [Country Grammar](https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE) | 0:29 |
+| 19 | [Ride Wit Me](https://open.spotify.com/track/3Gf5nttwcX9aaSQXRWidEZ) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [City Spud](https://open.spotify.com/artist/3L2SIGZah4QZSvN4wC8rHl) | [Country Grammar](https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE) | 4:51 |
 | 20 | [Cats In The Cradle](https://open.spotify.com/track/5x9RZg7HfXGY3JayXL3seF) | [Ugly Kid Joe](https://open.spotify.com/artist/3XsgWn63EnA4wYZBjVyxjf) | [America's Least Wanted](https://open.spotify.com/album/0lQjdBr2n0WQg5sjGzLVfR) | 4:01 |
 | 21 | [Another One Bites The Dust](https://open.spotify.com/track/291RmMazWAmDitFuD6NJCv) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game](https://open.spotify.com/album/1h0j80HhdzIMsUGUFiVkqa) | 3:35 |
 | 22 | [What Makes You a Man](https://open.spotify.com/track/4yrMlE1BpKF0wQqLPtLbDt) | [The Ninth Wave](https://open.spotify.com/artist/7AAthfOGfAvVy4NWGJDiCP) | [What Makes You a Man](https://open.spotify.com/album/7ivtKC42IzUZvdKwRTRuBk) | 3:53 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMu4FjR9Tt6.md) - [plain]
 | 32 | [My Way](https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [My Way \(Expanded Edition\)](https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn) | 4:36 |
 | 33 | [I Wonder What the Future Holds for Me](https://open.spotify.com/track/0ueW3FHaLH1vBVhyBggvCm) | [Glenn Snow](https://open.spotify.com/artist/0Hu4kHEu6FCfA5jUX8XhYa) | [Les Kangas Presents: Somewhere Down the Line](https://open.spotify.com/album/5cdMEqkKSxNg07hyWgV5oZ) | 2:28 |
 | 34 | [Rocket Fuel \(feat\. De La Soul\)](https://open.spotify.com/track/3ZTRTKx8uqpzqqWOA3JyNN) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Rocket Fuel \(feat\. De La Soul\)](https://open.spotify.com/album/5X3i6maFdxK5xyO5bXGoQ6) | 3:15 |
-| 35 | [Be Thankful You're You](https://open.spotify.com/track/2FUCIb2sFCJ6ODJh4knB5Y) | [Fern Jones](https://open.spotify.com/artist/4lCa0KPb4ZCqrVtrfSGAdu) | [The Glory Road](https://open.spotify.com/album/5ekSwa7f9Oaft4iMjs1P4J) | 0:29 |
+| 35 | [Be Thankful You're You](https://open.spotify.com/track/2FUCIb2sFCJ6ODJh4knB5Y) | [Fern Jones](https://open.spotify.com/artist/4lCa0KPb4ZCqrVtrfSGAdu) | [The Glory Road](https://open.spotify.com/album/5ekSwa7f9Oaft4iMjs1P4J) | 2:26 |
 | 36 | [Crazy](https://open.spotify.com/track/47jgSvqlKwGyBLPnMfeEZN) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Crazy](https://open.spotify.com/album/0hOdcKXM4riRXmpyo71SFs) | 4:02 |
 | 37 | [Comin' Home Baby](https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Comin' Home Baby](https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22) | 2:45 |
 | 38 | [You Only Want Me When You're Lonely](https://open.spotify.com/track/2rPV7Qofx9EVqW1EKfIHWB) | [Jim Boyd](https://open.spotify.com/artist/1xv0CwhbbNJfGSRDhndfRi) | [Mascot Records Retrospective, Vol\. 2](https://open.spotify.com/album/2uiRLhcycNyjkYT9qDyQyl) | 2:12 |

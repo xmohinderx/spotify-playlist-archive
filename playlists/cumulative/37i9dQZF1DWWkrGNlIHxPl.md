@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Ghaliaa.
 
-170 songs - 9 hr 55 min - [published](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
+170 songs - 10 hr 2 min - [published](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,11 +129,11 @@
 | [Real Lies \(feat\. CKay\)](https://open.spotify.com/track/0rl5IsgPdYePNorHS9OpnS) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Real Lies \(feat\. CKay\)](https://open.spotify.com/album/33QYFtxtg8mvCC68p9QPa5) | 3:38 | 2021-12-16 |  |
 | [Rebirth](https://open.spotify.com/track/7LHcVG6sqmKMFK5WAV2ON5) | [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF), [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS), [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK) | [Temporis](https://open.spotify.com/album/0uEoafTA875Dqw6hJDlrJ5) | 3:29 | 2021-12-16 | 2022-05-05 |
 | [Red Zone](https://open.spotify.com/track/0OYnkVivn0i88HIa7mJ85E) | [Not.Fay](https://open.spotify.com/artist/5oBXBDfbDztCCPGHXqJKUo) | [Red Zone](https://open.spotify.com/album/3ceAEqR5KpNa9IEQBycYti) | 2:11 | 2021-12-16 | 2022-06-07 |
-| [Rendez\-Vous x Majnoun](https://open.spotify.com/track/6eOhXkbRGm2TzxK5CLwc3L) | [Remenkimi](https://open.spotify.com/artist/2a74TnBcE6jS42Rt1VeDFw), [I.Y](https://open.spotify.com/artist/6ZA0S3R04Zur6LBPYWfwUZ) | [Rendez\-Vous x Majnoun](https://open.spotify.com/album/0qAAE5IPZ2SPdnhX3wrTg2) | 0:29 | 2021-12-16 |  |
+| [Rendez\-Vous x Majnoun](https://open.spotify.com/track/6eOhXkbRGm2TzxK5CLwc3L) | [Remenkimi](https://open.spotify.com/artist/2a74TnBcE6jS42Rt1VeDFw), [I.Y](https://open.spotify.com/artist/6ZA0S3R04Zur6LBPYWfwUZ) | [Rendez\-Vous x Majnoun](https://open.spotify.com/album/0qAAE5IPZ2SPdnhX3wrTg2) | 4:16 | 2021-12-16 |  |
 | [Rien](https://open.spotify.com/track/4KP2aiFQnMQLpY80rveHki) | [Mehdi Bahmad](https://open.spotify.com/artist/2JSanFrSbCNhXIolgRbW9T) | [Rien](https://open.spotify.com/album/52Yfa90MAL7z1dG979wDx9) | 3:07 | 2021-12-16 |  |
 | [Right There](https://open.spotify.com/track/06Xzb5VNN5wE9MWNEF84Fa) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [Right There](https://open.spotify.com/album/5GsOXbdCXVhIemXulDWOM9) | 3:59 | 2021-12-16 | 2021-12-31 |
 | [RIP, Love](https://open.spotify.com/track/3sYZo4HrHX8tkul5FhUpVo) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [RIP, Love](https://open.spotify.com/album/1gTmjLH8mcfzQsKSG8piVX) | 2:53 | 2022-04-01 |  |
-| [Saudi Most Wanted](https://open.spotify.com/track/6k2J7DVv8lwAW0XXUPMVQv) | [$kinny](https://open.spotify.com/artist/1DwFdML6JPf7SSeXmSRnVN) | [Saudi Most Wanted](https://open.spotify.com/album/2so57oOfGe2N1p42xc4qg7) | 0:29 | 2022-03-11 |  |
+| [Saudi Most Wanted](https://open.spotify.com/track/6k2J7DVv8lwAW0XXUPMVQv) | [$kinny](https://open.spotify.com/artist/1DwFdML6JPf7SSeXmSRnVN) | [Saudi Most Wanted](https://open.spotify.com/album/2so57oOfGe2N1p42xc4qg7) | 2:28 | 2022-03-11 |  |
 | [Say Hi To My Demons \(feat\. Dounia\)](https://open.spotify.com/track/1QzEynjWm4RPAmFUZsYZVN) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F), [Dounia](https://open.spotify.com/artist/4fJsnm9CeDAPrwO4MAEToj) | [Say Hi To My Demons](https://open.spotify.com/album/6kvEYQBniePtBTOTXYukBC) | 3:18 | 2022-05-13 |  |
 | [Sbaart Ou Tal Adabi](https://open.spotify.com/track/7HhieX1dqISjpteFs5w7Xb) | [Cheb Hasni](https://open.spotify.com/artist/6AqjzYRx9TeJDzKhkSSHFx) | [Le Roi De La Chanson Sentimentale](https://open.spotify.com/album/0TVQRDpUZSicrhCoG65XAA) | 5:46 | 2022-06-06 | 2022-06-24 |
 | [Selfish](https://open.spotify.com/track/1hzlrszIYah7vFitAl5cji) | [NOVO](https://open.spotify.com/artist/430UrfL5PTV5Y5elsZtq6a) | [Love or Madness](https://open.spotify.com/album/49ICK38Ot22Q0F0Hw3njDD) | 3:05 | 2021-12-16 |  |
@@ -169,7 +169,7 @@
 | [what if i took it off for you?](https://open.spotify.com/track/72HyixZAVyNR3Ljiuumgyo) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [what if i took it off for you?](https://open.spotify.com/album/5P7z9fzcQIrPe1KdONkcRM) | 2:16 | 2021-12-16 |  |
 | [Why Lie to Me ?](https://open.spotify.com/track/5goo9FGyGlOMD24BdippCs) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Why Lie to Me ?](https://open.spotify.com/album/0Ne2F8JgYKBxjY1zVYA6aA) | 2:33 | 2022-06-23 |  |
 | [Wild Things](https://open.spotify.com/track/0PHHyXwgVznLS35CqxZbIT) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Wild Things](https://open.spotify.com/album/7hwGpdnsIK7vnmbiaSXXVD) | 3:11 | 2022-03-29 |  |
-| [Wild Trance](https://open.spotify.com/track/3v6BuQKmmwaWxuaKX4O7Lq) | [Nader Khalil](https://open.spotify.com/artist/1rBA9ijYVAVzqbBCet7hDi) | [Wild Trance](https://open.spotify.com/album/4KY5L36S4tzI3lX5lXxdML) | 0:29 | 2022-01-24 |  |
+| [Wild Trance](https://open.spotify.com/track/3v6BuQKmmwaWxuaKX4O7Lq) | [Nader Khalil](https://open.spotify.com/artist/1rBA9ijYVAVzqbBCet7hDi) | [Wild Trance](https://open.spotify.com/album/4KY5L36S4tzI3lX5lXxdML) | 1:44 | 2022-01-24 |  |
 | [worth it](https://open.spotify.com/track/4l1IwENWYhTx0PGnPhRHXV) | [Ss.hh.a.n.a](https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE), [Guy Manoukian](https://open.spotify.com/artist/7cSr0LrHabJyfJRCEfoB00) | [worth it](https://open.spotify.com/album/5rFVbxtfvGLdyjaaU1K4gu) | 3:24 | 2021-12-16 |  |
 | [Xbox](https://open.spotify.com/track/0D96Qm09CDTxfu85rkpZwO) | [Ramriddlz](https://open.spotify.com/artist/3fHjwMnkM9ov8CozqkYxWY) | [Xbox](https://open.spotify.com/album/0VTpElYxz599FWApgxZk86) | 1:51 | 2022-05-04 | 2022-05-27 |
 | [Ya Hilwe \- Dance With Me Now](https://open.spotify.com/track/7626wm4ng8sQYhRJXUFmJn) | [Karl Wolf](https://open.spotify.com/artist/1aVH8BgQhW8TT5hgNGwLc7), [Sandy](https://open.spotify.com/artist/2YvRrakSWfzyWwv8JCeeC5) | [Ya Hilwe \(Dance With Me Now\)](https://open.spotify.com/album/18NmOiAYayTSHZrNnFMJji) | 3:40 | 2021-12-16 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2EcSH9oZNzBmGDNqoTdvBJ.md) - [plain]
 
 > We married women only seem to have about four taste buds left: one for vodka, one for wine, one for cheese, and one for chocolate\. This list is for us\. Add friends, uncork, and enjoy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349 likes - 53 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 349 likes - 53 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/2EcSH9oZNzBmGDNqoTdvBJ.md) - [plain]
 | 41 | [Dancing Queen](https://open.spotify.com/track/2rgqPSIRAfaO2MGo9smdSX) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [ABBA Gold](https://open.spotify.com/album/2rp5riHULWgrXPsDtsp1ir) | 3:51 |
 | 42 | [Survivor](https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9) | 4:14 |
 | 43 | [Bitch](https://open.spotify.com/track/3i6qNxyVgIdUZTTi5m25EM) | [Meredith Brooks](https://open.spotify.com/artist/2QmLFuIDtNDmmJY3OtvinN) | [Blurring The Edges](https://open.spotify.com/album/56viTB3cu7FbFwAWDctRz1) | 4:12 |
-| 44 | [Girlfriend](https://open.spotify.com/track/5HbCnVLXRyZVxnreOPgJCK) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing](https://open.spotify.com/album/5dfbrFuG8lfC4Yi75J8NmK) | 0:29 |
+| 44 | [Girlfriend](https://open.spotify.com/track/5HbCnVLXRyZVxnreOPgJCK) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing](https://open.spotify.com/album/5dfbrFuG8lfC4Yi75J8NmK) | 3:36 |
 | 45 | [U + Ur Hand](https://open.spotify.com/track/7hH0SbMx1MeAh2C09v48FW) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Greatest Hits...So Far!!!](https://open.spotify.com/album/3nR5vEcIp8UzOJgkw8G8yX) | 3:34 |
 | 46 | [One Week](https://open.spotify.com/track/6R2QkjqfhsQhn3MsTYvMEz) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Hits from Yesterday & the Day Before](https://open.spotify.com/album/1688ZIcsPfE49MucDVRCyU) | 2:49 |
 | 47 | [Till I Get To You](https://open.spotify.com/track/4TxcMyiGTBCNmswmxhRHvF) | [Nikka Costa](https://open.spotify.com/artist/6vUjpCAR58MB3Jq2TsKUmK) | [can'tneverdidnothin'](https://open.spotify.com/album/5EqT0pCJcZJqmYHfwQtPQp) | 3:17 |

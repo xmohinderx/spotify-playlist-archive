@@ -4,7 +4,7 @@
 
 > The best jazz new releases\. Photo : Melody Gardot
 
-98 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/3rs0g3vcnj4aI2NKRtpM5z)
+98 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/3rs0g3vcnj4aI2NKRtpM5z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Delta Lady](https://open.spotify.com/track/2LU7TTi6IBhCwn3g1vyQ1N) | [Peter Cincotti](https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F) | [Delta Lady](https://open.spotify.com/album/7dJygQ3xuMrppaDbrBeJYL) | 3:03 | 2022-06-30 |  |
 | [Dirty Mariposa](https://open.spotify.com/track/7hiCGd7VM7ToeLZgo0Mvo7) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [Moonlight Love Affair](https://open.spotify.com/album/1AJhYeele3DMImHJ0SzVPp) | 5:24 | 2022-04-28 |  |
 | [Don't Get Me Wrong](https://open.spotify.com/track/0vfBaLwvkYWkmJ6OSDsDK4) | [Youn Sun Nah](https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj) | [Waking World](https://open.spotify.com/album/1me0ZAt5S63Z4dmf4hzJsQ) | 3:30 | 2022-04-14 | 2022-04-29 |
-| [El Jonito](https://open.spotify.com/track/4LvpjpTB9SJEVNINopueyX) | [Laurent Coulondre](https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV), [Martin Wangermée](https://open.spotify.com/artist/6Cko0OY4MlDWb57nLFMV4q), [Alexis Bourguignon](https://open.spotify.com/artist/3KbkoymkBIQF812bJQYPPE), [Robinson Khoury](https://open.spotify.com/artist/1L0xfJpihhDB3N8GEbmV6J), [Stéphane Guillaume](https://open.spotify.com/artist/2JmUauyONacBoIcYvSggJr), [Lucas Saint\-Cricq](https://open.spotify.com/artist/7AB1iv55p57sSmfa9d7GsI), [Nicolas Folmer](https://open.spotify.com/artist/42oVkAbF0mIgvyFEIfeUUQ), [Adriano Dos Santos Tenorio](https://open.spotify.com/artist/4s4GAWdKDa4sB0wQpA70lS), [Jeremy Bruyere](https://open.spotify.com/artist/27B9cx6PSADN8csmFRU0Tj) | [El Jonito](https://open.spotify.com/album/6ssT3ZX7pn4Ud0V1JWeHuW) | 0:29 | 2022-06-02 |  |
+| [El Jonito](https://open.spotify.com/track/4LvpjpTB9SJEVNINopueyX) | [Laurent Coulondre](https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV), [Martin Wangermée](https://open.spotify.com/artist/6Cko0OY4MlDWb57nLFMV4q), [Alexis Bourguignon](https://open.spotify.com/artist/3KbkoymkBIQF812bJQYPPE), [Robinson Khoury](https://open.spotify.com/artist/1L0xfJpihhDB3N8GEbmV6J), [Stéphane Guillaume](https://open.spotify.com/artist/2JmUauyONacBoIcYvSggJr), [Lucas Saint\-Cricq](https://open.spotify.com/artist/7AB1iv55p57sSmfa9d7GsI), [Nicolas Folmer](https://open.spotify.com/artist/42oVkAbF0mIgvyFEIfeUUQ), [Adriano Dos Santos Tenorio](https://open.spotify.com/artist/4s4GAWdKDa4sB0wQpA70lS), [Jeremy Bruyere](https://open.spotify.com/artist/27B9cx6PSADN8csmFRU0Tj) | [El Jonito](https://open.spotify.com/album/6ssT3ZX7pn4Ud0V1JWeHuW) | 3:41 | 2022-06-02 |  |
 | [Family](https://open.spotify.com/track/1QrcomVagx1mGbtibRpiGt) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Family](https://open.spotify.com/album/0wfWEejlAeco0LVkpjt4fR) | 2:53 | 2022-04-21 |  |
 | [For Real](https://open.spotify.com/track/7vWCDnCsVZZAJiMdYEAD2r) | [Arnaud Dolmen](https://open.spotify.com/artist/4poxrHwFvg05NhT3TDNRtm) | [Adjusting](https://open.spotify.com/album/4iYFLD07bHFqZgf86aloFZ) | 4:44 | 2022-04-14 | 2022-06-10 |
 | [Fragile](https://open.spotify.com/track/4cvQBhqjopA89EikPX5ohP) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/38niOCuDsxhw0jIGL6Q2Ph) | 3:40 | 2022-04-28 | 2022-06-17 |

@@ -1,12 +1,12 @@
 {
   "description": "All live, all jazz. Cover: Erroll Garner",
-  "num_followers": 2665,
+  "num_followers": 2671,
   "original_name": "Jazz Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQzODUyMCwwMDAwMDAxODAwMDAwMTgxNmZkMzJmOTkwMDAwMDE3ZDlhNmU1YTBj",
+  "snapshot_id": "MTY1NjY0ODEyMCwwMDAwMDAxOTAwMDAwMTgxYjdlYzM3MzkwMDAwMDE3ZDlhNmU1YTBj",
   "tracks": [
     {
       "added_at": "2022-06-17 04:02:00",
@@ -39,6 +39,30 @@
       "duration_ms": 455792,
       "name": "Pops (AKA When the Saints Go Marching In) - Live",
       "url": "https://open.spotify.com/track/6FbS0wgTrEHAB7O7xVo7dx"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Heart Song (Live)",
+        "url": "https://open.spotify.com/album/5abUJ9e8YQ1nuLvldIk96e"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren Lee",
+          "url": "https://open.spotify.com/artist/6GyDK2ZWQXmx7sb3ltOvgJ"
+        },
+        {
+          "name": "Niclas Campagnol",
+          "url": "https://open.spotify.com/artist/1VqIpsJWDzAFIxWXCGCLuL"
+        },
+        {
+          "name": "Linley Marthe",
+          "url": "https://open.spotify.com/artist/1gn2Mn6Rn5RD29DcdE8CLo"
+        }
+      ],
+      "duration_ms": 429466,
+      "name": "Heart Song - Live",
+      "url": "https://open.spotify.com/track/4auFbiuMrpvqxs3237Asgn"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -368,7 +392,7 @@
           "url": "https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 645552,
       "name": "Cherokee",
       "url": "https://open.spotify.com/track/1koEJOJBQfadRG5nvQxg8w"
     },

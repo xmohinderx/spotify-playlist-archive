@@ -4,7 +4,7 @@
 
 > Feline\-friendly tracks curated by musicologist <a href="spotify:artist:0TMyZy9NGJJ7NKMAgCgw6B">David Teie</a>, who pioneered scientifically researched music for cats.
 
-33 songs - 2 hr 17 min - [published](https://open.spotify.com/playlist/3aC2CwoMZV4vaqzE3DlaQB)
+33 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/3aC2CwoMZV4vaqzE3DlaQB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,8 +21,8 @@
 | [Goldberg Variations, BWV 988: Variation 7 a 1 ovvero 2 Clav\. \- 1955 Version](https://open.spotify.com/track/30JuGvGfyl4bxuyo9OB1N4) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [A State of Wonder: The Complete Goldberg Variations, BWV 988 \(Recorded 1955 & 1981\)](https://open.spotify.com/album/6RkddyAzYq3QNZqdAhxPxF) | 1:08 | 2020-01-10 |  |
 | [Highlands](https://open.spotify.com/track/5lszZIR5GNQubgdMefwp2T) | [Steve Jones Swiff](https://open.spotify.com/artist/3z1Zuq8iUJqouUmX3ugLml) | [Highlands](https://open.spotify.com/album/3dIFhoR2URHhpLMEVrv4eC) | 2:05 | 2020-01-10 |  |
 | [In my quiet hour](https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk) | [Nicholas Sipka](https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4) | [In My Quiet Hour](https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN) | 2:06 | 2020-01-10 |  |
-| [Katey Moss Catwalk](https://open.spotify.com/track/0KElSYgAOjxKY5M3onAD2i) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Music for Cats Album One](https://open.spotify.com/album/2qgWuthZzRA3fJoecnwzs7) | 0:29 | 2020-01-10 |  |
-| [Lolo's Air](https://open.spotify.com/track/6EcUEkTUH7OlAi9Uu94kbm) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Music for Cats Album One](https://open.spotify.com/album/2qgWuthZzRA3fJoecnwzs7) | 0:29 | 2020-01-10 |  |
+| [Katey Moss Catwalk](https://open.spotify.com/track/0KElSYgAOjxKY5M3onAD2i) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Music for Cats Album One](https://open.spotify.com/album/2qgWuthZzRA3fJoecnwzs7) | 8:38 | 2020-01-10 |  |
+| [Lolo's Air](https://open.spotify.com/track/6EcUEkTUH7OlAi9Uu94kbm) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Music for Cats Album One](https://open.spotify.com/album/2qgWuthZzRA3fJoecnwzs7) | 6:15 | 2020-01-10 |  |
 | [Luna and June's Purrfect Harmony](https://open.spotify.com/track/7zqaY1x1PeKnFtLAhzYXtJ) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Music for Cats Album Two](https://open.spotify.com/album/1qFiqPsxCwQ3Ty5mC5YogI) | 5:44 | 2020-01-10 |  |
 | [Maurice's Melody](https://open.spotify.com/track/2HGTsS8Yo8AorkIQT3SZog) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Music for Cats Album Two](https://open.spotify.com/album/1qFiqPsxCwQ3Ty5mC5YogI) | 4:12 | 2020-01-10 |  |
 | [Morgensol](https://open.spotify.com/track/6aJcjGsNvyivFBeBaigFXQ) | [Bolethe Kristensen](https://open.spotify.com/artist/5FdY1HR5TdShBfxywCliMI) | [Morgensol](https://open.spotify.com/album/1CiembCAvOPBFHRbZe8cLk) | 1:45 | 2020-01-10 |  |
@@ -36,10 +36,10 @@
 | [Potato's Song](https://open.spotify.com/track/4YVXr7tpEZVGnWlYMtNjQQ) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Music for Cats Album Two](https://open.spotify.com/album/1qFiqPsxCwQ3Ty5mC5YogI) | 11:49 | 2020-01-10 |  |
 | [Quasar](https://open.spotify.com/track/5NM4frO8ccRVxXKW0kZaAk) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Quasar](https://open.spotify.com/album/3RoE8ap3HZwtp16hHXMEEE) | 4:18 | 2020-01-10 |  |
 | [Rusty's Ballad](https://open.spotify.com/track/2GB1uEIsHWNoXldwN6mtyI) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Rusty's Ballad](https://open.spotify.com/album/0TSPCRCHOY6rnGxcCklrxF) | 3:21 | 2020-01-10 |  |
-| [Scintillans](https://open.spotify.com/track/4zI7J4c58Br1tY10NDyhlR) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Yoga Gong Karma](https://open.spotify.com/album/1T9xagnSXjguJIoXiidlly) | 3:40 | 2020-01-10 |  |
-| [Scooter Bere's Aria](https://open.spotify.com/track/1HGXgoIBnDnf6izseOBiiI) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Music for Cats Album One](https://open.spotify.com/album/2qgWuthZzRA3fJoecnwzs7) | 0:29 | 2020-01-10 |  |
-| [Simon Says](https://open.spotify.com/track/3eUde69UEDub59LN6d3V0d) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Music for Cats Album One](https://open.spotify.com/album/2qgWuthZzRA3fJoecnwzs7) | 0:29 | 2020-01-10 |  |
+| [Scintillans](https://open.spotify.com/track/4zI7J4c58Br1tY10NDyhlR) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Yoga Gong Karma](https://open.spotify.com/album/1T9xagnSXjguJIoXiidlly) | 0:29 | 2020-01-10 |  |
+| [Scooter Bere's Aria](https://open.spotify.com/track/1HGXgoIBnDnf6izseOBiiI) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Music for Cats Album One](https://open.spotify.com/album/2qgWuthZzRA3fJoecnwzs7) | 17:50 | 2020-01-10 |  |
+| [Simon Says](https://open.spotify.com/track/3eUde69UEDub59LN6d3V0d) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Music for Cats Album One](https://open.spotify.com/album/2qgWuthZzRA3fJoecnwzs7) | 11:47 | 2020-01-10 |  |
 | [Spook's Ditty](https://open.spotify.com/track/50UO61QfF5DuAkegNrFzOv) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Spook's Ditty](https://open.spotify.com/album/4BNnFQGH2sQxxQZBxSuQxI) | 1:55 | 2020-01-10 |  |
-| [Tigerlili and Mimi's Mewsical](https://open.spotify.com/track/1NxgrJyQh1KTSslKIpieCi) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Music for Cats Album One](https://open.spotify.com/album/2qgWuthZzRA3fJoecnwzs7) | 0:29 | 2020-01-10 |  |
+| [Tigerlili and Mimi's Mewsical](https://open.spotify.com/track/1NxgrJyQh1KTSslKIpieCi) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Music for Cats Album One](https://open.spotify.com/album/2qgWuthZzRA3fJoecnwzs7) | 5:36 | 2020-01-10 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

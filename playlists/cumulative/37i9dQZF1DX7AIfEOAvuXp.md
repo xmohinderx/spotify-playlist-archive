@@ -4,11 +4,11 @@
 
 > Introducing the Fresh Finds Class of 2020\. Editors' picks of the top Fresh Finds this year.
 
-102 songs - 5 hr 2 min - [published](https://open.spotify.com/playlist/1giw7CrUS9tqrBMopkrkJg)
+102 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/1giw7CrUS9tqrBMopkrkJg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [& Cry!](https://open.spotify.com/track/1Kz558WodSH2k1RI3QRBfz) | [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [& Cry!](https://open.spotify.com/album/2ozN6WSOV1MMQPlpUf6Mdd) | 0:29 | 2020-12-07 |  |
+| [& Cry!](https://open.spotify.com/track/1Kz558WodSH2k1RI3QRBfz) | [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [& Cry!](https://open.spotify.com/album/2ozN6WSOV1MMQPlpUf6Mdd) | 2:49 | 2020-12-07 |  |
 | [\(BLACK\)PLANET](https://open.spotify.com/track/7oCnWqmhuAIDnjWnBIuucm) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [\(BLACK\)PLANET](https://open.spotify.com/album/1LNUG7AMp0nJtHxYY1ObAW) | 1:53 | 2020-12-07 |  |
 | [100 Rounds](https://open.spotify.com/track/5sJwRlYM8Wg9vGrfe0FNTO) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [100 Rounds](https://open.spotify.com/album/405f18dnyh3ElPJj1tkshp) | 2:12 | 2020-12-07 |  |
 | [777](https://open.spotify.com/track/5GfNUR8fEjBWVj7NDhFbSl) | [Skeleton Club](https://open.spotify.com/artist/0mOedQDhVFd4i2a69wDR2R) | [777](https://open.spotify.com/album/67xksZSESsdyA8fWQyeUy1) | 2:47 | 2020-12-07 |  |
@@ -32,7 +32,7 @@
 | [Colors We Made](https://open.spotify.com/track/1EWK3hODDw0DaiS5ffsPO7) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Permanent Beta](https://open.spotify.com/album/4s22gKBrVyGtFSXez21EWV) | 2:50 | 2020-12-07 |  |
 | [Come Over](https://open.spotify.com/track/0gTqEEZKoCn53BZAU1A4DG) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sunset Visionary, Vol\. 1](https://open.spotify.com/album/1AQvLVWkgAxzSa8zJbYkdW) | 2:15 | 2020-12-07 |  |
 | [commitment issues](https://open.spotify.com/track/36GBhsSpQjDbKTJLbABa8D) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [commitment issues](https://open.spotify.com/album/2AL3lyYodRuYfBU5M9MdAL) | 2:50 | 2020-12-07 |  |
-| [Crunch](https://open.spotify.com/track/5YEt6KT2JuTI62ehTcgWTS) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [Crunch](https://open.spotify.com/album/2jqxS9oJnNlgfXIhUeLdyi) | 0:29 | 2020-12-07 |  |
+| [Crunch](https://open.spotify.com/track/5YEt6KT2JuTI62ehTcgWTS) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [Crunch](https://open.spotify.com/album/2jqxS9oJnNlgfXIhUeLdyi) | 3:21 | 2020-12-07 |  |
 | [Darcy](https://open.spotify.com/track/0GS5GAoxVPeTWa8fV8j1mq) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Darcy](https://open.spotify.com/album/3QfHn3nLiI8UQyqGjfFDYL) | 3:24 | 2020-12-07 |  |
 | [DOLORES](https://open.spotify.com/track/7DTpAigYPkkjZJlKkdEqjZ) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [DOLORES](https://open.spotify.com/album/2ra0LCOVW2fbrf5oykQNDh) | 4:10 | 2020-12-07 |  |
 | [Don't Be Afraid](https://open.spotify.com/track/0jkaODlyaMJHj0wu4nUL7f) | [Tycho Jones](https://open.spotify.com/artist/040Wu7p6ehPK6ozMgKd5dm) | [Don't Be Afraid](https://open.spotify.com/album/2JW7OQd2ZQThQs9Or6eGlS) | 3:33 | 2020-12-07 |  |
@@ -83,7 +83,7 @@
 | [ROXY](https://open.spotify.com/track/1ijJsS6VCiJXGgHtLHmrCx) | [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Lavender](https://open.spotify.com/album/0o1r2elNdzE964UNjJp6OG) | 3:25 | 2020-12-07 |  |
 | [Sansevieria](https://open.spotify.com/track/28V06ats2bx8OCdh9DBBOR) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/5ADF8juLhrC8IerOq4G6e5) | 4:24 | 2020-12-07 |  |
 | [Sensitive](https://open.spotify.com/track/6Vo8KwBWXiKwHa4bz4XWht) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Sensitive](https://open.spotify.com/album/3Zx1LH7RSNIsrctDzs0VJF) | 2:54 | 2020-12-07 |  |
-| [SG Lou](https://open.spotify.com/track/2fkWyHBfRt87VD2Iilb6AM) | [Lucca Dohr](https://open.spotify.com/artist/6LaE3kwUey4mWfJ7tvjCe9) | [SG Lou](https://open.spotify.com/album/1jBjIutXhOUYpAWrveficC) | 0:29 | 2020-12-07 |  |
+| [SG Lou](https://open.spotify.com/track/2fkWyHBfRt87VD2Iilb6AM) | [Lucca Dohr](https://open.spotify.com/artist/6LaE3kwUey4mWfJ7tvjCe9) | [SG Lou](https://open.spotify.com/album/1jBjIutXhOUYpAWrveficC) | 3:52 | 2020-12-07 |  |
 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 | 2020-12-07 |  |
 | [Sola](https://open.spotify.com/track/237dlPXLNIsatIRYKRbCWN) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Sola](https://open.spotify.com/album/09Uf3mvkEMJZor5YsOP4dk) | 3:18 | 2020-12-07 |  |
 | [Something of Myself](https://open.spotify.com/track/4T02NiYLYcbo9dc8EaCTft) | [Peter Fenn](https://open.spotify.com/artist/6gMyLqdBGrHjR8TdCutVIP) | [Something of Myself](https://open.spotify.com/album/59dFtPXWWy9hRv2elKoN03) | 2:18 | 2020-12-07 |  |

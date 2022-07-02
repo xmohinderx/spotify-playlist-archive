@@ -832,6 +832,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189462,
+      "name": "DO 4 LOVE",
+      "url": "https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS"
+    },
+    {
+      "album": {
         "name": "Down For It",
         "url": "https://open.spotify.com/album/0C83wme433FLhE95M4JbvG"
       },
@@ -879,7 +897,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 182552,
       "name": "dreaming",
       "url": "https://open.spotify.com/track/6mjCfixEcMad2k7OiMLhMJ"
@@ -1167,7 +1185,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 194303,
       "name": "Fool For You",
       "url": "https://open.spotify.com/track/3pEGNvJWWAfDSuUrQjEpEV"
@@ -1769,7 +1787,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 247054,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/46aSz462xUFxA5X4O6WlB0"
@@ -1985,7 +2003,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 270708,
       "name": "Later",
       "url": "https://open.spotify.com/track/0MuaRi77N4gPEfVkuooxqS"
@@ -2597,7 +2615,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 164266,
       "name": "Night Terrific! (feat. Yaqob)",
       "url": "https://open.spotify.com/track/1wQxWFfARHkHVPd9PnZiKU"
@@ -2731,7 +2749,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 182893,
       "name": "Orlando",
       "url": "https://open.spotify.com/track/1H8BKN1WYV6AW1kghI3ldP"
@@ -3411,7 +3429,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 227673,
       "name": "Slow Down (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/6EsOT4Yq4BavQSJ4sEe9dw"
@@ -3542,7 +3560,7 @@
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 176026,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/08iNtav9HI11DXYv33dJc9"
     },
@@ -3658,7 +3676,7 @@
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 255906,
       "name": "SULA (Paperback)",
       "url": "https://open.spotify.com/track/1vTfSWBXwH0Aih8vpTu0xi"
     },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 
 > Lovingly updated every week\.  Make sure to click the heart 💓 to follow the playlist
 
-[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,296 likes - 47 songs - 2 hr 57 min
+[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,298 likes - 47 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 | 25 | [Vision Quest](https://open.spotify.com/track/78muRkn22ADBNBwDmDg4VM) | [Ternion Sound](https://open.spotify.com/artist/5sZGZj7wvhCwlG6KBvG90a) | [Vision Quest](https://open.spotify.com/album/3h04FoSQ3lsjPI1V0Qo0Wo) | 4:41 |
 | 26 | [Love Note](https://open.spotify.com/track/499OtEO8DgeETgRzvox80I) | [Khiva](https://open.spotify.com/artist/3cH0fKXiWesYFzqJwiWlAD) | [Love Note](https://open.spotify.com/album/3NXDPwCwIyFbZuFIhFIyym) | 5:00 |
 | 27 | [DNA](https://open.spotify.com/track/6igOu1dKezn6cqJgAoXuAo) | [Hatcha](https://open.spotify.com/artist/6uKJAfwWvzUrpHovtyaPet) | [HATCHED 051](https://open.spotify.com/album/39sdmhLnB00K0Qx22LCpMW) | 5:39 |
-| 28 | [Midnight Angler](https://open.spotify.com/track/6jjG4Hhpggq0LuQGz22r1a) | [Cam Lasky](https://open.spotify.com/artist/2UWIVc2ZEBbdoFjOYf4yph) | [Kyoka Hyaku 013 Midnight Angler](https://open.spotify.com/album/0KcMkmJGnpSBfo9PlNGHNx) | 0:29 |
+| 28 | [Midnight Angler](https://open.spotify.com/track/6jjG4Hhpggq0LuQGz22r1a) | [Cam Lasky](https://open.spotify.com/artist/2UWIVc2ZEBbdoFjOYf4yph) | [Kyoka Hyaku 013 Midnight Angler](https://open.spotify.com/album/0KcMkmJGnpSBfo9PlNGHNx) | 4:17 |
 | 29 | [Mangal Sound \- Cesco Remix](https://open.spotify.com/track/61t8KC9k8RCY8ogEWqlrqh) | [Oddkut](https://open.spotify.com/artist/45ME91Qyv7XQQk0SBaSxgQ), [Hotcut](https://open.spotify.com/artist/2LOBWnVyFlt96KFUF4nieL), [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3) | [DUPLOC WAR DUBS 2](https://open.spotify.com/album/4ZcTmuD4WEUrGc9Rx3bjZb) | 5:36 |
 | 30 | [Golden Era](https://open.spotify.com/track/1jphn6lBvNra4vq0jssen2) | [MiM0SA](https://open.spotify.com/artist/5BTlwnHtDmzpMj0URbp4Ur) | [369](https://open.spotify.com/album/0huaoBCZBy6A0kPy34teUE) | 3:11 |
 | 31 | [Voice \- Mystic State Remix](https://open.spotify.com/track/7zEoRwiXCVFW3xA07RJGBS) | [Opus](https://open.spotify.com/artist/7gdAc6xAf30x3jD2UFbKK7), [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4) | [Voice \(Mystic State Remix\)](https://open.spotify.com/album/48TlLtMlyiMm8yI7OdJX2P) | 4:13 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 | 41 | [Inferno](https://open.spotify.com/track/1MGrP7eLvfLDKMmAiEcufm) | [Ringtone Murder](https://open.spotify.com/artist/6DQVEV3tyaBDdb0Z7Z2cKh) | [Inferno](https://open.spotify.com/album/4cvjwU0s2yLAHmKDGbPcGY) | 3:01 |
 | 42 | [MULTIVERSE](https://open.spotify.com/track/23oOs4H4jRkYCSwOf7MApd) | [Sky Suite](https://open.spotify.com/artist/0D3OutokoXMRF8kwCPpJZc) | [MULTIVERSE](https://open.spotify.com/album/1a63sK5PcSjgbceKc5u0oU) | 4:15 |
 | 43 | [333](https://open.spotify.com/track/1hF1acUnz0dqh0RszUsHbF) | [MiM0SA](https://open.spotify.com/artist/5BTlwnHtDmzpMj0URbp4Ur) | [369](https://open.spotify.com/album/0huaoBCZBy6A0kPy34teUE) | 3:08 |
-| 44 | [Cosmos](https://open.spotify.com/track/34KsxA9KlUo7DqENzW9l2Y) | [Teffa](https://open.spotify.com/artist/3w8EiOMwnAuuWfPmX5kRqb) | [Cosmos](https://open.spotify.com/album/0KgmLt015HgyQQmHR2WlxI) | 0:29 |
+| 44 | [Cosmos](https://open.spotify.com/track/34KsxA9KlUo7DqENzW9l2Y) | [Teffa](https://open.spotify.com/artist/3w8EiOMwnAuuWfPmX5kRqb) | [Cosmos](https://open.spotify.com/album/0KgmLt015HgyQQmHR2WlxI) | 3:46 |
 | 45 | [Echolocation](https://open.spotify.com/track/3jsDLsL6d5VXyhLY98moJb) | [Perverse](https://open.spotify.com/artist/774sonWkC6CKx3KSMgUoq7) | [Echolocation](https://open.spotify.com/album/01XJE8K5FAvvoha2LsDAF0) | 6:03 |
 | 46 | [Bad Things \- 11th Hour Remix](https://open.spotify.com/track/0aGLQnuOBPHqpHW61xbrya) | [Ourman](https://open.spotify.com/artist/50fccMrp2zhFFghqN6JIp8), [11th Hour](https://open.spotify.com/artist/2KizYftxFxLHLqsudT07bf) | [Bad Things \(11th Hour Remix\)](https://open.spotify.com/album/6mXh0aonbjxgzm9oXWPSEa) | 4:14 |
 | 47 | [Vacant](https://open.spotify.com/track/7HDu8teid1cFGtiAQlLG0a) | [Sepia](https://open.spotify.com/artist/7v5C9SalNHvwDF5sTpWDhi) | [Ancient Tribes](https://open.spotify.com/album/5q5FRgtpjlzDvD9gOTZdTS) | 5:03 |

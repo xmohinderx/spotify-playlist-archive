@@ -4,7 +4,7 @@
 
 > A collection of inspired songs about life and the love of the father.
 
-65 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/1OfuIj9JDUDFUa2nDU3Lxc)
+65 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/1OfuIj9JDUDFUa2nDU3Lxc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Dance With My Father](https://open.spotify.com/track/7snmvZMLdGGk3l9PcvoYSM) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 4:26 | 2021-06-18 |  |
 | [Daughters](https://open.spotify.com/track/5FPnjikbwlDMULCCCa6ZCJ) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Heavier Things](https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g) | 3:57 | 2021-06-18 |  |
 | [Drive \(For Daddy Gene\)](https://open.spotify.com/track/32qiMwmCESGPYtjfnIkIqC) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [It's All About The Music](https://open.spotify.com/album/3CSzB71OGoQU5PRNyDWeGh) | 4:02 | 2021-06-18 |  |
-| [Dusty Road](https://open.spotify.com/track/2YpIziXbqt5XVQfjGQamLY) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Dusty Road](https://open.spotify.com/album/498FsuSGrpsPOXb4qgsQrN) | 0:29 | 2021-06-18 |  |
+| [Dusty Road](https://open.spotify.com/track/2YpIziXbqt5XVQfjGQamLY) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Dusty Road](https://open.spotify.com/album/498FsuSGrpsPOXb4qgsQrN) | 3:24 | 2021-06-18 |  |
 | [Even Though I'm Leaving](https://open.spotify.com/track/3sVLgsSTHRu483w6QciloO) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Prequel \- EP](https://open.spotify.com/album/4nFW5W1gIwov6e4lAzn2vA) | 3:45 | 2021-06-18 |  |
 | [Faithful Father](https://open.spotify.com/track/1nNpYVEUTLttNspEESv5xF) | [Twila Paris](https://open.spotify.com/artist/7ua35iM0VjwfuHopuQDScm) | [Greatest Hits](https://open.spotify.com/album/5XqM5WvxZTfLywTpcj0Oek) | 3:46 | 2021-06-18 |  |
 | [Family](https://open.spotify.com/track/1VAVGF84xWOXojCoOjKsvV) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Eye On It \(Deluxe Edition\)](https://open.spotify.com/album/31vtzv0S08tqIUnxTOcDkV) | 3:46 | 2021-06-18 |  |
@@ -46,12 +46,12 @@
 | [Little Boy On His Knees AKA Cameron's Song](https://open.spotify.com/track/6Hczkb1UlY1QfS0aO8nqTN) | [Cheri Keaggy](https://open.spotify.com/artist/0TJpmZw9iFR95HEsRxcvzL) | [Child Of The Father](https://open.spotify.com/album/6yePsevSZkLJtIxLUAQVJG) | 3:36 | 2021-06-18 |  |
 | [Measure Of A Man](https://open.spotify.com/track/0ZaENjfbDHRnYMJxP1JHvU) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N) | [This Is It \(Standard Version\)](https://open.spotify.com/album/2En352QiA5q3MK0Ulso3Pq) | 3:15 | 2021-06-18 |  |
 | [My Father's Eyes](https://open.spotify.com/track/46qmhckPWhcfBhw4hagOOS) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton Chronicles: The Best of Eric Clapton](https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy) | 5:23 | 2021-06-18 |  |
-| [My Father's World](https://open.spotify.com/track/14flwcbz38Q5HeQiutm0SQ) | [Jadon Lavik](https://open.spotify.com/artist/4LIG4IMVuzGJjAhMxXtll1) | [Roots Run Deep](https://open.spotify.com/album/5tPtzi6wZupV9wQcpdb5yV) | 0:29 | 2021-06-18 |  |
+| [My Father's World](https://open.spotify.com/track/14flwcbz38Q5HeQiutm0SQ) | [Jadon Lavik](https://open.spotify.com/artist/4LIG4IMVuzGJjAhMxXtll1) | [Roots Run Deep](https://open.spotify.com/album/5tPtzi6wZupV9wQcpdb5yV) | 2:43 | 2021-06-18 |  |
 | [My Little Girl \(from My Friend Flicka\)](https://open.spotify.com/track/7qosBEliJ2mNL87rMTfbT5) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Greatest Hits, Vol\. 2](https://open.spotify.com/album/5gXBn0p6m8neWwnitoZJdd) | 3:39 | 2021-06-18 |  |
 | [My Old Man \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/30x7X9Mjo0Spbb2POIc3E0) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Spotify Singles](https://open.spotify.com/album/0BVShHjHQNedwKZsjLeB3H) | 3:54 | 2021-06-18 |  |
 | [New Day](https://open.spotify.com/track/1Jc3DqBxWynXZPQLmOEHEe) | [Robbie Seay Band](https://open.spotify.com/artist/4xPxYiZyp9SWFG3MIFkee5) | [Give Yourself Away](https://open.spotify.com/album/5ha4teFmoKCKiRKXg1CYuc) | 4:05 | 2021-06-18 |  |
 | [Other Father](https://open.spotify.com/track/347Ba1xNGGBK2KnnAJHmYd) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [The Road](https://open.spotify.com/album/12o3SJicuqPBQoyoHFdqhM) | 5:29 | 2021-06-18 |  |
-| [Ready, Set, Don't Go](https://open.spotify.com/track/6qUfQrIWFEWjEXrj37ORon) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Country Sings Disney](https://open.spotify.com/album/2Y6qHoBWHY024rUlNPyGnz) | 0:29 | 2021-06-18 |  |
+| [Ready, Set, Don't Go](https://open.spotify.com/track/6qUfQrIWFEWjEXrj37ORon) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Country Sings Disney](https://open.spotify.com/album/2Y6qHoBWHY024rUlNPyGnz) | 3:49 | 2021-06-18 |  |
 | [Safe And Sound](https://open.spotify.com/track/2gjdOPKyBdSTd3bepecmyZ) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Something To Say](https://open.spotify.com/album/0dpyKYwLMyjXGYlreUP49a) | 2:51 | 2021-06-18 |  |
 | [Sinners Like Me](https://open.spotify.com/track/71geaRAZ2M5w08T3kl5Xvs) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Sinners Like Me](https://open.spotify.com/album/1UiXoLoFB4ODK3YqH97Qrp) | 3:53 | 2021-06-18 |  |
 | [Slow Down](https://open.spotify.com/track/1ENDLctAQDHtblpQYefF0I) | [Nichole Nordeman](https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh), [Pepper Ingram](https://open.spotify.com/artist/4J8EY2S50GWN8MuZ7hooT1) | [Every Mile Mattered](https://open.spotify.com/album/51HWO4nZXpw3nRosU2Nwsz) | 4:03 | 2021-06-18 |  |

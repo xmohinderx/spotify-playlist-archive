@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0KIKHBXChX4m2MVm8qQk6N.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,546 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,545 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/0KIKHBXChX4m2MVm8qQk6N.md) - [plain]
 | 43 | [Make Me Better](https://open.spotify.com/track/1od52cibPR4R7KONz2Pd6W) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [From Nothin' To Somethin'](https://open.spotify.com/album/3EyLi5Vym7upDUMdnP1vUV) | 4:13 |
 | 44 | [Ice Box](https://open.spotify.com/track/1ElXBG9yJcgSFUJr19sotM) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [Playlist: The Very Best Of Omarion](https://open.spotify.com/album/2fWjB2sGEPtte5tWTQlU4v) | 4:17 |
 | 45 | [Lips Of An Angel](https://open.spotify.com/track/0MZE9mU5RSjr3gAILc1oVX) | [Hinder](https://open.spotify.com/artist/6BMhCQJYHxxKAeqYS1p5rY) | [Extreme Behavior](https://open.spotify.com/album/4N1DbNt6qiYj7WHyMlRjoC) | 4:21 |
-| 46 | [Waiting On the World to Change](https://open.spotify.com/track/2n1xGch3RCfNTS0SuTqB2D) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Pure..\. Guitar Heroes](https://open.spotify.com/album/56KOCXxFdiqTnCRWcpLJSd) | 0:29 |
+| 46 | [Waiting On the World to Change](https://open.spotify.com/track/2n1xGch3RCfNTS0SuTqB2D) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Pure..\. Guitar Heroes](https://open.spotify.com/album/56KOCXxFdiqTnCRWcpLJSd) | 3:20 |
 | 47 | [Lost Without U](https://open.spotify.com/track/1atQRDIxhLBudv23X8aWPg) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [The Evolution of Robin Thicke](https://open.spotify.com/album/6neJ8U4pI7Ytvy11O43Hp3) | 4:14 |
 | 48 | [I'm a Flirt Remix](https://open.spotify.com/track/1qKEApj9DTrcXikqeo7S0k) | [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [I'm a Flirt Remix](https://open.spotify.com/album/63xOc37l4m8HalQKAzjhDv) | 5:32 |
 | 49 | [If Everyone Cared](https://open.spotify.com/track/4QYV42XR08VCKSkBOjnlUe) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All the Right Reasons \(Walmart Exclusive Edition\)](https://open.spotify.com/album/74qGFpCx9XpFaZUnqqdDtb) | 3:38 |

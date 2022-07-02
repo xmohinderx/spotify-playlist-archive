@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 
 > Headbangers of Bangladesh\. Cover \- Hridoy Khan
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,181 likes - 80 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,201 likes - 80 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 37 | [Deyal](https://open.spotify.com/track/3ElVLYZiaRXsvAZsAdbOQD) | [Crynation](https://open.spotify.com/artist/1XgnnIZMJmPcbW8ZD8mzUU) | [Deyal](https://open.spotify.com/album/3yN9WP2JqcLmzyhhIIzX8W) | 4:59 |
 | 38 | [Shopner Gontobbo](https://open.spotify.com/track/1Geh1LEWKVmG2iJKP2BX8e) | [fused](https://open.spotify.com/artist/0t4yDm0LHubUiQFOvuNSN6) | [Shopner Gontobbo](https://open.spotify.com/album/1KrH6WrJ7pHIMVYq3jkeYr) | 4:01 |
 | 39 | [Kokhon Kibhabe Ekhane Ke Jane](https://open.spotify.com/track/3jy2Bz9A9YBl9HbPvQle8X) | [Indalo](https://open.spotify.com/artist/37LGjqM0je1KNrLRD3MZ47) | [Kokhon Kibhabe Ekhane Ke Jane](https://open.spotify.com/album/1q7I38qz1tvEI6Oa1sAmIm) | 4:10 |
-| 40 | [Pichutaan](https://open.spotify.com/track/3kGrKLyNUdcVh27oqwEYdE) | [Sammam](https://open.spotify.com/artist/2lis2CHagnbMNlEUrhU0wu) | [Pichutaan](https://open.spotify.com/album/4LfHUgVOnuvznzkOGCTxwX) | 0:29 |
-| 41 | [Omorotter Shadh](https://open.spotify.com/track/7GiVS2cRWTOVXc3AZdC1db) | [Kronedge](https://open.spotify.com/artist/1BmU0W6qNHOVQclJYf9Mys) | [Omorotter Shadh](https://open.spotify.com/album/6mhqhKXjqxTkUZVehg52tS) | 0:29 |
+| 40 | [Pichutaan](https://open.spotify.com/track/3kGrKLyNUdcVh27oqwEYdE) | [Sammam](https://open.spotify.com/artist/2lis2CHagnbMNlEUrhU0wu) | [Pichutaan](https://open.spotify.com/album/4LfHUgVOnuvznzkOGCTxwX) | 6:05 |
+| 41 | [Omorotter Shadh](https://open.spotify.com/track/7GiVS2cRWTOVXc3AZdC1db) | [Kronedge](https://open.spotify.com/artist/1BmU0W6qNHOVQclJYf9Mys) | [Omorotter Shadh](https://open.spotify.com/album/6mhqhKXjqxTkUZVehg52tS) | 6:05 |
 | 42 | [Protishruti](https://open.spotify.com/track/4LFXQy7NN0KdraTRs2WZj9) | [13th Funeral](https://open.spotify.com/artist/6r4kTQoYjObienwuKU4PBT) | [Protishruti](https://open.spotify.com/album/2jGoGgLlFQKTpuEnxCXSDq) | 4:58 |
 | 43 | [Ayna](https://open.spotify.com/track/6rDBaxKg0Ech5Y2bglqEus) | [Tanveer Evan](https://open.spotify.com/artist/4OUraoZcwg1SsMHFjuaajw) | [Ayna](https://open.spotify.com/album/5OgRzOvGkYweEgJO5OcJLK) | 5:26 |
 | 44 | [Shunnotar Gaan](https://open.spotify.com/track/3rw1weqqFeFjSjWKTAmvzI) | [Shishir Ahmed](https://open.spotify.com/artist/7B9OMl4OkifBonxyDNBJ2A), [Sheikh Ishtiaque](https://open.spotify.com/artist/0iMi02nPTjOSfQqMfGJTZn) | [Shunnotar Gaan](https://open.spotify.com/album/30gPig90CPaXynDVw1Kie2) | 5:02 |
@@ -56,10 +56,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 46 | [Amar Shurjo](https://open.spotify.com/track/5ZfsbR7btiWtDoQfGhpyiC) | [Shayan](https://open.spotify.com/artist/2aNKHDOr5ESFtFvrLMARPP) | [Amar Shurjo](https://open.spotify.com/album/5NBnpyrP8V3MZHTABxsEaj) | 4:53 |
 | 47 | [Ami Akash Pathabo](https://open.spotify.com/track/62NkP9pkOw6y2B25pokMMQ) | [AvoidRafa](https://open.spotify.com/artist/0j4Xv6B3jAu40gzdooipIB) | [Bhaar](https://open.spotify.com/album/7ePeM5FJpq4pkpnDFFP3Q8) | 4:03 |
 | 48 | [Ei Brishti Bheja Raate](https://open.spotify.com/track/6wYFG41ZlYQ9LZoO134Ywl) | [George Lincoln D'Costa](https://open.spotify.com/artist/20DQNJ7sBu2VqMnuDYXFOp) | [Ei Brishti Bheja Raate](https://open.spotify.com/album/5udSAW80w1dapro72dnnFX) | 5:46 |
-| 49 | [Moho](https://open.spotify.com/track/7uSd8eNikOIqWjZk4ZxvK4) | [Jon Kabir](https://open.spotify.com/artist/41uDjhwAdkq4SYpMswPEtG) | [Moho](https://open.spotify.com/album/6buC5HKigeEIyAFhaABwuZ) | 0:29 |
+| 49 | [Moho](https://open.spotify.com/track/7uSd8eNikOIqWjZk4ZxvK4) | [Jon Kabir](https://open.spotify.com/artist/41uDjhwAdkq4SYpMswPEtG) | [Moho](https://open.spotify.com/album/6buC5HKigeEIyAFhaABwuZ) | 3:00 |
 | 50 | [GhorGari](https://open.spotify.com/track/2nRwICrrFgQwiqiZdPjXLe) | [HIGHWAY](https://open.spotify.com/artist/62mZpB59RHyxLGNesP78Vg) | [GhorGari](https://open.spotify.com/album/5NnGkLlJGRVav1xqXgcptY) | 6:22 |
 | 51 | [Bhondo](https://open.spotify.com/track/07qgJazJQyknsbmuJZDL6N) | [Oblique](https://open.spotify.com/artist/4UZiqcfIggY32IYR1j13fz) | [Aloron](https://open.spotify.com/album/3B7o0RIBaO8xsXFuEGOUzr) | 4:40 |
-| 52 | [Chaap](https://open.spotify.com/track/5yZh1R7FxddR7E2WsVALg8) | [Arekta Rock Band](https://open.spotify.com/artist/5c7JjKTazKNQubk2GjgbJT) | [Chaap](https://open.spotify.com/album/0vRBUL0pp2UW4b5bC5Zj6g) | 0:29 |
+| 52 | [Chaap](https://open.spotify.com/track/5yZh1R7FxddR7E2WsVALg8) | [Arekta Rock Band](https://open.spotify.com/artist/5c7JjKTazKNQubk2GjgbJT) | [Chaap](https://open.spotify.com/album/0vRBUL0pp2UW4b5bC5Zj6g) | 4:36 |
 | 53 | [Somoy gele](https://open.spotify.com/track/3RDSAyE32oOnMFoEWEDtH3) | [Lalon Band](https://open.spotify.com/artist/2sEoW2m80iIVDpHIlgfkPw) | [Khepa](https://open.spotify.com/album/6oXxXaKox9eRoP1QUxaUOT) | 4:41 |
 | 54 | [Oporanho](https://open.spotify.com/track/3PG0JQJExSRM4xGUpYvpEZ) | [Icons](https://open.spotify.com/artist/5dSpt5bMnQoSC0n16fpQUD) | [Ishshoronio](https://open.spotify.com/album/6GvalgWDABm1XEYvFfnGF1) | 4:09 |
 | 55 | [Eden](https://open.spotify.com/track/53NYK7ZRLBErAMdJNBJEoo) | [Arekta Rock Band](https://open.spotify.com/artist/5c7JjKTazKNQubk2GjgbJT) | [Eden](https://open.spotify.com/album/5LtAT3Wo7DQ8dDCiR0bN1T) | 4:18 |

@@ -56,7 +56,7 @@
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 212624,
       "name": "Beautiful People",
       "url": "https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I"
     },
@@ -221,7 +221,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 219880,
       "name": "Don't You Worry",
       "url": "https://open.spotify.com/track/5XaGqclLmeuH0EBg75Li0n"
@@ -337,7 +337,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 226687,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/50H4Zt0dXHcLy9roe0Azpj"
@@ -409,7 +409,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 216115,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/3z5V7oSggDeCPeEGiCIu83"
@@ -500,7 +500,7 @@
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 256853,
       "name": "I'd Better Be On Time",
       "url": "https://open.spotify.com/track/4fJd2X6qUJ8MH31ds7apsI"
     },
@@ -740,7 +740,7 @@
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 166535,
       "name": "Only You",
       "url": "https://open.spotify.com/track/2ODveYidOlM11e0JZrM1aE"
     },
@@ -874,7 +874,7 @@
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 195746,
       "name": "Simple",
       "url": "https://open.spotify.com/track/7GTjLQEp3dzgOjAG5iTSna"
     },
@@ -895,6 +895,24 @@
       "duration_ms": 233193,
       "name": "Simple I Love You",
       "url": "https://open.spotify.com/track/2JB8jVL2rcxwuUXMpEC5hV"
+    },
+    {
+      "album": {
+        "name": "Six Feet Apart",
+        "url": "https://open.spotify.com/album/0sW48R4zooMyCQyYQSt8xi"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173705,
+      "name": "Six Feet Apart",
+      "url": "https://open.spotify.com/track/22AJMMJMaQ3qtTwlegrKcm"
     },
     {
       "album": {
@@ -963,7 +981,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 186334,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/4sAX65hbNtEC1lceCdGuMt"
@@ -999,7 +1017,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 195414,
       "name": "Storybook",
       "url": "https://open.spotify.com/track/2aLT8Ds8TJqZqneqJpvP0P"

@@ -4,7 +4,7 @@
 
 > The best Blues for a long trip behind the wheel.
 
-113 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/7inldxiHCey24iSezd8whW)
+114 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/7inldxiHCey24iSezd8whW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,8 +20,8 @@
 | [Blues For Hawaiians](https://open.spotify.com/track/0FvO7DbDxOr5LKyKhMAwe9) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 3:23 | 2022-05-25 |  |
 | [Blues Helping \- 1999 RemasterStereo](https://open.spotify.com/track/2koEUJi9rfisEYUcoCillG) | [Love Sculpture](https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq) | [Blues Helping](https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB) | 3:44 | 2022-05-25 |  |
 | [Blues In D Natural](https://open.spotify.com/track/5h8HrCCGLOmhW3ufkRb2Dv) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Galloping Horses a Lazy Mule / Blues in D Natural](https://open.spotify.com/album/2ueqyjt4N1XoXF1J21zNSQ) | 2:15 | 2022-05-25 |  |
-| [Born Under a Bad Sign](https://open.spotify.com/track/1HbOlAS9kF9d5j7WNQbin9) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 0:29 | 2022-05-25 |  |
-| [Built For Comfort](https://open.spotify.com/track/3klYyhZSVWWnCEsPyD0dSs) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Howlin' Wolf Album](https://open.spotify.com/album/3Tk5Bal4RMJZZ9opYxK3YT) | 0:29 | 2022-05-25 |  |
+| [Born Under a Bad Sign](https://open.spotify.com/track/1HbOlAS9kF9d5j7WNQbin9) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 7:37 | 2022-05-25 |  |
+| [Built For Comfort](https://open.spotify.com/track/3klYyhZSVWWnCEsPyD0dSs) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Howlin' Wolf Album](https://open.spotify.com/album/3Tk5Bal4RMJZZ9opYxK3YT) | 5:11 | 2022-05-25 |  |
 | [Buzz Me Baby](https://open.spotify.com/track/03orX7fg8pH3tXBhJiuQC7) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Men of the World: The Early Years](https://open.spotify.com/album/2K7v8gzTtmyX0fjvAVUkzt) | 3:34 | 2022-05-25 |  |
 | [Callin' For My Darlin'](https://open.spotify.com/track/1X6ZMDWmDRWmyyx94DrvxM) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Door To Door](https://open.spotify.com/album/5f25lxtzGj0mRtDpn50YBP) | 3:02 | 2022-05-25 |  |
 | [Can't Wait to See My Baby's Face](https://open.spotify.com/track/6NvzGdklM7t1anBJicWR8Q) | [Buster Benton](https://open.spotify.com/artist/3eBGrFX7u2Py7eiwvwosc4) | [Blues & Trouble \(Blues Reference 1983\-1985\)](https://open.spotify.com/album/2k2MADUj4Fd3mhJWQbQoqt) | 4:58 | 2022-05-25 |  |
@@ -69,6 +69,7 @@
 | [Ice Cream Man](https://open.spotify.com/track/7fFKM10IEtZubmfF0L5elV) | [John Brim](https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:44 | 2022-05-25 |  |
 | [It's Ok with Me Baby](https://open.spotify.com/track/58nGbJZwNpqylln1h7qZTN) | [Chicken Shack](https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi) | [The Complete Blue Horizon Sessions](https://open.spotify.com/album/4gcdawHFamYzxAplmMgeur) | 2:37 | 2022-05-25 |  |
 | [Jam On A Monday Morning](https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 2:52 | 2022-05-25 |  |
+| [Jelly Bread](https://open.spotify.com/track/2eaAUnd8AKIFD0RAfPiW3z) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions](https://open.spotify.com/album/2sSDqJOZ7gea3yMbqPUrhq) | 2:30 | 2022-07-01 |  |
 | [Left My Happy Home](https://open.spotify.com/track/7j8M2LKnaM5onc0XtcGotq) | [Billy Boy Arnold](https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o) | [Goin' To Chicago](https://open.spotify.com/album/4p5MlG351OaQac8CRZsF3K) | 2:34 | 2022-05-25 |  |
 | [Let Me Love You Baby](https://open.spotify.com/track/4X8Toq5ww0tDllQHhMv7DR) | [Savoy Brown Blues Band](https://open.spotify.com/artist/0UGx1mwAGKLhE3yTFez6YP) | [Shake Down](https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb) | 3:03 | 2022-05-25 |  |
 | [Let's Make It](https://open.spotify.com/track/7EGw2guJbgCqNAP6HHtPmR) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Hooker 'N Heat](https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3) | 4:06 | 2022-05-25 |  |
@@ -77,7 +78,7 @@
 | [Lonesome Whistle Blues](https://open.spotify.com/track/6FlElscpn0N3PwA2RVFbG2) | [Chicken Shack](https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi) | [The Complete Blue Horizon Sessions](https://open.spotify.com/album/4gcdawHFamYzxAplmMgeur) | 3:01 | 2022-05-25 |  |
 | [Long Grey Mare](https://open.spotify.com/track/2qVOcQMtxjrY8WHPkygyGc) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Blues For Greeny](https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU) | 2:06 | 2022-05-25 |  |
 | [Love Like I Wanna](https://open.spotify.com/track/1YmXV80xrumomhpnSai6GS) | [Buster Benton](https://open.spotify.com/artist/3eBGrFX7u2Py7eiwvwosc4) | [Spider in My Stew](https://open.spotify.com/album/1QLaueGOJPQnXPnV7ZZP0h) | 4:58 | 2022-05-25 |  |
-| [Mannish Boy](https://open.spotify.com/track/5vZOZXF9p5v2ttJKk5Vo0L) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 0:29 | 2022-05-25 |  |
+| [Mannish Boy](https://open.spotify.com/track/5vZOZXF9p5v2ttJKk5Vo0L) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 5:21 | 2022-05-25 |  |
 | [Mean Old World](https://open.spotify.com/track/4Eqa2PFcVgCWjBlj2Xw8wN) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:55 | 2022-05-25 |  |
 | [Movin' Out](https://open.spotify.com/track/2dY0bMsM7UXFh7Ekl7XSGn) | [John Brim](https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI), [Pinetop Perkins](https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55) | [Chicago Blues Session Volume 12](https://open.spotify.com/album/3aIsNJmW34RBXNoYOTKyOE) | 2:51 | 2022-05-25 |  |
 | [My Babe](https://open.spotify.com/track/0YCj5u72nxNMLdvDQcUdZr) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Super Blues](https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s) | 3:56 | 2022-05-25 |  |
@@ -108,7 +109,7 @@
 | [Tom Cat](https://open.spotify.com/track/1UHa7agK1kxbcyHLNQ8gTM) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Electric Mud](https://open.spotify.com/album/7cDLEVoIhkfKqaiKAPp7vL) | 3:37 | 2022-05-25 |  |
 | [Two Way Wishing](https://open.spotify.com/track/2lGyivhfiH4jqGpJGSqSZ4) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [Tramp / Soul](https://open.spotify.com/album/02Qcgwkz4Fd0btbDraBUHo) | 2:46 | 2022-05-25 |  |
 | [Uh Huh My Baby](https://open.spotify.com/track/1smUyCwjopLiEnkyzypWOW) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Basic Soul](https://open.spotify.com/album/5WRNrna2YPWvQtfgCVU7Of) | 3:52 | 2022-05-25 |  |
-| [Voodoo Chile Blues](https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 0:29 | 2022-05-27 |  |
+| [Voodoo Chile Blues](https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 8:48 | 2022-05-27 |  |
 | [Wagon Wheel](https://open.spotify.com/track/1whAS4pUvFSaMpjbEI4bHQ) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Cracked Spanner Head](https://open.spotify.com/album/0LfIQxBC0oPOoLWxTmgOfk) | 3:54 | 2022-05-25 |  |
 | [Wash Out](https://open.spotify.com/track/7krwrfAipXYI2aChTzv3t0) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Oil \- The Complete Federal Recordings](https://open.spotify.com/album/0aUiSnttJkUwVycLAnXKdQ) | 2:35 | 2022-05-25 |  |
 | [When Girls Do It](https://open.spotify.com/track/0sGX1jTxtvtLDVPQdgXuLu) | [Bobby 'Guitar' Bennett](https://open.spotify.com/artist/7inzxmgcCQZGqzBVfkWA8g) | [When Girls Do It](https://open.spotify.com/album/7K7xXRmQlBDKsdl5Q1C9df) | 2:52 | 2022-05-25 |  |

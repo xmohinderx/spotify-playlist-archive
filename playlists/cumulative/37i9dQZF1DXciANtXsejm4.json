@@ -74,7 +74,7 @@
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 199320,
+      "duration_ms": 29048,
       "name": "Adicto a Tu Piel",
       "url": "https://open.spotify.com/track/2K7SyvVNFFx2VG8IcWzHkK"
     },
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 179213,
       "name": "Corazon Mentiroso",
       "url": "https://open.spotify.com/track/12vjZJEWFst8vhW4k9saOv"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 189629,
       "name": "Dos Hombres y un Destino",
       "url": "https://open.spotify.com/track/7soeaS12AHoVO44S9Lys5l"
@@ -657,7 +657,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 181946,
       "name": "El Hospicio",
       "url": "https://open.spotify.com/track/4I17shszGarI3lEcneeEEK"
@@ -881,7 +881,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 275186,
       "name": "Estas en el Recuerdo / Matala",
       "url": "https://open.spotify.com/track/2mMdfb5n1V9pA6f2cJPAKN"
@@ -953,7 +953,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 219786,
       "name": "Hasta el Sol de Hoy",
       "url": "https://open.spotify.com/track/0XH56FsQ30qSKYHQtFsqnz"
@@ -1312,6 +1312,24 @@
     },
     {
       "album": {
+        "name": "Mar\u00eda La Celosa",
+        "url": "https://open.spotify.com/album/1Fzv08KCiiE7ExkWmqOofF"
+      },
+      "artists": [
+        {
+          "name": "Mario Luis",
+          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168376,
+      "name": "Mar\u00eda La Celosa",
+      "url": "https://open.spotify.com/track/1JE5btALQhrrsm0KBKjcJ9"
+    },
+    {
+      "album": {
         "name": "Todo a Su Tiempo (En Vivo)",
         "url": "https://open.spotify.com/album/5QiDj5pvq28cO1s4oupY53"
       },
@@ -1399,7 +1417,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 125016,
       "name": "Negra Caderona",
       "url": "https://open.spotify.com/track/411i7XTC2ClG3V3QVlOezM"
@@ -1421,7 +1439,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 228565,
       "name": "No Fue Culpa Mia",
       "url": "https://open.spotify.com/track/3Ctr9XqYTTSYqTowQ3t1D2"
@@ -1743,7 +1761,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 244200,
       "name": "Privado de la Libertad",
       "url": "https://open.spotify.com/track/22Kg1EgpBn47gi6mO8eWe4"
@@ -1887,7 +1905,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 218128,
       "name": "Se\u00f1ora",
       "url": "https://open.spotify.com/track/6n3Cv9PsZ4d12Pz6IXnvPz"
@@ -1906,7 +1924,7 @@
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 220773,
+      "duration_ms": 29048,
       "name": "Si fuera facil",
       "url": "https://open.spotify.com/track/6hoFH9KbFCBdig0yu63qqF"
     },
@@ -1941,7 +1959,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 294093,
       "name": "Si Tu No Estas",
       "url": "https://open.spotify.com/track/6cZ1wwLjxLgLqLlX6zuVkl"
@@ -2031,7 +2049,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 232248,
       "name": "Te Llevas Mi Vida",
       "url": "https://open.spotify.com/track/2uOUobz0fNo2rs2relzB4N"
@@ -2049,7 +2067,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 204806,
       "name": "Te Perdono",
       "url": "https://open.spotify.com/track/46SixvsqGTjE1dufNyjTrR"
@@ -2089,7 +2107,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 188140,
       "name": "Te Sorprender\u00e1s",
       "url": "https://open.spotify.com/track/1E8z534drq0XGV06iu2HWS"
@@ -2219,7 +2237,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 218373,
       "name": "Tu C\u00f3mo Est\u00e1s",
       "url": "https://open.spotify.com/track/3ys4ck9oSE5NvxGdvVVKXx"
@@ -2345,7 +2363,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 204000,
       "name": "Una Calle Nos Separa",
       "url": "https://open.spotify.com/track/4qYjpBTZvr6AWlmbUzd224"
@@ -2436,7 +2454,7 @@
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 201066,
       "name": "Y Que De M\u00ed",
       "url": "https://open.spotify.com/track/5XCbEXvT1fZlycw8SlU2ci"
     },

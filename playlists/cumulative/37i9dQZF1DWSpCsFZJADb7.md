@@ -4,11 +4,11 @@
 
 > Listen to stories from your friends on Sesame Street.
 
-40 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/5JNwir6LpMtMXPc309sYUn)
+40 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/5JNwir6LpMtMXPc309sYUn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Perfect Picnic](https://open.spotify.com/track/0JUVzEzSpSo8zihE1CBbxL) | [Sesame Street Storytime](https://open.spotify.com/artist/6ZeDryVizTyTHzJnzPm8yw) | [A Perfect Picnic](https://open.spotify.com/album/55280hcRN7woYoAaBffBaJ) | 0:29 | 2021-04-19 |  |
+| [A Perfect Picnic](https://open.spotify.com/track/0JUVzEzSpSo8zihE1CBbxL) | [Sesame Street Storytime](https://open.spotify.com/artist/6ZeDryVizTyTHzJnzPm8yw) | [A Perfect Picnic](https://open.spotify.com/album/55280hcRN7woYoAaBffBaJ) | 4:33 | 2021-04-19 |  |
 | [Abby in Wonderland](https://open.spotify.com/track/2rxp53PHzhpZbKIwen9mGc) | [Sesame Street Storytime](https://open.spotify.com/artist/6ZeDryVizTyTHzJnzPm8yw) | [Abby in Wonderland](https://open.spotify.com/album/4u6DUnt0cwc6KnosEDCT06) | 8:23 | 2021-04-19 |  |
 | [Adventures in Storyland](https://open.spotify.com/track/5mpKhQh5lI6P6zL6iprGn6) | [Sesame Street Storytime](https://open.spotify.com/artist/6ZeDryVizTyTHzJnzPm8yw) | [Adventures in Storyland](https://open.spotify.com/album/06Qv43LAkUgKzxuPObww1r) | 2:54 | 2021-04-19 |  |
 | [Big Block Party](https://open.spotify.com/track/5Dl0A2VkS6lo5o9L9vutHD) | [Sesame Street Storytime](https://open.spotify.com/artist/6ZeDryVizTyTHzJnzPm8yw) | [Big Block Party](https://open.spotify.com/album/4DhY48G1JKCefE22rMmIt3) | 9:34 | 2021-04-19 |  |
@@ -34,7 +34,7 @@
 | [Monsters Can Share](https://open.spotify.com/track/2ouDLUCNKDQv0EACkJIVij) | [Sesame Street Storytime](https://open.spotify.com/artist/6ZeDryVizTyTHzJnzPm8yw) | [Monsters Can Share](https://open.spotify.com/album/5ZNw0YLiVhyJ6xKwVqZEMg) | 4:46 | 2021-04-19 |  |
 | [Monsters in the Bathroom](https://open.spotify.com/track/5Hejj6N61MmLrUghdJolkJ) | [Sesame Street Storytime](https://open.spotify.com/artist/6ZeDryVizTyTHzJnzPm8yw) | [Monsters in the Bathroom](https://open.spotify.com/album/2w6j1GMUU42kxWsFOU7OS8) | 4:25 | 2021-04-19 |  |
 | [My Baby Brother Is a Little Monster](https://open.spotify.com/track/4mW2QZQatoHag1c66pIzJD) | [Sesame Street Storytime](https://open.spotify.com/artist/6ZeDryVizTyTHzJnzPm8yw) | [My Baby Brother Is a Little Monster](https://open.spotify.com/album/7c61hteCsdSXQPQISMEyov) | 5:51 | 2021-04-19 |  |
-| [My First Instrument](https://open.spotify.com/track/5Yy80VZZA2QjYaeIEqA4Gv) | [Sesame Street Storytime](https://open.spotify.com/artist/6ZeDryVizTyTHzJnzPm8yw) | [My First Instrument](https://open.spotify.com/album/1f9J4pHTVUhgptrLG0zQ7s) | 0:29 | 2021-04-19 |  |
+| [My First Instrument](https://open.spotify.com/track/5Yy80VZZA2QjYaeIEqA4Gv) | [Sesame Street Storytime](https://open.spotify.com/artist/6ZeDryVizTyTHzJnzPm8yw) | [My First Instrument](https://open.spotify.com/album/1f9J4pHTVUhgptrLG0zQ7s) | 6:21 | 2021-04-19 |  |
 | [My First Trip to the Farm](https://open.spotify.com/track/5pno3sFLHpJRKEMTfXJtmM) | [Sesame Street Storytime](https://open.spotify.com/artist/6ZeDryVizTyTHzJnzPm8yw) | [My First Trip to the Farm](https://open.spotify.com/album/2ctBWDrNNaz9iCvSYEvbYO) | 6:58 | 2021-04-19 |  |
 | [Ready Set Brush](https://open.spotify.com/track/7veplGH7OS1B1LtnVlUdla) | [Sesame Street Storytime](https://open.spotify.com/artist/6ZeDryVizTyTHzJnzPm8yw) | [Ready Set Brush](https://open.spotify.com/album/2XNqXn6DdVo99hogvZlH2k) | 1:50 | 2021-04-19 |  |
 | [Red or Blue, I Like You!](https://open.spotify.com/track/52JHJF9G4YAJoXuDTSacbq) | [Sesame Street Storytime](https://open.spotify.com/artist/6ZeDryVizTyTHzJnzPm8yw) | [Red or Blue, I Like You!](https://open.spotify.com/album/1DOt6isQbl5hgFdDPlEfky) | 5:12 | 2021-04-19 |  |

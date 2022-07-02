@@ -4,7 +4,7 @@
 
 > Unearthing your new favourite artists\. Cover: Chara Kai\-Le\. Artwork: Isu Kim.
 
-231 songs - 12 hr 42 min - [published](https://open.spotify.com/playlist/3clZuxYeboHhluz5fN0HIw)
+231 songs - 12 hr 44 min - [published](https://open.spotify.com/playlist/3clZuxYeboHhluz5fN0HIw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Judah Love](https://open.spotify.com/track/4Sr1GPn3rAFhrcd9XzkSo2) | [Amos Judah](https://open.spotify.com/artist/7zBe6dQQIDeRBHoxiDbKkf) | [Up To No Good](https://open.spotify.com/album/5dZWgLcCIfzrORX6IPOiiV) | 3:00 | 2022-01-13 | 2022-03-25 |
 | [Just Another Minute](https://open.spotify.com/track/6AEmZBWGYlI6nsuWB5qViN) | [Maneloren](https://open.spotify.com/artist/7jsU0zbfhjktw9lamotkR2) | [Just Another Minute](https://open.spotify.com/album/4C6UwXY2vG00aX9u5wPIcI) | 4:00 | 2022-01-13 | 2022-06-17 |
 | [Kiss Me In The Rain](https://open.spotify.com/track/54G8T1sofBKaxNDTvbmNFY) | [RINES](https://open.spotify.com/artist/2FquRCgJvkUVwoDNrnsgAD) | [Kiss Me In The Rain](https://open.spotify.com/album/0Yi9xC5oEUCnM5hDSvGYxE) | 3:24 | 2021-12-01 | 2022-01-14 |
-| [LDR \- Long\-Distance Relationship](https://open.spotify.com/track/67heGxkX8txhtkyfPXkj5M) | [Amanda Ong](https://open.spotify.com/artist/0XaKTTVvegITqWH3AW1DeD) | [LDR \(Long\-Distance Relationship\)](https://open.spotify.com/album/4arYXBTaHBY7YVGJtAPEey) | 0:29 | 2022-04-21 |  |
+| [LDR \- Long\-Distance Relationship](https://open.spotify.com/track/67heGxkX8txhtkyfPXkj5M) | [Amanda Ong](https://open.spotify.com/artist/0XaKTTVvegITqWH3AW1DeD) | [LDR \(Long\-Distance Relationship\)](https://open.spotify.com/album/4arYXBTaHBY7YVGJtAPEey) | 2:23 | 2022-04-21 |  |
 | [least of u](https://open.spotify.com/track/3OE0fTXpnWRZKJWkBcpfPT) | [gels](https://open.spotify.com/artist/64A8LUUbYeqJBw4rv0OTxf) | [least of u](https://open.spotify.com/album/6oeujVIsUA2CLjJoI3Lwd8) | 2:29 | 2022-04-14 |  |
 | [Let's Never Talk About It](https://open.spotify.com/track/6oxjlxrcfeUpoEM6jyOBPs) | [Chloe Ho](https://open.spotify.com/artist/7byfBlKrHxvaPLNi4BGkq3) | [Let's Never Talk About It](https://open.spotify.com/album/0j8Bibkb5sg2ISCJ1ZCXzq) | 2:03 | 2021-12-01 | 2022-01-14 |
 | [Like Nobody Else](https://open.spotify.com/track/3ABvUFubkVu5ORn0EMCTsZ) | [Ruebben Chelvan](https://open.spotify.com/artist/4eedlzJY8B8Va9aCfNL0Aa), [Ben Variyan](https://open.spotify.com/artist/0NpgMUuP7ibAnSFAt72tm2), [Matthew Ong](https://open.spotify.com/artist/229q1HeeL8YDsSKQby4PcP) | [Like Nobody Else](https://open.spotify.com/album/3GSCRy72GzYxjIagTI6JMd) | 5:05 | 2022-01-13 | 2022-07-01 |

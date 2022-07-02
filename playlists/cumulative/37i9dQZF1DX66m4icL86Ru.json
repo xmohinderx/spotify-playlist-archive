@@ -2372,6 +2372,32 @@
     },
     {
       "album": {
+        "name": "PTDOM",
+        "url": "https://open.spotify.com/album/4JdgeVZeAPBeU4niC1ueKh"
+      },
+      "artists": [
+        {
+          "name": "Tay Money",
+          "url": "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
+        },
+        {
+          "name": "Kayla Nicole",
+          "url": "https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT"
+        },
+        {
+          "name": "ShantiiP",
+          "url": "https://open.spotify.com/artist/6LDmAUGAL9bDnQpu5dxBv5"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "PTDOM",
+      "url": "https://open.spotify.com/track/5BfbwG8kBqNoHFrBJ6Ygt6"
+    },
+    {
+      "album": {
         "name": "PTPOM (Shemix)",
         "url": "https://open.spotify.com/album/1vnwE0JjXVAvPLvtjkvuym"
       },
@@ -2428,7 +2454,7 @@
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 177370,
       "name": "Rodeo",
       "url": "https://open.spotify.com/track/2I8OJsxoaUByoURNACArMC"
     },
@@ -2676,7 +2702,7 @@
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 232873,
       "name": "Sl*t Him Out Again (feat. Kali)",
       "url": "https://open.spotify.com/track/1ZaZ2oU9mJXsLcyJCB1APa"
     },

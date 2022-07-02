@@ -4,7 +4,7 @@
 
 > The official playlist for Outer Banks now\. Watch now only on Netflix.
 
-81 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/42hRPo9Ei0Ev8ulb9zaxKV)
+81 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/42hRPo9Ei0Ev8ulb9zaxKV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Too Young to Burn](https://open.spotify.com/track/2wygBuUWMXrQujBBlwhDCL) | [Sonny & The Sunsets](https://open.spotify.com/artist/67zR9a98QqWJwpO7wBrGog) | [Tomorrow Is Alright](https://open.spotify.com/album/7K4eMOq0MLq6aQz7Zjkjkh) | 3:19 | 2021-10-26 |  |
 | [Under My Tongue](https://open.spotify.com/track/2OikEBxAnm5UfC0Ag6VCsa) | [Katastro](https://open.spotify.com/artist/2CimT0aCxKVuJsKPVLG0j5) | [Strange Nights](https://open.spotify.com/album/0XYNxkfhrnGvbmyOrfcx83) | 2:54 | 2021-10-26 |  |
 | [Unholy Water](https://open.spotify.com/track/6mHVjUXnlKkL6QuzWrMJB6) | [John Pearson](https://open.spotify.com/artist/6IEFxETlf7tJrUh7bxTJsG), [Chase Perryman](https://open.spotify.com/artist/5OSeubQCEvvJFhLA5DRwGZ) | [Unholy Water](https://open.spotify.com/album/5CPC5xSw0J7qwPVRZqOpOV) | 3:09 | 2021-10-26 |  |
-| [Up Up](https://open.spotify.com/track/4aAAVrmG2NaxOLyjP5n5o0) | [Sandollar](https://open.spotify.com/artist/5uHzTbTdUPeRaYdcn4qlsG) | [Roller Coaster Ride](https://open.spotify.com/album/2tjkE0GvZ6WXZbUNS4xnGn) | 0:29 | 2021-10-26 |  |
+| [Up Up](https://open.spotify.com/track/4aAAVrmG2NaxOLyjP5n5o0) | [Sandollar](https://open.spotify.com/artist/5uHzTbTdUPeRaYdcn4qlsG) | [Roller Coaster Ride](https://open.spotify.com/album/2tjkE0GvZ6WXZbUNS4xnGn) | 4:56 | 2021-10-26 |  |
 | [Veni Vidi Vici](https://open.spotify.com/track/1Y4Tk1FR4Muw6ATFcMsnnt) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/6sDyIpIg0vjpKOR9VrvagJ) | 2:28 | 2021-10-26 |  |
 | [Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Shame, Shame \(Deluxe Edition\)](https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl) | 3:54 | 2021-10-26 |  |
 | [Wiya Waist](https://open.spotify.com/track/4lVHvQoC3VMvF0fVpj7c3k) | [the Garifuna Collective](https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm) | [Aban](https://open.spotify.com/album/2KlF5Rk0eZZbOIwLThaiU1) | 3:13 | 2021-10-26 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to the women of AU & NZ at full volume\. Cover: Sampa the Great
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,759 likes - 99 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,756 likes - 99 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 62 | [I Suck At Being Lonely](https://open.spotify.com/track/2w7Li4lbevrPrPSY7pGpxG) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [I Suck At Being Lonely](https://open.spotify.com/album/7bA0Jk8tXScy1ELn54aPZZ) | 2:58 |
 | 63 | [Glimmer](https://open.spotify.com/track/5Ddhny03U9xVCanImqrwju) | [Velvet Bloom](https://open.spotify.com/artist/1HiDrUs73y9fUOt8DjBH55) | [Glimmer](https://open.spotify.com/album/3FawGubjyjO7TxDISCalRD) | 3:11 |
 | 64 | [Blank Page](https://open.spotify.com/track/0CWWCOjNGeo40Kl0XbkYe4) | [MISSY](https://open.spotify.com/artist/3Fwrv2f2K0AxSDCrS8qZhD) | [Blank Page](https://open.spotify.com/album/7hKEp9Sh7BwASAeHolaONj) | 2:29 |
-| 65 | [Lean Across](https://open.spotify.com/track/1xIiuti9ChczqV6pF9U6b4) | [CLEWS](https://open.spotify.com/artist/6cw5iGpmkR9dNaIZ85j8ya) | [Lean Across](https://open.spotify.com/album/2qcWvD3FcexP83c5OmgYuZ) | 0:29 |
+| 65 | [Lean Across](https://open.spotify.com/track/1xIiuti9ChczqV6pF9U6b4) | [CLEWS](https://open.spotify.com/artist/6cw5iGpmkR9dNaIZ85j8ya) | [Lean Across](https://open.spotify.com/album/2qcWvD3FcexP83c5OmgYuZ) | 3:06 |
 | 66 | [READ](https://open.spotify.com/track/1o2SurUyAJFFkf0kjSMKo1) | [Zoe A'dore](https://open.spotify.com/artist/3LGngRo9kg4ETVaiRQ0ZgY) | [READ](https://open.spotify.com/album/7uMlhSlAXQWMfrgcnJ7Xxi) | 2:48 |
 | 67 | [Bad Case of Loving You](https://open.spotify.com/track/5yJSGRCRxVQ32AWTFcePKF) | [LARA D](https://open.spotify.com/artist/1QyZxZlQBACv0338oNgmjC) | [Bad Case of Loving You](https://open.spotify.com/album/4p1VXvATVbUV1E9tEnTkwj) | 3:26 |
 | 68 | [Where The Light Used To Lay](https://open.spotify.com/track/3rPD7muv5zfAnHUttFJ2R0) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Where The Light Used To Lay](https://open.spotify.com/album/5dta0K0dySJ527iiB9AFFa) | 3:36 |
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 80 | [Everything](https://open.spotify.com/track/3APr4LscKHA7ZYfDB8EoeQ) | [Phebe Starr](https://open.spotify.com/artist/5buTKeJ19EBEcckqTe0XqP) | [Everything](https://open.spotify.com/album/4Sk44FeY4ItAK5cdiiaxC7) | 3:39 |
 | 81 | [WWYD](https://open.spotify.com/track/4jcWazyJx5dcgFSrP6aOAM) | [JEFFE](https://open.spotify.com/artist/1Hgq78NaXI41PHyKKDEExF) | [WWYD](https://open.spotify.com/album/464gJf1kt99spCFd0R8Zrm) | 2:31 |
 | 82 | [Glow](https://open.spotify.com/track/09NpMJO80vtOO5kH0uKPaw) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Glow](https://open.spotify.com/album/1R6ntu2OZzt8K8trkqtjPQ) | 3:08 |
-| 83 | [Break](https://open.spotify.com/track/41NfPrA9JEK6ufqJkUUU2N) | [Emily Muli](https://open.spotify.com/artist/5PF3HYijywmkoIgVSwXtP8) | [Break](https://open.spotify.com/album/6uoil0oYQ1OemgpS0QExn6) | 0:29 |
+| 83 | [Break](https://open.spotify.com/track/41NfPrA9JEK6ufqJkUUU2N) | [Emily Muli](https://open.spotify.com/artist/5PF3HYijywmkoIgVSwXtP8) | [Break](https://open.spotify.com/album/6uoil0oYQ1OemgpS0QExn6) | 3:24 |
 | 84 | [vivienne](https://open.spotify.com/track/3oJ60hM1u2rJLMz7s6fUwS) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [growing pains](https://open.spotify.com/album/4ydL1OENIYGUlgTWDpUcs5) | 3:12 |
 | 85 | [High Fidelity](https://open.spotify.com/track/6Fp3Zh7rCRiICGnPWVcCUk) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [High Fidelity](https://open.spotify.com/album/5ck0FDIBSpWzOgnEvSv6Uk) | 3:30 |
 | 86 | [I Believe In Kindness](https://open.spotify.com/track/5TRKSNjOfBoULSlNmjClmF) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [I Believe In Kindness](https://open.spotify.com/album/5in9PIuWzXQQvbFoojVXfl) | 3:30 |
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 93 | [I Need to Go Home](https://open.spotify.com/track/0pl86RyHZNLaWP6YeuJ9Cz) | [Isla Noon](https://open.spotify.com/artist/14DaqRFdDOsSnbpw4cNhku) | [I Need to Go Home](https://open.spotify.com/album/1dbPxOCa9AzupuTtqT5iAl) | 3:37 |
 | 94 | [Locked On You \(feat\. BROODS\)](https://open.spotify.com/track/1NYvcIsc3jNAalKiyC4ywL) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Blossom](https://open.spotify.com/album/4CdFQ4boNTxFzjm9rFbL8d) | 2:41 |
 | 95 | [Weakness](https://open.spotify.com/track/045scjsVsgs4fJtvUgmWtz) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2), [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Weakness](https://open.spotify.com/album/5TJt7cpgQmAxuMkrbFvRif) | 3:27 |
-| 96 | [Lover Be Brave](https://open.spotify.com/track/1jQIhBAiQjnHii3puL0NDL) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Ladder to the Moon](https://open.spotify.com/album/1o4oSjHsPdxJYurihyfI0i) | 0:29 |
+| 96 | [Lover Be Brave](https://open.spotify.com/track/1jQIhBAiQjnHii3puL0NDL) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Ladder to the Moon](https://open.spotify.com/album/1o4oSjHsPdxJYurihyfI0i) | 3:15 |
 | 97 | [complacent](https://open.spotify.com/track/7I1qkuYOk8sT9LNcT4uiK0) | [Cassie Henderson](https://open.spotify.com/artist/2lZ09YCpdWMMmBTSdDqspr) | [complacent](https://open.spotify.com/album/67Cmb6tbnATAVS1PGSgOTi) | 3:14 |
 | 98 | [Naked](https://open.spotify.com/track/5mUt693rCV1aMGHIuMe0pu) | [Jess Day](https://open.spotify.com/artist/5NQljfPqllxB64U0rpCnsk) | [Naked](https://open.spotify.com/album/2NIRrSHvc3qbJ4LWrLAYtJ) | 3:12 |
 | 99 | [FLARE](https://open.spotify.com/track/16hxnA8hrQ7hT5cKzuRfUI) | [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [FLARE](https://open.spotify.com/album/3xTwXIBYS3w4LjFtIi7hIO) | 3:18 |

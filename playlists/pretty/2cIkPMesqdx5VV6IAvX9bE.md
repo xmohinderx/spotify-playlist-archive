@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/2cIkPMesqdx5VV6IAvX9bE.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 352 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 352 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tonight's the Night \(Gonna Be Alright\) \- 2008 Remaster](https://open.spotify.com/track/52YNr0Hzvx9SbKjzbq49XL) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Definitive Rod Stewart](https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj) | 0:29 |
+| 1 | [Tonight's the Night \(Gonna Be Alright\) \- 2008 Remaster](https://open.spotify.com/track/52YNr0Hzvx9SbKjzbq49XL) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Definitive Rod Stewart](https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj) | 3:57 |
 | 2 | [I Just Want To Be Your Everything](https://open.spotify.com/track/7qdqcC2OurUrqZBwlEFivG) | [Andy Gibb](https://open.spotify.com/artist/4YPqbAiLzBg5DIfsgQZ8QK) | [Mythology](https://open.spotify.com/album/1ePV6K6qtvsn7kUPMwqaWJ) | 3:48 |
 | 3 | [Best of My Love \- Single Version](https://open.spotify.com/track/0dBIRqrKow6d4Tkv4DMSke) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [Pledging My Love](https://open.spotify.com/album/3XuQdwsTSHLSnfLNGyUlAN) | 3:40 |
 | 4 | [Evergreen \(Love Theme from, "A Star Is Born"\)](https://open.spotify.com/track/5SuEUz1orwSwkfqgFlJUHG) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [The Essential Barbra Streisand](https://open.spotify.com/album/03LP0iA5hWsCVeDFHMV7Z8) | 3:04 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/2cIkPMesqdx5VV6IAvX9bE.md) - [plain]
 | 37 | [Looks Like We Made It](https://open.spotify.com/track/2FtLky5sftRTZuX2IXsD8L) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [The Essential Barry Manilow](https://open.spotify.com/album/2RIG6dV498CqdszzYfZYgA) | 3:33 |
 | 38 | [So Into You](https://open.spotify.com/track/5mpzCj9l1pYsL4XOXiea84) | [Atlanta Rhythm Section](https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw) | [20th Century Masters: The Millennium Collection: Best Of Atlanta Rhythm Section](https://open.spotify.com/album/72HlYFr3YD7gWjFacHOZ6f) | 4:23 |
 | 39 | [Dreams](https://open.spotify.com/track/703BT1NQsfIwPFv8MXQ47m) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/63k57x0qOkUWEMR0dkMivh) | 4:14 |
-| 40 | [Enjoy Yourself](https://open.spotify.com/track/3D97kRhZprR6RumFhDFIr4) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [The Essential Michael Jackson](https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY) | 0:29 |
+| 40 | [Enjoy Yourself](https://open.spotify.com/track/3D97kRhZprR6RumFhDFIr4) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [The Essential Michael Jackson](https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY) | 3:21 |
 | 41 | [Dazz \- Single Version](https://open.spotify.com/track/5gQCUf4lfy6GpuhdPzxQ6B) | [Brick](https://open.spotify.com/artist/4Uv0Jg45Oq7vBXXwQNhXyf) | [Super Hits](https://open.spotify.com/album/0NQ5vEtFfn6MDbFtNk3gUQ) | 3:22 |
 | 42 | [I'm In You](https://open.spotify.com/track/03zB9duFz1JqLxAIYvGdac) | [Peter Frampton](https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W) | [I'm In You](https://open.spotify.com/album/1yn9J074uklyngo5SGS49U) | 4:10 |
 | 43 | [Lucille \- 2006 Digital Remaster](https://open.spotify.com/track/53JzReeFzXYkCUTCHuulkW) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Number Ones](https://open.spotify.com/album/00CBhqdZu9aooYsvTkYWgT) | 3:39 |

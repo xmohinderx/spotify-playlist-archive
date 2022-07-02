@@ -4,7 +4,7 @@
 
 > An array of selects by Kx5, a collaboration over a decade and a half in the making by deadmau5 & Kaskade.
 
-140 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/3ZZheCoq2krlIb03B150LK)
+140 songs - 10 hr 39 min - [published](https://open.spotify.com/playlist/3ZZheCoq2krlIb03B150LK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Escape \(feat\. Hayla\) \- John Summit Remix](https://open.spotify.com/track/0UvddYrJK4x5OWfxpSAZNj) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(feat\. Hayla\) \[John Summit Remix\]](https://open.spotify.com/album/6LlmEKcwDAjYTqr5lu0W6v) | 3:46 | 2022-06-09 |  |
 | [Everything Goes \- Monkey Safari Remix](https://open.spotify.com/track/3XoHR74jJdDl7ciyNo5akd) | [UNDERHER](https://open.spotify.com/artist/450wFwmuEK6ytahAaWlhbX), [Anaphase](https://open.spotify.com/artist/6JqmJMb21MmVH1UozFIvnv), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Everything Goes](https://open.spotify.com/album/2xmfler0lYL5ZSIs4cEdMW) | 6:10 | 2021-12-15 | 2022-05-17 |
 | [Eyes v3](https://open.spotify.com/track/5m5IkdeoM2EO5emrntl2zW) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Eyes v3](https://open.spotify.com/album/1QJo1FNPJnfzVRlb6ofEQ2) | 4:30 | 2022-06-09 |  |
-| [Feels Like](https://open.spotify.com/track/6Y82UdCmkWnOZTtS7X6ss8) | [Morgin Madison](https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej) | [Living the Phantasm](https://open.spotify.com/album/32HTSzMIjOG6uYSL1qaK7u) | 0:29 | 2022-06-09 |  |
+| [Feels Like](https://open.spotify.com/track/6Y82UdCmkWnOZTtS7X6ss8) | [Morgin Madison](https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej) | [Living the Phantasm](https://open.spotify.com/album/32HTSzMIjOG6uYSL1qaK7u) | 3:41 | 2022-06-09 |  |
 | [Five Vibe](https://open.spotify.com/track/30K305JbPTriNieXQJWAB1) | [Rendher](https://open.spotify.com/artist/4Icdw6ZLVk2NkjIjMhJSc6) | [Trailz](https://open.spotify.com/album/6mYAFfnR1vzqyIId7sN5fL) | 5:16 | 2021-12-15 | 2022-05-17 |
 | [Flames](https://open.spotify.com/track/1ehxdc6M8yoOZw4zjDRiHC) | [FuntCase](https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D), [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [EDC Las Vegas 2022](https://open.spotify.com/album/22gZTr2ZQuaG5Ae73sJXau) | 3:32 | 2022-05-16 | 2022-06-10 |
 | [Forbidden Flow](https://open.spotify.com/track/7sli3rMyzEwFZjqPKuezm0) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK) | [Forbidden Flow / 18 Min Loop](https://open.spotify.com/album/63NkGj3LDryetLYXtvNwIv) | 6:56 | 2022-06-09 |  |

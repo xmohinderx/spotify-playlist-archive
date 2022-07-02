@@ -4,7 +4,7 @@
 
 > Instrumental guitar for rainy day contemplation.
 
-140 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/0OFjYAHKTUhiFgc9oYNNXy)
+140 songs - 6 hr 6 min - [published](https://open.spotify.com/playlist/0OFjYAHKTUhiFgc9oYNNXy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Amorosa](https://open.spotify.com/track/2U9Abi4ZwTuJXyyuru5aZJ) | [Tor Dahl](https://open.spotify.com/artist/5GfnXcZhvTgsNpj5U1CkBU) | [Amorosa](https://open.spotify.com/album/16fq5y6Mf70i5nfM10O7R6) | 2:34 | 2021-12-23 | 2022-03-02 |
 | [Autumn Arpeggio](https://open.spotify.com/track/2qbrCLrQYmF0MXsM14j0Xy) | [Philip Wise](https://open.spotify.com/artist/63CxYHMxXN1vygSUb0BgSP) | [Autumn Arpeggio](https://open.spotify.com/album/5UZkDelwTrgxwQQztgpdaj) | 2:11 | 2021-12-23 |  |
 | [Autumn Melancholia](https://open.spotify.com/track/4taVl4QvjzirByhD4Us9BY) | [DeLand](https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0) | [Autumn Melancholia](https://open.spotify.com/album/3QUiXppQZOO6c1uFLcEOoQ) | 2:24 | 2021-12-23 |  |
-| [Behind the lines](https://open.spotify.com/track/7qDMgfVahRq3GfjRFmW4aI) | [Alex Miracone](https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh) | [Behind the lines](https://open.spotify.com/album/2PzIJI6qTvSsEcBMxfACVC) | 0:29 | 2021-12-23 |  |
+| [Behind the lines](https://open.spotify.com/track/7qDMgfVahRq3GfjRFmW4aI) | [Alex Miracone](https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh) | [Behind the lines](https://open.spotify.com/album/2PzIJI6qTvSsEcBMxfACVC) | 2:17 | 2021-12-23 |  |
 | [Bibo No Aozora](https://open.spotify.com/track/5JitZNsoYf7zzF2MDcwO8G) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Bibo No Aozora](https://open.spotify.com/album/0o613KBRB7aYyCURvsyyZT) | 3:06 | 2021-12-23 | 2022-03-02 |
 | [Blessing](https://open.spotify.com/track/2mnkJQfcSdnT71z3FUpCFD) | [Rob Willard](https://open.spotify.com/artist/4AZkp9pNQJf5f8EZkjVgTl) | [Blessing](https://open.spotify.com/album/0hWDQ5WjbOBkWUfFxgI10B) | 1:59 | 2022-03-01 |  |
 | [Bosque Nevado](https://open.spotify.com/track/6S3dGUUgqt61UnjFqL1C0W) | [Ernesto Jiménez](https://open.spotify.com/artist/6xf34gZLMObXtgYsbmyjRS) | [Bosque Nevado](https://open.spotify.com/album/0mzN5tEu3Fm035fbQ7norg) | 2:23 | 2021-12-23 |  |
@@ -53,7 +53,7 @@
 | [Getsuei](https://open.spotify.com/track/5VVHPMx47waVZE7rNutKd4) | [Ryohei Shimoyama](https://open.spotify.com/artist/22rBJY8j8xwmBm0Iml3Cgt) | [Getsuei](https://open.spotify.com/album/7wImlh1GGjFobn5I00H2B6) | 4:20 | 2022-06-24 |  |
 | [Giardino del respiro](https://open.spotify.com/track/0vN8hsuQ8yOldDKnVMuzEU) | [Loulou Metellus](https://open.spotify.com/artist/2A2AbvIq2SmTFLWbzqtoLX) | [Giardino del respiro](https://open.spotify.com/album/10a1HPIygy93hpQc3r5pgZ) | 2:17 | 2021-12-23 |  |
 | [Gilmerton](https://open.spotify.com/track/2zJvW1rqjvYHFNPl2mYuPk) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Gilmerton](https://open.spotify.com/album/1X2C2VeeduvqLPPA9X6KlC) | 2:19 | 2021-12-23 |  |
-| [Goosefeather](https://open.spotify.com/track/69d9kb1rQwbDKI1UlO7Zf5) | [Riverkin](https://open.spotify.com/artist/4xsqwbF6mpNckpRPn4AEBr) | [Two Trees](https://open.spotify.com/album/2qNkOL7MgmDaFpTGCiqUZd) | 2:40 | 2021-12-23 |  |
+| [Goosefeather](https://open.spotify.com/track/69d9kb1rQwbDKI1UlO7Zf5) | [Riverkin](https://open.spotify.com/artist/4xsqwbF6mpNckpRPn4AEBr) | [Two Trees](https://open.spotify.com/album/2qNkOL7MgmDaFpTGCiqUZd) | 0:29 | 2021-12-23 |  |
 | [gracious](https://open.spotify.com/track/3pcXZi83bswd1bDCDjCr5G) | [Elum Vance](https://open.spotify.com/artist/0Ams3Y9kvFZ7zJ0iPkIhfG) | [windows](https://open.spotify.com/album/0T3syhriHLYTW1Uskr3kGE) | 2:51 | 2021-12-23 |  |
 | [Guachinango](https://open.spotify.com/track/2UMCVuUjTYG2ZJf9Dqdmuq) | [Acusticalia](https://open.spotify.com/artist/0JsktCrX85DtrZ4PWbs3bv) | [Mixtlan](https://open.spotify.com/album/28muYyyz6ID3quXRKM4SN0) | 2:35 | 2021-12-23 |  |
 | [Guitar Homage to A\. Scriabin](https://open.spotify.com/track/6Imfr8naShMDpjMY14g6o9) | [Los Vasos Comunicantes](https://open.spotify.com/artist/2aNXMjF7dyGAYuOAAJ8qwV) | [Guitar Homage to A\. Scriabin](https://open.spotify.com/album/1NjsxEO61UhSq0JVyn1hz9) | 1:50 | 2021-12-23 |  |
@@ -74,7 +74,7 @@
 | [La Suerte Llegará](https://open.spotify.com/track/6kkupWXVg8I0XjbCbx7lHu) | [Alonso Librado](https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0) | [La Suerte Llegará](https://open.spotify.com/album/1kGSX1V9qlLqa51ldvn9TR) | 2:25 | 2021-12-23 |  |
 | [Lac de Marion](https://open.spotify.com/track/7DOfjD9dGQiYdYdBOaDTcB) | [Pascal Desprez](https://open.spotify.com/artist/6ejWaGjAI1lJ3PcLJ6c3OW) | [Lac de Marion](https://open.spotify.com/album/7f3ISdhodcTS8WkTJQ7saM) | 2:10 | 2021-12-23 |  |
 | [Lakeside](https://open.spotify.com/track/3fRdZDTuvJruh5mHXwja88) | [Antoine Pepe](https://open.spotify.com/artist/1GZ7usuOguq1obg0YHjy2S) | [Lakeside](https://open.spotify.com/album/5lkbhoHHJFAMEuFKAm74Ud) | 2:18 | 2021-12-23 | 2022-05-27 |
-| [Let Me Reach That Mountain](https://open.spotify.com/track/11jFSuok2S4g04ziCBd44w) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Let Me Reach That Mountain](https://open.spotify.com/album/63QYtDWsFzy2yxYvMPcnCT) | 0:29 | 2021-12-23 |  |
+| [Let Me Reach That Mountain](https://open.spotify.com/track/11jFSuok2S4g04ziCBd44w) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Let Me Reach That Mountain](https://open.spotify.com/album/63QYtDWsFzy2yxYvMPcnCT) | 3:31 | 2021-12-23 |  |
 | [Let there be dusk](https://open.spotify.com/track/2vAwGQP1uwWbntjDBI7zqE) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Let there be dusk](https://open.spotify.com/album/0pJ3iGzScpSKx0d0YAuxjg) | 2:53 | 2021-12-23 |  |
 | [Light of Seven](https://open.spotify.com/track/0RLxH84fjtDbLbflloUiQG) | [Tomas Hilber](https://open.spotify.com/artist/2pxii0UbnSs9vWOt4QcmHN) | [Light of Seven](https://open.spotify.com/album/3G395USQ5og7Qq5Hvnh7lg) | 1:59 | 2021-12-23 |  |
 | [Lighthouse](https://open.spotify.com/track/527HRQnZDhhXM4fWV3iTga) | [Moody Me](https://open.spotify.com/artist/195UO4AUwZfApowkBDD3i8) | [Lighthouse](https://open.spotify.com/album/3AvjxvjZIFayjwENZ5ZFni) | 2:42 | 2021-12-23 |  |
@@ -88,7 +88,7 @@
 | [Mad World](https://open.spotify.com/track/1sTFd9Uzlpn1ezszKvfA8U) | [Sergei Baronin](https://open.spotify.com/artist/43F9YqxW89cDIMwYv7Ruoy) | [Modern Composers on Guitar](https://open.spotify.com/album/1eMnPhrwbrQ2xCn75eNRo1) | 3:15 | 2021-12-23 |  |
 | [Magic Guitar](https://open.spotify.com/track/0S6EowEvexHX4r4t1SscDd) | [Madjid Fahem](https://open.spotify.com/artist/4r2IfAxqQFZ3NFOa44wA4w) | [Magic Guitar](https://open.spotify.com/album/3fGydqF4H5ncJDD4jr1Nv2) | 2:36 | 2021-12-23 |  |
 | [Mainway Orchard](https://open.spotify.com/track/1rKEYO07UzuaGoVIuGNUVS) | [Faircamp](https://open.spotify.com/artist/1xxKCb2lrYVUmTL6EbD0Pu) | [Into the Wind](https://open.spotify.com/album/4qrpQBGCS95ekF7eEvZRue) | 2:33 | 2021-12-23 |  |
-| [Mayo](https://open.spotify.com/track/5Q5Dt6MsjoVz5lqnV8H93e) | [Jaume Torrent](https://open.spotify.com/artist/04QMH563wBsRiKHJCi0O24) | [Mayo](https://open.spotify.com/album/0XOMQ8PVzoWIUNcR6grxY7) | 0:29 | 2021-12-23 |  |
+| [Mayo](https://open.spotify.com/track/5Q5Dt6MsjoVz5lqnV8H93e) | [Jaume Torrent](https://open.spotify.com/artist/04QMH563wBsRiKHJCi0O24) | [Mayo](https://open.spotify.com/album/0XOMQ8PVzoWIUNcR6grxY7) | 1:20 | 2021-12-23 |  |
 | [Melrose](https://open.spotify.com/track/5ngbgfC1bhMA7WMxzH9Cfe) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Melrose](https://open.spotify.com/album/6Z1EwaLJ7zU8SaGywp0pSj) | 2:04 | 2021-12-23 |  |
 | [Mendoza](https://open.spotify.com/track/1tDp655UeKaHN3J23HHave) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Mendoza](https://open.spotify.com/album/2Bxw8YfgCBm91kJrRk8U8k) | 4:31 | 2021-12-23 |  |
 | [Midnight in Olivebridge](https://open.spotify.com/track/73CfMnErjqLOpi1hIDtU4v) | [Marcel Vasnov](https://open.spotify.com/artist/0J6aflTK3MQGQGQgIqg9j3) | [Copake Lake](https://open.spotify.com/album/7bmwJew61SQ04jqcX9qW5U) | 2:43 | 2021-12-23 |  |

@@ -4,7 +4,7 @@
 
 > Get your spirits up and manage your mood any time of the day
 
-51 songs - 2 hr 46 min - [published](https://open.spotify.com/playlist/1o7EepyilIUDZHnRGHzKt5)
+51 songs - 2 hr 56 min - [published](https://open.spotify.com/playlist/1o7EepyilIUDZHnRGHzKt5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,12 +28,12 @@
 | [Kapeesa](https://open.spotify.com/track/60scLv2PhYUcdsVQr78YlM) | [Lydia Jazmine](https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM) | [Kapeesa](https://open.spotify.com/album/2pxRmxOxuTYP6WhiQMQpsp) | 3:49 | 2022-06-06 |  |
 | [Kiiba \(feat\. Smarty\)](https://open.spotify.com/track/6aliqk3DjcxVudF7DimupW) | [Alif Naaba](https://open.spotify.com/artist/6gBDYPJWwqOGmfQyWsDXPh), [Smarty](https://open.spotify.com/artist/0bptA6l4hIWy33bCXiXO45) | [So Wok](https://open.spotify.com/album/49KgzdtouSFVzNDjGc4s3l) | 3:43 | 2022-06-06 |  |
 | [Kiisa](https://open.spotify.com/track/6shA8gHbr9tWQ7awaTaKQN) | [Apio Moro](https://open.spotify.com/artist/3TS6PfDQo5FRZaG03GdkAj) | [Chuny Adech](https://open.spotify.com/album/2kLX8zNWi2URRm7Mvxw2ib) | 3:24 | 2022-06-06 |  |
-| [Kukaliba](https://open.spotify.com/track/5q4BS8l70bcV9zHfw8yLgr) | [Rema namakula](https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr) | [Kukaliba](https://open.spotify.com/album/306oZUKME7u2xQ9eIa5cdD) | 0:29 | 2022-06-06 |  |
+| [Kukaliba](https://open.spotify.com/track/5q4BS8l70bcV9zHfw8yLgr) | [Rema namakula](https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr) | [Kukaliba](https://open.spotify.com/album/306oZUKME7u2xQ9eIa5cdD) | 3:53 | 2022-06-06 |  |
 | [Legeza](https://open.spotify.com/track/4FragLnXmS8EJA9WPLr9fW) | [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol), [Denesi](https://open.spotify.com/artist/2j5qvgoDULdbdLaFfb1Ap6), [Walter Yt](https://open.spotify.com/artist/1M3yIJrAXh63N36XijhgfA) | [Niwe Akeine](https://open.spotify.com/album/56P2WzBZ9fmYvRBC1ydNQE) | 3:26 | 2022-06-06 |  |
-| [Luberera](https://open.spotify.com/track/4tWynXHlhctDDWr0Spw6Zn) | [Izabelug](https://open.spotify.com/artist/0J3dUYKRMkCBAN0vL0mteJ) | [Luberera](https://open.spotify.com/album/2ekWdKwqx2qzbqsECQcn8h) | 0:29 | 2022-06-06 |  |
+| [Luberera](https://open.spotify.com/track/4tWynXHlhctDDWr0Spw6Zn) | [Izabelug](https://open.spotify.com/artist/0J3dUYKRMkCBAN0vL0mteJ) | [Luberera](https://open.spotify.com/album/2ekWdKwqx2qzbqsECQcn8h) | 3:51 | 2022-06-06 |  |
 | [Machozi Machoni](https://open.spotify.com/track/7LmsBwJdArqh6HSpOwzpr9) | [Gnl Zamba](https://open.spotify.com/artist/0tEJn5RI5zOHwSlbDkBiDP), [Radio And Weasel](https://open.spotify.com/artist/6T7qNEpvmBKYKIOtr7GQeP) | [Speaking Vernacular](https://open.spotify.com/album/08LOeBsrzYZekjfFPoPgpp) | 4:01 | 2022-06-06 |  |
 | [Mpulira](https://open.spotify.com/track/2Stgu3JrecN6iC1qDEvOOk) | [Iryn Namubiru](https://open.spotify.com/artist/3wL9WpeM5kjkIw3CxIRIDf) | [Mpulira](https://open.spotify.com/album/0AdUYa3CWWfdYWSNMrexxl) | 4:18 | 2022-06-06 |  |
-| [Muchuzi](https://open.spotify.com/track/4LAHC8YHdw0IEQZNDUagmD) | [Rema namakula](https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr) | [Kukaliba](https://open.spotify.com/album/306oZUKME7u2xQ9eIa5cdD) | 0:29 | 2022-06-06 |  |
+| [Muchuzi](https://open.spotify.com/track/4LAHC8YHdw0IEQZNDUagmD) | [Rema namakula](https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr) | [Kukaliba](https://open.spotify.com/album/306oZUKME7u2xQ9eIa5cdD) | 3:22 | 2022-06-06 |  |
 | [Mukama Yamba](https://open.spotify.com/track/1IsHsqhe1ACEaGeJ4jsoHE) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Mukama Yamba](https://open.spotify.com/album/6jszbfelt6NdHu0ncj3cdy) | 4:04 | 2022-06-06 |  |
 | [Mulisa Omusubbawa](https://open.spotify.com/track/5Efm581hRW2myabSJPwFba) | [Edrine Matovu](https://open.spotify.com/artist/27SQtyfntb31K4H9LJDiwd), [Aldo Onyango](https://open.spotify.com/artist/4q8WaPFlyXWb6wTmAI3uiI) | [Mulisa Omusubbawa](https://open.spotify.com/album/74YrNvBCHoit0jQ0ylTjxB) | 4:18 | 2022-06-24 |  |
 | [Naki](https://open.spotify.com/track/7c2UaLROWqBnj32u6nrNvq) | [Kenneth Mugabi](https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF) | [Kibunomu](https://open.spotify.com/album/1cc9sKFy3FDPyGzKYSYehp) | 2:46 | 2022-06-06 |  |

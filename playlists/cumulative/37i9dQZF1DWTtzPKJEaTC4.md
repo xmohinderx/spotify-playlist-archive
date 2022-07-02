@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4UpA1KitN1RgIZVyWDbZ0U">DOMi & JD BECK</a> collaborates with Spotify on this playlist to share their jazz favorites
 
-266 songs - 1 day 0 hr 38 min - [published](https://open.spotify.com/playlist/42A9uUxoL8MOPVcDBrKJhZ)
+266 songs - 1 day 0 hr 43 min - [published](https://open.spotify.com/playlist/42A9uUxoL8MOPVcDBrKJhZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Equipoise](https://open.spotify.com/track/3gvQD27MucPhSDt2aYldtC) | [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [Members Don't Get Weary](https://open.spotify.com/album/4IsvKtWOhpW3iutOJ8pU96) | 6:21 | 2022-01-13 | 2022-01-17 |
 | [Filles de Kilimanjaro](https://open.spotify.com/track/0iaRT2PuWlT54qHXQrzQOg) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Filles De Kilimanjaro](https://open.spotify.com/album/7pFyY6SvB0XlUKp8srk8Az) | 12:00 | 2022-04-29 | 2022-06-18 |
 | [Fleurette Africaine \(African Flower\) \- Remastered](https://open.spotify.com/track/4Keh41jYFaVPP5C82DxmTG) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Money Jungle](https://open.spotify.com/album/5I3aoewqDpP4TglIl9O7su) | 3:36 | 2022-01-13 | 2022-06-18 |
-| [Flim](https://open.spotify.com/track/4q650OiSDQIwccxDFpuuBm) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/0ofaIVDxemaYYQipgWRYKp) | 0:29 | 2022-06-17 |  |
+| [Flim](https://open.spotify.com/track/4q650OiSDQIwccxDFpuuBm) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/0ofaIVDxemaYYQipgWRYKp) | 2:57 | 2022-06-17 |  |
 | [For Free? \- Live](https://open.spotify.com/track/0SNROKqamSOk4z0d239PB0) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Gray Area](https://open.spotify.com/artist/13Lb8k8i02zu2iSFPY9rg6) | [Sounds of Crenshaw & Jammcard present: Terrace Martin's Gray Area Live at the JammJam](https://open.spotify.com/album/73jqN3RJHFKWqw2wfltZCx) | 8:27 | 2022-01-17 | 2022-02-19 |
 | [Four Folks](https://open.spotify.com/track/4GP7orTvd2PuK9oDUTq5i6) | [Jeff Parker](https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt) | [Forfolks](https://open.spotify.com/album/5xu3KOOnK4xqROr66AVztS) | 5:34 | 2022-04-29 | 2022-06-18 |
 | [Fred](https://open.spotify.com/track/3qfLV015NcpofyPCwAn9oJ) | [Tony Williams](https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe) | [Lifetime: The Collection](https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza) | 6:44 | 2022-06-17 |  |
@@ -96,7 +96,7 @@
 | [I Like A Sleighride \(Jingle Bells\)](https://open.spotify.com/track/3jheksJvnFHyorGydYuwuN) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Christmas Carousel](https://open.spotify.com/album/0IbfiaKXOENE7Wn3SzLZFd) | 2:05 | 2021-12-10 | 2022-01-14 |
 | [I Need You \- Recorded at Electric Lady Studios](https://open.spotify.com/track/7lbZRE2H5VKRqFDcCGni2k) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Live At Electric Lady](https://open.spotify.com/album/6QTzCV8ST4VAMxFFv5NyMn) | 3:48 | 2022-02-18 | 2022-03-18 |
 | [I Thought About You \- Live at Philharmonic Hall, New York, NY \- February 1964](https://open.spotify.com/track/3khwARwpD8kCmcEPCLzTLf) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [My Funny Valentine](https://open.spotify.com/album/4RvpKDJOaZviOSomNRyob4) | 11:14 | 2022-02-18 | 2022-03-18 |
-| [I Wanna Be Loved](https://open.spotify.com/track/0XTwZcawE3Nrre8y6Heinl) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [I Wanna Be Loved](https://open.spotify.com/album/2C49E8kj9fymqSWRJ3PbRO) | 0:29 | 2022-06-17 |  |
+| [I Wanna Be Loved](https://open.spotify.com/track/0XTwZcawE3Nrre8y6Heinl) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [I Wanna Be Loved](https://open.spotify.com/album/2C49E8kj9fymqSWRJ3PbRO) | 2:43 | 2022-06-17 |  |
 | [I'm Just a Lucky so and So \- 1990 Remaster](https://open.spotify.com/track/1QFyOkiXNXx7kCWIYwrKH6) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Great Summit \- The Complete Sessions\-Deluxe Edition](https://open.spotify.com/album/1Fquufzod0wEcCXt6oYnCJ) | 3:09 | 2022-02-18 | 2022-03-18 |
 | [I've Got My Love To Keep Me Warm](https://open.spotify.com/track/5jZBn6jnhdZUGnpooAMnwF) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Stay With Me](https://open.spotify.com/album/7bYdTH2MYBFnyyispVgYNS) | 3:58 | 2021-12-10 | 2022-01-14 |
 | [II B.S\. \- Edit](https://open.spotify.com/track/1wVqyP5MC3wJmOvEk9e6Ts) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Mingus Mingus Mingus Mingus](https://open.spotify.com/album/12DCd8u80PoRIvBgjQrtuH) | 4:48 | 2022-01-13 | 2022-01-17 |

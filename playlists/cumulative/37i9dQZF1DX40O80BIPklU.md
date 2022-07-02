@@ -4,7 +4,7 @@
 
 > De Tijuana a Tierra del Fuego, aquí los que dominan el juego\. Foto: Yoss Bones, Santa Salut, Almanegra, Zxmyr
 
-100 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/1FI4Y6oYusBHTp00FAfqcv)
+100 songs - 5 hr 45 min - [published](https://open.spotify.com/playlist/1FI4Y6oYusBHTp00FAfqcv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Barrio Latino](https://open.spotify.com/track/0w2aP2dOpP0NzZkF6KrH9K) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Barrio Latino](https://open.spotify.com/album/5ma9J5X1CO2tJ79UdtgZCL) | 4:16 | 2021-12-30 |  |
 | [Basura](https://open.spotify.com/track/0cYBYOIh4MBfqKTJLW7l7B) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA) | [Basura](https://open.spotify.com/album/3i7rjEauwC9KmXiMsyS5U1) | 2:20 | 2021-12-30 | 2022-03-26 |
 | [Bitman Shiet](https://open.spotify.com/track/3A1rpugzLtrJ93vpXRyy7Y) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Bitman Shiet](https://open.spotify.com/album/3qP2HaThCH1EhcTZaab9eE) | 3:17 | 2021-12-30 |  |
-| [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny) | 0:29 | 2022-04-18 |  |
+| [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny) | 2:26 | 2022-04-18 |  |
 | [Chambean](https://open.spotify.com/track/27xdbLOIQOd3wdAsDCbvBz) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Tego Calderon](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Chambean](https://open.spotify.com/album/5JyYjkVmEgpPet9nOTvuL3) | 3:12 | 2022-01-28 |  |
 | [CLASE G](https://open.spotify.com/track/3YWUpw4iePPtUDT0qO52Jn) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [CashMoneyAp](https://open.spotify.com/artist/0vMv24BXeZOK8l3S5SMLri) | [CLASE G](https://open.spotify.com/album/6SuRkKnWq0XW9K0XuwcZpQ) | 2:07 | 2021-12-30 |  |
 | [CLOACA](https://open.spotify.com/track/0hsE4KoZ14iXURFc8Lf4dU) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K), [Doktor Rheal](https://open.spotify.com/artist/6RLtMINjyT15TfS3enUhFF) | [YEYO](https://open.spotify.com/album/2omBpLdhqRgjBneDnziZpp) | 2:59 | 2022-03-15 |  |

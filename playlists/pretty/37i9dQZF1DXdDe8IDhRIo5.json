@@ -1,12 +1,12 @@
 {
   "description": "Django and beyond.",
-  "num_followers": 257539,
+  "num_followers": 257569,
   "original_name": "Hot Club Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQzODUyMCwwMDAwMDAzODAwMDAwMTgxNmZkMzJmNTUwMDAwMDE3NzZlNzBjNGJl",
+  "snapshot_id": "MTY1NjY0ODEyMCwwMDAwMDAzOTAwMDAwMTgxYjdlYzM3NjcwMDAwMDE3NzZlNzBjNGJl",
   "tracks": [
     {
       "added_at": "2022-06-17 04:02:00",
@@ -23,6 +23,26 @@
       "duration_ms": 126329,
       "name": "Avalon",
       "url": "https://open.spotify.com/track/2yzyvggVHHtSN3H57lFHuR"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "A Fadin' Blue",
+        "url": "https://open.spotify.com/album/21CGyD3PVhXNfMlq6QVLXc"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        },
+        {
+          "name": "Trio Rosenberg",
+          "url": "https://open.spotify.com/artist/3m85Qcm6eSr4ltsxjFSFAN"
+        }
+      ],
+      "duration_ms": 189065,
+      "name": "A Fadin' Blue",
+      "url": "https://open.spotify.com/track/6AvCrfnM8SZOuRrOZGsuER"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -556,7 +576,7 @@
           "url": "https://open.spotify.com/artist/7DOLup8LOVWI6g9PoeUOO5"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 251733,
       "name": "1910",
       "url": "https://open.spotify.com/track/2nf1tuhOmb7npTSDUryiAd"
     },
@@ -760,7 +780,7 @@
           "url": "https://open.spotify.com/artist/4xIooHvSmj2aWhQGrniJSu"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 349600,
       "name": "Manoir de mes r\u00eaves",
       "url": "https://open.spotify.com/track/4NZRU7uEZEL4nH29wAXtCg"
     },
@@ -1004,7 +1024,7 @@
           "url": "https://open.spotify.com/artist/4xIooHvSmj2aWhQGrniJSu"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 238200,
       "name": "Songe d'automne",
       "url": "https://open.spotify.com/track/1sUbrYb20WAdDd9AwoAlc2"
     },
@@ -1136,7 +1156,7 @@
           "url": "https://open.spotify.com/artist/3PCJQXCDzJpFPiAYvmQJ98"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 153066,
       "name": "Tchavolo Swing",
       "url": "https://open.spotify.com/track/7KTD9w6YRemUGglOZiuA4t"
     },
@@ -1180,7 +1200,7 @@
           "url": "https://open.spotify.com/artist/4zppvokHD35NLS7W7w5wf8"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 196626,
       "name": "Noto Swing",
       "url": "https://open.spotify.com/track/0V41BiC0l8yvfYNG7uca3k"
     },
@@ -1196,7 +1216,7 @@
           "url": "https://open.spotify.com/artist/4xIooHvSmj2aWhQGrniJSu"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 212040,
       "name": "Last Minute Swing",
       "url": "https://open.spotify.com/track/3tMGqSqmulMMkhEkXaKtyE"
     },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0RBvdfnbMgXjWu7ywqURZc.md) - [plain]
 
 > All the best hits from Shawn Mendes, Taylor Swift and more!
 
-[digster.fm](https://open.spotify.com/user/digster.fm) - 1,471 likes - 66 songs - 3 hr 29 min
+[digster.fm](https://open.spotify.com/user/digster.fm) - 1,474 likes - 66 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,14 +19,14 @@ pretty - [cumulative](/playlists/cumulative/0RBvdfnbMgXjWu7ywqURZc.md) - [plain]
 | 9 | [In Your Eyes](https://open.spotify.com/track/7szuecWAPwGoV1e5vGu8tl) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:57 |
 | 10 | [comethru \(with Bea Miller\)](https://open.spotify.com/track/0PgYPBGqF6Wm5KFHQ81nq5) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [comethru](https://open.spotify.com/album/10Dr3GO6OzrOwJwoY11IoH) | 3:01 |
 | 11 | [Amarillo](https://open.spotify.com/track/6zEgnpM0qYmHLDnh8WPejL) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 2:37 |
-| 12 | [Rise Up](https://open.spotify.com/track/6inzGTxyGsXVjpVKtFGrcE) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4) | [Rise Up](https://open.spotify.com/album/6UiZtVFcizmfrwAU3yLQH3) | 0:29 |
+| 12 | [Rise Up](https://open.spotify.com/track/6inzGTxyGsXVjpVKtFGrcE) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4) | [Rise Up](https://open.spotify.com/album/6UiZtVFcizmfrwAU3yLQH3) | 2:49 |
 | 13 | [Summer](https://open.spotify.com/track/5gM2SbhNzLAL9elqqrRwxu) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [Lately \- EP](https://open.spotify.com/album/6FwmrujtL2r7FfFVw5GUjb) | 3:43 |
 | 14 | [parents](https://open.spotify.com/track/68rVGSTnCiFOET9k5Vd8Se) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [the underrated youth](https://open.spotify.com/album/0kGTcfwQC5nlsubgxUXdwP) | 2:51 |
 | 15 | [Wild Girl](https://open.spotify.com/track/3IqwOIVNLdBs7av6n8Plrt) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Wild Girl](https://open.spotify.com/album/5gjaKIotnXLPTsb9lvp5vT) | 3:14 |
 | 16 | [The Good & The Bad](https://open.spotify.com/track/6LD4m5kbjSemWJaA9DdEIp) | [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [The Good & The Bad](https://open.spotify.com/album/19HUwMGdjDSb7AnO2UXFIM) | 3:57 |
 | 17 | [Sunday Best](https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Where the Light Is](https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc) | 2:38 |
 | 18 | [The Man](https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:10 |
-| 19 | [shut up](https://open.spotify.com/track/65mPCrY32YMQlBnmWVrKNa) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [portraits](https://open.spotify.com/album/51EYIcwEHs2WpaiZrrjWtT) | 0:29 |
+| 19 | [shut up](https://open.spotify.com/track/65mPCrY32YMQlBnmWVrKNa) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [portraits](https://open.spotify.com/album/51EYIcwEHs2WpaiZrrjWtT) | 2:50 |
 | 20 | [Afterlife](https://open.spotify.com/track/5WssbEU2WtMHm7NH37Nfz5) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 3:56 |
 | 21 | [Charlie](https://open.spotify.com/track/5Z69nqYhcktzSRDIBA9JvS) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Charlie](https://open.spotify.com/album/2sf7N2WKAzMKlpPn0JuYbj) | 3:10 |
 | 22 | [3am](https://open.spotify.com/track/1OfLNb6dQ9dra1B58iT9Ex) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:54 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/0RBvdfnbMgXjWu7ywqURZc.md) - [plain]
 | 54 | [Feel Up](https://open.spotify.com/track/4lTLA56cAilcRXpZWCWyS2) | [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Feel Up](https://open.spotify.com/album/5LACQrcCig2eYAbJFB8cTS) | 2:39 |
 | 55 | [In My Head \- GRYNN Mix](https://open.spotify.com/track/0Iyg9kVA6iC0AEyQ1urjZj) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0), [GRYNN](https://open.spotify.com/artist/3gd9PDYz0gQ2sDuYcckbJz) | [In My Head \(The Remixes\)](https://open.spotify.com/album/4yu4rNnE1W4iuwbkZgDF0U) | 3:41 |
 | 56 | [Overnight](https://open.spotify.com/track/4L9l5x0WuzNtyEBeqzvgPE) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:20 |
-| 57 | [All My Friends](https://open.spotify.com/track/70pP6E6VvznsfrSsznnQnk) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear](https://open.spotify.com/album/7jGNAMzrW5HMXdxl9XyBMG) | 0:29 |
+| 57 | [All My Friends](https://open.spotify.com/track/70pP6E6VvznsfrSsznnQnk) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear](https://open.spotify.com/album/7jGNAMzrW5HMXdxl9XyBMG) | 4:07 |
 | 58 | [Leaving My Love Behind](https://open.spotify.com/track/1NxHgM5nOnmqi3KUVLbaIw) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent \(Extended Edition\)](https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8) | 3:30 |
 | 59 | [she's all yours](https://open.spotify.com/track/50p8v7PAXUBoD5MzoZdr9s) | [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [lost](https://open.spotify.com/album/0hc021mB0QDSF4uCTr3Ki7) | 2:41 |
 | 60 | [you were good to me](https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent](https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC) | 3:39 |

@@ -4,7 +4,7 @@
 
 > 作曲、編曲、プロデュースワークを中心に活動。ジャンルを超えた表現で三木鶏郎広告音楽賞等、数々のアワードを受賞。
 
-70 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/4DkdDOCbJszfCHw9VWkIi5)
+70 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/4DkdDOCbJszfCHw9VWkIi5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [約束はいらない](https://open.spotify.com/track/2qvDmdXfhd77Ni254pLV0l) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [「天空のエスカフローネ」ORIGINAL SOUNDTRACK](https://open.spotify.com/album/71UWqGmTtpgFWn7m7anIr8) | 3:32 | 2022-02-28 |  |
 | [花は咲く](https://open.spotify.com/track/5S84EJBZewvQ3Ay36P3dps) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i), [Yukari Miyake](https://open.spotify.com/artist/5pjQssgpo08YK8ETdMRpu9), [Sawako Ota](https://open.spotify.com/artist/0SYT5bioDVNiUQEHeVqY94) | [祈り\~未来への歌声](https://open.spotify.com/album/1Gob4cRpGJpwjQEb6eCOFw) | 5:16 | 2022-02-28 |  |
 | [覚醒](https://open.spotify.com/track/1dPG9yEByXqXrU7cdQC3Or) | [Gabriela Robin](https://open.spotify.com/artist/1KvNXSn0FKGELFRpfm3ONi) | [アルジュナ into the another world](https://open.spotify.com/album/49uGwPXsVfNO8jtV5Hp4dU) | 7:57 | 2022-02-28 |  |
-| [誰か、海を。](https://open.spotify.com/track/7H8qFzEiM1TNDh4Mef2Xzw) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [DAWN](https://open.spotify.com/album/2fRyWvN5Rq4FRmae80RzF7) | 0:29 | 2022-02-28 |  |
+| [誰か、海を。](https://open.spotify.com/track/7H8qFzEiM1TNDh4Mef2Xzw) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [DAWN](https://open.spotify.com/album/2fRyWvN5Rq4FRmae80RzF7) | 4:54 | 2022-02-28 |  |
 | [走れ走れ](https://open.spotify.com/track/0tP8IbHLyTesf9Q6OMP8Wm) | [Kyoko Endo](https://open.spotify.com/artist/5xOKs0yqtUnyLnZcwtcyEQ) | [ゴールデン☆ベスト 輝きたいの Victor Years 1981\-1985 \(+'99\)](https://open.spotify.com/album/4owLMas5qVNONliIMEmGSJ) | 4:35 | 2022-02-28 |  |
 | [雨あがりのステップ](https://open.spotify.com/track/78IKMSMH7qgEKuHUQ4021Z) | [新しい地図](https://open.spotify.com/artist/3l6ilLuBa9uw4eWgVnzBAL) | [雨あがりのステップ](https://open.spotify.com/album/5TW72pURUT1VeQRWqGdc5I) | 5:20 | 2022-02-28 |  |
 

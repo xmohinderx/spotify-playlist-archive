@@ -4,7 +4,7 @@
 
 > A free space for Indigenous creators in Canada\. Currently curated by Susan Aglukark
 
-95 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/3SSsubeAfIHbsO9Jxcto5j)
+95 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/3SSsubeAfIHbsO9Jxcto5j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Nipuwoltin](https://open.spotify.com/track/6A4Gcb1sc1r2FTgnOljhUF) | [Jeremy Dutcher](https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f) | [Wolastoqiyik Lintuwakonawa](https://open.spotify.com/album/568Hw1PX6K12BdqyFSBj1E) | 2:09 | 2022-04-01 | 2022-05-07 |
 | [Nothing Is Meaningless](https://open.spotify.com/track/3FKtv1Gu9UEM48u6MtbFZM) | [Don Amero](https://open.spotify.com/artist/6vHn9yt7XU0dwlw0677xxs) | [Nothing Is Meaningless](https://open.spotify.com/album/6mbfe0uLpLTiqc8chVvqIW) | 3:25 | 2022-03-04 | 2022-04-02 |
 | [Nutarâsuk](https://open.spotify.com/track/2UC60EhosBPaCH9FQ3WPGG) | [Friedrich Reichardt](https://open.spotify.com/artist/1Cp6vGlrWhJpSygqKvg4D9), [Deantha Edmunds](https://open.spotify.com/artist/6bMwsfzqTf4Fs8IzlVUfHr), [Tom Gordon](https://open.spotify.com/artist/5YILjkdDZjTAcyVir2b7oI) | [My Beautiful Home](https://open.spotify.com/album/30GeFNV4NrzQcv4j7cDcHE) | 1:40 | 2022-06-03 |  |
-| [O Siem](https://open.spotify.com/track/2ouMDSbiSvFZqeAUr4mmVg) | [Susan Aglukark](https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C) | [White Sahara](https://open.spotify.com/album/6qnBJUlyjtoJO8yAQ3fSxP) | 0:29 | 2022-06-03 |  |
+| [O Siem](https://open.spotify.com/track/2ouMDSbiSvFZqeAUr4mmVg) | [Susan Aglukark](https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C) | [White Sahara](https://open.spotify.com/album/6qnBJUlyjtoJO8yAQ3fSxP) | 4:17 | 2022-06-03 |  |
 | [On Down The Road](https://open.spotify.com/track/2QOcEOw3ZHirscb3Fc2AVv) | [Don Amero](https://open.spotify.com/artist/6vHn9yt7XU0dwlw0677xxs) | [The Next Chapter](https://open.spotify.com/album/5IKhrRE1vYLEMBaKzCKIxt) | 1:39 | 2022-03-04 | 2022-05-07 |
 | [Orange Shirt Day](https://open.spotify.com/track/0oLulZFCfVH30uCMYYPeMI) | [Melody McKiver](https://open.spotify.com/artist/2gjAAOSvTNAJMZ04trV0SA) | [Returning Home \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7sWKJP7QMK6KHlevNSb7B2) | 1:52 | 2022-05-06 | 2022-06-04 |
 | [Out of the Blue](https://open.spotify.com/track/7nIamiKMwjk1l7TI0Dknrz) | [Éric Landry](https://open.spotify.com/artist/5JcrDVlDFIcpmPsEkfeJba) | [Native North America \(Vol\. 1\) : Aboriginal Folk, Rock, And Country 1966\-1985](https://open.spotify.com/album/20uFRx6K8E7YtRsbiRJyen) | 3:40 | 2022-04-01 | 2022-05-07 |

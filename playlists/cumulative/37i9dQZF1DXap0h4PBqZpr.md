@@ -4,11 +4,11 @@
 
 > Fina selección musical por el legendario ídolo del Rock Latinoamericano.
 
-29 songs - 2 hr 3 min - not published yet
+29 songs - 2 hr 11 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A la Casa](https://open.spotify.com/track/3SWMtEAUQfAkKRC3pr5YIm) | [Vandera](https://open.spotify.com/artist/7IxhhJ4I8RdyL9CIkdMnA0) | [Banda Original de Sonido de una Película Inconclusa](https://open.spotify.com/album/7IWVvSmWVIsxxytBXBuG71) | 0:29 | 2020-01-15 |  |
+| [A la Casa](https://open.spotify.com/track/3SWMtEAUQfAkKRC3pr5YIm) | [Vandera](https://open.spotify.com/artist/7IxhhJ4I8RdyL9CIkdMnA0) | [Banda Original de Sonido de una Película Inconclusa](https://open.spotify.com/album/7IWVvSmWVIsxxytBXBuG71) | 2:52 | 2020-01-15 |  |
 | [A Minha Menina](https://open.spotify.com/track/0lGEWOZvMexZFXckBJxlVO) | [Os Mutantes](https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX) | ["Os Mutantes"](https://open.spotify.com/album/0RBkIFbQy91qv8Tqja20og) | 4:44 | 2020-01-15 |  |
 | [Abre](https://open.spotify.com/track/4qIt6yKdk0YGPxDWoQrFUG) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Abre](https://open.spotify.com/album/4uOEHOabkf5hmv0ra14XJb) | 6:42 | 2020-01-15 |  |
 | [Ah Te Vi Entre Las Luces](https://open.spotify.com/track/3uZfEOQOiAmHXDV02FZM4e) | [La Maquina De Hacer Pájaros](https://open.spotify.com/artist/40c6EALi3nTmNeOAS3Eu5h) | [La Máquina De Hacer Pájaros](https://open.spotify.com/album/4uXadaCsBVwLK6s5V14Kjw) | 11:10 | 2020-01-15 |  |
@@ -19,12 +19,12 @@
 | [Demolición](https://open.spotify.com/track/3dTcwy3L3fOP0vm4Lz0zdD) | [Los Saicos](https://open.spotify.com/artist/4HYB35YLMCRIzQobpWs5yv) | [¡Demolición! The Complete Recordings](https://open.spotify.com/album/3Ai7SkBLKNZusgIRiP1R1M) | 2:57 | 2020-01-15 |  |
 | [Déjate Caer](https://open.spotify.com/track/1xtBatmC1muBOY1RnUvP8Z) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [La Espada & la Pared](https://open.spotify.com/album/3jk145dS5MIeZ6NZBAtvY0) | 3:22 | 2020-01-15 |  |
 | [El Oso](https://open.spotify.com/track/42WA51ZqDPtp4ZhJj2ngAB) | [Moris](https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5) | [Treinta Minutos de Vida](https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT) | 2:54 | 2020-01-15 |  |
-| [Hipercandombe](https://open.spotify.com/track/0h9QE6kspuK23cB8AYwmjZ) | [La Maquina De Hacer Pájaros](https://open.spotify.com/artist/40c6EALi3nTmNeOAS3Eu5h) | [Peliculas](https://open.spotify.com/album/6hlwylwLskentQQsbTKpcj) | 0:29 | 2020-01-15 |  |
+| [Hipercandombe](https://open.spotify.com/track/0h9QE6kspuK23cB8AYwmjZ) | [La Maquina De Hacer Pájaros](https://open.spotify.com/artist/40c6EALi3nTmNeOAS3Eu5h) | [Peliculas](https://open.spotify.com/album/6hlwylwLskentQQsbTKpcj) | 4:30 | 2020-01-15 |  |
 | [Instituciones](https://open.spotify.com/track/4lbb8zGHPUwWNQkzBBYrl3) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Sí o Sí \- Diario del Rock Argentino \- Sui Generis](https://open.spotify.com/album/5XBgXYEw2flQFZDW1I8lFS) | 4:48 | 2020-01-15 |  |
 | [Jugo de Tomate](https://open.spotify.com/track/0agzpJR3jRbfLKhG5nWxx3) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 2:46 | 2020-01-15 |  |
 | [La Balsa](https://open.spotify.com/track/4J2xMy0kakU9sAin1uppxb) | [Los Gatos](https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU) | [Los Gatos](https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G) | 2:56 | 2020-01-15 |  |
 | [La Conferencia Secreta Del Toto's Bar/Mi Tía Clementina](https://open.spotify.com/track/76dkZsVQGxoXpzxo4IUCQp) | [Los Shakers](https://open.spotify.com/artist/5iObuPpXhQnJ40Pk2Ydkwr) | [La Conferencia Secreta Del Toto'S Bar](https://open.spotify.com/album/5XxBTFDzd16rHMG8x0sBgS) | 5:07 | 2020-01-15 |  |
-| [La Ventana Sin Cancel](https://open.spotify.com/track/1QBxPUkYUzlVaET2jacJbT) | [Litto Nebbia](https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA) | [Melopea](https://open.spotify.com/album/47F4NhL63vHv6Zesrg3DO6) | 0:29 | 2020-01-15 |  |
+| [La Ventana Sin Cancel](https://open.spotify.com/track/1QBxPUkYUzlVaET2jacJbT) | [Litto Nebbia](https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA) | [Melopea](https://open.spotify.com/album/47F4NhL63vHv6Zesrg3DO6) | 1:59 | 2020-01-15 |  |
 | [Laura Va](https://open.spotify.com/track/0IfhIK11A9J3IqQIf5WhRo) | [Almendra](https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo) | [El 1er Álbum Más los Singles](https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp) | 2:52 | 2020-01-15 |  |
 | [Los Cerezos Blancos](https://open.spotify.com/track/5BLXiyshg7334Ub0XFMfra) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [La Ciudad Liberada](https://open.spotify.com/album/7H2OIQCPLo1Qc1aBt00DIH) | 2:56 | 2020-01-15 |  |
 | [Malísimo](https://open.spotify.com/track/4HBOae56OYwfsv5UCqO8Nf) | [Banda Opa](https://open.spotify.com/artist/1vD9N4g1n5FoeuTZXQjcWo) | [Camino](https://open.spotify.com/album/1kKMavgSLFNVqW6Ckli7wr) | 8:27 | 2020-01-15 |  |

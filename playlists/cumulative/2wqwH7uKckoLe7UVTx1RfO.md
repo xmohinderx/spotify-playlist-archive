@@ -4,7 +4,7 @@
 
 > Coast through the good life with these folksy and blissed out tracks.
 
-78 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/5AOW1lkcvzw6zDUE1S9qsC)
+78 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/5AOW1lkcvzw6zDUE1S9qsC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Best Day Of My Life](https://open.spotify.com/track/5k31cAfP8yymw8v0AYQIjr) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Best Day Of My Life](https://open.spotify.com/album/3KEPRnqIELnO99csbeizVy) | 3:14 | 2016-10-07 |  |
 | [Breezeblocks](https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:47 | 2016-10-07 |  |
 | [Budapest](https://open.spotify.com/track/7q0aQpiLv5tIsupcgQ3Ny4) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage](https://open.spotify.com/album/7L4ZwpSwKQCerDQv9C4O1M) | 3:20 | 2016-10-07 |  |
-| [Celeste](https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste EP](https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt) | 0:29 | 2016-10-07 |  |
+| [Celeste](https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste EP](https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt) | 3:23 | 2016-10-07 |  |
 | [Chateau Lobby \#4 \(in C for Two Virgins\)](https://open.spotify.com/track/4KmylOc7EVRfTfy6OImJPX) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [I Love You, Honeybear](https://open.spotify.com/album/7buEcyw6fJF3WPgr06BomH) | 2:50 | 2016-10-07 |  |
 | [Class Historian](https://open.spotify.com/track/5iaWq4djtfWZk8McqrtprO) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264) | [Just Enough Hip To Be Woman](https://open.spotify.com/album/7enH7cYcQOGSyR8qCN39MB) | 3:32 | 2016-10-07 |  |
 | [Come Home](https://open.spotify.com/track/1WVenL3ZbumvxUGWOtn54r) | [CHAPPO](https://open.spotify.com/artist/0fdMBzQuX9TIF6t6N8fwg6) | [Plastique Universe](https://open.spotify.com/album/5t0YUNFrtY96rQqAwsmuJL) | 3:26 | 2016-10-07 |  |
@@ -46,7 +46,7 @@
 | [Little Numbers](https://open.spotify.com/track/5aUG1uGIUyehIJhT9ZgHU2) | [BOY](https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX) | [Little Numbers](https://open.spotify.com/album/2fUDoGacwjrK7zVFEQ60yG) | 3:39 | 2016-10-07 |  |
 | [Little Talks](https://open.spotify.com/track/3a2tuvXCHbW5nuUckuHkKT) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF) | 4:26 | 2016-10-07 |  |
 | [Lorelai](https://open.spotify.com/track/4GY7FKDpl5MkO78zHCSbZi) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Helplessness Blues](https://open.spotify.com/album/3l7iMXJ0jqFnIYZRyCUewC) | 4:24 | 2016-10-07 |  |
-| [Lost Coastlines](https://open.spotify.com/track/2016zoJ6TxYzqjwQNMh3kw) | [Okkervil River](https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY) | [The Stand Ins](https://open.spotify.com/album/4iyJdf6kUi1QrnluWY0GfQ) | 0:29 | 2016-10-07 |  |
+| [Lost Coastlines](https://open.spotify.com/track/2016zoJ6TxYzqjwQNMh3kw) | [Okkervil River](https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY) | [The Stand Ins](https://open.spotify.com/album/4iyJdf6kUi1QrnluWY0GfQ) | 5:31 | 2016-10-07 |  |
 | [Lucky Day](https://open.spotify.com/track/4FmxP236eZunoF0n4NEGml) | [Hunter Hunted](https://open.spotify.com/artist/1Xqfa9sfJ094hHdEVS1C6t) | [Ready For You](https://open.spotify.com/album/17EFF25Ee9kK5QgPgd4bv5) | 3:24 | 2016-10-07 |  |
 | [Make a New Dance Up](https://open.spotify.com/track/0Z3XSnscXtcJpGv5t0rgNr) | [Hey Ocean!](https://open.spotify.com/artist/0t7c4kEOzEpaOvYF8kRA27), [Ashleigh Ball](https://open.spotify.com/artist/1rJcBvUoAMPLfQN0ua01ZA) | [IS](https://open.spotify.com/album/5nEfXrEhXJOQZeuP8oS2w3) | 3:30 | 2016-10-07 |  |
 | [Maybe Tomorrow \- Decade In The Sun Version](https://open.spotify.com/track/64cLEfc2Ghe3qYzcgSTxtv) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Decade In The Sun \- Best of Stereophonics \(Deluxe Version\)](https://open.spotify.com/album/47q89rBTeAa2iC5vrrBrRh) | 4:33 | 2016-10-07 |  |
@@ -71,7 +71,7 @@
 | [Take a Walk](https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Gossamer](https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv) | 4:24 | 2016-10-07 |  |
 | [Take Me Out](https://open.spotify.com/track/6ooluO7DiEhI1zmK94nRCM) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0mUEGMT2YlzCWGeWOJjBKD) | 3:57 | 2016-10-07 |  |
 | [The Dream's In The Ditch](https://open.spotify.com/track/2A9Zm100yFB3CHQd6kFaB7) | [Deer Tick](https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO) | [Negativity](https://open.spotify.com/album/5L0ilueYSvWzzvpdHVe8CJ) | 3:11 | 2016-10-07 |  |
-| [The Walker](https://open.spotify.com/track/0Nk7bSn0MItonkR0GNs3mj) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream \(Deluxe Edition\)](https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK) | 0:29 | 2016-10-07 |  |
+| [The Walker](https://open.spotify.com/track/0Nk7bSn0MItonkR0GNs3mj) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream \(Deluxe Edition\)](https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK) | 3:53 | 2016-10-07 |  |
 | [The Wild Life](https://open.spotify.com/track/6GgeC18ctRUmplzNx8ro86) | [Vacationer](https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7) | [The Wild Life](https://open.spotify.com/album/3zAW4wjDnFiTe8BotOPER4) | 3:42 | 2016-10-07 |  |
 | [Thunder Clatter](https://open.spotify.com/track/6JugKFXssO9L2tN8omeTPt) | [Wild Cub](https://open.spotify.com/artist/5cTn7jRVGqTdmgMW75FIal) | [Youth](https://open.spotify.com/album/72YtuqmrV1LcDhzQXgFaNN) | 4:31 | 2016-10-07 |  |
 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 | 2016-10-07 |  |

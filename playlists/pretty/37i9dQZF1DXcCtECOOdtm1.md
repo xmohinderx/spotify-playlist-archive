@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCtECOOdtm1.md) - [plain]
 
 > Get fascinated by Japanese City Pop from the ‘90s with Shibuya\-kei flavor./ シティポップの発展が渋谷系へと向かう。多幸感に溢れる時代の空気と共に、モードな再構築が新たなカルチャーを生んだ。
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,588 likes - 50 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,612 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCtECOOdtm1.md) - [plain]
 | 29 | [Happy\-Go\-Lucky](https://open.spotify.com/track/2nPddaj5ME4Vm11jvKEkSe) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [LUCY](https://open.spotify.com/album/0N1zL99Endak0l1KFoWT18) | 4:26 |
 | 30 | [しあわせな時間](https://open.spotify.com/track/2jBMkEllnlU6z3jmn23O5q) | [Instant Cytron](https://open.spotify.com/artist/6YQynvo3pafhgrHpXp0Uvn) | [CHANGE THIS WORLD](https://open.spotify.com/album/1bbcPma18cl2NbVPAfB4Hu) | 5:04 |
 | 31 | [夢の中で会えるでしょう](https://open.spotify.com/track/5Y9wdPTsQlnk3B17HDUewK) | [Hiroshi Takano](https://open.spotify.com/artist/1Z3tfBrHfzbWjvnOQh9GnO) | [Sorrow and Smile](https://open.spotify.com/album/0cS9IiWAUlpcj4jRn6GOg6) | 5:59 |
-| 32 | [午前2時のエンジェル](https://open.spotify.com/track/0Fs9fqPPNslWeWbWjH0h4p) | [Cano Caoli](https://open.spotify.com/artist/5dKIn28hp1VpQYeigddI8r) | [裸であいましょう](https://open.spotify.com/album/29TFyKg4WZsMriAA9NJhMS) | 0:29 |
-| 33 | [HORIZON](https://open.spotify.com/track/3Ge54kJCBs3OkZZWaFOB4b) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [PETIT](https://open.spotify.com/album/1D6uibmGUV7WE8NQMF2hJH) | 0:29 |
+| 32 | [午前2時のエンジェル](https://open.spotify.com/track/0Fs9fqPPNslWeWbWjH0h4p) | [Cano Caoli](https://open.spotify.com/artist/5dKIn28hp1VpQYeigddI8r) | [裸であいましょう](https://open.spotify.com/album/29TFyKg4WZsMriAA9NJhMS) | 5:56 |
+| 33 | [HORIZON](https://open.spotify.com/track/3Ge54kJCBs3OkZZWaFOB4b) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [PETIT](https://open.spotify.com/album/1D6uibmGUV7WE8NQMF2hJH) | 4:55 |
 | 34 | [花を買う](https://open.spotify.com/track/249dVAKEIQIoDgffbaosC3) | [Mikiko Noda](https://open.spotify.com/artist/6rAxZysBIWlwb9wTPPyXwp) | [Rose C'est La Vie](https://open.spotify.com/album/6rMkwzwdk57svdp48vmecg) | 3:59 |
 | 35 | [ヴィーナス](https://open.spotify.com/track/3BLWk8c92LgNNfujuiEaEQ) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [ORIGINAL LOVE SINGLES BACK TO 1991\-1995](https://open.spotify.com/album/2tJ9fdkia7sIr9bvI7jWLB) | 5:13 |
 | 36 | [しらけちまうぜ](https://open.spotify.com/track/4vdcgBUDDyGiurtC6IJiUv) | [東京スカパラダイスオーケストラ featuring 小沢健二](https://open.spotify.com/artist/0Gkwtly0Q8iDqv3riIBGBr), [Ozawa Kenji](https://open.spotify.com/artist/7ovAoJY1WI5kUXRCa35C2I) | [グランプリ](https://open.spotify.com/album/4Lm4iHEuF9cJN5JKQqVaCu) | 3:53 |

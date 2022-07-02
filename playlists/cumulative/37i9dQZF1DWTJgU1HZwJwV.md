@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-164 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/7jgB2m9mBTWEbhTLrW7Tf4)
+164 songs - 6 hr 57 min - [published](https://open.spotify.com/playlist/7jgB2m9mBTWEbhTLrW7Tf4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Entwined In Time](https://open.spotify.com/track/0CFbpv9WulwdXB8rC2iqMC) | [Alan Shoesmith](https://open.spotify.com/artist/7wa9AhhXtpXyN7huAtsgiC) | [Entwined In Time](https://open.spotify.com/album/38GoFbry09VPVpnckYyNCa) | 2:51 | 2022-06-17 |  |
 | [Equinox](https://open.spotify.com/track/1RzcnkPzR9MTeBl58XXw1I) | [Stephen Wake](https://open.spotify.com/artist/2cJYFSoLAYw942cLIRPGK7) | [Equinox](https://open.spotify.com/album/1ij3V4AE7Vnogsxb3kNTlc) | 2:30 | 2022-06-17 |  |
 | [Etude in E Minor](https://open.spotify.com/track/3u45JX41lqnh8WzV8ikoTG) | [Benedict Larsen](https://open.spotify.com/artist/0RoZ3QmDJXP7peJyvnDxwC), [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t) | [Etude in E Minor](https://open.spotify.com/album/28eDubaBkCUwj6Q78b6F20) | 1:12 | 2022-06-17 |  |
-| [Fading](https://open.spotify.com/track/0ZwBaPxoP5ZSRgatkKL2fw) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Fading](https://open.spotify.com/album/05etcA6OhrOp3ekvaClyEh) | 2:04 | 2022-06-17 |  |
+| [Fading](https://open.spotify.com/track/0ZwBaPxoP5ZSRgatkKL2fw) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Fading](https://open.spotify.com/album/05etcA6OhrOp3ekvaClyEh) | 0:29 | 2022-06-17 |  |
 | [Falling Light](https://open.spotify.com/track/2sGQH1FgVUDiR9LrCsC3Z2) | [The Bare Bones](https://open.spotify.com/artist/2NKYLVOD0HH7O1anuALOBU) | [Falling Light](https://open.spotify.com/album/7tg2gSz70w2IU31QmeT6Ac) | 2:12 | 2022-06-17 |  |
 | [Fjärilens vals](https://open.spotify.com/track/0c8qw1e6EKLoSP0ST7jByu) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Fjärilens vals](https://open.spotify.com/album/5uy8qV2Gc7M3bzfcOyrDBr) | 2:07 | 2022-07-01 |  |
 | [Fragile](https://open.spotify.com/track/2DjZfJBMQxI5tnoC6l1CVc) | [Vincenzo Adelini](https://open.spotify.com/artist/2DCXusMUJpcFfPM786dD8v) | [Fragile](https://open.spotify.com/album/1JAZhzpYAxIExPSV8jvHE6) | 2:49 | 2022-06-17 |  |
@@ -104,7 +104,7 @@
 | [Miniatura No.22 \- Luciérnagas](https://open.spotify.com/track/3bep5fkZPBmpmznIf4O5zQ) | [Gerson Lizama](https://open.spotify.com/artist/7JJMRNaFGLhYUIC59g4xGL) | [Miniatura No.22 \- Luciérnagas](https://open.spotify.com/album/2QeXqjceWP6rlejPPLpAMy) | 2:14 | 2022-06-17 |  |
 | [Mirage](https://open.spotify.com/track/767vDO0LnaX7lzkK7i0qOG) | [Joseph Sullinger](https://open.spotify.com/artist/6mNAxWgMw0EjVXUNhHpRpM) | [Mirage](https://open.spotify.com/album/4F9QGuVlR08gdhYyJfqdid) | 3:03 | 2022-06-17 |  |
 | [Mises](https://open.spotify.com/track/0xLmO0851Cwyr9aQEjie6v) | [Helen Wei](https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA) | [Mises](https://open.spotify.com/album/2jMiVD9mNKLi41SWlyspHP) | 2:03 | 2022-06-17 |  |
-| [Moments](https://open.spotify.com/track/17Ic3HG8GiER4PpGvB2hIw) | [Dimash B](https://open.spotify.com/artist/1AoOXH2zm8flhCVLaeZPcs) | [Moments](https://open.spotify.com/album/2aWKPMuPxic24SB2RPRyp9) | 0:29 | 2022-06-17 |  |
+| [Moments](https://open.spotify.com/track/17Ic3HG8GiER4PpGvB2hIw) | [Dimash B](https://open.spotify.com/artist/1AoOXH2zm8flhCVLaeZPcs) | [Moments](https://open.spotify.com/album/2aWKPMuPxic24SB2RPRyp9) | 1:54 | 2022-06-17 |  |
 | [Monte de Fuego](https://open.spotify.com/track/7guIP6Tpq7QYQNapYYpC0K) | [Gerson Lizama](https://open.spotify.com/artist/7JJMRNaFGLhYUIC59g4xGL) | [Monte de Fuego](https://open.spotify.com/album/4xPAVzwGR2Z3b6pMkvQVPI) | 3:15 | 2022-06-17 |  |
 | [Morgensonne](https://open.spotify.com/track/3ozSKHP42w2mYbkmqEnfOq) | [Aurelius Schmidt](https://open.spotify.com/artist/4DRJD1JI9CaeeHH9LrkzbY) | [Sandrina](https://open.spotify.com/album/6Is2bPoXegoPbnYTzVD7nB) | 2:26 | 2022-06-17 |  |
 | [Morning Ritual](https://open.spotify.com/track/24aREp2kgpTPjcgBD5ccSh) | [Kari Peterson](https://open.spotify.com/artist/0g8tWO2SWoLIRaCiXWky5w) | [A Single Rose](https://open.spotify.com/album/7aGJT4P2S8Eh1XaE2YQ8mP) | 2:42 | 2022-06-17 |  |
@@ -156,7 +156,7 @@
 | [The Day We Met](https://open.spotify.com/track/2jkeX1SMWAkMTHeigflbjh) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Deep Blue Sea](https://open.spotify.com/album/44rNLzjZt8NJYwrfOv5dO8) | 2:41 | 2022-06-17 |  |
 | [The Good Choice](https://open.spotify.com/track/3G4ExFqeptnGm7581Aqj82) | [Lo Larsen](https://open.spotify.com/artist/1RsZrWsACeuDkqAISdeFDi) | [The Good Choice](https://open.spotify.com/album/5LdhdJSDjnRnxaB3cUl6Ka) | 3:56 | 2022-06-17 |  |
 | [The Spring Bird](https://open.spotify.com/track/1PvZZloPxrC4q2nh3LCj4O) | [Tim Philis](https://open.spotify.com/artist/1OFXBk4WZ7ZF3I98uJ9T6j) | [The Spring Bird](https://open.spotify.com/album/1zBJdIFX92nSLrv5ek5YqP) | 2:20 | 2022-06-17 |  |
-| [Too Gentle](https://open.spotify.com/track/3r5UkhK0ydSW0A4h6XRJ58) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [Too Gentle](https://open.spotify.com/album/1CKO9HAhmY9vr5obHxWJkK) | 0:29 | 2022-06-17 |  |
+| [Too Gentle](https://open.spotify.com/track/3r5UkhK0ydSW0A4h6XRJ58) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [Too Gentle](https://open.spotify.com/album/1CKO9HAhmY9vr5obHxWJkK) | 1:41 | 2022-06-17 |  |
 | [Tranquility](https://open.spotify.com/track/0TACgDNHOuXWhcxAU3dKKz) | [Sounds Of Our Home](https://open.spotify.com/artist/6LkvK0WVSHZcocRLhroGOY) | [Tranquility](https://open.spotify.com/album/1HDfO5DAyhOr1HjHBApgvS) | 2:25 | 2022-06-17 |  |
 | [Two Years of Solitude](https://open.spotify.com/track/5xjHdFsOlRgdnu6RJTqpwV) | [Dawa Sherpa](https://open.spotify.com/artist/16QnPlBSrFOGlH44k9L7nN) | [Unsung Heroes](https://open.spotify.com/album/7htqaGMhM1r263JYtSEgiQ) | 2:25 | 2022-06-17 |  |
 | [Una Nueva Frontera](https://open.spotify.com/track/6pMVwNAVEW1zABrAAKY5sD) | [Loulou Metellus](https://open.spotify.com/artist/2A2AbvIq2SmTFLWbzqtoLX) | [Una Nueva Frontera](https://open.spotify.com/album/7BXWsrOKF9NG5HNerJ8MpB) | 1:57 | 2022-07-01 |  |

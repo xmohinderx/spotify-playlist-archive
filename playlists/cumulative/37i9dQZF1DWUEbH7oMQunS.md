@@ -4,7 +4,7 @@
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-60 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/2fhEncLY2hSNlKhmKogG0k)
+60 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/2fhEncLY2hSNlKhmKogG0k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Great Is Our God](https://open.spotify.com/track/5TO4KuGzOBKG6CqxHm4wRD) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Young Oceans](https://open.spotify.com/album/1367PHceftcW1GcBTbzuzB) | 4:33 | 2018-02-14 |  |
 | [Greater Than All Other Names \(Instrumental\)](https://open.spotify.com/track/0kk8MqjYbkW5C7cvKBf1yq) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [After All These Years \(Instrumental\)](https://open.spotify.com/album/3oeoGMDFnsw8FCnQuIghpx) | 5:36 | 2018-02-14 |  |
 | [grief](https://open.spotify.com/track/0SX1qaheouzVAXB99VdJ77) | [Washa](https://open.spotify.com/artist/7pjYf2S6lvNwiUjmoDpcOX) | [grief](https://open.spotify.com/album/6RHfp3PnUPOTGr63QSTO0M) | 1:54 | 2018-07-07 |  |
-| [Hallelujah \(Instrumental\)](https://open.spotify.com/track/4ldTfT3bAMz6fLnSOkineb) | [Magnify Worship](https://open.spotify.com/artist/6PkpPJKGGLwWKOTdJ1Qwg2) | [Hallelujah \(Instrumental\)](https://open.spotify.com/album/1ihY9iKIY9ksHOYVjZzIHB) | 0:29 | 2018-02-14 |  |
+| [Hallelujah \(Instrumental\)](https://open.spotify.com/track/4ldTfT3bAMz6fLnSOkineb) | [Magnify Worship](https://open.spotify.com/artist/6PkpPJKGGLwWKOTdJ1Qwg2) | [Hallelujah \(Instrumental\)](https://open.spotify.com/album/1ihY9iKIY9ksHOYVjZzIHB) | 6:28 | 2018-02-14 |  |
 | [Here as in Heaven](https://open.spotify.com/track/0fPwregqch9wLJj4yQH6Bk) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Here As In Heaven](https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF) | 8:19 | 2018-02-14 |  |
 | [Holy Holy](https://open.spotify.com/track/4bAPk8AwHTAs5eMOt2yjbj) | [The Brilliance](https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e) | [All Is Not Lost](https://open.spotify.com/album/3tFBH9TyKnenOi1E6bjRbz) | 2:33 | 2018-02-14 |  |
 | [I Could Sing Of Your Love Forever \- Instrumental](https://open.spotify.com/track/2Lb8tCvwV9CVSEjO9uTWWI) | [Rivers & Robots](https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4) | [Rivers & Robots Presents: Still, Vol\. 1 \(Instrumentals\)](https://open.spotify.com/album/4g34k44C3ymTpr86zk1FJM) | 3:43 | 2018-02-14 |  |

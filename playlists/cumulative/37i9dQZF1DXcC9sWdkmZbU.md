@@ -4,7 +4,7 @@
 
 > Worship songs for the whole family.
 
-57 songs - 2 hr 59 min - [published](https://open.spotify.com/playlist/2uH4DsnGfE4NtZg4sRySa3)
+57 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/2uH4DsnGfE4NtZg4sRySa3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Power \(Acts 1:8 Esv\)](https://open.spotify.com/track/5TWNtcnXBFKOD6J6ZMH2Cm) | [Seeds Family Worship](https://open.spotify.com/artist/5kV2pC0biCYFh3y9HxgNkS) | [Power, Vol.15](https://open.spotify.com/album/0SsqF3EDjThol2LBiHEgTk) | 3:13 | 2022-04-12 |  |
 | [Rise and Shine Give God the Glory](https://open.spotify.com/track/4165KZqyu1DaTXAFBCBuVp) | [Sunday School Songs](https://open.spotify.com/artist/6cd0NAKYLoAVLp6s3hUi2R), [Give God the Glory](https://open.spotify.com/artist/67QrLzSYsvDQqZlkd0LHA1), [Wee Sing](https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ) | [Rise and Shine Give God the Glory](https://open.spotify.com/album/6mQjlWl5vbK8UAInTARG8x) | 2:18 | 2022-04-12 |  |
 | [See A Victory](https://open.spotify.com/track/5cNG0V1wLEVJlq8CPzEXwH) | [Elevation Church Kids](https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5) | [Living Color](https://open.spotify.com/album/5R2pbzaWxfGNX8ar41wjkf) | 3:58 | 2022-04-12 |  |
-| [Sing](https://open.spotify.com/track/5HGzHGgejsuTy8Q7EC5zrF) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Sing: Creation Songs](https://open.spotify.com/album/7cvbJNwioCCK1x07dZJzt4) | 0:29 | 2022-04-12 |  |
+| [Sing](https://open.spotify.com/track/5HGzHGgejsuTy8Q7EC5zrF) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Sing: Creation Songs](https://open.spotify.com/album/7cvbJNwioCCK1x07dZJzt4) | 3:50 | 2022-04-12 |  |
 | [Stars \(Philippians 2:14\-16\)](https://open.spotify.com/track/0swWz0e1kcnDokEQTm4qvC) | [Slugs and Bugs](https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN) | [Sing the Bible, Vol\. 2](https://open.spotify.com/album/52c135YsCutZVTLPf8i1s9) | 3:28 | 2022-04-12 |  |
 | [Super Wonderful](https://open.spotify.com/track/2v2IinUxWv9YVXPOJjrQ0b) | [Yancy](https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu) | [Kidmin Worship Vol\. 6: Heartbeat Worship](https://open.spotify.com/album/3oDixp1uhg5GZuC7IYqNKz) | 3:07 | 2022-04-12 |  |
 | [The Blessing](https://open.spotify.com/track/62MIyeR42atsXPWWSon90Q) | [Elevation Church Kids](https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5) | [Living Color](https://open.spotify.com/album/5R2pbzaWxfGNX8ar41wjkf) | 4:27 | 2022-04-12 |  |

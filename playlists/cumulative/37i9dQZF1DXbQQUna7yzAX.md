@@ -4,7 +4,7 @@
 
 > Grunge is still alive and kicking!
 
-128 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/2p1xJCKddTPywAIt8eJDFC)
+128 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/2p1xJCKddTPywAIt8eJDFC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Mid Life Crisis](https://open.spotify.com/track/4dl3miUk9mZQQPFvBJgqvd) | [Prince of Lilies](https://open.spotify.com/artist/3ml5rBwM6KDhpt13d2WGa5) | [Vent](https://open.spotify.com/album/6aOeKpbU5aPvuGxhWE9Qw3) | 3:17 | 2021-12-17 | 2022-02-18 |
 | [Mime the End](https://open.spotify.com/track/4VixwQOWUptGs1sF1YeEDS) | [False Heads](https://open.spotify.com/artist/2tZaXwpCHEhoVEBQuRI4vu) | [Mime the End](https://open.spotify.com/album/2JlflTRYDfkXcBPYOY0vEr) | 3:38 | 2022-05-26 |  |
 | [Misery](https://open.spotify.com/track/3Shp42UXTjXAuAGiRQWsxm) | [LOWLIVES](https://open.spotify.com/artist/7Hg9yStqSEaKmwPxFlWeE2) | [Misery](https://open.spotify.com/album/0MOaQ1G6zIigB6psGipXv6) | 4:20 | 2022-03-10 |  |
-| [Natalie](https://open.spotify.com/track/19sVo6XSeni1nVQW0eZuxt) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Married](https://open.spotify.com/album/7eqxIAAFY956TlrHH0xLEt) | 0:29 | 2021-12-17 |  |
+| [Natalie](https://open.spotify.com/track/19sVo6XSeni1nVQW0eZuxt) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Married](https://open.spotify.com/album/7eqxIAAFY956TlrHH0xLEt) | 3:28 | 2021-12-17 |  |
 | [New June](https://open.spotify.com/track/7pp3SrLJGodZnTqJgJ8yuo) | [Day Aches](https://open.spotify.com/artist/6fKJtGQ4ACpLgs1cqOMx3H) | [New June](https://open.spotify.com/album/5JUVj4w1m5YD2nQ5iHUmhd) | 2:41 | 2022-06-23 |  |
 | [Newspapers](https://open.spotify.com/track/0T6LqY3Cgi6xleNezgWgUE) | [A VOID](https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI) | [Newspapers](https://open.spotify.com/album/6f7SIfP6rVwLqEGQ3z1hBl) | 3:08 | 2022-04-07 |  |
 | [No More Lives To Go](https://open.spotify.com/track/7ECDF5Hjoxu4NTh0VBTjVO) | [Greg Puciato](https://open.spotify.com/artist/3seAlZdPsUKKveZltRG7wi) | [No More Lives To Go](https://open.spotify.com/album/6Lhqo42pxEeUI2mSNBeM1R) | 3:35 | 2022-06-23 |  |

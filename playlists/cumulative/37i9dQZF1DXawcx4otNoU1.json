@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 222693,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/4tEOsrXMgqMbBOGQ91FRvT"
@@ -1262,7 +1262,7 @@
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 163866,
       "name": "Kaleidoscope Evening",
       "url": "https://open.spotify.com/track/5D386TwGGyXGLxgFCO30kX"
     },
@@ -1940,7 +1940,7 @@
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 249173,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W"
     },
@@ -2214,7 +2214,7 @@
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 181622,
       "name": "Ride",
       "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
     },
@@ -2594,7 +2594,7 @@
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 265381,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/6oO10y1h2VyxJQfomG4CtH"
     },
@@ -2799,6 +2799,24 @@
       "duration_ms": 231533,
       "name": "Wait",
       "url": "https://open.spotify.com/track/21FzLpLN7S1XFePNSZHEFt"
+    },
+    {
+      "album": {
+        "name": "Wait 4 U",
+        "url": "https://open.spotify.com/album/1B2XBQKFC202tQOHt4y4iS"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9llen",
+          "url": "https://open.spotify.com/artist/2y7cvgbbpRXy36T223ujdf"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Wait 4 U",
+      "url": "https://open.spotify.com/track/3jq9o1vO6oh44NeNadFpNJ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The bass you need for riding low and high.
 
-94 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/0obXPUtgNG5CB9BFpywdST)
+94 songs - 4 hr 28 min - [published](https://open.spotify.com/playlist/0obXPUtgNG5CB9BFpywdST)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Temptation](https://open.spotify.com/track/7vuWtneKztDK57TAUlCynR) | [WYR GEMI](https://open.spotify.com/artist/3Qubu5zXcOh0EIb2bDwMdB) | [Temptation](https://open.spotify.com/album/4P3CtBPS8woTHS9YnjDD57) | 2:36 | 2022-04-07 | 2022-07-01 |
 | [Thank You \[Not So Bad\]](https://open.spotify.com/track/4AqN8IdKCfItCSbuaFch81) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Thank You \[Not So Bad\]](https://open.spotify.com/album/6alQudvAYx6VZMye1BFgFK) | 3:17 | 2022-04-07 | 2022-07-01 |
 | [Wanted More](https://open.spotify.com/track/13PNaphT12bcpme9dX3nyT) | [Scott Rill](https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV) | [Wanted More](https://open.spotify.com/album/4Cqsrn6xAlfg0Nh9MbIrLO) | 3:17 | 2022-04-21 | 2022-05-13 |
-| [Woah](https://open.spotify.com/track/3jWkWcmESJG9fmhZOpZYsW) | [BENO](https://open.spotify.com/artist/2Lkxnlhbsvg4lAIckgEPVP) | [Woah](https://open.spotify.com/album/62kVMk94iQkaxSyly4l6GM) | 0:29 | 2022-04-21 |  |
+| [Woah](https://open.spotify.com/track/3jWkWcmESJG9fmhZOpZYsW) | [BENO](https://open.spotify.com/artist/2Lkxnlhbsvg4lAIckgEPVP) | [Woah](https://open.spotify.com/album/62kVMk94iQkaxSyly4l6GM) | 2:19 | 2022-04-21 |  |
 | [Ya Lame](https://open.spotify.com/track/1644hjO0NvNDzddHK6NTA8) | [Demeter](https://open.spotify.com/artist/5JIgApvXvqq4KtnDLE9YBz) | [Ya Lame](https://open.spotify.com/album/3M0Z7XRfEy3dev3oVpuxr8) | 3:03 | 2022-04-07 | 2022-05-13 |
 | [Доброго вечора \- Where Are You From](https://open.spotify.com/track/0O3TZYgwaRadNprRONZ7iX) | [PROBASS ∆ HARDI](https://open.spotify.com/artist/4w8RbPbs4n3ceag62qvMl2) | [Доброго вечора \(Where Are You From\)](https://open.spotify.com/album/0Wb0K888wBuMl5Y58NGcev) | 2:48 | 2022-04-21 |  |
 | [Минимум \- Ramzan Abitov Remix](https://open.spotify.com/track/2l0IvRqDNGQ63FaImXlHx9) | [Ямаджи](https://open.spotify.com/artist/1vhOS1zU5F96OtQUoMT47i), [Фейджи](https://open.spotify.com/artist/0ybzbOJd34JZg3cd4jsouX), [Ramzan Abitov](https://open.spotify.com/artist/2dOsIKbm1sSfr79DebyMgV) | [Минимум \(Remix Pack\)](https://open.spotify.com/album/3hO7iEp7Mis2rEsDjrDSVQ) | 1:37 | 2022-04-21 |  |

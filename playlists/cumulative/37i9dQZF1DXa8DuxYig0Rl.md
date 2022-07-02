@@ -4,7 +4,7 @@
 
 > Tropical y refrescante\. Con todo el sabor y tradición de México.
 
-100 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/3tRaksmTctFqOi5PZyIiVc)
+100 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/3tRaksmTctFqOi5PZyIiVc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Hola Que Tal](https://open.spotify.com/track/2SNkVt3vtVMCieuLsQ6umR) | [Los Plebeyos](https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a) | [Edixion Platino](https://open.spotify.com/album/5Z5pcN4h06hEKvudzeo1sj) | 2:49 | 2022-01-25 |  |
 | [Huapango 2 El Violin](https://open.spotify.com/track/72yAnJRLVJOjim7NUHa9XO) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Luis Alberto Ballesteros](https://open.spotify.com/artist/3Yy1uofnPXBT03X7ZQBkg4), [Domingo Suarez](https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx), [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [Mariachi Vol\. 2](https://open.spotify.com/album/12k9uBRmZFFLMajKtlNKDu) | 1:45 | 2022-01-25 |  |
 | [Jesusita en Chihuahua](https://open.spotify.com/track/4N0JmfzmvTef5umsXnRNfA) | [Salterio y Quinteto de Antaño](https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ) | [La Belle Epoque](https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g) | 2:54 | 2022-01-25 |  |
-| [Juana La Cubana](https://open.spotify.com/track/54Lk2MxVaNuxkAw7j5mWkj) | [Los Flamers](https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq) | [Mis 50 Favoritas](https://open.spotify.com/album/5zQzp3J2koawQcgkDIngE0) | 0:29 | 2022-01-25 |  |
+| [Juana La Cubana](https://open.spotify.com/track/54Lk2MxVaNuxkAw7j5mWkj) | [Los Flamers](https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq) | [Mis 50 Favoritas](https://open.spotify.com/album/5zQzp3J2koawQcgkDIngE0) | 3:13 | 2022-01-25 |  |
 | [La Banda Borracha](https://open.spotify.com/track/2PffzUyZQeg5YTqVtzMjqb) | [Mike Laure](https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h) | [Lo Mejor De Mike Laure](https://open.spotify.com/album/4phadJG0y214V03sl93hIT) | 3:15 | 2022-01-25 |  |
 | [La Boa](https://open.spotify.com/track/4UmKFyEKaew90RWzqbTalb) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [20 Exitos](https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O) | 2:51 | 2022-01-25 |  |
 | [La Cocaleca](https://open.spotify.com/track/2cO9HsWYY5lbXXgUNbrj9v) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT), [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [RCA 100 Años De Musica](https://open.spotify.com/album/5yvprimCRB7yzllST3sJRO) | 3:07 | 2022-01-25 |  |
@@ -76,7 +76,7 @@
 | [Moliendo](https://open.spotify.com/track/3gqwd41SnvOrLLctdlvHd5) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Leyendas](https://open.spotify.com/album/3DX4pjGYJCccg6k2heOqxL) | 2:36 | 2022-01-25 |  |
 | [Mucha Muchacha](https://open.spotify.com/track/7yx1DPeFep6kfAgU2WR2R5) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Latin\-Esque](https://open.spotify.com/album/4ms8tzubtfqjGjqGFhDWyq) | 2:19 | 2022-01-25 |  |
 | [Musita](https://open.spotify.com/track/1lrgRxAJOtc7P4Ed5onpRX) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Sonora Santanera Y La Inspiración De Carlos Colorado](https://open.spotify.com/album/4utBMQCsH8hE4uWfHVn3l9) | 3:04 | 2022-01-25 |  |
-| [Nereidas](https://open.spotify.com/track/0LhhWkkz7pORVQegxOs0mH) | [Acerina Y Su Danzonera](https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh) | [Su Majestad](https://open.spotify.com/album/5K38IimP2EIC9QwBh8tN0l) | 0:29 | 2022-01-25 |  |
+| [Nereidas](https://open.spotify.com/track/0LhhWkkz7pORVQegxOs0mH) | [Acerina Y Su Danzonera](https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh) | [Su Majestad](https://open.spotify.com/album/5K38IimP2EIC9QwBh8tN0l) | 3:03 | 2022-01-25 |  |
 | [Norma la de Guadalajara](https://open.spotify.com/track/5GSxiQq6wuTKUTZqw73L99) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/0xWIbLx7asBb35NBNNBHed) | 2:34 | 2022-01-25 |  |
 | [Pagina Blanca](https://open.spotify.com/track/0Ud7ZAMVYubMGOxQvdg5Zs) | [Los Fantasmas](https://open.spotify.com/artist/6WvtlmouI0mVQJ3JQj9rRK) | [XEW La Voz de America Latina "Nueva Generación"](https://open.spotify.com/album/2fhyDLNES36L4pSz96jeAT) | 3:10 | 2022-01-25 |  |
 | [Palillos Chinos](https://open.spotify.com/track/7zmzRJZkigPvpsWYcpAy4i) | [Carlos Campos Y Orquesta](https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU) | [Danzones a la Manera del Campeon Volumen 1](https://open.spotify.com/album/3xCYxqu0uBH471i9cQ2bIq) | 3:09 | 2022-01-25 |  |
@@ -95,7 +95,7 @@
 | [Sabor A Guayaba](https://open.spotify.com/track/3Gy7M3ycoSLO9uMhIlPY9u) | [Los Plebeyos](https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a) | [A Bailar Se Ha Dicho](https://open.spotify.com/album/5hNJkxdEqoo3xGaDNCROJH) | 2:26 | 2022-01-25 |  |
 | [Salon Mexico](https://open.spotify.com/track/6ZRobcGbkJbosTV8Yr030Y) | [Acerina Y Su Danzonera](https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh) | [Danzones a la Mexicana](https://open.spotify.com/album/26qYTLuHD7lTRwutWryxn0) | 2:31 | 2022-01-25 |  |
 | [Son de la Loma](https://open.spotify.com/track/1WUFibguVgCU5jjFRezexh) | [Trio Matamoros](https://open.spotify.com/artist/49J2FQGwlcwdE3AHT2PSOW) | [Aquellos Tiempos del Trio Matamoros](https://open.spotify.com/album/3BHKao5ijqNQq4eCj8m6Ij) | 3:37 | 2022-01-25 |  |
-| [Sábado D.F.](https://open.spotify.com/track/2CoCTWNwmcDsTMPxG4CmMP) | [Chava Flores](https://open.spotify.com/artist/3qvw5E5LD9Wq0nFNnBL4O2) | [Los Éxitos de Chava Flores en la Voz de Chava Flores y Fernando Rosas](https://open.spotify.com/album/6T1qoWlqTnzh8668YTyKSL) | 0:29 | 2022-01-25 |  |
+| [Sábado D.F.](https://open.spotify.com/track/2CoCTWNwmcDsTMPxG4CmMP) | [Chava Flores](https://open.spotify.com/artist/3qvw5E5LD9Wq0nFNnBL4O2) | [Los Éxitos de Chava Flores en la Voz de Chava Flores y Fernando Rosas](https://open.spotify.com/album/6T1qoWlqTnzh8668YTyKSL) | 2:48 | 2022-01-25 |  |
 | [Tema De Lara](https://open.spotify.com/track/5lllbN4RocBXGlzIYSPnpg) | [Los Aragon](https://open.spotify.com/artist/7d1qSpM5IGKsYtVvSpzhDw) | [15 Exitos 15 Los Aragon](https://open.spotify.com/album/6AxiwkRMhBAZAGPYV1TubH) | 2:10 | 2022-01-25 |  |
 | [Tiburón A La Vista](https://open.spotify.com/track/1YqCgUjgAS8aRdE8pwcUxw) | [Mike Laure](https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h) | [Lo Mejor De Mike Laure](https://open.spotify.com/album/4phadJG0y214V03sl93hIT) | 2:43 | 2022-01-25 |  |
 | [Tico\-Tico](https://open.spotify.com/track/2vMWnjMI89KfMKhvUq4OnP) | [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | ['S Continental](https://open.spotify.com/album/2od6E7Hj5mVWeslfsRjtxq) | 2:33 | 2022-01-25 |  |
@@ -105,7 +105,7 @@
 | [Uy que miedo](https://open.spotify.com/track/2iceh9NYpPPK6CCklJ6m8S) | [Chico Che](https://open.spotify.com/artist/0OTssa9UMMb9qf6NxI3Ysx), [La Crisis](https://open.spotify.com/artist/4tFlOZDZ7DPc0X2Vinjh5R) | [El Ritmo De Chico Che Y La Crisis](https://open.spotify.com/album/5vZud9R730Mke578pFH3fD) | 2:52 | 2022-01-25 |  |
 | [Veracruz](https://open.spotify.com/track/5nl4vpUgbA78kTgf9CLSpN) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Inmortales de Toña la Negra](https://open.spotify.com/album/4UlE2kIAik6pcM15aztAhs) | 2:11 | 2022-01-25 |  |
 | [Vereda Tropical](https://open.spotify.com/track/6lno3T1Mgtr2Xt28nWVmUP) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Matamoros Querido](https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR) | 3:11 | 2022-01-25 |  |
-| [Yerbero moderno \- Remastered](https://open.spotify.com/track/4bAgVLDUY1ixwxedRDvrAy) | [Celia Cruz y La Sonora Matancera](https://open.spotify.com/artist/3WaTkjZxpbGDryRuQTtj1g) | [Yerbero moderno \(Remastered\)](https://open.spotify.com/album/7b14o3fOTB8xYFVZuA7TS3) | 0:29 | 2022-01-25 |  |
+| [Yerbero moderno \- Remastered](https://open.spotify.com/track/4bAgVLDUY1ixwxedRDvrAy) | [Celia Cruz y La Sonora Matancera](https://open.spotify.com/artist/3WaTkjZxpbGDryRuQTtj1g) | [Yerbero moderno \(Remastered\)](https://open.spotify.com/album/7b14o3fOTB8xYFVZuA7TS3) | 2:51 | 2022-01-25 |  |
 | [Zacatlan](https://open.spotify.com/track/00zayjNlBvbji1RnvxOs25) | [Carlos Campos Y Orquesta](https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU) | [Danzones a la Manera del Campeon Volumen 1](https://open.spotify.com/album/3xCYxqu0uBH471i9cQ2bIq) | 4:11 | 2022-01-25 |  |
 | [Zacazonapan](https://open.spotify.com/track/1JxygrDpw5bLUMQsQqQuPN) | [Marimba Orquesta Perla De Chiapas](https://open.spotify.com/artist/69lmWrPp9ZvKMJirt47VMP) | [Vamos A La Fiesta](https://open.spotify.com/album/6AkQ14Roz7mOJVi6JRc9gZ) | 2:45 | 2022-01-25 |  |
 

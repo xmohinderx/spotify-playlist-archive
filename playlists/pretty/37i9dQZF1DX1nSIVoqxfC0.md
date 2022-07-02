@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nSIVoqxfC0.md) - [plain]
 
 > <a href="spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z">Tiësto</a>'s best songs, remixes and compilations.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,223 likes - 197 songs - 13 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,348 likes - 197 songs - 13 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nSIVoqxfC0.md) - [plain]
 | 76 | [Fat Beat](https://open.spotify.com/track/5PvgoQcj1RacjgwHzndWT1) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CLUBLIFE, VOL\. 5 \- CHINA](https://open.spotify.com/album/3pazfA2ahcJHKHP2E2QjEB) | 3:28 |
 | 77 | [Century](https://open.spotify.com/track/2OgtvHetvYFBfQnHzBsl0d) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Kaleidoscope](https://open.spotify.com/album/3LWrYfernAQQUBvxlPxeZd) | 4:42 |
 | 78 | [Only You](https://open.spotify.com/track/4BYVpyCJSetJ9YmMPNg5X4) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Haley](https://open.spotify.com/artist/50DJDQioCPmY2CCsVimaqN) | [Dynasty](https://open.spotify.com/album/1O23sy8Wad5DqsBuvNqsIl) | 4:50 |
-| 79 | [Making Me Dizzy](https://open.spotify.com/track/2LTl57FB0Q8rf8OtuWpl1V) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Bobby Puma](https://open.spotify.com/artist/31HZjRPeEasjNH9MCgNW1N) | [Making Me Dizzy](https://open.spotify.com/album/0c2NWt5RqMp05OOHN5eg9h) | 0:29 |
+| 79 | [Making Me Dizzy](https://open.spotify.com/track/2LTl57FB0Q8rf8OtuWpl1V) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Bobby Puma](https://open.spotify.com/artist/31HZjRPeEasjNH9MCgNW1N) | [Making Me Dizzy](https://open.spotify.com/album/0c2NWt5RqMp05OOHN5eg9h) | 3:08 |
 | 80 | [Blow Your Mind \- Original Mix](https://open.spotify.com/track/707GEWZec9HHkbz7bycP65) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Blow Your Mind](https://open.spotify.com/album/3AhjSMwAeAxjE3WroOBDbd) | 5:54 |
 | 81 | [Red Lights](https://open.spotify.com/track/4mOrY7hgUeSUK4JVD9FkYb) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [A Town Called Paradise \(Deluxe\)](https://open.spotify.com/album/1116PKIKlArm87HVaPtonW) | 4:22 |
 | 82 | [Footprints](https://open.spotify.com/track/5dsNFudtqjActV0oQCF8lh) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Cruickshank](https://open.spotify.com/artist/3ZsJp1uga7lylosp9PoyRB) | [A Town Called Paradise \(Deluxe\)](https://open.spotify.com/album/1116PKIKlArm87HVaPtonW) | 4:17 |

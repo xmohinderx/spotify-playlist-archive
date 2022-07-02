@@ -4,7 +4,7 @@
 
 > The official playlist for Russian Doll on Netflix.
 
-26 songs - 1 hr 52 min - [published](https://open.spotify.com/playlist/35lOdbLMgRYYb2RBHdekcr)
+26 songs - 1 hr 55 min - [published](https://open.spotify.com/playlist/35lOdbLMgRYYb2RBHdekcr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Love in Outer Space](https://open.spotify.com/track/6elz4mq14CoLctixaxEs9J) | [Sun Ra](https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX) | [Haverford College, Jan\. 25, 1980 \(Solo Rhodes Piano\)](https://open.spotify.com/album/3wjjKm4yTANJvJwSm8oDxe) | 4:13 | 2022-04-28 |  |
 | [MindKilla](https://open.spotify.com/track/6b1ja7rkQz9FUM7x79UH1i) | [Gang Gang Dance](https://open.spotify.com/artist/6UU6YXQaFGQToWN6U28Dcb) | [Eye Contact](https://open.spotify.com/album/4bq7GESFNztOvUBKpWeh6N) | 0:29 | 2022-04-28 |  |
 | [Morgen](https://open.spotify.com/track/4Gy2ccb1lUzc5sNmwKtTFt) | [Ivo Robic](https://open.spotify.com/artist/6ouLM9uXt774BmPfmTzgX8) | [Izvorne Snimke 1949\. \- 1959.](https://open.spotify.com/album/3zZ53e51GTH3G3e36U7KnV) | 2:35 | 2022-04-28 |  |
-| [Mother](https://open.spotify.com/track/7txxAtOMwLLnQTpKeBL6bp) | [Danzig](https://open.spotify.com/artist/34c4iQ5tkaZKu6Sv28BTde) | [Danzig](https://open.spotify.com/album/3elIDlrTtrgKfbxYVgp3uW) | 0:29 | 2022-04-28 |  |
+| [Mother](https://open.spotify.com/track/7txxAtOMwLLnQTpKeBL6bp) | [Danzig](https://open.spotify.com/artist/34c4iQ5tkaZKu6Sv28BTde) | [Danzig](https://open.spotify.com/album/3elIDlrTtrgKfbxYVgp3uW) | 3:24 | 2022-04-28 |  |
 | [Personal Jesus \- Original Single Version](https://open.spotify.com/track/1xShPgQbOUa98avWJQFDBY) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Francois Kevorkian](https://open.spotify.com/artist/30ZqCPhfRzzWcgIbXrbHnU) | [Personal Jesus](https://open.spotify.com/album/2nsxERlQsbUOWBwaz8HCj8) | 3:44 | 2022-04-28 |  |
 | [Piano Concerto No\. 4 in G Major, Op\. 58: I\. Allegro moderato](https://open.spotify.com/track/626IyHboCqGtygvuS9ceyW) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Stefan Vladar](https://open.spotify.com/artist/3cYlHOewTtDhkVIaEKZsOl), [Capella Istropolitana](https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt), [Barry Wordsworth](https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN) | [Beethoven: Piano Concertos Nos\. 3 and 4](https://open.spotify.com/album/3N7JVK7eA99XraybwRR8iW) | 19:07 | 2022-04-28 |  |
 | [Puddin' N' Tain](https://open.spotify.com/track/3PSE5zXhf70R9czOlfgWeM) | [The Alley Cats](https://open.spotify.com/artist/6pSo5F15qsAxY0qYkpmsvJ) | [The Phil Spector Collection](https://open.spotify.com/album/5NKKNLuM9Y0thrHgX709mp) | 2:47 | 2022-04-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOmS5hmD9Zf.md) - [plain]
 
 > Cause I'm a person just like you but I got better things to do.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,934 likes - 105 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,957 likes - 105 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,12 +68,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOmS5hmD9Zf.md) - [plain]
 | 58 | [I Drink Milk](https://open.spotify.com/track/4q8U7FbHhjtud4nxqiji19) | [Teen Idles](https://open.spotify.com/artist/5t0HWVQFpMImu2GdWDbDHd) | [Flex Your Head](https://open.spotify.com/album/70tJWTyiUNEicvP5ljSDtz) | 1:09 |
 | 59 | [You're X'd](https://open.spotify.com/track/4cOYHZ1zFViyDSY8R9hvxg) | [The Faith](https://open.spotify.com/artist/3su2IgaxD1B1RqaK5a6GFw) | [Side A](https://open.spotify.com/album/7q5KsjzwLinFkYJ6u06vPR) | 1:05 |
 | 60 | [In Control](https://open.spotify.com/track/2w647JfE21aean203DhIWl) | [Stalag 13](https://open.spotify.com/artist/0mIzEnUJCNI95eycUPRuZs) | [In Control](https://open.spotify.com/album/0H3qJ9SsEgOee7l64wLLKt) | 1:27 |
-| 61 | [Chain of Strength](https://open.spotify.com/track/157oftOeXHSQrm5ZAR9H3i) | [Justice League](https://open.spotify.com/artist/5pCvzkiLM9KubR9FiHQmPv) | [Shattered Dreams](https://open.spotify.com/album/6wg43Kj54KVPerX0QQF4pm) | 0:29 |
+| 61 | [Chain of Strength](https://open.spotify.com/track/157oftOeXHSQrm5ZAR9H3i) | [Justice League](https://open.spotify.com/artist/5pCvzkiLM9KubR9FiHQmPv) | [Shattered Dreams](https://open.spotify.com/album/6wg43Kj54KVPerX0QQF4pm) | 2:10 |
 | 62 | [In Your Face](https://open.spotify.com/track/1Y6ZE2BrcumCIuyxFd83hS) | [Slapshot](https://open.spotify.com/artist/6sBw8Lm18Aj4Zd4dVzM9WU) | [Step On It](https://open.spotify.com/album/5JTpdzYJd9QJbzWCZu78uE) | 2:40 |
 | 63 | [Leave Me Out](https://open.spotify.com/track/70hD3zFhi2QBzyrroTBhaJ) | [Violent Reaction](https://open.spotify.com/artist/0Wn6xj1isDvaGvMCWONxWr) | [Marching On](https://open.spotify.com/album/7Gfg9Wr23qbITPh7EALHD2) | 1:03 |
 | 64 | [We Got the Edge](https://open.spotify.com/track/2slzwqyCzByJtj1lB5ZLkQ) | [Visual Discrimination](https://open.spotify.com/artist/53F168EucSN158YLzu1Rfs) | [Step Back and Listen](https://open.spotify.com/album/3g2cxL8mnycQwpkCvMtrwt) | 2:10 |
 | 65 | [Bringin' It Down](https://open.spotify.com/track/24yPzgx1eYl1xmhpKw5Wbf) | [Judge](https://open.spotify.com/artist/2FjHrXsNltj2EKpHqXgkq9) | [Bringin' It Down](https://open.spotify.com/album/3atpwAbNVlrCE6VaqxKBCa) | 1:49 |
-| 66 | [Once and for all](https://open.spotify.com/track/2PNbQPRtT0KpFua7ySslay) | [Up Front](https://open.spotify.com/artist/1a7OFogVYYbn7YUtSAxaUN) | [Spirit](https://open.spotify.com/album/7ibrZDaOn9EGLzBhjIWlQb) | 0:29 |
+| 66 | [Once and for all](https://open.spotify.com/track/2PNbQPRtT0KpFua7ySslay) | [Up Front](https://open.spotify.com/artist/1a7OFogVYYbn7YUtSAxaUN) | [Spirit](https://open.spotify.com/album/7ibrZDaOn9EGLzBhjIWlQb) | 2:18 |
 | 67 | [Last Straw](https://open.spotify.com/track/4zMmCujsSetUmf8vivqty0) | [Wide Awake](https://open.spotify.com/artist/3RjPJRaqACpVw1Ds12ADcI) | [25 Song Discography](https://open.spotify.com/album/70wPuYuX1drOOZkVXQGrL5) | 3:46 |
 | 68 | [Straight on View](https://open.spotify.com/track/4m20vG5SZKMV5BboK8wa7s) | [Unity](https://open.spotify.com/artist/09dIVetTMmnKSIS05IMOvG) | [You Are One](https://open.spotify.com/album/3qJqlxOEaQ5q54iaguHtUN) | 1:07 |
 | 69 | [Not For Me](https://open.spotify.com/track/4ClWDMg91Y68ApgudaBFfo) | [Insted](https://open.spotify.com/artist/3122FeGvz8tC7SRIcVN7sp) | [What We Believe](https://open.spotify.com/album/65BpyWxH8OcTi608WXbuBn) | 2:01 |

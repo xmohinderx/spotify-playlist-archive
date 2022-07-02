@@ -1,13 +1,33 @@
 {
-  "description": "La nueva-nueva ola de artistas y creadorxs mexas: presentamos a DAAZ e Ingratax. \ud83c\udf0a\u2728 ",
-  "num_followers": 26615,
+  "description": "La nueva-nueva ola de artistas y creadorxs mexas: presentamos a Carlos Unger y Ferraz. \ud83c\udf0a\u2728 ",
+  "num_followers": 26664,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjM0OTA3NSwwMDAwMDA0ZTAwMDAwMTgxYTYxOTI4OTMwMDAwMDE4MTZlNDNmOTkw",
+  "snapshot_id": "MTY1NjcwMDU0MiwwMDAwMDA1MDAwMDAwMTgxYmIwYzFlYmYwMDAwMDE4MWI3ZDgwZmY2",
   "tracks": [
+    {
+      "added_at": "2022-07-01 05:00:00",
+      "album": {
+        "name": "vienes y te vas :|",
+        "url": "https://open.spotify.com/album/6BhQ6hPpS3saH0zGNdXIrU"
+      },
+      "artists": [
+        {
+          "name": "Carlos Unger",
+          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
+        },
+        {
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
+        }
+      ],
+      "duration_ms": 189621,
+      "name": "vienes y te vas :|",
+      "url": "https://open.spotify.com/track/7JYmphizKecTyAicTJYgco"
+    },
     {
       "added_at": "2022-06-24 13:03:48",
       "album": {
@@ -31,6 +51,22 @@
       "duration_ms": 178741,
       "name": "Necesito un Break de Tanta Pendejad*",
       "url": "https://open.spotify.com/track/3gLTUkkHiWnbvG49FByvp2"
+    },
+    {
+      "added_at": "2022-07-01 18:35:42",
+      "album": {
+        "name": "LA PUERTA",
+        "url": "https://open.spotify.com/album/08UiEXyBQY3dDgdfieN0mj"
+      },
+      "artists": [
+        {
+          "name": "Steff",
+          "url": "https://open.spotify.com/artist/0Gh7dmIj59Sa4JPy9x0yUt"
+        }
+      ],
+      "duration_ms": 183225,
+      "name": "LA PUERTA",
+      "url": "https://open.spotify.com/track/1C7dlhgx28pHMjCMfiiZun"
     },
     {
       "added_at": "2022-06-24 13:03:48",
@@ -81,6 +117,58 @@
       "url": "https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj"
     },
     {
+      "added_at": "2022-07-01 18:35:42",
+      "album": {
+        "name": "Modo Melanc\u00f3lico",
+        "url": "https://open.spotify.com/album/3dc57wAaDKFlbjfb2Njuz1"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "duration_ms": 166207,
+      "name": "Modo Melanc\u00f3lico",
+      "url": "https://open.spotify.com/track/4APwd61xpDtKY2rcac8VCI"
+    },
+    {
+      "added_at": "2022-06-24 13:03:48",
+      "album": {
+        "name": "Chihiro",
+        "url": "https://open.spotify.com/album/7AIKI5Ft7gwBc5m1JZiC2y"
+      },
+      "artists": [
+        {
+          "name": "Donovan Morales",
+          "url": "https://open.spotify.com/artist/23flm1dVdkzY1GG5NKZhin"
+        }
+      ],
+      "duration_ms": 219822,
+      "name": "Chihiro",
+      "url": "https://open.spotify.com/track/0PDjU1tGuHogWax0Dpcq3m"
+    },
+    {
+      "added_at": "2022-06-24 13:03:48",
+      "album": {
+        "name": "Monstruos",
+        "url": "https://open.spotify.com/album/7oLzFFlnvINd5OZmmZXu8L"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "Monstruos (est\u00e1 bn estar mal)",
+      "url": "https://open.spotify.com/track/3vy6XKN0Tn07cldEYEyA5Z"
+    },
+    {
       "added_at": "2022-06-24 13:03:48",
       "album": {
         "name": "Recuerdo",
@@ -99,22 +187,6 @@
     {
       "added_at": "2022-06-24 13:03:48",
       "album": {
-        "name": "Chihiro",
-        "url": "https://open.spotify.com/album/7AIKI5Ft7gwBc5m1JZiC2y"
-      },
-      "artists": [
-        {
-          "name": "Donovan Morales",
-          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
-        }
-      ],
-      "duration_ms": 219822,
-      "name": "Chihiro",
-      "url": "https://open.spotify.com/track/0PDjU1tGuHogWax0Dpcq3m"
-    },
-    {
-      "added_at": "2022-06-24 13:03:48",
-      "album": {
         "name": "Capricho",
         "url": "https://open.spotify.com/album/5YANYVqUlxVKl1SzCu8quh"
       },
@@ -127,6 +199,22 @@
       "duration_ms": 160434,
       "name": "Capricho",
       "url": "https://open.spotify.com/track/514FAjdvx5C6w3X9YV1P5Q"
+    },
+    {
+      "added_at": "2022-07-01 05:00:00",
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/7nXQgF6Zz1V1RHmCujmX7K"
+      },
+      "artists": [
+        {
+          "name": "Malamala",
+          "url": "https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl"
+        }
+      ],
+      "duration_ms": 174493,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/206EbLmSB7o5WimiOCE5Va"
     },
     {
       "added_at": "2022-06-24 13:03:48",
@@ -143,6 +231,22 @@
       "duration_ms": 159378,
       "name": "Se Fue la Luz",
       "url": "https://open.spotify.com/track/5prM7f8gT8LNm8HlCdT7nl"
+    },
+    {
+      "added_at": "2022-07-01 05:00:00",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/7x4Hba5M5kjsR67wCdtWnB"
+      },
+      "artists": [
+        {
+          "name": "Fer Altuzar",
+          "url": "https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL"
+        }
+      ],
+      "duration_ms": 322000,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/0A91vGTQe1bwbm6QuL8x1B"
     },
     {
       "added_at": "2022-06-24 13:03:48",
@@ -163,22 +267,6 @@
       "duration_ms": 210562,
       "name": "Masoquista",
       "url": "https://open.spotify.com/track/0Zi2qTrntCAIgC93zjZRpC"
-    },
-    {
-      "added_at": "2022-06-24 13:03:48",
-      "album": {
-        "name": "Monstruos",
-        "url": "https://open.spotify.com/album/7oLzFFlnvINd5OZmmZXu8L"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "Monstruos (est\u00e1 bn estar mal)",
-      "url": "https://open.spotify.com/track/3vy6XKN0Tn07cldEYEyA5Z"
     },
     {
       "added_at": "2022-06-24 13:03:48",
@@ -211,22 +299,6 @@
       "duration_ms": 262309,
       "name": "AMOR DE CINE",
       "url": "https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS"
-    },
-    {
-      "added_at": "2022-06-24 13:03:48",
-      "album": {
-        "name": "Vienen Y Van",
-        "url": "https://open.spotify.com/album/4mItIB7t3BKjoSUXx9odyS"
-      },
-      "artists": [
-        {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
-        }
-      ],
-      "duration_ms": 181808,
-      "name": "Vienen Y Van",
-      "url": "https://open.spotify.com/track/5oWh8d5vckVbBuO7Udcgo8"
     },
     {
       "added_at": "2022-06-24 13:03:48",
@@ -308,7 +380,7 @@
           "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
         }
       ],
-      "duration_ms": 134470,
+      "duration_ms": 29048,
       "name": "Ya Casi Te Olvido",
       "url": "https://open.spotify.com/track/4GBx2b88twICiMHVgmkRl9"
     },
@@ -423,6 +495,22 @@
     {
       "added_at": "2022-06-24 13:03:48",
       "album": {
+        "name": "Vienen Y Van",
+        "url": "https://open.spotify.com/album/4mItIB7t3BKjoSUXx9odyS"
+      },
+      "artists": [
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        }
+      ],
+      "duration_ms": 181808,
+      "name": "Vienen Y Van",
+      "url": "https://open.spotify.com/track/5oWh8d5vckVbBuO7Udcgo8"
+    },
+    {
+      "added_at": "2022-06-24 13:03:48",
+      "album": {
         "name": "ojal\u00e1 </3",
         "url": "https://open.spotify.com/album/0dZbJuwWFwFqXSq6BC1xes"
       },
@@ -432,7 +520,7 @@
           "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
         }
       ],
-      "duration_ms": 171290,
+      "duration_ms": 29048,
       "name": "ojal\u00e1 </3",
       "url": "https://open.spotify.com/track/2Gf3SCoQqgRbxUdjsP3IP4"
     },
@@ -591,22 +679,6 @@
     {
       "added_at": "2022-06-24 13:03:48",
       "album": {
-        "name": "\u00bfCu\u00e1ndo Pero Cu\u00e1ndo?",
-        "url": "https://open.spotify.com/album/5HYltXcXeofknbuBjt8X4e"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 154576,
-      "name": "\u00bfCu\u00e1ndo Pero Cu\u00e1ndo?",
-      "url": "https://open.spotify.com/track/4Hsp0FRXibfhCQwKkSGTdV"
-    },
-    {
-      "added_at": "2022-06-24 13:03:48",
-      "album": {
         "name": "Cicatrices",
         "url": "https://open.spotify.com/album/6OTYAR1Wc6i7NrdkwhIL84"
       },
@@ -619,22 +691,6 @@
       "duration_ms": 194884,
       "name": "Cicatrices",
       "url": "https://open.spotify.com/track/47aJuPKFlwsBcTyECetM4S"
-    },
-    {
-      "added_at": "2022-06-24 13:03:48",
-      "album": {
-        "name": "Ven",
-        "url": "https://open.spotify.com/album/2H9tKoacyYJ0wrQvVLijzK"
-      },
-      "artists": [
-        {
-          "name": "Luisa Ferss",
-          "url": "https://open.spotify.com/artist/1ItAvLPSVDyxMZoH7uqj2K"
-        }
-      ],
-      "duration_ms": 29048,
-      "name": "Ven",
-      "url": "https://open.spotify.com/track/2tgJbpATqLIAjGpnLS71f1"
     },
     {
       "added_at": "2022-06-24 13:03:48",
@@ -671,22 +727,6 @@
       "duration_ms": 192418,
       "name": "Cada D\u00eda Te Quiero M\u00e1s",
       "url": "https://open.spotify.com/track/3cj60CwhSsrMr0nxMRIGKP"
-    },
-    {
-      "added_at": "2022-06-24 13:03:48",
-      "album": {
-        "name": "Nadie M\u00e1s",
-        "url": "https://open.spotify.com/album/5POc5gwtXkHsFwTfp5e0L7"
-      },
-      "artists": [
-        {
-          "name": "Aldo Carpes",
-          "url": "https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ"
-        }
-      ],
-      "duration_ms": 203636,
-      "name": "Nadie M\u00e1s",
-      "url": "https://open.spotify.com/track/0B0nCve9pI1PJcdA3B4t0q"
     },
     {
       "added_at": "2022-06-24 13:03:48",
@@ -815,22 +855,6 @@
       "duration_ms": 166113,
       "name": "Me Jodiste",
       "url": "https://open.spotify.com/track/5IpVwbuqd1RAdJCsV5GdWD"
-    },
-    {
-      "added_at": "2022-06-24 13:03:48",
-      "album": {
-        "name": "heartbreaker",
-        "url": "https://open.spotify.com/album/6ZtYF02g1gexQ4lIb95qTU"
-      },
-      "artists": [
-        {
-          "name": "Alan Navarro",
-          "url": "https://open.spotify.com/artist/2OErLAm8iN9bisLoX3E0zH"
-        }
-      ],
-      "duration_ms": 166586,
-      "name": "\u00bfQu\u00e9 M\u00e1s Quieres De M\u00ed?",
-      "url": "https://open.spotify.com/track/4PWIY4NKlOU618loEsD41O"
     },
     {
       "added_at": "2022-06-24 13:03:48",
@@ -1000,7 +1024,7 @@
           "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 217797,
       "name": "Te Marqu\u00e9 Pedo - Remix",
       "url": "https://open.spotify.com/track/6FmNYdaLvcxqTiXjpXMriI"
     },
@@ -1255,26 +1279,6 @@
       "duration_ms": 159428,
       "name": "Otro D\u00eda",
       "url": "https://open.spotify.com/track/0bUfdeUmiVzHSIT5l2NmGa"
-    },
-    {
-      "added_at": "2022-06-24 13:03:48",
-      "album": {
-        "name": "Veo, Veo",
-        "url": "https://open.spotify.com/album/059eZpWBrNGHJ95xr9Ent5"
-      },
-      "artists": [
-        {
-          "name": "zzoilo",
-          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
-        },
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 160003,
-      "name": "Veo, Veo",
-      "url": "https://open.spotify.com/track/2gtf19UFW3XLNsEnbfdBVb"
     },
     {
       "added_at": "2022-06-24 13:03:48",

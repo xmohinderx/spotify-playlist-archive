@@ -4,7 +4,7 @@
 
 > Les hits dancehall du moment\. Photo : Bamby
 
-113 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/5EUHHXJOLrkgmRGE7o9Fvs)
+113 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/5EUHHXJOLrkgmRGE7o9Fvs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Section](https://open.spotify.com/track/2R6wZFWXBF2rRIbvQirzjP) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Section](https://open.spotify.com/album/51ygRTQJLBz3v6EDqvsL6K) | 2:14 | 2022-06-09 |  |
 | [She Knows](https://open.spotify.com/track/4dst3v9IrkOe59bywDmyNL) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Dj Glad](https://open.spotify.com/artist/0gjAAo7BlTd5MmP7qvIQLe) | [She Knows](https://open.spotify.com/album/5fQkj4PKq7ZbSrlCTLKsSH) | 2:01 | 2022-06-23 |  |
 | [Skeleton Cartier](https://open.spotify.com/track/4OGhqENXneIdSfMPHRb1Og) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Skeleton Cartier](https://open.spotify.com/album/0nlrjWXIKkwMHTXxm5oiZZ) | 3:41 | 2022-03-10 |  |
-| [Slap](https://open.spotify.com/track/5CwSPRRv1pgwekI2OjT8D7) | [Its Natascha](https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6), [Joli Rouge Sound](https://open.spotify.com/artist/6Pwx5SQ0bBlpMxgx7RHVyM) | [Slap](https://open.spotify.com/album/7lieUHWGYUrAm8lC7BVhV5) | 0:29 | 2022-02-24 |  |
+| [Slap](https://open.spotify.com/track/5CwSPRRv1pgwekI2OjT8D7) | [Its Natascha](https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6), [Joli Rouge Sound](https://open.spotify.com/artist/6Pwx5SQ0bBlpMxgx7RHVyM) | [Slap](https://open.spotify.com/album/7lieUHWGYUrAm8lC7BVhV5) | 2:26 | 2022-02-24 |  |
 | [Sos](https://open.spotify.com/track/0NvwdECwRxe8avnKphwO5o) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc), [Florence El Luche](https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1) | [Sos](https://open.spotify.com/album/7bgThdCTdoXHAIGsOgbmHq) | 3:10 | 2022-06-30 |  |
 | [Stand Firm](https://open.spotify.com/track/6nphDFw2CnNspvwyswNv69) | [Babybang](https://open.spotify.com/artist/5AE51Ys60V4FluAz6NQQup), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x) | [Stand Firm](https://open.spotify.com/album/17OIKPVlA5sZ7GlIZ4mcCy) | 2:32 | 2022-06-30 |  |
 | [Suffering Days](https://open.spotify.com/track/72dpxZuTHoyVqt6CUBgSog) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Pop Style](https://open.spotify.com/artist/5pzWFizoqhuhkImntBH12H) | [Suffering Days](https://open.spotify.com/album/3kdctcGAqj1STmWJfEqgmw) | 2:15 | 2021-12-22 | 2022-03-25 |

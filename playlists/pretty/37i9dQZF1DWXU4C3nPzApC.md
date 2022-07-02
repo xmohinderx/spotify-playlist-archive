@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU4C3nPzApC.md) - [plain]
 
 > The best music with a Nashville flavour\. Cover: Twinnie
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,879 likes - 55 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,920 likes - 55 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU4C3nPzApC.md) - [plain]
 | 48 | [Diamond Studded Shoes](https://open.spotify.com/track/5vJzPLEkqOXaqKZqzsYt9r) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Diamond Studded Shoes](https://open.spotify.com/album/1hH8sinTRPta1RQMY8SFX5) | 3:24 |
 | 49 | [Little House Big Love](https://open.spotify.com/track/3qaFMNCJrxzO8o5Yi13uwN) | [Jack & Tim](https://open.spotify.com/artist/1fgrPRvmKUdRM6nwm3skRB) | [Little House Big Love](https://open.spotify.com/album/0qHXZk39IiGrPUhj2UwtS3) | 3:03 |
 | 50 | [State of Confusion](https://open.spotify.com/track/4x75c8IwR61Kb5Qc5jYojA) | [Cody Feechan](https://open.spotify.com/artist/56nyJ2SOAZ68LazVaeMSZE) | [State of Confusion](https://open.spotify.com/album/0PE5kuealmExWNziGj2DJn) | 3:41 |
-| 51 | [Bruise You Left](https://open.spotify.com/track/4QlQ9E86UWTyLNO8724Drv) | [The Rising](https://open.spotify.com/artist/0I4Sg6JkRdKpkOTichDMpI) | [Bruise You Left](https://open.spotify.com/album/0lCoGeUUOQ2iQXk8FJsg2D) | 0:29 |
+| 51 | [Bruise You Left](https://open.spotify.com/track/4QlQ9E86UWTyLNO8724Drv) | [The Rising](https://open.spotify.com/artist/0I4Sg6JkRdKpkOTichDMpI) | [Bruise You Left](https://open.spotify.com/album/0lCoGeUUOQ2iQXk8FJsg2D) | 3:00 |
 | 52 | [Everything Changes \(Piano\)](https://open.spotify.com/track/3ZZ5x1z9tQ4dV1ZmC78lpj) | [Lisa Wright](https://open.spotify.com/artist/48p7FJQ2yD1Ol8BWhHcfE2), [Joe Dolman](https://open.spotify.com/artist/4A5MQi1opEqAcE0yZCmrZw) | [Everything Changes \(Piano\)](https://open.spotify.com/album/2jOKWDdT0tn8UxGbHO1BQj) | 3:28 |
 | 53 | [Human](https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human The Double Album](https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb) | 3:41 |
 | 54 | [Sunshine & White Wine](https://open.spotify.com/track/5ZrU3Wkpro4V1b9jNXuZRw) | [Savannah Jaine](https://open.spotify.com/artist/1EiW3GLNSmLFCr9TuPGUCO) | [Sunshine & White Wine](https://open.spotify.com/album/47lEkhKprkM7dEGOs7B6sW) | 3:44 |

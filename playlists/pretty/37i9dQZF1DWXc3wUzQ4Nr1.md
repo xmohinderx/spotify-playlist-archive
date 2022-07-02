@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXc3wUzQ4Nr1.md) - [plain]
 
 > Global superstar DJ <a href="spotify:artist:5ChF3i92IPZHduM7jN3dpg">Nicky Romero</a> takes us to the main stage with his uplifting mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,218 likes - 19 songs - 58 min 23 sec
+[Spotify](https://open.spotify.com/user/spotify) - 5,229 likes - 19 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXc3wUzQ4Nr1.md) - [plain]
 | 4 | [Turn Back Time \- Mixed](https://open.spotify.com/track/0sv0ZIVZ3xJdLLW7LRUHQI) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [Turn Back Time \(Mixed\)](https://open.spotify.com/album/67c73VotVa5vnNnA1lTpJr) | 3:11 |
 | 5 | [Talkin' About \- Extended Mix \- Mixed](https://open.spotify.com/track/19v5CwTT0yoJ5ets5E1vd1) | [CAMARDA](https://open.spotify.com/artist/09vy0H2lHwtBHCdzuFpDZN), [Whispers](https://open.spotify.com/artist/20CDUTkeimUuCordyA7SXq) | [Talkin' About \- Extended Mix \(Mixed\)](https://open.spotify.com/album/6xtyJL7aYqIXcdvrEYZ7BF) | 2:19 |
 | 6 | [You Don't Know \- Mixed](https://open.spotify.com/track/2UGlvMzGwiryEcHOS4SFyw) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [You Don't Know \(Mixed\)](https://open.spotify.com/album/5jfR7zcIUOBdIwyXLE92EG) | 3:29 |
-| 7 | [Slumped \- Extended Mix \- Mixed](https://open.spotify.com/track/3OYqUGv4pW3p5blStKOQlh) | [Din & Vic](https://open.spotify.com/artist/6aBFmG3P8qP94uilPUwYBk) | [Slumped \- Extended Mix \(Mixed\)](https://open.spotify.com/album/1I0KLAQs4rCO2fPzjnuUCK) | 0:29 |
+| 7 | [Slumped \- Extended Mix \- Mixed](https://open.spotify.com/track/3OYqUGv4pW3p5blStKOQlh) | [Din & Vic](https://open.spotify.com/artist/6aBFmG3P8qP94uilPUwYBk) | [Slumped \- Extended Mix \(Mixed\)](https://open.spotify.com/album/1I0KLAQs4rCO2fPzjnuUCK) | 2:32 |
 | 8 | [Your Eyes \- Mixed](https://open.spotify.com/track/6Hm2XwPAz3k7htQZCxWtlC) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [LAMAS \(BR\)](https://open.spotify.com/artist/3sEeagShEwr9APxjh62Hr8), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Your Eyes \(Mixed\)](https://open.spotify.com/album/26l3Ft6mgdKwIlmShoCbqu) | 4:13 |
 | 9 | [Ashes \- Mixed](https://open.spotify.com/track/40XxcwtHuM2FjRYeQqKkQ9) | [Timmo Hendriks](https://open.spotify.com/artist/7rNPTious4qaZVcKH3cmX3), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Ashes \(Mixed\)](https://open.spotify.com/album/3tLnS8IMHo2keNvriGFy7Y) | 3:21 |
 | 10 | [Losing Control \- Extended Mix \- Mixed](https://open.spotify.com/track/66Er4kkVZWLpa7H7lwqoRA) | [Low Blow](https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ) | [Losing Control \- Extended Mix \(Mixed\)](https://open.spotify.com/album/2hAJK4bOJeHiVl0rZPGmd3) | 3:12 |

@@ -4,14 +4,14 @@
 
 > All E.L.F's go to playlist! A brand new album is here! Listen to The Renaissance!
 
-128 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/2UMJmYC8TKLWWGuzrB0lu5)
+128 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/2UMJmYC8TKLWWGuzrB0lu5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2YA2YAO!](https://open.spotify.com/track/7iQTGSIl9m4jofHBGby9kZ) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [TIMELESS \- The 9th Album Repackage](https://open.spotify.com/album/32o8mUN1uID4VlBUrsCN2f) | 3:20 | 2022-03-01 |  |
 | [A\-CHA](https://open.spotify.com/track/11aHogiqjCmbSMR54pBmRH) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The 5th Repackage 'Mr.Simple'](https://open.spotify.com/album/3UssHJTVCfHiKKINAtgIC1) | 3:20 | 2022-03-01 |  |
 | [Ahora Te Puedes Marchar](https://open.spotify.com/track/7ufUUzddmfwitmCAFHsWr3) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [One More Time \- Special Mini Album](https://open.spotify.com/album/0vgV211bUsihsckzNaejxe) | 3:10 | 2022-03-01 |  |
-| [All Day Long](https://open.spotify.com/track/1EGggFwIQwciGlo803CQ83) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [When the Weather is fine OST Part.3](https://open.spotify.com/album/2HK3bKkHIAp1XcdKb1L5jI) | 0:29 | 2022-03-01 |  |
+| [All Day Long](https://open.spotify.com/track/1EGggFwIQwciGlo803CQ83) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [When the Weather is fine OST Part.3](https://open.spotify.com/album/2HK3bKkHIAp1XcdKb1L5jI) | 4:48 | 2022-03-01 |  |
 | [Alright](https://open.spotify.com/track/6XcAiN3fb2YGgK4vW9wFnV) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [DEVIL \- SUPER JUNIOR SPECIAL ALBUM](https://open.spotify.com/album/3tLpEVOpXkRifL3nIziMN6) | 3:55 | 2022-03-01 |  |
 | [Analogue Radio](https://open.spotify.com/track/0ZQQUIm8sMewQQyRZxxX2a) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Winter for Spring](https://open.spotify.com/album/0jsUbgbuyBIVztpkDKYNxZ) | 3:25 | 2022-03-01 |  |
 | [Animals](https://open.spotify.com/track/6Pqc7nJCJcxfTMrmNMNTr6) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Animals](https://open.spotify.com/album/5wp7px1nVgtMiX6ZXnNkTh) | 3:31 | 2022-03-01 |  |
@@ -27,7 +27,7 @@
 | [Callin'](https://open.spotify.com/track/0Zbl0vvoYlHO5GPuEE8nJq) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Winter for Spring](https://open.spotify.com/album/0jsUbgbuyBIVztpkDKYNxZ) | 3:48 | 2022-03-01 |  |
 | [Closer](https://open.spotify.com/track/34m4nZyJGIpb0jYiBD61gC) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Renaissance \- The 10th Album](https://open.spotify.com/album/3qyzxavqOfixEPDfFCEMlH) | 3:29 | 2022-03-01 |  |
 | [Danger](https://open.spotify.com/track/75Wfq80T9FektQegttDOTs) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [DANGER \- The 3rd Mini Album](https://open.spotify.com/album/2lwfwVAKf0cB4Uc5qqhk2P) | 3:14 | 2022-03-01 |  |
-| [Daystar](https://open.spotify.com/track/6HcNz2K1JVXb1xgMAD93og) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Daystar](https://open.spotify.com/album/0EOLOmGmGxtLntJpB2SxMu) | 0:29 | 2022-03-01 |  |
+| [Daystar](https://open.spotify.com/track/6HcNz2K1JVXb1xgMAD93og) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Daystar](https://open.spotify.com/album/0EOLOmGmGxtLntJpB2SxMu) | 3:58 | 2022-03-01 |  |
 | [Devil](https://open.spotify.com/track/2jkZgKoNK8dKxs7FGb9c42) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [DEVIL \- SUPER JUNIOR SPECIAL ALBUM](https://open.spotify.com/album/3tLpEVOpXkRifL3nIziMN6) | 3:36 | 2022-03-01 |  |
 | [Don’t Wake Me Up \- sung by SUPER JUNIOR–D&E](https://open.spotify.com/track/6ZMt36jFrzimQrzAx93Xjv) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [MAGIC \- SUPER JUNIOR SPECIAL ALBUM PART.2](https://open.spotify.com/album/4awzBhGBXXSZjTpy9fEtj3) | 3:08 | 2022-03-01 |  |
 | [Dreamer](https://open.spotify.com/track/7F9mjStmIHKakdhS2DtcQz) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [DANGER \- The 3rd Mini Album](https://open.spotify.com/album/2lwfwVAKf0cB4Uc5qqhk2P) | 3:58 | 2022-03-01 |  |

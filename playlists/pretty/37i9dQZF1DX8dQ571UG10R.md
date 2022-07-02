@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 
 > Vem com a gente no melhor dos beats inspirados pelo seu anime favorito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,179 likes - 49 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,239 likes - 49 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 | 31 | [Chuva de Kunai](https://open.spotify.com/track/7iKZKK9gpHpOeW0Hwredfy) | [Felícia Rock](https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Chuva de Kunai](https://open.spotify.com/album/3VfiWdnJHEUHT34XUUn68f) | 3:19 |
 | 32 | [Rap do Naruto: O Sétimo Hokage \(Nerd Hits\)](https://open.spotify.com/track/3ksOOop62ZdT0MJuXttpxq) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap do Naruto: O Sétimo Hokage \(Nerd Hits\)](https://open.spotify.com/album/0JLQS1y6f2uTvyKP4izPAy) | 3:56 |
 | 33 | [Rap Do Chopper: Flores de Cerejeira](https://open.spotify.com/track/1Vc4CybtR522rCPaOnIfGq) | [Enygma Rapper](https://open.spotify.com/artist/3vQAVbtRu2SDTgfTKcoxDu) | [Rap Do Chopper: Flores de Cerejeira](https://open.spotify.com/album/3EqMHlH0AMgUmx7xgf73aI) | 4:36 |
-| 34 | [Pique Narutão](https://open.spotify.com/track/5b8WiNjA6ihEvaeB9J3eyQ) | [Sidney Scaccio](https://open.spotify.com/artist/631T7yPinNND4sm5RINYxu) | [Pique Narutão](https://open.spotify.com/album/0NtyHYCaTcHk25sROuomEL) | 0:29 |
+| 34 | [Pique Narutão](https://open.spotify.com/track/5b8WiNjA6ihEvaeB9J3eyQ) | [Sidney Scaccio](https://open.spotify.com/artist/631T7yPinNND4sm5RINYxu) | [Pique Narutão](https://open.spotify.com/album/0NtyHYCaTcHk25sROuomEL) | 3:01 |
 | 35 | [Tipo Narutin](https://open.spotify.com/track/4nqvl1yLuiGO5C6TtwbKhS) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Narutin](https://open.spotify.com/album/0ikI9k4kn5GqbML5UrGQnF) | 3:08 |
 | 36 | [Então Se Afogue](https://open.spotify.com/track/1UAoopP5YgFJvpm5s4qJYP) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Então Se Afogue](https://open.spotify.com/album/2zO12kHYSqn4kuYRryCCXA) | 5:04 |
 | 37 | [Amor Complicado](https://open.spotify.com/track/1fiaPgQcrNhNPYdFouflft) | [Felícia Rock](https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Amor Complicado](https://open.spotify.com/album/11Nr9YVEykejmmWdaz6eJa) | 4:03 |
-| 38 | [Madara: A Lenda Reencarnada](https://open.spotify.com/track/70EKfzmUOGLZCbl2s9qJ8F) | [Flash Beats Manow](https://open.spotify.com/artist/0ZIlwtVZkqtMZUpbHrz8TL) | [Madara: A Lenda Reencarnada](https://open.spotify.com/album/3a9dHWUNuQIK3zrslZsmnE) | 0:29 |
+| 38 | [Madara: A Lenda Reencarnada](https://open.spotify.com/track/70EKfzmUOGLZCbl2s9qJ8F) | [Flash Beats Manow](https://open.spotify.com/artist/0ZIlwtVZkqtMZUpbHrz8TL) | [Madara: A Lenda Reencarnada](https://open.spotify.com/album/3a9dHWUNuQIK3zrslZsmnE) | 3:30 |
 | 39 | [Estilo Ninja](https://open.spotify.com/track/4s26Od5JQ2hhsTM3yhTeX0) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Estilo Ninja](https://open.spotify.com/album/1gHHeZFCqtSUUQmJiBYTWO) | 3:26 |
 | 40 | [Maldição do Ódio](https://open.spotify.com/track/0zMvUqDRnUxJVE7VBiCCFE) | [Takr](https://open.spotify.com/artist/3BL1s5UAxSPUJh3QZh3IRD), [Sidney Scaccio](https://open.spotify.com/artist/2QAbWL5uhxEJmv28GJEkzr) | [Maldição do Ódio](https://open.spotify.com/album/1Yk3IYnEjuGb8zSmkbK7No) | 4:55 |
 | 41 | [Então Eletrifique](https://open.spotify.com/track/63UGvxRZSJMHFjYcUs0TdL) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Então Eletrifique](https://open.spotify.com/album/11WgBAEBpB8NbBx0allLYe) | 5:30 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 | 44 | [Rap do Killua: Godspeed](https://open.spotify.com/track/5bH36BU1Z4zAUcY2MTvL64) | [Enygma Rapper](https://open.spotify.com/artist/3vQAVbtRu2SDTgfTKcoxDu) | [Rap do Killua: Godspeed](https://open.spotify.com/album/73q2LBACwwMPPzkfITaduS) | 3:00 |
 | 45 | [Deidara: Nuke](https://open.spotify.com/track/0m5pkgoPtYqrj2y2j7BNrS) | [Flash Beats Manow](https://open.spotify.com/artist/0ZIlwtVZkqtMZUpbHrz8TL) | [Deidara: Nuke](https://open.spotify.com/album/78rJ5rijVFOMChNbvzQt5g) | 3:58 |
 | 46 | [Rap do Meliodas: Consumido Pela Ira](https://open.spotify.com/track/2pIUqduie7GAxlfCJSd9MW) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Rap do Meliodas: Consumido Pela Ira](https://open.spotify.com/album/4wEPmSVaWCsIiZEK6IGk1a) | 3:23 |
-| 47 | [Se Ajoelhe](https://open.spotify.com/track/4rKp63bn9KsACPgCahmLLP) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx), [Flash Beats](https://open.spotify.com/artist/7IFhE5NzZZlsfvPZH84fY9) | [Se Ajoelhe](https://open.spotify.com/album/3ZyyV0HWP8Z0nAFyCa3UIx) | 0:29 |
+| 47 | [Se Ajoelhe](https://open.spotify.com/track/4rKp63bn9KsACPgCahmLLP) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx), [Flash Beats](https://open.spotify.com/artist/7IFhE5NzZZlsfvPZH84fY9) | [Se Ajoelhe](https://open.spotify.com/album/3ZyyV0HWP8Z0nAFyCa3UIx) | 3:47 |
 | 48 | [Madara](https://open.spotify.com/track/3ZYSGRt1lnm25Br7TgE7P9) | [nakashisam](https://open.spotify.com/artist/3uGU5qTwDPeXKJRsOgehFR), [Nerexx](https://open.spotify.com/artist/7FN9bcVGUvnJO4ukEa54Rw), [Tukatrip](https://open.spotify.com/artist/41xThDLkAI5bNLiX8eFp1T) | [Madara](https://open.spotify.com/album/6NxlhpWn2vXP8xXWquPFCK) | 4:25 |
 | 49 | [Rap Do Brook: Canção Solo](https://open.spotify.com/track/0hOIkoS38ZC5rbdM8sp1Bh) | [Basara](https://open.spotify.com/artist/2A8r4X2BCk6Y92EBYd3tP1) | [Rap Do Brook: Canção Solo](https://open.spotify.com/album/5L7eIZXIA12kIF2qyK2IGo) | 3:52 |
 

@@ -4,7 +4,7 @@
 
 > Beachy, acoustic tunes for lazy summer days.
 
-110 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/0JCaMOE91Ef3xMfUpqyDsa)
+110 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/0JCaMOE91Ef3xMfUpqyDsa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Dancing In The Moonlight](https://open.spotify.com/track/6KeHsd0q92Sm9nMpXw7kbp) | [Miles Stevens](https://open.spotify.com/artist/4iFBTDdERv7dXIDdtJ70Rd) | [Dancing In The Moonlight](https://open.spotify.com/album/1WiRcfUayPpf5PiDIb3NhI) | 2:49 | 2022-03-10 |  |
 | [Despacito](https://open.spotify.com/track/4S8QnyDR8D1OebNQGnND5i) | [Hannah Sugar](https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB) | [Heather](https://open.spotify.com/album/0AUiVvugI0KDonoRFZktg9) | 3:17 | 2022-03-10 |  |
 | [Dew](https://open.spotify.com/track/6JqfE4pSUOgILE5nbkjnRQ) | [Hilder Sky](https://open.spotify.com/artist/4VtFCdJXVb9aKGq8Pt5dZQ) | [Dew](https://open.spotify.com/album/0EZFTQf7FtZP5N8Qqwz4ip) | 2:32 | 2022-03-10 |  |
-| [Don't Belong Anywhere](https://open.spotify.com/track/6ehsAZzWS6dADcl5bQ5Hyb) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Don't Belong Anywhere](https://open.spotify.com/album/1qdJJiWx2rAQBmHJIo4Bgj) | 0:29 | 2022-03-10 |  |
+| [Don't Belong Anywhere](https://open.spotify.com/track/6ehsAZzWS6dADcl5bQ5Hyb) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Don't Belong Anywhere](https://open.spotify.com/album/1qdJJiWx2rAQBmHJIo4Bgj) | 3:53 | 2022-03-10 |  |
 | [Don't Look Back](https://open.spotify.com/track/7CGhNKVYThivDTjXTV34ej) | [Luna Leigh](https://open.spotify.com/artist/15QfJ6oZojHoP3JozO2079) | [Don't Look Back](https://open.spotify.com/album/7ky9LVdqdBG450s2w7pyVy) | 2:47 | 2022-03-10 |  |
 | [Don't Worry Be Happy](https://open.spotify.com/track/4CGLkQhF9G2aTExZChONix) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Don't Worry Be Happy / Let It Be](https://open.spotify.com/album/1ydxRAszbsOi1V9SMWsoP8) | 5:22 | 2022-03-10 |  |
 | [Dream Of Kapalua](https://open.spotify.com/track/3Ix8AFTXjJIqHbDkUdVU6z) | [Jim Kama](https://open.spotify.com/artist/4freTExwYI8GowzmoaluQJ) | [Dream Of Kapalua](https://open.spotify.com/album/2KKNEk0GmsqPx2SHsSL049) | 2:28 | 2022-03-10 |  |
@@ -46,7 +46,7 @@
 | [Fly Me To The Moon](https://open.spotify.com/track/3WtHeD1MkPYh1o5Bta94uL) | [Kaikane](https://open.spotify.com/artist/23f4uXdf9I7nMXo3Aaxsp7) | [What a Wonderfull World](https://open.spotify.com/album/3ObzhmOpdnOQzm5O6mreAl) | 2:11 | 2022-03-10 | 2022-05-06 |
 | [Formentera](https://open.spotify.com/track/7tkDVIHFHDas9ryaScCyns) | [Mente Orgánica](https://open.spotify.com/artist/1wfwGvcBGamXiXxuaExHRT) | [Formentera](https://open.spotify.com/album/1Z25zbxwXI4mIU1Bdu3bQe) | 3:11 | 2022-03-10 | 2022-05-06 |
 | [Fred's Theme](https://open.spotify.com/track/5xTaxs4Dk2oMBIVH4PXW8U) | [Jeff Paul](https://open.spotify.com/artist/6wlWoM5FRXLtNgl04EkZyN) | [Fred's Theme](https://open.spotify.com/album/066gCzWyicE5jaGH0uvTRR) | 2:05 | 2022-03-10 |  |
-| [Frozen Caipirinha](https://open.spotify.com/track/0rl1WFFKnRVG0tDlrB2vJU) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Frozen Caipirinha](https://open.spotify.com/album/3OXLuVmNEUvts49jtiSqw4) | 3:11 | 2022-03-10 |  |
+| [Frozen Caipirinha](https://open.spotify.com/track/0rl1WFFKnRVG0tDlrB2vJU) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Frozen Caipirinha](https://open.spotify.com/album/3OXLuVmNEUvts49jtiSqw4) | 0:29 | 2022-03-10 |  |
 | [Frühlingstanz](https://open.spotify.com/track/0GiGRuhSumYoiX5GH7PjiL) | [Xenocrates](https://open.spotify.com/artist/342midAD9fvJUGMxctnYtm) | [Frühlingstanz](https://open.spotify.com/album/0f1SzNxXGqCHLzkhcc6pqw) | 3:07 | 2022-03-10 |  |
 | [Get Lucky](https://open.spotify.com/track/2Bh7NpIcbGrjwq2h6Lt3j6) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Get Lucky](https://open.spotify.com/album/3kIVqsQDvMGaFtJETEuieb) | 4:49 | 2022-03-10 |  |
 | [Girl From Ipanema](https://open.spotify.com/track/1hOQ2MFPcuNupbsb8Xba1t) | [US Two](https://open.spotify.com/artist/6diA719p2OaW6zQnXCbRO9) | [US Two](https://open.spotify.com/album/3WDrrELIumy9JiB9aZN5x7) | 3:08 | 2022-03-10 |  |

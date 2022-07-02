@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The best of UK Rap & Drill.  Cover: Nemzzz",
+  "description": "The best of UK Rap & Drill.  Cover: Headie One & Frenna",
   "name": "Rap UK",
   "published_playlist_ids": [
     "5FuQUpQ2GSOITS1tCcS7A2"
@@ -3068,6 +3068,28 @@
     },
     {
       "album": {
+        "name": "Bigger Than Life",
+        "url": "https://open.spotify.com/album/6Nf93VWSRWwBArgnPXhn8G"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160106,
+      "name": "Bigger Than Life",
+      "url": "https://open.spotify.com/track/5PqO45k0bwz7idhZYdbHSY"
+    },
+    {
+      "album": {
         "name": "Violent Siblings",
         "url": "https://open.spotify.com/album/1NBMUudxB0eEU055MDQJkB"
       },
@@ -4373,7 +4395,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 223653,
       "name": "Cadabra Freestyle 2",
       "url": "https://open.spotify.com/track/3LSapsjQarL26Kp2LPdkAv"
@@ -6367,6 +6389,24 @@
       "duration_ms": 205973,
       "name": "Differences",
       "url": "https://open.spotify.com/track/6tFcwSh4nygzReGqAqax7c"
+    },
+    {
+      "album": {
+        "name": "Big Pakachino",
+        "url": "https://open.spotify.com/album/5vmWLEI62f4E5QdGmdiGFm"
+      },
+      "artists": [
+        {
+          "name": "Pak-Man",
+          "url": "https://open.spotify.com/artist/1qnW4caArrhUby9bFCSpXf"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142026,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/3Eu0zCF7sb8nD3TYaC7Qde"
     },
     {
       "album": {
@@ -10407,7 +10447,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 150884,
       "name": "I Wanna Start My Life Again",
       "url": "https://open.spotify.com/track/7lYNiZgNS2Khdd4nXznIEj"
@@ -10677,7 +10717,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 191328,
       "name": "Irish Girls (feat. Reggie)",
       "url": "https://open.spotify.com/track/6GzmyFlm4giQapIY3PYcYv"
@@ -11643,7 +11683,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 203333,
       "name": "League Of My Own",
       "url": "https://open.spotify.com/track/5fDh58djfsNicHJp9mHJej"
@@ -18703,6 +18743,32 @@
       "duration_ms": 182593,
       "name": "Shutdown",
       "url": "https://open.spotify.com/track/3iBDYmKc0ggPlcHzHHDmWR"
+    },
+    {
+      "album": {
+        "name": "Simple",
+        "url": "https://open.spotify.com/album/590Evn5v06Vl6n6eLKZDsH"
+      },
+      "artists": [
+        {
+          "name": "Stay Flee Get Lizzy",
+          "url": "https://open.spotify.com/artist/2oZq6t5DkE2BdGbD6x8RXh"
+        },
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        },
+        {
+          "name": "SL",
+          "url": "https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151301,
+      "name": "Simple",
+      "url": "https://open.spotify.com/track/4LyEjExaWSezYsp1FVJuQa"
     },
     {
       "album": {

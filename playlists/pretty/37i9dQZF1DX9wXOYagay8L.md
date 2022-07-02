@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI?si=EO3h\-hzvQuGjOxGn5Pyltw">Mlindo The Vocalist</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,766 likes - 70 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,831 likes - 70 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,12 +26,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 16 | [Angsakhoni](https://open.spotify.com/track/21XL4xGIm6VhWSZF5uFYZb) | [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh) | [Angsakhoni](https://open.spotify.com/album/5BqRwQhNm7LwO4n9NcjzjO) | 4:56 |
 | 17 | [Messiah](https://open.spotify.com/track/2GKEV0xwrK8RBNP9CYJwoB) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Messiah](https://open.spotify.com/album/54hK43aedP5XOkeSIbJC9Z) | 4:33 |
 | 18 | [Umlilo](https://open.spotify.com/track/5voGF2TQBUJe2FmFpHtnsq) | [Naima Kay](https://open.spotify.com/artist/1RAmAUTyapevk2ViYBPcCM), [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no) | [Umlilo](https://open.spotify.com/album/4YQ8i8IhPB1iyHAVQnebMu) | 5:22 |
-| 19 | [Lala Ngoxolo \(feat\. Emtee\)](https://open.spotify.com/track/54x9dhOK7DWwxj4VeL1bZN) | [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Lala Ngoxolo \(feat\. Emtee\)](https://open.spotify.com/album/0rIoegGG1yNzKUaYnBCvxn) | 0:29 |
+| 19 | [Lala Ngoxolo \(feat\. Emtee\)](https://open.spotify.com/track/54x9dhOK7DWwxj4VeL1bZN) | [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Lala Ngoxolo \(feat\. Emtee\)](https://open.spotify.com/album/0rIoegGG1yNzKUaYnBCvxn) | 3:35 |
 | 20 | [Mamezala](https://open.spotify.com/track/6WgfG3YnKv0xjg646WLRrD) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN), [Simmy](https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA) | [Mamezala](https://open.spotify.com/album/175WAqrPQcqyLyjPLHvAlb) | 5:02 |
 | 21 | [Hata](https://open.spotify.com/track/21eZ994ibKY0RcTB6rnnXS) | [Zimbini](https://open.spotify.com/artist/3M4itkRJx8TOJCvyw63tiD), [Buhlebendalo](https://open.spotify.com/artist/1Nu3lDd06uk8y73zM6r6MW) | [Hata](https://open.spotify.com/album/3Jc2d07Cl2rm3ST6T2DcZe) | 5:04 |
 | 22 | [Ghanama](https://open.spotify.com/track/2Rt9pvRDZ2ms4BKb0mNDbG) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Prince Benza](https://open.spotify.com/artist/5jCHpUIjSnOXUzVaxwBA2k) | [Ghanama](https://open.spotify.com/album/3Xn8XHYzwQVWn3ALmiT3xp) | 4:53 |
 | 23 | [Phakade](https://open.spotify.com/track/3uDw8M8eTBDC7npvLy9ELS) | [Paige](https://open.spotify.com/artist/1UiuIk36C3ZI4Jqat38Q5L), [SeeZus Beats](https://open.spotify.com/artist/2IRgHENUusLqlDaj5hRmoi) | [Phakade](https://open.spotify.com/album/0lGgjqIGQb21QuAU55jpdQ) | 5:07 |
-| 24 | [Uhambo](https://open.spotify.com/track/0UQiDKv1PxequtKI6sp2Ia) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi), [Tshego AMG](https://open.spotify.com/artist/3ZYSp6bvSuOkZSJ1rpQ3WF) | [Uhambo](https://open.spotify.com/album/26jzpEzvuSZH4t6Ucz3mzC) | 0:29 |
+| 24 | [Uhambo](https://open.spotify.com/track/0UQiDKv1PxequtKI6sp2Ia) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi), [Tshego AMG](https://open.spotify.com/artist/3ZYSp6bvSuOkZSJ1rpQ3WF) | [Uhambo](https://open.spotify.com/album/26jzpEzvuSZH4t6Ucz3mzC) | 3:29 |
 | 25 | [Nhliziyo](https://open.spotify.com/track/2CHQBA2ixca7vFzq4gwsJH) | [Coolkiid](https://open.spotify.com/artist/7l20uhlKo17O2ZrBUrIxsw) | [Nhliziyo](https://open.spotify.com/album/0g87VdtZ8LO9Vxd1vqPBTA) | 4:33 |
 | 26 | [Speak](https://open.spotify.com/track/0UHdsqznjCoqPzZJTJZ5Kb) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Speak](https://open.spotify.com/album/3ZSfzqjAgOZv7S23jASBdt) | 2:53 |
 | 27 | [Sawubona](https://open.spotify.com/track/7G8x0BvmlnsMTnp2tFnVNL) | [Nobuhle](https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM), [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6) | [Sawubona](https://open.spotify.com/album/6ZODtzCIIFss38Zpts2ZBi) | 4:15 |

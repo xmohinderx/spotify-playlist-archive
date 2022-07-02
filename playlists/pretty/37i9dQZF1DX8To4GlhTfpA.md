@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To4GlhTfpA.md) - [plain]
 
 > SHINee's back!
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,128 likes - 88 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,163 likes - 88 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To4GlhTfpA.md) - [plain]
 | 25 | [데리러 가 Good Evening](https://open.spotify.com/track/3dTFof43vcpQKx6Z3iTsOj) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [The Story of Light' EP.1 \- The 6th Album](https://open.spotify.com/album/5XwIkFj2HovD5gR8FNlVhG) | 3:43 |
 | 26 | [1 of 1](https://open.spotify.com/track/6UmRhJatcth1KF76r5ucvZ) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [1 of 1 \- The 5th Album](https://open.spotify.com/album/1hG9lZDk2HqmOHMtuI3Zdj) | 3:23 |
 | 27 | [Everybody](https://open.spotify.com/track/0BiYJIeiAxB8OrCOm9Hgq6) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Everybody \- The 5th Mini Album](https://open.spotify.com/album/0cJUtiybZCK22BF7yfSeA4) | 4:09 |
-| 28 | [Dream Girl](https://open.spotify.com/track/3PrdbYsr8JsDW8f4Tob5pW) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Chapter 1\. 'Dream Girl \- The Misconceptions of You' \- The 3rd Album](https://open.spotify.com/album/4HbeuXyXcLWhZxJ7DS8epV) | 0:29 |
+| 28 | [Dream Girl](https://open.spotify.com/track/3PrdbYsr8JsDW8f4Tob5pW) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Chapter 1\. 'Dream Girl \- The Misconceptions of You' \- The 3rd Album](https://open.spotify.com/album/4HbeuXyXcLWhZxJ7DS8epV) | 3:00 |
 | 29 | [Replay](https://open.spotify.com/track/3lezH4ocsAaxqVGL8E0pS4) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Replay \- The First Mini Album](https://open.spotify.com/album/2zarKiOQYtJ9PGWxYxUOk5) | 3:36 |
 | 30 | [I Want You](https://open.spotify.com/track/7A1oOQbQbWzd1fvCFvcuwD) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | ['The Story of Light' EP.2 \- The 6th Album](https://open.spotify.com/album/6QhNwMsz7mr2AsEtUO2JJY) | 3:04 |
 | 31 | [Hello](https://open.spotify.com/track/5udkCCQRyrMgrpHsepMRHX) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Hello \- SHINee The 2nd Album Repackage](https://open.spotify.com/album/3IC82yhFJAPw2jbSfMBzBy) | 3:03 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To4GlhTfpA.md) - [plain]
 | 48 | [2 KIDS](https://open.spotify.com/track/35IJPK0rh5w4GwKvqHvnoZ) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [2 KIDS](https://open.spotify.com/album/5oFGlBqhY9IYR9slnZjhxH) | 3:33 |
 | 49 | [Black Rose](https://open.spotify.com/track/3n3lKRN7oLcIW9i0wxDkX2) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:39 |
 | 50 | [Love Sick](https://open.spotify.com/track/7GQGxxjku3NdnjZELQwMbF) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Odd \- The 4th Album](https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa) | 3:20 |
-| 51 | [AMIGO](https://open.spotify.com/track/1ru2r3r1Njis2C4IbGzgfS) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [AMIGO \- The 1st Album Repackage](https://open.spotify.com/album/3iPBAfKqX3Kv7BTikuIg4K) | 0:29 |
+| 51 | [AMIGO](https://open.spotify.com/track/1ru2r3r1Njis2C4IbGzgfS) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [AMIGO \- The 1st Album Repackage](https://open.spotify.com/album/3iPBAfKqX3Kv7BTikuIg4K) | 2:59 |
 | 52 | [빛이 나 Shinin'](https://open.spotify.com/track/3PbsYQc7kMKFaJMs1Cj3tj) | [JONGHYUN](https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY) | [Poet \| Artist](https://open.spotify.com/album/3KrFO9QDgfa4UAiqM6flTf) | 2:52 |
 | 53 | [재연 An Encore](https://open.spotify.com/track/2BanAml9j9AQjqFhLVILTm) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Odd \- The 4th Album](https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa) | 4:04 |
 | 54 | [네가 남겨둔 말 Our Page](https://open.spotify.com/track/7CMvRsZOfIIM1Hg4Yyqb3k) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [The Story of Light' EP.3 \- The 6th Album](https://open.spotify.com/album/2LZxRgMfF9TFX3gg9Cr3uo) | 3:59 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To4GlhTfpA.md) - [plain]
 | 76 | [SHIFT](https://open.spotify.com/track/2HrMPEAoa7ah8UeWuniBhA) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [1 of 1 \- The 5th Album](https://open.spotify.com/album/1hG9lZDk2HqmOHMtuI3Zdj) | 3:02 |
 | 77 | [Don’t Stop](https://open.spotify.com/track/4AyydjmmNOh7GBrxqXT40l) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [1 of 1 \- The 5th Album](https://open.spotify.com/album/1hG9lZDk2HqmOHMtuI3Zdj) | 4:05 |
 | 78 | [Moon](https://open.spotify.com/track/6NeEgmjQRN1QlDbNDhWb3P) | [JONGHYUN](https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY) | [She is \- The 1st Album](https://open.spotify.com/album/4Mqc9VJjX66n66tNzAhevq) | 2:44 |
-| 79 | [Ring Ding Dong \- SHINee WORLD 3 Version, Live](https://open.spotify.com/track/2DNGD5gd2R3jqmfEHAZ5mI) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [SHINee WORLD Ⅲ in SEOUL \- THE 3rd CONCERT ALBUM](https://open.spotify.com/album/3rDiBT1raLwVjVrVwUV5VZ) | 0:29 |
+| 79 | [Ring Ding Dong \- SHINee WORLD 3 Version, Live](https://open.spotify.com/track/2DNGD5gd2R3jqmfEHAZ5mI) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [SHINee WORLD Ⅲ in SEOUL \- THE 3rd CONCERT ALBUM](https://open.spotify.com/album/3rDiBT1raLwVjVrVwUV5VZ) | 5:09 |
 | 80 | [Lonely](https://open.spotify.com/track/5efB9wfc6dn3pzll9ElIrH) | [JONGHYUN](https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [JONGHYUN The Collection "Story Op.2"](https://open.spotify.com/album/3eHhVAhT8uCrEPlZywai3o) | 4:04 |
 | 81 | [End of a day](https://open.spotify.com/track/0cAFqRrz8OqAoHdbiCM5OD) | [JONGHYUN](https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY) | [JONGHYUN The Collection "Story Op.1"](https://open.spotify.com/album/6tYoidZViVVzSXG4jKEmNd) | 4:37 |
 | 82 | [In My Room](https://open.spotify.com/track/5grWTrVzFb14rCVipTFGYC) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Replay \- The First Mini Album](https://open.spotify.com/album/2zarKiOQYtJ9PGWxYxUOk5) | 4:50 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/52FOMIrumGaNXnwKfrlAVf.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 376 likes - 29 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 376 likes - 29 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sarotra](https://open.spotify.com/track/3UbRUV6PUcpXOyFxT2oEj8) | [Les Smockers](https://open.spotify.com/artist/777lix3zDD7MCvk4NtWMb2) | [Current Popular Music Of Madagascar](https://open.spotify.com/album/4oDprKxbVn0E4WrjDGzwFh) | 0:29 |
+| 1 | [Sarotra](https://open.spotify.com/track/3UbRUV6PUcpXOyFxT2oEj8) | [Les Smockers](https://open.spotify.com/artist/777lix3zDD7MCvk4NtWMb2) | [Current Popular Music Of Madagascar](https://open.spotify.com/album/4oDprKxbVn0E4WrjDGzwFh) | 3:53 |
 | 2 | [Proof](https://open.spotify.com/track/4z0j9VwgnoBKZER0dcii1Z) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [The Rhythm Of The Saints](https://open.spotify.com/album/08tZq3FDsspdU6ycn8Jl2o) | 4:39 |
 | 3 | [Buona Sera \- Remastered 2002](https://open.spotify.com/track/7LYfx4uOewuMJnkAN4xHlj) | [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW), [Keely Smith](https://open.spotify.com/artist/0vQqxnQk1G32RtjSAFq3z1), [Sam Butera & The Witnesses](https://open.spotify.com/artist/70njzKgLbLbWkCPhKEu2oV) | [The Wildest! \(Expanded Edition\)](https://open.spotify.com/album/4icS85G6VGPbFlB9UGPxct) | 3:00 |
 | 4 | [Afindrafindrao](https://open.spotify.com/track/61vScXdZheyLUv4EDqnpRn) | [Rakotofra](https://open.spotify.com/artist/2Zt8jOyRsveLTwPUf7cbQW), [Martin Rakotoarimanana](https://open.spotify.com/artist/0ZytiSXT1LJJb6LHrfCAat) | [Current Traditional Music Of Madagascar](https://open.spotify.com/album/6uh8sCXKLOMXLWv5TLMzpX) | 3:11 |

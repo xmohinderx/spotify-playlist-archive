@@ -459,7 +459,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 136112,
       "name": "adaptive strike",
       "url": "https://open.spotify.com/track/5jXocrsUwpKwWyI5BZLKFA"
@@ -1994,6 +1994,24 @@
     },
     {
       "album": {
+        "name": "First Day Out",
+        "url": "https://open.spotify.com/album/6srx0ovFsTWryJbcpOIodY"
+      },
+      "artists": [
+        {
+          "name": "kizaru",
+          "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134250,
+      "name": "First Day Out",
+      "url": "https://open.spotify.com/track/2xrPQGb3D6JGyyTvYOrXc6"
+    },
+    {
+      "album": {
         "name": "Follow You / Cutthroat",
         "url": "https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY"
       },
@@ -2211,7 +2229,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 233456,
       "name": "Glimpse of Us",
       "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
@@ -3351,7 +3369,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 122517,
       "name": "Living Life, In The Night",
       "url": "https://open.spotify.com/track/6ChnGkBwnq2HUJD24YhMhW"
@@ -4253,7 +4271,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 127142,
       "name": "No Love",
       "url": "https://open.spotify.com/track/03TPcM9vWUmc8y6LkJAzwJ"
@@ -4275,6 +4293,24 @@
       "duration_ms": 138348,
       "name": "NO MO LUV",
       "url": "https://open.spotify.com/track/4ZZrdvMrb28wnELuJmks9W"
+    },
+    {
+      "album": {
+        "name": "First Day Out",
+        "url": "https://open.spotify.com/album/6srx0ovFsTWryJbcpOIodY"
+      },
+      "artists": [
+        {
+          "name": "kizaru",
+          "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139440,
+      "name": "No Stop",
+      "url": "https://open.spotify.com/track/7lcYieV34n9gHmW9wRweI2"
     },
     {
       "album": {
@@ -4670,6 +4706,28 @@
     },
     {
       "album": {
+        "name": "First Day Out",
+        "url": "https://open.spotify.com/album/6srx0ovFsTWryJbcpOIodY"
+      },
+      "artists": [
+        {
+          "name": "kizaru",
+          "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
+        },
+        {
+          "name": "Duke Deuce",
+          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192461,
+      "name": "Playa",
+      "url": "https://open.spotify.com/track/3E5Ny10emcMLPk6Myhiu0Q"
+    },
+    {
+      "album": {
         "name": "ROOMINATION",
         "url": "https://open.spotify.com/album/7ofd6S4JDREJIPbLqMqWK1"
       },
@@ -4895,7 +4953,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 123384,
       "name": "RARARA",
       "url": "https://open.spotify.com/track/0QfXH1HCcHst7uxU1gFyqG"
@@ -6162,6 +6220,24 @@
     },
     {
       "album": {
+        "name": "First Day Out",
+        "url": "https://open.spotify.com/album/6srx0ovFsTWryJbcpOIodY"
+      },
+      "artists": [
+        {
+          "name": "kizaru",
+          "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122125,
+      "name": "Train Wreck",
+      "url": "https://open.spotify.com/track/1U5HTINVvE7oSSscuD3Gjm"
+    },
+    {
+      "album": {
         "name": "DIGITAL FANTAZY",
         "url": "https://open.spotify.com/album/5QtUYUoSG9HPhYnAro9GYj"
       },
@@ -6396,6 +6472,24 @@
     },
     {
       "album": {
+        "name": "vodila",
+        "url": "https://open.spotify.com/album/4BT6cNSrS1CofYTCOXuhsv"
+      },
+      "artists": [
+        {
+          "name": "BUSHIDO ZHO",
+          "url": "https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110937,
+      "name": "vodila",
+      "url": "https://open.spotify.com/track/3NjAwkM75GH3cvfV9zRtv8"
+    },
+    {
+      "album": {
         "name": "Voil\u00e0",
         "url": "https://open.spotify.com/album/7dg4laFCDLBu0Oi2uWyafE"
       },
@@ -6615,6 +6709,24 @@
       "duration_ms": 242916,
       "name": "XXX (feat. J. ROUH)",
       "url": "https://open.spotify.com/track/4B35L6jk3VHtVM6bC28fgN"
+    },
+    {
+      "album": {
+        "name": "First Day Out",
+        "url": "https://open.spotify.com/album/6srx0ovFsTWryJbcpOIodY"
+      },
+      "artists": [
+        {
+          "name": "kizaru",
+          "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127397,
+      "name": "Yeah",
+      "url": "https://open.spotify.com/track/2ZmxOJDhNtOHQ49hVkqRy3"
     },
     {
       "album": {
@@ -9669,7 +9781,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 144235,
       "name": "\u041a\u0430\u0441\u0435\u0442\u0430",
       "url": "https://open.spotify.com/track/4MQmxIxM5CXKjdq4IrCWhd"
@@ -12121,7 +12233,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 124800,
       "name": "\u0420\u0430\u0441\u0441\u0432\u0435\u0442",
       "url": "https://open.spotify.com/track/0VGLb6IeeG5ZqonN5EavDu"
@@ -13639,7 +13751,7 @@
       ],
       "date_added": "2021-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 156000,
       "name": "\u0424\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0440\u0443\u044e \u0437\u0430\u043a\u0430\u0442",
       "url": "https://open.spotify.com/track/1ghdJUMhmLEpUitNwyNMWH"

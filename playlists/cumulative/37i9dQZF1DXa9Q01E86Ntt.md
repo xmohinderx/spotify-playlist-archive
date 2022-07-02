@@ -4,7 +4,7 @@
 
 > The greatest works from mastermind composer Ryuichi Sakamoto
 
-52 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/1WLLFJuTnfNppcjxFVeBpx)
+52 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/1WLLFJuTnfNppcjxFVeBpx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Tong Poo for JUNYA WATANABE](https://open.spotify.com/track/4N2qNs5FhQHZh4YtdIWy2v) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Tong Poo for JUNYA WATANABE](https://open.spotify.com/album/5oWMbgGF6FOtXitFIpEpZh) | 5:17 | 2022-01-18 |  |
 | [undercooled](https://open.spotify.com/track/5E3j6OyiHVXOuRocNG9xPh) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [undercooled](https://open.spotify.com/album/5oUvRbJeHWc1G7u7vlq3w3) | 4:32 | 2022-01-18 |  |
 | [Uoon II](https://open.spotify.com/track/1y8vrWef2Q3cHilu1vnt70) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Vrioon](https://open.spotify.com/album/0MyY7fyu8Lq7J3woAyyjvC) | 9:40 | 2022-01-18 |  |
-| [WORLD CITIZEN \-I won't be disappointed\- \- short version](https://open.spotify.com/track/5YeWWr0tzI9hzhLPE2PMjd) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [WORLD CITIZEN \-I won't be disappointed\-](https://open.spotify.com/album/5fSg0GYR6LRi33k9eg0iUM) | 0:29 | 2022-01-18 |  |
+| [WORLD CITIZEN \-I won't be disappointed\- \- short version](https://open.spotify.com/track/5YeWWr0tzI9hzhLPE2PMjd) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [WORLD CITIZEN \-I won't be disappointed\-](https://open.spotify.com/album/5fSg0GYR6LRi33k9eg0iUM) | 3:47 | 2022-01-18 |  |
 | [Yamazaki2002](https://open.spotify.com/track/2k0DXFhKCHyAYtIilUcoXh) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [/04](https://open.spotify.com/album/5h5d12f2X21NAyfn7XdWaw) | 3:03 | 2022-01-18 |  |
 | [ZURE](https://open.spotify.com/track/2xQOtpTB4Q0gUAQPAUHfsL) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/3Kd4OGkyOjvB4P1j8bVJ2A) | 5:11 | 2022-01-18 |  |
 | [八重の桜 メインテーマ \- Playing the Orchestra Ver.](https://open.spotify.com/track/2AwA1w50cFpu6OvkL0cUVd) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [NHK大河ドラマ「八重の桜」 \(オリジナル・サウンドトラック コンプリート盤\)](https://open.spotify.com/album/2SXKwtazZVLnN6NYKt9L2R) | 2:42 | 2022-01-18 |  |

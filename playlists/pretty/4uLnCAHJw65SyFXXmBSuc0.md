@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4uLnCAHJw65SyFXXmBSuc0.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 957 likes - 20 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 957 likes - 20 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,6 +27,6 @@ pretty - [cumulative](/playlists/cumulative/4uLnCAHJw65SyFXXmBSuc0.md) - [plain]
 | 17 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/0sFMTRHMs6tgcmwVvIovqC) | [The Thrills](https://open.spotify.com/artist/0tYc0gVOzssZmLpVO6wh7L) | [Alternative Rock X\-mas](https://open.spotify.com/album/2RF9AwEAPRB1C1Y3ZMvERu) | 2:51 |
 | 18 | [New Years Eve](https://open.spotify.com/track/2Ir2CKYeBiXSWZbo7CZBIs) | [Popsicle](https://open.spotify.com/artist/3Zdqisea5g5Gu6jcB7VLcJ) | [The Sweetest Relief](https://open.spotify.com/album/6byUobn8gdYNpJkjAtOJZU) | 3:12 |
 | 19 | [Ready to Start](https://open.spotify.com/track/1F2Ca0Cfo7DcdieWlZEqzc) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs Deluxe](https://open.spotify.com/album/76Rnn8D33IjnJxv4hQdmRX) | 4:15 |
-| 20 | [Next Year](https://open.spotify.com/track/1WwWjG2FGbBK6IkBBTknao) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 0:29 |
+| 20 | [Next Year](https://open.spotify.com/track/1WwWjG2FGbBK6IkBBTknao) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 4:36 |
 
 Snapshot ID: `MjUsNTk0ODg5NzY5MTE5M2IwODY5OGY1ZmRhNjAwNWY1YjVjZDU2NjhhZQ==`

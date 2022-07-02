@@ -1,13 +1,69 @@
 {
-  "description": "spotify hyperpop playlist Cover: glaive",
-  "num_followers": 333409,
+  "description": "belive the hype Cover: Alice Longyu Gao & Oli Sykes",
+  "num_followers": 333608,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjYwMzc0NiwwMDAwMDE3NTAwMDAwMTgxYjU0NzIwMmEwMDAwMDE4MTkyNWIzYTU3",
+  "snapshot_id": "MTY1NjY1NjgyMCwwMDAwMDE3NjAwMDAwMTgxYjg3MGY3OTAwMDAwMDE4MWI1ZjAwYzM4",
   "tracks": [
+    {
+      "added_at": "2022-07-01 06:27:00",
+      "album": {
+        "name": "Believe the Hype (feat. Oli Sykes)",
+        "url": "https://open.spotify.com/album/4YNUo0hHtFFlZztIDWzD4u"
+      },
+      "artists": [
+        {
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        },
+        {
+          "name": "Oli Sykes",
+          "url": "https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW"
+        }
+      ],
+      "duration_ms": 167834,
+      "name": "Believe the Hype (feat. Oli Sykes)",
+      "url": "https://open.spotify.com/track/0B8f2tTSavL7PzDy2X9jnB"
+    },
+    {
+      "added_at": "2022-07-01 06:27:00",
+      "album": {
+        "name": "Lights (A. G. Cook Remix)",
+        "url": "https://open.spotify.com/album/0EQRviEK9W0ctBjGw5Li3S"
+      },
+      "artists": [
+        {
+          "name": "Max Tundra",
+          "url": "https://open.spotify.com/artist/08DpSTsNFBf1PxTm9lwpXb"
+        },
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "duration_ms": 161893,
+      "name": "Lights - A. G. Cook Remix",
+      "url": "https://open.spotify.com/track/5lZjuVUB34aCKhhdZLA9C2"
+    },
+    {
+      "added_at": "2022-06-30 15:40:23",
+      "album": {
+        "name": "this is our music \u266b",
+        "url": "https://open.spotify.com/album/0TrSCCZgwkfrfFAA2IfO4D"
+      },
+      "artists": [
+        {
+          "name": "Planet 1999",
+          "url": "https://open.spotify.com/artist/0aoBUiGI5wrK7DOWJAzAKe"
+        }
+      ],
+      "duration_ms": 96781,
+      "name": "i<3u",
+      "url": "https://open.spotify.com/track/1KS9pQrHrF326T9SXnQz89"
+    },
     {
       "added_at": "2022-06-24 04:00:00",
       "album": {
@@ -23,6 +79,22 @@
       "duration_ms": 138000,
       "name": "minnesota is a place that exists",
       "url": "https://open.spotify.com/track/6uiaiopJ4h8jqmDZySnMmE"
+    },
+    {
+      "added_at": "2022-06-17 07:42:00",
+      "album": {
+        "name": "#miles",
+        "url": "https://open.spotify.com/album/2PCs0ZB8bHofV9khzpRmal"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "duration_ms": 115138,
+      "name": "#miles",
+      "url": "https://open.spotify.com/track/1hboZZxKIEjLHRIkhx4Soi"
     },
     {
       "added_at": "2022-06-10 15:02:05",
@@ -41,20 +113,60 @@
       "url": "https://open.spotify.com/track/1dh3gLolmSRmOcFrUNV3N3"
     },
     {
-      "added_at": "2022-06-30 15:40:23",
+      "added_at": "2022-07-01 06:27:00",
       "album": {
-        "name": "this is our music \u266b",
-        "url": "https://open.spotify.com/album/0TrSCCZgwkfrfFAA2IfO4D"
+        "name": "Crazy Turn",
+        "url": "https://open.spotify.com/album/5PVMfvCg8boFRLOf0NOpmK"
       },
       "artists": [
         {
-          "name": "Planet 1999",
-          "url": "https://open.spotify.com/artist/0aoBUiGI5wrK7DOWJAzAKe"
+          "name": "Yung Skrrt",
+          "url": "https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU"
         }
       ],
-      "duration_ms": 96781,
-      "name": "i<3u",
-      "url": "https://open.spotify.com/track/1KS9pQrHrF326T9SXnQz89"
+      "duration_ms": 127317,
+      "name": "Stupid Crazy",
+      "url": "https://open.spotify.com/track/00odJu934oc0N1IKHu5A0c"
+    },
+    {
+      "added_at": "2022-07-01 06:27:00",
+      "album": {
+        "name": "masquerade (BabySantana Remix)",
+        "url": "https://open.spotify.com/album/4paXOAztOfbIz9Fwe1khee"
+      },
+      "artists": [
+        {
+          "name": "siouxxie sixxsta",
+          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
+        },
+        {
+          "name": "BabySantana",
+          "url": "https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV"
+        }
+      ],
+      "duration_ms": 132053,
+      "name": "masquerade - BabySantana Remix",
+      "url": "https://open.spotify.com/track/6U7aXej66xOtncZRzfKnFS"
+    },
+    {
+      "added_at": "2022-07-01 06:27:00",
+      "album": {
+        "name": "sellout",
+        "url": "https://open.spotify.com/album/4NXkykEZ2yDsCqgr1kAc9O"
+      },
+      "artists": [
+        {
+          "name": "saoirse dream",
+          "url": "https://open.spotify.com/artist/2xNs2zfnh52ORUTI4Qfvxf"
+        },
+        {
+          "name": "soupandreas",
+          "url": "https://open.spotify.com/artist/5dPMuKQtWLLl1Thw1Bf8h9"
+        }
+      ],
+      "duration_ms": 145598,
+      "name": "sellout",
+      "url": "https://open.spotify.com/track/082x0jRDbx8Zsme0enu32B"
     },
     {
       "added_at": "2022-06-24 04:00:00",
@@ -89,20 +201,88 @@
       "url": "https://open.spotify.com/track/2M7V4v4DUaPIlMSrCbB2U3"
     },
     {
-      "added_at": "2022-06-17 07:42:00",
+      "added_at": "2022-07-01 06:27:00",
       "album": {
-        "name": "#miles",
-        "url": "https://open.spotify.com/album/2PCs0ZB8bHofV9khzpRmal"
+        "name": "bedroom",
+        "url": "https://open.spotify.com/album/755NEywIEUsh0WHJeq9mBJ"
       },
       "artists": [
         {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+          "name": "poptropicaslutz!",
+          "url": "https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8"
         }
       ],
-      "duration_ms": 115138,
-      "name": "#miles",
-      "url": "https://open.spotify.com/track/1hboZZxKIEjLHRIkhx4Soi"
+      "duration_ms": 100012,
+      "name": "bedroom",
+      "url": "https://open.spotify.com/track/4UXPKAbY2EoCWcbN57En0A"
+    },
+    {
+      "added_at": "2022-07-01 06:27:00",
+      "album": {
+        "name": "only1",
+        "url": "https://open.spotify.com/album/6nxeOHmPrLmXn2olKUWTAM"
+      },
+      "artists": [
+        {
+          "name": "meat computer",
+          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
+        }
+      ],
+      "duration_ms": 158550,
+      "name": "only1",
+      "url": "https://open.spotify.com/track/7xtgTLmkVw9MGWlELcAyc4"
+    },
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "none",
+        "url": "https://open.spotify.com/album/0yAdgSeCETSbzjPtYN90F1"
+      },
+      "artists": [
+        {
+          "name": "funeral",
+          "url": "https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd"
+        },
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "duration_ms": 112339,
+      "name": "none",
+      "url": "https://open.spotify.com/track/5EmRpHqKTMQVFl7KCNbQCw"
+    },
+    {
+      "added_at": "2022-01-14 18:09:29",
+      "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
+      },
+      "artists": [
+        {
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+        }
+      ],
+      "duration_ms": 102007,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
+    },
+    {
+      "added_at": "2022-07-01 06:27:00",
+      "album": {
+        "name": "sun",
+        "url": "https://open.spotify.com/album/38VnIqFWfQYKsTsjA6TEpZ"
+      },
+      "artists": [
+        {
+          "name": "Braden Ross",
+          "url": "https://open.spotify.com/artist/18VFhPeFzSSbHIagpYXbic"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "sun",
+      "url": "https://open.spotify.com/track/637eyFmoqPHMSuDk7mRYSa"
     },
     {
       "added_at": "2022-06-24 04:00:00",
@@ -143,26 +323,6 @@
     {
       "added_at": "2022-06-24 04:00:00",
       "album": {
-        "name": "none",
-        "url": "https://open.spotify.com/album/0yAdgSeCETSbzjPtYN90F1"
-      },
-      "artists": [
-        {
-          "name": "funeral",
-          "url": "https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd"
-        },
-        {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
-        }
-      ],
-      "duration_ms": 112339,
-      "name": "none",
-      "url": "https://open.spotify.com/track/5EmRpHqKTMQVFl7KCNbQCw"
-    },
-    {
-      "added_at": "2022-06-24 04:00:00",
-      "album": {
         "name": "UNIVERSE",
         "url": "https://open.spotify.com/album/3ifSwEePntUUpMmygM5cso"
       },
@@ -195,22 +355,6 @@
       "duration_ms": 203265,
       "name": "selective altruism",
       "url": "https://open.spotify.com/track/5t1L2Es0faTlZsAkfLTHVA"
-    },
-    {
-      "added_at": "2022-01-14 18:09:29",
-      "album": {
-        "name": "Haunted",
-        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
-      },
-      "artists": [
-        {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
-        }
-      ],
-      "duration_ms": 102007,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
     },
     {
       "added_at": "2022-06-10 15:02:05",
@@ -272,9 +416,29 @@
           "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 116550,
       "name": "i wanna slam my head against the wall",
       "url": "https://open.spotify.com/track/6mEMH5rbZ20ffSf4U9Ff37"
+    },
+    {
+      "added_at": "2022-07-01 06:27:00",
+      "album": {
+        "name": "edward lied",
+        "url": "https://open.spotify.com/album/0EFgPbr1Qidm9XXQGLgbCn"
+      },
+      "artists": [
+        {
+          "name": "Nosgov",
+          "url": "https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh"
+        },
+        {
+          "name": "Mixed Matches",
+          "url": "https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34"
+        }
+      ],
+      "duration_ms": 123446,
+      "name": "edward lied",
+      "url": "https://open.spotify.com/track/4wRQZJImPDv9TvRXihyQAu"
     },
     {
       "added_at": "2022-06-17 07:42:00",
@@ -373,6 +537,26 @@
       "url": "https://open.spotify.com/track/7IRe1bo7Zm0q5Fn9MlNMZM"
     },
     {
+      "added_at": "2022-07-01 06:27:00",
+      "album": {
+        "name": "glass",
+        "url": "https://open.spotify.com/album/02oysKwy9RIYMZHEPG6a6K"
+      },
+      "artists": [
+        {
+          "name": "kennedyxoxo",
+          "url": "https://open.spotify.com/artist/4zJGVaqPKqkN3dEpC31E04"
+        },
+        {
+          "name": "guardin",
+          "url": "https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7"
+        }
+      ],
+      "duration_ms": 144419,
+      "name": "glass",
+      "url": "https://open.spotify.com/track/3uSzUWPz1uSvPAI9c3RVIA"
+    },
+    {
       "added_at": "2022-06-17 07:42:00",
       "album": {
         "name": "letterfromadeathbed",
@@ -451,6 +635,22 @@
       "duration_ms": 224874,
       "name": "Come For Me",
       "url": "https://open.spotify.com/track/1XUdEmAQ1AaFEeocgUEYmU"
+    },
+    {
+      "added_at": "2022-07-01 06:27:00",
+      "album": {
+        "name": "Ray",
+        "url": "https://open.spotify.com/album/0Tfv9pZgOPXBvsjRSLvmKT"
+      },
+      "artists": [
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        }
+      ],
+      "duration_ms": 128004,
+      "name": "Ray",
+      "url": "https://open.spotify.com/track/661Cx0s2k7l4fUD7QuGed5"
     },
     {
       "added_at": "2021-11-24 16:30:27",
@@ -2183,22 +2383,6 @@
       "duration_ms": 223441,
       "name": "Staring at the Ceiling",
       "url": "https://open.spotify.com/track/1vPRVC9OhWpLUFmHwUCziG"
-    },
-    {
-      "added_at": "2022-04-29 06:17:00",
-      "album": {
-        "name": "Hyperreal",
-        "url": "https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId"
-      },
-      "artists": [
-        {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
-        }
-      ],
-      "duration_ms": 180867,
-      "name": "HYPERREAL",
-      "url": "https://open.spotify.com/track/50GATIYGEwMVtSkc2UxVd3"
     }
   ],
   "unique_name": "hyperpop",

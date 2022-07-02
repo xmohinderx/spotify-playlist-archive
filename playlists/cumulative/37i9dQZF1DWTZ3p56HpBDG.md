@@ -4,7 +4,7 @@
 
 > Home to english South Asian tracks, acclaimed worldwide \- Cover: Joy Crookes
 
-111 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/3JDO71q59WF0VHwxTBMofQ)
+111 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/3JDO71q59WF0VHwxTBMofQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Fashion Week \(feat\. AJ Tracey & MoStack\)](https://open.spotify.com/track/78KyOmqWmqLkQcXO1cA7MO) | [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [Fashion Week \(feat\. AJ Tracey & MoStack\)](https://open.spotify.com/album/6OvaMPD9RAQ3tVTijCTgz8) | 3:21 | 2021-11-10 |  |
 | [Feelings \- KAJ Remix](https://open.spotify.com/track/70aDcXXp3gYIjhuYz2SmBY) | [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [KAJ](https://open.spotify.com/artist/1MPHxC0IFc9NFIqTSksCuj) | [Feelings \(KAJ Remix\)](https://open.spotify.com/album/2IRsORbfV7WzLsfyw3lz9Y) | 2:50 | 2021-11-10 |  |
 | [Fiesta](https://open.spotify.com/track/6pcUgPCGODHAL7Mzx73eVG) | [Nish](https://open.spotify.com/artist/3xyfJgRtCzUrNshzo4Deg9) | [Fiesta](https://open.spotify.com/album/0g7cgCDL1N4nAoUQTio2O5) | 4:14 | 2021-11-10 | 2022-06-21 |
-| [Firestarter](https://open.spotify.com/track/6OKflEmwo66otVCLryCSqt) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Firestarter](https://open.spotify.com/album/6gs8SxesV2lUoXo6x3PZWh) | 0:29 | 2021-11-10 |  |
+| [Firestarter](https://open.spotify.com/track/6OKflEmwo66otVCLryCSqt) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Firestarter](https://open.spotify.com/album/6gs8SxesV2lUoXo6x3PZWh) | 2:35 | 2021-11-10 |  |
 | [Flash](https://open.spotify.com/track/5Qf9xsjIGRXnltWynliPv2) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u) | [Flash](https://open.spotify.com/album/02sAO2mY4vylQKdXjPxlIT) | 2:41 | 2021-11-10 | 2022-06-21 |
 | [flip a coin](https://open.spotify.com/track/3zIhnOb5m3hWEtFjsaJzyO) | [Tepu](https://open.spotify.com/artist/5PeMo5hLLWstecqBEbWtHQ) | [flip a coin](https://open.spotify.com/album/4m6fvR66fT4uM8gE8t9Zej) | 2:34 | 2021-11-10 |  |
 | [For a While](https://open.spotify.com/track/3rnvpHtlBLa4dSPvzNLiQN) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb) | [For a While \- Single](https://open.spotify.com/album/4lw2BuCZftDXnFGEJJw6Ib) | 3:30 | 2021-11-10 | 2022-05-27 |
@@ -40,7 +40,7 @@
 | [Gluttony](https://open.spotify.com/track/1O1XxaZ8Yyjxl6mlN18Xz4) | [Shreea Kaul](https://open.spotify.com/artist/1c203LuoIFKuIn2X5Uz5lE) | [Gluttony](https://open.spotify.com/album/20tenLppJDI4jly4ZmPNrz) | 3:09 | 2021-11-10 |  |
 | [Good to Know You](https://open.spotify.com/track/7w6Eto2JImiTEDbDFo0dzI) | [Rude Kid](https://open.spotify.com/artist/32E18qvPvppVQ22FCERDnl), [Wolfie](https://open.spotify.com/artist/4N5iE70O6AKNuFjnABYc4x), [Belly Squad](https://open.spotify.com/artist/1EWnP7piatUeXggTXofm5g) | [Good to Know You](https://open.spotify.com/album/5yuZTgZzerYgJpCaiI9X9O) | 3:41 | 2021-11-10 |  |
 | [Got It](https://open.spotify.com/track/1mjAb2GZZcNqInQNscm0cu) | [Anjali Taneja](https://open.spotify.com/artist/1A7CIDrLklSiVgGJjdhdDX) | [Got It](https://open.spotify.com/album/1wjSb44UbiZHcOV5vL0vdG) | 2:46 | 2021-11-10 |  |
-| [Here](https://open.spotify.com/track/6ggzsFVDrkWpHIAQCyHvQv) | [Zoya](https://open.spotify.com/artist/1pgxAcdxuIlb6Ax2xioK30) | [Here](https://open.spotify.com/album/60A4f8ndrZ2yzrKHxTqI9X) | 0:29 | 2021-11-10 |  |
+| [Here](https://open.spotify.com/track/6ggzsFVDrkWpHIAQCyHvQv) | [Zoya](https://open.spotify.com/artist/1pgxAcdxuIlb6Ax2xioK30) | [Here](https://open.spotify.com/album/60A4f8ndrZ2yzrKHxTqI9X) | 2:48 | 2021-11-10 |  |
 | [Hold On To Me](https://open.spotify.com/track/3jDhe6dzhLNV7gbhajjU7A) | [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5) | [Hold On To Me](https://open.spotify.com/album/7Kx9THhDWSes4d8kTHQldM) | 2:59 | 2021-11-10 |  |
 | [Honey](https://open.spotify.com/track/1FpyIuBKyNKG2O06ZawDlo) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Honey](https://open.spotify.com/album/51T3czrBwVl8aB2XRCGzMb) | 2:13 | 2021-11-10 | 2022-01-21 |
 | [Hurt](https://open.spotify.com/track/01r2bMKzV1xfmLrOed0yt5) | [Badgirl$](https://open.spotify.com/artist/1tVVNIotf3Fc4iylC56Wae) | [Bethnal](https://open.spotify.com/album/128HVkRyaSsgsXoO4osxZZ) | 3:04 | 2021-11-10 |  |
@@ -99,7 +99,7 @@
 | [Summer Nights](https://open.spotify.com/track/2HzMwZguobsrcDu9YmFXHL) | [Raaginder](https://open.spotify.com/artist/0aS41TT32O5PsnAB7qZj7L), [Wisechild](https://open.spotify.com/artist/6cICKubdnKplDTlNfmxMZJ) | [Summer Nights](https://open.spotify.com/album/4cSOgTinaZDvRYVv2H6DV5) | 2:54 | 2021-11-10 |  |
 | [Sun's Up](https://open.spotify.com/track/1ZSqUzSj2MrOad4CIwXKwS) | [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u) | [Sun's Up](https://open.spotify.com/album/5QjtwqRLJ069au7Ufp5j7a) | 3:19 | 2021-11-10 | 2022-05-27 |
 | [Sunscreen \(Reimagined\)](https://open.spotify.com/track/077Gpgk7kdhnj8lJMIq5xw) | [Eve Alai](https://open.spotify.com/artist/6GKrJIdAimAgCZY3aTO0tZ), [Unscripted](https://open.spotify.com/artist/394ZYWLN1rShOjIfkz0Nfq) | [Sunscreen \(Reimagined\)](https://open.spotify.com/album/1LhyWINLfKp4jHiKUoYlTe) | 2:36 | 2021-11-10 |  |
-| [Survive](https://open.spotify.com/track/4GandosKQX53ZXZ2UFsxiV) | [NOIXES](https://open.spotify.com/artist/4YeITwoqeIks45gELm488B), [Duava](https://open.spotify.com/artist/0F88EwGyoS0Mi3VftQjyEj) | [Survive](https://open.spotify.com/album/35iodS5CCRhzSJKAqtEFa4) | 0:29 | 2022-05-26 |  |
+| [Survive](https://open.spotify.com/track/4GandosKQX53ZXZ2UFsxiV) | [NOIXES](https://open.spotify.com/artist/4YeITwoqeIks45gELm488B), [Duava](https://open.spotify.com/artist/0F88EwGyoS0Mi3VftQjyEj) | [Survive](https://open.spotify.com/album/35iodS5CCRhzSJKAqtEFa4) | 2:37 | 2022-05-26 |  |
 | [The One \- Remix](https://open.spotify.com/track/252m8skTRtylhGuekUaQO3) | [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [The One \(Remix\)](https://open.spotify.com/album/5EXguEMrFtPvXIY3ffsA5E) | 3:42 | 2021-11-10 | 2022-06-21 |
 | [the road](https://open.spotify.com/track/4bXPup4TDlsOf5YJA4xgoC) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [the road](https://open.spotify.com/album/3zOwc9sjMgxZeMV9AaLVKW) | 3:38 | 2021-11-10 |  |
 | [This Time](https://open.spotify.com/track/2xlUfU2qsSF7yCrWhbowEv) | [TASHAN](https://open.spotify.com/artist/5WcbzZ1zwRG5qtwmxXMJCB) | [This Time](https://open.spotify.com/album/5aSeHV735ix30MlMb5tMYc) | 2:55 | 2021-11-10 |  |

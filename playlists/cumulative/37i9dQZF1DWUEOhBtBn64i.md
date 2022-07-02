@@ -4,7 +4,7 @@
 
 > <a href="https://www.vitalvoices.org/">Women changing the world</a> \| Cover: MILCK
 
-37 songs - 2 hr 22 min - [published](https://open.spotify.com/playlist/69H7M07MFvoBvjW4Ce7pgW)
+37 songs - 2 hr 25 min - [published](https://open.spotify.com/playlist/69H7M07MFvoBvjW4Ce7pgW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [O\-o\-h Child](https://open.spotify.com/track/2aH7WrX4iyMr9kxdF8hVln) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Here Comes The Sun \(Expanded Edition\)](https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g) | 3:15 | 2022-03-08 |  |
 | [Power Of Two](https://open.spotify.com/track/4peEqwtnP8CoTZRFkDUqnC) | [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) | [Swamp Ophelia](https://open.spotify.com/album/1X0bc0O18Dj5eqh0owcw21) | 5:22 | 2022-03-08 |  |
 | [Push It](https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Hot, Cool & Vicious](https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d) | 4:32 | 2022-03-08 |  |
-| [Quiet](https://open.spotify.com/track/0lczHKLHGd8LuzgrzIJ0nO) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [This Is Not The End](https://open.spotify.com/album/14NXlqWlb4MGu4KswIm6xU) | 0:29 | 2022-03-08 |  |
+| [Quiet](https://open.spotify.com/track/0lczHKLHGd8LuzgrzIJ0nO) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [This Is Not The End](https://open.spotify.com/album/14NXlqWlb4MGu4KswIm6xU) | 3:22 | 2022-03-08 |  |
 | [Rapture](https://open.spotify.com/track/6F2vo4sxRNQ58VYe3pdiaL) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 4:59 | 2022-03-08 |  |
 | [Respect](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:27 | 2022-03-08 |  |
 | [Rise Up](https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Cheers to the Fall](https://open.spotify.com/album/6Blubl1glavmervPJa3QVs) | 4:13 | 2022-03-08 |  |

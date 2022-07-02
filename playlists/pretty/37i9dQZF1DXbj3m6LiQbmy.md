@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > È ora di celebrare, ecco il suono del pride secondo Protopapa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,902 likes - 57 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,909 likes - 57 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 33 | [Ti Sento](https://open.spotify.com/track/72BnKkKnrOeCDY9vy2avFk) | [Matia Bazar](https://open.spotify.com/artist/449mAbddAC2PAgNM3TLyc5) | [Melanchólia](https://open.spotify.com/album/7fK9JzCaIIIWehaWd7IoUE) | 4:15 |
 | 34 | [Taboo \(Playgirls from caracas remix\)](https://open.spotify.com/track/3LDU3r1QEk5EFtVy0Hv2fC) | [Lilith Primavera](https://open.spotify.com/artist/5rEatTNJ4Wg968RKZeE019), [Playgirl](https://open.spotify.com/artist/518AwkiwZBQLJW1Zhrip13) | [Taboo](https://open.spotify.com/album/60zPoLbLRdyvTOifnlQuNu) | 3:30 |
 | 35 | [Painted Eyes](https://open.spotify.com/track/0YKFG6iCL1Nn5y7aLLy7qA) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [Aerea Negrot](https://open.spotify.com/artist/4ix8eWGATi2Ot5ZmWITDaJ) | [Blue Songs](https://open.spotify.com/album/1DBdOP00GcAqZO67GUZDV9) | 6:01 |
-| 36 | [White Horse](https://open.spotify.com/track/7cOjZKdxgshxWgeGfE4m01) | [Jessica 6](https://open.spotify.com/artist/1qchowrzlYU0bUrJA6Oy8X) | [See The Light](https://open.spotify.com/album/5luHZqbMOLFMaN8SsZs2z9) | 0:29 |
+| 36 | [White Horse](https://open.spotify.com/track/7cOjZKdxgshxWgeGfE4m01) | [Jessica 6](https://open.spotify.com/artist/1qchowrzlYU0bUrJA6Oy8X) | [See The Light](https://open.spotify.com/album/5luHZqbMOLFMaN8SsZs2z9) | 4:59 |
 | 37 | [Chi se ne frega](https://open.spotify.com/track/6RUaPDMCEVkPgceTNMYJrJ) | [Whitemary](https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt) | [Radio Whitemary](https://open.spotify.com/album/11ENaxvYtPvmoMZ2BtGLSK) | 3:47 |
 | 38 | [Love Hangover](https://open.spotify.com/track/4UqPeeSyRt59KZmC0aA2Ni) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana Ross \(Expanded Edition\)](https://open.spotify.com/album/2Fin5oppCDiqiLfqb3j3QO) | 7:48 |
 | 39 | [TooMuch](https://open.spotify.com/track/4xNJDgvIlMjFIVTr7Fz72j) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [TooMuch](https://open.spotify.com/album/5W1SrEyT5psrYtuyqkOyCi) | 2:23 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 56 | [Ogni pensiero vola](https://open.spotify.com/track/5827FRbvRNgF7F1yNuvUbw) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD), [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1) | [Magica Musica](https://open.spotify.com/album/4Pd36LZx3udvliJX2ukwAB) | 3:53 |
 | 57 | [Quelli che benpensano \(feat\. Riccardo Sinigallia\)](https://open.spotify.com/track/0ekMehNXQgeMJXfCPrlTTf) | [Frankie HI\-NRG MC](https://open.spotify.com/artist/15tvxTXbemwnKQq1aRoPpI), [Riccardo Sinigallia](https://open.spotify.com/artist/43wEeBstQu4lBC5V6oRdNG) | [La Morte Dei Miracoli & Diff\. Coupling](https://open.spotify.com/album/1iMtC9ZMR2zqC74aNP510k) | 4:09 |
 
-Snapshot ID: `MTY1NjYzOTc4NywwMDAwMDAwMGViMGYyOTA5OTM5ZjQ5ZjNlZTBmMmJhNzI4M2UzNThi`
+Snapshot ID: `MTY1NjcyNjU4NSwwMDAwMDAwMGViMGYyOTA5OTM5ZjQ5ZjNlZTBmMmJhNzI4M2UzNThi`

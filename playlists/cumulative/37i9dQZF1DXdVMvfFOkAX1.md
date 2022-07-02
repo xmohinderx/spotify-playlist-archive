@@ -4,7 +4,7 @@
 
 > Elegant, dark and full of character, explore the very best of Chopin's iconic waltzes.
 
-20 songs - 57 min 44 sec - [published](https://open.spotify.com/playlist/35yCkyDLKg2gCxmcbEE9s5)
+20 songs - 1 hr 6 min - [published](https://open.spotify.com/playlist/35yCkyDLKg2gCxmcbEE9s5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,11 +22,11 @@
 | [Waltz No\. 6 in D\-Flat Major, Op\. 64, No\. 1 "Minute"](https://open.spotify.com/track/4Gjn2xoEw001ZaYKz76s7T) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [Chopin: Waltzes](https://open.spotify.com/album/30LUjTR1mNP5EVL28IpIp2) | 1:54 | 2020-02-26 |  |
 | [Waltz No\. 7 in C\-Sharp Minor, Op\. 64 No\. 2](https://open.spotify.com/track/7HDqxZ13HhwtwCEGAlz3Gz) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [Chopin: Waltzes](https://open.spotify.com/album/30LUjTR1mNP5EVL28IpIp2) | 3:40 | 2020-02-26 |  |
 | [Waltz No.1 in E Flat, Op.18 \-"Grande valse brillante"](https://open.spotify.com/track/1vWAWChbVffjnpl6PPzUA4) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Vladimir Ashkenazy](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) | [Chopin: Waltzes; 4 Scherzos; 26 Preludes](https://open.spotify.com/album/0yCrQ6dCqiI6ldqI8LPqWB) | 4:50 | 2020-02-26 |  |
-| [Waltz No.10 in B Minor, Op.69 No.2](https://open.spotify.com/track/24VhsP2wwVbIP3lTVSK0Cq) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Claudio Arrau](https://open.spotify.com/artist/5k15M5itLxlNtLk7BGpGa1) | [Chopin: 19 Waltzes](https://open.spotify.com/album/6mAtYHlbXHsH3PfwRTzZdg) | 0:29 | 2020-02-26 |  |
+| [Waltz No.10 in B Minor, Op.69 No.2](https://open.spotify.com/track/24VhsP2wwVbIP3lTVSK0Cq) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Claudio Arrau](https://open.spotify.com/artist/5k15M5itLxlNtLk7BGpGa1) | [Chopin: 19 Waltzes](https://open.spotify.com/album/6mAtYHlbXHsH3PfwRTzZdg) | 5:00 | 2020-02-26 |  |
 | [Waltz No.11 in G Flat, Op.70 No.1](https://open.spotify.com/track/2laGhdw5dctzR2MM6NghJ0) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Vladimir Ashkenazy](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) | [Chopin: Waltzes; 4 Scherzos; 26 Preludes](https://open.spotify.com/album/0yCrQ6dCqiI6ldqI8LPqWB) | 2:06 | 2020-02-26 |  |
 | [Waltz No.16 in A flat, Op.posth.](https://open.spotify.com/track/31xAWoz43pfLE3Xj9VSTy2) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Zoltán Kocsis](https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm) | [Ultimate Chopin](https://open.spotify.com/album/29oAIJKLKXicEmMtzbLCCn) | 1:12 | 2020-02-26 |  |
 | [Waltz No.19 in A Minor, Op.Posth.](https://open.spotify.com/track/3FXEbuw9tloZKMwsDmNDcd) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Ji Liu](https://open.spotify.com/artist/0KmpebJaar0Ws0AfPsZAED) | [Pure Chopin](https://open.spotify.com/album/5FVOwSdIt2nFVRYEuxTDgL) | 2:24 | 2020-02-26 |  |
-| [Waltz No.5 in A Flat, Op.42 \- "Grande valse"](https://open.spotify.com/track/1OcRiWp6PG6KpKv1yQGYCj) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Claudio Arrau](https://open.spotify.com/artist/5k15M5itLxlNtLk7BGpGa1) | [Chopin: 19 Waltzes](https://open.spotify.com/album/6mAtYHlbXHsH3PfwRTzZdg) | 0:29 | 2020-02-26 |  |
+| [Waltz No.5 in A Flat, Op.42 \- "Grande valse"](https://open.spotify.com/track/1OcRiWp6PG6KpKv1yQGYCj) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Claudio Arrau](https://open.spotify.com/artist/5k15M5itLxlNtLk7BGpGa1) | [Chopin: 19 Waltzes](https://open.spotify.com/album/6mAtYHlbXHsH3PfwRTzZdg) | 4:33 | 2020-02-26 |  |
 | [Waltzes, Op\. 70: Waltz No\. 12 in F Minor, Op\. 70, No\. 2](https://open.spotify.com/track/0zC95pC4y2oARoW5qCHhV1) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Chopin: Waltzes Nos\. 1\-19 \- Ecossaises, Op\. 72 \- Tarantelle, Op\. 43](https://open.spotify.com/album/5zNQIyP4WetHlXx9PLh1Id) | 2:59 | 2020-02-26 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

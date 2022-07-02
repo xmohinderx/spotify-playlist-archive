@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 
 > Ouça grandes MCs do hip hop nacional\. Foto: 509\-E
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,163 likes - 65 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,268 likes - 65 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 | 7 | [Desabafo / Deixa Eu Dizer](https://open.spotify.com/track/5GCz9BOkt17aI6ZOR3EiUl) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Claudia](https://open.spotify.com/artist/52MnqrIGCqyidyL6ZkQraC) | [A Arte Do Barulho](https://open.spotify.com/album/5ZfSz6IVs85lm5zRxlvAZi) | 2:55 |
 | 8 | [Canão Foi Tão Bom](https://open.spotify.com/track/2XdblGYWcBnelh5Xq6yK3j) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn), [Lakers](https://open.spotify.com/artist/7xBPUbBNVmZ35PyE1HkQQH), [Instituto](https://open.spotify.com/artist/33xmh99C0KxDvzaPjR178o), [Ganjaman](https://open.spotify.com/artist/79mxlrrJVr1pRtuTfHIgQK) | [Sabotage](https://open.spotify.com/album/54fqpmy2k6wjUGdPSxN8Me) | 5:30 |
 | 9 | [Eu Viajei no Meu Rádio](https://open.spotify.com/track/6qhjV2yZ19mggPeaT4s4TN) | [Radiola Santa Rosa](https://open.spotify.com/artist/54X71c7GFBwZBjs9Vpn3kT), [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Eu Viajei no Meu Rádio](https://open.spotify.com/album/5NQI21j6fPi10arbKZ0BO5) | 3:29 |
-| 10 | [Até U Infernu Acabá](https://open.spotify.com/track/2NHliybXzN9jQth41c6uWm) | [Trilha Sonora do Gueto](https://open.spotify.com/artist/5gOXpF0vOYUvYwBCd80hQv), [Zekinha](https://open.spotify.com/artist/2lT5bsHesPi6a8vsEBehtr) | [Até U Infernu Acabá](https://open.spotify.com/album/3bMB1dcxNv9aQHUU5vy5TI) | 0:29 |
+| 10 | [Até U Infernu Acabá](https://open.spotify.com/track/2NHliybXzN9jQth41c6uWm) | [Trilha Sonora do Gueto](https://open.spotify.com/artist/5gOXpF0vOYUvYwBCd80hQv), [Zekinha](https://open.spotify.com/artist/2lT5bsHesPi6a8vsEBehtr) | [Até U Infernu Acabá](https://open.spotify.com/album/3bMB1dcxNv9aQHUU5vy5TI) | 5:53 |
 | 11 | [Tudo por Você Também](https://open.spotify.com/track/2Z0XhdBvcULuRGiOBjZixb) | [Dj KLJay](https://open.spotify.com/artist/2MpPNxxzzAF1gWSyEotsNV), [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Na Batida \(Vol\. 3\)](https://open.spotify.com/album/6sRhjHVE4b0DC7EdaynzuU) | 6:08 |
 | 12 | [A Missiva](https://open.spotify.com/track/18xHNWWJjSidNHJMUNgyPq) | [Trilha Sonora do Gueto](https://open.spotify.com/artist/5gOXpF0vOYUvYwBCd80hQv) | [A Missiva](https://open.spotify.com/album/4Ckrl8zQcpGx5dLJ7L7wkn) | 5:43 |
 | 13 | [Rap É Compromisso](https://open.spotify.com/track/3zWt9okKsOFDjMl8tku0cA) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/7f7tJ66hE6aghmPubHTqVk) | 4:23 |

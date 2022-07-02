@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/3jibtPWLDXBK0OCJN6Ztsf.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 862 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 862 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Low \(feat\. T\-Pain\)](https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Mail on Sunday](https://open.spotify.com/album/5j1wrOAOm5KFd17pPiSvle) | 3:51 |
-| 2 | [Bleeding Love](https://open.spotify.com/track/6LtPIXlIzPOTF8vTecYjRe) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq) | 0:29 |
+| 2 | [Bleeding Love](https://open.spotify.com/track/6LtPIXlIzPOTF8vTecYjRe) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq) | 4:22 |
 | 3 | [No One](https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 4:13 |
 | 4 | [Lollipop](https://open.spotify.com/track/1GMZUAClqLWu55Q0gnSBf1) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Static Major](https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV) | [Tha Carter III](https://open.spotify.com/album/03NKHAkbP5oEGarLrVuLPi) | 4:59 |
 | 5 | [Apologize \- feat\. One Republic](https://open.spotify.com/track/3cS2ehbKNtl5p56K5qo65s) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Apologize](https://open.spotify.com/album/73tygJHkrXNS6RVqitv7IS) | 3:05 |
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/3jibtPWLDXBK0OCJN6Ztsf.md) - [plain]
 | 24 | [So What](https://open.spotify.com/track/5ReRX3klPvCNYtm6Bd1C1K) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Greatest Hits...So Far!!!](https://open.spotify.com/album/3nR5vEcIp8UzOJgkw8G8yX) | 3:34 |
 | 25 | [Paralyzer](https://open.spotify.com/track/57paCKftbvFgAeG023x354) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Them Vs\. You\. Vs\. Me](https://open.spotify.com/album/3sjm2CgfGo0DmOWEC7MPBJ) | 3:28 |
 | 26 | [Clumsy](https://open.spotify.com/track/2TdNwvK0SMzuQFT8ofM8dD) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G) | [The Dutchess \(Deluxe International Version\)](https://open.spotify.com/album/4WzNe7tHROZltrKNa8gsRj) | 4:00 |
-| 27 | [I'm Yours](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 0:29 |
+| 27 | [I'm Yours](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 4:02 |
 | 28 | [Leavin'](https://open.spotify.com/track/068HsG1SFKk4E27Iio2tyE) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Departure](https://open.spotify.com/album/5PlXcvtyl5aQfGV9GOdqbY) | 3:38 |
 | 29 | [Dangerous](https://open.spotify.com/track/4JFM7KpVxgPXargA4rzB60) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Not 4 Sale](https://open.spotify.com/album/41v3FMZqBJrbujPLQoJYeP) | 4:06 |
-| 30 | [Tattoo](https://open.spotify.com/track/0eIfBjs1pMiRNkbngEATQi) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Tattoo](https://open.spotify.com/album/2vs1R7Yb971sHwpkB2L6Mx) | 0:29 |
+| 30 | [Tattoo](https://open.spotify.com/track/0eIfBjs1pMiRNkbngEATQi) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Tattoo](https://open.spotify.com/album/2vs1R7Yb971sHwpkB2L6Mx) | 3:52 |
 | 31 | [See You Again](https://open.spotify.com/track/2TUN6qyhaEpmBzQIojXJGK) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Hannah Montana 2 Original Soundtrack / Meet Miley Cyrus](https://open.spotify.com/album/2qMYpVgGkXsH6C7cEb73mu) | 3:10 |
 | 32 | [Shake It](https://open.spotify.com/track/46SFeuNs1K5D76D9vCwFuR) | [Metro Station](https://open.spotify.com/artist/7vXwfZyDp3spzIVNXDaTPN) | [Metro Station](https://open.spotify.com/album/7Eb0IrQS3xbuje3EsREVnb) | 2:59 |
 | 33 | [Stop And Stare](https://open.spotify.com/track/5jOK1nlVScTUWie5lZ8SL9) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [OneRepublic Collected](https://open.spotify.com/album/4h4V64DM6kdYFR34ltpnDL) | 3:43 |

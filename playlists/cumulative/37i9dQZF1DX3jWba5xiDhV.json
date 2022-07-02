@@ -45,7 +45,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 404247,
       "name": "African Love Song",
       "url": "https://open.spotify.com/track/2YqvhES7UxrkgvuP0tRz8m"
@@ -67,7 +67,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 300819,
       "name": "Amore Selvaggio - Original Mix",
       "url": "https://open.spotify.com/track/6Wjswxv89qGRzOqUir9rti"
@@ -607,7 +607,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 368856,
       "name": "Excessive Dance",
       "url": "https://open.spotify.com/track/3FlK2PJ6yvEEUkR1uv3J7c"
@@ -710,7 +710,7 @@
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 239788,
       "name": "Feels Right - Gerd Janson Remix - Radio Edit",
       "url": "https://open.spotify.com/track/1zZcUGIY4VNzdGDKEskz7Y"
     },
@@ -821,7 +821,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 366189,
       "name": "Futura",
       "url": "https://open.spotify.com/track/3I8I5xOy34pz3dbvfM3I9u"
@@ -1055,7 +1055,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 221930,
       "name": "I.C. Love Affair - Radio Version",
       "url": "https://open.spotify.com/track/6LUio4WzheW25pazhTWm2e"
@@ -1171,7 +1171,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 357600,
       "name": "Jamin'",
       "url": "https://open.spotify.com/track/74nFLqYUx40Y2v0ZtFQHI8"
@@ -1208,7 +1208,7 @@
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 350082,
       "name": "La Bagarre",
       "url": "https://open.spotify.com/track/6VmPUcwaFV2ZCkWT3IrkHm"
     },
@@ -1273,7 +1273,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 29048,
       "name": "Let Me Love Tonight - Radio Version",
       "url": "https://open.spotify.com/track/6zEAlbxY12vp24gMkiwM1d"
@@ -1385,7 +1385,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 231691,
       "name": "Melody (1983 Radio Version)",
       "url": "https://open.spotify.com/track/78q9spnn1sK4UBefjvKjeJ"
@@ -1407,7 +1407,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 218708,
       "name": "Microwave Photon",
       "url": "https://open.spotify.com/track/2Sv9T375D6IzJ1ymGHAZjx"
@@ -1625,6 +1625,28 @@
       "duration_ms": 306626,
       "name": "People from Ibiza",
       "url": "https://open.spotify.com/track/5U2OVqASaLEjVYkQ4Z7Q1b"
+    },
+    {
+      "album": {
+        "name": "Per Una Bambola",
+        "url": "https://open.spotify.com/album/0n89b0QkoosG20ty2fOfdc"
+      },
+      "artists": [
+        {
+          "name": "Bottin",
+          "url": "https://open.spotify.com/artist/5raxAhTYYjNAtPT1mq3a2L"
+        },
+        {
+          "name": "Diva",
+          "url": "https://open.spotify.com/artist/4OO82884uf58jv1Tv3k8Bo"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270786,
+      "name": "Per una bambola - Bottin Version Radio Edit",
+      "url": "https://open.spotify.com/track/2cKqS6iFGfKjFbmKamKrsk"
     },
     {
       "album": {
@@ -1967,7 +1989,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 376621,
       "name": "The Night - Original Remastered Version 2020",
       "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"
@@ -2003,7 +2025,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 255000,
       "name": "Ti Sento",
       "url": "https://open.spotify.com/track/72BnKkKnrOeCDY9vy2avFk"
@@ -2191,7 +2213,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 217327,
       "name": "Vamos a la Playa",
       "url": "https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y"
@@ -2209,7 +2231,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 212253,
       "name": "Visitors",
       "url": "https://open.spotify.com/track/05ny0VoHFBDeqAxDRj77jn"

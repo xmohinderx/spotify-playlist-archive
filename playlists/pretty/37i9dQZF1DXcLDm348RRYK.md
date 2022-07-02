@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLDm348RRYK.md) - [plain]
 
 > Shut out the noise around you with these acoustic instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,578 likes - 63 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,567 likes - 63 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLDm348RRYK.md) - [plain]
 | 3 | [Do It Again](https://open.spotify.com/track/5xxuczLb9zAne8wdzldi4X) | [Donovan Raitt](https://open.spotify.com/artist/7svIR74ziDhK5QwUXHPeyX) | [Do It Again](https://open.spotify.com/album/7tpv84JAsD6sl0vpWtdXOO) | 5:08 |
 | 4 | [Dreamcatcher](https://open.spotify.com/track/2Dh8vHME7Y2FbYNfqOr8hk) | [Lee Ritenour](https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq) | [Dreamcatcher](https://open.spotify.com/album/11lTkhsZVqumbW7CRlWGTQ) | 4:22 |
 | 5 | [See You When You Appear](https://open.spotify.com/track/0iifbrIaoCheb4HbbH4bwP) | [Dylan Ryche](https://open.spotify.com/artist/0GvFKjJTMXpX16KPTxFw2i) | [See You When You Appear](https://open.spotify.com/album/4s3MCOJAKgWjEMdqP3S2ne) | 3:50 |
-| 6 | [Noises in the Night](https://open.spotify.com/track/38YXfGxOCm3M1OU0lFD9Co) | [Franco Morone](https://open.spotify.com/artist/00L3DU7naaW3XOIX26HXVz) | [Noises in the Night](https://open.spotify.com/album/0tCUM1YBGWmxdtgCw4KByd) | 0:29 |
+| 6 | [Noises in the Night](https://open.spotify.com/track/38YXfGxOCm3M1OU0lFD9Co) | [Franco Morone](https://open.spotify.com/artist/00L3DU7naaW3XOIX26HXVz) | [Noises in the Night](https://open.spotify.com/album/0tCUM1YBGWmxdtgCw4KByd) | 4:14 |
 | 7 | [Walking the Shoreline](https://open.spotify.com/track/7u6jE7wpHtSrLhkCGHqcSC) | [Franco Morone](https://open.spotify.com/artist/00L3DU7naaW3XOIX26HXVz) | [Walking the Shoreline](https://open.spotify.com/album/5Cd0AZKJnovD8HXXlZTV5Y) | 3:14 |
 | 8 | [These Moments](https://open.spotify.com/track/2LSfUlr1YPUgHE3QLpBxPK) | [Antoine Dufour](https://open.spotify.com/artist/15kzFPO1n6iK1GqFaTDDBo), [Van Larkins](https://open.spotify.com/artist/7kP1fOzswDN61C3oV3JMJH) | [These Moments](https://open.spotify.com/album/19BrnNH9dPJ6ZArTijLG8E) | 5:02 |
 | 9 | [Grace](https://open.spotify.com/track/1OKOxWlAVObOEN0JtkixBg) | [Calum Graham](https://open.spotify.com/artist/6VUCcZ6HiQQ39DhxV4bSeA), [Antoine Dufour](https://open.spotify.com/artist/15kzFPO1n6iK1GqFaTDDBo) | [Grace](https://open.spotify.com/album/4Du4xwLQ38zxqKbze10SG3) | 6:45 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLDm348RRYK.md) - [plain]
 | 45 | [Affirmatiion](https://open.spotify.com/track/73QZsh1bq7REnerepGhMYu) | [Adam Rafferty](https://open.spotify.com/artist/4ew33GzqUUdGNpeaKC3ejt) | [Play Pretty for the People](https://open.spotify.com/album/5SJc0gJRBSeeqIQKhxSNk9) | 4:07 |
 | 46 | [Everybody Needs One](https://open.spotify.com/track/48Ct0cNzeN62EDJzwg7I5E) | [Craig D'Andrea](https://open.spotify.com/artist/46Y38RAhiOID5strXb6sDA) | [Crazy Is Catching](https://open.spotify.com/album/0lEpSVhkwpyHUkPjphNVc6) | 3:53 |
 | 47 | [Heat](https://open.spotify.com/track/3WgjuiahVh7As4w3IcQZEE) | [Ben Woolman](https://open.spotify.com/artist/5zGODupJdUmjZwGou0tQpI) | [Wisdom / Delusion](https://open.spotify.com/album/56BvupOSQ2zVIIdveRATqF) | 4:05 |
-| 48 | [Beauty of Discipline](https://open.spotify.com/track/519POQZ8qXwhqtKzAu1Exp) | [Gareth Pearson](https://open.spotify.com/artist/6FFH7nU5jBOAum93OXVtZh) | [Urban Echoes Vol\. 1](https://open.spotify.com/album/6HgiKLLU61tqtmLk606sF5) | 0:29 |
+| 48 | [Beauty of Discipline](https://open.spotify.com/track/519POQZ8qXwhqtKzAu1Exp) | [Gareth Pearson](https://open.spotify.com/artist/6FFH7nU5jBOAum93OXVtZh) | [Urban Echoes Vol\. 1](https://open.spotify.com/album/6HgiKLLU61tqtmLk606sF5) | 4:23 |
 | 49 | [Drifting Along Waters](https://open.spotify.com/track/0rU4PW612tgLpBfuEfgEF4) | [Ross Hammond](https://open.spotify.com/artist/4Nyl11mo7720s5gSGyQocj) | [When Dogs Dream](https://open.spotify.com/album/3bBi3lykvmWrezhUtROxYe) | 1:43 |
 | 50 | [Ragamuffin](https://open.spotify.com/track/60DnPnqDqFSSRuv2q3ed01) | [Michael Hedges](https://open.spotify.com/artist/3IqoFUpoJi1qvebL8Vi2aK) | [Pure Michael Hedges](https://open.spotify.com/album/7hX0WHmzkU5zWEkVDG2T3E) | 3:14 |
 | 51 | [Addison' Walk](https://open.spotify.com/track/1YGeTQcRrUbqLyWMQ5petV) | [Phil Keaggy](https://open.spotify.com/artist/1bAzlT6fMBcvCfwgh4S3Xl) | [Beyond Nature](https://open.spotify.com/album/7dYTC8kdlp7Ox7r4omTh0h) | 4:03 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLDm348RRYK.md) - [plain]
 | 54 | [1979](https://open.spotify.com/track/6V4dcKHuDttBg2U6gLbLtT) | [Antoine Dufour](https://open.spotify.com/artist/15kzFPO1n6iK1GqFaTDDBo) | [1979](https://open.spotify.com/album/6rELvm8I8W6cL01R0RMBoY) | 4:24 |
 | 55 | [Farewell \(feat\. Michael Manring\)](https://open.spotify.com/track/2wxkIxCjB5047xUG5njMQ2) | [Calum Graham](https://open.spotify.com/artist/6VUCcZ6HiQQ39DhxV4bSeA), [Michael Manring](https://open.spotify.com/artist/3azoOASbeeRYOHv3ekSMRR) | [Tabula Rasa](https://open.spotify.com/album/30OgCzf2n8pLPvqW5ECtkR) | 4:32 |
 | 56 | [If You Say so Romance](https://open.spotify.com/track/6GeSiZbHwLpkSvG2zUhlyA) | [Jimmy Wahlsteen](https://open.spotify.com/artist/6WA8mlh44MksdUg7Prx2zE) | [No Strings Attached](https://open.spotify.com/album/5gNJTHSbG5yD8GZR0u7RnY) | 3:30 |
-| 57 | [Anchor](https://open.spotify.com/track/6ti9Ul1G1QlXoKj8hhKY4a) | [Trace Bundy](https://open.spotify.com/artist/1OqASoosW3wOTZreze7i97) | [Elephant King](https://open.spotify.com/album/36OT6yqrPiZJExw1YbCXVP) | 0:29 |
+| 57 | [Anchor](https://open.spotify.com/track/6ti9Ul1G1QlXoKj8hhKY4a) | [Trace Bundy](https://open.spotify.com/artist/1OqASoosW3wOTZreze7i97) | [Elephant King](https://open.spotify.com/album/36OT6yqrPiZJExw1YbCXVP) | 1:51 |
 | 58 | [Night After Sidewalk](https://open.spotify.com/track/5V8lsCRhYJCTO8eVGpdUcI) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV) | [..\. Until We Felt Red](https://open.spotify.com/album/30WhcR5ZIZ9FvT9LwMV9Pw) | 3:31 |
 | 59 | [Star of the Country Down](https://open.spotify.com/track/2UbPd0NRDK4C0GydEDIQfk) | [Pat Kirtley](https://open.spotify.com/artist/4wQGu2sZibDxvZIPxEOCr3) | [Ramble to Cashel](https://open.spotify.com/album/14ouePxlOLsGjeptH8lIBC) | 3:21 |
 | 60 | [Movement I \- Awakening](https://open.spotify.com/track/63y9PsKjVQWxvx4yZ4QMdL) | [Maneli Jamal](https://open.spotify.com/artist/3jvyO2jDkfBe2vuI6euFny) | [The Lamaj Movement](https://open.spotify.com/album/6zFlPueRXz2QG5HnfFvem1) | 3:55 |

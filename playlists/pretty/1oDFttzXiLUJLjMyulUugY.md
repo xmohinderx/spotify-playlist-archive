@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/1oDFttzXiLUJLjMyulUugY.md) - [plain]
 
 > Achieve optimal workday zen with this relaxed, meditative mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307 likes - 75 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 307 likes - 75 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [House of Deer](https://open.spotify.com/track/0g5ync3R4LsMChAhIEW55b) | [VIMES](https://open.spotify.com/artist/0nzOx4u4sCJPZb5xjcDtDa) | [House of Deer](https://open.spotify.com/album/7e0ij2fpWaxOEHv5fUYZjd) | 7:42 |
 | 2 | [Millions of Time](https://open.spotify.com/track/5QdPPdzdYPY52lFof2MhFe) | [Mountains](https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV) | [Mountains Mountains Mountains](https://open.spotify.com/album/0HPraqWHxm7DvADNPrj4Qb) | 5:50 |
-| 3 | [Nice Dream](https://open.spotify.com/track/2taOl3fvfWjMqKApl9bWgu) | [radio.string.quartet.vienna](https://open.spotify.com/artist/4ehcoSlGS3JfkExKnEXGz8) | [Radiodream](https://open.spotify.com/album/3onyEZwbFwdUQ62Lqy4naJ) | 0:29 |
+| 3 | [Nice Dream](https://open.spotify.com/track/2taOl3fvfWjMqKApl9bWgu) | [radio.string.quartet.vienna](https://open.spotify.com/artist/4ehcoSlGS3JfkExKnEXGz8) | [Radiodream](https://open.spotify.com/album/3onyEZwbFwdUQ62Lqy4naJ) | 3:29 |
 | 4 | [In the Fog I](https://open.spotify.com/track/59X2sWl3SBtUgkMEE1RlEx) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Ravedeath, 1972](https://open.spotify.com/album/6Iu8toVsvCc3I4INxYiVIy) | 4:52 |
 | 5 | [In the Fog II](https://open.spotify.com/track/25N6tLYS1uFJ3c5lsXV3y1) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Ravedeath, 1972](https://open.spotify.com/album/6Iu8toVsvCc3I4INxYiVIy) | 6:01 |
 | 6 | [In the Fog III](https://open.spotify.com/track/7BidaWyDo5jkyfbVnBanhS) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Ravedeath, 1972](https://open.spotify.com/album/6Iu8toVsvCc3I4INxYiVIy) | 5:00 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/1oDFttzXiLUJLjMyulUugY.md) - [plain]
 | 32 | [Unusual Thursday](https://open.spotify.com/track/1NnTF2GSY7NFp55lgPnkGQ) | [Darshan Ambient](https://open.spotify.com/artist/711EaFigHKV5CTbjIYWswu) | [Little Things](https://open.spotify.com/album/0mWzjB2thp8v9gMwK57nfF) | 7:22 |
 | 33 | [Melanine](https://open.spotify.com/track/7Cz1WZoRqocKqRg7XMoglu) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/6iifStu15tLyF6p2anUh3c) | 2:53 |
 | 34 | [Define Dancing](https://open.spotify.com/track/4wZdal5NzPtwKcjLMt7vJj) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Wall\-E](https://open.spotify.com/album/7IH5SRyEVemZWfhjYmWtT1) | 2:23 |
-| 35 | [Sweden](https://open.spotify.com/track/4NsPgRYUdHu2Q5JRNgXYU5) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Alpha](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) | 0:29 |
+| 35 | [Sweden](https://open.spotify.com/track/4NsPgRYUdHu2Q5JRNgXYU5) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Alpha](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) | 3:35 |
 | 36 | [Leaving the Tetons](https://open.spotify.com/track/0tehe7Y347aJvGjsDBjeIw) | [Mark Preston](https://open.spotify.com/artist/64mJPfKjDJqEcrc1fRJH9j) | [Nature & Design](https://open.spotify.com/album/6D6xz53TceI61ZebcMtmSo) | 5:34 |
 | 37 | [North Atlantic Sea](https://open.spotify.com/track/2YVcbo0rnBYMvWrk2XR18i) | [Bliss](https://open.spotify.com/artist/0WeWsgv7wWrgSHKBCInMv0) | [So Many of Us](https://open.spotify.com/album/5cNblVdDg0Y0oxz8AJrEQQ) | 4:41 |
 | 38 | [Same Rules Apply](https://open.spotify.com/track/7Ac2dRuRFTiC6eDmMYgAM9) | [Clint Mansell](https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU) | [Filth \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/19JmXEOE4jjOnaddFYKJN3) | 15:11 |

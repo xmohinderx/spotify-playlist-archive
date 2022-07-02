@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQQUna7yzAX.md) - [plain]
 
 > Grunge is still alive and kicking!
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,525 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,576 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQQUna7yzAX.md) - [plain]
 | 15 | [Don't be upset](https://open.spotify.com/track/6Ae21wYomlvAYvfMUvKFW0) | [Leftover Lemons](https://open.spotify.com/artist/4jHu0kjRbILmAyYOi3yPNp) | [Don't be upset](https://open.spotify.com/album/6o0nk9SWnBQIHSXa5Oobw0) | 3:53 |
 | 16 | [Cosmic Valentine](https://open.spotify.com/track/2HDmJpboIlFxzUTVQH4eR3) | [Bison Face](https://open.spotify.com/artist/3pixDiNj47jOH76s7RT32B) | [Cosmic Valentine](https://open.spotify.com/album/2ZgwAtZbALDHbBDbD7oyy2) | 4:24 |
 | 17 | [Glimpse](https://open.spotify.com/track/2wifBPYknnq22k33Aeztxx) | [Kobrakai](https://open.spotify.com/artist/0reF1LOe3mH3beQSeWWjev) | [Glimpse](https://open.spotify.com/album/00ZfkYhhpbbAGDqI5asKZo) | 2:58 |
-| 18 | [Natalie](https://open.spotify.com/track/19sVo6XSeni1nVQW0eZuxt) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Married](https://open.spotify.com/album/7eqxIAAFY956TlrHH0xLEt) | 0:29 |
+| 18 | [Natalie](https://open.spotify.com/track/19sVo6XSeni1nVQW0eZuxt) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Married](https://open.spotify.com/album/7eqxIAAFY956TlrHH0xLEt) | 3:28 |
 | 19 | [Deadbeat](https://open.spotify.com/track/70zoXkgWNJlI1hrESFU8Yd) | [DIRT](https://open.spotify.com/artist/3QBEd0Gi3ApA2EqVrIKNDa) | [Deadbeat](https://open.spotify.com/album/2uGggAaOP6Af2Cy7VCWRxA) | 4:30 |
 | 20 | [Keep Up Until It Bleeds](https://open.spotify.com/track/7FMF5tM8SyGbw7o6pCOKYZ) | [Blackbird Hill](https://open.spotify.com/artist/49Ypkl4ltiWhxXcLILO8W1) | [Keep Up Until It Bleeds](https://open.spotify.com/album/4wyMHDo55NpyDa14Bc5S4c) | 4:31 |
 | 21 | [To the Grave](https://open.spotify.com/track/2u8nEKPDGFR6DrlX90JoEI) | [Crape](https://open.spotify.com/artist/2FWet7RIyCyNlZSNpYpJxi), [Tuxx](https://open.spotify.com/artist/00u33wOLnUVDe4AHZ0lbSA) | [To the Grave](https://open.spotify.com/album/6IyPVkaTahXnsUgKaBxZv3) | 3:36 |

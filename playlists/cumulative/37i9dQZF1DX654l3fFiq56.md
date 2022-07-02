@@ -4,7 +4,7 @@
 
 > 雞年生的人謙虛謹慎、端莊尊貴，而且經常是眾人的注目焦點哦！看看有哪些歌手吧！Cover: 林俊傑 \(JJ Lin\)
 
-36 songs - 2 hr 18 min - [published](https://open.spotify.com/playlist/2TEJLTWYDkfTxvlZ3EebJ4)
+36 songs - 2 hr 26 min - [published](https://open.spotify.com/playlist/2TEJLTWYDkfTxvlZ3EebJ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [你就是我最愛的精選](https://open.spotify.com/track/2EaQZv4NY0IF94plEbggeb) | [Steve Chou](https://open.spotify.com/artist/1Qneon4tYZ7srVOU91bTsO) | [你就是我最愛的精選\(傳世音樂中篇\)](https://open.spotify.com/album/5iHnv40l91J3dihyLerHwW) | 3:25 | 2022-01-11 |  |
 | [做你的太陽](https://open.spotify.com/track/1qy3NaGcXDrPv9BcAqLH7B) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [做你的太陽](https://open.spotify.com/album/53lek8o8YYXlvBHHB5xTxe) | 3:35 | 2022-01-11 |  |
 | [偶遇 \- 電影《邪不壓正》宣傳曲](https://open.spotify.com/track/2xVYAmnOjNR33Z50Pc41ik) | [Faye Wong](https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp) | [偶遇 \(電影《邪不壓正》宣傳曲\)](https://open.spotify.com/album/7zDErtzcb5ytepYGt9J7ur) | 3:27 | 2021-01-23 | 2022-01-12 |
-| [出入](https://open.spotify.com/track/3F27OgyMSnjhmQ0yB20oh7) | [孟庭葦](https://open.spotify.com/artist/6P05zTMx0BSQLXmDiZxhv8) | [出入](https://open.spotify.com/album/0NXFdxwH6L9IocsyyQ2tjX) | 0:29 | 2022-01-11 |  |
+| [出入](https://open.spotify.com/track/3F27OgyMSnjhmQ0yB20oh7) | [孟庭葦](https://open.spotify.com/artist/6P05zTMx0BSQLXmDiZxhv8) | [出入](https://open.spotify.com/album/0NXFdxwH6L9IocsyyQ2tjX) | 4:54 | 2022-01-11 |  |
 | [分手放手 \- WBL系列影集第一季<永遠的第一名>片尾曲](https://open.spotify.com/track/36aoTpIIIJ3XAl6GrcHo5f) | [ALEX CHOU](https://open.spotify.com/artist/0zXp1zis13q1a2uCJgN9nq) | [分手放手 \(WBL系列影集第一季<永遠的第一名>片尾曲\)](https://open.spotify.com/album/7L95m2WhWUYwzGbIWlDygj) | 4:10 | 2021-01-23 | 2022-01-12 |
 | [唯一寫過的情書 \- WBL系列影集第二季《第二名的逆襲》片尾曲](https://open.spotify.com/track/3mrY1hCbYFriwOsnScycT5) | [ALEX CHOU](https://open.spotify.com/artist/0zXp1zis13q1a2uCJgN9nq) | [IDoL](https://open.spotify.com/album/3dmVl22su4arme3pS6SaIq) | 4:19 | 2022-01-11 |  |
 | [四季](https://open.spotify.com/track/0YQ9XxcB6nemluZRgw8MS2) | [Selina](https://open.spotify.com/artist/322fcjb9quEAxAXtmWyNeJ) | [四季](https://open.spotify.com/album/2ga5PwdSYSMxaRLMf3gQfA) | 3:36 | 2021-01-23 | 2022-01-12 |
@@ -37,7 +37,7 @@
 | [最好的快要發生 The Best Is Yet To Come](https://open.spotify.com/track/3Qd5t2oaRPvdY9eqZMvMWd) | [Nicholas Teo](https://open.spotify.com/artist/2met7Idcy1Ze7hnoUtpPmX) | [最好的快要發生 The Best Is Yet To Come](https://open.spotify.com/album/6rYiOZNY1SYIJ9pe2486d6) | 4:53 | 2021-01-23 | 2022-01-12 |
 | [最後一封情書](https://open.spotify.com/track/60SwCZbyJ9OmAiGJkLVsgl) | [Peggy Hsu](https://open.spotify.com/artist/7ruJU7jtsDqbgA23BL3VFQ), [莫子儀](https://open.spotify.com/artist/7wJwYpnCLPuT1gndVaQTYk) | [失物之城](https://open.spotify.com/album/5nHnPgrbJGhhgl0UzytY8Y) | 4:22 | 2021-01-23 |  |
 | [橋梁](https://open.spotify.com/track/1KJeufGyEEg1eSIVXMd76I) | [Leo王](https://open.spotify.com/artist/5Zn94mKQQYVZUvhiIXeXdP) | [時間的奶昔](https://open.spotify.com/album/4hx7tOATFwRF2P9wYoZmw7) | 3:03 | 2021-01-23 | 2022-01-12 |
-| [生日禮物2020](https://open.spotify.com/track/4xDPYSavntN5EiS193bT7u) | [Grady Guan](https://open.spotify.com/artist/2aFNEQB9JnQ171stH9Ljh5) | [生日禮物2020](https://open.spotify.com/album/2Ff32hV23ytsfAScLNmA1a) | 0:29 | 2022-01-11 |  |
+| [生日禮物2020](https://open.spotify.com/track/4xDPYSavntN5EiS193bT7u) | [Grady Guan](https://open.spotify.com/artist/2aFNEQB9JnQ171stH9Ljh5) | [生日禮物2020](https://open.spotify.com/album/2Ff32hV23ytsfAScLNmA1a) | 3:54 | 2022-01-11 |  |
 | [白飯](https://open.spotify.com/track/02vfLD7qje4PUTjjWfLado) | [Leo王](https://open.spotify.com/artist/5Zn94mKQQYVZUvhiIXeXdP) | [消化不良](https://open.spotify.com/album/3qfr0K1yzBx2JpqECx1ED1) | 3:24 | 2022-01-11 |  |
 | [經過 \- 【惹上冷殿下】片尾曲](https://open.spotify.com/track/2miUZSdkKCJCHNonQqQPyi) | [Nicholas Teo](https://open.spotify.com/artist/2met7Idcy1Ze7hnoUtpPmX) | [經過 \(【惹上冷殿下】片尾曲\)](https://open.spotify.com/album/0eyIW372c1E9AYvhUztndc) | 3:18 | 2022-01-11 |  |
 | [聖誕之吻](https://open.spotify.com/track/61sWMgH5gHAVTjxwy6mHDS) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [聖誕之吻](https://open.spotify.com/album/63zHQlg0xTAbsbRngzDwm9) | 4:35 | 2021-01-23 |  |

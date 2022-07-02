@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5McngUiuALFIS4VVF4oko5.md) - [plain]
 
 > No, not to tango..\. to write an awesome rock song! These duos know how to make a lot out of what they've got.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114 likes - 37 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 114 likes - 37 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/5McngUiuALFIS4VVF4oko5.md) - [plain]
 | 17 | [Stay Up Late](https://open.spotify.com/track/4wNEUdRiOYklc5nukUVg0o) | [JEFF The Brotherhood](https://open.spotify.com/artist/1yhtlCNnRgCNGnsy2K7mHm) | [We Are The Champions](https://open.spotify.com/album/7JtDT7zQCcwRBhTe5njHLV) | 3:03 |
 | 18 | [Crack in the Sidewalk](https://open.spotify.com/track/7ysOZ2Xc62LI0L9eAvIdHX) | [House of Freaks](https://open.spotify.com/artist/6fbfqNsZMiRnLkmTvXNKiM) | [Rhino Hi\-Five: House Of Freaks](https://open.spotify.com/album/1mlnqG2bFsWawMRldxiSyi) | 3:20 |
 | 19 | [Love In a Trashcan](https://open.spotify.com/track/6vVeogbozV20zRhRLbWj9j) | [The Raveonettes](https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8) | [Pretty In Black](https://open.spotify.com/album/5QupBS86IY8mTYsmQ3D9cp) | 2:51 |
-| 20 | [Lately](https://open.spotify.com/track/4IfsAMEKYWO6LmaDoCAUKI) | [The Helio Sequence](https://open.spotify.com/artist/6JoxwT8CwvpxxNaP55R6q2) | [Keep Your Eyes Ahead](https://open.spotify.com/album/7zTTDD5ak9agYdEgNlRenX) | 0:29 |
+| 20 | [Lately](https://open.spotify.com/track/4IfsAMEKYWO6LmaDoCAUKI) | [The Helio Sequence](https://open.spotify.com/artist/6JoxwT8CwvpxxNaP55R6q2) | [Keep Your Eyes Ahead](https://open.spotify.com/album/7zTTDD5ak9agYdEgNlRenX) | 4:10 |
 | 21 | [Flat Duo Jets Anthem](https://open.spotify.com/track/38N2ar274mz4tLwTFXvzuU) | [Flat Duo Jets](https://open.spotify.com/artist/2IkKf7MxjvDA8HWGy5xOyC) | [Go Go Harlem Baby](https://open.spotify.com/album/5iGlxPRYvoC3ZG7EeVE03A) | 2:38 |
 | 22 | [Dead Leaves And The Dirty Ground](https://open.spotify.com/track/4xTjyX1PVTZJftjY2dUzBi) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6ivqUxtSPTljd9Frfdyxbg) | 3:03 |
 | 23 | [Bound For The Floor](https://open.spotify.com/track/7izsUQjOYXVWkmFvEpTakb) | [Local H](https://open.spotify.com/artist/415JrPfN7ukaTu8JV8BLE8) | [Best Of Local H – The Island Years](https://open.spotify.com/album/04cRCGPxh0Ge67eVAzlogP) | 3:43 |

@@ -4,7 +4,7 @@
 
 > All songs about drinking, cheating, heartaches and everything else going on in a classic honky tonk.
 
-50 songs - 2 hr 5 min - [published](https://open.spotify.com/playlist/5RkCLhtAVDn9MrFX0hcTir)
+50 songs - 2 hr 11 min - [published](https://open.spotify.com/playlist/5RkCLhtAVDn9MrFX0hcTir)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,10 +53,10 @@
 | [This Cold War With You](https://open.spotify.com/track/21KDAAaMjeO9wElJynNYhW) | [Floyd Tillman](https://open.spotify.com/artist/1sv41JLLdczDyPjHDvo2dn) | [Top 40 Classics \- The Very Best of Floyd Tillman](https://open.spotify.com/album/6dxjVHleP6t40633zs48El) | 2:51 | 2015-08-10 |  |
 | [Wabash Cannonball](https://open.spotify.com/track/5RKPe1oN9lGayUCKn00fYi) | [Roy Acuff](https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M) | [The Essential Roy Acuff](https://open.spotify.com/album/37wOjBhzeA4FAHWk6z7FsM) | 2:36 | 2015-08-10 |  |
 | [Walking The Floor Over You \- 1941 Single Version](https://open.spotify.com/track/4M8z4TSbSekrYDw7I3iOYy) | [Ernest Tubb](https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS) | [The Definitive Collection](https://open.spotify.com/album/2ZhUboUqR3M68xvJRrl8Mp) | 2:35 | 2015-08-10 |  |
-| [White Lightning](https://open.spotify.com/track/27bTwyY8RKwaliVVNL5gJP) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [The Definitive Collection \(1955\-1962\)](https://open.spotify.com/album/1aWkxNCIoc4CKSZUc2SUJX) | 0:29 | 2015-08-10 |  |
+| [White Lightning](https://open.spotify.com/track/27bTwyY8RKwaliVVNL5gJP) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [The Definitive Collection \(1955\-1962\)](https://open.spotify.com/album/1aWkxNCIoc4CKSZUc2SUJX) | 2:48 | 2015-08-10 |  |
 | [Who Will Buy The Wine \- Single Version](https://open.spotify.com/track/5Uvzm5SgQL2mts6XkiHlkn) | [Charlie Walker](https://open.spotify.com/artist/3tsk4jo72o6tDjCGaMJUGF) | [Charlie Walker: Greatest Honky Tonk Hits](https://open.spotify.com/album/6KUUQoxIu4qp3Ug526mTi3) | 2:35 | 2015-08-10 |  |
-| [Why Baby Why](https://open.spotify.com/track/6hTv5WcTse1Wjeq1DbSiRQ) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [The Definitive Collection \(1955\-1962\)](https://open.spotify.com/album/1aWkxNCIoc4CKSZUc2SUJX) | 0:29 | 2015-08-10 |  |
+| [Why Baby Why](https://open.spotify.com/track/6hTv5WcTse1Wjeq1DbSiRQ) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [The Definitive Collection \(1955\-1962\)](https://open.spotify.com/album/1aWkxNCIoc4CKSZUc2SUJX) | 2:18 | 2015-08-10 |  |
 | [Wine Me Up](https://open.spotify.com/track/0K1kj3JopBRYRkLXRIs41O) | [Faron Young](https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL) | [An Introduction To Faron Young](https://open.spotify.com/album/7J5Aghoo9GQP3G2gKEF1u0) | 2:26 | 2015-08-10 |  |
-| [You're Still On My Mind](https://open.spotify.com/track/0LPVjkmR8BpGr2yz6UduBE) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [The Definitive Collection \(1955\-1962\)](https://open.spotify.com/album/1aWkxNCIoc4CKSZUc2SUJX) | 0:29 | 2015-08-10 |  |
+| [You're Still On My Mind](https://open.spotify.com/track/0LPVjkmR8BpGr2yz6UduBE) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [The Definitive Collection \(1955\-1962\)](https://open.spotify.com/album/1aWkxNCIoc4CKSZUc2SUJX) | 2:38 | 2015-08-10 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

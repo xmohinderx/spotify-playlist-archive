@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Photo : Izïa
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,496 likes - 49 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,490 likes - 49 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 16 | [On prend tout](https://open.spotify.com/track/6WheAWK0iOK2Zo81u40YVK) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839) | [On prend tout](https://open.spotify.com/album/3jGasbW6iJN83czkvpskh8) | 2:49 |
 | 17 | [VENUS](https://open.spotify.com/track/6pWVce5c6JXqFfl7JfJBnl) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E) | [LONGO MAÏ](https://open.spotify.com/album/1e6H42WI9oJ8rOSYDjrIcf) | 3:03 |
 | 18 | [Movie Star](https://open.spotify.com/track/4v8l0E113OJ7Vl0uborXcl) | [Cynthia Leone](https://open.spotify.com/artist/5DO6LrSCupTh0KjoN9JUUf) | [Movie Star](https://open.spotify.com/album/0Z7qZrgdvXEwyddaJCRt7h) | 2:19 |
-| 19 | [Coco Robot](https://open.spotify.com/track/78uhoLjMr27DWycpKLFaY6) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ) | [Coco Robot](https://open.spotify.com/album/2VwjLt0y3pBxzIHitBWKuV) | 4:00 |
+| 19 | [Coco Robot \(feat\. HabibiSly\)](https://open.spotify.com/track/78uhoLjMr27DWycpKLFaY6) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ), [HabibiSly](https://open.spotify.com/artist/1aJmuI59aoDA9mBk4ACoxl) | [Coco Robot \(feat\. HabibiSly\)](https://open.spotify.com/album/2VwjLt0y3pBxzIHitBWKuV) | 4:00 |
 | 20 | [Autour de toi](https://open.spotify.com/track/38xSxOPW6mqqosiWxttId3) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [Autour de toi](https://open.spotify.com/album/5EWc1VBeB0UTxyOJwVhSe7) | 2:40 |
 | 21 | [encore](https://open.spotify.com/track/0hbU8gZC85JnC7LlVEzMbg) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [ENCORE](https://open.spotify.com/album/3FKYpw72TUGootHh0BRFmV) | 3:30 |
 | 22 | [Jamais Assez](https://open.spotify.com/track/7gU37aeXFW7ZxKNkDOT2TG) | [Le Paon](https://open.spotify.com/artist/2JGuBoiuoXvEI3A7CF1buF) | [Jamais Assez](https://open.spotify.com/album/3qu1S4HGtA1gli9R15xRXA) | 3:47 |

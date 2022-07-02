@@ -4,7 +4,7 @@
 
 > Moody beats for sleepless nights.
 
-270 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/1KoQ1qVTSCCy8X3hTp8pGe)
+270 songs - 10 hr 6 min - [published](https://open.spotify.com/playlist/1KoQ1qVTSCCy8X3hTp8pGe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [After Hours](https://open.spotify.com/track/4xIA6rtVQukSRpcYjsUS9A) | [Olivier Abeille](https://open.spotify.com/artist/43d1D4ncfmUYZCkZsxvfEy) | [Embrasser](https://open.spotify.com/album/6VcrwQODoxJbkotX3DFJOk) | 2:07 | 2022-05-20 |  |
 | [Alien Signals](https://open.spotify.com/track/3W2uAyn3ifuzD1r5ulraHM) | [Lo\-Fi Luke](https://open.spotify.com/artist/02CSsXlCyOTZgxKnmxweqc), [Simax](https://open.spotify.com/artist/5xvzwrBVjP32lf7rOuKPbB) | [Alien Signals](https://open.spotify.com/album/1KBMGiW3su49XLXY4NyjZB) | 2:21 | 2022-05-20 | 2022-06-10 |
 | [Alignment](https://open.spotify.com/track/459tqykAvuDfgPrWT1XsLn) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Sova](https://open.spotify.com/album/4m2xqgJlpPXgWwaz9NNBRY) | 2:29 | 2022-05-20 | 2022-06-10 |
-| [Amboise](https://open.spotify.com/track/1aIgoyzrFUzUwJGTlUy4kN) | [Jail Daon](https://open.spotify.com/artist/0n24oVAxK02KVRQLnYN2PK) | [Amboise](https://open.spotify.com/album/0RR86LIQ8WqyRDEh700gzi) | 0:29 | 2022-05-20 |  |
+| [Amboise](https://open.spotify.com/track/1aIgoyzrFUzUwJGTlUy4kN) | [Jail Daon](https://open.spotify.com/artist/0n24oVAxK02KVRQLnYN2PK) | [Amboise](https://open.spotify.com/album/0RR86LIQ8WqyRDEh700gzi) | 3:16 | 2022-05-20 |  |
 | [an ordinary night](https://open.spotify.com/track/18b2tn5ZE4qocknxWP4XOU) | [Cold hands](https://open.spotify.com/artist/3e6Edrwl1C59W0yXPMJkwa) | [an ordinary night](https://open.spotify.com/album/5sA9Qwmsb2aBwMkbCJjy5g) | 2:46 | 2022-05-20 |  |
 | [analogue](https://open.spotify.com/track/6Nye92076r2T3EDvOGSDsL) | [r@ts](https://open.spotify.com/artist/7zREpSJAYjxSFNlOai38bU) | [analogue](https://open.spotify.com/album/1V5KCQUmOAj8UcoWMbij5G) | 2:37 | 2022-05-20 |  |
 | [Another Redroom Ramble](https://open.spotify.com/track/6pAW3tv04ptjKaFopM1uMJ) | [Aphid Friend](https://open.spotify.com/artist/6gQZaq3bhFr819MDPbmEso) | [Partners](https://open.spotify.com/album/6ItLwHBpRMlotPZ7wP4q7g) | 2:38 | 2022-05-20 |  |
@@ -33,7 +33,7 @@
 | [beginner's mind](https://open.spotify.com/track/6rhvnNfCetHo54hKLhz1uJ) | [really big mountains](https://open.spotify.com/artist/4yJevCr3DRO4fW0NG2rjt4) | [train legs](https://open.spotify.com/album/2IRJlhzadkFBiNBWE8bt6x) | 2:52 | 2022-05-20 |  |
 | [Beyond Sight](https://open.spotify.com/track/1roMpJzKbIqZzqS79K33oj) | [DunE](https://open.spotify.com/artist/4MWcljkqkBsrfiZu2CA88k) | [Tratoria](https://open.spotify.com/album/45xdMa03XY6auauofA1ESG) | 2:00 | 2022-05-20 |  |
 | [Bitter Sea](https://open.spotify.com/track/1i0a3kPuCiCeIA2EHN6s8Y) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB) | [Bitter Sea](https://open.spotify.com/album/2KLXdX9AoWq0g0HExG5Wdk) | 2:30 | 2022-05-20 |  |
-| [Black Sands White Coffee](https://open.spotify.com/track/2ZpxtRMNvBkgQVZiCGIIub) | [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Gino's Cappuccino](https://open.spotify.com/album/3etXsPOM7IutaC6rUKUxAe) | 4:05 | 2022-05-20 |  |
+| [Black Sands White Coffee](https://open.spotify.com/track/2ZpxtRMNvBkgQVZiCGIIub) | [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Gino's Cappuccino](https://open.spotify.com/album/3etXsPOM7IutaC6rUKUxAe) | 0:29 | 2022-05-20 |  |
 | [Blue](https://open.spotify.com/track/1L9zi0bBi6DD3wnJPFJPIT) | [Pixie Dust](https://open.spotify.com/artist/0kSqe2dBbt8rg07yfEBnjR) | [Blue](https://open.spotify.com/album/0TwX7omh8LLHGBkcfOBth0) | 2:18 | 2022-05-20 |  |
 | [Boarded](https://open.spotify.com/track/3TYZ8OUPMZ0O6AiMRmv5lP) | [Sidual.](https://open.spotify.com/artist/5ghUUQxtMMankpzWRxckkI) | [Boarded](https://open.spotify.com/album/0971OYZtfCZfegzT2TDmqh) | 2:20 | 2022-05-20 | 2022-06-10 |
 | [Bottled Up Emotions, Part 2](https://open.spotify.com/track/12nj9lHWHO9y8668gT0iR1) | [KVMTZ](https://open.spotify.com/artist/1D8kPNLkel9FZFCwSHkZ95) | [Bottled Up Emotions, Part 2](https://open.spotify.com/album/599cNTxGgXMhT154dLyGaU) | 1:50 | 2022-05-20 |  |
@@ -118,7 +118,7 @@
 | [horizontal](https://open.spotify.com/track/0i7cHpLYTCpXHPTdtNpjor) | [ilsey john](https://open.spotify.com/artist/2klDNbRLOvnZT8mMB7Nmqu) | [horizontal](https://open.spotify.com/album/7aaCy91PkXVdd7duqACrOv) | 1:15 | 2022-05-20 |  |
 | [I Gotta Tell You](https://open.spotify.com/track/5w3FLYgRtC9nHrvLmDgJTW) | [reeperzehn](https://open.spotify.com/artist/4a82agD9myWV4ibEAtxROd) | [I Gotta Tell You](https://open.spotify.com/album/2dHKs0izC1DWzdpKvbtdfQ) | 2:10 | 2022-05-20 |  |
 | [igloo](https://open.spotify.com/track/07vontPkjk1Wmkar99vNxp) | [sourja](https://open.spotify.com/artist/0w7nNbohjoxfLqjIakF5AE) | [igloo](https://open.spotify.com/album/01Y92vXi8WGC8haAMdbH3e) | 2:07 | 2022-05-20 |  |
-| [Ikea At Dusk](https://open.spotify.com/track/0b7acSt2NsF35xwFXj3ftl) | [Byoushay Brothers](https://open.spotify.com/artist/0GtIuE9H6qSS9GRnjRzasi) | [Ikea At Dusk](https://open.spotify.com/album/6ZB0pO293H9T320qrx0vak) | 0:29 | 2022-05-20 |  |
+| [Ikea At Dusk](https://open.spotify.com/track/0b7acSt2NsF35xwFXj3ftl) | [Byoushay Brothers](https://open.spotify.com/artist/0GtIuE9H6qSS9GRnjRzasi) | [Ikea At Dusk](https://open.spotify.com/album/6ZB0pO293H9T320qrx0vak) | 2:39 | 2022-05-20 |  |
 | [Illuminate](https://open.spotify.com/track/5GdiOxC8z6J7xA9khchqDS) | [Elijah the Alchemist](https://open.spotify.com/artist/3KUUj9cTyiuixKmbn96baH) | [Illuminate](https://open.spotify.com/album/5zH9YpZ4tUqIaNotnO7MLQ) | 2:44 | 2022-05-20 |  |
 | [In The Park](https://open.spotify.com/track/3Fin9OMyhCex6HB3ZHQRow) | [TAKARA](https://open.spotify.com/artist/5vbJr0NshbvVUJbmKlgZ07) | [In The Park](https://open.spotify.com/album/3sdYISfLZuUz8HWHh4UETT) | 1:39 | 2022-05-20 |  |
 | [in your head](https://open.spotify.com/track/6IiIc3hgcNOoMtjhb1fs2N) | [stonefold](https://open.spotify.com/artist/1jCsCfZCxNohxXdoE3Rw4f) | [in your head](https://open.spotify.com/album/3ruQJYLbvnQqft6ugRw6GU) | 2:18 | 2022-05-20 |  |
@@ -132,7 +132,7 @@
 | [Kanashi](https://open.spotify.com/track/0Xs2w8ZtC6h1AOGpqCuvgu) | [Saint Totoro](https://open.spotify.com/artist/4w13HtawCKjVZFCb60zMbM) | [Kanashi](https://open.spotify.com/album/0cC5AFwmnMaAc7GzXFzrRY) | 2:24 | 2022-05-20 |  |
 | [Keep Warm](https://open.spotify.com/track/520cdEWRrkom8TpyI2FeFP) | [Kavv](https://open.spotify.com/artist/2s9AUbN500rutTnXy78HzE) | [Keep Warm](https://open.spotify.com/album/15ki4Z5IWbuJ7uJsyzhV0J) | 1:11 | 2022-05-20 | 2022-05-27 |
 | [Komori Uta](https://open.spotify.com/track/0uI7PWd0jx5hO5gFNjSJ6X) | [pedrolina.](https://open.spotify.com/artist/2mFdkJcl12IZARwSKYhOjx) | [Komori Uta](https://open.spotify.com/album/1A77yvU3WvZkVD2YGZ4KO1) | 2:27 | 2022-05-20 |  |
-| [Lagoon](https://open.spotify.com/track/0bVyfYQTJoFbj1xR3ZzzdE) | [Zzcenic](https://open.spotify.com/artist/0ZEozBSxUxi99LJmOE3qOL) | [Lagoon](https://open.spotify.com/album/6ZzoQZAu83Y4F7q1LGn7xy) | 0:29 | 2022-05-20 |  |
+| [Lagoon](https://open.spotify.com/track/0bVyfYQTJoFbj1xR3ZzzdE) | [Zzcenic](https://open.spotify.com/artist/0ZEozBSxUxi99LJmOE3qOL) | [Lagoon](https://open.spotify.com/album/6ZzoQZAu83Y4F7q1LGn7xy) | 2:14 | 2022-05-20 |  |
 | [Late Night Coffee](https://open.spotify.com/track/11vBveyoAiyildqHRlLcyj) | [Beaumont](https://open.spotify.com/artist/50hbsxvYzqYMuR8JsZDOEK) | [I Dare U](https://open.spotify.com/album/5aHEHCP4LFXDfcA71JkI7g) | 1:58 | 2022-05-20 | 2022-06-10 |
 | [Late Night!](https://open.spotify.com/track/6JM8rwjU4pCpzeJ1WhSiLF) | [yengotti](https://open.spotify.com/artist/1RaEktJWhxIrpYnj1LmXHU) | [Late Night!](https://open.spotify.com/album/3DHZZAAx5uo21W6WH7mnwB) | 2:08 | 2022-05-20 |  |
 | [laze](https://open.spotify.com/track/3toAiZvuekDbhfaiTSJe8j) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [laze](https://open.spotify.com/album/3ARTuVfkQ1vhcmoQSgXBMa) | 2:43 | 2022-05-20 |  |
@@ -251,7 +251,7 @@
 | [thaws / thoughts](https://open.spotify.com/track/7efIiYXXWIzqMgWHzhtL5A) | [WRECKLESSNEZ](https://open.spotify.com/artist/6aWUNkKTWYsWKl6QjIwPd1) | [thaws / thoughts](https://open.spotify.com/album/1KKKlnKneRhuZBR6X9V7ig) | 2:39 | 2022-05-20 |  |
 | [The Hideout](https://open.spotify.com/track/6Ohyi1NkOWMKxQDfL3TL6X) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [The Hideout](https://open.spotify.com/album/0gqfC6kwsLNsU4WMKuPP3n) | 2:18 | 2022-05-20 | 2022-06-10 |
 | [the mangos](https://open.spotify.com/track/4FxuXzTIVVUZ9v1vIeGe0D) | [vibe academy](https://open.spotify.com/artist/1QIlKfgGmOpQRigjy2CyPN) | [frozen grapes](https://open.spotify.com/album/1lGfubsWe9ThyEZUC3wDVz) | 1:53 | 2022-05-20 |  |
-| [The Monster Under My Bed](https://open.spotify.com/track/6e1CdbMZtce6YpTxDJnNc5) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [The Monster Under My Bed](https://open.spotify.com/album/61CZefoQUPOSvk5Pzg3TtJ) | 0:29 | 2022-05-20 |  |
+| [The Monster Under My Bed](https://open.spotify.com/track/6e1CdbMZtce6YpTxDJnNc5) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [The Monster Under My Bed](https://open.spotify.com/album/61CZefoQUPOSvk5Pzg3TtJ) | 2:27 | 2022-05-20 |  |
 | [The Rain Said No](https://open.spotify.com/track/0QR9H35hAAIrT3PcBbaqEt) | [Grandmaster Tilden](https://open.spotify.com/artist/20yERPydly9DkcL45T65uJ) | [Weeds](https://open.spotify.com/album/3l6W3WJym9nVX0FNwChUzy) | 2:48 | 2022-05-20 |  |
 | [The Summit Point \- Lofi Minecraft Music](https://open.spotify.com/track/4Z7AKTdfeqfzJQuVJsEL0U) | [LoCraft](https://open.spotify.com/artist/4RftachrjrKoRHUWPElfUJ) | [The Summit Point \(Lofi Minecraft Music\)](https://open.spotify.com/album/4148Pe35Y8ywo2HLcgvsM7) | 3:03 | 2022-06-03 |  |
 | [These Sleepless Hours](https://open.spotify.com/track/2XPkr4NiBrLIIkIYB5qT1B) | [alamodilla](https://open.spotify.com/artist/3CBCmX5r8ViX4viPLFyVmN) | [These Sleepless Hours](https://open.spotify.com/album/21jFs7Y5dXbr5q1McMTqIb) | 3:03 | 2022-06-17 |  |

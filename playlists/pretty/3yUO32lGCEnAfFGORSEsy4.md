@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yUO32lGCEnAfFGORSEsy4.md) - [plain]
 
 > Brukout edition: It's a raw and sexy dancehall party!
 
-[Spotify](https://open.spotify.com/user/spotify) - 308 likes - 42 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 308 likes - 42 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/3yUO32lGCEnAfFGORSEsy4.md) - [plain]
 | 14 | [Sanko](https://open.spotify.com/track/2xtnyvIh9I7WMVr0cOu12U) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Epiphany \(Bonus Track Version\)](https://open.spotify.com/album/6XLRfsaOf4r8eiBUN9pDWn) | 3:09 |
 | 15 | [Me Alone](https://open.spotify.com/track/63LAGY7KLbltZOFsqEno2Z) | [Kiprich](https://open.spotify.com/artist/1K6FlvOftq7555uvKY0m5v) | [Me Alone](https://open.spotify.com/album/06dTmnZOv3Q9EwK9etSZZF) | 3:19 |
 | 16 | [Ready](https://open.spotify.com/track/5sDwFm4RcTERzlpzohKgcl) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Raw as Eva EP](https://open.spotify.com/album/4xrq2zp164pr1el8bDDLlK) | 2:49 |
-| 17 | [Sekkle and Cease](https://open.spotify.com/track/3AEUdAahhkgPZ8jan4OPHo) | [Agent Sasco \(Assassin\)](https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy) | [Reggae Gold 2014](https://open.spotify.com/album/6m1RHSRiyDR733BShmmtuf) | 0:29 |
-| 18 | [Hold Yuh Own](https://open.spotify.com/track/5XkKSEdRjMSYNOv2QV2938) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7), [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS) | [Hold Yuh Own](https://open.spotify.com/album/3Ur8FGJjKOl1j7nC1tL84s) | 0:29 |
+| 17 | [Sekkle and Cease](https://open.spotify.com/track/3AEUdAahhkgPZ8jan4OPHo) | [Agent Sasco \(Assassin\)](https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy) | [Reggae Gold 2014](https://open.spotify.com/album/6m1RHSRiyDR733BShmmtuf) | 2:41 |
+| 18 | [Hold Yuh Own](https://open.spotify.com/track/5XkKSEdRjMSYNOv2QV2938) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7), [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS) | [Hold Yuh Own](https://open.spotify.com/album/3Ur8FGJjKOl1j7nC1tL84s) | 3:01 |
 | 19 | [Flick](https://open.spotify.com/track/6DZe9W8l6rW4Mdht6BWJND) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Flick\-Single](https://open.spotify.com/album/1QUpg64KemHTCvzMEZdpnW) | 2:51 |
 | 20 | [Wine and Jiggle \- Remix](https://open.spotify.com/track/0k9fNfWaP7rkmyO5cPXAD6) | [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS), [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Wine and Jiggle \- Remix](https://open.spotify.com/album/1AxcRxxqKAtwMJ3lxr9gDA) | 2:56 |
 | 21 | [Up Wid Di Money](https://open.spotify.com/track/4wlh7ahjpX6SMXnDHFv7cf) | [Twins Of Twins](https://open.spotify.com/artist/6Da0wir7fJJkkIqM6UaHNK) | [Dancehall Mix Tape, Vol\. 2 \(Mixed by DJ Wayne\)](https://open.spotify.com/album/5ueiw43Xkliz4bT1s9xMyI) | 1:27 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/3yUO32lGCEnAfFGORSEsy4.md) - [plain]
 | 36 | [Make Me Feel \- Raw](https://open.spotify.com/track/41WD7y6TewtqDgJglJJEmB) | [Kalado](https://open.spotify.com/artist/49LHSIccKp7CYrofg0HHTA) | [Make Me Feel \- Single](https://open.spotify.com/album/5JqDC629uwZb7c9SPA7mf4) | 2:27 |
 | 37 | [We Bring The Party](https://open.spotify.com/track/2p2n9MH5yVTsiqKj88o61E) | [T.O.K](https://open.spotify.com/artist/06JH3wcXkJg7eoxZVMO1UX) | [Taking Over \- EP](https://open.spotify.com/album/4TpadfL2W8Re5B8Cg1WNbk) | 3:14 |
 | 38 | [Cocky Tuff Up](https://open.spotify.com/track/6jKNYORXeWGGGiSkj1sBZu) | [Aidonia](https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs) | [Matte Black Riddim](https://open.spotify.com/album/4iSfhNdg4CcSoHBZ8MNR0S) | 2:50 |
-| 39 | [Turn It Up \(feat\. DJ Jazzy T\)](https://open.spotify.com/track/5DycXVa4e82E6k9M15Nf51) | [Ce'Cile](https://open.spotify.com/artist/1RnGhd2JfN5nbVOvYmhDyO), [DJ Jazzy T](https://open.spotify.com/artist/4DxQlFDzfkQjyU9mrqcV4Q) | [Still Running](https://open.spotify.com/album/0ZEmsBG911uKT7CJxlF0DS) | 0:29 |
+| 39 | [Turn It Up \(feat\. DJ Jazzy T\)](https://open.spotify.com/track/5DycXVa4e82E6k9M15Nf51) | [Ce'Cile](https://open.spotify.com/artist/1RnGhd2JfN5nbVOvYmhDyO), [DJ Jazzy T](https://open.spotify.com/artist/4DxQlFDzfkQjyU9mrqcV4Q) | [Still Running](https://open.spotify.com/album/0ZEmsBG911uKT7CJxlF0DS) | 3:40 |
 | 40 | [Cup Yah Full](https://open.spotify.com/track/41gA2hLHRJW4bC40lm2X7R) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Cup Yah Full \- Single](https://open.spotify.com/album/1GIhVkizUAMw7Zci6DMPdG) | 3:47 |
 | 41 | [Touch Yah](https://open.spotify.com/track/0K22864F8jwAymy5JsopR9) | [T.O.K](https://open.spotify.com/artist/06JH3wcXkJg7eoxZVMO1UX) | [D\-Stress Riddim](https://open.spotify.com/album/2HOMRFOtWZrMdHkGqyuQJR) | 2:36 |
 | 42 | [Tessanne Tell Dem](https://open.spotify.com/track/0IqAVLRSSNDybTiD4NXMWo) | [Twin Of Twins](https://open.spotify.com/artist/3kkI2L53bVPB958OJbsUg8) | [Tessanne Tell Dem \- Single](https://open.spotify.com/album/77eG5ngHcacQMWKKyutofb) | 3:21 |

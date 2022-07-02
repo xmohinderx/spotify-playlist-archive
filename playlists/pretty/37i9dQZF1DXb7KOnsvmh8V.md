@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7KOnsvmh8V.md) - [plain]
 
 > 'Tis the season to settle in with a warm cup of coffee and these stripped down holiday tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,938 likes - 59 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,895 likes - 59 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [You're All I Want For Christmas](https://open.spotify.com/track/6k5yUgb2kSjiJtFWcAIswU) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [You're All I Want For Christmas](https://open.spotify.com/album/0hz1EdPK295xrolats4Mae) | 2:24 |
+| 1 | [You're All I Want For Christmas](https://open.spotify.com/track/6k5yUgb2kSjiJtFWcAIswU) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [You're All I Want For Christmas](https://open.spotify.com/album/0hz1EdPK295xrolats4Mae) | 0:29 |
 | 2 | [Last Christmas](https://open.spotify.com/track/09j5YVh6DLMa09PRp51mrE) | [Ashley Jones](https://open.spotify.com/artist/5oZSkpd6njJYnWjqINJ0nJ) | [Last Christmas](https://open.spotify.com/album/6XgcGUqv9urCIlq4IVHDsK) | 4:55 |
 | 3 | [Merry Xmas Everybody](https://open.spotify.com/track/0BQs8OCMlegB4Mlrx9nJA2) | [Joe Hicks](https://open.spotify.com/artist/0xwHtYTN6P4PtjLSzLV4U5) | [Merry Xmas Everybody](https://open.spotify.com/album/1A52lVGt4oJaXtI9FRxVvt) | 3:21 |
 | 4 | [Santa Baby](https://open.spotify.com/track/3nkVBox3k8YpbVNyXKQinl) | [Yolanda Streep](https://open.spotify.com/artist/3RAcfMK8AOdXDGe5IM4CV8) | [Santa Baby](https://open.spotify.com/album/5UV2XfiAnmheoWWv7C3clA) | 4:25 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7KOnsvmh8V.md) - [plain]
 | 9 | [The Christmas Song](https://open.spotify.com/track/12CVNOsr1L3omtra5Z2Jmi) | [McKenna Williams](https://open.spotify.com/artist/03uZO3ld49qo2B5Y39Io05), [Gil Cohen](https://open.spotify.com/artist/3RIFM8s5jyChTKVnP0ZeDe) | [The Christmas Song](https://open.spotify.com/album/7M4I7btwjjSv6WIa3AxqH6) | 3:26 |
 | 10 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/3sefGbSgty0fqgMwyMbrJt) | [Serena Mendes](https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz) | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/album/5xd4V5XVWsHti76vti9Kq1) | 3:07 |
 | 11 | [Thank God It's Christmas](https://open.spotify.com/track/3sSEbpbUVNnzU2sFZ81WAk) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [Thank God It's Christmas](https://open.spotify.com/album/5eifKVwGfihPewkitHo5PS) | 4:03 |
-| 12 | [A Cradle In Bethlehem](https://open.spotify.com/track/76JY0EcePnLePHMXuYSkvH) | [Plain Simple](https://open.spotify.com/artist/0XUcGC1QHkYmsVInVDjFad) | [A Cradle in Bethlehem](https://open.spotify.com/album/4riylNG00A6FG6CdVhb5hA) | 0:29 |
+| 12 | [A Cradle In Bethlehem](https://open.spotify.com/track/76JY0EcePnLePHMXuYSkvH) | [Plain Simple](https://open.spotify.com/artist/0XUcGC1QHkYmsVInVDjFad) | [A Cradle in Bethlehem](https://open.spotify.com/album/4riylNG00A6FG6CdVhb5hA) | 3:08 |
 | 13 | [Happy Christmas My Dear](https://open.spotify.com/track/3z0GfQCW7MAyoqfGbuymvD) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66), [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Happy Christmas My Dear](https://open.spotify.com/album/3CxBiwmyE6h2lMGevQqXNV) | 2:54 |
 | 14 | [Christmas Time Is Here](https://open.spotify.com/track/3rAaVjaPoRvFjhKYN5FGEv) | [Regina Costa](https://open.spotify.com/artist/5HTYfcxPnPgnplg9GvUIEr) | [Christmas Time Is Here](https://open.spotify.com/album/411hIapXValKm4r5aFtJuM) | 2:46 |
 | 15 | [Baby, It's Cold Outside](https://open.spotify.com/track/7jCljZFQGhUqK1dNPtfvMQ) | [Leopoldo Lopez](https://open.spotify.com/artist/4eiT8IHB1FaTzRyvkyyI3q) | [Baby, It's Cold Outside](https://open.spotify.com/album/3eSv2kdz0jDZl8Vx9Oiakt) | 2:24 |

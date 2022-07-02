@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NfjMqrzcGKVsbYZmhf4Md.md) - [plain]
 
 > All songs about drinking, cheating, heartaches and everything else going on in a classic honky tonk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,516 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,523 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/0NfjMqrzcGKVsbYZmhf4Md.md) - [plain]
 | 7 | [One By One](https://open.spotify.com/track/1eLuPIA4KPWuEL16owyqCS) | [Kitty Wells](https://open.spotify.com/artist/4fxdqujwhb2NIQyr7qnnPX), [Red Foley](https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9) | [20th Century Masters: The Millennium Collection: Best of Kitty Wells](https://open.spotify.com/album/7f2LfXaJOt4tbhE564gTPW) | 2:56 |
 | 8 | [I Can't Go Home Like This](https://open.spotify.com/track/3yJvlCiSh1pBXgW2GLRSNF) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [The Essential Ray Price 1951\-1962](https://open.spotify.com/album/7J25g8TiR9qoez4a2oM4FA) | 2:11 |
 | 9 | [I'm Moving On](https://open.spotify.com/track/3HAaEJKZPKHJY4YqYRvDas) | [Hank Snow](https://open.spotify.com/artist/3fq6r0bSIm4McymHKNMk4S) | [21 Country & Western Classics](https://open.spotify.com/album/2tjxf5KFtuSBECgn59k8ax) | 2:54 |
-| 10 | [Why Baby Why](https://open.spotify.com/track/6hTv5WcTse1Wjeq1DbSiRQ) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [The Definitive Collection \(1955\-1962\)](https://open.spotify.com/album/1aWkxNCIoc4CKSZUc2SUJX) | 0:29 |
+| 10 | [Why Baby Why](https://open.spotify.com/track/6hTv5WcTse1Wjeq1DbSiRQ) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [The Definitive Collection \(1955\-1962\)](https://open.spotify.com/album/1aWkxNCIoc4CKSZUc2SUJX) | 2:18 |
 | 11 | [Smokin' Cigarettes And Drinkin' Coffee Blues](https://open.spotify.com/track/2swYtnyHHVRdiWvNvXWBsp) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [The Essential Marty Robbins 1951\-1982](https://open.spotify.com/album/4qbCscFZUKcUSTj1Pb2YSl) | 2:41 |
 | 12 | [Drinking Tequila](https://open.spotify.com/track/7jqiC1labtznFDj3XZPZ7T) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [The Essential Jim Reeves](https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA) | 2:43 |
 | 13 | [Pick Me Up On Your Way Down \- Single Version](https://open.spotify.com/track/51piaTRq9ywWeNHokbyQzw) | [Charlie Walker](https://open.spotify.com/artist/3tsk4jo72o6tDjCGaMJUGF) | [Charlie Walker: Greatest Honky Tonk Hits](https://open.spotify.com/album/6KUUQoxIu4qp3Ug526mTi3) | 2:25 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/0NfjMqrzcGKVsbYZmhf4Md.md) - [plain]
 | 32 | [This Cold War With You](https://open.spotify.com/track/21KDAAaMjeO9wElJynNYhW) | [Floyd Tillman](https://open.spotify.com/artist/1sv41JLLdczDyPjHDvo2dn) | [Top 40 Classics \- The Very Best of Floyd Tillman](https://open.spotify.com/album/6dxjVHleP6t40633zs48El) | 2:51 |
 | 33 | [Born to Lose](https://open.spotify.com/track/6Z6bycK4qORoW6VGp8YrUY) | [Ted Daffan's Texans](https://open.spotify.com/artist/2YnfSATOB2uSfoyltK0uyq) | [Columbia Country Classics Volume 1: The Golden Age](https://open.spotify.com/album/5KjgZmF5dhZ2RwW9sJfB2V) | 2:39 |
 | 34 | [Country Boy](https://open.spotify.com/track/1jyiN9VttLaV0zma246f42) | [Little Jimmy Dickens](https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM) | [The Essential "Little" Jimmy Dickens](https://open.spotify.com/album/2zw9Dcasmd1uhLe5toAd1f) | 2:52 |
-| 35 | [You're Still On My Mind](https://open.spotify.com/track/0LPVjkmR8BpGr2yz6UduBE) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [The Definitive Collection \(1955\-1962\)](https://open.spotify.com/album/1aWkxNCIoc4CKSZUc2SUJX) | 0:29 |
+| 35 | [You're Still On My Mind](https://open.spotify.com/track/0LPVjkmR8BpGr2yz6UduBE) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [The Definitive Collection \(1955\-1962\)](https://open.spotify.com/album/1aWkxNCIoc4CKSZUc2SUJX) | 2:38 |
 | 36 | [Life to Go](https://open.spotify.com/track/2pVNdCTGqrM941550NOBqG) | [Stonewall Jackson](https://open.spotify.com/artist/0NqxUSg57tX1o1WG7VU1Vp) | [The Very Best of Stonewall Jackson](https://open.spotify.com/album/0n5oRmYAOhu3TIjefEMYVY) | 2:31 |
 | 37 | [Don't Let Me Cross Over](https://open.spotify.com/track/1ZNDtli4TjhuoBnWplaePI) | [Carl Butler](https://open.spotify.com/artist/2EtHntibRhuBeOmpRT2HNF) | [Don't Let Me Cross Over](https://open.spotify.com/album/4x4PlliOVqlLHyqel4cOL8) | 2:57 |
 | 38 | [Blues Plus Booze \(Means I Lose\)](https://open.spotify.com/track/5LQn0biVszyMaj9p4f0Dpt) | [Stonewall Jackson](https://open.spotify.com/artist/0NqxUSg57tX1o1WG7VU1Vp) | [The Very Best of Stonewall Jackson](https://open.spotify.com/album/0n5oRmYAOhu3TIjefEMYVY) | 2:47 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/0NfjMqrzcGKVsbYZmhf4Md.md) - [plain]
 | 45 | [Rednecks, White Socks And Blue Ribbon Beer](https://open.spotify.com/track/5JZavXbwqavv9kLEtiSyBx) | [Johnny Russell](https://open.spotify.com/artist/3b10T0AUpBLms8moTPVRxM) | [Greatest Hits](https://open.spotify.com/album/7nxLi0MohovxSZhWvcwrkJ) | 2:41 |
 | 46 | [I Cheated On You](https://open.spotify.com/track/4XbLkEznk90XC4r3oU6lu9) | [Floyd Tillman](https://open.spotify.com/artist/1sv41JLLdczDyPjHDvo2dn) | [Top 40 Classics \- The Very Best of Floyd Tillman](https://open.spotify.com/album/6dxjVHleP6t40633zs48El) | 2:28 |
 | 47 | [I Like Beer](https://open.spotify.com/track/5OFtWlXD1Ze4bKV2sz67Kl) | [Tom T\. Hall](https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T) | [20th Century Masters: The Millennium Collection: Best Of Tom T\. Hall](https://open.spotify.com/album/6d1bcCPwsPB0YGrspKeexk) | 2:53 |
-| 48 | [White Lightning](https://open.spotify.com/track/27bTwyY8RKwaliVVNL5gJP) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [The Definitive Collection \(1955\-1962\)](https://open.spotify.com/album/1aWkxNCIoc4CKSZUc2SUJX) | 0:29 |
+| 48 | [White Lightning](https://open.spotify.com/track/27bTwyY8RKwaliVVNL5gJP) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [The Definitive Collection \(1955\-1962\)](https://open.spotify.com/album/1aWkxNCIoc4CKSZUc2SUJX) | 2:48 |
 | 49 | [Heartaches By the Number](https://open.spotify.com/track/4imYTftUBGtMP4DKfJRYyf) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [Greatest Hits](https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX) | 2:57 |
 | 50 | [The Storm Within My Heart \- Single Version](https://open.spotify.com/track/31ogzMddHY8kXi5lanJqBs) | [Billy Walker](https://open.spotify.com/artist/0wOnokuOcSoYAUZN6jmpDc) | [Billy Walker: Columbia Hits](https://open.spotify.com/album/0llaheBCCsjIKMKeST5fmm) | 2:24 |
 

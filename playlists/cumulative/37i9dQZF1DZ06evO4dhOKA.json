@@ -128,7 +128,7 @@
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 217466,
       "name": "Cari\u00f1o Santo",
       "url": "https://open.spotify.com/track/6nt93dU2QlPMrVrEWfKKlj"
     },
@@ -252,7 +252,7 @@
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 202320,
       "name": "El Columpio",
       "url": "https://open.spotify.com/track/4HjxDHRhdqlmoCbnobNHmI"
     },
@@ -629,6 +629,24 @@
       "duration_ms": 151835,
       "name": "Lo Bera De",
       "url": "https://open.spotify.com/track/7h029g3cf0asV2FrTFdG1I"
+    },
+    {
+      "album": {
+        "name": "20 Corridos Bien Perrones",
+        "url": "https://open.spotify.com/album/6b51Kuq495lTq1dqXQEzoo"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204253,
+      "name": "Los Consejos De Mi Padre",
+      "url": "https://open.spotify.com/track/08vi6DInQWDhlG7PcN68Uh"
     },
     {
       "album": {
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 252213,
       "name": "Valente Quintero - En Vivo",
       "url": "https://open.spotify.com/track/7uVMBqe030IswozmKmEG1Q"

@@ -102,6 +102,24 @@
     },
     {
       "album": {
+        "name": "Platinum - A Life In Music",
+        "url": "https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138026,
+      "name": "Baby What You Want Me to Do",
+      "url": "https://open.spotify.com/track/4vSYWhfcmqeQpwpGMaRKh7"
+    },
+    {
+      "album": {
         "name": "The Soul Queen Of New Orleans: 50th Anniversary Celebration",
         "url": "https://open.spotify.com/album/00XIOYTGN9xBXxQw9rHSvs"
       },
@@ -132,7 +150,7 @@
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 184575,
       "name": "Bacon Fat - Remastered",
       "url": "https://open.spotify.com/track/7sDtdfJeneSVNyx8Gm1N6M"
     },
@@ -276,7 +294,7 @@
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 191093,
       "name": "Cole Slaw (Sorghum Switch)",
       "url": "https://open.spotify.com/track/3T6lmdMII9OmOcB8egH6cx"
     },
@@ -510,7 +528,7 @@
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 181000,
       "name": "Hound Dog",
       "url": "https://open.spotify.com/track/5Oc0vLGWdEWeCqIU8zyELt"
     },
@@ -608,7 +626,7 @@
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 168241,
       "name": "I Love The Woman",
       "url": "https://open.spotify.com/track/215sDs9PQ99hynGtGtFg85"
     },
@@ -810,7 +828,7 @@
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 198149,
       "name": "Pass the Biscuits Please - Remastered",
       "url": "https://open.spotify.com/track/6pgoB5EHpLO7SU8uuQM7hd"
     },

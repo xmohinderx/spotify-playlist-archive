@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 264413,
       "name": "Aces High - cover version",
       "url": "https://open.spotify.com/track/0C54uocegt2AqgdJkrFNqo"
@@ -110,7 +110,7 @@
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 235426,
       "name": "Blood in the Water",
       "url": "https://open.spotify.com/track/12pova27n3uHRQxrPnih9f"
     },
@@ -128,7 +128,7 @@
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 281386,
       "name": "Blood On Your Hands",
       "url": "https://open.spotify.com/track/122dV7zqPVekyeVmJQXnvD"
     },
@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 219960,
       "name": "Bury Me an Angel",
       "url": "https://open.spotify.com/track/1BjwSyq9atUodrIxPbJ1vq"
@@ -362,7 +362,7 @@
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 288320,
       "name": "First Day in Hell",
       "url": "https://open.spotify.com/track/7uqohNjCnZ8sZd5S2vh5vx"
     },
@@ -452,7 +452,7 @@
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 212080,
       "name": "I Will Live Again",
       "url": "https://open.spotify.com/track/19lYRLj7L8F6oUejDM7pgX"
     },
@@ -596,7 +596,7 @@
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 287733,
       "name": "Reason to Believe",
       "url": "https://open.spotify.com/track/02gIPDHCTuKgKEl2VlgPzt"
     },
@@ -614,7 +614,7 @@
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 251586,
       "name": "Revolution Begins",
       "url": "https://open.spotify.com/track/1n6Iqdr5XQ6F4o0vvqmFjx"
     },
@@ -632,7 +632,7 @@
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 273440,
       "name": "Rise of the Tyrant",
       "url": "https://open.spotify.com/track/4IgNweJc2Ph8KfXZ1Zl9y8"
     },
@@ -793,7 +793,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 242813,
       "name": "Symphony of Destruction - cover version",
       "url": "https://open.spotify.com/track/0WxklKp98Lt2Gr3dqHBjDa"
@@ -830,7 +830,7 @@
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 292866,
       "name": "The Day You Died",
       "url": "https://open.spotify.com/track/4jVjUOl1gwcHCWxwlWY0zf"
     },
@@ -848,7 +848,7 @@
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 299441,
       "name": "The Eagle Flies Alone - edit",
       "url": "https://open.spotify.com/track/7KoWRwwVUgZV5D0zmrr25s"
     },
@@ -866,7 +866,7 @@
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 255560,
       "name": "The Last Enemy",
       "url": "https://open.spotify.com/track/2PZLY7ybYMSzbk5WjKGF35"
     },
@@ -884,7 +884,7 @@
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 195066,
       "name": "The Race",
       "url": "https://open.spotify.com/track/6tzxM7GwiC5Yci3s08n5B4"
     },
@@ -902,9 +902,27 @@
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 293466,
       "name": "The World Is Yours",
       "url": "https://open.spotify.com/track/6tGyLydK5lNXz8Aw44wRj8"
+    },
+    {
+      "album": {
+        "name": "Khaos Legions",
+        "url": "https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294946,
+      "name": "Thorns In My Flesh",
+      "url": "https://open.spotify.com/track/4FSyWukxlZE36c1Wp3Rkzc"
     },
     {
       "album": {

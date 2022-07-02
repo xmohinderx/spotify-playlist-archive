@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NMZ4UC3NCh.md) - [plain]
 
 > Happiness! This is Red Velvet! The ReVe Festival 2022 is here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,600 likes - 101 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,692 likes - 101 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NMZ4UC3NCh.md) - [plain]
 | 29 | [Hello, Sunset](https://open.spotify.com/track/3zQyl7ko8alM35mvYWmHuu) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:30 |
 | 30 | [Better Be](https://open.spotify.com/track/5NIjdxrVUW4GGyLIqXUw9K) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:00 |
 | 31 | [In & Out](https://open.spotify.com/track/2iYnEfKsAsE86Yb9mS4b3E) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Finale](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) | 3:12 |
-| 32 | [행복 \(Happiness\)](https://open.spotify.com/track/7N2nLFpfpkqJdpXIF0BVtM) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The 1st Single '행복\(Happiness\)'](https://open.spotify.com/album/6uhzbGOu7nsKxQthjMKz2N) | 0:29 |
+| 32 | [행복 \(Happiness\)](https://open.spotify.com/track/7N2nLFpfpkqJdpXIF0BVtM) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The 1st Single '행복\(Happiness\)'](https://open.spotify.com/album/6uhzbGOu7nsKxQthjMKz2N) | 3:40 |
 | 33 | [Milky Way](https://open.spotify.com/track/2Oj5hRhkJH00VGzjBdQNq3) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Our Beloved BoA \#4 \- SM STATION](https://open.spotify.com/album/0MYodAzFX64jToQpE5jWNW) | 3:37 |
 | 34 | [Eyes Locked, Hands Locked](https://open.spotify.com/track/5vdqSjUj9JZsAHdr02Vygk) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Finale](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) | 4:10 |
 | 35 | [Your name](https://open.spotify.com/track/0gblvM8zgTe3d4WSYeamBI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [The One and Only, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/53JUFGKYYyfhlHXMRirdIB) | 3:45 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NMZ4UC3NCh.md) - [plain]
 | 55 | [Carpool](https://open.spotify.com/track/2KqYLFNTX2HXzYH4bucBKa) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Finale](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) | 3:26 |
 | 56 | [La Rouge \- Special Track](https://open.spotify.com/track/1O7qPyMtudzP3APaOT2OTH) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Finale](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) | 3:09 |
 | 57 | [Bad Boy \- Slom Remix](https://open.spotify.com/track/2MgGwRwnTJnQ8qEljY1T0D) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM), [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD) | [iScreaM Vol.12 : Bad Boy Remixes](https://open.spotify.com/album/46q4DrAttifm5PnrAtYqp2) | 3:34 |
-| 58 | [The Only \(feat\. IRENE of Red Velvet\)](https://open.spotify.com/track/63BGyvr6NuhA0q5NimghaG) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [IRENE](https://open.spotify.com/artist/1FCug8HMxqearaZB5qwWQj) | [The Only \(feat\. IRENE of Red Velvet\)](https://open.spotify.com/album/4uXskh6wXrlNDZ4UrSF8Lh) | 0:29 |
+| 58 | [The Only \(feat\. IRENE of Red Velvet\)](https://open.spotify.com/track/63BGyvr6NuhA0q5NimghaG) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [IRENE](https://open.spotify.com/artist/1FCug8HMxqearaZB5qwWQj) | [The Only \(feat\. IRENE of Red Velvet\)](https://open.spotify.com/album/4uXskh6wXrlNDZ4UrSF8Lh) | 3:06 |
 | 59 | [Be Natural](https://open.spotify.com/track/03j5je630wlJeQbJTV2lIo) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM), [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) | [Be Natural](https://open.spotify.com/album/6vwGOcHL4iz6PRQfHu6DUh) | 4:40 |
 | 60 | [Talk To Me](https://open.spotify.com/track/0X6SLg4pM3jdT9y18XYGN4) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Rookie \- The 4th Mini Album](https://open.spotify.com/album/01n9lwCLSigXsuY0AdFS9O) | 3:32 |
 | 61 | [Look](https://open.spotify.com/track/48Nd8rdc0WVG4rHTd76Mh6) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Perfect Velvet \- The 2nd Album](https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH) | 4:05 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NMZ4UC3NCh.md) - [plain]
 | 100 | [Fool](https://open.spotify.com/track/7kedMPEnyRksvUqGeFhY9D) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/2pBrB5hW9CjLWWZGqrET2g) | 3:53 |
 | 101 | [처음인가요 First Time](https://open.spotify.com/track/0LOPFlsWqlqPpr0ICwMVcK) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Velvet \- The 2nd Mini Album](https://open.spotify.com/album/3ZkPccW7mkSC7BCulcPFJs) | 4:02 |
 
-Snapshot ID: `MTY1NjYzOTAxNywwMDAwMDAwMDliNWU1M2Q1MzU0MGRhNjE4M2M4OWY3MTEyYzZiZjZl`
+Snapshot ID: `MTY1NjcyNTUzNSwwMDAwMDAwMDliNWU1M2Q1MzU0MGRhNjE4M2M4OWY3MTEyYzZiZjZl`

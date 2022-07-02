@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HkeE0Yyy1n.md) - [plain]
 
 > Looking back at the greatest metal released in 2016.
 
-[Spotify](https://open.spotify.com/user/spotify) - 915 likes - 121 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 915 likes - 121 songs - 10 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HkeE0Yyy1n.md) - [plain]
 | 35 | [In Orbit](https://open.spotify.com/track/0qAlAfnqtWuZtrvvc1zwoA) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D), [Floor Jansen](https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ) | [The Storm Within](https://open.spotify.com/album/1v0fzHYZBtVxH8Uq9pCcUY) | 5:38 |
 | 36 | [The Fool](https://open.spotify.com/track/63fLWnxo6JAZIBbhc9jYSW) | [Fleshgod Apocalypse](https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML) | [King](https://open.spotify.com/album/3jZDOEIsXpZUXmqb1o6Lzm) | 4:06 |
 | 37 | [Second Son of R.](https://open.spotify.com/track/04hTDr45kONVCXlAqjZGuW) | [Oathbreaker](https://open.spotify.com/artist/5kDp9RPBnmQzBLwVnVyVvz) | [Rheia](https://open.spotify.com/album/2eo8OwibPK06ZoHmIAfClG) | 5:55 |
-| 38 | [Symptom of Terminal Illness](https://open.spotify.com/track/6wBoZc8SwGed6EPApAXuWo) | [The Dillinger Escape Plan](https://open.spotify.com/artist/7IGcjaMGAtsvKBLQX26W4i) | [Dissociation](https://open.spotify.com/album/52hA4AUoiCwTuXXuClt0SR) | 0:29 |
+| 38 | [Symptom of Terminal Illness](https://open.spotify.com/track/6wBoZc8SwGed6EPApAXuWo) | [The Dillinger Escape Plan](https://open.spotify.com/artist/7IGcjaMGAtsvKBLQX26W4i) | [Dissociation](https://open.spotify.com/album/52hA4AUoiCwTuXXuClt0SR) | 4:03 |
 | 39 | [Oiseaux de proie](https://open.spotify.com/track/2LqniAScDuwvOSWEHbsJAI) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Kodama](https://open.spotify.com/album/1nWcB3qwsbx0nimMZH6sCw) | 7:48 |
 | 40 | [Incandescent](https://open.spotify.com/track/1lklm7l2pWgjHqNtlvTtgR) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Air](https://open.spotify.com/album/2jo6mNNlHx8UnlSCdaTFsL) | 5:11 |
 | 41 | [Old Heart Falls](https://open.spotify.com/track/7fklGYDWdEwR7GOfLxTTkr) | [Katatonia](https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm) | [The Fall of Hearts](https://open.spotify.com/album/4OOiBmG28tjBUznzGDSlos) | 4:22 |
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HkeE0Yyy1n.md) - [plain]
 | 60 | [Angels of Steel](https://open.spotify.com/track/4ddvJpiNKJMfcse5H0DHxF) | [Vader](https://open.spotify.com/artist/2s5DSt9VBNzAn2TbtDHzFZ) | [The Empire](https://open.spotify.com/album/05reBwSBGOg6hmsl9zm2y8) | 2:16 |
 | 61 | [Han Som Hatar Människan \- Remastered](https://open.spotify.com/track/1TtdHZ4KvN56LCt9evBUaL) | [Shining](https://open.spotify.com/artist/7wqTItc5qEyIwWw5ksN1Ya) | [Redefining Darkness](https://open.spotify.com/album/72heCequbHTS0GfiskoxAR) | 6:49 |
 | 62 | [New Horizons](https://open.spotify.com/track/7HYwfDGMwZO8p1x7j6Pu7e) | [Textures](https://open.spotify.com/artist/6v9XKyEf4HKmUMr3D6weIO) | [Phenotype](https://open.spotify.com/album/2FW3gHF0ajwPrU4DqqNYJU) | 4:51 |
-| 63 | [Kvervandi](https://open.spotify.com/track/2Hghr7m6ojS6FtrWToPO6n) | [Ivar Bjørnson & Einar Selvik](https://open.spotify.com/artist/6oMLJmmChVOrBm8MmcfHES) | [Skuggsjá](https://open.spotify.com/album/0g2MYTHCdT74TYAt4E3UGu) | 0:29 |
+| 63 | [Kvervandi](https://open.spotify.com/track/2Hghr7m6ojS6FtrWToPO6n) | [Ivar Bjørnson & Einar Selvik](https://open.spotify.com/artist/6oMLJmmChVOrBm8MmcfHES) | [Skuggsjá](https://open.spotify.com/album/0g2MYTHCdT74TYAt4E3UGu) | 6:26 |
 | 64 | [Hold Your Children Close and Pray for Oblivion](https://open.spotify.com/track/075jSmV95NQJxazrAEVda1) | [Anaal Nathrakh](https://open.spotify.com/artist/7vrrJ5YlL3I8XUrh1ktGJV) | [The Whole of the Law](https://open.spotify.com/album/42Hqedxo0WHJ2K2gZxI1zP) | 3:35 |
 | 65 | [Abrogation](https://open.spotify.com/track/6aZJfQtdoOAHNsL1pDnyx2) | [Ulcerate](https://open.spotify.com/artist/3Bv5btxNbwbt79fcjw9DAg) | [Shrines of Paralysis](https://open.spotify.com/album/3F61xA8pQADnq1EHfM5vv8) | 5:50 |
 | 66 | [A Jhator Ascension](https://open.spotify.com/track/70qd8TrefFCL8j3UgfN4Ck) | [Khonsu](https://open.spotify.com/artist/1RGjVd2AAPAXjVZWYkmf7p) | [The Xun Protectorate](https://open.spotify.com/album/71ABCZvkjCjZJaQHnVxNOa) | 5:15 |
 | 67 | [The World Was Mine](https://open.spotify.com/track/2BwQukxxS2NIWo9Gz4Gilu) | [Logical Terror](https://open.spotify.com/artist/71RNihAnOuMIGlq9zQiDXx), [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Ashes of Fate](https://open.spotify.com/album/5k6QHVXhMaZME7VJQYLuAB) | 4:06 |
 | 68 | [Passage of the Crane](https://open.spotify.com/track/7JPbtFvuscfYiKEen8d2eh) | [Heaven Shall Burn](https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW) | [Wanderer](https://open.spotify.com/album/5TizayIF6uJtXShVu0U9X3) | 3:57 |
-| 69 | [Image of Control \(II\)](https://open.spotify.com/track/66cMGk7UfCbR8ziN4qNJr5) | [Sumac](https://open.spotify.com/artist/51yGpqOaCT6TlLzV3LefDV) | [What One Becomes](https://open.spotify.com/album/0s1U9VBobxvNn7Kctl5WN2) | 0:29 |
+| 69 | [Image of Control \(II\)](https://open.spotify.com/track/66cMGk7UfCbR8ziN4qNJr5) | [Sumac](https://open.spotify.com/artist/51yGpqOaCT6TlLzV3LefDV) | [What One Becomes](https://open.spotify.com/album/0s1U9VBobxvNn7Kctl5WN2) | 5:59 |
 | 70 | [Paralyzed](https://open.spotify.com/track/1wk5J5wnnir7oXFwqWSQKC) | [Caliban](https://open.spotify.com/artist/1oeo6cC9Fqa2bxxv67qBQL) | [Gravity](https://open.spotify.com/album/0BevWaM3NQQQI7nLOttEzs) | 4:29 |
 | 71 | [Live and Burn](https://open.spotify.com/track/5kheBCHERdvNziSYgDdbc2) | [Deströyer 666](https://open.spotify.com/artist/67T5lWCllFJE7hDrslnxYK) | [Wildfire](https://open.spotify.com/album/29NdXziu9bQePCxjSf9b5G) | 4:31 |
 | 72 | [The Seventh Seal](https://open.spotify.com/track/5YHsB2FZr9GRwTpJqvsZ14) | [Sumerlands](https://open.spotify.com/artist/5rASExwQQilVMuKmaOV2eW) | [Sumerlands](https://open.spotify.com/album/3ILk1oFpYr8mTnZIliNjDZ) | 3:46 |
@@ -127,7 +127,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HkeE0Yyy1n.md) - [plain]
 | 117 | [Akróasis](https://open.spotify.com/track/2d0Ub2MAJUX1jwcThuxXLM) | [Obscura](https://open.spotify.com/artist/7i82bJxWj1Tggc7pnU1hzt) | [Akróasis](https://open.spotify.com/album/00UbYNcKS2BGljOkV49uHD) | 4:23 |
 | 118 | [At The Break Of Dawn \(feat\. Elize Ryd\)](https://open.spotify.com/track/51E3xyTuzOSZYbOduba6Oz) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA), [Elize Ryd](https://open.spotify.com/artist/4aHpq3SeE9HiKNft9Bcj55) | [At The Break Of Dawn \(feat\. Elize Ryd\)](https://open.spotify.com/album/5mW0s9ENNK7tkcptmJve9o) | 3:31 |
 | 119 | [Ensigns Of Victory](https://open.spotify.com/track/2YVaKGtAZPt58BdObKvP5A) | [Winterfylleth](https://open.spotify.com/artist/0cKyWvYnOGpPV2NpulEYf5) | [Ensigns Of Victory](https://open.spotify.com/album/289l5qWtPYRtuugMdjmvZA) | 6:47 |
-| 120 | [The Call to Orion](https://open.spotify.com/track/1rbfCsj5x84ozBCHxjgSLZ) | [In Mourning](https://open.spotify.com/artist/0gsIXiV7rw5I9wJaxgoOdB) | [Afterglow](https://open.spotify.com/album/69Eghq1EV8MOWLL8hvNMKG) | 0:29 |
+| 120 | [The Call to Orion](https://open.spotify.com/track/1rbfCsj5x84ozBCHxjgSLZ) | [In Mourning](https://open.spotify.com/artist/0gsIXiV7rw5I9wJaxgoOdB) | [Afterglow](https://open.spotify.com/album/69Eghq1EV8MOWLL8hvNMKG) | 8:24 |
 | 121 | [Home](https://open.spotify.com/track/7zTOZF5EeB9rf8e1hYfxAy) | [Numenorean](https://open.spotify.com/artist/2qBGuYUZX53HN4Vk7Msjlc) | [Home](https://open.spotify.com/album/5JNGeAZWSXLXpxzsQ1IsV5) | 9:13 |
 
 Snapshot ID: `MTU2NzUwNDg5OCwwMDAwMDAwZjAwMDAwMTVjZWU5MzY5OTEwMDAwMDE2Y2Y2OTI5Yjgw`

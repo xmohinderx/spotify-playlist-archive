@@ -4,7 +4,7 @@
 
 > The best new dance & electronic music by independent artists and labels\. Updates every Wednesday\. Cover: Melle Brown, Artwork: Rewina Beshue.
 
-552 songs - 1 day 13 hr 47 min - [published](https://open.spotify.com/playlist/4dKpDBG1y7h8bfA4dbtQPc)
+552 songs - 1 day 13 hr 53 min - [published](https://open.spotify.com/playlist/4dKpDBG1y7h8bfA4dbtQPc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -521,7 +521,7 @@
 | [Twenty One Highs](https://open.spotify.com/track/6nKDTCPUW8kNS5JKGyplvp) | [Amy Dabbs](https://open.spotify.com/artist/7MZwR2R0H1VofTGWMziqHl), [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Twenty One Highs](https://open.spotify.com/album/6COO2wsOM3hmLl23M0AF3b) | 5:25 | 2022-03-23 | 2022-04-28 |
 | [Ultraviolet \(2022\)](https://open.spotify.com/track/46iNTZ0LIKZEBOqzXHA9sE) | [Paul Thomas](https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8) | [Ultraviolet \(2022\)](https://open.spotify.com/album/4346HSVfG9ZOESnoWDYWfH) | 3:42 | 2022-02-09 | 2022-03-24 |
 | [Unified](https://open.spotify.com/track/11MAaiTZl81vYHM4hBoC9P) | [Richie Blacker](https://open.spotify.com/artist/1ZcjObwclhycsS6bdN2Kgn) | [Unified / Atlantis](https://open.spotify.com/album/5HwmyfSY7FgoeHbiLfxTjB) | 6:32 | 2022-05-31 |  |
-| [Unlikely Community](https://open.spotify.com/track/59cWHNhV0b48LWY486RxNa) | [Eamon Harkin](https://open.spotify.com/artist/2Vjxc2icvsiPPgzPz9nQQC) | [Unlikely Community](https://open.spotify.com/album/2eKIm2IX8mEbECPwH3eA58) | 0:29 | 2022-05-11 |  |
+| [Unlikely Community](https://open.spotify.com/track/59cWHNhV0b48LWY486RxNa) | [Eamon Harkin](https://open.spotify.com/artist/2Vjxc2icvsiPPgzPz9nQQC) | [Unlikely Community](https://open.spotify.com/album/2eKIm2IX8mEbECPwH3eA58) | 6:02 | 2022-05-11 |  |
 | [Unlock](https://open.spotify.com/track/603t3nLBVPRkg8DBeLJOVf) | [minds&machines](https://open.spotify.com/artist/2KxAw5fHhZUSuDNBuNACUQ) | [Unlock](https://open.spotify.com/album/4qVstNRu7hfYXUh50CiAIJ) | 4:00 | 2022-03-09 | 2022-04-08 |
 | [Use the Card](https://open.spotify.com/track/2DhdtYuKZv1ugkLDQPG9gE) | [Ren Carter](https://open.spotify.com/artist/5SUcV9zgkgubuNxk4MIppv) | [Use the Card](https://open.spotify.com/album/3qXu9rW3LMYdIfUTmwqNxu) | 4:00 | 2022-03-16 | 2022-06-09 |
 | [Victory](https://open.spotify.com/track/6LMqkNY1TEwuRBNtbc0psM) | [Patricia Baloge](https://open.spotify.com/artist/7KHLKf4SlVaS8EamkM3JL4) | [Victory](https://open.spotify.com/album/1Z1L8SJPBbzvIbchU11MUw) | 3:32 | 2022-06-29 |  |

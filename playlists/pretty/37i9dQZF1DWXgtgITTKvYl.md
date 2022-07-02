@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 > A collection of the best recent Prog Rock tracks\. Cover: Steve Vai
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,745 likes - 75 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,778 likes - 75 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 22 | [Blood Moon Night](https://open.spotify.com/track/4Z4RfWMnxsBG7Fs5KvEVGY) | [Kadavar](https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z), [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [ELDOVAR \- A Story of Darkness & Light](https://open.spotify.com/album/2SN8LGMcmauPEAr4BLiT6e) | 11:04 |
 | 23 | [The Great Pretender](https://open.spotify.com/track/1M0efSydvXC2nvnuom88OB) | [The Flower Kings](https://open.spotify.com/artist/0BI5vXwUl4lZMtARfXQ0No) | [The Great Pretender](https://open.spotify.com/album/3oz2p8bwC9E5A4bvmExyAQ) | 6:58 |
 | 24 | [Sand Castles](https://open.spotify.com/track/61b16dlE40IM8FM6Gu9hH1) | [Head First](https://open.spotify.com/artist/0afcetY24N4RXaaw7KgNaG) | [Sand Castles](https://open.spotify.com/album/0oeoxRoLlixMZXxM6G60es) | 5:15 |
-| 25 | [I Can't Stay Here Anymore](https://open.spotify.com/track/2wj1ZSQ32XsMKIvMNO61R2) | [Pattern\-Seeking Animals](https://open.spotify.com/artist/3X2gxHjnxuXGLgs0nrqMuW) | [I Can't Stay Here Anymore](https://open.spotify.com/album/2vP68Dxqg2tWue80ASr1HR) | 0:29 |
+| 25 | [I Can't Stay Here Anymore](https://open.spotify.com/track/2wj1ZSQ32XsMKIvMNO61R2) | [Pattern\-Seeking Animals](https://open.spotify.com/artist/3X2gxHjnxuXGLgs0nrqMuW) | [I Can't Stay Here Anymore](https://open.spotify.com/album/2vP68Dxqg2tWue80ASr1HR) | 6:05 |
 | 26 | [The Pursuit](https://open.spotify.com/track/2VMVBdS8oZ4BzAxTABWdE9) | [Carlotta Valdes](https://open.spotify.com/artist/2u7iH1kPQUPFS4WaNcUMu6) | [The Pursuit](https://open.spotify.com/album/1wPYB7hjyCQjbrYcTqzLvv) | 4:57 |
 | 27 | [Revel in Time](https://open.spotify.com/track/2CmQeA8YUtZDMp2tUsuqj1) | [Arjen Anthony Lucassen's Star One](https://open.spotify.com/artist/1W5pfX7IGyw9wCmfARg1pi) | [Revel in Time](https://open.spotify.com/album/4F4zzCVXkFuDiH9pnf88Jk) | 4:37 |
 | 28 | [The Monster Roars](https://open.spotify.com/track/32xyRA1ED50D5C42SOVrXu) | [Magnum](https://open.spotify.com/artist/3Nu9hoMBT4SkDcaNvmK4G1) | [The Monster Roars](https://open.spotify.com/album/286a0luh0FDCtNoPdQh57A) | 4:01 |
@@ -57,13 +57,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 47 | [The Arsonist](https://open.spotify.com/track/6TRGAsJseHYaXl0xVHy97r) | [Von Hertzen Brothers](https://open.spotify.com/artist/5QA702pGd9qa2oWvp21ofG) | [War Is Over](https://open.spotify.com/album/6qX9oUq4PTUBtVaczthHpY) | 3:53 |
 | 48 | [Hazard](https://open.spotify.com/track/10KlXJAkq44AjU3Tj8LKwl) | [Long Distance Calling](https://open.spotify.com/artist/3SiCxhceGZgzusCLHd4Zz6) | [Hazard](https://open.spotify.com/album/4iCjBIOD626agMphqSZo0q) | 6:08 |
 | 49 | [Shiram](https://open.spotify.com/track/0uGaVwnmp6LyyzVqiwIonY) | [The Brandy Alexanders](https://open.spotify.com/artist/3oavfsOsh6xtZwNAg15zp0) | [Shiram](https://open.spotify.com/album/1eAKIlk3VDOEUF59MkQQz1) | 2:45 |
-| 50 | [Castaway Angels](https://open.spotify.com/track/3Gy5q1K4nTwDVVtyQWYv3t) | [Leprous](https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5) | [Castaway Angels](https://open.spotify.com/album/0DSyIQMgYhiwjeh7PW2IRB) | 0:29 |
+| 50 | [Castaway Angels](https://open.spotify.com/track/3Gy5q1K4nTwDVVtyQWYv3t) | [Leprous](https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5) | [Castaway Angels](https://open.spotify.com/album/0DSyIQMgYhiwjeh7PW2IRB) | 4:55 |
 | 51 | [New Obsession](https://open.spotify.com/track/1WotDZTlWaQefZlyDgDqVT) | [Pure Reason Revolution](https://open.spotify.com/artist/0DauHVRiE8SpGWxW0YINj3) | [New Obsession](https://open.spotify.com/album/2bDVCWxixrwLP9h8hShlGQ) | 5:07 |
 | 52 | [KING GHOST](https://open.spotify.com/track/0ZAvLVvtW8kOxMh0ZtSw9r) | [Steven Wilson](https://open.spotify.com/artist/4X42BfuhWCAZ2swiVze9O0) | [KING GHOST](https://open.spotify.com/album/0wrhpT6H9KiWdgzMfmXMN8) | 4:06 |
 | 53 | [The Way Out](https://open.spotify.com/track/1sgINNcxXjmv51Urc8Fgm3) | [Vinicius Cavalieri](https://open.spotify.com/artist/2GFH65OfEiNfR6TgZ8b3eL), [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [The Way Out](https://open.spotify.com/album/3LG6v76h4WjsbtvgOVjb1g) | 3:53 |
 | 54 | [Punchin'](https://open.spotify.com/track/1VhH0ZimszA3aPx0JiBAvb) | [The Beefs](https://open.spotify.com/artist/05Q0d2MnKH75xfeXzGDPnX) | [Punchin'](https://open.spotify.com/album/1Mcvljl7BijHztqsa9xFHL) | 3:04 |
 | 55 | [Seed II](https://open.spotify.com/track/5lAmFZVvhNIPNXZepRV6jj) | [Coridian](https://open.spotify.com/artist/0lR9RQShdwXD9IW4V7veyR) | [Eldur](https://open.spotify.com/album/5dHZIxKULdDDF2QfXGADVN) | 3:20 |
-| 56 | [Lonely City](https://open.spotify.com/track/3K2xMzzdy0xInRejjFa1zp) | [Chain Reaktor](https://open.spotify.com/artist/4nzvCySNE90I8Vc16KHsUR) | [Lonely City](https://open.spotify.com/album/2NKJKVeHiAehVJv1JBQZ7Z) | 0:29 |
+| 56 | [Lonely City](https://open.spotify.com/track/3K2xMzzdy0xInRejjFa1zp) | [Chain Reaktor](https://open.spotify.com/artist/4nzvCySNE90I8Vc16KHsUR) | [Lonely City](https://open.spotify.com/album/2NKJKVeHiAehVJv1JBQZ7Z) | 4:59 |
 | 57 | [Unravel](https://open.spotify.com/track/0unnpj2MpDXOz55oupWYUX) | [The Anchoress](https://open.spotify.com/artist/2Z4qmyxotDkAbZ0TpXyZyw) | [Unravel](https://open.spotify.com/album/5tySygjYcKLgDRfcpiynrB) | 4:04 |
 | 58 | [Spectre At The Feast](https://open.spotify.com/track/0w12uUjKKiSYhR1gKXpnHp) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Spectre At The Feast](https://open.spotify.com/album/1Px3a4tbFV1DUZJg6LfoML) | 4:18 |
 | 59 | [Suffering](https://open.spotify.com/track/3awtlr6uIsrUvZr1SCeQN0) | [pg.lost](https://open.spotify.com/artist/6YK58h9BCYpFNv10fsMwoS) | [Suffering](https://open.spotify.com/album/2N3vxBj5sxogFtGTUU5BIG) | 5:51 |

@@ -1,12 +1,12 @@
 {
   "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP?si=xuSvLd0_R4eridg_tisTrQ\"> Maandy</a> ",
-  "num_followers": 11601,
+  "num_followers": 11642,
   "original_name": "Gengetone Fire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjYyMjc0MCwwMDAwMDA0YTAwMDAwMTgxYjY2OGYyYzMwMDAwMDE4MTkxMGZiOGY5",
+  "snapshot_id": "MTY1NjY0NzY4NSwwMDAwMDA0YjAwMDAwMTgxYjdlNTk1MDAwMDAwMDE4MTkxMGZiOGY5",
   "tracks": [
     {
       "added_at": "2022-06-30 20:59:00",
@@ -105,6 +105,30 @@
       "url": "https://open.spotify.com/track/7awoDNq8TDADZwXoqiafsK"
     },
     {
+      "added_at": "2022-07-01 03:54:45",
+      "album": {
+        "name": "Dweet",
+        "url": "https://open.spotify.com/album/12jVz1pJQCLOXynE9s93rZ"
+      },
+      "artists": [
+        {
+          "name": "Trio Mio",
+          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
+        },
+        {
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+        },
+        {
+          "name": "Masauti",
+          "url": "https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Dweet",
+      "url": "https://open.spotify.com/track/3dyAWk6B82ImpE2qco0jLi"
+    },
+    {
       "added_at": "2022-02-24 20:59:00",
       "album": {
         "name": "Usiniharibie Mood",
@@ -116,7 +140,7 @@
           "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 160151,
       "name": "Usiniharibie Mood",
       "url": "https://open.spotify.com/track/5OflrN0O5MUtruSRH3KILR"
     },
@@ -760,7 +784,7 @@
           "url": "https://open.spotify.com/artist/4ePK3JSaxcq2ZeulZlkERH"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 288333,
       "name": "Shamra Shamra - Remix",
       "url": "https://open.spotify.com/track/4KTtFRBpLBZdxt0jU5wGgZ"
     },
@@ -904,7 +928,7 @@
           "url": "https://open.spotify.com/artist/1F6HFgzRxozLXpqb188uD7"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 252264,
       "name": "Mbona Depression",
       "url": "https://open.spotify.com/track/30dkiusOfYnXcuw0r7rJYS"
     },
@@ -1383,38 +1407,6 @@
       "duration_ms": 230204,
       "name": "Kalale",
       "url": "https://open.spotify.com/track/4x1dXhe2guntPZFNckJ7fz"
-    },
-    {
-      "added_at": "2022-01-27 20:59:00",
-      "album": {
-        "name": "Kajanja (Official)",
-        "url": "https://open.spotify.com/album/2OB91REOYQS8sReai2Cjuh"
-      },
-      "artists": [
-        {
-          "name": "Mastar Vk",
-          "url": "https://open.spotify.com/artist/7dVjLO6kMF0Fci2JTKZpfB"
-        },
-        {
-          "name": "Iano Ranking",
-          "url": "https://open.spotify.com/artist/09iTULFuj81QbYSC73ebg4"
-        },
-        {
-          "name": "Shagwah",
-          "url": "https://open.spotify.com/artist/72LIkIUc7FItCueQeOahOT"
-        },
-        {
-          "name": "Hitman Kaht",
-          "url": "https://open.spotify.com/artist/1jgOTjEFAogfS8VDFbsO16"
-        },
-        {
-          "name": "Kappy",
-          "url": "https://open.spotify.com/artist/3PIoXwvrGzymznU310leDR"
-        }
-      ],
-      "duration_ms": 218131,
-      "name": "Kajanja - Official",
-      "url": "https://open.spotify.com/track/1g6ZelaQU0nu4hIwxLpwhN"
     },
     {
       "added_at": "2022-01-27 20:59:00",

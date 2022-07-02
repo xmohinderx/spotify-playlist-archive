@@ -4,7 +4,7 @@
 
 > 
 
-28 songs - 1 hr 48 min - [published](https://open.spotify.com/playlist/6XJHUquAUziywKsbQaaqwm)
+28 songs - 1 hr 51 min - [published](https://open.spotify.com/playlist/6XJHUquAUziywKsbQaaqwm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Parachutes](https://open.spotify.com/track/4qzoHxgp42ylb18ga1SWTL) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 0:46 | 2013-06-17 |  |
 | [Poppin' My Collar](https://open.spotify.com/track/4uXmPyb5Lk6ETxnMTuvL1G) | [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT) | [Most Known Unknown \(Explicit\)](https://open.spotify.com/album/0kTLdP4XPeJGsbr2L8ikyF) | 2:56 | 2013-06-17 |  |
 | [Proof](https://open.spotify.com/track/4z0j9VwgnoBKZER0dcii1Z) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [The Rhythm Of The Saints](https://open.spotify.com/album/08tZq3FDsspdU6ycn8Jl2o) | 4:39 | 2013-06-18 |  |
-| [Sarotra](https://open.spotify.com/track/3UbRUV6PUcpXOyFxT2oEj8) | [Les Smockers](https://open.spotify.com/artist/777lix3zDD7MCvk4NtWMb2) | [Current Popular Music Of Madagascar](https://open.spotify.com/album/4oDprKxbVn0E4WrjDGzwFh) | 0:29 | 2013-06-17 |  |
+| [Sarotra](https://open.spotify.com/track/3UbRUV6PUcpXOyFxT2oEj8) | [Les Smockers](https://open.spotify.com/artist/777lix3zDD7MCvk4NtWMb2) | [Current Popular Music Of Madagascar](https://open.spotify.com/album/4oDprKxbVn0E4WrjDGzwFh) | 3:53 | 2013-06-17 |  |
 | [Save it For Later](https://open.spotify.com/track/0Y6c59aGO4SjWxsGbEUcXj) | [The Beat](https://open.spotify.com/artist/4R90PNicCsCsEoRm8XwiMS) | [Special Beat Service \[Deluxe Edition\]](https://open.spotify.com/album/1TOV6GdlrNrA6Tc6ulc4u0) | 3:33 | 2013-06-17 |  |
 | [Simplemente Te Amo](https://open.spotify.com/track/5kAyNBcffTUM2yknXgfoZM) | [Anthony](https://open.spotify.com/artist/3Kpr4lOx0idpHb9SqmWE02) | [Al Descubierto](https://open.spotify.com/album/7tlMa1HXhq3I3hFE10YwF1) | 4:59 | 2013-06-18 |  |
 | [The Longest Time](https://open.spotify.com/track/5EVI0LISbEcd9Ocn6Hbpr0) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Essential Billy Joel](https://open.spotify.com/album/6Ko9HYZA5I5E08xlM89SjG) | 3:38 | 2013-06-17 |  |

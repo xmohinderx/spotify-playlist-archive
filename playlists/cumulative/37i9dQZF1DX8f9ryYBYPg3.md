@@ -4,7 +4,7 @@
 
 > Welcome to Hypnosismic, a series of Japanese rap battle projects featuring 18 voice actors, each acting out unique anime characters\. 男性声優キャララップバトル、ヒプノシスマイク」公式プレイリスト！© King Record Co., Ltd\. All rights reserved.
 
-137 songs - 23 hr 23 min - [published](https://open.spotify.com/playlist/72Z7jqJ6lZpGwHfNeDkzti)
+137 songs - 23 hr 26 min - [published](https://open.spotify.com/playlist/72Z7jqJ6lZpGwHfNeDkzti)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [drops](https://open.spotify.com/track/0WhtNiffBKTgsLPP0y3opD) | [Hypnosis Mic \-D.R.B.\- \(Fling Posse\)](https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99), [ヒプノシスマイク \-D.R.B\- \(飴村乱数\)](https://open.spotify.com/artist/0oVhaLxRCPaOWacVjswYPv) | [Fling Posse \-F.P.S.M\-](https://open.spotify.com/album/2JILUvLYmUPwVVWavanNIm) | 4:41 | 2022-06-09 |  |
 | [FACES](https://open.spotify.com/track/5fyv8ggkDjaDgyTFiI7kSw) | [ヒプノシスマイク \-D.R.B\- \(どついたれ本舗\)](https://open.spotify.com/artist/0TzkULUsbQERyIc1LUiqQY), [ヒプノシスマイク \-D.R.B\- \(天谷奴零\)](https://open.spotify.com/artist/3j9cvtcrO6KgtFGnjySeHM) | [あゝオオサカdreamin'night](https://open.spotify.com/album/1vgwIdCgqnRbyqeZq1D9nX) | 4:01 | 2022-06-09 |  |
 | [Fallin'](https://open.spotify.com/track/4qU7s8kLI18bw6JNQcDJjA) | [ヒプノシスマイク \-D.R.B\- Rhyme Anima\(麻天狼\)](https://open.spotify.com/artist/2AT6gFE6PkBts8KDBzGpZy) | [Straight Outta Rhyme Anima](https://open.spotify.com/album/7FETrOg3fuRUyFQdFPwXDV) | 2:58 | 2022-06-09 |  |
-| [Femme Fatale](https://open.spotify.com/track/5xjNH4sro043o7sEMamIc8) | [ヒプノシスマイク \-D.R.B\- \(中王区 言の葉党\)](https://open.spotify.com/artist/50a4H3hGs6sNLYCsLUsKgV) | [Femme Fatale](https://open.spotify.com/album/1TpfwmIabNeeZb3zpXzHaN) | 0:29 | 2022-06-09 |  |
+| [Femme Fatale](https://open.spotify.com/track/5xjNH4sro043o7sEMamIc8) | [ヒプノシスマイク \-D.R.B\- \(中王区 言の葉党\)](https://open.spotify.com/artist/50a4H3hGs6sNLYCsLUsKgV) | [Femme Fatale](https://open.spotify.com/album/1TpfwmIabNeeZb3zpXzHaN) | 3:35 | 2022-06-09 |  |
 | [Fight 4 Your Pride \-Rule the Stage track.4\-](https://open.spotify.com/track/33jyrMw5VYcVtqRWlnnl53) | [ヒプノシスマイク \-D.R.B\- Rule the Stage \(Buster Bros!!!\)](https://open.spotify.com/artist/4J4zLvDw7X94FTgECxiJcn), [ヒプノシスマイク \-D.R.B\- Rule the Stage \(MAD TRIGGER CREW\)](https://open.spotify.com/artist/5PLtK0RYZ3vNnVKMkXdir2), [ヒプノシスマイク \-D.R.B\- Rule the Stage \(Fling Posse\)](https://open.spotify.com/artist/0SQXfCG5naWZNPNCmIrERU), [ヒプノシスマイク \-D.R.B\- Rule the Stage \(麻天狼\)](https://open.spotify.com/artist/1yGa2YbxSV0Nxx8MdqQ8QD) | [Fight 4 Your Pride \-Rule the Stage track.4\-](https://open.spotify.com/album/3eWdhHmoAVdFQYDTJZXbsQ) | 6:55 | 2022-06-09 |  |
 | [G anthem of Y\-CITY](https://open.spotify.com/track/7ro6kuWAn4AvaRXOIM0z5d) | [Hypnosis Mic \-D.R.B.\- \(MAD TRIGGER CREW\)](https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g), [ヒプノシスマイク \-D.R.B\- \(碧棺左馬刻\)](https://open.spotify.com/artist/30Wq8ge0CioxnqqSvxJ562) | [BAYSIDE M.T.C](https://open.spotify.com/album/6qEjMyfSTCsx5QdkLZu6vQ) | 3:12 | 2022-06-09 |  |
 | [Gangsta's Paradise](https://open.spotify.com/track/5nh322AZlmx6Zg3NHZduz3) | [Hypnosis Mic \-D.R.B.\- \(MAD TRIGGER CREW\)](https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g), [ヒプノシスマイク \-D.R.B\- \(碧棺左馬刻\)](https://open.spotify.com/artist/30Wq8ge0CioxnqqSvxJ562) | [MAD TRIGGER CREW \-Before The 2nd D.R.B\-](https://open.spotify.com/album/0fSy2HGWigmebFGtMvUTAk) | 3:03 | 2022-06-09 |  |

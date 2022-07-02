@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTBzNcDowKf.md) - [plain]
 
 > Listen to all of the music from the Minions and Despicable Me movies!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,125 likes - 38 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,331 likes - 38 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Born To Be Alive \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/3xfa9a3Qir4ybQRbvHBVLH) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Born To Be Alive \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/04Qwy7yFfUd6o9prhAFCU3) | 3:12 |
 | 2 | [Shining Star \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/6Lp3RzF26KEHtRKEsAIoiw) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB), [Verdine White](https://open.spotify.com/artist/4tMJliVd96wXoMVNdcOBHp) | [Shining Star \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/3lSQ4O8nvG0NT8q962HP2A) | 2:52 |
-| 3 | [Bang Bang \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/0FxfaDH6ruPoKfIgpjY68b) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [Bang Bang \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/2xyqCXLirxQrARCU7wCIKe) | 2:19 |
+| 3 | [Bang Bang \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/0FxfaDH6ruPoKfIgpjY68b) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [Bang Bang \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/2xyqCXLirxQrARCU7wCIKe) | 2:18 |
 | 4 | [Vehicle \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/6sBErahr0v0QRvwboz1oSl) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Vehicle \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/1kGXvzn5iUfVOUl1jNyNeh) | 2:55 |
 | 5 | [Dance To The Music \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/5PB5GPADqc74DvB6vxhD3I) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Dance To The Music \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/1dAzt59wZ2lkkJNgecsO1a) | 2:43 |
 | 6 | [Black Magic Woman \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/1APa50Daw6xc3mgNWLA6BS) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Black Magic Woman \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/3JAjdEVXggoXUSExBBFBnY) | 4:09 |

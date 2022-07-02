@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: LUNA
 
-137 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
+137 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2022-06-09 |  |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-06-09 | 2022-06-14 |
 | [Frozen \(feat\. 070 Shake\)](https://open.spotify.com/track/34itnB3u4NTwj9ctVfiPmC) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Frozen \(feat\. 070 Shake\)](https://open.spotify.com/album/78zdwUAgBJyjPjwYAMSUDD) | 2:19 | 2022-06-09 | 2022-06-14 |
-| [FU In My Head](https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [FU In My Head](https://open.spotify.com/album/02FPQ0z3Xm5PkzTulKcfKT) | 0:29 | 2022-06-09 |  |
+| [FU In My Head](https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [FU In My Head](https://open.spotify.com/album/02FPQ0z3Xm5PkzTulKcfKT) | 2:47 | 2022-06-09 |  |
 | [FUXK \(feat\. Ski Mask the Slump God\)](https://open.spotify.com/track/2y55JzTDe2kFDChkBZUOUS) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 2:40 | 2022-06-09 | 2022-06-14 |
 | [GL +3](https://open.spotify.com/track/5liQ5heZoAB6ohWhpdVWPa) | [YUGO](https://open.spotify.com/artist/05ygKFPjfiChHhQSx5Y9Y2), [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [GL +3](https://open.spotify.com/album/0JBJEu7kyFBmygxp9l1KO1) | 2:39 | 2022-06-09 |  |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-20 | 2022-07-01 |
@@ -79,7 +79,7 @@
 | [Keine Party](https://open.spotify.com/track/2Q6kqdBSFM1syeJF3lgwOK) | [Selmon](https://open.spotify.com/artist/0hKUUP3J5Dc69cQur3U2nV), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [Jumpa](https://open.spotify.com/artist/4Xz5sxFWivrXWQlDlO25is) | [Keine Party](https://open.spotify.com/album/7tM91ivOKJxsfEymX1TICl) | 2:50 | 2022-06-09 | 2022-06-14 |
 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 | 2022-06-09 |  |
 | [Lady \- Hear Me Tonight](https://open.spotify.com/track/70HxNVlYQ0Hi6XqBtPLw80) | [Modjo Band](https://open.spotify.com/artist/1AdYlfQl6hOOHlVnc02cah) | [Modjo Band \(Remastered\)](https://open.spotify.com/album/5Fvk2oTQGmVkFbhMnB8Qca) | 5:07 | 2022-06-09 |  |
-| [Late To Da Party \(feat\. Youngboy Never Broke Again\)](https://open.spotify.com/track/3GbQcjKWT7eVpUfzqwUjxv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Late To Da Party \(feat\. Youngboy Never Broke Again\)](https://open.spotify.com/album/0KmzOXbNJa5oTpxdCBhmHd) | 3:00 | 2022-06-23 |  |
+| [Late To Da Party \(F\*CK BET\) \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/3GbQcjKWT7eVpUfzqwUjxv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Late To Da Party \(F\*CK BET\) \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/0KmzOXbNJa5oTpxdCBhmHd) | 3:00 | 2022-06-23 |  |
 | [Leben ist zu kurz um Angst zu haben](https://open.spotify.com/track/2Rh89ij1q0U3r1qJUaWUHz) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Pass dich nie an, Pass auf dich auf](https://open.spotify.com/album/0O0Ex2MfhZxODJo26RIP30) | 2:25 | 2022-06-16 |  |
 | [Living Life, In The Night](https://open.spotify.com/track/6ChnGkBwnq2HUJD24YhMhW) | [Cheriimoya](https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX), [Sierra Kidd](https://open.spotify.com/artist/0U7ti3mwGrBNlKNE4YlbfT) | [Living Life, In The Night](https://open.spotify.com/album/1YgzO5Y6YxzXoHN2yCZIpD) | 2:02 | 2022-06-09 |  |
 | [LOS](https://open.spotify.com/track/4RN73rrQqwQuBKjKoJXMrH) | [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v) | [LOS](https://open.spotify.com/album/38gQNy7vEgrwsMn9SLRXjo) | 3:25 | 2022-06-16 | 2022-06-24 |

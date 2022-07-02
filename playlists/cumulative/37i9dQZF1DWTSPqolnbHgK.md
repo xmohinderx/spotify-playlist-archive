@@ -4,12 +4,12 @@
 
 > With autumn comes darker days and colder weather.
 
-134 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/0ZYpBWkMbWIgKuZRtQFkdd)
+134 songs - 9 hr 29 min - [published](https://open.spotify.com/playlist/0ZYpBWkMbWIgKuZRtQFkdd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Drop In The Ocean](https://open.spotify.com/track/4ea3AmukxE51LpUlmI1DcC) | [Landscapes Of Joy](https://open.spotify.com/artist/0D84atg0DW6sSSakLtQA99) | [Dreaming Of The Horizon](https://open.spotify.com/album/1W1RRw9eeGuoxoAhdr6APP) | 4:53 | 2019-10-07 |  |
-| [A Thousand Years \- Lounge Mix](https://open.spotify.com/track/6oAEaetwv2uPyfhrGAHXnf) | [Barfalk](https://open.spotify.com/artist/2uUFr8KWQGrg4XQ86wxxqO), [Honey Belle Pears](https://open.spotify.com/artist/00ftJM3LBf1E5uoGPe5bz2) | [Wedding/Boda Lounge \(Vol 1\)](https://open.spotify.com/album/2wG8ZvuasMAkyv8tSGhPIC) | 0:29 | 2019-10-07 |  |
+| [A Thousand Years \- Lounge Mix](https://open.spotify.com/track/6oAEaetwv2uPyfhrGAHXnf) | [Barfalk](https://open.spotify.com/artist/2uUFr8KWQGrg4XQ86wxxqO), [Honey Belle Pears](https://open.spotify.com/artist/00ftJM3LBf1E5uoGPe5bz2) | [Wedding/Boda Lounge \(Vol 1\)](https://open.spotify.com/album/2wG8ZvuasMAkyv8tSGhPIC) | 4:53 | 2019-10-07 |  |
 | [Abalone Cove](https://open.spotify.com/track/3KN3YtptG4i5pyXfpFU2RS) | [L.A\. Atmosphere](https://open.spotify.com/artist/3yMtbN4jtLkilLiilLT7h0) | [L.A\. Atmosphere](https://open.spotify.com/album/1qN74vtlw3ukUKEuZPWQhU) | 3:40 | 2019-10-07 |  |
 | [Abyss](https://open.spotify.com/track/5JDpprHM2zRg7bYDzGUKOr) | [Deep Divers](https://open.spotify.com/artist/7tGdyfb73OP7XB3hZNLUZL) | [Je Suis Neptune](https://open.spotify.com/album/7MtD5L7kRzVNOequRsk8n8) | 4:17 | 2019-10-07 |  |
 | [Acceptance](https://open.spotify.com/track/29fnMwA8A3OXtEp8LuIGkS) | [Light In The Night](https://open.spotify.com/artist/0VcRpSUeBrgCH1Qj8g7io5) | [Enzolin/Metafor](https://open.spotify.com/album/02ri4OGqlvQ1eyWnlCoiMi) | 3:31 | 2019-10-07 |  |
@@ -81,9 +81,9 @@
 | [Lazy Days](https://open.spotify.com/track/2CjQadRHjMyUsJDi3P2pQP) | [Uniq](https://open.spotify.com/artist/4bb4qHR1Nl65kHOqtK3unm), [A&J](https://open.spotify.com/artist/7bls5wO56OdhDj3hYIfWd2) | [By The Seaside \(Vol 2\)](https://open.spotify.com/album/0g8FK5yjAMJoUiZDPi8bYX) | 3:38 | 2019-10-07 |  |
 | [Le Manifeste](https://open.spotify.com/track/0x61nzsjrtdkL4PNG4XxXg) | [Givenchy](https://open.spotify.com/artist/1aFxylC9yg8cev7ALY5gM1) | [La Naissance De La Vie](https://open.spotify.com/album/2J2U6bVwpfVuNbnrtOImpp) | 4:49 | 2019-10-07 |  |
 | [Life Cykles](https://open.spotify.com/track/1K5AeX3Jz7kcLtLS4QAomn) | [Falling Flowers](https://open.spotify.com/artist/2pdcuLFCOk75ZlIeRqjOlY) | [Eternal Winds](https://open.spotify.com/album/0jphDssu1GRAfyucyp9WBz) | 3:56 | 2019-10-07 |  |
-| [Lifeline \- Spa Version](https://open.spotify.com/track/5qZzkhTtNx5T7hkXr2coqH) | [Melwin Z](https://open.spotify.com/artist/1bdJoMs9DTrrf9K2BZBhTD) | [Lifeline](https://open.spotify.com/album/60BHb0t1LKlwo168CcTKej) | 0:29 | 2019-10-07 |  |
+| [Lifeline \- Spa Version](https://open.spotify.com/track/5qZzkhTtNx5T7hkXr2coqH) | [Melwin Z](https://open.spotify.com/artist/1bdJoMs9DTrrf9K2BZBhTD) | [Lifeline](https://open.spotify.com/album/60BHb0t1LKlwo168CcTKej) | 3:54 | 2019-10-07 |  |
 | [Lips in motion](https://open.spotify.com/track/5iAxhHxcKg9qjejLfj9am5) | [Falling Flowers](https://open.spotify.com/artist/2pdcuLFCOk75ZlIeRqjOlY) | [Eternal Winds](https://open.spotify.com/album/0jphDssu1GRAfyucyp9WBz) | 3:56 | 2019-10-07 |  |
-| [Listen To Your Soul](https://open.spotify.com/track/3aLtpuIBWobnJ5O1n8EpR1) | [High Flyers](https://open.spotify.com/artist/5MObop57iZqWE3o1nXtFVc) | [Fly With Me](https://open.spotify.com/album/3jw3aOwpCYR38l4ca35zQq) | 0:29 | 2019-10-07 |  |
+| [Listen To Your Soul](https://open.spotify.com/track/3aLtpuIBWobnJ5O1n8EpR1) | [High Flyers](https://open.spotify.com/artist/5MObop57iZqWE3o1nXtFVc) | [Fly With Me](https://open.spotify.com/album/3jw3aOwpCYR38l4ca35zQq) | 3:50 | 2019-10-07 |  |
 | [Living Stones](https://open.spotify.com/track/4K2Gz8DzhVZ4Ja4vlxWi2C) | [KiloWatts](https://open.spotify.com/artist/6bfMuPt1W4fIDD0nIR7ea2) | [Seven Succulents](https://open.spotify.com/album/3BEF1oNx2m4dHR8tgpqxvz) | 6:17 | 2019-10-07 |  |
 | [Lounge de Reveur](https://open.spotify.com/track/2PKXBJC3Yewk65fBXmTTlq) | [Lounge De Reveur](https://open.spotify.com/artist/1dkoBt6NI3jMVTZfguYVO2) | [La Lumière](https://open.spotify.com/album/2raWNBdYLR0h0mXheWX0ej) | 4:55 | 2019-10-07 |  |
 | [Love Supreme \- Lovelight Mix](https://open.spotify.com/track/7njkWZb9K3oEPXGhkiWSea) | [Christian Hornbostel](https://open.spotify.com/artist/2q2lnF9Vc1tio0AGOPFJ78) | [Solanos Presents Bar Chill Out Collection With Friends](https://open.spotify.com/album/2cmhEdPpprx02H0kL6yMkP) | 4:19 | 2019-10-07 |  |

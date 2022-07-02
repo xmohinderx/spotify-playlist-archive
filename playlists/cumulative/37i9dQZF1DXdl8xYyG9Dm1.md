@@ -4,7 +4,7 @@
 
 > The latest straight bars and Afro\-Trap\. Cover: <a href="https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl?si=17D5os5nRTmcgz0TVmNZyQ"> Falz </a>
 
-108 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/6lFDRmAzLffN6r39zEBvaL)
+109 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/6lFDRmAzLffN6r39zEBvaL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Take My Losses](https://open.spotify.com/track/2rdOsy3zOycov3yZb8y733) | [M3NSA](https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s) | [BONDZIE](https://open.spotify.com/album/73EY9M5qvGZY1UGBXfDBeu) | 3:21 | 2021-10-22 |  |
 | [That Chick \(feat\. Money Badoo\)](https://open.spotify.com/track/5w6n5yb6UPcxz20naEYHlN) | [Faith K](https://open.spotify.com/artist/1KuWBR8nefjdxXkdWvWY0E), [Money Badoo](https://open.spotify.com/artist/3RLZh7s3TdS5bL08ATw7Ba) | [Nangena](https://open.spotify.com/album/7hWvhVZIutFixBf5g62C4f) | 2:18 | 2022-03-04 | 2022-04-22 |
 | [THE 5 YEAR PLAN](https://open.spotify.com/track/4fNGCGYkLvh6zX1bKxs79h) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Wordz](https://open.spotify.com/artist/7IPFplrxamAhezF49BeCsQ) | [THE 5 YEAR PLAN](https://open.spotify.com/album/1sNPyElQ3dJQ7rYTkTQz1S) | 3:20 | 2021-10-14 | 2022-04-01 |
+| [This Life](https://open.spotify.com/track/7apKD9mYK4mD1qR0lHgxAF) | [Imadh](https://open.spotify.com/artist/0TOKFUBpQUqy5njsggfDUb), [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl) | [This Life](https://open.spotify.com/album/7Jpo8hdYQsZWsjpMv8UXRx) | 4:00 | 2022-06-30 |  |
 | [tufF lucK](https://open.spotify.com/track/05ckeXjGCNBEBcPxtefZjx) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR), [BLUE TAPE](https://open.spotify.com/artist/4y5YjEYnpEqsjHnPEN30UK) | [tufF lucK](https://open.spotify.com/album/4bOwdHNy1wXRKNdhMRpscl) | 3:40 | 2021-12-09 |  |
 | [Tycoon](https://open.spotify.com/track/1hS2xmC5qJ8R534RiLw07k) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Mojo](https://open.spotify.com/artist/7sCNOLD0NCCcWvWphFUKcF) | [Clone Wars Vol\. 5 \- The Algorhythm](https://open.spotify.com/album/1ogcYw7K6AZzR52ZuT811b) | 3:58 | 2021-10-14 |  |
 | [umoya](https://open.spotify.com/track/5Mg5kfEzI7stnjNoXHyaUC) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [4LUV](https://open.spotify.com/album/2SGGNsEIuL5zM0NHiO5dBd) | 4:31 | 2022-02-17 | 2022-06-10 |

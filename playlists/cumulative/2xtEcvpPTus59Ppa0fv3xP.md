@@ -4,7 +4,7 @@
 
 > 
 
-50 songs - 3 hr 28 min - [published](https://open.spotify.com/playlist/2YVPXB54lwlP5akqkS6qJS)
+50 songs - 3 hr 35 min - [published](https://open.spotify.com/playlist/2YVPXB54lwlP5akqkS6qJS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Lady](https://open.spotify.com/track/2Pw0QFsYk7HvX9GLXAw6Y1) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [70's Hits](https://open.spotify.com/album/2uRb5ak9Qyo1nhlTViw8MZ) | 4:56 | 2013-06-27 |  |
 | [Le Freak \- Edit](https://open.spotify.com/track/6Lphpr9Z6H282Sguw0dUWa) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Les Plus Grands Success De Chic \- Chic's Greatest Hits](https://open.spotify.com/album/0VpPfXytCLshrjZFHKQHyc) | 3:35 | 2013-06-27 |  |
 | [Lead Me On](https://open.spotify.com/track/2RgosPJAIbwCgA7XpTEf4A) | [Maxine Nightingale](https://open.spotify.com/artist/6jQ9UtYXqNfVnPkrH1Xxwi) | [Lead Me On](https://open.spotify.com/album/6qDupK8hZjVBIvVhLGg37B) | 2:45 | 2013-06-27 |  |
-| [Lotta Love](https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo) | [Nicolette Larson](https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw) | [Nicolette](https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu) | 0:29 | 2013-06-27 |  |
+| [Lotta Love](https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo) | [Nicolette Larson](https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw) | [Nicolette](https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu) | 3:11 | 2013-06-27 |  |
 | [Love You Inside Out \- 2009 Remastered Version](https://open.spotify.com/track/6sPTRqvvCcXAvQgjq8tc8T) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [The Ultimate Bee Gees](https://open.spotify.com/album/3JXTUy5Ccdpe79HUgUiMF9) | 4:10 | 2013-06-27 |  |
 | [MacArthur Park \- Single Version](https://open.spotify.com/track/3sGIwMgana3sZUWxJr8wfq) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Donna Summer: Gold](https://open.spotify.com/album/2BAwRRH1wXEK5rHvGlPFEO) | 6:28 | 2013-06-27 |  |
 | [Makin' It \(Re\-Recorded\)](https://open.spotify.com/track/035Ag6mdG1EWFZvgdnK8lK) | [David Naughton](https://open.spotify.com/artist/6vFCfSDEGGjyLpkMa1YhBE) | [Makin' It \(Re\-Recorded\) \- Single](https://open.spotify.com/album/0yoPn5qKwBRkR79QE9mXZB) | 3:09 | 2013-06-27 |  |
@@ -49,7 +49,7 @@
 | [Stumblin' In](https://open.spotify.com/track/6L1Ay5OhRH2Yz38Aa4QZio) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ), [Chris Norman](https://open.spotify.com/artist/2Pawr6MMX9VBIQ9oUHg7jc) | [Greatest Hits](https://open.spotify.com/album/5nYV40TZexPdHRB5Rwb4bU) | 3:59 | 2013-06-27 |  |
 | [The Devil Went Down To Georgia](https://open.spotify.com/track/6KjJGpDZ4wdshirWmqBcT3) | [The Charlie Daniels Band](https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca) | [Outlaws Super Hits](https://open.spotify.com/album/5u2ImNDyprfiy8nuVt6Uw5) | 3:34 | 2013-06-27 |  |
 | [The Gambler](https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [The Gambler](https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ) | 3:34 | 2013-06-27 |  |
-| [The Logical Song \- Remastered 2010](https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America \(Deluxe Edition\)](https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna) | 0:29 | 2013-06-27 |  |
+| [The Logical Song \- Remastered 2010](https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America \(Deluxe Edition\)](https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna) | 4:11 | 2013-06-27 |  |
 | [The Main Event/Fight](https://open.spotify.com/track/2g5jMKl1csCP8Ufp1rUnqC) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [The Essential Barbra Streisand](https://open.spotify.com/album/03LP0iA5hWsCVeDFHMV7Z8) | 4:53 | 2013-06-27 |  |
 | [Too Much Heaven \- 2009 Remastered Version](https://open.spotify.com/track/7rhoAJWAWAyHwSEdH3jqYy) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [The Ultimate Bee Gees](https://open.spotify.com/album/3JXTUy5Ccdpe79HUgUiMF9) | 4:55 | 2013-06-27 |  |
 | [Tragedy \- 2009 Remastered Version](https://open.spotify.com/track/0zGvSirIs0OfXOgBBAGNW3) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [The Ultimate Bee Gees](https://open.spotify.com/album/3JXTUy5Ccdpe79HUgUiMF9) | 5:02 | 2013-06-27 |  |

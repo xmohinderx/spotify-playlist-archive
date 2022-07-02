@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z">Tiësto</a>'s best songs, remixes and compilations.
 
-197 songs - 13 hr 30 min - [published](https://open.spotify.com/playlist/03RH7S0ADURkwFOlyAwV7I)
+197 songs - 13 hr 32 min - [published](https://open.spotify.com/playlist/03RH7S0ADURkwFOlyAwV7I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Love and Run](https://open.spotify.com/track/1SbTJy0WIlAifijEpGd7hw) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Mark Alston](https://open.spotify.com/artist/55LAgmu5JoT54oEhWAek3r), [BAGGI](https://open.spotify.com/artist/2YMB0FGsysOP5wOGJpXZom), [Jason Taylor](https://open.spotify.com/artist/0Po6fBwj4MdkVxXr2PeHN4), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [Club Life, Vol\. 3 \- Stockholm \(Spotify Exclusive\)](https://open.spotify.com/album/4WGxTGkyuhM6sKj3QbhHnd) | 5:25 | 2020-10-20\* |  |
 | [Love Comes Again](https://open.spotify.com/track/4D869p0uPTcU4e1ClLB8Kj) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL) | [Just Be](https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA) | 8:09 | 2020-10-20\* |  |
 | [Make Some Noise \(feat\. Ben McInerney of New Navy\) \[Original Mix\]](https://open.spotify.com/track/0U3ka1N57KxtKxcnWMwYCB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Swanky Tunes](https://open.spotify.com/artist/06cLuOP0p7VAnBnqil1eWX), [Ben McInerney](https://open.spotify.com/artist/6UW7wc3N5udjrZpczcHlPI) | [Club Life \- Volume 2 Miami](https://open.spotify.com/album/5P21DkmdD7MiWR05Mde1Cc) | 5:59 | 2020-10-20\* |  |
-| [Making Me Dizzy](https://open.spotify.com/track/2LTl57FB0Q8rf8OtuWpl1V) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Bobby Puma](https://open.spotify.com/artist/31HZjRPeEasjNH9MCgNW1N) | [Making Me Dizzy](https://open.spotify.com/album/0c2NWt5RqMp05OOHN5eg9h) | 0:29 | 2020-10-20\* |  |
+| [Making Me Dizzy](https://open.spotify.com/track/2LTl57FB0Q8rf8OtuWpl1V) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Bobby Puma](https://open.spotify.com/artist/31HZjRPeEasjNH9MCgNW1N) | [Making Me Dizzy](https://open.spotify.com/album/0c2NWt5RqMp05OOHN5eg9h) | 3:08 | 2020-10-20\* |  |
 | [Malibu \- Tiësto Remix](https://open.spotify.com/track/7FKcbKrAi4uiXosKMNTjQI) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Malibu \(Tiësto Remix\)](https://open.spotify.com/album/01ggQGlQ4i7SksCQ2fgLwn) | 3:19 | 2020-10-20\* |  |
 | [Mama \(feat\. Ellie Goulding\) \- Tiësto’s Big Room Remix](https://open.spotify.com/track/3Mong1BzxMKwTZ0SbfLdcQ) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Mama \(feat\. Ellie Goulding\) \[Tiësto’s Big Room Remix\]](https://open.spotify.com/album/4CdWEwelJIofGEEjSc62N9) | 2:36 | 2020-10-20\* |  |
 | [Maximal Crazy \(Original Mix\)](https://open.spotify.com/track/7aT2HFws6awkUXdrBAtIqR) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Club Life \- Volume 2 Miami](https://open.spotify.com/album/5P21DkmdD7MiWR05Mde1Cc) | 4:29 | 2020-10-20\* |  |

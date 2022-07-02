@@ -4,14 +4,14 @@
 
 > Sing along to these tunes about everything you can find on the farm.
 
-58 songs - 2 hr 13 min - [published](https://open.spotify.com/playlist/5uvSbxeDW7jtSCQFDcy7oO)
+58 songs - 2 hr 18 min - [published](https://open.spotify.com/playlist/5uvSbxeDW7jtSCQFDcy7oO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Little Tractors](https://open.spotify.com/track/0gLaaYkotQSXZKgl4S8MmL) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Counting Songs for Kids](https://open.spotify.com/album/0dlw2wtrVmAo6plmmVLFcy) | 1:56 | 2022-04-01 |  |
 | [Ba Ba Black Sheep](https://open.spotify.com/track/6rqY8aewgPpg4ILN96vo3f) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [Sing Along!](https://open.spotify.com/album/6tFVwNrOsPIeRYRfuvVfsy) | 2:07 | 2022-04-01 |  |
 | [Backyard Farm](https://open.spotify.com/track/1hvUviLSHwDiFngAtZMwcB) | [Jenn Cleary](https://open.spotify.com/artist/3Q3maBFeVNeYstxZOjHptS) | [All Together Now](https://open.spotify.com/album/0CKYcjCylFYsyYtfyEprNQ) | 3:13 | 2022-04-01 |  |
-| [Barn Dance](https://open.spotify.com/track/4WDPHvbfDKIqtegdF4EbuW) | [Eddie Cavazos](https://open.spotify.com/artist/1xhzwDZDi0W4GsYmqrlkkf) | [It's Okay to Be Different](https://open.spotify.com/album/5yYwOMPyby3PrJLtLjonKV) | 0:29 | 2022-04-01 |  |
+| [Barn Dance](https://open.spotify.com/track/4WDPHvbfDKIqtegdF4EbuW) | [Eddie Cavazos](https://open.spotify.com/artist/1xhzwDZDi0W4GsYmqrlkkf) | [It's Okay to Be Different](https://open.spotify.com/album/5yYwOMPyby3PrJLtLjonKV) | 3:15 | 2022-04-01 |  |
 | [Barndance](https://open.spotify.com/track/3qwpvveNMtQzOPqaHZg59x) | [Red Yarn](https://open.spotify.com/artist/13eFwXXIPS7klxrhNvU0jA) | [Red Yarn's Old Barn](https://open.spotify.com/album/2uS2KMdpasYe0AyAy1xBRh) | 2:25 | 2022-04-01 |  |
 | [Bobby the Tractor](https://open.spotify.com/track/3TJriEVT9hyuX6MGaYC4D2) | [Justine Clarke](https://open.spotify.com/artist/1r6nvWvnqJYcm8kW3cX1zQ) | [Pyjama Jam!](https://open.spotify.com/album/0lQyyeG2G7cCww6W4D1ooe) | 2:41 | 2022-04-01 |  |
 | [Buddy the Lazy Barn Dog](https://open.spotify.com/track/6b972XULBnNTBu1DVzFJGY) | [Wonderpop](https://open.spotify.com/artist/7iwQIhCOCbBS67PPd6UI9f) | [Volume 1](https://open.spotify.com/album/6bHKc2iHJjQ2KKDtxNlJcC) | 2:14 | 2022-04-01 |  |
@@ -31,7 +31,7 @@
 | [Good Morning, Farm Animals](https://open.spotify.com/track/2Uc4LVXQM6pVFPH3ehFv0e) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Dance Party!](https://open.spotify.com/album/304rgWamJDyKqMD8wDkgUf) | 3:34 | 2022-04-01 |  |
 | [Grandad's Farm](https://open.spotify.com/track/1q0M0S7deKtkgNn1FzrkR8) | [Judi Cranston](https://open.spotify.com/artist/2N2v15qhPA6Hxe3gwCgY0B) | [KindyRock: Hoedown](https://open.spotify.com/album/1Oj8AzncJtK1eQvA3RrVlY) | 2:28 | 2022-04-01 |  |
 | [Growing in My Garden](https://open.spotify.com/track/7qBRLNQ7Bg1nlJWNKCGHuC) | [Amber Lawrence](https://open.spotify.com/artist/3RyYW4bMFeTeQ2jjLZu4xg) | [The Kid's Gone Country 2 \- Fun for All the Family](https://open.spotify.com/album/47LmloBTiB7sDzZYLUuhja) | 1:54 | 2022-04-01 |  |
-| [Harvest Time](https://open.spotify.com/track/0GVreI7DlV8wpF3a1fRYfe) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Harvest Time](https://open.spotify.com/album/7Ib2xPIkvqDayE6em6wR8q) | 0:29 | 2022-04-01 |  |
+| [Harvest Time](https://open.spotify.com/track/0GVreI7DlV8wpF3a1fRYfe) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Harvest Time](https://open.spotify.com/album/7Ib2xPIkvqDayE6em6wR8q) | 2:38 | 2022-04-01 |  |
 | [Horses](https://open.spotify.com/track/5JDnPTV3q2KJiCDNtrejhU) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Nicky Notes](https://open.spotify.com/artist/46BsCUZeInrbY0IkvQ1OQ1) | [Blippi Essentials](https://open.spotify.com/album/0nQmUSkS86JEi9B3aJiioI) | 3:16 | 2022-04-01 |  |
 | [I Had a Rooster](https://open.spotify.com/track/0uxH8cSDBvej4mSLFFWdUR) | [Red Yarn](https://open.spotify.com/artist/13eFwXXIPS7klxrhNvU0jA) | [Wake Up & Sing](https://open.spotify.com/album/6evNOZ98sURuV5qRsRGjcr) | 3:21 | 2022-04-01 |  |
 | [I Know A Chicken](https://open.spotify.com/track/2OC9dapu1bUyi520cEI7Kb) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [The Best of The Laurie Berkner Band](https://open.spotify.com/album/7elEglYu8DF6c62vrwQNHB) | 3:14 | 2022-04-01 |  |

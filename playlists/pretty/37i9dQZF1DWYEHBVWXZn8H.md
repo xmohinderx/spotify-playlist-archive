@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEHBVWXZn8H.md) - [plain]
 
 > The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,844 likes - 65 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,953 likes - 65 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Into My Arms](https://open.spotify.com/track/0dDDB5Y0USPabzqBmajLJr) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Boatman's Call \(Remastered\)](https://open.spotify.com/album/4ij84pOJd9kY2uNdT2dOH1) | 4:16 |
 | 2 | [Euthanasia \- Live at Alexandra Palace, 2020](https://open.spotify.com/track/7mpXyNgLepnBooVUBpnIxX) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Euthanasia \(Live at Alexandra Palace, 2020\)](https://open.spotify.com/album/7zWjxGgEiddD0seNQKDl67) | 2:58 |
-| 3 | [Red Right Hand](https://open.spotify.com/track/7HrpPxCR5OYislYvUT4h79) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In](https://open.spotify.com/album/7CR3tuhXFsntLZs680B5rL) | 0:29 |
+| 3 | [Red Right Hand](https://open.spotify.com/track/7HrpPxCR5OYislYvUT4h79) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In](https://open.spotify.com/album/7CR3tuhXFsntLZs680B5rL) | 6:10 |
 | 4 | [Cosmic Dancer](https://open.spotify.com/track/4HPW1XR0LM2SDP4tysLWGa) | [Nick Cave](https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p) | [Cosmic Dancer](https://open.spotify.com/album/7nh1StyLTh6HXzYDKwp3tk) | 5:54 |
 | 5 | [Bright Horses](https://open.spotify.com/track/6wIwQaux8ooqB7nDGBfPuv) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Ghosteen](https://open.spotify.com/album/6UOvMBrdfOWGqSvtQohiso) | 4:52 |
 | 6 | [O Children](https://open.spotify.com/track/29FQEJUtBAnxWEkux39d7I) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Abattoir Blues / The Lyre of Orpheus](https://open.spotify.com/album/4OrbNhWLOrWi6lb40T0IHM) | 6:51 |
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEHBVWXZn8H.md) - [plain]
 | 22 | [Get It On](https://open.spotify.com/track/19ZFTaUTeQwdj4qtobTyx7) | [Grinderman](https://open.spotify.com/artist/0IpDaO9A1OW1h0YChKzVaX) | [Grinderman](https://open.spotify.com/album/1XoOjHBybK9RhUh1If9R5O) | 3:07 |
 | 23 | [Girl in Amber \- Live at Alexandra Palace, 2020](https://open.spotify.com/track/2eqgekiAkHxSJr0DfowhK2) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Idiot Prayer \(Nick Cave Alone at Alexandra Palace\)](https://open.spotify.com/album/7o6zfGW9eywRuc0eOdzJFK) | 4:31 |
 | 24 | [Where the Wild Roses Grow](https://open.spotify.com/track/1L8SrVwjhIRsUdM7TkQprW) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Murder Ballads \(Remastered\)](https://open.spotify.com/album/7rShDcOhzRIRNAowXWCxbA) | 3:57 |
-| 25 | [Do You Love Me?](https://open.spotify.com/track/7B199ImYh0piGXOghItMje) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In](https://open.spotify.com/album/7CR3tuhXFsntLZs680B5rL) | 0:29 |
+| 25 | [Do You Love Me?](https://open.spotify.com/track/7B199ImYh0piGXOghItMje) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In](https://open.spotify.com/album/7CR3tuhXFsntLZs680B5rL) | 5:57 |
 | 26 | [No Pussy Blues](https://open.spotify.com/track/0FyzNG0LYImrT14lGGJezQ) | [Grinderman](https://open.spotify.com/artist/0IpDaO9A1OW1h0YChKzVaX) | [Grinderman](https://open.spotify.com/album/1XoOjHBybK9RhUh1If9R5O) | 4:20 |
 | 27 | [Come Into My Sleep \- 2011 Remastered Version](https://open.spotify.com/track/5At6HGlwIUZcoSBiyiDlNJ) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Lovely Creatures \- The Best of Nick Cave and The Bad Seeds \(1984\-2014\) \[Deluxe Edition\]](https://open.spotify.com/album/05hXano83YIfeLyfdOoMIf) | 3:48 |
-| 28 | [I Let Love In](https://open.spotify.com/track/2KWhAUuJB7zkW2r3nLU5N6) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In](https://open.spotify.com/album/7CR3tuhXFsntLZs680B5rL) | 0:29 |
+| 28 | [I Let Love In](https://open.spotify.com/track/2KWhAUuJB7zkW2r3nLU5N6) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In](https://open.spotify.com/album/7CR3tuhXFsntLZs680B5rL) | 4:14 |
 | 29 | [Ghosteen](https://open.spotify.com/track/3H44zNYVAnMM5vqAHVOZ6X) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Ghosteen](https://open.spotify.com/album/6UOvMBrdfOWGqSvtQohiso) | 12:10 |
 | 30 | [Shoot Me Down](https://open.spotify.com/track/24WrMxKya8W6vcS1ryN7Ol) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [B\-Sides and Rarities](https://open.spotify.com/album/5tXQ0mmpJ7eyEIUL6MPPtR) | 3:33 |
 | 31 | [Wide Lovely Eyes](https://open.spotify.com/track/2H8NAFAU5ADnOOJQ26D6ac) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Push the Sky Away \(Deluxe Edition\)](https://open.spotify.com/album/7DGzeERtReCHCG0k9mABXv) | 3:40 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEHBVWXZn8H.md) - [plain]
 | 61 | [The Hammer Song](https://open.spotify.com/track/7GslOGyGJfksVFvjcjsqO3) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Kicking Against the Pricks](https://open.spotify.com/album/0y2LwFbEWh3uHbFA9TVnv1) | 3:50 |
 | 62 | [Worm Tamer](https://open.spotify.com/track/51Or6IasXwy1X0CSEvgPRx) | [Grinderman](https://open.spotify.com/artist/0IpDaO9A1OW1h0YChKzVaX) | [Grinderman 2](https://open.spotify.com/album/13v92RQAMAswi6KpZPWTuY) | 3:13 |
 | 63 | [God Is in the House](https://open.spotify.com/track/7fYGgIxMkN72otrha570z1) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [No More Shall We Part \(Remastered\)](https://open.spotify.com/album/4zdod6lsBznzFBYqQ7IR4I) | 5:44 |
-| 64 | [Loverman](https://open.spotify.com/track/7i4ZsMyfr9wYHJJP2xHrUR) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In](https://open.spotify.com/album/7CR3tuhXFsntLZs680B5rL) | 0:29 |
+| 64 | [Loverman](https://open.spotify.com/track/7i4ZsMyfr9wYHJJP2xHrUR) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In](https://open.spotify.com/album/7CR3tuhXFsntLZs680B5rL) | 6:21 |
 | 65 | [Release the Bats](https://open.spotify.com/track/3TLjvoo96RxZlg9iBOi8Jb) | [The Birthday Party](https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4) | [Junkyard](https://open.spotify.com/album/1oiC3mdgLddL5kHZsf4DK7) | 2:31 |
 
 Snapshot ID: `MTY0MTg2MTA5NywwMDAwMDAwZDAwMDAwMTdlNDY4YzI5Y2UwMDAwMDE2ZTgzNDMyOWYw`

@@ -4,7 +4,7 @@
 
 > Sounds of spiritual comfort and cultural traditions of triumph.
 
-27 songs - 2 hr 36 min - [published](https://open.spotify.com/playlist/7bffGl8a6NdUpYysUcKthu)
+27 songs - 2 hr 40 min - [published](https://open.spotify.com/playlist/7bffGl8a6NdUpYysUcKthu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Go Down Moses](https://open.spotify.com/track/2S5O0hwIwFxpnIKC0Tm1xM) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Spirituals](https://open.spotify.com/album/3guwEJxJNnTWjdgLYofTMO) | 5:39 | 2019-02-06 |  |
 | [God Is](https://open.spotify.com/track/78wYW2SI5MKVXw4zdqbceY) | [James Cleveland & The Southern California Community Choir](https://open.spotify.com/artist/3O90nZ7V5cI8QoyuKNWjZ0) | [It’s A New Day](https://open.spotify.com/album/2seseSh5U6TRFKfF6phFlO) | 6:47 | 2019-02-06 |  |
 | [Goin' Up Yonder](https://open.spotify.com/track/1fJyQ4F6hTWfHrnvbygRWB) | [Walter Hawkins](https://open.spotify.com/artist/12pzJohM40StvAPzI1t3Tb) | [The Light Years](https://open.spotify.com/album/5CFrLSHTPFhnHCkxZdlH29) | 5:10 | 2019-02-06 |  |
-| [Great Is Thy Faithfulness](https://open.spotify.com/track/26jEK23GYzHoLGIrZOyIDH) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Delores "Mom" Winans](https://open.spotify.com/artist/5UMZOxh7uusc8idFcHNe7T) | [Alone In His Presence](https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ) | 0:29 | 2019-02-06 |  |
+| [Great Is Thy Faithfulness](https://open.spotify.com/track/26jEK23GYzHoLGIrZOyIDH) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Delores "Mom" Winans](https://open.spotify.com/artist/5UMZOxh7uusc8idFcHNe7T) | [Alone In His Presence](https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ) | 5:00 | 2019-02-06 |  |
 | [Heavenly Choir](https://open.spotify.com/track/4esEKIxsmfIJX7x6TWWyBM) | [The Canton Spirituals](https://open.spotify.com/artist/1EPpCbbQoN5loEfqOeuvFs) | [Live in Memphis](https://open.spotify.com/album/6r9Qb40H8qmnNjaZFjgI9p) | 8:59 | 2019-02-06 |  |
 | [His Eye Is On the Sparrow](https://open.spotify.com/track/3STapK53VnT5cCgUU2XIjr) | [Mahalia Jackson](https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB) | [The Essential Mahalia Jackson](https://open.spotify.com/album/2w9wFu5qjGKqBHDLNU2b8N) | 4:21 | 2019-02-06 |  |
 | [Hold My Mule \- Live](https://open.spotify.com/track/0JjsI172ped2hF5v27o28J) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Live..\. In Chicago](https://open.spotify.com/album/02gvjMeXIaqn9VO9ADaDGF) | 8:41 | 2019-02-06 |  |

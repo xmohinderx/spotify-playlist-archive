@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada, elevate your aura. Cover: Idman",
+  "description": "This is R&B in Canada, elevate your aura. Cover: Chxrry22",
   "name": "Mood Ring",
   "published_playlist_ids": [
     "5Scr3kl4jdyMwylCsvsI3D"
@@ -168,6 +168,28 @@
     },
     {
       "album": {
+        "name": "Africvillean Funk",
+        "url": "https://open.spotify.com/album/4dA1mxVyeTqlbOurVp76TN"
+      },
+      "artists": [
+        {
+          "name": "Aquakultre",
+          "url": "https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus"
+        },
+        {
+          "name": "Trobiz",
+          "url": "https://open.spotify.com/artist/1SOChUFxbvRq02w2HC1XvX"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192133,
+      "name": "Africvillean Funk",
+      "url": "https://open.spotify.com/track/1rbN7wvQtAYoGV5DZliziB"
+    },
+    {
+      "album": {
         "name": "Airplane Mode",
         "url": "https://open.spotify.com/album/5n2BO8pOPn8K4mLPFz7c2y"
       },
@@ -331,7 +353,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 148571,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/1M1pCtHsfELKBeFCNd20im"
@@ -497,7 +519,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 189033,
       "name": "Breadcrumbs",
       "url": "https://open.spotify.com/track/5wYFEpuiunJSVtZd0vGLOX"
@@ -587,7 +609,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 29048,
       "name": "Can't Help Myself",
       "url": "https://open.spotify.com/track/6QlWVgJiRRC6IbaW6TSmwB"
@@ -681,10 +703,28 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 115862,
       "name": "Choose",
       "url": "https://open.spotify.com/track/3KHgkyU6IFn099aDzJtEsM"
+    },
+    {
+      "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/4KelIUPQYV7ypTLzR3A82O"
+      },
+      "artists": [
+        {
+          "name": "Maison Gimotto",
+          "url": "https://open.spotify.com/artist/09Yg7cvW5HCTss1cQWVP4E"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131555,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/0nnVrlB6g0UvxygqUhYLjU"
     },
     {
       "album": {
@@ -1174,6 +1214,28 @@
     },
     {
       "album": {
+        "name": "Rising",
+        "url": "https://open.spotify.com/album/1HREWIDOSN2kOOq0FtPQVr"
+      },
+      "artists": [
+        {
+          "name": "Falana",
+          "url": "https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj"
+        },
+        {
+          "name": "Sir Dauda",
+          "url": "https://open.spotify.com/artist/43rAVPqs1PFVQL7dtqLh2N"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231056,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/2AMonPtUTvW9e5i59EpjUY"
+    },
+    {
+      "album": {
         "name": "Loss Of Valuable Energy (L.O.V.E.)",
         "url": "https://open.spotify.com/album/0goRiyw1IR5vSWD8UNfnmy"
       },
@@ -1225,6 +1287,24 @@
       "duration_ms": 179853,
       "name": "Estrellas",
       "url": "https://open.spotify.com/track/12xPalbdr11FAzvb4GEQU9"
+    },
+    {
+      "album": {
+        "name": "Eve",
+        "url": "https://open.spotify.com/album/1O056siKSsHdDjlvIO0pJ5"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163728,
+      "name": "Eve",
+      "url": "https://open.spotify.com/track/4nwSwALkSaxA26bEANsi20"
     },
     {
       "album": {
@@ -1656,7 +1736,7 @@
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 204260,
       "name": "Half Empty",
       "url": "https://open.spotify.com/track/5P9r8VUZIn92AsTqe95nbW"
     },
@@ -1767,7 +1847,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 238064,
       "name": "High Love",
       "url": "https://open.spotify.com/track/4kGNRJ1yFiYAbPuUADhigH"
@@ -2352,6 +2432,24 @@
     },
     {
       "album": {
+        "name": "BRGNDY",
+        "url": "https://open.spotify.com/album/7815yHEIOhqzMytNCPelra"
+      },
+      "artists": [
+        {
+          "name": "Makadi",
+          "url": "https://open.spotify.com/artist/1rEQ6P5WQcRxmHkH9d43Ld"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156173,
+      "name": "Kauai",
+      "url": "https://open.spotify.com/track/1eBtqzkwNl4vzpqkclynDw"
+    },
+    {
+      "album": {
         "name": "Knackademus",
         "url": "https://open.spotify.com/album/7i8JOdcJ7tIu3lsNs7SUdb"
       },
@@ -2465,6 +2563,28 @@
       "duration_ms": 210806,
       "name": "LEAN ON YOU",
       "url": "https://open.spotify.com/track/5hzHj6nuD9qKtTvwj8Mkol"
+    },
+    {
+      "album": {
+        "name": "What If? / Leave It",
+        "url": "https://open.spotify.com/album/6hCOlqAGTtU9dhQ7nhi1U8"
+      },
+      "artists": [
+        {
+          "name": "Lil Silva",
+          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
+        },
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232500,
+      "name": "Leave It",
+      "url": "https://open.spotify.com/track/4d53iJvfGbPyQGRnbtmtiW"
     },
     {
       "album": {
@@ -2697,6 +2817,24 @@
       "duration_ms": 134249,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/13bfgUVzFatSYQPkZ4euTe"
+    },
+    {
+      "album": {
+        "name": "Hate to See You Go",
+        "url": "https://open.spotify.com/album/5JqZM8bcsv0HhLxH7I30Lj"
+      },
+      "artists": [
+        {
+          "name": "Majo",
+          "url": "https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209162,
+      "name": "Lost Time",
+      "url": "https://open.spotify.com/track/4zb78k2BG51tiRIsRd0HMR"
     },
     {
       "album": {
@@ -3285,7 +3423,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 161227,
       "name": "Notice",
       "url": "https://open.spotify.com/track/1d8NaDZjTmhrK37QPoEhQ8"
@@ -3457,6 +3595,24 @@
       "duration_ms": 189507,
       "name": "One Plus One",
       "url": "https://open.spotify.com/track/2YadaIIr00rdv5T7RVzIO8"
+    },
+    {
+      "album": {
+        "name": "Only Want You",
+        "url": "https://open.spotify.com/album/5jdmLkQQ1fX8cC0du4H8Va"
+      },
+      "artists": [
+        {
+          "name": "Eric Zayne",
+          "url": "https://open.spotify.com/artist/5HMNsIi6AQplZELW9jeLjd"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230608,
+      "name": "Only Want You",
+      "url": "https://open.spotify.com/track/24BE8f0DdJxgtHDjsN9FA7"
     },
     {
       "album": {
@@ -4391,7 +4547,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 162214,
       "name": "Spell on Me",
       "url": "https://open.spotify.com/track/2mdDWv8WriSYY8Z5XwzfC9"
@@ -4453,7 +4609,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 184489,
       "name": "Still Not a Playa",
       "url": "https://open.spotify.com/track/0kTwzUwyXHngN2VIahINF8"
@@ -5026,6 +5182,24 @@
     },
     {
       "album": {
+        "name": "Wait 4 U",
+        "url": "https://open.spotify.com/album/1B2XBQKFC202tQOHt4y4iS"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9llen",
+          "url": "https://open.spotify.com/artist/2y7cvgbbpRXy36T223ujdf"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Wait 4 U",
+      "url": "https://open.spotify.com/track/3jq9o1vO6oh44NeNadFpNJ"
+    },
+    {
+      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -5128,6 +5302,24 @@
     },
     {
       "album": {
+        "name": "were all the ig girls worth it?",
+        "url": "https://open.spotify.com/album/53GD0cJGX2KGddvAbUuidA"
+      },
+      "artists": [
+        {
+          "name": "Ebhoni",
+          "url": "https://open.spotify.com/artist/7bWXoXVgDSWw6lWZD4fCb6"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166365,
+      "name": "when i'm gone",
+      "url": "https://open.spotify.com/track/5i86Dy09KkUD3niwtkfgNQ"
+    },
+    {
+      "album": {
         "name": "Where Did You Go",
         "url": "https://open.spotify.com/album/4NTEpzAsL3PKdS1OzDs66r"
       },
@@ -5183,7 +5375,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 126168,
       "name": "whose fault",
       "url": "https://open.spotify.com/track/24bEwSczFXVlFyqfAHQfls"

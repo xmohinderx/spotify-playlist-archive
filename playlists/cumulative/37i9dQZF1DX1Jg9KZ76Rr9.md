@@ -4,7 +4,7 @@
 
 > A look back at some of the most impactful songs of 2017.
 
-100 songs - 6 hr 5 min - [published](https://open.spotify.com/playlist/3pXmTZBNpu2uGfP0OT5yh6)
+100 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/3pXmTZBNpu2uGfP0OT5yh6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,10 +94,10 @@
 | [Sweet Disaster](https://open.spotify.com/track/7bEDDsy2LFC0KSqhZp5nPE) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [This Album Does Not Exist](https://open.spotify.com/album/2dtruUPZ49oSh468hKErtf) | 3:25 | 2017-12-09 |  |
 | [Thank God I'm Not You](https://open.spotify.com/track/4YZVtRbdGOhHdGNi4JpCL5) | [Himalayas](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Thank God I'm Not You](https://open.spotify.com/album/78vmVv9bN0amzSiE1Fvzav) | 3:14 | 2017-12-09 |  |
 | [The Doomed](https://open.spotify.com/track/54RaEDwHbCJKMdDq68EyKE) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [The Doomed](https://open.spotify.com/album/4uHOQCxpSE2W3U7uaTd6Mg) | 4:41 | 2017-12-09 |  |
-| [The Man](https://open.spotify.com/track/5aWhs651KYM26HYM16kRdk) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Wonderful Wonderful](https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi) | 0:29 | 2017-12-09 |  |
+| [The Man](https://open.spotify.com/track/5aWhs651KYM26HYM16kRdk) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Wonderful Wonderful](https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi) | 4:10 | 2017-12-09 |  |
 | [The Promise](https://open.spotify.com/track/3tM778lBLL9SjnN0OHWgHH) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [The Promise](https://open.spotify.com/album/44xvS1Lm42hYEMorJxwQ7z) | 4:20 | 2017-12-09 |  |
 | [The Sky Is A Neighborhood](https://open.spotify.com/track/3kdMzXOcrDIdSWLdONHNK5) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Concrete and Gold](https://open.spotify.com/album/6KMkuqIwKkwUhUYRPL6dUc) | 4:04 | 2017-12-09 |  |
-| [The Violence](https://open.spotify.com/track/12C6ufD5zOWsQGHQY7aXRM) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Wolves](https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx) | 0:29 | 2017-12-09 |  |
+| [The Violence](https://open.spotify.com/track/12C6ufD5zOWsQGHQY7aXRM) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Wolves](https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx) | 3:48 | 2017-12-09 |  |
 | [The Wanting](https://open.spotify.com/track/5Aj28zjIRQV20WHE6pFznI) | [J\. Roddy Walston & The Business](https://open.spotify.com/artist/1FlpoZvmdqEMfKIzgMmSJX) | [Destroyers Of The Soft Life](https://open.spotify.com/album/3BfVRMIfODB0EHBaIPZrVO) | 4:26 | 2017-12-09 |  |
 | [The Way You Used To Do](https://open.spotify.com/track/7dBMQbBKG6n9HkVXkUKnhQ) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [The Way You Used To Do](https://open.spotify.com/album/6HiS1OC87eIa2QJifFSrRi) | 4:34 | 2017-12-09 |  |
 | [Thunder](https://open.spotify.com/track/2zffJrsswcDnVhLW5sXYsp) | [Mondo Cozmo](https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6) | [Plastic Soul](https://open.spotify.com/album/0LASSuakCUPGw4mVBSnXnA) | 3:43 | 2017-12-09 |  |
@@ -105,8 +105,8 @@
 | [Up All Night](https://open.spotify.com/track/6Z884oSfliz0mKqTJTXrwb) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Up All Night](https://open.spotify.com/album/4bODUI8yWQc2ZtBMr9tQHB) | 3:10 | 2017-12-09 |  |
 | [Vacation](https://open.spotify.com/track/7lgvGRC1gN0JGgY9VGXsQT) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [SWIM TEAM](https://open.spotify.com/album/0wNiULI2D1sSbM60XaLJH1) | 3:29 | 2017-12-09 |  |
 | [Walk On Water](https://open.spotify.com/track/5UMD1Iz7yyVK8Q5FLsVt3q) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Walk On Water](https://open.spotify.com/album/3PXrILqM1bJoj2EUhqs8X3) | 3:08 | 2017-12-09 |  |
-| [We Fight](https://open.spotify.com/track/4vSGt6RC1GcfA07OGE3rcs) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [We Fight](https://open.spotify.com/album/0gTOUVU4gby3KApKH410ek) | 0:29 | 2017-12-09 |  |
-| [What's Wrong](https://open.spotify.com/track/6U82eC2OHyiQM4Wr5Bejar) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [All We Know Of Heaven, All We Need Of Hell](https://open.spotify.com/album/0jLafOidtMogAbdIjOXXIe) | 0:29 | 2017-12-09 |  |
+| [We Fight](https://open.spotify.com/track/4vSGt6RC1GcfA07OGE3rcs) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [We Fight](https://open.spotify.com/album/0gTOUVU4gby3KApKH410ek) | 3:24 | 2017-12-09 |  |
+| [What's Wrong](https://open.spotify.com/track/6U82eC2OHyiQM4Wr5Bejar) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [All We Know Of Heaven, All We Need Of Hell](https://open.spotify.com/album/0jLafOidtMogAbdIjOXXIe) | 4:58 | 2017-12-09 |  |
 | [Young Lady, You're Scaring Me](https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [HEAVY META](https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj) | 3:40 | 2017-12-09 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

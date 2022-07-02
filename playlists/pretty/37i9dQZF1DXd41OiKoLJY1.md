@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Jiya Noina, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,717 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,728 likes - 80 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 45 | [Road Trip](https://open.spotify.com/track/4GWih9yhw3J7B5rYHWWisq) | [BLUE BANDANA](https://open.spotify.com/artist/1yTVYN3sXOBXmXWqXvgWSA), [One Flow](https://open.spotify.com/artist/0c4D2x4WZXiPHrejIovH2B), [Jsphere](https://open.spotify.com/artist/0NXUODLOlNMQdvZnqHQgHW), [Zetsu](https://open.spotify.com/artist/6K1jZ0auOWYLEx4FA9KD7n) | [Road Trip](https://open.spotify.com/album/1cjZxcMkrSRTjtEFwoOdYT) | 4:07 |
 | 46 | [Nilimot](https://open.spotify.com/track/3C3v03bh3vK6BvbBm1hXgQ) | [Sepra](https://open.spotify.com/artist/28J6OtxvwZpECv4ppGZYY2) | [Hugot atbp.](https://open.spotify.com/album/7uGMZMnOkeJddWatYJn0jO) | 4:20 |
 | 47 | [Just Wanna Be Better](https://open.spotify.com/track/52WwV0VVKpTuaKn6EO1rSf) | [YXE](https://open.spotify.com/artist/3IIFJXZD7qzQ3rvVsMAgZW) | [Just Wanna Be Better](https://open.spotify.com/album/2QT8bGkxAy6SKpJ9gz5AST) | 3:28 |
-| 48 | [Moody](https://open.spotify.com/track/2y8r2TucNIvDK8JT8LTuHB) | [Saint Klutch](https://open.spotify.com/artist/4O5M5erNF5cqbhGJmsuDDj) | [Moody](https://open.spotify.com/album/0092agiGtnwg31W5NOftTG) | 0:29 |
+| 48 | [Moody](https://open.spotify.com/track/2y8r2TucNIvDK8JT8LTuHB) | [Saint Klutch](https://open.spotify.com/artist/4O5M5erNF5cqbhGJmsuDDj) | [Moody](https://open.spotify.com/album/0092agiGtnwg31W5NOftTG) | 2:12 |
 | 49 | [Live Like Never Before](https://open.spotify.com/track/5ld3A73LzjwVs6dS6GLvnk) | [46 Hope St.](https://open.spotify.com/artist/1hkrpcxUIsETHaAvosVAjm) | [Live Like Never Before](https://open.spotify.com/album/5wNZIt7wmo4g89mrPMywv5) | 3:16 |
 | 50 | [Liham](https://open.spotify.com/track/66pO1LMXa4JanEM2kOBMRK) | [Sweet December](https://open.spotify.com/artist/7juR9A9SsCXSmecbWM3lEi) | [Liham](https://open.spotify.com/album/273rcewEae2bs4KPEghC1W) | 5:05 |
 | 51 | [Flawless Love](https://open.spotify.com/track/0hXv5U4bviTTzFCHOy7E3x) | [Martin Venegas](https://open.spotify.com/artist/6cLHzuqXfCxpQIhD37qHJu) | [Flawless Love](https://open.spotify.com/album/1O9nUyTnTCj4soscLG7O9O) | 4:05 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 56 | [Wag ka namang ganyan](https://open.spotify.com/track/75pQFBn9fwh13uRACFTwmu) | [BLUE BANDANA](https://open.spotify.com/artist/1yTVYN3sXOBXmXWqXvgWSA) | [Wag ka namang ganyan](https://open.spotify.com/album/2qnbD8dmW9EWcpNrN92Kuy) | 4:06 |
 | 57 | [LDR](https://open.spotify.com/track/0VA1lFgQ7ouzmB23BJDOwq) | [Aidizzy](https://open.spotify.com/artist/2CBgKgaG7O3VYk6Yo9yYZM), [Clien](https://open.spotify.com/artist/1zCgO4JLvzY9JUYRoUBMqK) | [LDR](https://open.spotify.com/album/2KrA2Yi4qMR0P7NdGgKiFa) | 3:52 |
 | 58 | [BLISS](https://open.spotify.com/track/1aYAk65nrna8OPfdemP2Xd) | [Coldboyz](https://open.spotify.com/artist/4y76BrUXorWbYlnPNJuwrW) | [BLISS](https://open.spotify.com/album/6dcwJk2G0YJRtpCg7DeztI) | 4:35 |
-| 59 | [isang iglap](https://open.spotify.com/track/1z9IrK41E1nXd0VXgbipIG) | [Roggie Santos](https://open.spotify.com/artist/7JyYqqt7JhlS801H19BuJZ) | [isang iglap](https://open.spotify.com/album/0TW6dBmXASnAFEwBLUTmwf) | 0:29 |
+| 59 | [isang iglap](https://open.spotify.com/track/1z9IrK41E1nXd0VXgbipIG) | [Roggie Santos](https://open.spotify.com/artist/7JyYqqt7JhlS801H19BuJZ) | [isang iglap](https://open.spotify.com/album/0TW6dBmXASnAFEwBLUTmwf) | 4:28 |
 | 60 | [Kabilang Mundo](https://open.spotify.com/track/4DXmGjZLbRKVne3gRFcZqb) | [FOODTRIP WEDNESDAY](https://open.spotify.com/artist/434G5JvLQFCKUll1KMh6qJ) | [Kabilang Mundo](https://open.spotify.com/album/1IXxWXcIRkRHOiHftWAVQP) | 3:56 |
 | 61 | [Babae](https://open.spotify.com/track/6mTgPW91cwaa5iSFHtAMV5) | [Maro Ignacio](https://open.spotify.com/artist/6jE4xHJbmYMz6uqY8b15xk), [LeMon Traxx](https://open.spotify.com/artist/0CKv1MqvZqzPCh14gGN4iT), [Denver B.](https://open.spotify.com/artist/2cWrw6jTuThA1UGOaLVxq4) | [Babae](https://open.spotify.com/album/2ujRxyIYP972OmRuxZ1ooy) | 4:28 |
 | 62 | [Ang Pag\-ibig](https://open.spotify.com/track/1FSxaUwcQAD3OkisIeZUrB) | [Dr\. Flavor](https://open.spotify.com/artist/45X7NuVa7RzxpwchZw7uOW) | [Ang Pag\-ibig](https://open.spotify.com/album/2sztVjASIBnu9vVIvQ1UjZ) | 6:01 |

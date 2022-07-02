@@ -4,7 +4,7 @@
 
 > Welcome to the LOOΠΔverse\. Are you making an 'Orbit' around LOOΠΔ?
 
-113 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/1XU4almpwByp958TvBy5RK)
+113 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/1XU4almpwByp958TvBy5RK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Ding Ding Dong](https://open.spotify.com/track/4bPY0n3hMVd6q39B2ePkZe) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[\#\]](https://open.spotify.com/album/6rOL2mghTfDyx5CY0eU1Dn) | 2:58 | 2021-10-27 |  |
 | [Don\`t Go \- Queendom2 Version](https://open.spotify.com/track/70HOn7S07x4fvvrt8lKRbT) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7), [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<Queendom2> Position Unit Battle Part.1\-1](https://open.spotify.com/album/3p44pRKo4AR0OCVWkbs4OB) | 3:41 | 2022-06-23 |  |
 | [Eclipse](https://open.spotify.com/track/26K21MUaPDTnzHqtiiffFv) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Kim Lip](https://open.spotify.com/album/5BTKWSg65wQMCj0CnPSx34) | 3:51 | 2021-10-27 |  |
-| [Eclipse \(Prod\. By Daniel Obi Klein\)](https://open.spotify.com/track/6k3sl3Hs6bNN497d672gpR) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Kim Lip](https://open.spotify.com/album/579Sgz4tNrKVhrcma3AwPi) | 0:29 | 2021-10-27 |  |
+| [Eclipse \(Prod\. By Daniel Obi Klein\)](https://open.spotify.com/track/6k3sl3Hs6bNN497d672gpR) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Kim Lip](https://open.spotify.com/album/579Sgz4tNrKVhrcma3AwPi) | 3:51 | 2021-10-27 |  |
 | [Egoist \(Olivia Hye\)](https://open.spotify.com/track/5UUeEljsNQroCUNId8DIV6) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Olivia Hye](https://open.spotify.com/album/0l2Z13tBw1lq2IcnBpfJeC) | 4:07 | 2021-10-27 |  |
 | [Everyday I Love You](https://open.spotify.com/track/5HGeTj4lVdLGed5c358q1f) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7), [HaSeul](https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9) | [ViVi](https://open.spotify.com/album/3eg9jvcmafP60bG9YffJn8) | 3:28 | 2021-10-27 |  |
 | [Everyday I Love You \(feat\. HaSeul\)](https://open.spotify.com/track/5e6Tii9571q3uKOC6wn8XU) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7), [HaSeul](https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9) | [ViVi](https://open.spotify.com/album/00MxrNWr9xmxrqhcK4tqtK) | 3:28 | 2021-10-27 |  |
@@ -54,8 +54,8 @@
 | [Love & Evil](https://open.spotify.com/track/6XAca0QIiTvMaWfTnjjwrn) | [LOOΠΔ 1/3](https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy) | [Love & Evil](https://open.spotify.com/album/35DjTZIwcC0Vfg2w7ICHUg) | 1:02 | 2021-10-27 |  |
 | [Love & Live](https://open.spotify.com/track/7uAD8DLwFDpZkFEJFSxxcb) | [LOOΠΔ 1/3](https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy) | [Love & Live](https://open.spotify.com/album/02QYjN9V9rlnXAtQvAX0rW) | 3:26 | 2021-10-27 |  |
 | [Love Cherry Motion](https://open.spotify.com/track/1H3i6WXxrJB7LEoH5iStvb) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Choerry](https://open.spotify.com/album/7zWV8dHkh06EclukKh1jVh) | 3:41 | 2021-10-27 |  |
-| [Love Letter](https://open.spotify.com/track/3t7m1KLkT2aPvqyzVRnTBy) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [JinSoul](https://open.spotify.com/album/5oy5oSghkmsOjZS5nu2r6W) | 0:29 | 2021-10-27 |  |
 | [Love Letter](https://open.spotify.com/track/3GAKRdjL6Snq9C7u5tMC01) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [JinSoul](https://open.spotify.com/album/4aihvbWq3RQ1TAR2awMsqi) | 3:08 | 2021-10-27 |  |
+| [Love Letter](https://open.spotify.com/track/3t7m1KLkT2aPvqyzVRnTBy) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [JinSoul](https://open.spotify.com/album/5oy5oSghkmsOjZS5nu2r6W) | 3:08 | 2021-10-27 |  |
 | [love4eva \(feat\. Grimes\)](https://open.spotify.com/track/4rKEmhNA19JezqVsSQS4yo) | [LOONA/yyxy](https://open.spotify.com/artist/5JPKwLsHGaPIlxqHiF29e4) | [beauty&thebeat](https://open.spotify.com/album/2kyVSOU7qUn6c3WqHjhMB1) | 3:40 | 2021-10-27 |  |
 | [My Melody](https://open.spotify.com/track/3uOuaBpMHwYcxej5qRDocD) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [YeoJin](https://open.spotify.com/album/6SwU8IOE4xN1Gw2sGFE6Wq) | 3:02 | 2021-10-27 |  |
 | [My Melody](https://open.spotify.com/track/6f1PlxNaKfbbBosoRXmoAF) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [YeoJin](https://open.spotify.com/album/7j4J6jWNmKjzpiWxPEdEcS) | 3:02 | 2021-10-27 |  |
@@ -90,8 +90,8 @@
 | [Satellite](https://open.spotify.com/track/644aVns0mIqtLY9Wqzm7zD) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[X X\]](https://open.spotify.com/album/2Ij6998NUjQ0BkQ2ipqiET) | 3:09 | 2021-10-27 |  |
 | [See Saw \(Chuu, Go Won\)](https://open.spotify.com/track/1tLmp8dEhaHvU0jm2aG6sS) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7), [Kim Lip](https://open.spotify.com/artist/1fsR8q6ObgP7rLBYdZZD7i) | [Go Won](https://open.spotify.com/album/5li9RKVy6K7WOSR4DNJc5y) | 3:21 | 2021-10-27 |  |
 | [SHAKE IT](https://open.spotify.com/track/1ezubi9SlRqI3fHoGXjuP7) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [<Queendom2> Part.2\-1](https://open.spotify.com/album/4UhIreAIqRgp2l8PlMGqH0) | 4:14 | 2022-04-28 |  |
-| [Singing in the Rain](https://open.spotify.com/track/6ZCugHZvchMlF6DqMDYIW1) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [JinSoul](https://open.spotify.com/album/5oy5oSghkmsOjZS5nu2r6W) | 0:29 | 2021-10-27 |  |
 | [Singing in the Rain](https://open.spotify.com/track/1uNTfm5WZVGdig95SAXajH) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [JinSoul](https://open.spotify.com/album/4aihvbWq3RQ1TAR2awMsqi) | 3:31 | 2021-10-27 |  |
+| [Singing in the Rain](https://open.spotify.com/track/6ZCugHZvchMlF6DqMDYIW1) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [JinSoul](https://open.spotify.com/album/5oy5oSghkmsOjZS5nu2r6W) | 3:31 | 2021-10-27 |  |
 | [So What](https://open.spotify.com/track/7w3pIUjz7BTTqj9uAws40m) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[\#\]](https://open.spotify.com/album/6rOL2mghTfDyx5CY0eU1Dn) | 3:18 | 2021-10-27 |  |
 | [Sonatine](https://open.spotify.com/track/6RMFRrVjtcvpyyBs6cM0xd) | [LOOΠΔ 1/3](https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy) | [Love & Evil](https://open.spotify.com/album/35DjTZIwcC0Vfg2w7ICHUg) | 3:17 | 2021-10-27 |  |
 | [Star](https://open.spotify.com/track/4wGt2KmqMQ7LC5bqPi51sf) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[12:00\]](https://open.spotify.com/album/3obToaukLcPbCLPPmWFzQi) | 3:18 | 2021-10-27 |  |
@@ -103,7 +103,7 @@
 | [The Carol 2.0 \(ViVi, Choerry, Yves\)](https://open.spotify.com/track/5gkbQEgYlXajuf8CcYpojE) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [The Carol 2.0 \(ViVi, Choerry, Yves\)](https://open.spotify.com/album/4a8IIN37HSD7SuDWuyNSs9) | 3:26 | 2021-10-27 |  |
 | [The Journey](https://open.spotify.com/track/4hy2mxKZbnlQgfQaxHJV21) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Summer Special \[Flip That\]](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) | 1:14 | 2022-06-23 |  |
 | [Twilight](https://open.spotify.com/track/1QzbeeShhAATdT87ssWtK4) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Kim Lip](https://open.spotify.com/album/5BTKWSg65wQMCj0CnPSx34) | 3:06 | 2021-10-27 |  |
-| [Twilight \(Prod\. By Cha Cha Malone\)](https://open.spotify.com/track/0Eh58SEH7NMUS5r6saQ7W7) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Kim Lip](https://open.spotify.com/album/579Sgz4tNrKVhrcma3AwPi) | 0:29 | 2021-10-27 |  |
+| [Twilight \(Prod\. By Cha Cha Malone\)](https://open.spotify.com/track/0Eh58SEH7NMUS5r6saQ7W7) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Kim Lip](https://open.spotify.com/album/579Sgz4tNrKVhrcma3AwPi) | 3:06 | 2021-10-27 |  |
 | [U R](https://open.spotify.com/track/4iFf7g2UuvdzKjbPqUR5uI) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[&\]](https://open.spotify.com/album/747FhjbZXy5H8frCZ90eDv) | 3:04 | 2021-10-27 |  |
 | [Uncover](https://open.spotify.com/track/2oFbMd0TcgUm7Df4Sx16h9) | [LOOΠΔ / ODD EYE CIRCLE](https://open.spotify.com/artist/5KPaeBm0fVfCSZLydp9jdy) | [Max & Match](https://open.spotify.com/album/6J6hcDzG79Uh0xob2e5J29) | 3:20 | 2021-10-27 |  |
 | [Universe](https://open.spotify.com/track/3lVzntD100XcGaW3HZ5FuU) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[12:00\]](https://open.spotify.com/album/3obToaukLcPbCLPPmWFzQi) | 3:34 | 2021-10-27 |  |

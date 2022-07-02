@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0N3eAirRjZ.md) - [plain]
 
 > From slack\-key masters to songwriting royals, Native Hawaiians have been behind the isles' most memorable music\. Cover: <a href="spotify:artist:69NjH5MsRLr0CX0zSlGmN3">Jake Shimabukuro</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,207 likes - 52 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,241 likes - 52 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0N3eAirRjZ.md) - [plain]
 | 10 | [Waimanalo Blues](https://open.spotify.com/track/6jt4XlR6GE96GPRUr2XdxX) | [Country Comfort](https://open.spotify.com/artist/67ca6wIED6oeHj5f84K93z), [Billy Kaui](https://open.spotify.com/artist/5h8cor75Nc5j0OlW1qxpA5), [Chuck Lee](https://open.spotify.com/artist/4AJY5AxgDGXnZePcpWlZ3O), [Randy Lorenzo](https://open.spotify.com/artist/34b3evbwuaICTdl0YoE7uZ), [Jimmy Freudenberg](https://open.spotify.com/artist/64MluByW6rSJzNtiMZqZUR), [Eugene Matsumura](https://open.spotify.com/artist/1yU5CoWeJ5cGUlM3nrMdVF), [Huge Hawaiian Hit](https://open.spotify.com/artist/5oGg6tyTExCb8dEo5cr2pL) | [We Are the Children](https://open.spotify.com/album/5FLk6tZkmjTFiW07quOApM) | 4:15 |
 | 11 | [Slack Key Lullabye](https://open.spotify.com/track/6BmBm3K2FU9Gn0bfXEYc1R) | [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K), [Mike Kaawa](https://open.spotify.com/artist/7KtbS2lQxxvA4N75pIVCtX) | [Songs of Aloha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/119mKxx5iYvDFOFJbSxO6K) | 5:38 |
 | 12 | [Pua Hone](https://open.spotify.com/track/2Y579kQwREtBRxOzelmCGJ) | [The Brothers Cazimero](https://open.spotify.com/artist/7oFAub69yHYo7cJVlTK4Zb) | [Hoala](https://open.spotify.com/album/6hSkHQVlc7e8Y1J70iDONh) | 3:44 |
-| 13 | [Lava](https://open.spotify.com/track/0wqeaDeaKq14IuQESPqBEJ) | [Kuana Torres Kahele](https://open.spotify.com/artist/7Eshpryyi2F9Jg0ixaysNn), [Napua Greig](https://open.spotify.com/artist/7ycscFAP7S0I6HGFaqmT4B), [James Ford Murphy](https://open.spotify.com/artist/60vk2VjuoktubJq0FFguLK) | [Lava \(From "Lava"\)](https://open.spotify.com/album/3ps9fwedIocKsm52J2zoX9) | 0:29 |
+| 13 | [Lava](https://open.spotify.com/track/0wqeaDeaKq14IuQESPqBEJ) | [Kuana Torres Kahele](https://open.spotify.com/artist/7Eshpryyi2F9Jg0ixaysNn), [Napua Greig](https://open.spotify.com/artist/7ycscFAP7S0I6HGFaqmT4B), [James Ford Murphy](https://open.spotify.com/artist/60vk2VjuoktubJq0FFguLK) | [Lava \(From "Lava"\)](https://open.spotify.com/album/3ps9fwedIocKsm52J2zoX9) | 5:46 |
 | 14 | [Alika](https://open.spotify.com/track/5VUZ3kwdQHr9rMVkJot15R) | [Genoa Keawe](https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy) | [Hana Hou! Vol\. 1](https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt) | 4:36 |
 | 15 | [Put a Little Love](https://open.spotify.com/track/0yQLIH6DH7Hop9K1eHLzVL) | [Natural Vibrations](https://open.spotify.com/artist/2u0CzUCFU8OEoIFORUq6wJ) | [All Natural](https://open.spotify.com/album/3pwOfQqtWgH4duJxZm5pax) | 4:24 |
 | 16 | [Simple Love Song](https://open.spotify.com/track/2bDmYeA5ovrMJQJ9AR1Mxj) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/2Canm6l7zAge5MV9iJ8ngy) | 3:44 |

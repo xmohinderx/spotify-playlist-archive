@@ -4,7 +4,7 @@
 
 > In honor of the little teams who could
 
-20 songs - 1 hr 14 min - [published](https://open.spotify.com/playlist/21WlbNb5CFv2JRzSzbMrde)
+20 songs - 1 hr 16 min - [published](https://open.spotify.com/playlist/21WlbNb5CFv2JRzSzbMrde)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Believe](https://open.spotify.com/track/1oUE8FdfFbQ3Zp7PM7fbFO) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [We Are Not Alone](https://open.spotify.com/album/21a1KR6PvIlJvqp3eU3Qnr) | 3:19 | 2014-02-05 |  |
 | [Best I Can](https://open.spotify.com/track/03h0HCkZ4LLwDJtnBuRBOk) | [Art Of Dying](https://open.spotify.com/artist/28DlNBW2UlEVVgTuCcYtTe) | [Vices And Virtues](https://open.spotify.com/album/1Mjuv5UjTnJrDA9bR0nfMN) | 5:03 | 2014-02-05 |  |
 | [Headstrong \(Re\-Recorded\)](https://open.spotify.com/track/3UW3ujzllPV9vXJfRsbpBu) | [Trapt](https://open.spotify.com/artist/1UdQqCUR7RwB9YYJONwbdM) | [Headstrong](https://open.spotify.com/album/7iK149AHO75QfxntFk3rIW) | 4:37 | 2014-02-05 |  |
-| [Here's to Us](https://open.spotify.com/track/0a5UnIvDUBzqwUduJsouRy) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 0:29 | 2014-02-05 |  |
+| [Here's to Us](https://open.spotify.com/track/0a5UnIvDUBzqwUduJsouRy) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 2:57 | 2014-02-05 |  |
 | [I'll Fight](https://open.spotify.com/track/5SYb42keVyr5S9smozZRWl) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Baptized \(Deluxe Version\)](https://open.spotify.com/album/6UTadUeCxnizkSKAS1VHs4) | 3:00 | 2014-02-05 |  |
 | [In My Blood](https://open.spotify.com/track/2iIDpuiFj86WKpK6eKyzTP) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Between the Devil & the Deep Blue Sea \(Special Edition\)](https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H) | 3:47 | 2014-02-05 |  |
 | [It's a War](https://open.spotify.com/track/3UdxCgnOWXuVkOn1eZCSaI) | [New Medicine](https://open.spotify.com/artist/3driPpCh1JEUnPFKGyHXDr) | [Race You to the Bottom](https://open.spotify.com/album/13eNs79hvWC8FB96ekbAVy) | 3:33 | 2014-02-05 |  |

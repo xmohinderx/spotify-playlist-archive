@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 
 > Zone in \(or out\) with ethereal, meditative instrumental indie folk and acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 682,335 likes - 115 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 682,323 likes - 115 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 | 35 | [They Fixed The Broken Windmill Today](https://open.spotify.com/track/6kVGpBhaHX3PQWaQ7tEpe4) | [Six Organs Of Admittance](https://open.spotify.com/artist/5jX8L7D6vWHYlNj9k361vI) | [For Octavio Paz](https://open.spotify.com/album/1KsF9degqPu3DEJTQLalNI) | 7:18 |
 | 36 | [Calon Lan](https://open.spotify.com/track/46rTa2aNbVMfTzaMo3vL0h) | [Chessboxer](https://open.spotify.com/artist/7M6RbP2krwdFSjgzXnHp3b) | [Apollo EP](https://open.spotify.com/album/2MyL8boDt6oLbNwko8poPQ) | 4:15 |
 | 37 | [Carbon Scores and Smoke](https://open.spotify.com/track/7sGdAmegA4tEPFaW21ImxR) | [Mappe Of](https://open.spotify.com/artist/02Zxif3WoHx6ujXBSfBKOr) | [A Northern Star, A Perfect Stone](https://open.spotify.com/album/6MSMnmGlM59bIm7Oc7l6kR) | 6:05 |
-| 38 | [Home Over Yonder Variations Pt\. 2](https://open.spotify.com/track/1YgPS8qdg3lbX4Tmv97rYw) | [Sarah Louise](https://open.spotify.com/artist/2lGwVpVjE5WrnI4pP5Lu0y) | [Field Guide](https://open.spotify.com/album/6AwdnAvL3eD7oH87pDtrpe) | 0:29 |
+| 38 | [Home Over Yonder Variations Pt\. 2](https://open.spotify.com/track/1YgPS8qdg3lbX4Tmv97rYw) | [Sarah Louise](https://open.spotify.com/artist/2lGwVpVjE5WrnI4pP5Lu0y) | [Field Guide](https://open.spotify.com/album/6AwdnAvL3eD7oH87pDtrpe) | 2:33 |
 | 39 | [What Stays in Motion / A Slow Burn](https://open.spotify.com/track/1gncrVlz927rYTePwskx7G) | [William Ryan Fritch](https://open.spotify.com/artist/4uKt0y4zMxjivxkjDsT3gl) | [Her Warmth](https://open.spotify.com/album/3smPbTZhWibJ7J0IJRTwBD) | 3:33 |
 | 40 | [Bellwoods Park](https://open.spotify.com/track/2rknjj7MqyOPIif150QmXg) | [Shawn William Clarke](https://open.spotify.com/artist/654buPExx4Mk8xVddb8zgs) | [William](https://open.spotify.com/album/3PrhKqEzYomIrCmiSKpoVR) | 3:35 |
 | 41 | [Smeared Pointillist Painting](https://open.spotify.com/track/2FkO5IfLhFWOHAL3yTWApl) | [Matt Costa](https://open.spotify.com/artist/0EghvcisxKybq4CVO7rB5t) | [Eucalyptus EP](https://open.spotify.com/album/3JfrL2XtRwr2ZHs6wRN2IW) | 2:39 |
 | 42 | [Field \(feat\. Ren Ford\)](https://open.spotify.com/track/2rXcLC10mje0oGD0VdIIg0) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160), [Ren Ford](https://open.spotify.com/artist/1ek6WGaOTdM0xXnfEzaBGL) | [Romantic Works](https://open.spotify.com/album/0DmaYVn58Dnq79ymSPPVYm) | 3:45 |
 | 43 | [Of Its Own Kind](https://open.spotify.com/track/24zIONrHkf1uW9R9cxiKbu) | [Glenn Jones](https://open.spotify.com/artist/7HY8lCkyEUSL5jfENlkshV) | [The Wanting](https://open.spotify.com/album/7MLNKboPY2SzTyn7vUksQX) | 7:25 |
-| 44 | [Duet for Guitars \#2](https://open.spotify.com/track/3jgGyltkhzYjDWGibVUBlW) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Duet For Guitars \#2](https://open.spotify.com/album/0930d2exi3078g6LEXGQCG) | 0:29 |
+| 44 | [Duet for Guitars \#2](https://open.spotify.com/track/3jgGyltkhzYjDWGibVUBlW) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Duet For Guitars \#2](https://open.spotify.com/album/0930d2exi3078g6LEXGQCG) | 2:05 |
 | 45 | [Oscilla](https://open.spotify.com/track/53V7XcwA8G4QVhheBYXAaA) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Alta Falls](https://open.spotify.com/album/1cVZMnYMB105JUmmCJPL7X) | 1:52 |
 | 46 | [Butter and Eggs](https://open.spotify.com/track/1ba8qyfCD9olHnAfGGgxts) | [Julian Lage & Chris Eldridge](https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf) | [Avalon](https://open.spotify.com/album/1UC7rVuAprZfBehFxiAGDr) | 3:24 |
 | 47 | [The Quiet at Night](https://open.spotify.com/track/5qMWvCm0ufA59sLxdCmN3U) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [At the Dam](https://open.spotify.com/album/21WPKbevLh1bhIEWwx7Z5r) | 4:12 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 | 62 | [Toomsuba](https://open.spotify.com/track/5eMiGAYw53R3Eyyk8p4Bun) | [Matt Marble](https://open.spotify.com/artist/4EP2PjCQ2lE32tMKxzF1d0) | [Twilights](https://open.spotify.com/album/3GhBH26IHuJWx1cGr1jttS) | 4:39 |
 | 63 | [Cumberland Gap](https://open.spotify.com/track/1W3WoQ2ECZzQnpOEt3XZVK) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Nothing We Say \- EP](https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7) | 2:13 |
 | 64 | [Duet for Guitars \#3](https://open.spotify.com/track/3zeHdmXo195KoBqqHOO6A9) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Transfiguration of Vincent](https://open.spotify.com/album/3I1zi5eB3rHCYye20JoG2U) | 1:52 |
-| 65 | [The Day is Past and Gone \(Variations\), Extended](https://open.spotify.com/track/2vSjs5QYsnVfp1HIDMhHdh) | [Sarah Louise](https://open.spotify.com/artist/2lGwVpVjE5WrnI4pP5Lu0y) | [Field Guide](https://open.spotify.com/album/6AwdnAvL3eD7oH87pDtrpe) | 0:29 |
+| 65 | [The Day is Past and Gone \(Variations\), Extended](https://open.spotify.com/track/2vSjs5QYsnVfp1HIDMhHdh) | [Sarah Louise](https://open.spotify.com/artist/2lGwVpVjE5WrnI4pP5Lu0y) | [Field Guide](https://open.spotify.com/album/6AwdnAvL3eD7oH87pDtrpe) | 4:43 |
 | 66 | [All Along the Watchtower \(feat\. Gabe Witcher\) \- From Sons of Anarchy \(Instrumental\)](https://open.spotify.com/track/7gP40cgwzUeDkypRwpSNrf) | [The Forest Rangers](https://open.spotify.com/artist/46xMgypLHP8GNsYME3vRnV), [Gabe Witcher](https://open.spotify.com/artist/3MjRrLK3oWzDniKxjbKPYm) | [All Along the Watchtower \(feat\. Gabe Witcher\) \[From Sons of Anarchy \(Instrumental\)\]](https://open.spotify.com/album/2NkTkCkwPwGrljRyMZnA2q) | 2:52 |
 | 67 | [Angi](https://open.spotify.com/track/2wxpgRChMOPsE9lebeEzMj) | [Davy Graham](https://open.spotify.com/artist/72zalCfn9P7eU6oGje7tyJ) | [3/4 AD](https://open.spotify.com/album/5jCLZRSd8CyV34s7iEvqYZ) | 2:27 |
 | 68 | [Si No Te Vas \(Instrumental\)](https://open.spotify.com/track/3dRkBf8fXhph6yQtQR7uBL) | [Carrie Rodriguez](https://open.spotify.com/artist/4bMTBaNiudO7K7Tz8jzNRF) | [Lola](https://open.spotify.com/album/58hQMhoiyYayFc1pLHwnEa) | 4:21 |

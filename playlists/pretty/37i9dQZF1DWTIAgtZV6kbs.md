@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIAgtZV6kbs.md) - [plain]
 
 > ついにシリーズ完結！最新作映画『シン・エヴァンゲリオン劇場版』公開記念『エヴァンゲリオン』シリーズの音楽をプレイリストで！（C）カラー
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,576 likes - 96 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,654 likes - 96 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIAgtZV6kbs.md) - [plain]
 | 14 | [hand of fate](https://open.spotify.com/track/2B6h28dvx420rSVsT305T7) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Shiro SAGISU Music from "SHIN EVANGELION"](https://open.spotify.com/album/6TkXOnmDsPk0Z1ALvzChfG) | 4:44 |
 | 15 | [L'attaque des anges](https://open.spotify.com/track/3HtEVdzj5s2YJf9C2d5FQd) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Evangelion 1.0 You Are \(Not\) Alone \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/5WWS46L1THvHDNCZpVVFJh) | 2:33 |
 | 16 | [Angel of Doom](https://open.spotify.com/track/4UjudP9wSDuBoNBtCpSr9J) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Evangelion 1.0 You Are \(Not\) Alone \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/5WWS46L1THvHDNCZpVVFJh) | 3:50 |
-| 17 | [魂のルフラン](https://open.spotify.com/track/4pjQ19ATjMCMFqnEF75O9T) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [魂のルフラン](https://open.spotify.com/album/7j1OdqnevNe9r0mwxOmh15) | 0:29 |
+| 17 | [魂のルフラン](https://open.spotify.com/track/4pjQ19ATjMCMFqnEF75O9T) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [魂のルフラン](https://open.spotify.com/album/7j1OdqnevNe9r0mwxOmh15) | 5:14 |
 | 18 | [F02\_Take01\_EWS\_Amano&Kosei](https://open.spotify.com/track/4rq1ZWQ2LHu9Mx3glfbIe1) | [ヱヴァンゲリヲン新吹奏楽版](https://open.spotify.com/artist/3sVX9uIB7QPe9697OBtbXY) | [ヱヴァンゲリヲン新吹奏楽版:其の2](https://open.spotify.com/album/0SzGPBv99g5BV56tpTNNf6) | 2:14 |
 | 19 | [Komm,susser Tod \(Mー10 Director's Edit.Version\)](https://open.spotify.com/track/05wOtTxLl9qeNWrOzJOsvd) | [ARIANNE](https://open.spotify.com/artist/2u9IFe5TWL93NHo3BKjn0w) | [EVANGELION FINALLY](https://open.spotify.com/album/2Wcw3p2bLtsLyD50GiTvKj) | 7:46 |
 | 20 | [Beautiful World \- PLANiTb Acoustica Mix \[2021 Remastered\]](https://open.spotify.com/track/2EHBOLaqrlfoCvHLO2IVjX) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [Russell McNamara](https://open.spotify.com/artist/7Awbd2IasjUKwBFxWB6UB6) | [One Last Kiss](https://open.spotify.com/album/3YXibprimHgDGwv8iPPT6S) | 5:12 |

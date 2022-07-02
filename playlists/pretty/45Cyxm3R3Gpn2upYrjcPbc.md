@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/45Cyxm3R3Gpn2upYrjcPbc.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 342 likes - 66 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 342 likes - 66 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/45Cyxm3R3Gpn2upYrjcPbc.md) - [plain]
 | 4 | [Overnight Celebrity](https://open.spotify.com/track/2tOZtdbkAMQASWokLvSlzj) | [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS) | [Kamikaze](https://open.spotify.com/album/7tbgPQub8dUigxMdkYDfOb) | 3:53 |
 | 5 | [Guess Who's Back](https://open.spotify.com/track/27dUo79lgLEy4Rk5w3UvSL) | [Scarface](https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Beanie Sigel](https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50) | [Greatest Hits](https://open.spotify.com/album/5wmfZWzWjS1UARhcZSirf4) | 4:01 |
 | 6 | [Izzo \(H.O.V.A.\)](https://open.spotify.com/track/0v3FPUiZAzViGUtXzdpB5O) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Hits Collection Volume One \(Deluxe\)](https://open.spotify.com/album/4EOivv4vgGvUpxzkC3HrL9) | 4:00 |
-| 7 | [Dreams](https://open.spotify.com/track/7l7tTR8FVBemCeJBrzBOXm) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [The Documentary](https://open.spotify.com/album/0d0QL1mV66wpb9cBvCSF0G) | 0:29 |
+| 7 | [Dreams](https://open.spotify.com/track/7l7tTR8FVBemCeJBrzBOXm) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [The Documentary](https://open.spotify.com/album/0d0QL1mV66wpb9cBvCSF0G) | 4:46 |
 | 8 | [Get By](https://open.spotify.com/track/6gw0VbU7mFGCFnpKS0CbYU) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y) | [Rawkus Records \- Best of Decade I 1995\-2005 \(Explicit Version\)](https://open.spotify.com/album/2Pt090paTHSNOAbWNW2hPs) | 3:47 |
 | 9 | [The Cool](https://open.spotify.com/track/5fkBCtLEXB6ApKFly8AtBO) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's Food & Liquor \(Deluxe Edition\)](https://open.spotify.com/album/7aXpfvnCNztfsn1erE1Eaj) | 3:46 |
 | 10 | [Family Business](https://open.spotify.com/track/4UtUYddZgey5Y8sxqhW9mH) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The College Dropout \(Explicit\)](https://open.spotify.com/album/1NRRN5RWwfuLmQdjshz0L7) | 4:38 |

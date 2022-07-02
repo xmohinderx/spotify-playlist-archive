@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-197 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
+197 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Andantino](https://open.spotify.com/track/6JONGK3utqMZaFK7l6QyTk) | [Odinson](https://open.spotify.com/artist/2NsbX1kNxxmyCPYNUwylr5) | [Lofi Chopin](https://open.spotify.com/album/6aPscdWMhIG3RrbE9wKp64) | 2:50 | 2021-12-07 |  |
 | [Anemone](https://open.spotify.com/track/7eNGBTOkvmEJqh7ylI2Kfu) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Anemone](https://open.spotify.com/album/7ek1qAaWiRo87eyr6vmbsE) | 2:30 | 2022-05-13 |  |
 | [Aphrodite](https://open.spotify.com/track/0yZ11M8p1uSTz1H4rwICSs) | [KojimaBeats](https://open.spotify.com/artist/5S61jcmSfM4Hg6s8bJ16BN) | [Aphrodite](https://open.spotify.com/album/4iO4ZqgrW7EMgJcWcAswa4) | 2:42 | 2022-05-13 |  |
-| [Artwork](https://open.spotify.com/track/5J5NcN1lGvb3Yo794ohu8f) | [Push & Play](https://open.spotify.com/artist/7zWFDTGDhv8Ftdxd6Y6Eng) | [Artwork](https://open.spotify.com/album/1S2pNdwEk83jQrPJlPqbmS) | 0:29 | 2022-02-28 |  |
+| [Artwork](https://open.spotify.com/track/5J5NcN1lGvb3Yo794ohu8f) | [Push & Play](https://open.spotify.com/artist/7zWFDTGDhv8Ftdxd6Y6Eng) | [Artwork](https://open.spotify.com/album/1S2pNdwEk83jQrPJlPqbmS) | 2:20 | 2022-02-28 |  |
 | [Bamboo](https://open.spotify.com/track/1Eds8oDDD5wYBGNgp8GpjF) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI), [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Two Piece](https://open.spotify.com/album/4WUWDPlKnLRNTv7AIS2TO3) | 2:02 | 2022-06-03 |  |
 | [Bay Leaves](https://open.spotify.com/track/7LKRVeyuMdIxLFhr49n7sT) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK) | [Bay Leaves](https://open.spotify.com/album/5ktazOzcMJcyaEg2lcYlKS) | 2:04 | 2021-12-07 |  |
 | [Better Life](https://open.spotify.com/track/32jgxWTiEcXChtfT4BdFyK) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [Better Life](https://open.spotify.com/album/43SGwBqaSpuOA5D9stfmLy) | 2:40 | 2021-12-07 |  |
@@ -32,7 +32,7 @@
 | [By The Window](https://open.spotify.com/track/5luRT0zNET58JyDhfS7ZJQ) | [Swink](https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0), [Towerz](https://open.spotify.com/artist/1bbah9s09626gweOzzLbKG) | [On The Road](https://open.spotify.com/album/62qnuk8RRmDTwsKOEMsD9y) | 2:20 | 2022-06-24 |  |
 | [Calm Journey](https://open.spotify.com/track/4LgeEcSRLIwHNHQLbivmIf) | [Blumen](https://open.spotify.com/artist/1iAP06My9fOKSWunfLK9FH), [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Plenitude](https://open.spotify.com/album/5g62q4lcEL127ajXQAUbp4) | 1:52 | 2022-04-15 |  |
 | [Calma](https://open.spotify.com/track/3pcGSIMVgx1ZQX3Ouou084) | [Elaine D.](https://open.spotify.com/artist/2rf4obxtEI5MrQ8T6t98Ox) | [Calma](https://open.spotify.com/album/1N7MyTPZMJZ8aUvtXFeCdl) | 2:25 | 2021-12-07 |  |
-| [Carvings](https://open.spotify.com/track/6z4JNDNIHHrLz79QET2jrA) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Disque Magique](https://open.spotify.com/album/58LvwpDLLsRGNwJN160DWU) | 0:29 | 2021-12-07 |  |
+| [Carvings](https://open.spotify.com/track/6z4JNDNIHHrLz79QET2jrA) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Disque Magique](https://open.spotify.com/album/58LvwpDLLsRGNwJN160DWU) | 2:36 | 2021-12-07 |  |
 | [Catalangelo](https://open.spotify.com/track/5dW5pzdqZZd9cnFi5hV18S) | [Aberdeen/Stavanger](https://open.spotify.com/artist/1pr2LbfqeB3gh6KUIRKVPk) | [Catalangelo](https://open.spotify.com/album/7o5I6xcwbFCtjSZlVluria) | 2:08 | 2021-12-07 | 2022-05-14 |
 | [Ceiling](https://open.spotify.com/track/0oZhzDQqr7EpYCGtifQgLS) | [Mauro Itzhak](https://open.spotify.com/artist/4ABZDpqLJ4IKly9Vx8sr9i) | [Big City Music](https://open.spotify.com/album/6eu3s8wTiugTQjXeuH4r7S) | 1:53 | 2021-12-07 |  |
 | [Chasing Dreams](https://open.spotify.com/track/7HpNwwS5G8mUjcTshcMKzi) | [Sitting Duck](https://open.spotify.com/artist/7nlZWVZ0U8EVad0g71xiZt), [Khutko](https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ) | [Wonderland Chapter II](https://open.spotify.com/album/3HOZF0LXJjt0vhrJ3idypD) | 2:17 | 2021-12-07 | 2022-05-27 |
@@ -145,7 +145,7 @@
 | [Pink Aesthetics](https://open.spotify.com/track/6oNoF20vd0ySvNR9S7QwFJ) | [Chill Beats Music](https://open.spotify.com/artist/46d1ndWtnYj9kxd3IlQykV), [brokebwoy](https://open.spotify.com/artist/6W5OElrV4G52kaVSV0CLXv) | [Lofi Exposure 1](https://open.spotify.com/album/113el5njSu4Ss6CzuolyM3) | 2:22 | 2021-12-07 | 2022-05-27 |
 | [Pizogi](https://open.spotify.com/track/13VfNj6MtlTyqEOsm3LWBq) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Solsken](https://open.spotify.com/album/2JzhBFTPswo8Xzv48mSn6G) | 2:42 | 2021-12-07 |  |
 | [Plucktonal](https://open.spotify.com/track/1ganpYVHbwzHFsmramAXgA) | [zeth starsky](https://open.spotify.com/artist/1dKLhRDX7RcPpscL6ePfSk) | [Transcriptions](https://open.spotify.com/album/2c5jLmjvuFFwOtKtJO2xFm) | 1:36 | 2021-12-07 | 2022-05-20 |
-| [positive](https://open.spotify.com/track/6EXzpGmH1gpvQclBz4GcfR) | [Slopoke](https://open.spotify.com/artist/1iJ5ZP2QithYEHlojjT3Dw) | [positive](https://open.spotify.com/album/4dmOhdd46ePy9uaCQXwIaz) | 0:29 | 2021-12-07 |  |
+| [positive](https://open.spotify.com/track/6EXzpGmH1gpvQclBz4GcfR) | [Slopoke](https://open.spotify.com/artist/1iJ5ZP2QithYEHlojjT3Dw) | [positive](https://open.spotify.com/album/4dmOhdd46ePy9uaCQXwIaz) | 2:33 | 2021-12-07 |  |
 | [Prelude To A Desaster](https://open.spotify.com/track/0A7BjCCEg9dqTzFMiTZH4A) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Prelude To A Desaster](https://open.spotify.com/album/4IkGXYQjErxs4C4XN5Yxdq) | 2:50 | 2022-04-22 | 2022-05-14 |
 | [Purple Dreams](https://open.spotify.com/track/0gPOjseJyPBzHQXvDz0gcv) | [Looi](https://open.spotify.com/artist/0ITQQemR9CidTcLBO4Vjru) | [Purple Dreams](https://open.spotify.com/album/7kxIwi77w8d6hz0XRbmCgb) | 1:39 | 2021-12-07 | 2022-05-27 |
 | [Quiet in the Garden](https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Just a Lullaby](https://open.spotify.com/album/7xmauQdCVxrTlyYu4i6qMd) | 2:20 | 2021-12-07 | 2022-05-27 |
@@ -182,7 +182,7 @@
 | [stay \- lofi](https://open.spotify.com/track/2ljxDp3RcVh3PG7DuRScCZ) | [zxch.](https://open.spotify.com/artist/1zuECMB24HSnqEHB6j8nDG) | [stay \(lofi\)](https://open.spotify.com/album/5DuyGUzCm8lwoZSqPq1FUp) | 2:48 | 2022-06-10 |  |
 | [Steady Somewhere](https://open.spotify.com/track/7J0jAsnZ1VKTizaSaOYtLM) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Post It Beats Pt.1](https://open.spotify.com/album/7ajrWkAMXtm6aosZeWiSe4) | 2:36 | 2021-12-07 |  |
 | [String Theori](https://open.spotify.com/track/6hOVJidj6yGlS3sNdhGtNi) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [String Theori](https://open.spotify.com/album/5SQJKy1u9FTIvBZUNqGZrJ) | 3:44 | 2021-12-07 |  |
-| [Sunset Over Paris](https://open.spotify.com/track/4A7HE0qtkcaueIdBqTQIKK) | [Tall Roots](https://open.spotify.com/artist/6QHqHz26iLQmFVPbhEeOup) | [Sunset Over Paris](https://open.spotify.com/album/6U8r9IvFcbFpJva7TKWpxg) | 0:29 | 2021-12-07 |  |
+| [Sunset Over Paris](https://open.spotify.com/track/4A7HE0qtkcaueIdBqTQIKK) | [Tall Roots](https://open.spotify.com/artist/6QHqHz26iLQmFVPbhEeOup) | [Sunset Over Paris](https://open.spotify.com/album/6U8r9IvFcbFpJva7TKWpxg) | 2:28 | 2021-12-07 |  |
 | [Sweater Weather](https://open.spotify.com/track/1BPcsKuD9Ci3AJFLU1Lp7j) | [lilhugz](https://open.spotify.com/artist/3MjTMOiHklTmUksExsbTwq) | [Sweater Weather](https://open.spotify.com/album/4bwEsG9JD0bHUzX8TYzbhT) | 2:25 | 2021-12-07 |  |
 | [Sydney, 11PM](https://open.spotify.com/track/2w3PdEwgYWFEU1YOCYyw4x) | [Beats Per City](https://open.spotify.com/artist/1EZk4Yqacy9q6psmXiQR3G) | [Sydney, 11PM](https://open.spotify.com/album/6QCxyD7U3Ehybt1iuAhgmL) | 1:41 | 2021-12-07 | 2022-05-20 |
 | [The Hotel at the End of the World](https://open.spotify.com/track/1by1Ft419vJMoWynFCLwMX) | [lechiffrebeats](https://open.spotify.com/artist/0RDK14Ri76NaSlTIBrzYcn) | [The Hotel at the End of the World](https://open.spotify.com/album/5OQcRQ3T3dVxq3Ga898XXp) | 1:31 | 2022-05-27 |  |

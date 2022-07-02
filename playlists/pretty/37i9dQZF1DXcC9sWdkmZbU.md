@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 
 > Worship songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,632 likes - 57 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,648 likes - 57 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jesus Loves Me](https://open.spotify.com/track/18vX3PoNMD7zeSIzjON4FL) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Hillsong Kids Ultimate](https://open.spotify.com/album/29Z8Y1u3DROF2SkWgosrMu) | 3:50 |
 | 2 | [King Of Me](https://open.spotify.com/track/03UpQxGiMEmoMK9cQSheaK) | [Rend Co\. Kids](https://open.spotify.com/artist/5S1TlcaYEYdwtVb5ud3lPK), [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [King Of Me](https://open.spotify.com/album/7jZ2YQQcGMOJWDRv1C55Wz) | 2:17 |
 | 3 | [The Blessing](https://open.spotify.com/track/62MIyeR42atsXPWWSon90Q) | [Elevation Church Kids](https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5) | [Living Color](https://open.spotify.com/album/5R2pbzaWxfGNX8ar41wjkf) | 4:27 |
-| 4 | [Sing](https://open.spotify.com/track/5HGzHGgejsuTy8Q7EC5zrF) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Sing: Creation Songs](https://open.spotify.com/album/7cvbJNwioCCK1x07dZJzt4) | 0:29 |
+| 4 | [Sing](https://open.spotify.com/track/5HGzHGgejsuTy8Q7EC5zrF) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Sing: Creation Songs](https://open.spotify.com/album/7cvbJNwioCCK1x07dZJzt4) | 3:50 |
 | 5 | [Forever](https://open.spotify.com/track/3O1PxSSRd6WbhbEAhnE5JZ) | [Kids Worship Performers](https://open.spotify.com/artist/5FjG20GrL65IRBtxWMua2I) | [Kids Worship](https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc) | 4:52 |
 | 6 | [The Wages and The Gift \(Romans 3:23 & 6:23\)](https://open.spotify.com/track/66FICekGoTUgxZtJjJmMaG) | [Seeds Family Worship](https://open.spotify.com/artist/5kV2pC0biCYFh3y9HxgNkS) | [Seeds of Character \(Vol\. 6\)](https://open.spotify.com/album/6b1JxuC35XDHlwsMitTzt2) | 3:12 |
 | 7 | [Awesome God](https://open.spotify.com/track/4k8xg3hXmatho793UA1DBQ) | [Here I Am To Worship For Kids Performers](https://open.spotify.com/artist/4swSTrcaD1kMk6B0QhYgrW) | [Worship For Your Family \(Yellow\)](https://open.spotify.com/album/7FVmb7lT2S4FIT30LkAorA) | 3:14 |

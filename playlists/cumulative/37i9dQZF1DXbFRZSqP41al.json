@@ -279,7 +279,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 184813,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/79t7AWh419e1BHYWRkdOGY"
@@ -640,7 +640,7 @@
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 214075,
       "name": "Fever",
       "url": "https://open.spotify.com/track/0QPqmarimIKooURQb8ZR5Q"
     },
@@ -819,7 +819,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 174592,
       "name": "Heat Seeker",
       "url": "https://open.spotify.com/track/0P9nVsSehdmUwyIQNmtgXM"
@@ -909,7 +909,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 227440,
       "name": "Hysteria",
       "url": "https://open.spotify.com/track/7xyYsOvq5Ec3P4fr6mM9fD"
@@ -967,6 +967,24 @@
       "duration_ms": 237053,
       "name": "Is Everybody Going Crazy?",
       "url": "https://open.spotify.com/track/3CauBZqN2EuHTJo4sSpjbS"
+    },
+    {
+      "album": {
+        "name": "Johnny Wants To Fight",
+        "url": "https://open.spotify.com/album/0BHNYQwg5z73DRT5S4ja67"
+      },
+      "artists": [
+        {
+          "name": "Badflower",
+          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240500,
+      "name": "Johnny Wants To Fight",
+      "url": "https://open.spotify.com/track/7H1ZwfAglRLCUxS4kfLZtT"
     },
     {
       "album": {
@@ -1255,7 +1273,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 278746,
       "name": "No One Knows",
       "url": "https://open.spotify.com/track/6y20BV5L33R8YXM0YuI38N"
@@ -1501,7 +1519,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 205600,
       "name": "Sleep Now In the Fire",
       "url": "https://open.spotify.com/track/1MQTmpYOZ6fcMQc56Hdo7T"
@@ -1778,6 +1796,24 @@
     },
     {
       "album": {
+        "name": "Trouble\u2019s Coming",
+        "url": "https://open.spotify.com/album/7HZqhu4pOZcTAv7ROHhZSj"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228400,
+      "name": "Trouble\u2019s Coming",
+      "url": "https://open.spotify.com/track/5eR6OS3joTAHJToyzehKfu"
+    },
+    {
+      "album": {
         "name": "An Invitation to an Alternate Reality",
         "url": "https://open.spotify.com/album/5bDuQgZNqisa1OfmU1K1Pn"
       },
@@ -1879,7 +1915,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 176306,
       "name": "Woman",
       "url": "https://open.spotify.com/track/54ix2V2omFv9UUiMks7Fhf"

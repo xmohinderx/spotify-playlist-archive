@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-281 songs - 12 hr 45 min - [published](https://open.spotify.com/playlist/5PZ770ouKzW8rBTHStmSLB)
+281 songs - 13 hr 1 min - [published](https://open.spotify.com/playlist/5PZ770ouKzW8rBTHStmSLB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,11 +114,11 @@
 | [I Did It For Love](https://open.spotify.com/track/5jylGgVVATuDr405KavaE2) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [I Did It For Love](https://open.spotify.com/album/6838N6uu0AasMz7FxQkdfy) | 2:03 | 2021-12-08 | 2022-06-10 |
 | [I Found The Right Bottle Of Wine](https://open.spotify.com/track/2rFbFGCYmtwuUDEVSTyQ82) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [I Found The Right Bottle Of Wine](https://open.spotify.com/album/3s9PCTNI5xhZ5zgkcU7nOB) | 3:20 | 2022-03-04 |  |
 | [I'd Rather Sit In The Shadow](https://open.spotify.com/track/654XQa26b3ginvX2hDqcgK) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [I'd Rather Sit In The Shadow](https://open.spotify.com/album/6LnMDJkByww9cKemT7FUyq) | 3:23 | 2022-06-03 |  |
-| [I'm Coming Home To You](https://open.spotify.com/track/2fPgNS9Q6hMc0vzO4RLuEY) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [I'm Coming Home To You](https://open.spotify.com/album/0k1LPi3NvLhSpzOygfuD8Z) | 0:29 | 2021-12-08 |  |
+| [I'm Coming Home To You](https://open.spotify.com/track/2fPgNS9Q6hMc0vzO4RLuEY) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [I'm Coming Home To You](https://open.spotify.com/album/0k1LPi3NvLhSpzOygfuD8Z) | 2:12 | 2021-12-08 |  |
 | [If You Were Here](https://open.spotify.com/track/2acJuzADWH3QKDQhCDWojw) | [Martín Lima](https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51) | [Veronica](https://open.spotify.com/album/262G8MJfphHkpGMVEGo6tr) | 2:06 | 2021-12-08 |  |
 | [Igueldo](https://open.spotify.com/track/4IN9TQVhu3Mzw1fEwblxGq) | [Rick Strauss](https://open.spotify.com/artist/5eZxnhbh1hSbnwiSBzlb5q) | [Silver Castle](https://open.spotify.com/album/60mfbInhL61D5iw97J0nE5) | 2:12 | 2021-12-08 |  |
 | [Im Sonnenblumenfeld](https://open.spotify.com/track/3IFZMY6ohZsOgTVcMyL5b8) | [Erling Kruger](https://open.spotify.com/artist/4yyGsrMPRSGVkD8eNDfIGB) | [Am Flussufer](https://open.spotify.com/album/16sGnI2slEAdvJ1PHZkHmJ) | 2:55 | 2021-12-08 | 2022-05-27 |
-| [Imja Tse](https://open.spotify.com/track/0ihTAiX3o5zttzHd7m8FFg) | [Dawa Sherpa](https://open.spotify.com/artist/16QnPlBSrFOGlH44k9L7nN) | [Imja Tse](https://open.spotify.com/album/7exwPo0tOR6HV3DNsCHiaT) | 0:29 | 2021-12-08 |  |
+| [Imja Tse](https://open.spotify.com/track/0ihTAiX3o5zttzHd7m8FFg) | [Dawa Sherpa](https://open.spotify.com/artist/16QnPlBSrFOGlH44k9L7nN) | [Imja Tse](https://open.spotify.com/album/7exwPo0tOR6HV3DNsCHiaT) | 2:56 | 2021-12-08 |  |
 | [In Love Again](https://open.spotify.com/track/3fPLzICJgsoHFWL17jCWb7) | [Oscar Roland](https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH) | [Isla de Pascua](https://open.spotify.com/album/0wmc7SNnMXWIoTe3baSyFM) | 2:57 | 2022-01-19 |  |
 | [In My Life](https://open.spotify.com/track/3iHl3j3lY8habgtnr7D9KT) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [In My Life](https://open.spotify.com/album/2v8kp1duuU3WEwWjy5n5OW) | 2:04 | 2022-06-17 |  |
 | [in the barrel](https://open.spotify.com/track/08t0y9ckkd4D3INWzucet3) | [Heitor de Lima](https://open.spotify.com/artist/5FNGrj7hvqzeskFQMeCZe5) | [seaflowers](https://open.spotify.com/album/2m79xabOBSNymQfPqWdIt0) | 3:00 | 2021-12-08 |  |
@@ -185,8 +185,8 @@
 | [Our Corner Of The World](https://open.spotify.com/track/6fuQyoZURai0hV2js4AhHT) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Our Corner Of The World](https://open.spotify.com/album/6PlkLwoz58spqC90qxokN9) | 1:57 | 2021-12-08 | 2022-06-03 |
 | [Pali Hale](https://open.spotify.com/track/23KFTdPnG5SVo3UMNoI7BC) | [Lukas Holsen](https://open.spotify.com/artist/0k6bekZzPKdDnAcDbRqYgO) | [Pali Hale](https://open.spotify.com/album/17gtmAUDxphDXbzKo1lBtE) | 2:50 | 2021-12-08 |  |
 | [Passage](https://open.spotify.com/track/5QpR40FJQcO0dU4ygdQuIm) | [Carol Poole](https://open.spotify.com/artist/02I1DT5QQhN18VH7MYEsSv) | [Passage](https://open.spotify.com/album/6eVfefPBUUxftPxKDlxLjE) | 2:30 | 2021-12-08 | 2022-06-10 |
-| [Past & Present](https://open.spotify.com/track/43dy9gJMpgJmuhCS9fXreR) | [Isabella Molinero](https://open.spotify.com/artist/37C7aJnXB81MAsj0UqX4PV) | [Past & Present](https://open.spotify.com/album/1YkLOGEug3hxm0QZPfWkcs) | 0:29 | 2021-12-08 |  |
-| [Peace](https://open.spotify.com/track/6F0EP7RuYpUsIvppMg4NvY) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Peace](https://open.spotify.com/album/6mwJ5ErXnK8ylr8AidBzsR) | 0:29 | 2022-02-18 |  |
+| [Past & Present](https://open.spotify.com/track/43dy9gJMpgJmuhCS9fXreR) | [Isabella Molinero](https://open.spotify.com/artist/37C7aJnXB81MAsj0UqX4PV) | [Past & Present](https://open.spotify.com/album/1YkLOGEug3hxm0QZPfWkcs) | 3:01 | 2021-12-08 |  |
+| [Peace](https://open.spotify.com/track/6F0EP7RuYpUsIvppMg4NvY) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Peace](https://open.spotify.com/album/6mwJ5ErXnK8ylr8AidBzsR) | 2:45 | 2022-02-18 |  |
 | [Peace of Mind](https://open.spotify.com/track/09h0hGwGHsI5hmFuN6Wfik) | [Aaron Reid](https://open.spotify.com/artist/1ie0JBUOVxOoaVsQkuIsuG) | [Where I Belong](https://open.spotify.com/album/49FiONw30Aya5gcFJEOCz3) | 2:15 | 2021-12-08 |  |
 | [Pelotas](https://open.spotify.com/track/00lpRj2l4gBL7aex8kneAg) | [Maria Gastona](https://open.spotify.com/artist/3qkCdwF2fxcLJsPUigwRcV) | [Rosa](https://open.spotify.com/album/6g3WQMnaQDcJiWseLkTcv7) | 2:30 | 2021-12-08 | 2022-04-06 |
 | [Pescadores](https://open.spotify.com/track/1kUaMtCK9JFPHUqPY9vEWN) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Pescadores](https://open.spotify.com/album/6PZrP9DIw8EYEwkuyZm7Pj) | 2:47 | 2022-05-27 |  |
@@ -209,7 +209,7 @@
 | [Riviera Moon](https://open.spotify.com/track/437RdHmPqM2MC6DfmpGCxJ) | [Jessica Grange](https://open.spotify.com/artist/7xuui1WSiqWO67RrcHAGJh) | [Riviera Moon](https://open.spotify.com/album/3THNjZKsobzny5qV1XY8mR) | 1:58 | 2021-12-22 |  |
 | [Rosebuds](https://open.spotify.com/track/0GydsTxQwwzuyVbqpdSgD7) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Rosebuds](https://open.spotify.com/album/36pUo2ZfESoPVlGVRGrzIK) | 2:18 | 2021-12-08 | 2022-06-10 |
 | [Roses](https://open.spotify.com/track/29rFbzOew6wFUm29ZEtXIl) | [Victor Santos](https://open.spotify.com/artist/1VIfeRsZv9cw7shAwqBDOW) | [Roses](https://open.spotify.com/album/09p5h5U8OsTHA9dIaXGVes) | 3:51 | 2021-12-08 | 2022-07-01 |
-| [San Juan](https://open.spotify.com/track/3LJc8MWjahc3VNp3JGKrwX) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [San Juan](https://open.spotify.com/album/5cDGufFIZdvK1n8piyum2Z) | 0:29 | 2021-12-08 |  |
+| [San Juan](https://open.spotify.com/track/3LJc8MWjahc3VNp3JGKrwX) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [San Juan](https://open.spotify.com/album/5cDGufFIZdvK1n8piyum2Z) | 2:25 | 2021-12-08 |  |
 | [san luca](https://open.spotify.com/track/5HBOzyGyihD8KEptCOoxxu) | [Valery Isabel](https://open.spotify.com/artist/4QYwsnE0bbhWxuyUbSFnZR) | [purple dreams](https://open.spotify.com/album/3ofKSAH3DgolDBcU1IaWCs) | 3:06 | 2021-12-08 |  |
 | [San Sebastien](https://open.spotify.com/track/6brr1dBt7PqEuuGckXew6A) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Into The Sunset](https://open.spotify.com/album/4cBzYpHUYX82WDoQuhYeRd) | 3:09 | 2021-12-08 | 2022-06-10 |
 | [Sarabande In A Major](https://open.spotify.com/track/7MnFIm6VgmpsvN0Ont5Wsd) | [John A\. Nilson](https://open.spotify.com/artist/0jclSzw2eZAu8huZPEcOJ9) | [Sarabande In A Major](https://open.spotify.com/album/0cOdJ0RJ6AaWWPqEhap8G0) | 1:39 | 2021-12-08 |  |
@@ -243,7 +243,7 @@
 | [Sunweb](https://open.spotify.com/track/66BHo1Nt0G7gGXBkVU25Z5) | [Valencia de Rojas](https://open.spotify.com/artist/3cVBLaz97HsIX9pYhm65NM) | [Sunweb](https://open.spotify.com/album/7MFPACYpEQ4JNzmzqWxds0) | 3:00 | 2021-12-08 |  |
 | [Sweet Harbour](https://open.spotify.com/track/4Vn3gAiJNQdmlwW2OuXJCZ) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Sweet Harbour](https://open.spotify.com/album/2NC58fQcM4Pyf4DBLJdRW0) | 3:18 | 2021-12-08 |  |
 | [Symphony Road](https://open.spotify.com/track/6wD2btYlsmIi4VrHmsc5kY) | [Ruth Reynolds](https://open.spotify.com/artist/3PYUx4NhsZEBdLIk09FwRI) | [Symphony Road](https://open.spotify.com/album/1bQftBYXBT9z33Mwa4w8yG) | 2:27 | 2021-12-08 |  |
-| [Taar](https://open.spotify.com/track/0ojTn1yMJrTm7Kz8IlqtUn) | [Sun Guitar](https://open.spotify.com/artist/0RIvnFewvejl7pKPF0hcFg) | [Chitarra](https://open.spotify.com/album/4NMl9FJpiyIFyVwBpdMv3O) | 0:29 | 2021-12-08 |  |
+| [Taar](https://open.spotify.com/track/0ojTn1yMJrTm7Kz8IlqtUn) | [Sun Guitar](https://open.spotify.com/artist/0RIvnFewvejl7pKPF0hcFg) | [Chitarra](https://open.spotify.com/album/4NMl9FJpiyIFyVwBpdMv3O) | 3:42 | 2021-12-08 |  |
 | [Take Me Home](https://open.spotify.com/track/4epnY4Wrx6z4qjRQbCcorc) | [Playfall](https://open.spotify.com/artist/0pqHT6ERaAgl6rawFnytRS) | [Situations](https://open.spotify.com/album/5jhBDjpYs8hBJTBR1HVxxp) | 2:52 | 2021-12-08 |  |
 | [The Discovery](https://open.spotify.com/track/2SBzLIgiQ7NOrfsdYvudwN) | [Max & Evelyn Levin](https://open.spotify.com/artist/1NfTYfe4S4R5doamPIfxlw) | [The Discovery](https://open.spotify.com/album/08gWXUilwiSrBuiStV7KfG) | 1:43 | 2021-12-08 |  |
 | [The Dunes](https://open.spotify.com/track/0HRRkGGFpMQH1AMLUDYjc1) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [The Dunes](https://open.spotify.com/album/0zHcpVeaC1y6X1hYDKklKL) | 2:47 | 2022-05-13 |  |
@@ -251,7 +251,7 @@
 | [The Lone Wolf's Meadow](https://open.spotify.com/track/5085Fog6qVXvnsApSamQJl) | [William Bilford](https://open.spotify.com/artist/7LVVFIS8cyyb9aM5OV3Im0) | [The Lone Wolf's Meadow](https://open.spotify.com/album/33EnSk5EHcTVBMiycZ427c) | 2:07 | 2021-12-08 | 2022-04-06 |
 | [The Pioneers](https://open.spotify.com/track/6cuKQazicx5r7o5NQEp1uL) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Music IS](https://open.spotify.com/album/5ngpdhJLdTnAPBV03GgOLb) | 4:13 | 2021-12-08 |  |
 | [The Poconos](https://open.spotify.com/track/0ds1reOHuK7CCsu3nIzZXj) | [Sara Rice\-Clark](https://open.spotify.com/artist/1ChFJ60swiMaSUuw1mmHwd) | [The Poconos](https://open.spotify.com/album/3A40QGZkO7BxsX5pwDr017) | 2:51 | 2021-12-08 |  |
-| [Thousand Years Ago](https://open.spotify.com/track/03ii6bJVPO1xJNNsG9QvIB) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Thousand Years Ago](https://open.spotify.com/album/336D8kHYPubaAtmgCsVMMv) | 0:29 | 2022-05-13 |  |
+| [Thousand Years Ago](https://open.spotify.com/track/03ii6bJVPO1xJNNsG9QvIB) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Thousand Years Ago](https://open.spotify.com/album/336D8kHYPubaAtmgCsVMMv) | 2:19 | 2022-05-13 |  |
 | [tranquilas noches valencianas](https://open.spotify.com/track/3WHZooOd5JoUN45Y2out6e) | [Mateo Ortega](https://open.spotify.com/artist/1jLzDtxxrdDCLWSzv0YfRJ) | [Bajo La Luna](https://open.spotify.com/album/7eFERghf95UFiZ2pfE5Gld) | 3:30 | 2021-12-08 | 2022-06-17 |
 | [Treehouse](https://open.spotify.com/track/4HtW4pnVho9FCLEhqga7GS) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [Mirage](https://open.spotify.com/album/13QWnehIXcYC9GBZbPmJmC) | 2:28 | 2021-12-08 | 2022-05-27 |
 | [Tuul](https://open.spotify.com/track/0Wjd1SD4pR3m3vyWOXNmnl) | [Sun Guitar](https://open.spotify.com/artist/0RIvnFewvejl7pKPF0hcFg) | [Vanek](https://open.spotify.com/album/08u0Dbk7cWg2JSDj01K5Gy) | 2:33 | 2021-12-08 |  |

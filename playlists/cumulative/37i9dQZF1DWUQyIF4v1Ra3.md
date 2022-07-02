@@ -4,7 +4,7 @@
 
 > 
 
-34 songs - 2 hr 59 min - [published](https://open.spotify.com/playlist/3kNh10DqsuZ2pCoKdDPmQr)
+34 songs - 3 hr 1 min - [published](https://open.spotify.com/playlist/3kNh10DqsuZ2pCoKdDPmQr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Garbe Ki Raat](https://open.spotify.com/track/3Flsgjl9dIiWoHt0N6Htzl) | [Rahul Vaidya](https://open.spotify.com/artist/6XypcJDBmfuRjq52PFUVwd), [Bhoomi Trivedi](https://open.spotify.com/artist/6jM5CgYLvLOeGo2JOgWXMM) | [Garbe Ki Raat](https://open.spotify.com/album/78XTO1lfm0FQCppI5bwkaY) | 3:15 | 2022-01-12 |  |
 | [Garbo Gabber Gokhthi](https://open.spotify.com/track/2KsLnQYfjRWj9KletoyNeU) | [Kinjal Dave](https://open.spotify.com/artist/26qILArN7gTOjFRTbOTKbJ) | [Raas Garba Ni Ramzat](https://open.spotify.com/album/4eP0iXXD5VP2yHjCO75NVQ) | 2:09 | 2022-01-12 |  |
 | [Gori Radha Ne Kado Kaan](https://open.spotify.com/track/6YwisMp960dh6SGIUU9Nhz) | [Kirtidan Gadhvi](https://open.spotify.com/artist/7odYFkW15De3A7aAuk5x9h) | [Wrong Side Raju](https://open.spotify.com/album/3qAH4f7C9R8cO2v92pG7bG) | 5:26 | 2022-01-12 |  |
-| [Hu To Gaiti Mele](https://open.spotify.com/track/1P4yBFbktdTxt6chlTuhml) | [Aishwarya Majmudar](https://open.spotify.com/artist/7MAlFea251zaprQFjwvYaL) | [DJ Dandiya](https://open.spotify.com/album/6kdEWw7tUA9A07Awf0qBYk) | 0:29 | 2022-01-12 |  |
+| [Hu To Gaiti Mele](https://open.spotify.com/track/1P4yBFbktdTxt6chlTuhml) | [Aishwarya Majmudar](https://open.spotify.com/artist/7MAlFea251zaprQFjwvYaL) | [DJ Dandiya](https://open.spotify.com/album/6kdEWw7tUA9A07Awf0qBYk) | 1:55 | 2022-01-12 |  |
 | [Kaho Poonam Na](https://open.spotify.com/track/4Ubwv9oFDGgCyBkBa9XwcS) | [Aishwarya Majmudar](https://open.spotify.com/artist/7MAlFea251zaprQFjwvYaL) | [Rangtaali \- Non Stop Garba](https://open.spotify.com/album/1c21J9E55BypW4dLG17R5W) | 2:50 | 2022-01-12 |  |
 | [Kamariya](https://open.spotify.com/track/5HJvDTnAaDWqhsE841I1QR) | [Lijo George](https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh), [Dj Chetas](https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN), [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Mitron \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0jhDiAfzNalPhA0YmgI4df) | 4:11 | 2022-01-12 |  |
 | [Khodiyar Mari Mavdi](https://open.spotify.com/track/2NWTl6wnbP9e1XpFohed3b) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE), [Kirtidan Gadhvi](https://open.spotify.com/artist/7odYFkW15De3A7aAuk5x9h) | [Thanganat \(Non Stop Garba, Vol\. 16\)](https://open.spotify.com/album/0g3DifkCMaMswIooOllfCK) | 3:21 | 2022-01-12 |  |

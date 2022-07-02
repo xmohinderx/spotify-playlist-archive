@@ -4,7 +4,7 @@
 
 > Songs about our favorite furry, scaly, and feathered friends!
 
-72 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/0eSlqedljXbl1Hpa924LIm)
+72 songs - 2 hr 36 min - [published](https://open.spotify.com/playlist/0eSlqedljXbl1Hpa924LIm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Puppy Dog](https://open.spotify.com/track/1vMNgj3TCvhMU5A2mynH67) | [The Bee Street Band](https://open.spotify.com/artist/15WhCifdlrBMUbZNmDo0Yd) | [Animal Crackers](https://open.spotify.com/album/68Ltjea6YNGdqqpc7CyI3K) | 1:57 | 2022-01-14 |  |
 | [Puppy Dog](https://open.spotify.com/track/3ANJQIvfAgkh1VudRXGVm9) | [The Not\-Its!](https://open.spotify.com/artist/4Eo7yzZ7LoM4Cg8AySUWry) | [Tag, You're It!](https://open.spotify.com/album/5O0lrEav82bSTfEbcl37h3) | 2:04 | 2022-01-14 |  |
 | [Puppy Love](https://open.spotify.com/track/6CVJOoUjm3TUQgGaymBpdZ) | [The Beanies](https://open.spotify.com/artist/1RxCxHiHxD1XN9Jp6LVIkm) | [Full of Beans](https://open.spotify.com/album/5MvRprUOnJKcgpoDMNdJHI) | 2:37 | 2022-01-14 |  |
-| [Pussycat Pussycat \- 2012 Version](https://open.spotify.com/track/3iYAF7cCaT8bZctOjL3HxT) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [The Ultimate Nursery Rhymes and Song Collection](https://open.spotify.com/album/2H6xMEnwcyraIDvfTvettR) | 0:29 | 2022-01-14 |  |
+| [Pussycat Pussycat \- 2012 Version](https://open.spotify.com/track/3iYAF7cCaT8bZctOjL3HxT) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [The Ultimate Nursery Rhymes and Song Collection](https://open.spotify.com/album/2H6xMEnwcyraIDvfTvettR) | 0:58 | 2022-01-14 |  |
 | [Rabbit Hop](https://open.spotify.com/track/4uuEQv29ndZgc8uVlqt864) | [Tessarose](https://open.spotify.com/artist/7s4pqcP55465iBSnJ7hrFM) | [Sing a Song About Animals](https://open.spotify.com/album/2YP8tqXTba9GISBrPixjha) | 1:01 | 2022-01-14 |  |
 | [Respect My Pet](https://open.spotify.com/track/5XGUjLbuhsz1R5DADXrXa2) | [Teeny Tiny Stevies](https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov) | [Thoughtful Songs for Little People](https://open.spotify.com/album/7f8sw4jRMSFZoAykCkd7CA) | 3:00 | 2022-01-14 |  |
 | [Run Like The Kitty](https://open.spotify.com/track/6Rc4Qk36Cmv86RFoEVcww7) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Awesome Sauce](https://open.spotify.com/artist/4rF4SqHjG4ZNy3k6aJjru1) | [GoNoodle Presents: Awesome Sauce \(Vol\. 1\)](https://open.spotify.com/album/1W9jKPazWvWpQI3pRaAcBK) | 0:56 | 2022-01-14 |  |
@@ -72,7 +72,7 @@
 | [The Puppy Song](https://open.spotify.com/track/6JNY5Tdli77X4vuCE4ixFz) | [Bark Bryan](https://open.spotify.com/artist/0We6ZLwDgnyOSQS8OaTsHw) | [The Puppy Song](https://open.spotify.com/album/43pPNVp9K2KMFmMNVDmYa9) | 2:12 | 2022-01-14 |  |
 | [The Puppy Song](https://open.spotify.com/track/4B2y6pYyR9CLZYnNUqzaY9) | [Peanut Butter Jams](https://open.spotify.com/artist/2kvrXvmS6qLg14n8Z9WZZq) | [Kitchen Dance Party](https://open.spotify.com/album/7Kc3AF4vCj9Dl1tqRmt4U6) | 2:43 | 2022-01-14 |  |
 | [The Snake Song / Snake Slither and Shake](https://open.spotify.com/track/2xBwNMd66kDSptmoi6BhCz) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [The Snake Song / Snake Slither and Shake](https://open.spotify.com/album/2jyDSVGHnH3K1QYN5QXHxS) | 2:06 | 2022-01-14 |  |
-| [Three Little Kittens \- 2014 Version](https://open.spotify.com/track/5I9D2oS7a0tge0z5IygYOa) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [The Ultimate Nursery Rhymes and Song Collection](https://open.spotify.com/album/2H6xMEnwcyraIDvfTvettR) | 0:29 | 2022-01-14 |  |
+| [Three Little Kittens \- 2014 Version](https://open.spotify.com/track/5I9D2oS7a0tge0z5IygYOa) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [The Ultimate Nursery Rhymes and Song Collection](https://open.spotify.com/album/2H6xMEnwcyraIDvfTvettR) | 2:01 | 2022-01-14 |  |
 | [Veterinarian](https://open.spotify.com/track/2wkorvy9udtNjAsQ02RGBM) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Professions](https://open.spotify.com/album/1LMhHcOYoUimpVAby72f5J) | 1:08 | 2022-01-14 |  |
 | [Warm Kitty, Soft Kitty](https://open.spotify.com/track/5MkNN0SEArY5olPUDQrn1h) | [Play School](https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A) | [Hip Hip Hooray!](https://open.spotify.com/album/1sXrc8YqbbOCtRRjd07kgH) | 0:27 | 2022-01-14 |  |
 | [We All Love Our Pets](https://open.spotify.com/track/4pITScbrqHq4VKiKZ2dVVJ) | [Taking Back Sunday](https://open.spotify.com/artist/5f4yWv7PwL1Tm5PWsIoUPq) | [Yo Gabba Gabba Hey](https://open.spotify.com/album/3Ca8UokyDHfe4WfSLbWUl4) | 1:41 | 2022-01-14 |  |

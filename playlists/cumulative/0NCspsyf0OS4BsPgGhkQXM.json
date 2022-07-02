@@ -761,7 +761,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 184320,
       "name": "Body Breaker",
       "url": "https://open.spotify.com/track/6ViOxqq7aLe3lnfVTXH8LI"
@@ -928,7 +928,7 @@
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 228705,
       "name": "Broken",
       "url": "https://open.spotify.com/track/1PA8t7QlRzSpUOZIlLLi6U"
     },
@@ -1209,7 +1209,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 183912,
       "name": "Church",
       "url": "https://open.spotify.com/track/6Apozxrk03AIyQwyswUjbt"
@@ -1293,7 +1293,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 203636,
       "name": "Colours",
       "url": "https://open.spotify.com/track/6Ueq9hIlEaFwNwKniVryEF"
@@ -1425,7 +1425,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 203225,
       "name": "Creep",
       "url": "https://open.spotify.com/track/7CEIFwLf4XmFz8okORSizE"
@@ -1566,6 +1566,24 @@
     },
     {
       "album": {
+        "name": "DEAD",
+        "url": "https://open.spotify.com/album/1GaznnolBVSmfI5fxxBBZW"
+      },
+      "artists": [
+        {
+          "name": "TRAILS",
+          "url": "https://open.spotify.com/artist/4CSX0R9KLs9HkyqLfiraPQ"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183975,
+      "name": "DEAD",
+      "url": "https://open.spotify.com/track/2XkZmwkeIxvEF2vwzhjZ18"
+    },
+    {
+      "album": {
         "name": "Dead In The Water (feat. Zack Gray)",
         "url": "https://open.spotify.com/album/6FbfWSfaLmc3HqjIUwktl4"
       },
@@ -1672,7 +1690,7 @@
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 164773,
       "name": "Diamond Ring",
       "url": "https://open.spotify.com/track/4UadczGuTz5gWOt6nwGskx"
     },
@@ -1773,6 +1791,32 @@
       "duration_ms": 193958,
       "name": "Don't Look Down",
       "url": "https://open.spotify.com/track/2pt8dSblTOCi6R969U1kTv"
+    },
+    {
+      "album": {
+        "name": "Pieces (Remixes)",
+        "url": "https://open.spotify.com/album/1Ic9G6GEpSFcopAVI4Cbw9"
+      },
+      "artists": [
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        },
+        {
+          "name": "Leslie Powell",
+          "url": "https://open.spotify.com/artist/67tylszKgAZkKeJ0hCMyjU"
+        },
+        {
+          "name": "Slippy",
+          "url": "https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Don't Look Down - Slippy Remix",
+      "url": "https://open.spotify.com/track/0rg4wm7N51dWAFZ6gPbtjy"
     },
     {
       "album": {
@@ -2015,7 +2059,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 135529,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/7MIlZUzjRs4i5zvkAWgukg"
@@ -2159,7 +2203,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 223409,
       "name": "Exile - Something Remix",
       "url": "https://open.spotify.com/track/6pk6PdIHUP1h3MiDhezJ17"
@@ -2185,6 +2229,32 @@
       "duration_ms": 213600,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/5O4xjWUhVkTf0riu4rEkx0"
+    },
+    {
+      "album": {
+        "name": "Pieces (Remixes)",
+        "url": "https://open.spotify.com/album/1Ic9G6GEpSFcopAVI4Cbw9"
+      },
+      "artists": [
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        },
+        {
+          "name": "RUNN",
+          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
+        },
+        {
+          "name": "ODEA",
+          "url": "https://open.spotify.com/artist/6u6w26aq4RMgO0i4ZRvAwd"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211400,
+      "name": "Eyes Closed - ODEA Remix",
+      "url": "https://open.spotify.com/track/1YVhZtNxJK4JEnvKLdKJrc"
     },
     {
       "album": {
@@ -2741,7 +2811,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 223408,
       "name": "Good Riddance",
       "url": "https://open.spotify.com/track/3SIHY3CKoi145PnjT963un"
@@ -2999,7 +3069,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 211668,
       "name": "Heartbreak (VincA Remix)",
       "url": "https://open.spotify.com/track/7Gfk4en6FaREul71kx56pd"
@@ -3306,6 +3376,28 @@
     },
     {
       "album": {
+        "name": "UNIVERSE",
+        "url": "https://open.spotify.com/album/3ifSwEePntUUpMmygM5cso"
+      },
+      "artists": [
+        {
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        },
+        {
+          "name": "Lunamatic",
+          "url": "https://open.spotify.com/artist/77DTuUk6FabnQ9gB0e91qT"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222879,
+      "name": "I Miss You More Than You Think",
+      "url": "https://open.spotify.com/track/4bwRNsGCcUbK8zzJHwqiXD"
+    },
+    {
+      "album": {
         "name": "i wanna say",
         "url": "https://open.spotify.com/album/4dhUxrW3VtRdFrrgjj7Mnr"
       },
@@ -3517,6 +3609,28 @@
       "duration_ms": 159361,
       "name": "Itachi",
       "url": "https://open.spotify.com/track/0Ubf9w8wUokqlLruaZ9V8c"
+    },
+    {
+      "album": {
+        "name": "UNIVERSE",
+        "url": "https://open.spotify.com/album/3ifSwEePntUUpMmygM5cso"
+      },
+      "artists": [
+        {
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        },
+        {
+          "name": "ARIA VEIL",
+          "url": "https://open.spotify.com/artist/545ajuo5TGZsKToAf1CS6j"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314000,
+      "name": "Judgment",
+      "url": "https://open.spotify.com/track/6cNI4u2l16hLBrbwTV8FMn"
     },
     {
       "album": {
@@ -4015,7 +4129,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 122000,
       "name": "Losing My Mind (feat. Chrysana) - Level Up",
       "url": "https://open.spotify.com/track/29iilplHGv73DSWaHWTo6T"
@@ -4191,7 +4305,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 163800,
       "name": "Love Me First",
       "url": "https://open.spotify.com/track/6ZiLW7bS9eqAI3o7vz7d7p"
@@ -4496,7 +4610,7 @@
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 177600,
       "name": "Momenta",
       "url": "https://open.spotify.com/track/1bmgQT91R4A3i7BZ6xZcXc"
     },
@@ -4562,7 +4676,7 @@
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 167624,
       "name": "MOVE",
       "url": "https://open.spotify.com/track/7cwCe0ZxpZiL3SZAYo8Naq"
     },
@@ -4963,6 +5077,32 @@
       "duration_ms": 246857,
       "name": "Only Reason",
       "url": "https://open.spotify.com/track/1SC0BVu0v6z4K2fnVydkyH"
+    },
+    {
+      "album": {
+        "name": "Pieces (Remixes)",
+        "url": "https://open.spotify.com/album/1Ic9G6GEpSFcopAVI4Cbw9"
+      },
+      "artists": [
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        },
+        {
+          "name": "R\u00d8RY",
+          "url": "https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI"
+        },
+        {
+          "name": "wevlth",
+          "url": "https://open.spotify.com/artist/658zrakf4DYDqY0Fj4mi2e"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205935,
+      "name": "Only Reason - wevlth Remix",
+      "url": "https://open.spotify.com/track/2PMdpXFYbcvVZwG9azSnHl"
     },
     {
       "album": {
@@ -5480,6 +5620,32 @@
     },
     {
       "album": {
+        "name": "Pieces (Remixes)",
+        "url": "https://open.spotify.com/album/1Ic9G6GEpSFcopAVI4Cbw9"
+      },
+      "artists": [
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        },
+        {
+          "name": "Annie Schindel",
+          "url": "https://open.spotify.com/artist/4wSUq2vI7L0BzOQ9pTgozP"
+        },
+        {
+          "name": "Hekler",
+          "url": "https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273103,
+      "name": "Real Life - Hekler Remix",
+      "url": "https://open.spotify.com/track/3tAXaWjqeqRF5kSkDrFvh2"
+    },
+    {
+      "album": {
         "name": "1093",
         "url": "https://open.spotify.com/album/7tX0LuJuHqNFx9ucD9889K"
       },
@@ -5613,7 +5779,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 231100,
       "name": "Rip My Heart Out",
       "url": "https://open.spotify.com/track/12EYzHLOtNpbKP0rqEtscZ"
@@ -5877,7 +6043,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 232959,
       "name": "Say Nothing (feat. MAY-A)",
       "url": "https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl"
@@ -5946,6 +6112,28 @@
     },
     {
       "album": {
+        "name": "UNIVERSE",
+        "url": "https://open.spotify.com/album/3ifSwEePntUUpMmygM5cso"
+      },
+      "artists": [
+        {
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        },
+        {
+          "name": "Courtney Paige Nelson",
+          "url": "https://open.spotify.com/artist/2ZK0XNvxt6Fz2lcXHGl24r"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245828,
+      "name": "See You Go",
+      "url": "https://open.spotify.com/track/2ohKWVkLGG9R5FXsg9v3cf"
+    },
+    {
+      "album": {
         "name": "Dime A Dozen",
         "url": "https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae"
       },
@@ -5987,7 +6175,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 206135,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/59j95PNCr1eJX2d6wvDwFc"
@@ -6013,6 +6201,32 @@
       "duration_ms": 183000,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/5keO6CNCGYsAlNs6qfN5AJ"
+    },
+    {
+      "album": {
+        "name": "Pieces (Remixes)",
+        "url": "https://open.spotify.com/album/1Ic9G6GEpSFcopAVI4Cbw9"
+      },
+      "artists": [
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        },
+        {
+          "name": "Skeez",
+          "url": "https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG"
+        },
+        {
+          "name": "Sam Lamar",
+          "url": "https://open.spotify.com/artist/2ihPQnVz8d2ePjGcXLbNf8"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Shadow - Sam Lamar Remix",
+      "url": "https://open.spotify.com/track/37sXzRoIK543s9ZJCRMaRw"
     },
     {
       "album": {
@@ -6828,6 +7042,24 @@
     },
     {
       "album": {
+        "name": "Too Late To Love You",
+        "url": "https://open.spotify.com/album/2asDslP57oQT3SnErAPyRE"
+      },
+      "artists": [
+        {
+          "name": "Ex Habit",
+          "url": "https://open.spotify.com/artist/0wRGuF39WWxHeftv2TBNQT"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145573,
+      "name": "Too Late To Love You",
+      "url": "https://open.spotify.com/track/1XP6izZrqT8FsMaLKDAnUP"
+    },
+    {
+      "album": {
         "name": "Top Now",
         "url": "https://open.spotify.com/album/5iLlpCTNZy90Q536qcl9iX"
       },
@@ -7309,7 +7541,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 247122,
       "name": "We Know Who We Are",
       "url": "https://open.spotify.com/track/0XRsIbKGrud2SKm7OO5MoS"
@@ -7445,10 +7677,40 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 195428,
       "name": "Worth It",
       "url": "https://open.spotify.com/track/2SlQJGn5ZR0ZNO7M9sV7UT"
+    },
+    {
+      "album": {
+        "name": "Pieces (Remixes)",
+        "url": "https://open.spotify.com/album/1Ic9G6GEpSFcopAVI4Cbw9"
+      },
+      "artists": [
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        },
+        {
+          "name": "NURKO",
+          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+        },
+        {
+          "name": "Essenger",
+          "url": "https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE"
+        },
+        {
+          "name": "if found",
+          "url": "https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252857,
+      "name": "Worth It - if found Remix",
+      "url": "https://open.spotify.com/track/1BXqJQ8A3RylGQFuR4nR9L"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IAL5KfmFJA.md) - [plain]
 
 > In loving memory of Marie Fredriksson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,766 likes - 52 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,848 likes - 52 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IAL5KfmFJA.md) - [plain]
 | 10 | [Dangerous](https://open.spotify.com/track/756YOXmKh2iUnx33nAdfPf) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp! \(2009 Version\)](https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9) | 3:48 |
 | 11 | [How Do You Do!](https://open.spotify.com/track/3rfOs6Miteal5wQUdFx8w1) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Tourism \(2009 Version\)](https://open.spotify.com/album/6lH7u5QWoRteFLTw5DwG6d) | 3:09 |
 | 12 | [Sleeping in My Car \- Single Version](https://open.spotify.com/track/0CicjlSiN0HdzD2nigN9j4) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Don't Bore Us \- Get to the Chorus! Roxette's Greatest Hits](https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL) | 3:34 |
-| 13 | [Things Will Never Be The Same](https://open.spotify.com/track/2jKycIEA5nZOJxviK83FAX) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride](https://open.spotify.com/album/2s39oUayLt0O5uXkdgmheY) | 0:29 |
+| 13 | [Things Will Never Be The Same](https://open.spotify.com/track/2jKycIEA5nZOJxviK83FAX) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride](https://open.spotify.com/album/2s39oUayLt0O5uXkdgmheY) | 4:26 |
 | 14 | [The Big L.](https://open.spotify.com/track/3Me4YCKqNWLXZXl0CN3trv) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [The 30 Biggest Hits XXX](https://open.spotify.com/album/0z27R5fO6NqnZhPUiH9ykZ) | 4:25 |
 | 15 | [Almost Unreal](https://open.spotify.com/track/7rllLeuHbB59OQOILbNqF8) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Crash! Boom! Bang! \(2009 Version\)](https://open.spotify.com/album/52YascebxQ8Sn4ZYCvnFBs) | 3:54 |
 | 16 | [Queen Of Rain](https://open.spotify.com/track/1JJdm396S3IhI88Wh5J4YJ) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Tourism \(2009 Version\)](https://open.spotify.com/album/6lH7u5QWoRteFLTw5DwG6d) | 4:50 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IAL5KfmFJA.md) - [plain]
 | 20 | [Wish I Could Fly](https://open.spotify.com/track/0WA3oDtGuzprTGI5qEZuTl) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Have A Nice Day](https://open.spotify.com/album/0nH1MMlYBi0LcAXpA2KaDn) | 4:39 |
 | 21 | [Milk and Toast and Honey](https://open.spotify.com/track/5zKyU6CL3L0QA2J4jcBzRM) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [The 30 Biggest Hits XXX](https://open.spotify.com/album/0z27R5fO6NqnZhPUiH9ykZ) | 4:04 |
 | 22 | [Run To You](https://open.spotify.com/track/1zeqAF6Hf1lPJoNkkmNA9j) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Crash! Boom! Bang! \(2009 Version\)](https://open.spotify.com/album/52YascebxQ8Sn4ZYCvnFBs) | 3:39 |
-| 23 | [Church Of Your Heart](https://open.spotify.com/track/6broBHB7ObAA2BhzLT2nlX) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride](https://open.spotify.com/album/2s39oUayLt0O5uXkdgmheY) | 0:29 |
+| 23 | [Church Of Your Heart](https://open.spotify.com/track/6broBHB7ObAA2BhzLT2nlX) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride](https://open.spotify.com/album/2s39oUayLt0O5uXkdgmheY) | 3:15 |
 | 24 | [Habla El Corazón \(Listen to Your Heart\)](https://open.spotify.com/track/2V9cNEWIimaJCXMw4tL6Sk) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Baladas En Español](https://open.spotify.com/album/7iKhBP0N1KgoQsoCr3YvI2) | 5:11 |
 | 25 | [The Rain](https://open.spotify.com/track/0pSv1DbIvg3ifHrEuEGdYW) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Tourism \(2009 Version\)](https://open.spotify.com/album/6lH7u5QWoRteFLTw5DwG6d) | 4:49 |
 | 26 | [What's She Like?](https://open.spotify.com/track/6pQxFWetpilh5MW6oRDB6I) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Crash! Boom! Bang! \(2009 Version\)](https://open.spotify.com/album/52YascebxQ8Sn4ZYCvnFBs) | 4:14 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IAL5KfmFJA.md) - [plain]
 | 29 | [June Afternoon](https://open.spotify.com/track/3tSdiH7uUhSQG7QQtj9uTr) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Don't Bore Us \- Get to the Chorus! Roxette's Greatest Hits](https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL) | 4:11 |
 | 30 | [Soy Una Mujer \(Fading Like a Flower\)](https://open.spotify.com/track/69RnMA6JzuVCG0osd731iU) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Baladas En Español](https://open.spotify.com/album/7iKhBP0N1KgoQsoCr3YvI2) | 3:48 |
 | 31 | [Vulnerable](https://open.spotify.com/track/3f5r7wd7GdLHzDuCY9M0X6) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Crash! Boom! Bang! \(2009 Version\)](https://open.spotify.com/album/52YascebxQ8Sn4ZYCvnFBs) | 5:00 |
-| 32 | [\(Do You Get\) Excited?](https://open.spotify.com/track/1VXThXSlJDfst2CkNxvAz9) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride](https://open.spotify.com/album/2s39oUayLt0O5uXkdgmheY) | 0:29 |
+| 32 | [\(Do You Get\) Excited?](https://open.spotify.com/track/1VXThXSlJDfst2CkNxvAz9) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride](https://open.spotify.com/album/2s39oUayLt0O5uXkdgmheY) | 4:15 |
 | 33 | [A Thing About You](https://open.spotify.com/track/7JqAHnv9YZOPN8HTR4Fq7M) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [The Ballad Hits](https://open.spotify.com/album/2vYVXGQRRtaicjLpt5INMP) | 3:46 |
 | 34 | [Never Is A Long Time](https://open.spotify.com/track/1IXnv4cO6Ux36cusZZrk35) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Tourism \(2009 Version\)](https://open.spotify.com/album/6lH7u5QWoRteFLTw5DwG6d) | 3:45 |
 | 35 | [Silver Blue](https://open.spotify.com/track/7IvJlX1B8GBopPaVORMfBw) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Tourism \(2009 Version\)](https://open.spotify.com/album/6lH7u5QWoRteFLTw5DwG6d) | 4:06 |

@@ -4,7 +4,7 @@
 
 > <a href="http://casaum.org/">Casa 1</a> recommends songs from LBT women \(lesbians, bi and trans\)\. \| Cover:  Ventura Profana
 
-50 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/5vDUfBtAHRwJD6jYMYd1zW)
+50 songs - 3 hr 11 min - [published](https://open.spotify.com/playlist/5vDUfBtAHRwJD6jYMYd1zW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Francamente](https://open.spotify.com/track/3vmArANivBdKrVTk31MuNC) | [Maluria](https://open.spotify.com/artist/7JBLPessKgwsHZFOHpPgKk) | [Francamente](https://open.spotify.com/album/1onP44DuGC2RTz4u0zJSjK) | 2:41 | 2022-03-08 |  |
 | [Fullgás](https://open.spotify.com/track/2qcfKvkTopzpSOeLW9AvyM) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Fullgás](https://open.spotify.com/album/3CgjFI4cjXwJEf7EQaXJQP) | 4:07 | 2022-03-08 |  |
 | [Garganta](https://open.spotify.com/track/7ggsCVhoqrOJOyDXDvWBlB) | [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN) | [Ana Carolina](https://open.spotify.com/album/4cLlfzzQAr7ZXIIv2OG2xG) | 3:35 | 2022-03-08 |  |
-| [Isso É Fundo De Quintal](https://open.spotify.com/track/3UDX9t8WuQ0jYjt80gcdKN) | [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Leci Brandão](https://open.spotify.com/album/4AnfgQ4FOryX8qy0w1xzm6) | 0:29 | 2022-03-08 |  |
+| [Isso É Fundo De Quintal](https://open.spotify.com/track/3UDX9t8WuQ0jYjt80gcdKN) | [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Leci Brandão](https://open.spotify.com/album/4AnfgQ4FOryX8qy0w1xzm6) | 3:48 | 2022-03-08 |  |
 | [Lamento de Força Travesti](https://open.spotify.com/track/2Ul6uDCXoEQNpZ417lxcxW) | [Renna](https://open.spotify.com/artist/2FzvCkPajfas2wwFVKVKjn), [Gabi Benedita](https://open.spotify.com/artist/2BoOcwBm55BOC1IaRIVoOs), [Letícia Coelho](https://open.spotify.com/artist/0Cw72Fmn9WVO8yEm7aby9L) | [Lamento de Força Travesti](https://open.spotify.com/album/2TK83D9uz49cEsxjLbkeaK) | 4:07 | 2022-03-08 |  |
 | [Malandragem](https://open.spotify.com/track/2Ktn7Hg3jocizpfzYJKLty) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Cássia Eller \(1994\)](https://open.spotify.com/album/3JGRDTWHXpXNfoAPglI7Tr) | 4:10 | 2022-03-08 |  |
 | [Maresia \- Ao Vivo](https://open.spotify.com/track/37Z5WN0siOyxgTl5h1dk8J) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 4:11 | 2022-03-08 |  |

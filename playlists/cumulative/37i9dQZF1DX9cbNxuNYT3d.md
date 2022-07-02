@@ -4,7 +4,7 @@
 
 > Some of the biggest french touch classics! Cover: Daft Punk
 
-50 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/5DQkBIKvID2f1LdpT2HjaI)
+50 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/5DQkBIKvID2f1LdpT2HjaI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Peace and Tranquility to Earth](https://open.spotify.com/track/7jKp4Yl1p89ByCMOjh2fHR) | [Roudoudou](https://open.spotify.com/artist/6YTtkGLYyAHNUGD8PVL6SL) | [Listener's Digest](https://open.spotify.com/album/6VsiGQn3S3dgape5u4dZhB) | 4:13 | 2022-01-11 |  |
 | [Pocket Piano](https://open.spotify.com/track/6XFzZqAuJKpbPvU2IFBvxK) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun) | [Pocket Piano](https://open.spotify.com/album/5Eqtp8axXrFe0R4VU8yPWm) | 4:33 | 2022-01-11 |  |
 | [Poison Lips](https://open.spotify.com/track/3zf7uD8ClQ2TXGMZlXISup) | [Vitalic](https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9) | [Flashmob](https://open.spotify.com/album/4yUXPQs1dQpMw6GmHYsx3N) | 3:54 | 2022-01-11 |  |
-| [Prix Choc \- Radio Edit \- High Mix](https://open.spotify.com/track/6UEhwP9HXhRlltR8y9iH8D) | [Étienne de Crécy](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7) | [Prix Choc Remixes \- EP](https://open.spotify.com/album/3gM5pBpuKsYF1LCFYUbIG8) | 0:29 | 2022-01-11 |  |
+| [Prix Choc \- Radio Edit \- High Mix](https://open.spotify.com/track/6UEhwP9HXhRlltR8y9iH8D) | [Étienne de Crécy](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7) | [Prix Choc Remixes \- EP](https://open.spotify.com/album/3gM5pBpuKsYF1LCFYUbIG8) | 3:55 | 2022-01-11 |  |
 | [Que Sera](https://open.spotify.com/track/6TSDRzJGwbK9cajVbtqlPV) | [Wax Tailor](https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG) | [Tales of the Forgotten Melodies](https://open.spotify.com/album/15fB97DqVW1K7Jy1vpkYRZ) | 2:44 | 2022-01-11 |  |
 | [Sacré français](https://open.spotify.com/track/4wjj2eNX7iELAhCh4X40Dj) | [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [Yellow Productions: 20 Years of Music](https://open.spotify.com/album/1VOyqL5y9mvfiWh8Gk1Ty5) | 4:54 | 2022-01-11 |  |
 | [Sexy Boy](https://open.spotify.com/track/6INLpBxo9F5QMer04VXEnd) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 4:58 | 2022-01-11 |  |

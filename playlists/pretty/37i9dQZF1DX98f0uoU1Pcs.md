@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Amyl & the Sniffers
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,884 likes - 124 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,067 likes - 124 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 48 | [Searching for You](https://open.spotify.com/track/7xtOiQ4dkFpXIh2iRoVZDV) | [Weird Nightmare](https://open.spotify.com/artist/2dRm7hmP96rgIGGGX1wiLc) | [Searching for You](https://open.spotify.com/album/2ty9GQB9HHy5oAwHuCR5b0) | 3:03 |
 | 49 | [There Are Good Times Coming](https://open.spotify.com/track/7oaxiEMC83bxiKVbYCXBa7) | [Sinead O Brien](https://open.spotify.com/artist/0Nron4wq7uF2TwLodaVRHr) | [There Are Good Times Coming](https://open.spotify.com/album/03p5eM8AVDOEWzk7pVlrZ7) | 3:55 |
 | 50 | [Rat Beat](https://open.spotify.com/track/1KYt8BaFbULd7jU52MinI2) | [Beach Rats](https://open.spotify.com/artist/7pX2wNFpBvwP9T0wkhAxJD) | [Rat Beat](https://open.spotify.com/album/3RUlHcQx91MUm4bFONfT57) | 1:33 |
-| 51 | [Scratchcard Lanyard](https://open.spotify.com/track/5NtATk9xTMCKBlL46IJoXC) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [New Long Leg](https://open.spotify.com/album/4oNy189uvEgnJKNLsWx9Zz) | 0:29 |
+| 51 | [Scratchcard Lanyard](https://open.spotify.com/track/5NtATk9xTMCKBlL46IJoXC) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [New Long Leg](https://open.spotify.com/album/4oNy189uvEgnJKNLsWx9Zz) | 4:06 |
 | 52 | [Tears Are Falling](https://open.spotify.com/track/3JAu0EQd84Mhu8RMLuwhsf) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Tears Are Falling](https://open.spotify.com/album/1Jy6QtG48t50gXKbxu3tcn) | 2:44 |
 | 53 | [Mad About You](https://open.spotify.com/track/0g8BCsHFlRty3KnX4GEyJZ) | [Televisionaries](https://open.spotify.com/artist/6Tb9rehtVCRdLfsQXMgOaD) | [Mad About You](https://open.spotify.com/album/2iZFxp4O4u11do64P2381S) | 2:26 |
 | 54 | [Sober](https://open.spotify.com/track/5trFqaSXEVsKk0dH3XeEQb) | [Bakers Eddy](https://open.spotify.com/artist/5jfNarQg6Z53zgEOzsDswD) | [Sober](https://open.spotify.com/album/6cSdm63mgMvJJ7iStrfhlb) | 2:55 |
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 99 | [Fate Is...](https://open.spotify.com/track/0pMAi0RA1Y1zKt5VNM4uED) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [I Was Trying to Describe You to Someone](https://open.spotify.com/album/4Qe5TvCjMQmX0gjjYwtARt) | 2:40 |
 | 100 | [Jackie](https://open.spotify.com/track/3zXKeRjijKnBTJibrVY9kV) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [The Asymptotical World EP](https://open.spotify.com/album/2julo3Z5rNzSod7DoEuTz7) | 2:56 |
 | 101 | [Criminal Nah](https://open.spotify.com/track/03861A0DheRnNMgTnD1bT3) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos) | [Criminal Nah](https://open.spotify.com/album/3dYbpYSo9QSBVstX4ZJtXo) | 2:03 |
-| 102 | [Head Cheerleader](https://open.spotify.com/track/1qLWOCtiIYPJkLQxdqwYxk) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Death of a Cheerleader](https://open.spotify.com/album/0iSh2sXytE5jbpPiKts3z4) | 0:29 |
+| 102 | [Head Cheerleader](https://open.spotify.com/track/1qLWOCtiIYPJkLQxdqwYxk) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Death of a Cheerleader](https://open.spotify.com/album/0iSh2sXytE5jbpPiKts3z4) | 3:08 |
 | 103 | [I Hate My Life](https://open.spotify.com/track/0BFn6Tx59l6tYDge5IZ9e1) | [Mr\. Max](https://open.spotify.com/artist/4laks2a8FFBHbLUcS5Eli5) | [I Hate My Life](https://open.spotify.com/album/1Dz1Mhh2Ch8ddZYAENV8Me) | 3:10 |
 | 104 | [Missile Command](https://open.spotify.com/track/3kXNzPTs1tmjAoCo5aov3t) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Missile Command](https://open.spotify.com/album/4uGaVxhX8MdhGgJmn2rAnC) | 3:24 |
 | 105 | [Gum](https://open.spotify.com/track/0lyVppVVoinZxa3a6HpYhR) | [Thyla](https://open.spotify.com/artist/0L6tY7VDHwGDhx3T989SAJ) | [Gum](https://open.spotify.com/album/59vxZFROZPhQWwJGdJlLYH) | 3:18 |

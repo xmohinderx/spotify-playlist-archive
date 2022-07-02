@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 
 > These beautifully\-hypnotising vocalists are bound to make your evenings more chilling than ever.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,227 likes - 70 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,237 likes - 70 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [moonlight](https://open.spotify.com/track/6xCB26Dg9hVNE76hJ774aU) | [dilasarah](https://open.spotify.com/artist/2U2xHTxh2E1Y4GX9deASV3) | [moonlight](https://open.spotify.com/album/66VclcKcfP5LZzoC4Su0eA) | 3:23 |
 | 2 | [Runaway](https://open.spotify.com/track/7oHijHxh7cI40fNC4S619V) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Runaway](https://open.spotify.com/album/4iioyYjn5y3TYGTdl7qdL5) | 3:38 |
 | 3 | [Six Feet Under](https://open.spotify.com/track/1h4HSaKCCKVtxxk1Ak62sw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Six Feet Under](https://open.spotify.com/album/3JwLYRyQC7XojyloL2EvGf) | 3:09 |
-| 4 | [Daydream](https://open.spotify.com/track/2maRlyHobUhKKO6rF9S8ez) | [Odelia Rei](https://open.spotify.com/artist/7G7I02yeiNBx3WwKYWlpaA) | [Daydream](https://open.spotify.com/album/0G1SAm9dDdCyDEksXPQTp0) | 0:29 |
+| 4 | [Daydream](https://open.spotify.com/track/2maRlyHobUhKKO6rF9S8ez) | [Odelia Rei](https://open.spotify.com/artist/7G7I02yeiNBx3WwKYWlpaA) | [Daydream](https://open.spotify.com/album/0G1SAm9dDdCyDEksXPQTp0) | 2:17 |
 | 5 | [Picture](https://open.spotify.com/track/2TSrPTmItdlM4IljhNe7SM) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [The Picture](https://open.spotify.com/album/72KtIRmlY0xwsWViKQGEv0) | 2:30 |
 | 6 | [Inside Out](https://open.spotify.com/track/7sG2bWi2eDtvX9vX8yC1Gn) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Charlee](https://open.spotify.com/artist/6qaQDRYp95AylkA1FnEI3Q) | [Inside Out](https://open.spotify.com/album/7mgjbCQ1gzFbASVLgD8YbV) | 3:53 |
 | 7 | [Sardine Song](https://open.spotify.com/track/6cIKtihxWYkzkJHPQOiun1) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Sardine Song / Spirit Ditch](https://open.spotify.com/album/6GnrVEBefmxllZVtKVswLy) | 3:29 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 | 16 | [Impressions](https://open.spotify.com/track/12ZNnAQqvmJmT1wGXkzKCd) | [Kemrie](https://open.spotify.com/artist/5ZAXoEmG8XufgQpkWbHbSp) | [Impressions](https://open.spotify.com/album/1reOkkyChSAu1w9aWvhJCE) | 4:40 |
 | 17 | [Lost Without You](https://open.spotify.com/track/26z6V1SijQq6J3gPIu1H7t) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Lost Without You](https://open.spotify.com/album/4wvckIYLIsYQQ5ES3H9Pzn) | 3:45 |
 | 18 | [Wish That You Were Here \- From “Miss Peregrine’s Home for Peculiar Children” Original Motion Picture](https://open.spotify.com/track/6xLwpq74Od2hg00JvOIot4) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Wish That You Were Here \(From “Miss Peregrine’s Home For Peculiar Children” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2kFm9f7gOLwf3WyUd5ld7M) | 6:42 |
-| 19 | [Horizon](https://open.spotify.com/track/0BDJTB38QlbuLJYQuP3NBZ) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [Black Dog: Being a Teacher \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/2tJflNSw531Y0XW5KmabiA) | 0:29 |
+| 19 | [Horizon](https://open.spotify.com/track/0BDJTB38QlbuLJYQuP3NBZ) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [Black Dog: Being a Teacher \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/2tJflNSw531Y0XW5KmabiA) | 4:14 |
 | 20 | [Angel Dust](https://open.spotify.com/track/6z6DVKDc11TLiqzzSaATHC) | [Casté](https://open.spotify.com/artist/7zeoSpBQB05hRwUCFO33i5) | [Angel Dust](https://open.spotify.com/album/6cVjGEvXAohfOjvX9gJZmz) | 4:18 |
 | 21 | [Homesick](https://open.spotify.com/track/3mluWGHKcF9mOYsEomom4G) | [Hashy](https://open.spotify.com/artist/4Jmv1DRK6zstwBwF2W91D1) | [Homesick](https://open.spotify.com/album/4z51veoICLyD9mARDIYA5M) | 2:35 |
 | 22 | [Lust for Life \(with The Weeknd\)](https://open.spotify.com/track/5LYQSNHZxEA880URXFHg6h) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Lust for Life \(with The Weeknd\)](https://open.spotify.com/album/36HlMFtb9FiBpglTJqZUmZ) | 4:24 |

@@ -4,7 +4,7 @@
 
 > 
 
-51 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/6iH5O4QEHY1sIrpB71urvg)
+51 songs - 3 hr 38 min - [published](https://open.spotify.com/playlist/6iH5O4QEHY1sIrpB71urvg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,10 +22,10 @@
 | [Goodbye Girl](https://open.spotify.com/track/3c6vdiLeV9DUbTMWk5H3se) | [David Gates](https://open.spotify.com/artist/5BmXbfqAgfkuTkPlVQDKOW) | [Goodbye Girl](https://open.spotify.com/album/6In7MCrPTTezZiHrdFtSDd) | 2:48 | 2013-06-27 |  |
 | [Grease](https://open.spotify.com/track/74t6ZmO6Vzq553l2zRgdhs) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [Grease](https://open.spotify.com/album/3ku54lKW19XjXwhNkNdtzZ) | 3:25 | 2013-06-27 |  |
 | [Hopelessly Devoted To You](https://open.spotify.com/track/4ffryesggmTUgxvsD90msA) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Back To Basics: The Essential Collection 1971\-1992](https://open.spotify.com/album/2oakCvKsiK8NqZvvlEzmn4) | 3:07 | 2013-06-27 |  |
-| [Hot Blooded](https://open.spotify.com/track/6xMHglHoafdDFGXS6qfwSH) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Double Vision \(Expanded\)](https://open.spotify.com/album/6lu6DYE0eHHp1gd3QGUYhu) | 0:29 | 2013-06-27 |  |
+| [Hot Blooded](https://open.spotify.com/track/6xMHglHoafdDFGXS6qfwSH) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Double Vision \(Expanded\)](https://open.spotify.com/album/6lu6DYE0eHHp1gd3QGUYhu) | 4:28 | 2013-06-27 |  |
 | [Hot Child In The City \- \(Pre\-Order Exclusive\)](https://open.spotify.com/track/69eihm0ByPDKtOnZ2B9mA7) | [Nick Gilder](https://open.spotify.com/artist/2kzcxYyQIRbwtkwVtj48mG) | [Hot Child In The City](https://open.spotify.com/album/6ndJxKyXX7qUDW0c5p4d1o) | 3:34 | 2013-06-27 |  |
 | [How Deep Is Your Love \(2007 Remastered Saturday Night Fever LP Version\)](https://open.spotify.com/track/1gIKd24bixkgYzuxse32oR) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Saturday Night Fever \[The Original Movie Soundtrack\]](https://open.spotify.com/album/0taUwU7qjtc9lvwmd7FKac) | 4:05 | 2013-06-27 |  |
-| [I Go Crazy](https://open.spotify.com/track/5qZNMsjtZwB02g4oQnHXWf) | [Paul Davis](https://open.spotify.com/artist/6EJmqnuK0r6qiAevFFiNNR) | [Paul Davis Greatest Hits](https://open.spotify.com/album/6FTbmoGyMvyTtJnmL6Dh41) | 0:29 | 2013-06-27 |  |
+| [I Go Crazy](https://open.spotify.com/track/5qZNMsjtZwB02g4oQnHXWf) | [Paul Davis](https://open.spotify.com/artist/6EJmqnuK0r6qiAevFFiNNR) | [Paul Davis Greatest Hits](https://open.spotify.com/album/6FTbmoGyMvyTtJnmL6Dh41) | 3:52 | 2013-06-27 |  |
 | [If I Can't Have You](https://open.spotify.com/track/0QjPiq9Wka9I1b4uzWETYI) | [Yvonne Elliman](https://open.spotify.com/artist/2d6JU9LvNhZR7AAtu4x2rS) | [The Best Of Yvonne Elliman](https://open.spotify.com/album/0AzxFeB4qg0FXpmXTDuyDj) | 3:00 | 2013-06-27 |  |
 | [Imaginary Lover \- Rerecorded](https://open.spotify.com/track/1aS6ab6EJRJXctFnt55Jkb) | [Atlanta Rhythm Section](https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw) | [The Very Best of the Atlanta Rhythm Section](https://open.spotify.com/album/7164hL7CyOYRHb7kd9wHtd) | 5:32 | 2013-06-27 |  |
 | [It's A Heartache](https://open.spotify.com/track/1noADETgR8OFyvszD3sI0n) | [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [It's A Heartache](https://open.spotify.com/album/1zBLR1gBfR7jwJUeSnm7QG) | 3:28 | 2013-06-27 |  |

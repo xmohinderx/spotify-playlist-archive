@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: OOHYO \(Korea\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,206 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,244 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,12 +75,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 65 | [I Like Me Better Now](https://open.spotify.com/track/6jTqsb08gdgzHfnnQSHRsc) | [Kim Chi Sun](https://open.spotify.com/artist/6R5x0FCE48rOtZjazPbRyh), [Datmaniac](https://open.spotify.com/artist/56su1iNcOlGUPEtBoOoJ5D) | [I Like Me Better Now](https://open.spotify.com/album/4Nqv5gCSOIPSCmlxtoRqUR) | 3:56 |
 | 66 | [OH HEY](https://open.spotify.com/track/6YZeMe9CGjpc6JG6JofwsU) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [OH HEY](https://open.spotify.com/album/1JlkxU3l8RV4whcN0nP1DD) | 3:57 |
 | 67 | [When Reasons End](https://open.spotify.com/track/4y2iVcECRxIa9eyDPP0nYD) | [Ghost Fever](https://open.spotify.com/artist/1ZmDucAM1OEaljYZ1W4SLY) | [Here Comes The Neighbor](https://open.spotify.com/album/5tAYvG42QsTDsaaaxOQbLp) | 4:18 |
-| 68 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 0:29 |
+| 68 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 |
 | 69 | [i like u](https://open.spotify.com/track/5UHPob6XgbZw5CXOyHtMhD) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [i like u](https://open.spotify.com/album/0il3XZ7i2T01i0M4Ij9SVZ) | 2:27 |
 | 70 | [Forever](https://open.spotify.com/track/3Q9xCPaEU0vla6XzjIIKpx) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3) | [Forever](https://open.spotify.com/album/5GOTTBCBjwIyQfvl9zfhtW) | 3:45 |
 | 71 | [Mananatili](https://open.spotify.com/track/683vYd6JzbsguUFrX5VeG9) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Mananatili](https://open.spotify.com/album/5xJmMjAm9YSLcZJ0wwAiaL) | 3:51 |
 | 72 | [Undo \(feat\. Su\)](https://open.spotify.com/track/3PPw7f955j5emJDS4hrjbs) | [The Whisperer](https://open.spotify.com/artist/6KvQwU4UxItDsPSIYqVOZz), [Su](https://open.spotify.com/artist/1l8xhC977AFxpN7QyDajbC) | [Casual Day](https://open.spotify.com/album/4SUl0HZ4PltGiBRmmqoMgq) | 3:19 |
-| 73 | [Bitter to See You](https://open.spotify.com/track/7ukcgnAM0U3eAZelLiFQuV) | [Drizzly.](https://open.spotify.com/artist/0syfivLWCWPjoQqummbiwU) | [Bitter to See You](https://open.spotify.com/album/7e7rbwuIpKvqjcJDrmOLaM) | 0:29 |
+| 73 | [Bitter to See You](https://open.spotify.com/track/7ukcgnAM0U3eAZelLiFQuV) | [Drizzly.](https://open.spotify.com/artist/0syfivLWCWPjoQqummbiwU) | [Bitter to See You](https://open.spotify.com/album/7e7rbwuIpKvqjcJDrmOLaM) | 2:15 |
 | 74 | [This Is Where I Leave You](https://open.spotify.com/track/1XdkU9HeHcHaKxLjIjP7c0) | [Danny Leone](https://open.spotify.com/artist/54TPhv2iPcuPObOzxZLQbO) | [This Is Where I Leave You](https://open.spotify.com/album/2glM5A2KXvltgXvkotGJaE) | 4:05 |
 | 75 | [Strange World](https://open.spotify.com/track/3QOuemHPvUS3rnTFBrmNzb) | [Hazy Sour Cherry](https://open.spotify.com/artist/3PsepAwOMZT9vSREseiDW5) | [Strange World](https://open.spotify.com/album/2bn6O3GayBt7HyEysgcSxR) | 3:05 |
 

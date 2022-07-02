@@ -4,14 +4,14 @@
 
 > Some nice little jams to make the ride smooth\. To quote Dom Kennedy &quot;Pleeze Make It Home Safe&quot; \(also closing song\).
 
-40 songs - 2 hr 37 min - [published](https://open.spotify.com/playlist/7t7lMept0twz2DILClQcdA)
+40 songs - 2 hr 42 min - [published](https://open.spotify.com/playlist/7t7lMept0twz2DILClQcdA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 \(feat\. Drake\)](https://open.spotify.com/track/1hZ13x9jzNpcSXd6hWtqsw) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [100 \(feat\. Drake\)](https://open.spotify.com/album/28p2PovJC3eJ40qk5MeAAK) | 5:43 | 2015-07-23 |  |
 | [2 On \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/3jVtllWS5CFFWLQng8sKsr) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Aquarius](https://open.spotify.com/album/6zXUDBGLbrB9Kgkw2Y3F7L) | 3:47 | 2015-07-23 |  |
 | [3005](https://open.spotify.com/track/3Z2sglqDj1rDRMF5x0Sz2R) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because The Internet](https://open.spotify.com/album/0zi2TaQkYxfXIBvl2yTjQJ) | 3:54 | 2015-07-23 |  |
-| [About You](https://open.spotify.com/track/2ssYQKMqVUkoQgi02PmDPB) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Trigga Reloaded](https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW) | 0:29 | 2015-07-23 |  |
+| [About You](https://open.spotify.com/track/2ssYQKMqVUkoQgi02PmDPB) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Trigga Reloaded](https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW) | 3:16 | 2015-07-23 |  |
 | [Back Up \(feat\. Big Sean\)](https://open.spotify.com/track/5zBqPjh3vfttJScml99szD) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Back Up \(feat\. Big Sean\)](https://open.spotify.com/album/2iddYIK2mKu5DSpIGZCuAC) | 4:01 | 2015-07-23 |  |
 | [Be Real](https://open.spotify.com/track/2aYzt5nE3tBUMahasMUoOl) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Be Real](https://open.spotify.com/album/0tWUzJow4pNAyHWbubBiHw) | 3:26 | 2015-07-23 |  |
 | [Best I Ever Had](https://open.spotify.com/track/3fyMH1t6UPeR5croea9PrR) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [So Far Gone](https://open.spotify.com/album/61NNWRxokNUQx0aYysBL76) | 4:17 | 2015-07-23 |  |
@@ -43,7 +43,7 @@
 | [The Hills](https://open.spotify.com/track/2HNcNd5RPZ7DSRNbIl6JsP) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [The Hills](https://open.spotify.com/album/4FWe1I8h8wcsMtFO3FypV9) | 4:02 | 2015-07-23 |  |
 | [The Monster](https://open.spotify.com/track/48RrDBpOSSl1aLVCalGl5C) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [The Marshall Mathers LP2](https://open.spotify.com/album/3vOgbDjgsZBAPwV2M3bNOj) | 4:10 | 2015-07-23 |  |
 | [Tied Up \(feat\. DeJ Loaf\)](https://open.spotify.com/track/1uIjsJMh5wiWJ3K71eshdr) | [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Tied Up \(feat\. DeJ Loaf\)](https://open.spotify.com/album/67hIR9UEmLeugp5NzdVPug) | 3:13 | 2015-07-23 |  |
-| [Trap Niggas](https://open.spotify.com/track/6elNeXUhiuHPD9hH5rocQi) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [DS2 \(Deluxe\)](https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl) | 0:29 | 2015-07-23 |  |
+| [Trap Niggas](https://open.spotify.com/track/6elNeXUhiuHPD9hH5rocQi) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [DS2 \(Deluxe\)](https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl) | 3:03 | 2015-07-23 |  |
 | [Truffle Butter](https://open.spotify.com/track/3keUgTGEoZJt0QkzTB6kHg) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Truffle Butter](https://open.spotify.com/album/0cg0JTyl731GnvVS1MyYjj) | 3:39 | 2015-07-23 |  |
 | [Twist My Fingaz](https://open.spotify.com/track/0BkdwVXuqAcwkG4pCjGhln) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Twist My Fingaz](https://open.spotify.com/album/2HSf8Ni4RGA0b0PntIT8Pp) | 4:15 | 2015-07-23 |  |
 | [Unlock The Swag](https://open.spotify.com/track/4sAyDtswbHLWyFJgUMt8hu) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Jace of Two\-9](https://open.spotify.com/artist/3ZC37cLCAetsWdXQFRJVcG) | [SremmLife](https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7) | 5:22 | 2015-07-23 |  |

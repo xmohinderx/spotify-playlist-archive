@@ -4,7 +4,7 @@
 
 > Los corridos más alterados y arremangados\. Régulo Caro en portada.
 
-79 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/6WRQ2rQiGlhp2WfZktq7QQ)
+79 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/6WRQ2rQiGlhp2WfZktq7QQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Borracho Y Escandaloso](https://open.spotify.com/track/429H8FvJH0sHJdD9D8s5ui) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Y Seguimos La Borrachera](https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD) | 2:42 | 2022-03-17 |  |
 | [Cara A La Muerte \(En Vivo\)](https://open.spotify.com/track/2BwQ9RVjAjLpTM8D7SPlsZ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 4:42 | 2022-03-07 |  |
 | [Carteles Unidos](https://open.spotify.com/track/2T94dCgIybiU2P37umlbuc) | [El Movimiento Alterado](https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x) | [Carteles Unidos](https://open.spotify.com/album/3Xa1NdUaZmrRPR928iLjVo) | 3:35 | 2022-03-07 |  |
-| [Casquillos De Mi Cuerno](https://open.spotify.com/track/7bciiqMnJmrfL7jayg9DJa) | [Adan Romero](https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz) | [Corridos Prohibidos](https://open.spotify.com/album/1X4znZJ1tE300zU5dd060r) | 0:29 | 2022-03-17 |  |
+| [Casquillos De Mi Cuerno](https://open.spotify.com/track/7bciiqMnJmrfL7jayg9DJa) | [Adan Romero](https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz) | [Corridos Prohibidos](https://open.spotify.com/album/1X4znZJ1tE300zU5dd060r) | 3:07 | 2022-03-17 |  |
 | [Cien vidas Antrax](https://open.spotify.com/track/6KHrhw2BMo3L9rNhEPDyq6) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Emilio Garra](https://open.spotify.com/artist/5EgezdXajH2FAf79KHmrah), [Noel Torres](https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG) | [Régulo Caro vs\. Emilio Garra](https://open.spotify.com/album/3jpK8xsQuiEeCLCj3zwpyY) | 3:06 | 2022-03-07 |  |
 | [Comando X \(En Vivo\)](https://open.spotify.com/track/2klm6F6NIXGoqVbIkxKJPv) | [Tito Y Su Torbellino](https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [En Vivo](https://open.spotify.com/album/3hErWDx15ZpkpDbQGKZYlf) | 4:11 | 2022-03-07 |  |
 | [Comandos Del M.P \(500 Balazos\)](https://open.spotify.com/track/2vtB7ASUDlJkTB7sn1yugu) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Con La Nueva Federación](https://open.spotify.com/album/1MsMQsAojpvdsE6wGtboSa) | 2:19 | 2022-03-07 |  |
@@ -40,7 +40,7 @@
 | [El Costal Lleno De Piedras](https://open.spotify.com/track/5GecewIYAkK4wn7CmXf56X) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [Club Corridos Presenta: Corridos Romanticos y Alterados: Los Alegres del Barranco, La Nobleza de Aguililla, Los Originales de San Juan](https://open.spotify.com/album/0FQlxNTe4twqUDUydaPntV) | 3:05 | 2022-03-07 |  |
 | [El Cuestionario](https://open.spotify.com/track/0BbBubEZhUbsJwpKJhMBgd) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Así Es Esto](https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB) | 3:41 | 2022-03-17 |  |
 | [El de los Lentes Carrera](https://open.spotify.com/track/0GsCrrrcK5asymW6QpCUKc) | [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I) | [El de los Lentes Carrera](https://open.spotify.com/album/2VCtTs3ZpYcE82M2CKhEM4) | 3:43 | 2022-03-07 |  |
-| [El Diablo Como Enemigo](https://open.spotify.com/track/47Cdv8CEajQn17CtUhYvU5) | [Adan Romero](https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz) | [Corridos Prohibidos](https://open.spotify.com/album/1X4znZJ1tE300zU5dd060r) | 0:29 | 2022-03-17 |  |
+| [El Diablo Como Enemigo](https://open.spotify.com/track/47Cdv8CEajQn17CtUhYvU5) | [Adan Romero](https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz) | [Corridos Prohibidos](https://open.spotify.com/album/1X4znZJ1tE300zU5dd060r) | 2:49 | 2022-03-17 |  |
 | [El Enamorado](https://open.spotify.com/track/0CcFhIRRW468bAlAwD9FFs) | [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [Los Locos Del Corrido](https://open.spotify.com/album/1SkvbWNmVnuTQwNzWRIBTo) | 2:34 | 2022-03-07 |  |
 | [El Invalido](https://open.spotify.com/track/6slyAwU92H8O6OdknGDj6D) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Movimiento Alterado, Vol\. 1](https://open.spotify.com/album/3nYkEmbJZfanyB16oEX2lx) | 2:44 | 2022-03-07 |  |
 | [El Mini 6](https://open.spotify.com/track/09Js78HEZtObjYURe3tO58) | [El Movimiento Alterado](https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x) | [Carteles Unidos](https://open.spotify.com/album/3Xa1NdUaZmrRPR928iLjVo) | 3:08 | 2022-03-07 |  |
@@ -77,7 +77,7 @@
 | [Mi Amigo el de Arriba](https://open.spotify.com/track/7kKwLwJJaxQXo2quoupbDh) | [Los Inquietos Del Norte](https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya) | [La Gritera](https://open.spotify.com/album/0EU8ELKaNL7p6JWG5uLcIC) | 2:26 | 2022-03-07 |  |
 | [Nacimos Pa' Ser Patrones](https://open.spotify.com/track/6RqOESctoRJDqkXbYBYlqg) | [Banda Guasaveña de Valentín Elizalde](https://open.spotify.com/artist/3v9m4DhfDvDS2YYxmLSRLG) | [La Sorpresa Del Katch](https://open.spotify.com/album/48Aj5n1ZpfdLTQmiYwv0wL) | 2:47 | 2022-03-17 |  |
 | [Nomas Por Ser Sinaloense](https://open.spotify.com/track/4U9eW3OUYu9OSSXDVAOzGH) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Movimiento Alterado, Vol\. 1](https://open.spotify.com/album/3nYkEmbJZfanyB16oEX2lx) | 1:59 | 2022-03-07 |  |
-| [Pa'l Terre](https://open.spotify.com/track/1nRMRdloHa9MU0jRjaGE6r) | [Los Amos De Nuevo Leon](https://open.spotify.com/artist/2PpOrMC4P8PG2yi0S3ft0l) | [Pa'l Terre 2013](https://open.spotify.com/album/1RcwAfjNajuXYVGmreDjIS) | 0:29 | 2022-03-17 |  |
+| [Pa'l Terre](https://open.spotify.com/track/1nRMRdloHa9MU0jRjaGE6r) | [Los Amos De Nuevo Leon](https://open.spotify.com/artist/2PpOrMC4P8PG2yi0S3ft0l) | [Pa'l Terre 2013](https://open.spotify.com/album/1RcwAfjNajuXYVGmreDjIS) | 2:43 | 2022-03-17 |  |
 | [Pedron Antrax](https://open.spotify.com/track/0Ld7lnkuiJqBdp0gAHjfRB) | [Tito Y Su Torbellino](https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7) | [Y Sigo Vivo](https://open.spotify.com/album/1QTeZN0jgnLmLp5X8V0qNX) | 2:53 | 2022-03-07 |  |
 | [Pinche Gente Alboretera](https://open.spotify.com/track/7mxukykLaEKZp0VtCSOMli) | [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB) | [El Movimiento Alterado Vol\. 3](https://open.spotify.com/album/3kAOjL60TZgpCf7Ir6G4DO) | 2:27 | 2022-03-17 | 2022-06-21 |
 | [Plebada Alterada](https://open.spotify.com/track/3D8KcfsUgGwbNq3c6mzCWY) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Renovar O Morir](https://open.spotify.com/album/0Npb5RTXimPOeUQONeuz3A) | 1:40 | 2022-03-07 |  |

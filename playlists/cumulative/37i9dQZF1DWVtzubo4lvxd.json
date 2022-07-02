@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 148604,
       "name": "Afloat",
       "url": "https://open.spotify.com/track/4XDlW5QgLKZupaJ5VvacsP"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 166363,
       "name": "BEACH",
       "url": "https://open.spotify.com/track/1iN5j0yTid7A3VzEx8lwhe"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 108800,
       "name": "Into the Forest",
       "url": "https://open.spotify.com/track/0iZfjegO4FcdmzhMvk92gA"
@@ -1113,7 +1113,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 221772,
       "name": "Leave My Home",
       "url": "https://open.spotify.com/track/3XnhFQRvNH5LyR9fBKjjh7"
@@ -1149,7 +1149,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 110000,
       "name": "Linden",
       "url": "https://open.spotify.com/track/3ly2OfaKp8wRb124D2Idam"
@@ -1190,7 +1190,7 @@
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 81037,
       "name": "love",
       "url": "https://open.spotify.com/track/7cZlFUJO4BjedIErzdP6iq"
     },
@@ -1207,7 +1207,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 74366,
       "name": "Lovin",
       "url": "https://open.spotify.com/track/36iIYz6DBFuQWSUpRy2Sqw"
@@ -1247,7 +1247,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 98772,
       "name": "Misty - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/034ZKE6KJpa8yVpAPQ9AMT"
@@ -1541,7 +1541,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 113346,
       "name": "Puff Lah",
       "url": "https://open.spotify.com/track/21mimz3pv3JD4r8wEJJfNg"
@@ -1635,7 +1635,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 103255,
       "name": "Secret",
       "url": "https://open.spotify.com/track/0z3u3kPRF6GMGJtzI3dJmz"
@@ -1654,7 +1654,7 @@
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 127792,
+      "duration_ms": 29048,
       "name": "See You Tomorrow Sunshine",
       "url": "https://open.spotify.com/track/0FCj9e5G6bwfOhRP0pCi2d"
     },
@@ -1707,7 +1707,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 169122,
       "name": "She's Between",
       "url": "https://open.spotify.com/track/2vTXcaiTk5N3g6JJNzmC80"
@@ -1806,6 +1806,24 @@
     },
     {
       "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/5cnP1FKGwGUfGIQqimOye9"
+      },
+      "artists": [
+        {
+          "name": "j^p^n",
+          "url": "https://open.spotify.com/artist/6s3PbveUJMvMwZHyQUAPV4"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Springtime",
+      "url": "https://open.spotify.com/track/2tw0XH9LfAmDf0H5IY8O4I"
+    },
+    {
+      "album": {
         "name": "Stars",
         "url": "https://open.spotify.com/album/5RtPbAOnjGOgwhxA5jVfdO"
       },
@@ -1844,7 +1862,7 @@
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 112000,
       "name": "Stay and Wander",
       "url": "https://open.spotify.com/track/0Hm8vke3rwzGKm5sBpY762"
     },
@@ -1901,7 +1919,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 139130,
       "name": "sunny",
       "url": "https://open.spotify.com/track/0cZcOtDqLaavK7LowhTBsa"
@@ -2093,7 +2111,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 71393,
       "name": "tequila",
       "url": "https://open.spotify.com/track/4oeGuoefx9dkbRq19sKZwL"
@@ -2307,7 +2325,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 86571,
       "name": "viola",
       "url": "https://open.spotify.com/track/6ghICeprXG957CqdLx67WN"

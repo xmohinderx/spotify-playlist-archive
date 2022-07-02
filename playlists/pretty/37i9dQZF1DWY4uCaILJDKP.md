@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,155 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,163 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 95 | [GETUP! GETLIVE!](https://open.spotify.com/track/6Jl7qScxV4PTw9ZraroL3j) | [上原淳也 \(CV.花江夏樹\)](https://open.spotify.com/artist/332AD9pDagCIxk2VsjXbyG), [東沢 楓 \(CV.西山宏太朗\)](https://open.spotify.com/artist/6bdMLRTtvz06sXJ4Lahkv6), [町田瀬那 \(CV.豊永利行\)](https://open.spotify.com/artist/0Hl9gqptIt5WKbRPxHZwqI), [大野虎之助 \(CV.石川界人\)](https://open.spotify.com/artist/0Tgy1QbgwzpkCuvCz4ZIlr), [喜多見 蓮 \(CV.阿座上洋平\)](https://open.spotify.com/artist/2PxFmTVd5ZtVFlw8l56Qhr), [狛江一馬 \(CV.熊谷健太郎\)](https://open.spotify.com/artist/7uBma6fLieKj42Vh2GIqn3) | [GETUP! GETLIVE! Steam Rising](https://open.spotify.com/album/6RbJdIniKo1D5Lu9WgVr1y) | 4:01 |
 | 96 | [おきたったー](https://open.spotify.com/track/1LAgk9JEXy6Mk4kufRN6a6) | [おきたらんどキッズ](https://open.spotify.com/artist/2Xt5lDM9fryAwMlI2ps1QO), [畑中香音ちゃん](https://open.spotify.com/artist/1kskfEZRyBTOXxptAu9EYw), [中田麻菜ちゃん](https://open.spotify.com/artist/4IQPj8sjJMndVdNKlNd7hm), [高木京之介くん](https://open.spotify.com/artist/128Hd6hjRTirJHRzw4DU9m) | [ABCテレビ おはよう朝日です おきたらんど 「おきたったー」](https://open.spotify.com/album/20f3Xt6wx3gdYxCQgQ8ZHH) | 1:48 |
 | 97 | [テレ玉くんのうた](https://open.spotify.com/track/0XWGRWEmfQ5zFRYR0nXHtV) | [テレ玉くん](https://open.spotify.com/artist/7oYGlL1pqGrwbMivr4t0Ga) | [テレ玉くんのうた](https://open.spotify.com/album/4KyQLlUff31m1ZpQc45Tmz) | 2:52 |
-| 98 | [なめこんぷりけ](https://open.spotify.com/track/53WoLSb0SZoLLo6njG9SCV) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [なめこのCD](https://open.spotify.com/album/0gxvXUJzINAiHpctlySR7T) | 0:29 |
+| 98 | [なめこんぷりけ](https://open.spotify.com/track/53WoLSb0SZoLLo6njG9SCV) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [なめこのCD](https://open.spotify.com/album/0gxvXUJzINAiHpctlySR7T) | 3:17 |
 | 99 | [おやつ いいやつ すごいやつ](https://open.spotify.com/track/5JhwM9KWxA3Q1yP8XrQAMZ) | [グミベアとガチャピン・ムック](https://open.spotify.com/artist/16R1lT06rzVT5GyUTLpG4m) | [おやつ いいやつ すごいやつ](https://open.spotify.com/album/4qa1WJzAfElFg5Uhnsx1xg) | 3:34 |
 | 100 | [ムーンライト伝説 \- Short ver.](https://open.spotify.com/track/08PIISUEfJHCmySMleOMmG) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2), [Five Eighth Guardians](https://open.spotify.com/artist/5D299xgUtdFOMXsEPk5hLU) | ["Pretty Guardian Sailor Moon" The Super Live Original Soundtrack \[Instrumental\]](https://open.spotify.com/album/3Q9vNfIcxtolwZjtQaUciY) | 1:35 |
 

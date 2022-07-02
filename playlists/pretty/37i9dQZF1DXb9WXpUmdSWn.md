@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9WXpUmdSWn.md) - [plain]
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the songwriter's owner covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,652 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,653 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9WXpUmdSWn.md) - [plain]
 | 21 | [Slip Sliding Away](https://open.spotify.com/track/2HX8D5h48H0ehKA1nSGTlx) | [The Persuasions](https://open.spotify.com/artist/1s1K3nAfVupmteRMDCPnx5), [Joe Russell](https://open.spotify.com/artist/4vXOxRMidWplwRVuEf5Bgo) | [No Frills](https://open.spotify.com/album/7fYwACZdlTIJWc0rJNnXnD) | 4:24 |
 | 22 | [The Boxer](https://open.spotify.com/track/1LLWePORuf78aYlTpSsduc) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Self Portrait](https://open.spotify.com/album/3bXEPGWxOplvbLwyasRSW3) | 2:46 |
 | 23 | [Graceland](https://open.spotify.com/track/6KRuBpMlAvHJuMKyHO32G4) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Across The Borderline](https://open.spotify.com/album/1muFplXWqYYvymuFr3AExp) | 4:44 |
-| 24 | [Scarborough Fair](https://open.spotify.com/track/4vixgSEittlcLbvclr6xjN) | [Sarah Brightman](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) | [La Luna](https://open.spotify.com/album/0yT5WqbZms0BcBR5JUyIFe) | 0:29 |
+| 24 | [Scarborough Fair](https://open.spotify.com/track/4vixgSEittlcLbvclr6xjN) | [Sarah Brightman](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) | [La Luna](https://open.spotify.com/album/0yT5WqbZms0BcBR5JUyIFe) | 4:11 |
 | 25 | [Still Crazy After All These Years \- Jim Eno Sessions](https://open.spotify.com/track/3V7M9JRjxE3WyiFGvbKYxU) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Spotify Singles](https://open.spotify.com/album/0Scmfn6W4lYHyiRpp4F7lj) | 2:54 |
 | 26 | [Hazy Shade of Winter](https://open.spotify.com/track/0P2vAvvWni2tNXOdbH3JFk) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [The Essential Bangles](https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf) | 2:47 |
 | 27 | [America](https://open.spotify.com/track/1inPvlZzUNG4hqYxLLEF0W) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H), [Molly Sarlé](https://open.spotify.com/artist/4XLoKwIIoARkhaKuZocq5d), [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH) | [America](https://open.spotify.com/album/7m8l1V5XSWHN7QF6cDDYby) | 4:11 |

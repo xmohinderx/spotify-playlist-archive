@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2rFMAzWFwNe.md) - [plain]
 
 > ¡Y suena y suena..\. MS!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,194,944 likes - 96 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,195,248 likes - 96 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2rFMAzWFwNe.md) - [plain]
 | 29 | [Qué Maldición](https://open.spotify.com/track/2RxC2peY3FtrurYmbbmanr) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Qué Maldición](https://open.spotify.com/album/3w8ZmQeTQo1390hdupmxvJ) | 3:23 |
 | 30 | [La Casita](https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Trabajo Es La Suerte](https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk) | 3:37 |
 | 31 | [La Última Sombra](https://open.spotify.com/track/35Ln9FPCBaom3wb4LrUqUP) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [20 Corridos Bien Perrones](https://open.spotify.com/album/5SzJp8oUbif3wT3BixnJHT) | 3:42 |
-| 32 | [Es Tuyo Mi Amor](https://open.spotify.com/track/2eW9CRtyLNhjgyLFJNHhtD) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Es Tuyo Mi Amor \- Single](https://open.spotify.com/album/5khQ7lkhdQhJZH2IijmGij) | 0:29 |
+| 32 | [Es Tuyo Mi Amor](https://open.spotify.com/track/2eW9CRtyLNhjgyLFJNHhtD) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Es Tuyo Mi Amor \- Single](https://open.spotify.com/album/5khQ7lkhdQhJZH2IijmGij) | 2:55 |
 | 33 | [Se Va Muriendo Mi Alma \- En Vivo](https://open.spotify.com/track/7tI2l7YmIEsSaJflFhlf5r) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [En Vivo \- Guadalajara \- Monterrey](https://open.spotify.com/album/7KORT5GNhfJMeBzx5yrSWI) | 3:51 |
 | 34 | [De Haber Sabido](https://open.spotify.com/track/7KvZ3df7tZ0rKoXMZ7ntTm) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Que Bendición](https://open.spotify.com/album/5iCAbAQCi21EREKse2kJgy) | 4:02 |
 | 35 | [Porque al Conocerte](https://open.spotify.com/track/0fOMZgmDTl60jHBgVkqg1a) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Que Bendición](https://open.spotify.com/album/5iCAbAQCi21EREKse2kJgy) | 2:27 |

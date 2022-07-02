@@ -4,7 +4,7 @@
 
 > 🚂  É o trem do Poze com o melhor do Trap desse ano!
 
-50 songs - 2 hr 42 min - [published](https://open.spotify.com/playlist/5dWDFqaLwoUchhJDqsxYcv)
+50 songs - 2 hr 44 min - [published](https://open.spotify.com/playlist/5dWDFqaLwoUchhJDqsxYcv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Oclin e Evoque](https://open.spotify.com/track/3PnDIGbfmswMaxX386zp3X) | [Tropa do Bruxo](https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Oclin e Evoque](https://open.spotify.com/album/1lm0ePGaAMF91JfN3O9sI7) | 3:32 | 2021-12-01 |  |
 | [Onda do Lança](https://open.spotify.com/track/3Kw0g1a281cdzUhcP24ot6) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [Onda do Lança](https://open.spotify.com/album/25fXLwJIrGUfhTTDOQrNul) | 2:17 | 2021-12-01 |  |
 | [Ouro Rosé](https://open.spotify.com/track/6keP0AfCE5v4CTI1E5nrLv) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Real G](https://open.spotify.com/artist/4VBvroduJdLVzx7N0gKKO8), [Sos](https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK), [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Peunubeat](https://open.spotify.com/artist/17E8w3INI7HVddLkdDKYVA) | [Ouro Rosé](https://open.spotify.com/album/3hRlp9PlDxPTJd5c1X3lJL) | 4:50 | 2021-12-01 |  |
-| [Paypal](https://open.spotify.com/track/6x1FttETfbRLerumlTn0ZH) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [previas.zip](https://open.spotify.com/album/1Mp4qx0rzYoZHXmTX5ViS4) | 0:29 | 2021-12-01 |  |
+| [Paypal](https://open.spotify.com/track/6x1FttETfbRLerumlTn0ZH) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [previas.zip](https://open.spotify.com/album/1Mp4qx0rzYoZHXmTX5ViS4) | 2:46 | 2021-12-01 |  |
 | [Perfil \#84 \- Eu Vim de Lá](https://open.spotify.com/track/543Yg40LdcfkZkoxCR0kY9) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Perfil \#84 \- Eu Vim de Lá](https://open.spotify.com/album/1JjmIotWoVrQ8i8ZI1if1R) | 3:10 | 2021-12-01 |  |
 | [Plutão](https://open.spotify.com/track/3ydmNkAyYq0AKtG8sTfE9P) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Plutão](https://open.spotify.com/album/2sZzCGg7xCNdWQwoVaFuro) | 3:41 | 2021-12-01 |  |
 | [Quer Voar](https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Quer Voar](https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e) | 3:07 | 2021-12-01 |  |

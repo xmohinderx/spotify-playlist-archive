@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdDMUimLXxx.md) - [plain]
 
 > Add dramatic flair to your strategy game.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,959 likes - 64 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,088 likes - 64 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdDMUimLXxx.md) - [plain]
 | 21 | [Adventures of the Young Hero](https://open.spotify.com/track/7iirjTnooylfcBG6BmlqYi) | [Grant Newman](https://open.spotify.com/artist/6kmQi7lLCBpa5OORRJpU9s) | [Adventures of the Young Hero](https://open.spotify.com/album/3YufQhwnRqmpOLDXOjiKuH) | 2:59 |
 | 22 | [The Bard's Tale](https://open.spotify.com/track/2w06ho0m1rgeioNoMQO6F2) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [Far Over the Highlands](https://open.spotify.com/album/7GmRudqNcSzDQr8PVW2EWn) | 2:23 |
 | 23 | [Love Theme For Linda](https://open.spotify.com/track/6yEKX6B4ehcaI2epFjkKtl) | [Ulf Janson](https://open.spotify.com/artist/6EY0o8bLVxMJlgpipFvfhK) | [Love Theme For Linda](https://open.spotify.com/album/0cBmUUiRdqPsX1NNU8U3QQ) | 2:03 |
-| 24 | [Afterlight](https://open.spotify.com/track/2wklH1fCEBMwHyNvKHDLOW) | [Eternal Eclipse](https://open.spotify.com/artist/2mudOp0EB2SFnG0mVazTJs) | [Forgotten Odes](https://open.spotify.com/album/3KT3DRHJdpEZD5OxSK7hj0) | 0:29 |
+| 24 | [Afterlight](https://open.spotify.com/track/2wklH1fCEBMwHyNvKHDLOW) | [Eternal Eclipse](https://open.spotify.com/artist/2mudOp0EB2SFnG0mVazTJs) | [Forgotten Odes](https://open.spotify.com/album/3KT3DRHJdpEZD5OxSK7hj0) | 2:17 |
 | 25 | [Faith Arise](https://open.spotify.com/track/7q9fSdPJO9MHZqYMaefXUm) | [Edgar Hopp](https://open.spotify.com/artist/5nn0v7ZNnO4cY7TEAjjfSx) | [In Abundance](https://open.spotify.com/album/6GIEUr2Nhe8E37amFtuAcv) | 3:08 |
 | 26 | [Holy \- String Ensemble](https://open.spotify.com/track/2635mg4Ef7isjdHXXkEcAy) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Holy & Mad At Disney \(String Ensemble\)](https://open.spotify.com/album/42yDUWgIoDifBUDAm7zhsi) | 2:49 |
 | 27 | [Hunger, Thirst](https://open.spotify.com/track/2CH3Ub29VJrqNgg0v2fx0D) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [The Road To Meteora](https://open.spotify.com/album/3PLSbFdaSc9nHiZsdutrAz) | 2:13 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdDMUimLXxx.md) - [plain]
 | 32 | [The Fellowship](https://open.spotify.com/track/6rqVIvtZV2g8fqXTGp065U) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [Far Over the Highlands](https://open.spotify.com/album/7GmRudqNcSzDQr8PVW2EWn) | 2:22 |
 | 33 | [The Long Way Home](https://open.spotify.com/track/0HBrBsfKsKuVSgLEN2CTxJ) | [Hampus Naeselius](https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5) | [Allegiances](https://open.spotify.com/album/68KKEyqsRqgLeVQFsS4IUi) | 1:49 |
 | 34 | [The Norman Kings](https://open.spotify.com/track/7tXoC0hKQy1TTv9XA8gofz) | [Bonnie Grace](https://open.spotify.com/artist/3z6E6ZPwJ7l0mp3HHcOfd2) | [Call the Herd](https://open.spotify.com/album/4fE45M3ETuMtzHPpNfmV5o) | 3:08 |
-| 35 | [Yearning Hearts](https://open.spotify.com/track/2GTaqPwHbtHb6Co8tIbUim) | [Eternal Eclipse](https://open.spotify.com/artist/2mudOp0EB2SFnG0mVazTJs) | [Forgotten Odes](https://open.spotify.com/album/3KT3DRHJdpEZD5OxSK7hj0) | 0:29 |
+| 35 | [Yearning Hearts](https://open.spotify.com/track/2GTaqPwHbtHb6Co8tIbUim) | [Eternal Eclipse](https://open.spotify.com/artist/2mudOp0EB2SFnG0mVazTJs) | [Forgotten Odes](https://open.spotify.com/album/3KT3DRHJdpEZD5OxSK7hj0) | 2:35 |
 | 36 | [One With the Tribe](https://open.spotify.com/track/41DlWb37TIoHzK4XmWRk2T) | [Bonnie Grace](https://open.spotify.com/artist/3z6E6ZPwJ7l0mp3HHcOfd2) | [Highland Hymn](https://open.spotify.com/album/6zmxkrUeUrSVtDMqggKDRb) | 2:13 |
 | 37 | [Let's Run Away Together](https://open.spotify.com/track/7jxJHRmtMpGNR3EmxnspDB) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [The Boy Who Flew Away](https://open.spotify.com/album/4dgeskwXtoICOIJuPqXBAt) | 2:57 |
 | 38 | [Wayfinders](https://open.spotify.com/track/6rEF3F1fu6SPyEbzRGxUKr) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Nocturne](https://open.spotify.com/album/0r8EWo5tLMJoOLNhystGx1) | 2:51 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdDMUimLXxx.md) - [plain]
 | 52 | [Huddled in the Shadows](https://open.spotify.com/track/45mG9ywi5sbbxjA2Rdv95L) | [Austin Wintory](https://open.spotify.com/artist/3Rwlus4QnnBSnTe8pJV0rw) | [The Banner Saga](https://open.spotify.com/album/4dZzebB3bTIXLJpTMOSE44) | 3:02 |
 | 53 | [Blue Spectre](https://open.spotify.com/track/57BqYDi536ejOoUQYKYoF2) | [Xin Feng](https://open.spotify.com/artist/0ecuDdIS1AQoyl0xVnR9hL) | [Blue Spectre](https://open.spotify.com/album/5ngAAECyfrWU5LKcM2vdlq) | 1:48 |
 | 54 | [Tsimtsum](https://open.spotify.com/track/1RxaEvQCmT36nIZFYjpk5F) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2) | [Life of Pi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0ogV7CBV00ONXAVx4tm0gk) | 2:49 |
-| 55 | [Trace](https://open.spotify.com/track/6sauZJqeqUy4426Qj6joFe) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Trace](https://open.spotify.com/album/6Vfof63wDXpmWEVW12Ag80) | 0:29 |
+| 55 | [Trace](https://open.spotify.com/track/6sauZJqeqUy4426Qj6joFe) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Trace](https://open.spotify.com/album/6Vfof63wDXpmWEVW12Ag80) | 3:30 |
 | 56 | [Endeavour](https://open.spotify.com/track/6v3flfFyiewX4uhtefPYKP) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Endeavour](https://open.spotify.com/album/3MwtBdr2Ohdg6TCtHoZDAH) | 4:27 |
 | 57 | [Refined Enlightenment](https://open.spotify.com/track/2ulSScFSvKVwIBJJrKcNA2) | [Howard Harper\-Barnes](https://open.spotify.com/artist/447ceX8wMVdX94yevKZFDe) | [To All the Glory](https://open.spotify.com/album/59IuJfXNv7h6Np4JVKUYWM) | 2:23 |
 | 58 | [Il Confine Del Dolore \- feat: Ensemble Cordes De La Mer](https://open.spotify.com/track/307JdSdFWDM2u0H5JoIixw) | [Nora Maddox](https://open.spotify.com/artist/5yZabwuaVYo86cGVx0BzUX) | [Il Confine Del Dolore](https://open.spotify.com/album/1zTtByo8f2pVkZPhVvapWk) | 1:58 |
-| 59 | [Sky](https://open.spotify.com/track/5ZwrQKuPqHFFrtrZlSt6NT) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Trace](https://open.spotify.com/album/6Vfof63wDXpmWEVW12Ag80) | 0:29 |
+| 59 | [Sky](https://open.spotify.com/track/5ZwrQKuPqHFFrtrZlSt6NT) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Trace](https://open.spotify.com/album/6Vfof63wDXpmWEVW12Ag80) | 3:36 |
 | 60 | [Bonnie at Morn \- Amy's](https://open.spotify.com/track/7AOd1tPuzk4OixBPGJFp9k) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Jackie Moran](https://open.spotify.com/artist/7n7z1ZyAvXU0Hzy5Afawri), [Ensemble Galilei](https://open.spotify.com/artist/38xsbLMXenDwkPP8SPAAV6) | [From Whence We Came](https://open.spotify.com/album/21XKiwC8lWeMl58vLKf8NP) | 6:49 |
 | 61 | [The Great Unknown](https://open.spotify.com/track/4nY7xJxAsbgalPsOiWBonK) | [Hampus Naeselius](https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5) | [Where Heroes Come to Die](https://open.spotify.com/album/6oWPtpkD348BpY3ZTxWOzp) | 3:59 |
 | 62 | [Flight](https://open.spotify.com/track/6x5tRBmT3426qhiOepUDOB) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [The Boy Who Flew Away](https://open.spotify.com/album/4dgeskwXtoICOIJuPqXBAt) | 2:16 |

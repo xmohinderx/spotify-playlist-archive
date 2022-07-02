@@ -4,7 +4,7 @@
 
 > Start your day with these beautiful scores.
 
-66 songs - 2 hr 49 min - [published](https://open.spotify.com/playlist/77k28aHRsXOHJFjfmZMjS8)
+66 songs - 2 hr 52 min - [published](https://open.spotify.com/playlist/77k28aHRsXOHJFjfmZMjS8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,14 +60,14 @@
 | [Sleeping In Seattle](https://open.spotify.com/track/2uVHaRTe5hyGyASOXZcx9d) | [Max Ellion](https://open.spotify.com/artist/5ws4QOSnfOqKDBbNQEZXtg) | [Sleeping In Seattle](https://open.spotify.com/album/3H9duc8pePa97f1AWFjuIi) | 2:55 | 2022-06-10 |  |
 | [Sostenuto](https://open.spotify.com/track/2pmzW6PbqlAunOXe0AdYIw) | [Camilla Solheim](https://open.spotify.com/artist/0paoGI3ZzVd4kwjmsJI6B0) | [Sostenuto](https://open.spotify.com/album/5bve8ozqZzt01twy16odc3) | 2:09 | 2022-06-10 |  |
 | [String Serenity](https://open.spotify.com/track/2YyOPD8UPgzDQyTFHo7Hdr) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [String Serenity](https://open.spotify.com/album/7wPh7ECKRf7wECHtUOqE9C) | 2:17 | 2022-06-10 |  |
-| [Sugarcane](https://open.spotify.com/track/7G3IcyTXBdeyDNCc25GSVV) | [Ensemble Rivr Dane](https://open.spotify.com/artist/2bYTGyR3eWFQmQ9FJElnBP), [Ana Olgica](https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc) | [Atoms Et Sugarcane](https://open.spotify.com/album/3XsOQQJYWhuGdJZujpcMLo) | 0:29 | 2022-06-10 |  |
+| [Sugarcane](https://open.spotify.com/track/7G3IcyTXBdeyDNCc25GSVV) | [Ensemble Rivr Dane](https://open.spotify.com/artist/2bYTGyR3eWFQmQ9FJElnBP), [Ana Olgica](https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc) | [Atoms Et Sugarcane](https://open.spotify.com/album/3XsOQQJYWhuGdJZujpcMLo) | 2:24 | 2022-06-10 |  |
 | [Suji](https://open.spotify.com/track/1c7J3x5nUIl7krcxbZqpW0) | [Hein Talbot](https://open.spotify.com/artist/234b7Rdxg4ncW2ok5s67p7) | [Suji](https://open.spotify.com/album/5p87YHJXjd0ZuaEPemyrRr) | 2:13 | 2022-06-10 |  |
 | [Sunrise](https://open.spotify.com/track/0nsDRLBkStw53EuYXbibO4) | [HILMA](https://open.spotify.com/artist/5cfA35ok9YlWE032xcI423) | [Polaris](https://open.spotify.com/album/4zRFfOm7i3DhHqmW0rIIru) | 2:56 | 2022-06-10 |  |
 | [Supposing](https://open.spotify.com/track/7vCNVMDqzV2tsdZi5Rodi6) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/34Xfn5YawRW1BmaVzgrtFt) | 3:07 | 2022-06-10 |  |
 | [The Mountain Disconnect](https://open.spotify.com/track/0KBIN2eno2koWYL4Flsf7S) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [The Mountain Disconnect](https://open.spotify.com/album/7hEd3BEoTsDTFgBFPnBLDR) | 3:06 | 2022-06-10 |  |
 | [The Saga](https://open.spotify.com/track/08ar8UUeKtraKthaGfEAVs) | [Rick Mays Orchestra](https://open.spotify.com/artist/6M8CwqhafAjTE6iqSPXazJ) | [The Saga](https://open.spotify.com/album/1m1Zh5Fy3fkbiXcYzc7H2l) | 1:49 | 2022-06-10 |  |
 | [The Streets of Belgrade](https://open.spotify.com/track/4cNtJQaOgmjlBSChAlrsBT) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/34Xfn5YawRW1BmaVzgrtFt) | 2:21 | 2022-06-10 |  |
-| [Three Pointer](https://open.spotify.com/track/1gUHSxsrCohFFQC8zuI1Cv) | [Bromeliad](https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3) | [Three Pointer](https://open.spotify.com/album/29ELg1RDinuDy0xw7oPd9L) | 0:29 | 2022-06-10 |  |
+| [Three Pointer](https://open.spotify.com/track/1gUHSxsrCohFFQC8zuI1Cv) | [Bromeliad](https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3) | [Three Pointer](https://open.spotify.com/album/29ELg1RDinuDy0xw7oPd9L) | 1:00 | 2022-06-10 |  |
 | [To Capture The Infinite](https://open.spotify.com/track/0hrTFLbtNvhe5X8b40DVOC) | [5th Dimension String Quartet](https://open.spotify.com/artist/0fd2h7Ve7ZDxWFW00AjxqL) | [To Capture The Infinite](https://open.spotify.com/album/1d8nHTu03NrgdX7KtwmNHk) | 2:47 | 2022-06-10 |  |
 | [Transition](https://open.spotify.com/track/00Jh6031MKpE5nunLJzvyM) | [Elora Bonilla](https://open.spotify.com/artist/5ytoulK1Bp6GLoU6VWs0Nr) | [Transition](https://open.spotify.com/album/0P61A45wt4xVVneycMqdyp) | 2:55 | 2022-06-10 |  |
 | [Under The Stars](https://open.spotify.com/track/0V0w0j63zyFlZTeKsjHF7e) | [Cinespacial](https://open.spotify.com/artist/2Z6ZkwaWC7kYWhQcift8d4) | [Under The Stars](https://open.spotify.com/album/0RyHnHgWSqhXO95qvByvUm) | 3:10 | 2022-06-10 |  |

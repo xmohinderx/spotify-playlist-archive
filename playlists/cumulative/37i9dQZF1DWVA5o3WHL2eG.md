@@ -4,7 +4,7 @@
 
 > "Women at full volume" \- Höre hier Künstlerinnen aus Deutschland, Österreich und der Schweiz\. Cover: Loi
 
-351 songs - 18 hr 39 min - [published](https://open.spotify.com/playlist/33SW5h7H0js8JrILbbBcpN)
+351 songs - 18 hr 41 min - [published](https://open.spotify.com/playlist/33SW5h7H0js8JrILbbBcpN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,7 @@
 | [Wait](https://open.spotify.com/track/3N70n1hHxzVHETvxiK1h9i) | [NKLS](https://open.spotify.com/artist/6CPmOHOVwU8yvOjqF5j5OJ) | [Overcoming A Difficult Youth](https://open.spotify.com/album/7Hy324LigQohlF0DpW1quo) | 2:25 | 2021-12-21 | 2022-01-05 |
 | [Wann komm ich endlich an](https://open.spotify.com/track/4R2mdDt7RadfGlgmgF0ryW) | [Nessi](https://open.spotify.com/artist/2kE8IGeVPqfCUkVoKyCotA) | [Wann komm ich endlich an](https://open.spotify.com/album/2Y0LDtxfoOWXhisY4d3g6X) | 2:25 | 2022-05-31 |  |
 | [Was ich will](https://open.spotify.com/track/1oMegChnI6ZqfcDR5n8eBJ) | [PANTHA](https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8) | [Was ich will](https://open.spotify.com/album/6ktVzgaQxt03He86k7ZFn3) | 2:51 | 2022-02-01 | 2022-03-08 |
-| [Was Sie Will](https://open.spotify.com/track/2RBiBxcN2i9kIjIDowALsJ) | [SATARII](https://open.spotify.com/artist/0ysIoJftcmrTkNW0YIrNps) | [Blaues Feuer](https://open.spotify.com/album/2cM7bxpNADMoJOnJ38CkEi) | 0:29 | 2022-05-31 |  |
+| [Was Sie Will](https://open.spotify.com/track/2RBiBxcN2i9kIjIDowALsJ) | [SATARII](https://open.spotify.com/artist/0ysIoJftcmrTkNW0YIrNps) | [Blaues Feuer](https://open.spotify.com/album/2cM7bxpNADMoJOnJ38CkEi) | 3:00 | 2022-05-31 |  |
 | [Wasser](https://open.spotify.com/track/6JL3BHxeR7jiGY6SOIxq2m) | [LINA](https://open.spotify.com/artist/3YPpKFZGAT0O8SJca2Aaj8) | [Wasser](https://open.spotify.com/album/1mL6Awa2c23Y8TAZEU3kHb) | 2:31 | 2022-01-04 | 2022-02-02 |
 | [Wasteland](https://open.spotify.com/track/66T08BkFn1d53KISUc3pBg) | [Laura Lee & the Jettes](https://open.spotify.com/artist/4727cuqI1mSh8LKNSjG6xr) | [Wasteland](https://open.spotify.com/album/2x49NY0AvP52MFZadW7Ytv) | 3:06 | 2021-12-21 | 2022-01-05 |
 | [Waterfall](https://open.spotify.com/track/7Cipq2ROolmk2r6gWwiCuJ) | [Cage](https://open.spotify.com/artist/5AcetCgP402g9PqzkcSxNo) | [Waterfall](https://open.spotify.com/album/2fdLWQmYdYk6tIvE73YZbM) | 3:47 | 2022-02-01 | 2022-03-08 |

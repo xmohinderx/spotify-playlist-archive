@@ -4,7 +4,7 @@
 
 > Traditional West African blues and North African desert blues\. Cover: Songhoy Blues
 
-50 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/70myCojE40oGhVQRwBxHar)
+50 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/70myCojE40oGhVQRwBxHar)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,13 +21,13 @@
 | [Catfish Blues](https://open.spotify.com/track/4Ef6CDU6oCHM9KhzcPixFk) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Kulanjan](https://open.spotify.com/album/42wmp98KoLRejLnIUX47Zu) | 5:29 | 2020-12-01 |  |
 | [Cler Achel](https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Aman Iman: Water Is Life](https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0) | 4:27 | 2020-12-01 |  |
 | [Dounia](https://open.spotify.com/track/36tIPdhTe49U4gvp6mwCaU) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Tchamantché](https://open.spotify.com/album/7fzlbT0KWe5H0fI0zO1f8Q) | 6:20 | 2020-12-01 |  |
-| [Dune Blues](https://open.spotify.com/track/6QqzGQfDnaQDwHGVnPkz6u) | [Modou Toure](https://open.spotify.com/artist/1JrwsiKRH6ZEK7SgEWuZdc), [Ramon Goose](https://open.spotify.com/artist/5JO7yg573cDqdeqMjzPxk6) | [The West African Blues Project](https://open.spotify.com/album/2qmkovxkB5dMiploF5sI2Y) | 4:10 | 2020-12-01 |  |
+| [Dune Blues](https://open.spotify.com/track/6QqzGQfDnaQDwHGVnPkz6u) | [Modou Toure](https://open.spotify.com/artist/1JrwsiKRH6ZEK7SgEWuZdc), [Ramon Goose](https://open.spotify.com/artist/5JO7yg573cDqdeqMjzPxk6) | [The West African Blues Project](https://open.spotify.com/album/2qmkovxkB5dMiploF5sI2Y) | 4:10 | 2020-12-01 | 2022-07-02 |
 | [Fenfo](https://open.spotify.com/track/4PCJC6tJ8BYWxlIWppBhRX) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Fenfo](https://open.spotify.com/album/1N7ckIzs97RiLEXWgEGgli) | 4:28 | 2020-12-01 |  |
 | [Gandadiko](https://open.spotify.com/track/5QW3NVIXKixkTYsVUaTdeO) | [Samba Touré](https://open.spotify.com/artist/3XHp0LmHYLkVBPsH3B66zi) | [Gandadiko](https://open.spotify.com/album/33aNFeKXCZ15cxpN5S9nSB) | 4:24 | 2020-12-01 |  |
 | [Heygana](https://open.spotify.com/track/3DtHJ8fImqihyFylpeqdqA) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The River](https://open.spotify.com/album/78Pv299m6S629pS6hPFOix) | 5:58 | 2020-12-01 |  |
 | [Hona](https://open.spotify.com/track/36OpkSbeJVaADUgJynvdht) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mbalimaou](https://open.spotify.com/album/5VDVsvEYE0VqVvxUNLZ3gO) | 5:38 | 2020-12-01 |  |
 | [Iyat Ninhay / Jaguar \(A Great Desert I Saw\)](https://open.spotify.com/track/6nwusKP4pSgbjjyitIcJMm) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Azel](https://open.spotify.com/album/4NgcUISFZhkOYxh0WshCib) | 6:07 | 2020-12-01 |  |
-| [Iyo Djeli](https://open.spotify.com/track/6RYwjP5hyLPSVJ5BZRRJAd) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Seya](https://open.spotify.com/album/2F3PKqrjlqeg4KuqCCe246) | 0:29 | 2020-12-01 |  |
+| [Iyo Djeli](https://open.spotify.com/track/6RYwjP5hyLPSVJ5BZRRJAd) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Seya](https://open.spotify.com/album/2F3PKqrjlqeg4KuqCCe246) | 6:38 | 2020-12-01 |  |
 | [Jamm](https://open.spotify.com/track/3LG5bR8Wxbpnjn1SFtmy8Q) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Jamm](https://open.spotify.com/album/4bgrysSk4I1aEPWPJemA43) | 4:48 | 2020-12-01 |  |
 | [Karkar / Vincent](https://open.spotify.com/track/0tLfhiNrN6tyZrDrnpDUeI) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Kongo Magni](https://open.spotify.com/album/0aYCT3cI8cb4q3iRFx8oAe) | 5:23 | 2020-12-01 |  |
 | [Laidu](https://open.spotify.com/track/05CF4ATpqROLTQVYABNZ3W) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Mouneïssa](https://open.spotify.com/album/21Tj95e18stlS6SetlwqAa) | 6:26 | 2020-12-01 |  |
@@ -48,7 +48,7 @@
 | [Tamudre](https://open.spotify.com/track/1EPdbtse9qPz2AQN7yUQ1q) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Temet](https://open.spotify.com/album/1RK0pJy13gdxRchYDEemSq) | 4:12 | 2020-12-01 |  |
 | [Tar Hani \(My Love\)](https://open.spotify.com/track/0EvnRzwVhtaboVkVSYvxyA) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Agadez](https://open.spotify.com/album/3lHrjUzIWhXAbdnpUBKVI3) | 6:30 | 2020-12-01 |  |
 | [Tchwa](https://open.spotify.com/track/3AF8QpzspG8btjyd4s3bjM) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Wanita](https://open.spotify.com/album/5NAd6WgCPfR8BxEYWaZcEg) | 5:51 | 2020-12-01 |  |
-| [Tenere Taqhim Tossam](https://open.spotify.com/track/75eLECFLTSH7MawFtzgcDf) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Tassili \(Deluxe Edition\)](https://open.spotify.com/album/7i1KVcqm3hmV72fT7txaMN) | 4:13 | 2020-12-01 | 2022-07-01 |
+| [Tenere Taqhim Tossam](https://open.spotify.com/track/75eLECFLTSH7MawFtzgcDf) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Tassili \(Deluxe Edition\)](https://open.spotify.com/album/7i1KVcqm3hmV72fT7txaMN) | 4:13 | 2020-12-01 |  |
 | [Tenere Taqqim Tossam](https://open.spotify.com/track/6VZfMPn33u0NI0EzftvyBM) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb), [Kyp Malone](https://open.spotify.com/artist/2ppllDLrUVkJMtMXptA8GS), [Tunde Adebimpe](https://open.spotify.com/artist/3and7uje1nuMnKJczCKox9) | [Tassili](https://open.spotify.com/album/4ZP45z6J2veda4WqQc1xMm) | 4:13 | 2020-12-01 |  |
 | [Tenere wer tat zinchegh](https://open.spotify.com/track/1JjdM4nkLlzPB3N2jGfGXa) | [Terakaft](https://open.spotify.com/artist/0UtqyB9qf6oA6B7SeTjLue) | [Ishumar: Musique touarègue de résistance](https://open.spotify.com/album/6AAK4Ao3LbYaA2iij9rpjd) | 7:00 | 2020-12-01 |  |
 | [Tenhert](https://open.spotify.com/track/3eWaUgRTojLlBHfVrETuXD) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Imidiwan: Companions](https://open.spotify.com/album/1T0sA1dBhet0q3KQlklEhL) | 5:28 | 2020-12-01 |  |

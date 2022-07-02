@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Novidades e destaques do indie nacional. Foto: saudade, Lorena Chaves",
+  "description": "Novidades e destaques do indie nacional. Foto: Bratislava",
   "name": "Indie Brasil",
   "published_playlist_ids": [
     "6JgS0nFYvZfSw5mDRlDbjL"
@@ -359,10 +359,28 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 261183,
       "name": "ar\u00e3o",
       "url": "https://open.spotify.com/track/2xNMHYgUHDjLzo5ipgeTt9"
+    },
+    {
+      "album": {
+        "name": "No Reino Dos Afetos",
+        "url": "https://open.spotify.com/album/2arek67vZ8dshMyO3U4gLH"
+      },
+      "artists": [
+        {
+          "name": "Bruno Berle",
+          "url": "https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169653,
+      "name": "At\u00e9 Meu Viol\u00e3o",
+      "url": "https://open.spotify.com/track/47T54qbp9SreG2h7RBaMEG"
     },
     {
       "album": {
@@ -664,7 +682,7 @@
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 206848,
       "name": "Cantiga",
       "url": "https://open.spotify.com/track/5eXBqFxpGIkcdCorF4hohu"
     },
@@ -1069,6 +1087,24 @@
       "duration_ms": 168989,
       "name": "Divino",
       "url": "https://open.spotify.com/track/5h28ZG3vmzEhgiuin5dWSP"
+    },
+    {
+      "album": {
+        "name": "bem vindo, amanhecer",
+        "url": "https://open.spotify.com/album/680EwE0QR2RqxQxjyVqXWQ"
+      },
+      "artists": [
+        {
+          "name": "saudade",
+          "url": "https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169489,
+      "name": "do avesso",
+      "url": "https://open.spotify.com/track/1mPXDwkAClgl2XeI12ubB5"
     },
     {
       "album": {
@@ -1505,6 +1541,24 @@
       "duration_ms": 181353,
       "name": "Fuga",
       "url": "https://open.spotify.com/track/3ohS2af546AnusvsebxQcN"
+    },
+    {
+      "album": {
+        "name": "HAHAHA",
+        "url": "https://open.spotify.com/album/0iCtU3hO1nlgfP5AHOdvGQ"
+      },
+      "artists": [
+        {
+          "name": "Number Teddie",
+          "url": "https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150320,
+      "name": "HAHAHA",
+      "url": "https://open.spotify.com/track/5gWer2Q0jgZo2VHgt3akHr"
     },
     {
       "album": {
@@ -2078,6 +2132,24 @@
     },
     {
       "album": {
+        "name": "Na Beleza da Vida",
+        "url": "https://open.spotify.com/album/4akQEfvDqszJ5Y9JVjk8d4"
+      },
+      "artists": [
+        {
+          "name": "Tat\u00e1 Aeroplano",
+          "url": "https://open.spotify.com/artist/78zrcYeAIou4XXyCyc7r8U"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228925,
+      "name": "Na Beleza da Vida",
+      "url": "https://open.spotify.com/track/4MuzCQ8IreSdP8yoQTvRNY"
+    },
+    {
+      "album": {
         "name": "Nada Acontece",
         "url": "https://open.spotify.com/album/3Z9IbRkjxlFLvmIRjVaOx9"
       },
@@ -2373,7 +2445,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 169783,
       "name": "O Limbo do Menino Sem Olhos",
       "url": "https://open.spotify.com/track/0vPdgRzDiARUkiGO81iPKW"
@@ -2702,6 +2774,24 @@
     },
     {
       "album": {
+        "name": "Parte do Que Vem",
+        "url": "https://open.spotify.com/album/7s4EA9tZu5gK98FOSBL1ZS"
+      },
+      "artists": [
+        {
+          "name": "Bratislava",
+          "url": "https://open.spotify.com/artist/3I8XI4F1zuQYD6JwRmbLbY"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255053,
+      "name": "Pode Chegar",
+      "url": "https://open.spotify.com/track/1xY1qLVrlFZPYjpklP1cl4"
+    },
+    {
+      "album": {
         "name": "Polaroids",
         "url": "https://open.spotify.com/album/4BA0EFWHNxlc1q7ubXMMon"
       },
@@ -2927,7 +3017,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 217045,
       "name": "Querer Nunca Fez Planos",
       "url": "https://open.spotify.com/track/2XEuJHY9Ak80QwI1BVhmMa"
@@ -3181,7 +3271,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 267233,
       "name": "sem rumo",
       "url": "https://open.spotify.com/track/5dK4KjIqd60Y0W3rivvSgP"

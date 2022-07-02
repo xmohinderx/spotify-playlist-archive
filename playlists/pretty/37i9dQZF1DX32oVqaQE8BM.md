@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 759,203 likes - 205 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 759,230 likes - 205 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 17 | [Through the fields](https://open.spotify.com/track/0GyZq3mNQYAPDTWJUVWB4V) | [Bamboozled Bumblebee](https://open.spotify.com/artist/2AjeGYqAkWP7ZcD0NPPIG0) | [Through the fields](https://open.spotify.com/album/4msZok2Vb2B7SG7etPBv2T) | 2:56 |
 | 18 | [Dim Eyes](https://open.spotify.com/track/12c2Ttzw2pzF95V7NcGil6) | [Bagnio](https://open.spotify.com/artist/4ILDYx71BU6WiKLptF6IJQ) | [Dim Eyes](https://open.spotify.com/album/1GsILIyXFnCifMHBVPUiec) | 3:22 |
 | 19 | [holy cows](https://open.spotify.com/track/2nSpe6yeULSw6pu4DEJAN0) | [Hicut Lopass](https://open.spotify.com/artist/1sS4XmaU4vzA2TQ2PbKqJX) | [holy cows](https://open.spotify.com/album/46GCXSORoBE6MnvIGEg6Yb) | 2:01 |
-| 20 | [Venice](https://open.spotify.com/track/1FO9LieasI7ttaaDzijInm) | [lowclowds](https://open.spotify.com/artist/25oJa6BWwoxxrNa299VMh1) | [Venice](https://open.spotify.com/album/0FSV7nJLdW3WtRGmfnzeVb) | 0:29 |
+| 20 | [Venice](https://open.spotify.com/track/1FO9LieasI7ttaaDzijInm) | [lowclowds](https://open.spotify.com/artist/25oJa6BWwoxxrNa299VMh1) | [Venice](https://open.spotify.com/album/0FSV7nJLdW3WtRGmfnzeVb) | 3:24 |
 | 21 | [Come Alive](https://open.spotify.com/track/6EY8GTREw2nQWUR6rkZMqJ) | [Antuigo](https://open.spotify.com/artist/0SIxo5o3Jh1i8IjKtZhjcd) | [Come Alive](https://open.spotify.com/album/70FBJICtGpHQKyUKs1WKHi) | 3:20 |
 | 22 | [Whispered Winds](https://open.spotify.com/track/2bkaAE4VM6lLeygzWsakdz) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj), [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [Whispered Winds](https://open.spotify.com/album/4D4TennrYGTmUk0el0lebi) | 2:09 |
 | 23 | [luscious](https://open.spotify.com/track/7I7Y9ZPGOLbtpjs39VVH2o) | [temperley](https://open.spotify.com/artist/5lDF5BScxTU2sgkyqBONFU) | [luscious](https://open.spotify.com/album/4w7NyepbdBl8SVahPqD2O9) | 2:51 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 74 | [At The Hoffman's](https://open.spotify.com/track/2rTCp6VfOIqzzOJ2cvV16o) | [C\-90](https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq) | [At The Hoffman's](https://open.spotify.com/album/4qSGLzKVXWdATYMG2T8HfM) | 2:20 |
 | 75 | [Through The Wildness](https://open.spotify.com/track/2qRlg2aj8lFiN01eh4PABi) | [Inovalin Trem](https://open.spotify.com/artist/7EflRmV80Cnj9PmQZvpiUg) | [Through The Wildness](https://open.spotify.com/album/3gmXVJ5KvgK2DpMJo0yFRs) | 1:50 |
 | 76 | [Encapsulation](https://open.spotify.com/track/6luvhGwShtZChuy2LuiWFn) | [Inue](https://open.spotify.com/artist/2zD22BN6MTdYyJ1vETMZ2k) | [Knit](https://open.spotify.com/album/5bpPypgoPOTNFfPMDqkjwz) | 2:44 |
-| 77 | [Club Row](https://open.spotify.com/track/09be8fMevpQYEOkuD75eC7) | [Clint Is Quinn](https://open.spotify.com/artist/1utD3S9jRGZPWdNeLuoaOx) | [Club Row](https://open.spotify.com/album/1K9rT7uipaYEjlxDXINrNl) | 0:29 |
+| 77 | [Club Row](https://open.spotify.com/track/09be8fMevpQYEOkuD75eC7) | [Clint Is Quinn](https://open.spotify.com/artist/1utD3S9jRGZPWdNeLuoaOx) | [Club Row](https://open.spotify.com/album/1K9rT7uipaYEjlxDXINrNl) | 2:26 |
 | 78 | [Views from Yamashita Park](https://open.spotify.com/track/08GrJ04y6DrNm6t1OZ7a7N) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Views from Yamashita Park / Hatagaya Greenways](https://open.spotify.com/album/0CAD18JM3by6WU8WYPOMIC) | 1:40 |
 | 79 | [Sauna Friends](https://open.spotify.com/track/6wzbTAUcIuTU8ioK3ySpSg) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Sauna Friends](https://open.spotify.com/album/1ZziephRiQWbOkRMwJ7GRS) | 2:11 |
 | 80 | [brilliant blush](https://open.spotify.com/track/2ivcFIx7zAzNVNtJjdXflH) | [nadezhiko](https://open.spotify.com/artist/6JbECRtgmjNHNUeDaKQgtp) | [brilliant blush](https://open.spotify.com/album/4lQYTQLQ1HZqIGTl8nr4Yj) | 2:32 |
@@ -122,7 +122,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 112 | [Kvantum](https://open.spotify.com/track/0bN1xmEQ3bV6m5YLPjKS7R) | [Eclips3](https://open.spotify.com/artist/6ivJbFCNcqWHdxM9y83LV9) | [Kvantum](https://open.spotify.com/album/59qJcw59fdEr0rynKCB2Rx) | 2:00 |
 | 113 | [The Yellow Taxi](https://open.spotify.com/track/2t7CtXjvm9a4tVl8rj6O05) | [Tethered Ghosts](https://open.spotify.com/artist/4tMeBDw2jUzYYCxx4MqlVM) | [Left on Read](https://open.spotify.com/album/0p3KQ3yiMRA82ueeUAdcIq) | 2:44 |
 | 114 | [Cabana](https://open.spotify.com/track/0ZTWIZ2Avw0El0ZPCRV1ka) | [\[ocean jams\]](https://open.spotify.com/artist/3dHotvHEwOdiVKy5X6Gw9B) | [Cathartic](https://open.spotify.com/album/1qn7HpgYuij9FtWD1KIxHd) | 1:52 |
-| 115 | [Starstruck](https://open.spotify.com/track/4pduLVGTNsZ3KQUqK36Z2z) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Starstruck](https://open.spotify.com/album/5sYXhwMzCigsbf5LH3dN18) | 0:29 |
+| 115 | [Starstruck](https://open.spotify.com/track/4pduLVGTNsZ3KQUqK36Z2z) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Starstruck](https://open.spotify.com/album/5sYXhwMzCigsbf5LH3dN18) | 2:22 |
 | 116 | [shhh!](https://open.spotify.com/track/3O1PLxwBkPciBux8JWIGir) | [Dubtrack](https://open.spotify.com/artist/7649N0LXjp4mVaHfuLqcGo) | [shhh!](https://open.spotify.com/album/2mVmQ0wosGjjF2mExS52RF) | 2:28 |
 | 117 | [Cl3an](https://open.spotify.com/track/6SDm5pj3FJIKtKavxrjU3q) | [Camden Clown](https://open.spotify.com/artist/56yn1U5TaMjH6ENhDdlWfM) | [Cl3an](https://open.spotify.com/album/6MZlHlhLrLUwkCcYbuegSE) | 3:35 |
 | 118 | [Twigs](https://open.spotify.com/track/4mXIW02IV45ryBCq3HKDnU) | [Näver](https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0) | [Twigs](https://open.spotify.com/album/50pBVjlXEMrAoNQcjgq6qP) | 2:24 |
@@ -204,7 +204,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 194 | [love triangles](https://open.spotify.com/track/0WJj3kLVjvHCB5Pf2bkgXE) | [Happy Trees](https://open.spotify.com/artist/1C9UmgndcdjzGA4YmV3Bmr) | [love triangles](https://open.spotify.com/album/1dIrPgFSe5PM08NJrWDpZD) | 1:40 |
 | 195 | [Through The Lense](https://open.spotify.com/track/26N4LCZnAAWNsM42U8fAgB) | [Keyser](https://open.spotify.com/artist/52XeGIGAMhVqec1ev8t3Qc) | [Through The Lense](https://open.spotify.com/album/1h0hx2D61dW17Cymqzmxoy) | 2:18 |
 | 196 | [Weave](https://open.spotify.com/track/4iYFb2ChzBJ2CvgtePMpSM) | [Kyra Mora](https://open.spotify.com/artist/25XZKnvJlYGzMYE0qty5OM) | [Weave](https://open.spotify.com/album/1Pv9MqpZohiDQ8lKOWhLnP) | 2:33 |
-| 197 | [Pulse](https://open.spotify.com/track/4Wei2xM1ylJMPC8m4gS7jb) | [Kripto](https://open.spotify.com/artist/0VdlvJNWbvKfguCf7tdgop) | [Pulse](https://open.spotify.com/album/0qw2Z5e22Ncizew1ilSAX9) | 0:29 |
+| 197 | [Pulse](https://open.spotify.com/track/4Wei2xM1ylJMPC8m4gS7jb) | [Kripto](https://open.spotify.com/artist/0VdlvJNWbvKfguCf7tdgop) | [Pulse](https://open.spotify.com/album/0qw2Z5e22Ncizew1ilSAX9) | 2:06 |
 | 198 | [Vegetable Potion](https://open.spotify.com/track/5IaPHmM1d2l7WH2PXrkSor) | [Bring Your Vest](https://open.spotify.com/artist/3cCwLIIuTQy9USf5NyVKH3) | [Vegetable Potion](https://open.spotify.com/album/0e2Cyivw8FxGN1GCqbl3hU) | 2:03 |
 | 199 | [Departure](https://open.spotify.com/track/4RXvT4yndTczEZFmCo6J4b) | [Liwia Antas](https://open.spotify.com/artist/2vDjp8PFFifCgAE0MZkHap) | [Departure](https://open.spotify.com/album/3iTN7tZcBKpDYjgx8PF61K) | 3:41 |
 | 200 | [Space And Time](https://open.spotify.com/track/2WlKoxl8hJiuOgKolOH3WR) | [Lake Geneva](https://open.spotify.com/artist/6CcMV3fTlrJ4ECazXDdOA9) | [Space And Time](https://open.spotify.com/album/5RpZBi2zTH4WjK7AWc5OzN) | 2:25 |

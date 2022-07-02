@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 
 > Uplifting instrumental beats to brighten your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,276 likes - 216 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,359 likes - 216 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 83 | [Alter Witz](https://open.spotify.com/track/4FO8ygXmPAxWeU8xX0JiVT) | [Hairklep](https://open.spotify.com/artist/7hIODasG8UClMMJFKxA8IZ) | [Alter Witz](https://open.spotify.com/album/5buCA6vOBGVzefuRPZpTMU) | 1:26 |
 | 84 | [Happy to See You](https://open.spotify.com/track/2c6Si68uNJOXbWA4gFOo6p) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Happy To See You](https://open.spotify.com/album/2RQywmTrDDg7Zf4FdOKNIr) | 2:11 |
 | 85 | [City Beatbox](https://open.spotify.com/track/55G7LzvJNYZJiPFitg1g4y) | [Zumak](https://open.spotify.com/artist/6be30BeZ9kqClak0AY5Gi7) | [City Beatbox](https://open.spotify.com/album/376zKL3VyAGdByEgktt1td) | 1:58 |
-| 86 | [lustig](https://open.spotify.com/track/4PqKF4AvWgQLDh7hUYdYtc) | [Izidore x](https://open.spotify.com/artist/2z2cKX1dfFL2jBrOXRjVKd) | [lustig](https://open.spotify.com/album/0mlMroJGJndveu0n7an5ak) | 2:09 |
+| 86 | [lustig](https://open.spotify.com/track/4PqKF4AvWgQLDh7hUYdYtc) | [Izidore x](https://open.spotify.com/artist/2z2cKX1dfFL2jBrOXRjVKd) | [lustig](https://open.spotify.com/album/0mlMroJGJndveu0n7an5ak) | 0:29 |
 | 87 | [The Road is Winding](https://open.spotify.com/track/2oYlPGxZPPd6jer8rHO2mr) | [SLACER](https://open.spotify.com/artist/0J2jRTXMGGCAwBGoi3xNtW) | [The Road is Winding](https://open.spotify.com/album/4WksUZ2OCSUDstt5KsCQNG) | 2:27 |
 | 88 | [Aloha Vera](https://open.spotify.com/track/2qpkNIVyjNbh9MYUkSz7Yh) | [Inf](https://open.spotify.com/artist/6yGW6Z2OraCYUr9OsqZo2x), [Myrthe van de Weetering](https://open.spotify.com/artist/7qUsU9xkEpbdImTvJGfB99) | [Aloha Vera](https://open.spotify.com/album/21pDqAXBNOPv1s3oJSFk3r) | 2:53 |
 | 89 | [Mellow Mornings](https://open.spotify.com/track/444lm679kTAXCPTaccUjRx) | [Snoozegod](https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG), [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi) | [Mellow Mornings](https://open.spotify.com/album/4uQhOslC5gEVzcitp2BAm7) | 2:11 |
@@ -109,13 +109,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 99 | [Winter Keys](https://open.spotify.com/track/6NT3drJc597TCEIK8LMFka) | [Brief & Breezy](https://open.spotify.com/artist/5GHbufBgAO1POi50gQq1B7) | [Winter Keys](https://open.spotify.com/album/1PFHDWjFCyXHVI867KFcoy) | 2:36 |
 | 100 | [Papillon](https://open.spotify.com/track/6S1uhrWCT8WFV6z8f5P8Va) | [Xsist](https://open.spotify.com/artist/5UXNo7yX1QsF9VkPVCNKxW) | [Goodwill](https://open.spotify.com/album/1at0iMkraJOI1A582LDqgX) | 1:50 |
 | 101 | [Golden Cat](https://open.spotify.com/track/1zvls0maQeLYZyIJwynbD1) | [Above the Mex](https://open.spotify.com/artist/2hH7uEbdBk31CRmcHj8Emh) | [Golden Cat](https://open.spotify.com/album/7MT7vYU81W8E2Gff9muvfR) | 3:46 |
-| 102 | [The Chillest](https://open.spotify.com/track/6uA5tWVvj13MGLNxhHGxhr) | [Chilou](https://open.spotify.com/artist/2wTi41vTfbFFHdAAezSSF8) | [The Chillest](https://open.spotify.com/album/0CrclNcvwEUbTl9zSFjkzW) | 2:31 |
+| 102 | [The Chillest](https://open.spotify.com/track/6uA5tWVvj13MGLNxhHGxhr) | [Chilou](https://open.spotify.com/artist/2wTi41vTfbFFHdAAezSSF8) | [The Chillest](https://open.spotify.com/album/0CrclNcvwEUbTl9zSFjkzW) | 0:29 |
 | 103 | [Trip Vibe](https://open.spotify.com/track/7K6XMQzUNiLQ3NIhCqBwU4) | [Monzzune](https://open.spotify.com/artist/1RWZV3rPwdheATWccxhAbp) | [Go To Kaua'i](https://open.spotify.com/album/25da3jJUKkKnkkWPL7Ozb8) | 2:14 |
 | 104 | [Montego](https://open.spotify.com/track/3t3KBPlKEIxUtk3h0DNQJn) | [Toshdy](https://open.spotify.com/artist/55bwDdaEDVEycXFNC9Xl1D) | [Montego](https://open.spotify.com/album/12WymcJPB9GXeBsMq94NUz) | 2:27 |
-| 105 | [Where the Sun Lives](https://open.spotify.com/track/1Q6Yq87dBVj1BYaiOsjKph) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Chillin In Cabo](https://open.spotify.com/album/0R3G448YpmWiCpGRGfGgbo) | 0:29 |
+| 105 | [Where the Sun Lives](https://open.spotify.com/track/1Q6Yq87dBVj1BYaiOsjKph) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Chillin In Cabo](https://open.spotify.com/album/0R3G448YpmWiCpGRGfGgbo) | 2:21 |
 | 106 | [Voxter](https://open.spotify.com/track/7aoKOVATErohs5ebJmeIlt) | [Alex Dumpty](https://open.spotify.com/artist/6U5fHzqa2qiHqlYPzGTB7I) | [Morning Yolk](https://open.spotify.com/album/2Rj4kUv2XhpAko0Ckirg2X) | 1:56 |
 | 107 | [Solution](https://open.spotify.com/track/59KFxZW9JsG5ZCImfl037l) | [slvmdunk](https://open.spotify.com/artist/6xWPNNIPMMeXMqzJ8o0T3w) | [Solution](https://open.spotify.com/album/0JeowS9xwEgfLOdORmWc5l) | 2:54 |
-| 108 | [contour](https://open.spotify.com/track/2Pb6ZuEm6FEfcGlqhHuqPN) | [Tatami Construct](https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC) | [Contour](https://open.spotify.com/album/6JX4qMJQLiq2lRBOKavCQI) | 0:29 |
+| 108 | [contour](https://open.spotify.com/track/2Pb6ZuEm6FEfcGlqhHuqPN) | [Tatami Construct](https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC) | [Contour](https://open.spotify.com/album/6JX4qMJQLiq2lRBOKavCQI) | 2:55 |
 | 109 | [Llama Drama](https://open.spotify.com/track/3BIigRWvCUldxIeQkzSEMa) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Llama Drama](https://open.spotify.com/album/1JjljDOBIiFcWw7j3Qrxcw) | 2:07 |
 | 110 | [Palm Beach](https://open.spotify.com/track/3EK9wi1Guh6qmKuPbjGKIC) | [L.O.F.I](https://open.spotify.com/artist/2DikRUY57gNUtzrnk5NUxh) | [Palm Beach](https://open.spotify.com/album/2GHQLU614JS7x2M93SFf5a) | 2:07 |
 | 111 | [Perspectives](https://open.spotify.com/track/0cAx7XcK0FgWXNr2FD7xhc) | [Strident Mink](https://open.spotify.com/artist/5LdZvm0qSRPEJMemgPAS0p) | [Perspectives](https://open.spotify.com/album/2v9je3MdmSHblU18SJ1eYD) | 1:24 |
@@ -164,7 +164,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 154 | [Springboard Fun](https://open.spotify.com/track/2diMv8vVlQRyP9CA5PFI5s) | [Re\-Lax & Re\-Why'nd](https://open.spotify.com/artist/1rMywJQt6BtOpjN9E1qKxt) | [Springboard Fun](https://open.spotify.com/album/7cZ1x7VKrugvimRelrbfnZ) | 2:24 |
 | 155 | [millions](https://open.spotify.com/track/5I20Xa98Zm3YQlSfRQgwxt) | [heading\_\_](https://open.spotify.com/artist/3aE2ahDVUX4Pd0KKkWOfmS) | [outwards](https://open.spotify.com/album/00mqlceXIbKhc7ukOv5VOk) | 1:48 |
 | 156 | [Late Hour](https://open.spotify.com/track/5ueBL4PSEp7B7TInLXxhFA) | [kahlooa station](https://open.spotify.com/artist/7IltJzcGeHqTULdYFB0GwT) | [Late Hour](https://open.spotify.com/album/2XmEWdLXAmLF6pY3mht9wi) | 2:18 |
-| 157 | [Lab](https://open.spotify.com/track/2kHDQldORUg2dYR1BOQlWc) | [Jon Droulis](https://open.spotify.com/artist/1SmwmdWkvYoC7dw13cEIbs) | [Lab](https://open.spotify.com/album/4CnTuWjhnYgnE2Wqv57AUc) | 0:29 |
+| 157 | [Lab](https://open.spotify.com/track/2kHDQldORUg2dYR1BOQlWc) | [Jon Droulis](https://open.spotify.com/artist/1SmwmdWkvYoC7dw13cEIbs) | [Lab](https://open.spotify.com/album/4CnTuWjhnYgnE2Wqv57AUc) | 2:21 |
 | 158 | [Times, Times](https://open.spotify.com/track/1CEeMld7h9WlsJBTobGPyu) | [Eric Goldander](https://open.spotify.com/artist/271Et84OFD9kd3AHKbjoEz) | [Times, Times](https://open.spotify.com/album/2PGffwBFMtFQqAOWPVERQj) | 2:13 |
 | 159 | [Paint Drip](https://open.spotify.com/track/7JlI1eHDw1XWFiMy3LKJ8b) | [Mr Nitro](https://open.spotify.com/artist/7KvQlp8VjB1cFpH91KZQ3p) | [Paint Drip](https://open.spotify.com/album/2JRmuTzGZjgKW6Xyq3oUBE) | 1:46 |
 | 160 | [Retrospective](https://open.spotify.com/track/5BYOPUidJX9Hx0T6tv3lWA) | [Zach Jordan](https://open.spotify.com/artist/7wI6FVPuBFU5KcTSddrzK2) | [Retrospective](https://open.spotify.com/album/1hdYL4Gu453c6Ve4lGsUH1) | 2:11 |
@@ -200,11 +200,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 190 | [Run Boy](https://open.spotify.com/track/57kn96jwh3J2BzIeYrHURr) | [Smartface](https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym) | [Dissolve](https://open.spotify.com/album/1FMSLJ1NVRYzqu3LkIKlWS) | 2:32 |
 | 191 | [Coral](https://open.spotify.com/track/55RpiZ4sQaEEbcGAOukL3S) | [Mwuah](https://open.spotify.com/artist/4JbwJg5Mu77ekuiROGPXdF) | [Coral](https://open.spotify.com/album/7hIWp2pPbMvTSQw7btmWWz) | 2:33 |
 | 192 | [Sunnyside Crossing \(Ode to KK\)](https://open.spotify.com/track/4F5mLxbhGHhwQpYeJCZKAf) | [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Sunnyside Crossing \(Ode to KK\)](https://open.spotify.com/album/0Upp6SD0SMlItdoMasbOuD) | 3:38 |
-| 193 | [Perspective](https://open.spotify.com/track/673JYsOrXLLviHKtcilXYv) | [Keyser Dope](https://open.spotify.com/artist/0AlQc7m93kmKUb3F0pJx2V) | [Perspective](https://open.spotify.com/album/1PvbnfUzYTg6CWiqTyWtxC) | 2:58 |
+| 193 | [Perspective](https://open.spotify.com/track/673JYsOrXLLviHKtcilXYv) | [Keyser Dope](https://open.spotify.com/artist/0AlQc7m93kmKUb3F0pJx2V) | [Perspective](https://open.spotify.com/album/1PvbnfUzYTg6CWiqTyWtxC) | 0:29 |
 | 194 | [Red Dove](https://open.spotify.com/track/7LebLMIwvYvoWbBd9GYtxW) | [Greenland](https://open.spotify.com/artist/58WLeCP383TOf9KPchxyLl) | [Red Dove](https://open.spotify.com/album/7GJpLw4jMbTx00deI5jpOa) | 2:02 |
 | 195 | [Sun Burst](https://open.spotify.com/track/4hIIqxifE3o9tVbCjtIeB2) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [Octavium](https://open.spotify.com/album/2wqFb3SCzoAI1mzGk1jTcN) | 1:46 |
 | 196 | [Fairy Tale](https://open.spotify.com/track/6ND6qzbcyyCLdypdQFX2ie) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Superpad](https://open.spotify.com/album/71f8yJ3jyE0366wpVCFfl4) | 1:32 |
-| 197 | [Habana Vieja](https://open.spotify.com/track/1mI09jvN78SzxAk3pvHmiD) | [Yumas](https://open.spotify.com/artist/3xmU1hRg5TC6koUJ24CRBv) | [¿Qué bolá?](https://open.spotify.com/album/2IVF0eGQmUwWVHRZ5sBtZg) | 0:29 |
+| 197 | [Habana Vieja](https://open.spotify.com/track/1mI09jvN78SzxAk3pvHmiD) | [Yumas](https://open.spotify.com/artist/3xmU1hRg5TC6koUJ24CRBv) | [¿Qué bolá?](https://open.spotify.com/album/2IVF0eGQmUwWVHRZ5sBtZg) | 3:06 |
 | 198 | [G&T!](https://open.spotify.com/track/6tgghxEXGuAeQWn3NYIsKT) | [pastels](https://open.spotify.com/artist/3FMHJYjF4SBeWszMXgWoaR) | [G&T!](https://open.spotify.com/album/0E9J985TjgZozA7pUrwcCF) | 2:44 |
 | 199 | [bad habit](https://open.spotify.com/track/5TZjQUcJwhqlDfQ4BApbYy) | [cingie](https://open.spotify.com/artist/3LRWwnmhuhlhZilHht5dYw) | [bad habit](https://open.spotify.com/album/5Y67fTLxbnk8hgscy8nEB9) | 2:02 |
 | 200 | [Seven](https://open.spotify.com/track/3UdSY1SgSF60lpYdMbmeXm) | [Von Von Bon](https://open.spotify.com/artist/46ex27gVTAa49Ikzk0M6jU) | [Seven](https://open.spotify.com/album/2Oiaj5rQK2zBL5xBtGUhlV) | 2:29 |
@@ -215,7 +215,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 205 | [No Problem Too Small](https://open.spotify.com/track/0Td7VHO3ojTr3VO8GJTqQh) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj), [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [No Problem Too Small](https://open.spotify.com/album/3qKy5Uvc5ru23HZ4XYW40d) | 2:02 |
 | 206 | [Witching Hour](https://open.spotify.com/track/17uRVL0hDUqWwbF4KYSr48) | [Tin Ghosts](https://open.spotify.com/artist/5SkZxzEJm6ScRc4G4SAkwI) | [Witching Hour](https://open.spotify.com/album/1Nz6t4KOf741GhyFIKHAeF) | 2:31 |
 | 207 | [this feels so right](https://open.spotify.com/track/4or5RFuku3G0P1ZOLGBTLt) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [this feels so right](https://open.spotify.com/album/2VyvMQUHPp3KIcIyiWbVjv) | 1:30 |
-| 208 | [Loose](https://open.spotify.com/track/2jL3urmIC1PepoT93Mskmm) | [Mama Gecko](https://open.spotify.com/artist/3hsIheKwar2G4DBVfH3FBh) | [Loose](https://open.spotify.com/album/7pzAH2m3DrWbjgkMEBOQtB) | 0:29 |
+| 208 | [Loose](https://open.spotify.com/track/2jL3urmIC1PepoT93Mskmm) | [Mama Gecko](https://open.spotify.com/artist/3hsIheKwar2G4DBVfH3FBh) | [Loose](https://open.spotify.com/album/7pzAH2m3DrWbjgkMEBOQtB) | 2:39 |
 | 209 | [Positive Vibes](https://open.spotify.com/track/0VrZZ4GWTRa8TXJulbzJ6U) | [Opal Fangs](https://open.spotify.com/artist/4WXavKtmJD4UsjSTHIwZrZ) | [Positive Vibes](https://open.spotify.com/album/075pLxefaNgm93o7v9K7kC) | 1:31 |
 | 210 | [Lo\-Fi Prism](https://open.spotify.com/track/7xMO3gsf52QohpGmPzBZgt) | [Dazik69](https://open.spotify.com/artist/7zZd3vsuMLI5VbBYxGZBvA) | [Color Spectrum](https://open.spotify.com/album/6LIPsEuK3G1mGRzfFnEQDt) | 1:36 |
 | 211 | [frozen grapes](https://open.spotify.com/track/5vMkAdCEgGVbPqmyFR9fB8) | [vibe academy](https://open.spotify.com/artist/1QIlKfgGmOpQRigjy2CyPN) | [frozen grapes](https://open.spotify.com/album/1lGfubsWe9ThyEZUC3wDVz) | 1:35 |

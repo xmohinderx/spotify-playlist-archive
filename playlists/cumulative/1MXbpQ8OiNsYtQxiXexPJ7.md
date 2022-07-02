@@ -4,7 +4,7 @@
 
 > The sun is setting and the night takes over\. Enjoy these while letting the evening play on.
 
-44 songs - 2 hr 45 min - [published](https://open.spotify.com/playlist/4kxssIC9ke65LePz38IFed)
+44 songs - 2 hr 48 min - [published](https://open.spotify.com/playlist/4kxssIC9ke65LePz38IFed)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Misplaced](https://open.spotify.com/track/7AKsTwGKBlNQxDf2D6AQvt) | [The Acorn](https://open.spotify.com/artist/1fQObup5M4oSgLVDBnt22v) | [No Ghost](https://open.spotify.com/album/2TvF3T3FykvWh0SiyKGIfA) | 3:39 | 2015-02-02 |  |
 | [Native State](https://open.spotify.com/track/3eZOtkZYvOYJJgUJWyNipA) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Native State](https://open.spotify.com/album/59ojCT6Jx8dtTGkrS1YXMh) | 4:14 | 2015-02-02 |  |
 | [Passenger Seat](https://open.spotify.com/track/5tVMudXRXOlbAq96fw2JTN) | [Talking To Turtles](https://open.spotify.com/artist/7kiuEsAD7rftviLEgHodRh) | [Split](https://open.spotify.com/album/0opUwFoXCqhigL9SttZxxF) | 3:40 | 2015-02-02 |  |
-| [Poor Man's Son](https://open.spotify.com/track/6nYCdW3cDkm9VMOhpyjz0L) | [Bastard Sons of Johnny Cash](https://open.spotify.com/artist/7J7zkant0HwoShdwP6FHbe) | [New Old Story](https://open.spotify.com/album/3ogmRHye16x4jSRHyeepjE) | 0:29 | 2015-02-02 |  |
+| [Poor Man's Son](https://open.spotify.com/track/6nYCdW3cDkm9VMOhpyjz0L) | [Bastard Sons of Johnny Cash](https://open.spotify.com/artist/7J7zkant0HwoShdwP6FHbe) | [New Old Story](https://open.spotify.com/album/3ogmRHye16x4jSRHyeepjE) | 4:03 | 2015-02-02 |  |
 | [Pretty Polly](https://open.spotify.com/track/5ZCSxBtSpyvHvEvGuXuTEr) | [Vandaveer](https://open.spotify.com/artist/3SP3zwx9ot2sOEf80VJA5A) | [Oh, Willie, Please...](https://open.spotify.com/album/7nDcfCxLFJaMJ1dGv9sHS5) | 3:48 | 2015-02-02 |  |
 | [Revival Time](https://open.spotify.com/track/20pd9tdnpI2Uliuec5m7fY) | [The Grahams](https://open.spotify.com/artist/1kAm1OltEmLomzR38KZakG) | [Riverman's Daughter](https://open.spotify.com/album/0WK8KjhfY5UXY3Lkikad6G) | 3:12 | 2015-02-02 |  |
 | [Right Time](https://open.spotify.com/track/745d5FAEdoDfYg3gHFK1Ct) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [All Or Nothin'](https://open.spotify.com/album/1QKfsdpqt4YP8WdEKATNhU) | 3:21 | 2015-02-02 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0COE1X7FirWRdfOgls1JJV.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 484 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 484 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/0COE1X7FirWRdfOgls1JJV.md) - [plain]
 | 26 | [The Power](https://open.spotify.com/track/04Mh4OWSBUBn5Vpna4DXrA) | [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx) | [World Power](https://open.spotify.com/album/09xVlDSKLulyXtJelvEc8T) | 5:44 |
 | 27 | [\(Can’t Live Without Your\) Love And Affection](https://open.spotify.com/track/27Y9xH05ojEaS3fYCrp8PM) | [Nelson](https://open.spotify.com/artist/5jJcbGPjjyEhAoU02ynHaA) | [Before The Rain](https://open.spotify.com/album/1sql9myqrGQ6LNKxUlvTQS) | 3:53 |
 | 28 | [Love Will Lead You Back](https://open.spotify.com/track/4CyvKTtdLUiKAYnmMMPNIl) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Arista Heritage Series: Taylor Dayne](https://open.spotify.com/album/2qZbZ7HCovscrsGYc0bRWA) | 4:38 |
-| 29 | [Don't Wanna Fall in Love](https://open.spotify.com/track/6eozUVzr02EXMji1vuxgiP) | [Jane Child](https://open.spotify.com/artist/5JBif5ahOKFFVuEpHhrp8Y) | [Jane Child](https://open.spotify.com/album/7lctp9rkvSczgxQ7OGKQaO) | 0:29 |
+| 29 | [Don't Wanna Fall in Love](https://open.spotify.com/track/6eozUVzr02EXMji1vuxgiP) | [Jane Child](https://open.spotify.com/artist/5JBif5ahOKFFVuEpHhrp8Y) | [Jane Child](https://open.spotify.com/album/7lctp9rkvSczgxQ7OGKQaO) | 4:07 |
 | 30 | [Two To Make It Right](https://open.spotify.com/track/6GS6uE1vDmtzxO8GztAR2O) | [Seduction](https://open.spotify.com/artist/66pXn4ZrPf6yzk5PHGkUZA) | [Nothing Matters Without Love](https://open.spotify.com/album/7ruxozNKlzgbD011lL9xc6) | 4:42 |
 | 31 | [Sending All My Love](https://open.spotify.com/track/6zNPPFFrxmhpTQejOn1Wm1) | [Linear](https://open.spotify.com/artist/22i8GlNyvBRj7b93jmXWT7) | [Linear](https://open.spotify.com/album/6qnHcP6z0qNjupb9mkSyG0) | 3:54 |
 | 32 | [Unskinny Bop](https://open.spotify.com/track/7ba7mwoleFlwmOiuqw8XNf) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [The Best Of \- 20 Years Of Rock](https://open.spotify.com/album/6t8MO7WPlhgakTE22CbrYy) | 3:49 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/0COE1X7FirWRdfOgls1JJV.md) - [plain]
 | 34 | [Dangerous](https://open.spotify.com/track/7F7CoxV8TzZUpjUu7qiQPQ) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Greatest Hits](https://open.spotify.com/album/4htx3t5YHqgyTgHw3xinsf) | 3:49 |
 | 35 | [We Didn't Start the Fire](https://open.spotify.com/track/38bDGWuyYdSdNfrFfbCiVS) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Essential Billy Joel](https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz) | 4:48 |
 | 36 | [I Don't Have The Heart](https://open.spotify.com/track/3PRbGCOCSu0JgVBJ8f5fMP) | [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo) | [Billboard: \#1 Hits Of The 90's](https://open.spotify.com/album/3UTqjsuiNuQ9uxxXyS8qa1) | 4:07 |
-| 37 | [Downtown Train \- 2008 Remaster](https://open.spotify.com/track/0c639r11FQKDFMmGfTRqOU) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Definitive Rod Stewart](https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj) | 0:29 |
+| 37 | [Downtown Train \- 2008 Remaster](https://open.spotify.com/track/0c639r11FQKDFMmGfTRqOU) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Definitive Rod Stewart](https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj) | 4:39 |
 | 38 | [Rhythm Nation](https://open.spotify.com/track/4nTYxxF8iWBq54LO3dBUie) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Rhythm Nation 1814](https://open.spotify.com/album/4OD3LU6001esAtFshDX46M) | 5:30 |
 | 39 | [I'll Be Your Everything](https://open.spotify.com/track/41ZZIBDKGqoArKaYgrqGPe) | [Tommy Page](https://open.spotify.com/artist/4TPWj56uIO4N5puju96P0J) | [Billboard: \#1 Hits Of The 90's](https://open.spotify.com/album/3UTqjsuiNuQ9uxxXyS8qa1) | 4:04 |
 | 40 | [Roam](https://open.spotify.com/track/5fqcIHU6DhQtFKVO5XSdQs) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Cosmic Thing](https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS) | 4:55 |

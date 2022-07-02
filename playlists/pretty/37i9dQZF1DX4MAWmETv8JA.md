@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MAWmETv8JA.md) - [plain]
 
 > O melhor do trance feito na América Latina / Lo mejor del trance latino\. Foto: Henrique Camacho
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,970 likes - 65 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,993 likes - 65 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MAWmETv8JA.md) - [plain]
 | 17 | [Hare Krishna](https://open.spotify.com/track/2NCjqV0eTJJlnrWQxm21Yz) | [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6), [Hyperflow](https://open.spotify.com/artist/5Azv2lWNJe6Pac0W44HHPY) | [Hare Krishna](https://open.spotify.com/album/74PBoN1nXyu0kyp2Pfq2Pd) | 5:31 |
 | 18 | [Pólvora](https://open.spotify.com/track/3NZsaDrILzOwEbvvitf1D2) | [Chapeleiro](https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH) | [Acelero](https://open.spotify.com/album/3IaWvLz87jDi6thZNB2pU1) | 4:16 |
 | 19 | [Synapses in Amsterdam](https://open.spotify.com/track/1ZnHUp5jiWFkkN5u26UlmG) | [A\-Dyad](https://open.spotify.com/artist/11HbXAUaPyevfyRYnmHpX6) | [Synapses in Amsterdam](https://open.spotify.com/album/6iwNOZtaXqpD1qxlAJQpub) | 6:44 |
-| 20 | [Issues](https://open.spotify.com/track/4AE5YnXiGC6Hh5Tfk7HgtR) | [Pribe](https://open.spotify.com/artist/5J41o0l7Wy6ZBc14nts5T4), [Kurtt](https://open.spotify.com/artist/7JHmRze9V18uFjvrCktqxK) | [Issues](https://open.spotify.com/album/2JSkRQLNecYwolOHk24Y4A) | 0:29 |
+| 20 | [Issues](https://open.spotify.com/track/4AE5YnXiGC6Hh5Tfk7HgtR) | [Pribe](https://open.spotify.com/artist/5J41o0l7Wy6ZBc14nts5T4), [Kurtt](https://open.spotify.com/artist/7JHmRze9V18uFjvrCktqxK) | [Issues](https://open.spotify.com/album/2JSkRQLNecYwolOHk24Y4A) | 4:45 |
 | 21 | [Afrodelia \- Original Mix](https://open.spotify.com/track/464B0BHg19O9onCyloJsHg) | [Diksha](https://open.spotify.com/artist/4UyZSm3hzv2Nt5hIGC44g2) | [Afrodelia](https://open.spotify.com/album/2AKkgypQBa3JcFQEa4zJPv) | 8:19 |
 | 22 | [Ancient Fire](https://open.spotify.com/track/56fs6pRDSSWGdFgrmdGuhG) | [4i20](https://open.spotify.com/artist/3zlIIVkWyNrNpeN8lO49aH), [Jesse Fox](https://open.spotify.com/artist/6KouCOw06pAsnWPfbaf3p5) | [Ancient Fire](https://open.spotify.com/album/3OjFlJ7GFvadwhNQ6pfGDF) | 5:35 |
 | 23 | [Lokura](https://open.spotify.com/track/57oYvce5t1AULYkzT5D08O) | [Chapeleiro](https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH) | [Lokura](https://open.spotify.com/album/6fbPcf3pGM0H1xB9GTLHzP) | 5:56 |

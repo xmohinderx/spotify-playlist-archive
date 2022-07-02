@@ -4,7 +4,7 @@
 
 > "Bond..\. James Bond." Cover: <a href="spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH">Billie Eilish</a>
 
-34 songs - 1 hr 56 min - [published](https://open.spotify.com/playlist/4VaHsyK2hlLM9Ze1eGMozZ)
+34 songs - 1 hr 58 min - [published](https://open.spotify.com/playlist/4VaHsyK2hlLM9Ze1eGMozZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,6 @@
 | [Writing's On The Wall \- Instrumental](https://open.spotify.com/track/1IgRTNHVwz4iFhWxSTqiUi) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Spectre \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6EB2m0JP7libPTesn4kT2Z) | 2:10 | 2021-10-14 | 2022-03-30 |
 | [You Know My Name \- From "Casino Royale" Soundtrack](https://open.spotify.com/track/4MR9iW77LJoPPDjwAYbIZZ) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Carry On](https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb) | 4:00 | 2021-10-14 |  |
 | [You Only Live Twice \- Instrumental](https://open.spotify.com/track/4yN9GHgWQeoxeLOVVzyvqH) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [The Music Of John Barry](https://open.spotify.com/album/1DtpXIGGw9vQXZvKmqDmKA) | 2:37 | 2021-10-14 | 2022-03-30 |
-| [You Only Live Twice \- Main Title](https://open.spotify.com/track/68qxZGCBmN5HY4gmK0iURW) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [You Only Live Twice \- Soundtrack](https://open.spotify.com/album/70yvWorA4DzKWsS3Nvz89q) | 0:29 | 2021-10-14 |  |
+| [You Only Live Twice \- Main Title](https://open.spotify.com/track/68qxZGCBmN5HY4gmK0iURW) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [You Only Live Twice \- Soundtrack](https://open.spotify.com/album/70yvWorA4DzKWsS3Nvz89q) | 2:47 | 2021-10-14 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

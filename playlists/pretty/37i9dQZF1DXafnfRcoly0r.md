@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafnfRcoly0r.md) - [plain]
 
 > Songs about our favorite furry, scaly, and feathered friends!
 
-[Spotify](https://open.spotify.com/user/spotify) - 435 likes - 72 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 437 likes - 72 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafnfRcoly0r.md) - [plain]
 | 12 | [The Goldfish](https://open.spotify.com/track/36wdT4QdYZcrMkht0AI5Tn) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Animal Songs](https://open.spotify.com/album/7Je5oIcCgLELjJaBtyZejs) | 3:34 |
 | 13 | [Puppy Dog](https://open.spotify.com/track/5RJZ6fC62weu50vLNUv4KU) | [Ralph's World](https://open.spotify.com/artist/4qIIexaFmYNueu5mnSQnzU) | [Peggy's Pie Parlor](https://open.spotify.com/album/1e77tQJvtgPCVi7oLnTnCH) | 2:11 |
 | 14 | [We All Love Our Pets](https://open.spotify.com/track/4pITScbrqHq4VKiKZ2dVVJ) | [Taking Back Sunday](https://open.spotify.com/artist/5f4yWv7PwL1Tm5PWsIoUPq) | [Yo Gabba Gabba Hey](https://open.spotify.com/album/3Ca8UokyDHfe4WfSLbWUl4) | 1:41 |
-| 15 | [Three Little Kittens \- 2014 Version](https://open.spotify.com/track/5I9D2oS7a0tge0z5IygYOa) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [The Ultimate Nursery Rhymes and Song Collection](https://open.spotify.com/album/2H6xMEnwcyraIDvfTvettR) | 0:29 |
+| 15 | [Three Little Kittens \- 2014 Version](https://open.spotify.com/track/5I9D2oS7a0tge0z5IygYOa) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [The Ultimate Nursery Rhymes and Song Collection](https://open.spotify.com/album/2H6xMEnwcyraIDvfTvettR) | 2:01 |
 | 16 | [Chihuahua](https://open.spotify.com/track/1quenVNGeGpSBJBpU7Xm7w) | [fleaBITE](https://open.spotify.com/artist/6rfo4U1CM0NDIuikxFYDJW) | [Snakes Alive \(It's Fleabite 5\)](https://open.spotify.com/album/4sOTyPW3UH85SwPM8jzk2w) | 2:34 |
 | 17 | [Bad Kitty](https://open.spotify.com/track/1fp4rbxkUTDX9rOYFyXeuL) | [Triple Rainbow](https://open.spotify.com/artist/3IGsw8WHZ1TzhtPRbBb26J) | [You Are Magic](https://open.spotify.com/album/5xRjlwgV91shI2gFPaoQEx) | 3:01 |
 | 18 | [My Dog Romeo](https://open.spotify.com/track/4rD5Cuy00DTl4h0nRZ9Fy2) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [More Family Time](https://open.spotify.com/album/1jB8Th5VPnKZj25uGOcpZw) | 2:46 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafnfRcoly0r.md) - [plain]
 | 47 | [Cats & Dogs](https://open.spotify.com/track/7pJ1XRYQnH7f8NNr9R9RHl) | [Red Yarn](https://open.spotify.com/artist/13eFwXXIPS7klxrhNvU0jA) | [Backyard Bop](https://open.spotify.com/album/7jmDOvu7kPJt9C9cyjiSPN) | 3:24 |
 | 48 | [Dogs](https://open.spotify.com/track/3Y0diyyOKcHMj0ErvAq2In) | [Play School](https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A) | [Favourite Things: Songs and Nursery Rhymes from Play School](https://open.spotify.com/album/3iTEYok7snY0DL5XjQB8xs) | 1:24 |
 | 49 | [Here Boy \- TV Show Edit](https://open.spotify.com/track/4jsk9vzSNgMghlno7aswQc) | [Andy And The Odd Socks](https://open.spotify.com/artist/7FaeyOiIacUzZR8I3b7uGh) | [Here Boy \(TV Show Edit\)](https://open.spotify.com/album/7utjLJoFRe5TzDBBK0w8tE) | 1:40 |
-| 50 | [Pussycat Pussycat \- 2012 Version](https://open.spotify.com/track/3iYAF7cCaT8bZctOjL3HxT) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [The Ultimate Nursery Rhymes and Song Collection](https://open.spotify.com/album/2H6xMEnwcyraIDvfTvettR) | 0:29 |
+| 50 | [Pussycat Pussycat \- 2012 Version](https://open.spotify.com/track/3iYAF7cCaT8bZctOjL3HxT) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [The Ultimate Nursery Rhymes and Song Collection](https://open.spotify.com/album/2H6xMEnwcyraIDvfTvettR) | 0:58 |
 | 51 | [My Dog](https://open.spotify.com/track/4PAuqJS80UxHg6e36wrvb8) | [Charlie Hope](https://open.spotify.com/artist/6sI7SYupv4f5Jh6RD2nJlw) | [Songs, Stories and Friends: Let's Go Play!](https://open.spotify.com/album/47YjKnwgGaKqjuOoUDpSaj) | 2:10 |
 | 52 | [Veterinarian](https://open.spotify.com/track/2wkorvy9udtNjAsQ02RGBM) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Professions](https://open.spotify.com/album/1LMhHcOYoUimpVAby72f5J) | 1:08 |
 | 53 | [My Pet Cat](https://open.spotify.com/track/6NyiHKvNUi8GW8VAf7YCuK) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [My Pet Cat](https://open.spotify.com/album/4UfioW15PGHWRKV9PUEKh6) | 1:52 |

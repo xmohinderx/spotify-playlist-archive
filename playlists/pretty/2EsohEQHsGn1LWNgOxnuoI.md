@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2EsohEQHsGn1LWNgOxnuoI.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 338 likes - 61 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 338 likes - 61 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/2EsohEQHsGn1LWNgOxnuoI.md) - [plain]
 | 8 | [Tum Jo Mile](https://open.spotify.com/track/4hf9AcMxdo12yNT4gQSDpR) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Precious Platinum](https://open.spotify.com/album/7sXPcvHWApjquNNVPUXTLW) | 4:38 |
 | 9 | [Pieraš Mikkal](https://open.spotify.com/track/1oNqh01Kshrxg9q1uzOUgU) | [Per Henderak Haetta](https://open.spotify.com/artist/5PRA0OKBevyPE3RvPntvUK) | [Lappish Joik Songs from Northern Norway](https://open.spotify.com/album/4rIjfkg7xyL8ZdiWwZST2u) | 0:33 |
 | 10 | [Bi Lambam](https://open.spotify.com/track/4pgTYZB7JEkfELePL5ARcE) | [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [New Ancient Strings](https://open.spotify.com/album/7a7Xdw5yyPKB5AZnfvDvUy) | 5:00 |
-| 11 | [Cler Achel](https://open.spotify.com/track/5uscjCcGU5eMxCoN2o1ACp) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Aman Iman: Water Is Life](https://open.spotify.com/album/74HnW4H7keYtcEM65MZ1sr) | 0:29 |
+| 11 | [Cler Achel](https://open.spotify.com/track/5uscjCcGU5eMxCoN2o1ACp) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Aman Iman: Water Is Life](https://open.spotify.com/album/74HnW4H7keYtcEM65MZ1sr) | 4:27 |
 | 12 | [Water No Get Enemy](https://open.spotify.com/track/6jzbUvXYVbH6NrUS3WRMoL) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Expensive Shit](https://open.spotify.com/album/3q4V97eIqEhtOq43Jk9P4D) | 11:00 |
 | 13 | [Djiriyo](https://open.spotify.com/track/0gjn0NAKDKWNgBCYe2CRsl) | [Abdoulaye Diabaté](https://open.spotify.com/artist/6SferzHRUVZYD8ik3BwbrL) | [Djiriyo](https://open.spotify.com/album/77Nqn4echAi90cMNiKpvLn) | 5:37 |
 | 14 | [Lufuala Ndonga](https://open.spotify.com/track/4HGafTZk65vezbglD1BMJ6) | [Konono N°1](https://open.spotify.com/artist/6Sr77iisVrcSg7bQfqqRHk) | [Congotronics](https://open.spotify.com/album/2zcyIXaD6h9Mmmhw7CY9oM) | 9:27 |

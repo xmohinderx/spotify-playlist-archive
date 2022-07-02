@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 
 > Free\-spirited, atmospheric vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,070 likes - 160 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,159 likes - 160 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 45 | [Samara](https://open.spotify.com/track/6BlVZ6vUaW5vbmDlYV7zfM) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Samara](https://open.spotify.com/album/1v79MqdyOEmgD4axF3dL9U) | 4:16 |
 | 46 | [Oh Dear Brother](https://open.spotify.com/track/27TIWKzBDkahxcjKUmthdw) | [Howard](https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5) | [Oh Dear Brother](https://open.spotify.com/album/3Pue2ojjST8Vq2m8y2EppZ) | 3:58 |
 | 47 | [White Roses](https://open.spotify.com/track/5xxHfQuaXGEBHtsGbSXwI7) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu), [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [White Roses](https://open.spotify.com/album/01vINTMNqHsxWYTo9HZVJk) | 3:26 |
-| 48 | [Beige](https://open.spotify.com/track/0FfZudphGgQTGeEV6AhmOs) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/0tg6msTvhHx8glztrBii80) | 0:29 |
+| 48 | [Beige](https://open.spotify.com/track/0FfZudphGgQTGeEV6AhmOs) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/0tg6msTvhHx8glztrBii80) | 3:24 |
 | 49 | [cold water](https://open.spotify.com/track/3keIh8QdhxlHQ0hsyDHrzA) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [cold water](https://open.spotify.com/album/0ygmFGHb9QLdOqsAfs6Nhe) | 3:53 |
 | 50 | [Maybe](https://open.spotify.com/track/5UaSj2MSrh6AU9ZiU9IYHy) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Maybe](https://open.spotify.com/album/3jm07S9cFjyxY7kJ0cPuUx) | 4:06 |
 | 51 | [Sea Creatures](https://open.spotify.com/track/0ziGHz1rdtRE426q03NC8F) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Tourist](https://open.spotify.com/album/7lZZYA2lDZhSNBgXK2dEig) | 4:16 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 53 | [We Don't Get More Time](https://open.spotify.com/track/5fuSpSp9IFwS4Iu239L5Nv) | [I See Rivers](https://open.spotify.com/artist/50y0b4AuxvWpH2jlNqGMmg) | [We Don't Get More Time](https://open.spotify.com/album/1A7VyATvNpZqW6U7AqH24C) | 2:36 |
 | 54 | [New Shoes](https://open.spotify.com/track/2Nh201cURlNgpcMDnDlNaL) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [The Fight](https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE) | 3:18 |
 | 55 | [Turntable](https://open.spotify.com/track/0Dp07EA5ybveKSUE27CuEd) | [Dead Horses](https://open.spotify.com/artist/4dcU7cmzO3GECQGSKwl92z) | [My Mother the Moon](https://open.spotify.com/album/4dN53nS6qFV78cpbX24X6P) | 3:16 |
-| 56 | [Fever Dream](https://open.spotify.com/track/5aQge4CQGxd4hp7YtVEHy5) | [Sea High](https://open.spotify.com/artist/3zOedO0mn7ikOxKcshuHsY), [Wallfella](https://open.spotify.com/artist/6fYRV3qeqpfNv29wOThawF), [Citizen Black](https://open.spotify.com/artist/1XZroKJxeCMmLjHScn7XTO) | [Degradation of Imagination](https://open.spotify.com/album/3h227ffzTp1JxmbK76fg6C) | 0:29 |
+| 56 | [Fever Dream](https://open.spotify.com/track/5aQge4CQGxd4hp7YtVEHy5) | [Sea High](https://open.spotify.com/artist/3zOedO0mn7ikOxKcshuHsY), [Wallfella](https://open.spotify.com/artist/6fYRV3qeqpfNv29wOThawF), [Citizen Black](https://open.spotify.com/artist/1XZroKJxeCMmLjHScn7XTO) | [Degradation of Imagination](https://open.spotify.com/album/3h227ffzTp1JxmbK76fg6C) | 3:22 |
 | 57 | [Bones](https://open.spotify.com/track/0hGO3Ws99t05Iboxcve9DC) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Bones](https://open.spotify.com/album/3xHx0ZEM8KLsEN7yGqYUAf) | 2:58 |
 | 58 | [Nica Libres At Dusk \- Radio Edit](https://open.spotify.com/track/6c1r9Vdso5n3QjGMBTNpFh) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Nica Libres At Dusk \(Radio Edit\)](https://open.spotify.com/album/3WDWet8acFs2XAAI7ADLoA) | 3:59 |
 | 59 | [Salem](https://open.spotify.com/track/0Kp0CPUzFcEqhBbHoRKtbm) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/54DU59anGQsdrFP7utpshG) | 3:44 |
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 103 | [Gonna Hurry \(As Slow as I Can\)](https://open.spotify.com/track/2Vvn4emJ5FlBNmbdhu2FAZ) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [You've Got a Woman / Gonna Hurry \(As Slow as I Can\)](https://open.spotify.com/album/2hUdUW7zIF4nt3lltXuBDk) | 1:49 |
 | 104 | [Sweet Bunch](https://open.spotify.com/track/4M3HbDckVkAaEc5vAwt0Yn) | [Andy Jenkins](https://open.spotify.com/artist/7grGoDIxuUQFN3OwCuPXmN), [Matthew E\. White](https://open.spotify.com/artist/58mMrwemoGIcDpvfHe46u4) | [Sweet Bunch](https://open.spotify.com/album/6BWD3OL99qv4osC443uacs) | 5:58 |
 | 105 | [Ricochet](https://open.spotify.com/track/5dkeCTaxNQDlFiJEkpbMsx) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Ricochet](https://open.spotify.com/album/5sp2DSZbmZoy1FhjNbCAS2) | 3:18 |
-| 106 | [Émigré](https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [Cusp](https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4) | 3:11 |
+| 106 | [Émigré](https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [Cusp](https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4) | 0:29 |
 | 107 | [There's Your Man](https://open.spotify.com/track/7dGRFEsRY9vwqGgczE05I2) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Noonday Dream](https://open.spotify.com/album/6astw05cTiXEc2OvyByaPs) | 4:38 |
 | 108 | [Love Ain't Enough](https://open.spotify.com/track/2cNxCW2Sas3PA4LKfDc6lY) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Sleeping Operator](https://open.spotify.com/album/3heNYqE1CUM8WlJGm6UPEj) | 4:50 |
 | 109 | [Monster](https://open.spotify.com/track/61CpLCM1sIzQ8zyvvajUD4) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Monster](https://open.spotify.com/album/4ByYI1K0l0Yfx6ZYMeVmFq) | 3:39 |

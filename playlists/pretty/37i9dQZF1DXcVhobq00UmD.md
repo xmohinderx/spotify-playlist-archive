@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcVhobq00UmD.md) - [plain]
 
 > Welcome to the LOOΠΔverse\. Are you making an 'Orbit' around LOOΠΔ?
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,775 likes - 113 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,855 likes - 113 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,10 +80,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcVhobq00UmD.md) - [plain]
 | 70 | [Love & Evil](https://open.spotify.com/track/6XAca0QIiTvMaWfTnjjwrn) | [LOOΠΔ 1/3](https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy) | [Love & Evil](https://open.spotify.com/album/35DjTZIwcC0Vfg2w7ICHUg) | 1:02 |
 | 71 | [Sonatine](https://open.spotify.com/track/6RMFRrVjtcvpyyBs6cM0xd) | [LOOΠΔ 1/3](https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy) | [Love & Evil](https://open.spotify.com/album/35DjTZIwcC0Vfg2w7ICHUg) | 3:17 |
 | 72 | [Rain 51db](https://open.spotify.com/track/0y6mgjArFlmksW6Qciycd5) | [LOOΠΔ 1/3](https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy) | [Love & Evil](https://open.spotify.com/album/35DjTZIwcC0Vfg2w7ICHUg) | 3:21 |
-| 73 | [Eclipse \(Prod\. By Daniel Obi Klein\)](https://open.spotify.com/track/6k3sl3Hs6bNN497d672gpR) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Kim Lip](https://open.spotify.com/album/579Sgz4tNrKVhrcma3AwPi) | 0:29 |
-| 74 | [Twilight \(Prod\. By Cha Cha Malone\)](https://open.spotify.com/track/0Eh58SEH7NMUS5r6saQ7W7) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Kim Lip](https://open.spotify.com/album/579Sgz4tNrKVhrcma3AwPi) | 0:29 |
-| 75 | [Singing in the Rain](https://open.spotify.com/track/6ZCugHZvchMlF6DqMDYIW1) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [JinSoul](https://open.spotify.com/album/5oy5oSghkmsOjZS5nu2r6W) | 0:29 |
-| 76 | [Love Letter](https://open.spotify.com/track/3t7m1KLkT2aPvqyzVRnTBy) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [JinSoul](https://open.spotify.com/album/5oy5oSghkmsOjZS5nu2r6W) | 0:29 |
+| 73 | [Eclipse \(Prod\. By Daniel Obi Klein\)](https://open.spotify.com/track/6k3sl3Hs6bNN497d672gpR) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Kim Lip](https://open.spotify.com/album/579Sgz4tNrKVhrcma3AwPi) | 3:51 |
+| 74 | [Twilight \(Prod\. By Cha Cha Malone\)](https://open.spotify.com/track/0Eh58SEH7NMUS5r6saQ7W7) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Kim Lip](https://open.spotify.com/album/579Sgz4tNrKVhrcma3AwPi) | 3:06 |
+| 75 | [Singing in the Rain](https://open.spotify.com/track/6ZCugHZvchMlF6DqMDYIW1) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [JinSoul](https://open.spotify.com/album/5oy5oSghkmsOjZS5nu2r6W) | 3:31 |
+| 76 | [Love Letter](https://open.spotify.com/track/3t7m1KLkT2aPvqyzVRnTBy) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [JinSoul](https://open.spotify.com/album/5oy5oSghkmsOjZS5nu2r6W) | 3:08 |
 | 77 | [Puzzle](https://open.spotify.com/track/0Y1oSjd9U7Qy5t7EDjAjPq) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Choerry](https://open.spotify.com/album/7zWV8dHkh06EclukKh1jVh) | 3:40 |
 | 78 | [ODD](https://open.spotify.com/track/3GRwM20EPVWjKoVsNsHjrj) | [LOOΠΔ / ODD EYE CIRCLE](https://open.spotify.com/artist/5KPaeBm0fVfCSZLydp9jdy) | [Mix & Match](https://open.spotify.com/album/1a8lndLvlxQsRyiLdKPtze) | 0:45 |
 | 79 | [Girl Front](https://open.spotify.com/track/6hDCBYBnbr4lfRj5H7bkC4) | [LOOΠΔ / ODD EYE CIRCLE](https://open.spotify.com/artist/5KPaeBm0fVfCSZLydp9jdy) | [Mix & Match](https://open.spotify.com/album/1a8lndLvlxQsRyiLdKPtze) | 3:16 |

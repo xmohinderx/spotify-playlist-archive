@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 
 > Always there, always true!  These are the songs, old and new, you can count on time after time\.  Cover: Bobby, Teddi, and Billy Ray Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,024 likes - 58 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,035 likes - 58 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Roll That Rock](https://open.spotify.com/track/6w2uvKllj3ya3xKNmubkcn) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [Bobby & Teddi Cyrus](https://open.spotify.com/artist/7ieFJzTnXhMStzEMWWmKd8) | [Roll That Rock](https://open.spotify.com/album/4jayu6qtKK25xEzG8uOhoR) | 3:36 |
 | 2 | [In the Sweet by and By](https://open.spotify.com/track/6gJkNZt514JO7YR6dxS4JE) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Larry Cordle](https://open.spotify.com/artist/2FTZtjNxkvPnXU0XoMYedM), [Carl Jackson](https://open.spotify.com/artist/2Z983rZwtk7awKHxQprGLE), [Jerry Salley](https://open.spotify.com/artist/0vkoBzaQQvNfgn8wejIwtH), [Bradley Walker](https://open.spotify.com/artist/3WDUptC9KS6ZFNwkZipSlQ) | [In the Sweet by and By](https://open.spotify.com/album/7JZHTqJuqfFQDBqV0GqTE5) | 3:55 |
 | 3 | [The Next Cloud](https://open.spotify.com/track/60AF6cEmUxjgHvmf4umlFg) | [Kingsmen](https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX) | [Proven Time And Time Again](https://open.spotify.com/album/3NhfvF7R8RL9BpfHozbp7i) | 3:51 |
-| 4 | [It's About the Cross](https://open.spotify.com/track/4VrSBQliLFkLvIB28wovQ5) | [The Ball Brothers](https://open.spotify.com/artist/5XeW4GrOw5InOknCsAo1Js) | [Breakthrough](https://open.spotify.com/album/51ycbHjIPZYsJAPDaUix4w) | 0:29 |
+| 4 | [It's About the Cross](https://open.spotify.com/track/4VrSBQliLFkLvIB28wovQ5) | [The Ball Brothers](https://open.spotify.com/artist/5XeW4GrOw5InOknCsAo1Js) | [Breakthrough](https://open.spotify.com/album/51ycbHjIPZYsJAPDaUix4w) | 4:11 |
 | 5 | [Thinking 'Bout Home \- Live](https://open.spotify.com/track/6xxUWn3zrgrMieEFUZRR9Z) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [Thinking 'Bout Home \(Live\)](https://open.spotify.com/album/2JsF6YxWsHttLPXvlr8940) | 4:05 |
 | 6 | [Small Town Someone \(Lunch\)](https://open.spotify.com/track/5ngoN6vSMn3G0yEcfJVFfT) | [Jeff & Sheri Easter](https://open.spotify.com/artist/6AiuFk4YUoY4xi15OZJfKm) | [Small Town](https://open.spotify.com/album/4Sz5AMpO0JMoTcK9ruld9k) | 2:56 |
-| 7 | [Peter, James and John](https://open.spotify.com/track/62A7wB5s8F6aL26Y02koJS) | [Gold City](https://open.spotify.com/artist/6CkyBXEUTNVKtjuvpm4FrY) | [Somebody's Coming](https://open.spotify.com/album/5AjA9H7q0zaafTWJyNtxie) | 0:29 |
+| 7 | [Peter, James and John](https://open.spotify.com/track/62A7wB5s8F6aL26Y02koJS) | [Gold City](https://open.spotify.com/artist/6CkyBXEUTNVKtjuvpm4FrY) | [Somebody's Coming](https://open.spotify.com/album/5AjA9H7q0zaafTWJyNtxie) | 3:41 |
 | 8 | [I Cast My Bread Upon the Water](https://open.spotify.com/track/33MymV61MWpNGsjDUv69s5) | [Gold City](https://open.spotify.com/artist/6CkyBXEUTNVKtjuvpm4FrY) | [Moment of Truth](https://open.spotify.com/album/2Z9lZaIJuZMe0AMrgSKU3n) | 3:53 |
 | 9 | [Sometimes It Takes A Mountain](https://open.spotify.com/track/5XX76HSOKKdewC3wZ49sdo) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Sometimes It Takes A Mountain](https://open.spotify.com/album/2usnTODE7Mg6aFw7Licbkh) | 5:40 |
 | 10 | [He Took the Nails](https://open.spotify.com/track/5raxn2LAc5jJJ1LDqkSj4x) | [The Browders](https://open.spotify.com/artist/4Ug1lA45bfmGwUx76BWWfW) | [Time Machine](https://open.spotify.com/album/41VzFJiBphbmaZnncK5MDO) | 4:42 |

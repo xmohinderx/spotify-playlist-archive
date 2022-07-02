@@ -4,7 +4,7 @@
 
 > The birth of the blues, as it happened...
 
-50 songs - 2 hr 22 min - [published](https://open.spotify.com/playlist/1JpjmChycgUy5LJL7mX0mN)
+50 songs - 2 hr 29 min - [published](https://open.spotify.com/playlist/1JpjmChycgUy5LJL7mX0mN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,10 +15,10 @@
 | [Blue Guitar](https://open.spotify.com/track/45oSPt7wSPRhCOORW4Im7S) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Wild Moments \- Essential Blues](https://open.spotify.com/album/6Ex4nVhz00NFL6IIHvwxeB) | 2:45 | 2017-11-02 |  |
 | [Blues As I Can Be](https://open.spotify.com/track/4cEzHktMaGrNAw36GbNhwr) | [Tommy McClennan](https://open.spotify.com/artist/0m8dKC3T9anldCh2OgZ6pJ) | [Tommy McClennan Vol\. 2 "Cross Cut Saw"](https://open.spotify.com/album/1g9xtSDXkL2iHhYlMSM9Qv) | 2:43 | 2017-11-02 |  |
 | [Boogie Chillun](https://open.spotify.com/track/0AyuXBS2btC46SOUgnOZ2N) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Absolutely the Best of the Blues](https://open.spotify.com/album/1Hvxowri66nzP4jPXpO8qE) | 2:38 | 2017-11-02 |  |
-| [Canned Heat Blues](https://open.spotify.com/track/1Uk2MppskA0wnHUj8JwYfC) | [Tommy Johnson](https://open.spotify.com/artist/6n4r5eMU2ZUiHPPWhFDcHq) | [Tommy Johnson 1928 \- 1929](https://open.spotify.com/album/1BrjO0ZJTNZliuhAi9Orf7) | 0:29 | 2017-11-02 |  |
+| [Canned Heat Blues](https://open.spotify.com/track/1Uk2MppskA0wnHUj8JwYfC) | [Tommy Johnson](https://open.spotify.com/artist/6n4r5eMU2ZUiHPPWhFDcHq) | [Tommy Johnson 1928 \- 1929](https://open.spotify.com/album/1BrjO0ZJTNZliuhAi9Orf7) | 3:39 | 2017-11-02 |  |
 | [Church Bells Blues](https://open.spotify.com/track/2tum92BT0cSwZBChb5evfK) | [Luke Jordan](https://open.spotify.com/artist/37V9ElynG02USvurkCsTCs) | [Essential Blues Masters](https://open.spotify.com/album/0naloikWrRZsGKDEnoICGW) | 3:17 | 2017-11-02 |  |
 | [Cool Drink Of Water](https://open.spotify.com/track/5Ys4D2UDLSO1WrH6x3JYKd) | [Houston Stackhouse](https://open.spotify.com/artist/2JQ9OGncNXR1tFPLInvlPb) | [The Devil's Music Vol\. 1](https://open.spotify.com/album/4iwZoEbealEbp0NJBOop57) | 3:16 | 2017-11-02 |  |
-| [Cross Road Blues](https://open.spotify.com/track/1TrGdXSgiBm8W68D2K1COG) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 0:29 | 2017-11-02 |  |
+| [Cross Road Blues](https://open.spotify.com/track/1TrGdXSgiBm8W68D2K1COG) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 2:29 | 2017-11-02 |  |
 | [Dark Was the Night, Cold Was the Ground](https://open.spotify.com/track/2P9nh9pTK96dE0b6NBbTSs) | [Blind Willie Johnson](https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ) | [Dark Was The Night \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt) | 3:18 | 2017-11-02 |  |
 | [Devil Got My Woman](https://open.spotify.com/track/1bWh9hOkQGahfQ0rEqvaGR) | [Skip James](https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ) | [Legends Of Country Blues: The Complete Pre\-War Recordings Of Skip James \(Disc A\)](https://open.spotify.com/album/2KNRkv1h7OYErPyhVIDQiV) | 3:01 | 2017-11-02 |  |
 | [Double Trouble](https://open.spotify.com/track/31wgUugjOIjBTzpQgHdij5) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Chicago Boss Guitars](https://open.spotify.com/album/5aesTAnSWl1VTwg5prjPzZ) | 3:34 | 2017-11-02 |  |
@@ -37,7 +37,7 @@
 | [Match Box Blues](https://open.spotify.com/track/1Fae2EbIMVEu14Qmb3fg41) | [Blind Lemon Jefferson](https://open.spotify.com/artist/6EsuMifB8c5rm5P2DdjiLe) | [Essential Blind Lemon Jefferson, Vol\. 2](https://open.spotify.com/album/1sgSyKEC1dpHu02oOWx5YO) | 2:55 | 2017-11-02 |  |
 | [Mean Old Twister \- Remastered](https://open.spotify.com/track/2A110W6j3xAbTDsOXu4uN0) | [Kokomo Arnold](https://open.spotify.com/artist/1kSOv0QaraiHwnDs5ld2kr) | [Beans And Rice](https://open.spotify.com/album/2hz4Wc59RDGTsFQ4P61LsA) | 2:58 | 2017-11-02 |  |
 | [Mean Old World \(Tk\. 1\)](https://open.spotify.com/track/2SN7hLyPSHyBKwykU0k0No) | [Big Bill Broonzy](https://open.spotify.com/artist/6HwigzRpuWoCZDqMOQc5eu) | [Big Bill Broonzy Vol\. 6 1937](https://open.spotify.com/album/5gRyd6LSs0JZABTzSj9vth) | 3:03 | 2017-11-02 |  |
-| [Milkcow's Calf Blues \- Version 2](https://open.spotify.com/track/3QxCNZv6qhFd9vL3wrfSp8) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [Robert Johnson](https://open.spotify.com/album/65ZlWphuVYtW1HtWqUXCl1) | 0:29 | 2017-11-02 |  |
+| [Milkcow's Calf Blues \- Version 2](https://open.spotify.com/track/3QxCNZv6qhFd9vL3wrfSp8) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [Robert Johnson](https://open.spotify.com/album/65ZlWphuVYtW1HtWqUXCl1) | 2:19 | 2017-11-02 |  |
 | [Mojo Hand](https://open.spotify.com/track/1WE055A5d1019EAx79Rg8Q) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [The Roots of Led Zeppelin](https://open.spotify.com/album/2COvDjzoJTRf7Nliwcygz7) | 3:02 | 2017-11-02 |  |
 | [Mr\. McTell Got the Blues \- 2003 Remastered](https://open.spotify.com/track/5w3davI2J6IeUfBZ4cE2qq) | [Blind Willie McTell](https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6) | [Statesboro Blues \- When The Sun Goes Down Series](https://open.spotify.com/album/7EKSJCGavez0TJwIiLk1aq) | 2:17 | 2017-11-02 |  |
 | [No More, My Lawd](https://open.spotify.com/track/6LYtBOkkTUNQ6RTHAyFflL) | [Alan Lomax](https://open.spotify.com/artist/1u8YzEYh6gvvFog95WtAao) | [Negro Prison Blues And Songs](https://open.spotify.com/album/7lXqoJ3JvHVAbaKBT8XSQi) | 2:09 | 2017-11-02 |  |

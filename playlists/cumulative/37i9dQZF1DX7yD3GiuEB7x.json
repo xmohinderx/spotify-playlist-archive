@@ -110,7 +110,7 @@
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 172557,
       "name": "And there was no one left",
       "url": "https://open.spotify.com/track/584e17zySNmvOd1iG57zxF"
     },
@@ -362,7 +362,7 @@
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 212091,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/7f2IojZKZRGTbwaTq28whK"
     },
@@ -416,7 +416,7 @@
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 201598,
       "name": "Diamond",
       "url": "https://open.spotify.com/track/5CZh8nXVYfxOiRMdrzumXH"
     },
@@ -728,24 +728,6 @@
     },
     {
       "album": {
-        "name": "The End of Nightmare",
-        "url": "https://open.spotify.com/album/02YL02Pjk6moxi5iuYsIPC"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "date_added": "2022-04-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 29048,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/565cuthqR4yBw1sVj9wgsj"
-    },
-    {
-      "album": {
         "name": "Alone In The City",
         "url": "https://open.spotify.com/album/68esmTNXocYLPEbLD1c7si"
       },
@@ -761,6 +743,24 @@
       "duration_ms": 66272,
       "name": "Intro",
       "url": "https://open.spotify.com/track/22yEgly0RJKdILZrGh62jb"
+    },
+    {
+      "album": {
+        "name": "The End of Nightmare",
+        "url": "https://open.spotify.com/album/02YL02Pjk6moxi5iuYsIPC"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66777,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/565cuthqR4yBw1sVj9wgsj"
     },
     {
       "album": {
@@ -1244,7 +1244,7 @@
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 206819,
       "name": "PIRI",
       "url": "https://open.spotify.com/track/6vHyPhg8fgclBiY8QN68wp"
     },

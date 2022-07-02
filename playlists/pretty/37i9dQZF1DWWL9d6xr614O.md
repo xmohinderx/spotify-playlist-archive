@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,382 likes - 76 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,402 likes - 76 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 | 2 | [BUNTONG HININGA](https://open.spotify.com/track/61gplnMSMY4WfUZ9tsnmsK) | [EJ De Perio](https://open.spotify.com/artist/0EsbqfoNiHI0u1OaQUYDlI) | [BUNTONG HININGA](https://open.spotify.com/album/5jxPAqk6GJY9zi83imluw2) | 4:28 |
 | 3 | [Kuwaa na, Kagurangnan \(The Sume et Suscipe of St Ignatius in Bikol\)](https://open.spotify.com/track/6AYoOKOpxa6j7OaGZoGWkZ) | [Floyd Tena](https://open.spotify.com/artist/4xODnj5Y62813OgmtheRXT) | [Kuwaa na, Kagurangnan \(The Sume et Suscipe of St Ignatius in Bikol\)](https://open.spotify.com/album/3ATRZ1qXdv6WPhWAvrDGVw) | 4:15 |
 | 4 | [Everything You Are](https://open.spotify.com/track/6NAAoxdiUNwHSQUVj8dOns) | [AWAKE84](https://open.spotify.com/artist/0isNdx2FzHaUs3TnQFdGNg) | [Everything You Are](https://open.spotify.com/album/2u37n6yGiFl0UoGkqYwRUq) | 3:30 |
-| 5 | [Reliably True](https://open.spotify.com/track/1rA075SApxdrYCA9cNyRFW) | [Elevate Exalt](https://open.spotify.com/artist/1u2wiCSFndF370zimgW7qU) | [Reliably True](https://open.spotify.com/album/5orPxWSz2Dt4EZ6hUleAml) | 0:29 |
+| 5 | [Reliably True](https://open.spotify.com/track/1rA075SApxdrYCA9cNyRFW) | [Elevate Exalt](https://open.spotify.com/artist/1u2wiCSFndF370zimgW7qU) | [Reliably True](https://open.spotify.com/album/5orPxWSz2Dt4EZ6hUleAml) | 6:30 |
 | 6 | [blink](https://open.spotify.com/track/2Wj8VlQtwHfuUUh5qwoNuG) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [blink](https://open.spotify.com/album/6EpnJOCAvRUvXg66j1a0IJ) | 3:48 |
 | 7 | [WATERWALK](https://open.spotify.com/track/3bqym1jA6fn0hpg7CZsUYI) | [Morissette](https://open.spotify.com/artist/62WbvkXqQGvXQvw74GU3kQ) | [WATERWALK](https://open.spotify.com/album/15VKUmSwQUtEtXhi7XNUM9) | 5:55 |
 | 8 | [Sigaw Ng Puso](https://open.spotify.com/track/0SDhDia5qGCTCyDflHT0T5) | [Erik Santos](https://open.spotify.com/artist/7ygtjsCTrCQZAYYPOne9uE) | [Sigaw Ng Puso](https://open.spotify.com/album/3houv6BmnMopjWysIRohVd) | 6:42 |
@@ -24,14 +24,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 | 14 | [Hallelujah Instead](https://open.spotify.com/track/2MjEaqylTvxnJpD4FpjiD6) | [Mary Ozaraga](https://open.spotify.com/artist/4GS8yp4W5CAsrm9nuGmOVB), [Ike Ozaraga](https://open.spotify.com/artist/6h4Pma9HCStherLHOMlNFO) | [Hallelujah Instead](https://open.spotify.com/album/7wPnD9GquCu0L6e8nMGqrt) | 4:39 |
 | 15 | [MAPAYAPA \- Feat\. Hazel Faith](https://open.spotify.com/track/1vTSTbQT9iJbggG47gEwwU) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk), [Hazel Faith](https://open.spotify.com/artist/1IJ4wDIUWLb0XLmPN79SDj) | [MAPAYAPA \(Feat\. Hazel Faith\)](https://open.spotify.com/album/2SOcTm4yqQLNPUQeTTa8sW) | 4:22 |
 | 16 | [Praise You In This Storm](https://open.spotify.com/track/4Zyf0pjpdBBIfp4oax9PG5) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Lifesong](https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc) | 4:57 |
-| 17 | [Walang Makapaghihiwalay](https://open.spotify.com/track/0yIRxGBZHdjU6E11sZ6f05) | [Brokenchains](https://open.spotify.com/artist/5Vky9Lsd7Lp7hOm9fjc80c) | [Walang Makapaghihiwalay](https://open.spotify.com/album/7MzmxktNuM4dkx8H1TjmTP) | 0:29 |
+| 17 | [Walang Makapaghihiwalay](https://open.spotify.com/track/0yIRxGBZHdjU6E11sZ6f05) | [Brokenchains](https://open.spotify.com/artist/5Vky9Lsd7Lp7hOm9fjc80c) | [Walang Makapaghihiwalay](https://open.spotify.com/album/7MzmxktNuM4dkx8H1TjmTP) | 4:36 |
 | 18 | [ENOUGH](https://open.spotify.com/track/71LGMpCjCz3k4uhVZkH3f6) | [Niya](https://open.spotify.com/artist/7usk2ErISYUqxthDAtYqap), [Ruth Lee Resuello](https://open.spotify.com/artist/2t2lODOqTfxQh0CyN6Wx20), [Shayne Carmel](https://open.spotify.com/artist/5ihyCQON8OCN3L7LtdvPJh) | [ENOUGH](https://open.spotify.com/album/3RyQfb4ouTf4b7clUhSEPY) | 2:45 |
 | 19 | [On This Day on This Hour](https://open.spotify.com/track/3QVdA3isRpwIt6t5KMRNMw) | [Mark Anthony Cuevas](https://open.spotify.com/artist/52ngUZYjfnI4GOTkqyMbhd) | [On This Day on This Hour](https://open.spotify.com/album/4bq1w4dtLOtZ7qNOSJSEb0) | 6:05 |
 | 20 | [Never Wanna Go Back](https://open.spotify.com/track/6CUop28tecrP4AEsnKNpZ3) | [May Angeles](https://open.spotify.com/artist/3QnnsnDjUGYX8cYQuub0eh), [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8) | [Never Wanna Go Back](https://open.spotify.com/album/5ZuLfsc8PRhiJj84sC2idX) | 3:35 |
 | 21 | [Promise](https://open.spotify.com/track/5UOvuk2PlJcSYOtRcGgWLn) | [allen&elle](https://open.spotify.com/artist/2bJTpGmXD18Or3c10omzOe) | [Promise](https://open.spotify.com/album/73LceCGDR2PwTzCp4jPpS5) | 3:33 |
-| 22 | [Bagong Buhay](https://open.spotify.com/track/33lNaAAd1vfQVi7tJaaACE) | [Hazel Faith](https://open.spotify.com/artist/1IJ4wDIUWLb0XLmPN79SDj) | [Bagong Buhay](https://open.spotify.com/album/6trSs3g5tU29FEr8yamEI5) | 0:29 |
+| 22 | [Bagong Buhay](https://open.spotify.com/track/33lNaAAd1vfQVi7tJaaACE) | [Hazel Faith](https://open.spotify.com/artist/1IJ4wDIUWLb0XLmPN79SDj) | [Bagong Buhay](https://open.spotify.com/album/6trSs3g5tU29FEr8yamEI5) | 3:40 |
 | 23 | [I Will Trust You](https://open.spotify.com/track/4KFJJ4Yem7vQQi9W8JlcMK) | [Fatima Soriano](https://open.spotify.com/artist/4kAGu0OFEMwgWAZYF3KITq) | [Lord of My Life](https://open.spotify.com/album/3VZHfSoZQBzSqTcuZa6pM1) | 5:25 |
-| 24 | [Luwalhati](https://open.spotify.com/track/6bd5SZdEcXXRXdh5DvKTsE) | [Biyaya at Papuri](https://open.spotify.com/artist/4xNRdJlHZCcaZPevXMVNdS) | [Luwalhati](https://open.spotify.com/album/71SeuhNn8MP0QaZ4kHN1is) | 0:29 |
+| 24 | [Luwalhati](https://open.spotify.com/track/6bd5SZdEcXXRXdh5DvKTsE) | [Biyaya at Papuri](https://open.spotify.com/artist/4xNRdJlHZCcaZPevXMVNdS) | [Luwalhati](https://open.spotify.com/album/71SeuhNn8MP0QaZ4kHN1is) | 5:08 |
 | 25 | [Let Go and Let God](https://open.spotify.com/track/2yjDIpMlli8JJZINM7qgSo) | [Siso](https://open.spotify.com/artist/0BaEB7y6wk1YJVhbnoV2rf) | [Let Go and Let God](https://open.spotify.com/album/1K7msly7UcnICxvHCcEDkW) | 4:09 |
 | 26 | [AIK](https://open.spotify.com/track/00ByIMCGwbb50bOaZNwjQQ) | [JC Ronato](https://open.spotify.com/artist/4cgXg3h3kODZFxAnCW11vq) | [AIK](https://open.spotify.com/album/1w1vPLFbFyaSOh2dyzdzS0) | 4:39 |
 | 27 | [Sa Krus Iyong Tinapos](https://open.spotify.com/track/5WTLqKYllbZjKBdISllks9) | [Soulution Worship](https://open.spotify.com/artist/4BC2CPGkM5dwH7sqiaoXmi) | [Sa Krus Iyong Tinapos](https://open.spotify.com/album/6mOIQKIfRHNXZJLgMGa25Q) | 5:38 |

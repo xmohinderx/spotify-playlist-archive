@@ -4,7 +4,7 @@
 
 > SHERELLE's favorite tracks\. Updated regularly\. Curated by SHERELLE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-313 songs - 1 day 0 hr 44 min - [published](https://open.spotify.com/playlist/2gWaZAY61eO3QXZAh34tFq)
+313 songs - 1 day 0 hr 47 min - [published](https://open.spotify.com/playlist/2gWaZAY61eO3QXZAh34tFq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,7 +305,7 @@
 | [Where da Melph at?](https://open.spotify.com/track/7rkIGJJS8dRG18u7L6aFLr) | [Katey Red](https://open.spotify.com/artist/4xrkUOqFjYLYrThn1VIaI5) | [Katey's Hits](https://open.spotify.com/album/4xxECBRmMRR0giGMkT4FCl) | 2:35 | 2022-06-17 |  |
 | [Where They At???](https://open.spotify.com/track/3spJ3YgjLtUHklrT7hH68I) | [AceMo](https://open.spotify.com/artist/2NArTWfXN317Ok1Ale3xkX), [John FM](https://open.spotify.com/artist/0vscEUhV9isTMclPcVz7zr) | [All My Life](https://open.spotify.com/album/30UnEiQmLQDIQWQ4M2mtXe) | 7:15 | 2022-06-17 |  |
 | [Who Run It](https://open.spotify.com/track/6SQFO6iyxaUe0jJKWZ9Jy8) | [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Teletext](https://open.spotify.com/album/41yQoWnoQ1vVaZiGzRnuQk) | 6:24 | 2022-02-18 | 2022-03-01 |
-| [Wicked We Wicked](https://open.spotify.com/track/0sO4zmZcVjN7SrOCBqVZkE) | [NameBrandSound](https://open.spotify.com/artist/65kgJ8N0DY3S5XcMAtOSmD) | [Spell T.H.I.S.O.N.E](https://open.spotify.com/album/4PyY2Zv3MVGPULIgMfN3XN) | 0:29 | 2022-06-17 |  |
+| [Wicked We Wicked](https://open.spotify.com/track/0sO4zmZcVjN7SrOCBqVZkE) | [NameBrandSound](https://open.spotify.com/artist/65kgJ8N0DY3S5XcMAtOSmD) | [Spell T.H.I.S.O.N.E](https://open.spotify.com/album/4PyY2Zv3MVGPULIgMfN3XN) | 3:53 | 2022-06-17 |  |
 | [Windswept](https://open.spotify.com/track/1tQlgFhbAZyEWU2ncQ3GI7) | [Sully](https://open.spotify.com/artist/6ryGFEDvM7703b889hPUFZ), [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Meeting Of The Minds, Vol\. 7](https://open.spotify.com/album/5n6BO3pZd5YHAINz4OwNHm) | 5:30 | 2022-05-03 | 2022-06-18 |
 | [Woldmart](https://open.spotify.com/track/5bw2LKs9bTqmC91hznXYJm) | [DJ Swisha](https://open.spotify.com/artist/3rnWXUmpJQJzzP3TIoqp8H), [OSSX](https://open.spotify.com/artist/0IlSNeQlqItatzdSJeZFLX) | [Heard U EP](https://open.spotify.com/album/1w7qT6cKDNqfZyRQn0LfFW) | 3:51 | 2022-02-28 | 2022-05-04 |
 | [World Championships](https://open.spotify.com/track/11JTUcXWGnA1487HLovoM0) | [FFF](https://open.spotify.com/artist/1jR7PWJW17d3h2kEUqW0Tu), [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Meeting of the Minds, Vol\. 2](https://open.spotify.com/album/6SKPgFX91xsuLbdHaPQj3j) | 5:47 | 2022-02-28 | 2022-05-04 |

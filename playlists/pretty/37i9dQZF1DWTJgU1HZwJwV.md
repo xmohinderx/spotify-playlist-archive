@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,670 likes - 164 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,683 likes - 164 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 | 3 | [Glide](https://open.spotify.com/track/6pkcB9YBzPNECMEqOsdSBa) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Glide](https://open.spotify.com/album/2PaANkBfLwCRqMnBhtBN18) | 2:29 |
 | 4 | [Marvel At The Sky](https://open.spotify.com/track/1p0GiIv44pMkVdfHEZhVbM) | [Lullaby Texture](https://open.spotify.com/artist/1nniTSIKfKilcQ0gdDTsvW) | [Marvel At The Sky](https://open.spotify.com/album/3DK195qjIawfQacLtFPFSC) | 2:03 |
 | 5 | [In Madeira](https://open.spotify.com/track/0inkIpP5IGzsoPSswvOQX8) | [Emil Dahl](https://open.spotify.com/artist/0ozEvXh18ZvAwli3GDA1N6) | [In Madeira](https://open.spotify.com/album/0wDvPY4UWN3DRGD2hmUwvr) | 1:45 |
-| 6 | [Moments](https://open.spotify.com/track/17Ic3HG8GiER4PpGvB2hIw) | [Dimash B](https://open.spotify.com/artist/1AoOXH2zm8flhCVLaeZPcs) | [Moments](https://open.spotify.com/album/2aWKPMuPxic24SB2RPRyp9) | 0:29 |
+| 6 | [Moments](https://open.spotify.com/track/17Ic3HG8GiER4PpGvB2hIw) | [Dimash B](https://open.spotify.com/artist/1AoOXH2zm8flhCVLaeZPcs) | [Moments](https://open.spotify.com/album/2aWKPMuPxic24SB2RPRyp9) | 1:54 |
 | 7 | [Marbles](https://open.spotify.com/track/4BeC6brIcRPXt6JYFGPLC8) | [Aurélien Trigo](https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE) | [Marbles](https://open.spotify.com/album/0fzNxocPUrTdm9k85dNVkH) | 2:23 |
 | 8 | [Morgensonne](https://open.spotify.com/track/3ozSKHP42w2mYbkmqEnfOq) | [Aurelius Schmidt](https://open.spotify.com/artist/4DRJD1JI9CaeeHH9LrkzbY) | [Sandrina](https://open.spotify.com/album/6Is2bPoXegoPbnYTzVD7nB) | 2:26 |
 | 9 | [En el Bosque](https://open.spotify.com/track/3cNTUgA4X4iMdiOKWNY8RE) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [En el Bosque](https://open.spotify.com/album/7ijqMqYhGpd67PAZ9rlfyw) | 3:29 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 | 13 | [Catarsis](https://open.spotify.com/track/6iCbVQ9zdBVnqcTwzKoPKJ) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX) | [Florecilla Recordings Vol\. 1 \- Elson Complex \(Guitar Solos\)](https://open.spotify.com/album/5W91yqEwwQ6gMwUFJt6AYd) | 2:35 |
 | 14 | [Nessun Dorma \- Guitar Solo](https://open.spotify.com/track/2RLqDz5ZMBzqDflhRN3Lwx) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Nessun Dorma \(Guitar Solo\)](https://open.spotify.com/album/5vvf8nmZAFJkv5giEpMm68) | 2:55 |
 | 15 | [Porto Salvo](https://open.spotify.com/track/09Z2QZNcoyz6hxQPfGSwd4) | [Clotho](https://open.spotify.com/artist/47BxCwdoIB8uBDUY6KktXs) | [Ericeira](https://open.spotify.com/album/32NGueMRUQl0zGowxzQIbG) | 2:54 |
-| 16 | [Too Gentle](https://open.spotify.com/track/3r5UkhK0ydSW0A4h6XRJ58) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [Too Gentle](https://open.spotify.com/album/1CKO9HAhmY9vr5obHxWJkK) | 0:29 |
+| 16 | [Too Gentle](https://open.spotify.com/track/3r5UkhK0ydSW0A4h6XRJ58) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [Too Gentle](https://open.spotify.com/album/1CKO9HAhmY9vr5obHxWJkK) | 1:41 |
 | 17 | [Roots](https://open.spotify.com/track/315o2fMorxv0Ds6zE8KJoo) | [Cristof Walters](https://open.spotify.com/artist/6njQrWP56vwgO6636iLPVa) | [Roots](https://open.spotify.com/album/44ysmHkHLWluf64LGdFUpD) | 3:13 |
 | 18 | [Leaving](https://open.spotify.com/track/4zhlwkxU3siDqjyTN9obCq) | [Lexie Baxter](https://open.spotify.com/artist/5kdRX0bJREG0oR4IkhhTrv) | [Leaving](https://open.spotify.com/album/78Ixx68Z6lBKYHUbhMjRFt) | 3:25 |
 | 19 | [Above](https://open.spotify.com/track/56Ob1mejaKw4RCwlYj3dMw) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Above](https://open.spotify.com/album/6QOcrwQ96kTMC4aOHOHwr4) | 2:16 |
@@ -165,7 +165,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 | 155 | [Sequoia](https://open.spotify.com/track/461cC9CgeIx0ROdpaIkMtw) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Sequoia](https://open.spotify.com/album/1t5CbziFDuyPWv75q3tnCY) | 2:51 |
 | 156 | [Cup](https://open.spotify.com/track/2rh8t6nbYuoABlG31Mm3xX) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Cup](https://open.spotify.com/album/1nIYHMtvCKyA0JVxiF7Mns) | 2:12 |
 | 157 | [Dulce Añoranza](https://open.spotify.com/track/0vso79lSJGVgHhIMj5AgSS) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Dulce Añoranza](https://open.spotify.com/album/5DGtY0aqP0nmFk3cyZO5s9) | 2:32 |
-| 158 | [Fading](https://open.spotify.com/track/0ZwBaPxoP5ZSRgatkKL2fw) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Fading](https://open.spotify.com/album/05etcA6OhrOp3ekvaClyEh) | 2:04 |
+| 158 | [Fading](https://open.spotify.com/track/0ZwBaPxoP5ZSRgatkKL2fw) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Fading](https://open.spotify.com/album/05etcA6OhrOp3ekvaClyEh) | 0:29 |
 | 159 | [Rio Panama](https://open.spotify.com/track/5nmvzqwFTpY7UvC8t748bK) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Rio Panama](https://open.spotify.com/album/6n18Rbe3dJKLS0QbHCPE39) | 2:46 |
 | 160 | [Douro River](https://open.spotify.com/track/37TGZZSvrKbQ0iH1Xo53Gm) | [Vito Cantador](https://open.spotify.com/artist/7hh6PFK9DC1ZNhtXx5457U) | [No Words Can Say](https://open.spotify.com/album/03pQM7svs024WrROfEi4j3) | 3:18 |
 | 161 | [Underling](https://open.spotify.com/track/04GCX56L2mtzmoQviPUYqO) | [Vincent Shaub](https://open.spotify.com/artist/1xwN2rlkEDeCMi5w2SB6Kk) | [Underling](https://open.spotify.com/album/7fr39Jc2cRvvH0jrcwIhed) | 2:47 |

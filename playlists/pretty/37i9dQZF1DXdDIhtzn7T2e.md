@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDIhtzn7T2e.md) - [plain]
 
 > Let these country tunes light up your day
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,952 likes - 66 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,005 likes - 66 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDIhtzn7T2e.md) - [plain]
 | 18 | [be alright](https://open.spotify.com/track/3dpkmgWLr1g3rckqY4Vdrk) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Tulip Drive](https://open.spotify.com/album/4j5QWQbCjApOfP5howYsZX) | 2:54 |
 | 19 | [Up and Rolling](https://open.spotify.com/track/3DV89v9FL64amLAczhsLsN) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Up and Rolling](https://open.spotify.com/album/2OxqHZPJd4es0y2uHzcSo8) | 5:03 |
 | 20 | [The Road Goes On Forever](https://open.spotify.com/track/0UgCiz5n2p2S7BKrFqCXEj) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [West Textures](https://open.spotify.com/album/5P5vbUH4xyFhmzPzhKOoM6) | 5:03 |
-| 21 | [Weed With Willie](https://open.spotify.com/track/7vf8kqdPc8wpKja6iqfuzi) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 0:29 |
+| 21 | [Weed With Willie](https://open.spotify.com/track/7vf8kqdPc8wpKja6iqfuzi) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 4:03 |
 | 22 | [A Friend With Weed](https://open.spotify.com/track/6NaIoL9AXmj7Lirhaxyplw) | [Kyle Daniel](https://open.spotify.com/artist/1sMZfMdtizSlYjtZgQFXaz) | [A Friend With Weed](https://open.spotify.com/album/4eJ8jfDaJqkc1RHpiSKWq1) | 2:58 |
 | 23 | [Pass It On](https://open.spotify.com/track/4NPQb5305qkdRARfAEaOle) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Pelago](https://open.spotify.com/album/0vlxtyaep2FkkVidYC49PA) | 2:59 |
 | 24 | [Stoned At The Jukebox](https://open.spotify.com/track/4LzwAHl0qQJkfECwhmwj3Y) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Lone Wolf](https://open.spotify.com/album/67FryHZj95IDkBAanbBMFc) | 2:59 |

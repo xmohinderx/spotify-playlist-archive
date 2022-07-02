@@ -4,7 +4,7 @@
 
 > Women who define the past, present and future of music\. Listen at full volume\. Cover: HAAi
 
-300 songs - 17 hr 37 min - [published](https://open.spotify.com/playlist/3E6O9qsApi3ubzDwdkIdkL)
+300 songs - 17 hr 44 min - [published](https://open.spotify.com/playlist/3E6O9qsApi3ubzDwdkIdkL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [It's Okay To Cry](https://open.spotify.com/track/0QA1xpUuqHDHWZhi0eAbH7) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/23lnmHhZwyercCJhmyPXYN) | 3:50 | 2022-06-01 |  |
 | [Jeanette](https://open.spotify.com/track/5V28G1ktbqATUy4ioDzJZM) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Inner Song](https://open.spotify.com/album/3DzlkHEQtb0ABoxze4Zxi7) | 6:14 | 2022-06-01 |  |
 | [Juicy](https://open.spotify.com/track/3Gs3xtwTh4E0TsnSbKVGaP) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Hardy Caprio](https://open.spotify.com/artist/7FqkRutc4zWMrnEAUv3Xwd) | [Juicy](https://open.spotify.com/album/4PkLB0cKB5UwhX15rmU5gb) | 3:17 | 2022-03-08 | 2022-04-06 |
-| [JUNGLE TEKNAH](https://open.spotify.com/track/0PjXRi6lYapTH4BXl8xNlU) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [JUNGLE TEKNAH](https://open.spotify.com/album/7ETcD2rHdCaGTOTd2cSLBH) | 0:29 | 2022-01-05 |  |
+| [JUNGLE TEKNAH](https://open.spotify.com/track/0PjXRi6lYapTH4BXl8xNlU) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [JUNGLE TEKNAH](https://open.spotify.com/album/7ETcD2rHdCaGTOTd2cSLBH) | 4:01 | 2022-01-05 |  |
 | [Killing Me](https://open.spotify.com/track/6lC5IcgNOqNrLTB8N7tEcx) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Intermission](https://open.spotify.com/album/27BdvVY45aozxUiCtejc4V) | 3:25 | 2022-01-05 | 2022-02-11 |
 | [Killing Me](https://open.spotify.com/track/7B76OJ0ExVlSkDh1xelvRl) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Killing Me](https://open.spotify.com/album/0llJLK7uiCfzaEJrN38ftl) | 3:25 | 2022-03-08 | 2022-04-06 |
 | [Kiss Me It's Christmas \(feat\. Ne\-Yo\)](https://open.spotify.com/track/2fnM8L5RtKxH8XtdbFzxi9) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Christmas, With Love Always](https://open.spotify.com/album/12pG2575q7RpDpOqc65TME) | 3:35 | 2021-12-08 | 2022-01-05 |
@@ -212,7 +212,7 @@
 | [Prioritise Pleasure](https://open.spotify.com/track/7iw6UI6C6zW0ujbyB1iggR) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Prioritise Pleasure](https://open.spotify.com/album/6Q4b8zTe5hFiDaUxNOiBih) | 4:05 | 2022-01-05 | 2022-02-11 |
 | [Procrastinate](https://open.spotify.com/track/7ol37Zv5IBhdxP0De78Unw) | [Ruby Francis](https://open.spotify.com/artist/7fnUWKPwdb4svzQ7xQF83U) | [Archives](https://open.spotify.com/album/2d6XZjhdvxujqyHx77AEq8) | 3:39 | 2021-12-08 | 2022-03-09 |
 | [Promises](https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:24 | 2022-05-04 | 2022-06-01 |
-| [Proud](https://open.spotify.com/track/5COxPQbNaVMsLEr3tuicvp) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [I Hope It Lasts Forever](https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj) | 0:29 | 2022-06-01 |  |
+| [Proud](https://open.spotify.com/track/5COxPQbNaVMsLEr3tuicvp) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [I Hope It Lasts Forever](https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj) | 3:56 | 2022-06-01 |  |
 | [Pull Up](https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Pull Up](https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq) | 2:51 | 2022-03-08 | 2022-04-06 |
 | [Purple Jelly Disc](https://open.spotify.com/track/2jXCwhlQELijGObzRJQtS2) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Purple Jelly Disc](https://open.spotify.com/album/1gwAs0QYbz44hiDNWEBjGi) | 6:12 | 2022-04-06 | 2022-05-05 |
 | [Push It](https://open.spotify.com/track/6oZnpPjdCWtWVmRJzphWUV) | [AmyElle](https://open.spotify.com/artist/1z1V8o4cq5VNtAU05T2q4W) | [Push It](https://open.spotify.com/album/6Knpdnev4wckEEEoJvPgTZ) | 3:55 | 2021-12-08 | 2022-01-05 |

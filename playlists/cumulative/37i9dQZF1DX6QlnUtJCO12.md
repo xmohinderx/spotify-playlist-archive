@@ -4,7 +4,7 @@
 
 > Discover Trinidad & Tobago's rich musical history with these traditional Calypso tunes.
 
-40 songs - 2 hr 7 min - [published](https://open.spotify.com/playlist/7bIPeIf3ZZl1Rzq5h8DZnJ)
+40 songs - 2 hr 10 min - [published](https://open.spotify.com/playlist/7bIPeIf3ZZl1Rzq5h8DZnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Mister Give Me de Rent](https://open.spotify.com/track/0TYdFe0dwxgZUOeBkeddxD) | [Mighty Panther](https://open.spotify.com/artist/5DORYfZoyjtG1gyqk2oCgG) | [Calypso Legends \- Mighty Panther / Macbeth the Great \(1953 \- 1956\)](https://open.spotify.com/album/5NzKDh50xiq0chFaaekcUC) | 2:29 | 2021-04-23 |  |
 | [Money Is King](https://open.spotify.com/track/24AeZpYgwKemY07HL0qwhn) | [Tiger](https://open.spotify.com/artist/5Im9CBGcV9N3V6ehgZFcRk) | [Calypso \- Best Of Trinidad CD 1 1912\-1929](https://open.spotify.com/album/6jNpSx8r02ElxRnuoKCEDF) | 2:58 | 2021-04-23 |  |
 | [Move Yuh Foot](https://open.spotify.com/track/6CCnv2VWTcKq3esvGQfpGP) | [Lord Pretender](https://open.spotify.com/artist/3msiTUQJRYD0AndfwYIvUa) | [Calypso Legends](https://open.spotify.com/album/2hcNJdaOsTyGg9T7c54EBJ) | 6:45 | 2021-04-23 |  |
-| [Mr\. Nankivell's Speech](https://open.spotify.com/track/6J1rPbuBjBaJdg53tjyhpG) | [Atilla the Hun](https://open.spotify.com/artist/3XgijVGUbtWr7rTQxd2uEh) | [Calypsos from Trinidad: Politics, Intrigue & Violence in the 1930s](https://open.spotify.com/album/2KeFqsujCepKC9qaCWmRS2) | 0:29 | 2021-04-23 |  |
+| [Mr\. Nankivell's Speech](https://open.spotify.com/track/6J1rPbuBjBaJdg53tjyhpG) | [Atilla the Hun](https://open.spotify.com/artist/3XgijVGUbtWr7rTQxd2uEh) | [Calypsos from Trinidad: Politics, Intrigue & Violence in the 1930s](https://open.spotify.com/album/2KeFqsujCepKC9qaCWmRS2) | 2:57 | 2021-04-23 |  |
 | [My Reply to Houdini](https://open.spotify.com/track/416NGM98lMSM3EZwMHcGFL) | [The Executor](https://open.spotify.com/artist/6xJuCASaNxCSPoswqEqGur) | [Calypsonians \(1930 \- 1960\), Vol.3](https://open.spotify.com/album/4GmO9Pe5sQ7lkhnkdQlMNL) | 3:05 | 2021-04-23 |  |
 | [Never Ever Worry](https://open.spotify.com/track/4Acjs07xTgVV4ql6lYoZDP) | [Lord Pretender](https://open.spotify.com/artist/3msiTUQJRYD0AndfwYIvUa) | [Calypso Legends](https://open.spotify.com/album/2hcNJdaOsTyGg9T7c54EBJ) | 5:34 | 2021-04-23 |  |
 | [No Melda](https://open.spotify.com/track/6DqNQ3UbRLwONLC0oqCS4M) | [Lord Kitchener](https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK) | [Doctor Kitch](https://open.spotify.com/album/6ZgbMHl4E3T6Cvjat6XZGa) | 2:35 | 2021-04-23 |  |

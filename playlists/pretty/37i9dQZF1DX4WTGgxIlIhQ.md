@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WTGgxIlIhQ.md) - [plain]
 
 > Sing along to these Vacation Bible School favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 899 likes - 51 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 901 likes - 51 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WTGgxIlIhQ.md) - [plain]
 | 24 | [The Doxology](https://open.spotify.com/track/5wWO82mAloRy9RZdYXjoer) | [GroupMusic](https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF) | [Go Mongolia!](https://open.spotify.com/album/256mv49bBlxqH68aSx92n9) | 2:54 |
 | 25 | [Gotta Move!](https://open.spotify.com/track/3eZctScBWH96MuwLNyw6cW) | [Go Fish](https://open.spotify.com/artist/60oY0lmnOyCS2ElXAKCNrR) | [Bible Beats 2](https://open.spotify.com/album/3IQHCaiHxWtPXnNJA9uIy0) | 2:54 |
 | 26 | [Let’s Praise The Lord](https://open.spotify.com/track/41hQM5cCpO9StlZncKeTXa) | [LifeKids](https://open.spotify.com/artist/7q1EUnJ3z8eDqIn1wCUZ3T) | [Bible Adventure Worship](https://open.spotify.com/album/6sAsTih5j59AtIArPShuoc) | 2:31 |
-| 27 | [Exercise Hymn](https://open.spotify.com/track/06Qw84zIN6cCuxHQm6oTHg) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Toddler Action Songs](https://open.spotify.com/album/4LOfihzuxh5L2NqaMN02yj) | 0:29 |
+| 27 | [Exercise Hymn](https://open.spotify.com/track/06Qw84zIN6cCuxHQm6oTHg) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Toddler Action Songs](https://open.spotify.com/album/4LOfihzuxh5L2NqaMN02yj) | 1:11 |
 | 28 | [Power Shuffle](https://open.spotify.com/track/7H7nfaFZzqL0VUk9YjxIRg) | [GroupMusic](https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF) | [Pop Praise: Jump for Joy](https://open.spotify.com/album/6RHcD6hREYs81gJahZIn1y) | 2:50 |
 | 29 | [This Little Light Of Mine](https://open.spotify.com/track/3gOHDLLcozaQB5ZdAJA0YL) | [Go Fish](https://open.spotify.com/artist/60oY0lmnOyCS2ElXAKCNrR) | [Splash](https://open.spotify.com/album/4HZUQ8b51y6ylNjXmjfX7K) | 4:14 |
 | 30 | [Rise And Shine \(Arky, Arky\)](https://open.spotify.com/track/2DjWrLnmKSWl6ri5EtzVNv) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Action Bible Songs](https://open.spotify.com/album/6Xg4hDKUL9qvivx83Fhgsv) | 2:07 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WTGgxIlIhQ.md) - [plain]
 | 32 | [God Is for Me](https://open.spotify.com/track/4oifJHApmvgvbujoOn04aA) | [GroupMusic](https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF) | [Favorite Songs \(From "Maker Fun Factory 2017: Vacation Bible School Mini"\)](https://open.spotify.com/album/1YCLVx9SO81NPv5WBTY0Zl) | 2:49 |
 | 33 | [Lord, I Lift Your Name On High](https://open.spotify.com/track/4puDIY0hV0rsVy4oFE0KFx) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Cedarmont Worship For Kids, Volume 1](https://open.spotify.com/album/4L1rDxgDBkP5w5cQcmbOkN) | 3:05 |
 | 34 | [I Am A C\-H\-R\-I\-S\-T\-I\-A\-N](https://open.spotify.com/track/4dMFck4sZUMU7js2yMq7Yx) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Sunday School Songs](https://open.spotify.com/album/4YSuzBvt9mppuiha44U2dX) | 1:13 |
-| 35 | [My God Is So Big](https://open.spotify.com/track/0VNyoJoTWC9Ll4ZimOUSLS) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Bible Songs](https://open.spotify.com/album/74ca4MQy3cfsZNyvNMpNTE) | 0:29 |
+| 35 | [My God Is So Big](https://open.spotify.com/track/0VNyoJoTWC9Ll4ZimOUSLS) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Bible Songs](https://open.spotify.com/album/74ca4MQy3cfsZNyvNMpNTE) | 1:23 |
 | 36 | [I Have Decided to Follow Jesus](https://open.spotify.com/track/43yffpowWu38FljWNdhOIW) | [GroupMusic](https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF) | [Cave Quest Vacation Bible School VBS Mini](https://open.spotify.com/album/2kRLPABitrYblE5CXEj6Pu) | 2:51 |
 | 37 | [Won't Worry 'Bout a Thing](https://open.spotify.com/track/3mPmfPjzuhXovhiNOvenUv) | [GroupMusic](https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF) | [Favorite Songs from Shipwrecked: Rescued by Jesus](https://open.spotify.com/album/0MZdGDnF1aFBgbCowm2Fj0) | 3:17 |
 | 38 | [Bible Book Bop](https://open.spotify.com/track/4tyI096BWdIKHtv7JNdtbc) | [Go Fish](https://open.spotify.com/artist/60oY0lmnOyCS2ElXAKCNrR) | [Bible Beats \(For Little Feets\)](https://open.spotify.com/album/3QfyerJxzTL9NXo79cXrOw) | 3:21 |

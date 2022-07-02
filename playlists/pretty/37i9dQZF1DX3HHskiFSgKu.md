@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HHskiFSgKu.md) - [plain]
 
 > Want to power up your morning? Grab the beats to go.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311 likes - 16 songs - 57 min 5 sec
+[Spotify](https://open.spotify.com/user/spotify) - 311 likes - 16 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HHskiFSgKu.md) - [plain]
 | 6 | [Party Ain't A Party \(feat\. 2 Chainz\)](https://open.spotify.com/track/2GUPyVJIFf9jMVRjhThmnY) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Party Ain't A Party \(feat\. 2 Chainz\)](https://open.spotify.com/album/7oHxBR7ipH6NAq4NiwiGXd) | 3:46 |
 | 7 | [24 Hours \(feat\. 2 Chainz\)](https://open.spotify.com/track/7LWtfSW68VAkHp3hpcFDCY) | [TeeFLii](https://open.spotify.com/artist/1pCVxwkdixCeBPTboRZIi2), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [24 Hours \(feat\. 2 Chainz\)](https://open.spotify.com/album/6cCaBZtQSFXUkXeENOuMP9) | 3:35 |
 | 8 | [Or Nah \(feat\. Wiz Khalifa & DJ Mustard\)](https://open.spotify.com/track/2LX9coJz8pfFHb8AaoVhXS) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Or Nah \(feat\. Wiz Khalifa & DJ Mustard\)](https://open.spotify.com/album/5mmoLCrl6lAvuyvldIQoDS) | 4:11 |
-| 9 | [She](https://open.spotify.com/track/20IYmMomxRNKY6UrWGI1mN) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [She](https://open.spotify.com/album/14DT31xSqyGacsIvpnm9Pf) | 0:29 |
+| 9 | [She](https://open.spotify.com/track/20IYmMomxRNKY6UrWGI1mN) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [She](https://open.spotify.com/album/14DT31xSqyGacsIvpnm9Pf) | 3:44 |
 | 10 | [Feelin' Myself](https://open.spotify.com/track/6fS3dNRP8D0vxC48BUowbO) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [Feelin' Myself](https://open.spotify.com/album/6Xk73KQy2cyymOMgFhYATF) | 4:13 |
 | 11 | [Rack City](https://open.spotify.com/track/21nFIDqoD1L7ELsprVSzOR) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Careless World: Rise Of The Last King](https://open.spotify.com/album/65CquQgUA42ecr7n6bGtOI) | 3:23 |
 | 12 | [Who Do You Love?](https://open.spotify.com/track/6Tx7BNqiakRXgAXngmnhCL) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Do You Love?](https://open.spotify.com/album/06uhHdJghVpOfZgEPNtYnz) | 3:53 |

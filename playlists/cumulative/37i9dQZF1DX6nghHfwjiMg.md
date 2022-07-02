@@ -4,7 +4,7 @@
 
 > Descubre los nuevos talentos de Argentina, Chile y Uruguay\. <br/>Foto: LOUTA.
 
-84 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/5Pxi8eyAIqTOgi5TjZfI4h)
+84 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/5Pxi8eyAIqTOgi5TjZfI4h)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 | 2021-11-11 |  |
 | [Ayuda](https://open.spotify.com/track/3hUNDQbffsxCE7Jv2CQO5X) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR) | [Ayuda](https://open.spotify.com/album/4l4YOX4E5m7WaX9uFri8ST) | 3:57 | 2021-11-11 | 2022-06-27 |
 | [Bailarina](https://open.spotify.com/track/6aKDevkHNVtAXRUVC5aiu3) | [ELDANI](https://open.spotify.com/artist/4XIAIb1ugOy9JfmpeSoUAu) | [Bailarina](https://open.spotify.com/album/1VmIOFc1vgoU4lbZoIApQJ) | 4:04 | 2021-11-11 |  |
-| [Bambú](https://open.spotify.com/track/0qdcKORnomK1GVPwdTFfZp) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Bambú](https://open.spotify.com/album/7gFnvbdX2Xhag5vd072EAZ) | 0:29 | 2021-11-11 |  |
+| [Bambú](https://open.spotify.com/track/0qdcKORnomK1GVPwdTFfZp) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Bambú](https://open.spotify.com/album/7gFnvbdX2Xhag5vd072EAZ) | 2:50 | 2021-11-11 |  |
 | [Big Cut](https://open.spotify.com/track/7pin8wDLL57efEYLvOpAAS) | [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Big Cut](https://open.spotify.com/album/2bHX5Y6PPg1cdgA0JTVZ5j) | 3:14 | 2021-11-11 | 2022-06-27 |
 | [Buen Rato](https://open.spotify.com/track/7AqMSwTJIYgEzmYpRjTWX3) | [Igna](https://open.spotify.com/artist/1gMGY47VdNj1nF2NRyjd5t) | [Fe](https://open.spotify.com/album/1TW2yrWSXV0mT6OPm5hMRi) | 3:05 | 2021-11-11 |  |
 | [Bulletproof](https://open.spotify.com/track/3rDclQGRZehjHBpmOWgF5H) | [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Bulletproof](https://open.spotify.com/album/6kiK8lgGM9ZniV9U3y9nZB) | 3:07 | 2021-11-11 |  |
@@ -31,7 +31,7 @@
 | [Dosis](https://open.spotify.com/track/2jhNHAT2mKah55bfOPSarO) | [Comensales](https://open.spotify.com/artist/0z90qmO7Ma0JmLtRXUknn7) | [Dosis](https://open.spotify.com/album/2U01ndz6MxWJDMEFhvfCYV) | 3:12 | 2021-11-11 |  |
 | [Embriago](https://open.spotify.com/track/1hnVWXdhW9P17SpfnaN60C) | [Andres](https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f) | [Embriago](https://open.spotify.com/album/5WR3I7h22Dt5cYgU6VV0jX) | 3:36 | 2021-11-11 |  |
 | [Emocional \(feat\. Marlku\)](https://open.spotify.com/track/21wToWcFmf43bfuLHqDRls) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [Marlku](https://open.spotify.com/artist/4o3YJfgarCUSVyPH5HKRA5) | [Emocional](https://open.spotify.com/album/6TrcWCUDZuWU3Sf6YqHZAV) | 2:52 | 2021-11-11 | 2022-06-28 |
-| [En Todas Partes](https://open.spotify.com/track/1fBiySiu1fTmiFyPc4R8DD) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS) | [En Todas Partes](https://open.spotify.com/album/30oK2FaiGSLDuRO2T9foTR) | 0:29 | 2021-11-11 |  |
+| [En Todas Partes](https://open.spotify.com/track/1fBiySiu1fTmiFyPc4R8DD) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS) | [En Todas Partes](https://open.spotify.com/album/30oK2FaiGSLDuRO2T9foTR) | 2:42 | 2021-11-11 |  |
 | [Esos Días \- Spotify Singles](https://open.spotify.com/track/1XtYMqXi4XelZSdxn3kYBY) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Esos Días \- Spotify Singles](https://open.spotify.com/album/7eidjZ0TAgQDOexGWwBIJQ) | 2:31 | 2021-11-11 |  |
 | [Estoy Bien](https://open.spotify.com/track/6szg6z5MWZKiojwcu5hRNX) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Estoy Bien](https://open.spotify.com/album/6VLkFSqV7eMPPYaHUGOfAE) | 2:48 | 2021-11-11 |  |
 | [FASHION DILLER](https://open.spotify.com/track/7pwuuN72iIc3F671PuxErU) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [FASHION DILLER](https://open.spotify.com/album/3fIMfvmfccA2OxIVNmnyyv) | 2:41 | 2022-05-24 |  |
@@ -41,12 +41,12 @@
 | [Gris](https://open.spotify.com/track/54TITTIjdmIbHH0eZM0uRi) | [Magnolia Nojutsu](https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92), [Charlie Guns](https://open.spotify.com/artist/1svCFZxt0Qei4VMSkelVBa) | [Gris](https://open.spotify.com/album/2JepnySF2k8h15YQ9wPA3h) | 3:26 | 2021-11-11 |  |
 | [GUARACHA](https://open.spotify.com/track/4tuROO3SXDAlA7bbKXB0Vm) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [GUARACHA](https://open.spotify.com/album/2tpbzolBdNXm5WVM1RQRxy) | 2:37 | 2022-06-01 |  |
 | [Hace Rato](https://open.spotify.com/track/5MLM8Bnonrc3HlZ7OBU09C) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Hace Rato](https://open.spotify.com/album/4hf7pMuHc0qnA5mWpten3n) | 3:42 | 2021-11-11 |  |
-| [Hielo](https://open.spotify.com/track/331HG0gs3ZWYMRdHFFf5Hc) | [Anto Bosman](https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa) | [Hielo](https://open.spotify.com/album/4fn5ZIvTw84uHbWSBLL07u) | 0:29 | 2021-11-11 |  |
+| [Hielo](https://open.spotify.com/track/331HG0gs3ZWYMRdHFFf5Hc) | [Anto Bosman](https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa) | [Hielo](https://open.spotify.com/album/4fn5ZIvTw84uHbWSBLL07u) | 3:08 | 2021-11-11 |  |
 | [Házmelo](https://open.spotify.com/track/4uiFw0YvHosZT3qRf1QAvs) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Házmelo](https://open.spotify.com/album/6YMLkyjjKjFLgFGyreJWky) | 2:54 | 2021-11-11 |  |
 | [Ilegal](https://open.spotify.com/track/1kWyLA4DXvtvfK0OynG0hB) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Maxi Sayes](https://open.spotify.com/artist/7gumdPOGmUMKbJlrYzLhQJ), [ALOT](https://open.spotify.com/artist/06lUobf6U97iIFl8BOzgEV) | [Ilegal](https://open.spotify.com/album/4fhFKvABD36PgGAlegN3Kd) | 2:31 | 2021-11-11 |  |
 | [La Casualidad](https://open.spotify.com/track/3rqoDD2GJTpde3VO83T0LY) | [Metalingüística](https://open.spotify.com/artist/6jPnjdXijpUoqWR4YTWDo3), [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6) | [La Casualidad](https://open.spotify.com/album/0uj09wSpaUp58kWvYnZ7tw) | 3:39 | 2021-11-11 |  |
 | [LA FORMA DE TUS HUESOS](https://open.spotify.com/track/020DdY7OHn2cAA0YLCeGTn) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [LA FORMA DE TUS HUESOS](https://open.spotify.com/album/7yrAWLchX3RIrXiry3qge3) | 3:32 | 2022-06-01 |  |
-| [La Luna Y Las Melodías](https://open.spotify.com/track/4ZlwfAQkhzubvMHbwFSSpw) | [Christiane](https://open.spotify.com/artist/0gPv17HJgCgwcKNvvtR0na) | [La Luna Y Las Melodías](https://open.spotify.com/album/1JcK7fmGvIDfPqNgbb86eQ) | 0:29 | 2021-11-11 |  |
+| [La Luna Y Las Melodías](https://open.spotify.com/track/4ZlwfAQkhzubvMHbwFSSpw) | [Christiane](https://open.spotify.com/artist/0gPv17HJgCgwcKNvvtR0na) | [La Luna Y Las Melodías](https://open.spotify.com/album/1JcK7fmGvIDfPqNgbb86eQ) | 3:19 | 2021-11-11 |  |
 | [La Oficial](https://open.spotify.com/track/74sIGoxUiqj5vLjry0zket) | [Pily García](https://open.spotify.com/artist/39oW9XDNK2MidsoRAyjXeB) | [La Oficial](https://open.spotify.com/album/49qL6ootmx7M0oJ8RVaDNI) | 3:18 | 2021-11-11 |  |
 | [Las Naik](https://open.spotify.com/track/5vmYLoozbUNwcdVL2m3lHq) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Las Naik](https://open.spotify.com/album/1jJ7NdRUwzOxu3Pdmliyr3) | 2:55 | 2021-11-11 | 2022-06-28 |
 | [Liberarme](https://open.spotify.com/track/6Zjcuz6NxB4DLt9b02ZV4B) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Liberarme](https://open.spotify.com/album/2RXzMbdC6uYKV4oTMXdbw3) | 3:23 | 2021-11-11 |  |

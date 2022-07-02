@@ -652,6 +652,32 @@
     },
     {
       "album": {
+        "name": "Ela Quer 2",
+        "url": "https://open.spotify.com/album/4NGnWjoLQfsOIva635RcO8"
+      },
+      "artists": [
+        {
+          "name": "PedronesPrince",
+          "url": "https://open.spotify.com/artist/27NZjUR3kpctF8cHdYZSmU"
+        },
+        {
+          "name": "Dash Foreal",
+          "url": "https://open.spotify.com/artist/2vrrGwK98P8zHi7mskmfXA"
+        },
+        {
+          "name": "Elenko Music",
+          "url": "https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Ela Quer 2",
+      "url": "https://open.spotify.com/track/3kX2NPiYhraUBcRxRP4cHS"
+    },
+    {
+      "album": {
         "name": "Ela \u00e9 Espetacular (Mulher Kama Sutra 2)",
         "url": "https://open.spotify.com/album/7d6XkxoIBZARJ5pXHm4EZp"
       },
@@ -884,6 +910,28 @@
     },
     {
       "album": {
+        "name": "Jessiquinha",
+        "url": "https://open.spotify.com/album/719ZCOFHHGafxDZ5Bc4HTE"
+      },
+      "artists": [
+        {
+          "name": "Bra\u00e3o",
+          "url": "https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd"
+        },
+        {
+          "name": "LIT UP",
+          "url": "https://open.spotify.com/artist/048eLqPGxqWk7PblwFmXgE"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Jessiquinha",
+      "url": "https://open.spotify.com/track/3H5wWhrqdGO4LKP2DXwhVJ"
+    },
+    {
+      "album": {
         "name": "Passado & Presente",
         "url": "https://open.spotify.com/album/5hwK2P6q7pjxahdDEobHIb"
       },
@@ -1002,6 +1050,28 @@
     },
     {
       "album": {
+        "name": "Malandra Treinada",
+        "url": "https://open.spotify.com/album/6TTjOK1SNS9QyTFr0Ejngx"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "Malandra Treinada",
+      "url": "https://open.spotify.com/track/2sPKxr3t0kXHcVvHCfgxoV"
+    },
+    {
+      "album": {
         "name": "Maluquin",
         "url": "https://open.spotify.com/album/2aU8z30V3wM8nhoj1C53vo"
       },
@@ -1109,7 +1179,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 135919,
       "name": "Meca Preta",
       "url": "https://open.spotify.com/track/5my5WVGf2yjBanfad10kII"
@@ -1147,7 +1217,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 275312,
       "name": "Melhor Dia 8: Confia",
       "url": "https://open.spotify.com/track/3Qt1QuJ9lmKaY5zBpbrIAV"
@@ -1273,7 +1343,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 149323,
       "name": "N\u00e3o Quer Chifre",
       "url": "https://open.spotify.com/track/7Ls0AYtBWAJtt7iORFc6zC"
@@ -1699,7 +1769,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 139636,
       "name": "Revoar",
       "url": "https://open.spotify.com/track/4IGCXMbnJYWhj8P4UTtxkW"

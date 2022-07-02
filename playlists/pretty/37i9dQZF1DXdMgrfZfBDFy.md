@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMgrfZfBDFy.md) - [plain]
 
 > Höj volymen och happy EuroPride 2018!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,599 likes - 47 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,599 likes - 47 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I'll Be There](https://open.spotify.com/track/083Qf6hn6sFL6xiOHlZUyn) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [I'll Be There](https://open.spotify.com/album/7o6j8wph7fvEcAL67jLVGN) | 3:13 |
 | 2 | [Missing U](https://open.spotify.com/track/74L6lPSnpSY5IiPcKwazZu) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Missing U](https://open.spotify.com/album/2KkPC4rSyOk7QSLVKn3Zsa) | 4:51 |
-| 3 | [Colour](https://open.spotify.com/track/7haQE5nOcxwk0HXahP0aV3) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Colour](https://open.spotify.com/album/7xniwwZWn3QwUwPqg9NbaF) | 0:29 |
+| 3 | [Colour](https://open.spotify.com/track/7haQE5nOcxwk0HXahP0aV3) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Colour](https://open.spotify.com/album/7xniwwZWn3QwUwPqg9NbaF) | 3:21 |
 | 4 | [Pass This On](https://open.spotify.com/track/43ByS4cUILhcNM08Vscj4o) | [The Knife](https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4) | [Deep Cuts](https://open.spotify.com/album/7jVPfsUGg2AffU5G5oOP3j) | 3:48 |
 | 5 | [Bara Få Va Mig Själv](https://open.spotify.com/track/77xHMcAvzgm9n5FQtNpHlN) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Bara Få Va Mig Själv](https://open.spotify.com/album/1rH4xFvK9fPuicXPG4U76X) | 3:34 |
-| 6 | [My My My!](https://open.spotify.com/track/2Tq2R8sRftNEqdgJK5HadO) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [My My My!](https://open.spotify.com/album/7wQrwQy96jtQETGmyGzxr8) | 0:29 |
+| 6 | [My My My!](https://open.spotify.com/track/2Tq2R8sRftNEqdgJK5HadO) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [My My My!](https://open.spotify.com/album/7wQrwQy96jtQETGmyGzxr8) | 3:24 |
 | 7 | [All For You](https://open.spotify.com/track/4vCkQta0QD3NI3KmXhP1F7) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [All For You](https://open.spotify.com/album/23tKyFl5x4N61MKyHhZAhx) | 3:39 |
 | 8 | [Symphony \(feat\. Zara Larsson\)](https://open.spotify.com/track/4SPLWgCPoKwULz2UTM8TKg) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:34 |
 | 9 | [One More in the Crowd](https://open.spotify.com/track/1h3vEdVj2BPSt5bA5tMAyn) | [Thomas Sekelius](https://open.spotify.com/artist/6EzLWsqvWr22J1Xqfb725F) | [One More in the Crowd](https://open.spotify.com/album/6HVMmyBwNAiMSLSVMkRCwz) | 3:14 |

@@ -4,7 +4,7 @@
 
 > Från PJ Harvey via Jenny Wilson till Amanda Bergman och Slowgold\. Här hör du några av alla kvinnor som är med och skriver indiehistoria.
 
-90 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/2LxnqPYAd4vz9nI21uWtgg)
+90 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/2LxnqPYAd4vz9nI21uWtgg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [All Is Full of Love](https://open.spotify.com/track/3rrtbnOBDzKQfyYKTezEFe) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Greatest Hits](https://open.spotify.com/album/7AUW3zs7IECZjVVks1tfb2) | 4:47 | 2021-06-15 |  |
 | [Baby No Name](https://open.spotify.com/track/5oYCY3xAQl7rBWEfqJf2Ly) | [Britta Persson](https://open.spotify.com/artist/1p3J6laThbGvAuz642q1O6) | [If I Was a Band My Name Would Be Forevers](https://open.spotify.com/album/262cPLTeWxmx2PkYJ9XAYu) | 3:17 | 2021-06-15 |  |
 | [Back to Reality](https://open.spotify.com/track/2xHFCRcp1tz3SyemNhKOI0) | [Hey Elbow](https://open.spotify.com/artist/75P1YhfXqy9x3OUjJZjZIk) | [Back to Reality](https://open.spotify.com/album/4oD18cDKonjHW9kcrTHG6G) | 3:39 | 2021-06-15 |  |
-| [bodyache](https://open.spotify.com/track/2DopRU3QWz4CWymUUrKvO4) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [another eternity](https://open.spotify.com/album/4ymjpcGruNuUUUZOeGawLe) | 0:29 | 2021-06-15 |  |
+| [bodyache](https://open.spotify.com/track/2DopRU3QWz4CWymUUrKvO4) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [another eternity](https://open.spotify.com/album/4ymjpcGruNuUUUZOeGawLe) | 2:53 | 2021-06-15 |  |
 | [Brief Moment](https://open.spotify.com/track/3TmvPWfJ0KPI3q0I70D9wE) | [Oh Land](https://open.spotify.com/artist/46CuxapoPjUfIOiXdNq7qM) | [Brief Moment](https://open.spotify.com/album/2fCrcBpl2zsrRGrEjARtc6) | 3:37 | 2021-06-15 |  |
 | [Chasing Shadows](https://open.spotify.com/track/1vr8QWVT3ibyaFdqQxiMwI) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Chasing Shadows](https://open.spotify.com/album/7y6iOcabqDVuQF148KPrg0) | 3:15 | 2021-06-15 |  |
 | [Cry](https://open.spotify.com/track/55of3FNGaCpt5scLKZyas3) | [Saga Back](https://open.spotify.com/artist/6FRCzy12LTGeWQs6mKfX3R) | [Cry](https://open.spotify.com/album/0wFkZ4pDDUJg2IiOpYiEjc) | 4:31 | 2021-06-15 |  |
@@ -26,7 +26,7 @@
 | [Don't Talk](https://open.spotify.com/track/3Dse8qKi2lwA0ePF6kb61N) | [Jennie Abrahamson](https://open.spotify.com/artist/6Q6y2vf2DZm7yLWHKQr7Bx) | [Reverseries](https://open.spotify.com/album/188s8GD7RXqz2RcOBReC4b) | 6:39 | 2021-06-15 |  |
 | [Dopamin](https://open.spotify.com/track/3FGAT7vALG7JY2QZ81MlB7) | [Maja Amcoff](https://open.spotify.com/artist/1rsfJb1udp1uOyUDKbxwsl) | [Dopamin](https://open.spotify.com/album/4dDmjEneAsduCQZjQGLUEc) | 3:10 | 2021-06-15 |  |
 | [Döda mig](https://open.spotify.com/track/5tNn3yFfZzXasCtq9yU8Sa) | [Ji Nilsson](https://open.spotify.com/artist/4gXoprttD6M0HwTqQNsxOY), [Min Stora Sorg](https://open.spotify.com/artist/53mirS5AzwzEw9MsquLXFo) | [Döda mig](https://open.spotify.com/album/1CMRCHyu46YlOLpLwkTawx) | 3:33 | 2021-06-15 |  |
-| [End Of Time](https://open.spotify.com/track/1BG5tjofRTxqZOzBDfyFnj) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [End Of Time](https://open.spotify.com/album/4AK73rNJEcr34d8cJ5uH3E) | 0:29 | 2021-06-15 |  |
+| [End Of Time](https://open.spotify.com/track/1BG5tjofRTxqZOzBDfyFnj) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [End Of Time](https://open.spotify.com/album/4AK73rNJEcr34d8cJ5uH3E) | 3:22 | 2021-06-15 |  |
 | [Everyone Else in the World](https://open.spotify.com/track/6Pp3scK3n2TxczQ5oRo1Cw) | [Stina Nordenstam](https://open.spotify.com/artist/7gPBpCNPTXfU4B6GJ17CwL) | [This Is Stina Nordenstam](https://open.spotify.com/album/2W2hkNP8Ta1x9kdhY2uFcL) | 2:59 | 2021-06-15 |  |
 | [Falcons](https://open.spotify.com/track/1FNvsOtp6bnSOQTBgJOtha) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Docks](https://open.spotify.com/album/46ouJiWK0jC4QlaWP6DTCH) | 3:54 | 2021-06-15 |  |
 | [Flesh without Blood](https://open.spotify.com/track/4ZcGbQ5dOKX6rJk4yvza9R) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Art Angels](https://open.spotify.com/album/5hB4jVN4ZHpubyiMmW81K1) | 4:24 | 2021-06-15 |  |
@@ -74,8 +74,8 @@
 | [Ruin](https://open.spotify.com/track/5r6xvN3ubD6tEg0Ngqgeu2) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Sun](https://open.spotify.com/album/2JQgZJD5VKJkBMHBCkGQO0) | 4:32 | 2021-06-15 |  |
 | [Seventeen](https://open.spotify.com/track/7yMYqHqzye8vtyiHqdVlZw) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/2dvXk4nacVRmDSnbKniwrS) | 4:25 | 2021-06-15 |  |
 | [Shadows of Our Past](https://open.spotify.com/track/3F7YNZqMX5jfNaOxlHicFe) | [Firefox AK](https://open.spotify.com/artist/6E6yZfLJy9X62bwXFDlCcw) | [A New Shape](https://open.spotify.com/album/7kULTYllotBzdwvzdyTdyw) | 3:33 | 2021-06-15 |  |
-| [Shut Up Kiss Me](https://open.spotify.com/track/5uZLsGY9fknBd5Rxr7AIss) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [MY WOMAN](https://open.spotify.com/album/5M8xQaQZuW2LZGVXZ3mlKN) | 0:29 | 2021-06-15 |  |
-| [Silvana](https://open.spotify.com/track/6O2N7tE7ivFrpyx4QNbdMS) | [F.N.Y](https://open.spotify.com/artist/04yNJEB7tEAEie8UWjzTAI) | [Silvana](https://open.spotify.com/album/4XjErE5yed7xjgfCwZcezm) | 0:29 | 2021-06-15 |  |
+| [Shut Up Kiss Me](https://open.spotify.com/track/5uZLsGY9fknBd5Rxr7AIss) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [MY WOMAN](https://open.spotify.com/album/5M8xQaQZuW2LZGVXZ3mlKN) | 3:22 | 2021-06-15 |  |
+| [Silvana](https://open.spotify.com/track/6O2N7tE7ivFrpyx4QNbdMS) | [F.N.Y](https://open.spotify.com/artist/04yNJEB7tEAEie8UWjzTAI) | [Silvana](https://open.spotify.com/album/4XjErE5yed7xjgfCwZcezm) | 3:28 | 2021-06-15 |  |
 | [So Long](https://open.spotify.com/track/6l1ZT5WqVoK1YltrBpGJQ6) | [Hanna Järver](https://open.spotify.com/artist/6JHabNWuD8rd3TQQtMf6Q5) | [So Long](https://open.spotify.com/album/51xf4UGzqJfASaZZvbYk7C) | 3:21 | 2021-06-15 |  |
 | [Somebody Special](https://open.spotify.com/track/4WH2PelEpTVSuglBbz65gN) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Somebody Special](https://open.spotify.com/album/4Q4kHDFSMPQePKW1U4awNz) | 3:18 | 2021-06-15 |  |
 | [SuMmEr BrEaK](https://open.spotify.com/track/5YPXbnXdAtr946FDwoYkF1) | [ShitKid](https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m) | [SuMmEr BrEaK](https://open.spotify.com/album/38usvHB3kUIRCQzQdr0Nj0) | 2:40 | 2021-06-15 |  |

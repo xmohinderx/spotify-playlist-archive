@@ -460,6 +460,32 @@
     },
     {
       "album": {
+        "name": "Ameno Amapiano (You Wanna Bamba) [Todd Terry Remix]",
+        "url": "https://open.spotify.com/album/1p8WJo98RIGtAVRIFrXFsh"
+      },
+      "artists": [
+        {
+          "name": "Goya Menor",
+          "url": "https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX"
+        },
+        {
+          "name": "Nektunez",
+          "url": "https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132800,
+      "name": "Ameno Amapiano Remix (You Wanna Bamba) - Todd Terry Remix",
+      "url": "https://open.spotify.com/track/0Yx4DyxRnhoXdEQcSbn0CD"
+    },
+    {
+      "album": {
         "name": "Amor",
         "url": "https://open.spotify.com/album/69p944ct529u1AuqBPvaNQ"
       },
@@ -1211,6 +1237,28 @@
       "duration_ms": 214500,
       "name": "Butterflies (feat. Tristan Henry) - Biscits Remix",
       "url": "https://open.spotify.com/track/7qY1QnjNuxThxtTz9wMuRo"
+    },
+    {
+      "album": {
+        "name": "Calabria (Claptone Remix)",
+        "url": "https://open.spotify.com/album/5qHPt0JFip30XVeQvXLIzI"
+      },
+      "artists": [
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        },
+        {
+          "name": "Rune",
+          "url": "https://open.spotify.com/artist/1ZidiBfjGcKKQgglqGVfj1"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171310,
+      "name": "Calabria - Claptone Remix",
+      "url": "https://open.spotify.com/track/5SJaU2u1QXVvSenZoDlKMi"
     },
     {
       "album": {
@@ -2835,7 +2883,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 180031,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/2MhH5aAORsvCgl3E8aOC1q"
@@ -2861,6 +2909,28 @@
       "duration_ms": 205077,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/63NovIxeUNEToRQgENFvFF"
+    },
+    {
+      "album": {
+        "name": "Feel It (GUZ Remix)",
+        "url": "https://open.spotify.com/album/583DHou9e1MRu6pnIooV4j"
+      },
+      "artists": [
+        {
+          "name": "Hayley May",
+          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
+        },
+        {
+          "name": "Guz",
+          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168190,
+      "name": "Feel It - GUZ Remix",
+      "url": "https://open.spotify.com/track/39Oxhni4ULZjYNGQL2CFKr"
     },
     {
       "album": {
@@ -2915,7 +2985,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 220312,
       "name": "Feel Me",
       "url": "https://open.spotify.com/track/6ZDVabmemwAPrbGwnCKgAE"
@@ -4187,7 +4257,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 160200,
       "name": "In My Bones (feat. Jaxxon)",
       "url": "https://open.spotify.com/track/1bhbPMV1VGOLK05yfzMQ8r"
@@ -5945,7 +6015,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 168387,
       "name": "Never Ever",
       "url": "https://open.spotify.com/track/7pXtDwdYtjILjN5cK7UonH"
@@ -6205,7 +6275,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 175238,
       "name": "On & On - Kevin McKay Remix",
       "url": "https://open.spotify.com/track/4PUpNh8xGyWxjyNB4Wf8ZY"
@@ -6853,7 +6923,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 204639,
       "name": "Radar",
       "url": "https://open.spotify.com/track/1djoRrseUF5KsdgOQeArmO"
@@ -7962,6 +8032,24 @@
     },
     {
       "album": {
+        "name": "Strut",
+        "url": "https://open.spotify.com/album/7kJtQku5TZl47Wkl0taooD"
+      },
+      "artists": [
+        {
+          "name": "Kyle Walker",
+          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183356,
+      "name": "Strut",
+      "url": "https://open.spotify.com/track/0nevM5K8CCJOTbAcpOS1Js"
+    },
+    {
+      "album": {
         "name": "Stutter EP",
         "url": "https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV"
       },
@@ -8765,10 +8853,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 176791,
       "name": "Tripasia",
       "url": "https://open.spotify.com/track/365aB2RegILTAZqCEgmkUc"
+    },
+    {
+      "album": {
+        "name": "Trompeta",
+        "url": "https://open.spotify.com/album/3fyDFUE6R0Q8TdFHC5q2nz"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Trompeta",
+      "url": "https://open.spotify.com/track/6o4BO9LLCPe5p43YKZzFuv"
     },
     {
       "album": {
@@ -8809,6 +8915,28 @@
       "duration_ms": 189120,
       "name": "Try",
       "url": "https://open.spotify.com/track/5hM4F7T6hEJUHdoVgukAiq"
+    },
+    {
+      "album": {
+        "name": "Tuko Tuko",
+        "url": "https://open.spotify.com/album/6W3EQfiO498fLmBgCJNDwB"
+      },
+      "artists": [
+        {
+          "name": "Lee Foss",
+          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+        },
+        {
+          "name": "Paskman",
+          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217142,
+      "name": "Tuko Tuko",
+      "url": "https://open.spotify.com/track/5YzoHnKF8AF4Ys76VPmpKR"
     },
     {
       "album": {

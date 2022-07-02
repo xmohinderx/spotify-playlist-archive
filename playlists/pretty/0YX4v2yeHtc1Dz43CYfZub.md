@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0YX4v2yeHtc1Dz43CYfZub.md) - [plain]
 
 > ONLY LOVERS LEFT ALIVE will be in cinemas from 21st February\. The soundtrack will be available from 17th February.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,246 likes - 11 songs - 47 min 54 sec
+[Spotify](https://open.spotify.com/user/spotify) - 6,246 likes - 11 songs - 56 min 55 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/0YX4v2yeHtc1Dz43CYfZub.md) - [plain]
 | 6 | [The More She Burns the More Beautifully She Glows \(feat\. Tilda Swinton\)](https://open.spotify.com/track/2tYEQzTqmf30l1gaLwLPNE) | [Jozef Van Wissem and Jim Jarmusch](https://open.spotify.com/artist/3fSbBzEDKAyFiaHMfk8GCQ), [Jozef Van Wissem](https://open.spotify.com/artist/1mC0FqPLboQUFfxYuthfdn), [Jim Jarmusch](https://open.spotify.com/artist/7uwCnAgRDUzftIAkJDFfdy) | [The Mystery of Heaven](https://open.spotify.com/album/6N8RtTHx9kdshBU24bY6w4) | 10:56 |
 | 7 | [Can't Hardly Stand](https://open.spotify.com/track/6pvcLSybw3qzYyMgREfIaO) | [Charlie Feathers](https://open.spotify.com/artist/2EcNV0nlF6f6ZDtJJG2vKN) | [Debut Recordings](https://open.spotify.com/album/6Miad89tSouoxfeIIllEHW) | 2:46 |
 | 8 | [I'm so Lonesome I Could Cry](https://open.spotify.com/track/4nSBtYK3vNVJ0V0lafDguJ) | [SQÜRL](https://open.spotify.com/artist/1UXCB5V3DpKjiTGkVodQYA) | [EP \#2](https://open.spotify.com/album/43RIGbGWjCCgxkQ8JnYGKv) | 4:41 |
-| 9 | [Under Skin or By Name](https://open.spotify.com/track/6dQZRdkxQmxl8hZyVNbYS5) | [White Hills](https://open.spotify.com/artist/0ttvGAnfEC6KZLrljUdIyX) | [Live At Roadburn 2011](https://open.spotify.com/album/1fE5HCsMrSuCs0QhAMk9P6) | 0:29 |
+| 9 | [Under Skin or By Name](https://open.spotify.com/track/6dQZRdkxQmxl8hZyVNbYS5) | [White Hills](https://open.spotify.com/artist/0ttvGAnfEC6KZLrljUdIyX) | [Live At Roadburn 2011](https://open.spotify.com/album/1fE5HCsMrSuCs0QhAMk9P6) | 9:30 |
 | 10 | [Avalanche \(Slow\)](https://open.spotify.com/track/3DNqd6qoi8mwe0ROgQupP7) | [Zola Jesus](https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P), [JG Thirlwell](https://open.spotify.com/artist/50ltjTwfFz7h59pSAvxJeB), [Mivos Quartet](https://open.spotify.com/artist/4K3g1qJ73PGZgIQgAcgjQj) | [Versions](https://open.spotify.com/album/0A9pNEPGVCvpdgD7zYEck1) | 4:55 |
 | 11 | [Hallogallo](https://open.spotify.com/track/5ten0WtejUB4F0lGVFStyE) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [NEU!](https://open.spotify.com/album/217KPSzsO021HXtXJI2G11) | 10:07 |
 

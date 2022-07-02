@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnZT5DhATDx.md) - [plain]
 
 > Bend the knee and give reverence to this playlist envisioned by Game Of Thrones co\-creators David Benioff and D.B\. Weiss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,240 likes - 51 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,228 likes - 51 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sleep Now In the Fire](https://open.spotify.com/track/1MQTmpYOZ6fcMQc56Hdo7T) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [The Battle Of Los Angeles](https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX) | 3:25 |
 | 2 | [Her Black Wings](https://open.spotify.com/track/4wM61bPrvM8HScuxtskTbd) | [Danzig](https://open.spotify.com/artist/34c4iQ5tkaZKu6Sv28BTde) | [Danzig II: Lucifuge](https://open.spotify.com/album/3kPaVfOEEHBDOoAbOMWvRS) | 4:47 |
-| 3 | [Immigrant Song \- Remaster](https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 0:29 |
+| 3 | [Immigrant Song \- Remaster](https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 2:26 |
 | 4 | [The End \- 2017 Remaster](https://open.spotify.com/track/4KGMuqdT1XEzzOJDJFXu7T) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors \(50th Anniversary Deluxe Edition\)](https://open.spotify.com/album/3zVyMAtWiXugudXuCRiUjL) | 11:50 |
 | 5 | [Girl from the North Country](https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Nashville Skyline](https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN) | 3:40 |
 | 6 | [Mama Kin](https://open.spotify.com/track/0XRlRULMnFbsm9EhJDHGYW) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [G N' R Lies](https://open.spotify.com/album/1RCAG3LrDwYsNU5ZiUJlWi) | 3:55 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnZT5DhATDx.md) - [plain]
 | 9 | [War](https://open.spotify.com/track/1IqYyJ37a3gUr0NC2vOD2b) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [War](https://open.spotify.com/album/1vXIt4f3khLgyHd3Uyw8R0) | 3:31 |
 | 10 | [Let Me Live / Let Me Die](https://open.spotify.com/track/5bCDC7qkmxiJc0lPsqiALj) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Let The Vultures In](https://open.spotify.com/album/4xPEjD84ueU6Oq6l2saC2d) | 3:27 |
 | 11 | [Flugufrelsarinn](https://open.spotify.com/track/7rbllPSJ7BI3EG6FqxKvgj) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Ágætis Byrjun](https://open.spotify.com/album/7LKQtdC6uWxqLzSbDonFij) | 7:48 |
-| 12 | [Can't Stop The Bleeding \(feat\. Gary Clark Jr\. & Gramatik\)](https://open.spotify.com/track/79DQcqdOuzHH5g0fI8KShf) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [Can't Stop The Bleeding \(feat\. Gary Clark Jr\. & Gramatik\)](https://open.spotify.com/album/4G0HVKhUTFI2sqM4CZdN2B) | 0:29 |
+| 12 | [Can't Stop The Bleeding \(feat\. Gary Clark Jr\. & Gramatik\)](https://open.spotify.com/track/79DQcqdOuzHH5g0fI8KShf) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [Can't Stop The Bleeding \(feat\. Gary Clark Jr\. & Gramatik\)](https://open.spotify.com/album/4G0HVKhUTFI2sqM4CZdN2B) | 4:38 |
 | 13 | [Fire](https://open.spotify.com/track/18q85q12rFgJQY8VL56O8p) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Dull Drums \- EP](https://open.spotify.com/album/4VK3Q5h20xhrakwpBnxDDf) | 3:17 |
 | 14 | [Bottom Of The Deep Blue Sea](https://open.spotify.com/track/6AvslIXIi9iaGvukefyVVK) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Loner](https://open.spotify.com/album/08iSi4GIyoDt2zSvNyru7M) | 3:51 |
 | 15 | [Wave of Mutilation](https://open.spotify.com/track/1yJiE307EBIzOB9kqH1deb) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/6ymZBbRSmzAvoSGmwAFoxm) | 2:04 |
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnZT5DhATDx.md) - [plain]
 | 44 | [Winterlong \- 2017 Remaster](https://open.spotify.com/track/2SiN8njxfRDBEiXht5lV80) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Decade](https://open.spotify.com/album/2mFcOZBh8JmZdwIiOVeTw7) | 3:08 |
 | 45 | [Furr](https://open.spotify.com/track/6n1zT8W5EaIYvWIT2DyROL) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr](https://open.spotify.com/album/2X5LfrkRtEik2jGgaDDRMO) | 4:07 |
 | 46 | [Power](https://open.spotify.com/track/7LOzA341dmGGFwDyOvVDEC) | [AJ Ghent \[ j\-ent \]](https://open.spotify.com/artist/6gLGK4HewZQk0009RLQ3nx) | [Power](https://open.spotify.com/album/3mTzxRrrUuEywAXKIfV2WB) | 3:41 |
-| 47 | [Toxicity](https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 0:29 |
+| 47 | [Toxicity](https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:38 |
 | 48 | [Born For Greatness](https://open.spotify.com/track/5cRPdqpWkaNmIbPi6wJDg2) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth \(Deluxe\)](https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW) | 3:47 |
 | 49 | [Gold Lion](https://open.spotify.com/track/0ZxlWWronnmSO4KitM4WXl) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Gold Lion \(International Maxi\)](https://open.spotify.com/album/6UWou2TmJXBCsq9jDyIgEo) | 3:07 |
-| 50 | [Here's Your Future](https://open.spotify.com/track/3JtdmGmWOoZ4j37gj9Uzmp) | [The Thermals](https://open.spotify.com/artist/4qAJ54O4V0W8SQcSz0bl1C) | [The Body, The Blood, The Machine](https://open.spotify.com/album/67MDdjEiJyAqfpuVVVTHxT) | 0:29 |
+| 50 | [Here's Your Future](https://open.spotify.com/track/3JtdmGmWOoZ4j37gj9Uzmp) | [The Thermals](https://open.spotify.com/artist/4qAJ54O4V0W8SQcSz0bl1C) | [The Body, The Blood, The Machine](https://open.spotify.com/album/67MDdjEiJyAqfpuVVVTHxT) | 2:28 |
 | 51 | [Love Is Blindness](https://open.spotify.com/track/3MqgRB20fpPXIovSSuK7na) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:23 |
 
 Snapshot ID: `MTU4Mzg0NjMzMywwMDAwMDAxMTAwMDAwMTZhMGQ4MTgxMmYwMDAwMDE3MGM0OTkxZGZi`

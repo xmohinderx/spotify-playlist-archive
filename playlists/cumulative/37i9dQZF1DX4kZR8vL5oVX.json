@@ -854,20 +854,24 @@
     },
     {
       "album": {
-        "name": "Coco Robot",
+        "name": "Coco Robot (feat. HabibiSly)",
         "url": "https://open.spotify.com/album/2VwjLt0y3pBxzIHitBWKuV"
       },
       "artists": [
         {
           "name": "Corine",
           "url": "https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ"
+        },
+        {
+          "name": "HabibiSly",
+          "url": "https://open.spotify.com/artist/1aJmuI59aoDA9mBk4ACoxl"
         }
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 240588,
-      "name": "Coco Robot",
+      "name": "Coco Robot (feat. HabibiSly)",
       "url": "https://open.spotify.com/track/78uhoLjMr27DWycpKLFaY6"
     },
     {

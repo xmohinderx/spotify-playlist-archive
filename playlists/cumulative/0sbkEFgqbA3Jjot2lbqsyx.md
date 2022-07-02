@@ -4,7 +4,7 @@
 
 > 
 
-50 songs - 2 hr 32 min - [published](https://open.spotify.com/playlist/3wHOS49bcVYIy1mtcF9wW4)
+50 songs - 2 hr 35 min - [published](https://open.spotify.com/playlist/3wHOS49bcVYIy1mtcF9wW4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [La\-La Means I Love You](https://open.spotify.com/track/5jzqOYJmouDjfxlUw2u27f) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Love Songs](https://open.spotify.com/album/47I69OChJY93PaFpCRhS31) | 3:19 | 2013-06-27 |  |
 | [Lady Willpower](https://open.spotify.com/track/2v32CGfALncxmdlF4JbKZ4) | [Gary Puckett & The Union Gap](https://open.spotify.com/artist/4asCC4oxQcDzFXhCth2SgQ) | [Young Girl: The Best Of Gary Puckett & The Union Gap](https://open.spotify.com/album/15Oqj9h8TSkGsoOKDKjsqA) | 2:39 | 2013-06-27 |  |
 | [Little Green Apples](https://open.spotify.com/track/5VKdlRg4PXPh8H1cpGo16C) | [O.C\. Smith](https://open.spotify.com/artist/7qVAJPCHuOiMxlJ7h9xEAA) | [Pop Classics Of The 60's](https://open.spotify.com/album/5GCaDPj9Jx6TEZChzUacWM) | 3:54 | 2013-06-27 |  |
-| [Love Child](https://open.spotify.com/track/3NEXHif5VQoVe3A9yidyBv) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Great Songs And Performances That Inspired The Motown 25th Anniversary T.V\. Special](https://open.spotify.com/album/7DKVGEwrtT5MzX0hLK5Zc4) | 0:29 | 2013-06-27 |  |
+| [Love Child](https://open.spotify.com/track/3NEXHif5VQoVe3A9yidyBv) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Great Songs And Performances That Inspired The Motown 25th Anniversary T.V\. Special](https://open.spotify.com/album/7DKVGEwrtT5MzX0hLK5Zc4) | 2:56 | 2013-06-27 |  |
 | [Love Is All Around \(Rerecorded\)](https://open.spotify.com/track/6Zvx7YK6F5Z3BcAVxY2wCI) | [The Troggs](https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25) | [Love Is In The Air](https://open.spotify.com/album/70qmSduAQ8CodNpY4roBru) | 2:44 | 2013-06-27 |  |
 | [Love is blue](https://open.spotify.com/track/2Spa687CxXQP5Ll8dzeLZP) | [Paul Mauriat](https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi), [A.Popp](https://open.spotify.com/artist/7FhixE55GL7MxjQpY4E4xD), [P.Court](https://open.spotify.com/artist/0BsbHRtvGE3HI4vdR4sobs) | [Love is Blue The very best of Paul Mauriat](https://open.spotify.com/album/4rhcKC5XGn9sfJJ4xNgNE1) | 2:35 | 2013-06-27 |  |
 | [MacArthur Park](https://open.spotify.com/track/3sP9qw7dbFJZ9K6YHaVhUb) | [Richard Harris](https://open.spotify.com/artist/30Qh39o424P9qgdHNVouvo) | [MacArthur Park](https://open.spotify.com/album/0SvBGZCu5nxlxq8c3QXtV8) | 7:24 | 2013-06-27 |  |

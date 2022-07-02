@@ -4,7 +4,7 @@
 
 > Soundtrack your practice with this mix of chill and motivational tracks perfect for vinyasa yoga.
 
-224 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/2y03h8NmsGkUYwlMxFr6ZI)
+224 songs - 10 hr 4 min - [published](https://open.spotify.com/playlist/2y03h8NmsGkUYwlMxFr6ZI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Coming Back](https://open.spotify.com/track/2bd4DXfUSO4W8PnHq4hcZN) | [August Sky](https://open.spotify.com/artist/6hm8yEY43m6Q5aq1O8oLwI) | [Coming Back](https://open.spotify.com/album/0RZtebJU73sTyieZXfxaop) | 3:27 | 2022-06-22 |  |
 | [Creation](https://open.spotify.com/track/3wTo5rcassS8R6L1EzKSCF) | [Wishard](https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81) | [Creation](https://open.spotify.com/album/7Dv1BGiYX6n1zGjK8DmZ5j) | 2:00 | 2022-03-14 |  |
 | [Crickets in the Clouds](https://open.spotify.com/track/5RympJSBDjBLazHFthkhug) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [Crickets in the Clouds](https://open.spotify.com/album/2y6zoXDqTJJIphmJqkM0BV) | 4:05 | 2022-03-14 |  |
-| [crisp](https://open.spotify.com/track/5x7r4EEFe1MdqmoQVFUGPk) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [crisp](https://open.spotify.com/album/7HB0lwZLOR5DmXPqToszrG) | 0:29 | 2022-03-14 |  |
+| [crisp](https://open.spotify.com/track/5x7r4EEFe1MdqmoQVFUGPk) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [crisp](https://open.spotify.com/album/7HB0lwZLOR5DmXPqToszrG) | 2:08 | 2022-03-14 |  |
 | [Darkness](https://open.spotify.com/track/5MdRpjxDGQRuEuDqFJyR1h) | [EPOPÈ](https://open.spotify.com/artist/7grZco3RaRS6ieQQxlnUpS) | [Dream of Me](https://open.spotify.com/album/4KC0VYnPAmBg13BdYUBe5B) | 2:33 | 2022-03-14 |  |
 | [day dreamers](https://open.spotify.com/track/345AerZkFDXrzBbedhNNXv) | [beat away](https://open.spotify.com/artist/6b7CgjmU1vBse6njuahOnS) | [day dreamers](https://open.spotify.com/album/0utA3cjNvrLL377HobWFOj) | 2:21 | 2022-03-14 |  |
 | [daylight savings time](https://open.spotify.com/track/5QtDWKrJ0oDCngcjnBtd7Z) | [milo keeper](https://open.spotify.com/artist/0GC1oqZGWOMXDnNo2u5Irs) | [daylight savings time](https://open.spotify.com/album/4Gvlkp86D3oPbCMbw8BeGO) | 2:43 | 2022-03-14 |  |
@@ -67,7 +67,7 @@
 | [Fast Food](https://open.spotify.com/track/7g0axA5g1WqVhJP06cqnae) | [The Spelling Tree](https://open.spotify.com/artist/1OhiNy3jv8JcBwZ04AHY1W) | [Mythologies of Yarn](https://open.spotify.com/album/1qeE6gJE8Bf5C5emPVXast) | 2:38 | 2022-03-14 |  |
 | [Feedback Loop](https://open.spotify.com/track/5zlcNIbJAbRtCFFmQQi6Qe) | [hoodeeny](https://open.spotify.com/artist/7BCtXoU5pnFzU38zvpl6Cg) | [Feedback Loop](https://open.spotify.com/album/313KqTMx8BzQMsf1wK1LSt) | 3:17 | 2022-06-02 |  |
 | [Fifth and Westerton](https://open.spotify.com/track/1z7c88CVgrgHeM5CLhyeo9) | [Foghouse](https://open.spotify.com/artist/5y6OTJwOgLR1dJu2Er9hBB) | [Roughly Human](https://open.spotify.com/album/3LU9iCseQ6hsGwBFLOdj2P) | 2:48 | 2022-03-14 |  |
-| [florida keys](https://open.spotify.com/track/4cGB1bYpm6kvBMUERmaFHl) | [Kolorama](https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC) | [florida keys](https://open.spotify.com/album/27EBx07LQxBo1M690AWHzo) | 0:29 | 2022-03-14 |  |
+| [florida keys](https://open.spotify.com/track/4cGB1bYpm6kvBMUERmaFHl) | [Kolorama](https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC) | [florida keys](https://open.spotify.com/album/27EBx07LQxBo1M690AWHzo) | 2:04 | 2022-03-14 |  |
 | [Fluxuations](https://open.spotify.com/track/2QAnxnRsvHXIG3qRwNOtnL) | [Dew Of Light](https://open.spotify.com/artist/0JocAa8oEKpsd3NOoVxuP6) | [Fluxuations](https://open.spotify.com/album/50YZ3IEsdP2wMFPBIreR0x) | 3:15 | 2022-03-14 |  |
 | [Focus](https://open.spotify.com/track/3l7mCSypI6tYJvYe8dDI4f) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Focus](https://open.spotify.com/album/0Q6OXWzRgM4pbUlxYMV2Pb) | 2:47 | 2022-03-14 | 2022-04-22 |
 | [Focused Projections](https://open.spotify.com/track/1W2z4uJzZuA0r0MDQWJvex) | [Tom Kalani](https://open.spotify.com/artist/19b5Zn4pI7sCFiHfSlRFSc) | [Clusters](https://open.spotify.com/album/7mPBccYXc1Wkx45EGsN0ir) | 3:25 | 2022-03-14 |  |
@@ -99,7 +99,7 @@
 | [Keep On](https://open.spotify.com/track/3Y0JuvIIA3mzhmM2G00kE9) | [Amaraldo](https://open.spotify.com/artist/6Q3A8LnHLfN97wg2VXC5bf) | [Keep On](https://open.spotify.com/album/1n5BqxHBlAkN7HhyHWi6oc) | 3:47 | 2022-03-14 | 2022-04-22 |
 | [Keep on Keepin' On](https://open.spotify.com/track/6T6Uf0q0Jpe5t4LnFQU3tM) | [FAKTESS](https://open.spotify.com/artist/6epkbYGmkRjKc18xWsEXPM) | [Keep On Keepin' On](https://open.spotify.com/album/3kPWOAZcaf92yz139YLcbL) | 2:20 | 2022-03-14 |  |
 | [Koh Musica](https://open.spotify.com/track/77QMACo3pSn8I7lQD9nftm) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Glow](https://open.spotify.com/album/1CHQFx98d16PMOyn4nwS72) | 3:36 | 2022-03-14 |  |
-| [Koodu Beat](https://open.spotify.com/track/3eWSufYeo9lVW9QvorDuPz) | [Qalander](https://open.spotify.com/artist/1fgzNEfvwvl89CVNprnohN) | [Koodu Beat](https://open.spotify.com/album/2HMB79pfnDfhWUtC3uosfV) | 0:29 | 2022-03-14 |  |
+| [Koodu Beat](https://open.spotify.com/track/3eWSufYeo9lVW9QvorDuPz) | [Qalander](https://open.spotify.com/artist/1fgzNEfvwvl89CVNprnohN) | [Koodu Beat](https://open.spotify.com/album/2HMB79pfnDfhWUtC3uosfV) | 3:35 | 2022-03-14 |  |
 | [Kusanagi](https://open.spotify.com/track/3i2Q3cFdFzJ39nV9sAt3Pc) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [In Return](https://open.spotify.com/album/5SXT6dwhHX56Sos7KMcMF5) | 3:28 | 2022-03-14 | 2022-05-11 |
 | [Last Day \. \. .](https://open.spotify.com/track/5qd4NIeakuzbmnqIwpmFPR) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [All Becomes Okay](https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh) | 2:17 | 2022-03-14 |  |
 | [Lazy](https://open.spotify.com/track/4yGSbEBbtmLQ8vtdB3XE5K) | [Hi Rollaz](https://open.spotify.com/artist/3fcAnLtdyYfvkg1BRtpDyA) | [Lazy](https://open.spotify.com/album/74VN5PP227HuAZivDeRrXl) | 3:18 | 2022-03-14 |  |
@@ -115,7 +115,7 @@
 | [love triangles](https://open.spotify.com/track/0WJj3kLVjvHCB5Pf2bkgXE) | [Happy Trees](https://open.spotify.com/artist/1C9UmgndcdjzGA4YmV3Bmr) | [love triangles](https://open.spotify.com/album/1dIrPgFSe5PM08NJrWDpZD) | 1:40 | 2022-03-14 |  |
 | [Lungo Start](https://open.spotify.com/track/1isTKmXhobWZShYmsSmc9X) | [White Noise Clarity](https://open.spotify.com/artist/0J1noINVBJiSL51wHiTvkg) | [Lungo Start](https://open.spotify.com/album/6F9DQYe3s8uKBjhr1Mfd5R) | 2:03 | 2022-06-02 |  |
 | [LV](https://open.spotify.com/track/6hsUEoIwD9Oq1wqwzdCr8J) | [Robot Robit](https://open.spotify.com/artist/3ZQr5RhizqlZaMgx0SY1jD) | [LV](https://open.spotify.com/album/3Rz2yFrvSzt6rO362bb30P) | 3:03 | 2022-03-14 |  |
-| [Make A Wish](https://open.spotify.com/track/6z3xPj5FqC1eagvTbx6khY) | [Laizman](https://open.spotify.com/artist/7IgCfXJ8DHWGTli0aDft56) | [Make A Wish](https://open.spotify.com/album/08i8H39Mw86XEn1eQ4gH9E) | 0:29 | 2022-03-14 |  |
+| [Make A Wish](https://open.spotify.com/track/6z3xPj5FqC1eagvTbx6khY) | [Laizman](https://open.spotify.com/artist/7IgCfXJ8DHWGTli0aDft56) | [Make A Wish](https://open.spotify.com/album/08i8H39Mw86XEn1eQ4gH9E) | 2:27 | 2022-03-14 |  |
 | [Making Love and Sweet Noodles](https://open.spotify.com/track/09Q3a76Fao9rJuSlSIcJ9u) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB), [Person Paul](https://open.spotify.com/artist/1J3ndqmGPsMWIasf7VOPVR) | [Mujura](https://open.spotify.com/album/264T6B8vHgza4gfR6JCPAt) | 2:24 | 2022-03-14 |  |
 | [mararun](https://open.spotify.com/track/2nG9Kq8al1Y8CwuikqWXut) | [m3lly](https://open.spotify.com/artist/6ImTBYsoSoDNEMgY9VFU23) | [mararun](https://open.spotify.com/album/4T3cSDUhFHeoIEo4fDec58) | 2:06 | 2022-03-14 |  |
 | [Meadow Elves](https://open.spotify.com/track/2aBIhGvgolIDZX9MdRUOmX) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Meadow Elves](https://open.spotify.com/album/3ziTYR8sKeEGcqTtD4iqXf) | 2:30 | 2022-03-14 |  |
@@ -187,7 +187,7 @@
 | [Spots](https://open.spotify.com/track/1smzJLamcRIHcHUT82opTR) | [Cardamom](https://open.spotify.com/artist/55z2VFr6FxKYEOctgA2ICi) | [Spots](https://open.spotify.com/album/3KntBPi6tFBDBXZHE3O1pr) | 2:35 | 2022-03-14 |  |
 | [spring](https://open.spotify.com/track/6mpcfOpE6QGqRKHlaJuRkP) | [slowseventeen](https://open.spotify.com/artist/09h6Xfv6UuvH9rIjAASA2X) | [spring](https://open.spotify.com/album/3efxXYGDQvWZFTqarrykWX) | 2:23 | 2022-03-14 |  |
 | [Star Waves](https://open.spotify.com/track/2I0J13l3avJt2EfLHM03Qa) | [Vandis](https://open.spotify.com/artist/1Aco6Nf3MLLDTGaiyd1Y1u) | [Star Waves](https://open.spotify.com/album/50isrbNQMokQzbzTlBriSW) | 3:23 | 2022-03-14 |  |
-| [Starstruck](https://open.spotify.com/track/4pduLVGTNsZ3KQUqK36Z2z) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Starstruck](https://open.spotify.com/album/5sYXhwMzCigsbf5LH3dN18) | 0:29 | 2022-03-14 |  |
+| [Starstruck](https://open.spotify.com/track/4pduLVGTNsZ3KQUqK36Z2z) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Starstruck](https://open.spotify.com/album/5sYXhwMzCigsbf5LH3dN18) | 2:22 | 2022-03-14 |  |
 | [Steek](https://open.spotify.com/track/0tmfkSrjCbV7fOUPEDznhP) | [Movistar](https://open.spotify.com/artist/0QJCy3yneN39i7ZSdoqcrP) | [Aquarelle](https://open.spotify.com/album/6cCkiXerbNIJNbbGJuvsPA) | 1:52 | 2022-03-14 |  |
 | [Summer Daze](https://open.spotify.com/track/6IicRTrwqlLmP0d3s5cFra) | [Kev Twine](https://open.spotify.com/artist/00LMt4rvi6xkahRJ8UVKDU) | [Summer Daze](https://open.spotify.com/album/7IMNPhTvyJ524UefN6aTQW) | 2:19 | 2022-03-14 |  |
 | [summer haze](https://open.spotify.com/track/2RKCKLaC3piFjxevi9iP6n) | [honeyglore](https://open.spotify.com/artist/3nhZn9q2FAqq7tsNe1icFY) | [summer haze](https://open.spotify.com/album/4oDT888zmVYN27yXVSBHlm) | 2:39 | 2022-06-22 |  |
@@ -215,7 +215,7 @@
 | [Upward Falling](https://open.spotify.com/track/6YsXDpB5gqbNZiAIn8T4Ty) | [Tamala Bay](https://open.spotify.com/artist/2lncpX7wgkhvlIkw7ozMRj) | [Upward Falling](https://open.spotify.com/album/3djnMJi6Yzhm2pyk9Cm5IY) | 2:27 | 2022-03-14 |  |
 | [V.](https://open.spotify.com/track/2mKht77kfPCde5fOCIBfSi) | [Houis](https://open.spotify.com/artist/3bjJEXLyXKBFUx6MOj3wlF) | [Nocturnal](https://open.spotify.com/album/0JFGc8K3o9Dl1NR9JLTF8b) | 2:48 | 2022-03-14 |  |
 | [Validation](https://open.spotify.com/track/3fgxxLQpm2ShpABFIh03O6) | [Sinebreak](https://open.spotify.com/artist/48LPQpMU3AOZ1JJrJGAfVA) | [Validation](https://open.spotify.com/album/3wj5LEDuZj4EsshE0RzdtA) | 2:01 | 2022-03-14 |  |
-| [Venice](https://open.spotify.com/track/1FO9LieasI7ttaaDzijInm) | [lowclowds](https://open.spotify.com/artist/25oJa6BWwoxxrNa299VMh1) | [Venice](https://open.spotify.com/album/0FSV7nJLdW3WtRGmfnzeVb) | 0:29 | 2022-03-14 |  |
+| [Venice](https://open.spotify.com/track/1FO9LieasI7ttaaDzijInm) | [lowclowds](https://open.spotify.com/artist/25oJa6BWwoxxrNa299VMh1) | [Venice](https://open.spotify.com/album/0FSV7nJLdW3WtRGmfnzeVb) | 3:24 | 2022-03-14 |  |
 | [Views from Yamashita Park](https://open.spotify.com/track/08GrJ04y6DrNm6t1OZ7a7N) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Views from Yamashita Park / Hatagaya Greenways](https://open.spotify.com/album/0CAD18JM3by6WU8WYPOMIC) | 1:40 | 2022-03-14 |  |
 | [Violet](https://open.spotify.com/track/31az0ltREtEXcrCNAvqpQi) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Violet](https://open.spotify.com/album/0fc7JFUcxR5zs6UVgIXmeg) | 1:45 | 2022-04-04 |  |
 | [Virtue](https://open.spotify.com/track/2dIc4fWog46D4dtdtmlaox) | [Criminal Plants](https://open.spotify.com/artist/2aRu6YXHGyKkHYCrGNRuAh) | [Virtue](https://open.spotify.com/album/70aT7VUr0QaOjEkRCZNrvf) | 3:31 | 2022-03-14 |  |
@@ -230,7 +230,7 @@
 | [your hand in mine](https://open.spotify.com/track/4w1XytNNLTrqXZ0rAb8FST) | [oceanic crust](https://open.spotify.com/artist/1yS3w9MidJKPrlhpGidKHk) | [your hand in mine](https://open.spotify.com/album/7ESX5ecpDUvKHlmXKDaNoA) | 2:49 | 2022-03-14 |  |
 | [Your Lovin'](https://open.spotify.com/track/4x89ZodcqdLHrXE7xrIZHq) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv) | [Your Lovin'](https://open.spotify.com/album/5LuDmGTZ0UwDVqOpi3MhUK) | 3:16 | 2022-03-14 | 2022-06-23 |
 | [Zealous](https://open.spotify.com/track/4FIpXfK5Py8emyfmWCTcm1) | [Fast Flux](https://open.spotify.com/artist/3jndf0YYCbrGOLFij8XuFs) | [Zealous](https://open.spotify.com/album/4QsVtR5zmxTXx66KeBnwt0) | 2:21 | 2022-03-14 |  |
-| [Zenith](https://open.spotify.com/track/2Jdezp0U1YKmlBJK1IrYBm) | [lowclowds](https://open.spotify.com/artist/25oJa6BWwoxxrNa299VMh1) | [Venice](https://open.spotify.com/album/0FSV7nJLdW3WtRGmfnzeVb) | 0:29 | 2022-03-14 |  |
+| [Zenith](https://open.spotify.com/track/2Jdezp0U1YKmlBJK1IrYBm) | [lowclowds](https://open.spotify.com/artist/25oJa6BWwoxxrNa299VMh1) | [Venice](https://open.spotify.com/album/0FSV7nJLdW3WtRGmfnzeVb) | 2:47 | 2022-03-14 |  |
 | [森林浴 shinrin\-yoku](https://open.spotify.com/track/5lMStXhu7wlFmk6KyJF0jD) | [Nako Yanagisawa](https://open.spotify.com/artist/6J12Ff7swWdQ7CslETtKBT) | [森林浴 shinrin\-yoku](https://open.spotify.com/album/1ufbJrBaCe4u84sSLkXBpL) | 3:05 | 2022-03-14 |  |
 
 \*This playlist was first scraped on 2022-03-28. Prior content cannot be recovered.

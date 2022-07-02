@@ -4,7 +4,7 @@
 
 > 
 
-49 songs - 2 hr 13 min - [published](https://open.spotify.com/playlist/0gL7H1tl4Gxr9VkueYvdGL)
+49 songs - 2 hr 16 min - [published](https://open.spotify.com/playlist/0gL7H1tl4Gxr9VkueYvdGL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [The Rain, The Park & Other Things \- Single Version](https://open.spotify.com/track/0sOoGrE5PY5EBDQnR7Yysu) | [The Cowsills](https://open.spotify.com/artist/4ZSzroBNV7HzBDO9aohuF1) | [The Best Of The Cowsills](https://open.spotify.com/album/7rDEh3q8XOYbt31qr2Bfq3) | 3:03 | 2013-06-27 |  |
 | [Then You Can Tell Me Goodbye \- Rerecorded](https://open.spotify.com/track/6gjS093LxGZdyBsDtREich) | [The Casinos](https://open.spotify.com/artist/2oEalcjHCHizuXF2ao47F6) | [Rock 'n' Roll Love Songs](https://open.spotify.com/album/1PSizWnzUXGF9B1qpbxjTe) | 3:09 | 2013-06-27 |  |
 | [There's A Kind Of Hush \(Re\-Recorded\)](https://open.spotify.com/track/5VsKPXhZ1eXWSk8ndAxc54) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [60s Classics](https://open.spotify.com/album/3w6MFLPPc56ilMeY4zwoim) | 2:35 | 2013-06-27 |  |
-| [This is My Song](https://open.spotify.com/track/19BelOiAV9jQaiO4rkLsdf) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [The Best Of Petula Clark](https://open.spotify.com/album/6u0ZmjEVYYVKnii51JszaS) | 0:29 | 2013-06-27 |  |
+| [This is My Song](https://open.spotify.com/track/19BelOiAV9jQaiO4rkLsdf) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [The Best Of Petula Clark](https://open.spotify.com/album/6u0ZmjEVYYVKnii51JszaS) | 3:27 | 2013-06-27 |  |
 | [To Sir with Love](https://open.spotify.com/track/0gBFr7N2D1GfhkXIIepIGG) | [Lulu](https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ) | [To Sir With Love](https://open.spotify.com/album/37J4FeONwmD1Gl3PzvZGv3) | 2:46 | 2013-06-27 |  |
 | [Up, Up and Away](https://open.spotify.com/track/3JdToGxgvH9SnO1a605Ztr) | [The 5th Dimension](https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM) | [Up, Up And Away](https://open.spotify.com/album/77VEDrJrgHdCr6Ju3N4AQp) | 2:43 | 2013-06-27 |  |
 | [Windy \(Re\-Recorded\)](https://open.spotify.com/track/5UP6vEGxMMXpNPdTiSl8oP) | [The Association](https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS) | [60s Classics](https://open.spotify.com/album/3w6MFLPPc56ilMeY4zwoim) | 2:42 | 2013-06-27 |  |

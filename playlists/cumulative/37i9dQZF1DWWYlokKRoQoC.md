@@ -4,7 +4,7 @@
 
 > Celebrating the life and legacy of the songwriting legend.
 
-94 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/4gIqlrrdrFdLdKRd3GcyNq)
+94 songs - 5 hr 23 min - [published](https://open.spotify.com/playlist/4gIqlrrdrFdLdKRd3GcyNq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Loose Talk \(feat\. Connie Smith\)](https://open.spotify.com/track/2S8sgHKgoOyH1OEDaiEJYk) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Connie Smith](https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo) | [In Spite of Ourselves](https://open.spotify.com/album/2t6hK5ERtgjbHXVgHlpqJ5) | 2:44 | 2021-10-08 |  |
 | [Mental Cruelty \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/186UgiKH2aZi0G3f6s0Ydf) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [For Better, Or Worse](https://open.spotify.com/album/1bf1EYVB9GkgDkbGTrSiyT) | 2:23 | 2021-10-08 |  |
 | [Milwaukee Here I Come \(feat\. Melba Montgomery\)](https://open.spotify.com/track/6Rtvo85QCMxqsaJEeyGFhz) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Melba Montgomery](https://open.spotify.com/artist/6TeB6t5E1uJfbJGRZvJAAv) | [In Spite of Ourselves](https://open.spotify.com/album/2t6hK5ERtgjbHXVgHlpqJ5) | 2:21 | 2021-10-08 |  |
-| [My Old Kentucky Home, Goodnight](https://open.spotify.com/track/0jo2BDAxfgNrL5VplFuulx) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [My Old Kentucky Home, Goodnight](https://open.spotify.com/album/6NVpVhMqlNUu4M7vQuOez1) | 0:29 | 2021-10-08 |  |
+| [My Old Kentucky Home, Goodnight](https://open.spotify.com/track/0jo2BDAxfgNrL5VplFuulx) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [My Old Kentucky Home, Goodnight](https://open.spotify.com/album/6NVpVhMqlNUu4M7vQuOez1) | 3:45 | 2021-10-08 |  |
 | [No Ordinary Blue](https://open.spotify.com/track/3ZpVLbq4iu2xJG8cj9yqrY) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [The Tree of Forgiveness](https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg) | 2:56 | 2021-10-08 |  |
 | [One Red Rose](https://open.spotify.com/track/7FFNz3vdpVdRVzpQLs3kdS) | [Iris DeMent](https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY) | [Broken Hearts & Dirty Windows: Songs of John Prine, Vol\. 2](https://open.spotify.com/album/4hCtJiXI3q5gQAydvchzYh) | 3:07 | 2021-10-08 |  |
 | [Only Love](https://open.spotify.com/track/6hP89p82XQ860EjVXah1ak) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Aimless Love](https://open.spotify.com/album/2FQiaeXfljBO8PwmyjVmUK) | 3:29 | 2021-10-08 |  |

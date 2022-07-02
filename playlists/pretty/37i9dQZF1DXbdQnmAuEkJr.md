@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdQnmAuEkJr.md) - [plain]
 
 > Un viaje al país del amor a través de sus canciones más hermosas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,595 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,608 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdQnmAuEkJr.md) - [plain]
 | 21 | [Sous le ciel de Paris](https://open.spotify.com/track/2tSpxPGywYcnfanQIT30gs) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [C'est si bon + 49 succès de Yves Montand \(Chanson française\)](https://open.spotify.com/album/797ZZpUPBiTGrGBMIijxW6) | 2:57 |
 | 22 | [Quand j'aime une fois j'aime pour toujours](https://open.spotify.com/track/40PuSCcS6qI3J9iEJeP3od) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Desjardins](https://open.spotify.com/album/2VPoXJSzpdtKp5VTrds7XC) | 3:24 |
 | 23 | [Une autre histoire d'amour](https://open.spotify.com/track/1y472Lgq4XgGDPeKQQKsPQ) | [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE) | [Qu'en restera\-t\-il ?](https://open.spotify.com/album/0MlkTeAZHpHembBGF6ga55) | 4:12 |
-| 24 | [Les amants parallèles](https://open.spotify.com/track/4Gxptq1UR22gsacCxBqBtg) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [Les amants parallèles](https://open.spotify.com/album/1UfQSmht8aSAH9so8AHQ40) | 0:29 |
+| 24 | [Les amants parallèles](https://open.spotify.com/track/4Gxptq1UR22gsacCxBqBtg) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [Les amants parallèles](https://open.spotify.com/album/1UfQSmht8aSAH9so8AHQ40) | 1:40 |
 | 25 | [Sur la place](https://open.spotify.com/track/03mRhsuD2TvfQXl4viauxr) | [Dom La Nena](https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY), [Rosemary Standley](https://open.spotify.com/artist/57v02RSRJzcY5WiYQ5yPCl), [Birds on a Wire](https://open.spotify.com/artist/3GKGEnbmQnaTNGJL6ZGryj) | [Ramages](https://open.spotify.com/album/1dGlGS8JZBoT0kr8oWBTLM) | 4:21 |
 | 26 | [Quelque chose](https://open.spotify.com/track/45UVzUVdOmTXVkkaGp0eeG) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [quelque chose](https://open.spotify.com/album/3RrD5guMYGrFPfq73qG1qB) | 2:45 |
 | 27 | [Le petit guépard](https://open.spotify.com/track/7soGbFgMlGBOulL0pEb6GG) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Le petit guépard](https://open.spotify.com/album/1U2odX1aLIb1lFHblHeUPA) | 2:58 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdQnmAuEkJr.md) - [plain]
 | 37 | [J'ai Deux Amours](https://open.spotify.com/track/5zmRnxJCiY2kqrWd28bBnd) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Careless Love](https://open.spotify.com/album/5Abc3wXAy8U1f79eVn7AGd) | 2:54 |
 | 38 | [La solitude](https://open.spotify.com/track/4Ke4FgMzfb7zzmcJY1l6i7) | [Barbara](https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw) | [Ses 50 plus belles chansons](https://open.spotify.com/album/4FFhUpfg9YCiGXV7E9JOFQ) | 3:15 |
 | 39 | [Sur mes gardes](https://open.spotify.com/track/4YXbSriLJBo9FLj7u8fdgR) | [Joyce Jonathan](https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE), [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [Sur mes gardes](https://open.spotify.com/album/0y3UJX4V7LIBK4ofegzw2l) | 2:47 |
-| 40 | [Petite fleur](https://open.spotify.com/track/6Xy0TKhM0Ytjt65QuVEN67) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chansons](https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp) | 0:29 |
+| 40 | [Petite fleur](https://open.spotify.com/track/6Xy0TKhM0Ytjt65QuVEN67) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chansons](https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp) | 2:43 |
 | 41 | [C'est magnifique](https://open.spotify.com/track/2MHUcKjtFneRCpKeUN1eCN) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [Pourquoi tu pleures ? \(Musiques et chansons inspirées du film\)](https://open.spotify.com/album/4YZHmg5LPTX47UFkG3xIH5) | 2:38 |
 | 42 | [On va s'aimer encore](https://open.spotify.com/track/3rxHqfRwEgzGogEXZi8vRU) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Le monde tourne fort](https://open.spotify.com/album/3EOba5FWaiKDItcFsJUqBd) | 4:18 |
 | 43 | [Champs\-Elysées](https://open.spotify.com/track/0lxV7IydOdiJ6BKrkhtDhX) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Paris](https://open.spotify.com/album/7iXV74Ij5lEvt6Msi4e12z) | 2:55 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdQnmAuEkJr.md) - [plain]
 | 52 | [L'incendie](https://open.spotify.com/track/1QC8AImtZ23zVUeuWgW2Lc) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Best Of & Variations](https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh) | 3:09 |
 | 53 | [Ces mots simples](https://open.spotify.com/track/77tKWPApXR23eh2kBWrNPP) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Les sources](https://open.spotify.com/album/18bPsu30Mp6qJXOqTAIRb6) | 2:54 |
 | 54 | [Suis\-moi](https://open.spotify.com/track/6az5eEGgLdpQ08HxvgFsy9) | [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Le Petit Prince \(Bande originale du film\)](https://open.spotify.com/album/61xHE9mlaQK7Pn02Qr3Scy) | 3:26 |
-| 55 | [Que c'est triste Venise](https://open.spotify.com/track/5paHM9dgKmjUGy8n7HufaH) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Que c'est triste Venise \(Remastered 2014\)](https://open.spotify.com/album/0wcD2yLF9h3i41ryKQpgmK) | 0:29 |
+| 55 | [Que c'est triste Venise](https://open.spotify.com/track/5paHM9dgKmjUGy8n7HufaH) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Que c'est triste Venise \(Remastered 2014\)](https://open.spotify.com/album/0wcD2yLF9h3i41ryKQpgmK) | 2:37 |
 | 56 | [Le bonheur](https://open.spotify.com/track/4V540eGeHM6c2QrUjItLvI) | [Berry](https://open.spotify.com/artist/3lKHlBiM6NdmkAOvlpoTyp) | [Mademoiselle](https://open.spotify.com/album/0nJQlZ0PBl7U9NzoNW4lw4) | 3:17 |
 | 57 | [La fille d'Ipanema](https://open.spotify.com/track/54HjqZdYLyQTirAJTieAnx) | [Pauline Croze](https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1) | [Bossa Nova](https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf) | 2:26 |
 | 58 | [La petite vendeuse](https://open.spotify.com/track/6u97T4uPZPLKVStNy5qg8u) | [Bénabar](https://open.spotify.com/artist/6xoAWsIOZxJVPpo7Qvqaqv) | [Le Début de la suite](https://open.spotify.com/album/3lS0CjrHiEV6MGOO6UHWyw) | 2:36 |

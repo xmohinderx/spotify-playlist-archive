@@ -4,7 +4,7 @@
 
 > Classical compositions from Ravi Shankar and more.
 
-50 songs - 12 hr 51 min - [published](https://open.spotify.com/playlist/0OzLeNCd06oXDuQuswKVyQ)
+50 songs - 13 hr 6 min - [published](https://open.spotify.com/playlist/0OzLeNCd06oXDuQuswKVyQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Raga Jaijaiwanti](https://open.spotify.com/track/1aK6pe3rJ01koTZoSu96Mr) | [Ajoy Chakrabarty](https://open.spotify.com/artist/6Xg6qVSMnpyFFBf8mtuUrR) | [Swar Samrat](https://open.spotify.com/album/08VXTicjbQ0Y7E0V2WKaC4) | 27:13 | 2021-12-07 |  |
 | [Raga Jhinjhoti \- Raga Jhinjhoti \- Matta Taal](https://open.spotify.com/track/14qWVbLrLQFXML0qwc2tMY) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Anindo Chatterjee](https://open.spotify.com/artist/3DOkGwQFyRso8rJoz8d6ZL), [Roopak Kulkarni](https://open.spotify.com/artist/3SfF1bsY2KPVpfnYisOzo0) | [Celebrating the Legend \- Pt\. Hari Prasad Chaurasia](https://open.spotify.com/album/0xqt6Ag87RHcUuVQH6DbDt) | 14:45 | 2021-12-07 |  |
 | [Raga Kalavati \- Khayal](https://open.spotify.com/track/5jc5Dn3oIigJIOHKFGBRde) | [Parveen Sultana](https://open.spotify.com/artist/6icHDJ25LIt9b8hyW6Zm6e) | [Le Chant \- Khayal](https://open.spotify.com/album/4u4qaZ6CcnBKfpsmEdfugX) | 14:56 | 2021-12-07 |  |
-| [Raga Kamod \- Madhalaya Deepchandi Taal](https://open.spotify.com/track/1lNbSKhPB1vD1MfM8SwpFY) | [Rajan Mishra](https://open.spotify.com/artist/5ctgUVR3rh12mXvFckKVp9), [Sajan Mishra](https://open.spotify.com/artist/4s03GMsBoEBO7LnPhawd9p) | [Ahead of Time](https://open.spotify.com/album/3laPhQ11JQ7pU2gmn2WGt5) | 0:29 | 2021-12-07 |  |
+| [Raga Kamod \- Madhalaya Deepchandi Taal](https://open.spotify.com/track/1lNbSKhPB1vD1MfM8SwpFY) | [Rajan Mishra](https://open.spotify.com/artist/5ctgUVR3rh12mXvFckKVp9), [Sajan Mishra](https://open.spotify.com/artist/4s03GMsBoEBO7LnPhawd9p) | [Ahead of Time](https://open.spotify.com/album/3laPhQ11JQ7pU2gmn2WGt5) | 15:31 | 2021-12-07 |  |
 | [Raga khafi](https://open.spotify.com/track/5kTOAXrd7nPiNtbTeiCXXb) | [Lakshmi Shankar](https://open.spotify.com/artist/0pZFVzKAMV6GR6Z3aCVmxD) | [Inde du Nord \- North India: Season and Time / Les heures et les saisons](https://open.spotify.com/album/5bHrnrvTwxZmyeYvdLefkp) | 6:38 | 2021-12-07 |  |
 | [Raga Madhmad Sarang \(Khyal in madhya lay teental\)](https://open.spotify.com/track/5SotfPyX4aQ9ofdbG5HwCK) | [Veena Sahasrabuddhe](https://open.spotify.com/artist/5u1S4wqSqEH05Aup3Z1SuO), [Artist Unknown](https://open.spotify.com/artist/6gjAbs229sNHhSskJpQ2mG) | [Raga Madhmad Sarang & Bhajan \(Live\)](https://open.spotify.com/album/5QoRMuVHQLK5nNeFZJepjV) | 3:52 | 2021-12-07 |  |
 | [Raga Nata Bhairav \- Remastered](https://open.spotify.com/track/6zkhbkKJ6DFABNlXvLXAjU) | [Ravi Shankar](https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0) | [The Ravi Shankar Collection: A Morning Raga / An Evening Raga \(Remastered\)](https://open.spotify.com/album/4IvghF2Vq1j3nncz3GDkHx) | 23:18 | 2021-12-07 |  |

@@ -4,7 +4,7 @@
 
 > Los grandes éxitos de Daddy Yankee y Nicky Jam en un mismo lugar.
 
-50 songs - 2 hr 48 min - [published](https://open.spotify.com/playlist/2iNy939SfL8nLUv0oj5dNy)
+50 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/2iNy939SfL8nLUv0oj5dNy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Cheerleader \(feat\. Nicky Jam\) \- Felix Jaehn Remix](https://open.spotify.com/track/1mnPNAxWN8MvWYsjHWpnnc) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Cheerleader \(feat\. Nicky Jam\) \[Felix Jaehn Remix\]](https://open.spotify.com/album/78pYkzquJWs2tsEwIJ06fW) | 3:00 | 2021-12-09 |  |
 | [Con Calma](https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [Con Calma](https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh) | 3:13 | 2021-12-09 |  |
 | [Cuando Quieras \(feat\. Valentino\)](https://open.spotify.com/track/0iP84MjJ1KvnzxWa91Zsvt) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Valentino](https://open.spotify.com/artist/4GAS1OgXh8D5pEA6s6eBNW) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:47 | 2021-12-09 |  |
-| [Definitivamente](https://open.spotify.com/track/113PlnpZbHd3WIqeYjhZWv) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Definitivamente](https://open.spotify.com/album/6pJLqbnEE1gjMZ15dpi1cH) | 0:29 | 2021-12-09 |  |
+| [Definitivamente](https://open.spotify.com/track/113PlnpZbHd3WIqeYjhZWv) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Definitivamente](https://open.spotify.com/album/6pJLqbnEE1gjMZ15dpi1cH) | 3:37 | 2021-12-09 |  |
 | [Desahogo \(feat\. Carla Morrison\)](https://open.spotify.com/track/71oz9Wgbrm873aMlVBrDKR) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Desahogo \(feat\. Carla Morrison\)](https://open.spotify.com/album/2eJA1FwzgGFXNB1nhXnOJM) | 3:18 | 2021-12-09 |  |
 | [Descontrol](https://open.spotify.com/track/3FOh6ssnmv39CsoMYVUMZA) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Daddy Yankee Mundial](https://open.spotify.com/album/4MAUxicEf2ZyY569TJNBdk) | 2:52 | 2021-12-09 |  |
 | [Despacito \(Featuring Daddy Yankee\)](https://open.spotify.com/track/7CUYHcu0RnbOnMz4RuN07w) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Despacito \(Featuring Daddy Yankee\)](https://open.spotify.com/album/5qnvJbamuZLbsasuYKRy1l) | 3:48 | 2021-12-09 |  |
@@ -46,7 +46,7 @@
 | [Shaky Shaky](https://open.spotify.com/track/58IL315gMSTD37DOZPJ2hf) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Shaky Shaky](https://open.spotify.com/album/2zrLk90b4qjmrxRZKyIY7X) | 3:54 | 2021-12-09 |  |
 | [Si Supieras](https://open.spotify.com/track/7MRU4vOkywuhZ9kbFiPuiu) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Si Supieras](https://open.spotify.com/album/4lmKt00bHLEeqJRTlNOxXS) | 4:01 | 2021-12-09 |  |
 | [Si Tú No Estás](https://open.spotify.com/track/5BAmltzhQpFXtBddPN4sUf) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/5ytonwvl51xqB6BYnzX68U) | 3:38 | 2021-12-09 |  |
-| [Sígueme Y Te Sigo](https://open.spotify.com/track/1ClQpnPU9M6mQpXGvhGPvQ) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Sígueme Y Te Sigo](https://open.spotify.com/album/0VrKUe36H6KPKSe9Y1FL2w) | 0:29 | 2021-12-09 |  |
+| [Sígueme Y Te Sigo](https://open.spotify.com/track/1ClQpnPU9M6mQpXGvhGPvQ) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Sígueme Y Te Sigo](https://open.spotify.com/album/0VrKUe36H6KPKSe9Y1FL2w) | 3:29 | 2021-12-09 |  |
 | [Tanta Falta Remix](https://open.spotify.com/track/6GxEpbOvB4dXgRF2SLJliK) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Tanta Falta Remix](https://open.spotify.com/album/296ygxpV1TLiYxQqiMLrvu) | 3:01 | 2021-12-09 |  |
 | [Te Busco](https://open.spotify.com/track/2M2WWJE863upPYUrzCRjN6) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Te Busco](https://open.spotify.com/album/1rvF6y0pavyw1cJHeibSnE) | 3:53 | 2021-12-09 |  |
 | [Te Robaré](https://open.spotify.com/track/6v0lAdFF4haL8xjBIUjtOw) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Te Robaré](https://open.spotify.com/album/4ykGcrqJO8PcTePuNOFMxa) | 3:21 | 2021-12-09 |  |

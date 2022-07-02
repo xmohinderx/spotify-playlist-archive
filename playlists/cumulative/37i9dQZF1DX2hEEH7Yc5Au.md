@@ -4,7 +4,7 @@
 
 > 一起來支持女性音樂人的精采表現！Cover: 陳珊妮 \(Sandee Chan\)
 
-157 songs - 11 hr 8 min - [published](https://open.spotify.com/playlist/4b3PKrhJsbF0Qy4vbKHxEh)
+157 songs - 11 hr 13 min - [published](https://open.spotify.com/playlist/4b3PKrhJsbF0Qy4vbKHxEh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [愛到站了](https://open.spotify.com/track/3eX7Cvzho8yST58DhwMgNv) | [李千那](https://open.spotify.com/artist/0rOFGXlFK59NmUCHga8oZM) | [愛到站了](https://open.spotify.com/album/3ZDvcq25rw1tGzChPSco4F) | 3:41 | 2022-01-04 | 2022-06-01 |
 | [愛笑的眼睛](https://open.spotify.com/track/5PdaH8kmqd6mg3VPpvbSgw) | [Vivian Hsu](https://open.spotify.com/artist/6cP65fCRmCJQejKYSnVb47) | [狠狠愛](https://open.spotify.com/album/277r5OAelCOkmfOiM7jFpM) | 4:30 | 2022-03-07 | 2022-05-04 |
 | [慶祝](https://open.spotify.com/track/1PLpbxdsXDgkVteS5lSwUk) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [遇上愛](https://open.spotify.com/album/50xBfOCnFW58MOYmxljZiJ) | 3:59 | 2022-05-31 |  |
-| [懸日](https://open.spotify.com/track/6zbBfKc4ghXAGtzuXAQptf) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju) | 0:29 | 2022-02-01 |  |
+| [懸日](https://open.spotify.com/track/6zbBfKc4ghXAGtzuXAQptf) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju) | 4:37 | 2022-02-01 |  |
 | [成全](https://open.spotify.com/track/34GSbu5gyOvcRYb8H06hZC) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX) | [年華](https://open.spotify.com/album/5MTWp9gLM678D3yq3pboBG) | 4:36 | 2022-05-31 |  |
 | [我不想忘記你](https://open.spotify.com/track/6sNXFtBPUvyFWEjSZhEwbd) | [Claire Kuo](https://open.spotify.com/artist/6OiFtK426XJWnOJ2HYlSbf) | [我不想忘記你](https://open.spotify.com/album/7o2ROGhw8sJxshtIRuO29U) | 4:05 | 2022-01-04 |  |
 | [我不知道愛是什麼](https://open.spotify.com/track/5YAiIE4ZGVFdK3LexsFej6) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [大人情歌](https://open.spotify.com/album/4E1Crsnlt8CMlbSd0BoEBh) | 4:54 | 2022-02-01 | 2022-06-01 |

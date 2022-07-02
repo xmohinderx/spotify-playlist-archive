@@ -4,7 +4,7 @@
 
 > Every Monbebe's HERO.
 
-119 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/6vpFFxpgEbjdsljT6vUDSQ)
+119 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/6vpFFxpgEbjdsljT6vUDSQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Oi](https://open.spotify.com/track/0zwI1aFLA85Ux0wM9vZjjY) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.2.5 \[BEAUTIFUL\]](https://open.spotify.com/album/2QCHpaj2zkIhrghESZwPui) | 3:11 | 2021-12-09 |  |
 | [One Day](https://open.spotify.com/track/3VwhJRJyoaGiEAAzR0WyhI) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [One Day](https://open.spotify.com/album/5yGros4T4Mwwd1dE8UWpvZ) | 2:26 | 2021-12-09 |  |
 | [Party Time](https://open.spotify.com/track/2t9tdvke67nevmj0sGMqF0) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Take.2 We Are Here.](https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM) | 3:10 | 2021-12-09 |  |
-| [Perfect Girl](https://open.spotify.com/track/21ywLifMY5LlvVn1lbnLhT) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [RUSH DIGITAL REPACKAGE “HERO”](https://open.spotify.com/album/0rsnG5TJ9jv9XuLgri1E77) | 0:29 | 2021-12-09 |  |
+| [Perfect Girl](https://open.spotify.com/track/21ywLifMY5LlvVn1lbnLhT) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [RUSH DIGITAL REPACKAGE “HERO”](https://open.spotify.com/album/0rsnG5TJ9jv9XuLgri1E77) | 3:39 | 2021-12-09 |  |
 | [Play It Cool](https://open.spotify.com/track/0gxkqxGiLg1ylKzgToCcHY) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Take.2 We Are Here.](https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM) | 3:06 | 2021-12-09 |  |
 | [Play It Cool](https://open.spotify.com/track/3WE4GE18Yq8s3Z7uV743I4) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Play It Cool](https://open.spotify.com/album/28WUoBcwY0V5acKZhnzakN) | 2:49 | 2021-12-09 |  |
 | [Queen](https://open.spotify.com/track/6RikqnZEtACiF2w12v0u51) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.2 <GUILTY>](https://open.spotify.com/album/2aYSiytcrXyVj6ADo6Z7Cl) | 3:12 | 2021-12-09 |  |

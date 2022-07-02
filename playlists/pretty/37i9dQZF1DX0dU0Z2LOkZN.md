@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 
 > Beats inspired by the golden era of hip hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,954 likes - 132 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,994 likes - 132 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 43 | [A Day's Work](https://open.spotify.com/track/0NU5gSlW7uQ4TA7x3Do4YC) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Neighbourhood](https://open.spotify.com/album/1HviRq9nPOlBT2d4EPB6Cj) | 3:15 |
 | 44 | [Lost World](https://open.spotify.com/track/5up5Dz71Pju2BhK6NffTg8) | [Avatron](https://open.spotify.com/artist/0c1cREViIuF4oj5BtpHo6t) | [Lost World](https://open.spotify.com/album/5Ep9azVs5xJpLVANGBaH6b) | 2:40 |
 | 45 | [Supercolor](https://open.spotify.com/track/2LzPtYMEj4S44yoBVU7ccu) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Supercolor](https://open.spotify.com/album/1d54tv1raeAGShTBVKmxNu) | 1:48 |
-| 46 | [Out of Control](https://open.spotify.com/track/4WJoNiRZ35DDsQINC2GXxd) | [Sepalot](https://open.spotify.com/artist/3sZWrl2jYnPP1vw9cIqDZV) | [Break Again](https://open.spotify.com/album/1yL7GuPfFfhM1764j3dB6s) | 0:29 |
+| 46 | [Out of Control](https://open.spotify.com/track/4WJoNiRZ35DDsQINC2GXxd) | [Sepalot](https://open.spotify.com/artist/3sZWrl2jYnPP1vw9cIqDZV) | [Break Again](https://open.spotify.com/album/1yL7GuPfFfhM1764j3dB6s) | 1:48 |
 | 47 | [Sunshine](https://open.spotify.com/track/5flCtFDMbtxnbc33pekd92) | [RLLBTS](https://open.spotify.com/artist/0gpz8rdbGxZSfiFMO15fRA), [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy) | [Sunshine](https://open.spotify.com/album/5UWKVYrWjt1MrnUrQehaZ4) | 2:12 |
 | 48 | [Caminos](https://open.spotify.com/track/6908A1nEezSYjpplzdfs2z) | [Rio Nilo](https://open.spotify.com/artist/4iS1CcjF3gNKPHrvNIoPLn) | [Caminos](https://open.spotify.com/album/1pe8XllgZslSzHlK4QgA3n) | 2:18 |
 | 49 | [MidnightBlue](https://open.spotify.com/track/4E60U6cA2viUVDFK66QYwi) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [MidnightBlue](https://open.spotify.com/album/0KVB3GRu9vFgVzHYZydCuC) | 3:03 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 68 | [Renegades](https://open.spotify.com/track/2aW6bhzUQ53imrld5G8VKY) | [Sleepy Tigers](https://open.spotify.com/artist/1DK5TN3sWOFCRHTQYODjpH) | [Renegades](https://open.spotify.com/album/7gbhY8Cdb3HLvTsoT5EgPc) | 2:58 |
 | 69 | [The Post](https://open.spotify.com/track/5qAMzYboDI67hvcB5MSXNz) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Highway Robbery](https://open.spotify.com/album/6Vf6C3rTyuIYE8BGKbaKKz) | 2:10 |
 | 70 | [Streuende Hunde](https://open.spotify.com/track/1XDqCTvcNdBlTInzddQ568) | [FLAME](https://open.spotify.com/artist/51p6dDt2ZdCX994xyeXdzu), [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Streuende Hunde](https://open.spotify.com/album/4jnXu57WLZneXtBmdtRtUv) | 4:09 |
-| 71 | [Queens](https://open.spotify.com/track/7uVJflRdFQdUOiZiUVLSYJ) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Overnight Oats](https://open.spotify.com/album/2NJsKmG09F4z4dz9XEHN9f) | 0:29 |
+| 71 | [Queens](https://open.spotify.com/track/7uVJflRdFQdUOiZiUVLSYJ) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Overnight Oats](https://open.spotify.com/album/2NJsKmG09F4z4dz9XEHN9f) | 2:27 |
 | 72 | [Authentic](https://open.spotify.com/track/6ibi48DPWz04U2lTWp3G8o) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Soul City](https://open.spotify.com/album/0d5CHBsRYdHel2EiaFkk5p) | 1:23 |
 | 73 | [Goodies](https://open.spotify.com/track/034s5MPRbS4Ii8lpZoWNY2) | [Psychedelicatessen](https://open.spotify.com/artist/1Aqsr5edFoWGrBBjdKvUk9) | [Goodies](https://open.spotify.com/album/1tRfhMX6FsiPaBgKoAndBt) | 1:24 |
 | 74 | [Keeping it Simple](https://open.spotify.com/track/2EroBxY4W8upCJjPw1BLgy) | [ps\-www](https://open.spotify.com/artist/6XVRxs1WvIk0T0h3pdhCyp) | [Keeping it Simple](https://open.spotify.com/album/4Ha7Uno2UwquGMGMoiy70r) | 2:38 |

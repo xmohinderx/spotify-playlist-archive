@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5qVqzAenJiKLfRny06XQf0.md) - [plain]
 
 > Help the band set\-up and get ready for the best live performances from your favorite artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,988 likes - 100 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,988 likes - 100 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/5qVqzAenJiKLfRny06XQf0.md) - [plain]
 | 22 | [My Kind Of Love \- Live From Spotify NYC, USA/2012](https://open.spotify.com/track/0HL5quLMoSE3uWA12wnhsY) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Spotify Sessions \- Live From Spotify NYC, USA/2012](https://open.spotify.com/album/23NSEnpwoyErSZ3FXXPx4N) | 3:59 |
 | 23 | [Fireflies \- Live From Spotify NYC](https://open.spotify.com/track/1KqpIQGNINpG0hDdbB9Pif) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Spotify Sessions](https://open.spotify.com/album/4CBXCmYz1Rc5MAN6aAwjZy) | 4:53 |
 | 24 | [Fall \- Live](https://open.spotify.com/track/3OXesBdYcfKqUUgCzNH5Lg) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Believe Acoustic](https://open.spotify.com/album/1RMfz6rbIyrQYChfcCoiJ4) | 3:40 |
-| 25 | [Amen \- Live From Spotify NYC](https://open.spotify.com/track/63GnRsA54dnZ49zNrLdjAS) | [Edens Edge](https://open.spotify.com/artist/6KAwb5D0KanI575XxOucMt) | [Spotify Sessions](https://open.spotify.com/album/4DveGLVEnhWSMhhPgrYLOT) | 0:29 |
+| 25 | [Amen \- Live From Spotify NYC](https://open.spotify.com/track/63GnRsA54dnZ49zNrLdjAS) | [Edens Edge](https://open.spotify.com/artist/6KAwb5D0KanI575XxOucMt) | [Spotify Sessions](https://open.spotify.com/album/4DveGLVEnhWSMhhPgrYLOT) | 4:26 |
 | 26 | [Petition \- Spotify Sessions Curated by Jim Eno](https://open.spotify.com/track/3J8QBKBSJYyHhCqOBWywN2) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Spotify Sessions \(Curated by Jim Eno\)](https://open.spotify.com/album/4OF1mpaf1cWMhQgXVDLSP6) | 3:16 |
 | 27 | [Happy Be Fine \- Spotify Sessions Curated by Jim Eno](https://open.spotify.com/track/5EU5KvsAm7G5TXtIre68YT) | [POLIÇA](https://open.spotify.com/artist/34vLhockmYhf3LgznwyNaQ) | [Spotify Sessions – Curated by Jim Eno](https://open.spotify.com/album/4JK2eOuMFI3qDZaBAj8Koy) | 5:41 |
 | 28 | [Fire Escape \(Spotify Sessions\)](https://open.spotify.com/track/0IjDzZSUt3ClMtDYdySvyu) | [Civil Twilight](https://open.spotify.com/artist/6i4aN0I3l7uldsLTjbZOF8) | [Spotify Sessions](https://open.spotify.com/album/0JmE7RRGDsb96KjgUmnCXW) | 4:16 |

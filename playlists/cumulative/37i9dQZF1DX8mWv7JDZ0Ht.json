@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Sucessos e novidades do pop calminho pra relaxar o seu dia! Foto: Clarissa, Diogo Pi\u00e7arra",
+  "description": "Sucessos e novidades do pop calminho pra relaxar o seu dia! Foto: Zeeba, Mariana Nolasco",
   "name": "Pop Leve",
   "published_playlist_ids": [
     "5tkcffSh1F75PZZSEVmuv8"
@@ -232,7 +232,7 @@
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 201452,
       "name": "Amarelo, azul e branco",
       "url": "https://open.spotify.com/track/2LOIoeI16A8jjKubPKoCSa"
     },
@@ -529,7 +529,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 197617,
       "name": "Ceder",
       "url": "https://open.spotify.com/track/6kTqxXfCTgWMWWrMlpBGFm"
@@ -1732,6 +1732,24 @@
     },
     {
       "album": {
+        "name": "Que Fase",
+        "url": "https://open.spotify.com/album/2IIbtH3HSK9ZySaSApVyZR"
+      },
+      "artists": [
+        {
+          "name": "Ceci Reis",
+          "url": "https://open.spotify.com/artist/0dTOkpG8p4ZwjCA28HprBf"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134634,
+      "name": "Que Fase",
+      "url": "https://open.spotify.com/track/5pANifhuNQKbBK7KNvJ509"
+    },
+    {
+      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/7hpBRdQRQhqPs4kItbAAy5"
       },
@@ -1743,7 +1761,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 171989,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/7nkqdCmYskYjTElzcB7RsP"
@@ -1833,7 +1851,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 170794,
       "name": "Solar",
       "url": "https://open.spotify.com/track/227o8XANiHlNdAQC4UTpJK"
@@ -1899,6 +1917,32 @@
       "duration_ms": 174267,
       "name": "Teu C\u00e9u",
       "url": "https://open.spotify.com/track/5WexHsvZI4jPk1cyLtjWVr"
+    },
+    {
+      "album": {
+        "name": "Teu sim, mas n\u00e3o. (feat. Mariana Nolasco & Pedro Calais)",
+        "url": "https://open.spotify.com/album/6PZyMzlh4wTtUqO0NJzlUv"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        },
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        },
+        {
+          "name": "Pedro Calais",
+          "url": "https://open.spotify.com/artist/5txRGZfNQ81RUk5G90Iqez"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201720,
+      "name": "Teu Sim, Mas N\u00e3o. (feat. Mariana Nolasco & Pedro Calais)",
+      "url": "https://open.spotify.com/track/2ySHbwdxA32udzny7hlULo"
     },
     {
       "album": {
@@ -2181,6 +2225,24 @@
       "duration_ms": 226243,
       "name": "X",
       "url": "https://open.spotify.com/track/6W8LexF36gzcCMHOYVUH3M"
+    },
+    {
+      "album": {
+        "name": "Xod\u00f3",
+        "url": "https://open.spotify.com/album/4ytS3bELXWGYJrQpr8LBA7"
+      },
+      "artists": [
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144600,
+      "name": "Xod\u00f3",
+      "url": "https://open.spotify.com/track/22Wxpf3RUrgvQkP6RifxHa"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8mWv7JDZ0Ht"

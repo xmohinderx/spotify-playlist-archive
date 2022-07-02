@@ -4,7 +4,7 @@
 
 > DJ Minx co\-curates a list of the very best songs from LGBTQQIA+ artists and allies Motor City has to offer!
 
-36 songs - 3 hr 21 min - [published](https://open.spotify.com/playlist/623AC8Z1fYMYt9K4uN3qss)
+36 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/623AC8Z1fYMYt9K4uN3qss)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Walk In The Park \(Stay\)](https://open.spotify.com/track/6xYb2zqXFbcDfy9TMxfRO8) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B) | [Violet Groove E.P.](https://open.spotify.com/album/7yO99oqltTRlNvJOiE9tmF) | 6:39 | 2021-06-01 |  |
 | [Aquatics](https://open.spotify.com/track/4NHAZBCDM5NKzDRQzHZ1cU) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [Hot Steel](https://open.spotify.com/album/2BOiRMDwV5RbOHg7BiDxVJ) | 7:04 | 2021-06-01 |  |
 | [Astro Funk](https://open.spotify.com/track/7wRzUAw0Npu4CalkDIFHJE) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Astro Funk](https://open.spotify.com/album/7CwvlQ2z7T2OG4BQ7rBXnF) | 3:15 | 2021-06-01 |  |
-| [Ay](https://open.spotify.com/track/39NNj1NpNbyWprxgszBDyu) | [Alex Wilcox](https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu) | [Because the Sky Is Blue](https://open.spotify.com/album/4O4Vws2zUcnrmNVKLENVnp) | 0:29 | 2021-06-01 |  |
+| [Ay](https://open.spotify.com/track/39NNj1NpNbyWprxgszBDyu) | [Alex Wilcox](https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu) | [Because the Sky Is Blue](https://open.spotify.com/album/4O4Vws2zUcnrmNVKLENVnp) | 2:45 | 2021-06-01 |  |
 | [Change \- Mike Huckaby Remix](https://open.spotify.com/track/2U4YIbj1pXgVH2Rlg5zKyZ) | [Norm Talley](https://open.spotify.com/artist/5J1fwxvTRxviCqCPwd4Lv5), [Mike Huckaby](https://open.spotify.com/artist/7oGwEiATTm4u71R2lQhbC4) | [Detroit Beatdown Remixes 1: 1](https://open.spotify.com/album/0YRgHIIdg3vXqptEx7j0GD) | 6:55 | 2021-06-01 |  |
 | [Do It All Night \(C2 Edit\) \- Mixed](https://open.spotify.com/track/2lkBQbjgJJGHhljZbim5rU) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B), [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [Detroit Love Vol\. 2 \(DJ Mix\)](https://open.spotify.com/album/3G96swfKatQvIVo4Fn6BcE) | 5:39 | 2021-06-01 |  |
 | [Do It All Night \- C2 Edit](https://open.spotify.com/track/7kKgTIzKvgg6Yk7PrLejkw) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B), [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [Do It All Night \(C2 Edit\)](https://open.spotify.com/album/1T5UWJ4jxfotonVwSeJiUF) | 7:47 | 2021-06-01 |  |
@@ -37,12 +37,12 @@
 | [Queen Deep Inna Dub \- Original Mix](https://open.spotify.com/track/0WjS45CeYUrxaGADjaWeKx) | [Pirahnahead](https://open.spotify.com/artist/5K3U3kI5XtFGUsI4FNC2GJ), [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B) | [Stephane Pompougnac Sunset Sessions](https://open.spotify.com/album/7og4gC5sOI0dhhCdCwMOst) | 5:56 | 2021-06-01 |  |
 | [Silent Answer](https://open.spotify.com/track/1AcmqZbLL9oMpt9WMOxFen) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G), [Kelli Hand](https://open.spotify.com/artist/3j1MZUS4DJ06zntdti6VmY) | [Silent Answer](https://open.spotify.com/album/1oqC6Rb3exTZ9QKHkyJ268) | 11:47 | 2021-06-01 |  |
 | [Tears](https://open.spotify.com/track/2zbQbQe1EBEu5j1bkDhuwg) | [Aaron Carl](https://open.spotify.com/artist/7fHzaEzwDv2zfpVqrkama2) | [Detrevolution](https://open.spotify.com/album/6Z3hO5ommQLzYZQaLNke0u) | 4:20 | 2021-06-01 |  |
-| [The Attic](https://open.spotify.com/track/1Kecp9T2NZfkVEyLE5PW3D) | [Alex Wilcox](https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu) | [Because the Sky Is Blue](https://open.spotify.com/album/4O4Vws2zUcnrmNVKLENVnp) | 0:29 | 2021-06-01 |  |
+| [The Attic](https://open.spotify.com/track/1Kecp9T2NZfkVEyLE5PW3D) | [Alex Wilcox](https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu) | [Because the Sky Is Blue](https://open.spotify.com/album/4O4Vws2zUcnrmNVKLENVnp) | 4:14 | 2021-06-01 |  |
 | [The Color of Love \- Reese Deep Mix](https://open.spotify.com/track/1Qg29ZSo2roSr6ghY08jhn) | [The Reese Project](https://open.spotify.com/artist/0BshoWL6YCwwdSTLXETd6d) | [Faith, Hope & Clarity](https://open.spotify.com/album/1kPIn4PuSmvGDsXDCxVDB7) | 5:46 | 2021-06-01 |  |
 | [The Journey](https://open.spotify.com/track/6aMUUomgp66X5dVQtHeYgI) | [Norm Talley](https://open.spotify.com/artist/5J1fwxvTRxviCqCPwd4Lv5) | [The Journey / In Yo Soul](https://open.spotify.com/album/7dG9NDvXvrXxmVhUZeTBaJ) | 10:02 | 2021-06-01 |  |
 | [The Melody \- Henrik Schwarz Remix](https://open.spotify.com/track/3Jv1kO1e4IDsNye3BRycbi) | [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU), [Francesco Tristano](https://open.spotify.com/artist/19CMctG8DNWO0rHPE98ujj), [Les Siècles](https://open.spotify.com/artist/1ncGbUNumu1kLQDLfI5Hds), [François\-Xavier Roth](https://open.spotify.com/artist/01MlLLNqc0Dp9jS04Rm6gp), [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R) | [Versus Remixes, Vol\. 2](https://open.spotify.com/album/3QSpCjrcGboCIL5NSUSr1D) | 7:41 | 2021-06-01 |  |
 | [Universal Spirit](https://open.spotify.com/track/1R2hTEBTytxLWu7y5FZHSk) | [DJ Cent](https://open.spotify.com/artist/1vhLCCl1TwQiEEH6PAI4x1) | [Charivari and Expressway Records Presents a FRESH Compilation](https://open.spotify.com/album/69eSCrCCBr8u13iEvaRoSl) | 6:12 | 2021-06-01 |  |
-| [WhoRU \- Mixed](https://open.spotify.com/track/5o7cILDzpjszzXa2UmdmHY) | [LADYMONIX](https://open.spotify.com/artist/2L20FlBvHKIMNeMFhtrwjO) | [Detroit Love Vol\. 3 \- Mixed by Waajeed](https://open.spotify.com/album/2QBGXNoeavFATtvSDVTmxu) | 0:29 | 2021-06-01 |  |
+| [WhoRU \- Mixed](https://open.spotify.com/track/5o7cILDzpjszzXa2UmdmHY) | [LADYMONIX](https://open.spotify.com/artist/2L20FlBvHKIMNeMFhtrwjO) | [Detroit Love Vol\. 3 \- Mixed by Waajeed](https://open.spotify.com/album/2QBGXNoeavFATtvSDVTmxu) | 3:43 | 2021-06-01 |  |
 | [You Know How I Feel \- Vocal Mix](https://open.spotify.com/track/5iaeFgNZSHZ3Pj8ffUAHzo) | [Mike Agent X Clark](https://open.spotify.com/artist/2khZmUiKOYCIIjniMfair6), [Kimberly Wright](https://open.spotify.com/artist/1N8htkn6vMaMvHSDOSc8Kr) | [You Know How I Feel](https://open.spotify.com/album/3ufZMyvDLa2BXOIwH23Wuy) | 10:38 | 2021-06-01 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

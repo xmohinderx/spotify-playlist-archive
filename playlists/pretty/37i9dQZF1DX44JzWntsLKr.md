@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44JzWntsLKr.md) - [plain]
 
 > Every Monbebe's HERO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,768 likes - 119 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,834 likes - 119 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44JzWntsLKr.md) - [plain]
 | 106 | [Roller Coaster](https://open.spotify.com/track/7MtWhRqyWn0rveoFCrn7xu) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.2 <GUILTY>](https://open.spotify.com/album/2aYSiytcrXyVj6ADo6Z7Cl) | 3:16 |
 | 107 | [Calm Down](https://open.spotify.com/track/6rYoO4mP8czbTTyOz4BAzm) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [SHINE FOREVER](https://open.spotify.com/album/3rrZlvTQ6Bxvz7Kzxjkagj) | 3:06 |
 | 108 | [White Love](https://open.spotify.com/track/0OQasRxkPfUzBhkyu7q1xz) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.2 <GUILTY>](https://open.spotify.com/album/2aYSiytcrXyVj6ADo6Z7Cl) | 3:50 |
-| 109 | [Perfect Girl](https://open.spotify.com/track/21ywLifMY5LlvVn1lbnLhT) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [RUSH DIGITAL REPACKAGE “HERO”](https://open.spotify.com/album/0rsnG5TJ9jv9XuLgri1E77) | 0:29 |
+| 109 | [Perfect Girl](https://open.spotify.com/track/21ywLifMY5LlvVn1lbnLhT) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [RUSH DIGITAL REPACKAGE “HERO”](https://open.spotify.com/album/0rsnG5TJ9jv9XuLgri1E77) | 3:39 |
 | 110 | [Sweetheart](https://open.spotify.com/track/1PM3hV7cOPE3cbq34UXxbE) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [The Clan Pt\. 1 <LOST>](https://open.spotify.com/album/54JAEnkFl5ocPIx7aEInXK) | 3:15 |
 | 111 | [Now or Never](https://open.spotify.com/track/5trVbkxq7o5UtqHWVTu5ro) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CODE](https://open.spotify.com/album/4NJpBKY4XJbRLAsbbeIzyJ) | 3:11 |
 | 112 | [Miss You](https://open.spotify.com/track/3TYvJKmqwPmFvVONerbnlg) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.2.5 \[BEAUTIFUL\]](https://open.spotify.com/album/2QCHpaj2zkIhrghESZwPui) | 3:18 |

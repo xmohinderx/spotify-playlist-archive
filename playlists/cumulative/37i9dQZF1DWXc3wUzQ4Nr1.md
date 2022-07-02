@@ -4,7 +4,7 @@
 
 > Global superstar DJ <a href="spotify:artist:5ChF3i92IPZHduM7jN3dpg">Nicky Romero</a> takes us to the main stage with his uplifting mix.
 
-19 songs - 58 min 23 sec - [published](https://open.spotify.com/playlist/3a9nN7CZ0VD3TfZyglB3Pz)
+19 songs - 1 hr 0 min - [published](https://open.spotify.com/playlist/3a9nN7CZ0VD3TfZyglB3Pz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Losing Control \- Extended Mix \- Mixed](https://open.spotify.com/track/66Er4kkVZWLpa7H7lwqoRA) | [Low Blow](https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ) | [Losing Control \- Extended Mix \(Mixed\)](https://open.spotify.com/album/2hAJK4bOJeHiVl0rZPGmd3) | 3:12 | 2021-12-17 |  |
 | [Love You Forever \- Extended Mix \- Mixed](https://open.spotify.com/track/2S6i7iokdVds1kXN3iHnb4) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH), [Sam Martin](https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK) | [Love You Forever \- Extended Mix \(Mixed\)](https://open.spotify.com/album/5TpwRDFUNQpHaAkYYFoEFf) | 3:40 | 2021-12-17 |  |
 | [Okay \- Extended Mix \- Mixed](https://open.spotify.com/track/6dlc4NCqdatFHQqCQJ4L27) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [MARF](https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7), [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [Okay \- Extended Mix \(Mixed\)](https://open.spotify.com/album/4roxuNLH6CeIK2bRDaKeKn) | 2:45 | 2021-12-17 |  |
-| [Slumped \- Extended Mix \- Mixed](https://open.spotify.com/track/3OYqUGv4pW3p5blStKOQlh) | [Din & Vic](https://open.spotify.com/artist/6aBFmG3P8qP94uilPUwYBk) | [Slumped \- Extended Mix \(Mixed\)](https://open.spotify.com/album/1I0KLAQs4rCO2fPzjnuUCK) | 0:29 | 2021-12-17 |  |
+| [Slumped \- Extended Mix \- Mixed](https://open.spotify.com/track/3OYqUGv4pW3p5blStKOQlh) | [Din & Vic](https://open.spotify.com/artist/6aBFmG3P8qP94uilPUwYBk) | [Slumped \- Extended Mix \(Mixed\)](https://open.spotify.com/album/1I0KLAQs4rCO2fPzjnuUCK) | 2:32 | 2021-12-17 |  |
 | [Talkin' About \- Extended Mix \- Mixed](https://open.spotify.com/track/19v5CwTT0yoJ5ets5E1vd1) | [CAMARDA](https://open.spotify.com/artist/09vy0H2lHwtBHCdzuFpDZN), [Whispers](https://open.spotify.com/artist/20CDUTkeimUuCordyA7SXq) | [Talkin' About \- Extended Mix \(Mixed\)](https://open.spotify.com/album/6xtyJL7aYqIXcdvrEYZ7BF) | 2:19 | 2021-12-17 |  |
 | [The Afterlife \- Extended Mix \- Mixed](https://open.spotify.com/track/6cIQ2AfkglvS1nhKfh0vFN) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [Timmo Hendriks](https://open.spotify.com/artist/7rNPTious4qaZVcKH3cmX3), [LUX](https://open.spotify.com/artist/1xNeaOaf8khvhnxCU4TWcJ) | [The Afterlife \- Extended Mix \(Mixed\)](https://open.spotify.com/album/7cyT2ZbzE6lZUTIqn0IUSj) | 2:45 | 2021-12-17 |  |
 | [Turn Back Time \- Mixed](https://open.spotify.com/track/0sv0ZIVZ3xJdLLW7LRUHQI) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [Turn Back Time \(Mixed\)](https://open.spotify.com/album/67c73VotVa5vnNnA1lTpJr) | 3:11 | 2021-12-17 |  |

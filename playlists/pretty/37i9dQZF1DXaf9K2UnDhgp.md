@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 
 > Riffing around the Christmas tree\. Cover: My Chemical Romance
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,592 likes - 110 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,583 likes - 110 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 | 10 | [Happy X\-Mas \(War Is Over\) \- Holiday Version](https://open.spotify.com/track/4RT2cdLuHfobI0JdqW7V1W) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Happy X\-Mas \(War Is Over\)](https://open.spotify.com/album/5b6FxRtl50vw0aIxiTT1eN) | 3:34 |
 | 11 | [Christmas Treat](https://open.spotify.com/track/4Ie4u5mxn53KoPuEn928Gr) | [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Phrazes For The Young](https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3) | 3:11 |
 | 12 | [Christmas Time \(Is Here Again\)](https://open.spotify.com/track/2jNdOB7P8haPjgvPoYBzkY) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Christmas Time \(Is Here Again\)](https://open.spotify.com/album/0HB7Iia18Csd34x85Apsnb) | 3:56 |
-| 13 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/5JBRAkR2DS1rsUQgxcj23t) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [A Very Special Christmas 25th Anniversary](https://open.spotify.com/album/2eMfhq6WQXRARD6wvjWgBw) | 0:29 |
+| 13 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/5JBRAkR2DS1rsUQgxcj23t) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [A Very Special Christmas 25th Anniversary](https://open.spotify.com/album/2eMfhq6WQXRARD6wvjWgBw) | 2:19 |
 | 14 | [12 Days of Christmas](https://open.spotify.com/track/5vVrDSIrZm3CpCTVBlKyrT) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Let It Snow Baby...Let It Reindeer](https://open.spotify.com/album/3ZH2C93zp7IX6WC8rH8W1z) | 3:33 |
 | 15 | [Christmas All Over Again](https://open.spotify.com/track/30SNjazZhzunhAWCjhdyyD) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [A Very Special Christmas 2](https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM) | 4:14 |
 | 16 | [Back Door Santa](https://open.spotify.com/track/2WhXgMG0rkNekIB98RHfEM) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Back Door Santa](https://open.spotify.com/album/0ZBgME8B93wdLfeR9mVInX) | 2:26 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 | 42 | [Hey Guys! It's Christmas Time!](https://open.spotify.com/track/2QEBPtzK7dnGn7kHf2wvKk) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/6ZCbYO3B5eslkY3zHdss4A) | 4:41 |
 | 43 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/4MT3U8IqKyw2lFh0mcvQGJ) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/2GRbDYDYPVQyXZ2Vg9037w) | 2:37 |
 | 44 | [We Wish You a Merry Christmas](https://open.spotify.com/track/5XAQVsXvdN8Kk0U9b2soBm) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Let It Snow Baby...Let It Reindeer](https://open.spotify.com/album/3ZH2C93zp7IX6WC8rH8W1z) | 2:12 |
-| 45 | [My Only Wish](https://open.spotify.com/track/2b53tTiN4ooFESadfs34pf) | [BEGINNERS](https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3) | [A BEGINNERS Guide to Christmas](https://open.spotify.com/album/7r2MCSBcbVk5JytEts0Ju6) | 0:29 |
+| 45 | [My Only Wish](https://open.spotify.com/track/2b53tTiN4ooFESadfs34pf) | [BEGINNERS](https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3) | [A BEGINNERS Guide to Christmas](https://open.spotify.com/album/7r2MCSBcbVk5JytEts0Ju6) | 2:39 |
 | 46 | [X\-mas Has Been X'ed](https://open.spotify.com/track/36xdZ8BJLBHs3dXpeSwg2x) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Self Entitled](https://open.spotify.com/album/0JjybJOVXNKD7qyD5CRU2n) | 2:43 |
 | 47 | [Father Christmas](https://open.spotify.com/track/5L8JAy13dLqNeJE6M2bAQr) | [The Unlikely Candidates](https://open.spotify.com/artist/4hwJwkgsufeilLXS1ZfJqq) | [Father Christmas](https://open.spotify.com/album/3cJPXPWAnO3dyBwoMDyuHU) | 3:22 |
 | 48 | [Punk Drunk Xmas Eve](https://open.spotify.com/track/2qehYqdFJzaQW2JUiB9rmY) | [Holy Moly & The Crackers](https://open.spotify.com/artist/73Y01xwhmpeq2qq9KLaRFZ) | [Punk Drunk Xmas Eve](https://open.spotify.com/album/34FREYNUq7gysynezeaBpe) | 3:33 |
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 | 80 | [Merry Christmas \(I Don't Wanna Fight Tonight\)](https://open.spotify.com/track/1of1EfpZJdkET1UxEJxvuB) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Merry Flippin' Christmas Vol\. 1 and 2](https://open.spotify.com/album/6tGUcaUMbNomtYJrYNLlmj) | 2:11 |
 | 81 | [The Stocking Song](https://open.spotify.com/track/7GpEcFqMxKPyO1jV0M86RD) | [Steel Panther](https://open.spotify.com/artist/3l02WF362j1oHOurzuseBv) | [The Stocking Song](https://open.spotify.com/album/1nqRLsrAFoNC55NjVC8bQJ) | 2:18 |
 | 82 | [Making Christmas](https://open.spotify.com/track/0m1CYy1kamZJZqHvuRG7Dh) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Long Forgotten Songs: B\-Sides & Covers 2000\-2013](https://open.spotify.com/album/0Wt4mctiLJvZUhL7OPMfwd) | 3:27 |
-| 83 | [Thank God It's Christmas \- 2011 Remaster](https://open.spotify.com/track/341h4Vfj9HJMm2tNDX3ARw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Platinum Collection \(2011 Remaster\)](https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8) | 0:29 |
+| 83 | [Thank God It's Christmas \- 2011 Remaster](https://open.spotify.com/track/341h4Vfj9HJMm2tNDX3ARw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Platinum Collection \(2011 Remaster\)](https://open.spotify.com/album/6M0LuPNTm4aYOxicZiN1F8) | 4:21 |
 | 84 | [Snow](https://open.spotify.com/track/4DOeT5Ilj6zK1F4HUxzXK8) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Snow](https://open.spotify.com/album/7CqngDsr2lfnXeZfgaNVI5) | 3:36 |
 | 85 | [The Lights and Buzz \- 2015 Remastered](https://open.spotify.com/track/7pw7YBfcX0F3e0Pm4vkO0F) | [Jack's Mannequin](https://open.spotify.com/artist/42aeGx2I3uXINpGqC8L0LD) | [Everything In Transit \(10th Anniversary Edition\)](https://open.spotify.com/album/2tiKjIoifWlFXTlJJSB6kv) | 3:36 |
 | 86 | [The Christmas Song](https://open.spotify.com/track/03e41JmoFNLssjNbHhDma7) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Christmas EP](https://open.spotify.com/album/1HaPBR0BDJUDkcOxiHdGTy) | 3:07 |

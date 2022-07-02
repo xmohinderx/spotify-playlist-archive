@@ -4,11 +4,11 @@
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-123 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/7JtjL9J4rMiUbiR6UqNhl3)
+123 songs - 10 hr 54 min - [published](https://open.spotify.com/playlist/7JtjL9J4rMiUbiR6UqNhl3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Amayadori](https://open.spotify.com/track/22FIQx73AmjHLpUhkgdswZ) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Fragmentary](https://open.spotify.com/album/77dDhKqacxTQBz9womkmbY) | 0:29 | 2021-12-22 |  |
+| [Amayadori](https://open.spotify.com/track/22FIQx73AmjHLpUhkgdswZ) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Fragmentary](https://open.spotify.com/album/77dDhKqacxTQBz9womkmbY) | 8:20 | 2021-12-22 |  |
 | [Animal](https://open.spotify.com/track/1v09ATzQfzToQrBgu0mkD6) | [Conor C\. Ellis](https://open.spotify.com/artist/2HR4D4z3iLHR57uszqD7mC) | [Soft Earth](https://open.spotify.com/album/7icKhOFCKAwpaLqXUzT68B) | 3:12 | 2021-12-22 |  |
 | [Aru](https://open.spotify.com/track/3imnDatPTaEg1Y1SuBlvEs) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [Hibi](https://open.spotify.com/album/2ilbAhaYpdlFGe5e3FzRhS) | 2:46 | 2021-12-22 |  |
 | [Ashore](https://open.spotify.com/track/7okAPL9Qoj88byNDbuIjiV) | [Ebauche](https://open.spotify.com/artist/5n0eez6NwUmuLTn2AwA0i3) | [Adrift](https://open.spotify.com/album/19jaJ8g4HUynwp0fREHFe4) | 9:20 | 2021-12-22 |  |
@@ -42,7 +42,7 @@
 | [Full Moon Serenade](https://open.spotify.com/track/62dO6LC8b5AYXY1MGiLNV1) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Dallas Acid](https://open.spotify.com/artist/1xAG4AeOmO97QdYhoW01EA), [Arji OceAnanda](https://open.spotify.com/artist/3E5yAr7IdoYJYdJd0qeGIo) | [Arrive Without Leaving](https://open.spotify.com/album/39dMo7V0KDO3EF2klFTsEd) | 5:42 | 2021-12-22 |  |
 | [Genesis](https://open.spotify.com/track/6rFpQZLHq1fpJniWSTPlTz) | [Robert Bearns](https://open.spotify.com/artist/08uXRHg7U0r2Ft4KYijlyM), [Ron Dexter](https://open.spotify.com/artist/6HniY6qh1PML5gnGtOvajN) | [The Best of the Golden Voyage](https://open.spotify.com/album/7Au1hECfa7KYdNQwbVQENf) | 5:16 | 2021-12-22 |  |
 | [H2O FRM Faucet](https://open.spotify.com/track/7xug23Y2R1XliELQ5a8jv6) | [夕方の犬\(U ・ェ・\)](https://open.spotify.com/artist/6GkFLYRT7Q2qU4kEnNsytR) | [mb\_s\_4\_ch](https://open.spotify.com/album/0redlBmPu1BWruATZuidTV) | 4:39 | 2021-12-22 |  |
-| [Hayama Ambient 034](https://open.spotify.com/track/6ucVMSqO3QHvvBNMPOnCch) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Hayama Ambient 034](https://open.spotify.com/album/3BYHi87dcmiYFiCMbaDcoj) | 0:29 | 2021-12-22 |  |
+| [Hayama Ambient 034](https://open.spotify.com/track/6ucVMSqO3QHvvBNMPOnCch) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Hayama Ambient 034](https://open.spotify.com/album/3BYHi87dcmiYFiCMbaDcoj) | 2:19 | 2021-12-22 |  |
 | [Heart of the Forest](https://open.spotify.com/track/5tEvfL7dJzS5EGTAsOKZZJ) | [Peter Bark](https://open.spotify.com/artist/1owDCRcm8r3mCfAVzwNbB2) | [Heart of the Forest](https://open.spotify.com/album/4t91UuK4jqwLG7xU2kMdXV) | 5:56 | 2021-12-22 |  |
 | [Honesty](https://open.spotify.com/track/5Yk87Sx5schJACOxYmyYkR) | [Desolate Horizons](https://open.spotify.com/artist/5y4oIz8eUC013rOK3AldFN) | [Inner Forests](https://open.spotify.com/album/2RLUDtP21qs0kXSpE9BQLe) | 3:39 | 2022-01-12 |  |
 | [Imaginary Soundscape I, Postcard Six](https://open.spotify.com/track/6fYIZYxVMbmmkwbT1Yc19y) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB) | [Six Postcards & Other Stories](https://open.spotify.com/album/3Q4Mj2ui2oGXdZPMiylMY3) | 2:50 | 2021-12-22 |  |
@@ -50,7 +50,7 @@
 | [Imaginary Soundscape III, Postcard Two](https://open.spotify.com/track/4Onuwx9ruFbjuLQi9zU0w2) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB) | [Six Postcards & Other Stories](https://open.spotify.com/album/3Q4Mj2ui2oGXdZPMiylMY3) | 3:41 | 2021-12-22 |  |
 | [Inpour](https://open.spotify.com/track/4lShevCVGTcmaE51KyB87e) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d) | [The Darkest Place](https://open.spotify.com/album/6Os8YfXapiTML5ZJIXmVfp) | 4:29 | 2021-12-22 |  |
 | [Into The Blue](https://open.spotify.com/track/3QYlpiYbm1tzXa0yKvKvo6) | [Low Altitude](https://open.spotify.com/artist/0e8l4k008v3EwUopLVq2hq) | [Waves](https://open.spotify.com/album/0LY7LfnH8SE6f1hOVwTKNf) | 3:54 | 2022-05-18 |  |
-| [Japanese Meditation](https://open.spotify.com/track/4OG6VAfkY5Z2ZiDsitnjDs) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Fragmentary](https://open.spotify.com/album/77dDhKqacxTQBz9womkmbY) | 0:29 | 2021-12-22 |  |
+| [Japanese Meditation](https://open.spotify.com/track/4OG6VAfkY5Z2ZiDsitnjDs) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Fragmentary](https://open.spotify.com/album/77dDhKqacxTQBz9womkmbY) | 3:00 | 2021-12-22 |  |
 | [Kono Yoni Yomeri \(Sono 2\)](https://open.spotify.com/track/0nByarxBnlqMBH5tWvBuTG) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Kakashi](https://open.spotify.com/album/0ZVkkcvhUWQ4hIeoC8Y5Kb) | 2:20 | 2021-12-22 |  |
 | [kuu](https://open.spotify.com/track/1VO2yoOecJkqHJp3PjjSVY) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [Gradients](https://open.spotify.com/album/0BSRvxpcMxZZ17jnegHvni) | 3:38 | 2021-12-22 |  |
 | [La Casería \- San Fernando](https://open.spotify.com/track/3WTUTbkGr8b9QDMXfDHYq9) | [David Cordero](https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ) | [El Rumor del Oleaje](https://open.spotify.com/album/6UWkNTJn8noJLP583jRbDe) | 4:48 | 2021-12-22 |  |
@@ -130,6 +130,6 @@
 | [Zen Garden](https://open.spotify.com/track/4rn2BnxLvxIobCLUE96y1R) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU), [Chuck Plaisance](https://open.spotify.com/artist/4wfZxczwjNep3PNGUWMwkZ) | [Tranquility](https://open.spotify.com/album/26vcQV2TjPDV3BdZGABenp) | 3:12 | 2021-12-22 |  |
 | [妙なる流れ](https://open.spotify.com/track/2sqR87ltjSZXdvBofA7R1n) | [小久保隆](https://open.spotify.com/artist/1yzyqMZjuHLEkX1zVARhu7) | [ウォーター・ヒーリング\~ビューティー・トリートメント・ミュージック](https://open.spotify.com/album/72cIdL4xCHj4NXSGQYjo0w) | 7:21 | 2021-12-22 |  |
 | [気持ちを感ずる](https://open.spotify.com/track/7E0Dckv7CwrCybsPOcKwnN) | [Dreamy Music](https://open.spotify.com/artist/7bPhP47QpD0NZb9sA66TUm) | [自分と向き合う瞑想](https://open.spotify.com/album/2JQv9e6cJHdH0mu4z56aq2) | 7:45 | 2021-12-22 |  |
-| [目覚めの時](https://open.spotify.com/track/6KdPYneC5b5UVck4p7RZia) | [RELAX WORLD](https://open.spotify.com/artist/4lqbWKnNx21gjvmC7k3NSx) | [アロマセラピストがすすめる美しく眠るヒーリング・アロマ 〜朝の目覚めを気持ちよく](https://open.spotify.com/album/6RefLGyt0wgm2qdn2aCxXG) | 0:29 | 2021-12-22 |  |
+| [目覚めの時](https://open.spotify.com/track/6KdPYneC5b5UVck4p7RZia) | [RELAX WORLD](https://open.spotify.com/artist/4lqbWKnNx21gjvmC7k3NSx) | [アロマセラピストがすすめる美しく眠るヒーリング・アロマ 〜朝の目覚めを気持ちよく](https://open.spotify.com/album/6RefLGyt0wgm2qdn2aCxXG) | 6:02 | 2021-12-22 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

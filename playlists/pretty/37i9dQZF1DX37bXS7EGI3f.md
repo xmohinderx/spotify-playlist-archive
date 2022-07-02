@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Epic and melodic metal, for the dragonslayer in you! Cover: Wind Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,703 likes - 75 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,901 likes - 75 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,13 +53,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 43 | [Sons of the Wind \(Back to the 80's Remix\)](https://open.spotify.com/track/18tcahDiO6bsY0UyHhT0IW) | [Lunatica](https://open.spotify.com/artist/0B8qDV81MTJam2VPcoGlf1), [Canttias](https://open.spotify.com/artist/2OpzeDKMkRjk5DNUIubv5q) | [Sons of the Wind \(Back to the 80's Remix\)](https://open.spotify.com/album/1oULaS1ueqo30yGtRTc70m) | 5:30 |
 | 44 | [New Evil](https://open.spotify.com/track/2IvaXSzA8LFKhSVvJV0xtZ) | [Nocturna](https://open.spotify.com/artist/3Eo8pwg5OKX59PKpAFfPqX) | [New Evil](https://open.spotify.com/album/2iedVBdD7TICbWsudozEbx) | 4:25 |
 | 45 | [Wayward Sun](https://open.spotify.com/track/4sZge3EvkjsAxEV3Jev1k1) | [Xaon](https://open.spotify.com/artist/5MxqNOyXOnWwKgoj6uX1zz) | [Wayward Sun](https://open.spotify.com/album/0akAV2r1rkQrkN2PuFpgWN) | 4:54 |
-| 46 | [The Last Rays of the Sun](https://open.spotify.com/track/5RAVYLt6qwE6qAJISplSud) | [Her Alone](https://open.spotify.com/artist/2dnG7Q4xgIcfNpItnAwLAv) | [The Last Rays of the Sun](https://open.spotify.com/album/4vOgylNHYI8EGze0sJGWOg) | 0:29 |
+| 46 | [The Last Rays of the Sun](https://open.spotify.com/track/5RAVYLt6qwE6qAJISplSud) | [Her Alone](https://open.spotify.com/artist/2dnG7Q4xgIcfNpItnAwLAv) | [The Last Rays of the Sun](https://open.spotify.com/album/4vOgylNHYI8EGze0sJGWOg) | 4:35 |
 | 47 | [Altar of Power](https://open.spotify.com/track/0VwzxtkLcWVsFwdLSHfHfX) | [Veonity](https://open.spotify.com/artist/3Zero2Ovi9miqMvjcNpobH) | [Elements of Power](https://open.spotify.com/album/3KVsdtxgGQN5hKi0AWqU0A) | 4:21 |
 | 48 | [The Beast Has Awoken](https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo) | [Hate World Hero](https://open.spotify.com/artist/3fUpS8AGXpd7PO9I8bs4jh) | [The Beast Has Awoken](https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc) | 3:33 |
 | 49 | [Chambers of Fire](https://open.spotify.com/track/0t6hb4sQPxJQAAB7iYPrpt) | [Battlelore](https://open.spotify.com/artist/6vDPwpGZIflBoW6Gy3FWFw) | [Chambers of Fire](https://open.spotify.com/album/2knMVLETWD9mGLSF02iClX) | 4:13 |
 | 50 | [What Was Dreamt and Lived](https://open.spotify.com/track/3mJvoWmfeg8zUjdjCqHlqv) | [Opera Magna](https://open.spotify.com/artist/4XfEU7U94G33udFPTPwLbC), [Fabio Lione](https://open.spotify.com/artist/1toJ8R36bFALH06xycfaJp) | [What Was Dreamt and Lived](https://open.spotify.com/album/73RiO9eVYKd9USOzuhoqnZ) | 11:34 |
 | 51 | [Time Machine \(feat\. Kai Hansen & Piet Sielck\)](https://open.spotify.com/track/2XxNP9FEnrytdaIElFsWoY) | [Heavenly](https://open.spotify.com/artist/7j3etSXgd9ZLYIUW7KWnpd), [Kai Hansen](https://open.spotify.com/artist/1jpvVuIxURdWfijigYFTch), [Piet Sielck](https://open.spotify.com/artist/1JCBpIh7DHq66ljTJ9E2uu) | [Coming from the Sky](https://open.spotify.com/album/4h1Gmx1wfgbqHZBOjP8kQc) | 7:06 |
-| 52 | [Charcoal](https://open.spotify.com/track/5T5u6OqOiGwk0M7pLi4Yaz) | [Windrunner](https://open.spotify.com/artist/7GqHmgqt4wkWHZr8fcc9P7) | [TAN](https://open.spotify.com/album/5CaUwC3aR3rdy325CtWPLH) | 0:29 |
+| 52 | [Charcoal](https://open.spotify.com/track/5T5u6OqOiGwk0M7pLi4Yaz) | [Windrunner](https://open.spotify.com/artist/7GqHmgqt4wkWHZr8fcc9P7) | [TAN](https://open.spotify.com/album/5CaUwC3aR3rdy325CtWPLH) | 5:14 |
 | 53 | [Second Nature](https://open.spotify.com/track/3rVrbisqmkrfOVpfl9Plgj) | [Lionheart](https://open.spotify.com/artist/1ei3UyhCTygt5lNCVFItam) | [Second Nature](https://open.spotify.com/album/5rCIMFTGTvS0jLdOAc1Ljx) | 4:36 |
 | 54 | [Epitaph](https://open.spotify.com/track/0EmDq2qJzPbyAP24MowcEq) | [Moonshade](https://open.spotify.com/artist/4K8ETf2R1Gs7fz5y21CTTN) | [Epitaph](https://open.spotify.com/album/67HLuJLje712aP4z6CGlIJ) | 4:11 |
 | 55 | [Nemesis \- Single Edit](https://open.spotify.com/track/1Ms77wvO9QAgwOI0wNILHh) | [Mono Inc.](https://open.spotify.com/artist/1189BemPY7h2lgaH1pkzGX) | [Nemesis](https://open.spotify.com/album/2MghktqgzbKofBy4CYGyk1) | 3:58 |

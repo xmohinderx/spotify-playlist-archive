@@ -4,14 +4,14 @@
 
 > Fancy Hagood co\-curates a list of the very best songs from LGBTQQIA+ artists and allies Music City has to offer!
 
-40 songs - 2 hr 21 min - [published](https://open.spotify.com/playlist/5JA3OzXsYtkJcZ1drSuF8x)
+40 songs - 2 hr 24 min - [published](https://open.spotify.com/playlist/5JA3OzXsYtkJcZ1drSuF8x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All Good Cowboys](https://open.spotify.com/track/2tGGjVf9IAyXRv9XucKgCs) | [Mercy Bell](https://open.spotify.com/artist/66gM98dnEDRy8GkDmZt0EG) | [Mercy Bell](https://open.spotify.com/album/0DqRo10IE9EQwVM5Uva7l7) | 3:51 | 2021-06-01 |  |
 | [All My Worry](https://open.spotify.com/track/1MwEsNbSXgpjmfAN3JMzzS) | [Kate York](https://open.spotify.com/artist/5wONG6j4El6k5iOXQdA0Ha), [Joe Pisapia](https://open.spotify.com/artist/5b3G440uTn9vamEasYG0eH) | [Kate York & Joe Pisapia](https://open.spotify.com/album/05pNWaK791JPgmURl9kWRc) | 4:16 | 2021-06-01 |  |
 | [Battles](https://open.spotify.com/track/44yKM9BdCTLyuSRWW2twxv) | [Emily West](https://open.spotify.com/artist/20YJEBSWm14EDzjbXNcwDA) | [All For You](https://open.spotify.com/album/4yOZivzG8tdyRPXdXooXRP) | 2:56 | 2021-06-01 |  |
-| [Bigger Man \(with Maren Morris\)](https://open.spotify.com/track/1caDc5BER7nRlSRf7XnDyj) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Bigger Man](https://open.spotify.com/album/64fIaMIuwVr0P7Bckb8Df8) | 0:29 | 2021-06-01 |  |
+| [Bigger Man \(with Maren Morris\)](https://open.spotify.com/track/1caDc5BER7nRlSRf7XnDyj) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Bigger Man](https://open.spotify.com/album/64fIaMIuwVr0P7Bckb8Df8) | 3:06 | 2021-06-01 |  |
 | [Black Jeans](https://open.spotify.com/track/1zHgiJB245RamHyftORKn9) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju) | [E.G.O.](https://open.spotify.com/album/1VVaCcDi6CDJ86XpyGVUQ0) | 5:06 | 2021-06-01 |  |
 | [Black Myself](https://open.spotify.com/track/62WF9OMMZ9sXTV0WTFmfFl) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Hangover Blues](https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz) | 3:21 | 2021-06-01 |  |
 | [Blueneck](https://open.spotify.com/track/4hsfbnqymyRKixQZJpOiXW) | [Chris Housman](https://open.spotify.com/artist/6kpQQUxQqxZEXaaWEoFdhY) | [Blueneck](https://open.spotify.com/album/26sJLYRYYqSbzX28jkS2Nm) | 2:55 | 2021-06-01 |  |

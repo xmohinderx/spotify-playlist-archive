@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest in South African Hip Hop and R&B\. Cover: <a href="https://open.spotify.com/artist/4SEe2uJQ5IIJvpyTbtIfAE?si=YDtypf\_iQ2KM0vD5dMKglw">Sgi\_Magalela</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,783 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,789 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 11 | [Why Me?](https://open.spotify.com/track/7rpEhFwa8OTnMoqkDT0JOr) | [Audiomarc](https://open.spotify.com/artist/7M5xa3W8nnFeBaOvJVHRxj), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Why Me?](https://open.spotify.com/album/7ipNeYgWhbiQUjmgKJCEHZ) | 3:07 |
 | 12 | [Regardless](https://open.spotify.com/track/7BkjucK9cOjyF8q1ecczf4) | [King\-Mono](https://open.spotify.com/artist/2R5nSmcYWwGBuIVk4FbA3z), [Mini808](https://open.spotify.com/artist/68nyvLY9sDMtaQaq4FhDn1), [Lida Strat](https://open.spotify.com/artist/2bCHGsA4kwT2ulpMxpBN0A), [Jay Mac](https://open.spotify.com/artist/4i4jfEPGwj77ZnpigJDRMT) | [Durban King](https://open.spotify.com/album/0RqU13p25jzu0bEwhEYFYP) | 3:50 |
 | 13 | [EMOYENI](https://open.spotify.com/track/3X67yDTJV06mFs00YRRkhG) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [EMOYENI](https://open.spotify.com/album/7gypPIp3Gw3B3MbFLXCFAf) | 3:15 |
-| 14 | [umoya](https://open.spotify.com/track/5Mg5kfEzI7stnjNoXHyaUC) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [4LUV](https://open.spotify.com/album/2SGGNsEIuL5zM0NHiO5dBd) | 0:29 |
+| 14 | [umoya](https://open.spotify.com/track/5Mg5kfEzI7stnjNoXHyaUC) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [4LUV](https://open.spotify.com/album/2SGGNsEIuL5zM0NHiO5dBd) | 4:31 |
 | 15 | [R.I.P\. FAT CAT](https://open.spotify.com/track/1B8c8s2kY6hUPnv3d7wdhS) | [Thato Saul](https://open.spotify.com/artist/0R6GDPZ2Hrn2lF4svYJRkn) | [R.I.P\. FAT CAT](https://open.spotify.com/album/6RphDoUJ7mhQ5pDxTJ14Al) | 3:05 |
 | 16 | [Mntase](https://open.spotify.com/track/5PnPIZLpLL8Ci9rbihFKDq) | [Dr Peppa](https://open.spotify.com/artist/3w44OLzEUGSqxVXHOvEACM), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Chang Cello](https://open.spotify.com/artist/0Fy0LMkScL5OMShfg3UM1i), [Aux Cable](https://open.spotify.com/artist/0oQqr0QFshPgMWE8Dl0q8Q), [Lord Script](https://open.spotify.com/artist/793A2IFcoskCrnPQarTcua) | [Mntase](https://open.spotify.com/album/1V7XFLftzDCS0SxYaAxoIr) | 2:50 |
 | 17 | [PLAYBACK](https://open.spotify.com/track/3sXKkRmrHrSrX7xCWHiOH7) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [PLAYBACK](https://open.spotify.com/album/2fw1To7qooV4L4wFqfDbtA) | 3:12 |

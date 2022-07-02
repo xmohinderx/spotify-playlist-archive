@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/52rJQYDn9Q5dufvGPqqzgf.md) - [plain]
 
 > Celebrate your baby girl and spread the good news!
 
-[Spotify](https://open.spotify.com/user/spotify) - 215 likes - 25 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 216 likes - 25 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/52rJQYDn9Q5dufvGPqqzgf.md) - [plain]
 | 21 | [Girl On Fire](https://open.spotify.com/track/75pZHMj4SHAzJf35kwAAkQ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl On Fire](https://open.spotify.com/album/0099hANH76gInuXgPRXziP) | 3:44 |
 | 22 | [Father and Daughter](https://open.spotify.com/track/6PQqTPQ63mMf7jg0jb407d) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [The Essential Paul Simon](https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD) | 4:10 |
 | 23 | [Changes](https://open.spotify.com/track/6lLcSFIyo2cvoAGO0dYNi6) | [Kelly Osbourne & Ozzy Osbourne](https://open.spotify.com/artist/018Q3BpgxGMkaESmxTcDZY) | [Changes](https://open.spotify.com/album/6Qmqnggge5upkkPvzBNuNK) | 4:07 |
-| 24 | [Kiss The Girl](https://open.spotify.com/track/7Ly3iB2S2riCNaqRHRaOrx) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Princess Disneymania](https://open.spotify.com/album/61rR26BXw5dLnZ8iQfNGkh) | 0:29 |
+| 24 | [Kiss The Girl](https://open.spotify.com/track/7Ly3iB2S2riCNaqRHRaOrx) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Princess Disneymania](https://open.spotify.com/album/61rR26BXw5dLnZ8iQfNGkh) | 3:16 |
 | 25 | [Thank Heaven For Little Girls \(Gigi Soundtrack\)](https://open.spotify.com/track/2TZKX5LUciQcMbvqVNCXjk) | [Maurice Chevalier & the M\-G\-M Studio Chorus](https://open.spotify.com/artist/3pfCAE3oqRl3U3T48SsuY2) | [Gigi\-Original Motion Picture Soundtrack \(US Release\)](https://open.spotify.com/album/0fyjgDw4CauL9bLgO7IMIa) | 2:10 |
 
 Snapshot ID: `NjQsYmQwMjVhNjEwZDMzOWQ5MGFiYzRhZjFkNmNmMmQyZTQ2YzkyZTAxYw==`

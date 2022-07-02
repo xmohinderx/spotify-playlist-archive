@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0nUPQhoNrmw7Kr7sOeUCQh.md) - [plain]
 
 > Enjoy the glorious summer days with these happy mood tracks full of sunshine.
 
-[Indie & Folk Radio](https://open.spotify.com/user/indiefolkradio) - 688 likes - 42 songs - 2 hr 30 min
+[Indie & Folk Radio](https://open.spotify.com/user/indiefolkradio) - 688 likes - 42 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/0nUPQhoNrmw7Kr7sOeUCQh.md) - [plain]
 | 5 | [Darling](https://open.spotify.com/track/7Lpi2otSpwKiTpFsdDKEzP) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Darling](https://open.spotify.com/album/45zccaZrkPvaq6kIDYo0pz) | 4:20 |
 | 6 | [Don't You Give Up](https://open.spotify.com/track/68xBP3GnZuYEDlN4usyp4G) | [Dansu](https://open.spotify.com/artist/3vF7mdipJUsMxuFdW2udAt) | [Don't You Give Up](https://open.spotify.com/album/1XLNl0rSgAC4RPccFnpIY6) | 3:08 |
 | 7 | [West Queen West](https://open.spotify.com/track/0gWs9LnzIJWMsKI3uVGVEu) | [Norwegian Arms](https://open.spotify.com/artist/4JPWUAgHP1qOC2YfXj6kxn) | [Girard Freeloader](https://open.spotify.com/album/7lZhlV18B0M4Zr0UzUzYRd) | 3:44 |
-| 8 | [Classic](https://open.spotify.com/track/0gqVHimPxgL91CSBPfg9lK) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Classic](https://open.spotify.com/album/59cUwR1ZpD2e0dup12eyPr) | 0:29 |
+| 8 | [Classic](https://open.spotify.com/track/0gqVHimPxgL91CSBPfg9lK) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Classic](https://open.spotify.com/album/59cUwR1ZpD2e0dup12eyPr) | 4:40 |
 | 9 | [Little Woman](https://open.spotify.com/track/42N5aoOAVlBUUFSpZNwjyJ) | [Hunck](https://open.spotify.com/artist/37D2F3ufSAKUzqpfjs7bpL) | [Little Woman](https://open.spotify.com/album/6QhuIWw4zcJo3g8jdor9e3) | 3:21 |
 | 10 | [Vacation](https://open.spotify.com/track/0WxD3496BZLCWEcgWXlstW) | [Hockney](https://open.spotify.com/artist/1vcD9meh1nlRnK5qcduQv1) | [Vacation](https://open.spotify.com/album/2xP7wTYN9eWqNGUYihgvhK) | 3:59 |
 | 11 | [Brooklyn](https://open.spotify.com/track/6k56rrBNL9gFtig2UKR1dr) | [Glass Vaults](https://open.spotify.com/artist/3M4TKjKZ5wcoXtPMiw4kOj) | [Brooklyn](https://open.spotify.com/album/11P0ter2ur131f8qUE8eDd) | 4:16 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/0nUPQhoNrmw7Kr7sOeUCQh.md) - [plain]
 | 38 | [What's That Perfume That You Wear?](https://open.spotify.com/track/2a4tgiJPFIsuwaxHmG1uzF) | [Jens Lekman](https://open.spotify.com/artist/7tzI4rSFTHafjF18ZrNZWx) | [Life Will See You Now](https://open.spotify.com/album/1hXSxD7wpxEHXiLkk69EaQ) | 3:30 |
 | 39 | [Düsseldorf](https://open.spotify.com/track/7CFzl649rMy7SwfvI5asWT) | [Teleman](https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV) | [Brilliant Sanity](https://open.spotify.com/album/4Bif5km1gUjTlmhU6TemgW) | 3:47 |
 | 40 | [Day at Work](https://open.spotify.com/track/2nZeaBoYarVADvHyslB2zr) | [Nouveau Vélo](https://open.spotify.com/artist/2fHGph9uCiA0sBSfoumYQn) | [Day at Work](https://open.spotify.com/album/6fhWJS64hkoOB34BYzLCNK) | 3:16 |
-| 41 | [Move](https://open.spotify.com/track/4P8ANTO1EXeEhYVDa8Tcy7) | [Pacific Air](https://open.spotify.com/artist/3LedjkHgJTjLJfDTM5YgmD) | [Stop Talking \(Spotify Exclusive\)](https://open.spotify.com/album/2P4wXBq6Db5MiVgbhyxJte) | 0:29 |
+| 41 | [Move](https://open.spotify.com/track/4P8ANTO1EXeEhYVDa8Tcy7) | [Pacific Air](https://open.spotify.com/artist/3LedjkHgJTjLJfDTM5YgmD) | [Stop Talking \(Spotify Exclusive\)](https://open.spotify.com/album/2P4wXBq6Db5MiVgbhyxJte) | 3:55 |
 | 42 | [Alligator](https://open.spotify.com/track/6xwyKe7bGOJiX8EFbdoE41) | [Wasuremono](https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig) | [KABOOM](https://open.spotify.com/album/59EH4eDAJDKr1uOQ9zn6RM) | 3:40 |
 
 Snapshot ID: `OTEsZmQ1YTY3YmE1YzlhYjk2YWM2OTBiMDIyZDIxM2FhY2NlNjg0YjgyMQ==`

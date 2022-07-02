@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bgBpcV2oGY.md) - [plain]
 
 > Instrumental guitar for rainy day contemplation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,207 likes - 107 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,224 likes - 107 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Castle of Ice](https://open.spotify.com/track/48eB4f7ZEs26kBOQhHOYMK) | [Irene Weiss](https://open.spotify.com/artist/4Zk6vI5es7sxKodTuj2VZ7) | [Castle of Ice](https://open.spotify.com/album/5S6gO5nbEyii8U4LNArlfb) | 3:03 |
 | 2 | [Tăcere](https://open.spotify.com/track/2GnLadPkZbhaTxoBlpyj1c) | [Simion Alexandrescu](https://open.spotify.com/artist/3pJo8CcTXL3ZPIG8r2XOxl) | [Tăcere](https://open.spotify.com/album/5ZW7vpNnSPtzo09pdS8UuG) | 2:47 |
 | 3 | [Comings & Goings](https://open.spotify.com/track/04QYnXLbnPWSS2pgR0z1yZ) | [Lee Young](https://open.spotify.com/artist/50oK46NA905UBCOIRWBU5Z) | [Comings & Goings](https://open.spotify.com/album/1x5HTAuVJWSlbn3prj6Bfb) | 2:59 |
-| 4 | [Goosefeather](https://open.spotify.com/track/69d9kb1rQwbDKI1UlO7Zf5) | [Riverkin](https://open.spotify.com/artist/4xsqwbF6mpNckpRPn4AEBr) | [Two Trees](https://open.spotify.com/album/2qNkOL7MgmDaFpTGCiqUZd) | 2:40 |
+| 4 | [Goosefeather](https://open.spotify.com/track/69d9kb1rQwbDKI1UlO7Zf5) | [Riverkin](https://open.spotify.com/artist/4xsqwbF6mpNckpRPn4AEBr) | [Two Trees](https://open.spotify.com/album/2qNkOL7MgmDaFpTGCiqUZd) | 0:29 |
 | 5 | [Just One Step At A Time](https://open.spotify.com/track/7dtIQWNjGxG4s2JoWD0hVD) | [Oliver Young](https://open.spotify.com/artist/1v27VC8z9CqB2tpHBzZ0xv) | [Just One Step At A Time](https://open.spotify.com/album/49pNKyGqE0DIc9vF9XVjGp) | 4:08 |
 | 6 | [Blessing](https://open.spotify.com/track/2mnkJQfcSdnT71z3FUpCFD) | [Rob Willard](https://open.spotify.com/artist/4AZkp9pNQJf5f8EZkjVgTl) | [Blessing](https://open.spotify.com/album/0hWDQ5WjbOBkWUfFxgI10B) | 1:59 |
 | 7 | [Bring Me Back](https://open.spotify.com/track/4IjmclhUwmI4NnitZZkfUb) | [Olivia Simons](https://open.spotify.com/artist/1cl0u4oWyjqmcGDpqDnMns) | [Leblon](https://open.spotify.com/album/7AhsKoAuzmTqKXQap5IMUn) | 3:01 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bgBpcV2oGY.md) - [plain]
 | 30 | [A la recherche de l'autre](https://open.spotify.com/track/7tRL2A19PEY7MbLttIL8T8) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [A la recherche de l'autre](https://open.spotify.com/album/17WLl7MsDL25RsYFH0nPvO) | 2:17 |
 | 31 | [Figments Of My Story](https://open.spotify.com/track/0uUlq3jirKmXqaYeKqKj0k) | [Mell Levy](https://open.spotify.com/artist/4BxYbKsADfRXhE7uMxAWY0) | [Figments Of My Story](https://open.spotify.com/album/7LBNJQid8htZUP8PjNNATH) | 2:30 |
 | 32 | [Luz de Otoño](https://open.spotify.com/track/36FylBisQUFJjm2yu1doHG) | [Manuel Gonza](https://open.spotify.com/artist/0DvrI5NcxFYxzaySshEJxw) | [Luz de Otoño](https://open.spotify.com/album/0GI1tWC5yVDk18jAxXzNhl) | 1:42 |
-| 33 | [Let Me Reach That Mountain](https://open.spotify.com/track/11jFSuok2S4g04ziCBd44w) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Let Me Reach That Mountain](https://open.spotify.com/album/63QYtDWsFzy2yxYvMPcnCT) | 0:29 |
+| 33 | [Let Me Reach That Mountain](https://open.spotify.com/track/11jFSuok2S4g04ziCBd44w) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Let Me Reach That Mountain](https://open.spotify.com/album/63QYtDWsFzy2yxYvMPcnCT) | 3:31 |
 | 34 | [Over the hill is Leighan](https://open.spotify.com/track/21dL4Fi5yOXGm3PBgZI1yk) | [Dawn Geller](https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC) | [Over the hill is Leighan](https://open.spotify.com/album/62YlNkM4p58NlHPjyUuexA) | 1:59 |
 | 35 | [La Suerte Llegará](https://open.spotify.com/track/6kkupWXVg8I0XjbCbx7lHu) | [Alonso Librado](https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0) | [La Suerte Llegará](https://open.spotify.com/album/1kGSX1V9qlLqa51ldvn9TR) | 2:25 |
 | 36 | [gracious](https://open.spotify.com/track/3pcXZi83bswd1bDCDjCr5G) | [Elum Vance](https://open.spotify.com/artist/0Ams3Y9kvFZ7zJ0iPkIhfG) | [windows](https://open.spotify.com/album/0T3syhriHLYTW1Uskr3kGE) | 2:51 |
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bgBpcV2oGY.md) - [plain]
 | 87 | [La Storia D'Amor](https://open.spotify.com/track/2FNvWhfz1C20qwZaADbkcz) | [Indigo Mazati](https://open.spotify.com/artist/4qJEsoXFek6XB6R2GjJzJw) | [La Storia D'amor](https://open.spotify.com/album/1TlO2EbMobeLY5DQncxm1Q) | 2:50 |
 | 88 | [Reflections](https://open.spotify.com/track/0QqRbSMVB8TuRp1mGRwtDU) | [Gabriel Femi](https://open.spotify.com/artist/5TfOpr1QMPSdpygmQvf1qX) | [Kosmos](https://open.spotify.com/album/4PccTvSaNHUMfjbqaquhSl) | 1:55 |
 | 89 | [When the Sea Lets Go](https://open.spotify.com/track/47SJIHUBfKr48f8Q33xnX6) | [Vin Downes](https://open.spotify.com/artist/4hImyLoQH7OA08maVM1HAd) | [When the Sea Lets Go](https://open.spotify.com/album/5OTVYw9MtCCwBmh3FgjZRY) | 4:19 |
-| 90 | [Mayo](https://open.spotify.com/track/5Q5Dt6MsjoVz5lqnV8H93e) | [Jaume Torrent](https://open.spotify.com/artist/04QMH563wBsRiKHJCi0O24) | [Mayo](https://open.spotify.com/album/0XOMQ8PVzoWIUNcR6grxY7) | 0:29 |
+| 90 | [Mayo](https://open.spotify.com/track/5Q5Dt6MsjoVz5lqnV8H93e) | [Jaume Torrent](https://open.spotify.com/artist/04QMH563wBsRiKHJCi0O24) | [Mayo](https://open.spotify.com/album/0XOMQ8PVzoWIUNcR6grxY7) | 1:20 |
 | 91 | [Magic Guitar](https://open.spotify.com/track/0S6EowEvexHX4r4t1SscDd) | [Madjid Fahem](https://open.spotify.com/artist/4r2IfAxqQFZ3NFOa44wA4w) | [Magic Guitar](https://open.spotify.com/album/3fGydqF4H5ncJDD4jr1Nv2) | 2:36 |
 | 92 | [La Lunga Strada](https://open.spotify.com/track/4YBGPg8kJXAfIxezwT0RnN) | [Miguel Serugetti](https://open.spotify.com/artist/5mH7tkzuF5mGwqzvDfFBXz) | [La Lunga Strada](https://open.spotify.com/album/084bNb8eln3nMmU04fDTfQ) | 2:03 |
 | 93 | [Light of Seven](https://open.spotify.com/track/0RLxH84fjtDbLbflloUiQG) | [Tomas Hilber](https://open.spotify.com/artist/2pxii0UbnSs9vWOt4QcmHN) | [Light of Seven](https://open.spotify.com/album/3G395USQ5og7Qq5Hvnh7lg) | 1:59 |
@@ -114,6 +114,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bgBpcV2oGY.md) - [plain]
 | 104 | [Livella](https://open.spotify.com/track/6io96IgObwN4Vj5EBiJAn1) | [Cary Bestwood](https://open.spotify.com/artist/1qE78k5MwKFre0e74P3lQV) | [Livella](https://open.spotify.com/album/2CUndCbSBl29Piid6Gml4L) | 2:18 |
 | 105 | [Contemplation](https://open.spotify.com/track/02tk3raiAkGKpEsxlF3pKw) | [Calvin Nolan](https://open.spotify.com/artist/7qX73NefWkqJGQaxCT3UdA) | [Contemplation](https://open.spotify.com/album/5q0V9WTTDKaQ6YR8TT07WQ) | 2:06 |
 | 106 | [Choro de Saudade](https://open.spotify.com/track/3Kfd574iIrlhqnQeqtXKuv) | [José Isidoro](https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz) | [Choro de Saudade](https://open.spotify.com/album/2WrAWCGZQYtkDmAvvjHUJ6) | 5:05 |
-| 107 | [Behind the lines](https://open.spotify.com/track/7qDMgfVahRq3GfjRFmW4aI) | [Alex Miracone](https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh) | [Behind the lines](https://open.spotify.com/album/2PzIJI6qTvSsEcBMxfACVC) | 0:29 |
+| 107 | [Behind the lines](https://open.spotify.com/track/7qDMgfVahRq3GfjRFmW4aI) | [Alex Miracone](https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh) | [Behind the lines](https://open.spotify.com/album/2PzIJI6qTvSsEcBMxfACVC) | 2:17 |
 
 Snapshot ID: `MTY1NjYzMzYwMCwwMDAwMDAyMDAwMDAwMTgxYjcwZWE4YzMwMDAwMDE3ZjQ2NDhjNzRj`

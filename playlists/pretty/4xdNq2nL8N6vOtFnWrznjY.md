@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4xdNq2nL8N6vOtFnWrznjY.md) - [plain]
 
 > This hard hitting rock playlist features rock icons YUNGBLUD, The 1975, and more!
 
-[digster.fm](https://open.spotify.com/user/digster.fm) - 703 likes - 63 songs - 3 hr 38 min
+[digster.fm](https://open.spotify.com/user/digster.fm) - 703 likes - 63 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/4xdNq2nL8N6vOtFnWrznjY.md) - [plain]
 | 13 | [Shot Down](https://open.spotify.com/track/2ycgs9BPQxifcUWqbOau3y) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Shot Down](https://open.spotify.com/album/2DhdURG48Ak62qo0pwud1k) | 2:47 |
 | 14 | [Down](https://open.spotify.com/track/6kYr4vNI1kQeaXlk0uO5jO) | [The Man Who](https://open.spotify.com/artist/1wLFDPkWkMl7bNZvhmhxsG) | [Bet On You](https://open.spotify.com/album/7HVnpuJcZRJvj5Ic3wnbjI) | 3:36 |
 | 15 | [Sister](https://open.spotify.com/track/2KlecS6I44n4qlXG9ywD6S) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Sister](https://open.spotify.com/album/427aH8p4CSkaA1YpoATwL6) | 3:25 |
-| 16 | [The Jester](https://open.spotify.com/track/28KccB3Iw5Gg8MjKewEQFW) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [OK, I'M SICK](https://open.spotify.com/album/08VFvUyNPi6G0tc1d4DPU4) | 0:29 |
+| 16 | [The Jester](https://open.spotify.com/track/28KccB3Iw5Gg8MjKewEQFW) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [OK, I'M SICK](https://open.spotify.com/album/08VFvUyNPi6G0tc1d4DPU4) | 4:05 |
 | 17 | [Rose](https://open.spotify.com/track/1EaVXnEDuHwLdVPn89djkq) | [Allan Rayman](https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk) | [Harry Hard\-On](https://open.spotify.com/album/1eN0asiUp2OoMuRkI61cmm) | 3:29 |
 | 18 | [California](https://open.spotify.com/track/1Tc3kbOaPzpY8y9phWaVDx) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [21st Century Liability](https://open.spotify.com/album/1p64R5tjTpC2oH24YLdQgq) | 3:51 |
 | 19 | [Crooked Soul](https://open.spotify.com/track/35CBV1M9spIgJgBYjK21Tc) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Sleeptalk](https://open.spotify.com/album/2oLk2Z8wtuGX1xC9evzvC9) | 3:55 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/4xdNq2nL8N6vOtFnWrznjY.md) - [plain]
 | 22 | [Fun Never Ends](https://open.spotify.com/track/2FKtDOLUiEC1S4P60GC7GV) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [404](https://open.spotify.com/album/4XOMJHVuzJVWmqUdp4SYKP) | 3:18 |
 | 23 | [Stitch](https://open.spotify.com/track/6L0MtLLPMkNyxdTPiwcPIU) | [Allan Rayman](https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk) | [Stitch](https://open.spotify.com/album/0l6aFfJ1B8NK4XU0JKwDdY) | 2:45 |
 | 24 | [OK Hotel](https://open.spotify.com/track/1aiT82jp4wAPwlijYzcykF) | [Broken Witt Rebels](https://open.spotify.com/artist/3WyGjUsOZJRiT9re5pZYxL) | [OK Hotel](https://open.spotify.com/album/7gIGEN6GA5VnI0wwU0MxfA) | 3:32 |
-| 25 | [Natural Villain](https://open.spotify.com/track/3QBATpTo4SWcYPyhOwNFqh) | [The Man Who](https://open.spotify.com/artist/1wLFDPkWkMl7bNZvhmhxsG) | [Bet on You](https://open.spotify.com/album/5buxnaQzfA5i0iH5A7R09n) | 0:29 |
+| 25 | [Natural Villain](https://open.spotify.com/track/3QBATpTo4SWcYPyhOwNFqh) | [The Man Who](https://open.spotify.com/artist/1wLFDPkWkMl7bNZvhmhxsG) | [Bet on You](https://open.spotify.com/album/5buxnaQzfA5i0iH5A7R09n) | 3:19 |
 | 26 | [Who Are You](https://open.spotify.com/track/1S3RcMmq0WfKB89nqXYohW) | [THE JACKS](https://open.spotify.com/artist/2MaOt31JjxLUV3E62dkbRw) | [The Jacks](https://open.spotify.com/album/7bdR4Kjict5SNuff2KfXxb) | 3:42 |
 | 27 | [Mars For The Rich](https://open.spotify.com/track/4lV1tx0EdlIChOw7Kz7fP0) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Infest The Rats' Nest](https://open.spotify.com/album/5Bz2LxOp0wz7ov0T9WiRmc) | 4:11 |
 | 28 | [I Think I'm OKAY \(with YUNGBLUD & Travis Barker\)](https://open.spotify.com/track/2gTdDMpNxIRFSiu7HutMCg) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Hotel Diablo](https://open.spotify.com/album/0bJIHF1Or1YBLFBMwv53K2) | 2:49 |

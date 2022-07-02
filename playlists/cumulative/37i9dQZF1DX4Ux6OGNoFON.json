@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 270832,
       "name": "Aqu\u00ed voy a estar",
       "url": "https://open.spotify.com/track/6YIDc3upMMQlfqCcsQIPCz"
@@ -320,6 +320,24 @@
     },
     {
       "album": {
+        "name": "El Coraz\u00f3n y La Raz\u00f3n",
+        "url": "https://open.spotify.com/album/2JHGaMEzHHE6f8P6fYUpQn"
+      },
+      "artists": [
+        {
+          "name": "Providencia",
+          "url": "https://open.spotify.com/artist/5Jfv3Fh8E4Gb8AYLwl4OCv"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188521,
+      "name": "El Coraz\u00f3n y La Raz\u00f3n",
+      "url": "https://open.spotify.com/track/7ABBtIReI8d993JDVA8cC8"
+    },
+    {
+      "album": {
         "name": "Impulso",
         "url": "https://open.spotify.com/album/34HdlbBIJfvrkvwKAHaERc"
       },
@@ -505,10 +523,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 211000,
       "name": "Jamming",
       "url": "https://open.spotify.com/track/4zn0kScuV9Oj28d4g9CQQs"
+    },
+    {
+      "album": {
+        "name": "Exodus 30th Anniversary Edition",
+        "url": "https://open.spotify.com/album/0t7epGcMFSPS98X9t9atfk"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214973,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/7MgCIfmKQiTQeP4FJRa1ud"
     },
     {
       "album": {
@@ -799,7 +835,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 204619,
       "name": "Quema",
       "url": "https://open.spotify.com/track/6G3s05gp18H3CVNlpG2nwg"
@@ -956,7 +992,7 @@
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 270304,
       "name": "Suavemente",
       "url": "https://open.spotify.com/track/0YZyA7EF2LeTat01RWWzGQ"
     },

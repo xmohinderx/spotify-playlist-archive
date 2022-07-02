@@ -4,7 +4,7 @@
 
 > Generation defining music, one playlist.
 
-51 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/5dxrgiDbd1PKMHmIO4juKN)
+51 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/5dxrgiDbd1PKMHmIO4juKN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Faultline](https://open.spotify.com/track/18ihvfYz6uiieilnfl4XCs) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 4:18 | 2021-09-16 |  |
 | [Findaway](https://open.spotify.com/track/6pcyozjE7GDIbf4oN8ctLe) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 2:58 | 2021-09-16 |  |
 | [Freak](https://open.spotify.com/track/2RDgs05sg2vrpwiAEUkWd0) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 3:46 | 2021-09-16 |  |
-| [Hollywood](https://open.spotify.com/track/5Coz936Nb9zD9MYTJQbsbe) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Without You](https://open.spotify.com/album/16JseuvRyx6cxLunIpQkpu) | 0:29 | 2021-09-16 |  |
+| [Hollywood](https://open.spotify.com/track/5Coz936Nb9zD9MYTJQbsbe) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Without You](https://open.spotify.com/album/16JseuvRyx6cxLunIpQkpu) | 4:44 | 2021-09-16 |  |
 | [If You Keep Losing Sleep](https://open.spotify.com/track/1yt5aHFSy1ZlrkJenysdnx) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Young Modern](https://open.spotify.com/album/7aTpmoysIfl5vhgAOJ0mp5) | 3:21 | 2021-09-16 |  |
 | [Israel's Son](https://open.spotify.com/track/4gAV3sMEZn4lrfKPGARCqA) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 5:18 | 2021-09-16 |  |
 | [Learn to Hate](https://open.spotify.com/track/0HLrgX6j6ubJ4wh0kzVVwA) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 4:18 | 2021-09-16 |  |

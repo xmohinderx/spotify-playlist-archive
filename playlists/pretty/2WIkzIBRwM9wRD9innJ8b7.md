@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2WIkzIBRwM9wRD9innJ8b7.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 78 likes - 20 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 78 likes - 20 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/2WIkzIBRwM9wRD9innJ8b7.md) - [plain]
 | 12 | [High School](https://open.spotify.com/track/6bzwoiUt0s1KDOedyy4OtQ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Pink Friday: Roman Reloaded The Re\-Up](https://open.spotify.com/album/78XjkzI0J1YpzKUPgzWbat) | 3:38 |
 | 13 | [50 Ways to Say Goodbye](https://open.spotify.com/track/2NniAhAtkRACaMeYt48xlD) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [California 37](https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1) | 4:07 |
 | 14 | [Rumour Has It](https://open.spotify.com/track/76N7FdzCI9OsiUnzJVLY2m) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147) | 3:41 |
-| 15 | [Pusher Love Girl](https://open.spotify.com/track/4tVEJTR4VgBvvb2R6phA2v) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The 20/20 Experience](https://open.spotify.com/album/41br7lBSZOr9RjJAjk0om6) | 0:29 |
+| 15 | [Pusher Love Girl](https://open.spotify.com/track/4tVEJTR4VgBvvb2R6phA2v) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The 20/20 Experience](https://open.spotify.com/album/41br7lBSZOr9RjJAjk0om6) | 8:02 |
 | 16 | [Good 4 It](https://open.spotify.com/track/7tPbH2d7mokUeKDSYyMBJe) | [Wallpaper.](https://open.spotify.com/artist/6NMcnx3vKGSAeqSMbySlpw) | [Good 4 It](https://open.spotify.com/album/6OFxIvBjFJ3GQrE2Fq6bJV) | 3:40 |
 | 17 | [Beat It \(feat\. Chris Brown & Wiz Khalifa\)](https://open.spotify.com/track/4OjmCvRsvo2lAiB9O8KLxe) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Beat It \(feat\. Chris Brown & Wiz Khalifa\)](https://open.spotify.com/album/2QxYPZaK8TQpCWVRFUt1Sg) | 4:14 |
 | 18 | [Sleazy REMIX 2.0 Get Sleazier \(feat\. Lil' Wayne, Wiz Khalifa, T.I\. & André 3000\)](https://open.spotify.com/track/1zPDgF3K6QXcTopDB3SVg9) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [Sleazy REMIX 2.0 Get Sleazier \(feat\. Lil' Wayne, Wiz Khalifa, T.I\. & André 3000\)](https://open.spotify.com/album/5JlJcBcPBB4Df1y4Tau48T) | 4:53 |

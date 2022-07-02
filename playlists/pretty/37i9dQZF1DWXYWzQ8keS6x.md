@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYWzQ8keS6x.md) - [plain]
 
 > 🚂  É o trem do Poze com o melhor do Trap desse ano!
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,686 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,891 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYWzQ8keS6x.md) - [plain]
 | 5 | [Rei Lacoste](https://open.spotify.com/track/1jwEnLN5hMOwotwXfchUaf) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ), [Offlei Sounds](https://open.spotify.com/artist/7Kqcr4CkcQHjHiw3aPfFkC) | [Atg Tape](https://open.spotify.com/album/0YpnBZ9kBPcGzoonbHZFaS) | 2:32 |
 | 6 | [Tipo Gringa](https://open.spotify.com/track/3oxk3UVbKJiPcPokw9h64D) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS) | [Tipo Gringa](https://open.spotify.com/album/2GzMlVeoje0wmHbl3bGASp) | 1:54 |
 | 7 | [Corte do Jaca](https://open.spotify.com/track/2a2GuHAYjmIVAPVaG9Nh7u) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Corte do Jaca](https://open.spotify.com/album/6ZQNfwK2DagQENxZhXkuOj) | 2:32 |
-| 8 | [Paypal](https://open.spotify.com/track/6x1FttETfbRLerumlTn0ZH) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [previas.zip](https://open.spotify.com/album/1Mp4qx0rzYoZHXmTX5ViS4) | 0:29 |
+| 8 | [Paypal](https://open.spotify.com/track/6x1FttETfbRLerumlTn0ZH) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [previas.zip](https://open.spotify.com/album/1Mp4qx0rzYoZHXmTX5ViS4) | 2:46 |
 | 9 | [A Cara do Crime \(Nós Incomoda\)](https://open.spotify.com/track/0wRn3ggAY1fIupTaVigdza) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [A Cara do Crime \(Nós Incomoda\)](https://open.spotify.com/album/75IYhNYhWnTAgVYyaHGzga) | 5:02 |
 | 10 | [Vivências](https://open.spotify.com/track/76PSvY34ovx8MVJL9wHAXS) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [Vivências](https://open.spotify.com/album/75HSmlFli0lJoKjR4eJWPO) | 2:47 |
 | 11 | [Quer Voar](https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Quer Voar](https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e) | 3:07 |

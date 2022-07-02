@@ -4,7 +4,7 @@
 
 > What artists have been your favorite new finds this year? Check out a sampling of our favorites here, and don’t forget to check back for updates! For your own list, head over to <a href="http://spoti.fi/1JQhkfk">http://spoti.fi/1JQhkfk</a>
 
-20 songs - 1 hr 9 min - [published](https://open.spotify.com/playlist/2L21Mo4TyjsqtbDwHpo1JG)
+20 songs - 1 hr 13 min - [published](https://open.spotify.com/playlist/2L21Mo4TyjsqtbDwHpo1JG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Shower](https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Shower](https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr) | 3:26 | 2015-09-16 |  |
 | [Stitches](https://open.spotify.com/track/3zkWCteF82vJwv0hRLba76) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/0CnQ0JQajNswRjPkNYVG8m) | 3:26 | 2015-09-18 |  |
 | [Take Me Home \(feat\. Bebe Rexha\)](https://open.spotify.com/track/3qZkpG7RW81clweFyefCe2) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Overtime EP](https://open.spotify.com/album/5lLQIsKacRMQwp4tfrocjh) | 3:26 | 2015-09-16 |  |
-| [Talk Is Cheap](https://open.spotify.com/track/6rZG4b7DocC5rO43Lv8zWi) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Talk Is Cheap](https://open.spotify.com/album/6If2bJHDvvM5PvxnKO8IAX) | 0:29 | 2015-09-16 |  |
+| [Talk Is Cheap](https://open.spotify.com/track/6rZG4b7DocC5rO43Lv8zWi) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Talk Is Cheap](https://open.spotify.com/album/6If2bJHDvvM5PvxnKO8IAX) | 3:40 | 2015-09-16 |  |
 | [WILD](https://open.spotify.com/track/5tLXA5R8DlzSHYDMwil1AB) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [WILD](https://open.spotify.com/album/6YFptjIRV7Z4RYwQ9y63z0) | 3:47 | 2015-09-18 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

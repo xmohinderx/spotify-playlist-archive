@@ -4,7 +4,7 @@
 
 > Songs so beautiful, they'll stop you in your tracks
 
-98 songs - 5 hr 48 min - [published](https://open.spotify.com/playlist/6rk0W0ToMFunC493qbnQno)
+98 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/6rk0W0ToMFunC493qbnQno)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Give Me A Minute](https://open.spotify.com/track/0d0iBmyaaywSWyEjN9NQla) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 2:37 | 2021-12-10 |  |
 | [Grey](https://open.spotify.com/track/5uiBxGoDN7ys5iR7jQiiI6) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Grey](https://open.spotify.com/album/0VUfyApXn4pk0hkxiM7nan) | 3:05 | 2022-02-18 |  |
 | [Half An Orphan](https://open.spotify.com/track/2KdGu9WtqeGlmleNPuGyXg) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Denis Was a Bird](https://open.spotify.com/album/0xa2MFADkJYkKXXIzJLDKa) | 2:37 | 2021-12-10 | 2022-06-11 |
-| [Hallelujah I Love Her So](https://open.spotify.com/track/6chbqElEHkFSRDJpEydK2H) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Hallelujah I Love Her So](https://open.spotify.com/album/4KkR1fwO3tgHfhsKRgfFuf) | 0:29 | 2022-04-01 |  |
+| [Hallelujah I Love Her So](https://open.spotify.com/track/6chbqElEHkFSRDJpEydK2H) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Hallelujah I Love Her So](https://open.spotify.com/album/4KkR1fwO3tgHfhsKRgfFuf) | 2:43 | 2022-04-01 |  |
 | [Haven \(from Life Is Strange\)](https://open.spotify.com/track/0bndF6tTweNXPjwpPL7Slt) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Haven \(from Life Is Strange\)](https://open.spotify.com/album/1tCKB58FqUBj5beC5nfpFE) | 2:52 | 2021-12-10 |  |
 | [Hearts That Pound Like Yours](https://open.spotify.com/track/1dNYnZaryInEQZ0QWQ85Y2) | [Amelie](https://open.spotify.com/artist/4RxhlsDbWtJfvf0bgXUhLk) | [Hearts That Pound Like Yours](https://open.spotify.com/album/4J7zHXQyKKUSOpha3swQle) | 3:31 | 2021-12-10 | 2022-02-19 |
 | [Heavy](https://open.spotify.com/track/5VpgaWuqcWho0uJMniRNDs) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Heavy](https://open.spotify.com/album/00PsineKfAuLIl2PGnK5LB) | 4:04 | 2021-12-10 |  |
@@ -68,7 +68,7 @@
 | [Mountaineer](https://open.spotify.com/track/6qgiIu9Up7oDWfQnaajvy3) | [Arliston](https://open.spotify.com/artist/1zdjZcUSe5thcIAIU5NRYh) | [Mountaineer](https://open.spotify.com/album/5AtMxNyGbY4sJnEyFbbig7) | 3:41 | 2021-12-10 |  |
 | [My Space Is Overgrown](https://open.spotify.com/track/0rQXWkK5iqhKlUZaROzm4I) | [Aayushi](https://open.spotify.com/artist/1r2kTJ27zuaEoXasQT5NDd) | [My Space Is Overgrown](https://open.spotify.com/album/4ghpXfXSE8K7Fcb96Hgm4p) | 3:53 | 2021-12-10 |  |
 | [New Song](https://open.spotify.com/track/6Q2GRktbOgmybP2059YCON) | [Alice Markham](https://open.spotify.com/artist/0viOQf13dGxRShlPyas36o) | [New Song](https://open.spotify.com/album/1A7PuF5JRWQ7gQwOScTeMY) | 4:36 | 2022-06-10 |  |
-| [New York Time](https://open.spotify.com/track/3UekVNBa1Loh1r7feLHKqa) | [Cj Pandit](https://open.spotify.com/artist/1nj5nrlKa0trBmdgilmG8G) | [New York Time](https://open.spotify.com/album/0rHbLWUYdBIoNqjUUdg0xS) | 0:29 | 2021-12-10 |  |
+| [New York Time](https://open.spotify.com/track/3UekVNBa1Loh1r7feLHKqa) | [Cj Pandit](https://open.spotify.com/artist/1nj5nrlKa0trBmdgilmG8G) | [New York Time](https://open.spotify.com/album/0rHbLWUYdBIoNqjUUdg0xS) | 4:12 | 2021-12-10 |  |
 | [Nocturnal](https://open.spotify.com/track/135t5w0BiSthsGeqgKB3Gw) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Nocturnal](https://open.spotify.com/album/3QB4VboOQHb2iNP7ObBltP) | 4:22 | 2021-12-10 | 2022-06-11 |
 | [Nothing Wrong](https://open.spotify.com/track/10KwiqfDBMRT9PNyC7O1Ik) | [Hot Left Pole](https://open.spotify.com/artist/38AMg0A13hyneREkcLXMTR) | [Nothing Wrong](https://open.spotify.com/album/2oolI3oQ28axE7LgQlFzMn) | 2:57 | 2022-04-01 |  |
 | [Oh My Love](https://open.spotify.com/track/0KMrYUEfexgam36li6d9F0) | [Layla](https://open.spotify.com/artist/04BsVprJtIhl2C4fgPEz4W) | [Yellow Circles EP](https://open.spotify.com/album/4eTl12dc7uQXvgDhtMgW5p) | 3:23 | 2021-12-10 | 2022-02-19 |
@@ -89,7 +89,7 @@
 | [Short Sighted](https://open.spotify.com/track/25hKDHLSeH6M4J47pMXu9T) | [Lewis Ross](https://open.spotify.com/artist/7H1Mw1I4p9sTGTtbGCj8E3) | [Short Sighted](https://open.spotify.com/album/1DWjS1BFUwomgoJErC02Bu) | 3:40 | 2021-12-10 |  |
 | [Signal](https://open.spotify.com/track/3zu8faDUjfjpgdC7orgszA) | [tinyumbrellas](https://open.spotify.com/artist/2yKKGbXo5KtCrTPq4VVCZb) | [Signal](https://open.spotify.com/album/3N9okJZ9efu5Y7425rlLQ7) | 3:41 | 2021-12-10 |  |
 | [Smoke](https://open.spotify.com/track/24Avnz5JAgVmH0xNBsXUvH) | [Rona Mac](https://open.spotify.com/artist/0FMzSeL7vGgUfFqkBk9FaF) | [Smoke](https://open.spotify.com/album/6bbFvcKFbe4xqSxGzyIegJ) | 3:38 | 2022-04-01 |  |
-| [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 0:29 | 2022-02-18 |  |
+| [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 | 2022-02-18 |  |
 | [Someone Like You 2](https://open.spotify.com/track/2ANTihBMOmybgVfolMGbXP) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF), [Matthew Harris](https://open.spotify.com/artist/7CgEbzJc53hDnSinf4oUij) | [Someone Like You 2](https://open.spotify.com/album/5EpuJ5hQvh2nz1iNRnCtbj) | 3:05 | 2021-12-10 |  |
 | [Song of Carmen](https://open.spotify.com/track/4y7j2tXAiFNcttga2kqm87) | [Luca Wilding](https://open.spotify.com/artist/3IMal2orfDZIifVZjFOLLL) | [Book of Fate](https://open.spotify.com/album/0W9u5uM8EuVciM7bZPhf3h) | 4:20 | 2021-12-10 |  |
 | [Still](https://open.spotify.com/track/6rwgKVSwUY64AveImuknun) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu), [Marie Gallo](https://open.spotify.com/artist/6wk4N3pB7kAqPG8gqd79cc) | [Silver Lake](https://open.spotify.com/album/7CwbiDng73fEwI8vIs3ZvL) | 3:47 | 2021-12-10 | 2022-04-02 |

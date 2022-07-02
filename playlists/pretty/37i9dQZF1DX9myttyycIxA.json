@@ -1,13 +1,45 @@
 {
   "description": "Underground indie rock gems. Cover: boyish",
-  "num_followers": 258368,
+  "num_followers": 258527,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA1Mjk4MCwwMDAwMDExNzAwMDAwMTgxOTQ3MzE5N2YwMDAwMDE4MTAyMGZmMzIz",
+  "snapshot_id": "MTY1NjY1NjcwMCwwMDAwMDExODAwMDAwMTgxYjg2ZjIyZTgwMDAwMDE4MTAyMGZmMzIz",
   "tracks": [
+    {
+      "added_at": "2022-07-01 06:25:00",
+      "album": {
+        "name": "Dust Bunny",
+        "url": "https://open.spotify.com/album/4Bmym3tMCYlY08OIpYQAb3"
+      },
+      "artists": [
+        {
+          "name": "Suave Punk",
+          "url": "https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt"
+        }
+      ],
+      "duration_ms": 186453,
+      "name": "Dust Bunny",
+      "url": "https://open.spotify.com/track/3c3GmgHZaHZf0DEhfooCsL"
+    },
+    {
+      "added_at": "2022-07-01 06:25:00",
+      "album": {
+        "name": "Motorbike",
+        "url": "https://open.spotify.com/album/5BAb9XB8KHaO1KZRwE3Cuw"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "duration_ms": 201333,
+      "name": "Motorbike",
+      "url": "https://open.spotify.com/track/3tXshiCzdCiwVXE7LKeX1J"
+    },
     {
       "added_at": "2022-06-24 06:43:00",
       "album": {
@@ -25,20 +57,20 @@
       "url": "https://open.spotify.com/track/4vea5nsz7JIZSeuVjoNhTh"
     },
     {
-      "added_at": "2022-06-24 06:43:00",
+      "added_at": "2022-05-19 16:02:03",
       "album": {
-        "name": "Runner",
-        "url": "https://open.spotify.com/album/5jhIfSbDYyInZbF9c4EauX"
+        "name": "Songs of Her's",
+        "url": "https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw"
       },
       "artists": [
         {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+          "name": "Her's",
+          "url": "https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim"
         }
       ],
-      "duration_ms": 156772,
-      "name": "Runner",
-      "url": "https://open.spotify.com/track/5PmvRPR1SedsWA08jDDgF9"
+      "duration_ms": 255067,
+      "name": "What Once Was",
+      "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk"
     },
     {
       "added_at": "2022-05-27 06:40:00",
@@ -73,20 +105,20 @@
       "url": "https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF"
     },
     {
-      "added_at": "2022-05-19 16:02:03",
+      "added_at": "2022-05-20 05:46:00",
       "album": {
-        "name": "Songs of Her's",
-        "url": "https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw"
+        "name": "Waterslide, Diving Board, Ladder To The Sky",
+        "url": "https://open.spotify.com/album/6wdThJ2V58nkaWfv1jA4B5"
       },
       "artists": [
         {
-          "name": "Her's",
-          "url": "https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim"
+          "name": "Porridge Radio",
+          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
         }
       ],
-      "duration_ms": 255067,
-      "name": "What Once Was",
-      "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk"
+      "duration_ms": 180306,
+      "name": "Rotten",
+      "url": "https://open.spotify.com/track/4euglpuBWHIqrTofPsdVTi"
     },
     {
       "added_at": "2022-06-17 08:11:00",
@@ -121,22 +153,6 @@
       "url": "https://open.spotify.com/track/4yTFuPeN2UHzboAyUhgqIk"
     },
     {
-      "added_at": "2022-06-17 08:11:00",
-      "album": {
-        "name": "Hawaii",
-        "url": "https://open.spotify.com/album/5IBX9xg8sHWHf3L5a3QvrE"
-      },
-      "artists": [
-        {
-          "name": "Pete Yorn",
-          "url": "https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO"
-        }
-      ],
-      "duration_ms": 156477,
-      "name": "Never Go",
-      "url": "https://open.spotify.com/track/374rtbOx5NrgRFC9811Ghf"
-    },
-    {
       "added_at": "2022-06-24 06:43:00",
       "album": {
         "name": "Trading Doses",
@@ -151,6 +167,22 @@
       "duration_ms": 171861,
       "name": "Trading Doses",
       "url": "https://open.spotify.com/track/2r3vdfi8SmACLX7BOUqcgg"
+    },
+    {
+      "added_at": "2022-05-20 05:46:00",
+      "album": {
+        "name": "You Have Got to Be Kidding Me",
+        "url": "https://open.spotify.com/album/0e0c5rz0pMLFvqR7bDyXtc"
+      },
+      "artists": [
+        {
+          "name": "fanclubwallet",
+          "url": "https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe"
+        }
+      ],
+      "duration_ms": 216500,
+      "name": "You Have Got to Be Kidding Me",
+      "url": "https://open.spotify.com/track/3kai81vBptYiDfb0QXHv5X"
     },
     {
       "added_at": "2022-05-27 06:40:00",
@@ -189,6 +221,38 @@
       "url": "https://open.spotify.com/track/55M24NpVbhdI5k3VW86RKc"
     },
     {
+      "added_at": "2022-06-17 08:11:00",
+      "album": {
+        "name": "Hawaii",
+        "url": "https://open.spotify.com/album/5IBX9xg8sHWHf3L5a3QvrE"
+      },
+      "artists": [
+        {
+          "name": "Pete Yorn",
+          "url": "https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO"
+        }
+      ],
+      "duration_ms": 156477,
+      "name": "Never Go",
+      "url": "https://open.spotify.com/track/374rtbOx5NrgRFC9811Ghf"
+    },
+    {
+      "added_at": "2022-07-01 06:25:00",
+      "album": {
+        "name": "Violent",
+        "url": "https://open.spotify.com/album/07K4uMIK0Krz4p83DLULDd"
+      },
+      "artists": [
+        {
+          "name": "benches",
+          "url": "https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu"
+        }
+      ],
+      "duration_ms": 161040,
+      "name": "Violent",
+      "url": "https://open.spotify.com/track/6WbzgXBdZZPV2Zfpy7rHsA"
+    },
+    {
       "added_at": "2022-06-10 04:16:00",
       "album": {
         "name": "Ur Name on a Grain of Rice (demo)",
@@ -219,22 +283,6 @@
       "duration_ms": 183644,
       "name": "Clear",
       "url": "https://open.spotify.com/track/12eZXTxOcrp9LAGxcgUMqB"
-    },
-    {
-      "added_at": "2022-05-20 05:46:00",
-      "album": {
-        "name": "Waterslide, Diving Board, Ladder To The Sky",
-        "url": "https://open.spotify.com/album/6wdThJ2V58nkaWfv1jA4B5"
-      },
-      "artists": [
-        {
-          "name": "Porridge Radio",
-          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
-        }
-      ],
-      "duration_ms": 180306,
-      "name": "Rotten",
-      "url": "https://open.spotify.com/track/4euglpuBWHIqrTofPsdVTi"
     },
     {
       "added_at": "2022-06-10 04:16:00",
@@ -285,22 +333,6 @@
       "url": "https://open.spotify.com/track/5zfVMiFzHnFOAIfm2TS1XQ"
     },
     {
-      "added_at": "2022-05-20 05:46:00",
-      "album": {
-        "name": "You Have Got to Be Kidding Me",
-        "url": "https://open.spotify.com/album/0e0c5rz0pMLFvqR7bDyXtc"
-      },
-      "artists": [
-        {
-          "name": "fanclubwallet",
-          "url": "https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe"
-        }
-      ],
-      "duration_ms": 216500,
-      "name": "You Have Got to Be Kidding Me",
-      "url": "https://open.spotify.com/track/3kai81vBptYiDfb0QXHv5X"
-    },
-    {
       "added_at": "2022-05-19 16:02:03",
       "album": {
         "name": "Superstar Baby",
@@ -315,6 +347,22 @@
       "duration_ms": 162434,
       "name": "Soundtrack for Your Backseat",
       "url": "https://open.spotify.com/track/06CUyVD4i6YQ8X9dXC7mI6"
+    },
+    {
+      "added_at": "2022-06-24 06:43:00",
+      "album": {
+        "name": "Runner",
+        "url": "https://open.spotify.com/album/5jhIfSbDYyInZbF9c4EauX"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "duration_ms": 156772,
+      "name": "Runner",
+      "url": "https://open.spotify.com/track/5PmvRPR1SedsWA08jDDgF9"
     },
     {
       "added_at": "2022-06-10 04:16:00",
@@ -908,7 +956,7 @@
           "url": "https://open.spotify.com/artist/11DpUQDuQFFuGU8VXny3K6"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 210851,
       "name": "John, Take Me With You",
       "url": "https://open.spotify.com/track/1IbJOWFjQgHYwwwD4ScyqN"
     },
@@ -927,22 +975,6 @@
       "duration_ms": 221238,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/76rOZ9F8s8mX9N3NhZBgxt"
-    },
-    {
-      "added_at": "2022-05-19 16:02:03",
-      "album": {
-        "name": "Country",
-        "url": "https://open.spotify.com/album/3Rfhc4oWiP4wvPNlZKhcro"
-      },
-      "artists": [
-        {
-          "name": "Good Morning",
-          "url": "https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ"
-        }
-      ],
-      "duration_ms": 240546,
-      "name": "Country",
-      "url": "https://open.spotify.com/track/0Hlfo1A9sxNTPsk9QQXWb2"
     },
     {
       "added_at": "2022-05-19 16:02:03",
@@ -1027,22 +1059,6 @@
     {
       "added_at": "2022-05-19 16:02:03",
       "album": {
-        "name": "Vol. 1",
-        "url": "https://open.spotify.com/album/5HanfTZtL71gW1KGgg1HMA"
-      },
-      "artists": [
-        {
-          "name": "The Hellp",
-          "url": "https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4"
-        }
-      ],
-      "duration_ms": 216198,
-      "name": "Ssx",
-      "url": "https://open.spotify.com/track/1eCImHqurFCsE6du2nF6jh"
-    },
-    {
-      "added_at": "2022-05-19 16:02:03",
-      "album": {
         "name": "Baby Tonight",
         "url": "https://open.spotify.com/album/3SM9QgboyYT7LbJ73HHG3q"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 126120,
       "name": "Ghostride",
       "url": "https://open.spotify.com/track/476QHG5G8xxNI9VHTBFfjp"
-    },
-    {
-      "added_at": "2022-05-19 16:02:03",
-      "album": {
-        "name": "Jen",
-        "url": "https://open.spotify.com/album/07Xmfb4wnWsXnUJLAkyk7t"
-      },
-      "artists": [
-        {
-          "name": "Plums",
-          "url": "https://open.spotify.com/artist/0sPK0NZQ44Z8KhGxCOvEG9"
-        }
-      ],
-      "duration_ms": 206354,
-      "name": "Parking Lots",
-      "url": "https://open.spotify.com/track/5PSplhA4PEZHqw0bOfelEp"
     },
     {
       "added_at": "2022-05-19 16:02:03",
@@ -1244,7 +1244,7 @@
           "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 225732,
       "name": "Damn I'm Tired",
       "url": "https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ"
     },
@@ -1520,7 +1520,7 @@
           "url": "https://open.spotify.com/artist/1qPMBDzIv4WJoToZqNxb1f"
         }
       ],
-      "duration_ms": 29048,
+      "duration_ms": 171297,
       "name": "Sideways",
       "url": "https://open.spotify.com/track/3kF46KXHxqWvvgJWtZRmyx"
     },

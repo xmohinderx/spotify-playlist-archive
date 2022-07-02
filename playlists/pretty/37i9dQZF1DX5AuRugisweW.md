@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AuRugisweW.md) - [plain]
 
 > Songs of the crossroads and "that old evil spirit"—from Robert Johnson to John Mayer, from early blues to new Americana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,187 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,212 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cross Road Blues](https://open.spotify.com/track/1TrGdXSgiBm8W68D2K1COG) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 0:29 |
+| 1 | [Cross Road Blues](https://open.spotify.com/track/1TrGdXSgiBm8W68D2K1COG) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 2:29 |
 | 2 | [Old devils](https://open.spotify.com/track/5cNvmC1jEnA6QwnOvHpUo7) | [William Elliott Whitmore](https://open.spotify.com/artist/55N838yCXjxLVkBkIM5pnf) | [Animals In The Dark](https://open.spotify.com/album/5oD05jbDmF4rIENz7te94J) | 3:38 |
 | 3 | [Seven Hells](https://open.spotify.com/track/1mpkTTUxWTB3FlO2OlRIB4) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Fits of Reason](https://open.spotify.com/album/7ea69Z9iyvseW29vS3bF4V) | 3:19 |
 | 4 | [The High Price of Inspiration](https://open.spotify.com/track/65CVlqtXiLtCSdFRHC10mU) | [Hard Working Americans](https://open.spotify.com/artist/5HFE1NUz1561kJM2lHI6AF) | [Rest in Chaos](https://open.spotify.com/album/4LJR9UMWLslKXpVE1q9Psz) | 3:28 |
 | 5 | [Crossroads](https://open.spotify.com/track/4WBmkMJyWubRXRLYk8t9SI) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Battle Studies](https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou) | 2:29 |
 | 6 | [Restless Sinner](https://open.spotify.com/track/4qrUQuQ2Nt9jgZW99rBcbo) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Howl](https://open.spotify.com/album/3otJWr2xpdvZJGNS303RCZ) | 3:11 |
 | 7 | [The Devil Wears a Suit and Tie](https://open.spotify.com/track/7hlA8gMMz6jSp91Twsnuv3) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU) | 3:56 |
-| 8 | [Me and the Devil Blues](https://open.spotify.com/track/1QCUrXrY1qlxRhL3a9LYCA) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 0:29 |
+| 8 | [Me and the Devil Blues](https://open.spotify.com/track/1QCUrXrY1qlxRhL3a9LYCA) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 2:34 |
 | 9 | [Graveyard](https://open.spotify.com/track/5fuON606j1hkPGJhFMwerY) | [The Devil Makes Three](https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte) | [The Devil Makes Three](https://open.spotify.com/album/18VR3tbMXiPOEj4rQfSp1k) | 3:25 |
 | 10 | [Devil's Gonna Git You](https://open.spotify.com/track/17THAwZLC5xgi25y3S3sHQ) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 4](https://open.spotify.com/album/1L3EizQze12QVLvn1znwcT) | 3:10 |
 | 11 | [Devil's Resting Place](https://open.spotify.com/track/341o4T7XtSZUKeQvIw2wms) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/3soWADRhP2sj651R2BUt9E) | 3:14 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AuRugisweW.md) - [plain]
 | 29 | [Black And Evil Blues](https://open.spotify.com/track/4Drdz82DtFXhLpOvm2UvAU) | [Josh White](https://open.spotify.com/artist/5yO2B80rSVJ7bWdhBjkEKQ) | [Blues Singer \(1932\-1936\)](https://open.spotify.com/album/3kSbXWueGdc6Oggc684xLW) | 3:12 |
 | 30 | [Devil Don't Want Me Blues](https://open.spotify.com/track/2aJg7C5YdTCOb5Oj0rKN0N) | [Tristan Omand](https://open.spotify.com/artist/5eG6rHvvjI5RVHnuUSWSUY) | [The Lesser\-Known Tristan Omand](https://open.spotify.com/album/7IPTWh4EGjqbTV0j6AsluG) | 3:26 |
 | 31 | [She's Got The Devil In Her](https://open.spotify.com/track/2r6JhvSzpVZ2UaHPMptWRO) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Sweet Tea](https://open.spotify.com/album/7bkjnyiMG8mXzmEyfY49wD) | 5:10 |
-| 32 | [Preachin' Blues \(Up Jumped the Devil\)](https://open.spotify.com/track/4pEZg4zQFcJ1jdboMYTYf9) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 0:29 |
+| 32 | [Preachin' Blues \(Up Jumped the Devil\)](https://open.spotify.com/track/4pEZg4zQFcJ1jdboMYTYf9) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 2:52 |
 | 33 | [Devil in My Closet](https://open.spotify.com/track/4vK3FnnHxfXjuEbDMFNBIz) | [John Campbell](https://open.spotify.com/artist/10lsnqrWnGo0X3Kgn1nWIS) | [One Believer](https://open.spotify.com/album/3oFdK3KarRx9Z8bSccWnVL) | 6:00 |
 | 34 | [Blue Devil Jump](https://open.spotify.com/track/3iwZOA51h58QHa3KLyAKyu) | [Jay McShann](https://open.spotify.com/artist/1qZnWtvzKVV0lJQZBapchU) | [The Last Of The Blue Devils](https://open.spotify.com/album/6uVMAymadbYSAusGSUnNqw) | 3:27 |
 | 35 | [Crossroads](https://open.spotify.com/track/06seDLtwax1URGUWMM1Tzb) | [David "Honeyboy" Edwards](https://open.spotify.com/artist/1TJ9XdOFUqlSduhAVV7YfR) | [The World Don't Owe Me Nothing](https://open.spotify.com/album/2GymXXT4nUQJ7pRe3kKm3V) | 3:26 |

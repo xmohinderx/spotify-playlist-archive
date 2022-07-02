@@ -4,7 +4,7 @@
 
 > Listen to women in Canada, at full volume! Cover: Spice
 
-338 songs - 17 hr 46 min - [published](https://open.spotify.com/playlist/4Zp5WzLP3TXzjpoezKB5IH)
+338 songs - 17 hr 49 min - [published](https://open.spotify.com/playlist/4Zp5WzLP3TXzjpoezKB5IH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [GOT EM](https://open.spotify.com/track/0DNd9G0yzPVeE7szNAHvKS) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7E3i95vLu92apiebOiFbAL) | 3:46 | 2022-06-01 | 2022-06-09 |
 | [Gucci Store](https://open.spotify.com/track/1tQ6N1dQiXepKnjetWVsAc) | [Prado](https://open.spotify.com/artist/1Tw87xR7p102yY4fqusZzq) | [Gucci Store](https://open.spotify.com/album/3xxp6GqKMcwBT41XQmad9w) | 2:02 | 2022-06-01 |  |
 | [GUCCI STORE](https://open.spotify.com/track/59kt49byEHeCA7lXDLolu0) | [Prado](https://open.spotify.com/artist/1Tw87xR7p102yY4fqusZzq) | [PRADO MONROE](https://open.spotify.com/album/1glnddunjz2TgTrx8wF3ZO) | 2:02 | 2022-02-02 | 2022-03-09 |
-| [Half Empty](https://open.spotify.com/track/5P9r8VUZIn92AsTqe95nbW) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Half Empty](https://open.spotify.com/album/1RRvzs9YEYGWCunuLpZ3gH) | 0:29 | 2022-06-01 |  |
+| [Half Empty](https://open.spotify.com/track/5P9r8VUZIn92AsTqe95nbW) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Half Empty](https://open.spotify.com/album/1RRvzs9YEYGWCunuLpZ3gH) | 3:24 | 2022-06-01 |  |
 | [happy for you](https://open.spotify.com/track/58JEM46kOOvgUGUS0O7tj5) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [MISS SICK WORLD](https://open.spotify.com/album/2vyaeH9ozMPm8wGDAHq4yf) | 3:00 | 2022-01-05 | 2022-02-03 |
 | [Happy With Me](https://open.spotify.com/track/5c26M7Mc2XFzvR1gBOJcIP) | [Sara Diamond](https://open.spotify.com/artist/4azg4dtpH6PiewGHFzQEj0) | [Happy With Me](https://open.spotify.com/album/49Xy2MqV2IrfFEOiq8lOaG) | 2:24 | 2022-06-01 |  |
 | [Hard Feelings](https://open.spotify.com/track/7juiva3TJwb9VmCxt17MSd) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Hard Feelings](https://open.spotify.com/album/6Qu6frqdt6vgg7PLvbV9bT) | 3:19 | 2022-03-08 | 2022-04-07 |

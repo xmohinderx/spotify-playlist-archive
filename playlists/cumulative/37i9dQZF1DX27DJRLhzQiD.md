@@ -4,7 +4,7 @@
 
 > Wendy Sulca y más mujeres, a todo volumen.
 
-100 songs - 5 hr 39 min - [published](https://open.spotify.com/playlist/4ig5nNsfONZJzmj3q1Nolg)
+100 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/4ig5nNsfONZJzmj3q1Nolg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [La Flor De La Canela](https://open.spotify.com/track/3ciDewwDbazjc7UnDtY4nA) | [Chabuca Granda](https://open.spotify.com/artist/5tEUnEwJfkZDP2ZuLy4Fzu) | [Cada Cancion Con Su Razon](https://open.spotify.com/album/4Ofme8jRzdsKyDs8P6LQKa) | 3:21 | 2022-01-05 |  |
 | [La Fuga](https://open.spotify.com/track/4ZtCVLrKsOqgLnAH5LDwSR) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [La Fuga](https://open.spotify.com/album/1oIV9BF8iGRioQOHkBrgjP) | 2:47 | 2022-02-02 | 2022-03-09 |
 | [La Luna](https://open.spotify.com/track/5xqKWqpuBAOyvfe75s5wXw) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA) | [La Luna](https://open.spotify.com/album/4Sedu7CpoMOkORqFThFdto) | 3:22 | 2022-01-05 | 2022-02-03 |
-| [LA SUERTE](https://open.spotify.com/track/1ZvH6ijf4f7kO2lpZK8Rie) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [LA SUERTE](https://open.spotify.com/album/31zundrva1JBJAprVqxsz8) | 0:29 | 2022-02-02 |  |
+| [LA SUERTE](https://open.spotify.com/track/1ZvH6ijf4f7kO2lpZK8Rie) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [LA SUERTE](https://open.spotify.com/album/31zundrva1JBJAprVqxsz8) | 4:29 | 2022-02-02 |  |
 | [La Última Vez](https://open.spotify.com/track/4oTbwq0ozVuwnkCuNntRnx) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [La Última Vez](https://open.spotify.com/album/2zWsQaVxgUsCWxMkYsOqv2) | 3:47 | 2022-01-05 | 2022-02-03 |
 | [Llorando Tu Partida](https://open.spotify.com/track/1JHE3fgK8QvaWdj2IjmzgL) | [Ada Y La Nueva Pasion](https://open.spotify.com/artist/19tl2bzCLRXDglG9AAozA0) | [Ada Y La Nueva Pasion](https://open.spotify.com/album/1oy6xKrcERrCYLqZxcqCdI) | 3:49 | 2022-01-05 |  |
 | [Lucerito](https://open.spotify.com/track/5g3r5nAgHXd0ernuOwEoAG) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy), [Alejandra Pascucci](https://open.spotify.com/artist/2EZDEZK6SFsdonuMMw7vt7) | [Lucerito](https://open.spotify.com/album/25l2hHHWlsw7QUBlwPhend) | 4:06 | 2022-01-05 | 2022-03-09 |
@@ -84,7 +84,7 @@
 | [Polyhymnia](https://open.spotify.com/track/7grLgKJ2Og4CS6o6ky26U8) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Polyhymnia](https://open.spotify.com/album/2ZAaJFzi1XDfESGeFsNvsq) | 3:03 | 2022-02-02 | 2022-03-09 |
 | [Por Qué Te Fuiste](https://open.spotify.com/track/3xsy9cyy4k6glloiOWhQb0) | [Maricarmen Marin](https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz) | [Por Qué Te Fuiste](https://open.spotify.com/album/3KaNBGh5xcSMP9uZVd0zJd) | 3:05 | 2022-01-05 |  |
 | [Quítamelo](https://open.spotify.com/track/5wkSQUZgv4zSQr8E5Tcppc) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Y Te Lo Digo Yo](https://open.spotify.com/album/5c1Tq06BqlqyiMlFZKGlxg) | 3:00 | 2022-01-05 | 2022-03-09 |
-| [Raices del Festejo \- Le Dije a Papa](https://open.spotify.com/track/4VufezCz0uNJknt5ffTtgs) | [Eva Ayllón](https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2) | [25 Años, 25 Exitos](https://open.spotify.com/album/4fRHhR0AhoWhsSNCYg85xK) | 0:29 | 2022-01-05 |  |
+| [Raices del Festejo \- Le Dije a Papa](https://open.spotify.com/track/4VufezCz0uNJknt5ffTtgs) | [Eva Ayllón](https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2) | [25 Años, 25 Exitos](https://open.spotify.com/album/4fRHhR0AhoWhsSNCYg85xK) | 4:06 | 2022-01-05 |  |
 | [Refugio](https://open.spotify.com/track/5iGcOpA2ZVzmpi5gqjHQEA) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Refugio](https://open.spotify.com/album/0USsWJfpUn9FLFTy4TaImn) | 3:13 | 2022-03-25 |  |
 | [Repítelo](https://open.spotify.com/track/5IDjFFu1TMknvgKVAQ1CRX) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Repítelo](https://open.spotify.com/album/1DNsExIHCqxBbQci0Qc5h3) | 3:21 | 2022-02-18 |  |
 | [Rompo y Tumbo](https://open.spotify.com/track/7pIKhHmZFaG6gVnIoE8fXQ) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [K.maleon](https://open.spotify.com/artist/34fVIn6K9SI57pQ9nbsKa3) | [Rompo y Tumbo](https://open.spotify.com/album/17DDV6cMYnnz26zyF2szBE) | 3:17 | 2022-04-08 |  |

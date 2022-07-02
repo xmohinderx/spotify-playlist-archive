@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo?si=o1d8LxfYQ4ejyRt93lxVxg"> Tay Iwar </a>
 
-181 songs - 9 hr 9 min - [published](https://open.spotify.com/playlist/3abyZu302ITz5DM9hnTS7F)
+181 songs - 9 hr 15 min - [published](https://open.spotify.com/playlist/3abyZu302ITz5DM9hnTS7F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Hot Tub](https://open.spotify.com/track/5tfN0jv7r1HxYm2gApFlZP) | [Riverays](https://open.spotify.com/artist/5ryOUcwAfjNpX9DGgj83dC) | [A Riverays Two\-Pack](https://open.spotify.com/album/5efFYlnHceJBoYW0g67qxH) | 2:40 | 2021-11-11 | 2022-03-30 |
 | [Hubris](https://open.spotify.com/track/61jRGsVT7lj1DlYSSAlVV3) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [Hubris](https://open.spotify.com/album/5Bsfvg0Xbe7FXhTz0yfsmZ) | 3:26 | 2022-02-10 | 2022-05-20 |
 | [I Got You](https://open.spotify.com/track/6jSPUjGYauc1UER6jFM1g8) | [Dxt3r](https://open.spotify.com/artist/6QKdDl64WMJdMq4jEq1KqM), [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [I Got You](https://open.spotify.com/album/6LZ1KtkQ9TdiMqCl8Zgbcl) | 2:40 | 2022-03-11 | 2022-03-18 |
-| [If You Say](https://open.spotify.com/track/0Gti54i0mUfipe9LQDsbGC) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Sweetness](https://open.spotify.com/album/12Z2vvO5UYrBygJEumBCXf) | 0:29 | 2021-11-11 |  |
+| [If You Say](https://open.spotify.com/track/0Gti54i0mUfipe9LQDsbGC) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Sweetness](https://open.spotify.com/album/12Z2vvO5UYrBygJEumBCXf) | 3:38 | 2021-11-11 |  |
 | [In A Loop](https://open.spotify.com/track/1fwPHJhjIKSqOnbXVSEoF2) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [In A Loop](https://open.spotify.com/album/4RNLtG8d1fQp2yUTiVBS9a) | 3:13 | 2022-04-07 |  |
 | [In the Wind](https://open.spotify.com/track/2daN2z6MVvHVuVKCYmQqOn) | [Ictooicy](https://open.spotify.com/artist/19cyiv0rM3o9U8WboDW0Js) | [Sorry](https://open.spotify.com/album/16mVzniCBttR752jet9few) | 1:09 | 2022-03-31 | 2022-04-08 |
 | [Indifferent](https://open.spotify.com/track/022dXRXDk7T9bJB7pHLYuV) | [Mo$hpit Cindy](https://open.spotify.com/artist/7mlXK93aYpGSbRPaEqdLYU) | [21st Century Luv](https://open.spotify.com/album/2oMkffXgabRK3qvYNuvx0O) | 3:08 | 2021-07-02 | 2022-01-22 |
@@ -140,7 +140,7 @@
 | [Radar \- Remix](https://open.spotify.com/track/4QR2vhA68N0j8gL9wabTVk) | [BwoiiDaas](https://open.spotify.com/artist/3Fm8O3PLO5Odlns29ko4lz), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Radar \(Remix\)](https://open.spotify.com/album/0GgdrMuXZMle9fAibxpV04) | 3:52 | 2021-02-26 | 2022-04-01 |
 | [Real](https://open.spotify.com/track/0cgIQxMjFoxP2lpV21f4RO) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Real](https://open.spotify.com/album/1gyzgy5h5zBL4KlcKDTyX2) | 4:07 | 2021-07-30 | 2022-06-24 |
 | [Retro 1981s](https://open.spotify.com/track/4pKf0Pqsga4bZGWUTaK2s8) | [Aussie Maze](https://open.spotify.com/artist/69eajei2vJW3Va81eefyZ9) | [Retro 1981s](https://open.spotify.com/album/2DVZsdZv6RCEbrG2UzfIVb) | 1:55 | 2022-02-10 | 2022-03-12 |
-| [Rude](https://open.spotify.com/track/7f83o6VIhOcIcHxzr7Cj4a) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Savage Bitch Juice](https://open.spotify.com/album/5la6d2QxYKs6N2KWDCNmhr) | 0:29 | 2021-11-04 |  |
+| [Rude](https://open.spotify.com/track/7f83o6VIhOcIcHxzr7Cj4a) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Savage Bitch Juice](https://open.spotify.com/album/5la6d2QxYKs6N2KWDCNmhr) | 2:32 | 2021-11-04 |  |
 | [Runaway](https://open.spotify.com/track/4vHVukKtQOkJNX5TwjRaBm) | [NATIVE Sound System](https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Runaway](https://open.spotify.com/album/2r1ln8Z5prTPO5qGQkBA4T) | 3:40 | 2022-04-07 |  |
 | [Sacrifices \(feat\. Tim Lyre\)](https://open.spotify.com/track/3V28hy7t8rU0BwltQ9cJWU) | [DAP The Contract](https://open.spotify.com/artist/12OwAxjoznv1QOdIGR9R73), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Sacrifices \(feat\. Tim Lyre\)](https://open.spotify.com/album/7zkWwAnfWFUBnBhkGveMWB) | 2:30 | 2021-06-25 | 2022-04-22 |
 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/track/15HMh4yxdf4wyxSZSlOgGZ) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/album/4lYcrnwCwPmh63E03VyAv2) | 3:24 | 2021-09-16 | 2022-05-06 |

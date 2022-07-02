@@ -1303,7 +1303,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 227080,
       "name": "Breezeblocks",
       "url": "https://open.spotify.com/track/7v9VgPcjy7gPRsHZjKPUhU"
@@ -4503,7 +4503,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 240294,
       "name": "Like You Do",
       "url": "https://open.spotify.com/track/3xo4Q43ei0ypZOvd2W1IqZ"
@@ -5211,7 +5211,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 121972,
       "name": "MIDNIGHT",
       "url": "https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9"
@@ -5974,6 +5974,24 @@
     },
     {
       "album": {
+        "name": "Liga Campe\u00f3n",
+        "url": "https://open.spotify.com/album/15fAGxPcvsOGtbGbMZ63IJ"
+      },
+      "artists": [
+        {
+          "name": "La Liga - LDA",
+          "url": "https://open.spotify.com/artist/5WIdtUJe33eFpPU47tgVuf"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155016,
+      "name": "Nunca Te Voy a Fallar",
+      "url": "https://open.spotify.com/track/4xnjBkWUeAw7T87c7zS9s7"
+    },
+    {
+      "album": {
         "name": "AD MARE",
         "url": "https://open.spotify.com/album/0QkOWJsNjhHQwhmhy4bstt"
       },
@@ -6691,10 +6709,32 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 29048,
       "name": "Querer Querernos",
       "url": "https://open.spotify.com/track/15ItGp1Ugz6NBsRIdpBect"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Har\u00edamos Los Viernes",
+        "url": "https://open.spotify.com/album/4e4s8RiuEH8Nyuvp5RJLD9"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Otero",
+          "url": "https://open.spotify.com/artist/0WwKYgJb1raMJAiAtEbBKy"
+        },
+        {
+          "name": "Karen M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181487,
+      "name": "Qu\u00e9 Har\u00edamos Los Viernes",
+      "url": "https://open.spotify.com/track/0xAYwmGGFwTCQbP5fTLW50"
     },
     {
       "album": {
@@ -7742,7 +7782,7 @@
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 164516,
       "name": "Sufriendo",
       "url": "https://open.spotify.com/track/3afAUVkCzAtkjiDxrtq6K1"
     },
@@ -7919,7 +7959,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 237894,
       "name": "Tarot",
       "url": "https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN"
@@ -9559,7 +9599,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 204967,
       "name": "Yours",
       "url": "https://open.spotify.com/track/3rPVtXLBfJz59U1LgrGHhb"

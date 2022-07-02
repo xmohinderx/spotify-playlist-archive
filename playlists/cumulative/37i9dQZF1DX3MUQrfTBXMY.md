@@ -4,7 +4,7 @@
 
 > Headbangers of Bangladesh\. Cover \- Hridoy Khan
 
-80 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/5E1dMl5K80HmX4b03WyB3C)
+80 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/5E1dMl5K80HmX4b03WyB3C)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Biyogantok](https://open.spotify.com/track/7e4tE0wyLzVuzUPbUMCqR6) | [Tahsan](https://open.spotify.com/artist/69Tu9c0t0IOf0ipXnE74sQ) | [Biyogantok](https://open.spotify.com/album/4Zyvcf7CpmYATwEhAXGo3h) | 5:31 | 2022-06-16 |  |
 | [Bose Aachhi \(Bose Aachhi Eka\)](https://open.spotify.com/track/4PIrHcNo9aVhKrlk9hPOLG) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Pathchala](https://open.spotify.com/album/4cyc9rSyklY4JtbwAjVsnc) | 6:39 | 2022-06-16 |  |
 | [Brishtir Opare](https://open.spotify.com/track/5rGFMRxRt68bguL3gxSnZC) | [The Attempted Band](https://open.spotify.com/artist/1yCW8tZOgAjAHBJYt5COWt) | [Agoon O Moushumi](https://open.spotify.com/album/5KPR9AgO2hMyEfGYWPbrao) | 3:51 | 2022-06-16 |  |
-| [Chaap](https://open.spotify.com/track/5yZh1R7FxddR7E2WsVALg8) | [Arekta Rock Band](https://open.spotify.com/artist/5c7JjKTazKNQubk2GjgbJT) | [Chaap](https://open.spotify.com/album/0vRBUL0pp2UW4b5bC5Zj6g) | 0:29 | 2022-06-16 |  |
+| [Chaap](https://open.spotify.com/track/5yZh1R7FxddR7E2WsVALg8) | [Arekta Rock Band](https://open.spotify.com/artist/5c7JjKTazKNQubk2GjgbJT) | [Chaap](https://open.spotify.com/album/0vRBUL0pp2UW4b5bC5Zj6g) | 4:36 | 2022-06-16 |  |
 | [Chaya](https://open.spotify.com/track/6YdezeXuIAkGaLRgbC08Ny) | [HIGHWAY](https://open.spotify.com/artist/62mZpB59RHyxLGNesP78Vg) | [Chaya](https://open.spotify.com/album/5DHclWpAoKJglHp93WrQ2F) | 6:25 | 2022-06-16 |  |
 | [Chotto Metro Ga](https://open.spotify.com/track/1WuuePXlvzSMJPKygdeZu9) | [13th Funeral](https://open.spotify.com/artist/6r4kTQoYjObienwuKU4PBT) | [Chotto Metro Ga](https://open.spotify.com/album/3DYrY6zUtihcMYpSd1JBQC) | 5:11 | 2022-06-16 |  |
 | [Deepto](https://open.spotify.com/track/4Ese1NYGFeQV1hi3ssqyB1) | [Arekta Rock Band](https://open.spotify.com/artist/5c7JjKTazKNQubk2GjgbJT) | [Deepto](https://open.spotify.com/album/57QYgRXlMEqMXF5dDO6jvz) | 3:21 | 2022-06-16 |  |
@@ -54,7 +54,7 @@
 | [Mitthe Shopno](https://open.spotify.com/track/5sTph7Ktij6uPkWgVdTTPL) | [Vanomous](https://open.spotify.com/artist/6837JIyq53JF6Je9Tvbov9) | [Rockoholic](https://open.spotify.com/album/2DLL4wKniDTPu17TPVKvpA) | 4:17 | 2022-06-16 |  |
 | [Moharaj](https://open.spotify.com/track/0iAkSPCliJozniBFIq5qZO) | [Balam](https://open.spotify.com/artist/5io6IfbYy6t9IBtzYdOwN9) | [Moharaj](https://open.spotify.com/album/10qQWkkrX3Fr3No7t6fFlf) | 4:43 | 2022-06-16 |  |
 | [Moho](https://open.spotify.com/track/6Y2lrjXwW8YcCU5H4xMFBs) | [Aftermath](https://open.spotify.com/artist/79iOqoOkavfzftyQjx21qp) | [Moho](https://open.spotify.com/album/39HxuHhewQJHpv2EOSYA8K) | 4:25 | 2022-06-16 |  |
-| [Moho](https://open.spotify.com/track/7uSd8eNikOIqWjZk4ZxvK4) | [Jon Kabir](https://open.spotify.com/artist/41uDjhwAdkq4SYpMswPEtG) | [Moho](https://open.spotify.com/album/6buC5HKigeEIyAFhaABwuZ) | 0:29 | 2022-06-16 |  |
+| [Moho](https://open.spotify.com/track/7uSd8eNikOIqWjZk4ZxvK4) | [Jon Kabir](https://open.spotify.com/artist/41uDjhwAdkq4SYpMswPEtG) | [Moho](https://open.spotify.com/album/6buC5HKigeEIyAFhaABwuZ) | 3:00 | 2022-06-16 |  |
 | [Mukhosh](https://open.spotify.com/track/6u8CfesPUWnqxjfc0esJD1) | [Metrical](https://open.spotify.com/artist/54lOFoInj94V3iGe7WUAPH) | [Tyrants Shall Fall](https://open.spotify.com/album/7hOKWShq8KfBKjmgIcOddo) | 4:46 | 2022-06-16 |  |
 | [Na Bola Golpo](https://open.spotify.com/track/7iV811lSVQPcHiL9GdsmxA) | [Petty Never Grew](https://open.spotify.com/artist/0qrCUohuMaUYuNfTi9uQAY) | [Na Bola Golpo](https://open.spotify.com/album/5gjP4D4VW4kcm5G23s2gvn) | 4:05 | 2022-06-16 |  |
 | [Nijer Jonno Gan](https://open.spotify.com/track/2fEMTumzVh5H1ozQwkBDyu) | [13th Funeral](https://open.spotify.com/artist/6r4kTQoYjObienwuKU4PBT) | [Nijer Jonno Gan](https://open.spotify.com/album/78jmJKiaCKhaUvpOxqYXgx) | 5:56 | 2022-06-16 |  |
@@ -62,14 +62,14 @@
 | [Obosheshe](https://open.spotify.com/track/3BytGDfjJcnzogZTWDiIk5) | [A\. I\. Razu](https://open.spotify.com/artist/67ShnJ9ENhvPwmWymi4zYB) | [Obosheshe](https://open.spotify.com/album/72PhIKj0ezOuThNcN1cga9) | 4:09 | 2022-06-16 |  |
 | [Odyssey](https://open.spotify.com/track/4D7uYtaf2tUMJQU764Tuqs) | [Conclusion](https://open.spotify.com/artist/5SVgbg1080uyYMNC7rBoIp) | [Odyssey](https://open.spotify.com/album/1E86gHTDuuyIqUxbtGwefu) | 4:57 | 2022-06-16 |  |
 | [Ojana](https://open.spotify.com/track/7GWkTRW0nOEmBWPoKAXF6S) | [Xefer](https://open.spotify.com/artist/2S5txX8JNvdebvGU6LZbf9), [Arekta Rock Band](https://open.spotify.com/artist/5c7JjKTazKNQubk2GjgbJT) | [Ojana](https://open.spotify.com/album/6EynXPTwNDlZyf5HcoVqx6) | 4:26 | 2022-06-16 |  |
-| [Omorotter Shadh](https://open.spotify.com/track/7GiVS2cRWTOVXc3AZdC1db) | [Kronedge](https://open.spotify.com/artist/1BmU0W6qNHOVQclJYf9Mys) | [Omorotter Shadh](https://open.spotify.com/album/6mhqhKXjqxTkUZVehg52tS) | 0:29 | 2022-06-16 |  |
+| [Omorotter Shadh](https://open.spotify.com/track/7GiVS2cRWTOVXc3AZdC1db) | [Kronedge](https://open.spotify.com/artist/1BmU0W6qNHOVQclJYf9Mys) | [Omorotter Shadh](https://open.spotify.com/album/6mhqhKXjqxTkUZVehg52tS) | 6:05 | 2022-06-16 |  |
 | [Onidrita](https://open.spotify.com/track/6Jsb5Oe62xzzzi7i2M8nsc) | [Golpo](https://open.spotify.com/artist/3VXEQjIIqL58DhPzvZMELO), [Saydur Rahman Nuhad](https://open.spotify.com/artist/1T9nSGIHlJ1bEeWX6aeqbA), [Shovon Ashraf](https://open.spotify.com/artist/1HwE9oYETtZQ1nJEEiEPvP) | [Onidrita](https://open.spotify.com/album/5FWR1xTVKQgjbM92eRCzdc) | 4:33 | 2022-06-16 |  |
 | [Onubhutir Deyal](https://open.spotify.com/track/1gqFd1MsRXMVX1CZ8mmEA0) | [Sohan Rahman](https://open.spotify.com/artist/0PT4CxgGdroBgFaq4QvakT) | [Onubhutir Deyal](https://open.spotify.com/album/6bBTDJqUV6MHIjYNMbNCy6) | 4:22 | 2022-06-16 |  |
 | [Onuraag](https://open.spotify.com/track/75H72N8knxyDjaKmSWIKGo) | [Naive](https://open.spotify.com/artist/15akENis2TaJHxXw8cwzXw) | [Onuraag](https://open.spotify.com/album/71CWDjKVJcvSTqQhGJdOzK) | 5:29 | 2022-06-16 |  |
 | [Oporanho](https://open.spotify.com/track/3PG0JQJExSRM4xGUpYvpEZ) | [Icons](https://open.spotify.com/artist/5dSpt5bMnQoSC0n16fpQUD) | [Ishshoronio](https://open.spotify.com/album/6GvalgWDABm1XEYvFfnGF1) | 4:09 | 2022-06-16 |  |
 | [Ore Nil Doriya](https://open.spotify.com/track/633EJpBKhPns6Z6Tp4K9a7) | [A\. I\. Razu](https://open.spotify.com/artist/67ShnJ9ENhvPwmWymi4zYB) | [Ore Nil Doriya](https://open.spotify.com/album/1BHqOSF6p6Qzn70vOkNtsv) | 5:43 | 2022-06-16 |  |
 | [Otithi Pakhi \- 2021 Remastered version](https://open.spotify.com/track/7cXofuwNTxOcIx89cYw4tD) | [Prince Sohan](https://open.spotify.com/artist/6zCxXv0GO8LaRSNLOSr0i0) | [Otithi Pakhi \(2021 Remastered Version\)](https://open.spotify.com/album/02JtyTUKhl9CJS1QbXS2kt) | 1:25 | 2022-06-16 |  |
-| [Pichutaan](https://open.spotify.com/track/3kGrKLyNUdcVh27oqwEYdE) | [Sammam](https://open.spotify.com/artist/2lis2CHagnbMNlEUrhU0wu) | [Pichutaan](https://open.spotify.com/album/4LfHUgVOnuvznzkOGCTxwX) | 0:29 | 2022-06-16 |  |
+| [Pichutaan](https://open.spotify.com/track/3kGrKLyNUdcVh27oqwEYdE) | [Sammam](https://open.spotify.com/artist/2lis2CHagnbMNlEUrhU0wu) | [Pichutaan](https://open.spotify.com/album/4LfHUgVOnuvznzkOGCTxwX) | 6:05 | 2022-06-16 |  |
 | [Protibimbo](https://open.spotify.com/track/5l2n874eQvJoq8qvEowNOJ) | [Angsho](https://open.spotify.com/artist/2NRt2eIZ7PmlsdvfghhhOp) | [Protibimbo](https://open.spotify.com/album/5EIRZsKGKu4HGbyT22FvYU) | 4:11 | 2022-06-16 |  |
 | [Protishruti](https://open.spotify.com/track/4LFXQy7NN0KdraTRs2WZj9) | [13th Funeral](https://open.spotify.com/artist/6r4kTQoYjObienwuKU4PBT) | [Protishruti](https://open.spotify.com/album/2jGoGgLlFQKTpuEnxCXSDq) | 4:58 | 2022-06-16 |  |
 | [Punorjonmo](https://open.spotify.com/track/25Hmu4UVzgiiv298sHjERP) | [Chondropith](https://open.spotify.com/artist/25E9e3odwVN7nGzUuMRKW9) | [Punorjonmo](https://open.spotify.com/album/0mIPFSHREKf2yXhgXPrImn) | 7:53 | 2022-06-16 |  |

@@ -4,7 +4,7 @@
 
 > This is Nasty C, also known to fans as "A Zulu Man With Some Power"\. The essential tracks, all in one playlist
 
-45 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/3us74V95C0wtXUW5WhbJZ4)
+45 songs - 2 hr 37 min - [published](https://open.spotify.com/playlist/3us74V95C0wtXUW5WhbJZ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [They Don't](https://open.spotify.com/track/22IFHAWQe7cDqlL9KJCyo4) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Zulu Man With Some Power](https://open.spotify.com/album/04udszu1QoEWl5qXu2MTUi) | 3:59 | 2022-04-20 |  |
 | [They Don't](https://open.spotify.com/track/1gHhVTOVIQKjjBJ6pxCzG6) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [They Don't](https://open.spotify.com/album/1FeNQJAvMxKyiwdQJLqk8G) | 4:00 | 2022-04-20 |  |
 | [Uok](https://open.spotify.com/track/3CscS4sqTQcfoR8iEm2zQr) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Bad Hair Extensions](https://open.spotify.com/album/5YL6AvjnG2Dj4bOaS7dhTn) | 2:57 | 2022-04-20 |  |
-| [Whipped](https://open.spotify.com/track/5izmlzt9mbvzuZogW9TXJB) | [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW), [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [God Decides](https://open.spotify.com/album/5bJrBac7KuQqFY6wn6to8A) | 0:29 | 2022-04-20 |  |
+| [Whipped](https://open.spotify.com/track/5izmlzt9mbvzuZogW9TXJB) | [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW), [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [God Decides](https://open.spotify.com/album/5bJrBac7KuQqFY6wn6to8A) | 3:17 | 2022-04-20 |  |
 | [Why Me?](https://open.spotify.com/track/7rpEhFwa8OTnMoqkDT0JOr) | [Audiomarc](https://open.spotify.com/artist/7M5xa3W8nnFeBaOvJVHRxj), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Why Me?](https://open.spotify.com/album/7ipNeYgWhbiQUjmgKJCEHZ) | 3:07 | 2022-04-20 |  |
 | [Ye x4](https://open.spotify.com/track/488crYdGxAi7RdJxKjEWGb) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Ye x4](https://open.spotify.com/album/5K6ozqiCW4tCuU9SxzEx0a) | 2:45 | 2022-04-20 |  |
 

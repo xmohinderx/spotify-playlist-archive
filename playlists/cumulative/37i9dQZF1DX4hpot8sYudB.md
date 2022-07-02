@@ -4,7 +4,7 @@
 
 > Soothing, low frequencies for relaxation, meditation or sleep.
 
-152 songs - 7 hr 50 min - [published](https://open.spotify.com/playlist/1WAyEUZtOSwZyUwFQKR52M)
+152 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/1WAyEUZtOSwZyUwFQKR52M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Brown Noise Focus](https://open.spotify.com/track/53ao8qZRILIaYrCEb5uItT) | [Brown Noise Studio](https://open.spotify.com/artist/7npBnBvj7J6RrSFJfDLBiA) | [Brown Noise Focus](https://open.spotify.com/album/6dbUVNFmB5AtXdYtyfkggZ) | 3:43 | 2022-03-18 |  |
 | [Brown Noise for a Focused Mind](https://open.spotify.com/track/13gIXjOdxY7T2zr8LB4tTy) | [Sweet Sol](https://open.spotify.com/artist/0nJCGnCYFNKjjgHnEaDyUu) | [Brown Noise Focus](https://open.spotify.com/album/6YwdavdsK0jwik4woVUKL3) | 3:42 | 2022-05-20 |  |
 | [Brown Noise for Relaxing](https://open.spotify.com/track/0bohmotsrCFyZ4Wfouo7CV) | [Everywhere Brown Noise](https://open.spotify.com/artist/4r6joVLgbTD7M07z1KIooA) | [Sleeping Brown Noise](https://open.spotify.com/album/7umltGSpruiFHUJUxQJLlf) | 3:43 | 2022-06-14 |  |
-| [Brown Noise for Sleepy Eyes](https://open.spotify.com/track/0wLaPda0ARSiifV6YWrKzk) | [Dancing Waves](https://open.spotify.com/artist/6I734cgGnMNAYXbDKI6pxm) | [Brown Noise for Sleepy Eyes](https://open.spotify.com/album/5MrGxKyGm5EbXn9APxh7u2) | 0:29 | 2022-01-07 |  |
+| [Brown Noise for Sleepy Eyes](https://open.spotify.com/track/0wLaPda0ARSiifV6YWrKzk) | [Dancing Waves](https://open.spotify.com/artist/6I734cgGnMNAYXbDKI6pxm) | [Brown Noise for Sleepy Eyes](https://open.spotify.com/album/5MrGxKyGm5EbXn9APxh7u2) | 3:12 | 2022-01-07 |  |
 | [Brown Noise for the Sleep Deprived](https://open.spotify.com/track/43qwdaLc45ICgUQDkrHtRU) | [The Frequency Shifters](https://open.spotify.com/artist/7MbxdnkfBJ2STy1K8VzbzJ) | [Sleep Gravity](https://open.spotify.com/album/4y50i4pFfW9v9vAvxuLFBw) | 3:39 | 2022-01-21 |  |
 | [Brown Noise Helps Me Sleep](https://open.spotify.com/track/4XyfFduXLf6t14nDhxf4CJ) | [The Sleep Phasers](https://open.spotify.com/artist/7EU2uWLUyhig1j1rbwfiGT) | [Brown Noise Relaxation](https://open.spotify.com/album/03sa3kRpeh8gyYEmThUstR) | 3:41 | 2022-02-03 |  |
 | [Brown Noise in Montreux](https://open.spotify.com/track/1ihJaVUnBGYB3hc01W3xkz) | [Hum Humming](https://open.spotify.com/artist/4Pv75nATrtWwA5uYCDvxYF) | [Brown Noise Stream](https://open.spotify.com/album/1MVMJYj22Jd7qwQC1blZ2q) | 3:34 | 2022-05-20 |  |
@@ -105,7 +105,7 @@
 | [Faithfully Sleeps](https://open.spotify.com/track/5v56B7XYlnGzEPwY4c8I8R) | [Dreaq Lost](https://open.spotify.com/artist/0LBBqvLzvcIeKvUY6CaBPv) | [Faithfully Sleeps](https://open.spotify.com/album/3CtbDpc3uEK8fwsPgtE2v2) | 1:27 | 2022-01-07 |  |
 | [First Class Seat](https://open.spotify.com/track/6l6SGS4smW8UPk2KHAgUCB) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Brown Noise Relaxation](https://open.spotify.com/album/4ojM7wSFWCJPwlu52CTzLc) | 2:30 | 2022-01-07 |  |
 | [Float Chamber](https://open.spotify.com/track/5P9UkTI8azKGhh1SzXuyGN) | [Sleep Miracle](https://open.spotify.com/artist/5Sw5q4pL5JDz22cOeoqxNS) | [Brown Sleep Noise](https://open.spotify.com/album/2NEpp4wrvFoeL3isMKpyXr) | 4:08 | 2022-01-07 | 2022-06-15 |
-| [From Water Brown Noise](https://open.spotify.com/track/2NGH2qb97tFuNMtk84mkJp) | [Autonomic Sensations](https://open.spotify.com/artist/3t4f7jfxke1oDZnLoOTwWJ) | [From Water Brown Noise](https://open.spotify.com/album/1PIr8Yzs4o0zmUZnvPeWie) | 0:29 | 2022-01-21 |  |
+| [From Water Brown Noise](https://open.spotify.com/track/2NGH2qb97tFuNMtk84mkJp) | [Autonomic Sensations](https://open.spotify.com/artist/3t4f7jfxke1oDZnLoOTwWJ) | [From Water Brown Noise](https://open.spotify.com/album/1PIr8Yzs4o0zmUZnvPeWie) | 2:39 | 2022-01-21 |  |
 | [High Winds](https://open.spotify.com/track/3wzu3qv6fwFZrjsWN3jSPS) | [Klangspiel](https://open.spotify.com/artist/2IM5tvnq8r2d8yYY2FTXNX) | [In den Bergen](https://open.spotify.com/album/2czBX549r8Egdi6dDYWJVU) | 4:04 | 2022-01-07 |  |
 | [Hora De Acostarse](https://open.spotify.com/track/3LuLux6nTGTAfv19YraF0I) | [Varianzze](https://open.spotify.com/artist/6VbnALnFPcYH4t5VyQ7LVo) | [Sonido Precioso](https://open.spotify.com/album/0MVwuJugR6K5XnD1x5PEPJ) | 2:02 | 2022-01-07 |  |
 | [Hum Of Noise](https://open.spotify.com/track/1ujckKj5OC4GGvDWVlqdrH) | [Headphone Noise](https://open.spotify.com/artist/3OepgjSo7vIwSToEzyznQT) | [Headphone Noise](https://open.spotify.com/album/2GHfqBCDEGBy0ap6RdFo1E) | 3:26 | 2022-01-07 |  |
@@ -155,7 +155,7 @@
 | [Under the Waves](https://open.spotify.com/track/5IWaJyQjI6v7M16iFiaNNR) | [The SubOceaners](https://open.spotify.com/artist/5JGfWE8Ws1aBP8283nSy8R) | [Dreaming under Water](https://open.spotify.com/album/7GEjOabKlEyD4nXEpDuuop) | 4:06 | 2022-01-07 |  |
 | [waterfall noise](https://open.spotify.com/track/4fYskLkVHdV2rHHV9IQ0cQ) | [noisenoisenoise](https://open.spotify.com/artist/520IgJZ2NunNadFVU1JCDq) | [waterfall noise](https://open.spotify.com/album/4iZSwPLWwbpK5RaD64KyaB) | 2:02 | 2022-01-07 | 2022-03-19 |
 | [White Noise \_ Brown Noise \- Boeing 747 In Rainfall 542hZ \(loopable\)](https://open.spotify.com/track/0ip2uHkZecPHvZ3VMoEXwW) | [Dreamlabs](https://open.spotify.com/artist/6jZVyg15xZCtGD5e0gFdX6) | [Scientific White Noise For Calm And Sleep](https://open.spotify.com/album/4g0I1qnjCbahkpEbDS9M9t) | 0:32 | 2022-01-07 | 2022-05-06 |
-| [White Noise for Sleepless Nights](https://open.spotify.com/track/7GH9OsH5pxBLtPWqoOpAxK) | [Hum Humming](https://open.spotify.com/artist/4Pv75nATrtWwA5uYCDvxYF) | [White Noise for Sleepless Nights](https://open.spotify.com/album/21oxsGDJtC7uliApa3xAmc) | 0:29 | 2022-01-07 |  |
+| [White Noise for Sleepless Nights](https://open.spotify.com/track/7GH9OsH5pxBLtPWqoOpAxK) | [Hum Humming](https://open.spotify.com/artist/4Pv75nATrtWwA5uYCDvxYF) | [White Noise for Sleepless Nights](https://open.spotify.com/album/21oxsGDJtC7uliApa3xAmc) | 2:05 | 2022-01-07 |  |
 | [White Noise Getaway](https://open.spotify.com/track/6ZZE991n3APEDuXeYispRx) | [Static quo](https://open.spotify.com/artist/3AkCopBsXWLYyYirs3hSxz) | [White Noise Getaway](https://open.spotify.com/album/58e8LNtUaPh4vvcnMsfIEN) | 2:27 | 2022-01-07 | 2022-05-06 |
 | [Wide Brown Noise 2k](https://open.spotify.com/track/1kFOhU2I9urbX4HC7pWfsv) | [Nexus Cove](https://open.spotify.com/artist/4e0LhwEE3NIIimGtRTjbZo) | [Wide Brown Noise](https://open.spotify.com/album/7GthlYD6YPHh3bxHpDZsNS) | 2:29 | 2022-01-07 |  |
 | [Windy Noise](https://open.spotify.com/track/7dFk8AAMJhBH0sKoIV6hvw) | [Kali Sounds](https://open.spotify.com/artist/4KuKlLvSRURx2gBezB1k7c) | [Noise Factory](https://open.spotify.com/album/7jZE0eqUPXyFVyiQBTLAUW) | 2:58 | 2022-01-07 |  |

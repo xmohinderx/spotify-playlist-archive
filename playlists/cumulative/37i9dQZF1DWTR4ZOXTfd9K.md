@@ -4,7 +4,7 @@
 
 > The best music from one of the greatest jazz labels.
 
-102 songs - 10 hr 15 min - [published](https://open.spotify.com/playlist/33onHXtD6FTnm9jpuazHYx)
+102 songs - 10 hr 22 min - [published](https://open.spotify.com/playlist/33onHXtD6FTnm9jpuazHYx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Journey Into Melody \- 2007 Digital Remaster/Rudy Van Gelder Edition](https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Look Out! \(Remastered\)](https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr) | 4:55 | 2021-12-02 |  |
 | [Jumpin' The Blues \- Remastered/Rudy Van Gelder Edition](https://open.spotify.com/track/0okh476MArSQObZ4jAr0Ji) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [Midnight Special \(Remastered\)](https://open.spotify.com/album/06gaOfTDym5Jf8FZNxwCnZ) | 5:29 | 2021-12-02 |  |
 | [Let 'Em Roll](https://open.spotify.com/track/1f2hIPiAT870zgTAr7o1Jp) | [Big John Patton](https://open.spotify.com/artist/1N0ymPm6hUQbmzXDuERfeT) | [Let 'Em Roll](https://open.spotify.com/album/6GikhGod1ea9wJLMdX7Fk7) | 6:48 | 2021-12-02 |  |
-| [Lifewish](https://open.spotify.com/track/6zU9WvBMEKRcHd7NbjWa1c) | [Renee Rosnes](https://open.spotify.com/artist/7ixjaiJXnC2cxrbIE3WugD) | [Ancestors](https://open.spotify.com/album/2VDTLlEcXLav53hfVkqV5R) | 0:29 | 2021-12-02 |  |
+| [Lifewish](https://open.spotify.com/track/6zU9WvBMEKRcHd7NbjWa1c) | [Renee Rosnes](https://open.spotify.com/artist/7ixjaiJXnC2cxrbIE3WugD) | [Ancestors](https://open.spotify.com/album/2VDTLlEcXLav53hfVkqV5R) | 7:33 | 2021-12-02 |  |
 | [Little B's Poem \- Remastered 1994](https://open.spotify.com/track/1H6HqwUyRWW55IzH3k1ewz) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Components](https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP) | 5:11 | 2021-12-02 |  |
 | [LLL](https://open.spotify.com/track/7F2GCFOBnFoNyE2qfYUR3A) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Homeward Bound](https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj) | 6:10 | 2021-12-02 |  |
 | [Lotus Flower \- Rudy Van Gelder Edition/2007 Digital Remaster](https://open.spotify.com/track/5LCOngkOEmtgLf0Igfu63k) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Afro\-Cuban \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/6sfAnBHbBbI8Z4NEDpXycZ) | 4:16 | 2021-12-02 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/10zBfLMB5ty2Pec5LYRcgI.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 450 likes - 27 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 450 likes - 27 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/10zBfLMB5ty2Pec5LYRcgI.md) - [plain]
 | 17 | [Celebration](https://open.spotify.com/track/6xUkowlYcJqRouKH5Wk37D) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Celebration](https://open.spotify.com/album/2pkUW0Vj6vcOUgqcF0QTp4) | 4:50 |
 | 18 | [Cold Blooded \- Edited Version](https://open.spotify.com/track/3Tnw5GBiHP3MLzhlKCl45P) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Indicud](https://open.spotify.com/album/58Inf4hNBndu134jhpIjz5) | 2:32 |
 | 19 | [Ms\. Hill](https://open.spotify.com/track/2ZLkHOVY7dqXIyhN4YQ4FH) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y) | [Right About Now \- The Official Sucka Free Cd](https://open.spotify.com/album/43IdiirCdiNaEKQqNidF3u) | 3:44 |
-| 20 | [No New Friends \- SFTB Remix](https://open.spotify.com/track/1jZi8HvWkfWIQcmlxmqber) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [No New Friends \(SFTB Remix\)](https://open.spotify.com/album/0miqsmiM9kOTvkAwgvrFV8) | 0:29 |
+| 20 | [No New Friends \- SFTB Remix](https://open.spotify.com/track/1jZi8HvWkfWIQcmlxmqber) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [No New Friends \(SFTB Remix\)](https://open.spotify.com/album/0miqsmiM9kOTvkAwgvrFV8) | 5:07 |
 | 21 | [C.R.E.A.M\. \(Cash Rules Everything Around Me\) \- Radio Edit](https://open.spotify.com/track/03eNP4SaeESO6NpRE6F8FO) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [Legend Of The Wu\-Tang: Wu\-Tang Clan's Greatest Hits](https://open.spotify.com/album/7qwvRWyBtpYmUFZQkdpsvq) | 4:05 |
 | 22 | [My God](https://open.spotify.com/track/1bAyhhi49qRGBfPADwJ3ts) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [My God](https://open.spotify.com/album/62mClO5skiQRndiTlOV6gZ) | 3:36 |
 | 23 | [Ooh Ahh \(My Life Be Like\) \(feat\. Toby Mac\)](https://open.spotify.com/track/1iUoWD9qE93GyoT80O5IKt) | [Grits](https://open.spotify.com/artist/6aUgzC0cMh0StjV7LyFEDr), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [The Art of Translation](https://open.spotify.com/album/5WAGBm7u5rnDz0veMVF0zA) | 3:53 |

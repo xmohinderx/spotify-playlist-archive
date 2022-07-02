@@ -4,7 +4,7 @@
 
 > Sweet lullabies on guitar for little dreamers.
 
-102 songs - 3 hr 25 min - [published](https://open.spotify.com/playlist/0w5GCTe5oFicPO0HaemBhO)
+105 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/0w5GCTe5oFicPO0HaemBhO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Are You Sleeping/Frere Jacques](https://open.spotify.com/track/1YdSSgLpMWZcd19T1FoJVv) | [Tippy Tapp](https://open.spotify.com/artist/3mfGOb7OtunRN7s8MiRczA) | [Are You Sleeping/Frere Jacques](https://open.spotify.com/album/4VjJKT36JKTtQ6fLn1rX77) | 1:19 | 2021-11-11 |  |
 | [Ave Nocturne](https://open.spotify.com/track/28JvPv8QUEE747BM5ujR5B) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Classical Baby Sleep Music](https://open.spotify.com/album/3c9bS2lz06ixypXB49deUz) | 2:49 | 2021-11-11 |  |
 | [Baa Baa Black Sheep](https://open.spotify.com/track/6nj5OQscS6xp5OT0O7sxwn) | [Brown Owl Plays](https://open.spotify.com/artist/44YvYIWPDPNLJaHiHktrJD) | [Lullabies on Solo Acoustic Guitar for Babies and Their Parents](https://open.spotify.com/album/5uXkJiM9uP7nxeiME3AVPe) | 1:21 | 2021-11-11 |  |
-| [Baby Mine](https://open.spotify.com/track/0QuySdLpzsu6KNfvd79WVL) | [Wholy Moly](https://open.spotify.com/artist/3XdE126uFbtnhVKolZQ65n) | [Baby Mine](https://open.spotify.com/album/7uigbvctsvCz0qaxWUWVIW) | 0:29 | 2021-11-11 |  |
+| [Baby Mine](https://open.spotify.com/track/0QuySdLpzsu6KNfvd79WVL) | [Wholy Moly](https://open.spotify.com/artist/3XdE126uFbtnhVKolZQ65n) | [Baby Mine](https://open.spotify.com/album/7uigbvctsvCz0qaxWUWVIW) | 2:17 | 2021-11-11 |  |
 | [Bedtime Song](https://open.spotify.com/track/1VQoBu1BFz1VicW34FUGmW) | [High Road Guitars](https://open.spotify.com/artist/0f6A9z1kx48hxKrL0trfGw) | [Bedtime Song](https://open.spotify.com/album/7CV29FfihxpwnunsoDAVfH) | 1:36 | 2021-11-11 |  |
 | [Bedtimes Poems](https://open.spotify.com/track/6YpPCYMFLD5jU4lPptIRFF) | [My Little Guitar](https://open.spotify.com/artist/0N43eonuFdAXrUaAyFJAmQ) | [Bedtimes Poems](https://open.spotify.com/album/5AE0Q8Pjh7L6HpYobpbgdS) | 3:20 | 2022-06-10 |  |
 | [Blåsippor](https://open.spotify.com/track/0rGiMzYYgDInT9uJAhkhPi) | [Hjalmar Lagerqvist](https://open.spotify.com/artist/3Zk8GcjOL3OAI8zS8t1b0S) | [Blåsippor](https://open.spotify.com/album/0YdmV5pPDZOp30GXboRo3g) | 1:20 | 2021-11-11 |  |
@@ -57,7 +57,10 @@
 | [In My Dreams](https://open.spotify.com/track/7bpuq3wZc7ZTd15SGyqs5O) | [Paulette Brannigan](https://open.spotify.com/artist/5XqF83ddtiCAPcNGUVsze8) | [In My Dreams](https://open.spotify.com/album/4X1xOO2HxsxuwxwNXvp2QI) | 1:42 | 2021-11-11 |  |
 | [It's Time To Go To Sleep](https://open.spotify.com/track/0MODSghjQ1qBiy9mP5EoLm) | [The Magic Guitar](https://open.spotify.com/artist/2lETErpujLR6ngyVsrSj2v) | [A\-Hunting We Will Go](https://open.spotify.com/album/6O1oNKCphZNf7Qlzwmlr9E) | 2:08 | 2021-11-11 |  |
 | [It's Time To Say Sweet Dreams](https://open.spotify.com/track/32gQ8o6mhuQySEfh9ztsuq) | [Julio Neve](https://open.spotify.com/artist/1PQUU6PsqiLylfwDuzkGc8) | [It's Time To Say Sweet Dreams](https://open.spotify.com/album/6mGQmZTQ4Pvh6srEI0yL1w) | 1:45 | 2021-11-11 |  |
+| [Kling och klang](https://open.spotify.com/track/183VkWkmFqG7iv6AbtbW5H) | [Simon Fjällström](https://open.spotify.com/artist/5cmNqNdfwQv9XZWjT7YGpT) | [Kling och klang](https://open.spotify.com/album/2BsQ8v9OA15dH9XZo0SpYe) | 2:27 | 2022-07-01 |  |
+| [La Magia del Alma](https://open.spotify.com/track/4kyEfs7bWqDzdBwndT7l9d) | [Ernesto Jiménez](https://open.spotify.com/artist/6xf34gZLMObXtgYsbmyjRS) | [La Magia del Alma](https://open.spotify.com/album/5LLIHdECpb0s7LJHLz45py) | 2:04 | 2022-07-01 |  |
 | [Lake District](https://open.spotify.com/track/62rk91S0MdArx37LedWsZH) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Classical Lullabies](https://open.spotify.com/album/4WAOzYGmbwp2DaPL5NJsLb) | 1:44 | 2021-11-11 |  |
+| [Lego Lego](https://open.spotify.com/track/1kxyDjsR44bTOnLDm9XyFV) | [Mia O’Reilly](https://open.spotify.com/artist/73DTyr2tWDvEQQfoQUQUEc) | [Lego Lego](https://open.spotify.com/album/5E1XwidizfIascTQ6PqgqR) | 2:17 | 2022-07-01 |  |
 | [Little Jack Horner](https://open.spotify.com/track/3CmTG34ua7Q7oFGxggNPuN) | [My Little Guitar](https://open.spotify.com/artist/0N43eonuFdAXrUaAyFJAmQ) | [Twinkle Twinkle Little Star](https://open.spotify.com/album/3cofneXkg1OtWT3tYF4Z6k) | 1:41 | 2021-11-11 | 2022-06-11 |
 | [Lovely Nights](https://open.spotify.com/track/5j0DGm5INBjsEAAFKq8zHd) | [My Little Guitar](https://open.spotify.com/artist/0N43eonuFdAXrUaAyFJAmQ) | [Bedtimes Poems](https://open.spotify.com/album/5AE0Q8Pjh7L6HpYobpbgdS) | 3:14 | 2022-06-10 |  |
 | [Lullaby For My Baby](https://open.spotify.com/track/3YBI07hmxDM28KhbFne2L0) | [Leo Sen](https://open.spotify.com/artist/1oLjdeWKZatIatSZaWwnHr) | [Lullaby For My Baby](https://open.spotify.com/album/4qHIcljCu2PnqRIZf9UYBI) | 2:14 | 2021-11-11 |  |
@@ -73,7 +76,7 @@
 | [My Yellow Balloon](https://open.spotify.com/track/5xIJe9ZI1WMChQebC2qwQY) | [Lucy Sothersby](https://open.spotify.com/artist/3aRSuhmJ2XZzN6ycsMJ9uH) | [My Yellow Balloon](https://open.spotify.com/album/55cKuVSQH7zhsaEL6v4ivy) | 2:53 | 2022-05-16 |  |
 | [Nocturne For Luna](https://open.spotify.com/track/6WZmh5M14Gb96trVMtNVmj) | [Jelmer Traaug](https://open.spotify.com/artist/2tt5ElREN9IPRHQBofxNhp) | [Nocturne For Luna](https://open.spotify.com/album/3haire3hrJ1h9zT4VT78V4) | 2:12 | 2021-11-11 |  |
 | [Oh My Darling Clementine \- Guitar Instrumental](https://open.spotify.com/track/52V3HMMWo2ifBu51czJbAU) | [Percy Montrose](https://open.spotify.com/artist/7fL5qAhMs5tY2zBgh6LPzw), [Benjamin Bonum Nocte](https://open.spotify.com/artist/3gc2mMM2cf56LNeGu0nKrY), [Baby Sleep](https://open.spotify.com/artist/1UD3SXwenV5Zmrdl7KKfqW), [Baby Lullaby](https://open.spotify.com/artist/7vgJnbva49FV9p5EkNlKq7) | [Guitar Lullabies](https://open.spotify.com/album/1tX3mdy95JS5Q6VKG0bpD0) | 1:18 | 2021-11-11 |  |
-| [On Top of Old Smokey \(Instrumental Version\)](https://open.spotify.com/track/0iPYaJS6hbMahRGl7VtueR) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Baby Lullabye Music \- Acoustic Songs for Children](https://open.spotify.com/album/0Udhpg3Zp3Y2jZkwb4M0lE) | 0:29 | 2021-11-11 |  |
+| [On Top of Old Smokey \(Instrumental Version\)](https://open.spotify.com/track/0iPYaJS6hbMahRGl7VtueR) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Baby Lullabye Music \- Acoustic Songs for Children](https://open.spotify.com/album/0Udhpg3Zp3Y2jZkwb4M0lE) | 1:58 | 2021-11-11 |  |
 | [Pillows](https://open.spotify.com/track/22eWMP9QXnJSVcLpKCxl1w) | [The Bed Timers](https://open.spotify.com/artist/6H1FsTGe0ycXNKnGze3rqf) | [Pillows](https://open.spotify.com/album/1oaYNR7kCYRVaGj6c5fnGa) | 1:56 | 2021-11-11 |  |
 | [Pop Goes the Weasel](https://open.spotify.com/track/4EsbzD1hbc4Kk7utFWGwIV) | [Singing Guitar](https://open.spotify.com/artist/1SQq7ZFrr73CCZ5bidEnii) | [Pop Goes the Weasel](https://open.spotify.com/album/5axZEOVm1BnlBFEcrEjjk3) | 1:18 | 2021-11-11 |  |
 | [Quarantine](https://open.spotify.com/track/2bO6mmvs9RLVTghH0Dvqhm) | [Manuel Gonza](https://open.spotify.com/artist/0DvrI5NcxFYxzaySshEJxw) | [Quarantine](https://open.spotify.com/album/2DNVnWLKBxPnayjT8q2VYc) | 1:33 | 2021-11-11 |  |

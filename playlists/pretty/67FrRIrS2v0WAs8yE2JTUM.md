@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/67FrRIrS2v0WAs8yE2JTUM.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 333 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 333 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/67FrRIrS2v0WAs8yE2JTUM.md) - [plain]
 | 18 | [At Seventeen](https://open.spotify.com/track/2mccPWSk3iNCw2697EzxCN) | [Janis Ian](https://open.spotify.com/artist/5c9uFWpZY2MTlk7Rft0tgp) | [Between The Lines](https://open.spotify.com/album/321HJjUwx91lf5XWnpiX7z) | 4:43 |
 | 19 | [Pick Up The Pieces](https://open.spotify.com/track/1Apsc59v5KojwhFEVmYoe4) | [Average White Band](https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb) | [Average White Band \- 5 Songs EP](https://open.spotify.com/album/74m662ll3NHZROH6ld1Deg) | 3:54 |
 | 20 | [The Hustle \- Original Mix](https://open.spotify.com/track/75PHqzep3Lf11sIYP5ps5q) | [Van McCoy](https://open.spotify.com/artist/0bShb58TO0fM5jOjXhB1WT) | [The Hustle & The Best of Van McCoy](https://open.spotify.com/album/0QdIm38ml7jHplmYOqazbF) | 4:10 |
-| 21 | [Lady Marmalade \- Single Version](https://open.spotify.com/track/3bFK0tj9d6IWdAUSX3oylo) | [LaBelle](https://open.spotify.com/artist/3DznKagEU8yMQZR9z33Da5) | [70s 100 Hits](https://open.spotify.com/album/1k7WkNHGPNPnri2tsowvtg) | 0:29 |
+| 21 | [Lady Marmalade \- Single Version](https://open.spotify.com/track/3bFK0tj9d6IWdAUSX3oylo) | [LaBelle](https://open.spotify.com/artist/3DznKagEU8yMQZR9z33Da5) | [70s 100 Hits](https://open.spotify.com/album/1k7WkNHGPNPnri2tsowvtg) | 3:14 |
 | 22 | [Why Can't We Be Friends](https://open.spotify.com/track/0Rkc2k7fhcla1LRSjZUGTN) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Semi\-Pro \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3U3BdoxSfeiLf1yrf3aMAE) | 3:48 |
 | 23 | [Love Won't Let Me Wait \- WMI Compilation Edit](https://open.spotify.com/track/2HsSB8TgK43HHyLAFEBaC7) | [Major Harris](https://open.spotify.com/artist/0mpVqJaKwg11LdSRrvI0PL) | [Atlantic 60th: Love Song Soul](https://open.spotify.com/album/7M0fftlBwWyIoVsjqsAnkO) | 5:29 |
 | 24 | [Boogie On Reggae Woman](https://open.spotify.com/track/4IbO6Y9VBWvNaiRrQPHuIW) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Number 1's](https://open.spotify.com/album/5x7vXXWapy8cUmdSuwpUy1) | 4:48 |
@@ -39,16 +39,16 @@ pretty - [cumulative](/playlists/cumulative/67FrRIrS2v0WAs8yE2JTUM.md) - [plain]
 | 29 | [Fire](https://open.spotify.com/track/2R4T2Nxu8dZD4KmECfVliG) | [Ohio Players](https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U) | [Funk On Fire \- The Mercury Anthology](https://open.spotify.com/album/4FBrvP2RlrIrQCoO0HL2ty) | 4:34 |
 | 30 | [Magic](https://open.spotify.com/track/6c1PtwU8vG4le6XwpJIU2W) | [Pilot](https://open.spotify.com/artist/6PwcexHTG0qJWQQwp05Bpm) | [Anthology](https://open.spotify.com/album/1N3q10isGlFhO9ADa0rI8d) | 3:06 |
 | 31 | [Please Mr\. Postman](https://open.spotify.com/track/6eVOlcghvV4pB2gIQvcDKt) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Horizon](https://open.spotify.com/album/2gByYsDFncvtJUzPmI53s1) | 2:52 |
-| 32 | [Sister Golden Hair \- 2006 Remaster](https://open.spotify.com/track/0S4fNxBbROY6XBqW4wPDN5) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo) | [Definitive Pop: America](https://open.spotify.com/album/074qwgdr7Vn4rkqR4O5rK8) | 0:29 |
+| 32 | [Sister Golden Hair \- 2006 Remaster](https://open.spotify.com/track/0S4fNxBbROY6XBqW4wPDN5) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo) | [Definitive Pop: America](https://open.spotify.com/album/074qwgdr7Vn4rkqR4O5rK8) | 3:16 |
 | 33 | [Lucy In The Sky With Diamonds \- Edit](https://open.spotify.com/track/2mQPKwRXPeIo0kMy22h2Pc) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rocket Man \- Number Ones](https://open.spotify.com/album/2sXllDaZxKLSSHGe0deMWA) | 5:55 |
 | 34 | [Mandy](https://open.spotify.com/track/4oV4dVj0evVFhjPLvUz8w8) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Ultimate Manilow](https://open.spotify.com/album/2GAmoT3vdSG2OKA1pwFjwG) | 3:17 |
 | 35 | [Have You Never Been Mellow](https://open.spotify.com/track/5ehVOC0zSdwWqyZlhomJSi) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Have You Never Been Mellow](https://open.spotify.com/album/0nDDIFFIpw5F1fSKe84UU9) | 3:33 |
 | 36 | [Could It Be Magic](https://open.spotify.com/track/6FDrn47S3Q4s9rhLHm4um0) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Barry Manilow I](https://open.spotify.com/album/57vciHCWBA2JvPDdhZ5dHE) | 6:49 |
-| 37 | [Cat's in the Cradle](https://open.spotify.com/track/6hLqEJg2GnnDG4W0Y64hyD) | [Harry Chapin](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) | [Cat's in the Cradle / Vacancy](https://open.spotify.com/album/2Nh9PmJwU1W7d06m7woqB1) | 0:29 |
+| 37 | [Cat's in the Cradle](https://open.spotify.com/track/6hLqEJg2GnnDG4W0Y64hyD) | [Harry Chapin](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) | [Cat's in the Cradle / Vacancy](https://open.spotify.com/album/2Nh9PmJwU1W7d06m7woqB1) | 3:32 |
 | 38 | [Wildfire](https://open.spotify.com/track/737c89v3Zdit8EUyNJ7KeS) | [Michael Martin Murphey](https://open.spotify.com/artist/4jL1usPiGDK8TD46zJP4gu) | [The Best Of Michael Martin Murphey](https://open.spotify.com/album/4oNkliPdTLg2FHIDp4PgDN) | 5:07 |
 | 39 | [I'm Not Lisa](https://open.spotify.com/track/2G9HPwBaHica41sMtQ7QvX) | [Jessi Colter](https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v) | [Jessi Colter Collection](https://open.spotify.com/album/1ik8galDoBJrMqOAf4n6PZ) | 3:21 |
 | 40 | [I'm Not In Love](https://open.spotify.com/track/6pWOFsrc9iho2uqhbHK1kV) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [100 Essential Love Songs \(Online version\)](https://open.spotify.com/album/3UgnOTcOt4JlplBn3eL82v) | 5:58 |
-| 41 | [I Can Help](https://open.spotify.com/track/6oDOACuzVZPMNaAfLGpCWG) | [Billy Swan](https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV) | [70s 100 Hits](https://open.spotify.com/album/1k7WkNHGPNPnri2tsowvtg) | 0:29 |
+| 41 | [I Can Help](https://open.spotify.com/track/6oDOACuzVZPMNaAfLGpCWG) | [Billy Swan](https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV) | [70s 100 Hits](https://open.spotify.com/album/1k7WkNHGPNPnri2tsowvtg) | 3:57 |
 | 42 | [Fallin' in Love \- Rerecorded Version](https://open.spotify.com/track/5TR0TfoUWUwaOWeCXELy5m) | [Hamilton](https://open.spotify.com/artist/56xde3bnvx5G7v6Grx4985), [Joe Frank](https://open.spotify.com/artist/4XhH1SoXmjHPye3Ax2rbgy), [Reynolds](https://open.spotify.com/artist/5wvbmLEn1xBIy0w8Ze2CLr) | [The Wonderful World of the 70's: 100 Hit Songs](https://open.spotify.com/album/5pVffpSDVlqPRADnKRmSRE) | 3:09 |
 | 43 | [Feelings](https://open.spotify.com/track/7sbRf4ILKrUnzImzxxO94k) | [Morris Albert](https://open.spotify.com/artist/4sFsq7NFJ0zz0uN3Zb6QJ9) | [Feelings](https://open.spotify.com/album/2eTfwo3P67ae9tXKNt5ZHU) | 3:44 |
 | 44 | [Chevy Van](https://open.spotify.com/track/3O3HTZ2O88k9zlC913mQzL) | [Sammy Johns](https://open.spotify.com/artist/5L2UqkzpfZD5OpdA6fSfVH) | [Chevy Van](https://open.spotify.com/album/38p3U3WzgfMz9GnC0Ujrp8) | 2:54 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 > An array of selects by Kx5, a collaboration over a decade and a half in the making by deadmau5 & Kaskade.
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,629 likes - 36 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,651 likes - 36 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 | 15 | [Answers \- Radio Edit](https://open.spotify.com/track/0Gj9sN8Zd6tdUf549M6Rva) | [Cornelius SA](https://open.spotify.com/artist/7t6WmbNSAbZJj4NDKMxH9N), [Pierre Stemmett](https://open.spotify.com/artist/2xei4TwXqWutkMSxSCXSKS) | [Answers](https://open.spotify.com/album/1eFxfRltMiE06BejGYmHQv) | 3:59 |
 | 16 | [Cronus](https://open.spotify.com/track/0TjwTTV3LvmtmElTEJGC96) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Cronus / Volition](https://open.spotify.com/album/5yMK9RyecHKtrkFYfI7ye4) | 4:53 |
 | 17 | [Shadows in the Dark](https://open.spotify.com/track/1kyT264yi4y1VpkpCKYy3k) | [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [Elliot Moss](https://open.spotify.com/artist/2xGCGoulmU85qYdpb2Z4xx) | [Shadows in the Dark](https://open.spotify.com/album/34Bo14JfCZCjfyYTQhgwQT) | 3:08 |
-| 18 | [Feels Like](https://open.spotify.com/track/6Y82UdCmkWnOZTtS7X6ss8) | [Morgin Madison](https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej) | [Living the Phantasm](https://open.spotify.com/album/32HTSzMIjOG6uYSL1qaK7u) | 0:29 |
+| 18 | [Feels Like](https://open.spotify.com/track/6Y82UdCmkWnOZTtS7X6ss8) | [Morgin Madison](https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej) | [Living the Phantasm](https://open.spotify.com/album/32HTSzMIjOG6uYSL1qaK7u) | 3:41 |
 | 19 | [Throw Down Let Go](https://open.spotify.com/track/3fXwBmuu2pHZ2pwPBCpzdQ) | [Spor](https://open.spotify.com/artist/42EZt9LfgsaF0WHlDC3FoM) | [Throw Down Let Go](https://open.spotify.com/album/506fHgUgsaUH5QYsCAH88z) | 4:17 |
 | 20 | [Stuck](https://open.spotify.com/track/60iWDIr6F1OvUItCHJWUmg) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK), [Marieme](https://open.spotify.com/artist/4M9MGz93wIiFmEKhrw2yDD) | [Stuck / Reflex](https://open.spotify.com/album/7FfdL0BHSadA97xXsQDp4H) | 5:30 |
 | 21 | [Physical Layer](https://open.spotify.com/track/5aMmJumApfYHE3F3v2Mhu6) | [Lamorn](https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9) | [Encore](https://open.spotify.com/album/4nLgbzxvtKMdJoQCYdgxWZ) | 3:56 |

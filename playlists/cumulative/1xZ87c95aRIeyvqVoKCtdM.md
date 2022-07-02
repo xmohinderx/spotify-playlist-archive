@@ -4,7 +4,7 @@
 
 > 
 
-50 songs - 2 hr 39 min - [published](https://open.spotify.com/playlist/75ypJYdLK2QUpZwvGbHDIs)
+50 songs - 2 hr 41 min - [published](https://open.spotify.com/playlist/75ypJYdLK2QUpZwvGbHDIs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Hot Fun in the Summertime](https://open.spotify.com/track/4t6NQkpUmvpvLDCkl3XuwA) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Greatest Hits](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) | 2:37 | 2013-06-27 |  |
 | [Hurt So Bad](https://open.spotify.com/track/04CMjrGSRLCkPeAA4aiMsK) | [The Lettermen](https://open.spotify.com/artist/3lzlUccNrekC1oFPCjNIOX) | [Capitol Collectors Series](https://open.spotify.com/album/60BxKKLrJ8lIcg4AKsIIzQ) | 2:19 | 2013-06-27 |  |
 | [I Can't Get Next To You \- Single Version/Mono](https://open.spotify.com/track/5cS39Jh4zJeTTqwjtAcLfc) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Definitive Collection](https://open.spotify.com/album/5Tyak5Sjr8gxSDOE2ZDGQx) | 2:51 | 2013-06-27 |  |
-| [I've Gotta Be Me](https://open.spotify.com/track/4chNWMOlNGEWqR9dP6TDMb) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [The Essentials: Sammy Davis Jr.](https://open.spotify.com/album/2GLDjgO2lTU2sMoAEgMPtw) | 0:29 | 2013-06-27 |  |
+| [I've Gotta Be Me](https://open.spotify.com/track/4chNWMOlNGEWqR9dP6TDMb) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [The Essentials: Sammy Davis Jr.](https://open.spotify.com/album/2GLDjgO2lTU2sMoAEgMPtw) | 2:54 | 2013-06-27 |  |
 | [In the Ghetto](https://open.spotify.com/track/6csLL0MBNVIMx19PfsKsW7) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:57 | 2013-06-27 |  |
 | [In the Year 2525](https://open.spotify.com/track/3LdLGNKCW0dNr14JQlZPQt) | [Zager & Evans](https://open.spotify.com/artist/55IyYO6fmYpYw6Nd4YF7bw) | [Radio Hits Of the '60s](https://open.spotify.com/album/7utciXyZzFAXrLFl2PAoBA) | 3:11 | 2013-06-27 |  |
 | [It's Your Thing](https://open.spotify.com/track/2oezpnnea1VXHpJEbqnBhw) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [It's Your Thing: The Story Of The Isley Brothers](https://open.spotify.com/album/21O10zQ7YrFOTgfyRmopHs) | 2:46 | 2013-06-27 |  |

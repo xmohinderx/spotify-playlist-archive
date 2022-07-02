@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdePw2uBvpYa.md) - [plain]
 
 > <a href="https://linktr.ee/PunkaBristol">Punka</a> creates a safe space for the alternative scene with their club night at the heart of Bristol’s LGBTQIA+ community.\. This is their sound of Pride\. Photography: Delirium and Proper Job Productions
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,674 likes - 52 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,674 likes - 52 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdePw2uBvpYa.md) - [plain]
 | 36 | [You're Tame](https://open.spotify.com/track/23mfThCasI4ReUUX4CMVpe) | [The Empty Page](https://open.spotify.com/artist/1qWwVAQahrqNPgG8pEkcwM) | [You're Tame](https://open.spotify.com/album/3eAIgHRIvs5xPjevNSlCq6) | 3:21 |
 | 37 | [Tut Tut Tut](https://open.spotify.com/track/2lk8vM2rXb8eDGinOyW15p) | [The Tuts](https://open.spotify.com/artist/034JSYadRJsXRgY61c7HSq) | [Update Your Brain](https://open.spotify.com/album/4yZJcVLLLqowccHbHg59ZD) | 2:32 |
 | 38 | [Restless](https://open.spotify.com/track/42nZ7x8gIGOk8sPyDLTcdP) | [Petrol Girls](https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L) | [Talk of Violence](https://open.spotify.com/album/64bdsls9U5ZGarwEkCbVfl) | 2:56 |
-| 39 | [Camelot](https://open.spotify.com/track/20c0ddoDmkoYwglFFKDJgh) | [Skating Polly](https://open.spotify.com/artist/1ST6hERy8rGdwUaNAZxfG9) | [The Make It All Show](https://open.spotify.com/album/0PaV2cQZJLbjYjnZRoYq2f) | 0:29 |
+| 39 | [Camelot](https://open.spotify.com/track/20c0ddoDmkoYwglFFKDJgh) | [Skating Polly](https://open.spotify.com/artist/1ST6hERy8rGdwUaNAZxfG9) | [The Make It All Show](https://open.spotify.com/album/0PaV2cQZJLbjYjnZRoYq2f) | 3:28 |
 | 40 | [Bad Bitch](https://open.spotify.com/track/0GvgMLQN98WOVkkN6iuSQF) | [Peach Club](https://open.spotify.com/artist/0iqaZVmBEEmjk5FcoEOPVv) | [Cherry Baby EP](https://open.spotify.com/album/38IosoVjY7oVRh7AYtlPpA) | 4:00 |
 | 41 | [Who Are You?](https://open.spotify.com/track/5w5XQZVRCgSAQqhy4TK4FH) | [CATBEAR](https://open.spotify.com/artist/2VcMAUD65hHSitLhcbyjIS) | [Who Are You?](https://open.spotify.com/album/5dGJuwklJhKw8tua4pah3O) | 3:07 |
 | 42 | [Work](https://open.spotify.com/track/7bNmkqAW6TbyVaWhOB01ws) | [Emily Breeze](https://open.spotify.com/artist/581WwGSO6sWHN0RLc9EBqr) | [Rituals](https://open.spotify.com/album/160kR6odSYYxQJdrg8D7xD) | 5:36 |

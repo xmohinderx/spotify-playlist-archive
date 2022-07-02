@@ -4,7 +4,7 @@
 
 > Get your morning on the ropes with some ANGRY ROCK!
 
-22 songs - 1 hr 15 min - [published](https://open.spotify.com/playlist/3cdCDdhiVUM0wJpOO2L3mU)
+22 songs - 1 hr 17 min - [published](https://open.spotify.com/playlist/3cdCDdhiVUM0wJpOO2L3mU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,6 @@
 | [Swerve City](https://open.spotify.com/track/3RVz8wD8Bln7Vanl6f4ixY) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Koi No Yokan](https://open.spotify.com/album/3FYZ9IY806abMbNRhDghmV) | 2:44 | 2016-09-07 |  |
 | [The Beautiful People](https://open.spotify.com/track/2aIB1CdRRG7YLBu9hNw9nR) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Antichrist Superstar](https://open.spotify.com/album/7APnZJwayR3lH9aUDPDYQB) | 3:38 | 2016-09-07 |  |
 | [This Is the New Shit](https://open.spotify.com/track/4b4eQqhpgmJsy4dP07V7cG) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [The Matrix Reloaded: The Album](https://open.spotify.com/album/4iLPd0Abb4S96sB2QEz2bl) | 4:20 | 2016-09-07 |  |
-| [When Worlds Collide](https://open.spotify.com/track/6aF5JtQSrh7wNrkDE9B0My) | [Powerman 5000](https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC) | [Tonight The Stars Revolt](https://open.spotify.com/album/3Z3yndLeHs01iYPSNzTBBk) | 0:29 | 2016-09-07 |  |
+| [When Worlds Collide](https://open.spotify.com/track/6aF5JtQSrh7wNrkDE9B0My) | [Powerman 5000](https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC) | [Tonight The Stars Revolt](https://open.spotify.com/album/3Z3yndLeHs01iYPSNzTBBk) | 2:57 | 2016-09-07 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

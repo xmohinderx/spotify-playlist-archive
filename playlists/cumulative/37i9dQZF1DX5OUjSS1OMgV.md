@@ -4,7 +4,7 @@
 
 > Rock this list to help you rock that last rep\. Gainz.
 
-103 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/7HxL3sD1XtHdgI4KkmP1RI)
+103 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/7HxL3sD1XtHdgI4KkmP1RI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Good F\*\*King Music](https://open.spotify.com/track/75zbw2JGazrTzrJ5r36Af3) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Good F\*\*King Music](https://open.spotify.com/album/2L2WGYRsX6dMazAmpJZneU) | 3:26 | 2021-12-16 |  |
 | [Got the Life](https://open.spotify.com/track/2IdHMVUxMbLHW5HU4OvOcZ) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Follow The Leader](https://open.spotify.com/album/5eAoPNZzWRn2C409kAUsbE) | 3:45 | 2021-12-16 |  |
 | [Hardwired](https://open.spotify.com/track/01JszWYuKqRjddPQ4creVF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired](https://open.spotify.com/album/4MQxwNLnVePt7CYmLE50kC) | 3:11 | 2022-03-03 |  |
-| [Human](https://open.spotify.com/track/2SYvVwWywrzQRskxBWvCq0) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [Human](https://open.spotify.com/album/5rIDaVLFMa0QGdQufmv0TE) | 0:29 | 2021-12-16 |  |
+| [Human](https://open.spotify.com/track/2SYvVwWywrzQRskxBWvCq0) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [Human](https://open.spotify.com/album/5rIDaVLFMa0QGdQufmv0TE) | 3:33 | 2021-12-16 |  |
 | [I'll Go Until My Heart Stops](https://open.spotify.com/track/2PW7pruCW2QDVMlTEx8KS4) | [36 Crazyfists](https://open.spotify.com/artist/4ijGLY4dzlurDh7jqH3tW7) | [Rest Inside The Flames](https://open.spotify.com/album/1LJRykAUs5DCigHfXG30bj) | 3:45 | 2021-12-16 |  |
 | [I.W.G.F.U.](https://open.spotify.com/track/6nIsw8hm5Qwna1iwJYTwXc) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [I.W.G.F.U.](https://open.spotify.com/album/2X8mrYWzbs724f3FEnSUEI) | 3:36 | 2022-04-12 |  |
 | [Imaginary Fire \- feat\. Greg Puciato](https://open.spotify.com/track/1bqXa1m255ElnYj14xvzll) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP), [Greg Puciato](https://open.spotify.com/artist/3seAlZdPsUKKveZltRG7wi) | [Imaginary Fire](https://open.spotify.com/album/0ZpAiTmi2EpqUqKYlWkfAx) | 4:21 | 2022-04-12 |  |

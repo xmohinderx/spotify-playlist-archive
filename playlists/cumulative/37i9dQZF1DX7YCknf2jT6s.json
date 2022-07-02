@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Theo Croker",
+  "description": "New jazz for open minds. Cover: Butcher Brown",
   "name": "State of Jazz",
   "published_playlist_ids": [
     "5R2nAaHgZSXgVDUHN6bx38"
@@ -984,6 +984,32 @@
     },
     {
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/1IjkEl3EsY1TN235FBZxkk"
+      },
+      "artists": [
+        {
+          "name": "Portraits in Jazz",
+          "url": "https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a"
+        },
+        {
+          "name": "Claus Waidtl\u00f8w",
+          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
+        },
+        {
+          "name": "Nikolaj Hess",
+          "url": "https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311674,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/2I5SgAkJqpHCEaqjUTZ2mo"
+    },
+    {
+      "album": {
         "name": "Blue For You",
         "url": "https://open.spotify.com/album/0ate7tfSz0ilY0OEq8vKu9"
       },
@@ -1484,6 +1510,24 @@
     },
     {
       "album": {
+        "name": "Day Two",
+        "url": "https://open.spotify.com/album/1GeXzJsIsGFZk68jjWM0TE"
+      },
+      "artists": [
+        {
+          "name": "Amir Bresler",
+          "url": "https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316747,
+      "name": "Day Two",
+      "url": "https://open.spotify.com/track/2Iq4uYjhTTnSpd9dIiKVSs"
+    },
+    {
+      "album": {
         "name": "Daybreak",
         "url": "https://open.spotify.com/album/6OsMZwHmkhYVPLnpBIcleN"
       },
@@ -1856,6 +1900,28 @@
     },
     {
       "album": {
+        "name": "Elegua",
+        "url": "https://open.spotify.com/album/3ewE7SWKWZsinOOCMqrgLA"
+      },
+      "artists": [
+        {
+          "name": "Huey Daze",
+          "url": "https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y"
+        },
+        {
+          "name": "Harold L\u00f3pez-Nussa",
+          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "Elegua",
+      "url": "https://open.spotify.com/track/6hrqOEr7Si0SXVFPvfa3Vq"
+    },
+    {
+      "album": {
         "name": "Dedications",
         "url": "https://open.spotify.com/album/6KlJQ5wod5PvpeWN68AkQD"
       },
@@ -1883,7 +1949,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 637884,
       "name": "Ellingtonia",
       "url": "https://open.spotify.com/track/4DTR80jKQUFGA4GeGXuN6V"
@@ -2047,7 +2113,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 200584,
       "name": "Family",
       "url": "https://open.spotify.com/track/6M2hoBo4ht5YeNMt2tgSgo"
@@ -2529,7 +2595,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 435306,
       "name": "Good Trouble, for John Lewis",
       "url": "https://open.spotify.com/track/1PArjhY3mBNVgpjlAMfrZ6"
@@ -3479,7 +3545,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 341893,
       "name": "Lazy Song",
       "url": "https://open.spotify.com/track/510RuuRoJH0LrB3HiY6qpH"
@@ -3605,6 +3671,24 @@
       "duration_ms": 369240,
       "name": "Lincoln Heights",
       "url": "https://open.spotify.com/track/77mMggf7hmodT0sk2QpZVV"
+    },
+    {
+      "album": {
+        "name": "Liquid Light",
+        "url": "https://open.spotify.com/album/7AXptA5O5IPuofF2hrEVS4"
+      },
+      "artists": [
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256825,
+      "name": "Liquid Light",
+      "url": "https://open.spotify.com/track/7MQNPz3Ba1CfogtjwOzRUl"
     },
     {
       "album": {
@@ -3752,6 +3836,24 @@
     },
     {
       "album": {
+        "name": "Between Two Waves",
+        "url": "https://open.spotify.com/album/3K20Qp773ImY8pBQ1vUt93"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192715,
+      "name": "Lost in Thought",
+      "url": "https://open.spotify.com/track/1UVjC46kICqTceu7wCi8zK"
+    },
+    {
+      "album": {
         "name": "Love Brings Happiness",
         "url": "https://open.spotify.com/album/61bEOxbzEl2evLjBmii1es"
       },
@@ -3823,6 +3925,24 @@
       "duration_ms": 218466,
       "name": "LOVE THYSELF (feat. Teedra Moses)",
       "url": "https://open.spotify.com/track/6E19OB9wWtKm9t0quSD8y4"
+    },
+    {
+      "album": {
+        "name": "Love Tide",
+        "url": "https://open.spotify.com/album/4xSTrPyX73MgWxoBDfWNT2"
+      },
+      "artists": [
+        {
+          "name": "Tom Harrell",
+          "url": "https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395120,
+      "name": "Love Tide",
+      "url": "https://open.spotify.com/track/5C6fqUCPsSeYc0RgFTjssm"
     },
     {
       "album": {
@@ -4946,6 +5066,28 @@
     },
     {
       "album": {
+        "name": "Raindance",
+        "url": "https://open.spotify.com/album/5YOJJjbblMT5B0P6mKyBgY"
+      },
+      "artists": [
+        {
+          "name": "The Jazz Seekers",
+          "url": "https://open.spotify.com/artist/1K6IcbnI4HSwAjecks1vG1"
+        },
+        {
+          "name": "Niclas Knudsen",
+          "url": "https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267294,
+      "name": "Raindance",
+      "url": "https://open.spotify.com/track/43D064LAQCI1ZJmqM0iPF5"
+    },
+    {
+      "album": {
         "name": "Refractions",
         "url": "https://open.spotify.com/album/67UvTPsX32twc79CdnIWxe"
       },
@@ -5331,7 +5473,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 322786,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/5zwHcZ9vP08DtES92dJU4Z"
@@ -5411,6 +5553,36 @@
       "duration_ms": 351186,
       "name": "Silver Needle",
       "url": "https://open.spotify.com/track/5wd6BFck1slRZSsoniICZi"
+    },
+    {
+      "album": {
+        "name": "Sincerity",
+        "url": "https://open.spotify.com/album/2rL4QchZYhoHgIWPTHvHZp"
+      },
+      "artists": [
+        {
+          "name": "Niels Vincentz",
+          "url": "https://open.spotify.com/artist/06swMcwDI7ffGr3D3K10qF"
+        },
+        {
+          "name": "Billy Hart",
+          "url": "https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I"
+        },
+        {
+          "name": "David Wong",
+          "url": "https://open.spotify.com/artist/2uvK3qQRe94yfxfJ4qsCCr"
+        },
+        {
+          "name": "Jacob Artved",
+          "url": "https://open.spotify.com/artist/5d3accwB8PpQbK9ajwv1Re"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482510,
+      "name": "Sincerity",
+      "url": "https://open.spotify.com/track/4Gx5QvXS2fT0dlgnu2qVwq"
     },
     {
       "album": {
@@ -5787,7 +5959,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 395829,
       "name": "Sus Jawn - Bunker Sesh",
       "url": "https://open.spotify.com/track/17v2YhIU3p6FwChewyPKun"
@@ -5857,6 +6029,48 @@
       "duration_ms": 177441,
       "name": "Table Talk",
       "url": "https://open.spotify.com/track/6uOaF86KVwPuSGkklnYrko"
+    },
+    {
+      "album": {
+        "name": "T\u2019Uncsten",
+        "url": "https://open.spotify.com/album/3TBjUO23LkzGBjJEKO0BUj"
+      },
+      "artists": [
+        {
+          "name": "Unc D",
+          "url": "https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO"
+        },
+        {
+          "name": "Tommy Lehman",
+          "url": "https://open.spotify.com/artist/1xb2srNfkHlcd8fNyTeR8h"
+        },
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        },
+        {
+          "name": "Nick Hoh",
+          "url": "https://open.spotify.com/artist/3jm0FfQliBGo45mynW3Qib"
+        },
+        {
+          "name": "Thin Thicket",
+          "url": "https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng"
+        },
+        {
+          "name": "Jere B's Approach",
+          "url": "https://open.spotify.com/artist/6wALKq4ez5uleTJVExbhHF"
+        },
+        {
+          "name": "Alexander Gustavo",
+          "url": "https://open.spotify.com/artist/60HCfzyPW79tzkchlLJp8b"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190217,
+      "name": "Tarko Tarkon",
+      "url": "https://open.spotify.com/track/3NwCg4GsBth90P5TC3amCr"
     },
     {
       "album": {
@@ -5947,7 +6161,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 352692,
       "name": "The Antidote Is in the Poison",
       "url": "https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz"
@@ -6211,7 +6425,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 558392,
       "name": "The Last Song (feat. Eric Harland, Mark Lettieri, Jonathan Maron & Justin Stanton)",
       "url": "https://open.spotify.com/track/6cAQCcRC7HeIxxQ5EdxI9k"
@@ -6355,7 +6569,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 358520,
       "name": "Thembi",
       "url": "https://open.spotify.com/track/6BwE5a9g9CMUxeMwUfNPrD"
@@ -6431,7 +6645,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 222937,
       "name": "Torino",
       "url": "https://open.spotify.com/track/6cEtprCmXLwljz6Kl3J9Tc"
@@ -7060,6 +7274,28 @@
     },
     {
       "album": {
+        "name": "Freedom - Celebrating the Music of Pharoah Sanders",
+        "url": "https://open.spotify.com/album/6zprzD7nden9hPnktRKCu6"
+      },
+      "artists": [
+        {
+          "name": "Mark de Clive-Lowe",
+          "url": "https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P"
+        },
+        {
+          "name": "Dwight Trible",
+          "url": "https://open.spotify.com/artist/5HzryqCINeBjTh2KnPtWnu"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 520172,
+      "name": "You've Got to Have Freedom",
+      "url": "https://open.spotify.com/track/4flZ2zmTcUGQCrCDVpnJr7"
+    },
+    {
+      "album": {
         "name": "Youth",
         "url": "https://open.spotify.com/album/55HaJYtXUgeT4Xs0XHbXGp"
       },
@@ -7125,10 +7361,28 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 319000,
       "name": "\u304a\u3060\u3084\u304b\u306b",
       "url": "https://open.spotify.com/track/2k9Q8xPZqPedHecwjOob6S"
+    },
+    {
+      "album": {
+        "name": "\u8a69\u7684\u306a\u30e0\u30fc\u30f3\u30de\u30b9\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/25kY76UZZSglVtuChY0pe3"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "\u8a69\u7684\u306a\u30e0\u30fc\u30f3\u30de\u30b9\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/5euhfTFoPaetjdsaownelz"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7YCknf2jT6s"

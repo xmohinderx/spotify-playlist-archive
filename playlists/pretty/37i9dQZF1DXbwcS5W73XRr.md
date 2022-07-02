@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwcS5W73XRr.md) - [plain]
 
 > The original soundtrack to a dancefloor revolution, from the basement to the world \- this is Acid.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,075 likes - 48 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,124 likes - 48 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwcS5W73XRr.md) - [plain]
 | 10 | [151 \- Original Mix](https://open.spotify.com/track/1KhD7czAxuNn0orSVwNnhd) | [Armando](https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53) | [The History Of House Sound Of Chicago \- Part 2](https://open.spotify.com/album/64El0kofsV6FGEs17h7wRr) | 6:00 |
 | 11 | [House Rythems: Nervous Acid](https://open.spotify.com/track/1IngMSXsZ4rCTFm8L18F3U) | [Bobby Konders](https://open.spotify.com/artist/1AEHGLRSBHwSr4VmU7IOXj) | [A Lost Era In Nyc](https://open.spotify.com/album/7aR0QhgWSvGmi0KpFpLhup) | 5:00 |
 | 12 | [I'll House You](https://open.spotify.com/track/2IOIuMlbkvA3lBYMQV73fZ) | [Jungle Brothers](https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj) | [The Big Apple Bites Back \- New York House & Remix Culture](https://open.spotify.com/album/1BD2W3RVzcCjnJ6a5AVfZm) | 4:58 |
-| 13 | [Jack Your Body \- Original Club Mix](https://open.spotify.com/track/0qD3sHqLrmKDcRX3MKvsFX) | [Steve "Silk" Hurley](https://open.spotify.com/artist/2TzZ6XTFG1p1PAfhl0crDP) | [Best Of DJ International \- Part One](https://open.spotify.com/album/5Pu8tU3qumOLfYcS50TBmn) | 0:29 |
+| 13 | [Jack Your Body \- Original Club Mix](https://open.spotify.com/track/0qD3sHqLrmKDcRX3MKvsFX) | [Steve "Silk" Hurley](https://open.spotify.com/artist/2TzZ6XTFG1p1PAfhl0crDP) | [Best Of DJ International \- Part One](https://open.spotify.com/album/5Pu8tU3qumOLfYcS50TBmn) | 6:53 |
 | 14 | [Carino](https://open.spotify.com/track/6yeq9TXrOcczL1ryPHkbFF) | [T Coy](https://open.spotify.com/artist/5GhM94hOJlFALbn1Ta4Py6) | [Deconstruction Reconstructed 001](https://open.spotify.com/album/41qB3TlEKssRZE9tb56ZAF) | 5:13 |
 | 15 | [Stakker Humanoid \- 12" Original](https://open.spotify.com/track/5Oe5EZOuQvbxT05KQzb3RS) | [Humanoid](https://open.spotify.com/artist/4wC3UWodo9z17rNtV1Lka1) | [Your Body Robotic \(Part 2\)](https://open.spotify.com/album/0kdd4Tj2EI5HCAJu6x43HZ) | 5:00 |
 | 16 | [Can You Party?](https://open.spotify.com/track/2GH8f03eJJeXPkATwrbvA8) | [Royal House](https://open.spotify.com/artist/0daYmCWEivMhG9FsmwgyFL) | [80s House Classics](https://open.spotify.com/album/10yei2eL0tlBVJokSZ4s5p) | 6:04 |

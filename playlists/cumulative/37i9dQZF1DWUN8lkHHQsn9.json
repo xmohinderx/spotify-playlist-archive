@@ -56,7 +56,7 @@
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 181823,
       "name": "Better Place",
       "url": "https://open.spotify.com/track/2MlHGVbFRP1BUf0mP7Gm4p"
     },
@@ -164,7 +164,7 @@
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 247880,
       "name": "Cicho",
       "url": "https://open.spotify.com/track/2TOrUREtKTgIs3GO6ufiB0"
     },
@@ -562,6 +562,24 @@
     },
     {
       "album": {
+        "name": "Kimkolwiek chc\u0119",
+        "url": "https://open.spotify.com/album/6QdVPvKhXhXRpPyxhLlJve"
+      },
+      "artists": [
+        {
+          "name": "sedguy",
+          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174637,
+      "name": "Kimkolwiek chc\u0119",
+      "url": "https://open.spotify.com/track/3mpogytAIg8ctUvq9hg91i"
+    },
+    {
+      "album": {
         "name": "GEJSZA",
         "url": "https://open.spotify.com/album/6KsYGi1glRMS3AsAvSAJNl"
       },
@@ -668,7 +686,7 @@
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 29048,
+      "duration_ms": 205306,
       "name": "Lustro",
       "url": "https://open.spotify.com/track/2HhqdIn5pplLm7wwDGnGLq"
     },
@@ -1263,7 +1281,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-02",
       "duration_ms": 229901,
       "name": "Suwenir",
       "url": "https://open.spotify.com/track/4q2gmv1VIaI0a8i4AVjewe"

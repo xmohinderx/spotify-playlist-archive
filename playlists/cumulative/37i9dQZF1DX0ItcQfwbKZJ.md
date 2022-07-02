@@ -4,7 +4,7 @@
 
 > From Fela Kuti to Antibalas, enjoy a collection of timeless Afrobeat music!
 
-49 songs - 4 hr 37 min - [published](https://open.spotify.com/playlist/4VcScZv2o0s4WmAHR6nbC5)
+49 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/4VcScZv2o0s4WmAHR6nbC5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Africa Will Be Great Again](https://open.spotify.com/track/3tByzh69xblgCQMxbCE2ZM) | [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [One People One World](https://open.spotify.com/album/4D4pbycsZl6eUNIeudPJON) | 4:47 | 2019-08-09 |  |
 | [African Dialects](https://open.spotify.com/track/5y9sTZ2UKkddohU5k4gccl) | [Peter King](https://open.spotify.com/artist/5FP5tCzBeZnOemocPb8bOo) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/3oMy0b5i9EbBUR02bYIKZv) | 4:56 | 2019-08-09 |  |
 | [Afrofunk Revolution](https://open.spotify.com/track/4Syt5mkKGdgerYPEF619nR) | [IFÁ Afrobeat](https://open.spotify.com/artist/4pYEqZf2r4JE3umcqjaWTs), [Okwei Odili](https://open.spotify.com/artist/5OdxK676ZaZCWKWcUGtomc) | [IFÁ Afrobeat + Okwei V Odili](https://open.spotify.com/album/34HNh5WDJ3VBjWqztPb0U3) | 5:12 | 2019-08-09 |  |
-| [Alabeke](https://open.spotify.com/track/51WXp19Xrhqk36KyqxWYgu) | [Don Satch](https://open.spotify.com/artist/0DG4kQQrHB5rWwz1cQ0Rqu), [and His Atomic Dance Band of Aba](https://open.spotify.com/artist/3zSsXf9i0QRMEErGzer7Di) | [Alabeke](https://open.spotify.com/album/5Lq1mbNk3UoiYk0TVX0Zum) | 0:29 | 2019-08-09 |  |
+| [Alabeke](https://open.spotify.com/track/51WXp19Xrhqk36KyqxWYgu) | [Don Satch](https://open.spotify.com/artist/0DG4kQQrHB5rWwz1cQ0Rqu), [and His Atomic Dance Band of Aba](https://open.spotify.com/artist/3zSsXf9i0QRMEErGzer7Di) | [Alabeke](https://open.spotify.com/album/5Lq1mbNk3UoiYk0TVX0Zum) | 4:36 | 2019-08-09 |  |
 | [Asiko \(In a Silent Mix\) \- Motor City Drum Ensemble Remix](https://open.spotify.com/track/6VJxaWAaMSKZsZNtZxpVan) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Motor City Drum Ensemble](https://open.spotify.com/artist/4TlzX7s6kuZDtiBpsopcBf) | [Dekmantel 10 Years 10.2](https://open.spotify.com/album/1mkdFuyDtgISvmK1jHfquF) | 7:23 | 2019-08-09 |  |
 | [Atomic Bomb \- William Onyeabor vs\. Hot Chip](https://open.spotify.com/track/6G2M6vvToPz12ghZpeJSGe) | [William Onyeabor](https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi), [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [What?!](https://open.spotify.com/album/5K9nDeTEcoMBakMd7KvtCZ) | 7:16 | 2019-08-09 |  |
 | [Black Times \- Radio Edit](https://open.spotify.com/track/4aZOVPGI7yA37ZWUJ14uA4) | [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Egypt 80](https://open.spotify.com/artist/3tiod2aXxdgMl6E7W4visJ), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Black Times](https://open.spotify.com/album/42eWUVnFbi5s9ls9be2Ks8) | 4:55 | 2019-08-09 |  |
@@ -23,7 +23,7 @@
 | [Crache La Douleur](https://open.spotify.com/track/6K4mkIv9jq5khtrDLXRhI4) | [Fanga](https://open.spotify.com/artist/7u17cR6KuOndz03h16dCmG) | [Contemporary Afro Beat](https://open.spotify.com/album/33lFnjJDTWmpTq8aoySfDE) | 5:05 | 2019-08-09 |  |
 | [Cumbia Africana](https://open.spotify.com/track/0NKgWh7y8wHhlbYE2NvJAN) | [Son Palenque](https://open.spotify.com/artist/3VyjbWEHPjc9JEXsk6Tk2w) | [Afro\-Colombian Sound Modernizers](https://open.spotify.com/album/64jRR8ogyHRWsu4ifrc06o) | 3:26 | 2019-08-09 |  |
 | [Dirty Money](https://open.spotify.com/track/4NUgN3U3KwPfVAGYrzrQd9) | [Antibalas](https://open.spotify.com/artist/2KGF6IKZfVGCKfyqcNVGfh) | [Antibalas](https://open.spotify.com/album/3L7y27jC0aSXZAM67oEZCB) | 6:15 | 2019-08-09 |  |
-| [Dog eat dog](https://open.spotify.com/track/32gtSO10v6vgTl0CvikODe) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Under Burning Skies](https://open.spotify.com/album/0f8mbXuhiXJaYXEhpa7MRj) | 0:29 | 2019-08-09 |  |
+| [Dog eat dog](https://open.spotify.com/track/32gtSO10v6vgTl0CvikODe) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Under Burning Skies](https://open.spotify.com/album/0f8mbXuhiXJaYXEhpa7MRj) | 7:05 | 2019-08-09 |  |
 | [Dram](https://open.spotify.com/track/2z3HXHcCac7pLNPjwThKHK) | [Ikebe Shakedown](https://open.spotify.com/artist/5ABBZoXY5r0UL1txACjinb) | [Stone by Stone](https://open.spotify.com/album/5cStTVCnqe2BrtRRyb0rKk) | 4:03 | 2019-08-09 |  |
 | [Enjoy Yourself](https://open.spotify.com/track/7BgOdtjbfgvip4BJRn9NmI) | [Sahara All Stars Band Jos.](https://open.spotify.com/artist/11E58RQVNMMzzBWpi8J2rW) | [Enjoy Yourself](https://open.spotify.com/album/7gypen6SPcpqjxwc7CAoJA) | 6:02 | 2019-08-09 |  |
 | [Envy No Good](https://open.spotify.com/track/3ApFcFZc5lEMbyNQcS8MIH) | [Mercury Dance Band](https://open.spotify.com/artist/0Nh3wJoHLDE81eBbZVfoCF) | [Afro\-Rock Vol\. 1](https://open.spotify.com/album/3xeW7a1YY6rTIccohDOHrr) | 4:52 | 2019-08-09 |  |

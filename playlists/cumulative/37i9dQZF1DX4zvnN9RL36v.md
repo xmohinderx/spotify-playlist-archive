@@ -4,7 +4,7 @@
 
 > 내 마음을 노랫말이 알아줄 때.
 
-73 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/1ePLnJPdYrdhAdDDYNy420)
+73 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/1ePLnJPdYrdhAdDDYNy420)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Afraid To Say I Love You](https://open.spotify.com/track/5q3q7ZIRq7EoCK3kpsfRpz) | [THE ADE](https://open.spotify.com/artist/60ftnqC2sZGUXDqElMPvTy) | [Afraid To Say I Love You](https://open.spotify.com/album/3W0HGM1NBblqIrhMMLoiDx) | 3:25 | 2022-03-07 |  |
 | [Alone](https://open.spotify.com/track/7ntK0Uv0nawyHqhmuHEtQv) | [Hui](https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy) | [Chocolate,Pt.8\(Original Television Soundtrack\)](https://open.spotify.com/album/0jPbVk0V32lFwjft2sO4FB) | 3:48 | 2022-03-07 |  |
 | [An Ordinary Day](https://open.spotify.com/track/5d5LwS6WJagz80BcpZDzOO) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Mister \(Original Tv Soundtrack\) Part 3](https://open.spotify.com/album/0LJ4mPTGWWhiAkkzihAFdq) | 4:34 | 2022-03-07 |  |
-| [Because I only see you](https://open.spotify.com/track/2Akf1x68EZPx7H8zGlBWtR) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Whats wrong with secretary kim OST Part.5](https://open.spotify.com/album/0DScQIKugPfaNgB2iGp7Mu) | 0:29 | 2022-03-07 |  |
+| [Because I only see you](https://open.spotify.com/track/2Akf1x68EZPx7H8zGlBWtR) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Whats wrong with secretary kim OST Part.5](https://open.spotify.com/album/0DScQIKugPfaNgB2iGp7Mu) | 3:40 | 2022-03-07 |  |
 | [Before the Sunset](https://open.spotify.com/track/1EzfapL0krLyoIxezUU3A6) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Mad Dog, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/6Zw40UVaZ6CDtTFLqoIDEe) | 3:09 | 2022-03-07 |  |
 | [Can you hear me?](https://open.spotify.com/track/1fCmKyU45uVjLT2J1Kn8pS) | [Ben](https://open.spotify.com/artist/7CBAnET1YVcYODumXdh1at) | [Hotel Del Luna OST Part.9](https://open.spotify.com/album/5ma7IsxRLAuOoLRn51x9z8) | 4:31 | 2022-03-07 |  |
 | [Don't run away](https://open.spotify.com/track/18krdoAbqH1jHwymcaIyom) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [A\-TEEN Part.4](https://open.spotify.com/album/7zsRwUrdobhUaTeA3ZdNe3) | 4:08 | 2022-03-07 |  |
@@ -24,7 +24,7 @@
 | [Even though I hate you, I love you \(Special Track\)](https://open.spotify.com/track/2yoTyFjOAOYCRDBzWfSFq4) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 5:25 | 2022-03-07 |  |
 | [Greeting](https://open.spotify.com/track/0CTBmhehdUdUEPem5CkONV) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Chocolate,Pt.6\(Original Television Soundtrack\)](https://open.spotify.com/album/4EnCGhf9SF7fcJHldfWdqc) | 3:25 | 2022-03-07 |  |
 | [Hard To Love 나만 안되는 연애](https://open.spotify.com/track/2uaC8QIz0OocPl8bFcNFt0) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/2xvcemzzyUJOIXd9J2TbCo) | 3:39 | 2022-03-07 |  |
-| [Her](https://open.spotify.com/track/4QmWRo0gGe2IzmAqgyPUH0) | [CherryB](https://open.spotify.com/artist/0Bd1VLl8A4yk5vo2XfVnCd) | [Her](https://open.spotify.com/album/7ChNlZPMqGp9NBKKkWdj7t) | 0:29 | 2022-03-07 |  |
+| [Her](https://open.spotify.com/track/4QmWRo0gGe2IzmAqgyPUH0) | [CherryB](https://open.spotify.com/artist/0Bd1VLl8A4yk5vo2XfVnCd) | [Her](https://open.spotify.com/album/7ChNlZPMqGp9NBKKkWdj7t) | 4:09 | 2022-03-07 |  |
 | [Honesty](https://open.spotify.com/track/63AyrRTi5G6HBOic0TaENv) | [NINE9](https://open.spotify.com/artist/06MGGkrdIi2KKfBdoAsAl9) | [Honesty](https://open.spotify.com/album/5jVTyv5ByyJbR12tELjMug) | 3:26 | 2022-03-07 |  |
 | [I Ain't Over](https://open.spotify.com/track/56opKxy1re5cxtvkWb1SeW) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Fit Me](https://open.spotify.com/album/3TYy1tiVsuOWibt2ptlFUD) | 4:10 | 2022-03-07 |  |
 | [I hope I cross your mind](https://open.spotify.com/track/0v25Iep0Ww4p4kgNi29VJh) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [I hope I cross your mind](https://open.spotify.com/album/6fy1jB2jAM3JSJAwOCFubg) | 3:36 | 2022-03-07 |  |
@@ -38,7 +38,7 @@
 | [mistaken](https://open.spotify.com/track/7c8cPVLWvtZwxDxA3KkWFP) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [inside](https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8) | 4:03 | 2022-03-07 |  |
 | [MY LOVE](https://open.spotify.com/track/4PvVKyqJ6pLVi5HKpAjTPc) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Moonlovers: Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt 10](https://open.spotify.com/album/1xzKCVdDE3tIXkEGDjLQ7E) | 3:40 | 2022-03-07 |  |
 | [One way love](https://open.spotify.com/track/3ldqjHu7ozh8pfTYnKvu3O) | [Song hyo jeong](https://open.spotify.com/artist/0h6IwKI0B8KHx0JZjuhz8D) | [One way love](https://open.spotify.com/album/0cGYMay4XjGUzr3uyqEceH) | 4:03 | 2022-03-07 |  |
-| [One\-Sided Love](https://open.spotify.com/track/3D37MXSt6srzIR4nhopEoE) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [First Love](https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo) | 0:29 | 2022-03-07 |  |
+| [One\-Sided Love](https://open.spotify.com/track/3D37MXSt6srzIR4nhopEoE) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [First Love](https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo) | 3:52 | 2022-03-07 |  |
 | [One\-Sided Love \(feat\. Mi\)](https://open.spotify.com/track/2Rm8fL4mmVXgXEdOBbqXIv) | [4MEN](https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J), [MI](https://open.spotify.com/artist/178hJrrVdvHURa3WEcjw1j) | [The Artist](https://open.spotify.com/album/5Z0Ib1mCfehayID8juMA6j) | 4:24 | 2022-03-07 |  |
 | [Origami](https://open.spotify.com/track/0fGsabqtD3nFtLgrOfvBmV) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [youth](https://open.spotify.com/album/2qyRTNUHodWjs2FrP7tAYv) | 3:09 | 2022-03-07 |  |
 | [please love her](https://open.spotify.com/track/4YQGPR4KGFMnSS8lUQPdbs) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [Stand alone](https://open.spotify.com/album/67ibv6vTadhuxdFgZ4eV4i) | 4:19 | 2022-03-07 |  |
@@ -59,7 +59,7 @@
 | [Where Love Begins \(From 'Yoobyeolna! Chef Moon'\)](https://open.spotify.com/track/7hJ8bvpxNmXQsDGcuAj7on) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Yoobyeolna! Chef Moon \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/0VHZuQ0JkiON2gXxOGG2GK) | 3:39 | 2022-03-07 |  |
 | [Wish](https://open.spotify.com/track/6Ldub58ljpaVpHKw79c8CO) | [SonSiaaa](https://open.spotify.com/artist/1JAecAVZEQFOK5TqhFYRYQ) | [Wish](https://open.spotify.com/album/7rcVHJWEzPNZQKQK4syjqu) | 4:01 | 2022-03-07 |  |
 | [사랑은 언제나 목 마르다 Love Is Always Thirsty](https://open.spotify.com/track/3DfZJ4RowfA7OjSIQYSDoI) | [유미 Youme](https://open.spotify.com/artist/4y8PoupChBX11WsE6lUy3C) | [Sad](https://open.spotify.com/album/0zUSlyzOMtllEdGzQXQHex) | 4:30 | 2022-03-07 |  |
-| [구애 Propose](https://open.spotify.com/track/5gaFDKroNN3BRcqJbYf5Gb) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [구애 Propose](https://open.spotify.com/album/2MRBFyAUweiBw5svhtlUVK) | 0:29 | 2022-03-07 |  |
+| [구애 Propose](https://open.spotify.com/track/5gaFDKroNN3BRcqJbYf5Gb) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [구애 Propose](https://open.spotify.com/album/2MRBFyAUweiBw5svhtlUVK) | 3:33 | 2022-03-07 |  |
 | [그랬나봐](https://open.spotify.com/track/73sCf6xzgU9gJrkxz45HLz) | [김형중](https://open.spotify.com/artist/1PeAdO7bawJcZXcsLVXSSp) | [Kim Hyung Joong](https://open.spotify.com/album/2PqgCecKYA280VFveIfHCN) | 4:29 | 2022-03-07 |  |
 | [나였으면](https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO) | [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw) | [중독](https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK) | 4:22 | 2022-03-07 |  |
 | [날 버리지 마요](https://open.spotify.com/track/5NZLKa0BTaxTtIkmeK2Jjs) | [JUROKEY](https://open.spotify.com/artist/59TnLHZJYHwrk51oo4bbVC) | [날 버리지 마요](https://open.spotify.com/album/3l25IElZW7jIlbTD7obUAr) | 4:01 | 2022-03-07 |  |

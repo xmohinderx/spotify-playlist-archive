@@ -4,7 +4,7 @@
 
 > It's a good day to be a My Day!
 
-68 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/1i2xcTcnHNGcPNvIE1dhSf)
+68 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/1i2xcTcnHNGcPNvIE1dhSf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,8 +17,8 @@
 | [Beautiful Feeling](https://open.spotify.com/track/5Sl8fL5jXQiH0uwgyTIX0B) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Remember Us : Youth Part 2](https://open.spotify.com/album/5lJXj9X4Yl52xJq1sQzQB9) | 3:28 | 2020-05-12 |  |
 | [Best Part](https://open.spotify.com/track/7wPKlkoPDyeDcMpaGizvDk) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Gravity](https://open.spotify.com/album/6Bhc2M8Jn0CcMnzpAuKS85) | 3:41 | 2020-05-12 |  |
 | [Chocolate](https://open.spotify.com/track/0vt3kA21CNUpJq5RT24z9W) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Want More 19 Part.1](https://open.spotify.com/album/1DDc6qbKF8Utom7maoljP5) | 3:16 | 2020-05-12 |  |
-| [Colors](https://open.spotify.com/track/49rRoH4DZcUlbeBQlDgN8c) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Day](https://open.spotify.com/album/2GQCh43InxGIbT0h2GnXWs) | 0:29 | 2020-05-12 |  |
-| [Congratulations](https://open.spotify.com/track/5dhZMPumW81ipov9bpz6nu) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Day](https://open.spotify.com/album/2GQCh43InxGIbT0h2GnXWs) | 0:29 | 2020-05-12 |  |
+| [Colors](https://open.spotify.com/track/49rRoH4DZcUlbeBQlDgN8c) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Day](https://open.spotify.com/album/2GQCh43InxGIbT0h2GnXWs) | 4:17 | 2020-05-12 |  |
+| [Congratulations](https://open.spotify.com/track/5dhZMPumW81ipov9bpz6nu) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Day](https://open.spotify.com/album/2GQCh43InxGIbT0h2GnXWs) | 3:49 | 2020-05-12 |  |
 | [Cover](https://open.spotify.com/track/7MvhufnZEiAsf2x45ZK3MR) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Gravity](https://open.spotify.com/album/6Bhc2M8Jn0CcMnzpAuKS85) | 3:26 | 2020-05-12 |  |
 | [DANCE DANCE](https://open.spotify.com/track/30LuvfdiCtpw7Tki3PmkBb) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 3:43 | 2020-05-12 |  |
 | [Day and Night](https://open.spotify.com/track/5Ld7wZn4IYCVa4sgsAB9Ft) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/3JX0hnu8b55RtbtEdUSYor) | 3:24 | 2020-05-12 |  |

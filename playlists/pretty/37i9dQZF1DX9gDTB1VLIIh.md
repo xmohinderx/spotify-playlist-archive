@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gDTB1VLIIh.md) - [plain]
 
 > This is Nasty C, also known to fans as "A Zulu Man With Some Power"\. The essential tracks, all in one playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,735 likes - 45 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,783 likes - 45 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gDTB1VLIIh.md) - [plain]
 | 27 | [Bookoo Bucks](https://open.spotify.com/track/6zdVd206eHcQ5GuDvCSGcZ) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le), [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [Zulu Man With Some Power](https://open.spotify.com/album/04udszu1QoEWl5qXu2MTUi) | 3:54 |
 | 28 | [Dance](https://open.spotify.com/track/5tviiTlaMltD03pVXNCshL) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW) | [Dance](https://open.spotify.com/album/0cPr8G9R6IopgH4Ufs7O0H) | 4:26 |
 | 29 | [25](https://open.spotify.com/track/2N1FYnBCswkc6TXlPWKGHw) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW) | [Bad Hair](https://open.spotify.com/album/3ymK0IkQzqgVEmxGYC2Tzl) | 3:40 |
-| 30 | [Whipped](https://open.spotify.com/track/5izmlzt9mbvzuZogW9TXJB) | [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW), [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [God Decides](https://open.spotify.com/album/5bJrBac7KuQqFY6wn6to8A) | 0:29 |
+| 30 | [Whipped](https://open.spotify.com/track/5izmlzt9mbvzuZogW9TXJB) | [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW), [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [God Decides](https://open.spotify.com/album/5bJrBac7KuQqFY6wn6to8A) | 3:17 |
 | 31 | [Allow](https://open.spotify.com/track/1t7fuovEXYKxa3zcdgQV1h) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Bad Hair Extensions](https://open.spotify.com/album/5YL6AvjnG2Dj4bOaS7dhTn) | 2:59 |
 | 32 | [Pressure](https://open.spotify.com/track/1ng7m8cVhY363CoPG2SBaF) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Bad Hair](https://open.spotify.com/album/3ymK0IkQzqgVEmxGYC2Tzl) | 2:56 |
 | 33 | [031](https://open.spotify.com/track/32csxswCFXU9QQ4kUtBO43) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [031](https://open.spotify.com/album/1MVrbz0pnowVw8xmsxqZhJ) | 3:13 |
