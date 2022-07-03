@@ -4,7 +4,7 @@
 
 > Remember the glory days when boy bands and girl groups ruled the radio? Listen to this playlist and bring the Spice Girls, Hanson, and Destiny's Child back!
 
-41 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/5JN3Cu621w3LmjngYDca4w)
+41 songs - 2 hr 37 min - [published](https://open.spotify.com/playlist/5JN3Cu621w3LmjngYDca4w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [I Do, I Do, I Do](https://open.spotify.com/track/3htvVGNv6R5ckMfwPlsO2U) | [Creamy](https://open.spotify.com/artist/5VlFvgcPgMt6sMij37y8nZ) | [We Got The Time](https://open.spotify.com/album/6Yugzkwim5EgmLKyX8wOQ9) | 3:20 | 2012-05-21 |  |
 | [I Want It That Way](https://open.spotify.com/track/0HcSC0BbA1H5zwGCr9xCON) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5VHIlOEndogNL2zRjhKSBa) | 3:33 | 2012-05-21 |  |
 | [I'll Be There For You](https://open.spotify.com/track/5OXzkeiOjvvEkScOfuB2w5) | [The Moffatts](https://open.spotify.com/artist/2ynrjBfi2sZwoHaejMInRv) | [Chapter 1: A New Beginning](https://open.spotify.com/album/2BdFlgzzk61f8125iwkP2I) | 4:15 | 2012-05-21 |  |
-| [Invisible](https://open.spotify.com/track/4STqT4Nskiyka6937ClyBC) | [D\-side](https://open.spotify.com/artist/3RFjrIBFsODkMPcTV8mRt9) | [The Best Of D\-Side 2004 \- 2008](https://open.spotify.com/album/2tEXQZqnFoExs11b7r6ddA) | 0:29 | 2012-05-21 |  |
+| [Invisible](https://open.spotify.com/track/4STqT4Nskiyka6937ClyBC) | [D\-side](https://open.spotify.com/artist/3RFjrIBFsODkMPcTV8mRt9) | [The Best Of D\-Side 2004 \- 2008](https://open.spotify.com/album/2tEXQZqnFoExs11b7r6ddA) | 3:41 | 2012-05-21 |  |
 | [It's Gonna Be Me](https://open.spotify.com/track/2j2FjScgrrdSfEV4AZPBaQ) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Greatest Hits](https://open.spotify.com/album/7MNoY9pyL6QnnVNeV3XfVR) | 3:11 | 2012-05-21 |  |
 | [Jump](https://open.spotify.com/track/38lNyLUVSCqEt1PbncxFjw) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [The Sound of Girls Aloud \(International\)](https://open.spotify.com/album/1sXIEXwC5JB3tRW9nCo4XL) | 3:39 | 2012-05-21 |  |
 | [Last One Standing](https://open.spotify.com/track/0iaKLiUHf5ubgdCzQVQbTv) | [Girl Thing](https://open.spotify.com/artist/6u7Xu6msBBuSXGyl60BuQF) | [Arabella Kiesbauer präsentiert Girl Power](https://open.spotify.com/album/5sm1o4kLyRnaifBpN9HbBi) | 3:36 | 2012-05-21 |  |

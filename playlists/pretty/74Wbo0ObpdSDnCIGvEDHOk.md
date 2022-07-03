@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/74Wbo0ObpdSDnCIGvEDHOk.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 14 likes - 41 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 14 likes - 41 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/74Wbo0ObpdSDnCIGvEDHOk.md) - [plain]
 | 34 | [Break Your Little Heart](https://open.spotify.com/track/3CzB4Vtjldto22GYhSi8G7) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Nothing Personal](https://open.spotify.com/album/6El6xMovbnBhHOxN2ukzbk) | 2:51 |
 | 35 | [Golddust](https://open.spotify.com/track/6YKB7Sg5kkGMPbxlbSvYVi) | [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC) | [Kryptonite](https://open.spotify.com/album/7ds4kb9n2nn5GgMSigTQq0) | 3:11 |
 | 36 | [Paranormal \- Original Mix](https://open.spotify.com/track/1fsavotCFkjHac4BEw6Old) | [Jerry Rekonius](https://open.spotify.com/artist/7gUFeioyTYpqicZ9fBGbBn) | [Paranormal](https://open.spotify.com/album/5tcGjnrYMAdCEOueBFhY79) | 5:50 |
-| 37 | [The Doorway](https://open.spotify.com/track/1wcAxYlWOtGChf8GLPCGFk) | [Neurosis](https://open.spotify.com/artist/1KHydwFySZY3YcWyo2q2dF) | [Times of Grace](https://open.spotify.com/album/4YSycbGhpYOCpumCTtJTj9) | 0:29 |
+| 37 | [The Doorway](https://open.spotify.com/track/1wcAxYlWOtGChf8GLPCGFk) | [Neurosis](https://open.spotify.com/artist/1KHydwFySZY3YcWyo2q2dF) | [Times of Grace](https://open.spotify.com/album/4YSycbGhpYOCpumCTtJTj9) | 7:35 |
 | 38 | [Tommy\-Gun](https://open.spotify.com/track/27w0KRafnK4L9ay9bKr0s4) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [Tommy\-Gun](https://open.spotify.com/album/0xfNGvromRqkFNYp0ddJFi) | 2:33 |
 | 39 | [Wrath \- Original Mix](https://open.spotify.com/track/4IJyUenAoiTDxVqHXKAF2R) | [Daladubz](https://open.spotify.com/artist/7hMHXuFm1Rk6MkNUeuGAKx) | [Mass Abduction volume 3A](https://open.spotify.com/album/0E3YxFRUPivBNP2I5QEJht) | 4:37 |
 | 40 | [Close to You \(feat\. And Then\) \[Radio Edit\]](https://open.spotify.com/track/7dF7Bb9PVaElRkKGuFhXUP) | [Lucas Nord](https://open.spotify.com/artist/4ZUg3IUvAPAl8coXQAxaXd) | [Close to You \(feat\. And Then\)](https://open.spotify.com/album/0DSbgMIEUiBJ0S5zXX7NbQ) | 3:22 |
-| 41 | [Beväpna dig med vingar](https://open.spotify.com/track/6HGm0lE0Oh7pdOVBFKdFLY) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Beväpna dig med vingar](https://open.spotify.com/album/2xMq0DLaCb66hJ2pt5Y6m8) | 0:29 |
+| 41 | [Beväpna dig med vingar](https://open.spotify.com/track/6HGm0lE0Oh7pdOVBFKdFLY) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Beväpna dig med vingar](https://open.spotify.com/album/2xMq0DLaCb66hJ2pt5Y6m8) | 5:16 |
 
 Snapshot ID: `NSw1YTE2ZDdjNDcwZjQwMGIwZWFhYzYyZGY5ODQxNTQ2NTVkZDFjY2Iy`

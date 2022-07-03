@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6r0dNjQD0WUHKs1gpMvpLk.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 143 likes - 29 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 143 likes - 29 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/6r0dNjQD0WUHKs1gpMvpLk.md) - [plain]
 | 13 | [I'll Be There](https://open.spotify.com/track/6QnYAMJc8kfHTvxStjGYQ2) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [The Very Best Of Michael Jackson With The Jackson 5](https://open.spotify.com/album/119TC8Ww6LYJm8uarhzvgQ) | 4:00 |
 | 14 | [P.Y.T\. \(Pretty Young Thing\)](https://open.spotify.com/track/4QnQm6gu3zGUSKAQ6AKm9q) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [The Essential Michael Jackson](https://open.spotify.com/album/3ubQZz8WgIfvjSoekS5daO) | 3:58 |
 | 15 | [Human Nature](https://open.spotify.com/track/2OCkykSlkZaDjsa5pPDy5O) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [The Essential Michael Jackson](https://open.spotify.com/album/3ubQZz8WgIfvjSoekS5daO) | 3:45 |
-| 16 | [Dirty Diana \- 2012 Remaster](https://open.spotify.com/track/3yBlJtq86wROQpHi1goEKT) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 0:29 |
+| 16 | [Dirty Diana \- 2012 Remaster](https://open.spotify.com/track/3yBlJtq86wROQpHi1goEKT) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 4:40 |
 | 17 | [Thriller](https://open.spotify.com/track/1D9KEXIrlmPUkMTdYzqgX4) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Michael Jackson's This Is It](https://open.spotify.com/album/7pMVCMwGykuEu9rzTHxLCm) | 5:57 |
 | 18 | [I Want You Back](https://open.spotify.com/track/5YhcTlesFVSpTgXXnUBkiU) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [The Very Best Of Michael Jackson With The Jackson 5](https://open.spotify.com/album/119TC8Ww6LYJm8uarhzvgQ) | 3:01 |
 | 19 | [ABC](https://open.spotify.com/track/6nzhhT57iQYrbqumru9NNP) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [The Very Best Of Michael Jackson With The Jackson 5](https://open.spotify.com/album/119TC8Ww6LYJm8uarhzvgQ) | 2:59 |
-| 20 | [Smooth Criminal \- 2012 Remaster](https://open.spotify.com/track/2bCQHF9gdG5BNDVuEIEnNk) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 0:29 |
+| 20 | [Smooth Criminal \- 2012 Remaster](https://open.spotify.com/track/2bCQHF9gdG5BNDVuEIEnNk) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 4:17 |
 | 21 | [Wanna Be Startin' Somethin' \- Single Version](https://open.spotify.com/track/0R4aiuhADpEngKf0Bi2Q09) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [The Essential Michael Jackson](https://open.spotify.com/album/3ubQZz8WgIfvjSoekS5daO) | 4:17 |
 | 22 | [Blood on the Dance Floor](https://open.spotify.com/track/11lw4bWbmxWIETHitBU0Gc) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [BLOOD ON THE DANCE FLOOR/ HIStory In The Mix](https://open.spotify.com/album/0RNsFWWdiz1rrdLI1pwbvJ) | 4:13 |
 | 23 | [One More Chance](https://open.spotify.com/track/7uyivkbdc8iH8wyBGBhlXV) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Number Ones](https://open.spotify.com/album/1jcYwZsN7JEve9xsq9BuUX) | 3:49 |

@@ -4,7 +4,7 @@
 
 > Chill instrumental ambient for slow, focused movement.
 
-167 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/6R2Y2tMEHANXWuPQwUT6Pc)
+167 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/6R2Y2tMEHANXWuPQwUT6Pc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Multiverse](https://open.spotify.com/track/5HuPq1VkXOcC8MAc3p15gF) | [Solen Taylor](https://open.spotify.com/artist/4p9by6GGMfgVGEBqiYhXqB) | [Multiverse](https://open.spotify.com/album/47Vff7ikB9rpfWbejvtazK) | 2:37 | 2022-06-23 |  |
 | [My Paradise](https://open.spotify.com/track/4FqRXEGuyM0YfpdtvecUgv) | [Clay Edwards](https://open.spotify.com/artist/2vmXrZiuBbcPV8K7fBclWC) | [My Paradise](https://open.spotify.com/album/0SBQ7Y3C7ifv590L0K6AQT) | 3:27 | 2021-12-22 |  |
 | [Mångata](https://open.spotify.com/track/1dpvthn5aYPgBmk7LiKOsl) | [Ardah](https://open.spotify.com/artist/6mQg8hTrGBvS36Jjl7Ajr2) | [Mångata](https://open.spotify.com/album/1qzSfgjTCYGysekMKLqxdi) | 2:57 | 2022-02-23 |  |
-| [Nattljus](https://open.spotify.com/track/2QrJ8fjauMnKHUkdnghNzB) | [Pontus Josefsson](https://open.spotify.com/artist/1mxPkXiVRRYjy4GHEZQ6Ap) | [Nattljus](https://open.spotify.com/album/0Y1TTUkWznsaNE1GYQc0CX) | 0:29 | 2021-12-22 |  |
+| [Nattljus](https://open.spotify.com/track/2QrJ8fjauMnKHUkdnghNzB) | [Pontus Josefsson](https://open.spotify.com/artist/1mxPkXiVRRYjy4GHEZQ6Ap) | [Nattljus](https://open.spotify.com/album/0Y1TTUkWznsaNE1GYQc0CX) | 2:34 | 2021-12-22 |  |
 | [Neblina](https://open.spotify.com/track/36JZbTsvp44NkViBfn5o0o) | [Valentinah Garcia](https://open.spotify.com/artist/2H7P5YeImYP9Z6RdOSPyQN) | [Neblina](https://open.spotify.com/album/5MHWq6pCwzDE3niX3dCZ4b) | 2:23 | 2022-04-21 |  |
 | [Nelle tue braccia](https://open.spotify.com/track/2X92IuhmBnbF8Wg05rKJLY) | [Artemio Li Fonti](https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw) | [Nelle tue braccia](https://open.spotify.com/album/31YkjvN7Hyq9TZYf16tcxL) | 3:24 | 2022-01-06 |  |
 | [Northbound](https://open.spotify.com/track/3BocByfSFx7Jf5khhScTA2) | [Jerikoo](https://open.spotify.com/artist/26ZsC8d7JISyKcw6g4HZVf) | [Northbound](https://open.spotify.com/album/2sT6JfcIOzh6w6iNI17LAi) | 2:53 | 2022-06-23 |  |

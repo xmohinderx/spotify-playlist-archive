@@ -4,7 +4,7 @@
 
 > Travel the world through sound – with indie and traditional folk and acoustic from across the globe.
 
-36 songs - 2 hr 11 min - [published](https://open.spotify.com/playlist/4Thw0013FxwwpeOiArYjdf)
+36 songs - 2 hr 15 min - [published](https://open.spotify.com/playlist/4Thw0013FxwwpeOiArYjdf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [River](https://open.spotify.com/track/02uNz94xdQzo2b3tq7YDfF) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Oya](https://open.spotify.com/album/3B4uLDgZNyW21VqyUzxPDN) | 4:12 | 2014-12-17 |  |
 | [Romeo](https://open.spotify.com/track/0hDUNNRTLQD00YhgLNDTyD) | [Edwina and Deko](https://open.spotify.com/artist/7aQjIxzmpQJpkQjvjVJNsI) | [Berlin Seasons](https://open.spotify.com/album/3ktadj5svj1omB5EZnTIVP) | 2:43 | 2014-12-17 |  |
 | [Somnium](https://open.spotify.com/track/1KmZ26oqWZyNFRdsCYXShV) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [9 Dead Alive](https://open.spotify.com/album/4GAtAJJ602Wal8aUakQ3zm) | 3:43 | 2014-12-17 |  |
-| [T.I Blues](https://open.spotify.com/track/513ngsQXc4ulMEuhq1VHb7) | [Seaman Dan](https://open.spotify.com/artist/7kupJXgSeK8OCWSqYipqqS) | [Somewhere There's An Island \(Best Of 1999 \- 2006\)](https://open.spotify.com/album/6qB5XRFLJxpex8W9AmL5iP) | 0:29 | 2014-12-17 |  |
+| [T.I Blues](https://open.spotify.com/track/513ngsQXc4ulMEuhq1VHb7) | [Seaman Dan](https://open.spotify.com/artist/7kupJXgSeK8OCWSqYipqqS) | [Somewhere There's An Island \(Best Of 1999 \- 2006\)](https://open.spotify.com/album/6qB5XRFLJxpex8W9AmL5iP) | 4:19 | 2014-12-17 |  |
 | [Uja](https://open.spotify.com/track/1wz8uw6O4JjSXw8VhCumnd) | [Tanya Tagaq](https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY) | [Animism](https://open.spotify.com/album/22cC8ZwB07grQ7ml8ImeSm) | 2:49 | 2014-12-17 |  |
 | [Wiyathul](https://open.spotify.com/track/3sVVe0GARr4jjg96B6te41) | [Gurrumul](https://open.spotify.com/artist/41U5QueLMyYyJ3Hoe4kKX4) | [Gurrumul](https://open.spotify.com/album/6mqFcbjkkCW30BspMZdZes) | 5:55 | 2014-12-17 |  |
 | [Óró Sé Do Bheatha 'Bhaile](https://open.spotify.com/track/5mWl3DN1GZVFFs5p8zFCWk) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Sean\-Nós Nua](https://open.spotify.com/album/1NMS8GqPS88wMFSZICXaWK) | 3:20 | 2014-12-17 |  |

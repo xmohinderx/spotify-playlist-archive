@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Listen to Greek women at full volume\. Cover: Anastasia
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,065 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,157 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 5 | [Ta Kalokairia Mou Misa](https://open.spotify.com/track/5OuZNhMsVU2yf5cD11mOJw) | [Despina Vandi](https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0), [George Theofanous](https://open.spotify.com/artist/1rNn8vt3hmIxbDuqMVzXpA) | [Ta Kalokairia Mou Misa](https://open.spotify.com/album/7LzU2vJ9aqwKNAGO3U1DTZ) | 3:22 |
 | 6 | [Mykonos Kai Santorini](https://open.spotify.com/track/5NIe8MCNByrSM9Oi9Uoaqh) | [Elena Tsagrinou](https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU) | [Mykonos Kai Santorini](https://open.spotify.com/album/7yrgtsgGeueaYZCagG8Xpx) | 3:27 |
 | 7 | [Egw Ki Esy](https://open.spotify.com/track/4bn7uGPFqouyMIXnnXx4KU) | [Sophia](https://open.spotify.com/artist/21sZyR7G75dNav5foqjApa), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [Egw Ki Esy](https://open.spotify.com/album/6Az4jJ1gutegsszavSJXsB) | 3:02 |
-| 8 | [Seattle](https://open.spotify.com/track/2tKDBMpxHjxNVlwo7B93Xs) | [Sophia](https://open.spotify.com/artist/21sZyR7G75dNav5foqjApa) | [Seattle](https://open.spotify.com/album/34XwbzNPwLTTkY7kj46IRW) | 3:06 |
+| 8 | [Seattle](https://open.spotify.com/track/2tKDBMpxHjxNVlwo7B93Xs) | [SOPHIA SAGE](https://open.spotify.com/artist/44GjzjtPTB2WhueNs8vG2S) | [Seattle](https://open.spotify.com/album/34XwbzNPwLTTkY7kj46IRW) | 3:06 |
 | 9 | [Kyma Mou](https://open.spotify.com/track/32X7TpNTqkDU5FcJpUCCMG) | [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [Kyma Mou](https://open.spotify.com/album/1xdI1H6JvnVrSL1cEHCXTw) | 3:07 |
 | 10 | [Run Together](https://open.spotify.com/track/6hAlCAKjBmBfOZPOdavGhF) | [Stefania](https://open.spotify.com/artist/0HZUhj5PZHzHMWSI4s8rOQ) | [Run Together](https://open.spotify.com/album/33ltul702GLxQwnkvD4QNq) | 2:57 |
 | 11 | [Plans](https://open.spotify.com/track/0jPho2LunkMsoHerGdK9wX) | [Amanda Tenfjord](https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr) | [Plans](https://open.spotify.com/album/2IyGBIdgIsgcm9dyCcfiXS) | 2:36 |

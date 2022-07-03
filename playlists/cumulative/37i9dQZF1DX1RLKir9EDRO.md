@@ -4,7 +4,7 @@
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: Beliz Çizim: Isu Kim
 
-209 songs - 12 hr 39 min - [published](https://open.spotify.com/playlist/2SD1ylRiXJ4kfEeC2aTpUY)
+209 songs - 12 hr 45 min - [published](https://open.spotify.com/playlist/2SD1ylRiXJ4kfEeC2aTpUY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Hadi Dans Et](https://open.spotify.com/track/5Cs6Ri9CbFFhEwKXLfRvek) | [Eskiden](https://open.spotify.com/artist/5X2OLX4RRILnFXKoCRm5PZ) | [Hadi Dans Et](https://open.spotify.com/album/5mh8vl3lQfQuVileKyfmLW) | 4:00 | 2022-04-15 |  |
 | [Halime Gülüyorum](https://open.spotify.com/track/1iTR5IyKMwKVfy8cUO16e8) | [Berk Baysal](https://open.spotify.com/artist/54R13HT0PZ7sa6xMm9YpDS) | [Olmuyor Böyle](https://open.spotify.com/album/0UKC1bSDFuCunQZudf6jnt) | 3:47 | 2021-12-03 | 2022-04-16 |
 | [Hayaller](https://open.spotify.com/track/1XeTg3sVZZxy5YftQS2Fp9) | [Minai](https://open.spotify.com/artist/0uSKmfIgCQcWNKdFzZRVOh) | [Hayaller](https://open.spotify.com/album/3wXCksrzi7Ta4tVOAtLKKx) | 3:06 | 2021-12-03 | 2022-01-20 |
-| [Hayatın İzleri](https://open.spotify.com/track/2wJo7CG03q1sqZGDzBUJw1) | [Asli Ozer](https://open.spotify.com/artist/7GPHCN0PZGJPqU0s2BIoJY) | [Hayatın İzleri](https://open.spotify.com/album/0ohxeJWBkcWP45feTYEgw6) | 0:29 | 2022-02-17 |  |
+| [Hayatın İzleri](https://open.spotify.com/track/2wJo7CG03q1sqZGDzBUJw1) | [Asli Ozer](https://open.spotify.com/artist/7GPHCN0PZGJPqU0s2BIoJY) | [Hayatın İzleri](https://open.spotify.com/album/0ohxeJWBkcWP45feTYEgw6) | 3:57 | 2022-02-17 |  |
 | [Hem Yolsun Hem Yolcu](https://open.spotify.com/track/50aIDp4gtML2B6T0PAvaZ6) | [Batu](https://open.spotify.com/artist/7vdtfmzMDEeIAJFyOCrVIi) | [Hem Yolsun Hem Yolcu](https://open.spotify.com/album/2xC90n6kAnHKUGZjUw3ZKJ) | 3:51 | 2021-12-03 |  |
 | [Her Yerde Sen](https://open.spotify.com/track/4SZk2FiBheRSQXofYfTEWy) | [Uzay Böcekleri](https://open.spotify.com/artist/3vsVHHUAxsXyR6GyfA0jKU) | [Her Yerde Sen](https://open.spotify.com/album/1tKcKJkGdiY48xij9mqJR1) | 3:58 | 2021-12-03 | 2022-03-04 |
 | [Heyoka](https://open.spotify.com/track/26Kyw8T5KgNdFAmLUqqwtB) | [İlker Aksungar](https://open.spotify.com/artist/3nMYvC7EfdL3p4PHTConHc) | [Heyoka](https://open.spotify.com/album/3KGz4tGV5SBukZKZsYzzE7) | 1:47 | 2022-03-03 | 2022-04-16 |
@@ -177,7 +177,7 @@
 | [Sustum](https://open.spotify.com/track/6UoE0Uyo1CmbBHqKAWzI9c) | [Kuzey Işıkları](https://open.spotify.com/artist/6iELQnI1ZLFnR2RIzMOwQb) | [Sustum](https://open.spotify.com/album/54EF8j4hqTAzUhuw9cmJvp) | 2:59 | 2021-12-03 |  |
 | [Take Me Back](https://open.spotify.com/track/5YjceUfX2944oEy6l0XdjI) | [Deniz Erol Atmaca](https://open.spotify.com/artist/1ZFcKy8XDehf7QA5t8EKiS) | [Take Me Back](https://open.spotify.com/album/6eORj8lbT7eyMI8nv5xEiZ) | 6:34 | 2021-12-03 | 2022-01-20 |
 | [Tanışma](https://open.spotify.com/track/1AfJP8Y1nYrYSiF3atDLuL) | [Emir Aksoy](https://open.spotify.com/artist/6jjie4ycJ9AxnKbEgvyiVv) | [Tanışma](https://open.spotify.com/album/33M37e2FwCaHNTqLatDzad) | 4:43 | 2021-12-03 | 2022-01-20 |
-| [Toz](https://open.spotify.com/track/5feIgTH0OekqYXWtIg8PL8) | [Firuze Gamze](https://open.spotify.com/artist/7rWYdQWrHWYjrQwYsgdsze) | [Toz](https://open.spotify.com/album/4RhVWqVkqZogeTXyRp0vq6) | 0:29 | 2022-03-09 |  |
+| [Toz](https://open.spotify.com/track/5feIgTH0OekqYXWtIg8PL8) | [Firuze Gamze](https://open.spotify.com/artist/7rWYdQWrHWYjrQwYsgdsze) | [Toz](https://open.spotify.com/album/4RhVWqVkqZogeTXyRp0vq6) | 3:10 | 2022-03-09 |  |
 | [Umutlarla](https://open.spotify.com/track/6Ey1ywk6O13JsStrWWinSj) | [Anıl Şimşek](https://open.spotify.com/artist/0GH3KkrYNOlUei8TlSaMy9) | [Umutlarla](https://open.spotify.com/album/6nvM32SQEfE8YfiNFxVgkr) | 2:47 | 2022-01-20 |  |
 | [unut](https://open.spotify.com/track/7yULCqs6U58u0bStynsaAr) | [Canb](https://open.spotify.com/artist/2j6Njk4Gb8Txqu7UVz1Qsk) | [unut](https://open.spotify.com/album/4wTUoeLM920JQ9S6Eq1caj) | 3:23 | 2022-03-22 |  |
 | [Uyandığımda \- Zeynep Oktar Remix](https://open.spotify.com/track/7Fb8sYwjHnZRlaNb2NIqwm) | [Eve Dönüş Yok](https://open.spotify.com/artist/2tQmQVQ4gE2PdDTUvnfnsB), [Zeynep Oktar](https://open.spotify.com/artist/0cPdEqzFIf5aQAsQIpaU4s) | [Uyandığımda \(Zeynep Oktar Remix\)](https://open.spotify.com/album/4BDuLdgVUR2Q5pdyVcyVhR) | 4:29 | 2021-12-03 | 2022-01-20 |

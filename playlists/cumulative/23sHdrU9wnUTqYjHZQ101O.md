@@ -4,7 +4,7 @@
 
 > Sweden couldn&\#x27;t get enough of these tracks in 2014! See how the rest of the world listened at spotify.com&\#x2F;2014\. \*Includes artists currently available on Spotify.
 
-100 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/2hNHLc0MLBbisXiJZlC2uW)
+100 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/2hNHLc0MLBbisXiJZlC2uW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Royals](https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:10 | 2014-11-20 |  |
 | [Rude](https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Don't Kill the Magic](https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi) | 3:44 | 2014-11-20 |  |
 | [Safe And Sound](https://open.spotify.com/track/1fzJyTCKeZuTSLByCsLRHl) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [In A Tidal Wave Of Mystery](https://open.spotify.com/album/0oGhveAbsimFjFVF5aIkjW) | 3:13 | 2014-11-20 |  |
-| [Sail](https://open.spotify.com/track/0ZR9NFol0hcgLSVJoQmREl) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/6S6IqCFyiJVQwvdbCmb5oW) | 0:29 | 2014-11-20 |  |
+| [Sail](https://open.spotify.com/track/0ZR9NFol0hcgLSVJoQmREl) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/6S6IqCFyiJVQwvdbCmb5oW) | 4:19 | 2014-11-20 |  |
 | [Say Something](https://open.spotify.com/track/2N8F9mupXs9oyCLeerRfCw) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [NOW That's What I Call Music Vol\. 49](https://open.spotify.com/album/3dU6Sru08mCpY4Y7EMTkiz) | 3:47 | 2014-11-20 |  |
 | [Se på mig nu](https://open.spotify.com/track/7eE4ty8WofFpiEjzD5esme) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Se på mig nu](https://open.spotify.com/album/4OOjg9NiuliyFRcZomaqxm) | 3:20 | 2014-11-20 |  |
 | [Shot Me Down \(feat\. Skylar Grey\) \- Radio Edit](https://open.spotify.com/track/7qfwcqfGOkQYtzjF4UzJHM) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Shot Me Down \(feat\. Skylar Grey\)](https://open.spotify.com/album/4i9yM8JoAgeh6ekZjk08U1) | 3:11 | 2014-11-20 |  |

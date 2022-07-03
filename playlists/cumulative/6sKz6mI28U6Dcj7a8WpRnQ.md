@@ -4,7 +4,7 @@
 
 > 
 
-50 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/6nSW1UiPzJkscLPNTkMsc2)
+50 songs - 3 hr 41 min - [published](https://open.spotify.com/playlist/6nSW1UiPzJkscLPNTkMsc2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [\(I've Had\) The Time of My Life](https://open.spotify.com/track/5UqqOfFa9DYXALpCCF8VwB) | [Bill Medley](https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [Dirty Dancing](https://open.spotify.com/album/03HVo5MVOWQ4kilTtF1Czg) | 4:49 | 2013-06-27 |  |
 | [Alone](https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Bad Animals](https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e) | 3:38 | 2013-06-27 |  |
 | [Always](https://open.spotify.com/track/3smjYriN3K7zQvfikuRwnK) | [Atlantic Starr](https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm) | [Rhino Hi\-Five: Atlantic Starr](https://open.spotify.com/album/2loSj6QPgMOblpOz3hMyYd) | 4:48 | 2013-06-27 |  |
-| [At This Moment](https://open.spotify.com/track/6LDRTOMCSx81hKXAk1LuHd) | [Billy Vera & The Beaters](https://open.spotify.com/artist/1QQBo7mfkehMjDfz1tj5Pq) | [The Best of Billy Vera and the Beaters](https://open.spotify.com/album/3f9rbliKGTav57Ivvb9Wzu) | 0:29 | 2013-06-27 |  |
+| [At This Moment](https://open.spotify.com/track/6LDRTOMCSx81hKXAk1LuHd) | [Billy Vera & The Beaters](https://open.spotify.com/artist/1QQBo7mfkehMjDfz1tj5Pq) | [The Best of Billy Vera and the Beaters](https://open.spotify.com/album/3f9rbliKGTav57Ivvb9Wzu) | 3:54 | 2013-06-27 |  |
 | [C'est La Vie](https://open.spotify.com/track/6Ce9ItNCpk2PkAMq5v6EEV) | [Robbie Nevil](https://open.spotify.com/artist/4NkLjsRsFnuPu9B4zqzBqq) | [The Best Of Robbie Neville](https://open.spotify.com/album/42fYChDO5P83qQ4NQs6bS4) | 4:31 | 2013-06-27 |  |
 | [Causing a Commotion](https://open.spotify.com/track/3sX3c6QUPSAiKf77RZRf5B) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Who's That Girl Soundtrack](https://open.spotify.com/album/21vHnROXDZY51gJxsjTLXZ) | 4:21 | 2013-06-27 |  |
 | [Control](https://open.spotify.com/track/5vywtoD7fO1CP0B2wtm6I6) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Control](https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y) | 5:53 | 2013-06-27 |  |

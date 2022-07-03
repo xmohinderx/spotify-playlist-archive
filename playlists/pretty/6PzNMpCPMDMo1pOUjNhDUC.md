@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6PzNMpCPMDMo1pOUjNhDUC.md) - [plain]
 
 > The perfect playlist for a great party\. Fun, happy, joyful..\. the kids will love it!
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,284 likes - 44 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,286 likes - 44 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/6PzNMpCPMDMo1pOUjNhDUC.md) - [plain]
 | 24 | [Gangnam Style \(강남스타일\)](https://open.spotify.com/track/1R2SZUOGJqqBiLuvwKOT2Y) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Gangnam Style \(강남스타일\)](https://open.spotify.com/album/2oKzsLJeOGZ5bMXDPuWCxe) | 3:39 |
 | 25 | [Monkey See, Monkey Do](https://open.spotify.com/track/0nMYZcDIXNCkFR83pUaEhM) | [Andy Mason](https://open.spotify.com/artist/5uyYI21k0CDifcxUAEsezK) | [Play It Again!](https://open.spotify.com/album/3yVPoWPQHN9R1KOZ8QcFsS) | 3:12 |
 | 26 | [Clap My Hands](https://open.spotify.com/track/5ZS7uSrVVxtSX9uMAnaVNc) | [Milkshake](https://open.spotify.com/artist/4aCAV0BUD0qb0nT8kQNnAD) | [Happy Songs](https://open.spotify.com/album/4zkmOywwsDuLdhDmy9v6qB) | 1:49 |
-| 27 | [Down By The Sea](https://open.spotify.com/track/5M8stbMQTMJtIcZHAyzxSf) | [Red Grammer](https://open.spotify.com/artist/7tMAjOyRSfmuyinnMOFa5M) | [Down The Do\-Re\-Mi](https://open.spotify.com/album/0PqJ02BAYANqrHqWY54xsI) | 0:29 |
+| 27 | [Down By The Sea](https://open.spotify.com/track/5M8stbMQTMJtIcZHAyzxSf) | [Red Grammer](https://open.spotify.com/artist/7tMAjOyRSfmuyinnMOFa5M) | [Down The Do\-Re\-Mi](https://open.spotify.com/album/0PqJ02BAYANqrHqWY54xsI) | 2:49 |
 | 28 | [The Wheels On The Bus](https://open.spotify.com/track/6FNTpvMXKjI5dbcgrvhF93) | [Go Fish](https://open.spotify.com/artist/60oY0lmnOyCS2ElXAKCNrR) | [Party Like A Preschooler](https://open.spotify.com/album/5enWyBUsX9McYQZ2FwFzmY) | 2:13 |
 | 29 | [Tutti Frutti](https://open.spotify.com/track/17nFSc5cJ3AHKt7qsGFtsz) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [The Essential Little Richard \(Remastered\)](https://open.spotify.com/album/4IxwByzyIrvhcy8VxG2zF0) | 2:24 |
 | 30 | [Five Little Monkeys](https://open.spotify.com/track/0WcyDPvyJlNfx9ow5plstV) | [Go Fish](https://open.spotify.com/artist/60oY0lmnOyCS2ElXAKCNrR) | [Party Like A Preschooler](https://open.spotify.com/album/1Wmg1qttYV37DUUWp2C28y) | 3:08 |

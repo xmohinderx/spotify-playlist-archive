@@ -4,7 +4,7 @@
 
 > Comforting sounds of thunder and rain.
 
-205 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/0nlg0xFxpMJfB9VIsNYqUE)
+205 songs - 8 hr 54 min - [published](https://open.spotify.com/playlist/0nlg0xFxpMJfB9VIsNYqUE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Countryside Storm](https://open.spotify.com/track/3DcBNBQXztYsrGgAqUGSJj) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [Countryside Storm](https://open.spotify.com/album/3sQS3qy5lYAOuzuBoxw2eY) | 3:28 | 2021-11-10 |  |
 | [Cozy Rain](https://open.spotify.com/track/44REx0lmsZcpfmkKrMvDp0) | [Ray N.Y](https://open.spotify.com/artist/6QOi0WtxrycnPENvP8Rhvz) | [Heavy Rain](https://open.spotify.com/album/5yz3wrR41kYNUrYoQeIzzs) | 2:48 | 2021-11-10 |  |
 | [Cozy Thunder And Rain \- Seamless](https://open.spotify.com/track/2QtHxdxJ5Dc2eVHEfPA079) | [Drip\-Drop](https://open.spotify.com/artist/0iDx4sYtJ0FfXi5tdGGXTA) | [Nocturnal Cozy Rain](https://open.spotify.com/album/3C4JU2iVIEI5F8B59b7upA) | 2:44 | 2021-11-10 |  |
-| [Cracks of Thunder And Rainstorm](https://open.spotify.com/track/6GcUI8GPOR0oJActmrRKNE) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Rain Sounds Vol\. 1](https://open.spotify.com/album/5W5jd58bjWGTReUGzbJzG1) | 0:29 | 2021-11-10 |  |
+| [Cracks of Thunder And Rainstorm](https://open.spotify.com/track/6GcUI8GPOR0oJActmrRKNE) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Rain Sounds Vol\. 1](https://open.spotify.com/album/5W5jd58bjWGTReUGzbJzG1) | 2:54 | 2021-11-10 |  |
 | [Dark skies](https://open.spotify.com/track/48jzJCr5iHi1aMuhTKlXP0) | [LWD Rain](https://open.spotify.com/artist/6lrsSXFmqs1QlXzV9XjQxL) | [LWD Rain](https://open.spotify.com/album/2XXKpJdXfo89hdDUJwrNJH) | 2:01 | 2021-11-10 |  |
 | [Dark Storm](https://open.spotify.com/track/2bI4BdFdtdDBM2q3xB3IZR) | [Taranis](https://open.spotify.com/artist/1NJVAyxYtsmOu8aiWyVpaH) | [Celtic Storm](https://open.spotify.com/album/5CFVwpOfT7S8GZ5stbFQbn) | 3:00 | 2021-11-10 |  |
 | [Das Unwetter](https://open.spotify.com/track/7D9DQF0eBc7E3OLBNXaKIu) | [BLITZ](https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH) | [Regen und Donner](https://open.spotify.com/album/094KCo8MLAqrfNjBkDkI46) | 3:12 | 2021-11-10 |  |

@@ -4,7 +4,7 @@
 
 > My favourite tracks to harness your focus and push you to the limit in your next workout.
 
-41 songs - 3 hr 3 min - [published](https://open.spotify.com/playlist/046CnMbW6heH6DEk9pW3XA)
+41 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/046CnMbW6heH6DEk9pW3XA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [All My Life](https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One \(Expanded Edition\)](https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx) | 4:23 | 2021-04-21 |  |
 | [Angel](https://open.spotify.com/track/7uv632EkfwYhXoqf8rhYrg) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 6:19 | 2021-04-21 |  |
 | [Beat It](https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:18 | 2021-04-21 |  |
-| [Bent Light](https://open.spotify.com/track/4cZRwZrq64bA6Kefaup5v3) | [Praxis](https://open.spotify.com/artist/7HUToZAiTbs402RFlGb6nF) | [Tennessee 2004](https://open.spotify.com/album/4Gra5ONFja6kNJqvOArntO) | 0:29 | 2021-04-21 |  |
+| [Bent Light](https://open.spotify.com/track/4cZRwZrq64bA6Kefaup5v3) | [Praxis](https://open.spotify.com/artist/7HUToZAiTbs402RFlGb6nF) | [Tennessee 2004](https://open.spotify.com/album/4Gra5ONFja6kNJqvOArntO) | 5:36 | 2021-04-21 |  |
 | [Breathe](https://open.spotify.com/track/5oPUBUzrAnwvlmMzl1VW7Y) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Fat of the Land \- Expanded Edition](https://open.spotify.com/album/2NkwB9shQioKcbNhPf2EbP) | 5:34 | 2021-04-21 |  |
 | [Building Steam With A Grain Of Salt](https://open.spotify.com/track/4cucslsiEgezV2o900Ykg3) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Endtroducing.....](https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l) | 6:39 | 2021-04-21 |  |
 | [Colors](https://open.spotify.com/track/6J3HNhDBIwEX11bX8hzx5u) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/3g8HE8pB8nq6DbHf71I2Wa) | 4:06 | 2021-04-21 |  |

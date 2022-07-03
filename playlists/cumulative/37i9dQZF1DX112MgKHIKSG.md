@@ -4,7 +4,7 @@
 
 > Stories from the world of Peppa Pig!
 
-29 songs - 2 hr 17 min - [published](https://open.spotify.com/playlist/2ipshZDU9na0eERMIoB8NL)
+29 songs - 2 hr 20 min - [published](https://open.spotify.com/playlist/2ipshZDU9na0eERMIoB8NL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Talent Day](https://open.spotify.com/track/2LLlH12XHOZjv9gFA9ibax) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Talent Day](https://open.spotify.com/album/0lJqL5GWW0JF9ptafbhBKC) | 4:40 | 2021-12-03 | 2022-06-17 |
 | [The Diner](https://open.spotify.com/track/65pAgzaSTTz9K92UJ0voMM) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [The Diner](https://open.spotify.com/album/5YwKoIQPdAFUHk4HILFEFj) | 4:51 | 2021-12-03 |  |
 | [The Market](https://open.spotify.com/track/4G2Qswzk6xldWWX5sGQXId) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [The Market](https://open.spotify.com/album/3B8mE99K2j8RAlYXZw4fMg) | 4:51 | 2021-12-03 |  |
-| [The Noisy Night](https://open.spotify.com/track/76fYm2twdIR0V1JWI2pz4b) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [The Noisy Night](https://open.spotify.com/album/1DhGPaGfuzgqfcQ6qBx485) | 0:29 | 2021-12-03 |  |
+| [The Noisy Night](https://open.spotify.com/track/76fYm2twdIR0V1JWI2pz4b) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [The Noisy Night](https://open.spotify.com/album/1DhGPaGfuzgqfcQ6qBx485) | 4:19 | 2021-12-03 |  |
 | [The Secret Club](https://open.spotify.com/track/3JXfwrh1eukIff5S2q4Wtn) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [The Secret Club](https://open.spotify.com/album/6YAIkMdVO9D3kzEQZmPQ4m) | 4:32 | 2021-12-03 |  |
 | [Whistling](https://open.spotify.com/track/3eTV8uv5sxrFvpGMDEwKpb) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Whistling](https://open.spotify.com/album/4mYj1TrcCkA9tzOS2P7Jt5) | 4:51 | 2021-12-03 |  |
 

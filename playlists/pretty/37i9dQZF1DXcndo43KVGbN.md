@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcndo43KVGbN.md) - [plain]
 
 > The harmony between beautiful Ambient and tape manipulation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,019 likes - 94 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,036 likes - 94 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcndo43KVGbN.md) - [plain]
 | 35 | [Divinity at Dusk](https://open.spotify.com/track/4HkHS3M1koyQbgjqA9X22J) | [Bvdub](https://open.spotify.com/artist/3MZHEsxGNxPt6WIMwDCby2) | [Violet Opposition](https://open.spotify.com/album/6zV9NA0YcqrZbcicuxbVtS) | 20:28 |
 | 36 | [A Liquor Of Daisies](https://open.spotify.com/track/2CTDvccnc5VH2XnaTCDG1k) | [Lisa Lerkenfeldt](https://open.spotify.com/artist/3famB97koyRfo502IWQjFL) | [A Liquor Of Daisies](https://open.spotify.com/album/1dE2QHNWwzfJrWQ4Vrfi3s) | 39:48 |
 | 37 | [Aphrodite](https://open.spotify.com/track/2X68oN27cXdWbaFN9hV8V7) | [Ian William Craig](https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q), [Daniel Lentz](https://open.spotify.com/artist/1ZQoNPK02AD5iWU6HcPb1f) | [FRKWYS Vol\. 16: In a Word](https://open.spotify.com/album/4LzT4gnORzaNTIwAngpCgK) | 1:38 |
-| 38 | [mllrm](https://open.spotify.com/track/5MM3g88SuFSnGab0Mx8md1) | [Slace](https://open.spotify.com/artist/7bbAzWpvO3S7tb2iEq2tKG) | [mllrm](https://open.spotify.com/album/2tGC3Fnu2Apvy2ETIkMGeq) | 0:29 |
+| 38 | [mllrm](https://open.spotify.com/track/5MM3g88SuFSnGab0Mx8md1) | [Slace](https://open.spotify.com/artist/7bbAzWpvO3S7tb2iEq2tKG) | [mllrm](https://open.spotify.com/album/2tGC3Fnu2Apvy2ETIkMGeq) | 6:28 |
 | 39 | [Great Lakes](https://open.spotify.com/track/5TRO29klRrOunwmiU6ej6k) | [Sailcloth](https://open.spotify.com/artist/3LMjQj2ObPaIwoyX3I9DJL) | [Great Lakes](https://open.spotify.com/album/1ypubdMSYePWglqnZULrCm) | 2:53 |
 | 40 | [The Edges](https://open.spotify.com/track/2x4K92FhxeJAmTiptxMijO) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Our Hands Against the Dusk](https://open.spotify.com/album/0m89bXpdmBFJzyIA4j6ZWH) | 5:07 |
 | 41 | [Siblings](https://open.spotify.com/track/3ExkbOfWgrL78xCyTOTeJT) | [Tomat](https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa) | [Diistemi](https://open.spotify.com/album/3CKzdrXuBAPfQgUU3uYqr5) | 2:57 |

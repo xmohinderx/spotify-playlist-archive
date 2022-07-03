@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9if5QDLdzCa.md) - [plain]
 
 > Relax to the sound of the ocean.
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,535 likes - 196 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,591 likes - 196 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,7 +143,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9if5QDLdzCa.md) - [plain]
 | 133 | [Waves in Montauk](https://open.spotify.com/track/1jAadgLFryVznvw10ArZZL) | [Ocean in HD](https://open.spotify.com/artist/2SveYJjEGhckzCzGg3J9Xq) | [Ocean Waves](https://open.spotify.com/album/1g4CXHJpJywHXFeX9CVqLE) | 2:00 |
 | 134 | [Soothing Waves](https://open.spotify.com/track/0bhqI2juxlq9NIMN35cCm1) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Ocean Sounds Vol\. 1](https://open.spotify.com/album/70GyyrJtf355wkI3MmMH59) | 2:34 |
 | 135 | [Pacific Blue Sounds](https://open.spotify.com/track/0A0x0FqKVh1q0y8ueg9eSx) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Soothing Waves of Santa Barbara](https://open.spotify.com/album/4PVLbEJbfULsHFINoXQ5Af) | 4:56 |
-| 136 | [Waves After Midnight](https://open.spotify.com/track/1mDBfN62kGsLNa6qZcsFsK) | [next nature](https://open.spotify.com/artist/0GsJOKuWnueBiINONW4yhg) | [Ocean Sounds](https://open.spotify.com/album/0ridirYvKxFJckbFONyav5) | 0:29 |
+| 136 | [Waves After Midnight](https://open.spotify.com/track/1mDBfN62kGsLNa6qZcsFsK) | [next nature](https://open.spotify.com/artist/0GsJOKuWnueBiINONW4yhg) | [Ocean Sounds](https://open.spotify.com/album/0ridirYvKxFJckbFONyav5) | 2:40 |
 | 137 | [Pacific Ocean](https://open.spotify.com/track/4beKgc6XO9T2JUM7npzZNE) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Ocean HD Vol\. 3](https://open.spotify.com/album/3IZyFF8P0myAf3kwEun9Fo) | 3:28 |
 | 138 | [Wave Sounds From Your Favorite Beach](https://open.spotify.com/track/2R6HB9DiSAxq08vj5dj9B3) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Deluxe Wave Sounds](https://open.spotify.com/album/4ap2CpNw9Uu7uIBe9xeV8E) | 3:04 |
 | 139 | [Walking on the Beach](https://open.spotify.com/track/4JF77DJLXTu8BhRqh3chaF) | [4D Nature Recordings](https://open.spotify.com/artist/6EAXjip845wircvDzEImru) | [Stereo Waves](https://open.spotify.com/album/0jsBg94hPzWjFfGYUFwdJJ) | 2:17 |
@@ -155,7 +155,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9if5QDLdzCa.md) - [plain]
 | 145 | [South Beach Waves](https://open.spotify.com/track/1svwMjpggKNGHQ4Rcr8Ia9) | [The Wave Sleep Machine](https://open.spotify.com/artist/49kfCzRL9oEVuOOfuFI4nu) | [The Wave Sleep Machine](https://open.spotify.com/album/7iicR5jDirO7didbpr2O8O) | 4:29 |
 | 146 | [Winter Beach](https://open.spotify.com/track/4x3ubKe4FmYcJXEXtdpVo4) | [Waves in Regression](https://open.spotify.com/artist/1ubpdbsfq9yAYfNcvoiUrn) | [South Shore Waves](https://open.spotify.com/album/6oKRzOWgUonrGJ5RJStMIe) | 2:53 |
 | 147 | [Island Waves](https://open.spotify.com/track/1AKBor4M47I7axiOkCRiqk) | [Hawaiian Explosion](https://open.spotify.com/artist/6UY5lHIUz2dzWHwyGy2DMj) | [Island Waves](https://open.spotify.com/album/6jrW7MXGhQoWkfAajd2Fms) | 3:30 |
-| 148 | [Three Minutes Of Breathing Waves](https://open.spotify.com/track/31SevMkEKupBNpthM8Zkja) | [next nature](https://open.spotify.com/artist/0GsJOKuWnueBiINONW4yhg) | [Ocean Sounds](https://open.spotify.com/album/0ridirYvKxFJckbFONyav5) | 0:29 |
+| 148 | [Three Minutes Of Breathing Waves](https://open.spotify.com/track/31SevMkEKupBNpthM8Zkja) | [next nature](https://open.spotify.com/artist/0GsJOKuWnueBiINONW4yhg) | [Ocean Sounds](https://open.spotify.com/album/0ridirYvKxFJckbFONyav5) | 3:06 |
 | 149 | [Daytona Beach Waves](https://open.spotify.com/track/5bV68Ar7VlCSyDyTnAQsTD) | [Tailormade Ocean Waves](https://open.spotify.com/artist/3OjEIMPj8o4suACoEANPly) | [Nature Sleep](https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG) | 1:23 |
 | 150 | [At The Shore](https://open.spotify.com/track/17GKEXuSlpESmBaUJaXeBF) | [Ocean Vacation](https://open.spotify.com/artist/5TgEJqhCrbEiOGTNMC5dh4) | [At The Shore](https://open.spotify.com/album/7feNID0SxJjODjF1fwEkhv) | 2:47 |
 | 151 | [Afternoon Tide](https://open.spotify.com/track/1nEQ117bf8yZaxQAJvlqq9) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Private Beach Wave Sounds](https://open.spotify.com/album/32DqIRyDehbR8cLyWFilgg) | 3:07 |

@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-141 songs - 9 hr 39 min - [published](https://open.spotify.com/playlist/2eceFp3qX8eTXa9OinhIeU)
+141 songs - 9 hr 42 min - [published](https://open.spotify.com/playlist/2eceFp3qX8eTXa9OinhIeU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,6 @@
 | [You'll Be Sorry](https://open.spotify.com/track/35kDqdxX71QMxGN9TfN8Ze) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL), [Kate McQuaide](https://open.spotify.com/artist/4LWeARGZqgnbwcLbOe2NUX) | [You'll Be Sorry](https://open.spotify.com/album/5TOVbHHY3iU7oukVDTAgD2) | 3:30 | 2020-10-30 |  |
 | [You've Got To Change](https://open.spotify.com/track/5eZlZq3LDJTaHPVb5j3tdC) | [Brownout](https://open.spotify.com/artist/75ITBSKqlC5hlS4PZ2XP1S) | [Berlin Sessions](https://open.spotify.com/album/0IDJHvzYJdJ95VtHUOKhqg) | 3:58 | 2020-10-30 |  |
 | [Your Touch](https://open.spotify.com/track/7irxgIZPujseydOU1F9DGr) | [The APX](https://open.spotify.com/artist/4FcDSQOUJabW2HEHGofJOM), [Mink Slide](https://open.spotify.com/artist/4pW7lEAcGKdR77rKW6cYPJ) | [Your Touch](https://open.spotify.com/album/0stnWhCCa90eJjTPGqVhXf) | 2:48 | 2020-10-30 | 2022-04-09 |
-| [Zodiac](https://open.spotify.com/track/7hoem34FJzzQWkAb58Tlkz) | [Diggin' Dirt](https://open.spotify.com/artist/3xgLOazt16FXyWSWJ99ViC) | [Zodiac](https://open.spotify.com/album/02rS1XRazioI44nYLe3HtG) | 0:29 | 2021-10-15 |  |
+| [Zodiac](https://open.spotify.com/track/7hoem34FJzzQWkAb58Tlkz) | [Diggin' Dirt](https://open.spotify.com/artist/3xgLOazt16FXyWSWJ99ViC) | [Zodiac](https://open.spotify.com/album/02rS1XRazioI44nYLe3HtG) | 4:11 | 2021-10-15 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Gentle instrumental tunes.
 
-101 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/08O5oJuSceMQ8gK9L0DkGT)
+101 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/08O5oJuSceMQ8gK9L0DkGT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Fonteyn](https://open.spotify.com/track/42qcDdQ4VWeLCLjrF9BBRN) | [Rachel Sandy](https://open.spotify.com/artist/29Y9bN8378sKXJODbwRmhC) | [Fonteyn](https://open.spotify.com/album/4HpC0EKpIpG0cQGNNyl8WG) | 2:39 | 2021-11-19 |  |
 | [Fountain of People's Hope](https://open.spotify.com/track/70MlCRz6vWvAynrz0EDVr3) | [Tunde Jegede](https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ) | [Still Moment](https://open.spotify.com/album/03uMfQNIFSHVwcxCngFdT5) | 4:16 | 2021-11-19 |  |
 | [Future Love \- Reimagined by Pêtr Aleksänder instrumental](https://open.spotify.com/track/08ciGXj3HGPuY6jACqds83) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX), [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ) | [Clouds In The Mirror \(This Is Not A Safe Place reimagined by Pêtr Aleksänder\) \[Instrumental version\]](https://open.spotify.com/album/1ZreFzgLIQfsdYsn9fA01c) | 3:03 | 2021-11-19 |  |
-| [Goldberg Variations, BWV 988: Variation 1 \(Arr\. for Harp\)](https://open.spotify.com/track/36EnMgx9PmtnzUtmKwI63h) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Parker Ramsay](https://open.spotify.com/artist/5ForLHbyCPMNAICPCv1oeb) | [Bach: Goldberg Variations: Variation 1 \(Arranged for Harp\)](https://open.spotify.com/album/5a12E7Hn3S4QlR4egf9cHA) | 0:29 | 2021-11-19 |  |
+| [Goldberg Variations, BWV 988: Variation 1 \(Arr\. for Harp\)](https://open.spotify.com/track/36EnMgx9PmtnzUtmKwI63h) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Parker Ramsay](https://open.spotify.com/artist/5ForLHbyCPMNAICPCv1oeb) | [Bach: Goldberg Variations: Variation 1 \(Arranged for Harp\)](https://open.spotify.com/album/5a12E7Hn3S4QlR4egf9cHA) | 1:56 | 2021-11-19 |  |
 | [Guitar Suite No\. 2: II\. Serenata](https://open.spotify.com/track/1IsKX8UHybts7ESOZUfdqL) | [Inocente Carreño](https://open.spotify.com/artist/2xCRnXoBFxV0a5GIslqKJI), [Nirse Gonzalez](https://open.spotify.com/artist/6drICkRVbp7IZvwxMnLwT8) | [Guitar Music of Venezuela](https://open.spotify.com/album/0SRzPJy4zsoi3WVvCdVcOr) | 3:16 | 2021-11-19 |  |
 | [Haar over Hamnavoe \- Bill Ryder\-Jones Rework](https://open.spotify.com/track/5Fe2pvSESMAop2EP1b2f3l) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa), [Bill Ryder\-Jones](https://open.spotify.com/artist/2E70ENJNHoACgzTkJ3QnO4) | [Haar over Hamnavoe \(Bill Ryder\-Jones Rework\)](https://open.spotify.com/album/20ek3LDlmNsbU44XmMP6cb) | 3:53 | 2021-11-19 |  |
 | [Hello Yellow](https://open.spotify.com/track/4A2XEAdCajGcm5ZOUWoQrA) | [Rubin Henkel](https://open.spotify.com/artist/097BWrWlRc3ADrPFarUVmP) | [Restless](https://open.spotify.com/album/0Gy9ISFxfGL5LFvLNNlMsq) | 2:04 | 2022-05-11 |  |

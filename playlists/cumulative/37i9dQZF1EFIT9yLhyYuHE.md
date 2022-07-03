@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/41ePM6C85zfhtOuTEfuooq">Charlene Meulenberg</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-48 songs - 2 hr 26 min - [published](https://open.spotify.com/playlist/6em251h4Qy6i0PaiBqmC9I)
+49 songs - 2 hr 32 min - [published](https://open.spotify.com/playlist/6em251h4Qy6i0PaiBqmC9I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,14 +43,15 @@
 | [Rain](https://open.spotify.com/track/78FgNtnQF3jTje0xn9HME8) | [Jules](https://open.spotify.com/artist/4e2hDERmPLsXiJlO9SjC1J) | [Rain](https://open.spotify.com/album/0uldlY1QLhM67agkczYEhk) | 2:33 | 2022-05-29 |  |
 | [Reasons](https://open.spotify.com/track/2FUC4I9jmrmanxKFpIfhu6) | [Jules](https://open.spotify.com/artist/4e2hDERmPLsXiJlO9SjC1J) | [Reasons](https://open.spotify.com/album/7kHWiBH2vYL6hdemhtct01) | 2:20 | 2022-05-29 |  |
 | [Rich](https://open.spotify.com/track/1kdyUzi1y72m0bimHV4LOQ) | [D\-wayne](https://open.spotify.com/artist/7s8qj3Bzbzoyw1t1y88GuX) | [Rich](https://open.spotify.com/album/0yDc9SCVT5ZUxU5SrKueCa) | 3:01 | 2022-05-29 |  |
-| [Safe with Me](https://open.spotify.com/track/1A0p7apLXg6ECtSBMhEAyO) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [DIM3NSION](https://open.spotify.com/artist/3ElxxnFnoeIC3WaWPXUEHX) | [Safe with Me](https://open.spotify.com/album/6mlNs1g1A40Hmcxy7QX94w) | 3:11 | 2022-05-29 |  |
+| [Safe with Me](https://open.spotify.com/track/1A0p7apLXg6ECtSBMhEAyO) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [DIM3NSION](https://open.spotify.com/artist/3ElxxnFnoeIC3WaWPXUEHX) | [Safe with Me](https://open.spotify.com/album/6mlNs1g1A40Hmcxy7QX94w) | 3:11 | 2022-05-29 | 2022-07-03 |
+| [Safe With Me](https://open.spotify.com/track/2I6F1Xu6y9nPAEla7NrmT5) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Dim3nsion](https://open.spotify.com/artist/7vEd9uAqFgC4p4EOXiFuQL) | [Safe With Me](https://open.spotify.com/album/2IR1QK7GoNHzHG1RrcMhr9) | 3:11 | 2022-07-02 |  |
 | [Say You're Mine](https://open.spotify.com/track/2i0YLaDthw6Zi1mwIW7E0o) | [Carl Clarks](https://open.spotify.com/artist/3OE3dz6RhP1rdri5pcQY0c), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [Say You're Mine](https://open.spotify.com/album/7jdBTIrZUyapCtPEEvDwUx) | 2:56 | 2022-05-29 |  |
 | [Shoes Don't Fit](https://open.spotify.com/track/55V1yJ4L9psXIToQfm0tYB) | [Jules](https://open.spotify.com/artist/4e2hDERmPLsXiJlO9SjC1J) | [Shoes Don't Fit](https://open.spotify.com/album/7lipg4JiN387jItTUkzb1j) | 2:32 | 2022-05-29 |  |
 | [Soaking In The Silence](https://open.spotify.com/track/3ryw2lnxtPXu3TjLsl25pP) | [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [This Is Wulf](https://open.spotify.com/album/7BIbiX7wrPRaXuJ2RZ37kK) | 3:25 | 2022-05-29 |  |
 | [Strange Desire](https://open.spotify.com/track/7HgpfbhruGC6bX8BYzRlqo) | [Nambyar](https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9) | [How Would It Feel](https://open.spotify.com/album/3ZGIUHyrzEsvkE6e6OQAOd) | 4:05 | 2022-05-29 |  |
 | [Superhuman \(feat\. Ayah Marar\)](https://open.spotify.com/track/3BOu7SntVrw7jkFg5ANhNe) | [Quinn Kade](https://open.spotify.com/artist/2fHyZlpgjfughLEGPIDPKF), [Ayah Marar](https://open.spotify.com/artist/4xQ2BGOBUXgjxO2PAhrIyS) | [Superhuman \(feat\. Ayah Marar\)](https://open.spotify.com/album/4d3MBnfoyldBOHNBZiCfNy) | 3:14 | 2022-05-29 |  |
 | [The Lost One](https://open.spotify.com/track/1GwIQTJWPl4Ok3uZ2dIHnV) | [Mabo](https://open.spotify.com/artist/6XxrlKH1iahSmaUDcyS5Rt) | [The Lost One](https://open.spotify.com/album/5ANQGGco2PooDfulRsUGEB) | 3:14 | 2022-05-29 |  |
-| [The Right One](https://open.spotify.com/track/7l37dMgsRHPOb7yk34f78w) | [Mabo](https://open.spotify.com/artist/6XxrlKH1iahSmaUDcyS5Rt) | [The Right One](https://open.spotify.com/album/0Hl4BSPGz624co8VIfRegt) | 0:29 | 2022-05-29 |  |
+| [The Right One](https://open.spotify.com/track/7l37dMgsRHPOb7yk34f78w) | [Mabo](https://open.spotify.com/artist/6XxrlKH1iahSmaUDcyS5Rt) | [The Right One](https://open.spotify.com/album/0Hl4BSPGz624co8VIfRegt) | 2:50 | 2022-05-29 |  |
 | [To The Moon And Back](https://open.spotify.com/track/1VpGCuCz9Xl05lUn9VY2Yk) | [Jules](https://open.spotify.com/artist/4e2hDERmPLsXiJlO9SjC1J) | [Irreversible](https://open.spotify.com/album/4qmfxCE5ggeqEMx85yj2jG) | 2:41 | 2022-05-29 |  |
 | [Together](https://open.spotify.com/track/5wPRJfP6UZXYori1sb1SJx) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Manifest / Together](https://open.spotify.com/album/6LIlh3rGjisJpKV3z3BMR8) | 3:31 | 2022-05-29 |  |
 | [We Could Be Dancing \(feat\. Molly Hammar\)](https://open.spotify.com/track/367BbT7Cg2xZLv5redErC9) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [We Could Be Dancing \(feat\. Molly Hammar\)](https://open.spotify.com/album/6DdE4wnc55MRvUJakqPECB) | 2:44 | 2022-05-29 |  |

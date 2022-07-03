@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > From the Dance Halls and Honky Tonks across America to the World! Cover: Aaron Watson
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,290 likes - 202 songs - 11 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,380 likes - 202 songs - 12 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,7 +151,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 141 | [Two Hearts in Terlingua](https://open.spotify.com/track/1xzTlHwxVsnI34HgnINYpt) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Dos Corazones](https://open.spotify.com/album/5kHo4RAMzYArFTulnKOEWr) | 5:01 |
 | 142 | [All I'll Ever Need](https://open.spotify.com/track/1lxkcOTt0dVH2w5ebxZ89M) | [Matt Daniel](https://open.spotify.com/artist/6QiblG2jfJUChehe6UpFvT) | [All I'll Ever Need](https://open.spotify.com/album/2e8kblQYR7TPLPzLIP7rRN) | 3:22 |
 | 143 | [Somewhere in the Sun](https://open.spotify.com/track/7bcOIHdpOCJo3tzhdZmBQ8) | [Joey Greer](https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4) | [Somewhere in the Sun](https://open.spotify.com/album/4VyXe0br7H7CWt4QU3AOfS) | 3:01 |
-| 144 | [Like the Wind](https://open.spotify.com/track/3hO22cIoKIEmCjMIsG7kY9) | [Wynn Williams](https://open.spotify.com/artist/6ZzXw8Du2F5Ak2udqeOTC4) | [Like the Wind](https://open.spotify.com/album/4FfBY2JDKbtRUhUHK1th5U) | 0:29 |
+| 144 | [Like the Wind](https://open.spotify.com/track/3hO22cIoKIEmCjMIsG7kY9) | [Wynn Williams](https://open.spotify.com/artist/6ZzXw8Du2F5Ak2udqeOTC4) | [Like the Wind](https://open.spotify.com/album/4FfBY2JDKbtRUhUHK1th5U) | 3:14 |
 | 145 | [Whiskey When I'm Gone](https://open.spotify.com/track/4NMrYRUW7GHSZhlUaqnG38) | [Cooper Mohrmann](https://open.spotify.com/artist/4b5lxXh8G3bCrO4q8fTTkk) | [Whiskey When I'm Gone](https://open.spotify.com/album/32GyLIWTsXlW1F54Zxns1R) | 3:47 |
 | 146 | [Bless Her Heart](https://open.spotify.com/track/6QIwqG7Alb9todpZfh5Zep) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Bless Her Heart](https://open.spotify.com/album/1l1wBvJ9aDaCKssXNDxMWF) | 2:59 |
 | 147 | [Settle for a Beer \(with Triston Marez\)](https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [Settle for a Beer \(with Triston Marez\)](https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep) | 2:54 |
@@ -183,7 +183,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 173 | [If I Lived Here](https://open.spotify.com/track/2jc2BVAr4FPqYowcXoDTlD) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [The Last Resort: Greetings From](https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag) | 3:49 |
 | 174 | [Open Book](https://open.spotify.com/track/71F8QUX0UiqmoSZKgjCnP6) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [Open Book](https://open.spotify.com/album/5ivrCd6Y6Z1BGr6GwROBwp) | 3:47 |
 | 175 | [With You](https://open.spotify.com/track/1hx6d28pvkstw3plMK6AnG) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [SÕL Sessions](https://open.spotify.com/album/5RSKBMC7PnUwY4BUibWNEX) | 4:26 |
-| 176 | [Buzzed Brain](https://open.spotify.com/track/28BlOyCL7tkzuc9xWwTPFI) | [Carson Jeffrey](https://open.spotify.com/artist/4wDMfwJrSuFKolGyGC5K1l) | [Buzzed Brain, Pt\. 2](https://open.spotify.com/album/04Z0wNec76yBlauZ0gabJ3) | 0:29 |
+| 176 | [Buzzed Brain](https://open.spotify.com/track/28BlOyCL7tkzuc9xWwTPFI) | [Carson Jeffrey](https://open.spotify.com/artist/4wDMfwJrSuFKolGyGC5K1l) | [Buzzed Brain, Pt\. 2](https://open.spotify.com/album/04Z0wNec76yBlauZ0gabJ3) | 4:26 |
 | 177 | [Come and Take It](https://open.spotify.com/track/6P3ZoKaDNffsEoutjbFbgF) | [Cannon Brand](https://open.spotify.com/artist/02inix3QCxIUGODnJxm02K) | [Come and Take It](https://open.spotify.com/album/6cwdWlBUgSWGVRho3ZqWx3) | 4:00 |
 | 178 | [Albuquerque](https://open.spotify.com/track/2gpuDZBmlkN2KNpRm2DoPm) | [Colton Venner](https://open.spotify.com/artist/2j8Sh4ZxKM8iqE55xUoR1L) | [Albuquerque](https://open.spotify.com/album/5yZw311Eco2bEEUpqKS4ut) | 3:16 |
 | 179 | [Longshot](https://open.spotify.com/track/5IsQP1RpheEEdMjDVL0oWh) | [Lane Smith](https://open.spotify.com/artist/2NAFBYpHLQhucaNUoUI3g2) | [Longshot](https://open.spotify.com/album/0pJfjqoI5XpEp34ABAJb09) | 3:44 |

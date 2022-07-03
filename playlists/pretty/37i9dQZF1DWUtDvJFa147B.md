@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUtDvJFa147B.md) - [plain]
 
 > The official playlist of JTBC Begin Again, which contains the busking live soundtracks of the best musicians in Korea\. \(국내 최정상 뮤지션들의 버스킹 라이브 음원들이 담긴 JTBC 비긴어게인의 공식 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,982 likes - 113 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,025 likes - 113 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUtDvJFa147B.md) - [plain]
 | 18 | [Begin Again Open MIC EPISODE\. 7 \- Imagine](https://open.spotify.com/track/4etaOW2c8URSm8jtF1DTRq) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Begin Again Open MIC EPISODE\. 7 \- Imagine](https://open.spotify.com/album/6XHxUpYGNVGrzWcJ6S8ZYz) | 3:47 |
 | 19 | [The fool](https://open.spotify.com/track/2Ts06DurvnTFrKBDAIImV9) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg), [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Begin Again Open MIC EPISODE\. 6](https://open.spotify.com/album/0y97t93pK2HWU1KokbhRIV) | 3:49 |
 | 20 | [Pray](https://open.spotify.com/track/2fUIDxtWZYmmvrh7nLdm3z) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [Begin Again Open MIC EPISODE\. 6](https://open.spotify.com/album/0y97t93pK2HWU1KokbhRIV) | 4:08 |
-| 21 | [Wake me up](https://open.spotify.com/track/27eW5OD7uyDp5T08uS8xOJ) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Begin Again Open MIC EPISODE\. 5](https://open.spotify.com/album/0tm09v2xgVsAG540MrqKUP) | 0:29 |
-| 22 | [Perfect](https://open.spotify.com/track/06rxRATDhJvUAvnGU3rKed) | [Lee Young Hyun](https://open.spotify.com/artist/4GzuNU3GlvlfNB4xweeTVR) | [Begin Again Open MIC EPISODE\. 5](https://open.spotify.com/album/0tm09v2xgVsAG540MrqKUP) | 0:29 |
+| 21 | [Wake me up](https://open.spotify.com/track/27eW5OD7uyDp5T08uS8xOJ) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Begin Again Open MIC EPISODE\. 5](https://open.spotify.com/album/0tm09v2xgVsAG540MrqKUP) | 3:11 |
+| 22 | [Perfect](https://open.spotify.com/track/06rxRATDhJvUAvnGU3rKed) | [Lee Young Hyun](https://open.spotify.com/artist/4GzuNU3GlvlfNB4xweeTVR) | [Begin Again Open MIC EPISODE\. 5](https://open.spotify.com/album/0tm09v2xgVsAG540MrqKUP) | 4:53 |
 | 23 | [Wish you were gay](https://open.spotify.com/track/0QWEAGhY5PPU1wsNHHGn8F) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Begin Again Open MIC EPISODE\. 4](https://open.spotify.com/album/461O54oxgMHLUpQ6XYKoSr) | 3:36 |
 | 24 | [Perfect](https://open.spotify.com/track/28pJrrJBeuw4WQuH6bAYkx) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Begin Again Open MIC EPISODE\. 4](https://open.spotify.com/album/461O54oxgMHLUpQ6XYKoSr) | 3:00 |
 | 25 | [EX](https://open.spotify.com/track/4Kgc9maKkOR3HkkBZclXc5) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Begin Again Open MIC EPISODE\. 3](https://open.spotify.com/album/7xESnlipobEOnBK6tHpfnS) | 2:46 |

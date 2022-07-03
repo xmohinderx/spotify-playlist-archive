@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lwxXvReaux.md) - [plain]
 
 > Classic rock combined a guitar\-driven sound with a particular era\. This playlist delivers classic rock tracks for the entire workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,754 likes - 97 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,761 likes - 97 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lwxXvReaux.md) - [plain]
 | 78 | [Du hast](https://open.spotify.com/track/3cwDSDzTiWr5H5xMQhQ6Mx) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/6f4dhaPfZqf2JXewAvE4gq) | 3:54 |
 | 79 | [Cats In The Cradle](https://open.spotify.com/track/1i8TVeZA6ZiSyrdLKQ4DEd) | [Ugly Kid Joe](https://open.spotify.com/artist/3XsgWn63EnA4wYZBjVyxjf) | [Rock](https://open.spotify.com/album/4saAsJgmmKqFWTzaTdiYzC) | 4:01 |
 | 80 | [Rebel Yell \- 1999 \- Remaster](https://open.spotify.com/track/0swJk3Hoi5woYCdfnL5lWj) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell](https://open.spotify.com/album/2GWgADRfO423cyzHa1rKc5) | 4:47 |
-| 81 | [Hysteria 2013 \(Re\-Recorded Version\) \- Single](https://open.spotify.com/track/4xrlTtOEd3OHvQT8eu5JYY) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria 2013 \(Re\-Recorded Version\) \- Single](https://open.spotify.com/album/0MUiB479l1Bmb074bSGevp) | 0:29 |
+| 81 | [Hysteria 2013 \(Re\-Recorded Version\) \- Single](https://open.spotify.com/track/4xrlTtOEd3OHvQT8eu5JYY) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria 2013 \(Re\-Recorded Version\) \- Single](https://open.spotify.com/album/0MUiB479l1Bmb074bSGevp) | 5:52 |
 | 82 | [Barracuda](https://open.spotify.com/track/4f2QcB0RYGz70dXGjvpR0w) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [The Essential Heart](https://open.spotify.com/album/1La86JTftH0TB87NPxrzFX) | 4:22 |
 | 83 | [Can't You See](https://open.spotify.com/track/0N0q5D8KmH13mmODXJsJqS) | [The Marshall Tucker Band](https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd) | [The Marshall Tucker Band](https://open.spotify.com/album/6YP72TaEOl8sG1TGFicJrA) | 6:01 |
 | 84 | [How You Remind Me](https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Silver Side Up](https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u) | 3:43 |

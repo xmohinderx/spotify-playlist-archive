@@ -4,7 +4,7 @@
 
 > 
 
-50 songs - 3 hr 7 min - [published](https://open.spotify.com/playlist/6DK5Hbj8SscBYOPCBodpFf)
+50 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/6DK5Hbj8SscBYOPCBodpFf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Jack And Diane](https://open.spotify.com/track/7bNBUALnqxUMmS8CPtqoSr) | [The Hit Crew](https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0) | [30 Greatest Hits Of The 80's](https://open.spotify.com/album/21I2ovcnifNbMTI9IpjxWT) | 4:13 | 2013-06-27 |  |
 | [Keep the Fire Burnin'](https://open.spotify.com/track/07wMk0CZVZRMqhF66r40Z8) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Good Trouble](https://open.spotify.com/album/2jfKXB9MYWMcVnxa1dBXnR) | 3:54 | 2013-06-27 |  |
 | [Key Largo](https://open.spotify.com/track/3aGdlqp8i9lJAWG5nqfhUP) | [Bertie Higgins](https://open.spotify.com/artist/4qzZ6bMrjK27yHGVjs4Pvq) | [The Ultimate Collection](https://open.spotify.com/album/5JzBfIb5htZid0u8x6rhsY) | 3:18 | 2013-06-27 |  |
-| [Leader Of The Band](https://open.spotify.com/track/6mxla84PBUMF4rrebq5kP4) | [Dan Fogelberg](https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO) | [Portrait: The Music Of Dan Fogelberg From 1972\-1997](https://open.spotify.com/album/3xzrUc5WHC8dv9UmiUWxH1) | 0:29 | 2013-06-27 |  |
+| [Leader Of The Band](https://open.spotify.com/track/6mxla84PBUMF4rrebq5kP4) | [Dan Fogelberg](https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO) | [Portrait: The Music Of Dan Fogelberg From 1972\-1997](https://open.spotify.com/album/3xzrUc5WHC8dv9UmiUWxH1) | 4:53 | 2013-06-27 |  |
 | [Leather and Lace \(with Don Henley\)](https://open.spotify.com/track/2npStoMbQxG1LcIeF4PZrj) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Timespace \- The Best Of Stevie Nicks](https://open.spotify.com/album/2zLZzOfiwQ4hnPCu2gVtKB) | 3:49 | 2013-06-27 |  |
 | [Let It Whip](https://open.spotify.com/track/3bzwN2zFR5eF9tdNKSnbd4) | [Dazz Band](https://open.spotify.com/artist/4n7L1vYXp4Dt0HfxaLBj9l) | [80s Mania](https://open.spotify.com/album/5hgzC9IxDx8wcos3LTGrCh) | 4:42 | 2013-06-27 |  |
 | [Let's Groove](https://open.spotify.com/track/4ZXxmmsp1Nd7ejbHs2BNBG) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire\-Vol\. II](https://open.spotify.com/album/6rxdEnk6m2P66BxcXsQbNs) | 5:34 | 2013-06-27 |  |
@@ -57,6 +57,6 @@
 | [We Got The Beat](https://open.spotify.com/track/3BI2g3xaStu8g05HwlnvaZ) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Countdown To The New Year](https://open.spotify.com/album/5FXKTAsu4P2YjPKyuHr9Sl) | 2:30 | 2013-06-27 |  |
 | [Who Can It Be Now?](https://open.spotify.com/track/29r3fDexnrto7WABfpblNH) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [The Essential Men At Work](https://open.spotify.com/album/30aG9Rjezn1vxaYXrB8j3d) | 3:23 | 2013-06-27 |  |
 | [You Should Hear How She Talks About You](https://open.spotify.com/track/4FDRce5rrUuAbsC5VKwSkz) | [Melissa Manchester](https://open.spotify.com/artist/78udmCDNaDu5jqfVnBqwia) | [The Essence Of Melissa Manchester](https://open.spotify.com/album/3ZQNGNWrZdPl3xyXlvBVa1) | 4:15 | 2013-06-27 |  |
-| [Young Turks \- 2008 Remaster](https://open.spotify.com/track/5n1amEDwVKucAGMqePk9yN) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Definitive Rod Stewart](https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj) | 0:29 | 2013-06-27 |  |
+| [Young Turks \- 2008 Remaster](https://open.spotify.com/track/5n1amEDwVKucAGMqePk9yN) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Definitive Rod Stewart](https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj) | 5:02 | 2013-06-27 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

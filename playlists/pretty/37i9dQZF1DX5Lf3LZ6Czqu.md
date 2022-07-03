@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 
 > Instrumental guitar shreddery\. Cover: Paul Gilbert
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,713 likes - 73 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,753 likes - 73 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 | 26 | [Journey Through](https://open.spotify.com/track/6RQwWe0auWqd1RwFD4Pt64) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM) | [I Found The Sun Again](https://open.spotify.com/album/3yNjUAz8wM1CxGCiEQcVzz) | 5:54 |
 | 27 | [Havin' It](https://open.spotify.com/track/1L4zRZzhBECP4IvNJNMz68) | [Paul Gilbert](https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG) | [Behold Electric Guitar](https://open.spotify.com/album/0hAq2Cqzq3LhHlYvaxEFAg) | 6:59 |
 | 28 | [Tempest Pulse](https://open.spotify.com/track/73i8HclsPcSmyXwwLmVTFp) | [Greg Howe](https://open.spotify.com/artist/2dunvwAyryLzQqXUNlLoCV) | [Wheelhouse](https://open.spotify.com/album/1JkBVjeznFK9Bb3xasp6un) | 5:20 |
-| 29 | [Primary Location](https://open.spotify.com/track/4vDvf90QYWjK4dhYCaMdZY) | [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn) | [People Mover](https://open.spotify.com/album/6xmjUFsLhGrgFjZZA9gDRR) | 0:29 |
+| 29 | [Primary Location](https://open.spotify.com/track/4vDvf90QYWjK4dhYCaMdZY) | [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn) | [People Mover](https://open.spotify.com/album/6xmjUFsLhGrgFjZZA9gDRR) | 6:56 |
 | 30 | [shibuya \(feat\. San Holo\)](https://open.spotify.com/track/7BsPyswBtiM1PbPnUnuNzE) | [Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV), [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [effloresce](https://open.spotify.com/album/1vvBlvKIqeQDPJbDkt0Xny) | 5:45 |
 | 31 | [Star Catchers \(feat\. Steve Lukather, Jason “JT” Thomas, Wes Stephenson, Philip Lassiter & The Philthy Hornz\)](https://open.spotify.com/track/0jLeYaIIEyCkZSW3gxgAeL) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM), [Jason "JT" Thomas](https://open.spotify.com/artist/5sN8E3sVIXfIgkW8rvOutw), [Wes Stephenson](https://open.spotify.com/artist/0su3WUFcvO40NtFuDiaT88), [Philip Lassiter](https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L), [Philthy Hornz](https://open.spotify.com/artist/0d2ebWZLrHX5Wzaekd1lZM) | [Star Catchers \(feat\. Steve Lukather, Jason "JT" Thomas, Wes Stephenson, Philip Lassiter & The Philthy Hornz\)](https://open.spotify.com/album/4Ji2GH0mZW6q7kGFjMAqiK) | 5:37 |
 | 32 | [Gimme 5](https://open.spotify.com/track/2w9QlilA4qcAt10ntA9RaJ) | [Gabriel Santiago](https://open.spotify.com/artist/2GTIa7Clthfpu7hivToeD4) | [Gimme 5](https://open.spotify.com/album/3bXkU11mAtRR4h1w5NI4rU) | 3:55 |

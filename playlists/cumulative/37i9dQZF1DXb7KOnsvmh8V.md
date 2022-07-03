@@ -4,7 +4,7 @@
 
 > 'Tis the season to settle in with a warm cup of coffee and these stripped down holiday tunes.
 
-59 songs - 2 hr 57 min - [published](https://open.spotify.com/playlist/12w8cCmx1q2Iov56A3YAS8)
+59 songs - 2 hr 59 min - [published](https://open.spotify.com/playlist/12w8cCmx1q2Iov56A3YAS8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,6 @@
 | [White Christmas](https://open.spotify.com/track/162vGpooHZzhRYDgmVL17b) | [Aurelia Goldspark](https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW) | [White Christmas](https://open.spotify.com/album/0590p13JeOaXsRCl38lKPO) | 2:40 | 2021-12-17 |  |
 | [Winter Wonderland](https://open.spotify.com/track/2SslxBSZSqeyVRq9Mhd6uU) | [McKenna Williams](https://open.spotify.com/artist/03uZO3ld49qo2B5Y39Io05) | [Winter Wonderland](https://open.spotify.com/album/2pQFkne3QWb67GFH4Dr6cX) | 1:51 | 2021-12-17 |  |
 | [Wonderful Christmastime](https://open.spotify.com/track/7G1cFCMNKHixbmq9I8nRvh) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [Wonderful Christmastime](https://open.spotify.com/album/7Aw5Eeq7mSfQGqQj2bZT7V) | 4:14 | 2021-12-17 |  |
-| [You're All I Want For Christmas](https://open.spotify.com/track/6k5yUgb2kSjiJtFWcAIswU) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [You're All I Want For Christmas](https://open.spotify.com/album/0hz1EdPK295xrolats4Mae) | 0:29 | 2021-12-17 |  |
+| [You're All I Want For Christmas](https://open.spotify.com/track/6k5yUgb2kSjiJtFWcAIswU) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [You're All I Want For Christmas](https://open.spotify.com/album/0hz1EdPK295xrolats4Mae) | 2:24 | 2021-12-17 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

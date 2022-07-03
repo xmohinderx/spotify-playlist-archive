@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4w7ghxoWOTa.md) - [plain]
 
 > アニソン界を代表する作詞家として、様々な作品のファンを魅了してきた畑 亜貴。多彩な作風でシンガーソングライター、作曲家、プロデュースチーム「Q\-MHz」メンバーとしても活躍中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,104 likes - 48 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,116 likes - 48 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4w7ghxoWOTa.md) - [plain]
 | 20 | [童話迷宮](https://open.spotify.com/track/1lEDbcMIAPnT2HYjxpDy3t) | [Yukari Tamura](https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ) | [童話迷宮](https://open.spotify.com/album/3N5adcjY3Er5xUnU7eYpQn) | 3:55 |
 | 21 | [少女迷路でつかまえて](https://open.spotify.com/track/160vKqpghe9g2y3HV0ryfg) | [美郷あき](https://open.spotify.com/artist/4qEleN0MdPvcOOyiOqRBjy) | [少女迷路でつかまえて](https://open.spotify.com/album/786JSY42TK9kf5OH7IvbPr) | 4:08 |
 | 22 | [ブラウン通りで待ってます](https://open.spotify.com/track/1EFbe8ZhODX4dzYiA1pBqj) | [Aki Hata](https://open.spotify.com/artist/4OeurE1dYEfIjd2STbvMoC) | [鏡の名前 \- 懐古庭園 Vol.05 \-](https://open.spotify.com/album/3Yplas98vWwBgIGFpUXFLG) | 3:32 |
-| 23 | [蜿蜒 on and on and](https://open.spotify.com/track/2nKOj62YYsOMtVHmz1Somg) | [Aki Hata](https://open.spotify.com/artist/4OeurE1dYEfIjd2STbvMoC) | [蜿蜒 on and on and](https://open.spotify.com/album/72nNEQncy3ZQgoyltEsBha) | 0:29 |
+| 23 | [蜿蜒 on and on and](https://open.spotify.com/track/2nKOj62YYsOMtVHmz1Somg) | [Aki Hata](https://open.spotify.com/artist/4OeurE1dYEfIjd2STbvMoC) | [蜿蜒 on and on and](https://open.spotify.com/album/72nNEQncy3ZQgoyltEsBha) | 5:00 |
 | 24 | [未来の僕らは知ってるよ](https://open.spotify.com/track/4Kr4DGSLD2SRmjxNjfm3uS) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [未来の僕らは知ってるよ](https://open.spotify.com/album/1MlqcaVEU0wY1jDr1lka7U) | 4:10 |
 | 25 | [Love marginal](https://open.spotify.com/track/69oopEcHr93WjL84ZGg0oS) | [Printemps](https://open.spotify.com/artist/5UDdlpW0SOJwKm8ZkSbO30) | [μ's Complete BEST BOX \(Chapter.07\)](https://open.spotify.com/album/7nNBandGoFJqSVTHCVlt8F) | 4:32 |
 | 26 | [Silent tonight](https://open.spotify.com/track/5klLVOYKURBm2cVEDUkCIH) | [BiBi](https://open.spotify.com/artist/2Y3ofvZHDfYYsmOHdpPy2D) | [μ's Complete BEST BOX \(Chapter.08\)](https://open.spotify.com/album/0QSPYBVhpK1CgN0kFKPqEb) | 5:17 |

@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Sam Johnston \| Visual Artist: Bailey Elder
 
-122 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/4p9gFX9hA25IbWFzEcHGmF)
+122 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/4p9gFX9hA25IbWFzEcHGmF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Ghost of Appalachia](https://open.spotify.com/track/6tz8ScfVSdf53Kj2swQlOL) | [Thomas LaVine](https://open.spotify.com/artist/2T7YLT9nMnXlnW0UjJBN70) | [Everwood](https://open.spotify.com/album/43KT3t8EpDaXco2cffZf7D) | 3:54 | 2022-05-25 | 2022-06-16 |
 | [Girl, Where You From?](https://open.spotify.com/track/5u8qS9iAzZnN2IX8a0FJla) | [Hannah Juanita](https://open.spotify.com/artist/4BhOvUyS23JWzGZC7j3GbE) | [Girl, Where You From?](https://open.spotify.com/album/6rxzQpqai89nss1eaRGkPY) | 3:05 | 2022-05-25 |  |
 | [Golden Days](https://open.spotify.com/track/4x5eSlJFBtydPHRe9v8d95) | [Cristóvam](https://open.spotify.com/artist/7p23ERQPaBJU2W0gguMNTi) | [Golden Days](https://open.spotify.com/album/3i4USi3EoleRAhV845SrUD) | 3:30 | 2022-05-25 | 2022-06-30 |
-| [Golden Spoon](https://open.spotify.com/track/5TtUQ2fh1JzntGcB3mA54l) | [Bats](https://open.spotify.com/artist/4iuECUfKK1Iulmgxt5MObO) | [Blue Cabinet](https://open.spotify.com/album/4qW90vfNhN8R9H1OUhFLfD) | 0:29 | 2022-05-25 |  |
+| [Golden Spoon](https://open.spotify.com/track/5TtUQ2fh1JzntGcB3mA54l) | [Bats](https://open.spotify.com/artist/4iuECUfKK1Iulmgxt5MObO) | [Blue Cabinet](https://open.spotify.com/album/4qW90vfNhN8R9H1OUhFLfD) | 4:04 | 2022-05-25 |  |
 | [Good News](https://open.spotify.com/track/5Y7ugIjqNhXOrNdn1vwaqi) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Communion](https://open.spotify.com/album/2hOmwGT0EmeHFHJrGS2ACL) | 2:46 | 2022-05-25 | 2022-06-16 |
 | [Grace](https://open.spotify.com/track/7b4xy7sXBPAK9HjjvBDmuM) | [quiet thrill](https://open.spotify.com/artist/12RDiJVAG0NYcJPRVi6bRG), [Joel Ansett](https://open.spotify.com/artist/49IjdVEbQcukWy36sdRMzl), [Dan DeCristofaro](https://open.spotify.com/artist/7gJTGHDvybr4Gsf8xwwY11) | [Grace](https://open.spotify.com/album/7iiIyG1WxODTBVH6h9Utzp) | 2:53 | 2022-05-25 | 2022-06-16 |
 | [Hand Me Down Heart](https://open.spotify.com/track/1a8UNyXbcnw9AyRZOdRDVJ) | [Szlachetka](https://open.spotify.com/artist/5W1NyzTRgZn8sG1Wza45cL) | [Hand Me Down Heart](https://open.spotify.com/album/26Z4IiZEvJtd1n4gagQ8qu) | 3:07 | 2022-05-25 | 2022-06-16 |
@@ -76,7 +76,7 @@
 | [Lead Me Home](https://open.spotify.com/track/6nqGaeoYs2PL1O47B2K1xE) | [Wilfred](https://open.spotify.com/artist/7dZa7l5PsnUBItVQFPp6ym) | [Lead Me Home](https://open.spotify.com/album/0UqsZj10Gp3p8Z5DQmzKLY) | 2:58 | 2022-06-29 |  |
 | [lily of the valley](https://open.spotify.com/track/5z0zobpDgfoUG3zfOM9AB2) | [Torri Weidinger](https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM) | [Virginia](https://open.spotify.com/album/4oXf7xYBCRgxDsA8QyxU4b) | 3:23 | 2022-06-29 |  |
 | [Loretta](https://open.spotify.com/track/3yOxX5lkU785X327fhMWdk) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Texas Blue](https://open.spotify.com/album/1PJmolhLIF5L2krvACKHO6) | 2:56 | 2022-05-25 |  |
-| [Lou](https://open.spotify.com/track/4f02joYEp59ag51L07R7Vk) | [Jackfruit](https://open.spotify.com/artist/5cXZoNGbKqmrPMa2hlpuDU) | [Lou](https://open.spotify.com/album/2t1IvOLI5e3F09nBpuijMX) | 4:10 | 2022-06-29 |  |
+| [Lou](https://open.spotify.com/track/4f02joYEp59ag51L07R7Vk) | [Juno Lev](https://open.spotify.com/artist/6jQDETDXZtBIhuZdGhyPop) | [Lou](https://open.spotify.com/album/2t1IvOLI5e3F09nBpuijMX) | 4:10 | 2022-06-29 |  |
 | [Loved To Be Loved By You](https://open.spotify.com/track/7JoHYBVrBg6A0Rerbnxwlp) | [Atli](https://open.spotify.com/artist/3K075m0ezXFrAdGtZUawkB) | [Loved To Be Loved By You](https://open.spotify.com/album/3QKRUJjjnaY28Ap7idOEll) | 2:59 | 2022-05-25 | 2022-06-30 |
 | [Lummox](https://open.spotify.com/track/2HjQkNO92WAScZGEWFEVXs) | [Lab Tea](https://open.spotify.com/artist/3M1H01NZMo8LfIlQsqRuvK) | [Lummox](https://open.spotify.com/album/3SNMWvqIMNx42oxmjpD9Fe) | 3:25 | 2022-05-25 |  |
 | [Made This Way](https://open.spotify.com/track/0XxAjxJB5sUSPC5BOrfCTD) | [HINA](https://open.spotify.com/artist/0H6QTScaANYnCqvmCNbXyx), [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [Made This Way](https://open.spotify.com/album/0oWrQFvYcxJQL6lKdyyh27) | 2:34 | 2022-05-25 | 2022-06-16 |
@@ -96,7 +96,7 @@
 | [Paper \- Radio Edit](https://open.spotify.com/track/5czpVZPVy2xQaDwNM8INEt) | [Rona Mac](https://open.spotify.com/artist/0FMzSeL7vGgUfFqkBk9FaF) | [Paper \(Radio Edit\)](https://open.spotify.com/album/2fdef6vdtwVALzYrVf3U5C) | 3:53 | 2022-06-15 |  |
 | [Peaches \- Edit](https://open.spotify.com/track/1sqDk9nnLwBYdqoqLFvIyU) | [Alison Sudol](https://open.spotify.com/artist/5JpFdmGP5YVR80hwTyjhW0) | [Peaches](https://open.spotify.com/album/1IiRTkn40I7elX0Xt2qGGY) | 4:01 | 2022-05-25 | 2022-06-16 |
 | [Praying for July \- Spotify Singles](https://open.spotify.com/track/7wXPl3wCGlHDXXaDyr9rPq) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Praying for July \- Spotify Singles](https://open.spotify.com/album/7mqvcMAHZK0LrrrRqY7S4C) | 3:06 | 2022-05-25 |  |
-| [quite alright](https://open.spotify.com/track/3ac7wRpO4zkSxzDDa5kado) | [doppelfinger](https://open.spotify.com/artist/26vQnKIdh6ysJWbcQ6o3P1) | [by design](https://open.spotify.com/album/1IluF9fFD0yPzey3C306zL) | 0:29 | 2022-05-25 |  |
+| [quite alright](https://open.spotify.com/track/3ac7wRpO4zkSxzDDa5kado) | [doppelfinger](https://open.spotify.com/artist/26vQnKIdh6ysJWbcQ6o3P1) | [by design](https://open.spotify.com/album/1IluF9fFD0yPzey3C306zL) | 5:15 | 2022-05-25 |  |
 | [radiator](https://open.spotify.com/track/3etIVTF6tbIsRhSDJuj9KA) | [Sadurn](https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI) | [Radiator](https://open.spotify.com/album/5HskvGWXnVcfBg1K2Ff0nA) | 3:54 | 2022-05-25 |  |
 | [Realize It All](https://open.spotify.com/track/1RUbvCZkpXrtSoGUE1WCHz) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [Realize It All](https://open.spotify.com/album/5YgPb0viiTMCmmdT2lJnzo) | 3:35 | 2022-05-25 |  |
 | [Rebound](https://open.spotify.com/track/7ij9YUpNZYy1DpfRj8IiIV) | [Tom Freund](https://open.spotify.com/artist/3YwhoOWrHJZrk5XzE3WXkT) | [Rebound](https://open.spotify.com/album/4FZ9HKVDjQhSSUqfpOMwzP) | 4:50 | 2022-05-25 |  |

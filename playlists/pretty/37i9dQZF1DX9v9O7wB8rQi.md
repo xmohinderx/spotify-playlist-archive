@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9v9O7wB8rQi.md) - [plain]
 
 > Music from "GHOST IN THE SHELL SAC\_2045" and "ARISE" series has arrived!/「攻殻機動隊」シリーズを彩る音楽をひとつのプレイリストに。©S,IG/K/2045
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,334 likes - 47 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,356 likes - 47 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9v9O7wB8rQi.md) - [plain]
 | 18 | [player](https://open.spotify.com/track/6V7zJOoCyx2LUECNqYFrhQ) | [Origa](https://open.spotify.com/artist/08pXfHf1e4hLeDz1BgmOqL), [Heartsdales](https://open.spotify.com/artist/6GM1DqK9x30pjn3tPAZpgT) | [攻殻機動隊 S.A.C\. Solid State Society O.S.T.](https://open.spotify.com/album/4FLVYdG4mlaydxbg9ItTyH) | 5:42 |
 | 19 | [サイバーバード](https://open.spotify.com/track/582gpRUX6LEVXbuCdgIDaq) | [Gabriela Robin](https://open.spotify.com/artist/1KvNXSn0FKGELFRpfm3ONi) | [攻殻機動隊 STAND ALONE COMPLEX O.S.T.2](https://open.spotify.com/album/6vnGlRzjCpJdnojTZZojMc) | 5:58 |
 | 20 | [i do](https://open.spotify.com/track/0a1lNJpEUI3bOTI5VEdgaP) | [Ilaria Graziano](https://open.spotify.com/artist/57WViMLL9KfooFkVKsyODr) | [攻殻機動隊 STAND ALONE COMPLEX O.S.T.2](https://open.spotify.com/album/6vnGlRzjCpJdnojTZZojMc) | 4:49 |
-| 21 | [cream](https://open.spotify.com/track/5pYLwimdCjpr1z4eQWdyo0) | [hide](https://open.spotify.com/artist/0FN9uqveLW33mz8hlDLiFU) | [「攻殻機動隊 STAND ALONE COMPLEX be Human」](https://open.spotify.com/album/4yXX0zQxFl88hAV7FauBZ7) | 0:29 |
+| 21 | [cream](https://open.spotify.com/track/5pYLwimdCjpr1z4eQWdyo0) | [hide](https://open.spotify.com/artist/0FN9uqveLW33mz8hlDLiFU) | [「攻殻機動隊 STAND ALONE COMPLEX be Human」](https://open.spotify.com/album/4yXX0zQxFl88hAV7FauBZ7) | 3:52 |
 | 22 | [GET9](https://open.spotify.com/track/0om5LgpI1i4MRDPxp3lXuR) | [jillmax](https://open.spotify.com/artist/60Cwd8tKAvVRd0pExXagM8) | [攻殻機動隊 STAND ALONE COMPLEX O.S.T.2](https://open.spotify.com/album/6vnGlRzjCpJdnojTZZojMc) | 4:42 |
 | 23 | [サイケデリックソウル](https://open.spotify.com/track/5MJI5xIPYut0jXVeqjxA5W) | [Scott Matthew](https://open.spotify.com/artist/18Xy9oGF9CxiU9luAp3Dzu) | [攻殻機動隊 STAND ALONE COMPLEX O.S.T.2](https://open.spotify.com/album/6vnGlRzjCpJdnojTZZojMc) | 4:45 |
 | 24 | [run rabbit junk](https://open.spotify.com/track/4H7FikhoNx5bmlWstG1mgi) | [HIDE](https://open.spotify.com/artist/3GnkZiREUfWIDjN9wSYMJg) | [攻殻機動隊 STAND ALONE COMPLEX O.S.T.+](https://open.spotify.com/album/2xwzJG5kuUOIuyEf6u3OXQ) | 4:32 |
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9v9O7wB8rQi.md) - [plain]
 | 36 | [Christmas in the Silent Forest](https://open.spotify.com/track/478Axf2lmFeyjw3ciJRbaE) | [Ilaria Graziano](https://open.spotify.com/artist/57WViMLL9KfooFkVKsyODr) | [攻殻機動隊 STAND ALONE COMPLEX O.S.T.3](https://open.spotify.com/album/6LV6Mk6uHLvj4lKfYPjtsI) | 6:53 |
 | 37 | [what's it for](https://open.spotify.com/track/0VUAzLbZ5v3bQYIidNJMln) | [emily curtis](https://open.spotify.com/artist/7sQOG6I2Zu6fE1srDLzswo) | [攻殻機動隊 STAND ALONE COMPLEX O.S.T.2](https://open.spotify.com/album/6vnGlRzjCpJdnojTZZojMc) | 3:14 |
 | 38 | [モノクローム](https://open.spotify.com/track/3ZMCZJRsyJDOSR0zS7AWpO) | [Ilaria Graziano](https://open.spotify.com/artist/57WViMLL9KfooFkVKsyODr) | [攻殻機動隊 STAND ALONE COMPLEX O.S.T.+](https://open.spotify.com/album/2xwzJG5kuUOIuyEf6u3OXQ) | 5:05 |
-| 39 | [be human](https://open.spotify.com/track/1lwtSexMnKboIrzybcBbCJ) | [Scott Matthew](https://open.spotify.com/artist/18Xy9oGF9CxiU9luAp3Dzu) | [「攻殻機動隊 STAND ALONE COMPLEX be Human」](https://open.spotify.com/album/4yXX0zQxFl88hAV7FauBZ7) | 0:29 |
-| 40 | [タチコマの家出](https://open.spotify.com/track/2XHI7ujRV3pMoF1NpzHRIe) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [「攻殻機動隊 STAND ALONE COMPLEX be Human」](https://open.spotify.com/album/4yXX0zQxFl88hAV7FauBZ7) | 0:29 |
+| 39 | [be human](https://open.spotify.com/track/1lwtSexMnKboIrzybcBbCJ) | [Scott Matthew](https://open.spotify.com/artist/18Xy9oGF9CxiU9luAp3Dzu) | [「攻殻機動隊 STAND ALONE COMPLEX be Human」](https://open.spotify.com/album/4yXX0zQxFl88hAV7FauBZ7) | 4:02 |
+| 40 | [タチコマの家出](https://open.spotify.com/track/2XHI7ujRV3pMoF1NpzHRIe) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [「攻殻機動隊 STAND ALONE COMPLEX be Human」](https://open.spotify.com/album/4yXX0zQxFl88hAV7FauBZ7) | 1:52 |
 | 41 | [beauty is within us](https://open.spotify.com/track/20G3Nje2MGXnSPt0J6kHW0) | [Scott Matthew](https://open.spotify.com/artist/18Xy9oGF9CxiU9luAp3Dzu) | [攻殻機動隊 STAND ALONE COMPLEX O.S.T.+](https://open.spotify.com/album/2xwzJG5kuUOIuyEf6u3OXQ) | 6:05 |
 | 42 | [zero signal](https://open.spotify.com/track/5r7jS4T6UbitrifSWJMzZf) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [攻殻機動隊 S.A.C\. Solid State Society O.S.T.](https://open.spotify.com/album/4FLVYdG4mlaydxbg9ItTyH) | 4:03 |
 | 43 | [take a little hand](https://open.spotify.com/track/5v5UbZlR652Gz0NUpNulKs) | [Gabriela Robin](https://open.spotify.com/artist/1KvNXSn0FKGELFRpfm3ONi) | [攻殻機動隊 S.A.C\. Solid State Society O.S.T.](https://open.spotify.com/album/4FLVYdG4mlaydxbg9ItTyH) | 5:04 |
-| 44 | [what can I say?](https://open.spotify.com/track/1lSQwM1nA9Z7hWPIxN9bLt) | [Sunny](https://open.spotify.com/artist/5t6BdVyILRkDCf14E6Ob1p) | [「攻殻機動隊 STAND ALONE COMPLEX be Human」](https://open.spotify.com/album/4yXX0zQxFl88hAV7FauBZ7) | 0:29 |
+| 44 | [what can I say?](https://open.spotify.com/track/1lSQwM1nA9Z7hWPIxN9bLt) | [Sunny](https://open.spotify.com/artist/5t6BdVyILRkDCf14E6Ob1p) | [「攻殻機動隊 STAND ALONE COMPLEX be Human」](https://open.spotify.com/album/4yXX0zQxFl88hAV7FauBZ7) | 1:02 |
 | 45 | [the end of all you'll know](https://open.spotify.com/track/6C0wK49dMqpULLzUq5iSyq) | [Scott Matthew](https://open.spotify.com/artist/18Xy9oGF9CxiU9luAp3Dzu) | [攻殻機動隊 STAND ALONE COMPLEX O.S.T.3](https://open.spotify.com/album/6LV6Mk6uHLvj4lKfYPjtsI) | 2:19 |
 | 46 | [flashback memory plug](https://open.spotify.com/track/7qgQ7mACjleBHbsPchKBcU) | [Origa](https://open.spotify.com/artist/08pXfHf1e4hLeDz1BgmOqL), [benedict Delmaestro](https://open.spotify.com/artist/5wLsCJYZy1re3sai21VJZj) | [攻殻機動隊 STAND ALONE COMPLEX O.S.T.3](https://open.spotify.com/album/6LV6Mk6uHLvj4lKfYPjtsI) | 1:06 |
 | 47 | [A Floating Ghost](https://open.spotify.com/track/6YxbVTZ3d2O5vWYbIdPGuE) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [攻殻機動隊 新劇場版 O.S.T\. by Cornelius](https://open.spotify.com/album/759xhNhcphGIW8Mna5hjri) | 1:05 |

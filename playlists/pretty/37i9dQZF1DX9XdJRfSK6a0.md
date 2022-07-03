@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XdJRfSK6a0.md) - [plain]
 
 > This Sunday, let's tune out the words.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,455 likes - 45 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,452 likes - 45 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sliding Down](https://open.spotify.com/track/2KKAsmZmWc6eCuAutwGewl) | [Edgar Meyer](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD), [Mike Marshall](https://open.spotify.com/artist/2WJmZq6fEmecdQVd3s38jE), [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU) | [The Best of Edgar Meyer](https://open.spotify.com/album/0ZNuAoOW0siajqjFxLtHjc) | 4:41 |
 | 2 | [](https://open.spotify.com/track/2mALzHMGNFFjCIip1M0SyY) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1K2SNUso7fWzSAzqRoAwQD) | 0:00 |
 | 3 | [Salt hill pt.1](https://open.spotify.com/track/27XkBk6X6o5MSST31awiNA) | [Rickard Jäverling](https://open.spotify.com/artist/7pO8kbDzeJOoZeUo6tYLvt) | [The Valleys](https://open.spotify.com/album/1QvatR5Ff7CDkeyQAgHrwW) | 2:40 |
-| 4 | [Porch Sitting Song](https://open.spotify.com/track/0AWl5zGTaiwcnF0MDOuhOP) | [Solander](https://open.spotify.com/artist/123zs4FVoUcDFM90b4Lxmr) | [Passing Mt\. Satu](https://open.spotify.com/album/0aBwa91hIt6JVPoUqKWaeC) | 0:29 |
+| 4 | [Porch Sitting Song](https://open.spotify.com/track/0AWl5zGTaiwcnF0MDOuhOP) | [Solander](https://open.spotify.com/artist/123zs4FVoUcDFM90b4Lxmr) | [Passing Mt\. Satu](https://open.spotify.com/album/0aBwa91hIt6JVPoUqKWaeC) | 2:11 |
 | 5 | [](https://open.spotify.com/track/3gyqvXs7R01FWc959ZLYP8) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2P0PQiflDD2PNoAhSRtd4I) | 0:00 |
 | 6 | [Twins](https://open.spotify.com/track/0SeCA3vPHuXGP6sizB05ZA) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [Days of Being Wild](https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0) | 0:50 |
 | 7 | [Pianoflikkan](https://open.spotify.com/track/0Ke1joPdykB1v1cRA23eW5) | [Nutid](https://open.spotify.com/artist/1KTiZJD9cYb1DjPLI7Vkji) | [Nutid](https://open.spotify.com/album/0Ci4Q0YiqZCQN1W1H525Vo) | 4:07 |

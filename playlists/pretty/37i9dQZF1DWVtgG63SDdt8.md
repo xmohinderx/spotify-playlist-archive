@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: Davy Flowers
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,736 likes - 99 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,820 likes - 99 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 48 | [Beckoning](https://open.spotify.com/track/7dPce8n3fD6qPD5mBxskE2) | [Maria Gilpin](https://open.spotify.com/artist/0ctVeNN8gJR4RtuVQDX4KM) | [Beckoning](https://open.spotify.com/album/3xw467vEdTwtR92CLU20mc) | 5:29 |
 | 49 | [My God](https://open.spotify.com/track/6sevLg1xqgXxIMpfQUXuqf) | [Toluwanimee](https://open.spotify.com/artist/5dfvaMnwLZAGCIp6YNsgiI) | [My God](https://open.spotify.com/album/1MmmpFH4RYMn0rsNylYHdL) | 5:12 |
 | 50 | [Superheroes Prayer \- Radio Single](https://open.spotify.com/track/2ViRZlKBX6nLLC6Wb41668) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt), [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Superheroes Prayer](https://open.spotify.com/album/6KUfbWnZif821UNTGx3ZXM) | 5:03 |
-| 51 | [There is a Name](https://open.spotify.com/track/2hlVNFfVgbld7jfx7M6vTQ) | [Patrick Dopson](https://open.spotify.com/artist/2Aw6herTftgxyGaUxkHTNX) | [There is a Name](https://open.spotify.com/album/0JBMzmUmuLCgSISVLbJuNB) | 3:59 |
+| 51 | [There Is a Name](https://open.spotify.com/track/2hlVNFfVgbld7jfx7M6vTQ) | [Patrick Dopson](https://open.spotify.com/artist/2Aw6herTftgxyGaUxkHTNX) | [There Is a Name](https://open.spotify.com/album/0JBMzmUmuLCgSISVLbJuNB) | 3:59 |
 | 52 | [Make It Alright](https://open.spotify.com/track/2si7J7B7t9nbW1HUgmrl8n) | [E J Fields](https://open.spotify.com/artist/1pVqWxuhHyDM1wskoWWkos) | [Make It Alright](https://open.spotify.com/album/2KUb5dkDIZGY3O0IuVInxS) | 4:17 |
 | 53 | [The Storm Is Passing Over](https://open.spotify.com/track/2nzRhlKQBA9EKTbG95NArm) | [Bishop S.Y\. Younger](https://open.spotify.com/artist/0EBIOTYsxmmKe5SdiPlpMV), [The Sounds of the Ramp](https://open.spotify.com/artist/0RO9dLdwfPHISijRQqTLpw), [Korey Mickie](https://open.spotify.com/artist/37oTAqaieCFq7xPYY3Wcwc) | [The Storm Is Passing Over](https://open.spotify.com/album/5NrBAuLiWnfFxrq1FLF5H7) | 4:09 |
 | 54 | [I Found a Friend](https://open.spotify.com/track/4ESAXGFQWpWqGdFz5u5BJA) | [Clarence Carter](https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB), [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH) | [I Found a Friend](https://open.spotify.com/album/5qJoFQaxcrzMQK4DY6CFAh) | 3:03 |

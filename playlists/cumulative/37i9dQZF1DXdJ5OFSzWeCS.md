@@ -4,7 +4,7 @@
 
 > Soft music for sleepy babies.
 
-393 songs - 11 hr 41 min - [published](https://open.spotify.com/playlist/1fzLEPXbNRV5WhwUmgxpLC)
+393 songs - 11 hr 42 min - [published](https://open.spotify.com/playlist/1fzLEPXbNRV5WhwUmgxpLC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Georgie Porgie](https://open.spotify.com/track/5Ta2XWU7fE69bU1w3ZDILn) | [Peter Ehrlichmann](https://open.spotify.com/artist/4i2t5SSw1MoiBLrD1Lrslx) | [Eeny Meeny Miny Moe](https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus) | 1:11 | 2022-02-10 |  |
 | [Get Your Cozy](https://open.spotify.com/track/7erHsPOy5lmIfLA6A9U4Il) | [David Finnegan](https://open.spotify.com/artist/5Q7zEQv9vodtCdUZl98Ox0) | [Tomorrow Again](https://open.spotify.com/album/2ARWUIkaaH6YYeOIixWudf) | 1:45 | 2022-02-10 |  |
 | [Go Ahead and Fly](https://open.spotify.com/track/1WeVSLYdVOd4vx9ymNk76x) | [Delroy Gage](https://open.spotify.com/artist/0LzU3tUbE53WdnCGdtGOgb) | [Go Ahead and Fly](https://open.spotify.com/album/6s1bBe38yTmjwPKUGGJh1i) | 1:14 | 2022-02-10 |  |
-| [Go the Distance](https://open.spotify.com/track/7jy79RzRyxWJNnMkeoAAtx) | [Rory Dixon](https://open.spotify.com/artist/0qIz0TY83W5CaBwVUApmUF) | [Go the Distance](https://open.spotify.com/album/6em5gS56SJf4hW8xU7ygs6) | 0:29 | 2022-02-10 |  |
+| [Go the Distance](https://open.spotify.com/track/7jy79RzRyxWJNnMkeoAAtx) | [Rory Dixon](https://open.spotify.com/artist/0qIz0TY83W5CaBwVUApmUF) | [Go the Distance](https://open.spotify.com/album/6em5gS56SJf4hW8xU7ygs6) | 1:21 | 2022-02-10 |  |
 | [Go To Sleep Now Little Baby](https://open.spotify.com/track/6XWFDgLhlP0RriU9tOoJHJ) | [Mia Gardner](https://open.spotify.com/artist/2tZe0OSKNCVGbBd5wJ1djr) | [Go To Sleep Now Little Baby](https://open.spotify.com/album/1LNqSgEiXbU1yR0Zr4eFLl) | 1:55 | 2022-02-10 |  |
 | [Godnat min skat](https://open.spotify.com/track/3nIAPDblNehwcKzMmckknw) | [Grete Rosenkjær](https://open.spotify.com/artist/0R9BrQPB75F1VgukWfwXHw) | [Godnat min skat](https://open.spotify.com/album/5Pbg0ie2phwJOea0hvLwdw) | 1:07 | 2022-02-10 |  |
 | [Golden Slumbers](https://open.spotify.com/track/4NUZLOU3BtZSN4N29zzpMG) | [Zane Price](https://open.spotify.com/artist/6WjNdO1VMQwNxCQeIE2UIx) | [Golden Slumbers](https://open.spotify.com/album/6P75pOnlpPZwrDetYeg3UF) | 1:10 | 2022-02-10 |  |
@@ -301,7 +301,7 @@
 | [Sleep Till Tomorrow](https://open.spotify.com/track/1k8pfBE5Sp2hneruHvNqbR) | [Goodwin Hart](https://open.spotify.com/artist/0ZhiIKLSPHpPBu3760ZI7E) | [Sleep Till Tomorrow](https://open.spotify.com/album/1yRIuJEDuAKApJN918peIP) | 1:33 | 2022-04-25 |  |
 | [Sleep, My Little Friend](https://open.spotify.com/track/3qfyU34tCYJ4IJD1H8Qtxh) | [Gennie Voltera](https://open.spotify.com/artist/36B4hA2eDLLjGqOXncPXHw) | [Sleep, My Little Friend](https://open.spotify.com/album/1QZTBycQ3kWQHnboczhpQC) | 1:05 | 2022-02-10 |  |
 | [Sleepover](https://open.spotify.com/track/1NfEpiH414ouf7SkjBYGT2) | [Penelope Hart](https://open.spotify.com/artist/4JMadQY9wcA6kcbvBvti27) | [Sleepover](https://open.spotify.com/album/4JuajeyLNsvCtgaWRmCw2r) | 1:46 | 2022-02-10 |  |
-| [Sleepy cat](https://open.spotify.com/track/66fw0XwehRbhQxnf96zttd) | [Elwood Alvey](https://open.spotify.com/artist/0Mk4uWIZoZD5P6qovECUEk) | [Sleepy cat](https://open.spotify.com/album/3Mqae6qvNur415aC8ID1d6) | 0:29 | 2022-02-10 |  |
+| [Sleepy cat](https://open.spotify.com/track/66fw0XwehRbhQxnf96zttd) | [Elwood Alvey](https://open.spotify.com/artist/0Mk4uWIZoZD5P6qovECUEk) | [Sleepy cat](https://open.spotify.com/album/3Mqae6qvNur415aC8ID1d6) | 1:18 | 2022-02-10 |  |
 | [Sleepy cows](https://open.spotify.com/track/1Nw8UbHoQWuZd7NZCEcgZV) | [Hartley Peter](https://open.spotify.com/artist/0wuQZyVvfkgYcB6o2lkT9v) | [Sleepy cows](https://open.spotify.com/album/20p0HVW2jOuavvqTZtHbUd) | 1:23 | 2022-02-10 |  |
 | [Sleepy Eyes](https://open.spotify.com/track/2WPQXLUNLV0MpnLsXq216q) | [Elvira Sola](https://open.spotify.com/artist/3jFQv36BpFuX9vTVB8q7fI) | [Sleepy Eyes](https://open.spotify.com/album/4ORkajLhJ0JkLFom7hSBkf) | 2:21 | 2022-02-10 |  |
 | [Sleepy Pony](https://open.spotify.com/track/0cLapA0ATrXkW2fj3QKqm2) | [Pearce Debenham](https://open.spotify.com/artist/3JgtNeC7T7j6SGEFQ9qMlg) | [Sleepy Pony](https://open.spotify.com/album/4JJpNL8MTDjiWVSh8eb8nL) | 1:22 | 2022-02-10 |  |

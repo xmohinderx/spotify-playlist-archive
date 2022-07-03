@@ -4,7 +4,7 @@
 
 > ...and everything nice\. Enjoy your dinner to the sounds of classic jazz vocals.
 
-24 songs - 1 hr 15 min - [published](https://open.spotify.com/playlist/5pPmSILnCXKI9cdjTFfM8q)
+24 songs - 1 hr 21 min - [published](https://open.spotify.com/playlist/5pPmSILnCXKI9cdjTFfM8q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [C'est Si Bon](https://open.spotify.com/track/5ltdjMGizJoqS5x7rZzij2) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [Something's Gotta Give \- Music From The Motion Picture](https://open.spotify.com/album/40ibEmtXTv68y88YPXDoI4) | 2:57 | 2015-07-23 |  |
 | [Cry Me A River](https://open.spotify.com/track/79KMw5grBPDLAJTPho7DOe) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Ultimate Dinah Washington](https://open.spotify.com/album/1TbwTl2h3xx9LcERW9m8rf) | 2:26 | 2015-07-23 |  |
 | [Dream A Little Dream Of Me \- Single Version](https://open.spotify.com/track/78aWV07CIrSfI903fIxjR1) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Best Of/20th/Eco](https://open.spotify.com/album/654HTArwowo5D1CxyULoxK) | 3:05 | 2015-07-23 |  |
-| [Falling In Love With Love](https://open.spotify.com/track/1KXEpK9NFfYMSZSqOiZRSA) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Giants of Jazz: Eliane Elias](https://open.spotify.com/album/2vFK7zG453y2ZfaRau1rLe) | 0:29 | 2015-07-23 |  |
+| [Falling In Love With Love](https://open.spotify.com/track/1KXEpK9NFfYMSZSqOiZRSA) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Giants of Jazz: Eliane Elias](https://open.spotify.com/album/2vFK7zG453y2ZfaRau1rLe) | 6:26 | 2015-07-23 |  |
 | [Feeling Good](https://open.spotify.com/track/6ipZfr1msvNOxyroHB0s3w) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Four Women: The Complete Nina Simone On Philips](https://open.spotify.com/album/3uwhj7rbDBY0J5nIkT2MBc) | 2:53 | 2015-07-23 |  |
 | [Fever](https://open.spotify.com/track/4Ke1CYcm2wYDFlOhziFFjK) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [All Aglow Again!](https://open.spotify.com/album/3RXdzJHsQSxpucVGBcsgOP) | 3:22 | 2015-07-23 |  |
 | [Hit The Road Jack](https://open.spotify.com/track/3Ix0grk4L4iofIaYRTWR7S) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Light Out Of Darkness \(A Tribute To Ray Charles\)](https://open.spotify.com/album/1lSUbhc28a8hfMmaXQH7fc) | 3:11 | 2015-07-23 |  |

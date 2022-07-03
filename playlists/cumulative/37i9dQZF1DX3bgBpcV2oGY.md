@@ -4,7 +4,7 @@
 
 > Instrumental guitar for rainy day contemplation.
 
-140 songs - 6 hr 6 min - [published](https://open.spotify.com/playlist/0OFjYAHKTUhiFgc9oYNNXy)
+140 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/0OFjYAHKTUhiFgc9oYNNXy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Getsuei](https://open.spotify.com/track/5VVHPMx47waVZE7rNutKd4) | [Ryohei Shimoyama](https://open.spotify.com/artist/22rBJY8j8xwmBm0Iml3Cgt) | [Getsuei](https://open.spotify.com/album/7wImlh1GGjFobn5I00H2B6) | 4:20 | 2022-06-24 |  |
 | [Giardino del respiro](https://open.spotify.com/track/0vN8hsuQ8yOldDKnVMuzEU) | [Loulou Metellus](https://open.spotify.com/artist/2A2AbvIq2SmTFLWbzqtoLX) | [Giardino del respiro](https://open.spotify.com/album/10a1HPIygy93hpQc3r5pgZ) | 2:17 | 2021-12-23 |  |
 | [Gilmerton](https://open.spotify.com/track/2zJvW1rqjvYHFNPl2mYuPk) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Gilmerton](https://open.spotify.com/album/1X2C2VeeduvqLPPA9X6KlC) | 2:19 | 2021-12-23 |  |
-| [Goosefeather](https://open.spotify.com/track/69d9kb1rQwbDKI1UlO7Zf5) | [Riverkin](https://open.spotify.com/artist/4xsqwbF6mpNckpRPn4AEBr) | [Two Trees](https://open.spotify.com/album/2qNkOL7MgmDaFpTGCiqUZd) | 0:29 | 2021-12-23 |  |
+| [Goosefeather](https://open.spotify.com/track/69d9kb1rQwbDKI1UlO7Zf5) | [Riverkin](https://open.spotify.com/artist/4xsqwbF6mpNckpRPn4AEBr) | [Two Trees](https://open.spotify.com/album/2qNkOL7MgmDaFpTGCiqUZd) | 2:40 | 2021-12-23 |  |
 | [gracious](https://open.spotify.com/track/3pcXZi83bswd1bDCDjCr5G) | [Elum Vance](https://open.spotify.com/artist/0Ams3Y9kvFZ7zJ0iPkIhfG) | [windows](https://open.spotify.com/album/0T3syhriHLYTW1Uskr3kGE) | 2:51 | 2021-12-23 |  |
 | [Guachinango](https://open.spotify.com/track/2UMCVuUjTYG2ZJf9Dqdmuq) | [Acusticalia](https://open.spotify.com/artist/0JsktCrX85DtrZ4PWbs3bv) | [Mixtlan](https://open.spotify.com/album/28muYyyz6ID3quXRKM4SN0) | 2:35 | 2021-12-23 |  |
 | [Guitar Homage to A\. Scriabin](https://open.spotify.com/track/6Imfr8naShMDpjMY14g6o9) | [Los Vasos Comunicantes](https://open.spotify.com/artist/2aNXMjF7dyGAYuOAAJ8qwV) | [Guitar Homage to A\. Scriabin](https://open.spotify.com/album/1NjsxEO61UhSq0JVyn1hz9) | 1:50 | 2021-12-23 |  |

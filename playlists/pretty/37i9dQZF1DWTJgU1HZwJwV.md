@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,683 likes - 164 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,706 likes - 164 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 | 98 | [Arbonne](https://open.spotify.com/track/39lP6wfJd0sADo8QQVNuPo) | [Frederic Dupont](https://open.spotify.com/artist/1kG7NP29tzvsYI6dEmOZFF) | [Iara](https://open.spotify.com/album/0gPVXKxCJ2nkXFiG1HPMtb) | 3:17 |
 | 99 | [Rest Sea](https://open.spotify.com/track/5UcoxNaxIuTV1WQ4eOzvYm) | [Glen Beasley](https://open.spotify.com/artist/46Xi2XceJCdHvaqnh55jyP) | [Rest Sea](https://open.spotify.com/album/1TXSpQbz2TlYhGxfh5eowq) | 2:13 |
 | 100 | [Days of Rain](https://open.spotify.com/track/2jsQWRYISLjXA2x3LQMzH6) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Days of Rain](https://open.spotify.com/album/4BytJNCzENodkN9futggYe) | 2:48 |
-| 101 | [Beautiful Break](https://open.spotify.com/track/0Ni1YgxRD11jCCFhl3gDA6) | [Maneli Jamal](https://open.spotify.com/artist/3jvyO2jDkfBe2vuI6euFny) | [Beautiful Break](https://open.spotify.com/album/2sU8yFs9s8BXqWNSqYyvib) | 0:29 |
+| 101 | [Beautiful Break](https://open.spotify.com/track/0Ni1YgxRD11jCCFhl3gDA6) | [Maneli Jamal](https://open.spotify.com/artist/3jvyO2jDkfBe2vuI6euFny) | [Beautiful Break](https://open.spotify.com/album/2sU8yFs9s8BXqWNSqYyvib) | 3:11 |
 | 102 | [The Spring Bird](https://open.spotify.com/track/1PvZZloPxrC4q2nh3LCj4O) | [Tim Philis](https://open.spotify.com/artist/1OFXBk4WZ7ZF3I98uJ9T6j) | [The Spring Bird](https://open.spotify.com/album/1zBJdIFX92nSLrv5ek5YqP) | 2:20 |
 | 103 | [Dancing Lights](https://open.spotify.com/track/6FwG5GHGS09RQRhscuWins) | [Francesco De Grazia](https://open.spotify.com/artist/5K2wtqdjqtFvyQeXG1DocT), [Arielle Krebs](https://open.spotify.com/artist/5qv7mo1vn8vrXQStkm9uM7) | [Dancing Lights](https://open.spotify.com/album/0D58Sq2XGKzScNpydrblZ4) | 4:01 |
 | 104 | [New Beginnings](https://open.spotify.com/track/7wDAgMa0JFVHQ4Zplb7EsA) | [David Paulin](https://open.spotify.com/artist/3OW9GWNHhjBd0Qt9e6Fj3b) | [New Beginnings](https://open.spotify.com/album/2pSlA3QaTpdbplgNIAfeuR) | 2:50 |
@@ -165,7 +165,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 | 155 | [Sequoia](https://open.spotify.com/track/461cC9CgeIx0ROdpaIkMtw) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Sequoia](https://open.spotify.com/album/1t5CbziFDuyPWv75q3tnCY) | 2:51 |
 | 156 | [Cup](https://open.spotify.com/track/2rh8t6nbYuoABlG31Mm3xX) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Cup](https://open.spotify.com/album/1nIYHMtvCKyA0JVxiF7Mns) | 2:12 |
 | 157 | [Dulce Añoranza](https://open.spotify.com/track/0vso79lSJGVgHhIMj5AgSS) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Dulce Añoranza](https://open.spotify.com/album/5DGtY0aqP0nmFk3cyZO5s9) | 2:32 |
-| 158 | [Fading](https://open.spotify.com/track/0ZwBaPxoP5ZSRgatkKL2fw) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Fading](https://open.spotify.com/album/05etcA6OhrOp3ekvaClyEh) | 0:29 |
+| 158 | [Fading](https://open.spotify.com/track/0ZwBaPxoP5ZSRgatkKL2fw) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Fading](https://open.spotify.com/album/05etcA6OhrOp3ekvaClyEh) | 2:04 |
 | 159 | [Rio Panama](https://open.spotify.com/track/5nmvzqwFTpY7UvC8t748bK) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Rio Panama](https://open.spotify.com/album/6n18Rbe3dJKLS0QbHCPE39) | 2:46 |
 | 160 | [Douro River](https://open.spotify.com/track/37TGZZSvrKbQ0iH1Xo53Gm) | [Vito Cantador](https://open.spotify.com/artist/7hh6PFK9DC1ZNhtXx5457U) | [No Words Can Say](https://open.spotify.com/album/03pQM7svs024WrROfEi4j3) | 3:18 |
 | 161 | [Underling](https://open.spotify.com/track/04GCX56L2mtzmoQviPUYqO) | [Vincent Shaub](https://open.spotify.com/artist/1xwN2rlkEDeCMi5w2SB6Kk) | [Underling](https://open.spotify.com/album/7fr39Jc2cRvvH0jrcwIhed) | 2:47 |

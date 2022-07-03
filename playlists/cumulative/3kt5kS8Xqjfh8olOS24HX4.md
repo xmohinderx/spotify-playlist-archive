@@ -4,12 +4,12 @@
 
 > Get your sparklers out for this patriotic blend of folk, pop, and Americana.
 
-35 songs - 2 hr 9 min - [published](https://open.spotify.com/playlist/1FSfMLgSZMui51P3Urplns)
+35 songs - 2 hr 13 min - [published](https://open.spotify.com/playlist/1FSfMLgSZMui51P3Urplns)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4th Of July](https://open.spotify.com/track/2Q7RfKKC6kqTZIWqauOiAO) | [Amy Macdonald](https://open.spotify.com/artist/1hJuGCUpefX24GFmss9bjH) | [Life In A Beautiful Light](https://open.spotify.com/album/4BiyiLfkSO75Rk5mFP9Cmj) | 3:48 | 2015-07-02 |  |
-| [4th Of July](https://open.spotify.com/track/75bBN2iQbyuxQMlnC0LgDA) | [Azure Ray](https://open.spotify.com/artist/70UZ254VvtSUmrfqPOkUQZ) | [Azure Ray](https://open.spotify.com/album/6e0ra7uS8RYB8yGXfgHCLV) | 0:29 | 2015-07-02 |  |
+| [4th Of July](https://open.spotify.com/track/75bBN2iQbyuxQMlnC0LgDA) | [Azure Ray](https://open.spotify.com/artist/70UZ254VvtSUmrfqPOkUQZ) | [Azure Ray](https://open.spotify.com/album/6e0ra7uS8RYB8yGXfgHCLV) | 4:13 | 2015-07-02 |  |
 | [4th of July](https://open.spotify.com/track/3iOlPT9wmyI15jxI6ODtT7) | [Stephen Kellogg and The Sixers](https://open.spotify.com/artist/2kfXeO854BtcQr4Rjdxopq) | [Glassjaw Boxer \(Deluxe Version\)](https://open.spotify.com/album/2iqDeyU2LvCWJafbp5kXuq) | 5:03 | 2015-07-02 |  |
 | [4th of July, Asbury Park \(Sandy\)](https://open.spotify.com/track/1gBGk4yWvTFbMykg8tYFPu) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Essential Bruce Springsteen](https://open.spotify.com/album/56JtQFrVKdKT70rkKligWx) | 5:34 | 2015-07-02 |  |
 | [All\-American Girl](https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 3:32 | 2015-07-02 |  |

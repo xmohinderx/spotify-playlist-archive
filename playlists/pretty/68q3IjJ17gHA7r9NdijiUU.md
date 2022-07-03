@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68q3IjJ17gHA7r9NdijiUU.md) - [plain]
 
 > Songs to sing along to on your next roadtrip, featuring classics and new favorites alike\. Roll down your windows, your new favorite roadtrip playlist is here.
 
-[digster.fm](https://open.spotify.com/user/digster.fm) - 322,109 likes - 53 songs - 3 hr 17 min
+[digster.fm](https://open.spotify.com/user/digster.fm) - 322,103 likes - 53 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

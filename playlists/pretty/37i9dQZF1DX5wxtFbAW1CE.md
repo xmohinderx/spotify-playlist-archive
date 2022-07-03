@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wxtFbAW1CE.md) - [plain]
 
 > Soothing songs for family yoga time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,507 likes - 202 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,509 likes - 202 songs - 10 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wxtFbAW1CE.md) - [plain]
 | 102 | [Gratitude](https://open.spotify.com/track/2ek6LLrUwT6p2zQCCvFmAW) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Gratitude](https://open.spotify.com/album/7ynmkvhDFRXIuwYmzRCzn6) | 2:39 |
 | 103 | [Little Rock Quiet](https://open.spotify.com/track/5G2qcVeufPAqg3tdCnjjTz) | [Lightning Free](https://open.spotify.com/artist/5gKstbAvksymwjaGWknRH9) | [Mood City](https://open.spotify.com/album/7JFMUkvbUUo6raLzcs1r9m) | 4:17 |
 | 104 | [Soft Soul](https://open.spotify.com/track/7Ic3ORg6yG4XbqdfdxyOCM) | [Ella Drake](https://open.spotify.com/artist/0O76d5oDfMqnPoxRN29bpx) | [Newborn](https://open.spotify.com/album/6hSiNwlyOFDSpS3Xl28zU8) | 2:56 |
-| 105 | [New Light](https://open.spotify.com/track/6zRiuQpm9fgQ7Sit5Sc0XH) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [String Theory](https://open.spotify.com/album/4NAAHdaq1RRDCEdsSddHcl) | 0:29 |
+| 105 | [New Light](https://open.spotify.com/track/6zRiuQpm9fgQ7Sit5Sc0XH) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [String Theory](https://open.spotify.com/album/4NAAHdaq1RRDCEdsSddHcl) | 3:38 |
 | 106 | [Little Star](https://open.spotify.com/track/2vtzVWLFbrcK9geKkcExpN) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Cloud Puff](https://open.spotify.com/album/3s9XpZafAAY3DCCPaIsL8X) | 2:31 |
 | 107 | [Bridges](https://open.spotify.com/track/1OfPed9kTAUCXRswQQQqP7) | [Lake Geneva](https://open.spotify.com/artist/6CcMV3fTlrJ4ECazXDdOA9) | [Bridges](https://open.spotify.com/album/2BLejrLSf3A6qC4J1EWUjg) | 2:42 |
 | 108 | [The Ocean & Us](https://open.spotify.com/track/5StOuyfvLFhbPfaMmsuDMc) | [Topi Anoz/Ohn Lee](https://open.spotify.com/artist/3ZBmxMD8g2rMip2PRs8fm7) | [The Ocean & Us](https://open.spotify.com/album/1cLNLtJ8coZVxb3DDfkFSh) | 2:53 |
@@ -152,12 +152,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wxtFbAW1CE.md) - [plain]
 | 142 | [Islands i Utsyni](https://open.spotify.com/track/331ZudrkfXoW7l8lUIEBeF) | [Elvar Arngrimsson](https://open.spotify.com/artist/5DChGYPOwgULNzFMzw0TIb) | [Fjarlagt Ljus](https://open.spotify.com/album/7kmXJFHI5btwoDpUN4JsiN) | 2:52 |
 | 143 | [Relaxation](https://open.spotify.com/track/7xD5j8ZCGDAPTTH5EfAVRf) | [Yolta](https://open.spotify.com/artist/1FcdysxmyKBfSOyVppN3sw) | [Relaxation](https://open.spotify.com/album/4hiT3XpWt0dGVZpdnX0va5) | 3:36 |
 | 144 | [Spirituality](https://open.spotify.com/track/2kYSO6JCH0Nboi3QSOWhBe) | [Waht Poo](https://open.spotify.com/artist/6l00nLjNeQr1VaeP4FvsKY) | [Spirituality](https://open.spotify.com/album/2O7UPaFijmHBKYrbhO1qRk) | 3:03 |
-| 145 | [New Beginning](https://open.spotify.com/track/2LCJEUpAFLETtWCCcA4VKv) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [New Beginning](https://open.spotify.com/album/6V5ozm35KOvFwt8bSX79MP) | 0:29 |
+| 145 | [New Beginning](https://open.spotify.com/track/2LCJEUpAFLETtWCCcA4VKv) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [New Beginning](https://open.spotify.com/album/6V5ozm35KOvFwt8bSX79MP) | 3:50 |
 | 146 | [Awakening](https://open.spotify.com/track/5db1SLjPimPV4jc5SkAZ2b) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [The Calm Sessions](https://open.spotify.com/album/7DZtrPv9CLOwvCuT7KSTdQ) | 2:37 |
 | 147 | [Strength From Inside](https://open.spotify.com/track/3MC9nswECDn5zuqkFQG1sB) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 3:20 |
 | 148 | [Spaces](https://open.spotify.com/track/3ihG28Sd7TNFsUQ7pu7f7P) | [Gus Cleese](https://open.spotify.com/artist/5vCyUIqN5rujUkzGq5iJq2) | [Mountains](https://open.spotify.com/album/57R4gLdl1jbaEZuyYzhI3n) | 3:25 |
 | 149 | [Observations From A Faraway Place](https://open.spotify.com/track/5H14dJbhKeaU1ffTMmIGJi) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Dream Voucher](https://open.spotify.com/album/2okoZfiEKs54ajikpoc9WZ) | 2:22 |
-| 150 | [Heavenly](https://open.spotify.com/track/1uSaD0JKNb5o8Wv29zULwf) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [Heavenly](https://open.spotify.com/album/1OfpLyQAAWuGKDF4DPbzOu) | 0:29 |
+| 150 | [Heavenly](https://open.spotify.com/track/1uSaD0JKNb5o8Wv29zULwf) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [Heavenly](https://open.spotify.com/album/1OfpLyQAAWuGKDF4DPbzOu) | 2:59 |
 | 151 | [Phenomena](https://open.spotify.com/track/1Naf16ekAHVTzYhhxoZCnQ) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Phenomena](https://open.spotify.com/album/1AozXJPuscfZsKrpaxpIhm) | 2:46 |
 | 152 | [From Night to Morning](https://open.spotify.com/track/5ZAJoaoiu3KJ7OoTio2OEU) | [Antologie](https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc) | [Yoga Music](https://open.spotify.com/album/3midw5wgEjQrtSeNv7MVwx) | 3:19 |
 | 153 | [Quiet Dreams](https://open.spotify.com/track/6jJkW2RUsOHCe4hiIk1tED) | [MVS](https://open.spotify.com/artist/2iPiEjvpiyVOYH7JSRgqfW) | [Quiet Dreams](https://open.spotify.com/album/5Xxn5Iuq8NGJ3pYzMxov60) | 3:24 |

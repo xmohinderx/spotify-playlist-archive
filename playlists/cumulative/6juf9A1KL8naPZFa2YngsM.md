@@ -4,7 +4,7 @@
 
 > Score your cocktail hour with eclectic jazz covers \- from Drake to Radiohead.
 
-25 songs - 2 hr 12 min - [published](https://open.spotify.com/playlist/6ABMhQsfWpPmoePmdcE17a)
+25 songs - 2 hr 21 min - [published](https://open.spotify.com/playlist/6ABMhQsfWpPmoePmdcE17a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Alpha and Omega \(feat\. Donny McCaslin, Jason Lindner, Tim Lefebvre & Mark Guiliana\)](https://open.spotify.com/track/6Ii9YNIFXPoO6yeoP13VqT) | [Donny McCaslin](https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M), [Jason Lindner](https://open.spotify.com/artist/7IyxbbSUjUQVIembL68zvy), [Tim Lefebvre](https://open.spotify.com/artist/0f92BXRSv36fG7o3QxCQ38), [Mark Guiliana](https://open.spotify.com/artist/798TUNb6IfpsZzMkkzVGu1) | [Casting For Gravity](https://open.spotify.com/album/55hCIHAndPwfVM9mWivwEV) | 4:12 | 2015-03-17 |  |
 | [Barracuda](https://open.spotify.com/track/77iB5tZdSg2LJabUtzKyaS) | [The Bad Plus](https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6) | [For All I Care](https://open.spotify.com/album/3CGYqqKu94N6TBohkL35OV) | 3:21 | 2015-03-17 |  |
 | [Dear Prudence](https://open.spotify.com/track/0wjfTfh7VSiE6Jatrfuz7U) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Largo](https://open.spotify.com/album/7i4wN3UGvFhr663Hpjgscx) | 5:22 | 2015-03-17 |  |
-| [Diamonds And Pearls](https://open.spotify.com/track/5IZ9bSLdTQlh3bFevTcnnl) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [January](https://open.spotify.com/album/5nizuls1o8fJQ0S5xR3WZM) | 0:29 | 2015-03-17 |  |
+| [Diamonds And Pearls](https://open.spotify.com/track/5IZ9bSLdTQlh3bFevTcnnl) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [January](https://open.spotify.com/album/5nizuls1o8fJQ0S5xR3WZM) | 5:45 | 2015-03-17 |  |
 | [Eleanor Rigby](https://open.spotify.com/track/4q5KE7ma9YYDNg18K3KKyU) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Timeless Tales \[For Changing Times\]](https://open.spotify.com/album/0yioztetjswvCXmqn91t0s) | 8:46 | 2015-03-17 |  |
 | [Electric Eye](https://open.spotify.com/track/2x4sJOJGqnv2BohyZM0n7a) | [Alex Skolnick Trio](https://open.spotify.com/artist/5oCKnvreEcSDVSVgYXbZX4) | [Transformation](https://open.spotify.com/album/6KzkLUpVEvkCaeAONG0Ixs) | 5:21 | 2015-03-17 |  |
 | [Everyday People](https://open.spotify.com/track/6iAMvOEe8utnjY1iz5nf6A) | [Medeski, Martin & Wood](https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw) | [Combustication](https://open.spotify.com/album/409EgDFqusiF1kmmm3NBzN) | 5:26 | 2015-03-17 |  |
@@ -32,6 +32,6 @@
 | [The Spark That Bled](https://open.spotify.com/track/4Yb6MlwjmhUeDdRpWAlljO) | [Jacob Fred Jazz Odyssey](https://open.spotify.com/artist/0Ol6j669eSIMiClmrydbyx) | [The Sameness Of Difference](https://open.spotify.com/album/5UehDYehFqrCFXYjfErD7F) | 6:02 | 2015-03-17 |  |
 | [Tom Sawyer](https://open.spotify.com/track/7780jqSvhrI9HGZIaGZJfX) | [Alex Skolnick Trio](https://open.spotify.com/artist/5oCKnvreEcSDVSVgYXbZX4) | [Last Day In Paradise](https://open.spotify.com/album/2s8FbWHSHhcUjVKmcDD5wu) | 6:34 | 2015-03-17 |  |
 | [Unison](https://open.spotify.com/track/2mvWYHKmMf5uXcfDBIPots) | [Dave Douglas](https://open.spotify.com/artist/3SQrLX0O6RbBjmSIkwCgJb) | [The Infinite](https://open.spotify.com/album/6pp3txA4BD0zSbB1Mzrh8e) | 5:02 | 2015-03-17 |  |
-| [You Will Be Loved Again](https://open.spotify.com/track/1WPgIbYONt8j7804FMVyka) | [The Peggy Lee Band](https://open.spotify.com/artist/1hlImRLr5wgG7I8nPQ0ZnE) | [Invitation](https://open.spotify.com/album/6FAkbfW9fMwzR6hWCGDA7r) | 0:29 | 2015-03-17 |  |
+| [You Will Be Loved Again](https://open.spotify.com/track/1WPgIbYONt8j7804FMVyka) | [The Peggy Lee Band](https://open.spotify.com/artist/1hlImRLr5wgG7I8nPQ0ZnE) | [Invitation](https://open.spotify.com/album/6FAkbfW9fMwzR6hWCGDA7r) | 4:17 | 2015-03-17 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

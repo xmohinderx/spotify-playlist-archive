@@ -4,7 +4,7 @@
 
 > Instrumental beats for a restful night's sleep.
 
-189 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/23A7fnWUHMhejMeGoVNotd)
+189 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/23A7fnWUHMhejMeGoVNotd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Explorer](https://open.spotify.com/track/18G5ecvEtqgqQ0lpu7WPda) | [Embien](https://open.spotify.com/artist/4KACX9SaKjjSY3qP8XNKPs) | [Explorer](https://open.spotify.com/album/0DUZH51kKZR7SEJazT7hME) | 2:33 | 2022-05-20 |  |
 | [first look](https://open.spotify.com/track/4fhwddTpcG2yxv26BFVLDd) | [jacob klev](https://open.spotify.com/artist/3XV2xVPuckMYpUbguXZ57D) | [first look](https://open.spotify.com/album/3yZU9nbHQenBDDdgiDIEKt) | 2:04 | 2022-05-20 |  |
 | [Floating Forest](https://open.spotify.com/track/5cb1aOyZ7LCAXVqLjgqywy) | [Darsena](https://open.spotify.com/artist/1BeDagLSzc3lMXJm0NSKNV), [Simadì](https://open.spotify.com/artist/76Rf6N7xWJE6lWwhAsAcVM) | [Floating Forest](https://open.spotify.com/album/4WYYiK654I2BPtYYXEIMpH) | 2:30 | 2022-07-01 |  |
-| [Flower Garden](https://open.spotify.com/track/493sWup0yoc0poKRS3nfhh) | [Foam](https://open.spotify.com/artist/4mVfOMuxawunYMWOWYXeFO), [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv) | [Flower Garden](https://open.spotify.com/album/6AVYFYL2PxduWuQpk7HFZV) | 0:29 | 2022-05-20 |  |
+| [Flower Garden](https://open.spotify.com/track/493sWup0yoc0poKRS3nfhh) | [Foam](https://open.spotify.com/artist/4mVfOMuxawunYMWOWYXeFO), [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv) | [Flower Garden](https://open.spotify.com/album/6AVYFYL2PxduWuQpk7HFZV) | 3:00 | 2022-05-20 |  |
 | [Forest Memory Lane](https://open.spotify.com/track/61HeqRWvgabq8YaGNqWW7N) | [créature sonore](https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb) | [Forest Memory Lane](https://open.spotify.com/album/0XAQVEl63yF0BJdqEmS0iF) | 1:20 | 2022-06-24 |  |
 | [forever](https://open.spotify.com/track/5c03VAk1Eq94vLnRhmSPvW) | [someday](https://open.spotify.com/artist/5qXb2k1THc04mE2x1QGxlv) | [forever](https://open.spotify.com/album/3H0jHDfAPz7VZTMXEoqGOg) | 2:12 | 2022-06-24 |  |
 | [Frozen](https://open.spotify.com/track/6axAMEYaKvoWeiJ0SKZtco) | [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb), [Prithvi](https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU) | [Frozen](https://open.spotify.com/album/3wEWbl5zudfyY0Pbmj1TM6) | 3:13 | 2022-05-20 |  |

@@ -2,7 +2,7 @@
 
 ### [Teen Spirit](https://open.spotify.com/playlist/37i9dQZF1DX5drguwUcl5X)
 
-> Estas canciones te pondrán en el mejor mood ever\. Foto: WILLOW
+> Estas canciones te pondrán en el mejor mood ever\. Foto: Charlie Puth, Jung Kook
 
 105 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/76xYzwe3LjcbRjLOfIaNXp)
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZ5bk6qqDSy.md) - [plain]
 
 > Welcome to the soothing hum...
 
-[Spotify](https://open.spotify.com/user/spotify) - 618,001 likes - 262 songs - 10 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 618,656 likes - 262 songs - 10 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -246,7 +246,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZ5bk6qqDSy.md) - [plain]
 | 236 | [White Noise \- 7k \-5.0 dB Gain](https://open.spotify.com/track/6twjhTUw3gzGxCVVgAzhK5) | [Fo Cus](https://open.spotify.com/artist/3NWrEYvAGHF0FT50FE7dDH) | [Mellow Noise](https://open.spotify.com/album/0RsI5Wjya7ZIzXogi3gJY8) | 1:53 |
 | 237 | [Noise over the Pacific Ocean](https://open.spotify.com/track/7ratGZAkdFspHgYsK4otGM) | [Sams Sampling](https://open.spotify.com/artist/0l3BC2nHquksROX70Y9c8S) | [Dreams of White Noise](https://open.spotify.com/album/3lWPS5Gjc8BdOKKWWa9tEo) | 2:10 |
 | 238 | [Noise Soothness](https://open.spotify.com/track/0VDzbWxYjg6WfEEX2gihFI) | [Lucid](https://open.spotify.com/artist/4PDgHpILxXUfE71E7bIU2j) | [White Noise Factory](https://open.spotify.com/album/1lVsjyxMllj6LjytCKfZUb) | 2:48 |
-| 239 | [White Noise through the Air](https://open.spotify.com/track/2QH9DwfG1egOFImw7ybYFN) | [White Wall Sound](https://open.spotify.com/artist/5gFVFzfnyHbq9xibfWKrzs) | [White Noise for Bedtime](https://open.spotify.com/album/53Uwinf0CFMlIs6b10QLO6) | 0:29 |
+| 239 | [White Noise through the Air](https://open.spotify.com/track/2QH9DwfG1egOFImw7ybYFN) | [White Wall Sound](https://open.spotify.com/artist/5gFVFzfnyHbq9xibfWKrzs) | [White Noise for Bedtime](https://open.spotify.com/album/53Uwinf0CFMlIs6b10QLO6) | 2:38 |
 | 240 | [Mind Clearing Noise](https://open.spotify.com/track/2O6IBOoJa3xdf9UJYDu2ek) | [Hypnotic Noise](https://open.spotify.com/artist/5NEOAF1p2oJqwe3RWBCgmL) | [Hypnotic Noise](https://open.spotify.com/album/1XFz2dz73iuCiXadt8rpAi) | 2:44 |
 | 241 | [White Noise \- 70 Hz Cut](https://open.spotify.com/track/7gyYjuFYMqe6newbb6wKEI) | [Inscription](https://open.spotify.com/artist/0MlpjV25yBPHGlsGnsWVYy) | [Dream Hunting](https://open.spotify.com/album/6n11QD5OlItf8AEJJDFxJS) | 2:24 |
 | 242 | [White Noise \- 3.5 khz \- Airline](https://open.spotify.com/track/0YFwGTE9970SXeYFXQnAaG) | [Fo Cus](https://open.spotify.com/artist/3NWrEYvAGHF0FT50FE7dDH) | [White Noise Airline](https://open.spotify.com/album/1ASELDUwdK6fFtcntQJ3gj) | 1:47 |

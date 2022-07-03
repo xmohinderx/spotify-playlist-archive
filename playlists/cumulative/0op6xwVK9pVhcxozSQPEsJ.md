@@ -4,7 +4,7 @@
 
 > Take some time out of your day to recharge your mind.
 
-93 songs - 6 hr 58 min - [published](https://open.spotify.com/playlist/5KDYphaKZ3wQd4nx3UbBU0)
+93 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/5KDYphaKZ3wQd4nx3UbBU0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Tiny Doors](https://open.spotify.com/track/6Td24fMpjUTX5JjvRR0Mop) | [Hiatus](https://open.spotify.com/artist/421vyBBkhgRAOz4cYPvrZJ) | [Parklands](https://open.spotify.com/album/1NhIMd6O3u6F9Opm7skw9N) | 3:29 | 2016-08-21 |  |
 | [To Build A Home](https://open.spotify.com/track/54KFQB6N4pn926IUUYZGzK) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB), [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Ma Fleur](https://open.spotify.com/album/5cPHT4yMCfETLRYAoBFcOZ) | 6:11 | 2016-08-21 |  |
 | [To Make a Portrait](https://open.spotify.com/track/3zcx1Vdwx7d7QwP0V5i2qK) | [Message To Bears](https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3) | [EP1](https://open.spotify.com/album/3Jm6Ti5fJenhWATSCRe2cj) | 5:02 | 2016-08-21 |  |
-| [Tower Seven](https://open.spotify.com/track/16GyluCSbn3R8uXDAy3GNM) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Culture of Fear](https://open.spotify.com/album/7FYZT6dAKPQyLl5mUAZ263) | 0:29 | 2016-08-21 |  |
+| [Tower Seven](https://open.spotify.com/track/16GyluCSbn3R8uXDAy3GNM) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Culture of Fear](https://open.spotify.com/album/7FYZT6dAKPQyLl5mUAZ263) | 7:48 | 2016-08-21 |  |
 | [Treefingers](https://open.spotify.com/track/1j7Aja1PyrcuczY36JmzBv) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A \(Collector's Edition\)](https://open.spotify.com/album/21bzeb9EncWXomkuQUrlvP) | 3:42 | 2016-08-21 |  |
 | [Viðrar Vel til Loftárása](https://open.spotify.com/track/74IEOxfTZrZbC78v4ObfyK) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Ágætis Byrjun](https://open.spotify.com/album/7LKQtdC6uWxqLzSbDonFij) | 10:17 | 2016-08-21 |  |
 | [What was meant to be](https://open.spotify.com/track/7H308xe96KJ8GlxK5sGBuP) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Gimme Shelter \[Original Soundtrack Album\]](https://open.spotify.com/album/3VpzLJy4rcGnQRMuBDrJyn) | 2:11 | 2016-08-21 |  |

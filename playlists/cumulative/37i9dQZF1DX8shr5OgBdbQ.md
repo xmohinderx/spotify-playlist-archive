@@ -4,7 +4,7 @@
 
 > centuries\-old sailor songs gone viral \- it's sea shanty season, baby.
 
-65 songs - 3 hr 11 min - [published](https://open.spotify.com/playlist/6GvH0VpVCfijhWjgTOMewu)
+65 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/6GvH0VpVCfijhWjgTOMewu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Haul Away Joe](https://open.spotify.com/track/1Hq14hcGvFD2ocHX6UiJbf) | [The Irish Rovers](https://open.spotify.com/artist/0tkKwWigaADLYB9HdFCjYo) | [40 Years a\-Rovin'](https://open.spotify.com/album/1xfQeBU1MiIHpdXBXSvEcK) | 1:57 | 2022-03-10 |  |
 | [Haul Away the Whale](https://open.spotify.com/track/0p5CBMIxDzuZvFnOv226nC) | [Jimmy Rankin](https://open.spotify.com/artist/2OQPlCSsa0Hs0V0oMT5YdU) | [Moving East](https://open.spotify.com/album/0K3YS6TyqlZFX5xqMiHe8Q) | 4:22 | 2022-03-10 |  |
 | [High Barbary](https://open.spotify.com/track/6rAO4DLmkQ1Z8YKod6mxdq) | [Storm Weather Shanty Choir](https://open.spotify.com/artist/0okdQDzOszSXXqigrEv6wF) | [A Drop of Nelson\`s Blood](https://open.spotify.com/album/4IsqzRXr5C43qehSkWHfRF) | 3:11 | 2022-03-10 |  |
-| [John Kanackanaka](https://open.spotify.com/track/50SKJ7ghPxA7JN8cP8wl8O) | [The Captain's Beard](https://open.spotify.com/artist/6QtAINH26V0kxbDgJPs0y4) | [Same Ship Different Day](https://open.spotify.com/album/7l23sIXASu6Sy4fSMCY2WI) | 0:29 | 2022-03-10 |  |
+| [John Kanackanaka](https://open.spotify.com/track/50SKJ7ghPxA7JN8cP8wl8O) | [The Captain's Beard](https://open.spotify.com/artist/6QtAINH26V0kxbDgJPs0y4) | [Same Ship Different Day](https://open.spotify.com/album/7l23sIXASu6Sy4fSMCY2WI) | 3:15 | 2022-03-10 |  |
 | [Leave Her Johnny](https://open.spotify.com/track/4APSKmljfj6XlCn4Myap0f) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [NathanEvanss](https://open.spotify.com/album/4ZUytyO3BGNF2CJRLkSrLS) | 2:02 | 2022-03-10 |  |
 | [Leave Her Johnny](https://open.spotify.com/track/2vaa0nnDnNTlxCh7fCmjsr) | [Sean Dagher](https://open.spotify.com/artist/5JgxqXmh1TrVDZn7gAgqLw), [Nils Brown](https://open.spotify.com/artist/42cM14lDAB0KzoBWQ86TWu), [Michiel Schrey](https://open.spotify.com/artist/2KgIhGBEJK4W6Uw5WVeoaV) | [Assassin's Creed 4: Black Flag \(Sea Shanty Edition\) \[Original Game Soundtrack\]](https://open.spotify.com/album/2lMgz2BBwwzkc9ZfNB9zYi) | 2:12 | 2022-03-10 |  |
 | [Lowlands Away](https://open.spotify.com/track/0xQulEotE4SkbS4hpi9P9X) | [Nils Brown](https://open.spotify.com/artist/42cM14lDAB0KzoBWQ86TWu), [Sean Dagher](https://open.spotify.com/artist/5JgxqXmh1TrVDZn7gAgqLw), [Clayton Kennedy](https://open.spotify.com/artist/3ZBJsOEjp8s1b3aQn4sE4U) | [Assassin's Creed 4: Black Flag \(Sea Shanty Edition, Vol\. 2\) \[Original Game Soundtrack\]](https://open.spotify.com/album/3xIHHyUh7RTAzLzXUzksBB) | 2:53 | 2022-03-10 |  |

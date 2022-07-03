@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 
 > From Taiwan to all the mandarin\-speaking regions, young generation is looking to hip\-hop for expression\. Cover: MC HotDog \(熱狗\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,379 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,389 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 47 | [指針](https://open.spotify.com/track/4M8lN6T68TfZHSKlkddFY1) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [指針](https://open.spotify.com/album/199fdqkmbpLutKUAshUUdQ) | 2:14 |
 | 48 | [說走就走](https://open.spotify.com/track/4u2ZKOTSirSvlnEuY9KpWj) | [MC耀宗](https://open.spotify.com/artist/0P5VW67DISdcNKmRs18ldO), [艾瑞](https://open.spotify.com/artist/7pYoJ7Feoy97o7MHFx6qV1), [Zephyr Wu](https://open.spotify.com/artist/5eTBl95OAM2pdfOcTxrVYk) | [說走就走](https://open.spotify.com/album/2bM8neOD7vfiTdh3NPT6Bt) | 3:46 |
 | 49 | [跟你對話](https://open.spotify.com/track/6au1VUVBbpkzvdbZ9m8gIG) | [阿夫 Suhf](https://open.spotify.com/artist/1lIHC3tPoXBlSYQwSMoIYY) | [跟你對話](https://open.spotify.com/album/5MgUD99Gdq0q3f52vwAlEx) | 4:05 |
-| 50 | [沒有妳在 \(feat\. 王ADEN\)](https://open.spotify.com/track/2ubBG8i1vOI02Pffd8zaYz) | [FRαNKIE阿法](https://open.spotify.com/artist/3NvVbjPU6W2AOEWitAUqwe), [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [沒有妳在 \(feat\. 王ADEN\)](https://open.spotify.com/album/3M9I0hjkXl6uj0UMzp9ZB7) | 0:29 |
+| 50 | [沒有妳在 \(feat\. 王ADEN\)](https://open.spotify.com/track/2ubBG8i1vOI02Pffd8zaYz) | [FRαNKIE阿法](https://open.spotify.com/artist/3NvVbjPU6W2AOEWitAUqwe), [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [沒有妳在 \(feat\. 王ADEN\)](https://open.spotify.com/album/3M9I0hjkXl6uj0UMzp9ZB7) | 3:26 |
 | 51 | [起起落落落](https://open.spotify.com/track/5XT3KK3TN3VbzcReuntatv) | [MC耀宗](https://open.spotify.com/artist/0P5VW67DISdcNKmRs18ldO), [Forty](https://open.spotify.com/artist/5o0yg3TG6XWPtkFMR8D7o1), [葉米楽](https://open.spotify.com/artist/002rrVeRQfpXzggsMzYuOm) | [起起落落落](https://open.spotify.com/album/1f3oakRi044znkP6zWS0Nw) | 3:18 |
 | 52 | [鮮奶茶 MILK TEA](https://open.spotify.com/track/4HdjvaHOvPSBp2U9VbIXno) | [高隆華LEON](https://open.spotify.com/artist/1C6rrLb5TXFkKYHG8h5miQ), [桃子A1J](https://open.spotify.com/artist/2imhfeJHce0YEYv9msgqMC) | [鮮奶茶 MILK TEA](https://open.spotify.com/album/7tRL1pvN39KbByLlPPUc8z) | 2:41 |
 | 53 | [21HOMEBOYZ](https://open.spotify.com/track/6W53OB0GfDaMhZgpgPCM0q) | [IVAN 艾文](https://open.spotify.com/artist/4gYogdsKDgYhgflAcfo6uk), [AW](https://open.spotify.com/artist/6BMS5grJY6gsXaPu1X4r5g), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [Vigoz Chen](https://open.spotify.com/artist/5SsQFQzfgRVHse9MEcrT4k), [AcRoss](https://open.spotify.com/artist/6B1Wv7BlRtTN8OoVNyL6sC) | [21HOMEBOYZ](https://open.spotify.com/album/6DVUGUDeDOHa52rToU9FG4) | 4:14 |

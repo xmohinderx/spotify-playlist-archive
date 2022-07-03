@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94qaYRnkufr.md) - [plain]
 
 > The essential tracks by the Dutch <a href="spotify:artist:60d24wfXkVzDSfLS6hyCjZ">DJ and producer</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 858,794 likes - 87 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 858,865 likes - 87 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94qaYRnkufr.md) - [plain]
 | 47 | [Spaceships](https://open.spotify.com/track/7Ktv8bQUjZt0rr16qgB4h2) | [AREA21](https://open.spotify.com/artist/76YIoWHp3Ri3q1ocOPtFzp) | [Spaceships](https://open.spotify.com/album/4OzNNlB0YbT16uWQgT6cux) | 2:49 |
 | 48 | [Forbidden Voices](https://open.spotify.com/track/2BF1X5nkYYSb0AUTRaGkDm) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Forbidden Voices](https://open.spotify.com/album/26oYqQO1MNxFLMfPttGRSS) | 3:50 |
 | 49 | [Sun Is Never Going Down \(feat\. Dawn Golden\)](https://open.spotify.com/track/6x7r0lpyqxBKGq8J7LFMeu) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Dawn Golden](https://open.spotify.com/artist/6MzxeKydmXufvX7HYPknFW) | [Seven](https://open.spotify.com/album/0f1CZexom6ELxbDZx32fyk) | 3:24 |
-| 50 | [Boomerang](https://open.spotify.com/track/6Gw2dHX6FsQcIuiWxe0vWk) | [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e), [GRX](https://open.spotify.com/artist/2xgAJkalFHfceCNGETOkyM) | [Boomerang](https://open.spotify.com/album/5DDLXhG7fa8crZcSNlsxuw) | 0:29 |
+| 50 | [Boomerang](https://open.spotify.com/track/6Gw2dHX6FsQcIuiWxe0vWk) | [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e), [GRX](https://open.spotify.com/artist/2xgAJkalFHfceCNGETOkyM) | [Boomerang](https://open.spotify.com/album/5DDLXhG7fa8crZcSNlsxuw) | 3:15 |
 | 51 | [Backlash \- Martin Garrix Radio Edit](https://open.spotify.com/track/125GzlPqu6eQRr1yQSqhGo) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Backlash \(Martin Garrix Edit\)](https://open.spotify.com/album/7JMGWUgwB2gsuqtH5edaHw) | 2:52 |
 | 52 | [In the Name of Love](https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [In the Name of Love](https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK) | 3:15 |
 | 53 | [WIEE \(feat\. Mesto\)](https://open.spotify.com/track/0Y2QWrhPh6ATyaWYT0QLIR) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9) | [Seven](https://open.spotify.com/album/0f1CZexom6ELxbDZx32fyk) | 3:23 |

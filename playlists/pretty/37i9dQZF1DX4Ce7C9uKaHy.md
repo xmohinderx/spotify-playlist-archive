@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 
 > Relaxing Jazz beats from the best Lo\-Fi producers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,989 likes - 80 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,999 likes - 80 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 | 50 | [DoYouStillFeelTheSame](https://open.spotify.com/track/5R5V3mMShpfS8MGCbGxlqe) | [Tears In The Rain](https://open.spotify.com/artist/3NRWttHA4hPGrdbRPsKRpz), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [music for aliens](https://open.spotify.com/album/2oY1SGoHstbzJRx3f1ER8j) | 2:21 |
 | 51 | [Oblivion](https://open.spotify.com/track/2zhPy8zbBf53XgTtkEbnbO) | [Rufi\-O](https://open.spotify.com/artist/5GKakcgOxfujEnTZOffcRn), [Lily Potter](https://open.spotify.com/artist/2ICXkeX9vhcboodu8Auv8p) | [Oblivion](https://open.spotify.com/album/0Oa8rgpPA3gskDwdjpQBHp) | 2:32 |
 | 52 | [5:00 Pm](https://open.spotify.com/track/7iZv82iUrrRCbkFWbrtd3l) | [SeanBeats](https://open.spotify.com/artist/6gxWrSNJaCqSVq9cYqjZIQ) | [Perspectiva Del Tiempo](https://open.spotify.com/album/3QwpMVWo9v5Z0CnLNBoaPm) | 2:09 |
-| 53 | [controlla](https://open.spotify.com/track/7woCxOw0jmj65ohlQ3x0tH) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [rainy evening](https://open.spotify.com/album/5tfqUZ5RcSWcYn5mWYQ4PK) | 0:29 |
+| 53 | [controlla](https://open.spotify.com/track/7woCxOw0jmj65ohlQ3x0tH) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [rainy evening](https://open.spotify.com/album/5tfqUZ5RcSWcYn5mWYQ4PK) | 1:48 |
 | 54 | [we're broke but we're lucky](https://open.spotify.com/track/439btZgIM3pNEHAkBB5Ncl) | [dankush](https://open.spotify.com/artist/4zxP5ygXMD6Ycjfi3M8Gkf) | [we're broke but we're lucky](https://open.spotify.com/album/1HCZ3njvm41ZBWdn4cfMeF) | 2:04 |
 | 55 | [Q&A](https://open.spotify.com/track/4YEZCdWUOqcZXsx72lFDIE) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Aylior](https://open.spotify.com/artist/2yCHwCR4w8pZyoSCyoQQfx) | [Vondelpark](https://open.spotify.com/album/2A6YTjmAURvNi6N1EHMD3P) | 2:21 |
 | 56 | [Edamame](https://open.spotify.com/track/6ZhmsXbTueMqhhsgUfXBYo) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [Jiro Dreams](https://open.spotify.com/album/1sP83JA4XZhzLhHiV8CKXQ) | 1:29 |

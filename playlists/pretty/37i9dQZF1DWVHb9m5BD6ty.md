@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHb9m5BD6ty.md) - [plain]
 
 > The best in Black music from Ireland\. Cover: Soulé
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,835 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,836 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHb9m5BD6ty.md) - [plain]
 | 16 | [Beggin U](https://open.spotify.com/track/1P4XWA7DvVqxseeaepFmed) | [Jrilla](https://open.spotify.com/artist/2PRaSVqPQoBgmpJfnliAgh) | [Beggin U](https://open.spotify.com/album/3KO0dWKUQDeYQ5GKlz0VtW) | 2:18 |
 | 17 | [On My Ones](https://open.spotify.com/track/0cFQGgsyC1b2CNgtslpRIQ) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [On My Ones](https://open.spotify.com/album/1R3uyALjRTwNuYXf3zJQt7) | 3:23 |
 | 18 | [Process](https://open.spotify.com/track/3VpfWEICyjRTxsYspN91Wq) | [SELLO](https://open.spotify.com/artist/6GdZAjpf8BRRnbBWLaiFZ7) | [Process](https://open.spotify.com/album/7n6VKHTbUaVVwa7iKShPlw) | 3:05 |
-| 19 | [Ladies Night \(Freestyle\)](https://open.spotify.com/track/2rc3E5tuT8NCnXgwE8tbYS) | [JyellowL](https://open.spotify.com/artist/7zWrMTItje9ZjKK2XWTPle) | [Ladies Night \(Freestyle\)](https://open.spotify.com/album/4unU2ER6lmRSetQORPdmIn) | 0:29 |
+| 19 | [Ladies Night \(Freestyle\)](https://open.spotify.com/track/2rc3E5tuT8NCnXgwE8tbYS) | [JyellowL](https://open.spotify.com/artist/7zWrMTItje9ZjKK2XWTPle) | [Ladies Night \(Freestyle\)](https://open.spotify.com/album/4unU2ER6lmRSetQORPdmIn) | 3:50 |
 | 20 | [With U](https://open.spotify.com/track/75DHJ9Szi2lYMDZMADrPhn) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [With U](https://open.spotify.com/album/6Hvgq9wKGVM4R7rqVzGhTL) | 2:55 |
 | 21 | [Can't Find You](https://open.spotify.com/track/7fvpFawFOndlL6DOwrFYYV) | [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI), [Jack Suddaby](https://open.spotify.com/artist/6L8juiO0t0TCCZ7gaBtXc2) | [Can't Find You](https://open.spotify.com/album/20pmKyT2cyIQA3g9GsNIVr) | 3:03 |
 | 22 | [Haunted](https://open.spotify.com/track/7k9fKtMD2CW2C6MW9nNFGz) | [Jafaris](https://open.spotify.com/artist/69hGavzu5tphYU1EIY0yEg) | [Haunted](https://open.spotify.com/album/6uhLsknKMOchHqHCafBavV) | 3:35 |

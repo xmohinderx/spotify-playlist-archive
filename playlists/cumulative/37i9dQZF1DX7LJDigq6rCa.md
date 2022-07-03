@@ -4,7 +4,7 @@
 
 > This playlist will sing your little ones to sleep.
 
-78 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/02w0VB2lrFWIf9k97cl9CY)
+78 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/02w0VB2lrFWIf9k97cl9CY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,11 +15,11 @@
 | [Aoi](https://open.spotify.com/track/7LW1LiX6gMkHpwCXlaq63g) | [Arden Forest](https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7) | [Sapphire](https://open.spotify.com/album/51sf1gfgOSgcF4AK5qJ4jK) | 2:07 | 2019-10-29 |  |
 | [Ave Nocturne](https://open.spotify.com/track/4AyL8u1g3ruazEAlu1bllD) | [John A\. Nilson](https://open.spotify.com/artist/0jclSzw2eZAu8huZPEcOJ9) | [Carousel](https://open.spotify.com/album/3eqF1XOrPSx3gXBhrc8YFV) | 3:24 | 2019-10-29 |  |
 | [Belonging](https://open.spotify.com/track/5xdDjtxZsusQGRjY03kWwQ) | [Werner de John](https://open.spotify.com/artist/7KYZ7B3pZ9TQ5k8j8C4pGG) | [Belonging](https://open.spotify.com/album/79MPiDsLmsaSng3Dt4B6U3) | 2:32 | 2019-10-29 |  |
-| [Besides, By the Way](https://open.spotify.com/track/64s5jnBOmd6DqmQlphn0Fv) | [Ari Naman](https://open.spotify.com/artist/5JAfV3egghH0G8VAjzk0Ch) | [Things of Meaning](https://open.spotify.com/album/1mBpJKaaCxnal3lHb3ytty) | 0:29 | 2019-10-29 |  |
+| [Besides, By the Way](https://open.spotify.com/track/64s5jnBOmd6DqmQlphn0Fv) | [Ari Naman](https://open.spotify.com/artist/5JAfV3egghH0G8VAjzk0Ch) | [Things of Meaning](https://open.spotify.com/album/1mBpJKaaCxnal3lHb3ytty) | 3:28 | 2019-10-29 |  |
 | [Buenas Noches](https://open.spotify.com/track/72kIC2q0kaOleQ3uCWU6eN) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Flowing Strings](https://open.spotify.com/album/4dySUweZz7vqrs3VgLYWN8) | 4:38 | 2019-10-29 |  |
 | [Castor](https://open.spotify.com/track/7urR40aaLV1jRneNj2ykva) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Castor / Pollux](https://open.spotify.com/album/6P0cJjPi0SSUPXX8rv3s9t) | 2:48 | 2019-10-29 |  |
 | [Celandine](https://open.spotify.com/track/5ptMWCoMxUP5phRKZ5MyBx) | [Francesca Caroléo](https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke) | [Lunaria](https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn) | 2:53 | 2019-10-29 |  |
-| [Chalets](https://open.spotify.com/track/6t3FJ7d30iGl0fSePKZh1O) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [The Wood Painter](https://open.spotify.com/album/6WQcSbDE7CnNFLIv5BFWao) | 0:29 | 2019-10-29 |  |
+| [Chalets](https://open.spotify.com/track/6t3FJ7d30iGl0fSePKZh1O) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [The Wood Painter](https://open.spotify.com/album/6WQcSbDE7CnNFLIv5BFWao) | 1:24 | 2019-10-29 |  |
 | [Chiudete Gli Occhi](https://open.spotify.com/track/1pFCkU2BQHr0mJIj05KXSD) | [Artemio Li Fonti](https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw) | [Chiudete gli occhi](https://open.spotify.com/album/1BHrWvwKscYtked2P5mFPt) | 3:52 | 2019-10-29 |  |
 | [Cloudless](https://open.spotify.com/track/76PhNwBIgoytLw14EXOLXs) | [Sigrid Vass](https://open.spotify.com/artist/1vIOObvjDYAiXHCkLOFCOT) | [Cloudless](https://open.spotify.com/album/3YjZojRZHOiEIALoZey4tp) | 2:23 | 2019-10-29 |  |
 | [Dandelions](https://open.spotify.com/track/65qU5EsQb12UUdUFCH7FBY) | [Vincente M](https://open.spotify.com/artist/5cLnH6eBtJJnoJ0zChZqJA) | [First Flower](https://open.spotify.com/album/0kRICOLMCYoy7QoN40sSJO) | 3:52 | 2019-10-29 |  |
@@ -70,7 +70,7 @@
 | [Sleep](https://open.spotify.com/track/5i7aUTyYoyCpYXcj9yyKxc) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Sleep](https://open.spotify.com/album/1tFb4gpyJ8AxTbAyvgMOob) | 2:49 | 2019-10-29 |  |
 | [Slowly Relaxing](https://open.spotify.com/track/19iBXrL3jjNmm4oDaozXWA) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Peace](https://open.spotify.com/album/7wEhjeiksV9gginrs9wlHu) | 3:21 | 2019-10-29 |  |
 | [Slumber](https://open.spotify.com/track/6A72j6HPfF8Y52nPK6BXRk) | [Richard Ramsey](https://open.spotify.com/artist/1wrKAWlJXtkD5eVfAa5IJi) | [Slumber](https://open.spotify.com/album/3RhTSEYSGcXwcDMmdx3jnx) | 1:58 | 2019-10-29 |  |
-| [Small Strokes](https://open.spotify.com/track/3O9oF9EmLGiBEz1nOtADYO) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [The Wood Painter](https://open.spotify.com/album/6WQcSbDE7CnNFLIv5BFWao) | 0:29 | 2019-10-29 |  |
+| [Small Strokes](https://open.spotify.com/track/3O9oF9EmLGiBEz1nOtADYO) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [The Wood Painter](https://open.spotify.com/album/6WQcSbDE7CnNFLIv5BFWao) | 2:14 | 2019-10-29 |  |
 | [Soothing Violin](https://open.spotify.com/track/6Tl3o4i9YsnMWNHkQFuEUA) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Dulces Sueños](https://open.spotify.com/album/1QlQTmNJSAroXlf82gRaAA) | 3:53 | 2019-10-29 |  |
 | [Summer Waltz / The Drive](https://open.spotify.com/track/2x3uxrOfrB4vIqZV5KEpsO) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Breathe In \(Drake Doremus' Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1A4UZZrTRzh0kgVIMtqIMj) | 1:30 | 2019-10-29 |  |
 | [The Deepest Well](https://open.spotify.com/track/2PGA57Sy2RDLAnO7azTXUS) | [Lionheart](https://open.spotify.com/artist/7sHTXnqmYqCECjKKb2iqWS) | [Older](https://open.spotify.com/album/3MFF1D8Z2a2XVXXG8TbUDS) | 3:14 | 2019-10-29 |  |

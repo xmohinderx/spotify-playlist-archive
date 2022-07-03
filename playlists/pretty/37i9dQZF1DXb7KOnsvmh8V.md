@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7KOnsvmh8V.md) - [plain]
 
 > 'Tis the season to settle in with a warm cup of coffee and these stripped down holiday tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,895 likes - 59 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,852 likes - 59 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [You're All I Want For Christmas](https://open.spotify.com/track/6k5yUgb2kSjiJtFWcAIswU) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [You're All I Want For Christmas](https://open.spotify.com/album/0hz1EdPK295xrolats4Mae) | 0:29 |
+| 1 | [You're All I Want For Christmas](https://open.spotify.com/track/6k5yUgb2kSjiJtFWcAIswU) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [You're All I Want For Christmas](https://open.spotify.com/album/0hz1EdPK295xrolats4Mae) | 2:24 |
 | 2 | [Last Christmas](https://open.spotify.com/track/09j5YVh6DLMa09PRp51mrE) | [Ashley Jones](https://open.spotify.com/artist/5oZSkpd6njJYnWjqINJ0nJ) | [Last Christmas](https://open.spotify.com/album/6XgcGUqv9urCIlq4IVHDsK) | 4:55 |
 | 3 | [Merry Xmas Everybody](https://open.spotify.com/track/0BQs8OCMlegB4Mlrx9nJA2) | [Joe Hicks](https://open.spotify.com/artist/0xwHtYTN6P4PtjLSzLV4U5) | [Merry Xmas Everybody](https://open.spotify.com/album/1A52lVGt4oJaXtI9FRxVvt) | 3:21 |
 | 4 | [Santa Baby](https://open.spotify.com/track/3nkVBox3k8YpbVNyXKQinl) | [Yolanda Streep](https://open.spotify.com/artist/3RAcfMK8AOdXDGe5IM4CV8) | [Santa Baby](https://open.spotify.com/album/5UV2XfiAnmheoWWv7C3clA) | 4:25 |

@@ -4,7 +4,7 @@
 
 > Digging deep into the history of 10s pop.
 
-415 songs - 1 day 0 hr 49 min - [published](https://open.spotify.com/playlist/4jFBFoNSnmjtPM7QWXc7vG)
+415 songs - 1 day 0 hr 52 min - [published](https://open.spotify.com/playlist/4jFBFoNSnmjtPM7QWXc7vG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Colder](https://open.spotify.com/track/3uHRN9pGmNPI1ftbmk35Qu) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [The Sun Will Come up, The Seasons Will Change](https://open.spotify.com/album/5XsBQrYhmDWyYfXGlfsZJU) | 3:08 | 2021-08-10 |  |
 | [Coloring](https://open.spotify.com/track/6OtjKr7zn85Krff67wJuxJ) | [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Mellow Drama](https://open.spotify.com/album/2u0dSRYohsq8lCCZejHKxx) | 3:39 | 2021-08-10 |  |
 | [Colors](https://open.spotify.com/track/1TnUURhehaoMWKAqQtirm6) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS](https://open.spotify.com/album/5U5rt98q8Jqx4lP3RdqYfO) | 4:09 | 2021-08-10 |  |
-| [Come Closer](https://open.spotify.com/track/78grBouzwHBGAXf7wkffwq) | [Lou and Matthew](https://open.spotify.com/artist/43Ij4TGofSYrrATCUydG6Z) | [Come Closer](https://open.spotify.com/album/4bx5gP3WA2wpkpE5zUrQZp) | 0:29 | 2022-04-08 |  |
+| [Come Closer](https://open.spotify.com/track/78grBouzwHBGAXf7wkffwq) | [Lou and Matthew](https://open.spotify.com/artist/43Ij4TGofSYrrATCUydG6Z) | [Come Closer](https://open.spotify.com/album/4bx5gP3WA2wpkpE5zUrQZp) | 3:40 | 2022-04-08 |  |
 | [Cruel \(feat\. ZAYN\)](https://open.spotify.com/track/0B2RttXEiyXsMeQ7mMP3EI) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Cruel \(feat\. ZAYN\)](https://open.spotify.com/album/0foMG0HqauruzIFk43eSzG) | 3:48 | 2021-08-10 |  |
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2021-08-10 |  |
 | [Crying for No Reason](https://open.spotify.com/track/3DDxYAT7Nuj0tfkHICWYi3) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Crying for No Reason](https://open.spotify.com/album/1EKnf8pTCTORIjSabmZ7fg) | 4:03 | 2021-08-10 |  |

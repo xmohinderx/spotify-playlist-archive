@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/7wiCMbRM2F6PQYGLwnJ7GJ.md) - [plain]
 
 > Pre\-game music to get you pumped up before heading out for the night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 694 likes - 38 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 694 likes - 38 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Shower](https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Shower](https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr) | 3:26 |
 | 2 | [All Night](https://open.spotify.com/track/15iosIuxC3C53BgsM5Uggs) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [THIS IS..\. ICONA POP](https://open.spotify.com/album/59ZxtwIOD1wowkNvVHXqtP) | 3:07 |
 | 3 | [Trumpets](https://open.spotify.com/track/5KONnBIQ9LqCxyeSPin26k) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Talk Dirty](https://open.spotify.com/album/4PeZu0It7qVrTG40t3HM9A) | 3:37 |
-| 4 | [I Will Never Let You Down](https://open.spotify.com/track/3oxGdyFvdcgg6RcvSvB5fL) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [I Will Never Let You Down \(The Remixes\)](https://open.spotify.com/album/3AU0UhrH5sa0WxtoqMCN4J) | 0:29 |
+| 4 | [I Will Never Let You Down](https://open.spotify.com/track/3oxGdyFvdcgg6RcvSvB5fL) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [I Will Never Let You Down \(The Remixes\)](https://open.spotify.com/album/3AU0UhrH5sa0WxtoqMCN4J) | 3:23 |
 | 5 | [My Love](https://open.spotify.com/track/2iS2s9oYpEmUzrAHPmqBHy) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [My Love](https://open.spotify.com/album/5tjxypwDvjY0rJLTx80ezi) | 4:22 |
 | 6 | [Fancy](https://open.spotify.com/track/3oqCnpAoHf3SDFynxx7AU4) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Fancy](https://open.spotify.com/album/20a4p8pXFFG3ZungWSbYv3) | 3:19 |
 | 7 | [I Want It All](https://open.spotify.com/track/2rMlqjnKUsZEJjBRHZVsdE) | [Karmin](https://open.spotify.com/artist/4M0DLz8te9Q1lNIXBBwvfG) | [I Want It All](https://open.spotify.com/album/6mBAvVxjobmQ3VqcXb2OgT) | 3:47 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/7wiCMbRM2F6PQYGLwnJ7GJ.md) - [plain]
 | 31 | [V\. 3005](https://open.spotify.com/track/1XcQusdnAx3vQtL891EUI5) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [because the internet](https://open.spotify.com/album/3z9YJAyGipjDuwhjinHUY0) | 3:54 |
 | 32 | [Can't Believe It \(feat\. Pitbull\)](https://open.spotify.com/track/1kxyZ2SpflM1ogD0B5hgfX) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Can't Believe It \(feat\. Pitbull\)](https://open.spotify.com/album/2HJfdBrLcmqKFrdNEFXnyn) | 3:43 |
 | 33 | [BACK TO LIFE](https://open.spotify.com/track/3geTIpvpfyL7gHgzYEFsEs) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F) | [BACK TO LIFE](https://open.spotify.com/album/0b4t6wTGGN3TRWlkTlNLhk) | 3:45 |
-| 34 | [Lost In Paradise](https://open.spotify.com/track/6jLGCgYpIqGJ1WI4x4hBXY) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) | 0:29 |
+| 34 | [Lost In Paradise](https://open.spotify.com/track/6jLGCgYpIqGJ1WI4x4hBXY) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) | 3:35 |
 | 35 | [MILF](https://open.spotify.com/track/2BAAzpTTKbsZsx0S4BrvU0) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Hall Of Fame \(Deluxe\)](https://open.spotify.com/album/2kSTssn90EgrYWNlWZJ9r4) | 4:22 |
 | 36 | [Iz U Down](https://open.spotify.com/track/7AGsppMAj4299uUbKBW3ds) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Iz U Down](https://open.spotify.com/album/1sEpoWMVYg7qL4jQBRt5yo) | 3:55 |
 | 37 | [Confident](https://open.spotify.com/track/65xGo48KiS0ONsGo9KrI66) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Confident](https://open.spotify.com/album/6aNHJClUdo0x0DPUseI6gq) | 4:08 |

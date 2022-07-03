@@ -4,7 +4,7 @@
 
 > Carnival 2022 is in session, follow Kes as he takes us on a trip to Trinidad & Tobago
 
-104 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/35sKAj4iwKWEOgdGOJN8Zw)
+104 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/35sKAj4iwKWEOgdGOJN8Zw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Hookin' Meh](https://open.spotify.com/track/7a3UBZZ4md9nJUDQbxqk7W) | [Farmer Nappy](https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN) | [Hooked on Soca](https://open.spotify.com/album/4O3wKLSGhkJojPEesmcoGu) | 3:03 | 2022-02-24 |  |
 | [Hot and Groovy](https://open.spotify.com/track/5ufDDOz8dT9bW9tjegZ6DB) | [Militant](https://open.spotify.com/artist/690ABcoCdRI94KVCiFwhoj) | [Hot and Groovy](https://open.spotify.com/album/05BvK7qOUP4YLJxrAGaLC5) | 4:42 | 2022-02-24 |  |
 | [Humans](https://open.spotify.com/track/3p49RQe2zEzDecznhuznrD) | [Nation Boss](https://open.spotify.com/artist/7I6r8LoL1vyeiUOAudYu4P) | [Humans](https://open.spotify.com/album/4uiRC6KTJy9SQU1Chfr8LE) | 2:33 | 2021-08-26 | 2022-02-25 |
-| [Iron Love](https://open.spotify.com/track/4EwRn20k5ZnkcxbFrO9uKs) | [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c), [The Laventille Rhythm Section](https://open.spotify.com/artist/3V4EFIE13KbL8DLzY9H9IZ) | [Iron Love](https://open.spotify.com/album/47kFlAJrG9o0cnlxC9OhZV) | 0:29 | 2022-02-24 |  |
+| [Iron Love](https://open.spotify.com/track/4EwRn20k5ZnkcxbFrO9uKs) | [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c), [The Laventille Rhythm Section](https://open.spotify.com/artist/3V4EFIE13KbL8DLzY9H9IZ) | [Iron Love](https://open.spotify.com/album/47kFlAJrG9o0cnlxC9OhZV) | 3:22 | 2022-02-24 |  |
 | [Issa Snack](https://open.spotify.com/track/0cu2dhP6LLltvjCf5BPyYr) | [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd) | [The Art of Flex](https://open.spotify.com/album/3SzwtY32eeDhTg8W4G1RhF) | 3:03 | 2022-02-24 |  |
 | [It Don't Matter](https://open.spotify.com/track/0khlFaEfD0jXgnDw6zqqo0) | [DJ Private Ryan](https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp), [Hey Choppi](https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw) | [Sweet Tooth Symphony](https://open.spotify.com/album/2SBW3eXaWG6hWlvtjRgKra) | 3:17 | 2021-08-26 | 2022-02-25 |
 | [IzWE](https://open.spotify.com/track/4LEMcQoso6qr8Gi1hz3bdp) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Etienne Charles](https://open.spotify.com/artist/4JykHd21q5YnsKDekqnqD3), [Laventille Riddim Section](https://open.spotify.com/artist/3KEToqcuTsWYMB93XZHR20) | [IzWE](https://open.spotify.com/album/5GEc3z0zW4J4CrmjVcVqXz) | 4:08 | 2021-08-26 |  |

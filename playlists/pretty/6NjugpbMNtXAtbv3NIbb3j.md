@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6NjugpbMNtXAtbv3NIbb3j.md) - [plain]
 
 > The Spotify House 2015 Thursday lineup.
 
-[Spotify](https://open.spotify.com/user/spotify) - 458 likes - 20 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 458 likes - 20 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/6NjugpbMNtXAtbv3NIbb3j.md) - [plain]
 | 4 | [Our Own House](https://open.spotify.com/track/5ufmXqULgMsDIDSkSaXw1E) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Our Own House](https://open.spotify.com/album/09bl34G5cWe3hlKND6PNt2) | 3:52 |
 | 5 | [How Could You Babe](https://open.spotify.com/track/3UQM3V4mjS1DuAqucivt1Q) | [Tobias Jesso Jr.](https://open.spotify.com/artist/3RosuARXNIOfNYoJXR7fzA) | [How Could You Babe](https://open.spotify.com/album/366pymIt28pfphDRjYM0BL) | 3:52 |
 | 6 | [Blind Heart \- Radio Edit](https://open.spotify.com/track/3Wb4T8OJg4obJNBMUYgfPm) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS), [Terri B!](https://open.spotify.com/artist/6eke2ECTHhJgqVsArc8t5z) | [Blind Heart \(Radio Edit\)](https://open.spotify.com/album/7ga1udMTCW1AwyUOoh9qXS) | 3:17 |
-| 7 | [Dangerous \(feat\. Joywave\)](https://open.spotify.com/track/2rPw8mIZPu987REVeDbrjt) | [Big Data](https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa), [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Dangerous \(feat\. Joywave\)](https://open.spotify.com/album/6ut9RO5CKAIBvrEZ6Q85Ph) | 0:29 |
+| 7 | [Dangerous \(feat\. Joywave\)](https://open.spotify.com/track/2rPw8mIZPu987REVeDbrjt) | [Big Data](https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa), [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Dangerous \(feat\. Joywave\)](https://open.spotify.com/album/6ut9RO5CKAIBvrEZ6Q85Ph) | 4:40 |
 | 8 | [Coffins](https://open.spotify.com/track/4yP0JmB5w21MtWfLV98lIp) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Reflections](https://open.spotify.com/album/5xM6nKztgu6QNXj8ciiUEg) | 3:10 |
 | 9 | [Ghosts](https://open.spotify.com/track/2bqx1nbXAI6ciOxzl2JbVC) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Ghosts](https://open.spotify.com/album/0xkbqzDDv6dtXVxOrQQtpM) | 3:31 |
 | 10 | [Thunder Bay](https://open.spotify.com/track/4pfWXSIUdlmwhFA3qeV276) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Satin Panthers](https://open.spotify.com/album/0d99LxnQpiPLgSGDRuU9HT) | 3:18 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 4s4ki
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,004 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,001 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [LOG OUT](https://open.spotify.com/track/6EVB6JR1zqqEdRh7DQIa5x) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [LOG OUT](https://open.spotify.com/album/4fF9BRyWKm6Igd6TLHuAf9) | 3:02 |
-| 2 | [living dead!!](https://open.spotify.com/track/3oamfw1nAipiBdqnnaIMHL) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [living dead!!](https://open.spotify.com/album/01wPQIcyuFaHT5OzqKjIVI) | 2:28 |
+| 2 | [living dead!!](https://open.spotify.com/track/3oamfw1nAipiBdqnnaIMHL) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [living dead!!](https://open.spotify.com/album/01wPQIcyuFaHT5OzqKjIVI) | 2:27 |
 | 3 | [ふたり計画](https://open.spotify.com/track/316xoUi91q0TZQjFoZbSPX) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [ふたり計画](https://open.spotify.com/album/22YTXwYEfHp9f0pb4c7dTG) | 2:32 |
 | 4 | [しあわせはイテテ](https://open.spotify.com/track/1dsDYDguRkoDsf5aM8cNtf) | [アイラヴミー](https://open.spotify.com/artist/5E1E14jPqjgoqcE8wxiqxN) | [しあわせはイテテ](https://open.spotify.com/album/2Mj1eYnNLCJq8MZOzctBbe) | 4:11 |
 | 5 | [Pretender](https://open.spotify.com/track/3xzNsww5yJOad8q2DtkbTe) | [二宮和也](https://open.spotify.com/artist/0FcX6LktU0zirOd1u2cgpR) | [〇〇と二宮と](https://open.spotify.com/album/05y4bt1trh1Qm8kdg9J7X6) | 3:28 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 44 | [HAPPY BIRTHDAY 2 ME](https://open.spotify.com/track/0960UrhSDKDs2we8HU3Z2Z) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [HAPPY BIRTHDAY 2 ME](https://open.spotify.com/album/6HLLAUopVxtorBVe37fYZu) | 3:39 |
 | 45 | [そぐわな](https://open.spotify.com/track/2ftcqHzXbUP4P6nROsanV8) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [そぐわな](https://open.spotify.com/album/2W0hOxFTRTYkrRPiOs1292) | 3:42 |
 | 46 | [no.8](https://open.spotify.com/track/29T0hG4SSBf4Dn62RmcDpY) | [Ribet towns](https://open.spotify.com/artist/4F3QYYqDmvEr90t9msxbbj) | [no.8](https://open.spotify.com/album/1Vsv5s3ABjXwy7PSX6ShRb) | 3:15 |
-| 47 | [ロミエット](https://open.spotify.com/track/04U96CjMas1ApyrAOgNpfW) | [フォーエイト48](https://open.spotify.com/artist/1wZrOW2li1AyaNKikRyA0Y) | [ロミエット](https://open.spotify.com/album/0A7EqExGM1CakUK1IY7czb) | 2:54 |
+| 47 | [ロミエット](https://open.spotify.com/track/04U96CjMas1ApyrAOgNpfW) | [フォーエイト48](https://open.spotify.com/artist/3rluIfhAkKzKF2Fq89tYGD) | [ロミエット](https://open.spotify.com/album/0A7EqExGM1CakUK1IY7czb) | 2:54 |
 | 48 | [ユルシテ青蘭](https://open.spotify.com/track/1Em8iL3Vvw3wrctKz7jaGN) | [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8) | [Solution](https://open.spotify.com/album/5PmNfGLBaymlpqQh7m9vrX) | 3:17 |
 | 49 | [keep on](https://open.spotify.com/track/3DT3ECZe6MrVrpu4axKBGw) | [宇佐蔵べに](https://open.spotify.com/artist/3WaoKji70RpTl0Jin9Lbdi) | [Passion](https://open.spotify.com/album/6jrxjWYy51n6Cp3ErARPrw) | 3:00 |
 | 50 | [Ivory](https://open.spotify.com/track/1uBe568afxLNXzheTgvCiL) | [Nyarons](https://open.spotify.com/artist/4L5K9BR3qaZQw8QAoMBUta) | [Ivory](https://open.spotify.com/album/4Iywk1W8kk1KxwQiRzWsRl) | 3:02 |

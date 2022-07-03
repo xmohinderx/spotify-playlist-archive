@@ -4,7 +4,7 @@
 
 > Tinsel! Lights! Yelling! These family\-friendly Christmas songs will get the party started.
 
-104 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/4adFmDn6HaaYuB5tODjiNo)
+104 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/4adFmDn6HaaYuB5tODjiNo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Christmas \(Baby Please Come Home\) \(feat\. Scarlett Johansson, Taron Egerton, Reese Witherspoon & Tori Kelly\)](https://open.spotify.com/track/6wUYUvIqn9swoQSaeW9ZVp) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq), [Scarlett Johansson](https://open.spotify.com/artist/2KAaJOwfu8n93byx6YPRPa), [Taron Egerton](https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD), [Reese Witherspoon](https://open.spotify.com/artist/5V8q61RswIFvxhIfzYVew9), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Christmas \(Baby Please Come Home\) \[From Sing 2\]](https://open.spotify.com/album/0gnVoCrQKFmqRY5DdqLRxL) | 2:36 | 2021-12-07 |  |
 | [Christmas in New York](https://open.spotify.com/track/2nEiP6hKoutwknyFDgFwl8) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Christmas in The City](https://open.spotify.com/album/3zATB2luwEOpEkLBG97Q9m) | 3:15 | 2021-12-07 |  |
 | [Christmas Tree Farm](https://open.spotify.com/track/2mvabkN1i2gLnGAPUVdwek) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Christmas Tree Farm](https://open.spotify.com/album/5JnnrTE35MQagEnEkFthiF) | 3:48 | 2021-12-07 |  |
-| [Christmas Wrapping](https://open.spotify.com/track/25vlyDxSf8SsjPRr5CieWF) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Christmas Wish List](https://open.spotify.com/album/4PprECLcYiT8IGZjgivKTJ) | 0:29 | 2021-12-07 |  |
+| [Christmas Wrapping](https://open.spotify.com/track/25vlyDxSf8SsjPRr5CieWF) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Christmas Wish List](https://open.spotify.com/album/4PprECLcYiT8IGZjgivKTJ) | 4:15 | 2021-12-07 |  |
 | [December](https://open.spotify.com/track/2r3gfGANsuPbAwmLWGv0ET) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/5BFg8l4NYyZ90DWqcBjbt6) | 1:56 | 2021-12-07 |  |
 | [Deck The Halls](https://open.spotify.com/track/1xpknUJU5WnCILL3UpiXQs) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd) | [Pop Party Christmas](https://open.spotify.com/album/6dIiuXDADs8W0HCn7HoYFa) | 1:35 | 2021-12-07 |  |
 | [Do You Hear What I Hear?](https://open.spotify.com/track/2QEJNfOrRjC4O1msrVXJo4) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Best Of Pentatonix Christmas](https://open.spotify.com/album/1ohdh4vzVUXhtaE04cHvle) | 3:33 | 2021-12-07 |  |
@@ -49,7 +49,7 @@
 | [I'll Be Home For Christmas \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6pbS3SMfbLLrcOMR9SDpsZ) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Spotify Singles \- Holiday](https://open.spotify.com/album/4PSFPnCtOqJCpM4igcp7P9) | 3:26 | 2021-12-07 |  |
 | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/track/7GBuc4Sh26BLDLCsLWuCde) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/album/55qxgy5RW3lwMxPlpOdlAC) | 2:29 | 2021-12-07 |  |
 | [It's Christmas Now!](https://open.spotify.com/track/4rcoY9VWWQkzFeEsxGDbUX) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [JoJo's Rockin' Christmas](https://open.spotify.com/album/2hHF7iFR1GnwoTqE3oS03n) | 2:40 | 2021-12-07 |  |
-| [It’s the Most Wonderful Time of the Year](https://open.spotify.com/track/5n9OArDe2XxJhGOtKKMZ7C) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Christmas Wish List](https://open.spotify.com/album/4PprECLcYiT8IGZjgivKTJ) | 0:29 | 2021-12-07 |  |
+| [It’s the Most Wonderful Time of the Year](https://open.spotify.com/track/5n9OArDe2XxJhGOtKKMZ7C) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Christmas Wish List](https://open.spotify.com/album/4PprECLcYiT8IGZjgivKTJ) | 2:30 | 2021-12-07 |  |
 | [Jingle Bell Rock](https://open.spotify.com/track/7hPtrGqzMOO0KMevkaQnYR) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Meet The Vamps \(Christmas Edition\)](https://open.spotify.com/album/6NY392KOBGs1zCJKiNgtp6) | 2:15 | 2021-12-07 |  |
 | [Jingle Bells](https://open.spotify.com/track/39QghbsMOifzbwiPxSABXV) | [That Girl Lay Lay](https://open.spotify.com/artist/6GVYRmhvBibjGCythicOlZ), [Tha Slay Gang](https://open.spotify.com/artist/34VL14T5ubMW3QNw32vIKe) | [All Tha Way Lit Up](https://open.spotify.com/album/5wRK5FoW9Q1LnGrGTplKhM) | 2:57 | 2021-12-07 |  |
 | [Jingle Bells](https://open.spotify.com/track/2tD3pZnBsE4wm4PmqVhJCL) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Meet The Vamps \(Christmas Edition\)](https://open.spotify.com/album/6NY392KOBGs1zCJKiNgtp6) | 3:01 | 2021-12-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7GSt7smvMMAiOFmPJ17jEf.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 319 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 319 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/7GSt7smvMMAiOFmPJ17jEf.md) - [plain]
 | 16 | [Wolverton Mountain](https://open.spotify.com/track/1GM8EhVOkaU8jvqua4S54l) | [Claude King](https://open.spotify.com/artist/3apueasSp0paDZeS4aU06g) | [SUPER HITS OF THE '60s](https://open.spotify.com/album/5Pwk0EbYCCCGpJtjJnYyjG) | 2:58 |
 | 17 | [Slow Twistin' \- Rerecorded](https://open.spotify.com/track/4IVaGgjbY5s85IOmuJMk5u) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [Chubby Checker's Greatest Hits](https://open.spotify.com/album/1nH3Sc0ajdHMJUzRlme2nk) | 2:44 |
 | 18 | [It Keeps Right On A\-Hurtin' \- Re\-Recording](https://open.spotify.com/track/3J8rTEaECN8VFBiq3b6PHg) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [The Wonderful World of the 60's \- 100 Hit Songs](https://open.spotify.com/album/2g6zIUb6GvP0k5KtLpWOEQ) | 2:48 |
-| 19 | [The One Who Really Loves You](https://open.spotify.com/track/51FRQtjemOO2XGMC2VKrkH) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [Best Of The Early Years](https://open.spotify.com/album/6bJllGXVjQrUDQZ76gsout) | 0:29 |
+| 19 | [The One Who Really Loves You](https://open.spotify.com/track/51FRQtjemOO2XGMC2VKrkH) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [Best Of The Early Years](https://open.spotify.com/album/6bJllGXVjQrUDQZ76gsout) | 2:31 |
 | 20 | [Good Luck Charm](https://open.spotify.com/track/4ZexY8LcZkPd89dYPxf8LH) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:25 |
 | 21 | [Midnight In Moscow](https://open.spotify.com/track/3dVZsNXZWhBDUSjV2RkEWP) | [Kenny Ball & His Jazzmen](https://open.spotify.com/artist/1gv1pJZUv6mZIaYRezXE3C) | [Midnight In Moscow](https://open.spotify.com/album/19gnA2f3OgNxAceSdlcij0) | 2:58 |
 | 22 | [Sheila \(Re\-Recorded\)](https://open.spotify.com/track/1E1iUNpqcbXK96AXHbV9oP) | [Tommy Roe](https://open.spotify.com/artist/7t4XHvWfj0XtEB8SNFeALw) | [60s Classics](https://open.spotify.com/album/3w6MFLPPc56ilMeY4zwoim) | 2:11 |

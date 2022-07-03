@@ -4,7 +4,7 @@
 
 > Beachy, acoustic tunes for lazy summer days.
 
-110 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/0JCaMOE91Ef3xMfUpqyDsa)
+110 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/0JCaMOE91Ef3xMfUpqyDsa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Build Me Up Buttercup \- Ukulele](https://open.spotify.com/track/6s2A4P2D14VpH3zNmnQU3H) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Better Together & Build Me Up Buttercup \(Ukulele\)](https://open.spotify.com/album/67inhQMLBbDsFQJsZZIr9K) | 3:28 | 2022-03-10 |  |
 | [Can't Take My Eyes Off You](https://open.spotify.com/track/46TJRia9JVaFEt8iEkzzs1) | [Hiapo](https://open.spotify.com/artist/7IGWVNg7zvboJRuWaXrL0K) | [Can't Take My Eyes Off You](https://open.spotify.com/album/4nXzck1c8g4EluvSWEOJpi) | 3:22 | 2022-03-10 |  |
 | [Chacharerita Mia](https://open.spotify.com/track/535hSZOoxufWFeB3sstnep) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Chacharerita Mia](https://open.spotify.com/album/5FWVfIerIXzDqEOB3LKeei) | 3:31 | 2022-03-10 |  |
-| [Clear Skies](https://open.spotify.com/track/5IbREiXznEMSrENm8iOOtw) | [Channing Spence](https://open.spotify.com/artist/7HHhJuGxvzmJzu0UOfrEEp) | [Clear Skies](https://open.spotify.com/album/3bIlYKIGezGDTciPBX3JLU) | 0:29 | 2022-03-10 |  |
+| [Clear Skies](https://open.spotify.com/track/5IbREiXznEMSrENm8iOOtw) | [Channing Spence](https://open.spotify.com/artist/7HHhJuGxvzmJzu0UOfrEEp) | [Clear Skies](https://open.spotify.com/album/3bIlYKIGezGDTciPBX3JLU) | 3:15 | 2022-03-10 |  |
 | [Colors](https://open.spotify.com/track/6nbEqrP3sm08UJ7fBgjEqM) | [Alex Miracone](https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh) | [Colors](https://open.spotify.com/album/7soao7wkz07f7w3EZn7p6Q) | 3:02 | 2022-03-10 |  |
 | [Come On Get Higher](https://open.spotify.com/track/1kyWVfQ7VVJqyZ05gSUhQ0) | [Brandi Singer](https://open.spotify.com/artist/6M21uZWGDjG8BDYuFBTxzo) | [Ukelele Girl](https://open.spotify.com/album/6dMsLBwMpTlwWsE1U3Sz7R) | 3:37 | 2022-03-10 |  |
 | [Connection](https://open.spotify.com/track/3gkGaOATZDdXpLC05L2YMb) | [KORIBA](https://open.spotify.com/artist/0ttPJjx1cSyAn4CNVPNpEJ) | [A Day In The Forest](https://open.spotify.com/album/62XdTcse6AjFvUMJuNoyub) | 2:16 | 2022-03-10 |  |
@@ -46,7 +46,7 @@
 | [Fly Me To The Moon](https://open.spotify.com/track/3WtHeD1MkPYh1o5Bta94uL) | [Kaikane](https://open.spotify.com/artist/23f4uXdf9I7nMXo3Aaxsp7) | [What a Wonderfull World](https://open.spotify.com/album/3ObzhmOpdnOQzm5O6mreAl) | 2:11 | 2022-03-10 | 2022-05-06 |
 | [Formentera](https://open.spotify.com/track/7tkDVIHFHDas9ryaScCyns) | [Mente Orgánica](https://open.spotify.com/artist/1wfwGvcBGamXiXxuaExHRT) | [Formentera](https://open.spotify.com/album/1Z25zbxwXI4mIU1Bdu3bQe) | 3:11 | 2022-03-10 | 2022-05-06 |
 | [Fred's Theme](https://open.spotify.com/track/5xTaxs4Dk2oMBIVH4PXW8U) | [Jeff Paul](https://open.spotify.com/artist/6wlWoM5FRXLtNgl04EkZyN) | [Fred's Theme](https://open.spotify.com/album/066gCzWyicE5jaGH0uvTRR) | 2:05 | 2022-03-10 |  |
-| [Frozen Caipirinha](https://open.spotify.com/track/0rl1WFFKnRVG0tDlrB2vJU) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Frozen Caipirinha](https://open.spotify.com/album/3OXLuVmNEUvts49jtiSqw4) | 0:29 | 2022-03-10 |  |
+| [Frozen Caipirinha](https://open.spotify.com/track/0rl1WFFKnRVG0tDlrB2vJU) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Frozen Caipirinha](https://open.spotify.com/album/3OXLuVmNEUvts49jtiSqw4) | 3:11 | 2022-03-10 |  |
 | [Frühlingstanz](https://open.spotify.com/track/0GiGRuhSumYoiX5GH7PjiL) | [Xenocrates](https://open.spotify.com/artist/342midAD9fvJUGMxctnYtm) | [Frühlingstanz](https://open.spotify.com/album/0f1SzNxXGqCHLzkhcc6pqw) | 3:07 | 2022-03-10 |  |
 | [Get Lucky](https://open.spotify.com/track/2Bh7NpIcbGrjwq2h6Lt3j6) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Get Lucky](https://open.spotify.com/album/3kIVqsQDvMGaFtJETEuieb) | 4:49 | 2022-03-10 |  |
 | [Girl From Ipanema](https://open.spotify.com/track/1hOQ2MFPcuNupbsb8Xba1t) | [US Two](https://open.spotify.com/artist/6diA719p2OaW6zQnXCbRO9) | [US Two](https://open.spotify.com/album/3WDrrELIumy9JiB9aZN5x7) | 3:08 | 2022-03-10 |  |

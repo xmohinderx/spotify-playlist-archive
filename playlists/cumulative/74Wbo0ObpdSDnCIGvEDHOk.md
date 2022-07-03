@@ -4,13 +4,13 @@
 
 > 
 
-41 songs - 2 hr 27 min - [published](https://open.spotify.com/playlist/0ZFtlBg5aqOfn3RFymuKC1)
+41 songs - 2 hr 39 min - [published](https://open.spotify.com/playlist/0ZFtlBg5aqOfn3RFymuKC1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["45"](https://open.spotify.com/track/4t6TpdXtVh5pmwU6qHvSh3) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Handwritten \(Special Edition\)](https://open.spotify.com/album/3r72jse8ygMisgT7LHPTPX) | 3:27 | 2014-03-20 |  |
 | [Awake](https://open.spotify.com/track/7mhDG9QgNYVArjDurXuib1) | [Trash Talk](https://open.spotify.com/artist/4pVWSc4qEC6U3yIjQleh90) | [Awake](https://open.spotify.com/album/3KPaMPkJdmwzx1niiW6X6S) | 1:40 | 2014-03-20 |  |
-| [Beväpna dig med vingar](https://open.spotify.com/track/6HGm0lE0Oh7pdOVBFKdFLY) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Beväpna dig med vingar](https://open.spotify.com/album/2xMq0DLaCb66hJ2pt5Y6m8) | 0:29 | 2014-03-20 |  |
+| [Beväpna dig med vingar](https://open.spotify.com/track/6HGm0lE0Oh7pdOVBFKdFLY) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Beväpna dig med vingar](https://open.spotify.com/album/2xMq0DLaCb66hJ2pt5Y6m8) | 5:16 | 2014-03-20 |  |
 | [Break Your Little Heart](https://open.spotify.com/track/3CzB4Vtjldto22GYhSi8G7) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Nothing Personal](https://open.spotify.com/album/6El6xMovbnBhHOxN2ukzbk) | 2:51 | 2014-03-20 |  |
 | [Bullets \- Nause & Adrian Lux Remix Radio](https://open.spotify.com/track/2D9s9YpKFX6187aI3szOHS) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Bullets \(Remixes\)](https://open.spotify.com/album/0FsTJIbUEXyAbVAyaa7bYS) | 2:37 | 2014-03-20 |  |
 | [Chum](https://open.spotify.com/track/5VgTzt1u4AUp0MTeCybVHE) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Chum](https://open.spotify.com/album/6ofPcUZIVj8YVg82qmMHwz) | 4:07 | 2014-03-20 |  |
@@ -41,7 +41,7 @@
 | [Stanna kvar \(feat\. Damn!\)](https://open.spotify.com/track/7qder7D55IbpPRw7s5aBpm) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe), [Damn!](https://open.spotify.com/artist/5dbNvlczE0ERU3qK30zC1U) | [Stanna kvar](https://open.spotify.com/album/32sCWqRo9QKh5ySrgedJ0c) | 3:21 | 2014-03-20 |  |
 | [Strövtåg i hembygden](https://open.spotify.com/track/5gzslnn0fGkJnMz2IbyMw7) | [Mando Diao](https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND) | [Infruset](https://open.spotify.com/album/5APrSjudFojTohvODIlYl2) | 4:07 | 2014-03-20 |  |
 | [Tears Don't Fall](https://open.spotify.com/track/2UHsGTwOU7P3vFo6bQytlX) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/7dHGyGv1jOupJ52rqjdgkF) | 5:48 | 2014-03-20 |  |
-| [The Doorway](https://open.spotify.com/track/1wcAxYlWOtGChf8GLPCGFk) | [Neurosis](https://open.spotify.com/artist/1KHydwFySZY3YcWyo2q2dF) | [Times of Grace](https://open.spotify.com/album/4YSycbGhpYOCpumCTtJTj9) | 0:29 | 2014-03-20 |  |
+| [The Doorway](https://open.spotify.com/track/1wcAxYlWOtGChf8GLPCGFk) | [Neurosis](https://open.spotify.com/artist/1KHydwFySZY3YcWyo2q2dF) | [Times of Grace](https://open.spotify.com/album/4YSycbGhpYOCpumCTtJTj9) | 7:35 | 2014-03-20 |  |
 | [To Lose My Life](https://open.spotify.com/track/6f21NaHQsFxAUdlGn3Wvuf) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [To Lose My Life ...](https://open.spotify.com/album/1yr9gfvnr5uRvFAxRe7k9y) | 3:11 | 2014-03-20 |  |
 | [Tommy\-Gun](https://open.spotify.com/track/27w0KRafnK4L9ay9bKr0s4) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [Tommy\-Gun](https://open.spotify.com/album/0xfNGvromRqkFNYp0ddJFi) | 2:33 | 2014-03-20 |  |
 | [We Are Here To Make Some Noise](https://open.spotify.com/track/4PCmMG7o6TF6FiMFsk76c0) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [We Are Here To Make Some Noise](https://open.spotify.com/album/7gl6TpQoiaznDiVuJKWB8G) | 3:05 | 2014-03-20 |  |

@@ -4,7 +4,7 @@
 
 > Despite their nomenclature defying eclecticism, these folk inspired artists share a collective penchant for welding experimentation with tradition.
 
-45 songs - 2 hr 42 min - [published](https://open.spotify.com/playlist/5V7jCBLFJXjdWEZa2Mf5PC)
+45 songs - 2 hr 49 min - [published](https://open.spotify.com/playlist/5V7jCBLFJXjdWEZa2Mf5PC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Staynor Family Breakdown](https://open.spotify.com/track/6l97REOOOCdI0ThsO6y1mx) | [Currituck Co.](https://open.spotify.com/artist/24QEdcqKl0QSBcR2fjI5s5) | [Unpacking my library](https://open.spotify.com/album/3o6uCxP8U4eDdj0RdtwVVu) | 2:14 | 2014-01-29 |  |
 | [Teeth](https://open.spotify.com/track/1DojCfXh7T28p81m00Yw0r) | [Thao & Mirah](https://open.spotify.com/artist/3cRmvX2dbq6zPFDCrogUlF) | [Thao & Mirah](https://open.spotify.com/album/4NweXr8UqiBh0PsZj6PQZn) | 2:51 | 2014-02-07 |  |
 | [Tell Avril Lavigne I Never Wanted To Be Her Stupid Boyfriend Anyway](https://open.spotify.com/track/0Ci68VXpXg7Zg21LPhaH6i) | [Ben Marwood](https://open.spotify.com/artist/4TknIW5WDzy5cl11jOPsOi) | [Outside There's A Curse](https://open.spotify.com/album/6lhfdJKQx7AIoVrJOG3MIK) | 2:35 | 2014-01-29 |  |
-| [The Day I Went to Bed for 10 Years](https://open.spotify.com/track/1YUjpja6kT6sbSrW8EZSOm) | [Morton Valence](https://open.spotify.com/artist/0DhoGT0AbtON8ejhJCgwiP) | [Left](https://open.spotify.com/album/4ITDlcWNyYgL2gGknKMeGU) | 0:29 | 2015-01-13 |  |
+| [The Day I Went to Bed for 10 Years](https://open.spotify.com/track/1YUjpja6kT6sbSrW8EZSOm) | [Morton Valence](https://open.spotify.com/artist/0DhoGT0AbtON8ejhJCgwiP) | [Left](https://open.spotify.com/album/4ITDlcWNyYgL2gGknKMeGU) | 7:38 | 2015-01-13 |  |
 | [The Earth Has No Skin](https://open.spotify.com/track/4M4Mhtl5ROk84IXxmXVzoK) | [Jana Hunter](https://open.spotify.com/artist/3iCtPx8eaTKvuu0SujhEg1) | [Blank Unstaring Heirs Of Doom](https://open.spotify.com/album/4sUMgptQb9EuiWYVZvGb4z) | 1:09 | 2014-01-29 |  |
 | [The Patron Saint of Troubled Men](https://open.spotify.com/track/3Tf7EW6DV4CEAU82PBDduX) | [Alexander Tucker](https://open.spotify.com/artist/0FuaxuauyMnzN1OdqkFiJE) | [Old Fog](https://open.spotify.com/album/5ewY9bxYx0ferQvTJpTBdS) | 4:51 | 2014-01-29 |  |
 | [This Is the Way](https://open.spotify.com/track/3wwOIOspMTWmNXW8nUmxyI) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Rejoicing In The Hands](https://open.spotify.com/album/6OAzWuJqxiCFZ0cvqM9EFh) | 2:53 | 2014-02-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > È ora di celebrare, ecco il suono del pride secondo Protopapa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,909 likes - 57 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,926 likes - 57 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 56 | [Ogni pensiero vola](https://open.spotify.com/track/5827FRbvRNgF7F1yNuvUbw) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD), [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1) | [Magica Musica](https://open.spotify.com/album/4Pd36LZx3udvliJX2ukwAB) | 3:53 |
 | 57 | [Quelli che benpensano \(feat\. Riccardo Sinigallia\)](https://open.spotify.com/track/0ekMehNXQgeMJXfCPrlTTf) | [Frankie HI\-NRG MC](https://open.spotify.com/artist/15tvxTXbemwnKQq1aRoPpI), [Riccardo Sinigallia](https://open.spotify.com/artist/43wEeBstQu4lBC5V6oRdNG) | [La Morte Dei Miracoli & Diff\. Coupling](https://open.spotify.com/album/1iMtC9ZMR2zqC74aNP510k) | 4:09 |
 
-Snapshot ID: `MTY1NjcyNjU4NSwwMDAwMDAwMGViMGYyOTA5OTM5ZjQ5ZjNlZTBmMmJhNzI4M2UzNThi`
+Snapshot ID: `MTY1NjgxMzE1NCwwMDAwMDAwMGViMGYyOTA5OTM5ZjQ5ZjNlZTBmMmJhNzI4M2UzNThi`

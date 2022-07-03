@@ -73,7 +73,7 @@
       ],
       "date_added": "2020-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 166360,
       "name": "A Wink and a Smile",
       "url": "https://open.spotify.com/track/5XMJBKj01EU7asjQCAlYhu"
@@ -374,6 +374,24 @@
     },
     {
       "album": {
+        "name": "Flowers - The Hits Collection",
+        "url": "https://open.spotify.com/album/2nJYViXh2aERzlshmKLH43"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Paige",
+          "url": "https://open.spotify.com/artist/26PDtWYDJ1KD0brukKsJH1"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200293,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/5aWy6lwLIkd9F3DS94MID6"
+    },
+    {
+      "album": {
         "name": "Arrival",
         "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
       },
@@ -547,7 +565,7 @@
       ],
       "date_added": "2020-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 138626,
       "name": "For me formidable",
       "url": "https://open.spotify.com/track/7n2XKlgleCSCl94EqgHLs6"
@@ -829,6 +847,24 @@
       "duration_ms": 291293,
       "name": "I Wanna Dance with Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+    },
+    {
+      "album": {
+        "name": "Number 1's: The Jacksons Story",
+        "url": "https://open.spotify.com/album/4hF34rP2aSuQIQ4RAx5mB2"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179613,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/13lgQU9TWNIg6VwvFX2vQi"
     },
     {
       "album": {
@@ -1257,7 +1293,7 @@
       ],
       "date_added": "2020-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 217626,
       "name": "My Baby Just Cares For Me",
       "url": "https://open.spotify.com/track/2n845ZaLOgpNJ3RinFwE1W"
@@ -1351,7 +1387,7 @@
       ],
       "date_added": "2020-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 217466,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/6tl0rKudQ0U0zJy8EqX891"
@@ -1587,7 +1623,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 176200,
       "name": "Sous le ciel de Paris",
       "url": "https://open.spotify.com/track/7A3JZum5yfNq9I3TtFVMMt"
@@ -1605,7 +1641,7 @@
       ],
       "date_added": "2020-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 285373,
       "name": "Stayin' Alive - 2007 Remastered Version Saturday Night Fever",
       "url": "https://open.spotify.com/track/5cP52DlDN9yryuZVQDg3iq"

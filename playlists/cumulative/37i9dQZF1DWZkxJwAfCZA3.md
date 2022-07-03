@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6TshTCYwh9ySzOO6Jy4Ux2"> Maya Jane Coles</a>' favorite tracks\. Updated regularly\. Curated by Maya Jane Coles Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-50 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/0LmubJwhwYXatOoMu2UsGp)
+50 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/0LmubJwhwYXatOoMu2UsGp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Detroit Smash](https://open.spotify.com/track/1JQ86ttoKmzceBC5Zjb43u) | [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Language Of Love](https://open.spotify.com/album/2rQgsu3w89RoMEJtjoxnU9) | 4:57 | 2021-09-16 |  |
 | [Dialectic](https://open.spotify.com/track/1nUfRrP72sNUK9tZXKIUUe) | [Danny Goliger](https://open.spotify.com/artist/58hwRYvd98tYQPesSo9bHi) | [Monday Mango](https://open.spotify.com/album/3XhDiyHzmSkeYanjv1zGIc) | 5:09 | 2021-09-16 |  |
 | [Dismantle \- Andrea Ljekaj Remix](https://open.spotify.com/track/0PLaRECDbA8HraLRyFSomc) | [Mattia Pompeo](https://open.spotify.com/artist/7iOxwgFvxljC089yhrvKvE), [Haptic](https://open.spotify.com/artist/1asA1GU6YiNGNqogpjCjr8), [Andrea Ljekaj](https://open.spotify.com/artist/14snAUWcjIpqqnA1pHZaHh) | [Dismantle](https://open.spotify.com/album/1ocYdadCXBPiD67iv7pbWw) | 6:21 | 2021-09-16 |  |
-| [Duat](https://open.spotify.com/track/5Hyns7jBXNFQ8QU5QSUpWl) | [Introversion](https://open.spotify.com/artist/7qXRl6cKc9zsbV0ekjUQKm) | [Onryo](https://open.spotify.com/album/7FLffI1hePBCjjOi7umUZ1) | 0:29 | 2021-09-16 |  |
+| [Duat](https://open.spotify.com/track/5Hyns7jBXNFQ8QU5QSUpWl) | [Introversion](https://open.spotify.com/artist/7qXRl6cKc9zsbV0ekjUQKm) | [Onryo](https://open.spotify.com/album/7FLffI1hePBCjjOi7umUZ1) | 6:10 | 2021-09-16 |  |
 | [Dubiety](https://open.spotify.com/track/2hwBrj2PqhxgJoi0ccdHld) | [Rifts](https://open.spotify.com/artist/5vDHnSAgdtgDrKHWTfs2Q6), [Dajusch](https://open.spotify.com/artist/43eVCcB2JEmLmw5s4KktWz) | [Dubiety](https://open.spotify.com/album/1CvkLe07Vj3ttjw6u5cVtL) | 6:25 | 2021-09-16 |  |
 | [Find You \- RubaDub](https://open.spotify.com/track/7Mi9HJy7oY42htnxiWe9HD) | [RadioKillaZ](https://open.spotify.com/artist/619gPltOje4v1XU4zZIkrg), [Miss Tantrum](https://open.spotify.com/artist/5St6syTYSUCyu9gawvF1gq), [Tony Vibe](https://open.spotify.com/artist/2JueMH9gaRWar9P5X2gnCL) | [Find You \(RubaDub\)](https://open.spotify.com/album/30aOttmUJVkk4BJ9VDou6h) | 4:34 | 2021-09-16 |  |
 | [Fragma](https://open.spotify.com/track/3tqEGkK8YTvCfUzosEhZbs) | [Literon](https://open.spotify.com/artist/1s9IhdI8fSScFz1FvE16Qm) | [Equinox](https://open.spotify.com/album/4IWwmIwUwjUPKYgivgYZ8n) | 6:42 | 2021-09-16 |  |

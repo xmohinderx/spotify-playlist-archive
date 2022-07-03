@@ -4,7 +4,7 @@
 
 > Energy flow from root to crown\. Balance your doshas with traditional sounds of India.
 
-59 songs - 4 hr 24 min - [published](https://open.spotify.com/playlist/0Z5cpGwOQ6Tu0NXcqKQnWM)
+59 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/0Z5cpGwOQ6Tu0NXcqKQnWM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Hansadhwani Flute Meditation](https://open.spotify.com/track/4BWaGsqpk4J1BtF8yCdQgH) | [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0) | [Hansadhwani Flute Meditation](https://open.spotify.com/album/2LtYdTh9JEqYk1QJ6E6JEp) | 2:37 | 2022-05-13 |  |
 | [Healing State \(528 Hz\)](https://open.spotify.com/track/1sW6M4j9gYX3OaJQFPVtIA) | [Modern Headspace](https://open.spotify.com/artist/1R9pWwzgOIsl5XMI4WCBRH) | [Healing State \(528 Hz\)](https://open.spotify.com/album/0cOMbJ1RBe4rhgwFkxnnDt) | 5:07 | 2022-05-13 |  |
 | [Journey to Sedna](https://open.spotify.com/track/2c3K1MgWaia5FlzbRBwLnb) | [Baluji Shrivastav](https://open.spotify.com/artist/6W1YoudRbtmvymApgIb238) | [Best of Baluji Shrivastav](https://open.spotify.com/album/3dRqYrgTY9N0AdfP8LAfJQ) | 4:44 | 2022-05-13 |  |
-| [Meditation Mornings](https://open.spotify.com/track/5W4ANWiWKDqXSnAy5OMY7f) | [Zensi Rohr](https://open.spotify.com/artist/0hNw8GAS4OY89yOgEwj73C) | [Meditation Mornings](https://open.spotify.com/album/1zB1RPGJ3CromWAHcluklj) | 0:29 | 2022-05-13 |  |
+| [Meditation Mornings](https://open.spotify.com/track/5W4ANWiWKDqXSnAy5OMY7f) | [Zensi Rohr](https://open.spotify.com/artist/0hNw8GAS4OY89yOgEwj73C) | [Meditation Mornings](https://open.spotify.com/album/1zB1RPGJ3CromWAHcluklj) | 5:14 | 2022-05-13 |  |
 | [Meditations Third Eye Chakra](https://open.spotify.com/track/1TUifxkD9ZLVQupgC941Qm) | [Galena](https://open.spotify.com/artist/4GAMegno5DQ6gPus0t890O) | [Meditation Calming Moments](https://open.spotify.com/album/4osfgjir0tiXmUy3kFLwHT) | 2:00 | 2022-05-13 |  |
 | [Meditação Com Sussurros Curativos Asmr](https://open.spotify.com/track/6h2qQOW2ea12UCbU7IXxOK) | [Alan Baratieri](https://open.spotify.com/artist/1FbUxr0wVOPPMFPq9qjv0w), [Músicas Para Relaxar](https://open.spotify.com/artist/1GpHohMWr8ZzO6CkaKOC6G) | [Música para Meditação](https://open.spotify.com/album/2Fw27HBf4XBVIah908hWKn) | 6:33 | 2022-05-13 |  |
 | [Memory Ocean](https://open.spotify.com/track/4BGxF3vzN2eQ3EMz4ApThm) | [William Joe Ware](https://open.spotify.com/artist/4sdgGI2VBvg1l0APfrbhHm) | [Memory Ocean](https://open.spotify.com/album/19F44nYOaQGepqwD9QsJXa) | 4:32 | 2022-05-13 |  |
@@ -57,7 +57,7 @@
 | [Spiritual Journey \(174 HZ Music / Solfeggio Frequencies\)](https://open.spotify.com/track/6AbKLbVBoWDYvIFHWLQALe) | [Emre Günay](https://open.spotify.com/artist/25xzu9Ch95wnUGFagBDjix) | [Spiritual Journey \(174 HZ Music / Solfeggio Frequencies\)](https://open.spotify.com/album/1KvIk9EAknrzb8D77qLlzg) | 3:20 | 2022-05-13 |  |
 | [Sublime](https://open.spotify.com/track/5vu7R3ODOAnvEAlJeFiVWv) | [Sounds of Optimism](https://open.spotify.com/artist/4NBmnaiMNjIDJLGSMuTqC6), [Deepesh Sanmal](https://open.spotify.com/artist/3lnLPZXHgbxQVzCVLuAw7O) | [Sublime](https://open.spotify.com/album/2kZo3OtxlYeAG4NaG1QHOZ) | 3:53 | 2022-05-13 |  |
 | [Sweven](https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld) | [Andy Kamman](https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y) | [Sweven](https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS) | 3:13 | 2022-05-13 |  |
-| [The Calm Inside](https://open.spotify.com/track/5K8PFOnIXazyzWmWuUGVJr) | [Zensi Rohr](https://open.spotify.com/artist/0hNw8GAS4OY89yOgEwj73C) | [Meditation Mornings](https://open.spotify.com/album/1zB1RPGJ3CromWAHcluklj) | 0:29 | 2022-05-13 |  |
+| [The Calm Inside](https://open.spotify.com/track/5K8PFOnIXazyzWmWuUGVJr) | [Zensi Rohr](https://open.spotify.com/artist/0hNw8GAS4OY89yOgEwj73C) | [Meditation Mornings](https://open.spotify.com/album/1zB1RPGJ3CromWAHcluklj) | 5:14 | 2022-05-13 |  |
 | [The Child Within \- Astropilot Remix](https://open.spotify.com/track/0WmPkg7qg9NMRCvDbTeiGj) | [Kaya Project](https://open.spotify.com/artist/4TFmgYfhLJxF6nL8WDSnWV), [Pooja Tiwari](https://open.spotify.com/artist/5MDvAeupq312AkEWTGblZf), [Fatou Gozlan](https://open.spotify.com/artist/5uE7jx3Z4cbh2OzuG6aLw6), [AstroPilot](https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws) | [The Child Within \(Astropilot Remix\)](https://open.spotify.com/album/6Gy9I2bThPV5dp1Hrsn5bQ) | 5:28 | 2022-05-13 |  |
 | [The Child Within \- The 'Seb Meets Astropilot' Ambient Mix](https://open.spotify.com/track/4PDnVvoXjz4MTMHehCWxgF) | [Kaya Project](https://open.spotify.com/artist/4TFmgYfhLJxF6nL8WDSnWV), [Pooja Tiwari](https://open.spotify.com/artist/5MDvAeupq312AkEWTGblZf), [Fatou Gozlan](https://open.spotify.com/artist/5uE7jx3Z4cbh2OzuG6aLw6), [Seb Taylor](https://open.spotify.com/artist/2OvXxjn0r118YKl6bR43ty), [AstroPilot](https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws) | [The Child Within \(the 'Seb Meets Astropilot' Ambient Mix\)](https://open.spotify.com/album/2HAHOMAASHby5AM4HbCCyv) | 4:40 | 2022-05-13 |  |
 | [The Tower of Embellion](https://open.spotify.com/track/76RktDCi1rVj63vpt9u5F0) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Winds of Haryana](https://open.spotify.com/album/1RR1WACNqmE89FmqtAUW07) | 2:56 | 2022-05-13 |  |

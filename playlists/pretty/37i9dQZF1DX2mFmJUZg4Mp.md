@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mFmJUZg4Mp.md) - [plain]
 
 > Soothing sounds of gentle rains.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,194 likes - 209 songs - 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,228 likes - 209 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mFmJUZg4Mp.md) - [plain]
 | 84 | [Dream Rain](https://open.spotify.com/track/4nmDCD7xB5mBFsupQxcx8M) | [24H Rain Sounds](https://open.spotify.com/artist/3Gx6UNiTUubJFQzUyUjKQW) | [Dream Rain](https://open.spotify.com/album/1J0soxGBVkV0duPq6dIZ5R) | 2:47 |
 | 85 | [Message Of Rain](https://open.spotify.com/track/12qm8piXa60zlmygYDKOlP) | [Key Humphrey](https://open.spotify.com/artist/4BJ8h7BuQ1DYcEYrpTFloW) | [Rainward](https://open.spotify.com/album/1qeUd3oHip0fYm30FvwKzG) | 2:24 |
 | 86 | [Rainy Hour](https://open.spotify.com/track/7GO0aybLNh8Rd7gcfZIuT0) | [Skyyy](https://open.spotify.com/artist/1d1rh6BlGzeXaj67hVeDXe) | [Tears](https://open.spotify.com/album/1EuUFN58BKOLkYDMru8kVh) | 2:35 |
-| 87 | [I Love Rain](https://open.spotify.com/track/4AN4dmPzeyPtA9DQjQ6u4z) | [Love Nature](https://open.spotify.com/artist/62N2aSzYqfNISn3LS3xQ01) | [Lovely Rain](https://open.spotify.com/album/39nbGbuy1Ly2xA06DV7wb3) | 0:29 |
+| 87 | [I Love Rain](https://open.spotify.com/track/4AN4dmPzeyPtA9DQjQ6u4z) | [Love Nature](https://open.spotify.com/artist/62N2aSzYqfNISn3LS3xQ01) | [Lovely Rain](https://open.spotify.com/album/39nbGbuy1Ly2xA06DV7wb3) | 2:42 |
 | 88 | [Rainy Mood](https://open.spotify.com/track/5jyrtNJBcaFkNyS4yPixkI) | [Sleepy Mood](https://open.spotify.com/artist/3HkwYBXLxmRKfWOkaknVQ7) | [Universe](https://open.spotify.com/album/0oI1JYlTYpbR1ewBStl7Qs) | 2:26 |
 | 89 | [Relaxation Rain Sound](https://open.spotify.com/track/3syQvNoSeSrEaanClGFxgB) | [Rainfall Place](https://open.spotify.com/artist/12VKP0dcM6h7NRx0UPgqXX) | [Rainfall Place](https://open.spotify.com/album/0XYQjSIyavsYfrPr7XiUsN) | 2:27 |
 | 90 | [Eye Of The Storm](https://open.spotify.com/track/6pxSZmtSm4GygcOKcxkV5D) | [Thunder In Paradise](https://open.spotify.com/artist/2oWN3OXJUk1mh7CAhkJeqX) | [Episode One](https://open.spotify.com/album/0LmoB3rBXBGCdEDquHXKmA) | 3:46 |

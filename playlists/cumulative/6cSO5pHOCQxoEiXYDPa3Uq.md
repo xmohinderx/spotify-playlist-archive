@@ -4,7 +4,7 @@
 
 > Metaltown är en av Sveriges största och mest populära hårdrock/metal\-festivaler\. Årets festival äger rum den 15 \- 16 juni i Göteborg\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
-45 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/7w1RhMo2bdWKifIAkQY2zW)
+45 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/7w1RhMo2bdWKifIAkQY2zW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,11 +40,11 @@
 | [No Reflection](https://open.spotify.com/track/10Ix2xSUgmFQ3tSOHFvIb0) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [No Reflection](https://open.spotify.com/album/0Mgf0SLqFFRY0JDPLdJJql) | 4:36 | 2012-05-08 |  |
 | [Oroborus](https://open.spotify.com/track/6WUNfk8ULz9ZdmC9f315Qp) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The way of all flesh](https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2) | 5:21 | 2012-05-08 |  |
 | [Punish My Heaven](https://open.spotify.com/track/21mf3kbUnZromBzFL9mpQH) | [Dark Tranquillity](https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O) | [The Gallery](https://open.spotify.com/album/6pt7bpMweYL1B91ARfCNec) | 4:46 | 2012-05-08 |  |
-| [Raining Blood](https://open.spotify.com/track/0YjAFxSSrQVBgXgAXx0htq) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Reign In Blood](https://open.spotify.com/album/4lHDNW1MxuRftW7zfQoIIK) | 0:29 | 2012-05-08 |  |
+| [Raining Blood](https://open.spotify.com/track/0YjAFxSSrQVBgXgAXx0htq) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Reign In Blood](https://open.spotify.com/album/4lHDNW1MxuRftW7zfQoIIK) | 4:15 | 2012-05-08 |  |
 | [Redneck](https://open.spotify.com/track/6Q5j7UxkHMETQrn1ZCuoCE) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament](https://open.spotify.com/album/1AavVaydRatsuotKaPKpPP) | 3:40 | 2012-05-08 |  |
 | [Return To The Morbid Reich](https://open.spotify.com/track/7n2YliG5164ZfR5TJ9RPNL) | [Vader](https://open.spotify.com/artist/2s5DSt9VBNzAn2TbtDHzFZ) | [Welcome To The Morbid Reich](https://open.spotify.com/album/1PyB8ux0o62beslkYSNLDy) | 3:26 | 2012-05-08 |  |
 | [The Beautiful People](https://open.spotify.com/track/3BzgWts3YiepIcVcZZfQWX) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Lost & Found: Marilyn Manson](https://open.spotify.com/album/5mND3E6sjnHLWyf6OHN4tb) | 3:42 | 2012-05-08 |  |
-| [The Deceiver](https://open.spotify.com/track/2Xecssw8Pt8JDHW64zSIzK) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Born of Sirius](https://open.spotify.com/album/08ncjQXYQlmpHGM7cuJryd) | 0:29 | 2012-05-14 |  |
+| [The Deceiver](https://open.spotify.com/track/2Xecssw8Pt8JDHW64zSIzK) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Born of Sirius](https://open.spotify.com/album/08ncjQXYQlmpHGM7cuJryd) | 4:44 | 2012-05-14 |  |
 | [The Facebreaker](https://open.spotify.com/track/3D4SuZqEmaStOAY2mxWWdw) | [Dethrone](https://open.spotify.com/artist/23fPz5fTWJyuxC4Wve21sH) | [Dethrone 2011](https://open.spotify.com/album/5xKwbkv6myelqtKrOE616t) | 3:01 | 2012-05-08 |  |
 | [To Enter Pagan](https://open.spotify.com/track/6BxCjR1BHptiND83zsB8NO) | [Primordial](https://open.spotify.com/artist/0BZr6WHaejNA63uhZZZZek) | [Dark Romanticism](https://open.spotify.com/album/5rZPgNJthtz7CjWTSws8MK) | 5:49 | 2012-05-08 |  |
 | [Trenches](https://open.spotify.com/track/2hHQvyvG1Dx2BaJC6G1lWp) | [Aura Noir](https://open.spotify.com/artist/4S2qftLTvdEFvIPPTYmeg6) | [Out to Die](https://open.spotify.com/album/5pX17FGtTjS9QxjxD28fG0) | 3:57 | 2012-05-08 |  |

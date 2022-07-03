@@ -4,7 +4,7 @@
 
 > 
 
-22 songs - 1 hr 31 min - [published](https://open.spotify.com/playlist/2UD9i4Ek9aFQQRZj9u3Hgf)
+22 songs - 1 hr 36 min - [published](https://open.spotify.com/playlist/2UD9i4Ek9aFQQRZj9u3Hgf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Serpent Sermon](https://open.spotify.com/track/48jJnRqWD2exUMCvLibQU4) | [Marduk](https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH) | [Serpent Sermon](https://open.spotify.com/album/0iqVJWBKkNBwQnUL3NZIgP) | 4:38 | 2014-03-20 |  |
 | [Snuff](https://open.spotify.com/track/3jHPrXnmszCCJq3BVZaVZb) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Snuff](https://open.spotify.com/album/01SqrEBVeyStPjltxoyNDt) | 4:36 | 2014-03-20 |  |
 | [The Parting](https://open.spotify.com/track/0KP0W363ctVBf8qce8h0IQ) | [Katatonia](https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm) | [Dead End Kings](https://open.spotify.com/album/0ysVHx3VsjgZEvw2bSJ7Vy) | 4:52 | 2014-03-20 |  |
-| [The Veil of Isis](https://open.spotify.com/track/01fbg0DMFY4N0wWNOjjTyC) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Apocryphon](https://open.spotify.com/album/7bvcJbD609wX8vjbtOHv2m) | 0:29 | 2014-03-20 |  |
+| [The Veil of Isis](https://open.spotify.com/track/01fbg0DMFY4N0wWNOjjTyC) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Apocryphon](https://open.spotify.com/album/7bvcJbD609wX8vjbtOHv2m) | 5:32 | 2014-03-20 |  |
 | [Twisted Transistor](https://open.spotify.com/track/02NcZ0ugRA786A64bnsnnc) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Twisted Transistor](https://open.spotify.com/album/4i7SWqzK0NC8pW1f0qWxSb) | 3:08 | 2014-03-20 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

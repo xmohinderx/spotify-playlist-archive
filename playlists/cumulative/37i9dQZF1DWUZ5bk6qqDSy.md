@@ -4,7 +4,7 @@
 
 > Welcome to the soothing hum...
 
-361 songs - 15 hr 25 min - [published](https://open.spotify.com/playlist/0WGVCf3RGwx6VHPeKEvwVo)
+361 songs - 15 hr 27 min - [published](https://open.spotify.com/playlist/0WGVCf3RGwx6VHPeKEvwVo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,7 +348,7 @@
 | [White Noise Sound](https://open.spotify.com/track/7Fo4wTEfnJj64uH8qM6aSV) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [White Noise Sounds](https://open.spotify.com/album/14k73I1auO3UBMKCZ1hzNQ) | 3:48 | 2021-12-01 | 2022-06-10 |
 | [White Noise Steady](https://open.spotify.com/track/1uuknnayMGMgrlF7Z3TASV) | [89 Degrees](https://open.spotify.com/artist/08tojUw02w3tPLuknZGqNR) | [White Noise Road](https://open.spotify.com/album/65ZsZ7FX7pdr4XCTFCovdf) | 1:44 | 2021-12-01 |  |
 | [White Noise Theme](https://open.spotify.com/track/1unaFsNuBizFWSv9zJ6Lyv) | [Enhanced Audio](https://open.spotify.com/artist/25y0vgD4fPJCkjynE2K02m) | [White Noise Theme](https://open.spotify.com/album/4QktoYkLK39QWoOlu9YckX) | 2:33 | 2022-04-27 |  |
-| [White Noise through the Air](https://open.spotify.com/track/2QH9DwfG1egOFImw7ybYFN) | [White Wall Sound](https://open.spotify.com/artist/5gFVFzfnyHbq9xibfWKrzs) | [White Noise for Bedtime](https://open.spotify.com/album/53Uwinf0CFMlIs6b10QLO6) | 0:29 | 2021-12-01 |  |
+| [White Noise through the Air](https://open.spotify.com/track/2QH9DwfG1egOFImw7ybYFN) | [White Wall Sound](https://open.spotify.com/artist/5gFVFzfnyHbq9xibfWKrzs) | [White Noise for Bedtime](https://open.spotify.com/album/53Uwinf0CFMlIs6b10QLO6) | 2:38 | 2021-12-01 |  |
 | [White Noise Tiefschlaf](https://open.spotify.com/track/3tCj4PMMeTC5FRYS4eKTuW) | [Sleep Sleep Sleep](https://open.spotify.com/artist/1OqVbmth0QR4OXPVPmIEyi) | [White Noise Tranquility](https://open.spotify.com/album/0MB5igPz2WRNm5iz3WvEW7) | 2:52 | 2021-12-01 |  |
 | [White Noise Tones](https://open.spotify.com/track/2iWvpxBQ66umocAYiofQqJ) | [CLN Mood](https://open.spotify.com/artist/11ApL3j33KVprLZCcAMvxd) | [Soft Noise & Sound](https://open.spotify.com/album/76oyIUtGUoMcPeRmDBdbDU) | 2:13 | 2022-04-27 | 2022-06-10 |
 | [White Noise Vibrations](https://open.spotify.com/track/7kqyhhEzhkR4aULBDV80dI) | [Scientists of Noise](https://open.spotify.com/artist/14XJ27kUY0HXLJFApJBHRA) | [White Noise Vibrations](https://open.spotify.com/album/4oaLIkI9VTLCZeHhhwu8F0) | 4:12 | 2022-04-27 |  |

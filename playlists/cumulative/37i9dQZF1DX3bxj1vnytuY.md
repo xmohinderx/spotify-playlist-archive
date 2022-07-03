@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-103 songs - 10 hr 32 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
+103 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Cigano](https://open.spotify.com/track/1to9O59JU5BmGDzjQrzAZy) | [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg), [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Cigano](https://open.spotify.com/album/3RrYe0uMItWJBy2E8rW3Ta) | 6:14 | 2022-04-13 |  |
 | [Clocks](https://open.spotify.com/track/7GNYwsaMiYdFu5IRGHAZZw) | [Rancido](https://open.spotify.com/artist/0wtDZVdBWiPXM4gQt3ZNUq) | [Clocks](https://open.spotify.com/album/1ZuvhE9UsqjQnR56Lzk0Qy) | 6:02 | 2022-04-13 |  |
 | [Cumbé \- Cuzco Mix](https://open.spotify.com/track/6XUrR2Es01NOJxDueRRJSC) | [Kintar](https://open.spotify.com/artist/4WZgFtQLzzmubwRq44JOjT), [Medusa Odyssey](https://open.spotify.com/artist/1P0GxzCg57SIrXtBnR26UO), [Bahramji](https://open.spotify.com/artist/1TRLkR7OoXzEwUckYwHt5B) | [Cumbé EP](https://open.spotify.com/album/4KdhLnoEFxGDQtWq4Lu2wL) | 7:26 | 2022-04-13 |  |
-| [Delia](https://open.spotify.com/track/2cDCvD1ao7PRs83CzzEgzr) | [Sharapov](https://open.spotify.com/artist/0I3DQVcZQqBIIVxNtzqaVW), [Patrick Hofmann](https://open.spotify.com/artist/5rDo6U4yJGDuypi7G25hvx) | [Delia](https://open.spotify.com/album/0alsKMzOPqOzgmExMxi19b) | 0:29 | 2022-04-13 |  |
+| [Delia](https://open.spotify.com/track/2cDCvD1ao7PRs83CzzEgzr) | [Sharapov](https://open.spotify.com/artist/0I3DQVcZQqBIIVxNtzqaVW), [Patrick Hofmann](https://open.spotify.com/artist/5rDo6U4yJGDuypi7G25hvx) | [Delia](https://open.spotify.com/album/0alsKMzOPqOzgmExMxi19b) | 6:02 | 2022-04-13 |  |
 | [Demedin mi ? \- Billy Esteban Remix](https://open.spotify.com/track/6JoBxTueW3TfrpydG0SQhY) | [Majnoon](https://open.spotify.com/artist/1eeh7aqCuDjuEvPXhQSF1h), [Aliye Mutlu](https://open.spotify.com/artist/4d6HLW1woZHaPab3eJpiyA), [Erdi Arslan](https://open.spotify.com/artist/1m7nqWkenNyuzsBFWpNmth), [Billy Esteban](https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0) | [Ethno Trip](https://open.spotify.com/album/3pNmsQTC4s1IcxlaRAYoGJ) | 5:18 | 2022-04-13 |  |
 | [Desert Hill](https://open.spotify.com/track/5CQv5iDiACr1xa8TQ1FsI8) | [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1), [Deniz Mahir Kartal](https://open.spotify.com/artist/02Bve0yqMNTVoUOn2L8tG2) | [Odin](https://open.spotify.com/album/4TdK5u3gcR2tRDxIaMBkBW) | 6:42 | 2022-04-13 |  |
 | [Devran](https://open.spotify.com/track/1Br0AatwWHo8JojDNAVMWq) | [KHAIKHAN](https://open.spotify.com/artist/0EhNqmWsXRucbAgAKfac75), [Mtu](https://open.spotify.com/artist/6Ex7C22f4WX3VqVRNriiXf) | [Anadolu](https://open.spotify.com/album/5Sj7kUvO8nrmWbQDFv71MV) | 6:47 | 2022-06-27 |  |
@@ -93,7 +93,7 @@
 | [Teak \- Omerar Nanda Remix](https://open.spotify.com/track/0uNqMpO7ClAfIl1Van5RpT) | [Stefan Obermaier](https://open.spotify.com/artist/7HV2r5sspVCo9LVNv5TiHf), [Omerar Nanda](https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl) | [Teak](https://open.spotify.com/album/3pdVTHeoE6XsBd1rWFEOUr) | 6:38 | 2022-04-13 |  |
 | [Terravita](https://open.spotify.com/track/5zkW6ZBqED2TWNRjcZLS5n) | [Minörs](https://open.spotify.com/artist/26ZaXcjW7CImOrTU2jxZL3) | [Terravita](https://open.spotify.com/album/3KCQr6cXvICTcTNnXdhEQe) | 6:57 | 2022-04-13 |  |
 | [The Call](https://open.spotify.com/track/2HGPDuJuzcZcwWUbQBTtHO) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P), [Elly Ball](https://open.spotify.com/artist/7HXdeGBPEYJDB97Yy1sHMH) | [The Call](https://open.spotify.com/album/43AbiDnZdsiZmWc2ZuqMKb) | 6:40 | 2022-04-13 |  |
-| [The Calling](https://open.spotify.com/track/4nS46Jdr0O9VCg8yDCIK7o) | [Tyrvnt](https://open.spotify.com/artist/00OZzRaVY62IxZ2kNtCz2J) | [The Calling](https://open.spotify.com/album/7KtI3AXJxhKdcHaNYJFndy) | 0:29 | 2022-04-13 |  |
+| [The Calling](https://open.spotify.com/track/4nS46Jdr0O9VCg8yDCIK7o) | [Tyrvnt](https://open.spotify.com/artist/00OZzRaVY62IxZ2kNtCz2J) | [The Calling](https://open.spotify.com/album/7KtI3AXJxhKdcHaNYJFndy) | 4:34 | 2022-04-13 |  |
 | [The Child Within \- Tenet Audio Extended Remix](https://open.spotify.com/track/1OeJWzCmPPR3MlfVJTLUeD) | [Kaya Project](https://open.spotify.com/artist/4TFmgYfhLJxF6nL8WDSnWV), [Tenet Audio](https://open.spotify.com/artist/0e0nAJW9Y0XenGy2XPJD2n) | [The Child Within \(TENET AUDIO Remix\)](https://open.spotify.com/album/4GPatUICLtLqqgSbfK0VHI) | 6:27 | 2022-04-13 |  |
 | [The Clarinetto](https://open.spotify.com/track/7AVMAZ5Geol0JQpgBYD771) | [Lele Cecchini](https://open.spotify.com/artist/2lvhSvoriYrwIlGJMTwj9E), [KÖNI](https://open.spotify.com/artist/3wGOQXqAdsWkgf3PtuRY6Q) | [The Clarinetto](https://open.spotify.com/album/635atptPBSgJZjOnYtcssp) | 4:43 | 2022-06-23 |  |
 | [The Lamp](https://open.spotify.com/track/4dIrJCIZr1IVzpYPXhYtO8) | [Taleman](https://open.spotify.com/artist/1SwnQqiR6dt2eBJg9hIVIu) | [15 Years of Akbal Music, Pt\. 1](https://open.spotify.com/album/1woMUulpCuaz2MEuWl5H7S) | 8:19 | 2022-04-13 |  |

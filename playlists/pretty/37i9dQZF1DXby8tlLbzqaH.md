@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby8tlLbzqaH.md) - [plain]
 
 > White noise to help babies fall asleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,696 likes - 197 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,747 likes - 197 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby8tlLbzqaH.md) - [plain]
 | 121 | [White Shapes](https://open.spotify.com/track/3xDinRDqNsKIsdBfnhXHSs) | [XYK east](https://open.spotify.com/artist/1W0DuOKAU4Lq9Ke0dj1bds) | [White Shapes](https://open.spotify.com/album/0ma1vhytAU2rsktMovPJlw) | 1:49 |
 | 122 | [Fan](https://open.spotify.com/track/66sCxW9FxEbL0gQzeMVg4G) | [Dream Shard](https://open.spotify.com/artist/3EUg5IOxGnBPtjK0uzMxcJ) | [Baby Sleep Pink Noise](https://open.spotify.com/album/2Wv2eQ2Zs6bQm8DOC1Cxng) | 2:14 |
 | 123 | [Hemelse Witte Ruis](https://open.spotify.com/track/3nRv6eO0ZxOnwr8n62QTvH) | [Audio signaal](https://open.spotify.com/artist/0pv53NCu9RJRbpPDcqiRcI) | [Stille Witte Ruis](https://open.spotify.com/album/2O6y5VNrswpWapUGZ3yftm) | 3:07 |
-| 124 | [White Noise through the Air](https://open.spotify.com/track/2QH9DwfG1egOFImw7ybYFN) | [White Wall Sound](https://open.spotify.com/artist/5gFVFzfnyHbq9xibfWKrzs) | [White Noise for Bedtime](https://open.spotify.com/album/53Uwinf0CFMlIs6b10QLO6) | 0:29 |
+| 124 | [White Noise through the Air](https://open.spotify.com/track/2QH9DwfG1egOFImw7ybYFN) | [White Wall Sound](https://open.spotify.com/artist/5gFVFzfnyHbq9xibfWKrzs) | [White Noise for Bedtime](https://open.spotify.com/album/53Uwinf0CFMlIs6b10QLO6) | 2:38 |
 | 125 | [White Noise with 2 Peaks](https://open.spotify.com/track/4uG8hIsqnoFliHs8UmfW5E) | [Xella Machina](https://open.spotify.com/artist/66uHiAJ1D3MCLQmX9xYJqI) | [White Noise Grotte](https://open.spotify.com/album/5D8dgeJHUpfnZwx0sNPA2W) | 3:23 |
 | 126 | [Doze Off \- Seamless](https://open.spotify.com/track/1L3BdJ2gxTUFHfaWF1Vtwl) | [Static Harmony](https://open.spotify.com/artist/18D9GiQa6S4cFsu6ntLy3N) | [Doze Off](https://open.spotify.com/album/4884o4Sx8RfATgCaBeezkB) | 2:48 |
 | 127 | [Brown Noise Bliss](https://open.spotify.com/track/4gOJO81XShbwvvLfmeLgoT) | [Inlet Noise](https://open.spotify.com/artist/5dWOqC79FiRtKwb0FEQAvf) | [Brown Noise Bliss](https://open.spotify.com/album/4gcfb3lTsgphYvQXDGKVtI) | 3:07 |

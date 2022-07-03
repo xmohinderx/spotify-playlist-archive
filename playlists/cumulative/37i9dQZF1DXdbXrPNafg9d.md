@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Broken Bells
 
-3,826 songs - 9 day 9 hr 14 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
+3,826 songs - 9 day 9 hr 17 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2136,7 +2136,7 @@
 | [Medicine](https://open.spotify.com/track/0CWvHfEwbeBVN0RViTybvL) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle) | 3:49 | 2021-05-22 | 2021-07-17 |
 | [Medicine](https://open.spotify.com/track/1IiJhFnNnvrq4k3x76Mh2n) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Medicine](https://open.spotify.com/album/0eG4o4GCcqspRSVHWbgUW4) | 4:00 | 2020-09-04 | 2020-10-16 |
 | [meek](https://open.spotify.com/track/6rehPCTKlWAAHF9IlZUozx) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [meek](https://open.spotify.com/album/75XQeqVrKbmFkH9ObgDg6u) | 3:17 | 2020-02-14 | 2020-02-28 |
-| [Meeting Eddie Smith](https://open.spotify.com/track/41MwuIrOmez8k0X5mH9emb) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Meeting Eddie Smith](https://open.spotify.com/album/0Zzyns4s6SphSyfDrg60cC) | 0:29 | 2022-06-24 |  |
+| [Meeting Eddie Smith](https://open.spotify.com/track/41MwuIrOmez8k0X5mH9emb) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Meeting Eddie Smith](https://open.spotify.com/album/0Zzyns4s6SphSyfDrg60cC) | 3:38 | 2022-06-24 |  |
 | [Megaton Mile](https://open.spotify.com/track/6kSKUud2mWfzByUSEy2Z2n) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Megaton Mile](https://open.spotify.com/album/6MMsCJXLnSbo1IPOAIj6oc) | 4:26 | 2019-05-26\* | 2019-06-15 |
 | [Melty Caramelo](https://open.spotify.com/track/4zULZ4iMeWkhmAipo105Il) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Melty Caramelo](https://open.spotify.com/album/7lt6UZRtd3FPSTtBNqXgqY) | 3:56 | 2019-05-31 | 2019-08-13 |
 | [Memorial](https://open.spotify.com/track/1sXdly4AscLh38opR7AkAN) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Memorial](https://open.spotify.com/album/2442xkROtnAcVWFuWQgRTE) | 4:38 | 2019-08-02 | 2019-08-30 |

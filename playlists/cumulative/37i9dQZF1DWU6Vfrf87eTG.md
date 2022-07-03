@@ -4,11 +4,11 @@
 
 > Zone in \(or out\) with ethereal, meditative instrumental indie folk and acoustic tracks.
 
-115 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/1Tx1MEjzWZkrD2HrMsUqGL)
+115 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/1Tx1MEjzWZkrD2HrMsUqGL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Prairie Tale](https://open.spotify.com/track/3a9w7n6rSXCBe0PVnk208y) | [King Creosote](https://open.spotify.com/artist/5SP6T04F8Ic9oftMVfdKkp) | [From Scotland With Love](https://open.spotify.com/album/0rXZ7L03XlBerKk7eP7Phw) | 0:29 | 2020-07-13 |  |
+| [A Prairie Tale](https://open.spotify.com/track/3a9w7n6rSXCBe0PVnk208y) | [King Creosote](https://open.spotify.com/artist/5SP6T04F8Ic9oftMVfdKkp) | [From Scotland With Love](https://open.spotify.com/album/0rXZ7L03XlBerKk7eP7Phw) | 1:36 | 2020-07-13 |  |
 | [Across White Oak Mountain](https://open.spotify.com/track/6I7U9PRJPSLrmnieJA4B8U) | [Chuck Johnson](https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f) | [Crows In The Basilica](https://open.spotify.com/album/6haBtUE6M80jxNgGFRgcFw) | 3:50 | 2020-07-13 |  |
 | [All Along the Watchtower \(feat\. Gabe Witcher\) \- From Sons of Anarchy \(Instrumental\)](https://open.spotify.com/track/7gP40cgwzUeDkypRwpSNrf) | [The Forest Rangers](https://open.spotify.com/artist/46xMgypLHP8GNsYME3vRnV), [Gabe Witcher](https://open.spotify.com/artist/3MjRrLK3oWzDniKxjbKPYm) | [All Along the Watchtower \(feat\. Gabe Witcher\) \[From Sons of Anarchy \(Instrumental\)\]](https://open.spotify.com/album/2NkTkCkwPwGrljRyMZnA2q) | 2:52 | 2020-07-13 |  |
 | [Alpine Star](https://open.spotify.com/track/3QDwa1AZKMBPrEMmme8gXo) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Goes West](https://open.spotify.com/album/0JbGIBNY8NDj1rpV6BAOCD) | 5:26 | 2020-07-13 |  |

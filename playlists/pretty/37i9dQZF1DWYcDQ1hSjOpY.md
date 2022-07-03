@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,591,021 likes - 274 songs - 13 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,591,653 likes - 274 songs - 13 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -275,7 +275,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 265 | [Peace and Quiet](https://open.spotify.com/track/6fKAXHHXXu0IrgNbOASoFS) | [Zen Atlas](https://open.spotify.com/artist/6KjzMG22RTsrSCmy71Ok0N) | [Peace and Quiet](https://open.spotify.com/album/1VA2ltU2TnJ3uAFpXG1DZ0) | 3:30 |
 | 266 | [Self\-Reflection](https://open.spotify.com/track/5zeo2UddrkVqbHg7dt3jYb) | [Apech](https://open.spotify.com/artist/5SPUYIgR6Gpno3V0FACiRf) | [Self\-Reflection](https://open.spotify.com/album/10khRZPxXlxObbjZGHWLpV) | 2:50 |
 | 267 | [Ethereal](https://open.spotify.com/track/0e3Pzob0dTYuUoZTs4iwpr) | [Threedust](https://open.spotify.com/artist/6340hzyqmfpcSbPZLFC1Gf), [Concept15](https://open.spotify.com/artist/4wZuWc5z66z9KM6Idhgpa3) | [Ethereal](https://open.spotify.com/album/4hEYjwAULY6jI7LoNkfRxI) | 2:32 |
-| 268 | [Mission Control](https://open.spotify.com/track/12qiIPwFmB7J7Ufmru88XD) | [Astor Petra](https://open.spotify.com/artist/5nhT90eO0VFPDhiBS7tuOE) | [One Astronaut](https://open.spotify.com/album/3FXc1aNU0tqaoOy0md8GZS) | 0:29 |
+| 268 | [Mission Control](https://open.spotify.com/track/12qiIPwFmB7J7Ufmru88XD) | [Astor Petra](https://open.spotify.com/artist/5nhT90eO0VFPDhiBS7tuOE) | [One Astronaut](https://open.spotify.com/album/3FXc1aNU0tqaoOy0md8GZS) | 3:12 |
 | 269 | [Inside Preciousness](https://open.spotify.com/track/2eelYEZLIgBo2teCZ1HoMg) | [Mindezer](https://open.spotify.com/artist/7ob7fE7T9MFx8x6YvaxStb) | [Continuum](https://open.spotify.com/album/1HRBd6bU9JxHmzGOHX2HJn) | 3:51 |
 | 270 | [Deep Dive](https://open.spotify.com/track/5XpGnwCqMlGFi1x4YdlKFE) | [Ambienetic](https://open.spotify.com/artist/68sYM79L5H6v9c3x6IC0XD) | [Deep Dive](https://open.spotify.com/album/5QAkFwDV1ZSsxC1XyVu0sG) | 2:41 |
 | 271 | [State of Unreality](https://open.spotify.com/track/3rKCZIXrsC7T6XPJhXKAQJ) | [Lugar](https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29) | [State of Unreality](https://open.spotify.com/album/7xVYocetlbRmYIekq00dVt) | 2:41 |

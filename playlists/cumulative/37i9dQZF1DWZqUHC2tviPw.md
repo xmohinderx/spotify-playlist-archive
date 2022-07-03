@@ -4,14 +4,14 @@
 
 > Instrumental beats to boost your weight lifting workout.
 
-139 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/6VwdykSTPFgJcfQcjE3Tsi)
+139 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/6VwdykSTPFgJcfQcjE3Tsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [500 gr.](https://open.spotify.com/track/6SJmVvwqAnGCdpEyTE6HvE) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [500 gr.](https://open.spotify.com/album/1txGawwmq3xShlmzfPg2mx) | 3:37 | 2021-11-11 | 2022-05-20 |
 | [A Lot Of Noise For Nothing](https://open.spotify.com/track/3Vj6A1u4JYh5aVNYFJOFPZ) | [NxxxxxS](https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn) | [A Lot Of Noise For Nothing](https://open.spotify.com/album/1lEegQJdCxDf3Cq3e49jsh) | 2:00 | 2021-11-11 | 2022-04-22 |
 | [Aftershock](https://open.spotify.com/track/6X2DG2wogUVDPyKWkK8jBC) | [Auracane](https://open.spotify.com/artist/1iuQp6PLtiGhfyhFBacmT8) | [Quake](https://open.spotify.com/album/44V58chGzXo8ql3f0Ds9vX) | 2:42 | 2021-11-11 |  |
-| [AJ](https://open.spotify.com/track/2pcIABO9SnBqK7YvxayTUg) | [Treyon Dubs](https://open.spotify.com/artist/4pI8EDlzNqCOIndxbX5RFo) | [AJ](https://open.spotify.com/album/1sKGSWZLv9meMtIAChg2pU) | 0:29 | 2021-11-11 |  |
+| [AJ](https://open.spotify.com/track/2pcIABO9SnBqK7YvxayTUg) | [Treyon Dubs](https://open.spotify.com/artist/4pI8EDlzNqCOIndxbX5RFo) | [AJ](https://open.spotify.com/album/1sKGSWZLv9meMtIAChg2pU) | 2:21 | 2021-11-11 |  |
 | [All the Frogs](https://open.spotify.com/track/5Zxcm8La3J8yCyPA4FpzAe) | [Freddy Peterson](https://open.spotify.com/artist/1RzMfKmdmXJb7xWw7GPAgt) | [Underwater Cactus](https://open.spotify.com/album/1rFPmXsf0UETLNia2pEfHm) | 2:03 | 2021-11-11 |  |
 | [ALONE](https://open.spotify.com/track/0sufKKoOv3vi1oghbBtY0L) | [ZERIUS](https://open.spotify.com/artist/5BbcAuQREj8NxK6EG1dnmc), [MRJay](https://open.spotify.com/artist/24PhFqIM2MOH9oAVnPzfRe) | [ALONE](https://open.spotify.com/album/476Hp48mzF4ZHOKnDFy91u) | 2:58 | 2022-04-08 |  |
 | [Ares](https://open.spotify.com/track/70eKN516JGgd1dt5zdlRbb) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Ares](https://open.spotify.com/album/7FezwNt76ZTj0OebKoBEZ0) | 2:59 | 2021-11-11 |  |

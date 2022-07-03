@@ -4,7 +4,7 @@
 
 > Relive last night's fun with jigs and reels out of Ireland – alongside trad tracks inspired and influenced by Celtic traditions.
 
-86 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/3R1gdsjJm62brrPUBTLlxw)
+86 songs - 5 hr 39 min - [published](https://open.spotify.com/playlist/3R1gdsjJm62brrPUBTLlxw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Reels: Kylebrack Ramblers / Graf Spee](https://open.spotify.com/track/6tWVMFlSwTPVOgeWBQMapG) | [The Shaskeen Ceili Band](https://open.spotify.com/artist/6mgGW54iUPDPt07UwID5Kn) | [Pure Irish Céilí](https://open.spotify.com/album/0lVaM9oQ9SvE6K0P39vsNI) | 3:29 | 2020-11-11 |  |
 | [Reels: Liz Carroll's, Paddy Ryan's Dream \(feat\. Eoin O'Neill\)](https://open.spotify.com/track/5Rrjzr6ZuWfda10aATld8W) | [Yvonne Casey](https://open.spotify.com/artist/21AG1sQHWCkkVbpHmpmYo4) | [Yvonne Casey](https://open.spotify.com/album/1gnHAawyGZzM5e8wyfD0to) | 4:10 | 2020-11-11 |  |
 | [Reels: Patsy Cambell's:Tie The Bonnet : Mick Finn's](https://open.spotify.com/track/1y4rwW2PwLk6ukef9AxwIe) | [Peter Carberry and Angelina Carberry and John Blake](https://open.spotify.com/artist/2Ske6lxvZGw6STfNeM8Z3B) | [Memories From The Holla](https://open.spotify.com/album/35lYPRZKwNaqAA4CJFcVv2) | 3:20 | 2020-11-11 |  |
-| [Road Up the Bog / One More Pint / Karin Eating a Pickle](https://open.spotify.com/track/4YPAxoYh2yYyrRKrYYEeIR) | [Marys Lane](https://open.spotify.com/artist/3oHO6keHwM1h3iW81nhj2z) | [Power in a Tiny Bottle](https://open.spotify.com/album/7cwu5GGMKBKMBvn5HZFieZ) | 0:29 | 2020-11-11 |  |
+| [Road Up the Bog / One More Pint / Karin Eating a Pickle](https://open.spotify.com/track/4YPAxoYh2yYyrRKrYYEeIR) | [Marys Lane](https://open.spotify.com/artist/3oHO6keHwM1h3iW81nhj2z) | [Power in a Tiny Bottle](https://open.spotify.com/album/7cwu5GGMKBKMBvn5HZFieZ) | 3:43 | 2020-11-11 |  |
 | [Roaring Mary / Stormy Weather](https://open.spotify.com/track/1ObSUAb8X6yH2rnJruvltj) | [John Doherty](https://open.spotify.com/artist/6qN1MlgBXAnLRxGALRVevQ) | [Bundle And Go](https://open.spotify.com/album/4XT5jo6QonCnx7hIH9iqQY) | 2:17 | 2020-11-11 |  |
 | [Runs in the Family / Angry Birds](https://open.spotify.com/track/71YL7LsmiRb8EErKnKWluE) | [Adam Agee](https://open.spotify.com/artist/3LVrnF56s6BbtdKj1GMqEg), [Jon Sousa](https://open.spotify.com/artist/1vCSweNAIl03TMHHTE3Hn9) | [Suantraí](https://open.spotify.com/album/2htRFnWrSnCFlcDhqtWRk8) | 2:22 | 2020-11-11 |  |
 | [Ríl Liatroma/The Green Cockade/The Mourne Mountains](https://open.spotify.com/track/1Vc39YjnHm0bHtMjiDu6kY) | [Téada](https://open.spotify.com/artist/1VBQhu7f3xYuYPxCo0ddQF) | [Ceol & Cuimhne \(Music & Memory\)](https://open.spotify.com/album/7quUNhhoH6QdgepIxWKOCv) | 4:10 | 2020-11-11 |  |

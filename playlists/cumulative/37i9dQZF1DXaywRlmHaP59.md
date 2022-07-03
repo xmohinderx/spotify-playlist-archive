@@ -4,7 +4,7 @@
 
 > The sweet sounds of Lebanon.
 
-51 songs - 3 hr 1 min - [published](https://open.spotify.com/playlist/3skYynXq74xJS0Zs0H7gwt)
+51 songs - 3 hr 4 min - [published](https://open.spotify.com/playlist/3skYynXq74xJS0Zs0H7gwt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [La Ouyounak El Helwin](https://open.spotify.com/track/38qtGskHRVnyGyqWzFMfnG) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [La Ouyounak El Helwin](https://open.spotify.com/album/2ImEgj0cbjbbi5JR3mAsKA) | 3:42 | 2021-09-10 |  |
 | [Le Beirut](https://open.spotify.com/track/3JO3CNuCxwuwlpEjjCnDZN) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Maarifti Feek](https://open.spotify.com/album/3MgbAO1v05g0eanxlyz922) | 4:13 | 2021-09-10 |  |
 | [Maaleish](https://open.spotify.com/track/2UmMhiOyqkHkDQwlQD1nTH) | [Rima Yussef](https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl) | [Maaleish](https://open.spotify.com/album/2eaaJ7UvHSTAwIZ85PUhyi) | 3:27 | 2021-09-10 |  |
-| [Madi Ehtarak](https://open.spotify.com/track/0TwDh2KWfRCXioQRimWxZA) | [Jad Khalife](https://open.spotify.com/artist/7J5LIUcIfUaLrFHUgCl4tL) | [Madi Ehtarak](https://open.spotify.com/album/6f5EHF9aWtW8ro88V1Q8QX) | 0:29 | 2021-09-10 |  |
+| [Madi Ehtarak](https://open.spotify.com/track/0TwDh2KWfRCXioQRimWxZA) | [Jad Khalife](https://open.spotify.com/artist/7J5LIUcIfUaLrFHUgCl4tL) | [Madi Ehtarak](https://open.spotify.com/album/6f5EHF9aWtW8ro88V1Q8QX) | 4:05 | 2021-09-10 |  |
 | [Mawjit Ghadab](https://open.spotify.com/track/7MZNxCAhgV6d9qDv6lUG25) | [Naji Osta](https://open.spotify.com/artist/4bgldXaGu7WvZpkW1NfyBp) | [Mawjit Ghadab](https://open.spotify.com/album/3XVoDrHjM9BjMOyBJItGNJ) | 3:15 | 2021-09-10 |  |
 | [Mawtini](https://open.spotify.com/track/31mjcdNDbnLa91PiqI0tiq) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [To Beirut with Love](https://open.spotify.com/album/7g9ztH73f7JjYEMnDbiNMP) | 4:36 | 2021-09-10 |  |
 | [Mesh Taye'](https://open.spotify.com/track/57MzJQAKcizIPuwcUBgyQ2) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Mesh Taye'](https://open.spotify.com/album/5RNSMpD6G7GGt4maIdDu1F) | 2:54 | 2021-09-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6lrsZHHFL65pjpDcjv6sFi.md) - [plain]
 
 > Stockholm Music & Arts är en ny festival som i sommar, den 3 \- 5 augusti, arrangeras för första gången\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35 likes - 32 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 35 likes - 32 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/6lrsZHHFL65pjpDcjv6sFi.md) - [plain]
 | 10 | [To Let Myself Go](https://open.spotify.com/track/0FZrWCjmtvn9GRTHsW6BVp) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [A Temporary Dive](https://open.spotify.com/album/4YJXC11jbtkIVQAzCGE8hr) | 3:19 |
 | 11 | [Generation](https://open.spotify.com/track/6JzJHPTPIwBeK8Ps6lGB0E) | [Buffy Sainte\-Marie](https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x) | [The Pathfinder, Buried Treasures](https://open.spotify.com/album/4tUeFEFh81XykNyE8KDwoG) | 3:01 |
 | 12 | [Nina](https://open.spotify.com/track/6WbZHZ8pdT0qaYN3WcbawJ) | [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [The Baron EP](https://open.spotify.com/album/4F10nVG5DE1WienYAlJxUN) | 3:38 |
-| 13 | [Dirty Dancing](https://open.spotify.com/track/2RFVnh4Pz1PUJ0RfTjbzvP) | [Frida Hyvönen](https://open.spotify.com/artist/58XdW0XyGukvmGatf7NC2R) | [Silence Is Wild](https://open.spotify.com/album/0JT2W4vgJZ01SJZaSQ4qjW) | 0:29 |
+| 13 | [Dirty Dancing](https://open.spotify.com/track/2RFVnh4Pz1PUJ0RfTjbzvP) | [Frida Hyvönen](https://open.spotify.com/artist/58XdW0XyGukvmGatf7NC2R) | [Silence Is Wild](https://open.spotify.com/album/0JT2W4vgJZ01SJZaSQ4qjW) | 4:06 |
 | 14 | [Terribly Dark](https://open.spotify.com/track/7yDesLL0xoOYD6OumVT41L) | [Frida Hyvönen](https://open.spotify.com/artist/58XdW0XyGukvmGatf7NC2R) | [Terribly Dark](https://open.spotify.com/album/2O9PsSYHhk6rHzzVa9MZG9) | 4:27 |
 | 15 | [Vårens första dag](https://open.spotify.com/track/24WyDyJfAXgkcPddKdvfYA) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Sjung](https://open.spotify.com/album/1YqHIqrWx3eopxKFPqjqhT) | 4:40 |
 | 16 | [April Fool](https://open.spotify.com/track/7b9FS2uvbKobrnM2RyJDsB) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [April Fool](https://open.spotify.com/album/4Nhtp0iSdvBp5mTJaAYFoz) | 3:49 |

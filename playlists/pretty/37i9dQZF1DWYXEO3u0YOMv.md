@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 
 > 設立10周年を迎えた<a href="http://www.mappa.co.jp/">MAPPA</a>。2022年6月までに公開された作品の音楽をひとつのプレイリストに。Listen to the songs from 30+ anime shows MAPPA has produced in the last decade of its history!
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,062 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,257 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 | 22 | [月華](https://open.spotify.com/track/62zL1t37STLcPl8W4oxIBw) | [JAM Project](https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU) | [月華](https://open.spotify.com/album/7lg1DgpTBfwIyzVxADXzeY) | 4:42 |
 | 23 | [花紋](https://open.spotify.com/track/20YssuuSa8wXqutXk0Kxms) | [佐咲紗花](https://open.spotify.com/artist/0Wc27lcAwtL8QYONiLd4b1), [三狐神囃子 \(鵜殿麻由・佐藤依莉子\)](https://open.spotify.com/artist/6LYxX4EaaVoTb6sY9EobVw) | [花紋](https://open.spotify.com/album/4t6a6ILakR0UAfpHhG27ZT) | 4:24 |
 | 24 | [花蓮](https://open.spotify.com/track/6P1GY6LwSocFSOXxjbU33m) | [三狐神囃子 \(大橋彩香・佐咲紗花・鵜殿麻由・佐藤依莉子\)](https://open.spotify.com/artist/31cuTX9Vkgpxyi4B7BQHYY) | [牙狼<GARO>黄金歌集Ⅲ 牙狼響](https://open.spotify.com/album/0oY7KpdmpKmkN0micdzy78) | 4:26 |
-| 25 | [Wake We Up](https://open.spotify.com/track/4vfYHDtCAQffxNGP0XSO11) | [HOWL BE QUIET](https://open.spotify.com/artist/56jhSmJBKSKee5kUAlJjbX) | [Mr\. HOLIC](https://open.spotify.com/album/0DNteSo4zdyJ8H9KxoKekM) | 0:29 |
+| 25 | [Wake We Up](https://open.spotify.com/track/4vfYHDtCAQffxNGP0XSO11) | [HOWL BE QUIET](https://open.spotify.com/artist/56jhSmJBKSKee5kUAlJjbX) | [Mr\. HOLIC](https://open.spotify.com/album/0DNteSo4zdyJ8H9KxoKekM) | 4:42 |
 | 26 | [EVERLASTING DAYS](https://open.spotify.com/track/4iCr97PgqDNVtLhjs8f2mT) | [聖蹟高校サッカー部](https://open.spotify.com/artist/512LGL9YRa7k9JU1DjlQi2), [柄本つくし\(CV:吉永拓斗\)](https://open.spotify.com/artist/5dwhnr7fa3Ohu60bNHyde6), [風間陣\(CV:松岡禎丞\)](https://open.spotify.com/artist/4TZuOz8oB0B6MkIhdFUzuY), [水樹寿人\(CV:浪川大輔\)](https://open.spotify.com/artist/2VsrYIlb4ljDM9FiWGTruS), [君下敦\(CV:小野大輔\)](https://open.spotify.com/artist/1gLHYOLlx2rJKGAQ3DhVkx), [大柴喜一\(CV:宮野真守\)](https://open.spotify.com/artist/00ZTYmP3lWInwdHAfYbImv) | [EVERLASTING DAYS](https://open.spotify.com/album/4iMRhqiBtpReRVDW1oZqHS) | 3:52 |
-| 27 | [Higher Climber](https://open.spotify.com/track/19OB0SmE7xO1jmiaSTd1QE) | [HOWL BE QUIET](https://open.spotify.com/artist/56jhSmJBKSKee5kUAlJjbX) | [Mr\. HOLIC](https://open.spotify.com/album/0DNteSo4zdyJ8H9KxoKekM) | 0:29 |
+| 27 | [Higher Climber](https://open.spotify.com/track/19OB0SmE7xO1jmiaSTd1QE) | [HOWL BE QUIET](https://open.spotify.com/artist/56jhSmJBKSKee5kUAlJjbX) | [Mr\. HOLIC](https://open.spotify.com/album/0DNteSo4zdyJ8H9KxoKekM) | 4:10 |
 | 28 | [DAYS](https://open.spotify.com/track/31EjRwrrwo1a3nGOsPegNR) | [Shout It Out](https://open.spotify.com/artist/2a5ADRTPWfcWQf0o0EUy2K) | [青年の主張](https://open.spotify.com/album/2jouQMGyTpEtB8tDdF751u) | 3:09 |
 | 29 | [刃〜the divine blade〜](https://open.spotify.com/track/4hjpYJkaWUYysLLAUFQR2A) | [JAM Project](https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU) | [牙狼<GARO>黄金歌集Ⅳ 牙狼奏](https://open.spotify.com/album/6h2Mgvwan6mpYW46iCrMwt) | 4:09 |
 | 30 | [HOWLITE](https://open.spotify.com/track/2kYJaFWsAbmoff5SeM3eZ4) | [佐咲紗花](https://open.spotify.com/artist/0Wc27lcAwtL8QYONiLd4b1) | [Fated Crown](https://open.spotify.com/album/7gNl3YUzoyx2CmmbkfNa1y) | 4:23 |

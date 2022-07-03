@@ -4,7 +4,7 @@
 
 > Soothing sounds of gentle rains.
 
-215 songs - 9 hr 51 min - [published](https://open.spotify.com/playlist/4ga3UYCr8dual7uzYJDIEx)
+215 songs - 9 hr 53 min - [published](https://open.spotify.com/playlist/4ga3UYCr8dual7uzYJDIEx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Heavy Rain Under Cover](https://open.spotify.com/track/4aXbgtlE3sYeXWyBm3yrR5) | [Pioggia Notturna](https://open.spotify.com/artist/0Hus0cAybME524CqgViKck) | [Giardini](https://open.spotify.com/album/0nd9xnVNAS1O89Xs1Du6G4) | 2:18 | 2021-11-10 |  |
 | [Heavy Wind And Rain](https://open.spotify.com/track/6JS3QBeAswEtEmmXt02vZH) | [Regen BWS](https://open.spotify.com/artist/1ELXIIOQjxTB6fBRY0hZuo) | [Brain Rain](https://open.spotify.com/album/2CnaCIkOmyhoYwWliPAa73) | 2:56 | 2021-11-10 |  |
 | [Hybrid Clouds](https://open.spotify.com/track/4mJnhL0Wxk8S1H3sKKeI5Q) | [Vapourse](https://open.spotify.com/artist/7EF6zIKi6Qb6Ky3Y9GSsxW) | [Enjoy The Sky](https://open.spotify.com/album/534t88l34yw4XIjPgO45Wf) | 1:55 | 2021-11-10 |  |
-| [I Love Rain](https://open.spotify.com/track/4AN4dmPzeyPtA9DQjQ6u4z) | [Love Nature](https://open.spotify.com/artist/62N2aSzYqfNISn3LS3xQ01) | [Lovely Rain](https://open.spotify.com/album/39nbGbuy1Ly2xA06DV7wb3) | 0:29 | 2021-11-10 |  |
+| [I Love Rain](https://open.spotify.com/track/4AN4dmPzeyPtA9DQjQ6u4z) | [Love Nature](https://open.spotify.com/artist/62N2aSzYqfNISn3LS3xQ01) | [Lovely Rain](https://open.spotify.com/album/39nbGbuy1Ly2xA06DV7wb3) | 2:42 | 2021-11-10 |  |
 | [In The Clouds](https://open.spotify.com/track/3cH75G5f24Bc7koyOlBtDg) | [The Stormwater](https://open.spotify.com/artist/01c7DohUs02BwUDAyxzTUU) | [Weather Front](https://open.spotify.com/album/33LXnoQeIUfX5va0n2jiCx) | 2:42 | 2021-11-10 |  |
 | [In The Spring](https://open.spotify.com/track/5T8Nx9uWYe5uqGGUygt657) | [Liquidge](https://open.spotify.com/artist/44CkWXtsMCZodXHR6EDFvP) | [Lifting Air](https://open.spotify.com/album/5LSCejKgU0qOmu0FWxquED) | 2:18 | 2021-11-10 |  |
 | [Infinity Drops](https://open.spotify.com/track/3X9pFeZuH3o1IcNSIFblfw) | [The Magical Drops](https://open.spotify.com/artist/1o8C2yFA9rciG6M29xiFbw) | [Rain Sounds For Insomnia](https://open.spotify.com/album/0hhEtLrqoFfTleIsxfSdHY) | 2:42 | 2021-11-10 |  |

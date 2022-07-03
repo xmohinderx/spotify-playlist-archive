@@ -367,7 +367,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 257147,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn"
@@ -756,6 +756,32 @@
     },
     {
       "album": {
+        "name": "PROTOTYPES",
+        "url": "https://open.spotify.com/album/3GfYXb7CAmHDQOVTQEKNw4"
+      },
+      "artists": [
+        {
+          "name": "Ego",
+          "url": "https://open.spotify.com/artist/2L3W8TmknCpxsOCiZQixyl"
+        },
+        {
+          "name": "Coder",
+          "url": "https://open.spotify.com/artist/4AzHjhfZLs10PDwro86OSw"
+        },
+        {
+          "name": "Rytmus",
+          "url": "https://open.spotify.com/artist/1gRr6moof50L1b7XsbClvI"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169197,
+      "name": "ASMR",
+      "url": "https://open.spotify.com/track/3W0px1NJEPwW3yPWuZj5m6"
+    },
+    {
+      "album": {
         "name": "Astronaut In The Ocean (International Remixes)",
         "url": "https://open.spotify.com/album/4YtSVQwETLHiKNZXySp7Mw"
       },
@@ -877,7 +903,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 179815,
       "name": "b a b y . r e l a x",
       "url": "https://open.spotify.com/track/1VAWL9pNSsdyTLHYvmPhcm"
@@ -1459,7 +1485,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 151475,
       "name": "Belly Dancer",
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
@@ -1531,7 +1557,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 185000,
       "name": "BIG BOY FM",
       "url": "https://open.spotify.com/track/782l8McXM3CBBNXuOau7CB"
@@ -1821,10 +1847,28 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
+    },
+    {
+      "album": {
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
     },
     {
       "album": {
@@ -1905,6 +1949,28 @@
       "duration_ms": 194543,
       "name": "Boyfriends",
       "url": "https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ"
+    },
+    {
+      "album": {
+        "name": "PROTOTYPES",
+        "url": "https://open.spotify.com/album/3GfYXb7CAmHDQOVTQEKNw4"
+      },
+      "artists": [
+        {
+          "name": "Ego",
+          "url": "https://open.spotify.com/artist/2L3W8TmknCpxsOCiZQixyl"
+        },
+        {
+          "name": "Coder",
+          "url": "https://open.spotify.com/artist/4AzHjhfZLs10PDwro86OSw"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "BRAINSTORMERI",
+      "url": "https://open.spotify.com/track/1fLKwZHg3oLqo8FZzzz9JF"
     },
     {
       "album": {
@@ -2416,6 +2482,50 @@
     },
     {
       "album": {
+        "name": "PROTOTYPES",
+        "url": "https://open.spotify.com/album/3GfYXb7CAmHDQOVTQEKNw4"
+      },
+      "artists": [
+        {
+          "name": "Ego",
+          "url": "https://open.spotify.com/artist/2L3W8TmknCpxsOCiZQixyl"
+        },
+        {
+          "name": "Coder",
+          "url": "https://open.spotify.com/artist/4AzHjhfZLs10PDwro86OSw"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136056,
+      "name": "CHLAD",
+      "url": "https://open.spotify.com/track/6Q3nBXr2hl1PphqnlAiz3I"
+    },
+    {
+      "album": {
+        "name": "PROTOTYPES",
+        "url": "https://open.spotify.com/album/3GfYXb7CAmHDQOVTQEKNw4"
+      },
+      "artists": [
+        {
+          "name": "Ego",
+          "url": "https://open.spotify.com/artist/2L3W8TmknCpxsOCiZQixyl"
+        },
+        {
+          "name": "Coder",
+          "url": "https://open.spotify.com/artist/4AzHjhfZLs10PDwro86OSw"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145034,
+      "name": "CHLAP ROB\u00cd \u010cO MUS\u00cd",
+      "url": "https://open.spotify.com/track/4wcN9YA8YpqMPIKE3OIbvA"
+    },
+    {
+      "album": {
         "name": "Choices",
         "url": "https://open.spotify.com/album/7omynDpKdvF6SiX6MmbSdP"
       },
@@ -2811,7 +2921,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 169756,
       "name": "Crazy What Love Can Do",
       "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
@@ -3966,6 +4076,28 @@
     },
     {
       "album": {
+        "name": "PROTOTYPES",
+        "url": "https://open.spotify.com/album/3GfYXb7CAmHDQOVTQEKNw4"
+      },
+      "artists": [
+        {
+          "name": "Ego",
+          "url": "https://open.spotify.com/artist/2L3W8TmknCpxsOCiZQixyl"
+        },
+        {
+          "name": "Coder",
+          "url": "https://open.spotify.com/artist/4AzHjhfZLs10PDwro86OSw"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114009,
+      "name": "EVOL\u00daCIA",
+      "url": "https://open.spotify.com/track/0Jg6S7SolpoGIjzu3sIsnN"
+    },
+    {
+      "album": {
         "name": "Mozzaretta",
         "url": "https://open.spotify.com/album/7DkndBZWpKAcxYSwbHfZJE"
       },
@@ -4173,7 +4305,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 173947,
       "name": "First Class",
       "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
@@ -4990,6 +5122,28 @@
     },
     {
       "album": {
+        "name": "PROTOTYPES",
+        "url": "https://open.spotify.com/album/3GfYXb7CAmHDQOVTQEKNw4"
+      },
+      "artists": [
+        {
+          "name": "Ego",
+          "url": "https://open.spotify.com/artist/2L3W8TmknCpxsOCiZQixyl"
+        },
+        {
+          "name": "Coder",
+          "url": "https://open.spotify.com/artist/4AzHjhfZLs10PDwro86OSw"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111428,
+      "name": "HAPPY DAY",
+      "url": "https://open.spotify.com/track/3MUTQ0hbtYWSNS5k87S07H"
+    },
+    {
+      "album": {
         "name": "Super Trouper",
         "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
       },
@@ -5612,6 +5766,28 @@
     },
     {
       "album": {
+        "name": "PROTOTYPES",
+        "url": "https://open.spotify.com/album/3GfYXb7CAmHDQOVTQEKNw4"
+      },
+      "artists": [
+        {
+          "name": "Ego",
+          "url": "https://open.spotify.com/artist/2L3W8TmknCpxsOCiZQixyl"
+        },
+        {
+          "name": "Coder",
+          "url": "https://open.spotify.com/artist/4AzHjhfZLs10PDwro86OSw"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128076,
+      "name": "HORE H\u00c1J",
+      "url": "https://open.spotify.com/track/3LsHOOHkCDguMUtfGBrm3s"
+    },
+    {
+      "album": {
         "name": "Strasidelny Dom",
         "url": "https://open.spotify.com/album/0PQ7MZ1ifWDSfAmNQNFno4"
       },
@@ -5685,7 +5861,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 208706,
       "name": "House of Memories",
       "url": "https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ"
@@ -5793,7 +5969,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
@@ -6229,7 +6405,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 212352,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
@@ -6501,6 +6677,28 @@
       "duration_ms": 153443,
       "name": "Jakooo - Club Edit",
       "url": "https://open.spotify.com/track/3gmixiypICXCStLl8Csj0d"
+    },
+    {
+      "album": {
+        "name": "PROTOTYPES",
+        "url": "https://open.spotify.com/album/3GfYXb7CAmHDQOVTQEKNw4"
+      },
+      "artists": [
+        {
+          "name": "Ego",
+          "url": "https://open.spotify.com/artist/2L3W8TmknCpxsOCiZQixyl"
+        },
+        {
+          "name": "Coder",
+          "url": "https://open.spotify.com/artist/4AzHjhfZLs10PDwro86OSw"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135742,
+      "name": "JAR LETO JESE\u0147",
+      "url": "https://open.spotify.com/track/0J2wdzkkJ2h8zRqZALFOBT"
     },
     {
       "album": {
@@ -7961,7 +8159,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 122517,
       "name": "Living Life, In The Night",
       "url": "https://open.spotify.com/track/6ChnGkBwnq2HUJD24YhMhW"
@@ -11084,6 +11282,28 @@
     },
     {
       "album": {
+        "name": "PROTOTYPES",
+        "url": "https://open.spotify.com/album/3GfYXb7CAmHDQOVTQEKNw4"
+      },
+      "artists": [
+        {
+          "name": "Ego",
+          "url": "https://open.spotify.com/artist/2L3W8TmknCpxsOCiZQixyl"
+        },
+        {
+          "name": "Coder",
+          "url": "https://open.spotify.com/artist/4AzHjhfZLs10PDwro86OSw"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172444,
+      "name": "PKKMP",
+      "url": "https://open.spotify.com/track/64CxHd4WMKGXJFTLH0OKhC"
+    },
+    {
+      "album": {
         "name": "Story",
         "url": "https://open.spotify.com/album/1ruw77DQdaNwTKFbxUmqvY"
       },
@@ -12509,10 +12729,28 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 190883,
       "name": "Sharks",
       "url": "https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8"
+    },
+    {
+      "album": {
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190883,
+      "name": "Sharks",
+      "url": "https://open.spotify.com/track/7sA2SKTo1QbTSSYn5YvJC4"
     },
     {
       "album": {
@@ -12868,6 +13106,28 @@
     },
     {
       "album": {
+        "name": "PROTOTYPES",
+        "url": "https://open.spotify.com/album/3GfYXb7CAmHDQOVTQEKNw4"
+      },
+      "artists": [
+        {
+          "name": "Ego",
+          "url": "https://open.spotify.com/artist/2L3W8TmknCpxsOCiZQixyl"
+        },
+        {
+          "name": "Coder",
+          "url": "https://open.spotify.com/artist/4AzHjhfZLs10PDwro86OSw"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147121,
+      "name": "SME S5",
+      "url": "https://open.spotify.com/track/2B7YzUqG3Z4ZSpwg4QnIY5"
+    },
+    {
+      "album": {
         "name": "Everyday Is Christmas (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
       },
@@ -12999,7 +13259,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 152000,
       "name": "SOUNDTRACK MALEJ METROPOLY",
       "url": "https://open.spotify.com/track/5H5j58iWC7dR0U2NOnBfXX"
@@ -13365,7 +13625,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 210245,
       "name": "Stroj",
       "url": "https://open.spotify.com/track/6LhuehVA6IXU92z4q01lDU"
@@ -13471,7 +13731,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 172540,
       "name": "St\u00edny",
       "url": "https://open.spotify.com/track/0J3SIAOndpL1MS2Vq2RMQ9"
@@ -15412,6 +15672,28 @@
     },
     {
       "album": {
+        "name": "PROTOTYPES",
+        "url": "https://open.spotify.com/album/3GfYXb7CAmHDQOVTQEKNw4"
+      },
+      "artists": [
+        {
+          "name": "Ego",
+          "url": "https://open.spotify.com/artist/2L3W8TmknCpxsOCiZQixyl"
+        },
+        {
+          "name": "Coder",
+          "url": "https://open.spotify.com/artist/4AzHjhfZLs10PDwro86OSw"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145641,
+      "name": "WE THE LOVE",
+      "url": "https://open.spotify.com/track/151SVBILif14MYfU6KpBPq"
+    },
+    {
+      "album": {
         "name": "side effects of being human",
         "url": "https://open.spotify.com/album/7Api824sEAaKjtdrbNsncZ"
       },
@@ -16170,6 +16452,28 @@
     },
     {
       "album": {
+        "name": "PROTOTYPES",
+        "url": "https://open.spotify.com/album/3GfYXb7CAmHDQOVTQEKNw4"
+      },
+      "artists": [
+        {
+          "name": "Ego",
+          "url": "https://open.spotify.com/artist/2L3W8TmknCpxsOCiZQixyl"
+        },
+        {
+          "name": "Coder",
+          "url": "https://open.spotify.com/artist/4AzHjhfZLs10PDwro86OSw"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "ZABUDNI NA SC\u00c9NU",
+      "url": "https://open.spotify.com/track/1c73vbXPOO38tD8XzazMac"
+    },
+    {
+      "album": {
         "name": "Zasvoe",
         "url": "https://open.spotify.com/album/1fDny1IqbOjL4jKfHDcGZg"
       },
@@ -16185,7 +16489,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 184727,
       "name": "Zasvoe",
       "url": "https://open.spotify.com/track/6FbRFo9fweIUtLvglbEF0i"

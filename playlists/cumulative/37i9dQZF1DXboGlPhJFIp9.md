@@ -4,7 +4,7 @@
 
 > The calming and pensive side of electric guitar\. Instrumental only.
 
-81 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/3oJlWxouvmQCoHhx3LLhbO)
+81 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/3oJlWxouvmQCoHhx3LLhbO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Sun Rays Like Stilts](https://open.spotify.com/track/2Ik1Ak51UOyRr8uEBamnjI) | [Tommy Guerrero](https://open.spotify.com/artist/5qnkHpjyS6CUxH1UUy82B7) | [Perpetuum](https://open.spotify.com/album/4UupldOklfdtsf76wfUaXx) | 2:04 | 2022-05-13 |  |
 | [Sunbreak](https://open.spotify.com/track/4cmBIVqMmvd48ISF6FHdtq) | [Matthew Harvey](https://open.spotify.com/artist/30LkldJYxQgtaQBIGwzgMQ) | [Malibu](https://open.spotify.com/album/3kM89PKkU3cDQXTMIYDWxo) | 2:37 | 2022-05-13 |  |
 | [Sunset Blvd](https://open.spotify.com/track/7B6GIld7XdXdkOcziTsCHi) | [Faelt](https://open.spotify.com/artist/6FlnhTAnvtLGV8mEZLGkBX) | [Open Fields](https://open.spotify.com/album/6AUdvWLCptSVA1g8k7tMKD) | 3:27 | 2022-05-13 |  |
-| [Sway](https://open.spotify.com/track/1ECfMFb5v2sjl1kKBQg9do) | [Fambray](https://open.spotify.com/artist/4478Bpo6m6FSvsaANFykYp) | [Meandering Ghosts](https://open.spotify.com/album/6p8V58htpFLS0iPkiv1yyY) | 0:29 | 2022-05-13 |  |
+| [Sway](https://open.spotify.com/track/1ECfMFb5v2sjl1kKBQg9do) | [Fambray](https://open.spotify.com/artist/4478Bpo6m6FSvsaANFykYp) | [Meandering Ghosts](https://open.spotify.com/album/6p8V58htpFLS0iPkiv1yyY) | 2:32 | 2022-05-13 |  |
 | [Tales](https://open.spotify.com/track/6sDT5Hy4pAS6r0KqcY2em5) | [Blake Newton](https://open.spotify.com/artist/248FFgnhqpwX9kcgXtLWKK) | [Water](https://open.spotify.com/album/6Y67bPBC2FOf0WLVrRcq7p) | 3:23 | 2022-05-13 |  |
 | [Taylor](https://open.spotify.com/track/5e9j1O0uzn49EYU5JswarF) | [Joe Castle](https://open.spotify.com/artist/5QPm2OdKelGlQ0OKgvT78z) | [Reflections](https://open.spotify.com/album/34DSq25KJCQJ7tlOhVfeLE) | 3:07 | 2022-05-13 |  |
 | [Telefono B](https://open.spotify.com/track/1rCn4c0ULASiBiEYdQMvc9) | [SEA](https://open.spotify.com/artist/0yMlqsQgpwBZZ6AzyofFAx) | [SEA](https://open.spotify.com/album/3fOrus5SZVYa42UQATcNpy) | 1:43 | 2022-05-13 |  |

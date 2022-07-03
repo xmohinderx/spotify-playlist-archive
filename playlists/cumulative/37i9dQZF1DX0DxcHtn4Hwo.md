@@ -4,7 +4,7 @@
 
 > Soothing instrumental music for sleepy babies.
 
-376 songs - 10 hr 56 min - [published](https://open.spotify.com/playlist/3W9tr5FRPSgY7pyjmQnvaP)
+376 songs - 10 hr 57 min - [published](https://open.spotify.com/playlist/3W9tr5FRPSgY7pyjmQnvaP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,7 +289,7 @@
 | [Sleep my Button](https://open.spotify.com/track/3MZXbQEbsblpWeqhcx7U2E) | [Laryn Rose](https://open.spotify.com/artist/0EHo1BTkMpOwGrqS6wZmgU) | [Sleep my Button](https://open.spotify.com/album/1hHVxqTT3seDtQdjT9rrPK) | 1:42 | 2021-10-05 |  |
 | [Sleep Now](https://open.spotify.com/track/6nh2OYVRlNsvjCvG3dQlAT) | [Joey Ty](https://open.spotify.com/artist/3PpceQMvXxZBxsF0v4yojB) | [Sleep Now](https://open.spotify.com/album/7f3iZyWqecBdOISASthcRy) | 1:33 | 2021-10-05 |  |
 | [Sleep, My Little Friend](https://open.spotify.com/track/3qfyU34tCYJ4IJD1H8Qtxh) | [Gennie Voltera](https://open.spotify.com/artist/36B4hA2eDLLjGqOXncPXHw) | [Sleep, My Little Friend](https://open.spotify.com/album/1QZTBycQ3kWQHnboczhpQC) | 1:05 | 2021-10-05 |  |
-| [Sleepy cat](https://open.spotify.com/track/66fw0XwehRbhQxnf96zttd) | [Elwood Alvey](https://open.spotify.com/artist/0Mk4uWIZoZD5P6qovECUEk) | [Sleepy cat](https://open.spotify.com/album/3Mqae6qvNur415aC8ID1d6) | 0:29 | 2021-10-05 |  |
+| [Sleepy cat](https://open.spotify.com/track/66fw0XwehRbhQxnf96zttd) | [Elwood Alvey](https://open.spotify.com/artist/0Mk4uWIZoZD5P6qovECUEk) | [Sleepy cat](https://open.spotify.com/album/3Mqae6qvNur415aC8ID1d6) | 1:18 | 2021-10-05 |  |
 | [Sleepy Eyes](https://open.spotify.com/track/02jrNnw7QK6vw3Lh4AHnQc) | [Little Penguin](https://open.spotify.com/artist/6WIlTEo0N852kQSPXsCU8Y) | [Sleepy Eyes](https://open.spotify.com/album/17Y1MU2PaCHr2Tyr1tljXn) | 2:07 | 2021-10-05 |  |
 | [Sleepy Eyes](https://open.spotify.com/track/5283YmH40jwKUwMHKhaQ9H) | [Winnie Muller](https://open.spotify.com/artist/4GO1o00k2U510iiNja7SrR) | [Sleepy Eyes](https://open.spotify.com/album/3fOjCd8xAkWzvnKeU1hzHl) | 1:56 | 2022-04-20 |  |
 | [Sleepy Pony](https://open.spotify.com/track/0cLapA0ATrXkW2fj3QKqm2) | [Pearce Debenham](https://open.spotify.com/artist/3JgtNeC7T7j6SGEFQ9qMlg) | [Sleepy Pony](https://open.spotify.com/album/4JJpNL8MTDjiWVSh8eb8nL) | 1:22 | 2021-10-05 |  |

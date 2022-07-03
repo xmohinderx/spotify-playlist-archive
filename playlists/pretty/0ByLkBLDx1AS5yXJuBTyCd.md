@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ByLkBLDx1AS5yXJuBTyCd.md) - [plain]
 
 > Travel the world through sound – with indie and traditional folk and acoustic from across the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122 likes - 36 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 123 likes - 36 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/0ByLkBLDx1AS5yXJuBTyCd.md) - [plain]
 | 23 | [Miedo a Nada](https://open.spotify.com/track/7cr7bnlBYGUtpMQHPX0mME) | [Ram y los Mixes](https://open.spotify.com/artist/77P4tNTkIoNxjx1M8fnDQT) | [Miedo a Nada](https://open.spotify.com/album/5Oz2wH6ApEMgdFFTCGqgBT) | 3:43 |
 | 24 | [Matinfa](https://open.spotify.com/track/0zPTvyxFOg7IVeD96qiztY) | [Etran Finatawa](https://open.spotify.com/artist/4loyFcpdGnVsJRk2pgv6qX) | [The Sahara Sessions](https://open.spotify.com/album/2dvZQXaNIoS3EqMJA15Dij) | 5:54 |
 | 25 | [Is Fada Mo Chosa Gan Bróga](https://open.spotify.com/track/3Ibhc3t9I7kQ6L98DGJBmz) | [Caitlín Maude](https://open.spotify.com/artist/2BdpvIlxlMl1ptmLX9LYVS) | [Caitlín](https://open.spotify.com/album/5T7d11GsZvoq9iRruwEVeG) | 2:02 |
-| 26 | [T.I Blues](https://open.spotify.com/track/513ngsQXc4ulMEuhq1VHb7) | [Seaman Dan](https://open.spotify.com/artist/7kupJXgSeK8OCWSqYipqqS) | [Somewhere There's An Island \(Best Of 1999 \- 2006\)](https://open.spotify.com/album/6qB5XRFLJxpex8W9AmL5iP) | 0:29 |
+| 26 | [T.I Blues](https://open.spotify.com/track/513ngsQXc4ulMEuhq1VHb7) | [Seaman Dan](https://open.spotify.com/artist/7kupJXgSeK8OCWSqYipqqS) | [Somewhere There's An Island \(Best Of 1999 \- 2006\)](https://open.spotify.com/album/6qB5XRFLJxpex8W9AmL5iP) | 4:19 |
 | 27 | [Kissing In The Falling Rain](https://open.spotify.com/track/1Byu7Kfn21paic1Hu6y8Bj) | [Odd Hugo](https://open.spotify.com/artist/4VVgCpsMCfLoh6sEayUbBe) | [Odd Hugo](https://open.spotify.com/album/7nGRAnAAYbPiqqbUZU6MQO) | 6:17 |
 | 28 | [La licenza di tuttologo](https://open.spotify.com/track/2BdbAsZsyOi4g5DtMG2D3m) | [Cecco E Cipo](https://open.spotify.com/artist/0VbUbw58jB5hpnWdWMB3AJ) | [Lo gnomo e lo gnù](https://open.spotify.com/album/6N4xho8oQxLxMveqRENUxb) | 3:56 |
 | 29 | [Dusty Men](https://open.spotify.com/track/1WUCUeB6bvoio4oi1AZtZu) | [Saule](https://open.spotify.com/artist/2n2CmLay2NP2Iolah62W34), [Charlie Winston](https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3) | [Dusty Men](https://open.spotify.com/album/1IWBDKQ2lV7BCRnIKocXsb) | 3:25 |

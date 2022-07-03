@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1zriHsmiRJmTThtQk8UWPk.md) - [plain]
 
 > Listen to a collection of inspiring women in music as they share the stories of their music icons, from Lera Lynn and Kelly Clarkson to Zendaya and Terri Nunn.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39 likes - 142 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 39 likes - 142 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,7 +126,7 @@ pretty - [cumulative](/playlists/cumulative/1zriHsmiRJmTThtQk8UWPk.md) - [plain]
 | 116 | [Margaret Glaspy on Missy Elliott](https://open.spotify.com/track/39beTl3NsLUcDwDVGH1G21) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Women in Music 2016](https://open.spotify.com/album/2T7TgderJjXYr1htHBmGiK) | 1:17 |
 | 117 | [You And I](https://open.spotify.com/track/4W8ADNEo6PUxp0fcxoo4lB) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [You And I B/W Somebody To Anybody](https://open.spotify.com/album/36XVGMsZ83DB7qmrth5T4Y) | 2:29 |
 | 118 | [NERVO on Maya Jane Coles](https://open.spotify.com/track/2ocWCR47rDzGvFFWUM7mva) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Women in Music \- 2015 Stories](https://open.spotify.com/album/42xVRS4aI6UCuMfkwkZ9ne) | 0:22 |
-| 119 | [Easier To Hide](https://open.spotify.com/track/3g6CKJpQWHNx0OG0AHjmu1) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Comfort](https://open.spotify.com/album/509VifKH3x4T8dhJp6RfVO) | 0:29 |
+| 119 | [Easier To Hide](https://open.spotify.com/track/3g6CKJpQWHNx0OG0AHjmu1) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Comfort](https://open.spotify.com/album/509VifKH3x4T8dhJp6RfVO) | 5:01 |
 | 120 | [The Other Boys \(feat\. Kylie Minogue, Jake Shears & Nile Rodgers\)](https://open.spotify.com/track/49SgioQeGOwNYJJYT4fqmz) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Collateral](https://open.spotify.com/album/1CZnMTWdD8cApDRm2wLCZp) | 4:56 |
 | 121 | [Girls Rock on Mitski](https://open.spotify.com/track/5BaAl2ThitfLHMthC8nin4) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Women in Music 2016](https://open.spotify.com/album/2T7TgderJjXYr1htHBmGiK) | 0:14 |
 | 122 | [Townie](https://open.spotify.com/track/2HUIm4ZmwC5aIEQQakmgO4) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/472GvzwE3EZ0i2EEaly5mX) | 3:25 |

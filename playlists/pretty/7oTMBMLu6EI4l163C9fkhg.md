@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7oTMBMLu6EI4l163C9fkhg.md) - [plain]
 
 > Remember the glory days when boy bands and girl groups ruled the radio? Listen to this playlist and bring the Spice Girls, Hanson, and Destiny's Child back!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,973 likes - 41 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,972 likes - 41 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/7oTMBMLu6EI4l163C9fkhg.md) - [plain]
 | 7 | [What Makes You Beautiful](https://open.spotify.com/track/1GyMIZW0pJvUha35WjqHYm) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Up All Night](https://open.spotify.com/album/5nVUqrdkEMlWTm9sqjrYBt) | 3:18 |
 | 8 | [C'est la Vie](https://open.spotify.com/track/0SHmApKzT0EWhbFKBjsOex) | [B\*Witched](https://open.spotify.com/artist/72eP0W3rIhkxd0NHGg4w4u) | [B\*Witched](https://open.spotify.com/album/6UQVcTIRAlVetOcHQP1MLd) | 2:52 |
 | 9 | [Jump](https://open.spotify.com/track/38lNyLUVSCqEt1PbncxFjw) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [The Sound of Girls Aloud \(International\)](https://open.spotify.com/album/1sXIEXwC5JB3tRW9nCo4XL) | 3:39 |
-| 10 | [Invisible](https://open.spotify.com/track/4STqT4Nskiyka6937ClyBC) | [D\-side](https://open.spotify.com/artist/3RFjrIBFsODkMPcTV8mRt9) | [The Best Of D\-Side 2004 \- 2008](https://open.spotify.com/album/2tEXQZqnFoExs11b7r6ddA) | 0:29 |
+| 10 | [Invisible](https://open.spotify.com/track/4STqT4Nskiyka6937ClyBC) | [D\-side](https://open.spotify.com/artist/3RFjrIBFsODkMPcTV8mRt9) | [The Best Of D\-Side 2004 \- 2008](https://open.spotify.com/album/2tEXQZqnFoExs11b7r6ddA) | 3:41 |
 | 11 | [The Heart Never Lies](https://open.spotify.com/track/77cnourGjLdfZIIvP7rfsu) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd) | [McFly \(Five Colours In Her Hair\)](https://open.spotify.com/album/08x3R30vCiaxLj2qdlfJYg) | 4:54 |
 | 12 | [This Is How We Party](https://open.spotify.com/track/42yb3aUH2iUYzbcIelm2f9) | [S.O.A.P.](https://open.spotify.com/artist/4tc5xhcuEtiRizloAL4wZI) | [Not Like Other Girls](https://open.spotify.com/album/7kQtr0cIKu7qZCrCvvkHOD) | 3:18 |
 | 13 | [I'll Be There For You](https://open.spotify.com/track/5OXzkeiOjvvEkScOfuB2w5) | [The Moffatts](https://open.spotify.com/artist/2ynrjBfi2sZwoHaejMInRv) | [Chapter 1: A New Beginning](https://open.spotify.com/album/2BdFlgzzk61f8125iwkP2I) | 4:15 |

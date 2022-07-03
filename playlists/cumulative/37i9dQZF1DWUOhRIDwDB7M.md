@@ -4,7 +4,7 @@
 
 > Positive and uplifting ambient instrumental tracks.
 
-232 songs - 11 hr 34 min - [published](https://open.spotify.com/playlist/6fLxyccnSrhX5ogq1L5BVp)
+232 songs - 11 hr 37 min - [published](https://open.spotify.com/playlist/6fLxyccnSrhX5ogq1L5BVp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@
 | [Say Nothing](https://open.spotify.com/track/1SBYIW8EddjCpTl4ARKO0B) | [Brière](https://open.spotify.com/artist/6aXUg2Sop4QZv01JPXDdy0) | [Say Nothing](https://open.spotify.com/album/74Gkle7RfEXqgj8Ae1GlEb) | 3:16 | 2021-09-06 |  |
 | [Scepter](https://open.spotify.com/track/78Fq1DYLH5SdvUtsVjNE07) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Scepter](https://open.spotify.com/album/767TvaxOCqM20my4KRebvv) | 1:13 | 2021-09-06 |  |
 | [Selfless](https://open.spotify.com/track/06rxdrloI554XAu02s1RaM) | [Toledo Rains](https://open.spotify.com/artist/76uaa6flgNHI5elCp0ssBF) | [Selfless](https://open.spotify.com/album/3IraToCy1gXM0Si13GErD1) | 3:00 | 2021-09-06 |  |
-| [Shine](https://open.spotify.com/track/209Z42ajAg8t7fg1VxQqDz) | [Chandeller](https://open.spotify.com/artist/0LzWeBGGtEazh0mJmyxFXi) | [Shine](https://open.spotify.com/album/29Co4C7wS7IxEfAgsfn800) | 0:29 | 2021-09-06 |  |
+| [Shine](https://open.spotify.com/track/209Z42ajAg8t7fg1VxQqDz) | [Chandeller](https://open.spotify.com/artist/0LzWeBGGtEazh0mJmyxFXi) | [Shine](https://open.spotify.com/album/29Co4C7wS7IxEfAgsfn800) | 3:09 | 2021-09-06 |  |
 | [Silver Lining](https://open.spotify.com/track/2yf1ibNuXk2VwKyGCIIpmA) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [Summer Tales](https://open.spotify.com/album/6ppAmnM0WuNYgrSXC43dKJ) | 3:08 | 2021-09-06 |  |
 | [Sintra](https://open.spotify.com/track/0b6iQfSLnYGz5VCzwndLz9) | [Made Of Gold](https://open.spotify.com/artist/1ilmmDuqRKxhOkqBZTtqNH) | [Reflections](https://open.spotify.com/album/3AehN6vnl5y9j9ihOloltl) | 3:21 | 2021-09-06 |  |
 | [Sleep Constellations](https://open.spotify.com/track/0gGaNcUmLccy8vduRK6IGU) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Drifting Away \(Music for Sleeping\)](https://open.spotify.com/album/7cSb5DZKXtXwQETmj2p58s) | 2:28 | 2021-09-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 
 > The hottest Anime hits of the 00s\.  2000年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,833 likes - 62 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,954 likes - 62 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 | 33 | [INVOKE \-インヴォーク\-](https://open.spotify.com/track/34KpbxsYhTMt4N3HS34mb9) | [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [INVOKE \-インヴォーク\-](https://open.spotify.com/album/6EeRL1rcAcfBST5dbAQOYQ) | 4:20 |
 | 34 | [あんなに一緒だったのに](https://open.spotify.com/track/5UZVUKqRUmHxT8RmZZHojc) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [機動戦士ガンダム SEED \~ SEED DESTINY THE BRIDGE Across the Songs from GUNDUM SEED & SEED DESTINY](https://open.spotify.com/album/5pc46oCGZxvCOs0DJXTimZ) | 4:48 |
 | 35 | [ふわふわ時間](https://open.spotify.com/track/0IqeCcW8L96JrGURHQbmcI) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [放課後ティータイム](https://open.spotify.com/album/2sCj12vSaLgszgQqOAOpz7) | 3:56 |
-| 36 | [射手座☆午後九時Don't be late](https://open.spotify.com/track/2ktC4ur8iNjJmYlkXoNpwM) | [シェリル・ノーム starring May'n](https://open.spotify.com/artist/5fruBgRiTeuJwkU5qvrdTq) | [「マクロスF」エンディングテーマ ダイアモンド クレバス/挿入歌 射手座☆午後九時Don't be late](https://open.spotify.com/album/6udbCYa1ouGCHDWhu6ZEQv) | 0:29 |
+| 36 | [射手座☆午後九時Don't be late](https://open.spotify.com/track/2ktC4ur8iNjJmYlkXoNpwM) | [シェリル・ノーム starring May'n](https://open.spotify.com/artist/5fruBgRiTeuJwkU5qvrdTq) | [「マクロスF」エンディングテーマ ダイアモンド クレバス/挿入歌 射手座☆午後九時Don't be late](https://open.spotify.com/album/6udbCYa1ouGCHDWhu6ZEQv) | 5:43 |
 | 37 | [プレパレード](https://open.spotify.com/track/0XT65K4AnBTrjq9x32aj8v) | [逢坂大河\(釘宮理恵\)](https://open.spotify.com/artist/4i10xM25xPTHoaXMfVhZLh), [櫛枝実乃梨\(堀江由衣\)](https://open.spotify.com/artist/77Qvx17FzuZhak8dkrLoFb), [川嶋亜美\(喜多村英梨\)](https://open.spotify.com/artist/6aUvRGqbBNYkURzbYpvqI4) | [プレパレード](https://open.spotify.com/album/6FxxSB5XVY3I4JAtWllal3) | 3:24 |
 | 38 | [DAYBREAK'S BELL](https://open.spotify.com/track/0GapIKOkapTtO6cR6IM31x) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [KISS](https://open.spotify.com/album/3Cb9NZFOkVRqUjvhcggkSA) | 4:11 |
 | 39 | [暁の車](https://open.spotify.com/track/3IEObXuomguph3jjxrccWB) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [暁の車](https://open.spotify.com/album/6FSGtCdVtQ8exaIdHOpkdQ) | 5:03 |

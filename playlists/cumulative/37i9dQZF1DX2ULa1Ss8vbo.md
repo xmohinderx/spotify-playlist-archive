@@ -4,7 +4,7 @@
 
 > Songs from the old country: the essential traditional Irish ballads.
 
-50 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/0KDUll3BlUZ8Z5ArCYrr7l)
+50 songs - 3 hr 9 min - [published](https://open.spotify.com/playlist/0KDUll3BlUZ8Z5ArCYrr7l)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Arbour Hill](https://open.spotify.com/track/3dZpG1lCzOollQ3qrylOS0) | [Eugene McEldowney](https://open.spotify.com/artist/0PUpXAEPVuX0CShc4oGdwG) | [James Connolly \- The Irish Rebel](https://open.spotify.com/album/0y3rEtlF9sLwtzVfjUebxM) | 2:35 | 2019-03-14 |  |
 | [Black Velvet Band](https://open.spotify.com/track/1E2C8AILQ4dJydKYM9cFSz) | [Paddy Reilly](https://open.spotify.com/artist/1XIifqPXfWSoTQfrcuXXtX) | [The Best Of](https://open.spotify.com/album/3gTdmsL8kxatC6KYkFCOpE) | 3:46 | 2019-03-14 |  |
 | [Boolavogue](https://open.spotify.com/track/6dXBgGcBKxOeNQFWmBDTo2) | [Brendan Bowyer](https://open.spotify.com/artist/6CynFO9vn6MsOOdLptSPwg) | [Brendan Bowyer's Ireland](https://open.spotify.com/album/6GRzetvyCVfVLek5WANDRA) | 3:42 | 2019-03-14 |  |
-| [Báidín Fheilimí](https://open.spotify.com/track/5fGkh5uh6XDRptv3WEF9A4) | [Caera](https://open.spotify.com/artist/2OzigumcbZNfTxnT1aacDw) | [Traditional Irish Gaelic Children's Songs](https://open.spotify.com/album/0pss1phhhe7ykfusGB0ck1) | 0:29 | 2019-03-14 |  |
+| [Báidín Fheilimí](https://open.spotify.com/track/5fGkh5uh6XDRptv3WEF9A4) | [Caera](https://open.spotify.com/artist/2OzigumcbZNfTxnT1aacDw) | [Traditional Irish Gaelic Children's Songs](https://open.spotify.com/album/0pss1phhhe7ykfusGB0ck1) | 1:52 | 2019-03-14 |  |
 | [Carrickfergus](https://open.spotify.com/track/6JYdy6K3webBiLuR6kO5pT) | [Brian Kennedy](https://open.spotify.com/artist/4xZbU7XXrgG0U2e3MIEXmS), [Heff Moraes](https://open.spotify.com/artist/6HrqkCpPwHjWrg0YicMnzw) | [The Celtic Circle Collection](https://open.spotify.com/album/1waiycUuGnGAfxZOTVmlnD) | 4:58 | 2019-03-14 |  |
 | [Curragh Of Kildare](https://open.spotify.com/track/3aA4NSYdryZqiGp3tV9MCB) | [Bert Jansch](https://open.spotify.com/artist/1FqG6mhiJbhbMg43ohCT6D) | [Three Chord Trick](https://open.spotify.com/album/3mjzDTUEi3sABdt3Wb4udC) | 4:45 | 2019-03-14 |  |
 | [Danny Boy](https://open.spotify.com/track/2LMeRecVW5d3a1vxZV5jJR) | [Frank Patterson](https://open.spotify.com/artist/3UZc24DOYrUhFnDPNw1L8A) | [Ireland's Golden Tenor \- A Celebration](https://open.spotify.com/album/1gOWpNBuPqI2VILLOT272d) | 4:38 | 2019-03-14 |  |

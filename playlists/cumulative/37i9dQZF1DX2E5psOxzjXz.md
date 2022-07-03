@@ -4,7 +4,7 @@
 
 > Explore Pakistan's thriving independent scene\. Cover: Taha G
 
-117 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/5gJNqDWvbp9UkUeEjkgqKV)
+117 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/5gJNqDWvbp9UkUeEjkgqKV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Naraaz \- ft\. Fatima Khan, E.t Lone & Zahra Paracha](https://open.spotify.com/track/4GutOo3yby1CgYARF8WkVK) | [Misbah](https://open.spotify.com/artist/4LtxguJsqxkfipYXPqz7Vq), [Fatima Khan](https://open.spotify.com/artist/1by9q5I9gcwqYHX93a9WlD), [Zahra Paracha](https://open.spotify.com/artist/3g76TAx9tdF5YZpsSwqL0K), [E.t Lone](https://open.spotify.com/artist/3yLnzeXNaquKBMLBe4oSnK) | [Woh Hai Kahaan](https://open.spotify.com/album/02T1FufJa9tsuQy8MAxpKB) | 4:25 | 2021-12-06 |  |
 | [No Roses](https://open.spotify.com/track/5IGUQ0DfmXTp3kVJJxST5I) | [Big Mood](https://open.spotify.com/artist/49gX0zm1ncUuXsCz1Ug8u1), [Maria Unera](https://open.spotify.com/artist/4g0Hm55v0B1qMupOA2mvDW) | [No Roses](https://open.spotify.com/album/2rjTrNWnpYGVchCRKmoMF5) | 3:23 | 2021-12-06 | 2022-03-05 |
 | [Oh My Love](https://open.spotify.com/track/6CxlOmar3RFw3hAy1XVzcd) | [Kumail Jaffery](https://open.spotify.com/artist/5Wo2MMvWR5cQCwnYcSkrO3) | [Oh My Love](https://open.spotify.com/album/5xDBGGzvhjfhMLHvKW6bGD) | 2:53 | 2022-01-18 |  |
-| [OMG](https://open.spotify.com/track/2X60hQz6bswS3DAvBhtckg) | [Rozeo](https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [OMG](https://open.spotify.com/album/47Sdi35I8VIvGb1pCldY87) | 0:29 | 2021-12-06 |  |
+| [OMG](https://open.spotify.com/track/2X60hQz6bswS3DAvBhtckg) | [Rozeo](https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [OMG](https://open.spotify.com/album/47Sdi35I8VIvGb1pCldY87) | 3:12 | 2021-12-06 |  |
 | [Peechay Hutt](https://open.spotify.com/track/6ePcfMCQ7uUKwAamUiVtXL) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Justin Bibis](https://open.spotify.com/artist/3KYrINL7nZTQEVAu83bHw5), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Peechay Hutt](https://open.spotify.com/album/3rkEv4z7rgqYXgP0aLsBm0) | 3:45 | 2022-02-19 |  |
 | [Preacher](https://open.spotify.com/track/2H3Uj8S1v8doc5xKmzBSNQ) | [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R) | [Preacher](https://open.spotify.com/album/503g4DFFEgdkPgW0O9RUon) | 3:17 | 2021-12-06 |  |
 | [Prelude to Murder](https://open.spotify.com/track/2waewKqweTeOpm7XBqZFhB) | [Shorbanoor](https://open.spotify.com/artist/7DXkuP7zCFpe1beSL1LjjD), [Ali Suhail](https://open.spotify.com/artist/4kLAjoQyEFKD34AWugeUnj) | [Prelude to Murder](https://open.spotify.com/album/5CDZZg7cy75Ws3dGhWxsFU) | 2:26 | 2021-12-06 | 2022-01-29 |

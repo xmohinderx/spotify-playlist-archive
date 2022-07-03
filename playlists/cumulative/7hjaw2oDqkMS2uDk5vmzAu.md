@@ -4,13 +4,13 @@
 
 > Escape the world with the best, most relaxing Jazz.
 
-50 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/2lkF34ivWXj4FNUPybetur)
+50 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/2lkF34ivWXj4FNUPybetur)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/0KkmIGbNiEGloUla4TK4hP) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4Mq1I0fl1MwhOCUtWoX1Wl) | 0:00 | 2014-07-16 |  |
 | [](https://open.spotify.com/track/16TbVkFPNUtNkwCSZIziXJ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/16P67CKwAR45QleNvCINeX) | 0:00 | 2014-07-16 |  |
-| ['Round Midnight](https://open.spotify.com/track/6rIB9HudLdMSNEZaH8JxVm) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Plays Monk](https://open.spotify.com/album/3ar3gv14DQ9QnmF9n3D90G) | 0:29 | 2014-07-16 |  |
+| ['Round Midnight](https://open.spotify.com/track/6rIB9HudLdMSNEZaH8JxVm) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Plays Monk](https://open.spotify.com/album/3ar3gv14DQ9QnmF9n3D90G) | 6:13 | 2014-07-16 |  |
 | [A Hundred Dreams from Now](https://open.spotify.com/track/63kalFnjm1Wy8OvKXO7hWG) | [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [Ray Bryant Plays](https://open.spotify.com/album/4q8hkJRnSQaWiqW0b2Lw7G) | 3:26 | 2014-07-16 |  |
 | [Ain't Misbehavin'](https://open.spotify.com/track/2jCEQ4ViFk3rkb3zOzi3rS) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [Jazz For A Sunday Morning](https://open.spotify.com/album/4a3eASYMdFTbmEpdj29zvg) | 5:17 | 2014-07-16 |  |
 | [Autumn Leaves](https://open.spotify.com/track/1KGBpfScfuZVlgj5U4Tq31) | [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Either Way](https://open.spotify.com/album/4GdX9SFD6n0uynQPg2VOQY) | 4:44 | 2014-07-16 |  |
@@ -18,7 +18,7 @@
 | [Blue Monk](https://open.spotify.com/track/3Us7ZYk1MxPMvQu5mnI0Zw) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Blue Monk](https://open.spotify.com/album/2TscgjDmicRE7TZEr5ASMU) | 7:38 | 2014-07-16 |  |
 | [Blue Moon](https://open.spotify.com/track/3HBZd5XI252SYwC808uT2L) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Pastel Moods](https://open.spotify.com/album/3YoYGmLKQubSo3Ho30FmPC) | 2:37 | 2014-07-16 |  |
 | [Body And Soul](https://open.spotify.com/track/2W0aHErMSTAP2NTBAJlIrZ) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin), [Chris Anderson](https://open.spotify.com/artist/7GqvcADuInnGBhPzJphrpO) | [None But The Lonely Heart](https://open.spotify.com/album/3AIPq30cOmfWnDQgc1OHxI) | 6:24 | 2014-07-16 |  |
-| [Brazil](https://open.spotify.com/track/6m8ROlnJfX5nYsMydTKbzo) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt Memorial, Vol.1](https://open.spotify.com/album/2Dj3BTtfsqaQf795xk4lgm) | 0:29 | 2014-07-16 |  |
+| [Brazil](https://open.spotify.com/track/6m8ROlnJfX5nYsMydTKbzo) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt Memorial, Vol.1](https://open.spotify.com/album/2Dj3BTtfsqaQf795xk4lgm) | 2:47 | 2014-07-16 |  |
 | [Byablue \- Alt\. Version](https://open.spotify.com/track/0k2HFxlwobWynK1pimUa13) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Mysteries: The Impulse Years 1975\-1976](https://open.spotify.com/album/0Egmo33QeGlmH4YaAWdJnE) | 3:44 | 2014-07-16 |  |
 | [Chattanooga Choo Choo](https://open.spotify.com/track/2BmkX0a5MydjxUae3JsIVU) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [COME DANCING\-20 BIG BAND FAVOURITES](https://open.spotify.com/album/7LCLqbDYJWP55r9N4L3Gxf) | 3:15 | 2014-07-16 |  |
 | [Chelsea bridge](https://open.spotify.com/track/2Jy6tT44Ay0m5kTUQs2GJB) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Gerry Mulligan Meets Ben Webster](https://open.spotify.com/album/4zNw4NpLg78Rgog4Ath5aM) | 7:23 | 2014-07-16 |  |
@@ -26,7 +26,7 @@
 | [Do I Love You](https://open.spotify.com/track/29Zbj2JQKuUo1UDvBQIcHp) | [Russell Malone](https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb), [David Wong](https://open.spotify.com/artist/2uvK3qQRe94yfxfJ4qsCCr), [Montez Coleman](https://open.spotify.com/artist/4e0q9ui404rCzGkNXLhDDl) | [Triple Play](https://open.spotify.com/album/5mYG0eWbMtSsaxHwEGQBim) | 3:16 | 2014-07-16 |  |
 | [Don't Blame Me \- Rudy Van Gelder Remaster](https://open.spotify.com/track/1yJSiHvpYi1eZTrwStGoYJ) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Eastern Sounds](https://open.spotify.com/album/0963505kg714S5rqZwKZ9I) | 4:54 | 2014-07-16 |  |
 | [Groovin' High](https://open.spotify.com/track/3xK8Ec4RoHgFB9zDJkat8c) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Groovin' High](https://open.spotify.com/album/3Zvvgj16yTtmCVqndZUH7G) | 2:43 | 2014-07-16 |  |
-| [I Miss You So](https://open.spotify.com/track/5HrSt3w9604xJdMALbUcDl) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Scenes](https://open.spotify.com/album/0BY7XVm9kLLwDmQfXFL8G8) | 0:29 | 2014-07-16 |  |
+| [I Miss You So](https://open.spotify.com/track/5HrSt3w9604xJdMALbUcDl) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Scenes](https://open.spotify.com/album/0BY7XVm9kLLwDmQfXFL8G8) | 4:43 | 2014-07-16 |  |
 | [In A Sentimental Mood](https://open.spotify.com/track/51BfVxH0QfxTpFgZMMbhwK) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/7qsnx3thQiQabvDkHfqI1m) | 4:18 | 2014-07-16 |  |
 | [In Your Own Sweet Way](https://open.spotify.com/track/7lO3Go5i45lK7FKa9WOvUC) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [In Their Own Sweet Way](https://open.spotify.com/album/3xxZHHNXl3PxpjpO2ecQob) | 6:34 | 2014-07-16 |  |
 | [Into The Labyrinth](https://open.spotify.com/track/40kPjE7saRDW8mmBlksWUW) | [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv) | [Invisible Cinema](https://open.spotify.com/album/3xfueIrMUw57owAiYVKt8S) | 2:53 | 2014-07-16 |  |
@@ -49,7 +49,7 @@
 | [Something Cool](https://open.spotify.com/track/0g5tUbJKTsU3mjtUT0ePEK) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [Tampico](https://open.spotify.com/album/1mkYbTZnGZ88v6BcdRpMq1) | 4:22 | 2014-07-16 |  |
 | [Spellbound](https://open.spotify.com/track/5V54sGZrYzQHkaGRJ8OGsq) | [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE) | [Soul Shadows](https://open.spotify.com/album/1yRXy8NJobwcSzLpoUoara) | 3:45 | 2014-07-16 |  |
 | [Star Eyes](https://open.spotify.com/track/09Ht4aS2Lc6RwbcHVjrLXC) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [The Impulse Story](https://open.spotify.com/album/4lxBGNMymHqIidoIdNmMT5) | 5:01 | 2014-07-16 |  |
-| [Stardust](https://open.spotify.com/track/4nbqUfqKObLWhuUT7PWV1N) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Plays Ballads](https://open.spotify.com/album/2bI7k1iblL7PAIzHPA86Et) | 0:29 | 2014-07-16 |  |
+| [Stardust](https://open.spotify.com/track/4nbqUfqKObLWhuUT7PWV1N) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Plays Ballads](https://open.spotify.com/album/2bI7k1iblL7PAIzHPA86Et) | 6:25 | 2014-07-16 |  |
 | [Sweet Lorraine](https://open.spotify.com/track/3RbkATWswzKeNDJUZZL2jL) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:22 | 2014-07-16 |  |
 | [Tea For Two](https://open.spotify.com/track/51AU3m5W6phNq5wT2aOnhq) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq) | [Song Of The Vagabonds](https://open.spotify.com/album/0xJ0R0PmRCaYufCeZNjbqs) | 2:03 | 2014-07-16 |  |
 | [The Last Goodbye](https://open.spotify.com/track/5AuLuhe6LXvVod82HxJtXO) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Payton's Place](https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB) | 5:25 | 2014-07-16 |  |

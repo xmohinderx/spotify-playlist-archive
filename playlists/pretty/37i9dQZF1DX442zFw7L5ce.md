@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 
 > Fall in Love with the Beauties of Tollywood!<br/>Cover : Sai Pallavi
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,493 likes - 57 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,513 likes - 57 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 | 15 | [Whattey Beauty \- Telugu](https://open.spotify.com/track/3KUD3u6xFEIewEQVppwXbH) | [Dhanunjay Seepana](https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0), [Amala Chebolu](https://open.spotify.com/artist/0DdlrGRKjpM9Mqon7dHVm8), [Mahati Swara Sagar](https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd) | [Bheeshma](https://open.spotify.com/album/6AQtdnP4yOGeHGfVLU6J50) | 3:54 |
 | 16 | [Ay Pilla \- Telugu](https://open.spotify.com/track/5nVFeACm96rucybpDAjfK5) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Pawan Ch](https://open.spotify.com/artist/26FsIvdczntiZCsifDzKOK) | [Love Story](https://open.spotify.com/album/2qPF34ldSTpFg8SEywoQ8E) | 4:13 |
 | 17 | [He’S Soo Cute](https://open.spotify.com/track/4Ijq9U4ZvXuLord5plNeKR) | [Madhu Priya](https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY) | [Sarileru Neekevvaru](https://open.spotify.com/album/6vi0HnekV5nuzXB96NOAEL) | 3:29 |
-| 18 | [Undiporaadhey \- From "Hushaaru"](https://open.spotify.com/track/4e4XPlM5s86iz9YXdUuIMg) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Musical Magic of Sid Sriram](https://open.spotify.com/album/7vXgMTFLWO84G84kGc8KxJ) | 0:29 |
+| 18 | [Undiporaadhey \- From "Hushaaru"](https://open.spotify.com/track/4e4XPlM5s86iz9YXdUuIMg) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Musical Magic of Sid Sriram](https://open.spotify.com/album/7vXgMTFLWO84G84kGc8KxJ) | 2:53 |
 | 19 | [Pillaa Raa](https://open.spotify.com/track/47hP2BJPCOMyYKT5WQ9evZ) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [RX 100 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3vzddHOuT5R28vKakxD0qJ) | 3:57 |
 | 20 | [Kallumoosi](https://open.spotify.com/track/55uVx1s7InHUFdyw3iDJny) | [Suchit Suresan](https://open.spotify.com/artist/086LQYImDS05jNyttLA3V2) | [Majnu](https://open.spotify.com/album/3vHxGFNrNmkIwneqTFqnj1) | 3:37 |
 | 21 | [Ninnu Chuse Anandamlo \(From "Gang Leader"\)](https://open.spotify.com/track/7FMvOZMzbhKWBvwNCOByvc) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Ninnu Chuse Anandamlo \(From "Gang Leader"\)](https://open.spotify.com/album/6LsiFF3CU5YKaHmNg60pWB) | 4:53 |

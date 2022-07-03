@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 192240,
       "name": "24 Hours a Day",
       "url": "https://open.spotify.com/track/3hGTJe3xGgJKTR39eg6pIN"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 429813,
       "name": "Angel in My Pocket - Extended Version",
       "url": "https://open.spotify.com/track/3oLeHyYhacSx9LTy7jQiTZ"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 221026,
       "name": "Burn This Disco Out",
       "url": "https://open.spotify.com/track/6aCs8gCrp4yrwvw7ylhau2"
@@ -517,7 +517,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 297186,
       "name": "He's My Man - Extended Version",
       "url": "https://open.spotify.com/track/5niTFUJECbNZ0I2iLpot75"
@@ -668,24 +668,6 @@
     },
     {
       "album": {
-        "name": "If You Could Read My Mind",
-        "url": "https://open.spotify.com/album/0yCVcOhMbzwhCL1b8lYq8z"
-      },
-      "artists": [
-        {
-          "name": "Viola Wills",
-          "url": "https://open.spotify.com/artist/3zFfbTj9QY7pvmtjI53DB8"
-        }
-      ],
-      "date_added": "2022-05-17",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
-      "duration_ms": 29048,
-      "name": "If You Could Read My Mind",
-      "url": "https://open.spotify.com/track/6SuipERmfkj0SDFkK6wAeR"
-    },
-    {
-      "album": {
         "name": "Disco Town",
         "url": "https://open.spotify.com/album/5V85BzpisFxZyK5bhlUZei"
       },
@@ -697,10 +679,28 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 204938,
       "name": "If You Could Read My Mind",
       "url": "https://open.spotify.com/track/009bHl93A8kHlbDJLjkqHV"
+    },
+    {
+      "album": {
+        "name": "If You Could Read My Mind",
+        "url": "https://open.spotify.com/album/0yCVcOhMbzwhCL1b8lYq8z"
+      },
+      "artists": [
+        {
+          "name": "Viola Wills",
+          "url": "https://open.spotify.com/artist/3zFfbTj9QY7pvmtjI53DB8"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335720,
+      "name": "If You Could Read My Mind",
+      "url": "https://open.spotify.com/track/6SuipERmfkj0SDFkK6wAeR"
     },
     {
       "album": {
@@ -805,7 +805,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 407800,
       "name": "Lady America",
       "url": "https://open.spotify.com/track/5kEbQwj3CHP9Bqn5gejdmd"
@@ -1633,7 +1633,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 243160,
       "name": "What's Your Name, What's Your Number",
       "url": "https://open.spotify.com/track/0DFb31DLTYkgkNDJSqlPDH"

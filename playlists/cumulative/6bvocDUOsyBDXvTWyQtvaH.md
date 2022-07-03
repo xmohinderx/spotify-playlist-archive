@@ -4,12 +4,12 @@
 
 > Lo\-Fi, Beats, for Study and Focus\. Relax...
 
-102 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/0oHyJtp2nujyesfCs8zAlr)
+102 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/0oHyJtp2nujyesfCs8zAlr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1st Night](https://open.spotify.com/track/0HZxBsTYZqBz575a25JeBP) | [DOMENICO](https://open.spotify.com/artist/0njfgkVXlaTtQnSZx9awZt), [Devereaux](https://open.spotify.com/artist/77zJEu2Yfg2smyDiPobfFJ) | [no distraction\(s\)](https://open.spotify.com/album/0XefiX1k1ZKbZM6n1ipnhO) | 1:45 | 2021-09-09 |  |
-| [A Symbol of Emotions](https://open.spotify.com/track/3z8ff5GcNTZ3206jgrpE55) | [Coffeey](https://open.spotify.com/artist/47wFpzInWlChtygixZJ0db), [Behind Clouds](https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM) | [A Symbol of Emotions](https://open.spotify.com/album/2ZXovr18ohfn7OexeyWZYw) | 0:29 | 2021-09-09 |  |
+| [A Symbol of Emotions](https://open.spotify.com/track/3z8ff5GcNTZ3206jgrpE55) | [Coffeey](https://open.spotify.com/artist/47wFpzInWlChtygixZJ0db), [Behind Clouds](https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM) | [A Symbol of Emotions](https://open.spotify.com/album/2ZXovr18ohfn7OexeyWZYw) | 1:32 | 2021-09-09 |  |
 | [Advancing Into The Depths](https://open.spotify.com/track/5eWXl64vupCeqSNMdb3Sfd) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u) | [Study With Me](https://open.spotify.com/album/49I6oyDefsFFWzWbZebR7I) | 2:11 | 2021-09-09 |  |
 | [After Winter](https://open.spotify.com/track/3ULiYUvW0LkvmbiNCzan6v) | [Flingu](https://open.spotify.com/artist/0fpxSOtcY0UGK16Vl8RCjt) | [After Winter](https://open.spotify.com/album/15TMxpfQPPrP3qeJHhPIwM) | 2:01 | 2021-09-09 |  |
 | [Again](https://open.spotify.com/track/24Jk4wYlLRXI9TUMdkHoMN) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Penthouse](https://open.spotify.com/album/5MWhs2N3eO78ppIYmRUzmH) | 2:23 | 2021-09-09 |  |

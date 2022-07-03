@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/722UH6DU3oigTYKBnfBZSy.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 421 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 421 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/722UH6DU3oigTYKBnfBZSy.md) - [plain]
 | 31 | [Eye In The Sky](https://open.spotify.com/track/39qYD4J4BKvZMQgxfXl5bv) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [Eye In The Sky \(Expanded Edition\)](https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr) | 4:36 |
 | 32 | [Let's Groove](https://open.spotify.com/track/4ZXxmmsp1Nd7ejbHs2BNBG) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire\-Vol\. II](https://open.spotify.com/album/6rxdEnk6m2P66BxcXsQbNs) | 5:34 |
 | 33 | [Open Arms](https://open.spotify.com/track/1m2INxep6LfNa25OEg5jZl) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [The Essential Journey](https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R) | 3:18 |
-| 34 | [Leader Of The Band](https://open.spotify.com/track/6mxla84PBUMF4rrebq5kP4) | [Dan Fogelberg](https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO) | [Portrait: The Music Of Dan Fogelberg From 1972\-1997](https://open.spotify.com/album/3xzrUc5WHC8dv9UmiUWxH1) | 0:29 |
+| 34 | [Leader Of The Band](https://open.spotify.com/track/6mxla84PBUMF4rrebq5kP4) | [Dan Fogelberg](https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO) | [Portrait: The Music Of Dan Fogelberg From 1972\-1997](https://open.spotify.com/album/3xzrUc5WHC8dv9UmiUWxH1) | 4:53 |
 | 35 | [Leather and Lace \(with Don Henley\)](https://open.spotify.com/track/2npStoMbQxG1LcIeF4PZrj) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Timespace \- The Best Of Stevie Nicks](https://open.spotify.com/album/2zLZzOfiwQ4hnPCu2gVtKB) | 3:49 |
 | 36 | [Even the Nights Are Better](https://open.spotify.com/track/7lPh1t9NAKuHxiUrrDbHhj) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Ultimate Air Supply](https://open.spotify.com/album/5PXeBHFjvr8EykHfFxJMje) | 3:54 |
 | 37 | [I've Never Been To Me](https://open.spotify.com/track/5D1ke8QuVinJEZJ0AZZtxD) | [Charlene](https://open.spotify.com/artist/6V3LuodmG70Gbx6FvEWPo8) | [80s Mania](https://open.spotify.com/album/5hgzC9IxDx8wcos3LTGrCh) | 4:00 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/722UH6DU3oigTYKBnfBZSy.md) - [plain]
 | 44 | [Trouble](https://open.spotify.com/track/04ijIUVdT4Qy1SBWFUPROY) | [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Law and Order](https://open.spotify.com/album/38UhlwlFmxKBRVCUdaY21m) | 3:56 |
 | 45 | [Making Love](https://open.spotify.com/track/1UpKK7U9ow2K1G6qNw9wnW) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [I'm the One](https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4) | 3:44 |
 | 46 | [Love's Been A Little Bit Hard On Me](https://open.spotify.com/track/37zpChlZkoFuScXLoiu0WE) | [Juice Newton](https://open.spotify.com/artist/4L1z1IcfK7lbqx8izGHaw5) | [Juice Newton's Greatest Hits](https://open.spotify.com/album/0fSvQOkU8rRgcsW6MerdVw) | 3:15 |
-| 47 | [Young Turks \- 2008 Remaster](https://open.spotify.com/track/5n1amEDwVKucAGMqePk9yN) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Definitive Rod Stewart](https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj) | 0:29 |
+| 47 | [Young Turks \- 2008 Remaster](https://open.spotify.com/track/5n1amEDwVKucAGMqePk9yN) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Definitive Rod Stewart](https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj) | 5:02 |
 | 48 | [Freeze\-Frame](https://open.spotify.com/track/4QiBSGoonOPoCcldn0DYCq) | [The J\. Geils Band](https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F) | [Best Of The J\. Geils Band](https://open.spotify.com/album/2FZfWyxQuzOcmwzrxlqKRp) | 3:58 |
 | 49 | [Keep the Fire Burnin'](https://open.spotify.com/track/07wMk0CZVZRMqhF66r40Z8) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Good Trouble](https://open.spotify.com/album/2jfKXB9MYWMcVnxa1dBXnR) | 3:54 |
 | 50 | [Do You Believe In Love](https://open.spotify.com/track/1Flq3q4sDw3EYqk8Z9agIe) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Greatest Hits: Huey Lewis And The News](https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj) | 3:27 |

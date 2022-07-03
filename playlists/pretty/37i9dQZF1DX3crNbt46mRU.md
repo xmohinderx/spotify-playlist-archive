@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Cardi B
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,883 likes - 94 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,878 likes - 94 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 16 | [Let Love Go](https://open.spotify.com/track/6wULOKKYcFk3K6bJnFPxMg) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Let Love Go](https://open.spotify.com/album/1neoGq8qTuu9k4QbBQqxgj) | 2:53 |
 | 17 | [GEILER MIT DIR](https://open.spotify.com/track/1Q5sxNeboQDoMrFmSWz4zj) | [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [GEILER MIT DIR](https://open.spotify.com/album/1RVjddFVQEnz6wEU0BN42j) | 2:01 |
 | 18 | [Why Can't You Wait](https://open.spotify.com/track/2qtryeKSrI7RgSBo1N3uXv) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [So Far So Good \(+ Why Can't You Wait\)](https://open.spotify.com/album/6lZXf2zysA8254dmpzvrhw) | 3:49 |
-| 19 | [Hard Out Here](https://open.spotify.com/track/4cjJzTza5lCcSuFOKOzZ4U) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Hard Out Here](https://open.spotify.com/album/3CoftMaewRZt7oW4cTMlv7) | 3:11 |
+| 19 | [Hard out Here](https://open.spotify.com/track/4cjJzTza5lCcSuFOKOzZ4U) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Hard out Here](https://open.spotify.com/album/3CoftMaewRZt7oW4cTMlv7) | 3:11 |
 | 20 | [What A Night](https://open.spotify.com/track/3FUlqltjiMMJdyEPaYAUqK) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [What A Night](https://open.spotify.com/album/5x8srROrtSoC8dCCj6XtHf) | 2:04 |
 | 21 | [Kids Are Born Stars](https://open.spotify.com/track/2pD74s7WAlBWUXjrTsKgdS) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Kids Are Born Stars](https://open.spotify.com/album/7HhcskxiIqyd0KthMqR7eA) | 3:07 |
 | 22 | [Summer Love \(feat\. Erich Lennig\)](https://open.spotify.com/track/7DG7wIZsVJKeQcaWNuhstl) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS), [Erich Lennig](https://open.spotify.com/artist/2T7bdw0TFPa9G27D2cVNCh) | [Summer Love \(feat\. Erich Lennig\)](https://open.spotify.com/album/1iGvNwm6sMFRe3hkfUsx08) | 2:36 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 68 | [Tequila](https://open.spotify.com/track/5cGqXA6HN7D2zh9WhrZGt7) | [Tayna](https://open.spotify.com/artist/5Cj0xJrG2k8TPOJQ1vdAmZ), [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh) | [Tequila](https://open.spotify.com/album/27FN1gqV5sHfl5Aymlg74r) | 2:43 |
 | 69 | [UND JETZT ALLE](https://open.spotify.com/track/4lNmci0etZX0px7pgvpIjP) | [Die Atzen](https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu) | [UND JETZT ALLE](https://open.spotify.com/album/4j1fR341jaDlGNh0sVYadB) | 2:05 |
 | 70 | [Bad Habit](https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit](https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V) | 3:52 |
-| 71 | [Intro](https://open.spotify.com/track/08JNVaWt7RAEs4e043M852) | [KeKe](https://open.spotify.com/artist/72uK8geg5BPRRzdGBmmtAF) | [Intro](https://open.spotify.com/album/0uM1UIvWLbzTgLIanS1VXK) | 2:09 |
+| 71 | [Intro](https://open.spotify.com/track/08JNVaWt7RAEs4e043M852) | [KeKe](https://open.spotify.com/artist/72uK8geg5BPRRzdGBmmtAF) | [Intro](https://open.spotify.com/album/0uM1UIvWLbzTgLIanS1VXK) | 2:10 |
 | 72 | [Easy Tiger](https://open.spotify.com/track/42FGkGVyA6nWw8SzwilZKK) | [Evelinn Trouble](https://open.spotify.com/artist/49GbMjOzWCx2QZHPCY6F5K) | [Easy Tiger](https://open.spotify.com/album/3eObMwQiC7TqhVhfRbziqH) | 4:24 |
 | 73 | [Rihanna \(Umbrella\)](https://open.spotify.com/track/1oQLS1Guu4Vb1NstarqeEc) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Rihanna \(Umbrella\)](https://open.spotify.com/album/6xAsrhQF5IkIXsiozfWP3J) | 2:36 |
 | 74 | [LALALA](https://open.spotify.com/track/4cWBmLmhDySl6oK6nT6ONW) | [LCone](https://open.spotify.com/artist/10fua9lLREs5JISPcCyyJn) | [LALALA](https://open.spotify.com/album/2FtR5jiIDwgxpMa1D4AUOs) | 2:35 |

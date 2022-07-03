@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 
 > Relive last night's fun with jigs and reels out of Ireland – alongside trad tracks inspired and influenced by Celtic traditions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,407 likes - 86 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,476 likes - 86 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 | 58 | [Poirt: Delia Keane's/ the Horse's Leotard/ Seán Buí/ the Dawn Chorus](https://open.spotify.com/track/4xMIrCA6Lqs5kRlVBmC7eB) | [Téada](https://open.spotify.com/artist/1VBQhu7f3xYuYPxCo0ddQF) | [Inné Amárach](https://open.spotify.com/album/73JMoR45oAEh3PRn9FjfuG) | 4:55 |
 | 59 | [The Ships Are Sailing/The Cup Of Tea](https://open.spotify.com/track/1AoBoAOHEE2n5iQ99ngKf6) | [Alan McCartney & Paul Bradley & Jason O'Rourke & Brendan O'Hare & Ray Gallen](https://open.spotify.com/artist/0IMlCgkOv8meUbMYENZ1zq) | [Traditional Irish Music From Belfast](https://open.spotify.com/album/4ZZPVBEYihkdUgctMNeFSD) | 4:25 |
 | 60 | [Cronin's / I Do Not Incline](https://open.spotify.com/track/3n1bWif204sqx4WEKNsC5o) | [Jack Talty & Cormac Begley](https://open.spotify.com/artist/60mipt3IynE5fA4ofslbBW) | [Na Fir Bolg](https://open.spotify.com/album/3y1G4HdofbXTslkCJzMiBt) | 3:25 |
-| 61 | [Road Up the Bog / One More Pint / Karin Eating a Pickle](https://open.spotify.com/track/4YPAxoYh2yYyrRKrYYEeIR) | [Marys Lane](https://open.spotify.com/artist/3oHO6keHwM1h3iW81nhj2z) | [Power in a Tiny Bottle](https://open.spotify.com/album/7cwu5GGMKBKMBvn5HZFieZ) | 0:29 |
+| 61 | [Road Up the Bog / One More Pint / Karin Eating a Pickle](https://open.spotify.com/track/4YPAxoYh2yYyrRKrYYEeIR) | [Marys Lane](https://open.spotify.com/artist/3oHO6keHwM1h3iW81nhj2z) | [Power in a Tiny Bottle](https://open.spotify.com/album/7cwu5GGMKBKMBvn5HZFieZ) | 3:43 |
 | 62 | [The Fox Chase](https://open.spotify.com/track/397k1c9L1ywksIZ3jCJse3) | [The Fureys](https://open.spotify.com/artist/1WHVWwMFnjB3oRcjr7nVPP) | [The Spanish Cloak: The Best of the Fureys](https://open.spotify.com/album/2ve8pwvj11gp4SVvevPTPD) | 7:11 |
 | 63 | [The Strayaway Child / The Lark in the Morning](https://open.spotify.com/track/7aaTYLPaja2A5dIkvJTSGh) | [Michael Gorman](https://open.spotify.com/artist/2OXiAIKWG8wGkuQ7J0gW87), [Margaret Barry](https://open.spotify.com/artist/6guJJOiuLKZXb4MJLxeKLk) | [Classic Celtic Music from Smithsonian Folkways](https://open.spotify.com/album/7cohLbONc8ZDmZFUvP6lKc) | 2:57 |
 | 64 | [The Lark in the Morning](https://open.spotify.com/track/4OGO4r86zxmxBaQDDrEV7z) | [James Kelly, Paddy O'Brien, Tommy Martin, Dáithí Sproule & Fintan Vallely](https://open.spotify.com/artist/50Yqm0o6wCZtZgQz8y3dvT) | [The Center for Irish Music \- Young Irish Musicians Weekend Vol\. 1](https://open.spotify.com/album/7nQyGuUflwWgwf4quYOGKi) | 2:24 |

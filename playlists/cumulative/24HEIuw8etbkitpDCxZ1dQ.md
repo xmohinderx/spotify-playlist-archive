@@ -4,14 +4,14 @@
 
 > A playlist with songs from the best reviewed albums in Sweden 2012.
 
-61 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/0gAM7iqeArqsehi0zGHYli)
+61 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/0gAM7iqeArqsehi0zGHYli)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1904](https://open.spotify.com/track/3mxbdRPqMWp8dwjBXnODkz) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [There´s No Leaving Now](https://open.spotify.com/album/17pCKYQuyvox8TUzbbZaKL) | 3:59 | 2012-10-22 |  |
 | [Adorn](https://open.spotify.com/track/1GYjMhOZ4sLd3xGvelcsi3) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Kaleidoscope Dream](https://open.spotify.com/album/4c37f9SDnzZ4Sj9ZLF35r0) | 3:13 | 2012-10-29 |  |
 | [Aimless Arrow](https://open.spotify.com/track/3iaEvaViClal6jo4GMOP2P) | [Converge](https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1) | [All We Love We Leave Behind \[Deluxe Edition\]](https://open.spotify.com/album/2P8qH1KVE5QTmsLnka9jgp) | 2:23 | 2012-10-22 |  |
-| [Ascending](https://open.spotify.com/track/6q0UUA6ELtztOmkrjUTiCm) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [R.I.P.](https://open.spotify.com/album/1iw1gr9TPYhIwmgoLPcRRG) | 0:29 | 2012-11-13 |  |
+| [Ascending](https://open.spotify.com/track/6q0UUA6ELtztOmkrjUTiCm) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [R.I.P.](https://open.spotify.com/album/1iw1gr9TPYhIwmgoLPcRRG) | 3:08 | 2012-11-13 |  |
 | [Askan är den bästa jorden](https://open.spotify.com/track/0rJ11PgSzRDjDPBQOQ3wLP) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Mänsklig värme](https://open.spotify.com/album/0snLl5NOtBxWegGE6BHJ4Y) | 3:07 | 2012-10-22 |  |
 | [Be Strong](https://open.spotify.com/track/2LgUF32UKG7qXxEl44Yuje) | [The 2 Bears](https://open.spotify.com/artist/0tCMgjr8y7UKNmE3B1Uwbl) | [Be Strong](https://open.spotify.com/album/0DSCXv8rx9jJgdqZnJ2LH9) | 4:42 | 2012-10-22 |  |
 | [Before the Colors Fade](https://open.spotify.com/track/3eBHc8Fs8iQtnfAMt5jsOr) | [Iris DeMent](https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY) | [Sing the Delta](https://open.spotify.com/album/6cjmg40IRI5GuZJuFWIcg8) | 5:04 | 2012-10-22 |  |

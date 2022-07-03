@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkxJwAfCZA3.md) - [plain]
 
 > <a href="spotify:artist:6TshTCYwh9ySzOO6Jy4Ux2"> Maya Jane Coles</a>' favorite tracks\. Updated regularly\. Curated by Maya Jane Coles Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,415 likes - 50 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,422 likes - 50 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkxJwAfCZA3.md) - [plain]
 | 32 | [Watch & Learn \(feat\. Kid Enigma\)](https://open.spotify.com/track/5wAo9QTLppPX6bJBlSL6rh) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [M.F.S: Observatory](https://open.spotify.com/artist/0UNvC4HpuvEq34FrRSePW8), [Kid Enigma](https://open.spotify.com/artist/6xh20mDGCfR9jH2tYotdBE) | [Know About](https://open.spotify.com/album/5Mb42Z0ajvNfN0uDXNAgrB) | 5:24 |
 | 33 | [Axe Nord\-Sud](https://open.spotify.com/track/1HsMIxRWkaae0ju7JIEGxh) | [Ténèbre](https://open.spotify.com/artist/6vzW5RpSfm0rFhNouR5J3E) | [Territory III](https://open.spotify.com/album/1VE2bwwZHlkMUdTOScdIMg) | 5:35 |
 | 34 | [Clear Skies](https://open.spotify.com/track/0A8tgWH38E0s5n5iCwfvAU) | [Dustin Zahn](https://open.spotify.com/artist/6ScDJaxsDqmtEB0CZY3WAC) | [Tiny Shocks](https://open.spotify.com/album/3Bqx8SdEbAzx48FMM7UE6A) | 4:52 |
-| 35 | [Duat](https://open.spotify.com/track/5Hyns7jBXNFQ8QU5QSUpWl) | [Introversion](https://open.spotify.com/artist/7qXRl6cKc9zsbV0ekjUQKm) | [Onryo](https://open.spotify.com/album/7FLffI1hePBCjjOi7umUZ1) | 0:29 |
+| 35 | [Duat](https://open.spotify.com/track/5Hyns7jBXNFQ8QU5QSUpWl) | [Introversion](https://open.spotify.com/artist/7qXRl6cKc9zsbV0ekjUQKm) | [Onryo](https://open.spotify.com/album/7FLffI1hePBCjjOi7umUZ1) | 6:10 |
 | 36 | [Chaos in the Distance](https://open.spotify.com/track/2dNYZepmpo2RrnytcoZTrW) | [CAYAM](https://open.spotify.com/artist/2aysJuzHqgXqkPJDwwB6a1), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Chaos in the Distance](https://open.spotify.com/album/2n9l0wW4X2UI1jWyipbkxF) | 6:12 |
 | 37 | [Uno A](https://open.spotify.com/track/7iJlLsF5jj3JBwcIDtq0EB) | [Héctor Oaks](https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x), [Cadency](https://open.spotify.com/artist/7vtfW4vufE4fom6V6PSIgD) | [Año V\-I](https://open.spotify.com/album/0yvbaYBJiYhcPT2J1fhtk6) | 5:32 |
 | 38 | [Know About](https://open.spotify.com/track/36qBEWI66VcB7MdnS9nIuM) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [M.F.S: Observatory](https://open.spotify.com/artist/0UNvC4HpuvEq34FrRSePW8) | [Know About](https://open.spotify.com/album/5Mb42Z0ajvNfN0uDXNAgrB) | 4:57 |

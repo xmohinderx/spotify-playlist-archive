@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house, bass house and four on the floor records, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 4,839 likes - 25 songs - 1 hr 27 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 4,843 likes - 25 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Don't Think Much ft\. Talk Show](https://open.spotify.com/track/3wwP8gdryUwmSn0Q978GXL) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Rudeboi](https://open.spotify.com/album/3aFcW1f1Deq9F7cwJDkbd5) | 3:35 |
 | 2 | [Trompeta](https://open.spotify.com/track/6o4BO9LLCPe5p43YKZzFuv) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Trompeta](https://open.spotify.com/album/3fyDFUE6R0Q8TdFHC5q2nz) | 3:08 |
-| 3 | [Shake my Booty](https://open.spotify.com/track/3IBB4CapSuRZRcG4Hw9rve) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Shake my Booty](https://open.spotify.com/album/1GZQmpFcCXz8rVVNmMQpSi) | 3:22 |
+| 3 | [Shake My Booty](https://open.spotify.com/track/3IBB4CapSuRZRcG4Hw9rve) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Shake My Booty](https://open.spotify.com/album/1GZQmpFcCXz8rVVNmMQpSi) | 3:22 |
 | 4 | [Respect](https://open.spotify.com/track/0MUkp3FeTSqv2S9QYb6PKD) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [Move Your Body](https://open.spotify.com/album/4IaOn85cUSBv3eNt7qfu7E) | 3:10 |
 | 5 | [Out Every Night](https://open.spotify.com/track/6nuGXSzSMIGWE9QD3iNq9q) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ) | [Out Every Night](https://open.spotify.com/album/4CVNj8VhVJ1FgejIwvSXFb) | 2:41 |
 | 6 | [Distance](https://open.spotify.com/track/5WxyKbZJepO7ixilyXujUV) | [CHAN](https://open.spotify.com/artist/2OiNf733fKkfD7knroHkaQ) | [Distance](https://open.spotify.com/album/5spQ8UdmCBoTdNLWVDOIaM) | 3:44 |

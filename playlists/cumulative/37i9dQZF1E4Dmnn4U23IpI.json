@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-01",
-  "description": "With A.L.I.S.O.N, J+1, admo and more",
+  "description": "With Trevor Something, A.L.I.S.O.N, Memorex Memories and more",
   "name": "The Midnight Radio",
   "published_playlist_ids": [
     "2T4bEFEfvvK4qvB1iHmD1n"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 259800,
       "name": "All at Once",
       "url": "https://open.spotify.com/track/7nznhnPhlVij942eItRg7k"
@@ -1413,7 +1413,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 250000,
       "name": "Azur",
       "url": "https://open.spotify.com/track/7f8GsWEQdn6FGOPFQNWlS1"
@@ -1431,7 +1431,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 221223,
       "name": "Baby Boo",
       "url": "https://open.spotify.com/track/1kVYYCg6fa4G9Gg0hqjOm9"
@@ -2215,7 +2215,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 304000,
       "name": "Breeze Bay",
       "url": "https://open.spotify.com/track/0zsYwY8ThFADNr77hPKh6g"
@@ -2327,7 +2327,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 198060,
       "name": "Buzz Lightyear - WRLD Remix",
       "url": "https://open.spotify.com/track/7cRWofb8ObVKlDDYaQy6lR"
@@ -2551,7 +2551,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 201600,
       "name": "Cerise de L'espace",
       "url": "https://open.spotify.com/track/2hGFuJ69IKoJjaHSIt1k6u"
@@ -2591,7 +2591,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 177726,
       "name": "Chamomile Tea",
       "url": "https://open.spotify.com/track/4hl0xxnnQ2QNjZYVwizQaw"
@@ -2645,7 +2645,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 173901,
       "name": "City Life",
       "url": "https://open.spotify.com/track/7fwFqwOoj94VqixbEX2IGk"
@@ -2855,7 +2855,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 142000,
       "name": "Coast",
       "url": "https://open.spotify.com/track/4Wzd5oqsk4qh3xbotnK9Rx"
@@ -4320,6 +4320,24 @@
     },
     {
       "album": {
+        "name": "Love Me and Leave Me",
+        "url": "https://open.spotify.com/album/1YzNcVMQmRxiqGn2nJRpjv"
+      },
+      "artists": [
+        {
+          "name": "Trevor Something",
+          "url": "https://open.spotify.com/artist/6bWylzDlsTfR8khADRQJfd"
+        }
+      ],
+      "date_added": "2022-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152089,
+      "name": "Dreamgirl",
+      "url": "https://open.spotify.com/track/5soTHPHMh6iGmYX0Gbd7h4"
+    },
+    {
+      "album": {
         "name": "Dreamless",
         "url": "https://open.spotify.com/album/0u3sO9nWTIeW1P3pIHhtDz"
       },
@@ -4499,7 +4517,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 257341,
       "name": "Dust + Stars",
       "url": "https://open.spotify.com/track/3wtiqIopwLEsyE7i33ZhEg"
@@ -4705,7 +4723,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 181824,
       "name": "Emerald",
       "url": "https://open.spotify.com/track/4TBhtNQ9yvvR8jzqpylHgK"
@@ -5355,7 +5373,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 246618,
       "name": "Feel Electric",
       "url": "https://open.spotify.com/track/0bCkqJrFdg3ym1Ko00j2Te"
@@ -6201,7 +6219,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 150352,
       "name": "Give 'Em the Love - Instrumental",
       "url": "https://open.spotify.com/track/0JE1M1MPSpJWmbnp3yAEyB"
@@ -6609,7 +6627,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 213132,
       "name": "Head First",
       "url": "https://open.spotify.com/track/3tjwjBfPO1pyjhnrI0J5Nq"
@@ -6873,7 +6891,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 254504,
       "name": "Home",
       "url": "https://open.spotify.com/track/4UGGGk1YpKeknVkAB7wc1d"
@@ -7087,7 +7105,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 274229,
       "name": "I Forgot About the Stars",
       "url": "https://open.spotify.com/track/1SAxzKDyBS4cBgiX7jU9xJ"
@@ -7261,7 +7279,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 230424,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/3v9UL98FtyX7fEyPbACI7X"
@@ -7832,6 +7850,24 @@
     },
     {
       "album": {
+        "name": "Bots Don't Cry",
+        "url": "https://open.spotify.com/album/58tKQ3Sbf1Yx79AnZIUufD"
+      },
+      "artists": [
+        {
+          "name": "Trevor Something",
+          "url": "https://open.spotify.com/artist/6bWylzDlsTfR8khADRQJfd"
+        }
+      ],
+      "date_added": "2022-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262228,
+      "name": "It's Over",
+      "url": "https://open.spotify.com/track/3qlrSeiKEfXxyphcRBIrTj"
+    },
+    {
+      "album": {
         "name": "Endless Summer",
         "url": "https://open.spotify.com/album/4Krg8zvprquh7TVn9OxZn8"
       },
@@ -8217,7 +8253,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 294000,
       "name": "Kuroshio",
       "url": "https://open.spotify.com/track/6fAIHLpCX1gBOL1bKmEbQu"
@@ -8482,6 +8518,24 @@
     },
     {
       "album": {
+        "name": "Jupiter",
+        "url": "https://open.spotify.com/album/7htPcR3in3wB9Ijh63yNT3"
+      },
+      "artists": [
+        {
+          "name": "Maximum Love",
+          "url": "https://open.spotify.com/artist/6iDI0sHLIeFIkZk6BKJBVQ"
+        }
+      ],
+      "date_added": "2022-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187504,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/0uywmeXDvZ6rhJj23UFPii"
+    },
+    {
+      "album": {
         "name": "Let Me Out",
         "url": "https://open.spotify.com/album/6nXagmzH8D7paMj4X5qFIp"
       },
@@ -8641,7 +8695,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 256800,
       "name": "Lightyears",
       "url": "https://open.spotify.com/track/4cTo2dxpf5bU1rVxmRSOeI"
@@ -9351,7 +9405,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 264000,
       "name": "Mellow Shrimp",
       "url": "https://open.spotify.com/track/3Uiu7maDGKoKMn8tTHrgh1"
@@ -10991,7 +11045,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 198848,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/0ePdiCdKUQLfu2yDOqHboL"
@@ -11953,7 +12007,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 190876,
       "name": "Purification",
       "url": "https://open.spotify.com/track/5caIlq2BbPS6aTEVsobSZA"
@@ -12347,7 +12401,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 193333,
       "name": "Remember When",
       "url": "https://open.spotify.com/track/4upoJ0awTJYCAIQbYlpMDl"
@@ -12557,7 +12611,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 244744,
       "name": "Rivage",
       "url": "https://open.spotify.com/track/4HjiB1iZpyPmKkK9vdbfOX"
@@ -13103,7 +13157,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 232941,
       "name": "Seaside",
       "url": "https://open.spotify.com/track/72NO7H8ru3MQH6hApOaCzk"
@@ -13663,7 +13717,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 230679,
       "name": "Simulate",
       "url": "https://open.spotify.com/track/1kThLSnrEqJEBDhCFvhJMG"
@@ -14039,7 +14093,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 230869,
       "name": "Sous la Nuit",
       "url": "https://open.spotify.com/track/0fvminDc9szFRP2pkg4s1L"
@@ -14129,8 +14183,8 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
-      "duration_ms": 29048,
+      "date_removed": null,
+      "duration_ms": 225096,
       "name": "Speed Boat Theme",
       "url": "https://open.spotify.com/track/72S8xS3wRof6ZZx05u9FRB"
     },
@@ -14259,7 +14313,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 179484,
       "name": "Starfields",
       "url": "https://open.spotify.com/track/3oBNE04PINdAG0rSzquVcn"
@@ -14295,7 +14349,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 234000,
       "name": "Stasis",
       "url": "https://open.spotify.com/track/109FawYwsgasMHcKQYqSLa"
@@ -14491,7 +14545,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 320290,
       "name": "Strong",
       "url": "https://open.spotify.com/track/73MUjIcRB7yBfVDuShpv8d"
@@ -14725,7 +14779,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 224250,
       "name": "Sunset Drive",
       "url": "https://open.spotify.com/track/2RBLdl51kWo02EWFWqhf2K"
@@ -17225,6 +17279,24 @@
       "duration_ms": 136548,
       "name": "Where the Light Is...",
       "url": "https://open.spotify.com/track/01Ir1r6rBgeyNnr9jVUGYj"
+    },
+    {
+      "album": {
+        "name": "Smile for the Camera",
+        "url": "https://open.spotify.com/album/16H082krIlIkA7TNTlukQ8"
+      },
+      "artists": [
+        {
+          "name": "Eagle Eyed Tiger",
+          "url": "https://open.spotify.com/artist/3nqTFzjmi1LLM6pn0TRMv8"
+        }
+      ],
+      "date_added": "2022-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229189,
+      "name": "While She Loved Me",
+      "url": "https://open.spotify.com/track/3el4WbzRpNXm75tnPDZAiN"
     },
     {
       "album": {

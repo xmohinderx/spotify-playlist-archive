@@ -4,14 +4,14 @@
 
 > The Spotify House 2015 Thursday lineup.
 
-20 songs - 1 hr 12 min - [published](https://open.spotify.com/playlist/7ckrUpDroxHr9SwDwTLicA)
+20 songs - 1 hr 16 min - [published](https://open.spotify.com/playlist/7ckrUpDroxHr9SwDwTLicA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Blind Heart \- Radio Edit](https://open.spotify.com/track/3Wb4T8OJg4obJNBMUYgfPm) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS), [Terri B!](https://open.spotify.com/artist/6eke2ECTHhJgqVsArc8t5z) | [Blind Heart \(Radio Edit\)](https://open.spotify.com/album/7ga1udMTCW1AwyUOoh9qXS) | 3:17 | 2015-03-03 |  |
 | [Chimes RMX](https://open.spotify.com/track/57XBsSqOUWLDIAxUxbar04) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Chimes RMX](https://open.spotify.com/album/2gan07HhG8HzFFyi3qVivp) | 3:12 | 2015-03-04 |  |
 | [Coffins](https://open.spotify.com/track/4yP0JmB5w21MtWfLV98lIp) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Reflections](https://open.spotify.com/album/5xM6nKztgu6QNXj8ciiUEg) | 3:10 | 2015-02-12 |  |
-| [Dangerous \(feat\. Joywave\)](https://open.spotify.com/track/2rPw8mIZPu987REVeDbrjt) | [Big Data](https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa), [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Dangerous \(feat\. Joywave\)](https://open.spotify.com/album/6ut9RO5CKAIBvrEZ6Q85Ph) | 0:29 | 2015-02-12 |  |
+| [Dangerous \(feat\. Joywave\)](https://open.spotify.com/track/2rPw8mIZPu987REVeDbrjt) | [Big Data](https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa), [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Dangerous \(feat\. Joywave\)](https://open.spotify.com/album/6ut9RO5CKAIBvrEZ6Q85Ph) | 4:40 | 2015-02-12 |  |
 | [FUSE](https://open.spotify.com/track/2VYLZO3LakAgSWK9DTLWE3) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Butter](https://open.spotify.com/album/5mM1wM86RvYN7IPwAcyxLR) | 3:10 | 2015-02-23 |  |
 | [Ghosts](https://open.spotify.com/track/2bqx1nbXAI6ciOxzl2JbVC) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Ghosts](https://open.spotify.com/album/0xkbqzDDv6dtXVxOrQQtpM) | 3:31 | 2015-02-12 |  |
 | [Hold Back The River](https://open.spotify.com/track/6PZby1bNMj2ZEPShwQwJnL) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Hold Back The River](https://open.spotify.com/album/01TNBVXe8l4RZb3LDC7Iw6) | 3:59 | 2015-02-12 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DxcHtn4Hwo.md) - [plain]
 
 > Soothing instrumental music for sleepy babies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,607 likes - 355 songs - 10 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 552,817 likes - 355 songs - 10 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,7 +151,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DxcHtn4Hwo.md) - [plain]
 | 141 | [Fast Asleep](https://open.spotify.com/track/71j4WYjkHc24oZGrur3QlZ) | [John Felipe](https://open.spotify.com/artist/5ZrLtkcI48xbgH57MyAjEO) | [Fast Asleep](https://open.spotify.com/album/6HgJJ7aZtyyxb2IdtSqLj1) | 1:41 |
 | 142 | [Here We Go Looby Loo](https://open.spotify.com/track/4NMZDYNYp0AO6JvaeiC2w1) | [Rita James](https://open.spotify.com/artist/1RvUEvUmNBz3SouH9hSzXK) | [Here We Go Looby Loo](https://open.spotify.com/album/5Lc9AiHPtuTU6aOMWtlIf0) | 2:10 |
 | 143 | [Touching the sky](https://open.spotify.com/track/4D9S99PiDD7HfzGr2Tfmaf) | [Joseph Turley](https://open.spotify.com/artist/3c9Mx9mtyfI6gv5czq8GPa) | [Touching the sky](https://open.spotify.com/album/0REKGFTLinAJl18qAxhPXv) | 1:40 |
-| 144 | [Sleepy cat](https://open.spotify.com/track/66fw0XwehRbhQxnf96zttd) | [Elwood Alvey](https://open.spotify.com/artist/0Mk4uWIZoZD5P6qovECUEk) | [Sleepy cat](https://open.spotify.com/album/3Mqae6qvNur415aC8ID1d6) | 0:29 |
+| 144 | [Sleepy cat](https://open.spotify.com/track/66fw0XwehRbhQxnf96zttd) | [Elwood Alvey](https://open.spotify.com/artist/0Mk4uWIZoZD5P6qovECUEk) | [Sleepy cat](https://open.spotify.com/album/3Mqae6qvNur415aC8ID1d6) | 1:18 |
 | 145 | [Baby Bestie](https://open.spotify.com/track/1CFCdx1MLQHorIyRpPGsiO) | [Yuri Lemon](https://open.spotify.com/artist/0k3NApRzdv5gXahVvFFNhC) | [Sweet Birdie](https://open.spotify.com/album/1V2v2IxBtL8XJdgOXtdulf) | 2:05 |
 | 146 | [Lucky As Can Be](https://open.spotify.com/track/0Cw53v0dDmtWV0V72G9ec6) | [Gus Holley](https://open.spotify.com/artist/3HY0QaaJZYvuIeZ6lmKzcM) | [Lucky As Can Be](https://open.spotify.com/album/4d43JX9UxcFpQtTZUzaBsw) | 1:48 |
 | 147 | [Tickled Pink](https://open.spotify.com/track/5A5pxPH7uPfEP5p1PPHY5p) | [Jesse Holderman](https://open.spotify.com/artist/7oquH151NkXtAdQmXJZuez) | [Tickled Pink](https://open.spotify.com/album/3cHhdshyNOq2RYPzuUKhwJ) | 1:46 |

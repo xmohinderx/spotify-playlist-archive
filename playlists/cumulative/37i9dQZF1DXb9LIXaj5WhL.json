@@ -37,7 +37,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 367933,
       "name": "32 Flavors",
       "url": "https://open.spotify.com/track/6oipWwDsUB0XCoZfZeRBvW"
@@ -995,7 +995,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 310466,
       "name": "Ophelia",
       "url": "https://open.spotify.com/track/54JfZxCEjNCwqicxTYsps1"
@@ -1067,7 +1067,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 274493,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/0EqtsCvcDjEz6svFsaV5HN"
@@ -1121,7 +1121,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 173493,
       "name": "Sex & Candy",
       "url": "https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv"
@@ -1391,10 +1391,28 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 279066,
       "name": "Untouchable Face",
       "url": "https://open.spotify.com/track/2E8AVQcuYSlXm12g112Kef"
+    },
+    {
+      "album": {
+        "name": "Whitey Ford Sings The Blues",
+        "url": "https://open.spotify.com/album/2Wbxdj9ABLszNA9xuGGQft"
+      },
+      "artists": [
+        {
+          "name": "Everlast",
+          "url": "https://open.spotify.com/artist/14ZxDAK6ITtZZqPdiWrvSn"
+        }
+      ],
+      "date_added": "2020-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303133,
+      "name": "What It's Like",
+      "url": "https://open.spotify.com/track/7pMVB2oz4Q4SlfTvvevNro"
     },
     {
       "album": {

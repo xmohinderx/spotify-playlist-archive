@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > Go deep in discovery for great new songs of faith and inspiration\. Cover: Becca Bradley
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,842 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,866 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 8 | [Miracles](https://open.spotify.com/track/3QzlaToAAD4RAI1NneP6uH) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Cafe Sessions](https://open.spotify.com/album/0y8StZ7GXFcsXq8BIDWG0h) | 3:38 |
 | 9 | [Mark My Hands](https://open.spotify.com/track/6nbwAzMvYE83l8Sp7UlDC2) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [Garage Sessions](https://open.spotify.com/album/7rihcgWC15RATcai38bxWW) | 5:43 |
 | 10 | [Alchemy](https://open.spotify.com/track/1GRcZ66VWTuCWHfENuebh9) | [Damian](https://open.spotify.com/artist/3MnicHyslW5NAnIMcOsGeK) | [Alchemy](https://open.spotify.com/album/3ojNI0Iitk4xoLY6QPNLgx) | 3:41 |
-| 11 | [Collide](https://open.spotify.com/track/6teXAe3jjyrye9rcpKgvSp) | [Antioch Cape Town](https://open.spotify.com/artist/2LSZm1g2gXfZlChtSZVTvx) | [Holy Roar](https://open.spotify.com/album/6V9BKbaGCtz7zyhxNJ1c3u) | 0:29 |
+| 11 | [Collide](https://open.spotify.com/track/6teXAe3jjyrye9rcpKgvSp) | [Antioch Cape Town](https://open.spotify.com/artist/2LSZm1g2gXfZlChtSZVTvx) | [Holy Roar](https://open.spotify.com/album/6V9BKbaGCtz7zyhxNJ1c3u) | 6:20 |
 | 12 | [Queen of a Wasteland](https://open.spotify.com/track/14IaGlfgUEAdGOU7hAILca) | [Becca Bradley](https://open.spotify.com/artist/0qPGusro9QlIqKGlgywzRU) | [Queen of a Wasteland](https://open.spotify.com/album/4emHfbGjN1LqDZ6xuxfGhY) | 3:07 |
 | 13 | [All Things New](https://open.spotify.com/track/2oS1ul2vytG27u33VUbMvQ) | [G12 Worship](https://open.spotify.com/artist/4oXrWm10NH01Ot8IxPASAw) | [All Things New](https://open.spotify.com/album/7BNnaGcSUvxBnpxyXvencQ) | 7:53 |
 | 14 | [Even Louder \(Spontaneous\) \- Live](https://open.spotify.com/track/31r3D1fQPyHvYnDSgNXWVm) | [The Church Will Sing](https://open.spotify.com/artist/0TfWxv8ygT7qBnqxqyYige) | [Even Louder \(Spontaneous\) \[Live\]](https://open.spotify.com/album/4RFvIjXutsFtMcLCQ0jhn2) | 7:08 |

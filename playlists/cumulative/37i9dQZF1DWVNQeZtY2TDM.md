@@ -4,7 +4,7 @@
 
 > From Taiwan to all the mandarin\-speaking regions, young generation is looking to hip\-hop for expression\. Cover: MC HotDog \(熱狗\)
 
-213 songs - 11 hr 12 min - [published](https://open.spotify.com/playlist/291lRyJLRS6L2qu4DuC54F)
+213 songs - 11 hr 15 min - [published](https://open.spotify.com/playlist/291lRyJLRS6L2qu4DuC54F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [歡迎光臨](https://open.spotify.com/track/3z1fDUPBQL43PrcmkQ7IY5) | [Multiverse](https://open.spotify.com/artist/0l2z1SB8aaIp8vNhI9i5YL), [Macdella](https://open.spotify.com/artist/2jGajbF57J3EZGtAjeH3Q0), [EyeballRay](https://open.spotify.com/artist/363CQz6rPzByyhhWS1zUQq) | [枉少年](https://open.spotify.com/album/5oeCirhdu856CeS3S6O0Nv) | 3:36 | 2022-04-11 |  |
 | [死神](https://open.spotify.com/track/1WzHncO3DVhFHYfe2K5MSg) | [Drogas](https://open.spotify.com/artist/6xKhAigwReihjwHyYywvEX) | [teardrop,saidmyname.](https://open.spotify.com/album/2wbIhjcjGqrXSBWr3heekU) | 2:57 | 2022-06-13 | 2022-06-28 |
 | [沒有你的生活像是個Nightmare](https://open.spotify.com/track/06jqyRSwrf3HPMDTetmlL7) | [Ace](https://open.spotify.com/artist/13jNwSdQV837VJRwD04XF6) | [沒有你的生活像是個Nightmare](https://open.spotify.com/album/5tb6uiieh64UhChf0y64Qu) | 2:44 | 2022-05-09 | 2022-05-24 |
-| [沒有妳在 \(feat\. 王ADEN\)](https://open.spotify.com/track/2ubBG8i1vOI02Pffd8zaYz) | [FRαNKIE阿法](https://open.spotify.com/artist/3NvVbjPU6W2AOEWitAUqwe), [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [沒有妳在 \(feat\. 王ADEN\)](https://open.spotify.com/album/3M9I0hjkXl6uj0UMzp9ZB7) | 0:29 | 2022-03-21 |  |
+| [沒有妳在 \(feat\. 王ADEN\)](https://open.spotify.com/track/2ubBG8i1vOI02Pffd8zaYz) | [FRαNKIE阿法](https://open.spotify.com/artist/3NvVbjPU6W2AOEWitAUqwe), [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [沒有妳在 \(feat\. 王ADEN\)](https://open.spotify.com/album/3M9I0hjkXl6uj0UMzp9ZB7) | 3:26 | 2022-03-21 |  |
 | [波斯](https://open.spotify.com/track/7Fjk7gT9FuPcInPY4fjJJ1) | [VaVa](https://open.spotify.com/artist/1apmSb6aeHZyr9zUsy1Z9q) | [V解之謎 I](https://open.spotify.com/album/4UfPkWmhiV99cDxHqi1q4P) | 4:10 | 2022-06-20 |  |
 | [泪滴](https://open.spotify.com/track/7MUJed6wxjpvihLRdMknyv) | [Sunny Lukas](https://open.spotify.com/artist/25htISTA2qcgslohjTAF2b), [xxxmiracle](https://open.spotify.com/artist/7xYZRDldU67u8GTyVYYLxQ) | [泪滴](https://open.spotify.com/album/3AIKtdToKusXLGGqoTQVjJ) | 3:24 | 2022-03-21 |  |
 | [流星](https://open.spotify.com/track/3qztJ8vACm5R2mQFGJXYgw) | [Louey J](https://open.spotify.com/artist/0Z3ERRVVxNxpYqoQLLgJc3) | [流星](https://open.spotify.com/album/5fVSbLWd4a35GD3PRGVIh6) | 3:50 | 2022-05-16 | 2022-05-31 |

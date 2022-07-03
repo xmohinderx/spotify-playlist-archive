@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTuEPedcYvVB.md) - [plain]
 
 > The official playlist for Top Boy\. Watch on Netflix
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,894 likes - 46 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,007 likes - 46 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTuEPedcYvVB.md) - [plain]
 | 16 | [Surgeon](https://open.spotify.com/track/0vLmr16yecpq6XJ3u63Dt7) | [Asher D](https://open.spotify.com/artist/6YHM1vRoDQZuS7GLVx7qVO), [Splurgeboy Tee](https://open.spotify.com/artist/3v2J9dZDXbhJfTBIRhwItZ) | [Surgeon](https://open.spotify.com/album/1BZrFRHQGc9V3mvOUfuBI8) | 3:27 |
 | 17 | [Trill Shit](https://open.spotify.com/track/03gJID2yRJnrWDssCBx77y) | [Nolay](https://open.spotify.com/artist/5DBQ8zSyCGuMkg52bhRG5X) | [Top Bitch](https://open.spotify.com/album/5Sz4wKUtVXEcwZhTVrihJo) | 2:15 |
 | 18 | [Same Old Story](https://open.spotify.com/track/4zTsnilS61CuECqMeq70Kw) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [EGO KILLS](https://open.spotify.com/album/6HlJrHxgT17qMj51pktUTf) | 2:58 |
-| 19 | [Game Is Da Game](https://open.spotify.com/track/4Vs3knfUbY1IAfrdTACvHt) | [Kyze](https://open.spotify.com/artist/7DIkSZ5iZaV3DROy7pnnJS), [RB The Producer](https://open.spotify.com/artist/0ZSV4R03fVVwzCiS9Lsv4k) | [Hell or High Water](https://open.spotify.com/album/7erDAQfKwfF5vQjf3FuEDX) | 0:29 |
+| 19 | [Game Is Da Game](https://open.spotify.com/track/4Vs3knfUbY1IAfrdTACvHt) | [Kyze](https://open.spotify.com/artist/7DIkSZ5iZaV3DROy7pnnJS), [RB The Producer](https://open.spotify.com/artist/0ZSV4R03fVVwzCiS9Lsv4k) | [Hell or High Water](https://open.spotify.com/album/7erDAQfKwfF5vQjf3FuEDX) | 2:13 |
 | 20 | [13 Angels Standing Guard 'Round The Side Of Your Bed](https://open.spotify.com/track/7jbLjvNlKbfCRUoFWKo5TR) | [Silver Mt\. Zion](https://open.spotify.com/artist/0bRpSBtMd3stO4J6TWclMb) | [He Has Left Us Alone But Shafts Of Light Sometimes Grace The Corner Of Our Rooms](https://open.spotify.com/album/298tKa2DPLT9GNmY8vsvLj) | 7:22 |
 | 21 | [Como Yo Lo Hago](https://open.spotify.com/track/470B3hidu0e4iEfVWKCgq6) | [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [The Best Soundz](https://open.spotify.com/artist/2exrpIj2TWt6s5YBqTqqbr) | [Como Yo Lo Hago](https://open.spotify.com/album/43xXAUd12YpWC2yJsPSilZ) | 3:41 |
 | 22 | [Mind Language](https://open.spotify.com/track/4jSLPUJKvVsG6avWAgFmY5) | [She Wyse](https://open.spotify.com/artist/03YynoWMMyKiLDbEVFBrrv) | [Mind Language](https://open.spotify.com/album/2Wp98D6txTTqGoBetjIxx4) | 2:57 |

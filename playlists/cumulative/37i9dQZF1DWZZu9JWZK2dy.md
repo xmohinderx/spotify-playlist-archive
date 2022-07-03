@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 00s\.  2000年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-62 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/39JhdRXejkPBSUicsoFlpo)
+62 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/39JhdRXejkPBSUicsoFlpo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [勇侠青春謳](https://open.spotify.com/track/7tbS1FAMmd8fNXQVzvDsWl) | [Ali Project](https://open.spotify.com/artist/1kCSjswFJFcjTauk0sKaOn) | [25周年記念ベストアルバム「愛と誠\~YAMATO & LOVE×××」](https://open.spotify.com/album/1C8RqCYhu5i4Mr827fe0R5) | 4:23 | 2021-09-14 |  |
 | [名探偵コナン メイン・テーマ \- 暗殺者ヴァージョン](https://open.spotify.com/track/4ELXBKQHnfWiNt6OUcSo15) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 瞳の中の暗殺者 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0fAhvb5Ir2kHM2DREhn45a) | 2:32 | 2021-09-14 |  |
 | [君の知らない物語](https://open.spotify.com/track/4EKMD4grPTUzXjHpKvvaY7) | [supercell](https://open.spotify.com/artist/4Mc3zbnQx4wRb0tYg7A8sG) | [君の知らない物語](https://open.spotify.com/album/7g2QUFVpJnkBkbGKzi85PB) | 5:41 | 2021-09-14 |  |
-| [射手座☆午後九時Don't be late](https://open.spotify.com/track/2ktC4ur8iNjJmYlkXoNpwM) | [シェリル・ノーム starring May'n](https://open.spotify.com/artist/5fruBgRiTeuJwkU5qvrdTq) | [「マクロスF」エンディングテーマ ダイアモンド クレバス/挿入歌 射手座☆午後九時Don't be late](https://open.spotify.com/album/6udbCYa1ouGCHDWhu6ZEQv) | 0:29 | 2021-09-14 |  |
+| [射手座☆午後九時Don't be late](https://open.spotify.com/track/2ktC4ur8iNjJmYlkXoNpwM) | [シェリル・ノーム starring May'n](https://open.spotify.com/artist/5fruBgRiTeuJwkU5qvrdTq) | [「マクロスF」エンディングテーマ ダイアモンド クレバス/挿入歌 射手座☆午後九時Don't be late](https://open.spotify.com/album/6udbCYa1ouGCHDWhu6ZEQv) | 5:43 | 2021-09-14 |  |
 | [崖の上のポニョ\(崖の上のポニョ\)](https://open.spotify.com/track/1Afz8sEPXEkwiDxHFbnx9Z) | [藤岡藤巻と大橋のぞみ](https://open.spotify.com/artist/2dBR2aSvDYdWziZvQSrEPz) | [スタジオジブリの歌 \-増補盤\-](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 2:46 | 2021-09-14 |  |
 | [心絵](https://open.spotify.com/track/2tHQgtm46XngnOFgATFJWM) | [Road Of Major](https://open.spotify.com/artist/5m0p1hLwjTBVYdgUyQaNaQ) | [ROAD OF MAJOR II](https://open.spotify.com/album/6Te53bOBN20DbtOgshIFrh) | 4:21 | 2021-09-14 |  |
 | [恋せよ女の子](https://open.spotify.com/track/3SpBoNC4Z5K1vkPy1FN1wV) | [Yukari Tamura](https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ) | [銀の旋律、記憶の水音。](https://open.spotify.com/album/68MIDqGUNbirDlgIYYNhfW) | 4:20 | 2021-09-14 |  |

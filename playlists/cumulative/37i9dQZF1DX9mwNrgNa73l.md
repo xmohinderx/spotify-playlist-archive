@@ -4,7 +4,7 @@
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-47 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/6jyKNP769IPaxkOJDH7ZYq)
+47 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/6jyKNP769IPaxkOJDH7ZYq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Allah Hi Reham](https://open.spotify.com/track/3WbmZDODopN9M7lDWd6uey) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Rashid Khan](https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv) | [My Name Is Khan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3U2w8t9JJNx2SrUkdY7XRa) | 4:01 | 2022-06-21 |  |
 | [Allah Hoo](https://open.spotify.com/track/2oAsqDg6T3r1aCuA6RnXmQ) | [Bilal Saeed](https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ) | [Allah Hoo](https://open.spotify.com/album/67MfQAsIqudWrhvPjP5MAr) | 4:02 | 2022-06-21 |  |
 | [Allah Hu](https://open.spotify.com/track/6EWDE9xJuEGK4CD9SMnlm9) | [Hamza Akram Qawwal](https://open.spotify.com/artist/1SqOrcBazuYQ8pcw4UuseT), [Taimoor Akram](https://open.spotify.com/artist/1cwy0UsOCVBUtJcMq80gzq), [Abdul Akram](https://open.spotify.com/artist/7h8qDn9P06lpRw7ARJxXnC) | [Allah Hu](https://open.spotify.com/album/1cYcGtARBCMQNpNrj8iEcu) | 4:56 | 2022-06-21 |  |
-| [Allahu Akbar](https://open.spotify.com/track/0oulvgKe81qlq8UvIW3uha) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Ahmed Jehanzeb](https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX) | [Coke Studio Season 10: Episode 1](https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8) | 0:29 | 2022-06-21 |  |
+| [Allahu Akbar](https://open.spotify.com/track/0oulvgKe81qlq8UvIW3uha) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Ahmed Jehanzeb](https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX) | [Coke Studio Season 10: Episode 1](https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8) | 8:39 | 2022-06-21 |  |
 | [Bhar Do Jholi Meri](https://open.spotify.com/track/52qnHAlqWpo3kgEteAPjRf) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz) | [Bajrangi Bhaijaan](https://open.spotify.com/album/4nZOPP0atfJbBlkedLYi7t) | 8:19 | 2022-06-21 |  |
 | [Bula Ki Jana Main Kon](https://open.spotify.com/track/6AxVCQ9FV3TJFq50GNCPcz) | [Sufiyana Kalaam](https://open.spotify.com/artist/2mQAde9guP1MW8yNK3Pr2C) | [Sufiyana Kalaam](https://open.spotify.com/album/4nJOgfyXqaFQRwGtcJcD7h) | 5:14 | 2022-06-21 |  |
 | [Bulleya](https://open.spotify.com/track/0Bz7dfqPY4JOGZO3O1j8Wh) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Amit Mishra](https://open.spotify.com/artist/2LgKrgRJcbJlt14i1LTzDU), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex) | 5:48 | 2022-06-21 |  |

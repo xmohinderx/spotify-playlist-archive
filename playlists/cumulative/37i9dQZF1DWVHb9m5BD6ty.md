@@ -4,7 +4,7 @@
 
 > The best in Black music from Ireland\. Cover: Soulé
 
-96 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/3nAIeyixZaYOskCsYoaIs7)
+96 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/3nAIeyixZaYOskCsYoaIs7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Jealous \(feat\. Rico Nasty\)](https://open.spotify.com/track/0IIn18QlxCeUpLPRaR6a7K) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Jealous \(feat\. Rico Nasty\)](https://open.spotify.com/album/2SNoIwHcpdsPWq8SuoqG3p) | 3:19 | 2021-10-26 | 2022-03-17 |
 | [K78 Bop \(feat\. Nadz20\)](https://open.spotify.com/track/0FcUEpeqkcT38SNLK70Jpp) | [Femz20](https://open.spotify.com/artist/3v3Pi3YRfCFklCJmXCWC8n), [Nadz20](https://open.spotify.com/artist/35App72eBUQ6IPQnuLI6Pc) | [K78 Bop \(feat\. Nadz20\)](https://open.spotify.com/album/2Ufc8HeqYxsLbyn9fpdGmO) | 3:35 | 2022-03-17 |  |
 | [Know You](https://open.spotify.com/track/30GaxnloZ9ayDQwnz3RW6e) | [Monjola](https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6) | [Know You](https://open.spotify.com/album/1Pprnco4ZZclQx5nHSKPDs) | 3:10 | 2022-03-17 |  |
-| [Ladies Night \(Freestyle\)](https://open.spotify.com/track/2rc3E5tuT8NCnXgwE8tbYS) | [JyellowL](https://open.spotify.com/artist/7zWrMTItje9ZjKK2XWTPle) | [Ladies Night \(Freestyle\)](https://open.spotify.com/album/4unU2ER6lmRSetQORPdmIn) | 0:29 | 2022-03-17 |  |
+| [Ladies Night \(Freestyle\)](https://open.spotify.com/track/2rc3E5tuT8NCnXgwE8tbYS) | [JyellowL](https://open.spotify.com/artist/7zWrMTItje9ZjKK2XWTPle) | [Ladies Night \(Freestyle\)](https://open.spotify.com/album/4unU2ER6lmRSetQORPdmIn) | 3:50 | 2022-03-17 |  |
 | [Letting You Know](https://open.spotify.com/track/3lt7UEgLnIFdNSbm5BzAW6) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Letting You Know](https://open.spotify.com/album/6eAACSfsRHEqRhP5QI8Tkr) | 3:04 | 2022-03-17 |  |
 | [Long Nights](https://open.spotify.com/track/7jJ8iI3nd7qtKEwpHBBiIX) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Long Nights](https://open.spotify.com/album/3VQp3peJICpaQMShwYRgJW) | 3:18 | 2022-03-17 |  |
 | [Love Tonight](https://open.spotify.com/track/0pkfyhvGnYHoSwGvRS36Gh) | [Soulé](https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP), [C Cane](https://open.spotify.com/artist/3iKIlc0XHCyQQf7yQqARkG) | [Love Tonight](https://open.spotify.com/album/48xz1tzlZKsT3cHbUCzt4t) | 3:14 | 2021-10-26 |  |

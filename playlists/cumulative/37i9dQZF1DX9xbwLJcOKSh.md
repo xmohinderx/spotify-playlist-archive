@@ -4,7 +4,7 @@
 
 > 作曲、編曲、プロデュースワークを中心に活動。ジャンルを超えた表現で三木鶏郎広告音楽賞等、数々のアワードを受賞。
 
-70 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/4DkdDOCbJszfCHw9VWkIi5)
+70 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/4DkdDOCbJszfCHw9VWkIi5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [友だち](https://open.spotify.com/track/20il4rKpoK50t6DXcCIBKF) | [Miki Imai](https://open.spotify.com/artist/64Y8hjY7esLUC8ucjtHYwZ) | [Love Of My Life](https://open.spotify.com/album/1yl7MPVZuRUbQB24ojqYOK) | 5:08 | 2022-02-28 |  |
 | [坂道のメロディ](https://open.spotify.com/track/1xhichS39SgiyDn6uY4nXk) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [プレイボール/坂道のメロディ](https://open.spotify.com/album/2PtuuArcpLmDu3yTien2zU) | 4:43 | 2022-02-28 |  |
 | [奇跡の海](https://open.spotify.com/track/3SvHpNm2zWsogFk9IVJdNQ) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [everywhere I](https://open.spotify.com/album/7xG3nzuiSnUvaz1r0PfY1G) | 4:18 | 2022-02-28 |  |
-| [射手座☆午後九時Don't be late](https://open.spotify.com/track/2ktC4ur8iNjJmYlkXoNpwM) | [シェリル・ノーム starring May'n](https://open.spotify.com/artist/5fruBgRiTeuJwkU5qvrdTq) | [「マクロスF」エンディングテーマ ダイアモンド クレバス/挿入歌 射手座☆午後九時Don't be late](https://open.spotify.com/album/6udbCYa1ouGCHDWhu6ZEQv) | 0:29 | 2022-02-28 |  |
+| [射手座☆午後九時Don't be late](https://open.spotify.com/track/2ktC4ur8iNjJmYlkXoNpwM) | [シェリル・ノーム starring May'n](https://open.spotify.com/artist/5fruBgRiTeuJwkU5qvrdTq) | [「マクロスF」エンディングテーマ ダイアモンド クレバス/挿入歌 射手座☆午後九時Don't be late](https://open.spotify.com/album/6udbCYa1ouGCHDWhu6ZEQv) | 5:43 | 2022-02-28 |  |
 | [恵みの雨](https://open.spotify.com/track/0kNlxVqWUzsOnLRhQXmeXy) | [Chitose Hajime](https://open.spotify.com/artist/0ii3SuIwfRs4pRH2sQ1J0U) | [カッシーニ](https://open.spotify.com/album/4leMfpPHyTAyxK6tmZBahG) | 5:43 | 2022-02-28 |  |
 | [愛してるのに Piano version](https://open.spotify.com/track/5gzFkqQpR17ydK2btXK9VC) | [Kome Kome Club](https://open.spotify.com/artist/5lTGqFmlTng9jPrs7c2dRA) | [ICTL no.2](https://open.spotify.com/album/0MxpCmkrYWpRpqWDCw0hN6) | 3:23 | 2022-02-28 |  |
 | [愛の輪郭\(フィールド\)](https://open.spotify.com/track/2CVboKPHCJboLDyMprE2gQ) | [KOKIA](https://open.spotify.com/artist/0gUsuVOGa73jzUAJ0WEJgo) | [「ブレンパワード」オリジナルサウンドトラック](https://open.spotify.com/album/4JrmfJenBP8aed2cBoU0pu) | 4:18 | 2022-02-28 |  |

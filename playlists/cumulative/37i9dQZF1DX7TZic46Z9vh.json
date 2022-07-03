@@ -107,7 +107,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 301139,
       "name": "Baby, Don't Let Me",
       "url": "https://open.spotify.com/track/3TAQxgTxSMaznFC1MHa0Xd"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 138759,
       "name": "Better Watch What You Do",
       "url": "https://open.spotify.com/track/2vK1U3UP6CRt4j8TybtIBD"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 209306,
       "name": "Buscando Alrededor",
       "url": "https://open.spotify.com/track/5yVnnBm29IVUB4clieoecf"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 313295,
       "name": "Change of Mind",
       "url": "https://open.spotify.com/track/2RUqjoWkthUIWyCfWnlyoi"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 307408,
       "name": "Ciudad Hippie",
       "url": "https://open.spotify.com/track/5LdkkBK0i72xJku8NXkXcw"
@@ -305,10 +305,28 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 157617,
       "name": "Como Yo",
       "url": "https://open.spotify.com/track/5OLjJx0sqC7LraFH3k0PB9"
+    },
+    {
+      "album": {
+        "name": "Super Onda Chicana",
+        "url": "https://open.spotify.com/album/3Mg8dzenMcNgMFqzsu1D5L"
+      },
+      "artists": [
+        {
+          "name": "Divisi\u00f3n Del Norte",
+          "url": "https://open.spotify.com/artist/1tWeuKQu8RxbmUNMCpnFjr"
+        }
+      ],
+      "date_added": "2021-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211130,
+      "name": "Dama Con Alma",
+      "url": "https://open.spotify.com/track/3B8bO0zU861MfWo71ItySI"
     },
     {
       "album": {
@@ -323,7 +341,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 249106,
       "name": "Do What Ever You Want It\u00b4s All Rigth",
       "url": "https://open.spotify.com/track/6ZV9QXg7Jk3sh3n1PnOWtz"
@@ -359,7 +377,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 162640,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/68Ta3hyeW5klPKqi0F4t5L"
@@ -431,7 +449,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 179240,
       "name": "Flores en Tu Pelo (Sn. Francisco \"Flowers In Your Hair\")",
       "url": "https://open.spotify.com/track/6V9FnhQ6JwhFabU2CHNbcN"
@@ -485,7 +503,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 234498,
       "name": "Groupie",
       "url": "https://open.spotify.com/track/5CNo2B3LgMJgheq3ikhVir"
@@ -503,7 +521,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 243519,
       "name": "Hard Life",
       "url": "https://open.spotify.com/track/5sCzsYgxq3a4lVhBvp7FXJ"
@@ -546,6 +564,24 @@
     },
     {
       "album": {
+        "name": "Rock Sound",
+        "url": "https://open.spotify.com/album/3O3bm3NTe7IRZHPmbm2dMZ"
+      },
+      "artists": [
+        {
+          "name": "Las Moskas",
+          "url": "https://open.spotify.com/artist/5tqciiCyuTvqWLNGE7MvpY"
+        }
+      ],
+      "date_added": "2021-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Incienso y Menta (Incence & Peppermints)",
+      "url": "https://open.spotify.com/track/38E8Nnyvf5eAtT8KHfHTxN"
+    },
+    {
+      "album": {
         "name": "Puro Rock (CD1)",
         "url": "https://open.spotify.com/album/2HXxumPCyqtjOaw7G3bACs"
       },
@@ -557,7 +593,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 235160,
       "name": "Insurgensex",
       "url": "https://open.spotify.com/track/5YfgBQqKkQOxrS6U0zfKgl"
@@ -755,7 +791,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 247453,
       "name": "Lost In My World (Perdido en Mi Mundo)",
       "url": "https://open.spotify.com/track/7CsV5sRCCpayqPhmtJoNTU"
@@ -809,7 +845,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 125982,
       "name": "Mi Mami Dijo",
       "url": "https://open.spotify.com/track/6SqepgrJ8ThiNLmZZW0IcT"
@@ -845,7 +881,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 203153,
       "name": "My Way Is Love",
       "url": "https://open.spotify.com/track/0CI67v7SM4HohMbUcffnmT"
@@ -863,7 +899,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 192893,
       "name": "Nada Nos Detendr\u00e1",
       "url": "https://open.spotify.com/track/6bpu24bVKDCEyFHdpcNEMA"
@@ -935,7 +971,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 256933,
       "name": "Oye Como Va",
       "url": "https://open.spotify.com/track/5u6y4u5EgDv0peILf60H5t"
@@ -1043,7 +1079,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 188395,
       "name": "Preludio de la Felicidad",
       "url": "https://open.spotify.com/track/5pPdMdO7P2V7fG2ELZbI8b"
@@ -1061,7 +1097,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 237320,
       "name": "Regreso al Origen",
       "url": "https://open.spotify.com/track/2IlUZ4U52jCcE5oRebAnbK"
@@ -1115,7 +1151,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 187386,
       "name": "Roaming",
       "url": "https://open.spotify.com/track/1s5KYOR8PiPA55bxfhFvz3"
@@ -1151,10 +1187,28 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 140200,
       "name": "Save My Soul (Salva Mi Alma)",
       "url": "https://open.spotify.com/track/546M2aqzXYEnFIDrrmGykK"
+    },
+    {
+      "album": {
+        "name": "Division Del Norte",
+        "url": "https://open.spotify.com/album/6FipROEDfMRlEN1WALqs1S"
+      },
+      "artists": [
+        {
+          "name": "La Division Del Norte",
+          "url": "https://open.spotify.com/artist/4vWM7TI7ArFXtfFFACYY9p"
+        }
+      ],
+      "date_added": "2021-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350112,
+      "name": "She'll Come Back to Me",
+      "url": "https://open.spotify.com/track/67E7DOLOIUgDaDfCGpmDzM"
     },
     {
       "album": {
@@ -1205,10 +1259,44 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 229679,
       "name": "Tal Vez",
       "url": "https://open.spotify.com/track/0G38FsYtQ76qHRsv6PKulj"
+    },
+    {
+      "album": {
+        "name": "Los Zantos",
+        "url": "https://open.spotify.com/album/2CWZqZDA0iYvWYqpt4wdLX"
+      },
+      "artists": [
+        {
+          "name": "Los Zantos",
+          "url": "https://open.spotify.com/artist/3dMTtQrG6JcFZTvI9ohmvf"
+        },
+        {
+          "name": "Jose Jimenez",
+          "url": "https://open.spotify.com/artist/2GPAqUFghXem7V9NjeWK4a"
+        },
+        {
+          "name": "Arturo Renteria",
+          "url": "https://open.spotify.com/artist/61FZx35BKyzdskNd7WUz6M"
+        },
+        {
+          "name": "Manuelo Estudillo",
+          "url": "https://open.spotify.com/artist/4tUxE1VkpoZY0GPDgKrjii"
+        },
+        {
+          "name": "Jose Fonseca",
+          "url": "https://open.spotify.com/artist/07Oja06xBw2eewrWHKiaEJ"
+        }
+      ],
+      "date_added": "2021-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147930,
+      "name": "Te Vas a Perder",
+      "url": "https://open.spotify.com/track/55o3dwIn4noclOPF4kN3ic"
     },
     {
       "album": {
@@ -1223,7 +1311,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 359492,
       "name": "The Best I Can",
       "url": "https://open.spotify.com/track/5f20wNhDfUOkjFyemzVXuj"
@@ -1241,7 +1329,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 228080,
       "name": "The Call of the Woman (El Llamado de la Hembra)",
       "url": "https://open.spotify.com/track/5xDzHDSJy8kyVrr1WASR0N"
@@ -1259,7 +1347,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 267082,
       "name": "The Train",
       "url": "https://open.spotify.com/track/2NIALKJKHJM2EhGl6gUceq"
@@ -1349,7 +1437,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 223600,
       "name": "Under The Sing Of Aquarius - (Bajo El Signo De Acuario)",
       "url": "https://open.spotify.com/track/5gTcAR7egTQSG3vRY70iFE"

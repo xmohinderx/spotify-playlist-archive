@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzj8PwvwjTT.md) - [plain]
 
 > Another great metal year came to a close\. Explore the metal highlights of the year with this playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,094 likes - 118 songs - 10 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,094 likes - 118 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzj8PwvwjTT.md) - [plain]
 | 59 | [Radix malorum](https://open.spotify.com/track/6tmx154r74oV7Ha3AQ3cNC) | [Gorgoroth](https://open.spotify.com/artist/1Dt7cfRzxM8qPVa82jX9y5) | [Instinctus Bestialis](https://open.spotify.com/album/2RgpL1GMk4K8pyago7wvHd) | 3:13 |
 | 60 | [When Crows Tick on Windows](https://open.spotify.com/track/4wdx6vZz57fdhwWKEipZKH) | [Carach Angren](https://open.spotify.com/artist/7sJC2WkTzn7gqUhVfP9sOm) | [This Is No Fairytale](https://open.spotify.com/album/34JR6X7Kb11kzBfDsGo4hF) | 6:15 |
 | 61 | [The Spiritual Relief](https://open.spotify.com/track/664ydKAVrR0Z6wfcwF3Lx1) | [Keep Of Kalessin](https://open.spotify.com/artist/1Oos40mD8hfvswQWVjkbg5) | [Epistemology](https://open.spotify.com/album/0IuxTa3KNpnN3F3ZxXxjje) | 9:52 |
-| 62 | [The Arcturian Sign](https://open.spotify.com/track/7vyLnYlNrQR9ZVJEZto0qZ) | [Arcturus](https://open.spotify.com/artist/0UGvFl1tJ49Co99gaXZH9Z) | [Arcturian](https://open.spotify.com/album/5yJ9F1Md1I14N0r1LcIF58) | 0:29 |
+| 62 | [The Arcturian Sign](https://open.spotify.com/track/7vyLnYlNrQR9ZVJEZto0qZ) | [Arcturus](https://open.spotify.com/artist/0UGvFl1tJ49Co99gaXZH9Z) | [Arcturian](https://open.spotify.com/album/5yJ9F1Md1I14N0r1LcIF58) | 5:06 |
 | 63 | [Multiple Truths](https://open.spotify.com/track/15MTxnBumWJYsx8bvhY5nr) | [Melechesh](https://open.spotify.com/artist/1bjUcmZxY4zJO1V5LaKzUY) | [Enki](https://open.spotify.com/album/16rYHvZJYkx8fs0o2inFIg) | 5:07 |
 | 64 | [How the Years Condemn](https://open.spotify.com/track/2PW14POamToVpGBtNNB00c) | [Napalm Death](https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt) | [Apex Predator \- Easy Meat](https://open.spotify.com/album/3McUmHqMv5K9JRdbBDP2RH) | 2:43 |
 | 65 | [Armata Strigoi](https://open.spotify.com/track/1Wrqg9uDJJsf8HPGZuoSVp) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Blessed & Possessed](https://open.spotify.com/album/7pLj8emutrO3tdnPzN4ISb) | 3:59 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIlyW5yvFjI.md) - [plain]
 
 > Beautiful noise: when Shoegaze goes Ambient.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,315 likes - 74 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,321 likes - 74 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIlyW5yvFjI.md) - [plain]
 | 15 | [Through You](https://open.spotify.com/track/1WyfKeDIt4sJt2MpE81fN8) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Quique](https://open.spotify.com/album/3r5NrFdXR5yr4HgVoTtklt) | 5:48 |
 | 16 | [Dream Within a Dream](https://open.spotify.com/track/1eoJKUTvQQgOn7po5g3yju) | [Obay Alsharani](https://open.spotify.com/artist/41rKw6IAMgfQ3g41byDtwH) | [@0](https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3) | 4:48 |
 | 17 | [Christina's World](https://open.spotify.com/track/2RvCoSz9wUlDIiSymOuLf4) | [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa) | [Luminol](https://open.spotify.com/album/4bga9m78vaVd0aXbUpfcHa) | 4:20 |
-| 18 | [youreyesimmaculate](https://open.spotify.com/track/6AAHrly84tTY3hVufCByxr) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [bloweyelashwish](https://open.spotify.com/album/6BG7NoX84aiRFWseVIS8eA) | 0:29 |
+| 18 | [youreyesimmaculate](https://open.spotify.com/track/6AAHrly84tTY3hVufCByxr) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [bloweyelashwish](https://open.spotify.com/album/6BG7NoX84aiRFWseVIS8eA) | 4:19 |
 | 19 | [Inspiral](https://open.spotify.com/track/2g5wSGjYZB8gMGMgyKuVd8) | [EN.KI.DU](https://open.spotify.com/artist/1dZP0pipirizLq80zTSSBE) | [BITTER.ROOT](https://open.spotify.com/album/2LIZdIGqsOqJ9w31QHLAe4) | 4:36 |
 | 20 | [slow red](https://open.spotify.com/track/0SrPlbUxnu6PxNCpFqPzb3) | [Astrobrite](https://open.spotify.com/artist/1nerWM6ECWXUcvDgGtBLcJ) | [whitenoisesuperstar](https://open.spotify.com/album/72Jm0PgBSIbCSp6tbsb4Ho) | 3:26 |
 | 21 | [Before](https://open.spotify.com/track/36HuznTUxRCiEyf4NgRswn) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Elsewhere](https://open.spotify.com/album/4Qlt9lQidbI8GC2Kvuy4ZF) | 3:23 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIlyW5yvFjI.md) - [plain]
 | 24 | [Kites \- Ambient World Version](https://open.spotify.com/track/1n6G7XsgJlem2gmHi7wz6t) | [Bing Satellites](https://open.spotify.com/artist/0K6ADYj3sxtqPrqyTq400i) | [The Ambient World of Bing Satellites, Vol\. 2 \(Ambient World Version\)](https://open.spotify.com/album/5lGytwtFhT25XEOnAengTU) | 4:18 |
 | 25 | [On Guard](https://open.spotify.com/track/6nsOyNw5N4IZ6K37QFKvqH) | [Atlas Sound](https://open.spotify.com/artist/3kGhAL9j1WyNjNkWTRQd8T) | [Let The Blind Lead Those Who Can See But Cannot Feel](https://open.spotify.com/album/49zrTjgVrpT0vC4YBAY4q3) | 3:40 |
 | 26 | [Rutti](https://open.spotify.com/track/03wpSoF5jgbHyVcrdvL9t1) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Pygmalion](https://open.spotify.com/album/7n7VUw9XFam4zMT7zn99tq) | 10:06 |
-| 27 | [November Mist](https://open.spotify.com/track/2Upi0w32GEn3fK8DvdAZvn) | [Flying Saucer Attack](https://open.spotify.com/artist/336fB3AJgK8AvHX5bD8d9A) | [Distance](https://open.spotify.com/album/74ZkZnZe0M4M3xwkTgTf81) | 0:29 |
+| 27 | [November Mist](https://open.spotify.com/track/2Upi0w32GEn3fK8DvdAZvn) | [Flying Saucer Attack](https://open.spotify.com/artist/336fB3AJgK8AvHX5bD8d9A) | [Distance](https://open.spotify.com/album/74ZkZnZe0M4M3xwkTgTf81) | 5:00 |
 | 28 | [Why Do You Love Me?](https://open.spotify.com/track/6mnDez8mWJqlTyp6GjCKKR) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies](https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo) | 4:51 |
 | 29 | [Moments of Solitude \- Ambient World Version](https://open.spotify.com/track/5qoHYWgESM6RtH0ugaisgC) | [Bing Satellites](https://open.spotify.com/artist/0K6ADYj3sxtqPrqyTq400i) | [The Ambient World of Bing Satellites, Vol\. 2 \(Ambient World Version\)](https://open.spotify.com/album/5lGytwtFhT25XEOnAengTU) | 8:39 |
 | 30 | [Reason](https://open.spotify.com/track/1dLIjycI4ac6txLjnvdnMD) | [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa) | [Like Author, Like Daughter](https://open.spotify.com/album/5RQRwaL260xB7XNuVdyzyC) | 5:03 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIlyW5yvFjI.md) - [plain]
 | 53 | [Cello](https://open.spotify.com/track/2xuMKDZ3RJj0CWpKSReVpm) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Pygmalion](https://open.spotify.com/album/7n7VUw9XFam4zMT7zn99tq) | 1:33 |
 | 54 | [Nothing for Miles \- Ambient World Version](https://open.spotify.com/track/1IC6ukCBTES8duMQL8KFxJ) | [Bing Satellites](https://open.spotify.com/artist/0K6ADYj3sxtqPrqyTq400i) | [The Ambient World of Bing Satellites, Vol\. 1](https://open.spotify.com/album/76QJkMYDLp1iuZFerz6NsT) | 3:30 |
 | 55 | [ckaif](https://open.spotify.com/track/4c3bGtiP0Q8bUOQQzcvtyT) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [Voirshn](https://open.spotify.com/album/2T0luu0TDaGbKfKVvQiWQW) | 5:16 |
-| 56 | [Instrumental Wish](https://open.spotify.com/track/66Id4olJILNzphttpuqjHn) | [Flying Saucer Attack](https://open.spotify.com/artist/336fB3AJgK8AvHX5bD8d9A) | [Distance](https://open.spotify.com/album/74ZkZnZe0M4M3xwkTgTf81) | 0:29 |
+| 56 | [Instrumental Wish](https://open.spotify.com/track/66Id4olJILNzphttpuqjHn) | [Flying Saucer Attack](https://open.spotify.com/artist/336fB3AJgK8AvHX5bD8d9A) | [Distance](https://open.spotify.com/album/74ZkZnZe0M4M3xwkTgTf81) | 6:41 |
 | 57 | [Never Be Lonely Again](https://open.spotify.com/track/2Yh2n2WyItvYdQ9mANUcug) | [Earwig](https://open.spotify.com/artist/78NksjxycSNgUfmuO88KLO) | [Under My Skin I Am Laughing](https://open.spotify.com/album/1nrrTtAGX9pNLfOrCLgrJH) | 5:56 |
 | 58 | [Who Told You This Room Exists?](https://open.spotify.com/track/6mTzUqZvb9wq9LLMx7p3LP) | [Belong](https://open.spotify.com/artist/3c5PAcbkeFrbWUp42FaBkW) | [October Language](https://open.spotify.com/album/46wQzr2LD5SXpMY38a3e0r) | 5:05 |
 | 59 | [The Tiger Hunts Alone](https://open.spotify.com/track/60o0CpsHh3zwudJA4teKln) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [Ghost Colored Halo](https://open.spotify.com/album/00zkasQySDlLDFbpH8AJgX) | 5:54 |

@@ -4,7 +4,7 @@
 
 > Classic rock combined a guitar\-driven sound with a particular era\. This playlist delivers classic rock tracks for the entire workday.
 
-97 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/6T33hSZm66DXYIDzTltQGd)
+97 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/6T33hSZm66DXYIDzTltQGd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Hotel California \- 2013 Remaster](https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 6:31 | 2017-04-20 |  |
 | [House Of The Rising Sun](https://open.spotify.com/track/61Q9oJNd9hJQFhSDh6Qlap) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The Best Of The Animals](https://open.spotify.com/album/0h5qS8o0dAoPfj6bLg3z3Y) | 4:29 | 2017-04-20 |  |
 | [How You Remind Me](https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Silver Side Up](https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u) | 3:43 | 2017-04-20 |  |
-| [Hysteria 2013 \(Re\-Recorded Version\) \- Single](https://open.spotify.com/track/4xrlTtOEd3OHvQT8eu5JYY) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria 2013 \(Re\-Recorded Version\) \- Single](https://open.spotify.com/album/0MUiB479l1Bmb074bSGevp) | 0:29 | 2017-04-20 |  |
+| [Hysteria 2013 \(Re\-Recorded Version\) \- Single](https://open.spotify.com/track/4xrlTtOEd3OHvQT8eu5JYY) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria 2013 \(Re\-Recorded Version\) \- Single](https://open.spotify.com/album/0MUiB479l1Bmb074bSGevp) | 5:52 | 2017-04-20 |  |
 | [Iron Man \- 2012 \- Remaster](https://open.spotify.com/track/3IOQZRcEkplCXg6LofKqE9) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 5:55 | 2017-04-20 |  |
 | [Is This Love \- 2007 Remastered Version](https://open.spotify.com/track/3k58VAgUkM9cSvRpjIVaC7) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [1987](https://open.spotify.com/album/0zjjzE52kZrlboU0smMbiN) | 4:35 | 2017-04-20 |  |
 | [Jump \- 2015 Remaster](https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 4:01 | 2017-04-20 |  |

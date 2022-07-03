@@ -4,7 +4,7 @@
 
 > 
 
-50 songs - 2 hr 4 min - [published](https://open.spotify.com/playlist/1ib2zEDtAbJiUA2Fj0Oq08)
+50 songs - 2 hr 5 min - [published](https://open.spotify.com/playlist/1ib2zEDtAbJiUA2Fj0Oq08)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Asia Minor \- Rerecorded](https://open.spotify.com/track/4uNAdFLTuiIhDtbZsq31Og) | [Kokomo](https://open.spotify.com/artist/00FrqfQ1NB4Dlr10yUP4Hr) | [60's Super Hits \(Rerecorded Version\)](https://open.spotify.com/album/5S5TwSmNCvK8ttbDLyA32d) | 1:58 | 2013-06-27 |  |
 | [Blue Moon \- Rerecorded](https://open.spotify.com/track/7CIv316ZKCQhkspH80kiUC) | [The Marcels](https://open.spotify.com/artist/1JQYskbOoudT9cylam24a3) | [\#1 Hits Of The 60's](https://open.spotify.com/album/6Mio3JCszE0BTyjTmfYsLY) | 2:10 | 2013-06-27 |  |
 | [Bristol Stomp](https://open.spotify.com/track/0B1cm1Z7J9v8Wug9idr8T6) | [The Dovells](https://open.spotify.com/artist/6LaraO4gcDKWw0fwIOTodm) | [The Best Of The Dovells 1961\-1965](https://open.spotify.com/album/2nVaoyKCz1nGdNny3bqoUm) | 2:18 | 2013-06-27 |  |
-| [Calcutta](https://open.spotify.com/track/6G43xPTXl0zVgTajZMhW0y) | [Lawrence Welk](https://open.spotify.com/artist/2GMH35k5oLCjzYpn5HbaD8) | [Gold Pop Hits, Vol\. 1](https://open.spotify.com/album/40Yzx8QGyYyke893SEqY5m) | 0:29 | 2013-06-27 |  |
+| [Calcutta](https://open.spotify.com/track/6G43xPTXl0zVgTajZMhW0y) | [Lawrence Welk](https://open.spotify.com/artist/2GMH35k5oLCjzYpn5HbaD8) | [Gold Pop Hits, Vol\. 1](https://open.spotify.com/album/40Yzx8QGyYyke893SEqY5m) | 2:12 | 2013-06-27 |  |
 | [Calendar Girl \- Remastered](https://open.spotify.com/track/1Pg2yx1drvE8uJhMCnIpGN) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [The Very Best Of Neil Sedaka](https://open.spotify.com/album/4LEVq549JUbYQmzma1NzEl) | 2:36 | 2013-06-27 |  |
 | [Crying](https://open.spotify.com/track/2M3OVvigcmanSnRq1sdlVE) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Crying](https://open.spotify.com/album/5GYI3MYDtS3pDZOQ29Unr5) | 2:46 | 2013-06-27 |  |
 | [Daddys Home](https://open.spotify.com/track/0uTWICEvYa78HlUyt5JbUU) | [Shep And The Limelites](https://open.spotify.com/artist/3xaiq6cHhYX5xclwRkT6Jf) | [Oldies But Goodies](https://open.spotify.com/album/1PfyeXVGmSGjhbUoWekrLD) | 2:56 | 2013-06-27 |  |

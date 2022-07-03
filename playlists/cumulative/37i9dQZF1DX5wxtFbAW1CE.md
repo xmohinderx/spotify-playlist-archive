@@ -4,7 +4,7 @@
 
 > Soothing songs for family yoga time.
 
-202 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/6vVBPBjLNPSY1UgPYvJnVN)
+202 songs - 10 hr 30 min - [published](https://open.spotify.com/playlist/6vVBPBjLNPSY1UgPYvJnVN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Gratitude](https://open.spotify.com/track/2ek6LLrUwT6p2zQCCvFmAW) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Gratitude](https://open.spotify.com/album/7ynmkvhDFRXIuwYmzRCzn6) | 2:39 | 2021-05-14 |  |
 | [Hanami](https://open.spotify.com/track/0DAX6DFAopKq9PqzIXJi42) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Hanami](https://open.spotify.com/album/5khFi2xy0WnJVwiJ3PW609) | 3:05 | 2021-05-14 |  |
 | [Healing](https://open.spotify.com/track/3GNlFyD9YUqLJy2u7W8h2M) | [Dawn Sankrit](https://open.spotify.com/artist/7xwgjyWY3BwKNgdZFo1GQU) | [Healing](https://open.spotify.com/album/0Jjb6g3BMPFKR6RKOpwBA8) | 2:57 | 2021-05-14 |  |
-| [Heavenly](https://open.spotify.com/track/1uSaD0JKNb5o8Wv29zULwf) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [Heavenly](https://open.spotify.com/album/1OfpLyQAAWuGKDF4DPbzOu) | 0:29 | 2021-05-14 |  |
+| [Heavenly](https://open.spotify.com/track/1uSaD0JKNb5o8Wv29zULwf) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [Heavenly](https://open.spotify.com/album/1OfpLyQAAWuGKDF4DPbzOu) | 2:59 | 2021-05-14 |  |
 | [Heinamaa](https://open.spotify.com/track/7lpaVjDPjT72Afi7LqXBIx) | [Eyla Calmes](https://open.spotify.com/artist/3CAe04TEaKSxEMemLZqw3X) | [Heinamaa](https://open.spotify.com/album/3tTOPXQxFjqPabpMgjl86q) | 2:32 | 2021-05-14 |  |
 | [His and Mind](https://open.spotify.com/track/6fhZcinTUkA0pUL7XOEq26) | [Baimine](https://open.spotify.com/artist/44h6Gl9hvuL0OUFdxYhmU2) | [His and Mind](https://open.spotify.com/album/3zvgE1TaMF5viJjsTa2Fvb) | 2:48 | 2021-05-14 |  |
 | [Honouring the Promise](https://open.spotify.com/track/2TkTycXLW2EbeXeBIuPGU7) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [Honouring the Promise](https://open.spotify.com/album/4XNXRAgmYCln4JkUE294Lc) | 3:29 | 2021-07-01 |  |
@@ -128,8 +128,8 @@
 | [Nepenthe](https://open.spotify.com/track/0kKOC50fPTnqmrYvtJInsT) | [Clyde Boudreaux](https://open.spotify.com/artist/2uJ9p2oANjdZ8N5Ni7OL4L) | [Nepenthe](https://open.spotify.com/album/7ARp3k61xr4HZrXTQVboW7) | 2:31 | 2021-05-14 |  |
 | [Nephology](https://open.spotify.com/track/2RXxXoJ6b42rQWpHrkIqRB) | [Ceylan Aydem Project](https://open.spotify.com/artist/6EDn2Y3RQU5ilTmJ9sxSS1) | [Nephology](https://open.spotify.com/album/6TKRYgP9nOBCnfa2V8LKW8) | 2:25 | 2021-05-14 |  |
 | [Never Let Go](https://open.spotify.com/track/4pPQehDJIPMstBLVCzouTs) | [Galvic](https://open.spotify.com/artist/3uJ54ctF087JwTAxL783il) | [Never Let Go](https://open.spotify.com/album/6qUkti8iaY5YyPnrazmB7b) | 2:39 | 2021-05-14 |  |
-| [New Beginning](https://open.spotify.com/track/2LCJEUpAFLETtWCCcA4VKv) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [New Beginning](https://open.spotify.com/album/6V5ozm35KOvFwt8bSX79MP) | 0:29 | 2021-05-14 |  |
-| [New Light](https://open.spotify.com/track/6zRiuQpm9fgQ7Sit5Sc0XH) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [String Theory](https://open.spotify.com/album/4NAAHdaq1RRDCEdsSddHcl) | 0:29 | 2021-05-14 |  |
+| [New Beginning](https://open.spotify.com/track/2LCJEUpAFLETtWCCcA4VKv) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [New Beginning](https://open.spotify.com/album/6V5ozm35KOvFwt8bSX79MP) | 3:50 | 2021-05-14 |  |
+| [New Light](https://open.spotify.com/track/6zRiuQpm9fgQ7Sit5Sc0XH) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [String Theory](https://open.spotify.com/album/4NAAHdaq1RRDCEdsSddHcl) | 3:38 | 2021-05-14 |  |
 | [New Year's Day](https://open.spotify.com/track/6ivDkaSCLNSPmElwC9C3b2) | [Elsa Gudmundsdottir](https://open.spotify.com/artist/5zgSiZmivqPWPZICFTKarK) | [New Year's Day](https://open.spotify.com/album/02wzDF6qH6mIzpkcnCyLrQ) | 2:29 | 2021-05-14 |  |
 | [Nibelia](https://open.spotify.com/track/4f5uEi9y4C2gI4IBalSRjd) | [Algy Lacey](https://open.spotify.com/artist/4FOaoaFSozNtPQFy8O8t48) | [Nibelia](https://open.spotify.com/album/2OdvQNyQdAT3zOsZU3ozrA) | 3:44 | 2021-05-14 |  |
 | [Nightfall](https://open.spotify.com/track/39JThmHVlkmpsBGDyrMjTv) | [Makalu](https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj) | [Nightfall](https://open.spotify.com/album/5JLm8Z06t9ki0MOqmPeMst) | 3:24 | 2021-05-14 |  |

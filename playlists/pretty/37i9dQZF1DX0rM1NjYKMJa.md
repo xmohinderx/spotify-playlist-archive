@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 
 > Carnival 2022 is in session, follow Kes as he takes us on a trip to Trinidad & Tobago
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,140 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,168 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 | 22 | [We Outside](https://open.spotify.com/track/2tQ4YMW7iOA6pbA4Zb87sT) | [System32](https://open.spotify.com/artist/7otiKgm5qrgugGPiW4by20), [Viking Ding Dong](https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK) | [Knock About Riddim](https://open.spotify.com/album/0rjdrM2IvkSXQodZMGEoZw) | 2:56 |
 | 23 | [Issa Snack](https://open.spotify.com/track/0cu2dhP6LLltvjCf5BPyYr) | [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd) | [The Art of Flex](https://open.spotify.com/album/3SzwtY32eeDhTg8W4G1RhF) | 3:03 |
 | 24 | [Na let go / \(when ah\) Jamdong / \(with d\) Boss Lady](https://open.spotify.com/track/6DO0S8qugFboC4evtaNlGg) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [KES the Band](https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH) | [We Home](https://open.spotify.com/album/3gMFkeH1NpKPTEJKPxkIF8) | 7:51 |
-| 25 | [Iron Love](https://open.spotify.com/track/4EwRn20k5ZnkcxbFrO9uKs) | [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c), [The Laventille Rhythm Section](https://open.spotify.com/artist/3V4EFIE13KbL8DLzY9H9IZ) | [Iron Love](https://open.spotify.com/album/47kFlAJrG9o0cnlxC9OhZV) | 0:29 |
+| 25 | [Iron Love](https://open.spotify.com/track/4EwRn20k5ZnkcxbFrO9uKs) | [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c), [The Laventille Rhythm Section](https://open.spotify.com/artist/3V4EFIE13KbL8DLzY9H9IZ) | [Iron Love](https://open.spotify.com/album/47kFlAJrG9o0cnlxC9OhZV) | 3:22 |
 | 26 | [Speechless](https://open.spotify.com/track/5iINY7Sjbp5p6dLWBuyFTE) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng), [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA), [Teddyson John](https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp), [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Lyrikal Content](https://open.spotify.com/album/3AJcUJq9QTnnCwn0GeVQEE) | 3:07 |
 | 27 | [Gangalee](https://open.spotify.com/track/629yNmA7IpRbI2fORz2xs7) | [Shurwayne Winchester](https://open.spotify.com/artist/2dqzb4OvhCxwr9ogGBEsQx) | [Gangalee](https://open.spotify.com/album/6FcQ8PQ8CEpVvaif04qKy2) | 2:23 |
 | 28 | [Sweet Melanin](https://open.spotify.com/track/7CQtlU7OHnGgDhQGQ186Cp) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG) | [Sweet Melanin Riddim](https://open.spotify.com/album/4ezxMnPboVtUWXzAo8TAUp) | 3:12 |

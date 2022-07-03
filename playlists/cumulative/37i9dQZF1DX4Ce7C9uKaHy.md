@@ -4,7 +4,7 @@
 
 > Relaxing Jazz beats from the best Lo\-Fi producers.
 
-80 songs - 2 hr 53 min - [published](https://open.spotify.com/playlist/0rMU8BH9rqYRaI5zkSzif1)
+80 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/0rMU8BH9rqYRaI5zkSzif1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Both of Us](https://open.spotify.com/track/4hnhSZTKf77tZjOBjzL5BM) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Chillhop Raw Cuts 2](https://open.spotify.com/album/1FxqDi3bJ8tL1nyQz1MHY1) | 1:53 | 2020-05-06 |  |
 | [Breathe](https://open.spotify.com/track/3l8dpFJECmgLJK7gQtVL6p) | [mell\-ø](https://open.spotify.com/artist/6bA2OonnJsG1tN9yClu2aC), [Ambulo](https://open.spotify.com/artist/6sPQwc6lix6K1Gv64v91Ml) | [Afloat Again](https://open.spotify.com/album/3yjLYYs4lfeO8VSWpC8rmi) | 2:06 | 2020-05-06 |  |
 | [Compassion](https://open.spotify.com/track/0QjHryzA85B5lWAGZFvWLm) | [steezy prime](https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx), [Spencer Hunt](https://open.spotify.com/artist/4btBTQ1pWqpnDPY4BWMh1S) | [2 Am\. Study Session](https://open.spotify.com/album/2oHJAIuw8IH9SUSk05JjRy) | 2:13 | 2020-05-06 |  |
-| [controlla](https://open.spotify.com/track/7woCxOw0jmj65ohlQ3x0tH) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [rainy evening](https://open.spotify.com/album/5tfqUZ5RcSWcYn5mWYQ4PK) | 0:29 | 2020-05-06 |  |
+| [controlla](https://open.spotify.com/track/7woCxOw0jmj65ohlQ3x0tH) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [rainy evening](https://open.spotify.com/album/5tfqUZ5RcSWcYn5mWYQ4PK) | 1:48 | 2020-05-06 |  |
 | [Down River](https://open.spotify.com/track/6yddWHslt8Xbmr7GjGij3Q) | [dryhope](https://open.spotify.com/artist/50Ej4gF8iYESted3e4JZ4t) | [Contrasts](https://open.spotify.com/album/6AgopOGUUtCQgSKdVdYSyO) | 2:24 | 2020-05-06 |  |
 | [DoYouStillFeelTheSame](https://open.spotify.com/track/5R5V3mMShpfS8MGCbGxlqe) | [Tears In The Rain](https://open.spotify.com/artist/3NRWttHA4hPGrdbRPsKRpz), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [music for aliens](https://open.spotify.com/album/2oY1SGoHstbzJRx3f1ER8j) | 2:21 | 2020-05-06 |  |
 | [Dream Eyes](https://open.spotify.com/track/3RWetTbzLq70ATJUnLrVKV) | [Poky](https://open.spotify.com/artist/7sKF5Km6aiVVTt0SnOwADn), [Koosen](https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u) | [Dream Eyes](https://open.spotify.com/album/2od9tymTEx24f88c7Akb3a) | 1:39 | 2020-05-06 |  |

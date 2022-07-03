@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 
 > 作曲、編曲、プロデュースワークを中心に活動。ジャンルを超えた表現で三木鶏郎広告音楽賞等、数々のアワードを受賞。
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,462 likes - 70 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,471 likes - 70 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 | 17 | [Fly up in the air \~ Tension](https://open.spotify.com/track/09P81sHzg0kgGKtRtdBqcZ) | [MEMBERS OF ISRAEL](https://open.spotify.com/artist/3YuzaXle16gxckseOvaznO), [Philharmonic Orchestra](https://open.spotify.com/artist/4nUgYF7wmkUux1M9SdXM0h) | [「MACROSS PLUS」ORIGINAL SOUNDTRACK](https://open.spotify.com/album/5GAVQImOGSyQXvMQA3MqQ4) | 6:17 |
 | 18 | [RUSH](https://open.spotify.com/track/29jN3FY0OcxtKOQCjZD8rQ) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [「COWBOY BEBOP」オリジナルサウンドトラック](https://open.spotify.com/album/6cYPbwsAFAcddFuGeXMR7l) | 3:34 |
 | 19 | [ヤマイダレdarlin'](https://open.spotify.com/track/4Bg2ubttoZY6HKAhz5yPCs) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [「PEACE of SMILE」Selection](https://open.spotify.com/album/4rqYqWribaZtN786b9WCZw) | 5:20 |
-| 20 | [射手座☆午後九時Don't be late](https://open.spotify.com/track/2ktC4ur8iNjJmYlkXoNpwM) | [シェリル・ノーム starring May'n](https://open.spotify.com/artist/5fruBgRiTeuJwkU5qvrdTq) | [「マクロスF」エンディングテーマ ダイアモンド クレバス/挿入歌 射手座☆午後九時Don't be late](https://open.spotify.com/album/6udbCYa1ouGCHDWhu6ZEQv) | 0:29 |
+| 20 | [射手座☆午後九時Don't be late](https://open.spotify.com/track/2ktC4ur8iNjJmYlkXoNpwM) | [シェリル・ノーム starring May'n](https://open.spotify.com/artist/5fruBgRiTeuJwkU5qvrdTq) | [「マクロスF」エンディングテーマ ダイアモンド クレバス/挿入歌 射手座☆午後九時Don't be late](https://open.spotify.com/album/6udbCYa1ouGCHDWhu6ZEQv) | 5:43 |
 | 21 | [ポンパラ ペコルナ パピヨッタ](https://open.spotify.com/track/38QXHvnw0cg3OX77mermKy) | [五五七二三二〇](https://open.spotify.com/artist/5AZOUmeOB5XZaJP2Lf3UkX) | [スーパーヒーロー\(SPECIAL EDITION\)](https://open.spotify.com/album/3sT38vIRrRprhOpwY5L635) | 4:31 |
 | 22 | [誰か、海を。](https://open.spotify.com/track/7H8qFzEiM1TNDh4Mef2Xzw) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [DAWN](https://open.spotify.com/album/2fRyWvN5Rq4FRmae80RzF7) | 4:54 |
 | 23 | [友だち](https://open.spotify.com/track/20il4rKpoK50t6DXcCIBKF) | [Miki Imai](https://open.spotify.com/artist/64Y8hjY7esLUC8ucjtHYwZ) | [Love Of My Life](https://open.spotify.com/album/1yl7MPVZuRUbQB24ojqYOK) | 5:08 |

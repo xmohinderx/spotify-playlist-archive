@@ -4,7 +4,7 @@
 
 > アニソン界を代表する作詞家として、様々な作品のファンを魅了してきた畑 亜貴。多彩な作風でシンガーソングライター、作曲家、プロデュースチーム「Q\-MHz」メンバーとしても活躍中。
 
-48 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/18xQyljVwNU2b7SK2Z9Yg0)
+48 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/18xQyljVwNU2b7SK2Z9Yg0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [純白サンクチュアリィ](https://open.spotify.com/track/1DOvTy3Ysf7b8VobWpbdZR) | [茅原実里](https://open.spotify.com/artist/2BVUhHYQGZDr1YOQuySRuZ) | [純白サンクチュアリィ](https://open.spotify.com/album/4KZcIpumgWdYOfIXl35bxE) | 4:52 | 2022-04-08 |  |
 | [翼はPleasure Line](https://open.spotify.com/track/6akQfuvvdRFAM54GwSHUwv) | [栗林みな実](https://open.spotify.com/artist/4HqHuqNCbQAqxAzzDZwpvz) | [翼はPleasure Line](https://open.spotify.com/album/5cAH0SfvvAOJhTn02rmBWB) | 4:36 | 2022-04-08 |  |
 | [花ハ踊レヤいろはにほ](https://open.spotify.com/track/7DGlPJwVQY3INApfDS0l8P) | [チーム“ハナヤマタ”](https://open.spotify.com/artist/099PpAOXjE1xbE6gN7214P) | [花ハ踊レヤいろはにほ](https://open.spotify.com/album/6KqK4ORYe2KvTXbIoTlvoj) | 4:10 | 2022-04-08 |  |
-| [蜿蜒 on and on and](https://open.spotify.com/track/2nKOj62YYsOMtVHmz1Somg) | [Aki Hata](https://open.spotify.com/artist/4OeurE1dYEfIjd2STbvMoC) | [蜿蜒 on and on and](https://open.spotify.com/album/72nNEQncy3ZQgoyltEsBha) | 0:29 | 2022-04-08 |  |
+| [蜿蜒 on and on and](https://open.spotify.com/track/2nKOj62YYsOMtVHmz1Somg) | [Aki Hata](https://open.spotify.com/artist/4OeurE1dYEfIjd2STbvMoC) | [蜿蜒 on and on and](https://open.spotify.com/album/72nNEQncy3ZQgoyltEsBha) | 5:00 | 2022-04-08 |  |
 | [跪くまで5秒だけ!](https://open.spotify.com/track/1KxFSyKu72LLwcTzLzOBiv) | [Miyuki Hashimoto](https://open.spotify.com/artist/7CvaCbO8PdEISO5PuVzp3u) | [跪くまで5秒だけ!](https://open.spotify.com/album/6JrpdQpd5MYxEYILUDv40E) | 4:22 | 2022-04-08 |  |
 | [雪、無音、窓辺にて。](https://open.spotify.com/track/14P8J1kHSxa7h7O0Y2S6Pe) | [長門有希 \(CV.茅原実里\)](https://open.spotify.com/artist/6sApso3RvtZgoqPpkWIdsB) | [涼宮ハルヒの憂鬱 キャラクターソング \(Vol.2 長門有希\)](https://open.spotify.com/album/6nGmXtQlwNjWT5B7sUfKP7) | 4:30 | 2022-04-08 |  |
 | [青春サツバツ論 \- Full size](https://open.spotify.com/track/0PY7EFmEa52bsJ12xSq4B5) | [3年E組うた担\(渚&茅野&業&磯貝&前原\)](https://open.spotify.com/artist/3ZZhxEl0lkwP7QwB8Vi1rf) | [青春サツバツ論](https://open.spotify.com/album/3arlRorn9ipIUsI1LY7ACQ) | 3:43 | 2022-04-08 |  |

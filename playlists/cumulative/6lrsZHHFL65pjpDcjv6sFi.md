@@ -4,7 +4,7 @@
 
 > Stockholm Music & Arts är en ny festival som i sommar, den 3 \- 5 augusti, arrangeras för första gången\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
-32 songs - 2 hr 5 min - [published](https://open.spotify.com/playlist/4l4JpC8UG8kAmJbTQGvTd3)
+32 songs - 2 hr 9 min - [published](https://open.spotify.com/playlist/4l4JpC8UG8kAmJbTQGvTd3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Because the Night](https://open.spotify.com/track/7BYQAP9ga7aiBSmPJCSNRs) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Essential Rock \- Definitive Rock Classics And Power Ballads](https://open.spotify.com/album/0vIu1r5LhcuE8mFQQDkVdm) | 3:18 | 2012-05-08 |  |
 | [Clump](https://open.spotify.com/track/7pXojk3OlRYkKH0TJosc0n) | [iamamiwhoami](https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP) | [Clump \- Single](https://open.spotify.com/album/3YIgrmgNSSqZjIsHs4Y45d) | 4:26 | 2012-05-08 |  |
 | [Come To Me High](https://open.spotify.com/track/2dGHk13rY1FjScjNh0S2XY) | [Rumer](https://open.spotify.com/artist/0Mk6GS1Xr5tqlQyPNkMZzx) | [Seasons Of My Soul](https://open.spotify.com/album/7sM4i2vAo7hUz010aByt6l) | 2:49 | 2012-05-08 |  |
-| [Dirty Dancing](https://open.spotify.com/track/2RFVnh4Pz1PUJ0RfTjbzvP) | [Frida Hyvönen](https://open.spotify.com/artist/58XdW0XyGukvmGatf7NC2R) | [Silence Is Wild](https://open.spotify.com/album/0JT2W4vgJZ01SJZaSQ4qjW) | 0:29 | 2012-05-08 |  |
+| [Dirty Dancing](https://open.spotify.com/track/2RFVnh4Pz1PUJ0RfTjbzvP) | [Frida Hyvönen](https://open.spotify.com/artist/58XdW0XyGukvmGatf7NC2R) | [Silence Is Wild](https://open.spotify.com/album/0JT2W4vgJZ01SJZaSQ4qjW) | 4:06 | 2012-05-08 |  |
 | [Dry My Soul](https://open.spotify.com/track/64h4ggNjcTYHCzAj2JGg36) | [Amanda Jenssen](https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9) | [Dry My Soul](https://open.spotify.com/album/2I5dU3UhJpuHIHK7WJR35Z) | 3:07 | 2012-05-08 |  |
 | [Du gråter så store tåra \- Norwegian Version](https://open.spotify.com/track/4LJ3hYrKHuknqzM6B7NAuI) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [It All Starts With One \(Deluxe Version\)](https://open.spotify.com/album/6IRHfh6FMJydH0SIIxjQ2g) | 3:17 | 2012-05-08 |  |
 | [Generation](https://open.spotify.com/track/6JzJHPTPIwBeK8Ps6lGB0E) | [Buffy Sainte\-Marie](https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x) | [The Pathfinder, Buried Treasures](https://open.spotify.com/album/4tUeFEFh81XykNyE8KDwoG) | 3:01 | 2012-05-08 |  |

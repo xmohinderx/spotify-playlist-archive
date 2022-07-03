@@ -4,7 +4,7 @@
 
 > Celebrating the roots of Dubstep, est\. Croydon, UK.
 
-60 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/5AdvqmHQvAfvbCuozkh2tg)
+60 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/5AdvqmHQvAfvbCuozkh2tg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Pleasure](https://open.spotify.com/track/4XQIhJIXOSMy0d132o3pIe) | [Benga](https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p) | [Diary Of An Afro Warrior \(Expanded Edition\)](https://open.spotify.com/album/1Kl9PK9QiRu95xERylVZ7K) | 5:14 | 2021-10-12 |  |
 | [PLSN](https://open.spotify.com/track/5HIrV3ltvHRqP4KZfI9oDb) | [Pearson Sound](https://open.spotify.com/artist/3lN70MoiO9u6b95CsTeB1J) | [PLSN](https://open.spotify.com/album/1xMFLPFsZLN9o4wAZgcFEb) | 6:34 | 2021-10-12 |  |
 | [Pop Pop](https://open.spotify.com/track/2FiKWg4PMfDPoqxcZ5o59o) | [Vex'd](https://open.spotify.com/artist/7367B0qtTtTTGorscfxrqm) | [Degenerate](https://open.spotify.com/album/0feJqFBmHyJWf2YyQWAXkN) | 6:00 | 2021-10-12 |  |
-| [Pretty Bright Light](https://open.spotify.com/track/2sJlDr8V10DYpnxra6tWkR) | [RSD](https://open.spotify.com/artist/5z8Vn9xoYJ3OXi6VSfohzF) | [Corner Dub \(Blue & Red Mix\) / Pretty Bright Light](https://open.spotify.com/album/1ZLzAQlEXAIMNAhhYzq0jI) | 0:29 | 2021-10-12 |  |
+| [Pretty Bright Light](https://open.spotify.com/track/2sJlDr8V10DYpnxra6tWkR) | [RSD](https://open.spotify.com/artist/5z8Vn9xoYJ3OXi6VSfohzF) | [Corner Dub \(Blue & Red Mix\) / Pretty Bright Light](https://open.spotify.com/album/1ZLzAQlEXAIMNAhhYzq0jI) | 5:10 | 2021-10-12 |  |
 | [Purple City](https://open.spotify.com/track/07OgaXz5dFCeLIVvPpZs7M) | [Joker](https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP), [Ginz](https://open.spotify.com/artist/64QoeJG6EusbNsBxzkqoOv) | [Purple City / Re\-Up](https://open.spotify.com/album/4sgN1XtBJLaE06fcqo5SoV) | 4:24 | 2021-10-12 |  |
 | [Qawwali](https://open.spotify.com/track/36tSNnMctCGaxQp0JVGBLC) | [Pinch](https://open.spotify.com/artist/09S8AYFuaa9PQKSNsXxweW) | [Qawwali](https://open.spotify.com/album/5ebXFw9kL2g9sWbdDk0dKc) | 5:19 | 2021-10-12 |  |
 | [Red](https://open.spotify.com/track/34ipgSCeo8zg2m8sioD44d) | [Artwork](https://open.spotify.com/artist/7m42JNxTwMmomGPQDbU13E) | [Red](https://open.spotify.com/album/5QAgk9IYazJu6xFENZgQwi) | 4:47 | 2021-10-12 |  |

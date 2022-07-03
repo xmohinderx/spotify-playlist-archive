@@ -4,7 +4,7 @@
 
 > From across the globe\. New artists on the horizon\. Cover: Quevedo.
 
-729 songs - 1 day 16 hr 58 min - [published](https://open.spotify.com/playlist/5vCFU5jLGp753wsXFermer)
+729 songs - 1 day 17 hr 0 min - [published](https://open.spotify.com/playlist/5vCFU5jLGp753wsXFermer)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,7 +399,7 @@
 | [Nieładnie](https://open.spotify.com/track/5pPTUPUIFvhyWu5TbZ6D20) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [Nieładnie](https://open.spotify.com/album/5QZejYOe9bw9EOJdmVgYhB) | 2:50 | 2022-04-07 | 2022-04-20 |
 | [Night Ride](https://open.spotify.com/track/054yWLQFJCISgsQxoTRKQK) | [Langston Bristol](https://open.spotify.com/artist/06gQAoURCBTZrRk850fP16), [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [Night Ride](https://open.spotify.com/album/6aPgOliwsFfTbupVxZOIsS) | 2:32 | 2022-06-29 |  |
 | [Niña de Mis Ojos](https://open.spotify.com/track/2fVw5ymYUWzKAj0FFOyArF) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Niña de Mis Ojos](https://open.spotify.com/album/4YZN11bEMW5RRxF3cRejET) | 2:42 | 2022-03-24 | 2022-04-16 |
-| [No Heartbreaks](https://open.spotify.com/track/5TLj0QzjflQoywGR7Sa5zS) | [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH), [Khai Zhen](https://open.spotify.com/artist/3GldAoLXb21txq84tbuuuz) | [No Heartbreaks](https://open.spotify.com/album/6QzGa63zg83NsFzqZGznBz) | 0:29 | 2022-02-03 |  |
+| [No Heartbreaks](https://open.spotify.com/track/5TLj0QzjflQoywGR7Sa5zS) | [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH), [Khai Zhen](https://open.spotify.com/artist/3GldAoLXb21txq84tbuuuz) | [No Heartbreaks](https://open.spotify.com/album/6QzGa63zg83NsFzqZGznBz) | 2:33 | 2022-02-03 |  |
 | [No Le Contestes](https://open.spotify.com/track/3WtU9uawNMMEweexmATPDW) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [Núcleo](https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW) | 3:10 | 2022-03-24 |  |
 | [No Quiero Na'](https://open.spotify.com/track/46lrIMeedN60uf6gmPmLu1) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Amor Roma](https://open.spotify.com/album/2pbBhYiSdgcWhuUFAzPru0) | 2:25 | 2022-04-07 | 2022-04-21 |
 | [No Te Das Cuenta](https://open.spotify.com/track/7Lh3Rxv9V0XIVC1cCki1pV) | [La Cebolla](https://open.spotify.com/artist/0UkT6v5uBVrNrDr5TdETq9) | [No Te Das Cuenta](https://open.spotify.com/album/65pya5BvRjm3a1AGd63taZ) | 3:29 | 2022-03-24 | 2022-04-17 |

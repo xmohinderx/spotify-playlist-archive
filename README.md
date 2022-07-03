@@ -2018,6 +2018,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Legends Only](/playlists/pretty/37i9dQZF1DX5a39zUmS7Hn.md)
 - [Lento.](/playlists/pretty/37i9dQZF1DX64myInc1vfu.md)
 - [Leonard Cohen: Covered](/playlists/pretty/37i9dQZF1DWX8N4beMj76D.md)
+- [Les beaux jours](/playlists/pretty/37i9dQZF1DWWAwsEEGEeag.md)
 - [Les nouveaux classiques](/playlists/pretty/37i9dQZF1DXcZDqZiB24ZM.md)
 - [Let Loose](/playlists/pretty/3Nh594yQ7PkhEPzUUAKlnH.md)
 - [Let's Eat!](/playlists/pretty/37i9dQZF1DXcB9sN6ZkZ58.md)

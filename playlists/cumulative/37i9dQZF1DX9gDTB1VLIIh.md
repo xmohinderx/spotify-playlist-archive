@@ -4,7 +4,7 @@
 
 > This is Nasty C, also known to fans as "A Zulu Man With Some Power"\. The essential tracks, all in one playlist
 
-45 songs - 2 hr 37 min - [published](https://open.spotify.com/playlist/3us74V95C0wtXUW5WhbJZ4)
+45 songs - 2 hr 40 min - [published](https://open.spotify.com/playlist/3us74V95C0wtXUW5WhbJZ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Phases](https://open.spotify.com/track/1TyqrcdmJMBWgPoNKZWisr) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [Bad Hair](https://open.spotify.com/album/3ymK0IkQzqgVEmxGYC2Tzl) | 5:43 | 2022-04-20 |  |
 | [Pressure](https://open.spotify.com/track/1ng7m8cVhY363CoPG2SBaF) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Bad Hair](https://open.spotify.com/album/3ymK0IkQzqgVEmxGYC2Tzl) | 2:56 | 2022-04-20 |  |
 | [Problems](https://open.spotify.com/track/4h97F9SJSC7uPgxoxq4Hjj) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Erick Rush](https://open.spotify.com/artist/5lyTKgOh28QyJ9KmQArlpA) | [Bad Hair](https://open.spotify.com/album/3ymK0IkQzqgVEmxGYC2Tzl) | 3:07 | 2022-04-20 |  |
-| [Said \(Coke Studio Africa\)](https://open.spotify.com/track/5Vq2NGaB9ceeROuvx1yXKg) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Said \(Coke Studio Africa\)](https://open.spotify.com/album/4AaLQWmWFNsz9h2kENp2zL) | 0:29 | 2022-04-20 |  |
+| [Said \(Coke Studio Africa\)](https://open.spotify.com/track/5Vq2NGaB9ceeROuvx1yXKg) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Said \(Coke Studio Africa\)](https://open.spotify.com/album/4AaLQWmWFNsz9h2kENp2zL) | 3:38 | 2022-04-20 |  |
 | [SAP](https://open.spotify.com/track/2IukRUX2L4pIpaOpIai6FU) | [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Da Les](https://open.spotify.com/artist/4on53ORBym2GEnRhIptZwy) | [SAP](https://open.spotify.com/album/75KPPCKkrI3RHbmdpfiXll) | 4:35 | 2022-04-20 |  |
 | [SMA](https://open.spotify.com/track/4fkCcUS3Gl5cRi9zNt7oMa) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [Strings And Bling](https://open.spotify.com/album/6JyxiTsgY9NgCgBxwtrhgo) | 5:14 | 2022-04-20 |  |
 | [Stalling](https://open.spotify.com/track/1iSiayhy8ewrs7Bb2g0du4) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Stalling](https://open.spotify.com/album/0IMyl9QsHEcb5B8PQsgEHG) | 3:52 | 2022-04-20 |  |

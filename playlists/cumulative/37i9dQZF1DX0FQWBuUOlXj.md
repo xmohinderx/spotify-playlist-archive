@@ -4,11 +4,11 @@
 
 > The official playlist for After Life, curated by Ricky Gervais\. Watch on Netflix.
 
-50 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/4inUUkb748ZVOhsVuP6XCq)
+50 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/4inUUkb748ZVOhsVuP6XCq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Gallant Gentleman](https://open.spotify.com/track/7MZM9KhwGQG8QJ4BycsnQn) | [We Lost The Sea](https://open.spotify.com/artist/7GVByFFfFJYCzK4d8ZyL6s) | [Departure Songs](https://open.spotify.com/album/2qYkNaEeAbiarc0rwkjkh3) | 0:29 | 2022-01-13 |  |
+| [A Gallant Gentleman](https://open.spotify.com/track/7MZM9KhwGQG8QJ4BycsnQn) | [We Lost The Sea](https://open.spotify.com/artist/7GVByFFfFJYCzK4d8ZyL6s) | [Departure Songs](https://open.spotify.com/album/2qYkNaEeAbiarc0rwkjkh3) | 6:04 | 2022-01-13 |  |
 | [Among The Living](https://open.spotify.com/track/4XM78FD2aTl9sJrK6AtBVM) | [The Thorns](https://open.spotify.com/artist/4KQqMAIk9n7Axul2872iWj) | [The Thorns](https://open.spotify.com/album/5IVP3ySAumaC1e3mkVFs2J) | 4:08 | 2022-01-13 |  |
 | [And So It Goes](https://open.spotify.com/track/1u7kQUb3lQcpHaYRfia13A) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Storm Front](https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D) | 3:37 | 2022-01-13 |  |
 | [Back to the Beginning](https://open.spotify.com/track/4g374m0wawUeanQ9iov9jI) | [Aaron Espe](https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p) | [This Time of the Year](https://open.spotify.com/album/2lEZnRnI0UAmOJUb4ImFvA) | 3:49 | 2022-01-13 |  |

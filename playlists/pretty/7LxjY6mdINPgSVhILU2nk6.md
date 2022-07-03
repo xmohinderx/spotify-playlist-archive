@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7LxjY6mdINPgSVhILU2nk6.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 26 likes - 22 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 26 likes - 22 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,6 +29,6 @@ pretty - [cumulative](/playlists/cumulative/7LxjY6mdINPgSVhILU2nk6.md) - [plain]
 | 19 | [Amaranthine](https://open.spotify.com/track/2JPYNZOWzjiuaEek4AjJNu) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Amaranthe \(Special Edition\)](https://open.spotify.com/album/2Ecik050ir0AHNPMiLCUe9) | 3:29 |
 | 20 | [It's Not Because Of You](https://open.spotify.com/track/4H4p3wWbVjk9xJTKn6cFOM) | [Witchcraft](https://open.spotify.com/artist/3HVmba1wHgrLVsVC5IIzkG) | [Legend \(Bonus Version\)](https://open.spotify.com/album/37PmPATTGfiCR5TjAbBzS1) | 4:13 |
 | 21 | [Biblical](https://open.spotify.com/track/0Kdbul32i25c5LDGln50yD) | [Bombus](https://open.spotify.com/artist/3PasuDKJ3UrBlLly6Lih4V) | [Bombus](https://open.spotify.com/album/1fwoF1Oh0RVqQWZWWxHztZ) | 5:21 |
-| 22 | [The Veil of Isis](https://open.spotify.com/track/01fbg0DMFY4N0wWNOjjTyC) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Apocryphon](https://open.spotify.com/album/7bvcJbD609wX8vjbtOHv2m) | 0:29 |
+| 22 | [The Veil of Isis](https://open.spotify.com/track/01fbg0DMFY4N0wWNOjjTyC) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Apocryphon](https://open.spotify.com/album/7bvcJbD609wX8vjbtOHv2m) | 5:32 |
 
 Snapshot ID: `NSwxNzMyOGY4Njk0ZTU0NmM4ZDZjYzViNjljYzQ0OTQzOWEzYTU2MGJk`

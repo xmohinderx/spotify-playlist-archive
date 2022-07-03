@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2uVP1agvV5rba3MqLQ0pzy.md) - [plain]
 
 > Despite their nomenclature defying eclecticism, these folk inspired artists share a collective penchant for welding experimentation with tradition.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276 likes - 45 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 276 likes - 45 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/2uVP1agvV5rba3MqLQ0pzy.md) - [plain]
 | 4 | [Jonny O' the Brine](https://open.spotify.com/track/5kJE962LG3qsiWA9tfoI0q) | [Sam Lee & Friends](https://open.spotify.com/artist/2nuyOqEmm7Ioh49QYLLb0J) | [The Fade in Time](https://open.spotify.com/album/0evPPH0sWUtokP05WDAe9O) | 4:49 |
 | 5 | [Shay Shay](https://open.spotify.com/track/2NhjbhkSoVyInKvT4m9GiQ) | [Josephine Foster](https://open.spotify.com/artist/1fVyf1LbeIEE4DUT4dZhHL) | [Little Life](https://open.spotify.com/album/037onoJAih4yAT1Z688L6o) | 1:10 |
 | 6 | [Teeth](https://open.spotify.com/track/1DojCfXh7T28p81m00Yw0r) | [Thao & Mirah](https://open.spotify.com/artist/3cRmvX2dbq6zPFDCrogUlF) | [Thao & Mirah](https://open.spotify.com/album/4NweXr8UqiBh0PsZj6PQZn) | 2:51 |
-| 7 | [The Day I Went to Bed for 10 Years](https://open.spotify.com/track/1YUjpja6kT6sbSrW8EZSOm) | [Morton Valence](https://open.spotify.com/artist/0DhoGT0AbtON8ejhJCgwiP) | [Left](https://open.spotify.com/album/4ITDlcWNyYgL2gGknKMeGU) | 0:29 |
+| 7 | [The Day I Went to Bed for 10 Years](https://open.spotify.com/track/1YUjpja6kT6sbSrW8EZSOm) | [Morton Valence](https://open.spotify.com/artist/0DhoGT0AbtON8ejhJCgwiP) | [Left](https://open.spotify.com/album/4ITDlcWNyYgL2gGknKMeGU) | 7:38 |
 | 8 | [Ain't That What Love Is](https://open.spotify.com/track/76XyqTLxWjw8n3HN1M9P23) | [Matthew E\. White](https://open.spotify.com/artist/58mMrwemoGIcDpvfHe46u4) | [Ain't That What Love Is](https://open.spotify.com/album/2VhImx3ZnvwMfNH9JYVeVD) | 4:09 |
 | 9 | [Tomorrow's Only Yesterday](https://open.spotify.com/track/0mPxhzxHMgbd3c2tOqLsDw) | [Woods](https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ) | [Tambourine Light / Tomorrow's Only Yesterday](https://open.spotify.com/album/6pBjyUPfUEG7TLEftkKgHP) | 2:48 |
 | 10 | [It's No Fun But I'm OK](https://open.spotify.com/track/3DzspyS6h0HRWA4sG8DfQU) | [Jim Guittard](https://open.spotify.com/artist/5vFGj1nH2MwOucNgtpFX3B) | [Forward](https://open.spotify.com/album/146IQwahwj1L5JUFhC94xL) | 2:14 |

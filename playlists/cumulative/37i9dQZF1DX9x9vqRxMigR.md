@@ -4,7 +4,7 @@
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org/conference</a>\. Cover: Kyshona Armstrong
 
-320 songs - 21 hr 3 min - [published](https://open.spotify.com/playlist/77WoQGjdtAfs1yp2VHvlry)
+320 songs - 21 hr 6 min - [published](https://open.spotify.com/playlist/77WoQGjdtAfs1yp2VHvlry)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Kites](https://open.spotify.com/track/7xwNdMaP5A8fxaTAwARJ3X) | [House of Waters](https://open.spotify.com/artist/4a8MGNthjVGNBU6AdBQT7x) | [Rising](https://open.spotify.com/album/2tfVDWZlGOrAEz4M7tpZfn) | 8:07 | 2022-04-25 |  |
 | [Knees Up](https://open.spotify.com/track/0w9DLBvg5p0sl16z0Qn8Ry) | [Breabach](https://open.spotify.com/artist/1HyT0AtzTH5lVzlm8yQgbI) | [Frenzy of the Meeting](https://open.spotify.com/album/1dKru5DafMfAT372Ps1V8R) | 3:27 | 2021-02-23 | 2022-04-26 |
 | [Ko'jua](https://open.spotify.com/track/1dB4QYgZ14jMOVaX2XhJYA) | [Morgan Toney](https://open.spotify.com/artist/6loCzBWfTzYSjwN6QoDFQv) | [First Flight](https://open.spotify.com/album/0Q1YLD1nwWvoFwYgu54O7l) | 3:30 | 2022-04-25 |  |
-| [Ku'u Poli'ahu](https://open.spotify.com/track/2sfZQiHXz95HPaMX9hZ1bl) | [Kalani Pe'a](https://open.spotify.com/artist/2dn7TmEojNdgWeRhbO15hg) | [E Walea](https://open.spotify.com/album/5lm1nmjm0NWth85dImVdgt) | 0:29 | 2021-02-23 |  |
+| [Ku'u Poli'ahu](https://open.spotify.com/track/2sfZQiHXz95HPaMX9hZ1bl) | [Kalani Pe'a](https://open.spotify.com/artist/2dn7TmEojNdgWeRhbO15hg) | [E Walea](https://open.spotify.com/album/5lm1nmjm0NWth85dImVdgt) | 3:43 | 2021-02-23 |  |
 | [La Bamba](https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [La Bamba / Charlena](https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ) | 2:54 | 2021-02-23 | 2022-04-26 |
 | [La boiteuse](https://open.spotify.com/track/0qGBagKIYdrer7UFpLkTis) | [Le Diable à Cinq](https://open.spotify.com/artist/5KBDs4i4lRg7nIQGR831Pq) | [Debout!](https://open.spotify.com/album/2jKFWUeyvInHIxkqQxKFox) | 4:32 | 2021-02-23 | 2022-04-26 |
 | [La Vida](https://open.spotify.com/track/0vFdufTUQOwXRqQCyX9ods) | [Beny Esguerra](https://open.spotify.com/artist/73nvE4G3BVIw36lQO6smGb) | [A New Tradition, Vol\. 2: Return of the Kuisi](https://open.spotify.com/album/43cmQJokEi00YNW9gQwq5C) | 2:32 | 2021-02-23 | 2022-04-26 |

@@ -406,6 +406,24 @@
     },
     {
       "album": {
+        "name": "Vida (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5GKD4VAYNOg8eQfelgHR4a"
+      },
+      "artists": [
+        {
+          "name": "Bianca Azevedo",
+          "url": "https://open.spotify.com/artist/69rTWdhFy8ISfufMZI9qd1"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484840,
+      "name": "Jesus - English Version",
+      "url": "https://open.spotify.com/track/0bBHh0MuQgH5dCIy4FP2OC"
+    },
+    {
+      "album": {
         "name": "Hosana (Ao Vivo)",
         "url": "https://open.spotify.com/album/7k4vRmoiCX5Xvta66oFOUL"
       },

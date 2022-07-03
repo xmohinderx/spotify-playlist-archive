@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/01WIu4Rst0xeZnTunWxUL7.md) - [plain]
 
 > Go beyond the music with audio documentaries, rare interviews, and behind the scenes biographies of famous and influential artists and bands.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31 likes - 65 songs - 20 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 31 likes - 65 songs - 21 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/01WIu4Rst0xeZnTunWxUL7.md) - [plain]
 | 41 | [Layla \- Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 1999 Remaster](https://open.spotify.com/track/6YEOmCsXSk9ZPE0FkcCiuQ) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton Chronicles: The Best of Eric Clapton](https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy) | 4:20 |
 | 42 | [Vantage Audio Documentary: Star Profile, Eric Clapton](https://open.spotify.com/track/7nscsD9UbkjkjtXjq0MHU3) | [VANTAGE](https://open.spotify.com/artist/6ZpnY5vJa18Xadgq7p7Kcx) | [Vantage Audio Documentary: Star Profile, Eric Clapton](https://open.spotify.com/album/7laU3q4oSYD9rcAvAatlsb) | 50:56 |
 | 43 | [I Wanna Be Loved By You](https://open.spotify.com/track/4ry7aBzYBElCnOfHychPCu) | [Marilyn Monroe](https://open.spotify.com/artist/5sEocv1pFst7o3pam69obY) | [Anthology](https://open.spotify.com/album/5DMsPFm6wQcXgTKGmPk7rX) | 2:54 |
-| 44 | [Vantage Audio Documentary \- Marilyn Monroe](https://open.spotify.com/track/3SqusKgYQPuxZUKgcAIypp) | [John Huston](https://open.spotify.com/artist/6h89iaVdqTpNlGd670100V) | [Vantage Audio Documentary \- Marilyn Monroe](https://open.spotify.com/album/4HaDuUPRYygtKWTfngJuy5) | 0:29 |
+| 44 | [Vantage Audio Documentary \- Marilyn Monroe](https://open.spotify.com/track/3SqusKgYQPuxZUKgcAIypp) | [John Huston](https://open.spotify.com/artist/6h89iaVdqTpNlGd670100V) | [Vantage Audio Documentary \- Marilyn Monroe](https://open.spotify.com/album/4HaDuUPRYygtKWTfngJuy5) | 52:30 |
 | 45 | [Story of My Life](https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 4:05 |
 | 46 | [Vantage Audio Documentary: One Direction](https://open.spotify.com/track/5X5oG4ILI2SqZ6tXMPKtmS) | [Tammie Lynn Jones](https://open.spotify.com/artist/3PvAjSE6jtMcJfFypzEpt3) | [One Direction Tribute Collection](https://open.spotify.com/album/5wXK4GbJF9UbwLpEWvhYDM) | 34:30 |
 | 47 | [All The Small Things](https://open.spotify.com/track/7yCPwWs66K8Ba5lFuU2bcx) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/5qt11cWjSs5Gbqj2Wyfu38) | 2:48 |

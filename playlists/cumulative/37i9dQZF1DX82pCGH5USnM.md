@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-516 songs - 1 day 7 hr 6 min - [published](https://open.spotify.com/playlist/6wvPa10IM2VpPAMqDEeIM4)
+516 songs - 1 day 7 hr 9 min - [published](https://open.spotify.com/playlist/6wvPa10IM2VpPAMqDEeIM4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Find Home \- Vincenzo Remix](https://open.spotify.com/track/0QayFvre5hJOVTBkJnWKwF) | [Sumsuch](https://open.spotify.com/artist/1HHU2iqCzLhS5eJjxTcL0G), [Matty Eeles](https://open.spotify.com/artist/74tJCrPNK21aC2OC8TppuW), [Vincenzo](https://open.spotify.com/artist/7FR8ZynvReyPlYfi4LnKyI) | [Find Home](https://open.spotify.com/album/4CgxK6h3kf9XaNbdQYz1cS) | 5:36 | 2021-01-27 | 2021-02-10 |
 | [Fire Sprinkler System: On](https://open.spotify.com/track/5k22f3yE7QCTEUElSuIWB3) | [Midnight Cycler](https://open.spotify.com/artist/3SBMxed906yvEy1tA8Avaj) | [Sticky Bottle EP](https://open.spotify.com/album/3qV8k73DqSusDiqVyVoFMn) | 3:22 | 2020-12-16 | 2021-01-27 |
 | [Flame](https://open.spotify.com/track/1u9XkKxQr2jAvCCXnfBCZF) | [MOOGADISHU](https://open.spotify.com/artist/0cV2d206HjrISLX6hSkktp) | [Flame](https://open.spotify.com/album/4WLc49NOKBLD3VXPDvPziF) | 4:01 | 2020-11-27 | 2022-01-22 |
-| [Flawless](https://open.spotify.com/track/18QHvKoP8RZDE6kWYWwd04) | [Beau Bailey\-Lang](https://open.spotify.com/artist/0HlA2jPYIXgwX8PhZwqmIH) | [Flawless](https://open.spotify.com/album/7ymPGmNjcueeThs05uQVNs) | 0:29 | 2021-04-21 |  |
+| [Flawless](https://open.spotify.com/track/18QHvKoP8RZDE6kWYWwd04) | [Beau Bailey\-Lang](https://open.spotify.com/artist/0HlA2jPYIXgwX8PhZwqmIH) | [Flawless](https://open.spotify.com/album/7ymPGmNjcueeThs05uQVNs) | 2:33 | 2021-04-21 |  |
 | [Flickering](https://open.spotify.com/track/4VEUWkLdvL5TBDR4nHvorp) | [Pipo W](https://open.spotify.com/artist/6ZNEs0261UezCJ2TG0G0x0) | [Flickering](https://open.spotify.com/album/6WrJfmSsT3SkOajiVX54Ym) | 2:41 | 2021-06-02 |  |
 | [Float Through Forever](https://open.spotify.com/track/6uLv9L8zl6HO5tJtL9pe2B) | [Weedthief](https://open.spotify.com/artist/68nJ4u9Ksp29uysSXzGZQG), [Maadrhino](https://open.spotify.com/artist/69NXAR2kpX8fv5ed7xJpgx) | [Float Through Forever](https://open.spotify.com/album/4ThIDWbrvPwaPnXRzZ8XgQ) | 2:00 | 2020-04-03\* | 2020-11-19 |
 | [Floating](https://open.spotify.com/track/76aN0A4w4L3dgZRjFZyMdO) | [Lightcore](https://open.spotify.com/artist/4AlA8vTiQdHHCKVBMJKHBg) | [Floating](https://open.spotify.com/album/5uytHbeCMXBfalRKmxrSM3) | 3:10 | 2020-04-03\* | 2020-12-24 |

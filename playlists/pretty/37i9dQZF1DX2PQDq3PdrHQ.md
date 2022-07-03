@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,431 likes - 177 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,720 likes - 177 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 89 | [The Compound](https://open.spotify.com/track/6zNlPeQNMhAEMixYj5DyT9) | [Otaam](https://open.spotify.com/artist/0yABOXFZ5fJ1KyoXXgj5B0), [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb) | [The Compound](https://open.spotify.com/album/4tj9KTZF4yKrAxfOUWnfZi) | 2:07 |
 | 90 | [lavender luster](https://open.spotify.com/track/76o5VE3NHgKGB1Sdz4Ouam) | [kobicha](https://open.spotify.com/artist/4nJ6L5ADQdv6cZHXcvsRNd) | [lavender luster](https://open.spotify.com/album/2VMqEiOvgY83pdlkwbB5e4) | 2:29 |
 | 91 | [Sunshine](https://open.spotify.com/track/7HBhOT7IEZgtsKwbGOpJi8) | [Becky Bowder](https://open.spotify.com/artist/4H2ndjNhOqdmRcrWzvnNEo) | [Sunshine](https://open.spotify.com/album/5t8Bjlsv1UtsMgfHeH4kbf) | 2:22 |
-| 92 | [Flower Garden](https://open.spotify.com/track/493sWup0yoc0poKRS3nfhh) | [Foam](https://open.spotify.com/artist/4mVfOMuxawunYMWOWYXeFO), [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv) | [Flower Garden](https://open.spotify.com/album/6AVYFYL2PxduWuQpk7HFZV) | 0:29 |
+| 92 | [Flower Garden](https://open.spotify.com/track/493sWup0yoc0poKRS3nfhh) | [Foam](https://open.spotify.com/artist/4mVfOMuxawunYMWOWYXeFO), [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv) | [Flower Garden](https://open.spotify.com/album/6AVYFYL2PxduWuQpk7HFZV) | 3:00 |
 | 93 | [In Another World](https://open.spotify.com/track/3B4IYZc5fU9JYX6JCmyCun) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [In Another World](https://open.spotify.com/album/3bReDkY6WtV1VzogYS6YRa) | 2:19 |
 | 94 | [soothe](https://open.spotify.com/track/0UO3s3hL9MhDJ4SiUUpCtE) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [soothe](https://open.spotify.com/album/69z801BXu8DgY0XeahOSU4) | 1:54 |
 | 95 | [305 sky](https://open.spotify.com/track/3gIJheKHSVrhs5EkxHdNpA) | [Rory Callum](https://open.spotify.com/artist/25DH1fXhuHYG3JDDydqbpY) | [305 sky](https://open.spotify.com/album/3iPp8nXQprbUgcYZP89fKy) | 2:01 |

@@ -1,15 +1,35 @@
 {
   "description": "Your daily update of the most played tracks right now - France.",
-  "num_followers": 801357,
+  "num_followers": 801553,
   "original_name": "Top 50 - France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzA5OTkyMjkzLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzEwMDc5MDgxLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-07-01 12:04:53",
+      "added_at": "2022-07-02 12:11:21",
+      "album": {
+        "name": "KMT",
+        "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "duration_ms": 166373,
+      "name": "BODIES (feat. Damso)",
+      "url": "https://open.spotify.com/track/3im90dPSC5z1PYJ305kgSy"
+    },
+    {
+      "added_at": "2022-07-02 12:11:21",
       "album": {
         "name": "Chop (Nouvelle \u00c9cole)",
         "url": "https://open.spotify.com/album/2vAVFfoAjUMrDpXtcYhp5U"
@@ -25,7 +45,23 @@
       "url": "https://open.spotify.com/track/6KHsTu4Ht4XYiWcZOOdwbW"
     },
     {
-      "added_at": "2022-07-01 12:04:53",
+      "added_at": "2022-07-02 12:11:21",
+      "album": {
+        "name": "KMT",
+        "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "RAPPEL",
+      "url": "https://open.spotify.com/track/48BdA5qBxXVoe59xvu0bwc"
+    },
+    {
+      "added_at": "2022-07-02 12:11:21",
       "album": {
         "name": "QUARTIERS NORD",
         "url": "https://open.spotify.com/album/4EGHU1v3qmjchplaPqRWBC"
@@ -49,10 +85,10 @@
       "url": "https://open.spotify.com/track/6OZwia8loN0aPS0vTvsBjR"
     },
     {
-      "added_at": "2022-07-01 12:04:53",
+      "added_at": "2022-07-02 12:11:21",
       "album": {
-        "name": "RAPPEL",
-        "url": "https://open.spotify.com/album/3z01IFOidqCtkFb7mbgffD"
+        "name": "KMT",
+        "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
       },
       "artists": [
         {
@@ -60,28 +96,48 @@
           "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         }
       ],
-      "duration_ms": 217948,
-      "name": "RAPPEL",
-      "url": "https://open.spotify.com/track/7zgKUbJczQXGEICIwP6Diw"
+      "duration_ms": 158226,
+      "name": "CELINE 3X",
+      "url": "https://open.spotify.com/track/2wXS2IXCyBX0WL76LLYT31"
     },
     {
-      "added_at": "2022-07-01 12:04:53",
+      "added_at": "2022-07-02 12:11:21",
       "album": {
-        "name": "Rave & Roses",
-        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
+        "name": "KMT",
+        "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         }
       ],
-      "duration_ms": 219668,
-      "name": "Calm Down",
-      "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
+      "duration_ms": 178813,
+      "name": "LETTRE \u00c0 UN OPPS",
+      "url": "https://open.spotify.com/track/7LQxyZwcn4Ryq4Z0qllQd3"
     },
     {
-      "added_at": "2022-07-01 12:04:53",
+      "added_at": "2022-07-02 12:11:21",
+      "album": {
+        "name": "KMT",
+        "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 210933,
+      "name": "FLEURS (feat. Tiakola)",
+      "url": "https://open.spotify.com/track/0i9RysNKssk6syOrKDX3U2"
+    },
+    {
+      "added_at": "2022-07-02 12:11:21",
       "album": {
         "name": "FADE UP",
         "url": "https://open.spotify.com/album/6eD0LYFE7Tp1vOFffZVWNr"
@@ -105,7 +161,39 @@
       "url": "https://open.spotify.com/track/4ZpIuzx91EAPK3VimONbfB"
     },
     {
-      "added_at": "2022-07-01 12:04:53",
+      "added_at": "2022-07-02 12:11:21",
+      "album": {
+        "name": "Rave & Roses",
+        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 219668,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
+    },
+    {
+      "added_at": "2022-07-02 12:11:21",
+      "album": {
+        "name": "KMT",
+        "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 138786,
+      "name": "BECTE",
+      "url": "https://open.spotify.com/track/0Fqpx84jq1cK3pDtPvTFyM"
+    },
+    {
+      "added_at": "2022-07-02 12:11:21",
       "album": {
         "name": "Extraterrestre",
         "url": "https://open.spotify.com/album/4DqWj7iB2Xa2DQYiWcT7ks"
@@ -121,23 +209,7 @@
       "url": "https://open.spotify.com/track/3fgEIHsl6ecyAK1rpAxBIY"
     },
     {
-      "added_at": "2022-07-01 12:04:53",
-      "album": {
-        "name": "Sans visa",
-        "url": "https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx"
-      },
-      "artists": [
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        }
-      ],
-      "duration_ms": 159360,
-      "name": "Suavemente",
-      "url": "https://open.spotify.com/track/6Qe7YCkIOc1iaw9HKqO3qV"
-    },
-    {
-      "added_at": "2022-07-01 12:04:53",
+      "added_at": "2022-07-02 12:11:21",
       "album": {
         "name": "Hounds Of Love",
         "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
@@ -153,10 +225,10 @@
       "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
     },
     {
-      "added_at": "2022-07-01 12:04:53",
+      "added_at": "2022-07-02 12:11:21",
       "album": {
-        "name": "MOLLY - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/6ZIJvsgdRVinkp5FaVbgRz"
+        "name": "KMT",
+        "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
       },
       "artists": [
         {
@@ -164,28 +236,48 @@
           "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         }
       ],
-      "duration_ms": 142027,
-      "name": "MOLLY - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/6KNw3UKRp3QRsO7Cf4ASVE"
+      "duration_ms": 240413,
+      "name": "DIE",
+      "url": "https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ"
     },
     {
-      "added_at": "2022-07-01 12:04:53",
+      "added_at": "2022-07-02 12:11:21",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+        "name": "Sans visa",
+        "url": "https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
         }
       ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+      "duration_ms": 159360,
+      "name": "Suavemente",
+      "url": "https://open.spotify.com/track/6Qe7YCkIOc1iaw9HKqO3qV"
     },
     {
-      "added_at": "2022-07-01 12:04:53",
+      "added_at": "2022-07-02 12:11:21",
+      "album": {
+        "name": "KMT",
+        "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "M Huncho",
+          "url": "https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r"
+        }
+      ],
+      "duration_ms": 226680,
+      "name": "M.A.L.A (feat. M Huncho)",
+      "url": "https://open.spotify.com/track/63Rv4Exb1rc43qYL9AOXsa"
+    },
+    {
+      "added_at": "2022-07-02 12:11:21",
       "album": {
         "name": "Drama queen",
         "url": "https://open.spotify.com/album/01mO9ZxpTUCroczjsauart"
@@ -201,27 +293,75 @@
       "url": "https://open.spotify.com/track/4RVPmkIVvzcWF27zfn3sap"
     },
     {
-      "added_at": "2022-07-01 12:04:53",
+      "added_at": "2022-07-02 12:11:21",
       "album": {
-        "name": "M\u00e9lo",
-        "url": "https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU"
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
       "artists": [
         {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        },
-        {
-          "name": "Rsko",
-          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 183053,
-      "name": "Gasolina (feat. Rsko)",
-      "url": "https://open.spotify.com/track/6kwmp0U8M1tPvgPHqvbwsr"
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
-      "added_at": "2022-07-01 12:04:53",
+      "added_at": "2022-07-02 12:11:21",
+      "album": {
+        "name": "KMT",
+        "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 148866,
+      "name": "JEUX DANGEREUX",
+      "url": "https://open.spotify.com/track/5s4nWxnucgO7YPfoPGxR1e"
+    },
+    {
+      "added_at": "2022-07-02 12:11:21",
+      "album": {
+        "name": "KMT",
+        "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 217960,
+      "name": "HENNESSY",
+      "url": "https://open.spotify.com/track/6fKYXAnTD96mFM9nAGaC7V"
+    },
+    {
+      "added_at": "2022-07-02 12:11:21",
+      "album": {
+        "name": "KMT",
+        "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Skread",
+          "url": "https://open.spotify.com/artist/6BbceEVcjow8mhQPYK3eBK"
+        }
+      ],
+      "duration_ms": 208413,
+      "name": "GRA GRA BOOM (feat. Skread)",
+      "url": "https://open.spotify.com/track/3aOzpOcVaAXCb2bkabANde"
+    },
+    {
+      "added_at": "2022-07-02 12:11:21",
       "album": {
         "name": "Ar\u00e8s",
         "url": "https://open.spotify.com/album/3YqLNAFhUEpmmWWrTP015P"
@@ -241,10 +381,10 @@
       "url": "https://open.spotify.com/track/7eb7JIRN6HKpedFSDGd4yI"
     },
     {
-      "added_at": "2022-07-01 12:04:53",
+      "added_at": "2022-07-02 12:11:21",
       "album": {
-        "name": "CELINE 3X",
-        "url": "https://open.spotify.com/album/41kuLdSoezApusMB9AIZCT"
+        "name": "MOLLY - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/6ZIJvsgdRVinkp5FaVbgRz"
       },
       "artists": [
         {
@@ -252,28 +392,32 @@
           "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         }
       ],
-      "duration_ms": 158223,
-      "name": "CELINE 3X",
-      "url": "https://open.spotify.com/track/2APwDsIavDeJRJFcz6s8Ow"
+      "duration_ms": 142027,
+      "name": "MOLLY - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6KNw3UKRp3QRsO7Cf4ASVE"
     },
     {
-      "added_at": "2022-07-01 12:04:53",
+      "added_at": "2022-07-02 12:11:21",
       "album": {
-        "name": "Extraterrestre",
-        "url": "https://open.spotify.com/album/4DqWj7iB2Xa2DQYiWcT7ks"
+        "name": "M\u00e9lo",
+        "url": "https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU"
       },
       "artists": [
         {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
         }
       ],
-      "duration_ms": 234213,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/4BuRrEwP1C4E8NkpUMe6mI"
+      "duration_ms": 183053,
+      "name": "Gasolina (feat. Rsko)",
+      "url": "https://open.spotify.com/track/6kwmp0U8M1tPvgPHqvbwsr"
     },
     {
-      "added_at": "2022-07-01 12:04:53",
+      "added_at": "2022-07-02 12:11:21",
       "album": {
         "name": "La TN (Team Naps)",
         "url": "https://open.spotify.com/album/7MNbcWeCe5gCt3PdMXFXeI"
@@ -293,7 +437,23 @@
       "url": "https://open.spotify.com/track/5QowMIujytktMDC8pktNXH"
     },
     {
-      "added_at": "2022-07-01 12:04:53",
+      "added_at": "2022-07-02 12:11:21",
+      "album": {
+        "name": "KMT",
+        "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "IMPACT",
+      "url": "https://open.spotify.com/track/1hlUHJgbdFdvZvG64a3W1g"
+    },
+    {
+      "added_at": "2022-07-02 12:11:21",
       "album": {
         "name": "Sans visa",
         "url": "https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx"
@@ -313,7 +473,39 @@
       "url": "https://open.spotify.com/track/6PrB4KpvuoYWtwjPC5a44S"
     },
     {
-      "added_at": "2022-07-01 12:04:53",
+      "added_at": "2022-07-02 12:11:21",
+      "album": {
+        "name": "Extraterrestre",
+        "url": "https://open.spotify.com/album/4DqWj7iB2Xa2DQYiWcT7ks"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 234213,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/4BuRrEwP1C4E8NkpUMe6mI"
+    },
+    {
+      "added_at": "2022-07-02 12:11:21",
+      "album": {
+        "name": "KMT",
+        "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 188933,
+      "name": "BOSS",
+      "url": "https://open.spotify.com/track/2K2hSiCZAwwlFvwTxVRqoi"
+    },
+    {
+      "added_at": "2022-07-02 12:11:21",
       "album": {
         "name": "Familia",
         "url": "https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX"
@@ -333,23 +525,23 @@
       "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
     },
     {
-      "added_at": "2022-07-01 12:04:53",
+      "added_at": "2022-07-02 12:11:21",
       "album": {
-        "name": "Santa Maria",
-        "url": "https://open.spotify.com/album/7sxlz5Rgse37BmYI6MdqMc"
+        "name": "Pays des merveilles",
+        "url": "https://open.spotify.com/album/7B1NFmx9uu3VbOvGBAiUCe"
       },
       "artists": [
         {
-          "name": "RIDSA",
-          "url": "https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es"
+          "name": "Yanns",
+          "url": "https://open.spotify.com/artist/3mirzmIKVfvqcW0M5OKAzR"
         }
       ],
-      "duration_ms": 189519,
-      "name": "Santa Maria",
-      "url": "https://open.spotify.com/track/3wfQEIvOfeVkXgGZogK3gL"
+      "duration_ms": 163977,
+      "name": "Clic clic pan pan",
+      "url": "https://open.spotify.com/track/6aZPMuJetqwKQCPClCNgd3"
     },
     {
-      "added_at": "2022-07-01 12:04:53",
+      "added_at": "2022-07-02 12:11:21",
       "album": {
         "name": "Cartel : volume 1 & 2",
         "url": "https://open.spotify.com/album/5YPvyAo9EUi0gIv8oEprFc"
@@ -369,39 +561,7 @@
       "url": "https://open.spotify.com/track/1cgRpYVOkYnxomkDpYLyba"
     },
     {
-      "added_at": "2022-07-01 12:04:53",
-      "album": {
-        "name": "Pays des merveilles",
-        "url": "https://open.spotify.com/album/7B1NFmx9uu3VbOvGBAiUCe"
-      },
-      "artists": [
-        {
-          "name": "Yanns",
-          "url": "https://open.spotify.com/artist/3mirzmIKVfvqcW0M5OKAzR"
-        }
-      ],
-      "duration_ms": 163977,
-      "name": "Clic clic pan pan",
-      "url": "https://open.spotify.com/track/6aZPMuJetqwKQCPClCNgd3"
-    },
-    {
-      "added_at": "2022-07-01 12:04:53",
-      "album": {
-        "name": "QUARTIERS NORD",
-        "url": "https://open.spotify.com/album/4EGHU1v3qmjchplaPqRWBC"
-      },
-      "artists": [
-        {
-          "name": "Alonzo",
-          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
-        }
-      ],
-      "duration_ms": 189626,
-      "name": "TRAFICANTE",
-      "url": "https://open.spotify.com/track/3mTOTW2KnH9pJlpy5o3cJK"
-    },
-    {
-      "added_at": "2022-07-01 12:04:53",
+      "added_at": "2022-07-02 12:11:21",
       "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
@@ -421,7 +581,7 @@
       "url": "https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX"
     },
     {
-      "added_at": "2022-07-01 12:04:53",
+      "added_at": "2022-07-02 12:11:21",
       "album": {
         "name": "Belly Dancer",
         "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
@@ -441,23 +601,39 @@
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
     },
     {
-      "added_at": "2022-07-01 12:04:53",
+      "added_at": "2022-07-02 12:11:21",
       "album": {
-        "name": "MIDDLE OF THE NIGHT",
-        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
+        "name": "QUARTIERS NORD",
+        "url": "https://open.spotify.com/album/4EGHU1v3qmjchplaPqRWBC"
       },
       "artists": [
         {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
         }
       ],
-      "duration_ms": 184447,
-      "name": "MIDDLE OF THE NIGHT",
-      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
+      "duration_ms": 189626,
+      "name": "TRAFICANTE",
+      "url": "https://open.spotify.com/track/3mTOTW2KnH9pJlpy5o3cJK"
     },
     {
-      "added_at": "2022-07-01 12:04:53",
+      "added_at": "2022-07-02 12:11:21",
+      "album": {
+        "name": "Santa Maria",
+        "url": "https://open.spotify.com/album/7sxlz5Rgse37BmYI6MdqMc"
+      },
+      "artists": [
+        {
+          "name": "RIDSA",
+          "url": "https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es"
+        }
+      ],
+      "duration_ms": 189519,
+      "name": "Santa Maria",
+      "url": "https://open.spotify.com/track/3wfQEIvOfeVkXgGZogK3gL"
+    },
+    {
+      "added_at": "2022-07-02 12:11:21",
       "album": {
         "name": "L\u2019Amour",
         "url": "https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6"
@@ -477,23 +653,23 @@
       "url": "https://open.spotify.com/track/2toEys3zZ8rRB242Na7FZh"
     },
     {
-      "added_at": "2022-07-01 12:04:53",
+      "added_at": "2022-07-02 12:11:21",
       "album": {
-        "name": "Jefe",
-        "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
+        "name": "KMT",
+        "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
       },
       "artists": [
         {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         }
       ],
-      "duration_ms": 177705,
-      "name": "Jefe",
-      "url": "https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf"
+      "duration_ms": 210440,
+      "name": "MOLLY",
+      "url": "https://open.spotify.com/track/682C1KGj7SigHyZIFzP0yT"
     },
     {
-      "added_at": "2022-07-01 12:04:53",
+      "added_at": "2022-07-02 12:11:21",
       "album": {
         "name": "Emiliana",
         "url": "https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp"
@@ -509,43 +685,7 @@
       "url": "https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I"
     },
     {
-      "added_at": "2022-07-01 12:04:53",
-      "album": {
-        "name": "Jefe",
-        "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 187027,
-      "name": "VVS",
-      "url": "https://open.spotify.com/track/5S12Ds2RswM2ITC0u1J01f"
-    },
-    {
-      "added_at": "2022-07-01 12:04:53",
-      "album": {
-        "name": "Ma b\u00e9b\u00e9 (Mi amor)",
-        "url": "https://open.spotify.com/album/780AMjLxjKVN0C1s41u13i"
-      },
-      "artists": [
-        {
-          "name": "DJ Hamida",
-          "url": "https://open.spotify.com/artist/4xTiWBThjZgo1uZn1WpZm3"
-        },
-        {
-          "name": "SAF",
-          "url": "https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td"
-        }
-      ],
-      "duration_ms": 149554,
-      "name": "Ma b\u00e9b\u00e9 (Mi amor)",
-      "url": "https://open.spotify.com/track/58wSjVjdGxi1gi2RFTMObE"
-    },
-    {
-      "added_at": "2022-07-01 12:04:53",
+      "added_at": "2022-07-02 12:11:21",
       "album": {
         "name": "Trompeta",
         "url": "https://open.spotify.com/album/0x8fxnTkzXKsZVzdZ6Qxka"
@@ -561,43 +701,91 @@
       "url": "https://open.spotify.com/track/181AxLRTyYh9WUxEjmJt1Y"
     },
     {
-      "added_at": "2022-07-01 12:04:53",
+      "added_at": "2022-07-02 12:11:21",
       "album": {
-        "name": "D\u00e9gaine (feat. Damso)",
-        "url": "https://open.spotify.com/album/0qHraUEsPCcdTqCFBFDQvn"
+        "name": "MIDDLE OF THE NIGHT",
+        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
       },
       "artists": [
         {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "duration_ms": 184447,
+      "name": "MIDDLE OF THE NIGHT",
+      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
+    },
+    {
+      "added_at": "2022-07-02 12:11:21",
+      "album": {
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
+    },
+    {
+      "added_at": "2022-07-02 12:11:21",
+      "album": {
+        "name": "Jefe",
+        "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 177705,
+      "name": "Jefe",
+      "url": "https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf"
+    },
+    {
+      "added_at": "2022-07-02 12:11:21",
+      "album": {
+        "name": "KMT",
+        "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         },
         {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
         }
       ],
-      "duration_ms": 210958,
-      "name": "D\u00e9gaine (feat. Damso)",
-      "url": "https://open.spotify.com/track/5cqLFudVQryezmVFmmyRJN"
+      "duration_ms": 217946,
+      "name": "MAUVAIS 2X (feat. Ninho)",
+      "url": "https://open.spotify.com/track/6eyMCE0yqY4XYI8ZUZf9Wk"
     },
     {
-      "added_at": "2022-07-01 12:04:53",
+      "added_at": "2022-07-02 12:11:21",
       "album": {
-        "name": "Club Azur",
-        "url": "https://open.spotify.com/album/1F27jLhFpbPMTB8DY15nTK"
+        "name": "Jefe",
+        "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
       },
       "artists": [
         {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
         }
       ],
-      "duration_ms": 189880,
-      "name": "Clap Your Hands",
-      "url": "https://open.spotify.com/track/6jcfITWcR5egvbD4fsGayr"
+      "duration_ms": 187027,
+      "name": "VVS",
+      "url": "https://open.spotify.com/track/5S12Ds2RswM2ITC0u1J01f"
     },
     {
-      "added_at": "2022-07-01 12:04:53",
+      "added_at": "2022-07-02 12:11:21",
       "album": {
         "name": "Best Life",
         "url": "https://open.spotify.com/album/5pqeNqiOS8Y4BXU7YVxuQc"
@@ -617,39 +805,7 @@
       "url": "https://open.spotify.com/track/46vfSYsDJZaNQcD4YvT8GD"
     },
     {
-      "added_at": "2022-07-01 12:04:53",
-      "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
-    },
-    {
-      "added_at": "2022-07-01 12:04:53",
-      "album": {
-        "name": "Maniac",
-        "url": "https://open.spotify.com/album/1CehVPXtCjLRn4F9hvCJSy"
-      },
-      "artists": [
-        {
-          "name": "Sound Of Legend",
-          "url": "https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn"
-        }
-      ],
-      "duration_ms": 131172,
-      "name": "Maniac",
-      "url": "https://open.spotify.com/track/6rg7j8ig8msX7THtUH7Kxa"
-    },
-    {
-      "added_at": "2022-07-01 12:04:53",
+      "added_at": "2022-07-02 12:11:21",
       "album": {
         "name": "Cullinan",
         "url": "https://open.spotify.com/album/1veIu7aYgSIg5PXEEUdh8U"
@@ -669,23 +825,39 @@
       "url": "https://open.spotify.com/track/2cHQh4eyfAasH8AzkiFtJO"
     },
     {
-      "added_at": "2022-07-01 12:04:53",
+      "added_at": "2022-07-02 12:11:21",
       "album": {
-        "name": "Glimpse of Us",
-        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
+        "name": "Club Azur",
+        "url": "https://open.spotify.com/album/1F27jLhFpbPMTB8DY15nTK"
       },
       "artists": [
         {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
         }
       ],
-      "duration_ms": 233456,
-      "name": "Glimpse of Us",
-      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
+      "duration_ms": 189880,
+      "name": "Clap Your Hands",
+      "url": "https://open.spotify.com/track/6jcfITWcR5egvbD4fsGayr"
     },
     {
-      "added_at": "2022-07-01 12:04:53",
+      "added_at": "2022-07-02 12:11:21",
+      "album": {
+        "name": "Maniac",
+        "url": "https://open.spotify.com/album/1CehVPXtCjLRn4F9hvCJSy"
+      },
+      "artists": [
+        {
+          "name": "Sound Of Legend",
+          "url": "https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn"
+        }
+      ],
+      "duration_ms": 131172,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/6rg7j8ig8msX7THtUH7Kxa"
+    },
+    {
+      "added_at": "2022-07-02 12:11:21",
       "album": {
         "name": "13 Organis\u00e9",
         "url": "https://open.spotify.com/album/0A7vrkKQeL5ZRVkwABuqcc"
@@ -733,200 +905,20 @@
       "url": "https://open.spotify.com/track/717QGTmZdkemDaCo1vQHG0"
     },
     {
-      "added_at": "2022-07-01 12:04:53",
+      "added_at": "2022-07-02 12:11:21",
       "album": {
-        "name": "MAUVAIS 2X (feat. Ninho)",
-        "url": "https://open.spotify.com/album/1VzvY3LElVy2aPEph6Tsch"
+        "name": "Auburn",
+        "url": "https://open.spotify.com/album/6obHyCNwx86U02MB3Mj6jA"
       },
       "artists": [
         {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+          "name": "Lomepal",
+          "url": "https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm"
         }
       ],
-      "duration_ms": 240373,
-      "name": "MAUVAIS 2X (feat. Ninho)",
-      "url": "https://open.spotify.com/track/6UlSVbJrj3wsyxjGM4KPAv"
-    },
-    {
-      "added_at": "2022-07-01 12:04:53",
-      "album": {
-        "name": "Civilisation",
-        "url": "https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur"
-      },
-      "artists": [
-        {
-          "name": "Orelsan",
-          "url": "https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "La Qu\u00eate",
-      "url": "https://open.spotify.com/track/0w6lsLBvhtGcqMYA7MB7r6"
-    },
-    {
-      "added_at": "2022-07-01 12:04:53",
-      "album": {
-        "name": "M\u00e9lo",
-        "url": "https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU"
-      },
-      "artists": [
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        }
-      ],
-      "duration_ms": 192920,
-      "name": "Mode AV (feat. Niska & Gazo)",
-      "url": "https://open.spotify.com/track/5b8HD1dJDuPawgS5FjSC2q"
-    },
-    {
-      "added_at": "2022-07-01 12:04:53",
-      "album": {
-        "name": "Extraterrestre",
-        "url": "https://open.spotify.com/album/4DqWj7iB2Xa2DQYiWcT7ks"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 209306,
-      "name": "\u00c7a tourne dans ma t\u00eate",
-      "url": "https://open.spotify.com/track/0MG9FlA1CLNbHQSnQQaMF2"
-    },
-    {
-      "added_at": "2022-07-01 12:04:53",
-      "album": {
-        "name": "Les autres c\u2019est nous",
-        "url": "https://open.spotify.com/album/07WjNDav7akW13k90qeqGw"
-      },
-      "artists": [
-        {
-          "name": "Bigflo & Oli",
-          "url": "https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs"
-        }
-      ],
-      "duration_ms": 232453,
-      "name": "J'\u00e9tais pas l\u00e0",
-      "url": "https://open.spotify.com/track/1hnnVFx5L09yBEmkKC8WYB"
-    },
-    {
-      "added_at": "2022-07-01 12:04:53",
-      "album": {
-        "name": "SZR 2001",
-        "url": "https://open.spotify.com/album/2kkaNm9FAqoUVhazyqobac"
-      },
-      "artists": [
-        {
-          "name": "S-Crew",
-          "url": "https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc"
-        }
-      ],
-      "duration_ms": 201373,
-      "name": "22",
-      "url": "https://open.spotify.com/track/0Q9yA6p8yufj42kYFZMdJa"
-    },
-    {
-      "added_at": "2022-07-01 12:04:53",
-      "album": {
-        "name": "Destin",
-        "url": "https://open.spotify.com/album/14p5CVdJCMRcgvICDAGS7k"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 193443,
-      "name": "La vie qu'on m\u00e8ne",
-      "url": "https://open.spotify.com/track/0Jh6iWjna1wk5le0Ahn7No"
-    },
-    {
-      "added_at": "2022-07-01 12:04:53",
-      "album": {
-        "name": "M\u00e9lo",
-        "url": "https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU"
-      },
-      "artists": [
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        },
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        }
-      ],
-      "duration_ms": 214613,
-      "name": "Atasant\u00e9 (feat. Hamza)",
-      "url": "https://open.spotify.com/track/1oXn8nhl44cH6HXqGQnOgY"
-    },
-    {
-      "added_at": "2022-07-01 12:04:53",
-      "album": {
-        "name": "Les mains faites pour l'or",
-        "url": "https://open.spotify.com/album/3mLAiqAlaOd5KaVOLJLtYM"
-      },
-      "artists": [
-        {
-          "name": "Naps",
-          "url": "https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx"
-        }
-      ],
-      "duration_ms": 179426,
-      "name": "La kiffance",
-      "url": "https://open.spotify.com/track/1bwhDrXcAtqePp8mNJ0pTe"
-    },
-    {
-      "added_at": "2022-07-01 12:04:53",
-      "album": {
-        "name": "SZR 2001",
-        "url": "https://open.spotify.com/album/0rk3WWubPvymeQeb3R8n7s"
-      },
-      "artists": [
-        {
-          "name": "S-Crew",
-          "url": "https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc"
-        },
-        {
-          "name": "Nekfeu",
-          "url": "https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH"
-        }
-      ],
-      "duration_ms": 169573,
-      "name": "Nek O",
-      "url": "https://open.spotify.com/track/5RzPihF6fwzwVDrYnG656m"
-    },
-    {
-      "added_at": "2022-07-01 12:04:53",
-      "album": {
-        "name": "Deux fr\u00e8res",
-        "url": "https://open.spotify.com/album/2JtKf1aFxqS0M3QIj98nG5"
-      },
-      "artists": [
-        {
-          "name": "PNL",
-          "url": "https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB"
-        }
-      ],
-      "duration_ms": 247459,
-      "name": "Deux fr\u00e8res",
-      "url": "https://open.spotify.com/track/6hzi3AGB39FjxFqcjgbWs7"
+      "duration_ms": 251893,
+      "name": "Auburn",
+      "url": "https://open.spotify.com/track/6PSlFyUoUfOE97eMpCQc6a"
     }
   ],
   "unique_name": "Top 50 - France",

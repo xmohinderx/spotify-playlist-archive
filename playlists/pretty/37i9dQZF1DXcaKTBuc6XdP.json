@@ -1,320 +1,28 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 1858,
+  "num_followers": 1866,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjcyNjcwNSwwMDAwMDAwMGM1YmNiNDVmYjg5YmFmZTY0YTU5MWU5YWQ5MGUxZWE4",
+  "snapshot_id": "MTY1NjgxMzI3MCwwMDAwMDAwMDk1ZTBhNjkwZWRjYzJmZTI2ZmRmMzM4YjgwMzM1OGY4",
   "tracks": [
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Sunday School Songs",
-        "url": "https://open.spotify.com/album/4YSuzBvt9mppuiha44U2dX"
+        "name": "Belong",
+        "url": "https://open.spotify.com/album/23UWXk1FORanft5u9boft9"
       },
       "artists": [
         {
-          "name": "Cedarmont Kids",
-          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
+          "name": "Rachael Nemiroff",
+          "url": "https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t"
         }
       ],
-      "duration_ms": 93786,
-      "name": "I've Got Peace Like A River",
-      "url": "https://open.spotify.com/track/2CuTb9Tks9eeAmjHGm5vAC"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "The Kingdom of Heaven Is Like This",
-        "url": "https://open.spotify.com/album/5W0j4DRH44VjXhUICznk5x"
-      },
-      "artists": [
-        {
-          "name": "Rain For Roots",
-          "url": "https://open.spotify.com/artist/0BMoQeAvgTIVa2il9WIGkA"
-        },
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
-        }
-      ],
-      "duration_ms": 182635,
-      "name": "Do Not Worry (feat. Ellie Holcomb)",
-      "url": "https://open.spotify.com/track/2zDzh7uEM8VJ4CIQMzKHXo"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "A Week Away (Music From The Netflix Film)",
-        "url": "https://open.spotify.com/album/0dD74nV0Y03hx2nXE6UInb"
-      },
-      "artists": [
-        {
-          "name": "Kevin Quinn",
-          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
-        },
-        {
-          "name": "Bailee Madison",
-          "url": "https://open.spotify.com/artist/1ADf0BZ77Jw7XYFB37hABE"
-        },
-        {
-          "name": "Jahbril Cook",
-          "url": "https://open.spotify.com/artist/4niQBqaDLz6CBtHdTlmcWT"
-        },
-        {
-          "name": "Kat Conner Sterling",
-          "url": "https://open.spotify.com/artist/0ix8tTQpoazYsJEkn0TazD"
-        },
-        {
-          "name": "Iain Tucker",
-          "url": "https://open.spotify.com/artist/11sxWrzQpcZs47pMYU4FVN"
-        },
-        {
-          "name": "The Cast Of Netflix's Film A Week Away",
-          "url": "https://open.spotify.com/artist/3Rn6h4Auck41QvOCm2jtQQ"
-        }
-      ],
-      "duration_ms": 139867,
-      "name": "Awesome God / God Only Knows - Campfire Medley",
-      "url": "https://open.spotify.com/track/4ythCnq2XWIHzLqC9GnUE3"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Unspoken",
-        "url": "https://open.spotify.com/album/3E8lDVGWQKO7BOxRmcsayi"
-      },
-      "artists": [
-        {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Start A Fire",
-      "url": "https://open.spotify.com/track/5y8qfDDccV2kEn4roGPter"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "The Worship Initiative, Vol. 2",
-        "url": "https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97"
-      },
-      "artists": [
-        {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
-        },
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 229487,
-      "name": "You Are My All In All",
-      "url": "https://open.spotify.com/track/5Qut1hSpuu7GtsInQunc7O"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Sing Like Never Before: The Essential Collection",
-        "url": "https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 348893,
-      "name": "Blessed Be Your Name",
-      "url": "https://open.spotify.com/track/14HrSWGYPCDwqAcVFUYKsq"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Kingdom Come",
-        "url": "https://open.spotify.com/album/6lfwLgVBxltkAIvkpK4axR"
-      },
-      "artists": [
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 288640,
-      "name": "When You Walk Into The Room",
-      "url": "https://open.spotify.com/track/22wEdAfAi35HqfNBCRzaz4"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Don't Censor Me",
-        "url": "https://open.spotify.com/album/19QwRyfvFmQiIudO3x5m1C"
-      },
-      "artists": [
-        {
-          "name": "Audio Adrenaline",
-          "url": "https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Big House",
-      "url": "https://open.spotify.com/track/6j2rwn2MWg4VU9B1GEgqfs"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "How Great Is Our God: The Essential Collection",
-        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 305426,
-      "name": "How Great Is Our God",
-      "url": "https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "How Could I Be Silent",
-        "url": "https://open.spotify.com/album/5WDL5SKUnD01m3oEHGSJ4A"
-      },
-      "artists": [
-        {
-          "name": "Caitie Hurst",
-          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
-        }
-      ],
-      "duration_ms": 212520,
-      "name": "Signs",
-      "url": "https://open.spotify.com/track/7Jsgkhp3pASBzaqb4vI9nW"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/5YEwF7ET8aobfKYu0AUwgA"
-      },
-      "artists": [
-        {
-          "name": "Darrell Evans",
-          "url": "https://open.spotify.com/artist/049i3NJRKyn0tQPNTwrKYO"
-        }
-      ],
-      "duration_ms": 361173,
-      "name": "Trading My Sorrows (Yes Lord)",
-      "url": "https://open.spotify.com/track/4lD8ygUjwpsMvnHgJaSJBC"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/5ONjVBfYyUJpmXnz5DoU0k"
-      },
-      "artists": [
-        {
-          "name": "Amber Sky Records",
-          "url": "https://open.spotify.com/artist/6cAxRZyhkM7NqvV2hSc7Wb"
-        },
-        {
-          "name": "Emily Hearn",
-          "url": "https://open.spotify.com/artist/4LuEEQLErHvNdZDxEWf6W1"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "My Strength (feat. Emily Hearn)",
-      "url": "https://open.spotify.com/track/02GQZBMcL90iqQA2CDtgHm"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "The Art Of Celebration",
-        "url": "https://open.spotify.com/album/5wqj3h35WV6FxeoFs6981b"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 224169,
-      "name": "My Lighthouse",
-      "url": "https://open.spotify.com/track/5AcdaSVQfLcUKMaqchfBie"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "You Tell Me",
-        "url": "https://open.spotify.com/album/4RXdxAM1qZd91aLI3o6H9q"
-      },
-      "artists": [
-        {
-          "name": "Youngheart",
-          "url": "https://open.spotify.com/artist/4Sws10KYj3cK2OCWweGv75"
-        }
-      ],
-      "duration_ms": 180600,
-      "name": "You Tell Me",
-      "url": "https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Timeless Treasures: Open the Eyes of My Heart Lord",
-        "url": "https://open.spotify.com/album/1oXWRQSCgYgIy41b5YVTQI"
-      },
-      "artists": [
-        {
-          "name": "Elevation",
-          "url": "https://open.spotify.com/artist/00g1hZIIn1xKwrbZd6nDUY"
-        }
-      ],
-      "duration_ms": 252725,
-      "name": "Open the Eyes of My Heart Lord",
-      "url": "https://open.spotify.com/track/0UlNsw2YfstrHGWYTOpE0w"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Sing Like Never Before: The Essential Collection",
-        "url": "https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 318120,
-      "name": "The Heart Of Worship",
-      "url": "https://open.spotify.com/track/5N23UhzMfAuCYjwhSbTQwH"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Great Big God",
-        "url": "https://open.spotify.com/album/0Y36IFn8h2NS5afQZXpnTT"
-      },
-      "artists": [
-        {
-          "name": "Vineyard Worship",
-          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
-        },
-        {
-          "name": "Vineyard Kids",
-          "url": "https://open.spotify.com/artist/2PwunoNd5k6WstyyC67xhH"
-        }
-      ],
-      "duration_ms": 171773,
-      "name": "Great Big God",
-      "url": "https://open.spotify.com/track/4vLiBeWve4L9llDzGdpWsM"
+      "duration_ms": 228679,
+      "name": "Belong",
+      "url": "https://open.spotify.com/track/2LCjZzth94744Ki2vR4scR"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -359,6 +67,78 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
+        "name": "Timeless Treasures: Open the Eyes of My Heart Lord",
+        "url": "https://open.spotify.com/album/1oXWRQSCgYgIy41b5YVTQI"
+      },
+      "artists": [
+        {
+          "name": "Elevation",
+          "url": "https://open.spotify.com/artist/00g1hZIIn1xKwrbZd6nDUY"
+        }
+      ],
+      "duration_ms": 252725,
+      "name": "Open the Eyes of My Heart Lord",
+      "url": "https://open.spotify.com/track/0UlNsw2YfstrHGWYTOpE0w"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "The Worship Initiative, Vol. 2",
+        "url": "https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 229487,
+      "name": "You Are My All In All",
+      "url": "https://open.spotify.com/track/5Qut1hSpuu7GtsInQunc7O"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Don't Censor Me",
+        "url": "https://open.spotify.com/album/19QwRyfvFmQiIudO3x5m1C"
+      },
+      "artists": [
+        {
+          "name": "Audio Adrenaline",
+          "url": "https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Big House",
+      "url": "https://open.spotify.com/track/6j2rwn2MWg4VU9B1GEgqfs"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "The Kingdom of Heaven Is Like This",
+        "url": "https://open.spotify.com/album/5W0j4DRH44VjXhUICznk5x"
+      },
+      "artists": [
+        {
+          "name": "Rain For Roots",
+          "url": "https://open.spotify.com/artist/0BMoQeAvgTIVa2il9WIGkA"
+        },
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "duration_ms": 182635,
+      "name": "Do Not Worry (feat. Ellie Holcomb)",
+      "url": "https://open.spotify.com/track/2zDzh7uEM8VJ4CIQMzKHXo"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
         "name": "All Of My Best Friends",
         "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
       },
@@ -371,70 +151,6 @@
       "duration_ms": 185573,
       "name": "Best Friends",
       "url": "https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Jesus Freak (Remastered)",
-        "url": "https://open.spotify.com/album/6KbHC5ADEGbnvl7Ge3GVQF"
-      },
-      "artists": [
-        {
-          "name": "DC Talk",
-          "url": "https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh"
-        }
-      ],
-      "duration_ms": 305480,
-      "name": "In The Light - Remastered 2013",
-      "url": "https://open.spotify.com/track/2IpbrxP9MqUCtcQQchAiTK"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Belong",
-        "url": "https://open.spotify.com/album/23UWXk1FORanft5u9boft9"
-      },
-      "artists": [
-        {
-          "name": "Rachael Nemiroff",
-          "url": "https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t"
-        }
-      ],
-      "duration_ms": 228679,
-      "name": "Belong",
-      "url": "https://open.spotify.com/track/2LCjZzth94744Ki2vR4scR"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Living in Freedom",
-        "url": "https://open.spotify.com/album/3JeN6zZsjrwk3s8gra1bOG"
-      },
-      "artists": [
-        {
-          "name": "Stephen Witt",
-          "url": "https://open.spotify.com/artist/3G14FwuoYRc81zwkSFQqkg"
-        }
-      ],
-      "duration_ms": 266253,
-      "name": "Living in Freedom",
-      "url": "https://open.spotify.com/track/0exZQ7G2AuvDaUnpNMpQDK"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Praise And Worship Top 40",
-        "url": "https://open.spotify.com/album/41yxtxd3tOJ7CXlUPGnfWg"
-      },
-      "artists": [
-        {
-          "name": "Maranatha! Praise Band",
-          "url": "https://open.spotify.com/artist/6CDJjCW8qVphiyxVukKdOa"
-        }
-      ],
-      "duration_ms": 239893,
-      "name": "Every Move I Make",
-      "url": "https://open.spotify.com/track/1HBWWoS8rdvZtPLdK4UY6g"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -455,34 +171,18 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Oceans",
-        "url": "https://open.spotify.com/album/3WvpV7qKTFAWnQDUwfIi0v"
+        "name": "Unspoken",
+        "url": "https://open.spotify.com/album/3E8lDVGWQKO7BOxRmcsayi"
       },
       "artists": [
         {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
         }
       ],
-      "duration_ms": 249640,
-      "name": "Oceans (Where Feet May Fail) - Radio Version",
-      "url": "https://open.spotify.com/track/3CJZVGg64NKFXU4wYbKzXs"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "8 Great Hits dc Talk",
-        "url": "https://open.spotify.com/album/4ml5pL07kDVb9AxJutpI9U"
-      },
-      "artists": [
-        {
-          "name": "DC Talk",
-          "url": "https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh"
-        }
-      ],
-      "duration_ms": 287173,
-      "name": "Jesus Freak",
-      "url": "https://open.spotify.com/track/5ID6qIRs04r4fMajBDY7uK"
+      "duration_ms": 184733,
+      "name": "Start A Fire",
+      "url": "https://open.spotify.com/track/5y8qfDDccV2kEn4roGPter"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -523,50 +223,182 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Louder",
-        "url": "https://open.spotify.com/album/30iuX3rXL5jwbgUJnFUaTf"
+        "name": "All The People Said Amen",
+        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
       },
       "artists": [
         {
-          "name": "7 Hills Worship",
-          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Louder",
-      "url": "https://open.spotify.com/track/64ev1jINEWjZPxq61hhiVb"
+      "duration_ms": 205666,
+      "name": "Lord, I Need You",
+      "url": "https://open.spotify.com/track/4EHWldZTas5KUyFtT0rQlY"
     },
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "New Sound",
-        "url": "https://open.spotify.com/album/1PX43Nn8AuApS7ggfUOAQf"
+        "name": "The Art Of Celebration",
+        "url": "https://open.spotify.com/album/5wqj3h35WV6FxeoFs6981b"
       },
       "artists": [
         {
-          "name": "Copper Pointe Worship",
-          "url": "https://open.spotify.com/artist/2uLK8YHG3eIG54kvlX2WxV"
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
         }
       ],
-      "duration_ms": 188520,
-      "name": "Lift You Higher",
-      "url": "https://open.spotify.com/track/1D1pCyVeec4FdazVM7l714"
+      "duration_ms": 224169,
+      "name": "My Lighthouse",
+      "url": "https://open.spotify.com/track/5AcdaSVQfLcUKMaqchfBie"
     },
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "I Am Alive",
-        "url": "https://open.spotify.com/album/5KLDaX1xJuK2N3vOGsCyAR"
+        "name": "Sing Like Never Before: The Essential Collection",
+        "url": "https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm"
       },
       "artists": [
         {
-          "name": "SL Worship",
-          "url": "https://open.spotify.com/artist/3ZArpBXyBswucER1dfHDKP"
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
         }
       ],
-      "duration_ms": 228506,
-      "name": "I Am Alive",
-      "url": "https://open.spotify.com/track/4GX54jEsDkgxleYUCRfggA"
+      "duration_ms": 348893,
+      "name": "Blessed Be Your Name",
+      "url": "https://open.spotify.com/track/14HrSWGYPCDwqAcVFUYKsq"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "How Could I Be Silent",
+        "url": "https://open.spotify.com/album/5WDL5SKUnD01m3oEHGSJ4A"
+      },
+      "artists": [
+        {
+          "name": "Caitie Hurst",
+          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
+        }
+      ],
+      "duration_ms": 212520,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/7Jsgkhp3pASBzaqb4vI9nW"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/5YEwF7ET8aobfKYu0AUwgA"
+      },
+      "artists": [
+        {
+          "name": "Darrell Evans",
+          "url": "https://open.spotify.com/artist/049i3NJRKyn0tQPNTwrKYO"
+        }
+      ],
+      "duration_ms": 361173,
+      "name": "Trading My Sorrows (Yes Lord)",
+      "url": "https://open.spotify.com/track/4lD8ygUjwpsMvnHgJaSJBC"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Living in Freedom",
+        "url": "https://open.spotify.com/album/3JeN6zZsjrwk3s8gra1bOG"
+      },
+      "artists": [
+        {
+          "name": "Stephen Witt",
+          "url": "https://open.spotify.com/artist/3G14FwuoYRc81zwkSFQqkg"
+        }
+      ],
+      "duration_ms": 266253,
+      "name": "Living in Freedom",
+      "url": "https://open.spotify.com/track/0exZQ7G2AuvDaUnpNMpQDK"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Action Bible Songs",
+        "url": "https://open.spotify.com/album/6Xg4hDKUL9qvivx83Fhgsv"
+      },
+      "artists": [
+        {
+          "name": "Cedarmont Kids",
+          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
+        }
+      ],
+      "duration_ms": 127800,
+      "name": "Rise And Shine (Arky, Arky)",
+      "url": "https://open.spotify.com/track/2DjWrLnmKSWl6ri5EtzVNv"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "A Week Away (Music From The Netflix Film)",
+        "url": "https://open.spotify.com/album/0dD74nV0Y03hx2nXE6UInb"
+      },
+      "artists": [
+        {
+          "name": "Kevin Quinn",
+          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
+        },
+        {
+          "name": "Bailee Madison",
+          "url": "https://open.spotify.com/artist/1ADf0BZ77Jw7XYFB37hABE"
+        },
+        {
+          "name": "Jahbril Cook",
+          "url": "https://open.spotify.com/artist/4niQBqaDLz6CBtHdTlmcWT"
+        },
+        {
+          "name": "Kat Conner Sterling",
+          "url": "https://open.spotify.com/artist/0ix8tTQpoazYsJEkn0TazD"
+        },
+        {
+          "name": "Iain Tucker",
+          "url": "https://open.spotify.com/artist/11sxWrzQpcZs47pMYU4FVN"
+        },
+        {
+          "name": "The Cast Of Netflix's Film A Week Away",
+          "url": "https://open.spotify.com/artist/3Rn6h4Auck41QvOCm2jtQQ"
+        }
+      ],
+      "duration_ms": 139867,
+      "name": "Awesome God / God Only Knows - Campfire Medley",
+      "url": "https://open.spotify.com/track/4ythCnq2XWIHzLqC9GnUE3"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Jesus Freak (Remastered)",
+        "url": "https://open.spotify.com/album/6KbHC5ADEGbnvl7Ge3GVQF"
+      },
+      "artists": [
+        {
+          "name": "DC Talk",
+          "url": "https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh"
+        }
+      ],
+      "duration_ms": 305480,
+      "name": "In The Light - Remastered 2013",
+      "url": "https://open.spotify.com/track/2IpbrxP9MqUCtcQQchAiTK"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Worship",
+        "url": "https://open.spotify.com/album/4uWr8fOgmNBCP5awR10dbs"
+      },
+      "artists": [
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        }
+      ],
+      "duration_ms": 276773,
+      "name": "Above All",
+      "url": "https://open.spotify.com/track/3JSxKlxWTriK218L3yqoLN"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -587,6 +419,54 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
+        "name": "More Than Good Enough",
+        "url": "https://open.spotify.com/album/46FVrs8EC3twbTNHVWCLVt"
+      },
+      "artists": [
+        {
+          "name": "Joel Vaughn",
+          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
+        }
+      ],
+      "duration_ms": 223688,
+      "name": "More Than Good Enough",
+      "url": "https://open.spotify.com/track/4nZN50JWs7JTQxbW3PXNKV"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "How Great Is Our God: The Essential Collection",
+        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 305426,
+      "name": "How Great Is Our God",
+      "url": "https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Oceans",
+        "url": "https://open.spotify.com/album/3WvpV7qKTFAWnQDUwfIi0v"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        }
+      ],
+      "duration_ms": 249640,
+      "name": "Oceans (Where Feet May Fail) - Radio Version",
+      "url": "https://open.spotify.com/track/3CJZVGg64NKFXU4wYbKzXs"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
         "name": "SonicPraise",
         "url": "https://open.spotify.com/album/2v1fOkMUrvzIeGPqAtAxN0"
       },
@@ -603,18 +483,106 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "In Christ Alone",
-        "url": "https://open.spotify.com/album/0v4hMZok1tOdMGPRlcKXOC"
+        "name": "Great Big God",
+        "url": "https://open.spotify.com/album/0Y36IFn8h2NS5afQZXpnTT"
       },
       "artists": [
         {
-          "name": "Tim Hughes",
-          "url": "https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh"
+          "name": "Vineyard Worship",
+          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
+        },
+        {
+          "name": "Vineyard Kids",
+          "url": "https://open.spotify.com/artist/2PwunoNd5k6WstyyC67xhH"
         }
       ],
-      "duration_ms": 316866,
-      "name": "Here I Am To Worship - Mission Worship - In Christ Alone Album Version",
-      "url": "https://open.spotify.com/track/6CWg6OxlJE72TOLNja5vqh"
+      "duration_ms": 171773,
+      "name": "Great Big God",
+      "url": "https://open.spotify.com/track/4vLiBeWve4L9llDzGdpWsM"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Hymns",
+        "url": "https://open.spotify.com/album/6IsMuKCzRSdfK9uRNq5Bfd"
+      },
+      "artists": [
+        {
+          "name": "Cedarmont Kids",
+          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
+        }
+      ],
+      "duration_ms": 126333,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/07Hbd32Jgwe7yT8QHus4aJ"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "We Belong To Jesus (feat. New Life Kids)",
+        "url": "https://open.spotify.com/album/6ozGlAuSM6L95qyDfhRfsm"
+      },
+      "artists": [
+        {
+          "name": "Shout Praises Kids",
+          "url": "https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE"
+        },
+        {
+          "name": "New Life Kids",
+          "url": "https://open.spotify.com/artist/7gEZRb7O8vKSmKFCNjypG2"
+        }
+      ],
+      "duration_ms": 186280,
+      "name": "Never Be Shaken",
+      "url": "https://open.spotify.com/track/4siHGq67CuIl7m8L5qC3a5"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "8 Great Hits dc Talk",
+        "url": "https://open.spotify.com/album/4ml5pL07kDVb9AxJutpI9U"
+      },
+      "artists": [
+        {
+          "name": "DC Talk",
+          "url": "https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh"
+        }
+      ],
+      "duration_ms": 287173,
+      "name": "Jesus Freak",
+      "url": "https://open.spotify.com/track/5ID6qIRs04r4fMajBDY7uK"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "The Beautiful Letdown (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2mIYia4lSO1NCSFGGGGNR9"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        }
+      ],
+      "duration_ms": 201373,
+      "name": "Meant to Live",
+      "url": "https://open.spotify.com/track/2md2i5QvelRFnafpnd6LOg"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Top 25 Praise Songs: 2005",
+        "url": "https://open.spotify.com/album/3qlXW3egxplVOjgLmzVqqS"
+      },
+      "artists": [
+        {
+          "name": "Maranatha! Praise Band",
+          "url": "https://open.spotify.com/artist/6CDJjCW8qVphiyxVukKdOa"
+        }
+      ],
+      "duration_ms": 147400,
+      "name": "Shine, Jesus Shine",
+      "url": "https://open.spotify.com/track/3dbMLnjppsv9pVW7eq9sAK"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -639,78 +607,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Hymns",
-        "url": "https://open.spotify.com/album/6IsMuKCzRSdfK9uRNq5Bfd"
-      },
-      "artists": [
-        {
-          "name": "Cedarmont Kids",
-          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
-        }
-      ],
-      "duration_ms": 126333,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/07Hbd32Jgwe7yT8QHus4aJ"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "All The People Said Amen",
-        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 205666,
-      "name": "Lord, I Need You",
-      "url": "https://open.spotify.com/track/4EHWldZTas5KUyFtT0rQlY"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "More Than Good Enough",
-        "url": "https://open.spotify.com/album/46FVrs8EC3twbTNHVWCLVt"
-      },
-      "artists": [
-        {
-          "name": "Joel Vaughn",
-          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
-        }
-      ],
-      "duration_ms": 223688,
-      "name": "More Than Good Enough",
-      "url": "https://open.spotify.com/track/4nZN50JWs7JTQxbW3PXNKV"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Season One",
-        "url": "https://open.spotify.com/album/0SKZC7cvktjidQLucmftED"
-      },
-      "artists": [
-        {
-          "name": "All Sons & Daughters",
-          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
-        },
-        {
-          "name": "Leslie Jordan",
-          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
-        },
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
-        }
-      ],
-      "duration_ms": 352026,
-      "name": "Brokenness Aside",
-      "url": "https://open.spotify.com/track/6x02A6nSxBWlITXk3vNQmw"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Kingdom Come",
         "url": "https://open.spotify.com/album/1wnfwokJAwNET0FZ4X2KCH"
       },
@@ -727,18 +623,146 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Worship",
-        "url": "https://open.spotify.com/album/4uWr8fOgmNBCP5awR10dbs"
+        "name": "Sunday School Songs",
+        "url": "https://open.spotify.com/album/4YSuzBvt9mppuiha44U2dX"
       },
       "artists": [
         {
-          "name": "Michael W. Smith",
-          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+          "name": "Cedarmont Kids",
+          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
         }
       ],
-      "duration_ms": 276773,
-      "name": "Above All",
-      "url": "https://open.spotify.com/track/3JSxKlxWTriK218L3yqoLN"
+      "duration_ms": 93786,
+      "name": "I've Got Peace Like A River",
+      "url": "https://open.spotify.com/track/2CuTb9Tks9eeAmjHGm5vAC"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Sing Like Never Before: The Essential Collection",
+        "url": "https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 318120,
+      "name": "The Heart Of Worship",
+      "url": "https://open.spotify.com/track/5N23UhzMfAuCYjwhSbTQwH"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Sing 'Em Again: Favorite Vacation Bible School Songs for Families, Vol. 7",
+        "url": "https://open.spotify.com/album/2VdzXsV1FBxZT7ytoFLZHV"
+      },
+      "artists": [
+        {
+          "name": "GroupMusic",
+          "url": "https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF"
+        }
+      ],
+      "duration_ms": 178155,
+      "name": "The Golden Rule",
+      "url": "https://open.spotify.com/track/4W7djqunY8rq7pphJAdqrb"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "New Sound",
+        "url": "https://open.spotify.com/album/1PX43Nn8AuApS7ggfUOAQf"
+      },
+      "artists": [
+        {
+          "name": "Copper Pointe Worship",
+          "url": "https://open.spotify.com/artist/2uLK8YHG3eIG54kvlX2WxV"
+        }
+      ],
+      "duration_ms": 188520,
+      "name": "Lift You Higher",
+      "url": "https://open.spotify.com/track/1D1pCyVeec4FdazVM7l714"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Louder",
+        "url": "https://open.spotify.com/album/30iuX3rXL5jwbgUJnFUaTf"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Louder",
+      "url": "https://open.spotify.com/track/64ev1jINEWjZPxq61hhiVb"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Praise And Worship Top 40",
+        "url": "https://open.spotify.com/album/41yxtxd3tOJ7CXlUPGnfWg"
+      },
+      "artists": [
+        {
+          "name": "Maranatha! Praise Band",
+          "url": "https://open.spotify.com/artist/6CDJjCW8qVphiyxVukKdOa"
+        }
+      ],
+      "duration_ms": 239893,
+      "name": "Every Move I Make",
+      "url": "https://open.spotify.com/track/1HBWWoS8rdvZtPLdK4UY6g"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "I Am Alive",
+        "url": "https://open.spotify.com/album/5KLDaX1xJuK2N3vOGsCyAR"
+      },
+      "artists": [
+        {
+          "name": "SL Worship",
+          "url": "https://open.spotify.com/artist/3ZArpBXyBswucER1dfHDKP"
+        }
+      ],
+      "duration_ms": 228506,
+      "name": "I Am Alive",
+      "url": "https://open.spotify.com/track/4GX54jEsDkgxleYUCRfggA"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "You Tell Me",
+        "url": "https://open.spotify.com/album/4RXdxAM1qZd91aLI3o6H9q"
+      },
+      "artists": [
+        {
+          "name": "Youngheart",
+          "url": "https://open.spotify.com/artist/4Sws10KYj3cK2OCWweGv75"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "You Tell Me",
+      "url": "https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Kingdom Come",
+        "url": "https://open.spotify.com/album/6lfwLgVBxltkAIvkpK4axR"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 288640,
+      "name": "When You Walk Into The Room",
+      "url": "https://open.spotify.com/track/22wEdAfAi35HqfNBCRzaz4"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -759,66 +783,18 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Top 25 Praise Songs: 2005",
-        "url": "https://open.spotify.com/album/3qlXW3egxplVOjgLmzVqqS"
+        "name": "In Christ Alone",
+        "url": "https://open.spotify.com/album/0v4hMZok1tOdMGPRlcKXOC"
       },
       "artists": [
         {
-          "name": "Maranatha! Praise Band",
-          "url": "https://open.spotify.com/artist/6CDJjCW8qVphiyxVukKdOa"
+          "name": "Tim Hughes",
+          "url": "https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh"
         }
       ],
-      "duration_ms": 147400,
-      "name": "Shine, Jesus Shine",
-      "url": "https://open.spotify.com/track/3dbMLnjppsv9pVW7eq9sAK"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "The Beautiful Letdown (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2mIYia4lSO1NCSFGGGGNR9"
-      },
-      "artists": [
-        {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        }
-      ],
-      "duration_ms": 201373,
-      "name": "Meant to Live",
-      "url": "https://open.spotify.com/track/2md2i5QvelRFnafpnd6LOg"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Action Bible Songs",
-        "url": "https://open.spotify.com/album/6Xg4hDKUL9qvivx83Fhgsv"
-      },
-      "artists": [
-        {
-          "name": "Cedarmont Kids",
-          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
-        }
-      ],
-      "duration_ms": 127800,
-      "name": "Rise And Shine (Arky, Arky)",
-      "url": "https://open.spotify.com/track/2DjWrLnmKSWl6ri5EtzVNv"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Sing 'Em Again: Favorite Vacation Bible School Songs for Families, Vol. 7",
-        "url": "https://open.spotify.com/album/2VdzXsV1FBxZT7ytoFLZHV"
-      },
-      "artists": [
-        {
-          "name": "GroupMusic",
-          "url": "https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF"
-        }
-      ],
-      "duration_ms": 178155,
-      "name": "The Golden Rule",
-      "url": "https://open.spotify.com/track/4W7djqunY8rq7pphJAdqrb"
+      "duration_ms": 316866,
+      "name": "Here I Am To Worship - Mission Worship - In Christ Alone Album Version",
+      "url": "https://open.spotify.com/track/6CWg6OxlJE72TOLNja5vqh"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -879,22 +855,46 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "We Belong To Jesus (feat. New Life Kids)",
-        "url": "https://open.spotify.com/album/6ozGlAuSM6L95qyDfhRfsm"
+        "name": "Season One",
+        "url": "https://open.spotify.com/album/0SKZC7cvktjidQLucmftED"
       },
       "artists": [
         {
-          "name": "Shout Praises Kids",
-          "url": "https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE"
+          "name": "All Sons & Daughters",
+          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
         },
         {
-          "name": "New Life Kids",
-          "url": "https://open.spotify.com/artist/7gEZRb7O8vKSmKFCNjypG2"
+          "name": "Leslie Jordan",
+          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
+        },
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
         }
       ],
-      "duration_ms": 186280,
-      "name": "Never Be Shaken",
-      "url": "https://open.spotify.com/track/4siHGq67CuIl7m8L5qC3a5"
+      "duration_ms": 352026,
+      "name": "Brokenness Aside",
+      "url": "https://open.spotify.com/track/6x02A6nSxBWlITXk3vNQmw"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/5ONjVBfYyUJpmXnz5DoU0k"
+      },
+      "artists": [
+        {
+          "name": "Amber Sky Records",
+          "url": "https://open.spotify.com/artist/6cAxRZyhkM7NqvV2hSc7Wb"
+        },
+        {
+          "name": "Emily Hearn",
+          "url": "https://open.spotify.com/artist/4LuEEQLErHvNdZDxEWf6W1"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "My Strength (feat. Emily Hearn)",
+      "url": "https://open.spotify.com/track/02GQZBMcL90iqQA2CDtgHm"
     },
     {
       "added_at": "2021-06-29 13:36:02",

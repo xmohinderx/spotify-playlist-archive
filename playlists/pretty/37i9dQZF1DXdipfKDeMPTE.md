@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 
 > Moody beats for sleepless nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,263 likes - 220 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,281 likes - 220 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -213,7 +213,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 203 | [Villi’s Dream](https://open.spotify.com/track/3L3Bqylf4R6dz8gEWgk7Gn) | [Odinson](https://open.spotify.com/artist/2NsbX1kNxxmyCPYNUwylr5) | [Fantasque](https://open.spotify.com/album/73b18tIjK8WMaDXkFc2rZ6) | 2:33 |
 | 204 | [life is a balloon](https://open.spotify.com/track/2GoAhMIvnZ1n7ZEqj7jrAa) | [frek!](https://open.spotify.com/artist/00vQreQBu9wC4dQCmHWJin) | [comic sans](https://open.spotify.com/album/5pG11FB3kK2GNbFpW4w6Vu) | 1:44 |
 | 205 | [majesty](https://open.spotify.com/track/7zmlnEYfe8WoO17JSrp0Vi) | [ding m](https://open.spotify.com/artist/3YpyfRGmyOjU5Sdx6xMwBn) | [majesty](https://open.spotify.com/album/1ZeWCYweISZtipIM5u9ICL) | 2:46 |
-| 206 | [Black Sands White Coffee](https://open.spotify.com/track/2ZpxtRMNvBkgQVZiCGIIub) | [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Gino's Cappuccino](https://open.spotify.com/album/3etXsPOM7IutaC6rUKUxAe) | 0:29 |
+| 206 | [Black Sands White Coffee](https://open.spotify.com/track/2ZpxtRMNvBkgQVZiCGIIub) | [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Gino's Cappuccino](https://open.spotify.com/album/3etXsPOM7IutaC6rUKUxAe) | 4:05 |
 | 207 | [Lonely But I Like It](https://open.spotify.com/track/1T1VEnOmFJg6blKc3NphLh) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [Lonely But I Like It](https://open.spotify.com/album/47sPJLTejvcVqheE9fuRpI) | 4:55 |
 | 208 | [Pour the Blue](https://open.spotify.com/track/6b7oKYz6sfV90rMTG4Bkvu) | [Jackson Hacking](https://open.spotify.com/artist/220Ej7lTYoyJxdsbGwahB6) | [Pour The Blue](https://open.spotify.com/album/1TzJxGqIZ81oRWXdiEkisM) | 2:05 |
 | 209 | [clever ground](https://open.spotify.com/track/4s6r8g1LcwUOco4eNsQMWQ) | [bonecatcher](https://open.spotify.com/artist/4w8UEShgdyDVYlKAAFfNNW) | [clever ground](https://open.spotify.com/album/7cP1C9c0nqyySrFWtFURYW) | 1:49 |

@@ -4,7 +4,7 @@
 
 > Chill, tropical vibes only.
 
-295 songs - 11 hr 13 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
+295 songs - 11 hr 17 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Lucy Dreamer](https://open.spotify.com/track/0JczY880Kt9FviLxsimJd6) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Luscious](https://open.spotify.com/album/1d5DMrZe0OUFwXOnpnZUQF) | 1:32 | 2022-05-20 |  |
 | [Lucy Goosey](https://open.spotify.com/track/5Qnot7dFk2OguRXGOzG3rN) | [Lofi Lucy](https://open.spotify.com/artist/2oIGzku5w8Rj3SOFLhShBO) | [Pink Lemonade](https://open.spotify.com/album/2Hl7QyBwj65cFqpWBhgcSm) | 1:30 | 2022-05-20 |  |
 | [Lush 002](https://open.spotify.com/track/1xdSbbuFi2g5bpe01pBgQc) | [Ray Ford](https://open.spotify.com/artist/4pl1vdN8xHWjo9PhTUeKFy) | [Lush 002](https://open.spotify.com/album/07sedSgl049zrehDvzA2Si) | 2:54 | 2022-05-20 |  |
-| [lustig](https://open.spotify.com/track/4PqKF4AvWgQLDh7hUYdYtc) | [Izidore x](https://open.spotify.com/artist/2z2cKX1dfFL2jBrOXRjVKd) | [lustig](https://open.spotify.com/album/0mlMroJGJndveu0n7an5ak) | 0:29 | 2022-05-20 |  |
+| [lustig](https://open.spotify.com/track/4PqKF4AvWgQLDh7hUYdYtc) | [Izidore x](https://open.spotify.com/artist/2z2cKX1dfFL2jBrOXRjVKd) | [lustig](https://open.spotify.com/album/0mlMroJGJndveu0n7an5ak) | 2:09 | 2022-05-20 |  |
 | [Magic moment](https://open.spotify.com/track/6AisWOrqsQFJF5XQuoZQCX) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Magic moment](https://open.spotify.com/album/27nfe3wU9Zvf9kj4PErVYt) | 2:00 | 2022-06-17 | 2022-07-01 |
 | [Matalí](https://open.spotify.com/track/26trHnnPcMZIFpG9BJdsbw) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP) | [Matalí](https://open.spotify.com/album/3yAqPvzt8wYKMCCS2qvmic) | 2:26 | 2022-05-20 |  |
 | [Mauá](https://open.spotify.com/track/5eChYT1I1EWaRO4jkd2Qho) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs), [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Mauá](https://open.spotify.com/album/0oXuC5MMnTCZXPu9esn2OD) | 2:15 | 2022-05-20 |  |
@@ -259,7 +259,7 @@
 | [Tangerine Tanlines](https://open.spotify.com/track/2A56QOJvOGbcrj1HVmTtan) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [Tangerine Tanlines](https://open.spotify.com/album/3drfIDIHXitp4lycIMqgkU) | 2:22 | 2022-05-20 |  |
 | [The Ascent to Illumination](https://open.spotify.com/track/0gRCCG1maFjDzFemuHBz5n) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [In Beats We Trust](https://open.spotify.com/album/2oliJSznyECCuR6cegYeyA) | 1:42 | 2022-05-20 |  |
 | [The Bottom Line](https://open.spotify.com/track/5VktpwGshteKpO45NtZMAo) | [Talented Mr Tipsy](https://open.spotify.com/artist/3N4pp4r5dcwKJYzo01Izbc) | [The Bottom Line](https://open.spotify.com/album/0wCkjHSF4CymAYxiiZsC9m) | 2:15 | 2022-05-20 |  |
-| [The Chillest](https://open.spotify.com/track/6uA5tWVvj13MGLNxhHGxhr) | [Chilou](https://open.spotify.com/artist/2wTi41vTfbFFHdAAezSSF8) | [The Chillest](https://open.spotify.com/album/0CrclNcvwEUbTl9zSFjkzW) | 0:29 | 2022-05-20 |  |
+| [The Chillest](https://open.spotify.com/track/6uA5tWVvj13MGLNxhHGxhr) | [Chilou](https://open.spotify.com/artist/2wTi41vTfbFFHdAAezSSF8) | [The Chillest](https://open.spotify.com/album/0CrclNcvwEUbTl9zSFjkzW) | 2:31 | 2022-05-20 |  |
 | [The Little Things](https://open.spotify.com/track/7AoMssgMP6vK7QPrKg4wkf) | [Headie Nines](https://open.spotify.com/artist/2gGo4Y4A7rKSSIRAfXxYyu) | [The Little Things](https://open.spotify.com/album/3DvppFZflvsgmMH6RzkChO) | 2:29 | 2022-05-20 |  |
 | [The New Day](https://open.spotify.com/track/1y2zDUWWkG4P97pDjWGrDi) | [Jolly Jordan](https://open.spotify.com/artist/4lpUkhOmmsVncY2vxf2UuZ) | [The New Day](https://open.spotify.com/album/2d6zNXCP512uLmfEsI10xA) | 2:44 | 2022-05-20 |  |
 | [The Package Deal](https://open.spotify.com/track/4pNLT2LaDsj5jnW4DuPHlf) | [Lightover](https://open.spotify.com/artist/3YArYgoxRyJPcpSLjKJeX3) | [Humidity](https://open.spotify.com/album/1VYKpdugWpXoVVMoGRMW83) | 2:42 | 2022-05-20 |  |

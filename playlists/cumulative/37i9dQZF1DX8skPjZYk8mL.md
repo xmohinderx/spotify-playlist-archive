@@ -4,7 +4,7 @@
 
 > Soft instrumental lullabies for the little ones.
 
-446 songs - 13 hr 1 min - [published](https://open.spotify.com/playlist/4brsiVrRqupTtRCpganxxP)
+446 songs - 13 hr 3 min - [published](https://open.spotify.com/playlist/4brsiVrRqupTtRCpganxxP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,7 +344,7 @@
 | [Sleepy Ballad](https://open.spotify.com/track/3lTPY5wxck9tBvuROCct7c) | [Maynerd Lindsey](https://open.spotify.com/artist/3lLK73yQJcNWwW3dGbC2v3) | [Sleepy Ballad](https://open.spotify.com/album/1MgCzFQ6F6qNjlBzG1zzCO) | 1:08 | 2022-06-07 |  |
 | [Sleepy cows](https://open.spotify.com/track/1Ayg2LFVOzrsG1BskhRfty) | [Carlisle Eliott](https://open.spotify.com/artist/4LJ3GJslG2uuKOSgg922ab) | [Sleepy cows](https://open.spotify.com/album/4gsP9iIu8sHERU5GRq75aJ) | 1:23 | 2021-11-08 |  |
 | [Sleepy Eyes](https://open.spotify.com/track/2WPQXLUNLV0MpnLsXq216q) | [Elvira Sola](https://open.spotify.com/artist/3jFQv36BpFuX9vTVB8q7fI) | [Sleepy Eyes](https://open.spotify.com/album/4ORkajLhJ0JkLFom7hSBkf) | 2:21 | 2022-01-21 |  |
-| [Sleepy Eyes](https://open.spotify.com/track/0lypTQtxMiZL8HdvOLpkZl) | [Sally Mosley](https://open.spotify.com/artist/295JYYcySsKgR1bbi5QQGC) | [Sleepy Eyes](https://open.spotify.com/album/5kKBEyXJ7wX8lzUZpZv35O) | 0:29 | 2022-04-22 |  |
+| [Sleepy Eyes](https://open.spotify.com/track/0lypTQtxMiZL8HdvOLpkZl) | [Sally Mosley](https://open.spotify.com/artist/295JYYcySsKgR1bbi5QQGC) | [Sleepy Eyes](https://open.spotify.com/album/5kKBEyXJ7wX8lzUZpZv35O) | 1:55 | 2022-04-22 |  |
 | [Sleepy Land](https://open.spotify.com/track/5uLDHN6Lbh7fDbFDxDyCSv) | [Elias Ståhle](https://open.spotify.com/artist/5w0kV4jCLLthNvZqe78yCV) | [Sleepy Land](https://open.spotify.com/album/3aEQQidga93YN6RBxHmt1W) | 1:56 | 2022-04-22 |  |
 | [Snug as a bug in a rug](https://open.spotify.com/track/327FOgqQklPgWon7iAFLKL) | [Kaylea Roberts](https://open.spotify.com/artist/0CMgXqgPnzh09v9OG7VXLN) | [Snug as a bug in a rug](https://open.spotify.com/album/2VRg6S2Byb5bxx5Gy0opl1) | 1:33 | 2021-11-08 |  |
 | [Snuggle Tight](https://open.spotify.com/track/0HsSm3PpAGKuCMM86XK2Ft) | [Quinn Palmer](https://open.spotify.com/artist/6sCg5kvvJZOVhzRawPZpmF) | [Snuggle Tight](https://open.spotify.com/album/2qulT9EMnJ35sBOWKtWCuG) | 1:34 | 2022-04-22 |  |

@@ -4,7 +4,7 @@
 
 > 
 
-662 songs - 1 day 14 hr 41 min - [published](https://open.spotify.com/playlist/2UMGRcA8g2GR51ovhUeUhT)
+662 songs - 1 day 14 hr 45 min - [published](https://open.spotify.com/playlist/2UMGRcA8g2GR51ovhUeUhT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -463,7 +463,7 @@
 | [Puti Short](https://open.spotify.com/track/1KTnaTJgCt0F3WwMNjL5T6) | [De La Calle](https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3), [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW) | [Puti Short](https://open.spotify.com/album/1FkIr1AVDA9hVEjDyCxNPu) | 2:58 | 2017-09-27 |  |
 | [Quavo \#Mododiablo](https://open.spotify.com/track/7HLHYxRkEAWr90BGYxk15F) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [Quavo \#Mododiablo](https://open.spotify.com/album/4IvIOxQThSKTJIpol22e0p) | 3:57 | 2018-09-08 |  |
 | [Que Le De](https://open.spotify.com/track/08aYFNUTIOMGq93e2VSArQ) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Que Le De](https://open.spotify.com/album/5NC9EpoBx72YRbGhlHWMPa) | 3:45 | 2019-05-14 |  |
-| [Que Mas Pues \- Remix](https://open.spotify.com/track/1k1CJlU1eAEpAbNK0TVeKD) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Que Mas Pues \(Remix\)](https://open.spotify.com/album/5bad2QvDKLifbAK9O75U8Y) | 0:29 | 2019-05-14 |  |
+| [Que Mas Pues \- Remix](https://open.spotify.com/track/1k1CJlU1eAEpAbNK0TVeKD) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Que Mas Pues \(Remix\)](https://open.spotify.com/album/5bad2QvDKLifbAK9O75U8Y) | 5:05 | 2019-05-14 |  |
 | [Que Más Da](https://open.spotify.com/track/5ynW8BAyud480f3aaamePh) | [Sam J](https://open.spotify.com/artist/4v2oVa2u78nWdgTLG2BbLE), [Malave](https://open.spotify.com/artist/0i3zXKKwGsdAZPMv59OXFk) | [Que Más Da](https://open.spotify.com/album/43GyPCDV9p3Jf87IdmjZvq) | 2:45 | 2022-06-06 |  |
 | [Que Raro](https://open.spotify.com/track/3kg9JvQe6QJFKUQCN1oIQz) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Que Raro](https://open.spotify.com/album/5SbxItfw88TI8QgKy4hHEJ) | 3:49 | 2017-09-09 |  |
 | [Que Va](https://open.spotify.com/track/7ofxPmTNMj2GP07g1VZa0O) | [Alex Sensation](https://open.spotify.com/artist/0OROVBEZCocg0FcgJpyBse), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Que Va](https://open.spotify.com/album/4Gg6AePYbLIIjkYbK3reJU) | 3:58 | 2018-05-27 |  |

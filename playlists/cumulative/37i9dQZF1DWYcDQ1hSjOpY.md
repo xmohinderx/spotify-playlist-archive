@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-296 songs - 14 hr 51 min - [published](https://open.spotify.com/playlist/407tH31qlKbYTcYf0IA7yj)
+296 songs - 14 hr 53 min - [published](https://open.spotify.com/playlist/407tH31qlKbYTcYf0IA7yj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Mindful Transition](https://open.spotify.com/track/08nreEzym40YMjIMhKLhVY) | [Skyler Wilson](https://open.spotify.com/artist/2V2FOQ4bEqDyrhGnzLBCr3) | [Mindful Transition](https://open.spotify.com/album/5vqJczDy2oAJBeurx4cgcN) | 3:59 | 2021-11-10 | 2022-01-22 |
 | [Miraculous](https://open.spotify.com/track/39klOrreaNPjsYeh1zTFjh) | [Muh Re](https://open.spotify.com/artist/4FimVNSfsYDIj9JdNq1gXe) | [Miraculous](https://open.spotify.com/album/5uiAQcotkaF94TIP8cIlR1) | 3:27 | 2021-11-10 |  |
 | [Mirrors](https://open.spotify.com/track/4AxLkuDH6lAh4zfAqnMk1n) | [Tairata](https://open.spotify.com/artist/6S03l2FptTA5eeHeXo115b) | [Mirrors](https://open.spotify.com/album/31hZ1BCR6HrbzBu0dNehj5) | 2:18 | 2021-11-10 |  |
-| [Mission Control](https://open.spotify.com/track/12qiIPwFmB7J7Ufmru88XD) | [Astor Petra](https://open.spotify.com/artist/5nhT90eO0VFPDhiBS7tuOE) | [One Astronaut](https://open.spotify.com/album/3FXc1aNU0tqaoOy0md8GZS) | 0:29 | 2021-11-10 |  |
+| [Mission Control](https://open.spotify.com/track/12qiIPwFmB7J7Ufmru88XD) | [Astor Petra](https://open.spotify.com/artist/5nhT90eO0VFPDhiBS7tuOE) | [One Astronaut](https://open.spotify.com/album/3FXc1aNU0tqaoOy0md8GZS) | 3:12 | 2021-11-10 |  |
 | [Moment To Moment](https://open.spotify.com/track/4vOHJJO8fJudz8JVVG9av6) | [Modal Colours](https://open.spotify.com/artist/6J7iKiucfuY6yg4dp0b67i) | [Moment To Moment](https://open.spotify.com/album/17QORfdYpsGqQ3D74hUPCx) | 2:35 | 2021-11-10 |  |
 | [Monrovia](https://open.spotify.com/track/7JYgex93ldydsVqr6Um2nD) | [Prescient Liquids](https://open.spotify.com/artist/7KoToKBUpived2ez8gxKT1) | [Heliotropism](https://open.spotify.com/album/3MsuLztSUCisSA2S92hlaw) | 3:30 | 2021-11-10 |  |
 | [Montania](https://open.spotify.com/track/6t3e2UfHXGVdxXJhPYj6Lg) | [Calma Interiore](https://open.spotify.com/artist/1OmJlIsNDkAVfdkmHbvQFM) | [Montania](https://open.spotify.com/album/3dwBW5p65buVtiTmr2a0Wl) | 2:58 | 2021-11-10 |  |

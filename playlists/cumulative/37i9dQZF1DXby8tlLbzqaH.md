@@ -4,7 +4,7 @@
 
 > White noise to help babies fall asleep.
 
-285 songs - 12 hr 37 min - [published](https://open.spotify.com/playlist/7qoKbaidM3PBelMTiPtTCs)
+285 songs - 12 hr 39 min - [published](https://open.spotify.com/playlist/7qoKbaidM3PBelMTiPtTCs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +273,7 @@
 | [White Noise Soul](https://open.spotify.com/track/6rN42ucxz8KE5aTEpfeIOY) | [Indika](https://open.spotify.com/artist/6vl0jfkfF6pKuUQPJhWshU) | [Noisy Element](https://open.spotify.com/album/1CrQyQYY5MXE1A6T0LAu1O) | 2:42 | 2022-03-21 |  |
 | [White Noise Sound](https://open.spotify.com/track/7Fo4wTEfnJj64uH8qM6aSV) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [White Noise Sounds](https://open.spotify.com/album/14k73I1auO3UBMKCZ1hzNQ) | 3:48 | 2022-03-21 | 2022-04-29 |
 | [White Noise Theme](https://open.spotify.com/track/1unaFsNuBizFWSv9zJ6Lyv) | [Enhanced Audio](https://open.spotify.com/artist/25y0vgD4fPJCkjynE2K02m) | [White Noise Theme](https://open.spotify.com/album/4QktoYkLK39QWoOlu9YckX) | 2:33 | 2022-04-28 | 2022-06-10 |
-| [White Noise through the Air](https://open.spotify.com/track/2QH9DwfG1egOFImw7ybYFN) | [White Wall Sound](https://open.spotify.com/artist/5gFVFzfnyHbq9xibfWKrzs) | [White Noise for Bedtime](https://open.spotify.com/album/53Uwinf0CFMlIs6b10QLO6) | 0:29 | 2022-03-21 |  |
+| [White Noise through the Air](https://open.spotify.com/track/2QH9DwfG1egOFImw7ybYFN) | [White Wall Sound](https://open.spotify.com/artist/5gFVFzfnyHbq9xibfWKrzs) | [White Noise for Bedtime](https://open.spotify.com/album/53Uwinf0CFMlIs6b10QLO6) | 2:38 | 2022-03-21 |  |
 | [White Noise Tiefschlaf](https://open.spotify.com/track/3tCj4PMMeTC5FRYS4eKTuW) | [Sleep Sleep Sleep](https://open.spotify.com/artist/1OqVbmth0QR4OXPVPmIEyi) | [White Noise Tranquility](https://open.spotify.com/album/0MB5igPz2WRNm5iz3WvEW7) | 2:52 | 2022-03-21 |  |
 | [White Noise Tranquility](https://open.spotify.com/track/604rGOzvpNO6IkePodqxmN) | [White Noise Dream](https://open.spotify.com/artist/4lvbkZhX4PJpOuuk6QekZb) | [Tranquility](https://open.spotify.com/album/4ziuxclf5GUjkF2bKGH1gk) | 3:36 | 2022-03-21 | 2022-06-10 |
 | [White Noise Vibrations](https://open.spotify.com/track/7kqyhhEzhkR4aULBDV80dI) | [Scientists of Noise](https://open.spotify.com/artist/14XJ27kUY0HXLJFApJBHRA) | [White Noise Vibrations](https://open.spotify.com/album/4oaLIkI9VTLCZeHhhwu8F0) | 4:12 | 2022-04-28 |  |

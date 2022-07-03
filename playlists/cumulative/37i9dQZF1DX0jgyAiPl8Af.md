@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-297 songs - 13 hr 45 min - [published](https://open.spotify.com/playlist/7C5W2Uqg0ynw9C4XUHonb9)
+297 songs - 13 hr 47 min - [published](https://open.spotify.com/playlist/7C5W2Uqg0ynw9C4XUHonb9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [Memories Of Spring](https://open.spotify.com/track/1euIocoXj9wIHqv8GLIeaw) | [Peaceful Green](https://open.spotify.com/artist/599IEilpy3m4OmWd2pD3Du) | [Memories Of Spring](https://open.spotify.com/album/4xo1arN9wHFtguvmAh2UJi) | 2:55 | 2022-05-27 |  |
 | [Mendoza](https://open.spotify.com/track/1tDp655UeKaHN3J23HHave) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Mendoza](https://open.spotify.com/album/2Bxw8YfgCBm91kJrRk8U8k) | 4:31 | 2021-12-08 | 2022-05-11 |
 | [Milagro](https://open.spotify.com/track/1KiSv67dHyaH6hu7EgMp3Q) | [Rodrigo Medina](https://open.spotify.com/artist/7u678ZuczbcMTpmTtzBDVJ) | [Milagro](https://open.spotify.com/album/1V0mU9SRWZVJLSA68jpp6u) | 2:55 | 2021-12-08 |  |
-| [Milano](https://open.spotify.com/track/09Z0fc2bC2g5X5fhOklDbF) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Milano](https://open.spotify.com/album/4da1Z9ZRNMf4SIiYegd94g) | 0:29 | 2021-12-08 |  |
+| [Milano](https://open.spotify.com/track/09Z0fc2bC2g5X5fhOklDbF) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Milano](https://open.spotify.com/album/4da1Z9ZRNMf4SIiYegd94g) | 1:52 | 2021-12-08 |  |
 | [Mineral](https://open.spotify.com/track/0TOLxJTPhAkvqg9GfnjstG) | [Albert Wenmo](https://open.spotify.com/artist/3oRcts32YJGp3vx0U7ZyKf) | [Mineral](https://open.spotify.com/album/0Yua0C6bonDdLCp0FV4fC4) | 1:27 | 2022-06-10 |  |
 | [Misty Midnight](https://open.spotify.com/track/3os1MjgOwLFIyvyP67JKaE) | [Alina Hussain](https://open.spotify.com/artist/1J9m2S0qeC1r2n3BlvE61K) | [Misty Midnight](https://open.spotify.com/album/7JGiEcxXiPHjLEHH0eMzn1) | 2:14 | 2022-02-01 |  |
 | [Mittenwald](https://open.spotify.com/track/56gf0iOrvZQpwECebBy99R) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Mittenwald](https://open.spotify.com/album/6j8Tg0ERTdfiHWukxIHC8f) | 2:40 | 2021-12-08 |  |

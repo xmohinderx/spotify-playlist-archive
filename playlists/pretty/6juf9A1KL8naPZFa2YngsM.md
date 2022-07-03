@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6juf9A1KL8naPZFa2YngsM.md) - [plain]
 
 > Score your cocktail hour with eclectic jazz covers \- from Drake to Radiohead.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259 likes - 25 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 259 likes - 25 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/6juf9A1KL8naPZFa2YngsM.md) - [plain]
 | 21 | [Paper Tiger](https://open.spotify.com/track/0QPQZx5r1Lbb83HcmpTOl6) | [Dr\. Lonnie Smith](https://open.spotify.com/artist/1ZpPJRe9erwiWi548SKVyn), [David "Fathead" Newman](https://open.spotify.com/artist/5OPNYwuIto3q4ac46rIIZC) | [Boogaloo to Beck](https://open.spotify.com/album/5kyJQJqRYP2TlCtvwprAkf) | 9:38 |
 | 22 | [Perth](https://open.spotify.com/track/3bsZFr3VvH6EhvmGtdezBP) | [NEXT Collective](https://open.spotify.com/artist/5gPRG5WCvpC26dNz3FsjiB) | [Cover Art](https://open.spotify.com/album/0Fg3DVSBocIzxeibNva9ZM) | 5:26 |
 | 23 | [Alpha and Omega \(feat\. Donny McCaslin, Jason Lindner, Tim Lefebvre & Mark Guiliana\)](https://open.spotify.com/track/6Ii9YNIFXPoO6yeoP13VqT) | [Donny McCaslin](https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M), [Jason Lindner](https://open.spotify.com/artist/7IyxbbSUjUQVIembL68zvy), [Tim Lefebvre](https://open.spotify.com/artist/0f92BXRSv36fG7o3QxCQ38), [Mark Guiliana](https://open.spotify.com/artist/798TUNb6IfpsZzMkkzVGu1) | [Casting For Gravity](https://open.spotify.com/album/55hCIHAndPwfVM9mWivwEV) | 4:12 |
-| 24 | [You Will Be Loved Again](https://open.spotify.com/track/1WPgIbYONt8j7804FMVyka) | [The Peggy Lee Band](https://open.spotify.com/artist/1hlImRLr5wgG7I8nPQ0ZnE) | [Invitation](https://open.spotify.com/album/6FAkbfW9fMwzR6hWCGDA7r) | 0:29 |
-| 25 | [Diamonds And Pearls](https://open.spotify.com/track/5IZ9bSLdTQlh3bFevTcnnl) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [January](https://open.spotify.com/album/5nizuls1o8fJQ0S5xR3WZM) | 0:29 |
+| 24 | [You Will Be Loved Again](https://open.spotify.com/track/1WPgIbYONt8j7804FMVyka) | [The Peggy Lee Band](https://open.spotify.com/artist/1hlImRLr5wgG7I8nPQ0ZnE) | [Invitation](https://open.spotify.com/album/6FAkbfW9fMwzR6hWCGDA7r) | 4:17 |
+| 25 | [Diamonds And Pearls](https://open.spotify.com/track/5IZ9bSLdTQlh3bFevTcnnl) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [January](https://open.spotify.com/album/5nizuls1o8fJQ0S5xR3WZM) | 5:45 |
 
 Snapshot ID: `NTEsZjM5YjM4NmE3NTMyM2JlYmM3YmU2OGM0ZWFhYTk2ODdkZjBhMzY2ZA==`

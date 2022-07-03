@@ -4,7 +4,7 @@
 
 > 
 
-42 songs - 3 hr 10 min - [published](https://open.spotify.com/playlist/5EN6dmataj56ODppRWaP1I)
+42 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/5EN6dmataj56ODppRWaP1I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Somewhere Over The Rainbow](https://open.spotify.com/track/3WvsWWvfqXezlD2wd9zSmv) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf) | [Judy Garland & Friends](https://open.spotify.com/album/1OcBXp0k91CJCKh1K6NyQq) | 2:46 | 2013-07-12 |  |
 | [Stand and Deliver](https://open.spotify.com/track/5niJaBcWtydYNTqIQofOeJ) | [Adam & The Ants](https://open.spotify.com/artist/2DppeCnNtvrLfEobq9Pw5r) | [80s 100 Hits](https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF) | 2:56 | 2013-07-12 |  |
 | [Stuck In The Middle With You](https://open.spotify.com/track/6pNVhq4m3S9iNRxpwmVQZm) | [Stealers Wheel](https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki) | [Music For Seventies](https://open.spotify.com/album/3L6yuuvIFVNQEOQ0F3rwn8) | 3:23 | 2013-07-12 |  |
-| [Teardrop](https://open.spotify.com/track/1cTmlIavpTMpGewqlvddOI) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Imperial Recordings Best Of](https://open.spotify.com/album/6v5e6P19VdYAy73GGjRDBV) | 0:29 | 2013-07-12 |  |
+| [Teardrop](https://open.spotify.com/track/1cTmlIavpTMpGewqlvddOI) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Imperial Recordings Best Of](https://open.spotify.com/album/6v5e6P19VdYAy73GGjRDBV) | 3:20 | 2013-07-12 |  |
 | [The Girl From Ipanema](https://open.spotify.com/track/7DjbiNCiaIjGcJcld2hZVM) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [Getz/Gilberto \(Classics International Version\)](https://open.spotify.com/album/5p7LZlOPMvScCXw5M77xyV) | 2:46 | 2013-07-12 |  |
 | [The Imperial March \(Darth Vader's Theme\)](https://open.spotify.com/track/62HY7V5hRKtfIZ7uCYqYqu) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [John Neal](https://open.spotify.com/artist/5zMZofgPVYk9IVibwopcbY) | [Star Wars Episode V: The Empire Strikes Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0a5t6HeElUsxiFrdocSlBM) | 3:02 | 2013-07-12 |  |
 | [Things Can Only Get Better](https://open.spotify.com/track/1Z044RdmytQDD8571vd4fl) | [D:Ream](https://open.spotify.com/artist/2dCQKsTjB762AhtIACbAQA) | [On Vol.1](https://open.spotify.com/album/2WEz05B90H3qjP6dnTQi4v) | 4:23 | 2013-07-12 |  |

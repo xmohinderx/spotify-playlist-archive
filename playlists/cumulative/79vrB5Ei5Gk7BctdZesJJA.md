@@ -4,7 +4,7 @@
 
 > 
 
-46 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/0ISXfp1yKYIEro1UDuQFBT)
+46 songs - 3 hr 5 min - [published](https://open.spotify.com/playlist/0ISXfp1yKYIEro1UDuQFBT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [The Phalanx](https://open.spotify.com/track/6aXZwKM6C2aNVZiMpf0AMh) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Phalanx](https://open.spotify.com/album/3AYR093HV8sXPrCjWHKzrf) | 7:15 | 2022-01-07 |  |
 | [Timebomb](https://open.spotify.com/track/3Mol9yc6kEdpu8lKEvsune) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Timebomb](https://open.spotify.com/album/0QaS7rHAPOIE3P0zaB99Xu) | 3:46 | 2022-01-07 |  |
 | [Truck Songs](https://open.spotify.com/track/44jxWjjs75MIzZJFVDdGrO) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [Truck Songs](https://open.spotify.com/album/4P65HHtKkH46q5YuYWq9ck) | 4:00 | 2022-01-07 |  |
-| [Turn Off The Guitar](https://open.spotify.com/track/5GyD1xmgMg02yLift5Z1BA) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [Lil House](https://open.spotify.com/album/3ScexrVTPWJiGP8rCAGccD) | 0:29 | 2022-01-07 |  |
+| [Turn Off The Guitar](https://open.spotify.com/track/5GyD1xmgMg02yLift5Z1BA) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [Lil House](https://open.spotify.com/album/3ScexrVTPWJiGP8rCAGccD) | 3:09 | 2022-01-07 |  |
 | [WDYT](https://open.spotify.com/track/3Ka3b6jgY9XH6SrcUzOCjn) | [Contracult Collective](https://open.spotify.com/artist/6bIdpjyGpps6a0CJT4hTGW) | [WDYT](https://open.spotify.com/album/56YLXWml8fCbCG65Za9VOC) | 3:40 | 2022-01-07 |  |
 | [We Will Rock You \(feat\. Maria Brink, Lzzy Hale and Taylor Momsen\)](https://open.spotify.com/track/3ltS4rlFrCYkdQqGzVjXBi) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY), [Maria Brink](https://open.spotify.com/artist/6W8xq7TXME3WXP7c7LMWBR), [Taylor Momsen](https://open.spotify.com/artist/31Wr64NZlSHgS0Gz6yoCr5) | [Mother](https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F) | 3:05 | 2022-01-07 |  |
 | [What Comes Around](https://open.spotify.com/track/2bJ1JLN0o30pEHnwdPdbd7) | [Ill Niño](https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF) | [XXX: Three Decades Of Roadrunner Records](https://open.spotify.com/album/3C6jILLr5iuUUHUYPwBDCd) | 3:45 | 2022-01-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Sam Johnston \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,139 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,195 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 4 | [lily of the valley](https://open.spotify.com/track/5z0zobpDgfoUG3zfOM9AB2) | [Torri Weidinger](https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM) | [Virginia](https://open.spotify.com/album/4oXf7xYBCRgxDsA8QyxU4b) | 3:23 |
 | 5 | [Lead Me Home](https://open.spotify.com/track/6nqGaeoYs2PL1O47B2K1xE) | [Wilfred](https://open.spotify.com/artist/7dZa7l5PsnUBItVQFPp6ym) | [Lead Me Home](https://open.spotify.com/album/0UqsZj10Gp3p8Z5DQmzKLY) | 2:58 |
 | 6 | [Getting Better](https://open.spotify.com/track/1Jhl3bdPenyPQzF8RgzSPe) | [Goodwill](https://open.spotify.com/artist/08YH3sCgWzw9OuiRALrSCA) | [Getting Better](https://open.spotify.com/album/5w3hX19J48fSNi3UkAJCcQ) | 3:15 |
-| 7 | [Lou](https://open.spotify.com/track/4f02joYEp59ag51L07R7Vk) | [Jackfruit](https://open.spotify.com/artist/5cXZoNGbKqmrPMa2hlpuDU) | [Lou](https://open.spotify.com/album/2t1IvOLI5e3F09nBpuijMX) | 4:10 |
+| 7 | [Lou](https://open.spotify.com/track/4f02joYEp59ag51L07R7Vk) | [Juno Lev](https://open.spotify.com/artist/6jQDETDXZtBIhuZdGhyPop) | [Lou](https://open.spotify.com/album/2t1IvOLI5e3F09nBpuijMX) | 4:10 |
 | 8 | [How Do I Show My Love?](https://open.spotify.com/track/6WeH2AdmFGMNd3Sujcoca0) | [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [How Do I Show My Love?](https://open.spotify.com/album/26qehkmpNVmzYhjNMgPnJS) | 3:42 |
 | 9 | [Strawberry](https://open.spotify.com/track/0VB2DbuUCBkDuD5ZMJxPJN) | [Andrew Montana](https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc) | [Strawberry](https://open.spotify.com/album/2YnTYD0KOo8XrAQJTjnyQy) | 3:09 |
 | 10 | [Orion](https://open.spotify.com/track/4ofjRp95kHz8RBHu4iX4Hd) | [Melanie MacLaren](https://open.spotify.com/artist/2R1li8gWj9IYRHBAHzylbF) | [Orion](https://open.spotify.com/album/6nMBleJ4ye3EF8MOknz3hp) | 4:38 |
-| 11 | [quite alright](https://open.spotify.com/track/3ac7wRpO4zkSxzDDa5kado) | [doppelfinger](https://open.spotify.com/artist/26vQnKIdh6ysJWbcQ6o3P1) | [by design](https://open.spotify.com/album/1IluF9fFD0yPzey3C306zL) | 0:29 |
+| 11 | [quite alright](https://open.spotify.com/track/3ac7wRpO4zkSxzDDa5kado) | [doppelfinger](https://open.spotify.com/artist/26vQnKIdh6ysJWbcQ6o3P1) | [by design](https://open.spotify.com/album/1IluF9fFD0yPzey3C306zL) | 5:15 |
 | 12 | [December](https://open.spotify.com/track/1mXGajS1lGOU7GHZuOIVYk) | [Meredith Lazowski](https://open.spotify.com/artist/2ArYHxQyNMtWFI7YpkQWPP) | [Other Way Home](https://open.spotify.com/album/18LCsG2QzCUtQhtP3p34yd) | 4:25 |
 | 13 | [Coop Running Through the Halls](https://open.spotify.com/track/5FszTomTWNyVVOGWwrLJX9) | [Jack M\. Senff](https://open.spotify.com/artist/4ZVwJlIgvmh6DTxPnf28x3) | [Low Spirit](https://open.spotify.com/album/0a807me7Pk3YZuTENtPnWo) | 3:08 |
 | 14 | [Married to the Ground](https://open.spotify.com/track/24agh4Z8pYY8F8h0cpm3IM) | [Glitterfox](https://open.spotify.com/artist/7sTGtcslsxEgrgfLdmuwgJ) | [Night](https://open.spotify.com/album/1VpIs4nLopmtNMLLDllupH) | 3:41 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 27 | [Dead Friends](https://open.spotify.com/track/3AvW6daGmZOBr9L2fQRflQ) | [Owen FitzGerald](https://open.spotify.com/artist/1KJz4wb91yi5bL2bl5AGeO) | [Dead Friends](https://open.spotify.com/album/2slUbrVetCmEm1w74MpMAi) | 4:13 |
 | 28 | [Paper \- Radio Edit](https://open.spotify.com/track/5czpVZPVy2xQaDwNM8INEt) | [Rona Mac](https://open.spotify.com/artist/0FMzSeL7vGgUfFqkBk9FaF) | [Paper \(Radio Edit\)](https://open.spotify.com/album/2fdef6vdtwVALzYrVf3U5C) | 3:53 |
 | 29 | [The Movie of Us](https://open.spotify.com/track/7F1D9wnYqR3y6Gd5UkiTOj) | [Darryl Rahn](https://open.spotify.com/artist/2eogPRB3PTDU7KOd99s4UA) | [The Movie of Us](https://open.spotify.com/album/1W6ErGuu81Pwr5Lh7h0nOG) | 3:24 |
-| 30 | [Golden Spoon](https://open.spotify.com/track/5TtUQ2fh1JzntGcB3mA54l) | [Bats](https://open.spotify.com/artist/4iuECUfKK1Iulmgxt5MObO) | [Blue Cabinet](https://open.spotify.com/album/4qW90vfNhN8R9H1OUhFLfD) | 0:29 |
+| 30 | [Golden Spoon](https://open.spotify.com/track/5TtUQ2fh1JzntGcB3mA54l) | [Bats](https://open.spotify.com/artist/4iuECUfKK1Iulmgxt5MObO) | [Blue Cabinet](https://open.spotify.com/album/4qW90vfNhN8R9H1OUhFLfD) | 4:04 |
 | 31 | [Jigsaw](https://open.spotify.com/track/16NDgpxqIktl0Uluplcz9A) | [Emma Worley](https://open.spotify.com/artist/4uKFpcmOUIswqq7B1c1Zdv) | [Sentimentalist](https://open.spotify.com/album/3iFfF1trCX7iUwWf28iJ2w) | 3:26 |
 | 32 | [Clockwork](https://open.spotify.com/track/06MAgI9FF2nWUDoJSork3Z) | [Ghost Woman](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Clockwork](https://open.spotify.com/album/0UKHelKXNZsPdWNamldnb4) | 2:21 |
 | 33 | [River Run](https://open.spotify.com/track/1725wOjQopDGXUqD6n7Cu6) | [Julia Logan](https://open.spotify.com/artist/1HWgpUIHDxJCLCFueK17D0) | [River Run](https://open.spotify.com/album/5SIs2da6wmXQw4OFcPsTtp) | 4:25 |

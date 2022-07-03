@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: YUNGBLUD
 
-1,340 songs - 3 day 5 hr 12 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
+1,341 songs - 3 day 5 hr 16 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [Disaster Girl](https://open.spotify.com/track/0AgZmVy57KygTp6eYHHBkk) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Disaster Girl](https://open.spotify.com/album/1UCrUZHeQ7ohG9Z1H0YxsU) | 2:30 | 2022-03-24 | 2022-04-01 |
 | [Disgusting](https://open.spotify.com/track/37DRi2hcNwEhlT0jEnyLAX) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Disgusting](https://open.spotify.com/album/6AfbbjvJ5clKLalUyNZ4Dv) | 3:09 | 2022-06-16 | 2022-06-24 |
 | [Dissolve](https://open.spotify.com/track/0UkGOpbCxYI3oeyaNxo1dd) | [Basement Revolver](https://open.spotify.com/artist/2xaBaFw60ET6GJVxFLOc4s) | [Embody](https://open.spotify.com/album/7egXCioiZMNz9EmGk7Z3GB) | 3:15 | 2022-02-17 | 2022-02-25 |
+| [Dissolve](https://open.spotify.com/track/0rqT6FWQBq2rXi5NQRZcRS) | [Present](https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF) | [Dissolve](https://open.spotify.com/album/1gyEdiVK73cyN4Cp7f51kK) | 3:29 | 2022-06-30 |  |
 | [Dive](https://open.spotify.com/track/0ToSPOjmd4sl1ABWa3nEvl) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Dive](https://open.spotify.com/album/7F0bAW23xFNyiFeC3OKJd8) | 3:35 | 2022-01-20 | 2022-01-28 |
 | [DIZZY](https://open.spotify.com/track/5c0WB921PDc4s4EpthSDJo) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [DIZZY](https://open.spotify.com/album/7lFMvbDwtUZhLhVJyUu8tB) | 3:19 | 2022-02-18 | 2022-02-25 |
 | [Do It Again](https://open.spotify.com/track/3CZD5SiAIAs8o8mTu2UbZ4) | [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp) | [Do It Again](https://open.spotify.com/album/52jQ94hnhEV1i4iCJ9QR6h) | 3:11 | 2022-05-26 | 2022-06-03 |

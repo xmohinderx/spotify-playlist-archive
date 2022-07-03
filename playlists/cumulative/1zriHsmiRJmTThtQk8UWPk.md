@@ -4,7 +4,7 @@
 
 > Listen to a collection of inspiring women in music as they share the stories of their music icons, from Lera Lynn and Kelly Clarkson to Zendaya and Terri Nunn.
 
-142 songs - 5 hr 39 min - [published](https://open.spotify.com/playlist/64Oo0XtwWC7qy89rV0DUDd)
+142 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/64Oo0XtwWC7qy89rV0DUDd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Didn't It Rain](https://open.spotify.com/track/3MmBXeei7SACBgmdGiT6FB) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [Marie Knight](https://open.spotify.com/artist/5SQDx1d1tEpptg9je4XGYS) | [The One And Only Queen Of Hot Gospel](https://open.spotify.com/album/6ACYJSOqQdPROs8D3Eiwl0) | 2:40 | 2016-03-07 |  |
 | [Don't](https://open.spotify.com/track/4eljrRffIeiEf24ukplrJ5) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kin](https://open.spotify.com/album/1gTZk3SfArXJCgWQtGPyhE) | 3:04 | 2016-03-07 |  |
 | [Dream A Little Dream Of Me](https://open.spotify.com/track/5MjAGtm2ihbBK9G30ZN3Ju) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella & Friends](https://open.spotify.com/album/0MgX1r8D5sEhpC3JPs6pLG) | 3:07 | 2016-03-07 |  |
-| [Easier To Hide](https://open.spotify.com/track/3g6CKJpQWHNx0OG0AHjmu1) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Comfort](https://open.spotify.com/album/509VifKH3x4T8dhJp6RfVO) | 0:29 | 2016-03-07 |  |
+| [Easier To Hide](https://open.spotify.com/track/3g6CKJpQWHNx0OG0AHjmu1) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Comfort](https://open.spotify.com/album/509VifKH3x4T8dhJp6RfVO) | 5:01 | 2016-03-07 |  |
 | [Echosmith on Joni Mitchell](https://open.spotify.com/track/5bPkD3EB1WuYcNC8DPiTEP) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Women's History Month 2016](https://open.spotify.com/album/21SsViFktYlsThiZc0DP1R) | 0:26 | 2016-03-07 |  |
 | [Echosmith on WHM](https://open.spotify.com/track/1kh0SEf7DVvd0Jq0AiHl8y) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Women's History Month 2016](https://open.spotify.com/album/21SsViFktYlsThiZc0DP1R) | 0:16 | 2016-03-07 |  |
 | [Eden xo on Shirley Manson](https://open.spotify.com/track/4I7efNSsMZkrdAHh5MZQcY) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Women in Music \- 2015 Stories Vol\. 2](https://open.spotify.com/album/2x7Ejovh9f6DSf5uLoUyQB) | 0:23 | 2016-03-07 |  |

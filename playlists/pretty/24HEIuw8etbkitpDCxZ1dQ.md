@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/24HEIuw8etbkitpDCxZ1dQ.md) - [plain]
 
 > A playlist with songs from the best reviewed albums in Sweden 2012.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,587 likes - 61 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,587 likes - 61 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/24HEIuw8etbkitpDCxZ1dQ.md) - [plain]
 | 47 | [Mountains Crave](https://open.spotify.com/track/76kEf0oIweRqhHvagGmRY4) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Ceremony](https://open.spotify.com/album/4f3qVNqW36rlcTktIMcRlo) | 3:35 |
 | 48 | [Cold Nites](https://open.spotify.com/track/4RqEG0Ikwi0fFWIP3IeIAa) | [How To Dress Well](https://open.spotify.com/artist/4jLcgJjDGmW0HmvbSf6lEI) | [Total Loss](https://open.spotify.com/album/15iZzT7pgIPsUGfU7IybCr) | 3:38 |
 | 49 | [Magpie](https://open.spotify.com/track/51MFsMimXpHaKMwBsfzvfI) | [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Sugaring Season \[Deluxe Edition\]](https://open.spotify.com/album/4ZJVJEalpinpgX5cXYxHEx) | 4:32 |
-| 50 | [Ascending](https://open.spotify.com/track/6q0UUA6ELtztOmkrjUTiCm) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [R.I.P.](https://open.spotify.com/album/1iw1gr9TPYhIwmgoLPcRRG) | 0:29 |
+| 50 | [Ascending](https://open.spotify.com/track/6q0UUA6ELtztOmkrjUTiCm) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [R.I.P.](https://open.spotify.com/album/1iw1gr9TPYhIwmgoLPcRRG) | 3:08 |
 | 51 | [Weather in My Head](https://open.spotify.com/track/2xhg6TOBdsTfb8kZxSj8af) | [Donald Fagen](https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb) | [Sunken Condos](https://open.spotify.com/album/0dGQr1so9XR6vrdMpNBcXg) | 5:29 |
 | 52 | [Myth](https://open.spotify.com/track/1OX2lkGZmC0uHPNHAxbFln) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/0SlsS6n3S5VkXiy9GBLFtp) | 4:18 |
 | 53 | [Cigarett i handen](https://open.spotify.com/track/3ZUssA8VBD1arpWfTljACZ) | [Toni Holgersson](https://open.spotify.com/artist/4mrhln9xCAUxK4fomXAtsB) | [Sentimentalsjukhuset](https://open.spotify.com/album/6xKHq1Ram4AMLuZRdMD28P) | 4:12 |

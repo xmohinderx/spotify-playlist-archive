@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ULa1Ss8vbo.md) - [plain]
 
 > Songs from the old country: the essential traditional Irish ballads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,453 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,497 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ULa1Ss8vbo.md) - [plain]
 | 43 | [Kevin Barry](https://open.spotify.com/track/2tEiGjz3R89PW3SVvlCizr) | [The Dublin City Ramblers](https://open.spotify.com/artist/6nXiCNSYAvQcYAXcJBN6l0) | [1916 Easter Rising Centenary Commemoration Collection](https://open.spotify.com/album/6vfEfM1CkPxoNdwbaACkz4) | 4:12 |
 | 44 | [Star of the County Down](https://open.spotify.com/track/1VvrPTVRMUa1aJF2xN6VgK) | [Sean Dagher](https://open.spotify.com/artist/5JgxqXmh1TrVDZn7gAgqLw), [Richard Irwin](https://open.spotify.com/artist/6ZIDb0NiwfcqCTaOzHyTC8), [Nelson Carter](https://open.spotify.com/artist/1HVyjDVd3Wq8B79G6P1g55), [Nils Brown](https://open.spotify.com/artist/42cM14lDAB0KzoBWQ86TWu), [Michiel Shrey](https://open.spotify.com/artist/1u2t9oc7xmpmuq6TNTwc9p), [David Gossage](https://open.spotify.com/artist/4Goe26LiMjH9z6XLUaxQfM) | [Assassin's Creed 4: Black Flag \(Sea Shanty Edition, Vol\. 2\) \[Original Game Soundtrack\]](https://open.spotify.com/album/3xIHHyUh7RTAzLzXUzksBB) | 1:56 |
 | 45 | [Arbour Hill](https://open.spotify.com/track/3dZpG1lCzOollQ3qrylOS0) | [Eugene McEldowney](https://open.spotify.com/artist/0PUpXAEPVuX0CShc4oGdwG) | [James Connolly \- The Irish Rebel](https://open.spotify.com/album/0y3rEtlF9sLwtzVfjUebxM) | 2:35 |
-| 46 | [Báidín Fheilimí](https://open.spotify.com/track/5fGkh5uh6XDRptv3WEF9A4) | [Caera](https://open.spotify.com/artist/2OzigumcbZNfTxnT1aacDw) | [Traditional Irish Gaelic Children's Songs](https://open.spotify.com/album/0pss1phhhe7ykfusGB0ck1) | 0:29 |
+| 46 | [Báidín Fheilimí](https://open.spotify.com/track/5fGkh5uh6XDRptv3WEF9A4) | [Caera](https://open.spotify.com/artist/2OzigumcbZNfTxnT1aacDw) | [Traditional Irish Gaelic Children's Songs](https://open.spotify.com/album/0pss1phhhe7ykfusGB0ck1) | 1:52 |
 | 47 | [Danny Boy](https://open.spotify.com/track/2LMeRecVW5d3a1vxZV5jJR) | [Frank Patterson](https://open.spotify.com/artist/3UZc24DOYrUhFnDPNw1L8A) | [Ireland's Golden Tenor \- A Celebration](https://open.spotify.com/album/1gOWpNBuPqI2VILLOT272d) | 4:38 |
 | 48 | [James Connolly](https://open.spotify.com/track/1hoXIRlsnmnW6DP64mJmBM) | [Damien Dempsey](https://open.spotify.com/artist/0bmF1w9eyJrY4CHyjpTQOW) | [No Force On Earth](https://open.spotify.com/album/5NTLr7uctFVYnAIiPqVkfN) | 5:06 |
 | 49 | [On the Banks of My Own Lovely Lee](https://open.spotify.com/track/4V81FFqdzb0xjbYziAn8yU) | [Joe Lynch](https://open.spotify.com/artist/3BWwtO1ioC4fSSsgjGhrAF) | [Joe Lynch](https://open.spotify.com/album/3byIo5Xb9ZaM8d7KPtOPgN) | 2:48 |

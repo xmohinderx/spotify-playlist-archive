@@ -4,7 +4,7 @@
 
 > The perfect frequency for sleep or study – science tested, listener approved.
 
-175 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/7kSbO7docWbPCdbgHmckd8)
+175 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/7kSbO7docWbPCdbgHmckd8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Cabin Back Noise](https://open.spotify.com/track/0KByxc2bldSo9PtAQQnipz) | [High Altitude Samples](https://open.spotify.com/artist/3T9Rn6sxhCylmpTyWCuu1f) | [Sleep Over the Ocean](https://open.spotify.com/album/433vYcfr0ssW6wMmdq4lv0) | 2:51 | 2021-12-01 |  |
 | [Cabin Noise \- LRMax \- Relaxed Flow](https://open.spotify.com/track/37zh91cPMsMsHH47GuG8Fk) | [Flow Fabric](https://open.spotify.com/artist/2jozuvJzUtwmFetivm4ae6) | [Cabin Noise](https://open.spotify.com/album/7b2xRhFyIjJwob9qd13zTZ) | 1:50 | 2021-12-01 |  |
 | [Cabin Noise \- LRMax \- Soft Flow](https://open.spotify.com/track/7Jh4HR92wguMNtG2tH179U) | [Flow Fabric](https://open.spotify.com/artist/2jozuvJzUtwmFetivm4ae6) | [Cabin Noise](https://open.spotify.com/album/7b2xRhFyIjJwob9qd13zTZ) | 1:49 | 2021-12-01 |  |
-| [Calm Pink Noise](https://open.spotify.com/track/0RWHqbzfBCpJMm3EdOoUcP) | [Calm Meditation Therapy](https://open.spotify.com/artist/6Sl07KtjPR6R2QL0Wgaiwh) | [Calm Pink Noise](https://open.spotify.com/album/5OoNz2sulhAIr7nU48jnRJ) | 0:29 | 2021-12-01 |  |
+| [Calm Pink Noise](https://open.spotify.com/track/0RWHqbzfBCpJMm3EdOoUcP) | [Calm Meditation Therapy](https://open.spotify.com/artist/6Sl07KtjPR6R2QL0Wgaiwh) | [Calm Pink Noise](https://open.spotify.com/album/5OoNz2sulhAIr7nU48jnRJ) | 4:00 | 2021-12-01 |  |
 | [Calm Pink Noise Therapy](https://open.spotify.com/track/7rU64OWg3RZZUck0M199jU) | [Astrofuss](https://open.spotify.com/artist/5Tx7TAY5IxjWaUuJo7tTzf) | [Pool of Pink Noise](https://open.spotify.com/album/753Pp9yVc0DpU9sqFR9TqW) | 3:28 | 2022-05-20 |  |
 | [Candy Sky \(Pink Noise\)](https://open.spotify.com/track/4ZyEceyE8ra9qwM3B8wzEn) | [Nylana](https://open.spotify.com/artist/0xlINdzWCaaz7cIzrUDhfW) | [Pink Noise for the Mind](https://open.spotify.com/album/3obQ62KjC0sPlbRl1tCh2V) | 3:12 | 2022-06-27 |  |
 | [Chill & Sound Bank](https://open.spotify.com/track/2Q0MIEEPzukOhrSXN8KO9b) | [Foggy Light Wave](https://open.spotify.com/artist/0l6AUyOjmPKZH4NHKLBML0) | [Chill & Sound Bank](https://open.spotify.com/album/5Kb9CjNTyFRC9OzRE8Ldxr) | 2:30 | 2021-12-01 |  |
@@ -158,7 +158,7 @@
 | [Ruido Meditativo](https://open.spotify.com/track/2RgRInLV5rO74Wb1a3QbWK) | [Secuencialidad](https://open.spotify.com/artist/7hbqab6ona7RgcCsBsHDob) | [Ruido Meditativo](https://open.spotify.com/album/5vVUDuXwQEblnkNWjDGZKK) | 2:29 | 2021-12-01 |  |
 | [SCHLAF Schlaf schlaf](https://open.spotify.com/track/4wFnLXGIvk1Hw81jLMp99X) | [A Dreaming Machine](https://open.spotify.com/artist/7rybj6DFBE9HYjDsD4ILuA) | [SCHLAF Schlaf schlaf](https://open.spotify.com/album/0APmuU8SkyvHyfL2EomwtE) | 2:00 | 2021-12-01 |  |
 | [Serene Pink Noise](https://open.spotify.com/track/7bLr8J30KiVhzV3rbBe7oX) | [Dreamsound](https://open.spotify.com/artist/3Ck26BVvvBgOPbjvkO9b3g) | [Floating In Pink Noise](https://open.spotify.com/album/5us7JUO1kXQK7TKIc8tyAs) | 2:42 | 2021-12-01 | 2022-06-11 |
-| [Sleep Better Pink Noise](https://open.spotify.com/track/58ILtqqwQdWbjkS4LPuM0L) | [Calm Meditation Therapy](https://open.spotify.com/artist/6Sl07KtjPR6R2QL0Wgaiwh) | [Calm Pink Noise](https://open.spotify.com/album/5OoNz2sulhAIr7nU48jnRJ) | 0:29 | 2021-12-01 |  |
+| [Sleep Better Pink Noise](https://open.spotify.com/track/58ILtqqwQdWbjkS4LPuM0L) | [Calm Meditation Therapy](https://open.spotify.com/artist/6Sl07KtjPR6R2QL0Wgaiwh) | [Calm Pink Noise](https://open.spotify.com/album/5OoNz2sulhAIr7nU48jnRJ) | 4:00 | 2021-12-01 |  |
 | [Sleep Machine](https://open.spotify.com/track/76XzFvQ33HSifgaRBGipU3) | [Buka](https://open.spotify.com/artist/3rUoChxYEhIRmwJvDSg24A) | [Noise Generator](https://open.spotify.com/album/1fckNlClKXniSGA5DTfWdB) | 2:40 | 2021-12-01 |  |
 | [Sleep Through Body](https://open.spotify.com/track/4sN5lyhFWI2RlQEMUvtMC0) | [Bo Ohm](https://open.spotify.com/artist/4dpqmCy8Jwa6HpvPSK1Fzm) | [Sleep](https://open.spotify.com/album/0MyLP3qIKJA7YDOGudm4Eq) | 2:21 | 2021-12-01 |  |
 | [Sleeper's Pink Noise](https://open.spotify.com/track/0IbOrkKXAzaMsNNqZsJasj) | [Pinkfreq](https://open.spotify.com/artist/4rVtSVfR2xsfI3MkJkhMWT) | [Sleepers Pink Noise](https://open.spotify.com/album/095Kjg54ds5HHJK2Vtih3w) | 3:14 | 2022-02-03 |  |

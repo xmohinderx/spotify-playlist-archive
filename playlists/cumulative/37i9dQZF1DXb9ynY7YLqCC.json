@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 252760,
       "name": "Arde la Ciudad",
       "url": "https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 180066,
       "name": "Brujer\u00eda",
       "url": "https://open.spotify.com/track/2w8wIBE9r1OmP7EUrTaCTL"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 308666,
       "name": "Clarobscuro",
       "url": "https://open.spotify.com/track/5aXacxWAOHOZjH2uxMJ0q0"
@@ -485,7 +485,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 244066,
       "name": "El Balneario de los Doctores Crotos",
       "url": "https://open.spotify.com/track/17ipgG6ZFbGSoIoL5f7tuo"
@@ -971,7 +971,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 280880,
       "name": "Mi Revolucion",
       "url": "https://open.spotify.com/track/39K7E651wrt8PorEspTWb5"
@@ -1025,7 +1025,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 261133,
       "name": "Mu\u00e9velo",
       "url": "https://open.spotify.com/track/2RzNpQEcatMIym0AFLJUsF"
@@ -1043,7 +1043,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 194400,
       "name": "M\u00e1s Lejos",
       "url": "https://open.spotify.com/track/5oohb2BfvCucvZIFGo04i4"
@@ -1079,7 +1079,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 208373,
       "name": "Nunca me ense\u00f1aste",
       "url": "https://open.spotify.com/track/41i7cqPXQj5zkMJK6V6RNf"
@@ -1097,7 +1097,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 279548,
       "name": "Nunca Quise - En Vivo Luna Park",
       "url": "https://open.spotify.com/track/101iy0A0T20E8D8Gi1HLiR"
@@ -1133,7 +1133,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 224213,
       "name": "Ojos Ventanal",
       "url": "https://open.spotify.com/track/1wsKixePlchQnf1EZTaAjX"
@@ -1266,6 +1266,28 @@
     },
     {
       "album": {
+        "name": "Por la Boca Vive el Pez",
+        "url": "https://open.spotify.com/album/5gqdbNmSo0ThPpHjHID2Ec"
+      },
+      "artists": [
+        {
+          "name": "Parientes",
+          "url": "https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE"
+        },
+        {
+          "name": "Manu Quieto",
+          "url": "https://open.spotify.com/artist/3JvVd1u9zeRRDwSEFelZRN"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246478,
+      "name": "Por la Boca Vive el Pez",
+      "url": "https://open.spotify.com/track/1z7pxA0o5ZIMjsdFaFstFg"
+    },
+    {
+      "album": {
         "name": "C\u00f3digo de Barras",
         "url": "https://open.spotify.com/album/1banfoBhLiQH0mhSJK54xS"
       },
@@ -1277,7 +1299,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 284586,
       "name": "Por Llegar",
       "url": "https://open.spotify.com/track/2ptnfdshwxv1XK3vGNOOmd"
@@ -1367,7 +1389,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 221425,
       "name": "Resaca de Carnaval",
       "url": "https://open.spotify.com/track/6FPYeXUbLfwmwcknp1f7VZ"
@@ -1389,6 +1411,24 @@
       "duration_ms": 250173,
       "name": "Reyes de la Noche",
       "url": "https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0"
+    },
+    {
+      "album": {
+        "name": "X 16",
+        "url": "https://open.spotify.com/album/45UGwtbbmTeqJAoFnhiLx7"
+      },
+      "artists": [
+        {
+          "name": "Ratones Paranoicos",
+          "url": "https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166160,
+      "name": "Rock del Pedazo",
+      "url": "https://open.spotify.com/track/5MRelkZAqB0SrxUtZmexQo"
     },
     {
       "album": {
@@ -1511,7 +1551,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 203573,
       "name": "Silbando una ilusi\u00f3n",
       "url": "https://open.spotify.com/track/1S3oe1jbV5j4EdXBmVtkbJ"
@@ -1547,7 +1587,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 191530,
       "name": "Soy",
       "url": "https://open.spotify.com/track/3aJ5EHfJq8DNA9zho99LQ4"
@@ -1655,7 +1695,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 244426,
       "name": "Tus Ojos",
       "url": "https://open.spotify.com/track/2qAif1nwoyDsfMrsJcGrco"
@@ -1821,6 +1861,24 @@
       "duration_ms": 226586,
       "name": "Volver a Casa",
       "url": "https://open.spotify.com/track/2PeErZ0K1IVS5C3nri2Pqa"
+    },
+    {
+      "album": {
+        "name": "A Mil",
+        "url": "https://open.spotify.com/album/0ZK9RbojlRNq7N0Iaoj9Gd"
+      },
+      "artists": [
+        {
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214651,
+      "name": "Volver a Nacer",
+      "url": "https://open.spotify.com/track/2ABSAMW7VzfI0yVrkdxTJG"
     },
     {
       "album": {

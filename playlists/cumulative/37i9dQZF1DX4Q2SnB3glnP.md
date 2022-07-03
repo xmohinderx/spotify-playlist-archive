@@ -4,7 +4,7 @@
 
 > Music wellness for your soul.
 
-216 songs - 11 hr 27 min - [published](https://open.spotify.com/playlist/4mp9Oxx4e4HzTV82HU14u2)
+216 songs - 11 hr 32 min - [published](https://open.spotify.com/playlist/4mp9Oxx4e4HzTV82HU14u2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Myth](https://open.spotify.com/track/61dAOLGkqOSyZQUPA5BbdQ) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [All Behind Us](https://open.spotify.com/album/4hwIH1YgDbVfPSGjelmO08) | 2:39 | 2021-12-08 |  |
 | [Música de Spa](https://open.spotify.com/track/0kHT2De1XzpRYNUwQ15v4O) | [Fanny Vie](https://open.spotify.com/artist/47BxDuX1LUvUsYDQssQM3s) | [Relajación y Meditación](https://open.spotify.com/album/7lf9GNRElS8xe9isYjh3bL) | 2:54 | 2021-12-08 |  |
 | [New Endings](https://open.spotify.com/track/2IAZza3wdiTYT8QtO0hbLv) | [Bon Vie](https://open.spotify.com/artist/5HNWBc46bpwk0Aa5klthkQ) | [New Endings](https://open.spotify.com/album/4Ik0uGl3JExFkEeN2ut64W) | 3:08 | 2021-12-08 |  |
-| [New Light](https://open.spotify.com/track/6zRiuQpm9fgQ7Sit5Sc0XH) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [String Theory](https://open.spotify.com/album/4NAAHdaq1RRDCEdsSddHcl) | 0:29 | 2021-12-08 |  |
+| [New Light](https://open.spotify.com/track/6zRiuQpm9fgQ7Sit5Sc0XH) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [String Theory](https://open.spotify.com/album/4NAAHdaq1RRDCEdsSddHcl) | 3:38 | 2021-12-08 |  |
 | [Next To Me \- And The Stars](https://open.spotify.com/track/1uDuGxGnwMiFYiId1CdlYs) | [Silent Waves](https://open.spotify.com/artist/1RSbNk7FYQjvHpKk84NLrU) | [Sky Full Of Stars](https://open.spotify.com/album/12y1n8NzSBGNfBuUpzXCDR) | 4:28 | 2021-12-08 |  |
 | [Next to Nothing](https://open.spotify.com/track/15BlDyzMK5LyPeHmjRhoAm) | [Gaia Rosica](https://open.spotify.com/artist/7jteRLzoo9MVBSeFJYWK1h) | [Next to Nothing](https://open.spotify.com/album/4CONKmQtx7RqgTkJqH8xAp) | 2:46 | 2022-01-19 |  |
 | [Night Light](https://open.spotify.com/track/00mZmQ1kdWxmRtEA3A9olx) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 2:03 | 2021-12-08 |  |
@@ -222,7 +222,7 @@
 | [Yalmi](https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE) | [Merc La](https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS) | [Yalmi](https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT) | 2:23 | 2022-04-21 |  |
 | [Yearning](https://open.spotify.com/track/2eEmTR3Z7KnbZ6wkctRIjO) | [Samira Tesfay](https://open.spotify.com/artist/353EbCGpBHIyVTPMgttcSy) | [Yearning](https://open.spotify.com/album/6LyHuxpp4ZHCzqizxMr6bQ) | 2:24 | 2021-12-08 |  |
 | [Yellow](https://open.spotify.com/track/5aadCHkKtIIAwkUAQRiiv9) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [Beach Waves](https://open.spotify.com/album/51VYJwvNDONE60PEjNZYQC) | 2:50 | 2021-12-08 |  |
-| [Yoga Depth](https://open.spotify.com/track/32HG8Lvryuz8NCQQW0YO46) | [Elevie J](https://open.spotify.com/artist/11nQp4wRj814vcNBbVKXua) | [Yoga Depth](https://open.spotify.com/album/7zWRfbF3Jzfku0Wbztivo7) | 0:29 | 2021-12-08 |  |
+| [Yoga Depth](https://open.spotify.com/track/32HG8Lvryuz8NCQQW0YO46) | [Elevie J](https://open.spotify.com/artist/11nQp4wRj814vcNBbVKXua) | [Yoga Depth](https://open.spotify.com/album/7zWRfbF3Jzfku0Wbztivo7) | 2:12 | 2021-12-08 |  |
 | [Zeppelin See](https://open.spotify.com/track/5SxlRbsS4E5t0d76Cc0LHG) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Zeppelin See](https://open.spotify.com/album/4x9XZ03dgMjcEjcxSm9aBa) | 2:59 | 2022-03-08 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

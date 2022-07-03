@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/71WgbCkbVXGzAltJTAT6lD.md) - [plain]
 
 > Slip into the world of Brian Eno...
 
-[Spotify](https://open.spotify.com/user/spotify) - 148 likes - 23 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 148 likes - 23 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/71WgbCkbVXGzAltJTAT6lD.md) - [plain]
 | 17 | [Slip, Dip](https://open.spotify.com/track/2YyXej3Cwztlc8ijBDh5vR) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Drop](https://open.spotify.com/album/6Fb5fYghhLgnEniAMICvjA) | 2:18 |
 | 18 | [Neroli](https://open.spotify.com/track/6oW8CEEQjzVVC1ddFVnUUe) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Neroli \(Thinking Music Part IV\)](https://open.spotify.com/album/4hLSor8c1uDJ8ns0WZL3dz) | 57:56 |
 | 19 | [Riverside](https://open.spotify.com/track/4xa1qfpsyLpq8EqVIlcgka) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Shutov Assembly](https://open.spotify.com/album/24tydQEhQTIlAaGNk9LrPv) | 3:51 |
-| 20 | [Thursday Afternoon \- 2005 Digital Remaster](https://open.spotify.com/track/4t3Yh6tKkxXrc458pNI7zZ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Thursday Afternoon](https://open.spotify.com/album/6AKF0REZoFiXMorWDpSiZt) | 0:29 |
+| 20 | [Thursday Afternoon \- 2005 Digital Remaster](https://open.spotify.com/track/4t3Yh6tKkxXrc458pNI7zZ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Thursday Afternoon](https://open.spotify.com/album/6AKF0REZoFiXMorWDpSiZt) | 1:00:50 |
 | 21 | [Spirits Drifting \- 2004 Digital Remaster](https://open.spotify.com/track/0CUTdiwHWlO3VGWHQxpbeo) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 2:36 |
 | 22 | [Taking Tiger Mountain \- 2004 Digital Remaster](https://open.spotify.com/track/7B7pBku79p0GVWWRJ88Aiq) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Taking Tiger Mountain \(By Strategy\)](https://open.spotify.com/album/1IMbtEVdtaFz0PPiq4brLZ) | 5:32 |
 | 23 | [Northern Lights](https://open.spotify.com/track/6M2JXcfJK9bQyVuvHvXo73) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [More Music For Films](https://open.spotify.com/album/47N5UQf6LPphxJGAHjTnMQ) | 2:13 |

@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-483 songs - 1 day 7 hr 31 min - [published](https://open.spotify.com/playlist/4yzYNda5nlPjjTxwWfgbGS)
+483 songs - 1 day 7 hr 33 min - [published](https://open.spotify.com/playlist/4yzYNda5nlPjjTxwWfgbGS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Feelings Pt\. 2](https://open.spotify.com/track/1trBZuNfkopXnnvxgOr4tt) | [Genzlinger](https://open.spotify.com/artist/1CG6oa21WSjpjtNPhAOqmN) | [Feelings Pt\. 2](https://open.spotify.com/album/3J5LyLG4PJGoNtnyGZJzxa) | 3:19 | 2021-10-16 |  |
 | [Fire Sprinkler System: On](https://open.spotify.com/track/5k22f3yE7QCTEUElSuIWB3) | [Midnight Cycler](https://open.spotify.com/artist/3SBMxed906yvEy1tA8Avaj) | [Sticky Bottle EP](https://open.spotify.com/album/3qV8k73DqSusDiqVyVoFMn) | 3:22 | 2020-12-24 | 2021-03-06 |
 | [Flame](https://open.spotify.com/track/1u9XkKxQr2jAvCCXnfBCZF) | [MOOGADISHU](https://open.spotify.com/artist/0cV2d206HjrISLX6hSkktp) | [Flame](https://open.spotify.com/album/4WLc49NOKBLD3VXPDvPziF) | 4:01 | 2020-11-28 |  |
-| [Flawless](https://open.spotify.com/track/18QHvKoP8RZDE6kWYWwd04) | [Beau Bailey\-Lang](https://open.spotify.com/artist/0HlA2jPYIXgwX8PhZwqmIH) | [Flawless](https://open.spotify.com/album/7ymPGmNjcueeThs05uQVNs) | 0:29 | 2021-05-13 |  |
+| [Flawless](https://open.spotify.com/track/18QHvKoP8RZDE6kWYWwd04) | [Beau Bailey\-Lang](https://open.spotify.com/artist/0HlA2jPYIXgwX8PhZwqmIH) | [Flawless](https://open.spotify.com/album/7ymPGmNjcueeThs05uQVNs) | 2:33 | 2021-05-13 |  |
 | [Flickering](https://open.spotify.com/track/4VEUWkLdvL5TBDR4nHvorp) | [Pipo W](https://open.spotify.com/artist/6ZNEs0261UezCJ2TG0G0x0) | [Flickering](https://open.spotify.com/album/6WrJfmSsT3SkOajiVX54Ym) | 2:41 | 2021-06-04 | 2021-10-16 |
 | [Flight Mode](https://open.spotify.com/track/7qkXUGRizQr30isUVuprza) | [Airdust](https://open.spotify.com/artist/0oVvIMz128nLKgCgmNgJLQ) | [Flight Mode](https://open.spotify.com/album/1BBzpUYZvkVQalkOJ7i8q6) | 3:56 | 2020-10-20\* | 2021-01-15 |
 | [Floating In Space](https://open.spotify.com/track/4iUX9qCWkcwLkZCH8AFzCc) | [Nicolello](https://open.spotify.com/artist/7IWbQLZ91NbHT6EiaF5l9V) | [Floating In Space](https://open.spotify.com/album/1bMdQiOFa3WLbiRmfO5GTb) | 2:32 | 2021-07-09 |  |

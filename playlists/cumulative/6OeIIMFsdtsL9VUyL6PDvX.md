@@ -4,7 +4,7 @@
 
 > All the hottest current Indie music you need....in one stop.
 
-50 songs - 3 hr 11 min - [published](https://open.spotify.com/playlist/25DWmuJQX0GyTqwbrYtz4k)
+50 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/25DWmuJQX0GyTqwbrYtz4k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,11 +25,11 @@
 | [Dirty Paws](https://open.spotify.com/track/1v0JeWn88JGmETJGVKVpcY) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [The Secret Life Of Walter Mitty \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7uFQTjB1C5Wa61owwtrYJ3) | 4:31 | 2015-05-07 |  |
 | [Do I Wanna Know?](https://open.spotify.com/track/49h0RYK3yzWkfbVyNJjJ01) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Do I Wanna Know?](https://open.spotify.com/album/3ttygSi8PC7paH1m7TsmbB) | 4:33 | 2015-05-07 |  |
 | [Do You](https://open.spotify.com/track/08a6PhXyXeN3lv1DCKW9qY) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [They Want My Soul](https://open.spotify.com/album/55TZx6GWm1hlEbRgkGRjma) | 3:32 | 2015-05-07 |  |
-| [Dude Incredible](https://open.spotify.com/track/1MKNjAo6vqWmxmcQynTRsi) | [Shellac](https://open.spotify.com/artist/6I8R5MFTlez7rHCsH4cx0u) | [Dude Incredible](https://open.spotify.com/album/08Gcxmsf2nG2RNadFFxnQx) | 0:29 | 2015-05-07 |  |
+| [Dude Incredible](https://open.spotify.com/track/1MKNjAo6vqWmxmcQynTRsi) | [Shellac](https://open.spotify.com/artist/6I8R5MFTlez7rHCsH4cx0u) | [Dude Incredible](https://open.spotify.com/album/08Gcxmsf2nG2RNadFFxnQx) | 6:00 | 2015-05-07 |  |
 | [Every Other Freckle](https://open.spotify.com/track/41mxwoVT3EN4keZOHH7m7U) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Every Other Freckle](https://open.spotify.com/album/6X10lYDTGd8C5yPqmUYsFl) | 3:36 | 2015-05-07 |  |
 | [Every Time the Sun Comes Up](https://open.spotify.com/track/38ydcsbayM4oX21Hhu84DT) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/0F1pMhF8Vy74nKkQeLBfrd) | 4:22 | 2015-05-07 |  |
 | [Fall In Love](https://open.spotify.com/track/5imUTBF35uIoABlV9g9da2) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Voices](https://open.spotify.com/album/2R2Cwe4kI8b2WObXZ90wOC) | 3:43 | 2015-05-07 |  |
-| [Fools Gold](https://open.spotify.com/track/3goyor536uLlIuv0zHgq0B) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream \(Deluxe Edition\)](https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK) | 0:29 | 2015-05-07 |  |
+| [Fools Gold](https://open.spotify.com/track/3goyor536uLlIuv0zHgq0B) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream \(Deluxe Edition\)](https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK) | 3:34 | 2015-05-07 |  |
 | [Geronimo](https://open.spotify.com/track/21Go4aMyLGP40ANI3TU0Fn) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Geronimo](https://open.spotify.com/album/4GhtfAgvmWifKe6LrMlnqx) | 3:38 | 2015-05-07 |  |
 | [Gotta Get Away](https://open.spotify.com/track/3wf3jWAQHsnPNfUtNSQvkz) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Gotta Get Away](https://open.spotify.com/album/00evzQcmYUA8nSjrfGSqUZ) | 3:00 | 2015-05-07 |  |
 | [Happy Idiot](https://open.spotify.com/track/63mnZ0zF5fBwJzYg2pDo9e) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Seeds](https://open.spotify.com/album/2pJdnCpeXm3KVUlyuNSeRX) | 3:03 | 2015-05-07 |  |
@@ -44,7 +44,7 @@
 | [No Rest for the Wicked](https://open.spotify.com/track/2gCvWjrHt6PVJjIN1amlje) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [I Never Learn](https://open.spotify.com/album/4fGqfyineAZmulNxgitERh) | 3:42 | 2015-05-07 |  |
 | [Oblivion](https://open.spotify.com/track/4P6n0udLAnmCNXVcobYbsK) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE) | 4:11 | 2015-05-07 |  |
 | [Queen](https://open.spotify.com/track/3VzRBOVcABRjlIhu11OQn5) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Queen](https://open.spotify.com/album/5JYC2lqvTESgpElo0QDkMy) | 3:50 | 2015-05-07 |  |
-| [Red Eyes](https://open.spotify.com/track/71jGGLe5VtEHjIk5dU2W3S) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5) | 0:29 | 2015-05-07 |  |
+| [Red Eyes](https://open.spotify.com/track/71jGGLe5VtEHjIk5dU2W3S) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5) | 4:58 | 2015-05-07 |  |
 | [Reflektor](https://open.spotify.com/track/6vBqrLmURedwYNqnT2HsCp) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Reflektor](https://open.spotify.com/album/3MwhkCLD5pYEe0WOBCmhX5) | 7:33 | 2015-05-07 |  |
 | [Seasons \(Waiting On You\) \[BADBADNOTGOOD Reinterpretation\]](https://open.spotify.com/track/5ZwPh4nNgNChn3b5ZAXhzA) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Seasons \(Waiting On You\) \[BADBADNOTGOOD Reinterpretation\]](https://open.spotify.com/album/6NWRTIbIatry649bVKiD1r) | 3:43 | 2015-05-07 |  |
 | [Shot At The Night](https://open.spotify.com/track/6HXaYcCPj5ALJwgtkWOgaJ) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Direct Hits](https://open.spotify.com/album/5ewSL66uUdCdAdWvUmbfTd) | 4:02 | 2015-05-07 |  |

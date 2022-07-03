@@ -4,7 +4,7 @@
 
 > The best mix of today's Christian music, all genres, worldwide\.  Cover:  Citizens
 
-281 songs - 19 hr 20 min - [published](https://open.spotify.com/playlist/3IGSOKftgGE885pvp0BADM)
+281 songs - 19 hr 23 min - [published](https://open.spotify.com/playlist/3IGSOKftgGE885pvp0BADM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [God, Turn It Around](https://open.spotify.com/track/3zt6T5xcqLJRYnQq0yqQaR) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [God, Turn It Around](https://open.spotify.com/album/7ut7XWszYs3hgaOwlsdlDN) | 4:15 | 2022-01-21 |  |
 | [Good God](https://open.spotify.com/track/0oBjCx63OwKT7anxNGO48A) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [God's Favourite Baby](https://open.spotify.com/album/6tIEth6WoH5RhYFvsMN2wF) | 3:35 | 2021-12-17 | 2022-03-05 |
 | [Good Memories](https://open.spotify.com/track/4XhrBsxPkuFNAPojs3svt0) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Good Memories](https://open.spotify.com/album/7uLIpkA9rqJIvEiMeDDkmH) | 3:11 | 2021-12-17 | 2022-03-12 |
-| [Good Mood](https://open.spotify.com/track/0he118W7JdHcfV0ooMYt7X) | [RICHLIN](https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb) | [Good Mood](https://open.spotify.com/album/6p5sAqadaOyuHTiuhGujJx) | 0:29 | 2022-03-04 |  |
+| [Good Mood](https://open.spotify.com/track/0he118W7JdHcfV0ooMYt7X) | [RICHLIN](https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb) | [Good Mood](https://open.spotify.com/album/6p5sAqadaOyuHTiuhGujJx) | 3:11 | 2022-03-04 |  |
 | [Good Morning Mercy](https://open.spotify.com/track/65pxpJbOeIc2oXexkr5vfU) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Good Morning Mercy](https://open.spotify.com/album/5F7deqvU0BTbsTIzr8rKnM) | 3:18 | 2022-04-29 | 2022-06-25 |
 | [Good Things](https://open.spotify.com/track/1CSSjxVMn8S51x1kC2yJ4z) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Kenzie Walker](https://open.spotify.com/artist/4VJFpqwAvZKRah8klcHmFy), [Luis Vicens](https://open.spotify.com/artist/3rCr2BPIbxiC5aikVFhPlk) | [Walk with You](https://open.spotify.com/album/0qFxivCbnRrBlXwhvQlrYV) | 6:14 | 2022-02-04 | 2022-05-07 |
 | [Good To Be Loved By You \(with Tyler Hubbard\)](https://open.spotify.com/track/62q03kZpF2r4d8rfLcExsu) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Chris Tomlin & Friends: Summer EP](https://open.spotify.com/album/7pfDAfc2EmNkl5TTVdVx5z) | 3:21 | 2021-12-17 | 2022-02-26 |

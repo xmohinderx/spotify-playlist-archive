@@ -4,7 +4,7 @@
 
 > The biggest Armada tracks of the moment! \| Updated weekly on Friday \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! Cover: ARTY
 
-164 songs - 8 hr 39 min - [published](https://open.spotify.com/playlist/2VKYZJ3lSyTEDXrKo18ci6)
+164 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/2VKYZJ3lSyTEDXrKo18ci6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Running \(feat\. Meg Myers\) \- Original Mix](https://open.spotify.com/track/6fbNKnzlcQzbtryQYSxpMb) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Running](https://open.spotify.com/album/2e9HNBkCn2I9WM3J7JzRsw) | 6:25 | 2022-06-20 |  |
 | [Save Me](https://open.spotify.com/track/7HwguyXxWy1xYfAxGstDKi) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz), [JRM](https://open.spotify.com/artist/1NbmG1Fj64qykEcJt1d43a) | [Save Me](https://open.spotify.com/album/0JpC3lX4iuzhNtaslimmd0) | 2:25 | 2022-06-09 |  |
 | [Say It Again](https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Say It Again](https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6) | 3:27 | 2022-06-09 |  |
-| [See](https://open.spotify.com/track/6dNjwLlwBLJ8Y9QqAWoFy5) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [QG](https://open.spotify.com/artist/2MtpoQ7X39CySVKyTPcTde) | [See](https://open.spotify.com/album/6AmI6DcY5HSiGKy8jXQ6lA) | 0:29 | 2022-06-09 |  |
+| [See](https://open.spotify.com/track/6dNjwLlwBLJ8Y9QqAWoFy5) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [QG](https://open.spotify.com/artist/2MtpoQ7X39CySVKyTPcTde) | [See](https://open.spotify.com/album/6AmI6DcY5HSiGKy8jXQ6lA) | 2:27 | 2022-06-09 |  |
 | [Sete](https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3) | 3:29 | 2022-06-09 |  |
 | [Silence \- AVIRA Remix](https://open.spotify.com/track/3HLCOthcpNZteCJ3j2IOfF) | [Delerium](https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS) | [Armada Electronic Elements \- Ibiza 2022](https://open.spotify.com/album/6U9PO4D4bzErgGG2B8eCL1) | 4:40 | 2022-06-10 | 2022-06-17 |
 | [Silence \- AVIRA Remix](https://open.spotify.com/track/4Yv1HD4KahtoTBnYyO2EeX) | [Delerium](https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS) | [Silence \(AVIRA Remix\)](https://open.spotify.com/album/6cJysGEm7en9Lg6Cxvb8Sa) | 4:40 | 2022-06-09 |  |

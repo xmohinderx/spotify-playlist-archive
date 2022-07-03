@@ -4,7 +4,7 @@
 
 > Chique e confortável como a realeza do Trap\. Foto: Malcolm VL
 
-103 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/5jkslhwBFHauhbdOEgkwD4)
+103 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/5jkslhwBFHauhbdOEgkwD4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Ouro \(Versus Vol\. 1\) \[feat\. Tropkillaz\]](https://open.spotify.com/track/7i8F768LPwiIlxzmUaTXqi) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [Ouro \(Versus Vol\. 1\) \[feat\. Tropkillaz\]](https://open.spotify.com/album/4Ctt2tTwOFEA3MtCfdzwDl) | 3:56 | 2022-03-18 | 2022-04-02 |
 | [Outra Vez](https://open.spotify.com/track/3iGRHR2keH35e9WoxOWmZu) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Outra Vez](https://open.spotify.com/album/3feoSyeCZPVS0SROIuQr8j) | 4:11 | 2022-03-25 | 2022-04-29 |
 | [OUTRO PATAMAR](https://open.spotify.com/track/48zE1jY1K1oqjpD3G6UGfH) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [OUTRO PATAMAR](https://open.spotify.com/album/1nb3EIZXO75bxWDz0Agxfo) | 3:26 | 2022-03-18 |  |
-| [Panamera](https://open.spotify.com/track/1z61dHpzFnpbLQFZl8GjLH) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Elenko Music](https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL) | [Panamera](https://open.spotify.com/album/63pxCSJJWJScWObD1R2Wzm) | 0:29 | 2022-03-18 |  |
+| [Panamera](https://open.spotify.com/track/1z61dHpzFnpbLQFZl8GjLH) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Elenko Music](https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL) | [Panamera](https://open.spotify.com/album/63pxCSJJWJScWObD1R2Wzm) | 2:37 | 2022-03-18 |  |
 | [Paypal](https://open.spotify.com/track/6x1FttETfbRLerumlTn0ZH) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [previas.zip](https://open.spotify.com/album/1Mp4qx0rzYoZHXmTX5ViS4) | 2:46 | 2022-03-18 | 2022-04-23 |
 | [Pingente Novo](https://open.spotify.com/track/2gdIbUAmKQlFmvTaZ3mN4b) | [CH Wallan](https://open.spotify.com/artist/7lRr6awlJ9CMgjEVWXJOcH), [Jhowzin](https://open.spotify.com/artist/5l8uNQWdIozojTbL2tzBa7), [BlakkClout](https://open.spotify.com/artist/4pZ2z5NE2z1vvdRqf7q0Gq) | [Pingente Novo](https://open.spotify.com/album/0ooGNs10KcCXMu6j9r0bQF) | 3:20 | 2022-04-08 | 2022-04-16 |
 | [PISANDO FOFO](https://open.spotify.com/track/5piCfoJLleAaccELaQHGbz) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 4:14 | 2022-03-18 | 2022-04-29 |

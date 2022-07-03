@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwRv0cVNFLv.md) - [plain]
 
 > Sounds of the city to help you drift off.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,730 likes - 113 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,754 likes - 113 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwRv0cVNFLv.md) - [plain]
 | 57 | [Medium Traffic with Light Pedestrians in Vienna, Austria](https://open.spotify.com/track/31RLuj4tW8UI6BoacHDH7Z) | [Sound Ideas](https://open.spotify.com/artist/5zFOVxtYkKdqwYdG9bASRR) | [City Sounds](https://open.spotify.com/album/6GVHYaRJmXq1nhzFZGNOi6) | 2:59 |
 | 58 | [New York Drops](https://open.spotify.com/track/3XzKuDoEmqQTjRREbtJLvI) | [Microdynamic Recordings](https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9) | [Rain on 5th Avenue](https://open.spotify.com/album/4HmZN79G56hg3ZjUstWDNe) | 3:08 |
 | 59 | [Clear Mind City Din](https://open.spotify.com/track/4kCFKM6Ps8MzR6mriQvFPM) | [Placid City Noises](https://open.spotify.com/artist/1TBtXqWyG1D88PkT2t2tzx) | [City Soft Mellow Noises for Calm](https://open.spotify.com/album/3lNghPfEuhnrG3AZYfpPJU) | 1:02 |
-| 60 | [Summer Streets in the City](https://open.spotify.com/track/7dfyrLIdlmNAXClT7jaX0N) | [City Street Sounds](https://open.spotify.com/artist/4iE4h22A6EQ7VOgA2yjj3N) | [Summer Streets in the City](https://open.spotify.com/album/054dvIjKLYKFw3ZnCtZv3U) | 0:29 |
+| 60 | [Summer Streets in the City](https://open.spotify.com/track/7dfyrLIdlmNAXClT7jaX0N) | [City Street Sounds](https://open.spotify.com/artist/4iE4h22A6EQ7VOgA2yjj3N) | [Summer Streets in the City](https://open.spotify.com/album/054dvIjKLYKFw3ZnCtZv3U) | 3:50 |
 | 61 | [City Dreams In Rain](https://open.spotify.com/track/56CDwaVRc5gotnn84fs8yA) | [High Sampling](https://open.spotify.com/artist/4DtTcZucLzox7VtkpWsVBw) | [City Dreams In Rain](https://open.spotify.com/album/34IgT3fjg8Y6OvYXtOlyzk) | 2:58 |
 | 62 | [Calm Rain In Amsterdam](https://open.spotify.com/track/0mMU6uYrfUTg56cmiHEEX5) | [X.L.T](https://open.spotify.com/artist/5XmANDHn1nUVL3rVyohz9t) | [Calm Rain In Amsterdam](https://open.spotify.com/album/5DhKyOGI7pqsnzfcoIGzyF) | 2:50 |
 | 63 | [Cars and Trucks](https://open.spotify.com/track/3yAdUYeGo2Blv6rYzAdew4) | [City Traffic Sounds](https://open.spotify.com/artist/7ra3tM5uLvxNIVjXwA5C67) | [Morning City Traffic Sounds for Relaxation](https://open.spotify.com/album/021TKxRU0hMNGd1Mjw2VvY) | 1:06 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwRv0cVNFLv.md) - [plain]
 | 69 | [City Sleep](https://open.spotify.com/track/0n8UIpyQFj3Gy3JzIHCslg) | [Avenue](https://open.spotify.com/artist/7LnO6j07JcAqyWyEA2nQvJ) | [The City](https://open.spotify.com/album/2jdhDExTr1u73U6EfPfDnx) | 2:35 |
 | 70 | [Urban Trickles](https://open.spotify.com/track/1pWL1vFXkSSGBUvvnlbQw9) | [Slumbertronica](https://open.spotify.com/artist/3UOooFmP4gSx8I5fnj7dni) | [Urban Atmos](https://open.spotify.com/album/1jpXonUYtmfRIxJxPZbjR7) | 3:12 |
 | 71 | [Night Sounds From The Street](https://open.spotify.com/track/5oLwC18sIng5AeUru62s7Z) | [Lane](https://open.spotify.com/artist/0pHsIc2RdREbDBTUtVsyep) | [Night Sounds From The Street](https://open.spotify.com/album/0g0tk1XvLGWcft9f96ySJC) | 2:40 |
-| 72 | [Buses and Taxis in NYC](https://open.spotify.com/track/0Spetrm5tqbX21HXaRv9w8) | [City Street Sounds](https://open.spotify.com/artist/4iE4h22A6EQ7VOgA2yjj3N) | [Summer Streets in the City](https://open.spotify.com/album/054dvIjKLYKFw3ZnCtZv3U) | 0:29 |
+| 72 | [Buses and Taxis in NYC](https://open.spotify.com/track/0Spetrm5tqbX21HXaRv9w8) | [City Street Sounds](https://open.spotify.com/artist/4iE4h22A6EQ7VOgA2yjj3N) | [Summer Streets in the City](https://open.spotify.com/album/054dvIjKLYKFw3ZnCtZv3U) | 2:42 |
 | 73 | [Stockholm Rain Sounds](https://open.spotify.com/track/7nic1ik8zIEPO7phQujFrE) | [Factorial FX](https://open.spotify.com/artist/16weRDppbG11cOcQQtKjFu) | [Stockholm Rain Sounds](https://open.spotify.com/album/1Ed3g8Qafy7h7cW3mCbmUD) | 3:08 |
 | 74 | [Gare de l'Est Train Station Rain](https://open.spotify.com/track/00ezAYnWWeeanPZb9JhyWg) | [Stereo Outdoor Sampling](https://open.spotify.com/artist/34IdTgwUmZY7V5J44aFSzR) | [Gare de l'Est Train Station Rain](https://open.spotify.com/album/7y8HbjHqQISwal8L5ieZs5) | 2:12 |
 | 75 | [A Walk Through The Park](https://open.spotify.com/track/2suuX2tFzVD4tB0G7AsusR) | [Lane](https://open.spotify.com/artist/0pHsIc2RdREbDBTUtVsyep) | [Sidewalk Stories](https://open.spotify.com/album/2woqstYi8ztMzkiWS3O8FP) | 2:33 |

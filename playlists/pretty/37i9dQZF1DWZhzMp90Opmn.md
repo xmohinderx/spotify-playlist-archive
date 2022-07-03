@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhzMp90Opmn.md) - [plain]
 
 > The perfect frequency for sleep or study – science tested, listener approved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,896 likes - 150 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,291 likes - 150 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,7 +141,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhzMp90Opmn.md) - [plain]
 | 131 | [Warm Pink Noise Calm](https://open.spotify.com/track/3SmQ86VIG7DyhPwq1AvPpF) | [Chill Machine](https://open.spotify.com/artist/5WgxsjkwvovtMgSn6nPa79) | [Meditation: Pink Noise](https://open.spotify.com/album/3lY3RCq398FEqQQOUVAeUU) | 9:50 |
 | 132 | [The Deep White](https://open.spotify.com/track/0qaFcuTx3BEEu4ZSaKCfiu) | [Taekoma](https://open.spotify.com/artist/2T7PXFO7TnyryQ8dvpD9Di) | [The Deep White](https://open.spotify.com/album/5I2zI1uaNWKCgyvY6VhbO4) | 3:08 |
 | 133 | [Fan](https://open.spotify.com/track/66sCxW9FxEbL0gQzeMVg4G) | [Dream Shard](https://open.spotify.com/artist/3EUg5IOxGnBPtjK0uzMxcJ) | [Baby Sleep Pink Noise](https://open.spotify.com/album/2Wv2eQ2Zs6bQm8DOC1Cxng) | 2:14 |
-| 134 | [Calm Pink Noise](https://open.spotify.com/track/0RWHqbzfBCpJMm3EdOoUcP) | [Calm Meditation Therapy](https://open.spotify.com/artist/6Sl07KtjPR6R2QL0Wgaiwh) | [Calm Pink Noise](https://open.spotify.com/album/5OoNz2sulhAIr7nU48jnRJ) | 0:29 |
+| 134 | [Calm Pink Noise](https://open.spotify.com/track/0RWHqbzfBCpJMm3EdOoUcP) | [Calm Meditation Therapy](https://open.spotify.com/artist/6Sl07KtjPR6R2QL0Wgaiwh) | [Calm Pink Noise](https://open.spotify.com/album/5OoNz2sulhAIr7nU48jnRJ) | 4:00 |
 | 135 | [Filtered Pink Noise for Babies \- Loopable with No Fade](https://open.spotify.com/track/3hIb40Bp5iSMjz0GI5SRm0) | [Pink Noise Babies](https://open.spotify.com/artist/3IbU77P0FS0SrnmP45ssrx) | [Pink Noise Baby Sleep](https://open.spotify.com/album/5jeTMRAZzpsQqrgYaISKiR) | 3:15 |
 | 136 | [Beneath The Surface](https://open.spotify.com/track/48X2dWdhT84ZS6lj6ZDjoD) | [Sleeping Ocean](https://open.spotify.com/artist/49PiZXcGBtgO9CwPC0SUGw) | [Beneath The Surface](https://open.spotify.com/album/78i64SMc5sjTETYK3RuWYh) | 3:11 |
 | 137 | [Deep Pink Noise Sleep \(Fan Sound Sleep Baby Loopable\)](https://open.spotify.com/track/3osTSXefGQzm2OXO4VDMMA) | [Noise Cancelling Headphones for Sleep](https://open.spotify.com/artist/2S1I3oTqN0SkW41lAYpbgS), [White Noise Sleep Sound, White Noise Collection, White Noise Baby Sleep, White Noise Sleep](https://open.spotify.com/artist/1WJWklmLg2uOCN6IBnjeF6) | [Earbuds Quiet Comfort Noise Killer\. White Noise with Brown Noise Sounds for Sleep and Comfort.](https://open.spotify.com/album/6VYUFoGTWM97nsyi12SIkK) | 1:02 |
@@ -149,7 +149,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhzMp90Opmn.md) - [plain]
 | 139 | [SCHLAF Schlaf schlaf](https://open.spotify.com/track/4wFnLXGIvk1Hw81jLMp99X) | [A Dreaming Machine](https://open.spotify.com/artist/7rybj6DFBE9HYjDsD4ILuA) | [SCHLAF Schlaf schlaf](https://open.spotify.com/album/0APmuU8SkyvHyfL2EomwtE) | 2:00 |
 | 140 | [Pink Silence](https://open.spotify.com/track/0qJE33MYzgOcTaYbgYgEo4) | [Silent Minds](https://open.spotify.com/artist/009SOp6SdjyYDnvlhZgcQ1) | [Pink Silence](https://open.spotify.com/album/7Gw5jvj8z2derso0YxUPGa) | 2:52 |
 | 141 | [Floating In Space](https://open.spotify.com/track/3n8zGNUwx0RM8vCFloLaBX) | [Galaxial](https://open.spotify.com/artist/4BniOFwcRpQCq7MjHB62lg) | [Galaxial Noise](https://open.spotify.com/album/6mvq7ApPd4ibwN4XjEE3On) | 3:08 |
-| 142 | [Sleep Better Pink Noise](https://open.spotify.com/track/58ILtqqwQdWbjkS4LPuM0L) | [Calm Meditation Therapy](https://open.spotify.com/artist/6Sl07KtjPR6R2QL0Wgaiwh) | [Calm Pink Noise](https://open.spotify.com/album/5OoNz2sulhAIr7nU48jnRJ) | 0:29 |
+| 142 | [Sleep Better Pink Noise](https://open.spotify.com/track/58ILtqqwQdWbjkS4LPuM0L) | [Calm Meditation Therapy](https://open.spotify.com/artist/6Sl07KtjPR6R2QL0Wgaiwh) | [Calm Pink Noise](https://open.spotify.com/album/5OoNz2sulhAIr7nU48jnRJ) | 4:00 |
 | 143 | [Dreamy Sleep](https://open.spotify.com/track/5wIRZTULzVoGekyTkKG36Z) | [Latium](https://open.spotify.com/artist/2tLNY5INS60mwIOdmPuhV2) | [Dreamy Sleep](https://open.spotify.com/album/4xzulEzQXjzINJWJroVxET) | 2:07 |
 | 144 | [Insomnia Therapy](https://open.spotify.com/track/6HFLPFtg5YmuP1OLlP0H2z) | [Latium](https://open.spotify.com/artist/2tLNY5INS60mwIOdmPuhV2) | [Dreamy Sleep](https://open.spotify.com/album/4xzulEzQXjzINJWJroVxET) | 1:42 |
 | 145 | [Deep Pink Noise for Sleep \- Loopable with No Fade](https://open.spotify.com/track/2aRsCla2NJKzpP19PMgjnR) | [Pink Noise Babies](https://open.spotify.com/artist/3IbU77P0FS0SrnmP45ssrx) | [Pink Noise Baby Sleep](https://open.spotify.com/album/5jeTMRAZzpsQqrgYaISKiR) | 3:15 |

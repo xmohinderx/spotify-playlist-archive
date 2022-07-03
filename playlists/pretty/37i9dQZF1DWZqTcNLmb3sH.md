@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : KGF 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,713 likes - 106 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,787 likes - 106 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 87 | [Ninnalle](https://open.spotify.com/track/2zWGkDB3eaWDCctxwYr14q) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Shweta Pandit](https://open.spotify.com/artist/4L0JycQCCwKksT3G5SVApu) | [Radhe Shyam](https://open.spotify.com/album/1kjkfSQ954S0wZRlrBmkII) | 3:59 |
 | 88 | [Kande Ninnalli \(From "Anurakti"\)](https://open.spotify.com/track/7KL1jA6pFyDlVHMtsRZL8R) | [Praveen Srinivasmurthy](https://open.spotify.com/artist/0j797yShflaeSHwSXgvudO), [Madhuri Seshadri](https://open.spotify.com/artist/4so2LO2B3OqrAlpG9ulXqx), [Supriya Joshi](https://open.spotify.com/artist/5DoEZi8HmGHT8FcBP2zpsB) | [Kande Ninnalli \(From "Anurakti"\)](https://open.spotify.com/album/2QzvKrF5B6tPi4Zgug6HNV) | 3:14 |
 | 89 | [Baglu Tegi Meri Jaan \(From "Thothapuri Chapter \- 1"\)](https://open.spotify.com/track/4VeRswJya2QlQX8aFfLVzS) | [J\. Anoop Seelin](https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R), [Vyasraj Sosale](https://open.spotify.com/artist/2kUH5PlbfTRfChKtfp6JCE), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8), [Supriyaa Ram](https://open.spotify.com/artist/6ZRC0Bc7Dcx49chE1ppbkp) | [Baglu Tegi Meri Jaan \(From "Thothapuri Chapter \- 1"\)](https://open.spotify.com/album/6HAQ3HmlSTknmFJf8uikVh) | 3:38 |
-| 90 | [Bekaagide \(From "Family Pack"\)](https://open.spotify.com/track/3JoRp9FCBFzqjaLjjEukTF) | [Viraj Kannadiga](https://open.spotify.com/artist/6CypdIb3CMp5anB6ZuHrBg) | [Bekaagide \(From "Family Pack"\)](https://open.spotify.com/album/78PAq8vbZrz6A0d1WSrUGf) | 0:29 |
+| 90 | [Bekaagide \(From "Family Pack"\)](https://open.spotify.com/track/3JoRp9FCBFzqjaLjjEukTF) | [Viraj Kannadiga](https://open.spotify.com/artist/6CypdIb3CMp5anB6ZuHrBg) | [Bekaagide \(From "Family Pack"\)](https://open.spotify.com/album/78PAq8vbZrz6A0d1WSrUGf) | 4:00 |
 | 91 | [Yaake Aadhe Nange](https://open.spotify.com/track/4dtE1B6Rkl4vEBFISnPyCB) | [Anuradha Bhat](https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY), [Keerthan Holla](https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re) | [Rider](https://open.spotify.com/album/3VxTBJv1oM2VcHEQ8JuXKE) | 3:45 |
 | 92 | [Yaare Yaare](https://open.spotify.com/track/07VLlbJ0Xk5s9lqVfkUKEI) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Ek Love Ya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4QOXsn9u91ufIcv50eI90F) | 3:22 |
 | 93 | [Naguvantha Thaareye](https://open.spotify.com/track/4Qs8PEXlgd1ukTAvEez5A1) | [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB) | [Radhe Shyam](https://open.spotify.com/album/1kjkfSQ954S0wZRlrBmkII) | 4:54 |

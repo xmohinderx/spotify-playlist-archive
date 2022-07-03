@@ -4,7 +4,7 @@
 
 > 設立10周年を迎えた<a href="http://www.mappa.co.jp/">MAPPA</a>。2022年6月までに公開された作品の音楽をひとつのプレイリストに。Listen to the songs from 30+ anime shows MAPPA has produced in the last decade of its history!
 
-100 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/07kV54ieqgmMg9uw7cCsZ1)
+100 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/07kV54ieqgmMg9uw7cCsZ1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [give it back](https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [give it back](https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI) | 3:32 | 2022-05-10 |  |
 | [HERO](https://open.spotify.com/track/10rYKVajlQ1t2zFJ3HpR3D) | [Sonar Pocket](https://open.spotify.com/artist/4kuP7AbiovQdVXJkRHeq4w) | [HERO/Good bye 大切な人。](https://open.spotify.com/album/0t4BvgedMXBBELE75lLaaU) | 4:04 | 2022-05-10 |  |
 | [HHOOWWLL](https://open.spotify.com/track/4RCqYqtn5WTmb2J5SfWp91) | [Gero×ARAKI](https://open.spotify.com/artist/3ZgB12rTRvnMVnoi9byaEB) | [HHOOWWLL](https://open.spotify.com/album/5ELxBrDn6T7zqxiifb1X4V) | 4:05 | 2022-05-10 |  |
-| [Higher Climber](https://open.spotify.com/track/19OB0SmE7xO1jmiaSTd1QE) | [HOWL BE QUIET](https://open.spotify.com/artist/56jhSmJBKSKee5kUAlJjbX) | [Mr\. HOLIC](https://open.spotify.com/album/0DNteSo4zdyJ8H9KxoKekM) | 0:29 | 2022-05-10 |  |
+| [Higher Climber](https://open.spotify.com/track/19OB0SmE7xO1jmiaSTd1QE) | [HOWL BE QUIET](https://open.spotify.com/artist/56jhSmJBKSKee5kUAlJjbX) | [Mr\. HOLIC](https://open.spotify.com/album/0DNteSo4zdyJ8H9KxoKekM) | 4:10 | 2022-05-10 |  |
 | [History Maker](https://open.spotify.com/track/388Goi8izhV978LfGi0AQM) | [DEAN FUJIOKA](https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY) | [History Maker](https://open.spotify.com/album/4BsUgURzIq1r5FRCXDl66v) | 3:10 | 2022-05-10 |  |
 | [HOWLING SWORD](https://open.spotify.com/track/43PVlhYSRoyRuowVCAdBNB) | [喜多修平](https://open.spotify.com/artist/6ggUOlYgiWyRlbwA8krLM0) | [HOWLING SWORD / Promise](https://open.spotify.com/album/7jNlhwueVHx3Vsvzs1MGAA) | 4:40 | 2022-05-10 |  |
 | [HOWLITE](https://open.spotify.com/track/2kYJaFWsAbmoff5SeM3eZ4) | [佐咲紗花](https://open.spotify.com/artist/0Wc27lcAwtL8QYONiLd4b1) | [Fated Crown](https://open.spotify.com/album/7gNl3YUzoyx2CmmbkfNa1y) | 4:23 | 2022-05-10 |  |
@@ -46,7 +46,7 @@
 | [The Rumbling](https://open.spotify.com/track/5JJKkuYGj99dfws5MiiJSR) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling](https://open.spotify.com/album/6WNTfLApSKQPPlqWHwgLq8) | 3:40 | 2022-05-10 |  |
 | [Trigger](https://open.spotify.com/track/0WzS0gRcots1x2LscMkpNX) | [Yuuki Ozaki](https://open.spotify.com/artist/6I5wmN6pwiACzmS70UhbHy) | [Trigger](https://open.spotify.com/album/0ztjPLsdtp9GJZunoiFEaO) | 5:07 | 2022-05-10 |  |
 | [VIVID VICE](https://open.spotify.com/track/4R6yPy83vDEZtwJsBavUfo) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [VIVID VICE](https://open.spotify.com/album/7fjE2Zl2tNBBidhNGlo7AS) | 3:05 | 2022-05-10 |  |
-| [Wake We Up](https://open.spotify.com/track/4vfYHDtCAQffxNGP0XSO11) | [HOWL BE QUIET](https://open.spotify.com/artist/56jhSmJBKSKee5kUAlJjbX) | [Mr\. HOLIC](https://open.spotify.com/album/0DNteSo4zdyJ8H9KxoKekM) | 0:29 | 2022-05-10 |  |
+| [Wake We Up](https://open.spotify.com/track/4vfYHDtCAQffxNGP0XSO11) | [HOWL BE QUIET](https://open.spotify.com/artist/56jhSmJBKSKee5kUAlJjbX) | [Mr\. HOLIC](https://open.spotify.com/album/0DNteSo4zdyJ8H9KxoKekM) | 4:42 | 2022-05-10 |  |
 | [Walk This Way](https://open.spotify.com/track/2Wj3lsp7m4iHLuZ4mhnexz) | [THE BEAT GARDEN](https://open.spotify.com/artist/7gcQfJbjZ2W440kQ2wmqzk) | [I'm](https://open.spotify.com/album/3BEi0Xjn2aT0RuKjNKegZ9) | 3:28 | 2022-05-10 |  |
 | [Welcome トゥ 混沌](https://open.spotify.com/track/5WFyER9XL7zcDkaj7CuYmv) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「ドロヘドロ」オープニングテーマ「Welcome トゥ 混沌」](https://open.spotify.com/album/4W2lpGvGvMmH7KLWofv4gf) | 3:38 | 2022-05-10 |  |
 | [WIN \- "The God of HighSchool" ED](https://open.spotify.com/track/7apQPgVEiRpAIFe8VaeB7h) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [WIN \("The God of HighSchool" ED\)](https://open.spotify.com/album/3Nc5br1HThZq5XrCI802gX) | 3:25 | 2022-05-10 |  |

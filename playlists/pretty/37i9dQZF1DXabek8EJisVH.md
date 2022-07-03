@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabek8EJisVH.md) - [plain]
 
 > Soothing ambient and Hang to gently focus the mind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,751 likes - 76 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,771 likes - 76 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabek8EJisVH.md) - [plain]
 | 4 | [Hang Dream](https://open.spotify.com/track/7rssQlMojcRhT7Dd5NNKqF) | [Azure Lilly](https://open.spotify.com/artist/2CQgGsLubijMyj1ANswVeo) | [Hang Drums](https://open.spotify.com/album/7IGTotJEFgwoM5F8zSzBLM) | 3:24 |
 | 5 | [Handpan Reflections](https://open.spotify.com/track/5Oplr5YoFMB1Cl3hODMYG5) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [Handpan Reflections](https://open.spotify.com/album/449GydnmUhqj6rKP6P8ufT) | 3:22 |
 | 6 | [Magnificent](https://open.spotify.com/track/1ALMjj7yJFnVgnUV5494JQ) | [The Bay Man](https://open.spotify.com/artist/4XUwkDFoOHIN6YnWBxE5Om) | [Magnificent](https://open.spotify.com/album/5zl8JcdBS1PQfinEkgmQIS) | 2:53 |
-| 7 | [12 Etudes, Op\. 6: No\. 5 in C Major, Andante \(Arr\. for Hang Drums\)](https://open.spotify.com/track/5w0aNgkEK1ZFaneYoKfJX0) | [Hang Drum Classical](https://open.spotify.com/artist/3Th9HBTqk927JqfPOts6bU) | [12 Etudes, Op\. 6: No\. 5 in C Major, Andante \(Arr\. for Hang Drums\)](https://open.spotify.com/album/1RIqu721GBUc5zy8Rm83Zc) | 0:29 |
+| 7 | [12 Etudes, Op\. 6: No\. 5 in C Major, Andante \(Arr\. for Hang Drums\)](https://open.spotify.com/track/5w0aNgkEK1ZFaneYoKfJX0) | [Hang Drum Classical](https://open.spotify.com/artist/3Th9HBTqk927JqfPOts6bU) | [12 Etudes, Op\. 6: No\. 5 in C Major, Andante \(Arr\. for Hang Drums\)](https://open.spotify.com/album/1RIqu721GBUc5zy8Rm83Zc) | 3:44 |
 | 8 | [Surrounding Life](https://open.spotify.com/track/7L5sWFYOj612vnU8mKRSjz) | [Surrounding Life](https://open.spotify.com/artist/7x0g29FUOlzLsQrKB0NioF) | [Rivers of Relief](https://open.spotify.com/album/08i8VU7ZL1rBE9dNhf6ldr) | 3:23 |
 | 9 | [Hang Drum](https://open.spotify.com/track/0sucxJLeLBOPo50O4awMku) | [Hang Drum Music](https://open.spotify.com/artist/6EYGpvp2j9oenkXCw3oJJO), [The Hang Drum Project](https://open.spotify.com/artist/0O1fF1CEBxcnf0vo9bVaGq), [Spa](https://open.spotify.com/artist/4LUYOHM73gVlfY5TzRbIgX) | [Hang Drum Relaxation Music For Spa, Massage, Sleep, Yoga, Meditation and Spa Music](https://open.spotify.com/album/2RWIlV0VSshZmDx7uozJzg) | 2:09 |
 | 10 | [Las Campanas](https://open.spotify.com/track/1sPL3D9CRdGjLEy3JEW2Wh) | [Wolfgang Ohmer](https://open.spotify.com/artist/5WqbDL1I1busS5YanO5z0k) | [Sonic Blue \- Ambient Hang Music](https://open.spotify.com/album/45tHjwSf9ctXXrLFdnK4X5) | 6:15 |

@@ -4,7 +4,7 @@
 
 > Enjoy the top streamed country songs of 2016 right here! Cover: Dan + Shay
 
-50 songs - 3 hr 6 min - [published](https://open.spotify.com/playlist/1J91eYkhnaRSxGcD3PNzXl)
+50 songs - 3 hr 10 min - [published](https://open.spotify.com/playlist/1J91eYkhnaRSxGcD3PNzXl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Drunk on Your Love](https://open.spotify.com/track/1jNNHFZmRGXZFHlil5uhei) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Illinois](https://open.spotify.com/album/5Og3UBs6tCL47yee1ukYgw) | 2:53 | 2016-11-24 |  |
 | [Everybody We Know Does](https://open.spotify.com/track/6LcPSBPSYRTMG7brqZQ7aq) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Everybody We Know Does](https://open.spotify.com/album/2jxvue2hxftmpzQCGZDdke) | 3:41 | 2016-11-24 |  |
 | [Fix](https://open.spotify.com/track/17Vry8h1fUTYg8NL6pHhem) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Girl Problems](https://open.spotify.com/album/2QSiy6dksBLC7alEkA19f7) | 3:10 | 2016-11-24 |  |
-| [From the Ground Up \- Single Version](https://open.spotify.com/track/0AdjJ2SaOeb5bPJ67nDbsW) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [From the Ground Up](https://open.spotify.com/album/2Ukvb2P5DacfRm6tJmXaVA) | 0:29 | 2016-11-24 |  |
+| [From the Ground Up \- Single Version](https://open.spotify.com/track/0AdjJ2SaOeb5bPJ67nDbsW) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [From the Ground Up](https://open.spotify.com/album/2Ukvb2P5DacfRm6tJmXaVA) | 4:14 | 2016-11-24 |  |
 | [H.O.L.Y.](https://open.spotify.com/track/0BCy325UZyR9z0t0uxwn2N) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Dig Your Roots](https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC) | 3:14 | 2016-11-24 |  |
 | [Home Alone Tonight](https://open.spotify.com/track/0RE8WWlaCQM6M4XHUK3u7b) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I), [Karen Fairchild](https://open.spotify.com/artist/3RXtieA0L2l22SWlOUMNca) | [Kill The Lights \(Deluxe\)](https://open.spotify.com/album/0WtCqmpVN7rRGfDMSWSXBA) | 3:10 | 2016-11-24 |  |
 | [Humble And Kind](https://open.spotify.com/track/3Rkk851fZjIsglV2jbBPDd) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Humble And Kind](https://open.spotify.com/album/4gpCST5Fb2FF23aZkWRy9e) | 4:17 | 2016-11-24 |  |

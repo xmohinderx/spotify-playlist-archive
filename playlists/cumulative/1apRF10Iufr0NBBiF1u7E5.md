@@ -4,7 +4,7 @@
 
 > 
 
-38 songs - 2 hr 10 min - [published](https://open.spotify.com/playlist/4ds94SV4xTSXjA5jCjMfoW)
+38 songs - 2 hr 14 min - [published](https://open.spotify.com/playlist/4ds94SV4xTSXjA5jCjMfoW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [I´m so poor won´t you lend me some money](https://open.spotify.com/track/0bmMf6Sw67gCn2ck28kPA3) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Late night heartbroken blues](https://open.spotify.com/album/2hjKwf3pKZYOpc5YiwOOzV) | 2:37 | 2012-02-08 |  |
 | [Keep on Kingie](https://open.spotify.com/track/2wYBDLdP2D7VqQ0o6WU1qh) | [Lucky Lucky Pigeons](https://open.spotify.com/artist/6wgawaaMNUYaxSMDfXo2ii) | [Bird Flu](https://open.spotify.com/album/2jlz79195KzWfjTcbBuDz8) | 3:01 | 2012-02-08 |  |
 | [Kom kampsång](https://open.spotify.com/track/2iTZEHEOYf6TE09C4hysqt) | [Lasse Lindh](https://open.spotify.com/artist/4ehBGotbRDOgqcrUomjJyd) | [Svenska Hjärtan 05\-09](https://open.spotify.com/album/4KMIc0mg8DvePHQbFMgyqg) | 2:44 | 2012-02-08 |  |
-| [Låt det dö](https://open.spotify.com/track/09sWUVodQAZA68VD3sSGeL) | [Anna Järvinen](https://open.spotify.com/artist/70vrcQugFAOAtOFIW1wcyR) | [Man var bland molnen](https://open.spotify.com/album/3KOEtiA5EAbhnW9FamMLdy) | 0:29 | 2012-02-08 |  |
+| [Låt det dö](https://open.spotify.com/track/09sWUVodQAZA68VD3sSGeL) | [Anna Järvinen](https://open.spotify.com/artist/70vrcQugFAOAtOFIW1wcyR) | [Man var bland molnen](https://open.spotify.com/album/3KOEtiA5EAbhnW9FamMLdy) | 3:54 | 2012-02-08 |  |
 | [On My Own Again](https://open.spotify.com/track/1KSF25fIqPId92e70bweTH) | [Kleerup](https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc) | [Kleerup](https://open.spotify.com/album/7v6M0qYnCGZcWlkvB6bF9I) | 3:20 | 2012-02-08 |  |
 | [Once & Never Again](https://open.spotify.com/track/5cbqFKkSCQnS0QFC3j0MlT) | [The Long Blondes](https://open.spotify.com/artist/1OYQ8FaGjBFrENUZ1RLvMG) | [Once & Never Again](https://open.spotify.com/album/4QqWcpVa1PIusjctFiwoly) | 2:55 | 2012-02-08 |  |
 | [Revolt III](https://open.spotify.com/track/3oZNrNgsi3ZBcYYClxf8qP) | [kent](https://open.spotify.com/artist/4KXp3xtaz1wWXnu5u34eVX) | [Hagnesta Hill](https://open.spotify.com/album/2P7iTgviFTwJH69Zaoo6oU) | 3:10 | 2012-02-08 |  |

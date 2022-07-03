@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,896 likes - 88 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,916 likes - 88 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 | 25 | [Black Rhythm Happening](https://open.spotify.com/track/1OBGwJ6cCv4QYRcPlb67IQ) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Black Rhythm Happening](https://open.spotify.com/album/5L1apjgVkSAKuWQZyuqmRz) | 3:34 |
 | 26 | [D.R.E.A.D](https://open.spotify.com/track/3uQjXCAXuSAZIduWjU5mY8) | [Tom McGuire & the Brassholes](https://open.spotify.com/artist/7JnJgTo8cCtAQmtC0cJyjp) | [D.R.E.A.D](https://open.spotify.com/album/6sy0hfa6qSNN0REHDiHhR5) | 5:47 |
 | 27 | [On The Back Foot](https://open.spotify.com/track/1A7DTW3JyeCdUDpIqZS9fm) | [Ryan Prewett](https://open.spotify.com/artist/0hBE2OEnt0liysUwP4ZaEj), [Tyler Flowers](https://open.spotify.com/artist/2oMNeoWmefA167itF7EVZY) | [On The Back Foot](https://open.spotify.com/album/17ReFzA4bABwTN7tOghfwG) | 3:20 |
-| 28 | [Zodiac](https://open.spotify.com/track/7hoem34FJzzQWkAb58Tlkz) | [Diggin' Dirt](https://open.spotify.com/artist/3xgLOazt16FXyWSWJ99ViC) | [Zodiac](https://open.spotify.com/album/02rS1XRazioI44nYLe3HtG) | 0:29 |
+| 28 | [Zodiac](https://open.spotify.com/track/7hoem34FJzzQWkAb58Tlkz) | [Diggin' Dirt](https://open.spotify.com/artist/3xgLOazt16FXyWSWJ99ViC) | [Zodiac](https://open.spotify.com/album/02rS1XRazioI44nYLe3HtG) | 4:11 |
 | 29 | [The Otherside](https://open.spotify.com/track/1kmG1FzXoSMO0ud1lbdYef) | [Isak Thomas and The Stoop Boys](https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa), [connor](https://open.spotify.com/artist/7DdiQ4GtU0voZdZKPzFKFl) | [The Otherside](https://open.spotify.com/album/0o6BEeeV5E3a8pCubnPBm4) | 3:56 |
 | 30 | [Do You](https://open.spotify.com/track/6Po6hrICRrMUQPaDkL8elp) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Do You](https://open.spotify.com/album/148wDTLIKVYD7iNXvK7kJu) | 4:52 |
 | 31 | [Vodka & Tonic](https://open.spotify.com/track/0EzHA0WMp6WkyVjSbHK1ul) | [Mashup & Cozy Condition](https://open.spotify.com/artist/4Xgz0ZH1mIhD1E5wSjrj1V) | [Vodka & Tonic](https://open.spotify.com/album/4PjqWdyFYyPxBwN789OLFR) | 3:31 |

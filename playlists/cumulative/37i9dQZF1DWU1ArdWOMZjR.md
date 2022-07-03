@@ -4,7 +4,7 @@
 
 > Now That's What I Call Netflix, Curated by Rebel Wilson from Senior Year\. Listen to her favorites from the 90s and 00s!
 
-27 songs - 1 hr 42 min - [published](https://open.spotify.com/playlist/6lbpVhaKwWU1GqJzQ4c2ZH)
+27 songs - 1 hr 45 min - [published](https://open.spotify.com/playlist/6lbpVhaKwWU1GqJzQ4c2ZH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [C'est La Vie](https://open.spotify.com/track/0P6CPJrNJ1Zt755CQTWg3S) | [B\*Witched](https://open.spotify.com/artist/72eP0W3rIhkxd0NHGg4w4u) | [C'est la Vie: The Collection](https://open.spotify.com/album/1zrWYaf1JGvFpRLfp8nDyn) | 2:53 | 2022-05-13 |  |
 | [Candy](https://open.spotify.com/track/2YhE6xeWN0R9RVwEOG9lR1) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [So Real](https://open.spotify.com/album/2bO8HiXIChnnMT1UGuMUPR) | 3:54 | 2022-05-13 |  |
 | [Come On Over \(All I Want Is You\)](https://open.spotify.com/track/3W3MNXiYjuK1r1LIFyQqja) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera \(Expanded Edition\)](https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9) | 3:09 | 2022-05-13 |  |
-| [Falling](https://open.spotify.com/track/4GDsKBBTl1pchjVLlmOvxn) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [The Fall](https://open.spotify.com/album/2fYkkAXRAWKkweqOaRzwYG) | 0:29 | 2022-05-13 |  |
+| [Falling](https://open.spotify.com/track/4GDsKBBTl1pchjVLlmOvxn) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [The Fall](https://open.spotify.com/album/2fYkkAXRAWKkweqOaRzwYG) | 4:11 | 2022-05-13 |  |
 | [Genie In a Bottle](https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera \(Expanded Edition\)](https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9) | 3:37 | 2022-05-13 |  |
 | [Hey Ya!](https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:55 | 2022-05-13 |  |
 | [Hot In Herre](https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Nellyville](https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q) | 3:48 | 2022-05-13 |  |

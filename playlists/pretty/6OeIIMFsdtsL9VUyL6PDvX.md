@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6OeIIMFsdtsL9VUyL6PDvX.md) - [plain]
 
 > All the hottest current Indie music you need....in one stop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 65 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/6OeIIMFsdtsL9VUyL6PDvX.md) - [plain]
 | 9 | [Careless](https://open.spotify.com/track/4LSHMt2QBv0gX9u6amnYjT) | [Alex Winston](https://open.spotify.com/artist/3REwdws53wUuid8AatTTMh) | [Careless](https://open.spotify.com/album/1WtNW3DbEnINTUYbvZYAEh) | 4:17 |
 | 10 | [Seasons \(Waiting On You\) \[BADBADNOTGOOD Reinterpretation\]](https://open.spotify.com/track/5ZwPh4nNgNChn3b5ZAXhzA) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Seasons \(Waiting On You\) \[BADBADNOTGOOD Reinterpretation\]](https://open.spotify.com/album/6NWRTIbIatry649bVKiD1r) | 3:43 |
 | 11 | [Zigzagging Toward the Light](https://open.spotify.com/track/09mSRgoEyU5IBmSlOFbRYy) | [Conor Oberst](https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R) | [Upside Down Mountain](https://open.spotify.com/album/7g42rDRob7LSSKgiaTdBvN) | 4:03 |
-| 12 | [Red Eyes](https://open.spotify.com/track/71jGGLe5VtEHjIk5dU2W3S) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5) | 0:29 |
+| 12 | [Red Eyes](https://open.spotify.com/track/71jGGLe5VtEHjIk5dU2W3S) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5) | 4:58 |
 | 13 | [Can't Do Without You](https://open.spotify.com/track/7dpOCuGJOlxDhEouNQNCBM) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Can't Do Without You](https://open.spotify.com/album/0w0dCGr6wZ0bJIuPaK2Qzb) | 3:56 |
 | 14 | [Happy Idiot](https://open.spotify.com/track/63mnZ0zF5fBwJzYg2pDo9e) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Seeds](https://open.spotify.com/album/2pJdnCpeXm3KVUlyuNSeRX) | 3:03 |
 | 15 | [Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:28 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/6OeIIMFsdtsL9VUyL6PDvX.md) - [plain]
 | 23 | [Trainwreck 1979 \- Moulder Mix with in/out fades](https://open.spotify.com/track/32I8vEvwsUXTst1QSsmpSR) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [Trainwreck 1979](https://open.spotify.com/album/5v3lVWZZMpG1ezDPKsAuS3) | 3:46 |
 | 24 | [Bad Habit](https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Listen](https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy) | 3:41 |
 | 25 | [Gotta Get Away](https://open.spotify.com/track/3wf3jWAQHsnPNfUtNSQvkz) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Gotta Get Away](https://open.spotify.com/album/00evzQcmYUA8nSjrfGSqUZ) | 3:00 |
-| 26 | [Fools Gold](https://open.spotify.com/track/3goyor536uLlIuv0zHgq0B) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream \(Deluxe Edition\)](https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK) | 0:29 |
+| 26 | [Fools Gold](https://open.spotify.com/track/3goyor536uLlIuv0zHgq0B) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream \(Deluxe Edition\)](https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK) | 3:34 |
 | 27 | [Stay Awhile](https://open.spotify.com/track/4xedwvfic3GK68a4sjrNV0) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Classics](https://open.spotify.com/album/5TAVRgiAR2E79dQ1HrljqX) | 2:36 |
 | 28 | [stevie](https://open.spotify.com/track/6EnBcUZMs1CZz3gkLLHAjg) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [48:13](https://open.spotify.com/album/3vOa3YPCPebcOJQMI5khyn) | 4:44 |
 | 29 | [All The Rage Back Home](https://open.spotify.com/track/41g3tCnqP8yTauiPQPndVO) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [El Pintor](https://open.spotify.com/album/0PNquUhkW8X80jKMEHXs5F) | 4:22 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/6OeIIMFsdtsL9VUyL6PDvX.md) - [plain]
 | 42 | [Make You Better](https://open.spotify.com/track/2G5uNT7IDMSbcQPmdk0AR4) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [Make You Better](https://open.spotify.com/album/4KRVQOu9ANkYl9RmexLCZV) | 5:07 |
 | 43 | [Love Is to Die](https://open.spotify.com/track/5RVwF7aiOtAqoRhcQ7u1g0) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Love Is to Die](https://open.spotify.com/album/6HKwgym4AdmeV9yzM8dkQj) | 4:51 |
 | 44 | [I'm Not Part of Me](https://open.spotify.com/track/3p9hLevLl6y3DsApanbnff) | [Cloud Nothings](https://open.spotify.com/artist/6rnbB5fuUuCSsspvFsxIpT) | [I'm Not Part Of Me](https://open.spotify.com/album/3FcfLGczbe4eWVShXWXcgT) | 4:35 |
-| 45 | [Dude Incredible](https://open.spotify.com/track/1MKNjAo6vqWmxmcQynTRsi) | [Shellac](https://open.spotify.com/artist/6I8R5MFTlez7rHCsH4cx0u) | [Dude Incredible](https://open.spotify.com/album/08Gcxmsf2nG2RNadFFxnQx) | 0:29 |
+| 45 | [Dude Incredible](https://open.spotify.com/track/1MKNjAo6vqWmxmcQynTRsi) | [Shellac](https://open.spotify.com/artist/6I8R5MFTlez7rHCsH4cx0u) | [Dude Incredible](https://open.spotify.com/album/08Gcxmsf2nG2RNadFFxnQx) | 6:00 |
 | 46 | [Ways to Go](https://open.spotify.com/track/681mdtYqCDtWCn0F2bfI9Q) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spreading Rumours \(Deluxe\)](https://open.spotify.com/album/29wW0nSPMdVHBwQWQRad87) | 3:35 |
 | 47 | [Every Time the Sun Comes Up](https://open.spotify.com/track/38ydcsbayM4oX21Hhu84DT) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/0F1pMhF8Vy74nKkQeLBfrd) | 4:22 |
 | 48 | [Step](https://open.spotify.com/track/78J9MBkAoqfvyeEpQKJDzD) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/2Qi2SySN2ePZwMLDSv9Krn) | 4:11 |

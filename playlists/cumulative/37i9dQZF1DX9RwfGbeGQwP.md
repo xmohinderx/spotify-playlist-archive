@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-553 songs - 21 hr 6 min - [published](https://open.spotify.com/playlist/4cxKJAR848gUWizvwypmvt)
+553 songs - 21 hr 10 min - [published](https://open.spotify.com/playlist/4cxKJAR848gUWizvwypmvt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [60’s Adventure](https://open.spotify.com/track/0oeHdQcJibTp99ulHe40un) | [LzmD](https://open.spotify.com/artist/6yUTk9DYrsGPhR8s181E53) | [True Colors](https://open.spotify.com/album/3Js7aNPgKMbdLoc60Up6pY) | 3:01 | 2022-01-27 |  |
 | [A Little Fun](https://open.spotify.com/track/0XhvH5KqEZojtZFXmJ4dZd) | [Ramsey Road](https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm) | [A Little Fun](https://open.spotify.com/album/4eyCrIYNTa8bDAGs8hbNsY) | 1:45 | 2022-01-27 |  |
 | [A New Point Of View](https://open.spotify.com/track/1dUeNKbbSLpsi0SG8QUq2g) | [Galva\-Nice](https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj) | [A New Point Of View](https://open.spotify.com/album/79je3L7llHxNAIrWxQu0Ms) | 2:33 | 2022-01-27 |  |
-| [A Night Out](https://open.spotify.com/track/24HOrMOXoDhw0s4uJVTmij) | [Tiger Movie](https://open.spotify.com/artist/1XDpB5sGAzaiBV1qFYs84m) | [A Night Out](https://open.spotify.com/album/0dM0kJYP8ayl3bNnfEc8jA) | 0:29 | 2022-01-27 |  |
+| [A Night Out](https://open.spotify.com/track/24HOrMOXoDhw0s4uJVTmij) | [Tiger Movie](https://open.spotify.com/artist/1XDpB5sGAzaiBV1qFYs84m) | [A Night Out](https://open.spotify.com/album/0dM0kJYP8ayl3bNnfEc8jA) | 2:17 | 2022-01-27 |  |
 | [A short break](https://open.spotify.com/track/6i2DGyzis8BuUJRnzbill2) | [Sail & Weep](https://open.spotify.com/artist/1ufnSHs8Qsy6u9d5hQo4Ao) | [A short break](https://open.spotify.com/album/2dARGp3nfUoyTl8JaNuq8E) | 2:02 | 2022-01-27 |  |
 | [a wake up call](https://open.spotify.com/track/5ffWjMOfwqAZk3yhQ54Fxo) | [Eluzai](https://open.spotify.com/artist/2N0c1H0QXGAfZQHASg7ir4) | [a wake up call](https://open.spotify.com/album/7dEPPY0GcPKWF44deCSvIC) | 1:42 | 2022-06-24 | 2022-07-01 |
 | [Above and Beyond](https://open.spotify.com/track/0qJu4CH53vfwJcrfG3teZt) | [Chalk Gang](https://open.spotify.com/artist/7nKTvkyNv3iatiJ0A4lBr7) | [Above and Beyond](https://open.spotify.com/album/5yYaNuuxG6grkT4TJl8NBO) | 2:54 | 2022-01-27 |  |
@@ -490,7 +490,7 @@
 | [That Soft Touch](https://open.spotify.com/track/4WlUSXIpr4Y0j1q1xd2auf) | [John McEnflow](https://open.spotify.com/artist/6RSrTS0uvEaiL6ytgRuf6d) | [That Soft Touch](https://open.spotify.com/album/7o7MzmgbO3kxkrHuUFG7Uf) | 2:24 | 2022-01-27 |  |
 | [thats right](https://open.spotify.com/track/5kghYrWusPOZ2Ev7X93hw8) | [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76) | [sundays](https://open.spotify.com/album/55499noDiWYNvCIKT35FVs) | 1:16 | 2022-01-27 | 2022-05-20 |
 | [The Brace](https://open.spotify.com/track/3m8nqt9hOcjayQ1dff4jgL) | [ID Labs](https://open.spotify.com/artist/26oVoq5QZzsm9MGhOyT2tv) | [Play How You Feel](https://open.spotify.com/album/5CzhTtsFWBjPUyOy8xiBKv) | 2:51 | 2022-01-27 |  |
-| [The Chillest](https://open.spotify.com/track/6uA5tWVvj13MGLNxhHGxhr) | [Chilou](https://open.spotify.com/artist/2wTi41vTfbFFHdAAezSSF8) | [The Chillest](https://open.spotify.com/album/0CrclNcvwEUbTl9zSFjkzW) | 0:29 | 2022-01-27 |  |
+| [The Chillest](https://open.spotify.com/track/6uA5tWVvj13MGLNxhHGxhr) | [Chilou](https://open.spotify.com/artist/2wTi41vTfbFFHdAAezSSF8) | [The Chillest](https://open.spotify.com/album/0CrclNcvwEUbTl9zSFjkzW) | 2:31 | 2022-01-27 |  |
 | [the dark side](https://open.spotify.com/track/7ymG0YQtuSiSVJSBQ3E8jy) | [mooncycles](https://open.spotify.com/artist/1GHcBsNa2yLrpyqIwbt869) | [eclipse](https://open.spotify.com/album/6dIE7p3E7WVxmecbH4cYrA) | 2:00 | 2022-01-27 |  |
 | [The Feels](https://open.spotify.com/track/6tw6f2SpScnkWeFMzc9Ykd) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Kid Tested & Mother Approved](https://open.spotify.com/album/2wz6cO6pnQb0qGfRYkMWVc) | 1:42 | 2022-01-27 | 2022-05-27 |
 | [The Lost Tapes](https://open.spotify.com/track/5iArlp8oxxLZrVtg4EIEfI) | [Gradient Island](https://open.spotify.com/artist/2L6LmEsTHaUiSr1cxjbT0U) | [The Lost Tapes](https://open.spotify.com/album/7vKH3FSTOeST6BdCNorsdy) | 1:24 | 2022-01-27 |  |

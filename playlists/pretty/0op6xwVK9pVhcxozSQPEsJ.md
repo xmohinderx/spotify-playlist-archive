@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0op6xwVK9pVhcxozSQPEsJ.md) - [plain]
 
 > Take some time out of your day to recharge your mind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,343 likes - 93 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,342 likes - 93 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/0op6xwVK9pVhcxozSQPEsJ.md) - [plain]
 | 58 | [See](https://open.spotify.com/track/36h24bLlHfYoCmIcRkI3Pn) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [See](https://open.spotify.com/album/5NUlgMZxrtFwoDHKcfQahM) | 5:18 |
 | 59 | [Circular Motion](https://open.spotify.com/track/2IH4jMqoQ1SwTYBYsxuJyZ) | [Pilote](https://open.spotify.com/artist/3YcHuyrJKhOeX7Ptl28fHM) | [Uncategorized](https://open.spotify.com/album/10Fm7P8dw3TIzdsHbJ0qK4) | 8:18 |
 | 60 | [Labyrinthine](https://open.spotify.com/track/7sl2pCoXekQEP5hMP3iSTZ) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Nepenthe](https://open.spotify.com/album/7wVXPA9EfAh7VA5dfaIiP3) | 4:32 |
-| 61 | [Tower Seven](https://open.spotify.com/track/16GyluCSbn3R8uXDAy3GNM) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Culture of Fear](https://open.spotify.com/album/7FYZT6dAKPQyLl5mUAZ263) | 0:29 |
+| 61 | [Tower Seven](https://open.spotify.com/track/16GyluCSbn3R8uXDAy3GNM) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Culture of Fear](https://open.spotify.com/album/7FYZT6dAKPQyLl5mUAZ263) | 7:48 |
 | 62 | [The Meaning of Love](https://open.spotify.com/track/0tqfL9BbY7TTI68kmJrOBb) | [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Goddess](https://open.spotify.com/album/252x6axgOKxPsoNYN5Bp7d) | 5:53 |
 | 63 | [Elitsa](https://open.spotify.com/track/1HRC3ye6p2DQdljz9v47xL) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [No Hassle](https://open.spotify.com/album/6Uqghj6k7jycyf9QN4G1KS) | 4:55 |
 | 64 | [Life in Technicolor](https://open.spotify.com/track/3Uwk9OS6sE5jphtvXbpHQ5) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida \(Prospekt's March Edition\)](https://open.spotify.com/album/2LIlrvVO0NP48jamVdlDo3) | 2:29 |

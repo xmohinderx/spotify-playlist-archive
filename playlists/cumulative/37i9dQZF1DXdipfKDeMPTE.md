@@ -4,7 +4,7 @@
 
 > Moody beats for sleepless nights.
 
-270 songs - 10 hr 6 min - [published](https://open.spotify.com/playlist/1KoQ1qVTSCCy8X3hTp8pGe)
+270 songs - 10 hr 10 min - [published](https://open.spotify.com/playlist/1KoQ1qVTSCCy8X3hTp8pGe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [beginner's mind](https://open.spotify.com/track/6rhvnNfCetHo54hKLhz1uJ) | [really big mountains](https://open.spotify.com/artist/4yJevCr3DRO4fW0NG2rjt4) | [train legs](https://open.spotify.com/album/2IRJlhzadkFBiNBWE8bt6x) | 2:52 | 2022-05-20 |  |
 | [Beyond Sight](https://open.spotify.com/track/1roMpJzKbIqZzqS79K33oj) | [DunE](https://open.spotify.com/artist/4MWcljkqkBsrfiZu2CA88k) | [Tratoria](https://open.spotify.com/album/45xdMa03XY6auauofA1ESG) | 2:00 | 2022-05-20 |  |
 | [Bitter Sea](https://open.spotify.com/track/1i0a3kPuCiCeIA2EHN6s8Y) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB) | [Bitter Sea](https://open.spotify.com/album/2KLXdX9AoWq0g0HExG5Wdk) | 2:30 | 2022-05-20 |  |
-| [Black Sands White Coffee](https://open.spotify.com/track/2ZpxtRMNvBkgQVZiCGIIub) | [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Gino's Cappuccino](https://open.spotify.com/album/3etXsPOM7IutaC6rUKUxAe) | 0:29 | 2022-05-20 |  |
+| [Black Sands White Coffee](https://open.spotify.com/track/2ZpxtRMNvBkgQVZiCGIIub) | [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Gino's Cappuccino](https://open.spotify.com/album/3etXsPOM7IutaC6rUKUxAe) | 4:05 | 2022-05-20 |  |
 | [Blue](https://open.spotify.com/track/1L9zi0bBi6DD3wnJPFJPIT) | [Pixie Dust](https://open.spotify.com/artist/0kSqe2dBbt8rg07yfEBnjR) | [Blue](https://open.spotify.com/album/0TwX7omh8LLHGBkcfOBth0) | 2:18 | 2022-05-20 |  |
 | [Boarded](https://open.spotify.com/track/3TYZ8OUPMZ0O6AiMRmv5lP) | [Sidual.](https://open.spotify.com/artist/5ghUUQxtMMankpzWRxckkI) | [Boarded](https://open.spotify.com/album/0971OYZtfCZfegzT2TDmqh) | 2:20 | 2022-05-20 | 2022-06-10 |
 | [Bottled Up Emotions, Part 2](https://open.spotify.com/track/12nj9lHWHO9y8668gT0iR1) | [KVMTZ](https://open.spotify.com/artist/1D8kPNLkel9FZFCwSHkZ95) | [Bottled Up Emotions, Part 2](https://open.spotify.com/album/599cNTxGgXMhT154dLyGaU) | 1:50 | 2022-05-20 |  |

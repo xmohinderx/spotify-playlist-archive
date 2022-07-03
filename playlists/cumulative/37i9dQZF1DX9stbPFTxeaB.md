@@ -4,7 +4,7 @@
 
 > Blues, but funky\. Or funk, but bluesy\. Cover: Kenny Wayne Shepherd
 
-69 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/37ATRX3EEE0W2CNCUfCl5p)
+69 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/37ATRX3EEE0W2CNCUfCl5p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Further on Down the Line](https://open.spotify.com/track/7m3zESC5sYrdRTlq1EO5Ep) | [Ben Poole](https://open.spotify.com/artist/3MQuQtVNJG9SchM1l2CTm3) | [Anytime You Need Me](https://open.spotify.com/album/1X3V7gdTJnzvyh4iAGe0zy) | 3:56 | 2020-08-21 |  |
 | [Go Faster](https://open.spotify.com/track/7qLq9x0er8eP04MIaxwK0Y) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [Go Faster](https://open.spotify.com/album/6C33RIIcD7Q0Sx0APSfpm5) | 2:55 | 2020-08-21 |  |
 | [Going Up](https://open.spotify.com/track/6Q5BhD6Ll1AloC0jJ9phV3) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [Going Up](https://open.spotify.com/album/6X4KUUDYiwZRqP0EVN3qa5) | 3:07 | 2020-08-21 |  |
-| [Groove With Me](https://open.spotify.com/track/1BDY39wDjT45KwlPADHap3) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Chills & Thrills](https://open.spotify.com/album/2RNTqYSOAdccKmNPg5ORbd) | 0:29 | 2020-08-21 |  |
+| [Groove With Me](https://open.spotify.com/track/1BDY39wDjT45KwlPADHap3) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Chills & Thrills](https://open.spotify.com/album/2RNTqYSOAdccKmNPg5ORbd) | 4:01 | 2020-08-21 |  |
 | [Highway Jones](https://open.spotify.com/track/4No7vBUnNaJ76hOCMiWr5l) | [Cry Of Love](https://open.spotify.com/artist/6CKsSefAf4rhCQnrEmygFX) | [Brother](https://open.spotify.com/album/2fX9niq6mAumSozu4KnPmB) | 5:12 | 2020-08-21 |  |
 | [Honey](https://open.spotify.com/track/2wz8v9hjCcnp3m7kbZZMTG) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [Does anybody wanna funk?](https://open.spotify.com/album/6G9XKu4eJ4wGMRQx4ye4bX) | 2:52 | 2020-08-21 |  |
 | [Honey Forgive Me](https://open.spotify.com/track/0aKVI4SThKOxN5z9bWKMhF) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Black Magic](https://open.spotify.com/album/0o0Hw7HyJTlxDbifIaaaVD) | 2:22 | 2020-08-21 |  |
@@ -65,7 +65,7 @@
 | [Stronger](https://open.spotify.com/track/0WhojPt9MxY3BCvs1j8QFn) | [Jessy Martens and Band](https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt) | [Tricky Thing](https://open.spotify.com/album/4aPtimYS5kIEl8d03ToDUz) | 3:50 | 2020-08-21 |  |
 | [Sun up Sun Down](https://open.spotify.com/track/6AbF06onnnYVZHk0QPVNF8) | [Roosevelt Collier](https://open.spotify.com/artist/7b10aYN6jh7Dai5c4tshD9) | [Exit 16](https://open.spotify.com/album/02n4Aj3cImlUQe70gdTX43) | 5:27 | 2020-08-21 |  |
 | [T.C.B\. or T.Y.A.](https://open.spotify.com/track/0bpdYlt8oPbGeBZb3gDdZk) | [Edwin McCain](https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR) | [Nobody's Fault But Mine](https://open.spotify.com/album/6Ft9rsJU1EN1tKUcjOFCaC) | 3:38 | 2020-08-21 |  |
-| [The Answer](https://open.spotify.com/track/4gRRWu6UKWASIQzzOzkXUx) | [Tony Spinner](https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z) | [Earth Music for Aliens](https://open.spotify.com/album/1NGrtPLYUBjDEpfguARNe3) | 0:29 | 2020-08-21 |  |
+| [The Answer](https://open.spotify.com/track/4gRRWu6UKWASIQzzOzkXUx) | [Tony Spinner](https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z) | [Earth Music for Aliens](https://open.spotify.com/album/1NGrtPLYUBjDEpfguARNe3) | 5:02 | 2020-08-21 |  |
 | [The Damned](https://open.spotify.com/track/7wl9VAQmGJcWTStbeKhKHf) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [The Damned](https://open.spotify.com/album/5z3dlL97c6PnI8I0kZDNeo) | 4:39 | 2020-08-21 |  |
 | [The Great Unknown](https://open.spotify.com/track/4zBTpUoxrjVMjEYZECuxRi) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Mountain](https://open.spotify.com/album/4gcXwCByBlccQEpSRMPPUH) | 3:01 | 2020-08-21 |  |
 | [True Lies](https://open.spotify.com/track/1vcUlV02bvKQn6ryzZqDVL) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Trouble Is...](https://open.spotify.com/album/1ODpJWe2bymqj4DyJfuBE9) | 5:48 | 2020-08-21 |  |

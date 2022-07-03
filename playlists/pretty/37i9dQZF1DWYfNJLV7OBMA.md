@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- Kanchana Anuradhi
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,696 likes - 88 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,730 likes - 88 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,6 +95,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 85 | [Chandrayan Pidu](https://open.spotify.com/track/4Ny3F26ToLZYgVzpOJ0Ctl) | [Minesh Dissanayake](https://open.spotify.com/artist/3xC38wp0n14LagR2JwC9QE) | [Sinhala Essentials](https://open.spotify.com/album/2up3fi5fy2pYMbxVNF4S4N) | 4:26 |
 | 86 | [Man Maarai](https://open.spotify.com/track/0eBAAEegtLVvTpFA0RBOHS) | [Kelwiz](https://open.spotify.com/artist/4KEKeiqJnkqCeWjshFFug0) | [Man Maarai](https://open.spotify.com/album/3qnC4fPh2I6yIWJT0eOh9c) | 4:00 |
 | 87 | [Ayasini Adare](https://open.spotify.com/track/1HD7DeA3hhCeijasjiJyzw) | [Gagana Hirusha](https://open.spotify.com/artist/1Rvu2A6aE9gkEhFvjAD5pr), [Mahiru Senarathne](https://open.spotify.com/artist/3Od0SSFki2d6U1jnmoUaBC), [Yashodha Medagedara](https://open.spotify.com/artist/4HS3LeXxugXaMidDkWMcCs) | [Ayasini Adare](https://open.spotify.com/album/0kgcIObhp6U2Aer7G9S9GO) | 3:51 |
-| 88 | [Hamuwe Mathuda](https://open.spotify.com/track/0tpKlAungiQraTaVMFA657) | [Chathura Herath](https://open.spotify.com/artist/5JPIOYsRaP0QpRY9QNzMcl), [Rashan Balasooriya](https://open.spotify.com/artist/7y9m5o4dJ6jmxeUqYo9azF) | [Hamuwe Mathuda](https://open.spotify.com/album/74jaQh0GyhlA4nLhNjKdjy) | 0:29 |
+| 88 | [Hamuwe Mathuda](https://open.spotify.com/track/0tpKlAungiQraTaVMFA657) | [Chathura Herath](https://open.spotify.com/artist/5JPIOYsRaP0QpRY9QNzMcl), [Rashan Balasooriya](https://open.spotify.com/artist/7y9m5o4dJ6jmxeUqYo9azF) | [Hamuwe Mathuda](https://open.spotify.com/album/74jaQh0GyhlA4nLhNjKdjy) | 3:29 |
 
 Snapshot ID: `MTY1NTk4MzcxNywwMDAwMDAzNDAwMDAwMTgxOTA1MjNhOGUwMDAwMDE4MTRkMTkxZWZk`

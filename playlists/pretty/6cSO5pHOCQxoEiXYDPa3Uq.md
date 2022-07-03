@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6cSO5pHOCQxoEiXYDPa3Uq.md) - [plain]
 
 > Metaltown är en av Sveriges största och mest populära hårdrock/metal\-festivaler\. Årets festival äger rum den 15 \- 16 juni i Göteborg\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40 likes - 45 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 40 likes - 45 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/6cSO5pHOCQxoEiXYDPa3Uq.md) - [plain]
 | 17 | [Return To The Morbid Reich](https://open.spotify.com/track/7n2YliG5164ZfR5TJ9RPNL) | [Vader](https://open.spotify.com/artist/2s5DSt9VBNzAn2TbtDHzFZ) | [Welcome To The Morbid Reich](https://open.spotify.com/album/1PyB8ux0o62beslkYSNLDy) | 3:26 |
 | 18 | [Oroborus](https://open.spotify.com/track/6WUNfk8ULz9ZdmC9f315Qp) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The way of all flesh](https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2) | 5:21 |
 | 19 | [In Waves](https://open.spotify.com/track/1yYr4D1KjhhyDD5bZIiFQy) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 5:02 |
-| 20 | [Raining Blood](https://open.spotify.com/track/0YjAFxSSrQVBgXgAXx0htq) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Reign In Blood](https://open.spotify.com/album/4lHDNW1MxuRftW7zfQoIIK) | 0:29 |
+| 20 | [Raining Blood](https://open.spotify.com/track/0YjAFxSSrQVBgXgAXx0htq) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Reign In Blood](https://open.spotify.com/album/4lHDNW1MxuRftW7zfQoIIK) | 4:15 |
 | 21 | [Eraser](https://open.spotify.com/track/2hoapBNF71wqjRFSfvZB6P) | [Hypocrisy](https://open.spotify.com/artist/73UIalJYgktSi7qQFV53Qv) | [The Arrival](https://open.spotify.com/album/6v5XrtfwSY01Fcdc2nyyu9) | 4:26 |
 | 22 | [Dead To Rights](https://open.spotify.com/track/0vewcfQDP3jJEVihmt41pn) | [DevilDriver](https://open.spotify.com/artist/79el7mcHYhXYW3Zek21i0L) | [Beast \(Special Edition\)](https://open.spotify.com/album/3ImRtwven9O8z4kspARUsf) | 4:52 |
 | 23 | [The Beautiful People](https://open.spotify.com/track/3BzgWts3YiepIcVcZZfQWX) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Lost & Found: Marilyn Manson](https://open.spotify.com/album/5mND3E6sjnHLWyf6OHN4tb) | 3:42 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/6cSO5pHOCQxoEiXYDPa3Uq.md) - [plain]
 | 41 | [Hearts On Fire](https://open.spotify.com/track/7CRfm06cVjg1Y6TlrISe60) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Hearts On Fire](https://open.spotify.com/album/0Qd5qLDGpEs3T7bH9qi234) | 3:53 |
 | 42 | [Age of Splendour](https://open.spotify.com/track/28t23xMSBIB49GH3iydi9B) | [Sectu](https://open.spotify.com/artist/5wWCteyAlom2XJI5439X0O) | [Inundate](https://open.spotify.com/album/0K0yR894CXG6sYNIizabJO) | 3:39 |
 | 43 | [Fuck Yeah](https://open.spotify.com/track/1D3OSrP1zdoJNynC6EU220) | [Death Destruction](https://open.spotify.com/artist/607B30SS7o8hLvFz3FQHCk) | [Fuck Yeah](https://open.spotify.com/album/1QqULqCLK57Sp9Cx2xcHVw) | 2:52 |
-| 44 | [The Deceiver](https://open.spotify.com/track/2Xecssw8Pt8JDHW64zSIzK) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Born of Sirius](https://open.spotify.com/album/08ncjQXYQlmpHGM7cuJryd) | 0:29 |
+| 44 | [The Deceiver](https://open.spotify.com/track/2Xecssw8Pt8JDHW64zSIzK) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Born of Sirius](https://open.spotify.com/album/08ncjQXYQlmpHGM7cuJryd) | 4:44 |
 | 45 | [Live To Burn](https://open.spotify.com/track/6owUwD6NE8P2nifETgABKu) | [Start A Fire](https://open.spotify.com/artist/1SvcuehmDEoXL0y5Vtte8Z) | [Live To Burn \(1\)](https://open.spotify.com/album/2FFWuIMhNDEHMSrVWsvmJi) | 4:41 |
 
 Snapshot ID: `NCxiYmI4M2NlMmNkNTIxYWQwNGM4YTg5YTQyOWIxODVlNTJiNTAwYTUx`

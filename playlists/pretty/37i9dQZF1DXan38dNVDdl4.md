@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 
 > The best in new & current Dancehall\. Cover: Stefflondon
 
-[Spotify](https://open.spotify.com/user/spotify) - 974,332 likes - 63 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 974,537 likes - 63 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 | 18 | [So Me Stay](https://open.spotify.com/track/0S8VgLfuZwWJMGXUBJXlEy) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [So Me Stay](https://open.spotify.com/album/4F7todLkxPeG4KjupkQSMQ) | 2:38 |
 | 19 | [Chosen](https://open.spotify.com/track/0n81yw2IFUG6imbKQbd1hT) | [Rytikal](https://open.spotify.com/artist/2XmUEusYfpe4UG5BJtRwgX) | [Chosen](https://open.spotify.com/album/3m0ma3GvTHyf5Ia1g69awi) | 4:33 |
 | 20 | [Know Weh Ya Do](https://open.spotify.com/track/4Vt1uT3bxlEoMoZ1BDdQWA) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL), [Weekday](https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF) | [Know Weh Ya Do](https://open.spotify.com/album/0GFq5vA7xwEDqyiJWprBQz) | 2:57 |
-| 21 | [Ambition](https://open.spotify.com/track/1oopyRuSfoSG3ijwHRVFW1) | [Yaksta](https://open.spotify.com/artist/5vtwMQzntImyhUesG7tt2n) | [Ambition](https://open.spotify.com/album/68DmzoZlEVeCN5kyhbIXxh) | 0:29 |
+| 21 | [Ambition](https://open.spotify.com/track/1oopyRuSfoSG3ijwHRVFW1) | [Yaksta](https://open.spotify.com/artist/5vtwMQzntImyhUesG7tt2n) | [Ambition](https://open.spotify.com/album/68DmzoZlEVeCN5kyhbIXxh) | 3:41 |
 | 22 | [Not](https://open.spotify.com/track/2A6nUIicRakdC5VwkytMa9) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Quenga](https://open.spotify.com/artist/3SCF5O7tDI61AtzlE5z8Vv) | [The Prodigy](https://open.spotify.com/album/3ddPKANxkFGX7tDYFZUa14) | 3:33 |
 | 23 | [Section](https://open.spotify.com/track/2R6wZFWXBF2rRIbvQirzjP) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Section](https://open.spotify.com/album/51ygRTQJLBz3v6EDqvsL6K) | 2:14 |
 | 24 | [Coke](https://open.spotify.com/track/0d2fLvOnX6Odmv8RUz9QMc) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Coke](https://open.spotify.com/album/6XLQoAN43bJqjgJZ6uFit5) | 2:55 |

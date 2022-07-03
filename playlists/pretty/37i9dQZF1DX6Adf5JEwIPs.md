@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: El Fantasma
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,280 likes - 54 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,368 likes - 54 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 5 | [El Empresario](https://open.spotify.com/track/50475dQbOPSa8CpLi8UIfe) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [El Empresario](https://open.spotify.com/album/4igdrkDmBw03UUw6TmOLly) | 3:40 |
 | 6 | [Tu Corazón A Mi Me Falta](https://open.spotify.com/track/65oEap9eBWENB3wMKRyQdf) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Tu Corazón A Mi Me Falta](https://open.spotify.com/album/4qoxBHi9JCEAE8VlXrJumc) | 2:35 |
 | 7 | [Duele](https://open.spotify.com/track/4hmMc790zrW8pe5WnSZTT6) | [Plan Exclusivo](https://open.spotify.com/artist/5EeCfUYLoQmzgsQkV3LZt8) | [Duele](https://open.spotify.com/album/1CAIuJiIgyi8aslyYSpBZT) | 3:50 |
-| 8 | [Consejo de Compas](https://open.spotify.com/track/4xBRZ6a6zcmYcEmPepXGGT) | [Simón León](https://open.spotify.com/artist/4mTHBSlYMRCM1c22vaQjh0), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Ramón Sánchez](https://open.spotify.com/artist/7DFj89U2szE996JnFlxaFY) | [Consejo de Compas](https://open.spotify.com/album/5HfoLyN9S6dW3sWKI60QIB) | 3:08 |
+| 8 | [Consejo de Compas](https://open.spotify.com/track/4xBRZ6a6zcmYcEmPepXGGT) | [Simón León](https://open.spotify.com/artist/4mTHBSlYMRCM1c22vaQjh0), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Consejo de Compas](https://open.spotify.com/album/5HfoLyN9S6dW3sWKI60QIB) | 3:08 |
 | 9 | [Los De Afinarte](https://open.spotify.com/track/55JhQFk0VUNaIYrXm5qVMj) | [Jr Salazar](https://open.spotify.com/artist/5JxnuJgzd1wZqFHvqFLTJP) | [Los De Afinarte](https://open.spotify.com/album/4zDO9fXmVxcmujCrGObo7j) | 2:05 |
 | 10 | [Nadie En Este Mundo](https://open.spotify.com/track/783fveiyg1BqcdHrzNcXuo) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Nadie En Este Mundo](https://open.spotify.com/album/37a9b4XAXZzS7xg5y2A0tO) | 3:52 |
 | 11 | [14 de Febrero](https://open.spotify.com/track/3tx2H72qLcjN74GmU0uxU4) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU), [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [14 de Febrero](https://open.spotify.com/album/3UFZLTCTSTYjRWORfhqwY9) | 3:28 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 40 | [Mi Lado Cursi](https://open.spotify.com/track/0KN50093kIfL0gIOA30ZAD) | [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Mi Lado Cursi](https://open.spotify.com/album/3hAUn8ZGdstlI8CY9ztUhy) | 3:02 |
 | 41 | [Te Quedó Muy Grande](https://open.spotify.com/track/2gdc0pA6y3T9BIKZAg4m3k) | [José Pablo](https://open.spotify.com/artist/6lz9w2ef4gx4VuGEs0GugL) | [Te Quedó Muy Grande](https://open.spotify.com/album/4OaqKmdUoIyEa0sEBv77bU) | 3:31 |
 | 42 | [La Envidia de Todas](https://open.spotify.com/track/0IvPb0xEJND417826kOFTx) | [Axel Ojeda](https://open.spotify.com/artist/5wzvImQPy7ZwU9MGRHz9Rf) | [La Envidia de Todas](https://open.spotify.com/album/5WP5cBGSgwsFV80zdEJCaW) | 3:37 |
-| 43 | [Excperto En Decepciones](https://open.spotify.com/track/4xWEdNkUip24ov7lstxkxN) | [Exceso Norte](https://open.spotify.com/artist/49yiRwnTJyXf41PTI1Rouw) | [Experto En Decepciones](https://open.spotify.com/album/6Wa9YxhFBdc11s1p1wAoxO) | 2:57 |
+| 43 | [Experto En Decepciones](https://open.spotify.com/track/4xWEdNkUip24ov7lstxkxN) | [Exceso Norte](https://open.spotify.com/artist/49yiRwnTJyXf41PTI1Rouw) | [Experto En Decepciones](https://open.spotify.com/album/6Wa9YxhFBdc11s1p1wAoxO) | 2:57 |
 | 44 | [Ucraniza Vs Rusiza](https://open.spotify.com/track/4k0CG8gVW31URlmarwAWMK) | [Marco Granillo](https://open.spotify.com/artist/7nh08l0O7hWA0a0IQIgZmj) | [Ucraniza Vs Rusiza](https://open.spotify.com/album/5KlVn75Wc0R9ZoJvbr4pRD) | 3:20 |
 | 45 | [Por Tu Perra Decisión](https://open.spotify.com/track/2fgpM626rTMByq9GYEAYC6) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [Por Tu Perra Decisión](https://open.spotify.com/album/2hcjsoV8pRBNTyojGPE2xZ) | 2:56 |
 | 46 | [Hermoso Cariño](https://open.spotify.com/track/3wqBE2tywA9V64phwGf1yZ) | [Banda Rancho Viejo De Julio Aramburo La Bandononona](https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV) | [Hermoso Cariño](https://open.spotify.com/album/5IQn4nuhpHWSpSQF2Rp9CS) | 2:39 |

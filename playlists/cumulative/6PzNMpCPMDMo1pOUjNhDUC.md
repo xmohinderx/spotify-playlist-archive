@@ -4,7 +4,7 @@
 
 > The perfect playlist for a great party\. Fun, happy, joyful..\. the kids will love it!
 
-44 songs - 1 hr 51 min - [published](https://open.spotify.com/playlist/7rE56ItJnLE86OPdeLJt4v)
+44 songs - 1 hr 54 min - [published](https://open.spotify.com/playlist/7rE56ItJnLE86OPdeLJt4v)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Chicka Chicka Boom Boom](https://open.spotify.com/track/3aCnWGT8DmlbpAV75McnZR) | [John Archambault and David Plummer](https://open.spotify.com/artist/2R1aNdEPdzkU1va9WM4H3O) | [Chicka Chicka Boom Boom and Other Coconutty Songs](https://open.spotify.com/album/326TTFvDSR9CM3eVEl9a0E) | 2:25 | 2014-11-05 |  |
 | [Clap My Hands](https://open.spotify.com/track/5ZS7uSrVVxtSX9uMAnaVNc) | [Milkshake](https://open.spotify.com/artist/4aCAV0BUD0qb0nT8kQNnAD) | [Happy Songs](https://open.spotify.com/album/4zkmOywwsDuLdhDmy9v6qB) | 1:49 | 2014-11-05 |  |
 | [Cupid Shuffle](https://open.spotify.com/track/07Tx168RSsUS1HqkDIOZbH) | [Cupid](https://open.spotify.com/artist/0lax1ZgWclW6mZFaGu27MM) | [Time for a Change](https://open.spotify.com/album/1tDyAU95D65Shy34JxsQCu) | 3:51 | 2014-11-05 |  |
-| [Down By The Sea](https://open.spotify.com/track/5M8stbMQTMJtIcZHAyzxSf) | [Red Grammer](https://open.spotify.com/artist/7tMAjOyRSfmuyinnMOFa5M) | [Down The Do\-Re\-Mi](https://open.spotify.com/album/0PqJ02BAYANqrHqWY54xsI) | 0:29 | 2014-11-05 |  |
+| [Down By The Sea](https://open.spotify.com/track/5M8stbMQTMJtIcZHAyzxSf) | [Red Grammer](https://open.spotify.com/artist/7tMAjOyRSfmuyinnMOFa5M) | [Down The Do\-Re\-Mi](https://open.spotify.com/album/0PqJ02BAYANqrHqWY54xsI) | 2:49 | 2014-11-05 |  |
 | [Five Little Monkeys](https://open.spotify.com/track/0WcyDPvyJlNfx9ow5plstV) | [Go Fish](https://open.spotify.com/artist/60oY0lmnOyCS2ElXAKCNrR) | [Party Like A Preschooler](https://open.spotify.com/album/1Wmg1qttYV37DUUWp2C28y) | 3:08 | 2014-11-05 |  |
 | [Frère Jacques](https://open.spotify.com/track/4CLaUYpxqSqQZO1tsHpAO0) | [Postman Pats Players](https://open.spotify.com/artist/6koLueG9d2QtrUrNaUA4zW) | [The World's Greatest Childrens Nursery Rhymes & Songs \- The Only Children's Songs Album You'll Ever Need](https://open.spotify.com/album/6TyCH9F6W6OqPyINuRcQ5k) | 1:17 | 2014-11-05 |  |
 | [Gangnam Style \(강남스타일\)](https://open.spotify.com/track/1R2SZUOGJqqBiLuvwKOT2Y) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Gangnam Style \(강남스타일\)](https://open.spotify.com/album/2oKzsLJeOGZ5bMXDPuWCxe) | 3:39 | 2014-11-05 |  |

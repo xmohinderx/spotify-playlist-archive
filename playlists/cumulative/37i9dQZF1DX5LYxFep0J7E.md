@@ -4,7 +4,7 @@
 
 > Jazz favorites from 2021\. Cover: Julius Rodriguez
 
-62 songs - 5 hr 32 min - [published](https://open.spotify.com/playlist/6vPgqB1nQAvAFN19KxQccP)
+62 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/6vPgqB1nQAvAFN19KxQccP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [713](https://open.spotify.com/track/3EhH15zLHO0IEmEEbG5fCc) | [James Francies](https://open.spotify.com/artist/0K4Pj79XGQRXv1ESJADlMX) | [Purest Form](https://open.spotify.com/album/0h8hdTiQpwZ49ZKrPo3P2j) | 5:21 | 2021-12-01 |  |
 | [Actual Proof](https://open.spotify.com/track/4Iilbf7sqOuxzAmt08j9Lk) | [Julius Rodriguez](https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF), [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [Actual Proof](https://open.spotify.com/album/1BKVI6Z8oknAjK1gHFUJ7G) | 3:21 | 2021-12-01 |  |
 | [Akashic Xronicles](https://open.spotify.com/track/2iUv3QZdvmMBVOuMUeMIUo) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [XRONICLE](https://open.spotify.com/album/02BB3vcZOc5FHqQO7718qZ) | 4:27 | 2021-12-01 |  |
-| [ALL FOR ONE](https://open.spotify.com/track/0aHMW71tBrND7kjmln70Mp) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [ALL FOR ONE](https://open.spotify.com/album/2YTQSLs2UDe1IM4KEUHJyu) | 0:29 | 2021-12-01 |  |
+| [ALL FOR ONE](https://open.spotify.com/track/0aHMW71tBrND7kjmln70Mp) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [ALL FOR ONE](https://open.spotify.com/album/2YTQSLs2UDe1IM4KEUHJyu) | 4:15 | 2021-12-01 |  |
 | [Animal Kingdom](https://open.spotify.com/track/2wAryG29r8m1kOTL3SHWRP) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Animal Kingdom](https://open.spotify.com/album/2Db37z791rVaI1HHN6YZXA) | 3:34 | 2021-12-01 |  |
 | [Another Land](https://open.spotify.com/track/4hXCLt55j8I2NGm9nhhglr) | [Dave Holland](https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH) | [Another Land](https://open.spotify.com/album/7m0f9210yYIhCKDTf9FwnS) | 9:18 | 2021-12-01 |  |
 | [Arrival of the new elders](https://open.spotify.com/track/7ceZz0qPciS2RHS2a1x61F) | [Elephant9](https://open.spotify.com/artist/7fX6TkG03KYZv7jAaZKC5v) | [Arrival of the New Elders](https://open.spotify.com/album/37Ktx9E8xami9Q7EJzVkpV) | 6:50 | 2021-12-01 |  |

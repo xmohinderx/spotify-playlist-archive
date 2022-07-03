@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0N3eAirRjZ.md) - [plain]
 
 > From slack\-key masters to songwriting royals, Native Hawaiians have been behind the isles' most memorable music\. Cover: <a href="spotify:artist:69NjH5MsRLr0CX0zSlGmN3">Jake Shimabukuro</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,241 likes - 52 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,271 likes - 52 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0N3eAirRjZ.md) - [plain]
 | 3 | [Hawai'i '78 Introduction](https://open.spotify.com/track/6DynsXxu5oaCgkt4lXutoM) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Facing Future](https://open.spotify.com/album/0pquf1NcG9FdiypBPwICu9) | 5:05 |
 | 4 | [Moonlight Lady](https://open.spotify.com/track/1HOMw6a7ywU1AiFMIS7FcV) | [Gabby Pahinui](https://open.spotify.com/artist/2Ju4D1DqBETuLI2hAsoqHu) | [Gabby Pahinui Hawaiian Band, Vol\. 1](https://open.spotify.com/album/2mAXdR3BgOOvQCmRKsLecw) | 4:23 |
 | 5 | [Ipo Lei Manu](https://open.spotify.com/track/5WyLpJPhodJDTTgtJEbq71) | [Cyril Pahinui](https://open.spotify.com/artist/7wsc0FqwFJpSWeSjuBMBJ5) | [6 & 12 String Slack Key](https://open.spotify.com/album/5v62N5kiseJw91NvmVt0S5) | 5:13 |
-| 6 | [Hanalei I Ka Pilimoe](https://open.spotify.com/track/16AgooUpw2xG8OQqGepEJZ) | [Kalani Pe'a](https://open.spotify.com/artist/2dn7TmEojNdgWeRhbO15hg) | [E Walea](https://open.spotify.com/album/5lm1nmjm0NWth85dImVdgt) | 0:29 |
+| 6 | [Hanalei I Ka Pilimoe](https://open.spotify.com/track/16AgooUpw2xG8OQqGepEJZ) | [Kalani Pe'a](https://open.spotify.com/artist/2dn7TmEojNdgWeRhbO15hg) | [E Walea](https://open.spotify.com/album/5lm1nmjm0NWth85dImVdgt) | 3:09 |
 | 7 | [Wahine 'Ilikea](https://open.spotify.com/track/1MtfC9i9HHG6DCXClvbwxw) | [Dennis Kamakahi](https://open.spotify.com/artist/2Ntbsut1zuMvsXBTDGj18Y) | [Pua'ena](https://open.spotify.com/album/6l3VoFEh7GUOELXRtaHMHk) | 4:29 |
 | 8 | [How Far I'll Go](https://open.spotify.com/track/6mb6lVLNrcUgLnEN8QnDJd) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:43 |
 | 9 | [Bamboo](https://open.spotify.com/track/30KQItegXK7Refn1PbNcmI) | [Kimie Miner](https://open.spotify.com/artist/0WqR2IuhhxLCTryPSvFv61) | [Proud as the Sun](https://open.spotify.com/album/3hpjWOp3vPo04z7iWtT4c3) | 3:37 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0N3eAirRjZ.md) - [plain]
 | 18 | [Morning Dew](https://open.spotify.com/track/6FmZlee5EidftqgWdWsgpY) | [Eddie Kamae And The Sons Of Hawai\`i](https://open.spotify.com/artist/1CLvn8aRUUOP99CHGbDJ9D) | [The Best of Sons of Hawaii \- Vol\. 1](https://open.spotify.com/album/3StaEONhQtqYpNNjsTiHBd) | 2:55 |
 | 19 | [Kaua'I Beauty](https://open.spotify.com/track/4ZATv5J2rmfnj3mta0qBAe) | [Gabby Pahinui](https://open.spotify.com/artist/2Ju4D1DqBETuLI2hAsoqHu) | [Rabbit Island Music Festival](https://open.spotify.com/album/6lINMX2Lg6bcCmZKw69OXQ) | 3:29 |
 | 20 | [Pālehua](https://open.spotify.com/track/4yTG9hIbRRZHQcjcij3suF) | [Amy Hanaiali'i](https://open.spotify.com/artist/2EmDuzFyrKX0CVFgwnU61Q), [Willie K](https://open.spotify.com/artist/2RzwqtC6CQeZUDXWz6wzlV) | [Hanaiali'i](https://open.spotify.com/album/5P41jVL17AKxQs1NT2apt0) | 3:23 |
-| 21 | [Ku'u Poli'ahu](https://open.spotify.com/track/2sfZQiHXz95HPaMX9hZ1bl) | [Kalani Pe'a](https://open.spotify.com/artist/2dn7TmEojNdgWeRhbO15hg) | [E Walea](https://open.spotify.com/album/5lm1nmjm0NWth85dImVdgt) | 0:29 |
+| 21 | [Ku'u Poli'ahu](https://open.spotify.com/track/2sfZQiHXz95HPaMX9hZ1bl) | [Kalani Pe'a](https://open.spotify.com/artist/2dn7TmEojNdgWeRhbO15hg) | [E Walea](https://open.spotify.com/album/5lm1nmjm0NWth85dImVdgt) | 3:43 |
 | 22 | [E O Mai](https://open.spotify.com/track/6kXkbhwZcz6d7h04WsYswt) | [Keali'i Reichel](https://open.spotify.com/artist/5QieUEtijtUF3ABBp5JVYP) | [E O Mai](https://open.spotify.com/album/53GlD1PZG8AWOhpgCIIpCd) | 4:37 |
 | 23 | [Nani Koolau](https://open.spotify.com/track/2vj1gPvngTblmHXCvH3u2H) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Keauhou](https://open.spotify.com/album/4hDluwslVpgRDAovwCyjO5) | 2:28 |
 | 24 | [Haleakala Hula](https://open.spotify.com/track/5op9hoVsdz26naItLYuwMb) | [Uluwehi Guerrero](https://open.spotify.com/artist/7bZEhAbKw58nj7f7dxISjd) | [Uluwehi Sings Na Mele Hula Aloha](https://open.spotify.com/album/6c8VrZiE7YDNRjpa7ciSGe) | 2:35 |

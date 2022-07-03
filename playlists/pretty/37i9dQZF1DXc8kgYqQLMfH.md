@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > The chillest instrumental lofi beats, certified lush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 994,700 likes - 366 songs - 14 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 994,765 likes - 366 songs - 14 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -177,7 +177,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 167 | [Fade Away](https://open.spotify.com/track/0N8xcgJldOu3c7sOM3xo7K) | [lostoutside](https://open.spotify.com/artist/6VnH3ZBgQcJl7aukGnVjjL) | [Fade Away](https://open.spotify.com/album/2evuwGsDHMb3h17P7v2Tc8) | 2:44 |
 | 168 | [2 unreal](https://open.spotify.com/track/3UCygC7JAMINFBr2fQL91x) | [heavy tone](https://open.spotify.com/artist/7E4tM3LfCNhRISIXPPprFE) | [2 unreal](https://open.spotify.com/album/61lwGB5uZ3W8FQk233sGHE) | 2:10 |
 | 169 | [crocodileteeth](https://open.spotify.com/track/5Rp86RZTmqiyE78JNt0wWg) | [shapeofbeatz](https://open.spotify.com/artist/4FsGtMHS0hniDPi7GjMvj5) | [crocodileteeth](https://open.spotify.com/album/0Uw8xYaT9ITRYcXFTIdRrY) | 2:36 |
-| 170 | [Umbrella Shopping](https://open.spotify.com/track/7MgqCfXy33YBpunYl1uhMQ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Umbrella Shopping](https://open.spotify.com/album/638MCjxBy9yOuhN34rB4x6) | 0:29 |
+| 170 | [Umbrella Shopping](https://open.spotify.com/track/7MgqCfXy33YBpunYl1uhMQ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Umbrella Shopping](https://open.spotify.com/album/638MCjxBy9yOuhN34rB4x6) | 2:21 |
 | 171 | [another LOOK](https://open.spotify.com/track/3ujm2z1mOalAvVyE0yDLbF) | [francesco MG](https://open.spotify.com/artist/3jsOcrGsjDdIRR7EobZMDr) | [another LOOK](https://open.spotify.com/album/52v3M4zfMlRUQjkALjohRU) | 1:57 |
 | 172 | [Night Lamp](https://open.spotify.com/track/3qcbdFslrw2uio8gPVVLuM) | [Jhove](https://open.spotify.com/artist/1R9fj5Tiy9XMFp5ANzS7FA) | [Cozy Winter](https://open.spotify.com/album/2cnaJP2xvzWXH3CNCthGWP) | 2:15 |
 | 173 | [Hometown Cafe](https://open.spotify.com/track/6jjpHma6BEh62xBJeasFyf) | [Vens Adams](https://open.spotify.com/artist/5aqTLMEUNAGDfzRNBzJZiQ) | [Hometown Cafe](https://open.spotify.com/album/2sdFvHsLUhvyR7O1S3RC0m) | 2:35 |

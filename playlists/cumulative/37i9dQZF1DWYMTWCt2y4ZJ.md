@@ -4,7 +4,7 @@
 
 > Bring in the new day.
 
-77 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/1HHwhvfbuBfWujgfAr4FRh)
+77 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/1HHwhvfbuBfWujgfAr4FRh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,11 +16,11 @@
 | [Bless The Rains In India](https://open.spotify.com/track/57cmpxG9ZVzVRyrK7HXaoE) | [Goa Gubhar](https://open.spotify.com/artist/6wcKtx6vCZVkuSjR4a7UaB) | [Bless The Rains In India](https://open.spotify.com/album/7ztQjntjsQwv8BnmwH2SqU) | 2:12 | 2022-05-17 |  |
 | [Brittle](https://open.spotify.com/track/3VTgychGZYTT0uO1sdSjwb) | [Unilow](https://open.spotify.com/artist/3zSgZfjvgK6sEyiEVa2vQa) | [Brittle](https://open.spotify.com/album/7iNZEy0A7iqOhgM4CGayfK) | 1:54 | 2022-05-17 |  |
 | [Bryophyta](https://open.spotify.com/track/0RsowQU2tkZoqlMK5fAU3Z) | [Ranjan E](https://open.spotify.com/artist/6cREMEcDlVDzlRcvGzHrQq) | [Tranquility](https://open.spotify.com/album/3u2rJW0pTLPOvX9GgwjaOL) | 3:30 | 2022-06-01 |  |
-| [Calma En El Espacio](https://open.spotify.com/track/6YUVHsAqX6pku0lgWRur48) | [P\. Kock](https://open.spotify.com/artist/2rgJcYeNUebBUrewWW2rMm) | [Trance Tranquilo](https://open.spotify.com/album/2bSubrjoMdH5byb177KVti) | 0:29 | 2022-05-17 |  |
+| [Calma En El Espacio](https://open.spotify.com/track/6YUVHsAqX6pku0lgWRur48) | [P\. Kock](https://open.spotify.com/artist/2rgJcYeNUebBUrewWW2rMm) | [Trance Tranquilo](https://open.spotify.com/album/2bSubrjoMdH5byb177KVti) | 3:00 | 2022-05-17 |  |
 | [Celeste](https://open.spotify.com/track/3xuNzrasYXvVTf60xkEyxm) | [Pete Kuzma](https://open.spotify.com/artist/1soVmt3it3JPNte29yAPXa) | [Equilibrium](https://open.spotify.com/album/1lOur4CWBrll1VSycG3fFH) | 9:20 | 2022-05-17 |  |
 | [Chakra Flow Beat](https://open.spotify.com/track/2yVYWhj44F5uLKyTXtDAFP) | [Sun Of Sanny](https://open.spotify.com/artist/5luG8VudoiQNvcN2OEcdpC) | [Zone Out Beats](https://open.spotify.com/album/6sMoy5WKH2lqNzOP7UZWOY) | 3:00 | 2022-05-17 |  |
 | [Chaturanga](https://open.spotify.com/track/7hfJeqDWIA1OJizeFd1YxH) | [Start Of Something Good](https://open.spotify.com/artist/37qYg33d5znCp06dghSGz4) | [Chaturanga](https://open.spotify.com/album/7g0nKAHc5ShQ2quCpXz9hr) | 3:03 | 2022-05-17 |  |
-| [Deep Meditation](https://open.spotify.com/track/1KkiMB3T1IRvxwP9DCBZWt) | [Tribal Drums Ambient](https://open.spotify.com/artist/43sPSu5S998ea5L4wtaZCV) | [Enter the Spirit World \- Shamanic Drumming Meditation](https://open.spotify.com/album/3qFC7eIbzF9nBD79xX47rH) | 0:29 | 2022-05-17 |  |
+| [Deep Meditation](https://open.spotify.com/track/1KkiMB3T1IRvxwP9DCBZWt) | [Tribal Drums Ambient](https://open.spotify.com/artist/43sPSu5S998ea5L4wtaZCV) | [Enter the Spirit World \- Shamanic Drumming Meditation](https://open.spotify.com/album/3qFC7eIbzF9nBD79xX47rH) | 3:09 | 2022-05-17 |  |
 | [Dreamer Lounge](https://open.spotify.com/track/2cAp2tBDCzIXqiqiKe0IMa) | [Estelle Blanca](https://open.spotify.com/artist/1PoodiuzhtzA3XvvjO0uoM) | [Dreamer Lounge](https://open.spotify.com/album/5tMWJnbD4bwaZYQKq2Chke) | 4:55 | 2022-05-17 |  |
 | [Drifting](https://open.spotify.com/track/07HyW4lru1xdPooGfX3s6x) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Drifting](https://open.spotify.com/album/6TDEdmR4SSC7mUXXU8EdbQ) | 3:13 | 2022-05-17 |  |
 | [Early Bright](https://open.spotify.com/track/0yT6mUjUs7CiFeO3kXDEAB) | [Rhia Medina](https://open.spotify.com/artist/0l1AWcJLnjRdZx1XLVki2p) | [Early Bright](https://open.spotify.com/album/3L7tcCyYDAAVUkcNe9Nl7i) | 4:08 | 2022-06-01 |  |
@@ -78,7 +78,7 @@
 | [Sígueme](https://open.spotify.com/track/1PsJNnqXyaufkAJi0a7b4g) | [Zulima Cerda](https://open.spotify.com/artist/3VcUX4dm7OTAx6JlT8x9Tn) | [Sígueme](https://open.spotify.com/album/5ng3WKav3ROU6p0tdQJOyx) | 3:53 | 2022-06-01 |  |
 | [The Escape](https://open.spotify.com/track/0VJ0mF41QVvhfRSYDHcJTg) | [Shaban Hashmi](https://open.spotify.com/artist/7DNrBvOfstbGggvLlBql7k) | [The Escape](https://open.spotify.com/album/4s1SFohbC9Zw7BYXCC8L3e) | 2:57 | 2022-05-17 |  |
 | [Train Of Thought](https://open.spotify.com/track/2A9lt19lArZNMpyWyfC0Er) | [Percussion As Medicine](https://open.spotify.com/artist/3FRJVDCXmMrOEnjzr24ful) | [The Next Journey](https://open.spotify.com/album/2Ymow8WnJxJKmWTWMWzu25) | 3:00 | 2022-06-23 |  |
-| [Trance Tranquilo](https://open.spotify.com/track/59ilgrA53futwwjj232Y70) | [P\. Kock](https://open.spotify.com/artist/2rgJcYeNUebBUrewWW2rMm) | [Trance Tranquilo](https://open.spotify.com/album/2bSubrjoMdH5byb177KVti) | 0:29 | 2022-05-17 |  |
+| [Trance Tranquilo](https://open.spotify.com/track/59ilgrA53futwwjj232Y70) | [P\. Kock](https://open.spotify.com/artist/2rgJcYeNUebBUrewWW2rMm) | [Trance Tranquilo](https://open.spotify.com/album/2bSubrjoMdH5byb177KVti) | 2:53 | 2022-05-17 |  |
 | [Tribal Drums](https://open.spotify.com/track/7ngYj0qqIj8tCaNBoGI3RR) | [Tribal Drums Ambient](https://open.spotify.com/artist/43sPSu5S998ea5L4wtaZCV) | [Tribal Drums & Jungle Sounds \(African Spirit \- Relax \- Chill – Meditate\)](https://open.spotify.com/album/5WVcyeQAHSh7d3Rpr1mdwz) | 3:19 | 2022-05-17 |  |
 | [Upper Manang](https://open.spotify.com/track/0sw6C9oeuUazFsoTtaIbef) | [The Dallay Llamas](https://open.spotify.com/artist/1rNyFpeh9Ok00sFw0wMATm) | [Ambient Beats](https://open.spotify.com/album/3LJWICezUY2TSwZ0STN9Qe) | 3:16 | 2022-05-17 |  |
 | [Vesuvius](https://open.spotify.com/track/7oWWok4HLj5H1XZ6WWysJ0) | [Dreemy](https://open.spotify.com/artist/7Hh9phP3DEcbwxipzObxum) | [Paradiso](https://open.spotify.com/album/7xjY2vV7TQVf8PBhauR0qZ) | 3:05 | 2022-05-17 |  |

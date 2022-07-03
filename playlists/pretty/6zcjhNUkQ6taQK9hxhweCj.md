@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6zcjhNUkQ6taQK9hxhweCj.md) - [plain]
 
 > Deep, dark, gritty, vintage sounds from the best in indie blues folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 423 likes - 48 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 423 likes - 48 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,22 +36,22 @@ pretty - [cumulative](/playlists/cumulative/6zcjhNUkQ6taQK9hxhweCj.md) - [plain]
 | 26 | [Bang Bang Bang](https://open.spotify.com/track/4pF0B8Fae3dQrsuWds2iQ9) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [DOROTHY](https://open.spotify.com/album/0BLEb3WftkWqtcetytTYIc) | 3:09 |
 | 27 | [Ain't No Easy Way](https://open.spotify.com/track/57XbiF3mXSAXDntyEw57lW) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Howl](https://open.spotify.com/album/3otJWr2xpdvZJGNS303RCZ) | 2:36 |
 | 28 | [An Honest Man](https://open.spotify.com/track/37C9PC2PjE2oURNjOyzof4) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Fantastic Negrito \- EP](https://open.spotify.com/album/6wSl4enVRjlcQ890pqfQqk) | 4:04 |
-| 29 | [Little Lady Blues](https://open.spotify.com/track/1LfGP4l3u94cu57cR4khzq) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Orange Co\. Serenade](https://open.spotify.com/album/4SEomhM9X27zNDnJjal0yW) | 0:29 |
+| 29 | [Little Lady Blues](https://open.spotify.com/track/1LfGP4l3u94cu57cR4khzq) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Orange Co\. Serenade](https://open.spotify.com/album/4SEomhM9X27zNDnJjal0yW) | 5:12 |
 | 30 | [Henry Nearly Killed Me \(It's a Shame\)](https://open.spotify.com/track/3WlKwc0STwk7MYHyn2FjXm) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Gossip In The Grain \(Expanded Edition\)](https://open.spotify.com/album/7iMybHeeEiPQSEI0TG3pdo) | 4:22 |
 | 31 | [Land Of The Red Man](https://open.spotify.com/track/0n1qmC4kLGVtZ9BEi5iIx8) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Oklahoma Room: Folk Alliance International 2014](https://open.spotify.com/album/5FCZd4PWRL44BM9tdsVdyv) | 3:06 |
 | 32 | [Gone Forever](https://open.spotify.com/track/39EQX63g5VOvBOpcN1orlQ) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Red To Blue](https://open.spotify.com/album/1I9c6ocArmYynUppXD68tx) | 2:31 |
 | 33 | [Crocodile Tears](https://open.spotify.com/track/0lcsIpA9Ff2DZufaMIQe4k) | [little hurricane](https://open.spotify.com/artist/5VLQQzAkJrzG7QggE4DVg2) | [Homewrecker](https://open.spotify.com/album/16fqu9m0E5Q4zj7nGX3Zw3) | 3:55 |
 | 34 | [My Love Will Never Die](https://open.spotify.com/track/5XYmnUaaZ3D9Sqdt9SInEn) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Deluxe\)](https://open.spotify.com/album/7HW03Zew4rnOhy5uwskRSz) | 3:55 |
 | 35 | [Old Number Seven](https://open.spotify.com/track/7FqrsV0vBwNiQNQI6jfzni) | [The Devil Makes Three](https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte) | [The Devil Makes Three](https://open.spotify.com/album/18VR3tbMXiPOEj4rQfSp1k) | 3:20 |
-| 36 | [Don't Need It](https://open.spotify.com/track/4DnK27URnJcCULRNDHvm2M) | [William Elliott Whitmore](https://open.spotify.com/artist/55N838yCXjxLVkBkIM5pnf) | [Field Songs \(Deluxe Edition\)](https://open.spotify.com/album/5udj0c8CJSjywp6SKHsV2x) | 0:29 |
+| 36 | [Don't Need It](https://open.spotify.com/track/4DnK27URnJcCULRNDHvm2M) | [William Elliott Whitmore](https://open.spotify.com/artist/55N838yCXjxLVkBkIM5pnf) | [Field Songs \(Deluxe Edition\)](https://open.spotify.com/album/5udj0c8CJSjywp6SKHsV2x) | 3:33 |
 | 37 | [Night Has Turned to Day](https://open.spotify.com/track/0jVfp8deBjwdoi2oEm5hgK) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Fantastic Negrito \- EP](https://open.spotify.com/album/6wSl4enVRjlcQ890pqfQqk) | 2:38 |
 | 38 | [Gold](https://open.spotify.com/track/2BEqkiPEzz4tYul7V0SGxW) | [Arum Rae](https://open.spotify.com/artist/4aqcilLiGfXetHrTuC8DG9) | [Gold](https://open.spotify.com/album/3TO7DNWI1fhBnPtjw0afJ5) | 4:31 |
 | 39 | [Three More Days](https://open.spotify.com/track/2pDOP7lUpO5LGUz798H0me) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Till The Sun Turns Black](https://open.spotify.com/album/6teArUjXEHY8nEbWiOf1Hq) | 3:36 |
 | 40 | [1922 Blues](https://open.spotify.com/track/0F3ZS2gMHCImgws6ewz1H7) | [Charlie Parr](https://open.spotify.com/artist/2OOAWkt15smEKXtNNLtaNG) | [Cheap Wine](https://open.spotify.com/album/7u3ltEekQZKZllPqivvqK4) | 2:44 |
 | 41 | [Honeysuckle Reel](https://open.spotify.com/track/6AvLsGpRX9GEej0zB7evfj) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Jesus I'm a Sinner](https://open.spotify.com/album/398IZHABZSTKg102AxTtTO) | 6:02 |
-| 42 | [Diggin' My Grave](https://open.spotify.com/track/07Z4CI73SekNXsxXXXAhKr) | [William Elliott Whitmore](https://open.spotify.com/artist/55N838yCXjxLVkBkIM5pnf) | [Ashes To Dust](https://open.spotify.com/album/3odZLVZ4BXZqMVmc8bekJg) | 0:29 |
+| 42 | [Diggin' My Grave](https://open.spotify.com/track/07Z4CI73SekNXsxXXXAhKr) | [William Elliott Whitmore](https://open.spotify.com/artist/55N838yCXjxLVkBkIM5pnf) | [Ashes To Dust](https://open.spotify.com/album/3odZLVZ4BXZqMVmc8bekJg) | 4:06 |
 | 43 | [Crazy Woman](https://open.spotify.com/track/5ke9Y5BL0wbGOg4pshd1B0) | [Joseph LeMay](https://open.spotify.com/artist/3BRHUE4Ml0PKrgZ5EjVtxf) | [Seventeen Acres](https://open.spotify.com/album/2gHqNCEbiiYGoE8WAEkFZf) | 2:02 |
-| 44 | [How Come](https://open.spotify.com/track/4UZ8dxT61HzbPLNp1Gycvi) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [How Come / Crazy \(bundled DMD\)](https://open.spotify.com/album/4VI2C9TksdVBBfRn4wccWO) | 0:29 |
+| 44 | [How Come](https://open.spotify.com/track/4UZ8dxT61HzbPLNp1Gycvi) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [How Come / Crazy \(bundled DMD\)](https://open.spotify.com/album/4VI2C9TksdVBBfRn4wccWO) | 4:32 |
 | 45 | [Rage and Romance](https://open.spotify.com/track/0ytikc2Iq4n8DMKhPC0wta) | [Bressie](https://open.spotify.com/artist/3D41HynDjvBpU1qZKLiLJG) | [Rage and Romance](https://open.spotify.com/album/3DcfOciG6ZUijn1H0CER9D) | 3:59 |
 | 46 | [What Am I Supposed to Do](https://open.spotify.com/track/57hVV3mmrsrHpLEpSTYQac) | [Gráinne Duffy](https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y) | [What Am I Supposed to Do](https://open.spotify.com/album/0WEI1Lq5JQN5qg7QsiKB1o) | 3:08 |
 | 47 | [Trouble](https://open.spotify.com/track/5aGkIyzLVYGuLIHkxpNAFF) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 4:01 |

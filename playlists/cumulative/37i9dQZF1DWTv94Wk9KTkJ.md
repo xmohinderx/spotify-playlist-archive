@@ -4,7 +4,7 @@
 
 > The sound of 90s Jungle rave\. Cover: Roni Size
 
-59 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/6zmrmBwg0PlQPL7DiorJDW)
+59 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/6zmrmBwg0PlQPL7DiorJDW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Terminator](https://open.spotify.com/track/3FuuPyLf9DNNEcUIIStfQ6) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M), [Rufige Kru](https://open.spotify.com/artist/0MgahdBy1vfsp1loFoGIAm) | [Fabio & Grooverider: 25 Years of Drum & Bass](https://open.spotify.com/album/47dIhhn4qcCG3Qa5fOijmS) | 4:14 | 2021-10-08 |  |
 | [Terrorist \- P.A\. Mix](https://open.spotify.com/track/11ZQDGsvYVBHPGpJFjZs8J) | [Renegade](https://open.spotify.com/artist/3vBaLrnIgG5WCQ3pTeZexc) | [Past\. Present\. Future.](https://open.spotify.com/album/2Odn4l4j1GQ1dsQTNqr380) | 6:10 | 2021-10-08 |  |
 | [The Burial](https://open.spotify.com/track/0BIAlQguOM4MSEDUjqOqkc) | [Leviticus](https://open.spotify.com/artist/78jhiSCR4W1RQvj1rT0pwt) | [Jungle Hits, Vol\. 1](https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z) | 4:07 | 2021-10-08 |  |
-| [The Cult \(The Initiation Test\) \[2015 Remaster\]](https://open.spotify.com/track/6EXhOUR5Zn0mc8aXmXN701) | [Source Direct](https://open.spotify.com/artist/0fo0tocXO4ZkkVn3L0VZzB) | [The Cult \(The Initiation Test\) \[2015 Remaster\]](https://open.spotify.com/album/5bfdSLq0csFmes30g5bpPe) | 0:29 | 2021-10-08 |  |
+| [The Cult \(The Initiation Test\) \[2015 Remaster\]](https://open.spotify.com/track/6EXhOUR5Zn0mc8aXmXN701) | [Source Direct](https://open.spotify.com/artist/0fo0tocXO4ZkkVn3L0VZzB) | [The Cult \(The Initiation Test\) \[2015 Remaster\]](https://open.spotify.com/album/5bfdSLq0csFmes30g5bpPe) | 6:20 | 2021-10-08 |  |
 | [The Dark Stranger \- Origin Unknown Mix](https://open.spotify.com/track/1Kq8kp5peOU5LT5shtI7hI) | [Boogie Times Tribe](https://open.spotify.com/artist/0IEo8gcFe2WFGGF9L8Rmqy) | [Real Hardcore / The Dark Stranger \(Remixes\)](https://open.spotify.com/album/6GcPNm6cDE31mLuxOkZw2K) | 5:27 | 2021-10-08 |  |
 | [The HitMan](https://open.spotify.com/track/5qKLBsQExtiZIlYBma1ibC) | [Marvellous Cain](https://open.spotify.com/artist/3DyNrfbjNdST3C9fjeocIx), [Cutty Ranks](https://open.spotify.com/artist/4qDGDPGMIJuIvPfUGe0Ngg) | [The HitMan Album](https://open.spotify.com/album/6UVVqclFvo1jpZ7ybrDffQ) | 5:38 | 2021-10-08 |  |
 | [The Rain](https://open.spotify.com/track/6UGAuLqCF3dcsRiOfjI8Yh) | [Photek](https://open.spotify.com/artist/3hXDMlrPegHRO0zUvBsRSI) | [Natural Born Killa \(2015 Remaster\)](https://open.spotify.com/album/1PGAtvKNq4sBHpVrdwDfcS) | 6:29 | 2021-10-08 |  |

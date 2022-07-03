@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Kollektiv Turmstrasse
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,139 likes - 75 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,356 likes - 75 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Yap](https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt) | [Kollektiv Turmstrasse](https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N) | [YAP EP](https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf) | 4:06 |
+| 1 | [YAP](https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt) | [Kollektiv Turmstrasse](https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N) | [YAP EP](https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf) | 4:06 |
 | 2 | [Rave The Planet \- Matchy Remix](https://open.spotify.com/track/1iZrk8b1UC2eLFydwwkqwd) | [A\*S\*Y\*S](https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq), [Kai Tracid](https://open.spotify.com/artist/0frSMmZSEdr8pVRi8PBSwF), [Matchy](https://open.spotify.com/artist/5BF9eGIdwa9gt4RAXP8w1n) | [Rave the Planet: Supporter Series, Vol\. 010](https://open.spotify.com/album/52n4i6lMVthIBaLRxMZPaq) | 5:49 |
 | 3 | [Corruptor](https://open.spotify.com/track/3OELmOqYPMc39dCRXm9OTL) | [Julien Riess](https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N), [Clap Codex](https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj) | [Corruptor](https://open.spotify.com/album/4wRK4Fux5p2vpXLxppcFHF) | 6:14 |
 | 4 | [Fino](https://open.spotify.com/track/7FuAVEMSHC6W20Y0agpEVc) | [Marek Hemmann](https://open.spotify.com/artist/7tL5UmgvPx6TqKyf0Sjjw6) | [Four](https://open.spotify.com/album/6bdpZUfLh2AnGveQIokC7X) | 5:28 |
 | 5 | [All I Got](https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [All I Got](https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h) | 5:04 |
 | 6 | [Bariel](https://open.spotify.com/track/0GSPCQJjn2n79DIHG1uJyn) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Bariel \| Vivo](https://open.spotify.com/album/1UyMYFuQG0uqHDtiTVG2HW) | 7:08 |
-| 7 | [Felicity](https://open.spotify.com/track/1MiQ67ljfXuuxh25CbdbUr) | [Annett Gapstream](https://open.spotify.com/artist/1aRB0SZZ28qswBQ037uYvD), [Daniele Di Martino](https://open.spotify.com/artist/1P0crNTkAtkSEDCGsbd2JJ) | [Hidden Peak](https://open.spotify.com/album/4r39P3IcmkJ3rIiGKbOwIg) | 6:51 |
+| 7 | [Felicity](https://open.spotify.com/track/1MiQ67ljfXuuxh25CbdbUr) | [Annett Gapstream](https://open.spotify.com/artist/1aRB0SZZ28qswBQ037uYvD), [Daniele De Martino](https://open.spotify.com/artist/1P0crNTkAtkSEDCGsbd2JJ) | [Hidden Peak](https://open.spotify.com/album/4r39P3IcmkJ3rIiGKbOwIg) | 6:51 |
 | 8 | [Small Stone](https://open.spotify.com/track/0DKi5UcgoLikM85Z8Z4hpJ) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Bella Mar 09](https://open.spotify.com/album/6SuXhXKHHeQku1JzyHAyZH) | 7:29 |
 | 9 | [Meli \(II\)](https://open.spotify.com/track/6nGhGBz7uaE1RngnIFRKep) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Meli \(II\)](https://open.spotify.com/album/6pDZnLDqV5XuiVmuSw7oZs) | 6:57 |
 | 10 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 34 | [Affection \- Radio Edit](https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Affection](https://open.spotify.com/album/0Q62ehvfJy5DN51XOIVvfP) | 4:31 |
 | 35 | [Unlocked \- Einmusik Remix](https://open.spotify.com/track/5hRRDrpfl39Gfw7jXEZx82) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO), [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Unlocked \(Einmusik Remix\)](https://open.spotify.com/album/6vzHHn8bY3ja0rwkbhZ4NB) | 7:28 |
 | 36 | [Healing](https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Healing](https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF) | 4:11 |
-| 37 | [Sandcastles](https://open.spotify.com/track/5wxSvvLTBMxrXi2EB6FjSz) | [Kadosh](https://open.spotify.com/artist/25Z7ON66VerIXHx1lZISaa), [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt), [Abrão](https://open.spotify.com/artist/58V5v9MFPcR1Ok4K6gVQsq) | [Sandcastles](https://open.spotify.com/album/2tWiZunnla7G5rQ9LgxMxV) | 5:11 |
+| 37 | [Sandcastles](https://open.spotify.com/track/5wxSvvLTBMxrXi2EB6FjSz) | [Kadosh \(IL\)](https://open.spotify.com/artist/3e1Dyl2ZhXliPe3Mls724W), [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt), [Abrão](https://open.spotify.com/artist/58V5v9MFPcR1Ok4K6gVQsq) | [Sandcastles](https://open.spotify.com/album/2tWiZunnla7G5rQ9LgxMxV) | 5:11 |
 | 38 | [Afterhour \- Panik Pop Remix](https://open.spotify.com/track/0Y7wUwMvDQaEiyJ2J4Y1bB) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ), [Panik Pop](https://open.spotify.com/artist/15Nueahy0j87JWtT1kuTUr) | [Afterhour \(Panik Pop Remix\)](https://open.spotify.com/album/1nENmyUjRdsNxqmfDnr4MU) | 5:22 |
 | 39 | [XYZ](https://open.spotify.com/track/7cbsuVHDGO1QWG15TUOOtp) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [XYZ](https://open.spotify.com/album/3w9iuZp9kg9WxPLOw6myZu) | 9:35 |
 | 40 | [Haze \- Original Mix](https://open.spotify.com/track/5BzsY9SIZapFmhjQgb1W3F) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Haze](https://open.spotify.com/album/6s6pgnKGwTGC8wqTfvB2ZW) | 3:49 |

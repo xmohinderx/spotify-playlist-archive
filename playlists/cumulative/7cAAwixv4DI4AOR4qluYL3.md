@@ -4,7 +4,7 @@
 
 > Release all your worries\. Enjoy the times with sounds from legends like  Bob Marley, Snoop Dogg &amp; Bone Thugs \-N\- Haromony\. \#HighlyRecommended
 
-35 songs - 2 hr 25 min - [published](https://open.spotify.com/playlist/4W5NkBGu8xQU1vAb0RFHFt)
+35 songs - 2 hr 28 min - [published](https://open.spotify.com/playlist/4W5NkBGu8xQU1vAb0RFHFt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Sloppy Seconds](https://open.spotify.com/track/65hRTH6400D3pZRTGFn7bw) | [MAJ](https://open.spotify.com/artist/2k6fdnEIyk7t8Mfg6SoRg1) | [Majestic](https://open.spotify.com/album/2yJ3oHBTFaqFWuUkFklrGv) | 2:11 | 2021-08-12 |  |
 | [Splash Waterfalls](https://open.spotify.com/track/2T8hXV9LUZMDBKR5RALGEa) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Chicken \- N \- Beer](https://open.spotify.com/album/3hJHXxX04PNuGFIxdEHGzg) | 4:50 | 2021-08-12 |  |
 | [Studio](https://open.spotify.com/track/29gsi1zZrZxdStACmTQB0Z) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Oxymoron \(Deluxe\)](https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS) | 4:38 | 2021-08-12 |  |
-| [Substance](https://open.spotify.com/track/1dOlBYd9p7MC2BAvWzP4zb) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [The Wolf of Grape Street](https://open.spotify.com/album/4TnfqHgc2h5iAK87jU2ZKJ) | 0:29 | 2021-08-12 |  |
+| [Substance](https://open.spotify.com/track/1dOlBYd9p7MC2BAvWzP4zb) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [The Wolf of Grape Street](https://open.spotify.com/album/4TnfqHgc2h5iAK87jU2ZKJ) | 3:39 | 2021-08-12 |  |
 | [Summertime Sadness](https://open.spotify.com/track/2dBwB667LHQkLhdYlwLUZK) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX) | 4:25 | 2021-08-12 |  |
 | [Trigger Protection Mantra](https://open.spotify.com/track/10OJeHia1lrq7OCY2lSJiP) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Trigger Protection Mantra](https://open.spotify.com/album/2NGGOdyDlyb4bu3vqQqF83) | 6:54 | 2021-08-12 |  |
 | [Tryna Smoke](https://open.spotify.com/track/4CqSF73VXQcpDTXsCy97CV) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Micahfonecheck](https://open.spotify.com/artist/2BJ1U2lQ3XLZLmEHcMPCZ0) | [Chilombo](https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920) | 4:29 | 2021-08-12 |  |

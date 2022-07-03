@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EhO7YjjFdrNRtTHcRrnnQ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 346 likes - 50 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 346 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/7EhO7YjjFdrNRtTHcRrnnQ.md) - [plain]
 | 8 | [Wheels](https://open.spotify.com/track/789lq0oHhOa4pHh2y9rjkN) | [The String\-A\-Longs](https://open.spotify.com/artist/7CG3fjmCcZHXOnxYrpgE6W) | [The Very Best Of The String\-A\-Longs](https://open.spotify.com/album/7bdYWc82ghgo6dCOupoVpp) | 1:56 |
 | 9 | [Raindrops](https://open.spotify.com/track/15Mgtv48qiYKrGuAWugXGe) | [Dee Clark](https://open.spotify.com/artist/6PyZY3e7wgYgRdegqvqhSo) | [Golden Hits forever V5](https://open.spotify.com/album/7aDs155Ps2HI81WIrqQ6Oh) | 2:53 |
 | 10 | [Wooden Heart](https://open.spotify.com/track/7h5V6w1ZGb8VHlq6HHbCoY) | [Joe Dowell](https://open.spotify.com/artist/1b5taabb9eKSbyzVFVtEjh) | [Wooden Heart](https://open.spotify.com/album/2WoXvDJbgfpgdi7zStiZmO) | 1:59 |
-| 11 | [Calcutta](https://open.spotify.com/track/6G43xPTXl0zVgTajZMhW0y) | [Lawrence Welk](https://open.spotify.com/artist/2GMH35k5oLCjzYpn5HbaD8) | [Gold Pop Hits, Vol\. 1](https://open.spotify.com/album/40Yzx8QGyYyke893SEqY5m) | 0:29 |
+| 11 | [Calcutta](https://open.spotify.com/track/6G43xPTXl0zVgTajZMhW0y) | [Lawrence Welk](https://open.spotify.com/artist/2GMH35k5oLCjzYpn5HbaD8) | [Gold Pop Hits, Vol\. 1](https://open.spotify.com/album/40Yzx8QGyYyke893SEqY5m) | 2:12 |
 | 12 | [Take Good Care Of My Baby](https://open.spotify.com/track/19ZAI2LNUDj8TVpA6GwVWS) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Very Best Of](https://open.spotify.com/album/7d0HZUrDOmRKEzHvJv3ITe) | 2:40 |
 | 13 | [Running Scared](https://open.spotify.com/track/3aVE8eVqfZrGapoJlZxwIY) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [The Soul of Rock and Roll](https://open.spotify.com/album/6VRhs2rkIAiREYXkVBAznF) | 2:11 |
 | 14 | [Dedicated to the One I Love \- Rerecorded Version](https://open.spotify.com/track/365aSqfttyHcCsUZyJqVlg) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [The Shirelles \- Their Very Best \(Rerecorded Version\)](https://open.spotify.com/album/7drJ2KUsPcmRcmcYv77FK2) | 2:16 |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-938 songs - 2 day 7 hr 42 min - [published](https://open.spotify.com/playlist/1X8NDOgNVf1JiUkXM1Dr6p)
+938 songs - 2 day 7 hr 45 min - [published](https://open.spotify.com/playlist/1X8NDOgNVf1JiUkXM1Dr6p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,7 +350,7 @@
 | [Hold Tight](https://open.spotify.com/track/5or0ryC6EUT7kS92UEGqxd) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z) | [Hold Tight](https://open.spotify.com/album/6A8EQjE44jLANRwT2aW8Pb) | 2:56 | 2022-01-28 |  |
 | [Hold You \- Radio Edit](https://open.spotify.com/track/6yXnuj4IRmxPA3EGmeMaEm) | [Basto](https://open.spotify.com/artist/2BJTwV4IpFe2gWL46KKlji) | [Hold You](https://open.spotify.com/album/5tBSGPO7sT7qkYQqlOfeu5) | 3:07 | 2019-08-09\* | 2019-08-27 |
 | [Holding Out](https://open.spotify.com/track/0dPCSrtlGF3u1ZmsCAypyA) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [OFF TOPIC](https://open.spotify.com/artist/2EkCbvLgEkaVCsie6LIEoF), [Leshii](https://open.spotify.com/artist/3vGf3Uz4bg1fJ13vAOy1P5) | [Holding Out](https://open.spotify.com/album/6wn2UoElvYYhxpwUWShYEA) | 2:13 | 2022-01-28 |  |
-| [Home](https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 0:29 | 2021-09-25 |  |
+| [Home](https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 3:33 | 2021-09-25 |  |
 | [Home](https://open.spotify.com/track/3p4jH0PZG21xXwzRS7HpNb) | [Madison Mars](https://open.spotify.com/artist/4gJCFxvqKc43Ifk0UIBB42), [Maggie Szabo](https://open.spotify.com/artist/1V5IVmwHG2veT0CUw3kb48) | [Home](https://open.spotify.com/album/1l9kZTdYca4Nmh8gCPiPBb) | 2:39 | 2019-08-09\* | 2020-03-29 |
 | [Home](https://open.spotify.com/track/3AvERZJm26CbR8ocBxFJUo) | [Rave New World](https://open.spotify.com/artist/4ko7cVxrcdvwdRkkmiNcRI), [Hayes](https://open.spotify.com/artist/3Kt54LmUUFohHUBMQyeJnp) | [Home](https://open.spotify.com/album/3UI3NPVpmvruXo05LR5qh2) | 3:08 | 2020-06-04 | 2021-09-25 |
 | [Hope](https://open.spotify.com/track/7cq9AiuDxB2vtkZuNDOQey) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH), [Armen Paul](https://open.spotify.com/artist/1CwqAnNZyIYqC7SWpTUpwk) | [Hope](https://open.spotify.com/album/65dMS7CtUAN2pI6M2G1iE0) | 3:22 | 2021-08-15 | 2022-05-14 |

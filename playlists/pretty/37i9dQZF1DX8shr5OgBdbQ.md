@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8shr5OgBdbQ.md) - [plain]
 
 > centuries\-old sailor songs gone viral \- it's sea shanty season, baby.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,214 likes - 65 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,584 likes - 65 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8shr5OgBdbQ.md) - [plain]
 | 28 | [Don't Forget Your Old Shipmate](https://open.spotify.com/track/7w7B0C7kT6CWLPGb0i4ArG) | [Jerry Bryant](https://open.spotify.com/artist/3O6SFPGCWeXe7B02fHQAjz), [Starboard Mess](https://open.spotify.com/artist/3rujIhhEfyEZa5BXhkHhYg) | [Roast Beef Of Old England](https://open.spotify.com/album/4KCfIyIyrl8YsiUzjQksWQ) | 3:12 |
 | 29 | [South Australia](https://open.spotify.com/track/7amND3Jv7pGQbBYblkla7G) | [Kimber's Men](https://open.spotify.com/artist/1cwHLCOp0xUtjZjSMycdNa) | [Don't Take the Heroes](https://open.spotify.com/album/0whldGNWL48oyCjLpuqGpg) | 2:15 |
 | 30 | [Eliza Lee](https://open.spotify.com/track/7vL3rT6hAv7Gixf3y1XDBy) | [The Dreadnoughts](https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD) | [Victory Square](https://open.spotify.com/album/2dzB7PJM0Fp0sbfISamjKH) | 1:57 |
-| 31 | [John Kanackanaka](https://open.spotify.com/track/50SKJ7ghPxA7JN8cP8wl8O) | [The Captain's Beard](https://open.spotify.com/artist/6QtAINH26V0kxbDgJPs0y4) | [Same Ship Different Day](https://open.spotify.com/album/7l23sIXASu6Sy4fSMCY2WI) | 0:29 |
+| 31 | [John Kanackanaka](https://open.spotify.com/track/50SKJ7ghPxA7JN8cP8wl8O) | [The Captain's Beard](https://open.spotify.com/artist/6QtAINH26V0kxbDgJPs0y4) | [Same Ship Different Day](https://open.spotify.com/album/7l23sIXASu6Sy4fSMCY2WI) | 3:15 |
 | 32 | [High Barbary](https://open.spotify.com/track/6rAO4DLmkQ1Z8YKod6mxdq) | [Storm Weather Shanty Choir](https://open.spotify.com/artist/0okdQDzOszSXXqigrEv6wF) | [A Drop of Nelson\`s Blood](https://open.spotify.com/album/4IsqzRXr5C43qehSkWHfRF) | 3:11 |
 | 33 | [Roll Down](https://open.spotify.com/track/7kKij7JoKP18RGmzki96hj) | [John Roberts](https://open.spotify.com/artist/6R1ancOh80DsLFq5QlKEK0), [The Revels Chorus](https://open.spotify.com/artist/1JINVUk1oB4ri3xG6UU9Jc) | [Homeward Bound: Sea Songs, Ballads, and Chanteys](https://open.spotify.com/album/6OdLaBj4056Vnj1SzbcWU6) | 2:48 |
 | 34 | [The Jolly Roving Tar](https://open.spotify.com/track/5HFTXdXOYdrTBTQzENl3Y6) | [The Irish Rovers](https://open.spotify.com/artist/0tkKwWigaADLYB9HdFCjYo) | [Another Round](https://open.spotify.com/album/7dUj8xwItvNidixaT4CIq8) | 2:28 |

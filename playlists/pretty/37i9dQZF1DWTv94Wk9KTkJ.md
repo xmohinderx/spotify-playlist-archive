@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTv94Wk9KTkJ.md) - [plain]
 
 > The sound of 90s Jungle rave\. Cover: Roni Size
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,709 likes - 59 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,719 likes - 59 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTv94Wk9KTkJ.md) - [plain]
 | 33 | [Only You \(Original Mix\) \[2011 Remastered Version\]](https://open.spotify.com/track/2Sn0kVVniQtPXHy3yqRwNt) | [Nookie](https://open.spotify.com/artist/491cHKkjRVcGaChy40l4Bh) | [Klass of '92 \- '95 \(Lesson 3\)](https://open.spotify.com/album/5mH05vKa8zsJWULxSjaySm) | 5:19 |
 | 34 | [Rage](https://open.spotify.com/track/6Y9XPY9REWZVamYddqRnZl) | [Doc Scott](https://open.spotify.com/artist/1cuov4jcw3lXOvCANG7Kg4) | [Reinforced Presents Doc Scott \- The Early Plates](https://open.spotify.com/album/64nIGwlPFeIyOxgva8PMBl) | 5:36 |
 | 35 | [The Rain](https://open.spotify.com/track/6UGAuLqCF3dcsRiOfjI8Yh) | [Photek](https://open.spotify.com/artist/3hXDMlrPegHRO0zUvBsRSI) | [Natural Born Killa \(2015 Remaster\)](https://open.spotify.com/album/1PGAtvKNq4sBHpVrdwDfcS) | 6:29 |
-| 36 | [The Cult \(The Initiation Test\) \[2015 Remaster\]](https://open.spotify.com/track/6EXhOUR5Zn0mc8aXmXN701) | [Source Direct](https://open.spotify.com/artist/0fo0tocXO4ZkkVn3L0VZzB) | [The Cult \(The Initiation Test\) \[2015 Remaster\]](https://open.spotify.com/album/5bfdSLq0csFmes30g5bpPe) | 0:29 |
+| 36 | [The Cult \(The Initiation Test\) \[2015 Remaster\]](https://open.spotify.com/track/6EXhOUR5Zn0mc8aXmXN701) | [Source Direct](https://open.spotify.com/artist/0fo0tocXO4ZkkVn3L0VZzB) | [The Cult \(The Initiation Test\) \[2015 Remaster\]](https://open.spotify.com/album/5bfdSLq0csFmes30g5bpPe) | 6:20 |
 | 37 | [Sound Control \- Remix](https://open.spotify.com/track/5P1p2XFeiObLFFeHX34MMX) | [Randall](https://open.spotify.com/artist/67VkLpQzaLkYHMcTD4TZsT), [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N) | [Sound Control](https://open.spotify.com/album/1acBq5uLxTBAB6U5bCkIeX) | 6:27 |
 | 38 | [The HitMan](https://open.spotify.com/track/5qKLBsQExtiZIlYBma1ibC) | [Marvellous Cain](https://open.spotify.com/artist/3DyNrfbjNdST3C9fjeocIx), [Cutty Ranks](https://open.spotify.com/artist/4qDGDPGMIJuIvPfUGe0Ngg) | [The HitMan Album](https://open.spotify.com/album/6UVVqclFvo1jpZ7ybrDffQ) | 5:38 |
 | 39 | [Terrorist \- P.A\. Mix](https://open.spotify.com/track/11ZQDGsvYVBHPGpJFjZs8J) | [Renegade](https://open.spotify.com/artist/3vBaLrnIgG5WCQ3pTeZexc) | [Past\. Present\. Future.](https://open.spotify.com/album/2Odn4l4j1GQ1dsQTNqr380) | 6:10 |

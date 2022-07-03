@@ -4,7 +4,7 @@
 
 > Dedicated to all the programmers out there.
 
-103 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/6vdqrM7pwsj6HQdLoLegp2)
+103 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/6vdqrM7pwsj6HQdLoLegp2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Monsters Theme](https://open.spotify.com/track/1ZF7dgpDrpruRFeS2EXlFk) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Monsters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3dTSBzYUFB1AjAoCTyxIHY) | 4:55 | 2021-12-08 |  |
 | [My Funny Valentine](https://open.spotify.com/track/1UWlVOM5NZdkFZobaYeAv5) | [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb) | [Midnight Thoughts](https://open.spotify.com/album/6u1pNJvksMfMkHaZAVOL3a) | 2:41 | 2021-12-08 |  |
 | [Nothing It Can](https://open.spotify.com/track/4ecwrnFDSJLlLyZlEH7YGK) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Moiety](https://open.spotify.com/album/2ep9D35aw04xUbb8crArYg) | 4:47 | 2021-12-08 |  |
-| [Once Around](https://open.spotify.com/track/17C3EXdU2eFGKnesQTkEJr) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Hardly A Day, Hardly A Night](https://open.spotify.com/album/3sXK7ip7DA3SZSKeYFbf6Q) | 0:29 | 2021-12-08 |  |
+| [Once Around](https://open.spotify.com/track/17C3EXdU2eFGKnesQTkEJr) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Hardly A Day, Hardly A Night](https://open.spotify.com/album/3sXK7ip7DA3SZSKeYFbf6Q) | 3:42 | 2021-12-08 |  |
 | [One Too Many](https://open.spotify.com/track/3MfbA1oqDBXC2teY5yFqR5) | [Exist Strategy](https://open.spotify.com/artist/5I1pEm0UZGOxOHtCNkLzut) | [Dreamcatcher](https://open.spotify.com/album/3NVFHTmDQPvM9rDJv1fpYm) | 4:00 | 2021-12-08 |  |
 | [Optimistic Nihilism](https://open.spotify.com/track/3PmEzB2ORXmXBx07JY9z66) | [Epic Mountain](https://open.spotify.com/artist/7meq0SFt3BxWzjbt5EVBbT) | [Kurzgesagt, Vol\. 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1lCnMllidUf5pmU5N67vb6) | 6:12 | 2021-12-08 |  |
 | [Origin Myth](https://open.spotify.com/track/1fFylTl5SVntCpGX6LMS9l) | [Hiatus](https://open.spotify.com/artist/421vyBBkhgRAOz4cYPvrZJ) | [Defeat](https://open.spotify.com/album/1wQlfIPrPVURn2gpi3rvBf) | 4:43 | 2021-12-08 |  |

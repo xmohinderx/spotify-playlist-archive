@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The biggest Armada tracks of the moment! \| Updated weekly on Friday \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! Cover: ARTY
 
-[Armada Music ](https://open.spotify.com/user/armadamusicofficial) - 285,931 likes - 145 songs - 7 hr 38 min
+[Armada Music ](https://open.spotify.com/user/armadamusicofficial) - 285,932 likes - 145 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 61 | [Sway](https://open.spotify.com/track/5GkG36tzfeuSaeW5TROrE4) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU) | [Sway](https://open.spotify.com/album/0AzztMsrs61QyBF9b1IaJh) | 4:01 |
 | 62 | [Who Do You Love](https://open.spotify.com/track/2w1rG2MPE4vF77znvevuz5) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82) | [Who Do You Love](https://open.spotify.com/album/1r4sDUkdHzyP6li28uad6c) | 3:28 |
 | 63 | [Love Tonight \- Edit](https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Love Tonight](https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H) | 4:01 |
-| 64 | [See](https://open.spotify.com/track/6dNjwLlwBLJ8Y9QqAWoFy5) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [QG](https://open.spotify.com/artist/2MtpoQ7X39CySVKyTPcTde) | [See](https://open.spotify.com/album/6AmI6DcY5HSiGKy8jXQ6lA) | 0:29 |
+| 64 | [See](https://open.spotify.com/track/6dNjwLlwBLJ8Y9QqAWoFy5) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [QG](https://open.spotify.com/artist/2MtpoQ7X39CySVKyTPcTde) | [See](https://open.spotify.com/album/6AmI6DcY5HSiGKy8jXQ6lA) | 2:27 |
 | 65 | [You've Got To Let Go If You Want To Be Free](https://open.spotify.com/track/5kVXjAxYDkN57tZQi0JKya) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [You've Got To Let Go If You Want To Be Free](https://open.spotify.com/album/7nJFzH65HZDY5qeRwdo421) | 4:13 |
 | 66 | [Club Addict](https://open.spotify.com/track/4bCmNtxTlcWaiYCRV5oTZX) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [FTampa](https://open.spotify.com/artist/6P6fVBXZjnqdgq2z2b8WlO), [Spankox](https://open.spotify.com/artist/15VeucLAy98diDPJ0T3J2V) | [Club Addict](https://open.spotify.com/album/6h9YS888ld8a40S1YjOfFk) | 2:39 |
 | 67 | [Echoes](https://open.spotify.com/track/2pW7OYEY2hmOMWZPtnUxyH) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Florentin](https://open.spotify.com/artist/4h5iVy88coDjOop3wM2wTp), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Echoes](https://open.spotify.com/album/0IyPqEUN6H1H6Sym8jQfnv) | 3:27 |

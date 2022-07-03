@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 
 > Feline\-friendly tracks curated by musicologist <a href="spotify:artist:0TMyZy9NGJJ7NKMAgCgw6B">David Teie</a>, who pioneered scientifically researched music for cats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,788 likes - 33 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,795 likes - 33 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 | 25 | [For I Will Consider My Cat Jeoffry](https://open.spotify.com/track/3SqawUAmaZGwmzleROyk4E) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Music for Cats Album Two](https://open.spotify.com/album/1qFiqPsxCwQ3Ty5mC5YogI) | 9:04 |
 | 26 | [In my quiet hour](https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk) | [Nicholas Sipka](https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4) | [In My Quiet Hour](https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN) | 2:06 |
 | 27 | [Cozmo's Air](https://open.spotify.com/track/58VLKJL8y3FknrqLUVXPrI) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Cozmo's Air](https://open.spotify.com/album/6eBttKmf7eOaZICEyy2re8) | 4:12 |
-| 28 | [Scintillans](https://open.spotify.com/track/4zI7J4c58Br1tY10NDyhlR) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Yoga Gong Karma](https://open.spotify.com/album/1T9xagnSXjguJIoXiidlly) | 0:29 |
+| 28 | [Scintillans](https://open.spotify.com/track/4zI7J4c58Br1tY10NDyhlR) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Yoga Gong Karma](https://open.spotify.com/album/1T9xagnSXjguJIoXiidlly) | 3:40 |
 | 29 | [Padma's Love](https://open.spotify.com/track/6OYcPLbRiymptR5AmbfDZo) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Padma's Love](https://open.spotify.com/album/2CZKoSfjQWJOQfxjGjjjGN) | 6:17 |
 | 30 | [Bach, JS : Well\-Tempered Clavier Book 1 : Prelude No.9 in E major BWV854](https://open.spotify.com/track/3YMtL47xfTkFJHjAu8Snr8) | [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH) | [Bach, JS : Well\-Tempered Clavier Books 1 & 2](https://open.spotify.com/album/66zilH1HJzRLEorco0u6bS) | 1:10 |
 | 31 | [Rusty's Ballad](https://open.spotify.com/track/2GB1uEIsHWNoXldwN6mtyI) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Rusty's Ballad](https://open.spotify.com/album/0TSPCRCHOY6rnGxcCklrxF) | 3:21 |

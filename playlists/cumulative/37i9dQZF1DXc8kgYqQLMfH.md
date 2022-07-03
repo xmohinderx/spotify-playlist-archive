@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-480 songs - 18 hr 10 min - [published](https://open.spotify.com/playlist/5YUfjMmTDPWP2hNxKcTfly)
+480 songs - 18 hr 11 min - [published](https://open.spotify.com/playlist/5YUfjMmTDPWP2hNxKcTfly)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -452,7 +452,7 @@
 | [Turtle Plaza](https://open.spotify.com/track/4ZNeDsp0Fa4qlfPNC3pXGC) | [Atium](https://open.spotify.com/artist/0PW19PrYxmKaE37EEaH9s9) | [Transmorphia](https://open.spotify.com/album/6XGsaOVHwuNXh5vuO96Efe) | 2:48 | 2022-06-10 |  |
 | [twin planet](https://open.spotify.com/track/3nhzAqz5Asv0avIhJ1g63u) | [phonadium](https://open.spotify.com/artist/1EbUbtNohBB2nDSZVdb0P8) | [twin planet](https://open.spotify.com/album/3xPP7FAISkVunroqwDsubD) | 1:46 | 2021-11-10 |  |
 | [u make me](https://open.spotify.com/track/6OyPiy5eWajl56cC6Em7no) | [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc), [milligon](https://open.spotify.com/artist/62h3mAlyYduSmprbNEdKKD) | [u make me](https://open.spotify.com/album/3iXK2nkrVGdDeAd50g67UY) | 2:02 | 2021-11-10 |  |
-| [Umbrella Shopping](https://open.spotify.com/track/7MgqCfXy33YBpunYl1uhMQ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Umbrella Shopping](https://open.spotify.com/album/638MCjxBy9yOuhN34rB4x6) | 0:29 | 2021-11-10 |  |
+| [Umbrella Shopping](https://open.spotify.com/track/7MgqCfXy33YBpunYl1uhMQ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Umbrella Shopping](https://open.spotify.com/album/638MCjxBy9yOuhN34rB4x6) | 2:21 | 2021-11-10 |  |
 | [Underwater](https://open.spotify.com/track/78lEAnMeOms1c1FXioIeeu) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b), [Funcc.](https://open.spotify.com/artist/3vAvHFXAMYvfj5AO2CoYyX) | [Underwater](https://open.spotify.com/album/12UhzmLUAd5IF165Hl3jSv) | 2:22 | 2021-11-10 |  |
 | [Union Station](https://open.spotify.com/track/4sW9IMneuWCFGj3bZDbDcM) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [Astor Place](https://open.spotify.com/album/71nfxEIhkcqhV2oI7o14Ha) | 2:06 | 2021-11-10 |  |
 | [Untold Desires](https://open.spotify.com/track/7iylZC6ZfsVSg36NlyXJay) | [Finera](https://open.spotify.com/artist/4qSQK3nJNme4sjc8r4qp4g) | [Untold Desires](https://open.spotify.com/album/1mfum6OJjEW0zuy7FYyIu1) | 3:11 | 2021-11-10 |  |

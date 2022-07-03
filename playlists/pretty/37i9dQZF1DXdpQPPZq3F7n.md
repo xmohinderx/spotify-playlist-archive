@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 
 > Best Bollywood love songs from last 10 years\. Cover\- Kartik Aaryan & Kiara Advani
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,006 likes - 81 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,517 likes - 81 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

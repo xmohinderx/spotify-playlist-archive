@@ -4,7 +4,7 @@
 
 > Trending Sinhalese pop hits\. Cover \- Kanchana Anuradhi
 
-88 songs - 5 hr 2 min - [published](https://open.spotify.com/playlist/2w2mbMpgTPMFcOGFWypro1)
+88 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/2w2mbMpgTPMFcOGFWypro1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Dekopul Kandulin Thema](https://open.spotify.com/track/7wZqg79usELs6HuvHTwHkV) | [Nethsara Weragoda](https://open.spotify.com/artist/0MC4cnVn8M5CBaeKbDTsTI), [Samadhi Amarasekara](https://open.spotify.com/artist/7b1bHZybJ3gVLbyXATDRTe) | [Dekopul Kandulin Thema](https://open.spotify.com/album/5UD8STyZUHAJY23nmCItKP) | 2:56 | 2022-06-16 |  |
 | [Gajaman Nona](https://open.spotify.com/track/23OqflDGsKLH6XtMAieuEH) | [Tehan Perera](https://open.spotify.com/artist/1iH07mFEjrWomKuOTLzfWQ), [Yohani](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI) | [Gajaman Nona](https://open.spotify.com/album/4ioPNbZVGmtOcqvp9O24lx) | 2:43 | 2022-06-16 |  |
 | [Hadisida Manda](https://open.spotify.com/track/0CkNKzssNAh57audyrH4on) | [Kanchana Anuradhi](https://open.spotify.com/artist/5FvRanU1qnYzZQ5BpIfU9u) | [Hadisida Manda](https://open.spotify.com/album/0ElpRevvStUmwmtFSmoQqt) | 3:03 | 2022-06-16 |  |
-| [Hamuwe Mathuda](https://open.spotify.com/track/0tpKlAungiQraTaVMFA657) | [Chathura Herath](https://open.spotify.com/artist/5JPIOYsRaP0QpRY9QNzMcl), [Rashan Balasooriya](https://open.spotify.com/artist/7y9m5o4dJ6jmxeUqYo9azF) | [Hamuwe Mathuda](https://open.spotify.com/album/74jaQh0GyhlA4nLhNjKdjy) | 0:29 | 2022-06-16 |  |
+| [Hamuwe Mathuda](https://open.spotify.com/track/0tpKlAungiQraTaVMFA657) | [Chathura Herath](https://open.spotify.com/artist/5JPIOYsRaP0QpRY9QNzMcl), [Rashan Balasooriya](https://open.spotify.com/artist/7y9m5o4dJ6jmxeUqYo9azF) | [Hamuwe Mathuda](https://open.spotify.com/album/74jaQh0GyhlA4nLhNjKdjy) | 3:29 | 2022-06-16 |  |
 | [Handa Gawin](https://open.spotify.com/track/2Egxrl73wREKmp1F2nvE3l) | [DILU Beats](https://open.spotify.com/artist/01O8OueZDiqUJjOu7XPb4t) | [Handa Gawin](https://open.spotify.com/album/0klqE21kzuXBdJwCDnnTR0) | 3:16 | 2022-06-16 |  |
 | [Handuma](https://open.spotify.com/track/6ftcWq7l9TcLhiuQcQz86O) | [Akesh Jayasekara](https://open.spotify.com/artist/6FSL4d07XMwrTvq3BQ8szw) | [Handuma](https://open.spotify.com/album/2VoM31br3y2KIhQ9n3b5z0) | 3:00 | 2022-06-16 |  |
 | [Hanthana Sulange](https://open.spotify.com/track/5zFWB4cNjPiLNSnpyV4N4n) | [Stereomiinds](https://open.spotify.com/artist/24OHgf3gPyP5DomDcDVu8T), [Mahiru Senarathne](https://open.spotify.com/artist/3Od0SSFki2d6U1jnmoUaBC), [Nipuni Herath](https://open.spotify.com/artist/2jJNXKV8EVepbVOKgpxK5P) | [Hanthana Sulange](https://open.spotify.com/album/1DZWyKLKp7k9UFZGsojfxS) | 3:12 | 2022-06-16 |  |

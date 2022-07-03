@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : KGF 2
 
-267 songs - 16 hr 24 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
+267 songs - 16 hr 28 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Bangariye \(From "Ramachari 2.0"\)](https://open.spotify.com/track/4zUMveC2iio3Ru0nwCrU5O) | [Sunder Murthy](https://open.spotify.com/artist/4S0V3g0wtpNCUA1WUGSttx), [Rajesh Krishnan](https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA) | [Bangariye \(From "Ramachari 2.0"\)](https://open.spotify.com/album/3pbMDOY7ghEilMP0NqwvUQ) | 3:31 | 2022-02-14 | 2022-03-18 |
 | [Bawarachi](https://open.spotify.com/track/64SaDxpTury4CdKhVkQsi1) | [Sharan Hriday](https://open.spotify.com/artist/5Mr6ANAhx1CK9yRgzlfA7F) | [Harikathe Alla Girikathe](https://open.spotify.com/album/4fZoOvaEJWjvlRPVsapTvi) | 3:09 | 2022-06-06 |  |
 | [Beda Maga Lovvu \(From "Dear Sathya"\)](https://open.spotify.com/track/27G7ZywN5ALriHVvvVnglS) | [Sridhar V Sambhram](https://open.spotify.com/artist/1vlXEDp2Wt9eej8ZUda2e9), [Upendra](https://open.spotify.com/artist/2gmPDpR4396fHMXsV1jWbH) | [Beda Maga Lovvu \(From "Dear Sathya"\)](https://open.spotify.com/album/1UAr5YTXCK70VQtaB8doFe) | 2:57 | 2022-02-24 |  |
-| [Bekaagide \(From "Family Pack"\)](https://open.spotify.com/track/3JoRp9FCBFzqjaLjjEukTF) | [Viraj Kannadiga](https://open.spotify.com/artist/6CypdIb3CMp5anB6ZuHrBg) | [Bekaagide \(From "Family Pack"\)](https://open.spotify.com/album/78PAq8vbZrz6A0d1WSrUGf) | 0:29 | 2022-03-11 |  |
+| [Bekaagide \(From "Family Pack"\)](https://open.spotify.com/track/3JoRp9FCBFzqjaLjjEukTF) | [Viraj Kannadiga](https://open.spotify.com/artist/6CypdIb3CMp5anB6ZuHrBg) | [Bekaagide \(From "Family Pack"\)](https://open.spotify.com/album/78PAq8vbZrz6A0d1WSrUGf) | 4:00 | 2022-03-11 |  |
 | [Bellakki Salanthe](https://open.spotify.com/track/1E0BWIbjxfOrhCUroeR0KJ) | [Sangeetha Ravindranath](https://open.spotify.com/artist/7jgOOSGT9VG1PSH90uFx43) | [Bettada Daari](https://open.spotify.com/album/1mCVc1EN7BUB7Gp6OwzHGy) | 3:52 | 2022-02-14 | 2022-03-14 |
 | [Benki Jwaale](https://open.spotify.com/track/4cnfOZUWeijWIUyJqNqyZv) | [Chethan Naik](https://open.spotify.com/artist/3DaORH0Tws7WPuMKnQQj3Y) | [Benki Jwaale \(From "Minnal Murali"\)](https://open.spotify.com/album/0MkLRXzGauDA50Pz6aauY8) | 2:12 | 2021-12-06 | 2022-05-19 |
 | [Bevarsi Mansa](https://open.spotify.com/track/3ApW8FONGoEe170g8Ulkd1) | [Vasuki Vaibhav](https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5) | [Harikathe Alla Girikathe](https://open.spotify.com/album/3d7zADljhH7sCuTGfySUGx) | 3:05 | 2022-06-22 |  |

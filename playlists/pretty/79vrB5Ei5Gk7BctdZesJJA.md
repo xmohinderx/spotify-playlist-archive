@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79vrB5Ei5Gk7BctdZesJJA.md) - [plain]
 
 > 
 
-[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,222 likes - 46 songs - 3 hr 2 min
+[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,222 likes - 46 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/79vrB5Ei5Gk7BctdZesJJA.md) - [plain]
 | 21 | [Love Is The Greatest](https://open.spotify.com/track/70KGBOSIqfvrLwAagwXMEa) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [Bigger House](https://open.spotify.com/album/3M53cSxzAfidJd8SkA1tf5) | 3:23 |
 | 22 | [Another World](https://open.spotify.com/track/5hsq03E3do2gWhyOVV2Api) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Another World](https://open.spotify.com/album/4tyLNMywFElpCHVQUZVWVa) | 4:24 |
 | 23 | [Skeletons](https://open.spotify.com/track/0Kxo5gRKRJTsZdoBZW2a5L) | [Heartist](https://open.spotify.com/artist/3ewd1UqC9cTejovPED15BS) | [Feeding Fiction](https://open.spotify.com/album/35UcF0fsrd9r3EJElSMG7Q) | 3:33 |
-| 24 | [Turn Off The Guitar](https://open.spotify.com/track/5GyD1xmgMg02yLift5Z1BA) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [Lil House](https://open.spotify.com/album/3ScexrVTPWJiGP8rCAGccD) | 0:29 |
+| 24 | [Turn Off The Guitar](https://open.spotify.com/track/5GyD1xmgMg02yLift5Z1BA) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [Lil House](https://open.spotify.com/album/3ScexrVTPWJiGP8rCAGccD) | 3:09 |
 | 25 | [down in a hole \(live\)](https://open.spotify.com/track/7s9GlBRfncOqT8hIe8iepG) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Under the Skin](https://open.spotify.com/album/3NJLWqAZbcrasaV3aQFQlH) | 5:28 |
 | 26 | [Can You Hear Me](https://open.spotify.com/track/5VXeawVov6ikGAaT0If8n9) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 2:52 |
 | 27 | [We Will Rock You \(feat\. Maria Brink, Lzzy Hale and Taylor Momsen\)](https://open.spotify.com/track/3ltS4rlFrCYkdQqGzVjXBi) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY), [Maria Brink](https://open.spotify.com/artist/6W8xq7TXME3WXP7c7LMWBR), [Taylor Momsen](https://open.spotify.com/artist/31Wr64NZlSHgS0Gz6yoCr5) | [Mother](https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F) | 3:05 |

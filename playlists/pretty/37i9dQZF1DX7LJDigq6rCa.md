@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LJDigq6rCa.md) - [plain]
 
 > This playlist will sing your little ones to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,922 likes - 78 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,926 likes - 78 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LJDigq6rCa.md) - [plain]
 | 18 | [Pensamiento \(Variacion 1\)](https://open.spotify.com/track/1XjmvMlHQeXqXqbIiphr7L) | [Night Effects](https://open.spotify.com/artist/3LYasSAMIunoZHkV2FC7WB) | [Night Effects](https://open.spotify.com/album/6YAH0vPQGXSSWdXv4ENVzU) | 1:42 |
 | 19 | [Holding on to Forever](https://open.spotify.com/track/0CYn7dOi4SC9Eyd7CUpAd2) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [Holding on to Forever](https://open.spotify.com/album/5amcCjE91x6i7liBT9IwMr) | 2:05 |
 | 20 | [Slowly Relaxing](https://open.spotify.com/track/19iBXrL3jjNmm4oDaozXWA) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Peace](https://open.spotify.com/album/7wEhjeiksV9gginrs9wlHu) | 3:21 |
-| 21 | [Small Strokes](https://open.spotify.com/track/3O9oF9EmLGiBEz1nOtADYO) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [The Wood Painter](https://open.spotify.com/album/6WQcSbDE7CnNFLIv5BFWao) | 0:29 |
+| 21 | [Small Strokes](https://open.spotify.com/track/3O9oF9EmLGiBEz1nOtADYO) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [The Wood Painter](https://open.spotify.com/album/6WQcSbDE7CnNFLIv5BFWao) | 2:14 |
 | 22 | [Nysnö](https://open.spotify.com/track/3XUoK60Lyhtf9qyqJrppKq) | [Folksaga](https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf) | [Nysnö](https://open.spotify.com/album/388EAxsyfHxg7BhyDlRTYt) | 2:36 |
 | 23 | [First Flower](https://open.spotify.com/track/2xrzeCo6r8L31gYS0GmmEK) | [Vincente M](https://open.spotify.com/artist/5cLnH6eBtJJnoJ0zChZqJA) | [First Flower](https://open.spotify.com/album/0kRICOLMCYoy7QoN40sSJO) | 3:32 |
 | 24 | [Time For Reflection](https://open.spotify.com/track/68wRmxabhpvkIQZIRpIFHT) | [Izumi Tanaka](https://open.spotify.com/artist/53odzhqrxC4LMAwW26ODLl) | [Time For Reflection](https://open.spotify.com/album/3jn32u4R1RnnPEdQB8ZAk9) | 3:25 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LJDigq6rCa.md) - [plain]
 | 48 | [Jocelyn](https://open.spotify.com/track/1Vv5St0rzB3054EvkADdQi) | [Lost Wings](https://open.spotify.com/artist/5GneKGEamDH29m9tE0zzwo) | [Jocelyn](https://open.spotify.com/album/4WBRH5wwDwGnIHbuVHA1dO) | 2:26 |
 | 49 | [Zhenya](https://open.spotify.com/track/09z4NnaPxtbPsMoKHDaoIy) | [LOVIS](https://open.spotify.com/artist/5BH5JQNu5i1vwN5bX4iDGE) | [Zhenya](https://open.spotify.com/album/3uNqo97i4YJVzvo9r25Smo) | 3:22 |
 | 50 | [Notte](https://open.spotify.com/track/3sAJq6EDW2iNSJnHwLzSqV) | [Scintillante](https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8) | [Notte](https://open.spotify.com/album/5uTX4Gl0qEqf444613cBbn) | 3:19 |
-| 51 | [Chalets](https://open.spotify.com/track/6t3FJ7d30iGl0fSePKZh1O) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [The Wood Painter](https://open.spotify.com/album/6WQcSbDE7CnNFLIv5BFWao) | 0:29 |
+| 51 | [Chalets](https://open.spotify.com/track/6t3FJ7d30iGl0fSePKZh1O) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [The Wood Painter](https://open.spotify.com/album/6WQcSbDE7CnNFLIv5BFWao) | 1:24 |
 | 52 | [Nocturne](https://open.spotify.com/track/6eBlT3u2zNEsuOFL6e6uIR) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Nocturne](https://open.spotify.com/album/0r8EWo5tLMJoOLNhystGx1) | 3:26 |
 | 53 | [Adelita de Tarrega Large Reverb](https://open.spotify.com/track/2Db1pHzdBSdFIz8y7eAQwb) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Cinema Latino Vol\. 2](https://open.spotify.com/album/1FajCPj6rryb58KTupNivW) | 2:24 |
 | 54 | [Castor](https://open.spotify.com/track/7urR40aaLV1jRneNj2ykva) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Castor / Pollux](https://open.spotify.com/album/6P0cJjPi0SSUPXX8rv3s9t) | 2:48 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LJDigq6rCa.md) - [plain]
 | 67 | [Departure](https://open.spotify.com/track/08WVDOzFawhJYTbRInhUTh) | [Ronny Davis](https://open.spotify.com/artist/1swm5Q9C4aCv90Axn6mtBt) | [Departure](https://open.spotify.com/album/7A8Bgt3btjZVsju8hSJIf8) | 1:45 |
 | 68 | [Cloudless](https://open.spotify.com/track/76PhNwBIgoytLw14EXOLXs) | [Sigrid Vass](https://open.spotify.com/artist/1vIOObvjDYAiXHCkLOFCOT) | [Cloudless](https://open.spotify.com/album/3YjZojRZHOiEIALoZey4tp) | 2:23 |
 | 69 | [A Blanket of Snow Spotted from Under the Blankets](https://open.spotify.com/track/72zxrRRQwFmkpZWxaDaRzH) | [Lullatone](https://open.spotify.com/artist/3h100hRlLZ7QDz8GRt5QsD) | [Thinking About Thursdays](https://open.spotify.com/album/3AWATaNWvlDlTOmlemNQDw) | 2:21 |
-| 70 | [Besides, By the Way](https://open.spotify.com/track/64s5jnBOmd6DqmQlphn0Fv) | [Ari Naman](https://open.spotify.com/artist/5JAfV3egghH0G8VAjzk0Ch) | [Things of Meaning](https://open.spotify.com/album/1mBpJKaaCxnal3lHb3ytty) | 0:29 |
+| 70 | [Besides, By the Way](https://open.spotify.com/track/64s5jnBOmd6DqmQlphn0Fv) | [Ari Naman](https://open.spotify.com/artist/5JAfV3egghH0G8VAjzk0Ch) | [Things of Meaning](https://open.spotify.com/album/1mBpJKaaCxnal3lHb3ytty) | 3:28 |
 | 71 | [Nibelia](https://open.spotify.com/track/4f5uEi9y4C2gI4IBalSRjd) | [Algy Lacey](https://open.spotify.com/artist/4FOaoaFSozNtPQFy8O8t48) | [Nibelia](https://open.spotify.com/album/2OdvQNyQdAT3zOsZU3ozrA) | 3:44 |
 | 72 | [Postojna Cave](https://open.spotify.com/track/2wmDt99ctDHWmv90eCUmha) | [Goran Sveic](https://open.spotify.com/artist/6IKG997m7bF9OUAGkkdFtL) | [Postojna Cave](https://open.spotify.com/album/4yBH7PEvcVyTzbfBL0Gkr7) | 2:02 |
 | 73 | [The NIght Sky](https://open.spotify.com/track/74BilO0zChICzNl6bXBFWI) | [Mont Real](https://open.spotify.com/artist/5M5cSnU5RbCkYcKe1wUMKc) | [The NIght Sky](https://open.spotify.com/album/1Si7otf4LNskpi7tmv8XfG) | 2:58 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 
 > Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non\-binary and gender\-fluid artists\. Cover: Smoothboi Ezra
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,904 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,938 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 85 | [Better Place](https://open.spotify.com/track/0iVAXd8mnbslvpMqJ70APv) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [Better Place](https://open.spotify.com/album/0EGwPQKfFVzzHFdT2Mbk56) | 3:46 |
 | 86 | [Brine](https://open.spotify.com/track/2CQ8Mz0HZHqT3196ZArjYb) | [Lonelyspeck](https://open.spotify.com/artist/0ghOmdop8dsN135XRLszJ5) | [Abyssal Body](https://open.spotify.com/album/1IGlNXEE9j2AFOmCyH8isT) | 4:16 |
 | 87 | [Perfect Day](https://open.spotify.com/track/3as34NSXSAq8GII0L2mpq2) | [RVG](https://open.spotify.com/artist/4a2c6VZMfp0CdNg1JgSPR9) | [Feral](https://open.spotify.com/album/3CG7xLmHCRCpwpkM8Z57DV) | 3:09 |
-| 88 | [Cruise Control](https://open.spotify.com/track/7844B2wDjPgnn5KoMQp7py) | [CJ Run](https://open.spotify.com/artist/17g2kHe1KbJjcO3VUDSwVl) | [Cruise Control](https://open.spotify.com/album/4YVLikNjjKfh078gDDwA4l) | 0:29 |
+| 88 | [Cruise Control](https://open.spotify.com/track/7844B2wDjPgnn5KoMQp7py) | [CJ Run](https://open.spotify.com/artist/17g2kHe1KbJjcO3VUDSwVl) | [Cruise Control](https://open.spotify.com/album/4YVLikNjjKfh078gDDwA4l) | 2:20 |
 | 89 | [You You](https://open.spotify.com/track/6RoNRBgP5u2FwbdLvVn91r) | [EGOISM](https://open.spotify.com/artist/6bTkIQfvR8nlRCHLAvbfOD) | [You You](https://open.spotify.com/album/0ckWnHF897G3XED90SvTwd) | 2:52 |
 | 90 | [Brooklyn](https://open.spotify.com/track/5oAbKZU67TxgxrcyMASbdg) | [Angel Haze](https://open.spotify.com/artist/2cyyGl4qnHZL0o16t0fpJl) | [Brooklyn](https://open.spotify.com/album/1Liq7qmM7SRYKdwtZBqoBa) | 3:28 |
 | 91 | [Cherry Pits](https://open.spotify.com/track/27xdKxIYRlXErxVK3k2bsR) | [Grayson](https://open.spotify.com/artist/2ElEn7LIxvcN1icdhbw2WM) | [Cherry Pits](https://open.spotify.com/album/6UCKuzFtM3pEmIbmurBLzG) | 3:26 |

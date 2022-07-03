@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 
 > Zone in \(or out\) with ethereal, meditative instrumental indie folk and acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 682,323 likes - 115 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 682,295 likes - 115 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 | 109 | [Racing in Your Heart](https://open.spotify.com/track/4zS96Q1Ez9HsU3P9fy8N5g) | [Aaron Krause](https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a) | [Holding on to Love](https://open.spotify.com/album/3ZZCl3K8ZZA61skZ03gndS) | 3:35 |
 | 110 | [Geometría del Universo](https://open.spotify.com/track/07WIlZYmpREuOsaMGS3Zxk) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [The Weighing of the Heart](https://open.spotify.com/album/5ZF6lAJxIA9vDsberioKDH) | 2:49 |
 | 111 | [Passepied \(Debussy\)](https://open.spotify.com/track/3TIzlAcIwj0O4NbmRg6nwh) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [The Phosphorescent Blues](https://open.spotify.com/album/3cdqpjwuTvDeLe3RYIGb0j) | 3:29 |
-| 112 | [A Prairie Tale](https://open.spotify.com/track/3a9w7n6rSXCBe0PVnk208y) | [King Creosote](https://open.spotify.com/artist/5SP6T04F8Ic9oftMVfdKkp) | [From Scotland With Love](https://open.spotify.com/album/0rXZ7L03XlBerKk7eP7Phw) | 0:29 |
+| 112 | [A Prairie Tale](https://open.spotify.com/track/3a9w7n6rSXCBe0PVnk208y) | [King Creosote](https://open.spotify.com/artist/5SP6T04F8Ic9oftMVfdKkp) | [From Scotland With Love](https://open.spotify.com/album/0rXZ7L03XlBerKk7eP7Phw) | 1:36 |
 | 113 | [Slide it in](https://open.spotify.com/track/67CxEFAX8brkx6UunTJiYw) | [Jack Broadbent](https://open.spotify.com/artist/2yk5jg6yi5fV6xmUZoBPHU) | [The Busking CD](https://open.spotify.com/album/0PjTLtyKChFTwrdZNyAhVY) | 16:56 |
 | 114 | [Interlude](https://open.spotify.com/track/0QXehgImD8pDxFhUst9Q62) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [Into The Wide](https://open.spotify.com/album/72HInOWKrHycy97O0su9DX) | 1:21 |
 | 115 | [Silence Is Sincerity](https://open.spotify.com/track/73hk94lqe5AE2B4heXzivd) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Heigh Ho](https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6) | 1:12 |

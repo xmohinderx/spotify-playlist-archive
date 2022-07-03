@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c1DPPuq4eNKcS2usgij9m.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 313 likes - 50 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 313 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/6c1DPPuq4eNKcS2usgij9m.md) - [plain]
 | 41 | [Maria Elena](https://open.spotify.com/track/4zLTp8TfnVtEWogn0EOnW0) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Serie Platino](https://open.spotify.com/album/0iQZ9VYJ02QJsfHSNBzth2) | 3:08 |
 | 42 | [Our Day Will Come](https://open.spotify.com/track/6sbYrzvV5EDVWzBr6dvnMZ) | [Ruby And The Romantics](https://open.spotify.com/artist/7y0ngZzIllkP8ZOqgTKQFc) | [The Very Best Of](https://open.spotify.com/album/1SCeirHiK7XpF8IoIcdxfq) | 2:33 |
 | 43 | [I Can't Stay Mad At You \- Re\-Recording](https://open.spotify.com/track/3UIQwJPuSKNJY2VSGnwv2a) | [Skeeter Davis](https://open.spotify.com/artist/5b2OzvLaL6nyxw5pbVbSdy) | [60's Rock 'N' Roll \- It's My Party](https://open.spotify.com/album/5NMfT7IQx9SuKlDd9p0lon) | 2:09 |
-| 44 | [Hello Stranger \- Re\-Recording](https://open.spotify.com/track/5JwG6Rn59Ype0DBKGdk0o2) | [Barbara Lewis](https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq) | [K\-tel Classics](https://open.spotify.com/album/69o0aD5JujCAdMRDHuJNLo) | 0:29 |
+| 44 | [Hello Stranger \- Re\-Recording](https://open.spotify.com/track/5JwG6Rn59Ype0DBKGdk0o2) | [Barbara Lewis](https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq) | [K\-tel Classics](https://open.spotify.com/album/69o0aD5JujCAdMRDHuJNLo) | 2:39 |
 | 45 | [Be My Baby](https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Be My Baby: The Very Best of The Ronettes](https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV) | 2:40 |
 | 46 | [Mean Woman Blues](https://open.spotify.com/track/5DmtXiGB4aAHMXX6ZDWpMP) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [The Soul of Rock and Roll](https://open.spotify.com/album/6VRhs2rkIAiREYXkVBAznF) | 2:24 |
 | 47 | [South Street](https://open.spotify.com/track/3XndB1GUTc4UwawBCDS9qB) | [The Orlons](https://open.spotify.com/artist/7JSIM5U7TZym5M3Q1AFG80) | [Doo Wop Golden Oldies Vol 2](https://open.spotify.com/album/6yub5HBNUIsFT0cikc6BC5) | 2:15 |

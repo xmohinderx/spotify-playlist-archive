@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : OfRo
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,664 likes - 99 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,706 likes - 99 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 | 14 | [Aasai \(feat\. Keerthana Vaidyanathan,EL Fé\)](https://open.spotify.com/track/2JbXWw4Vwp4l7uLgDfZcYX) | [Vinod Krishnan](https://open.spotify.com/artist/2TyxurDE5DjnzVrsKZkRtT), [Keerthana Vaidyanathan](https://open.spotify.com/artist/4L2JVt0fmwYdNB6TsKSyd8), [EL Fé](https://open.spotify.com/artist/74LViySAWlJZmvOT9FTzeZ) | [Aasai](https://open.spotify.com/album/3BXdqVTWAZDy9XoGdOkzko) | 3:23 |
 | 15 | [Bandaid](https://open.spotify.com/track/3UQt4q2ewvcmpA4C95SO0s) | [Akash Rapstar](https://open.spotify.com/artist/4LPgkuqq513xgsAHQZoEsE), [Stan & Sam](https://open.spotify.com/artist/2zeEeBkAKWjSVenQDBHsGM) | [Bandaid](https://open.spotify.com/album/5GRbMklkEaJY3cKjmjPnR1) | 2:52 |
 | 16 | [Nagaraathey](https://open.spotify.com/track/2mIMdEqNmZJdoa4MmZMMzz) | [Nivas K Prasanna](https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp), [Swagatha S\. Krishnan](https://open.spotify.com/artist/7KICJe6VYOCvc44P4XmymX), [Ashwin Raj](https://open.spotify.com/artist/6YhvlmqtSQdFHB2Pjtdsaz) | [Nagaraathey](https://open.spotify.com/album/2MlL9FlrbvDqQwr0Uu7cZc) | 4:08 |
-| 17 | [Karupalagi](https://open.spotify.com/track/3RJmk287ux4AupXvBpqTUy) | [Kishore Krishnan](https://open.spotify.com/artist/54bWfAWORPhZYOlNtBbKph) | [Karupalagi](https://open.spotify.com/album/5y7DrmRCHqXVWFkfq0B9DA) | 3:29 |
+| 17 | [Karupalagi](https://open.spotify.com/track/3RJmk287ux4AupXvBpqTUy) | [Kishore krishnan](https://open.spotify.com/artist/7lCO7RX3b2d22J0OUMYRXj) | [Karupalagi](https://open.spotify.com/album/5y7DrmRCHqXVWFkfq0B9DA) | 3:29 |
 | 18 | [Minnal Polave](https://open.spotify.com/track/5vqH79NmO1FjhzbOZu5tD1) | [Ashwin Johnson](https://open.spotify.com/artist/0O8rN1UPk7BfdSF6mfnSk8), [Santhosini Sekar](https://open.spotify.com/artist/5RkdXIsUPRtIMFK4o3AXuA) | [Minnal Polave](https://open.spotify.com/album/2B068dCnpieQekbTlD1kl7) | 2:49 |
 | 19 | [Amma Ponnu Rambha \- 1 Min Music](https://open.spotify.com/track/6G7k6xe58N8JefYH5ORnj7) | [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [Amma Ponnu Rambha \- 1 Min Music](https://open.spotify.com/album/2rkjcrUFSFPX4YX2ISUCoz) | 0:59 |
 | 20 | [Kannadi Kannamma](https://open.spotify.com/track/4r7zOAAzRiL2keKpduBhmJ) | [AJ Shangarjan](https://open.spotify.com/artist/2TVyorJdc9z0nv29BHuS60) | [Kannadi Kannamma](https://open.spotify.com/album/0UvWqmEthmKkHKb00l6cdI) | 4:11 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 | 86 | [Poonja Kannazhagi](https://open.spotify.com/track/74y0lQHkzOnpvDQsuJAh3a) | [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Reshma Shyam](https://open.spotify.com/artist/6gLyEME6OfBcqYtrDt1JlB) | [Poonja Kannazhagi](https://open.spotify.com/album/1fgtgVhu9fLSb1wWYJdqlJ) | 4:10 |
 | 87 | [Kaathadi](https://open.spotify.com/track/5FlpkXMsHB5C8bjOErpQuy) | [Anand Kashinath](https://open.spotify.com/artist/6MIdOllsuMuSj4s6b833Di), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv) | [Kaathadi](https://open.spotify.com/album/36coKWgWqWR62SkpXeyl4a) | 3:23 |
 | 88 | [Hey Singari](https://open.spotify.com/track/5gwIXB335XKUb6tMlGepQv) | [Arul Raj](https://open.spotify.com/artist/3Cfz36JzWoV8SH9pGokECW), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Hey Singari](https://open.spotify.com/album/4WwSfK1gPABCUFctI3Rjts) | 3:51 |
-| 89 | [Kannamma Eannamma](https://open.spotify.com/track/5nUqv6rpaZg5tnF3XnxIsA) | [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd) | [Kannamma Eannamma](https://open.spotify.com/album/4ZXmtvxSBtCQYJnBUe2qqm) | 0:29 |
+| 89 | [Kannamma Eannamma](https://open.spotify.com/track/5nUqv6rpaZg5tnF3XnxIsA) | [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd) | [Kannamma Eannamma](https://open.spotify.com/album/4ZXmtvxSBtCQYJnBUe2qqm) | 3:20 |
 | 90 | [Katthi](https://open.spotify.com/track/6id01ayZW6GNqKTYDvVREN) | [Santesh](https://open.spotify.com/artist/7DWSfLX0stZ7Fm4JssbiN6) | [Katthi](https://open.spotify.com/album/77Cw0DDVbnzCGmwAWAEO4L) | 4:04 |
 | 91 | [Vaada Raasa](https://open.spotify.com/track/6RfgIiqwQNi6b1n0qaa6g0) | [Ken](https://open.spotify.com/artist/6uYgB2FmDEimp0hJJouph1), [Eshwar](https://open.spotify.com/artist/05e3yCFYzbJC96M1QuHk6S), [Grace Karunaas](https://open.spotify.com/artist/2zEQ0pc1VWUHsXv5gXXBHO) | [Vaada Raasa](https://open.spotify.com/album/0ZmshsAYVZrMktBsNXTsDA) | 3:56 |
 | 92 | [kalla mouni.](https://open.spotify.com/track/2GKvmifoEde5qP39fPtRD5) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Therukural](https://open.spotify.com/album/7gBpS4mYJ2YEvd9GpDn6jI) | 3:09 |

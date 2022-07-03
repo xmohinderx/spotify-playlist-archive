@@ -4,7 +4,7 @@
 
 > Get Ready! Show Time! iKON's new EP 'FLASHBACK' is out now! This is iKON playlist is composed of songs that tell iKON's honest and sentimental stories.
 
-36 songs - 1 hr 46 min - [published](https://open.spotify.com/playlist/1B4kGlPntqKPPV2ND1sBSP)
+36 songs - 1 hr 49 min - [published](https://open.spotify.com/playlist/1B4kGlPntqKPPV2ND1sBSP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [NAME](https://open.spotify.com/track/3JfVKDAZwYSxXJuePMpJQU) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [FLASHBACK](https://open.spotify.com/album/0vBXC0AISO2VRNiqi4iMYF) | 3:57 | 2022-05-12 |  |
 | [PERFECT](https://open.spotify.com/track/7zwuAB4MDkqYMn9NhNEytO) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS REPACKAGE : THE NEW KIDS](https://open.spotify.com/album/2e2VfakLM318HT1VaJsKq2) | 3:33 | 2022-05-12 |  |
 | [Rubber Band](https://open.spotify.com/track/4FMhacfObjPJuLIyPBjc0K) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Rubber Band](https://open.spotify.com/album/11HqY96LRgUCeLnMLWVSBW) | 3:17 | 2022-05-12 |  |
-| [TENDAE](https://open.spotify.com/track/3wdQ9ZioKOzHIs6hA0x88u) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [LOVE AND FALL](https://open.spotify.com/album/5kAYE49gc7C6sRofjnxBbO) | 0:29 | 2022-05-12 |  |
+| [TENDAE](https://open.spotify.com/track/3wdQ9ZioKOzHIs6hA0x88u) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [LOVE AND FALL](https://open.spotify.com/album/5kAYE49gc7C6sRofjnxBbO) | 3:36 | 2022-05-12 |  |
 | [WHAT'S WRONG ?](https://open.spotify.com/track/5j6DlZe93zQZbRI9KnGine) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [DEBUT FULL ALBUM \[WELCOME BACK\]](https://open.spotify.com/album/1xsNJgTK34ByVUPzQK02Ds) | 3:48 | 2022-05-12 |  |
 | [Why Why Why](https://open.spotify.com/track/0br4r9VlPdofrWXxPorlYd) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Why Why Why](https://open.spotify.com/album/7M784rTDL5CaHN250ibG1Q) | 3:26 | 2022-05-12 |  |
 

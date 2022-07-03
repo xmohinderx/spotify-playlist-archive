@@ -4,7 +4,7 @@
 
 > 
 
-50 songs - 2 hr 5 min - [published](https://open.spotify.com/playlist/7sE9phFy9MvjSKTbrfeZ2L)
+50 songs - 2 hr 7 min - [published](https://open.spotify.com/playlist/7sE9phFy9MvjSKTbrfeZ2L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Soldier Boy \- Rerecorded Version](https://open.spotify.com/track/3Yey43damnXJRuWdlzW9jJ) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [The Shirelles \- Their Very Best \(Rerecorded Version\)](https://open.spotify.com/album/7drJ2KUsPcmRcmcYv77FK2) | 2:41 | 2013-06-27 |  |
 | [Speedy Gonzales](https://open.spotify.com/track/1pUAYcynp3aUhttro1Z243) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [Jambalaya](https://open.spotify.com/album/3th7tlwFggGnuNnY325kqp) | 2:30 | 2013-06-27 |  |
 | [Stranger On The Shore \- Re\-Recording](https://open.spotify.com/track/3I2j9uOUl4YkyoZgjSo9vF) | [Acker Bilk](https://open.spotify.com/artist/5bdgb81IJMXag724quaNSA) | [\#1 Hits Of The 60's](https://open.spotify.com/album/6Mio3JCszE0BTyjTmfYsLY) | 2:49 | 2013-06-27 |  |
-| [The One Who Really Loves You](https://open.spotify.com/track/51FRQtjemOO2XGMC2VKrkH) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [Best Of The Early Years](https://open.spotify.com/album/6bJllGXVjQrUDQZ76gsout) | 0:29 | 2013-06-27 |  |
+| [The One Who Really Loves You](https://open.spotify.com/track/51FRQtjemOO2XGMC2VKrkH) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [Best Of The Early Years](https://open.spotify.com/album/6bJllGXVjQrUDQZ76gsout) | 2:31 | 2013-06-27 |  |
 | [The Stripper](https://open.spotify.com/track/00vH2PsEQTGRyJYhyIyDbr) | [David Rose](https://open.spotify.com/artist/2nv8pUrGHqpVzYvQCyiKjk) | [Tease: The Beat Of Burlesque](https://open.spotify.com/album/5Uc8NaZzkuFN7AFDwtm1Rf) | 1:56 | 2013-06-27 |  |
 | [The Twist \- Rerecorded](https://open.spotify.com/track/0M5EaPIXN3FneJ7exwpYNM) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [\#1 Hits Of The 60's](https://open.spotify.com/album/6Mio3JCszE0BTyjTmfYsLY) | 2:38 | 2013-06-27 |  |
 | [The Wah Watusi](https://open.spotify.com/track/115qg8QOcAYa6vRNT8vrjh) | [The Orlons](https://open.spotify.com/artist/7JSIM5U7TZym5M3Q1AFG80) | [Doo Wop Golden Oldies Vol 3](https://open.spotify.com/album/5BuvyocB8lSFgJjoiRtqoK) | 2:33 | 2013-06-27 |  |

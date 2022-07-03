@@ -4,7 +4,7 @@
 
 > استمع لافضل الأغاني العراقية! الغلاف: سيف عامر
 
-69 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/6qCoMQiIkaLI2EbjrFZXmX)
+69 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/6qCoMQiIkaLI2EbjrFZXmX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Habbet](https://open.spotify.com/track/38Zv7Jcs1EgK4MxpV1pAAz) | [Saad Ramadan](https://open.spotify.com/artist/3TQIvMCVNOLxytHD4FWm9a) | [Habbet](https://open.spotify.com/album/176inUR3mvJuCBvbG7LtLC) | 3:25 | 2022-05-06 | 2022-06-17 |
 | [Habibi We Rohi](https://open.spotify.com/track/4Zlz5BYtBt7pxo0mmJy04N) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Habibi We Rohi](https://open.spotify.com/album/4Oc2kpXd46iV6S1HuAeyst) | 3:29 | 2022-05-06 | 2022-05-26 |
 | [Habibi Ya](https://open.spotify.com/track/76OTJ158B9abtzmcx5zawM) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Habibi Ya](https://open.spotify.com/album/4qrH1rCtpLyGNvGaibqhi7) | 3:24 | 2022-05-06 | 2022-06-17 |
-| [Halfatra](https://open.spotify.com/track/7l6G8GPGHbyobhz4RNAFQH) | [Ahmed Jawad](https://open.spotify.com/artist/4ZOVwS1XAGOXCKAqTFmsBP) | [Halfatra](https://open.spotify.com/album/3kqgvcKUopYj5jIi2HguUq) | 0:29 | 2022-05-06 |  |
+| [Halfatra](https://open.spotify.com/track/7l6G8GPGHbyobhz4RNAFQH) | [Ahmed Jawad](https://open.spotify.com/artist/4ZOVwS1XAGOXCKAqTFmsBP) | [Halfatra](https://open.spotify.com/album/3kqgvcKUopYj5jIi2HguUq) | 3:46 | 2022-05-06 |  |
 | [Hasab Mazaji](https://open.spotify.com/track/2FnAXbcGmHveTv8fOsSsOT) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Hasab Mazaji](https://open.spotify.com/album/2xzaaeOpTat6zfOS8FMrSK) | 3:05 | 2022-05-06 | 2022-05-26 |
 | [Hatha Alhub](https://open.spotify.com/track/1vvPWI1Z4HoMRf5fM3Ed7h) | [Mustafa Al\-Abdullah](https://open.spotify.com/artist/3hHA3JWJQfVAYx5lRTxSxu), [Dafy](https://open.spotify.com/artist/45zzFMmr0TXFgliduHCEpR) | [Hatha Alhub](https://open.spotify.com/album/1TJdomydQbIZuq9sgKlzQi) | 3:28 | 2022-05-06 | 2022-05-26 |
 | [Henain](https://open.spotify.com/track/3suQDOXGODa1MrFFnvJtFv) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Henain](https://open.spotify.com/album/0sTZwBd1iLGi7BAraWy0ex) | 3:08 | 2022-05-06 |  |

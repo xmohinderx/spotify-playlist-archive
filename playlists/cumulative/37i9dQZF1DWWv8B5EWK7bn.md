@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-106 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/53YlmOlKHZkvBIAusSdsbN)
+106 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/53YlmOlKHZkvBIAusSdsbN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [What Has Happened](https://open.spotify.com/track/4lVuGztR7cgu1yCPiTPZRY) | [Tonstartssbandht](https://open.spotify.com/artist/0ZoYAbDGICaSPSfTTvworW) | [Petunia](https://open.spotify.com/album/605bdzgFy9TSUCMkgjesoi) | 7:02 | 2022-03-16 |  |
 | [Witches](https://open.spotify.com/track/65rPQRPaiv7RLj6uCDrnQZ) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g) | [Dreams](https://open.spotify.com/album/3gGYHCVl2KuIIk4iyDO81f) | 3:51 | 2022-05-12 |  |
 | [Wooie](https://open.spotify.com/track/5KohGMfSBbwkUTNduFWzd8) | [Sis](https://open.spotify.com/artist/64PJgAvLSx4nM57pFiCKx2) | [Wooie](https://open.spotify.com/album/6lbDZITLucahN1T5qO6jFe) | 3:30 | 2022-01-12 | 2022-05-25 |
-| [Xela](https://open.spotify.com/track/3TEZwf2lJWIeEwBog3TXDf) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Xela](https://open.spotify.com/album/7Gpwzyny4QUiqCs68MhnVe) | 0:29 | 2022-03-18 |  |
+| [Xela](https://open.spotify.com/track/3TEZwf2lJWIeEwBog3TXDf) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Xela](https://open.spotify.com/album/7Gpwzyny4QUiqCs68MhnVe) | 3:46 | 2022-03-18 |  |
 | [Year of Love](https://open.spotify.com/track/2P0LyX02PXKXKMPOH7Zff7) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Year of Love](https://open.spotify.com/album/31PsAJJtuhlTV0rqmFzjtU) | 4:13 | 2022-01-19 |  |
 | [You Are Not An Island](https://open.spotify.com/track/4dZoE86OgZ0LrFWAsrAXNP) | [Vanishing Twin](https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5) | [The Age Of Immunology](https://open.spotify.com/album/0GiTOlUP38QYUf0TJm12DT) | 7:31 | 2021-10-06 |  |
 | [Zoo Eyes](https://open.spotify.com/track/2U8xna6lhdG5KYiC2IXahH) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/0QNJa03XQeMOuQhi9izThh) | 5:17 | 2021-10-06 |  |

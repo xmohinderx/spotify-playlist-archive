@@ -4,7 +4,7 @@
 
 > Psych yourself up for whatever you've got going...
 
-182 songs - 10 hr 54 min - [published](https://open.spotify.com/playlist/5FFcQmK56lASUC5T3wxuBv)
+182 songs - 10 hr 57 min - [published](https://open.spotify.com/playlist/5FFcQmK56lASUC5T3wxuBv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Madonna](https://open.spotify.com/track/5E18GdzyVFPyDQqM5zubHA) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Madonna](https://open.spotify.com/album/6cjWDvOE0qKXKdEvcYPp2W) | 2:54 | 2015-03-16 |  |
 | [Make It, Take It](https://open.spotify.com/track/0gDUudKTuVDDEZUlg4Sbd1) | [Amanda Blank](https://open.spotify.com/artist/6cMBAd7j8KLD9TnjfwQ91E) | [I Love You](https://open.spotify.com/album/7ew0GiLWOpq1fGTNivLv9N) | 2:25 | 2016-02-11 |  |
 | [Mooncalf](https://open.spotify.com/track/72up9r9k3uzSMDlHbs2ASj) | [Active Bird Community](https://open.spotify.com/artist/52atJIClJ4KZuYaIBLbNbH) | [Mooncalf](https://open.spotify.com/album/3yjIjo17NE8UUzh76xssI2) | 3:33 | 2015-06-22 |  |
-| [Move](https://open.spotify.com/track/3Wtx5BHLFZSLQMDZwfBKg5) | [Mausi](https://open.spotify.com/artist/62NpOLs1d6sQyL3QUNKSfe) | [Move](https://open.spotify.com/album/0q0FxnxbCkUWXBUjutGYir) | 0:29 | 2016-02-11 |  |
+| [Move](https://open.spotify.com/track/3Wtx5BHLFZSLQMDZwfBKg5) | [Mausi](https://open.spotify.com/artist/62NpOLs1d6sQyL3QUNKSfe) | [Move](https://open.spotify.com/album/0q0FxnxbCkUWXBUjutGYir) | 3:48 | 2016-02-11 |  |
 | [Move Your Feet](https://open.spotify.com/track/35kyKr5ArvTnFlldwR7JAD) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [D\-D\-Don't Don't Stop The Beat](https://open.spotify.com/album/7v89oAkBvKFnM6lXUfofda) | 3:01 | 2016-02-11 |  |
 | [My Demons](https://open.spotify.com/track/0zXXWXseqUw4F7W2PRkRl3) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [Transmissions](https://open.spotify.com/album/51x4md5ZtffnGDryA4rV5T) | 4:48 | 2016-02-11 |  |
 | [My Way \- DJ Premier Way Remix \(Edit Version\)](https://open.spotify.com/track/798JCVfIY4zUTlvVnDtnee) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [New Old Songs](https://open.spotify.com/album/5sjp4vfcPDGez5bzDOkvwo) | 4:37 | 2016-02-11 |  |

@@ -4,7 +4,7 @@
 
 > Deep, dark, gritty, vintage sounds from the best in indie blues folk.
 
-48 songs - 2 hr 45 min - [published](https://open.spotify.com/playlist/4RzGPRkTYtjFXUeEeutye5)
+48 songs - 3 hr 0 min - [published](https://open.spotify.com/playlist/4RzGPRkTYtjFXUeEeutye5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,15 +15,15 @@
 | [By The Evening](https://open.spotify.com/track/54jlEZOJZA8TwEGnKLYFon) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [Benjamin Booker](https://open.spotify.com/album/0uDoyIuGkx8lrhsu6RBlBZ) | 3:50 | 2016-03-20 |  |
 | [Crazy Woman](https://open.spotify.com/track/5ke9Y5BL0wbGOg4pshd1B0) | [Joseph LeMay](https://open.spotify.com/artist/3BRHUE4Ml0PKrgZ5EjVtxf) | [Seventeen Acres](https://open.spotify.com/album/2gHqNCEbiiYGoE8WAEkFZf) | 2:02 | 2015-01-24 |  |
 | [Crocodile Tears](https://open.spotify.com/track/0lcsIpA9Ff2DZufaMIQe4k) | [little hurricane](https://open.spotify.com/artist/5VLQQzAkJrzG7QggE4DVg2) | [Homewrecker](https://open.spotify.com/album/16fqu9m0E5Q4zj7nGX3Zw3) | 3:55 | 2015-01-24 |  |
-| [Diggin' My Grave](https://open.spotify.com/track/07Z4CI73SekNXsxXXXAhKr) | [William Elliott Whitmore](https://open.spotify.com/artist/55N838yCXjxLVkBkIM5pnf) | [Ashes To Dust](https://open.spotify.com/album/3odZLVZ4BXZqMVmc8bekJg) | 0:29 | 2015-01-24 |  |
-| [Don't Need It](https://open.spotify.com/track/4DnK27URnJcCULRNDHvm2M) | [William Elliott Whitmore](https://open.spotify.com/artist/55N838yCXjxLVkBkIM5pnf) | [Field Songs \(Deluxe Edition\)](https://open.spotify.com/album/5udj0c8CJSjywp6SKHsV2x) | 0:29 | 2015-01-24 |  |
+| [Diggin' My Grave](https://open.spotify.com/track/07Z4CI73SekNXsxXXXAhKr) | [William Elliott Whitmore](https://open.spotify.com/artist/55N838yCXjxLVkBkIM5pnf) | [Ashes To Dust](https://open.spotify.com/album/3odZLVZ4BXZqMVmc8bekJg) | 4:06 | 2015-01-24 |  |
+| [Don't Need It](https://open.spotify.com/track/4DnK27URnJcCULRNDHvm2M) | [William Elliott Whitmore](https://open.spotify.com/artist/55N838yCXjxLVkBkIM5pnf) | [Field Songs \(Deluxe Edition\)](https://open.spotify.com/album/5udj0c8CJSjywp6SKHsV2x) | 3:33 | 2015-01-24 |  |
 | [Forget \- Live from Spotify, NYC](https://open.spotify.com/track/1gpyfbutOl79qgVjMrZQOe) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Spotify Sessions](https://open.spotify.com/album/6YYarhAfY1nBoYsDichIts) | 4:38 | 2016-03-20 |  |
 | [Gold](https://open.spotify.com/track/2BEqkiPEzz4tYul7V0SGxW) | [Arum Rae](https://open.spotify.com/artist/4aqcilLiGfXetHrTuC8DG9) | [Gold](https://open.spotify.com/album/3TO7DNWI1fhBnPtjw0afJ5) | 4:31 | 2015-01-24 |  |
 | [Gone Forever](https://open.spotify.com/track/39EQX63g5VOvBOpcN1orlQ) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Red To Blue](https://open.spotify.com/album/1I9c6ocArmYynUppXD68tx) | 2:31 | 2015-01-24 |  |
 | [Hades Pleads](https://open.spotify.com/track/2Yf3wwS48rkAoBRXNJ34kz) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 2:36 | 2016-03-25 |  |
 | [Henry Nearly Killed Me \(It's a Shame\)](https://open.spotify.com/track/3WlKwc0STwk7MYHyn2FjXm) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Gossip In The Grain \(Expanded Edition\)](https://open.spotify.com/album/7iMybHeeEiPQSEI0TG3pdo) | 4:22 | 2015-01-24 |  |
 | [Honeysuckle Reel](https://open.spotify.com/track/6AvLsGpRX9GEej0zB7evfj) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Jesus I'm a Sinner](https://open.spotify.com/album/398IZHABZSTKg102AxTtTO) | 6:02 | 2015-01-24 |  |
-| [How Come](https://open.spotify.com/track/4UZ8dxT61HzbPLNp1Gycvi) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [How Come / Crazy \(bundled DMD\)](https://open.spotify.com/album/4VI2C9TksdVBBfRn4wccWO) | 0:29 | 2015-01-24 |  |
+| [How Come](https://open.spotify.com/track/4UZ8dxT61HzbPLNp1Gycvi) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [How Come / Crazy \(bundled DMD\)](https://open.spotify.com/album/4VI2C9TksdVBBfRn4wccWO) | 4:32 | 2015-01-24 |  |
 | [I Can't Go on Without You](https://open.spotify.com/track/1OtGo99uypkRbMqshBVFnn) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [I Can't Go on Without You](https://open.spotify.com/album/1tZtANVlcwG88Rkdj5dR73) | 6:17 | 2016-03-20 |  |
 | [I Thought I Heard You Screaming](https://open.spotify.com/track/257L4vqFRw2IG67CkHQ0ff) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [Benjamin Booker](https://open.spotify.com/album/0uDoyIuGkx8lrhsu6RBlBZ) | 3:04 | 2016-03-20 |  |
 | [I'm Getting Ready \(BETA Session Copenhagen\)](https://open.spotify.com/track/7n2VFStRqdtLdFHZ3EQsIe) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [BETA Session Copenhagen](https://open.spotify.com/album/2viB2IBMA127VS6HDNQXJc) | 3:02 | 2016-03-20 |  |
@@ -33,7 +33,7 @@
 | [Lazaretto](https://open.spotify.com/track/3T76zPJz3tWL27FrjJe2ot) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Lazaretto](https://open.spotify.com/album/36LXzRarDP8TU8K0REGpt6) | 3:39 | 2016-03-20 |  |
 | [Lead Me Home \- Live At Spotify House](https://open.spotify.com/track/7HTKT7u1M7f1zsaq5YZ2PU) | [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [Spotify Sessions](https://open.spotify.com/album/4Np9cPlbJVYWQxl6i4Fhc9) | 2:31 | 2015-01-29 |  |
 | [Little Jose](https://open.spotify.com/track/1Yc25rbbGJZCtz8dtizMKY) | [Grey Reverend](https://open.spotify.com/artist/1EbvbxCONeiXZTVIS2Cw0e) | [A Hero's Lie](https://open.spotify.com/album/6PLuyY1t5OrYGKRdyhDGEJ) | 1:59 | 2016-03-20 |  |
-| [Little Lady Blues](https://open.spotify.com/track/1LfGP4l3u94cu57cR4khzq) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Orange Co\. Serenade](https://open.spotify.com/album/4SEomhM9X27zNDnJjal0yW) | 0:29 | 2015-01-24 |  |
+| [Little Lady Blues](https://open.spotify.com/track/1LfGP4l3u94cu57cR4khzq) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Orange Co\. Serenade](https://open.spotify.com/album/4SEomhM9X27zNDnJjal0yW) | 5:12 | 2015-01-24 |  |
 | [Missing At Sea](https://open.spotify.com/track/5WKhPe4lSUYgHhhwFMnX4Y) | [Maggie Bjorklund](https://open.spotify.com/artist/4uk9cWBqeiel7tO1w9MPe0) | [Shaken](https://open.spotify.com/album/4WzdSt2xFoWboaIR9ceEkl) | 3:38 | 2016-03-20 |  |
 | [My Love Will Never Die](https://open.spotify.com/track/5XYmnUaaZ3D9Sqdt9SInEn) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Deluxe\)](https://open.spotify.com/album/7HW03Zew4rnOhy5uwskRSz) | 3:55 | 2015-01-24 |  |
 | [Night Has Turned to Day](https://open.spotify.com/track/0jVfp8deBjwdoi2oEm5hgK) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Fantastic Negrito \- EP](https://open.spotify.com/album/6wSl4enVRjlcQ890pqfQqk) | 2:38 | 2015-03-10 |  |

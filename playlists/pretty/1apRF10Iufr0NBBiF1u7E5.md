@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1apRF10Iufr0NBBiF1u7E5.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 22 likes - 38 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 22 likes - 38 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/1apRF10Iufr0NBBiF1u7E5.md) - [plain]
 | 9 | [I Spåren Av Tåren](https://open.spotify.com/track/3KsUhmi9vB8yo0nOHkndef) | [Peter Morén](https://open.spotify.com/artist/4z0MZkwGvdcoQqcA47Wx4O) | [I spåren av tåren](https://open.spotify.com/album/1Ih4MO8h5cPYJOcikn5phX) | 3:57 |
 | 10 | [Breaking It Up](https://open.spotify.com/track/0QALW52koTWXK3dv7arqmx) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Youth Novels](https://open.spotify.com/album/6zBW3pmU291VbFHq4EdU8C) | 3:40 |
 | 11 | [F\*\*k Forever](https://open.spotify.com/track/1PotAUCOIziBcJneMBiy3F) | [Babyshambles](https://open.spotify.com/artist/0IBAqjHG8DSaD7PPCGnGiZ) | [F\*\*k Forever](https://open.spotify.com/album/46zYIOk4i5jzuwc08f7J3C) | 4:44 |
-| 12 | [Låt det dö](https://open.spotify.com/track/09sWUVodQAZA68VD3sSGeL) | [Anna Järvinen](https://open.spotify.com/artist/70vrcQugFAOAtOFIW1wcyR) | [Man var bland molnen](https://open.spotify.com/album/3KOEtiA5EAbhnW9FamMLdy) | 0:29 |
+| 12 | [Låt det dö](https://open.spotify.com/track/09sWUVodQAZA68VD3sSGeL) | [Anna Järvinen](https://open.spotify.com/artist/70vrcQugFAOAtOFIW1wcyR) | [Man var bland molnen](https://open.spotify.com/album/3KOEtiA5EAbhnW9FamMLdy) | 3:54 |
 | 13 | [Idiot](https://open.spotify.com/track/5pFCRMLAp7yhzeRjdW3eEu) | [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Med solen i ögonen](https://open.spotify.com/album/18QW3rouH4E7srIj7PkwCL) | 2:56 |
 | 14 | [Rock City Wankers](https://open.spotify.com/track/2AJGiARQyX1K4zwr3ghfv1) | [The Ark](https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4) | [State of the Ark](https://open.spotify.com/album/1AIrHPL3eOoZBqDuMWKJbr) | 4:10 |
 | 15 | [Genom tunna tyger](https://open.spotify.com/track/0bqe9N6xKdTUJrbBZxtJi8) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Prinsen av Peking](https://open.spotify.com/album/4AFcwwOL0XcZE5hnHN3Fjc) | 3:05 |

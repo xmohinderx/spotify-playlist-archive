@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7hjaw2oDqkMS2uDk5vmzAu.md) - [plain]
 
 > Escape the world with the best, most relaxing Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 85 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/7hjaw2oDqkMS2uDk5vmzAu.md) - [plain]
 | 2 | [Blue in Green \(feat\. John Coltrane & Bill Evans\)](https://open.spotify.com/track/0aWMVrwxPNYkKmFthzmpRi) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Kind Of Blue \(Legacy Edition\)](https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw) | 5:37 |
 | 3 | [A Hundred Dreams from Now](https://open.spotify.com/track/63kalFnjm1Wy8OvKXO7hWG) | [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [Ray Bryant Plays](https://open.spotify.com/album/4q8hkJRnSQaWiqW0b2Lw7G) | 3:26 |
 | 4 | [](https://open.spotify.com/track/0KkmIGbNiEGloUla4TK4hP) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4Mq1I0fl1MwhOCUtWoX1Wl) | 0:00 |
-| 5 | [Stardust](https://open.spotify.com/track/4nbqUfqKObLWhuUT7PWV1N) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Plays Ballads](https://open.spotify.com/album/2bI7k1iblL7PAIzHPA86Et) | 0:29 |
+| 5 | [Stardust](https://open.spotify.com/track/4nbqUfqKObLWhuUT7PWV1N) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Plays Ballads](https://open.spotify.com/album/2bI7k1iblL7PAIzHPA86Et) | 6:25 |
 | 6 | [In A Sentimental Mood](https://open.spotify.com/track/51BfVxH0QfxTpFgZMMbhwK) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/7qsnx3thQiQabvDkHfqI1m) | 4:18 |
 | 7 | [Peace Piece](https://open.spotify.com/track/5xkTHtZiRaazoh87lpeNwY) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Late Night Tales \- Bonobo](https://open.spotify.com/album/0y3ai6LH83qeeeCbmpaIvf) | 6:42 |
 | 8 | [The Last Goodbye](https://open.spotify.com/track/5AuLuhe6LXvVod82HxJtXO) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Payton's Place](https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB) | 5:25 |
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/7hjaw2oDqkMS2uDk5vmzAu.md) - [plain]
 | 11 | [Groovin' High](https://open.spotify.com/track/3xK8Ec4RoHgFB9zDJkat8c) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Groovin' High](https://open.spotify.com/album/3Zvvgj16yTtmCVqndZUH7G) | 2:43 |
 | 12 | [Blue Monk](https://open.spotify.com/track/3Us7ZYk1MxPMvQu5mnI0Zw) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Blue Monk](https://open.spotify.com/album/2TscgjDmicRE7TZEr5ASMU) | 7:38 |
 | 13 | [Singin' the Blues](https://open.spotify.com/track/6ecHrGMH1xnmRdKakgIIpT) | [Bix Beiderbecke](https://open.spotify.com/artist/3kfbYBrL3MCPAMUwKDRpc7) | [Young Man with a Horn](https://open.spotify.com/album/5wTbwGNBPIPNdka8zs7os2) | 2:50 |
-| 14 | [Brazil](https://open.spotify.com/track/6m8ROlnJfX5nYsMydTKbzo) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt Memorial, Vol.1](https://open.spotify.com/album/2Dj3BTtfsqaQf795xk4lgm) | 0:29 |
+| 14 | [Brazil](https://open.spotify.com/track/6m8ROlnJfX5nYsMydTKbzo) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt Memorial, Vol.1](https://open.spotify.com/album/2Dj3BTtfsqaQf795xk4lgm) | 2:47 |
 | 15 | [Ain't Misbehavin'](https://open.spotify.com/track/2jCEQ4ViFk3rkb3zOzi3rS) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [Jazz For A Sunday Morning](https://open.spotify.com/album/4a3eASYMdFTbmEpdj29zvg) | 5:17 |
 | 16 | [Where Do You Start](https://open.spotify.com/track/0gPxAMKPYhnFSAKkBcy3UN) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Where Do You Start](https://open.spotify.com/album/2s8XWSfq0eLzFd6oaNiIx2) | 4:06 |
 | 17 | [Misty](https://open.spotify.com/track/1V87tTQ0lLptQroX7uD3ZA) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Jazz Around Midnight: Erroll Garner](https://open.spotify.com/album/5oIaNKls5Yx5gHfllGGkr3) | 2:46 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/7hjaw2oDqkMS2uDk5vmzAu.md) - [plain]
 | 31 | [Tea For Two](https://open.spotify.com/track/51AU3m5W6phNq5wT2aOnhq) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq) | [Song Of The Vagabonds](https://open.spotify.com/album/0xJ0R0PmRCaYufCeZNjbqs) | 2:03 |
 | 32 | [Jessica](https://open.spotify.com/track/6BN2BiFru8FNpXY47GgTN0) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Mwandishi: The Complete Warner Bros\. Recordings](https://open.spotify.com/album/2ZbgpDs0ewVgP6sLeXJMAu) | 4:12 |
 | 33 | [Something Cool](https://open.spotify.com/track/0g5tUbJKTsU3mjtUT0ePEK) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [Tampico](https://open.spotify.com/album/1mkYbTZnGZ88v6BcdRpMq1) | 4:22 |
-| 34 | ['Round Midnight](https://open.spotify.com/track/6rIB9HudLdMSNEZaH8JxVm) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Plays Monk](https://open.spotify.com/album/3ar3gv14DQ9QnmF9n3D90G) | 0:29 |
-| 35 | [I Miss You So](https://open.spotify.com/track/5HrSt3w9604xJdMALbUcDl) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Scenes](https://open.spotify.com/album/0BY7XVm9kLLwDmQfXFL8G8) | 0:29 |
+| 34 | ['Round Midnight](https://open.spotify.com/track/6rIB9HudLdMSNEZaH8JxVm) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Plays Monk](https://open.spotify.com/album/3ar3gv14DQ9QnmF9n3D90G) | 6:13 |
+| 35 | [I Miss You So](https://open.spotify.com/track/5HrSt3w9604xJdMALbUcDl) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Scenes](https://open.spotify.com/album/0BY7XVm9kLLwDmQfXFL8G8) | 4:43 |
 | 36 | [Line For Lyons](https://open.spotify.com/track/0WQ1u1tYKZ6UH49KVGBH1V) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Meets The Sax Giants Volume 3](https://open.spotify.com/album/3R5GFV88b86J40Haj2PPsc) | 3:05 |
 | 37 | [Star Eyes](https://open.spotify.com/track/09Ht4aS2Lc6RwbcHVjrLXC) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [The Impulse Story](https://open.spotify.com/album/4lxBGNMymHqIidoIdNmMT5) | 5:01 |
 | 38 | [Into The Labyrinth](https://open.spotify.com/track/40kPjE7saRDW8mmBlksWUW) | [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv) | [Invisible Cinema](https://open.spotify.com/album/3xfueIrMUw57owAiYVKt8S) | 2:53 |

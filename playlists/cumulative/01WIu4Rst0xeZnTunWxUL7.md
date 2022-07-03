@@ -4,7 +4,7 @@
 
 > Go beyond the music with audio documentaries, rare interviews, and behind the scenes biographies of famous and influential artists and bands.
 
-65 songs - 20 hr 51 min - [published](https://open.spotify.com/playlist/0cKsend36fQI9ymFQHcocF)
+65 songs - 21 hr 43 min - [published](https://open.spotify.com/playlist/0cKsend36fQI9ymFQHcocF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Teri Nazar Audio Documentary](https://open.spotify.com/track/1GAZNYlZyYnsgV6QcjA2tl) | [Anand](https://open.spotify.com/artist/53kVUvxYgxcYwhbUjqm9X6), [Milind](https://open.spotify.com/artist/7sED6ciQ3d4mZ6aqRGKw6u), [Bobby Bose](https://open.spotify.com/artist/7hgYUQvH8tRZW5FNQrDKrk) | [The Last Songs](https://open.spotify.com/album/1aYafe1tfdrHuGqxReKvuk) | 13:01 | 2014-03-11 |  |
 | [Touring](https://open.spotify.com/track/4DCh5HLgMjpmG7SGcmeyRR) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [An Interview with Kris Needs](https://open.spotify.com/album/6sNV5rs7XwgEerQlFDVWC1) | 2:49 | 2014-05-09 |  |
 | [Vantage Audio Documentary](https://open.spotify.com/track/002iHpz1z9UbrIzJ8xcx3M) | [VANTAGE](https://open.spotify.com/artist/6ZpnY5vJa18Xadgq7p7Kcx) | [The Legendary Lennon & Harrison, Guitar Gently Weep \(Vantage Audio Documentary\)](https://open.spotify.com/album/64dQsoP2mDE0nxBjvaAm20) | 50:03 | 2014-03-11 |  |
-| [Vantage Audio Documentary \- Marilyn Monroe](https://open.spotify.com/track/3SqusKgYQPuxZUKgcAIypp) | [John Huston](https://open.spotify.com/artist/6h89iaVdqTpNlGd670100V) | [Vantage Audio Documentary \- Marilyn Monroe](https://open.spotify.com/album/4HaDuUPRYygtKWTfngJuy5) | 0:29 | 2014-03-11 |  |
+| [Vantage Audio Documentary \- Marilyn Monroe](https://open.spotify.com/track/3SqusKgYQPuxZUKgcAIypp) | [John Huston](https://open.spotify.com/artist/6h89iaVdqTpNlGd670100V) | [Vantage Audio Documentary \- Marilyn Monroe](https://open.spotify.com/album/4HaDuUPRYygtKWTfngJuy5) | 52:30 | 2014-03-11 |  |
 | [Vantage Audio Documentary: One Direction](https://open.spotify.com/track/5X5oG4ILI2SqZ6tXMPKtmS) | [Tammie Lynn Jones](https://open.spotify.com/artist/3PvAjSE6jtMcJfFypzEpt3) | [One Direction Tribute Collection](https://open.spotify.com/album/5wXK4GbJF9UbwLpEWvhYDM) | 34:30 | 2014-03-11 |  |
 | [Vantage Audio Documentary: Road To Success, Cliff Richard](https://open.spotify.com/track/0AKsGvuPiomXWioM2lJZbn) | [VANTAGE](https://open.spotify.com/artist/6ZpnY5vJa18Xadgq7p7Kcx) | [Vantage Audio Documentary: Road To Success, Cliff Richard](https://open.spotify.com/album/3QukRpocgi9igZTE1tQkxL) | 27:38 | 2014-03-11 |  |
 | [Vantage Audio Documentary: Road To Success, Fleetwood Mac](https://open.spotify.com/track/2mLu8XsVvUmusuOgBcE0Mv) | [VANTAGE](https://open.spotify.com/artist/6ZpnY5vJa18Xadgq7p7Kcx) | [Vantage Audio Documentary: Road To Success, Fleetwood Mac](https://open.spotify.com/album/6ccC66d7n06AyvDpxSeXRI) | 21:33 | 2014-03-11 |  |

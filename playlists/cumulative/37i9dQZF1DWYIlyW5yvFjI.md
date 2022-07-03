@@ -4,7 +4,7 @@
 
 > Beautiful noise: when Shoegaze goes Ambient.
 
-74 songs - 6 hr 5 min - [published](https://open.spotify.com/playlist/0CAQvjSr54E3ebNuJC92r5)
+74 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/0CAQvjSr54E3ebNuJC92r5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [I Won't Be Found](https://open.spotify.com/track/2auPtdvhEv2yjVmtF5qJQv) | [Tamaryn](https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2) | [Cranekiss](https://open.spotify.com/album/4CqCllNfTRGzCU40bx07Nt) | 3:17 | 2022-04-08 |  |
 | [In the Deep Time](https://open.spotify.com/track/1L2emhe76uRqYcfW0huuA2) | [Candy Claws](https://open.spotify.com/artist/34Xay0uKsALHCrn5LkrYeh) | [Hidden Lands](https://open.spotify.com/album/1nPQ7vnX6NJZCfhHJQqUL0) | 6:58 | 2022-04-08 |  |
 | [Inspiral](https://open.spotify.com/track/2g5wSGjYZB8gMGMgyKuVd8) | [EN.KI.DU](https://open.spotify.com/artist/1dZP0pipirizLq80zTSSBE) | [BITTER.ROOT](https://open.spotify.com/album/2LIZdIGqsOqJ9w31QHLAe4) | 4:36 | 2022-04-08 |  |
-| [Instrumental Wish](https://open.spotify.com/track/66Id4olJILNzphttpuqjHn) | [Flying Saucer Attack](https://open.spotify.com/artist/336fB3AJgK8AvHX5bD8d9A) | [Distance](https://open.spotify.com/album/74ZkZnZe0M4M3xwkTgTf81) | 0:29 | 2022-04-08 |  |
+| [Instrumental Wish](https://open.spotify.com/track/66Id4olJILNzphttpuqjHn) | [Flying Saucer Attack](https://open.spotify.com/artist/336fB3AJgK8AvHX5bD8d9A) | [Distance](https://open.spotify.com/album/74ZkZnZe0M4M3xwkTgTf81) | 6:41 | 2022-04-08 |  |
 | [J's Heaven](https://open.spotify.com/track/5DBhB05IwvrJLWa0hDOCr0) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Pygmalion](https://open.spotify.com/album/7n7VUw9XFam4zMT7zn99tq) | 6:45 | 2022-04-08 |  |
 | [Kids on LSD](https://open.spotify.com/track/44WLW50oOs9T9CuYMciM7g) | [MOLLY](https://open.spotify.com/artist/2ueChRFdpz3p8qhU9CJfY6) | [Sun Sun Sun](https://open.spotify.com/album/69XK2K8YOnPVrpG6nzMXtU) | 5:51 | 2022-04-08 |  |
 | [Kites \- Ambient World Version](https://open.spotify.com/track/1n6G7XsgJlem2gmHi7wz6t) | [Bing Satellites](https://open.spotify.com/artist/0K6ADYj3sxtqPrqyTq400i) | [The Ambient World of Bing Satellites, Vol\. 2 \(Ambient World Version\)](https://open.spotify.com/album/5lGytwtFhT25XEOnAengTU) | 4:18 | 2022-04-08 |  |
@@ -46,7 +46,7 @@
 | [Nostalgia](https://open.spotify.com/track/0eekgHF7TWBufJLyNdiQSZ) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Pasar De Las Luces](https://open.spotify.com/album/3c4vVEDCHzxdz6xG5CZztk) | 2:08 | 2022-04-08 |  |
 | [Nothing Feels](https://open.spotify.com/track/5Fh8cDDnaqBh4OdPVxTRy5) | [Bark Psychosis](https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi) | [Independency](https://open.spotify.com/album/4zqafk4ArPv6FjqqS7ZlKp) | 3:43 | 2022-04-08 |  |
 | [Nothing for Miles \- Ambient World Version](https://open.spotify.com/track/1IC6ukCBTES8duMQL8KFxJ) | [Bing Satellites](https://open.spotify.com/artist/0K6ADYj3sxtqPrqyTq400i) | [The Ambient World of Bing Satellites, Vol\. 1](https://open.spotify.com/album/76QJkMYDLp1iuZFerz6NsT) | 3:30 | 2022-04-08 |  |
-| [November Mist](https://open.spotify.com/track/2Upi0w32GEn3fK8DvdAZvn) | [Flying Saucer Attack](https://open.spotify.com/artist/336fB3AJgK8AvHX5bD8d9A) | [Distance](https://open.spotify.com/album/74ZkZnZe0M4M3xwkTgTf81) | 0:29 | 2022-04-08 |  |
+| [November Mist](https://open.spotify.com/track/2Upi0w32GEn3fK8DvdAZvn) | [Flying Saucer Attack](https://open.spotify.com/artist/336fB3AJgK8AvHX5bD8d9A) | [Distance](https://open.spotify.com/album/74ZkZnZe0M4M3xwkTgTf81) | 5:00 | 2022-04-08 |  |
 | [On Guard](https://open.spotify.com/track/6nsOyNw5N4IZ6K37QFKvqH) | [Atlas Sound](https://open.spotify.com/artist/3kGhAL9j1WyNjNkWTRQd8T) | [Let The Blind Lead Those Who Can See But Cannot Feel](https://open.spotify.com/album/49zrTjgVrpT0vC4YBAY4q3) | 3:40 | 2022-04-08 |  |
 | [Over and Over](https://open.spotify.com/track/2TICyJrSvoSXzMoFyJCu3l) | [Bowery Electric](https://open.spotify.com/artist/6a27jEzxHDgONdmADAGcej) | [Bowery Electric](https://open.spotify.com/album/0TkVShVL8Jnt7TWaOSPj0V) | 2:30 | 2022-04-08 |  |
 | [Popol Vuh 2](https://open.spotify.com/track/7uIEEymPrIjXZykQQGyhXt) | [Flying Saucer Attack](https://open.spotify.com/artist/336fB3AJgK8AvHX5bD8d9A) | [Flying Saucer Attack](https://open.spotify.com/album/61unsjt9ZxVSYLNEtFxe0Q) | 5:01 | 2022-04-08 |  |
@@ -81,6 +81,6 @@
 | [Why Do You Love Me?](https://open.spotify.com/track/6mnDez8mWJqlTyp6GjCKKR) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies](https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo) | 4:51 | 2022-04-08 |  |
 | [Wishes.of.another.forever \- Milk.Blue.Kisses](https://open.spotify.com/track/2RJFuXs13fCIsoH8sWbUHU) | [Dead Leaf Echo](https://open.spotify.com/artist/01LMQqIUwK08rW4L9pevlH) | [Milk.Blue.Kisses.And.Whalebone.Wishes](https://open.spotify.com/album/6qVYgHgrdEW7wlGm9MlUvX) | 3:32 | 2022-04-08 |  |
 | [Wrong Wrong Wrong](https://open.spotify.com/track/5v8wrt6ALeKvDMzXPmh9QS) | [Indoor Voices](https://open.spotify.com/artist/6D56w3oYBWaQWjAfhJKUhK) | [Animal](https://open.spotify.com/album/5pdtKsFu8C9krpD14lmVWp) | 4:01 | 2022-04-08 |  |
-| [youreyesimmaculate](https://open.spotify.com/track/6AAHrly84tTY3hVufCByxr) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [bloweyelashwish](https://open.spotify.com/album/6BG7NoX84aiRFWseVIS8eA) | 0:29 | 2022-04-08 |  |
+| [youreyesimmaculate](https://open.spotify.com/track/6AAHrly84tTY3hVufCByxr) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [bloweyelashwish](https://open.spotify.com/album/6BG7NoX84aiRFWseVIS8eA) | 4:19 | 2022-04-08 |  |
 
 \*This playlist was first scraped on 2022-04-15. Prior content cannot be recovered.

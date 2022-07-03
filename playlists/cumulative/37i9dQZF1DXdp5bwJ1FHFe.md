@@ -4,7 +4,7 @@
 
 > Relaxing rain sounds for sleepy babies.
 
-235 songs - 11 hr 2 min - [published](https://open.spotify.com/playlist/1CixQdDdegNM9gkFeoMyAJ)
+235 songs - 11 hr 7 min - [published](https://open.spotify.com/playlist/1CixQdDdegNM9gkFeoMyAJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Heavy rain and thunder in Greece](https://open.spotify.com/track/0wM9KTO3KaTHOrpSuegXZh) | [Rain Inc](https://open.spotify.com/artist/39xSFVoeHPX87DYQWe6z3y) | [Rain Sounds Vol\. 3](https://open.spotify.com/album/4Xnlm5GHBeoAGA6SUHrDFr) | 1:58 | 2022-04-07 |  |
 | [Heavy Rain Under Cover](https://open.spotify.com/track/4aXbgtlE3sYeXWyBm3yrR5) | [Pioggia Notturna](https://open.spotify.com/artist/0Hus0cAybME524CqgViKck) | [Giardini](https://open.spotify.com/album/0nd9xnVNAS1O89Xs1Du6G4) | 2:18 | 2022-04-07 |  |
 | [Hybrid Clouds](https://open.spotify.com/track/4mJnhL0Wxk8S1H3sKKeI5Q) | [Vapourse](https://open.spotify.com/artist/7EF6zIKi6Qb6Ky3Y9GSsxW) | [Enjoy The Sky](https://open.spotify.com/album/534t88l34yw4XIjPgO45Wf) | 1:55 | 2022-04-07 |  |
-| [I Love Rain](https://open.spotify.com/track/4AN4dmPzeyPtA9DQjQ6u4z) | [Love Nature](https://open.spotify.com/artist/62N2aSzYqfNISn3LS3xQ01) | [Lovely Rain](https://open.spotify.com/album/39nbGbuy1Ly2xA06DV7wb3) | 0:29 | 2022-04-07 |  |
+| [I Love Rain](https://open.spotify.com/track/4AN4dmPzeyPtA9DQjQ6u4z) | [Love Nature](https://open.spotify.com/artist/62N2aSzYqfNISn3LS3xQ01) | [Lovely Rain](https://open.spotify.com/album/39nbGbuy1Ly2xA06DV7wb3) | 2:42 | 2022-04-07 |  |
 | [In The Clouds](https://open.spotify.com/track/3cH75G5f24Bc7koyOlBtDg) | [The Stormwater](https://open.spotify.com/artist/01c7DohUs02BwUDAyxzTUU) | [Weather Front](https://open.spotify.com/album/33LXnoQeIUfX5va0n2jiCx) | 2:42 | 2022-04-07 |  |
 | [Infinity Drops](https://open.spotify.com/track/3X9pFeZuH3o1IcNSIFblfw) | [The Magical Drops](https://open.spotify.com/artist/1o8C2yFA9rciG6M29xiFbw) | [Rain Sounds For Insomnia](https://open.spotify.com/album/0hhEtLrqoFfTleIsxfSdHY) | 2:42 | 2022-04-07 |  |
 | [It's Heading Our Way](https://open.spotify.com/track/67nCwIKYC4M0hFskf2skPP) | [Monsooners](https://open.spotify.com/artist/5BnvoIO9j362IcN5NkZ9Tq) | [Eye of The Storm](https://open.spotify.com/album/3B7qr4tEfAr6vqxG8KREW4) | 1:46 | 2022-04-07 |  |
@@ -181,7 +181,7 @@
 | [Raining In The City At Night](https://open.spotify.com/track/0lMUyII33ZjGhNyuiSJQR5) | [Daily Calm](https://open.spotify.com/artist/1RFbFQgjNdi8M4qM5gzgfj) | [Rain For Sleep](https://open.spotify.com/album/5ALoceFx2jK3zQ2Wj4WJ3B) | 2:53 | 2022-04-07 |  |
 | [Raining Me Softly](https://open.spotify.com/track/4CTDJG3F26MUJEwnJ2fhJh) | [Epiphonema](https://open.spotify.com/artist/7zVXfjqG8yM5gVp8WLab5s) | [Cloudburst](https://open.spotify.com/album/4U0en0trmZzCyst9IvCvDA) | 2:09 | 2022-04-07 |  |
 | [Raining On Metal](https://open.spotify.com/track/5111ChNfx2UEqdJo57ZqSt) | [DreamDrops](https://open.spotify.com/artist/20XfshUALsTbm05gj6Ea5M) | [Strawberry Rain](https://open.spotify.com/album/2sQA6ju0ve2lCiPHJo4VC1) | 3:35 | 2022-04-07 |  |
-| [Rainy Afternoon](https://open.spotify.com/track/5GgZL3qVophdEET4afmxSR) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Rain Sounds Vol\. 1](https://open.spotify.com/album/5W5jd58bjWGTReUGzbJzG1) | 0:29 | 2022-04-07 |  |
+| [Rainy Afternoon](https://open.spotify.com/track/5GgZL3qVophdEET4afmxSR) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Rain Sounds Vol\. 1](https://open.spotify.com/album/5W5jd58bjWGTReUGzbJzG1) | 3:16 | 2022-04-07 |  |
 | [Rainy Day](https://open.spotify.com/track/5qKaKWTZ74lAd8IgvSaVld) | [Sleep Factory](https://open.spotify.com/artist/06ee9JG54Z38RLoYguHZV8) | [Sleep Factory](https://open.spotify.com/album/61YGqGtazxLbn33N7qEgZy) | 5:22 | 2022-04-07 |  |
 | [Rainy Days](https://open.spotify.com/track/2Tbu3ljhZHiCl0Odpigcre) | [HD Rain and Water](https://open.spotify.com/artist/3daevVTaElLubCKe7p3DTf) | [Smooth Street Rain](https://open.spotify.com/album/30bjWsmsys73IL49zKW1zp) | 2:52 | 2022-04-07 |  |
 | [Rainy Dream](https://open.spotify.com/track/3VuSxr8PLrEKQHe2pMvVKI) | [Royal Rain](https://open.spotify.com/artist/2C32BFATM0fyN4FFTl3fHe) | [Carriage Rain](https://open.spotify.com/album/6F6NAkqxgq1DKVlZC1s0gM) | 3:32 | 2022-04-07 |  |

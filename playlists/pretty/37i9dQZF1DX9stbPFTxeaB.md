@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 
 > Blues, but funky\. Or funk, but bluesy\. Cover: Kenny Wayne Shepherd
 
-[Spotify](https://open.spotify.com/user/spotify) - 840,073 likes - 69 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 840,088 likes - 69 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 | 29 | [Hump Thru the Winter](https://open.spotify.com/track/1Y2zuzC8ScFpyvRaiK6QRR) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [The Last Days of Oakland](https://open.spotify.com/album/0CNXnv7UOxzVEVvAmgwMGG) | 3:54 |
 | 30 | [Morning Star](https://open.spotify.com/track/68vlQoNTUDvujcUVwdMkT1) | [Philip Sayce Group](https://open.spotify.com/artist/2aV2zINHEpRvHLmXl8AaRO), [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Philip Sayce Group](https://open.spotify.com/album/1RadxbsRJvE1XI0e3AH8t6) | 5:09 |
 | 31 | [Built For Comfort](https://open.spotify.com/track/5vXgup8xsz2qAd2cySLrBk) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Black to Blues](https://open.spotify.com/album/12jkU3QDHEWbtJWobBgR61) | 4:24 |
-| 32 | [The Answer](https://open.spotify.com/track/4gRRWu6UKWASIQzzOzkXUx) | [Tony Spinner](https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z) | [Earth Music for Aliens](https://open.spotify.com/album/1NGrtPLYUBjDEpfguARNe3) | 0:29 |
+| 32 | [The Answer](https://open.spotify.com/track/4gRRWu6UKWASIQzzOzkXUx) | [Tony Spinner](https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z) | [Earth Music for Aliens](https://open.spotify.com/album/1NGrtPLYUBjDEpfguARNe3) | 5:02 |
 | 33 | [Don't Be a Fool](https://open.spotify.com/track/4TSxZeL4YBsSL82n21TajD) | [Simon McBride](https://open.spotify.com/artist/4S2kddUZy77NYpLH50f3qC) | [Crossing the Line](https://open.spotify.com/album/1Q1YmewIFPauUvhtlfNPyi) | 3:47 |
 | 34 | [She Was a Doorman](https://open.spotify.com/track/1CgGro1rXhkxs7LviofPyT) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf) | [Trilogy, Vol\. 1](https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP) | 4:03 |
 | 35 | [Well Run Dry](https://open.spotify.com/track/0dlfcbC2ecv3RS94noopTd) | [Phat Phunktion](https://open.spotify.com/artist/3afwdwY97SMtIdnUsPTpQT) | [Real Life .:.High Fidelity](https://open.spotify.com/album/71w5yv26R3yqlxpDs1KqWh) | 4:04 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 | 65 | [Motivational Speaker](https://open.spotify.com/track/5ZhnaKTGhvnXjSqIQVuCow) | [Alvin Youngblood Hart](https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG) | [Motivational Speaker](https://open.spotify.com/album/5xEupHqhptd500VR6JHaJE) | 3:55 |
 | 66 | [Lives That Don't Exist](https://open.spotify.com/track/0X4vLevfEeJIgjVpKedbgK) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf) | [Blind for Love](https://open.spotify.com/album/6l5J6OqjFMWGhv9132gs83) | 3:55 |
 | 67 | [Honey](https://open.spotify.com/track/2wz8v9hjCcnp3m7kbZZMTG) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [Does anybody wanna funk?](https://open.spotify.com/album/6G9XKu4eJ4wGMRQx4ye4bX) | 2:52 |
-| 68 | [Groove With Me](https://open.spotify.com/track/1BDY39wDjT45KwlPADHap3) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Chills & Thrills](https://open.spotify.com/album/2RNTqYSOAdccKmNPg5ORbd) | 0:29 |
+| 68 | [Groove With Me](https://open.spotify.com/track/1BDY39wDjT45KwlPADHap3) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Chills & Thrills](https://open.spotify.com/album/2RNTqYSOAdccKmNPg5ORbd) | 4:01 |
 | 69 | [T.C.B\. or T.Y.A.](https://open.spotify.com/track/0bpdYlt8oPbGeBZb3gDdZk) | [Edwin McCain](https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR) | [Nobody's Fault But Mine](https://open.spotify.com/album/6Ft9rsJU1EN1tKUcjOFCaC) | 3:38 |
 
 Snapshot ID: `MTY0NTE2MDQ2MCwwMDAwMDA0MzAwMDAwMTdmMGIzNDZmNWMwMDAwMDE3ZDk1ZTMwNjM5`

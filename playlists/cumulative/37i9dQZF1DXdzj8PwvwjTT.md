@@ -4,7 +4,7 @@
 
 > Another great metal year came to a close\. Explore the metal highlights of the year with this playlist!
 
-118 songs - 10 hr 12 min - [published](https://open.spotify.com/playlist/4JqspVHWvEa49wVXIwkCLI)
+118 songs - 10 hr 17 min - [published](https://open.spotify.com/playlist/4JqspVHWvEa49wVXIwkCLI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Superhero](https://open.spotify.com/track/2ZzwQ8aOOghqCCK2fUTmhB) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Sol Invictus](https://open.spotify.com/album/0pmOoQ16XaMwNeSxXAN7q1) | 5:15 | 2015-12-07 |  |
 | [Supernova](https://open.spotify.com/track/2GkBtCilE6K7kxz7dkKsFN) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Space EP](https://open.spotify.com/album/2l75a2E7ezG7mcitvCrFH4) | 2:50 | 2015-12-07 |  |
 | [Sólverv](https://open.spotify.com/track/4c4Ev6z7Px3WdpHdus5ORj) | [Vreid](https://open.spotify.com/artist/2KvwC4Kmp2U8XnKr5Yr1hm) | [Sólverv](https://open.spotify.com/album/6BH63sOpupXevqMeom7SpE) | 6:01 | 2015-12-07 |  |
-| [The Arcturian Sign](https://open.spotify.com/track/7vyLnYlNrQR9ZVJEZto0qZ) | [Arcturus](https://open.spotify.com/artist/0UGvFl1tJ49Co99gaXZH9Z) | [Arcturian](https://open.spotify.com/album/5yJ9F1Md1I14N0r1LcIF58) | 0:29 | 2015-12-07 |  |
+| [The Arcturian Sign](https://open.spotify.com/track/7vyLnYlNrQR9ZVJEZto0qZ) | [Arcturus](https://open.spotify.com/artist/0UGvFl1tJ49Co99gaXZH9Z) | [Arcturian](https://open.spotify.com/album/5yJ9F1Md1I14N0r1LcIF58) | 5:06 | 2015-12-07 |  |
 | [The Black Plot](https://open.spotify.com/track/19dSQscMACiE19qvUQEO6D) | [High On Fire](https://open.spotify.com/artist/1eiIIImNeUj3vpaocWqoOf) | [Luminiferous \(NotSet\)](https://open.spotify.com/album/4IW6F3Jcoq3973Z24FNr9I) | 5:31 | 2015-12-07 |  |
 | [The Coma Machine](https://open.spotify.com/track/5EM6ySpK1SYeof4jm72psM) | [Between The Buried And Me](https://open.spotify.com/artist/2JC4hZm1egeJDEolLsMwZ9) | [Coma Ecliptic](https://open.spotify.com/album/565p3zaZbgQ0VkdIg8Xbxn) | 7:35 | 2015-12-07 |  |
 | [The Malefic Miasma](https://open.spotify.com/track/6eSWdN401sVCVR1K00Ayrx) | [Ages](https://open.spotify.com/artist/1lVHxY3ITO835tE7sNlLrB) | [The Malefic Miasma](https://open.spotify.com/album/3mJeUmGuQ7oO72B1FhKcvG) | 4:37 | 2015-12-07 |  |

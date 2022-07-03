@@ -4,7 +4,7 @@
 
 > Connie Isla y más mujeres, a todo volumen.
 
-284 songs - 15 hr 19 min - [published](https://open.spotify.com/playlist/2QVxsIRorz9KsDBcQ2nOCU)
+284 songs - 15 hr 22 min - [published](https://open.spotify.com/playlist/2QVxsIRorz9KsDBcQ2nOCU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Cómo será](https://open.spotify.com/track/0cNZlYH8nYKWWpBWRJtOzB) | [Chule](https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe) | [Cómo será](https://open.spotify.com/album/6MbAdHtpoi65lWziafwRr0) | 3:16 | 2022-04-06 | 2022-05-05 |
 | [Dentro](https://open.spotify.com/track/7zygrEhhUZgzLzoX8RWdWR) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Lo Que Duró la Vida de Alguien](https://open.spotify.com/album/1laV2Pxw2s1PCOhYNLEk5v) | 2:25 | 2022-02-02 | 2022-03-09 |
 | [derramada :\):](https://open.spotify.com/track/6YSXSrmYu8n3cCQacmMbNQ) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [derramada :\):](https://open.spotify.com/album/5yLzc3a28NIuYnmg6xo5Un) | 3:08 | 2022-02-02 | 2022-03-09 |
-| [desastre natural](https://open.spotify.com/track/5MFYjx5Ba0NuyL1TUQVI69) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [ENVOLTORIO](https://open.spotify.com/album/0PawHcpENJnqCXwKranhS3) | 0:29 | 2022-05-04 | 2022-07-02 |
+| [desastre natural](https://open.spotify.com/track/5MFYjx5Ba0NuyL1TUQVI69) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [ENVOLTORIO](https://open.spotify.com/album/0PawHcpENJnqCXwKranhS3) | 3:49 | 2022-05-04 |  |
 | [Desvelo](https://open.spotify.com/track/5ZB7rbNjnJ8lMZ4KTuh55F) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Desvelo](https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI) | 4:34 | 2022-02-02 | 2022-03-09 |
 | [Detox](https://open.spotify.com/track/2ttUrgPFiyWOHxbauXSVRo) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Detox](https://open.spotify.com/album/2G9ADFNXJROkdiV8faSYQb) | 2:47 | 2022-01-05 | 2022-05-05 |
 | [Diabla](https://open.spotify.com/track/2uqXBgxoOsYMkNcJzLtJUw) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Diabla](https://open.spotify.com/album/4Dc5yBqil6itL5cVBQsFQE) | 2:51 | 2022-02-02 | 2022-04-07 |
@@ -98,7 +98,7 @@
 | [Felices x Siempre](https://open.spotify.com/track/42Gzfqnfpk7Pp1ydM60eNn) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Felices x Siempre](https://open.spotify.com/album/1DW15sDiWh55xNKb5uqIp2) | 3:19 | 2022-03-08 | 2022-04-07 |
 | [FLOTANDO](https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [FLOTANDO](https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY) | 2:42 | 2022-04-06 | 2022-05-05 |
 | [FOCUS](https://open.spotify.com/track/4QXjF2n7YiPFp7xeGKfdhr) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6), [La Finesse](https://open.spotify.com/artist/3xV8oWG5BKYU2LXVxS779A) | [FOCUS](https://open.spotify.com/album/6PXxcZ9wQu4tLIJvL42WOw) | 2:34 | 2021-12-17 | 2022-04-07 |
-| [Formas de querer](https://open.spotify.com/track/2n4unNBI2aSdaLsn9D5fkJ) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [OSADÍA](https://open.spotify.com/album/3Csz304u6zteMaJcQv3lFa) | 2:50 | 2022-05-04 | 2022-07-02 |
+| [Formas de querer](https://open.spotify.com/track/2n4unNBI2aSdaLsn9D5fkJ) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [OSADÍA](https://open.spotify.com/album/3Csz304u6zteMaJcQv3lFa) | 2:50 | 2022-05-04 |  |
 | [Fuji](https://open.spotify.com/track/1s1XgeIjN3tyyuduv3VhRU) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32) | [Frontera / Fuji](https://open.spotify.com/album/2ZUxEEF8UXDzh0OgEJwylB) | 4:38 | 2022-06-01 |  |
 | [Game Over](https://open.spotify.com/track/3G57CT7X2RlgcfgR9xuYEA) | [Kobra Kei](https://open.spotify.com/artist/3jZBz8zwL89UHOwIscWATb) | [Game Over](https://open.spotify.com/album/6Vg8b7ib6pgEj7JG0rQOOm) | 4:30 | 2021-12-17 | 2022-01-06 |
 | [Ganas](https://open.spotify.com/track/4sQV5QUNpAGL7KZxMtKDJn) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Ganas](https://open.spotify.com/album/1D4Uj90I9NPPeMj8fEMeVS) | 2:24 | 2022-03-08 | 2022-04-07 |
@@ -165,10 +165,10 @@
 | [Mi Poder](https://open.spotify.com/track/5u6vrXSwaWevC7udvjdGnD) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Mi Poder](https://open.spotify.com/album/4liTpNtI16hNlia7Sa841E) | 3:42 | 2022-06-01 |  |
 | [Mi Propio Paraíso](https://open.spotify.com/track/3JYUCQOHCkbvnZLZjpRQxc) | [Acus](https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp), [Nico Cota](https://open.spotify.com/artist/3R7H5BnszTX4pYrBXOkmeR) | [Peluche Peligroso](https://open.spotify.com/album/32szAPsRimQbYpPl4Bvkfn) | 4:26 | 2022-03-08 | 2022-04-07 |
 | [Miedos](https://open.spotify.com/track/6UXudjXSWptc6VpyYOYsmm) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Miedos](https://open.spotify.com/album/1QYyoy26hsRmLSTZWUAjgH) | 3:05 | 2022-05-04 |  |
-| [Mirandesco](https://open.spotify.com/track/48CheHoGPLRrFIBkm6vFsa) | [Amor Elefante](https://open.spotify.com/artist/5DboBy35CJ1kezDm1ebqbC) | [Mirandesco](https://open.spotify.com/album/6Wz0DZ95DCDSKJxEiUEtNh) | 3:24 | 2022-02-02 |  |
+| [Mirandesco](https://open.spotify.com/track/48CheHoGPLRrFIBkm6vFsa) | [Amor Elefante](https://open.spotify.com/artist/5DboBy35CJ1kezDm1ebqbC) | [Mirandesco](https://open.spotify.com/album/6Wz0DZ95DCDSKJxEiUEtNh) | 3:24 | 2022-02-02 | 2022-07-03 |
 | [Miseria](https://open.spotify.com/track/133WrLbDi3hHdqnmivs1yX) | [THE COLORATED](https://open.spotify.com/artist/5TR49gppYqwHy7E6VHFUpK), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk) | [Miseria](https://open.spotify.com/album/6OvaaOohiSRpW9w9iJ0gAM) | 2:20 | 2022-02-02 | 2022-03-09 |
-| [misiones](https://open.spotify.com/track/4JVRzlpJtegKs3hHHVkrd2) | [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [Medianoche Radio Club](https://open.spotify.com/album/1Bhx6as8YJyXPhRUS8rHj1) | 4:04 | 2022-05-04 |  |
-| [misiones](https://open.spotify.com/track/7u4p8GY2fckksa73OsyXTa) | [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [misiones](https://open.spotify.com/album/1o88S5U0jspiw4en1nWDe8) | 4:07 | 2022-06-01 | 2022-06-29 |
+| [misiones](https://open.spotify.com/track/4JVRzlpJtegKs3hHHVkrd2) | [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [Medianoche Radio Club](https://open.spotify.com/album/1Bhx6as8YJyXPhRUS8rHj1) | 4:04 | 2022-05-04 | 2022-07-03 |
+| [misiones](https://open.spotify.com/track/7u4p8GY2fckksa73OsyXTa) | [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [misiones](https://open.spotify.com/album/1o88S5U0jspiw4en1nWDe8) | 4:07 | 2022-06-01 |  |
 | [Miénteme](https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Miénteme](https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg) | 2:45 | 2022-01-05 | 2022-04-07 |
 | [Modo Avión](https://open.spotify.com/track/7CADGxxRrtI7hm7jjIP1hP) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF) | [Camilú](https://open.spotify.com/album/3lJ1bpSjYeuDTGBrKmRw2n) | 3:07 | 2022-01-05 | 2022-02-03 |
 | [Mojate](https://open.spotify.com/track/7thLWgFi651zlhdxj5L2gx) | [Bestia Música](https://open.spotify.com/artist/64C7jjsiHxegCurrYpCabw) | [Mojate](https://open.spotify.com/album/4Totc3MiHWKItzwC0alN27) | 3:49 | 2022-06-01 |  |
@@ -202,7 +202,7 @@
 | [Pensándote](https://open.spotify.com/track/0eBXYmenc3IatPxBOtX91D) | [Luz Pereyra](https://open.spotify.com/artist/7D1Cr80ZNOkzVkvo53cGjA) | [Pensándote](https://open.spotify.com/album/7CfRSumqqyPF6u17A9BXXm) | 3:20 | 2022-05-04 |  |
 | [Perspectiva](https://open.spotify.com/track/54gV08eukqnNl8NwRu9rN6) | [T'Shine](https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm) | [Perspectiva](https://open.spotify.com/album/2zsxjBGs0k2XkMukaXnKSF) | 2:32 | 2022-02-02 | 2022-03-09 |
 | [Picante](https://open.spotify.com/track/5VB2lmH2J2tnJBjMURSN6r) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Picante](https://open.spotify.com/album/2vM4XgkyBTi7kKpxFvrpdl) | 3:07 | 2022-01-05 | 2022-05-05 |
-| [Piedra](https://open.spotify.com/track/6NjZ63QKCfj2Q1NrrfRx2v) | [Violeta Castillo](https://open.spotify.com/artist/2NtYHfTFxDUWZcQAxJBzhe) | [Piedra](https://open.spotify.com/album/3DeMJZwXowF18x6XEfiVGU) | 5:45 | 2022-06-01 |  |
+| [Piedra](https://open.spotify.com/track/6NjZ63QKCfj2Q1NrrfRx2v) | [Violeta Castillo](https://open.spotify.com/artist/2NtYHfTFxDUWZcQAxJBzhe) | [Piedra](https://open.spotify.com/album/3DeMJZwXowF18x6XEfiVGU) | 5:45 | 2022-06-01 | 2022-07-03 |
 | [Piel](https://open.spotify.com/track/40dep5por7ZPGoxyMd1yLl) | [CATALINA](https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2) | [Piel](https://open.spotify.com/album/3XorXyWLurHALWui65CIu7) | 3:04 | 2022-05-04 |  |
 | [Pirata](https://open.spotify.com/track/3fSpafFrh7GM2x7X8MjfGb) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Pirata](https://open.spotify.com/album/5kj35KucMb9m2IENpIWA9c) | 2:50 | 2022-03-08 | 2022-05-05 |
 | [Pisteando](https://open.spotify.com/track/0kRDY2gDmv3aCKd7AuLNnt) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [OSADÍA](https://open.spotify.com/album/3Csz304u6zteMaJcQv3lFa) | 2:13 | 2022-01-05 | 2022-03-09 |

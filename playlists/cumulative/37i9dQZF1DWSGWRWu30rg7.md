@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Aidil Saputra\. Artwork: Isu Kim.
 
-818 songs - 2 day 2 hr 5 min - [published](https://open.spotify.com/playlist/56sjum0leqDJVjHk9gB1Ns)
+819 songs - 2 day 2 hr 7 min - [published](https://open.spotify.com/playlist/56sjum0leqDJVjHk9gB1Ns)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Aku Lepas Kamu Cinta](https://open.spotify.com/track/3qvefqqFosXEuRlC5TOLcr) | [Haico](https://open.spotify.com/artist/4dtkXlej2FOunvRbr6KiqC) | [Aku Lepas Kamu Cinta](https://open.spotify.com/album/6VKkX8f6eUJXNdyXWVWxvJ) | 3:46 | 2022-05-26 | 2022-06-17 |
 | [aku mau](https://open.spotify.com/track/3GBErZUjzGaPFD5VFlbwoh) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [aku mau](https://open.spotify.com/album/7xdJ39zTLC2PgqNOMGKKOh) | 3:25 | 2022-03-10 | 2022-03-25 |
 | [Aku Salah](https://open.spotify.com/track/4XjqDmV3ef8b9kdeikTlrs) | [Hdey](https://open.spotify.com/artist/6aAvlsPsksZyDvurvjLjfR) | [Aku Salah](https://open.spotify.com/album/2FTwB3rn7NL1jmNCpuNlOm) | 3:34 | 2022-01-13 | 2022-01-28 |
+| [All I Ever Needed](https://open.spotify.com/track/41lv8KU7MsCEHjsSa7seJA) | [Rose Mystica](https://open.spotify.com/artist/5VYj1fc8JdHU3BGpSw1hbf) | [All I Ever Needed](https://open.spotify.com/album/2RwDuCmRcIlThc8CDvY4b3) | 2:27 | 2022-07-01 |  |
 | [all i see is u](https://open.spotify.com/track/3AuLRj1n8ZdGbUje7ZNgtd) | [The Backdoor Hours](https://open.spotify.com/artist/3u5XGIc6oD5ZdoyidlX39q) | [all i see is u](https://open.spotify.com/album/7tgqVF25aE2z2GiuLZUW4G) | 5:02 | 2022-06-02 | 2022-06-24 |
 | [all my heart](https://open.spotify.com/track/7DVn1m85E6r99PrUxhaGRZ) | [Vitara](https://open.spotify.com/artist/0NcLSUH54X9UBJSO7uMtPA), [NSG](https://open.spotify.com/artist/1ZfGh4cgVP6taqy00naPhl) | [all my heart](https://open.spotify.com/album/7gNiT19DaVVGbKHxndCtRA) | 3:08 | 2022-02-24 | 2022-03-11 |
 | [ALL U EVER DO](https://open.spotify.com/track/2MhzwKQFVgi34S4oaFwWBH) | [Nahtan](https://open.spotify.com/artist/7MVfnZqBCCMtY3ZN40hoX7), [Nostragic](https://open.spotify.com/artist/11hCOwlZ8ywuI1dLPESRki) | [ALL U EVER DO](https://open.spotify.com/album/5fGpuPpiafQy9CIVl31G5z) | 2:44 | 2022-04-07 | 2022-04-22 |

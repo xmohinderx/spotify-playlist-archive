@@ -4,7 +4,7 @@
 
 > Pouring rain and occasional rolling thunder.
 
-395 songs - 17 hr 39 min - [published](https://open.spotify.com/playlist/24mLuWgScUP4helHcwLm2m)
+395 songs - 17 hr 41 min - [published](https://open.spotify.com/playlist/24mLuWgScUP4helHcwLm2m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Heavy Rain Under Cover](https://open.spotify.com/track/4aXbgtlE3sYeXWyBm3yrR5) | [Pioggia Notturna](https://open.spotify.com/artist/0Hus0cAybME524CqgViKck) | [Giardini](https://open.spotify.com/album/0nd9xnVNAS1O89Xs1Du6G4) | 2:18 | 2021-11-08 |  |
 | [Heavy Storm](https://open.spotify.com/track/1WvCx016HUVL6opRQgQRmM) | [Tempest](https://open.spotify.com/artist/6vVLDxFDTld21ezPmiTJZ0) | [Disturbance](https://open.spotify.com/album/1bK5cnsWhyEA2iNTSrk1S3) | 3:00 | 2021-11-08 |  |
 | [Hybrid Clouds](https://open.spotify.com/track/4mJnhL0Wxk8S1H3sKKeI5Q) | [Vapourse](https://open.spotify.com/artist/7EF6zIKi6Qb6Ky3Y9GSsxW) | [Enjoy The Sky](https://open.spotify.com/album/534t88l34yw4XIjPgO45Wf) | 1:55 | 2021-11-08 |  |
-| [I Love Rain](https://open.spotify.com/track/4AN4dmPzeyPtA9DQjQ6u4z) | [Love Nature](https://open.spotify.com/artist/62N2aSzYqfNISn3LS3xQ01) | [Lovely Rain](https://open.spotify.com/album/39nbGbuy1Ly2xA06DV7wb3) | 0:29 | 2021-11-08 |  |
+| [I Love Rain](https://open.spotify.com/track/4AN4dmPzeyPtA9DQjQ6u4z) | [Love Nature](https://open.spotify.com/artist/62N2aSzYqfNISn3LS3xQ01) | [Lovely Rain](https://open.spotify.com/album/39nbGbuy1Ly2xA06DV7wb3) | 2:42 | 2021-11-08 |  |
 | [In The Clouds](https://open.spotify.com/track/3cH75G5f24Bc7koyOlBtDg) | [The Stormwater](https://open.spotify.com/artist/01c7DohUs02BwUDAyxzTUU) | [Weather Front](https://open.spotify.com/album/33LXnoQeIUfX5va0n2jiCx) | 2:42 | 2021-11-08 |  |
 | [In The Spring](https://open.spotify.com/track/5T8Nx9uWYe5uqGGUygt657) | [Liquidge](https://open.spotify.com/artist/44CkWXtsMCZodXHR6EDFvP) | [Lifting Air](https://open.spotify.com/album/5LSCejKgU0qOmu0FWxquED) | 2:18 | 2021-11-08 |  |
 | [Infinite Rain Clouds](https://open.spotify.com/track/0pPMBiWpbShtUwpjuVsXs9) | [Sleep Waves](https://open.spotify.com/artist/5YwgJh6Sx2jIZ0NTqzYCDW) | [Infinite Rain Clouds](https://open.spotify.com/album/14YL0Xbet4gFMtMsAkjJNF) | 2:36 | 2021-11-08 |  |

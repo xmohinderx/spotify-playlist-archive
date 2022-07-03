@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gDTB1VLIIh.md) - [plain]
 
 > This is Nasty C, also known to fans as "A Zulu Man With Some Power"\. The essential tracks, all in one playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,783 likes - 45 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,838 likes - 45 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gDTB1VLIIh.md) - [plain]
 | 37 | [CHOTANOSHI](https://open.spotify.com/track/1GMYv2YrIejd3ubBRjAEyk) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [LIFE IS WAVY](https://open.spotify.com/album/19o1qkCpsviMac2uPY3Veh) | 2:46 |
 | 38 | [Forget](https://open.spotify.com/track/65g5zcPzLSk65eTi64luPX) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Erick Rush](https://open.spotify.com/artist/5lyTKgOh28QyJ9KmQArlpA) | [Bad Hair](https://open.spotify.com/album/3ymK0IkQzqgVEmxGYC2Tzl) | 5:24 |
 | 39 | [King](https://open.spotify.com/track/68njR0pHe0o8fXTFDUCqbM) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Strings And Bling](https://open.spotify.com/album/6JyxiTsgY9NgCgBxwtrhgo) | 3:08 |
-| 40 | [Said \(Coke Studio Africa\)](https://open.spotify.com/track/5Vq2NGaB9ceeROuvx1yXKg) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Said \(Coke Studio Africa\)](https://open.spotify.com/album/4AaLQWmWFNsz9h2kENp2zL) | 0:29 |
+| 40 | [Said \(Coke Studio Africa\)](https://open.spotify.com/track/5Vq2NGaB9ceeROuvx1yXKg) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Said \(Coke Studio Africa\)](https://open.spotify.com/album/4AaLQWmWFNsz9h2kENp2zL) | 3:38 |
 | 41 | [Jump \(feat\. Nasty C\)](https://open.spotify.com/track/1dSnLSxWcAVPprcFdq1H1n) | [ANATII](https://open.spotify.com/artist/6dX1EJC9XFlM8Ql1wGHC55), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Jump \(feat\. Nasty C\)](https://open.spotify.com/album/7d4u8ixuqyHE4D5ccjoxn5) | 5:00 |
 | 42 | [They Don't](https://open.spotify.com/track/22IFHAWQe7cDqlL9KJCyo4) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Zulu Man With Some Power](https://open.spotify.com/album/04udszu1QoEWl5qXu2MTUi) | 3:59 |
 | 43 | [I Need You \- From the Netflix original series "Blood & Water"](https://open.spotify.com/track/3b6CZJw9JOpJ3fQTJbj6pT) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [I Need You \(From the Netflix original series "Blood & Water"\)](https://open.spotify.com/album/1Ud8OuHGHAQncOCWqOPhs8) | 3:25 |

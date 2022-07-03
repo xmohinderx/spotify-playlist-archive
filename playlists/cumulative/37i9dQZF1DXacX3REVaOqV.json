@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 245669,
       "name": "333 - Cut Version",
       "url": "https://open.spotify.com/track/18eNlKPO2mpzRgzJthA2TY"
@@ -205,7 +205,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 308333,
       "name": "All I Do - Jordan Rivera Para Las Chicas Remix",
       "url": "https://open.spotify.com/track/6ZtiWVr3xN5dLR4EDdwclg"
@@ -263,7 +263,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 373720,
       "name": "Aquarius Swing",
       "url": "https://open.spotify.com/track/5DL059fT2EWGJsurcEGlQE"
@@ -321,7 +321,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 476200,
       "name": "Back to the Raw - Vocal Rough Mix",
       "url": "https://open.spotify.com/track/6CmLQCBSjUdQRt2uqB0jx6"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 369523,
       "name": "Bambam",
       "url": "https://open.spotify.com/track/4rFDOfzY5KT8t7VA9KFpDm"
@@ -431,7 +431,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 207105,
       "name": "Be Funky",
       "url": "https://open.spotify.com/track/347yYEUgjRg4Db6ZFh0G2v"
@@ -555,7 +555,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 193820,
       "name": "Call Me - You Man Remix",
       "url": "https://open.spotify.com/track/632hTioEegQLCR2uOfVHlN"
@@ -755,7 +755,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 408920,
       "name": "Dangly Panther",
       "url": "https://open.spotify.com/track/2tUJka7z72sFDuRYtAz7fR"
@@ -809,7 +809,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 264320,
       "name": "Desire - Radio Edit",
       "url": "https://open.spotify.com/track/631bx8hIT8bVS2vfUzn5GN"
@@ -963,7 +963,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 204793,
       "name": "Drowning In Your Love (feat. Jem Cooke) - Mark Knight Remix",
       "url": "https://open.spotify.com/track/3stfe0XW3KIF1G1MNyn238"
@@ -1299,7 +1299,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 156000,
       "name": "Gettin' Started",
       "url": "https://open.spotify.com/track/2l3dG41OP5VVeTxflAmoiP"
@@ -1369,7 +1369,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 204651,
       "name": "Harder (Shermanology Remix) - Radio Edit",
       "url": "https://open.spotify.com/track/2ZhZ76JnLYcjFmcExTdxNF"
@@ -1395,7 +1395,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 379948,
       "name": "Heartbreak - Kerri Chandler Remix",
       "url": "https://open.spotify.com/track/6UpWBI1nTv9PnqnGKuzIuT"
@@ -1615,7 +1615,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 286476,
       "name": "I Can Boogie",
       "url": "https://open.spotify.com/track/2ozkaxd6uFj0dKhHJUxurx"
@@ -1652,6 +1652,24 @@
     },
     {
       "album": {
+        "name": "Belters Only",
+        "url": "https://open.spotify.com/album/7q2csSLstONjj56KHf4YpD"
+      },
+      "artists": [
+        {
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150991,
+      "name": "I Will Survive",
+      "url": "https://open.spotify.com/track/5Fi4nPER6YbntbYDW4P3Pz"
+    },
+    {
+      "album": {
         "name": "Happiness Therapy LP01 : The Coast",
         "url": "https://open.spotify.com/album/4rde1PzuPvIf5kwBRuIFyW"
       },
@@ -1663,7 +1681,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 534689,
       "name": "In My Heart",
       "url": "https://open.spotify.com/track/0YvqZxNJYloBhCZy51lLrd"
@@ -1773,7 +1791,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 428254,
       "name": "It's Yours (feat. E-Man) - Distant Music Mix",
       "url": "https://open.spotify.com/track/4XNh03XZOu9CY0VjGGsrrU"
@@ -1861,7 +1879,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 221250,
       "name": "Jungle Trip - Edit",
       "url": "https://open.spotify.com/track/4LpjBeeKDhUQiFTyS87y8u"
@@ -1897,7 +1915,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 161106,
       "name": "La Vida",
       "url": "https://open.spotify.com/track/1gW6EOhbHSn6nFug3zpyHK"
@@ -2065,7 +2083,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 356129,
       "name": "Levante",
       "url": "https://open.spotify.com/track/6Pf7har3IRGctriYzbanjM"
@@ -2197,7 +2215,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 171290,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/4qtqzgsb0zUGRLx3Vd6MLk"
@@ -2317,7 +2335,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 181935,
       "name": "Loving U",
       "url": "https://open.spotify.com/track/0fEMbkLjNZ4V33KO4mLdP5"
@@ -2485,7 +2503,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 156895,
       "name": "Move Your Body - Kim Kaey Remix",
       "url": "https://open.spotify.com/track/0jGGnUiMHn36ZWsxZbpIs4"
@@ -2555,7 +2573,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 288682,
       "name": "Naked - Fouk Remix",
       "url": "https://open.spotify.com/track/1uUOhrg9zNbam7HtmUfAu0"
@@ -2757,7 +2775,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 159179,
       "name": "Oh Yes (feat. Marvin Gaye & Tammi Terrell)",
       "url": "https://open.spotify.com/track/1CdlRy7UMR7Oz8pnUFFX2G"
@@ -2833,7 +2851,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 189268,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/5lXY6PTuWXOludKy4zDQwM"
@@ -2927,7 +2945,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 418899,
       "name": "Pasci\u00e0",
       "url": "https://open.spotify.com/track/3B9pguwtbemJQlVWkxrfeU"
@@ -2975,7 +2993,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 365806,
       "name": "Petu - Masalo Remix",
       "url": "https://open.spotify.com/track/2pc9WL236HA0GekuhMw8f7"
@@ -3177,7 +3195,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 413745,
       "name": "Right On - Dario D'attis Remix",
       "url": "https://open.spotify.com/track/5ymor3b8Gs82TouTl7z7Yj"
@@ -3353,7 +3371,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 364462,
       "name": "Show Me - Waajeed's Black Messiah Remix",
       "url": "https://open.spotify.com/track/5v1I1uIfemjG5Eq2Vnhuvq"
@@ -3467,7 +3485,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 247680,
       "name": "Speed Up - Menesix Remix",
       "url": "https://open.spotify.com/track/0DBnkbWalfo6TNjRcll0ui"
@@ -3485,7 +3503,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 178546,
       "name": "Spells Of Yoruba - Jamie Jones Watertight Mix",
       "url": "https://open.spotify.com/track/6OEVWRWJ0ZkGFOFSp3cNOR"
@@ -3783,7 +3801,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 391961,
       "name": "TALI",
       "url": "https://open.spotify.com/track/51pEVxPCc5ZlAm5Y47Kuhg"
@@ -3879,7 +3897,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 435909,
       "name": "The Day - Alternate",
       "url": "https://open.spotify.com/track/7ljUxtrd8bRDVUbMhfIZnT"
@@ -3901,7 +3919,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 146675,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/1mMjjYg5ig6kC9LGWx9G54"
@@ -4143,7 +4161,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 278706,
       "name": "Warning (feat. Lynn Lockamy) - Mixed",
       "url": "https://open.spotify.com/track/4lVQ27mBsZva3LVf216HcQ"
@@ -4249,7 +4267,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 232500,
       "name": "Who Am I",
       "url": "https://open.spotify.com/track/5nIL1etglKhsfxRPcVhbjq"
@@ -4397,7 +4415,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 230159,
       "name": "You Can't Hide from Yourself - Qubiko Remix",
       "url": "https://open.spotify.com/track/7lWCF3FwL6fhhDozRgiYww"

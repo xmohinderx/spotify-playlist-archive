@@ -4,7 +4,7 @@
 
 > Cool beats for homework time!
 
-166 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/3GJGRd7vcx421WDwZ4kpeK)
+166 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/3GJGRd7vcx421WDwZ4kpeK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Delicious Deeds](https://open.spotify.com/track/6Ck6Tv3EopH6L33sH2I47y) | [Master Haratt](https://open.spotify.com/artist/4xXJGTAfTfLq9HqksgZHBT) | [Delicious Deeds](https://open.spotify.com/album/6WBaVg8k0w6hKYPsWHCy7L) | 3:05 | 2022-04-08 |  |
 | [Dive In](https://open.spotify.com/track/1ZANGntZPUTTPR0P6n6upr) | [Low Lions](https://open.spotify.com/artist/2mUm5cFEahwt8CtctiwIor) | [Dive In](https://open.spotify.com/album/0F851oU5m8Mh3pqD0ZqWns) | 3:17 | 2022-04-08 |  |
 | [Dizzy](https://open.spotify.com/track/4jtGfSRuNkTBkF3I9qt0N5) | [Platinum Dust](https://open.spotify.com/artist/4EOKoMTIR7K71Skv7gAmgS) | [Dizzy](https://open.spotify.com/album/1YOb6V7Hxqz8jbHq7ZvLJr) | 1:22 | 2022-04-08 |  |
-| [Do Some Real](https://open.spotify.com/track/472amW2rwsFhBCnQJK9jSn) | [Mono:Massive](https://open.spotify.com/artist/2M3T0t1HvVr5Lz3MtdygpS) | [Monothrope](https://open.spotify.com/album/7otsq7Jet1djp7962pkrHg) | 0:29 | 2022-04-08 |  |
+| [Do Some Real](https://open.spotify.com/track/472amW2rwsFhBCnQJK9jSn) | [Mono:Massive](https://open.spotify.com/artist/2M3T0t1HvVr5Lz3MtdygpS) | [Monothrope](https://open.spotify.com/album/7otsq7Jet1djp7962pkrHg) | 2:56 | 2022-04-08 |  |
 | [Dream ON](https://open.spotify.com/track/6NLzpxi7PZH1K1tsLqpmeh) | [DGHTR](https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL) | [Dream ON](https://open.spotify.com/album/1pCrJ0Ortb3rbhiUaWbkfU) | 1:47 | 2022-04-08 |  |
 | [Dusty](https://open.spotify.com/track/1H6lcREWzGbrL9fQSfhInB) | [Mama Gecko](https://open.spotify.com/artist/3hsIheKwar2G4DBVfH3FBh) | [Dusty](https://open.spotify.com/album/3O0Pka7Pg4PgoF78M8oJjZ) | 2:18 | 2022-04-08 |  |
 | [Echoes](https://open.spotify.com/track/6j7fobMzagIA3dIr8bzY0J) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Echoes](https://open.spotify.com/album/7qVzL9yk9tO8qTaJB2SJ1h) | 1:12 | 2022-04-08 |  |
@@ -62,7 +62,7 @@
 | [Harlem Midnight](https://open.spotify.com/track/2Y7pei06xCOe5ybYxxzy2J) | [mr mirakami](https://open.spotify.com/artist/2578z8LcqKTw0ccvtDAQoU) | [Harlem Midnight](https://open.spotify.com/album/3j7u2ewv0QLbX9HNBE3itp) | 1:57 | 2022-04-08 | 2022-04-22 |
 | [Hello Friend](https://open.spotify.com/track/3mB3p3Dh014P4fdxvEb07J) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Chillhop Daydreams](https://open.spotify.com/album/7qdepmAALqX7taS6nMz8v5) | 2:01 | 2022-04-08 |  |
 | [Hello, Beautiful](https://open.spotify.com/track/0EZBeSP6JhQ9tiZRkm45wE) | [Nostalgique](https://open.spotify.com/artist/0vQZ3ouldVTGqaF2RJCr6O) | [Hello, Beautiful](https://open.spotify.com/album/2visBkenZRm39wKPaCd5kh) | 1:16 | 2022-04-08 |  |
-| [Hollow Park](https://open.spotify.com/track/05ULKBGbXdbVpqqokRTkEp) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft) | [Hollow Park](https://open.spotify.com/album/0O0bs1ShYyAYFuJaqIuNur) | 0:29 | 2022-04-08 |  |
+| [Hollow Park](https://open.spotify.com/track/05ULKBGbXdbVpqqokRTkEp) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft) | [Hollow Park](https://open.spotify.com/album/0O0bs1ShYyAYFuJaqIuNur) | 2:06 | 2022-04-08 |  |
 | [Hong Kong Minute](https://open.spotify.com/track/3M0fRULm8Js8oHwiO9Cjod) | [Metic](https://open.spotify.com/artist/6w72979Ja5ip1mFNzTa2iY) | [Hong Kong Minute](https://open.spotify.com/album/3DLhD7vymFXPYWscCRM7yW) | 2:17 | 2022-04-08 |  |
 | [Horizon mind](https://open.spotify.com/track/0KxU1WQidDDjwDbTm0YW4b) | [Jolly Jordan](https://open.spotify.com/artist/4lpUkhOmmsVncY2vxf2UuZ) | [Horizon mind](https://open.spotify.com/album/4DPxwX7Ixo2SMiIQdUSXwE) | 3:16 | 2022-04-08 |  |
 | [Hurricane Season](https://open.spotify.com/track/0vj6E1gDIeIMSh4Eyvyv62) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Hurricane Season](https://open.spotify.com/album/0CM3RQQNibFPapvaf8uFUc) | 1:59 | 2022-04-08 |  |

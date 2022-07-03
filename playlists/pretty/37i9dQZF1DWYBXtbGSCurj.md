@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Recayd Mob
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,449 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,600 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 4 | [Lembranças](https://open.spotify.com/track/7vu1vGSNfA8pdjrkMps1V7) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Elenko Music](https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Lembranças](https://open.spotify.com/album/169oO74EgE1hyoz9ah8pxi) | 2:34 |
 | 5 | [Jessiquinha](https://open.spotify.com/track/3H5wWhrqdGO4LKP2DXwhVJ) | [Braão](https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd), [LIT UP](https://open.spotify.com/artist/048eLqPGxqWk7PblwFmXgE) | [Jessiquinha](https://open.spotify.com/album/719ZCOFHHGafxDZ5Bc4HTE) | 3:21 |
 | 6 | [Dior](https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Dior](https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR) | 3:49 |
-| 7 | [Nata](https://open.spotify.com/track/5dBKzhtE24DZKcF0SJ4gbm) | [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU) | [Nata](https://open.spotify.com/album/7wzSMlu0oj2HAupFSeNuHn) | 2:05 |
+| 7 | [Nata](https://open.spotify.com/track/5dBKzhtE24DZKcF0SJ4gbm) | [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU), [EF](https://open.spotify.com/artist/31zD0TKiTJ0OlcW3I6JI27) | [Nata](https://open.spotify.com/album/7wzSMlu0oj2HAupFSeNuHn) | 2:05 |
 | 8 | [Predestinado](https://open.spotify.com/track/7eZCP5YHeqVsIGaPp8y9ac) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Predestinado](https://open.spotify.com/album/2upWbocp41H5qa6FuKimfn) | 3:14 |
 | 9 | [Vlife](https://open.spotify.com/track/2evcFxT2aW4FZznh6DyEwK) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Vlife](https://open.spotify.com/album/47on59OkWHDwxyP2zBjhwd) | 2:40 |
 | 10 | [Konteiner](https://open.spotify.com/track/347KmRWwYXcZSUgelz7Cit) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [LUME](https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG) | 2:30 |

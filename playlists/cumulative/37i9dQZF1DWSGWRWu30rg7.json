@@ -480,6 +480,24 @@
     },
     {
       "album": {
+        "name": "All I Ever Needed",
+        "url": "https://open.spotify.com/album/2RwDuCmRcIlThc8CDvY4b3"
+      },
+      "artists": [
+        {
+          "name": "Rose Mystica",
+          "url": "https://open.spotify.com/artist/5VYj1fc8JdHU3BGpSw1hbf"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147333,
+      "name": "All I Ever Needed",
+      "url": "https://open.spotify.com/track/41lv8KU7MsCEHjsSa7seJA"
+    },
+    {
+      "album": {
         "name": "all i see is u",
         "url": "https://open.spotify.com/album/7tgqVF25aE2z2GiuLZUW4G"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: Beliz Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,213 likes - 90 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,211 likes - 90 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 11 | [Yara Aldım](https://open.spotify.com/track/4P8CK6rQv1N52WNSkjgR8q) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Yara Aldım](https://open.spotify.com/album/0a3pkorOZiwvdxxcSl96ja) | 3:03 |
 | 12 | [Dans Edelim](https://open.spotify.com/track/1fwHzdxgmPFO9KTsCLB4IG) | [Buğra Pakbeşe](https://open.spotify.com/artist/3k86ZKtGHT82j6dbTAOnuU) | [Dans Edelim](https://open.spotify.com/album/7qcTVMsyqMnNusdQXf1pRP) | 3:35 |
 | 13 | [mavera](https://open.spotify.com/track/2OWy7ZHPxa3Rk1KP0vtsvN) | [Anıl Ulusoy](https://open.spotify.com/artist/4GiOCNBFYdYJ0e7trjiOaO), [Ibrahim Babayev](https://open.spotify.com/artist/3iBtFNr5qLRTtRtABm844Z) | [mavera](https://open.spotify.com/album/0qnmTvrrIvCy3Hkh7R1iRV) | 4:15 |
-| 14 | [Hayatın İzleri](https://open.spotify.com/track/2wJo7CG03q1sqZGDzBUJw1) | [Asli Ozer](https://open.spotify.com/artist/7GPHCN0PZGJPqU0s2BIoJY) | [Hayatın İzleri](https://open.spotify.com/album/0ohxeJWBkcWP45feTYEgw6) | 0:29 |
+| 14 | [Hayatın İzleri](https://open.spotify.com/track/2wJo7CG03q1sqZGDzBUJw1) | [Asli Ozer](https://open.spotify.com/artist/7GPHCN0PZGJPqU0s2BIoJY) | [Hayatın İzleri](https://open.spotify.com/album/0ohxeJWBkcWP45feTYEgw6) | 3:57 |
 | 15 | [Sana Çıkar Her Yol](https://open.spotify.com/track/23WGxgIxdJppOc67XBXeln) | [Doğan Cem](https://open.spotify.com/artist/0jhlEav8z1aMytlAkk8N9x) | [Sana Çıkar Her Yol](https://open.spotify.com/album/5ur9qbQKNbgBkNKwSVYXrn) | 2:40 |
 | 16 | [Ahım](https://open.spotify.com/track/7sbchYS3F9kYc0VFs1Mp7a) | [Safiye](https://open.spotify.com/artist/3J5L8phe7TP0vhoiXdJizP) | [Ahım](https://open.spotify.com/album/6HLWMrjtcREOt2BJ5jDfv3) | 4:04 |
 | 17 | [Çok Zaman Önceydi](https://open.spotify.com/track/5P2MccmHPGBZIcs0jys9P9) | [Gökhan Başaran](https://open.spotify.com/artist/0ay2HnDOw74rAskxiGWb4I) | [Çok Zaman Önceydi](https://open.spotify.com/album/6lKG1XeYEig6KEchq3qxOo) | 2:54 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 42 | [Olmadan Olmaz](https://open.spotify.com/track/7bWvB4OuvituGfGDunpEs9) | [Ruomo](https://open.spotify.com/artist/48aIV0XBd9HWn14B3bVLWU) | [Olmadan Olmaz](https://open.spotify.com/album/2p19nkUXXvO1dxVVoWPJhm) | 4:44 |
 | 43 | [Balıklı Kız](https://open.spotify.com/track/5JzByAOLtfcZ0wVHHbmJDV) | [İrem Özen](https://open.spotify.com/artist/76G25ekDcncsRVCDunPdu1) | [Balıklı Kız](https://open.spotify.com/album/1ciaZyzsu0wIH5wU7fJqtF) | 4:47 |
 | 44 | [Kız Güzel \- Acoustic Version](https://open.spotify.com/track/173Baezc2qopQ9IA75fQb5) | [Poşetimde Bir Somon](https://open.spotify.com/artist/0xoItt17FzjFLC3SyNFibQ) | [Kız Güzel \(Acoustic Version\)](https://open.spotify.com/album/4b8yWfe8Pd4qtcTU3I4VhE) | 3:04 |
-| 45 | [Toz](https://open.spotify.com/track/5feIgTH0OekqYXWtIg8PL8) | [Firuze Gamze](https://open.spotify.com/artist/7rWYdQWrHWYjrQwYsgdsze) | [Toz](https://open.spotify.com/album/4RhVWqVkqZogeTXyRp0vq6) | 0:29 |
+| 45 | [Toz](https://open.spotify.com/track/5feIgTH0OekqYXWtIg8PL8) | [Firuze Gamze](https://open.spotify.com/artist/7rWYdQWrHWYjrQwYsgdsze) | [Toz](https://open.spotify.com/album/4RhVWqVkqZogeTXyRp0vq6) | 3:10 |
 | 46 | [Evi Kapattım Güneye Kaçtım](https://open.spotify.com/track/5MnWp6UkwZK8aYYcA4j4Hh) | [Rıza Sarıtaş](https://open.spotify.com/artist/7MUr26eqFK3BCP4y6A1mJw) | [Evi Kapattım Güneye Kaçtım](https://open.spotify.com/album/795pAo5lPPzIbbCX2rKH4L) | 3:43 |
 | 47 | [Son Bir Dans](https://open.spotify.com/track/7voCrQ4VngMVpkZyK4IGLs) | [Desenler](https://open.spotify.com/artist/6LqJ1tfQfHSYJ2o5DTkOMZ) | [Son Bir Dans](https://open.spotify.com/album/2Jw4LvgYJBqBYrLRzLCz81) | 4:34 |
 | 48 | [Derbeder](https://open.spotify.com/track/2O4snCq9rWwqYxJ8jGQDAh) | [Leliel](https://open.spotify.com/artist/5byrsGoCAhVfZ2gTUbv89L) | [Derbeder](https://open.spotify.com/album/431xM63TcSDY7aq7WdOSDE) | 3:40 |

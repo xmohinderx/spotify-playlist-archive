@@ -4,7 +4,7 @@
 
 > Fall in Love with the Beauties of Tollywood!<br/>Cover : Sai Pallavi
 
-57 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/6CiuZSUfHYczuo85ChaXYn)
+57 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/6CiuZSUfHYczuo85ChaXYn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Sirivennela](https://open.spotify.com/track/7L2D6W7e8mn0zf8cH78Ch4) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk) | [Sirivennela \- Shyam Singha Roy \- Telugu](https://open.spotify.com/album/7EvKnbGkPEa6eNqUBpErN4) | 4:13 | 2022-02-01 |  |
 | [Sundari](https://open.spotify.com/track/37qEgpLxOJN2jpxo2yEl64) | [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr) | [Khaidi No 150](https://open.spotify.com/album/5vVzgxWC3S6eiQ1a5rYvo0) | 4:29 | 2021-10-21 |  |
 | [Undipo](https://open.spotify.com/track/78ezufT6ND0PcSctjWHS6N) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Ramya Behra](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Undipo \(From "Ismart Shankar"\)](https://open.spotify.com/album/38ZaiNuSX9vySItwro6K4n) | 5:03 | 2021-10-21 |  |
-| [Undiporaadhey \- From "Hushaaru"](https://open.spotify.com/track/4e4XPlM5s86iz9YXdUuIMg) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Musical Magic of Sid Sriram](https://open.spotify.com/album/7vXgMTFLWO84G84kGc8KxJ) | 0:29 | 2021-10-21 |  |
+| [Undiporaadhey \- From "Hushaaru"](https://open.spotify.com/track/4e4XPlM5s86iz9YXdUuIMg) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Musical Magic of Sid Sriram](https://open.spotify.com/album/7vXgMTFLWO84G84kGc8KxJ) | 2:53 | 2021-10-21 |  |
 | [Vachindamma](https://open.spotify.com/track/4XgpSQ4nGBBqu8iNNFCYLH) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Geetha Govindam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2S7yFArvQ3gpnuiza1o3s1) | 4:10 | 2021-10-21 |  |
 | [Whattey Beauty \- Telugu](https://open.spotify.com/track/3KUD3u6xFEIewEQVppwXbH) | [Dhanunjay Seepana](https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0), [Amala Chebolu](https://open.spotify.com/artist/0DdlrGRKjpM9Mqon7dHVm8), [Mahati Swara Sagar](https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd) | [Bheeshma](https://open.spotify.com/album/6AQtdnP4yOGeHGfVLU6J50) | 3:54 | 2021-10-21 |  |
 | [Ye Chota Nuvvunna \(From "Saaho"\) \(feat\. Tulsi Kumar, Haricharan Seshadri\)](https://open.spotify.com/track/499rs8fMaltXk2BOlq9P0m) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [Ye Chota Nuvvunna \(From "Saaho"\)](https://open.spotify.com/album/3ZrZpzTnY2dG9j6deMtuRq) | 3:14 | 2021-10-21 |  |

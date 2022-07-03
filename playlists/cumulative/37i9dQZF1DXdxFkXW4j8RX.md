@@ -4,7 +4,7 @@
 
 > La casa de lxs MC's\. Foto: Liricistas & Utopiko.
 
-110 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/3f2UzVfRrTk3AGf7wEehR9)
+110 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/3f2UzVfRrTk3AGf7wEehR9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [El Resultado](https://open.spotify.com/track/7JSTezUgQqI28ZOmzKAslQ) | [Mamborap](https://open.spotify.com/artist/1R4SZjsnu91VWf5BhkKdH0) | [El Resultado](https://open.spotify.com/album/2UU3bedJFXWeykO9sUXDM5) | 3:35 | 2022-01-06 |  |
 | [El Rey Lagarto](https://open.spotify.com/track/5ZVuuD5wAMPMOUE9TQYuBj) | [Borderline](https://open.spotify.com/artist/64wBsAEPuXAjuZilVsvar3) | [El Rey Lagarto](https://open.spotify.com/album/3URjiDinxxqi23IUMGxfup) | 3:32 | 2022-01-06 | 2022-05-24 |
 | [Ellos Solo Querían un Cambio](https://open.spotify.com/track/1m5cCjpljuBCJGtBubCTc3) | [Claudio Bastardo](https://open.spotify.com/artist/0Nk33fSMhlt1EL2uLH5eTx), [Vicho en la guitarra](https://open.spotify.com/artist/1QDhwaOE3Bnyx7kIMldXSu), [Bvddy](https://open.spotify.com/artist/1taunYFi2h4r5JwFb0y1Uq), [Anv Hysteria](https://open.spotify.com/artist/0RL1HrLaQ3dRSvt1TsErGp) | [Ellos Solo Querían un Cambio](https://open.spotify.com/album/4FX682Py6xrtm4PcSdzbj6) | 2:43 | 2022-01-06 |  |
-| [Empezar por Mí](https://open.spotify.com/track/3jUQ3pLvgjALEQg6vnnq1D) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc), [Guille Scherping](https://open.spotify.com/artist/21z94PBEQcfGnocSb6prbq), [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9), [Utopiko](https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT), [Bacayo Brass](https://open.spotify.com/artist/6WOVoiNqsdDZ5sQWrs6FEd), [Natalia Valdebenito](https://open.spotify.com/artist/328NTYn9QWEgcCFXAdXMjz) | [Empezar por Mí](https://open.spotify.com/album/49IkizpO9BDlXyDmyckivo) | 0:29 | 2022-01-06 |  |
+| [Empezar por Mí](https://open.spotify.com/track/3jUQ3pLvgjALEQg6vnnq1D) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc), [Guille Scherping](https://open.spotify.com/artist/21z94PBEQcfGnocSb6prbq), [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9), [Utopiko](https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT), [Bacayo Brass](https://open.spotify.com/artist/6WOVoiNqsdDZ5sQWrs6FEd), [Natalia Valdebenito](https://open.spotify.com/artist/328NTYn9QWEgcCFXAdXMjz) | [Empezar por Mí](https://open.spotify.com/album/49IkizpO9BDlXyDmyckivo) | 3:28 | 2022-01-06 |  |
 | [Están de Más](https://open.spotify.com/track/5VaOk4qDTEzHxO6EL3tVux) | [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9) | [Están de Más](https://open.spotify.com/album/2TmZP5H9VEgbKTp7bAoaMq) | 2:50 | 2022-01-06 | 2022-03-05 |
 | [Etc...](https://open.spotify.com/track/6gkgKLw8HYVsfQyHFJ62Ii) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Specta](https://open.spotify.com/artist/1UrLRK1iOAvBdZjGd50lke), [Sir Samuel](https://open.spotify.com/artist/4BFBBQTithUwyNg0XQfDw3), [Vicelow](https://open.spotify.com/artist/73IihJAuI7jJtyNV8myXct) | [Etc...](https://open.spotify.com/album/4Lvh4Nd7655KjPU0XBcJpv) | 3:03 | 2022-01-06 |  |
 | [Felicidad](https://open.spotify.com/track/2FaphIbul1kUk9OwyIwaLy) | [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5) | [Felicidad](https://open.spotify.com/album/1m1P7pLonemnIDnX9giX54) | 3:12 | 2022-01-06 |  |

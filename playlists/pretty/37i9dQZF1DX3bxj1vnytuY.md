@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,047 likes - 101 songs - 10 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,114 likes - 101 songs - 10 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 70 | [Sunny Street](https://open.spotify.com/track/7FSxMDMfkL58IKUHvDKRxk) | [Holy Moly](https://open.spotify.com/artist/4TglMZiWpNknCUIEQwBeRY) | [Sunny Street](https://open.spotify.com/album/68O4P4A7mJeHEfKdza0cif) | 5:36 |
 | 71 | [Exile](https://open.spotify.com/track/4q3OgYOOdQ4Kad3Hj7IwsR) | [Stur und Dumm](https://open.spotify.com/artist/22my4hx9iy9VRvuFSLB08d) | [Exile](https://open.spotify.com/album/6f58FwWB5OonKwyXpEfUEt) | 4:56 |
 | 72 | [Milima](https://open.spotify.com/track/26xLSnIiAcqaH2VrgUvbpf) | [Ranta](https://open.spotify.com/artist/7AOoL5hIjl1CweoVN7ia73) | [Tora](https://open.spotify.com/album/4hut2n5Fk1dfwppjVXHIQx) | 7:06 |
-| 73 | [The Calling](https://open.spotify.com/track/4nS46Jdr0O9VCg8yDCIK7o) | [Tyrvnt](https://open.spotify.com/artist/00OZzRaVY62IxZ2kNtCz2J) | [The Calling](https://open.spotify.com/album/7KtI3AXJxhKdcHaNYJFndy) | 0:29 |
-| 74 | [Delia](https://open.spotify.com/track/2cDCvD1ao7PRs83CzzEgzr) | [Sharapov](https://open.spotify.com/artist/0I3DQVcZQqBIIVxNtzqaVW), [Patrick Hofmann](https://open.spotify.com/artist/5rDo6U4yJGDuypi7G25hvx) | [Delia](https://open.spotify.com/album/0alsKMzOPqOzgmExMxi19b) | 0:29 |
+| 73 | [The Calling](https://open.spotify.com/track/4nS46Jdr0O9VCg8yDCIK7o) | [Tyrvnt](https://open.spotify.com/artist/00OZzRaVY62IxZ2kNtCz2J) | [The Calling](https://open.spotify.com/album/7KtI3AXJxhKdcHaNYJFndy) | 4:34 |
+| 74 | [Delia](https://open.spotify.com/track/2cDCvD1ao7PRs83CzzEgzr) | [Sharapov](https://open.spotify.com/artist/0I3DQVcZQqBIIVxNtzqaVW), [Patrick Hofmann](https://open.spotify.com/artist/5rDo6U4yJGDuypi7G25hvx) | [Delia](https://open.spotify.com/album/0alsKMzOPqOzgmExMxi19b) | 6:02 |
 | 75 | [Trailblazer](https://open.spotify.com/track/7qAQDREJCagJ3f8WD2tWkZ) | [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl) | [Trailblazer](https://open.spotify.com/album/3EPea5hZjuLV9wG33XH3SS) | 6:16 |
 | 76 | [Alesta](https://open.spotify.com/track/70MDy7d6MUnf4EUqpMxzW7) | [Anatolian Sessions](https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK), [Qualista](https://open.spotify.com/artist/2rIvjgB0z5QII5THLUVArN) | [Alesta](https://open.spotify.com/album/53Hqt6SONfBWTGzwQi11xI) | 5:56 |
 | 77 | [Terravita](https://open.spotify.com/track/5zkW6ZBqED2TWNRjcZLS5n) | [Minörs](https://open.spotify.com/artist/26ZaXcjW7CImOrTU2jxZL3) | [Terravita](https://open.spotify.com/album/3KCQr6cXvICTcTNnXdhEQe) | 6:57 |

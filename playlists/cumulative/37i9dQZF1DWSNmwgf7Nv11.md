@@ -4,7 +4,7 @@
 
 > Free\-spirited, atmospheric vibes.
 
-165 songs - 10 hr 17 min - [published](https://open.spotify.com/playlist/79WKo1g8A6daCdei56m7Tj)
+165 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/79WKo1g8A6daCdei56m7Tj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Motel 6](https://open.spotify.com/track/70AT7hgTI04o9jOufXTu1r) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Motel 6](https://open.spotify.com/album/2rFKd9fnRgmrAzFpcB0RWG) | 3:15 | 2021-07-30 |  |
 | [My Ego Dies At The End](https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [My Ego Dies At The End](https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8) | 4:02 | 2022-02-25 |  |
 | [My Heart](https://open.spotify.com/track/3OP6suu7DnnBbAugofZ3QG) | [Francesca Blanchard](https://open.spotify.com/artist/5nr9aC1q4Iu3i4hYOiRiNf) | [My Heart](https://open.spotify.com/album/6JrjsP5gTul3KwGvhXBron) | 3:16 | 2021-07-30 |  |
-| [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c) | 0:29 | 2021-07-30 |  |
+| [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c) | 4:08 | 2021-07-30 |  |
 | [Mystik](https://open.spotify.com/track/6lbO4gMtw21GgPL3eWScDy) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Mystik](https://open.spotify.com/album/0d7LDKJc2IGjCmFv850VCN) | 4:11 | 2021-07-30 |  |
 | [Nancy From Now On](https://open.spotify.com/track/0qHrE21zGV4DThyfx0HdFu) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/0r0uA6OMU5fTbWetcMf867) | 3:54 | 2021-07-30 |  |
 | [New Birth in New England](https://open.spotify.com/track/3YOv5LNRVbrmWnVVyk3Flj) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [C’est La Vie](https://open.spotify.com/album/2Ex277htheVs9aDi6svcsv) | 4:59 | 2021-07-30 |  |
@@ -172,6 +172,6 @@
 | [You Can’t Go Home Again](https://open.spotify.com/track/7gQiRs2Zd88RnmE1q8XbZm) | [Nealo](https://open.spotify.com/artist/0HR90wEU7v0pQRVsltcQKO), [Adam Garrett](https://open.spotify.com/artist/4WzjMiGqjSIJoSJsBuS05p), [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [All the Leaves Are Falling](https://open.spotify.com/album/0ieSj735PdL4YaPSv7XxDI) | 3:44 | 2021-07-30 |  |
 | [You're Smiling \(But I Don't Believe You\)](https://open.spotify.com/track/5qZVuornKKdSdsHPnsJjWT) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [If & When](https://open.spotify.com/album/3XnbZU5JpcMK6D5wo6f3Qg) | 3:33 | 2021-07-30 |  |
 | [You're the Best](https://open.spotify.com/track/139i2wb3YFaxNgC94nA8JA) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [You're the Best](https://open.spotify.com/album/4xWqmTIYhQs17R9X5nZkve) | 2:58 | 2021-07-30 |  |
-| [Émigré](https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [Cusp](https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4) | 0:29 | 2021-07-30 |  |
+| [Émigré](https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [Cusp](https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4) | 3:11 | 2021-07-30 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Get UR 90s Freak ON! Cover: Biggie
 
-91 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/49XqOosYNR0yJVjFXfcBnJ)
+91 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/49XqOosYNR0yJVjFXfcBnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Now That We Found Love](https://open.spotify.com/track/1ZiRxgUNTUlK117LIauCaD) | [Heavy D & The Boyz](https://open.spotify.com/artist/4KHdmkq99PXA6QEJ2lKpA3), [Aaron Hall](https://open.spotify.com/artist/772SIFJQiXTCfxncTK1UMn) | [Heavy Hitz](https://open.spotify.com/album/1A2erxSCPHAwYPdzEU3upt) | 4:17 | 2022-02-08 |  |
 | [O.P.P](https://open.spotify.com/track/3voxsfqnGr9V74jkkzPhXC) | [Naughty By Nature](https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC) | [Naughty By Nature](https://open.spotify.com/album/7f2uv1aSmzTMlPXDFiZCra) | 4:31 | 2022-02-08 |  |
 | [Oh My God](https://open.spotify.com/track/6FI3RJ58Ztl0X1VtA6pVs9) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [Midnight Marauders](https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5) | 3:28 | 2022-02-08 |  |
-| [On & On](https://open.spotify.com/track/5dd8tOJwLqEvasVqvvrJzV) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm \- Special Edition](https://open.spotify.com/album/0ANbEIqol6OKQl36DYBAom) | 0:29 | 2022-02-08 |  |
+| [On & On](https://open.spotify.com/track/5dd8tOJwLqEvasVqvvrJzV) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm \- Special Edition](https://open.spotify.com/album/0ANbEIqol6OKQl36DYBAom) | 3:45 | 2022-02-08 |  |
 | [Only You \(feat\. The Notorious B.I.G\. & Mase\) \- Bad Boy Remix](https://open.spotify.com/track/13r5JSQ9i1ID0ZqMSDbi4s) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [Bad Boy's 10th Anniversary\- The Hits](https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1) | 4:45 | 2022-02-08 |  |
 | [Poison](https://open.spotify.com/track/0j7UX4XEd3PXGOmmcn84xY) | [Bell Biv DeVoe](https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL) | [Poison \(Expanded\)](https://open.spotify.com/album/6MvzZcF9TtJEEkrQdDVaHn) | 4:21 | 2022-02-08 |  |
 | [Put Your Hands Where My Eyes Could See](https://open.spotify.com/track/1NHwvBmrUje4L1dxfWnXCH) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [When Disaster Strikes...](https://open.spotify.com/album/6nPdlsKWGOFepgMMXTZReP) | 3:14 | 2022-02-08 |  |

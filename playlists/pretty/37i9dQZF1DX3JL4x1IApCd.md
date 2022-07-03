@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JL4x1IApCd.md) - [plain]
 
 > Editor's pick: The best of Gengetone songs of 2021\. Cover: "https://open.spotify.com/artist/3MNSiKXQ08jmcwzhQD5JFv?si=ah1amS0nQ3iTfMhqoXh4Ow">Mbuzi Gang'</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,335 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,335 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JL4x1IApCd.md) - [plain]
 | 33 | [Giz Giz](https://open.spotify.com/track/3T46Yvkzajuul8Ph5pBKWR) | [mbogi genje](https://open.spotify.com/artist/5eQ2ubstDVX3PfioYXETdi) | [Giz Giz](https://open.spotify.com/album/0dUyimoIIRIt9US7lmX0ns) | 3:48 |
 | 34 | [New Position](https://open.spotify.com/track/0Yn1nUXPhSDTrt5itbmwEc) | [ETHIC](https://open.spotify.com/artist/7cLAgTuicdYoNRSP9OUmXY), [The Kansoul](https://open.spotify.com/artist/0phHIn9JpV5VtO2lVaszzt) | [New Position](https://open.spotify.com/album/1lj5PjpbmEuONbuJPfZJ3e) | 3:12 |
 | 35 | [Pepeta](https://open.spotify.com/track/1fcRS9mwgQgyx5dGDPiW3w) | [Benzema](https://open.spotify.com/artist/4d1VrBTFkryAiW9l43GSgK), [Rekles](https://open.spotify.com/artist/4y3qwVKeBqgdlL4Clize3k) | [Pepeta](https://open.spotify.com/album/1NGU0NEQ5S0mGW7iBGQLac) | 3:07 |
-| 36 | [NDOVU NI KUU](https://open.spotify.com/track/2Yr2JGQxWoyCwnnW12NMeV) | [NDOVU KUU](https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP), [KHALIGRAPH JONES](https://open.spotify.com/artist/5ULir2mWACQKm9UVnD0YBX), [BOUTROSS MUNENE](https://open.spotify.com/artist/2FYVwXN9GPxa5yYcMoQiMm) | [NDOVU NI KUU](https://open.spotify.com/album/7n7vhzWjmzlYX1vLBotCq1) | 0:29 |
+| 36 | [NDOVU NI KUU](https://open.spotify.com/track/2Yr2JGQxWoyCwnnW12NMeV) | [NDOVU KUU](https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP), [KHALIGRAPH JONES](https://open.spotify.com/artist/5ULir2mWACQKm9UVnD0YBX), [BOUTROSS MUNENE](https://open.spotify.com/artist/2FYVwXN9GPxa5yYcMoQiMm) | [NDOVU NI KUU](https://open.spotify.com/album/7n7vhzWjmzlYX1vLBotCq1) | 3:47 |
 | 37 | [Chini Chini](https://open.spotify.com/track/08oolBPhPXZ5Whwd2Ynwta) | [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Chini Chini](https://open.spotify.com/album/0TviJ0z7yu3MBWx6mJbluv) | 3:30 |
 | 38 | [Zitoke](https://open.spotify.com/track/2VFfgm4oLnI3CNm4k5BhPg) | [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW) | [Zitoke](https://open.spotify.com/album/2dCSnsbiGQmkcy6np7ExL3) | 3:05 |
 | 39 | [Tik Tok](https://open.spotify.com/track/7y2ftJrew00yQfnJkAqEbi) | [Boondocks Gang](https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q) | [Tik Tok](https://open.spotify.com/album/5Sx3dK1j2TColVp1yTFax1) | 4:00 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JL4x1IApCd.md) - [plain]
 | 44 | [Bambi](https://open.spotify.com/track/4pxCRKnnn6rlbn2zlFPIkD) | [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl), [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [Bambi](https://open.spotify.com/album/2oP9gH6FzzVfyXiQGsIrtY) | 3:21 |
 | 45 | [Taki Taki](https://open.spotify.com/track/6NAquV442jG57JGMcANYgN) | [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl), [Lamaz Span KOB](https://open.spotify.com/artist/51EooAXmnRN8GlQUNTxI0W) | [Taki Taki](https://open.spotify.com/album/4mPRp2rWn9YZSoSpwM1uC1) | 3:13 |
 | 46 | [Usherati](https://open.spotify.com/track/6XckSdd5zp9cJpplwOL9nJ) | [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6), [NDOVU KUU](https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Usherati](https://open.spotify.com/album/1FdL2SPh9V7zT8uAQC5god) | 3:41 |
-| 47 | [Fanya](https://open.spotify.com/track/1EE5AsTfD1y5wv96CsDptx) | [Ethic](https://open.spotify.com/artist/1WQ1lasaBi46OgC1kSMvqz) | [Fanya](https://open.spotify.com/album/3HR71O4z5lheIlcadnyq88) | 0:29 |
+| 47 | [Fanya](https://open.spotify.com/track/1EE5AsTfD1y5wv96CsDptx) | [Ethic](https://open.spotify.com/artist/1WQ1lasaBi46OgC1kSMvqz) | [Fanya](https://open.spotify.com/album/3HR71O4z5lheIlcadnyq88) | 2:46 |
 | 48 | [Ulimi Yangu](https://open.spotify.com/track/1q1gUECAGekO5jrrOCfIzW) | [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u), [Dj Nephas](https://open.spotify.com/artist/09Dj0RRWu4AU2OMA2qDmqq) | [Mejja](https://open.spotify.com/album/0rTXdHoCzmgo3aIwMyRU3c) | 2:55 |
 | 49 | [Mbogi Ya Madenge](https://open.spotify.com/track/2K14BPDtOZxdBdaDZZtH0n) | [Kagwe Mungai](https://open.spotify.com/artist/0bUaYEgPYPl08UxWWHt1f5), [Benzema](https://open.spotify.com/artist/4d1VrBTFkryAiW9l43GSgK) | [Mbogi Ya Madenge](https://open.spotify.com/album/5Fep1ktl3FR8NgT5O03JtV) | 2:48 |
 | 50 | [Sota](https://open.spotify.com/track/1ADd4vcBoKDqRoiKgP6WZ9) | [Rekles](https://open.spotify.com/artist/4HJqolqPOEFhm9AmEKeQ83), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Sota](https://open.spotify.com/album/5C5TJ4XXloqr6oXDG8taJO) | 3:04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 
 > Soft instrumental lullabies for the little ones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,004 likes - 428 songs - 12 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,145 likes - 428 songs - 12 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 | 68 | [Dream Dreams](https://open.spotify.com/track/2oppXf0oJKglJLVoSPdDb3) | [Jannah Zoey](https://open.spotify.com/artist/0aTx7Dr1FQMw3BNWISMmA1) | [Dream Dreams](https://open.spotify.com/album/7ywh2jYHwz3eAlwSW9gBJL) | 1:03 |
 | 69 | [Good Night to All](https://open.spotify.com/track/77aADUCyj7qIARkUn61U1Q) | [Norton Lamb](https://open.spotify.com/artist/6utcrNkoGuFBgRTGffKOSr) | [Good Night to All](https://open.spotify.com/album/47eJeHJ75olaQwEyumMNHc) | 1:29 |
 | 70 | [Mandy's Song](https://open.spotify.com/track/3i5M6UDp6iJtvJUOnX3v2t) | [Lille Du](https://open.spotify.com/artist/1bNG6qjWLR1cCdvsrxenvH) | [Mandy's Song](https://open.spotify.com/album/44AT5kvRSurQZ5ONRuqpcH) | 1:57 |
-| 71 | [Sleepy Eyes](https://open.spotify.com/track/0lypTQtxMiZL8HdvOLpkZl) | [Sally Mosley](https://open.spotify.com/artist/295JYYcySsKgR1bbi5QQGC) | [Sleepy Eyes](https://open.spotify.com/album/5kKBEyXJ7wX8lzUZpZv35O) | 0:29 |
+| 71 | [Sleepy Eyes](https://open.spotify.com/track/0lypTQtxMiZL8HdvOLpkZl) | [Sally Mosley](https://open.spotify.com/artist/295JYYcySsKgR1bbi5QQGC) | [Sleepy Eyes](https://open.spotify.com/album/5kKBEyXJ7wX8lzUZpZv35O) | 1:55 |
 | 72 | [Warm Enough For Ice Cream](https://open.spotify.com/track/5HNtQTusF4gpK3LYKalUyF) | [Callie Berger](https://open.spotify.com/artist/6oE1DSOeQTgGMvLpFVnnjs) | [Warm Enough For Ice Cream](https://open.spotify.com/album/0zLjos5NiyKJtbv7YsqliA) | 1:29 |
 | 73 | [Row Your Boat](https://open.spotify.com/track/0xlMGRmoGT9ekGhIBhOMqG) | [Diedrik Tapp](https://open.spotify.com/artist/5ywa1JkkLaskTEXYfo9c5n) | [Row Your Boat](https://open.spotify.com/album/1BXXcxa3g3Izca7MjBlKMx) | 1:30 |
 | 74 | [You Are My Sunshine](https://open.spotify.com/track/4EDhsaLTb8ho6Gn5K7DnaE) | [Mbese Mahl](https://open.spotify.com/artist/2SMRwhxnKgm8uKApv22Def) | [You Are My Sunshine](https://open.spotify.com/album/31oCF2RhikCvolE115v4tW) | 2:19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6bvocDUOsyBDXvTWyQtvaH.md) - [plain]
 
 > Lo\-Fi, Beats, for Study and Focus\. Relax...
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 5,798 likes - 102 songs - 4 hr 7 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 5,798 likes - 102 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/6bvocDUOsyBDXvTWyQtvaH.md) - [plain]
 | 54 | [La Route Noir](https://open.spotify.com/track/2GrSp8261u3c46qppRUOcU) | [Laze On](https://open.spotify.com/artist/68hmVn5HZt9GhSerrrnqXP), [Tranquilion](https://open.spotify.com/artist/733LlrEGsg9rIG6nq77U1d) | [La Route Noir](https://open.spotify.com/album/16F3sHVXSOQboXzmm8zbAf) | 2:12 |
 | 55 | [Rose](https://open.spotify.com/track/5ijYAH6Rec7c0JWYBflHug) | [Tune in with Chewie](https://open.spotify.com/artist/4M4gexhCyv12RmbowD8xjS) | [Rose](https://open.spotify.com/album/0cnOwlAuXMHARwev1QTiMT) | 2:38 |
 | 56 | [Walking In The Rain](https://open.spotify.com/track/2jX2RhFg56InRVXzVsLVhs) | [Scoville](https://open.spotify.com/artist/0FSRU2xD8JumoiphyH6hB2) | [Walking In The Rain](https://open.spotify.com/album/2ulwPr4YV57OEFViPyeaJh) | 1:22 |
-| 57 | [A Symbol of Emotions](https://open.spotify.com/track/3z8ff5GcNTZ3206jgrpE55) | [Coffeey](https://open.spotify.com/artist/47wFpzInWlChtygixZJ0db), [Behind Clouds](https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM) | [A Symbol of Emotions](https://open.spotify.com/album/2ZXovr18ohfn7OexeyWZYw) | 0:29 |
+| 57 | [A Symbol of Emotions](https://open.spotify.com/track/3z8ff5GcNTZ3206jgrpE55) | [Coffeey](https://open.spotify.com/artist/47wFpzInWlChtygixZJ0db), [Behind Clouds](https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM) | [A Symbol of Emotions](https://open.spotify.com/album/2ZXovr18ohfn7OexeyWZYw) | 1:32 |
 | 58 | [Vignette](https://open.spotify.com/track/6iDnj7xTA9QStjAnWN0aJE) | [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu) | [Lights](https://open.spotify.com/album/5EIv3TpBL0ox9vV7YocoSy) | 2:19 |
 | 59 | [Quick Dip](https://open.spotify.com/track/09wdAHHcKkXWf9xnqbH2tL) | [Fun Intended](https://open.spotify.com/artist/3LVh75iLe4iDjG4W1ztvAh) | [Quick Dip](https://open.spotify.com/album/0nzPwcD8sP6dgkOPlsLOnd) | 2:32 |
 | 60 | [In My Home](https://open.spotify.com/track/7Cs2ED0ViWu5FcJFgvTqCD) | [TV Culture](https://open.spotify.com/artist/4SMpfT0gDr82P6jyWArDve), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [In My Home](https://open.spotify.com/album/0mY8GjuVmw2fNl2qPrVrR7) | 2:49 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7h06zz0VktL.md) - [plain]
 
 > All E.L.F's go to playlist! A brand new album is here! Listen to The Renaissance!
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,318 likes - 128 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,351 likes - 128 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,12 +64,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7h06zz0VktL.md) - [plain]
 | 54 | [No Drama](https://open.spotify.com/track/2JvZ3DSbmNW8URmOc2nGQZ) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [TIMELESS \- The 9th Album Repackage](https://open.spotify.com/album/32o8mUN1uID4VlBUrsCN2f) | 3:18 |
 | 55 | [Show](https://open.spotify.com/track/2hTBpa21ZbNCOI9FQekhQS) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [TIMELESS \- The 9th Album Repackage](https://open.spotify.com/album/32o8mUN1uID4VlBUrsCN2f) | 3:50 |
 | 56 | [Pat Pat](https://open.spotify.com/track/1JgGRf2zKk5R2lnI7SBptA) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [P.O](https://open.spotify.com/artist/6mTcXVXmCixpsVnYDUpCnY), [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Kang's Kitchen3](https://open.spotify.com/album/0HZyxYjfes2LXNtSCAzoFJ) | 3:02 |
-| 57 | [Pink Magic](https://open.spotify.com/track/21uYcyeyfPIB0VNsbCKMgO) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Pink Magic](https://open.spotify.com/album/3iDLSmjr7fAtCPBzmwnbCh) | 0:29 |
-| 58 | [Eat’s OK](https://open.spotify.com/track/2OEBexV35Zfa4B7BFF3pnB) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Pink Magic](https://open.spotify.com/album/3iDLSmjr7fAtCPBzmwnbCh) | 0:29 |
-| 59 | [Every day, Wait for us](https://open.spotify.com/track/7eCuPEuWwlifkYW818cQI7) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Pink Magic](https://open.spotify.com/album/3iDLSmjr7fAtCPBzmwnbCh) | 0:29 |
-| 60 | [Parallel Lines](https://open.spotify.com/track/2ErnlYULEswfIy7ubeYtwT) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Pink Magic](https://open.spotify.com/album/3iDLSmjr7fAtCPBzmwnbCh) | 0:29 |
-| 61 | [I’ll remember](https://open.spotify.com/track/3QlfaSTZYaZWrbgEwfpV6N) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Pink Magic](https://open.spotify.com/album/3iDLSmjr7fAtCPBzmwnbCh) | 0:29 |
-| 62 | [Wish](https://open.spotify.com/track/0lYskiaNYHHlUqo9y1wnHs) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Pink Magic](https://open.spotify.com/album/3iDLSmjr7fAtCPBzmwnbCh) | 0:29 |
+| 57 | [Pink Magic](https://open.spotify.com/track/21uYcyeyfPIB0VNsbCKMgO) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Pink Magic](https://open.spotify.com/album/3iDLSmjr7fAtCPBzmwnbCh) | 3:14 |
+| 58 | [Eat’s OK](https://open.spotify.com/track/2OEBexV35Zfa4B7BFF3pnB) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Pink Magic](https://open.spotify.com/album/3iDLSmjr7fAtCPBzmwnbCh) | 3:27 |
+| 59 | [Every day, Wait for us](https://open.spotify.com/track/7eCuPEuWwlifkYW818cQI7) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Pink Magic](https://open.spotify.com/album/3iDLSmjr7fAtCPBzmwnbCh) | 3:50 |
+| 60 | [Parallel Lines](https://open.spotify.com/track/2ErnlYULEswfIy7ubeYtwT) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Pink Magic](https://open.spotify.com/album/3iDLSmjr7fAtCPBzmwnbCh) | 4:03 |
+| 61 | [I’ll remember](https://open.spotify.com/track/3QlfaSTZYaZWrbgEwfpV6N) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Pink Magic](https://open.spotify.com/album/3iDLSmjr7fAtCPBzmwnbCh) | 3:43 |
+| 62 | [Wish](https://open.spotify.com/track/0lYskiaNYHHlUqo9y1wnHs) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Pink Magic](https://open.spotify.com/album/3iDLSmjr7fAtCPBzmwnbCh) | 4:06 |
 | 63 | [Time with you](https://open.spotify.com/track/4M2WocWA6Qx0xn47zTNkoF) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Time with you](https://open.spotify.com/album/3vzzNhNXG0AlugKvvQxgNy) | 3:44 |
 | 64 | [Old Movie](https://open.spotify.com/track/4irpe5iV20BPi1HtsK7VMD) | [KIM HEECHUL](https://open.spotify.com/artist/7GbN8yzIP7CFK5bNbUi6L3) | [Old Movie](https://open.spotify.com/album/76jD9lWVRVUipbbw8MNZ7v) | 3:50 |
 | 65 | [Danger](https://open.spotify.com/track/75Wfq80T9FektQegttDOTs) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [DANGER \- The 3rd Mini Album](https://open.spotify.com/album/2lwfwVAKf0cB4Uc5qqhk2P) | 3:14 |

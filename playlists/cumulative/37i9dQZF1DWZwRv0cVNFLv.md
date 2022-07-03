@@ -4,7 +4,7 @@
 
 > Sounds of the city to help you drift off.
 
-113 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/1OseWGcdIcXMuErV3KabYq)
+113 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/1OseWGcdIcXMuErV3KabYq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Australian City Environment Ambience with Medium Traffic](https://open.spotify.com/track/4dweOJ2e0sWnMbeGqJovAK) | [Sound Ideas](https://open.spotify.com/artist/5zFOVxtYkKdqwYdG9bASRR) | [City Sounds](https://open.spotify.com/album/6GVHYaRJmXq1nhzFZGNOi6) | 1:39 | 2022-02-09 |  |
 | [Barcelona Rain Shower](https://open.spotify.com/track/5e7iHiWdjTgYuvMvHVogAt) | [Natural Samples](https://open.spotify.com/artist/47MfVCrL7T19D2H9T7C2Rs) | [Barcelona Rain Shower](https://open.spotify.com/album/3TQTszmsv90O6MJRWjKJda) | 2:56 | 2022-06-03 |  |
 | [Bikes and Horses in Central Park](https://open.spotify.com/track/2UqK4T4Bvc3fft0wcLoSRs) | [The Urban Ambience](https://open.spotify.com/artist/60qVetkhprVt1tm5sz0o83) | [Summer in Central Park](https://open.spotify.com/album/563PurzUHrrJL8CkerOR9l) | 3:35 | 2022-02-09 |  |
-| [Buses and Taxis in NYC](https://open.spotify.com/track/0Spetrm5tqbX21HXaRv9w8) | [City Street Sounds](https://open.spotify.com/artist/4iE4h22A6EQ7VOgA2yjj3N) | [Summer Streets in the City](https://open.spotify.com/album/054dvIjKLYKFw3ZnCtZv3U) | 0:29 | 2022-02-09 |  |
+| [Buses and Taxis in NYC](https://open.spotify.com/track/0Spetrm5tqbX21HXaRv9w8) | [City Street Sounds](https://open.spotify.com/artist/4iE4h22A6EQ7VOgA2yjj3N) | [Summer Streets in the City](https://open.spotify.com/album/054dvIjKLYKFw3ZnCtZv3U) | 2:42 | 2022-02-09 |  |
 | [Bustling City Sounds](https://open.spotify.com/track/3C7RU5aQ3vXkryUvUH7JCo) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [City & Coffeeshop Ambience](https://open.spotify.com/album/13Lig8HE7AoEY3Yy36qfOh) | 2:48 | 2022-02-09 |  |
 | [Busy LA Streets](https://open.spotify.com/track/2YHqDGqytH8H8qo2qTJzTV) | [LA Streets](https://open.spotify.com/artist/0NQG8vcXfMUPhD25yImvKb) | [Busy Busy Busy](https://open.spotify.com/album/69GbQZBrNR7QzZ6rA9Od4V) | 4:49 | 2022-02-09 |  |
 | [Busy LA Streets II](https://open.spotify.com/track/7KD5zEphFtSiaZKNZ0oJ6i) | [LA Streets](https://open.spotify.com/artist/0NQG8vcXfMUPhD25yImvKb) | [Busy Busy Busy](https://open.spotify.com/album/69GbQZBrNR7QzZ6rA9Od4V) | 4:00 | 2022-02-09 |  |
@@ -100,7 +100,7 @@
 | [Stockholm Rain Sounds](https://open.spotify.com/track/7nic1ik8zIEPO7phQujFrE) | [Factorial FX](https://open.spotify.com/artist/16weRDppbG11cOcQQtKjFu) | [Stockholm Rain Sounds](https://open.spotify.com/album/1Ed3g8Qafy7h7cW3mCbmUD) | 3:08 | 2022-06-03 |  |
 | [Street Corner Rain](https://open.spotify.com/track/15An42Xx1mDpkhqrmlWgE1) | [Sampling XL](https://open.spotify.com/artist/7ECXymmfS4gH66cI7a8dwr) | [Street Corner Rain](https://open.spotify.com/album/7uYpQYHT6kvqTdtZFQgtMR) | 2:42 | 2022-06-03 |  |
 | [Summer in the City Park](https://open.spotify.com/track/4OJmEm0WL7LPvVt6byMub6) | [The Urban Ambience](https://open.spotify.com/artist/60qVetkhprVt1tm5sz0o83) | [Summer in Central Park](https://open.spotify.com/album/563PurzUHrrJL8CkerOR9l) | 3:24 | 2022-02-09 |  |
-| [Summer Streets in the City](https://open.spotify.com/track/7dfyrLIdlmNAXClT7jaX0N) | [City Street Sounds](https://open.spotify.com/artist/4iE4h22A6EQ7VOgA2yjj3N) | [Summer Streets in the City](https://open.spotify.com/album/054dvIjKLYKFw3ZnCtZv3U) | 0:29 | 2022-02-09 |  |
+| [Summer Streets in the City](https://open.spotify.com/track/7dfyrLIdlmNAXClT7jaX0N) | [City Street Sounds](https://open.spotify.com/artist/4iE4h22A6EQ7VOgA2yjj3N) | [Summer Streets in the City](https://open.spotify.com/album/054dvIjKLYKFw3ZnCtZv3U) | 3:50 | 2022-02-09 |  |
 | [Sunny Afternoon on the Balcony](https://open.spotify.com/track/5Y2FSGtGquWJ5iHNRbIrZ1) | [Home Sounds](https://open.spotify.com/artist/7wYCOLJRTwlaS5jgf9rCiI) | [California Afternoon Balcony](https://open.spotify.com/album/5amZtisGfJjcdEr9uotNAC) | 2:56 | 2022-02-09 |  |
 | [The City](https://open.spotify.com/track/3h0Hi097rChSthVsHAArcR) | [Avenue](https://open.spotify.com/artist/7LnO6j07JcAqyWyEA2nQvJ) | [The City](https://open.spotify.com/album/2jdhDExTr1u73U6EfPfDnx) | 1:39 | 2022-02-09 |  |
 | [The Traffic Outside My Window](https://open.spotify.com/track/13NOI7OLx28MRJzV1qfTAc) | [ASMR HD](https://open.spotify.com/artist/7nR813jWFgkPsXs1GjrzZk) | [Asmr \- Sleep City Ambience \- 1 Hour Instant Sleep Aid](https://open.spotify.com/album/4LN15tnPV8FEIf9nMQIvtr) | 2:10 | 2022-02-09 |  |

@@ -4,7 +4,7 @@
 
 > Slip into the world of Brian Eno...
 
-23 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/0KivzAlqg1AfGekXJuYoZu)
+23 songs - 3 hr 35 min - [published](https://open.spotify.com/playlist/0KivzAlqg1AfGekXJuYoZu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Spirits Drifting \- 2004 Digital Remaster](https://open.spotify.com/track/0CUTdiwHWlO3VGWHQxpbeo) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 2:36 | 2015-07-23 |  |
 | [Strakita](https://open.spotify.com/track/1TfWsxvMJCAXu0r7pAu3Fr) | [New Composers](https://open.spotify.com/artist/2HvC4RR0XAB9P2k67t1MEM) | [Smart](https://open.spotify.com/album/7opbN1cscNgBDP07SlBsHA) | 2:49 | 2015-07-23 |  |
 | [Taking Tiger Mountain \- 2004 Digital Remaster](https://open.spotify.com/track/7B7pBku79p0GVWWRJ88Aiq) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Taking Tiger Mountain \(By Strategy\)](https://open.spotify.com/album/1IMbtEVdtaFz0PPiq4brLZ) | 5:32 | 2015-07-23 |  |
-| [Thursday Afternoon \- 2005 Digital Remaster](https://open.spotify.com/track/4t3Yh6tKkxXrc458pNI7zZ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Thursday Afternoon](https://open.spotify.com/album/6AKF0REZoFiXMorWDpSiZt) | 0:29 | 2015-07-23 |  |
+| [Thursday Afternoon \- 2005 Digital Remaster](https://open.spotify.com/track/4t3Yh6tKkxXrc458pNI7zZ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Thursday Afternoon](https://open.spotify.com/album/6AKF0REZoFiXMorWDpSiZt) | 1:00:50 | 2015-07-23 |  |
 | [Under Stars \- 2005 Mix](https://open.spotify.com/track/4bBs07tSkVLzETwbgPlxdl) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:30 | 2015-07-23 |  |
 | [Unfamiliar Wind \(Leeks Hills\) \- Remastered 2004](https://open.spotify.com/track/4SngUdjKC7Njrz5UVik26A) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 4: On Land \(Remastered 2004\)](https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh) | 5:26 | 2015-07-23 |  |
 | [Weightless \- Remastered 2005](https://open.spotify.com/track/64Rc8eAYEcIVK486usaKtb) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:35 | 2015-07-23 |  |

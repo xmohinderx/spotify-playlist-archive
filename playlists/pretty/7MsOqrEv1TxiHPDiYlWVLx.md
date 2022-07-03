@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7MsOqrEv1TxiHPDiYlWVLx.md) - [plain]
 
 > ...and everything nice\. Enjoy your dinner to the sounds of classic jazz vocals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157 likes - 24 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 157 likes - 24 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/7MsOqrEv1TxiHPDiYlWVLx.md) - [plain]
 | 20 | [Cry Me A River](https://open.spotify.com/track/79KMw5grBPDLAJTPho7DOe) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Ultimate Dinah Washington](https://open.spotify.com/album/1TbwTl2h3xx9LcERW9m8rf) | 2:26 |
 | 21 | [I Wished On The Moon](https://open.spotify.com/track/2c9ossDbsMgAdrN2S9p5Gd) | [Beryl Booker](https://open.spotify.com/artist/5TAqo011d1TNTDOdj9YnHd) | [Harlem Station](https://open.spotify.com/album/2wsvYfb8lEPEJ1dnc8uf8L) | 2:40 |
 | 22 | [I Just Want To Sing](https://open.spotify.com/track/6UFlo3RmCOhIMXDQvpivFf) | [Dorothy Donegan](https://open.spotify.com/artist/6jqglFaeowpFgQ8W1gfOIC) | [The Many Faces Of Dorothy Donegan](https://open.spotify.com/album/2XdJCeSUmOJN6REoTElVFN) | 3:27 |
-| 23 | [Falling In Love With Love](https://open.spotify.com/track/1KXEpK9NFfYMSZSqOiZRSA) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Giants of Jazz: Eliane Elias](https://open.spotify.com/album/2vFK7zG453y2ZfaRau1rLe) | 0:29 |
+| 23 | [Falling In Love With Love](https://open.spotify.com/track/1KXEpK9NFfYMSZSqOiZRSA) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Giants of Jazz: Eliane Elias](https://open.spotify.com/album/2vFK7zG453y2ZfaRau1rLe) | 6:26 |
 | 24 | [Lost In A Blue Note](https://open.spotify.com/track/29dFStdDNJHdgGPhwyKdbB) | [April Barrows](https://open.spotify.com/artist/49Pr1w34iIV8qlIcnsLdwQ) | [My Dream is You](https://open.spotify.com/album/26ACa71xPjvov8cZ4Rai52) | 4:24 |
 
 Snapshot ID: `MjYsZjY5ODVkZTM0YmU3MjY0ZmFlNzRmNjhmN2YzNDU0MDcwMGIyOWRlYQ==`

@@ -4,7 +4,7 @@
 
 > 
 
-50 songs - 2 hr 4 min - [published](https://open.spotify.com/playlist/4I38LiFWOuTAe9nWDDH6hh)
+50 songs - 2 hr 7 min - [published](https://open.spotify.com/playlist/4I38LiFWOuTAe9nWDDH6hh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Fingertips](https://open.spotify.com/track/1NYQcypyj0Useb8xyw3I4E) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Number 1's](https://open.spotify.com/album/5x7vXXWapy8cUmdSuwpUy1) | 3:10 | 2013-06-27 |  |
 | [He S So Fine](https://open.spotify.com/track/77xQrTgMu6L69HjTcY00oD) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [Rock N Roll Diner Volume 4](https://open.spotify.com/album/18QFxgr08FU0agOpIvhdKs) | 1:53 | 2013-06-27 |  |
 | [Heat Wave \- Stereo Mix with Fade](https://open.spotify.com/track/0pT9VUx865jXgPT9Dh26cI) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Motown: The Complete No\. 1's](https://open.spotify.com/album/0iv3gV69jA1YY2H0UTy9yF) | 3:03 | 2013-06-27 |  |
-| [Hello Stranger \- Re\-Recording](https://open.spotify.com/track/5JwG6Rn59Ype0DBKGdk0o2) | [Barbara Lewis](https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq) | [K\-tel Classics](https://open.spotify.com/album/69o0aD5JujCAdMRDHuJNLo) | 0:29 | 2013-06-27 |  |
+| [Hello Stranger \- Re\-Recording](https://open.spotify.com/track/5JwG6Rn59Ype0DBKGdk0o2) | [Barbara Lewis](https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq) | [K\-tel Classics](https://open.spotify.com/album/69o0aD5JujCAdMRDHuJNLo) | 2:39 | 2013-06-27 |  |
 | [Hey Paula \- Re\-Recording](https://open.spotify.com/track/39gvhionjcw3DDynncAtXu) | [Paul & Paula](https://open.spotify.com/artist/2pycVt1qR9u8bKdb4oLI98) | [I Love The 60's \- 1962](https://open.spotify.com/album/4607BXNuUXOWmrCNUHgaVf) | 2:26 | 2013-06-27 |  |
 | [I Can't Stay Mad At You \- Re\-Recording](https://open.spotify.com/track/3UIQwJPuSKNJY2VSGnwv2a) | [Skeeter Davis](https://open.spotify.com/artist/5b2OzvLaL6nyxw5pbVbSdy) | [60's Rock 'N' Roll \- It's My Party](https://open.spotify.com/album/5NMfT7IQx9SuKlDd9p0lon) | 2:09 | 2013-06-27 |  |
 | [I Love You Because](https://open.spotify.com/track/4xQfTDewWaXXCMXlwugeGh) | [Al Martino](https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6) | [The Very Best Of Al Martino](https://open.spotify.com/album/75kTa0eZdoHREIwG7aAX0p) | 2:43 | 2013-06-27 |  |

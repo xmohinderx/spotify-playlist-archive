@@ -2746,6 +2746,24 @@
     },
     {
       "album": {
+        "name": "GUCCI",
+        "url": "https://open.spotify.com/album/0QP7ikbw1cO7bGJdQvMQh8"
+      },
+      "artists": [
+        {
+          "name": "Kis\u00e9",
+          "url": "https://open.spotify.com/artist/6zqr73J6gm3Son1vnWkbfK"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185379,
+      "name": "GUCCI",
+      "url": "https://open.spotify.com/track/72uWCXxhwYjonmZ4FHHSlo"
+    },
+    {
+      "album": {
         "name": "Gyere be velem (DUBAI GANG)",
         "url": "https://open.spotify.com/album/6WPM7u53B56c8v8bTeEoc6"
       },
@@ -7173,7 +7191,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-03",
       "duration_ms": 190883,
       "name": "Sharks",
       "url": "https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8"

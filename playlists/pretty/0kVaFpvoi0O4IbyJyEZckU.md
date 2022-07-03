@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kVaFpvoi0O4IbyJyEZckU.md) - [plain]
 
 > Psych yourself up for whatever you've got going...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,423 likes - 182 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,423 likes - 182 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,7 +173,7 @@ pretty - [cumulative](/playlists/cumulative/0kVaFpvoi0O4IbyJyEZckU.md) - [plain]
 | 163 | [Timestretch](https://open.spotify.com/track/1xnSRAnAOVjjpT2OOd1qBd) | [Bassnectar](https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i) | [Timestretch](https://open.spotify.com/album/7BqiF5awcuz4B6AMW29N1d) | 6:02 |
 | 164 | [Move Your Feet](https://open.spotify.com/track/35kyKr5ArvTnFlldwR7JAD) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [D\-D\-Don't Don't Stop The Beat](https://open.spotify.com/album/7v89oAkBvKFnM6lXUfofda) | 3:01 |
 | 165 | [Wildcat](https://open.spotify.com/track/4EBisBBehGON4ESJsNZBsP) | [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [Classics](https://open.spotify.com/album/2n5wpk7KaHpp3mgUYqpF4f) | 4:20 |
-| 166 | [Move](https://open.spotify.com/track/3Wtx5BHLFZSLQMDZwfBKg5) | [Mausi](https://open.spotify.com/artist/62NpOLs1d6sQyL3QUNKSfe) | [Move](https://open.spotify.com/album/0q0FxnxbCkUWXBUjutGYir) | 0:29 |
+| 166 | [Move](https://open.spotify.com/track/3Wtx5BHLFZSLQMDZwfBKg5) | [Mausi](https://open.spotify.com/artist/62NpOLs1d6sQyL3QUNKSfe) | [Move](https://open.spotify.com/album/0q0FxnxbCkUWXBUjutGYir) | 3:48 |
 | 167 | [Bohemian Like You](https://open.spotify.com/track/6ytyCjQqiQBahvYpsGiNKV) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [The Capitol Years: 1995\-2007](https://open.spotify.com/album/6wcJ4q6U393geH86Qs61gn) | 3:31 |
 | 168 | [Fire In Your New Shoes \- Sultan & Ned Shepard Electric Daisy Remix](https://open.spotify.com/track/47GWKvXiU3iHJe2jWBjRWB) | [Kaskade feat\. Dragonette](https://open.spotify.com/artist/3liMUC9Ji64FZj7TXH7TTR) | [dance.love](https://open.spotify.com/album/7KhGn4t9K2nCKhTNU24aSQ) | 5:22 |
 | 169 | [Around The Bend](https://open.spotify.com/track/1LggghHQU8QOOC2AQ4WbWO) | [The Asteroids Galaxy Tour](https://open.spotify.com/artist/68g1s6VqLLLBI3tXR0Bb7C) | [Around The Bend \- Ep](https://open.spotify.com/album/6UuMZmvtNZMGfLMozTzTzO) | 3:49 |
