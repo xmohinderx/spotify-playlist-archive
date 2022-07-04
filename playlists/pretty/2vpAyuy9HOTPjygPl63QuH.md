@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house, bass house and four on the floor records, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 4,843 likes - 25 songs - 1 hr 27 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 4,847 likes - 25 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 3 | [Shake My Booty](https://open.spotify.com/track/3IBB4CapSuRZRcG4Hw9rve) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Shake My Booty](https://open.spotify.com/album/1GZQmpFcCXz8rVVNmMQpSi) | 3:22 |
 | 4 | [Respect](https://open.spotify.com/track/0MUkp3FeTSqv2S9QYb6PKD) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [Move Your Body](https://open.spotify.com/album/4IaOn85cUSBv3eNt7qfu7E) | 3:10 |
 | 5 | [Out Every Night](https://open.spotify.com/track/6nuGXSzSMIGWE9QD3iNq9q) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ) | [Out Every Night](https://open.spotify.com/album/4CVNj8VhVJ1FgejIwvSXFb) | 2:41 |
-| 6 | [Distance](https://open.spotify.com/track/5WxyKbZJepO7ixilyXujUV) | [CHAN](https://open.spotify.com/artist/2OiNf733fKkfD7knroHkaQ) | [Distance](https://open.spotify.com/album/5spQ8UdmCBoTdNLWVDOIaM) | 3:44 |
+| 6 | [Distance](https://open.spotify.com/track/5WxyKbZJepO7ixilyXujUV) | [CHAN \(US\)](https://open.spotify.com/artist/0rta5CqdVmeu2vXgfXPd46) | [Distance](https://open.spotify.com/album/5spQ8UdmCBoTdNLWVDOIaM) | 3:44 |
 | 7 | [Tego](https://open.spotify.com/track/3R6oE0rXv8bgwMg1yytcbd) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a) | [Tego](https://open.spotify.com/album/1NSqRiadlzpChQcLifrGAR) | 2:39 |
 | 8 | [Watch That Tongue \- Cave Studio Remix](https://open.spotify.com/track/51p8rbvVniPSqaF5F3Ns0l) | [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB), [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Watch That Tongue \(Cave Studio Remix\)](https://open.spotify.com/album/1CY9x745ImuVN77rJOxJaq) | 3:26 |
 | 9 | [Vamos A Bailar](https://open.spotify.com/track/6R8OgmUWuGnYf3Wc4VhAKw) | [Sonickraft](https://open.spotify.com/artist/6TM9nl47jBGEA9C2nsUP4o) | [Vamos A Bailar](https://open.spotify.com/album/33uvqYnhryfFkRUeQeQQSG) | 2:51 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 13 | [Club 95](https://open.spotify.com/track/2mJPisJh3QMDKFNjPsYR3G) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Club 95](https://open.spotify.com/album/0fNlbFMbJMUXjLPf7s53CA) | 3:09 |
 | 14 | [Hold It \- SQWAD Remix](https://open.spotify.com/track/5HKv8vLHtd0Hk3iT7SWlIB) | [Jack Beats](https://open.spotify.com/artist/5dUIQXIt7WeBKpETFZyTFW), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI) | [Hold It \(SQWAD Remix\)](https://open.spotify.com/album/6ytNjlwlKEtxFcE5Xa2roI) | 3:10 |
 | 15 | [Tuko Tuko](https://open.spotify.com/track/5YzoHnKF8AF4Ys76VPmpKR) | [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Tuko Tuko](https://open.spotify.com/album/6W3EQfiO498fLmBgCJNDwB) | 3:37 |
-| 16 | [Strut](https://open.spotify.com/track/0nevM5K8CCJOTbAcpOS1Js) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Strut](https://open.spotify.com/album/7kJtQku5TZl47Wkl0taooD) | 3:03 |
+| 16 | [Strut](https://open.spotify.com/track/0nevM5K8CCJOTbAcpOS1Js) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Strut](https://open.spotify.com/album/7kJtQku5TZl47Wkl0taooD) | 2:40 |
 | 17 | [Feel It \- GUZ Remix](https://open.spotify.com/track/39Oxhni4ULZjYNGQL2CFKr) | [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Feel It \(GUZ Remix\)](https://open.spotify.com/album/583DHou9e1MRu6pnIooV4j) | 2:48 |
 | 18 | [The Rhythm](https://open.spotify.com/track/6Cx33NW52i3IjTilbqaIR5) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [The Rhythm](https://open.spotify.com/album/5l92sWpRLi1fkgxPKg3JL6) | 3:09 |
 | 19 | [Meli \(II\)](https://open.spotify.com/track/6nGhGBz7uaE1RngnIFRKep) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Meli \(II\)](https://open.spotify.com/album/6pDZnLDqV5XuiVmuSw7oZs) | 6:57 |

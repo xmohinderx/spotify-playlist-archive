@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic music by independent artists and labels\. Updates every Wednesday\. Cover: Melle Brown, Artwork: Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,767 likes - 120 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,832 likes - 120 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

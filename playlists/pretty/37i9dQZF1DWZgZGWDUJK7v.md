@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 
 > Meet the popular animation & webtoon OSTs now! \(Cover: Under the Oak Tree\(상수리 나무 아래\)\) 지금 인기 있는 애니메이션 & 웹툰 OST들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,489 likes - 64 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,721 likes - 64 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

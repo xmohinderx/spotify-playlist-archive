@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > Finest of the Indian English Indie\. Cover \- Raghav Meattle
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,646 likes - 73 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,680 likes - 73 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

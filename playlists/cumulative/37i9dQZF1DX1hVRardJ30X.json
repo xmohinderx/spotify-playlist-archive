@@ -17772,7 +17772,7 @@
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 578895,
+      "duration_ms": 579562,
       "name": "Medley Lud Session - Tudo porque voc\u00ea mentiu / penhasco / De rol\u00ea / CAF\u00c9 DA MANH\u00c3 ;P / Doutora 3",
       "url": "https://open.spotify.com/track/3JFB72hbbt3zy30puJTc3q"
     },
@@ -26360,6 +26360,28 @@
     },
     {
       "album": {
+        "name": "Siempre Happy",
+        "url": "https://open.spotify.com/album/3XhOTcxYjY05zs0m9rFmD6"
+      },
+      "artists": [
+        {
+          "name": "2DEEP",
+          "url": "https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb"
+        },
+        {
+          "name": "Rickstarr",
+          "url": "https://open.spotify.com/artist/0ae72SdJTJ8D7VadVuUpEQ"
+        }
+      ],
+      "date_added": "2022-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214222,
+      "name": "Siempre Happy",
+      "url": "https://open.spotify.com/track/3aGf3ECy05mRNhthHjqlif"
+    },
+    {
+      "album": {
         "name": "Siempre Mia",
         "url": "https://open.spotify.com/album/7GeMYb9vZoR5PC9ePWqYZH"
       },
@@ -31277,7 +31299,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 191250,
       "name": "Vivir La Vida",
       "url": "https://open.spotify.com/track/2XAG39vzVodViYooyknSSG"

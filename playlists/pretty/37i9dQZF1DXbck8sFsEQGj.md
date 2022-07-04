@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbck8sFsEQGj.md) - [plain]
 
 > Hottest tracks from Coke Studio Pakistan\. Cover: Ali Sethi
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,020 likes - 41 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,154 likes - 41 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

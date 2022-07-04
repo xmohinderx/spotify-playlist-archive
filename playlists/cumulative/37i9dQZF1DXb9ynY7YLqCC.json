@@ -161,7 +161,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 209133,
       "name": "Beatle",
       "url": "https://open.spotify.com/track/5dpS7KpIkLFC0hm8tsqI1V"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 180066,
       "name": "Brujer\u00eda",
       "url": "https://open.spotify.com/track/2w8wIBE9r1OmP7EUrTaCTL"
@@ -215,8 +215,8 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
-      "duration_ms": 29048,
+      "date_removed": null,
+      "duration_ms": 264959,
       "name": "Cansado de ser",
       "url": "https://open.spotify.com/track/25Ikcee1aOWfeL0n100TaR"
     },
@@ -345,6 +345,24 @@
       "duration_ms": 289760,
       "name": "Creo",
       "url": "https://open.spotify.com/track/5Bi9Cq5oVFy1OtUgecbegZ"
+    },
+    {
+      "album": {
+        "name": "Cualquier Luz",
+        "url": "https://open.spotify.com/album/695WkAoQNgfYYhM5WFARtK"
+      },
+      "artists": [
+        {
+          "name": "Cielo Razzo",
+          "url": "https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232897,
+      "name": "Cualquier Luz",
+      "url": "https://open.spotify.com/track/6GWoIeMRAO4URuf37QLmNL"
     },
     {
       "album": {
@@ -600,6 +618,24 @@
     },
     {
       "album": {
+        "name": "Tan Real",
+        "url": "https://open.spotify.com/album/6QxVFqp00szxBuuGBrESys"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195826,
+      "name": "Flor Negra",
+      "url": "https://open.spotify.com/track/3sGzjvYXTtzAN3H7cNT44x"
+    },
+    {
+      "album": {
         "name": "Talism\u00e1n",
         "url": "https://open.spotify.com/album/0x0SVERapfyHHdWgoboteO"
       },
@@ -629,7 +665,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 286528,
       "name": "Fuego - En Vivo Luna Park",
       "url": "https://open.spotify.com/track/6WtFW6voAmKo5QOf3KTj6K"
@@ -647,7 +683,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 228786,
       "name": "Hasta La Victoria",
       "url": "https://open.spotify.com/track/4k4INIaQC2qRGV3iHTlXfH"
@@ -737,7 +773,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 222729,
       "name": "La Ca\u00f1ada",
       "url": "https://open.spotify.com/track/6PuOXcW4FTK6oAwgGGiLBe"
@@ -827,7 +863,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 340893,
       "name": "Lo Artesanal - Remix",
       "url": "https://open.spotify.com/track/6G69Rca1fS52ypIOp5KJBX"
@@ -881,7 +917,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 207280,
       "name": "Loco Un Poco",
       "url": "https://open.spotify.com/track/7dmdwwxTx9aoUsfXbRHIoQ"
@@ -971,7 +1007,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 280880,
       "name": "Mi Revolucion",
       "url": "https://open.spotify.com/track/39K7E651wrt8PorEspTWb5"
@@ -1068,6 +1104,24 @@
     },
     {
       "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/471I41BsbiGbxbCPWJZEYg"
+      },
+      "artists": [
+        {
+          "name": "Don Osvaldo",
+          "url": "https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235212,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/5V1e6P17bGnUn5wg2FrUUn"
+    },
+    {
+      "album": {
         "name": "Vicio",
         "url": "https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS"
       },
@@ -1079,7 +1133,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 208373,
       "name": "Nunca me ense\u00f1aste",
       "url": "https://open.spotify.com/track/41i7cqPXQj5zkMJK6V6RNf"
@@ -1223,7 +1277,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 245986,
       "name": "Para No Verme M\u00e1s",
       "url": "https://open.spotify.com/track/270ieNCOt945nOdUQubFI5"
@@ -1259,7 +1313,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 244560,
       "name": "Pepe Lui",
       "url": "https://open.spotify.com/track/3dYlW2oy1sBMVCH5zst8le"
@@ -1281,7 +1335,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 246478,
       "name": "Por la Boca Vive el Pez",
       "url": "https://open.spotify.com/track/1z7pxA0o5ZIMjsdFaFstFg"
@@ -1335,7 +1389,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 210013,
       "name": "Prohibido",
       "url": "https://open.spotify.com/track/5kfg05FFAsnW4ikMqSfI3g"
@@ -1371,7 +1425,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 239560,
       "name": "Qu\u00e9 Se Yo",
       "url": "https://open.spotify.com/track/24RgLBs7t0WMWBcYdHOI6u"
@@ -1425,7 +1479,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 166160,
       "name": "Rock del Pedazo",
       "url": "https://open.spotify.com/track/5MRelkZAqB0SrxUtZmexQo"
@@ -1533,7 +1587,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 357093,
       "name": "Se\u00f1ales",
       "url": "https://open.spotify.com/track/1ELykgy7CVsJtEuwUcvCfq"
@@ -1555,6 +1609,24 @@
       "duration_ms": 203573,
       "name": "Silbando una ilusi\u00f3n",
       "url": "https://open.spotify.com/track/1S3oe1jbV5j4EdXBmVtkbJ"
+    },
+    {
+      "album": {
+        "name": "Tipitorex",
+        "url": "https://open.spotify.com/album/64A2yWDQnsti67uCO44olg"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302800,
+      "name": "Silencio - En Vivo",
+      "url": "https://open.spotify.com/track/3QFehvGrS4MmrAWW5Hqw3f"
     },
     {
       "album": {
@@ -1587,7 +1659,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 191530,
       "name": "Soy",
       "url": "https://open.spotify.com/track/3aJ5EHfJq8DNA9zho99LQ4"
@@ -1645,6 +1717,24 @@
       "duration_ms": 303866,
       "name": "Tantas Escaleras",
       "url": "https://open.spotify.com/track/3PM8JhZVn49xj8nW3i9qSn"
+    },
+    {
+      "album": {
+        "name": "A Mil",
+        "url": "https://open.spotify.com/album/0ZK9RbojlRNq7N0Iaoj9Gd"
+      },
+      "artists": [
+        {
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201584,
+      "name": "Terminales",
+      "url": "https://open.spotify.com/track/77LZ92TrNFB8WCYtCaCwsy"
     },
     {
       "album": {
@@ -1749,7 +1839,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 382746,
       "name": "Unos Versos",
       "url": "https://open.spotify.com/track/0IHC4QGz0I4EdOGpGMRICA"
@@ -1875,7 +1965,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 214651,
       "name": "Volver a Nacer",
       "url": "https://open.spotify.com/track/2ABSAMW7VzfI0yVrkdxTJG"
@@ -1911,7 +2001,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 262000,
       "name": "Zafar",
       "url": "https://open.spotify.com/track/1wIUWGdTdhVk5gIPd0ULxX"

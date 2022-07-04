@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Paulo Londra
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,783 likes - 67 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,880 likes - 67 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 10 | [Jugar a Vivir](https://open.spotify.com/track/1QlZUoChINBN5BMRmZF0sS) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Camino al Sol](https://open.spotify.com/album/1XuG26LABHJVOLlf8VqkSN) | 3:45 |
 | 11 | [Luka](https://open.spotify.com/track/0HOMEZoKV1y70FxcLmVEfX) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Luka](https://open.spotify.com/album/53nHorAyot2oj5yEjoMS3g) | 4:05 |
 | 12 | [Adicto \(feat\. Gigolo y La Exce\)](https://open.spotify.com/track/2L6rsP2nThuVySclwSUkBT) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 3:20 |
-| 13 | [Medley Lud Session \- Tudo porque você mentiu / penhasco / De rolê / CAFÉ DA MANHÃ ;P / Doutora 3](https://open.spotify.com/track/3JFB72hbbt3zy30puJTc3q) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Medley Lud Session \- Tudo porque você mentiu / penhasco / De rolê / CAFÉ DA MANHÃ ;P / Doutora 3](https://open.spotify.com/album/4rQEAhGCxPJFlkJGymvmyz) | 9:38 |
+| 13 | [Medley Lud Session \- Tudo porque você mentiu / penhasco / De rolê / CAFÉ DA MANHÃ ;P / Doutora 3](https://open.spotify.com/track/3JFB72hbbt3zy30puJTc3q) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Medley Lud Session \- Tudo porque você mentiu / penhasco / De rolê / CAFÉ DA MANHÃ ;P / Doutora 3](https://open.spotify.com/album/4rQEAhGCxPJFlkJGymvmyz) | 9:39 |
 | 14 | [Soldado Caido](https://open.spotify.com/track/2R0XLhQjJWkAz6kOniuyOs) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Soldado Caido](https://open.spotify.com/album/4dUfwpxtL9UyaZiNld8sSm) | 3:02 |
 | 15 | [Vente Al Party](https://open.spotify.com/track/17ig894RClkWBNaVtENDrb) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Vente Al Party](https://open.spotify.com/album/341LvImqrdzts52GlxRFfE) | 2:24 |
 | 16 | [Q\-Lito](https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Q\-Lito](https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7) | 3:08 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 44 | [Espejos](https://open.spotify.com/track/6a6Zy6G2kqpavrBdw07Z5G) | [Mimi Rose](https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB) | [Lo que no ves](https://open.spotify.com/album/1VS6jRkmlTR5IlbxNsDFGW) | 2:15 |
 | 45 | [Bonnie & Clyde](https://open.spotify.com/track/0mOyIowLFXubWMYvtFhZVG) | [Laura Stangl](https://open.spotify.com/artist/006sULnXnohbBzQaISk1tr) | [Bonnie & Clyde](https://open.spotify.com/album/6DPILCbq9EhvuF3WgqnCct) | 2:58 |
 | 46 | [Soñarte](https://open.spotify.com/track/1UJbPo4QxQPrteYZdNY00H) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [Soñarte](https://open.spotify.com/album/7DvbHY38S9h6wUfQftT2E6) | 3:05 |
-| 47 | [Vivir La Vida](https://open.spotify.com/track/2XAG39vzVodViYooyknSSG) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [Stefano Torrex](https://open.spotify.com/artist/5nB3srQnV3w0QZms0DM6S8) | [Vivir La Vida](https://open.spotify.com/album/72GkMDZ9fsfKDjciYTpL6Z) | 3:11 |
+| 47 | [Siempre Happy](https://open.spotify.com/track/3aGf3ECy05mRNhthHjqlif) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [Rickstarr](https://open.spotify.com/artist/0ae72SdJTJ8D7VadVuUpEQ) | [Siempre Happy](https://open.spotify.com/album/3XhOTcxYjY05zs0m9rFmD6) | 3:34 |
 | 48 | [Efectivo](https://open.spotify.com/track/0Lzi8cknbf4xdDJ33g538a) | [Yaankiell](https://open.spotify.com/artist/7sBi02659qvRMHC7dMdted), [Buga](https://open.spotify.com/artist/33GVoJ1RIiECrk1cdK9r3B) | [Efectivo](https://open.spotify.com/album/3Tzl3goW6sLH3x2E39T5O0) | 2:24 |
 | 49 | [Calentito](https://open.spotify.com/track/0RmKplsJaVXkyWOjGMRzBZ) | [ADRI](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E) | [Calentito](https://open.spotify.com/album/5q5gjnonxhz2qDiKsa7TdA) | 2:20 |
 | 50 | [Gracias x Nada](https://open.spotify.com/track/1MzHoEWtfuLGAtoxVk5fTZ) | [Nanizzie](https://open.spotify.com/artist/0sw69zXt3PgxRXvo1Czg3j) | [Gracias x Nada](https://open.spotify.com/album/2SRL17miIXiQ1aAonnxXU0) | 2:52 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 66 | [AIRE \(RESPIRA\)](https://open.spotify.com/track/1G3v1LR4jjvkENdtmqUAFF) | [Ruzto](https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo), [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [EL SONERO MENOR](https://open.spotify.com/album/4j0K4tqaeHCZGlrH0XYYuC) | 4:05 |
 | 67 | [Acompáñame](https://open.spotify.com/track/569bKVpeHVxSMlbacwCf9Q) | [Dos Rayos](https://open.spotify.com/artist/6oW8mrGWf9Hy3Q5sFr71Pc) | [ESENCIA](https://open.spotify.com/album/2E0rhaBfmakHJGAvoKcmcV) | 2:32 |
 
-Snapshot ID: `MTY1Njc4Nzk4NCwwMDAwMDNhYjAwMDAwMTgxYzA0MjYwYWYwMDAwMDE4MWIxNGUxNTJi`
+Snapshot ID: `MTY1Njg3NjQzNCwwMDAwMDNhYzAwMDAwMTgxYzU4ODAyZmYwMDAwMDE4MWIxNGUxNTJi`

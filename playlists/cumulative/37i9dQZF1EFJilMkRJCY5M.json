@@ -258,6 +258,24 @@
     },
     {
       "album": {
+        "name": "Girl Wonder",
+        "url": "https://open.spotify.com/album/4kUyEMsQ4Ho1TkwPln0h6w"
+      },
+      "artists": [
+        {
+          "name": "Taylor Edwards",
+          "url": "https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki"
+        }
+      ],
+      "date_added": "2022-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182326,
+      "name": "Girl Wonder",
+      "url": "https://open.spotify.com/track/2g3vOIC3J9uYfSu6yi74rI"
+    },
+    {
+      "album": {
         "name": "Phobia",
         "url": "https://open.spotify.com/album/1aRThupMAXji2AuQIlsIM1"
       },

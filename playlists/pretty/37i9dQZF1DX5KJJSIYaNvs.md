@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 
 > Listen to Indian women, at full volume\. Cover: Baani Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,171 likes - 43 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,253 likes - 43 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

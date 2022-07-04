@@ -1,12 +1,12 @@
 {
   "description": "The home of the best new alternative music. Cover: Ray Laur\u00e9l",
-  "num_followers": 144012,
+  "num_followers": 144039,
   "original_name": "The Other List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY4MDczOCwwMDAwMDIxYjAwMDAwMTgxYjlkZGYwM2UwMDAwMDE4MWI5ZGM0Yjkz",
+  "snapshot_id": "MTY1Njg4MDcyNiwwMDAwMDIxYzAwMDAwMTgxYzVjOTgyOWIwMDAwMDE4MWI5ZGM0Yjkz",
   "tracks": [
     {
       "added_at": "2022-07-01 13:05:38",
@@ -107,6 +107,26 @@
       "duration_ms": 213750,
       "name": "Cracker Island (feat. Thundercat)",
       "url": "https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N"
+    },
+    {
+      "added_at": "2022-07-03 20:38:46",
+      "album": {
+        "name": "Glow in the Dark (feat. Rudimental)",
+        "url": "https://open.spotify.com/album/7JzvqMtcSKjenf80seUPxq"
+      },
+      "artists": [
+        {
+          "name": "Peter Xan",
+          "url": "https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP"
+        },
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        }
+      ],
+      "duration_ms": 170209,
+      "name": "Glow in the Dark (feat. Rudimental)",
+      "url": "https://open.spotify.com/track/5g4XO4YK1cOocEsHMVmd62"
     },
     {
       "added_at": "2022-07-01 13:05:38",

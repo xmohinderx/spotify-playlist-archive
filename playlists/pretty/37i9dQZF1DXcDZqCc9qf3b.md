@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZqCc9qf3b.md) - [plain]
 
 > Groove to music from your Netflix Kids favorites, such as Waffles & Mochi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,386 likes - 68 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,394 likes - 68 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

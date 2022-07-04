@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 
 > Bold bops from Ludhiana to London\. Cover: Sidhu Moose Wala.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,685 likes - 49 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,764 likes - 49 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 | 5 | [Sharaab](https://open.spotify.com/track/5yAu5xEsC4eJvVL4B2Gjl4) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq) | [State of Art](https://open.spotify.com/album/62Wlbcq0ip7IThBYtmxEi6) | 2:49 |
 | 6 | [Chandigarh](https://open.spotify.com/track/0C3E2mfHDxqrSQjQ5702g4) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8), [Guri](https://open.spotify.com/artist/6wmETiZFS8CviwUTaeoVgf) | [Chandigarh](https://open.spotify.com/album/6b3e1cebG8me8nmeBVpJto) | 2:17 |
 | 7 | [What Ve](https://open.spotify.com/track/6Pxq8WosWicxmEqp9BFZ2s) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [What Ve](https://open.spotify.com/album/5uR3tuzwfgecmNPsCfxeUi) | 3:08 |
-| 8 | [Jaan War Daa \(From "Sohreyan Da Pind Aa Gaya"\)](https://open.spotify.com/track/2aL7GhTyObaRdWaEi4HVPC) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Daoud Music](https://open.spotify.com/artist/25GIbgESjRMJaCTFjSK7e0) | [Jaan War Daa \(From "Sohreyan Da Pind Aa Gaya"\)](https://open.spotify.com/album/21rdsrcQ2jxiREmn3uZ7Tp) | 2:47 |
+| 8 | [Jaan War Daa \(From "Ghund Kadh Le Ni Sohreyan Da Pind Aa Gaya"\)](https://open.spotify.com/track/2aL7GhTyObaRdWaEi4HVPC) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Daoud Music](https://open.spotify.com/artist/25GIbgESjRMJaCTFjSK7e0) | [Jaan War Daa \(From "Ghund Kadh Le Ni Sohreyan Da Pind Aa Gaya"\)](https://open.spotify.com/album/21rdsrcQ2jxiREmn3uZ7Tp) | 2:47 |
 | 9 | [Jagga](https://open.spotify.com/track/5XJGVtJcKHgWBo3fNwJWSl) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Desi Frenzy](https://open.spotify.com/artist/50FBY7deOzEIM580Ui6SzA) | [Bhangra Essential](https://open.spotify.com/album/7jdDevCoN03GtfGl9jn46p) | 4:08 |
 | 10 | [Jatt Flex](https://open.spotify.com/track/3b9H6i89wdDH2IKNcnXpt2) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj) | [Jatt Flex](https://open.spotify.com/album/2dhnvaPxxR2EUOtZpsWeWG) | 3:15 |
 | 11 | [C Walk](https://open.spotify.com/track/78SUtcXKU42oqnW105CUZS) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Way Maker](https://open.spotify.com/album/3LgutfrQ1qA1wt09i9JpB0) | 2:45 |

@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
 
-> Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: CHOCO; thiết kế: Isu Kim
+> Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Southalid; thiết kế: Isu Kim
 
 433 songs - 1 day 1 hr 4 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
 
@@ -330,7 +330,7 @@
 | [Still Loving You](https://open.spotify.com/track/3K0YVjY3v4LyGaLr54A5Qd) | [Bảo Uyên](https://open.spotify.com/artist/7AjrzSwNXDH9bZjjCKR8kA) | [Still Loving You](https://open.spotify.com/album/4irg1O2R8zhQHgI4yrRroT) | 4:34 | 2022-05-05 | 2022-06-10 |
 | [Str4wb3rry shortc4k3](https://open.spotify.com/track/2rCDl6Laf9blXgGhc2e1KD) | [kidsai](https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ), [V\#](https://open.spotify.com/artist/3XevJv2rTKu5WYtD0LW6om) | [Love Plugg](https://open.spotify.com/album/1d07CUNxKAKDHZBWmrWIbO) | 3:36 | 2022-06-30 |  |
 | [Sweety](https://open.spotify.com/track/0JM1GItPD8ZH5vdMem75qC) | [TaylorDaClownn](https://open.spotify.com/artist/3HZZADizLAtNsAy36T8wiD), [1Cozy9](https://open.spotify.com/artist/1cCeWZSMhwF6Z3ASJ0SA3C), [Kavy](https://open.spotify.com/artist/7yT4cAcwLIvi0LjNRX6ipa) | [Sweety](https://open.spotify.com/album/2E5rjkr6YXUgf1E69AvHw2) | 3:12 | 2022-03-08 | 2022-03-18 |
-| [Săn Mồi](https://open.spotify.com/track/6vvqufho5vyqVInqstNVwJ) | [Anzz](https://open.spotify.com/artist/5y2RBcWcJfnvuoZ4OomdiO), [sinist/a](https://open.spotify.com/artist/64J18vLHKpDvEOXAQMbdEM) | [Săn Mồi](https://open.spotify.com/album/0XmOi37QSFOi5iWWZgp1d7) | 3:22 | 2022-04-15 |  |
+| [Săn Mồi](https://open.spotify.com/track/6vvqufho5vyqVInqstNVwJ) | [Anzz](https://open.spotify.com/artist/5y2RBcWcJfnvuoZ4OomdiO), [sinist/a](https://open.spotify.com/artist/64J18vLHKpDvEOXAQMbdEM) | [Săn Mồi](https://open.spotify.com/album/0XmOi37QSFOi5iWWZgp1d7) | 3:22 | 2022-04-15 | 2022-07-04 |
 | [Sẵn Sàng Yêu Em Đi Thôi](https://open.spotify.com/track/3Td4pwE5TcWeq38ag6cxps) | [WONI](https://open.spotify.com/artist/7gnJ1EBCiBI8zkyPEd7LVG) | [Sẵn Sàng Yêu Em Đi Thôi](https://open.spotify.com/album/16P8QYCdxrVRHukj40GXM2) | 3:36 | 2022-01-06 | 2022-01-11 |
 | [Sẽ Là Một Người Khác](https://open.spotify.com/track/4HKU9JRB6nbFbU11pvUrMr) | [Zes](https://open.spotify.com/artist/3gk8hJxOhfMRyYdaSdrtPI), [Đăng](https://open.spotify.com/artist/6p4TdoZr8J3FWeRJ4x7K5D) | [Sẽ Là Một Người Khác](https://open.spotify.com/album/75W8B4ZMZV3CyfJTaLT1Fv) | 4:26 | 2022-01-06 | 2022-01-21 |
 | [sẽ qua như là](https://open.spotify.com/track/5DKa0r3uzVepcCo6QpMTWC) | [crayons](https://open.spotify.com/artist/1epf8UtsphasV8DJsmkY6V) | [sẽ qua như là](https://open.spotify.com/album/44xBCaqYu7TGf15bUbBVCj) | 4:07 | 2022-01-06 | 2022-01-27 |

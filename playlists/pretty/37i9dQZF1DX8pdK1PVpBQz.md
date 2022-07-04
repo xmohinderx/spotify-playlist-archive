@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: ASTON\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,782 likes - 91 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,802 likes - 91 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -102,6 +102,24 @@
     },
     {
       "album": {
+        "name": "Reverence for Fallen Trees",
+        "url": "https://open.spotify.com/album/0H2OGCb81F0iGqu9e18CF8"
+      },
+      "artists": [
+        {
+          "name": "The Black Atlantic",
+          "url": "https://open.spotify.com/artist/33kge1mmCkHoYWJ4kJe6BC"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93440,
+      "name": "Baiulus",
+      "url": "https://open.spotify.com/track/2eHP1tEq6DFVqJslJPPLSF"
+    },
+    {
+      "album": {
         "name": "Beautiful Hell",
         "url": "https://open.spotify.com/album/6xTzNBU5ayQKPQeIrhNKV8"
       },
@@ -113,7 +131,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 176167,
       "name": "Beautiful Hell",
       "url": "https://open.spotify.com/track/1DlbCKscf5uSlVpbKYVxOS"
@@ -563,7 +581,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 250331,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/569cT8lSLKGOIAdAUZcMYL"
@@ -761,7 +779,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 249413,
       "name": "Habit",
       "url": "https://open.spotify.com/track/3gSn8dbsrZ6amHUEV7sHqd"
@@ -925,7 +943,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 377000,
       "name": "I Can't Go on Without You",
       "url": "https://open.spotify.com/track/1OtGo99uypkRbMqshBVFnn"
@@ -1329,7 +1347,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 272720,
       "name": "O Love Is Teasin'",
       "url": "https://open.spotify.com/track/0cxkhoKLZ38gxql3fd37kw"
@@ -1437,7 +1455,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 211093,
       "name": "Run",
       "url": "https://open.spotify.com/track/6M7YBfRm0IxZFxh1P2HSbG"
@@ -1599,7 +1617,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 240560,
       "name": "Smother",
       "url": "https://open.spotify.com/track/1drUAdX3NY4dTieuxdedLY"
@@ -1653,7 +1671,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 311025,
       "name": "Stakes",
       "url": "https://open.spotify.com/track/0MrCHY7OM8VjnsfwT3DSsw"
@@ -1707,7 +1725,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 247379,
       "name": "Stretch Your Eyes - Radio Edit",
       "url": "https://open.spotify.com/track/70CsIJHC2gv7k8xusbrgP3"
@@ -1869,7 +1887,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 244840,
       "name": "The Place I Left Behind",
       "url": "https://open.spotify.com/track/7BbAqle8lyB3S56Q9MPTZB"
@@ -2139,7 +2157,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 285677,
       "name": "When You Break",
       "url": "https://open.spotify.com/track/1oWSkX6hHx8ea2Wr0SE39g"

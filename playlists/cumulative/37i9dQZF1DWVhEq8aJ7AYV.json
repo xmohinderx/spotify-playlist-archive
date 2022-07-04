@@ -17,7 +17,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 232200,
       "name": "!Pum-!Pum, Bang-Bang!",
       "url": "https://open.spotify.com/track/5UDoPAgMsSQ4giy3sl2ssa"
@@ -75,7 +75,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 171080,
       "name": "Abuela Zombie",
       "url": "https://open.spotify.com/track/0hFQrpJHkfTbXwG7frxlaj"
@@ -97,6 +97,24 @@
       "duration_ms": 147240,
       "name": "Acapulco Golden",
       "url": "https://open.spotify.com/track/27ytIflM3JBuOEO8cz16XK"
+    },
+    {
+      "album": {
+        "name": "Espectroplasma I",
+        "url": "https://open.spotify.com/album/4VDEjivZLmKKHWR01lIPjL"
+      },
+      "artists": [
+        {
+          "name": "Espectroplasma",
+          "url": "https://open.spotify.com/artist/48ljuzBJK83T0146ueaNZq"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157386,
+      "name": "Alfa Orionis",
+      "url": "https://open.spotify.com/track/0nWJxE0bYCVUbJA4AAtwem"
     },
     {
       "album": {
@@ -165,7 +183,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 179250,
       "name": "Arrecife Arrumaco",
       "url": "https://open.spotify.com/track/4UkyB37ka0S1tPBUxgvk1f"
@@ -183,7 +201,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 121480,
       "name": "Atlantida",
       "url": "https://open.spotify.com/track/0DlOs6XlfBdI5kEWBK8zh3"
@@ -345,10 +363,28 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 183946,
       "name": "Brasil",
       "url": "https://open.spotify.com/track/2tnw2r9CDNfFaYYaa7bwxl"
+    },
+    {
+      "album": {
+        "name": "The Lost Tapes",
+        "url": "https://open.spotify.com/album/1mUWOkbtGj9oEMT20orpJW"
+      },
+      "artists": [
+        {
+          "name": "Los Infierno",
+          "url": "https://open.spotify.com/artist/2Ss3Q7aKxMNVX2z5vFUGXM"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148026,
+      "name": "Brebaje de Amor No. 9",
+      "url": "https://open.spotify.com/track/3mGhpbgbsA9ntxCq7OTwsM"
     },
     {
       "album": {
@@ -363,7 +399,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 179987,
       "name": "Calaveras Del Justicio",
       "url": "https://open.spotify.com/track/1PAikppNGtacY4JblDukir"
@@ -417,7 +453,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 120933,
       "name": "Cherry Bop",
       "url": "https://open.spotify.com/track/1bczxaqjIpbTJR1UkKXirI"
@@ -453,7 +489,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 168787,
       "name": "Contra las Cuerdas",
       "url": "https://open.spotify.com/track/4tMP5TYwnosRe9OAXJLMtX"
@@ -569,7 +605,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 189196,
       "name": "Dia de Muertos",
       "url": "https://open.spotify.com/track/6ttuYNmBq53CdtX75ia3Dw"
@@ -609,7 +645,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 142333,
       "name": "Dra\u0301cula \u201dYe-ye\u201d",
       "url": "https://open.spotify.com/track/28mq9dICF4XavmY50cyOgX"
@@ -627,7 +663,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 198640,
       "name": "Dripping Springs TX",
       "url": "https://open.spotify.com/track/4p7WKuOwnfSoku0h7VWQ6i"
@@ -753,7 +789,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 263760,
       "name": "El Planeta Sexual",
       "url": "https://open.spotify.com/track/075wKuhA08EGXvGAwYZUgj"
@@ -829,7 +865,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 115880,
       "name": "Frenesick",
       "url": "https://open.spotify.com/track/6QHGNzuD7zHtlmUsM0sBlQ"
@@ -883,7 +919,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 126336,
       "name": "Fuera Ropa: XX A\u00f1os",
       "url": "https://open.spotify.com/track/1Q5WdqThl9eOa7yfOiMEKY"
@@ -919,7 +955,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 151933,
       "name": "Ghoulman Confidential",
       "url": "https://open.spotify.com/track/6yHvZlTgv3CjF3NQBe0lyK"
@@ -955,7 +991,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 203320,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/6HwDrDj6wqgw5zsMQJp1cR"
@@ -991,7 +1027,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 142000,
       "name": "Haulin' Hearse",
       "url": "https://open.spotify.com/track/4A9dMvwGlocF9gxVesArPR"
@@ -1027,7 +1063,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 126106,
       "name": "Hey Monstruo Hey",
       "url": "https://open.spotify.com/track/1hYC8B4sfO4Wyi7WFbB44P"
@@ -1175,7 +1211,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 162706,
       "name": "Jet Set",
       "url": "https://open.spotify.com/track/44DqqmzTz4jOxZMEGQjsk1"
@@ -1211,7 +1247,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 175853,
       "name": "Junto a Mi",
       "url": "https://open.spotify.com/track/1hHYV4GmMHkfYbM1EM9cGZ"
@@ -1323,7 +1359,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 132360,
       "name": "Lancha Con Fondo de Cristal",
       "url": "https://open.spotify.com/track/2VlUUCWzImbNzcPet2jLU3"
@@ -1341,7 +1377,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 115266,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/2Aw6dlyFVe0noQH9ppjhvX"
@@ -1359,7 +1395,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 203813,
       "name": "Mad Waves",
       "url": "https://open.spotify.com/track/5TKLfhIuRiwFs65utNQ651"
@@ -1377,7 +1413,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 170160,
       "name": "Magneto",
       "url": "https://open.spotify.com/track/6QpUKeuW5YxcQ5m3r9lwBl"
@@ -1425,7 +1461,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 214173,
       "name": "Mar de Caca",
       "url": "https://open.spotify.com/track/5WxA2mR2wBnPXOvpRFkOXk"
@@ -1461,7 +1497,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 163093,
       "name": "Momia Twist",
       "url": "https://open.spotify.com/track/3mUqECdAhiAj5UJEAlZRCy"
@@ -1537,7 +1573,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 174066,
       "name": "Mutantes",
       "url": "https://open.spotify.com/track/0jqpnsBXWrGhf31HIJ6v8E"
@@ -1555,7 +1591,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 128453,
       "name": "Naci\u00f3n Apache",
       "url": "https://open.spotify.com/track/2VDdNo02QCA2nChBQKMqp3"
@@ -1577,6 +1613,24 @@
       "duration_ms": 209453,
       "name": "New Siberia",
       "url": "https://open.spotify.com/track/5LOvf3VYtuSqFsakw2WyFb"
+    },
+    {
+      "album": {
+        "name": "Oleka",
+        "url": "https://open.spotify.com/album/02b1Y1XnXhQbXzFXLRDyaG"
+      },
+      "artists": [
+        {
+          "name": "Fenomeno Fuzz",
+          "url": "https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163047,
+      "name": "Oleka",
+      "url": "https://open.spotify.com/track/34nFpgw6nXA671xsmYpBAY"
     },
     {
       "album": {
@@ -1609,7 +1663,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 215653,
       "name": "Pandilleros",
       "url": "https://open.spotify.com/track/5JSuJ89UuxDAWHeNzpLvdr"
@@ -1627,7 +1681,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 186593,
       "name": "Peyoteando Con Ayahuasca",
       "url": "https://open.spotify.com/track/1dfR1vi6sYqngeVc75nFZW"
@@ -1645,10 +1699,28 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 238400,
       "name": "Piangi Con Me",
       "url": "https://open.spotify.com/track/4K5Yo0mU2jOFUEQ7MnWUEB"
+    },
+    {
+      "album": {
+        "name": "The Octopus Incident? (This Was the Day That Engulfed the Space in Terror)",
+        "url": "https://open.spotify.com/album/1YwgzJrFjMNnCedQPETpE0"
+      },
+      "artists": [
+        {
+          "name": "Hawaii Samurai",
+          "url": "https://open.spotify.com/artist/76vLOyUJh88z0lsVAV6PgK"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158386,
+      "name": "Pintor",
+      "url": "https://open.spotify.com/track/41APmx0ZZyNS9ARvS2R0ad"
     },
     {
       "album": {
@@ -1663,7 +1735,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 193946,
       "name": "Pirakor",
       "url": "https://open.spotify.com/track/28WuMTR0P01MYIlK11uUsE"
@@ -1735,7 +1807,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 173720,
       "name": "Ram Bam Bam",
       "url": "https://open.spotify.com/track/3l8Q5WtSlfDEqpQUkauSkP"
@@ -1789,7 +1861,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 145597,
       "name": "Rev\u00f3lver Marciano",
       "url": "https://open.spotify.com/track/1Y3gJSc7xsOS6bYBgRF17R"
@@ -1861,7 +1933,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 230173,
       "name": "Santo y Lunave",
       "url": "https://open.spotify.com/track/2vgEo9N4GLVpFBHkTHFA2I"
@@ -1883,10 +1955,28 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 148360,
       "name": "Shooby Doo Wop",
       "url": "https://open.spotify.com/track/0hRphF5bOnJkQzKSKuJbmc"
+    },
+    {
+      "album": {
+        "name": "Sonido Bestia",
+        "url": "https://open.spotify.com/album/2vhLgPbWmqdHaI0Fm9xRZ2"
+      },
+      "artists": [
+        {
+          "name": "Fenomeno Fuzz",
+          "url": "https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198019,
+      "name": "Siempre",
+      "url": "https://open.spotify.com/track/1G9h543efweZczd5O86Ays"
     },
     {
       "album": {
@@ -1919,7 +2009,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 194746,
       "name": "Solaris Stomp",
       "url": "https://open.spotify.com/track/5C3mApxFbXRWj8ouYNCsyD"
@@ -2049,10 +2139,28 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 126626,
       "name": "Surfin Beer",
       "url": "https://open.spotify.com/track/230qkv2nzn62ejlAFo3flv"
+    },
+    {
+      "album": {
+        "name": "Cosmopolis",
+        "url": "https://open.spotify.com/album/5vTTXLIeYHZKOOnENLn2wB"
+      },
+      "artists": [
+        {
+          "name": "Laika & The Cosmonauts",
+          "url": "https://open.spotify.com/artist/6UmSNX1sClVl8rYnig3t9i"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119760,
+      "name": "Surfs You Right",
+      "url": "https://open.spotify.com/track/4bvXLjqL3zgFAux0ZpXQQ0"
     },
     {
       "album": {
@@ -2067,7 +2175,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 123107,
       "name": "Swan's Lake",
       "url": "https://open.spotify.com/track/2dMCzVJOAAo0gUDWzBAIPR"
@@ -2139,7 +2247,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 116013,
       "name": "Tiki Surf",
       "url": "https://open.spotify.com/track/1OAcBwfDqJXWOawfaSfark"
@@ -2157,7 +2265,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 217533,
       "name": "Tsunami Tsurprise",
       "url": "https://open.spotify.com/track/3wMrGuCEolLgMFwco9ZbMa"
@@ -2193,7 +2301,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 167493,
       "name": "Twist Del Elefante",
       "url": "https://open.spotify.com/track/58kYjQzf6V58d4j2gQH2yN"
@@ -2240,6 +2348,24 @@
     },
     {
       "album": {
+        "name": "S\u00e1bado",
+        "url": "https://open.spotify.com/album/7kuSs5f1rvSnxTm5Xccjiq"
+      },
+      "artists": [
+        {
+          "name": "Fenomeno Fuzz",
+          "url": "https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224893,
+      "name": "Volar",
+      "url": "https://open.spotify.com/track/3sfk92mTJYV2L9bcvW8d2Z"
+    },
+    {
+      "album": {
         "name": "Dos Bandas y un Destino",
         "url": "https://open.spotify.com/album/3BmLh6ul8Rbj9LiabRcKQ1"
       },
@@ -2255,7 +2381,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 229213,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/0bPl0bTLYzpnkIZOtES29O"

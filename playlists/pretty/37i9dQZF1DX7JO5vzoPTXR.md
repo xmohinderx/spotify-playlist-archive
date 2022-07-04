@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Highlighting <a href="http://noteable.spotify.com">Noteable</a> songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG?si=6UZPxuAmTqq5yhS\_yel9zg">Fave</a>, Saszy Afroshii
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,242 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,276 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 39 | [Tension](https://open.spotify.com/track/2434pKRVVDCC4RI9krWTH4) | [Cappa](https://open.spotify.com/artist/1LCPvGsQVJUQE8oyIRihHh) | [Tension](https://open.spotify.com/album/20sLBP2RxJz8kk4YLlOq7V) | 3:06 |
 | 40 | [The Sweetest Death is Loving You](https://open.spotify.com/track/5pEqp6Ob9ZNvYB4zboPUNU) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv) | [The Sweetest Death is Loving You](https://open.spotify.com/album/7qcXa7Z5KFsdKvqEqiYSzN) | 2:52 |
 
-Snapshot ID: `MTY1NjgxMjU3OCwwMDAwMDAwMDA4ZWMyZWI5ZmU2MDg3NTBjM2U4YjFkNWNmODExY2Fk`
+Snapshot ID: `MTY1Njg5OTI3NCwwMDAwMDAwMDA4ZWMyZWI5ZmU2MDg3NTBjM2U4YjFkNWNmODExY2Fk`

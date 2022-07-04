@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Ganzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,692 likes - 111 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,704 likes - 111 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

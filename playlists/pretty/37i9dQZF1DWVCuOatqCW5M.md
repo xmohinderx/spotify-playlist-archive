@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Emiway Bantai & Celina Sharma
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,312 likes - 53 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,324 likes - 53 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 27 | [Aur Kya \(Chapter 2\)](https://open.spotify.com/track/1876jQ2EY9O28i5yg0nady) | [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE) | [Aur Kya \(Chapter 2\)](https://open.spotify.com/album/0IP64Mv9NYwpuptixkeQGB) | 3:50 |
 | 28 | [Aarzoo](https://open.spotify.com/track/6E1xdTd2tWqjBLhSbnxuYk) | [Shom Chaterjjee](https://open.spotify.com/artist/6FUKjekkN5Fr9BjlJFaiwf), [Ashwin Srinivasan](https://open.spotify.com/artist/0b7kHhI5N93ZxMuMiBy7Tl) | [Aarzoo](https://open.spotify.com/album/73IOVRfYS4zCMfmUlW4MY6) | 7:13 |
 | 29 | [Faasle](https://open.spotify.com/track/094BU3jjywSq8kxWQ1xWsv) | [Bandish Projekt](https://open.spotify.com/artist/0nFWwB5eQCvOdqGRlWVqBK), [Bhavya Pandit](https://open.spotify.com/artist/1hYkTNl6h28hwB6IZJ3nfB) | [Faasle](https://open.spotify.com/album/7JOMoGP7fzYXrmtoyihwH2) | 3:25 |
-| 30 | [Rubaru \(From "Khuda Haafiz \- Chapter 2 Agni Pariksha"\)](https://open.spotify.com/track/2MACCctRqmLM8OVI8IdqQV) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Rubaru \(From "Khuda Haafiz \- Chapter 2 Agni Pariksha"\)](https://open.spotify.com/album/4Iik8AT0ebx4Ym8u9MpzDC) | 4:21 |
+| 30 | [Rubaru](https://open.spotify.com/track/2MACCctRqmLM8OVI8IdqQV) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Rubaru \(From "Khuda Haafiz \- Chapter 2 Agni Pariksha"\)](https://open.spotify.com/album/4Iik8AT0ebx4Ym8u9MpzDC) | 4:21 |
 | 31 | [Ishq ka Manjha \(From "Ardh"\)](https://open.spotify.com/track/2hFqa8F4Gsho7Wg5xCryOl) | [Palash Muchhal](https://open.spotify.com/artist/33YZ8dADtqLFO3Ku60tGVS), [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Ishq ka Manjha \(From "Ardh"\)](https://open.spotify.com/album/5vBHU4kC23F6WnnFmfeQ4c) | 4:34 |
 | 32 | [Ijazzat Hai](https://open.spotify.com/track/4CAg8E6aRFqQvYFdMfaCNj) | [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU), [Sachin Gupta](https://open.spotify.com/artist/34R6DQd8ErBy1xyOyMHFrq) | [Ijazzat Hai](https://open.spotify.com/album/3Nye3KwuWgA9NxjFf5zCwC) | 3:15 |
 | 33 | [Dooriyan](https://open.spotify.com/track/6YF15GgzNFCu3Xpf2JSqzJ) | [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo) | [Dooriyan](https://open.spotify.com/album/7GXUHcJc4b3G3KBojLSU7c) | 2:41 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover : Akanksha Bhandari
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,603 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,684 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 74 | [Roothe Saiyaan](https://open.spotify.com/track/6Y22M2lBDpfk1GEGYrsVrn) | [Keshav Tyohar](https://open.spotify.com/artist/4K2l6pikW66DDwViUWSUpS), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Reverse Prodigy](https://open.spotify.com/artist/6zXaDDbpZlywcU9kb61gHI) | [Roothe Saiyaan](https://open.spotify.com/album/4BfsyCJjVYQc8G3ZKDW5KN) | 2:58 |
 | 75 | [Hua Mera](https://open.spotify.com/track/52rCzPVc4qHUqAN7nfJOB5) | [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry), [Sangeet Haldipur](https://open.spotify.com/artist/79jChyQpm3UY9JD5btkNcK) | [Hua Mera](https://open.spotify.com/album/3nGM067kh5hi5AYzJWgloe) | 3:53 |
 
-Snapshot ID: `MTY1NjgxMDU3NCwwMDAwMDAwMDNiZjY3ZGVjMWVjMzc5ZTM5ZDdmYzEyODM2ZTc2ZmM1`
+Snapshot ID: `MTY1Njg5NzIwMCwwMDAwMDAwMDNiZjY3ZGVjMWVjMzc5ZTM5ZDdmYzEyODM2ZTc2ZmM1`

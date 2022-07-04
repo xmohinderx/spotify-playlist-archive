@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 321733,
       "name": "11\u6708\u306e\u96e8",
       "url": "https://open.spotify.com/track/1yWV04HUCesq5NbuhYkRwA"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 247373,
       "name": "\u30ab\u30cc\u30ec",
       "url": "https://open.spotify.com/track/0xdYMLOVH0DPNNg1zPofzO"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 287146,
       "name": "\u30b5\u30a4\u30c0\u30fc -instrumental-",
       "url": "https://open.spotify.com/track/5rq97nPdq1Dc2AAVqXM459"
@@ -459,6 +459,24 @@
       "duration_ms": 209133,
       "name": "\u30d2\u30b9\u30c8\u30ea\u30a2",
       "url": "https://open.spotify.com/track/0nzaNIkYGdZ8zI97ZT1Q1u"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30df\u30c4\u604b\u30b4\u30b3\u30ed",
+        "url": "https://open.spotify.com/album/0UdGs7830iYt9ExWdeThiI"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218146,
+      "name": "\u30d2\u30df\u30c4\u604b\u30b4\u30b3\u30ed",
+      "url": "https://open.spotify.com/track/532a4qwtCf56E6qjiAn2EE"
     },
     {
       "album": {
@@ -773,7 +791,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 282533,
       "name": "\u604b\u306e\u30b3\u30fc\u30c9",
       "url": "https://open.spotify.com/track/41DwwsezbdbyXoqq9KK5k5"
@@ -845,7 +863,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 267173,
       "name": "\u79c1\u3001\u30a2\u30a4\u30c9\u30eb\u5ba3\u8a00",
       "url": "https://open.spotify.com/track/7HVJK5NcZTQGvWB1yWHyAB"

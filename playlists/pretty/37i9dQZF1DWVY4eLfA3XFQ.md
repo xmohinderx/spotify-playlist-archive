@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians, featuring Green Velvet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,966 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,171 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 50 | [Feel Like Myself](https://open.spotify.com/track/0sUcDU6ysFrbl8l4JP3qS5) | [Seolo](https://open.spotify.com/artist/0cYQPenhK6K02oHR5Wb0R1) | [Feel Like Myself](https://open.spotify.com/album/1w3iadH5vMYTYjbA3oxAxS) | 4:07 |
 | 51 | [Feel It \- GUZ Remix](https://open.spotify.com/track/39Oxhni4ULZjYNGQL2CFKr) | [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Feel It \(GUZ Remix\)](https://open.spotify.com/album/583DHou9e1MRu6pnIooV4j) | 2:48 |
 | 52 | [Bumpin'](https://open.spotify.com/track/2JSRHxHfbteGcueRhfKtm7) | [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7), [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz) | [Bumpin'](https://open.spotify.com/album/4BtfgqdJz0qKvr7hHXAAmo) | 2:50 |
-| 53 | [Strut](https://open.spotify.com/track/0nevM5K8CCJOTbAcpOS1Js) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Strut](https://open.spotify.com/album/7kJtQku5TZl47Wkl0taooD) | 3:03 |
+| 53 | [Strut](https://open.spotify.com/track/0nevM5K8CCJOTbAcpOS1Js) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Strut](https://open.spotify.com/album/7kJtQku5TZl47Wkl0taooD) | 2:40 |
 | 54 | [I Don't Think U Do](https://open.spotify.com/track/2cyNqXxLcSV7EtEkIivrlz) | [SNBRN](https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI), [FREAK ON](https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ) | [I Don't Think U Do](https://open.spotify.com/album/53t06XQarorEYsDJXjwjSg) | 3:23 |
 | 55 | [Habit](https://open.spotify.com/track/2PLeHUmN4BvbMuZlg0MzUA) | [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB), [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp), [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V), [Keepsix](https://open.spotify.com/artist/6hq0vxcBCTYxRL0t50yLO5) | [Habit](https://open.spotify.com/album/1S1omO47vWP6lk8wjwhjNT) | 3:19 |
 | 56 | [Trouble So Hard \(feat\. MELLY OHH\)](https://open.spotify.com/track/3Y6sP8zjB9vhQ7kViCFBkV) | [Return Of The Jaded](https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS), [MELLY OHH](https://open.spotify.com/artist/1CQHY4R9T7Fr7qwydWLVUa) | [Trouble So Hard \(feat\. MELLY OHH\)](https://open.spotify.com/album/3XaRcRxRDXPwHm4EMs8R61) | 3:20 |

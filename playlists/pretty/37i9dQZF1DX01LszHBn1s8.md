@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > stranger things spoilers? no thank you 😇
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,364 likes - 468 songs - 1 day 0 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,756 likes - 468 songs - 1 day 0 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New releases, driving the current\. Cover: Steve Lacy
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,589 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,654 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 99 | [Make A Movie \(feat\. Fivio Foreign\)](https://open.spotify.com/track/6fDlAcex9PxMcvw4eiZjLq) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Make A Movie \(feat\. Fivio Foreign\)](https://open.spotify.com/album/4HFKc1vf00ooiAXuPIf5xv) | 2:17 |
 | 100 | [The Room](https://open.spotify.com/track/3Xci1c096KD2T1A3rHBGYa) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [The Room](https://open.spotify.com/album/4BmVEUx3ViQkBVg85O20p3) | 2:17 |
 
-Snapshot ID: `MTY1NjgxMDkwOSwwMDAwMDAwMDZlMjkxYzYzNjc3YzM0N2ZhYzdmMWZhZjI4MGEyNmJh`
+Snapshot ID: `MTY1Njg5NzU3MSwwMDAwMDAwMDZlMjkxYzYzNjc3YzM0N2ZhYzdmMWZhZjI4MGEyNmJh`

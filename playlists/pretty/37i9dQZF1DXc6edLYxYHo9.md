@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6edLYxYHo9.md) - [plain]
 
 > Soundtrack your 2022 resolutions with Corey Calliet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,271 likes - 59 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,273 likes - 59 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6edLYxYHo9.md) - [plain]
 | 26 | [9MM](https://open.spotify.com/track/2K6FYgz38Kzih6BGJzfD0H) | [David Banner](https://open.spotify.com/artist/7jFaoqWPhYLrKzjzlpXmUO), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [The Greatest Story Ever Told](https://open.spotify.com/album/4dlnbBnFH9CE6sbyrPP2aR) | 4:07 |
 | 27 | [The Box](https://open.spotify.com/track/4qGH4WXDxZXiSg7pF7pFZH) | [Bri\-Yan](https://open.spotify.com/artist/2wtZllaayaA3oR5IQwD2vb), [Corey Calliet](https://open.spotify.com/artist/5hjjcJQjHF1Iksl9dLeY8g) | [The Box](https://open.spotify.com/album/0oxCe6x9gyDz1qukzO3G0H) | 2:20 |
 | 28 | [Set It Off](https://open.spotify.com/track/6Efmq0wDgijxWFdBkzIOvb) | [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg) | [Bad Azz](https://open.spotify.com/album/7EEdfr0tQIbdFe6UKwK93O) | 4:44 |
-| 29 | [Six 12's \(feat\. Mouse On Tha Track\)](https://open.spotify.com/track/4lzxZnxRLgyheIqHfJ4YRk) | [Webbie](https://open.spotify.com/artist/6aIm51fHkokqlJn2vzNTH8), [Mouse On Tha Track](https://open.spotify.com/artist/26PDNPSOkjZowzVM563lKx) | [Savage Life 2 \(Explicit Version\)](https://open.spotify.com/album/06J105KDZyAjOjca0RToRL) | 4:01 |
+| 29 | [Six 12's \(feat\. Mouse On Tha Track\)](https://open.spotify.com/track/4lzxZnxRLgyheIqHfJ4YRk) | [Webbie](https://open.spotify.com/artist/6aIm51fHkokqlJn2vzNTH8), [Mouse On Tha Track](https://open.spotify.com/artist/26PDNPSOkjZowzVM563lKx) | [Savage Life 2](https://open.spotify.com/album/06J105KDZyAjOjca0RToRL) | 4:01 |
 | 30 | [Knuck If You Buck \(feat\. Lil' Scrappy\)](https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT) | [Crime Mob](https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo), [Lil Scrappy](https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB) | [Crime Mob](https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU) | 3:25 |
 | 31 | [Hood Nigga](https://open.spotify.com/track/323Tzd2yjV4pifrVAajafb) | [Gorilla Zoe](https://open.spotify.com/artist/3Y365ZqTf6fJ4ZcRnLKPGt) | [Welcome to the Zoo](https://open.spotify.com/album/3PCD7OL3Pg7napxsltHIOj) | 3:20 |
 | 32 | [Set It Off](https://open.spotify.com/track/44LFap7VrB4356vfbQOZHg) | [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI) | [Project English](https://open.spotify.com/album/6XWF6iUztcDP7yVBGpsGvb) | 4:17 |

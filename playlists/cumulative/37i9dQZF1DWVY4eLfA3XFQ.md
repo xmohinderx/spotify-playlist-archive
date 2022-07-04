@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Green Velvet.
 
-475 songs - 1 day 3 hr 39 min - [published](https://open.spotify.com/playlist/78BxbIkAGKnzKUXystZiu3)
+475 songs - 1 day 3 hr 38 min - [published](https://open.spotify.com/playlist/78BxbIkAGKnzKUXystZiu3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,7 +398,7 @@
 | [Step\-Grandma](https://open.spotify.com/track/2VCZrkZkplD4wG8AFozNoh) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [Step\-Grandma](https://open.spotify.com/album/3ATCFmJoutj6XaiWSU4Tvy) | 2:40 | 2021-11-26 | 2022-01-06 |
 | [Stop Trippin'](https://open.spotify.com/track/7DJl85HRjSUAk8ICYxixeT) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [Stop Trippin'](https://open.spotify.com/album/4WPRECrY6Q80xdcsJ96Pxb) | 3:36 | 2022-05-13 | 2022-05-28 |
 | [Strangers \(with Mansionair\)](https://open.spotify.com/track/5nBqvq3hUl8n6HtKtwNphW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Strangers \(with Mansionair\)](https://open.spotify.com/album/7n50hdKDAZWurnx43hDHhJ) | 3:37 | 2021-11-26 | 2022-04-23 |
-| [Strut](https://open.spotify.com/track/0nevM5K8CCJOTbAcpOS1Js) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Strut](https://open.spotify.com/album/7kJtQku5TZl47Wkl0taooD) | 3:03 | 2022-07-01 |  |
+| [Strut](https://open.spotify.com/track/0nevM5K8CCJOTbAcpOS1Js) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Strut](https://open.spotify.com/album/7kJtQku5TZl47Wkl0taooD) | 2:40 | 2022-07-01 |  |
 | [Stutter](https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9) | [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [Stutter EP](https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV) | 3:53 | 2022-05-13 | 2022-05-28 |
 | [Sublime](https://open.spotify.com/track/1JVLB7fg2RhKusiJqofmjH) | [Illyus & Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C) | [Sublime](https://open.spotify.com/album/1ubz9kd4sc2WlqUmVlHaru) | 3:08 | 2022-02-18 | 2022-06-18 |
 | [Summertime Chi](https://open.spotify.com/track/3HlPJZPGeUwU3MdTCpuzvj) | [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Summertime Chi](https://open.spotify.com/album/3YLzNH6gHFJM0c28DLIAMJ) | 3:51 | 2022-05-13 | 2022-05-28 |

@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring "Gurnam Bhullar & Sonam Bajwa"
 
-380 songs - 20 hr 57 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+381 songs - 21 hr 1 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Matt Nayani](https://open.spotify.com/track/5xVmrJTDsQ50nOhGr4H0xC) | [Mr\. Boota](https://open.spotify.com/artist/7y6uVzFdMa49aA3HpupjVq) | [Matt Nayani](https://open.spotify.com/album/1MbeRtNRRzqfOahdRQnNwR) | 3:49 | 2022-04-25 | 2022-05-11 |
 | [Mean \(Featuring Sameeksha Sud, Avinash Mishra\)](https://open.spotify.com/track/7ezQcI5ffAragM15iSLlll) | [Ramya](https://open.spotify.com/artist/7gVwxXFMkSYwYGNHIt77qU), [Sameeksha Sud](https://open.spotify.com/artist/3pHU256jfbCuoqq7svsmHH), [Avinash Mishra](https://open.spotify.com/artist/7vQIlbPuO8NSs5qO2rdXPy) | [Mean \(Featuring Sameeksha Sud, Avinash Mishra\)](https://open.spotify.com/album/7fZwR4hoDzynywS6KBTtkq) | 2:23 | 2022-03-22 | 2022-04-06 |
 | [Mehnge Mamle](https://open.spotify.com/track/7khbEiCW3oEB7o6iy0EzTW) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Davi Singh](https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0) | [Mehnge Mamle](https://open.spotify.com/album/4x4wA9h11FiGy1QRgN2Jvz) | 2:07 | 2022-03-18 | 2022-05-20 |
+| [Mera Na Reha](https://open.spotify.com/track/7zEhtXX2b6ORyM5Nw9ozRk) | [Babbal Rai](https://open.spotify.com/artist/5LFXPuKD97Sp9qdkxYBfDn), [Sunny Vik](https://open.spotify.com/artist/0w7vYjdZtzd1zSmPfY0mKe) | [Mera Na Reha](https://open.spotify.com/album/4OmKOU7EAaCFKDq96kZlA6) | 3:30 | 2022-07-03 |  |
 | [Mera Rang](https://open.spotify.com/track/2pxYMNkCvTS4KH0VAUjiT3) | [Maninder Buttar](https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Mera Rang](https://open.spotify.com/album/4dLhk2oHm4uS83FuxL8Tlp) | 3:26 | 2022-04-11 | 2022-05-11 |
 | [Mera Yaar \- From "Lekh"](https://open.spotify.com/track/3hbvd8p3NPTDOCLWnj2Vzy) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Mera Yaar \(From "Lekh"\)](https://open.spotify.com/album/55x9uPyJJdmMbP1A2wJRSg) | 4:17 | 2022-03-25 |  |
 | [Mere Peera \- From "Kokka"](https://open.spotify.com/track/4DBgesZRvYoy9wr2mXTGqr) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Sandeep Saxena](https://open.spotify.com/artist/6wFgebKzhtHkquXd3DAInj) | [Mere Peera \(From "Kokka"\)](https://open.spotify.com/album/693wd2V4lrNdcNEcGXKy7S) | 5:15 | 2022-05-20 |  |

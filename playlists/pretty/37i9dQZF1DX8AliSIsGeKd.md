@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Kollektiv Turmstrasse
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,356 likes - 75 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,531 likes - 75 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 10 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 |
 | 11 | [Forever](https://open.spotify.com/track/2hHdHaf51vVwmatKhX9xvA) | [Matt Nash](https://open.spotify.com/artist/0hxW1uZPEjt4wuu9wNDF2y) | [Forever](https://open.spotify.com/album/0Ud7t6Ub18TtbqbhqX4CuG) | 2:18 |
 | 12 | [STAINS](https://open.spotify.com/track/4PpDml43LDgWgpWlIxYYkT) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [STAINS](https://open.spotify.com/album/77QgUYaKPNBK58mobKp7g7) | 5:46 |
-| 13 | [Together](https://open.spotify.com/track/2tIef1T6mO3942fUQpGR9x) | [Mollono.Bass](https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF), [Rodden von Ast](https://open.spotify.com/artist/62B9OICu2MMHBAOC2xLPz9), [Andy´s Echo](https://open.spotify.com/artist/6MfvScwj8h3Uwc8yErbOOw) | [Together \- Part Two](https://open.spotify.com/album/5WhGkgDEDLPgxuJHBdAqm4) | 5:55 |
+| 13 | [Together](https://open.spotify.com/track/2tIef1T6mO3942fUQpGR9x) | [Mollono.Bass](https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF), [Rodden von Ast](https://open.spotify.com/artist/62B9OICu2MMHBAOC2xLPz9), [Andy's Echo](https://open.spotify.com/artist/7AsYa6HcbppsUd6qcYwJew) | [Together \- Part Two](https://open.spotify.com/album/5WhGkgDEDLPgxuJHBdAqm4) | 5:55 |
 | 14 | [Wasted On You \(feat\. Darla Jade\)](https://open.spotify.com/track/4VuPDFBRjG2KkmF9jsZwTF) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Wasted On You \(feat\. Darla Jade\)](https://open.spotify.com/album/4prwtODs2gRyKR7A3qiYzM) | 4:10 |
 | 15 | [Timeless \- Original Mix](https://open.spotify.com/track/76P1a7VfRpxXqBUqcIi3Ub) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Timeless EP](https://open.spotify.com/album/6iutev2dbJ6dSkLunk50cG) | 6:43 |
 | 16 | [Open The Gate \- Edit](https://open.spotify.com/track/6t1yz8TNU6n8h3WiB3OWq3) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Open The Gate \(Edit\)](https://open.spotify.com/album/68duwtUiVkwYY8TQ056kV1) | 4:38 |

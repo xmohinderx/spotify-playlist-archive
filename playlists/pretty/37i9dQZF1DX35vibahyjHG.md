@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > The fiercest African women making waves\. Cover: <a href="https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK?si=6hFnOof0RnqlRK0DrtZL0Q"> Moliy </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,002 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,023 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

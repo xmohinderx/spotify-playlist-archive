@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 
 > Country music making waves\. Cover: Coffey Anderson
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,251 likes - 82 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,281 likes - 82 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

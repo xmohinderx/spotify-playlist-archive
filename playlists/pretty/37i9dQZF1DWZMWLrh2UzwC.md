@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Imagine Dragons
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,942 likes - 98 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,941 likes - 98 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

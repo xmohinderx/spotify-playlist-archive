@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "Listen to the women of AU & NZ at full volume. Cover: Sampa the Great",
+  "description": "Listen to the women of AU & NZ at full volume. Cover: Meg Mac",
   "name": "EQUAL AU & NZ",
   "published_playlist_ids": [
     "4PJNyPSll9BI9JEGTXEKxV"
@@ -308,6 +308,24 @@
     },
     {
       "album": {
+        "name": "Black Cloud",
+        "url": "https://open.spotify.com/album/48ukfFIb3SBlV0RHTMohSr"
+      },
+      "artists": [
+        {
+          "name": "merci, mercy",
+          "url": "https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH"
+        }
+      ],
+      "date_added": "2022-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194673,
+      "name": "Black Cloud",
+      "url": "https://open.spotify.com/track/4tBehUVhRGqIUb3rTI9x8h"
+    },
+    {
+      "album": {
         "name": "Blank Page",
         "url": "https://open.spotify.com/album/7hKEp9Sh7BwASAeHolaONj"
       },
@@ -593,7 +611,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 194213,
       "name": "complacent",
       "url": "https://open.spotify.com/track/7I1qkuYOk8sT9LNcT4uiK0"
@@ -1109,7 +1127,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 198856,
       "name": "FLARE",
       "url": "https://open.spotify.com/track/16hxnA8hrQ7hT5cKzuRfUI"
@@ -1278,6 +1296,24 @@
     },
     {
       "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/4JNFIuyUgQhnZyS7RCvWzP"
+      },
+      "artists": [
+        {
+          "name": "Ahlei",
+          "url": "https://open.spotify.com/artist/5QyAbE7iRKVzJ5PXa3WpHq"
+        }
+      ],
+      "date_added": "2022-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182601,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/0HmX9AOxfCcFSHpNLcRrHi"
+    },
+    {
+      "album": {
         "name": "Happy Hangover",
         "url": "https://open.spotify.com/album/4h3KVC4rJ091snKcRorfWn"
       },
@@ -1311,6 +1347,24 @@
       "duration_ms": 213661,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/5W4ajZQRbMCZSaK7dQdymn"
+    },
+    {
+      "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/1U7TrNXieHR1rMTjs7R2jj"
+      },
+      "artists": [
+        {
+          "name": "Telenova",
+          "url": "https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq"
+        }
+      ],
+      "date_added": "2022-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203826,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/5iazYkEr6zbeZYjoUGwEBn"
     },
     {
       "album": {
@@ -1379,7 +1433,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 242323,
       "name": "Hi Lo",
       "url": "https://open.spotify.com/track/7crSXx6HOFrB7aTRgJXVAy"
@@ -1552,6 +1606,24 @@
     },
     {
       "album": {
+        "name": "i lost my friend at a rave",
+        "url": "https://open.spotify.com/album/6nP8L69qkApF7sJ0LSag6g"
+      },
+      "artists": [
+        {
+          "name": "Abby Bella May",
+          "url": "https://open.spotify.com/artist/7wMih0kHtN3mLG2I93WXH8"
+        }
+      ],
+      "date_added": "2022-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180409,
+      "name": "i lost my friend at a rave",
+      "url": "https://open.spotify.com/track/1XvIHLaJ1pX7lDC8CW9sTV"
+    },
+    {
+      "album": {
         "name": "I Need to Go Home",
         "url": "https://open.spotify.com/album/1dbPxOCa9AzupuTtqT5iAl"
       },
@@ -1563,7 +1635,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 217599,
       "name": "I Need to Go Home",
       "url": "https://open.spotify.com/track/0pl86RyHZNLaWP6YeuJ9Cz"
@@ -1588,6 +1660,24 @@
     },
     {
       "album": {
+        "name": "I Was Neon",
+        "url": "https://open.spotify.com/album/3zonfnIlNcBvaAe1cVfPy6"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "date_added": "2022-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242737,
+      "name": "I Was Neon",
+      "url": "https://open.spotify.com/track/65ikIJChIrHvha8l4zqP5P"
+    },
+    {
+      "album": {
         "name": "Wear My Wounds Like Armour",
         "url": "https://open.spotify.com/album/23fM3XHDMqq62dPBIurneZ"
       },
@@ -1599,7 +1689,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 211125,
       "name": "I'm Upset",
       "url": "https://open.spotify.com/track/54H0lpWzFmkJHgwSTRJQLo"
@@ -1729,6 +1819,24 @@
       "duration_ms": 160506,
       "name": "it's not that bad",
       "url": "https://open.spotify.com/track/6iUsnQ0gqehflExGxmICBG"
+    },
+    {
+      "album": {
+        "name": "Jinx",
+        "url": "https://open.spotify.com/album/1sOBPFuUVC0B1wFvVifEVp"
+      },
+      "artists": [
+        {
+          "name": "Sycco",
+          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
+        }
+      ],
+      "date_added": "2022-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166751,
+      "name": "Jinx",
+      "url": "https://open.spotify.com/track/5K7GTQnANplkwWdznjvZis"
     },
     {
       "album": {
@@ -1885,7 +1993,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 162462,
       "name": "Lane",
       "url": "https://open.spotify.com/track/17DG8UuM9rZpVnz44aJYpG"
@@ -1979,7 +2087,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 161666,
       "name": "Locked On You (feat. BROODS)",
       "url": "https://open.spotify.com/track/1NYvcIsc3jNAalKiyC4ywL"
@@ -2051,7 +2159,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 195431,
       "name": "Lover Be Brave",
       "url": "https://open.spotify.com/track/1jQIhBAiQjnHii3puL0NDL"
@@ -2213,10 +2321,40 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 192600,
       "name": "Naked",
       "url": "https://open.spotify.com/track/5mUt693rCV1aMGHIuMe0pu"
+    },
+    {
+      "album": {
+        "name": "Never Forget",
+        "url": "https://open.spotify.com/album/1TGT83DEhv2ovTITDUQA2q"
+      },
+      "artists": [
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        },
+        {
+          "name": "Chef 187",
+          "url": "https://open.spotify.com/artist/26fSO7cYQ1Txtb8xNi8byv"
+        },
+        {
+          "name": "Tio Nason",
+          "url": "https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O"
+        },
+        {
+          "name": "Mwanj\u00e9",
+          "url": "https://open.spotify.com/artist/6KPQc1cLLKKnDrEyPBCvmU"
+        }
+      ],
+      "date_added": "2022-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217520,
+      "name": "Never Forget [Feat. Chef 187, Tio Nason, Mwanj\u00e9]",
+      "url": "https://open.spotify.com/track/4pBr2SjDVIxfGkUwvOJLx7"
     },
     {
       "album": {
@@ -2501,7 +2639,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 146710,
       "name": "Pineapple Pizza",
       "url": "https://open.spotify.com/track/5GY7EgrHztoGJkGXDdhQCR"
@@ -2804,6 +2942,42 @@
     },
     {
       "album": {
+        "name": "sleep in",
+        "url": "https://open.spotify.com/album/5DsgOv6IVWT98bHh3zl7F8"
+      },
+      "artists": [
+        {
+          "name": "teddie",
+          "url": "https://open.spotify.com/artist/413K7knAxLgSwXtGFEGuAP"
+        }
+      ],
+      "date_added": "2022-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157876,
+      "name": "sleep in",
+      "url": "https://open.spotify.com/track/6x25b9ZpImUz4pniORsgvA"
+    },
+    {
+      "album": {
+        "name": "sleepwalking",
+        "url": "https://open.spotify.com/album/41eAihxq73pTaEwi28tOrr"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        }
+      ],
+      "date_added": "2022-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174437,
+      "name": "sleepwalking",
+      "url": "https://open.spotify.com/track/1F5MHbpTOrsbTxmMkNs5b3"
+    },
+    {
+      "album": {
         "name": "Slow Burn",
         "url": "https://open.spotify.com/album/26KqpBmvqP47bBK734RAsM"
       },
@@ -2970,6 +3144,24 @@
     },
     {
       "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/45k6gUHqGNX505MDzMz48G"
+      },
+      "artists": [
+        {
+          "name": "Sophie-Maude",
+          "url": "https://open.spotify.com/artist/6UqpAADXa90AcrsczMmq0G"
+        }
+      ],
+      "date_added": "2022-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206100,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/3qAicMUkpMamUQhgMAS3sc"
+    },
+    {
+      "album": {
         "name": "Soft Spot",
         "url": "https://open.spotify.com/album/6A1RyV1mKJszJbk0WfZOrX"
       },
@@ -2985,6 +3177,24 @@
       "duration_ms": 181038,
       "name": "Tantrum in Duet",
       "url": "https://open.spotify.com/track/65vCQzEiKYIU9Uox7RwS4E"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0z8PfudkG3FoO5LrWW4akU"
+      },
+      "artists": [
+        {
+          "name": "Peach PRC",
+          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
+        }
+      ],
+      "date_added": "2022-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186600,
+      "name": "Teenage Dirtbag \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/2Ay91YgsEdMNV8eTzTT5sU"
     },
     {
       "album": {
@@ -3345,7 +3555,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 207786,
       "name": "Weakness",
       "url": "https://open.spotify.com/track/045scjsVsgs4fJtvUgmWtz"
@@ -3515,6 +3725,24 @@
       "duration_ms": 151526,
       "name": "WWYD",
       "url": "https://open.spotify.com/track/4jcWazyJx5dcgFSrP6aOAM"
+    },
+    {
+      "album": {
+        "name": "You Don't Decide",
+        "url": "https://open.spotify.com/album/5S5U2QOZo3o38mY0gVhj59"
+      },
+      "artists": [
+        {
+          "name": "Blake",
+          "url": "https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa"
+        }
+      ],
+      "date_added": "2022-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161512,
+      "name": "You Don't Decide",
+      "url": "https://open.spotify.com/track/1C3JCbvpq16SArd3dxZw5s"
     },
     {
       "album": {

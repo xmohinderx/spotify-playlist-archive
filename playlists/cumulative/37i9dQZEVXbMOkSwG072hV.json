@@ -875,7 +875,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 146100,
       "name": "Baile no Morro",
       "url": "https://open.spotify.com/track/1tVsVXnFbrtvYHMewIbxUC"
@@ -4602,6 +4602,24 @@
     },
     {
       "album": {
+        "name": "Master Of Puppets (Remastered)",
+        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515386,
+      "name": "Master Of Puppets",
+      "url": "https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -7560,6 +7578,28 @@
     },
     {
       "album": {
+        "name": "Separate Ways (Worlds Apart) [Bryce Miller/Alloy Tracks Remix]",
+        "url": "https://open.spotify.com/album/0YzSA7G1hEayfUGlELIe5K"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        },
+        {
+          "name": "Steve Perry",
+          "url": "https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf"
+        }
+      ],
+      "date_added": "2022-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165074,
+      "name": "Separate Ways (Worlds Apart) - Bryce Miller/Alloy Tracks Remix",
+      "url": "https://open.spotify.com/track/0muK9BAzu2TJXQgWPsEj6e"
+    },
+    {
+      "album": {
         "name": "Set Dj Leo Lg",
         "url": "https://open.spotify.com/album/4bIYHP2QeO8KWSQDesvIiJ"
       },
@@ -8247,7 +8287,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 166859,
       "name": "Tek It - Sped Up",
       "url": "https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz"
@@ -9297,10 +9337,32 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 183557,
       "name": "Viva a Vida",
       "url": "https://open.spotify.com/track/4b09ITEnxTgyWfWmC6sfcX"
+    },
+    {
+      "album": {
+        "name": "Vo Bota na Xota Vs na Xota Pock Pock",
+        "url": "https://open.spotify.com/album/66iychj4LMfeNOLJeiMMQg"
+      },
+      "artists": [
+        {
+          "name": "MC Guto VGS",
+          "url": "https://open.spotify.com/artist/62aZgEriKUCni3x4j55BGF"
+        },
+        {
+          "name": "DJ Patrick R",
+          "url": "https://open.spotify.com/artist/0WL2xTzoE0X3Uu0ewOsxaO"
+        }
+      ],
+      "date_added": "2022-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137624,
+      "name": "Vo Bota na Xota Vs na Xota Pock Pock",
+      "url": "https://open.spotify.com/track/4QrDmsnAFp82A6CotCGoZx"
     },
     {
       "album": {

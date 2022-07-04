@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > From the Dance Halls and Honky Tonks across America to the World! Cover: Aaron Watson
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,380 likes - 202 songs - 12 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,466 likes - 202 songs - 12 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

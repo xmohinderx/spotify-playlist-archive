@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 228586,
       "name": "All We Ever Knew - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0PHm9MrfZdEUasfd1XC0n2"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 184773,
       "name": "Burn Out - Recorded At Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/0wFyhPrMt4maLtWmLeG7lq"
@@ -365,6 +365,24 @@
       "duration_ms": 156371,
       "name": "b\u00e9same mucho - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/66JlPySmx98BQnX1xYMIG3"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/26f6iHa9lvKe4T2VqvFyzo"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214004,
+      "name": "C'est La Vie No.2 - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7DRaGgNHhD9ajdYtZ7Muxp"
     },
     {
       "album": {
@@ -433,7 +451,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 220110,
       "name": "Cute - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7GkGGmm8SL7VM07llfsmH0"
@@ -541,7 +559,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 279232,
       "name": "Dreams - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5IwiZFGqfB1Mxw4a7svjw7"
@@ -787,7 +805,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 220812,
       "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/07vS8obfeZbr8H4MgQfXR7"
@@ -913,7 +931,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 218089,
       "name": "Heart Is Full - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6DvsjPkNcB4QoezDPtxsAB"
@@ -967,7 +985,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 241456,
       "name": "Hotel Key - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/1DLguucCi86On4F9TW8CU7"
@@ -1079,7 +1097,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 262826,
       "name": "I Wanna Dance With Somebody (Who Loves Me) - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3Nca5js9xKegX655YZ43Uq"
@@ -1371,7 +1389,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 307769,
       "name": "Love And Happiness - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1OgjvzxeljGaL4LrZmV1Qj"
@@ -1429,7 +1447,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 174128,
       "name": "Love So Soft - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6rz4aPhhNM6PFh3Ar2n07X"
@@ -1509,7 +1527,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 157873,
       "name": "Loving Love - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/32TrdQHB71vT4yOoxE6TVt"
@@ -1729,7 +1747,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 240522,
       "name": "No One - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2slPSwOa6A605bhQkrcSdi"
@@ -1765,7 +1783,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 185014,
       "name": "NY to LA - Recorded at RAK Studios, London",
       "url": "https://open.spotify.com/track/3sJd6nKU4BwyvvwGIrA0I7"
@@ -1819,7 +1837,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 312586,
       "name": "One More Try - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0QeopWycQsDAo0p1sp3OcQ"
@@ -2071,7 +2089,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 227782,
       "name": "Short Court Style - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7E8amR0CdP7lEvVX0TtMWS"
@@ -2147,7 +2165,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 190927,
       "name": "Stay - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4jaiounlhJY1Vd0Vt6lrpB"
@@ -2165,7 +2183,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 244315,
       "name": "Stay - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/62Jyekez6V8uxcxxq5sxRE"
@@ -2219,7 +2237,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 212728,
       "name": "Strangers - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2OODSSTxWK2i6LQvQJD557"
@@ -2435,7 +2453,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 206333,
       "name": "Touch - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7d6W6Tn71IWbxe1K5oU808"
@@ -2655,7 +2673,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 221493,
       "name": "Way Back - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2KsWIjEA3OntFTcnpKk6RG"
@@ -2677,7 +2695,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 184585,
       "name": "What The World Needs Now Is Love - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0h2oCOYgIx2u88ZwPPTSnk"

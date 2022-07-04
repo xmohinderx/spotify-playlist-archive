@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 155794,
       "name": "2oclock (feat. JUNNY)",
       "url": "https://open.spotify.com/track/7LZ2OBh8jEE2k2yn5dpcp9"
@@ -169,7 +169,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 196357,
       "name": "AGAIN (feat. LEON)",
       "url": "https://open.spotify.com/track/0RZPROOanNDDjfGktwqEgL"
@@ -187,7 +187,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 247000,
       "name": "Airport Goodbyes (Prod. The Black Skirts)",
       "url": "https://open.spotify.com/track/6JwLranFvCuvv6PmE2ExyN"
@@ -539,7 +539,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 213053,
       "name": "Bambi",
       "url": "https://open.spotify.com/track/60VaORSJ5x1D4ZPSc0g2En"
@@ -810,6 +810,24 @@
     },
     {
       "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/6HKKRjm2C9QcAgy5ayOtqk"
+    },
+    {
+      "album": {
         "name": "By My Side",
         "url": "https://open.spotify.com/album/6RkSKePFywXU4SlO2R0nRS"
       },
@@ -1043,7 +1061,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 169500,
       "name": "Creamppang",
       "url": "https://open.spotify.com/track/4kPG3bVHSq0cfIIt0LQEsO"
@@ -1131,7 +1149,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 253200,
       "name": "Darling",
       "url": "https://open.spotify.com/track/13Ck1nAjyzdcMCKIQ9Kpkh"
@@ -1281,7 +1299,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 211200,
       "name": "Do It For Love",
       "url": "https://open.spotify.com/track/3tC3R06TJCS4FIN7WD2cE8"
@@ -1299,7 +1317,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 229658,
       "name": "DON'T",
       "url": "https://open.spotify.com/track/49nzDNR4naSzzFWSxXwYYm"
@@ -1339,7 +1357,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 200373,
       "name": "Dope Lovers",
       "url": "https://open.spotify.com/track/6cvbvXaRbQcuv54SjYXP86"
@@ -1795,7 +1813,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 209389,
       "name": "flying to the moon",
       "url": "https://open.spotify.com/track/5YzX30colrYsAWHm2voACK"
@@ -1835,7 +1853,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 211346,
       "name": "For You (Holiday Remix) - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/7I4DnQPWhzZvK79px5UhT5"
@@ -2275,7 +2293,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 198807,
       "name": "How About You?",
       "url": "https://open.spotify.com/track/2lKyx5GVAKJUZ4wXlk3nuD"
@@ -2645,7 +2663,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 235666,
       "name": "Last",
       "url": "https://open.spotify.com/track/1soyZAqoYDKzfEq3xiOKuN"
@@ -2821,7 +2839,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 185241,
       "name": "Lonely Hearts Club",
       "url": "https://open.spotify.com/track/3JiWxOZHyAaSqYBxIBO9C6"
@@ -2941,7 +2959,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 205293,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY"
@@ -3171,7 +3189,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 207493,
       "name": "Make Up",
       "url": "https://open.spotify.com/track/19zsSUEuJNzNA6eqInqyF9"
@@ -3229,7 +3247,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 184833,
       "name": "maybe we need a break",
       "url": "https://open.spotify.com/track/3Lr7NDSn4xKGa1dzMdGkBj"
@@ -3291,7 +3309,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 166546,
       "name": "Mm Mm",
       "url": "https://open.spotify.com/track/1eXBDCUxn41AwVgVIRbeWz"
@@ -3349,7 +3367,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 116086,
       "name": "Movies",
       "url": "https://open.spotify.com/track/294UWedgLQooQs8ETGrNWD"
@@ -3455,7 +3473,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 195013,
       "name": "Nerves",
       "url": "https://open.spotify.com/track/2qwplOI7upNGwg2mLVrraw"
@@ -3667,7 +3685,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 190097,
       "name": "NOT ME!",
       "url": "https://open.spotify.com/track/655YhibeaetlWccj0PYi7W"
@@ -3689,6 +3707,24 @@
       "duration_ms": 149898,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/2LKpQ3ksn1YinHycbalctk"
+    },
+    {
+      "album": {
+        "name": "Nundongja",
+        "url": "https://open.spotify.com/album/2PTCsSugNnA0olmMfw7ScH"
+      },
+      "artists": [
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225895,
+      "name": "Nundongja",
+      "url": "https://open.spotify.com/track/3YYUMVgLZblkHVnzOEPka7"
     },
     {
       "album": {
@@ -4933,7 +4969,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 162365,
       "name": "The Moon (Feat. TAEIL of NCT)",
       "url": "https://open.spotify.com/track/6Qfhu8fcLSY8Tw7syG8hdK"
@@ -4951,7 +4987,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 199999,
       "name": "The Museum",
       "url": "https://open.spotify.com/track/7rJCvHKPS1ASSu8noeUsfN"
@@ -4991,7 +5027,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 220106,
       "name": "These Walls",
       "url": "https://open.spotify.com/track/6WoloXr2PXu8FRYZFtzbij"
@@ -5017,7 +5053,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 215213,
       "name": "This Night",
       "url": "https://open.spotify.com/track/626C6JMdKevCTv10pLeHJf"
@@ -5177,7 +5213,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 200000,
       "name": "Trigger",
       "url": "https://open.spotify.com/track/5PtWJLo7A2G5ZROZJxLXSY"
@@ -5631,7 +5667,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 213913,
       "name": "White Lies (feat. Kvsh)",
       "url": "https://open.spotify.com/track/6Y91iJavfXfioUk4uTtuC0"
@@ -5675,7 +5711,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 196986,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/3vsfL1GdEMvoUs59KERxPx"

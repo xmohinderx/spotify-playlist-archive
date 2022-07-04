@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring jamesjamesjames
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,830 likes - 114 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,958 likes - 114 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 5 | [Joy Squad \- VTSS Remix](https://open.spotify.com/track/4YWa2U6mDcZgKjDG8bqZ6Q) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA), [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Joy Squad / Shellshock \(VTSS & Dubyshkin Remixes\)](https://open.spotify.com/album/3o8z9yU8EHtoQgzgdFR0Cp) | 2:45 |
 | 6 | [in my head](https://open.spotify.com/track/7cWvWr9JTwQ4NFmvgYyNR0) | [joss lockwood](https://open.spotify.com/artist/7c0umSPytMVzf1GT9eL7f2) | [in my head](https://open.spotify.com/album/1kwmTBvSKbt6e03fVrxCGV) | 1:58 |
 | 7 | [BLOOD SUPERNOVA](https://open.spotify.com/track/335asThakDPPTHFVxMEeDn) | [Swan Meat](https://open.spotify.com/artist/20GBDDzRPgnhVRuIjkrSd6) | [BLOOD SUPERNOVA](https://open.spotify.com/album/4cnfIsqfpYz51KPKZUG07m) | 3:58 |
-| 8 | [Nails Matching My Fit](https://open.spotify.com/track/13CDnyCYtI6nytVMQwPYLG) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Shanae](https://open.spotify.com/artist/6DThBRy7oFjMSWQyQoKY9p) | [Nails Matching My Fit](https://open.spotify.com/album/4b735RciIIW2Skt0TOmoK2) | 3:49 |
+| 8 | [Nails Matching My Fit](https://open.spotify.com/track/13CDnyCYtI6nytVMQwPYLG) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Shanae](https://open.spotify.com/artist/4hHwz6dfb9rarQOUGf9ajx) | [Nails Matching My Fit](https://open.spotify.com/album/4b735RciIIW2Skt0TOmoK2) | 3:49 |
 | 9 | [FUN](https://open.spotify.com/track/6Knk2SiTXcSFiVCzXmdev7) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [FUN](https://open.spotify.com/album/1aWAKOolNI0fGss2fcYHjR) | 2:31 |
 | 10 | [Turquoise Hyperfizz](https://open.spotify.com/track/6OKkWaaLFy3yupHMFbrmW9) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Magic Pony Ride](https://open.spotify.com/album/1WZcWo7WBsUdQRCoFwNjXJ) | 5:16 |
 | 11 | [SKYMADE](https://open.spotify.com/track/50JcK5tZ2SwHUhQGW3aL0w) | [DJ Kuroneko](https://open.spotify.com/artist/1utT39CwCZruFdvmbvDusl), [Nanode](https://open.spotify.com/artist/6iWz2UIQJ4lwLBOo6GK4zH) | [SKYMADE](https://open.spotify.com/album/7vgvhGXIYsVANa8YoBQk7w) | 4:02 |

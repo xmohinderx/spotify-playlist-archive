@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-599 songs - 1 day 8 hr 40 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
+600 songs - 1 day 8 hr 43 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,7 +412,8 @@
 | [Pano](https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pano](https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01) | 4:14 | 2021-12-28 | 2022-01-24 |
 | [Pantysito](https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Pantysito](https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW) | 4:00 | 2022-04-12 | 2022-04-30 |
 | [PAPARAZZI](https://open.spotify.com/track/6gxLEbRJlorva6uVRW4gof) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [PAPARAZZI](https://open.spotify.com/album/24SMyN5zmpqjgtlnfbErTP) | 2:44 | 2021-12-27 | 2021-12-29 |
-| [PARADISE](https://open.spotify.com/track/1fa4cA1z1a8Rksf8R6S1sl) | [Liaze](https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1) | [PARADISE](https://open.spotify.com/album/6lLiiVhYLULssJM3SIt7VK) | 3:12 | 2022-06-29 |  |
+| [PARADISE](https://open.spotify.com/track/1fa4cA1z1a8Rksf8R6S1sl) | [Liaze](https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1) | [PARADISE](https://open.spotify.com/album/6lLiiVhYLULssJM3SIt7VK) | 3:12 | 2022-06-29 | 2022-07-04 |
+| [PARADISE](https://open.spotify.com/track/2q7jpVfCtcuRwcur9nQeuC) | [Liaze](https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1) | [MIXED FEELINGS](https://open.spotify.com/album/1ldWJtQGYdE34MP627RCBc) | 3:12 | 2022-07-03 |  |
 | [PARADISE](https://open.spotify.com/track/5YHdRUzLWIJCBv7oSlItvA) | [Liaze](https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1) | [MIXED FEELINGS](https://open.spotify.com/album/5m2L7FNMVpRoLxFCwxP1P2) | 3:14 | 2022-06-21 | 2022-06-30 |
 | [Paradise By the Dashboard Light](https://open.spotify.com/track/7mzHEzbsl5iOvBRuXwReZU) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell](https://open.spotify.com/album/0elHWyUbF2KLuHl8GjlzEM) | 8:28 | 2022-01-23 | 2022-01-30 |
 | [Pasoori](https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB) | [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Pasoori](https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h) | 3:44 | 2022-03-03 | 2022-06-08 |

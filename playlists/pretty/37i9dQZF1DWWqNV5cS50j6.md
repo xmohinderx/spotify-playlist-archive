@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Indie music antimatter\. Cover: Groupthink
 
-[Spotify](https://open.spotify.com/user/spotify) - 650,147 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 650,308 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,15 +14,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 4 | [ZIG ZAGGING](https://open.spotify.com/track/3N1iERegpLyK2hztjYNp0M) | [Asha Imuno](https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT) | [ZIG ZAGGING](https://open.spotify.com/album/79ontCOq1CIxW8gEeFVFvB) | 2:04 |
 | 5 | [99' pollen](https://open.spotify.com/track/5fFUfa9IruZpJfxaB5owcY) | [keni can fly](https://open.spotify.com/artist/2iRA9EyvCr4630D6QOiIiW) | [99' pollen](https://open.spotify.com/album/6L1riIGws8qozuRQJ0rmZi) | 3:11 |
 | 6 | [Forever](https://open.spotify.com/track/08U90Je8ANncSpd6ptxNFt) | [Congee](https://open.spotify.com/artist/1YBrOW1kdkPQEgmS1t6UVm) | [Forever](https://open.spotify.com/album/32RhQbcXcIqxzhaZlXmfFa) | 3:15 |
-| 7 | [ill be okay](https://open.spotify.com/track/2AhAfOSQs8IC7EbTZPNb3j) | [Billy Marchiafava](https://open.spotify.com/artist/27foDL8SBDLivhZNlDsAza) | [ill be okay](https://open.spotify.com/album/0COpjPbB6G8M3ccw6U9wLJ) | 2:31 |
-| 8 | [5 minutes til dawn](https://open.spotify.com/track/1TBTe5ESmikZkYQW6OIAq5) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [5 minutes til dawn](https://open.spotify.com/album/5a7WRlBlbNOegtXakhDzSI) | 2:36 |
-| 9 | [Speedracer](https://open.spotify.com/track/1553AbLOOvznLdnApxX2dO) | [Harrison Lipton](https://open.spotify.com/artist/7q6t9qQSTlcUpHLqTyCSLP), [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7), [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Speedracer](https://open.spotify.com/album/6DfhecdmHLG4t9vcBYXroX) | 3:15 |
-| 10 | [It's Raining](https://open.spotify.com/track/4B1ytqZbISBTSvTnZ0BxgD) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [Stephen Malkmus](https://open.spotify.com/artist/0WISkx0PwT6lYWdPqKUJY8), [Dylan Cartlidge](https://open.spotify.com/artist/0ofvvakxXcRhIy5fgIoB9z) | [It’s Raining](https://open.spotify.com/album/2Pk7fxkQyEAlQTQJxkWQ0V) | 3:12 |
-| 11 | [Vest & Boxers](https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/1Grk1vw2BVPcwvci9xcHy1) | 2:57 |
-| 12 | [PASSENGER](https://open.spotify.com/track/6am5t6aado8ApWWuJIxHQS) | [papa mbye](https://open.spotify.com/artist/5JVtTuCBPvUOTZ2YjrAPTp) | [PASSENGER](https://open.spotify.com/album/1pafNIcIArSVHimtIIh0SS) | 3:23 |
-| 13 | [Tattoos](https://open.spotify.com/track/7I68hTitgzvnxr9oUdUwmS) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Tattoos](https://open.spotify.com/album/4iH2XqPAfcKaSyxHGrAxCK) | 2:08 |
-| 14 | [Share Ur Feelings](https://open.spotify.com/track/6XeFSQd5hMclo2nxUgZR2d) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Share Ur Feelings](https://open.spotify.com/album/7g7rYAQQ0qMQNarD8fMh7X) | 3:00 |
-| 15 | [Ester](https://open.spotify.com/track/4JGv7vVgZvj5eTh4lecMBS) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [Ester](https://open.spotify.com/album/4fRVpyAnoJZy0n1VQjAlNo) | 3:05 |
+| 7 | [5 minutes til dawn](https://open.spotify.com/track/1TBTe5ESmikZkYQW6OIAq5) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [5 minutes til dawn](https://open.spotify.com/album/5a7WRlBlbNOegtXakhDzSI) | 2:36 |
+| 8 | [Speedracer](https://open.spotify.com/track/1553AbLOOvznLdnApxX2dO) | [Harrison Lipton](https://open.spotify.com/artist/7q6t9qQSTlcUpHLqTyCSLP), [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7), [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Speedracer](https://open.spotify.com/album/6DfhecdmHLG4t9vcBYXroX) | 3:15 |
+| 9 | [It's Raining](https://open.spotify.com/track/4B1ytqZbISBTSvTnZ0BxgD) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [Stephen Malkmus](https://open.spotify.com/artist/0WISkx0PwT6lYWdPqKUJY8), [Dylan Cartlidge](https://open.spotify.com/artist/0ofvvakxXcRhIy5fgIoB9z) | [It’s Raining](https://open.spotify.com/album/2Pk7fxkQyEAlQTQJxkWQ0V) | 3:12 |
+| 10 | [Vest & Boxers](https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/1Grk1vw2BVPcwvci9xcHy1) | 2:57 |
+| 11 | [PASSENGER](https://open.spotify.com/track/6am5t6aado8ApWWuJIxHQS) | [papa mbye](https://open.spotify.com/artist/5JVtTuCBPvUOTZ2YjrAPTp) | [PASSENGER](https://open.spotify.com/album/1pafNIcIArSVHimtIIh0SS) | 3:23 |
+| 12 | [Tattoos](https://open.spotify.com/track/7I68hTitgzvnxr9oUdUwmS) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Tattoos](https://open.spotify.com/album/4iH2XqPAfcKaSyxHGrAxCK) | 2:08 |
+| 13 | [Share Ur Feelings](https://open.spotify.com/track/6XeFSQd5hMclo2nxUgZR2d) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Share Ur Feelings](https://open.spotify.com/album/7g7rYAQQ0qMQNarD8fMh7X) | 3:00 |
+| 14 | [Ester](https://open.spotify.com/track/4JGv7vVgZvj5eTh4lecMBS) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [Ester](https://open.spotify.com/album/4fRVpyAnoJZy0n1VQjAlNo) | 3:05 |
+| 15 | [ill be okay](https://open.spotify.com/track/2AhAfOSQs8IC7EbTZPNb3j) | [Billy Marchiafava](https://open.spotify.com/artist/27foDL8SBDLivhZNlDsAza) | [ill be okay](https://open.spotify.com/album/0COpjPbB6G8M3ccw6U9wLJ) | 2:31 |
 | 16 | [Slow D's](https://open.spotify.com/track/7pZsJo9EVCNQgoIAZDuBNM) | [Lully](https://open.spotify.com/artist/1NvmP6svMv6qjhaCM35vRQ) | [Slow D's](https://open.spotify.com/album/5c4w6MzJSWLnFjocjp9QAj) | 3:33 |
 | 17 | [Ssx](https://open.spotify.com/track/1eCImHqurFCsE6du2nF6jh) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [Vol\. 1](https://open.spotify.com/album/5HanfTZtL71gW1KGgg1HMA) | 3:36 |
 | 18 | [PORN ACTING\*](https://open.spotify.com/track/5BkazOzXKqpVE4RI7Dbxnw) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [PORN ACTING\*](https://open.spotify.com/album/6yUbpBVYQGs6Me7cRHBi91) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 99 | [VERY ALONE](https://open.spotify.com/track/1LCgehdvJ91SgSRuI7Ez90) | [Zaia](https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz) | [VERY ALONE](https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK) | 2:11 |
 | 100 | [whitegold](https://open.spotify.com/track/1xqLOYIMiNoCduM983ibjk) | [whiterosemoxie](https://open.spotify.com/artist/3XlPXxJwM5utJ5D0PiBugV) | [whitegold](https://open.spotify.com/album/1XRIpP2HiwRx1XjEM6CJGx) | 2:33 |
 
-Snapshot ID: `MTY1NjcwMzM3OSwwMDAwMzQ2MTAwMDAwMTgxYmIzNzY3NzAwMDAwMDE4MThjZDM0OGYx`
+Snapshot ID: `MTY1Njg2OTY5MywwMDAwMzQ2MjAwMDAwMTgxYzUyMTI4ZmIwMDAwMDE4MThjZDM0OGYx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 
 > POV: you're a rockstar in the battle of the bands, curated by Jaeden Martell from Metal Lords\. Stay tuned for curation from other Netflix talent!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,953 likes - 21 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,964 likes - 21 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

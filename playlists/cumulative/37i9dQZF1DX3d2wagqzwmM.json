@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 145312,
       "name": "AIR",
       "url": "https://open.spotify.com/track/7LCsrG7NKsd1gb7dVT2qxk"
@@ -151,7 +151,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 213007,
       "name": "Apollo - SICK INDIVIDUALS Remix",
       "url": "https://open.spotify.com/track/7BhDnbKnRvTUcgzFMJ5aok"
@@ -173,7 +173,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 184826,
       "name": "Arabian Nights",
       "url": "https://open.spotify.com/track/3e9lh8yGoVFBfOWt9e3imb"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 161674,
       "name": "Beat Of My Heart",
       "url": "https://open.spotify.com/track/5lHKO6KzDJELesoxLFiASz"
@@ -389,7 +389,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 162460,
       "name": "Bring It Back To Me",
       "url": "https://open.spotify.com/track/5pqm3ulg0pXHgJ53dHpP23"
@@ -407,7 +407,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 162869,
       "name": "Bring It Home",
       "url": "https://open.spotify.com/track/5psWU2jGCGr96IkgqHsHHs"
@@ -672,6 +672,28 @@
     },
     {
       "album": {
+        "name": "Desperados",
+        "url": "https://open.spotify.com/album/2RAmbNzSxiLvTviNhN3Txi"
+      },
+      "artists": [
+        {
+          "name": "Jaxx & Vega",
+          "url": "https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w"
+        },
+        {
+          "name": "Husman",
+          "url": "https://open.spotify.com/artist/38IfmizrHTCxFjd8UKhWnp"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "Desperados",
+      "url": "https://open.spotify.com/track/5TfhLuYY0owNLfJ0b8DaVr"
+    },
+    {
+      "album": {
         "name": "Don't You Want Me",
         "url": "https://open.spotify.com/album/6cGN6MEAMsWtglYJXwb1Af"
       },
@@ -705,7 +727,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 225000,
       "name": "DOPAMINE",
       "url": "https://open.spotify.com/track/151txDMLIDSM09ck9bzrXy"
@@ -811,7 +833,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 195000,
       "name": "Dust",
       "url": "https://open.spotify.com/track/5p4ZYlGkKTOJHcrVKY4j2L"
@@ -877,7 +899,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "Fall",
       "url": "https://open.spotify.com/track/77gg2iID0drmIb7bvj3pqo"
@@ -1328,6 +1350,28 @@
     },
     {
       "album": {
+        "name": "Here For You",
+        "url": "https://open.spotify.com/album/5hTj9b6fi06IiQCtwpIUOi"
+      },
+      "artists": [
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        },
+        {
+          "name": "Magnificence",
+          "url": "https://open.spotify.com/artist/5zfDGV6C2Xwns1g773GF3N"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184687,
+      "name": "Here For You",
+      "url": "https://open.spotify.com/track/6bKPbGoNajOURIcz6scBaO"
+    },
+    {
+      "album": {
         "name": "Hero (Dubvision Remix)",
         "url": "https://open.spotify.com/album/35sT9OK0TguT214N9u70rS"
       },
@@ -1369,7 +1413,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 154545,
       "name": "Huang",
       "url": "https://open.spotify.com/track/2LQNjxWyhEsFhVxnwLrmSB"
@@ -1511,7 +1555,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 208095,
       "name": "Kill Me Slow",
       "url": "https://open.spotify.com/track/2NZJKUPIGfJqLAzONNr4gv"
@@ -1777,7 +1821,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 200876,
       "name": "Mother & Father",
       "url": "https://open.spotify.com/track/74XoMDxaS0blbuxeVqdOyl"
@@ -1869,7 +1913,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 179980,
       "name": "No Illusions",
       "url": "https://open.spotify.com/track/1f3CqEw0F1134cqpfP8l4c"
@@ -1971,7 +2015,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 180047,
       "name": "Out Of My Mind",
       "url": "https://open.spotify.com/track/2wSudk1Z9HMdPNrWnwu6mc"
@@ -2025,7 +2069,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 147656,
       "name": "Peru",
       "url": "https://open.spotify.com/track/5GTboKbndutgM0oJOMpzTC"
@@ -2043,7 +2087,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 262285,
       "name": "PYDNA",
       "url": "https://open.spotify.com/track/4Mx6HSutoU1rg1jCvc5kuF"
@@ -2589,7 +2633,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 148910,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/7phNeOILik5KVqhANASZOI"
@@ -2745,7 +2789,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 267433,
       "name": "The Launch",
       "url": "https://open.spotify.com/track/7peqYrbdxhtRCg8rDp3gok"
@@ -2819,7 +2863,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 162461,
       "name": "The Passenger (LaLaLa) [feat. MOKABY] - Gabry Ponte Festival Mix",
       "url": "https://open.spotify.com/track/0LpWBNqyyn81WnoILV9mxV"
@@ -2979,7 +3023,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 196363,
       "name": "Unity",
       "url": "https://open.spotify.com/track/3D6j3Bh134C02qhpZR9xUK"
@@ -3107,7 +3151,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 195387,
       "name": "We Love Hardcore",
       "url": "https://open.spotify.com/track/5HUEkmgvW0nVojSP1lZasg"
@@ -3159,7 +3203,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 196521,
       "name": "Yama",
       "url": "https://open.spotify.com/track/6IDkdabcsyZmLQDCMtp6An"

@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Ray Laurél
 
-938 songs - 2 day 7 hr 52 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
+939 songs - 2 day 7 hr 55 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,6 +325,7 @@
 | [Glasgow \- Edit](https://open.spotify.com/track/0fbloYbpEh4pJljGYKn24o) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k) | [Glasgow](https://open.spotify.com/album/1t2DMbdSiAKi75cbTTqKDz) | 3:49 | 2022-06-16 |  |
 | [Glimmer](https://open.spotify.com/track/0p8La7Sz6cNeYsqzXYtPgX) | [FOZSA](https://open.spotify.com/artist/0oHNluZt2ANbFvSo60xDO6) | [Glimmer](https://open.spotify.com/album/2LzYH8fpfnEaPBTMTdoRMm) | 3:46 | 2020-09-29\* | 2020-10-23 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-09 |  |
+| [Glow in the Dark \(feat\. Rudimental\)](https://open.spotify.com/track/5g4XO4YK1cOocEsHMVmd62) | [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Glow in the Dark \(feat\. Rudimental\)](https://open.spotify.com/album/7JzvqMtcSKjenf80seUPxq) | 2:50 | 2022-07-03 |  |
 | [Glowing in the Dark](https://open.spotify.com/track/4V0nJR3AfJI4J13297ga7u) | [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab) | [Glowing in the Dark](https://open.spotify.com/album/04LKchTCKFSGU8LPnAmeWS) | 2:59 | 2020-11-13 | 2021-01-15 |
 | [Go \- Radio Edit](https://open.spotify.com/track/5Z6Ur8oNoKfDzIdi0wMD1Y) | [James Alexander Bright](https://open.spotify.com/artist/3Es7r3RmlcHHXqHM723JLC) | [Go \(Radio Edit\)](https://open.spotify.com/album/4hlEAUdIANoFdaZwyKsLy1) | 3:00 | 2020-09-29\* | 2020-10-30 |
 | [Go Dancing \(feat\. Fryars\)](https://open.spotify.com/track/5gxd09Fnkylal8TLCAVvNv) | [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst), [Fryars](https://open.spotify.com/artist/3yBP9gfyXm9T4oaqSNKAKg) | [Go Dancing \(feat\. Fryars\)](https://open.spotify.com/album/24z1u6qVeGPWVQlq4JjDMi) | 4:35 | 2022-05-05 |  |

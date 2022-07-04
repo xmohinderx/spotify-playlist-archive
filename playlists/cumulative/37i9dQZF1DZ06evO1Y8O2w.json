@@ -299,7 +299,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 358093,
       "name": "Everything I Have Is Good (feat. Norman Connors & Phyllis Hyman)",
       "url": "https://open.spotify.com/track/44Ju7KqdFitKeI5v66O250"
@@ -486,6 +486,24 @@
     },
     {
       "album": {
+        "name": "Prime Of My Life",
+        "url": "https://open.spotify.com/album/3Zt8flubel6shc4b9kmt2f"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "date_added": "2022-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261733,
+      "name": "I Can't Take It Anymore",
+      "url": "https://open.spotify.com/track/4UpYbeKgedoORPEMefqi5a"
+    },
+    {
+      "album": {
         "name": "The Essential Phyllis Hyman",
         "url": "https://open.spotify.com/album/6VUEth5sqgE8jceRauguLC"
       },
@@ -515,7 +533,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 328373,
       "name": "I Don't Want to Lose You",
       "url": "https://open.spotify.com/track/0anlJjyEo8JQTtOyhawl9G"
@@ -533,7 +551,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 266040,
       "name": "I Found Love",
       "url": "https://open.spotify.com/track/5K3PneofTHEwyxmk3WBKW9"
@@ -919,7 +937,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 250453,
       "name": "Riding the Tiger - Single Mix",
       "url": "https://open.spotify.com/track/47O67rbzd7mokTaQu1CbpL"
@@ -1341,7 +1359,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 284853,
       "name": "Your Move, My Heart",
       "url": "https://open.spotify.com/track/2hsYj0BZHBOj9aXTCEh13l"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione di rapper italiani\. Cover: Papa V, Nerissima Serpe
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,043 likes - 55 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,045 likes - 55 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

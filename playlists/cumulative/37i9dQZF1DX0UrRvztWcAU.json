@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 211453,
       "name": "7 Minutes",
       "url": "https://open.spotify.com/track/2BkyYZmU4JuWW2sYi9EzpC"
@@ -425,7 +425,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 205250,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/6lD9nDl7jBUSIPDMAMZjuD"
@@ -743,7 +743,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 208214,
       "name": "Brooklyn In The Summer",
       "url": "https://open.spotify.com/track/3umkzHosXJRxujeCjIhRmU"
@@ -943,7 +943,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 215315,
       "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
       "url": "https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny"
@@ -1209,7 +1209,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 188440,
       "name": "Costa Rica",
       "url": "https://open.spotify.com/track/6iM9PebIqd6fiUlcxm4Fkp"
@@ -3015,7 +3015,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 177666,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/4wQD0djo6Id4fQLQeRKQ6e"
@@ -3099,7 +3099,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 197400,
       "name": "Keep On Movin'",
       "url": "https://open.spotify.com/track/0mrU1w2UMIZnR2I6oguwGz"
@@ -3447,7 +3447,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 215265,
       "name": "Love You Right",
       "url": "https://open.spotify.com/track/0eOK06PrPsSJ9rswCHaC50"
@@ -3999,7 +3999,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 206040,
       "name": "Picture Of You",
       "url": "https://open.spotify.com/track/2AlVWg58iy4Cx6KqD0XYu2"
@@ -4147,7 +4147,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 209047,
       "name": "Ready To Love You",
       "url": "https://open.spotify.com/track/2gJIL7h1fCpFh6NjCZUJyQ"
@@ -5001,7 +5001,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 187711,
       "name": "Teenage Minds",
       "url": "https://open.spotify.com/track/5LVCtUQQOr1JmwdUufLaw7"
@@ -5299,7 +5299,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 198156,
       "name": "Totally (feat. Jon Eyden)",
       "url": "https://open.spotify.com/track/3dY2OHsFFN0oWYgJbrxsxl"
@@ -5658,6 +5658,24 @@
     },
     {
       "album": {
+        "name": "What A Night",
+        "url": "https://open.spotify.com/album/5x8srROrtSoC8dCCj6XtHf"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124592,
+      "name": "What A Night",
+      "url": "https://open.spotify.com/track/3FUlqltjiMMJdyEPaYAUqK"
+    },
+    {
+      "album": {
         "name": "What I Like About You (feat. Theresa Rex)",
         "url": "https://open.spotify.com/album/6gPZmYBSipug1asf4zu9jh"
       },
@@ -5821,7 +5839,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 205653,
       "name": "Wish You Well",
       "url": "https://open.spotify.com/track/1yAPglN5AGf7UoLK062ZYq"
@@ -6005,7 +6023,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 197200,
       "name": "Your Side Of The Bed",
       "url": "https://open.spotify.com/track/4foROzWuWa3fED6jc6BjK1"
@@ -6045,7 +6063,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 210000,
       "name": "Yung Luv",
       "url": "https://open.spotify.com/track/4Xx4oojaE3MlJKpgtilgp1"

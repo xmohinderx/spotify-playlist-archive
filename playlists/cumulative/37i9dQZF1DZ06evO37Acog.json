@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 174692,
       "name": "Carino Mio",
       "url": "https://open.spotify.com/track/0jobOWmn5t5VmSXkld0SWi"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 208240,
       "name": "Copa Tras Copa",
       "url": "https://open.spotify.com/track/27Rg03fybbYtpqddr7RhAx"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 201440,
       "name": "Corrido De Chito Cano",
       "url": "https://open.spotify.com/track/0rbIlYG7SYNXL8cwE1keGA"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 207506,
       "name": "Donde Estas - (En Vivo)",
       "url": "https://open.spotify.com/track/2EUD3y0s05HTyxex8m9Sah"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 156920,
       "name": "La Latosa",
       "url": "https://open.spotify.com/track/74aQZ1NHn8RjsZKGgCKZ7p"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 183000,
       "name": "Linda Chiquilla - (En Vivo)",
       "url": "https://open.spotify.com/track/3P1s3K8V03Dhwq4o6LDAWH"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 138226,
       "name": "L\u00e1grimas",
       "url": "https://open.spotify.com/track/2NGw51VQMr7suG30O3iFsF"
@@ -631,28 +631,10 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 212666,
       "name": "Me Llega, Me Llega",
       "url": "https://open.spotify.com/track/4IfVVQ9w59vx0eoepbO9Mu"
-    },
-    {
-      "album": {
-        "name": "PURA MUSICA DE CANTINA",
-        "url": "https://open.spotify.com/album/17S07IHyOj067N2Q7ffz4Z"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "date_added": "2022-06-28",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
-      "duration_ms": 29048,
-      "name": "Me Sacaron Del Tenampa",
-      "url": "https://open.spotify.com/track/6Z5SW8KHzO5A1ETdYkVZhi"
     },
     {
       "album": {
@@ -671,6 +653,24 @@
       "duration_ms": 157933,
       "name": "Me Sacaron del Tenampa",
       "url": "https://open.spotify.com/track/1D6YQw9yPionscrYA1wycI"
+    },
+    {
+      "album": {
+        "name": "PURA MUSICA DE CANTINA",
+        "url": "https://open.spotify.com/album/17S07IHyOj067N2Q7ffz4Z"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177826,
+      "name": "Me Sacaron Del Tenampa",
+      "url": "https://open.spotify.com/track/6Z5SW8KHzO5A1ETdYkVZhi"
     },
     {
       "album": {
@@ -757,7 +757,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-04",
       "duration_ms": 235706,
       "name": "M\u00e1ndame A La Tumba",
       "url": "https://open.spotify.com/track/0b0cFie5DLwExBHq0Oo7oi"
@@ -829,7 +829,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 172306,
       "name": "Pero Ya No Puedo M\u00e1s",
       "url": "https://open.spotify.com/track/5FOUvS4T19gUE0wHrWO5sd"
@@ -1153,7 +1153,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 189506,
       "name": "Volv\u00ed A Mi Finca De Adobe",
       "url": "https://open.spotify.com/track/7CJSiAMo8EUdQde8Tv1wJp"
