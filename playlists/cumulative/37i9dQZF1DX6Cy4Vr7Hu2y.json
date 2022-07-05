@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 275200,
       "name": "#tb",
       "url": "https://open.spotify.com/track/3OboGw2I8oYsEHeCrZ7NLT"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 209482,
       "name": "All about you",
       "url": "https://open.spotify.com/track/7fftC401ke4BzA3ucPIXES"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 215366,
       "name": "Be Happy",
       "url": "https://open.spotify.com/track/7nbJ3glHErMd2tcDbTYvrU"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 185796,
       "name": "BIRTHDAY",
       "url": "https://open.spotify.com/track/3jsWXhE5NuPWQ4IHplv2zt"
@@ -913,7 +913,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 199533,
       "name": "Door",
       "url": "https://open.spotify.com/track/3FxEYn2E7dT5A5DT4luQGK"
@@ -1057,7 +1057,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 208022,
       "name": "Falling",
       "url": "https://open.spotify.com/track/3cs3lGvmdiksYhEn8nnslm"
@@ -1418,6 +1418,24 @@
     },
     {
       "album": {
+        "name": "HIT YA!",
+        "url": "https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9"
+      },
+      "artists": [
+        {
+          "name": "Lapillus",
+          "url": "https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201724,
+      "name": "HIT YA!",
+      "url": "https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx"
+    },
+    {
+      "album": {
         "name": "\u5bb9 : FACE",
         "url": "https://open.spotify.com/album/6eSFX12WIqUtmGsD8UO3FT"
       },
@@ -1621,7 +1639,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 229640,
       "name": "Island",
       "url": "https://open.spotify.com/track/0frFK9RPyxL8eJnMjqUm4t"
@@ -1697,7 +1715,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 189052,
       "name": "Kill This Love",
       "url": "https://open.spotify.com/track/0M98PvIvx7vZ8LDpzMw1hB"
@@ -1845,7 +1863,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 215840,
       "name": "Let\u2019s Dance For Me \ubaa8\ub974\uaca0\uace0\uc694, \ucda4\uc744 \ucdb0\uc694",
       "url": "https://open.spotify.com/track/0Movj8s4Amm8ax9y8Y6irk"
@@ -1975,7 +1993,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 216973,
       "name": "Love In Space",
       "url": "https://open.spotify.com/track/0lML1OdwDWQIyGF3i9vk2y"
@@ -2213,7 +2231,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 197479,
       "name": "My Trouble",
       "url": "https://open.spotify.com/track/0OQQTmbThttTpDoF4t5DmP"
@@ -2231,7 +2249,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 259885,
       "name": "NA YEOSS EU MYEON",
       "url": "https://open.spotify.com/track/5VnJMPXdPc9p5arVZRHj8O"
@@ -2563,7 +2581,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 194157,
       "name": "POP",
       "url": "https://open.spotify.com/track/2FzMEX0nP9tFd6phID2tm8"
@@ -3021,7 +3039,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 207906,
       "name": "See Sea, BAE",
       "url": "https://open.spotify.com/track/1FaFCInUMdizjVUKkMZxro"
@@ -3173,7 +3191,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 204277,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/6gPPFsA1cM8UPQfZydxb0K"
@@ -3227,7 +3245,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 225647,
       "name": "Spring Is You",
       "url": "https://open.spotify.com/track/3Vv0IqW9jA8EDKd3iWNutD"
@@ -3615,7 +3633,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 227198,
       "name": "Trip \uc5ec\ud589",
       "url": "https://open.spotify.com/track/78iqyVhGvzdGL1WUflBpAl"
@@ -3869,7 +3887,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 191758,
       "name": "We'll be alright",
       "url": "https://open.spotify.com/track/28b6eAJ9TMthHN7BWylfnM"
@@ -3887,7 +3905,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 167746,
       "name": "What Do I Call You",
       "url": "https://open.spotify.com/track/3Wu4lFjkhcXxB6WWaX9gtr"
@@ -4053,7 +4071,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 255496,
       "name": "X",
       "url": "https://open.spotify.com/track/5FOnZ5yGWaKk0bxHOigYQk"
@@ -4125,7 +4143,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 215399,
       "name": "You are crying",
       "url": "https://open.spotify.com/track/1RzGO4GqUocNck4l8iTD5r"

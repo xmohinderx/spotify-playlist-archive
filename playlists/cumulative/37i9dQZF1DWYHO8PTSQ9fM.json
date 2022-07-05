@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Les hits Maghr\u00e9bins du moment sont ici. Cover : Kouz1.",
+  "description": "Les hits Maghr\u00e9bins du moment sont ici. Cover : DYSTINCT.",
   "name": "Hot Hits Maghreb",
   "published_playlist_ids": [
     "5fjwJv8oqkWtmz8CqfcbMQ"
@@ -63,6 +63,24 @@
       "duration_ms": 259591,
       "name": "Allo - \u0627\u0644\u0648",
       "url": "https://open.spotify.com/track/1mYKk7dWVDcfn8lTJ6CKJV"
+    },
+    {
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
       "album": {
@@ -924,6 +942,28 @@
     },
     {
       "album": {
+        "name": "Roma (Radio Edit)",
+        "url": "https://open.spotify.com/album/2GJHVDoh0vr3FLmZ0qNVAv"
+      },
+      "artists": [
+        {
+          "name": "Chemsou Freeklane",
+          "url": "https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h"
+        },
+        {
+          "name": "Sanfara",
+          "url": "https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "Roma - Radio Edit",
+      "url": "https://open.spotify.com/track/2o9x8x12rRTN7XJi8xAQTG"
+    },
+    {
+      "album": {
         "name": "Sabra",
         "url": "https://open.spotify.com/album/7DTt8yVftsh8Gi0opaE74z"
       },
@@ -989,7 +1029,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 133886,
       "name": "Sparadra",
       "url": "https://open.spotify.com/track/78N2ZYtm1Lk5KHMZcGu4MX"
@@ -1251,7 +1291,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 239253,
       "name": "\u0643\u064a\u0641\u0627\u0634 \u0646\u062e\u0644\u064a\u0643",
       "url": "https://open.spotify.com/track/0oaCbb3lplo9YIjdlwLspn"

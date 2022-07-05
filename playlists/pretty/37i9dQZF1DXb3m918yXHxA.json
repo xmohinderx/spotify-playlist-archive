@@ -1,28 +1,28 @@
 {
   "description": "Cruise to the smooth grooves of these yacht rock tunes",
-  "num_followers": 1228791,
+  "num_followers": 1229832,
   "original_name": "Yacht Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Njg5OTgxNSwwMDAwMDAwMDgyZTI1Y2ZjOTFkNjM1NjllZGYwNjE1NmRhY2FjMzIx",
+  "snapshot_id": "MTY1Njk4NTk3MCwwMDAwMDAwMDk2YTdjMTU5YzE0NDQ4YjNmNDg0NmNlNTIwOTY0MGQx",
   "tracks": [
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
-        "name": "Eagles (2013 Remaster)",
-        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
+        "name": "A Decade Of Steely Dan",
+        "url": "https://open.spotify.com/album/3HDO2EYXQXzFVK7fmXSpqs"
       },
       "artists": [
         {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
         }
       ],
-      "duration_ms": 211577,
-      "name": "Take It Easy - 2013 Remaster",
-      "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
+      "duration_ms": 277600,
+      "name": "Reelin' In The Years",
+      "url": "https://open.spotify.com/track/1Vet0EkiVZ8pTixwJEaCVb"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -179,18 +179,18 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
-        "name": "A Decade Of Steely Dan",
-        "url": "https://open.spotify.com/album/3HDO2EYXQXzFVK7fmXSpqs"
+        "name": "Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
       },
       "artists": [
         {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
         }
       ],
-      "duration_ms": 277600,
-      "name": "Reelin' In The Years",
-      "url": "https://open.spotify.com/track/1Vet0EkiVZ8pTixwJEaCVb"
+      "duration_ms": 211577,
+      "name": "Take It Easy - 2013 Remaster",
+      "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -275,6 +275,22 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
+        "name": "Aja",
+        "url": "https://open.spotify.com/album/51XjnQQ9SR8VSEpxPO9vrW"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 240293,
+      "name": "Peg",
+      "url": "https://open.spotify.com/track/5DQAHkO9U4IZIombHefcqK"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
         "name": "Daryl Hall & John Oates (The Silver Album)",
         "url": "https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 185293,
       "name": "Sara Smile",
       "url": "https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
-        "name": "Dance With Me: The Best Of Orleans",
-        "url": "https://open.spotify.com/album/43inWGDznUuVwJoIX0jKtl"
-      },
-      "artists": [
-        {
-          "name": "Orleans",
-          "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
-        }
-      ],
-      "duration_ms": 180479,
-      "name": "Dance with Me",
-      "url": "https://open.spotify.com/track/2GORop0i2cyx8C0A3JzL44"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -327,22 +327,6 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
-        "name": "Gaucho",
-        "url": "https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 307400,
-      "name": "Hey Nineteen",
-      "url": "https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
         "name": "Thunder Island",
         "url": "https://open.spotify.com/album/2ICj5EvbtucP1EeMID4zBj"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 240693,
       "name": "Thunder Island",
       "url": "https://open.spotify.com/track/3FkQN4NyCFlfn7fWzBkWCj"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
+        "name": "Dance With Me: The Best Of Orleans",
+        "url": "https://open.spotify.com/album/43inWGDznUuVwJoIX0jKtl"
+      },
+      "artists": [
+        {
+          "name": "Orleans",
+          "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
+        }
+      ],
+      "duration_ms": 180479,
+      "name": "Dance with Me",
+      "url": "https://open.spotify.com/track/2GORop0i2cyx8C0A3JzL44"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -411,24 +411,8 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
-        "name": "The Essential Daryl Hall & John Oates",
-        "url": "https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 190706,
-      "name": "You Make My Dreams (Come True)",
-      "url": "https://open.spotify.com/track/2dlEdDEmuQsrcXaAL3Znzi"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
-        "name": "Aja",
-        "url": "https://open.spotify.com/album/51XjnQQ9SR8VSEpxPO9vrW"
+        "name": "Gaucho",
+        "url": "https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L"
       },
       "artists": [
         {
@@ -436,25 +420,9 @@
           "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
         }
       ],
-      "duration_ms": 240293,
-      "name": "Peg",
-      "url": "https://open.spotify.com/track/5DQAHkO9U4IZIombHefcqK"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
-        "name": "A Rock And Roll Alternative",
-        "url": "https://open.spotify.com/album/5vC0MxBXL4i9iowdXSx4yO"
-      },
-      "artists": [
-        {
-          "name": "Atlanta Rhythm Section",
-          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
-        }
-      ],
-      "duration_ms": 260866,
-      "name": "So Into You",
-      "url": "https://open.spotify.com/track/3Sm5TYFgMXyXwgAcY2xweX"
+      "duration_ms": 307400,
+      "name": "Hey Nineteen",
+      "url": "https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -475,6 +443,38 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
+        "name": "A Rock And Roll Alternative",
+        "url": "https://open.spotify.com/album/5vC0MxBXL4i9iowdXSx4yO"
+      },
+      "artists": [
+        {
+          "name": "Atlanta Rhythm Section",
+          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
+        }
+      ],
+      "duration_ms": 260866,
+      "name": "So Into You",
+      "url": "https://open.spotify.com/track/3Sm5TYFgMXyXwgAcY2xweX"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
+        "name": "The Essential Daryl Hall & John Oates",
+        "url": "https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 190706,
+      "name": "You Make My Dreams (Come True)",
+      "url": "https://open.spotify.com/track/2dlEdDEmuQsrcXaAL3Znzi"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
         "name": "Five-A-Side",
         "url": "https://open.spotify.com/album/5hC1ciYNtewV8gncsKHt1F"
       },
@@ -487,6 +487,22 @@
       "duration_ms": 204226,
       "name": "How Long",
       "url": "https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
+        "name": "A Decade Of Steely Dan",
+        "url": "https://open.spotify.com/album/68HbhACgHQvDhfMIzQYt8P"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 290160,
+      "name": "FM",
+      "url": "https://open.spotify.com/track/0zw5bUUdOxVLBGMsb0SuBh"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -525,22 +541,6 @@
       "url": "https://open.spotify.com/track/6dnco8haegnJYtylV26cBq"
     },
     {
-      "added_at": "2022-04-28 19:50:17",
-      "album": {
-        "name": "Sundown",
-        "url": "https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y"
-      },
-      "artists": [
-        {
-          "name": "Gordon Lightfoot",
-          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "Sundown",
-      "url": "https://open.spotify.com/track/0SjnBEHZVXgCKvOrpvzL2k"
-    },
-    {
       "added_at": "2022-02-12 04:59:37",
       "album": {
         "name": "Love Will Keep Us Together",
@@ -557,36 +557,20 @@
       "url": "https://open.spotify.com/track/4pCNJwixy2ImFncaPY2yE2"
     },
     {
-      "added_at": "2022-02-12 04:59:37",
+      "added_at": "2022-04-28 19:50:17",
       "album": {
-        "name": "A Decade Of Steely Dan",
-        "url": "https://open.spotify.com/album/68HbhACgHQvDhfMIzQYt8P"
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y"
       },
       "artists": [
         {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+          "name": "Gordon Lightfoot",
+          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
         }
       ],
-      "duration_ms": 290160,
-      "name": "FM",
-      "url": "https://open.spotify.com/track/0zw5bUUdOxVLBGMsb0SuBh"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
-        "name": "Worlds Away",
-        "url": "https://open.spotify.com/album/4aYsq7sHYon9fInMOboyfK"
-      },
-      "artists": [
-        {
-          "name": "Pablo Cruise",
-          "url": "https://open.spotify.com/artist/3Y5abCLsMxsOLaZ8rYusSR"
-        }
-      ],
-      "duration_ms": 251426,
-      "name": "Love Will Find A Way",
-      "url": "https://open.spotify.com/track/2LqzuRukwnpeWYLXBtiwmq"
+      "duration_ms": 213400,
+      "name": "Sundown",
+      "url": "https://open.spotify.com/track/0SjnBEHZVXgCKvOrpvzL2k"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -607,18 +591,34 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
-        "name": "Christopher Cross",
-        "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
+        "name": "Worlds Away",
+        "url": "https://open.spotify.com/album/4aYsq7sHYon9fInMOboyfK"
       },
       "artists": [
         {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+          "name": "Pablo Cruise",
+          "url": "https://open.spotify.com/artist/3Y5abCLsMxsOLaZ8rYusSR"
         }
       ],
-      "duration_ms": 275506,
-      "name": "Ride Like the Wind",
-      "url": "https://open.spotify.com/track/7gUMShP1l20tC0xf17Zplk"
+      "duration_ms": 251426,
+      "name": "Love Will Find A Way",
+      "url": "https://open.spotify.com/track/2LqzuRukwnpeWYLXBtiwmq"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
+        "name": "City to City",
+        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
+      },
+      "artists": [
+        {
+          "name": "Gerry Rafferty",
+          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
+        }
+      ],
+      "duration_ms": 267773,
+      "name": "Right Down the Line",
+      "url": "https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -639,18 +639,18 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
-        "name": "City to City",
-        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
+        "name": "Christopher Cross",
+        "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
       },
       "artists": [
         {
-          "name": "Gerry Rafferty",
-          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
         }
       ],
-      "duration_ms": 267773,
-      "name": "Right Down the Line",
-      "url": "https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5"
+      "duration_ms": 275506,
+      "name": "Ride Like the Wind",
+      "url": "https://open.spotify.com/track/7gUMShP1l20tC0xf17Zplk"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
         }
       ],
-      "duration_ms": 181893,
-      "name": "On And On",
-      "url": "https://open.spotify.com/track/0Vth3l4XAo8hNYmxjzhr2y"
+      "duration_ms": 192973,
+      "name": "Save It For A Rainy Day",
+      "url": "https://open.spotify.com/track/5AHjRKFCVUaRClF2Oxx8Ld"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
-        "name": "High Adventure",
-        "url": "https://open.spotify.com/album/1BbFSjGKKbiJqJSkfvaKtA"
-      },
-      "artists": [
-        {
-          "name": "Kenny Loggins",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
-        }
-      ],
-      "duration_ms": 322333,
-      "name": "Heart to Heart",
-      "url": "https://open.spotify.com/track/2KaA0Tgl3RmQLzcvLEtzLH"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
         "name": "Sergio Mendes & Brasil \u201966-86: Classics Volume 18",
         "url": "https://open.spotify.com/album/23nAP2jFnpEAXEh8fNdZCt"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 242706,
       "name": "Alibis",
       "url": "https://open.spotify.com/track/5t8YfppCGP89RcJrjs4Ybj"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
+        "name": "High Adventure",
+        "url": "https://open.spotify.com/album/1BbFSjGKKbiJqJSkfvaKtA"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "duration_ms": 322333,
+      "name": "Heart to Heart",
+      "url": "https://open.spotify.com/track/2KaA0Tgl3RmQLzcvLEtzLH"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
         }
       ],
-      "duration_ms": 192973,
-      "name": "Save It For A Rainy Day",
-      "url": "https://open.spotify.com/track/5AHjRKFCVUaRClF2Oxx8Ld"
+      "duration_ms": 181893,
+      "name": "On And On",
+      "url": "https://open.spotify.com/track/0Vth3l4XAo8hNYmxjzhr2y"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -799,38 +799,6 @@
       "duration_ms": 203080,
       "name": "You Can't Change That",
       "url": "https://open.spotify.com/track/5vIvHVCP0n6EXTMH0fOpAp"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
-        "name": "Robbie Dupree",
-        "url": "https://open.spotify.com/album/1sY2wLftl601YlV9YUQFgW"
-      },
-      "artists": [
-        {
-          "name": "Robbie Dupree",
-          "url": "https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz"
-        }
-      ],
-      "duration_ms": 221432,
-      "name": "Hot Rod Hearts - Remastered",
-      "url": "https://open.spotify.com/track/1QEZIhNmz28cJ2Lr45MKJ4"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
-        "name": "Xanadu",
-        "url": "https://open.spotify.com/album/0dWzFLXRM8F1IsEYdKopAa"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 271666,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/56BSwBKWHYldQOgYLHiehs"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -871,6 +839,38 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
+        "name": "Robbie Dupree",
+        "url": "https://open.spotify.com/album/1sY2wLftl601YlV9YUQFgW"
+      },
+      "artists": [
+        {
+          "name": "Robbie Dupree",
+          "url": "https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz"
+        }
+      ],
+      "duration_ms": 221432,
+      "name": "Hot Rod Hearts - Remastered",
+      "url": "https://open.spotify.com/track/1QEZIhNmz28cJ2Lr45MKJ4"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
+        "name": "Xanadu",
+        "url": "https://open.spotify.com/album/0dWzFLXRM8F1IsEYdKopAa"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 271666,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/56BSwBKWHYldQOgYLHiehs"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
         "name": "Black & White (Expanded Edition)",
         "url": "https://open.spotify.com/album/4ZjbAxpWpR9qhY7253jNrX"
       },
@@ -903,38 +903,6 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
-        "name": "One Eighty",
-        "url": "https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH"
-      },
-      "artists": [
-        {
-          "name": "Ambrosia",
-          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
-        }
-      ],
-      "duration_ms": 262906,
-      "name": "You're the Only Woman - You & I",
-      "url": "https://open.spotify.com/track/11qmuUlW5q5diLiVSOlsSF"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
-        "name": "Songs For The Car",
-        "url": "https://open.spotify.com/album/5Y3Gny2L4zzrjvdB6l2A5S"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 258240,
-      "name": "All Night Long (All Night) - Single Version",
-      "url": "https://open.spotify.com/track/2p03YAuYuJ8UshpadBi8wR"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
         "name": "Hits!",
         "url": "https://open.spotify.com/album/5uniuttzg7zsjDvqmvvyDU"
       },
@@ -947,6 +915,22 @@
       "duration_ms": 352066,
       "name": "JoJo",
       "url": "https://open.spotify.com/track/4mGDtUyNxu4ZDqwMAwHh1Q"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
+        "name": "One Eighty",
+        "url": "https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH"
+      },
+      "artists": [
+        {
+          "name": "Ambrosia",
+          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
+        }
+      ],
+      "duration_ms": 262906,
+      "name": "You're the Only Woman - You & I",
+      "url": "https://open.spotify.com/track/11qmuUlW5q5diLiVSOlsSF"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -967,18 +951,18 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
-        "name": "Time Passages",
-        "url": "https://open.spotify.com/album/5moFY0K48zOBW37SsThYL0"
+        "name": "Toto IV",
+        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
       },
       "artists": [
         {
-          "name": "Al Stewart",
-          "url": "https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC"
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
         }
       ],
-      "duration_ms": 403040,
-      "name": "Time Passages",
-      "url": "https://open.spotify.com/track/5zVKisBri6JH1fooBhUaVq"
+      "duration_ms": 295893,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -999,6 +983,38 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
+        "name": "Time Passages",
+        "url": "https://open.spotify.com/album/5moFY0K48zOBW37SsThYL0"
+      },
+      "artists": [
+        {
+          "name": "Al Stewart",
+          "url": "https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC"
+        }
+      ],
+      "duration_ms": 403040,
+      "name": "Time Passages",
+      "url": "https://open.spotify.com/track/5zVKisBri6JH1fooBhUaVq"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
+        "name": "Songs For The Car",
+        "url": "https://open.spotify.com/album/5Y3Gny2L4zzrjvdB6l2A5S"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 258240,
+      "name": "All Night Long (All Night) - Single Version",
+      "url": "https://open.spotify.com/track/2p03YAuYuJ8UshpadBi8wR"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
         "name": "The George Benson Collection",
         "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
       },
@@ -1011,38 +1027,6 @@
       "duration_ms": 230106,
       "name": "Turn Your Love Around",
       "url": "https://open.spotify.com/track/6a899bXlCuViXW2Qs8Rdqo"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
-        "name": "Toto IV",
-        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 295893,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
-        "name": "City to City",
-        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
-      },
-      "artists": [
-        {
-          "name": "Gerry Rafferty",
-          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
-        }
-      ],
-      "duration_ms": 365626,
-      "name": "Baker Street",
-      "url": "https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -1063,6 +1047,22 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
+        "name": "City to City",
+        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
+      },
+      "artists": [
+        {
+          "name": "Gerry Rafferty",
+          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
+        }
+      ],
+      "duration_ms": 365626,
+      "name": "Baker Street",
+      "url": "https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
         "name": "What's Love Got to Do with It?",
         "url": "https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o"
       },
@@ -1075,38 +1075,6 @@
       "duration_ms": 226880,
       "name": "What's Love Got to Do with It",
       "url": "https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/29owfLOkZWFaUJwCG7Kzxy"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 226066,
-      "name": "We're in This Love Together",
-      "url": "https://open.spotify.com/track/5gdM3wtGyBAaoUWoLWcAoX"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
-        "name": "A HOLE IN THE WALL",
-        "url": "https://open.spotify.com/album/7piu0CaJxClSyIvPQO9aNz"
-      },
-      "artists": [
-        {
-          "name": "Marc Jordan",
-          "url": "https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT"
-        }
-      ],
-      "duration_ms": 250173,
-      "name": "MARGARITA",
-      "url": "https://open.spotify.com/track/6FTkyVYA8sQv43TK28zJON"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -1127,6 +1095,38 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/29owfLOkZWFaUJwCG7Kzxy"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 226066,
+      "name": "We're in This Love Together",
+      "url": "https://open.spotify.com/track/5gdM3wtGyBAaoUWoLWcAoX"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
+        "name": "Sweet Vendetta",
+        "url": "https://open.spotify.com/album/5X9a2PYg5a0K8pf7I6gt9b"
+      },
+      "artists": [
+        {
+          "name": "Adrian Gurvitz",
+          "url": "https://open.spotify.com/artist/1VKSw4zNYbYK2BXbOOXkcd"
+        }
+      ],
+      "duration_ms": 317240,
+      "name": "The Way I Feel",
+      "url": "https://open.spotify.com/track/0gZipIAthUggJMMJZAH5tv"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
         "name": "View From The Ground",
         "url": "https://open.spotify.com/album/5ON91aFwvhfeFX6DhVto5h"
       },
@@ -1139,6 +1139,22 @@
       "duration_ms": 237466,
       "name": "You Can Do Magic",
       "url": "https://open.spotify.com/track/5dXED6MP1v1qghkaniirb1"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
+        "name": "A HOLE IN THE WALL",
+        "url": "https://open.spotify.com/album/7piu0CaJxClSyIvPQO9aNz"
+      },
+      "artists": [
+        {
+          "name": "Marc Jordan",
+          "url": "https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT"
+        }
+      ],
+      "duration_ms": 250173,
+      "name": "MARGARITA",
+      "url": "https://open.spotify.com/track/6FTkyVYA8sQv43TK28zJON"
     },
     {
       "added_at": "2022-02-12 04:59:37",
@@ -1179,22 +1195,6 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
-        "name": "Sweet Vendetta",
-        "url": "https://open.spotify.com/album/5X9a2PYg5a0K8pf7I6gt9b"
-      },
-      "artists": [
-        {
-          "name": "Adrian Gurvitz",
-          "url": "https://open.spotify.com/artist/1VKSw4zNYbYK2BXbOOXkcd"
-        }
-      ],
-      "duration_ms": 317240,
-      "name": "The Way I Feel",
-      "url": "https://open.spotify.com/track/0gZipIAthUggJMMJZAH5tv"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
         "name": "Ross (Expanded Edition)",
         "url": "https://open.spotify.com/album/4AyA2xN6aVVDaGfGqFIDfQ"
       },
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2022-02-12 04:59:37",
       "album": {
+        "name": "Pulse (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2keWhx31zk5DnCvRCD5Lg4"
+      },
+      "artists": [
+        {
+          "name": "Greg Phillinganes",
+          "url": "https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu"
+        }
+      ],
+      "duration_ms": 326613,
+      "name": "Lazy Nina",
+      "url": "https://open.spotify.com/track/7tBlvnHLTox3S0yB6nIV2Q"
+    },
+    {
+      "added_at": "2022-02-12 04:59:37",
+      "album": {
         "name": "4 (Expanded)",
         "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 292066,
       "name": "Waiting for a Girl like You",
       "url": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU"
-    },
-    {
-      "added_at": "2022-02-12 04:59:37",
-      "album": {
-        "name": "Boys in the Trees",
-        "url": "https://open.spotify.com/album/6TUPBFLSBxRwHDXV0y3AHs"
-      },
-      "artists": [
-        {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
-        }
-      ],
-      "duration_ms": 243826,
-      "name": "Tranquillo (Melt My Heart)",
-      "url": "https://open.spotify.com/track/0i8s3YyZjFcJoV41GxZjhg"
     }
   ],
   "unique_name": "Yacht Rock",

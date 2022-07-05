@@ -654,6 +654,32 @@
     },
     {
       "album": {
+        "name": "Sparrow: Pluto's Crossing",
+        "url": "https://open.spotify.com/album/1Gbeu75FH5vyS7mENKuqY8"
+      },
+      "artists": [
+        {
+          "name": "Andrew Sparrow",
+          "url": "https://open.spotify.com/artist/0kIFcoCKn3Lfal4tQbWP0N"
+        },
+        {
+          "name": "The Czech Film Orchestra",
+          "url": "https://open.spotify.com/artist/0m8SPeJ3LOEnfuzXf5LN9b"
+        },
+        {
+          "name": "Marek Val\u00e1\u0161ek",
+          "url": "https://open.spotify.com/artist/5nycKcUvS0WElwhFKLmwx1"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124653,
+      "name": "Pluto's Crossing: Id. The Journey",
+      "url": "https://open.spotify.com/track/2B7DzfgaMkfVVv9pT2q43P"
+    },
+    {
+      "album": {
         "name": "Poldark: Music from the TV Series (Deluxe Version)",
         "url": "https://open.spotify.com/album/4swL8BznFgV5IhDRFyB7bO"
       },

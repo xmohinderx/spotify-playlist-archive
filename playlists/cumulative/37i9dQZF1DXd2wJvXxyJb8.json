@@ -546,6 +546,24 @@
     },
     {
       "album": {
+        "name": "Saudade de Minha Terra",
+        "url": "https://open.spotify.com/album/4DMT1AyqhMW6FE889Jx2wZ"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9rgio Reis",
+          "url": "https://open.spotify.com/artist/0cSC1GvvgLumHovn2rgSHj"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164080,
+      "name": "Cavalo Preto",
+      "url": "https://open.spotify.com/track/69psuEqKlppVgsv4q1fjb7"
+    },
+    {
+      "album": {
         "name": "Chama o Coveiro",
         "url": "https://open.spotify.com/album/77x3mlbs3y3E6wR7OzygYk"
       },
@@ -601,7 +619,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 246053,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/4NOZ35Dhucr6UlVyLOtktd"
@@ -733,7 +751,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 131271,
       "name": "Devil Eyes",
       "url": "https://open.spotify.com/track/7MiZjKawmXTsTNePyTfPyL"
@@ -1460,6 +1478,24 @@
     },
     {
       "album": {
+        "name": "Master Of Puppets (Remastered)",
+        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515386,
+      "name": "Master Of Puppets",
+      "url": "https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i"
+    },
+    {
+      "album": {
         "name": "Me Chama de Amor (Arrochadeira Remix)",
         "url": "https://open.spotify.com/album/6VHZaHeeY9g9bYrgbyVsOq"
       },
@@ -2074,6 +2110,24 @@
     },
     {
       "album": {
+        "name": "Ao Vivo Abril 2022",
+        "url": "https://open.spotify.com/album/5PvSUWL61aVF1Z1pQjUESX"
+      },
+      "artists": [
+        {
+          "name": "Mariana Reis",
+          "url": "https://open.spotify.com/artist/3krfXUuYooEgUlJz32Enbb"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213890,
+      "name": "Teu Amigo Cuidou",
+      "url": "https://open.spotify.com/track/44rtgsXvDPiJhxmqv0d2Pr"
+    },
+    {
+      "album": {
         "name": "Atg Tape",
         "url": "https://open.spotify.com/album/0YpnBZ9kBPcGzoonbHZFaS"
       },
@@ -2345,7 +2399,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 151068,
       "name": "Vou Falar Que N\u00e3o Quero - Remix",
       "url": "https://open.spotify.com/track/0YluTOlBctnpHPABgFSXEw"
@@ -2381,7 +2435,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 200013,
       "name": "You Da One",
       "url": "https://open.spotify.com/track/3Yt9lRtS5V4nbJnwcgFgvC"

@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 257266,
       "name": "Africa Boogie",
       "url": "https://open.spotify.com/track/0vN7mFkONrm4lRXNHSyimn"
@@ -371,7 +371,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 350733,
       "name": "Carnaval",
       "url": "https://open.spotify.com/track/1XWDjQkOEUvgKuWRPxZOMO"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 264106,
       "name": "Cerisiers Roses Et Pommiers Blancs",
       "url": "https://open.spotify.com/track/4k3YTY6Oyaux2UdaZM9NUU"
@@ -597,7 +597,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 296400,
       "name": "Du bush a bush",
       "url": "https://open.spotify.com/track/6OqaYMzgKyk1Ne3BGz3ueT"
@@ -921,7 +921,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 208160,
       "name": "Je suis chez moi (feat. Amadou & Mariam & Manu Dibango) - African Remix",
       "url": "https://open.spotify.com/track/1gEiLNgV0aVwCk1I3EIXcf"
@@ -939,7 +939,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 228666,
       "name": "Lagos Go Slow",
       "url": "https://open.spotify.com/track/73f0f9KKZsBfmtogRcnBLp"
@@ -1091,7 +1091,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 472200,
       "name": "Mouvement Ewondo",
       "url": "https://open.spotify.com/track/0mcH1StoiW1ww6CbrfCnoW"
@@ -1113,7 +1113,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 274626,
       "name": "Musica",
       "url": "https://open.spotify.com/track/5quLDM7ds2qugQmzT6Qwaa"
@@ -1203,10 +1203,28 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 325240,
       "name": "Ongele Mba",
       "url": "https://open.spotify.com/track/5W2DvkilFnTrmPZc5k36NN"
+    },
+    {
+      "album": {
+        "name": "African Voodoo",
+        "url": "https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167922,
+      "name": "Out of Score",
+      "url": "https://open.spotify.com/track/1xdAIBzX2nDUkDHfMOdNSE"
     },
     {
       "album": {
@@ -1513,7 +1531,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 311986,
       "name": "Sango Yesu Cristo",
       "url": "https://open.spotify.com/track/7uQVyVvcvCQYK6Kj1QOdzl"
@@ -1593,7 +1611,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 128985,
       "name": "Soul Fiesta",
       "url": "https://open.spotify.com/track/3MhErr2oHiTPfbxG8Ya9s1"
@@ -1665,7 +1683,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 481986,
       "name": "Super Kumba",
       "url": "https://open.spotify.com/track/6dbNLNAVQFVxAgFgq22o0O"
@@ -1705,7 +1723,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 423653,
       "name": "Tek Time",
       "url": "https://open.spotify.com/track/3QzRmXp2ANZFcf8Fa3sQ0x"
@@ -1723,7 +1741,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 149346,
       "name": "The Panther",
       "url": "https://open.spotify.com/track/0TO438ElpElpdtY9s4aNjv"
@@ -1871,7 +1889,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 355293,
       "name": "Yekey Tenge",
       "url": "https://open.spotify.com/track/24CQ685jK8vYwLe5RQVAD9"

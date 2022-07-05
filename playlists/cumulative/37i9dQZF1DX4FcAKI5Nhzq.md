@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! Cover: LEE MINHYUK \(HUTA\)
 
-589 songs - 1 day 8 hr 55 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
+590 songs - 1 day 8 hr 58 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [For You \(Holiday Remix\) \- Spotify Singles Holiday](https://open.spotify.com/track/7I4DnQPWhzZvK79px5UhT5) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Spotify Singles \- Holiday](https://open.spotify.com/album/5AVL4k3pesuk0jRkTeCOSm) | 3:31 | 2021-11-19 | 2022-01-04 |
 | [Forbidden Island](https://open.spotify.com/track/5YFIlLHse7UplUd36BYGSm) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Mirage](https://open.spotify.com/album/3IluPLhGQ9kKlIQp4C11P3) | 3:19 | 2020-11-12 | 2021-04-22 |
 | [Forever \(약속\)](https://open.spotify.com/track/26YNVqHuwAPeBVfDscTPds) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Forever \(약속\)](https://open.spotify.com/album/3CExk4WgPxe0lOwoOhuMWj) | 4:58 | 2021-02-10 | 2021-05-05 |
+| [Future Perfect \(Pass the MIC\)](https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:00 | 2022-07-04 |  |
 | [G.B.T.B.](https://open.spotify.com/track/2snmVNiCZjld3lKI7BTQId) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [FACE US](https://open.spotify.com/album/2lgJVzhHmVMV2ga4eDVGtx) | 3:04 | 2020-10-13\* | 2021-01-11 |
 | [G999 \(Feat\. Mirani\)](https://open.spotify.com/track/5ZOS622xElEIE8VmkwNfcP) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [G999 \(Feat\. Mirani\)](https://open.spotify.com/album/4uP0OrnX0GKO4EJIbVzu5a) | 3:04 | 2021-12-13 | 2022-01-25 |
 | [Gallery](https://open.spotify.com/track/6Fa7GkFrFxdeRvcu1hZ9UG) | [PARK JI HOON](https://open.spotify.com/artist/0tBYMeHDDJCzRuREuCTWi7) | [My Collection](https://open.spotify.com/album/5ac2nsiqAv1y1Bv0pG0iZr) | 3:06 | 2021-08-14 | 2021-10-06 |

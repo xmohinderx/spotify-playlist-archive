@@ -4,7 +4,7 @@
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: Kep1er
 
-249 songs - 13 hr 57 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
+250 songs - 14 hr 0 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Feelin' Like](https://open.spotify.com/track/1GdahB0MwZ6MnwU51zkVhF) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [IN:VITE U](https://open.spotify.com/album/2nym29RGoObwngdpzCCQ8Y) | 2:47 | 2022-01-24 | 2022-04-27 |
 | [Fiction](https://open.spotify.com/track/3JsTNnFiSBubzYQcAY5MIP) | [Jang Keun\-suk](https://open.spotify.com/artist/3OOtuve788y64B4qKtZoci) | [Fiction](https://open.spotify.com/album/1mKLTIVvtUpS1WMjuEGc56) | 3:40 | 2022-03-08 | 2022-03-23 |
 | [Fiore](https://open.spotify.com/track/3Dl6xGBceSzflHz2m7DUiQ) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [Fiore](https://open.spotify.com/album/1KUma2mwmzo55NVVjV1HLG) | 3:08 | 2022-06-28 |  |
+| [Future Perfect \(Pass the MIC\)](https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:00 | 2022-07-04 |  |
 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 | 2022-03-10 | 2022-06-01 |
 | [Ghostin'](https://open.spotify.com/track/5DOKAQqo9fIVlF5QREqMN5) | [KIM WOO SEOK](https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2) | [3RD DESIRE \[Reve\]](https://open.spotify.com/album/0wos6TVDS8fbc7WzUgITFY) | 3:06 | 2022-03-08 | 2022-05-11 |
 | [GingaMingaYo \(the strange world\)](https://open.spotify.com/track/3jHg6QE70y2FTdnsxSrCbv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the collective soul and unconscious: chapter one](https://open.spotify.com/album/4ophrgcnwWi1I5nWYImyhw) | 3:35 | 2022-02-22 |  |
@@ -148,7 +149,7 @@
 | [NANANA](https://open.spotify.com/track/2tEMbypmvYhf84mzVbhxwZ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [GOT7](https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM) | 3:07 | 2022-05-24 |  |
 | [Need U](https://open.spotify.com/track/0X6aEz0mOzdxz3kNf6Pyly) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [Need U](https://open.spotify.com/album/7F4uRzCZEm3TbUXsMfYFe2) | 3:31 | 2021-12-23 | 2022-01-19 |
 | [O](https://open.spotify.com/track/2tBsQUWGLdVDWytQwMQcas) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [SERIES 'O' \[ROUND 0 : WHO\]](https://open.spotify.com/album/3RoFKfin5pPGRfXkiupgXR) | 3:15 | 2022-03-23 | 2022-05-18 |
-| [O](https://open.spotify.com/track/7je54vTlkPbe80PSj5PUOb) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [SERIES 'O' \[ROUND 3 : WHOLE\]](https://open.spotify.com/album/4EdWz8Lb77wi5UjPD9wqd6) | 3:15 | 2022-04-25 |  |
+| [O](https://open.spotify.com/track/7je54vTlkPbe80PSj5PUOb) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [SERIES 'O' \[ROUND 3 : WHOLE\]](https://open.spotify.com/album/4EdWz8Lb77wi5UjPD9wqd6) | 3:15 | 2022-04-25 | 2022-07-05 |
 | [O \- Japanese ver.](https://open.spotify.com/track/6i48Y8Z6MmfqXeOGKjsfrm) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [O \(Japanese ver.\)](https://open.spotify.com/album/2Sw3c9ecekZHYweZXDjwcy) | 3:17 | 2022-06-21 |  |
 | [O.O](https://open.spotify.com/track/1m2PksrrMpIev63uPxT1V0) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/0QkOWJsNjhHQwhmhy4bstt) | 2:52 | 2022-02-22 | 2022-05-24 |
 | [Oh Sorry Ya](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Oh Sorry Ya](https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7) | 2:35 | 2022-03-08 | 2022-05-18 |

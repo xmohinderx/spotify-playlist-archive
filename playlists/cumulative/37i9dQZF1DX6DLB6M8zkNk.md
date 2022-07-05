@@ -4,7 +4,7 @@
 
 > POV: you're the main character in a romance novel.
 
-50 songs - 3 hr 5 min - [published](https://open.spotify.com/playlist/1jUeEpyytwUQzwgV0C0mkW)
+51 songs - 3 hr 7 min - [published](https://open.spotify.com/playlist/1jUeEpyytwUQzwgV0C0mkW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Peter \- Finding Neverland/Soundtrack Version](https://open.spotify.com/track/5yrUw3CtVT8BQuhsDdniW1) | [Jan A.P\. Kaczmarek](https://open.spotify.com/artist/6ajp0mepNWwjGZ9ivlqqaT), [Nick Ingman](https://open.spotify.com/artist/2fJCHSiF0CwzZ2vuYWtt2p) | [Finding Neverland](https://open.spotify.com/album/04J43Yr17N9A9uNcFVSTKx) | 2:20 | 2022-02-14 |  |
 | [Piano Sonata in C Major, WoO 51: II\. Adagio](https://open.spotify.com/track/7EmiVtjY6KsnDgroaePON5) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [See Siang Wong](https://open.spotify.com/artist/21NJ5Fe4kSV3uACHwyN271) | [Beethoven Trilogy 2: Childhood](https://open.spotify.com/album/4XiKDj6xqe9fxq7BSPxaE7) | 2:30 | 2022-02-14 |  |
 | [Plumfield](https://open.spotify.com/track/4RTmPGLfkrUJgfFAJOzWil) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [Little Women \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2y8d4zbifvkrpASJeTMDnE) | 3:38 | 2022-02-14 |  |
+| [Pluto's Crossing: Id\. The Journey](https://open.spotify.com/track/2B7DzfgaMkfVVv9pT2q43P) | [Andrew Sparrow](https://open.spotify.com/artist/0kIFcoCKn3Lfal4tQbWP0N), [The Czech Film Orchestra](https://open.spotify.com/artist/0m8SPeJ3LOEnfuzXf5LN9b), [Marek Valášek](https://open.spotify.com/artist/5nycKcUvS0WElwhFKLmwx1) | [Sparrow: Pluto's Crossing](https://open.spotify.com/album/1Gbeu75FH5vyS7mENKuqY8) | 2:04 | 2022-07-04 |  |
 | [Resurgam](https://open.spotify.com/track/4SsC4oX1tyBUFBSy4Gbw2l) | [Anne Dudley](https://open.spotify.com/artist/41dLItQx3PSyP6n1AMd87b), [The Chamber Orchestra Of London](https://open.spotify.com/artist/2IS9rTtWwEfUEY4u3mecIT) | [Poldark: Music from the TV Series \(Deluxe Version\)](https://open.spotify.com/album/4swL8BznFgV5IhDRFyB7bO) | 3:27 | 2022-02-14 |  |
 | [Roses in a Box](https://open.spotify.com/track/20BUmbjIRXr7MnGjNaC2R2) | [Elena Kats\-Chernin](https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk), [William Howard](https://open.spotify.com/artist/3NkjYttHnIbRubcPdtyvSL) | [Sixteen Contemporary Love Songs for Piano](https://open.spotify.com/album/2OYyS1vSV7qEIYjA763YvF) | 3:41 | 2022-02-14 |  |
 | [Sheep May Safely Graze, BWV 208 \(arr\. Egon Petri\)](https://open.spotify.com/track/2md3xXPRJz9dIyFZi8MNyY) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Alessio Bax](https://open.spotify.com/artist/5XQSLo7FpTb3FJ69O7y2ur) | [Lullabies for Mila](https://open.spotify.com/album/7DfeNcn4aBR5eimaq9imOx) | 5:18 | 2022-02-14 |  |

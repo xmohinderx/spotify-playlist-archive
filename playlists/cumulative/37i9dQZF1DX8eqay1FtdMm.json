@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 223451,
       "name": "11:11",
       "url": "https://open.spotify.com/track/093PI3mdUvOSlvMYDwnV1e"
@@ -319,7 +319,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 244040,
       "name": "An Unfamiliar Day",
       "url": "https://open.spotify.com/track/4Q9mTqVTAHmkeJMsKZo2EZ"
@@ -359,10 +359,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 258112,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/72X2j4RIxqhho6A60i3Uk1"
+    },
+    {
+      "album": {
+        "name": "Around You",
+        "url": "https://open.spotify.com/album/28DDo4pRZosbVFpZxGnJbn"
+      },
+      "artists": [
+        {
+          "name": "Yeon Kyoo Seong",
+          "url": "https://open.spotify.com/artist/0HuGdUxGEptCnucoZr32rH"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239667,
+      "name": "Around You",
+      "url": "https://open.spotify.com/track/1FDmOfHoU1hXFxHjWMPObq"
     },
     {
       "album": {
@@ -712,6 +730,28 @@
     },
     {
       "album": {
+        "name": "Burn Like A Star",
+        "url": "https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ"
+      },
+      "artists": [
+        {
+          "name": "Ahn Ye Eun",
+          "url": "https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs"
+        },
+        {
+          "name": "Woo Ye Rin",
+          "url": "https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188253,
+      "name": "Burn Like A Star",
+      "url": "https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O"
+    },
+    {
+      "album": {
         "name": "The 1st Mini Album 'Day & Night'",
         "url": "https://open.spotify.com/album/2j89XpqZbDCa41WZeN7sNz"
       },
@@ -785,7 +825,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 244120,
       "name": "Can\u2032t Live Without You",
       "url": "https://open.spotify.com/track/1HGEtYmtaMDG4lTtITK5pA"
@@ -879,7 +919,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 319080,
       "name": "Dear",
       "url": "https://open.spotify.com/track/5xUDsNJKebll4g40mGcnPl"
@@ -897,7 +937,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 218621,
       "name": "Deeply",
       "url": "https://open.spotify.com/track/43SfjbiRYF7jhZKNiFPCVG"
@@ -933,7 +973,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 238022,
       "name": "didn't know me",
       "url": "https://open.spotify.com/track/4Ompd9kJo9Os4yB0YFzsEC"
@@ -1005,7 +1045,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 246491,
       "name": "Drunken confession at night (Prod. 2soo)",
       "url": "https://open.spotify.com/track/2Jvl8m0bAt7bS76pLsMeJk"
@@ -1113,7 +1153,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 229586,
       "name": "Even if fate separates us",
       "url": "https://open.spotify.com/track/3EJJObwczdPZlWvD8lk94t"
@@ -1189,7 +1229,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 240840,
       "name": "First Line",
       "url": "https://open.spotify.com/track/1frranq2uyiOn5RObEG9g9"
@@ -1229,7 +1269,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 275253,
       "name": "Flower (With Kim Minseok of Melomance)",
       "url": "https://open.spotify.com/track/0XPoeyS0UQWK24qajGTaBy"
@@ -1389,7 +1429,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 160306,
       "name": "Gloomy Sunday",
       "url": "https://open.spotify.com/track/2mvZNCT457rEgTRvedTiJV"
@@ -1407,7 +1447,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 234000,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ"
@@ -1509,7 +1549,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 370946,
       "name": "Hachiko (Feat. Sion, Yescoba, Dayoung Ahn)",
       "url": "https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh"
@@ -1713,7 +1753,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 194240,
       "name": "Holding hands or walking together.",
       "url": "https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb"
@@ -1731,7 +1771,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 220653,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/7bcfyB9jvnfkgLpIjZjL4Q"
@@ -1931,7 +1971,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 230626,
       "name": "I loved her a lot (Feat. Lee Ji yong)",
       "url": "https://open.spotify.com/track/1laPD9SFgZQaMFAddIvHz7"
@@ -1949,7 +1989,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 169448,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/3SfbB0Y3saMIQnNctxMVhj"
@@ -2061,7 +2101,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 265058,
       "name": "in the bed",
       "url": "https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe"
@@ -2357,7 +2397,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 239800,
       "name": "Like nothing happened",
       "url": "https://open.spotify.com/track/5zpTQE7cQO6YbLuDIwyFpW"
@@ -2537,7 +2577,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 222760,
       "name": "Love Sick",
       "url": "https://open.spotify.com/track/0Vb3ELQ111quZfXfnrmIdc"
@@ -2715,7 +2755,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 233043,
       "name": "ME.N.U",
       "url": "https://open.spotify.com/track/5ij2jRRxk9Zjwk436vgRH9"
@@ -3495,7 +3535,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 251020,
       "name": "Purple Breeze",
       "url": "https://open.spotify.com/track/20NLPjMKvWxEkqT04T1HDD"
@@ -3676,6 +3716,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Now (Original Television Soundtrack) Pt. 10",
+        "url": "https://open.spotify.com/album/0pazoqMfChhTpwsbqaDS9P"
+      },
+      "artists": [
+        {
+          "name": "Yeoeun",
+          "url": "https://open.spotify.com/artist/4KDlIFwLpNZE8xx3cpzsej"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228188,
+      "name": "seep into you",
+      "url": "https://open.spotify.com/track/1gI4erUG1xjcWi5Ysm8YjY"
+    },
+    {
+      "album": {
         "name": "Ballad 21 F/W",
         "url": "https://open.spotify.com/album/6EggMg9W6wan2o1YadUhAq"
       },
@@ -3687,7 +3745,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 221946,
       "name": "Should\u2032ve known",
       "url": "https://open.spotify.com/track/4xpx0BlfaTd64yciFWlM4w"
@@ -4023,7 +4081,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 228615,
       "name": "Stay Here",
       "url": "https://open.spotify.com/track/20mZ4O5ztRZltdvLEJbi4z"
@@ -4059,7 +4117,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 301059,
       "name": "Sun And Moon",
       "url": "https://open.spotify.com/track/0IHgyl0zAHIj7kpm4YKKv3"
@@ -4203,7 +4261,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 305895,
       "name": "The Letter",
       "url": "https://open.spotify.com/track/761kP7yDzrhyFjn6Og7Piz"
@@ -4257,7 +4315,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 236071,
       "name": "The Snowman",
       "url": "https://open.spotify.com/track/5QBOylNG7y0dob40NZxF9p"
@@ -4347,7 +4405,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 212608,
       "name": "Think About You",
       "url": "https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ"
@@ -4405,7 +4463,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 253293,
       "name": "Through the Night",
       "url": "https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn"
@@ -4549,7 +4607,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 281880,
       "name": "understand",
       "url": "https://open.spotify.com/track/3J1SWo1MyGSR6dwjv1jdlT"
@@ -4668,6 +4726,24 @@
     },
     {
       "album": {
+        "name": "When I was Into You",
+        "url": "https://open.spotify.com/album/0AdlXPc0vo43GEMz9i4QIE"
+      },
+      "artists": [
+        {
+          "name": "ZISU",
+          "url": "https://open.spotify.com/artist/3zNBTnNYtztKwdB5uYApom"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179408,
+      "name": "When I was Into You",
+      "url": "https://open.spotify.com/track/4hLFSM2k7gX7pBZuIM3CHW"
+    },
+    {
+      "album": {
         "name": "When it snows(Feat.Heize)",
         "url": "https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK"
       },
@@ -4683,7 +4759,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 232026,
       "name": "When it snows(Feat.Heize)",
       "url": "https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR"
@@ -4773,7 +4849,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 264678,
       "name": "Will Last Forever",
       "url": "https://open.spotify.com/track/3z44VMUFtXkJ54xIbd2Qb2"
@@ -4813,6 +4889,24 @@
       "duration_ms": 242453,
       "name": "Winter in your eyes",
       "url": "https://open.spotify.com/track/6XPEXAXBVykCQVR0lQJxMV"
+    },
+    {
+      "album": {
+        "name": "with you",
+        "url": "https://open.spotify.com/album/78zpI0u5fJDfbjFvqpwKxi"
+      },
+      "artists": [
+        {
+          "name": "Hee brothers",
+          "url": "https://open.spotify.com/artist/7qXJEle1HRJwOW1wuTEgwz"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207706,
+      "name": "with you",
+      "url": "https://open.spotify.com/track/2aPyJyUGGLj33QiXRfLG05"
     },
     {
       "album": {
@@ -5030,6 +5124,28 @@
     },
     {
       "album": {
+        "name": "Your memory (Original Soundtrack from the Webtoon \u201cThe returned duke\")",
+        "url": "https://open.spotify.com/album/7k5Oyq2yBXgQHa4JyhVmYy"
+      },
+      "artists": [
+        {
+          "name": "05",
+          "url": "https://open.spotify.com/artist/4SPSSskc4wAEGlZM9RuxfK"
+        },
+        {
+          "name": "Lee Yoon Hee",
+          "url": "https://open.spotify.com/artist/6rMOqDK6wY9ZdwtFoNO6e4"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239706,
+      "name": "Your memory (feat. Lee Yoon Hee)",
+      "url": "https://open.spotify.com/track/61OvyItM7Ti2ylIjmEaIJe"
+    },
+    {
+      "album": {
         "name": "\u00b136.5\u00b0C",
         "url": "https://open.spotify.com/album/7yjSXMcscjWfbUZ4av5nEg"
       },
@@ -5081,7 +5197,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 210853,
       "name": "\uae34 \ubc24 (feat. GIRIBOY)",
       "url": "https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E"
@@ -5121,6 +5237,24 @@
       "duration_ms": 238252,
       "name": "\ub0b4\uac00 \uc800\uc9c0\ub978 \uc0ac\ub791",
       "url": "https://open.spotify.com/track/6s5QnuRQq0ANOo1pkz7mJv"
+    },
+    {
+      "album": {
+        "name": "\ub0b4\uc77c (KSTAGE X \ud0dc\uc601 Of \ube14\ub799\ub808\ubca8)",
+        "url": "https://open.spotify.com/album/3zQL3yGOVumV2HIe7p1LcY"
+      },
+      "artists": [
+        {
+          "name": "\ud0dc\uc601",
+          "url": "https://open.spotify.com/artist/0vR4R0hsXLRQ2q52ajAxfv"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240609,
+      "name": "\ub0b4\uc77c",
+      "url": "https://open.spotify.com/track/3FgbRg2dB0ASZhozZLeMOj"
     },
     {
       "album": {
@@ -5193,6 +5327,24 @@
       "duration_ms": 212164,
       "name": "\ube4c\ub824\uc904\uac8c",
       "url": "https://open.spotify.com/track/0uAW2Jb7ZjI5xUzaC0fhqT"
+    },
+    {
+      "album": {
+        "name": "\uc0ac\ub791\uc744 \uc54c\uac8c \ud574\uc8fc\ub294 \ub108",
+        "url": "https://open.spotify.com/album/4XkuX2msqeOSWeilOMuj7C"
+      },
+      "artists": [
+        {
+          "name": "Woo Yi Kyung",
+          "url": "https://open.spotify.com/artist/2cxVq9Bv0QGLHBuk59LpZY"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182655,
+      "name": "\uc0ac\ub791\uc744 \uc54c\uac8c \ud574\uc8fc\ub294 \ub108",
+      "url": "https://open.spotify.com/track/6gGDtuzP69eYTIek33nQtN"
     },
     {
       "album": {

@@ -12282,6 +12282,28 @@
     },
     {
       "album": {
+        "name": "New Money (feat. 21 Savage)",
+        "url": "https://open.spotify.com/album/1aRWXKL4e4pFg6Z3ObHKKw"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170321,
+      "name": "New Money (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/5ycvEFxPeQqqkdOUgWhrJl"
+    },
+    {
+      "album": {
         "name": "New Normal",
         "url": "https://open.spotify.com/album/3icfuNPdPHFm1FS8WdBvRk"
       },

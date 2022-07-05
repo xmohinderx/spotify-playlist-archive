@@ -347,7 +347,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 251253,
       "name": "Dancing In The Storm",
       "url": "https://open.spotify.com/track/6XzWrZIxG83Cs6bM5BSMfr"
@@ -563,7 +563,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 333506,
       "name": "Get Outta My Dreams, Get into My Car",
       "url": "https://open.spotify.com/track/3v8vsQfMQio7ohYqFrEsaZ"
@@ -599,7 +599,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 234653,
       "name": "Got My Mind Set On You - Remastered 2004",
       "url": "https://open.spotify.com/track/3OeUlriM0EZHdWleJtjoVr"
@@ -617,7 +617,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 291200,
       "name": "Graceland",
       "url": "https://open.spotify.com/track/51KKQAgYFoJHgVIuJWHdHb"
@@ -653,10 +653,28 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 246520,
       "name": "Heaven Is a Place On Earth",
       "url": "https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI"
+    },
+    {
+      "album": {
+        "name": "Whitesnake (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6ujO2Xzt247YCYIpAmcb4r"
+      },
+      "artists": [
+        {
+          "name": "Whitesnake",
+          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275693,
+      "name": "Here I Go Again - 1987 Version; 2017 Remaster",
+      "url": "https://open.spotify.com/track/0Cp7pkYwl4WCGRHhrfcsrg"
     },
     {
       "album": {
@@ -927,7 +945,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 243093,
       "name": "I'm Your Man",
       "url": "https://open.spotify.com/track/2gG7E5OZi5D5QLRIctv63z"
@@ -1093,7 +1111,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 203920,
       "name": "Leaps And Bounds",
       "url": "https://open.spotify.com/track/4XFpth43C6jzaA9fK1Jsmp"
@@ -1111,7 +1129,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 261893,
       "name": "Let's Hear It for the Boy - From \"Footloose\" Soundtrack",
       "url": "https://open.spotify.com/track/5kaF88lat4fWUiDXP6G48M"
@@ -1219,7 +1237,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 222866,
       "name": "One Summer",
       "url": "https://open.spotify.com/track/3cU8I44fRvC1b2MD8pClL9"
@@ -1327,7 +1345,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 247333,
       "name": "She Has to Be Loved",
       "url": "https://open.spotify.com/track/7J170T0QGtd18ii8vHXk2e"
@@ -1381,7 +1399,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 276173,
       "name": "Slice of Heaven",
       "url": "https://open.spotify.com/track/1shSAteQfBSAl7CBw4yeSm"
@@ -1489,7 +1507,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 328813,
       "name": "Summer Rain",
       "url": "https://open.spotify.com/track/6epXs8efGlsdbMIfX8Olra"
@@ -1561,7 +1579,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 329800,
       "name": "The Best",
       "url": "https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB"

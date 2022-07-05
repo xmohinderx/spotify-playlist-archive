@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 219196,
       "name": "18:00",
       "url": "https://open.spotify.com/track/43HQpVkQcHzvAKfSHMcH7X"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 341000,
       "name": "Across The Ocean, But Not Yet",
       "url": "https://open.spotify.com/track/003RirJuMCDzISyCbHLDVh"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 207824,
       "name": "Affirmation Pt. II",
       "url": "https://open.spotify.com/track/2k1u3DMlWX82JcaLy88Xvr"
@@ -241,7 +241,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 89661,
       "name": "Around Me",
       "url": "https://open.spotify.com/track/6SPE7i4gvYAERzSYiQJdPj"
@@ -259,7 +259,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 487715,
       "name": "Aurobindo",
       "url": "https://open.spotify.com/track/5QjrjsMxJjGATz83CAGxoZ"
@@ -277,7 +277,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 456000,
       "name": "Beansidhe",
       "url": "https://open.spotify.com/track/01nEBz1yEJszu05eQ1q7Xl"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 440000,
       "name": "By the Shore",
       "url": "https://open.spotify.com/track/172HYchcUHffaAYQ8sQOyy"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 193000,
       "name": "Canard Apicius..........",
       "url": "https://open.spotify.com/track/2iFBu52IjPSXkPtyiyHbB3"
@@ -391,7 +391,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 222212,
       "name": "CAPRICORN",
       "url": "https://open.spotify.com/track/4WkEVhfzvQYr0GqOyuRthu"
@@ -413,10 +413,28 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 210000,
       "name": "Celeste Song",
       "url": "https://open.spotify.com/track/63o2pUoRLVel5Fr14GQy9c"
+    },
+    {
+      "album": {
+        "name": "Lost in Time",
+        "url": "https://open.spotify.com/album/5GaAIH4lAt4HCGmmpaFpt7"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114080,
+      "name": "Chapitre I",
+      "url": "https://open.spotify.com/track/2itx999N8BnjbuHJgtn4Av"
     },
     {
       "album": {
@@ -435,7 +453,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 96450,
       "name": "Clotho",
       "url": "https://open.spotify.com/track/5BhDYQ7r5ftJKQGIFOPRYF"
@@ -501,7 +519,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "Current Loop Light",
       "url": "https://open.spotify.com/track/6N7yuuN4M7DjkTDg2g9M74"
@@ -537,7 +555,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 321000,
       "name": "Demetra",
       "url": "https://open.spotify.com/track/3CIuL3T0PrjzfZ8ZqSmujh"
@@ -665,7 +683,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 460892,
       "name": "Fantas Variation for Voices",
       "url": "https://open.spotify.com/track/67bJXVcOsU3JPjmSngBkfV"
@@ -683,7 +701,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 265124,
       "name": "Fields of Grass",
       "url": "https://open.spotify.com/track/6PpVxPdzjB8D5OAZcmTCDz"
@@ -705,10 +723,28 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 198880,
       "name": "For You I Am Missing \u2026",
       "url": "https://open.spotify.com/track/5rVeiG9p1XlvfC1ch2zqnp"
+    },
+    {
+      "album": {
+        "name": "Forward / Wreck Dive",
+        "url": "https://open.spotify.com/album/0bEsbKQeZyI4W473lga8CN"
+      },
+      "artists": [
+        {
+          "name": "Niia",
+          "url": "https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196129,
+      "name": "Forward",
+      "url": "https://open.spotify.com/track/59J12WhFRuPxJLGt3qIm0x"
     },
     {
       "album": {
@@ -727,7 +763,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 447497,
       "name": "Fountain (ars amatoria)",
       "url": "https://open.spotify.com/track/4tuK95S2K07yPnMYJiMnlH"
@@ -803,7 +839,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 269252,
       "name": "Grass Grow",
       "url": "https://open.spotify.com/track/4yohulilOac5oAymyVOvaa"
@@ -821,7 +857,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 173798,
       "name": "Graveyard",
       "url": "https://open.spotify.com/track/6WPZiKAOnOKPIO0hWUPGkG"
@@ -843,7 +879,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 194706,
       "name": "Guiding Light",
       "url": "https://open.spotify.com/track/631Ev6DXhwQ0vPR7i1hFOR"
@@ -861,7 +897,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 264250,
       "name": "Haven't Left Home 4 4 Days",
       "url": "https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk"
@@ -945,7 +981,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 255365,
       "name": "If Anyone's Sleepy - PTU Remix",
       "url": "https://open.spotify.com/track/5BY4B7OBSQdo0MduH5IcmY"
@@ -989,7 +1025,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 112980,
       "name": "Indigo Grit (feat. guest)",
       "url": "https://open.spotify.com/track/1czplEAtJ7PkPqgleO2dQ3"
@@ -1025,7 +1061,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 114000,
       "name": "Iridescent",
       "url": "https://open.spotify.com/track/3GEvRsUIB2VwSgGik53j30"
@@ -1043,7 +1079,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 272960,
       "name": "Labyrinthine",
       "url": "https://open.spotify.com/track/78crZjUoVtj9ebTpsWuquw"
@@ -1101,7 +1137,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 296681,
       "name": "Lost At Sea - Kelly Moran remix",
       "url": "https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0"
@@ -1247,7 +1283,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 861200,
       "name": "nine-sum sorcery A",
       "url": "https://open.spotify.com/track/6yn5KVRcL1miUzXnysQJc2"
@@ -1301,7 +1337,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 276449,
       "name": "One to One",
       "url": "https://open.spotify.com/track/4HGyb3pZlHt5qtB28Pk8Vp"
@@ -1319,7 +1355,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 231624,
       "name": "Pale Interior",
       "url": "https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7"
@@ -1341,7 +1377,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 203600,
       "name": "Paradise Lost",
       "url": "https://open.spotify.com/track/2SpjlJaVfxGEJBGIYBzGjM"
@@ -1381,7 +1417,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 298000,
       "name": "Pisces",
       "url": "https://open.spotify.com/track/2dAYdDyD2misHkcqSEYT0N"
@@ -1521,7 +1557,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 171428,
       "name": "Spell V: Like Honey in a Hidden Cave",
       "url": "https://open.spotify.com/track/5JiFKhr3UWiSHvHPci8kgZ"
@@ -1579,7 +1615,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 250440,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/2jVA4dv46MQ0NKMwvooEe9"
@@ -1655,7 +1691,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 484000,
       "name": "St\u00f6ltzle",
       "url": "https://open.spotify.com/track/6g54j22O79y49NTtcPG6LV"
@@ -1731,7 +1767,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 217090,
       "name": "Thoughts",
       "url": "https://open.spotify.com/track/4kJ9oMXeWR0IxDHsly7SGQ"
@@ -1749,7 +1785,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 418349,
       "name": "Untethering",
       "url": "https://open.spotify.com/track/2qwUHXTpXXDGuCpjbssBdQ"
@@ -1807,7 +1843,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 161029,
       "name": "Yodeling Slits",
       "url": "https://open.spotify.com/track/6wvDPoypPjxxEgvgUUNxWc"
@@ -1833,7 +1869,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 239232,
       "name": "You Make It Look so Easy - Reverbed by Malibu",
       "url": "https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a"

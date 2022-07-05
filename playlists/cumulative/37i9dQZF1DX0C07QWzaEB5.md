@@ -2,9 +2,9 @@
 
 ### [뉴트로 댄스 뮤\-직](https://open.spotify.com/playlist/37i9dQZF1DX0C07QWzaEB5)
 
-> 유행은 돌고 돌아! 레트로에 새로움을 더한 뉴트로 댄스 음악을 즐겨보세요.
+> 유행은 돌고 돌아! 레트로에 새로움을 더한 뉴트로 댄스 음악을 즐겨보세요\. \(커버: SUNMI\(선미\)\)
 
-106 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/5TvEGY4L7IQ4l4nYERahnP)
+107 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/5TvEGY4L7IQ4l4nYERahnP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [FEVER](https://open.spotify.com/track/6eKNfMj4VnioR0LcXo6ktd) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Summer Queen](https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi) | 3:25 | 2021-12-07 |  |
 | [Find Somebody Else](https://open.spotify.com/track/1t6ewrLUZ5RrhPKc9PkatT) | [KhaN](https://open.spotify.com/artist/2MvqBmsKl7mOXVWQQqbmNH) | [1987](https://open.spotify.com/album/4T4nrZWwcw0aJScpg2jzYQ) | 3:26 | 2021-12-07 |  |
 | [Good day Gasnah](https://open.spotify.com/track/7vHNUStfTWtegYOlpSaW3V) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [YUNU IN THE HOUSE](https://open.spotify.com/album/3rDbsIFKjrkptbHxxftXA3) | 3:15 | 2021-12-07 |  |
+| [Heart Burn](https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:13 | 2022-07-04 |  |
 | [Hmph!](https://open.spotify.com/track/0UF2ka9POcLMSi1rf9pwgA) | [WJSN Chocome](https://open.spotify.com/artist/5VyqN5hNo0TbYF0ICU77nn) | [Hmph!](https://open.spotify.com/album/3oiVOb6e43wsvdV4ClJYm0) | 3:19 | 2021-12-07 |  |
 | [I Believe](https://open.spotify.com/track/14vmPe7wRQmQ0ljFRib7s4) | [Bae Jin Young](https://open.spotify.com/artist/1ZIK7MnPM18iscik1FZ6Zc), [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [I Believe 2020](https://open.spotify.com/album/508TZFHgOQHCeWob7Sbb4A) | 3:38 | 2021-12-07 |  |
 | [I CAN'T STOP ME](https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:25 | 2021-12-07 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\uc720\ud589\uc740 \ub3cc\uace0 \ub3cc\uc544! \ub808\ud2b8\ub85c\uc5d0 \uc0c8\ub85c\uc6c0\uc744 \ub354\ud55c \ub274\ud2b8\ub85c \ub304\uc2a4 \uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
+  "description": "\uc720\ud589\uc740 \ub3cc\uace0 \ub3cc\uc544! \ub808\ud2b8\ub85c\uc5d0 \uc0c8\ub85c\uc6c0\uc744 \ub354\ud55c \ub274\ud2b8\ub85c \ub304\uc2a4 \uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (\ucee4\ubc84: SUNMI(\uc120\ubbf8))",
   "name": "\ub274\ud2b8\ub85c \ub304\uc2a4 \ubba4-\uc9c1",
   "published_playlist_ids": [
     "5TvEGY4L7IQ4l4nYERahnP"
@@ -485,6 +485,24 @@
       "duration_ms": 195250,
       "name": "Good day Gasnah",
       "url": "https://open.spotify.com/track/7vHNUStfTWtegYOlpSaW3V"
+    },
+    {
+      "album": {
+        "name": "Heart Burn",
+        "url": "https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193173,
+      "name": "Heart Burn",
+      "url": "https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy"
     },
     {
       "album": {

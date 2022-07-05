@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring "Gurnam Bhullar & Sonam Bajwa"
 
-381 songs - 21 hr 1 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+382 songs - 21 hr 4 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Dua Mangdi](https://open.spotify.com/track/0cMx4Mk2g47IvinNJEIWbB) | [Karan Dhillon](https://open.spotify.com/artist/7hmEpCcjK4KFhb7zjEt6LJ), [Nick Dhammu](https://open.spotify.com/artist/5E8B4QGklx5On8tFgo294e) | [Dua Mangdi](https://open.spotify.com/album/4indLUuIZjVgHQ6vtgD5s8) | 3:07 | 2022-02-08 | 2022-02-12 |
 | [Dupatta Tera Satrang Da \(Cover Version\)](https://open.spotify.com/track/4y7quCfMwPefnExRvymRJZ) | [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC), [Atul Sharma](https://open.spotify.com/artist/3XogEyWUGyJGPSIjKuR2Qc) | [Dupatta Tera Satrang Da \(Cover Version\)](https://open.spotify.com/album/6bF6K2aCqiPPn7BgMuKOCj) | 3:11 | 2022-05-04 | 2022-05-20 |
 | [Duur Duur](https://open.spotify.com/track/2mNo6XKxgVrwe9bragteLg) | [Manik Bhatheja](https://open.spotify.com/artist/2cTrrcxX0yWlBAQ3rOrUlo), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Duur Duur](https://open.spotify.com/album/7iXfaoRqgCrwwwQJUmhC8C) | 3:47 | 2022-02-15 | 2022-03-11 |
+| [Ego](https://open.spotify.com/track/3pxKYqkCKgaGHVExK4BX2e) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON) | [Ego](https://open.spotify.com/album/37RerQlYpnNfS1tbXdri0O) | 3:29 | 2022-07-04 |  |
 | [Empty](https://open.spotify.com/track/4UhouRuvJ0FeITfLT3GkxQ) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Majestic Lane](https://open.spotify.com/album/2mSkfnGXVg801G25WOgzXk) | 4:12 | 2022-02-03 | 2022-04-06 |
 | [Faasley](https://open.spotify.com/track/0b3tzxd1B1lbHkfS82aS8m) | [Hazoor](https://open.spotify.com/artist/2w2KXsKbBqfvok1KfOxETo) | [Faasley](https://open.spotify.com/album/5YvfUWclwYzDXijLAkSmkn) | 3:24 | 2022-06-21 |  |
 | [Fallin Star](https://open.spotify.com/track/45w4U2lr3UCEShY27BV8VO) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS), [Ilam](https://open.spotify.com/artist/3BmI2nuXJ2sCiVa3miR7PT) | [Fallin Star](https://open.spotify.com/album/6b4VNmMlPoEJKyxkokPVvI) | 2:45 | 2022-06-28 |  |

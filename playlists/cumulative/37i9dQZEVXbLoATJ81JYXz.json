@@ -3527,7 +3527,7 @@
       ],
       "date_added": "2022-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 140046,
       "name": "Djurens vaggvisa",
       "url": "https://open.spotify.com/track/5maA851Fle6XexgJgJzFjF"
@@ -7277,7 +7277,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 192840,
       "name": "I Like You (A Happier Song) (with Doja Cat)",
       "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
@@ -9543,7 +9543,7 @@
       ],
       "date_added": "2021-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 173854,
       "name": "Lose my mind",
       "url": "https://open.spotify.com/track/5D2ZobLrLLFcPoOWw5YE0e"
@@ -14137,7 +14137,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 202200,
       "name": "Sommartider",
       "url": "https://open.spotify.com/track/1d1BeKPNgaQ36wcxGqnfU3"
@@ -14517,7 +14517,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 202409,
       "name": "Sunnanvind",
       "url": "https://open.spotify.com/track/4GK4mydvnsodLEHWb4zJV4"
@@ -16053,6 +16053,24 @@
       "duration_ms": 170022,
       "name": "T\u00e4nker p\u00e5 dig",
       "url": "https://open.spotify.com/track/3G1lqnGgPyA5c6fKmY5ljH"
+    },
+    {
+      "album": {
+        "name": "Umbrella",
+        "url": "https://open.spotify.com/album/3tVqsIxWjX7ZzahPgEAQeE"
+      },
+      "artists": [
+        {
+          "name": "E4an",
+          "url": "https://open.spotify.com/artist/21fClS8OEQ4cTa868Q8INi"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137400,
+      "name": "Umbrella",
+      "url": "https://open.spotify.com/track/2NxGqx9mDpTzXQJtbYguwi"
     },
     {
       "album": {

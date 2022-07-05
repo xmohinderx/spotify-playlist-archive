@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo?si=o1d8LxfYQ4ejyRt93lxVxg"> Tay Iwar </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,478 likes - 61 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,516 likes - 61 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

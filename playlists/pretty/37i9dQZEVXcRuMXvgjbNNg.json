@@ -6,10 +6,26 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDAwMDAwMDVhNzgwYzY2YWMyNThiYjljZWU0MTlmZDIyZWRiYjhj",
+  "snapshot_id": "MCwwMDAwMDAwMDE4ZjFmMmEyYmU1MjAzZmY3N2UyMzYxMWNmZjI3ZjRm",
   "tracks": [
     {
-      "added_at": "2022-06-27 04:00:00",
+      "added_at": "2022-07-04 04:00:00",
+      "album": {
+        "name": "In Bloom",
+        "url": "https://open.spotify.com/album/6vV4s7MakYdpQaSfCx1ySJ"
+      },
+      "artists": [
+        {
+          "name": "Hand Made House",
+          "url": "https://open.spotify.com/artist/14AkFgEnEXiCAc0DL9Wjvn"
+        }
+      ],
+      "duration_ms": 155333,
+      "name": "In Bloom",
+      "url": "https://open.spotify.com/track/07Tq5rrAN2zBqsFhZ8PL26"
+    },
+    {
+      "added_at": "2022-07-04 04:00:00",
       "album": {
         "name": "You Feel Like Home",
         "url": "https://open.spotify.com/album/06x2swmcWFDIwpuLh3DY6R"
@@ -25,7 +41,39 @@
       "url": "https://open.spotify.com/track/2FJOisgGYaZ2AAkipoRXEg"
     },
     {
-      "added_at": "2022-06-27 04:00:00",
+      "added_at": "2022-07-04 04:00:00",
+      "album": {
+        "name": "Clark Kent",
+        "url": "https://open.spotify.com/album/0ajJ0yEBsEm1PToYaPN4dO"
+      },
+      "artists": [
+        {
+          "name": "Sub-Radio",
+          "url": "https://open.spotify.com/artist/2lCUVconWp5YjxdYssfZ8J"
+        }
+      ],
+      "duration_ms": 240920,
+      "name": "Clark Kent",
+      "url": "https://open.spotify.com/track/4JjjZzCCFjmAqS4N433LkB"
+    },
+    {
+      "added_at": "2022-07-04 04:00:00",
+      "album": {
+        "name": "Sweatshirt (Don't Let Go)",
+        "url": "https://open.spotify.com/album/5ODmBjFzCdHc5scaPDfug9"
+      },
+      "artists": [
+        {
+          "name": "A N X",
+          "url": "https://open.spotify.com/artist/4kGi1QaVrlxt8zZ2YWE8aK"
+        }
+      ],
+      "duration_ms": 293525,
+      "name": "Sweatshirt (Don't Let Go)",
+      "url": "https://open.spotify.com/track/4ZFqTzkzm163dFIZ9XmizE"
+    },
+    {
+      "added_at": "2022-07-04 04:00:00",
       "album": {
         "name": "Thoughts on Letting Go",
         "url": "https://open.spotify.com/album/1FNraVqmo20A7u9b1Y7FcF"
@@ -41,183 +89,7 @@
       "url": "https://open.spotify.com/track/3Rg5r1w6B7ZXEhd5elZ7Np"
     },
     {
-      "added_at": "2022-06-27 04:00:00",
-      "album": {
-        "name": "state of mind",
-        "url": "https://open.spotify.com/album/1eIj6yerF2hy73PcZhzaIT"
-      },
-      "artists": [
-        {
-          "name": "s\u00f8d ven",
-          "url": "https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ"
-        }
-      ],
-      "duration_ms": 198251,
-      "name": "state of mind",
-      "url": "https://open.spotify.com/track/5eTF0lnEnvoNAFtJG3CXd1"
-    },
-    {
-      "added_at": "2022-06-27 04:00:00",
-      "album": {
-        "name": "[ The Black Era ]",
-        "url": "https://open.spotify.com/album/47rOikEyuwGUCqGpTemU7G"
-      },
-      "artists": [
-        {
-          "name": "Jet Black Alley Cat",
-          "url": "https://open.spotify.com/artist/6p2LDcKxYGWM4azuOXNPHJ"
-        }
-      ],
-      "duration_ms": 240532,
-      "name": "Rewind",
-      "url": "https://open.spotify.com/track/7zO6KQDrxDwhJqE6goQ5s7"
-    },
-    {
-      "added_at": "2022-06-27 04:00:00",
-      "album": {
-        "name": "Even When it Doesn't Rhyme",
-        "url": "https://open.spotify.com/album/2sztgjbzFNCxmQqFx1aHet"
-      },
-      "artists": [
-        {
-          "name": "Dawson Hollow",
-          "url": "https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R"
-        }
-      ],
-      "duration_ms": 187917,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/4LgRVcUYk6sf2hFm4C55nT"
-    },
-    {
-      "added_at": "2022-06-27 04:00:00",
-      "album": {
-        "name": "The End",
-        "url": "https://open.spotify.com/album/1l7FK1ciBg8I4uxjewhWdY"
-      },
-      "artists": [
-        {
-          "name": "LOS LEO",
-          "url": "https://open.spotify.com/artist/66JYtwqQMdDFgBgMP1NENW"
-        }
-      ],
-      "duration_ms": 226178,
-      "name": "Take Your Time",
-      "url": "https://open.spotify.com/track/7dFbQKn5asQsxpiyRojTgO"
-    },
-    {
-      "added_at": "2022-06-27 04:00:00",
-      "album": {
-        "name": "Fireworks",
-        "url": "https://open.spotify.com/album/1PWfTbxEiAheaFfAD9LRU1"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 242014,
-      "name": "Fireworks",
-      "url": "https://open.spotify.com/track/410TZTR81hzdwbjMJsW7mk"
-    },
-    {
-      "added_at": "2022-06-27 04:00:00",
-      "album": {
-        "name": "Yard Sale",
-        "url": "https://open.spotify.com/album/64RqRL8VVYKW7wsh3KY7Oa"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 178422,
-      "name": "Petals on the Floor",
-      "url": "https://open.spotify.com/track/0YEzueiFLkzhTn7Iv8Ykol"
-    },
-    {
-      "added_at": "2022-06-27 04:00:00",
-      "album": {
-        "name": "You Were",
-        "url": "https://open.spotify.com/album/6wnBVRrp4xGypc2UjRUcRg"
-      },
-      "artists": [
-        {
-          "name": "Field Guide",
-          "url": "https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz"
-        }
-      ],
-      "duration_ms": 193746,
-      "name": "You Were",
-      "url": "https://open.spotify.com/track/0TsWu7ZYypXsIEIPwl6BOi"
-    },
-    {
-      "added_at": "2022-06-27 04:00:00",
-      "album": {
-        "name": "Always You/Parchment (Acoustic)",
-        "url": "https://open.spotify.com/album/7F8gHG485lvSgNESdIC3L9"
-      },
-      "artists": [
-        {
-          "name": "Spinning",
-          "url": "https://open.spotify.com/artist/6IspENBNKAvxb47b8dMPJc"
-        }
-      ],
-      "duration_ms": 151367,
-      "name": "Always You",
-      "url": "https://open.spotify.com/track/5QYC4Cnb0fMxwasrOcdyd4"
-    },
-    {
-      "added_at": "2022-06-27 04:00:00",
-      "album": {
-        "name": "If It Keeps You Up At Night",
-        "url": "https://open.spotify.com/album/0BFfafIVW2Cuh1EFCNnTTO"
-      },
-      "artists": [
-        {
-          "name": "The Swoons",
-          "url": "https://open.spotify.com/artist/5RGUEjOuOgYjBfL9wOmoGh"
-        }
-      ],
-      "duration_ms": 254561,
-      "name": "If It Keeps You Up At Night",
-      "url": "https://open.spotify.com/track/2eoPKOONaK9Dh9essIxrIt"
-    },
-    {
-      "added_at": "2022-06-27 04:00:00",
-      "album": {
-        "name": "falling up (mixtape)",
-        "url": "https://open.spotify.com/album/77ucQ2VdLEPwBgC7e71NSr"
-      },
-      "artists": [
-        {
-          "name": "Will Heggadon",
-          "url": "https://open.spotify.com/artist/2Y0sh9cqZb8lhfWsIsByAO"
-        }
-      ],
-      "duration_ms": 240740,
-      "name": "sinking in",
-      "url": "https://open.spotify.com/track/07odBzBvoV5e82VQchXSlO"
-    },
-    {
-      "added_at": "2022-06-27 04:00:00",
-      "album": {
-        "name": "(It's Not Living) If It's Not With You",
-        "url": "https://open.spotify.com/album/5wN5poCaKFZpB8ZsXrGVRt"
-      },
-      "artists": [
-        {
-          "name": "States & Capitals",
-          "url": "https://open.spotify.com/artist/790UjtODOzqAYB4O4RLJxR"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "(It's Not Living) If It's Not With You",
-      "url": "https://open.spotify.com/track/7KJArPtsgZLC5XxfSuN5hA"
-    },
-    {
-      "added_at": "2022-06-27 04:00:00",
+      "added_at": "2022-07-04 04:00:00",
       "album": {
         "name": "Loyals",
         "url": "https://open.spotify.com/album/0PRElfsd3x46AlQcV949s8"
@@ -233,187 +105,215 @@
       "url": "https://open.spotify.com/track/0I9deMawCrAn32ntJLYbsX"
     },
     {
-      "added_at": "2022-06-27 04:00:00",
+      "added_at": "2022-07-04 04:00:00",
       "album": {
-        "name": "Winnetka Bowling League",
-        "url": "https://open.spotify.com/album/4tqrJS2IlHBXKMLLb6lx8T"
+        "name": "Fireworks",
+        "url": "https://open.spotify.com/album/1PWfTbxEiAheaFfAD9LRU1"
       },
       "artists": [
         {
-          "name": "Winnetka Bowling League",
-          "url": "https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu"
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 253720,
-      "name": "are you okay?",
-      "url": "https://open.spotify.com/track/7nXfaLpel3ilrP4cavlfi1"
+      "duration_ms": 242014,
+      "name": "Fireworks",
+      "url": "https://open.spotify.com/track/410TZTR81hzdwbjMJsW7mk"
     },
     {
-      "added_at": "2022-06-27 04:00:00",
+      "added_at": "2022-07-04 04:00:00",
       "album": {
-        "name": "Ry-Lo",
-        "url": "https://open.spotify.com/album/6x2TFlftKysfMHkwvUoddq"
+        "name": "(It's Not Living) If It's Not With You",
+        "url": "https://open.spotify.com/album/5wN5poCaKFZpB8ZsXrGVRt"
       },
       "artists": [
         {
-          "name": "Ry-Lo",
-          "url": "https://open.spotify.com/artist/1V70bPTzUUx02B6HQNx1QQ"
+          "name": "States & Capitals",
+          "url": "https://open.spotify.com/artist/790UjtODOzqAYB4O4RLJxR"
         }
       ],
-      "duration_ms": 305818,
-      "name": "New Friend",
-      "url": "https://open.spotify.com/track/7jOYau92YXPhJQTAfEcWuc"
+      "duration_ms": 230000,
+      "name": "(It's Not Living) If It's Not With You",
+      "url": "https://open.spotify.com/track/7KJArPtsgZLC5XxfSuN5hA"
     },
     {
-      "added_at": "2022-06-27 04:00:00",
+      "added_at": "2022-07-04 04:00:00",
       "album": {
-        "name": "A Fine Line",
-        "url": "https://open.spotify.com/album/3yp0ICS4BC2ZizQ0k8yQCV"
+        "name": "First Place",
+        "url": "https://open.spotify.com/album/5SMIvs45B5BN5ES3qqiblH"
       },
       "artists": [
         {
-          "name": "Cypress",
-          "url": "https://open.spotify.com/artist/0J7CXD5MWLqn3pcTDoGEhu"
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
         }
       ],
-      "duration_ms": 300295,
-      "name": "Still Blue",
-      "url": "https://open.spotify.com/track/24kEcxphKufCs6KNPkyf5K"
+      "duration_ms": 180393,
+      "name": "Hallways",
+      "url": "https://open.spotify.com/track/30k138Im9nmWZwJD00pFow"
     },
     {
-      "added_at": "2022-06-27 04:00:00",
+      "added_at": "2022-07-04 04:00:00",
       "album": {
-        "name": "Hold Still",
-        "url": "https://open.spotify.com/album/0HMUJBpZHeabgr1s4y6PEw"
+        "name": "Midland",
+        "url": "https://open.spotify.com/album/67DyTWAldohmwTvFvJCJpQ"
       },
       "artists": [
         {
-          "name": "Taylor Leonhardt",
-          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
         }
       ],
-      "duration_ms": 217320,
-      "name": "Happy or Whatever",
-      "url": "https://open.spotify.com/track/3hdcIanwhtkVRqtPNB7piq"
+      "duration_ms": 316679,
+      "name": "East Chicago, IN",
+      "url": "https://open.spotify.com/track/3NsIAWbfXNKbwC0UfvzyrK"
     },
     {
-      "added_at": "2022-06-27 04:00:00",
+      "added_at": "2022-07-04 04:00:00",
       "album": {
-        "name": "Don't Look Back, Love",
-        "url": "https://open.spotify.com/album/7v9QeuHRo45FVaHwsY66JA"
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/6mIXDxvVDjfxDseTmOWJ0b"
       },
       "artists": [
         {
-          "name": "Streamers The Band",
-          "url": "https://open.spotify.com/artist/5EW1xu5QCRA0qFKRt6Izv5"
+          "name": "Beachfriends",
+          "url": "https://open.spotify.com/artist/7EYNMYHZUieuc7BcOci6eY"
         }
       ],
-      "duration_ms": 227850,
-      "name": "Don't Look Back, Love",
-      "url": "https://open.spotify.com/track/7gU1wVhRlI2IggnBxb2oWr"
+      "duration_ms": 201481,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/7o7nhGcxPqFP3Nb5WhXms2"
     },
     {
-      "added_at": "2022-06-27 04:00:00",
+      "added_at": "2022-07-04 04:00:00",
       "album": {
-        "name": "Go Around",
-        "url": "https://open.spotify.com/album/5gcrssl1Te9P9V0QGPRWZt"
+        "name": "The Mathematics of Nature",
+        "url": "https://open.spotify.com/album/0uBZBBhGxyYXJCPhE2lU2W"
       },
       "artists": [
         {
-          "name": "Josh Gilligan",
-          "url": "https://open.spotify.com/artist/46g5hcuu0pLv0KYtk3m899"
+          "name": "Matthew Chaim",
+          "url": "https://open.spotify.com/artist/70JkpECHBzs79FOYemfHwk"
         }
       ],
-      "duration_ms": 223966,
-      "name": "Go Around",
-      "url": "https://open.spotify.com/track/4XW24tqU4OG940MdepSQHB"
+      "duration_ms": 363841,
+      "name": "Winter/Fall",
+      "url": "https://open.spotify.com/track/2s152GUETF2NZdSYYhwnk9"
     },
     {
-      "added_at": "2022-06-27 04:00:00",
+      "added_at": "2022-07-04 04:00:00",
       "album": {
-        "name": "Polydans",
-        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
+        "name": "If It Keeps You Up At Night",
+        "url": "https://open.spotify.com/album/0BFfafIVW2Cuh1EFCNnTTO"
       },
       "artists": [
         {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+          "name": "The Swoons",
+          "url": "https://open.spotify.com/artist/5RGUEjOuOgYjBfL9wOmoGh"
         }
       ],
-      "duration_ms": 283915,
-      "name": "Closer to My Heart",
-      "url": "https://open.spotify.com/track/0nGyc26fHbXzMCDwykT5PG"
+      "duration_ms": 254561,
+      "name": "If It Keeps You Up At Night",
+      "url": "https://open.spotify.com/track/2eoPKOONaK9Dh9essIxrIt"
     },
     {
-      "added_at": "2022-06-27 04:00:00",
+      "added_at": "2022-07-04 04:00:00",
       "album": {
-        "name": "everywhere",
-        "url": "https://open.spotify.com/album/1gkBtk4uRf9h4iUBXbPnxL"
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/5ijMMFiB7itadRb19AIWIB"
       },
       "artists": [
         {
-          "name": "Smallpools",
-          "url": "https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw"
-        },
-        {
-          "name": "Emily Vaughn",
-          "url": "https://open.spotify.com/artist/3G9gR0x4v3J2Vek0Fw0yf2"
+          "name": "Julius Black",
+          "url": "https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj"
         }
       ],
-      "duration_ms": 224041,
-      "name": "everywhere",
-      "url": "https://open.spotify.com/track/7fROnnvjVQHESskj3WmQ6r"
+      "duration_ms": 186153,
+      "name": "Electric Blue",
+      "url": "https://open.spotify.com/track/4HNuzjFoJ46jGvtfhQeBzu"
     },
     {
-      "added_at": "2022-06-27 04:00:00",
+      "added_at": "2022-07-04 04:00:00",
       "album": {
-        "name": "Dirt Emo Vol. 1",
-        "url": "https://open.spotify.com/album/257DLarcvZQOIP9af3FNRe"
+        "name": "these words are all for you",
+        "url": "https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS"
       },
       "artists": [
         {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
         }
       ],
-      "duration_ms": 324986,
-      "name": "All Too Well",
-      "url": "https://open.spotify.com/track/7BYPmEdt88hoMF5yrEFWV8"
+      "duration_ms": 266913,
+      "name": "london",
+      "url": "https://open.spotify.com/track/1nqNnu4DVABLftYBp55oAQ"
     },
     {
-      "added_at": "2022-06-27 04:00:00",
+      "added_at": "2022-07-04 04:00:00",
       "album": {
-        "name": "a touch of the beat gets you up on your feet gets you out and then into the sun",
-        "url": "https://open.spotify.com/album/4KWQ59OXCizPTrq9kADYQi"
+        "name": "Glue",
+        "url": "https://open.spotify.com/album/4k3pqlmyL93ZLg15ImAlut"
       },
       "artists": [
         {
-          "name": "Aly & AJ",
-          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+          "name": "Daulton Hopkins",
+          "url": "https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS"
         }
       ],
-      "duration_ms": 319400,
-      "name": "Pretty Places",
-      "url": "https://open.spotify.com/track/1NId6BKUZwaLDKgZXXZuGC"
+      "duration_ms": 201840,
+      "name": "Glue",
+      "url": "https://open.spotify.com/track/6KlnHl4ehm8q5HZ73U1Gsp"
     },
     {
-      "added_at": "2022-06-27 04:00:00",
+      "added_at": "2022-07-04 04:00:00",
       "album": {
-        "name": "honey, i just",
-        "url": "https://open.spotify.com/album/1AnMnuymaUHZDlX6IKAdc8"
+        "name": "reasons.",
+        "url": "https://open.spotify.com/album/3SqflBNZH1lx00caHhhYcK"
       },
       "artists": [
         {
-          "name": "wylie hopkins",
-          "url": "https://open.spotify.com/artist/4os4J8PaDrqHAsBfO2xDn9"
+          "name": "Matt Van",
+          "url": "https://open.spotify.com/artist/6pw4nmjxQHpyKWUBQi4SSz"
         }
       ],
-      "duration_ms": 201124,
-      "name": "honey, i just",
-      "url": "https://open.spotify.com/track/43B0CO1NW8kU1oA5aMiw68"
+      "duration_ms": 234482,
+      "name": "reasons.",
+      "url": "https://open.spotify.com/track/6jnNIeDgGUhtrlKMjXfMQi"
     },
     {
-      "added_at": "2022-06-27 04:00:00",
+      "added_at": "2022-07-04 04:00:00",
+      "album": {
+        "name": "[ The Black Era ]",
+        "url": "https://open.spotify.com/album/47rOikEyuwGUCqGpTemU7G"
+      },
+      "artists": [
+        {
+          "name": "Jet Black Alley Cat",
+          "url": "https://open.spotify.com/artist/6p2LDcKxYGWM4azuOXNPHJ"
+        }
+      ],
+      "duration_ms": 240532,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/7zO6KQDrxDwhJqE6goQ5s7"
+    },
+    {
+      "added_at": "2022-07-04 04:00:00",
+      "album": {
+        "name": "Singles 2020 - 2021",
+        "url": "https://open.spotify.com/album/1P3o6luZikVwr1ZGZVgyEQ"
+      },
+      "artists": [
+        {
+          "name": "New West",
+          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
+        }
+      ],
+      "duration_ms": 232325,
+      "name": "Next to You",
+      "url": "https://open.spotify.com/track/2YFWdYtMJEgKKbmnIVNCpR"
+    },
+    {
+      "added_at": "2022-07-04 04:00:00",
       "album": {
         "name": "Feel the Same",
         "url": "https://open.spotify.com/album/0mYhdrJAZNFYaHqCoh6jHw"
@@ -429,72 +329,164 @@
       "url": "https://open.spotify.com/track/3FmowjgP140Te2KFmPsc2s"
     },
     {
-      "added_at": "2022-06-27 04:00:00",
+      "added_at": "2022-07-04 04:00:00",
       "album": {
-        "name": "LET\u2019S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO?",
-        "url": "https://open.spotify.com/album/4sih9lWIIKldL1n5kcotjI"
+        "name": "Even When it Doesn't Rhyme",
+        "url": "https://open.spotify.com/album/2sztgjbzFNCxmQqFx1aHet"
       },
       "artists": [
         {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+          "name": "Dawson Hollow",
+          "url": "https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R"
         }
       ],
-      "duration_ms": 267066,
-      "name": "HEARTSONG",
-      "url": "https://open.spotify.com/track/3SvkSJOefWpbUmvBjCzMRn"
+      "duration_ms": 187917,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/4LgRVcUYk6sf2hFm4C55nT"
     },
     {
-      "added_at": "2022-06-27 04:00:00",
+      "added_at": "2022-07-04 04:00:00",
       "album": {
-        "name": "Canyon",
-        "url": "https://open.spotify.com/album/3wuICxTDIz3Mvg9qZ24WJT"
+        "name": "The End",
+        "url": "https://open.spotify.com/album/1l7FK1ciBg8I4uxjewhWdY"
       },
       "artists": [
         {
-          "name": "Glded",
-          "url": "https://open.spotify.com/artist/6LQHbUxsIOTU2vkzbUaXCH"
+          "name": "LOS LEO",
+          "url": "https://open.spotify.com/artist/66JYtwqQMdDFgBgMP1NENW"
         }
       ],
-      "duration_ms": 189445,
-      "name": "Canyon",
-      "url": "https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX"
+      "duration_ms": 226178,
+      "name": "Take Your Time",
+      "url": "https://open.spotify.com/track/7dFbQKn5asQsxpiyRojTgO"
     },
     {
-      "added_at": "2022-06-27 04:00:00",
+      "added_at": "2022-07-04 04:00:00",
       "album": {
-        "name": "Oscilloscope",
-        "url": "https://open.spotify.com/album/1AMhloP4Y5ERJXYM00gwLd"
+        "name": "Always You/Parchment (Acoustic)",
+        "url": "https://open.spotify.com/album/7F8gHG485lvSgNESdIC3L9"
       },
       "artists": [
         {
-          "name": "Family of Things",
-          "url": "https://open.spotify.com/artist/5uxN84GwfK8B2Uhgyjc5ps"
+          "name": "Spinning",
+          "url": "https://open.spotify.com/artist/6IspENBNKAvxb47b8dMPJc"
         }
       ],
-      "duration_ms": 225871,
-      "name": "Harm",
-      "url": "https://open.spotify.com/track/0aMQu5dvwsD2Ipl5JJMV1Q"
+      "duration_ms": 151367,
+      "name": "Always You",
+      "url": "https://open.spotify.com/track/5QYC4Cnb0fMxwasrOcdyd4"
     },
     {
-      "added_at": "2022-06-27 04:00:00",
+      "added_at": "2022-07-04 04:00:00",
       "album": {
-        "name": "Heaven Down",
-        "url": "https://open.spotify.com/album/7eFkuU5K0KTyAQ1Z3j1txq"
+        "name": "Night Drive",
+        "url": "https://open.spotify.com/album/78eaGps4Ui3AeMInZuTQE3"
       },
       "artists": [
         {
-          "name": "Roary",
-          "url": "https://open.spotify.com/artist/1RLZPXW7wtkg92bfPZMKWd"
-        },
-        {
-          "name": "Tim Halperin",
-          "url": "https://open.spotify.com/artist/3nVeK8gQChVtVCCjGreal2"
+          "name": "VHS Collection",
+          "url": "https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH"
         }
       ],
-      "duration_ms": 245200,
-      "name": "Heaven Down",
-      "url": "https://open.spotify.com/track/3VUTAyySoi8ozQOYYB3P3R"
+      "duration_ms": 239360,
+      "name": "Space Between Us",
+      "url": "https://open.spotify.com/track/0wgqJvYssk2bISW9QSm7HR"
+    },
+    {
+      "added_at": "2022-07-04 04:00:00",
+      "album": {
+        "name": "THNKS FR TH MMRS",
+        "url": "https://open.spotify.com/album/3jrTUdpr4awzbOq2k5Co6m"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        }
+      ],
+      "duration_ms": 191020,
+      "name": "THNKS FR TH MMRS",
+      "url": "https://open.spotify.com/track/19sIRHkQIDpShLeOr7qpDu"
+    },
+    {
+      "added_at": "2022-07-04 04:00:00",
+      "album": {
+        "name": "Gilded Paradise",
+        "url": "https://open.spotify.com/album/7unHJZsx3wgI184nvT4ZmN"
+      },
+      "artists": [
+        {
+          "name": "Mirours",
+          "url": "https://open.spotify.com/artist/75LCOigw8mFKzvhjpHv2jT"
+        }
+      ],
+      "duration_ms": 221777,
+      "name": "Colorful Love",
+      "url": "https://open.spotify.com/track/6oiR59mFewk0qdQ72fQBVa"
+    },
+    {
+      "added_at": "2022-07-04 04:00:00",
+      "album": {
+        "name": "A Fine Line",
+        "url": "https://open.spotify.com/album/3yp0ICS4BC2ZizQ0k8yQCV"
+      },
+      "artists": [
+        {
+          "name": "Cypress",
+          "url": "https://open.spotify.com/artist/0J7CXD5MWLqn3pcTDoGEhu"
+        }
+      ],
+      "duration_ms": 300295,
+      "name": "Still Blue",
+      "url": "https://open.spotify.com/track/24kEcxphKufCs6KNPkyf5K"
+    },
+    {
+      "added_at": "2022-07-04 04:00:00",
+      "album": {
+        "name": "Almond Eyes",
+        "url": "https://open.spotify.com/album/6eaw3onrYLNw6mCj4CNkRg"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 228226,
+      "name": "Almond Eyes",
+      "url": "https://open.spotify.com/track/5YPvKuxR3nJDL2jCKC5lVj"
+    },
+    {
+      "added_at": "2022-07-04 04:00:00",
+      "album": {
+        "name": "Everything's Fine",
+        "url": "https://open.spotify.com/album/2IspEKYzqv0yubLpJPUVA3"
+      },
+      "artists": [
+        {
+          "name": "Jamie Drake",
+          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
+        }
+      ],
+      "duration_ms": 277722,
+      "name": "To My Love",
+      "url": "https://open.spotify.com/track/0VhgZ6CDg9ETcPz7ruxeI2"
+    },
+    {
+      "added_at": "2022-07-04 04:00:00",
+      "album": {
+        "name": "Surplus",
+        "url": "https://open.spotify.com/album/7wZzN2juZp10aveDsoVvQj"
+      },
+      "artists": [
+        {
+          "name": "Spectre Jones",
+          "url": "https://open.spotify.com/artist/4ew89Rjw5CRGDZJ7EdMvnS"
+        }
+      ],
+      "duration_ms": 210876,
+      "name": "Surplus",
+      "url": "https://open.spotify.com/track/0xNhcJSTJm5M3ebEXj2gf0"
     }
   ],
   "unique_name": "Discover Weekly (@mackorone)",

@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 191973,
       "name": "Ahora Te Puedes Marchar",
       "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 466133,
       "name": "Como Decirte No / Te Veo Venir Soledad - Live Version",
       "url": "https://open.spotify.com/track/4XYmRB6KDPSJCZBmqFfOtm"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 267280,
       "name": "Cosas Del Amor",
       "url": "https://open.spotify.com/track/139SxHqKl7YOmuC1RAnmpJ"
@@ -777,7 +777,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 268800,
       "name": "En ausencia de ti",
       "url": "https://open.spotify.com/track/0I2feE3ac2r9QFhi6y4MDx"
@@ -849,7 +849,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 251666,
       "name": "Es Demasiado Tarde - Remasterizado",
       "url": "https://open.spotify.com/track/5g4HXOoT2kQTDtVuJhBgBV"
@@ -968,6 +968,24 @@
     },
     {
       "album": {
+        "name": "Evidencias",
+        "url": "https://open.spotify.com/album/3uV0DAuyOAGJ9YlbXIPoQF"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252046,
+      "name": "Evidencias",
+      "url": "https://open.spotify.com/track/2BjE7xVdzHIPfq3FwUiVx4"
+    },
+    {
+      "album": {
         "name": "Tarde O Temprano",
         "url": "https://open.spotify.com/album/10puCHT7A7lCYydtRCnawp"
       },
@@ -997,7 +1015,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 155373,
       "name": "Fotos Y Recuerdos",
       "url": "https://open.spotify.com/track/5l4yL1SGvwxuN3It1eupnu"
@@ -1409,7 +1427,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 192613,
       "name": "Me Enamora",
       "url": "https://open.spotify.com/track/5BY0p2EH4EznNZ0MFD9mjt"
@@ -1629,7 +1647,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 261000,
       "name": "No S\u00e9 Olvidar",
       "url": "https://open.spotify.com/track/5GRw7thRUAl9hYx9V8jbPk"
@@ -1791,7 +1809,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 266653,
       "name": "Porque Es Tan Cruel El Amor",
       "url": "https://open.spotify.com/track/14Osyrs4kYXhH928UVP0ku"
@@ -1845,7 +1863,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 299786,
       "name": "Querido Tommy",
       "url": "https://open.spotify.com/track/2JCXcyMXlVywgDJT86wWZW"
@@ -1899,7 +1917,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 171320,
       "name": "Qu\u00e9 Vida la M\u00eda",
       "url": "https://open.spotify.com/track/3T0OdyDjFtltn1nHH4j06U"
@@ -1935,7 +1953,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 183146,
       "name": "Sabor a Mi",
       "url": "https://open.spotify.com/track/0M3gfocW6UgqUS9XaobkNB"
@@ -2065,7 +2083,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 216986,
       "name": "Solo Importas Tu",
       "url": "https://open.spotify.com/track/7mu0o0LnLZQxsl9x3ZuOyX"
@@ -2413,7 +2431,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 212062,
       "name": "Una Calle Nos Separa",
       "url": "https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r"
@@ -2449,7 +2467,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 222213,
       "name": "Volv\u00ed a Nacer",
       "url": "https://open.spotify.com/track/6Al0Kpd4VrRZ0Z4kTThNPa"

@@ -1,12 +1,12 @@
 {
   "description": "Music from and inspired by Stranger Things. Watch Season 4 now on Netflix.",
-  "num_followers": 1173552,
+  "num_followers": 1295457,
   "original_name": "Stranger Things Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Njg5OTk0NywwMDAwMDAwMDNkMzYzM2VlMjUyYzE2MGUzNTRmMjEwZDVmZDhkMjMw",
+  "snapshot_id": "MTY1Njk4NjEwMSwwMDAwMDAwMDA0ZjMxM2ZlM2FiODA5MTYyYWIzMDgzNzQ5ZDljNWJm",
   "tracks": [
     {
       "added_at": "2022-05-27 04:01:00",
@@ -23,6 +23,22 @@
       "duration_ms": 300062,
       "name": "Running Up That Hill (A Deal with God)",
       "url": "https://open.spotify.com/track/6VfKhnmbqCj14zcjZNjZTk"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
+        "url": "https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 514479,
+      "name": "Master of Puppets",
+      "url": "https://open.spotify.com/track/799XxzSlWNYkuWJxUbuGnF"
     },
     {
       "added_at": "2022-04-12 14:33:13",
@@ -319,22 +335,6 @@
       "duration_ms": 195506,
       "name": "Spellbound",
       "url": "https://open.spotify.com/track/193bm1RUDDOF0cnLJHJ93V"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
-        "url": "https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 514479,
-      "name": "Master of Puppets",
-      "url": "https://open.spotify.com/track/799XxzSlWNYkuWJxUbuGnF"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -773,7 +773,7 @@
         },
         {
           "name": "Metropolitan Opera Orchestra and Chorus",
-          "url": "https://open.spotify.com/artist/46qRIExxAlkyGquxsXxxMj"
+          "url": "https://open.spotify.com/artist/743H6lEf7WMRce4hiTir5i"
         },
         {
           "name": "Karen Kamensek",
@@ -813,7 +813,7 @@
         },
         {
           "name": "Metropolitan Opera Orchestra and Chorus",
-          "url": "https://open.spotify.com/artist/46qRIExxAlkyGquxsXxxMj"
+          "url": "https://open.spotify.com/artist/743H6lEf7WMRce4hiTir5i"
         },
         {
           "name": "Karen Kamensek",

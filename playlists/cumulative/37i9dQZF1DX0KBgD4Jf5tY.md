@@ -4,7 +4,7 @@
 
 > La scena italiana indipendente, senza etichette di genere\. Cover: Bobby Wanna
 
-279 songs - 14 hr 17 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
+280 songs - 14 hr 20 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Giovani Vecchi](https://open.spotify.com/track/78SvGNqbA2GQa8kiwvkKKi) | [Matteo Alieno](https://open.spotify.com/artist/0HFD1kS1lUZkZaGX0702QM) | [Giovani Vecchi](https://open.spotify.com/album/6C0FOTFKcELvwAPWApNZqJ) | 2:58 | 2022-03-03 | 2022-05-06 |
 | [Giù](https://open.spotify.com/track/3ctMkJzFcEgNbN2CBYJ5sx) | [ehm.carbo](https://open.spotify.com/artist/1olvNHZrWoIy6uszZGrUGB) | [Giù](https://open.spotify.com/album/7v3R44AkhsnpCuZiIS1qVY) | 2:46 | 2022-06-02 |  |
 | [goddamn](https://open.spotify.com/track/3BLgoDnKegcilQMQvcCl1W) | [mt36](https://open.spotify.com/artist/4u8sH1UCcEeS6lke6At8Fi), [rooc lee](https://open.spotify.com/artist/5J9oExne65TylhJLUsnSQ8) | [goddamn](https://open.spotify.com/album/2VWCy3ui3OjSa6gqhxSHTR) | 2:06 | 2022-02-17 | 2022-03-04 |
-| [Hard Tarantella](https://open.spotify.com/track/178YagFa1fETe8OgcscaOw) | [NZIRIA](https://open.spotify.com/artist/4bt8JAxE4tksg2VBgMCvIe) | [XXYBRID](https://open.spotify.com/album/7HZLxzOOyomjSwoJA0bvKL) | 5:05 | 2022-05-19 |  |
+| [Hard Tarantella](https://open.spotify.com/track/178YagFa1fETe8OgcscaOw) | [NZIRIA](https://open.spotify.com/artist/4bt8JAxE4tksg2VBgMCvIe) | [XXYBRID](https://open.spotify.com/album/7HZLxzOOyomjSwoJA0bvKL) | 5:05 | 2022-05-19 | 2022-07-05 |
 | [Harem](https://open.spotify.com/track/56DscQnCfTx3Mrzg0ilNYc) | [CARUCCIO](https://open.spotify.com/artist/7iEdkkrillq0ZTKEg0rADQ) | [Harem](https://open.spotify.com/album/2s69BagRedQ4zcbebXoP9s) | 2:58 | 2022-01-06 | 2022-02-18 |
 | [Ho perso il conto](https://open.spotify.com/track/1LEeORXqVV1mrikm04YVyu) | [Bidi Blanca](https://open.spotify.com/artist/22sXLj1jMFiKtpValJKQ4Y) | [GENESI](https://open.spotify.com/album/56X9IjteFWhd17bAUkzxYw) | 3:19 | 2022-04-08 | 2022-06-17 |
 | [HOUDINI](https://open.spotify.com/track/18JurzXlXmAHu0IbyW3LpA) | [Franek Windy](https://open.spotify.com/artist/1N0nTSt5dfmWS9kGChRAIL), [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [HOUDINI](https://open.spotify.com/album/4B9YmfMSiJXlMLeDpoJylM) | 2:32 | 2022-04-19 | 2022-06-10 |
@@ -247,6 +247,7 @@
 | [Stanze d'hotel](https://open.spotify.com/track/4VqYtNokFMIOO8gJRtM6fx) | [menomale](https://open.spotify.com/artist/2zmHozc3Ih0srWs5Pf8gzt), [maggio](https://open.spotify.com/artist/7bykcg3a4exhrIgiffIR2Q) | [Stanze d'hotel](https://open.spotify.com/album/53ifeDdwpGFxox0y2MfDzQ) | 2:54 | 2022-06-30 |  |
 | [STARS ALIGN](https://open.spotify.com/track/3t6egFkmHnx1gv5hPOWtVB) | [FKA 059](https://open.spotify.com/artist/0qs58UjHvEGo2rzfjxinmY), [o k h o](https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U), [Aaron Rumore](https://open.spotify.com/artist/32E3ChQHyhmhRs1H4sM4OU) | [STARS ALIGN](https://open.spotify.com/album/3vnbz1dr9Si8cabIZXtov6) | 2:33 | 2022-03-17 | 2022-03-25 |
 | [Struggle](https://open.spotify.com/track/4y38EplYu8PVUqowLUPjql) | [Ngawa](https://open.spotify.com/artist/0k1NRT7Wbw1bjbjygEBtE7), [Tanca](https://open.spotify.com/artist/2HDuNOhm4h9glYn2F7rAFP) | [Struggle](https://open.spotify.com/album/2ZXPPqe1v28BrhhBfAOmvT) | 3:30 | 2022-04-08 | 2022-05-06 |
+| [Stupido cielo](https://open.spotify.com/track/5BMtEGrwyx2FXnOPxm9CKA) | [Caleydo](https://open.spotify.com/artist/0LQI1hrK6naJCuxcY0CNQG), [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [Stupido cielo](https://open.spotify.com/album/55eX2Z5Nm3Dv6uaS01NkXX) | 2:55 | 2022-07-04 |  |
 | [Sui sedili della metro](https://open.spotify.com/track/0KlAZX612EFzgAfojYvN3L) | [NIVEO](https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS) | [Sui sedili della metro](https://open.spotify.com/album/1Zp0SNFItqjRJxuyRD0ors) | 2:55 | 2022-06-02 |  |
 | [sumikko gurashi](https://open.spotify.com/track/0pBXe49nzIs7AxOZFQKLTC) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P) | [sumikko gurashi](https://open.spotify.com/album/6G9I4Zx3jbGzkMXW8wBviE) | 1:37 | 2022-02-17 | 2022-02-23 |
 | [T\-RIP](https://open.spotify.com/track/407xsMEzZSnm0wtYcBayXS) | [SHADOUONE](https://open.spotify.com/artist/4sDYAkaVYe1bFcIl9Aan43) | [T\-RIP](https://open.spotify.com/album/3a1dHwhl6TJuiWQRsI0L7p) | 3:44 | 2022-06-23 |  |

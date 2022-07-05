@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Kollektiv Turmstrasse
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,531 likes - 75 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,747 likes - 75 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 4 | [Fino](https://open.spotify.com/track/7FuAVEMSHC6W20Y0agpEVc) | [Marek Hemmann](https://open.spotify.com/artist/7tL5UmgvPx6TqKyf0Sjjw6) | [Four](https://open.spotify.com/album/6bdpZUfLh2AnGveQIokC7X) | 5:28 |
 | 5 | [All I Got](https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [All I Got](https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h) | 5:04 |
 | 6 | [Bariel](https://open.spotify.com/track/0GSPCQJjn2n79DIHG1uJyn) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Bariel \| Vivo](https://open.spotify.com/album/1UyMYFuQG0uqHDtiTVG2HW) | 7:08 |
-| 7 | [Felicity](https://open.spotify.com/track/1MiQ67ljfXuuxh25CbdbUr) | [Annett Gapstream](https://open.spotify.com/artist/1aRB0SZZ28qswBQ037uYvD), [Daniele De Martino](https://open.spotify.com/artist/1P0crNTkAtkSEDCGsbd2JJ) | [Hidden Peak](https://open.spotify.com/album/4r39P3IcmkJ3rIiGKbOwIg) | 6:51 |
+| 7 | [Felicity](https://open.spotify.com/track/1MiQ67ljfXuuxh25CbdbUr) | [Annett Gapstream](https://open.spotify.com/artist/1aRB0SZZ28qswBQ037uYvD), [Daniele Di Martino](https://open.spotify.com/artist/1P0crNTkAtkSEDCGsbd2JJ) | [Hidden Peak](https://open.spotify.com/album/4r39P3IcmkJ3rIiGKbOwIg) | 6:51 |
 | 8 | [Small Stone](https://open.spotify.com/track/0DKi5UcgoLikM85Z8Z4hpJ) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Bella Mar 09](https://open.spotify.com/album/6SuXhXKHHeQku1JzyHAyZH) | 7:29 |
 | 9 | [Meli \(II\)](https://open.spotify.com/track/6nGhGBz7uaE1RngnIFRKep) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Meli \(II\)](https://open.spotify.com/album/6pDZnLDqV5XuiVmuSw7oZs) | 6:57 |
 | 10 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 |

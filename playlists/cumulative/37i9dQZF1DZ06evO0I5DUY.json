@@ -459,7 +459,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 190466,
       "name": "Eleazar del Fierro",
       "url": "https://open.spotify.com/track/1sil71b3xI44UP2wHkmWjV"
@@ -477,7 +477,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 174000,
       "name": "Estoy Pagando",
       "url": "https://open.spotify.com/track/0yBaPIxrvxLHmWAhFPewmW"
@@ -607,6 +607,24 @@
       "duration_ms": 187173,
       "name": "La Cruz Negra",
       "url": "https://open.spotify.com/track/2DiBQzkbn1b33z76pQdu1h"
+    },
+    {
+      "album": {
+        "name": "Las Preferidas",
+        "url": "https://open.spotify.com/album/6WMgRGeyY0tW3paVhjw1ne"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212940,
+      "name": "La Eche en un Carrito",
+      "url": "https://open.spotify.com/track/515smiuAAOc8azDZqtEHBD"
     },
     {
       "album": {
@@ -853,7 +871,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 188933,
       "name": "Nomas Las Mujeres Quedan",
       "url": "https://open.spotify.com/track/4bSadmBSBEBuddAwqbHJvW"
@@ -871,7 +889,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 174546,
       "name": "Pescadores de Ensenada",
       "url": "https://open.spotify.com/track/2QLYBaZhH2uCkxTfGgG0u7"
@@ -961,7 +979,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 162120,
       "name": "Regalo de Reyes",
       "url": "https://open.spotify.com/track/0ENJiHJvWTM5ZXgxyYRkIO"
@@ -1073,7 +1091,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 162280,
       "name": "Tengo Un Amor Escondido",
       "url": "https://open.spotify.com/track/0jRHGnHLCS0d0uIEmwvfqN"

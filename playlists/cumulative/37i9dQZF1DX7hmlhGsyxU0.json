@@ -445,7 +445,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 260729,
       "name": "Calm Water",
       "url": "https://open.spotify.com/track/3VHj17DOjq1Yf89SCPK0Nj"
@@ -551,7 +551,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 157500,
       "name": "Drifter",
       "url": "https://open.spotify.com/track/0R7jFHY8XqC6eR8zG97F8P"
@@ -667,7 +667,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 151012,
       "name": "Estrelinha",
       "url": "https://open.spotify.com/track/5OMjzwf9FRa7aizpZe5ANU"
@@ -721,7 +721,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 211999,
       "name": "Fade Far Away",
       "url": "https://open.spotify.com/track/29JEQ9F09fK6pyyEwy66am"
@@ -933,7 +933,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 105516,
       "name": "Hansu Sees Sunja",
       "url": "https://open.spotify.com/track/36U06R699jzn3RBSwVVwvb"
@@ -1378,6 +1378,24 @@
     },
     {
       "album": {
+        "name": "Cloud Symphonies",
+        "url": "https://open.spotify.com/album/3AJD3BoSJ6wHZqprYZuJQJ"
+      },
+      "artists": [
+        {
+          "name": "Shook",
+          "url": "https://open.spotify.com/artist/3JKd43oYlE7ifoodXetsuw"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165285,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/5ly936q8wbYkX0L11Edwep"
+    },
+    {
+      "album": {
         "name": "Voices (Pt. 1 & 2)",
         "url": "https://open.spotify.com/album/3ZQ76t0fo1GxMP3FWUJaDu"
       },
@@ -1389,7 +1407,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 156133,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/3Cdzk02nbZWYs3qYD7ae5Q"
@@ -1433,7 +1451,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 284506,
       "name": "Musica Desolata",
       "url": "https://open.spotify.com/track/3Yxr6ErXlxOZlKpHopaOZ4"
@@ -1781,7 +1799,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 186000,
       "name": "Procyon",
       "url": "https://open.spotify.com/track/35m2vXqGKnKrJZLIq36HQ2"
@@ -2071,7 +2089,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 170375,
       "name": "Swan Lake Story, Op. 1",
       "url": "https://open.spotify.com/track/0xnJfH95YdS540hYkQK0qU"
@@ -2125,7 +2143,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 119906,
       "name": "The Bell Calls Us to Vespers",
       "url": "https://open.spotify.com/track/1BxMBPVCgKjbWH2Pt53HRt"
@@ -2165,7 +2183,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 137560,
       "name": "The Green Light (The Great Gatsby) - Piano Version",
       "url": "https://open.spotify.com/track/1JrIcQ0MzD0B6OddEflF0U"
@@ -2429,7 +2447,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 185215,
       "name": "Warm Embrace",
       "url": "https://open.spotify.com/track/0mkSNpmLh8KPX6dTy9QY6X"
@@ -2487,7 +2505,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 227674,
       "name": "Woven Song \u2014 piano reworks",
       "url": "https://open.spotify.com/track/1wb6pRSvhekFyXO5j3fXol"

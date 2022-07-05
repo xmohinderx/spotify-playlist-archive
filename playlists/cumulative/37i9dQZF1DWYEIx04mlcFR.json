@@ -1033,7 +1033,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 183109,
       "name": "La Puerta",
       "url": "https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l"
@@ -1203,7 +1203,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 170000,
       "name": "Mala Vida",
       "url": "https://open.spotify.com/track/3QUsNIAM9lH8uLlDwI5tNN"
@@ -1657,7 +1657,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 243664,
       "name": "Navegantes",
       "url": "https://open.spotify.com/track/6T5HmWq4GIX4ujSMuvl4oZ"
@@ -1879,6 +1879,24 @@
       "duration_ms": 174213,
       "name": "Pa Que Te Digo Que No",
       "url": "https://open.spotify.com/track/4NhkLL44pqu1tw479u1KIx"
+    },
+    {
+      "album": {
+        "name": "Pa'l Viento",
+        "url": "https://open.spotify.com/album/1Lq8u0fHqS6I52EaPHpn3O"
+      },
+      "artists": [
+        {
+          "name": "Sous-Sol",
+          "url": "https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145454,
+      "name": "Pa'l Viento",
+      "url": "https://open.spotify.com/track/12q0LhDcpKvOjRxMpL9RfE"
     },
     {
       "album": {
@@ -2282,6 +2300,24 @@
     },
     {
       "album": {
+        "name": "Sal Dulce",
+        "url": "https://open.spotify.com/album/1WtgHitKYHxiCuwZbcuAkg"
+      },
+      "artists": [
+        {
+          "name": "Curena M\u00eda",
+          "url": "https://open.spotify.com/artist/25zGv6p87TUY5q5PmSLsjx"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Sal Dulce",
+      "url": "https://open.spotify.com/track/30iT8kFeJiOX3SFkXmf8Zi"
+    },
+    {
+      "album": {
         "name": "San Lucas",
         "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
       },
@@ -2355,6 +2391,24 @@
       "duration_ms": 193299,
       "name": "Se Me Olvida",
       "url": "https://open.spotify.com/track/11h8rm2aWPvPdfMc2tLaJN"
+    },
+    {
+      "album": {
+        "name": "Se Mejor",
+        "url": "https://open.spotify.com/album/4Si5bChIgshhQOL4LBcmvQ"
+      },
+      "artists": [
+        {
+          "name": "Self Sabotage",
+          "url": "https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164516,
+      "name": "Se Mejor",
+      "url": "https://open.spotify.com/track/7xzwjemhJHTVOPnKszuUSP"
     },
     {
       "album": {

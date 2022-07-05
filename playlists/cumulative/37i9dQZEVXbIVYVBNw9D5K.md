@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-462 songs - 23 hr 50 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
+463 songs - 23 hr 55 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Bikinisinde Astronomi \(Bonus Trek\)](https://open.spotify.com/track/2Nw7SJPxBMbkQdTVPatSgR) | [Son Feci Bisiklet](https://open.spotify.com/artist/4q2SZIdLq6YTc9cZLCclWc) | [Son Feci EP](https://open.spotify.com/album/0xf8Fop940B7lQoODf6Ccv) | 3:01 | 2022-02-10 | 2022-02-16 |
 | [Bikinisinde Astronomi \- Bonus Trek](https://open.spotify.com/track/1R6rAl2uzy8vdTBQ0qElO6) | [Son Feci Bisiklet](https://open.spotify.com/artist/4q2SZIdLq6YTc9cZLCclWc) | [Son Feci EP](https://open.spotify.com/album/6IkJXO4FvWJDwlYZ0gnQWJ) | 3:01 | 2022-03-05 | 2022-03-10 |
 | [Bilir O Beni](https://open.spotify.com/track/0szRcHR9IsUO2Xj8uAKPM6) | [Pinhani](https://open.spotify.com/artist/4Bdqzh78prwuqwInMb555P) | [Bilir O Beni](https://open.spotify.com/album/01waXdENwB18KCgTHw89Rb) | 3:48 | 2022-02-28 |  |
-| [Bilmem Mi?](https://open.spotify.com/track/6wbDn8NI3ygkOeDJiS0ASi) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Bilmem Mi?](https://open.spotify.com/album/0UFVuK7zzdjsiK1nb5F2wI) | 3:06 | 2021-07-11 | 2022-06-30 |
+| [Bilmem Mi?](https://open.spotify.com/track/6wbDn8NI3ygkOeDJiS0ASi) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Bilmem Mi?](https://open.spotify.com/album/0UFVuK7zzdjsiK1nb5F2wI) | 3:06 | 2021-07-11 |  |
 | [Bilmem Mi?](https://open.spotify.com/track/0IF4B98sMyCv1lZjpS1FGz) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Bilmem Mi?](https://open.spotify.com/album/3s82rScbmzY5VSjWHnMg4W) | 3:06 | 2021-09-01 | 2021-09-04 |
 | [Bir Derdim Var](https://open.spotify.com/track/5UV2oqgMXvlkOvvtK3aT7f) | [mor ve ötesi](https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT) | [Dünya Yalan Söylüyor](https://open.spotify.com/album/0QbpgPjg5eOU5ltJ05r4V7) | 3:24 | 2022-06-08 | 2022-06-16 |
 | [Bir Sebebi Var](https://open.spotify.com/track/4WixufiyHUgg1jFqkYop2K) | [İkilem](https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3) | [Bir Sebebi Var](https://open.spotify.com/album/1TOYbjUU1GF3KTbb6JZj1i) | 3:30 | 2021-03-27\* | 2021-09-03 |
@@ -119,7 +119,7 @@
 | [Cakal : İmdat](https://open.spotify.com/track/2vaT7cy28DS0lfMJOXX91S) | [RaidKlein](https://open.spotify.com/artist/2Ch8FjuR5IME08KDhdQ9CG) | [Cakal : İmdat](https://open.spotify.com/album/6zKuK8fUf5kBenRW7bTUVk) | 2:23 | 2022-04-12 | 2022-04-15 |
 | [Canıma Minnet](https://open.spotify.com/track/5mCfj3EpRzSSjm5Y5IMzzz) | [Sakiler](https://open.spotify.com/artist/25gzpFRLdteuie1gW4a4hK) | [Canıma Minnet](https://open.spotify.com/album/2pEJ0Iv7MLynZF0QAFaUfS) | 3:27 | 2022-05-01 |  |
 | [Cindy](https://open.spotify.com/track/40UN1GTSOsEtp7nAZYKrYq) | [Nufrain](https://open.spotify.com/artist/3UIBCL0QqPjEiolLMsLMJN), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Cindy](https://open.spotify.com/album/5heDTlRs2OOzVf136RSW5e) | 1:59 | 2021-09-25 | 2021-09-26 |
-| [CINDY](https://open.spotify.com/track/2MvIexkUblP1QdpBzKot3N) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [CINDY](https://open.spotify.com/album/3lnpZWsxtEX81AMYqE9jEv) | 1:59 | 2021-09-26 |  |
+| [CINDY](https://open.spotify.com/track/2MvIexkUblP1QdpBzKot3N) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [CINDY](https://open.spotify.com/album/3lnpZWsxtEX81AMYqE9jEv) | 1:59 | 2021-09-26 | 2022-07-05 |
 | [Daima](https://open.spotify.com/track/1u61m2yf7AaeGjASOpOOqR) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Daima](https://open.spotify.com/album/4R1bXGAqz7bizLhnIaZm8p) | 3:24 | 2022-04-30 |  |
 | [Dal](https://open.spotify.com/track/0cURwvT5iHZH6uNbZj0v4x) | [Adamlar](https://open.spotify.com/artist/1g4J8P1JWwanNyyXckRX5W) | [Harekete kimse mâni olamaz.](https://open.spotify.com/album/43HQQ1JRPf6BqgZalomLrV) | 4:28 | 2021-11-21 | 2021-11-28 |
 | [Dalga](https://open.spotify.com/track/3P0WmQXWzV3yqFyfgVolrT) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Dalga](https://open.spotify.com/album/1xAhqFShLFhO65ut0iiQxU) | 2:05 | 2021-09-18 | 2022-04-13 |
@@ -167,7 +167,7 @@
 | [FERHAT YILMAZ](https://open.spotify.com/track/5LbGC2dXsjgkYc1KBnYEF8) | [Ben Fero](https://open.spotify.com/artist/2kS0jWMkkFBL0mrl0VotD0) | [YABANİ](https://open.spotify.com/album/25iNReeBDgJfG6Y09IzNoi) | 1:59 | 2022-01-21 | 2022-04-08 |
 | [FESTİVAL](https://open.spotify.com/track/7jQri0CCEkeOGt7fedmmsu) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf), [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [FESTİVAL](https://open.spotify.com/album/3HGvrhL5kRdzZzay6jOou1) | 2:32 | 2022-04-02 | 2022-04-18 |
 | [Fiji](https://open.spotify.com/track/4vu9a9VrHQmHnpWQHMFJXs) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Özlüce Trap Boys](https://open.spotify.com/album/6uDdqxLsmGmXVak2y4vreh) | 2:11 | 2021-08-15 | 2021-09-05 |
-| [Film](https://open.spotify.com/track/17zIQr0R5oOWf4XHcRPDL7) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Film](https://open.spotify.com/album/4YjsCRgWqQbsgkAqeMw2yu) | 1:58 | 2022-07-02 |  |
+| [Film](https://open.spotify.com/track/17zIQr0R5oOWf4XHcRPDL7) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Film](https://open.spotify.com/album/4YjsCRgWqQbsgkAqeMw2yu) | 1:58 | 2022-07-02 | 2022-07-05 |
 | [Forsa](https://open.spotify.com/track/0hItWVe3JLff1yDdfJaIRq) | [mor ve ötesi](https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT) | [Forsa](https://open.spotify.com/album/1fAHRAftczSdXs0u62jEWY) | 3:50 | 2021-12-12 | 2021-12-14 |
 | [Gamzedeyim Deva Bulmam](https://open.spotify.com/track/6glvSyTo1y4WLtX0mnDq83) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Çağrı Çelik](https://open.spotify.com/artist/7wqnPyXma7EKSYt4CVzNjq) | [Gamzedeyim Deva Bulmam](https://open.spotify.com/album/3Tltrhd0u9g6cFjJiB0k8E) | 5:16 | 2021-11-16 | 2022-04-03 |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-10 |
@@ -371,6 +371,7 @@
 | [Romeo Ve Juliet](https://open.spotify.com/track/7iNYcYatvXRzCoYqD2Wlgo) | [Frxzbie](https://open.spotify.com/artist/6ZLa3FArZyL8LL5DG3RXtm) | [Arzular Ve Gözyaşları](https://open.spotify.com/album/56nPlOJB1WNKNatRwj04ot) | 2:58 | 2021-04-20 | 2021-05-16 |
 | [RS](https://open.spotify.com/track/1rL5nZhAgxPBbG3z5hl8it) | [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [RS](https://open.spotify.com/album/0XmgdVruDUqVgvW8PnayIt) | 3:19 | 2022-04-23 | 2022-04-28 |
 | [Runaway](https://open.spotify.com/track/1v1oIWf2Xgh54kIWuKsDf6) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me As A Friend \(Deluxe\)](https://open.spotify.com/album/6YMSXPIHkA2jPIlFHuejXW) | 4:08 | 2021-04-11 | 2021-05-20 |
+| [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-07-04 |  |
 | [Rüyamda Buluttum](https://open.spotify.com/track/4DIgXpNk216oU44hPmyxy6) | [Can Bonomo](https://open.spotify.com/artist/3vJJGsSAF5zQegZo5sJEh6), [Demet Evgar](https://open.spotify.com/artist/5PZbAEIJg4YfrzvOIfdzbD) | [Rüyamda Buluttum / Acı Kiraz](https://open.spotify.com/album/6GuB5ytaOBqaiK4dFXc86C) | 3:26 | 2021-08-15 | 2021-10-03 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-08 | 2022-01-10 |
 | [Sakatat](https://open.spotify.com/track/1r56JjG9mRobTXWfb7UGvO) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Sakatat](https://open.spotify.com/album/775yVS4bLXoaJj1TiaxD66) | 2:36 | 2021-04-04 | 2021-07-05 |

@@ -428,6 +428,32 @@
     },
     {
       "album": {
+        "name": "Bombay",
+        "url": "https://open.spotify.com/album/2HK7NYlKLW42yyRY6I6PYI"
+      },
+      "artists": [
+        {
+          "name": "Mah\u00f4",
+          "url": "https://open.spotify.com/artist/5B51c89els1SziVjz1WlLF"
+        },
+        {
+          "name": "Gibin",
+          "url": "https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM"
+        },
+        {
+          "name": "uzzn",
+          "url": "https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171743,
+      "name": "Bombay",
+      "url": "https://open.spotify.com/track/5dq7Ukc63AiAsC4Y9cBpJP"
+    },
+    {
+      "album": {
         "name": "Capa do Meu Celular",
         "url": "https://open.spotify.com/album/2ZAJqalLQnD57owN0xDO6U"
       },
@@ -477,7 +503,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 161000,
       "name": "Casal do Pecado",
       "url": "https://open.spotify.com/track/5wdTNRLc7waTPE3lr1oJPu"
@@ -845,6 +871,24 @@
       "duration_ms": 147310,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/4QBMTlSCdodYRQqsYPBJtZ"
+    },
+    {
+      "album": {
+        "name": "Gumball",
+        "url": "https://open.spotify.com/album/3cXNC67o6QAYFzwo86RvVd"
+      },
+      "artists": [
+        {
+          "name": "Kunganii",
+          "url": "https://open.spotify.com/artist/6Q52y6Y1JkSEMPnFSd5nlv"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161184,
+      "name": "Gumball",
+      "url": "https://open.spotify.com/track/3CegdOeCCPTW9vP2KLb10w"
     },
     {
       "album": {
@@ -1241,7 +1285,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 138053,
       "name": "Nosso Lance",
       "url": "https://open.spotify.com/track/6zpP4ay0bRNoQNIN4fizaf"

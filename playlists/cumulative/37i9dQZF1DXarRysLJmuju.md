@@ -4,7 +4,7 @@
 
 > Keep up with all the latest pop hits\. Cover: Marshmello, Khalid
 
-395 songs - 20 hr 12 min - [published](https://open.spotify.com/playlist/72ei0AA5JxKKu1O5OfW8cY)
+396 songs - 20 hr 15 min - [published](https://open.spotify.com/playlist/72ei0AA5JxKKu1O5OfW8cY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Mean](https://open.spotify.com/track/2SniviLus5g8LNMCpObLx4) | [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc) | [ASHS](https://open.spotify.com/album/6OTXcfrNRCVHiuvf6rsPaG) | 2:05 | 2021-12-31 | 2022-02-19 |
 | [Message In A Bottle \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/3z6XUommYDWPHeFhmhhT6j) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:45 | 2021-12-31 | 2022-05-07 |
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2022-02-16 | 2022-04-02 |
+| [Miss America](https://open.spotify.com/track/5MuTVJ2ShxMA96buyVCEpP) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Miss America](https://open.spotify.com/album/61Es52Ztb8rT01ai0PEo8W) | 2:52 | 2022-07-04 |  |
 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2021-12-31 | 2022-01-29 |
 | [More Than Friends](https://open.spotify.com/track/7f6CYOMT6sXv35ZTJRtXtA) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [More Than Friends](https://open.spotify.com/album/0r9uTlzVUjnRvBTGjTLC54) | 2:54 | 2021-12-31 | 2022-04-23 |
 | [moshpit](https://open.spotify.com/track/2mCtLEJmnn1JiY2IQGUCy4) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [moshpit](https://open.spotify.com/album/6PXSrLiT6piovfkbtM3mTs) | 3:38 | 2022-01-28 | 2022-03-12 |

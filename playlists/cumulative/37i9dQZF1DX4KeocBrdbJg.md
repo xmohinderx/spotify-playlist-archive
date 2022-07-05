@@ -4,7 +4,7 @@
 
 > eres mi bebé, mi bebito fiu fiu 💖
 
-147 songs - 8 hr 15 min - [published](https://open.spotify.com/playlist/4mSbOXa4eJQwXzHtWqAtSr)
+148 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/4mSbOXa4eJQwXzHtWqAtSr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [moment](https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [moment](https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m) | 2:09 | 2022-06-16 |  |
 | [Mon Amour \- Remix](https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Mon Amour \(Remix\)](https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5) | 2:59 | 2021-12-15 |  |
 | [Mount Everest](https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0) | 2:37 | 2022-02-24 |  |
+| [MTG \(MALDICAO ETERNA 1.0\)](https://open.spotify.com/track/3BkpvJpaE7LCrrCiusfhsj) | [Danny Ruszo](https://open.spotify.com/artist/5he4Z3gSBrqS8ioLEKGWQA) | [MTG \(MALDICAO ETERNA 1.0\)](https://open.spotify.com/album/6TQlpFMlpJgc7jw7cexz5R) | 2:17 | 2022-07-04 |  |
 | [Mujeriego](https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Mujeriego](https://open.spotify.com/album/43sxUsU622oLloqafw61vN) | 2:22 | 2022-01-27 | 2022-06-17 |
 | [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 | 2022-06-06 |  |
 | [NEON BLADE](https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [NEON BLADE](https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm) | 4:25 | 2022-06-28 |  |
@@ -113,7 +114,7 @@
 | [Prende La Fiesta](https://open.spotify.com/track/0ecNQwI7XCZzZitraDt9IC) | [Dj Dasten](https://open.spotify.com/artist/2jqJc0ovzss12ajvoeyZu0), [Fumaratto](https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw) | [Prende La Fiesta](https://open.spotify.com/album/7D7qSQMZ9FVceWy2BtkK6O) | 3:06 | 2022-06-14 |  |
 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2022-05-05 |  |
 | [Psycho Killer \- 2005 Remaster](https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:21 | 2022-06-01 |  |
-| [Que Pasa](https://open.spotify.com/track/53uQ89TNuxZSSYHhTGieMx) | [Haus\-A\-Holics](https://open.spotify.com/artist/6Bwa8h6qDz2i4piWFBhl7V) | [Que Pasa \- Single](https://open.spotify.com/album/4LBwRnbf3lVtw9ysJFLNh1) | 3:55 | 2022-06-06 |  |
+| [Que Pasa](https://open.spotify.com/track/53uQ89TNuxZSSYHhTGieMx) | [Haus\-A\-Holics](https://open.spotify.com/artist/6Bwa8h6qDz2i4piWFBhl7V) | [Que Pasa \- Single](https://open.spotify.com/album/4LBwRnbf3lVtw9ysJFLNh1) | 3:55 | 2022-06-06 | 2022-07-05 |
 | [Qué Tiene la Niña](https://open.spotify.com/track/68tjkySJsysjABJ5HATZLR) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Leo Dan Cronología \- El Fenómeno \(1964\)](https://open.spotify.com/album/7ANVnqecz5GSEmVcYOog6c) | 2:39 | 2022-05-25 | 2022-06-07 |
 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 | 2022-04-14 |  |
 | [Rhinestone Eyes](https://open.spotify.com/track/1foMv2HQwfQ2vntFf9HFeG) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:20 | 2021-12-15 |  |

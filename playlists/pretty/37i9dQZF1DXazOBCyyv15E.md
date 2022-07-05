@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Ray Laurél
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,039 likes - 86 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,054 likes - 86 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

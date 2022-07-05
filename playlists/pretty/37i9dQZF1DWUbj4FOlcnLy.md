@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbj4FOlcnLy.md) - [plain]
 
 > Disfruta esta selección musical, de la mano de Las Pelotas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,092 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,093 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Ukraine.",
-  "num_followers": 17845,
+  "num_followers": 17859,
   "original_name": "Top 50 - Ukraine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzEwMTY0MDE1LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzEwMjUyMjU1LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-07-03 11:46:55",
+      "added_at": "2022-07-04 12:17:35",
       "album": {
         "name": "vodila",
         "url": "https://open.spotify.com/album/4BT6cNSrS1CofYTCOXuhsv"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3NjAwkM75GH3cvfV9zRtv8"
     },
     {
-      "added_at": "2022-07-03 11:46:55",
+      "added_at": "2022-07-04 12:17:35",
       "album": {
         "name": "Stefania (Kalush Orchestra)",
         "url": "https://open.spotify.com/album/4JPeuLHGm9g78QS2aRao3D"
@@ -41,75 +41,7 @@
       "url": "https://open.spotify.com/track/2vHzOWRKYPLu8umRPIFuOq"
     },
     {
-      "added_at": "2022-07-03 11:46:55",
-      "album": {
-        "name": "First Day Out",
-        "url": "https://open.spotify.com/album/6srx0ovFsTWryJbcpOIodY"
-      },
-      "artists": [
-        {
-          "name": "kizaru",
-          "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
-        }
-      ],
-      "duration_ms": 139440,
-      "name": "No Stop",
-      "url": "https://open.spotify.com/track/7lcYieV34n9gHmW9wRweI2"
-    },
-    {
-      "added_at": "2022-07-03 11:46:55",
-      "album": {
-        "name": "First Day Out",
-        "url": "https://open.spotify.com/album/6srx0ovFsTWryJbcpOIodY"
-      },
-      "artists": [
-        {
-          "name": "kizaru",
-          "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
-        }
-      ],
-      "duration_ms": 122125,
-      "name": "Train Wreck",
-      "url": "https://open.spotify.com/track/1U5HTINVvE7oSSscuD3Gjm"
-    },
-    {
-      "added_at": "2022-07-03 11:46:55",
-      "album": {
-        "name": "First Day Out",
-        "url": "https://open.spotify.com/album/6srx0ovFsTWryJbcpOIodY"
-      },
-      "artists": [
-        {
-          "name": "kizaru",
-          "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
-        },
-        {
-          "name": "Duke Deuce",
-          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
-        }
-      ],
-      "duration_ms": 192461,
-      "name": "Playa",
-      "url": "https://open.spotify.com/track/3E5Ny10emcMLPk6Myhiu0Q"
-    },
-    {
-      "added_at": "2022-07-03 11:46:55",
-      "album": {
-        "name": "First Day Out",
-        "url": "https://open.spotify.com/album/6srx0ovFsTWryJbcpOIodY"
-      },
-      "artists": [
-        {
-          "name": "kizaru",
-          "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
-        }
-      ],
-      "duration_ms": 134250,
-      "name": "First Day Out",
-      "url": "https://open.spotify.com/track/2xrPQGb3D6JGyyTvYOrXc6"
-    },
-    {
-      "added_at": "2022-07-03 11:46:55",
+      "added_at": "2022-07-04 12:17:35",
       "album": {
         "name": "VLAGA",
         "url": "https://open.spotify.com/album/1nBZ5WULtCMe0Yz35Xkk2g"
@@ -129,7 +61,7 @@
       "url": "https://open.spotify.com/track/1OhtcX8IP2mQ2s5yEZ3jSN"
     },
     {
-      "added_at": "2022-07-03 11:46:55",
+      "added_at": "2022-07-04 12:17:35",
       "album": {
         "name": "\u0419\u041e-\u0419\u041e (feat. Skofka)",
         "url": "https://open.spotify.com/album/75JDz9NzMLWYsw3K9aYXXc"
@@ -149,7 +81,23 @@
       "url": "https://open.spotify.com/track/7kKTYTHULdERuHGCkVyLVD"
     },
     {
-      "added_at": "2022-07-03 11:46:55",
+      "added_at": "2022-07-04 12:17:35",
+      "album": {
+        "name": "showdown",
+        "url": "https://open.spotify.com/album/4OMVt53nIZgMMf5uDsAdjz"
+      },
+      "artists": [
+        {
+          "name": "shadowraze",
+          "url": "https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o"
+        }
+      ],
+      "duration_ms": 120187,
+      "name": "showdown",
+      "url": "https://open.spotify.com/track/48fzAdCxamFYCHNXXLk6zn"
+    },
+    {
+      "added_at": "2022-07-04 12:17:35",
       "album": {
         "name": "\u0414\u043e\u043f\u043e\u043c\u043e\u0436\u0435 \u0417\u0421\u0423",
         "url": "https://open.spotify.com/album/5sGIoZ2pMPlUCD57uYu4Jz"
@@ -169,23 +117,7 @@
       "url": "https://open.spotify.com/track/5mGns7qagKDzP4L2YC5ea2"
     },
     {
-      "added_at": "2022-07-03 11:46:55",
-      "album": {
-        "name": "First Day Out",
-        "url": "https://open.spotify.com/album/6srx0ovFsTWryJbcpOIodY"
-      },
-      "artists": [
-        {
-          "name": "kizaru",
-          "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
-        }
-      ],
-      "duration_ms": 127397,
-      "name": "Yeah",
-      "url": "https://open.spotify.com/track/2ZmxOJDhNtOHQ49hVkqRy3"
-    },
-    {
-      "added_at": "2022-07-03 11:46:55",
+      "added_at": "2022-07-04 12:17:35",
       "album": {
         "name": "\u041b\u0430\u0441\u0442\u0456\u0432\u043a\u0438",
         "url": "https://open.spotify.com/album/3CX7DQUapv7QJm75jjLzpR"
@@ -205,7 +137,7 @@
       "url": "https://open.spotify.com/track/489WGIBYPf4nallnJOHpK6"
     },
     {
-      "added_at": "2022-07-03 11:46:55",
+      "added_at": "2022-07-04 12:17:35",
       "album": {
         "name": "First Day Out",
         "url": "https://open.spotify.com/album/6srx0ovFsTWryJbcpOIodY"
@@ -216,28 +148,12 @@
           "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
         }
       ],
-      "duration_ms": 145943,
-      "name": "Trap Shark",
-      "url": "https://open.spotify.com/track/3BKreoEA5wRNk5o96NIBpL"
+      "duration_ms": 139440,
+      "name": "No Stop",
+      "url": "https://open.spotify.com/track/7lcYieV34n9gHmW9wRweI2"
     },
     {
-      "added_at": "2022-07-03 11:46:55",
-      "album": {
-        "name": "showdown",
-        "url": "https://open.spotify.com/album/4OMVt53nIZgMMf5uDsAdjz"
-      },
-      "artists": [
-        {
-          "name": "shadowraze",
-          "url": "https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o"
-        }
-      ],
-      "duration_ms": 120187,
-      "name": "showdown",
-      "url": "https://open.spotify.com/track/48fzAdCxamFYCHNXXLk6zn"
-    },
-    {
-      "added_at": "2022-07-03 11:46:55",
+      "added_at": "2022-07-04 12:17:35",
       "album": {
         "name": "First Day Out",
         "url": "https://open.spotify.com/album/6srx0ovFsTWryJbcpOIodY"
@@ -248,12 +164,12 @@
           "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
         }
       ],
-      "duration_ms": 187625,
-      "name": "That White",
-      "url": "https://open.spotify.com/track/3n4kOc46bJi0jOnqvKfr0V"
+      "duration_ms": 122125,
+      "name": "Train Wreck",
+      "url": "https://open.spotify.com/track/1U5HTINVvE7oSSscuD3Gjm"
     },
     {
-      "added_at": "2022-07-03 11:46:55",
+      "added_at": "2022-07-04 12:17:35",
       "album": {
         "name": "\u041d\u0435\u0441\u043c\u0430\u0447\u043d\u0438\u0439 \u041c\u0435\u0434",
         "url": "https://open.spotify.com/album/6HOsBJMipipIvSgFibrt1N"
@@ -269,23 +185,7 @@
       "url": "https://open.spotify.com/track/4tEr9oykqAlnLnaltbjoDe"
     },
     {
-      "added_at": "2022-07-03 11:46:55",
-      "album": {
-        "name": "First Day Out",
-        "url": "https://open.spotify.com/album/6srx0ovFsTWryJbcpOIodY"
-      },
-      "artists": [
-        {
-          "name": "kizaru",
-          "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
-        }
-      ],
-      "duration_ms": 162692,
-      "name": "Elon Musk",
-      "url": "https://open.spotify.com/track/3Ccpa5WrXoAMqtKdgbOWKQ"
-    },
-    {
-      "added_at": "2022-07-03 11:46:55",
+      "added_at": "2022-07-04 12:17:35",
       "album": {
         "name": "Never Broke Again",
         "url": "https://open.spotify.com/album/3fsKGXLjN1T0fdDzE2MfgI"
@@ -301,7 +201,59 @@
       "url": "https://open.spotify.com/track/21LIoC4ZxT3F8xq9gidNbX"
     },
     {
-      "added_at": "2022-07-03 11:46:55",
+      "added_at": "2022-07-04 12:17:35",
+      "album": {
+        "name": "First Day Out",
+        "url": "https://open.spotify.com/album/6srx0ovFsTWryJbcpOIodY"
+      },
+      "artists": [
+        {
+          "name": "kizaru",
+          "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
+        }
+      ],
+      "duration_ms": 134250,
+      "name": "First Day Out",
+      "url": "https://open.spotify.com/track/2xrPQGb3D6JGyyTvYOrXc6"
+    },
+    {
+      "added_at": "2022-07-04 12:17:35",
+      "album": {
+        "name": "First Day Out",
+        "url": "https://open.spotify.com/album/6srx0ovFsTWryJbcpOIodY"
+      },
+      "artists": [
+        {
+          "name": "kizaru",
+          "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
+        },
+        {
+          "name": "Duke Deuce",
+          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
+        }
+      ],
+      "duration_ms": 192461,
+      "name": "Playa",
+      "url": "https://open.spotify.com/track/3E5Ny10emcMLPk6Myhiu0Q"
+    },
+    {
+      "added_at": "2022-07-04 12:17:35",
+      "album": {
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
+    },
+    {
+      "added_at": "2022-07-04 12:17:35",
       "album": {
         "name": "MIDNIGHT",
         "url": "https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W"
@@ -321,7 +273,39 @@
       "url": "https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9"
     },
     {
-      "added_at": "2022-07-03 11:46:55",
+      "added_at": "2022-07-04 12:17:35",
+      "album": {
+        "name": "RAVE",
+        "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
+      },
+      "artists": [
+        {
+          "name": "Dxrk \u30c0\u30fc\u30af",
+          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
+        }
+      ],
+      "duration_ms": 169245,
+      "name": "RAVE",
+      "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
+    },
+    {
+      "added_at": "2022-07-04 12:17:35",
+      "album": {
+        "name": "Yeyo!",
+        "url": "https://open.spotify.com/album/4JRqVH5lhTM3maALKAsIzI"
+      },
+      "artists": [
+        {
+          "name": "\u0428\u0430\u0439\u043d\u0438",
+          "url": "https://open.spotify.com/artist/7gR1vQmVN37aNtYDE21Bae"
+        }
+      ],
+      "duration_ms": 111750,
+      "name": "Yeyo!",
+      "url": "https://open.spotify.com/track/4jvw60Iw8LpSRJwy1sOmoB"
+    },
+    {
+      "added_at": "2022-07-04 12:17:35",
       "album": {
         "name": "\u0418\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u043c",
         "url": "https://open.spotify.com/album/7Dbqt5cYZ2WavqqmTtz21A"
@@ -341,7 +325,7 @@
       "url": "https://open.spotify.com/track/0IjCnXqJTlPElz8HmIiO9p"
     },
     {
-      "added_at": "2022-07-03 11:46:55",
+      "added_at": "2022-07-04 12:17:35",
       "album": {
         "name": "\u041a\u0430\u043b\u0443\u0441\u044c\u043a\u0456 \u0432\u0435\u0447\u043e\u0440\u043d\u0438\u0446\u0456 (feat. Tember Blanche)",
         "url": "https://open.spotify.com/album/5jA4rmGtIDLtZcSquSwMoW"
@@ -361,7 +345,39 @@
       "url": "https://open.spotify.com/track/6keRNvHKCOhmySQa1jCX8P"
     },
     {
-      "added_at": "2022-07-03 11:46:55",
+      "added_at": "2022-07-04 12:17:35",
+      "album": {
+        "name": "First Day Out",
+        "url": "https://open.spotify.com/album/6srx0ovFsTWryJbcpOIodY"
+      },
+      "artists": [
+        {
+          "name": "kizaru",
+          "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
+        }
+      ],
+      "duration_ms": 127397,
+      "name": "Yeah",
+      "url": "https://open.spotify.com/track/2ZmxOJDhNtOHQ49hVkqRy3"
+    },
+    {
+      "added_at": "2022-07-04 12:17:35",
+      "album": {
+        "name": "First Day Out",
+        "url": "https://open.spotify.com/album/6srx0ovFsTWryJbcpOIodY"
+      },
+      "artists": [
+        {
+          "name": "kizaru",
+          "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
+        }
+      ],
+      "duration_ms": 145943,
+      "name": "Trap Shark",
+      "url": "https://open.spotify.com/track/3BKreoEA5wRNk5o96NIBpL"
+    },
+    {
+      "added_at": "2022-07-04 12:17:35",
       "album": {
         "name": "\u0412\u043e\u0432\u0430, \u0457\u0431\u0430\u0448 \u0457\u0445 \u0431\u043b\u044f\u0442\u044c",
         "url": "https://open.spotify.com/album/6dG164KSddFfZI6VirzCjB"
@@ -377,39 +393,7 @@
       "url": "https://open.spotify.com/track/1K2ORdYBMvi5h4FvQn5hpX"
     },
     {
-      "added_at": "2022-07-03 11:46:55",
-      "album": {
-        "name": "RAVE",
-        "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
-      },
-      "artists": [
-        {
-          "name": "Dxrk \u30c0\u30fc\u30af",
-          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
-        }
-      ],
-      "duration_ms": 169245,
-      "name": "RAVE",
-      "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
-    },
-    {
-      "added_at": "2022-07-03 11:46:55",
-      "album": {
-        "name": "First Day Out",
-        "url": "https://open.spotify.com/album/6srx0ovFsTWryJbcpOIodY"
-      },
-      "artists": [
-        {
-          "name": "kizaru",
-          "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
-        }
-      ],
-      "duration_ms": 160375,
-      "name": "Hella Faded",
-      "url": "https://open.spotify.com/track/4Vrkbkap9QEKfkPKRKposZ"
-    },
-    {
-      "added_at": "2022-07-03 11:46:55",
+      "added_at": "2022-07-04 12:17:35",
       "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ"
@@ -425,55 +409,23 @@
       "url": "https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn"
     },
     {
-      "added_at": "2022-07-03 11:46:55",
+      "added_at": "2022-07-04 12:17:35",
       "album": {
-        "name": "Yeyo!",
-        "url": "https://open.spotify.com/album/4JRqVH5lhTM3maALKAsIzI"
+        "name": "First Day Out",
+        "url": "https://open.spotify.com/album/6srx0ovFsTWryJbcpOIodY"
       },
       "artists": [
         {
-          "name": "\u0428\u0430\u0439\u043d\u0438",
-          "url": "https://open.spotify.com/artist/7gR1vQmVN37aNtYDE21Bae"
+          "name": "kizaru",
+          "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
         }
       ],
-      "duration_ms": 111750,
-      "name": "Yeyo!",
-      "url": "https://open.spotify.com/track/4jvw60Iw8LpSRJwy1sOmoB"
+      "duration_ms": 187625,
+      "name": "That White",
+      "url": "https://open.spotify.com/track/3n4kOc46bJi0jOnqvKfr0V"
     },
     {
-      "added_at": "2022-07-03 11:46:55",
-      "album": {
-        "name": "Hounds Of Love",
-        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 298933,
-      "name": "Running Up That Hill (A Deal With God)",
-      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
-    },
-    {
-      "added_at": "2022-07-03 11:46:55",
-      "album": {
-        "name": "\u0412\u0438\u0448\u043di",
-        "url": "https://open.spotify.com/album/0npmuVcGDzW4y5CS5wnwBV"
-      },
-      "artists": [
-        {
-          "name": "Wellboy",
-          "url": "https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz"
-        }
-      ],
-      "duration_ms": 183218,
-      "name": "\u0412\u0438\u0448\u043di",
-      "url": "https://open.spotify.com/track/1xHs6PLjlvqihewyitoP3A"
-    },
-    {
-      "added_at": "2022-07-03 11:46:55",
+      "added_at": "2022-07-04 12:17:35",
       "album": {
         "name": "astral step",
         "url": "https://open.spotify.com/album/2Ctdcl5QkFWiHH1XdnQiA5"
@@ -489,7 +441,7 @@
       "url": "https://open.spotify.com/track/47iHvzU9Po0e6raFlgLBOF"
     },
     {
-      "added_at": "2022-07-03 11:46:55",
+      "added_at": "2022-07-04 12:17:35",
       "album": {
         "name": "Murder In My Mind",
         "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
@@ -505,59 +457,7 @@
       "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
     },
     {
-      "added_at": "2022-07-03 11:46:55",
-      "album": {
-        "name": "\u0427\u0438 \u0440\u0430\u0437\u043e\u043c?",
-        "url": "https://open.spotify.com/album/2Sz6c15TjlldLotq4jv3rd"
-      },
-      "artists": [
-        {
-          "name": "KOLA",
-          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
-        }
-      ],
-      "duration_ms": 158170,
-      "name": "\u0427\u0438 \u0440\u0430\u0437\u043e\u043c?",
-      "url": "https://open.spotify.com/track/7IRfUFRIarTp8a8Yxa83Nl"
-    },
-    {
-      "added_at": "2022-07-03 11:46:55",
-      "album": {
-        "name": "Long Way Down",
-        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
-    },
-    {
-      "added_at": "2022-07-03 11:46:55",
-      "album": {
-        "name": "\u0419\u041e-\u0419\u041e (feat. Skofka)",
-        "url": "https://open.spotify.com/album/75JDz9NzMLWYsw3K9aYXXc"
-      },
-      "artists": [
-        {
-          "name": "KALUSH",
-          "url": "https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842"
-        },
-        {
-          "name": "Skofka",
-          "url": "https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0"
-        }
-      ],
-      "duration_ms": 156428,
-      "name": "\u0424\u0430\u0439\u043d\u0430 (feat. Skofka)",
-      "url": "https://open.spotify.com/track/3EkGH0yreaWUFAXBil8rmH"
-    },
-    {
-      "added_at": "2022-07-03 11:46:55",
+      "added_at": "2022-07-04 12:17:35",
       "album": {
         "name": "\u0433\u043b\u0430\u0437\u0430 \u043d\u0435 \u0432\u0440\u0443\u0442",
         "url": "https://open.spotify.com/album/3VbUF0GaEliaHi1TPQrbc4"
@@ -573,23 +473,87 @@
       "url": "https://open.spotify.com/track/4ikCWgaaGLKgb724CUNnqZ"
     },
     {
-      "added_at": "2022-07-03 11:46:55",
+      "added_at": "2022-07-04 12:17:35",
       "album": {
-        "name": "HOTIN",
-        "url": "https://open.spotify.com/album/6onAeeUeEiXf2sReUGAThp"
+        "name": "First Day Out",
+        "url": "https://open.spotify.com/album/6srx0ovFsTWryJbcpOIodY"
       },
       "artists": [
         {
-          "name": "KALUSH",
-          "url": "https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842"
+          "name": "kizaru",
+          "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
         }
       ],
-      "duration_ms": 200571,
-      "name": "\u0417\u043e\u0440i",
-      "url": "https://open.spotify.com/track/7mXxcF1nFQvcvANuYwdrv2"
+      "duration_ms": 162692,
+      "name": "Elon Musk",
+      "url": "https://open.spotify.com/track/3Ccpa5WrXoAMqtKdgbOWKQ"
     },
     {
-      "added_at": "2022-07-03 11:46:55",
+      "added_at": "2022-07-04 12:17:35",
+      "album": {
+        "name": "\u0412\u0438\u0448\u043di",
+        "url": "https://open.spotify.com/album/0npmuVcGDzW4y5CS5wnwBV"
+      },
+      "artists": [
+        {
+          "name": "Wellboy",
+          "url": "https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz"
+        }
+      ],
+      "duration_ms": 183218,
+      "name": "\u0412\u0438\u0448\u043di",
+      "url": "https://open.spotify.com/track/1xHs6PLjlvqihewyitoP3A"
+    },
+    {
+      "added_at": "2022-07-04 12:17:35",
+      "album": {
+        "name": "NEON BLADE",
+        "url": "https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm"
+      },
+      "artists": [
+        {
+          "name": "MoonDeity",
+          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
+        }
+      ],
+      "duration_ms": 265263,
+      "name": "NEON BLADE",
+      "url": "https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt"
+    },
+    {
+      "added_at": "2022-07-04 12:17:35",
+      "album": {
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
+    },
+    {
+      "added_at": "2022-07-04 12:17:35",
+      "album": {
+        "name": "\u0427\u0438 \u0440\u0430\u0437\u043e\u043c?",
+        "url": "https://open.spotify.com/album/2Sz6c15TjlldLotq4jv3rd"
+      },
+      "artists": [
+        {
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
+        }
+      ],
+      "duration_ms": 158170,
+      "name": "\u0427\u0438 \u0440\u0430\u0437\u043e\u043c?",
+      "url": "https://open.spotify.com/track/7IRfUFRIarTp8a8Yxa83Nl"
+    },
+    {
+      "added_at": "2022-07-04 12:17:35",
       "album": {
         "name": "vendetta!",
         "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
@@ -609,23 +573,59 @@
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
     },
     {
-      "added_at": "2022-07-03 11:46:55",
+      "added_at": "2022-07-04 12:17:35",
       "album": {
-        "name": "NEON BLADE",
-        "url": "https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm"
+        "name": "\u0419\u041e-\u0419\u041e (feat. Skofka)",
+        "url": "https://open.spotify.com/album/75JDz9NzMLWYsw3K9aYXXc"
       },
       "artists": [
         {
-          "name": "MoonDeity",
-          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
+          "name": "KALUSH",
+          "url": "https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842"
+        },
+        {
+          "name": "Skofka",
+          "url": "https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0"
         }
       ],
-      "duration_ms": 265263,
-      "name": "NEON BLADE",
-      "url": "https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt"
+      "duration_ms": 156428,
+      "name": "\u0424\u0430\u0439\u043d\u0430 (feat. Skofka)",
+      "url": "https://open.spotify.com/track/3EkGH0yreaWUFAXBil8rmH"
     },
     {
-      "added_at": "2022-07-03 11:46:55",
+      "added_at": "2022-07-04 12:17:35",
+      "album": {
+        "name": "HOTIN",
+        "url": "https://open.spotify.com/album/6onAeeUeEiXf2sReUGAThp"
+      },
+      "artists": [
+        {
+          "name": "KALUSH",
+          "url": "https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842"
+        }
+      ],
+      "duration_ms": 200571,
+      "name": "\u0417\u043e\u0440i",
+      "url": "https://open.spotify.com/track/7mXxcF1nFQvcvANuYwdrv2"
+    },
+    {
+      "added_at": "2022-07-04 12:17:35",
+      "album": {
+        "name": "Dogma",
+        "url": "https://open.spotify.com/album/15LyBCx9gojYocTPcuGgvH"
+      },
+      "artists": [
+        {
+          "name": "Epolets",
+          "url": "https://open.spotify.com/artist/09QRMWYyLUALbOUjP5rhUP"
+        }
+      ],
+      "duration_ms": 214528,
+      "name": "\u0417\u0440\u0430\u0434\u0436\u0443\u0439",
+      "url": "https://open.spotify.com/track/3JtqmQTqsJBt6bd6iVtlaI"
+    },
+    {
+      "added_at": "2022-07-04 12:17:35",
       "album": {
         "name": "2step (The Remixes)",
         "url": "https://open.spotify.com/album/1nqJFaKVTrCkCDaC2I1zM7"
@@ -645,23 +645,23 @@
       "url": "https://open.spotify.com/track/5HfA6KNvluQJSbrgrv3gh3"
     },
     {
-      "added_at": "2022-07-03 11:46:55",
+      "added_at": "2022-07-04 12:17:35",
       "album": {
-        "name": "Dogma",
-        "url": "https://open.spotify.com/album/15LyBCx9gojYocTPcuGgvH"
+        "name": "First Day Out",
+        "url": "https://open.spotify.com/album/6srx0ovFsTWryJbcpOIodY"
       },
       "artists": [
         {
-          "name": "Epolets",
-          "url": "https://open.spotify.com/artist/09QRMWYyLUALbOUjP5rhUP"
+          "name": "kizaru",
+          "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
         }
       ],
-      "duration_ms": 214528,
-      "name": "\u0417\u0440\u0430\u0434\u0436\u0443\u0439",
-      "url": "https://open.spotify.com/track/3JtqmQTqsJBt6bd6iVtlaI"
+      "duration_ms": 160375,
+      "name": "Hella Faded",
+      "url": "https://open.spotify.com/track/4Vrkbkap9QEKfkPKRKposZ"
     },
     {
-      "added_at": "2022-07-03 11:46:55",
+      "added_at": "2022-07-04 12:17:35",
       "album": {
         "name": "\u0421\u0432\u043e\u0439 \u0434\u043e\u043c",
         "url": "https://open.spotify.com/album/5ZSMRpbTRGNmsOBxLrtE5V"
@@ -677,43 +677,7 @@
       "url": "https://open.spotify.com/track/6ovBMbqpAA8N1FtN1fa0Vq"
     },
     {
-      "added_at": "2022-07-03 11:46:55",
-      "album": {
-        "name": "BANDANA I",
-        "url": "https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu"
-      },
-      "artists": [
-        {
-          "name": "Big Baby Tape",
-          "url": "https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT"
-        },
-        {
-          "name": "kizaru",
-          "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
-        }
-      ],
-      "duration_ms": 159100,
-      "name": "99 Problems",
-      "url": "https://open.spotify.com/track/0r9fpWPI6z3V3YZXIiVaNC"
-    },
-    {
-      "added_at": "2022-07-03 11:46:55",
-      "album": {
-        "name": "MIDDLE OF THE NIGHT",
-        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
-      },
-      "artists": [
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        }
-      ],
-      "duration_ms": 184447,
-      "name": "MIDDLE OF THE NIGHT",
-      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
-    },
-    {
-      "added_at": "2022-07-03 11:46:55",
+      "added_at": "2022-07-04 12:17:35",
       "album": {
         "name": "Close Eyes",
         "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
@@ -729,23 +693,7 @@
       "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
     },
     {
-      "added_at": "2022-07-03 11:46:55",
-      "album": {
-        "name": "QUEEN OF RAP",
-        "url": "https://open.spotify.com/album/4lvy6drxoogEkNehP9RLwR"
-      },
-      "artists": [
-        {
-          "name": "INSTASAMKA",
-          "url": "https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX"
-        }
-      ],
-      "duration_ms": 123384,
-      "name": "RARARA",
-      "url": "https://open.spotify.com/track/4m0ELYovhweZYdw4cCqVv0"
-    },
-    {
-      "added_at": "2022-07-03 11:46:55",
+      "added_at": "2022-07-04 12:17:35",
       "album": {
         "name": "\u041b\u0451\u0434",
         "url": "https://open.spotify.com/album/3MHgUaAo7Gjdzhn3Obmbit"
@@ -765,39 +713,23 @@
       "url": "https://open.spotify.com/track/7D8k995g6jdie4NF1E7Tpu"
     },
     {
-      "added_at": "2022-07-03 11:46:55",
+      "added_at": "2022-07-04 12:17:35",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+        "name": "MIDDLE OF THE NIGHT",
+        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
         }
       ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+      "duration_ms": 184447,
+      "name": "MIDDLE OF THE NIGHT",
+      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
     },
     {
-      "added_at": "2022-07-03 11:46:55",
-      "album": {
-        "name": "\u0416\u0438\u0432\u0430 \u0432\u043e\u0434\u0430",
-        "url": "https://open.spotify.com/album/0UEmRsiN0iedteTpO4EMd9"
-      },
-      "artists": [
-        {
-          "name": "Khrystyna Soloviy",
-          "url": "https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa"
-        }
-      ],
-      "duration_ms": 208613,
-      "name": "\u0422\u0440\u0438\u043c\u0430\u0439",
-      "url": "https://open.spotify.com/track/4LKfJMumpW7HyBT05uXYUx"
-    },
-    {
-      "added_at": "2022-07-03 11:46:55",
+      "added_at": "2022-07-04 12:17:35",
       "album": {
         "name": "BANDANA I",
         "url": "https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu"
@@ -812,40 +744,68 @@
           "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
         }
       ],
-      "duration_ms": 134723,
-      "name": "Million",
-      "url": "https://open.spotify.com/track/4umjgYILQbHyV41ZmaemQm"
+      "duration_ms": 159100,
+      "name": "99 Problems",
+      "url": "https://open.spotify.com/track/0r9fpWPI6z3V3YZXIiVaNC"
     },
     {
-      "added_at": "2022-07-03 11:46:55",
+      "added_at": "2022-07-04 12:17:35",
       "album": {
-        "name": "Mercury - Act 1",
-        "url": "https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt"
+        "name": "\u041f\u0440\u043e\u043f\u0430\u0433\u0430\u043d\u0434\u0430 \u0434\u0435\u043d\u0435\u0433",
+        "url": "https://open.spotify.com/album/73saqAR9QSfyGtdbZCUkMX"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "Scally Milano",
+          "url": "https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg"
         },
         {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+          "name": "uglystephan",
+          "url": "https://open.spotify.com/artist/3I9Bd4StaxvFWPG9AAjlrO"
         }
       ],
-      "duration_ms": 173381,
-      "name": "Enemy (with JID) - from the series Arcane League of Legends",
-      "url": "https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o"
+      "duration_ms": 144705,
+      "name": "\u042f \u0445\u043e\u0447\u0443 \u0442\u0435\u0431\u044f \u0442\u0440\u0430\u0445\u0430\u0442\u044c",
+      "url": "https://open.spotify.com/track/5TK74MJYRmwU5NIAjGRvRq"
     },
     {
-      "added_at": "2022-07-03 11:46:55",
+      "added_at": "2022-07-04 12:17:35",
+      "album": {
+        "name": "QUEEN OF RAP",
+        "url": "https://open.spotify.com/album/4lvy6drxoogEkNehP9RLwR"
+      },
+      "artists": [
+        {
+          "name": "INSTASAMKA",
+          "url": "https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX"
+        }
+      ],
+      "duration_ms": 123384,
+      "name": "RARARA",
+      "url": "https://open.spotify.com/track/4m0ELYovhweZYdw4cCqVv0"
+    },
+    {
+      "added_at": "2022-07-04 12:17:35",
+      "album": {
+        "name": "\u0410\u0443",
+        "url": "https://open.spotify.com/album/0OlSbbba3RXBfBLVRuaSLr"
+      },
+      "artists": [
+        {
+          "name": "10AGE",
+          "url": "https://open.spotify.com/artist/0iWCupAJreesWuLo9wkpXt"
+        },
+        {
+          "name": "Ramil'",
+          "url": "https://open.spotify.com/artist/7blTwZGiTplsvBEvYOsDot"
+        }
+      ],
+      "duration_ms": 180821,
+      "name": "\u0410\u0443",
+      "url": "https://open.spotify.com/track/6RmlamfS2Supq8wARlY0QQ"
+    },
+    {
+      "added_at": "2022-07-04 12:17:35",
       "album": {
         "name": "I Love You.",
         "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
@@ -861,20 +821,60 @@
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
     },
     {
-      "added_at": "2022-07-03 11:46:55",
+      "added_at": "2022-07-04 12:17:35",
       "album": {
-        "name": "MORE",
-        "url": "https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi"
+        "name": "BANDANA I",
+        "url": "https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu"
       },
       "artists": [
         {
-          "name": "j-hope",
-          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+          "name": "Big Baby Tape",
+          "url": "https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT"
+        },
+        {
+          "name": "kizaru",
+          "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
         }
       ],
-      "duration_ms": 180022,
-      "name": "MORE",
-      "url": "https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2"
+      "duration_ms": 151456,
+      "name": "Bandana",
+      "url": "https://open.spotify.com/track/16AzcbKli3UQsxj491hJLQ"
+    },
+    {
+      "added_at": "2022-07-04 12:17:35",
+      "album": {
+        "name": "\u0428\u041a\u041e\u041b\u042c\u041d\u0418\u041a",
+        "url": "https://open.spotify.com/album/3RDir4wlWNqc37ZkuIIIHd"
+      },
+      "artists": [
+        {
+          "name": "Poshlaya Molly",
+          "url": "https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2"
+        },
+        {
+          "name": "\u041c\u043e\u043b\u043e\u0434\u043e\u0439 \u041f\u043b\u0430\u0442\u043e\u043d",
+          "url": "https://open.spotify.com/artist/3yUI9YVLxfPiQHOv07gwAi"
+        }
+      ],
+      "duration_ms": 133147,
+      "name": "\u0428\u041a\u041e\u041b\u042c\u041d\u0418\u041a",
+      "url": "https://open.spotify.com/track/0xY3mc3o0NJ3CetKAV8ma3"
+    },
+    {
+      "added_at": "2022-07-04 12:17:35",
+      "album": {
+        "name": "\u0418\u043f\u0438",
+        "url": "https://open.spotify.com/album/7C2K4H2SgmeX7jLMPevDpo"
+      },
+      "artists": [
+        {
+          "name": "Bahroma",
+          "url": "https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL"
+        }
+      ],
+      "duration_ms": 350253,
+      "name": "\u041f\u043e\u043a\u0430-\u043f\u043e\u0440\u0430",
+      "url": "https://open.spotify.com/track/2rao5sMWohJhJlXAYb4g7h"
     }
   ],
   "unique_name": "Top 50 - Ukraine",

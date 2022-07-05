@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni da gridare ed è iniziata anche questa summersad ❤️‍🩹🌦
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,959 likes - 80 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,042 likes - 80 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dove vai?](https://open.spotify.com/track/0e3n1N8wVe7FeGA5v0TNTJ) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Dove vai?](https://open.spotify.com/album/3A45opoUFoMYXON2FGneUD) | 2:56 |
-| 2 | [STOCCOLMA](https://open.spotify.com/track/2YbyAH03K37nF4fOnOGkIo) | [Still Charles](https://open.spotify.com/artist/2KFv9jOFkybE6VjzZ4Ishe) | [STOCCOLMA](https://open.spotify.com/album/0sctf7X3nBVx3d2yIznyXD) | 3:05 |
-| 3 | [SUMMERSAD 3](https://open.spotify.com/track/2sVK7UjS87H83ryrVq8vbY) | [Theø](https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd), [Plant](https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ), [Fiks](https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze) | [SUMMERSAD 3](https://open.spotify.com/album/7Fzw18wH8fL3ehoyukQRKt) | 2:51 |
+| 1 | [SUMMERSAD 3](https://open.spotify.com/track/2sVK7UjS87H83ryrVq8vbY) | [Theø](https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd), [Plant](https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ), [Fiks](https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze) | [SUMMERSAD 3](https://open.spotify.com/album/7Fzw18wH8fL3ehoyukQRKt) | 2:51 |
+| 2 | [Dove vai?](https://open.spotify.com/track/0e3n1N8wVe7FeGA5v0TNTJ) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Dove vai?](https://open.spotify.com/album/3A45opoUFoMYXON2FGneUD) | 2:56 |
+| 3 | [STOCCOLMA](https://open.spotify.com/track/2YbyAH03K37nF4fOnOGkIo) | [Still Charles](https://open.spotify.com/artist/2KFv9jOFkybE6VjzZ4Ishe) | [STOCCOLMA](https://open.spotify.com/album/0sctf7X3nBVx3d2yIznyXD) | 3:05 |
 | 4 | [Polly](https://open.spotify.com/track/1drNpTgwd5Jfzda228o9pa) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL](https://open.spotify.com/album/0WRHoyqLqALdZ8te1QL20V) | 2:45 |
 | 5 | [24/7](https://open.spotify.com/track/032zxhpUSSgQMrHiplLHlY) | [Tear&Drugz](https://open.spotify.com/artist/1cuy7cysWDn6m3kaqazyjT) | [24/7](https://open.spotify.com/album/7IEkJjglrq8Q9wLRxqapTD) | 2:19 |
 | 6 | [Nostalgia](https://open.spotify.com/track/22gH5Qg5j5ZzF7LaR7Nrkj) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Nostalgia](https://open.spotify.com/album/3WKUnE0tlqfep4jO5gyF3P) | 3:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 79 | [pornostar](https://open.spotify.com/track/3ExzUKJ0M84rR2AbbvP3vH) | [blame](https://open.spotify.com/artist/2laf1Hnjue0go3xbkPpfT8), [Yanomi](https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW) | [pornostar](https://open.spotify.com/album/4YHEZl9bzuz7KRAuJmCKSk) | 2:43 |
 | 80 | [don't come back](https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:32 |
 
-Snapshot ID: `MTY1NjYyNjQ2MCwwMDAwMDA5MzAwMDAwMTgxYjZhMWI2MTAwMDAwMDE4MWFmNWIwYzZk`
+Snapshot ID: `MTY1NjkyMTQ3NywwMDAwMDA5NDAwMDAwMTgxYzgzNzUyOTAwMDAwMDE4MWFmNWIwYzZk`

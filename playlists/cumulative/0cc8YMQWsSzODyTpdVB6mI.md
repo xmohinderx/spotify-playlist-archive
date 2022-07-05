@@ -4,7 +4,7 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-59 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
+60 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Synchronise](https://open.spotify.com/track/6f9XYKnQIkBfar5zfEm5Eu) | [Athlete Whippet](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V) | [Synchronise](https://open.spotify.com/album/1ELHpKQWozs7pR6Y6L4QAA) | 4:47 | 2022-06-10 |  |
 | [TE NECESITO¡! \(club\)](https://open.spotify.com/track/3kTongg66uYQDvmqViLXad) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1), [Melika](https://open.spotify.com/artist/5Om1eyevwmfGPz1PTWn8VK) | [TALES\_FOR\_NIGHTCLUBS \(extended\)](https://open.spotify.com/album/1fwN0p83Sfq9ljvfcYI7Iy) | 3:12 | 2022-04-15 | 2022-06-24 |
 | [Termínelo](https://open.spotify.com/track/3KeHo3x5woeso0oWOIIRGV) | [Ivohé](https://open.spotify.com/artist/1IsGvmgaAR24a2BUJyChhL) | [Termínelo](https://open.spotify.com/album/3Wk9HVRqXZwyCRQ5w45Nha) | 2:18 | 2022-04-18 | 2022-06-28 |
+| [TTYL](https://open.spotify.com/track/0KBtXATQFDLMOjTKS9kiDt) | [imugi 이무기](https://open.spotify.com/artist/2rQUmy9WBe1uoPy8y3Wsy8) | [TTYL](https://open.spotify.com/album/3dLq3aoKcbZyrUJLuAtM3G) | 3:18 | 2022-07-04 |  |
 | [Want It Bad](https://open.spotify.com/track/6r6WolFiUnf8leQpgM3kzc) | [Slater Manzo](https://open.spotify.com/artist/4o1zIIgHPK4GcdNNbIXNPQ) | [Want It Bad](https://open.spotify.com/album/2BhX3mXTSlYednKnaQmJJZ) | 3:12 | 2022-05-20 |  |
 | [Weekend \- Jai Wolf Remix](https://open.spotify.com/track/6GXSZaHXyN3QJ7QeoMQSw3) | [Mocki](https://open.spotify.com/artist/5Xrk8HKFWj76Jonuerfupw), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kitsuné: Weekend](https://open.spotify.com/album/1tBXDuJ2OXb7Z2khIAbMlp) | 4:09 | 2021-11-05 |  |
 | [You \- Mixed](https://open.spotify.com/track/6EjgpCbSTdNMjFiBVCQwxt) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Café Kitsuné Mixed by Fabich](https://open.spotify.com/album/3MlhqxDLKTzmEHpHlQFBFS) | 4:42 | 2021-11-05 |  |

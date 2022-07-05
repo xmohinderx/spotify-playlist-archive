@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Hip-Hop tracks from the Arab world. Cover: Dafencii",
+  "description": "Hip-Hop tracks from the Arab world. Cover: Marwan Moussa",
   "name": "Arab Hip-Hop",
   "published_playlist_ids": [
     "70MdVBD0r1zGbWmfrHFVvq"
@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 184000,
       "name": "Adary",
       "url": "https://open.spotify.com/track/18vgXrkt2LuZDyT96YjB4B"
@@ -247,6 +247,24 @@
       "duration_ms": 195048,
       "name": "Batal Men El Waraa",
       "url": "https://open.spotify.com/track/3tcrbd01g8TFAiC2DFUu9Z"
+    },
+    {
+      "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/7EFMPafpTIPs0V2RsNhF9T"
+      },
+      "artists": [
+        {
+          "name": "Big Bo",
+          "url": "https://open.spotify.com/artist/1c1a6Msmnol64H1hlfQ23q"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140326,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/33kN7MSsfmxCG4HT2vn7j8"
     },
     {
       "album": {
@@ -781,7 +799,7 @@
       ],
       "date_added": "2022-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 145711,
       "name": "Hattatack Battatack",
       "url": "https://open.spotify.com/track/3RzrCMppvv3cYLmAI1KdGp"
@@ -883,7 +901,7 @@
       ],
       "date_added": "2022-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 193621,
       "name": "Keify Keda",
       "url": "https://open.spotify.com/track/3yWSjxKQMpa7hXcmVElZgX"
@@ -901,7 +919,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 185283,
       "name": "Kekh",
       "url": "https://open.spotify.com/track/2IuRjFbDzdhm8rOa8wrFmP"
@@ -1048,6 +1066,28 @@
     },
     {
       "album": {
+        "name": "LOKLOK",
+        "url": "https://open.spotify.com/album/7rMduOQflk9P9TnxwRjs4X"
+      },
+      "artists": [
+        {
+          "name": "Shahyn",
+          "url": "https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG"
+        },
+        {
+          "name": "Farra",
+          "url": "https://open.spotify.com/artist/4jaR2Xjm4FXiPM3JB1l0rT"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219219,
+      "name": "LOKLOK",
+      "url": "https://open.spotify.com/track/5nXheavFnyhPyQXdO0jL3u"
+    },
+    {
+      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/6Xmpgs3PqfYMBsILATKj12"
       },
@@ -1095,7 +1135,7 @@
       ],
       "date_added": "2022-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 192683,
       "name": "Mkahrab",
       "url": "https://open.spotify.com/track/0xMchpYiDzpvn66udMuDYE"
@@ -1307,7 +1347,7 @@
       ],
       "date_added": "2022-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 195748,
       "name": "Rio",
       "url": "https://open.spotify.com/track/3Nmka6ycOZm2jiHyCJCjcc"
@@ -1898,6 +1938,24 @@
     },
     {
       "album": {
+        "name": "\u0639\u0642\u062f \u0627\u062d\u062a\u0631\u0627\u0641",
+        "url": "https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "\u0628\u0637\u0644 \u0639\u0627\u0644\u0645",
+      "url": "https://open.spotify.com/track/2E2ZmCeuHrHOECN01QhN0A"
+    },
+    {
+      "album": {
         "name": "\u0628\u0639\u0648\u062f\u0629 \u064a\u0627 \u0628\u0644\u0627\u062f\u0649 ( \u0645\u0646 \u0641\u064a\u0644\u0645 \" \u0643\u0628\u0627\u062a\u0646 \u0627\u0644\u0632\u0639\u062a\u0631\u064a \")",
         "url": "https://open.spotify.com/album/6bAqBBFbmNi3ixH2B1F7b8"
       },
@@ -1949,7 +2007,7 @@
       ],
       "date_added": "2022-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 163140,
       "name": "\u062e\u062f \u0648 \u0647\u0627\u062a",
       "url": "https://open.spotify.com/track/1AfioCIHFE3Ny3kTBppiP9"
@@ -1989,7 +2047,7 @@
       ],
       "date_added": "2022-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 196069,
       "name": "\u0633\u0628\u064a\u0644\u0643 (\u0645\u0639 \u0645\u0624\u064a\u062f)",
       "url": "https://open.spotify.com/track/3fCsQYTWgr1ZZYyAN0UW3P"
@@ -2181,7 +2239,7 @@
       ],
       "date_added": "2022-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 230998,
       "name": "\u0645\u0634 \u0641\u064a\u0631",
       "url": "https://open.spotify.com/track/1JdRPaDFswfqCpAhBPKqUw"
@@ -2217,7 +2275,7 @@
       ],
       "date_added": "2022-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 211487,
       "name": "\u064a\u0645\u0651\u0627 \u0662",
       "url": "https://open.spotify.com/track/6ka4CAlYTH3TetmF1vThLi"

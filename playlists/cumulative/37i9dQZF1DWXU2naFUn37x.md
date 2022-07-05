@@ -4,7 +4,7 @@
 
 > La casa dello street rap italiano\. Cover: Neima Ezza
 
-97 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/2xFrA1gU60YSyblsw3BI3i)
+98 songs - 4 hr 37 min - [published](https://open.spotify.com/playlist/2xFrA1gU60YSyblsw3BI3i)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [4MEGA SHOO](https://open.spotify.com/track/6EAXjYmgFCglbpKBZWVtjj) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [4MEGA SHOO](https://open.spotify.com/album/3AcNR7fuUArlpLBYuHukBn) | 2:02 | 2022-06-16 |  |
 | [5 testimoni](https://open.spotify.com/track/4FKCQOfnGV5tU2bhuccarh) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [5 testimoni](https://open.spotify.com/album/4Xhv0WOKfjZkmMXSgbjByB) | 2:24 | 2022-05-11 | 2022-05-27 |
 | [9.19](https://open.spotify.com/track/4xlVDf8pSGnjJGwTT6dyXw) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Luciennn](https://open.spotify.com/artist/6qHbYx76y5bQSbBMUYhhuP), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [BLOCCO 181 – ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH) | 1:59 | 2022-05-26 |  |
+| [ADVICE](https://open.spotify.com/track/3gQkyNcw4YuyeUcFM5d9TB) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [LISTA 47](https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4) | 3:03 | 2022-07-04 |  |
 | [Antipatico](https://open.spotify.com/track/2ie4n6tymDnMjYkN32WWLV) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS) | [Antipatico](https://open.spotify.com/album/1RG5XhKqqEeknEsc5P7eNv) | 2:31 | 2022-05-11 | 2022-05-27 |
 | [Aston Martin \(feat\. Headie One\)](https://open.spotify.com/track/5yIVCbjYf85Ixuc8ybba6s) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Aston Martin \(feat\. Headie One\)](https://open.spotify.com/album/5Caup6PGNwKut6KiyaZP5j) | 2:48 | 2022-05-11 | 2022-06-03 |
 | [Bagage](https://open.spotify.com/track/7634keaijcnpeX1jzPrNQV) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [Bagage](https://open.spotify.com/album/4eLAygvtyrT2Etom1JPVGq) | 2:22 | 2022-05-11 | 2022-06-03 |

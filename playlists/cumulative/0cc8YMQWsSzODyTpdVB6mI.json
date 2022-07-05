@@ -1080,6 +1080,24 @@
     },
     {
       "album": {
+        "name": "TTYL",
+        "url": "https://open.spotify.com/album/3dLq3aoKcbZyrUJLuAtM3G"
+      },
+      "artists": [
+        {
+          "name": "imugi \uc774\ubb34\uae30",
+          "url": "https://open.spotify.com/artist/2rQUmy9WBe1uoPy8y3Wsy8"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198127,
+      "name": "TTYL",
+      "url": "https://open.spotify.com/track/0KBtXATQFDLMOjTKS9kiDt"
+    },
+    {
+      "album": {
         "name": "Want It Bad",
         "url": "https://open.spotify.com/album/2BhX3mXTSlYednKnaQmJJZ"
       },

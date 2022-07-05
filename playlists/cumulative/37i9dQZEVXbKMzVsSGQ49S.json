@@ -4589,7 +4589,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 252920,
       "name": "FL\u00ddG UPP",
       "url": "https://open.spotify.com/track/2iHiVyfDAm6EjhkGELpqPK"
@@ -9386,6 +9386,24 @@
     },
     {
       "album": {
+        "name": "Master Of Puppets (Remastered)",
+        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515386,
+      "name": "Master Of Puppets",
+      "url": "https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i"
+    },
+    {
+      "album": {
         "name": "Mata Hari",
         "url": "https://open.spotify.com/album/2qAJL1ffzMUKu3quKRoMwi"
       },
@@ -12087,7 +12105,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 228351,
       "name": "R\u00f3legur k\u00fareki",
       "url": "https://open.spotify.com/track/1Riv4d4nqpQVxArPLsk4s0"
@@ -13485,7 +13503,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 243227,
       "name": "Sticky",
       "url": "https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa"
@@ -13943,7 +13961,7 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 230063,
       "name": "S\u00f3d\u00f3ma",
       "url": "https://open.spotify.com/track/2E6eRqZZxUWpoKxGBhaHDH"
@@ -16651,7 +16669,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 286348,
       "name": "\u00dea\u00f0 er gott a\u00f0 elska",
       "url": "https://open.spotify.com/track/6I8wic0mBs7uEvwiCTOTlt"

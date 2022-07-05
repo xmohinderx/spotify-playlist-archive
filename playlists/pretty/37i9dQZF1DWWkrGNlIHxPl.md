@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover: Ghaliaa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,104 likes - 97 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,112 likes - 97 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

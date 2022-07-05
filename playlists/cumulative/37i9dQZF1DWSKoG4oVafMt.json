@@ -1532,6 +1532,24 @@
     },
     {
       "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/37RerQlYpnNfS1tbXdri0O"
+      },
+      "artists": [
+        {
+          "name": "R Nait",
+          "url": "https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209875,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/3pxKYqkCKgaGHVExK4BX2e"
+    },
+    {
+      "album": {
         "name": "Majestic Lane",
         "url": "https://open.spotify.com/album/2mSkfnGXVg801G25WOgzXk"
       },

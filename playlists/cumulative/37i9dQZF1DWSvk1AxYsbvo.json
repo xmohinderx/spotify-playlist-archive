@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 233520,
       "name": "Call me now",
       "url": "https://open.spotify.com/track/7AfXFqHlw1HVRPobCInpsU"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 191331,
       "name": "Cheer Up - Acoustic Version",
       "url": "https://open.spotify.com/track/6kBb78hkYvUu5jllXys9vQ"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 208920,
       "name": "Falling In Love \ub108\ub97c \ubcf4\ub124",
       "url": "https://open.spotify.com/track/61VCxojnsTkde1teMCMW0j"
@@ -449,7 +449,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 178373,
       "name": "Gently, By Your Side",
       "url": "https://open.spotify.com/track/50tE4kVgb6E6StIU8aXIiZ"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 249723,
       "name": "How did you (feat. Baek Yerin)",
       "url": "https://open.spotify.com/track/2mVb3RIBLffHQsauvkHBuf"
@@ -537,7 +537,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 178493,
       "name": "i and i",
       "url": "https://open.spotify.com/track/33PhGGthxOh1gmUCW28gMB"
@@ -703,7 +703,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 225080,
       "name": "Just You",
       "url": "https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9"
@@ -890,6 +890,24 @@
     },
     {
       "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/5jJdbTjdiwPyjVCJjOQbKY"
+      },
+      "artists": [
+        {
+          "name": "Around",
+          "url": "https://open.spotify.com/artist/30imnk1KS3eh6441SlwbGt"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156842,
+      "name": "More",
+      "url": "https://open.spotify.com/track/6RLU0sBE445FdnxoXr7kYT"
+    },
+    {
+      "album": {
         "name": "Moving",
         "url": "https://open.spotify.com/album/0T2md2tJWwA35Wl2EFHbiH"
       },
@@ -973,7 +991,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 205306,
       "name": "OceanooM\u2218\u263d",
       "url": "https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2"
@@ -1103,7 +1121,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 254691,
       "name": "River Flows In You",
       "url": "https://open.spotify.com/track/2V05KB0icP3LeekILjSqhR"
@@ -1128,6 +1146,24 @@
     },
     {
       "album": {
+        "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/6lkiYHR4LUv13f0yuXSf2D"
+      },
+      "artists": [
+        {
+          "name": "MINNIE",
+          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239866,
+      "name": "Saying Hello",
+      "url": "https://open.spotify.com/track/0iLX5STkl07zjT4sO8dadX"
+    },
+    {
+      "album": {
         "name": "SHE",
         "url": "https://open.spotify.com/album/6mMVN3CgIq54BGZPgjU9IQ"
       },
@@ -1143,7 +1179,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 198040,
       "name": "SHE",
       "url": "https://open.spotify.com/track/36ty55F3OvW2lXtzTqLXQH"
@@ -1291,7 +1327,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 247422,
       "name": "Summer Holiday",
       "url": "https://open.spotify.com/track/6JssFto40uuzKpsyKOOPt2"
@@ -1309,7 +1345,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 206013,
       "name": "Summer Night You and I",
       "url": "https://open.spotify.com/track/1zCRu6ONQa4FCADwoZnHuI"
@@ -1349,7 +1385,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 234705,
       "name": "Sweet Kiss Like Coffee",
       "url": "https://open.spotify.com/track/2M0c6RddlHFOHPKwxfqMlW"
@@ -1529,7 +1565,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 193593,
       "name": "Transcendence",
       "url": "https://open.spotify.com/track/5EYZN2W4qk20IOQ9c3JZ6K"

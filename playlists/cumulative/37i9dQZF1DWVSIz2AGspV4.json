@@ -1872,6 +1872,24 @@
     },
     {
       "album": {
+        "name": "Mawal Alila",
+        "url": "https://open.spotify.com/album/4KwlxCgjLklIgoWVZY0zoz"
+      },
+      "artists": [
+        {
+          "name": "Hatem Al Iraqi",
+          "url": "https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151918,
+      "name": "Mawal Alila",
+      "url": "https://open.spotify.com/track/0VS8KoZU9eJlEbrAdmd93a"
+    },
+    {
+      "album": {
         "name": "Mawata",
         "url": "https://open.spotify.com/album/3DPn9TMsDGBiWiXljM4fMk"
       },
@@ -2383,6 +2401,28 @@
       "duration_ms": 216572,
       "name": "Tektbli W Aktblk",
       "url": "https://open.spotify.com/track/3WA0CwoDzefz4psnqrnM1I"
+    },
+    {
+      "album": {
+        "name": "Thanbak",
+        "url": "https://open.spotify.com/album/4YCMXvlPMKqgI1w2f0sHuV"
+      },
+      "artists": [
+        {
+          "name": "Raad And Methaq",
+          "url": "https://open.spotify.com/artist/2TS6Y2HXkANqlIC7ZNi5zq"
+        },
+        {
+          "name": "Methaq",
+          "url": "https://open.spotify.com/artist/55c0fnBF1EYaA941Z7srCZ"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311960,
+      "name": "Thanbak",
+      "url": "https://open.spotify.com/track/0FOPyub9jFXCT23dJPU4Z9"
     },
     {
       "album": {

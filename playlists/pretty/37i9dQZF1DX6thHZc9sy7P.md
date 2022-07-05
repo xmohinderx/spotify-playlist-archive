@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6thHZc9sy7P.md) - [plain]
 
 > Guess who's back? Get into the Inner Circle with us!
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,904 likes - 53 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,926 likes - 53 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

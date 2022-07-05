@@ -3893,7 +3893,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
@@ -4279,7 +4279,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 205714,
       "name": "HALLELUYAH",
       "url": "https://open.spotify.com/track/78ATgcb8QlEENe9fmBWmAL"
@@ -7818,6 +7818,24 @@
     },
     {
       "album": {
+        "name": "M\u00e1m t\u011b v p\u00ed\u010di!!",
+        "url": "https://open.spotify.com/album/6MeqybfLd2Pp473KS2prP6"
+      },
+      "artists": [
+        {
+          "name": "Daniel \u0160afa\u0159\u00edk",
+          "url": "https://open.spotify.com/artist/29ExTMtESUFKu4AjxDi8D9"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165079,
+      "name": "M\u00e1m t\u011b v p\u00ed\u010di!!",
+      "url": "https://open.spotify.com/track/5Qz6uOCeU5BaNnWyDa5WHY"
+    },
+    {
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
@@ -8421,7 +8439,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 130520,
       "name": "Nikdy Nic Nebylo",
       "url": "https://open.spotify.com/track/3rKPRnYJ5b89bv5ZsLrogK"
@@ -9369,6 +9387,24 @@
       "duration_ms": 162406,
       "name": "pro love",
       "url": "https://open.spotify.com/track/4KBJnURpVDPgNqEpQRFonx"
+    },
+    {
+      "album": {
+        "name": "Projektil",
+        "url": "https://open.spotify.com/album/4alwK7juXzI1rxUO6zHxiP"
+      },
+      "artists": [
+        {
+          "name": "Dorian",
+          "url": "https://open.spotify.com/artist/2vMxLcwqHKxvVdBtKRpyUY"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189890,
+      "name": "Projektil",
+      "url": "https://open.spotify.com/track/2MuN5PW5J6ioQD3KwEEi72"
     },
     {
       "album": {
@@ -11099,7 +11135,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > Mujeres a todo volumen\. En portada: Valentina Moretti
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,351 likes - 41 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,387 likes - 41 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

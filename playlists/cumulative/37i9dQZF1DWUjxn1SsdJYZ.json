@@ -1291,7 +1291,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 163943,
       "name": "Hit My Line",
       "url": "https://open.spotify.com/track/3pWyjL4tP35kcMUhxEyaQP"
@@ -1687,7 +1687,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 150000,
       "name": "Loaded",
       "url": "https://open.spotify.com/track/4Xq1H5RM0bfc1tHzDYg0id"
@@ -2748,6 +2748,28 @@
     },
     {
       "album": {
+        "name": "RIDING",
+        "url": "https://open.spotify.com/album/4ankxDU4aJ5S4wUgiBXQsF"
+      },
+      "artists": [
+        {
+          "name": "Tmk",
+          "url": "https://open.spotify.com/artist/2oFK3R5iz6M9zfKz0YQppP"
+        },
+        {
+          "name": "YXAN",
+          "url": "https://open.spotify.com/artist/1vFU3dBPfEHrZOx9GAm3z9"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194396,
+      "name": "RIDING",
+      "url": "https://open.spotify.com/track/46Z99a3wscL05PsmZM4aiD"
+    },
+    {
+      "album": {
         "name": "Roll Up",
         "url": "https://open.spotify.com/album/1qNAoQrShYhTS7iQO9Mlpq"
       },
@@ -3347,7 +3369,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 232668,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/1EJGuZXvY7uy4o1mdzjZPq"

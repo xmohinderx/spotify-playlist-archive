@@ -4,7 +4,7 @@
 
 > احدث الاغاني العراقية\. غلاف: حسام الرسام
 
-146 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
+148 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Ma Yrham](https://open.spotify.com/track/08tZf9bbR9WDa6G7S04ttp) | [Jafar Al Ghazal](https://open.spotify.com/artist/33FJbhlNRNQIBQdlSF91sr) | [Ma Yrham](https://open.spotify.com/album/2rOpwc0DnJMWPJjz8mZnlK) | 3:29 | 2021-12-23 | 2022-02-10 |
 | [Madim Aleak](https://open.spotify.com/track/7x3OeqioqJIZD5y0yFEeir) | [Mahmoud Al Gayath](https://open.spotify.com/artist/0vlrGHoVOpmG8ufhbgcJe9) | [Madim Aleak](https://open.spotify.com/album/7tGZPVKKgrV3aJ1fRQUjIj) | 3:25 | 2022-01-20 | 2022-06-07 |
 | [Mashit Wayak](https://open.spotify.com/track/0Wq13UFsTy0ZGmwmPd7iaw) | [Osama Naji](https://open.spotify.com/artist/0Wsn2xJsy1aeAPfNviVDm4) | [Mashit Wayak](https://open.spotify.com/album/6ZoXSyv6O4ZMYQt8XVCPIg) | 3:02 | 2022-05-13 |  |
+| [Mawal Alila](https://open.spotify.com/track/0VS8KoZU9eJlEbrAdmd93a) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [Mawal Alila](https://open.spotify.com/album/4KwlxCgjLklIgoWVZY0zoz) | 2:31 | 2022-07-04 |  |
 | [Mawata](https://open.spotify.com/track/7kwKxJjlATFSqYKKEhVBGD) | [Mirna Tahan](https://open.spotify.com/artist/0GmjBO10yFgYsG67TcYJgg) | [Mawata](https://open.spotify.com/album/3DPn9TMsDGBiWiXljM4fMk) | 3:05 | 2021-12-23 | 2022-01-28 |
 | [Men Halwaket](https://open.spotify.com/track/5HRJEEbjlsshXBlYHRLE55) | [Louay Nana](https://open.spotify.com/artist/4EYdSEi7yt7bfaiME819gI) | [Men Halwaket](https://open.spotify.com/album/676Ri8ndBtfFXhHbAn44a2) | 4:14 | 2021-12-23 | 2022-05-07 |
 | [Mitghaer W Halyan](https://open.spotify.com/track/6dnkpGCXQc22MpGYrO1tFn) | [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S), [Mostafa Ibrahim](https://open.spotify.com/artist/6rEEUjWP7GWSQHo5sTU2ZU) | [Mitghaer W Halyan](https://open.spotify.com/album/6htpatd9SodufzqQDrLjM3) | 4:10 | 2022-05-24 |  |
@@ -135,6 +136,7 @@
 | [Teba](https://open.spotify.com/track/0uBPeDdplbSOmp12hlLYO4) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Teba](https://open.spotify.com/album/1bS2s5HzuoKbHflXpWcsUS) | 4:10 | 2022-04-05 |  |
 | [Tebee She Besoraa](https://open.spotify.com/track/6pAQGBvrQ44mrpAwKmvaNE) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa) | [Tebee She Besoraa](https://open.spotify.com/album/62UsjzxtWjP2U3dKhPUVKn) | 3:12 | 2021-12-23 | 2022-01-22 |
 | [Tektbli W Aktblk](https://open.spotify.com/track/3WA0CwoDzefz4psnqrnM1I) | [Ali Jassim](https://open.spotify.com/artist/0sQhYPLQcT2qUZ5KV25WSe), [Hamza Al Muhmdawi](https://open.spotify.com/artist/2UgjvFvfz7rQ5Vmu3HeEN5) | [Tektbli W Aktblk](https://open.spotify.com/album/0vcGkTrQqdI2Zdb6PaJGyw) | 3:36 | 2022-06-03 |  |
+| [Thanbak](https://open.spotify.com/track/0FOPyub9jFXCT23dJPU4Z9) | [Raad And Methaq](https://open.spotify.com/artist/2TS6Y2HXkANqlIC7ZNi5zq), [Methaq](https://open.spotify.com/artist/55c0fnBF1EYaA941Z7srCZ) | [Thanbak](https://open.spotify.com/album/4YCMXvlPMKqgI1w2f0sHuV) | 5:11 | 2022-07-04 |  |
 | [Treed Amoot ?](https://open.spotify.com/track/5NX2YtvUOAnkGPADa55RP5) | [Tayseer Al Safeer](https://open.spotify.com/artist/4PQeohrT8GInzKC3wJFGLa) | [Treed Amoot ?](https://open.spotify.com/album/07r7qpObINK0yR7V5UfWhS) | 3:59 | 2021-12-23 | 2022-01-15 |
 | [Wahed](https://open.spotify.com/track/7fEJ3sevHUm2dQo2fK54o5) | [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S) | [Wahed](https://open.spotify.com/album/468PmLXWGgd9lrNjfv5e6L) | 3:10 | 2022-02-11 | 2022-06-09 |
 | [Waiak](https://open.spotify.com/track/6iJ9ROZDjbvKBr8cdrVNiF) | [Haitham Yusuf](https://open.spotify.com/artist/02zgHwO8Mwq86RTuXL3JXQ) | [Waiak](https://open.spotify.com/album/5j1NW6jEgcCgy7PsFA9h3Y) | 4:37 | 2022-05-24 |  |

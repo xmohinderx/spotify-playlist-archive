@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 213510,
       "name": "Another Place",
       "url": "https://open.spotify.com/track/2Fn4gZI3MAeWTiv7cSVxZQ"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 179855,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/6KMkEX692kOyqJ7WuPhRab"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 195212,
       "name": "Chew On My Heart",
       "url": "https://open.spotify.com/track/6t7089pe4VklogK683LdPM"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 251733,
       "name": "Distraction",
       "url": "https://open.spotify.com/track/4gmnXoFTFHKDZ4kYmLlR9e"
@@ -520,6 +520,24 @@
     },
     {
       "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/1JSVRjxJYEPHAuxU8YbWBO"
+      },
+      "artists": [
+        {
+          "name": "Big Time Rush",
+          "url": "https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153457,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/3f9gj7aK0IIrbnJ6YHDqFj"
+    },
+    {
+      "album": {
         "name": "House On Fire",
         "url": "https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL"
       },
@@ -585,7 +603,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 216107,
       "name": "I Dare You",
       "url": "https://open.spotify.com/track/0o58NWBiVXewJNfNDKQyjw"
@@ -675,7 +693,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 203692,
       "name": "Just Thought You Should Know",
       "url": "https://open.spotify.com/track/0VE5fZ1BILydCtqg4yDGRl"
@@ -693,7 +711,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 230883,
       "name": "LDQ (Little Drama Queen)",
       "url": "https://open.spotify.com/track/3LhNkNHWxcjZszrqsqZEE3"
@@ -729,7 +747,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 168253,
       "name": "Let U Go",
       "url": "https://open.spotify.com/track/7FEiuFp1Zo9rxehIquEtL2"
@@ -769,7 +787,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 145103,
       "name": "Love It When You Hate Me (feat. blackbear)",
       "url": "https://open.spotify.com/track/4jUAn4mBt4LBsRREJkeCSr"
@@ -809,7 +827,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 185786,
       "name": "Maniac",
       "url": "https://open.spotify.com/track/7hpJ9tATWb2vztlq99hERP"
@@ -1097,7 +1115,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 219813,
       "name": "Someone To You",
       "url": "https://open.spotify.com/track/3IlD3SWoYcBhbMUl4Pj8Hk"
@@ -1133,7 +1151,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 182988,
       "name": "Sound of Your Voice",
       "url": "https://open.spotify.com/track/79EPrcuYKoky4lG3BvmzCy"
@@ -1187,7 +1205,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 225063,
       "name": "Strangers Again",
       "url": "https://open.spotify.com/track/5696iWDxeJrfCYkP9LAWXJ"
@@ -1335,7 +1353,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 156937,
       "name": "Twinkle Twinkle Little Bitch",
       "url": "https://open.spotify.com/track/6zBqlhWjEhNyH4Z8eUDzMT"
@@ -1425,7 +1443,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 166779,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj"
@@ -1465,6 +1483,24 @@
       "duration_ms": 185944,
       "name": "Wonderful Life - Edit",
       "url": "https://open.spotify.com/track/1UW4ovo5jTxYnmbTw89BpJ"
+    },
+    {
+      "album": {
+        "name": "Yeah, I Like You",
+        "url": "https://open.spotify.com/album/0vlDeWXsRPN0GZkdIoykfT"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264466,
+      "name": "Yeah, I Like You",
+      "url": "https://open.spotify.com/track/6kNOYOpdMy0w67fC4XPc0q"
     },
     {
       "album": {
@@ -1515,7 +1551,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 195133,
       "name": "You Signed Up For This",
       "url": "https://open.spotify.com/track/2I4NfDyog74Wq8R8btJDY3"

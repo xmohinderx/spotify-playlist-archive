@@ -107,7 +107,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 214173,
       "name": "All God's Children",
       "url": "https://open.spotify.com/track/0DlGAxnYAx5hMSJO3QVPaH"
@@ -205,7 +205,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 245213,
       "name": "Battles",
       "url": "https://open.spotify.com/track/135BpkRmi9GG7HLhB6OK5m"
@@ -425,7 +425,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 214793,
       "name": "Clean",
       "url": "https://open.spotify.com/track/2dXntxjimv1oK2BejjEj10"
@@ -515,7 +515,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 223224,
       "name": "Coming Out Fighting",
       "url": "https://open.spotify.com/track/4BhIdUwXCuraOleWckiAL5"
@@ -779,7 +779,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 229066,
       "name": "Fighting For Me",
       "url": "https://open.spotify.com/track/5StojELSdCvj23qhF9OxDW"
@@ -970,6 +970,24 @@
     },
     {
       "album": {
+        "name": "No Shame",
+        "url": "https://open.spotify.com/album/0UtgPgGX5uX7CDLE7NeggY"
+      },
+      "artists": [
+        {
+          "name": "Tenth Avenue North",
+          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256782,
+      "name": "Greater Than All My Regrets",
+      "url": "https://open.spotify.com/track/31XV6mfKY1Vdyb6KuNfArI"
+    },
+    {
+      "album": {
         "name": "He Believes In You",
         "url": "https://open.spotify.com/album/4WndsUGUWi2hLMYH7xVbSD"
       },
@@ -999,7 +1017,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 225053,
       "name": "He Is",
       "url": "https://open.spotify.com/track/2uO3Ldx1HaCiimUkJwAf6c"
@@ -1501,7 +1519,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 209840,
       "name": "Let It Rain (Is There Anybody)",
       "url": "https://open.spotify.com/track/3Rf7ZckSUqSffVhHmiwOde"
@@ -1865,7 +1883,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 183240,
       "name": "No Hopeless Soul",
       "url": "https://open.spotify.com/track/7fovCglnkftOlJmrIidq8r"
@@ -1941,7 +1959,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 223280,
       "name": "OK",
       "url": "https://open.spotify.com/track/76UQFZtK8p9OC1FqHh38ha"
@@ -2267,7 +2285,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 242606,
       "name": "Reputation",
       "url": "https://open.spotify.com/track/63KXg5coLHasBMw6QY8SDR"
@@ -2321,7 +2339,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 264840,
       "name": "Resurrecting (Studio Version)",
       "url": "https://open.spotify.com/track/4m3rBNZbDBZ5adk4EnDi4s"
@@ -2603,7 +2621,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 271522,
       "name": "Stronger Love (feat. Leeland)",
       "url": "https://open.spotify.com/track/6IOP0Qdr6gFeDEPmoboAV9"
@@ -3085,7 +3103,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 234731,
       "name": "Yes I Will",
       "url": "https://open.spotify.com/track/1sF4VadVaVTvp9WTEy79JT"

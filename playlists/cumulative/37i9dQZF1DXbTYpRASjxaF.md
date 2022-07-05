@@ -4,7 +4,7 @@
 
 > Pega o gelo de coco, chama o bonde e vem pra festa\. Foto: Caio Luccas
 
-80 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/7yBgPzkrKCeqBbpF8RHyZV)
+81 songs - 4 hr 43 min - [published](https://open.spotify.com/playlist/7yBgPzkrKCeqBbpF8RHyZV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Não Nasceu pra Namorar](https://open.spotify.com/track/6pQKUKBpwr6GhfhcFFFozo) | [MC Zaquin](https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4), [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt) | [Não Nasceu pra Namorar](https://open.spotify.com/album/17id6KvXhh7BXEKPfetHTQ) | 2:20 | 2022-03-18 |  |
 | [Não Quer Chifre](https://open.spotify.com/track/7Ls0AYtBWAJtt7iORFc6zC) | [Mc Frog](https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm), [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE) | [Não Quer Chifre](https://open.spotify.com/album/0bjhRzZTAjo8MJ4MuV9Y5g) | 2:29 | 2022-03-18 | 2022-07-02 |
 | [O Papai Ta Bonitão, Vou Pagar Copão](https://open.spotify.com/track/4wqPKwpCOxaN4wrMRhAzfq) | [dj 2c](https://open.spotify.com/artist/1j5TEZgx2zKhozCDfwbny1), [Mc Marofa](https://open.spotify.com/artist/1ZFKFuRNWGcRL4bHEmWVAe), [Mc Rd](https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d) | [O Papai Ta Bonitão, Vou Pagar Copão](https://open.spotify.com/album/1zzKZPrb8lp3p7n5zw5mIT) | 3:38 | 2022-03-18 | 2022-06-18 |
+| [O Que Você Quer?](https://open.spotify.com/track/5HdpRBA7H8i2dNHAY7aslT) | [Shoy](https://open.spotify.com/artist/3qGnDZ8BHEsA9Go8ui3RUJ), [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP) | [Rico Bem Novin](https://open.spotify.com/album/5vGJ6Mgt5MWj5Y0ZXc0QJF) | 3:03 | 2022-07-04 |  |
 | [Oclin e Evoque](https://open.spotify.com/track/3PnDIGbfmswMaxX386zp3X) | [Tropa do Bruxo](https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Oclin e Evoque](https://open.spotify.com/album/1lm0ePGaAMF91JfN3O9sI7) | 3:32 | 2022-03-18 |  |
 | [Pandora](https://open.spotify.com/track/0yL7K9MzC20uBesZTPY81r) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Pandora](https://open.spotify.com/album/25yqPTm5X7FXx62mPnjcsC) | 2:57 | 2022-03-18 |  |
 | [Paraíso Periférico](https://open.spotify.com/track/0piW8h3hjHkKfEJu6LzU7j) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Paraíso Periférico](https://open.spotify.com/album/1TQdoLB4Ys0i4qCw693kZR) | 2:51 | 2022-03-18 | 2022-05-28 |

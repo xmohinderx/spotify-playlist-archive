@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-674 songs - 1 day 11 hr 19 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
+675 songs - 1 day 11 hr 22 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,7 +308,7 @@
 | [Ibiza Stories](https://open.spotify.com/track/4YU0biJZXmOT2dWLyiTt5O) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Ibiza Stories](https://open.spotify.com/album/4f4XrPHbOOPXglYfMCkHgP) | 3:41 | 2022-01-29 | 2022-02-13 |
 | [Iedereen Laag](https://open.spotify.com/track/294r1XW4SvpgjwYonUE7WT) | [Sevn Alias](https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Iedereen Laag](https://open.spotify.com/album/5Yq7amyflQn5UoV4lGxaX5) | 2:29 | 2022-05-10 | 2022-05-15 |
 | [Ik Ben Kachel](https://open.spotify.com/track/0rEuuYpZ2yWU6ppTJpe9wT) | [OBZ](https://open.spotify.com/artist/7pfmlAOn0pAPxoReDorkxA) | [Ik Ben Kachel](https://open.spotify.com/album/3ygyqKtepTq08YA0SGPAgr) | 3:27 | 2022-06-26 |  |
-| [Ik Ga Zwemmen](https://open.spotify.com/track/6u5qi5Va5afHWJ18fHjJyi) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Ik Ga Zwemmen](https://open.spotify.com/album/3EjQWN7jICXAxg5iL0ob7j) | 2:59 | 2021-08-02 |  |
+| [Ik Ga Zwemmen](https://open.spotify.com/track/6u5qi5Va5afHWJ18fHjJyi) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Ik Ga Zwemmen](https://open.spotify.com/album/3EjQWN7jICXAxg5iL0ob7j) | 2:59 | 2021-08-02 | 2022-07-05 |
 | [Ik Heb Je \(met Henkie T & Yssi SB\)](https://open.spotify.com/track/1RwzHr1ViMmmauoz3G2sWn) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8) | [Ik Heb Je](https://open.spotify.com/album/3og5VL9zk12eezRWFAGgvz) | 3:14 | 2021-10-03 | 2021-10-11 |
 | [Iko Iko \(My Bestie\)](https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i) | [Justin Wellington](https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF), [Small Jam](https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8) | [Iko Iko \(My Bestie\)](https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU) | 3:02 | 2021-06-10 | 2021-09-29 |
 | [In De Goot](https://open.spotify.com/track/0e0vYAPSEvR9wkiCGE2nin) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [In De Goot](https://open.spotify.com/album/7Kq3g34php4lnzdfP8CjaS) | 2:33 | 2022-06-11 | 2022-07-03 |
@@ -428,6 +428,7 @@
 | [More Time](https://open.spotify.com/track/2wzionesqIt3x5Sglb4n91) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:00 | 2021-07-18 | 2021-07-19 |
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK) | 3:54 | 2021-10-23 | 2022-04-03 |
 | [Multi Multi](https://open.spotify.com/track/64N6kmOcJRlPcKzGicLCTY) | [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Talou](https://open.spotify.com/album/5nTBO5C2cKIypuPSleM2IW) | 3:36 | 2021-11-07 | 2021-11-14 |
+| [Multicolor](https://open.spotify.com/track/2ExdbieQffMXpY7ygN2YN9) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Multicolor](https://open.spotify.com/album/1Aq9FlSr9KanZFljnUnl2m) | 3:28 | 2022-07-04 |  |
 | [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 | 2022-05-21 | 2022-06-05 |
 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 | 2021-03-27\* | 2021-04-19 |
 | [My Little Love](https://open.spotify.com/track/2DuPBbS5mIldXnh7Wum8Cy) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:29 | 2021-11-21 | 2021-12-03 |

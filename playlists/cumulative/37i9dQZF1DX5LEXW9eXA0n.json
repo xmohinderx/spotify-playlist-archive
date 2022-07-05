@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Mellow & sentimental K-Pop ballads. (Cover: \bBDC) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
+  "description": "Mellow & sentimental K-Pop ballads. (Cover: Soseo(\uc18c\uc11c)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
   "name": "K-Pop Ballad Hits (\ubc1c\ub77c\ub4dc, \ub824\uc694)",
   "published_playlist_ids": [
     "50vXMaH1sm7s2jq2W5LswS"
@@ -131,6 +131,24 @@
       "duration_ms": 212786,
       "name": "99",
       "url": "https://open.spotify.com/track/0NVc9dRJa7IqBbOPvuDqwq"
+    },
+    {
+      "album": {
+        "name": "A Common Excuse",
+        "url": "https://open.spotify.com/album/0rTkLfgMbdLpBilQ273zSW"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237800,
+      "name": "A Common Excuse",
+      "url": "https://open.spotify.com/track/7GpmCt7ZY3BEjs5O2SSGS9"
     },
     {
       "album": {
@@ -397,7 +415,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 166968,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/01UPzueYKNIRn4R9l5neB5"
@@ -689,7 +707,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 239853,
       "name": "Better for Me (Nth Romance X MeloMance)",
       "url": "https://open.spotify.com/track/3d2tLjYswXQsIsoDAZRkUr"
@@ -797,7 +815,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 206853,
       "name": "Blue Sky",
       "url": "https://open.spotify.com/track/4KHTeInKLpN83MtOenzyxn"
@@ -1003,7 +1021,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 255746,
       "name": "Can Love Be Fair",
       "url": "https://open.spotify.com/track/0ZSgMcumYoRwVeFmFJWtmm"
@@ -1079,6 +1097,28 @@
       "duration_ms": 244120,
       "name": "Can\u2032t Live Without You",
       "url": "https://open.spotify.com/track/1HGEtYmtaMDG4lTtITK5pA"
+    },
+    {
+      "album": {
+        "name": "Cause You (prod. KANGTA) - SM STATION",
+        "url": "https://open.spotify.com/album/4SJpUs4YI7u0M3S2slXuOQ"
+      },
+      "artists": [
+        {
+          "name": "Young Jun",
+          "url": "https://open.spotify.com/artist/7n7p8oXuygFVSkrCO9FvAt"
+        },
+        {
+          "name": "Lee Ye Joon",
+          "url": "https://open.spotify.com/artist/0pi0UqDbdqphea7hTxQyby"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235573,
+      "name": "Cause You (prod. KANGTA)",
+      "url": "https://open.spotify.com/track/4tmhfVKwTg8iSbXtQN4Yba"
     },
     {
       "album": {
@@ -1465,7 +1505,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 222415,
       "name": "Dream",
       "url": "https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm"
@@ -1591,7 +1631,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 249241,
       "name": "Ending Scene",
       "url": "https://open.spotify.com/track/06EMBzxDm2hueehobAlMtm"
@@ -1653,7 +1693,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 229586,
       "name": "Even if fate separates us",
       "url": "https://open.spotify.com/track/3EJJObwczdPZlWvD8lk94t"
@@ -1707,7 +1747,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 210493,
       "name": "Every day, Every Moment",
       "url": "https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB"
@@ -1931,7 +1971,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 240840,
       "name": "First Line",
       "url": "https://open.spotify.com/track/1frranq2uyiOn5RObEG9g9"
@@ -1953,6 +1993,24 @@
       "duration_ms": 236146,
       "name": "First Loss",
       "url": "https://open.spotify.com/track/4cOxx9vS7Zda7m0RzAsGMG"
+    },
+    {
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/0McpCdcqKHDONKqcMh5UEE"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182313,
+      "name": "First Love",
+      "url": "https://open.spotify.com/track/1bhLix8ZApePHFLiVCKpp4"
     },
     {
       "album": {
@@ -2007,7 +2065,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 235133,
       "name": "FLAG",
       "url": "https://open.spotify.com/track/0LvrQEsWwKL1X30rHYiYUw"
@@ -2169,7 +2227,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 280360,
       "name": "Give You My Heart",
       "url": "https://open.spotify.com/track/6dGsBRuavumBs5BghcXF3D"
@@ -2277,7 +2335,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 238071,
       "name": "haeyo (2022)",
       "url": "https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N"
@@ -2369,7 +2427,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 172350,
       "name": "He's next to you, instead of me",
       "url": "https://open.spotify.com/track/1vMxDpmSBRHhh0eRCLxQcQ"
@@ -2423,7 +2481,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 244451,
       "name": "Here We Are",
       "url": "https://open.spotify.com/track/7MjaIOqmlq83z04h7kdhdq"
@@ -2495,7 +2553,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 210240,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/7brPjLpvlaYLnPGCA9U6y7"
@@ -2655,6 +2713,24 @@
       "duration_ms": 340011,
       "name": "I Count Three",
       "url": "https://open.spotify.com/track/5U9MJFoTMxxkUNeC7DGI4f"
+    },
+    {
+      "album": {
+        "name": "I Don't Deserve to Be Loved",
+        "url": "https://open.spotify.com/album/7xUxFxbvpseFMhAQGSwmjE"
+      },
+      "artists": [
+        {
+          "name": "Baek Grim",
+          "url": "https://open.spotify.com/artist/6mVsxcJyevC8Aqe722CfFB"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225546,
+      "name": "I Don't Deserve to Be Loved",
+      "url": "https://open.spotify.com/track/2eI8WM0a0KLjQnWiyPMIic"
     },
     {
       "album": {
@@ -2853,7 +2929,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 227866,
       "name": "I still love you a lot",
       "url": "https://open.spotify.com/track/2zCORPZHF7g9SPjZfrGVuy"
@@ -2907,7 +2983,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 219146,
       "name": "I will",
       "url": "https://open.spotify.com/track/1cwCsOMKxYrVmvTFT4Q7mY"
@@ -2929,6 +3005,24 @@
       "duration_ms": 186760,
       "name": "I Wouldn\u2019t Look For You",
       "url": "https://open.spotify.com/track/3u9m38kStxTQ6PSrqgwcYM"
+    },
+    {
+      "album": {
+        "name": "\uc65c \uc624\uc218\uc7ac\uc778\uac00 (Original Television Soundtrack) Pt.4",
+        "url": "https://open.spotify.com/album/7lbmHYq1NJ8zFqmAYCDw9R"
+      },
+      "artists": [
+        {
+          "name": "K.Will",
+          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249858,
+      "name": "I'll be your side",
+      "url": "https://open.spotify.com/track/4C78LrFzGnKJcHgAmtg4SB"
     },
     {
       "album": {
@@ -2965,6 +3059,24 @@
       "duration_ms": 231120,
       "name": "I'll talk to you (The Moon during the Day X Gummy)",
       "url": "https://open.spotify.com/track/6GRzT5bP6NB4eXjxziDzA1"
+    },
+    {
+      "album": {
+        "name": "MONO",
+        "url": "https://open.spotify.com/album/6rZ3FuJABmnr9GVCFjPP6Y"
+      },
+      "artists": [
+        {
+          "name": "Bily Acoustie",
+          "url": "https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250045,
+      "name": "I'll Try",
+      "url": "https://open.spotify.com/track/6sK0ZT95mPOuPSKo5QOikz"
     },
     {
       "album": {
@@ -3069,7 +3181,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 274386,
       "name": "If We Ever Meet Again",
       "url": "https://open.spotify.com/track/0lr8HEEQBvIpDE9xGchTgW"
@@ -3235,7 +3347,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 183440,
       "name": "Introduce me a good person",
       "url": "https://open.spotify.com/track/2CHk9VD0glOknemRMFEQfH"
@@ -4137,7 +4249,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 193930,
       "name": "My Love",
       "url": "https://open.spotify.com/track/1RMUSljuiZKUNaf6xskK9n"
@@ -4173,7 +4285,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 220929,
       "name": "MY LOVE",
       "url": "https://open.spotify.com/track/4PvVKyqJ6pLVi5HKpAjTPc"
@@ -4217,6 +4329,28 @@
       "duration_ms": 276893,
       "name": "My Love Beside Me",
       "url": "https://open.spotify.com/track/7z1hfrESA5eySMpRguwLem"
+    },
+    {
+      "album": {
+        "name": "My Night, Your Night",
+        "url": "https://open.spotify.com/album/1pYR0XFLO0qDoycQgYfQp1"
+      },
+      "artists": [
+        {
+          "name": "Norwegian Wood",
+          "url": "https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3"
+        },
+        {
+          "name": "Baek Sun",
+          "url": "https://open.spotify.com/artist/7F0wW5ktsSkSSC23oeEaK9"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218076,
+      "name": "My Night, Your Night (Feat. Baek Sun)",
+      "url": "https://open.spotify.com/track/4bmWgD4GnQO2RtGUSbXm50"
     },
     {
       "album": {
@@ -4400,6 +4534,24 @@
     },
     {
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/4vMdxNFcddeFZSK3IqtzaD"
+      },
+      "artists": [
+        {
+          "name": "The Orchard",
+          "url": "https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279523,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/6B1rtnTMiYoQKtkSKMtXAK"
+    },
+    {
+      "album": {
         "name": "Not Anyone Else",
         "url": "https://open.spotify.com/album/60GKYHN9SHL0IdxZhU5uBR"
       },
@@ -4516,6 +4668,28 @@
     },
     {
       "album": {
+        "name": "OceanooM Duet\u2218\u263d",
+        "url": "https://open.spotify.com/album/4IQct8SSePLkfcJpSsKAMd"
+      },
+      "artists": [
+        {
+          "name": "MAKTUB",
+          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
+        },
+        {
+          "name": "Jung Young Eun",
+          "url": "https://open.spotify.com/artist/26GxfwRT2NHxeq2qrdAVbf"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207493,
+      "name": "OceanooM Duet\u2218\u263d (feat. Jung YoungEun)",
+      "url": "https://open.spotify.com/track/4iDcQyypdqnsx9lFwJaNWU"
+    },
+    {
+      "album": {
         "name": "On A Starry Night (REVIBE Vol.3)",
         "url": "https://open.spotify.com/album/3J2AhRHfqSOMwp6YYloJxC"
       },
@@ -4603,7 +4777,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 244505,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/0EjyI90qLsPr9CXO1kyjJQ"
@@ -4881,6 +5055,24 @@
       "duration_ms": 223826,
       "name": "Rains again",
       "url": "https://open.spotify.com/track/7abCl5t9kc6yrukx4dYOYS"
+    },
+    {
+      "album": {
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196576,
+      "name": "Real LOVE",
+      "url": "https://open.spotify.com/track/0O2ZW0yhiRQ3HKNCzGDzMj"
     },
     {
       "album": {
@@ -5177,7 +5369,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 220413,
       "name": "sleepless nights (My Sweden Laundry #1)",
       "url": "https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC"
@@ -5361,7 +5553,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 273680,
       "name": "Space",
       "url": "https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P"
@@ -5491,7 +5683,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 226480,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4"
@@ -5679,7 +5871,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 265048,
       "name": "That's all",
       "url": "https://open.spotify.com/track/2GA13uuobpA88h5zPXm0E3"
@@ -5791,7 +5983,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 229914,
       "name": "The fact that we broke up (Feat. Lee Yu Bin)",
       "url": "https://open.spotify.com/track/4PIJlapmFh8ZXCpKPvdLlU"
@@ -6037,7 +6229,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 253293,
       "name": "Through the Night",
       "url": "https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd"
@@ -6754,6 +6946,24 @@
     },
     {
       "album": {
+        "name": "\u5c0f\u6691",
+        "url": "https://open.spotify.com/album/3rpmARrx5Z5yeQBxdfgfOd"
+      },
+      "artists": [
+        {
+          "name": "Soseo",
+          "url": "https://open.spotify.com/artist/2WyFDTobi8Be5brYQS5aSf"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "You're Already The Best For Me",
+      "url": "https://open.spotify.com/track/4o02wolAG3eS75e9rljBLv"
+    },
+    {
+      "album": {
         "name": "You're Free",
         "url": "https://open.spotify.com/album/26TddKetWo996P7sqj0u5Y"
       },
@@ -6845,6 +7055,24 @@
       "duration_ms": 282806,
       "name": "\uad11\ud654\ubb38\uc5d0\uc11c (At Gwanghwamun)",
       "url": "https://open.spotify.com/track/3fLufMRaQboaen5AGMdCLT"
+    },
+    {
+      "album": {
+        "name": "\ub0b4\uc77c (KSTAGE X \ud0dc\uc601 Of \ube14\ub799\ub808\ubca8)",
+        "url": "https://open.spotify.com/album/3zQL3yGOVumV2HIe7p1LcY"
+      },
+      "artists": [
+        {
+          "name": "\ud0dc\uc601",
+          "url": "https://open.spotify.com/artist/0vR4R0hsXLRQ2q52ajAxfv"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240609,
+      "name": "\ub0b4\uc77c",
+      "url": "https://open.spotify.com/track/3FgbRg2dB0ASZhozZLeMOj"
     },
     {
       "album": {

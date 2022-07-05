@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 203650,
       "name": "Atrapado en Tus Redes",
       "url": "https://open.spotify.com/track/2ztRpiApkVtZrYHZKDgaLH"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 198848,
       "name": "Bonita, bonita",
       "url": "https://open.spotify.com/track/2GTwGhVC3g5ySwKKLcEqbj"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 179213,
       "name": "Corazon Mentiroso",
       "url": "https://open.spotify.com/track/12vjZJEWFst8vhW4k9saOv"
@@ -719,7 +719,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 311456,
       "name": "Enganchado Homenaje a Leo Mattioli - Cada vez te quiero m\u00e1s - Te llevo dentro de mi - Despu\u00e9s de ti - Te tengo que olvidar",
       "url": "https://open.spotify.com/track/4TLBCFkqq1OPNd3USWzL9y"
@@ -773,7 +773,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 259362,
       "name": "Enganchados del Recuerdo: La Negra Soledad / Sin Alma y Sin Coraz\u00f3n / La Diosa del Baile \"Batunguera\"",
       "url": "https://open.spotify.com/track/0Ochm4tvUjGFJInFHpLzIQ"
@@ -809,7 +809,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 218830,
       "name": "Entre el Odio y el Amor",
       "url": "https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX"
@@ -917,7 +917,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 202946,
       "name": "Fuera",
       "url": "https://open.spotify.com/track/3CPvvcF0IbQwOp75rOvlIs"
@@ -971,7 +971,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 137786,
       "name": "Hasta el Sol de Hoy (En Vivo)",
       "url": "https://open.spotify.com/track/6BbXZba7DJhKqgk6F1Dswy"
@@ -1115,7 +1115,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 234154,
       "name": "La Bailadora / Noche Triste / El Aroma de Tu Piel",
       "url": "https://open.spotify.com/track/1v4XHDM37aaoOl0IzvXWZw"
@@ -1207,7 +1207,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 190826,
       "name": "Le\u00f1a Seca",
       "url": "https://open.spotify.com/track/5BeRAL4Ie2RqXVMtmeefAT"
@@ -1269,7 +1269,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 222723,
       "name": "Loco",
       "url": "https://open.spotify.com/track/10hOkCrRZSRgNfLx8Sq6mq"
@@ -1287,7 +1287,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 177345,
       "name": "Los Amigos Que Yo Tengo",
       "url": "https://open.spotify.com/track/09bn42Fj5RN9J9Z63f1S7A"
@@ -1309,6 +1309,24 @@
       "duration_ms": 189911,
       "name": "Mal Amor",
       "url": "https://open.spotify.com/track/0S7HkobUN0HrvaHZaQsmE5"
+    },
+    {
+      "album": {
+        "name": "Para Morir de Amor",
+        "url": "https://open.spotify.com/album/4EQ1W80B2zpKLvsVbKYSgd"
+      },
+      "artists": [
+        {
+          "name": "Freddy y los Solares",
+          "url": "https://open.spotify.com/artist/4VV2QFCzOG5Nxisme12B0b"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183946,
+      "name": "Maravillosa Esta Noche",
+      "url": "https://open.spotify.com/track/3mqvuGlzUk0YRiKzWHEQXu"
     },
     {
       "album": {
@@ -1345,7 +1363,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 255465,
       "name": "Me Dediqu\u00e9 a Perderte - En Vivo",
       "url": "https://open.spotify.com/track/2m4nocjuXlAjrfuSqXEo46"
@@ -1439,7 +1457,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 228565,
       "name": "No Fue Culpa Mia",
       "url": "https://open.spotify.com/track/3Ctr9XqYTTSYqTowQ3t1D2"
@@ -1537,7 +1555,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 263836,
       "name": "No Puedo Olvidarla",
       "url": "https://open.spotify.com/track/0UMJUEcsyYcFWOH6ojKnM9"
@@ -1631,7 +1649,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 227960,
       "name": "Paloma",
       "url": "https://open.spotify.com/track/25JRvUTvdnLwxdog75mJSY"
@@ -1779,7 +1797,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 253800,
       "name": "Que Precio Tiene El Cielo",
       "url": "https://open.spotify.com/track/4p7WDW0Mh0GmDSmqF8e4wi"
@@ -1815,7 +1833,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 219093,
       "name": "Quitame Ese Hombre",
       "url": "https://open.spotify.com/track/6laZGHZ4p75Vb1DAJ1DE9D"
@@ -1869,7 +1887,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 240869,
       "name": "Recordando \u00e9xitos - Enganchados",
       "url": "https://open.spotify.com/track/1OzoJ7Pz6qnivCFCrmpAq6"
@@ -1909,6 +1927,24 @@
       "duration_ms": 245864,
       "name": "Se Enamor\u00f3 de Mi la Soledad",
       "url": "https://open.spotify.com/track/1MExvjfH2rZQGsORsR3Pcy"
+    },
+    {
+      "album": {
+        "name": "Se Enamor\u00f3 de M\u00ed la Soledad",
+        "url": "https://open.spotify.com/album/7y7Dw5kdlTFjBvnSkwHvTy"
+      },
+      "artists": [
+        {
+          "name": "Mario Luis",
+          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174992,
+      "name": "Se Enamor\u00f3 de M\u00ed la Soledad",
+      "url": "https://open.spotify.com/track/589S5fN5qBfJ6DL1R4YZCL"
     },
     {
       "album": {
@@ -2345,7 +2381,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 163226,
       "name": "Tuyo Siempre Tuyo",
       "url": "https://open.spotify.com/track/6XDbqQ8Agqi3ny4te6xgBz"
@@ -2417,7 +2453,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 215186,
       "name": "Vete",
       "url": "https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr"
@@ -2489,7 +2525,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 212626,
       "name": "Y t\u00fa te vas",
       "url": "https://open.spotify.com/track/6X4fk1YMYQNIwDaVnVD3Ut"

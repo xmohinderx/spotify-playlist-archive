@@ -1,13 +1,29 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 42093,
+  "num_followers": 42170,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Njg5NzI1MSwwMDAwMDAwMDc4MjhjMGY3NWZmZTExMGI4NjI0Y2FhZGM5YzQ1Yzg4",
+  "snapshot_id": "MTY1Njk4MzMyOCwwMDAwMDAwMDNmMGE0NTI4YmU5MmQ3NjA5NmQ5YjY2MGMxOGY0NWY1",
   "tracks": [
+    {
+      "added_at": "2022-05-19 19:25:29",
+      "album": {
+        "name": "Second Winter",
+        "url": "https://open.spotify.com/album/0OBEzklToS8HeuRBnhVL4J"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "duration_ms": 307253,
+      "name": "Highway 61 Revisited",
+      "url": "https://open.spotify.com/track/3VwLsRwunJcp66qo9DrUDm"
+    },
     {
       "added_at": "2022-05-19 19:25:29",
       "album": {
@@ -27,40 +43,24 @@
     {
       "added_at": "2022-05-19 19:25:29",
       "album": {
-        "name": "Physical Graffiti (1994 Remaster)",
-        "url": "https://open.spotify.com/album/1lZahjeu4AhPkg9JARZr5F"
+        "name": "South Of I-10",
+        "url": "https://open.spotify.com/album/3bmO15uks5XJehH4HVfjRO"
       },
       "artists": [
         {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+          "name": "Sonny Landreth",
+          "url": "https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz"
         }
       ],
-      "duration_ms": 665600,
-      "name": "In My Time of Dying - 1990 Remaster",
-      "url": "https://open.spotify.com/track/5g9VOUgrn7ozYE3ZQm8w41"
+      "duration_ms": 380266,
+      "name": "Congo Square",
+      "url": "https://open.spotify.com/track/5MknKDH6Zh81k93y7YU6w6"
     },
     {
       "added_at": "2022-05-19 19:25:29",
       "album": {
-        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
-        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "Dust My Broom",
-      "url": "https://open.spotify.com/track/0fM0mFxHP1R4KPX1PB8tWU"
-    },
-    {
-      "added_at": "2022-05-19 19:25:29",
-      "album": {
-        "name": "Hittin' the Note",
-        "url": "https://open.spotify.com/album/2rZfqnJBkKxjOK1RsZfPpL"
+        "name": "The 1971 Fillmore East Recordings",
+        "url": "https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
         }
       ],
-      "duration_ms": 372560,
-      "name": "Old Friend",
-      "url": "https://open.spotify.com/track/5TX4HB4ndwJCxoD3FWEIQx"
+      "duration_ms": 284480,
+      "name": "Statesboro Blues",
+      "url": "https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm"
     },
     {
       "added_at": "2022-05-19 19:25:29",
@@ -107,6 +107,22 @@
     {
       "added_at": "2022-05-19 19:25:29",
       "album": {
+        "name": "Physical Graffiti (1994 Remaster)",
+        "url": "https://open.spotify.com/album/1lZahjeu4AhPkg9JARZr5F"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 665600,
+      "name": "In My Time of Dying - 1990 Remaster",
+      "url": "https://open.spotify.com/track/5g9VOUgrn7ozYE3ZQm8w41"
+    },
+    {
+      "added_at": "2022-05-19 19:25:29",
+      "album": {
         "name": "Give It Up (2008 Remaster)",
         "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
       },
@@ -119,26 +135,6 @@
       "duration_ms": 269600,
       "name": "Give It Up or Let Me Go - 2008 Remaster",
       "url": "https://open.spotify.com/track/4GyoNlQeLSHFZX2txg7cOr"
-    },
-    {
-      "added_at": "2022-05-19 19:25:29",
-      "album": {
-        "name": "An Anthology",
-        "url": "https://open.spotify.com/album/1JrO2Vp9I2ExzAFvMcZKzb"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "Duane Allman",
-          "url": "https://open.spotify.com/artist/3keUIwmPM4awpPxiy9ZQ1m"
-        }
-      ],
-      "duration_ms": 232507,
-      "name": "Mean Old World",
-      "url": "https://open.spotify.com/track/4w1nfPlGNqp4vDxDZRTmAi"
     },
     {
       "added_at": "2022-05-19 19:25:29",
@@ -159,50 +155,18 @@
     {
       "added_at": "2022-05-19 19:25:29",
       "album": {
-        "name": "South Of I-10",
-        "url": "https://open.spotify.com/album/3bmO15uks5XJehH4HVfjRO"
+        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
+        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
       },
       "artists": [
         {
-          "name": "Sonny Landreth",
-          "url": "https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz"
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
         }
       ],
-      "duration_ms": 380266,
-      "name": "Congo Square",
-      "url": "https://open.spotify.com/track/5MknKDH6Zh81k93y7YU6w6"
-    },
-    {
-      "added_at": "2022-05-19 19:25:29",
-      "album": {
-        "name": "Second Winter",
-        "url": "https://open.spotify.com/album/0OBEzklToS8HeuRBnhVL4J"
-      },
-      "artists": [
-        {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
-        }
-      ],
-      "duration_ms": 307253,
-      "name": "Highway 61 Revisited",
-      "url": "https://open.spotify.com/track/3VwLsRwunJcp66qo9DrUDm"
-    },
-    {
-      "added_at": "2022-05-19 19:25:29",
-      "album": {
-        "name": "De Stijl",
-        "url": "https://open.spotify.com/album/0vkb15L7oNuvVcznJRE7xc"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 269906,
-      "name": "Death Letter",
-      "url": "https://open.spotify.com/track/7xMVMDMXoDUZfDP1zvDCMk"
+      "duration_ms": 175040,
+      "name": "Dust My Broom",
+      "url": "https://open.spotify.com/track/0fM0mFxHP1R4KPX1PB8tWU"
     },
     {
       "added_at": "2022-05-19 19:25:29",
@@ -219,86 +183,6 @@
       "duration_ms": 275066,
       "name": "Walkin' Blues",
       "url": "https://open.spotify.com/track/1MI3E3tZOgz4Oe47twVtTd"
-    },
-    {
-      "added_at": "2022-05-19 19:25:29",
-      "album": {
-        "name": "Songlines",
-        "url": "https://open.spotify.com/album/0bAKGnvpKWdI3lH7Q3RCJJ"
-      },
-      "artists": [
-        {
-          "name": "The Derek Trucks Band",
-          "url": "https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn"
-        }
-      ],
-      "duration_ms": 594933,
-      "name": "Sahib Teri Bandi - Maki Madni",
-      "url": "https://open.spotify.com/track/0pxgXjiNwxX7nO96ywdGZe"
-    },
-    {
-      "added_at": "2022-05-19 19:25:29",
-      "album": {
-        "name": "Fight For Your Mind",
-        "url": "https://open.spotify.com/album/3qw2TRebw37Mdb3aP78kM4"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 293960,
-      "name": "Ground On Down",
-      "url": "https://open.spotify.com/track/6THh5CL5PYf7OqOq9pTqNb"
-    },
-    {
-      "added_at": "2022-05-19 19:25:29",
-      "album": {
-        "name": "Deuce (Remastered 2011)",
-        "url": "https://open.spotify.com/album/2vg4k5WyjnfbxcyyOlrIOK"
-      },
-      "artists": [
-        {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
-        }
-      ],
-      "duration_ms": 345093,
-      "name": "In Your Town",
-      "url": "https://open.spotify.com/track/0hpEjUitGCNeB1eCm4qVLC"
-    },
-    {
-      "added_at": "2022-05-19 19:25:29",
-      "album": {
-        "name": "Too Bad Jim",
-        "url": "https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp"
-      },
-      "artists": [
-        {
-          "name": "R.L. Burnside",
-          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
-        }
-      ],
-      "duration_ms": 289666,
-      "name": "Shake 'Em on Down",
-      "url": "https://open.spotify.com/track/5hIQCctZj7Y1wuIo5UkU90"
-    },
-    {
-      "added_at": "2022-05-19 19:25:29",
-      "album": {
-        "name": "The 1971 Fillmore East Recordings",
-        "url": "https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 284480,
-      "name": "Statesboro Blues",
-      "url": "https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm"
     },
     {
       "added_at": "2022-05-19 19:25:29",
@@ -323,6 +207,74 @@
     {
       "added_at": "2022-05-19 19:25:29",
       "album": {
+        "name": "De Stijl",
+        "url": "https://open.spotify.com/album/0vkb15L7oNuvVcznJRE7xc"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 269906,
+      "name": "Death Letter",
+      "url": "https://open.spotify.com/track/7xMVMDMXoDUZfDP1zvDCMk"
+    },
+    {
+      "added_at": "2022-05-19 19:25:29",
+      "album": {
+        "name": "Songlines",
+        "url": "https://open.spotify.com/album/0bAKGnvpKWdI3lH7Q3RCJJ"
+      },
+      "artists": [
+        {
+          "name": "The Derek Trucks Band",
+          "url": "https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn"
+        }
+      ],
+      "duration_ms": 594933,
+      "name": "Sahib Teri Bandi - Maki Madni",
+      "url": "https://open.spotify.com/track/0pxgXjiNwxX7nO96ywdGZe"
+    },
+    {
+      "added_at": "2022-05-19 19:25:29",
+      "album": {
+        "name": "Deuce (Remastered 2011)",
+        "url": "https://open.spotify.com/album/2vg4k5WyjnfbxcyyOlrIOK"
+      },
+      "artists": [
+        {
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+        }
+      ],
+      "duration_ms": 345093,
+      "name": "In Your Town",
+      "url": "https://open.spotify.com/track/0hpEjUitGCNeB1eCm4qVLC"
+    },
+    {
+      "added_at": "2022-05-19 19:25:29",
+      "album": {
+        "name": "An Anthology",
+        "url": "https://open.spotify.com/album/1JrO2Vp9I2ExzAFvMcZKzb"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Duane Allman",
+          "url": "https://open.spotify.com/artist/3keUIwmPM4awpPxiy9ZQ1m"
+        }
+      ],
+      "duration_ms": 232507,
+      "name": "Mean Old World",
+      "url": "https://open.spotify.com/track/4w1nfPlGNqp4vDxDZRTmAi"
+    },
+    {
+      "added_at": "2022-05-19 19:25:29",
+      "album": {
         "name": "TajMo",
         "url": "https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX"
       },
@@ -343,6 +295,22 @@
     {
       "added_at": "2022-05-19 19:25:29",
       "album": {
+        "name": "Hittin' the Note",
+        "url": "https://open.spotify.com/album/2rZfqnJBkKxjOK1RsZfPpL"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 372560,
+      "name": "Old Friend",
+      "url": "https://open.spotify.com/track/5TX4HB4ndwJCxoD3FWEIQx"
+    },
+    {
+      "added_at": "2022-05-19 19:25:29",
+      "album": {
         "name": "The Healer",
         "url": "https://open.spotify.com/album/2jKj2prskANfjyo13navEs"
       },
@@ -359,22 +327,6 @@
       "duration_ms": 271133,
       "name": "I'm In The Mood",
       "url": "https://open.spotify.com/track/1W3QQa9SG6zaftNQJchWY7"
-    },
-    {
-      "added_at": "2022-05-19 19:25:29",
-      "album": {
-        "name": "Got Soul",
-        "url": "https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB"
-      },
-      "artists": [
-        {
-          "name": "Robert Randolph & The Family Band",
-          "url": "https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "Find a Way",
-      "url": "https://open.spotify.com/track/4PTfrK6IhnTOd7SRpH17EK"
     },
     {
       "added_at": "2022-05-19 19:25:29",
@@ -411,6 +363,22 @@
     {
       "added_at": "2022-05-19 19:25:29",
       "album": {
+        "name": "Keb' Mo'",
+        "url": "https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 138533,
+      "name": "Am I Wrong",
+      "url": "https://open.spotify.com/track/3tvyQCSm1QcWURgGvygvke"
+    },
+    {
+      "added_at": "2022-05-19 19:25:29",
+      "album": {
         "name": "Fresh Evidence (Remastered 2017)",
         "url": "https://open.spotify.com/album/3nKprInHCjgZsU6GQPeEst"
       },
@@ -427,18 +395,66 @@
     {
       "added_at": "2022-05-19 19:25:29",
       "album": {
-        "name": "Hubcap Music",
-        "url": "https://open.spotify.com/album/2M9xzSsGMgTr2kVjlkbpBT"
+        "name": "Fight For Your Mind",
+        "url": "https://open.spotify.com/album/3qw2TRebw37Mdb3aP78kM4"
       },
       "artists": [
         {
-          "name": "Seasick Steve",
-          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
         }
       ],
-      "duration_ms": 230960,
-      "name": "Down On The Farm",
-      "url": "https://open.spotify.com/track/0dDjBeUnkgwFJIym4rhhR2"
+      "duration_ms": 293960,
+      "name": "Ground On Down",
+      "url": "https://open.spotify.com/track/6THh5CL5PYf7OqOq9pTqNb"
+    },
+    {
+      "added_at": "2022-05-19 19:25:29",
+      "album": {
+        "name": "Too Bad Jim",
+        "url": "https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp"
+      },
+      "artists": [
+        {
+          "name": "R.L. Burnside",
+          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
+        }
+      ],
+      "duration_ms": 289666,
+      "name": "Shake 'Em on Down",
+      "url": "https://open.spotify.com/track/5hIQCctZj7Y1wuIo5UkU90"
+    },
+    {
+      "added_at": "2022-05-19 19:25:29",
+      "album": {
+        "name": "At The Crossroads: The Blues Of Robert Johnson",
+        "url": "https://open.spotify.com/album/1KJCyy7UtWABdtntyoNhYc"
+      },
+      "artists": [
+        {
+          "name": "John Hammond",
+          "url": "https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR"
+        }
+      ],
+      "duration_ms": 268133,
+      "name": "Sweet Home Chicago",
+      "url": "https://open.spotify.com/track/3Ck0eraxaMeJTkCjh6ZqNu"
+    },
+    {
+      "added_at": "2022-05-19 19:25:29",
+      "album": {
+        "name": "Dig In Deep",
+        "url": "https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 249093,
+      "name": "Gypsy In Me",
+      "url": "https://open.spotify.com/track/4w539nhl7KGUajmyrX5GNq"
     },
     {
       "added_at": "2022-05-19 19:25:29",
@@ -455,6 +471,22 @@
       "duration_ms": 262000,
       "name": "Walkin' Blues",
       "url": "https://open.spotify.com/track/4bh9exCCfV8IUr9qK28ZVC"
+    },
+    {
+      "added_at": "2022-05-19 19:25:29",
+      "album": {
+        "name": "Tempting Fate",
+        "url": "https://open.spotify.com/album/5SOM73TJ4GOm9mFzmhaKUv"
+      },
+      "artists": [
+        {
+          "name": "Carolyn Wonderland",
+          "url": "https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n"
+        }
+      ],
+      "duration_ms": 239106,
+      "name": "Fragile Peace And Certain War",
+      "url": "https://open.spotify.com/track/3h3v9Nf0vU8bNr2FGtpYQM"
     },
     {
       "added_at": "2022-05-19 19:25:29",
@@ -511,66 +543,18 @@
     {
       "added_at": "2022-05-19 19:25:29",
       "album": {
-        "name": "Shake Your Moneymaker: The Best of the Fire Sessions",
-        "url": "https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj"
+        "name": "Got Soul",
+        "url": "https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB"
       },
       "artists": [
         {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+          "name": "Robert Randolph & The Family Band",
+          "url": "https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR"
         }
       ],
-      "duration_ms": 166400,
-      "name": "The Sky Is Crying",
-      "url": "https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel"
-    },
-    {
-      "added_at": "2022-05-19 19:25:29",
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/51kF3pqbherdGJhcwKdmjC"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 246240,
-      "name": "Statesboro Blues",
-      "url": "https://open.spotify.com/track/1pyyaheYNV54SIVv6z5wxU"
-    },
-    {
-      "added_at": "2022-05-19 19:25:29",
-      "album": {
-        "name": "Dig In Deep",
-        "url": "https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 249093,
-      "name": "Gypsy In Me",
-      "url": "https://open.spotify.com/track/4w539nhl7KGUajmyrX5GNq"
-    },
-    {
-      "added_at": "2022-05-19 19:25:29",
-      "album": {
-        "name": "Keb' Mo'",
-        "url": "https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 138533,
-      "name": "Am I Wrong",
-      "url": "https://open.spotify.com/track/3tvyQCSm1QcWURgGvygvke"
+      "duration_ms": 236786,
+      "name": "Find a Way",
+      "url": "https://open.spotify.com/track/4PTfrK6IhnTOd7SRpH17EK"
     },
     {
       "added_at": "2022-05-19 19:25:29",
@@ -591,34 +575,50 @@
     {
       "added_at": "2022-05-19 19:25:29",
       "album": {
-        "name": "Nothin' But Blood (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/6IJNUyigUfK3n8nPMavgaL"
+        "name": "Unplugged (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg"
       },
       "artists": [
         {
-          "name": "Scott H. Biram",
-          "url": "https://open.spotify.com/artist/6wpI4AEN6UO7ksNN23RGEf"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 252640,
-      "name": "Jack Of Diamonds",
-      "url": "https://open.spotify.com/track/2lRhXplPuIHZ067e2WIllb"
+      "duration_ms": 390893,
+      "name": "Running On Faith - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
+      "url": "https://open.spotify.com/track/64fZ1gcn7rEzbdibOP1inl"
     },
     {
       "added_at": "2022-05-19 19:25:29",
       "album": {
-        "name": "3rd Degree",
-        "url": "https://open.spotify.com/album/6dVzmBcjw1033jfE8erIH4"
+        "name": "Hubcap Music",
+        "url": "https://open.spotify.com/album/2M9xzSsGMgTr2kVjlkbpBT"
       },
       "artists": [
         {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+          "name": "Seasick Steve",
+          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
         }
       ],
-      "duration_ms": 274226,
-      "name": "Bad Girl Blues",
-      "url": "https://open.spotify.com/track/6ggPB95qGDTzT6orcg2d8r"
+      "duration_ms": 230960,
+      "name": "Down On The Farm",
+      "url": "https://open.spotify.com/track/0dDjBeUnkgwFJIym4rhhR2"
+    },
+    {
+      "added_at": "2022-05-19 19:25:29",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/51kF3pqbherdGJhcwKdmjC"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 246240,
+      "name": "Statesboro Blues",
+      "url": "https://open.spotify.com/track/1pyyaheYNV54SIVv6z5wxU"
     },
     {
       "added_at": "2022-05-19 19:25:29",
@@ -639,114 +639,34 @@
     {
       "added_at": "2022-05-19 19:25:29",
       "album": {
-        "name": "Tempting Fate",
-        "url": "https://open.spotify.com/album/5SOM73TJ4GOm9mFzmhaKUv"
+        "name": "Nothin' But Blood (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/6IJNUyigUfK3n8nPMavgaL"
       },
       "artists": [
         {
-          "name": "Carolyn Wonderland",
-          "url": "https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n"
+          "name": "Scott H. Biram",
+          "url": "https://open.spotify.com/artist/6wpI4AEN6UO7ksNN23RGEf"
         }
       ],
-      "duration_ms": 239106,
-      "name": "Fragile Peace And Certain War",
-      "url": "https://open.spotify.com/track/3h3v9Nf0vU8bNr2FGtpYQM"
+      "duration_ms": 252640,
+      "name": "Jack Of Diamonds",
+      "url": "https://open.spotify.com/track/2lRhXplPuIHZ067e2WIllb"
     },
     {
       "added_at": "2022-05-19 19:25:29",
       "album": {
-        "name": "The Joker",
-        "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
       },
       "artists": [
         {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
         }
       ],
-      "duration_ms": 264503,
-      "name": "The Joker",
-      "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
-    },
-    {
-      "added_at": "2022-05-19 19:25:29",
-      "album": {
-        "name": "Unplugged (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 390893,
-      "name": "Running On Faith - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
-      "url": "https://open.spotify.com/track/64fZ1gcn7rEzbdibOP1inl"
-    },
-    {
-      "added_at": "2022-05-19 19:25:29",
-      "album": {
-        "name": "Atlanta Twelve String",
-        "url": "https://open.spotify.com/album/3T9YA3PGLGDlybxgdnNzZ7"
-      },
-      "artists": [
-        {
-          "name": "Blind Willie McTell",
-          "url": "https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6"
-        }
-      ],
-      "duration_ms": 240360,
-      "name": "I Got the Cross the River Jordan",
-      "url": "https://open.spotify.com/track/4vqDFur1cyE8lS1oD3XiCB"
-    },
-    {
-      "added_at": "2022-05-19 19:25:29",
-      "album": {
-        "name": "At The Crossroads: The Blues Of Robert Johnson",
-        "url": "https://open.spotify.com/album/1KJCyy7UtWABdtntyoNhYc"
-      },
-      "artists": [
-        {
-          "name": "John Hammond",
-          "url": "https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR"
-        }
-      ],
-      "duration_ms": 268133,
-      "name": "Sweet Home Chicago",
-      "url": "https://open.spotify.com/track/3Ck0eraxaMeJTkCjh6ZqNu"
-    },
-    {
-      "added_at": "2022-05-19 19:25:29",
-      "album": {
-        "name": "BAD TO THE BONE",
-        "url": "https://open.spotify.com/album/2YeoeDa3soxjD4ANZGG1fj"
-      },
-      "artists": [
-        {
-          "name": "George Thorogood & The Destroyers",
-          "url": "https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK"
-        }
-      ],
-      "duration_ms": 292173,
-      "name": "Bad To The Bone",
-      "url": "https://open.spotify.com/track/6s0NHplywwr1IjnQpUpWJk"
-    },
-    {
-      "added_at": "2022-05-19 19:25:29",
-      "album": {
-        "name": "Steakbone Slide Guitar",
-        "url": "https://open.spotify.com/album/6cqymm4TdtnSeABGub57Gn"
-      },
-      "artists": [
-        {
-          "name": "Mississippi Fred McDowell",
-          "url": "https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ"
-        }
-      ],
-      "duration_ms": 179160,
-      "name": "You Got to Move",
-      "url": "https://open.spotify.com/track/4yNZFnV0r7OIuUSep8hFLB"
+      "duration_ms": 135106,
+      "name": "Talk To Me Baby",
+      "url": "https://open.spotify.com/track/0LwiAubJcHVbdDix3f6foC"
     },
     {
       "added_at": "2022-05-19 19:25:29",
@@ -783,8 +703,40 @@
     {
       "added_at": "2022-05-19 19:25:29",
       "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+        "name": "The Joker",
+        "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "duration_ms": 264503,
+      "name": "The Joker",
+      "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
+    },
+    {
+      "added_at": "2022-05-19 19:25:29",
+      "album": {
+        "name": "Atlanta Twelve String",
+        "url": "https://open.spotify.com/album/3T9YA3PGLGDlybxgdnNzZ7"
+      },
+      "artists": [
+        {
+          "name": "Blind Willie McTell",
+          "url": "https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6"
+        }
+      ],
+      "duration_ms": 240360,
+      "name": "I Got the Cross the River Jordan",
+      "url": "https://open.spotify.com/track/4vqDFur1cyE8lS1oD3XiCB"
+    },
+    {
+      "added_at": "2022-05-19 19:25:29",
+      "album": {
+        "name": "Shake Your Moneymaker: The Best of the Fire Sessions",
+        "url": "https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj"
       },
       "artists": [
         {
@@ -792,9 +744,57 @@
           "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
         }
       ],
-      "duration_ms": 135106,
-      "name": "Talk To Me Baby",
-      "url": "https://open.spotify.com/track/0LwiAubJcHVbdDix3f6foC"
+      "duration_ms": 166400,
+      "name": "The Sky Is Crying",
+      "url": "https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel"
+    },
+    {
+      "added_at": "2022-05-19 19:25:29",
+      "album": {
+        "name": "3rd Degree",
+        "url": "https://open.spotify.com/album/6dVzmBcjw1033jfE8erIH4"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "duration_ms": 274226,
+      "name": "Bad Girl Blues",
+      "url": "https://open.spotify.com/track/6ggPB95qGDTzT6orcg2d8r"
+    },
+    {
+      "added_at": "2022-05-19 19:25:29",
+      "album": {
+        "name": "BAD TO THE BONE",
+        "url": "https://open.spotify.com/album/2YeoeDa3soxjD4ANZGG1fj"
+      },
+      "artists": [
+        {
+          "name": "George Thorogood & The Destroyers",
+          "url": "https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK"
+        }
+      ],
+      "duration_ms": 292173,
+      "name": "Bad To The Bone",
+      "url": "https://open.spotify.com/track/6s0NHplywwr1IjnQpUpWJk"
+    },
+    {
+      "added_at": "2022-05-19 19:25:29",
+      "album": {
+        "name": "4 Cars",
+        "url": "https://open.spotify.com/album/02jDWz1Dyidvl6zV05SOJn"
+      },
+      "artists": [
+        {
+          "name": "Colin Linden",
+          "url": "https://open.spotify.com/artist/6bFn0wonviH3NJmY1FSNkZ"
+        }
+      ],
+      "duration_ms": 209726,
+      "name": "4 Cars",
+      "url": "https://open.spotify.com/track/6InflvdGdVB2QOJQXIPPRu"
     },
     {
       "added_at": "2022-05-19 19:25:29",
@@ -815,18 +815,18 @@
     {
       "added_at": "2022-05-19 19:25:29",
       "album": {
-        "name": "Icky Thump",
-        "url": "https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC"
+        "name": "Steakbone Slide Guitar",
+        "url": "https://open.spotify.com/album/6cqymm4TdtnSeABGub57Gn"
       },
       "artists": [
         {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+          "name": "Mississippi Fred McDowell",
+          "url": "https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ"
         }
       ],
-      "duration_ms": 258066,
-      "name": "Catch Hell Blues",
-      "url": "https://open.spotify.com/track/064unATFKRpnOwL1Yfvp39"
+      "duration_ms": 179160,
+      "name": "You Got to Move",
+      "url": "https://open.spotify.com/track/4yNZFnV0r7OIuUSep8hFLB"
     }
   ],
   "unique_name": "Slide Guitar Heroes",

@@ -4318,6 +4318,24 @@
     },
     {
       "album": {
+        "name": "Nobody Really Cares (obody really cares[blank])",
+        "url": "https://open.spotify.com/album/77MC3Wx3KB3vompH3JXToD"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174799,
+      "name": "Nobody Really Cares",
+      "url": "https://open.spotify.com/track/1rIgoyxAw5qAKyNd7vERKw"
+    },
+    {
+      "album": {
         "name": "Nocturnal",
         "url": "https://open.spotify.com/album/6kbFVipGkUglf9eerXBlN3"
       },

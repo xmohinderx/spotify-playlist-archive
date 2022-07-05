@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "tinge",
+        "url": "https://open.spotify.com/album/6PzWM3WP8bBlBlY1a90vjT"
+      },
+      "artists": [
+        {
+          "name": "saeneok",
+          "url": "https://open.spotify.com/artist/0HFyqg6Dwupd1p9SbNDEzL"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372013,
+      "name": "alarm",
+      "url": "https://open.spotify.com/track/3rLJg6e2JKJBaQL1LTBHJO"
+    },
+    {
+      "album": {
         "name": "All Night Long (She is My Type\u2661 X Car, the garden)",
         "url": "https://open.spotify.com/album/5P3m24aXWEmpq8LoYVzofm"
       },
@@ -135,7 +153,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 166968,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/21qVapRmGwg0MKS0R6SaaF"
@@ -171,7 +189,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 265074,
       "name": "Back",
       "url": "https://open.spotify.com/track/7Fh5m2ZoYoRcs8aNvDetIi"
@@ -333,7 +351,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 226720,
       "name": "CHU EOG SOG EUI GEU DAI",
       "url": "https://open.spotify.com/track/6agkU1MMsm2EUMBk4zWM3A"
@@ -423,7 +441,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 210850,
       "name": "Don't be sad",
       "url": "https://open.spotify.com/track/1f26mzPoBLP8OO67XDmwv8"
@@ -459,7 +477,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 139800,
       "name": "Empty Cup",
       "url": "https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM"
@@ -477,7 +495,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 300933,
       "name": "Everything",
       "url": "https://open.spotify.com/track/58oHUm7jyaVlcRnB9Z75ZC"
@@ -495,7 +513,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 187999,
       "name": "Excuse",
       "url": "https://open.spotify.com/track/4uzZyA3YeQAZYmDPXUcU1h"
@@ -531,7 +549,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 224386,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/4bI1kJbK5zlDcVeQMZHKqF"
@@ -549,7 +567,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 251866,
       "name": "Fine",
       "url": "https://open.spotify.com/track/4QaqH8QPjz88z79Vo8tpEc"
@@ -567,7 +585,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 264480,
       "name": "For Youth",
       "url": "https://open.spotify.com/track/4JzCFEc3O2UEdjKzevvFH5"
@@ -589,7 +607,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 164893,
       "name": "From the Rain (Feat. Ahn Ye Eun)",
       "url": "https://open.spotify.com/track/1rJjHutRgSOQ3kjiA5e8Wt"
@@ -607,7 +625,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 274426,
       "name": "Full Moon",
       "url": "https://open.spotify.com/track/0TVNwwR03yg6MvkDn12Oy3"
@@ -625,7 +643,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 207163,
       "name": "Gone",
       "url": "https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA"
@@ -795,7 +813,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 269775,
       "name": "Instant Lover",
       "url": "https://open.spotify.com/track/76NDJ0hAQ9i3r7WmF6gCJ4"
@@ -835,7 +853,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 197343,
       "name": "I\u2019m afraid",
       "url": "https://open.spotify.com/track/6gfQx6a6RN7DzCklR9Re4I"
@@ -999,7 +1017,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 291013,
       "name": "Lonesome",
       "url": "https://open.spotify.com/track/0QSVJ6VrjlEY7iw6jOEnBv"
@@ -1039,7 +1057,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 245470,
       "name": "Love Each Other",
       "url": "https://open.spotify.com/track/1MAWAwi7CQDZyZuIsjgIa2"
@@ -1057,7 +1075,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 171333,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/5XrRVO7bjxl1HUZ5Ffri4g"
@@ -1111,7 +1129,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 234066,
       "name": "Melody",
       "url": "https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk"
@@ -1137,7 +1155,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 218365,
       "name": "Memorise Of Rainy Day (feat. Venoby & Godton)",
       "url": "https://open.spotify.com/track/3EZE4Xu96Z4ooO3mpXif4Y"
@@ -1191,7 +1209,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 215000,
       "name": "My Ceiling Disappeared",
       "url": "https://open.spotify.com/track/5EcCFzo4PyxTYQsrHGL9xU"
@@ -1213,7 +1231,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 220933,
       "name": "My Day Is Full Of You",
       "url": "https://open.spotify.com/track/0E09yC5CNtv2TAQ0rafPPU"
@@ -1347,10 +1365,28 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 206146,
       "name": "One another - 2020",
       "url": "https://open.spotify.com/track/47XU3vkc7Y8Mx1qHDvh0hh"
+    },
+    {
+      "album": {
+        "name": "Orchid",
+        "url": "https://open.spotify.com/album/5bgIq10LAmMuagnq8qOmiZ"
+      },
+      "artists": [
+        {
+          "name": "LEEHEESANG",
+          "url": "https://open.spotify.com/artist/6zJiJ82GmaUZF8TwTPktsz"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245999,
+      "name": "Orchid",
+      "url": "https://open.spotify.com/track/3SHWZfmeWMQ7nummOHjtLP"
     },
     {
       "album": {
@@ -1503,10 +1539,28 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 203853,
       "name": "RAIN DROP (feat. Lee Na Eun)",
       "url": "https://open.spotify.com/track/2lCOSE6b5yYQPcMFU6QJUb"
+    },
+    {
+      "album": {
+        "name": "Rain Song",
+        "url": "https://open.spotify.com/album/2jTAGPtLTI71MyRhTITbyi"
+      },
+      "artists": [
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241440,
+      "name": "Rain Song",
+      "url": "https://open.spotify.com/track/2jGbpRUsuhFr6VelssN8Nq"
     },
     {
       "album": {
@@ -1547,10 +1601,28 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 245413,
       "name": "Rain Song (Feat. Colde)",
       "url": "https://open.spotify.com/track/2qrDQX9IvOhetvjUcwPtmb"
+    },
+    {
+      "album": {
+        "name": "Rainy day",
+        "url": "https://open.spotify.com/album/0yuFK5FXUza0irsBy1HHSJ"
+      },
+      "artists": [
+        {
+          "name": "HALF",
+          "url": "https://open.spotify.com/artist/6X71eoORQsL541Tf2E2K8c"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176470,
+      "name": "Rainy day",
+      "url": "https://open.spotify.com/track/2yGgyexbjIFOKAbxwVDhvj"
     },
     {
       "album": {
@@ -1681,7 +1753,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 231315,
       "name": "Second Lover",
       "url": "https://open.spotify.com/track/0fag5Srel9h2sq6E5UySK7"
@@ -1699,7 +1771,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 224586,
       "name": "sigh",
       "url": "https://open.spotify.com/track/2fJ38mbJNnRtHwfQ1cgyjy"
@@ -1739,7 +1811,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 214556,
       "name": "Song of the rain",
       "url": "https://open.spotify.com/track/2o01gSDPP32gRfs53ImwVK"
@@ -1793,7 +1865,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 161738,
       "name": "Still Wonder",
       "url": "https://open.spotify.com/track/1hD35Fj6NBNm2CEOn3QLCE"
@@ -1869,7 +1941,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 221146,
       "name": "Syndrome",
       "url": "https://open.spotify.com/track/1hZ2dSvv2O6HQo6p3gDtVO"
@@ -1905,7 +1977,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 212173,
       "name": "That's ok",
       "url": "https://open.spotify.com/track/5kLdBPmd0fplZUi0hifSil"
@@ -1945,7 +2017,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 266999,
       "name": "The Sound Of Rain - Acoustic",
       "url": "https://open.spotify.com/track/0gVl8IrGZIUL1cptCIzUj2"
@@ -2047,7 +2119,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 272000,
       "name": "WA-R-R",
       "url": "https://open.spotify.com/track/4eAaNoxM3JjlHent49dHxd"
@@ -2171,7 +2243,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 272293,
       "name": "When it rains (Feat. sogumm) (Prod. BOYCOLD)",
       "url": "https://open.spotify.com/track/45R8aMTK1suFXTraQCzVRe"
@@ -2251,7 +2323,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 199597,
       "name": "XXLove",
       "url": "https://open.spotify.com/track/6PFaG6SDFJ9SwrXX6rPBYU"
@@ -2269,7 +2341,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 101000,
       "name": "You Don't Shine Anymore (Interlude)",
       "url": "https://open.spotify.com/track/58ugn5hQqFTHp0WcaR8bPz"

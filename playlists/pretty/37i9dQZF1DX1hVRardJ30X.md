@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Paulo Londra
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,880 likes - 67 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,902 likes - 67 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

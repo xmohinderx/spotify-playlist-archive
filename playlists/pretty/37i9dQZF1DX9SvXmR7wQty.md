@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les nouveautés francophones de la semaine\. Photo: M\-Press Live, Ya Cetidon, Jeekay
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,566 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,562 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 41 | [Magic Johnson](https://open.spotify.com/track/68IeiFIaq7Pd5O5REmwMuj) | [SeinsSucrer](https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP) | [Sua broue](https://open.spotify.com/album/4qCiQshJI98LzrP1gtE7T1) | 1:59 |
 | 42 | [Fille garçon \(feat\. Virginie B\)](https://open.spotify.com/track/7z2cUfglgcQ9K89YdMlDOP) | [Sainte\-Croix](https://open.spotify.com/artist/6DXllKnZVeC1AJOMWt7vig), [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [Fille garçon \(feat\. Virginie B\)](https://open.spotify.com/album/3M6B8jtdB22egiajOkp1GJ) | 2:09 |
 | 43 | [Habiba](https://open.spotify.com/track/3S4VwM5QzaYKnuw5cEGNh1) | [Jebz](https://open.spotify.com/artist/3vbbyh0Nav4O5afKC2rolq) | [Habiba](https://open.spotify.com/album/0c4YneW6tpjp5PSfmqxsTl) | 2:02 |
-| 44 | [Baby Lova](https://open.spotify.com/track/1rjormyWJ2VFI8ZSQoPIYl) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [BIG Daddy \(Vol\. 1\)](https://open.spotify.com/album/6pRsl4987qgo0PdJpyjLeI) | 3:13 |
+| 44 | [Baby Lova](https://open.spotify.com/track/1rjormyWJ2VFI8ZSQoPIYl) | [Naza](https://open.spotify.com/artist/6Brd1wRqo7fr6TP8mDMqAP) | [BIG Daddy \(Vol\. 1\)](https://open.spotify.com/album/6pRsl4987qgo0PdJpyjLeI) | 3:13 |
 | 45 | [Méchante](https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Méchante](https://open.spotify.com/album/1k6MS0e5EMEkCDZ88fiLQ5) | 2:51 |
 | 46 | [Le soleil à son zénith](https://open.spotify.com/track/0Rkxu5Ro7FsAQ4Ee7kzibX) | [Dumas](https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD) | [Le soleil à son zénith](https://open.spotify.com/album/5ejJGOc1JOZ1sE0JXKBXpx) | 3:29 |
 | 47 | [Tout c'que j'connais](https://open.spotify.com/track/6ysi2zSXcx4WjU2gX6Cmcr) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Tout c'que j'connais](https://open.spotify.com/album/5atVuDm8WzCguB6Itn4IyD) | 3:17 |

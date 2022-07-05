@@ -69,7 +69,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 193600,
       "name": "20 Liga\u00e7\u00f5es",
       "url": "https://open.spotify.com/track/6MvaRZ6JZgJuXz9b1CMB1y"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 153230,
       "name": "Black Lan\u00e7a (Catucando Gostosinho)",
       "url": "https://open.spotify.com/track/3qmdfYpfvKRIXmWaLllHZ3"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 261778,
       "name": "Cansei / Sem Perceber - Ao Vivo",
       "url": "https://open.spotify.com/track/6sldJVkOdJBjxDk9tde1Zf"
@@ -625,6 +625,44 @@
       "duration_ms": 163928,
       "name": "Chama no Privado - Ao Vivo",
       "url": "https://open.spotify.com/track/2KSZYTNXPjNJG4V6o3fD6z"
+    },
+    {
+      "album": {
+        "name": "Click, Click, Click (feat. Derek, N.A.N.A., Dfideliz, J\u00e9 Santiago, The Boy)",
+        "url": "https://open.spotify.com/album/1GXvrGeWzEwpR7rx2hEzoT"
+      },
+      "artists": [
+        {
+          "name": "Recayd Mob",
+          "url": "https://open.spotify.com/artist/1QBWA6tuiZ0JuDluPqbe71"
+        },
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        },
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        },
+        {
+          "name": "J\u00e9 Santiago",
+          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
+        },
+        {
+          "name": "N.A.N.A.",
+          "url": "https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND"
+        },
+        {
+          "name": "The Boy",
+          "url": "https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264802,
+      "name": "Click, Click, Click (feat. Derek, N.A.N.A., Dfideliz, J\u00e9 Santiago, The Boy)",
+      "url": "https://open.spotify.com/track/51mUrluXyuMMaqSrKUtMiQ"
     },
     {
       "album": {
@@ -1258,6 +1296,36 @@
     },
     {
       "album": {
+        "name": "Hugo Boss",
+        "url": "https://open.spotify.com/album/0xoScocnUYyr9f49aCbsho"
+      },
+      "artists": [
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Gabb MC",
+          "url": "https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214500,
+      "name": "Hugo Boss",
+      "url": "https://open.spotify.com/track/1OfwTYZQrsImsfnhHWrJr1"
+    },
+    {
+      "album": {
         "name": "INVEJOSO",
         "url": "https://open.spotify.com/album/3EiBO5SSeSlDGKxLNqBCVy"
       },
@@ -1418,6 +1486,28 @@
     },
     {
       "album": {
+        "name": "Pagode do Peric\u00e3o II, Pt. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Virq85dv3I2i50RwJemfI"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        },
+        {
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192043,
+      "name": "Lembran\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/6r8vriJvJEkVF3v8TGTGx2"
+    },
+    {
+      "album": {
         "name": "Let's Go 2 (feat. MC Hariel, Mc Kadu, MC Marks, Mc Don Juan, Mc Luki & MC PH)",
         "url": "https://open.spotify.com/album/163kne0FGTDnu3ptEhX2Aq"
       },
@@ -1491,7 +1581,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 210445,
       "name": "Lideran\u00e7a",
       "url": "https://open.spotify.com/track/7dKz6xy1ZMywmrrP5HMw8u"
@@ -1916,6 +2006,32 @@
     },
     {
       "album": {
+        "name": "O Poder Dessa Garota",
+        "url": "https://open.spotify.com/album/3EBubCq7RZgQSzr5LiDaDP"
+      },
+      "artists": [
+        {
+          "name": "Mc Gabzin",
+          "url": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
+        },
+        {
+          "name": "DJ TAK VADI\u00c3O",
+          "url": "https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu"
+        },
+        {
+          "name": "dj sv",
+          "url": "https://open.spotify.com/artist/7u9115faVQY8xNrCXqY0zx"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "O Poder Dessa Garota",
+      "url": "https://open.spotify.com/track/4aoZBldNDVYmTwmeoI49ud"
+    },
+    {
+      "album": {
         "name": "O Preto Mais Caro",
         "url": "https://open.spotify.com/album/5x9DU6PjiS9LK3NNYykjd8"
       },
@@ -1931,6 +2047,50 @@
       "duration_ms": 144277,
       "name": "O Preto Mais Caro",
       "url": "https://open.spotify.com/track/1k8SAvpNdgv5jbCuPjPm82"
+    },
+    {
+      "album": {
+        "name": "Rico Bem Novin",
+        "url": "https://open.spotify.com/album/5vGJ6Mgt5MWj5Y0ZXc0QJF"
+      },
+      "artists": [
+        {
+          "name": "Shoy",
+          "url": "https://open.spotify.com/artist/3qGnDZ8BHEsA9Go8ui3RUJ"
+        },
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183652,
+      "name": "O Que Voc\u00ea Quer?",
+      "url": "https://open.spotify.com/track/5HdpRBA7H8i2dNHAY7aslT"
+    },
+    {
+      "album": {
+        "name": "Obama",
+        "url": "https://open.spotify.com/album/5r7fZPl16IUqjzxZc7upaP"
+      },
+      "artists": [
+        {
+          "name": "Malcolm VL",
+          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
+        },
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Obama",
+      "url": "https://open.spotify.com/track/4aIj9PkZFTR8oLciZRCLNw"
     },
     {
       "album": {
@@ -1957,7 +2117,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 156153,
       "name": "Oi, Como Ce T\u00e1?",
       "url": "https://open.spotify.com/track/5Z4TYur0O9OxmxIo6GC2Gq"
@@ -2047,6 +2207,28 @@
       "duration_ms": 177000,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/0yL7K9MzC20uBesZTPY81r"
+    },
+    {
+      "album": {
+        "name": "Marvvila na \u00c1rea (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2g4R36g4rMzR8ST2xLQu39"
+      },
+      "artists": [
+        {
+          "name": "Marvvila",
+          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
+        },
+        {
+          "name": "Rebecca",
+          "url": "https://open.spotify.com/artist/6X3VQq0KZ3hFAMa5aJG2Za"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150212,
+      "name": "Pantera Negra - Ao Vivo",
+      "url": "https://open.spotify.com/track/6gfaVnV9igJIfdUx3jj3B7"
     },
     {
       "album": {
@@ -2153,7 +2335,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 161333,
       "name": "Predominante",
       "url": "https://open.spotify.com/track/5vT597y9XW27TDo43Sx5SP"
@@ -2361,7 +2543,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 147326,
       "name": "Sei L\u00e1 (Papatracks#7)",
       "url": "https://open.spotify.com/track/7DDTnzUzUiynlMQwGqWuJz"
@@ -2463,6 +2645,28 @@
       "duration_ms": 643200,
       "name": "Set dos Casados",
       "url": "https://open.spotify.com/track/2xebCnKCjYWBhJ4Ai8hO5E"
+    },
+    {
+      "album": {
+        "name": "Maldita",
+        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199986,
+      "name": "Seu Particular",
+      "url": "https://open.spotify.com/track/7FbeeyMWZsJw36SaRbFNMk"
     },
     {
       "album": {
@@ -2633,7 +2837,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 211127,
       "name": "Tomara / Trov\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/0B1uMyFGBAs0wPgKAMImug"

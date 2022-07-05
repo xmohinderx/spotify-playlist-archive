@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 
 > Dance and electronic Arabic songs\. Cover: Eljoee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,089 likes - 53 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,118 likes - 53 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

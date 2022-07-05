@@ -4,7 +4,7 @@
 
 > All the hits you'll need to make your summer sizzle.
 
-980 songs - 2 day 2 hr 36 min - [published](https://open.spotify.com/playlist/5Tz3j6NeYOoWmHXBAGiazZ)
+981 songs - 2 day 2 hr 39 min - [published](https://open.spotify.com/playlist/5Tz3j6NeYOoWmHXBAGiazZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -605,6 +605,7 @@
 | [Never Let Me Down](https://open.spotify.com/track/3bXiWZWR3CoZbhcsqfsMNa) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Never Let Me Down](https://open.spotify.com/album/0Bukf9slmCY0nPhy80GzEQ) | 2:33 | 2020-05-13 | 2020-06-20 |
 | [Never Really Over](https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Never Really Over](https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT) | 3:43 | 2019-06-01 | 2019-08-13 |
 | [never say ily again](https://open.spotify.com/track/7KBCp5ur7kAmf3Fi4ztX2l) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [never say ily again](https://open.spotify.com/album/6VXX2PFylRSh3YK90zvZ8x) | 3:16 | 2020-08-08 | 2021-04-30 |
+| [New Money \(feat\. 21 Savage\)](https://open.spotify.com/track/5ycvEFxPeQqqkdOUgWhrJl) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [New Money \(feat\. 21 Savage\)](https://open.spotify.com/album/1aRWXKL4e4pFg6Z3ObHKKw) | 2:50 | 2022-07-04 |  |
 | [New Normal](https://open.spotify.com/track/2CIYemjFXdmCWpJnfbtrD6) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [New Normal](https://open.spotify.com/album/3icfuNPdPHFm1FS8WdBvRk) | 3:18 | 2021-07-25 | 2022-04-13 |
 | [Nicknames \(feat\. gnash\)](https://open.spotify.com/track/2KSwFkeMHucdwgMtdzI2ns) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Garrett Nash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [Nicknames \(feat\. gnash\)](https://open.spotify.com/album/3YTxR52ky6DE0PkLBNTvlk) | 3:06 | 2020-04-29 | 2020-06-03 |
 | [Nightmare](https://open.spotify.com/track/340UVheS8z3ncW9TTUhAbc) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Nightmare](https://open.spotify.com/album/4KaiavWFhR7j9tY1f7V6UL) | 3:51 | 2019-05-26\* | 2019-07-03 |

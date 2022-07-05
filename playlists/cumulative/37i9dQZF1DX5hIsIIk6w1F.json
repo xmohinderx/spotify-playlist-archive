@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: Tunechikidd.",
+  "description": "Este Flow tiene otro Flow. Foto: Young Cister.",
   "name": "Reggaet\u00f3n Chileno",
   "published_playlist_ids": [
     "2FMJDC0qJwnjZnSiGHmfDy"
@@ -45,6 +45,36 @@
       "duration_ms": 188992,
       "name": "A Lo Mat\u00f3n",
       "url": "https://open.spotify.com/track/7vxnJ22SO4yVdjbhI7pbe5"
+    },
+    {
+      "album": {
+        "name": "NEW BLOOD",
+        "url": "https://open.spotify.com/album/2stO0Eohf9vriqN0JAwmq4"
+      },
+      "artists": [
+        {
+          "name": "Kail BRL",
+          "url": "https://open.spotify.com/artist/1F5KgWs6pawyDs5px23UIQ"
+        },
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "Benji La Maldita Escritura De Oro",
+          "url": "https://open.spotify.com/artist/2H5XfIuAQCXmaIDm7vcViA"
+        },
+        {
+          "name": "Tobal Mj",
+          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195792,
+      "name": "ACTIVO",
+      "url": "https://open.spotify.com/track/0r6XXEWcrvnfwPe3wP35xz"
     },
     {
       "album": {
@@ -1147,10 +1177,28 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 180892,
       "name": "La Receta",
       "url": "https://open.spotify.com/track/4GEdcJ36aTarJ1FffmRtV5"
+    },
+    {
+      "album": {
+        "name": "LA TERAPIA",
+        "url": "https://open.spotify.com/album/6wK85B0J0PvZ8qybiQ8dZa"
+      },
+      "artists": [
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185012,
+      "name": "LA TERAPIA",
+      "url": "https://open.spotify.com/track/5i9bTK3gXeVCvua3PH4nwv"
     },
     {
       "album": {
@@ -1257,7 +1305,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 213843,
       "name": "Lokotron",
       "url": "https://open.spotify.com/track/7iiGybCvvxewpa62bPhNzB"
@@ -1541,6 +1589,32 @@
       "duration_ms": 300000,
       "name": "Modo Bellakeo - Remix",
       "url": "https://open.spotify.com/track/0SaXDaVenmZynBYRD3eJG6"
+    },
+    {
+      "album": {
+        "name": "Moet",
+        "url": "https://open.spotify.com/album/0n6tdRfilyYOc0O0eILSWE"
+      },
+      "artists": [
+        {
+          "name": "Los Power",
+          "url": "https://open.spotify.com/artist/0jRuTSSjLM8h3Bp3yPDtId"
+        },
+        {
+          "name": "Franco \"El Gorilla\"",
+          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Moet",
+      "url": "https://open.spotify.com/track/4sgGRQsiYRdXJEzDxnWK2g"
     },
     {
       "album": {
@@ -2319,7 +2393,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 170739,
       "name": "Si Lo Dejas Pasar",
       "url": "https://open.spotify.com/track/2UboXeNVAy7Tkvz2oxfghl"

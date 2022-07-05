@@ -2635,6 +2635,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [R&B Latino](/playlists/pretty/37i9dQZF1DXdqxfWN3raU3.md)
 - [R&B Matters: The Playlist](/playlists/pretty/37i9dQZF1DWZKEBMCmjsXt.md)
 - [R&B Right Now](/playlists/pretty/37i9dQZF1DX2WkIBRaChxW.md)
+- [RADAR ARABIA](/playlists/pretty/37i9dQZF1DWSkSBnkXgB7J.md)
 - [RADAR AU & NZ](/playlists/pretty/37i9dQZF1DWYIJ3HxqIxIJ.md)
 - [RADAR BNLX](/playlists/pretty/37i9dQZF1DXaxwXKCsImRe.md)
 - [RADAR Brasil](/playlists/pretty/37i9dQZF1DWTVE8ZCcLQ5Q.md)

@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 230693,
       "name": "22 settembre",
       "url": "https://open.spotify.com/track/15RRpHBNzv0gvjIry4jyOs"
@@ -281,7 +281,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 187375,
       "name": "Autostop",
       "url": "https://open.spotify.com/track/5ZgeeXOHGYUn0K3kuICyw9"
@@ -445,7 +445,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 178448,
       "name": "Cabriolet Panorama",
       "url": "https://open.spotify.com/track/4lajqBJavxKL3sllt1TcTH"
@@ -493,7 +493,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 201931,
       "name": "Chico (feat. Rose Villain & Luch\u00e8)",
       "url": "https://open.spotify.com/track/3Xhl7OqWAFgVxQKrWhyVVO"
@@ -571,7 +571,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 189880,
       "name": "Clap Your Hands",
       "url": "https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI"
@@ -611,7 +611,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 189320,
       "name": "Concedimi",
       "url": "https://open.spotify.com/track/0pFjYM7JdNJhjuooMgesks"
@@ -779,7 +779,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 199946,
       "name": "DEFUERA (feat. Ghali, Madame & Marracash)",
       "url": "https://open.spotify.com/track/2512VtkrcUHav23oV66xqf"
@@ -851,7 +851,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 164842,
       "name": "Don't Go Yet",
       "url": "https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad"
@@ -1133,7 +1133,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 195657,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/0vWUhCPxpJOJR5urYbZypB"
@@ -1213,7 +1213,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 177000,
       "name": "Il bacio di Klimt",
       "url": "https://open.spotify.com/track/3E1FgPTXX203rgBTD5nlKF"
@@ -1275,7 +1275,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 156493,
       "name": "Karaoke",
       "url": "https://open.spotify.com/track/0D4GpOPInKiPxEfQMchu4p"
@@ -1413,7 +1413,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 161426,
       "name": "Lalalalalalalalalala",
       "url": "https://open.spotify.com/track/1vJPGeapiTW4KRPjK65JpV"
@@ -1439,7 +1439,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 231603,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH"
@@ -1508,6 +1508,24 @@
     },
     {
       "album": {
+        "name": "Good Vibes",
+        "url": "https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg"
+      },
+      "artists": [
+        {
+          "name": "Benji & Fede",
+          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204978,
+      "name": "Magnifico difetto",
+      "url": "https://open.spotify.com/track/0IKfkRzt3d1FoNla2dKi1J"
+    },
+    {
+      "album": {
         "name": "sangiovanni",
         "url": "https://open.spotify.com/album/4fEIBZaOmbxZnzAJ9SEx4v"
       },
@@ -1573,7 +1591,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 177809,
       "name": "Mediterranea",
       "url": "https://open.spotify.com/track/47xPl1gvgdx4Z9dNUuloPg"
@@ -1795,7 +1813,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 200975,
       "name": "Non mi basta pi\u00f9 (feat. Chiara Ferragni)",
       "url": "https://open.spotify.com/track/5ZUeBvBEH8hpdLMW3yCmHb"
@@ -1941,7 +1959,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 141062,
       "name": "Paloma (feat. Anitta)",
       "url": "https://open.spotify.com/track/0HFkCSXRTUHCYJ148PdD0v"
@@ -2119,7 +2137,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 170400,
       "name": "perso nel buio (con Madame)",
       "url": "https://open.spotify.com/track/3JfNagCp1cGQUp4XSCmGl4"
@@ -2329,7 +2347,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 169010,
       "name": "Run",
       "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
@@ -2373,7 +2391,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 202990,
       "name": "SaN LoREnZo (feat. Annalisa) - prod. Yanomi",
       "url": "https://open.spotify.com/track/0sTiM4EWUkJe1em8SZCs8t"
@@ -2679,7 +2697,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 190363,
       "name": "Tondo",
       "url": "https://open.spotify.com/track/7u2QyOBuVH21gqkrK1GbUW"
@@ -2719,7 +2737,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 172000,
       "name": "Tropicana (feat. Annalisa)",
       "url": "https://open.spotify.com/track/3YjriLRvztHSDJOZRTTiQz"
@@ -2923,7 +2941,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 211410,
       "name": "VOCE",
       "url": "https://open.spotify.com/track/1eIS75JS5rfbJpSu6ZC9EO"
@@ -2989,7 +3007,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 203872,
       "name": "\u00c8 sempre bello",
       "url": "https://open.spotify.com/track/6IdiuMw1FSAvU3e6bgWQVX"

@@ -4,7 +4,7 @@
 
 > Top Sharqi hits right now\. Cover: Rawan Bin Hussain.
 
-66 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/3kBNibb2D8hX0xnC695807)
+69 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/3kBNibb2D8hX0xnC695807)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Ahla Snin \- أحلى سنين](https://open.spotify.com/track/5ir8hEkSEKRDSjkCqxus04) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR), [Jimmy H.](https://open.spotify.com/artist/6MHcMsdioNgN4XXoXk9J4e) | [Ahla Snin \(أحلى سنين\)](https://open.spotify.com/album/7eWYBxxxai1vRBcY5qW8ne) | 3:50 | 2022-05-04 |  |
 | [Akher Kass](https://open.spotify.com/track/2DRbkf9ODDJ6PboDLxQ5Ur) | [A5rass \- الاخرس](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [Akher Kass](https://open.spotify.com/album/4rM1SNUnHNeGBDEukModhn) | 3:19 | 2022-05-04 |  |
 | [Al Kawn Janni Maak](https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Al Kawn Janni Maak](https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG) | 2:15 | 2022-05-04 |  |
+| [Albi Elou](https://open.spotify.com/track/7uIdrMD04D7jsL7lI6ytTw) | [Farah Chreim](https://open.spotify.com/artist/76hwkSg4dVAp3IYhM5VqWc) | [قلبي الو](https://open.spotify.com/album/2jEyAidrKSxLYj8lsz0H4Y) | 3:13 | 2022-07-04 |  |
 | [Ana Aw La Ahad](https://open.spotify.com/track/1AGDdWPJ3wE7xjNhsdMCR7) | [Wadih El Cheikh](https://open.spotify.com/artist/6eeAS0L17Rl7edN18yWfFl) | [Ana Aw La Ahad](https://open.spotify.com/album/3huevqzzrVkaSZBLlXJbZv) | 3:43 | 2022-05-04 |  |
 | [Ana Lamma Bheb](https://open.spotify.com/track/6a4SIj2iNe0mJWyxVrdpCZ) | [Amjad Jomaa](https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU) | [Ana Lamma Bheb](https://open.spotify.com/album/3e5Cj4cSq7KHsWbNzO9OcL) | 3:23 | 2022-05-04 |  |
 | [Ana Ma Eli Bel Hob](https://open.spotify.com/track/5XktHAcLW0fBktTrRn8c1E) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Ana Ma Eli Bel Hob](https://open.spotify.com/album/2Ih5PWFSiO6fDcpN4wORB9) | 3:47 | 2022-05-04 |  |
@@ -34,11 +35,12 @@
 | [El Bekle](https://open.spotify.com/track/7Ey7TpsXn1ZkrT8ZyQ4Jsa) | [Zef](https://open.spotify.com/artist/5xLrAcC8QXJSik2rLNAR8L), [Stephanie Atala](https://open.spotify.com/artist/3JdUFXhNjJufnoXDwK3rjs) | [البكلة](https://open.spotify.com/album/142Pz4HXUYVzwlUUUUNAXp) | 3:00 | 2022-06-20 |  |
 | [El Bint El Awiye](https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [El Bint El Awiye](https://open.spotify.com/album/6TQquIuw9t7upY6tYfFtGF) | 3:34 | 2022-05-04 |  |
 | [El Hob El Hob](https://open.spotify.com/track/4q1zwkAWuwTvJe10jxWuif) | [Mohamed el Majzoub](https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS) | [El Hob El Hob](https://open.spotify.com/album/1z65J61oSJOskywPbemr1y) | 3:38 | 2022-05-04 |  |
+| [El M3alim \- وديع الشيخ \- المعلم](https://open.spotify.com/track/3AB1VEVI7OvhTb8G5L3UGR) | [Wadih El Cheikh](https://open.spotify.com/artist/6eeAS0L17Rl7edN18yWfFl) | [El M3alim \(وديع الشيخ \- المعلم\)](https://open.spotify.com/album/1ZmeRfx7JcUbRaGAh5uYTF) | 3:54 | 2022-07-04 |  |
 | [Elli Baana](https://open.spotify.com/track/28bdcUznUDPjJEujZCABes) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Elli Baana](https://open.spotify.com/album/23Khcpq38kMe3FsIiV8Mbu) | 4:24 | 2022-05-04 | 2022-06-21 |
 | [Enta Eli](https://open.spotify.com/track/3J7sclIMiseZABX8RedFoh) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL), [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [Enta Eli](https://open.spotify.com/album/4si6u0GkICCUzzthCzSkzq) | 2:34 | 2022-06-04 |  |
 | [Enta Wala Shi](https://open.spotify.com/track/4gxANSjG77cE2f8yLNdg4Q) | [Eyad Tannous](https://open.spotify.com/artist/2TcwAXvlfUoL1QPBC2qmIR) | [Enta Wala Shi](https://open.spotify.com/album/32SyguSDB4FWRPdp86TkvD) | 3:23 | 2022-05-04 |  |
 | [Enta Zaalan Meni](https://open.spotify.com/track/2AGHWbmR6YAgJJ8fXy4o3G) | [Eyad Tannous](https://open.spotify.com/artist/2TcwAXvlfUoL1QPBC2qmIR) | [Enta Zaalan Meni](https://open.spotify.com/album/0Uynztqh75HbmBU9obrLh7) | 3:38 | 2022-05-04 | 2022-06-21 |
-| [Enti W Ana](https://open.spotify.com/track/4uVwxyBzFXXIy0iPUMExIc) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Enti W Ana](https://open.spotify.com/album/3aN1sOJg4kCaVpJbNfq3Cw) | 3:28 | 2022-05-04 |  |
+| [Enti W Ana](https://open.spotify.com/track/4uVwxyBzFXXIy0iPUMExIc) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Enti W Ana](https://open.spotify.com/album/3aN1sOJg4kCaVpJbNfq3Cw) | 3:28 | 2022-05-04 | 2022-07-05 |
 | [Etelni Bgharamak](https://open.spotify.com/track/6Pyqe5UJ0X7vIjBzFbIjw3) | [Eyad Tannous](https://open.spotify.com/artist/2TcwAXvlfUoL1QPBC2qmIR) | [Etelni Bgharamak](https://open.spotify.com/album/0MnmYPo0doKbaor63FvX4S) | 3:04 | 2022-05-04 | 2022-06-21 |
 | [Fawran Gharam](https://open.spotify.com/track/4MbO1D7I7tRoL3HmCLffJa) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Fawran Gharam](https://open.spotify.com/album/0G7WPxTsjvPtbNBe4jqyUx) | 3:14 | 2022-05-04 |  |
 | [Fi El Alb Mkanak](https://open.spotify.com/track/7dFLwFVL39DouieWjW9VBA) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Fi El Alb Mkanak](https://open.spotify.com/album/3BhJFjCQJ44kzPLJ3YpUi2) | 2:01 | 2022-05-04 |  |
@@ -62,6 +64,7 @@
 | [Salamat](https://open.spotify.com/track/0A4fwNrMiQpY7rIWrdmjaz) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 10](https://open.spotify.com/album/3uqaoNAn5imRyAztEcb6Bb) | 3:00 | 2022-05-04 |  |
 | [Tan Tan \(feat\. Wessam Qutob\)](https://open.spotify.com/track/554c9cCoZ0jRhHxgiMCraE) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ), [Wessam Qutob](https://open.spotify.com/artist/1SPocxtvn6FfdFayQ8DBO2) | [Tan Tan \(feat\. Wessam Qutob\)](https://open.spotify.com/album/4Q6iHkdb5JEhOIELDNKGBu) | 2:38 | 2022-05-17 |  |
 | [Ti Ra Ra](https://open.spotify.com/track/10OU7eWlVd6U1nPAUoAlCv) | [Always April](https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM), [Bashaar Al Jawad](https://open.spotify.com/artist/6cWm8WSuBJ3D4DYPPjzl3W) | [Ti Ra Ra](https://open.spotify.com/album/3KMm49eJBEaIvtS2K2ZIlz) | 2:27 | 2022-05-04 |  |
+| [TiTi](https://open.spotify.com/track/4LoPkMbA7F5byELSc0MAKs) | [Mayssa Karaa](https://open.spotify.com/artist/1IsHfx3tpJaUzDNRbMULzU) | [TiTi](https://open.spotify.com/album/79fKBMc13jQkrxJ9aQJeUj) | 3:17 | 2022-07-04 |  |
 | [Trend Al Awal](https://open.spotify.com/track/4slxjXKYSUNiatB7ILVYZt) | [Mohanad Zaiter](https://open.spotify.com/artist/6UPw1MtEOM1tfFTnMeRObq) | [Trend Al Awal](https://open.spotify.com/album/6sbSqSvMbWtNJd1YsF3atj) | 3:33 | 2022-05-04 |  |
 | [Wahdani](https://open.spotify.com/track/7MtjVTe38tcotyQwr7piOX) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Wahdani](https://open.spotify.com/album/3Wwr5T1Xcu9da276ShVYft) | 4:41 | 2022-06-20 |  |
 | [Ya Aasal](https://open.spotify.com/track/2qIYndgPCXthIaBjnVv7Dr) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Ya Aasal](https://open.spotify.com/album/1Gq60ipemX1b0qAe69Jed3) | 3:30 | 2022-05-04 |  |

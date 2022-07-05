@@ -1376,6 +1376,28 @@
     },
     {
       "album": {
+        "name": "Rico Bem Novin",
+        "url": "https://open.spotify.com/album/5vGJ6Mgt5MWj5Y0ZXc0QJF"
+      },
+      "artists": [
+        {
+          "name": "Shoy",
+          "url": "https://open.spotify.com/artist/3qGnDZ8BHEsA9Go8ui3RUJ"
+        },
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183652,
+      "name": "O Que Voc\u00ea Quer?",
+      "url": "https://open.spotify.com/track/5HdpRBA7H8i2dNHAY7aslT"
+    },
+    {
+      "album": {
         "name": "Oclin e Evoque",
         "url": "https://open.spotify.com/album/1lm0ePGaAMF91JfN3O9sI7"
       },

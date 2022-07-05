@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "this is spoiler free area",
+  "description": "a spoiler free area",
   "name": "teen beats",
   "published_playlist_ids": [
     "39O9POiBLV6pa1bW5ngppg"
@@ -3479,6 +3479,24 @@
       "duration_ms": 207879,
       "name": "Like a Prayer - Live",
       "url": "https://open.spotify.com/track/1nM9BUwYIkDbLABWUHjNZH"
+    },
+    {
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242652,
+      "name": "listen before i go",
+      "url": "https://open.spotify.com/track/0tMSssfxAL2oV8Vri0mFHE"
     },
     {
       "album": {

@@ -17,7 +17,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 236933,
       "name": "69",
       "url": "https://open.spotify.com/track/5dMnjdBx6dWwBwrdqVSFBp"
@@ -53,7 +53,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 180226,
       "name": "Acapulco Dorado",
       "url": "https://open.spotify.com/track/5ytsmoEtQMsPYfFfxgZCd2"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 250946,
       "name": "Back",
       "url": "https://open.spotify.com/track/7eZGDGbEoyZJeBl4PGyFSF"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 138759,
       "name": "Better Watch What You Do",
       "url": "https://open.spotify.com/track/2vK1U3UP6CRt4j8TybtIBD"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 154720,
       "name": "Boom! Boom! Boom!",
       "url": "https://open.spotify.com/track/4BuMxDprV7PhLj5ykVwA9I"
@@ -305,7 +305,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 307408,
       "name": "Ciudad Hippie",
       "url": "https://open.spotify.com/track/5LdkkBK0i72xJku8NXkXcw"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 211130,
       "name": "Dama Con Alma",
       "url": "https://open.spotify.com/track/3B8bO0zU861MfWo71ItySI"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 192292,
       "name": "Di por Qu\u00e9",
       "url": "https://open.spotify.com/track/0NyhbeZXibgrC5Cd0AOa9E"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 173356,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/3AYFCwZNWpArhFGHJnJhjw"
@@ -539,10 +539,28 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 234498,
       "name": "Groupie",
       "url": "https://open.spotify.com/track/5CNo2B3LgMJgheq3ikhVir"
+    },
+    {
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/4NSvAvBOp5PjYeIRYmOJsW"
+      },
+      "artists": [
+        {
+          "name": "Kaleidoscope",
+          "url": "https://open.spotify.com/artist/14c0CEGVWU6eO48Su2PiMf"
+        }
+      ],
+      "date_added": "2021-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140306,
+      "name": "Hang Out",
+      "url": "https://open.spotify.com/track/0dqx4KnuBwHCU5uyxaSORL"
     },
     {
       "album": {
@@ -557,7 +575,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 243519,
       "name": "Hard Life",
       "url": "https://open.spotify.com/track/5sCzsYgxq3a4lVhBvp7FXJ"
@@ -737,7 +755,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 577053,
       "name": "La Pobreza",
       "url": "https://open.spotify.com/track/74xLbMcYBC6nCn4KU7WS8i"
@@ -809,7 +827,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 169439,
       "name": "Libertad",
       "url": "https://open.spotify.com/track/7kiZO3vvOkIERuJgEIfnyp"
@@ -827,10 +845,28 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 247453,
       "name": "Lost In My World (Perdido en Mi Mundo)",
       "url": "https://open.spotify.com/track/7CsV5sRCCpayqPhmtJoNTU"
+    },
+    {
+      "album": {
+        "name": "Lucifer",
+        "url": "https://open.spotify.com/album/5RNzBhRf0NoQ9E6H6S6srh"
+      },
+      "artists": [
+        {
+          "name": "Lucifer",
+          "url": "https://open.spotify.com/artist/6aCetzCuwpvRHy5Rv7hmt9"
+        }
+      ],
+      "date_added": "2021-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225053,
+      "name": "Lucifer",
+      "url": "https://open.spotify.com/track/7ivdF9GuhQFXPr4IOXEoNr"
     },
     {
       "album": {
@@ -870,6 +906,24 @@
     },
     {
       "album": {
+        "name": "Sirenas Al Ataque",
+        "url": "https://open.spotify.com/album/4Yn1pX0PmCE6TtiksEOunF"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236840,
+      "name": "Mi Juramento",
+      "url": "https://open.spotify.com/track/7mV3hxL2j2xBhmXCv6mULs"
+    },
+    {
+      "album": {
         "name": "Pebbles Vol. 12, Mexico Pt. 1, Originals Artifacts From The Psychedelic Era",
         "url": "https://open.spotify.com/album/4KLAjeofXYCHrB1s3tDZDy"
       },
@@ -899,7 +953,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 163386,
       "name": "Mony Mony",
       "url": "https://open.spotify.com/track/4roB2QW6dbmd799xB21dQX"
@@ -917,7 +971,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 203153,
       "name": "My Way Is Love",
       "url": "https://open.spotify.com/track/0CI67v7SM4HohMbUcffnmT"
@@ -953,7 +1007,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 283226,
       "name": "Nadie En Especial",
       "url": "https://open.spotify.com/track/0UVNcbB9W1h1fZGyhef3Nd"
@@ -978,6 +1032,24 @@
     },
     {
       "album": {
+        "name": "Monster A Go-Go: Teen Trash From Psychedelic Tokyo '66 - '69 (Volume 1)",
+        "url": "https://open.spotify.com/album/0d3ymarURd8tsiawQJJxl7"
+      },
+      "artists": [
+        {
+          "name": "The Spiders",
+          "url": "https://open.spotify.com/artist/5mrfwFGMT56yGbirhVdInL"
+        }
+      ],
+      "date_added": "2021-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149440,
+      "name": "Nati Bati Yi",
+      "url": "https://open.spotify.com/track/0696PYVWQH7HZdTGeY33ZK"
+    },
+    {
+      "album": {
         "name": "Santana (III)",
         "url": "https://open.spotify.com/album/3iE6Jik24CBE0uv1lyyplI"
       },
@@ -989,10 +1061,46 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 331333,
       "name": "No One to Depend On",
       "url": "https://open.spotify.com/track/3pPnys7mGV0DQkQoxmovXi"
+    },
+    {
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/5XtOkFfnOOIvhK1skQsKdN"
+      },
+      "artists": [
+        {
+          "name": "La M\u00e1quina Del Sonido",
+          "url": "https://open.spotify.com/artist/1wT6pLxxW0tFyk2nnE5HGg"
+        }
+      ],
+      "date_added": "2021-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204180,
+      "name": "No Quiero Ya Volver",
+      "url": "https://open.spotify.com/track/6Pv5pNSFNIO9FvOm1qGQ5F"
+    },
+    {
+      "album": {
+        "name": "Super Onda Chicana",
+        "url": "https://open.spotify.com/album/3Mg8dzenMcNgMFqzsu1D5L"
+      },
+      "artists": [
+        {
+          "name": "La Tribu",
+          "url": "https://open.spotify.com/artist/1S3mBYfIcrUcIJXy1ZsDS0"
+        }
+      ],
+      "date_added": "2021-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172043,
+      "name": "No Te Quiero M\u00e1s",
+      "url": "https://open.spotify.com/track/4sivmBy111vgjs7Ke9Ltb1"
     },
     {
       "album": {
@@ -1133,7 +1241,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 237320,
       "name": "Regreso al Origen",
       "url": "https://open.spotify.com/track/2IlUZ4U52jCcE5oRebAnbK"
@@ -1151,7 +1259,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 275831,
       "name": "Riendo y Probando",
       "url": "https://open.spotify.com/track/0Ju0cuhVWes0r60t5iBnh5"
@@ -1169,7 +1277,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 157663,
       "name": "Rio Amarillo",
       "url": "https://open.spotify.com/track/7gCvPhzQ8X9Ooz9OfIvGVn"
@@ -1277,7 +1385,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 184163,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/44ixJpyPZYW5pgwgfTsSaR"
@@ -1295,7 +1403,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 229679,
       "name": "Tal Vez",
       "url": "https://open.spotify.com/track/0G38FsYtQ76qHRsv6PKulj"
@@ -1329,7 +1437,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 147930,
       "name": "Te Vas a Perder",
       "url": "https://open.spotify.com/track/55o3dwIn4noclOPF4kN3ic"
@@ -1365,7 +1473,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 228080,
       "name": "The Call of the Woman (El Llamado de la Hembra)",
       "url": "https://open.spotify.com/track/5xDzHDSJy8kyVrr1WASR0N"
@@ -1401,7 +1509,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 281773,
       "name": "Tiempo Perdido",
       "url": "https://open.spotify.com/track/1PBS2zYINZFFs3Vt8AFfPL"
@@ -1419,7 +1527,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-05",
       "duration_ms": 348446,
       "name": "Todo Va a Cambiar",
       "url": "https://open.spotify.com/track/5HDGih43ec6WSYusNEK20z"
@@ -1437,7 +1545,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 230973,
       "name": "Tommy Lyz",
       "url": "https://open.spotify.com/track/2MWlye2Nga64EmS28igJs7"

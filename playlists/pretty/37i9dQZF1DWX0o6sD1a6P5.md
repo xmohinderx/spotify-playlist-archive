@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > Feel\-good Afropop from Europe and Africa\. Cover: Naza
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,332 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,784 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Baby Lova](https://open.spotify.com/track/1rjormyWJ2VFI8ZSQoPIYl) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [BIG Daddy \(Vol\. 1\)](https://open.spotify.com/album/6pRsl4987qgo0PdJpyjLeI) | 3:13 |
+| 1 | [Baby Lova](https://open.spotify.com/track/1rjormyWJ2VFI8ZSQoPIYl) | [Naza](https://open.spotify.com/artist/6Brd1wRqo7fr6TP8mDMqAP) | [BIG Daddy \(Vol\. 1\)](https://open.spotify.com/album/6pRsl4987qgo0PdJpyjLeI) | 3:13 |
 | 2 | [Finesse](https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx) | 2:31 |
 | 3 | [Buga \(Lo Lo Lo\)](https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Buga \(Lo Lo Lo\)](https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h) | 3:03 |
 | 4 | [Sans effet](https://open.spotify.com/track/53jQtMml7GWHfpQWsR96jy) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Sans effet](https://open.spotify.com/album/5k5Wvbp7XtOKjXibAH3uLO) | 2:40 |

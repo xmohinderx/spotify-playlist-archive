@@ -4,7 +4,7 @@
 
 > Neverland, your queens are here!
 
-68 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/3p3yRo4Iq3n6IVfjNDgnL1)
+70 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/3p3yRo4Iq3n6IVfjNDgnL1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,9 +60,11 @@
 | [Put It Straight](https://open.spotify.com/track/2G0wbwTsTN0HJeQp3BDc4D) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I made](https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG) | 3:56 | 2022-05-22 |  |
 | [Put It Straight \- Nightmare Version](https://open.spotify.com/track/6BheMIaNvX13rcfENmYTww) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Queendom < Box of Pandora > Pt\. 1](https://open.spotify.com/album/7fGaLPPmATwK9Jade24fXC) | 4:16 | 2022-05-22 |  |
 | [Quit](https://open.spotify.com/track/54y2W3EYYsSnyqL1rinbJb) | [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [Windy](https://open.spotify.com/album/1lv92CIVZbB2BsHmIx7qJf) | 3:09 | 2022-05-22 |  |
+| [Saying Hello](https://open.spotify.com/track/0iLX5STkl07zjT4sO8dadX) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/6lkiYHR4LUv13f0yuXSf2D) | 3:59 | 2022-07-04 |  |
 | [Senorita](https://open.spotify.com/track/0q6boCcLaWYPIy2vOsksFg) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I made](https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG) | 3:17 | 2022-05-22 |  |
 | [Show](https://open.spotify.com/track/6rUDyzoRnBanKXvaflVLiA) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Sugar Man 3 투유프로젝트 \- 슈가맨3, EPISODE.8](https://open.spotify.com/album/4hmSr1S0TtDjjHlvE0BREP) | 3:11 | 2022-05-22 |  |
 | [THE BADDEST](https://open.spotify.com/track/2V4Fx72svQRxrFvNT1eq5f) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [THE BADDEST](https://open.spotify.com/album/7C8nskYbHG7N0LDrNVvt7x) | 2:42 | 2022-05-22 |  |
+| [Thief \(Feat\. MINNIE of \(G\)I\-DLE\)](https://open.spotify.com/track/7jSs3iUhwTbo03BTuzmdvY) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:33 | 2022-07-04 |  |
 | [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 | 2022-05-22 |  |
 | [TOMBOY \(R3HAB Remix\)](https://open.spotify.com/track/4y2SshixeFlqPprLmoZtJe) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [TOMBOY \(R3HAB Remix\)](https://open.spotify.com/album/16UgZxoo4YMJIJItRxi7qb) | 2:09 | 2022-05-22 |  |
 | [Tung\-Tung \- Empty](https://open.spotify.com/track/6ogUXnO0F5PJSuWhOHCHd0) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Oh my god](https://open.spotify.com/album/5t9wX15utgPUOZsazbYojz) | 3:49 | 2022-05-22 |  |

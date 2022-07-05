@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Baile No Morro e os funks mais 🔑 do Brasil\. Foto: MC Tairon, Mc Vitin da Igrejinha
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,697,889 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,699,355 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

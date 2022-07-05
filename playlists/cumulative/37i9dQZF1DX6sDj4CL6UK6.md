@@ -4,7 +4,7 @@
 
 > Finest of the Indian English Indie\. Cover \- Raghav Meattle
 
-95 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/4hbRgfKnTzMsI4t17faPau)
+96 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/4hbRgfKnTzMsI4t17faPau)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Pause](https://open.spotify.com/track/5h1L6nOR9QYXeeNW14aeus) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Pause](https://open.spotify.com/album/3vKSAwLbfwXygEiGH1vpvs) | 2:51 | 2022-03-25 |  |
 | [People](https://open.spotify.com/track/0lygeGFALYsTrHXi6yThOK) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [People \- Single](https://open.spotify.com/album/3ltUujzRKci71C5quo9TNS) | 3:08 | 2022-03-25 |  |
 | [Permanent Food](https://open.spotify.com/track/2tt1Q2eYTrMl7fhfPqOGlG) | [Shantanu Pandit](https://open.spotify.com/artist/0s6UCPuypDgqfdqp0bypNG) | [Permanent Food](https://open.spotify.com/album/4mwKW9CZbncuZCitTBQbRc) | 2:34 | 2022-03-25 |  |
+| [Pitch Black Dark](https://open.spotify.com/track/7gQDVDweYE3SaAGZ6oMJqD) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Saazish](https://open.spotify.com/album/7s5dluAxPU6OAT1J8gr8nA) | 1:46 | 2022-07-04 |  |
 | [Pretend](https://open.spotify.com/track/4bnHwImy2mOklzIUIrgt18) | [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW), [Keba Jeremiah](https://open.spotify.com/artist/6DkjwBFBsTAzEo9M5HCI9c) | [Pretend](https://open.spotify.com/album/0mtuUaDFnZtRHzUYnXopOc) | 3:04 | 2022-03-25 | 2022-04-06 |
 | [Quietly](https://open.spotify.com/track/3aJDhov9eiYdUHCVaikyT9) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Quietly](https://open.spotify.com/album/4bkS3W1Ytu01CF01e8ZBFn) | 2:16 | 2022-03-25 |  |
 | [Rain](https://open.spotify.com/track/7smZOvVtWfWZv0sDvSsArS) | [Sanjeev T](https://open.spotify.com/artist/4i3H5BsVTVwxXcWC3CdVPu), [Loud Silence](https://open.spotify.com/artist/7rpgKYrHf6PqwG0ancMOVl) | [Rain](https://open.spotify.com/album/4MGpm1VDPSPqpma5wauPOn) | 3:42 | 2022-03-25 |  |
