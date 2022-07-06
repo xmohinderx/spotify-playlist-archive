@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-709 songs - 1 day 13 hr 28 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
+710 songs - 1 day 13 hr 30 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Creme De La Creme](https://open.spotify.com/track/1beuDJXaekLPtvX1jQe0yx) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Creme De La Creme](https://open.spotify.com/album/3YXiOI3RPhaj41mMCjHl1y) | 2:39 | 2021-04-26 |  |
 | [Cry Your Heart Out](https://open.spotify.com/track/09u787BYeYIGd2mFIJ505t) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 4:15 | 2021-11-21 | 2021-11-26 |
 | [Da det var oss](https://open.spotify.com/track/2mtC4zyp4Dn3GaoGonrWax) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X) | [Da det var oss](https://open.spotify.com/album/5ZNnY5Cmp6mycztZY5HLye) | 3:07 | 2022-01-22 | 2022-02-06 |
-| [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt) | 3:35 | 2022-02-26 |  |
+| [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt) | 3:35 | 2022-02-26 | 2022-07-06 |
 | [Dancing In The Dark \- Live](https://open.spotify.com/track/23IfaTlFcjfs7PZKyXLdjb) | [Jørgen Dahl Moe](https://open.spotify.com/artist/00Ph35PnLLQYLvMnhbizSJ) | [The Voice 2022: Blind Auditions 1 \(Live\)](https://open.spotify.com/album/6zwlsmLRkYWnK3wP6JMHmS) | 2:33 | 2022-01-09 | 2022-01-30 |
 | [Dans På Bordet](https://open.spotify.com/track/2D1QHKW5IBDfn7xBGplNS9) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [David Mokel](https://open.spotify.com/artist/7lGq0g80TaLqM8uT9HLAni) | [Dans På Bordet](https://open.spotify.com/album/71606owUcX3aLa6tyCxOqZ) | 2:23 | 2022-02-11 | 2022-02-19 |
 | [Dans På Bordet](https://open.spotify.com/track/56kyGGwLIVAR30ZFiASn8Q) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [David Mokel](https://open.spotify.com/artist/7lGq0g80TaLqM8uT9HLAni) | [Dans På Bordet](https://open.spotify.com/album/0324AmCGXDbzi4XRgVVc7g) | 2:23 | 2022-02-18 |  |
@@ -226,6 +226,7 @@
 | [Gammel Jegermarsj](https://open.spotify.com/track/7vXIiUiKTw8j6Kct59ZARV) | [HM Kongens Gardes Musikkorps](https://open.spotify.com/artist/1mJCP4lGqdhBUuiHQIlbtr) | [The Olympic Spirit](https://open.spotify.com/album/1VN6DTKb8hk4uKLfwE4MI5) | 2:02 | 2021-05-19 | 2022-05-20 |
 | [Gamora](https://open.spotify.com/track/2Gd0oV24QsH0zb9nKFx7s5) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt), [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Barn av vår tid](https://open.spotify.com/album/1StOdefPDHrQiwQLm3teNm) | 2:45 | 2021-10-23 | 2021-10-31 |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-15 |
+| [Gatebil](https://open.spotify.com/track/0YlfDO5PU8KDmkNOuC4Dpe) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Gatebil](https://open.spotify.com/album/5iFNfypkmE4SFFbcaG84uH) | 2:08 | 2022-07-05 |  |
 | [Get Him Away From Me](https://open.spotify.com/track/19V22p018Mt3sk6I95Xd5E) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Get Him Away From Me](https://open.spotify.com/album/4oa3dUC5H3hAe6moQ6hAY2) | 3:47 | 2022-04-09 | 2022-04-11 |
 | [Getting Older](https://open.spotify.com/track/4HOryCnbme0zBnF8LWij3f) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:04 | 2021-08-01 | 2021-08-07 |
 | [GHOST TOWN](https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [GHOST TOWN](https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP) | 3:13 | 2021-10-19 | 2022-03-27 |

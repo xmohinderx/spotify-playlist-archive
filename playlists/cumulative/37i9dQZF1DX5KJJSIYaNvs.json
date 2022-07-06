@@ -1858,6 +1858,28 @@
     },
     {
       "album": {
+        "name": "Out of Love",
+        "url": "https://open.spotify.com/album/1bv1UnuDeOnL6odVRPJksM"
+      },
+      "artists": [
+        {
+          "name": "Raashi Sood",
+          "url": "https://open.spotify.com/artist/0ZEiDnkNsdY6IXWUjWuBU2"
+        },
+        {
+          "name": "Raja Kumari",
+          "url": "https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197760,
+      "name": "Out of Love",
+      "url": "https://open.spotify.com/track/6x4fJlgsoGqklYyMQN7vLN"
+    },
+    {
+      "album": {
         "name": "Paani Paani",
         "url": "https://open.spotify.com/album/39mClZpOH792zXWppimcBb"
       },

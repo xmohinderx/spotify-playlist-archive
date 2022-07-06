@@ -4,10 +4,11 @@
 
 > Guess who's back? Get into the Inner Circle with us!
 
-53 songs - 3 hr 3 min - [published](https://open.spotify.com/playlist/4yXRq7PeOl3Nvb4y3CkIaE)
+59 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/4yXRq7PeOl3Nvb4y3CkIaE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [10 MIN](https://open.spotify.com/track/16sFJNnpsLNnyuWoYsBGjv) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [HOLIDAY](https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH) | 3:35 | 2022-07-05 |  |
 | [AH YEAH](https://open.spotify.com/track/2WDhYlm5gBepkMZHBk0LN7) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [WE](https://open.spotify.com/album/52epM8aF5xCLAtDwbGPeP2) | 2:56 | 2022-03-14 |  |
 | [AIR](https://open.spotify.com/track/0R4oywOD4wsKOoxnjFUL5y) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [EVERYD4Y](https://open.spotify.com/album/4Mzs97iNgQoPe5ET0Xr4BL) | 3:44 | 2022-03-14 |  |
 | [BABY BABY](https://open.spotify.com/track/5LnFGGk0RS1FNc8bfWyaHS) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [EXIT : E](https://open.spotify.com/album/3b9Tzv22EZaAApyoafYo5Q) | 4:06 | 2022-03-14 |  |
@@ -25,16 +26,20 @@
 | [Empty \(4 ver.\)](https://open.spotify.com/track/6Bygyl5d5Jf7w7RSBHdkOu) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [Remember](https://open.spotify.com/album/5VnB3wqkqy6bcf9eKGTFOo) | 3:40 | 2022-03-14 |  |
 | [EVERYDAY](https://open.spotify.com/track/42rziXmwGA04hNSMi2MliA) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [EVERYD4Y](https://open.spotify.com/album/4Mzs97iNgQoPe5ET0Xr4BL) | 3:26 | 2022-03-14 |  |
 | [EVERYDAY \(REMIX\)](https://open.spotify.com/track/7hGOGkxcAojrklrol5kkU0) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [WE](https://open.spotify.com/album/52epM8aF5xCLAtDwbGPeP2) | 3:20 | 2022-03-14 |  |
+| [FAMILY](https://open.spotify.com/track/3kITvNEXfzdIuT5X5r9lXQ) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [HOLIDAY](https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH) | 3:19 | 2022-07-05 |  |
 | [FIANCÉ](https://open.spotify.com/track/1bZNFcnyCmlnbs337baR0b) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [XX](https://open.spotify.com/album/5YPQbtPGPneFUgZ6UYYPDw) | 3:27 | 2022-03-14 |  |
 | [FIRST LOVE \(2019\)](https://open.spotify.com/track/59asJKj9mAySQhfhbtJGeP) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [WE](https://open.spotify.com/album/52epM8aF5xCLAtDwbGPeP2) | 3:34 | 2022-03-14 |  |
 | [FLAMENCO \(HOONY SOLO\)](https://open.spotify.com/track/1mKkLaUNSlhqhiWhDtcg1Z) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [CROSS](https://open.spotify.com/album/3oDUvgzEoNkQfC0UCWHIPD) | 3:09 | 2022-03-14 |  |
 | [FOOL](https://open.spotify.com/track/2CCyeyaPmGRpVxmRwu3HZo) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [FATE NUMBER FOR](https://open.spotify.com/album/5hmezEZaQ7D0ntBA9J76kb) | 3:41 | 2022-03-14 |  |
 | [Hold](https://open.spotify.com/track/3Gf5UpAW8XA1XMS6CB54KK) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [Remember](https://open.spotify.com/album/5VnB3wqkqy6bcf9eKGTFOo) | 2:56 | 2022-03-14 |  |
+| [HOLIDAY](https://open.spotify.com/track/4tUkszgggTqQ4s2sutt7QW) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [HOLIDAY](https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH) | 3:12 | 2022-07-05 |  |
+| [I LOVE U](https://open.spotify.com/track/02Vb9vfZUmqAKNhQwFjPSZ) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [HOLIDAY](https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH) | 2:56 | 2022-07-05 |  |
 | [I'M YOUNG](https://open.spotify.com/track/6CZN1rzi0UPPebOafqF5jl) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [EXIT : E](https://open.spotify.com/album/3b9Tzv22EZaAApyoafYo5Q) | 3:33 | 2022-03-14 |  |
 | [IMMATURE](https://open.spotify.com/track/4MKADX60Z5h7WAfaDVbTAS) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [EXIT MOVEMENT:E \(JAPAN EDITION\)](https://open.spotify.com/album/6DOmD0SufB8lZ2fQFRV08b) | 3:12 | 2022-03-14 |  |
 | [ISLAND](https://open.spotify.com/track/43Y6XibvJzLJj3GyVQaEFJ) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [OUR TWENTY FOR](https://open.spotify.com/album/3s5LEazLAxgYZSFdG98rHw) | 3:27 | 2022-03-14 |  |
 | [IYAH](https://open.spotify.com/track/3EC9jQuk4yPP3IhKOJvbPw) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:45 | 2022-03-14 |  |
 | [Just dance](https://open.spotify.com/track/1fjqodgVEzZmbCEMha5OnK) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [Remember](https://open.spotify.com/album/5VnB3wqkqy6bcf9eKGTFOo) | 3:20 | 2022-03-14 |  |
+| [LITTLE FINGER](https://open.spotify.com/track/5DH5BqrQXjfTd9I0aEtPAQ) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [HOLIDAY](https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH) | 3:22 | 2022-07-05 |  |
 | [LOVE ME LOVE ME](https://open.spotify.com/track/5hlqtwCuRf3QchUjjw9iua) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [OUR TWENTY FOR](https://open.spotify.com/album/4mvbi1jkr0RaEMA2QucYPv) | 3:37 | 2022-03-14 |  |
 | [MILLIONS](https://open.spotify.com/track/5wIMMlbIGCNAXnGy0ijojN) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [MILLIONS](https://open.spotify.com/album/1qBFnXYzALfwnIvsknOEKK) | 3:28 | 2022-03-14 |  |
 | [MOLA](https://open.spotify.com/track/10GmoyKD8PGcgVoMcVWhwC) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [WE](https://open.spotify.com/album/52epM8aF5xCLAtDwbGPeP2) | 3:54 | 2022-03-14 |  |
@@ -49,6 +54,7 @@
 | [Serenade \(HOONY SOLO\)](https://open.spotify.com/track/0YreoPlXF0g5A1NVu1qB6V) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [Remember](https://open.spotify.com/album/5VnB3wqkqy6bcf9eKGTFOo) | 3:16 | 2022-03-14 |  |
 | [Smile Again](https://open.spotify.com/track/15ACIGQ5IiM8V3rAJZ02l1) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [2014 S/S](https://open.spotify.com/album/0FTxF6n6K9y5P0liEUvB5S) | 3:19 | 2022-03-14 |  |
 | [SOSO](https://open.spotify.com/track/5r8b02M37428Axrmya9Nrv) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [CROSS](https://open.spotify.com/album/3oDUvgzEoNkQfC0UCWHIPD) | 3:18 | 2022-03-14 |  |
+| [SWEET HOME](https://open.spotify.com/track/7F2gGDgHxt4QoxNxUOp9mf) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [HOLIDAY](https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH) | 3:25 | 2022-07-05 |  |
 | [TANG!♡](https://open.spotify.com/track/42wkZTMDrlzWGth9akHF0p) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | ["TO INFINITY."](https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy) | 2:58 | 2022-03-14 |  |
 | [Teaser](https://open.spotify.com/track/7wbH6SrRfMMCSfw1vk37Sd) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [Remember](https://open.spotify.com/album/5VnB3wqkqy6bcf9eKGTFOo) | 3:44 | 2022-03-14 |  |
 | [Well](https://open.spotify.com/track/5ESSZV5aMRC9haiItQDjbK) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [Remember](https://open.spotify.com/album/5VnB3wqkqy6bcf9eKGTFOo) | 3:42 | 2022-03-14 |  |

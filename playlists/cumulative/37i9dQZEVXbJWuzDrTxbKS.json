@@ -2017,7 +2017,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 278281,
       "name": "BREAK MY SOUL",
       "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
@@ -3817,7 +3817,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 236413,
       "name": "Don\u2019t Blame Me",
       "url": "https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE"
@@ -6399,7 +6399,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 192840,
       "name": "I Like You (A Happier Song) (with Doja Cat)",
       "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
@@ -6683,7 +6683,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 212352,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
@@ -8003,7 +8003,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 205208,
       "name": "Lieka \u0160tuka",
       "url": "https://open.spotify.com/track/540XF3v1vZaYRt7JWnCtQQ"
@@ -8655,7 +8655,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 180320,
       "name": "L\u012bgava",
       "url": "https://open.spotify.com/track/3sLSl451Qxl6YQgx2YqJl3"
@@ -9069,10 +9069,28 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 336924,
       "name": "Massive",
       "url": "https://open.spotify.com/track/0oiv4E896TUTTeQU0cmIui"
+    },
+    {
+      "album": {
+        "name": "Master Of Puppets (Remastered)",
+        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515386,
+      "name": "Master Of Puppets",
+      "url": "https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i"
     },
     {
       "album": {
@@ -12121,7 +12139,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 180332,
       "name": "RE3EL",
       "url": "https://open.spotify.com/track/71shfl4y3bZ79pxlnp8Tbo"
@@ -12439,7 +12457,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 172280,
       "name": "Roku Oke\u0101ns",
       "url": "https://open.spotify.com/track/7qfisxNvTUxlD6mvrw8673"
@@ -15735,7 +15753,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 177142,
       "name": "Vid\u0113ji Gl\u012bts",
       "url": "https://open.spotify.com/track/3X5YETzwpxqtnJFiDDacdD"
@@ -16025,7 +16043,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "Watermelon Sugar",
       "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"

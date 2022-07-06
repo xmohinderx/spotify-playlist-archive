@@ -436,6 +436,24 @@
     },
     {
       "album": {
+        "name": "Afraid To Feel",
+        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177524,
+      "name": "Afraid To Feel",
+      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
+    },
+    {
+      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV"
       },
@@ -1717,7 +1735,7 @@
       ],
       "date_added": "2021-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 173283,
       "name": "Bon Gepakt",
       "url": "https://open.spotify.com/track/5fWyEc2ER2kselpeWQ6Yc7"
@@ -6157,7 +6175,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 207999,
       "name": "Ik Ben Kachel",
       "url": "https://open.spotify.com/track/0rEuuYpZ2yWU6ppTJpe9wT"
@@ -13405,6 +13423,28 @@
       "duration_ms": 161053,
       "name": "Worden wat je wil",
       "url": "https://open.spotify.com/track/2HiAppYLP03cXe0i9YzrJr"
+    },
+    {
+      "album": {
+        "name": "Words (feat. Zara Larsson)",
+        "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142677,
+      "name": "Words (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
     },
     {
       "album": {

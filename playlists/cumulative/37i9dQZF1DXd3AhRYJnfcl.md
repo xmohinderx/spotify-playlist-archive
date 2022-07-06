@@ -4,7 +4,7 @@
 
 > أفضل الأغاني المصرية التي لا يمكنك التوقف عن الاستماع اليها الغلاف: روبي
 
-66 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/1xdcB9YfQyjFUOOHCAvmJA)
+67 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/1xdcB9YfQyjFUOOHCAvmJA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,9 +26,10 @@
 | [Fe Makan Ma](https://open.spotify.com/track/3nF4YhL8rIDjYKfPpnzTBS) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Fe Makan Ma](https://open.spotify.com/album/2pGUBaoowc7BvZIye0pob7) | 3:51 | 2022-04-13 |  |
 | [Gamalha Estethnaey](https://open.spotify.com/track/3CYwmM56BETkTSpcr3LEiL) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Gamalha Estethnaey](https://open.spotify.com/album/77LRIbp593ruGyVw5uQRBZ) | 3:07 | 2022-05-13 | 2022-06-15 |
 | [Gaw El Banat](https://open.spotify.com/track/3x99yBuNKv4WwPU7EDqcUH) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx), [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Gaw El Banat](https://open.spotify.com/album/6xsOTVxrDrOYYCW3CSQXTx) | 3:49 | 2022-04-13 | 2022-06-21 |
-| [Hamoot Men Gherha](https://open.spotify.com/track/2W4rmDnrHNGqT2xlsjmEWX) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Hamoot Men Gherha](https://open.spotify.com/album/5QLOcBX3uhpTCzmHJl1Oze) | 3:31 | 2022-04-13 |  |
+| [Hamoot Men Gherha](https://open.spotify.com/track/2W4rmDnrHNGqT2xlsjmEWX) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Hamoot Men Gherha](https://open.spotify.com/album/5QLOcBX3uhpTCzmHJl1Oze) | 3:31 | 2022-04-13 | 2022-07-06 |
 | [Hateshtaou](https://open.spotify.com/track/6NcgWiRX9L2j6w8ZeoIsGG) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Hateshtaou](https://open.spotify.com/album/4w4I8NPdmNrAmdqb4aV3ZM) | 4:35 | 2022-04-13 | 2022-06-29 |
 | [Heya](https://open.spotify.com/track/1FRiynLmE6uEsDayYZflEU) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Heya](https://open.spotify.com/album/24O4GnTk1ns6Ok5g2fwv2v) | 3:59 | 2022-06-07 |  |
+| [Hob Meen](https://open.spotify.com/track/5pz9YaGFn6iV84WC8Xo4Jw) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Hob Meen](https://open.spotify.com/album/5e5OLpxaXSoDHsRTDjdUZw) | 3:41 | 2022-07-05 |  |
 | [Kan Mawdo3](https://open.spotify.com/track/3FJ2RFcLUogTbyt9MGVQoC) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq) | 4:42 | 2022-04-13 |  |
 | [Keify Keda](https://open.spotify.com/track/3yWSjxKQMpa7hXcmVElZgX) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi) | [Keify Keda](https://open.spotify.com/album/2bYcADdJfRTNcKfzPskfkq) | 3:13 | 2022-04-13 |  |
 | [Konty 2olely](https://open.spotify.com/track/49odA1EtwSkPefTEeIwqBx) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Konty 2olely](https://open.spotify.com/album/7ko3njN5mraY8cgakYCmbf) | 2:48 | 2022-04-13 |  |

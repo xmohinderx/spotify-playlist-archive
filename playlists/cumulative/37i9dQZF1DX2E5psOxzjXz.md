@@ -2,7 +2,7 @@
 
 ### [Pakistani Indie 101](https://open.spotify.com/playlist/37i9dQZF1DX2E5psOxzjXz)
 
-> Explore Pakistan's thriving independent scene\. Cover: Taha G
+> Explore Pakistan's thriving independent scene\. Cover: Hasan Raheem, Natasha Noorani
 
 117 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/5gJNqDWvbp9UkUeEjkgqKV)
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,197,659 likes - 100 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,206,013 likes - 100 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

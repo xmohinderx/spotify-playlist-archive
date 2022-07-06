@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > Feel\-good Afropop from Europe and Africa\. Cover: Naza
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,784 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,236 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Baby Lova](https://open.spotify.com/track/1rjormyWJ2VFI8ZSQoPIYl) | [Naza](https://open.spotify.com/artist/6Brd1wRqo7fr6TP8mDMqAP) | [BIG Daddy \(Vol\. 1\)](https://open.spotify.com/album/6pRsl4987qgo0PdJpyjLeI) | 3:13 |
+| 1 | [Baby Lova](https://open.spotify.com/track/1rjormyWJ2VFI8ZSQoPIYl) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [BIG Daddy \(Vol\. 1\)](https://open.spotify.com/album/6pRsl4987qgo0PdJpyjLeI) | 3:13 |
 | 2 | [Finesse](https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx) | 2:31 |
 | 3 | [Buga \(Lo Lo Lo\)](https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Buga \(Lo Lo Lo\)](https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h) | 3:03 |
 | 4 | [Sans effet](https://open.spotify.com/track/53jQtMml7GWHfpQWsR96jy) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Sans effet](https://open.spotify.com/album/5k5Wvbp7XtOKjXibAH3uLO) | 2:40 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 13 | [Encré](https://open.spotify.com/track/2m30nKVYfqHolRkyVLIb8o) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Encré](https://open.spotify.com/album/0VHEZaOVix4WSt0ZHFmgJk) | 3:30 |
 | 14 | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/1mJFFeluclL38IwV264lm9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1) | 2:33 |
 | 15 | [One Time](https://open.spotify.com/track/0PCyd8O4CkIBcJxmDafTxX) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Cullinan](https://open.spotify.com/album/1veIu7aYgSIg5PXEEUdh8U) | 3:09 |
-| 16 | [Maria](https://open.spotify.com/track/6kHUFs2zhLn9XU95U3UTyX) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Silly Walks Discotheque](https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH) | [Maria](https://open.spotify.com/album/52JXwMJ5QOTZBWMCVHq0cy) | 2:33 |
+| 16 | [Maria](https://open.spotify.com/track/6kHUFs2zhLn9XU95U3UTyX) | [Silly Walks Discotheque](https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Maria](https://open.spotify.com/album/52JXwMJ5QOTZBWMCVHq0cy) | 2:33 |
 | 17 | [No Wahala](https://open.spotify.com/track/4vHy2IHzf3EabEa7oMpUZB) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Original Vibe Machine](https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3) | 2:42 |
 | 18 | [Different \(With Majid Jordan\)](https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Different \(With Majid Jordan\)](https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k) | 2:26 |
 | 19 | [TOUT VA BIEN \(feat\. Ninho & Naps\)](https://open.spotify.com/track/6OZwia8loN0aPS0vTvsBjR) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [QUARTIERS NORD](https://open.spotify.com/album/4EGHU1v3qmjchplaPqRWBC) | 3:12 |

@@ -2796,6 +2796,24 @@
     },
     {
       "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/0N16seYtml6g0DXWo9Ff25"
+      },
+      "artists": [
+        {
+          "name": "Leat'eq",
+          "url": "https://open.spotify.com/artist/1iBxtU5394iPOzmot1FDUD"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145655,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/5bOYGAj0x8UaqA9GxELXzi"
+    },
+    {
+      "album": {
         "name": "Superhero In My Sleep",
         "url": "https://open.spotify.com/album/4MJSwyVBS3qwMhaMF0icOb"
       },

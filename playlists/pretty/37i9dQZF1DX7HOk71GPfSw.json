@@ -1,13 +1,29 @@
 {
   "description": "belive the hype Cover: Alice Longyu Gao & Oli Sykes",
-  "num_followers": 334755,
+  "num_followers": 335044,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Njc5NTY0NCwwMDAwMDE3ODAwMDAwMTgxYzBiNzQyNzUwMDAwMDE4MWI1ZjAwYzM4",
+  "snapshot_id": "MTY1NzA2OTc4NywwMDAwMDE3OTAwMDAwMTgxZDEwZTU4YmYwMDAwMDE4MWI1ZjAwYzM4",
   "tracks": [
+    {
+      "added_at": "2022-07-06 01:09:47",
+      "album": {
+        "name": "SWAMP SKONSTER",
+        "url": "https://open.spotify.com/album/1bEHp487UaR4ou9UoH0CCU"
+      },
+      "artists": [
+        {
+          "name": "Skest",
+          "url": "https://open.spotify.com/artist/4ZVIkfQsJU3i77UTRyNf8q"
+        }
+      ],
+      "duration_ms": 74357,
+      "name": "SWAMP SKONSTER",
+      "url": "https://open.spotify.com/track/4c9UuO6PYqP6wMboWvbL5Z"
+    },
     {
       "added_at": "2022-07-01 06:27:00",
       "album": {
@@ -181,26 +197,6 @@
       "url": "https://open.spotify.com/track/2M7V4v4DUaPIlMSrCbB2U3"
     },
     {
-      "added_at": "2022-07-02 21:00:44",
-      "album": {
-        "name": "lucky business",
-        "url": "https://open.spotify.com/album/30FYNvjA6566iCnoE8Gb7n"
-      },
-      "artists": [
-        {
-          "name": "FINLINCE!",
-          "url": "https://open.spotify.com/artist/6QBAsmqSEXHYH3ES6AppN8"
-        },
-        {
-          "name": "d0llywood1",
-          "url": "https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc"
-        }
-      ],
-      "duration_ms": 142567,
-      "name": "lucky business",
-      "url": "https://open.spotify.com/track/4eXOvo8u46jOnAE9qVDbcf"
-    },
-    {
       "added_at": "2022-06-24 04:00:00",
       "album": {
         "name": "none",
@@ -305,22 +301,6 @@
       "url": "https://open.spotify.com/track/1fbcwjzzLTQKlMYxL3kNGb"
     },
     {
-      "added_at": "2022-07-01 06:27:00",
-      "album": {
-        "name": "Crazy Turn",
-        "url": "https://open.spotify.com/album/5PVMfvCg8boFRLOf0NOpmK"
-      },
-      "artists": [
-        {
-          "name": "Yung Skrrt",
-          "url": "https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU"
-        }
-      ],
-      "duration_ms": 127317,
-      "name": "Stupid Crazy",
-      "url": "https://open.spotify.com/track/00odJu934oc0N1IKHu5A0c"
-    },
-    {
       "added_at": "2022-04-29 15:01:20",
       "album": {
         "name": "masquerade",
@@ -335,6 +315,22 @@
       "duration_ms": 144535,
       "name": "masquerade",
       "url": "https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse"
+    },
+    {
+      "added_at": "2022-05-20 06:10:00",
+      "album": {
+        "name": "dopamine",
+        "url": "https://open.spotify.com/album/7zAwmUBWwTIuRfzjcSj07T"
+      },
+      "artists": [
+        {
+          "name": "dwilly",
+          "url": "https://open.spotify.com/artist/3XyvBNwsPBVhCXoYLNNQ84"
+        }
+      ],
+      "duration_ms": 140869,
+      "name": "dopamine",
+      "url": "https://open.spotify.com/track/5C3uNuSKnkDwV2xUqFIiZp"
     },
     {
       "added_at": "2022-06-10 15:02:05",
@@ -375,6 +371,22 @@
     {
       "added_at": "2022-07-01 06:27:00",
       "album": {
+        "name": "sun",
+        "url": "https://open.spotify.com/album/38VnIqFWfQYKsTsjA6TEpZ"
+      },
+      "artists": [
+        {
+          "name": "Braden Ross",
+          "url": "https://open.spotify.com/artist/18VFhPeFzSSbHIagpYXbic"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "sun",
+      "url": "https://open.spotify.com/track/637eyFmoqPHMSuDk7mRYSa"
+    },
+    {
+      "added_at": "2022-07-01 06:27:00",
+      "album": {
         "name": "sellout",
         "url": "https://open.spotify.com/album/4NXkykEZ2yDsCqgr1kAc9O"
       },
@@ -409,6 +421,54 @@
       "url": "https://open.spotify.com/track/6mEMH5rbZ20ffSf4U9Ff37"
     },
     {
+      "added_at": "2022-07-01 06:27:00",
+      "album": {
+        "name": "only1",
+        "url": "https://open.spotify.com/album/6nxeOHmPrLmXn2olKUWTAM"
+      },
+      "artists": [
+        {
+          "name": "meat computer",
+          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
+        }
+      ],
+      "duration_ms": 158550,
+      "name": "only1",
+      "url": "https://open.spotify.com/track/7xtgTLmkVw9MGWlELcAyc4"
+    },
+    {
+      "added_at": "2022-07-01 06:27:00",
+      "album": {
+        "name": "bedroom",
+        "url": "https://open.spotify.com/album/755NEywIEUsh0WHJeq9mBJ"
+      },
+      "artists": [
+        {
+          "name": "poptropicaslutz!",
+          "url": "https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8"
+        }
+      ],
+      "duration_ms": 100012,
+      "name": "bedroom",
+      "url": "https://open.spotify.com/track/4UXPKAbY2EoCWcbN57En0A"
+    },
+    {
+      "added_at": "2022-06-10 15:02:05",
+      "album": {
+        "name": "1000 peaceful ways to die",
+        "url": "https://open.spotify.com/album/3SwpbbkIUGlDo7EKZRaidn"
+      },
+      "artists": [
+        {
+          "name": "poptropicaslutz!",
+          "url": "https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8"
+        }
+      ],
+      "duration_ms": 143237,
+      "name": "1000 peaceful ways to die",
+      "url": "https://open.spotify.com/track/6ztt0XsZe5yGV7Cmo7gXtB"
+    },
+    {
       "added_at": "2022-06-17 07:42:00",
       "album": {
         "name": "honest (Himera Remix)",
@@ -433,20 +493,40 @@
       "url": "https://open.spotify.com/track/2A3pkp45DvDE55Psv8pCK4"
     },
     {
-      "added_at": "2022-05-20 06:10:00",
+      "added_at": "2022-07-01 06:27:00",
       "album": {
-        "name": "dopamine",
-        "url": "https://open.spotify.com/album/7zAwmUBWwTIuRfzjcSj07T"
+        "name": "Crazy Turn",
+        "url": "https://open.spotify.com/album/5PVMfvCg8boFRLOf0NOpmK"
       },
       "artists": [
         {
-          "name": "dwilly",
-          "url": "https://open.spotify.com/artist/3XyvBNwsPBVhCXoYLNNQ84"
+          "name": "Yung Skrrt",
+          "url": "https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU"
         }
       ],
-      "duration_ms": 140869,
-      "name": "dopamine",
-      "url": "https://open.spotify.com/track/5C3uNuSKnkDwV2xUqFIiZp"
+      "duration_ms": 127317,
+      "name": "Stupid Crazy",
+      "url": "https://open.spotify.com/track/00odJu934oc0N1IKHu5A0c"
+    },
+    {
+      "added_at": "2022-07-02 21:00:44",
+      "album": {
+        "name": "lucky business",
+        "url": "https://open.spotify.com/album/30FYNvjA6566iCnoE8Gb7n"
+      },
+      "artists": [
+        {
+          "name": "FINLINCE!",
+          "url": "https://open.spotify.com/artist/6QBAsmqSEXHYH3ES6AppN8"
+        },
+        {
+          "name": "d0llywood1",
+          "url": "https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc"
+        }
+      ],
+      "duration_ms": 142567,
+      "name": "lucky business",
+      "url": "https://open.spotify.com/track/4eXOvo8u46jOnAE9qVDbcf"
     },
     {
       "added_at": "2022-06-10 15:02:05",
@@ -467,54 +547,6 @@
       "duration_ms": 196465,
       "name": "more than life (feat. glaive)",
       "url": "https://open.spotify.com/track/7IRe1bo7Zm0q5Fn9MlNMZM"
-    },
-    {
-      "added_at": "2022-07-01 06:27:00",
-      "album": {
-        "name": "bedroom",
-        "url": "https://open.spotify.com/album/755NEywIEUsh0WHJeq9mBJ"
-      },
-      "artists": [
-        {
-          "name": "poptropicaslutz!",
-          "url": "https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8"
-        }
-      ],
-      "duration_ms": 100012,
-      "name": "bedroom",
-      "url": "https://open.spotify.com/track/4UXPKAbY2EoCWcbN57En0A"
-    },
-    {
-      "added_at": "2022-07-01 06:27:00",
-      "album": {
-        "name": "only1",
-        "url": "https://open.spotify.com/album/6nxeOHmPrLmXn2olKUWTAM"
-      },
-      "artists": [
-        {
-          "name": "meat computer",
-          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
-        }
-      ],
-      "duration_ms": 158550,
-      "name": "only1",
-      "url": "https://open.spotify.com/track/7xtgTLmkVw9MGWlELcAyc4"
-    },
-    {
-      "added_at": "2022-07-01 06:27:00",
-      "album": {
-        "name": "sun",
-        "url": "https://open.spotify.com/album/38VnIqFWfQYKsTsjA6TEpZ"
-      },
-      "artists": [
-        {
-          "name": "Braden Ross",
-          "url": "https://open.spotify.com/artist/18VFhPeFzSSbHIagpYXbic"
-        }
-      ],
-      "duration_ms": 130285,
-      "name": "sun",
-      "url": "https://open.spotify.com/track/637eyFmoqPHMSuDk7mRYSa"
     },
     {
       "added_at": "2022-06-17 07:42:00",
@@ -551,22 +583,6 @@
       "duration_ms": 111627,
       "name": "midwest",
       "url": "https://open.spotify.com/track/1PaXxkVPwqSzg765s8XAsu"
-    },
-    {
-      "added_at": "2022-06-10 15:02:05",
-      "album": {
-        "name": "1000 peaceful ways to die",
-        "url": "https://open.spotify.com/album/3SwpbbkIUGlDo7EKZRaidn"
-      },
-      "artists": [
-        {
-          "name": "poptropicaslutz!",
-          "url": "https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8"
-        }
-      ],
-      "duration_ms": 143237,
-      "name": "1000 peaceful ways to die",
-      "url": "https://open.spotify.com/track/6ztt0XsZe5yGV7Cmo7gXtB"
     },
     {
       "added_at": "2022-06-17 07:42:00",
@@ -675,26 +691,6 @@
       "duration_ms": 224874,
       "name": "Come For Me",
       "url": "https://open.spotify.com/track/1XUdEmAQ1AaFEeocgUEYmU"
-    },
-    {
-      "added_at": "2022-06-10 15:02:05",
-      "album": {
-        "name": "KATANA",
-        "url": "https://open.spotify.com/album/2OldZVEn4zo2B93ncfvlb2"
-      },
-      "artists": [
-        {
-          "name": "quiizzzmeow",
-          "url": "https://open.spotify.com/artist/2znSAMoC2z72k1BNWVMzKW"
-        },
-        {
-          "name": "Midix",
-          "url": "https://open.spotify.com/artist/6Y5o021VaeAm5iRncZhLei"
-        }
-      ],
-      "duration_ms": 131386,
-      "name": "KATANA",
-      "url": "https://open.spotify.com/track/1p1kLISAymJBNLP7Npa6PC"
     },
     {
       "added_at": "2022-06-03 13:00:00",
@@ -987,22 +983,6 @@
       "duration_ms": 144419,
       "name": "glass",
       "url": "https://open.spotify.com/track/3uSzUWPz1uSvPAI9c3RVIA"
-    },
-    {
-      "added_at": "2022-05-27 07:02:00",
-      "album": {
-        "name": "eviscerated",
-        "url": "https://open.spotify.com/album/4oTHxOTiahksFc5u4HZLbL"
-      },
-      "artists": [
-        {
-          "name": "funeral",
-          "url": "https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd"
-        }
-      ],
-      "duration_ms": 122448,
-      "name": "packgotmyeyeslow",
-      "url": "https://open.spotify.com/track/1EHxDbRpmcHF9ZQyNz2sd8"
     },
     {
       "added_at": "2022-05-27 07:02:00",
@@ -1393,22 +1373,6 @@
       "url": "https://open.spotify.com/track/3Wdf1ZrqRDZDXf81KsRpXY"
     },
     {
-      "added_at": "2022-05-27 07:02:00",
-      "album": {
-        "name": "dune",
-        "url": "https://open.spotify.com/album/1dsKxU3rVrWFDDg7PDskV9"
-      },
-      "artists": [
-        {
-          "name": "Planet 1999",
-          "url": "https://open.spotify.com/artist/0aoBUiGI5wrK7DOWJAzAKe"
-        }
-      ],
-      "duration_ms": 149887,
-      "name": "dune",
-      "url": "https://open.spotify.com/track/5m8eFMfMToHYKRoxgJVRfw"
-    },
-    {
       "added_at": "2022-04-29 06:17:00",
       "album": {
         "name": "MISA & LIGHT",
@@ -1507,26 +1471,6 @@
       "duration_ms": 234000,
       "name": "Get What You Want",
       "url": "https://open.spotify.com/track/4P2KpTXbhif8Ca7Cwj97Cs"
-    },
-    {
-      "added_at": "2022-05-27 07:02:00",
-      "album": {
-        "name": "FALLING",
-        "url": "https://open.spotify.com/album/6m2F75Tg6uJjTCS00PwYr1"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "Rxl",
-          "url": "https://open.spotify.com/artist/6Bi1y0jGmBzmeMRGiDjwjm"
-        }
-      ],
-      "duration_ms": 165818,
-      "name": "FALLING",
-      "url": "https://open.spotify.com/track/0YzNxZ9TbNNoj83aVDMEFM"
     },
     {
       "added_at": "2022-05-11 22:18:32",
@@ -1675,22 +1619,6 @@
       "duration_ms": 214944,
       "name": "TROLL ME",
       "url": "https://open.spotify.com/track/2O59SRSok0egHtp3yYo2z4"
-    },
-    {
-      "added_at": "2022-04-29 06:17:00",
-      "album": {
-        "name": "bcn",
-        "url": "https://open.spotify.com/album/7s1LGdUytXlYSaiu12M79C"
-      },
-      "artists": [
-        {
-          "name": "Mixed Matches",
-          "url": "https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34"
-        }
-      ],
-      "duration_ms": 125490,
-      "name": "beneath it all",
-      "url": "https://open.spotify.com/track/3yVplaLT23pTMm9j8RpOIK"
     },
     {
       "added_at": "2022-05-06 06:31:00",
@@ -2083,22 +2011,6 @@
       "duration_ms": 192905,
       "name": "mt fuji",
       "url": "https://open.spotify.com/track/35HGf3Vy2S83VOVE5ST4Gm"
-    },
-    {
-      "added_at": "2022-01-28 05:13:00",
-      "album": {
-        "name": "the fractal song",
-        "url": "https://open.spotify.com/album/3oNbVcy0gsNGvnnJRPL5z6"
-      },
-      "artists": [
-        {
-          "name": "gabby start",
-          "url": "https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9"
-        }
-      ],
-      "duration_ms": 160020,
-      "name": "the fractal song",
-      "url": "https://open.spotify.com/track/7LTJ2alkzEumlU6bPEMm9e"
     },
     {
       "added_at": "2022-05-13 04:17:00",

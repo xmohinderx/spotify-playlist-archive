@@ -1,13 +1,29 @@
 {
   "description": "CHRISSY WAKE UP, I DON'T LIKE THIS",
-  "num_followers": 53433,
+  "num_followers": 54021,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Njk2ODM2OCwwMDAwMDE0YTAwMDAwMTgxY2IwMmNmZmUwMDAwMDE4MWM5MzMxZWQ5",
+  "snapshot_id": "MTY1NzA1NzE2MiwwMDAwMDE0YjAwMDAwMTgxZDA0ZGI2OGIwMDAwMDE4MWM5MzMxZWQ5",
   "tracks": [
+    {
+      "added_at": "2022-07-04 12:39:49",
+      "album": {
+        "name": "Chrissy, Wake Up",
+        "url": "https://open.spotify.com/album/5pTUl9j9aiSHSdWp1gt0jb"
+      },
+      "artists": [
+        {
+          "name": "The Gregory Brothers",
+          "url": "https://open.spotify.com/artist/0V8tQXWkKPD5SxsB2moGew"
+        }
+      ],
+      "duration_ms": 65454,
+      "name": "Chrissy, Wake Up",
+      "url": "https://open.spotify.com/track/6w2pWpwDY4igt0UAtowyAV"
+    },
     {
       "added_at": "2022-05-30 09:04:34",
       "album": {
@@ -41,38 +57,6 @@
       "url": "https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH"
     },
     {
-      "added_at": "2022-07-04 12:39:49",
-      "album": {
-        "name": "Chrissy, Wake Up",
-        "url": "https://open.spotify.com/album/5pTUl9j9aiSHSdWp1gt0jb"
-      },
-      "artists": [
-        {
-          "name": "The Gregory Brothers",
-          "url": "https://open.spotify.com/artist/0V8tQXWkKPD5SxsB2moGew"
-        }
-      ],
-      "duration_ms": 65454,
-      "name": "Chrissy, Wake Up",
-      "url": "https://open.spotify.com/track/6w2pWpwDY4igt0UAtowyAV"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Master Of Puppets (Remastered)",
-        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 515386,
-      "name": "Master Of Puppets",
-      "url": "https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i"
-    },
-    {
       "added_at": "2022-06-12 20:35:06",
       "album": {
         "name": "Blitzkrieg 2022 - Drammen",
@@ -101,6 +85,22 @@
       "url": "https://open.spotify.com/track/4qkchijBTUVzbQt9jbPv9k"
     },
     {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Master Of Puppets (Remastered)",
+        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 515386,
+      "name": "Master Of Puppets",
+      "url": "https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i"
+    },
+    {
       "added_at": "2022-06-23 22:01:00",
       "album": {
         "name": "Breakfast",
@@ -115,6 +115,22 @@
       "duration_ms": 148470,
       "name": "Breakfast",
       "url": "https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0"
+    },
+    {
+      "added_at": "2022-05-19 22:01:00",
+      "album": {
+        "name": "Until I Found You",
+        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "Until I Found You",
+      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
     },
     {
       "added_at": "2022-06-22 14:03:10",
@@ -141,22 +157,6 @@
       "url": "https://open.spotify.com/track/737gzPI5VAmgUGWiJ9yXuu"
     },
     {
-      "added_at": "2022-05-19 22:01:00",
-      "album": {
-        "name": "Until I Found You",
-        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "Until I Found You",
-      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
-    },
-    {
       "added_at": "2022-06-16 22:01:00",
       "album": {
         "name": "Baby Girl",
@@ -171,6 +171,26 @@
       "duration_ms": 111074,
       "name": "Baby Girl",
       "url": "https://open.spotify.com/track/2cSdAkzAf2T4j4aLvx4LLz"
+    },
+    {
+      "added_at": "2022-06-29 10:11:40",
+      "album": {
+        "name": "The Documentary",
+        "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Hate It Or Love It",
+      "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
     },
     {
       "added_at": "2022-06-27 09:13:47",
@@ -205,6 +225,22 @@
       "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
     },
     {
+      "added_at": "2022-06-12 20:35:06",
+      "album": {
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 260893,
+      "name": "Angeleyes",
+      "url": "https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9"
+    },
+    {
       "added_at": "2022-06-16 22:01:00",
       "album": {
         "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
@@ -237,6 +273,22 @@
       "url": "https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE"
     },
     {
+      "added_at": "2022-07-04 14:50:19",
+      "album": {
+        "name": "Glory Days (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "duration_ms": 247840,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/0lUSd7TCG8srh6HpIAEIWL"
+    },
+    {
       "added_at": "2022-06-23 22:01:00",
       "album": {
         "name": "Pass The Dutchie (Sped Up Version)",
@@ -257,26 +309,6 @@
       "url": "https://open.spotify.com/track/2Z4F9imB3AsYjFb22VdvZK"
     },
     {
-      "added_at": "2022-06-29 10:11:40",
-      "album": {
-        "name": "The Documentary",
-        "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
-      },
-      "artists": [
-        {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
-        },
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Hate It Or Love It",
-      "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
-    },
-    {
       "added_at": "2022-06-28 08:18:55",
       "album": {
         "name": "It's Not Me, It's You",
@@ -293,22 +325,6 @@
       "url": "https://open.spotify.com/track/5st5644IlBmKiiRE73UsoZ"
     },
     {
-      "added_at": "2022-06-12 20:35:06",
-      "album": {
-        "name": "Voulez-Vous",
-        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 260893,
-      "name": "Angeleyes",
-      "url": "https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9"
-    },
-    {
       "added_at": "2022-06-16 22:01:00",
       "album": {
         "name": "MISSF\u00d6RST\u00c5TT",
@@ -323,46 +339,6 @@
       "duration_ms": 101692,
       "name": "MISSF\u00d6RST\u00c5TT",
       "url": "https://open.spotify.com/track/4RRNw7trorJaxdJLWDZTZL"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Afraid To Feel",
-        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
-      },
-      "artists": [
-        {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
-        }
-      ],
-      "duration_ms": 177524,
-      "name": "Afraid To Feel",
-      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
-    },
-    {
-      "added_at": "2022-05-19 22:01:00",
-      "album": {
-        "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) [Radio Edit]",
-        "url": "https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 248413,
-      "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit",
-      "url": "https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof"
     },
     {
       "added_at": "2022-06-15 16:05:42",
@@ -429,6 +405,46 @@
       "url": "https://open.spotify.com/track/0mO6oS60RST2sWmN2FKknP"
     },
     {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Afraid To Feel",
+        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 177524,
+      "name": "Afraid To Feel",
+      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
+    },
+    {
+      "added_at": "2022-05-19 22:01:00",
+      "album": {
+        "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) [Radio Edit]",
+        "url": "https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 248413,
+      "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit",
+      "url": "https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof"
+    },
+    {
       "added_at": "2022-07-04 14:50:19",
       "album": {
         "name": "Conceited",
@@ -459,22 +475,6 @@
       "duration_ms": 240653,
       "name": "Feel No Ways",
       "url": "https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP"
-    },
-    {
-      "added_at": "2022-07-04 14:50:19",
-      "album": {
-        "name": "Glory Days (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"
-      },
-      "artists": [
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        }
-      ],
-      "duration_ms": 247840,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/0lUSd7TCG8srh6HpIAEIWL"
     },
     {
       "added_at": "2022-06-01 16:18:06",

@@ -1,15 +1,111 @@
 {
   "description": "The hottest Japanese anime song playlist curated by<a href=\"https://www.lisani.jp/\"> LisAni</a>\uff01 \u30a2\u30cb\u30e1\u97f3\u697d\u30e1\u30c7\u30a3\u30a2\u300c<a href=\"https://www.lisani.jp/\">\u30ea\u30b9\u30a2\u30cb\uff01</a>\u300d\u304c\u8d08\u308b\u6700\u5f37\u306e\u30a2\u30cb\u30bd\u30f3\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3059\u3002\u65b0\u65e7\u306e\u540d\u66f2\u3092\u968f\u6642\u66f4\u65b0\uff01",
-  "num_followers": 2726,
+  "num_followers": 2736,
   "original_name": "\u30ea\u30b9\u30a2\u30cb\uff01\u6700\u5f37\u30a2\u30cb\u30bd\u30f3\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTg2NzI2MiwwMDAwMDAxNzAwMDAwMTgxODk2MTQ2MGYwMDAwMDE4MGFkMzkxNTVm",
+  "snapshot_id": "MTY1NzAxMDI5NywwMDAwMDAxODAwMDAwMTgxY2Q4MjliZTQwMDAwMDE4MGFkMzkxNTVm",
   "tracks": [
     {
-      "added_at": "2022-06-22 03:07:42",
+      "added_at": "2022-07-05 08:38:17",
+      "album": {
+        "name": "retour",
+        "url": "https://open.spotify.com/album/4E81A7gM3qGwAK9cWFgWda"
+      },
+      "artists": [
+        {
+          "name": "Miki Imai",
+          "url": "https://open.spotify.com/artist/64Y8hjY7esLUC8ucjtHYwZ"
+        }
+      ],
+      "duration_ms": 278493,
+      "name": "\u96e8\u306b\u30ad\u30c3\u30b9\u306e\u82b1\u675f\u3092",
+      "url": "https://open.spotify.com/track/4ydvnLC5X6YVibRcjp40j1"
+    },
+    {
+      "added_at": "2022-07-05 08:38:17",
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\"",
+        "url": "https://open.spotify.com/album/6TkXOnmDsPk0Z1ALvzChfG"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "duration_ms": 82920,
+      "name": "euro nerv",
+      "url": "https://open.spotify.com/track/2z9ROEYQ33EcPrLVLFi0ZD"
+    },
+    {
+      "added_at": "2022-07-05 08:38:17",
+      "album": {
+        "name": "\u6c34\u306e\u661f\u3078\u611b\u3092\u3053\u3081\u3066",
+        "url": "https://open.spotify.com/album/51sr6QLv4BNQFokua1xFFB"
+      },
+      "artists": [
+        {
+          "name": "Hiroko Moriguchi",
+          "url": "https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV"
+        }
+      ],
+      "duration_ms": 221666,
+      "name": "\u6c34\u306e\u661f\u3078\u611b\u3092\u3053\u3081\u3066",
+      "url": "https://open.spotify.com/track/49dRdtIMmYGAeMr6hcwKyi"
+    },
+    {
+      "added_at": "2022-07-05 08:38:17",
+      "album": {
+        "name": "\u3072\u3052\u3053\u308c! HIGEDRIVER BEST in KADOKAWA ANISON",
+        "url": "https://open.spotify.com/album/7f6XRbYMJSYFDEuyGZdXl2"
+      },
+      "artists": [
+        {
+          "name": "\u6b4c\u7d44\u96ea\u6708\u82b1",
+          "url": "https://open.spotify.com/artist/26yiuGZXw2gyJhreN6bJMf"
+        }
+      ],
+      "duration_ms": 235632,
+      "name": "\u56de\u30ec!\u96ea\u6708\u82b1",
+      "url": "https://open.spotify.com/track/4WS4FgOG1fOZl1VuD5aeQX"
+    },
+    {
+      "added_at": "2022-07-05 08:38:17",
+      "album": {
+        "name": "\u3059\u3045\u3043~\u3068\u3055\u3044\u304f\u308d\u3093-\u2606\u3044\u3047\u3044\u3063\u2606-",
+        "url": "https://open.spotify.com/album/40UFF2n3AOPoYiogy1Nvi3"
+      },
+      "artists": [
+        {
+          "name": "KOTOKO",
+          "url": "https://open.spotify.com/artist/06F1MiFx0dHLHEPQBIrcr9"
+        }
+      ],
+      "duration_ms": 292040,
+      "name": "\u3055\u304f\u3089\u3093\u307c\u30ad\u30c3\u30b9~\u7206\u767a\u3060\u3082~\u3093~ (2022mix)",
+      "url": "https://open.spotify.com/track/2eDXclH340GEDRaeMNSXNF"
+    },
+    {
+      "added_at": "2022-07-05 08:38:17",
+      "album": {
+        "name": "PRIMALove",
+        "url": "https://open.spotify.com/album/5Qq5eR5DCQczvzzLV7e1LX"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 259653,
+      "name": "PRIMALove",
+      "url": "https://open.spotify.com/track/1IerXr4oVmIAZwFEYtprZN"
+    },
+    {
+      "added_at": "2022-07-05 08:38:17",
       "album": {
         "name": "\u30c1\u30ad\u30c1\u30ad\u30d0\u30f3\u30d0\u30f3",
         "url": "https://open.spotify.com/album/1BWf1vYaM0zNWE6uuFFcvF"
@@ -25,7 +121,7 @@
       "url": "https://open.spotify.com/track/7xm0KJMfeaJQmQdDxAipiY"
     },
     {
-      "added_at": "2022-06-22 03:07:42",
+      "added_at": "2022-07-05 08:38:17",
       "album": {
         "name": "\u30c6\u30ec\u30d3\u30a2\u30cb\u30e1\u300c\u30d1\u30ea\u30d4\u5b54\u660e\u300d\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de\u300c\u6c17\u5206\u4e0a\u3005\u2191\u2191\u300d",
         "url": "https://open.spotify.com/album/4ZHduve9XLSCzgzuAEpo91"
@@ -53,7 +149,7 @@
       "url": "https://open.spotify.com/track/5X9ycYsHdb4XeeKmvZVmMs"
     },
     {
-      "added_at": "2022-06-22 03:07:42",
+      "added_at": "2022-07-05 08:38:17",
       "album": {
         "name": "\u56de\u590f",
         "url": "https://open.spotify.com/album/76zhJ0X2tZPg36SYK9XHgI"
@@ -69,7 +165,7 @@
       "url": "https://open.spotify.com/track/5IW6VmYrOkkn7o6L49AEUD"
     },
     {
-      "added_at": "2022-06-22 03:07:42",
+      "added_at": "2022-07-05 08:38:17",
       "album": {
         "name": "\u306f\u306a\u308c\u306a\u3044\u8ddd\u96e2",
         "url": "https://open.spotify.com/album/0kA9ILc9xJDnoJl3HXiRnH"
@@ -85,7 +181,7 @@
       "url": "https://open.spotify.com/track/0pFaJy4xKLLb7QeAGUhEDF"
     },
     {
-      "added_at": "2022-06-22 03:07:42",
+      "added_at": "2022-07-05 08:38:17",
       "album": {
         "name": "\u30cf\u30cb\u30fc\u30b8\u30a7\u30c3\u30c8\u30b3\u30fc\u30b9\u30bf\u30fc",
         "url": "https://open.spotify.com/album/6PRPWkHY4EfDWMt5mK0jut"
@@ -101,7 +197,7 @@
       "url": "https://open.spotify.com/track/5SucxRQYFHqB2YEPKN35iw"
     },
     {
-      "added_at": "2022-06-22 03:07:42",
+      "added_at": "2022-07-05 08:38:17",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300c\u4e59\u5973\u30b2\u30fc\u4e16\u754c\u306f\u30e2\u30d6\u306b\u53b3\u3057\u3044\u4e16\u754c\u3067\u3059\u300d\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de\u300cselfish\u300d",
         "url": "https://open.spotify.com/album/5Qgz3sULal1qqcknzY8sIa"
@@ -117,7 +213,7 @@
       "url": "https://open.spotify.com/track/7FqpLG92fhZJHB8A9XRqCo"
     },
     {
-      "added_at": "2022-06-22 03:07:42",
+      "added_at": "2022-07-05 08:38:17",
       "album": {
         "name": "Theory of evolution",
         "url": "https://open.spotify.com/album/52h7qsPBTRrpNkmFEbHY7y"
@@ -133,7 +229,7 @@
       "url": "https://open.spotify.com/track/3oSchkfPihmNyKwM5fGXFE"
     },
     {
-      "added_at": "2022-06-22 03:07:42",
+      "added_at": "2022-07-05 08:38:17",
       "album": {
         "name": "\u300c\u6708\u8a60\u300d\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de Neko Mimi Mode",
         "url": "https://open.spotify.com/album/10nFYGCAGH5gXxbR4SIoq4"
@@ -149,7 +245,7 @@
       "url": "https://open.spotify.com/track/5K81bTCBqBANmYANxh3tsE"
     },
     {
-      "added_at": "2022-06-22 03:07:42",
+      "added_at": "2022-07-05 08:38:17",
       "album": {
         "name": "Sunny Side Story",
         "url": "https://open.spotify.com/album/56takW3ZriHntrUx5n7NYj"
@@ -165,7 +261,7 @@
       "url": "https://open.spotify.com/track/1COAlDjRh3XW8yAB8UN929"
     },
     {
-      "added_at": "2022-06-22 03:07:42",
+      "added_at": "2022-07-05 08:38:17",
       "album": {
         "name": "Dill",
         "url": "https://open.spotify.com/album/5DJzos9EXFstPvAjFSHgkj"
@@ -181,7 +277,7 @@
       "url": "https://open.spotify.com/track/53xS6BAEamt3IqJXOJGwqH"
     },
     {
-      "added_at": "2022-06-22 03:07:42",
+      "added_at": "2022-07-05 08:38:17",
       "album": {
         "name": "\u30b3\u30f3\u30dd\u30b8\u30c3\u30c8",
         "url": "https://open.spotify.com/album/7c13AoYp8d1co832E46kqU"
@@ -197,7 +293,7 @@
       "url": "https://open.spotify.com/track/7vLhWWw6MnDKN8qe9WNMp9"
     },
     {
-      "added_at": "2022-06-22 03:07:42",
+      "added_at": "2022-07-05 08:38:17",
       "album": {
         "name": "Letters to U",
         "url": "https://open.spotify.com/album/4ATTPvYUUlWFj4f4UDfCXZ"
@@ -213,7 +309,7 @@
       "url": "https://open.spotify.com/track/4G6HSfbcTTGXgjiBZodMgx"
     },
     {
-      "added_at": "2022-06-22 03:07:42",
+      "added_at": "2022-07-05 08:38:17",
       "album": {
         "name": "Good mood",
         "url": "https://open.spotify.com/album/6zvFWzaDQzIr7cQVOOBhTW"
@@ -229,7 +325,7 @@
       "url": "https://open.spotify.com/track/2nB5UUWUMqHLRrsOR42KA8"
     },
     {
-      "added_at": "2022-06-22 03:07:42",
+      "added_at": "2022-07-05 08:38:17",
       "album": {
         "name": "THE BEST OF WINO - Volume 1",
         "url": "https://open.spotify.com/album/315dT0izR7lHaVTZyrPrJI"
@@ -245,7 +341,7 @@
       "url": "https://open.spotify.com/track/4gTqkjp6ItiOwNTr5sqirn"
     },
     {
-      "added_at": "2022-06-22 03:07:42",
+      "added_at": "2022-07-05 08:38:17",
       "album": {
         "name": "\u79d8\u5bc6",
         "url": "https://open.spotify.com/album/5rPBIsN8uSoOWTgTB4jQSC"
@@ -261,7 +357,7 @@
       "url": "https://open.spotify.com/track/7GYaGCgFlBvFiDjGl1XIjE"
     },
     {
-      "added_at": "2022-06-22 03:07:42",
+      "added_at": "2022-07-05 08:38:17",
       "album": {
         "name": "\u30a4\u30f3\u30e2\u30e9\u30ea\u30b9\u30c8",
         "url": "https://open.spotify.com/album/7bpk8rcuTc2IvrYzv4v7rK"
@@ -277,7 +373,7 @@
       "url": "https://open.spotify.com/track/7tr1dBlrKE0OdlfEeFJ63d"
     },
     {
-      "added_at": "2022-06-22 03:07:42",
+      "added_at": "2022-07-05 08:38:17",
       "album": {
         "name": "Love Destiny",
         "url": "https://open.spotify.com/album/09wFdGA9QATYbr1yBH7YEL"
@@ -293,7 +389,7 @@
       "url": "https://open.spotify.com/track/14GCPjb7YH4BDvhF0DrvV5"
     },
     {
-      "added_at": "2022-06-22 03:07:42",
+      "added_at": "2022-07-05 08:38:17",
       "album": {
         "name": "\u30d0\u30cb\u30e9\u30bd\u30eb\u30c8",
         "url": "https://open.spotify.com/album/7mSd3Znxp6sJbcLGULrels"
@@ -309,7 +405,7 @@
       "url": "https://open.spotify.com/track/7eBPq16CDusCJSYhwAhKSl"
     },
     {
-      "added_at": "2022-06-22 03:07:42",
+      "added_at": "2022-07-05 08:38:17",
       "album": {
         "name": "\u300c\u5287\u5834\u7248\u30de\u30af\u30ed\u30b9\u0394 \u7d76\u5bfeLIVE!!!!!!\u300d\u30dc\u30fc\u30ab\u30eb\u30bd\u30f3\u30b0\u96c6 Walkure Reborn!",
         "url": "https://open.spotify.com/album/3wfTU8Js8OdQI2DMJ9ebxz"
@@ -325,7 +421,7 @@
       "url": "https://open.spotify.com/track/3Nkp8RIrp2l0zPzeORyGbn"
     },
     {
-      "added_at": "2022-06-22 03:07:42",
+      "added_at": "2022-07-05 08:38:17",
       "album": {
         "name": "\u30d1\u30b9\u30bf",
         "url": "https://open.spotify.com/album/4lapf8YQ5b9tB8q3DktYQf"
@@ -341,7 +437,7 @@
       "url": "https://open.spotify.com/track/15CavDRpPAm3CUEbo4NJAJ"
     },
     {
-      "added_at": "2022-06-22 03:07:42",
+      "added_at": "2022-07-05 08:38:17",
       "album": {
         "name": "Re-sublimity",
         "url": "https://open.spotify.com/album/2kLMoZ0wM01Xwn7tToW4JR"
@@ -357,7 +453,7 @@
       "url": "https://open.spotify.com/track/5ZBVGPIBgqjfJmzsd0IyP7"
     },
     {
-      "added_at": "2022-06-22 03:07:42",
+      "added_at": "2022-07-05 08:38:17",
       "album": {
         "name": "\u899a\u3048\u3066\u3066\u3044\u3044\u3088/DuDi DuWa*lalala",
         "url": "https://open.spotify.com/album/0rvvFZpsVFQls7ydPZyN9C"
@@ -373,7 +469,7 @@
       "url": "https://open.spotify.com/track/2kQA3NvTdYakZDF0Ev2UIN"
     },
     {
-      "added_at": "2022-06-22 03:07:42",
+      "added_at": "2022-07-05 08:38:17",
       "album": {
         "name": "STONE OCEAN",
         "url": "https://open.spotify.com/album/1sbyyG5uTdaWHxcr8s85iv"
@@ -389,7 +485,7 @@
       "url": "https://open.spotify.com/track/538rTRGRJqV1L0P8DiSN4V"
     },
     {
-      "added_at": "2022-06-22 03:07:42",
+      "added_at": "2022-07-05 08:38:17",
       "album": {
         "name": "\u300c\u30aa\u30fc\u30cf\u3099\u30fc\u30de\u30f3 \u30ad\u30f3\u30af\u3099\u30b1\u3099\u30a4\u30ca\u30fc\u300d\u30aa\u30fc\u30d5\u309a\u30cb\u30f3\u30af\u3099\u30c6\u30fc\u30de \u30ad\u30f3\u30af\u3099\u30b1\u3099\u30a4\u30ca\u30fc\u30fb\u30aa\u30fc\u30cf\u3099\u30fc!/\u30a8\u30f3\u30c6\u3099\u30a3\u30f3\u30af\u3099\u30c6\u30fc\u30de Can you feel my soul",
         "url": "https://open.spotify.com/album/5TrrFoMK3XB1Y3wkfcwzGV"
@@ -405,7 +501,7 @@
       "url": "https://open.spotify.com/track/2ys79nYrXeyJ7Q8kdHftUY"
     },
     {
-      "added_at": "2022-06-22 03:07:42",
+      "added_at": "2022-07-05 08:38:17",
       "album": {
         "name": "\u30df\u30b9\u30bf\u30fc\u5473\u3063\u5b50 \u6e80\u8179\u5b9a\u98df (\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/3L4NLZL1Fa9C29RoKKmfla"
@@ -421,7 +517,7 @@
       "url": "https://open.spotify.com/track/1fbLn7jZlbZnmqgYAsUqEa"
     },
     {
-      "added_at": "2022-06-22 03:07:42",
+      "added_at": "2022-07-05 08:38:17",
       "album": {
         "name": "only my railgun",
         "url": "https://open.spotify.com/album/6oxGBR7M0cQ3IhQMJrMRVl"
@@ -437,7 +533,7 @@
       "url": "https://open.spotify.com/track/0djCH6HbCN3cFzNkKd46yv"
     },
     {
-      "added_at": "2022-06-22 03:07:42",
+      "added_at": "2022-07-05 08:38:17",
       "album": {
         "name": "Fantastic Magic",
         "url": "https://open.spotify.com/album/1jLua47U6YKYY4GyktVbBb"
@@ -453,7 +549,7 @@
       "url": "https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1"
     },
     {
-      "added_at": "2022-06-22 03:07:42",
+      "added_at": "2022-07-05 08:38:17",
       "album": {
         "name": "\u6b4c\u7269\u8a9e Special Edition",
         "url": "https://open.spotify.com/album/4I2D6p4gmTWaisIklhyPyv"
@@ -469,7 +565,7 @@
       "url": "https://open.spotify.com/track/7l3eyDvvjQxLI5ChGGnkgB"
     },
     {
-      "added_at": "2022-06-22 03:07:42",
+      "added_at": "2022-07-05 08:38:17",
       "album": {
         "name": "GO! GO! MANIAC",
         "url": "https://open.spotify.com/album/0t5SvO8PbUct9yZLE38Fbl"
@@ -485,7 +581,7 @@
       "url": "https://open.spotify.com/track/1wstHd1OmAsH1Sy9qcPhrk"
     },
     {
-      "added_at": "2022-06-22 03:07:42",
+      "added_at": "2022-07-05 08:38:17",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300c\u8718\u86db\u3067\u3059\u304c\u3001\u306a\u306b\u304b?\u300d\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de\u300c\u304c\u3093\u3070\u308c!\u8718\u86db\u5b50\u3055\u3093\u306e\u30c6\u30fc\u30de\u300d",
         "url": "https://open.spotify.com/album/4QRo0XAo5CzhsxV8CgWWog"
@@ -501,7 +597,7 @@
       "url": "https://open.spotify.com/track/4FzKIReOW4OTPZT9c2e1KH"
     },
     {
-      "added_at": "2022-06-22 03:07:42",
+      "added_at": "2022-07-05 08:38:17",
       "album": {
         "name": "Os-\u5b87\u5b99\u4eba",
         "url": "https://open.spotify.com/album/53YWZArR1MqUYd4OXLkujy"
@@ -517,7 +613,7 @@
       "url": "https://open.spotify.com/track/7HsV5OfoVNXrGuut2ajhl7"
     },
     {
-      "added_at": "2022-06-22 03:07:42",
+      "added_at": "2022-07-05 08:38:17",
       "album": {
         "name": "\u30e1\u30cb\u30e1\u30cb\u30de\u30cb\u30de\u30cb",
         "url": "https://open.spotify.com/album/0OflLmwcweeJ90j3qShjth"

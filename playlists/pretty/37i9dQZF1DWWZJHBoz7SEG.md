@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡J Balvin y Ryan Castro; Zion & Lennox y Maria Becerra; Cardi B, Kanye West y Lil Durk; Santa Fe Klan; y más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 706,525 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 706,569 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

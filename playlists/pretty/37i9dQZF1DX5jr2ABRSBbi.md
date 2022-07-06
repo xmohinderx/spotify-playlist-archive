@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Ženy v plné síle\. Poslouchej EQUAL CZ&SK\. Cover: Sima
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,548 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,554 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

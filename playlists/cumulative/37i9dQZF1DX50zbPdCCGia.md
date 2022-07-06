@@ -4,7 +4,7 @@
 
 > The best soft rock from the 1970s.
 
-133 songs - 9 hr 15 min - [published](https://open.spotify.com/playlist/1IgZ8KwdjzVpSHJdp9dx2F)
+134 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/1IgZ8KwdjzVpSHJdp9dx2F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Cat's in the Cradle](https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD) | [Harry Chapin](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) | [Verities & Balderdash](https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT) | 3:42 | 2021-11-23 |  |
 | [Clair](https://open.spotify.com/track/3nNRv9xS4ni6XvU4U7iY4o) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Back to Front \(Deluxe Edition\)](https://open.spotify.com/album/7EZeSlS7lupfVVaZXGXVUs) | 3:02 | 2021-11-23 |  |
 | [Crazy Love](https://open.spotify.com/track/4l6uTQ4A2eWZrOzjgm1bey) | [Poco](https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR) | [Legend](https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi) | 2:56 | 2021-11-23 |  |
-| [Crystal Ball](https://open.spotify.com/track/7ETHRr9BsppwaOheN4vJkH) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Crystal Ball](https://open.spotify.com/album/4K4RkjenqNrAmZFLOsA0ul) | 4:34 | 2021-11-23 |  |
+| [Crystal Ball](https://open.spotify.com/track/7ETHRr9BsppwaOheN4vJkH) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Crystal Ball](https://open.spotify.com/album/4K4RkjenqNrAmZFLOsA0ul) | 4:34 | 2021-11-23 | 2022-07-06 |
 | [Dance with Me](https://open.spotify.com/track/3D0fUBloGwPcLGLyheGWXu) | [Orleans](https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c) | [The Essentials: Orleans](https://open.spotify.com/album/3b3CBmEMZKC4ugmcM2iPc6) | 3:00 | 2021-11-23 |  |
 | [Daniel](https://open.spotify.com/track/1BvJmtaXsqtH438BcDPeBb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 3:54 | 2021-11-23 |  |
 | [Deacon Blues](https://open.spotify.com/track/61AK5ICbKk20h1dFS3mXuu) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa) | 7:36 | 2021-11-23 |  |
@@ -65,6 +65,7 @@
 | [Isn't It A Pity \- Session Outtakes And Jams / Take 27](https://open.spotify.com/track/5Okjy6xlIGoHmdfiYCjVl9) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Isn't It A Pity/All Things Must Pass/Cosmic Empire /Run Of The Mill](https://open.spotify.com/album/0XYu51u65pNPZJr2RQd52o) | 4:59 | 2021-11-23 |  |
 | [Jealous Guy \- Remastered 2010](https://open.spotify.com/track/3D9iV6cYkYJRAPFO6DRKIE) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 4:17 | 2021-11-23 |  |
 | [Junk \- Remastered 2011](https://open.spotify.com/track/4zkVFDUVmZpib8E1z4c4Sa) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney](https://open.spotify.com/album/24lX0YfUlQfqb2T2GioLji) | 1:55 | 2021-11-23 |  |
+| [Just a Song Before I Go](https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [CSN](https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx) | 2:13 | 2022-07-05 |  |
 | [Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Pat Garrett & Billy The Kid \(Soundtrack From The Motion Picture\)](https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL) | 2:29 | 2021-11-23 |  |
 | [Lady](https://open.spotify.com/track/0nPE9ko1pKiKDzuDcC0b40) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Greatest Hits](https://open.spotify.com/album/5OajcRNtdKugFqYgIsEkRY) | 4:54 | 2021-11-23 |  |
 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 | 2021-11-23 |  |
@@ -84,7 +85,7 @@
 | [Mull Of Kintyre](https://open.spotify.com/track/24RwOcKkC0hdiN1j3zjN1E) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Wings Greatest](https://open.spotify.com/album/3ukVviHMHQj6H1tMjRjrY5) | 4:46 | 2021-11-23 |  |
 | [My Love \- 2018 Remaster](https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Red Rose Speedway](https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD) | 4:07 | 2021-11-23 |  |
 | [My Own Space](https://open.spotify.com/track/6trxmIB7QC2eQqWMMLgFrJ) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Book Of Dreams](https://open.spotify.com/album/36G9sqbDXXbE7Mv9GTDMXd) | 3:04 | 2021-11-23 | 2022-06-15 |
-| [Name Of The Game \- Remastered 2010](https://open.spotify.com/track/2Z7c7algNrJeVyYWNH1HYw) | [Badfinger](https://open.spotify.com/artist/4pJCawaKSZ40EnxN0YEYw3) | [Straight Up \(Remastered 2010 / Deluxe Edition\)](https://open.spotify.com/album/0BWOueFZKxQrQWNRt20Lvc) | 5:21 | 2021-11-23 |  |
+| [Name Of The Game \- Remastered 2010](https://open.spotify.com/track/2Z7c7algNrJeVyYWNH1HYw) | [Badfinger](https://open.spotify.com/artist/4pJCawaKSZ40EnxN0YEYw3) | [Straight Up \(Remastered 2010 / Deluxe Edition\)](https://open.spotify.com/album/0BWOueFZKxQrQWNRt20Lvc) | 5:21 | 2021-11-23 | 2022-07-06 |
 | [New Age \- Full Length Version; 2015 Remaster](https://open.spotify.com/track/5HsAR5wajzn4JideTD4SXs) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [Loaded: Re\-Loaded 45th Anniversary Edition](https://open.spotify.com/album/2ny1rPsLOoKNFZhMLubMrs) | 5:10 | 2021-11-23 | 2022-07-04 |
 | [New Kid in Town \- 2013 Remaster](https://open.spotify.com/track/6Zyz8lsnMFpIrCTuvGurCB) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 5:04 | 2021-11-23 |  |
 | [Oh! Sweet Nuthin' \- 2015 Remaster](https://open.spotify.com/track/0i19MAZbyn8uTir7FprXId) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [Loaded: Re\-Loaded 45th Anniversary Edition](https://open.spotify.com/album/2ny1rPsLOoKNFZhMLubMrs) | 7:25 | 2021-11-23 |  |
@@ -92,7 +93,7 @@
 | [One of These Nights \- 2013 Remaster](https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 4:51 | 2021-11-23 |  |
 | [Over & Over \- 2015 Remaster](https://open.spotify.com/track/3veVpUKmRXIbk6crRnGQaU) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(Deluxe Edition\)](https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn) | 4:34 | 2021-11-23 |  |
 | [Parisienne Walkways](https://open.spotify.com/track/6z4VNjyxLfRXRx23gzl51x) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j), [Phil Lynott](https://open.spotify.com/artist/7yVrX2XZQ8eaRiD1ykz0H7) | [Back On The Streets \(Expanded Edition\)](https://open.spotify.com/album/4MhYmImJG6tKPgzRHxFfUm) | 3:20 | 2021-11-23 |  |
-| [Peaches And Diesel](https://open.spotify.com/track/1oBZT44CuJVYiQhRRA0eXK) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary](https://open.spotify.com/album/0GBrlPh90D25SQ6EJu4VtT) | 4:50 | 2022-01-10 | 2022-07-05 |
+| [Peaches And Diesel](https://open.spotify.com/track/1oBZT44CuJVYiQhRRA0eXK) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary](https://open.spotify.com/album/0GBrlPh90D25SQ6EJu4VtT) | 4:50 | 2022-01-10 |  |
 | [Rhiannon](https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 4:12 | 2021-11-23 |  |
 | [Rich Girl](https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Bigger Than Both Of Us](https://open.spotify.com/album/5TNzBp7QYsXIHrI5xxVuic) | 2:22 | 2021-11-23 |  |
 | [Right Down the Line](https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [City to City](https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf) | 4:27 | 2022-01-24 |  |

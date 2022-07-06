@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: Davy Flowers
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,971 likes - 99 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,087 likes - 99 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

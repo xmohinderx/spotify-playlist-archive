@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Jiya Noina, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,839 likes - 80 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,873 likes - 80 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Entre peinados, maquillajes y vestimentas exóticas, la estética dominó la escena musical de los años ’80\. Foto:<a href="spotify:user:spotify:playlist:37i9dQZF1DWThxX36B17XL"> Soda Stereo</a>
 
-56 songs - 3 hr 43 min - not published yet
+57 songs - 3 hr 48 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Ella Vendrá \- Remastered](https://open.spotify.com/track/7Gl2RyA6Vn4KdgpacprbUg) | [Don Cornelio Y La Zona](https://open.spotify.com/artist/1wELOF6Lb5TckxS5EiiQZe) | [Don Cornelio y La Zona](https://open.spotify.com/album/0mgoxCZiBu6HPvv9Dk4wNz) | 4:11 | 2020-03-16 |  |
 | [Es Por Amor](https://open.spotify.com/track/1DpthWlF7iOTKyYmCoiRTF) | [GIT](https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM) | [Serie Oro](https://open.spotify.com/album/0aXK8sy0G5vjNlXNlVaNc9) | 5:14 | 2020-03-16 |  |
 | [Estallando Desde el Océano](https://open.spotify.com/track/5RbnGNeNihQW1OMSogPpZ4) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [Obras Cumbres](https://open.spotify.com/album/4PJLMwI0oUtDRTT8auZoaP) | 3:33 | 2020-03-16 |  |
-| [Exhibición Condicionada \- Remastered 2017](https://open.spotify.com/track/1CJjSh11qRfVtlu291T8LO) | [Graffiti](https://open.spotify.com/artist/2ZgRrMPrfyF09AxK77ERBj) | [Exhibición Condicionada \(Remastered 2017\)](https://open.spotify.com/album/1fmO6qMzdt1euO1OI5WM0o) | 3:58 | 2020-03-16 |  |
+| [Exhibición Condicionada \- Remastered 2017](https://open.spotify.com/track/1CJjSh11qRfVtlu291T8LO) | [Graffiti](https://open.spotify.com/artist/2ZgRrMPrfyF09AxK77ERBj) | [Exhibición Condicionada \(Remastered 2017\)](https://open.spotify.com/album/1fmO6qMzdt1euO1OI5WM0o) | 3:58 | 2020-03-16 | 2022-07-06 |
 | [Extraño Ser](https://open.spotify.com/track/2P2eKFKQxDQcidLcZik3kq) | [Man Ray](https://open.spotify.com/artist/6m2iYPwsqzgxxIPhWDPjvm) | [Man Ray](https://open.spotify.com/album/3DbogDWbVBtPTcRpJzwsYX) | 3:34 | 2020-03-16 |  |
 | [Hablando a Tu Corazón](https://open.spotify.com/track/3k9dGCm2R2Y70e87aMHYC3) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [García 87/93](https://open.spotify.com/album/7yNFDuCsXe2P0DSenIMKxk) | 4:15 | 2020-03-16 |  |
 | [Himno De Mi Corazón](https://open.spotify.com/track/2kIhana7Cw57qXztsUb7NN) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [Himno De Mi Corazon](https://open.spotify.com/album/2oo9stWQLNM4eb5JCSoXGC) | 5:04 | 2020-03-16 |  |
@@ -48,7 +48,7 @@
 | [Mi Novia Se Cayó en un Pozo Ciego \- Remasterizado 2008](https://open.spotify.com/track/38inVmG6skP7NI1CkyVZ7s) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Yo Te Avisé](https://open.spotify.com/album/2DJSgXqWhU2iJT2hPP2HCu) | 3:57 | 2020-03-16 |  |
 | [Mil Horas](https://open.spotify.com/track/6sBgH04G1edCBg7eC8rIdl) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [El Album](https://open.spotify.com/album/70FoBmf360HzSTX2K1a4Ds) | 2:47 | 2020-03-16 |  |
 | [Mundo Agradable](https://open.spotify.com/track/1zMSZbxk4dDAHxBS5V07KT) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Seru Giran 92](https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4) | 4:11 | 2020-03-16 |  |
-| [Nada que perder](https://open.spotify.com/track/6UlD0JgjMvVXGB4J61w6hW) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [El Ritual De La Banana / Los Pericos](https://open.spotify.com/album/6sN1L8SbguregFdB6slLWU) | 3:31 | 2020-03-16 | 2022-07-05 |
+| [Nada que perder](https://open.spotify.com/track/6UlD0JgjMvVXGB4J61w6hW) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [El Ritual De La Banana / Los Pericos](https://open.spotify.com/album/6sN1L8SbguregFdB6slLWU) | 3:31 | 2020-03-16 |  |
 | [No Me Dejan Salir](https://open.spotify.com/track/1D4tG72gv14PUOULq956MC) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Clics Modernos](https://open.spotify.com/album/096OFfKPOmDcri7OsQkEga) | 4:23 | 2020-03-16 |  |
 | [Nos Siguen Pegando Abajo](https://open.spotify.com/track/5yCLtExDoFHmzYPdLk7X2s) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [El Álbum](https://open.spotify.com/album/6nmJx7fEnrsBfZXx80zYya) | 3:28 | 2020-03-16 |  |
 | [Pensé Que Se Trataba De Cieguitos](https://open.spotify.com/track/4vTjD2aIaRySj7tVo70w4D) | [Los Twist](https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn) | [La Dicha En Movimiento](https://open.spotify.com/album/0JHPihaWP6y9O28ILSY8Jo) | 2:20 | 2020-03-16 |  |
@@ -60,9 +60,10 @@
 | [Ricardo Ruben](https://open.spotify.com/track/0vLaSLUZKz7piNFTTtXRy8) | [Los Twist](https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn) | [Serie De Oro](https://open.spotify.com/album/6VuaLtxKsfIEUz98Od2Aoc) | 3:23 | 2020-03-16 |  |
 | [Sin Gamulán](https://open.spotify.com/track/0XYQ2iZKwBWmO0cs86fx9j) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [Abuelos 1982 / 1987](https://open.spotify.com/album/5wOUXzZWvXZUGk1SfMOenf) | 3:12 | 2020-03-16 |  |
 | [Sólo Dame Un Poco](https://open.spotify.com/track/1Xfftlvik7GpI2mg9yn2jN) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Fabiana Cantilo y Los Perros Calientes \(Remastered\)](https://open.spotify.com/album/3oa1nnrWDy6CfdZx7VooQt) | 3:24 | 2020-03-16 |  |
+| [Varias Horas Soñando](https://open.spotify.com/track/3ZPt1cQUUdaplow6lqXirs) | [Identikit](https://open.spotify.com/artist/5v4okqoEFb82y0x5WnJg5i) | [Identikit](https://open.spotify.com/album/4QW2T17PbPWQUAG6A2vMjy) | 4:35 | 2020-03-16 |  |
 | [Vasos Vacíos \- Remasterizado 2008](https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El Ritmo Mundial](https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh) | 4:39 | 2020-03-16 |  |
 | [Viajando Hacia el Este](https://open.spotify.com/track/30hedgQCyR9YG9VIuf970W) | [Sobrecarga](https://open.spotify.com/artist/49UpIRD1s5bMEhbYYTnqUD) | [Sentidos Congelados](https://open.spotify.com/album/0wXerl0nWKYZYAaMj18oVQ) | 4:41 | 2020-03-16 | 2022-07-05 |
-| [Vía México](https://open.spotify.com/track/0fSeOXEDSRDlImjW2Cqkt5) | [Suéter](https://open.spotify.com/artist/6YbPwijYI1KH2v4aPzAORT) | [Completo](https://open.spotify.com/album/1kzbderno6TMQbGXYGLbtx) | 3:32 | 2020-03-16 |  |
+| [Vía México](https://open.spotify.com/track/0fSeOXEDSRDlImjW2Cqkt5) | [Suéter](https://open.spotify.com/artist/6YbPwijYI1KH2v4aPzAORT) | [Completo](https://open.spotify.com/album/1kzbderno6TMQbGXYGLbtx) | 3:32 | 2020-03-16 | 2022-07-06 |
 | [Wadu Wadu](https://open.spotify.com/track/76ibxRco0AGhgavIY4zSRh) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Wadu Wadu](https://open.spotify.com/album/54YcSxxN3pAX3HZtNclEsU) | 2:36 | 2020-03-16 |  |
 
 \*This playlist was first scraped on 2022-06-30. Prior content cannot be recovered.

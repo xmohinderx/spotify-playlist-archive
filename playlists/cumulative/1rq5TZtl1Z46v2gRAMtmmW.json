@@ -436,6 +436,24 @@
     },
     {
       "album": {
+        "name": "Incredibly Annoying",
+        "url": "https://open.spotify.com/album/2EHzdOCliBlaKJWTJ7A8li"
+      },
+      "artists": [
+        {
+          "name": "VTSS",
+          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134523,
+      "name": "Incredibly Annoying",
+      "url": "https://open.spotify.com/track/7iHetqDyri7aXIyl69QqHG"
+    },
+    {
+      "album": {
         "name": "Infinite Window",
         "url": "https://open.spotify.com/album/7nUDFp7PYZGbXD6FFkhKB2"
       },
@@ -501,7 +519,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 303940,
       "name": "Life In A Mind",
       "url": "https://open.spotify.com/track/4JVF59QcAnw65v74ZK4DW2"
@@ -627,7 +645,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 383899,
       "name": "Music To Heal To",
       "url": "https://open.spotify.com/track/2KvkzuYVnHaGEYbY5gfF8R"

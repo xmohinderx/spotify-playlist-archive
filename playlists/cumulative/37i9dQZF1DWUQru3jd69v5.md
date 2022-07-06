@@ -4,7 +4,7 @@
 
 > La nuova generazione di rapper italiani\. Cover: Papa V, Nerissima Serpe
 
-132 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/6nhHRG6xegRC3RJpPdvh9l)
+133 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/6nhHRG6xegRC3RJpPdvh9l)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [SIDE HOE](https://open.spotify.com/track/5OjDS0tM4rmKe677fLvBL5) | [ZE7E](https://open.spotify.com/artist/7jjCGirkG8ErxZkrVijR5n) | [SIDE HOE](https://open.spotify.com/album/1ntgh7yEXIbKrb73KWz3yr) | 2:09 | 2022-05-12 | 2022-05-25 |
 | [Sig Sauer](https://open.spotify.com/track/5osZJMzHRegoA9y5rUOua4) | [MINUR](https://open.spotify.com/artist/7rylbiZO3rabYvIKu4Kcg0) | [Sig Sauer](https://open.spotify.com/album/5Xb2J3wUNG6B7KZD1397bi) | 2:09 | 2022-05-10 | 2022-05-20 |
 | [Silenzioso](https://open.spotify.com/track/6LwupnM2Cd5bvKcegSXBWF) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Tempoxso](https://open.spotify.com/artist/1iVTp6WbD6ajQlBHtGoOUq) | [Silenzioso](https://open.spotify.com/album/0wmn2eLaiFYf2qN57RcWgH) | 2:05 | 2022-05-26 | 2022-06-24 |
+| [Street Fight](https://open.spotify.com/track/0RfsPdWv4vmccAVm17aYvS) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [Street Fight](https://open.spotify.com/album/7LyS71YF8VLbGIcFZsmGOf) | 3:07 | 2022-07-05 |  |
 | [SWAG! \(Drip Margiela\)](https://open.spotify.com/track/4iaC4nwpOz6WXOKcuGzhWr) | [Radical](https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3), [Thelonious B.](https://open.spotify.com/artist/7rccKwEbDm4PjYBEZFEm3A) | [SWAG! \(Drip Margiela\)](https://open.spotify.com/album/0GFSvxiK8TUQCkiFHmHFo6) | 2:37 | 2022-06-09 | 2022-07-02 |
 | [Tiki Taka](https://open.spotify.com/track/50MWpZN2WAcfkeKAaU5fvY) | [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [Tiki Taka](https://open.spotify.com/album/0ZvK5lmB4C7JJ0Xop61lwa) | 2:20 | 2022-05-10 | 2022-05-27 |
 | [TOO EASY](https://open.spotify.com/track/1Q2UkGQukIQeUnG93LD3WM) | [Radical](https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3), [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Friman](https://open.spotify.com/artist/1fiZijV9uuS7ZZmxnAbjEQ) | [TOO EASY](https://open.spotify.com/album/0b78aAZFHgjxwXgKGDey1f) | 3:21 | 2022-05-10 | 2022-05-27 |

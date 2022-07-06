@@ -474,6 +474,32 @@
     },
     {
       "album": {
+        "name": "En Paathi Neethanadi",
+        "url": "https://open.spotify.com/album/5F36QWvcT0HLaovulz4r6s"
+      },
+      "artists": [
+        {
+          "name": "Mejjo Josseph",
+          "url": "https://open.spotify.com/artist/0VhJQH4iwGSdo7MbZUGVW9"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302891,
+      "name": "En Paathi Neethanadi",
+      "url": "https://open.spotify.com/track/47NnHnmjhZKDHk2CfieWFQ"
+    },
+    {
+      "album": {
         "name": "Enjoy Enjaami",
         "url": "https://open.spotify.com/album/3nfV4cQnlyNETxtXfKr3IT"
       },

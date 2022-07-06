@@ -53,7 +53,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 243146,
       "name": "Ah\u00ed",
       "url": "https://open.spotify.com/track/4lH1UpMeCgcwnzh6dDX7kI"
@@ -71,7 +71,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 335560,
       "name": "Amando A Mi Guitarra",
       "url": "https://open.spotify.com/track/1m9Ho33kOmtYcpP7XoY7Vo"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 431626,
       "name": "Amar y Envejecer",
       "url": "https://open.spotify.com/track/0V472Br1hpLSczZdow8MJd"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 308666,
       "name": "Clarobscuro",
       "url": "https://open.spotify.com/track/5aXacxWAOHOZjH2uxMJ0q0"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 311605,
       "name": "De la Guitarra - En Vivo Luna Park",
       "url": "https://open.spotify.com/track/4vBsZW0vafVcFmlG0ooRc4"
@@ -521,7 +521,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 188586,
       "name": "Down",
       "url": "https://open.spotify.com/track/134qy1huhbABWZV86Jy0l1"
@@ -539,7 +539,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 244066,
       "name": "El Balneario de los Doctores Crotos",
       "url": "https://open.spotify.com/track/17ipgG6ZFbGSoIoL5f7tuo"
@@ -597,6 +597,24 @@
       "duration_ms": 276573,
       "name": "El Final Es En Donde Part\u00ed",
       "url": "https://open.spotify.com/track/5zdazgWuhzFMMtwt5kdeFD"
+    },
+    {
+      "album": {
+        "name": "Talism\u00e1n",
+        "url": "https://open.spotify.com/album/0x0SVERapfyHHdWgoboteO"
+      },
+      "artists": [
+        {
+          "name": "Skay Beilinson",
+          "url": "https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234906,
+      "name": "El Golem de Paternal",
+      "url": "https://open.spotify.com/track/1i663MaTN7dcRxv2UPKOlu"
     },
     {
       "album": {
@@ -773,7 +791,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 295226,
       "name": "Isabel",
       "url": "https://open.spotify.com/track/76kiyHN3ePhFLnSkgOGQJA"
@@ -809,7 +827,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 222729,
       "name": "La Ca\u00f1ada",
       "url": "https://open.spotify.com/track/6PuOXcW4FTK6oAwgGGiLBe"
@@ -845,7 +863,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 306079,
       "name": "La ilusi\u00f3n que me condena",
       "url": "https://open.spotify.com/track/1woygbhtsdzT0BJX7rs0ue"
@@ -953,7 +971,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 207280,
       "name": "Loco Un Poco",
       "url": "https://open.spotify.com/track/7dmdwwxTx9aoUsfXbRHIoQ"
@@ -1151,7 +1169,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 235212,
       "name": "Normal",
       "url": "https://open.spotify.com/track/5V1e6P17bGnUn5wg2FrUUn"
@@ -1169,7 +1187,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 208373,
       "name": "Nunca me ense\u00f1aste",
       "url": "https://open.spotify.com/track/41i7cqPXQj5zkMJK6V6RNf"
@@ -1223,7 +1241,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 224213,
       "name": "Ojos Ventanal",
       "url": "https://open.spotify.com/track/1wsKixePlchQnf1EZTaAjX"
@@ -1241,7 +1259,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 321706,
       "name": "Otra Vuelta de Tuerca",
       "url": "https://open.spotify.com/track/3Azo521e0Tacq8znJWaDQO"
@@ -1277,7 +1295,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 182360,
       "name": "Panic Show",
       "url": "https://open.spotify.com/track/7ao7jtJIMzppW0p1CwEJ9Q"
@@ -1349,7 +1367,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 244560,
       "name": "Pepe Lui",
       "url": "https://open.spotify.com/track/3dYlW2oy1sBMVCH5zst8le"
@@ -1371,7 +1389,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 246478,
       "name": "Por la Boca Vive el Pez",
       "url": "https://open.spotify.com/track/1z7pxA0o5ZIMjsdFaFstFg"
@@ -1407,7 +1425,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 232533,
       "name": "Porno Star",
       "url": "https://open.spotify.com/track/3ltkObuXJYfkdcbNQsTvqM"
@@ -1479,7 +1497,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 221425,
       "name": "Resaca de Carnaval",
       "url": "https://open.spotify.com/track/6FPYeXUbLfwmwcknp1f7VZ"
@@ -1630,6 +1648,42 @@
     },
     {
       "album": {
+        "name": "Otro D\u00eda en el Planeta Tierra",
+        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198385,
+      "name": "Se\u00f1or Kioskero",
+      "url": "https://open.spotify.com/track/4lK6lXhFBHIQQyF9Kdck4d"
+    },
+    {
+      "album": {
+        "name": "Girando",
+        "url": "https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B"
+      },
+      "artists": [
+        {
+          "name": "Ratones Paranoicos",
+          "url": "https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238506,
+      "name": "Sigue Girando",
+      "url": "https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa"
+    },
+    {
+      "album": {
         "name": "En la Vereda de Enfrente",
         "url": "https://open.spotify.com/album/1KceNvU8vPId2H00ZulQYE"
       },
@@ -1659,7 +1713,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 302800,
       "name": "Silencio - En Vivo",
       "url": "https://open.spotify.com/track/3QFehvGrS4MmrAWW5Hqw3f"
@@ -1749,7 +1803,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 303866,
       "name": "Tantas Escaleras",
       "url": "https://open.spotify.com/track/3PM8JhZVn49xj8nW3i9qSn"
@@ -1767,7 +1821,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 274133,
       "name": "Te Voy a Llevar",
       "url": "https://open.spotify.com/track/4WOwHySxwon4QhRszoMazm"
@@ -1785,7 +1839,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 201584,
       "name": "Terminales",
       "url": "https://open.spotify.com/track/77LZ92TrNFB8WCYtCaCwsy"
@@ -1803,7 +1857,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 214600,
       "name": "Todo Sigue Igual",
       "url": "https://open.spotify.com/track/75dqA2rQHnUtP7XjvkmKh2"
@@ -2001,7 +2055,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 226586,
       "name": "Volver a Casa",
       "url": "https://open.spotify.com/track/2PeErZ0K1IVS5C3nri2Pqa"
@@ -2073,7 +2127,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 245478,
       "name": "\u00c1ngeles del olvido",
       "url": "https://open.spotify.com/track/5nNkZFyHYrZs4a2H8WcYQ6"

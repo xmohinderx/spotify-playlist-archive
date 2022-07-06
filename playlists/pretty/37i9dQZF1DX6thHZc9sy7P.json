@@ -1,13 +1,109 @@
 {
   "description": "Guess who's back? Get into the Inner Circle with us!",
-  "num_followers": 142926,
+  "num_followers": 143047,
   "original_name": "This Is WINNER",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzI1MTc5MSwwMDAwMDAxNzAwMDAwMTdmODdkYjlmNzEwMDAwMDE3NzVlMzYzMjQw",
+  "snapshot_id": "MTY1NzAxMTg0NywwMDAwMDAxODAwMDAwMTgxY2Q5YTQyYTgwMDAwMDE4MWNkOTk5ZjFm",
   "tracks": [
+    {
+      "added_at": "2022-07-05 09:04:07",
+      "album": {
+        "name": "HOLIDAY",
+        "url": "https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "I LOVE U",
+      "url": "https://open.spotify.com/track/02Vb9vfZUmqAKNhQwFjPSZ"
+    },
+    {
+      "added_at": "2022-07-05 09:04:07",
+      "album": {
+        "name": "HOLIDAY",
+        "url": "https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "duration_ms": 215043,
+      "name": "10 MIN",
+      "url": "https://open.spotify.com/track/16sFJNnpsLNnyuWoYsBGjv"
+    },
+    {
+      "added_at": "2022-07-05 09:04:07",
+      "album": {
+        "name": "HOLIDAY",
+        "url": "https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "duration_ms": 192875,
+      "name": "HOLIDAY",
+      "url": "https://open.spotify.com/track/4tUkszgggTqQ4s2sutt7QW"
+    },
+    {
+      "added_at": "2022-07-05 09:04:07",
+      "album": {
+        "name": "HOLIDAY",
+        "url": "https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "duration_ms": 205956,
+      "name": "SWEET HOME",
+      "url": "https://open.spotify.com/track/7F2gGDgHxt4QoxNxUOp9mf"
+    },
+    {
+      "added_at": "2022-07-05 09:04:07",
+      "album": {
+        "name": "HOLIDAY",
+        "url": "https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "duration_ms": 199179,
+      "name": "FAMILY",
+      "url": "https://open.spotify.com/track/3kITvNEXfzdIuT5X5r9lXQ"
+    },
+    {
+      "added_at": "2022-07-05 09:04:07",
+      "album": {
+        "name": "HOLIDAY",
+        "url": "https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "duration_ms": 202794,
+      "name": "LITTLE FINGER",
+      "url": "https://open.spotify.com/track/5DH5BqrQXjfTd9I0aEtPAQ"
+    },
     {
       "added_at": "2022-03-14 09:56:31",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 
 > Maybe it's punk, maybe it's not\. Cover: SLOE JACK
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,911 likes - 92 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,955 likes - 92 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

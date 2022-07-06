@@ -2868,7 +2868,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Rufus Wainwright: Pride](/playlists/pretty/37i9dQZF1DX5xCgFwl423z.md)
 - [Ruleteando](/playlists/pretty/37i9dQZF1DWYP6zmGbwfYH.md)
 - [Rumba Colombiana](/playlists/pretty/37i9dQZF1DWSIJCwMOQ10E.md)
-- [Run 'N' Bass 170\-175 BPM](/playlists/pretty/37i9dQZF1DX8jnAPF7Iiqp.md)
+- [Run 'N' Bass](/playlists/pretty/37i9dQZF1DX8jnAPF7Iiqp.md)
 - [Run It Back](/playlists/pretty/37i9dQZF1DXaAXb45NEVkE.md)
 - [Run This Town](/playlists/pretty/37i9dQZF1DWWPcvnOpPG3x.md)
 - [Run Wild](/playlists/pretty/37i9dQZF1DX35oM5SPECmN.md)

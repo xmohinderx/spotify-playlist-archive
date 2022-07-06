@@ -381,7 +381,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 203135,
       "name": "Borrachos",
       "url": "https://open.spotify.com/track/4Atb7JMjADktnKGOXzUmeF"
@@ -1452,6 +1452,32 @@
     },
     {
       "album": {
+        "name": "MAMIII (kryptogram Remix)",
+        "url": "https://open.spotify.com/album/60CnppsgEGpKhlT4xV5TGz"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "kryptogram",
+          "url": "https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209500,
+      "name": "MAMIII - kryptogram Remix",
+      "url": "https://open.spotify.com/track/46Lqs8FqqomRGmRmpm1Adx"
+    },
+    {
+      "album": {
         "name": "Me Enamora",
         "url": "https://open.spotify.com/album/1dig8YSzW8UrxJ89D1iSC2"
       },
@@ -1939,7 +1965,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 287773,
       "name": "Otro Trago - Remix",
       "url": "https://open.spotify.com/track/4bTZeO72FwMa6wKOiqoynL"
@@ -2373,7 +2399,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"

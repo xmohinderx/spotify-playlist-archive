@@ -4,7 +4,7 @@
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Rihanna
 
-177 songs - 8 hr 39 min - [published](https://open.spotify.com/playlist/6fHUp4TYDozaapLssJC9LA)
+179 songs - 8 hr 46 min - [published](https://open.spotify.com/playlist/6fHUp4TYDozaapLssJC9LA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Girls in the Hood](https://open.spotify.com/track/6WbTTAGKrQtCQvmc5BuYfh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Girls in the Hood](https://open.spotify.com/album/0pcFMWHPMVHE25NiT1U6Bc) | 2:34 | 2021-10-15 | 2022-02-18 |
 | [Give Me a Kiss](https://open.spotify.com/track/4KACV2cI5E9qOn6POkKR0p) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Give Me a Kiss](https://open.spotify.com/album/4CgxcL3TNmZhrkSxkytcOU) | 3:04 | 2022-04-29 | 2022-05-28 |
 | [Glamorous](https://open.spotify.com/track/6vVfNqiMSku4FrqsqhurBK) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [The Dutchess](https://open.spotify.com/album/5jMAEt7ZLjqi5tSlf7EBQg) | 4:06 | 2022-05-13 |  |
+| [Good Love \(feat\. Usher\)](https://open.spotify.com/track/52JFc40b28XJDROR3c4uAr) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Good Love \(feat\. Usher\)](https://open.spotify.com/album/0OhW9KGuhEaWt5kt9s5qKf) | 3:52 | 2022-07-06 |  |
 | [Gravity](https://open.spotify.com/track/59QZZyiKJmpEqrOJMDtejn) | [Day Sulan](https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk) | [Gravity](https://open.spotify.com/album/2C5UwRPN346EZUaChnKmYu) | 2:14 | 2022-04-15 | 2022-05-28 |
 | [Grrrls](https://open.spotify.com/track/7Mto5DGHzHXzF1hpsMRtYK) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Grrrls](https://open.spotify.com/album/0qFaO3ORj00440rLfVVbb1) | 2:01 | 2022-06-10 |  |
 | [HATEFUCK](https://open.spotify.com/track/2G6AOP03YY7hCCxvskZLb4) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [HATEFUCK](https://open.spotify.com/album/2JN7YYzP0l4WkIlHIeFfIa) | 3:16 | 2022-04-15 |  |
@@ -92,6 +93,7 @@
 | [Hit A Lic](https://open.spotify.com/track/2SZEyd9wrT7bEq1LHquJEM) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR) | [Your Highness](https://open.spotify.com/album/70CYyqTKk7NDwx2Y5kwkcH) | 2:39 | 2022-01-09 | 2022-02-26 |
 | [Hot Killer](https://open.spotify.com/track/4bOYRZeMq2FVVFka2gUWQ9) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Hot Killer](https://open.spotify.com/album/0as00WK8RwmFBwlvg3gmPy) | 2:18 | 2022-06-24 |  |
 | [Hot One](https://open.spotify.com/track/7fKF8XH5PkhbRcYC6h3AEL) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Hot One](https://open.spotify.com/album/0eLCiZEois6hUbUao44vi9) | 2:56 | 2021-12-03 | 2022-03-05 |
+| [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO) | 3:31 | 2022-07-06 |  |
 | [How To Pimp A N\*\*ga](https://open.spotify.com/track/36B9SXT9Pf8mL3F5RyqSAX) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 2:50 | 2021-10-22 | 2022-04-11 |
 | [Hrs and Hrs](https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:24 | 2022-01-13 | 2022-04-11 |
 | [Hush](https://open.spotify.com/track/04kybb0HCt1uaTBgYkSgwQ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Hush](https://open.spotify.com/album/5r1bbn7yCvl1CrBjfGM6eq) | 3:01 | 2021-10-15 | 2022-03-05 |

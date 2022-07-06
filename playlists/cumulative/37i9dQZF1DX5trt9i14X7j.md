@@ -8,8 +8,8 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/2s9mjCqeU26eivqPXY04V8) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/383ZCCPGtsSoeaTnA9wgkP) | 0:00 | 2021-12-08 |  |
-| [](https://open.spotify.com/track/6aiLNtvcneNec2IYeyXXk3) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6wOqQcUEO0tg56726cyP3j) | 0:00 | 2021-12-08 |  |
+| [](https://open.spotify.com/track/2s9mjCqeU26eivqPXY04V8) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/383ZCCPGtsSoeaTnA9wgkP) | 0:00 | 2021-12-08 | 2022-07-06 |
+| [](https://open.spotify.com/track/6aiLNtvcneNec2IYeyXXk3) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6wOqQcUEO0tg56726cyP3j) | 0:00 | 2021-12-08 | 2022-07-06 |
 | [\#1](https://open.spotify.com/track/35NyjYJFaJxqbUF2y0jWl1) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 7:27 | 2021-12-08 |  |
 | [1984](https://open.spotify.com/track/1mNU4DPNqZ8eSboAlpwEsd) | [The Northern Lights](https://open.spotify.com/artist/1GpwgKzyUlA384o6IKrNIM) | [Dreamers, Pt\. 1](https://open.spotify.com/album/6ezV6vZg6bQPrYmJe9a6bx) | 3:29 | 2021-12-08 | 2022-06-01 |
 | [8 Hours, Still No Rain \- Mixed](https://open.spotify.com/track/0PHMK9TRJasKOWELsdcyRC) | [Hosini](https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF), [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Anjunadeep 11](https://open.spotify.com/album/2uHQPZyOyrGjqaNR1V9FQE) | 3:14 | 2022-01-17 |  |
@@ -30,7 +30,7 @@
 | [capable](https://open.spotify.com/track/1ZqVHQlXm0vBzazX60mgcb) | [Jai Gourgaud](https://open.spotify.com/artist/2u47nFG0ezqztjpaTg6Vjd) | [capable](https://open.spotify.com/album/15aolnX64r6fKjDQ9IHsYT) | 2:52 | 2021-12-08 |  |
 | [Chasing the Calm](https://open.spotify.com/track/2V9jgt9hxaJjXTfy15DQ9T) | [Prashanth Srinivas](https://open.spotify.com/artist/2KYeJm60817LSIQtkgOffu) | [Ambient Introspection](https://open.spotify.com/album/3lWuCWKOZ5Wghrq02zlsqd) | 1:44 | 2021-12-08 |  |
 | [chilling by your bedside.](https://open.spotify.com/track/7LKRv9zrKDrLOO8jcFPQxA) | [beeno](https://open.spotify.com/artist/0fbM0EawHro8s9Aee7TDeo) | [decades.](https://open.spotify.com/album/5PbvbQUEdxOhehgtq63wJ9) | 2:46 | 2021-12-08 |  |
-| [Conquistador I](https://open.spotify.com/track/1FxF09nqDzYgvsB5UcmTtY) | [Juno Reactor](https://open.spotify.com/artist/1Pe3z1UqRzKsQtHsl25dm6) | [Labyrinth](https://open.spotify.com/album/2DhzRy5TW3XdXgaHc2jtJl) | 6:02 | 2021-12-08 |  |
+| [Conquistador I](https://open.spotify.com/track/1FxF09nqDzYgvsB5UcmTtY) | [Juno Reactor](https://open.spotify.com/artist/1Pe3z1UqRzKsQtHsl25dm6) | [Labyrinth](https://open.spotify.com/album/2DhzRy5TW3XdXgaHc2jtJl) | 6:02 | 2021-12-08 | 2022-07-06 |
 | [Coral Reef](https://open.spotify.com/track/3ElDX6t2ayq83erLIjy3fx) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [missing piece](https://open.spotify.com/album/0TTD6fjBDNQ5r3w5l8lalj) | 2:42 | 2021-12-08 |  |
 | [Cotton Spheres](https://open.spotify.com/track/10PRcEnKj8J3m13s1wvjiI) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Cumulus Motion](https://open.spotify.com/album/7iEuYy67Zb83EwSTZcWS7O) | 2:54 | 2021-12-08 |  |
 | [Crystal](https://open.spotify.com/track/3BtLLmtLqncevuw4ZhODG8) | [Johannes Brecht](https://open.spotify.com/artist/1VFwWJaTMckGNeRWak0cXi) | [Winter in America](https://open.spotify.com/album/5vDQxsQwsi5Zdm1C9DrVk3) | 8:33 | 2021-12-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and new artists in the neo\-soul space\. Cover: Pip Millett
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,606 likes - 109 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,754 likes - 109 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

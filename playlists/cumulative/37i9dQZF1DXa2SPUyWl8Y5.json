@@ -117,7 +117,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 445881,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/2ROhi2EHKwlBcHWyylPJa4"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 394775,
       "name": "Barturator",
       "url": "https://open.spotify.com/track/3dNVyzZi3RdVd0wBBEvUX3"
@@ -1217,7 +1217,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 515111,
       "name": "Curve",
       "url": "https://open.spotify.com/track/5J0id4CmRP4rC89UmwVFYd"
@@ -1365,7 +1365,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 192476,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/2Ii6VGM7F1nkbleXQPkJvT"
@@ -1561,7 +1561,7 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 412500,
       "name": "Entrudo - Booka Shade Remix",
       "url": "https://open.spotify.com/track/2sYMIOU4lJd70MGwVfrGKZ"
@@ -2655,7 +2655,7 @@
       ],
       "date_added": "2020-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 401834,
       "name": "Last Storm",
       "url": "https://open.spotify.com/track/3mN0xBvHnDlSheEUdkdObs"
@@ -2865,7 +2865,7 @@
       ],
       "date_added": "2020-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 471391,
       "name": "Luna",
       "url": "https://open.spotify.com/track/1AgUrCsgXQZ9IRmT1lEoH8"
@@ -2959,7 +2959,7 @@
       ],
       "date_added": "2020-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 457080,
       "name": "March of the giants",
       "url": "https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7"
@@ -3143,7 +3143,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 422079,
       "name": "Mistral",
       "url": "https://open.spotify.com/track/4qV0Lu1zn2xc50B9RurHKS"
@@ -3263,6 +3263,24 @@
       "duration_ms": 507540,
       "name": "Naive",
       "url": "https://open.spotify.com/track/4Qpc3gQZKV7kq22ETvM2DS"
+    },
+    {
+      "album": {
+        "name": "Namtar",
+        "url": "https://open.spotify.com/album/0LEttMZzw1Ub66CONc4DtW"
+      },
+      "artists": [
+        {
+          "name": "Daniel Levak",
+          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426666,
+      "name": "Namtar",
+      "url": "https://open.spotify.com/track/2Xfcb3UDq4osSNXD4tcUtt"
     },
     {
       "album": {
@@ -4073,7 +4091,7 @@
       ],
       "date_added": "2021-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 269153,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/1PjFPRW9tBjjNUrUy7hX2T"
@@ -4453,7 +4471,7 @@
       ],
       "date_added": "2021-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 433564,
       "name": "Seige",
       "url": "https://open.spotify.com/track/3529YD03FoOJMRYBoQKwX2"
@@ -4703,7 +4721,7 @@
       ],
       "date_added": "2019-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 428160,
       "name": "Spacemodulation",
       "url": "https://open.spotify.com/track/6g8QDiZ1zAwucNXgKnVIrW"
@@ -5235,7 +5253,7 @@
       ],
       "date_added": "2021-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 210731,
       "name": "The Mood",
       "url": "https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc"
@@ -5637,7 +5655,7 @@
       ],
       "date_added": "2020-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 499598,
       "name": "Zero Dark Thirty",
       "url": "https://open.spotify.com/track/7H2Y5DWXu15KR0cwvKIx3q"
@@ -5673,7 +5691,7 @@
       ],
       "date_added": "2019-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 450627,
       "name": "Zero One Lotus",
       "url": "https://open.spotify.com/track/5PCI2qhaJ9O4CojCKPjIPG"

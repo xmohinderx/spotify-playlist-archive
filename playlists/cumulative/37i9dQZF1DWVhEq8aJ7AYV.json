@@ -17,7 +17,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 232200,
       "name": "!Pum-!Pum, Bang-Bang!",
       "url": "https://open.spotify.com/track/5UDoPAgMsSQ4giy3sl2ssa"
@@ -39,7 +39,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 227346,
       "name": "1,2,3,4 - Los Cogelones Remix",
       "url": "https://open.spotify.com/track/0Fn7a7chIZRWOt80MOchqJ"
@@ -165,7 +165,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 145200,
       "name": "Aqua Velva",
       "url": "https://open.spotify.com/track/3tLQnUodu2YkdYcUJcmdQA"
@@ -219,7 +219,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 171226,
       "name": "Azteca a Go-Go",
       "url": "https://open.spotify.com/track/4ydLoE8RpZv1AVqvDocfsv"
@@ -237,7 +237,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 203859,
       "name": "Babadook",
       "url": "https://open.spotify.com/track/5PkaDmAP2phqiTO6aI5WHS"
@@ -309,7 +309,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 191874,
       "name": "Beso del Payaso",
       "url": "https://open.spotify.com/track/3TtWDkbqIJzQrDpT2Bg2gK"
@@ -327,7 +327,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 283097,
       "name": "Bleserone",
       "url": "https://open.spotify.com/track/1uRvMBHQEXqAsoPmxR4VBN"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 167613,
       "name": "Boogie Tonight",
       "url": "https://open.spotify.com/track/3o4bLIUTj0R3YIZOVtDWZG"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 120933,
       "name": "Cherry Bop",
       "url": "https://open.spotify.com/track/1bczxaqjIpbTJR1UkKXirI"
@@ -659,7 +659,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 189196,
       "name": "Dia de Muertos",
       "url": "https://open.spotify.com/track/6ttuYNmBq53CdtX75ia3Dw"
@@ -699,7 +699,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 142333,
       "name": "Dra\u0301cula \u201dYe-ye\u201d",
       "url": "https://open.spotify.com/track/28mq9dICF4XavmY50cyOgX"
@@ -735,7 +735,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 206920,
       "name": "Ej\u00e9rcito Libertador del Sur",
       "url": "https://open.spotify.com/track/51J0LIjBqa4rZzlM24oSmL"
@@ -832,6 +832,24 @@
     },
     {
       "album": {
+        "name": "El Ma\u00f1anero",
+        "url": "https://open.spotify.com/album/2yrePX50eH5qhaKH2bcFFQ"
+      },
+      "artists": [
+        {
+          "name": "Wau y Los Arrrghs!!!",
+          "url": "https://open.spotify.com/artist/6E5KbVutTSwdQMVtCDUVlh"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158847,
+      "name": "El Ma\u00f1anero",
+      "url": "https://open.spotify.com/track/5uHhRkcYM1m75a6D8z0QOR"
+    },
+    {
+      "album": {
         "name": "Los Esquizitos Escuchese Bien Fuerte",
         "url": "https://open.spotify.com/album/21T3aN8NPYUBqZnqNHnIna"
       },
@@ -843,10 +861,28 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 263760,
       "name": "El Planeta Sexual",
       "url": "https://open.spotify.com/track/075wKuhA08EGXvGAwYZUgj"
+    },
+    {
+      "album": {
+        "name": "Go Champ Go",
+        "url": "https://open.spotify.com/album/2w8npBWERvFfCpOMhajy5M"
+      },
+      "artists": [
+        {
+          "name": "The Champs",
+          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136693,
+      "name": "El Rancho Rock",
+      "url": "https://open.spotify.com/track/27RzkzE1NTBJxLDaZK2jIa"
     },
     {
       "album": {
@@ -901,7 +937,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 263360,
       "name": "Fiesta en Mis Pantalones - En Vivo",
       "url": "https://open.spotify.com/track/06tXdLN7VU9XU3jgnKWPWx"
@@ -991,7 +1027,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 123612,
       "name": "Garaje o Muerte",
       "url": "https://open.spotify.com/track/75sSpuGTbgRBNqrUXeiVRQ"
@@ -1052,6 +1088,24 @@
     },
     {
       "album": {
+        "name": "Guateque Estelar",
+        "url": "https://open.spotify.com/album/5fLy3qmhRpmV4DPtqw4DGj"
+      },
+      "artists": [
+        {
+          "name": "Matorralman",
+          "url": "https://open.spotify.com/artist/4FAxuKuqbciGKSsTS5AgaB"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310853,
+      "name": "Go Go Girl",
+      "url": "https://open.spotify.com/track/5iwUPjhcV5e077W0gR0gJn"
+    },
+    {
+      "album": {
         "name": "Brindando a Jos\u00e9 Alfredo Jim\u00e9nez",
         "url": "https://open.spotify.com/album/4q1HkzjfUT4yVcnI4Q9Sbk"
       },
@@ -1081,7 +1135,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 142000,
       "name": "Haulin' Hearse",
       "url": "https://open.spotify.com/track/4A9dMvwGlocF9gxVesArPR"
@@ -1193,7 +1247,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 188093,
       "name": "Introducci\u00f3n",
       "url": "https://open.spotify.com/track/2aMG9YYvvHojwf7Dg7UAm6"
@@ -1247,7 +1301,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 189892,
       "name": "Jaley Jaley",
       "url": "https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK"
@@ -1301,7 +1355,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 175853,
       "name": "Junto a Mi",
       "url": "https://open.spotify.com/track/1hHYV4GmMHkfYbM1EM9cGZ"
@@ -1323,7 +1377,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 115293,
       "name": "La Chica Rockabilly",
       "url": "https://open.spotify.com/track/4ioqGCkmubr8E86LaR80mv"
@@ -1395,7 +1449,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 209536,
       "name": "Labios Carmin",
       "url": "https://open.spotify.com/track/2zskzzvImqBBqWmPcIUeNa"
@@ -1431,7 +1485,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 115266,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/2Aw6dlyFVe0noQH9ppjhvX"
@@ -1449,7 +1503,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 130479,
       "name": "Lord Hunt Surf Party",
       "url": "https://open.spotify.com/track/7hApbsEUHchioCqgmbVafD"
@@ -1467,7 +1521,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 142578,
       "name": "Love Special Delivery",
       "url": "https://open.spotify.com/track/1FAM8gwc0xTtsgIza7JlFs"
@@ -1569,7 +1623,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 155578,
       "name": "Metralleta",
       "url": "https://open.spotify.com/track/3L7RYCRoKOnqsgDL9cXdUD"
@@ -1605,7 +1659,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 163093,
       "name": "Momia Twist",
       "url": "https://open.spotify.com/track/3mUqECdAhiAj5UJEAlZRCy"
@@ -1663,7 +1717,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 251694,
       "name": "Morphological Echo",
       "url": "https://open.spotify.com/track/0Liygw28XGh0DP0EO5lt9D"
@@ -1699,7 +1753,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 128453,
       "name": "Naci\u00f3n Apache",
       "url": "https://open.spotify.com/track/2VDdNo02QCA2nChBQKMqp3"
@@ -1717,7 +1771,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 209453,
       "name": "New Siberia",
       "url": "https://open.spotify.com/track/5LOvf3VYtuSqFsakw2WyFb"
@@ -1735,7 +1789,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 117000,
       "name": "Nina",
       "url": "https://open.spotify.com/track/6gQYk680D0HbLMnSJEMaEe"
@@ -1753,7 +1807,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 163047,
       "name": "Oleka",
       "url": "https://open.spotify.com/track/34nFpgw6nXA671xsmYpBAY"
@@ -1825,7 +1879,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 238400,
       "name": "Piangi Con Me",
       "url": "https://open.spotify.com/track/4K5Yo0mU2jOFUEQ7MnWUEB"
@@ -1843,7 +1897,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 158386,
       "name": "Pintor",
       "url": "https://open.spotify.com/track/41APmx0ZZyNS9ARvS2R0ad"
@@ -1915,10 +1969,28 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 154000,
       "name": "Popcorno Revenge",
       "url": "https://open.spotify.com/track/2Ix5WVkZhrljeTTiKDPUcP"
+    },
+    {
+      "album": {
+        "name": "The Lost Album",
+        "url": "https://open.spotify.com/album/7zaDIege7cTVCOkGyto9Bw"
+      },
+      "artists": [
+        {
+          "name": "The Meteors",
+          "url": "https://open.spotify.com/artist/7a2sloQlmdKSmj3fwMMpg9"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173106,
+      "name": "Psycho for Your Love",
+      "url": "https://open.spotify.com/track/45XtqGyKhOkkYIeOND0KF7"
     },
     {
       "album": {
@@ -2099,7 +2171,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 148360,
       "name": "Shooby Doo Wop",
       "url": "https://open.spotify.com/track/0hRphF5bOnJkQzKSKuJbmc"
@@ -2117,7 +2189,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 198019,
       "name": "Siempre",
       "url": "https://open.spotify.com/track/1G9h543efweZczd5O86Ays"
@@ -2171,7 +2243,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 224151,
       "name": "Soy Pandillero",
       "url": "https://open.spotify.com/track/5xeZDsYEOaBWAAFexDACba"
@@ -2247,7 +2319,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 165720,
       "name": "Surf De L'amour",
       "url": "https://open.spotify.com/track/08qSIeJEOg3aQaDN4xii9C"
@@ -2283,7 +2355,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 126626,
       "name": "Surfin Beer",
       "url": "https://open.spotify.com/track/230qkv2nzn62ejlAFo3flv"
@@ -2362,6 +2434,24 @@
     },
     {
       "album": {
+        "name": "The News Today",
+        "url": "https://open.spotify.com/album/5RHDJFdQC90EIRn682wXXN"
+      },
+      "artists": [
+        {
+          "name": "Corizonas",
+          "url": "https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190293,
+      "name": "The Falcon Sleeps Tonight",
+      "url": "https://open.spotify.com/track/4toFjXCMOTkZrw36kzixHy"
+    },
+    {
+      "album": {
         "name": "Plymouth Rock",
         "url": "https://open.spotify.com/album/3vBmJk8uUIqtH2wYPdVfq9"
       },
@@ -2373,7 +2463,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 154720,
       "name": "The Godfather",
       "url": "https://open.spotify.com/track/4IbDm3FsKHrdbuAAWXZztu"
@@ -2391,7 +2481,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 116013,
       "name": "Tiki Surf",
       "url": "https://open.spotify.com/track/1OAcBwfDqJXWOawfaSfark"
@@ -2467,7 +2557,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 194622,
       "name": "Una Chica Me Dijo una Vez",
       "url": "https://open.spotify.com/track/1tzcfcBpgv2uaZsWwTi73f"
@@ -2521,7 +2611,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 126026,
       "name": "Whirlpool",
       "url": "https://open.spotify.com/track/4uUyxCK28787qPada57VMI"

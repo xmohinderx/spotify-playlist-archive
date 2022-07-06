@@ -979,7 +979,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
@@ -1229,7 +1229,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 216480,
       "name": "Feel About You - Edit",
       "url": "https://open.spotify.com/track/4OSS2eDxVmkG13O7MXPxul"
@@ -1335,7 +1335,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 247500,
       "name": "Flatline",
       "url": "https://open.spotify.com/track/1qeSZD2hBkOqwD9e5jcTYa"
@@ -1935,7 +1935,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 426000,
       "name": "Heater",
       "url": "https://open.spotify.com/track/3bJwiNmreZkHXjeuFmW8bG"
@@ -2399,7 +2399,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 145649,
       "name": "LIGHTS (feat. Charlotte X)",
       "url": "https://open.spotify.com/track/7uuevg7Jk7TKuEfwc0kVS7"
@@ -2461,7 +2461,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 186200,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/33VrQvOZ7dyytQV3xCMolM"
@@ -2975,7 +2975,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 185133,
       "name": "Never Let Me Down",
       "url": "https://open.spotify.com/track/3AjzBL7fuEdboRnleIlPIw"
@@ -2997,7 +2997,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 185133,
       "name": "Never Let Me Down",
       "url": "https://open.spotify.com/track/3PBxGPKTvxXvcP1Z7dDc3Q"
@@ -3139,7 +3139,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 186964,
       "name": "Out The Door",
       "url": "https://open.spotify.com/track/1u00EMt2762l5buwd6uQAK"
@@ -3161,7 +3161,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 222154,
       "name": "Overseas",
       "url": "https://open.spotify.com/track/337kcYVjYXdLBItCw9ry3b"
@@ -3421,7 +3421,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 242904,
       "name": "Redlight",
       "url": "https://open.spotify.com/track/08Ecw0ItPxGeHS9Mexr8cs"
@@ -3721,7 +3721,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 232245,
       "name": "Silenced",
       "url": "https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW"
@@ -3765,7 +3765,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 219529,
       "name": "soft spot",
       "url": "https://open.spotify.com/track/3BBFjy5w9S66h3ys6cQtvI"
@@ -3955,6 +3955,24 @@
       "duration_ms": 266200,
       "name": "Sunshine - Wookie Main Mix",
       "url": "https://open.spotify.com/track/5q1hpdlf8ncJUhKLyjHoHB"
+    },
+    {
+      "album": {
+        "name": "Superfly",
+        "url": "https://open.spotify.com/album/7C9qqtM8RY29wFZE2BAQEJ"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177780,
+      "name": "Superfly",
+      "url": "https://open.spotify.com/track/55g2IGNdPK7dnOkFtttmOB"
     },
     {
       "album": {
@@ -4397,7 +4415,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 237458,
       "name": "West Indies",
       "url": "https://open.spotify.com/track/5O8uBUqc6rzlrS9YYCGeiX"
@@ -4595,7 +4613,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 254770,
       "name": "You and I Are Equal",
       "url": "https://open.spotify.com/track/4laAIQLzf49FKhy14SmA87"

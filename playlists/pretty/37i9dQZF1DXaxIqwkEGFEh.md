@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Youngboy Never Broke Again
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,098,839 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,099,231 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 
 > New Rock driving the current, every week\. Cover Kamiyada+
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,465 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,463 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

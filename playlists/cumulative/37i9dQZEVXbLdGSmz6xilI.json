@@ -533,7 +533,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 170344,
       "name": "At My Worst",
       "url": "https://open.spotify.com/track/2MJz8BxxMsERULatmBikDH"
@@ -1171,7 +1171,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 222314,
       "name": "Bu\u1ed3n Th\u00ec C\u1ee9 Kh\u00f3c \u0110i",
       "url": "https://open.spotify.com/track/6iXGivPFpsqKmrINhIbPvx"
@@ -1233,6 +1233,24 @@
       "duration_ms": 257647,
       "name": "B\u01b0\u1edbc Qua Nhau",
       "url": "https://open.spotify.com/track/6GJi4nSZOiTOU2FhsgxWyH"
+    },
+    {
+      "album": {
+        "name": "B\u1eaft C\u00f3c Con Tim",
+        "url": "https://open.spotify.com/album/538vBy7c27uatest2Eu58q"
+      },
+      "artists": [
+        {
+          "name": "Lou Hoang",
+          "url": "https://open.spotify.com/artist/75Ki5hBCOpDtKGoFyTvLxP"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197549,
+      "name": "B\u1eaft C\u00f3c Con Tim",
+      "url": "https://open.spotify.com/track/3ho1OQb9SFtCt3MIiRZ8Si"
     },
     {
       "album": {
@@ -8737,7 +8755,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 201905,
       "name": "With you",
       "url": "https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY"

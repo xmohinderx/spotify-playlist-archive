@@ -1,28 +1,28 @@
 {
   "description": "\u00a1Vamos a dar una vuelta en ruedas al ritmo de la m\u00fasica! ",
-  "num_followers": 13306,
+  "num_followers": 13323,
   "original_name": "Rollerskater",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Njk4NTQyNywwMDAwMDAwMDQ0Nzk4OTcwOTI1OTY0ZDQxMjZmOWZkOTBiZDA5MDdl",
+  "snapshot_id": "MTY1NzA3MjE3OCwwMDAwMDAwMGRjZWMwMzUzOWVkMzViYzFmODg2MzBhZDFjMjcyZGRm",
   "tracks": [
     {
       "added_at": "2021-03-24 01:27:10",
       "album": {
-        "name": "Greatest",
-        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
       "artists": [
         {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 197213,
-      "name": "More Than A Woman - From \"Saturday Night Fever\" Soundtrack",
-      "url": "https://open.spotify.com/track/49OMJ1prsRA7ZYgrAjz70c"
+      "duration_ms": 208906,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl"
     },
     {
       "added_at": "2021-03-24 01:27:10",
@@ -75,18 +75,18 @@
     {
       "added_at": "2021-03-24 01:27:10",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+        "name": "ARDIPITHECUS",
+        "url": "https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
         }
       ],
-      "duration_ms": 208906,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl"
+      "duration_ms": 196520,
+      "name": "Wait a Minute!",
+      "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh"
     },
     {
       "added_at": "2021-03-24 01:27:10",
@@ -143,18 +143,34 @@
     {
       "added_at": "2021-03-24 01:27:10",
       "album": {
-        "name": "ARDIPITHECUS",
-        "url": "https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h"
+        "name": "Winelight",
+        "url": "https://open.spotify.com/album/50gtvo0hufJj06ipbOjAiU"
       },
       "artists": [
         {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+          "name": "Grover Washington, Jr.",
+          "url": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
         }
       ],
-      "duration_ms": 196520,
-      "name": "Wait a Minute!",
-      "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh"
+      "duration_ms": 443773,
+      "name": "Just the Two of Us",
+      "url": "https://open.spotify.com/track/5fdNHVZHbWB1AaXk4RBGVD"
+    },
+    {
+      "added_at": "2021-03-24 01:27:10",
+      "album": {
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 197213,
+      "name": "More Than A Woman - From \"Saturday Night Fever\" Soundtrack",
+      "url": "https://open.spotify.com/track/49OMJ1prsRA7ZYgrAjz70c"
     },
     {
       "added_at": "2021-03-24 01:27:10",
@@ -171,22 +187,6 @@
       "duration_ms": 213671,
       "name": "Heart Of Glass (Live from the iHeart Festival)",
       "url": "https://open.spotify.com/track/5GK1GYXH16RdfmltogHhAk"
-    },
-    {
-      "added_at": "2021-03-24 01:27:10",
-      "album": {
-        "name": "Winelight",
-        "url": "https://open.spotify.com/album/50gtvo0hufJj06ipbOjAiU"
-      },
-      "artists": [
-        {
-          "name": "Grover Washington, Jr.",
-          "url": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
-        }
-      ],
-      "duration_ms": 443773,
-      "name": "Just the Two of Us",
-      "url": "https://open.spotify.com/track/5fdNHVZHbWB1AaXk4RBGVD"
     },
     {
       "added_at": "2021-03-24 01:27:10",
@@ -215,6 +215,22 @@
     {
       "added_at": "2021-03-24 01:27:10",
       "album": {
+        "name": "space girl",
+        "url": "https://open.spotify.com/album/2kTyJsKMpVKd3dv87ePucD"
+      },
+      "artists": [
+        {
+          "name": "Frances Forever",
+          "url": "https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl"
+        }
+      ],
+      "duration_ms": 231440,
+      "name": "space girl",
+      "url": "https://open.spotify.com/track/7FjIYiD53wxlQmzTT6Wdpf"
+    },
+    {
+      "added_at": "2021-03-24 01:27:10",
+      "album": {
         "name": "Currents",
         "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
       },
@@ -227,6 +243,22 @@
       "duration_ms": 216320,
       "name": "The Less I Know The Better",
       "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
+    },
+    {
+      "added_at": "2021-03-24 01:27:10",
+      "album": {
+        "name": "I'm Allergic To Dogs!",
+        "url": "https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 265263,
+      "name": "Photo ID",
+      "url": "https://open.spotify.com/track/0bhciG1J5Mn3aIfPjvHQIe"
     },
     {
       "added_at": "2021-03-24 01:27:10",
@@ -247,38 +279,18 @@
     {
       "added_at": "2021-03-24 01:27:10",
       "album": {
-        "name": "Pretty Girl",
-        "url": "https://open.spotify.com/album/3nkwKrSQJ9l84VV8uuymk9"
+        "name": "She's So Unusual",
+        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
       },
       "artists": [
         {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
         }
       ],
-      "duration_ms": 178352,
-      "name": "Pretty Girl",
-      "url": "https://open.spotify.com/track/0KyAGiNGUytG5JLxJu4F6l"
-    },
-    {
-      "added_at": "2021-03-24 01:27:10",
-      "album": {
-        "name": "I Am",
-        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        },
-        {
-          "name": "The Emotions",
-          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
-        }
-      ],
-      "duration_ms": 288293,
-      "name": "Boogie Wonderland",
-      "url": "https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD"
+      "duration_ms": 238266,
+      "name": "Girls Just Want to Have Fun",
+      "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
     },
     {
       "added_at": "2021-03-24 01:27:10",
@@ -299,18 +311,34 @@
     {
       "added_at": "2021-03-24 01:27:10",
       "album": {
-        "name": "She's So Unusual",
-        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
+        "name": "How Can You Mend A Broken Heart",
+        "url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx"
       },
       "artists": [
         {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
         }
       ],
-      "duration_ms": 238266,
-      "name": "Girls Just Want to Have Fun",
-      "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
+      "duration_ms": 285373,
+      "name": "Stayin Alive",
+      "url": "https://open.spotify.com/track/5ubvP9oKmxLUVq506fgLhk"
+    },
+    {
+      "added_at": "2021-03-24 01:27:10",
+      "album": {
+        "name": "Come and Get Your Love",
+        "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
+      },
+      "artists": [
+        {
+          "name": "Redbone",
+          "url": "https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "Come and Get Your Love - Single Version",
+      "url": "https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"
     },
     {
       "added_at": "2021-03-24 01:27:10",
@@ -335,34 +363,34 @@
     {
       "added_at": "2021-03-24 01:27:10",
       "album": {
-        "name": "Come and Get Your Love",
-        "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
+        "name": "Take The Heat Off Me",
+        "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
       },
       "artists": [
         {
-          "name": "Redbone",
-          "url": "https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF"
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
         }
       ],
-      "duration_ms": 205933,
-      "name": "Come and Get Your Love - Single Version",
-      "url": "https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"
+      "duration_ms": 242240,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
     },
     {
       "added_at": "2021-03-24 01:27:10",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
       },
       "artists": [
         {
-          "name": "B\u00d8RNS",
-          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 218106,
-      "name": "Electric Love",
-      "url": "https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ"
+      "duration_ms": 200040,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
     },
     {
       "added_at": "2021-03-24 01:27:10",
@@ -383,34 +411,134 @@
     {
       "added_at": "2021-03-24 01:27:10",
       "album": {
-        "name": "space girl",
-        "url": "https://open.spotify.com/album/2kTyJsKMpVKd3dv87ePucD"
+        "name": "Street Songs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
       },
       "artists": [
         {
-          "name": "Frances Forever",
-          "url": "https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl"
+          "name": "Rick James",
+          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
         }
       ],
-      "duration_ms": 231440,
-      "name": "space girl",
-      "url": "https://open.spotify.com/track/7FjIYiD53wxlQmzTT6Wdpf"
+      "duration_ms": 205466,
+      "name": "Super Freak",
+      "url": "https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca"
     },
     {
       "added_at": "2021-03-24 01:27:10",
       "album": {
-        "name": "I'm Allergic To Dogs!",
-        "url": "https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2"
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
       },
       "artists": [
         {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+          "name": "B\u00d8RNS",
+          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
         }
       ],
-      "duration_ms": 265263,
-      "name": "Photo ID",
-      "url": "https://open.spotify.com/track/0bhciG1J5Mn3aIfPjvHQIe"
+      "duration_ms": 218106,
+      "name": "Electric Love",
+      "url": "https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ"
+    },
+    {
+      "added_at": "2021-03-24 01:27:10",
+      "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 116630,
+      "name": "Funny Thing",
+      "url": "https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332"
+    },
+    {
+      "added_at": "2021-03-24 01:27:10",
+      "album": {
+        "name": "Fantastic Boney M.",
+        "url": "https://open.spotify.com/album/1SBAgYpxxNiCQN7qxCJxDX"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 220733,
+      "name": "Rasputin - Single Version",
+      "url": "https://open.spotify.com/track/67hbP9PFQZrb4XZc3TzB0s"
+    },
+    {
+      "added_at": "2021-03-24 01:27:10",
+      "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        },
+        {
+          "name": "The Emotions",
+          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
+        }
+      ],
+      "duration_ms": 288293,
+      "name": "Boogie Wonderland",
+      "url": "https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD"
+    },
+    {
+      "added_at": "2021-03-24 01:27:10",
+      "album": {
+        "name": "Roy Pablo",
+        "url": "https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Dance, Baby!",
+      "url": "https://open.spotify.com/track/5EV4bGHxVN0kHpcAFvgnTt"
+    },
+    {
+      "added_at": "2021-03-24 01:27:10",
+      "album": {
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/6wxav4nCiImWwjtyRsNBcz"
+      },
+      "artists": [
+        {
+          "name": "Plustwo",
+          "url": "https://open.spotify.com/artist/5bHicu5GncBzOsjUFsooLK"
+        }
+      ],
+      "duration_ms": 231691,
+      "name": "Melody (1983 Radio Version)",
+      "url": "https://open.spotify.com/track/78q9spnn1sK4UBefjvKjeJ"
+    },
+    {
+      "added_at": "2021-03-24 01:27:10",
+      "album": {
+        "name": "Mariposa",
+        "url": "https://open.spotify.com/album/0vpGo2ef7QNOKQHtd7qZeh"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Mariposa",
+      "url": "https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD"
     },
     {
       "added_at": "2021-03-24 01:27:10",
@@ -439,50 +567,18 @@
     {
       "added_at": "2021-03-24 01:27:10",
       "album": {
-        "name": "Take The Heat Off Me",
-        "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
+        "name": "Pretty Girl",
+        "url": "https://open.spotify.com/album/3nkwKrSQJ9l84VV8uuymk9"
       },
       "artists": [
         {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 242240,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
-    },
-    {
-      "added_at": "2021-03-24 01:27:10",
-      "album": {
-        "name": "How Can You Mend A Broken Heart",
-        "url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 285373,
-      "name": "Stayin Alive",
-      "url": "https://open.spotify.com/track/5ubvP9oKmxLUVq506fgLhk"
-    },
-    {
-      "added_at": "2021-03-24 01:27:10",
-      "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
+      "duration_ms": 178352,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/0KyAGiNGUytG5JLxJu4F6l"
     },
     {
       "added_at": "2021-03-24 01:27:10",
@@ -519,66 +615,18 @@
     {
       "added_at": "2021-03-24 01:27:10",
       "album": {
-        "name": "Mariposa",
-        "url": "https://open.spotify.com/album/0vpGo2ef7QNOKQHtd7qZeh"
+        "name": "Rumours (Super Deluxe)",
+        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
       },
       "artists": [
         {
-          "name": "Peach Tree Rascals",
-          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Mariposa",
-      "url": "https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD"
-    },
-    {
-      "added_at": "2021-03-24 01:27:10",
-      "album": {
-        "name": "Melody",
-        "url": "https://open.spotify.com/album/6wxav4nCiImWwjtyRsNBcz"
-      },
-      "artists": [
-        {
-          "name": "Plustwo",
-          "url": "https://open.spotify.com/artist/5bHicu5GncBzOsjUFsooLK"
-        }
-      ],
-      "duration_ms": 231691,
-      "name": "Melody (1983 Radio Version)",
-      "url": "https://open.spotify.com/track/78q9spnn1sK4UBefjvKjeJ"
-    },
-    {
-      "added_at": "2021-03-24 01:27:10",
-      "album": {
-        "name": "Street Songs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
-      },
-      "artists": [
-        {
-          "name": "Rick James",
-          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "Super Freak",
-      "url": "https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca"
-    },
-    {
-      "added_at": "2021-03-24 01:27:10",
-      "album": {
-        "name": "Fantastic Boney M.",
-        "url": "https://open.spotify.com/album/1SBAgYpxxNiCQN7qxCJxDX"
-      },
-      "artists": [
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 220733,
-      "name": "Rasputin - Single Version",
-      "url": "https://open.spotify.com/track/67hbP9PFQZrb4XZc3TzB0s"
+      "duration_ms": 257800,
+      "name": "Dreams - 2004 Remaster",
+      "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
     },
     {
       "added_at": "2021-03-24 01:27:10",
@@ -603,34 +651,34 @@
     {
       "added_at": "2021-03-24 01:27:10",
       "album": {
-        "name": "Roy Pablo",
-        "url": "https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn"
+        "name": "Cuz I Love You",
+        "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
       },
       "artists": [
         {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Dance, Baby!",
-      "url": "https://open.spotify.com/track/5EV4bGHxVN0kHpcAFvgnTt"
+      "duration_ms": 195144,
+      "name": "Juice",
+      "url": "https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl"
     },
     {
       "added_at": "2021-03-24 01:27:10",
       "album": {
-        "name": "For Ever",
-        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
+        "name": "Chaka",
+        "url": "https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
         }
       ],
-      "duration_ms": 184599,
-      "name": "Heavy, California",
-      "url": "https://open.spotify.com/track/34wcz4mpAActEc6gtqX3wz"
+      "duration_ms": 249600,
+      "name": "I'm Every Woman",
+      "url": "https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl"
     },
     {
       "added_at": "2021-03-24 01:27:10",
@@ -651,66 +699,18 @@
     {
       "added_at": "2021-03-24 01:27:10",
       "album": {
-        "name": "Rumours (Super Deluxe)",
-        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
+        "name": "For Ever",
+        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 257800,
-      "name": "Dreams - 2004 Remaster",
-      "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
-    },
-    {
-      "added_at": "2021-03-24 01:27:10",
-      "album": {
-        "name": "Cuz I Love You",
-        "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 195144,
-      "name": "Juice",
-      "url": "https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl"
-    },
-    {
-      "added_at": "2021-03-24 01:27:10",
-      "album": {
-        "name": "It Is What It Is",
-        "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 116630,
-      "name": "Funny Thing",
-      "url": "https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332"
-    },
-    {
-      "added_at": "2021-03-24 01:27:10",
-      "album": {
-        "name": "Chaka",
-        "url": "https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "I'm Every Woman",
-      "url": "https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl"
+      "duration_ms": 184599,
+      "name": "Heavy, California",
+      "url": "https://open.spotify.com/track/34wcz4mpAActEc6gtqX3wz"
     },
     {
       "added_at": "2021-03-24 01:27:10",
@@ -803,22 +803,6 @@
     {
       "added_at": "2021-03-24 01:27:10",
       "album": {
-        "name": "Where the Light Is",
-        "url": "https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "Sunday Best",
-      "url": "https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo"
-    },
-    {
-      "added_at": "2021-03-24 01:27:10",
-      "album": {
         "name": "The Very Best Of Kool & The Gang (Reissue)",
         "url": "https://open.spotify.com/album/1rDjSDjjzVfpnsb3GgREFf"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 212906,
       "name": "Get Down On It - Single Version",
       "url": "https://open.spotify.com/track/4yKZACkuudvfd600H2dQie"
+    },
+    {
+      "added_at": "2021-03-24 01:27:10",
+      "album": {
+        "name": "Where the Light Is",
+        "url": "https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "Sunday Best",
+      "url": "https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo"
     },
     {
       "added_at": "2021-03-24 01:27:10",

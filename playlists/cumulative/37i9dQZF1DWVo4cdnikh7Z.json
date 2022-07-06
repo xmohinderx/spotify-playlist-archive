@@ -83,6 +83,10 @@
       },
       "artists": [
         {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
           "name": "Shadab Faridi",
           "url": "https://open.spotify.com/artist/6WixbETKEXH0xBf0OB9kRB"
         }
@@ -1203,6 +1207,28 @@
       "duration_ms": 284823,
       "name": "Konji Konji",
       "url": "https://open.spotify.com/track/283ahrhJdL0d1QXSY6uIzr"
+    },
+    {
+      "album": {
+        "name": "Kurumugil [From \"Sita Ramam (Tamil)\"]",
+        "url": "https://open.spotify.com/album/3QbblpY2hZM0cEhAs3baV7"
+      },
+      "artists": [
+        {
+          "name": "Vishal Chandrashekhar",
+          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
+        },
+        {
+          "name": "Sai Vignesh",
+          "url": "https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218808,
+      "name": "Kurumugil (From \"Sita Ramam (Tamil)\")",
+      "url": "https://open.spotify.com/track/5e2eJl3qNNGWllzSFCYrad"
     },
     {
       "album": {

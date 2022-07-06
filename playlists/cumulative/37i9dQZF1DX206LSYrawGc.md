@@ -4,7 +4,7 @@
 
 > 80s rock to fuel your ride\. Cover: Guns N' Roses
 
-66 songs - 4 hr 43 min - [published](https://open.spotify.com/playlist/3hAccsICN2Mkk5YbDegR4U)
+67 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/3hAccsICN2Mkk5YbDegR4U)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,11 +14,11 @@
 | [Bad Medicine](https://open.spotify.com/track/72hcFp4tYkd3dbNA9dZ3Pv) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [New Jersey \(Deluxe Edition\)](https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR) | 5:16 | 2022-06-29 |  |
 | [Bang Bang](https://open.spotify.com/track/4p4YiROw0qF059Mcstu8rl) | [Danger Danger](https://open.spotify.com/artist/1VaIDrxow5xfLmB9R26JVZ) | [Danger Danger](https://open.spotify.com/album/3fkdfqYl5Ky1jbpEWqDe5U) | 3:56 | 2021-03-16 | 2022-06-29 |
 | [Breaking the Chains](https://open.spotify.com/track/2W7CvGjipq3EmHqNGN7lN9) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Breaking the Chains](https://open.spotify.com/album/7f89NbaCH568pUcYy6mqBq) | 3:51 | 2021-03-16 | 2022-05-19 |
-| [Burning Heart \- From "Rocky IV" Soundtrack](https://open.spotify.com/track/2VN7uPrbryJ7nE2MXX3f9a) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Survivor Greatest Hits](https://open.spotify.com/album/2wBiw6c2bGb4c9pnRdHw6X) | 3:50 | 2021-03-16 |  |
+| [Burning Heart \- From "Rocky IV" Soundtrack](https://open.spotify.com/track/2VN7uPrbryJ7nE2MXX3f9a) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Survivor Greatest Hits](https://open.spotify.com/album/2wBiw6c2bGb4c9pnRdHw6X) | 3:50 | 2021-03-16 | 2022-07-06 |
 | [Cult of Personality](https://open.spotify.com/track/5e3YOg6fIkP0wD5TyxcHOH) | [Living Colour](https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de) | [Vivid \(Expanded Edition\)](https://open.spotify.com/album/532IlegHv3OfVGgyCFGBTs) | 4:54 | 2021-03-16 |  |
 | [Cum on Feel the Noize](https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla) | [Quiet Riot](https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3) | [Metal Health](https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK) | 4:50 | 2021-03-16 |  |
 | [Don't Tell Me You Love Me](https://open.spotify.com/track/6E6uwOhAEHSzSvDewOBEvF) | [Night Ranger](https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH) | [Dawn Patrol](https://open.spotify.com/album/7JY3cUwV1QB3yf5q4eizYV) | 4:22 | 2021-03-16 |  |
-| [Down Boys](https://open.spotify.com/track/0dw3dXWx6dgp7Ri3HeDBUq) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Dirty Rotten Filthy Stinking Rich](https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS) | 4:03 | 2021-03-16 | 2022-07-04 |
+| [Down Boys](https://open.spotify.com/track/0dw3dXWx6dgp7Ri3HeDBUq) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Dirty Rotten Filthy Stinking Rich](https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS) | 4:03 | 2021-03-16 |  |
 | [Dr\. Feelgood](https://open.spotify.com/track/3U6sjwor2GyL9gwiolSi1Q) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood](https://open.spotify.com/album/6pL7kL9cOc0DpWCq6qJtxQ) | 4:49 | 2021-03-16 |  |
 | [Dude \(Looks Like A Lady\)](https://open.spotify.com/track/6gQUbFwwdYXlKdmqRoWKJe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 4:25 | 2021-03-16 |  |
 | [Edge Of A Broken Heart](https://open.spotify.com/track/2mEk0VdrbDJ11DBC6Y92mh) | [Vixen](https://open.spotify.com/artist/4wlPkvHKZzP2K8wtBzFRyY) | [Vixen](https://open.spotify.com/album/51aj98h378eXQJZXtIZKjK) | 4:25 | 2021-03-16 | 2022-06-26 |
@@ -45,7 +45,8 @@
 | [Mean Streak](https://open.spotify.com/track/7x46WcotUUy3ft5KcLqETA) | [Y&T](https://open.spotify.com/artist/49Cw140t9jupn4S3udehoP) | [Mean Streak](https://open.spotify.com/album/0kRmCI3ZWKux6NS3jIvRyO) | 4:06 | 2021-03-16 | 2022-06-30 |
 | [Modern Day Cowboy](https://open.spotify.com/track/5ZIU2kT1wNjQNclQeVCz5O) | [Tesla](https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU) | [Mechanical Resonance](https://open.spotify.com/album/1VctZj1UuAgfqtnDcTlzGI) | 5:18 | 2022-06-29 |  |
 | [Nobody's Fool](https://open.spotify.com/track/01Q4wU19hamqnhNjtuvTyI) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Night Songs](https://open.spotify.com/album/6Af1uU7Di8q9oHyXpgvrmY) | 4:47 | 2021-03-16 | 2022-07-01 |
-| [Nothin' But A Good Time](https://open.spotify.com/track/6G09JrmKdDAe29eSH8ZQmR) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Open Up And Say \. \. \. Ahh!](https://open.spotify.com/album/1XKDdHnYVcbcguSX2pXoP8) | 3:43 | 2021-03-16 |  |
+| [Nothin' But A Good Time](https://open.spotify.com/track/6G09JrmKdDAe29eSH8ZQmR) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Open Up And Say \. \. \. Ahh!](https://open.spotify.com/album/1XKDdHnYVcbcguSX2pXoP8) | 3:43 | 2021-03-16 | 2022-07-06 |
+| [Nothin' But A Good Time \- Remastered 2006](https://open.spotify.com/track/2V8KvnD5LVeeDChMWEkSzC) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Open Up And Say...Ahh! \(20th Anniversary Edition\)](https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd) | 3:44 | 2022-07-05 |  |
 | [Panama \- 2015 Remaster](https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 3:30 | 2021-03-16 |  |
 | [Paradise City](https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 6:45 | 2021-03-16 |  |
 | [Photograph](https://open.spotify.com/track/18URo35acNKRTHfEdjTcGn) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Pyromania](https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d) | 4:07 | 2021-03-16 |  |

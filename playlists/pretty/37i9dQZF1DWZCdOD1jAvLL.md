@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: 401 WST
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,459 likes - 88 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,517 likes - 88 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

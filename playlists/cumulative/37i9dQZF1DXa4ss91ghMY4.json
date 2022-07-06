@@ -157,7 +157,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 173710,
       "name": "34+35",
       "url": "https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 183014,
       "name": "All 4 Nothing (I'm So In Love)",
       "url": "https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5"
@@ -765,7 +765,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 187453,
       "name": "Arcade (feat. FLETCHER)",
       "url": "https://open.spotify.com/track/4Ld4kbKo1eOzToQ0P8JA0V"
@@ -823,7 +823,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 170344,
       "name": "At My Worst",
       "url": "https://open.spotify.com/track/0ri0Han4IRJhzvERHOZTMr"
@@ -2341,7 +2341,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 106880,
       "name": "Even When/The Best Part - From \"High School Musical: The Musical: The Series (Season 2)\"",
       "url": "https://open.spotify.com/track/30UszgTxEuJVG5SUFyBffT"
@@ -2509,7 +2509,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 174539,
       "name": "Fast Times",
       "url": "https://open.spotify.com/track/0oN3KzKOxYtyIuNiobf8Q4"
@@ -2527,7 +2527,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 185469,
       "name": "Feel It Now",
       "url": "https://open.spotify.com/track/6CoeZ8TZiBTXSVBhXhmgTD"
@@ -4215,7 +4215,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 161351,
       "name": "LazyBaby",
       "url": "https://open.spotify.com/track/4jjI9eHfSHtsmacfjeZvhc"
@@ -4241,6 +4241,32 @@
       "duration_ms": 154983,
       "name": "Leave Before You Love Me (with Jonas Brothers)",
       "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
+    },
+    {
+      "album": {
+        "name": "Left and Right (Feat. Jung Kook of BTS)",
+        "url": "https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154486,
+      "name": "Left and Right (Feat. Jung Kook of BTS)",
+      "url": "https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3"
     },
     {
       "album": {
@@ -4427,7 +4453,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 153865,
       "name": "Lifestyle (feat. Adam Levine)",
       "url": "https://open.spotify.com/track/0osvOdeD3YXZiWkT8MKolJ"
@@ -4687,7 +4713,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 177731,
       "name": "Love To Lose",
       "url": "https://open.spotify.com/track/11lFSEnkj3810ojPLj53RO"
@@ -6103,7 +6129,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 182200,
       "name": "Rain On Me (with Ariana Grande)",
       "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
@@ -6819,7 +6845,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-09",
+      "date_removed": null,
       "duration_ms": 183226,
       "name": "Sleep Tight - Edit",
       "url": "https://open.spotify.com/track/0RbE1ZbqtX6Y3aMBwmcT5Q"
@@ -7229,7 +7255,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 163854,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
@@ -7349,7 +7375,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 181881,
       "name": "Sweet Dream",
       "url": "https://open.spotify.com/track/1BIKSPrF0M1U6u83MTKmDu"
@@ -8375,7 +8401,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 183536,
       "name": "Who's In Your Head",
       "url": "https://open.spotify.com/track/5nhW8I46uDE5sc5ouEbzao"

@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 158220,
       "name": "24/5",
       "url": "https://open.spotify.com/track/1A6gT680oQr98VtDkNzys7"
@@ -951,7 +951,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 211837,
       "name": "Best Days",
       "url": "https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ"
@@ -1389,7 +1389,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 183937,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/6Xa2rrTpSLkpx887Y115mO"
@@ -1695,7 +1695,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 199169,
       "name": "cheap sunglasses",
       "url": "https://open.spotify.com/track/4E94u3v7VnEFZkaRIYtad7"
@@ -2645,7 +2645,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 201657,
       "name": "Emily",
       "url": "https://open.spotify.com/track/7qGzlqZnl6j8qccvV70PhL"
@@ -2955,7 +2955,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 204314,
       "name": "feel like shit",
       "url": "https://open.spotify.com/track/2EBnvom1dTybtm75a3Xh1T"
@@ -2973,7 +2973,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 169768,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/0FhFZbyZbkUh5uyAKesmDL"
@@ -3125,7 +3125,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 169672,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/2Xy1UIVfOlukyye6Fd0wrI"
@@ -3893,6 +3893,24 @@
     {
       "album": {
         "name": "Heaven",
+        "url": "https://open.spotify.com/album/1K5R5JjqMQnT9wFFCGMGnw"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194141,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4hpGHoJuJTtAqq9pkevLp6"
+    },
+    {
+      "album": {
+        "name": "Heaven",
         "url": "https://open.spotify.com/album/7zvlOXQgusNzrFMADWbz8G"
       },
       "artists": [
@@ -4289,7 +4307,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 191375,
       "name": "Hurts So Good - Maximillian & Kina Version",
       "url": "https://open.spotify.com/track/5k0bVtIAXVdK2zc53W8Lh5"
@@ -4423,7 +4441,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 150560,
       "name": "I Just Called",
       "url": "https://open.spotify.com/track/0H8Tclo4x4kbZruQtZFNSX"
@@ -4997,7 +5015,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 125746,
       "name": "It Is What It Is",
       "url": "https://open.spotify.com/track/2kHcMUgIqU3t87wjoGhrd6"
@@ -5207,7 +5225,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 198220,
       "name": "Keep Your Head Up Princess",
       "url": "https://open.spotify.com/track/19pChrR4hwdINqoOFUo2Hj"
@@ -5555,7 +5573,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 190527,
       "name": "Looks Like Me",
       "url": "https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA"
@@ -5933,7 +5951,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 163226,
       "name": "Meant To Be",
       "url": "https://open.spotify.com/track/136J2Jkg8sG7P5wilO9P1R"
@@ -6067,7 +6085,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 203660,
       "name": "Million To One - from the Amazon Original Movie \"Cinderella\"",
       "url": "https://open.spotify.com/track/3lzYrD0WcgGFiAFKkB2shE"
@@ -6161,7 +6179,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 178994,
       "name": "Monster (Shawn Mendes & Justin Bieber)",
       "url": "https://open.spotify.com/track/2Z8yfpFX0ZMavHkcIeHiO1"
@@ -6383,7 +6401,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 162316,
       "name": "never mind, let's break up",
       "url": "https://open.spotify.com/track/7HmYcLhoo4MVRSUVZSRIpg"
@@ -6713,7 +6731,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 159862,
       "name": "OK Not To Be OK",
       "url": "https://open.spotify.com/track/0zzVTGyRrWpQu8Fr28NRAv"
@@ -8335,7 +8353,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 221086,
       "name": "SOS",
       "url": "https://open.spotify.com/track/6p4KCy1eh253tyYdSa1TSx"
@@ -8669,7 +8687,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 202356,
       "name": "Teach Me How To Love",
       "url": "https://open.spotify.com/track/5LZtB6nxvjIhUoElp3Zqk0"
@@ -9181,7 +9199,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 174586,
       "name": "this is how you fall in love",
       "url": "https://open.spotify.com/track/0742PcMPo2Akmo4vHC29VZ"
@@ -9349,7 +9367,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 186935,
       "name": "too many feelings",
       "url": "https://open.spotify.com/track/3tb3sGsGLnSsyUxue8Aetd"
@@ -9469,7 +9487,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 155361,
       "name": "Unlearn (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/6GH4tLwGW6HliKbZBdt6hD"
@@ -9709,7 +9727,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 165506,
       "name": "We're Good",
       "url": "https://open.spotify.com/track/1diS6nkxMQc3wwC4G1j0bh"
@@ -9873,7 +9891,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 173242,
       "name": "When I\u00b4m Still Getting Over You (feat. Paige)",
       "url": "https://open.spotify.com/track/7suhPkKX61NRfwW7A4TK6t"
@@ -10087,7 +10105,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 161384,
       "name": "WITHOUT YOU (with Miley Cyrus)",
       "url": "https://open.spotify.com/track/1EHUQesfVKwbthtNcpBi9g"
@@ -10317,7 +10335,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 175435,
       "name": "You for Me",
       "url": "https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp"

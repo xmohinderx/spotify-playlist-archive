@@ -288,6 +288,24 @@
     },
     {
       "album": {
+        "name": "Be Together",
+        "url": "https://open.spotify.com/album/08PY9Tcg4FRNJkMMhC67NH"
+      },
+      "artists": [
+        {
+          "name": "Solh",
+          "url": "https://open.spotify.com/artist/2Wyb3ehERUPJRsKC1beY7D"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Be Together",
+      "url": "https://open.spotify.com/track/4Jnu9TMfBEOpUUBe9aB643"
+    },
+    {
+      "album": {
         "name": "Be With You (with Dubdogz)",
         "url": "https://open.spotify.com/album/1Ya9IXkQAFmUq5JZHryk6R"
       },

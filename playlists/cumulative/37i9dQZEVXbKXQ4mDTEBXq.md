@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-166 songs - 10 hr 37 min - [published](https://open.spotify.com/playlist/04dEl2TLTd4YmOYBIzuy2M)
+167 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/04dEl2TLTd4YmOYBIzuy2M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,13 +112,14 @@
 | [ハルカ](https://open.spotify.com/track/5D9MPWdY2hjSeTIGE5n5kv) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:03 | 2021-03-27\* | 2021-11-20 |
 | [ハルジオン](https://open.spotify.com/track/08YwAPnX8sygJUXG9rvhDv) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 3:18 | 2021-03-27\* | 2021-11-25 |
 | [ハート](https://open.spotify.com/track/6cvKfEw8rDcmXBslqSEC9G) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ハート](https://open.spotify.com/album/2TMrGnNWnF1GgUwRY427zk) | 4:31 | 2021-11-26 |  |
+| [バニラ](https://open.spotify.com/track/0zfNtgPJ5FLkbveRjSdCMb) | [Kyanai](https://open.spotify.com/artist/42ogLtXLVjZryRz9j1zvOm) | [バニラ](https://open.spotify.com/album/5z81aORHET86OyFXrkugMb) | 4:11 | 2022-07-05 |  |
 | [ベテルギウス](https://open.spotify.com/track/2sf18cEv463VgqmdjDsFpw) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [ベテルギウス](https://open.spotify.com/album/25FWSs9iK7hQqyK2fdKvSV) | 3:50 | 2021-11-06 | 2022-01-14 |
 | [ベテルギウス](https://open.spotify.com/track/4JK1kDUdH9RTBQrrSO1QfR) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [壱](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) | 3:50 | 2022-01-13 |  |
 | [ホワイトキス](https://open.spotify.com/track/7sRYDTjWTX00fd9BCOflLo) | [鈴木鈴木](https://open.spotify.com/artist/76QUiw7IqXtPsy2dqmr2ev) | [ホワイトキス](https://open.spotify.com/album/6cHRZiDktZjUR4LUT0q3jf) | 4:34 | 2021-12-28 | 2022-02-09 |
 | [マリーゴールド](https://open.spotify.com/track/2cKiHG16JBiqHdi7Llq0r7) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞬間的シックスセンス](https://open.spotify.com/album/7fIqmc4GIaueaiAoDifAaA) | 5:06 | 2021-03-27\* | 2021-06-03 |
 | [ミックスナッツ](https://open.spotify.com/track/60ReNXcPcsVFd7nUuQw5HZ) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [ミックスナッツ](https://open.spotify.com/album/3O9SqecmKFv2ZafPKwahtz) | 3:33 | 2022-04-16 |  |
 | [ミライチズ](https://open.spotify.com/track/3mSqtn05vfpqAMpFTLsxpi) | [Yoru no Hitowarai](https://open.spotify.com/artist/2q2P3aOEL8WUFApgPupsM9) | [ミライチズ](https://open.spotify.com/album/1qogh6gwk9pSvO97IxIaIO) | 3:59 | 2021-11-12 | 2022-04-09 |
-| [ヨワネハキ](https://open.spotify.com/track/0FOVGBW0RpVRuDuUuN4ZVw) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [ヨワネハキ](https://open.spotify.com/album/5cVWpOwex504JeWwqE3Q7y) | 2:46 | 2021-09-02 |  |
+| [ヨワネハキ](https://open.spotify.com/track/0FOVGBW0RpVRuDuUuN4ZVw) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [ヨワネハキ](https://open.spotify.com/album/5cVWpOwex504JeWwqE3Q7y) | 2:46 | 2021-09-02 | 2022-07-06 |
 | [ラブレター](https://open.spotify.com/track/0EzChFKeHX8U5jxerTIBLh) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 2](https://open.spotify.com/album/5uStDUB4nlmItpz2AYlFtd) | 3:30 | 2021-12-04 | 2021-12-05 |
 | [ラブレター](https://open.spotify.com/track/0UcjHexmVrLkUOflxPefNe) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 2](https://open.spotify.com/album/2Ltmu8tslylv8YlBkyrcgY) | 3:30 | 2021-12-03 | 2021-12-20 |
 | [ラブレター](https://open.spotify.com/track/185Wm4Mx09dQG0fUktklDm) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [ラブレター](https://open.spotify.com/album/6RfHLN2DLnZLAvR5Ogb4jA) | 3:32 | 2021-08-11 | 2021-12-03 |

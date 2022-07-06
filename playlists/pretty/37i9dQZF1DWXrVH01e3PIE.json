@@ -1,13 +1,37 @@
 {
   "description": "Bhavi en la casa del Trap de Argentino.",
-  "num_followers": 530581,
+  "num_followers": 530692,
   "original_name": "Trapperz Argentina.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQzNDgwMCwwMDAwMDE0NzAwMDAwMTgxNmY5YTZjMDcwMDAwMDE4MTZjYjEwZTZh",
+  "snapshot_id": "MTY1NzA1MzA5NiwwMDAwMDE0ODAwMDAwMTgxZDAwZmE4YWEwMDAwMDE4MTZjYjEwZTZh",
   "tracks": [
+    {
+      "added_at": "2022-06-17 03:00:00",
+      "album": {
+        "name": "Desde el Fin del Mundo",
+        "url": "https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        }
+      ],
+      "duration_ms": 167340,
+      "name": "Pintao",
+      "url": "https://open.spotify.com/track/0B8yu7yLe1UsXv6gewHRv2"
+    },
     {
       "added_at": "2022-06-17 03:00:00",
       "album": {
@@ -83,30 +107,6 @@
     {
       "added_at": "2022-06-17 03:00:00",
       "album": {
-        "name": "Desde el Fin del Mundo",
-        "url": "https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "YSY A",
-          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
-        },
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        }
-      ],
-      "duration_ms": 167340,
-      "name": "Pintao",
-      "url": "https://open.spotify.com/track/0B8yu7yLe1UsXv6gewHRv2"
-    },
-    {
-      "added_at": "2022-06-17 03:00:00",
-      "album": {
         "name": "Busc\u00e1ndome",
         "url": "https://open.spotify.com/album/2q5fSdsR4ZNFFQHkrxWJmz"
       },
@@ -119,6 +119,26 @@
       "duration_ms": 109830,
       "name": "Michael Jackson",
       "url": "https://open.spotify.com/track/1LtLDhTfnPsnbxx6TsfY5q"
+    },
+    {
+      "added_at": "2022-06-17 03:00:00",
+      "album": {
+        "name": "She Don't Give a Fo",
+        "url": "https://open.spotify.com/album/42ZO19JImkKWh6y7rfvrfM"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 209531,
+      "name": "She Don't Give a Fo",
+      "url": "https://open.spotify.com/track/03a359wbiUsjN9h6yzXvmS"
     },
     {
       "added_at": "2022-06-17 03:00:00",
@@ -279,26 +299,6 @@
     {
       "added_at": "2022-06-17 03:00:00",
       "album": {
-        "name": "She Don't Give a Fo",
-        "url": "https://open.spotify.com/album/42ZO19JImkKWh6y7rfvrfM"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 209531,
-      "name": "She Don't Give a Fo",
-      "url": "https://open.spotify.com/track/03a359wbiUsjN9h6yzXvmS"
-    },
-    {
-      "added_at": "2022-06-17 03:00:00",
-      "album": {
         "name": "POCHOCLOS",
         "url": "https://open.spotify.com/album/6nL86gkh34yZ2vXjRXmHVP"
       },
@@ -347,6 +347,30 @@
       "duration_ms": 167318,
       "name": "GRR PAW",
       "url": "https://open.spotify.com/track/38MEJAGU5Ks6gEHdKG9Q3v"
+    },
+    {
+      "added_at": "2022-07-05 20:31:36",
+      "album": {
+        "name": "G-Class",
+        "url": "https://open.spotify.com/album/4x8c78mU51FjjpI2A1Tdc0"
+      },
+      "artists": [
+        {
+          "name": "Blunted Vato",
+          "url": "https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR"
+        },
+        {
+          "name": "Khaled",
+          "url": "https://open.spotify.com/artist/2YxK9SbJeVfkfk6QWHqj8K"
+        },
+        {
+          "name": "Ess",
+          "url": "https://open.spotify.com/artist/0nRYnTumOGj5qnhPKjV4Es"
+        }
+      ],
+      "duration_ms": 135555,
+      "name": "G-Class",
+      "url": "https://open.spotify.com/track/6NyMkv98F7Em4dDkhmMPXm"
     },
     {
       "added_at": "2022-06-17 03:00:00",
@@ -2151,26 +2175,6 @@
       "duration_ms": 123093,
       "name": "DUDADE",
       "url": "https://open.spotify.com/track/1mjHyr9e7uP0QisX3y7a6T"
-    },
-    {
-      "added_at": "2022-06-17 03:00:00",
-      "album": {
-        "name": "Corta",
-        "url": "https://open.spotify.com/album/5sx95OKsbaJiqeC1YOtDJr"
-      },
-      "artists": [
-        {
-          "name": "Bize 4r",
-          "url": "https://open.spotify.com/artist/1BOreb2HnMed0s1z68eD4c"
-        },
-        {
-          "name": "Andr\u00e9s Da Mommio",
-          "url": "https://open.spotify.com/artist/39EpNL9a9HRBI9ffgOyVXe"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Corta",
-      "url": "https://open.spotify.com/track/2Eien2rGtpBP8z8kBZszmZ"
     }
   ],
   "unique_name": "Trapperz Argentina.",

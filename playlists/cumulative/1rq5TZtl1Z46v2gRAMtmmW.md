@@ -4,7 +4,7 @@
 
 > 
 
-49 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/00UhKXWqnjDp1h5ObJQWCd)
+50 songs - 3 hr 52 min - [published](https://open.spotify.com/playlist/00UhKXWqnjDp1h5ObJQWCd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,17 +30,18 @@
 | [Hidden Angel](https://open.spotify.com/track/6txbToi4pugOMA8zro3Ma9) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu) | [Hidden Angel](https://open.spotify.com/album/48m80PFbxDUrWQreHMgIXZ) | 3:48 | 2022-04-05 |  |
 | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/track/302te1PaXydwxxX6aIjkhn) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/album/0KGJSvayWmKlbQW49bZQIt) | 3:51 | 2022-02-10 |  |
 | [In Your Spirit](https://open.spotify.com/track/4PQPYZ863197i6DImT4fmY) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu) | [Invisible Forces](https://open.spotify.com/album/77VUrQTnM0m5F1fIbdiwXr) | 4:47 | 2022-05-03 |  |
+| [Incredibly Annoying](https://open.spotify.com/track/7iHetqDyri7aXIyl69QqHG) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Incredibly Annoying](https://open.spotify.com/album/2EHzdOCliBlaKJWTJ7A8li) | 2:14 | 2022-07-05 |  |
 | [Infinite Window](https://open.spotify.com/track/2EqeGPRUCz1sFz7etlN21Y) | [Kuedo](https://open.spotify.com/artist/1SYQUJukd40ps4z6RT77rC) | [Infinite Window](https://open.spotify.com/album/7nUDFp7PYZGbXD6FFkhKB2) | 4:49 | 2022-06-29 |  |
 | [JGS](https://open.spotify.com/track/0lYuxJG0W5ReSZ31j6Lnqv) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [JGS](https://open.spotify.com/album/09134EF46MKmsFGuFU4lZj) | 4:40 | 2022-06-15 |  |
 | [Last Before Lights](https://open.spotify.com/track/4XJzx9heqQe10RmwHRVYIl) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [All Hours](https://open.spotify.com/album/3IR4b0tGlu8yYzHFix9TwN) | 6:06 | 2021-10-15 | 2022-06-29 |
-| [Life In A Mind](https://open.spotify.com/track/4JVF59QcAnw65v74ZK4DW2) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Tread](https://open.spotify.com/album/5wKXfInna4rPKYVhdiSgQA) | 5:03 | 2021-10-22 |  |
+| [Life In A Mind](https://open.spotify.com/track/4JVF59QcAnw65v74ZK4DW2) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Tread](https://open.spotify.com/album/5wKXfInna4rPKYVhdiSgQA) | 5:03 | 2021-10-22 | 2022-07-06 |
 | [Lost Island](https://open.spotify.com/track/7oZ1Px5qTBgeDS3vo1YMfr) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Lost Island](https://open.spotify.com/album/4ztEDBvcCmE1RRpEMI0KM0) | 4:33 | 2022-05-25 |  |
 | [Lucky You](https://open.spotify.com/track/0E10pZR7dp8QkUjXT57qru) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [Lucky You](https://open.spotify.com/album/73kzrMZuaXfa9AT7UviQLZ) | 4:36 | 2022-06-09 |  |
 | [Make You Scream](https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Make You Scream](https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46) | 2:43 | 2022-05-31 |  |
 | [Manifest Bliss](https://open.spotify.com/track/00zuA8ffiWgB0V1xWDsZMD) | [United Freedom Collective](https://open.spotify.com/artist/37OT8Wms6fBIzNUJW0d1PW) | [Manifest Bliss](https://open.spotify.com/album/5sNkxXwePuzlom2AJQi5cf) | 4:34 | 2022-04-22 |  |
 | [March On](https://open.spotify.com/track/3sd9QKIResfhBak1dgZyap) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Time Goes](https://open.spotify.com/album/3QXhljB4WyuQRD5LNdh1zv) | 4:36 | 2022-04-29 |  |
 | [Meli \(II\)](https://open.spotify.com/track/6nGhGBz7uaE1RngnIFRKep) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Meli \(II\)](https://open.spotify.com/album/6pDZnLDqV5XuiVmuSw7oZs) | 6:57 | 2022-06-28 |  |
-| [Music To Heal To](https://open.spotify.com/track/2KvkzuYVnHaGEYbY5gfF8R) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Harmonic Frequencies](https://open.spotify.com/album/0xk9jsZcE6LAl9jNEqBQz7) | 6:23 | 2021-11-20 |  |
+| [Music To Heal To](https://open.spotify.com/track/2KvkzuYVnHaGEYbY5gfF8R) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Harmonic Frequencies](https://open.spotify.com/album/0xk9jsZcE6LAl9jNEqBQz7) | 6:23 | 2021-11-20 | 2022-07-06 |
 | [Philip](https://open.spotify.com/track/41tqllNwBvxWR4uf7kEnQ1) | [Jameszoo](https://open.spotify.com/artist/5qvYokMeJUfBYTqaUnegE8) | [Blind](https://open.spotify.com/album/6VUfuupSMlz8fQNEp1dO26) | 4:21 | 2022-03-11 |  |
 | [pour up](https://open.spotify.com/track/2nFiKmoQFJGGYCZBYw18aY) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT), [DJ Nativesun](https://open.spotify.com/artist/3rdO5iHjXkfY8ZbnQYJBrm) | [pour up](https://open.spotify.com/album/31E1hs0ugtNJTxgcnEhAx9) | 2:05 | 2022-06-02 | 2022-06-21 |
 | [Power \- Floorplan Remix \- Extended](https://open.spotify.com/track/4r4cj7swbafcn17Qhu5eb2) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Power \(Floorplan Remix\)](https://open.spotify.com/album/7GcdVFM0oEkvAQqrP2LTHQ) | 6:05 | 2021-10-04 | 2022-06-15 |

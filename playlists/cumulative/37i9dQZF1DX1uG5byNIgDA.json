@@ -211,7 +211,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 251279,
       "name": "Answer : Love Myself",
       "url": "https://open.spotify.com/track/4eVkn18rN4GguUWOsR6Use"
@@ -319,7 +319,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 194426,
       "name": "BBIBBI",
       "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
@@ -337,7 +337,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 229066,
       "name": "be",
       "url": "https://open.spotify.com/track/2ixTL8BqsPxaH9qPgEhFV1"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 230148,
       "name": "BEST FRIEND",
       "url": "https://open.spotify.com/track/5GB0hU37rKZNVsHMu7FOM9"
@@ -669,7 +669,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 187659,
       "name": "cocoa",
       "url": "https://open.spotify.com/track/4PtG12oVoSFfJnkQ6jjRiC"
@@ -1187,7 +1187,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 209618,
       "name": "Eternal Sunshine",
       "url": "https://open.spotify.com/track/76mWY4B10RpcuxsA4nfqp3"
@@ -1353,7 +1353,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 206868,
       "name": "Feel Special",
       "url": "https://open.spotify.com/track/14rWuS6yllHOdfZ8sZsZUj"
@@ -1791,7 +1791,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 218880,
       "name": "Hello",
       "url": "https://open.spotify.com/track/3cGp1jXxLReLKz7QgVbWZR"
@@ -1809,7 +1809,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 220920,
       "name": "Hello Future",
       "url": "https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6"
@@ -1863,7 +1863,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 234177,
       "name": "HOME",
       "url": "https://open.spotify.com/track/7lthOBXNue2IvedLRfkod8"
@@ -2051,6 +2051,24 @@
       "duration_ms": 207804,
       "name": "i i i",
       "url": "https://open.spotify.com/track/2Phn8k2Eaxg73jY17SH7nq"
+    },
+    {
+      "album": {
+        "name": "HOLIDAY",
+        "url": "https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "I LOVE U",
+      "url": "https://open.spotify.com/track/02Vb9vfZUmqAKNhQwFjPSZ"
     },
     {
       "album": {
@@ -2359,7 +2377,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 208040,
       "name": "Jam & Butterfly",
       "url": "https://open.spotify.com/track/5rZkRaL4AjykFgw49KULyo"
@@ -2395,7 +2413,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 261120,
       "name": "Je T'aime",
       "url": "https://open.spotify.com/track/3wS47sXPddjE6rbhU7u20w"
@@ -2503,7 +2521,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 218822,
       "name": "Light",
       "url": "https://open.spotify.com/track/2KnNV0Ahhb5qkK83LKymZE"
@@ -2749,7 +2767,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 236829,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/2zlgwqw8BLX2JGB76LIFeF"
@@ -2785,7 +2803,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 172258,
       "name": "Monday \uc6d4\uc694\uc77c",
       "url": "https://open.spotify.com/track/3fe9nxKo2Mnv3ArleWImn9"
@@ -2861,7 +2879,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 195982,
       "name": "MY TREASURE",
       "url": "https://open.spotify.com/track/4Dq2FjRkOTHcssggMdYK8J"
@@ -2879,7 +2897,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 203424,
       "name": "My Universe (Seungmin, I.N Feat. Changbin)",
       "url": "https://open.spotify.com/track/2PGhCLeiYBYU4xIAMHLpyA"
@@ -2951,7 +2969,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 181196,
       "name": "Not For Sale",
       "url": "https://open.spotify.com/track/3dG1jxbfBIZvzyFwAcsmS0"
@@ -3503,7 +3521,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 194600,
       "name": "SCIENTIST",
       "url": "https://open.spotify.com/track/2J0TRU2EDG29qlmxdGa4xa"
@@ -4063,7 +4081,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 222284,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/2wpiWR4tTz4ewnYV1v4KQC"
@@ -4157,7 +4175,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 194234,
       "name": "Take Me To You",
       "url": "https://open.spotify.com/track/4CtTi2tSRjUc6vABWAgUNp"
@@ -4349,7 +4367,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 198266,
       "name": "Think Of You",
       "url": "https://open.spotify.com/track/5Hvi3XSS00txHgZB6UZhFl"
@@ -4631,7 +4649,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 195893,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/41KiFWhvIgjdVura4h93Zh"
@@ -4667,7 +4685,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 191720,
       "name": "VOYAGER",
       "url": "https://open.spotify.com/track/5RFmdm8haNptn9Mqo7ABZ5"
@@ -4729,7 +4747,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 208773,
       "name": "Warning (Feat. lIlBOI)",
       "url": "https://open.spotify.com/track/1j795THd14Z0PmA3O18EwU"
@@ -4783,7 +4801,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 190840,
       "name": "what is life?",
       "url": "https://open.spotify.com/track/45O9E7K3A2nPSAfe3hI36E"
@@ -4837,7 +4855,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 235386,
       "name": "Winter Falls",
       "url": "https://open.spotify.com/track/0uQIb3EOcrw5tnRLXIAqbD"
@@ -4855,7 +4873,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 191788,
       "name": "Wishlist",
       "url": "https://open.spotify.com/track/1xo0SABqJrTriyMb2JMtLg"
@@ -5025,7 +5043,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 227213,
       "name": "zZ(Tired) zZ(\ud53c\uace4\ud574) (With Yebit)",
       "url": "https://open.spotify.com/track/6CglZ5FFyt53qOhngetABc"
@@ -5079,7 +5097,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 210450,
       "name": "\uc62c\ud574 \uc81c\uc77c \uc798\ud55c \uc77c The Best Thing I Ever Did",
       "url": "https://open.spotify.com/track/1LiKPVgIQdR5Rk97o8a1fF"

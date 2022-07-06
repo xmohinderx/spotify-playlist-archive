@@ -4,7 +4,7 @@
 
 > Let's turn ON the movement! Cover: j\-hope
 
-146 songs - 7 hr 58 min - [published](https://open.spotify.com/playlist/05j7NY1SwyJ5jKPj2s00I0)
+147 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/05j7NY1SwyJ5jKPj2s00I0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Hot Sauce](https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:15 | 2021-12-13 | 2022-01-11 |
 | [Hot Sauce](https://open.spotify.com/track/6TnmKnDtpu47ENJk6urK6y) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:15 | 2022-03-09 | 2022-03-30 |
 | [How You Like That](https://open.spotify.com/track/6bvZRLLkBKkmgpBJTTj3QK) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/2gNPnKP1PDkB5SZz3IMKuX) | 3:00 | 2022-03-08 | 2022-05-10 |
+| [I LOVE U](https://open.spotify.com/track/02Vb9vfZUmqAKNhQwFjPSZ) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [HOLIDAY](https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH) | 2:56 | 2022-07-05 |  |
 | [I\`m a B](https://open.spotify.com/track/1AToLLvWghQgiBFef1iGuR) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Guilty Pleasure](https://open.spotify.com/album/7jke1vYOze3jdyTiWhtFnz) | 2:47 | 2021-12-13 | 2022-02-17 |
 | [Illusion](https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Illusion](https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST) | 3:15 | 2022-06-02 |  |
 | [In the morning](https://open.spotify.com/track/2QdH0rKlV3d9Y6lWzcnlBH) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX) | 2:52 | 2021-12-13 | 2022-02-17 |

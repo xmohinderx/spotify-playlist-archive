@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-446 songs - 1 day 1 hr 0 min - [published](https://open.spotify.com/playlist/05mBfCDcqpe58bcfcRKya9)
+447 songs - 1 day 1 hr 3 min - [published](https://open.spotify.com/playlist/05mBfCDcqpe58bcfcRKya9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [אחרי החתונה](https://open.spotify.com/track/3VnYSB6Mf5hx0GNYPcqbOl) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [3](https://open.spotify.com/album/5MhbWal97Bbh3Ho7xodWli) | 3:05 | 2021-08-06 | 2021-08-13 |
 | [אייכה](https://open.spotify.com/track/0h9lqpfcS37U6zvDCKwQhX) | [Shuli Rand](https://open.spotify.com/artist/7CgBEyXbjOjFX3HiysHtXN) | [נקודה טובה](https://open.spotify.com/album/79lA2NI0UCHT1FqFwB3m42) | 4:06 | 2022-04-29 | 2022-05-07 |
 | [אין אותי יותר](https://open.spotify.com/track/6WBr8kINUWO14iuQSjgNI0) | [Gal Adam](https://open.spotify.com/artist/5sbVEFMCfdQ0T3vCqXax1K) | [אין אותי יותר](https://open.spotify.com/album/3G61OcEbQU2hBLF0XPvP3v) | 2:49 | 2021-03-27\* | 2021-04-26 |
+| [אין לי כח](https://open.spotify.com/track/4XCGTV9uchQOFffzH1eqDo) | [Alin Golan](https://open.spotify.com/artist/0e2paefwT1ZqF2uvVq8Ldv) | [אין לי כח](https://open.spotify.com/album/4IwjBNQDDQkiM1spf5Kiin) | 3:29 | 2022-07-05 |  |
 | [אין מאושר ממני](https://open.spotify.com/track/0XQ39JCh0I9tsKEmwMEH5F) | [Eliad](https://open.spotify.com/artist/3F78m0H4Y4a1Dvd79TKVvw) | [מסע](https://open.spotify.com/album/088zTAQ5eV3aBrBgesvNSJ) | 2:52 | 2021-12-29 | 2022-01-23 |
 | [אין מאושר ממני](https://open.spotify.com/track/1TroPJnGcLa8GB7cxHA841) | [Eliad](https://open.spotify.com/artist/3F78m0H4Y4a1Dvd79TKVvw) | [אין מאושר ממני](https://open.spotify.com/album/6qSsJvGlN8Yupe9M3PnRiT) | 2:52 | 2021-12-09 | 2021-12-30 |
 | [אל תגלי](https://open.spotify.com/track/0BPsxP81ujKwoZzcVpOLRZ) | [Eliad](https://open.spotify.com/artist/3F78m0H4Y4a1Dvd79TKVvw), [Metro the Savage](https://open.spotify.com/artist/3UN7UwFvKMNNEuqePbkmPJ) | [אל תגלי](https://open.spotify.com/album/2upHjoUUOPZuuXjJFJIqeU) | 3:06 | 2021-07-15 | 2021-09-26 |
@@ -338,7 +339,7 @@
 | [כל הכוכבים](https://open.spotify.com/track/6xtqda5h0wlcFn3WdI4pb6) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [מזרח פרוע](https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y) | 2:41 | 2021-12-18 | 2022-01-01 |
 | [כמו שאני](https://open.spotify.com/track/4OuoS8NAur7tj6rMDpTVjJ) | [Maya Dadon](https://open.spotify.com/artist/2CFhpsYDfBaq8q9enYLdBG) | [כמו שאני](https://open.spotify.com/album/7C2J1726TKx0QfQXoIkkEl) | 3:22 | 2022-04-04 |  |
 | [כשאת הולכת](https://open.spotify.com/track/2TE9K4A2YjHxkw7Um4Mudu) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [The 8](https://open.spotify.com/album/5dMa0I7cyLtXLn47oxGpph) | 3:30 | 2021-03-27\* | 2021-04-08 |
-| [לא היה מעולם](https://open.spotify.com/track/5pZmyjoGBrQ1inaZmXXpFA) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [לא היה מעולם](https://open.spotify.com/album/0g1opMY6902IcH7XIBrbLN) | 3:21 | 2022-06-18 |  |
+| [לא היה מעולם](https://open.spotify.com/track/5pZmyjoGBrQ1inaZmXXpFA) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [לא היה מעולם](https://open.spotify.com/album/0g1opMY6902IcH7XIBrbLN) | 3:21 | 2022-06-18 | 2022-07-06 |
 | [לא להיות לבד](https://open.spotify.com/track/16tcNezkJ5VETVDVC4m7gj) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [לא להיות לבד](https://open.spotify.com/album/0k6UX8ZPGWtQ0ilP6r6knR) | 3:00 | 2021-10-23 |  |
 | [לא מרגיש טוב](https://open.spotify.com/track/686FdlEzrYCttdUAFByYhI) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [לא מרגיש טוב](https://open.spotify.com/album/3bdYTqXYcqvOW36agrX804) | 2:40 | 2021-12-03 | 2022-02-13 |
 | [לאהובי](https://open.spotify.com/track/5nmq4anDakdMvojDYPkg6S) | [Avi Aburomi](https://open.spotify.com/artist/6vAJpFtiQ7xPtkArtCnHfr) | [סיבה לנשום](https://open.spotify.com/album/5x3hX8Av6UIZG4ng18QxZl) | 3:29 | 2022-05-05 | 2022-05-07 |

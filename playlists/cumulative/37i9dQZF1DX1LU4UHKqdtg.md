@@ -4,7 +4,7 @@
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: Kep1er
 
-250 songs - 14 hr 0 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
+252 songs - 14 hr 6 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [How Come](https://open.spotify.com/track/7uGuwtEGapMzkiRRl4O32a) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [How Come](https://open.spotify.com/album/47auHySKFWcInG4hDJTWAi) | 3:37 | 2022-05-24 |  |
 | [Hush Hush \- Korean Version](https://open.spotify.com/track/7ys6BVqLd76ztQvc4Qan0L) | [KANG DANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [Rookie Cops \(Original Television Soundtrack\) Special](https://open.spotify.com/album/1NJCW55EE56cOKkDA5RI49) | 3:01 | 2022-03-10 | 2022-05-11 |
 | [I CAN'T STOP ME \- Japanese ver.](https://open.spotify.com/track/1tyCxhxiHQ9DoHIiDMFPzL) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [\#TWICE4 \(Japanese ver.\)](https://open.spotify.com/album/5UMKm3ihuSD9WQDkwQ7btX) | 3:29 | 2022-03-15 | 2022-05-18 |
+| [I LOVE U](https://open.spotify.com/track/5C4LYdOg6MoaRcuPFnu7CC) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [HOLIDAY](https://open.spotify.com/album/7GzeKow6a3UwRNvJESxl3m) | 2:56 | 2022-07-05 |  |
 | [I want you to be happy](https://open.spotify.com/track/3VaPpNx6tSFotl2NywDpiy) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [I want you to be happy](https://open.spotify.com/album/3G6X4oBhIf8Xqgg8vxirjv) | 3:47 | 2022-04-19 | 2022-06-29 |
 | [Illusion](https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Illusion](https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST) | 3:15 | 2022-06-01 |  |
 | [imysm](https://open.spotify.com/track/1fnzWwpiHUxppDQ8EQccvW) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [imysm](https://open.spotify.com/album/77f8dmnqzJfEHel3QxTbsB) | 2:27 | 2022-06-30 |  |
@@ -121,6 +122,7 @@
 | [JUST BREATHE \- feat\. 3RACHA of Stray Kids](https://open.spotify.com/track/6PqDYUTmTGXnCfSDhm6AlJ) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [3RACHA of Stray Kids](https://open.spotify.com/artist/1GpgROLET8tI7DKTRz4EgO) | [JUST BREATHE \(feat\. 3RACHA of Stray Kids\)](https://open.spotify.com/album/4LYNdaRg79Yfj6nEPIB9L8) | 3:50 | 2022-02-22 | 2022-05-11 |
 | [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 | 2021-12-23 | 2022-02-22 |
 | [Last Breath](https://open.spotify.com/track/3oBrXFR59oxbYVBJZ6lHG2) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [Last Breath](https://open.spotify.com/album/1j6ugJWxbjmxT2nukjUIQj) | 2:41 | 2021-12-23 | 2022-02-22 |
+| [Last Sequence](https://open.spotify.com/track/0lNPjT58llQGlycRA2mea4) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [Sequence](https://open.spotify.com/album/2Cv3xionHF2O7QL8p6MbCT) | 3:07 | 2022-07-05 |  |
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2022-06-23 |  |
 | [Life goes on](https://open.spotify.com/track/6AyOCrNPVwDksMvmLpffTV) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [Life goes on](https://open.spotify.com/album/60uFZan2A6w6LsyH2Fg3tN) | 3:20 | 2022-06-21 |  |
 | [Life's Too Short \(English Version\)](https://open.spotify.com/track/5fHS1iSqjQfrQ7D0iLykav) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Life's Too Short \(English Version\)](https://open.spotify.com/album/3CwbWCk3lGoKaqdQ4Qtpkq) | 2:58 | 2022-06-23 |  |

@@ -976,6 +976,24 @@
     },
     {
       "album": {
+        "name": "Songs of Sonder",
+        "url": "https://open.spotify.com/album/5o1yAsAo4mvlgYptShBCow"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181266,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/2jv3f5GKP8ibGI0kvSQJc2"
+    },
+    {
+      "album": {
         "name": "Drowning",
         "url": "https://open.spotify.com/album/0ajrIRYzVQ3srvWYtlWOp5"
       },

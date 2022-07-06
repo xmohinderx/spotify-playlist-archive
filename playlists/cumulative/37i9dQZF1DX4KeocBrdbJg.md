@@ -4,7 +4,7 @@
 
 > eres mi bebé, mi bebito fiu fiu 💖
 
-148 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/4mSbOXa4eJQwXzHtWqAtSr)
+149 songs - 8 hr 26 min - [published](https://open.spotify.com/playlist/4mSbOXa4eJQwXzHtWqAtSr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Infinity](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something](https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z) | 3:57 | 2021-12-15 |  |
 | [Jenny \(I Wanna Ruin Our Friendship\)](https://open.spotify.com/track/4JLBDUYSaOMPYND0iWeSWQ) | [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Jenny \(I Wanna Ruin Our Friendship\)](https://open.spotify.com/album/0PTGY2rz75YFy0H1jvibuD) | 3:35 | 2022-01-24 |  |
 | [Jiggle Jiggle](https://open.spotify.com/track/1I4lCSP69P74nU3a6Su5L2) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Louis Theroux](https://open.spotify.com/artist/016Rz5DsXUPPxosNTZLYcv) | [Jiggle Jiggle](https://open.spotify.com/album/3WcZOQwZQ5gLyNrA0aXUeT) | 1:37 | 2022-05-25 |  |
-| [Joga Essa Rabeta](https://open.spotify.com/track/2UXbsA8Q2tg90kjEn2gV7j) | [MC Teuzin PV](https://open.spotify.com/artist/147EV9TBf4KgDU75GHwZgJ), [MC Skcot](https://open.spotify.com/artist/66y9wEcA9aucJ69FTYYbGb) | [Joga Essa Rabeta](https://open.spotify.com/album/3ZM2MFfKHGJsgHFop9Lo0A) | 2:35 | 2022-06-14 |  |
+| [Joga Essa Rabeta](https://open.spotify.com/track/2UXbsA8Q2tg90kjEn2gV7j) | [MC Teuzin PV](https://open.spotify.com/artist/147EV9TBf4KgDU75GHwZgJ), [MC Skcot](https://open.spotify.com/artist/66y9wEcA9aucJ69FTYYbGb) | [Joga Essa Rabeta](https://open.spotify.com/album/3ZM2MFfKHGJsgHFop9Lo0A) | 2:35 | 2022-06-14 | 2022-07-06 |
 | [Jordan](https://open.spotify.com/track/2rDZhKnPaPG054ExZ6nXUS) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Jordan](https://open.spotify.com/album/1GuZxmifdAu3zq2189iT5M) | 2:56 | 2022-01-24 | 2022-06-01 |
 | [Just a Cloud Away](https://open.spotify.com/track/4UPQiDmYScn2C6S2C2WATY) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Despicable Me 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ) | 2:56 | 2022-04-05 |  |
 | [Just The Two of Us](https://open.spotify.com/track/5cwCW4r6ybpSiHWMpMKHoJ) | [Kauai45](https://open.spotify.com/artist/01veRCzqGIkUMo7L5PyBAD), [Sweet Cocoa](https://open.spotify.com/artist/1eXbxTRUsI5OKMp77hpDef) | [Just The Two of Us](https://open.spotify.com/album/2BeZeRUR2CqrwOGzxWCwI1) | 1:57 | 2021-12-15 |  |
@@ -77,6 +77,7 @@
 | [Lonely](https://open.spotify.com/track/4v7DCN09hgXkKazefkznDQ) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble Deluxe Edition](https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF) | 3:55 | 2022-03-09 |  |
 | [love nwantiti \(feat\. Dj Yo! & AX'EL\) \- Remix](https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Dj Yo!](https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy), [AX'EL](https://open.spotify.com/artist/5fUXK5m3BNwoRgTyKq8tnz) | [love nwantiti \(feat\. Dj Yo! & AX'EL\) \[Remix\]](https://open.spotify.com/album/5NzoKSfocwLOb6o0lXfTM9) | 3:08 | 2021-12-15 |  |
 | [Love You So](https://open.spotify.com/track/4msYRkezQgynuZNubvVbHk) | [The King Khan & BBQ Show](https://open.spotify.com/artist/4n0gvapwYbRpzU5Ov68B6P) | [The King Khan & BBQ Show](https://open.spotify.com/album/7kHrwYwLS5HUng16CHd5rF) | 3:45 | 2022-03-09 | 2022-06-29 |
+| [Master Of Puppets](https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 8:35 | 2022-07-05 |  |
 | [Material Girl](https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:00 | 2022-02-23 | 2022-06-15 |
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-06-01 | 2022-06-17 |
 | [Me and Your Mama](https://open.spotify.com/track/31tf1qEai5o5f4r66Kd0pU) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 6:19 | 2022-06-06 |  |

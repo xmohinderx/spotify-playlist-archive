@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Costa Rica.
 
-417 songs - 1 day 0 hr 45 min - [published](https://open.spotify.com/playlist/4ZZ76LbmUi9lBAiiZYLWQu)
+418 songs - 1 day 0 hr 49 min - [published](https://open.spotify.com/playlist/4ZZ76LbmUi9lBAiiZYLWQu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,7 @@
 | [La Nota](https://open.spotify.com/track/5VzNsUnLmYcRfRfxpQsusa) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Dopamina](https://open.spotify.com/album/2yYl7Q3GOoBjznGy0Rsc2f) | 3:36 | 2021-04-11 | 2021-07-10 |
 | [La Nota](https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [La Nota](https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly) | 3:36 | 2021-03-27\* | 2021-04-11 |
 | [La Santa](https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:26 | 2022-01-25 | 2022-05-15 |
-| [La Sinvergüenza](https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Sinvergüenza](https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc) | 3:18 | 2021-09-26 |  |
+| [La Sinvergüenza](https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Sinvergüenza](https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc) | 3:18 | 2021-09-26 | 2022-07-06 |
 | [La Tóxica](https://open.spotify.com/track/15OjBeqNX3bShsGYQbteRv) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La Tóxica](https://open.spotify.com/album/1R0ocprmeDu8ZkZn29xYFx) | 3:00 | 2021-03-27\* | 2021-06-09 |
 | [La Venganza](https://open.spotify.com/track/0Pe4DpJDmZtOybHgrZ1hyM) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 4:07 | 2021-09-12 | 2021-09-13 |
 | [La Zona](https://open.spotify.com/track/5kqNIqFjijuzvVLhuY9B8j) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:16 | 2022-02-16 | 2022-04-24 |
@@ -273,6 +273,7 @@
 | [Off The Grid](https://open.spotify.com/track/2gbMPBrBVj3CuNTLp2dHYs) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:39 | 2021-09-01 | 2021-09-02 |
 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 | 2021-11-21 | 2021-11-28 |
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2022-05-07 |  |
+| [Ojos Marrones](https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Ojos Marrones](https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63) | 3:18 | 2022-07-05 |  |
 | [Ok Ok](https://open.spotify.com/track/4VYEnxm7lmtG5sEEbcmORB) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:24 | 2021-09-01 | 2021-09-02 |
 | [Olé Olé](https://open.spotify.com/track/4r1wInL0OFQYAz8PozQ1Gt) | [Los Ajenos](https://open.spotify.com/artist/5fuNZSA3i1xjoPbHZVRogr) | [Manual de Música Festiva](https://open.spotify.com/album/3ucFEJ3X5YWu9ppu2p1KdO) | 2:49 | 2022-06-15 | 2022-06-17 |
 | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) | 3:34 | 2022-06-02 | 2022-06-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Familiar hits that match your emotions while watching your favourite Korean movie or TV drama \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: Insider\(인사이더\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,445,937 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,446,095 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 99 | [Walking In The Memory](https://open.spotify.com/track/7EbrlzJyVfSZVldEY0MnCJ) | [MJ](https://open.spotify.com/artist/1LHYoqa8tahdIWTUvxb17Y) | [The Crush Of Spring OST Special Track](https://open.spotify.com/album/4rUPBt8ztBW38rCPJUdXiT) | 3:10 |
 | 100 | [Orange Dream](https://open.spotify.com/track/7mXP2e8BWogfNUetKRIWes) | [nokdu](https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D) | [The Killer's Shopping List, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5vbG0V7H1bPV18r1cP891u) | 4:36 |
 
-Snapshot ID: `MTY1Njk4NDc3MywwMDAwMDAwMDllZWNkMmI0MWYwMzQzMTk4MmQxMzc5MmQwNGZlOTc3`
+Snapshot ID: `MTY1NzA3MTQ2NSwwMDAwMDAwMDllZWNkMmI0MWYwMzQzMTk4MmQxMzc5MmQwNGZlOTc3`

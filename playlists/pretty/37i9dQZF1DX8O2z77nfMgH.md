@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados\. En portada: J Balvin y Ryan Castro
 
-[Spotify](https://open.spotify.com/user/spotify) - 895,206 likes - 57 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 895,249 likes - 57 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

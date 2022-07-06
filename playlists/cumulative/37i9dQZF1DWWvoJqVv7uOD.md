@@ -4,7 +4,7 @@
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Giveon
 
-197 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/57Nh8OaYOKSlXPXupFKB2E)
+198 songs - 10 hr 53 min - [published](https://open.spotify.com/playlist/57Nh8OaYOKSlXPXupFKB2E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Don't Fade](https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Don't Fade](https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx) | 3:10 | 2022-02-11 | 2022-04-02 |
 | [Don't Mess With Love](https://open.spotify.com/track/5b5QTqakCuGZhVhPBBBqrA) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Don't Mess With Love](https://open.spotify.com/album/4MyriGlKItrboh6pR9C4C7) | 3:22 | 2022-02-04 | 2022-04-09 |
 | [dose](https://open.spotify.com/track/4KGTM5EQEWR1QMDvo8dzaZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [dose](https://open.spotify.com/album/1d7ZvdaYXUPqDCInEnl4nD) | 3:00 | 2022-04-15 |  |
+| [Dreamer](https://open.spotify.com/track/2jv3f5GKP8ibGI0kvSQJc2) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5o1yAsAo4mvlgYptShBCow) | 3:01 | 2022-07-06 |  |
 | [Drowning](https://open.spotify.com/track/4mXPA7pFHil9wtWk6LaGmT) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Drowning](https://open.spotify.com/album/0ajrIRYzVQ3srvWYtlWOp5) | 2:43 | 2022-02-11 | 2022-04-02 |
 | [Easy](https://open.spotify.com/track/4yZSlqXWEeZ7M2eUiGi7dQ) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Heartbeat Changes](https://open.spotify.com/album/5Rhr4ga3sBtnFcX7dVDh8Q) | 3:20 | 2022-05-20 |  |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2022-02-04 | 2022-05-07 |

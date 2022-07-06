@@ -4977,7 +4977,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 180022,
       "name": "MORE",
       "url": "https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2"
@@ -5889,7 +5889,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 180000,
       "name": "PSG",
       "url": "https://open.spotify.com/track/0xaKCWpX4CBSqwh7CQa4EG"
@@ -6457,6 +6457,24 @@
       "duration_ms": 207853,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/75MNhvTCCKsST3YqqUiU9r"
+    },
+    {
+      "album": {
+        "name": "MANIFESTO : DAY 1",
+        "url": "https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228115,
+      "name": "SHOUT OUT",
+      "url": "https://open.spotify.com/track/5Z2DNRAhs6r4VdINVkRhYY"
     },
     {
       "album": {
@@ -7279,6 +7297,24 @@
       "duration_ms": 200575,
       "name": "Tell Me Why (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/0k0vFacOHNuArLWMiH60p7"
+    },
+    {
+      "album": {
+        "name": "MANIFESTO : DAY 1",
+        "url": "https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197795,
+      "name": "TFW (That Feeling When)",
+      "url": "https://open.spotify.com/track/3bI34Ts8OMPfIpoPqzyZgM"
     },
     {
       "album": {

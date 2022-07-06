@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > 🚂  Aqui é só o trem caro do trap! Foto: Kawe, WIU
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,608 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 849,433 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

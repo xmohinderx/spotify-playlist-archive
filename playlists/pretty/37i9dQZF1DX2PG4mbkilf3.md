@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada, elevate your aura\. Cover: Chxrry22
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,886 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,972 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

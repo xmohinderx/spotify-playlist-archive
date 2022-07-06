@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 
 > The Bollywood crooner's best songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,180 likes - 76 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,807 likes - 76 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

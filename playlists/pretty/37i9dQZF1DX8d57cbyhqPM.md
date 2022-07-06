@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 
 > From the Congo, to the world\. / Du Congo, au monde\. 🌍  Photo: Moonshine
 
-[Spotify](https://open.spotify.com/user/spotify) - 370 likes - 75 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 442 likes - 75 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 | 66 | [Pere \- Remix Version](https://open.spotify.com/track/2c5vJZBWfxd6eTGkpg1PN2) | [Pson](https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt), [Dj Wendy Rose](https://open.spotify.com/artist/1ncWJO9Aj0Fq301Cxnfhbr), [DJ P2N](https://open.spotify.com/artist/6JNbpPDLC00W4j3MghVxFN) | [Pere \(Remix Version\)](https://open.spotify.com/album/25xdyOouxjZNZ5PSO6tieP) | 3:33 |
 | 67 | [Ok](https://open.spotify.com/track/35GMKeItBSoJCpzwyQWdpN) | [Mackareo](https://open.spotify.com/artist/3C4rDSQJShUu9DFasuQTzm), [C Cane](https://open.spotify.com/artist/3iKIlc0XHCyQQf7yQqARkG) | [Mackpiano, Vol\. 1](https://open.spotify.com/album/6KH1ywMPsztDOeymVcfrHZ) | 2:59 |
 | 68 | [Élengui](https://open.spotify.com/track/3xAoNXwkn6sRB5SjYqtQvc) | [SHARABIA](https://open.spotify.com/artist/5TcxIt337AdejHrxFa5KTN) | [A\-T1](https://open.spotify.com/album/0LbmKrpTR7TE6VUN8nTpRs) | 2:52 |
-| 69 | [Ba Koti](https://open.spotify.com/track/6CbDfWbO76SoXmiGj2V01w) | [DYNAMICTHECOOLKID](https://open.spotify.com/artist/1gQP5s5a3screnUbC5JeWT), [Shotea](https://open.spotify.com/artist/5f5MAEFbc1NIKsPA4XePXS) | [Ba Koti](https://open.spotify.com/album/2X9h36btJkpeFwlcYVgoQz) | 3:39 |
+| 69 | [Ba Koti](https://open.spotify.com/track/6CbDfWbO76SoXmiGj2V01w) | [DYNAMICTHECOOLKID](https://open.spotify.com/artist/7sLYoyyIgfb4wxx76SalS2), [Shotea](https://open.spotify.com/artist/5f5MAEFbc1NIKsPA4XePXS) | [Ba Koti](https://open.spotify.com/album/2X9h36btJkpeFwlcYVgoQz) | 3:39 |
 | 70 | [Atalaku](https://open.spotify.com/track/4f45BUGMPheVBmtxg5jVAf) | [Mike LeMillionaire](https://open.spotify.com/artist/4U7uidgCCK3Q7KsLzT3muv) | [Atalaku](https://open.spotify.com/album/6z4rOtn4oWJmSISqwXYhpE) | 1:04 |
 | 71 | [Wosso](https://open.spotify.com/track/1BXm3Tq7FI0ZViLTQUaZM0) | [Héritier Wata](https://open.spotify.com/artist/20M8IJbzy7Y5EBRfwDIUmb) | [Wosso](https://open.spotify.com/album/4PZ3zMNWTBompKMYzwJYWj) | 6:37 |
 | 72 | [Zigida](https://open.spotify.com/track/0VF1VyAiS0oRk3O22mv13k) | [Light Music Villa Nova](https://open.spotify.com/artist/0MP7DZOrBSfEEhLHz1dG2r), [Fabregas le Métis Noir](https://open.spotify.com/artist/49ip7SoDZFm62AzVHPci6X) | [Cursus, Vol\. 2](https://open.spotify.com/album/7JyPd01Qu6N2dvj6PTYfSe) | 3:36 |

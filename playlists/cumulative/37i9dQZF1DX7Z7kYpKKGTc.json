@@ -1475,7 +1475,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 222053,
       "name": "Ever Since the World Began",
       "url": "https://open.spotify.com/track/2yx6DUrIIGXSAwrvfBrTKQ"
@@ -2119,7 +2119,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 283733,
       "name": "Hard Habit to Break - 2006 Remaster",
       "url": "https://open.spotify.com/track/3Tows9RnoAq9CmMJaII2cO"
@@ -3524,6 +3524,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5hVTcLOMdF852hzUu7HUCY"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133960,
+      "name": "Just a Song Before I Go",
+      "url": "https://open.spotify.com/track/1wHJ3n8ERZljmfGXc1PRbe"
+    },
+    {
+      "album": {
         "name": "Rhino Hi-Five: Mr. Big",
         "url": "https://open.spotify.com/album/3Tm6HaFvtBpPYEp3LSaNbv"
       },
@@ -3535,7 +3553,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 265200,
       "name": "Just Take My Heart",
       "url": "https://open.spotify.com/track/36xlzCtJPntK4Sf5jJbL6r"
@@ -6111,7 +6129,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 226133,
       "name": "The Next Time I Fall (with Amy Grant)",
       "url": "https://open.spotify.com/track/7zSDDsIlks515d0tZGM64x"
@@ -6345,7 +6363,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 208066,
       "name": "To Be With You",
       "url": "https://open.spotify.com/track/0Yi128S6QgQDnAKg5A0OZw"
@@ -6529,7 +6547,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 256486,
       "name": "Two Steps Behind - String / Acoustic Version",
       "url": "https://open.spotify.com/track/0hJnqEmo8DeMmRhh6mwAof"
@@ -6943,7 +6961,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 246986,
       "name": "When You Love a Woman",
       "url": "https://open.spotify.com/track/4b79AEQyxEVoiGMyBUv0io"

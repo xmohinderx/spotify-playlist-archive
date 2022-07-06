@@ -4,7 +4,7 @@
 
 > The freshest tech house, bass house and four on the floor records, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-228 songs - 13 hr 8 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
+229 songs - 13 hr 11 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Away \- NuKey Extended Remix](https://open.spotify.com/track/1T9JOtUpav6PH3BOVbsuep) | [Valy Mo](https://open.spotify.com/artist/2GOqvtSlw1DetJcV3p0fYH), [NuKey](https://open.spotify.com/artist/2tmve58Sh3f0WZN76W30x3) | [Away \(NuKey Remix\)](https://open.spotify.com/album/0HVfuo2ZlhKP1gTLWRcmn6) | 3:25 | 2022-04-28 | 2022-05-14 |
 | [Bad Decisions](https://open.spotify.com/track/6Z5qHLhQDnQD23aLXaPsmG) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Bad Decisions EP](https://open.spotify.com/album/2ZaZRpXCPGt2vuyoJNiS3I) | 3:04 | 2021-06-03 |  |
 | [Bailar](https://open.spotify.com/track/6WG7JANcbQbVVwGSIGLhpK) | [Get Bad](https://open.spotify.com/artist/0nLBrW1pQ3RlAJw5tB8PMN) | [Litterbox 12](https://open.spotify.com/album/6XSqMd6HwTAreAKbHMKan2) | 3:01 | 2022-06-03 | 2022-06-11 |
+| [Be Together](https://open.spotify.com/track/4Jnu9TMfBEOpUUBe9aB643) | [Solh](https://open.spotify.com/artist/2Wyb3ehERUPJRsKC1beY7D) | [Be Together](https://open.spotify.com/album/08PY9Tcg4FRNJkMMhC67NH) | 3:30 | 2022-07-05 |  |
 | [Be With You \(with Dubdogz\)](https://open.spotify.com/track/5DTE1lWuGcmWUIgUROCR8S) | [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Be With You \(with Dubdogz\)](https://open.spotify.com/album/1Ya9IXkQAFmUq5JZHryk6R) | 3:51 | 2022-06-24 | 2022-07-02 |
 | [Better](https://open.spotify.com/track/4ljGFqApJVMvkkhnVezg4K) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [Better](https://open.spotify.com/album/6KjkOTCElyMZo9ZwN9xuel) | 3:33 | 2022-06-10 | 2022-06-18 |
 | [Blaze It](https://open.spotify.com/track/3TtNh2nAVhqYeQkMcJHIDe) | [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Blaze It](https://open.spotify.com/album/190eeNb9A5E7HOZBoX005M) | 3:29 | 2022-04-28 | 2022-05-14 |

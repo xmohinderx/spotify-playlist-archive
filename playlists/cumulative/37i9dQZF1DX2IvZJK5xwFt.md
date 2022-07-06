@@ -4,7 +4,7 @@
 
 > Only the best rock in the world\. Cover: Måneskin
 
-139 songs - 8 hr 36 min - [published](https://open.spotify.com/playlist/4b8D1RnS1amrOmfT4hWOtA)
+140 songs - 8 hr 44 min - [published](https://open.spotify.com/playlist/4b8D1RnS1amrOmfT4hWOtA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [HEAD](https://open.spotify.com/track/2wSRjC6eRqtA2ak81IrT8v) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [Aston Fenly](https://open.spotify.com/artist/23RT2uLMNqIl3RkddKTAF6) | [HEAD](https://open.spotify.com/album/2AD1whY87iLPxZaWs8Kd4Y) | 2:26 | 2022-06-23 |  |
 | [Head Up](https://open.spotify.com/track/0Di4xlEas5KZ4pF52Vb2tG) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Head Up](https://open.spotify.com/album/6NaV5Skx0kHFSzUSmFsDtc) | 2:49 | 2022-05-06 |  |
 | [Heard It On The X](https://open.spotify.com/track/4tbHJc3pgypdIGeWxK5CwS) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Heard It On The X](https://open.spotify.com/album/6HThlq6qQOLiaOigjNpHaH) | 2:50 | 2022-06-23 |  |
-| [High Enough](https://open.spotify.com/track/1qwno7xb5mJe71xtMS6jl2) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Every Where Is Some Where](https://open.spotify.com/album/4QwcXvqLh5Yj35wBt2DnTr) | 3:51 | 2022-05-06 |  |
+| [High Enough](https://open.spotify.com/track/1qwno7xb5mJe71xtMS6jl2) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Every Where Is Some Where](https://open.spotify.com/album/4QwcXvqLh5Yj35wBt2DnTr) | 3:51 | 2022-05-06 | 2022-07-06 |
 | [Hope](https://open.spotify.com/track/5glQ2KQjO3HZCh7TDyegvm) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 3:38 | 2022-06-30 |  |
 | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/track/6jhBI8HZ1qxetz13hjL1PE) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/album/5d9zUPulqyPiHYS48HbkX0) | 2:40 | 2022-05-06 | 2022-05-13 |
 | [I Choose Me](https://open.spotify.com/track/064I7lnHPQP68nbVZpS9K7) | [3rd Secret](https://open.spotify.com/artist/4atj4MLAMFKMwu4PG1zzb7) | [3rd Secret](https://open.spotify.com/album/6bhdV9FIncMze0E0ElvsTr) | 4:30 | 2022-05-06 |  |
@@ -79,6 +79,7 @@
 | [Locked Out](https://open.spotify.com/track/2gpqdIv5iZzssla3QhcS7X) | [S\-X](https://open.spotify.com/artist/0JYmighF3zbuA81Di54CZN), [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [Locked Out](https://open.spotify.com/album/6gXs2b3V73mqBt4hroIZaA) | 2:56 | 2022-05-15 | 2022-06-01 |
 | [Lonely Weather](https://open.spotify.com/track/2yPQWQes9YBC3p6iYzKLjy) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Tíu](https://open.spotify.com/album/0yNVKAPulUVLcWDdvyazvN) | 5:07 | 2022-06-09 |  |
 | [make up sex \(feat\. blackbear\)](https://open.spotify.com/track/50eJOxJiGmJ7PBZaTKpje1) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:02 | 2022-05-06 |  |
+| [Master Of Puppets](https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 8:35 | 2022-07-05 |  |
 | [Masterpiece](https://open.spotify.com/track/2gF7u3yLBTy6vGrxwQBoGF) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Masterpiece](https://open.spotify.com/album/43DSae6Eotlll1LnAsFXAo) | 3:26 | 2022-05-06 | 2022-05-20 |
 | [Material Girl \(feat\. Taylor Hanson of Hanson\)](https://open.spotify.com/track/7IyRPhyQIRoCSBnLNLbM36) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Material Girl \(feat\. Taylor Hanson of Hanson\)](https://open.spotify.com/album/5nfPvmgxIqQnGR8J9n8WUh) | 4:09 | 2022-05-06 | 2022-05-20 |
 | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/1Al4Z4K76RCKj31mExavs7) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/album/36fDvdG4hmUbfLgauLOFgG) | 2:50 | 2022-05-06 |  |

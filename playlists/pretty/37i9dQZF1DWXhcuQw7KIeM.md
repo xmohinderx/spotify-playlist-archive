@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 
 > From the very deep spirit of the almighty North\. Cover: The HU
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,725 likes - 80 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,826 likes - 80 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

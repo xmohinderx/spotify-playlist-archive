@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: DellaXOZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,863 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,910 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

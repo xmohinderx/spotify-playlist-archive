@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 ### [Pakistani Indie 101](https://open.spotify.com/playlist/37i9dQZF1DX2E5psOxzjXz)
 
-> Explore Pakistan's thriving independent scene\. Cover: Taha G
+> Explore Pakistan's thriving independent scene\. Cover: Hasan Raheem, Natasha Noorani
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,646 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,670 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Iraaday](https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Iraaday](https://open.spotify.com/album/5rrokeOdlkdlyLaGfiixYy) | 2:13 |
-| 2 | [Dou Pal](https://open.spotify.com/track/59hkyI30Y03Zei8ITME2mz) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Dou Pal](https://open.spotify.com/album/5RpDf2hdASOFcyz88kVUZS) | 2:53 |
-| 3 | [Ghuroor](https://open.spotify.com/track/7jMjMcyt3qxEkbC0s8LJQf) | [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Ghuroor](https://open.spotify.com/album/4XcK8cuV6rHuppTwoJrEiG) | 3:18 |
-| 4 | [surface](https://open.spotify.com/track/47N7k0N1sw26qkG96czqwK) | [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [surface](https://open.spotify.com/album/014RAFqcrT4Si2Umd68yZy) | 3:56 |
-| 5 | [Faltu Pyar](https://open.spotify.com/track/1yFryDjhXXIIaJA1dKqrab) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Faltu Pyar](https://open.spotify.com/album/5DfIEUN6BSCNEETICvOQtm) | 3:41 |
+| 1 | [Faltu Pyar](https://open.spotify.com/track/1yFryDjhXXIIaJA1dKqrab) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Faltu Pyar](https://open.spotify.com/album/5DfIEUN6BSCNEETICvOQtm) | 3:41 |
+| 2 | [Iraaday](https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Iraaday](https://open.spotify.com/album/5rrokeOdlkdlyLaGfiixYy) | 2:13 |
+| 3 | [Dou Pal](https://open.spotify.com/track/59hkyI30Y03Zei8ITME2mz) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Dou Pal](https://open.spotify.com/album/5RpDf2hdASOFcyz88kVUZS) | 2:53 |
+| 4 | [Ghuroor](https://open.spotify.com/track/7jMjMcyt3qxEkbC0s8LJQf) | [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Ghuroor](https://open.spotify.com/album/4XcK8cuV6rHuppTwoJrEiG) | 3:18 |
+| 5 | [surface](https://open.spotify.com/track/47N7k0N1sw26qkG96czqwK) | [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [surface](https://open.spotify.com/album/014RAFqcrT4Si2Umd68yZy) | 3:56 |
 | 6 | [Aarzu](https://open.spotify.com/track/5pBRSczAiFZEtrIwH1LqAo) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Aarzu](https://open.spotify.com/album/6mUBgaTJAZ1sI6kteotAgh) | 2:48 |
 | 7 | [Bikhra](https://open.spotify.com/track/0OdztoASgKBBNcAgtErk0X) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Bikhra](https://open.spotify.com/album/4yfjeaROize8h6IkgU5RBn) | 2:48 |
 | 8 | [Khwaab](https://open.spotify.com/track/5l1TyIIMmF9dl9xKqTwZjr) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Mujju](https://open.spotify.com/artist/2SfEGrMv3AQ7D6WhY62BIm) | [Khwaab](https://open.spotify.com/album/5JqeFHuEs0NapdjBs9cqTn) | 4:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 79 | [Cheese](https://open.spotify.com/track/2BvnZRo7CyFo0JcMhmnBUA) | [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ), [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S) | [Cheese](https://open.spotify.com/album/7mCUKPoOkeiT2F1REIVjYG) | 3:15 |
 | 80 | [Tum Kaafi Ho](https://open.spotify.com/track/05JZF9BFosGhj1VEOwBQPX) | [Zahra Paracha](https://open.spotify.com/artist/3g76TAx9tdF5YZpsSwqL0K) | [Tum Kaafi Ho](https://open.spotify.com/album/3RSad5lC4GUToepucxTIca) | 2:44 |
 
-Snapshot ID: `MTY1NTM4MTU3OCwwMDAwMDAzOTAwMDAwMTgxNmM2ZTUxZWEwMDAwMDE4MTI4YjE2MTJj`
+Snapshot ID: `MTY1NzAyOTczOSwwMDAwMDAzYTAwMDAwMTgxY2VhYjQzZDEwMDAwMDE4MWNlYWFiZTI1`

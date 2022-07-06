@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Kollektiv Turmstrasse
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,747 likes - 75 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,933 likes - 75 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

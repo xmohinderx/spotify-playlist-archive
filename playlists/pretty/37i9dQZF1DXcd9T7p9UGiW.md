@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em?si=kYlrZPFkR2K7rUjO8eZZXg" > Guiltybeatz </a>, <a href="https://open.spotify.com/artist/1zV9UjTUevjp5VUddqIUUn?si=4rYTPrtpTBS7vGZWtl6diA" > Mr Hudson </a>  and <a href="https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go?si=U\-6UaZxDTPih\_z1MYXb6CQ" > Twitch4eva </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,985 likes - 81 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,004 likes - 81 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 40 | [Pray 2 The East \(feat\. BNXN fka Buju\)](https://open.spotify.com/track/5NI7jC26RB9s7prQc7SkZg) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Pray 2 The East](https://open.spotify.com/album/6oOKILSxYzQ3xmk7QDncIR) | 2:58 |
 | 41 | [Go German](https://open.spotify.com/track/1YpGByjEamqwgni31e3Ylu) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Go German](https://open.spotify.com/album/566SSg2JNZLMGCVu8euxNN) | 2:58 |
 | 42 | [My Way](https://open.spotify.com/track/1GQnMal8SSHDZLeoOoD0JL) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Connecting the Dots](https://open.spotify.com/album/2LNd9HCGhWEtSUeqqfYPkX) | 3:20 |
-| 43 | [Maria](https://open.spotify.com/track/6kHUFs2zhLn9XU95U3UTyX) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Silly Walks Discotheque](https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH) | [Maria](https://open.spotify.com/album/52JXwMJ5QOTZBWMCVHq0cy) | 2:33 |
+| 43 | [Maria](https://open.spotify.com/track/6kHUFs2zhLn9XU95U3UTyX) | [Silly Walks Discotheque](https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Maria](https://open.spotify.com/album/52JXwMJ5QOTZBWMCVHq0cy) | 2:33 |
 | 44 | [Slide \(with KiDi\)](https://open.spotify.com/track/4lbXuTWvKI6Xnfnla0QRar) | [Paris Bryant](https://open.spotify.com/artist/4Ng21p92TPTkeAcXJlSB2u), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [A Trip To Paris](https://open.spotify.com/album/3Iz17W8WgENVednqfGnBSv) | 3:16 |
 | 45 | [Sere \- Remix](https://open.spotify.com/track/6kxo2n2WY48fAhLuiwYOAb) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Sere \(Remix\)](https://open.spotify.com/album/2VTdHWIwS3hf7Yi1I14ZG9) | 3:14 |
 | 46 | [DEADMAN BONE \(feat\. Koffee\)](https://open.spotify.com/track/1vq8fQ6GIdrys7zmZnQvUc) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Subaru Boys : FINAL HEAVEN](https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl) | 2:51 |

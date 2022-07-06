@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 
 > The official playlist for Outer Banks now\. Watch now only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,490 likes - 81 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,545 likes - 81 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 22 | [King of a One Horse Town](https://open.spotify.com/track/4QF8w44G6fU4VNxQJK1OJn) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 3:46 |
 | 23 | [Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Shame, Shame \(Deluxe Edition\)](https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl) | 3:54 |
 | 24 | [My Body](https://open.spotify.com/track/1KDYN3odJHnj9pqGHN3FVs) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Young The Giant \(Special Edition\)](https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse) | 4:04 |
-| 25 | [Pretty Woman Pass On By](https://open.spotify.com/track/3fDM0Os5zXsgIjn7yssQBV) | [Richard Marks](https://open.spotify.com/artist/6IL3lbNSKa384LcWJ6Aa7T) | [Never Satisfied, The Complete Works 1968 \-1976](https://open.spotify.com/album/3eu3SRkvkcgh8tW8p6YZKS) | 3:04 |
+| 25 | [Pretty Woman Pass On By](https://open.spotify.com/track/3fDM0Os5zXsgIjn7yssQBV) | [Richard Marks](https://open.spotify.com/artist/6IL3lbNSKa384LcWJ6Aa7T) | [Never Satisfied: The Complete Works 1968 \-1976](https://open.spotify.com/album/3eu3SRkvkcgh8tW8p6YZKS) | 3:04 |
 | 26 | [Take Me Home, Country Roads](https://open.spotify.com/track/389R9arpxdfl0JA450Qn9m) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [20th Century Masters: The Millennium Collection: Best Of Toots & The Maytals](https://open.spotify.com/album/4LqckZIG3vtFVGIeY3Q5Yz) | 3:21 |
 | 27 | [Blind Owl Speaks](https://open.spotify.com/track/0xOovVTYpofAvNbopgnaAP) | [Natural Child](https://open.spotify.com/artist/7epIIT85VR8OEggqKO3RSt) | [Hard In Heaven](https://open.spotify.com/album/2kWFEQB3tNG5KDxUciuX2f) | 3:21 |
 | 28 | [Paper Planes \- DFA Remix](https://open.spotify.com/track/1hCD7X2223N2Jt4MzKIe3C) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU), [DFA](https://open.spotify.com/artist/7Gprizzv3dHXNrhfR27Aua) | [Paper Planes \- Homeland Security Remixes](https://open.spotify.com/album/4GG44VSWcotck92vWZYpS5) | 5:52 |

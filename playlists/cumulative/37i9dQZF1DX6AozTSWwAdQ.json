@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 213510,
       "name": "Another Place",
       "url": "https://open.spotify.com/track/2Fn4gZI3MAeWTiv7cSVxZQ"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 156418,
       "name": "Don't Call Me A Friend",
       "url": "https://open.spotify.com/track/42CbU4IOINfy3jqXJa2BUQ"
@@ -459,7 +459,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 167666,
       "name": "Go The Distance",
       "url": "https://open.spotify.com/track/4HFi9NP66qdNOsgPGLqrm7"
@@ -603,7 +603,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 216107,
       "name": "I Dare You",
       "url": "https://open.spotify.com/track/0o58NWBiVXewJNfNDKQyjw"
@@ -693,7 +693,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 203692,
       "name": "Just Thought You Should Know",
       "url": "https://open.spotify.com/track/0VE5fZ1BILydCtqg4yDGRl"
@@ -711,7 +711,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 230883,
       "name": "LDQ (Little Drama Queen)",
       "url": "https://open.spotify.com/track/3LhNkNHWxcjZszrqsqZEE3"
@@ -787,7 +787,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 145103,
       "name": "Love It When You Hate Me (feat. blackbear)",
       "url": "https://open.spotify.com/track/4jUAn4mBt4LBsRREJkeCSr"
@@ -867,7 +867,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 193040,
       "name": "ME! (feat. Brendon Urie of Panic! At The Disco)",
       "url": "https://open.spotify.com/track/4Sib57MmYGJzSvkW84jTwh"
@@ -995,7 +995,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 211906,
       "name": "Radioactive Rain",
       "url": "https://open.spotify.com/track/2MPkM6BASRAxetDtmG9xHo"
@@ -1079,7 +1079,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 195037,
       "name": "Single In September",
       "url": "https://open.spotify.com/track/3yqVm7Je8UssmEJzWtzyYF"
@@ -1115,7 +1115,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 219813,
       "name": "Someone To You",
       "url": "https://open.spotify.com/track/3IlD3SWoYcBhbMUl4Pj8Hk"
@@ -1133,7 +1133,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 228275,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/0uDsj6KuyEjlFoqQvBcpD4"
@@ -1205,7 +1205,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 225063,
       "name": "Strangers Again",
       "url": "https://open.spotify.com/track/5696iWDxeJrfCYkP9LAWXJ"
@@ -1443,7 +1443,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 166779,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj"
@@ -1551,10 +1551,28 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 195133,
       "name": "You Signed Up For This",
       "url": "https://open.spotify.com/track/2I4NfDyog74Wq8R8btJDY3"
+    },
+    {
+      "album": {
+        "name": "Young Like This",
+        "url": "https://open.spotify.com/album/5s1EtajkxRSQto3WT9WtHc"
+      },
+      "artists": [
+        {
+          "name": "Hugo Helmig",
+          "url": "https://open.spotify.com/artist/27eEve8Mu7Zv8DGDIz4peE"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186054,
+      "name": "Young Like This",
+      "url": "https://open.spotify.com/track/5yOc7LHI9HIBRTWcLbGXXi"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6AozTSWwAdQ"

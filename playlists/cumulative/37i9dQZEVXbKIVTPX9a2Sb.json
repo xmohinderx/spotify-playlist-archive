@@ -777,7 +777,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 169197,
-      "name": "ASMR",
+      "name": "Asmr - D#m",
       "url": "https://open.spotify.com/track/3W0px1NJEPwW3yPWuZj5m6"
     },
     {
@@ -877,7 +877,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 208695,
       "name": "A\u017e na m\u011bs\u00edc",
       "url": "https://open.spotify.com/track/3rxHQ7HeJCpiei1d6ANDPW"
@@ -1089,7 +1089,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 230746,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
@@ -6697,7 +6697,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 135742,
-      "name": "JAR LETO JESE\u0147",
+      "name": "Jar Leto Jese\u0148 - Em",
       "url": "https://open.spotify.com/track/0J2wdzkkJ2h8zRqZALFOBT"
     },
     {
@@ -8693,6 +8693,24 @@
       "duration_ms": 182757,
       "name": "MANIAC",
       "url": "https://open.spotify.com/track/7BDHDiidJ8WV349p3HTxTV"
+    },
+    {
+      "album": {
+        "name": "Master Of Puppets (Remastered)",
+        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515386,
+      "name": "Master Of Puppets",
+      "url": "https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i"
     },
     {
       "album": {
@@ -13121,7 +13139,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 147121,
       "name": "SME S5",
       "url": "https://open.spotify.com/track/2B7YzUqG3Z4ZSpwg4QnIY5"
@@ -13625,7 +13643,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 210245,
       "name": "Stroj",
       "url": "https://open.spotify.com/track/6LhuehVA6IXU92z4q01lDU"
@@ -15687,7 +15705,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 145641,
       "name": "WE THE LOVE",
       "url": "https://open.spotify.com/track/151SVBILif14MYfU6KpBPq"

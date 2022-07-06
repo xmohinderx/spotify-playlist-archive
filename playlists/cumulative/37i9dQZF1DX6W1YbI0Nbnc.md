@@ -2,7 +2,7 @@
 
 ### [EQUAL Hong Kong](https://open.spotify.com/playlist/37i9dQZF1DX6W1YbI0Nbnc)
 
-> 一起感受香港製造的女聲力量！\(cover: 泳兒\)
+> 一起感受香港製造的女聲力量！\(cover: 方皓玟\)
 
 164 songs - 10 hr 40 min - [published](https://open.spotify.com/playlist/3fyf9kJjwMb77gM8igxXJz)
 

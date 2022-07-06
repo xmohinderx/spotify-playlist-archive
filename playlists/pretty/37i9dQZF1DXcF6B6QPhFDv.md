@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > The latest from Imagine Dragons along with the top Rock songs you need to know.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,634,157 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,634,352 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sharks](https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Sharks](https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e) | 3:10 |
+| 1 | [Sharks](https://open.spotify.com/track/7sA2SKTo1QbTSSYn5YvJC4) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 3:10 |
 | 2 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 |
 | 3 | [<maybe> it's my fault](https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<maybe> it's my fault](https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM) | 2:39 |
 | 4 | [Planet Zero](https://open.spotify.com/track/3GL1RQKHV0TDRq8EXHMhGq) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/2p732bJ3OshHkiQGJfz1Jo) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 49 | [when we were young](https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [when we were young](https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9) | 3:13 |
 | 50 | [Puzzles](https://open.spotify.com/track/56F0w1wbpp3mQRpTlKXVi8) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Supernova](https://open.spotify.com/album/41ycYGcnhkDb3pFkL8vSPJ) | 2:41 |
 
-Snapshot ID: `MTY1NjY0ODAwMCwwMDAwMDY5YzAwMDAwMTgxYjdlYTYyZmQwMDAwMDE4MWI0ZDE4MDNl`
+Snapshot ID: `MTY1NzAyOTExNywwMDAwMDY5ZDAwMDAwMTgxY2VhMWM2NDQwMDAwMDE4MWI0ZDE4MDNl`

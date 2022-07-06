@@ -309,7 +309,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 184040,
       "name": "Breed",
       "url": "https://open.spotify.com/track/6kA9cOS2QpUpeGJHGxSXe1"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 398933,
       "name": "Burn",
       "url": "https://open.spotify.com/track/0tHOTQBn2M4CD2dcyHivth"
@@ -417,7 +417,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 162666,
       "name": "Celebrity Skin",
       "url": "https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 194093,
       "name": "Cure for Pain",
       "url": "https://open.spotify.com/track/3hO9gaVixKDoYDrlTBrEWf"
@@ -705,7 +705,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 200240,
       "name": "Goin' Out West",
       "url": "https://open.spotify.com/track/141XsxpUkbj7AkQKT8vySq"
@@ -723,7 +723,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 459333,
       "name": "Good Morning, Captain",
       "url": "https://open.spotify.com/track/1BNZMXjqqULiV0DmFU1B8S"
@@ -745,6 +745,24 @@
       "duration_ms": 251480,
       "name": "Head On",
       "url": "https://open.spotify.com/track/7ovOXoXhWyJleZfOfsANyp"
+    },
+    {
+      "album": {
+        "name": "In Utero - 20th Anniversary - Deluxe Edition",
+        "url": "https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281160,
+      "name": "Heart-Shaped Box",
+      "url": "https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa"
     },
     {
       "album": {
@@ -795,7 +813,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 240533,
       "name": "Home",
       "url": "https://open.spotify.com/track/50mKJolpvGLvDYaelNZhK6"
@@ -813,7 +831,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 223053,
       "name": "Horror Head",
       "url": "https://open.spotify.com/track/1SoPOB7wsqbR9wDPU1KapO"
@@ -867,7 +885,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 271840,
       "name": "I Love You in Your Tragic Beauty",
       "url": "https://open.spotify.com/track/67FafimpgcFgaPYsq8cVil"
@@ -1198,6 +1216,24 @@
     },
     {
       "album": {
+        "name": "Moon Pix",
+        "url": "https://open.spotify.com/album/6AoSTHrd6oEaeUYBEGdLTb"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242400,
+      "name": "Metal Heart",
+      "url": "https://open.spotify.com/track/4JeMpERu0LS3QhNoNG0cvZ"
+    },
+    {
+      "album": {
         "name": "Angel Dust (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4cg5GrTMewtbntkO84uE2k"
       },
@@ -1209,7 +1245,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 259866,
       "name": "Midlife Crisis",
       "url": "https://open.spotify.com/track/3Ph7fws05DvPwpn5CQHTBy"
@@ -1263,7 +1299,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 236533,
       "name": "Only Happy When It Rains",
       "url": "https://open.spotify.com/track/2VUNvavGGOkewr5wB3WFJg"
@@ -1339,7 +1375,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 264573,
       "name": "Piggy",
       "url": "https://open.spotify.com/track/5BVFE2iCwnhQTn2CBq8eEz"
@@ -1375,7 +1411,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 242586,
       "name": "Push It",
       "url": "https://open.spotify.com/track/4bK77apewWVpCzZRiruhtO"
@@ -1411,7 +1447,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 370573,
       "name": "Red Right Hand - 2011 Remastered Version",
       "url": "https://open.spotify.com/track/0qHeP8zt2WWef7EWCs1ECj"
@@ -1429,7 +1465,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 220693,
       "name": "Reverence",
       "url": "https://open.spotify.com/track/3h9zXYA0hMZi9bt6DG8sEo"
@@ -1447,7 +1483,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 268826,
       "name": "Rid Of Me",
       "url": "https://open.spotify.com/track/3m2Zd230K68bC4Qe961d9p"
@@ -1487,7 +1523,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 283266,
       "name": "Rockets",
       "url": "https://open.spotify.com/track/34jCVXBUlceDJJtqRDFT4N"
@@ -1541,7 +1577,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 216906,
       "name": "Serve The Servants",
       "url": "https://open.spotify.com/track/0wxoXgSVZexJZ4FBqUohLS"
@@ -1559,7 +1595,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 222506,
       "name": "Snakedriver",
       "url": "https://open.spotify.com/track/5jka0hrgjJz4uMy57mi6Js"
@@ -1851,7 +1887,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 222200,
       "name": "Sword of Damocles (Externally)",
       "url": "https://open.spotify.com/track/31vN3W1IAaqpB06ULQXr4I"
@@ -1869,7 +1905,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 227160,
       "name": "Tahitian Moon",
       "url": "https://open.spotify.com/track/3DwzYRgOgojl0EcdOaJLYr"
@@ -1905,7 +1941,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 310760,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/4AIDG8oQzGYqnr6v01f8i5"
@@ -2013,7 +2049,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 331600,
       "name": "To Bring You My Love",
       "url": "https://open.spotify.com/track/537IPiZTZ1GVcohzFHAHf5"
@@ -2103,7 +2139,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 204933,
       "name": "Violet",
       "url": "https://open.spotify.com/track/6CHENx8iqzMwavTIz8s0gm"
@@ -2157,7 +2193,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 238920,
       "name": "Where Did You Sleep Last Night",
       "url": "https://open.spotify.com/track/4j3AXs1NNx6zXFmm6ibYsI"
@@ -2211,7 +2247,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 220040,
       "name": "You Look Like Rain",
       "url": "https://open.spotify.com/track/5QH3pNXpDzSIMziqX9lL1l"

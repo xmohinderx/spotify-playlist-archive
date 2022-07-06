@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Been Stellar, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,107,923 likes - 72 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,107,790 likes - 71 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,25 +60,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 50 | [For a While](https://open.spotify.com/track/0dOqNypDARpu7J5G9VAJTj) | [Sam Johnston](https://open.spotify.com/artist/2r9XQHlnMp4d7VdIAw0Iyl), [Emma Klein](https://open.spotify.com/artist/7hbsjraQ0ce8UcmoWVoIe8) | [Cannonball](https://open.spotify.com/album/68zFieWNa4ExhAaW7aANn0) | 4:33 |
 | 51 | [DONT TRUST EM](https://open.spotify.com/track/1J4mWlkB9pWVEEXpiBwlwW) | [ChaseWest](https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6) | [DONT TRUST EM](https://open.spotify.com/album/5mFfGGuALPOKq9NNPN0fxZ) | 3:16 |
 | 52 | [Shop Around](https://open.spotify.com/track/58JFt7lr6jvcypQa7na5Yo) | [Layzi](https://open.spotify.com/artist/1Osd22FCebAqWNl7q2sazx) | [Shop Around](https://open.spotify.com/album/0b7hyhvArH4PRJgp39HMop) | 3:02 |
-| 53 | [14](https://open.spotify.com/track/1AlbmEnnFgR9b4yCw9zkzf) | [India Dupriez](https://open.spotify.com/artist/32sZPVoYKzWY0Y5zuieJ1a) | [14](https://open.spotify.com/album/6Y8manNCbK8DfkDFZrEQMh) | 3:28 |
-| 54 | [lily of the valley](https://open.spotify.com/track/5z0zobpDgfoUG3zfOM9AB2) | [Torri Weidinger](https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM) | [Virginia](https://open.spotify.com/album/4oXf7xYBCRgxDsA8QyxU4b) | 3:23 |
-| 55 | [Do Me Wrong](https://open.spotify.com/track/1AMjlgMPiepOmSXtVPlqtx) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [Jammz](https://open.spotify.com/artist/6KDwmvnFgtstS18skjklR0), [Aleisha Lee](https://open.spotify.com/artist/0A4gPcMJUMuH8wjgMl9Dij) | [Do Me Wrong](https://open.spotify.com/album/1rgDVi4I6Hp2iDAZwNCd6m) | 3:43 |
-| 56 | [Victory](https://open.spotify.com/track/6LMqkNY1TEwuRBNtbc0psM) | [Patricia Baloge](https://open.spotify.com/artist/7KHLKf4SlVaS8EamkM3JL4) | [Victory](https://open.spotify.com/album/1Z1L8SJPBbzvIbchU11MUw) | 3:32 |
-| 57 | [In My Head](https://open.spotify.com/track/6Nk2OjwtxyrNeP6v8Y5s8b) | [Peytan Porter](https://open.spotify.com/artist/6uB0wKbu8WGThZDsRmDBkT) | [In My Head](https://open.spotify.com/album/6aFXC1z6tjtpYfS2CylqeW) | 3:30 |
-| 58 | [Damn You Denver](https://open.spotify.com/track/3wPCsH91UN61hy5fPz3lV5) | [Eric Van Houten](https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK) | [Damn You Denver](https://open.spotify.com/album/5f6w4mt6z2c0nr1IXuF5gX) | 3:22 |
-| 59 | [Soul Brother](https://open.spotify.com/track/7Ec6uyUupAzH99HSmsMDfn) | [Golf Trip](https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A) | [Soul Brother](https://open.spotify.com/album/40n7vb1dukXUKv6uKGLNsv) | 3:49 |
-| 60 | [Questions](https://open.spotify.com/track/075Vlu9vSFPbr15IVKPBro) | [Faiza](https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD) | [Questions](https://open.spotify.com/album/5L42oPqaQXz45v2Buz3x5W) | 3:15 |
-| 61 | [Home in This Town](https://open.spotify.com/track/60b3cgigh3qMMECFE9R5eu) | [Margaret Haynie](https://open.spotify.com/artist/46Y1obn40sxflCKhCijqGA) | [Home in This Town](https://open.spotify.com/album/1tCyD9IIvGKoAYP5uFcz74) | 3:40 |
-| 62 | [Babies](https://open.spotify.com/track/045vMbY2pAsHzjFLqHcadn) | [Kasey Tyndall](https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2) | [Babies](https://open.spotify.com/album/5NGiKgJuCfMAvKvEwgOnTn) | 2:59 |
-| 63 | [Princess Slit and the Raincoat Prince](https://open.spotify.com/track/0GURYIULJBqlZblCu189p7) | [Tianna Esperanza](https://open.spotify.com/artist/22iCId5VM0WBe0B2CUA1ql) | [Princess Slit and the Raincoat Prince](https://open.spotify.com/album/7rfuHfgfdorEhMObo4yWRx) | 1:49 |
-| 64 | [Spin It Round](https://open.spotify.com/track/74NJJ42SRcX9KAszsd3mrV) | [Miss McLeod](https://open.spotify.com/artist/0JeXxvHfbLkoMHmS8WJymy) | [Spin It Round](https://open.spotify.com/album/5FRdBuKBB1qwCZScBkyNzs) | 3:54 |
-| 65 | [Magic Gravity](https://open.spotify.com/track/7iyHeIh13D48v9CX3tIcjU) | [GIANT](https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K) | [Magic Gravity](https://open.spotify.com/album/4toxK5kGu9wjnoGqt41Ejy) | 3:06 |
-| 66 | [All On Me](https://open.spotify.com/track/2DA9PiZeOX7Dw0EuOdxHHI) | [bewav](https://open.spotify.com/artist/7mQScd8jtZwkokSos5T3RM) | [Baila Co\. EP](https://open.spotify.com/album/7IaJ62YhVoBvTYAaBoPPzF) | 2:57 |
-| 67 | [I Think I'm Gay](https://open.spotify.com/track/3oRQ21pdUxoU8A0LmnHT6L) | [boy cam](https://open.spotify.com/artist/71hu9nXKCY91T5Dj2vijgh) | [I Think I'm Gay](https://open.spotify.com/album/5ddH2AIMYI2vI9TFc17Hoi) | 3:58 |
-| 68 | [mountain](https://open.spotify.com/track/4GXUQdPTLXEorwxssYsxd5) | [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6) | [mountain](https://open.spotify.com/album/2FLO94BCeNCnAxUfr5Qkw1) | 5:43 |
-| 69 | [Direction](https://open.spotify.com/track/0p14fmhI7wcwX1pe0mhEXZ) | [KIAN](https://open.spotify.com/artist/1TulCA2zO3YxAjQ7ZsvtDq) | [Direction](https://open.spotify.com/album/3e5KJBihi1pXjCDYTzv1Y0) | 3:16 |
-| 70 | [Sum Ting Low](https://open.spotify.com/track/3cRi9A0lmIWuBZKEnm4TAT) | [Myledo](https://open.spotify.com/artist/2MfH45PGYjcDzOVTBQYwjp) | [The Slow Down](https://open.spotify.com/album/6fmzmTmdjetEgAjbgPWKh8) | 4:13 |
-| 71 | [Because I Can't Sleep](https://open.spotify.com/track/2WXCI5TU1uJecPZLPVgz7M) | [Nuance](https://open.spotify.com/artist/2YPpY7BEZh6ek12JxUZeBk) | [Because I Can't Sleep](https://open.spotify.com/album/1dc6TIM76soOaDVswYALPd) | 3:50 |
-| 72 | [Warning Sign](https://open.spotify.com/track/7M9uAj6e1YvPqVymCfsosZ) | [ONI](https://open.spotify.com/artist/3Rq3Wpxqp8ATUFMKurURJB) | [Exhibits Vol\. 6](https://open.spotify.com/album/1MpkxK8cW426Od4JSCycWE) | 2:42 |
+| 53 | [lily of the valley](https://open.spotify.com/track/5z0zobpDgfoUG3zfOM9AB2) | [Torri Weidinger](https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM) | [Virginia](https://open.spotify.com/album/4oXf7xYBCRgxDsA8QyxU4b) | 3:23 |
+| 54 | [Do Me Wrong](https://open.spotify.com/track/1AMjlgMPiepOmSXtVPlqtx) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [Jammz](https://open.spotify.com/artist/6KDwmvnFgtstS18skjklR0), [Aleisha Lee](https://open.spotify.com/artist/0A4gPcMJUMuH8wjgMl9Dij) | [Do Me Wrong](https://open.spotify.com/album/1rgDVi4I6Hp2iDAZwNCd6m) | 3:43 |
+| 55 | [Victory](https://open.spotify.com/track/6LMqkNY1TEwuRBNtbc0psM) | [Patricia Baloge](https://open.spotify.com/artist/7KHLKf4SlVaS8EamkM3JL4) | [Victory](https://open.spotify.com/album/1Z1L8SJPBbzvIbchU11MUw) | 3:32 |
+| 56 | [In My Head](https://open.spotify.com/track/6Nk2OjwtxyrNeP6v8Y5s8b) | [Peytan Porter](https://open.spotify.com/artist/6uB0wKbu8WGThZDsRmDBkT) | [In My Head](https://open.spotify.com/album/6aFXC1z6tjtpYfS2CylqeW) | 3:30 |
+| 57 | [Damn You Denver](https://open.spotify.com/track/3wPCsH91UN61hy5fPz3lV5) | [Eric Van Houten](https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK) | [Damn You Denver](https://open.spotify.com/album/5f6w4mt6z2c0nr1IXuF5gX) | 3:22 |
+| 58 | [Soul Brother](https://open.spotify.com/track/7Ec6uyUupAzH99HSmsMDfn) | [Golf Trip](https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A) | [Soul Brother](https://open.spotify.com/album/40n7vb1dukXUKv6uKGLNsv) | 3:49 |
+| 59 | [Questions](https://open.spotify.com/track/075Vlu9vSFPbr15IVKPBro) | [Faiza](https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD) | [Questions](https://open.spotify.com/album/5L42oPqaQXz45v2Buz3x5W) | 3:15 |
+| 60 | [Home in This Town](https://open.spotify.com/track/60b3cgigh3qMMECFE9R5eu) | [Margaret Haynie](https://open.spotify.com/artist/46Y1obn40sxflCKhCijqGA) | [Home in This Town](https://open.spotify.com/album/1tCyD9IIvGKoAYP5uFcz74) | 3:40 |
+| 61 | [Babies](https://open.spotify.com/track/045vMbY2pAsHzjFLqHcadn) | [Kasey Tyndall](https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2) | [Babies](https://open.spotify.com/album/5NGiKgJuCfMAvKvEwgOnTn) | 2:59 |
+| 62 | [Princess Slit and the Raincoat Prince](https://open.spotify.com/track/0GURYIULJBqlZblCu189p7) | [Tianna Esperanza](https://open.spotify.com/artist/22iCId5VM0WBe0B2CUA1ql) | [Princess Slit and the Raincoat Prince](https://open.spotify.com/album/7rfuHfgfdorEhMObo4yWRx) | 1:49 |
+| 63 | [Spin It Round](https://open.spotify.com/track/74NJJ42SRcX9KAszsd3mrV) | [Miss McLeod](https://open.spotify.com/artist/0JeXxvHfbLkoMHmS8WJymy) | [Spin It Round](https://open.spotify.com/album/5FRdBuKBB1qwCZScBkyNzs) | 3:54 |
+| 64 | [Magic Gravity](https://open.spotify.com/track/7iyHeIh13D48v9CX3tIcjU) | [GIANT](https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K) | [Magic Gravity](https://open.spotify.com/album/4toxK5kGu9wjnoGqt41Ejy) | 3:06 |
+| 65 | [All On Me](https://open.spotify.com/track/2DA9PiZeOX7Dw0EuOdxHHI) | [bewav](https://open.spotify.com/artist/7mQScd8jtZwkokSos5T3RM) | [Baila Co\. EP](https://open.spotify.com/album/7IaJ62YhVoBvTYAaBoPPzF) | 2:57 |
+| 66 | [I Think I'm Gay](https://open.spotify.com/track/3oRQ21pdUxoU8A0LmnHT6L) | [boy cam](https://open.spotify.com/artist/71hu9nXKCY91T5Dj2vijgh) | [I Think I'm Gay](https://open.spotify.com/album/5ddH2AIMYI2vI9TFc17Hoi) | 3:58 |
+| 67 | [mountain](https://open.spotify.com/track/4GXUQdPTLXEorwxssYsxd5) | [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6) | [mountain](https://open.spotify.com/album/2FLO94BCeNCnAxUfr5Qkw1) | 5:43 |
+| 68 | [Direction](https://open.spotify.com/track/0p14fmhI7wcwX1pe0mhEXZ) | [KIAN](https://open.spotify.com/artist/1TulCA2zO3YxAjQ7ZsvtDq) | [Direction](https://open.spotify.com/album/3e5KJBihi1pXjCDYTzv1Y0) | 3:16 |
+| 69 | [Sum Ting Low](https://open.spotify.com/track/3cRi9A0lmIWuBZKEnm4TAT) | [Myledo](https://open.spotify.com/artist/2MfH45PGYjcDzOVTBQYwjp) | [The Slow Down](https://open.spotify.com/album/6fmzmTmdjetEgAjbgPWKh8) | 4:13 |
+| 70 | [Because I Can't Sleep](https://open.spotify.com/track/2WXCI5TU1uJecPZLPVgz7M) | [Nuance](https://open.spotify.com/artist/2YPpY7BEZh6ek12JxUZeBk) | [Because I Can't Sleep](https://open.spotify.com/album/1dc6TIM76soOaDVswYALPd) | 3:50 |
+| 71 | [Warning Sign](https://open.spotify.com/track/7M9uAj6e1YvPqVymCfsosZ) | [ONI](https://open.spotify.com/artist/3Rq3Wpxqp8ATUFMKurURJB) | [Exhibits Vol\. 6](https://open.spotify.com/album/1MpkxK8cW426Od4JSCycWE) | 2:42 |
 
-Snapshot ID: `MTY1NjYyMTg3NywwMDAwMDFjODAwMDAwMTgxYjY1YmNhYjgwMDAwMDE4MWIwMTU0YTc1`
+Snapshot ID: `MTY1NzAzMjY2MCwwMDAwMDFjOTAwMDAwMTgxY2VkN2Q2ZjcwMDAwMDE4MWIwMTU0YTc1`

@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Party Hard",
+        "url": "https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV"
+      },
+      "artists": [
+        {
+          "name": "Donae'o",
+          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258866,
+      "name": "African Warrior",
+      "url": "https://open.spotify.com/track/6dL3LxoLp1NBK4DsoE6phw"
+    },
+    {
+      "album": {
         "name": "Street Nation",
         "url": "https://open.spotify.com/album/04geSaCj6lElctYUC0gFTd"
       },
@@ -117,7 +135,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 361914,
       "name": "Baileys",
       "url": "https://open.spotify.com/track/5RCrwDk5VlwDE8XBNi5CmG"
@@ -179,7 +197,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 314418,
       "name": "BBM Remix",
       "url": "https://open.spotify.com/track/5VpTYTjtVKjnjB358P2BoX"
@@ -201,7 +219,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 423872,
       "name": "Blackbird - LR Groove Remix",
       "url": "https://open.spotify.com/track/2mjK4RRYlKtywhHGxfXHXi"
@@ -275,7 +293,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 268057,
       "name": "Bombtrack (Roska Remix)",
       "url": "https://open.spotify.com/track/5xGbjkIYJqg7gTkMXDG4Ap"
@@ -297,7 +315,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 461960,
       "name": "Bongo Jam - Club Mix",
       "url": "https://open.spotify.com/track/43MvSFYL99yAvRi4a3Ln8U"
@@ -319,7 +337,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 333066,
       "name": "Broken Record - Geeneus Funky Mix",
       "url": "https://open.spotify.com/track/1E9A7uyyKtyLibnUZwdBKt"
@@ -355,7 +373,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 277795,
       "name": "Cheerio",
       "url": "https://open.spotify.com/track/62uqLwkVmuaLGdxrMdKUah"
@@ -399,7 +417,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 232504,
       "name": "Condo (feat. T-Pain) - Roska Remix",
       "url": "https://open.spotify.com/track/2Sr9fbiNrVxIWav7F3Z1qP"
@@ -421,7 +439,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 323760,
       "name": "Dancing",
       "url": "https://open.spotify.com/track/264HgVS2eKtoZHdaFX0JTR"
@@ -439,7 +457,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 237307,
       "name": "De Siegalizer",
       "url": "https://open.spotify.com/track/05oRAIJvKCJ5Vku1RLldwB"
@@ -559,7 +577,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 258746,
       "name": "Elevator",
       "url": "https://open.spotify.com/track/2BNztHs4pufXHi2YY6s0mn"
@@ -607,7 +625,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 313908,
       "name": "Fade",
       "url": "https://open.spotify.com/track/1DtvG21YzEsAazFVDtz5pE"
@@ -949,7 +967,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 300848,
       "name": "Hear Me - Zomby Mix",
       "url": "https://open.spotify.com/track/1v80nVTvQNItY8JPmwecve"
@@ -1333,7 +1351,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 186946,
       "name": "Migraine Skank - Main Mix",
       "url": "https://open.spotify.com/track/54KCXjzkieeuv6L0fzL0CG"
@@ -1351,7 +1369,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 336000,
       "name": "Molten",
       "url": "https://open.spotify.com/track/46VwoSjH45elgQKFxwk6pm"
@@ -1409,7 +1427,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 333978,
       "name": "Mr DJ - Radio Edit",
       "url": "https://open.spotify.com/track/20JUVEhi7NW3AfQw0tbJUg"
@@ -1431,7 +1449,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 144204,
       "name": "Muhammad Ali",
       "url": "https://open.spotify.com/track/0dfBUVqv6pAwVAGeQNU6dc"
@@ -1503,7 +1521,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 439466,
       "name": "Quicktime - Roska Remix",
       "url": "https://open.spotify.com/track/1FDicxg7GVUtCqhF4xgdcI"
@@ -1543,7 +1561,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 252633,
       "name": "Red Devil",
       "url": "https://open.spotify.com/track/4mERMsGHTzOqHr1WwUPeap"
@@ -1615,7 +1633,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 268564,
       "name": "Selecta",
       "url": "https://open.spotify.com/track/2nRb2tbygTKTWYOUBsZH63"
@@ -1677,7 +1695,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 212218,
       "name": "So Dangerous - Radio Edit",
       "url": "https://open.spotify.com/track/1PhVMk51cxAFJlYQFG7QNW"
@@ -1695,7 +1713,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 370219,
       "name": "So Derobe",
       "url": "https://open.spotify.com/track/0HlQ8eP4Xdovcw4f235zTQ"
@@ -1735,7 +1753,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 170901,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/3kD3sDDnY6K6CcCdwxMAvZ"
@@ -1757,7 +1775,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 344036,
       "name": "Sway feat.Correigh",
       "url": "https://open.spotify.com/track/19KZKypz3HmmJQ1Jg1Zgbb"
@@ -1871,7 +1889,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 211680,
       "name": "Things We Do For Love",
       "url": "https://open.spotify.com/track/6VMgYAmlFTJrrKbGcLcAGH"
@@ -1979,7 +1997,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 445746,
       "name": "Turn Me On",
       "url": "https://open.spotify.com/track/7aUlBqAHppttybHHYrefZk"
@@ -2005,7 +2023,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 276500,
       "name": "Venga",
       "url": "https://open.spotify.com/track/1CkWZoPbqXNBwhWmqk2fkq"
@@ -2023,7 +2041,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 257538,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6NWZnftVAZPB8Rw7a5NWgT"
@@ -2059,7 +2077,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 253500,
       "name": "Wingin It",
       "url": "https://open.spotify.com/track/66vaxeL63wkY4BpUaS1VJV"

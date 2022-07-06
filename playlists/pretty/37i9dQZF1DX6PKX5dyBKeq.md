@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The best of UK Rap & Drill\.  Cover: Headie One & Frenna
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,159,519 likes - 49 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,160,168 likes - 49 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The hottest local and global tracks in Pakistan\. Cover \- Ali Sethi, Shae Gill
 
-57 songs - 3 hr 34 min - [published](https://open.spotify.com/playlist/7dqZIhUmQUoc5otwsdY7F6)
+58 songs - 3 hr 38 min - [published](https://open.spotify.com/playlist/7dqZIhUmQUoc5otwsdY7F6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,9 +57,10 @@
 | [SPACESHIP](https://open.spotify.com/track/2PcGqmKToUz0s65q1Acg7d) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [HIDDEN GEMS](https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv) | 2:04 | 2022-06-20 |  |
 | [Stunner](https://open.spotify.com/track/5uEqb1GoOV3W5vUaAIvyPc) | [Young Stunners](https://open.spotify.com/artist/01PyusFVbXgoD5Kl1mR8CC), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA) | [Stunner](https://open.spotify.com/album/6hJuAaYqPKKmdUeSVKlqHj) | 3:06 | 2022-06-20 |  |
 | [Sun Le Na](https://open.spotify.com/track/0tyK2eyMatZvNCVtbdNlmt) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Sun Le Na](https://open.spotify.com/album/1Mltm1wPVWUcp7tg7FnJCk) | 3:29 | 2022-06-20 |  |
+| [SYL](https://open.spotify.com/track/0JBnAsReYppHqCZJbqy5H8) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [SYL](https://open.spotify.com/album/2NVYsJrBDBSZ2G2z63Bbgu) | 4:09 | 2022-07-05 |  |
 | [TERE TE](https://open.spotify.com/track/6TClJ8jXi3OBV7gcrU3jx5) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [HIDDEN GEMS](https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv) | 1:54 | 2022-06-20 |  |
 | [Thagyan](https://open.spotify.com/track/6KdTA6s7zmqLyB5ZNvVta0) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Thagyan](https://open.spotify.com/album/0tcyDiVe5YVzXXocO1nk1m) | 5:07 | 2022-06-20 |  |
-| [The Last Ride](https://open.spotify.com/track/7B4uYqxTpTOS1sgxFB9Ann) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [The Last Ride](https://open.spotify.com/album/2ga8NDQRxoXRAsqajZoCjv) | 4:22 | 2022-06-20 |  |
+| [The Last Ride](https://open.spotify.com/track/7B4uYqxTpTOS1sgxFB9Ann) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [The Last Ride](https://open.spotify.com/album/2ga8NDQRxoXRAsqajZoCjv) | 4:22 | 2022-06-20 | 2022-07-06 |
 | [Tu Aake Dekhle](https://open.spotify.com/track/0yCWDaAgOtg6TKlNCg9rwA) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [The Carnival](https://open.spotify.com/album/7uftfPn8f7lwtRLUrEVRYM) | 4:30 | 2022-06-20 |  |
 | [WE ROLLIN](https://open.spotify.com/track/605r6rtj7kBlJwZWmYx1Dt) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [WE ROLLIN](https://open.spotify.com/album/7EJI4AmDQIyLoxegf5AjDO) | 3:19 | 2022-06-20 |  |
 | [Weli Ho](https://open.spotify.com/track/3xoeyCTIlvBaLuTmewPRwL) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Weli Ho](https://open.spotify.com/album/7CgXTd6AhH7tNNBq8soFu7) | 3:20 | 2022-06-20 |  |

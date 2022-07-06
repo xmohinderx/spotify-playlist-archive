@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: ROSIE
 
-198 songs - 10 hr 32 min - [published](https://open.spotify.com/playlist/5yqeqnGwA3WW1b3xVN4nfp)
+199 songs - 10 hr 35 min - [published](https://open.spotify.com/playlist/5yqeqnGwA3WW1b3xVN4nfp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [girl like me](https://open.spotify.com/track/1LPShUnyqnLbAO7WeNywsF) | [Blessing](https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth) | [girl like me](https://open.spotify.com/album/46ZPRtDJULJaHrTupdMMED) | 2:58 | 2022-02-11 | 2022-04-02 |
 | [God Must Hate Me](https://open.spotify.com/track/21xzFXSL2XkZ2mIzDDAqTK) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [God Must Hate Me](https://open.spotify.com/album/11PVMiF3q2pguN5ym4NvMm) | 2:29 | 2022-01-14 |  |
 | [Google Translate / poppies](https://open.spotify.com/track/5SWkedKGlTLmjMRvhu0xXX) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Forward / Slash](https://open.spotify.com/album/2pBKpl9tmGPszEickvA8qi) | 4:23 | 2022-02-25 |  |
-| [Hallelujah](https://open.spotify.com/track/7HfhipszjuQRcfHWO9loZ4) | [Anna Mae](https://open.spotify.com/artist/1LqshAgbw4iC1QlZSSR4qv) | [For The Romantics](https://open.spotify.com/album/1yZQkacmUXEp1Ig3ZpuZu6) | 2:59 | 2022-05-20 |  |
+| [Hallelujah](https://open.spotify.com/track/7HfhipszjuQRcfHWO9loZ4) | [Anna Mae](https://open.spotify.com/artist/1LqshAgbw4iC1QlZSSR4qv) | [For The Romantics](https://open.spotify.com/album/1yZQkacmUXEp1Ig3ZpuZu6) | 2:59 | 2022-05-20 | 2022-07-06 |
 | [Happening Again](https://open.spotify.com/track/1XYb7j151Uoan1RVDpt9F4) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Happening Again](https://open.spotify.com/album/6Kf3JOaJGuR058TJqrB4gM) | 2:53 | 2022-06-22 |  |
 | [Happier Without Me](https://open.spotify.com/track/0jj6QrlJcrBFkOq1vnmJOM) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Make Believe](https://open.spotify.com/album/1VwMUOIMVdhdB80dTVxnxe) | 3:40 | 2022-01-14 | 2022-04-29 |
 | [Happy Ending](https://open.spotify.com/track/7cRZRBbNdODYhhTDaUVgJm) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Better Off Without](https://open.spotify.com/album/35qpnR66pfCMPq2Li6ggK3) | 3:48 | 2022-05-20 | 2022-06-11 |
@@ -183,6 +183,7 @@
 | [this house is not a home](https://open.spotify.com/track/7CKDmTfTBNp6cezLioRqRs) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l), [Delanie Leclerc](https://open.spotify.com/artist/547XK7rrl55NSCTqDa7TUx) | [this house is not a home](https://open.spotify.com/album/4sfBi3CDkc1y3k5MiReoLJ) | 2:38 | 2022-01-14 |  |
 | [Til Death Do Us Part](https://open.spotify.com/track/4HkyqRGphINv1xhlP7xPEC) | [Leroy Sanchez](https://open.spotify.com/artist/1qwVM2JnEMXbKgvZESGsRn) | [Til Death Do Us Part](https://open.spotify.com/album/6AE7Jgr7arm1a48S8wOjvK) | 3:10 | 2022-01-21 |  |
 | [To The Bone](https://open.spotify.com/track/31A6HUffhAwFHlk5akfxiD) | [Sammy Copley](https://open.spotify.com/artist/2Ss8myJnkg66YWeaVqtOmN) | [To The Bone](https://open.spotify.com/album/2pBLBGkgGi5xgoPz5Wqudg) | 4:01 | 2022-05-27 |  |
+| [touch tank](https://open.spotify.com/track/7DrzZN5jaDyE0a0tVuVWnj) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4cH0G6g1NcPguHQ8aOk1h6) | 2:59 | 2022-07-05 |  |
 | [Tropical Sour Candy](https://open.spotify.com/track/0zwKGD9KXvdIfZXlCb0WzI) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [If It's Not Forever](https://open.spotify.com/album/5OhIJcMEADcrAKH5kkAvzT) | 3:09 | 2022-04-01 | 2022-05-20 |
 | [u](https://open.spotify.com/track/7rdszPyYKNM1W5Y2CMRwJI) | [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [u](https://open.spotify.com/album/1A51GvRGFj70bKPZMF5KRN) | 2:56 | 2022-04-22 |  |
 | [Universe](https://open.spotify.com/track/6Cm5uLnM47WzZUZifIqMgM) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Universe](https://open.spotify.com/album/6UI2kIBhFmj2LRcfRzjnQl) | 3:55 | 2022-03-25 |  |

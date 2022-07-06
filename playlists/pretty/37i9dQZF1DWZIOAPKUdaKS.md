@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 
 > Piano music to hone your thought process.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,764 likes - 475 songs - 20 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,729 likes - 475 songs - 20 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -484,4 +484,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 | 474 | [Onthou](https://open.spotify.com/track/0CoSBNNeO8JgayAfLttECk) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Traces](https://open.spotify.com/album/06LJIRUxKqN78v72GCeEuW) | 2:08 |
 | 475 | [Salon musique](https://open.spotify.com/track/1UpWPe0O0aNGWmouew7puk) | [Maxence Cyrin](https://open.spotify.com/artist/3NcPjvA2rp9FPj1JBAXwOS) | [Melancholy Island \- Salon musique](https://open.spotify.com/album/5SnkIhfrSNMz9GSjs7xoGq) | 2:00 |
 
-Snapshot ID: `MTY1MzA0MDA4NCwwMDAwMDA5MjAwMDAwMTgwZTBkZGY3Y2EwMDAwMDE3NDY4YjViNTBl`
+Snapshot ID: `MTY1NzAyNzcwMywwMDAwMDA5MzAwMDAwMTgxY2U4YzM0NTkwMDAwMDE3NDY4YjViNTBl`

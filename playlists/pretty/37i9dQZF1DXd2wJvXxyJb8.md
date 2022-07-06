@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > Tudo o que está bombando e viralizando por aí!
 
-[Spotify](https://open.spotify.com/user/spotify) - 796,554 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 796,940 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 11 | [Videozin pra Tiktok](https://open.spotify.com/track/0IU0HtCAk6AXO5BqWW4lwy) | [DJ Zigão](https://open.spotify.com/artist/7t0BSQtRRdLyO3VseiGBBy), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [MC Roger](https://open.spotify.com/artist/6QiUH0jJVJUdnte0jX1Wzj) | [Videozin pra Tiktok](https://open.spotify.com/album/7eypky4JCgx0P4T2Oka3ce) | 2:21 |
 | 12 | [Cavalo Preto](https://open.spotify.com/track/69psuEqKlppVgsv4q1fjb7) | [Sérgio Reis](https://open.spotify.com/artist/0cSC1GvvgLumHovn2rgSHj) | [Saudade de Minha Terra](https://open.spotify.com/album/4DMT1AyqhMW6FE889Jx2wZ) | 2:44 |
 | 13 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 |
-| 14 | [Até a Próxima Vida \- Cover](https://open.spotify.com/track/6HoHb1lKB49MHnt3AHj8j5) | [CESINHA MELLO](https://open.spotify.com/artist/6y5AaWOVdRE2xb4eXWQChQ), [Nivaldo Marques](https://open.spotify.com/artist/38KlCsh4vAknywZfVbJuvH) | [Até a Próxima Vida \(Cover\)](https://open.spotify.com/album/6IG9pUUxywSVa5GjtDnq0X) | 3:21 |
+| 14 | [Até a Próxima Vida \- Cover](https://open.spotify.com/track/6HoHb1lKB49MHnt3AHj8j5) | [CESINHA MELLO](https://open.spotify.com/artist/6y5AaWOVdRE2xb4eXWQChQ), [Nivaldo Marques](https://open.spotify.com/artist/3CuBahQ7dQ7zZohxh6sLRc) | [Até a Próxima Vida \(Cover\)](https://open.spotify.com/album/6IG9pUUxywSVa5GjtDnq0X) | 3:21 |
 | 15 | [Tuf Tuf Pof Pof](https://open.spotify.com/track/5IgFVuxghOxiIYRnjUsqi1) | [MC Reino](https://open.spotify.com/artist/5VYxsvivVgcLrPjgLUFRG1), [DJ Malicia](https://open.spotify.com/artist/3gNtJCqmFD4p27qCQiQWvW), [Mc Babu](https://open.spotify.com/artist/7oeudIVqIvznvUPrvivH5W), [MC PR](https://open.spotify.com/artist/0Vxqvpm9tpZcz6d4egDtjX), [MC Thaizinha](https://open.spotify.com/artist/5O30nI9WzhHuxqFZqReBQu) | [Tuf Tuf Pof Pof](https://open.spotify.com/album/4h7QfGIwKtRwi3KZ27LVdj) | 2:42 |
 | 16 | [QUEBRA DE LADINHO e FAZ CORAçãoOZINHO](https://open.spotify.com/track/0qL3FhMjtyDwuBubFhRwvE) | [Dj JL O Único](https://open.spotify.com/artist/4jxavP0DgDmPzx11P5HYxS), [Dj LK da Escócia](https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50), [DJ Breno](https://open.spotify.com/artist/0MU7bIngzZFJkLksK8Hh94), [DJ Pedrin](https://open.spotify.com/artist/4anI4492Z1ogF7JJqCiI0i), [Dj Créu](https://open.spotify.com/artist/6t0Zo9vl0h5qUavwMjQPLz) | [QUEBRA DE LADINHO e FAZ CORAçãoOZINHO](https://open.spotify.com/album/2sA87vgkhrNFPcN7LIhKVu) | 2:23 |
 | 17 | [Baile da Serra](https://open.spotify.com/track/45VwwcqkVl61khE9JT2OxK) | [Braão](https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd), [LIT UP](https://open.spotify.com/artist/048eLqPGxqWk7PblwFmXgE), [Dj Nattan](https://open.spotify.com/artist/6IcnhoOZCRfWT8viBrredL) | [Baile da Serra](https://open.spotify.com/album/2Bb73208HjjXHHvwZpalGu) | 3:25 |

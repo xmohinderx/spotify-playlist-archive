@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and beyond..\. Cover: <a href="https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz?si=lXfuvPo2QfmEsdFXTFmjaw">Mellow & Sleazy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,761 likes - 79 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,132 likes - 79 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

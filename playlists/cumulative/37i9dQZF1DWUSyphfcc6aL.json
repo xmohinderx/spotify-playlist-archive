@@ -125,7 +125,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 172615,
       "name": "Acapulco - Nora Van Elken Remix",
       "url": "https://open.spotify.com/track/1OlP20I66BT4WZYxYcdBgU"
@@ -147,7 +147,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 151515,
       "name": "Afraid of Love",
       "url": "https://open.spotify.com/track/36bE2OPOL9wwxAuFEjigbZ"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 245696,
       "name": "Down On Your Luck",
       "url": "https://open.spotify.com/track/1lJWKNtH8WX2GMzyMsmE5n"
@@ -847,7 +847,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 174649,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/14agcnE3UapOnnxYufVMZZ"
@@ -1143,7 +1143,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 237720,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
@@ -1391,7 +1391,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 190243,
       "name": "Lovefool (feat. Pia Mia)",
       "url": "https://open.spotify.com/track/1Qw4FBX30bGdutJ19HBD7T"
@@ -1413,7 +1413,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 178625,
       "name": "Man On The Moon",
       "url": "https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj"
@@ -1585,7 +1585,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 167222,
       "name": "No Chill (feat. Lil Xxel)",
       "url": "https://open.spotify.com/track/5oh6lXsQ3mhw5PvcsJqvXg"
@@ -1752,6 +1752,32 @@
     },
     {
       "album": {
+        "name": "Panda",
+        "url": "https://open.spotify.com/album/2O5HuL1VASzGAhNUcSvngl"
+      },
+      "artists": [
+        {
+          "name": "Level 8",
+          "url": "https://open.spotify.com/artist/7GHpLKwhlOEzggNhtgQaYv"
+        },
+        {
+          "name": "Murdbrain",
+          "url": "https://open.spotify.com/artist/1uJZAXeNu4zmrwkjHwUysn"
+        },
+        {
+          "name": "Flyn Stoned",
+          "url": "https://open.spotify.com/artist/0O7upj4KBKaTdQJ6WM0m9k"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152558,
+      "name": "Panda",
+      "url": "https://open.spotify.com/track/3h89wQcjKtNm525yS7RQ1B"
+    },
+    {
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/6R6Q9qbwHVHTtS7J3jQSa6"
       },
@@ -1793,7 +1819,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 167903,
       "name": "Paradise (feat. Dermot Kennedy)",
       "url": "https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr"
@@ -2257,7 +2283,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 199440,
       "name": "There's Nothing Holdin' Me Back",
       "url": "https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml"
@@ -2411,7 +2437,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 177689,
       "name": "Where Did You Go?",
       "url": "https://open.spotify.com/track/26KOUSe9W0ZsTxMgNfbmq1"

@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 224640,
       "name": "A Fairy Tale",
       "url": "https://open.spotify.com/track/6wiZ4T7wd5HtvMCjsZ9w4S"
@@ -193,7 +193,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 189893,
       "name": "BEST FRIEND",
       "url": "https://open.spotify.com/track/1j0BU9IWKxfWKX0ajT2jBe"
@@ -313,7 +313,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 203629,
       "name": "Come Close",
       "url": "https://open.spotify.com/track/7nQmQlxomSUbzMK91vLMma"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 267099,
       "name": "Fairy of Shampoo",
       "url": "https://open.spotify.com/track/5IFCL8jUbhv1nP3cPuda7n"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 194999,
       "name": "Feel Like Falling In Love",
       "url": "https://open.spotify.com/track/6rmDUUHmyzOpBWtGdEXHpj"
@@ -563,7 +563,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 181293,
       "name": "Fly to me",
       "url": "https://open.spotify.com/track/6KrDSC2vcLc2E6lajkGSw4"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 230661,
       "name": "Fool",
       "url": "https://open.spotify.com/track/4EIJ8e7f0104nDFFVhWg0x"
@@ -697,7 +697,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 186697,
       "name": "Hide and Seek",
       "url": "https://open.spotify.com/track/4dv1Ygd62DuZEjzqVivgKE"
@@ -773,7 +773,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 227936,
       "name": "I pray",
       "url": "https://open.spotify.com/track/0LBG7GmTBRPRfDPXaG3VzS"
@@ -809,7 +809,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 196128,
       "name": "I think I'm in love",
       "url": "https://open.spotify.com/track/395vU3XBsgKd5iRXT9x94P"
@@ -831,6 +831,24 @@
       "duration_ms": 198626,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/2MzPMAOhdAdAOFV6Cug4Tj"
+    },
+    {
+      "album": {
+        "name": "I wonder",
+        "url": "https://open.spotify.com/album/4S7Cchlit8FEWzt0a0qrDe"
+      },
+      "artists": [
+        {
+          "name": "Hello Fox",
+          "url": "https://open.spotify.com/artist/5F7gjj7mqSIPMv7hbaAQVd"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177594,
+      "name": "I wonder",
+      "url": "https://open.spotify.com/track/0P0VXGVjj3TNoXMyWWSsuK"
     },
     {
       "album": {
@@ -863,7 +881,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 180760,
       "name": "I'm In Love",
       "url": "https://open.spotify.com/track/1D82HRevEEavXuo6U2WIcz"
@@ -903,7 +921,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 191126,
       "name": "Imagine Love",
       "url": "https://open.spotify.com/track/6mjhtxtQab50DeMnphYDjy"
@@ -975,7 +993,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 216600,
       "name": "Line",
       "url": "https://open.spotify.com/track/2n4NuLpGCLp7dnICjvCgAy"
@@ -997,7 +1015,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 192500,
       "name": "LOVE CELLS (Feat. THE PERCENT)",
       "url": "https://open.spotify.com/track/1suxmKvismP5TmZHUOIS0B"
@@ -1015,7 +1033,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 181713,
       "name": "love me only",
       "url": "https://open.spotify.com/track/5pIB8r2aa5tHBXUYZFWT0p"
@@ -1033,7 +1051,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 197280,
       "name": "LOVE SONG",
       "url": "https://open.spotify.com/track/1ivQM7qQCPRfvisivqGIYJ"
@@ -1113,7 +1131,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 180292,
       "name": "Meet Me At Your Place (Feat. KANTO)",
       "url": "https://open.spotify.com/track/0To6ccckBxRNuKkoG8xku1"
@@ -1131,7 +1149,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 175412,
       "name": "NDGGA",
       "url": "https://open.spotify.com/track/4k4PQkx007qoo6XPbijp9z"
@@ -1243,7 +1261,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 212320,
       "name": "Our Blue (Back to You X CHEEZE)",
       "url": "https://open.spotify.com/track/7rMEAfrzLPdB14MBI5QVxb"
@@ -1301,7 +1319,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 233026,
       "name": "Pong Dang",
       "url": "https://open.spotify.com/track/1z4RuGHHajj2eRK8IMbxMw"
@@ -1489,7 +1507,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 162346,
       "name": "Should not love you (Part.2)",
       "url": "https://open.spotify.com/track/49EViTtQ88ssFquryh5e9C"
@@ -1511,7 +1529,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 183500,
       "name": "Shutter (feat. Kinn)",
       "url": "https://open.spotify.com/track/1hisjif3DM0ITkDTdrRrao"
@@ -1583,7 +1601,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 223629,
       "name": "SOME",
       "url": "https://open.spotify.com/track/29fqZVcnBDxZZaM5qOcQmR"
@@ -1823,7 +1841,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 262453,
       "name": "Sweet dream",
       "url": "https://open.spotify.com/track/1DP9vgW2iuSzP2Krk1JkiY"
@@ -1841,7 +1859,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 189093,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/3B4AOfW6nDbCPb1pIEczJQ"
@@ -1911,7 +1929,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 230249,
       "name": "Type & Delete",
       "url": "https://open.spotify.com/track/0jrc18dt5N6fOJtRUIH9Dv"
@@ -1963,7 +1981,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 239557,
       "name": "Ugly, Lovely (feat. INFP)",
       "url": "https://open.spotify.com/track/51N5xzPBGodwhO2cKlkT32"
@@ -2043,7 +2061,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 208690,
       "name": "What about (feat. PENOMECO)",
       "url": "https://open.spotify.com/track/6WdWUIfP8zAhkzdmknWjTd"
@@ -2079,7 +2097,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 221786,
       "name": "What Shall I Do?",
       "url": "https://open.spotify.com/track/5EifmUIMkCqnayTDAWwTfx"
@@ -2195,7 +2213,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 219330,
       "name": "You, Who?",
       "url": "https://open.spotify.com/track/4oklfRljGkpZjzpc5vt6qj"
@@ -2249,7 +2267,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 204615,
       "name": "\uae38\uc5b4\uc57c 5\ubd84 That 5 Minutes",
       "url": "https://open.spotify.com/track/2Yi4Zlcqmt3ibLeOoRnVuT"

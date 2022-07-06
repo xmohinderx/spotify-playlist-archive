@@ -4,7 +4,7 @@
 
 > The hits of tomorrow are on Spotify today\. Cover: Dove Cameron
 
-1,235 songs - 2 day 15 hr 53 min - [published](https://open.spotify.com/playlist/2VIVDwiqHp2XxfGz8TU0FX)
+1,237 songs - 2 day 15 hr 58 min - [published](https://open.spotify.com/playlist/2VIVDwiqHp2XxfGz8TU0FX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q) | 2:40 | 2021-10-20 | 2022-01-22 |
 | [BETTER OFF DEAD](https://open.spotify.com/track/4ih3Y0t86lfK8m8pTgEx4I) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [BETTER OFF DEAD](https://open.spotify.com/album/3E1tSM6TIdeVmjDXZ0Xtsq) | 2:35 | 2020-12-18 | 2021-02-19 |
 | [Better Than Feeling Lonely](https://open.spotify.com/track/0n1SCmuSFEqRQxXvlxCNBy) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Better Than Feeling Lonely](https://open.spotify.com/album/1QaMPJQkIa89q1DcrZHilW) | 3:14 | 2021-01-01 | 2021-01-23 |
+| [Betty \(Get Money\)](https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Betty \(Get Money\)](https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF) | 2:26 | 2022-07-05 |  |
 | [Between Us](https://open.spotify.com/track/2N9fGz3nPXci2w80p1lQIW) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Between Us](https://open.spotify.com/album/5aVDWV0pb5XOdan27pUeYB) | 3:55 | 2021-11-06 | 2021-11-13 |
 | [BICHOTA](https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [BICHOTA](https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y) | 2:58 | 2020-10-23 | 2020-11-20 |
 | [Big \(feat\. Gunna\)](https://open.spotify.com/track/78oZ26xvmtCfarveRXs3dq) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Big \(feat\. Gunna\)](https://open.spotify.com/album/4oAJhbdsokVDoLHMdbqtDP) | 2:36 | 2021-02-12 | 2021-04-17 |
@@ -1113,6 +1114,7 @@
 | [Too Much \(feat\. Usher\)](https://open.spotify.com/track/39umHdGKfpnjY4TFtnoQ51) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Too Much \(feat\. Usher\)](https://open.spotify.com/album/6lObxQq82f6xitLI8xZQyz) | 2:45 | 2020-10-23 | 2020-12-18 |
 | [Too Precious](https://open.spotify.com/track/7FUDnQ7zR7MltFMakoJwnG) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Too Precious](https://open.spotify.com/album/2X743cg72FvViLoa1Zagdk) | 2:49 | 2022-05-20 | 2022-06-04 |
 | [TOUCH](https://open.spotify.com/track/7mZ19pGoinaWwanIDq0JTY) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [TOUCH](https://open.spotify.com/album/58QltYKAAcCgYSoyzDsCP7) | 3:25 | 2022-02-04 | 2022-03-05 |
+| [touch tank](https://open.spotify.com/track/7DrzZN5jaDyE0a0tVuVWnj) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4cH0G6g1NcPguHQ8aOk1h6) | 2:59 | 2022-07-05 |  |
 | [Toxic](https://open.spotify.com/track/2kaNmAbqrtOf7Rdr3fnCWl) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Faded](https://open.spotify.com/album/1C9KIpgrisvGtCxTfNBBaJ) | 2:48 | 2021-10-16 | 2021-12-18 |
 | [Track Star](https://open.spotify.com/track/5hChuUMe5iHfjkXgzj1D4b) | [Mooski](https://open.spotify.com/artist/4NqH3V7GS0Igs1VyGMXEi8) | [Track Star](https://open.spotify.com/album/7yvSdViuYJjZwXWtSwYu3D) | 3:19 | 2021-04-03 | 2021-05-08 |
 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 | 2021-05-26 | 2021-06-26 |

@@ -4,7 +4,7 @@
 
 > Bold bops from Ludhiana to London\. Cover: Sidhu Moose Wala.
 
-69 songs - 3 hr 44 min - [published](https://open.spotify.com/playlist/0uMzddXjKauDUllx7hMr3q)
+70 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/0uMzddXjKauDUllx7hMr3q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Necklace](https://open.spotify.com/track/4QxtPnup1D3WbwTW2SvNr4) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Judaa 3 Chapter 1](https://open.spotify.com/album/1bad04WweZQ3f1BWaIHmqf) | 3:35 | 2021-12-18 | 2022-01-11 |
 | [Old Skool](https://open.spotify.com/track/76IXpU3ve4gHmvcduUN88d) | [Prem Dhillon Ft\. Sidhu Moosewala](https://open.spotify.com/artist/4hXZlvo1FmotuwiO3XGdbk), [Naseeb](https://open.spotify.com/artist/68utQf42HeyJUbU8X9W0uf) | [Old Skool](https://open.spotify.com/album/43KOzJb3q0AHeUGzR8stIe) | 4:13 | 2021-12-18 |  |
 | [On the Mic](https://open.spotify.com/track/07OsxsRgbSD9SED12pqlxx) | [JK](https://open.spotify.com/artist/30A8pUI01O6H41x7rvQpSt), [Tru\-Skool](https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2) | [On the Mic](https://open.spotify.com/album/2MHfkQX1Goi9T15jUEGR53) | 3:46 | 2021-12-18 | 2022-01-11 |
+| [Putt Patela Da](https://open.spotify.com/track/30iRn3jvkspezDnngzLt7V) | [Geeta Zaildar](https://open.spotify.com/artist/78rdC4FvVaOJmEgfjlUi4a), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY), [Jassi X](https://open.spotify.com/artist/3rJlJIcCjbAyj4X08YQqsS) | [Putt Patela Da](https://open.spotify.com/album/7ktFMBLCpBHdsXP5PLROM2) | 2:50 | 2022-07-05 |  |
 | [Pyar Bolda](https://open.spotify.com/track/3RtR0XXNGtBHJkFgY6OvTQ) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Pyar Bolda](https://open.spotify.com/album/3ZcDbMWG4m26hPhQXFLFc8) | 2:42 | 2021-12-18 |  |
 | [Sharaab](https://open.spotify.com/track/5yAu5xEsC4eJvVL4B2Gjl4) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq) | [State of Art](https://open.spotify.com/album/62Wlbcq0ip7IThBYtmxEi6) | 2:49 | 2022-05-06 |  |
 | [Signed to God](https://open.spotify.com/track/3lRzVvMNG1QJcHlhLXM0lA) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 2:27 | 2021-12-18 | 2022-01-11 |

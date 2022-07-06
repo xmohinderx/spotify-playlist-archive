@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Epic and melodic metal, for the dragonslayer in you! Cover: Wind Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,420 likes - 75 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,634 likes - 75 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

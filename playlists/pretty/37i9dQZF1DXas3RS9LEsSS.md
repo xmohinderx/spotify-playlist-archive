@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas3RS9LEsSS.md) - [plain]
 
 > The best of Latin blues\. Cover: Carlos Santana
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,108 likes - 58 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,129 likes - 58 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

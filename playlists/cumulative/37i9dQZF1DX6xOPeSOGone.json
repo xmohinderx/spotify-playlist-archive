@@ -633,7 +633,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 272133,
       "name": "Carrie",
       "url": "https://open.spotify.com/track/29wJiSQcze8HEmxkUQykyp"
@@ -705,7 +705,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 253893,
       "name": "Come As You Are",
       "url": "https://open.spotify.com/track/4yzgjSHWy5E8fKflgwaKQh"
@@ -795,7 +795,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 263000,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/5PsUB0ISfQxRLhF5DmI5Ks"
@@ -1123,7 +1123,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 222733,
       "name": "Everywhere",
       "url": "https://open.spotify.com/track/6i8ecOsx4J2Px1maiqzqoG"
@@ -1526,6 +1526,24 @@
     },
     {
       "album": {
+        "name": "Crosby, Stills & Nash",
+        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157893,
+      "name": "Helplessly Hoping - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe"
+    },
+    {
+      "album": {
         "name": "Abbey Road (Remastered)",
         "url": "https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd"
       },
@@ -1573,7 +1591,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 257480,
       "name": "High and Dry",
       "url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
@@ -1609,7 +1627,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 370093,
       "name": "Hole In My Soul",
       "url": "https://open.spotify.com/track/7kPuCwBWgXy5TGfgwNUKwV"
@@ -1735,7 +1753,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 354636,
       "name": "Hysteria - Remastered 2017",
       "url": "https://open.spotify.com/track/6EzSduIPnAmO3o41HY5V9d"
@@ -1933,7 +1951,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 367240,
       "name": "I'm Not In Love",
       "url": "https://open.spotify.com/track/5Ws2EQtBiwpAcBYYSB14ns"
@@ -2099,7 +2117,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 302040,
       "name": "It's Probably Me",
       "url": "https://open.spotify.com/track/1X3Vb1oIAW6Ee22JZAEi59"
@@ -2603,7 +2621,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 235173,
       "name": "Mmm Mmm Mmm Mmm",
       "url": "https://open.spotify.com/track/31v2AQlx4pDI7kmnLxBkem"
@@ -3287,7 +3305,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 273333,
       "name": "Send Me An Angel",
       "url": "https://open.spotify.com/track/1bKQ48M9onID2kbSpRy8kK"
@@ -3503,7 +3521,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 190880,
       "name": "Strong Enough",
       "url": "https://open.spotify.com/track/0IiG5LCOkbUTyXoylZ3spP"
@@ -3611,7 +3629,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 304880,
       "name": "The Drugs Don't Work",
       "url": "https://open.spotify.com/track/15kLz0zNFdtsaJdXKSGmTU"
@@ -3925,7 +3943,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 264306,
       "name": "Under the Bridge",
       "url": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
@@ -4091,7 +4109,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 259133,
       "name": "Watch Over You",
       "url": "https://open.spotify.com/track/7kxfWvj6u9oWQ5C36kMtGb"

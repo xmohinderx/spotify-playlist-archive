@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 2010s.",
-  "num_followers": 54589,
+  "num_followers": 54685,
   "original_name": "10s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Njk4NjE5MCwwMDAwMDAwMDM4YzY0NjllMGUzMGYyMzI4OTJkMTJkNDg3MzEyYmQy",
+  "snapshot_id": "MTY1NzA3Mjk5OSwwMDAwMDAwMDM1YmI4YTQxMGM5YTZiNmVhYTRkOTg1OTI0NDhjNjg3",
   "tracks": [
     {
       "added_at": "2020-12-08 17:53:04",
@@ -91,22 +91,6 @@
     {
       "added_at": "2020-12-08 17:53:04",
       "album": {
-        "name": "Battle Born",
-        "url": "https://open.spotify.com/album/3bvS3DlTwV35j2qwFhDvxx"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 273240,
-      "name": "Be Still",
-      "url": "https://open.spotify.com/track/1B5tiGNcOHERcXcBHiL6Xs"
-    },
-    {
-      "added_at": "2020-12-08 17:53:04",
-      "album": {
         "name": "A Brief Inquiry Into Online Relationships",
         "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
       },
@@ -137,6 +121,22 @@
       "url": "https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb"
     },
     {
+      "added_at": "2020-12-08 17:53:04",
+      "album": {
+        "name": "Battle Born",
+        "url": "https://open.spotify.com/album/3bvS3DlTwV35j2qwFhDvxx"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 273240,
+      "name": "Be Still",
+      "url": "https://open.spotify.com/track/1B5tiGNcOHERcXcBHiL6Xs"
+    },
+    {
       "added_at": "2022-05-04 15:00:00",
       "album": {
         "name": "Strangeland",
@@ -151,118 +151,6 @@
       "duration_ms": 218840,
       "name": "Sovereign Light Caf\u00e9",
       "url": "https://open.spotify.com/track/4QRkCwqwHFaZ7xeoR9CHL6"
-    },
-    {
-      "added_at": "2020-12-08 17:53:04",
-      "album": {
-        "name": "Songs Of Innocence (Deluxe)",
-        "url": "https://open.spotify.com/album/6wQXpkptAIZPzNf5H0SA10"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 226763,
-      "name": "Song For Someone",
-      "url": "https://open.spotify.com/track/47dKd4opEgipcKYEQm4CX4"
-    },
-    {
-      "added_at": "2020-12-08 17:53:04",
-      "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 238973,
-      "name": "If You Ever Want To Be In Love",
-      "url": "https://open.spotify.com/track/02fZLz9BmmOKb5wkueM9D4"
-    },
-    {
-      "added_at": "2020-12-08 17:53:04",
-      "album": {
-        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
-        "url": "https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 347525,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/4m0q0xQ2BNl9SCAGKyfiGZ"
-    },
-    {
-      "added_at": "2020-12-08 17:53:04",
-      "album": {
-        "name": "I Guess I Just Feel Like",
-        "url": "https://open.spotify.com/album/35Kv9CZURVdrejZ5jsL8Xn"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 286426,
-      "name": "I Guess I Just Feel Like",
-      "url": "https://open.spotify.com/track/1HNywa8Bk0TmzRwQrzhtPo"
-    },
-    {
-      "added_at": "2020-12-08 17:53:04",
-      "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 230288,
-      "name": "Next To Me",
-      "url": "https://open.spotify.com/track/31VOknKjFrEX47bZXzqcoF"
-    },
-    {
-      "added_at": "2020-12-08 17:53:04",
-      "album": {
-        "name": "Wonderful Wonderful",
-        "url": "https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 278093,
-      "name": "Some Kind Of Love",
-      "url": "https://open.spotify.com/track/0vicQm86o7GnT42GdG34sA"
-    },
-    {
-      "added_at": "2022-03-28 15:29:17",
-      "album": {
-        "name": "Red Pill Blues (Deluxe)",
-        "url": "https://open.spotify.com/album/0fe04UycvOyXQD4o3uA7Vo"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 215229,
-      "name": "Girls Like You",
-      "url": "https://open.spotify.com/track/3p1vxaIG6BDLnhJvyy2NNJ"
     },
     {
       "added_at": "2022-03-28 15:29:17",
@@ -283,18 +171,50 @@
     {
       "added_at": "2020-12-08 17:53:04",
       "album": {
-        "name": "Songs Of Experience (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
+        "name": "Ghost Stories",
+        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 204066,
-      "name": "Summer Of Love",
-      "url": "https://open.spotify.com/track/70ItvfhDJSvIpYCVQoxqEg"
+      "duration_ms": 285014,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
+    },
+    {
+      "added_at": "2020-12-08 17:53:04",
+      "album": {
+        "name": "I Guess I Just Feel Like",
+        "url": "https://open.spotify.com/album/35Kv9CZURVdrejZ5jsL8Xn"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 286426,
+      "name": "I Guess I Just Feel Like",
+      "url": "https://open.spotify.com/track/1HNywa8Bk0TmzRwQrzhtPo"
+    },
+    {
+      "added_at": "2020-12-08 17:53:04",
+      "album": {
+        "name": "Wonderful Wonderful",
+        "url": "https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 278093,
+      "name": "Some Kind Of Love",
+      "url": "https://open.spotify.com/track/0vicQm86o7GnT42GdG34sA"
     },
     {
       "added_at": "2020-12-08 17:53:04",
@@ -315,18 +235,50 @@
     {
       "added_at": "2020-12-08 17:53:04",
       "album": {
-        "name": "Ghost Stories",
-        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
+        "name": "Songs Of Innocence (Deluxe)",
+        "url": "https://open.spotify.com/album/6wQXpkptAIZPzNf5H0SA10"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 285014,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
+      "duration_ms": 226763,
+      "name": "Song For Someone",
+      "url": "https://open.spotify.com/track/47dKd4opEgipcKYEQm4CX4"
+    },
+    {
+      "added_at": "2020-12-08 17:53:04",
+      "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 230288,
+      "name": "Next To Me",
+      "url": "https://open.spotify.com/track/31VOknKjFrEX47bZXzqcoF"
+    },
+    {
+      "added_at": "2020-12-08 17:53:04",
+      "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 238973,
+      "name": "If You Ever Want To Be In Love",
+      "url": "https://open.spotify.com/track/02fZLz9BmmOKb5wkueM9D4"
     },
     {
       "added_at": "2020-12-08 17:53:04",
@@ -345,20 +297,20 @@
       "url": "https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr"
     },
     {
-      "added_at": "2020-12-08 17:53:04",
+      "added_at": "2022-03-28 15:29:17",
       "album": {
-        "name": "Everything This Way",
-        "url": "https://open.spotify.com/album/6wycCzrlJHKrooOq3Dzzj3"
+        "name": "Red Pill Blues (Deluxe)",
+        "url": "https://open.spotify.com/album/0fe04UycvOyXQD4o3uA7Vo"
       },
       "artists": [
         {
-          "name": "Walking On Cars",
-          "url": "https://open.spotify.com/artist/632WMoQfBWk76kBz7vMXNg"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         }
       ],
-      "duration_ms": 261024,
-      "name": "Flying High Falling Low",
-      "url": "https://open.spotify.com/track/5ompsQEJ93uy0YGCgANzBI"
+      "duration_ms": 215229,
+      "name": "Girls Like You",
+      "url": "https://open.spotify.com/track/3p1vxaIG6BDLnhJvyy2NNJ"
     },
     {
       "added_at": "2021-10-14 05:16:33",
@@ -375,38 +327,6 @@
       "duration_ms": 174373,
       "name": "Over You",
       "url": "https://open.spotify.com/track/2rF2dht1UkYFPpJ73w0AU6"
-    },
-    {
-      "added_at": "2020-12-08 17:53:04",
-      "album": {
-        "name": "Smoke + Mirrors (Deluxe)",
-        "url": "https://open.spotify.com/album/6rRFeV6xigfNyPoZ6YqcoW"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 217973,
-      "name": "Second Chances",
-      "url": "https://open.spotify.com/track/7z3AlZQ8NaPpB1Yic5cIDJ"
-    },
-    {
-      "added_at": "2022-03-28 15:29:17",
-      "album": {
-        "name": "V (Deluxe)",
-        "url": "https://open.spotify.com/album/3z4ASjF9zQ6efgXFr9bQXu"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 235493,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/4AHmOwMJjn5kDlobANEpbY"
     },
     {
       "added_at": "2021-10-14 05:16:33",
@@ -443,70 +363,6 @@
     {
       "added_at": "2020-12-08 17:53:04",
       "album": {
-        "name": "Everything This Way",
-        "url": "https://open.spotify.com/album/6wycCzrlJHKrooOq3Dzzj3"
-      },
-      "artists": [
-        {
-          "name": "Walking On Cars",
-          "url": "https://open.spotify.com/artist/632WMoQfBWk76kBz7vMXNg"
-        }
-      ],
-      "duration_ms": 231619,
-      "name": "As We Fly South",
-      "url": "https://open.spotify.com/track/4SaDS2MbpK45wQIllWx6pZ"
-    },
-    {
-      "added_at": "2020-12-08 17:53:04",
-      "album": {
-        "name": "The 1975 (Deluxe)",
-        "url": "https://open.spotify.com/album/74EKsgjD5GJOJpthJ59dhQ"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 240670,
-      "name": "Fallingforyou",
-      "url": "https://open.spotify.com/track/7LbUv7w2z7rEbNqp1uIL9U"
-    },
-    {
-      "added_at": "2022-03-28 15:29:17",
-      "album": {
-        "name": "V (Deluxe)",
-        "url": "https://open.spotify.com/album/3z4ASjF9zQ6efgXFr9bQXu"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 189960,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/110utfuF28YdGbEzmQKhsa"
-    },
-    {
-      "added_at": "2020-12-08 17:53:04",
-      "album": {
-        "name": "Jake Bugg",
-        "url": "https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj"
-      },
-      "artists": [
-        {
-          "name": "Jake Bugg",
-          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
-        }
-      ],
-      "duration_ms": 247013,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/1Bph2KY0MA2JUiX5uADWjZ"
-    },
-    {
-      "added_at": "2020-12-08 17:53:04",
-      "album": {
         "name": "Songs Of Experience (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
       },
@@ -516,9 +372,25 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 241400,
-      "name": "Landlady",
-      "url": "https://open.spotify.com/track/04yNTogtZSbl40k7GVvLuO"
+      "duration_ms": 204066,
+      "name": "Summer Of Love",
+      "url": "https://open.spotify.com/track/70ItvfhDJSvIpYCVQoxqEg"
+    },
+    {
+      "added_at": "2020-12-08 17:53:04",
+      "album": {
+        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "url": "https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 347525,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/4m0q0xQ2BNl9SCAGKyfiGZ"
     },
     {
       "added_at": "2020-12-08 17:53:04",
@@ -539,6 +411,38 @@
     {
       "added_at": "2020-12-08 17:53:04",
       "album": {
+        "name": "SYML",
+        "url": "https://open.spotify.com/album/2Hz6tGm9vVbjYWgpANWp5E"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 202009,
+      "name": "Where's My Love",
+      "url": "https://open.spotify.com/track/2NeM9rfWo70KQej9GxeaoL"
+    },
+    {
+      "added_at": "2020-12-08 17:53:04",
+      "album": {
+        "name": "Jake Bugg",
+        "url": "https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj"
+      },
+      "artists": [
+        {
+          "name": "Jake Bugg",
+          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+        }
+      ],
+      "duration_ms": 247013,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/1Bph2KY0MA2JUiX5uADWjZ"
+    },
+    {
+      "added_at": "2020-12-08 17:53:04",
+      "album": {
         "name": "Chaos And The Calm",
         "url": "https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW"
       },
@@ -548,9 +452,9 @@
           "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
         }
       ],
-      "duration_ms": 260533,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/3nnG7AM9QopHVPEuLX3Khk"
+      "duration_ms": 275493,
+      "name": "Move Together",
+      "url": "https://open.spotify.com/track/42HxrmByT7nOJjtCYXaIl7"
     },
     {
       "added_at": "2022-03-28 15:29:17",
@@ -575,6 +479,22 @@
     {
       "added_at": "2020-12-08 17:53:04",
       "album": {
+        "name": "Smoke + Mirrors (Deluxe)",
+        "url": "https://open.spotify.com/album/6rRFeV6xigfNyPoZ6YqcoW"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 217973,
+      "name": "Second Chances",
+      "url": "https://open.spotify.com/track/7z3AlZQ8NaPpB1Yic5cIDJ"
+    },
+    {
+      "added_at": "2020-12-08 17:53:04",
+      "album": {
         "name": "Junk Of The Heart",
         "url": "https://open.spotify.com/album/2HfdqVaLccOvzfsHej9A8g"
       },
@@ -587,6 +507,118 @@
       "duration_ms": 205026,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/3lcYh4YFzkeZf1ebWy8wPx"
+    },
+    {
+      "added_at": "2020-12-08 17:53:04",
+      "album": {
+        "name": "The Ride",
+        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "duration_ms": 171533,
+      "name": "Heathrow",
+      "url": "https://open.spotify.com/track/2X6aiq2KyWsyhh7c3vzeyp"
+    },
+    {
+      "added_at": "2020-12-08 17:53:04",
+      "album": {
+        "name": "The 1975 (Deluxe)",
+        "url": "https://open.spotify.com/album/74EKsgjD5GJOJpthJ59dhQ"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 240670,
+      "name": "Fallingforyou",
+      "url": "https://open.spotify.com/track/7LbUv7w2z7rEbNqp1uIL9U"
+    },
+    {
+      "added_at": "2020-12-08 17:53:04",
+      "album": {
+        "name": "Everything This Way",
+        "url": "https://open.spotify.com/album/6wycCzrlJHKrooOq3Dzzj3"
+      },
+      "artists": [
+        {
+          "name": "Walking On Cars",
+          "url": "https://open.spotify.com/artist/632WMoQfBWk76kBz7vMXNg"
+        }
+      ],
+      "duration_ms": 261024,
+      "name": "Flying High Falling Low",
+      "url": "https://open.spotify.com/track/5ompsQEJ93uy0YGCgANzBI"
+    },
+    {
+      "added_at": "2020-12-08 17:53:04",
+      "album": {
+        "name": "Smoke + Mirrors (Deluxe)",
+        "url": "https://open.spotify.com/album/6rRFeV6xigfNyPoZ6YqcoW"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 148200,
+      "name": "Release",
+      "url": "https://open.spotify.com/track/1DkwT6raJxACzdcWLviVJK"
+    },
+    {
+      "added_at": "2020-12-08 17:53:04",
+      "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 260533,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/3nnG7AM9QopHVPEuLX3Khk"
+    },
+    {
+      "added_at": "2020-12-08 17:53:04",
+      "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 269893,
+      "name": "All the Pretty Girls",
+      "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
+    },
+    {
+      "added_at": "2022-03-28 15:29:17",
+      "album": {
+        "name": "V (Deluxe)",
+        "url": "https://open.spotify.com/album/3z4ASjF9zQ6efgXFr9bQXu"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 235493,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/4AHmOwMJjn5kDlobANEpbY"
     },
     {
       "added_at": "2020-12-08 17:53:04",
@@ -621,20 +653,68 @@
       "url": "https://open.spotify.com/track/084LwoVbV9TMRUSZUIkPmV"
     },
     {
-      "added_at": "2022-01-05 10:28:40",
+      "added_at": "2020-12-08 17:53:04",
       "album": {
-        "name": "Transmissions",
-        "url": "https://open.spotify.com/album/43N4RaaiL6dcmmMFL0nMdE"
+        "name": "The Balcony",
+        "url": "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN"
       },
       "artists": [
         {
-          "name": "Throw The Fight",
-          "url": "https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7"
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
         }
       ],
-      "duration_ms": 255750,
-      "name": "Passing Ships",
-      "url": "https://open.spotify.com/track/34tuFlBciKgXQFoOpEFlex"
+      "duration_ms": 138154,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/4hEhOvEz9tulJQXZ7hiqkz"
+    },
+    {
+      "added_at": "2020-12-08 17:53:04",
+      "album": {
+        "name": "Everything This Way",
+        "url": "https://open.spotify.com/album/6wycCzrlJHKrooOq3Dzzj3"
+      },
+      "artists": [
+        {
+          "name": "Walking On Cars",
+          "url": "https://open.spotify.com/artist/632WMoQfBWk76kBz7vMXNg"
+        }
+      ],
+      "duration_ms": 231619,
+      "name": "As We Fly South",
+      "url": "https://open.spotify.com/track/4SaDS2MbpK45wQIllWx6pZ"
+    },
+    {
+      "added_at": "2020-12-08 17:53:04",
+      "album": {
+        "name": "Wretched and Divine: The Story Of The Wild Ones",
+        "url": "https://open.spotify.com/album/0wcIOEo1iicfaxxCRgULOO"
+      },
+      "artists": [
+        {
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+        }
+      ],
+      "duration_ms": 319946,
+      "name": "Lost It All",
+      "url": "https://open.spotify.com/track/1wfZKFKzBDRl1wTK7TvYQe"
+    },
+    {
+      "added_at": "2022-03-28 15:29:17",
+      "album": {
+        "name": "V (Deluxe)",
+        "url": "https://open.spotify.com/album/3z4ASjF9zQ6efgXFr9bQXu"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 189960,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/110utfuF28YdGbEzmQKhsa"
     },
     {
       "added_at": "2020-12-08 17:53:04",
@@ -648,41 +728,9 @@
           "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
         }
       ],
-      "duration_ms": 148200,
-      "name": "Release",
-      "url": "https://open.spotify.com/track/1DkwT6raJxACzdcWLviVJK"
-    },
-    {
-      "added_at": "2020-12-08 17:53:04",
-      "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 275493,
-      "name": "Move Together",
-      "url": "https://open.spotify.com/track/42HxrmByT7nOJjtCYXaIl7"
-    },
-    {
-      "added_at": "2020-12-08 17:53:04",
-      "album": {
-        "name": "SYML",
-        "url": "https://open.spotify.com/album/2Hz6tGm9vVbjYWgpANWp5E"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 202009,
-      "name": "Where's My Love",
-      "url": "https://open.spotify.com/track/2NeM9rfWo70KQej9GxeaoL"
+      "duration_ms": 260906,
+      "name": "Smoke And Mirrors",
+      "url": "https://open.spotify.com/track/6lXKvvlt0tCeBDO1dvAxzl"
     },
     {
       "added_at": "2021-10-12 12:40:44",
@@ -703,66 +751,50 @@
     {
       "added_at": "2020-12-08 17:53:04",
       "album": {
-        "name": "The Balcony",
-        "url": "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN"
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
       },
       "artists": [
         {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
         }
       ],
-      "duration_ms": 138154,
-      "name": "Hourglass",
-      "url": "https://open.spotify.com/track/4hEhOvEz9tulJQXZ7hiqkz"
+      "duration_ms": 198573,
+      "name": "Stay With Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
     },
     {
       "added_at": "2020-12-08 17:53:04",
       "album": {
-        "name": "Smoke + Mirrors (Deluxe)",
-        "url": "https://open.spotify.com/album/6rRFeV6xigfNyPoZ6YqcoW"
+        "name": "Days Are Gone (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CzrzGbCwqT8Y43tvIUPBX"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
         }
       ],
-      "duration_ms": 260906,
-      "name": "Smoke And Mirrors",
-      "url": "https://open.spotify.com/track/6lXKvvlt0tCeBDO1dvAxzl"
+      "duration_ms": 217973,
+      "name": "Edge",
+      "url": "https://open.spotify.com/track/0buJlA4Ki50ZyfnyyAf5UR"
     },
     {
-      "added_at": "2020-12-08 17:53:04",
+      "added_at": "2022-01-05 10:28:40",
       "album": {
-        "name": "Wretched and Divine: The Story Of The Wild Ones",
-        "url": "https://open.spotify.com/album/0wcIOEo1iicfaxxCRgULOO"
+        "name": "Transmissions",
+        "url": "https://open.spotify.com/album/43N4RaaiL6dcmmMFL0nMdE"
       },
       "artists": [
         {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+          "name": "Throw The Fight",
+          "url": "https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7"
         }
       ],
-      "duration_ms": 319946,
-      "name": "Lost It All",
-      "url": "https://open.spotify.com/track/1wfZKFKzBDRl1wTK7TvYQe"
-    },
-    {
-      "added_at": "2020-12-08 17:53:04",
-      "album": {
-        "name": "Junk Of The Heart",
-        "url": "https://open.spotify.com/album/2HfdqVaLccOvzfsHej9A8g"
-      },
-      "artists": [
-        {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
-        }
-      ],
-      "duration_ms": 162346,
-      "name": "Petulia",
-      "url": "https://open.spotify.com/track/6AWF5c78vckdtK0COaAXBY"
+      "duration_ms": 255750,
+      "name": "Passing Ships",
+      "url": "https://open.spotify.com/track/34tuFlBciKgXQFoOpEFlex"
     },
     {
       "added_at": "2020-12-08 17:53:04",
@@ -797,52 +829,24 @@
       "url": "https://open.spotify.com/track/0a5UnIvDUBzqwUduJsouRy"
     },
     {
-      "added_at": "2020-12-08 17:53:04",
+      "added_at": "2022-03-28 15:29:17",
       "album": {
-        "name": "Lifelines",
-        "url": "https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ"
+        "name": "Hands All Over",
+        "url": "https://open.spotify.com/album/7strNUlU6xZqlVWBNUdOYv"
       },
       "artists": [
         {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 207053,
-      "name": "My Heart I Surrender",
-      "url": "https://open.spotify.com/track/4Qt5o43KerMzgh0PNPm6Q1"
-    },
-    {
-      "added_at": "2020-12-08 17:53:04",
-      "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
-      },
-      "artists": [
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
         {
-          "name": "You Me At Six",
-          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 198573,
-      "name": "Stay With Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
-    },
-    {
-      "added_at": "2020-12-08 17:53:04",
-      "album": {
-        "name": "The Ride",
-        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 171533,
-      "name": "Heathrow",
-      "url": "https://open.spotify.com/track/2X6aiq2KyWsyhh7c3vzeyp"
+      "duration_ms": 201160,
+      "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
+      "url": "https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN"
     },
     {
       "added_at": "2020-12-08 17:53:04",
@@ -863,34 +867,50 @@
     {
       "added_at": "2020-12-08 17:53:04",
       "album": {
-        "name": "Night Visions",
-        "url": "https://open.spotify.com/album/6nxDQi0FeEwccEPJeNySoS"
+        "name": "The Attractions Of Youth",
+        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
         }
       ],
-      "duration_ms": 217293,
-      "name": "Every Night",
-      "url": "https://open.spotify.com/track/5raubQ8TVZTJO1PFs2bpwq"
+      "duration_ms": 233400,
+      "name": "Little Boy",
+      "url": "https://open.spotify.com/track/1vkdwNTgBAzWFApCVYX9ER"
     },
     {
       "added_at": "2020-12-08 17:53:04",
       "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+        "name": "The Ride",
+        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
       },
       "artists": [
         {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
         }
       ],
-      "duration_ms": 269893,
-      "name": "All the Pretty Girls",
-      "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
+      "duration_ms": 157000,
+      "name": "Glasgow",
+      "url": "https://open.spotify.com/track/28VT0090inPlN6bfxoVdmB"
+    },
+    {
+      "added_at": "2020-12-08 17:53:04",
+      "album": {
+        "name": "Junk Of The Heart",
+        "url": "https://open.spotify.com/album/2HfdqVaLccOvzfsHej9A8g"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "duration_ms": 162346,
+      "name": "Petulia",
+      "url": "https://open.spotify.com/track/6AWF5c78vckdtK0COaAXBY"
     },
     {
       "added_at": "2020-12-08 17:53:04",
@@ -911,18 +931,66 @@
     {
       "added_at": "2020-12-08 17:53:04",
       "album": {
-        "name": "The Attractions Of Youth",
-        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
+        "name": "Night Visions",
+        "url": "https://open.spotify.com/album/6nxDQi0FeEwccEPJeNySoS"
       },
       "artists": [
         {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
         }
       ],
-      "duration_ms": 233400,
-      "name": "Little Boy",
-      "url": "https://open.spotify.com/track/1vkdwNTgBAzWFApCVYX9ER"
+      "duration_ms": 217293,
+      "name": "Every Night",
+      "url": "https://open.spotify.com/track/5raubQ8TVZTJO1PFs2bpwq"
+    },
+    {
+      "added_at": "2020-12-08 17:53:04",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/3KHkCXWAJANXQztdpMmKt4"
+      },
+      "artists": [
+        {
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+        }
+      ],
+      "duration_ms": 283528,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/4hTg9q0AnxtH4yZKeRcMin"
+    },
+    {
+      "added_at": "2020-12-08 17:53:04",
+      "album": {
+        "name": "Lifelines",
+        "url": "https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "duration_ms": 207053,
+      "name": "My Heart I Surrender",
+      "url": "https://open.spotify.com/track/4Qt5o43KerMzgh0PNPm6Q1"
+    },
+    {
+      "added_at": "2020-12-08 17:53:04",
+      "album": {
+        "name": "We Stitch These Wounds",
+        "url": "https://open.spotify.com/album/79rUMyGQNnAhZkEeB3Rd7B"
+      },
+      "artists": [
+        {
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+        }
+      ],
+      "duration_ms": 251706,
+      "name": "The Mortician's Daughter",
+      "url": "https://open.spotify.com/track/64otP8HsLlvIgsidSOh2xH"
     },
     {
       "added_at": "2022-03-28 15:29:17",
@@ -959,122 +1027,82 @@
     {
       "added_at": "2020-12-08 17:53:04",
       "album": {
-        "name": "The Ride",
-        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Glasgow",
-      "url": "https://open.spotify.com/track/28VT0090inPlN6bfxoVdmB"
-    },
-    {
-      "added_at": "2020-12-08 17:53:04",
-      "album": {
-        "name": "Days Are Gone (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CzrzGbCwqT8Y43tvIUPBX"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 217973,
-      "name": "Edge",
-      "url": "https://open.spotify.com/track/0buJlA4Ki50ZyfnyyAf5UR"
-    },
-    {
-      "added_at": "2020-12-08 17:53:04",
-      "album": {
-        "name": "We Stitch These Wounds",
-        "url": "https://open.spotify.com/album/79rUMyGQNnAhZkEeB3Rd7B"
-      },
-      "artists": [
-        {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
-        }
-      ],
-      "duration_ms": 251706,
-      "name": "The Mortician's Daughter",
-      "url": "https://open.spotify.com/track/64otP8HsLlvIgsidSOh2xH"
-    },
-    {
-      "added_at": "2020-12-08 17:53:04",
-      "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/3KHkCXWAJANXQztdpMmKt4"
-      },
-      "artists": [
-        {
-          "name": "Theory of a Deadman",
-          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
-        }
-      ],
-      "duration_ms": 283528,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/4hTg9q0AnxtH4yZKeRcMin"
-    },
-    {
-      "added_at": "2022-03-28 15:29:17",
-      "album": {
-        "name": "Hands All Over",
-        "url": "https://open.spotify.com/album/7strNUlU6xZqlVWBNUdOYv"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 201160,
-      "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
-      "url": "https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN"
-    },
-    {
-      "added_at": "2020-12-08 17:53:04",
-      "album": {
-        "name": "Songs Of Innocence (Deluxe)",
-        "url": "https://open.spotify.com/album/6wQXpkptAIZPzNf5H0SA10"
+        "name": "Songs Of Experience (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
       },
       "artists": [
         {
           "name": "U2",
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        },
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
         }
       ],
-      "duration_ms": 285842,
-      "name": "The Troubles",
-      "url": "https://open.spotify.com/track/2djBFFaafredmGix2Z5TBY"
+      "duration_ms": 241400,
+      "name": "Landlady",
+      "url": "https://open.spotify.com/track/04yNTogtZSbl40k7GVvLuO"
     },
     {
       "added_at": "2020-12-08 17:53:04",
       "album": {
-        "name": "Heart Vs. Mind",
-        "url": "https://open.spotify.com/album/6bywSFiasl6HpfQLDvh0az"
+        "name": "My Head Is An Animal",
+        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
       },
       "artists": [
         {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
         }
       ],
-      "duration_ms": 207066,
-      "name": "My Heart I Surrender",
-      "url": "https://open.spotify.com/track/2tXtxbJra1MIJxkWrD1xTd"
+      "duration_ms": 283946,
+      "name": "Sloom",
+      "url": "https://open.spotify.com/track/6xFxmcebq5XphN0WoxNLgp"
+    },
+    {
+      "added_at": "2020-12-08 17:53:04",
+      "album": {
+        "name": "Wilder Mind",
+        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 236866,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/1tQtvqPs77t6CYemcXOs2T"
+    },
+    {
+      "added_at": "2021-10-12 12:40:44",
+      "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 186906,
+      "name": "Automobile",
+      "url": "https://open.spotify.com/track/1bloF1LHgUVvPJLxrzxgu7"
+    },
+    {
+      "added_at": "2020-12-08 17:53:04",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/4wIE6aAQq4GL10ae7cjZZ0"
+      },
+      "artists": [
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        }
+      ],
+      "duration_ms": 269573,
+      "name": "Wild Sun",
+      "url": "https://open.spotify.com/track/4BfQ0lR0I0iJFS9SoExpbG"
     },
     {
       "added_at": "2022-03-28 15:29:17",
@@ -1093,52 +1121,20 @@
       "url": "https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW"
     },
     {
-      "added_at": "2020-12-08 17:53:04",
+      "added_at": "2022-03-28 15:29:17",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/4wIE6aAQq4GL10ae7cjZZ0"
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
       },
       "artists": [
         {
-          "name": "The Strumbellas",
-          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
         }
       ],
-      "duration_ms": 272000,
-      "name": "David",
-      "url": "https://open.spotify.com/track/3KLJJbSoUOySl6A1FSnGA8"
-    },
-    {
-      "added_at": "2020-12-08 17:53:04",
-      "album": {
-        "name": "My Head Is An Animal",
-        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 301613,
-      "name": "Slow And Steady",
-      "url": "https://open.spotify.com/track/3raHUAfQyQ7Gv8yK62AVhV"
-    },
-    {
-      "added_at": "2020-12-08 17:53:04",
-      "album": {
-        "name": "On My One",
-        "url": "https://open.spotify.com/album/1pLZfRsvM8Yaw45GOdQLCJ"
-      },
-      "artists": [
-        {
-          "name": "Jake Bugg",
-          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
-        }
-      ],
-      "duration_ms": 188666,
-      "name": "The Love We\u2019re Hoping For",
-      "url": "https://open.spotify.com/track/3fblnkA1bNOPREVhEl8NpO"
+      "duration_ms": 163253,
+      "name": "Feel It Still",
+      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
     }
   ],
   "unique_name": "10s Soft Rock",

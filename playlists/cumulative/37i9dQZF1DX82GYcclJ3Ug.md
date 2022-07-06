@@ -4,7 +4,7 @@
 
 > No rules\. No boundaries\. Just cool music you need to hear\. Cover: Pale Waves
 
-388 songs - 20 hr 33 min - [published](https://open.spotify.com/playlist/4nMPQOlCNMSE5OFGV7xGWt)
+389 songs - 20 hr 35 min - [published](https://open.spotify.com/playlist/4nMPQOlCNMSE5OFGV7xGWt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [NIGHTMARE \(feat\. guardin\)](https://open.spotify.com/track/3as5VuWv791EWn04JkrvtK) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79), [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [NIGHTMARE \(feat\. guardin\)](https://open.spotify.com/album/482FoQaZMMqfZrLl5rAJSC) | 2:52 | 2022-06-17 |  |
 | [NO ESCAPE](https://open.spotify.com/track/5Xg5bGbWHToIMSsqWxOsej) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 3:34 | 2022-04-09 | 2022-07-02 |
 | [Nobody But Me \(feat\. Cold War Kids\)](https://open.spotify.com/track/4DMDtsHojzFgAKbtFYKoJ9) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Nobody But Me \(feat\. Cold War Kids\)](https://open.spotify.com/album/5Q4MnV0Phqr0R5eEM78Ycr) | 3:44 | 2022-04-29 | 2022-07-02 |
-| [Nobody Really Cares](https://open.spotify.com/track/1rIgoyxAw5qAKyNd7vERKw) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Nobody Really Cares \(obody really cares\[blank\]\)](https://open.spotify.com/album/77MC3Wx3KB3vompH3JXToD) | 2:54 | 2022-07-01 |  |
+| [Nobody Really Cares](https://open.spotify.com/track/1rIgoyxAw5qAKyNd7vERKw) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Nobody Really Cares](https://open.spotify.com/album/77MC3Wx3KB3vompH3JXToD) | 2:54 | 2022-07-01 |  |
 | [NOCTURNAL](https://open.spotify.com/track/0cGRxex1Zgi7NW9yeDa5PQ) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal](https://open.spotify.com/album/6kbFVipGkUglf9eerXBlN3) | 2:46 | 2022-07-01 |  |
 | [nothing \(in my head\)](https://open.spotify.com/track/4PFn8XOYbV4zlWr4Jhu7XX) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [nothing \(in my head\)](https://open.spotify.com/album/42jJ257HJG8CNZdGGpj61K) | 3:05 | 2022-06-10 |  |
 | [Nothing Can Kill Us](https://open.spotify.com/track/301CUIqMm4OO521fxMLOZg) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Inside Voices / Outside Voices](https://open.spotify.com/album/3rOh1c4zewftORLmjmV8dM) | 2:50 | 2022-02-04 | 2022-04-09 |
@@ -265,6 +265,7 @@
 | [Puffer](https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Puffer](https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n) | 2:32 | 2022-06-17 |  |
 | [Pull The Cord](https://open.spotify.com/track/4FDOZKpSsWjSXNVTS43qES) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Chrysalis](https://open.spotify.com/album/5pXpUs3iFvHtERCkLkrEIi) | 3:00 | 2021-11-26 | 2022-01-22 |
 | [pulp](https://open.spotify.com/track/2LitoKkzGmCg6u1SjoSGeo) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu) | [pulp](https://open.spotify.com/album/32LQR8XENLDe0x5VI9wB1T) | 3:04 | 2021-11-26 | 2022-03-26 |
+| [Punk Tactics](https://open.spotify.com/track/2KBYPTSTHjYYOPACrFTkPy) | [Joey Valence](https://open.spotify.com/artist/6BkiL5nhcwWK6JqWbBjNgu), [Brae](https://open.spotify.com/artist/1QGptNgo1M6cD7EjrFZmRp) | [Punk Tactics](https://open.spotify.com/album/7pG2QdrVFNTid1hqezx5dH) | 2:23 | 2022-07-05 |  |
 | [PURGE ft\. Siiickbrain](https://open.spotify.com/track/1DtlyZk7uxrg5T29zQls44) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [PURGE ft\. Siiickbrain](https://open.spotify.com/album/5O7wZ6lbvfTi7OJexsULS1) | 2:37 | 2022-05-06 | 2022-06-04 |
 | [Rage \(feat\. Travis Barker and Aimee Interrupter of The Interrupters\)](https://open.spotify.com/track/7Eta7z7ofiykxOyk9HVWij) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Rage \(feat\. Travis Barker and Aimee Interrupter of The Interrupters\)](https://open.spotify.com/album/00HwTxnfnfF0OVuXeOhJCZ) | 3:14 | 2021-11-26 | 2022-02-05 |
 | [Raise a Glass](https://open.spotify.com/track/1UwpZNg32X1fTcCFBrmNpp) | [LJ Benet](https://open.spotify.com/artist/3OeEbpqTZS3lzSdqWcNYhb) | [Raise a Glass](https://open.spotify.com/album/37HQhgUUwSX0eqxQ1E54jD) | 3:50 | 2022-01-21 | 2022-03-12 |

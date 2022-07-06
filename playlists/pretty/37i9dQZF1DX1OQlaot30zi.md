@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di AVA, Villabanks, Medy, Neima Ezza, Luchè, Paky e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,663 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,695 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tête \(feat\. Medy & VillaBanks\)](https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Tête \(feat\. Medy & VillaBanks\)](https://open.spotify.com/album/5TL8p0VHTb54SA7FGhL8lG) | 3:00 |
+| 1 | [TÊTE \(feat\. Medy & VillaBanks\)](https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [TÊTE \(feat\. Medy & VillaBanks\)](https://open.spotify.com/album/5TL8p0VHTb54SA7FGhL8lG) | 3:00 |
 | 2 | [LEI \(feat\. Rondodasosa\)](https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:22 |
 | 3 | [Che Stai Dicenn \(feat\. Paky\)](https://open.spotify.com/track/1gwdAaUlJPkDso1qFgPrdm) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Che Stai Dicenn \(feat\. Paky\)](https://open.spotify.com/album/0cUj7puIeZuZwomUGrJkAY) | 3:07 |
 | 4 | [Compliquè \(feat\. Shiva & Ghali\)](https://open.spotify.com/track/4dNo8BDY0ZU7fJhiTQZuIq) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [PROVINCIALE](https://open.spotify.com/album/3KdmwHZ4sZ3IClfMmjs1DL) | 3:17 |

@@ -4,7 +4,7 @@
 
 > Listen to Indian women, at full volume\. Cover: Baani Sandhu
 
-119 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/3rqRWyNJwvt55VCcOLZ5lE)
+120 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/3rqRWyNJwvt55VCcOLZ5lE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [O Saki Saki](https://open.spotify.com/track/1K8zYNuDywMknSJuNGoWy0) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Batla House](https://open.spotify.com/album/5GUbtvq6lcq1nTQEHq2BKe) | 3:11 | 2022-03-07 | 2022-05-05 |
 | [Oo Antava Oo Oo Antava](https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8) | [Indravathi Chauhan](https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM) | [Pushpa \- The Rise](https://open.spotify.com/album/4tXcR4YBqi96HgZlMCBY7v) | 3:43 | 2022-01-04 |  |
 | [Oot Patangi](https://open.spotify.com/track/3MFeWkN6J07QTwwIHWTBYC) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Oot Patangi](https://open.spotify.com/album/70SKb5B68vfWO4nPrGkoNv) | 3:07 | 2021-12-10 | 2022-02-02 |
+| [Out of Love](https://open.spotify.com/track/6x4fJlgsoGqklYyMQN7vLN) | [Raashi Sood](https://open.spotify.com/artist/0ZEiDnkNsdY6IXWUjWuBU2), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Out of Love](https://open.spotify.com/album/1bv1UnuDeOnL6odVRPJksM) | 3:17 | 2022-07-05 |  |
 | [Paani Paani](https://open.spotify.com/track/47Rqh5ZSamtIOFi7G6VgFJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Paani Paani](https://open.spotify.com/album/39mClZpOH792zXWppimcBb) | 2:54 | 2021-12-10 |  |
 | [Pal](https://open.spotify.com/track/5G7pZ8G8NFvS1MQ9H4L7dC) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Pal](https://open.spotify.com/album/4QCM8VlhhlwZtQ2Ew7gtIg) | 4:07 | 2022-04-05 |  |
 | [Param Sundari](https://open.spotify.com/track/3KeMulXbLDJBQdY5PZbGEh) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Mimi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0DUOcMjmHGVLqFkWqfNC0z) | 3:20 | 2022-02-01 |  |

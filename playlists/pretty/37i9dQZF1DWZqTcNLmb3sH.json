@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : KGF 2",
-  "num_followers": 32960,
+  "num_followers": 33054,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Njk0MDQ2MywwMDAwMDE5YzAwMDAwMTgxYzk1OTA0MjAwMDAwMDE4MTEzMjM5YWY1",
+  "snapshot_id": "MTY1NzAwNDM5NCwwMDAwMDE5ZTAwMDAwMTgxY2QyODg2N2QwMDAwMDE4MTEzMjM5YWY1",
   "tracks": [
     {
       "added_at": "2022-05-24 03:49:40",
@@ -135,6 +135,30 @@
       "duration_ms": 188727,
       "name": "Journey Song (From \"777 Charlie - Kannada\")",
       "url": "https://open.spotify.com/track/4ixlyMvq9In20ZxZzSQY76"
+    },
+    {
+      "added_at": "2022-07-05 06:59:10",
+      "album": {
+        "name": "Sangeetha Sagara (From \"Orchestra, Mysuru!\")",
+        "url": "https://open.spotify.com/album/0kOau3mxNj9ywS1dCgsgiL"
+      },
+      "artists": [
+        {
+          "name": "Raghu Dixit",
+          "url": "https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc"
+        },
+        {
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+        },
+        {
+          "name": "Siddhartha Belmannu",
+          "url": "https://open.spotify.com/artist/0M0qOys6eONaDvSRKNwKWc"
+        }
+      ],
+      "duration_ms": 298357,
+      "name": "Sangeetha Sagara (From \"Orchestra, Mysuru!\")",
+      "url": "https://open.spotify.com/track/2ynQxMc5SytzQ4eyaDpYDM"
     },
     {
       "added_at": "2022-05-20 13:39:10",
@@ -903,26 +927,6 @@
       "duration_ms": 306857,
       "name": "Vasudhaiva Kutumbakam",
       "url": "https://open.spotify.com/track/3H7X1sQxtdQBJ6P8bX7Z7r"
-    },
-    {
-      "added_at": "2022-04-25 12:03:19",
-      "album": {
-        "name": "Ninnanne Ninnanne (From \"Saddu! Vicharane Nadeyuttide\")",
-        "url": "https://open.spotify.com/album/3I47W1fxsH0AGYAIoF1o01"
-      },
-      "artists": [
-        {
-          "name": "Sachin Basrur",
-          "url": "https://open.spotify.com/artist/6CdktQ3MYk5JwJHq1OajZG"
-        },
-        {
-          "name": "Navya R Bhat",
-          "url": "https://open.spotify.com/artist/7AriXBmBzgSVMVfhldyGRr"
-        }
-      ],
-      "duration_ms": 185322,
-      "name": "Ninnanne Ninnanne (From \"Saddu! Vicharane Nadeyuttide\")",
-      "url": "https://open.spotify.com/track/142yuYan4Wcbz7VbDaIwhE"
     },
     {
       "added_at": "2022-06-13 13:40:50",
@@ -2033,30 +2037,6 @@
       "url": "https://open.spotify.com/track/26juEVajOqOZDsr9ugneaE"
     },
     {
-      "added_at": "2022-02-24 04:47:11",
-      "album": {
-        "name": "Valimai (Kannada) [Original Motion Picture Soundtrack]",
-        "url": "https://open.spotify.com/album/53nkow2lzYpp1IgL325BMM"
-      },
-      "artists": [
-        {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        },
-        {
-          "name": "Priya Mali",
-          "url": "https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM"
-        },
-        {
-          "name": "Sarath Santosh",
-          "url": "https://open.spotify.com/artist/4Qv21cLGHUxyffRHV7vaUp"
-        }
-      ],
-      "duration_ms": 191999,
-      "name": "Enno Kore Na",
-      "url": "https://open.spotify.com/track/1lXgJNyEmaUegk2QjbLf5k"
-    },
-    {
       "added_at": "2022-02-24 12:08:20",
       "album": {
         "name": "Ek Love Ya (Original Motion Picture Soundtrack)",
@@ -2119,26 +2099,6 @@
       "duration_ms": 223545,
       "name": "O Nidhima",
       "url": "https://open.spotify.com/track/6TLwG6i4xePR1hT3cUyrqz"
-    },
-    {
-      "added_at": "2022-02-15 12:30:24",
-      "album": {
-        "name": "Shiva 143",
-        "url": "https://open.spotify.com/album/4YrGH23sv7ChIwIBLi5BP2"
-      },
-      "artists": [
-        {
-          "name": "Nihal Tauro",
-          "url": "https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF"
-        },
-        {
-          "name": "Prithvi Bhat",
-          "url": "https://open.spotify.com/artist/4NpvD2E2PGBnv56XQB3bqr"
-        }
-      ],
-      "duration_ms": 205403,
-      "name": "Male Haniye",
-      "url": "https://open.spotify.com/track/0DQlRF4Z9MGqACDLtiTlot"
     },
     {
       "added_at": "2022-02-21 12:57:26",

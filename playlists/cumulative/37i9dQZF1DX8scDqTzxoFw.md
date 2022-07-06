@@ -4,7 +4,7 @@
 
 > Watch the kids go wild for these party tunes!
 
-101 songs - 5 hr 23 min - [published](https://open.spotify.com/playlist/0e2GAgSIxFVmpVZxEgmPmE)
+104 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/0e2GAgSIxFVmpVZxEgmPmE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,9 +28,11 @@
 | [Cheap Thrills](https://open.spotify.com/track/27SdWb2rFzO6GWiYDBTD9j) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh) | 3:31 | 2021-10-08 |  |
 | [Cheerleader \- Felix Jaehn Remix Radio Edit](https://open.spotify.com/track/2XPc8gL9PwxGURQFcFaDJR) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Cheerleader \(Felix Jaehn Remix Radio Edit\)](https://open.spotify.com/album/3CDIhRuL5iaenmrd95W3Ym) | 3:01 | 2021-10-08 |  |
 | [Circles](https://open.spotify.com/track/52nN0IJTfRTbcWRYzqdVuU) | [Gavin Magnus](https://open.spotify.com/artist/2R111dG82I23SltNvwEdeQ), [Jam Jr.](https://open.spotify.com/artist/1XCnotN3MszWUMW7BdXc1u) | [Circles](https://open.spotify.com/album/5YW3DvSe6WEaCIsjsDVWqA) | 3:34 | 2021-10-08 |  |
+| [Cold Heart](https://open.spotify.com/track/7CKRtwLxj8dd05CguZ26xK) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Cold Heart](https://open.spotify.com/album/1KpBAXivHXBMmafvWgCV80) | 3:22 | 2022-07-05 |  |
 | [Cool Kids](https://open.spotify.com/track/0YnqT6B89ZgOwbSz8SKX0G) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Cool Kids](https://open.spotify.com/album/78IZNqs80hIMFNXo2RpkNj) | 3:35 | 2021-10-08 |  |
 | [Dance Monkey](https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance Monkey \(Stripped Back\) / Dance Monkey](https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD) | 3:29 | 2021-10-08 |  |
 | [Dance Through the Day](https://open.spotify.com/track/4vMrdBYA0UxkXRii8Ayi6M) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [The J Team \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/784cFhESN44WTceqtXcPLN) | 2:35 | 2021-10-08 |  |
+| [Dance To The Music \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/5PB5GPADqc74DvB6vxhD3I) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Dance To The Music \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/1dAzt59wZ2lkkJNgecsO1a) | 2:43 | 2022-07-05 |  |
 | [Don't Call Me Up](https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Ivy To Roses \(Mixtape\)](https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ) | 2:58 | 2021-10-08 |  |
 | [Don't Leave Me Alone \(feat\. Anne\-Marie\)](https://open.spotify.com/track/2zy9TMoZlYGuCNY4TLqG24) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [7](https://open.spotify.com/album/5rbJtzuXtpIP0Ykk7ewIit) | 3:03 | 2021-10-08 |  |
 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 | 2021-10-08 |  |
@@ -45,6 +47,7 @@
 | [Finesse](https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:11 | 2021-10-08 |  |
 | [Freedom](https://open.spotify.com/track/55Y6qJ7Njj8xpIMikjziUk) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Despicable Me 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kFJhsN8drSfWwL493qK0c) | 2:43 | 2021-10-08 |  |
 | [Friends Are Family](https://open.spotify.com/track/5aJZOlpCV5ASWERYjNQVBL) | [Oh, Hush!](https://open.spotify.com/artist/7cpjCdauAvnZuOys36bntk), [Will Arnett](https://open.spotify.com/artist/4816tiO0G1Zn52kd5J2KYn), [Jeff Lewis](https://open.spotify.com/artist/4JDI31jWR7BBBBzw9kmu7Z) | [The Lego Batman Movie: Original Motion Picture Soundtrack](https://open.spotify.com/album/1nuvb3dI59xG29iCSuQ7CN) | 2:23 | 2021-10-08 |  |
+| [Funkytown \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/7p7kNdvLaNeW52PlsnYLF1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Funkytown \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/6OxOGNWMW6OVc9u5K2cOrb) | 4:23 | 2022-07-05 |  |
 | [Glowin' Up \- from the Netflix film My Little Pony: A New Generation](https://open.spotify.com/track/4sA5vMBjQwpnhPtewDXwQS) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [Glowin' Up \(from the Netflix film "My Little Pony: A New Generation"\)](https://open.spotify.com/album/3TPxyCABDC6mXBCmfWRK8X) | 3:11 | 2021-10-08 |  |
 | [Good 4 U](https://open.spotify.com/track/3p5LrNOBWL25sRSw1DVRX5) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Good 4 U](https://open.spotify.com/album/0muvX0psY90Ru9Dgpi9VZA) | 2:58 | 2021-10-08 |  |
 | [Good Mood \- Original Song From Paw Patrol: The Movie](https://open.spotify.com/track/4uX1pkSuSidzJxT4eWL7x1) | [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Good Mood \(Original Song From Paw Patrol: The Movie\)](https://open.spotify.com/album/5YQDkKa0fHnIYnVdfrQLqI) | 3:30 | 2021-10-08 |  |

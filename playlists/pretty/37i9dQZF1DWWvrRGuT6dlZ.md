@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Chara Kai\-Le\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,402 likes - 65 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,404 likes - 65 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

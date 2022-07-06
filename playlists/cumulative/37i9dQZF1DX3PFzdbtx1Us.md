@@ -8,23 +8,23 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/0NOzMlTrPHMQ68snNK891G) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/3TbbCgQsuVZwLNDB5YoUnt) | 0:00 | 2021-06-27 |  |
-| [](https://open.spotify.com/track/15gILuLKAf30TQRZNV17AY) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6b779jTTTqlVcDnj0zAHqZ) | 0:00 | 2021-06-27 |  |
-| [](https://open.spotify.com/track/1LQsAMbRfl2644biYjwHhz) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6FjhiU3DOCOdhcM0Qxhddz) | 0:00 | 2021-06-27 |  |
-| [](https://open.spotify.com/track/1RiKbwqb2O03JT7Bu3dIr2) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0hPLcSucqBSFQ35tkRIA5q) | 0:00 | 2021-06-27 |  |
-| [](https://open.spotify.com/track/1nDyZWeu2ZGzEofZkdilzU) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4A5iafFmHmp3jm07miJmiz) | 0:00 | 2021-06-27 |  |
-| [](https://open.spotify.com/track/1nPTaQHgrjKhSGb5ILEV47) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7en83UUOx1E80wu1HkoNFZ) | 0:00 | 2021-06-27 |  |
-| [](https://open.spotify.com/track/2ZBrOKj7dDANWEA4DcXQ2N) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5lF6GKix1t49qCXs9TASLh) | 0:00 | 2021-06-27 |  |
-| [](https://open.spotify.com/track/2puVVtCgLSTUN6fxRiLeng) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5HTIzYsOwbaKz2XKi6LdHl) | 0:00 | 2021-06-27 |  |
-| [](https://open.spotify.com/track/3XImShg9jroGPxnpJm5bjs) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0Pal5VkkxKbiGZZJHsgTHp) | 0:00 | 2021-06-27 |  |
-| [](https://open.spotify.com/track/3guxwqIaamTCMA0rXL5uKj) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6LCqECKnm2n6MrM0FQP8Xv) | 0:00 | 2021-06-27 |  |
-| [](https://open.spotify.com/track/4aN7eVpleDPkp3C1oDFd4x) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5FqITpi8rcmOgJ1pR9YuSs) | 0:00 | 2021-06-27 |  |
-| [](https://open.spotify.com/track/5m803psXyQGvNBHupCqHSi) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0lnaq6L5rWQIgb8g9qiQVG) | 0:00 | 2021-06-27 |  |
-| [](https://open.spotify.com/track/5pW55ydTQ4a810ReUk8haw) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/68ypGrxQ3BTihCdY2eJqS2) | 0:00 | 2021-06-27 |  |
-| [](https://open.spotify.com/track/60CFGgbdZ315nIOuK5nYmM) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4bwyjd0Zmh114Y1tth2Vjv) | 0:00 | 2021-06-27 |  |
-| [](https://open.spotify.com/track/6aiLNtvcneNec2IYeyXXk3) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6wOqQcUEO0tg56726cyP3j) | 0:00 | 2021-06-27 |  |
-| [](https://open.spotify.com/track/6ppQV7oq5k1utPnzmcVgfz) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1wRozGRs0G4auZhSA4UseC) | 0:00 | 2021-06-27 |  |
-| [](https://open.spotify.com/track/6uWjjaiquXsjuQuks2mZME) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4vrgKKdOXkFTiuzjcDwYNE) | 0:00 | 2021-06-27 |  |
+| [](https://open.spotify.com/track/0NOzMlTrPHMQ68snNK891G) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/3TbbCgQsuVZwLNDB5YoUnt) | 0:00 | 2021-06-27 | 2022-07-06 |
+| [](https://open.spotify.com/track/15gILuLKAf30TQRZNV17AY) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6b779jTTTqlVcDnj0zAHqZ) | 0:00 | 2021-06-27 | 2022-07-06 |
+| [](https://open.spotify.com/track/1LQsAMbRfl2644biYjwHhz) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6FjhiU3DOCOdhcM0Qxhddz) | 0:00 | 2021-06-27 | 2022-07-06 |
+| [](https://open.spotify.com/track/1RiKbwqb2O03JT7Bu3dIr2) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0hPLcSucqBSFQ35tkRIA5q) | 0:00 | 2021-06-27 | 2022-07-06 |
+| [](https://open.spotify.com/track/1nDyZWeu2ZGzEofZkdilzU) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4A5iafFmHmp3jm07miJmiz) | 0:00 | 2021-06-27 | 2022-07-06 |
+| [](https://open.spotify.com/track/1nPTaQHgrjKhSGb5ILEV47) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7en83UUOx1E80wu1HkoNFZ) | 0:00 | 2021-06-27 | 2022-07-06 |
+| [](https://open.spotify.com/track/2ZBrOKj7dDANWEA4DcXQ2N) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5lF6GKix1t49qCXs9TASLh) | 0:00 | 2021-06-27 | 2022-07-06 |
+| [](https://open.spotify.com/track/2puVVtCgLSTUN6fxRiLeng) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5HTIzYsOwbaKz2XKi6LdHl) | 0:00 | 2021-06-27 | 2022-07-06 |
+| [](https://open.spotify.com/track/3XImShg9jroGPxnpJm5bjs) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0Pal5VkkxKbiGZZJHsgTHp) | 0:00 | 2021-06-27 | 2022-07-06 |
+| [](https://open.spotify.com/track/3guxwqIaamTCMA0rXL5uKj) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6LCqECKnm2n6MrM0FQP8Xv) | 0:00 | 2021-06-27 | 2022-07-06 |
+| [](https://open.spotify.com/track/4aN7eVpleDPkp3C1oDFd4x) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5FqITpi8rcmOgJ1pR9YuSs) | 0:00 | 2021-06-27 | 2022-07-06 |
+| [](https://open.spotify.com/track/5m803psXyQGvNBHupCqHSi) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0lnaq6L5rWQIgb8g9qiQVG) | 0:00 | 2021-06-27 | 2022-07-06 |
+| [](https://open.spotify.com/track/5pW55ydTQ4a810ReUk8haw) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/68ypGrxQ3BTihCdY2eJqS2) | 0:00 | 2021-06-27 | 2022-07-06 |
+| [](https://open.spotify.com/track/60CFGgbdZ315nIOuK5nYmM) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4bwyjd0Zmh114Y1tth2Vjv) | 0:00 | 2021-06-27 | 2022-07-06 |
+| [](https://open.spotify.com/track/6aiLNtvcneNec2IYeyXXk3) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6wOqQcUEO0tg56726cyP3j) | 0:00 | 2021-06-27 | 2022-07-06 |
+| [](https://open.spotify.com/track/6ppQV7oq5k1utPnzmcVgfz) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1wRozGRs0G4auZhSA4UseC) | 0:00 | 2021-06-27 | 2022-07-06 |
+| [](https://open.spotify.com/track/6uWjjaiquXsjuQuks2mZME) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4vrgKKdOXkFTiuzjcDwYNE) | 0:00 | 2021-06-27 | 2022-07-06 |
 | [17th December 2020 \(Waterloo Station\)](https://open.spotify.com/track/705EXk9IA9duuFiQ7ZugNP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life Piano EP \(April 14 \- December 17 2020\)](https://open.spotify.com/album/77cR5kSztr2fcYtr0vsyes) | 3:40 | 2021-06-27 |  |
 | [A Walking Embrace](https://open.spotify.com/track/4U6iuQU1GjWBLAjb1J4wxG) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Encores 2](https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg) | 5:29 | 2021-06-27 |  |
 | [Above It All](https://open.spotify.com/track/3uJhBCgvI4Gmkfoz7R5Be8) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [I Was Arthur](https://open.spotify.com/album/37lG6j92FSavjmG8anuy8a) | 2:11 | 2021-06-27 |  |

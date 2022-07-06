@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia\. Cover: Baby Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 688,938 likes - 55 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 689,340 likes - 55 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 10 | [Che Stai Dicenn \(feat\. Paky\)](https://open.spotify.com/track/1gwdAaUlJPkDso1qFgPrdm) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Che Stai Dicenn \(feat\. Paky\)](https://open.spotify.com/album/0cUj7puIeZuZwomUGrJkAY) | 3:07 |
 | 11 | [USCITO DI GALERA](https://open.spotify.com/track/01DXwNf1GzEJkYTbXgL0eb) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:52 |
 | 12 | [Mamma Mia](https://open.spotify.com/track/7d7xucQmFY7PoESyJm2V9J) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Mamma Mia](https://open.spotify.com/album/4hPNVvtU3MXV6Oefi11Zx3) | 2:46 |
-| 13 | [Tête \(feat\. Medy & VillaBanks\)](https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Tête \(feat\. Medy & VillaBanks\)](https://open.spotify.com/album/5TL8p0VHTb54SA7FGhL8lG) | 3:00 |
+| 13 | [TÊTE \(feat\. Medy & VillaBanks\)](https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [TÊTE \(feat\. Medy & VillaBanks\)](https://open.spotify.com/album/5TL8p0VHTb54SA7FGhL8lG) | 3:00 |
 | 14 | [3 DI CUORI \(feat\. Lazza\)](https://open.spotify.com/track/5w1eX8eQf8Z9jvqTCAtHkY) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [3 DI CUORI \(feat\. Lazza\)](https://open.spotify.com/album/7IScTLAkymhF5ltesag29N) | 2:57 |
 | 15 | [I soldi e la droga \(feat\. Lazza\)](https://open.spotify.com/track/20R9mqRNIAFyUl849j9DOc) | [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Ferro del mestiere](https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL) | 3:21 |
 | 16 | [LAPROVINCE \#2](https://open.spotify.com/track/3eBjQXQ5CuRaUbKXj9WIVJ) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [LAPROVINCE \#2](https://open.spotify.com/album/1WhTXqgT1roQzqSCYnrnSH) | 1:56 |

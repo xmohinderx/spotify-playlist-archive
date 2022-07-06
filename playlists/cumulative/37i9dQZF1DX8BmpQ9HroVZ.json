@@ -1122,6 +1122,24 @@
     },
     {
       "album": {
+        "name": "SYL",
+        "url": "https://open.spotify.com/album/2NVYsJrBDBSZ2G2z63Bbgu"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249662,
+      "name": "SYL",
+      "url": "https://open.spotify.com/track/0JBnAsReYppHqCZJbqy5H8"
+    },
+    {
+      "album": {
         "name": "HIDDEN GEMS",
         "url": "https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv"
       },
@@ -1181,7 +1199,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 262247,
       "name": "The Last Ride",
       "url": "https://open.spotify.com/track/7B4uYqxTpTOS1sgxFB9Ann"

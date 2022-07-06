@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > The smoothest Afro R&B out right now\. Cover: <a href="https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo?si=tJGx9zOUQL\-NNWRvpGIghg" > Tay Iwar </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,552 likes - 84 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,664 likes - 84 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 30 | [Forever](https://open.spotify.com/track/2EgxDtfxpFZ8hZnbahDSET) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Seed](https://open.spotify.com/album/75jkFBsbmjHIWGUUNbyDEG) | 3:16 |
 | 31 | [Emiliana](https://open.spotify.com/track/0vNY7uNEG8El6doRdP21D5) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4rgpbWVXW4xNXfSnKcqYl1) | 2:44 |
 | 32 | [Back 2 Ya](https://open.spotify.com/track/737wrM4gGWNlkQZRLQz541) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Passenger 555](https://open.spotify.com/album/3RxSYVzGWrUTxMXQKfdJyo) | 3:39 |
-| 33 | [Maria](https://open.spotify.com/track/6kHUFs2zhLn9XU95U3UTyX) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Silly Walks Discotheque](https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH) | [Maria](https://open.spotify.com/album/52JXwMJ5QOTZBWMCVHq0cy) | 2:33 |
+| 33 | [Maria](https://open.spotify.com/track/6kHUFs2zhLn9XU95U3UTyX) | [Silly Walks Discotheque](https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Maria](https://open.spotify.com/album/52JXwMJ5QOTZBWMCVHq0cy) | 2:33 |
 | 34 | [GOOD GIRL](https://open.spotify.com/track/6BE8bqvWBLL6Fcfrs69i37) | [Charisma](https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [BENEATH THE SURFACE](https://open.spotify.com/album/6YhxNnqUw2nbojF8o1aCge) | 3:57 |
 | 35 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 |
 | 36 | [IDG](https://open.spotify.com/track/3k9Y1OBtIdPQNqbKILvJcD) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [V](https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d) | 3:07 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 83 | [TOXIC](https://open.spotify.com/track/4RYvU6CIPQu4toCLlLByG9) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn), [Landstrip Chip](https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a) | [My WorlD With U](https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm) | 3:27 |
 | 84 | [Good Lovin'](https://open.spotify.com/track/4wAedCvD43jQ2jnl9ADEgk) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [Anchor Baby](https://open.spotify.com/album/2FA3MmXyGWjL0IhoCdktU1) | 2:39 |
 
-Snapshot ID: `MTY1Njk4MzQxOSwwMDAwMDAwMDFlMjk3YWViZDNjOTQ5MGJmMWVmMDk5Nzc2MGFlNzg3`
+Snapshot ID: `MTY1NzA3MDE0OSwwMDAwMDAwMDFlMjk3YWViZDNjOTQ5MGJmMWVmMDk5Nzc2MGFlNzg3`

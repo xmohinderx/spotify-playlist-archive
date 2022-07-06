@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : OfRo
 
-121 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
+122 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Dei \- From "Think Specials"](https://open.spotify.com/track/2MJVUEFXFiMFYjqLCnfxUo) | [Inbaraj Rajendran](https://open.spotify.com/artist/66XIpVT4VmscyfSrPNFkaJ), [Anugraha Raphy](https://open.spotify.com/artist/2mOt2eAGBhSlwjiQNkVvvN) | [Dei \(From "Think Specials"\)](https://open.spotify.com/album/721Fc2J0RU2yPYUroSfKEG) | 3:44 | 2022-05-26 |  |
 | [Dhandasoru](https://open.spotify.com/track/3mAyqaqsWRTY3CM26S1Hxn) | [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Dhandasoru](https://open.spotify.com/album/7nrYJxXREf24DLnoNJCbZ0) | 3:23 | 2022-05-20 | 2022-06-16 |
 | [Elley Loh](https://open.spotify.com/track/7yC4h7vt7rKqkUm5Xd5Fk6) | [Ram Nath RNB](https://open.spotify.com/artist/4ZhOflcedK9HGUVUeZzyWg) | [Elley Loh](https://open.spotify.com/album/5pp4p2QpfEVkZajZZVMWdw) | 3:11 | 2022-01-10 |  |
+| [En Paathi Neethanadi](https://open.spotify.com/track/47NnHnmjhZKDHk2CfieWFQ) | [Mejjo Josseph](https://open.spotify.com/artist/0VhJQH4iwGSdo7MbZUGVW9), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [En Paathi Neethanadi](https://open.spotify.com/album/5F36QWvcT0HLaovulz4r6s) | 5:02 | 2022-07-05 |  |
 | [Enjoy Enjaami](https://open.spotify.com/track/1baHxgYktT8eDdmtTozJF9) | [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Enjoy Enjaami](https://open.spotify.com/album/3nfV4cQnlyNETxtXfKr3IT) | 4:39 | 2021-12-01 |  |
 | [God Damn Money](https://open.spotify.com/track/7pTrmAGQTNJjigU122skdm) | [Gana Bala](https://open.spotify.com/artist/6HtEIJH43LAZGQx6iNCqhg), [Bobo Shashi](https://open.spotify.com/artist/207e202Dz3barZ9ij9jGpR), [Yuki Praveen](https://open.spotify.com/artist/6Nke0y2Gwq2uESBYvuz7Qq) | [Ketta Kelu](https://open.spotify.com/album/0lIvorfxIaF4QK3LFQwrje) | 3:46 | 2021-12-01 |  |
 | [Gumbala Suthuvom](https://open.spotify.com/track/6X7jmbWjNkgvIrNtrlOwsY) | [Gaana Stephen](https://open.spotify.com/artist/78Nmz8hbKDRtkZ6NUUyMe0), [Bennet Christopher](https://open.spotify.com/artist/0y0M3qVG12u7oVdSXyNaJL) | [Gumbala Suthuvom](https://open.spotify.com/album/1lDXZ8L0DR5dfRWH2k63u3) | 4:06 | 2021-12-01 |  |

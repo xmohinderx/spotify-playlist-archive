@@ -4,7 +4,7 @@
 
 > Bhavi en la casa del Trap de Argentino.
 
-130 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/23nX6vOJkUDnsNQfFrfuBO)
+131 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/23nX6vOJkUDnsNQfFrfuBO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Chico Estrella](https://open.spotify.com/track/1VYaM9VSix6jth7nXiHvo2) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Chico Estrella](https://open.spotify.com/album/05XZWDj3tPhgwD3zQw43X7) | 2:50 | 2022-01-21 |  |
 | [COACH](https://open.spotify.com/track/6YbzhSDVIz6zG9Hf7CoNUc) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2), [Muerejoven](https://open.spotify.com/artist/2yGXs7AlyNVetlMvwsFXGk) | [POST MORTEM](https://open.spotify.com/album/39g3CsFBc9YK9Z6AbvvkgF) | 2:57 | 2022-05-09 | 2022-05-20 |
 | [CON OTRA](https://open.spotify.com/track/56iVwpd1JFBWxK3rk9P3K0) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [CON OTRA](https://open.spotify.com/album/52PuSx5sskih9PSdXE254e) | 3:01 | 2022-01-21 |  |
-| [Corta](https://open.spotify.com/track/2Eien2rGtpBP8z8kBZszmZ) | [Bize 4r](https://open.spotify.com/artist/1BOreb2HnMed0s1z68eD4c), [Andrés Da Mommio](https://open.spotify.com/artist/39EpNL9a9HRBI9ffgOyVXe) | [Corta](https://open.spotify.com/album/5sx95OKsbaJiqeC1YOtDJr) | 2:56 | 2022-01-21 |  |
+| [Corta](https://open.spotify.com/track/2Eien2rGtpBP8z8kBZszmZ) | [Bize 4r](https://open.spotify.com/artist/1BOreb2HnMed0s1z68eD4c), [Andrés Da Mommio](https://open.spotify.com/artist/39EpNL9a9HRBI9ffgOyVXe) | [Corta](https://open.spotify.com/album/5sx95OKsbaJiqeC1YOtDJr) | 2:56 | 2022-01-21 | 2022-07-06 |
 | [Criminal Mood](https://open.spotify.com/track/5HWiWcpQ2zcPA0TVip4kyA) | [MP El Juvenil](https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [Rulits TMB](https://open.spotify.com/artist/0yS7QAEchrBFgVTQogvntW) | [Criminal Mood](https://open.spotify.com/album/62pIIvltFPUnUCEUsxLW2a) | 2:21 | 2022-03-04 |  |
 | [Cuantas Veces Ma'](https://open.spotify.com/track/3gbxCU5idEzgq5VyH5O8FS) | [MP El Juvenil](https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [Cuantas Veces Ma'](https://open.spotify.com/album/1w8j2WNLhVXaVTczEIPQb5) | 2:04 | 2022-05-20 | 2022-06-18 |
 | [Cuenta de Banco](https://open.spotify.com/track/2RlUm2pD3qwO9rkXM4PQKF) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Baller](https://open.spotify.com/album/14SnS8EHJaWtt5GZAfD0ZK) | 2:50 | 2022-01-21 | 2022-04-16 |
@@ -52,6 +52,7 @@
 | [Fortuna y Fama](https://open.spotify.com/track/1qZIJDqRMoq7BnaJqL7hRa) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [Zecca](https://open.spotify.com/artist/2FmE1yzXXBWKlRiOl0AqD8) | [Secretos Perdidos](https://open.spotify.com/album/3q9jLIbSxvf1Y6EHGJp9Bk) | 3:36 | 2022-01-21 |  |
 | [Free Kmd 3](https://open.spotify.com/track/0hL1DyMRnCGJ5uNykhiQxo) | [Kmd Label](https://open.spotify.com/artist/1U7FXZ7fdz0YqYzs4nRd1v), [Negro Santo](https://open.spotify.com/artist/6ACwnsKT5y9KATqH7tTajE), [Mike Southside](https://open.spotify.com/artist/4jIPjVHNkAKmqfWjfwg960), [Coqeéin Montana](https://open.spotify.com/artist/4StQh17zinsbJ4r5ekmPj7) | [Free Kmd 3](https://open.spotify.com/album/7bN0o5SsLLbUQGKmEjvatj) | 3:22 | 2022-01-21 | 2022-03-12 |
 | [FULL ICE \(prod\. ORODEMBOW\)](https://open.spotify.com/track/2wK7D7i9bfVt3uLjFsZSEU) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [HECHO A MANO](https://open.spotify.com/album/7vpRavovNYZYzEOieN5pvU) | 2:40 | 2022-01-21 |  |
+| [G\-Class](https://open.spotify.com/track/6NyMkv98F7Em4dDkhmMPXm) | [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR), [Khaled](https://open.spotify.com/artist/2YxK9SbJeVfkfk6QWHqj8K), [Ess](https://open.spotify.com/artist/0nRYnTumOGj5qnhPKjV4Es) | [G\-Class](https://open.spotify.com/album/4x8c78mU51FjjpI2A1Tdc0) | 2:15 | 2022-07-05 |  |
 | [Goteo](https://open.spotify.com/track/1EoEU4HY57qaITp06TkC6B) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Goteo](https://open.spotify.com/album/6lfI4LBcu46SL3TzSw3rWg) | 2:44 | 2022-01-21 |  |
 | [GRR PAW](https://open.spotify.com/track/38MEJAGU5Ks6gEHdKG9Q3v) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [GRR PAW](https://open.spotify.com/album/58niEuot4EYfEHcsukrvvj) | 2:47 | 2022-05-04 |  |
 | [Guchi Polo](https://open.spotify.com/track/7LogWJv62K2bdTtw12RHTb) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [Guchi Polo](https://open.spotify.com/album/6geOVKHOwBGyQIMo9m8yR6) | 3:21 | 2022-01-21 |  |

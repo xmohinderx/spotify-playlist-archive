@@ -774,6 +774,24 @@
     },
     {
       "album": {
+        "name": "Bad Habit",
+        "url": "https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232114,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK"
+    },
+    {
+      "album": {
         "name": "Sometimes Sorry Isn't Enough",
         "url": "https://open.spotify.com/album/3fzX6NA9OnZBoHBv5vLJ2n"
       },
@@ -1787,6 +1805,24 @@
       "duration_ms": 163613,
       "name": "Devil Doesn\u2019t Bargain",
       "url": "https://open.spotify.com/track/1zu2GKHPJIsUu80SUJX4H4"
+    },
+    {
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260253,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
     },
     {
       "album": {
@@ -3939,7 +3975,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3"
@@ -8299,7 +8335,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 202693,
       "name": "You Might Not Like Her",
       "url": "https://open.spotify.com/track/1emUJfYrNiu2TuUsz8WiQf"

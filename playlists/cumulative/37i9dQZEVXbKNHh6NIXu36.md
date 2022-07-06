@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Austria.
 
-920 songs - 1 day 23 hr 4 min - [published](https://open.spotify.com/playlist/4vBxwnHGMceOqI8UVmnj00)
+921 songs - 1 day 23 hr 7 min - [published](https://open.spotify.com/playlist/4vBxwnHGMceOqI8UVmnj00)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -756,6 +756,7 @@
 | [Sleigh Ride](https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Sleigh Ride](https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s) | 3:01 | 2021-11-28 | 2021-12-29 |
 | [SMOOTH](https://open.spotify.com/track/1WcS73cQLM4mCOUrDanFKj) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [trip](https://open.spotify.com/album/0vC7eOkhy4vQVm36mPMvkC) | 3:01 | 2021-05-03 | 2021-05-05 |
 | [SMOOTH](https://open.spotify.com/track/3uDFDOXT7dCpmtB1yUvNFk) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [SMOOTH](https://open.spotify.com/album/0moeNWa9C2CYNDtDSVlqVR) | 3:01 | 2021-03-27 | 2021-04-03 |
+| [SNAP](https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g) | 2:59 | 2022-07-05 |  |
 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 | 2021-11-23 | 2021-12-31 |
 | [So muss sein!](https://open.spotify.com/track/1gZDbvoKxDXyKRHn2ccPet) | [187 Strassenbande](https://open.spotify.com/artist/2j2rh3oQh4QEUnNTDKYSJD), [Maxwell](https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC) | [Sampler 5](https://open.spotify.com/album/6vxv7hGXgjaUmMt9UyXFpG) | 2:21 | 2021-05-16 | 2021-05-17 |
 | [Social Media](https://open.spotify.com/track/71iG5iUUojGR0J6qDyTBql) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Social Media](https://open.spotify.com/album/58Tr012NE3c5z6WCUUaJ2Z) | 2:50 | 2022-02-19 | 2022-02-21 |
@@ -773,7 +774,7 @@
 | [Srecan Put](https://open.spotify.com/track/1RwLDogpbJiOjpmUzvPrt9) | [Breskvica](https://open.spotify.com/artist/58Wsq5pz5tOvWXBR8hOfxg) | [Srecan Put](https://open.spotify.com/album/6qVw8Y8eTaNCV8n2e7A9oW) | 2:48 | 2021-07-08 | 2021-07-09 |
 | [Star](https://open.spotify.com/track/7chi59IEpZJyTan2zwdagF) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Rohdiamant](https://open.spotify.com/album/6DREco522S7M9I2gKC6G06) | 2:48 | 2021-04-26 | 2021-04-28 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 | 2021-07-11 | 2021-07-25 |
-| [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 2:21 | 2021-07-25 |  |
+| [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 2:21 | 2021-07-25 | 2022-07-06 |
 | [Stefania \(Kalush Orchestra\)](https://open.spotify.com/track/2vHzOWRKYPLu8umRPIFuOq) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842) | [Stefania \(Kalush Orchestra\)](https://open.spotify.com/album/4JPeuLHGm9g78QS2aRao3D) | 2:59 | 2022-05-16 | 2022-05-24 |
 | [Step Into Christmas](https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration / Super Deluxe\)](https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN) | 4:32 | 2021-11-28 | 2021-12-27 |
 | [Sterne unterm Dach](https://open.spotify.com/track/0Gj6aUE3y9Pcjm9Lr3IcH9) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Sterne unterm Dach](https://open.spotify.com/album/67ZVpfdHvk7v0ti7lQ5Y8w) | 3:05 | 2021-09-12 | 2021-09-19 |

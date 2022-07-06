@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-153 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
+154 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Stay](https://open.spotify.com/track/2DLAMyPI1bMMwA7ivt9f0F) | [SirensCeol](https://open.spotify.com/artist/4MLO0CjZZIw0FgBDGnj3K4) | [Stay](https://open.spotify.com/album/1p9OIoJ2weRDXxxrKEtdHi) | 2:52 | 2022-02-03 |  |
 | [Stay With Me \- Krys Talk Remix](https://open.spotify.com/track/1lGZ4rEgUHclwnH1F507pz) | [Mendum](https://open.spotify.com/artist/3rq78lkE1laoELdsHHirtg) | [Stay With Me \(Krys Talk Remix\)](https://open.spotify.com/album/3VyApZmu3LiVucSbGZH9TX) | 4:11 | 2022-02-03 |  |
 | [Street Lights \(Ft\. Axollo\)](https://open.spotify.com/track/3LY0XACljWypc5f0gui0Jp) | [Time To Talk](https://open.spotify.com/artist/1HbXE6X9zZ7qZTiZDgEpvh), [Azertion](https://open.spotify.com/artist/2UsZKeB2olmMd3wAUxRC6G), [JJD](https://open.spotify.com/artist/79a4DDvkxUJy73sCJqrC8q), [Axollo](https://open.spotify.com/artist/08DhNYXQjr5i8ZL041APOI) | [Street Lights \(Ft\. Axollo\)](https://open.spotify.com/album/1rqM4QGUKjWUobLDw22AZq) | 2:27 | 2022-02-03 |  |
+| [Sunrise](https://open.spotify.com/track/5bOYGAj0x8UaqA9GxELXzi) | [Leat'eq](https://open.spotify.com/artist/1iBxtU5394iPOzmot1FDUD) | [Sunrise](https://open.spotify.com/album/0N16seYtml6g0DXWo9Ff25) | 2:25 | 2022-07-05 |  |
 | [Superhero In My Sleep](https://open.spotify.com/track/1BHhgOM82RNW9fjZS6cPVs) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Asketa & Natan Chaim](https://open.spotify.com/artist/7HMpxXbzJOXYZyRiV0hvZn) | [Superhero In My Sleep](https://open.spotify.com/album/4MJSwyVBS3qwMhaMF0icOb) | 3:06 | 2022-02-03 |  |
 | [Take It Easy \- DNB Edit](https://open.spotify.com/track/0ixRU1IxaGqqPR6b4dUtek) | [BVRNOUT](https://open.spotify.com/artist/5oREZfPeedk4nyo1GpqKfU), [Mia Vaile](https://open.spotify.com/artist/38SIErfZNd7u2qlIzFeZqm) | [Take It Easy \(DNB Edit\)](https://open.spotify.com/album/2U4tG5P74xLImzIen1UFa3) | 3:24 | 2022-06-17 |  |
 | [Take Me](https://open.spotify.com/track/1w7rP4pnAMKrqzUvXzYm4N) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Used](https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK) | [Take Me](https://open.spotify.com/album/1dn6xT7eVtBBzwRtOVdOn4) | 3:13 | 2022-04-23 |  |

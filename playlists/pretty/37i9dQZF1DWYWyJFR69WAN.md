@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWyJFR69WAN.md) - [plain]
 
 > Set the mood for your literary discussions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,380 likes - 177 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,386 likes - 177 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

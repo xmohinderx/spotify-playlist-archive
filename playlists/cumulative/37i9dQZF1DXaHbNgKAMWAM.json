@@ -53,7 +53,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 247591,
       "name": "All 2 U",
       "url": "https://open.spotify.com/track/05vZ5qJgAyMhqIjV4ZWf9q"
@@ -101,7 +101,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 210000,
       "name": "All for you",
       "url": "https://open.spotify.com/track/559cLHVZNKw3AzbIZWFwMp"
@@ -227,7 +227,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 199920,
       "name": "Be there",
       "url": "https://open.spotify.com/track/7k9sKYkyH1wLeOVC3C5zsa"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 205310,
       "name": "Before You Sleep (feat. bluedsgn)",
       "url": "https://open.spotify.com/track/4gfAh0lDT7Ob10fySFlQxe"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 221081,
       "name": "best song",
       "url": "https://open.spotify.com/track/259vEYIeuiVqTcJsaaE696"
@@ -525,7 +525,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 245000,
       "name": "Choose You",
       "url": "https://open.spotify.com/track/6sTvm65LQPE0kjBVTVjVOm"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 229359,
       "name": "D (Half Moon)",
       "url": "https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD"
@@ -713,7 +713,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 226573,
       "name": "Dream Catcher",
       "url": "https://open.spotify.com/track/6MDrZ8WfWiQWB8t12Pqccj"
@@ -767,7 +767,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 224394,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG"
@@ -821,7 +821,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 273453,
       "name": "Festival \ucd95\uc81c",
       "url": "https://open.spotify.com/track/0BTfcdQ402OBWD3Tx8ans5"
@@ -843,6 +843,24 @@
       "duration_ms": 180275,
       "name": "First Confession",
       "url": "https://open.spotify.com/track/3vacBI1W3Ws6xX2KLsRfQi"
+    },
+    {
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/0McpCdcqKHDONKqcMh5UEE"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182313,
+      "name": "First Love",
+      "url": "https://open.spotify.com/track/1bhLix8ZApePHFLiVCKpp4"
     },
     {
       "album": {
@@ -875,7 +893,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 228213,
       "name": "Forever",
       "url": "https://open.spotify.com/track/6TtJ8RqkT729SKTzSdnZgH"
@@ -959,7 +977,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 370946,
       "name": "Hachiko (Feat. Sion, Yescoba, Dayoung Ahn)",
       "url": "https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh"
@@ -977,7 +995,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 234000,
       "name": "Happy Birthday",
       "url": "https://open.spotify.com/track/0fElururinZektfZMpFFdN"
@@ -995,7 +1013,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 237030,
       "name": "Happy Song",
       "url": "https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv"
@@ -1031,7 +1049,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 243093,
       "name": "I Always Love You",
       "url": "https://open.spotify.com/track/1JbUf8ma0z1xrpQxnJKssz"
@@ -1299,7 +1317,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 239842,
       "name": "Let's stay together",
       "url": "https://open.spotify.com/track/52ZZz4FthV6FAjbUiPF7th"
@@ -1361,7 +1379,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 246653,
       "name": "Look & Spring (Feat. Ko Young Bae of Soran)",
       "url": "https://open.spotify.com/track/6slTRsKXks38DEsCxRgrVp"
@@ -1451,7 +1469,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 170933,
       "name": "Loving U",
       "url": "https://open.spotify.com/track/5eYEY02R2PslTPTDSQm0h2"
@@ -1469,7 +1487,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 209626,
       "name": "Marry ME",
       "url": "https://open.spotify.com/track/5wtQZVyNFyhdseXonjb7Zp"
@@ -1487,7 +1505,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 214560,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/23z6RGYVcJOsY2qwCESHa9"
@@ -1531,7 +1549,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 220933,
       "name": "My Day Is Full Of You",
       "url": "https://open.spotify.com/track/0E09yC5CNtv2TAQ0rafPPU"
@@ -1585,7 +1603,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 189154,
       "name": "No Make Up",
       "url": "https://open.spotify.com/track/3PWyoYwI4iHLnLWltMt4gd"
@@ -1715,7 +1733,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 248078,
       "name": "Our Love is Great",
       "url": "https://open.spotify.com/track/6dO3kF1ZoKmybXyjSL3OmL"
@@ -1733,10 +1751,28 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 218916,
       "name": "Paint Me",
       "url": "https://open.spotify.com/track/2agWXpTjG2TQMjnenGMF1h"
+    },
+    {
+      "album": {
+        "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/2Hp9GqzPYOzPV4nkJ0iKVr"
+      },
+      "artists": [
+        {
+          "name": "SEUNGKWAN",
+          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212093,
+      "name": "Pit a Pat",
+      "url": "https://open.spotify.com/track/5bmr4XB9X2QQPpnrY6PwwZ"
     },
     {
       "album": {
@@ -1773,6 +1809,24 @@
       "duration_ms": 211266,
       "name": "PUZZLE",
       "url": "https://open.spotify.com/track/1l3qnaenScIWpAyJRbjLmP"
+    },
+    {
+      "album": {
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196576,
+      "name": "Real LOVE",
+      "url": "https://open.spotify.com/track/0O2ZW0yhiRQ3HKNCzGDzMj"
     },
     {
       "album": {
@@ -1834,6 +1888,24 @@
     },
     {
       "album": {
+        "name": "YUMI's Cells 2, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN"
+      },
+      "artists": [
+        {
+          "name": "Jinyoung",
+          "url": "https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222305,
+      "name": "Shining on Your Night",
+      "url": "https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6"
+    },
+    {
+      "album": {
         "name": "Red Diary Page.1",
         "url": "https://open.spotify.com/album/4pUGLEuGG0PH9Slw3nt1Jn"
       },
@@ -1881,7 +1953,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 207773,
       "name": "Speechless",
       "url": "https://open.spotify.com/track/6dT0ADUaAI6I54ZP1zN60m"
@@ -1939,7 +2011,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 161392,
       "name": "Stay",
       "url": "https://open.spotify.com/track/4XWyhO9TJeXdmyhRdbGPfI"
@@ -2033,7 +2105,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 262453,
       "name": "Sweet dream",
       "url": "https://open.spotify.com/track/1DP9vgW2iuSzP2Krk1JkiY"
@@ -2087,7 +2159,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 227054,
       "name": "Tale \ub3d9\ud654",
       "url": "https://open.spotify.com/track/1O6gfRnuWW3jRG77Tn8gHW"
@@ -2127,7 +2199,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 239416,
       "name": "The Best Present (Prod. by PSY)",
       "url": "https://open.spotify.com/track/12nafIbZ2LAVfht3WMy33b"
@@ -2163,7 +2235,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 281748,
       "name": "The One I Love",
       "url": "https://open.spotify.com/track/3yWyzP3pL3a0sd774Z63Lx"
@@ -2221,6 +2293,28 @@
       "duration_ms": 197066,
       "name": "Thermometer - ON Team Version",
       "url": "https://open.spotify.com/track/1j7FToPTGUYbmyzJgrPEPP"
+    },
+    {
+      "album": {
+        "name": "Thinking of you",
+        "url": "https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA"
+      },
+      "artists": [
+        {
+          "name": "Brunch recipe",
+          "url": "https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v"
+        },
+        {
+          "name": "Lee Yu Bin",
+          "url": "https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193514,
+      "name": "Thinking of you (Feat. Lee Yu Bin)",
+      "url": "https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr"
     },
     {
       "album": {
@@ -2397,7 +2491,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 215981,
       "name": "Walk",
       "url": "https://open.spotify.com/track/6EJXOBn2gYccEJLMsZXiSw"
@@ -2487,7 +2581,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 254306,
       "name": "What about you \uae30\uc801",
       "url": "https://open.spotify.com/track/0hrdSd1bwRoNEe6KP5Q2g5"
@@ -2505,7 +2599,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 267893,
       "name": "What Should I do",
       "url": "https://open.spotify.com/track/4ARhTCA10vYH49DceecURl"
@@ -2559,7 +2653,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 155133,
       "name": "You are My Night",
       "url": "https://open.spotify.com/track/3PJBhDdXm8Ew3zAx6zmWnZ"
@@ -2577,7 +2671,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 318653,
       "name": "You Are So Beautiful",
       "url": "https://open.spotify.com/track/55H1e6ITKdYJAh23znaxXF"

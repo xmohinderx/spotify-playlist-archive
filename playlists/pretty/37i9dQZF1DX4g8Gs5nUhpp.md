@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: Văn Mai Hương
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,880 likes - 56 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,951 likes - 56 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 55 | [Ghé Qua](https://open.spotify.com/track/0pQ67Kp2kED4ISy1ieGPEq) | [TaynguyenSound](https://open.spotify.com/artist/5ayWRfrcpObgDDlzheJ2Gr), [Tofu](https://open.spotify.com/artist/0Ux2qIQbEeqvv7uYLgHhDH), [PC](https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0), [Dick](https://open.spotify.com/artist/1tikl40deDgJWS57GTKiVh) | [Ghé Qua](https://open.spotify.com/album/5UFpxFhOmg3nb3wWd3p48D) | 3:57 |
 | 56 | [See Tình](https://open.spotify.com/track/3bZGGKrMQLDGg18y2QqKFF) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [See Tình](https://open.spotify.com/album/1AttOIOFrGkOPNSq5mB4pd) | 3:05 |
 
-Snapshot ID: `MTY1Njk4MjI3MSwwMDAwMDIxNDAwMDAwMTgxY2JkNmY2MmMwMDAwMDE4MTlkNmVhZTZl`
+Snapshot ID: `MTY1Njk4MjY5NSwwMDAwMDIxNTAwMDAwMTgxY2JkZDZkMjkwMDAwMDE4MTlkNmVhZTZl`

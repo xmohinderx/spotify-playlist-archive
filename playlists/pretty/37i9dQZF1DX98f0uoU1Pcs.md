@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Amyl & the Sniffers
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,518 likes - 124 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,688 likes - 124 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

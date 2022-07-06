@@ -4,7 +4,7 @@
 
 > Late night cool and the sound of smooth blues.
 
-57 songs - 4 hr 53 min - [published](https://open.spotify.com/playlist/1lH2OQ6D3sovihnuAm71bl)
+58 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/1lH2OQ6D3sovihnuAm71bl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [As The Years Go Passing By](https://open.spotify.com/track/56UsciEGCYrmCTSI3veuvC) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Still Got The Blues](https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ) | 7:44 | 2022-04-08 |  |
 | [Baby I Love You](https://open.spotify.com/track/5etgVyV2lvxJMf7Sd8BBrS) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Deuces Wild](https://open.spotify.com/album/3qenNNOnGfbu4aZBQOy8hT) | 4:01 | 2022-04-08 |  |
 | [Be Careful With a Fool](https://open.spotify.com/track/3YGsgJqtIWKjMjZtKLk11Z) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Johnny Winter](https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch) | 5:14 | 2022-04-08 |  |
-| [Beaumont Blues](https://open.spotify.com/track/2lWTmgOTlemZ0RJyKKhr0s) | [Phillip Walker](https://open.spotify.com/artist/2T268Ip7LMzPgTsWQsFXwo) | [Someday You'll Have These Blues](https://open.spotify.com/album/5LR8uHBua2uDt0D8V4HQxz) | 4:07 | 2022-04-08 |  |
+| [Beaumont Blues](https://open.spotify.com/track/2lWTmgOTlemZ0RJyKKhr0s) | [Phillip Walker](https://open.spotify.com/artist/2T268Ip7LMzPgTsWQsFXwo) | [Someday You'll Have These Blues](https://open.spotify.com/album/5LR8uHBua2uDt0D8V4HQxz) | 4:07 | 2022-04-08 | 2022-07-06 |
 | [Black Night](https://open.spotify.com/track/62x4lrYu1t1D9SpbzuTvEF) | [Savoy Brown Blues Band](https://open.spotify.com/artist/0UGx1mwAGKLhE3yTFez6YP) | [Shake Down](https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb) | 4:52 | 2022-04-20 |  |
 | [Blue Because Of You](https://open.spotify.com/track/0dvTYGTfv30BCYbLCORKcb) | [The Big Three Trio](https://open.spotify.com/artist/7EPI9RLrU6kU6ZQLTqB7wY) | [I Feel Like Steppin' Out](https://open.spotify.com/album/577wQlMr4FANgCxSxGuC24) | 2:31 | 2022-05-13 |  |
 | [Blue Jean Blues \- 2005 Remaster](https://open.spotify.com/track/6Gyk7ZHfFWo3d8U7poUEPs) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 4:42 | 2022-04-08 |  |
@@ -25,6 +25,7 @@
 | [Blues Prisoner](https://open.spotify.com/track/45i73H5FvrR0jbwvG8mVSS) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165) | [Tommy Castro Presents A Bluesman Came To Town](https://open.spotify.com/album/5GDDpef4syUsjIiZ03Byj8) | 5:16 | 2022-04-08 |  |
 | [Cold, Cold Feeling](https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 5:18 | 2022-04-08 |  |
 | [Don't Worry](https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C) | [James Cooke](https://open.spotify.com/artist/3VokpYFCjGr97pLl2RVd9U) | [Put In a Little Time](https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt) | 4:40 | 2022-04-08 |  |
+| [Empty Bed Blues \- Mono](https://open.spotify.com/track/7DBKmXITq99xmNPr3ZX2nK) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Sings Bessie Smith](https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4) | 4:52 | 2022-07-01 |  |
 | [Everytime I Get to Drinkin' \- Remastered](https://open.spotify.com/track/4eSdODfEYeBxDlOAQt11Da) | [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2) | [Golden Selection \(Remastered\)](https://open.spotify.com/album/6bXXdAzX6YF7eEmvSnraaF) | 2:45 | 2022-04-08 | 2022-07-04 |
 | [Ghetto Woman](https://open.spotify.com/track/1ol9HfVFSKwbVVnzc1vzY2) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Anthology](https://open.spotify.com/album/1LzYzoyDpRjM8o5GDha0yN) | 5:15 | 2022-04-08 |  |
 | [Gotta Leave](https://open.spotify.com/track/0YO5SB9ZBMEsIpVzXZNrE0) | [Back Door Slam](https://open.spotify.com/artist/7jWpE4ZlClMpc0Kr5xSX34) | [Roll Away](https://open.spotify.com/album/71UC2xt4eqLqntVo9LsP1v) | 5:49 | 2022-04-08 |  |

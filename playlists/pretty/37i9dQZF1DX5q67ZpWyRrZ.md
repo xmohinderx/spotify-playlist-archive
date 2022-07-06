@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 
 > Songs from Akanksha Sethi's latest album and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,654 likes - 85 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,368 likes - 85 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

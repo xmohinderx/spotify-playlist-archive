@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDAhqlN7e6W.md) - [plain]
 
 > Hits written and produced by Max Martin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,687 likes - 104 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,762 likes - 104 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

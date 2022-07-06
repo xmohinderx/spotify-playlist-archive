@@ -4,7 +4,7 @@
 
 > The latest from Imagine Dragons along with the top Rock songs you need to know.
 
-162 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/6Fsj2Im6Dv5sgOMEKd4oVV)
+163 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/6Fsj2Im6Dv5sgOMEKd4oVV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [Roman Candles](https://open.spotify.com/track/6jIrbJ5w2KfkLsk3LiGTOW) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Roman Candles](https://open.spotify.com/album/08RMceLc7dOM9mmdoFpPBM) | 2:10 | 2022-05-27 | 2022-06-25 |
 | [Save Yourself](https://open.spotify.com/track/6jZp2rNTYVlKwt20aMIcot) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo) | 3:17 | 2022-07-01 |  |
 | [Seventeen Going Under](https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 4:57 | 2021-11-19 | 2022-05-14 |
-| [Sharks](https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Sharks](https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e) | 3:10 | 2022-06-24 |  |
+| [Sharks](https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Sharks](https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e) | 3:10 | 2022-06-24 | 2022-07-06 |
+| [Sharks](https://open.spotify.com/track/7sA2SKTo1QbTSSYn5YvJC4) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 3:10 | 2022-07-05 |  |
 | [she knows it](https://open.spotify.com/track/5EjlKmbefO401Kra4OoN83) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [she knows it](https://open.spotify.com/album/3gK9p6wdFwQHlEwBoYxhSD) | 2:36 | 2021-11-19 | 2022-04-02 |
 | [Shoulders](https://open.spotify.com/track/4o7yTUS7EFgYOcFDyN8U27) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Shoulders](https://open.spotify.com/album/1foAheWx5434SZa2TxIkxO) | 3:25 | 2021-07-23 | 2022-02-05 |
 | [SIDEWAYS \(with Travis Barker\)](https://open.spotify.com/track/0SbcVQyMO5M68AzhX8gYaS) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [MY FAVORITE NIGHTMARES](https://open.spotify.com/album/5YwWOzaV6HGAUylT1MvoJZ) | 2:04 | 2021-12-10 | 2022-03-26 |

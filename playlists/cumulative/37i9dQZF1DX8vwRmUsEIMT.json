@@ -1608,6 +1608,32 @@
     },
     {
       "album": {
+        "name": "Hot Shit (feat. Ye & Lil Durk)",
+        "url": "https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211649,
+      "name": "Hot Shit (feat. Ye & Lil Durk)",
+      "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
+    },
+    {
+      "album": {
         "name": "Human Condition",
         "url": "https://open.spotify.com/album/0yqT3zXPPNYb3OA2c75JBT"
       },
@@ -1695,7 +1721,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 150991,
       "name": "I Will Survive",
       "url": "https://open.spotify.com/track/5Fi4nPER6YbntbYDW4P3Pz"
@@ -2272,6 +2298,28 @@
     },
     {
       "album": {
+        "name": "OTT",
+        "url": "https://open.spotify.com/album/2BqtVNmZ2QjvrM8mfDb3ZG"
+      },
+      "artists": [
+        {
+          "name": "easy life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+        },
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157817,
+      "name": "OTT",
+      "url": "https://open.spotify.com/track/5vrOwoXILW22WyXkhGLciY"
+    },
+    {
+      "album": {
         "name": "Overthinking",
         "url": "https://open.spotify.com/album/73w5XKOuWg456VuawuUH47"
       },
@@ -2595,7 +2643,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 218013,
       "name": "Sleep Tight",
       "url": "https://open.spotify.com/track/0YAmsr4FqG6on8KNfwxx76"

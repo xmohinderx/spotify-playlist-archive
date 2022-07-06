@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 178546,
       "name": "All Of It All",
       "url": "https://open.spotify.com/track/4vMvD08D53LSWRZZJni1zp"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 196680,
       "name": "Brightsider",
       "url": "https://open.spotify.com/track/45r6xQhf7hKsefH0FEUPVH"
@@ -400,6 +400,24 @@
     },
     {
       "album": {
+        "name": "Calm Down",
+        "url": "https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219813,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa"
+    },
+    {
+      "album": {
         "name": "Can't Get Over You (feat. Aloe Blacc)",
         "url": "https://open.spotify.com/album/1dlQZWMYBgvrP0azHKfah3"
       },
@@ -437,6 +455,24 @@
       "duration_ms": 180157,
       "name": "Can't Stay Away",
       "url": "https://open.spotify.com/track/4hMGh59flGlHd4kAnYGH1N"
+    },
+    {
+      "album": {
+        "name": "Catch Me In The Air",
+        "url": "https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215814,
+      "name": "Catch Me In The Air",
+      "url": "https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87"
     },
     {
       "album": {
@@ -509,7 +545,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 185303,
       "name": "Cloudy Day",
       "url": "https://open.spotify.com/track/0mA7zotmg2ZFMRALljdZsS"
@@ -1129,7 +1165,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 150560,
       "name": "I Just Called",
       "url": "https://open.spotify.com/track/0H8Tclo4x4kbZruQtZFNSX"
@@ -1261,7 +1297,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 218358,
       "name": "Lasting Lover",
       "url": "https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"
@@ -1279,7 +1315,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 168227,
       "name": "Lean on Me",
       "url": "https://open.spotify.com/track/0z714wjlUFW8ri9I7uKvmh"
@@ -1319,7 +1355,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 187029,
       "name": "Leave A Little Love",
       "url": "https://open.spotify.com/track/0gNXY64y1CKoNsIo96WuLn"
@@ -1345,6 +1381,28 @@
       "duration_ms": 154983,
       "name": "Leave Before You Love Me (with Jonas Brothers)",
       "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
+    },
+    {
+      "album": {
+        "name": "Let Love Go",
+        "url": "https://open.spotify.com/album/1neoGq8qTuu9k4QbBQqxgj"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173266,
+      "name": "Let Love Go",
+      "url": "https://open.spotify.com/track/6wULOKKYcFk3K6bJnFPxMg"
     },
     {
       "album": {
@@ -1789,7 +1847,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 125142,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/0ZPPQf1NXuKnaxlZz8MQgh"
@@ -1891,7 +1949,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 183092,
       "name": "Radio",
       "url": "https://open.spotify.com/track/0OehfujG8725Lfr00Nn7ZN"
@@ -2039,7 +2097,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 196301,
       "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/6XnikZPkb059iYTuCjZt1X"
@@ -2113,6 +2171,24 @@
       "duration_ms": 168196,
       "name": "Runaway (with Sigala and JP Cooper)",
       "url": "https://open.spotify.com/track/6tS1Fm9z3UKuLSxrinY3pC"
+    },
+    {
+      "album": {
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/59Bste0VOvfrBl5SlKuqo5"
+      },
+      "artists": [
+        {
+          "name": "Bow Anderson",
+          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162200,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/7dy7fScRwbbmqateWfx5nN"
     },
     {
       "album": {
@@ -2421,7 +2497,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 148064,
       "name": "SUPERMODEL",
       "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
@@ -2607,7 +2683,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 178373,
       "name": "Tick Tock (feat. 24kGoldn)",
       "url": "https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3"
@@ -2799,7 +2875,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 183536,
       "name": "Who's In Your Head",
       "url": "https://open.spotify.com/track/5nhW8I46uDE5sc5ouEbzao"
@@ -2825,7 +2901,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 151000,
       "name": "Without You",
       "url": "https://open.spotify.com/track/1HPJpgceRg6KPO11nMhWlt"

@@ -208,6 +208,28 @@
     },
     {
       "album": {
+        "name": "Caroline, No",
+        "url": "https://open.spotify.com/album/2SXbQFZH4E2qrwJ6UDk07g"
+      },
+      "artists": [
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        },
+        {
+          "name": "Johnny Depp",
+          "url": "https://open.spotify.com/artist/3OsHwkxpSIEqqmYoQxZTT5"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143763,
+      "name": "Caroline, No",
+      "url": "https://open.spotify.com/track/24yB1tTs4tvmU8OpStqDfh"
+    },
+    {
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/4UD3zYOMOxo65h81xaKSdA"
       },
@@ -448,6 +470,24 @@
     },
     {
       "album": {
+        "name": "Heard It On The X",
+        "url": "https://open.spotify.com/album/6HThlq6qQOLiaOigjNpHaH"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170960,
+      "name": "Heard It On The X",
+      "url": "https://open.spotify.com/track/4tbHJc3pgypdIGeWxK5CwS"
+    },
+    {
+      "album": {
         "name": "Hellraiser (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/3pn1WoMZ18F0Mn2qfWx4Cq"
       },
@@ -467,7 +507,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 295881,
       "name": "Hellraiser - 30th Anniversary Edition",
       "url": "https://open.spotify.com/track/7iD5t0YgWvIIrvZtw6IIxQ"
@@ -543,7 +583,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 278755,
       "name": "I'm No Angel Myself",
       "url": "https://open.spotify.com/track/1HENXx512ScE18AYoJm45r"
@@ -662,6 +702,28 @@
     },
     {
       "album": {
+        "name": "Patient Number 9 (feat. Jeff Beck)",
+        "url": "https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        },
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441402,
+      "name": "Patient Number 9 (feat. Jeff Beck)",
+      "url": "https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ"
+    },
+    {
+      "album": {
         "name": "Poster Child",
         "url": "https://open.spotify.com/album/7hcWLkAhIDMGJCi2mIUQa8"
       },
@@ -709,7 +771,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 185255,
       "name": "Rita Hayworth",
       "url": "https://open.spotify.com/track/6aAUQ7sAPSDRcptxjc10yR"

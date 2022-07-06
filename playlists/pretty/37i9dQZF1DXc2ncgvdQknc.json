@@ -1,12 +1,12 @@
 {
   "description": "All 10s, all ballads. Cover: Adele",
-  "num_followers": 4697,
+  "num_followers": 4785,
   "original_name": "10s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Njk4NjEwMCwwMDAwMDAwMGQ4N2U4NzA1MzQwZWQyYWRjNTE3MTBmNDdhZmIyYWI4",
+  "snapshot_id": "MTY1NzA3Mjg5NiwwMDAwMDAwMDkyYWU3ZWZmMDhjMGY1Y2NjZDFiNTI2OTEyNjNmOTEw",
   "tracks": [
     {
       "added_at": "2022-05-10 20:46:04",
@@ -27,18 +27,22 @@
     {
       "added_at": "2022-05-10 20:46:04",
       "album": {
-        "name": "Back from the Edge",
-        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
+        "name": "Title (Deluxe)",
+        "url": "https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE"
       },
       "artists": [
         {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         }
       ],
-      "duration_ms": 211466,
-      "name": "Say You Won't Let Go",
-      "url": "https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh"
+      "duration_ms": 225053,
+      "name": "Like I'm Gonna Lose You (feat. John Legend)",
+      "url": "https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW"
     },
     {
       "added_at": "2022-05-10 20:46:04",
@@ -59,22 +63,18 @@
     {
       "added_at": "2022-05-10 20:46:04",
       "album": {
-        "name": "Title (Deluxe)",
-        "url": "https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE"
+        "name": "Red (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1KlU96Hw9nlvqpBPlSqcTV"
       },
       "artists": [
         {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        },
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 225053,
-      "name": "Like I'm Gonna Lose You (feat. John Legend)",
-      "url": "https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW"
+      "duration_ms": 327893,
+      "name": "All Too Well",
+      "url": "https://open.spotify.com/track/1q3RiD1tIWUpGsNFADMlvl"
     },
     {
       "added_at": "2022-05-10 20:46:04",
@@ -183,26 +183,6 @@
     {
       "added_at": "2022-05-10 20:46:04",
       "album": {
-        "name": "Red (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1KlU96Hw9nlvqpBPlSqcTV"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 243933,
-      "name": "Everything Has Changed",
-      "url": "https://open.spotify.com/track/7gdwoOmi258QJq0hmQ4hto"
-    },
-    {
-      "added_at": "2022-05-10 20:46:04",
-      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
       },
@@ -215,22 +195,6 @@
       "duration_ms": 271800,
       "name": "All I Ask",
       "url": "https://open.spotify.com/track/05TOt5Vz4StdjMpEdFPlvB"
-    },
-    {
-      "added_at": "2022-05-10 20:46:04",
-      "album": {
-        "name": "A Thousand Years",
-        "url": "https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo"
-      },
-      "artists": [
-        {
-          "name": "Christina Perri",
-          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
-        }
-      ],
-      "duration_ms": 285120,
-      "name": "A Thousand Years",
-      "url": "https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl"
     },
     {
       "added_at": "2022-05-10 20:46:04",
@@ -251,38 +215,182 @@
     {
       "added_at": "2022-05-10 20:46:04",
       "album": {
-        "name": "x (Wembley Edition)",
-        "url": "https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct"
+        "name": "A Thousand Years",
+        "url": "https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo"
       },
       "artists": [
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "duration_ms": 285120,
+      "name": "A Thousand Years",
+      "url": "https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl"
+    },
+    {
+      "added_at": "2022-05-10 20:46:04",
+      "album": {
+        "name": "Camila",
+        "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 178466,
+      "name": "Consequences",
+      "url": "https://open.spotify.com/track/7sTtHHrD0zDpmzQzH3zegz"
+    },
+    {
+      "added_at": "2022-05-10 20:46:04",
+      "album": {
+        "name": "PRISM",
+        "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 228878,
+      "name": "Unconditionally",
+      "url": "https://open.spotify.com/track/009ImBOrIUlWgla8U05RAC"
+    },
+    {
+      "added_at": "2022-05-10 20:46:04",
+      "album": {
+        "name": "Take Me Home (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2sWX3HYnZjPZ9MrH6MFsBt"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 219040,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/0TAmnCzOtqRfvA38DDLTjj"
+    },
+    {
+      "added_at": "2022-05-10 20:46:04",
+      "album": {
+        "name": "Love Is a Four Letter Word (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/64SChsjQBiEe3aVTFYnW1b"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 240165,
+      "name": "I Won't Give Up",
+      "url": "https://open.spotify.com/track/53QF56cjZA9RTuuMZDrSA6"
+    },
+    {
+      "added_at": "2022-05-10 20:46:04",
+      "album": {
+        "name": "Back from the Edge",
+        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 211466,
+      "name": "Say You Won't Let Go",
+      "url": "https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh"
+    },
+    {
+      "added_at": "2022-05-10 20:46:04",
+      "album": {
+        "name": "Confident (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3HV3ecmJJ2GmHM93vVVKXF"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 191307,
+      "name": "Stone Cold",
+      "url": "https://open.spotify.com/track/56twMOlq9DJc3EgpVUVIrW"
+    },
+    {
+      "added_at": "2022-05-10 20:46:04",
+      "album": {
+        "name": "Halcyon Days",
+        "url": "https://open.spotify.com/album/2Dw4fYqDQnxsgoXDdMbqh3"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 154435,
+      "name": "How Long Will I Love You - Bonus Track",
+      "url": "https://open.spotify.com/track/7CFQrZR4WeKEg4vweqp8Gv"
+    },
+    {
+      "added_at": "2022-05-10 20:46:04",
+      "album": {
+        "name": "Red (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1KlU96Hw9nlvqpBPlSqcTV"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
         {
           "name": "Ed Sheeran",
           "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 241346,
-      "name": "Tenerife Sea",
-      "url": "https://open.spotify.com/track/6vSwxzO2Qf4BinHSXRwZJe"
+      "duration_ms": 243933,
+      "name": "Everything Has Changed",
+      "url": "https://open.spotify.com/track/7gdwoOmi258QJq0hmQ4hto"
     },
     {
       "added_at": "2022-05-10 20:46:04",
       "album": {
-        "name": "In The Lonely Hour (Drowning Shadows Edition)",
-        "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/4rQa0t2qWm1MNPy7DNEUHB"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
         }
       ],
-      "duration_ms": 219535,
-      "name": "Lay Me Down",
-      "url": "https://open.spotify.com/track/64GRDrL1efgXclrhVCeuA0"
+      "duration_ms": 253933,
+      "name": "From the Ground Up",
+      "url": "https://open.spotify.com/track/0lQJBl9YEsoMtE8D4yTE9g"
+    },
+    {
+      "added_at": "2022-05-10 20:46:04",
+      "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "When I Was Your Man",
+      "url": "https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh"
     },
     {
       "added_at": "2022-05-10 20:46:04",
@@ -307,188 +415,8 @@
     {
       "added_at": "2022-05-10 20:46:04",
       "album": {
-        "name": "Unorthodox Jukebox",
-        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "When I Was Your Man",
-      "url": "https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh"
-    },
-    {
-      "added_at": "2022-05-10 20:46:04",
-      "album": {
-        "name": "Red (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1KlU96Hw9nlvqpBPlSqcTV"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 327893,
-      "name": "All Too Well",
-      "url": "https://open.spotify.com/track/1q3RiD1tIWUpGsNFADMlvl"
-    },
-    {
-      "added_at": "2022-05-10 20:46:04",
-      "album": {
-        "name": "PRISM",
-        "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 228878,
-      "name": "Unconditionally",
-      "url": "https://open.spotify.com/track/009ImBOrIUlWgla8U05RAC"
-    },
-    {
-      "added_at": "2022-05-10 20:46:04",
-      "album": {
-        "name": "10,000 Hours (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 167693,
-      "name": "10,000 Hours (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
-    },
-    {
-      "added_at": "2022-05-10 20:46:04",
-      "album": {
-        "name": "Love Is a Four Letter Word (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/64SChsjQBiEe3aVTFYnW1b"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        }
-      ],
-      "duration_ms": 240165,
-      "name": "I Won't Give Up",
-      "url": "https://open.spotify.com/track/53QF56cjZA9RTuuMZDrSA6"
-    },
-    {
-      "added_at": "2022-05-10 20:46:04",
-      "album": {
-        "name": "Gypsy Heart",
-        "url": "https://open.spotify.com/album/5nB5tR7ntrEpHbpCS7iHN9"
-      },
-      "artists": [
-        {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
-        }
-      ],
-      "duration_ms": 224573,
-      "name": "Try",
-      "url": "https://open.spotify.com/track/6buXDkw3Gv4fQC1OZKUhnR"
-    },
-    {
-      "added_at": "2022-05-10 20:46:04",
-      "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 285240,
-      "name": "Someone Like You",
-      "url": "https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV"
-    },
-    {
-      "added_at": "2022-05-10 20:46:04",
-      "album": {
-        "name": "Love In The Future (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 269560,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
-    },
-    {
-      "added_at": "2022-05-10 20:46:04",
-      "album": {
-        "name": "Halcyon Days",
-        "url": "https://open.spotify.com/album/2Dw4fYqDQnxsgoXDdMbqh3"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 154435,
-      "name": "How Long Will I Love You - Bonus Track",
-      "url": "https://open.spotify.com/track/7CFQrZR4WeKEg4vweqp8Gv"
-    },
-    {
-      "added_at": "2022-05-10 20:46:04",
-      "album": {
-        "name": "Know-It-All (Deluxe)",
-        "url": "https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        }
-      ],
-      "duration_ms": 254506,
-      "name": "River Of Tears",
-      "url": "https://open.spotify.com/track/3ArYVrRb0lDBLzuJJqIXzC"
-    },
-    {
-      "added_at": "2022-05-10 20:46:04",
-      "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 253746,
-      "name": "Best Thing I Never Had",
-      "url": "https://open.spotify.com/track/3lBRNqXjPp2j3JMTCXDTNO"
-    },
-    {
-      "added_at": "2022-05-10 20:46:04",
-      "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+        "name": "+",
+        "url": "https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC"
       },
       "artists": [
         {
@@ -496,129 +424,93 @@
           "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 281560,
-      "name": "Thinking out Loud",
-      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
+      "duration_ms": 526386,
+      "name": "Give Me Love",
+      "url": "https://open.spotify.com/track/0SuG9kyzGRpDqrCWtgD6Lq"
     },
     {
       "added_at": "2022-05-10 20:46:04",
       "album": {
-        "name": "Rainbow",
-        "url": "https://open.spotify.com/album/1IYVB8NfiRqhdZlTxjspNh"
+        "name": "In The Lonely Hour (Drowning Shadows Edition)",
+        "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
       },
       "artists": [
         {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 230266,
-      "name": "Praying",
-      "url": "https://open.spotify.com/track/0jdny0dhgjUwoIp5GkqEaA"
-    },
-    {
-      "added_at": "2022-05-10 20:46:04",
-      "album": {
-        "name": "Is There Anybody Out There?",
-        "url": "https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl"
-      },
-      "artists": [
-        {
-          "name": "A Great Big World",
-          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         },
         {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         }
       ],
-      "duration_ms": 229400,
-      "name": "Say Something",
-      "url": "https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N"
+      "duration_ms": 219535,
+      "name": "Lay Me Down",
+      "url": "https://open.spotify.com/track/64GRDrL1efgXclrhVCeuA0"
     },
     {
       "added_at": "2022-05-10 20:46:04",
       "album": {
-        "name": "Joanne (Deluxe)",
-        "url": "https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh"
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         }
       ],
-      "duration_ms": 205280,
-      "name": "Million Reasons",
-      "url": "https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo"
+      "duration_ms": 206458,
+      "name": "Lose You To Love Me",
+      "url": "https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi"
     },
     {
       "added_at": "2022-05-10 20:46:04",
       "album": {
-        "name": "Unapologetic (Edited Version)",
-        "url": "https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG"
+        "name": "The Search for Everything",
+        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Mikky Ekko",
-          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 240706,
-      "name": "Stay - Album Version (Edited)",
-      "url": "https://open.spotify.com/track/789CxjEOtO76BVD1A9yJQH"
+      "duration_ms": 190013,
+      "name": "You're Gonna Live Forever in Me",
+      "url": "https://open.spotify.com/track/51lPx6ZCSalL2kvSrDUyJc"
     },
     {
       "added_at": "2022-05-10 20:46:04",
       "album": {
-        "name": "Camila",
-        "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
+        "name": "Jealous - EP",
+        "url": "https://open.spotify.com/album/6bsCl6iS6dvC4xaiBlecPv"
       },
       "artists": [
         {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 178466,
-      "name": "Consequences",
-      "url": "https://open.spotify.com/track/7sTtHHrD0zDpmzQzH3zegz"
+      "duration_ms": 287693,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/4G92yYrUs0cvY7G41YRI0z"
     },
     {
       "added_at": "2022-05-10 20:46:04",
       "album": {
-        "name": "Take Me Home (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2sWX3HYnZjPZ9MrH6MFsBt"
+        "name": "x (Wembley Edition)",
+        "url": "https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct"
       },
       "artists": [
         {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 219040,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/0TAmnCzOtqRfvA38DDLTjj"
-    },
-    {
-      "added_at": "2022-05-10 20:46:04",
-      "album": {
-        "name": "Bangerz (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 278746,
-      "name": "Adore You",
-      "url": "https://open.spotify.com/track/5AnCLGg35ziFOloEnXK4uu"
+      "duration_ms": 241346,
+      "name": "Tenerife Sea",
+      "url": "https://open.spotify.com/track/6vSwxzO2Qf4BinHSXRwZJe"
     },
     {
       "added_at": "2022-05-10 20:46:04",
@@ -643,18 +535,38 @@
     {
       "added_at": "2022-05-10 20:46:04",
       "album": {
-        "name": "Rare",
-        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
+        "name": "A Star Is Born Soundtrack (Without Dialogue)",
+        "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
       },
       "artists": [
         {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bradley Cooper",
+          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
         }
       ],
-      "duration_ms": 206458,
-      "name": "Lose You To Love Me",
-      "url": "https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi"
+      "duration_ms": 217212,
+      "name": "Shallow - Radio Edit",
+      "url": "https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj"
+    },
+    {
+      "added_at": "2022-05-10 20:46:04",
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 253746,
+      "name": "Best Thing I Never Had",
+      "url": "https://open.spotify.com/track/3lBRNqXjPp2j3JMTCXDTNO"
     },
     {
       "added_at": "2022-05-10 20:46:04",
@@ -675,8 +587,128 @@
     {
       "added_at": "2022-05-10 20:46:04",
       "album": {
-        "name": "+",
-        "url": "https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC"
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 180640,
+      "name": "I Can't Fall in Love Without You",
+      "url": "https://open.spotify.com/track/4VPXFi4vFTtS9wHe6oMQaT"
+    },
+    {
+      "added_at": "2022-05-10 20:46:04",
+      "album": {
+        "name": "10,000 Hours (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 167693,
+      "name": "10,000 Hours (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
+    },
+    {
+      "added_at": "2022-05-10 20:46:04",
+      "album": {
+        "name": "Dangerous Woman",
+        "url": "https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 202360,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/2ZHH9aoZjrqtFk1SX1dXy7"
+    },
+    {
+      "added_at": "2022-05-10 20:46:04",
+      "album": {
+        "name": "PRISM",
+        "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 268790,
+      "name": "By The Grace Of God",
+      "url": "https://open.spotify.com/track/1i0Rv7GtiCnnhpEkNAya80"
+    },
+    {
+      "added_at": "2022-05-10 20:46:04",
+      "album": {
+        "name": "Unapologetic (Edited Version)",
+        "url": "https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Mikky Ekko",
+          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
+        }
+      ],
+      "duration_ms": 240706,
+      "name": "Stay - Album Version (Edited)",
+      "url": "https://open.spotify.com/track/789CxjEOtO76BVD1A9yJQH"
+    },
+    {
+      "added_at": "2022-05-10 20:46:04",
+      "album": {
+        "name": "Joanne (Deluxe)",
+        "url": "https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 205280,
+      "name": "Million Reasons",
+      "url": "https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo"
+    },
+    {
+      "added_at": "2022-05-10 20:46:04",
+      "album": {
+        "name": "Flashlight (From \"Pitch Perfect 2\" Soundtrack)",
+        "url": "https://open.spotify.com/album/6eHYEyGAO6phgXexCWV4Iw"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        }
+      ],
+      "duration_ms": 208666,
+      "name": "Flashlight - From \"Pitch Perfect 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/6qC8Jj1XOxknPm8N7EbzKX"
+    },
+    {
+      "added_at": "2022-05-10 20:46:04",
+      "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
       },
       "artists": [
         {
@@ -684,73 +716,89 @@
           "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 526386,
-      "name": "Give Me Love",
-      "url": "https://open.spotify.com/track/0SuG9kyzGRpDqrCWtgD6Lq"
+      "duration_ms": 281560,
+      "name": "Thinking out Loud",
+      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
     },
     {
       "added_at": "2022-05-10 20:46:04",
       "album": {
-        "name": "Tangled Up",
-        "url": "https://open.spotify.com/album/5EJgQd6IcN7xvdmpARRk5b"
+        "name": "Love In The Future (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         }
       ],
-      "duration_ms": 227426,
-      "name": "Die A Happy Man",
-      "url": "https://open.spotify.com/track/6uTb5oNK9RkTjxmh73W7MG"
+      "duration_ms": 269560,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
     },
     {
       "added_at": "2022-05-10 20:46:04",
       "album": {
-        "name": "Born and Raised",
-        "url": "https://open.spotify.com/album/6S0BIiWtnqU0PtumXMpin0"
+        "name": "Delirium (Deluxe)",
+        "url": "https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 144400,
-      "name": "Love Is A Verb",
-      "url": "https://open.spotify.com/track/03XjpGGdsIPouALXem2Cku"
+      "duration_ms": 252534,
+      "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+      "url": "https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu"
     },
     {
       "added_at": "2022-05-10 20:46:04",
       "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/4rQa0t2qWm1MNPy7DNEUHB"
+        "name": "The Pains Of Growing",
+        "url": "https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt"
       },
       "artists": [
         {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
         }
       ],
-      "duration_ms": 253933,
-      "name": "From the Ground Up",
-      "url": "https://open.spotify.com/track/0lQJBl9YEsoMtE8D4yTE9g"
+      "duration_ms": 227693,
+      "name": "Out Of Love",
+      "url": "https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb"
     },
     {
       "added_at": "2022-05-10 20:46:04",
       "album": {
-        "name": "Jealous - EP",
-        "url": "https://open.spotify.com/album/6bsCl6iS6dvC4xaiBlecPv"
+        "name": "21",
+        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
       },
       "artists": [
         {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 287693,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/4G92yYrUs0cvY7G41YRI0z"
+      "duration_ms": 285240,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV"
+    },
+    {
+      "added_at": "2022-05-10 20:46:04",
+      "album": {
+        "name": "BEYONC\u00c9 [Platinum Edition]",
+        "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 230893,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/0fYwfZcgijhIOyXn0RVPwq"
     },
     {
       "added_at": "2022-05-10 20:46:04",
@@ -775,82 +823,34 @@
     {
       "added_at": "2022-05-10 20:46:04",
       "album": {
-        "name": "Flashlight (From \"Pitch Perfect 2\" Soundtrack)",
-        "url": "https://open.spotify.com/album/6eHYEyGAO6phgXexCWV4Iw"
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
       },
       "artists": [
         {
-          "name": "Jessie J",
-          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 208666,
-      "name": "Flashlight - From \"Pitch Perfect 2\" Soundtrack",
-      "url": "https://open.spotify.com/track/6qC8Jj1XOxknPm8N7EbzKX"
+      "duration_ms": 210160,
+      "name": "Purpose",
+      "url": "https://open.spotify.com/track/2IjyFRCRn8x1bEquOM3vxg"
     },
     {
       "added_at": "2022-05-10 20:46:04",
       "album": {
-        "name": "Dangerous Woman",
-        "url": "https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7"
+        "name": "Gypsy Heart",
+        "url": "https://open.spotify.com/album/5nB5tR7ntrEpHbpCS7iHN9"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
         }
       ],
-      "duration_ms": 202360,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/2ZHH9aoZjrqtFk1SX1dXy7"
-    },
-    {
-      "added_at": "2022-05-10 20:46:04",
-      "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 260533,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP"
-    },
-    {
-      "added_at": "2022-05-10 20:46:04",
-      "album": {
-        "name": "Meaning of Life",
-        "url": "https://open.spotify.com/album/6GBu7GU6dztLYlZuUHiwA2"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 224213,
-      "name": "I Don't Think About You",
-      "url": "https://open.spotify.com/track/0LV7IsFZF2rm2CI52uSWra"
-    },
-    {
-      "added_at": "2022-05-10 20:46:04",
-      "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 263400,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v"
+      "duration_ms": 224573,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/6buXDkw3Gv4fQC1OZKUhnR"
     }
   ],
   "unique_name": "10s Ballads",

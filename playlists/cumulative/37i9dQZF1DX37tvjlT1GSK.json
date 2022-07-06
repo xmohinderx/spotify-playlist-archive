@@ -6,6 +6,24 @@
   "tracks": [
     {
       "album": {
+        "name": "40 Silenciada",
+        "url": "https://open.spotify.com/album/6uCx8AU7vP02l12wDhszHG"
+      },
+      "artists": [
+        {
+          "name": "Los De Guamuchil",
+          "url": "https://open.spotify.com/artist/3ognMXS3PJq2gCkzReq4bE"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117312,
+      "name": "40 Silenciada",
+      "url": "https://open.spotify.com/track/2Z2W2b1EyGda9VfG7G6qC6"
+    },
+    {
+      "album": {
         "name": "A 180",
         "url": "https://open.spotify.com/album/5CBwX2peGRvpXpNDo6q7V4"
       },
@@ -209,7 +227,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 130669,
       "name": "Cajas De Parke",
       "url": "https://open.spotify.com/track/2yIKNAZ0eXxTx3r3Emfmdk"
@@ -709,7 +727,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 224000,
       "name": "Entre Las Estrellas",
       "url": "https://open.spotify.com/track/6PHm7h7jrkSAJrdIW93QT8"
@@ -781,7 +799,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 153706,
       "name": "Estos Tragos Van Por Ti",
       "url": "https://open.spotify.com/track/5pvyq5JmDPhDJ9xIMKNuYK"
@@ -857,7 +875,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 178857,
       "name": "Fuera De Servicio",
       "url": "https://open.spotify.com/track/2252ukIJHzlAv9VuJLjY53"
@@ -951,6 +969,24 @@
       "duration_ms": 195117,
       "name": "Inventame - En Vivo",
       "url": "https://open.spotify.com/track/0nvXL0x4NISFWRoLNfZK4U"
+    },
+    {
+      "album": {
+        "name": "Kil\u00f3metros",
+        "url": "https://open.spotify.com/album/40wp1HqFBV5JOwjk6v2J94"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191574,
+      "name": "Kil\u00f3metros",
+      "url": "https://open.spotify.com/track/5ylyzixdrUmtb80QEM95G8"
     },
     {
       "album": {
@@ -1055,7 +1091,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 174749,
       "name": "Lo Que Te Pasa",
       "url": "https://open.spotify.com/track/4Qwx5RaF7EnOMXsY7eXH51"
@@ -1127,7 +1163,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 193870,
       "name": "Mi Morenita",
       "url": "https://open.spotify.com/track/1ZvVinhAqHiK8YdjXu1Cnr"
@@ -1199,7 +1235,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 263807,
       "name": "Nieves de Enero",
       "url": "https://open.spotify.com/track/1GxYyP3rMCMtB3e7EWqU3f"
@@ -1243,6 +1279,24 @@
       "duration_ms": 202875,
       "name": "No Le Aflojo",
       "url": "https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb"
+    },
+    {
+      "album": {
+        "name": "Noche De Fiesta",
+        "url": "https://open.spotify.com/album/5oMehedoelylYKrGFDJP0V"
+      },
+      "artists": [
+        {
+          "name": "Omar Acosta",
+          "url": "https://open.spotify.com/artist/62TYc0jo76fDQDzV9SZMLE"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204720,
+      "name": "Noche De Fiesta",
+      "url": "https://open.spotify.com/track/1m1Vqo9sa478m20bIr4j4O"
     },
     {
       "album": {
@@ -1503,7 +1557,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 188917,
       "name": "Sembrando",
       "url": "https://open.spotify.com/track/6RHs3X2bQefGEbvqDB7MZB"
@@ -1575,7 +1629,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 187440,
       "name": "Si Tu Te Fueras De Mi",
       "url": "https://open.spotify.com/track/6WssB2o4BjzHzJMl7qprYg"
@@ -1793,7 +1847,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 254880,
       "name": "Una Pregunta Obvia",
       "url": "https://open.spotify.com/track/7iiOtyfWI3IJqVIV7CaEfi"
@@ -1865,7 +1919,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 178904,
       "name": "Voy a Mi Paso",
       "url": "https://open.spotify.com/track/75daErwWpFQEjUqIMFEsOY"

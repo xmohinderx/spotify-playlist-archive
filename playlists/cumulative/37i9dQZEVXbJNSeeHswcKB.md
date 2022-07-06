@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belgium.
 
-651 songs - 1 day 12 hr 11 min - [published](https://open.spotify.com/playlist/29yUzLQ7r3SIxxtKBc64iH)
+652 songs - 1 day 12 hr 13 min - [published](https://open.spotify.com/playlist/29yUzLQ7r3SIxxtKBc64iH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [House of Memories](https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:28 | 2022-05-30 | 2022-06-25 |
 | [How Do I Make You Love Me?](https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-13 |
 | [Hurricane](https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:03 | 2021-08-31 | 2021-09-20 |
+| [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-07-05 |  |
 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 | 2021-12-28 | 2022-01-23 |
 | [I Didn't Change My Number](https://open.spotify.com/track/7bcy34fBT2ap1L4bfPsl9q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 2:38 | 2021-08-01 | 2021-08-04 |
 | [I Drink Wine](https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:16 | 2021-11-21 | 2021-11-28 |
@@ -436,7 +437,7 @@
 | [Ok Ok](https://open.spotify.com/track/4VYEnxm7lmtG5sEEbcmORB) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:24 | 2021-09-01 | 2021-09-03 |
 | [Ok Ok pt 2](https://open.spotify.com/track/1QCqedB1ibmRO9x7Ikb5LI) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:24 | 2021-08-31 | 2021-09-01 |
 | [On s’habitue](https://open.spotify.com/track/2ngapdDfxjdLtLykbu6Uv0) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq](https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA) | 2:38 | 2021-12-05 | 2021-12-10 |
-| [One Kiss \(with Dua Lipa\)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) | 3:34 | 2022-06-19 |  |
+| [One Kiss \(with Dua Lipa\)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) | 3:34 | 2022-06-19 | 2022-07-06 |
 | [One More Sleep](https://open.spotify.com/track/78pn8k7RogKo2oxl0DyX6d) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 3:59 | 2021-12-25 | 2021-12-27 |
 | [One Right Now \(with The Weeknd\)](https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [One Right Now](https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH) | 3:13 | 2021-11-10 | 2021-12-03 |
 | [Ongewoon](https://open.spotify.com/track/7AVHDeAjfn0zfMnYRhp0oI) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Ongewoon](https://open.spotify.com/album/3lVTEZPoehOgTV8BG37eGk) | 2:37 | 2022-04-16 |  |

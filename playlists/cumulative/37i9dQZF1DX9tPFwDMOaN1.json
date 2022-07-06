@@ -1094,6 +1094,24 @@
     },
     {
       "album": {
+        "name": "HOLIDAY",
+        "url": "https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "I LOVE U",
+      "url": "https://open.spotify.com/track/02Vb9vfZUmqAKNhQwFjPSZ"
+    },
+    {
+      "album": {
         "name": "Guilty Pleasure",
         "url": "https://open.spotify.com/album/7jke1vYOze3jdyTiWhtFnz"
       },

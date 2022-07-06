@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best Hip Hop coming out of Australia\. Cover: Lawd Lance
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,801 likes - 98 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,830 likes - 98 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

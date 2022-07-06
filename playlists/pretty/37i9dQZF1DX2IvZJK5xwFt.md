@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 
 > Only the best rock in the world\. Cover: Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,854 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,019 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,16 +12,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 2 | [Free Fall \(Theme From KinnPorsche The Series\)](https://open.spotify.com/track/6MDtS6MzlIzGUjbC1rapa4) | [Slot Machine](https://open.spotify.com/artist/6TNTFjkJA8PhP16Ds7CZnz) | [Free Fall \(Theme From KinnPorsche The Series\)](https://open.spotify.com/album/7svgXSmQuVYYecwHej48Pw) | 3:46 |
 | 3 | [Yeah, I Like You](https://open.spotify.com/track/6kNOYOpdMy0w67fC4XPc0q) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Yeah, I Like You](https://open.spotify.com/album/0vlDeWXsRPN0GZkdIoykfT) | 4:24 |
 | 4 | [Don't Feel Like Feeling Sad Today](https://open.spotify.com/track/3EzNhsh3hCy559XDI44f4g) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Don't Feel Like Feeling Sad Today](https://open.spotify.com/album/2xI6WQRXM36V5B7PSzghFW) | 1:56 |
-| 5 | [Seasick](https://open.spotify.com/track/7fR3tnzsPKVNZTx4Ms871S) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Seasick](https://open.spotify.com/album/5WdjEWFKc0aznBIb01FHo7) | 2:30 |
-| 6 | [Hope](https://open.spotify.com/track/5glQ2KQjO3HZCh7TDyegvm) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 3:38 |
-| 7 | [Leave Me Be](https://open.spotify.com/track/7Cz87d89aHhnk3MmGAG3L3) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Si Vis Pacem, Para Bellum \(Deluxe Edition\)](https://open.spotify.com/album/61fYGxrlD51FLZGWSlX68q) | 3:33 |
-| 8 | [ZITTI E BUONI](https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:14 |
-| 9 | [Will Of The People](https://open.spotify.com/track/1bbyikfBqLFAMxzrAuGreh) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/3nJtclmCvKVlXMDV4uM5hV) | 3:18 |
-| 10 | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN) | 7:21 |
-| 11 | [abcdefu \(angrier\)](https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu \(angrier\)](https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ) | 2:39 |
-| 12 | [SKIN OF MY TEETH](https://open.spotify.com/track/1O9AseW10CTi6nBLoj0O6K) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [SKIN OF MY TEETH](https://open.spotify.com/album/1g6ypyB5kB8UT9gpG9EZi8) | 2:42 |
-| 13 | [Save Yourself \- Japanese Version](https://open.spotify.com/track/2noRPwBUD3h98s09YuxHf9) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo) | 3:17 |
-| 14 | [High Enough](https://open.spotify.com/track/1qwno7xb5mJe71xtMS6jl2) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Every Where Is Some Where](https://open.spotify.com/album/4QwcXvqLh5Yj35wBt2DnTr) | 3:51 |
+| 5 | [Master Of Puppets](https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 8:35 |
+| 6 | [Seasick](https://open.spotify.com/track/7fR3tnzsPKVNZTx4Ms871S) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Seasick](https://open.spotify.com/album/5WdjEWFKc0aznBIb01FHo7) | 2:30 |
+| 7 | [Hope](https://open.spotify.com/track/5glQ2KQjO3HZCh7TDyegvm) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 3:38 |
+| 8 | [Leave Me Be](https://open.spotify.com/track/7Cz87d89aHhnk3MmGAG3L3) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Si Vis Pacem, Para Bellum \(Deluxe Edition\)](https://open.spotify.com/album/61fYGxrlD51FLZGWSlX68q) | 3:33 |
+| 9 | [ZITTI E BUONI](https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:14 |
+| 10 | [Will Of The People](https://open.spotify.com/track/1bbyikfBqLFAMxzrAuGreh) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/3nJtclmCvKVlXMDV4uM5hV) | 3:18 |
+| 11 | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN) | 7:21 |
+| 12 | [abcdefu \(angrier\)](https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu \(angrier\)](https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ) | 2:39 |
+| 13 | [SKIN OF MY TEETH](https://open.spotify.com/track/1O9AseW10CTi6nBLoj0O6K) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [SKIN OF MY TEETH](https://open.spotify.com/album/1g6ypyB5kB8UT9gpG9EZi8) | 2:42 |
+| 14 | [Save Yourself \- Japanese Version](https://open.spotify.com/track/2noRPwBUD3h98s09YuxHf9) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo) | 3:17 |
 | 15 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 |
 | 16 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 |
 | 17 | [ADHD](https://open.spotify.com/track/5tGVX0JhfjZc08cRK8Q6Dk) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Shape & Form](https://open.spotify.com/album/7o6ZqDkitrak5YhaFGpcKV) | 2:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 74 | [Down In The Dumps](https://open.spotify.com/track/1DcjEggH52pt6GiEeaaKmY) | [cellosux](https://open.spotify.com/artist/2rkmXRyKp3HRmGOgP968Kj) | [DOWN IN THE DUMPS](https://open.spotify.com/album/5qrAHXTOei4zFw1mnTasBP) | 4:18 |
 | 75 | [HEAD](https://open.spotify.com/track/2wSRjC6eRqtA2ak81IrT8v) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [Aston Fenly](https://open.spotify.com/artist/23RT2uLMNqIl3RkddKTAF6) | [HEAD](https://open.spotify.com/album/2AD1whY87iLPxZaWs8Kd4Y) | 2:26 |
 
-Snapshot ID: `MTY1NjYwODQwMCwwMDAwMDM1NjAwMDAwMTgxYjU4ZTIzMjAwMDAwMDE4MWI1NGFjNTk3`
+Snapshot ID: `MTY1Njk4MjkwOSwwMDAwMDM1NzAwMDAwMTgxY2JlMGIzYTYwMDAwMDE4MWI1NGFjNTk3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 
 > ¡Rolas pa' pistear con Los Tigres Del Norte!
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,467 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,464 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 | 36 | [Que Te Ruegue Quien Te Quiera](https://open.spotify.com/track/6CMUbdue9apkMR5RvIuA3H) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Te Presumo](https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK) | 3:05 |
 | 37 | [Dos Coronas a Mi Madre](https://open.spotify.com/track/2imwekOjGGEhx4pELNtJJq) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas de Exitos](https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m) | 2:26 |
 | 38 | [Por Debajo Del Agua](https://open.spotify.com/track/4nJPAEl70w6VjOfetvZGQn) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Jefe De Jefes](https://open.spotify.com/album/5C507x88aYeTv00Ydv0maH) | 3:17 |
-| 39 | [Nace Un Borracho](https://open.spotify.com/track/32yXHazY6TDj58nfxxgLgs) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY! \(Súper Deluxe\)](https://open.spotify.com/album/6aUbcanpJvwQqa7hs2mxoL) | 2:56 |
-| 40 | [Abrazado De Un Poste \- En Vivo](https://open.spotify.com/track/5foBwr4MmU2oeuEe6gnQHr) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Lorenzo De Monteclaro](https://open.spotify.com/artist/4YnO1u0lWE4lXZKy8wXjZX) | [Desde La Cantina \(Live At Nuevo León México/2009\)](https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy) | 3:12 |
-| 41 | [Belleza De Cantina](https://open.spotify.com/track/4XC7YfQYxDuUa7I287yeWw) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Por Las Damas](https://open.spotify.com/album/7f9iAg217HyY4rY0f6760q) | 3:03 |
-| 42 | [Solo Un Dia \(Ahora Te Amo\)](https://open.spotify.com/track/51RcAoNIqe0G3284yxT8G0) | [Adan Romero](https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz) | [Solo Un Dia…](https://open.spotify.com/album/6CpCo3owrPMEiQjREEFuk0) | 3:23 |
-| 43 | [Se Me Olvidó Otra Vez \(En Vivo\) \- En el Palacio de Bellas Artes](https://open.spotify.com/track/10o700fPQOCPZFrzFssSof) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [La Historia Del Divo](https://open.spotify.com/album/0I23whq0YCOR8Z7eDTZJFv) | 2:56 |
-| 44 | [Un Fin en Culiacán](https://open.spotify.com/track/2NRFCNwTDT4uReqyyQrovU) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Un Fin en Culiacán](https://open.spotify.com/album/4x9Oz3RqyQfDslpHrLBXBl) | 2:34 |
-| 45 | [Me Metí En El Ruedo](https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 2:54 |
-| 46 | [Ando Bien Pedo \- Versión 30 Aniversario](https://open.spotify.com/track/2xaXZpD7ENIr9VdH78KcHS) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [30 Aniversario](https://open.spotify.com/album/52q5WhmITcyCrhmqHHnjgI) | 2:23 |
-| 47 | [Disculpe Usted](https://open.spotify.com/track/0uYmSZoLXmxBkvsH4jGQRY) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Más Exitos Con El Shaka](https://open.spotify.com/album/7C7OFtcJyns1tygKSowvzO) | 3:00 |
-| 48 | [Amor Limosnero](https://open.spotify.com/track/6s7vMcobBJB7W1WMBDjfWs) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Mas Alla Del Sol](https://open.spotify.com/album/1wRhBK4ubZMPanXtjFIi6V) | 3:40 |
-| 49 | [De un Rancho a Otro](https://open.spotify.com/track/2ffhBUWXoCpRFSzXkPbGEC) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [De Un Rancho A Otro](https://open.spotify.com/album/6MEQvpznWiaqUWsScLArVb) | 2:20 |
-| 50 | [Palabra de Hombre](https://open.spotify.com/track/4CLkDJ4xLqkV4Vt2vPOny1) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Guárdame Esta Noche](https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ) | 3:16 |
+| 39 | [Si Una Vez \- En Vivo](https://open.spotify.com/track/2wdYohLJjdHt6jZASIGZuC) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pistiembre Todo El Año \(En Vivo\)](https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt) | 2:54 |
+| 40 | [Después de Ti, ¿Quién?](https://open.spotify.com/track/3qGkFQOEJ0w0SqnAXFeG2v) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Disfruté Engañarte](https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr) | 3:54 |
+| 41 | [Descansando](https://open.spotify.com/track/3QXBaUQ8iwP2WI1GpQIP18) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Descansando](https://open.spotify.com/album/4n05Mdr8HuetVr4V6TWnWI) | 3:45 |
+| 42 | [Cabrón y Vago](https://open.spotify.com/track/2m1t8nkP1WibhYKGlwV3Oa) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cabrones y Vagos](https://open.spotify.com/album/4eWWlUpqJlgTbsb36yTQZj) | 2:16 |
+| 43 | [El Sinaloense](https://open.spotify.com/track/4bMEfZsM3ujCp3JN43pP9C) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Tributo a México Homenaje A Nuestros Estados](https://open.spotify.com/album/6LgUFobLsq8FT01Umgkfgf) | 3:14 |
+| 44 | [Yo Sé Que Te Acordarás](https://open.spotify.com/track/21Pr1VcMqYrK2VOIWqzkNk) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Lo Mejor De Mi Vida](https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe) | 3:11 |
+| 45 | [Como Que Me Enamoro \- En Vivo](https://open.spotify.com/track/7IZ738mnMnhVhxzn8m06qn) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pistiembre Todo El Año \(En Vivo\)](https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt) | 2:57 |
+| 46 | [El Amanecido](https://open.spotify.com/track/6J64SW8tyZbI4BhRtUoHZo) | [Los Morros Del Norte](https://open.spotify.com/artist/5xvUFw0p8yfQfHVliD1dZG) | [Colección Diamante](https://open.spotify.com/album/2YglioIXGaSnCx3IJ1zCkq) | 2:07 |
+| 47 | [Eslabón Por Eslabón](https://open.spotify.com/track/75vBz6v4IrakqmnqNTdnE0) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Ni Dada La Quiero](https://open.spotify.com/album/1wJklr611fFhZoveD89y4F) | 3:02 |
+| 48 | [No Eres Tu, Soy Yo! \- Bonus Track](https://open.spotify.com/track/1fqs4VH6AVUk0CnZ6YGmeC) | [Tito Y Su Torbellino](https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7) | [Corridos Underground](https://open.spotify.com/album/5Wj7VIPBinifu9nvB0HylN) | 2:34 |
+| 49 | [Soñador Eterno](https://open.spotify.com/track/3NrfU7FvNF0w6mGcFVnlUj) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Contigo](https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0) | 2:57 |
+| 50 | [La Farsante](https://open.spotify.com/track/4oudemVp2TYfCxL56Go6lk) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa) | 3:35 |
 
-Snapshot ID: `MTY1Njk4NDk0NSwwMDAwMDAwMDkxYWU3ZWI1ZjE3M2M1MDhlYjczMzljMmE3OGI0ZGUx`
+Snapshot ID: `MTY1NzA3MTY1MiwwMDAwMDAwMDY4MzQ1NDM5MGRmZGQ2YzRhZDYzOWVhYjJkMDUxNGQy`

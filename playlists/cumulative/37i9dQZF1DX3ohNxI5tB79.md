@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes!
 
-111 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/6yQIOThlCsCLgZSW50o9Mt)
+112 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/6yQIOThlCsCLgZSW50o9Mt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Mixer](https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Mixer](https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn) | 3:12 | 2021-12-13 |  |
 | [Molly](https://open.spotify.com/track/3x3b6gLfASQ3oKMC5tM6Wf) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Belly](https://open.spotify.com/album/3mPwQso7Zs9CKNatbpPISq) | 2:03 | 2022-01-13 |  |
 | [Moonlove](https://open.spotify.com/track/4tEOo7B5elipkDbdQ59JOp) | [Shamis](https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Moonlove](https://open.spotify.com/album/3R5O4b6IHNBHfmz4QW2pN3) | 3:55 | 2021-12-13 |  |
+| [Morning Matters](https://open.spotify.com/track/4hNgMLdda6VpNHUKdgmRMU) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Morning Matters](https://open.spotify.com/album/5ipQzmfPyMJgG1zLF4NrBk) | 4:06 | 2022-07-05 |  |
 | [Neon Noir](https://open.spotify.com/track/36YNheAQ0FKZ4I9qaYIY6P) | [QUANZA](https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy) | [Neon Noir](https://open.spotify.com/album/5dQ3Erj2BjGL1XjCL9PS5i) | 4:40 | 2021-12-13 | 2022-04-29 |
 | [New Day \(Otis Parham\)](https://open.spotify.com/track/4Za8yDzEhc8uZMBQRkiaGr) | [Sean C\. Johnson](https://open.spotify.com/artist/6jwSgdzEmAv7K0c4G8kq1H) | [New Day \(Otis Parham\)](https://open.spotify.com/album/03ytEPT6foahNKKrJMoGgm) | 3:15 | 2021-12-13 |  |
 | [No Reply](https://open.spotify.com/track/2VbNBhOi7n7WX1yCVfy77I) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [No Reply](https://open.spotify.com/album/5yMxPV2nkSUlpzLfm2q0VJ) | 2:57 | 2021-12-13 |  |
@@ -112,7 +113,7 @@
 | [When I'm in Your Arms](https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 5:35 | 2022-03-10 |  |
 | [Whisper My Name](https://open.spotify.com/track/1qc5dn8Ou7plbR0SxH1pzD) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Whisper My Name](https://open.spotify.com/album/6ELf7lXd7luKkRCDjZ9wzg) | 4:00 | 2022-04-28 |  |
 | [Wish The Love Never Died](https://open.spotify.com/track/5yuYE3N0sSIPXLE3L3GbSK) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Wish The Love Never Died](https://open.spotify.com/album/2G7bvknLHIy1f5im8V7NmP) | 3:01 | 2021-12-13 |  |
-| [With You](https://open.spotify.com/track/3JPFtBDSWygqLCZ07DVsNQ) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Bussin'](https://open.spotify.com/album/5ZOHGWB0OgDwVMojCv2vNR) | 4:07 | 2021-12-13 |  |
+| [With You](https://open.spotify.com/track/3JPFtBDSWygqLCZ07DVsNQ) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Bussin'](https://open.spotify.com/album/5ZOHGWB0OgDwVMojCv2vNR) | 4:07 | 2021-12-13 | 2022-07-06 |
 | [With You](https://open.spotify.com/track/079mLSjKkiSnpcSueMrNtQ) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Velvet Portraits](https://open.spotify.com/album/4PCIOf8X75vWdD1PbLpg3c) | 4:08 | 2021-12-13 |  |
 | [Yes I Do](https://open.spotify.com/track/6oTbxrszNWRsLdwFkGeHy6) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/6PPhLgXiq4nEiZ8x2ZB3xV) | 5:10 | 2022-04-28 |  |
 | [Yes We Can Can](https://open.spotify.com/track/7GO7XfiDsUysp4MMkdCiXo) | [Maceo Parker](https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC) | [Soul Food: Cooking With Maceo](https://open.spotify.com/album/1nI2mxpnTcJsPjFh4ORf5E) | 5:42 | 2021-12-13 |  |

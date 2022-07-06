@@ -625,7 +625,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -777,7 +777,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 151456,
       "name": "Bandana",
       "url": "https://open.spotify.com/track/16AzcbKli3UQsxj491hJLQ"
@@ -2511,7 +2511,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 160375,
       "name": "Hella Faded",
       "url": "https://open.spotify.com/track/4Vrkbkap9QEKfkPKRKposZ"
@@ -7219,7 +7219,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-06",
       "duration_ms": 180821,
       "name": "\u0410\u0443",
       "url": "https://open.spotify.com/track/6RmlamfS2Supq8wARlY0QQ"
@@ -8437,6 +8437,24 @@
       "duration_ms": 105600,
       "name": "\u0413\u0410\u041d\u042c\u0413 \u0410\u0443\u0442\u0440\u043e (feat. Bushido Zho, Scally Milano, MAYOT, Magnum Opus, SEEMEE, YUNGWAY)",
       "url": "https://open.spotify.com/track/3MfoVUFEXWX6bxbACLVZEG"
+    },
+    {
+      "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/4LLQjoYb7W1dBNkAX2eifI"
+      },
+      "artists": [
+        {
+          "name": "CHEEV",
+          "url": "https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182545,
+      "name": "\u0413\u0430\u0440\u043d\u043e \u0442\u0430\u043a",
+      "url": "https://open.spotify.com/track/3yRDM5tBS7H8HG64y3x9kw"
     },
     {
       "album": {
@@ -13179,7 +13197,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 89806,
       "name": "\u0422\u0430\u0431\u043b\u0435\u0442\u043a\u0430",
       "url": "https://open.spotify.com/track/0fLampmh4qsOLGitXM171a"
