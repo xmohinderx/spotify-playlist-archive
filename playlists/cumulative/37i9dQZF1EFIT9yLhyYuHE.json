@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/41ePM6C85zfhtOuTEfuooq\">Charlene Meulenberg</a>, all in one playlist. <a href=\"spotify:genre:songwriters-page\">Discover more songwriters on Spotify</a>.",
+  "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/41ePM6C85zfhtOuTEfuooq\">Charlene Meulenberg</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Charlene Meulenberg",
   "published_playlist_ids": [
     "6em251h4Qy6i0PaiBqmC9I"
@@ -55,10 +55,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 231419,
       "name": "Amplify",
       "url": "https://open.spotify.com/track/5I0esgCIo8V9qHamLPOErr"
+    },
+    {
+      "album": {
+        "name": "A Fool for Love",
+        "url": "https://open.spotify.com/album/2Sn0PHXNQ1Lt50QU8LdIKw"
+      },
+      "artists": [
+        {
+          "name": "Birgit Schuurman",
+          "url": "https://open.spotify.com/artist/3t8YK94jSx9SebLHxsrAba"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242906,
+      "name": "Amplify",
+      "url": "https://open.spotify.com/track/1NPMjz6Dmg5kQZU5FM8hLI"
     },
     {
       "album": {

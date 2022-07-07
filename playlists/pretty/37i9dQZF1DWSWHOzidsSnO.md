@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 
 ### [EQUAL Colombia](https://open.spotify.com/playlist/37i9dQZF1DWSWHOzidsSnO)
 
-> ¡Karen Lizarazo y más mujeres, a todo volumen!
+> ¡Paola Jara y más mujeres, a todo volumen!
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,685 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,686 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mesero](https://open.spotify.com/track/21CrqHsZwx6RJKShoYOvJf) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV), [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT) | [Mesero](https://open.spotify.com/album/3xM0T3G0a4aQI0HUHnmZ79) | 2:20 |
-| 2 | [Murió El Amor](https://open.spotify.com/track/09H7KZfOO0PMNLwsUDG2BI) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [En Tus Manos](https://open.spotify.com/album/0gkKTHSGp4ckN2XPVi4GUL) | 3:00 |
+| 1 | [Salud Por Él](https://open.spotify.com/track/41Ix7ovR9I9fXcEy8hDcOj) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Prohibido, Salud Por Él Y Más Éxitos](https://open.spotify.com/album/73ibYU5GkSI4s9r7gLbtPb) | 3:46 |
+| 2 | [Mesero](https://open.spotify.com/track/21CrqHsZwx6RJKShoYOvJf) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV), [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT) | [Mesero](https://open.spotify.com/album/3xM0T3G0a4aQI0HUHnmZ79) | 2:20 |
 | 3 | [Adicta al Perreo](https://open.spotify.com/track/7xj6vIyvd8qh9JjPzQhvHa) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Adicta al Perreo](https://open.spotify.com/album/6E4zCCVrnmZigYPqJJshdV) | 2:50 |
 | 4 | [Gravedad](https://open.spotify.com/track/6rHOqHrsEyQeX7X5pDtvv2) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva) | [Gravedad](https://open.spotify.com/album/1LwHjlzl2QgQPN9CfbQoSk) | 2:38 |
-| 5 | [Mariposas](https://open.spotify.com/track/2NXjSc70bijXn2OXzkRzCb) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Mariposas](https://open.spotify.com/album/2fMiZ4guqZIS5f0CoCh2Lv) | 2:30 |
-| 6 | [Mujer Desastre](https://open.spotify.com/track/5vmnUDKeC89lNuoHJfX0ks) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Delirante](https://open.spotify.com/album/618JrLJV9iCiUQp0u50yF1) | 3:17 |
-| 7 | [Un Reflejo Breve](https://open.spotify.com/track/7yIGfIHePWeHCDGA97Qorp) | [Una María](https://open.spotify.com/artist/7CijOJxzQvp3mA6Sfquinl) | [Un Reflejo Breve](https://open.spotify.com/album/3NrGokjjouRQlWe0g1BxVT) | 3:00 |
+| 5 | [Mujer Desastre](https://open.spotify.com/track/5vmnUDKeC89lNuoHJfX0ks) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Delirante](https://open.spotify.com/album/618JrLJV9iCiUQp0u50yF1) | 3:17 |
+| 6 | [Un Reflejo Breve](https://open.spotify.com/track/7yIGfIHePWeHCDGA97Qorp) | [Una María](https://open.spotify.com/artist/7CijOJxzQvp3mA6Sfquinl) | [Un Reflejo Breve](https://open.spotify.com/album/3NrGokjjouRQlWe0g1BxVT) | 3:00 |
+| 7 | [Murió El Amor](https://open.spotify.com/track/09H7KZfOO0PMNLwsUDG2BI) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [En Tus Manos](https://open.spotify.com/album/0gkKTHSGp4ckN2XPVi4GUL) | 3:00 |
 | 8 | [Vete](https://open.spotify.com/track/52x5xGEe3DMahkpDR6aEhX) | [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu) | [Vete](https://open.spotify.com/album/18hHrCTRv4mSGaCHvskuWy) | 3:13 |
 | 9 | [Aurora](https://open.spotify.com/track/3OAcJ8edCrAvbEVG99AjAL) | [Maria McCausland](https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm) | [Aurora](https://open.spotify.com/album/1uAinYIc2lPdFom5R5trX5) | 3:43 |
 | 10 | [ENMÚSAME](https://open.spotify.com/track/3cY6e5pfLpYk5uiT5RdYcv) | [Gallardía](https://open.spotify.com/artist/0yP5P5C0GfMQ8Nlpq3lFBY) | [ENMÚSAME](https://open.spotify.com/album/1BwMM9VT7IO94E8ImUD9ys) | 2:29 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 74 | [La Sombra \(feat\. Leonel García\)](https://open.spotify.com/track/1AMzClglf6ggXTomlMOMkk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 3:40 |
 | 75 | [Cubeta](https://open.spotify.com/track/1JDoIz8IWcNubVpKW2hXIR) | [Mayte Montero](https://open.spotify.com/artist/2Z3ytThcszxwnP0nR6ZafC) | [Cubeta](https://open.spotify.com/album/2pTRMkCYKcwVilF1OkC9il) | 3:40 |
 
-Snapshot ID: `MTY1NDAzNjk2NCwwMDAwMDA1NDAwMDAwMTgxMWM0OTI0MGMwMDAwMDE4MTFhZDI2ZWY1`
+Snapshot ID: `MTY1NzA4NDIxMCwwMDAwMDA1NTAwMDAwMTgxZDFlYTZjMTYwMDAwMDE4MWQxZTliNTlm`

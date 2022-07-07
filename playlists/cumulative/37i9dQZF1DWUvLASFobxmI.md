@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Pesado en portada.
 
-107 songs - 5 hr 50 min - not published yet
+108 songs - 5 hr 52 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Amores Van Y Vienen](https://open.spotify.com/track/2W4RJv2eybzhaWbLSuRUun) | [La Nueva Estrategia](https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Amores Van Y Vienen](https://open.spotify.com/album/3weBqrWdVBAhh1BS0plpXK) | 3:36 | 2022-07-01 |  |
 | [Armando Acertijos](https://open.spotify.com/track/76WKYewcP9Q3Hs72dTyDnR) | [Grupo Alfa](https://open.spotify.com/artist/078DGCbkOWtHamc21qE0Sy) | [Armando Acertijos](https://open.spotify.com/album/58Md7UQKF4XzA1HCqxJN3J) | 2:39 | 2022-07-01 | 2022-07-05 |
 | [Así Ya No](https://open.spotify.com/track/0rc9jL9G6RQHtgvIDYUmLD) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [El Fenómeno](https://open.spotify.com/album/2ha9AYHQfi9sA6sMyC5kgs) | 2:42 | 2022-07-01 |  |
-| [Aunque Sea En Silencio \(Cuatro Paredes\)](https://open.spotify.com/track/6tO7GuXst1F2L5Hppk8UgB) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Juego Prohibido](https://open.spotify.com/album/3oZR4fLxdIaOOyW4OKrKu1) | 3:10 | 2022-07-01 |  |
+| [Aunque Sea En Silencio \(Cuatro Paredes\)](https://open.spotify.com/track/6tO7GuXst1F2L5Hppk8UgB) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Juego Prohibido](https://open.spotify.com/album/3oZR4fLxdIaOOyW4OKrKu1) | 3:10 | 2022-07-01 | 2022-07-07 |
 | [Backpack](https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:29 | 2022-07-01 |  |
 | [Bajo Mil Llaves](https://open.spotify.com/track/2UnVe9XBmhrCi63CQVugfL) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Bajo Mil Llaves](https://open.spotify.com/album/2wMrrozHZP74wIrUmlXV0O) | 2:25 | 2022-07-01 |  |
 | [Bonita](https://open.spotify.com/track/3lMpb1ihVyjs2rI4hEsFuB) | [Los Dorados](https://open.spotify.com/artist/6VDUE5mi2qDbQZT07GdYoE) | [Bonita](https://open.spotify.com/album/0TMcUlPu5tEb9a2c8EcX0a) | 3:21 | 2022-02-22 |  |
@@ -34,6 +34,7 @@
 | [El Cuestionario](https://open.spotify.com/track/4jySARaQ60WkXe4JO3EKUA) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [El Cuestionario](https://open.spotify.com/album/4cxY9YgwMsAgXkXoktiTSW) | 3:08 | 2022-07-01 |  |
 | [El del Corvette](https://open.spotify.com/track/1Sc2tm7aeKp7HeP54metL0) | [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I) | [El del Corvette](https://open.spotify.com/album/6RcemfWBoHCZBs7Zi4JTPq) | 3:28 | 2022-07-01 |  |
 | [El Fat Tony](https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 2:54 | 2022-07-01 |  |
+| [El Flaco \(En Vivo\)](https://open.spotify.com/track/6Lds2bjE7FopHhTL3ikk8I) | [Grupo Selectivo](https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1) | [El Flaco \(En Vivo\)](https://open.spotify.com/album/27oAwqkNSE0AW0VofOSPoE) | 2:49 | 2022-07-01 |  |
 | [El H](https://open.spotify.com/track/2JSp7tQTyQz6GA8Ko3m0Lw) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Que las Cuartitos No Falten](https://open.spotify.com/album/63zx8Ne7jC03DB4w2yyQ6k) | 2:44 | 2022-03-11 |  |
 | [El H](https://open.spotify.com/track/2ztok6d84IR08FrwByYEEW) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Vive Y Dejame Vivir](https://open.spotify.com/album/7obSSQZvfcaXki0vc6U847) | 2:55 | 2022-01-14 |  |
 | [EL INFIERNO](https://open.spotify.com/track/2DhbJTNWJ4ChxnMEcY0WAq) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [EL INFIERNO](https://open.spotify.com/album/5zM5b1Ha8HwK6w5xRO4DFf) | 3:37 | 2022-07-01 |  |

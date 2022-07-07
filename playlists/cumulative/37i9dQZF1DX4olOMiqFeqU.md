@@ -4,7 +4,7 @@
 
 > 100% Pinoy hits from your favorite artists!
 
-65 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/2aC5BPUM0MsoTBT2ZjgARC)
+66 songs - 4 hr 55 min - [published](https://open.spotify.com/playlist/2aC5BPUM0MsoTBT2ZjgARC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Maybe The Night](https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Maybe The Night](https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e) | 3:37 | 2022-04-19 |  |
 | [Maybe This Time](https://open.spotify.com/track/4wOISjicRMhm89CnvX7zuR) | [Sarah Geronimo](https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48) | [Maybe This Time \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/453Ok0696evJwrzN4DAa6c) | 4:15 | 2022-04-19 |  |
 | [Migraine](https://open.spotify.com/track/7zzZmpw8L66ZPjH1M6qmOs) | [Moonstar88](https://open.spotify.com/artist/2kZThDGZcHl4klYYFk0v8n) | [When I Met You](https://open.spotify.com/album/4t3FtECyV1gClHmpBhXSfB) | 4:27 | 2022-04-19 | 2022-07-06 |
-| [Mundo](https://open.spotify.com/track/4u8RkgV6P4TLi89SmlUtv8) | [IV Of Spades](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Mundo](https://open.spotify.com/album/2p6QlBCrnKwUFC0wPN1kfV) | 5:49 | 2022-04-19 |  |
+| [Mundo](https://open.spotify.com/track/4u8RkgV6P4TLi89SmlUtv8) | [IV Of Spades](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Mundo](https://open.spotify.com/album/2p6QlBCrnKwUFC0wPN1kfV) | 5:49 | 2022-04-19 | 2022-07-07 |
 | [Nadarang](https://open.spotify.com/track/6LJ1p1h5EcMK4VPeCLDSoF) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [Materyal](https://open.spotify.com/album/7MCYCgE6fQHYkhj29FHRcY) | 3:52 | 2022-06-13 |  |
 | [Nang Dumating Ka](https://open.spotify.com/track/7Kh9hYahcc7CY9ySWAhbfe) | [Bandang Lapis](https://open.spotify.com/artist/4slXciON4jYY6mqE9LjSFx) | [Nang Dumating Ka](https://open.spotify.com/album/0pKql5M2xJjgryZLA9H4T9) | 6:19 | 2022-05-11 |  |
 | [Ngiti](https://open.spotify.com/track/1YY6iA00Q58TvDEh6rYaWf) | [Ronnie Liang](https://open.spotify.com/artist/6GbCVaJ6iTA0OnZaOiDpl0) | [Songs of Love](https://open.spotify.com/album/386MjtGdyMGEqjldwGVfFd) | 3:30 | 2022-04-19 |  |
@@ -60,9 +60,10 @@
 | [Sa'yo](https://open.spotify.com/track/29xs643Q96uQLD8f7SxYYw) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Monodramatic](https://open.spotify.com/album/4xxRoePLdITFIhrzUhmOaQ) | 4:13 | 2022-04-19 |  |
 | [Same Ground](https://open.spotify.com/track/5iNGxZ1waiyMFylg4QAHk6) | [Kitchie Nadal](https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY) | [Kitchie Nadal](https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk) | 4:27 | 2022-04-19 |  |
 | [Sana \- Single Version](https://open.spotify.com/track/1X4l4i472kW5ofFP8Xo0x0) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [Sana](https://open.spotify.com/album/4njOhY51h2CBqdAX4o41U1) | 4:37 | 2022-04-19 |  |
+| [So Slow](https://open.spotify.com/track/1Xr4t4Ze6gfuzY1Yb4bP3z) | [Side A & Freestyle](https://open.spotify.com/artist/3JITwr6Xwkz8p6cm9leNUh) | [Back 2 Back](https://open.spotify.com/album/5m3Qj30Vp2BKZVGzBFxCyD) | 4:36 | 2022-06-13 |  |
 | [Someday](https://open.spotify.com/track/1MkiRsYBkXbXvdiYvTTiQT) | [Nina](https://open.spotify.com/artist/2tQbSWgZLIB8MXMnsXVRro) | [Nina](https://open.spotify.com/album/1yx0lKqG8Z1J3IOxx4gbzs) | 3:34 | 2022-04-19 |  |
-| [Starting over Again](https://open.spotify.com/track/7DpfL3u92JKKTys5w7jfY7) | [Toni Gonzaga](https://open.spotify.com/artist/5BAyYwbv8OSfqeXMjPgWX6) | [Celestine](https://open.spotify.com/album/2VGSxW3eF2Ass0Qlp7g2PY) | 4:06 | 2022-04-19 |  |
-| [Tadhana](https://open.spotify.com/track/6NFKf8vBApSvtzkapYmnVR) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT) | [Capacities](https://open.spotify.com/album/4SjshYHT8OeSHB6zun2Hxx) | 3:42 | 2022-04-19 | 2022-07-06 |
+| [Starting over Again](https://open.spotify.com/track/7DpfL3u92JKKTys5w7jfY7) | [Toni Gonzaga](https://open.spotify.com/artist/5BAyYwbv8OSfqeXMjPgWX6) | [Celestine](https://open.spotify.com/album/2VGSxW3eF2Ass0Qlp7g2PY) | 4:06 | 2022-04-19 | 2022-07-07 |
+| [Tadhana](https://open.spotify.com/track/6NFKf8vBApSvtzkapYmnVR) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT) | [Capacities](https://open.spotify.com/album/4SjshYHT8OeSHB6zun2Hxx) | 3:42 | 2022-04-19 |  |
 | [Tell Me Where It Hurts](https://open.spotify.com/track/6mdmVPI2uIR2B2kHRRI8nb) | [MYMP](https://open.spotify.com/artist/5elcNQkZ6FCZA3grSOMngY) | [Beyond Acoustic](https://open.spotify.com/album/0tH9g6Q7va9BzCY2pAFygZ) | 4:13 | 2022-04-19 |  |
 | [The Day You Said Goodnight](https://open.spotify.com/track/0HZ3OUVrGHxttD2EuHqRm3) | [Hale](https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN) | [Hale](https://open.spotify.com/album/472GgeFZaCdRLcL3cT0IAn) | 4:51 | 2022-04-19 |  |
 | [The Way You Look at Me](https://open.spotify.com/track/1C3wg8sCIPqpNQx0wAL4DC) | [Christian Bautista](https://open.spotify.com/artist/4U78sK2D3zASSB6oSR38GQ) | [Christian Bautista](https://open.spotify.com/album/0qEwvzXNVsPFK7eftFej7Q) | 3:27 | 2022-04-19 |  |

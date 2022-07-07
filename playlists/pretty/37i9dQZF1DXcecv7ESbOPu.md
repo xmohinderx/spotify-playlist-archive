@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,423 likes - 103 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,427 likes - 103 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 28 | [Demons and Dreams](https://open.spotify.com/track/0ZYD0qKZ1NVIGTg9vtOTv5) | [Anna Bergendahl](https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9) | [Demons and Dreams](https://open.spotify.com/album/0LTzYHbLhwTIejasBWoXv4) | 3:17 |
 | 29 | [I Know You Better](https://open.spotify.com/track/7soKhTgZkQSzUxfdVOZKnY) | [Lillasyster](https://open.spotify.com/artist/34uGMERnU9XHnmQDnK03Gj) | [I Know You Better](https://open.spotify.com/album/5OntbXcFVPOqy4z1w1HQWk) | 3:01 |
 | 30 | [Love You When You’re Gone](https://open.spotify.com/track/4a5a4NpPcsp8lKLjsGqks2) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Love You When You’re Gone](https://open.spotify.com/album/79tNM6qA2pbRsx7fXfXAG2) | 3:04 |
-| 31 | [Hard out Here](https://open.spotify.com/track/4cjJzTza5lCcSuFOKOzZ4U) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Hard out Here](https://open.spotify.com/album/3CoftMaewRZt7oW4cTMlv7) | 3:11 |
+| 31 | [Hard Out Here](https://open.spotify.com/track/4cjJzTza5lCcSuFOKOzZ4U) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Hard Out Here](https://open.spotify.com/album/3CoftMaewRZt7oW4cTMlv7) | 3:11 |
 | 32 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 |
 | 33 | [what would you do? \- Galantis Remix](https://open.spotify.com/track/7CNnr17XNq6rvU2LM3H7MD) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [what would you do? \(Galantis Remix\)](https://open.spotify.com/album/39ay2W7PKgxnECNDoSvqYu) | 2:41 |
 | 34 | [Questa Notte](https://open.spotify.com/track/7EmQW7a2TiPenEmv6nYfvI) | [Club Soda](https://open.spotify.com/artist/1sQ1gegnvsC0r1OVZHMq5r), [Purple Steel](https://open.spotify.com/artist/4TqiXlSz7ui1gwHeLyYRZt) | [Questa Notte](https://open.spotify.com/album/6zLyn4p0OlKbUhY7MKPY2r) | 2:54 |

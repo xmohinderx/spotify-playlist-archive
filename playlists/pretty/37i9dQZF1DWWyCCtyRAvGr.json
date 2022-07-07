@@ -1,32 +1,64 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 107873,
+  "num_followers": 108050,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA3MDU3NiwwMDAwMDAwMDNhZGQ5MmMwNjM0M2VjYTJjNzZkNWQ4OWNjZTYxOTA4",
+  "snapshot_id": "MTY1NzE1NjQzMCwwMDAwMDAwMDQzOTI1ODA3MjllNDgxNWQyYWRhMDIwNjQyZTQyMjQ0",
   "tracks": [
     {
       "added_at": "2022-07-01 17:26:58",
       "album": {
-        "name": "Bluesbreakers",
-        "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
+        "name": "Riding with the King",
+        "url": "https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu"
       },
       "artists": [
         {
-          "name": "John Mayall & The Bluesbreakers",
-          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
-        },
-        {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 212600,
-      "name": "All Your Love - Stereo",
-      "url": "https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0"
+      "duration_ms": 516533,
+      "name": "Three O'Clock Blues",
+      "url": "https://open.spotify.com/track/3gGKOVwsAVvwt9BcH3k18J"
+    },
+    {
+      "added_at": "2022-07-01 17:26:58",
+      "album": {
+        "name": "Make It Rain",
+        "url": "https://open.spotify.com/album/19oYKgecHcGwzChitj9GEJ"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "duration_ms": 401040,
+      "name": "Make It Rain",
+      "url": "https://open.spotify.com/track/0P1KkEJ2Po1qsK5HfP39wo"
+    },
+    {
+      "added_at": "2022-07-01 17:26:58",
+      "album": {
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/4gJDG1h0eFxWeYIVJsT8ks"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 175106,
+      "name": "I Loved Another Woman",
+      "url": "https://open.spotify.com/track/5Lh4aGwVSl2bBR4W5mBr9V"
     },
     {
       "added_at": "2022-07-01 17:26:58",
@@ -47,6 +79,22 @@
     {
       "added_at": "2022-07-01 17:26:58",
       "album": {
+        "name": "Step In",
+        "url": "https://open.spotify.com/album/3Ia0YigWnUyqgjoLgSnFCg"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "duration_ms": 155026,
+      "name": "Step In",
+      "url": "https://open.spotify.com/track/3NG5DtW4VQT7DjNzWtVNTy"
+    },
+    {
+      "added_at": "2022-07-01 17:26:58",
+      "album": {
         "name": "Delta Kream",
         "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
       },
@@ -59,26 +107,6 @@
       "duration_ms": 355434,
       "name": "Come on and Go with Me",
       "url": "https://open.spotify.com/track/7M9Bru9dH3gHSmx6c7bo7j"
-    },
-    {
-      "added_at": "2022-07-01 17:26:58",
-      "album": {
-        "name": "Whole World's Got The Blues (feat. Eric Gales)",
-        "url": "https://open.spotify.com/album/4WliYc7MYceRk1zwJMUNNE"
-      },
-      "artists": [
-        {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
-        },
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 333989,
-      "name": "Whole World's Got The Blues (feat. Eric Gales)",
-      "url": "https://open.spotify.com/track/36K7AYc1UyMyjPoV4c3ozR"
     },
     {
       "added_at": "2022-07-01 17:26:58",
@@ -103,86 +131,22 @@
     {
       "added_at": "2022-07-01 17:26:58",
       "album": {
-        "name": "Riding with the King",
-        "url": "https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu"
+        "name": "Bluesbreakers",
+        "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
       },
       "artists": [
+        {
+          "name": "John Mayall & The Bluesbreakers",
+          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+        },
         {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 516533,
-      "name": "Three O'Clock Blues",
-      "url": "https://open.spotify.com/track/3gGKOVwsAVvwt9BcH3k18J"
-    },
-    {
-      "added_at": "2022-07-01 17:26:58",
-      "album": {
-        "name": "Fleetwood Mac",
-        "url": "https://open.spotify.com/album/4gJDG1h0eFxWeYIVJsT8ks"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 175106,
-      "name": "I Loved Another Woman",
-      "url": "https://open.spotify.com/track/5Lh4aGwVSl2bBR4W5mBr9V"
-    },
-    {
-      "added_at": "2022-07-01 17:26:58",
-      "album": {
-        "name": "Make It Rain",
-        "url": "https://open.spotify.com/album/19oYKgecHcGwzChitj9GEJ"
-      },
-      "artists": [
-        {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
-        }
-      ],
-      "duration_ms": 401040,
-      "name": "Make It Rain",
-      "url": "https://open.spotify.com/track/0P1KkEJ2Po1qsK5HfP39wo"
-    },
-    {
-      "added_at": "2022-07-01 17:26:58",
-      "album": {
-        "name": "Step In",
-        "url": "https://open.spotify.com/album/3Ia0YigWnUyqgjoLgSnFCg"
-      },
-      "artists": [
-        {
-          "name": "Cedric Burnside",
-          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
-        }
-      ],
-      "duration_ms": 155026,
-      "name": "Step In",
-      "url": "https://open.spotify.com/track/3NG5DtW4VQT7DjNzWtVNTy"
-    },
-    {
-      "added_at": "2022-07-01 17:26:58",
-      "album": {
-        "name": "In The Night Time",
-        "url": "https://open.spotify.com/album/3dd5Y678XGzwSOSkDLYOrF"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 188142,
-      "name": "In The Night Time",
-      "url": "https://open.spotify.com/track/0S84XFY5CMmwDTTkbi08q4"
+      "duration_ms": 212600,
+      "name": "All Your Love - Stereo",
+      "url": "https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0"
     },
     {
       "added_at": "2022-07-01 17:26:58",
@@ -223,18 +187,38 @@
     {
       "added_at": "2022-07-01 17:26:58",
       "album": {
-        "name": "Colin James And The Little Big Band",
-        "url": "https://open.spotify.com/album/0emrpjJ9IbaBS6lc6FpaDm"
+        "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
+        "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
       },
       "artists": [
         {
-          "name": "Colin James",
-          "url": "https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j"
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
         }
       ],
-      "duration_ms": 368466,
-      "name": "Three Hours Past Midnight",
-      "url": "https://open.spotify.com/track/2foANcWBXIew7aBRUDaPuC"
+      "duration_ms": 295466,
+      "name": "Spoonful",
+      "url": "https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt"
+    },
+    {
+      "added_at": "2022-07-01 17:26:58",
+      "album": {
+        "name": "Whole World's Got The Blues (feat. Eric Gales)",
+        "url": "https://open.spotify.com/album/4WliYc7MYceRk1zwJMUNNE"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        },
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 333989,
+      "name": "Whole World's Got The Blues (feat. Eric Gales)",
+      "url": "https://open.spotify.com/track/36K7AYc1UyMyjPoV4c3ozR"
     },
     {
       "added_at": "2022-07-01 17:26:58",
@@ -255,38 +239,6 @@
     {
       "added_at": "2022-07-01 17:26:58",
       "album": {
-        "name": "The Complete Blue Horizon Sessions",
-        "url": "https://open.spotify.com/album/6N1tpNJcWopCVvXZ1M7Tb2"
-      },
-      "artists": [
-        {
-          "name": "Christine Perfect",
-          "url": "https://open.spotify.com/artist/1YTLOHyyXnaj7W1g1oSS56"
-        }
-      ],
-      "duration_ms": 189213,
-      "name": "I'm On My Way - Remastered Version",
-      "url": "https://open.spotify.com/track/4bumK8exgbZjFOSHtB1hIO"
-    },
-    {
-      "added_at": "2022-07-01 17:26:58",
-      "album": {
-        "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
-        "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 295466,
-      "name": "Spoonful",
-      "url": "https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt"
-    },
-    {
-      "added_at": "2022-07-01 17:26:58",
-      "album": {
         "name": "Mourning In The Morning",
         "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
       },
@@ -303,6 +255,38 @@
     {
       "added_at": "2022-07-01 17:26:58",
       "album": {
+        "name": "Colin James And The Little Big Band",
+        "url": "https://open.spotify.com/album/0emrpjJ9IbaBS6lc6FpaDm"
+      },
+      "artists": [
+        {
+          "name": "Colin James",
+          "url": "https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j"
+        }
+      ],
+      "duration_ms": 368466,
+      "name": "Three Hours Past Midnight",
+      "url": "https://open.spotify.com/track/2foANcWBXIew7aBRUDaPuC"
+    },
+    {
+      "added_at": "2022-07-01 17:26:58",
+      "album": {
+        "name": "In The Night Time",
+        "url": "https://open.spotify.com/album/3dd5Y678XGzwSOSkDLYOrF"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 188142,
+      "name": "In The Night Time",
+      "url": "https://open.spotify.com/track/0S84XFY5CMmwDTTkbi08q4"
+    },
+    {
+      "added_at": "2022-07-01 17:26:58",
+      "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
       },
@@ -315,22 +299,6 @@
       "duration_ms": 167360,
       "name": "I'm In The Mood",
       "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
-    },
-    {
-      "added_at": "2022-07-01 17:26:58",
-      "album": {
-        "name": "How Blue Can You Get",
-        "url": "https://open.spotify.com/album/3BPCyNp90t5O2e1kjWVrGR"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 436213,
-      "name": "How Blue Can You Get",
-      "url": "https://open.spotify.com/track/1quawSUUeGvIaVcClgEjJH"
     },
     {
       "added_at": "2022-07-01 17:26:58",
@@ -371,18 +339,98 @@
     {
       "added_at": "2022-07-01 17:26:58",
       "album": {
-        "name": "Pretty Flowers",
-        "url": "https://open.spotify.com/album/36sL4aJylgpblU33IoPKTx"
+        "name": "Freedom Flight",
+        "url": "https://open.spotify.com/album/7suTZDEkiDpzkouw300noM"
       },
       "artists": [
         {
-          "name": "Cedric Burnside",
-          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+          "name": "Shuggie Otis",
+          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
         }
       ],
-      "duration_ms": 171346,
-      "name": "Pretty Flowers",
-      "url": "https://open.spotify.com/track/33lJkuCOLUOJ3OvEa58eKY"
+      "duration_ms": 428680,
+      "name": "Purple",
+      "url": "https://open.spotify.com/track/510i2lQvSKIgFXVrq2Dg5Y"
+    },
+    {
+      "added_at": "2022-07-01 17:26:58",
+      "album": {
+        "name": "How Blue Can You Get",
+        "url": "https://open.spotify.com/album/3BPCyNp90t5O2e1kjWVrGR"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 436213,
+      "name": "How Blue Can You Get",
+      "url": "https://open.spotify.com/track/1quawSUUeGvIaVcClgEjJH"
+    },
+    {
+      "added_at": "2022-07-01 17:26:58",
+      "album": {
+        "name": "From Dusk Till Dawn - Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/1Fcl4xWU6qGvkJ45lg3TfK"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+        }
+      ],
+      "duration_ms": 383706,
+      "name": "Dengue Woman Blues",
+      "url": "https://open.spotify.com/track/3L8DnKNfRS3vv13t1E5jc3"
+    },
+    {
+      "added_at": "2022-07-01 17:26:58",
+      "album": {
+        "name": "The Complete Blue Horizon Sessions",
+        "url": "https://open.spotify.com/album/6N1tpNJcWopCVvXZ1M7Tb2"
+      },
+      "artists": [
+        {
+          "name": "Christine Perfect",
+          "url": "https://open.spotify.com/artist/1YTLOHyyXnaj7W1g1oSS56"
+        }
+      ],
+      "duration_ms": 189213,
+      "name": "I'm On My Way - Remastered Version",
+      "url": "https://open.spotify.com/track/4bumK8exgbZjFOSHtB1hIO"
+    },
+    {
+      "added_at": "2022-07-01 17:26:58",
+      "album": {
+        "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
+        "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
+      },
+      "artists": [
+        {
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        }
+      ],
+      "duration_ms": 215026,
+      "name": "Little Red Rooster",
+      "url": "https://open.spotify.com/track/3Gq3uFAdJltar4ddwboPby"
+    },
+    {
+      "added_at": "2022-07-01 17:26:58",
+      "album": {
+        "name": "The Best Of Freddie King: The Shelter Years",
+        "url": "https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 240466,
+      "name": "Reconsider Baby - Remastered",
+      "url": "https://open.spotify.com/track/5Avx6u0cFb5P0fL4qzijGC"
     },
     {
       "added_at": "2022-07-01 17:26:58",
@@ -403,18 +451,18 @@
     {
       "added_at": "2022-07-01 17:26:58",
       "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+        "name": "Blacksnake Blues",
+        "url": "https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz"
       },
       "artists": [
         {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
         }
       ],
-      "duration_ms": 167000,
-      "name": "Papa Ain't Salty",
-      "url": "https://open.spotify.com/track/1OGh5aeiGiNvuD37LiNN99"
+      "duration_ms": 674000,
+      "name": "Blacksnake Blues",
+      "url": "https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO"
     },
     {
       "added_at": "2022-07-01 17:26:58",
@@ -435,18 +483,38 @@
     {
       "added_at": "2022-07-01 17:26:58",
       "album": {
-        "name": "Blacksnake Blues",
-        "url": "https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz"
+        "name": "Something With Feel",
+        "url": "https://open.spotify.com/album/5iuYE1T3bzro4dvnA3Z5ln"
       },
       "artists": [
         {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+          "name": "Josh Teskey",
+          "url": "https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd"
+        },
+        {
+          "name": "Ash Grunwald",
+          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
         }
       ],
-      "duration_ms": 674000,
-      "name": "Blacksnake Blues",
-      "url": "https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO"
+      "duration_ms": 187447,
+      "name": "Something With Feel",
+      "url": "https://open.spotify.com/track/2BUhdEhT7D11OSPw38IxDG"
+    },
+    {
+      "added_at": "2022-07-01 17:26:58",
+      "album": {
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Papa Ain't Salty",
+      "url": "https://open.spotify.com/track/1OGh5aeiGiNvuD37LiNN99"
     },
     {
       "added_at": "2022-07-01 17:26:58",
@@ -471,102 +539,18 @@
     {
       "added_at": "2022-07-01 17:26:58",
       "album": {
-        "name": "The Best Of Freddie King: The Shelter Years",
-        "url": "https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY"
+        "name": "Pretty Flowers",
+        "url": "https://open.spotify.com/album/36sL4aJylgpblU33IoPKTx"
       },
       "artists": [
         {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
         }
       ],
-      "duration_ms": 240466,
-      "name": "Reconsider Baby - Remastered",
-      "url": "https://open.spotify.com/track/5Avx6u0cFb5P0fL4qzijGC"
-    },
-    {
-      "added_at": "2022-07-01 17:26:58",
-      "album": {
-        "name": "Freedom Flight",
-        "url": "https://open.spotify.com/album/7suTZDEkiDpzkouw300noM"
-      },
-      "artists": [
-        {
-          "name": "Shuggie Otis",
-          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
-        }
-      ],
-      "duration_ms": 428680,
-      "name": "Purple",
-      "url": "https://open.spotify.com/track/510i2lQvSKIgFXVrq2Dg5Y"
-    },
-    {
-      "added_at": "2022-07-01 17:26:58",
-      "album": {
-        "name": "Riding with the King",
-        "url": "https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 280453,
-      "name": "Ten Long Years",
-      "url": "https://open.spotify.com/track/4CayREZylZ5ij94y1v0zlc"
-    },
-    {
-      "added_at": "2022-07-01 17:26:58",
-      "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 318840,
-      "name": "Cold, Cold Feeling",
-      "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
-    },
-    {
-      "added_at": "2022-07-01 17:26:58",
-      "album": {
-        "name": "Heavy Load Blues (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2ZzQyza1rGp1AXsZ2SINRZ"
-      },
-      "artists": [
-        {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
-        }
-      ],
-      "duration_ms": 258680,
-      "name": "You Know My Love",
-      "url": "https://open.spotify.com/track/4ZHmUh8uIxHzAIeBdPg6mB"
-    },
-    {
-      "added_at": "2022-07-01 17:26:58",
-      "album": {
-        "name": "From Dusk Till Dawn - Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/1Fcl4xWU6qGvkJ45lg3TfK"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
-        }
-      ],
-      "duration_ms": 383706,
-      "name": "Dengue Woman Blues",
-      "url": "https://open.spotify.com/track/3L8DnKNfRS3vv13t1E5jc3"
+      "duration_ms": 171346,
+      "name": "Pretty Flowers",
+      "url": "https://open.spotify.com/track/33lJkuCOLUOJ3OvEa58eKY"
     },
     {
       "added_at": "2022-07-01 17:26:58",
@@ -619,58 +603,6 @@
     {
       "added_at": "2022-07-01 17:26:58",
       "album": {
-        "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
-        "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 215026,
-      "name": "Little Red Rooster",
-      "url": "https://open.spotify.com/track/3Gq3uFAdJltar4ddwboPby"
-    },
-    {
-      "added_at": "2022-07-01 17:26:58",
-      "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/2ygBH4zpXVlycVtYL5JqX9"
-      },
-      "artists": [
-        {
-          "name": "Tommy Castro",
-          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
-        }
-      ],
-      "duration_ms": 210253,
-      "name": "Somewhere",
-      "url": "https://open.spotify.com/track/0jXjGc3cD7aBihnOvXXN9A"
-    },
-    {
-      "added_at": "2022-07-01 17:26:58",
-      "album": {
-        "name": "Something With Feel",
-        "url": "https://open.spotify.com/album/5iuYE1T3bzro4dvnA3Z5ln"
-      },
-      "artists": [
-        {
-          "name": "Josh Teskey",
-          "url": "https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd"
-        },
-        {
-          "name": "Ash Grunwald",
-          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
-        }
-      ],
-      "duration_ms": 187447,
-      "name": "Something With Feel",
-      "url": "https://open.spotify.com/track/2BUhdEhT7D11OSPw38IxDG"
-    },
-    {
-      "added_at": "2022-07-01 17:26:58",
-      "album": {
         "name": "Hiding Place",
         "url": "https://open.spotify.com/album/7dcq4XdSEHjdkNkRokWx5D"
       },
@@ -683,38 +615,6 @@
       "duration_ms": 443160,
       "name": "Hiding Place",
       "url": "https://open.spotify.com/track/1W6xHj8Ic4p1QienSgdaFU"
-    },
-    {
-      "added_at": "2022-07-01 17:26:58",
-      "album": {
-        "name": "Wary + Strange",
-        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Fancy Drones (Fracture Me)",
-      "url": "https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj"
-    },
-    {
-      "added_at": "2022-07-01 17:26:58",
-      "album": {
-        "name": "Man Of My Word",
-        "url": "https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5"
-      },
-      "artists": [
-        {
-          "name": "Johnny Adams",
-          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
-        }
-      ],
-      "duration_ms": 280360,
-      "name": "This Time I'm Gone For Good",
-      "url": "https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18"
     },
     {
       "added_at": "2022-07-01 17:26:58",
@@ -751,6 +651,42 @@
     {
       "added_at": "2022-07-01 17:26:58",
       "album": {
+        "name": "Riding with the King",
+        "url": "https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 280453,
+      "name": "Ten Long Years",
+      "url": "https://open.spotify.com/track/4CayREZylZ5ij94y1v0zlc"
+    },
+    {
+      "added_at": "2022-07-01 17:26:58",
+      "album": {
+        "name": "Man Of My Word",
+        "url": "https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5"
+      },
+      "artists": [
+        {
+          "name": "Johnny Adams",
+          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
+        }
+      ],
+      "duration_ms": 280360,
+      "name": "This Time I'm Gone For Good",
+      "url": "https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18"
+    },
+    {
+      "added_at": "2022-07-01 17:26:58",
+      "album": {
         "name": "Funky Bitch / Ball and Chain",
         "url": "https://open.spotify.com/album/6hruIYWB1piw5DLSX1RN2K"
       },
@@ -771,34 +707,50 @@
     {
       "added_at": "2022-07-01 17:26:58",
       "album": {
-        "name": "Rock Island Line",
-        "url": "https://open.spotify.com/album/3WoHYiJLkjJ0ZsDKVG9NPh"
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
       },
       "artists": [
         {
-          "name": "Blues Delight",
-          "url": "https://open.spotify.com/artist/3t7lCLDraWpcK4U5TWUUdA"
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 285506,
-      "name": "Slightly Hung Over",
-      "url": "https://open.spotify.com/track/6I8EbSSjimK98wiDCMtnBQ"
+      "duration_ms": 318840,
+      "name": "Cold, Cold Feeling",
+      "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
     },
     {
       "added_at": "2022-07-01 17:26:58",
       "album": {
-        "name": "Love on the Rocks",
-        "url": "https://open.spotify.com/album/1GMBZjGm9SylBHR9VgtIJA"
+        "name": "Heavy Load Blues (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2ZzQyza1rGp1AXsZ2SINRZ"
       },
       "artists": [
         {
-          "name": "Lauren Anderson",
-          "url": "https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ"
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
         }
       ],
-      "duration_ms": 222826,
-      "name": "Love on the Rocks",
-      "url": "https://open.spotify.com/track/06naKf1yua8cwigjhWtOSz"
+      "duration_ms": 258680,
+      "name": "You Know My Love",
+      "url": "https://open.spotify.com/track/4ZHmUh8uIxHzAIeBdPg6mB"
+    },
+    {
+      "added_at": "2022-07-01 17:26:58",
+      "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/2ygBH4zpXVlycVtYL5JqX9"
+      },
+      "artists": [
+        {
+          "name": "Tommy Castro",
+          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
+        }
+      ],
+      "duration_ms": 210253,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/0jXjGc3cD7aBihnOvXXN9A"
     },
     {
       "added_at": "2022-07-01 17:26:58",
@@ -835,6 +787,38 @@
     {
       "added_at": "2022-07-01 17:26:58",
       "album": {
+        "name": "Wary + Strange",
+        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Fancy Drones (Fracture Me)",
+      "url": "https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj"
+    },
+    {
+      "added_at": "2022-07-01 17:26:58",
+      "album": {
+        "name": "Rock Island Line",
+        "url": "https://open.spotify.com/album/3WoHYiJLkjJ0ZsDKVG9NPh"
+      },
+      "artists": [
+        {
+          "name": "Blues Delight",
+          "url": "https://open.spotify.com/artist/3t7lCLDraWpcK4U5TWUUdA"
+        }
+      ],
+      "duration_ms": 285506,
+      "name": "Slightly Hung Over",
+      "url": "https://open.spotify.com/track/6I8EbSSjimK98wiDCMtnBQ"
+    },
+    {
+      "added_at": "2022-07-01 17:26:58",
+      "album": {
         "name": "Reconsider Baby",
         "url": "https://open.spotify.com/album/4A8C7S4wtpKwwNVdFDnEyL"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 190185,
       "name": "Reconsider Baby",
       "url": "https://open.spotify.com/track/0Ex94hahnMHF9f2c1sXh5o"
+    },
+    {
+      "added_at": "2022-07-01 17:26:58",
+      "album": {
+        "name": "One Scotch, One Bourbon, One Beer",
+        "url": "https://open.spotify.com/album/7uDIaa0VUbDhhEA4CkqNN6"
+      },
+      "artists": [
+        {
+          "name": "Delbert McClinton",
+          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
+        }
+      ],
+      "duration_ms": 192121,
+      "name": "One Scotch, One Bourbon, One Beer",
+      "url": "https://open.spotify.com/track/0l33ve0XHG5XxKwMQPKcZk"
     },
     {
       "added_at": "2022-07-01 17:26:58",

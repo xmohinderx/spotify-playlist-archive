@@ -1279,7 +1279,7 @@
       ],
       "date_added": "2021-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 163190,
       "name": "Ambiguous",
       "url": "https://open.spotify.com/track/5noZf2SS8GeokRdNKbocig"
@@ -1895,7 +1895,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 132235,
       "name": "Ascent",
       "url": "https://open.spotify.com/track/3Ygq0ec3IlNfBUCGW566Cx"
@@ -2849,7 +2849,7 @@
       ],
       "date_added": "2021-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 286250,
       "name": "Beneath Your Smile",
       "url": "https://open.spotify.com/track/4XnsaU3RkUS7o0nqLIUqW7"
@@ -4271,7 +4271,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 156000,
       "name": "Colorful Wind",
       "url": "https://open.spotify.com/track/4k5NwAqXwtNP17qUdVZD1Y"
@@ -6601,7 +6601,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 204874,
       "name": "Emotion",
       "url": "https://open.spotify.com/track/3Erp4addg6gNsxONhzMTff"
@@ -7711,7 +7711,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 224689,
       "name": "Fields of Gold",
       "url": "https://open.spotify.com/track/0x7k2hGRMup7V0Fh8nqlFg"
@@ -11035,7 +11035,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 167142,
       "name": "Initiate",
       "url": "https://open.spotify.com/track/0mMUZ5xaoT4BtioWcYoq1j"
@@ -11467,7 +11467,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 175058,
       "name": "Ivy",
       "url": "https://open.spotify.com/track/4TJ7yhDcJvODuiWbnsZrxt"
@@ -13523,7 +13523,7 @@
       ],
       "date_added": "2021-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 240546,
       "name": "Love Is About Daily Leaps",
       "url": "https://open.spotify.com/track/1Ja4NlTHvkVc45El8wpDHC"
@@ -17462,6 +17462,24 @@
     },
     {
       "album": {
+        "name": "Pour Vous",
+        "url": "https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD"
+      },
+      "artists": [
+        {
+          "name": "Pamela Goldings",
+          "url": "https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Pour Vous",
+      "url": "https://open.spotify.com/track/0yBjtQdUb2T281UIF5hUMU"
+    },
+    {
+      "album": {
         "name": "Prayer",
         "url": "https://open.spotify.com/album/2IatwBlE7ChSy18nh8aX3l"
       },
@@ -17761,7 +17779,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 119619,
       "name": "Radiant",
       "url": "https://open.spotify.com/track/5WAuzGamm8rl9rY0ZxTZ5h"
@@ -17833,7 +17851,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 165944,
       "name": "Raindrops in my heart",
       "url": "https://open.spotify.com/track/4dsIYysg4UCK4QmT71F5pW"
@@ -20783,7 +20801,7 @@
       ],
       "date_added": "2021-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 222148,
       "name": "Spring is Here",
       "url": "https://open.spotify.com/track/007RkHQBbTRHoX10qZbc5g"
@@ -20891,7 +20909,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 160000,
       "name": "Stars above",
       "url": "https://open.spotify.com/track/3Nlt0pHWgYWJQdkiNy0Kcf"
@@ -22421,7 +22439,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 157000,
       "name": "The Grass",
       "url": "https://open.spotify.com/track/0CMcbkaWuxxnfyaqjZWWGv"
@@ -25493,7 +25511,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 127260,
       "name": "We were the hook",
       "url": "https://open.spotify.com/track/5EcZL9ug4iU6C7Dqqfixgt"

@@ -2,7 +2,7 @@
 
 ### [Written By Sarah Aarons](https://open.spotify.com/playlist/37i9dQZF1EFzD9XKRPIjnv)
 
-> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JLbaF5wHm7PYeI06NPRsa">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
+> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JLbaF5wHm7PYeI06NPRsa">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
 118 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/3BP8AJXn7JtSS0hniQgsgr)
 

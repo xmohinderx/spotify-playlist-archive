@@ -4488,6 +4488,24 @@
     },
     {
       "album": {
+        "name": "St. Girlfriend",
+        "url": "https://open.spotify.com/album/6FwxID3XuZpc31zcqDQm5w"
+      },
+      "artists": [
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147259,
+      "name": "St. Girlfriend",
+      "url": "https://open.spotify.com/track/1nsjfntUpfBk7m11PENErT"
+    },
+    {
+      "album": {
         "name": "Strangers / History of Violence",
         "url": "https://open.spotify.com/album/0cQzfaeCuMomU3OfhzPEW7"
       },

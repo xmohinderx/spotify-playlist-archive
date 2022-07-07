@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists in the UK + Ireland. Cover: DellaXOZ",
+  "description": "The best new music by independent artists in the UK + Ireland. Cover: Nikhil Beats + Meron T",
   "name": "Fresh Finds UK & IE",
   "published_playlist_ids": [
     "7p7eF0LcucA5cLFCS6Cqce"
@@ -826,6 +826,24 @@
     },
     {
       "album": {
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/6Yr9GJw4aOdR0HCDTEjfAq"
+      },
+      "artists": [
+        {
+          "name": "Siobh\u00e1n",
+          "url": "https://open.spotify.com/artist/2baEkum1duFPLdhCttdTcp"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241909,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/28yw2fVqczsN9TCTmtpQ5L"
+    },
+    {
+      "album": {
         "name": "blocked",
         "url": "https://open.spotify.com/album/4Ui16oxKfYuIdRYqgWBLX1"
       },
@@ -917,6 +935,28 @@
       "duration_ms": 174857,
       "name": "Blooming",
       "url": "https://open.spotify.com/track/06RnC0JLSzmDyR7uww6DTG"
+    },
+    {
+      "album": {
+        "name": "BLUE ON BLUE!",
+        "url": "https://open.spotify.com/album/0TDELDnlk4V94HvF4dbwci"
+      },
+      "artists": [
+        {
+          "name": "Jaq Reidy",
+          "url": "https://open.spotify.com/artist/7HyrNI8HniywcfPRLpafvc"
+        },
+        {
+          "name": "V-Sensei",
+          "url": "https://open.spotify.com/artist/54TNhErYd4Tammcnr0qkat"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152267,
+      "name": "BLUE ON BLUE!",
+      "url": "https://open.spotify.com/track/6BjvSY4E0YIMpOHWVtBsy0"
     },
     {
       "album": {
@@ -1119,10 +1159,28 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 219009,
       "name": "Cancel",
       "url": "https://open.spotify.com/track/2wmdZeBUDSGiOkGmVihsk4"
+    },
+    {
+      "album": {
+        "name": "All Ears",
+        "url": "https://open.spotify.com/album/6WCCZQdKJyGFyJpILgdc9b"
+      },
+      "artists": [
+        {
+          "name": "Sadie Nencini",
+          "url": "https://open.spotify.com/artist/6eFRt2YgkUeiSzCm7UMC8W"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Cellotape",
+      "url": "https://open.spotify.com/track/06dHJ0No9a4TShSBKDkEtI"
     },
     {
       "album": {
@@ -1141,6 +1199,24 @@
       "duration_ms": 159600,
       "name": "Coca-cola",
       "url": "https://open.spotify.com/track/62cxDxb6w2bGzr4gYoZYEA"
+    },
+    {
+      "album": {
+        "name": "Come With Me",
+        "url": "https://open.spotify.com/album/5ly0DZzgkcClBzzttbUwOM"
+      },
+      "artists": [
+        {
+          "name": "Chloe Bodur",
+          "url": "https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232814,
+      "name": "Come With Me",
+      "url": "https://open.spotify.com/track/3Q3kB5uskRw5o1ffwFO3G0"
     },
     {
       "album": {
@@ -1728,6 +1804,24 @@
     },
     {
       "album": {
+        "name": "dreamhotel",
+        "url": "https://open.spotify.com/album/7H77IohlvhArgM45gFtA3C"
+      },
+      "artists": [
+        {
+          "name": "Jaydonclover",
+          "url": "https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142700,
+      "name": "dreamhotel",
+      "url": "https://open.spotify.com/track/0N06EpCJB2KxUyEtRQWkhQ"
+    },
+    {
+      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/5QTZrBgBPbCjskB6olU8Hg"
       },
@@ -1829,7 +1923,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 190769,
       "name": "Endless",
       "url": "https://open.spotify.com/track/287zVPLJpJ5rnSU0XuT0xO"
@@ -1962,6 +2056,28 @@
     },
     {
       "album": {
+        "name": "Face Your Demons",
+        "url": "https://open.spotify.com/album/1t2qfTYxxUKnDJ0c5pOMfG"
+      },
+      "artists": [
+        {
+          "name": "Nikhil Beats",
+          "url": "https://open.spotify.com/artist/25d9Hoz0jDoukw6aheL3OR"
+        },
+        {
+          "name": "Meron T",
+          "url": "https://open.spotify.com/artist/40jBR1w46zqDUfbVQttJrb"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191219,
+      "name": "Face Your Demons",
+      "url": "https://open.spotify.com/track/7Lvgoj5cLclEdg9ZRDpa5P"
+    },
+    {
+      "album": {
         "name": "Fake Friends",
         "url": "https://open.spotify.com/album/3lNbLCNpJD7geNjYKUeH5R"
       },
@@ -2049,6 +2165,24 @@
       "duration_ms": 199640,
       "name": "Felt Right",
       "url": "https://open.spotify.com/track/5uyez026HnBA2iyN9sSZvl"
+    },
+    {
+      "album": {
+        "name": "find my own",
+        "url": "https://open.spotify.com/album/2cenBSipkjyMHJgIgYYQqb"
+      },
+      "artists": [
+        {
+          "name": "half pipe",
+          "url": "https://open.spotify.com/artist/6Keq2jwJYu2E6TZaWOWm1X"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215730,
+      "name": "find my own",
+      "url": "https://open.spotify.com/track/7DIoU6IuR9y8RPkqAP0xMl"
     },
     {
       "album": {
@@ -2236,6 +2370,24 @@
     },
     {
       "album": {
+        "name": "Gay Space Cadets",
+        "url": "https://open.spotify.com/album/7feQUrbRRSuhhegsoYNY59"
+      },
+      "artists": [
+        {
+          "name": "Lande Hekt",
+          "url": "https://open.spotify.com/artist/3RU6wsoh0bm0gZFHJiYRmq"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153923,
+      "name": "Gay Space Cadets",
+      "url": "https://open.spotify.com/track/7H2CX9oBe0oRzNJVPXRLH3"
+    },
+    {
+      "album": {
         "name": "Gentle Romance",
         "url": "https://open.spotify.com/album/3PoSc1ElaxLbLk8QQaunBn"
       },
@@ -2363,7 +2515,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 203749,
       "name": "Girls Just Wanna Have Fun",
       "url": "https://open.spotify.com/track/1c2mNRegEJcJOXGhOphvfC"
@@ -2381,7 +2533,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 200890,
       "name": "Give Us A Break",
       "url": "https://open.spotify.com/track/7JCc5PMejSAvUgeOAJ9893"
@@ -2969,7 +3121,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 323320,
       "name": "Horizons",
       "url": "https://open.spotify.com/track/2n3Tqq4qL2HlcXWwXQhQ4e"
@@ -3135,6 +3287,24 @@
       "duration_ms": 236669,
       "name": "I hate myself in <3",
       "url": "https://open.spotify.com/track/0yweXXrfN9PGizKifL7A78"
+    },
+    {
+      "album": {
+        "name": "I Just Wana Love You",
+        "url": "https://open.spotify.com/album/4L7Y16bYU8qBFKvRixf0Ox"
+      },
+      "artists": [
+        {
+          "name": "Oktae",
+          "url": "https://open.spotify.com/artist/4PxFr57PZWOCVJ5HkJyaoD"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168837,
+      "name": "I Just Wana Love You",
+      "url": "https://open.spotify.com/track/7oE6G53UTW8SaWkziAFyE8"
     },
     {
       "album": {
@@ -3351,7 +3521,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 140487,
       "name": "Inmymind",
       "url": "https://open.spotify.com/track/3OPGQFWEj8psJRQjWwocsX"
@@ -3826,6 +3996,24 @@
     },
     {
       "album": {
+        "name": "LONG TERM PARKING",
+        "url": "https://open.spotify.com/album/0PT0jL8kzWpJs43y2oWMzu"
+      },
+      "artists": [
+        {
+          "name": "Luke RV",
+          "url": "https://open.spotify.com/artist/4q7ILdeeWJ4NqBtYp0l7Yd"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162797,
+      "name": "LONG TERM PARKING",
+      "url": "https://open.spotify.com/track/1oG8QZlA2QqBHWsen9oM6e"
+    },
+    {
+      "album": {
         "name": "Lose My Cool",
         "url": "https://open.spotify.com/album/38JDB1i7v5W2eba1E2Jt1E"
       },
@@ -4079,7 +4267,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 263373,
       "name": "Lucid",
       "url": "https://open.spotify.com/track/45YkWTC05xZw4CDs4FSnZc"
@@ -5613,7 +5801,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 231050,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/0SCmpcUDoj5LfhH0vuEJnx"
@@ -5779,7 +5967,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 216760,
       "name": "Scatterbrain",
       "url": "https://open.spotify.com/track/4kmrEuWDrTEwxhtpH6Sxat"
@@ -6223,7 +6411,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 120065,
       "name": "Split Screens",
       "url": "https://open.spotify.com/track/3Z3UZSLGpkhh6ITZMo012l"
@@ -6426,6 +6614,24 @@
     },
     {
       "album": {
+        "name": "Sura",
+        "url": "https://open.spotify.com/album/3r47uQdiWwA8dHX2EmonY5"
+      },
+      "artists": [
+        {
+          "name": "Exit Kid",
+          "url": "https://open.spotify.com/artist/5ggEk1sdRrzR2Kv75GRfBZ"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174815,
+      "name": "Sura",
+      "url": "https://open.spotify.com/track/5egctqUYlU2gA8cStCmX3s"
+    },
+    {
+      "album": {
         "name": "Sweet",
         "url": "https://open.spotify.com/album/1wtiw0JTmAo2Tr4fzzA7mq"
       },
@@ -6570,6 +6776,24 @@
     },
     {
       "album": {
+        "name": "Tell Me Something",
+        "url": "https://open.spotify.com/album/2MWOBKDpij8B0V9jzGUAMg"
+      },
+      "artists": [
+        {
+          "name": "Charlie Bennett",
+          "url": "https://open.spotify.com/artist/0tvXkCpAjbDBWXXnYBE9wG"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144411,
+      "name": "Tell Me Something",
+      "url": "https://open.spotify.com/track/5kbVOO1E549qD31ziG92T1"
+    },
+    {
+      "album": {
         "name": "That's My Girl",
         "url": "https://open.spotify.com/album/3yTw9o8gB8XKALrQUmFX8f"
       },
@@ -6599,7 +6823,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 135781,
       "name": "That's Why, Save Me",
       "url": "https://open.spotify.com/track/0IUugunYSIbxbnDrqIj7P0"
@@ -7419,7 +7643,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 185664,
       "name": "Young Excitement",
       "url": "https://open.spotify.com/track/7j1Nb5NnkHQ2VpdJ0er2rU"

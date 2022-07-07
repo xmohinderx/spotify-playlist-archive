@@ -2,7 +2,7 @@
 
 ### [Written By Jessie Reyez](https://open.spotify.com/playlist/37i9dQZF1EFDdN3ZRC5EmY)
 
-> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/20GjXoOdMhodfDMvSdh6mm">Jessie Reyez</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
+> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/20GjXoOdMhodfDMvSdh6mm">Jessie Reyez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
 61 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/2GDbC2D3KKrQLryFm8sE5m)
 

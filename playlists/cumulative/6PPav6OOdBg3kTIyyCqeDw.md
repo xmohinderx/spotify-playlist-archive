@@ -4,7 +4,7 @@
 
 > A collection of Hip Hop hits and viral trends featuring Lil Baby, J.Cole, Doechii &amp; more\. Updated weekly!  Cover: City Girls
 
-60 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/2zScgyaDadcbUzlRPfgGJu)
+61 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/2zScgyaDadcbUzlRPfgGJu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Father Time \(feat\. Sampha\)](https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:42 | 2022-05-31 | 2022-06-30 |
 | [Feelings \(feat\. EST Gee & Rick Ross\)](https://open.spotify.com/track/5sLibBUm0ES1LOuy5fEbHj) | [DaBoyDame](https://open.spotify.com/artist/53EmQSV3tRYsAlmM6kElwL), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Feelings](https://open.spotify.com/album/6swRWFCjGxpLBvdD5t25JV) | 2:45 | 2022-05-31 |  |
 | [Freedom of Speech \(with J\. Cole\)](https://open.spotify.com/track/5pQZullzXsixizZmBcmXhy) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 2:11 | 2022-05-31 |  |
+| [Good Love \(feat\. Usher\)](https://open.spotify.com/track/52JFc40b28XJDROR3c4uAr) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Good Love \(feat\. Usher\)](https://open.spotify.com/album/0OhW9KGuhEaWt5kt9s5qKf) | 3:52 | 2022-07-05 |  |
 | [Gët Busy](https://open.spotify.com/track/20O48JTG6O46tPAuZbliRA) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:37 | 2022-05-31 |  |
 | [Headshots \(4r Da Locals\)](https://open.spotify.com/track/2rFTRICumonxxZKxxfEu8R) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Headshots \(4r Da Locals\)](https://open.spotify.com/album/2gGoV7NU9CdWtNhIcvUKQ1) | 3:13 | 2022-05-31 |  |
 | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy) | 2:22 | 2022-05-31 |  |

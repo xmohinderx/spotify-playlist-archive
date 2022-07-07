@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-66 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/7t8EXLKd9MB1gi8kmzd2kR)
+67 songs - 3 hr 25 min - [published](https://open.spotify.com/playlist/7t8EXLKd9MB1gi8kmzd2kR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Incorrect](https://open.spotify.com/track/4ytbLcGPlrnniNHxKOCV5u) | [Otira](https://open.spotify.com/artist/0rEj1VGJGJIxCn3H9B3kWb) | [Pill EP](https://open.spotify.com/album/4kvK5arUig0hxgylXxdKR8) | 2:54 | 2022-05-06 |  |
 | [Kanos](https://open.spotify.com/track/7DjifpgNrYVPKFcrb6vzqr) | [Heimanu](https://open.spotify.com/artist/01mvWXVNW6Gz5Oxf6bQrtM) | [Kanos](https://open.spotify.com/album/4ziuSY0MpYg3UwNoGqv5uf) | 3:36 | 2022-05-06 |  |
 | [Lights Out](https://open.spotify.com/track/0piqEtzcndLn6q4FTZMYGB) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [Psycho Boys Club](https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu) | [Lights Out](https://open.spotify.com/album/699pfQZ7g6XRHPeTC6Oxf0) | 3:18 | 2022-05-06 |  |
-| [Like It How It Is](https://open.spotify.com/track/2RisShAmmnAgsYcI659wgv) | [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Like It How It Is](https://open.spotify.com/album/0e5igAhmesSJMLTWr7nV1D) | 3:36 | 2022-05-06 |  |
+| [Like It How It Is](https://open.spotify.com/track/2RisShAmmnAgsYcI659wgv) | [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Like It How It Is](https://open.spotify.com/album/0e5igAhmesSJMLTWr7nV1D) | 3:36 | 2022-05-06 | 2022-07-07 |
 | [Long Way Down](https://open.spotify.com/track/4Gn8upxtpncAQRBaqhYBGz) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83) | [Long Way Down](https://open.spotify.com/album/3iDpry2d331nweoBhOJMTm) | 3:36 | 2022-07-01 |  |
 | [Loving You Kills Me](https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Loving You Kills Me](https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60) | 2:54 | 2022-05-06 | 2022-06-25 |
 | [Make Up Your Mind \(feat\. Jaden Michaels\)](https://open.spotify.com/track/4wVC0NP6WG1sTj29sIb6sR) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Jaden Michaels](https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs) | [Make Up Your Mind \(feat\. Jaden Michaels\)](https://open.spotify.com/album/22XrjW9n4gShkJVDP7YJEE) | 3:38 | 2022-05-06 |  |
@@ -72,6 +72,7 @@
 | [Tear You Apart \(feat\. Aaron Gillespie\)](https://open.spotify.com/track/3p7IU6JT6C0gBs6YXCrLwx) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Tear You Apart \(feat\. Aaron Gillespie\)](https://open.spotify.com/album/6YkRHSL3FzJR0KRNPMYm2r) | 2:23 | 2022-05-06 |  |
 | [Under Pressure \(feat\. Dani King\)](https://open.spotify.com/track/317fuhJ0JKXQetp2ArD8L9) | [Kamas](https://open.spotify.com/artist/0HwWTf9vdcVii8ly6BP6M2), [RENN](https://open.spotify.com/artist/5avSbzlS5gKrlQ4uc718jA), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Under Pressure \(feat\. Dani King\)](https://open.spotify.com/album/4oz3RAbrJPvTB4B8dv3CFD) | 3:52 | 2022-06-24 |  |
 | [Welcome to the Playhouse](https://open.spotify.com/track/1qXTtWP0sNcePb3tT2eHWL) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Welcome to the Playhouse](https://open.spotify.com/album/6hhEQkw3cuI1HQ61Xma7Cy) | 3:08 | 2022-05-06 |  |
+| [Wild Nights](https://open.spotify.com/track/5ZUgzZBOQmi8ARjnJckxeP) | [Axsara](https://open.spotify.com/artist/7dAmxDhUmmH7sVxpsxQC53) | [Wild Nights](https://open.spotify.com/album/3eh0EMLQ9M42KHXZ6If1bw) | 2:15 | 2022-07-06 |  |
 | [Wild Things](https://open.spotify.com/track/7KRW2oPclZY26GJCa8zYQG) | [SUNDRESS](https://open.spotify.com/artist/4QLFBPW2qkQiYUv9yL3wwn), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Wild Things](https://open.spotify.com/album/58IBI9deFJ3VDvZv6Z7CMT) | 4:00 | 2022-05-06 |  |
 | [Woke Up Feeling Good \(feat\. Savage\)](https://open.spotify.com/track/6y2CAqnt5ZyrwOC7NDoWGw) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [Woke Up Feeling Good \(feat\. Savage\)](https://open.spotify.com/album/1aJRxY9BMTN8SXC97rvKov) | 3:38 | 2022-05-06 |  |
 

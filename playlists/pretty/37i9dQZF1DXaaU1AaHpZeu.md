@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Malamala.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,253 likes - 54 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,291 likes - 54 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 12 | [una noche más](https://open.spotify.com/track/1dPEa2aLLllLJqZKPHPIqh) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g), [Ire](https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI) | [una noche más](https://open.spotify.com/album/3BjVNfIkYtuDYvEr9c5ODS) | 2:38 |
 | 13 | [Cicatriz](https://open.spotify.com/track/1rg5jQyjIOLDVY1pVIvAp2) | [Garam Masala](https://open.spotify.com/artist/3JlX9Dlq4LVxmGvELFbqr3), [El Viaje de Lázaro](https://open.spotify.com/artist/5BaL7UhFbZfIv7FzOD9so0) | [Cicatriz](https://open.spotify.com/album/17UCqNgvn8qTeRvQK8NNk8) | 4:13 |
 | 14 | [CICLICO](https://open.spotify.com/track/6YjKo5AYLbFFvbM81gy0Q1) | [Sr\. Chen](https://open.spotify.com/artist/6GqSICEGHY2MW8mgwYzz5Q), [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [CICLICO](https://open.spotify.com/album/46K9HN8y4tuoCZHvAUo9pr) | 2:59 |
-| 15 | [palta limón](https://open.spotify.com/track/5AmUkbPOtCr3ert3uYRJkr) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg), [risko](https://open.spotify.com/artist/76S9tWvZEynS5QanzUkkjw) | [palta limón](https://open.spotify.com/album/0lSp7jkR5gSblA2u414R4q) | 1:09 |
+| 15 | [palta limón](https://open.spotify.com/track/5AmUkbPOtCr3ert3uYRJkr) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [palta limón](https://open.spotify.com/album/0lSp7jkR5gSblA2u414R4q) | 1:09 |
 | 16 | [Esta Misma Sensación de Soledad](https://open.spotify.com/track/3MVC2ROvHb11SlT8mrbvyr) | [McEnroe](https://open.spotify.com/artist/6t17pv2Q9w9ybTC0Ty5Sq2), [Jimena](https://open.spotify.com/artist/0VoTicEedd2WOZheS8tK93) | [Veinte](https://open.spotify.com/album/3Ve8r7SaMXylSAPGRaHjcs) | 3:30 |
 | 17 | [Ojalá No Sea Verdad](https://open.spotify.com/track/0CBi8halgBp9zl2Nme8Ci3) | [Maren](https://open.spotify.com/artist/1dQFUUeoS0srP2hNrmzj5L) | [Ojalá No Sea Verdad](https://open.spotify.com/album/4TgBa71N7dcCzrS4vK5Hyj) | 2:56 |
 | 18 | [Piel de Chocolate](https://open.spotify.com/track/5XQh4vwyqX76llZj3rC3wr) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ), [Rulo](https://open.spotify.com/artist/1hESVb5p8cUHjbj9YzfklQ) | [Piel de Chocolate](https://open.spotify.com/album/5g1fEzk22bhr46WFzg7pRw) | 3:37 |

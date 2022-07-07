@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 
 > Listen to women from Belgium, at full volume\. Cover: WAYI
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,646 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,655 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

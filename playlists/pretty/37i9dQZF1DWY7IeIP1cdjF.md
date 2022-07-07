@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 
 > Reggaeton hits from J balvin, Ryan Castro, Natti Natasha, Bad Bunny, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,514,207 likes - 52 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,514,995 likes - 52 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

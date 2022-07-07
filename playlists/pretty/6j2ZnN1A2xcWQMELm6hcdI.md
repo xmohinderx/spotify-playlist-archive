@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6j2ZnN1A2xcWQMELm6hcdI.md) - [plain]
 
 > On Fleek: Adj\. 1\) a state of completeness and flawlessness \[see: <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\].
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 353,709 likes - 131 songs - 6 hr 26 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 353,638 likes - 131 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/6j2ZnN1A2xcWQMELm6hcdI.md) - [plain]
 | 12 | [Surprise](https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Surprise](https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb) | 2:35 |
 | 13 | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS) | 4:10 |
 | 14 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 |
-| 15 | [Hard out Here](https://open.spotify.com/track/4cjJzTza5lCcSuFOKOzZ4U) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Hard out Here](https://open.spotify.com/album/3CoftMaewRZt7oW4cTMlv7) | 3:11 |
+| 15 | [Hard Out Here](https://open.spotify.com/track/4cjJzTza5lCcSuFOKOzZ4U) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Hard Out Here](https://open.spotify.com/album/3CoftMaewRZt7oW4cTMlv7) | 3:11 |
 | 16 | [Lower](https://open.spotify.com/track/4CQAcnsINylLDrhmB1HNJt) | [Big Jade](https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od) | [Lower](https://open.spotify.com/album/5ivFW60jaUHbkhdovHXKGr) | 1:52 |
 | 17 | [KI\-KI](https://open.spotify.com/track/3Yu5XohK3sDfSg5os4ARFm) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [KI\-KI](https://open.spotify.com/album/5UcTxoImmX1zOTnk0AvKD1) | 2:21 |
 | 18 | [NO MIENTEN](https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [NO MIENTEN](https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw) | 2:27 |

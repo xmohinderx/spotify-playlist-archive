@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats, twenty four seven.
 
-[Spotify](https://open.spotify.com/user/spotify) - 954,198 likes - 500 songs - 19 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 954,296 likes - 500 songs - 19 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,7 +145,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 135 | [Last Time](https://open.spotify.com/track/08WUibKNfFF4WfG41D4PtG) | [BIDØ](https://open.spotify.com/artist/7HSBpX7fVOinHb9CNcL6Qe) | [Last Time](https://open.spotify.com/album/2ZE03YO8AarncGggsEqlUM) | 2:23 |
 | 136 | [generic](https://open.spotify.com/track/3D1il7pXKNoEOkpIsXv1JO) | [bennya](https://open.spotify.com/artist/5JBnR1eBGJOvshIAGcmPXR), [One Million Flowers](https://open.spotify.com/artist/4wG9asMejSEaInbXHnc3Zm), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [generic](https://open.spotify.com/album/3mgxihXn1zkx4l5tZbsV1L) | 1:25 |
 | 137 | [I am Loving \- Spotify Singles](https://open.spotify.com/track/4IJsomqPm1O6fVPkRlP2n3) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Bluewerks: Spotify Singles](https://open.spotify.com/album/1PgcGR5YoK6f0BT00xD9LP) | 2:15 |
-| 138 | [Yestardays](https://open.spotify.com/track/2lJPaHVoe2GIBPu2ww3x01) | [KOHEI YOSHII](https://open.spotify.com/artist/3uO4RRkSXyaak1AaakNvsG), [Komachi](https://open.spotify.com/artist/1YbhKgwdkxuEC6pTyhXTBr), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [City Lights](https://open.spotify.com/album/3i29Rz5lAlqjjq3txARRRi) | 2:09 |
+| 138 | [Yesterdays](https://open.spotify.com/track/2lJPaHVoe2GIBPu2ww3x01) | [KOHEI YOSHII](https://open.spotify.com/artist/3uO4RRkSXyaak1AaakNvsG), [Komachi](https://open.spotify.com/artist/1YbhKgwdkxuEC6pTyhXTBr), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [City Lights](https://open.spotify.com/album/3i29Rz5lAlqjjq3txARRRi) | 2:09 |
 | 139 | [Umami](https://open.spotify.com/track/2awWBD8K1asrfUelSJFui5) | [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu) | [Umami](https://open.spotify.com/album/4w7ZPcOG6mUb4CTLOSywB2) | 1:59 |
 | 140 | [Good Times](https://open.spotify.com/track/3TQWfUf2Xe99d93tSyC6Gs) | [Loodwig](https://open.spotify.com/artist/7zLCueWV49iUQ2MwVOx12y) | [Good Times](https://open.spotify.com/album/0BAYEKipO0viW6ibBlADlK) | 1:53 |
 | 141 | [Juicy](https://open.spotify.com/track/3rqr7RAZhVMHGF0HxWXpeR) | [Horscht](https://open.spotify.com/artist/6xUv3alLm8Tv5pOqQAhXfk), [Harry Hawaii](https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA) | [Juicy](https://open.spotify.com/album/0wRN7xIM0aLXx8ClTJUj3g) | 2:41 |

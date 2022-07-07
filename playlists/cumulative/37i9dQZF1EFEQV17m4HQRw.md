@@ -2,9 +2,9 @@
 
 ### [Written By Jotta A](https://open.spotify.com/playlist/37i9dQZF1EFEQV17m4HQRw)
 
-> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2AwZEdm5C3ZwyVr3E1j91g">Jotta A</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
+> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2AwZEdm5C3ZwyVr3E1j91g">Jotta A</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-35 songs - 2 hr 48 min - [published](https://open.spotify.com/playlist/6dTFXcnLrARpscFUnvjlWD)
+36 songs - 2 hr 51 min - [published](https://open.spotify.com/playlist/6dTFXcnLrARpscFUnvjlWD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Aguenta Coração](https://open.spotify.com/track/3O3QlOVC1iRmpx7NYg42zY) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Aguenta Coração](https://open.spotify.com/album/6A3lDsk7ulbP2rdHlxulBG) | 4:33 | 2022-06-04 |  |
 | [Altar da Graça](https://open.spotify.com/track/3kKsYXQevowt1FwbP8Fvac) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Recomeçar](https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz) | 5:29 | 2022-06-04 |  |
 | [Amor Impetuoso](https://open.spotify.com/track/6mnaqZnMNWgNsRKpfQxBYY) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Muéstrame Tu Gloria](https://open.spotify.com/album/1hdMxcb2eRzIuD2YJuDFTb) | 6:26 | 2022-06-04 |  |
+| [Apollo 11](https://open.spotify.com/track/2rtrHYY3AyUlpAB8M4GSAC) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Apollo 11](https://open.spotify.com/album/2twRkiHWXubukZhe4kp7cm) | 3:13 | 2022-07-06 |  |
 | [Aventurero](https://open.spotify.com/track/4ZwgnxVK1fxr58BEVo5sZ8) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Aventurero](https://open.spotify.com/album/6bWDNm3rA6TGfOLP9bB0pP) | 3:26 | 2022-06-04 |  |
 | [El Camino](https://open.spotify.com/track/4oiAtbB2nWywnV6VaR5Fug) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Muéstrame Tu Gloria](https://open.spotify.com/album/1hdMxcb2eRzIuD2YJuDFTb) | 4:07 | 2022-06-04 |  |
 | [Ele Vem](https://open.spotify.com/track/2OQzta0fwH98eh2n6XGXRK) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Recomeçar](https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz) | 4:19 | 2022-06-04 |  |

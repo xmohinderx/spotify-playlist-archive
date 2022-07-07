@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Sam Johnston \| Visual Artist: Bailey Elder
 
-122 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/4p9gFX9hA25IbWFzEcHGmF)
+127 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/4p9gFX9hA25IbWFzEcHGmF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Always](https://open.spotify.com/track/3jVPlnU47tQ8BliJP1OJK7) | [Moonshine](https://open.spotify.com/artist/64eJiqZ2OpEb1jVDCJZCHo) | [For Bright & Rainy Days](https://open.spotify.com/album/45idJVyvsxxn46AILV1U8P) | 2:30 | 2022-05-25 |  |
 | [Annabelle](https://open.spotify.com/track/7GN35uwIchdiu3DYzs3ww8) | [Ezra Cohen](https://open.spotify.com/artist/3lSPpu8avSeLARTWBwXHIu) | [The Sweet Million](https://open.spotify.com/album/4uBii111vRz7Z1nf6KdiPE) | 4:02 | 2022-05-25 | 2022-06-16 |
 | [As We Grow](https://open.spotify.com/track/12btFuZanH59cT0xgA50KD) | [Sleeplore](https://open.spotify.com/artist/6rXftKyPJ4l0HBCP016gHE) | [As We Grow](https://open.spotify.com/album/3ss5ypOjR34yuVCD1CsuNP) | 4:43 | 2022-05-25 | 2022-06-30 |
+| [At Least](https://open.spotify.com/track/2UkWIXrZvKBXueAYobCKY7) | [Bec Sykes](https://open.spotify.com/artist/4VVb7e7KgVkt99sSvdxSL2) | [At Least](https://open.spotify.com/album/1Vs8Duk5wpXcy3P4Rgmd7Q) | 3:54 | 2022-07-06 |  |
 | [Before The Flowers Bloom](https://open.spotify.com/track/0Y7dY53mgilO5S4ELa6lzD) | [Sean Thompson's Weird Ears](https://open.spotify.com/artist/6NWoTJEipAFa5ZYDQNut5c) | [Before The Flowers Bloom](https://open.spotify.com/album/6yOE83I3FJ6dt791tCTPU1) | 4:23 | 2022-05-25 |  |
 | [Black & Blue](https://open.spotify.com/track/4mOLUW7Im4QEvBGA3dfbNq) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk) | [Fruit from the Trees](https://open.spotify.com/album/0TuAocqQPGkAMpdXsaWJxO) | 3:00 | 2022-05-25 |  |
 | [Black Lake](https://open.spotify.com/track/0CoSJeJPeotaraesHiqIZE) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [Black Lake](https://open.spotify.com/album/3rAvZ5XEICgTeuyid3dl87) | 2:56 | 2022-05-25 |  |
@@ -44,6 +45,7 @@
 | [Fear of flying](https://open.spotify.com/track/0segsxWN3hD8MCmfdjipSb) | [Dissimilar South](https://open.spotify.com/artist/6P7ZagxXhdNsDPYFZ4tKKr) | [Tricky Things](https://open.spotify.com/album/5ggWqwML1X6enjuFs9zbLB) | 3:54 | 2022-05-25 |  |
 | [Find Her in the Grass](https://open.spotify.com/track/0QpgXknYVO9nf0zRDZXAgY) | [Iona Zajac](https://open.spotify.com/artist/5XIL7iEbCKJIz14Gqd58Y7) | [Find Her in the Grass](https://open.spotify.com/album/3TBnIxX2ZjZTZXeq1w8bMn) | 3:27 | 2022-05-25 |  |
 | [Fisherman's Daughter](https://open.spotify.com/track/1tyTGY9MsV9gfzvXMStcFy) | [Violet Bell](https://open.spotify.com/artist/2oIi5WqUQeW84eOt1rxDt8) | [Fisherman's Daughter](https://open.spotify.com/album/0KGa55D0qk0W0bU9M8pLUe) | 3:40 | 2022-06-29 |  |
+| [For a Chisos Bluebonnet](https://open.spotify.com/track/79DLi2SKfGFmaHMc9MJFoQ) | [Eli Winter](https://open.spotify.com/artist/2g4lvjVSHVht7kc9nKgH11) | [For a Chisos Bluebonnet](https://open.spotify.com/album/61qBy2nsFPnV03mWt5XyWD) | 3:48 | 2022-07-06 |  |
 | [For a While](https://open.spotify.com/track/0dOqNypDARpu7J5G9VAJTj) | [Sam Johnston](https://open.spotify.com/artist/2r9XQHlnMp4d7VdIAw0Iyl), [Emma Klein](https://open.spotify.com/artist/7hbsjraQ0ce8UcmoWVoIe8) | [Cannonball](https://open.spotify.com/album/68zFieWNa4ExhAaW7aANn0) | 4:33 | 2022-06-29 |  |
 | [Game of Chance \(By Another Name\)](https://open.spotify.com/track/6yanRjxcYvnZaCQtvryvDe) | [PM Warson](https://open.spotify.com/artist/7DTApEkTcmjUQlXBfQgNPK) | [Dig Deep Repeat](https://open.spotify.com/album/6NMPRZcCf1jislUlYea6C9) | 3:53 | 2022-05-25 |  |
 | [Gears](https://open.spotify.com/track/35qU5mjy7UAECL08FPvf3P) | [Joshua Quimby](https://open.spotify.com/artist/1fH3yHATnmsvIirfFNmlf0) | [Gears](https://open.spotify.com/album/1GEMoOp1Bmmkx61cRKKt7J) | 3:35 | 2022-05-25 |  |
@@ -52,6 +54,7 @@
 | [Girl, Where You From?](https://open.spotify.com/track/5u8qS9iAzZnN2IX8a0FJla) | [Hannah Juanita](https://open.spotify.com/artist/4BhOvUyS23JWzGZC7j3GbE) | [Girl, Where You From?](https://open.spotify.com/album/6rxzQpqai89nss1eaRGkPY) | 3:05 | 2022-05-25 |  |
 | [Golden Days](https://open.spotify.com/track/4x5eSlJFBtydPHRe9v8d95) | [Cristóvam](https://open.spotify.com/artist/7p23ERQPaBJU2W0gguMNTi) | [Golden Days](https://open.spotify.com/album/3i4USi3EoleRAhV845SrUD) | 3:30 | 2022-05-25 | 2022-06-30 |
 | [Golden Spoon](https://open.spotify.com/track/5TtUQ2fh1JzntGcB3mA54l) | [Bats](https://open.spotify.com/artist/4iuECUfKK1Iulmgxt5MObO) | [Blue Cabinet](https://open.spotify.com/album/4qW90vfNhN8R9H1OUhFLfD) | 4:04 | 2022-05-25 |  |
+| [Good Day](https://open.spotify.com/track/3qW6lXdFrLkSanoArN8zPV) | [Titus Haug](https://open.spotify.com/artist/6o4vReQTCjhgC1xdMoF7fC) | [Shaky Sighs](https://open.spotify.com/album/58PabTqxgl7IKs2zlfOIF0) | 1:39 | 2022-07-06 |  |
 | [Good News](https://open.spotify.com/track/5Y7ugIjqNhXOrNdn1vwaqi) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Communion](https://open.spotify.com/album/2hOmwGT0EmeHFHJrGS2ACL) | 2:46 | 2022-05-25 | 2022-06-16 |
 | [Grace](https://open.spotify.com/track/7b4xy7sXBPAK9HjjvBDmuM) | [quiet thrill](https://open.spotify.com/artist/12RDiJVAG0NYcJPRVi6bRG), [Joel Ansett](https://open.spotify.com/artist/49IjdVEbQcukWy36sdRMzl), [Dan DeCristofaro](https://open.spotify.com/artist/7gJTGHDvybr4Gsf8xwwY11) | [Grace](https://open.spotify.com/album/7iiIyG1WxODTBVH6h9Utzp) | 2:53 | 2022-05-25 | 2022-06-16 |
 | [Hand Me Down Heart](https://open.spotify.com/track/1a8UNyXbcnw9AyRZOdRDVJ) | [Szlachetka](https://open.spotify.com/artist/5W1NyzTRgZn8sG1Wza45cL) | [Hand Me Down Heart](https://open.spotify.com/album/26Z4IiZEvJtd1n4gagQ8qu) | 3:07 | 2022-05-25 | 2022-06-16 |
@@ -84,6 +87,7 @@
 | [Many Moons](https://open.spotify.com/track/0odsUykrr3MbtIDdxxJBnn) | [Victor Mucho](https://open.spotify.com/artist/6uV2cOu6PbLzYNQyxPo9iu) | [Moonlight in Visby](https://open.spotify.com/album/0vonzQ2JLELebfzlmI18RX) | 4:45 | 2022-05-25 |  |
 | [Married to the Ground](https://open.spotify.com/track/24agh4Z8pYY8F8h0cpm3IM) | [Glitterfox](https://open.spotify.com/artist/7sTGtcslsxEgrgfLdmuwgJ) | [Night](https://open.spotify.com/album/1VpIs4nLopmtNMLLDllupH) | 3:41 | 2022-05-25 |  |
 | [Mary](https://open.spotify.com/track/5mPfliRSVA7EXhHuJLfFz9) | [Sydney Layne](https://open.spotify.com/artist/6gCW563dCbPKR1ma9HULIl) | [Mary](https://open.spotify.com/album/19GC6OUNJwtNE8yb7BkDPp) | 3:34 | 2022-05-25 |  |
+| [Meet Me at the Lake](https://open.spotify.com/track/5jd51Z2kIpeMa2sU10HfFT) | [Root Mean Square](https://open.spotify.com/artist/0idfWq9oG8LIPqBZTq5ZuV) | [Meet Me at the Lake](https://open.spotify.com/album/6sVZMNWEKn7SN1cg6I7XRc) | 3:29 | 2022-07-06 |  |
 | [Megachurch](https://open.spotify.com/track/5tXkuObswa1uxjKoQaZhHf) | [Razor Braids](https://open.spotify.com/artist/0MjyFpYWU1nBFKYoZ4UpvT) | [Megachurch](https://open.spotify.com/album/1LnMJUIle8lLZiHHBZpy8U) | 4:12 | 2022-06-15 |  |
 | [Moms Song](https://open.spotify.com/track/4t0qpQnjzOJLnbZMGw0nvy) | [Tess](https://open.spotify.com/artist/5ZwQXTCHmw958nA8imMb3a) | [Moms Song](https://open.spotify.com/album/2lY8ZK2ct0Dl9PDCp80EFE) | 2:59 | 2022-05-25 |  |
 | [Morningbird](https://open.spotify.com/track/54jsQ2oan9bmyaiDPVjbtv) | [Ten Minute Detour](https://open.spotify.com/artist/2xt2sGmcA036zAGPaHmk8n) | [Morningbird](https://open.spotify.com/album/6SYxAeeKJrcFb065q3q45b) | 4:10 | 2022-05-25 | 2022-06-30 |
@@ -129,6 +133,7 @@
 | [untitled](https://open.spotify.com/track/0slJ3lfslgd5qk2ev9b6ol) | [zachy](https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4) | [untitled](https://open.spotify.com/album/1lcAeYHgVLtY1vuIJ8zawx) | 1:41 | 2022-05-25 |  |
 | [Whale Song](https://open.spotify.com/track/771nBYPfjLpCa439MiiuBy) | [Glenn Thomas](https://open.spotify.com/artist/5PDr566OoM3EayDT1HfL1U) | [Whale Song](https://open.spotify.com/album/3Xq0tSfKbBLF17taxcNOjn) | 3:37 | 2022-05-25 |  |
 | [Where The River Goes](https://open.spotify.com/track/34ZuYTjotU24xALX5Hi23C) | [House Phone](https://open.spotify.com/artist/4BHMLvxLKkWPL7iuTnUdZC) | [Sunrise / Where The River Goes](https://open.spotify.com/album/2iF7lvvF2n8rX17ItmBeXZ) | 5:31 | 2022-05-25 |  |
+| [Wildfire](https://open.spotify.com/track/5W9cJdvPtkuPaVtJAIylbM) | [Minru](https://open.spotify.com/artist/7ofDeyinYugiOywRxjs5c2) | [Liminality](https://open.spotify.com/album/35b5EStxb2BkZnfyJr2CiR) | 4:06 | 2022-07-06 |  |
 | [Wish I Had You Now](https://open.spotify.com/track/3NBby1jbaWJaXIUTagpu6T) | [The Finley Ghost](https://open.spotify.com/artist/2FDDxS1r0AdQzitRtjqdsb) | [Wish I Had You Now](https://open.spotify.com/album/1uWCJKpS1fKWPwtn7nj0GW) | 3:57 | 2022-06-29 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

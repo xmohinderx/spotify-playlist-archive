@@ -2,7 +2,7 @@
 
 ### [EQUAL India](https://open.spotify.com/playlist/37i9dQZF1DX5KJJSIYaNvs)
 
-> Listen to Indian women, at full volume\. Cover: Baani Sandhu
+> Listen to Indian women, at full volume\. Cover: Raashi Sood & Raja Kumari.
 
 120 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/3rqRWyNJwvt55VCcOLZ5lE)
 

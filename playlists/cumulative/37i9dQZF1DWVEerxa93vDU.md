@@ -4,7 +4,7 @@
 
 > Relaxing and comforting piano music.
 
-221 songs - 9 hr 26 min - [published](https://open.spotify.com/playlist/6H4giSUURJHccDTCgs6ahS)
+227 songs - 9 hr 41 min - [published](https://open.spotify.com/playlist/6H4giSUURJHccDTCgs6ahS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Song](https://open.spotify.com/track/3AliQT2GgiDBN16poZPdG2) | [Rui Massena](https://open.spotify.com/artist/1HEmRu6376oTlFuWxq0CPp) | [A SONG](https://open.spotify.com/album/0o1ViMvah6YyVPO86dGoiH) | 2:20 | 2021-12-14 |  |
 | [Afterglow](https://open.spotify.com/track/6YzOHIoCXojns8Dsi3Uqx0) | [Sacha Hoedemaker](https://open.spotify.com/artist/5oDhs7W0MVUoMDfIhwAzJM) | [Cause & Effect](https://open.spotify.com/album/2WC2FtG0whiGZxgMzFSXy0) | 2:36 | 2022-04-14 |  |
 | [Akeleie](https://open.spotify.com/track/0UmaYgHfAEEMwxYGHSDMmu) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Akeleie](https://open.spotify.com/album/4wuBcYPsziuMtuafKDpDlP) | 3:53 | 2021-12-14 | 2022-06-07 |
+| [Alone In Paris](https://open.spotify.com/track/0ZZcxfVdAMt4TkyUY5y4eF) | [Elliott Jacqués](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Alone In Paris](https://open.spotify.com/album/7pOdKUk0GY4eArkQ8PjVPp) | 2:19 | 2022-07-06 |  |
 | [am ersten Tag](https://open.spotify.com/track/2gwhISMkdlhEqEP60P93Z1) | [Hugo Vanbrooke](https://open.spotify.com/artist/603KQbHhLmVWbfPS6b35nH) | [Time Line](https://open.spotify.com/album/40ZYcEHUVHnjvbFEAkj2ns) | 2:10 | 2021-12-14 |  |
 | [Anfractuous View](https://open.spotify.com/track/6TX02ODkwVEymt9Yzw4lUf) | [Tomasz Kraal](https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ) | [Anfractuous View](https://open.spotify.com/album/71vCCA6hOqaPYZw1Q7F4yq) | 3:09 | 2022-06-06 |  |
 | [Another Life](https://open.spotify.com/track/44jnGxgCSoyxygFmpyCiPy) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Another Life](https://open.spotify.com/album/1lBJzs7vKo2p5HL78MpvPD) | 2:19 | 2022-02-02 |  |
@@ -39,6 +40,7 @@
 | [Charming Spring](https://open.spotify.com/track/3HLqkcMhbDNLW56o1CpuUA) | [Hector Hellström](https://open.spotify.com/artist/0l6NEToAlJUoZTzaYJPRZr) | [Charming Spring](https://open.spotify.com/album/5ehVzPu5IAoqa2b37chyOx) | 2:08 | 2021-12-14 | 2022-01-06 |
 | [Childhood](https://open.spotify.com/track/3h8VhGaMSwoQxsEFfRkmmb) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Childhood](https://open.spotify.com/album/3kdviGLqB18F8XwwpSxVBB) | 3:16 | 2022-05-20 |  |
 | [City Crows](https://open.spotify.com/track/2T7AgkxYbeoGb8u8cH3bA4) | [Steven Jacobson](https://open.spotify.com/artist/3wYvEFMQlP8PuCHvbtGO2K) | [Shade of Spring](https://open.spotify.com/album/1Rk6GlUSBebT9gp0QXc4oD) | 1:56 | 2022-03-30 |  |
+| [Clairière](https://open.spotify.com/track/352zT4Ijd9PUae6c3Wo2n8) | [Dominique Charpentier](https://open.spotify.com/artist/2BDEX7NzONc6kAxVXu9lBa) | [Clairière](https://open.spotify.com/album/6jSlxBgoHARjQXiRKBz1L6) | 2:04 | 2022-07-06 |  |
 | [Closure](https://open.spotify.com/track/4pLt09DV3FFjNTLqbxhJcO) | [Franz Becker](https://open.spotify.com/artist/4QepILDr1gW2tDbFhWCl3t) | [Sweet Nostalgia](https://open.spotify.com/album/6dOBc28si0bRhW0SoQxdR6) | 3:57 | 2021-12-14 |  |
 | [Coelicolor](https://open.spotify.com/track/59uTTjYZrhemOxdwht85fA) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Coelicolor](https://open.spotify.com/album/2u28DhrSjoAAtn6sVudqYI) | 2:42 | 2021-12-14 |  |
 | [Colori autunnali](https://open.spotify.com/track/4m1nRLXsFQE7dNQGDxCvlX) | [Giacinta Toscano](https://open.spotify.com/artist/1RySkA0U8k1vui9rxEkbAL) | [Colori autunnali](https://open.spotify.com/album/20DhZgb2kEo49HdXwGjhEo) | 2:52 | 2021-12-14 |  |
@@ -55,11 +57,14 @@
 | [Drifting Along](https://open.spotify.com/track/4SIUDl2ip5jEFAQeeIXC9B) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Drifting Along](https://open.spotify.com/album/3Fo02LwzmosC2HVPEFFMPu) | 2:29 | 2022-03-30 |  |
 | [Dulcian](https://open.spotify.com/track/3QqwaqJI54yCVhSHX94sQo) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b) | [Dulcian](https://open.spotify.com/album/5xADNZ9czbbHhHPg5aJueT) | 2:17 | 2021-12-14 |  |
 | [Dusk to dawn](https://open.spotify.com/track/130InHyyoQxDbRgScp4i6O) | [Miriam Raye](https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2) | [Scenery](https://open.spotify.com/album/6zs3f5KpHjW6yvVN5xQ0Bc) | 2:34 | 2021-12-14 |  |
+| [Edgar's Garden](https://open.spotify.com/track/4AgEOcwJpmtE2fqhyqUIA8) | [Mark Lieder](https://open.spotify.com/artist/3XabrLwWwxIntz6A6X9naj) | [Edgar's Garden](https://open.spotify.com/album/4d6jOSCNJtDThR0H6JV6cI) | 3:10 | 2022-07-06 |  |
 | [Eosphoros](https://open.spotify.com/track/4QqXkYp0fsZZjyTBr7QtSS) | [Adam Gallo](https://open.spotify.com/artist/48kyKKrYpWSiNSEyGXmCfo) | [Eosphoros](https://open.spotify.com/album/09BUR6MGDwFlKtGWv0b7AM) | 2:09 | 2022-05-20 |  |
 | [erinna](https://open.spotify.com/track/7yKhLZM7KvuutJEDBAkSbB) | [Klaus Weissmuller](https://open.spotify.com/artist/5KKMMIwKIfrn4Q3x6PGYxf) | [erinna](https://open.spotify.com/album/6VXZhQ3CoSjtYCxdn9In1X) | 2:08 | 2021-12-14 |  |
+| [Espira](https://open.spotify.com/track/4OQmeUFkAzczVjfBmLuk88) | [Janet Bolt](https://open.spotify.com/artist/6qaN2QFmI31hie6adDTtgz) | [Espira](https://open.spotify.com/album/4msJVubzT4X721PKyVM4fl) | 2:50 | 2022-07-06 |  |
 | [Eternity](https://open.spotify.com/track/77Ou8ploPVp1uIrw6YJttx) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Gjeilo: Eternity](https://open.spotify.com/album/4LZCr4GDptLhBau8gLAE4s) | 1:45 | 2022-04-27 |  |
 | [Eventide](https://open.spotify.com/track/6m6E8jsmnmFXOR6bR3BnxF) | [Jean DeVoite](https://open.spotify.com/artist/66t8qvy2cOoSxmEjuiRPmf) | [Eventide](https://open.spotify.com/album/7AFx5CnBVTdbgeJ927qbyp) | 2:25 | 2021-12-14 | 2022-03-18 |
 | [Everlasting](https://open.spotify.com/track/6U0Rth9EM8xwmg7rtrKV3t) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Everlasting](https://open.spotify.com/album/0rsXtotAmm85msyl1lakQd) | 2:34 | 2021-12-14 |  |
+| [Felt Improv No\. 31](https://open.spotify.com/track/7hq0zahMPS0Ct7k9tyI59F) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Felt Improv No\. 31](https://open.spotify.com/album/7AqUPWCuSEeAVmkRlA3quC) | 2:24 | 2022-07-06 |  |
 | [Forever](https://open.spotify.com/track/7DwR3QHQXyDjFAC1L3mh2a) | [Kiran Greene](https://open.spotify.com/artist/3zufotQtFwEEXgir5jMVoP) | [Forever](https://open.spotify.com/album/3oXEH4clrLtZWCfqZGVUJg) | 2:36 | 2022-04-14 |  |
 | [Forever](https://open.spotify.com/track/0PDPU0FvLXuOWRHN0uOV7t) | [Muriel Bardsley](https://open.spotify.com/artist/1Lzqsd4iWBfVbx2AiRP3xu) | [Forever](https://open.spotify.com/album/5JWJdnDPsOuf5aPWpqHIom) | 2:58 | 2021-12-14 | 2022-01-20 |
 | [Forgiveness](https://open.spotify.com/track/4nAMkbTM9SlANHZPLOQjL6) | [Sacha Hoedemaker](https://open.spotify.com/artist/5oDhs7W0MVUoMDfIhwAzJM) | [Forgiveness](https://open.spotify.com/album/2LOFsoK01oNsHb5pwmhQYa) | 2:15 | 2021-12-14 |  |
@@ -150,6 +155,7 @@
 | [Quiet Hours](https://open.spotify.com/track/7x5xqxL4y72ThLMiRzDOVt) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Quiet Hours](https://open.spotify.com/album/5kLeCvaSvowAn1pcfzQu4i) | 2:37 | 2022-04-27 |  |
 | [Quieta](https://open.spotify.com/track/7krJMuarlF8bRWtSynEsTY) | [Gioia Moreschi](https://open.spotify.com/artist/1of4wsX19bjyw0CH1g5miH) | [Quieta](https://open.spotify.com/album/6qtAC4ioQYFYJdrcmEahQk) | 2:43 | 2021-12-14 |  |
 | [Quérete a ti mesmo](https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm) | [Coralia del Villar](https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P) | [Quérete a ti mesmo](https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6) | 2:45 | 2021-12-14 |  |
+| [Reflections in a Quiet Place](https://open.spotify.com/track/4ndnyPz8H1X4s8GTS7AF9F) | [Sounds from a Box](https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s) | [Mind Paintings](https://open.spotify.com/album/3eIcr5XcmcOiW7LwFRdIH9) | 2:02 | 2022-07-06 |  |
 | [Remembrance](https://open.spotify.com/track/43z2LSP0180NFwr720P3xk) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Remembrance](https://open.spotify.com/album/7J0DCHHTGozed1GpKmge8J) | 2:26 | 2022-01-19 |  |
 | [Respite](https://open.spotify.com/track/2udO9YUSR2cRQNgMyoJEYC) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Sensibilities](https://open.spotify.com/album/6kMSO9oS3Wf2CmiOmbYIDg) | 2:20 | 2021-12-14 | 2022-05-21 |
 | [Retrouvailles](https://open.spotify.com/track/11JN2F71WjDG5uZZ0i1vMd) | [Gabriel Auer](https://open.spotify.com/artist/0K6PfxKmrBfId9GnQZADfM) | [Retrouvailles](https://open.spotify.com/album/4lDonUI9z7jnJosqAoH1S7) | 2:52 | 2022-02-16 | 2022-05-05 |

@@ -4,7 +4,7 @@
 
 > 125%
 
-45 songs - 1 hr 53 min - [published](https://open.spotify.com/playlist/2G3OqMZbrNC2ergi0aOh3M)
+47 songs - 1 hr 56 min - [published](https://open.spotify.com/playlist/2G3OqMZbrNC2ergi0aOh3M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,10 +43,12 @@
 | [Pass The Dutchie \- Sped Up Version](https://open.spotify.com/track/2Z4F9imB3AsYjFb22VdvZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Pass The Dutchie \(Sped Up Version\)](https://open.spotify.com/album/65aKnNfr705eNPbLgVX6R6) | 3:02 | 2022-06-24 |  |
 | [prolly my spookiest beat \(sped up\)](https://open.spotify.com/track/3TK0rB4H4oKHjf1l3Dteop) | [prodby668](https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F) | [prolly my spookiest beat \(sped up\)](https://open.spotify.com/album/5EJjM6oFkw0bdnCchn5BRV) | 2:00 | 2022-06-09 |  |
 | [Say It Right \- Sped Up Remix](https://open.spotify.com/track/3iWOZkQNDekZQqkiJqqeGy) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Say It Right \(Sped Up Remix\)](https://open.spotify.com/album/5Bsu0xoGyVm5sGRxHYH52F) | 3:14 | 2022-06-09 |  |
+| [SNAP \- High and Fast](https://open.spotify.com/track/2ik0zzlcwHl8hnHw7ZfeNS) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP \(High and Fast\)](https://open.spotify.com/album/6aLC3UK3IBnBCaFQVaDpcP) | 2:15 | 2022-07-06 |  |
 | [soft spot](https://open.spotify.com/track/3BBFjy5w9S66h3ys6cQtvI) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [soft spot](https://open.spotify.com/album/5A3dh1CIsZwBTppyUsiBtV) | 3:39 | 2022-06-09 |  |
 | [Something Just Like This](https://open.spotify.com/track/2uEcJWvKnu205UxlYDuDMj) | [Fly By Nightcore](https://open.spotify.com/artist/5n0h7PGhxq6dC4LCWTEcMA) | [Goes Acoustic, Vol\. 1](https://open.spotify.com/album/4cg3lHoYjTEYQbsadgOFqf) | 2:38 | 2022-06-09 |  |
 | [SugarCrash!](https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX) | [ElyOtto](https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW) | [SugarCrash!](https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx) | 1:20 | 2022-06-09 |  |
 | [Sun Down, I'm Up \- Sped Up & Pitched](https://open.spotify.com/track/3WFivFp3uRp79WlwPrLvd1) | [Lil Yawh](https://open.spotify.com/artist/50vMVpuLqxVjxvO84cgKRW) | [Sun Down, I'm Up \(Sped Up & Pitched\)](https://open.spotify.com/album/2aChr24y3gtWYwFk1Uou7Q) | 1:35 | 2022-07-01 |  |
+| [SWAMP SKONSTER](https://open.spotify.com/track/4c9UuO6PYqP6wMboWvbL5Z) | [Skest](https://open.spotify.com/artist/4ZVIkfQsJU3i77UTRyNf8q) | [SWAMP SKONSTER](https://open.spotify.com/album/1bEHp487UaR4ou9UoH0CCU) | 1:14 | 2022-07-06 |  |
 | [Sway \- Sped Up Version](https://open.spotify.com/track/3P4Lsg2MNqG8XLXZJUo4GT) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Sway \(Sped Up Version\)](https://open.spotify.com/album/3rhTZ0XLyEDhnf5j8WGGud) | 2:27 | 2022-06-09 |  |
 | [Tek It \- Sped Up](https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Tek It \(I Watch the Moon\)](https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv) | 2:46 | 2022-06-09 |  |
 | [Tell Em](https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Tell Em](https://open.spotify.com/album/3OE8gkPLqI9zr3hlEz6ruQ) | 3:00 | 2022-06-09 |  |

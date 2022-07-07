@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWjDbo5NM3H.md) - [plain]
 
 > This is the official partnership playlist for JTBC 'Famous Singers\-Battle Again'\. \(JTBC  '유명가수전\-배틀 어게인'의 공식 파트너십 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,515 likes - 196 songs - 12 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,519 likes - 196 songs - 12 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [People Who Make Me Sad \- Live](https://open.spotify.com/track/3ANqW8SN10Tf1hp3Lg1NqC) | [Kim Kyung Ho](https://open.spotify.com/artist/65UXwY89OZG9und9DKJFpi), [Yun Seong](https://open.spotify.com/artist/3scLPJnii9AmTztP7cO5UM) | [Famous Singers \- Battle Again Pt.10](https://open.spotify.com/album/5RXGoW2lRuEYApoMoWm5Dg) | 4:10 |
+| 1 | [People Who Make Me Sad \- Live](https://open.spotify.com/track/3ANqW8SN10Tf1hp3Lg1NqC) | [Kim Kyung Ho](https://open.spotify.com/artist/15Tra1ytu0naoNByIhZArl), [Yun Seong](https://open.spotify.com/artist/3scLPJnii9AmTztP7cO5UM) | [Famous Singers \- Battle Again Pt.10](https://open.spotify.com/album/5RXGoW2lRuEYApoMoWm5Dg) | 4:10 |
 | 2 | [명동콜링 \- Live](https://open.spotify.com/track/4LvBXh4zNWZOfGv8lZa5w6) | [KIM KI TAE](https://open.spotify.com/artist/1neQgeyH87u1WiArgIv0nI) | [Famous Singers \- Battle Again Pt.10](https://open.spotify.com/album/5RXGoW2lRuEYApoMoWm5Dg) | 4:28 |
 | 3 | [My Love Even On the Heaven \- Live](https://open.spotify.com/track/3p6kExI44oEVfPGDzYfuLo) | [KIM SO YEON](https://open.spotify.com/artist/3CHwH4pyXNJMt5fzbFG9Tr) | [Famous Singers \- Battle Again Pt.10](https://open.spotify.com/album/5RXGoW2lRuEYApoMoWm5Dg) | 4:28 |
 | 4 | [Oh! What a Shiny Night \- Live](https://open.spotify.com/track/69YWqDLNnpFbx6EshipOxB) | [Lee Ju Hyuk](https://open.spotify.com/artist/05kWx8q5sU1MChiDfWcVRk) | [Famous Singers \- Battle Again Pt.10](https://open.spotify.com/album/5RXGoW2lRuEYApoMoWm5Dg) | 4:01 |

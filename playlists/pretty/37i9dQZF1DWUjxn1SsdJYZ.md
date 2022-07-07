@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best Hip Hop coming out of Australia\. Cover: Lawd Lance
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,830 likes - 98 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,859 likes - 98 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 32 | [HoodBars](https://open.spotify.com/track/6rtXSNFe76po3VuIhHgzqU) | [Hoodbars](https://open.spotify.com/artist/6MbQ0kLyuOF8GzPQyMgiSW), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [HoodBars](https://open.spotify.com/album/0xOz0dxi98L0BPZzyJy0qn) | 2:31 |
 | 33 | [Birkin \(feat\. Lil Jaye\)](https://open.spotify.com/track/2oZUbZg6hHjf1wGiBIZhdw) | [Eco$ystem](https://open.spotify.com/artist/42dkfArTdrcxq0NYRmo9rk), [Lil Jaye](https://open.spotify.com/artist/2lEJRLLPBCtAUdxVFl3qyl) | [Birkin \(feat\. Lil Jaye\)](https://open.spotify.com/album/7fbg8u1jK0XKtbFMoGeOCN) | 2:17 |
 | 34 | [Ready To Ride](https://open.spotify.com/track/2UwIUkE4rQk7dup2dOWgSY) | [Nokz78](https://open.spotify.com/artist/4YpUneet1k2jaCfvCfUnZy) | [Ready To Ride](https://open.spotify.com/album/20tq1b7LGyKv0ZdvkqOyyn) | 3:05 |
-| 35 | [Prada Me](https://open.spotify.com/track/1JTDYWghkucUF7kfuRonbr) | [Yeloboi Tommy](https://open.spotify.com/artist/6sZgmrmf7pl9yez8UvGgJa) | [Prada Me](https://open.spotify.com/album/79arMQbn8hrYES5CxwYr3y) | 2:18 |
+| 35 | [Prada Me](https://open.spotify.com/track/1JTDYWghkucUF7kfuRonbr) | [Goldenboy Tommy](https://open.spotify.com/artist/3BkMVd4zZgAevS1ieGFTmo) | [Prada Me](https://open.spotify.com/album/79arMQbn8hrYES5CxwYr3y) | 2:18 |
 | 36 | [DASH \(feat\. T\-Pain\) \- T\-Mix](https://open.spotify.com/track/4xOjOPeY9SycyVG8J0xz9h) | [Mason Dane](https://open.spotify.com/artist/77vYj1iBHh1gao0yd7ryGl), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [DASH \(feat\. T\-Pain\) \[T\-Mix\]](https://open.spotify.com/album/7HNd8Zsp8Duyvz65e0b1Fq) | 2:46 |
 | 37 | [Intro](https://open.spotify.com/track/6gbBCKRKrmR86UeTMspR0C) | [IDES](https://open.spotify.com/artist/0QyChNsWMVypkPZn2jf5Sc) | [Intro](https://open.spotify.com/album/00akApRVJnkgzhZU5407UW) | 2:32 |
 | 38 | [Nintendo](https://open.spotify.com/track/65NrY7O1GxRR4R7xwJEJcb) | [Ben Jones](https://open.spotify.com/artist/3Tdc4Os3L5gHDozXuubEcO), [Taro](https://open.spotify.com/artist/1VJRmubTyX5ICGPUtl0jaI), [Vilan ✘](https://open.spotify.com/artist/5slzQA3GOAlaex2mJCXNai) | [Nintendo](https://open.spotify.com/album/5cy5WsmOJlgvUp6bZVAKoF) | 3:21 |

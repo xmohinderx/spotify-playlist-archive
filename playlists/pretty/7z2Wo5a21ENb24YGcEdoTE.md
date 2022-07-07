@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7z2Wo5a21ENb24YGcEdoTE.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,828 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,810 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/7z2Wo5a21ENb24YGcEdoTE.md) - [plain]
 | 17 | [Whistle](https://open.spotify.com/track/0ltBH1JNzSvQJPjJpvTu9B) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Whistle](https://open.spotify.com/album/355RqMyXhDoOD0l4qMUxeT) | 3:45 |
 | 18 | [One More Night](https://open.spotify.com/track/3wJIAMuPdEoBddWlovWXCX) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [One More Night](https://open.spotify.com/album/4CINwoCsc8e6Nyw9rcG6Z2) | 3:39 |
 | 19 | [Drive By](https://open.spotify.com/track/1wAXODAAL6hY64ZdhrnjBO) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Drive By](https://open.spotify.com/album/4IjfVRMzE8yNH84Q6UZSV6) | 3:16 |
-| 20 | [The Motto](https://open.spotify.com/track/49ySwzAyvxcNXOkOP6ZB1L) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [The Motto \(Explicit Version\)](https://open.spotify.com/album/4yyKZOy1Nq9DPfzf5O4Hpg) | 0:29 |
+| 20 | [The Motto](https://open.spotify.com/track/49ySwzAyvxcNXOkOP6ZB1L) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [The Motto \(Explicit Version\)](https://open.spotify.com/album/4yyKZOy1Nq9DPfzf5O4Hpg) | 3:01 |
 | 21 | [Where Have You Been](https://open.spotify.com/track/3tyPOhuVnt5zd5kGfxbCyL) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk](https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T) | 4:02 |
 | 22 | [Everybody Talks](https://open.spotify.com/track/5JGxJFdgOQdJZdmyEzDtTj) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Everybody Talks](https://open.spotify.com/album/1YcrOSpxttHMER7xHivryA) | 2:59 |
 | 23 | [Take Care](https://open.spotify.com/track/4wTMBYRE6xVTIUQ6fEudsJ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Take Care \(Deluxe\)](https://open.spotify.com/album/63WdJvk8G9hxJn8u5rswNh) | 4:37 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/7z2Wo5a21ENb24YGcEdoTE.md) - [plain]
 | 36 | [Moves Like Jagger \- Studio Recording From "The Voice" Performance](https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Hands All Over](https://open.spotify.com/album/7strNUlU6xZqlVWBNUdOYv) | 3:21 |
 | 37 | [Blow Me \(One Last Kiss\)](https://open.spotify.com/track/6LS6pltO7YBgjwNVhxMwtp) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [The Truth About Love](https://open.spotify.com/album/2rBb9rAEuMC8VH9uk7js3e) | 4:15 |
 | 38 | [Good Time](https://open.spotify.com/track/02GjIfCpwttPAikjm5Hwcb) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Good Time](https://open.spotify.com/album/6eTUdRcRan6CLK6s3g5YlH) | 3:26 |
-| 39 | [Give Your Heart a Break](https://open.spotify.com/track/3sP3c86WFjOzHHnbhhZcLA) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Unbroken](https://open.spotify.com/album/1ypH0eU9RcE6wngSGSqmeY) | 0:29 |
+| 39 | [Give Your Heart a Break](https://open.spotify.com/track/3sP3c86WFjOzHHnbhhZcLA) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Unbroken](https://open.spotify.com/album/1ypH0eU9RcE6wngSGSqmeY) | 3:25 |
 | 40 | [Ni\*\*as In Paris](https://open.spotify.com/track/2Zb7wnGUnNPCas2E0wWSQ5) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Watch The Throne \(Deluxe\)](https://open.spotify.com/album/1YwzJz7CrV9fd9Qeb6oo1d) | 3:39 |
 | 41 | [The One That Got Away](https://open.spotify.com/track/3oL3XRtkP1WVbMxf7dtTdu) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:47 |
 | 42 | [Feel So Close \- Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:26 |

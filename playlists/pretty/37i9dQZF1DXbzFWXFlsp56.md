@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzFWXFlsp56.md) - [plain]
 
 > Descubre los nuevos talentos de Colombia, Ecuador, Venezuela y Perú\. Foto: Neoma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,957 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,961 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Kylie Morgan
 
-[Spotify](https://open.spotify.com/user/spotify) - 847,609 likes - 118 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 847,876 likes - 118 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

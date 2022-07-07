@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Foals
 
-302 songs - 18 hr 15 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
+303 songs - 18 hr 17 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Sonny](https://open.spotify.com/track/5IlJpc7LFVNfuuyefZ8wmp) | [Bad//Dreems](https://open.spotify.com/artist/54f24706ua34STMhWSzPV7) | [Doomsday Ballet](https://open.spotify.com/album/1RZFQ4A26BjFKM95xd2Dik) | 3:26 | 2020-10-10\* | 2021-02-25 |
 | [Space](https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Celebration Of Endings](https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw) | 3:55 | 2020-10-10\* | 2022-03-18 |
 | [St\. Anger](https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [St\. Anger](https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM) | 7:21 | 2020-10-10\* | 2021-02-25 |
+| [St\. Girlfriend](https://open.spotify.com/track/1nsjfntUpfBk7m11PENErT) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [St\. Girlfriend](https://open.spotify.com/album/6FwxID3XuZpc31zcqDQm5w) | 2:27 | 2022-07-04 |  |
 | [Strangers](https://open.spotify.com/track/07wX6N12kg4zZ2gI8IrB1y) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Strangers / History of Violence](https://open.spotify.com/album/0cQzfaeCuMomU3OfhzPEW7) | 3:25 | 2020-10-10\* | 2021-02-25 |
 | [Stupid Is As Stupid Does \(feat\. K.Flay\)](https://open.spotify.com/track/7gpftvWH71HcwbYPe4CgMB) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Hurry Up And Wait](https://open.spotify.com/album/42pD3Dn7Oa7L3XLEzWYvDz) | 3:00 | 2020-10-10\* | 2021-05-13 |
 | [Sugar Shack](https://open.spotify.com/track/2znRvlKPf9UWTLM6H3N0JQ) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Sugar Shack](https://open.spotify.com/album/0TUHKmsD9J2d0vVepO3jqP) | 3:58 | 2020-10-10\* | 2021-02-25 |

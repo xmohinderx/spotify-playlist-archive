@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest Dance hits and the ones to come. Welcome to the Main Stage! Cover: Brennan Heart, Dimitri Vegas & Like Mike",
+  "description": "The biggest Dance hits and the ones to come. Welcome to the Main Stage! Cover: A7S, Topic",
   "name": "Main Stage",
   "published_playlist_ids": [
     "4Sc3vClwMPjm8ROhpN4cCx"
@@ -468,6 +468,28 @@
     },
     {
       "album": {
+        "name": "Children (Rework)",
+        "url": "https://open.spotify.com/album/6mjA10GAfa4eQwevZPR1kc"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        },
+        {
+          "name": "Jack Holiday",
+          "url": "https://open.spotify.com/artist/64yON9pK0j392YkionGKAF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172617,
+      "name": "Children - Rework",
+      "url": "https://open.spotify.com/track/6HhLVhfYXhIsD4UpM0CLWo"
+    },
+    {
+      "album": {
         "name": "Children Of The Night",
         "url": "https://open.spotify.com/album/1ah9V0sxEDCnYvFMrLwH27"
       },
@@ -479,7 +501,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 157333,
       "name": "Children Of The Night",
       "url": "https://open.spotify.com/track/3LZvaHxUB1JHm0CupGqd5W"
@@ -737,6 +759,28 @@
       "duration_ms": 134812,
       "name": "Dead Or Alive",
       "url": "https://open.spotify.com/track/4ebye8oxJ3SaTi3MD50lbn"
+    },
+    {
+      "album": {
+        "name": "Deep Sea (with R3HAB)",
+        "url": "https://open.spotify.com/album/0HB8Rsf0bLnuXmDflKcLFc"
+      },
+      "artists": [
+        {
+          "name": "Minelli",
+          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155409,
+      "name": "Deep Sea (with R3HAB)",
+      "url": "https://open.spotify.com/track/1txEi16dxuNGSU3VokEtOb"
     },
     {
       "album": {
@@ -1883,7 +1927,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 136000,
       "name": "Love We Lost (with R3HAB)",
       "url": "https://open.spotify.com/track/7wnjC6zkte3AFTDQVyP5jg"

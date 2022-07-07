@@ -1,12 +1,12 @@
 {
   "description": "Is it your favorite oppa or dongsaeng? Cover: \b\bTAN(\ud0c4) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
-  "num_followers": 742236,
+  "num_followers": 742395,
   "original_name": "Hallyu Boy Bands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA3MTI5NywwMDAwMDAwMGQxMzJiZmEyZDk0MGU4Yjk5ZDhlOGRlZjMwNzUyNDM5",
+  "snapshot_id": "MTY1NzE1NjgyNCwwMDAwMDAwMDk5ZTNjMzhlYmE2MzY5M2VjMDgwZTZiMGQzNGI0MGQ1",
   "tracks": [
     {
       "added_at": "2022-07-04 09:08:18",
@@ -123,6 +123,22 @@
     {
       "added_at": "2022-07-04 09:08:18",
       "album": {
+        "name": "The Chaos Chapter: FIGHT OR ESCAPE",
+        "url": "https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 199919,
+      "name": "LO$ER=LO\u2661ER",
+      "url": "https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6"
+    },
+    {
+      "added_at": "2022-07-04 09:08:18",
+      "album": {
         "name": "DIMENSION : ANSWER",
         "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 184601,
       "name": "Polaroid Love",
       "url": "https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1"
-    },
-    {
-      "added_at": "2022-07-04 09:08:18",
-      "album": {
-        "name": "Darl+ing",
-        "url": "https://open.spotify.com/album/0Dl7e3uv3UrVDdZ6saplzH"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 176546,
-      "name": "Darl+ing",
-      "url": "https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5"
     },
     {
       "added_at": "2022-07-04 09:08:18",
@@ -171,70 +171,6 @@
     {
       "added_at": "2022-07-04 09:08:18",
       "album": {
-        "name": "The Chaos Chapter: FREEZE",
-        "url": "https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 215188,
-      "name": "Anti-Romantic",
-      "url": "https://open.spotify.com/track/44tTqUi3xi7E28QLzHVdUA"
-    },
-    {
-      "added_at": "2022-07-04 09:08:18",
-      "album": {
-        "name": "BE",
-        "url": "https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 207481,
-      "name": "Life Goes On",
-      "url": "https://open.spotify.com/track/249gnXrbfmV8NG6jTEMSwD"
-    },
-    {
-      "added_at": "2022-07-04 09:08:18",
-      "album": {
-        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
-        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 200306,
-      "name": "Love Shot",
-      "url": "https://open.spotify.com/track/0yB4jrSwN0bFtFRDR5vyMj"
-    },
-    {
-      "added_at": "2022-07-04 09:08:18",
-      "album": {
-        "name": "BORDER : CARNIVAL",
-        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 172106,
-      "name": "FEVER",
-      "url": "https://open.spotify.com/track/0UzymivvUH5s8z4PeWZJaK"
-    },
-    {
-      "added_at": "2022-07-04 09:08:18",
-      "album": {
         "name": "Mixtape : OH",
         "url": "https://open.spotify.com/album/58eyQYheJrsSlemmBeMkj7"
       },
@@ -247,38 +183,6 @@
       "duration_ms": 212480,
       "name": "Mixtape : OH",
       "url": "https://open.spotify.com/track/3lYHmpjkm95UbQz76S47xZ"
-    },
-    {
-      "added_at": "2022-07-04 09:08:18",
-      "album": {
-        "name": "THE SECOND STEP : CHAPTER ONE",
-        "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 184117,
-      "name": "JIKJIN",
-      "url": "https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap"
-    },
-    {
-      "added_at": "2022-07-04 09:08:18",
-      "album": {
-        "name": "Proof",
-        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 204939,
-      "name": "Run BTS",
-      "url": "https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM"
     },
     {
       "added_at": "2022-07-04 09:08:18",
@@ -299,6 +203,22 @@
     {
       "added_at": "2022-07-04 09:08:18",
       "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 207481,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/249gnXrbfmV8NG6jTEMSwD"
+    },
+    {
+      "added_at": "2022-07-04 09:08:18",
+      "album": {
         "name": "minisode1 : Blue Hour",
         "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
       },
@@ -315,50 +235,50 @@
     {
       "added_at": "2022-07-04 09:08:18",
       "album": {
-        "name": "We Go Up",
-        "url": "https://open.spotify.com/album/0pIWpPef8UFx8iQ5KSZsYj"
+        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
+        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
       },
       "artists": [
         {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
         }
       ],
-      "duration_ms": 183293,
-      "name": "We Go Up",
-      "url": "https://open.spotify.com/track/26vOBLHS116a4WNUVlvAUW"
+      "duration_ms": 200306,
+      "name": "Love Shot",
+      "url": "https://open.spotify.com/track/0yB4jrSwN0bFtFRDR5vyMj"
     },
     {
       "added_at": "2022-07-04 09:08:18",
       "album": {
-        "name": "NCT RESONANCE Pt. 2 - The 2nd Album",
-        "url": "https://open.spotify.com/album/3Bd1xSHPmhIEH97idB634s"
+        "name": "THE SECOND STEP : CHAPTER ONE",
+        "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
       },
       "artists": [
         {
-          "name": "NCT U",
-          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
         }
       ],
-      "duration_ms": 213666,
-      "name": "90's Love",
-      "url": "https://open.spotify.com/track/0B36SbjfDv15ji1bQEEeTN"
+      "duration_ms": 184117,
+      "name": "JIKJIN",
+      "url": "https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap"
     },
     {
       "added_at": "2022-07-04 09:08:18",
       "album": {
-        "name": "SOMEONE'S SOMEONE",
-        "url": "https://open.spotify.com/album/3CFYV1F2RIDoHyinrBv8y5"
+        "name": "BORDER : CARNIVAL",
+        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
       },
       "artists": [
         {
-          "name": "Monsta X",
-          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 141290,
-      "name": "SOMEONE'S SOMEONE",
-      "url": "https://open.spotify.com/track/0nP9JFMx8z5QNl5Ph8ExEa"
+      "duration_ms": 172106,
+      "name": "FEVER",
+      "url": "https://open.spotify.com/track/0UzymivvUH5s8z4PeWZJaK"
     },
     {
       "added_at": "2022-07-04 09:08:18",
@@ -379,8 +299,72 @@
     {
       "added_at": "2022-07-04 09:08:18",
       "album": {
-        "name": "BORDER : CARNIVAL",
-        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
+        "name": "Darl+ing",
+        "url": "https://open.spotify.com/album/0Dl7e3uv3UrVDdZ6saplzH"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 176546,
+      "name": "Darl+ing",
+      "url": "https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5"
+    },
+    {
+      "added_at": "2022-07-04 09:08:18",
+      "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 204939,
+      "name": "Run BTS",
+      "url": "https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM"
+    },
+    {
+      "added_at": "2022-07-04 09:08:18",
+      "album": {
+        "name": "NOEASY",
+        "url": "https://open.spotify.com/album/2CJBaCutKdBiFrWmdzioPS"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 183266,
+      "name": "Thunderous",
+      "url": "https://open.spotify.com/track/3ihf9gTcRUz7EvkFnoh5TW"
+    },
+    {
+      "added_at": "2022-07-04 09:08:18",
+      "album": {
+        "name": "RED",
+        "url": "https://open.spotify.com/album/4CMscoZuaGi6UEDC2Wpdtk"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 176466,
+      "name": "RED",
+      "url": "https://open.spotify.com/track/4Dy1Iav5ND9bJCHE090An9"
+    },
+    {
+      "added_at": "2022-07-04 09:08:18",
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/0kwAgLzLnzQxaKcdubyaMh"
       },
       "artists": [
         {
@@ -388,9 +372,89 @@
           "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 193260,
-      "name": "Drunk-Dazed",
-      "url": "https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4"
+      "duration_ms": 186872,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/6bLZ6JV1mAGz4xfS1ZwOMV"
+    },
+    {
+      "added_at": "2022-07-04 09:08:18",
+      "album": {
+        "name": "The Chaos Chapter: FREEZE",
+        "url": "https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 215188,
+      "name": "Anti-Romantic",
+      "url": "https://open.spotify.com/track/44tTqUi3xi7E28QLzHVdUA"
+    },
+    {
+      "added_at": "2022-07-04 09:08:18",
+      "album": {
+        "name": "SEVENTEEN 4th Mini Album \u2018Al1\u2019",
+        "url": "https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 203426,
+      "name": "Don't Wanna Cry",
+      "url": "https://open.spotify.com/track/6Upu6yjkdi0DVI8E3IBZEU"
+    },
+    {
+      "added_at": "2022-07-04 09:08:18",
+      "album": {
+        "name": "Black Swan",
+        "url": "https://open.spotify.com/album/4RR8ROIGix5CbCGlXHA53I"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 198260,
+      "name": "Black Swan",
+      "url": "https://open.spotify.com/track/24NuEDgyRIljwSyY0lsr7b"
+    },
+    {
+      "added_at": "2022-07-04 09:08:18",
+      "album": {
+        "name": "WE:TH",
+        "url": "https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK"
+      },
+      "artists": [
+        {
+          "name": "PENTAGON",
+          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/14pjnaIqkpReO5D0tHofAS"
+    },
+    {
+      "added_at": "2022-07-04 09:08:18",
+      "album": {
+        "name": "GO LIVE",
+        "url": "https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 167922,
+      "name": "God\u2019s Menu",
+      "url": "https://open.spotify.com/track/0RzT9tBLcQhofW2TNiHP9B"
     },
     {
       "added_at": "2022-07-04 09:08:18",
@@ -427,38 +491,6 @@
     {
       "added_at": "2022-07-04 09:08:18",
       "album": {
-        "name": "RED",
-        "url": "https://open.spotify.com/album/4CMscoZuaGi6UEDC2Wpdtk"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 176466,
-      "name": "RED",
-      "url": "https://open.spotify.com/track/4Dy1Iav5ND9bJCHE090An9"
-    },
-    {
-      "added_at": "2022-07-04 09:08:18",
-      "album": {
-        "name": "WE:TH",
-        "url": "https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK"
-      },
-      "artists": [
-        {
-          "name": "PENTAGON",
-          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/14pjnaIqkpReO5D0tHofAS"
-    },
-    {
-      "added_at": "2022-07-04 09:08:18",
-      "album": {
         "name": "minisode 2: Thursday's Child",
         "url": "https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8"
       },
@@ -475,56 +507,72 @@
     {
       "added_at": "2022-07-04 09:08:18",
       "album": {
-        "name": "NOEASY",
-        "url": "https://open.spotify.com/album/2CJBaCutKdBiFrWmdzioPS"
+        "name": "Beauty and the Beast",
+        "url": "https://open.spotify.com/album/1y4bPlGZWzzZtVCuHbQ8gS"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
         }
       ],
-      "duration_ms": 183266,
-      "name": "Thunderous",
-      "url": "https://open.spotify.com/track/3ihf9gTcRUz7EvkFnoh5TW"
+      "duration_ms": 264613,
+      "name": "Beauty and the Beast",
+      "url": "https://open.spotify.com/track/6cLwgFQvn69ATT9GX7hCIs"
     },
     {
       "added_at": "2022-07-04 09:08:18",
       "album": {
-        "name": "Tiger Inside",
-        "url": "https://open.spotify.com/album/38FEnRZ38L0fyCZjaV0wxm"
+        "name": "SOMEONE'S SOMEONE",
+        "url": "https://open.spotify.com/album/3CFYV1F2RIDoHyinrBv8y5"
       },
       "artists": [
         {
-          "name": "SuperM",
-          "url": "https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE"
+          "name": "Monsta X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
         }
       ],
-      "duration_ms": 209186,
-      "name": "Tiger Inside",
-      "url": "https://open.spotify.com/track/2TENPSXQkWNgEFxmi4PRWE"
+      "duration_ms": 141290,
+      "name": "SOMEONE'S SOMEONE",
+      "url": "https://open.spotify.com/track/0nP9JFMx8z5QNl5Ph8ExEa"
     },
     {
       "added_at": "2022-07-04 09:08:18",
       "album": {
-        "name": "DYE",
-        "url": "https://open.spotify.com/album/5lX6uJNNwzEZU7TF1RyAdT"
+        "name": "Why Why Why",
+        "url": "https://open.spotify.com/album/7M784rTDL5CaHN250ibG1Q"
       },
       "artists": [
         {
-          "name": "GOT7",
-          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+          "name": "iKON",
+          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
         }
       ],
-      "duration_ms": 204701,
-      "name": "NOT BY THE MOON",
-      "url": "https://open.spotify.com/track/1pmfd0ohjfh1qXPWvjaC1o"
+      "duration_ms": 206856,
+      "name": "Why Why Why",
+      "url": "https://open.spotify.com/track/0br4r9VlPdofrWXxPorlYd"
     },
     {
       "added_at": "2022-07-04 09:08:18",
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/0kwAgLzLnzQxaKcdubyaMh"
+        "name": "THE FIRST STEP : CHAPTER TWO",
+        "url": "https://open.spotify.com/album/3qOsKiuw6NaywkQnlmETP7"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "duration_ms": 181618,
+      "name": "I LOVE YOU",
+      "url": "https://open.spotify.com/track/4zazrdH47Bkgunb3riXVlJ"
+    },
+    {
+      "added_at": "2022-07-04 09:08:18",
+      "album": {
+        "name": "BORDER : DAY ONE",
+        "url": "https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH"
       },
       "artists": [
         {
@@ -532,9 +580,57 @@
           "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 186872,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/6bLZ6JV1mAGz4xfS1ZwOMV"
+      "duration_ms": 183090,
+      "name": "Given-Taken",
+      "url": "https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC"
+    },
+    {
+      "added_at": "2022-07-04 09:08:18",
+      "album": {
+        "name": "MAP OF THE SOUL : PERSONA",
+        "url": "https://open.spotify.com/album/1AvXa8xFEXtR3hb4bgihIK"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 226321,
+      "name": "Make It Right",
+      "url": "https://open.spotify.com/track/6KUE0HSSudAp9AOycaF6SH"
+    },
+    {
+      "added_at": "2022-07-04 09:08:18",
+      "album": {
+        "name": "The Dream Chapter: MAGIC",
+        "url": "https://open.spotify.com/album/5KoR6s906nbO21C9ZPdwTv"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 211866,
+      "name": "9 and Three Quarters (Run Away)",
+      "url": "https://open.spotify.com/track/2MsNSKQNQNRklkKFxxvIav"
+    },
+    {
+      "added_at": "2022-07-04 09:08:18",
+      "album": {
+        "name": "CIX 1st Album 'OK' Prologue : Be OK",
+        "url": "https://open.spotify.com/album/3pDsgSLUn5213aS3II19WR"
+      },
+      "artists": [
+        {
+          "name": "CIX",
+          "url": "https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd"
+        }
+      ],
+      "duration_ms": 199946,
+      "name": "WAVE",
+      "url": "https://open.spotify.com/track/2vr4CIT7L5syUxNxFXs47f"
     },
     {
       "added_at": "2022-07-04 09:08:18",
@@ -559,214 +655,6 @@
     {
       "added_at": "2022-07-04 09:08:18",
       "album": {
-        "name": "Black Swan",
-        "url": "https://open.spotify.com/album/4RR8ROIGix5CbCGlXHA53I"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 198260,
-      "name": "Black Swan",
-      "url": "https://open.spotify.com/track/24NuEDgyRIljwSyY0lsr7b"
-    },
-    {
-      "added_at": "2022-07-04 09:08:18",
-      "album": {
-        "name": "Reload",
-        "url": "https://open.spotify.com/album/1V5ilz8ghPl1PZJA1hbw3r"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        }
-      ],
-      "duration_ms": 201773,
-      "name": "Ridin'",
-      "url": "https://open.spotify.com/track/0EMD15EVNwDlgGH2CH6ZEL"
-    },
-    {
-      "added_at": "2022-07-04 09:08:18",
-      "album": {
-        "name": "LOVE or TAKE",
-        "url": "https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV"
-      },
-      "artists": [
-        {
-          "name": "PENTAGON",
-          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "DO or NOT",
-      "url": "https://open.spotify.com/track/6AE0npeqcZIebU2EN7jMtL"
-    },
-    {
-      "added_at": "2022-07-04 09:08:18",
-      "album": {
-        "name": "The Chaos Chapter: FIGHT OR ESCAPE",
-        "url": "https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 199919,
-      "name": "LO$ER=LO\u2661ER",
-      "url": "https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6"
-    },
-    {
-      "added_at": "2022-07-04 09:08:18",
-      "album": {
-        "name": "FIRST COLLECTION",
-        "url": "https://open.spotify.com/album/6OWLP5aWafuctNQoJka9LQ"
-      },
-      "artists": [
-        {
-          "name": "SF9",
-          "url": "https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X"
-        }
-      ],
-      "duration_ms": 193358,
-      "name": "Good Guy",
-      "url": "https://open.spotify.com/track/52Ympobu59UXxyhdCUww1y"
-    },
-    {
-      "added_at": "2022-07-04 09:08:18",
-      "album": {
-        "name": "BORDER : DAY ONE",
-        "url": "https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 183090,
-      "name": "Given-Taken",
-      "url": "https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC"
-    },
-    {
-      "added_at": "2022-07-04 09:08:18",
-      "album": {
-        "name": "Return",
-        "url": "https://open.spotify.com/album/1VSMwSajwLiywZBuB8gvP8"
-      },
-      "artists": [
-        {
-          "name": "iKON",
-          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
-        }
-      ],
-      "duration_ms": 209648,
-      "name": "LOVE SCENARIO",
-      "url": "https://open.spotify.com/track/6qAzAmPBUpGrk7XADZHR5k"
-    },
-    {
-      "added_at": "2022-07-04 09:08:18",
-      "album": {
-        "name": "TREASURE EPILOGUE : Action To Answer",
-        "url": "https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "Answer",
-      "url": "https://open.spotify.com/track/3IdPtyJHB1WVPM4eCiCAKM"
-    },
-    {
-      "added_at": "2022-07-04 09:08:18",
-      "album": {
-        "name": "Brother Act.",
-        "url": "https://open.spotify.com/album/3oXEVu3gwToJRkE2xAW44a"
-      },
-      "artists": [
-        {
-          "name": "BTOB",
-          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
-        }
-      ],
-      "duration_ms": 236829,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/2zlgwqw8BLX2JGB76LIFeF"
-    },
-    {
-      "added_at": "2022-07-04 09:08:18",
-      "album": {
-        "name": "The Dream Chapter: MAGIC",
-        "url": "https://open.spotify.com/album/5KoR6s906nbO21C9ZPdwTv"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 211866,
-      "name": "9 and Three Quarters (Run Away)",
-      "url": "https://open.spotify.com/track/2MsNSKQNQNRklkKFxxvIav"
-    },
-    {
-      "added_at": "2022-07-04 09:08:18",
-      "album": {
-        "name": "IN LIFE",
-        "url": "https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 189286,
-      "name": "Back Door",
-      "url": "https://open.spotify.com/track/7I0vl97TYZW86qYdgcD1qu"
-    },
-    {
-      "added_at": "2022-07-04 09:08:18",
-      "album": {
-        "name": "DIMENSION : DILEMMA",
-        "url": "https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 196170,
-      "name": "Tamed-Dashed",
-      "url": "https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy"
-    },
-    {
-      "added_at": "2022-07-04 09:08:18",
-      "album": {
-        "name": "MAP OF THE SOUL : PERSONA",
-        "url": "https://open.spotify.com/album/1AvXa8xFEXtR3hb4bgihIK"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 226321,
-      "name": "Make It Right",
-      "url": "https://open.spotify.com/track/6KUE0HSSudAp9AOycaF6SH"
-    },
-    {
-      "added_at": "2022-07-04 09:08:18",
-      "album": {
         "name": "FATE NUMBER FOR",
         "url": "https://open.spotify.com/album/5hmezEZaQ7D0ntBA9J76kb"
       },
@@ -779,6 +667,38 @@
       "duration_ms": 203056,
       "name": "REALLY REALLY",
       "url": "https://open.spotify.com/track/02UNF1uo5f0UNgc1qx5XGt"
+    },
+    {
+      "added_at": "2022-07-04 09:08:18",
+      "album": {
+        "name": "Still Life",
+        "url": "https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 188369,
+      "name": "Still Life",
+      "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
+    },
+    {
+      "added_at": "2022-07-04 09:08:18",
+      "album": {
+        "name": "BORDER : CARNIVAL",
+        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 193260,
+      "name": "Drunk-Dazed",
+      "url": "https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4"
     },
     {
       "added_at": "2022-07-04 09:08:18",
@@ -799,18 +719,98 @@
     {
       "added_at": "2022-07-04 09:08:18",
       "album": {
-        "name": "GO LIVE",
-        "url": "https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ"
+        "name": "NCT RESONANCE Pt. 1 - The 2nd Album",
+        "url": "https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
         }
       ],
-      "duration_ms": 167922,
-      "name": "God\u2019s Menu",
-      "url": "https://open.spotify.com/track/0RzT9tBLcQhofW2TNiHP9B"
+      "duration_ms": 229400,
+      "name": "Make A Wish (Birthday Song)",
+      "url": "https://open.spotify.com/track/6FdShjf7nA2cqEnpv1tIia"
+    },
+    {
+      "added_at": "2022-07-04 09:08:18",
+      "album": {
+        "name": "EYES (from \u201cArmored Saurus\u201d)",
+        "url": "https://open.spotify.com/album/2yyyLbIoQWvZXudDHeUkOd"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 214197,
+      "name": "EYES (from \u201cArmored Saurus\u201d)",
+      "url": "https://open.spotify.com/track/2jENXjiYuPriGaFNLSmgO5"
+    },
+    {
+      "added_at": "2022-07-04 09:08:18",
+      "album": {
+        "name": "Return",
+        "url": "https://open.spotify.com/album/1VSMwSajwLiywZBuB8gvP8"
+      },
+      "artists": [
+        {
+          "name": "iKON",
+          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
+        }
+      ],
+      "duration_ms": 209648,
+      "name": "LOVE SCENARIO",
+      "url": "https://open.spotify.com/track/6qAzAmPBUpGrk7XADZHR5k"
+    },
+    {
+      "added_at": "2022-07-04 09:08:18",
+      "album": {
+        "name": "The Book of Us : The Demon",
+        "url": "https://open.spotify.com/album/3JX0hnu8b55RtbtEdUSYor"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 209259,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/4s0dJmVknlUl7V6oK3puzZ"
+    },
+    {
+      "added_at": "2022-07-04 09:08:18",
+      "album": {
+        "name": "CIX 4th EP Album \u2018HELLO\u2019 Chapter \u00d8. Hello, Strange Dream",
+        "url": "https://open.spotify.com/album/6uQFA464X4qBT7QOEmZlBm"
+      },
+      "artists": [
+        {
+          "name": "CIX",
+          "url": "https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "Cinema",
+      "url": "https://open.spotify.com/track/45WEkgFSP5Af8Huepaj4P1"
+    },
+    {
+      "added_at": "2022-07-04 09:08:18",
+      "album": {
+        "name": "IN:VITE U",
+        "url": "https://open.spotify.com/album/5vxZM8rFJiNvjtAThYnwek"
+      },
+      "artists": [
+        {
+          "name": "PENTAGON",
+          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
+        }
+      ],
+      "duration_ms": 167213,
+      "name": "Feelin' Like",
+      "url": "https://open.spotify.com/track/5Wll1i0Y8GGjyePcP83L3x"
     }
   ],
   "unique_name": "Hallyu Boy Bands",

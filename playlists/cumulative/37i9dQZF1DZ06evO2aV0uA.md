@@ -4,7 +4,7 @@
 
 > This is Lamb of God\. The essential tracks, all in one playlist.
 
-63 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/41Kl1sEX0TkBb24xn0X36H)
+64 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/41Kl1sEX0TkBb24xn0X36H)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,8 +22,9 @@
 | [Dead Seeds](https://open.spotify.com/track/4KVfAs5lGzPHunOT1OZ5fG) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath](https://open.spotify.com/album/4j5zQAcdn9hWdP9H8BH0jX) | 3:41 | 2022-05-30 |  |
 | [Delusion Pandemic](https://open.spotify.com/track/2bBXQIFi0U3LQaQp2I5F0M) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm und Drang](https://open.spotify.com/album/4JvuAxQRUNbVcw66kFlXH9) | 4:22 | 2022-06-04 | 2022-06-16 |
 | [Descending](https://open.spotify.com/track/2rvQ8M4T6rbpc2c63pwNMu) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament](https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw) | 3:35 | 2022-05-30 |  |
-| [Desolation](https://open.spotify.com/track/7yIAdtIAx9c0bQK36o27a5) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution \(Exclusive Edition\)](https://open.spotify.com/album/4ziMCfnsGVmOIaVjHzcPMk) | 3:54 | 2022-05-30 |  |
-| [Embers \(feat\. Chino Moreno\)](https://open.spotify.com/track/4vIKoOznt2p6YhGSHzrksC) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [Chino Moreno](https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9) | [VII: Sturm Und Drang \(Deluxe\)](https://open.spotify.com/album/01Lg3FKNxZ0We36Exz8Q9V) | 4:56 | 2022-05-30 |  |
+| [Desolation](https://open.spotify.com/track/7siSMBw1wFPPBNoBtXNzMb) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution](https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX) | 3:54 | 2022-07-06 |  |
+| [Desolation](https://open.spotify.com/track/7yIAdtIAx9c0bQK36o27a5) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution \(Exclusive Edition\)](https://open.spotify.com/album/4ziMCfnsGVmOIaVjHzcPMk) | 3:54 | 2022-05-30 | 2022-07-07 |
+| [Embers \(feat\. Chino Moreno\)](https://open.spotify.com/track/4vIKoOznt2p6YhGSHzrksC) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [Chino Moreno](https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9) | [VII: Sturm Und Drang \(Deluxe\)](https://open.spotify.com/album/01Lg3FKNxZ0We36Exz8Q9V) | 4:56 | 2022-05-30 | 2022-07-07 |
 | [Engage the Fear Machine](https://open.spotify.com/track/4R18Uyjo017HPKx6v4Lcab) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm Und Drang \(Deluxe\)](https://open.spotify.com/album/01Lg3FKNxZ0We36Exz8Q9V) | 4:48 | 2022-05-30 |  |
 | [Erase This](https://open.spotify.com/track/6y0PbQqNdZ5uxXuFAhDBJD) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm Und Drang \(Deluxe\)](https://open.spotify.com/album/01Lg3FKNxZ0We36Exz8Q9V) | 5:08 | 2022-05-31 | 2022-06-18 |
 | [Erase This](https://open.spotify.com/track/4canbnkWyGwRYxMo9UHkfX) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm und Drang](https://open.spotify.com/album/4JvuAxQRUNbVcw66kFlXH9) | 5:08 | 2022-06-19 | 2022-07-01 |
@@ -38,7 +39,7 @@
 | [Hit The Wall](https://open.spotify.com/track/4IPEqUgslMB8nfEFdY5Lpm) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Hit The Wall](https://open.spotify.com/album/0XJrScbEI5GTBLOnvqI16x) | 3:37 | 2022-05-30 |  |
 | [Hourglass](https://open.spotify.com/track/2pd1Lm8Jsslf2VdWQv0Je8) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(15th Anniversary\)](https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m) | 4:00 | 2022-05-30 |  |
 | [In the Absence of the Sacred](https://open.spotify.com/track/4TLTg6pKR2dzRgac8eFaiS) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [New American Gospel](https://open.spotify.com/album/53U3R5G1IvQbdl7ZCa052t) | 4:37 | 2022-05-30 | 2022-07-03 |
-| [In Your Words](https://open.spotify.com/track/7lVrIjVb0ctSCo00X7cDOk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath](https://open.spotify.com/album/4j5zQAcdn9hWdP9H8BH0jX) | 5:24 | 2022-05-30 |  |
+| [In Your Words](https://open.spotify.com/track/7lVrIjVb0ctSCo00X7cDOk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath](https://open.spotify.com/album/4j5zQAcdn9hWdP9H8BH0jX) | 5:24 | 2022-05-30 | 2022-07-07 |
 | [King Me](https://open.spotify.com/track/7v5yAaXL6mqdZdl87jmO8T) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution \(Exclusive Edition\)](https://open.spotify.com/album/4ziMCfnsGVmOIaVjHzcPMk) | 6:35 | 2022-06-01 |  |
 | [Laid to Rest](https://open.spotify.com/track/1yc53HK08sDab7PDFgnLWk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(15th Anniversary\)](https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m) | 3:50 | 2022-05-30 |  |
 | [Memento Mori](https://open.spotify.com/track/5I29F9GR0OkaU1nuxp9hU8) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 5:48 | 2022-05-30 |  |
@@ -48,7 +49,7 @@
 | [O.D.H.G.A.B.F.E.](https://open.spotify.com/track/11M3gnPfyG089gHXVwmBKt) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [New American Gospel](https://open.spotify.com/album/53U3R5G1IvQbdl7ZCa052t) | 5:14 | 2022-05-30 |  |
 | [Omerta](https://open.spotify.com/track/4Vb5Y6RQztThqqqFre24wL) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(15th Anniversary\)](https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m) | 4:45 | 2022-05-30 |  |
 | [Pathetic](https://open.spotify.com/track/5PQ3KfvXm88J5h5mXJusPz) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament](https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw) | 4:31 | 2022-05-30 |  |
-| [Purified](https://open.spotify.com/track/1cQS0BcV8HIVSWLeWunEp4) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 3:10 | 2022-05-31 | 2022-06-05 |
+| [Purified](https://open.spotify.com/track/1cQS0BcV8HIVSWLeWunEp4) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 3:10 | 2022-05-31 |  |
 | [Reality Bath](https://open.spotify.com/track/0GwyDNEcUavoLYdK0oDDSI) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 4:32 | 2022-05-30 |  |
 | [Reclamation](https://open.spotify.com/track/57JvwdRmUxwt4zi2Kk4OLC) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath](https://open.spotify.com/album/4j5zQAcdn9hWdP9H8BH0jX) | 7:07 | 2022-05-30 |  |
 | [Redneck](https://open.spotify.com/track/04EtBLFIxbcVt9NdYgcrpF) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament](https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw) | 3:40 | 2022-05-30 |  |
@@ -63,7 +64,7 @@
 | [The Duke](https://open.spotify.com/track/2JTikXpeRiapyDGR1p8ITD) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [The Duke](https://open.spotify.com/album/3RqpVGcEmgxboGRokP02Nw) | 4:31 | 2022-05-30 |  |
 | [The Faded Line](https://open.spotify.com/track/46WIf1TzfOl4jfaWbGn9QT) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(15th Anniversary\)](https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m) | 4:37 | 2022-05-30 |  |
 | [The Number Six](https://open.spotify.com/track/6RZrBh8AdD9dDvcre8OmMA) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution \(Exclusive Edition\)](https://open.spotify.com/album/4ziMCfnsGVmOIaVjHzcPMk) | 5:21 | 2022-05-30 |  |
-| [The Passing](https://open.spotify.com/track/3IwA4T9dOzC15CGnUDDEWy) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath](https://open.spotify.com/album/4j5zQAcdn9hWdP9H8BH0jX) | 1:58 | 2022-06-24 | 2022-07-03 |
+| [The Passing](https://open.spotify.com/track/3IwA4T9dOzC15CGnUDDEWy) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath](https://open.spotify.com/album/4j5zQAcdn9hWdP9H8BH0jX) | 1:58 | 2022-06-24 |  |
 | [The Undertow](https://open.spotify.com/track/2gKK35fVfoGT67MbkPgJY9) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution \(Exclusive Edition\)](https://open.spotify.com/album/4ziMCfnsGVmOIaVjHzcPMk) | 4:46 | 2022-05-30 |  |
 | [To The End](https://open.spotify.com/track/3o0nAblw2F6RMKoehHtPcJ) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution \(Exclusive Edition\)](https://open.spotify.com/album/4ziMCfnsGVmOIaVjHzcPMk) | 3:49 | 2022-05-30 |  |
 | [Vigil](https://open.spotify.com/track/77XOYoYeK1CoTfnKUIXTjk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 4:43 | 2022-05-30 |  |

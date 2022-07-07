@@ -2,7 +2,7 @@
 
 ### [Written By Gaby Music](https://open.spotify.com/playlist/37i9dQZF1EFLhxeP4NjhU5)
 
-> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RQ58d96XlDjmx0a7GZ5xX">Gaby Music</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
+> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RQ58d96XlDjmx0a7GZ5xX">Gaby Music</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
 155 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/5hLQtJC5BnWg5s4UcxlKNP)
 

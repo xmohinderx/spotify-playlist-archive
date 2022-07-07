@@ -234,6 +234,32 @@
     },
     {
       "album": {
+        "name": "Terra Tremuit",
+        "url": "https://open.spotify.com/album/595yW89COgQLM94cAmcQ2Y"
+      },
+      "artists": [
+        {
+          "name": "Antoine Brumel",
+          "url": "https://open.spotify.com/artist/7kOay3yTSziCfffTrlEqsD"
+        },
+        {
+          "name": "Studio De Musique Ancienne De Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/3vhg0gyXArvYgyse9AQvHs"
+        },
+        {
+          "name": "Christopher Jackson",
+          "url": "https://open.spotify.com/artist/0nTIpHKhGTnIqzi24kN6oK"
+        }
+      ],
+      "date_added": "2016-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348200,
+      "name": "Et ecce terrae motus: Kyrie (The Earthquake Mass)",
+      "url": "https://open.spotify.com/track/6ZLjh6Os8Wh0A5sRXnwPvz"
+    },
+    {
+      "album": {
         "name": "Pavans And Fantasies From The Age Of Dowland",
         "url": "https://open.spotify.com/album/11YZ7bLfXrkzsP6byd4BZe"
       },
@@ -691,32 +717,6 @@
       "duration_ms": 612000,
       "name": "Miserere mei, Deus",
       "url": "https://open.spotify.com/track/7xD3YUxCq1yV6K1EXXml8t"
-    },
-    {
-      "album": {
-        "name": "Terra Tremuit",
-        "url": "https://open.spotify.com/album/595yW89COgQLM94cAmcQ2Y"
-      },
-      "artists": [
-        {
-          "name": "Antoine Brumel",
-          "url": "https://open.spotify.com/artist/7kOay3yTSziCfffTrlEqsD"
-        },
-        {
-          "name": "Studio De Musique Ancienne De Montr\u00e9al",
-          "url": "https://open.spotify.com/artist/3vhg0gyXArvYgyse9AQvHs"
-        },
-        {
-          "name": "Christopher Jackson",
-          "url": "https://open.spotify.com/artist/0nTIpHKhGTnIqzi24kN6oK"
-        }
-      ],
-      "date_added": "2016-02-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 348200,
-      "name": "Missa Et ecce terrae motus (The Earthquake Mass): Kyrie",
-      "url": "https://open.spotify.com/track/6ZLjh6Os8Wh0A5sRXnwPvz"
     },
     {
       "album": {

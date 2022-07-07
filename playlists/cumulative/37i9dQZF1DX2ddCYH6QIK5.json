@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: SEDA, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: The Komets, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "published_playlist_ids": [
     "769sf2A9Kk835wCxbodHwy"
@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "5778",
+        "url": "https://open.spotify.com/album/5iEDxd5JCvUxOrDP96Een5"
+      },
+      "artists": [
+        {
+          "name": "Jonas Schilling",
+          "url": "https://open.spotify.com/artist/4KvdEbdoiioc52G5hno5gf"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394919,
+      "name": "5778",
+      "url": "https://open.spotify.com/track/0lQ8MwXv5B7GSDIrALw2x5"
+    },
+    {
+      "album": {
         "name": "5th Element",
         "url": "https://open.spotify.com/album/3kg2WPU6Sns41icDwnoE20"
       },
@@ -113,7 +131,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 284379,
       "name": "7 Tage",
       "url": "https://open.spotify.com/track/7F63YlipDAEFyCOblvc7gC"
@@ -178,6 +196,24 @@
     },
     {
       "album": {
+        "name": "Against Water",
+        "url": "https://open.spotify.com/album/7DnraLVsCKEXtCAvuoJ95e"
+      },
+      "artists": [
+        {
+          "name": "Laura Oliveira",
+          "url": "https://open.spotify.com/artist/5fQlnuUxgJbQ7WgP29U478"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "Against Water",
+      "url": "https://open.spotify.com/track/3ADIHniiuGbiPYhjkK6oUx"
+    },
+    {
+      "album": {
         "name": "Ah Oke",
         "url": "https://open.spotify.com/album/5sZDQSzZ04FC77Eo6NjFAm"
       },
@@ -193,7 +229,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 119000,
       "name": "Ah Oke",
       "url": "https://open.spotify.com/track/5LVKCKBN4u37YNFxlq4jen"
@@ -499,7 +535,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 206980,
       "name": "Ballet",
       "url": "https://open.spotify.com/track/1HRLsCPOgE5iYoeNWBrAg5"
@@ -897,6 +933,24 @@
       "duration_ms": 192012,
       "name": "Bring The Beat Back",
       "url": "https://open.spotify.com/track/0EqAZEQA660aYDZAJQvOfX"
+    },
+    {
+      "album": {
+        "name": "Into Bloom",
+        "url": "https://open.spotify.com/album/6zRMHHL2ijmWB4IjLBbNoL"
+      },
+      "artists": [
+        {
+          "name": "The Komets",
+          "url": "https://open.spotify.com/artist/4ACTgWHhFRo3ZbxRpBXUSj"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186403,
+      "name": "By the Sea",
+      "url": "https://open.spotify.com/track/3HsUSsTHJS6Xt1ZVrUM9DM"
     },
     {
       "album": {
@@ -1766,6 +1820,28 @@
     },
     {
       "album": {
+        "name": "Hidden Peak",
+        "url": "https://open.spotify.com/album/4r39P3IcmkJ3rIiGKbOwIg"
+      },
+      "artists": [
+        {
+          "name": "Annett Gapstream",
+          "url": "https://open.spotify.com/artist/1aRB0SZZ28qswBQ037uYvD"
+        },
+        {
+          "name": "Daniele Di Martino",
+          "url": "https://open.spotify.com/artist/1P0crNTkAtkSEDCGsbd2JJ"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411700,
+      "name": "Felicity",
+      "url": "https://open.spotify.com/track/1MiQ67ljfXuuxh25CbdbUr"
+    },
+    {
+      "album": {
         "name": "Flatterndes Herz",
         "url": "https://open.spotify.com/album/7wMRjqu90pwlGDMXijXOTp"
       },
@@ -2395,6 +2471,24 @@
       "duration_ms": 227253,
       "name": "Hope To Come",
       "url": "https://open.spotify.com/track/1XvfechfNIOBX6xouFCyrR"
+    },
+    {
+      "album": {
+        "name": "House",
+        "url": "https://open.spotify.com/album/7qPgLMlCZpJIuuBaDkxCKg"
+      },
+      "artists": [
+        {
+          "name": "Andrina Bollinger",
+          "url": "https://open.spotify.com/artist/2q3FpbEgilJkxSn0e5B5xp"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124643,
+      "name": "House",
+      "url": "https://open.spotify.com/track/0yFbrrnHFnAFIzW820sSnO"
     },
     {
       "album": {
@@ -3530,6 +3624,24 @@
     },
     {
       "album": {
+        "name": "Okay.",
+        "url": "https://open.spotify.com/album/5orfxdnu9rIz5YWafnyqcm"
+      },
+      "artists": [
+        {
+          "name": "Leevo",
+          "url": "https://open.spotify.com/artist/6Kiz5me3OrxGGsEFl9d5qu"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161288,
+      "name": "Mehr",
+      "url": "https://open.spotify.com/track/4lgi1NMBdcqoIb2DDMdRHk"
+    },
+    {
+      "album": {
         "name": "Messed Up",
         "url": "https://open.spotify.com/album/0JACH2mBW7ti3BPFD7C39N"
       },
@@ -3999,7 +4111,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 155136,
       "name": "Ohne Benzin",
       "url": "https://open.spotify.com/track/3a0F2N6rXJSibQTp77xH4f"
@@ -4205,7 +4317,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 328500,
       "name": "Pink City",
       "url": "https://open.spotify.com/track/6eK8tvbZ8JVofdqYQdC5ZK"
@@ -4475,7 +4587,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 176567,
       "name": "ready now",
       "url": "https://open.spotify.com/track/6FBe4eVw7wV48G3iijUbmj"
@@ -4685,7 +4797,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 193328,
       "name": "Run Run Run",
       "url": "https://open.spotify.com/track/2VdBjLDR5gKnnGtLv4yTUP"
@@ -4977,7 +5089,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 227796,
       "name": "Something To Save - Radio Edit",
       "url": "https://open.spotify.com/track/2y18y42IEQlAsUHoRWSduw"
@@ -5400,6 +5512,24 @@
     },
     {
       "album": {
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/5nRhkyBupbJVorHbAzrcwV"
+      },
+      "artists": [
+        {
+          "name": "Ma Fleur",
+          "url": "https://open.spotify.com/artist/6tfcRIX77qxX3KZB1v94k7"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229756,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/39KQg3YzjiygWXvetF8jkp"
+    },
+    {
+      "album": {
         "name": "tennis",
         "url": "https://open.spotify.com/album/1VJy5s99Xr8KwMHHr6pblJ"
       },
@@ -5433,6 +5563,24 @@
       "duration_ms": 252670,
       "name": "The Bakery",
       "url": "https://open.spotify.com/track/2VS5CV8LOK0mPzJhMmpl9S"
+    },
+    {
+      "album": {
+        "name": "The Day You Leave",
+        "url": "https://open.spotify.com/album/7uh4dGroVB7fcsvQjrS8K0"
+      },
+      "artists": [
+        {
+          "name": "Brainchild",
+          "url": "https://open.spotify.com/artist/0OnYJ5YCfbfPkg99aPNBDy"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244960,
+      "name": "The Day You Leave",
+      "url": "https://open.spotify.com/track/2aMKJkY6dq0YSFdKd9ieRz"
     },
     {
       "album": {
@@ -5573,7 +5721,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 163259,
       "name": "tonight",
       "url": "https://open.spotify.com/track/5ekn0rTXRpR5M99v64inDc"
@@ -5847,7 +5995,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 215938,
       "name": "Walking",
       "url": "https://open.spotify.com/track/5L3HVdTDyyrh9xD3qJE9M6"
@@ -6164,6 +6312,24 @@
     },
     {
       "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/4jBzQ1FPyCESGbjygOnHer"
+      },
+      "artists": [
+        {
+          "name": "Miss Sophy",
+          "url": "https://open.spotify.com/artist/0eWBXmmeiJ0Z2Ue7HPmk1d"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196290,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/48g5nJtoHS4nwoJAXJYN5Q"
+    },
+    {
+      "album": {
         "name": "You Can't Escape the Future",
         "url": "https://open.spotify.com/album/7dakmFDwm0vjxBhjFlrMSX"
       },
@@ -6215,6 +6381,24 @@
       "duration_ms": 226108,
       "name": "You Fall in Love Too Easily",
       "url": "https://open.spotify.com/track/16dam6afpsO5q8NDwq1z6m"
+    },
+    {
+      "album": {
+        "name": "Young and Online",
+        "url": "https://open.spotify.com/album/1QtOVtDSDEq7FH5bMrfUJu"
+      },
+      "artists": [
+        {
+          "name": "Cousines like Shit",
+          "url": "https://open.spotify.com/artist/31m36kfWrLAbE0uLkMFBLX"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160714,
+      "name": "Young and Online",
+      "url": "https://open.spotify.com/track/4h2WWRA7mHRgPVpIGfEfR3"
     },
     {
       "album": {

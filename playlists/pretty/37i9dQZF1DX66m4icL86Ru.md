@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Rihanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 595,553 likes - 83 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,231 likes - 83 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

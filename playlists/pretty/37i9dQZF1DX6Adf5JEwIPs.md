@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: El Fantasma
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,570 likes - 54 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,633 likes - 54 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Soldado Caido](https://open.spotify.com/track/2R0XLhQjJWkAz6kOniuyOs) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Soldado Caido](https://open.spotify.com/album/4dUfwpxtL9UyaZiNld8sSm) | 3:02 |
+| 1 | [Soldado Caído](https://open.spotify.com/track/2R0XLhQjJWkAz6kOniuyOs) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Soldado Caído](https://open.spotify.com/album/4dUfwpxtL9UyaZiNld8sSm) | 3:02 |
 | 2 | [Pasos Lentos](https://open.spotify.com/track/2gwWr4oV3hN9PVJZd3KDAe) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Agradecido](https://open.spotify.com/album/3MKAMCVlSIMDWnnBihi6JH) | 2:04 |
 | 3 | [EL INFIERNO](https://open.spotify.com/track/2DhbJTNWJ4ChxnMEcY0WAq) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [EL INFIERNO](https://open.spotify.com/album/5zM5b1Ha8HwK6w5xRO4DFf) | 3:37 |
 | 4 | [Las Edades \(En Vivo\)](https://open.spotify.com/track/1nSKgYax4b9dEM67jWPVgT) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Las Edades \(En Vivo\)](https://open.spotify.com/album/6B8h0NCYvt8pu1zn17rZKF) | 2:51 |

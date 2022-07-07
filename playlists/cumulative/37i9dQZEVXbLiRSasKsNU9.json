@@ -2100,6 +2100,24 @@
     },
     {
       "album": {
+        "name": "Twenty Twenty",
+        "url": "https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272157,
+      "name": "Chateau (Feel Alright)",
+      "url": "https://open.spotify.com/track/41mclLjggl2nmbYpRisKrh"
+    },
+    {
+      "album": {
         "name": "Cherry Wine",
         "url": "https://open.spotify.com/album/7rmnI5M8WN5TaK0pZkLV7J"
       },
@@ -3211,7 +3229,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 219373,
       "name": "El Amor De Su Vida",
       "url": "https://open.spotify.com/track/5zMgWyXawwhTbCh74tiMxD"
@@ -4264,6 +4282,24 @@
     },
     {
       "album": {
+        "name": "You've Got A Good Love Comin'",
+        "url": "https://open.spotify.com/album/4sOTQhdDVzGJaG3GUJttnq"
+      },
+      "artists": [
+        {
+          "name": "Lee Greenwood",
+          "url": "https://open.spotify.com/artist/3g229vTyhsdwm9SO2p1FPL"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190546,
+      "name": "God Bless The U.S.A.",
+      "url": "https://open.spotify.com/track/4pDU8T52yTGZutyDQd8qSF"
+    },
+    {
+      "album": {
         "name": "God Is A Freak",
         "url": "https://open.spotify.com/album/1MNgeaQuHhr47jSmqQH47e"
       },
@@ -4581,7 +4617,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 212996,
       "name": "Hell's Comin' with Me",
       "url": "https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO"
@@ -6893,7 +6929,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 219000,
       "name": "Mi Bebito Fiu Fiu",
       "url": "https://open.spotify.com/track/2IjeU3uHr9gU0b9Cn33jAs"
@@ -7447,7 +7483,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 125480,
       "name": "Never Ending Story",
       "url": "https://open.spotify.com/track/7r6xGsyES2DTacyP6O585i"

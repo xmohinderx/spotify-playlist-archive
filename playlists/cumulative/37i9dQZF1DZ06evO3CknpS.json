@@ -261,6 +261,32 @@
       },
       "artists": [
         {
+          "name": "Robert Sherman",
+          "url": "https://open.spotify.com/artist/5f4noQpEoJy7W1Jsa6aQyR"
+        },
+        {
+          "name": "Erick Friedman",
+          "url": "https://open.spotify.com/artist/4xaVVQxKoP1ZhamR8rUFOT"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242773,
+      "name": "Commentary: Interviews",
+      "url": "https://open.spotify.com/track/6zAR0wKfhrYUFraTXoz0xW"
+    },
+    {
+      "album": {
+        "name": "Music In and On The Air",
+        "url": "https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1"
+      },
+      "artists": [
+        {
           "name": "Johann Sebastian Bach",
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
@@ -341,7 +367,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 291266,
       "name": "Concluding Commentary",
       "url": "https://open.spotify.com/track/0dRnK0LPz48bh0R0CUVRlZ"

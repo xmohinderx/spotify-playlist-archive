@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Song Of The Week at the top\. Standouts go to <a href="https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy">Big Hit Energy</a> and <a href="https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv">2022% Solid Pop Music</a>\. More: <a href="http://popjustice.com">Popjustice.com</a>.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,336 likes - 16 songs - 51 min 41 sec
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,340 likes - 16 songs - 51 min 41 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 | 9 | [Let Love Go](https://open.spotify.com/track/6wULOKKYcFk3K6bJnFPxMg) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Let Love Go](https://open.spotify.com/album/1neoGq8qTuu9k4QbBQqxgj) | 2:53 |
 | 10 | [New Money \(feat\. 21 Savage\)](https://open.spotify.com/track/5ycvEFxPeQqqkdOUgWhrJl) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [New Money \(feat\. 21 Savage\)](https://open.spotify.com/album/1aRWXKL4e4pFg6Z3ObHKKw) | 2:50 |
 | 11 | [Krystyna](https://open.spotify.com/track/16OBFQHUYdViNQ4AfbqqgK) | [Ralph Kaminski](https://open.spotify.com/artist/7l1IUcuGTEXMuD1aN3wFqw) | [Krystyna](https://open.spotify.com/album/0SDJH59bYGl5s8rMpmWPIq) | 4:52 |
-| 12 | [Hard Out Here](https://open.spotify.com/track/3xsMSBzPNfRqyeBXIaGp70) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Hard out Here](https://open.spotify.com/album/33sdZi8FYROqKaXRMwQHAV) | 3:11 |
+| 12 | [Hard Out Here](https://open.spotify.com/track/3xsMSBzPNfRqyeBXIaGp70) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Hard Out Here](https://open.spotify.com/album/33sdZi8FYROqKaXRMwQHAV) | 3:11 |
 | 13 | [You](https://open.spotify.com/track/7MMJ9Q17oBliVibFIJUno7) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [You](https://open.spotify.com/album/1V53YQu5B0LtyeG5hF7q5J) | 3:41 |
 | 14 | [Never Really Loved Me \(with Dean Lewis\)](https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Never Really Loved Me \(with Dean Lewis\)](https://open.spotify.com/album/1wbg9GPcUBlvM9uYjdqZ2D) | 3:22 |
 | 15 | [Welcome To My Party](https://open.spotify.com/track/5DFEGVTSf00cgzXwgATH27) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [Welcome To My Party](https://open.spotify.com/album/2oHF9ph6J8fmx0W1SjLSlR) | 2:04 |

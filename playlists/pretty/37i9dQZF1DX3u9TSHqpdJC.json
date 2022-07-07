@@ -1,13 +1,205 @@
 {
-  "description": "The best new pop music by independent artists. Updates every Wednesday. Cover: Yael Danon Artwork: Paola Saliby\n",
-  "num_followers": 163068,
+  "description": "The best new pop music by independent artists. Updates every Wednesday. Cover: Brigetta Artwork: Paola Saliby\n",
+  "num_followers": 163238,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjU2MjY5NywwMDAwMDZhMzAwMDAwMTgxYjJkNGM2ZjUwMDAwMDE4MWFjMmJjNTNj",
+  "snapshot_id": "MTY1NzExNzk5OCwwMDAwMDZhNDAwMDAwMTgxZDNlZGZmMjAwMDAwMDE4MWQxNjE3OWRj",
   "tracks": [
+    {
+      "added_at": "2022-07-06 14:33:18",
+      "album": {
+        "name": "Immature",
+        "url": "https://open.spotify.com/album/1QUlW7bCRIDZmJtuY59GXb"
+      },
+      "artists": [
+        {
+          "name": "Brigetta",
+          "url": "https://open.spotify.com/artist/6dAOkHEQVpVD8mFj7OQv8M"
+        }
+      ],
+      "duration_ms": 165174,
+      "name": "Immature",
+      "url": "https://open.spotify.com/track/3G5rwPtdFHQRdpcjpmiKw8"
+    },
+    {
+      "added_at": "2022-07-06 14:33:18",
+      "album": {
+        "name": "i lost my friend at a rave",
+        "url": "https://open.spotify.com/album/6nP8L69qkApF7sJ0LSag6g"
+      },
+      "artists": [
+        {
+          "name": "Abby Bella May",
+          "url": "https://open.spotify.com/artist/7wMih0kHtN3mLG2I93WXH8"
+        }
+      ],
+      "duration_ms": 180409,
+      "name": "i lost my friend at a rave",
+      "url": "https://open.spotify.com/track/1XvIHLaJ1pX7lDC8CW9sTV"
+    },
+    {
+      "added_at": "2022-07-06 14:33:18",
+      "album": {
+        "name": "BUCKLE UP",
+        "url": "https://open.spotify.com/album/38xoZjwstC5LlgHLTpoBQN"
+      },
+      "artists": [
+        {
+          "name": "CROOK",
+          "url": "https://open.spotify.com/artist/2MQIOKK2Z1vaRmtnFUyyUv"
+        }
+      ],
+      "duration_ms": 144466,
+      "name": "BUCKLE UP",
+      "url": "https://open.spotify.com/track/1O7cBHLXgkhH81A5Jax0mk"
+    },
+    {
+      "added_at": "2022-07-06 14:33:18",
+      "album": {
+        "name": "Carsick",
+        "url": "https://open.spotify.com/album/2kvGRMPD2fjjzJS9Wwaqdz"
+      },
+      "artists": [
+        {
+          "name": "Chrissy",
+          "url": "https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f"
+        }
+      ],
+      "duration_ms": 187504,
+      "name": "Carsick",
+      "url": "https://open.spotify.com/track/53QIhVdWpIG3NmpkhoqFy6"
+    },
+    {
+      "added_at": "2022-07-06 14:33:18",
+      "album": {
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/6Yr9GJw4aOdR0HCDTEjfAq"
+      },
+      "artists": [
+        {
+          "name": "Siobh\u00e1n",
+          "url": "https://open.spotify.com/artist/2baEkum1duFPLdhCttdTcp"
+        }
+      ],
+      "duration_ms": 241909,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/28yw2fVqczsN9TCTmtpQ5L"
+    },
+    {
+      "added_at": "2022-07-06 14:33:18",
+      "album": {
+        "name": "Never Have I Ever",
+        "url": "https://open.spotify.com/album/6R3MgvmxnfiFehhi1W03jA"
+      },
+      "artists": [
+        {
+          "name": "Claar",
+          "url": "https://open.spotify.com/artist/2GTZtqW1zQ1KGf4KvRPBXa"
+        }
+      ],
+      "duration_ms": 181082,
+      "name": "Never Have I Ever",
+      "url": "https://open.spotify.com/track/5ElsElxP6VluGCdNVQrkcF"
+    },
+    {
+      "added_at": "2022-07-06 14:33:18",
+      "album": {
+        "name": "Up In The Sky",
+        "url": "https://open.spotify.com/album/4edTXgynYjblkVFVHtHzDd"
+      },
+      "artists": [
+        {
+          "name": "Emilee Moore",
+          "url": "https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m"
+        }
+      ],
+      "duration_ms": 233751,
+      "name": "Up In The Sky",
+      "url": "https://open.spotify.com/track/5DGUvMn0jGSCJIbAv9HqfU"
+    },
+    {
+      "added_at": "2022-07-06 14:33:18",
+      "album": {
+        "name": "Tongue",
+        "url": "https://open.spotify.com/album/6fwozR7KIRyaPF34GUODcj"
+      },
+      "artists": [
+        {
+          "name": "KEEKS",
+          "url": "https://open.spotify.com/artist/1a0szpyoLfe9iC1II42U4o"
+        }
+      ],
+      "duration_ms": 175524,
+      "name": "Tongue",
+      "url": "https://open.spotify.com/track/72CQvFsq5eCmwdQAvNHw0s"
+    },
+    {
+      "added_at": "2022-07-06 14:33:18",
+      "album": {
+        "name": "plain chip",
+        "url": "https://open.spotify.com/album/78GuTKkqxNUe8SqSJxKlBh"
+      },
+      "artists": [
+        {
+          "name": "VAL\u00c9",
+          "url": "https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE"
+        }
+      ],
+      "duration_ms": 160754,
+      "name": "plain chip",
+      "url": "https://open.spotify.com/track/3OnjXW05hcOQ8aXhj1rlPv"
+    },
+    {
+      "added_at": "2022-07-06 14:33:18",
+      "album": {
+        "name": "home",
+        "url": "https://open.spotify.com/album/35AY0CysZ16bapvMLM69ZJ"
+      },
+      "artists": [
+        {
+          "name": "Ss.hh.a.n.a",
+          "url": "https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE"
+        }
+      ],
+      "duration_ms": 185086,
+      "name": "home",
+      "url": "https://open.spotify.com/track/1RB220WNY36lP8i50pseMZ"
+    },
+    {
+      "added_at": "2022-07-06 14:33:18",
+      "album": {
+        "name": "You Don't Decide",
+        "url": "https://open.spotify.com/album/5S5U2QOZo3o38mY0gVhj59"
+      },
+      "artists": [
+        {
+          "name": "Blake",
+          "url": "https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa"
+        }
+      ],
+      "duration_ms": 161512,
+      "name": "You Don't Decide",
+      "url": "https://open.spotify.com/track/1C3JCbvpq16SArd3dxZw5s"
+    },
+    {
+      "added_at": "2022-07-06 14:33:18",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/0e1duhKpJ6Kik6d77iLe4w"
+      },
+      "artists": [
+        {
+          "name": "W1ZE",
+          "url": "https://open.spotify.com/artist/5yEpeaMokz3lTtjloWgQO5"
+        }
+      ],
+      "duration_ms": 152041,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/4aflKB9woUwqWTqYvHR1GL"
+    },
     {
       "added_at": "2022-06-29 04:00:00",
       "album": {
@@ -619,22 +811,6 @@
     {
       "added_at": "2022-06-08 14:56:35",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/21v7ToSBBRAjCW11iCJzcD"
-      },
-      "artists": [
-        {
-          "name": "Kat Kennedy",
-          "url": "https://open.spotify.com/artist/08xYUuniSTJtOwpC1lATSX"
-        }
-      ],
-      "duration_ms": 144768,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/7oj3CLbn0f7yPfzjMjC2Fq"
-    },
-    {
-      "added_at": "2022-06-08 14:56:35",
-      "album": {
         "name": "Twenty.",
         "url": "https://open.spotify.com/album/4gDOkLfwgstoUowqdt09Pi"
       },
@@ -713,22 +889,6 @@
       "url": "https://open.spotify.com/track/6ulISz5xjqD5spyFPsnSLT"
     },
     {
-      "added_at": "2022-05-25 04:00:00",
-      "album": {
-        "name": "Bitter",
-        "url": "https://open.spotify.com/album/6DpvX52pvTP7qYju4xuZdf"
-      },
-      "artists": [
-        {
-          "name": "KARLOU",
-          "url": "https://open.spotify.com/artist/131Nt5WXYdNyWbQZ9CsxPm"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Bitter",
-      "url": "https://open.spotify.com/track/69pczFa1NP2hfuXHX9LKup"
-    },
-    {
       "added_at": "2022-06-08 14:56:35",
       "album": {
         "name": "Miss Rhode Island",
@@ -759,22 +919,6 @@
       "duration_ms": 173493,
       "name": "No One Is Safe",
       "url": "https://open.spotify.com/track/6X4a9ebR59X1LvoKdnLm1G"
-    },
-    {
-      "added_at": "2022-06-08 14:56:35",
-      "album": {
-        "name": "Violet Girl",
-        "url": "https://open.spotify.com/album/0D0w7tKzh0BTq29882Q3A8"
-      },
-      "artists": [
-        {
-          "name": "Stellie",
-          "url": "https://open.spotify.com/artist/0WGMPhb6ipresPQfFcIxwH"
-        }
-      ],
-      "duration_ms": 141941,
-      "name": "Violet Girl",
-      "url": "https://open.spotify.com/track/0U6IojximKPyl92ITAYcYv"
     },
     {
       "added_at": "2022-05-18 00:00:00",
@@ -859,22 +1003,6 @@
       "duration_ms": 190588,
       "name": "Benzos",
       "url": "https://open.spotify.com/track/4pTnwlfR8XtfJ6kAGirzed"
-    },
-    {
-      "added_at": "2022-05-25 04:00:00",
-      "album": {
-        "name": "Don't Speak",
-        "url": "https://open.spotify.com/album/2nmYJgDcmugXNbCKVbr5Fc"
-      },
-      "artists": [
-        {
-          "name": "Sam Heselwood",
-          "url": "https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6"
-        }
-      ],
-      "duration_ms": 198666,
-      "name": "Don't Speak",
-      "url": "https://open.spotify.com/track/5lH2EChSyHjd8oB5wXIuG6"
     },
     {
       "added_at": "2022-05-18 00:00:00",
@@ -975,22 +1103,6 @@
     {
       "added_at": "2022-05-25 04:00:00",
       "album": {
-        "name": "Rocket Science",
-        "url": "https://open.spotify.com/album/6MWK0X2Bn7xIpKIt3YNYhc"
-      },
-      "artists": [
-        {
-          "name": "Haley Gold",
-          "url": "https://open.spotify.com/artist/6O9lZQoUyrZVY1dVJ0NlG9"
-        }
-      ],
-      "duration_ms": 185736,
-      "name": "Rocket Science",
-      "url": "https://open.spotify.com/track/2o3pfn5RI5anPcKJ4LI7hA"
-    },
-    {
-      "added_at": "2022-05-25 04:00:00",
-      "album": {
         "name": "Background Songs For Your Boring Life",
         "url": "https://open.spotify.com/album/3EJOfz2Kr0lvGvtlVOo52Z"
       },
@@ -1083,38 +1195,6 @@
       "duration_ms": 180060,
       "name": "Run & Hide",
       "url": "https://open.spotify.com/track/4ReVKQaXjsl7ihqY43pbXB"
-    },
-    {
-      "added_at": "2022-05-18 00:00:00",
-      "album": {
-        "name": "Being Alone is the Best",
-        "url": "https://open.spotify.com/album/6ZyD0Z0TgwbzKn8Eh9nbxb"
-      },
-      "artists": [
-        {
-          "name": "Lulu Simon",
-          "url": "https://open.spotify.com/artist/3Z5BbiIldlrLYBVVHKdhYa"
-        }
-      ],
-      "duration_ms": 196733,
-      "name": "Being Alone is the Best",
-      "url": "https://open.spotify.com/track/17WzKXf25kieO7Phu7MTKZ"
-    },
-    {
-      "added_at": "2022-05-18 00:00:00",
-      "album": {
-        "name": "Paragraphs",
-        "url": "https://open.spotify.com/album/1koEUN6PDTOxf0P23KncHo"
-      },
-      "artists": [
-        {
-          "name": "MCK",
-          "url": "https://open.spotify.com/artist/4gTs9iz3O0hzMwY2U2XKS7"
-        }
-      ],
-      "duration_ms": 148160,
-      "name": "Paragraphs",
-      "url": "https://open.spotify.com/track/6ufTMIgflciiAb7mk2PAhg"
     },
     {
       "added_at": "2022-05-18 00:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados\. En portada: J Balvin y Ryan Castro
 
-[Spotify](https://open.spotify.com/user/spotify) - 895,249 likes - 57 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 895,307 likes - 57 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 19 | [Dembow Dominicano](https://open.spotify.com/track/6IiPbCJXLJbigeFoWuftWa) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [Dembow Dominicano](https://open.spotify.com/album/1Q6G7NqJ3cN2rTtnNO25za) | 2:36 |
 | 20 | [Mañana](https://open.spotify.com/track/6zt714oXx7CEE2XPTSiCeZ) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Mañana](https://open.spotify.com/album/1lw7fksyyscESEnD5W0I4O) | 3:18 |
 | 21 | [Mi Debilidad](https://open.spotify.com/track/4v0sauzLj1dl0qal8Df10K) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Mi Debilidad](https://open.spotify.com/album/2pF1NY0OFobpsMF8lkzIRq) | 2:38 |
-| 22 | [Soldado Caido](https://open.spotify.com/track/2R0XLhQjJWkAz6kOniuyOs) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Soldado Caido](https://open.spotify.com/album/4dUfwpxtL9UyaZiNld8sSm) | 3:02 |
+| 22 | [Soldado Caído](https://open.spotify.com/track/2R0XLhQjJWkAz6kOniuyOs) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Soldado Caído](https://open.spotify.com/album/4dUfwpxtL9UyaZiNld8sSm) | 3:02 |
 | 23 | [Pasos Lentos](https://open.spotify.com/track/2gwWr4oV3hN9PVJZd3KDAe) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Agradecido](https://open.spotify.com/album/3MKAMCVlSIMDWnnBihi6JH) | 2:04 |
 | 24 | [EL INFIERNO](https://open.spotify.com/track/2DhbJTNWJ4ChxnMEcY0WAq) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [EL INFIERNO](https://open.spotify.com/album/5zM5b1Ha8HwK6w5xRO4DFf) | 3:37 |
 | 25 | [Loco Perdido](https://open.spotify.com/track/0gqwkA3qqPhXL4rD8h4zCZ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Loco Perdido](https://open.spotify.com/album/0gTjxUP1aLdE8TEm6fC33Y) | 3:32 |

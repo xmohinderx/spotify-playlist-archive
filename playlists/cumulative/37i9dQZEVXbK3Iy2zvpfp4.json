@@ -586,6 +586,24 @@
     },
     {
       "album": {
+        "name": "Costa Rica",
+        "url": "https://open.spotify.com/album/4ywSu0JCtzQD1IpXZn2eQf"
+      },
+      "artists": [
+        {
+          "name": "Ekhoe",
+          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141147,
+      "name": "Costa Rica",
+      "url": "https://open.spotify.com/track/3q8b8Rn1UB0bG9QG2yBgIQ"
+    },
+    {
+      "album": {
         "name": "COWBELL WARRIOR!",
         "url": "https://open.spotify.com/album/42sN2l32ODOPtJGQLsoukt"
       },
@@ -1183,7 +1201,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 166437,
       "name": "KOKAINA",
       "url": "https://open.spotify.com/track/4Xq0cVrd0JDXQ0p3mlKAr3"
@@ -1303,6 +1321,24 @@
       "duration_ms": 164095,
       "name": "Malo Tebya",
       "url": "https://open.spotify.com/track/6DG4UNYc86nHIMYlsrpRrz"
+    },
+    {
+      "album": {
+        "name": "Master Of Puppets (Remastered)",
+        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515386,
+      "name": "Master Of Puppets",
+      "url": "https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i"
     },
     {
       "album": {
@@ -1561,7 +1597,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 167154,
       "name": "Moment\u00e1lne se*iem na usporiadan\u00fd \u017eivot",
       "url": "https://open.spotify.com/track/4wTnDqkUPqToiNx8GfurgE"
@@ -1919,7 +1955,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 137000,
       "name": "Pullup",
       "url": "https://open.spotify.com/track/6Rc6C6S4lgT5j1OekgI155"
@@ -2487,7 +2523,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 177720,
       "name": "Until I Found You",
       "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"

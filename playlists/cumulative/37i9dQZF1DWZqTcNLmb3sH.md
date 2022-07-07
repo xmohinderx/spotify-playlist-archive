@@ -2,7 +2,7 @@
 
 ### [Latest Kannada](https://open.spotify.com/playlist/37i9dQZF1DWZqTcNLmb3sH)
 
-> Check out the latest hits from Sandalwood!<br/>Cover : KGF 2
+> Check out the latest hits from Sandalwood!<br/>Cover : Vikrant Rona
 
 270 songs - 16 hr 42 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
 

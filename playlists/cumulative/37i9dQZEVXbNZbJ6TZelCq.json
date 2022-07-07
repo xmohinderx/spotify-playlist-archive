@@ -3061,7 +3061,7 @@
       ],
       "date_added": "2021-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 141333,
       "name": "Cum O Dai Tu",
       "url": "https://open.spotify.com/track/5TL2ui5tdet8DSvZTaHZbe"
@@ -9803,7 +9803,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 202000,
       "name": "O mie de pahare",
       "url": "https://open.spotify.com/track/3uzOTvWDZoafuN04gw6UI1"
@@ -11723,7 +11723,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 204939,
       "name": "Run BTS",
       "url": "https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM"
@@ -14915,6 +14915,24 @@
       "duration_ms": 165506,
       "name": "We're Good",
       "url": "https://open.spotify.com/track/1diS6nkxMQc3wwC4G1j0bh"
+    },
+    {
+      "album": {
+        "name": "Manele",
+        "url": "https://open.spotify.com/album/59JWFfKhTL1N3Gv24rXd9p"
+      },
+      "artists": [
+        {
+          "name": "Denis Nuca",
+          "url": "https://open.spotify.com/artist/4TLna5dZJK26djhdP36lmj"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230769,
+      "name": "Wella, Wella",
+      "url": "https://open.spotify.com/track/0rYu4nHgFeTmeDizGs7CtI"
     },
     {
       "album": {

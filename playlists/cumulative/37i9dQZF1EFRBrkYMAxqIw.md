@@ -2,7 +2,7 @@
 
 ### [Written By Hannah Wilson](https://open.spotify.com/playlist/37i9dQZF1EFRBrkYMAxqIw)
 
-> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/76LEMAAXaxvnvt22nn8DUH">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
+> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/76LEMAAXaxvnvt22nn8DUH">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
 66 songs - 3 hr 35 min - [published](https://open.spotify.com/playlist/3Ih1sOEfxby6LAb2KRAQFS)
 

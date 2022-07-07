@@ -2,15 +2,16 @@
 
 ### [Written By Charlene Meulenberg](https://open.spotify.com/playlist/37i9dQZF1EFIT9yLhyYuHE)
 
-> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/41ePM6C85zfhtOuTEfuooq">Charlene Meulenberg</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
+> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/41ePM6C85zfhtOuTEfuooq">Charlene Meulenberg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-49 songs - 2 hr 32 min - [published](https://open.spotify.com/playlist/6em251h4Qy6i0PaiBqmC9I)
+50 songs - 2 hr 36 min - [published](https://open.spotify.com/playlist/6em251h4Qy6i0PaiBqmC9I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [90's Gibson](https://open.spotify.com/track/0K5b1Mllvlhg5vroZjHaik) | [Jordan Roy](https://open.spotify.com/artist/0Xbe5WowYl9OkE5bMMs7vp) | [90's Gibson](https://open.spotify.com/album/1rVN6ndCttiTdkIgBwsm4b) | 2:59 | 2022-05-29 |  |
 | [All Your Kisses](https://open.spotify.com/track/0WnqVkeUxgbi8A1DchJx9o) | [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [All Your Kisses](https://open.spotify.com/album/7AEzkVcSRLqyDwC2m39sPx) | 2:41 | 2022-05-29 |  |
-| [Amplify](https://open.spotify.com/track/5I0esgCIo8V9qHamLPOErr) | [Birgit Schuurman](https://open.spotify.com/artist/3t8YK94jSx9SebLHxsrAba) | [Amplify](https://open.spotify.com/album/1inKeG9SJ3NX8KZE1dpQVT) | 3:51 | 2022-05-29 |  |
+| [Amplify](https://open.spotify.com/track/5I0esgCIo8V9qHamLPOErr) | [Birgit Schuurman](https://open.spotify.com/artist/3t8YK94jSx9SebLHxsrAba) | [Amplify](https://open.spotify.com/album/1inKeG9SJ3NX8KZE1dpQVT) | 3:51 | 2022-05-29 | 2022-07-07 |
+| [Amplify](https://open.spotify.com/track/1NPMjz6Dmg5kQZU5FM8hLI) | [Birgit Schuurman](https://open.spotify.com/artist/3t8YK94jSx9SebLHxsrAba) | [A Fool for Love](https://open.spotify.com/album/2Sn0PHXNQ1Lt50QU8LdIKw) | 4:02 | 2022-07-06 |  |
 | [Antibodies](https://open.spotify.com/track/2kEvC6w9wRf96llW9sJrRU) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [L.A.](https://open.spotify.com/album/3IoL5TIdSTdVrZTPZ6OjVM) | 3:20 | 2022-05-29 |  |
 | [Bad Habit](https://open.spotify.com/track/0CEr4FjLrq3rXGOX3QpL2O) | [Michael Amani](https://open.spotify.com/artist/2NXXWnN62QbWBGoHCyKrTn) | [Bad Habit](https://open.spotify.com/album/5fLCMpxPwZk9au9gtZbqmf) | 2:28 | 2022-05-29 |  |
 | [Beautiful Day](https://open.spotify.com/track/66wc1L7gytArP1Djm4AHfB) | [Navarra](https://open.spotify.com/artist/0sicYxfFEHrVTYM4BjOvFA), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [Beautiful Day](https://open.spotify.com/album/4SlcKMw18CQGyMAUPvQ00t) | 3:38 | 2022-05-29 |  |

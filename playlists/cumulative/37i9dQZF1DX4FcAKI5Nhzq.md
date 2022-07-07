@@ -2,7 +2,7 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! Cover: LEE MINHYUK \(HUTA\)
+> Future K\-Pop hits! Cover: ENHYPEN
 
 590 songs - 1 day 8 hr 58 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
 

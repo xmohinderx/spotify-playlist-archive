@@ -2690,6 +2690,24 @@
     },
     {
       "album": {
+        "name": "ESSE \u00c9 O PIQUE DA COMUNIDADE",
+        "url": "https://open.spotify.com/album/5sm5rmVVq3LNYTNzPPXtas"
+      },
+      "artists": [
+        {
+          "name": "DJ ITIN DO PC",
+          "url": "https://open.spotify.com/artist/7CBjDWTTQp1vtSAygafCIo"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125538,
+      "name": "ESSE \u00c9 O PIQUE DA COMUNIDADE",
+      "url": "https://open.spotify.com/track/0fWwUv810L5NYm0eg1oyuU"
+    },
+    {
+      "album": {
         "name": "LITTLE HAIR",
         "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
       },
@@ -4145,7 +4163,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 145971,
       "name": "Joga Pra Raul - Joga pra Ladr\u00e3o",
       "url": "https://open.spotify.com/track/05EXMbRzJ4BFhvR1xNrj21"
@@ -8573,10 +8591,28 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 213312,
       "name": "Tem Cabar\u00e9 Essa Noite",
       "url": "https://open.spotify.com/track/2qjrr9H563mSppz1V2NgKI"
+    },
+    {
+      "album": {
+        "name": "O Rei do Lambad\u00e3o",
+        "url": "https://open.spotify.com/album/4N3qXnzt4ZDCjdmvxGyBwd"
+      },
+      "artists": [
+        {
+          "name": "Nivaldo Marques",
+          "url": "https://open.spotify.com/artist/38KlCsh4vAknywZfVbJuvH"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213320,
+      "name": "Tem Cabar\u00e9 Essa Noite",
+      "url": "https://open.spotify.com/track/6i2EwqPMXGpqvvlzvNdzqQ"
     },
     {
       "album": {
@@ -9649,6 +9685,10 @@
         {
           "name": "DJ Patrick R",
           "url": "https://open.spotify.com/artist/0WL2xTzoE0X3Uu0ewOsxaO"
+        },
+        {
+          "name": "DJ TOM BEAT V8",
+          "url": "https://open.spotify.com/artist/7JrtGfK3zFkUdwqOMIw0qt"
         }
       ],
       "date_added": "2022-07-03",

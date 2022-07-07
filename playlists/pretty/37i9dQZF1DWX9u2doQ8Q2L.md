@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,409 likes - 70 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,824 likes - 70 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 27 | [10000回のL.O.V.E\. <3](https://open.spotify.com/track/4NenrnLwNcpnvZqxpj4ivi) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [10000回のL.O.V.E\. <3](https://open.spotify.com/album/3Na0PrQ0J4tMJzRLrLcnaS) | 4:16 |
 | 28 | [Kink](https://open.spotify.com/track/0ElSHxC8ZfIHBlJG6qCSjN) | [井戸健人](https://open.spotify.com/artist/4PlzrQn4QMNelRxDC51Z7u) | [I’m here, where are you](https://open.spotify.com/album/6HSPv5UPO4T4beQaQldvOg) | 4:37 |
 | 29 | [mayonnaise](https://open.spotify.com/track/4lErKE9FjE7pbqY85t3nn5) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [EGO APARTMENT](https://open.spotify.com/album/2eY4Vn0kpCGAIg58PlT8yB) | 3:46 |
-| 30 | [April](https://open.spotify.com/track/4p7hs6SCUxRXtcRxFHTdim) | [ISSUGI](https://open.spotify.com/artist/37hLlbtNh8yXKbVHK13gsp), [DJ SCRATCH NICE](https://open.spotify.com/artist/0MfeTyPtbuue9oZFIMD2wY), [Eujin KAWI](https://open.spotify.com/artist/54dKFTqDLEv2NN1AjNyU0w), [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP), [BES](https://open.spotify.com/artist/0eclqlcc0hJCIAeWj3nF1H) | [April](https://open.spotify.com/album/5Isv8UUpEDt5gGLkmvW8Kt) | 3:34 |
+| 30 | [April](https://open.spotify.com/track/4p7hs6SCUxRXtcRxFHTdim) | [ISSUGI](https://open.spotify.com/artist/37hLlbtNh8yXKbVHK13gsp), [DJ SCRATCH NICE](https://open.spotify.com/artist/0MfeTyPtbuue9oZFIMD2wY), [EUJIN KAWI](https://open.spotify.com/artist/0bQ58uhl7lh1bHcHQXLgqC), [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP), [BES](https://open.spotify.com/artist/0eclqlcc0hJCIAeWj3nF1H) | [April](https://open.spotify.com/album/5Isv8UUpEDt5gGLkmvW8Kt) | 3:34 |
 | 31 | [Lemon Man](https://open.spotify.com/track/5FjklXsttFbTHipX9DsvXF) | [sankara](https://open.spotify.com/artist/7mt4mnzU3kea0RFoGBEmtD) | [Lemon Man](https://open.spotify.com/album/7ubdDTcKXTdgRmPNmq2un1) | 3:24 |
 | 32 | [A.O.U](https://open.spotify.com/track/6oyagq8m6zMSeIGmCXkceD) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [A.O.U](https://open.spotify.com/album/671xpFoPFWV4zfs8C5yuuv) | 4:18 |
 | 33 | [Tokyo on My Mind](https://open.spotify.com/track/29ESobGNliucNomS7MnqlN) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Nathan Hartono](https://open.spotify.com/artist/6n8yGGsqYQhvH412YUbBsd) | [Tokyo on My Mind](https://open.spotify.com/album/2TG1nnIg6Hhp9oQrW55slW) | 4:16 |

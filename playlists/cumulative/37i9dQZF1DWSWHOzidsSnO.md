@@ -2,9 +2,9 @@
 
 ### [EQUAL Colombia](https://open.spotify.com/playlist/37i9dQZF1DWSWHOzidsSnO)
 
-> ¡Karen Lizarazo y más mujeres, a todo volumen!
+> ¡Paola Jara y más mujeres, a todo volumen!
 
-108 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/4BjclhMki5D8Bs9ZwTy9s8)
+109 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/4BjclhMki5D8Bs9ZwTy9s8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Los Consejos](https://open.spotify.com/track/17A6MT3U1YKYsYpn3tOEpA) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Los Consejos](https://open.spotify.com/album/2Cs0jR06nsyXtAIRwQq1hs) | 2:56 | 2022-01-05 |  |
 | [Lástima](https://open.spotify.com/track/5jaEobaW0naP6FP2GnQuY5) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Después de Todo: Compilado Latinoamericano](https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX) | 2:38 | 2022-03-09 |  |
 | [Maligno](https://open.spotify.com/track/12xZFzT1kYByFjXFYLIRkm) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Caribe Atomico](https://open.spotify.com/album/2NW9u5fZwmxvXx6otvibtG) | 4:09 | 2022-01-05 | 2022-03-05 |
-| [Mariposas](https://open.spotify.com/track/2NXjSc70bijXn2OXzkRzCb) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Mariposas](https://open.spotify.com/album/2fMiZ4guqZIS5f0CoCh2Lv) | 2:30 | 2022-05-06 |  |
+| [Mariposas](https://open.spotify.com/track/2NXjSc70bijXn2OXzkRzCb) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Mariposas](https://open.spotify.com/album/2fMiZ4guqZIS5f0CoCh2Lv) | 2:30 | 2022-05-06 | 2022-07-07 |
 | [Me Duele](https://open.spotify.com/track/2srklBkaBf5cCIeVCmyZso) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [Me Duele](https://open.spotify.com/album/5rnykaeDDoPwOTG0e6PuKN) | 3:10 | 2022-01-05 |  |
 | [Me Liberé](https://open.spotify.com/track/1hCaiILikh8EbuuvHi8aVX) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc), [Guafa Trío](https://open.spotify.com/artist/6mtgqH9aTL4tvdBheEoaN6) | [Me Liberé](https://open.spotify.com/album/30gLK3cqK2HuoG1PmgOZZk) | 4:15 | 2022-01-05 | 2022-03-10 |
 | [Mesero](https://open.spotify.com/track/21CrqHsZwx6RJKShoYOvJf) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV), [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT) | [Mesero](https://open.spotify.com/album/3xM0T3G0a4aQI0HUHnmZ79) | 2:20 | 2022-05-06 |  |
@@ -93,6 +93,7 @@
 | [Perro Es Perro](https://open.spotify.com/track/3fYStiduJeyLoraptOBWLD) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [Perro Es Perro](https://open.spotify.com/album/3PXimCd1eMcfJFCAfCy9gC) | 2:51 | 2022-03-04 |  |
 | [Por Infiel](https://open.spotify.com/track/6kA6ItJcRJTQK3XkZqnEy1) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV) | [Por Infiel](https://open.spotify.com/album/0eHJV4b2FT7jGtLZG1VQ4H) | 2:46 | 2022-03-04 | 2022-05-07 |
 | [Ruiseñora](https://open.spotify.com/track/6vlRIofLfepIf7IPG2wZlD) | [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Ruiseñora](https://open.spotify.com/album/2TCFGGgfl6tV6TEonST3Jm) | 3:43 | 2022-01-05 |  |
+| [Salud Por Él](https://open.spotify.com/track/41Ix7ovR9I9fXcEy8hDcOj) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Prohibido, Salud Por Él Y Más Éxitos](https://open.spotify.com/album/73ibYU5GkSI4s9r7gLbtPb) | 3:46 | 2022-07-06 |  |
 | [SEJODIOTO](https://open.spotify.com/track/704LUEih663hiE3CnyUrFW) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [SEJODIOTO](https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc) | 3:01 | 2022-01-05 |  |
 | [Si Quieres Marcharte Feat\. Dstance \(Cap\. 1\)](https://open.spotify.com/track/6ZuMhCPd0VP6vfjQIuJaOX) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Si Quieres Marcharte Feat\. Dstance \(Cap\. 1\)](https://open.spotify.com/album/2inN1Sd7GBOyIIDpIlkhZX) | 2:50 | 2022-01-05 |  |
 | [Te Creí](https://open.spotify.com/track/1G2ZDpnDiNoS2hLunRxsvL) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Te Creí](https://open.spotify.com/album/03IYqrR1pFpSIRi323LrwW) | 4:02 | 2022-01-05 | 2022-03-05 |

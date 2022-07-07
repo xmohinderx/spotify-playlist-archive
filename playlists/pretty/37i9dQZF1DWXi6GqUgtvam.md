@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi6GqUgtvam.md) - [plain]
 
 > shaketh thy bottom to these medieval bops.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,560 likes - 51 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,716 likes - 51 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,10 +4,11 @@
 
 > Soul to brighten up your day.
 
-86 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/5ZYeq6EiVK1uhWkAtkmba0)
+87 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/5ZYeq6EiVK1uhWkAtkmba0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [...Til the Cops Come Knockin' \- Remastered 2021](https://open.spotify.com/track/2x28X8t6xaomkkn1ssHJ5E) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 6:55 | 2022-01-05 |  |
 | [100 Days, 100 Nights](https://open.spotify.com/track/69YW4FrGpsjzt9lr517bUz) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [100 Days, 100 Nights](https://open.spotify.com/album/5AaBCtOPHVJMYcDyLgu5BD) | 3:45 | 2022-01-05 |  |
 | [Ain't No Use](https://open.spotify.com/track/0tjjWJfZyceooAGlRfZTh1) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B](https://open.spotify.com/album/0mjmpOTgR8UaqUSNjCL9Aq) | 4:40 | 2022-01-05 |  |
 | [All For Love](https://open.spotify.com/track/6vU8If1zpZDzYQdTa2Rvgp) | [Adriana Evans](https://open.spotify.com/artist/6sCf6HW9zBhLN64XC8tRdv) | [El Camino](https://open.spotify.com/album/6qS7HFeGOxWm7zplMU419G) | 4:25 | 2022-01-05 |  |
@@ -21,7 +22,7 @@
 | [Can't Change Me](https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9) | [N'Dambi](https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX) | [A Weird Kinda Wonderful](https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa) | 5:11 | 2022-01-05 |  |
 | [Can't Hardly Wait](https://open.spotify.com/track/36Pk18O34Y8aL4noAMONYz) | [N'Dambi](https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX) | [Pink Elephant \(International\)](https://open.spotify.com/album/30PkpS49rq0BHoWKWC8Pfu) | 4:26 | 2022-01-05 |  |
 | [Cards](https://open.spotify.com/track/5QZdS4lYhW27Y8RJGSdPfV) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Underneath the Surface](https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35) | 4:14 | 2022-01-05 |  |
-| [Charlene](https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Comin' From Where I'm From](https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em) | 4:06 | 2022-01-05 |  |
+| [Charlene](https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Comin' From Where I'm From](https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em) | 4:06 | 2022-01-05 | 2022-07-07 |
 | [Come and Be a Winner](https://open.spotify.com/track/6oobvM9iZY1OF18kC36llz) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Soul of a Woman](https://open.spotify.com/album/6dQ4PANge8QXfOywlHNd2J) | 2:56 | 2022-01-05 |  |
 | [Coming Home](https://open.spotify.com/track/5EA06TsQmqmQXZiEhr1AaM) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home](https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg) | 3:26 | 2022-01-05 |  |
 | [Cornbread, Fish & Collard Greens](https://open.spotify.com/track/7km1tntASwmtyzGr8vaT0e) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Comin' From Where I'm From](https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em) | 4:33 | 2022-01-05 |  |

@@ -1568,6 +1568,24 @@
     },
     {
       "album": {
+        "name": "Que Raro",
+        "url": "https://open.spotify.com/album/7dDFKnpDJYSKDLJ2941cgu"
+      },
+      "artists": [
+        {
+          "name": "Jossef",
+          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172400,
+      "name": "Que Raro",
+      "url": "https://open.spotify.com/track/3ojvSojw2CF9fQDoAfAqJG"
+    },
+    {
+      "album": {
         "name": "Fases",
         "url": "https://open.spotify.com/album/42UkwcLnmxuSSkqpjrwbuH"
       },

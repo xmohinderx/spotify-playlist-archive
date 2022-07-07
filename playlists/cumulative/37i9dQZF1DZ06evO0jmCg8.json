@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 281386,
       "name": "Blood On Your Hands",
       "url": "https://open.spotify.com/track/122dV7zqPVekyeVmJQXnvD"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 219960,
       "name": "Bury Me an Angel",
       "url": "https://open.spotify.com/track/1BjwSyq9atUodrIxPbJ1vq"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 272880,
       "name": "City of the Dead",
       "url": "https://open.spotify.com/track/3KTUAqTNYTeZBXcnAJdB1A"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 287733,
       "name": "Reason to Believe",
       "url": "https://open.spotify.com/track/02gIPDHCTuKgKEl2VlgPzt"
@@ -689,6 +689,24 @@
       "duration_ms": 316306,
       "name": "Savage Messiah",
       "url": "https://open.spotify.com/track/2XhiaLljpaCG9nZomMpZol"
+    },
+    {
+      "album": {
+        "name": "Will To Power",
+        "url": "https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78413,
+      "name": "Set Flame to the Night",
+      "url": "https://open.spotify.com/track/06Fzhn4M28HZx48H9IXA4j"
     },
     {
       "album": {
@@ -829,7 +847,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 242813,
       "name": "Symphony of Destruction - cover version",
       "url": "https://open.spotify.com/track/0WxklKp98Lt2Gr3dqHBjDa"

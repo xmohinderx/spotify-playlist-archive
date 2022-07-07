@@ -4,7 +4,7 @@
 
 > Hip\-hop mexicano, rimas de la calle, en viva voz de Dharius.
 
-168 songs - 9 hr 57 min - [published](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
+169 songs - 10 hr 0 min - [published](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Todo Va a Estar Bien](https://open.spotify.com/track/3XjRIN9vEt35lm1iStPcgq) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Todo Va a Estar Bien](https://open.spotify.com/album/6iwqcQcjkN9xVlhG840W9a) | 4:27 | 2022-01-28 | 2022-05-07 |
 | [Toma 4](https://open.spotify.com/track/5UUkHi8YrakZKY9gDbtVNz) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Toma 4](https://open.spotify.com/album/7Il1eXMjz7OJExifvW8Vgt) | 3:20 | 2022-04-22 |  |
 | [Too Much Flow](https://open.spotify.com/track/2ZBlDOQlq043eg34LwW54c) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Too Much Flow](https://open.spotify.com/album/1lp5sffsnaXjF5W5BxMKrK) | 3:34 | 2022-01-28 | 2022-04-25 |
+| [Trankilikilon](https://open.spotify.com/track/1iBEsTx19SMZNerprDKNQT) | [Adan Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Trankilikilon](https://open.spotify.com/album/6JiEE9Gp2A4ltyUz43mHtn) | 3:34 | 2022-07-06 |  |
 | [Tumbando Avión](https://open.spotify.com/track/3twvxdFxeR1VCWkoR60gKW) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Tumbando Avión](https://open.spotify.com/album/0EFOk4KGhVB8zIozX6wW2m) | 3:00 | 2022-05-06 |  |
 | [TUY](https://open.spotify.com/track/7IQB5Jkkf8bKW6BDdEu97N) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD), [Adan Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [TUY](https://open.spotify.com/album/0NDnj55CvMmYgEAA2ei3JA) | 4:30 | 2022-01-28 | 2022-03-05 |
 | [Uh La La](https://open.spotify.com/track/238haksMvqT5hcKtznBLop) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Uh La La](https://open.spotify.com/album/37E856Cum11u0LJognB6Xp) | 3:30 | 2022-04-01 |  |

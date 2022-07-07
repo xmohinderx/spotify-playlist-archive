@@ -5335,7 +5335,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 187352,
       "name": "\u05d1\u05d0\u05ea\u05d9 \u05dc\u05d4\u05e6\u05d9\u05dc \u05d0\u05d5\u05ea\u05da",
       "url": "https://open.spotify.com/track/6SuC1LItQ9V9SjET2EvvtD"
@@ -6171,7 +6171,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 211320,
       "name": "\u05d7\u05e0\u05e0\u05d9\u05d4",
       "url": "https://open.spotify.com/track/2cDJbr9zb9nx1bB2upCz13"
@@ -6321,6 +6321,24 @@
       "duration_ms": 169584,
       "name": "\u05d8\u05e8\u05e0\u05d8\u05d5\u05e0\u05d4",
       "url": "https://open.spotify.com/track/5pszKUrVXrL8MZ3UJb2fX3"
+    },
+    {
+      "album": {
+        "name": "\u05d9\u05d0\u05dc\u05dc\u05d4 \u05d1\u05d9\u05d9",
+        "url": "https://open.spotify.com/album/4bhj4uZODLIVtCJkg7bI7J"
+      },
+      "artists": [
+        {
+          "name": "Maya Dadon",
+          "url": "https://open.spotify.com/artist/2CFhpsYDfBaq8q9enYLdBG"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152263,
+      "name": "\u05d9\u05d0\u05dc\u05dc\u05d4 \u05d1\u05d9\u05d9",
+      "url": "https://open.spotify.com/track/1XO1AePYpXpLxtRWpcaJiJ"
     },
     {
       "album": {
@@ -8237,7 +8255,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 151442,
       "name": "\u05e9\u05d1\u05d5\u05e2 \u05d8\u05d5\u05d1",
       "url": "https://open.spotify.com/track/4Ow0gCGxYfOcyiCuZOt9mp"

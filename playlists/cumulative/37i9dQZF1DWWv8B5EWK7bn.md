@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-107 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/53YlmOlKHZkvBIAusSdsbN)
+108 songs - 7 hr 39 min - [published](https://open.spotify.com/playlist/53YlmOlKHZkvBIAusSdsbN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Rain Take Me Back Himalaya](https://open.spotify.com/track/4S2be7DT90dt19piW7wj8O) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU) | [Plexiglass](https://open.spotify.com/album/34vLOdj6NXH9oESFFJa9F1) | 4:27 | 2022-07-04 |  |
 | [Reverie](https://open.spotify.com/track/3SliuInyApsQsaDwCDbbvY) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 4:18 | 2021-10-06 |  |
 | [Right Is Alright, Wrong Is To Belong](https://open.spotify.com/track/3MQ8tI1RbEj7SL0FVG9sTt) | [Moin](https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e) | [Moot!](https://open.spotify.com/album/4CBieA8DZ8kL8Dr49KvPFT) | 4:57 | 2021-10-06 |  |
+| [Ritual in Transfigured Time](https://open.spotify.com/track/5c1WARTmXsU40hCFsh2nWp) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Painting Box](https://open.spotify.com/album/3vUuEVJpnQBcmSiEYbjoC1) | 4:38 | 2022-07-06 |  |
 | [Rivers That You Cannot See](https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Rivers That You Cannot See](https://open.spotify.com/album/35iioCINJwSsujHf6csIMy) | 3:55 | 2021-10-06 |  |
 | [Robber](https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Robber](https://open.spotify.com/album/2qx7Ow0ojN6OPb64V5b5t5) | 5:20 | 2021-10-06 |  |
 | [Run](https://open.spotify.com/track/4mhrqvqLes5QzRelxP3klq) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV), [Ólavur Jákupsson](https://open.spotify.com/artist/0gfdV2BOENhfosiHzk0MCG) | [Run](https://open.spotify.com/album/1tWka09kn2nK24LI9pEWi6) | 5:11 | 2022-03-11 |  |
@@ -114,6 +115,6 @@
 | [Year of Love](https://open.spotify.com/track/2P0LyX02PXKXKMPOH7Zff7) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Year of Love](https://open.spotify.com/album/31PsAJJtuhlTV0rqmFzjtU) | 4:13 | 2022-01-19 |  |
 | [You Are Not An Island](https://open.spotify.com/track/4dZoE86OgZ0LrFWAsrAXNP) | [Vanishing Twin](https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5) | [The Age Of Immunology](https://open.spotify.com/album/0GiTOlUP38QYUf0TJm12DT) | 7:31 | 2021-10-06 |  |
 | [Zoo Eyes](https://open.spotify.com/track/2U8xna6lhdG5KYiC2IXahH) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/0QNJa03XQeMOuQhi9izThh) | 5:17 | 2021-10-06 |  |
-| [¡Oh, Algoritmo! \(feat\. Noga Erez\)](https://open.spotify.com/track/5HAjAcrI1mrA1PlhKHXJ0v) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Tinta y Tiempo](https://open.spotify.com/album/7drLytofGXezhYswIuCGHu) | 3:04 | 2022-04-22 |  |
+| [¡Oh, Algoritmo! \(feat\. Noga Erez\)](https://open.spotify.com/track/5HAjAcrI1mrA1PlhKHXJ0v) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Tinta y Tiempo](https://open.spotify.com/album/7drLytofGXezhYswIuCGHu) | 3:04 | 2022-04-22 | 2022-07-07 |
 
 \*This playlist was first scraped on 2022-05-11. Prior content cannot be recovered.

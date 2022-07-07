@@ -4,7 +4,7 @@
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Phương Ly
 
-82 songs - 5 hr 23 min - [published](https://open.spotify.com/playlist/04IRwdQz860iINipt3YtIB)
+83 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/04IRwdQz860iINipt3YtIB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Da Lau Roi](https://open.spotify.com/track/6SiVDtUuESkBzjUl2raZkN) | [Cheung](https://open.spotify.com/artist/2CYz62cthPQ03xzOFpq683) | [Da Lau Roi](https://open.spotify.com/album/4BIytzT0MGjXs8nfrkF2FO) | 4:10 | 2021-12-07 | 2022-05-20 |
 | [Do You?](https://open.spotify.com/track/03m9ySk1by3w5w5sqhthiJ) | [Linh Cáo](https://open.spotify.com/artist/0vTUa2hbNHke3omoGxuKFm) | [Do You?](https://open.spotify.com/album/58oksYYTlFF652wUrMQpwE) | 2:39 | 2021-12-07 | 2022-01-01 |
 | [Duyen Am](https://open.spotify.com/track/5dZHey2U2xrNpvgyop8URS) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [Hoang](https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u) | 2:59 | 2021-12-07 |  |
-| [dưới ánh đèn sân khấu \(feat\. Orange\)](https://open.spotify.com/track/7J9kDGkBf5BiWUCELfZdql) | [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP), [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [COLOURS](https://open.spotify.com/album/2eIFX7bSus6CHnQ6Ts5mCh) | 4:03 | 2022-06-01 |  |
+| [dưới ánh đèn sân khấu \(feat\. Orange\)](https://open.spotify.com/track/7J9kDGkBf5BiWUCELfZdql) | [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP), [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [COLOURS](https://open.spotify.com/album/2eIFX7bSus6CHnQ6Ts5mCh) | 4:03 | 2022-06-01 | 2022-07-07 |
 | [Em Day Chang Phai Thuy Kieu](https://open.spotify.com/track/031jyNUkkD02vrkgZDGJxu) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [Hoang](https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u) | 3:34 | 2021-12-31 |  |
 | [Em Hát Ai Nghe](https://open.spotify.com/track/1SzlLbTE7hTs75M2R1a1Tg) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [Em Hát Ai Nghe](https://open.spotify.com/album/484MnMltSafY73ocrCoKgv) | 4:39 | 2021-12-07 |  |
 | [Em Không Hiểu](https://open.spotify.com/track/1izPmgSW7FV6XFdEOiTvOY) | [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9), [Minh Huy](https://open.spotify.com/artist/5zT1Ku9mzzl6RW5y4z0hUK) | [Em Không Hiểu](https://open.spotify.com/album/1TAJ1v7uOXi6lzXQSF3wjn) | 3:57 | 2021-12-07 |  |
@@ -73,6 +73,7 @@
 | [See Tình](https://open.spotify.com/track/3bZGGKrMQLDGg18y2QqKFF) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [See Tình](https://open.spotify.com/album/1AttOIOFrGkOPNSq5mB4pd) | 3:05 | 2022-02-23 |  |
 | [Siren](https://open.spotify.com/track/1c0LbgYt51JeBUMAzofjkq) | [TGSN](https://open.spotify.com/artist/2OkxNsNz7QXCBwlME0fSsk), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [RZ Mas](https://open.spotify.com/artist/39UJlviUwzZGZrA8DiQy31) | [Siren](https://open.spotify.com/album/0Cb2HIaYbo2in1yXeDoxv0) | 2:37 | 2022-05-03 |  |
 | [So Close](https://open.spotify.com/track/4UxaMIzEAHLGmNeLoutSaL) | [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj), [Phuong Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [So Close](https://open.spotify.com/album/2JfqJ783KDwUriEeMOxWhx) | 3:19 | 2022-07-05 |  |
+| [Sunday Love](https://open.spotify.com/track/6bJyBH7HDV4wVW2EMkAFCO) | [Hoàng Rob](https://open.spotify.com/artist/43qZrcVKZleWlmoBVRBPO8), [Bùi Lan Hương](https://open.spotify.com/artist/2XtMx7EHHODQSeBzDCBec9), [SlimV](https://open.spotify.com/artist/2m8Bk9or6quybzoQbM0zQt) | [Sunday Love](https://open.spotify.com/album/7pl5E0rNJ79gO1lgLTSet8) | 4:00 | 2022-07-06 |  |
 | [thay mọi cô gái yêu anh](https://open.spotify.com/track/7e8Kt6pX4Y589CJL37mIWa) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [thay mọi cô gái yêu anh](https://open.spotify.com/album/3hR3yDFUQhLex9F9goRs80) | 3:35 | 2022-02-06 |  |
 | [Thích Quá Rùi Nà](https://open.spotify.com/track/6jcG3yZ0e2CSI6omkYO1ut) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [Thích Quá Rùi Nà](https://open.spotify.com/album/2Uejuvo8WwGMH3hUe8NGsO) | 2:58 | 2021-12-07 |  |
 | [thế giới không anh](https://open.spotify.com/track/4IpeOlxcNz1IFVvZ2ll7In) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [yesteryear](https://open.spotify.com/album/33EIrbMJq7O5fQ1WPcwaB4) | 4:19 | 2021-12-07 | 2022-06-01 |

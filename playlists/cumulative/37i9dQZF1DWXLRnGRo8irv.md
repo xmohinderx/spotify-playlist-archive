@@ -2,9 +2,9 @@
 
 ### [EQUAL Korea](https://open.spotify.com/playlist/37i9dQZF1DWXLRnGRo8irv)
 
-> 한국 여성들의 목소리가 담긴 플레이리스트를 감상해보세요\. \(커버: Weeekly\(위클리\)\)
+> 한국 여성들의 목소리가 담긴 플레이리스트를 감상해보세요\. \(커버: fromis\_9\(프로미스나인\)\)
 
-348 songs - 20 hr 19 min - [published](https://open.spotify.com/playlist/43k4c9vIwa5D757ihXdBwg)
+350 songs - 20 hr 25 min - [published](https://open.spotify.com/playlist/43k4c9vIwa5D757ihXdBwg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Birthday](https://open.spotify.com/track/2yeUTELaBRpyY0e43F6skB) | [Nody Cika](https://open.spotify.com/artist/2pETIGvbFcdUF0CnODpycj) | [Birthday](https://open.spotify.com/album/3sOAX8284RnBctv1fPJ0Cl) | 2:53 | 2022-01-04 | 2022-02-02 |
 | [Bittersweet](https://open.spotify.com/track/25xZOc4SVkqRfzjoAYRCJu) | [Evelyn Hahn](https://open.spotify.com/artist/1396Izxfp684qKybVFEAY3) | [Bittersweet](https://open.spotify.com/album/6JDKMKdtdaL38IPbb02hdH) | 4:09 | 2022-02-01 | 2022-03-08 |
 | [Blanket \(feat\. Wonstein\)](https://open.spotify.com/track/1A03hQduqL0zSx6s90c2kV) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Blanket](https://open.spotify.com/album/6JJgCrqlob8AaNBNu2vzRF) | 3:32 | 2022-02-01 | 2022-03-08 |
+| [Blind Letter](https://open.spotify.com/track/0m9rYzS9NLLN9ioiJA0pT1) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from our Memento Box](https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo) | 2:40 | 2022-07-06 |  |
 | [Bling](https://open.spotify.com/track/6K2DdmOxp30WLqng00JxwC) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [I'M LOVIN' AMY](https://open.spotify.com/album/3AL0qHWE5sF8SYY273nFXX) | 3:08 | 2022-03-07 | 2022-04-06 |
 | [blooming](https://open.spotify.com/track/4ZEdXvd8rWGwOArzGzXr2u) | [Kim Marie](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [blooming](https://open.spotify.com/album/4m6i862LBcQlLoDR5INrN3) | 3:59 | 2022-04-05 | 2022-05-05 |
 | [Blue Eyes](https://open.spotify.com/track/5J3doH0tu7c3LU4Hjfh0br) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [OPEN](https://open.spotify.com/album/3sWCaTJS9BlBIlp2ECBh9t) | 3:18 | 2021-12-08 | 2022-01-05 |
@@ -154,7 +155,7 @@
 | [It's Up To You](https://open.spotify.com/track/3QbiluNxFQwPJQ9LKNxdKy) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [It's Up To You \(A Business Proposal OST Part.10\)](https://open.spotify.com/album/6f19PO9nBLYsUzifWyWHpn) | 4:28 | 2022-04-05 | 2022-05-05 |
 | [Its Crazy](https://open.spotify.com/track/4HF7TCPZOllyyhQ5Na3pPd) | [LANA](https://open.spotify.com/artist/2WRKYYCW80D3Xha2E85Ins) | [Its Crazy](https://open.spotify.com/album/28pqvY0tYJzSLhgaQs4H6C) | 3:32 | 2022-04-05 | 2022-05-05 |
 | [Jockey Full of Bourbon](https://open.spotify.com/track/4x3k6Voh2jxe4A32LOow7R) | [Youn Sun Nah](https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj) | [Voyage](https://open.spotify.com/album/4J12DNGFaxKJvuacO3LjZY) | 3:43 | 2022-02-01 | 2022-03-08 |
-| [KA\-BOOM!](https://open.spotify.com/track/3lbXWGqf8Fqb9UWcrgexbK) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [<Queendom2> Position Unit Battle Part.1\-2](https://open.spotify.com/album/1w8AYEGlbx03HhNxUvNPj8) | 2:59 | 2022-05-31 |  |
+| [KA\-BOOM!](https://open.spotify.com/track/3lbXWGqf8Fqb9UWcrgexbK) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [<Queendom2> Position Unit Battle Part.1\-2](https://open.spotify.com/album/1w8AYEGlbx03HhNxUvNPj8) | 2:59 | 2022-05-31 | 2022-07-07 |
 | [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 | 2022-01-04 | 2022-02-02 |
 | [Kissing](https://open.spotify.com/track/0BfAFC7ybwMb5562S39OI0) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [Keumbee](https://open.spotify.com/artist/1NwyafFmvijU7E9b1PjgQm) | [Salt Rain \(Prod\. By Alfie Hole\)](https://open.spotify.com/album/2PQIXQNasV6iN55iAMNccn) | 3:56 | 2022-03-07 | 2022-04-06 |
 | [KNOCK \(With PARKMOONCHI\)](https://open.spotify.com/track/5tsFpHn90YwfYdfKGb0UnJ) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [KNOCK \(With PARKMOONCHI\)](https://open.spotify.com/album/3SHirl0IeccHW7cpPZXuLU) | 3:25 | 2021-12-08 | 2022-01-05 |
@@ -290,12 +291,13 @@
 | [Stardust](https://open.spotify.com/track/10xEWyLu80xSy17g9jptlD) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 6th Album 'END THEORY'](https://open.spotify.com/album/7nzPuFSw98m1si3pqARggs) | 3:50 | 2022-01-04 | 2022-02-02 |
 | [Starlight](https://open.spotify.com/track/5i5WNh302rkoveunUdZwG2) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 3:19 | 2022-05-04 | 2022-06-01 |
 | [Starry road](https://open.spotify.com/track/6TtHvpmgStT8Stx6nndgQI) | [Kei](https://open.spotify.com/artist/4s8EHPyZqEOYgOPwgpdhmc) | [Starry road with KozyPop](https://open.spotify.com/album/6NyqQ9jXzmnxiH4S1rWVJC) | 4:03 | 2022-05-31 |  |
+| [Stay This Way](https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from our Memento Box](https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo) | 3:15 | 2022-07-06 |  |
 | [Stay With Me](https://open.spotify.com/track/17qoIHNHmxUu4YjeAs0Prh) | [Jeon Eun Jin](https://open.spotify.com/artist/67lzkCTgtpkhb56aGYXJEY) | [Stay With Me](https://open.spotify.com/album/58GDtLSSF7VjO9xjjaADbP) | 3:21 | 2022-03-07 | 2022-04-06 |
 | [Step Back](https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx) | [GOT the beat](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) | [Step Back](https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk) | 3:48 | 2022-01-04 | 2022-02-02 |
 | [Still loving you](https://open.spotify.com/track/7tf6Pd8lddqjQXOjehayKS) | [Joo Yein](https://open.spotify.com/artist/3aSFvFghagKF9tdjluIkAT), [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca) | [Do you remember \[vol.4\]](https://open.spotify.com/album/38jD38pn7cdKHXjiv7u2Vi) | 3:24 | 2022-04-05 | 2022-05-05 |
 | [Take It](https://open.spotify.com/track/70EfheCNy3zOrcT2meMQ1g) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 3:24 | 2021-12-08 | 2022-01-05 |
 | [TANK](https://open.spotify.com/track/3ucx0k0IosRjrsmQc34zUW) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | 2:48 | 2022-03-07 | 2022-04-06 |
-| [Tell me now](https://open.spotify.com/track/2kIYgg1tOBTjs7XLZNwuSs) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB), [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [<Queendom2> Position Unit Battle Part.1\-2](https://open.spotify.com/album/1w8AYEGlbx03HhNxUvNPj8) | 2:42 | 2022-05-31 |  |
+| [Tell me now](https://open.spotify.com/track/2kIYgg1tOBTjs7XLZNwuSs) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB), [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [<Queendom2> Position Unit Battle Part.1\-2](https://open.spotify.com/album/1w8AYEGlbx03HhNxUvNPj8) | 2:42 | 2022-05-31 | 2022-07-07 |
 | [That Chick](https://open.spotify.com/track/3TQq4t3xiWp19OX0uT6BBa) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [That Chick](https://open.spotify.com/album/6wPmSvdDT8UtpKnIgOjG9G) | 2:43 | 2021-12-08 | 2022-01-05 |
 | [That's all](https://open.spotify.com/track/2GA13uuobpA88h5zPXm0E3) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Thirty\-nine \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/6UsoiG7ypgjvgTMZsa5kCO) | 4:25 | 2022-03-07 | 2022-04-06 |
 | [The Gift](https://open.spotify.com/track/2PTnOo4kxWsyTlRc3hwiBo) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [The Gift](https://open.spotify.com/album/5Bkjj4PGtK7078kTvQhvXS) | 3:46 | 2022-01-04 | 2022-02-02 |

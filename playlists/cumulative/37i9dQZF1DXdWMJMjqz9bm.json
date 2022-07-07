@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 234215,
       "name": "3005",
       "url": "https://open.spotify.com/track/2ZltjIqztEpZtafc8w0I9t"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 189000,
       "name": "bootleg jordans",
       "url": "https://open.spotify.com/track/6zTAR03lZyin6kUopphnX6"
@@ -1167,7 +1167,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 185857,
       "name": "Cooped Up (with Roddy Ricch)",
       "url": "https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81"
@@ -1587,7 +1587,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 132686,
       "name": "Fall Again",
       "url": "https://open.spotify.com/track/7sYwBsZQ775DglPjuz8p3S"
@@ -1645,7 +1645,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 119066,
       "name": "Falling Slowly",
       "url": "https://open.spotify.com/track/20O2mCvJkmrZ5RNED9tbpu"
@@ -1728,6 +1728,24 @@
     },
     {
       "album": {
+        "name": "Summer Pack",
+        "url": "https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297404,
+      "name": "Feels Like Summer",
+      "url": "https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr"
+    },
+    {
+      "album": {
         "name": "FINDERS KEEPERS (feat. Scorey & Internet Money)",
         "url": "https://open.spotify.com/album/5g9wAOfzvkf7piGN5EiFKZ"
       },
@@ -1765,7 +1783,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 173947,
       "name": "First Class",
       "url": "https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc"
@@ -2127,7 +2145,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 140921,
       "name": "Girls",
       "url": "https://open.spotify.com/track/1IbwVEskI2zH0dM4pnmWfU"
@@ -2583,6 +2601,28 @@
       "duration_ms": 150560,
       "name": "I Just Called",
       "url": "https://open.spotify.com/track/0H8Tclo4x4kbZruQtZFNSX"
+    },
+    {
+      "album": {
+        "name": "Twelve Carat Toothache",
+        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192840,
+      "name": "I Like You (A Happier Song) (with Doja Cat)",
+      "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
     },
     {
       "album": {
@@ -3107,7 +3147,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 202666,
       "name": "lost my boat",
       "url": "https://open.spotify.com/track/6pZXxqSUq2Ldfep3F7Khum"
@@ -3963,7 +4003,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 252262,
       "name": "pick up the phone",
       "url": "https://open.spotify.com/track/4GXl8l1MfZPf2GvpyRPJBf"
@@ -4263,7 +4303,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 121346,
       "name": "REEL IT IN",
       "url": "https://open.spotify.com/track/5qHirGR7M9tdm6C17DlzSY"
@@ -4401,6 +4441,24 @@
       "duration_ms": 218146,
       "name": "rockstar (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt"
+    },
+    {
+      "album": {
+        "name": "the highs.",
+        "url": "https://open.spotify.com/album/2phcfZd44niczjY0xybcS6"
+      },
+      "artists": [
+        {
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228702,
+      "name": "rodman",
+      "url": "https://open.spotify.com/track/0jufehOY40rRdvB2t4dsot"
     },
     {
       "album": {
@@ -4585,7 +4643,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 117368,
       "name": "Skin like summer",
       "url": "https://open.spotify.com/track/3BMjaR4kVrlefsdlcMJteK"
@@ -5055,7 +5113,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 135540,
       "name": "Supercharged",
       "url": "https://open.spotify.com/track/0vq6MAzofcgiI8RMeAfdao"
@@ -5519,7 +5577,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 168902,
       "name": "up again",
       "url": "https://open.spotify.com/track/4wrhAoRQfmv35znEXDip7X"
@@ -5651,7 +5709,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 243158,
       "name": "Wasting Angels (with The Kid LAROI)",
       "url": "https://open.spotify.com/track/2OcSE0EXzgUuqkM1NIJPHJ"
@@ -5691,7 +5749,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 233880,
       "name": "Weekend Millionaires",
       "url": "https://open.spotify.com/track/4CNAf3OB75dximfpqT52Lo"
@@ -5799,7 +5857,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 235320,
       "name": "Work Out",
       "url": "https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO"

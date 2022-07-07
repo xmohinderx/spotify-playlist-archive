@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: Rêve
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,221 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,207 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 40 | [Kids Are Born Stars](https://open.spotify.com/track/2pD74s7WAlBWUXjrTsKgdS) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Kids Are Born Stars](https://open.spotify.com/album/7HhcskxiIqyd0KthMqR7eA) | 3:07 |
 | 41 | [love you more than me](https://open.spotify.com/track/3jc0jdopFsv3dYz5uo8OCr) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [love you more than me](https://open.spotify.com/album/5iA8uhhLMIfh8CUu6sJWd6) | 2:21 |
 | 42 | [Comfortable \(feat\. Fana Hues\)](https://open.spotify.com/track/3uYl97CFQFl14149UuSJ78) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx), [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Comfortable \(feat\. Fana Hues\)](https://open.spotify.com/album/5asMsphuwGm7xBjCsnQuZy) | 3:53 |
-| 43 | [Hard out Here](https://open.spotify.com/track/4cjJzTza5lCcSuFOKOzZ4U) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Hard out Here](https://open.spotify.com/album/3CoftMaewRZt7oW4cTMlv7) | 3:11 |
+| 43 | [Hard Out Here](https://open.spotify.com/track/4cjJzTza5lCcSuFOKOzZ4U) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Hard Out Here](https://open.spotify.com/album/3CoftMaewRZt7oW4cTMlv7) | 3:11 |
 | 44 | [Radio](https://open.spotify.com/track/45kn9BixcxJID8oNIknocn) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 4:22 |
 | 45 | [Dreamer](https://open.spotify.com/track/2jv3f5GKP8ibGI0kvSQJc2) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5o1yAsAo4mvlgYptShBCow) | 3:01 |
 | 46 | [Seasick](https://open.spotify.com/track/7fR3tnzsPKVNZTx4Ms871S) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Seasick](https://open.spotify.com/album/5WdjEWFKc0aznBIb01FHo7) | 2:30 |

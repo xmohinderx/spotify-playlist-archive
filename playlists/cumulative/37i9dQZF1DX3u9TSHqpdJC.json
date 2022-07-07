@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best new pop music by independent artists. Updates every Wednesday. Cover: Yael Danon Artwork: Paola Saliby\n",
+  "description": "The best new pop music by independent artists. Updates every Wednesday. Cover: Brigetta Artwork: Paola Saliby\n",
   "name": "Fresh Finds Pop",
   "published_playlist_ids": [
     "7LG5jVTVD9hBH6AjjuPeXF"
@@ -3557,7 +3557,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 196733,
       "name": "Being Alone is the Best",
       "url": "https://open.spotify.com/track/17WzKXf25kieO7Phu7MTKZ"
@@ -4257,7 +4257,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 176000,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/69pczFa1NP2hfuXHX9LKup"
@@ -4311,7 +4311,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 144768,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/7oj3CLbn0f7yPfzjMjC2Fq"
@@ -4351,6 +4351,24 @@
       "duration_ms": 169505,
       "name": "BKGW",
       "url": "https://open.spotify.com/track/1OD9c17q9QQrWMirigs4HG"
+    },
+    {
+      "album": {
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/6Yr9GJw4aOdR0HCDTEjfAq"
+      },
+      "artists": [
+        {
+          "name": "Siobh\u00e1n",
+          "url": "https://open.spotify.com/artist/2baEkum1duFPLdhCttdTcp"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241909,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/28yw2fVqczsN9TCTmtpQ5L"
     },
     {
       "album": {
@@ -5704,6 +5722,24 @@
     },
     {
       "album": {
+        "name": "BUCKLE UP",
+        "url": "https://open.spotify.com/album/38xoZjwstC5LlgHLTpoBQN"
+      },
+      "artists": [
+        {
+          "name": "CROOK",
+          "url": "https://open.spotify.com/artist/2MQIOKK2Z1vaRmtnFUyyUv"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144466,
+      "name": "BUCKLE UP",
+      "url": "https://open.spotify.com/track/1O7cBHLXgkhH81A5Jax0mk"
+    },
+    {
+      "album": {
         "name": "bullet train",
         "url": "https://open.spotify.com/album/5H2UTwsW31W83uw9LklJV4"
       },
@@ -6603,6 +6639,24 @@
       "duration_ms": 203904,
       "name": "Care Too Much",
       "url": "https://open.spotify.com/track/7nxyOFmn57FrSek6DkU5Gd"
+    },
+    {
+      "album": {
+        "name": "Carsick",
+        "url": "https://open.spotify.com/album/2kvGRMPD2fjjzJS9Wwaqdz"
+      },
+      "artists": [
+        {
+          "name": "Chrissy",
+          "url": "https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187504,
+      "name": "Carsick",
+      "url": "https://open.spotify.com/track/53QIhVdWpIG3NmpkhoqFy6"
     },
     {
       "album": {
@@ -10385,7 +10439,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 198666,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/5lH2EChSyHjd8oB5wXIuG6"
@@ -17486,6 +17540,24 @@
     },
     {
       "album": {
+        "name": "home",
+        "url": "https://open.spotify.com/album/35AY0CysZ16bapvMLM69ZJ"
+      },
+      "artists": [
+        {
+          "name": "Ss.hh.a.n.a",
+          "url": "https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185086,
+      "name": "home",
+      "url": "https://open.spotify.com/track/1RB220WNY36lP8i50pseMZ"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/3lHGQRVu4HwSJqFMbD2DCh"
       },
@@ -18826,6 +18898,24 @@
     },
     {
       "album": {
+        "name": "i lost my friend at a rave",
+        "url": "https://open.spotify.com/album/6nP8L69qkApF7sJ0LSag6g"
+      },
+      "artists": [
+        {
+          "name": "Abby Bella May",
+          "url": "https://open.spotify.com/artist/7wMih0kHtN3mLG2I93WXH8"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180409,
+      "name": "i lost my friend at a rave",
+      "url": "https://open.spotify.com/track/1XvIHLaJ1pX7lDC8CW9sTV"
+    },
+    {
+      "album": {
         "name": "I Love You",
         "url": "https://open.spotify.com/album/05MgFPVUqTPfRH3un02pqK"
       },
@@ -19901,6 +19991,24 @@
       "duration_ms": 125060,
       "name": "im not important",
       "url": "https://open.spotify.com/track/4idQrHSD0CPe5jHrPcEHNb"
+    },
+    {
+      "album": {
+        "name": "Immature",
+        "url": "https://open.spotify.com/album/1QUlW7bCRIDZmJtuY59GXb"
+      },
+      "artists": [
+        {
+          "name": "Brigetta",
+          "url": "https://open.spotify.com/artist/6dAOkHEQVpVD8mFj7OQv8M"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165174,
+      "name": "Immature",
+      "url": "https://open.spotify.com/track/3G5rwPtdFHQRdpcjpmiKw8"
     },
     {
       "album": {
@@ -23460,6 +23568,24 @@
     },
     {
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/0e1duhKpJ6Kik6d77iLe4w"
+      },
+      "artists": [
+        {
+          "name": "W1ZE",
+          "url": "https://open.spotify.com/artist/5yEpeaMokz3lTtjloWgQO5"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152041,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/4aflKB9woUwqWTqYvHR1GL"
+    },
+    {
+      "album": {
         "name": "lost (edit)",
         "url": "https://open.spotify.com/album/5W1YNK2FL2yxpLQzy8M2BY"
       },
@@ -26538,6 +26664,24 @@
     },
     {
       "album": {
+        "name": "Never Have I Ever",
+        "url": "https://open.spotify.com/album/6R3MgvmxnfiFehhi1W03jA"
+      },
+      "artists": [
+        {
+          "name": "Claar",
+          "url": "https://open.spotify.com/artist/2GTZtqW1zQ1KGf4KvRPBXa"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181082,
+      "name": "Never Have I Ever",
+      "url": "https://open.spotify.com/track/5ElsElxP6VluGCdNVQrkcF"
+    },
+    {
+      "album": {
         "name": "Never Said Enough",
         "url": "https://open.spotify.com/album/0Nv9x8MGRl7ZBo2YEB7LGG"
       },
@@ -28931,7 +29075,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 148160,
       "name": "Paragraphs",
       "url": "https://open.spotify.com/track/6ufTMIgflciiAb7mk2PAhg"
@@ -29693,6 +29837,24 @@
       "duration_ms": 154000,
       "name": "PIXIE DUST",
       "url": "https://open.spotify.com/track/0iN5svKlxrGVqTUQ32Ky8h"
+    },
+    {
+      "album": {
+        "name": "plain chip",
+        "url": "https://open.spotify.com/album/78GuTKkqxNUe8SqSJxKlBh"
+      },
+      "artists": [
+        {
+          "name": "VAL\u00c9",
+          "url": "https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160754,
+      "name": "plain chip",
+      "url": "https://open.spotify.com/track/3OnjXW05hcOQ8aXhj1rlPv"
     },
     {
       "album": {
@@ -31849,7 +32011,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 185736,
       "name": "Rocket Science",
       "url": "https://open.spotify.com/track/2o3pfn5RI5anPcKJ4LI7hA"
@@ -39612,6 +39774,24 @@
     },
     {
       "album": {
+        "name": "Tongue",
+        "url": "https://open.spotify.com/album/6fwozR7KIRyaPF34GUODcj"
+      },
+      "artists": [
+        {
+          "name": "KEEKS",
+          "url": "https://open.spotify.com/artist/1a0szpyoLfe9iC1II42U4o"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175524,
+      "name": "Tongue",
+      "url": "https://open.spotify.com/track/72CQvFsq5eCmwdQAvNHw0s"
+    },
+    {
+      "album": {
         "name": "Tongue Tied",
         "url": "https://open.spotify.com/album/51Rv8d8fbthw90H9UaqNfy"
       },
@@ -40908,6 +41088,24 @@
     },
     {
       "album": {
+        "name": "Up In The Sky",
+        "url": "https://open.spotify.com/album/4edTXgynYjblkVFVHtHzDd"
+      },
+      "artists": [
+        {
+          "name": "Emilee Moore",
+          "url": "https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233751,
+      "name": "Up In The Sky",
+      "url": "https://open.spotify.com/track/5DGUvMn0jGSCJIbAv9HqfU"
+    },
+    {
+      "album": {
         "name": "Up Late",
         "url": "https://open.spotify.com/album/6Sv0guurGHiig0Ib4qkXoG"
       },
@@ -41359,7 +41557,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 141941,
       "name": "Violet Girl",
       "url": "https://open.spotify.com/track/0U6IojximKPyl92ITAYcYv"
@@ -43877,6 +44075,24 @@
       "duration_ms": 218024,
       "name": "You Could Be",
       "url": "https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH"
+    },
+    {
+      "album": {
+        "name": "You Don't Decide",
+        "url": "https://open.spotify.com/album/5S5U2QOZo3o38mY0gVhj59"
+      },
+      "artists": [
+        {
+          "name": "Blake",
+          "url": "https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161512,
+      "name": "You Don't Decide",
+      "url": "https://open.spotify.com/track/1C3JCbvpq16SArd3dxZw5s"
     },
     {
       "album": {

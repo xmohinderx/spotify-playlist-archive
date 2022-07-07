@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Cardi B, Calvin Harris, Imagine Dragons, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,927,926 likes - 99 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,928,288 likes - 99 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 33 | [i'm too pretty for this](https://open.spotify.com/track/4shULiz3P7luscRsQobtDN) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [i’m too pretty for this](https://open.spotify.com/album/50hj2kKggCkXqSIX2c1rxF) | 2:46 |
 | 34 | [Love You When You’re Gone](https://open.spotify.com/track/4a5a4NpPcsp8lKLjsGqks2) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Love You When You’re Gone](https://open.spotify.com/album/79tNM6qA2pbRsx7fXfXAG2) | 3:04 |
 | 35 | [I've Never Been To LA \(Edit\)](https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn), [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [I've Never Been To LA](https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd) | 2:39 |
-| 36 | [Hard out Here](https://open.spotify.com/track/4cjJzTza5lCcSuFOKOzZ4U) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Hard out Here](https://open.spotify.com/album/3CoftMaewRZt7oW4cTMlv7) | 3:11 |
+| 36 | [Hard Out Here](https://open.spotify.com/track/4cjJzTza5lCcSuFOKOzZ4U) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Hard Out Here](https://open.spotify.com/album/3CoftMaewRZt7oW4cTMlv7) | 3:11 |
 | 37 | [Barely Miss](https://open.spotify.com/track/4QPtyUkP2ysNjZDF5AuZMC) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [Barely Miss](https://open.spotify.com/album/4wHVHXSasHh2aq0D4g5NRA) | 3:13 |
 | 38 | [Make Me Wanna](https://open.spotify.com/track/7KDTidXitqxwRz6UhfWXsB) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Make Me Wanna](https://open.spotify.com/album/12M4YKGroXOTB1VWY8jhtj) | 2:54 |
 | 39 | [Tongue](https://open.spotify.com/track/2bJgUPmlG2o6A0qfZJgkdh) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Tongue](https://open.spotify.com/album/0TNM4CTPP3WUA7oZcpe5cN) | 2:13 |

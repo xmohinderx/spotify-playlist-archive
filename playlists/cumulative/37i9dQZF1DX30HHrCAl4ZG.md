@@ -4,7 +4,7 @@
 
 > The resurgence is real\. Cover: Day Wave
 
-548 songs - 1 day 5 hr 51 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
+549 songs - 1 day 5 hr 53 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,7 +318,7 @@
 | [Medicine](https://open.spotify.com/track/0CWvHfEwbeBVN0RViTybvL) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle) | 3:49 | 2021-06-07 | 2022-06-11 |
 | [Medicine \- Edit](https://open.spotify.com/track/5fxjGUTu5OFVb5gJkRnM22) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Medicine](https://open.spotify.com/album/7f7bav5WirOo4GctDwQ7tp) | 3:41 | 2021-11-19 | 2022-02-10 |
 | [MENTHOL\*](https://open.spotify.com/track/2nMTBUdxkdCZWo7n3upy1e) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [MENTHOL\*](https://open.spotify.com/album/1KTVkY7i6Ry8QMtPTBzYOf) | 3:07 | 2022-01-14 | 2022-06-01 |
-| [Mercy](https://open.spotify.com/track/5vWAgdYgGN5WXzKvfNwx2E) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Mercy](https://open.spotify.com/album/6bLQpivQqQcSn5ACBdliRP) | 2:59 | 2022-03-04 |  |
+| [Mercy](https://open.spotify.com/track/5vWAgdYgGN5WXzKvfNwx2E) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Mercy](https://open.spotify.com/album/6bLQpivQqQcSn5ACBdliRP) | 2:59 | 2022-03-04 | 2022-07-07 |
 | [Mercy Stroke](https://open.spotify.com/track/45Me6oIEz4AlHq7E8cNfcF) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Mercy Stroke](https://open.spotify.com/album/2gIICHzjGClgUbObjPauqK) | 2:45 | 2022-03-22 | 2022-07-02 |
 | [Mezzanine](https://open.spotify.com/track/0Rr2sIvRKhBCY3FRyakn1L) | [Ethan Fields](https://open.spotify.com/artist/2SqxqNtAbLxHG8FB2gGiIJ) | [Mezzanine](https://open.spotify.com/album/5pOzan60yFyVmFfPGNgOsp) | 3:16 | 2021-06-18 | 2022-02-09 |
 | [Michelle](https://open.spotify.com/track/48rZVgAGm0OlbbxjikCpqm) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Party Favors](https://open.spotify.com/album/5N9MQLXbiA8hYWsej7y8Sz) | 3:34 | 2022-01-14 | 2022-06-09 |
@@ -371,6 +371,7 @@
 | [PEOPLE FUEL](https://open.spotify.com/track/4mos7PoOTESMcxKZqudrRe) | [Palmertrees](https://open.spotify.com/artist/52VT62cropnSSiAZXtU8ho) | [PEOPLE FUEL](https://open.spotify.com/album/1DnDtCSI0lfURV2P3cpcKQ) | 2:53 | 2022-06-25 |  |
 | [Perfume](https://open.spotify.com/track/3Fn9orcpHw3TuqfB2NmZGC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/2d2QJv4OPOLS80tXaTCDsB) | 3:27 | 2021-10-23 | 2022-06-10 |
 | [Petals](https://open.spotify.com/track/6VX8tKJOpM4GaAdRMf7Dl1) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [Petals](https://open.spotify.com/album/2n3QaYtHqERzKesRi0lmaq) | 4:01 | 2022-06-10 | 2022-07-02 |
+| [Pharmacist](https://open.spotify.com/track/5A6E9uhiiRyJ8OSYQ0IRdt) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Pharmacist](https://open.spotify.com/album/34tneHefb6IXhuk95xh8vx) | 2:04 | 2022-07-06 |  |
 | [Pieces Of Summer](https://open.spotify.com/track/39VzfaJVzLp915bgsU19BI) | [Amor Amor](https://open.spotify.com/artist/7FB4gfPdf6h403oi9QiPVm) | [Pieces Of Summer](https://open.spotify.com/album/1chYejenL4Xqy7YS29JwVq) | 2:52 | 2021-06-14 | 2022-01-04 |
 | [Pity Party](https://open.spotify.com/track/1y6TgrTu3KuIgBQtuvEBf2) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Pity Party](https://open.spotify.com/album/65tgtb3bmFjIhWgDY0W6PN) | 1:31 | 2021-09-03 | 2022-04-20 |
 | [PLACEBO + 野田洋次郎](https://open.spotify.com/track/4IkSLZYHnCLQyiiiQbEGJD) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [PLACEBO + 野田洋次郎](https://open.spotify.com/album/6PrFGWNm2G3lnYeluPqLS2) | 2:47 | 2022-06-10 |  |

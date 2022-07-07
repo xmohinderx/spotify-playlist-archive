@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Kh\u00e1m ph\u00e1 \ud83c\udfb6 \u0111\u00e1ng nghe t\u1eeb nh\u1eefng \ud83c\udfbc c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft. \u1ea2nh b\u00eca: Southalid; thi\u1ebft k\u1ebf: Isu Kim",
+  "description": "Kh\u00e1m ph\u00e1 \ud83c\udfb6 \u0111\u00e1ng nghe t\u1eeb nh\u1eefng \ud83c\udfbc c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft. \u1ea2nh b\u00eca: Ph\u1ea1m Nguy\u00ean Ng\u1ecdc; thi\u1ebft k\u1ebf: Isu Kim",
   "name": "Fresh Finds Vietnam",
   "published_playlist_ids": [
     "11aHcAYmUYTKlrRmUuqYoO"
@@ -595,6 +595,28 @@
       "duration_ms": 173531,
       "name": "BAD",
       "url": "https://open.spotify.com/track/38G1CK2TY78FILbeO5HNt0"
+    },
+    {
+      "album": {
+        "name": "Bae, \u0110\u1eebng Kh\u00f3c",
+        "url": "https://open.spotify.com/album/5vJP1xUaGpKIlGMRMAHI2n"
+      },
+      "artists": [
+        {
+          "name": "Kiyoshi Phan",
+          "url": "https://open.spotify.com/artist/68NSOMlOaNbs7eYe42qaAc"
+        },
+        {
+          "name": "C\u00e0 N\u00e2u",
+          "url": "https://open.spotify.com/artist/1GaNXOOINBcBKwdd58rMbW"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201818,
+      "name": "Bae, \u0110\u1eebng Kh\u00f3c",
+      "url": "https://open.spotify.com/track/4xfcvjbyHx7U7aH7EYOf6O"
     },
     {
       "album": {
@@ -2492,6 +2514,28 @@
     },
     {
       "album": {
+        "name": "Em \u0110\u1eebng Lo",
+        "url": "https://open.spotify.com/album/419UnOuzQLYoVIUIkuuptQ"
+      },
+      "artists": [
+        {
+          "name": "Olive",
+          "url": "https://open.spotify.com/artist/7ei1cjqRzVLrl9sQ1Q4dBs"
+        },
+        {
+          "name": "MegaShock",
+          "url": "https://open.spotify.com/artist/78BCjtPwVVmrolLWLArPaX"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270079,
+      "name": "Em \u0110\u1eebng Lo",
+      "url": "https://open.spotify.com/track/4Qno0kizx5ZUj8mwOKAy7n"
+    },
+    {
+      "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/0hsjMgglUDgK42VEzAoB6T"
       },
@@ -4037,7 +4081,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 290091,
       "name": "L\u01a0 T\u01a0 M\u01a0",
       "url": "https://open.spotify.com/track/7fVKYun2Vzvy9OWvL6l8Y9"
@@ -4842,6 +4886,28 @@
     },
     {
       "album": {
+        "name": "nghi\u00ean c\u1ee9u drill h\u1ecdc",
+        "url": "https://open.spotify.com/album/0q92z6dgHCCuyodrdcwrSF"
+      },
+      "artists": [
+        {
+          "name": "kwkt",
+          "url": "https://open.spotify.com/artist/0sZh9WUdVMwB3BXnLkf6Yy"
+        },
+        {
+          "name": "Long-Nhat",
+          "url": "https://open.spotify.com/artist/2cLfx3yAuGy1g0mDsknCv5"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "nghi\u00ean c\u1ee9u drill h\u1ecdc",
+      "url": "https://open.spotify.com/track/396eaQGWIWUqUU5S8pH1Oq"
+    },
+    {
+      "album": {
         "name": "Nguoi Choi So 1",
         "url": "https://open.spotify.com/album/6svUZ98m9i8AvUjH8ke8sa"
       },
@@ -5085,7 +5151,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 173265,
       "name": "Ng\u1ea1i ng\u00f9ng g\u00ec m\u00e0 kh\u00f4ng y\u00eau",
       "url": "https://open.spotify.com/track/3g14MRSmbFmmJOzUKMV1Se"
@@ -6581,12 +6647,12 @@
       },
       "artists": [
         {
-          "name": "kidsai",
-          "url": "https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ"
-        },
-        {
           "name": "V#",
           "url": "https://open.spotify.com/artist/3XevJv2rTKu5WYtD0LW6om"
+        },
+        {
+          "name": "kidsai",
+          "url": "https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ"
         }
       ],
       "date_added": "2022-06-30",
@@ -8465,7 +8531,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 337999,
       "name": "\u0110\u00e3 C\u00f3 Nh\u1eefng Ng\u00e0y",
       "url": "https://open.spotify.com/track/3pyyEklm1b3VifyLXTnqL6"

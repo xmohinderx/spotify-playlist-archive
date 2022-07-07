@@ -60,6 +60,24 @@
     },
     {
       "album": {
+        "name": "Rock En Espanol - Lo Mejor De Los Amantes De Lola",
+        "url": "https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG"
+      },
+      "artists": [
+        {
+          "name": "Los Amantes De Lola",
+          "url": "https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc"
+        }
+      ],
+      "date_added": "2021-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276773,
+      "name": "Beber de Tu Sangre",
+      "url": "https://open.spotify.com/track/3Gr4OWY7lAXAq7PpgUbctG"
+    },
+    {
+      "album": {
         "name": "La Rue Morgue",
         "url": "https://open.spotify.com/album/0NJN9pYxkzezlzjHbj7Qp4"
       },
@@ -71,7 +89,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 197640,
       "name": "Blues A Dos Mujeres",
       "url": "https://open.spotify.com/track/6W7c7B526zf3zAF3tptnyG"
@@ -269,7 +287,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 202733,
       "name": "D\u00e9jate Caer",
       "url": "https://open.spotify.com/track/1xtBatmC1muBOY1RnUvP8Z"
@@ -413,7 +431,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 245640,
       "name": "Eligiendo Una Reina",
       "url": "https://open.spotify.com/track/4isHeZRxdYw7IgGvl8OPwq"
@@ -449,7 +467,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 153991,
       "name": "Esta Tarde Vi Llover",
       "url": "https://open.spotify.com/track/2wpimO7JjiN8HuoW5caZ3F"
@@ -503,7 +521,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 250293,
       "name": "Gimme Tha Power",
       "url": "https://open.spotify.com/track/7bN2XAxC3SN8Ie16xP6lpm"
@@ -629,7 +647,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 210653,
       "name": "La Torre de Babel",
       "url": "https://open.spotify.com/track/3AxtYZk8bA3LHaJ1WfYgjj"
@@ -798,6 +816,24 @@
     },
     {
       "album": {
+        "name": "Viajar",
+        "url": "https://open.spotify.com/album/670c4gAfyhyfVu4pB1KTJF"
+      },
+      "artists": [
+        {
+          "name": "Lucybell",
+          "url": "https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht"
+        }
+      ],
+      "date_added": "2021-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345466,
+      "name": "Mataz",
+      "url": "https://open.spotify.com/track/2el13qIMOd8cripOqNohGB"
+    },
+    {
+      "album": {
         "name": "La Ley MTV Unplugged",
         "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
       },
@@ -845,7 +881,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 205520,
       "name": "Mi Destino",
       "url": "https://open.spotify.com/track/01mNrMDaDseSKzrTmRfqKa"
@@ -993,7 +1029,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 279160,
       "name": "No Dejes Que...",
       "url": "https://open.spotify.com/track/5nzEilkVhvnCD0xpW3raTy"
@@ -1029,10 +1065,28 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 251000,
       "name": "Nuestra se\u00f1al",
       "url": "https://open.spotify.com/track/5Jd5oyexFT0JGWX17RAFXY"
+    },
+    {
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/7l3Yo2X2XX2A7AYyDESULC"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills, Nash & Young",
+          "url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181133,
+      "name": "Our House",
+      "url": "https://open.spotify.com/track/3UBJRltEU6MFv7DkLs13Z1"
     },
     {
       "album": {
@@ -1083,7 +1137,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 196106,
       "name": "Puta Jefe",
       "url": "https://open.spotify.com/track/3bKvtihPA72hDEHBJnmHjh"
@@ -1119,7 +1173,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 276920,
       "name": "Sigues Dando Vueltas",
       "url": "https://open.spotify.com/track/0Xx3oZp0MawleVVxr9MOlG"
@@ -1159,7 +1213,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 230725,
       "name": "Sin Condiciones",
       "url": "https://open.spotify.com/track/7KBaqcgs2UAPZ3Tf3YCJaG"
@@ -1177,7 +1231,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 164813,
       "name": "Te doy una canci\u00f3n",
       "url": "https://open.spotify.com/track/3jC9r8ehmpbp5fYnnRga4Q"
@@ -1231,7 +1285,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 197013,
       "name": "Tirate",
       "url": "https://open.spotify.com/track/5u6AzESv0MYzBE1ZBrY20V"
@@ -1321,7 +1375,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 283093,
       "name": "Vivo",
       "url": "https://open.spotify.com/track/5IfhLKhOBkHazqaoqFzH8G"

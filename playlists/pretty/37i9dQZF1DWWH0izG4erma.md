@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country Music that ROCKS!!  <br/>Cover: Randy Houser
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,389 likes - 138 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,528 likes - 138 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

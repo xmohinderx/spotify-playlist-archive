@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: Văn Mai Hương
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,951 likes - 56 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,028 likes - 56 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,12 +4,13 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-60 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
+61 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [94 Euphoria](https://open.spotify.com/track/5SLK98E79isxDBfRF1rUIJ) | [Bulgarian Cartrader](https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx) | [94 Euphoria](https://open.spotify.com/album/3KNksYI5qVkuofQhBNxmw0) | 3:49 | 2022-05-23 |  |
 | [AC Press](https://open.spotify.com/track/13rZF5byPbv9PHi8hSpi42) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O) | [AC Press](https://open.spotify.com/album/1TztZFAvUwYjI0EL1OKBL4) | 3:43 | 2022-06-01 |  |
+| [Be Grateful](https://open.spotify.com/track/1wzmKX0ppikXpAdA7O5BRp) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Be Grateful](https://open.spotify.com/album/1rX527XeBVn4tkNwVgUXu9) | 2:47 | 2022-07-06 |  |
 | [Better Than That](https://open.spotify.com/track/6kNMiX4NoAtz6ohYdgfhIX) | [Fortuno](https://open.spotify.com/artist/07QJ2IEpirIQN3dlUomBxL) | [Better Than That](https://open.spotify.com/album/503RXKST7zs6k7uoun1NqN) | 2:41 | 2022-04-25 | 2022-07-02 |
 | [Comfort](https://open.spotify.com/track/2BmB9dEutF0cDtI5IbT8IE) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Going Home, Vol\. 1](https://open.spotify.com/album/4emb3mG0Dm5mJtnMdZm0tz) | 3:37 | 2021-11-05 |  |
 | [Count to Five \(Tensnake Remix\) \- Mixed](https://open.spotify.com/track/4bq9akE1BhJPFMd6SZBQa6) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Café Kitsuné Mixed by Young Franco \(Day\)](https://open.spotify.com/album/5i1BngTCStALybm8vtOFyN) | 4:26 | 2021-11-05 |  |
@@ -55,7 +56,7 @@
 | [Roses](https://open.spotify.com/track/379cChcS43x1BGboAC6QUI) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Kitsuné Maison Compilation 18: The Hysterical Advisory Issue](https://open.spotify.com/album/6fCFZtSy5xJs3t87nPriYZ) | 2:52 | 2021-11-05 |  |
 | [Run Away](https://open.spotify.com/track/2JZD1lj0NVmde3z5xpeUjb) | [Luc de la Croixx](https://open.spotify.com/artist/3xasg3zEnbW9CnFNT5VL59), [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE), [SATICA](https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We) | [Run Away](https://open.spotify.com/album/61bcm5fOZcG1zLc0XVfSp6) | 3:04 | 2022-04-08 | 2022-06-18 |
 | [Saint](https://open.spotify.com/track/0CGl71PsT1460rkbfUdbef) | [Tobias.wav](https://open.spotify.com/artist/5uMPzdNRQFj0lZ6h95gyxN) | [Saint](https://open.spotify.com/album/37iu4n6JCr1jz4KXEjTaMc) | 2:00 | 2022-06-13 |  |
-| [Shy](https://open.spotify.com/track/37rholV7FQmDvCNV64ydkh) | [Harrison Lipton](https://open.spotify.com/artist/7q6t9qQSTlcUpHLqTyCSLP) | [Shy](https://open.spotify.com/album/4JZHZRLlXUs15fOzj9FumQ) | 3:03 | 2022-04-27 |  |
+| [Shy](https://open.spotify.com/track/37rholV7FQmDvCNV64ydkh) | [Harrison Lipton](https://open.spotify.com/artist/7q6t9qQSTlcUpHLqTyCSLP) | [Shy](https://open.spotify.com/album/4JZHZRLlXUs15fOzj9FumQ) | 3:03 | 2022-04-27 | 2022-07-07 |
 | [So High](https://open.spotify.com/track/5doFTkrPLq1AZYDvAIdn7x) | [Ghost Loft](https://open.spotify.com/artist/4fQHCuys7JZvaQzRvB1kPR) | [Kitsuné America 2](https://open.spotify.com/album/2dVnDTtY8qzYbPTMmw88vX) | 3:06 | 2021-11-05 |  |
 | [Space Birds](https://open.spotify.com/track/6h09oYGOD7u3JJcVA9CvcC) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS), [TONG](https://open.spotify.com/artist/67cqVjONTBOiGNhEx9T8FB) | [Space Birds](https://open.spotify.com/album/2BMLZaPguH55Qc95D7ptOE) | 2:41 | 2022-06-24 |  |
 | [Spikes \- Edit](https://open.spotify.com/track/04ZcgSFH3tPDyjJ0Ij3S4f) | [Razante](https://open.spotify.com/artist/3dB9mmLX2lYKa4bfEUPUYA) | [Spikes \(Edit\)](https://open.spotify.com/album/2ZkHjP93wimpyM0gGn1MWf) | 3:44 | 2022-05-04 |  |

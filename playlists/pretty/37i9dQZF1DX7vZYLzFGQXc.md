@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent talents are here\. \(Cover: YUNNUGU\(윤누구\)\) \(프레쉬한 한국의 인디펜던트 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,356 likes - 101 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,424 likes - 101 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 9 | [pado ballad](https://open.spotify.com/track/7sKi4MTWJJIPXCik8yLmRV) | [Lahne](https://open.spotify.com/artist/2f6UH261iYhBitmwklLAlH) | [Blue Interior](https://open.spotify.com/album/5laWpGYSMaZiscOja0W4u1) | 3:42 |
 | 10 | [LOVE WRESTLE♡ \(feat\. NECTA\)](https://open.spotify.com/track/32cFWxZW9bVja4ffMXqOqg) | [earring](https://open.spotify.com/artist/4cF7iEYb69nJrn5PTTfj9S), [NECTA](https://open.spotify.com/artist/41aotofRYK9RvrKFk5ZY5U) | [LOVE GAZE](https://open.spotify.com/album/5GcwUyyiaQAoX0uXJBVP02) | 2:48 |
 | 11 | [When I was Into You](https://open.spotify.com/track/4hLFSM2k7gX7pBZuIM3CHW) | [ZISU](https://open.spotify.com/artist/3zNBTnNYtztKwdB5uYApom) | [When I was Into You](https://open.spotify.com/album/0AdlXPc0vo43GEMz9i4QIE) | 2:59 |
-| 12 | [Rainy day](https://open.spotify.com/track/2yGgyexbjIFOKAbxwVDhvj) | [HALF](https://open.spotify.com/artist/6X71eoORQsL541Tf2E2K8c) | [Rainy day](https://open.spotify.com/album/0yuFK5FXUza0irsBy1HHSJ) | 2:56 |
+| 12 | [Rainy day](https://open.spotify.com/track/2yGgyexbjIFOKAbxwVDhvj) | [HVLF](https://open.spotify.com/artist/6X71eoORQsL541Tf2E2K8c) | [Rainy day](https://open.spotify.com/album/0yuFK5FXUza0irsBy1HHSJ) | 2:56 |
 | 13 | [Action Reaction](https://open.spotify.com/track/4pv4srfPim6XwSUoxueLRF) | [syndasizung 신다사이정](https://open.spotify.com/artist/2JVIMqJWk3OVEEr9oaWYub) | [Action Reaction](https://open.spotify.com/album/0APzH8zMzoBbbweo04UqYI) | 4:35 |
 | 14 | [Umbrella \(feat\. See U\)](https://open.spotify.com/track/098BVFxw24NggK4hRTAiGx) | [Seibin](https://open.spotify.com/artist/74Xl4AiGLucUvFwjqneSvx), [SeeU](https://open.spotify.com/artist/0zWP6cQlTAmGJC4zlP2GAQ) | [Umbrella](https://open.spotify.com/album/6maJ5MmNqsGDC9UBQ7oTKI) | 4:07 |
 | 15 | [remember Remix \(with Chin, Uneducated Kid, Paul Blanco\)](https://open.spotify.com/track/51Je7qQ5Ee0LOyRwUWYlfX) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [remember Remix](https://open.spotify.com/album/6B8gLgbZWKKtv0xGUfDxBG) | 3:43 |

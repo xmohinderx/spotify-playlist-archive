@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > welcome to mixtape \#006, turn up with Blessd & Rels B 🔥 Find a new mixtape every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,742,083 likes - 30 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,742,369 likes - 30 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

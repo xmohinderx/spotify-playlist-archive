@@ -2,7 +2,7 @@
 
 ### [Written By sad alex](https://open.spotify.com/playlist/37i9dQZF1EFG3OLQwpOmPq)
 
-> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/315bvK1m77RNynw5ycETfA">sad alex</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
+> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/315bvK1m77RNynw5ycETfA">sad alex</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
 72 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/2t8ugsWZMHNaJAkYvjfVuP)
 

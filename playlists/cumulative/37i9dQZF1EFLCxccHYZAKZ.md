@@ -2,7 +2,7 @@
 
 ### [Written By Natali Noor](https://open.spotify.com/playlist/37i9dQZF1EFLCxccHYZAKZ)
 
-> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZhCwBHDbutA33WuZDmYFP">Natali Noor</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
+> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZhCwBHDbutA33WuZDmYFP">Natali Noor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
 34 songs - 1 hr 43 min - [published](https://open.spotify.com/playlist/6e5RDA21o0H1NgbL33DXgN)
 

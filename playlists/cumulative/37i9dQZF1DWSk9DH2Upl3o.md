@@ -38,7 +38,7 @@
 | [Kitty Chaser \(Explosions\)](https://open.spotify.com/track/31prZotiPV46jh06xCTop4) | [Aqueous](https://open.spotify.com/artist/74d8upOdwQZyoDGXWEguMn) | [Cycles](https://open.spotify.com/album/2Q4TCChrfQOSkHoOj3bce1) | 9:39 | 2022-06-23 |  |
 | [Lemon Haze](https://open.spotify.com/track/5xxDOqegRiTJ5n1LwePJx0) | [Frequilibrium](https://open.spotify.com/artist/0JNcTTdEYtUhOfoWdhRbXM) | [Frequilibrium](https://open.spotify.com/album/1iyratUHXjtigpYB9CWRI0) | 4:38 | 2022-06-23 | 2022-07-02 |
 | [Lily's Tiger](https://open.spotify.com/track/1wEt9nM5wq2U5RNuWBxnyA) | [Great Blue](https://open.spotify.com/artist/1LlkBNUOz29oWc0IeX0lXc) | [Great Blue](https://open.spotify.com/album/3EuzVI8uESnKwlOOdh4wr6) | 4:57 | 2022-06-23 |  |
-| [Mcmansion](https://open.spotify.com/track/3bFDEWT2lFhBMM6cxcBEGY) | [The Trichomes](https://open.spotify.com/artist/0Z7aFWvcTx8NhWRUfTInfz) | [Jazz Cabbage Soiree](https://open.spotify.com/album/1eBGpVUNZptUK32L7YG2XO) | 7:51 | 2022-06-23 |  |
+| [Mcmansion](https://open.spotify.com/track/3bFDEWT2lFhBMM6cxcBEGY) | [The Trichomes](https://open.spotify.com/artist/0Z7aFWvcTx8NhWRUfTInfz) | [Jazz Cabbage Soiree](https://open.spotify.com/album/1eBGpVUNZptUK32L7YG2XO) | 7:51 | 2022-06-23 | 2022-07-07 |
 | [Mokuba](https://open.spotify.com/track/58Ge6PmTc9PfP0mK5GC8Mk) | [Tauk](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O) | [Collisions](https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK) | 5:27 | 2022-06-23 |  |
 | [Mr\. Scientist](https://open.spotify.com/track/4873MdwrLRw2FuAddS0h3F) | [The Magic Beans](https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH) | [Casino Cabaret](https://open.spotify.com/album/2Y7VfgO3VkHuZHgTfmbHco) | 7:28 | 2022-06-23 |  |
 | [Mucho](https://open.spotify.com/track/6RGXvExPr2zOTSfqqpRqx2) | [Dopapod](https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX) | [Megagem](https://open.spotify.com/album/37NK8Dp8ms7so7FqzhopCm) | 6:33 | 2022-06-23 |  |
@@ -61,7 +61,7 @@
 | [The Road](https://open.spotify.com/track/3F2SdHEBSOZZPDKfkiP0k8) | [Backup Planet](https://open.spotify.com/artist/1Jc3wYtJwv8KMbo3Ct7aLD) | [Element](https://open.spotify.com/album/1M8jFuVLqJOlqYtOv1cdAI) | 7:13 | 2022-06-23 |  |
 | [The World Is A Ghetto](https://open.spotify.com/track/5yiEFVz2RhuNvi9msiw3oI) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Native Sons](https://open.spotify.com/album/2AH53pDM2S1jAggLLAueAM) | 8:33 | 2022-06-23 |  |
 | [Tumbleweed](https://open.spotify.com/track/1DWPCV6sKNGnzn4ypzDIcm) | [Big Something](https://open.spotify.com/artist/3kzqfNqrlEwieWGqRFiQso) | [Tumbleweed](https://open.spotify.com/album/0Wdd7IhlwI1uGNIeJayzM4) | 6:40 | 2022-06-23 |  |
-| [What'cha Gonna Do](https://open.spotify.com/track/54LhVzJOJxT2S6Nl30wPBs) | [Skyfoot](https://open.spotify.com/artist/5Igs9PLJ9qlRa627kIjTH0) | [What'cha Gonna Do](https://open.spotify.com/album/6aHGit3gxe7m5iSlbAi6vD) | 5:46 | 2022-06-23 | 2022-07-06 |
+| [What'cha Gonna Do](https://open.spotify.com/track/54LhVzJOJxT2S6Nl30wPBs) | [Skyfoot](https://open.spotify.com/artist/5Igs9PLJ9qlRa627kIjTH0) | [What'cha Gonna Do](https://open.spotify.com/album/6aHGit3gxe7m5iSlbAi6vD) | 5:46 | 2022-06-23 |  |
 | [Whiskey](https://open.spotify.com/track/3q4QhuBKrbdBw55m1JC2T0) | [The Jauntee](https://open.spotify.com/artist/79iSQLNRiPa93oo3yYxAmN) | [Enjoy the Ride](https://open.spotify.com/album/5CfoFSPM4KCVjS6MbIEDZr) | 3:20 | 2022-06-23 | 2022-07-04 |
 
 \*This playlist was first scraped on 2022-06-28. Prior content cannot be recovered.

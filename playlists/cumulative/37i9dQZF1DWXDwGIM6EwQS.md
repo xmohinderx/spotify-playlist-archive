@@ -4,7 +4,7 @@
 
 > Vibes de noche\. Late night tunes for an endless night.
 
-98 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/5yJ1kqJQQB8BoI0Fit0lvH)
+99 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/5yJ1kqJQQB8BoI0Fit0lvH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Promesa](https://open.spotify.com/track/7xEN9p3spnvGC891587UOO) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Promesa](https://open.spotify.com/album/20gXqGOQCoipOLp4u9MkOk) | 3:01 | 2022-03-21 |  |
 | [PROVOCAR](https://open.spotify.com/track/0bhuxEmgIoW4YztrCouCIt) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [MI FANTASY](https://open.spotify.com/album/3CkwnW8x114E68m2FvS9I0) | 2:46 | 2022-03-21 |  |
 | [Párrafo 8](https://open.spotify.com/track/3RGOpwcyaMvgiuRyFrfVtc) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Bucle](https://open.spotify.com/album/1Bf3zK23ffWtQtySZ75j55) | 3:14 | 2022-03-21 | 2022-04-20 |
+| [Que Raro](https://open.spotify.com/track/3ojvSojw2CF9fQDoAfAqJG) | [Jossef](https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX) | [Que Raro](https://open.spotify.com/album/7dDFKnpDJYSKDLJ2941cgu) | 2:52 | 2022-07-06 |  |
 | [Replay \(feat\. Luissette\)](https://open.spotify.com/track/6xDnfyMpc99dfWw6AjPZCt) | [Alan Matheus](https://open.spotify.com/artist/0YFYRpgJX7gM7elqpovTW9), [Luissette](https://open.spotify.com/artist/521wwUucYV7n6WV1n5F109) | [Fases](https://open.spotify.com/album/42UkwcLnmxuSSkqpjrwbuH) | 3:33 | 2022-03-21 |  |
 | [Roto](https://open.spotify.com/track/3Xn2pi2HBV46PNuGMG8kSq) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Antisocial](https://open.spotify.com/album/0fymQT4sKyeNdAJoQi79Gz) | 3:28 | 2022-03-21 |  |
 | [Sicaria](https://open.spotify.com/track/54LJrBDBnR0ey6ggMFQycr) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Sicaria](https://open.spotify.com/album/4n0UgGMEt3tP7YsiQ9y6t4) | 4:19 | 2022-03-21 |  |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Czech Republic.
 
-682 songs - 1 day 10 hr 58 min - [published](https://open.spotify.com/playlist/2112cxR5rYMeMxRO8lPDJJ)
+683 songs - 1 day 11 hr 1 min - [published](https://open.spotify.com/playlist/2112cxR5rYMeMxRO8lPDJJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Deutschland](https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 5:22 | 2022-05-17 | 2022-05-20 |
 | [DEŇ STRIEDA TMU](https://open.spotify.com/track/5Ggd7fuG8ya7OnMELNkDtF) | [Pil C](https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG), [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO) | [ODSÚDENÍ NA ÚSPECH](https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2) | 2:57 | 2021-12-16 | 2021-12-18 |
 | [Dicke Titten](https://open.spotify.com/track/5KTBaWu8IOczQ0sPWzZ7MY) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:38 | 2022-05-28 | 2022-05-31 |
+| [die first](https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [die first](https://open.spotify.com/album/56raLTkxER12w8xejGTpSG) | 2:57 | 2022-07-06 |  |
 | [Die Hard](https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:59 | 2022-05-14 | 2022-05-16 |
 | [DiE4u](https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DiE4u](https://open.spotify.com/album/4L4TlrXB94790rqWBprweP) | 3:27 | 2021-09-19 | 2021-09-20 |
 | [Dinero](https://open.spotify.com/track/3ggtU1ZOKO8ZNiqPNyXGcm) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o) | [Dinero](https://open.spotify.com/album/6FfydthOJNOSCM8BeSqKh3) | 2:40 | 2021-06-16 | 2021-07-10 |
@@ -216,7 +217,7 @@
 | [GOYARD BAG](https://open.spotify.com/track/6ceyTZNbbLgIM7xK9ZiLuy) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [J\. EDEN E\-GEN \(mixed by NobodyListen\)](https://open.spotify.com/album/3d9csZH2s2QPeC9leP6i2g) | 2:02 | 2022-02-26 | 2022-03-03 |
 | [Grapejuice](https://open.spotify.com/track/4j6kId9QIqhoXvqHKgSKa0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 | 2022-05-21 | 2022-05-28 |
 | [Grt Bang](https://open.spotify.com/track/62ukwaM2Fhx7GS3XAxq0bd) | [58G](https://open.spotify.com/artist/5GIlebF5qgtR3ReGlgzn7U), [Doktor](https://open.spotify.com/artist/5QR7CB4D1tsS0xTSlEVwoP), [Humla](https://open.spotify.com/artist/2A1RD6jdOBjFp3Mq3rnBj0), [TK27](https://open.spotify.com/artist/3iFSniZuusJHdd2PbMaHwv) | [58 tape vol.2](https://open.spotify.com/album/7HHLVMZhb65inJjT5tKmzq) | 2:51 | 2021-06-03 | 2021-06-05 |
-| [HALLELUYAH](https://open.spotify.com/track/78ATgcb8QlEENe9fmBWmAL) | [CA$HANOVA BULHAR](https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [DRIPOLAR](https://open.spotify.com/album/68XHBxFOiLzQGWtJL5mDUY) | 3:25 | 2022-06-21 |  |
+| [HALLELUYAH](https://open.spotify.com/track/78ATgcb8QlEENe9fmBWmAL) | [CA$HANOVA BULHAR](https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [DRIPOLAR](https://open.spotify.com/album/68XHBxFOiLzQGWtJL5mDUY) | 3:25 | 2022-06-21 | 2022-07-07 |
 | [Hannah Montana](https://open.spotify.com/track/2sXnat46y10FtAbW2A0ira) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [POPSTAR](https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK) | 2:38 | 2022-03-12 |  |
 | [Hannah Montana VIP](https://open.spotify.com/track/1TLdCwhyeVjSXjn5OSvML8) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [POPSTAR\*](https://open.spotify.com/album/1G83eVFNZ4uptZ72WJC69X) | 2:23 | 2022-04-17 |  |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2021-08-01 | 2021-11-20 |

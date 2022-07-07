@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 ### [Latest Kannada](https://open.spotify.com/playlist/37i9dQZF1DWZqTcNLmb3sH)
 
-> Check out the latest hits from Sandalwood!<br/>Cover : KGF 2
+> Check out the latest hits from Sandalwood!<br/>Cover : Vikrant Rona
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,054 likes - 98 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,145 likes - 98 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 97 | [O Nidhima](https://open.spotify.com/track/6TLwG6i4xePR1hT3cUyrqz) | [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ), [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD) | [Love Mocktail 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6MgIFfjFtKBjRcNRkxeHn6) | 3:43 |
 | 98 | [Ninadene Januma](https://open.spotify.com/track/01dinBefJdMHHFdNYurQt3) | [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD) | [Love Mocktail 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6MgIFfjFtKBjRcNRkxeHn6) | 4:46 |
 
-Snapshot ID: `MTY1NzAwNDM5NCwwMDAwMDE5ZTAwMDAwMTgxY2QyODg2N2QwMDAwMDE4MTEzMjM5YWY1`
+Snapshot ID: `MTY1NzExMjA2MCwwMDAwMDE5ZjAwMDAwMTgxZDM5MzYxYWQwMDAwMDE4MTEzMjM5YWY1`

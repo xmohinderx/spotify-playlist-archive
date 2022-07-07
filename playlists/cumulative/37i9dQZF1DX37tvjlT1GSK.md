@@ -4,7 +4,7 @@
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Virlán García en portada.
 
-107 songs - 5 hr 52 min - not published yet
+108 songs - 5 hr 56 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Cada Rato \(En Vivo\)](https://open.spotify.com/track/2ugRFpxAehNcnuPNT1INks) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [A Cada Rato \(En Vivo\)](https://open.spotify.com/album/2GcISXZ1HSJtUXO9SDfMaT) | 3:05 | 2022-07-01 |  |
 | [Ahora Estoy Mejor](https://open.spotify.com/track/0Wg5AVKIIrnGq25aYU7Inp) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Ahora Estoy Mejor](https://open.spotify.com/album/5BsrTRp4TvgUwRLsvlyKuF) | 4:34 | 2022-03-29 |  |
 | [Aliado del Tiempo \(En Vivo\)](https://open.spotify.com/track/36ZVMBFTdFgYcdLM2SjPVZ) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [En Vivo Desde Caborca Vol\. 1](https://open.spotify.com/album/326vwM0vaMEyCPOgjHv2hm) | 4:10 | 2022-07-01 |  |
+| [Amarga Derrota](https://open.spotify.com/track/4u3bRZ5eFIN8aBn24bY9Vc) | [Brian Landa](https://open.spotify.com/artist/13rNe1uErXx4bz9OnRUKdI) | [Recordando A Ariel Camacho](https://open.spotify.com/album/1JyOsRYJDGaKhYtPMAaYns) | 3:19 | 2022-07-01 |  |
 | [Amor Fugaz](https://open.spotify.com/track/4O2bxKTnK9En7OPw8kGDDF) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [The Life in Your Eyes](https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz) | 2:55 | 2021-12-27 |  |
 | [Andamos Mejor](https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Andamos Mejor](https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf) | 2:17 | 2022-02-22 |  |
 | [Así Fue](https://open.spotify.com/track/3ym5eQLIVfTRohYuirqtkm) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve) | [Así Fue](https://open.spotify.com/album/0n3eXavDKfCo1AMUwW3RNb) | 6:19 | 2021-12-27 |  |
@@ -50,7 +51,7 @@
 | [Es Que Me Gustas \- En Vivo](https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [En Vivo desde El Foro Lizos Music](https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag) | 2:32 | 2021-12-27 |  |
 | [Esta Noche](https://open.spotify.com/track/6FJbKBPUiFVPC4e5S3uesc) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Esta Noche](https://open.spotify.com/album/1uVGFC7Zio3Sc4UTfz4Y7Y) | 3:09 | 2022-04-15 |  |
 | [Estos Tragos Van Por Ti](https://open.spotify.com/track/5pvyq5JmDPhDJ9xIMKNuYK) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [A Mi Estilo \(Volumen 1\)](https://open.spotify.com/album/0xOkgJtEl52vrhnCfBDIKx) | 2:33 | 2022-07-01 | 2022-07-06 |
-| [Está Dañada](https://open.spotify.com/track/6G2xXQRSZlEzYsUEb3uvuR) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 3:34 | 2021-12-27 |  |
+| [Está Dañada](https://open.spotify.com/track/6G2xXQRSZlEzYsUEb3uvuR) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 3:34 | 2021-12-27 | 2022-07-07 |
 | [Falta de Química](https://open.spotify.com/track/3MuDbrQKyn0MzBlWjQyr4q) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Falta de Química](https://open.spotify.com/album/3MtbsSNUXZBC8WGGsdSIRS) | 3:42 | 2022-04-15 |  |
 | [From La Finikera](https://open.spotify.com/track/0ya66ZjAYqkP3nQWhXe9Xc) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [De La Finikera](https://open.spotify.com/album/7fksSbYuu7VSTp33FSojv3) | 3:14 | 2022-04-15 |  |
 | [Fuera De Servicio](https://open.spotify.com/track/2252ukIJHzlAv9VuJLjY53) | [Hugo Cesar](https://open.spotify.com/artist/3U67RcLV2FxtknAMdsnGuq), [Humilde Imperio](https://open.spotify.com/artist/58QNGapT6WC2fGWXvUuRqa) | [Fuera De Servicio x El Padre de Toda La Bola](https://open.spotify.com/album/2xsXCc4xPoR2QKMyBcsnke) | 2:58 | 2022-07-01 | 2022-07-06 |
@@ -69,14 +70,14 @@
 | [Marcando La Diferencia](https://open.spotify.com/track/1EUPd55xAcY49hU59aJD5N) | [Victor Eme](https://open.spotify.com/artist/7pqC92doZ7JCuW52HhonW6) | [Marcando La Diferencia](https://open.spotify.com/album/2AFLpxDXYur6ODyh5eSGHa) | 2:59 | 2022-04-18 |  |
 | [Me Acostumbre A Lo Bueno](https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Del Barrio Hasta Aquí, Vol\. 2](https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp) | 2:20 | 2022-02-01 |  |
 | [Mi Despedida](https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Mi Despedida](https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv) | 3:16 | 2022-07-01 |  |
-| [Mi Morenita](https://open.spotify.com/track/1ZvVinhAqHiK8YdjXu1Cnr) | [La Duda](https://open.spotify.com/artist/76PanOLrnvlpAjGLTOR3y6) | [Mi Morenita](https://open.spotify.com/album/29LGs55jLEj5WjFDB7DdrH) | 3:13 | 2022-04-22 | 2022-07-06 |
+| [Mi Morenita](https://open.spotify.com/track/1ZvVinhAqHiK8YdjXu1Cnr) | [La Duda](https://open.spotify.com/artist/76PanOLrnvlpAjGLTOR3y6) | [Mi Morenita](https://open.spotify.com/album/29LGs55jLEj5WjFDB7DdrH) | 3:13 | 2022-04-22 |  |
 | [Mi Todo](https://open.spotify.com/track/4PJPDW3jEL4VNAfICxaEVm) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Mi Todo](https://open.spotify.com/album/0zpk19f8Rp6hb1YGjOMVX9) | 4:01 | 2022-02-22 |  |
 | [Miedo](https://open.spotify.com/track/5GEnSZnHLmhqulhSseeBNQ) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [Renacer](https://open.spotify.com/album/6DlpxVdn2Pzyu0UISlJDDs) | 3:22 | 2022-07-01 |  |
 | [Mientras Duermes](https://open.spotify.com/track/22PH5e4SxE8EPI5YVc0Zin) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Mientras Duermes](https://open.spotify.com/album/3MZAzqL04CpxMuymwFdA8j) | 3:07 | 2022-02-25 |  |
 | [Nieves de Enero](https://open.spotify.com/track/1GxYyP3rMCMtB3e7EWqU3f) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Nieves de Enero](https://open.spotify.com/album/275MAQJMWo7LMUEmwaHtBe) | 4:23 | 2022-06-03 | 2022-07-06 |
 | [No Falta Mas Tiempo](https://open.spotify.com/track/6xmtB0oKuEFvwm7jnGkNdg) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [No Falta Mas Tiempo](https://open.spotify.com/album/26ZmTzkhby5ov3PFa3o5jY) | 2:46 | 2022-07-01 |  |
 | [No Le Aflojo](https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [No Le Aflojo](https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH) | 3:22 | 2022-03-04 |  |
-| [Noche De Fiesta](https://open.spotify.com/track/1m1Vqo9sa478m20bIr4j4O) | [Omar Acosta](https://open.spotify.com/artist/62TYc0jo76fDQDzV9SZMLE) | [Noche De Fiesta](https://open.spotify.com/album/5oMehedoelylYKrGFDJP0V) | 3:24 | 2022-07-01 |  |
+| [Noche De Fiesta](https://open.spotify.com/track/1m1Vqo9sa478m20bIr4j4O) | [Omar Acosta](https://open.spotify.com/artist/62TYc0jo76fDQDzV9SZMLE) | [Noche De Fiesta](https://open.spotify.com/album/5oMehedoelylYKrGFDJP0V) | 3:24 | 2022-07-01 | 2022-07-07 |
 | [Pa Que Te Duela](https://open.spotify.com/track/4XkSLgoFq8SGNR4XSFXfyc) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 3:53 | 2022-02-22 |  |
 | [Paradise](https://open.spotify.com/track/5BRXdfXZ5il3XRqtOe9bfj) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [El Chachito](https://open.spotify.com/artist/6OP8Y0UsezppFkU1hZU6EJ) | [GXLE 3](https://open.spotify.com/album/27hDq1oNof8J1u08xMCvQk) | 3:26 | 2022-04-15 |  |
 | [Perfecta](https://open.spotify.com/track/2bUDsZdvWZyIYFWluUzFe6) | [Alameños de la Sierra](https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh) | [Las Pacas](https://open.spotify.com/album/4yMC2UNgGrcWdnMpdQ6noX) | 4:41 | 2022-04-18 |  |

@@ -3972,6 +3972,28 @@
     },
     {
       "album": {
+        "name": "HYPNOSIS",
+        "url": "https://open.spotify.com/album/0ScMmsuo25SPrfJ4K7ezcX"
+      },
+      "artists": [
+        {
+          "name": "A-BO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        },
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158583,
+      "name": "HYPNOSIS",
+      "url": "https://open.spotify.com/track/5OdV0UCyyyNiH3QWEqMYDy"
+    },
+    {
+      "album": {
         "name": "I Confess (feat. ROM\u00c9O)",
         "url": "https://open.spotify.com/album/5zJDTUAiTmQUKbq7hOo64b"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > Thank you  <a href=“spotify:artist:6vWDO969PvNqNYHIOW5v0m”>Queen B,</a> you got \#SpotifyTBT remembering when Pop goes Dance! Cover: Beyonce
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,081,958 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,081,829 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

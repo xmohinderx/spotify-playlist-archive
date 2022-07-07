@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Green Velvet.
 
-475 songs - 1 day 3 hr 38 min - [published](https://open.spotify.com/playlist/78BxbIkAGKnzKUXystZiu3)
+476 songs - 1 day 3 hr 41 min - [published](https://open.spotify.com/playlist/78BxbIkAGKnzKUXystZiu3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [How We Do](https://open.spotify.com/track/0oDnZigAyI2RTxareDIuXO) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [How We Do](https://open.spotify.com/album/5QyO0fxIi4l2LFQkbWUGWw) | 3:07 | 2022-02-18 | 2022-06-04 |
 | [Human \(feat\. Echoes\)](https://open.spotify.com/track/4G4patpYxsF6ovHZOX9wgR) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Echoes](https://open.spotify.com/artist/4pT84mlmySh9CkiGfJA9xV) | [Human \(feat\. Echoes\)](https://open.spotify.com/album/0LsQJbzouY38Os8GXxn5dO) | 3:39 | 2021-11-30 | 2022-06-04 |
 | [Human \(feat\. Echoes\) \- Joshwa Remix](https://open.spotify.com/track/23DTsnKCwj5Gf2J1aZXMNh) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Echoes](https://open.spotify.com/artist/4pT84mlmySh9CkiGfJA9xV), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Human \(feat\. Echoes\) \[Joshwa Remix\]](https://open.spotify.com/album/51JpJXT6QTsz1Fp672erqG) | 3:35 | 2022-02-04 | 2022-04-23 |
+| [HYPNOSIS](https://open.spotify.com/track/5OdV0UCyyyNiH3QWEqMYDy) | [A\-BO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [HYPNOSIS](https://open.spotify.com/album/0ScMmsuo25SPrfJ4K7ezcX) | 2:38 | 2022-07-06 |  |
 | [I Confess \(feat\. ROMÉO\)](https://open.spotify.com/track/60aUfRZyvfi37ibBdiTJ9f) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [ROMÉO](https://open.spotify.com/artist/6UZAR4NCq8pcvxGZVlfuf2) | [I Confess \(feat\. ROMÉO\)](https://open.spotify.com/album/5zJDTUAiTmQUKbq7hOo64b) | 2:37 | 2022-05-20 |  |
 | [I Don't Care](https://open.spotify.com/track/7BXqCv3Y940NFSFJv19ywn) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [I Don't Care](https://open.spotify.com/album/6zoxovlr2YLSPz6wFYQixI) | 2:59 | 2021-11-26 | 2022-01-06 |
 | [I Don't Think U Do](https://open.spotify.com/track/2cyNqXxLcSV7EtEkIivrlz) | [SNBRN](https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI), [FREAK ON](https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ) | [I Don't Think U Do](https://open.spotify.com/album/53t06XQarorEYsDJXjwjSg) | 3:23 | 2022-05-06 |  |

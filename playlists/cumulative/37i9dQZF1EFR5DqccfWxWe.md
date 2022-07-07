@@ -2,7 +2,7 @@
 
 ### [Written By Julio Reyes](https://open.spotify.com/playlist/37i9dQZF1EFR5DqccfWxWe)
 
-> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VuCylDMS94uSYiUpyDzLV">Julio Reyes</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
+> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VuCylDMS94uSYiUpyDzLV">Julio Reyes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
 150 songs - 8 hr 35 min - [published](https://open.spotify.com/playlist/2TdbwmoFce85jK5SsbDqkQ)
 

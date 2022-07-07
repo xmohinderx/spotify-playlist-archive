@@ -2,13 +2,14 @@
 
 ### [EQUAL Andes](https://open.spotify.com/playlist/37i9dQZF1DX27DJRLhzQiD)
 
-> Wendy Sulca y más mujeres, a todo volumen.
+> Corina Smith y más mujeres, a todo volumen.
 
-100 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/4ig5nNsfONZJzmj3q1Nolg)
+102 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/4ig5nNsfONZJzmj3q1Nolg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24/7](https://open.spotify.com/track/4uV03a4DOwNuNRFnWyS5ws) | [Ceci Juno](https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu) | [24/7](https://open.spotify.com/album/0qjyN1h2xO3t84R3LX6vV5) | 3:28 | 2022-02-02 | 2022-05-05 |
+| [A Tu Novia](https://open.spotify.com/track/5HGyi8k0gzxmvz5G1X9faK) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8), [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat) | [Antisocial](https://open.spotify.com/album/0fymQT4sKyeNdAJoQi79Gz) | 3:32 | 2022-07-06 |  |
 | [Abajo y Arriba \(with Juhn\)](https://open.spotify.com/track/5S6t8dvq3kL4V4FmuMQi32) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Abajo y Arriba \(with Juhn\)](https://open.spotify.com/album/6qTXCgKXlmxCP4a2ed1R71) | 2:48 | 2022-02-02 | 2022-04-09 |
 | [Agua de Mar](https://open.spotify.com/track/5gIgObxUAIAvUqBW59uujT) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [Agua de Mar](https://open.spotify.com/album/3o1hlsCJ1MdPQjQgomvF42) | 3:41 | 2022-01-05 |  |
 | [Alguien](https://open.spotify.com/track/06GNb7cUCN6YTQmzfFd2m1) | [Amy Gutierrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [Alguien](https://open.spotify.com/album/6Tm5rVXr3ofn5d5vK8U6ie) | 4:32 | 2022-01-05 |  |
@@ -20,7 +21,7 @@
 | [Callao](https://open.spotify.com/track/6nTZdy0g6OmvMMiCO2mmz3) | [Anna Carina](https://open.spotify.com/artist/7moMwCf6s2SVquYO0rrlR8) | [Callao](https://open.spotify.com/album/1OgHuBpc4AZ88BVFgRajO9) | 3:04 | 2022-01-05 |  |
 | [Caramelo](https://open.spotify.com/track/2cElznINAHvKeHzv97ZuAV) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [”Zamba Puta”](https://open.spotify.com/album/1FsZ3DfeXndrOrpWNBWk6J) | 3:23 | 2022-01-05 | 2022-02-03 |
 | [Celoso](https://open.spotify.com/track/33zcmmElV1YbRZe57biUjg) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [Celoso](https://open.spotify.com/album/0gXUZc4bTQzNqLvIyeObHm) | 2:59 | 2022-05-04 |  |
-| [Cerveza Cerveza 2.0](https://open.spotify.com/track/56Z1XXi31MoanMN0RlW16E) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [Maca Del Pilar](https://open.spotify.com/artist/42rQdqCJtlMTkiWjwwYevF), [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2) | [Cerveza Cerveza 2.0](https://open.spotify.com/album/3obB69K992BGQyDF9LwcWF) | 3:22 | 2022-01-05 |  |
+| [Cerveza Cerveza 2.0](https://open.spotify.com/track/56Z1XXi31MoanMN0RlW16E) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [Maca Del Pilar](https://open.spotify.com/artist/42rQdqCJtlMTkiWjwwYevF), [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2) | [Cerveza Cerveza 2.0](https://open.spotify.com/album/3obB69K992BGQyDF9LwcWF) | 3:22 | 2022-01-05 | 2022-07-07 |
 | [Cha Cha Cha](https://open.spotify.com/track/02r4y9kqU8GQYX2kg32n6W) | [Anna Carina](https://open.spotify.com/artist/7moMwCf6s2SVquYO0rrlR8) | [Cha Cha Cha](https://open.spotify.com/album/6FhtQQydH3Y6SNb1X6UgFn) | 2:43 | 2022-04-29 |  |
 | [Cobarde](https://open.spotify.com/track/3w0IdrfXrlmvESogOesvOf) | [Yahaira Plasencia](https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Cobarde \(feat\. Sergio George\)](https://open.spotify.com/album/5mfrI3ImlLIbkiMaMGM4Uo) | 3:12 | 2022-01-05 |  |
 | [Curarte](https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Un Koala En Una Palmera](https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U) | 3:03 | 2022-06-01 |  |
@@ -51,6 +52,7 @@
 | [LA SUERTE](https://open.spotify.com/track/1ZvH6ijf4f7kO2lpZK8Rie) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [LA SUERTE](https://open.spotify.com/album/31zundrva1JBJAprVqxsz8) | 4:29 | 2022-02-02 |  |
 | [La Última Vez](https://open.spotify.com/track/4oTbwq0ozVuwnkCuNntRnx) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [La Última Vez](https://open.spotify.com/album/2zWsQaVxgUsCWxMkYsOqv2) | 3:47 | 2022-01-05 | 2022-02-03 |
 | [Llorando Tu Partida](https://open.spotify.com/track/1JHE3fgK8QvaWdj2IjmzgL) | [Ada Y La Nueva Pasion](https://open.spotify.com/artist/19tl2bzCLRXDglG9AAozA0) | [Ada Y La Nueva Pasion](https://open.spotify.com/album/1oy6xKrcERrCYLqZxcqCdI) | 3:49 | 2022-01-05 |  |
+| [Los Tweets](https://open.spotify.com/track/1Jh7skKg0LaCQHGXRtLf2g) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Los Tweets](https://open.spotify.com/album/4Rrdn0CXxUWpiCQqssrdRX) | 2:37 | 2022-07-06 |  |
 | [Lucerito](https://open.spotify.com/track/5g3r5nAgHXd0ernuOwEoAG) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy), [Alejandra Pascucci](https://open.spotify.com/artist/2EZDEZK6SFsdonuMMw7vt7) | [Lucerito](https://open.spotify.com/album/25l2hHHWlsw7QUBlwPhend) | 4:06 | 2022-01-05 | 2022-03-09 |
 | [Luisa](https://open.spotify.com/track/46yArd7VDfAZxKDGoKgE7Z) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Luisa](https://open.spotify.com/album/41J6vPb5TIgniMbscw4s9w) | 4:09 | 2022-04-08 |  |
 | [Lunera](https://open.spotify.com/track/01b3QISqCOPkxcxF0f8RPt) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Viene y Va](https://open.spotify.com/album/3q2Hqnvc5M83pfhXNqjNPK) | 4:24 | 2022-01-05 |  |
@@ -75,7 +77,7 @@
 | [Nunca Pense Llorar](https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw) | [Rossy War y Su Banda Kaliente](https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ) | [Como un Dulce Poema, Vol\. 3](https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY) | 4:09 | 2022-01-05 |  |
 | [Obscuro Obituario](https://open.spotify.com/track/408zijg9l4YdpENJB4eIsi) | [Maria Usbeck](https://open.spotify.com/artist/16pdeeyke2dzEJXSj0MPft) | [Obscuro Obituario](https://open.spotify.com/album/1jVABPpRra4c76wXbFMybc) | 4:02 | 2022-02-02 |  |
 | [Obsesión](https://open.spotify.com/track/0ssoWr03PfMCYJuTuLOt7a) | [Maricarmen Marin](https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz) | [Obsesión](https://open.spotify.com/album/59LEPhlKfkO0kCtXqqvL1f) | 3:39 | 2022-01-05 | 2022-06-01 |
-| [Obviamente](https://open.spotify.com/track/3UhsarKtHIgNy55wJxIBgZ) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Obviamente](https://open.spotify.com/album/01Atbg1GXw0B132XzXQ1zZ) | 2:49 | 2022-02-02 |  |
+| [Obviamente](https://open.spotify.com/track/3UhsarKtHIgNy55wJxIBgZ) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Obviamente](https://open.spotify.com/album/01Atbg1GXw0B132XzXQ1zZ) | 2:49 | 2022-02-02 | 2022-07-07 |
 | [Olvidarte \- Acústico](https://open.spotify.com/track/3TDdgMduoqxrhNlcv7Nl7U) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [Y Te Lo Digo Yo \(Acústico\)](https://open.spotify.com/album/2CONBG62tq9P6LsBri9yIS) | 3:20 | 2022-01-05 | 2022-02-03 |
 | [Pan Con Miel](https://open.spotify.com/track/76KXhl2WCGyc6B0dkhO61W) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Pan Con Miel](https://open.spotify.com/album/3550c67ffZKqFF19wbtM15) | 3:27 | 2022-02-02 | 2022-06-01 |
 | [Parece Que Ya No](https://open.spotify.com/track/0kjSIstqwUuMLNbQIb5sTV) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Parece Que Ya No](https://open.spotify.com/album/7Lf91xvNP0P95o2ETbenD9) | 1:32 | 2022-01-05 |  |

@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 301866,
       "name": "All These Things That I've Done",
       "url": "https://open.spotify.com/track/5vollujufHY0jMZxx77VWr"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 218440,
       "name": "Alone Again Or",
       "url": "https://open.spotify.com/track/34dAKRy0pfwYylW7ivoOgy"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 193320,
       "name": "Bigmouth Strikes Again - 2011 Remaster",
       "url": "https://open.spotify.com/track/2OErSh4oVVAUll0vHxdr6p"
@@ -593,7 +593,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 379213,
       "name": "Comfortably Numb - 2011 Remastered Version",
       "url": "https://open.spotify.com/track/7Fg4jpwpkdkGCvq1rrXnvx"
@@ -665,7 +665,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 262826,
       "name": "Do You Remember The First Time?",
       "url": "https://open.spotify.com/track/0txLC5NA64M8siGn3mnET0"
@@ -795,7 +795,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 234753,
       "name": "Find My Way",
       "url": "https://open.spotify.com/track/1SYdSWLyeVMjHYXD1iJZoY"
@@ -813,7 +813,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 193973,
       "name": "Flying On The Ground",
       "url": "https://open.spotify.com/track/0EaqNRuOrlsJsW23gG8i7v"
@@ -983,7 +983,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 172173,
       "name": "How Long Will I Love You 2021",
       "url": "https://open.spotify.com/track/4YbcwXlpp49lLHf9fMChMc"
@@ -1315,7 +1315,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 257640,
       "name": "Learning to Fly - 2019 Remix [2021 Edit]",
       "url": "https://open.spotify.com/track/0bdXJZtjzYXYzd3pBKxhci"
@@ -1939,7 +1939,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 197808,
       "name": "Rushing Water",
       "url": "https://open.spotify.com/track/5WbDz2wejq1YgdwFaJAipD"
@@ -2015,7 +2015,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 393666,
       "name": "Shout",
       "url": "https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ"
@@ -2228,6 +2228,24 @@
     },
     {
       "album": {
+        "name": "Tenement Time / Sensory Street",
+        "url": "https://open.spotify.com/album/3kmrgtQtnxUEPGhQ48Hl4o"
+      },
+      "artists": [
+        {
+          "name": "Johnny Marr",
+          "url": "https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258972,
+      "name": "Tenement Time",
+      "url": "https://open.spotify.com/track/4xJjPbl4GjPqaNRJ30NTOi"
+    },
+    {
+      "album": {
         "name": "Sound Affects",
         "url": "https://open.spotify.com/album/4DkUmnDgrkBTk1RGLCTZcb"
       },
@@ -2351,7 +2369,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 219226,
       "name": "The Secret He Had Missed (feat. Julia Cumming)",
       "url": "https://open.spotify.com/track/2fP6OxPKBWkCj2nmxli9Ca"
@@ -2369,7 +2387,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 253226,
       "name": "The Tipping Point",
       "url": "https://open.spotify.com/track/3TVAzlsAyk0thTcwRMEIm2"
@@ -2413,7 +2431,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 170653,
       "name": "This Love Starved Heart of Mine (It's Killing Me)",
       "url": "https://open.spotify.com/track/32SqqH3of0MA2bwuy3C8tW"
@@ -2507,7 +2525,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 237520,
       "name": "Under Pressure",
       "url": "https://open.spotify.com/track/5oidljiMjeJTWUGZ4TfFea"

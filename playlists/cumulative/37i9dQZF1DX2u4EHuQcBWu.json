@@ -53,7 +53,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 191306,
       "name": "2 de Octubre",
       "url": "https://open.spotify.com/track/66FI8Hc54T8r83QH8vD1LC"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 121706,
       "name": "Abuso de Autoridad",
       "url": "https://open.spotify.com/track/2YOz9ahfbrr93hvnBDTySd"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 268466,
       "name": "Al Pueblo Le Asusta la Revoluci\u00f3n",
       "url": "https://open.spotify.com/track/0aAEMtiLmRrYlPO2PrK5E2"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 391986,
       "name": "Allende Vive (Y Yo Se Donde)",
       "url": "https://open.spotify.com/track/4vO6EVjidsnB2llQBWiMZv"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 184737,
       "name": "Al\u00f3!",
       "url": "https://open.spotify.com/track/3glDoXxAirnpAkLk48Tb0f"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 304266,
       "name": "Amor del dos de octubre",
       "url": "https://open.spotify.com/track/4muJsJGtHPsDX9P5OvH3gM"
@@ -244,6 +244,24 @@
     },
     {
       "album": {
+        "name": "Gente Come Gente",
+        "url": "https://open.spotify.com/album/19BjzCfiT1xmIsugIqoWE4"
+      },
+      "artists": [
+        {
+          "name": "Puerquerama",
+          "url": "https://open.spotify.com/artist/2zShkbLw0Y4YxzsOnyeUXH"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241760,
+      "name": "Antidoping al Presidente",
+      "url": "https://open.spotify.com/track/1QqTe2mCiaAQExNIxHmiXC"
+    },
+    {
+      "album": {
         "name": "Antifa Dance",
         "url": "https://open.spotify.com/album/5Ex8ADFhgsJVFkI5eHeQq1"
       },
@@ -255,7 +273,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 155689,
       "name": "Antifa Dance",
       "url": "https://open.spotify.com/track/3OfJ6ja2JtoQ7SDwNY4MTO"
@@ -273,7 +291,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 184378,
       "name": "Antipatriarca",
       "url": "https://open.spotify.com/track/49SpHaonnqks7taOwDfV6Z"
@@ -316,6 +334,24 @@
     },
     {
       "album": {
+        "name": "Futuro Esplendor",
+        "url": "https://open.spotify.com/album/0XImJ2QAXvD8wQHZzu1LjS"
+      },
+      "artists": [
+        {
+          "name": "Los Miserables",
+          "url": "https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198080,
+      "name": "Asesino",
+      "url": "https://open.spotify.com/track/29U7vM0JkxfX4lvt54SW6k"
+    },
+    {
+      "album": {
         "name": "Canciones de Puertos",
         "url": "https://open.spotify.com/album/4ScVUPqTEEfnIGCXhRqHb9"
       },
@@ -345,7 +381,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 246945,
       "name": "Ayotzinapa Somos 43",
       "url": "https://open.spotify.com/track/1UDS2vl6YSrVbtn3MZRSS1"
@@ -421,7 +457,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 217000,
       "name": "Basta",
       "url": "https://open.spotify.com/track/19FkBtuJd3iMACFZtQJx5Q"
@@ -446,6 +482,24 @@
     },
     {
       "album": {
+        "name": "Bloody Bloody Border",
+        "url": "https://open.spotify.com/album/6tt6ih80VcCdBOwyxXjeEy"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173977,
+      "name": "Bloody Bloody Border",
+      "url": "https://open.spotify.com/track/6BUVSwe1w4ypuSWXMecEmh"
+    },
+    {
+      "album": {
         "name": "Los De Abajo",
         "url": "https://open.spotify.com/album/0eGanROLjAFIUSTGk0kYZR"
       },
@@ -457,7 +511,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 301600,
       "name": "Caba\u00f1as",
       "url": "https://open.spotify.com/track/4AT6IaABIquUpz52kPMDi5"
@@ -475,7 +529,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 190217,
       "name": "Cacerolazo",
       "url": "https://open.spotify.com/track/6d4o5TONbuZXjBU0DlR7k8"
@@ -649,7 +703,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 280546,
       "name": "Cerca De La Revolucion",
       "url": "https://open.spotify.com/track/66grIvFLGrI4tNhggO2DAd"
@@ -667,7 +721,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 147946,
       "name": "Chile No es una postal",
       "url": "https://open.spotify.com/track/0G6g95KvbroqrGiRVUQmUB"
@@ -703,7 +757,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 220613,
       "name": "Clandestino",
       "url": "https://open.spotify.com/track/0h32lYtbHH60jin7uyKNMc"
@@ -765,7 +819,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 239583,
       "name": "Compa\u00f1ero",
       "url": "https://open.spotify.com/track/2aMh0NsOZVtCrWI6bwIfa7"
@@ -921,7 +975,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 303120,
       "name": "Dia Negro",
       "url": "https://open.spotify.com/track/0XtP1KtFtK4AoNTo5DsQSu"
@@ -957,7 +1011,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 288746,
       "name": "El Aguante",
       "url": "https://open.spotify.com/track/7AIVTgrRcdUW8QBsqNQ33z"
@@ -993,7 +1047,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 266386,
       "name": "El Barz\u00f3n",
       "url": "https://open.spotify.com/track/7M4mRIorxuEm0lV27cuOii"
@@ -1011,7 +1065,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 242586,
       "name": "El Billetico",
       "url": "https://open.spotify.com/track/0lHGAgLlG3s0KX34iGlQeb"
@@ -1029,7 +1083,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 210746,
       "name": "El Club de la Resistencia",
       "url": "https://open.spotify.com/track/7MZ5FFiWtyhyoJOwOnUmhQ"
@@ -1141,7 +1195,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 237396,
       "name": "El Otro Chile",
       "url": "https://open.spotify.com/track/6NxXtGRGKVDfhuza8CJn5G"
@@ -1177,7 +1231,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 215733,
       "name": "El Pa\u00eds de No Pasa Nada",
       "url": "https://open.spotify.com/track/3gfBLXG0oCUs3QxI1rq22u"
@@ -1213,7 +1267,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 292040,
       "name": "El Pueblo Unido Jam\u00e1s Ser\u00e1 Vencido",
       "url": "https://open.spotify.com/track/1hcVUv737WNoY1d9BRZpyQ"
@@ -1311,7 +1365,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 167128,
       "name": "Este Ritmo",
       "url": "https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX"
@@ -1329,7 +1383,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 199160,
       "name": "Exigimos",
       "url": "https://open.spotify.com/track/225FswgDppByG2DcAf05BG"
@@ -1347,7 +1401,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 188747,
       "name": "Facho Pobre",
       "url": "https://open.spotify.com/track/4QJviIOG76haYXQl2VacKj"
@@ -1365,7 +1419,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 294266,
       "name": "Fijate Bien",
       "url": "https://open.spotify.com/track/3wE4fvPhhScUAhY37TDc1D"
@@ -1401,7 +1455,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 305893,
       "name": "Fuerte",
       "url": "https://open.spotify.com/track/1bmkkmC0umjVUUjmDIRDq6"
@@ -1667,7 +1721,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 216800,
       "name": "La Fuerza del Amor",
       "url": "https://open.spotify.com/track/2MsAvaZmT4sA1UjkUP6kXD"
@@ -1721,7 +1775,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 154226,
       "name": "La Invasi\u00f3n",
       "url": "https://open.spotify.com/track/7uqeuY4SURHXcZRWZtDLZB"
@@ -1775,7 +1829,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 227093,
       "name": "La Marcha De La Bronca",
       "url": "https://open.spotify.com/track/4sUEtsaCvQVIkzMksupERW"
@@ -1833,7 +1887,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 279333,
       "name": "La Muralla",
       "url": "https://open.spotify.com/track/7xTdDHBepVRqP9BqobHI75"
@@ -1851,7 +1905,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 231575,
       "name": "La Resistencia",
       "url": "https://open.spotify.com/track/7a7dqKJQZQK0SQPtwOItpx"
@@ -1887,7 +1941,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 225480,
       "name": "La Tierra",
       "url": "https://open.spotify.com/track/5R5BUvAO23Z83xvL5wXVOj"
@@ -2041,7 +2095,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 220533,
       "name": "Los Dinosaurios - Live",
       "url": "https://open.spotify.com/track/0BWhmRyHvBLMcEJDAos2PD"
@@ -2059,7 +2113,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 188066,
       "name": "Luna Tucumana",
       "url": "https://open.spotify.com/track/7x22SRygRje0FD7A3jiYmz"
@@ -2077,7 +2131,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 336000,
       "name": "Maleducao",
       "url": "https://open.spotify.com/track/6nLKWrgDmM7BpxF4xVAotW"
@@ -2095,7 +2149,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 386120,
       "name": "Manifiesto (En Vivo)",
       "url": "https://open.spotify.com/track/61sqpcforxRRE1dfiXX3tE"
@@ -2131,7 +2185,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 142373,
       "name": "Marcha de los Caidos (March of the Fallen Dead)",
       "url": "https://open.spotify.com/track/3uMDUofWBLpWyLi8kjUbTB"
@@ -2185,7 +2239,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 109173,
       "name": "Masacre 68",
       "url": "https://open.spotify.com/track/1QXseqiysvJjOJpTJQetgn"
@@ -2203,7 +2257,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 110160,
       "name": "Masacre 68",
       "url": "https://open.spotify.com/track/1JxZMVyfsoDmA4jUhF6QoJ"
@@ -2275,7 +2329,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 297733,
       "name": "Me Gustan los Estudiantes",
       "url": "https://open.spotify.com/track/6nrbx7lQuJsnpYnebxMgKh"
@@ -2293,7 +2347,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 222432,
       "name": "Millones",
       "url": "https://open.spotify.com/track/6EYVI4zwxzP3EnViyiI5x0"
@@ -2387,10 +2441,32 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 171875,
       "name": "Muro",
       "url": "https://open.spotify.com/track/4cF7gqkza1geajoGpRcDzJ"
+    },
+    {
+      "album": {
+        "name": "My America Is Not Your America",
+        "url": "https://open.spotify.com/album/31vbSgrHUqxbqjGfnBUESf"
+      },
+      "artists": [
+        {
+          "name": "Mexican Institute Of Sound",
+          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
+        },
+        {
+          "name": "Graham Coxon",
+          "url": "https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306321,
+      "name": "My America Is Not Your America",
+      "url": "https://open.spotify.com/track/0NYtyAkJBCE6cnlvCd5a7E"
     },
     {
       "album": {
@@ -2427,7 +2503,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 114781,
       "name": "Nada Es Verdad (Finale) / Spoken Words",
       "url": "https://open.spotify.com/track/0WJY4uPMOZZtpKWW6cxr99"
@@ -2521,7 +2597,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 258970,
       "name": "No Me Olvides",
       "url": "https://open.spotify.com/track/5R6sjTCRaLKIqyfjNk9i92"
@@ -2575,7 +2651,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 239906,
       "name": "Nuestro Amo Juega al Esclavo",
       "url": "https://open.spotify.com/track/0xt7T3rqNolRjO0AUWqBiD"
@@ -2771,7 +2847,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 139005,
       "name": "Pasado Presente",
       "url": "https://open.spotify.com/track/3AXDrJW3Px2NAPkscmJi1M"
@@ -2871,7 +2947,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 203041,
       "name": "Plant\u00f3n 420",
       "url": "https://open.spotify.com/track/0GoKLjwWBMuG2nslFqQOV5"
@@ -3049,7 +3125,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 309600,
       "name": "Prende la Mecha",
       "url": "https://open.spotify.com/track/3zPOUXco2pzdKXFGkajaZ7"
@@ -3089,7 +3165,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 193066,
       "name": "Resiste",
       "url": "https://open.spotify.com/track/3KhOoX38OwMvybXZnPz4A2"
@@ -3114,6 +3190,42 @@
     },
     {
       "album": {
+        "name": "LDA V The Lunatics",
+        "url": "https://open.spotify.com/album/0ILRGg0u3BN565Y86eKhuP"
+      },
+      "artists": [
+        {
+          "name": "Los De Abajo",
+          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310146,
+      "name": "Resistencia",
+      "url": "https://open.spotify.com/track/11aK3cqZ8oPt6flLqkQu77"
+    },
+    {
+      "album": {
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/5VGGdaFaGS8Yd3ZzlWHeGv"
+      },
+      "artists": [
+        {
+          "name": "Fiskales Ad-Hok",
+          "url": "https://open.spotify.com/artist/60bfQT8dq9ykKW6KfIXnE5"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128573,
+      "name": "Resistir\u00e9",
+      "url": "https://open.spotify.com/track/5wHu5Ht9C8tJ9L6HIxpb9c"
+    },
+    {
+      "album": {
         "name": "Re-Evoluci\u00f3n",
         "url": "https://open.spotify.com/album/5UwMwIj46GiXKy1N4sJ2NT"
       },
@@ -3125,7 +3237,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 334786,
       "name": "Revolucio\u0301n",
       "url": "https://open.spotify.com/track/39OAgrBzfyyn5JCOWbUjdJ"
@@ -3227,7 +3339,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 280453,
       "name": "Samba Lando",
       "url": "https://open.spotify.com/track/2XLhXysRO4Q5TFc14Ltklh"
@@ -3245,7 +3357,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 197386,
       "name": "Santiago De Chile",
       "url": "https://open.spotify.com/track/2MiS7QrTzWoMKXcThkACYD"
@@ -3335,7 +3447,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 156386,
       "name": "Siguiente latigo",
       "url": "https://open.spotify.com/track/51u2mI142U9wI5YBcXMgq6"
@@ -3397,7 +3509,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 230877,
       "name": "Somos Hermanas",
       "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"
@@ -3619,7 +3731,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 138240,
       "name": "Tlatelolco 68",
       "url": "https://open.spotify.com/track/5wU5h6gDucKfiQaIi8huUC"
@@ -3637,7 +3749,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 336866,
       "name": "Tlatelolco M\u00edstico",
       "url": "https://open.spotify.com/track/4SMoYTWVt4ohHPhiMQeSRg"
@@ -3713,7 +3825,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 330946,
       "name": "Tragedia de la Plaza de las Tres Culturas (Tragedy of Plaza of the Three Cultures)",
       "url": "https://open.spotify.com/track/1El3NtUxsm0jc429xajs3I"
@@ -3775,7 +3887,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 335187,
       "name": "Ya Basta",
       "url": "https://open.spotify.com/track/2tKxA7ja73i8c8UfswM8UQ"
@@ -3797,7 +3909,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 128906,
       "name": "\u00a1Presos Pol\u00edticos, Libertad!",
       "url": "https://open.spotify.com/track/2d3mtjtft0U04qC3Lnlluo"

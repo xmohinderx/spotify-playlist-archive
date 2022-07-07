@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > a spoiler free area
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,400,491 likes - 104 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,409,649 likes - 104 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 | 103 | [Teenagers](https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 2:41 |
 | 104 | [Habits \(Stay High\)](https://open.spotify.com/track/14OxJlLdcHNpgsm4DRwDOB) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Queen Of The Clouds](https://open.spotify.com/album/47C7w4o1resDhr7jvYEpxE) | 3:29 |
 
-Snapshot ID: `MTY1NzA0NTM2MCwwMDAwMDE5NjAwMDAwMTgxY2Y5OTlmNTQwMDAwMDE4MWI1NzI3NTc4`
+Snapshot ID: `MTY1NzEyNzU0OCwwMDAwMDE5ODAwMDAwMTgxZDQ3ZmI0YTYwMDAwMDE4MWI1NzI3NTc4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > New R&B/Soul from independent artists & labels every Wednesday\. Cover: Yoshi T
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,217 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,590 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 10 | [Eve](https://open.spotify.com/track/4nwSwALkSaxA26bEANsi20) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Eve](https://open.spotify.com/album/1O056siKSsHdDjlvIO0pJ5) | 2:43 |
 | 11 | [Acrophilia'](https://open.spotify.com/track/2lPmw51UjeCO5y9GG0m2nS) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav), [Divine Lightbody](https://open.spotify.com/artist/4b9YacVLF5QegzWwfz0vIJ) | [Acrophilia'](https://open.spotify.com/album/5OfQexvpjAiZeMrOVEZuos) | 2:06 |
 | 12 | [Girlfriend](https://open.spotify.com/track/6vC1RB4tgLY2zgKptEYb5V) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Girlfriend](https://open.spotify.com/album/2ErpM0RtcUDxoYFstmWJfy) | 2:47 |
-| 13 | [Brat](https://open.spotify.com/track/2ZNR2irvG1LQlkp6oFXlqi) | [EUCYX](https://open.spotify.com/artist/3saf3DlYYf7BoAjgvzpzTS), [Renzo](https://open.spotify.com/artist/2zaUCeSuVF9xfNpu1Tnv5R) | [Brat](https://open.spotify.com/album/1bcMfNi1eT7dyJAchAO14w) | 3:47 |
+| 13 | [Brat](https://open.spotify.com/track/2ZNR2irvG1LQlkp6oFXlqi) | [Kit Presley](https://open.spotify.com/artist/64BwRtbqPraSfPWMtmbCz5), [Renzo](https://open.spotify.com/artist/2zaUCeSuVF9xfNpu1Tnv5R) | [Brat](https://open.spotify.com/album/1bcMfNi1eT7dyJAchAO14w) | 3:47 |
 | 14 | [Rollercoaster](https://open.spotify.com/track/4sciT4OOWK3iD41rtkrTYY) | [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Rollercoaster](https://open.spotify.com/album/6bTIVYkJDjjsSakD5nfLNa) | 3:33 |
 | 15 | [What It Taste Like](https://open.spotify.com/track/67DaVkKniNRuYQ7gzGuOOX) | [Natasha Mosley](https://open.spotify.com/artist/1fYdgyGBrMIEML5cuo5FpZ) | [Natasha Mosley](https://open.spotify.com/album/2QrEk9roj6HAch2GL1nRU4) | 3:21 |
 | 16 | [Missed Calls](https://open.spotify.com/track/1MxarVVd5hR6iTzv7gHEsr) | [Blaxian](https://open.spotify.com/artist/5hY9vFP2SpMfb5ZXqMI3o4) | [Missed Calls](https://open.spotify.com/album/75OxMVad3LRTB0W1I2JxCy) | 2:20 |

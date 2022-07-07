@@ -1,12 +1,12 @@
 {
   "description": "eres mi beb\u00e9, mi bebito fiu fiu \ud83d\udc96",
-  "num_followers": 650469,
+  "num_followers": 652181,
   "original_name": "Hits de Internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAzOTgyMSwwMDAwMDJiOTAwMDAwMTgxY2Y0NTE5MjEwMDAwMDE4MTY5MTBjZjc1",
+  "snapshot_id": "MTY1NzExNjUzOSwwMDAwMDJiYTAwMDAwMTgxZDNkN2JhYzkwMDAwMDE4MTY5MTBjZjc1",
   "tracks": [
     {
       "added_at": "2022-06-14 16:59:52",
@@ -59,22 +59,6 @@
       "duration_ms": 339611,
       "name": "Andrea",
       "url": "https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH"
-    },
-    {
-      "added_at": "2022-06-30 14:23:56",
-      "album": {
-        "name": "Mi Bebito Fiu Fiu",
-        "url": "https://open.spotify.com/album/1Tc6UA5XQyaJzgCEZYS3p1"
-      },
-      "artists": [
-        {
-          "name": "Tito Silva Music",
-          "url": "https://open.spotify.com/artist/2IFOwmcGO4WH8r3qPOh1Y8"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Mi Bebito Fiu Fiu",
-      "url": "https://open.spotify.com/track/2IjeU3uHr9gU0b9Cn33jAs"
     },
     {
       "added_at": "2022-06-14 16:59:52",
@@ -415,6 +399,26 @@
       "duration_ms": 214846,
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
+    },
+    {
+      "added_at": "2022-07-06 14:08:59",
+      "album": {
+        "name": "Separate Ways (Worlds Apart) [Bryce Miller/Alloy Tracks Remix]",
+        "url": "https://open.spotify.com/album/0YzSA7G1hEayfUGlELIe5K"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        },
+        {
+          "name": "Steve Perry",
+          "url": "https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf"
+        }
+      ],
+      "duration_ms": 165074,
+      "name": "Separate Ways (Worlds Apart) - Bryce Miller/Alloy Tracks Remix",
+      "url": "https://open.spotify.com/track/0muK9BAzu2TJXQgWPsEj6e"
     },
     {
       "added_at": "2022-06-22 00:01:03",

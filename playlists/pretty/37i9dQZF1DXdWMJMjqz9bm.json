@@ -1,12 +1,12 @@
 {
   "description": "A little bit of pop and a little bit of rap. Cover: Arden Jones",
-  "num_followers": 159698,
+  "num_followers": 159806,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAzMjU3NywwMDAwMDEzMDAwMDAwMTgxY2VkNjkzNTIwMDAwMDE4MTNhNjU2ZTVj",
+  "snapshot_id": "MTY1NzExNzY1NywwMDAwMDEzMTAwMDAwMTgxZDNlOGM3ZWYwMDAwMDE4MTNhNjU2ZTVj",
   "tracks": [
     {
       "added_at": "2022-07-05 14:49:37",
@@ -25,20 +25,36 @@
       "url": "https://open.spotify.com/track/4k0kI3nDzSOTGzQUTDnCpC"
     },
     {
-      "added_at": "2022-07-05 14:49:37",
+      "added_at": "2022-07-06 14:27:37",
       "album": {
-        "name": "Luv Is Rage 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/0zicd2mBV8HTzSubByj4vP"
+        "name": "Summer Pack",
+        "url": "https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45"
       },
       "artists": [
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
         }
       ],
-      "duration_ms": 220586,
-      "name": "20 Min",
-      "url": "https://open.spotify.com/track/0uxSUdBrJy9Un0EYoBowng"
+      "duration_ms": 297404,
+      "name": "Feels Like Summer",
+      "url": "https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr"
+    },
+    {
+      "added_at": "2022-07-05 14:49:37",
+      "album": {
+        "name": "ledge",
+        "url": "https://open.spotify.com/album/4ucXenIHafaLWozWJhLp6y"
+      },
+      "artists": [
+        {
+          "name": "sammy rash",
+          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
+        }
+      ],
+      "duration_ms": 156038,
+      "name": "ledge",
+      "url": "https://open.spotify.com/track/4qahEWQ9T4MlTFnDqbWtQU"
     },
     {
       "added_at": "2022-07-05 14:49:37",
@@ -59,6 +75,42 @@
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
+    },
+    {
+      "added_at": "2022-07-06 14:27:37",
+      "album": {
+        "name": "Twelve Carat Toothache",
+        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 192840,
+      "name": "I Like You (A Happier Song) (with Doja Cat)",
+      "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
+    },
+    {
+      "added_at": "2022-07-05 14:49:37",
+      "album": {
+        "name": "age tape 5",
+        "url": "https://open.spotify.com/album/3FmZtgNMtXeaDlPOlgwB84"
+      },
+      "artists": [
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "duration_ms": 121690,
+      "name": "bedroom floor",
+      "url": "https://open.spotify.com/track/2Xbvn1LoF0FpsW66SWieyZ"
     },
     {
       "added_at": "2022-07-05 14:49:37",
@@ -123,6 +175,74 @@
     {
       "added_at": "2022-07-05 14:49:37",
       "album": {
+        "name": "Luv Is Rage 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/0zicd2mBV8HTzSubByj4vP"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 220586,
+      "name": "20 Min",
+      "url": "https://open.spotify.com/track/0uxSUdBrJy9Un0EYoBowng"
+    },
+    {
+      "added_at": "2022-07-05 14:49:37",
+      "album": {
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/0fGaL3TZgjzCsBZRl9Abxr"
+      },
+      "artists": [
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+        },
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        }
+      ],
+      "duration_ms": 103235,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/4sFzAOD1uiP2Ww5XA1OHJf"
+    },
+    {
+      "added_at": "2022-07-05 14:49:37",
+      "album": {
+        "name": "Live Fast Die Numb",
+        "url": "https://open.spotify.com/album/5B9ZNrfIASmrJOrf7AyLaH"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "duration_ms": 134498,
+      "name": "Live Fast Die Numb",
+      "url": "https://open.spotify.com/track/10omO03JNpJwhjo538gdNc"
+    },
+    {
+      "added_at": "2022-07-05 14:49:37",
+      "album": {
+        "name": "Nail Tech",
+        "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 206385,
+      "name": "Nail Tech",
+      "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
+    },
+    {
+      "added_at": "2022-07-05 14:49:37",
+      "album": {
         "name": "Eric B for President: Term 1",
         "url": "https://open.spotify.com/album/7KNNWIPBk4Josbqhfa2KI3"
       },
@@ -143,18 +263,86 @@
     {
       "added_at": "2022-07-05 14:49:37",
       "album": {
-        "name": "Because the Internet",
-        "url": "https://open.spotify.com/album/4GNIhgEGXzWGAefgN5qjdU"
+        "name": "Cigarettes On Patios",
+        "url": "https://open.spotify.com/album/5vN3lm8mcpQ9IoQ3Xutrkw"
       },
       "artists": [
         {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+          "name": "BabyJake",
+          "url": "https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq"
         }
       ],
-      "duration_ms": 234215,
-      "name": "3005",
-      "url": "https://open.spotify.com/track/2ZltjIqztEpZtafc8w0I9t"
+      "duration_ms": 207813,
+      "name": "Cigarettes On Patios",
+      "url": "https://open.spotify.com/track/0LJDFZohBgWOMvXQw0cc9W"
+    },
+    {
+      "added_at": "2022-07-05 14:49:37",
+      "album": {
+        "name": "Bad Day",
+        "url": "https://open.spotify.com/album/3k1lFVPUbpxngCtvkB9JkA"
+      },
+      "artists": [
+        {
+          "name": "Justus Bennetts",
+          "url": "https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l"
+        }
+      ],
+      "duration_ms": 108800,
+      "name": "Bad Day",
+      "url": "https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA"
+    },
+    {
+      "added_at": "2022-07-06 14:27:37",
+      "album": {
+        "name": "the highs.",
+        "url": "https://open.spotify.com/album/2phcfZd44niczjY0xybcS6"
+      },
+      "artists": [
+        {
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        }
+      ],
+      "duration_ms": 228702,
+      "name": "rodman",
+      "url": "https://open.spotify.com/track/0jufehOY40rRdvB2t4dsot"
+    },
+    {
+      "added_at": "2022-07-05 14:49:37",
+      "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 197855,
+      "name": "Compensating (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/61KoN6PlBhQD7sivCcf0hA"
+    },
+    {
+      "added_at": "2022-07-05 14:49:37",
+      "album": {
+        "name": "piccolo",
+        "url": "https://open.spotify.com/album/6CawCRs087xs45bGR0Wz8K"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 120133,
+      "name": "piccolo",
+      "url": "https://open.spotify.com/track/5sG5EZKp6PoT7RnGEjjmUz"
     },
     {
       "added_at": "2022-07-05 14:49:37",
@@ -179,38 +367,6 @@
     {
       "added_at": "2022-07-05 14:49:37",
       "album": {
-        "name": "age tape 5",
-        "url": "https://open.spotify.com/album/3FmZtgNMtXeaDlPOlgwB84"
-      },
-      "artists": [
-        {
-          "name": "Arden Jones",
-          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
-        }
-      ],
-      "duration_ms": 121690,
-      "name": "bedroom floor",
-      "url": "https://open.spotify.com/track/2Xbvn1LoF0FpsW66SWieyZ"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
-        "name": "Thousand Miles",
-        "url": "https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 164781,
-      "name": "Thousand Miles",
-      "url": "https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
         "name": "I'D GIVE IT ALL UP",
         "url": "https://open.spotify.com/album/2bDitgjXkr1k4GWkUXCQxl"
       },
@@ -223,54 +379,6 @@
       "duration_ms": 165333,
       "name": "I'D GIVE IT ALL UP",
       "url": "https://open.spotify.com/track/6MsEajhvcMbnuWXT1y6HL2"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
-        "name": "ledge",
-        "url": "https://open.spotify.com/album/4ucXenIHafaLWozWJhLp6y"
-      },
-      "artists": [
-        {
-          "name": "sammy rash",
-          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
-        }
-      ],
-      "duration_ms": 156038,
-      "name": "ledge",
-      "url": "https://open.spotify.com/track/4qahEWQ9T4MlTFnDqbWtQU"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
-        "name": "Girls",
-        "url": "https://open.spotify.com/album/0ELNO6pSJy9iq7FJG2DKVM"
-      },
-      "artists": [
-        {
-          "name": "Justus Bennetts",
-          "url": "https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l"
-        }
-      ],
-      "duration_ms": 140921,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/1IbwVEskI2zH0dM4pnmWfU"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
-        "name": "Nail Tech",
-        "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 206385,
-      "name": "Nail Tech",
-      "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
     },
     {
       "added_at": "2022-07-05 14:49:37",
@@ -295,6 +403,22 @@
     {
       "added_at": "2022-07-05 14:49:37",
       "album": {
+        "name": "Thousand Miles",
+        "url": "https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 164781,
+      "name": "Thousand Miles",
+      "url": "https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg"
+    },
+    {
+      "added_at": "2022-07-05 14:49:37",
+      "album": {
         "name": "sun and moon",
         "url": "https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc"
       },
@@ -307,26 +431,6 @@
       "duration_ms": 151507,
       "name": "sun and moon",
       "url": "https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
-        "name": "Cooped Up",
-        "url": "https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 185857,
-      "name": "Cooped Up (with Roddy Ricch)",
-      "url": "https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81"
     },
     {
       "added_at": "2022-07-05 14:49:37",
@@ -347,22 +451,6 @@
       "duration_ms": 205040,
       "name": "Praise The Lord (Da Shine) (feat. Skepta)",
       "url": "https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
-        "name": "First Class",
-        "url": "https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 173947,
-      "name": "First Class",
-      "url": "https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc"
     },
     {
       "added_at": "2022-07-05 14:49:37",
@@ -475,62 +563,6 @@
     {
       "added_at": "2022-07-05 14:49:37",
       "album": {
-        "name": "Gasoline",
-        "url": "https://open.spotify.com/album/0fGaL3TZgjzCsBZRl9Abxr"
-      },
-      "artists": [
-        {
-          "name": "Nic D",
-          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
-        },
-        {
-          "name": "Connor Price",
-          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
-        }
-      ],
-      "duration_ms": 103235,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/4sFzAOD1uiP2Ww5XA1OHJf"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
-        "name": "Live Fast Die Numb",
-        "url": "https://open.spotify.com/album/5B9ZNrfIASmrJOrf7AyLaH"
-      },
-      "artists": [
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        }
-      ],
-      "duration_ms": 134498,
-      "name": "Live Fast Die Numb",
-      "url": "https://open.spotify.com/track/10omO03JNpJwhjo538gdNc"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
-        "name": "Twelve Carat Toothache",
-        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 243158,
-      "name": "Wasting Angels (with The Kid LAROI)",
-      "url": "https://open.spotify.com/track/2OcSE0EXzgUuqkM1NIJPHJ"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
         "name": "HANDSOMER (Remix) (Feat. Ktlyn)",
         "url": "https://open.spotify.com/album/5EMb5JomVavgkhB6ce0xfS"
       },
@@ -591,22 +623,6 @@
     {
       "added_at": "2022-07-05 14:49:37",
       "album": {
-        "name": "lost my boat",
-        "url": "https://open.spotify.com/album/0VuHQGgJuOFPKvFeXSP4AE"
-      },
-      "artists": [
-        {
-          "name": "mike.",
-          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "lost my boat",
-      "url": "https://open.spotify.com/track/6pZXxqSUq2Ldfep3F7Khum"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
         "name": "Smyle (Extended)",
         "url": "https://open.spotify.com/album/7ramtTKrOVLzbPjzGbSJgr"
       },
@@ -635,90 +651,6 @@
       "duration_ms": 147031,
       "name": "be alright",
       "url": "https://open.spotify.com/track/7HaPFrLUDAzTJuIo0M1i8X"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
-        "name": "Cigarettes On Patios",
-        "url": "https://open.spotify.com/album/5vN3lm8mcpQ9IoQ3Xutrkw"
-      },
-      "artists": [
-        {
-          "name": "BabyJake",
-          "url": "https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq"
-        }
-      ],
-      "duration_ms": 207813,
-      "name": "Cigarettes On Patios",
-      "url": "https://open.spotify.com/track/0LJDFZohBgWOMvXQw0cc9W"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
-        "name": "Bad Day",
-        "url": "https://open.spotify.com/album/3k1lFVPUbpxngCtvkB9JkA"
-      },
-      "artists": [
-        {
-          "name": "Justus Bennetts",
-          "url": "https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l"
-        }
-      ],
-      "duration_ms": 108800,
-      "name": "Bad Day",
-      "url": "https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt"
-      },
-      "artists": [
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 197855,
-      "name": "Compensating (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/61KoN6PlBhQD7sivCcf0hA"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
-        "name": "up again",
-        "url": "https://open.spotify.com/album/5a5ueckwVJ6n5CVIOeyMVU"
-      },
-      "artists": [
-        {
-          "name": "mike.",
-          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
-        }
-      ],
-      "duration_ms": 168902,
-      "name": "up again",
-      "url": "https://open.spotify.com/track/4wrhAoRQfmv35znEXDip7X"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
-        "name": "piccolo",
-        "url": "https://open.spotify.com/album/6CawCRs087xs45bGR0Wz8K"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 120133,
-      "name": "piccolo",
-      "url": "https://open.spotify.com/track/5sG5EZKp6PoT7RnGEjjmUz"
     },
     {
       "added_at": "2022-07-05 14:49:37",
@@ -787,58 +719,6 @@
     {
       "added_at": "2022-07-05 14:49:37",
       "album": {
-        "name": "Skin like summer",
-        "url": "https://open.spotify.com/album/609HfWohVgTcur5W1e9SYM"
-      },
-      "artists": [
-        {
-          "name": "Nic D",
-          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
-        }
-      ],
-      "duration_ms": 117368,
-      "name": "Skin like summer",
-      "url": "https://open.spotify.com/track/3BMjaR4kVrlefsdlcMJteK"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
-        "name": "pick up the phone",
-        "url": "https://open.spotify.com/album/4MDMfOdhV1IyoRnklwOHG9"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 252262,
-      "name": "pick up the phone",
-      "url": "https://open.spotify.com/track/4GXl8l1MfZPf2GvpyRPJBf"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
-        "name": "Falling Slowly",
-        "url": "https://open.spotify.com/album/3vwDyVZuMeteQGUVb3tF7S"
-      },
-      "artists": [
-        {
-          "name": "Vwillz",
-          "url": "https://open.spotify.com/artist/0S7eN9KAsbAaIZtFyCn1q1"
-        }
-      ],
-      "duration_ms": 119066,
-      "name": "Falling Slowly",
-      "url": "https://open.spotify.com/track/20O2mCvJkmrZ5RNED9tbpu"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
         "name": "TV",
         "url": "https://open.spotify.com/album/79FheIcTpTUgXlp8i4hQ34"
       },
@@ -875,22 +755,6 @@
       "duration_ms": 150560,
       "name": "I Just Called",
       "url": "https://open.spotify.com/track/0H8Tclo4x4kbZruQtZFNSX"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
-        "name": "Cole World: The Sideline Story",
-        "url": "https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 235320,
-      "name": "Work Out",
-      "url": "https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO"
     },
     {
       "added_at": "2022-07-05 14:49:37",
@@ -1151,26 +1015,6 @@
     {
       "added_at": "2022-07-05 14:49:37",
       "album": {
-        "name": "Weekend Millionaires",
-        "url": "https://open.spotify.com/album/3kI4t9Rd1LULukc8mhLn7R"
-      },
-      "artists": [
-        {
-          "name": "Skizzy Mars",
-          "url": "https://open.spotify.com/artist/00Z3UDoAQwzvGu13HoAM7J"
-        },
-        {
-          "name": "Katelyn Tarver",
-          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
-        }
-      ],
-      "duration_ms": 233880,
-      "name": "Weekend Millionaires",
-      "url": "https://open.spotify.com/track/4CNAf3OB75dximfpqT52Lo"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
         "name": "YOU",
         "url": "https://open.spotify.com/album/2AMsS7LgT4DAgMfRTTo7r0"
       },
@@ -1183,22 +1027,6 @@
       "duration_ms": 178076,
       "name": "YOU",
       "url": "https://open.spotify.com/track/0rXaoCJbmIUdMIKQwinA0k"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
-        "name": "ONEPOINTFIVE",
-        "url": "https://open.spotify.com/album/4mwO9qIVmngSe7yR5Ios0I"
-      },
-      "artists": [
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        }
-      ],
-      "duration_ms": 121346,
-      "name": "REEL IT IN",
-      "url": "https://open.spotify.com/track/5qHirGR7M9tdm6C17DlzSY"
     },
     {
       "added_at": "2022-07-05 14:49:37",
@@ -1339,22 +1167,6 @@
     {
       "added_at": "2022-07-05 14:49:37",
       "album": {
-        "name": "ONNAFRIDAY",
-        "url": "https://open.spotify.com/album/4M4Lm0G81QTEJDvrdGznP3"
-      },
-      "artists": [
-        {
-          "name": "charlieonnafriday",
-          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
-        }
-      ],
-      "duration_ms": 132686,
-      "name": "Fall Again",
-      "url": "https://open.spotify.com/track/7sYwBsZQ775DglPjuz8p3S"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
         "name": "morning",
         "url": "https://open.spotify.com/album/4pJTYvnrV8guZmGlioUtgd"
       },
@@ -1367,22 +1179,6 @@
       "duration_ms": 162580,
       "name": "morning",
       "url": "https://open.spotify.com/track/0MWeEap0R36Qauy3G7vd7y"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
-        "name": "Supercharged",
-        "url": "https://open.spotify.com/album/7KEEFdCQYw9RZFfd0fxn6R"
-      },
-      "artists": [
-        {
-          "name": "Nate Good",
-          "url": "https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl"
-        }
-      ],
-      "duration_ms": 135540,
-      "name": "Supercharged",
-      "url": "https://open.spotify.com/track/0vq6MAzofcgiI8RMeAfdao"
     },
     {
       "added_at": "2022-07-05 14:49:37",
@@ -1415,26 +1211,6 @@
       "duration_ms": 158367,
       "name": "Flavors",
       "url": "https://open.spotify.com/track/1YshKoWMcR68W8ZYBtNal7"
-    },
-    {
-      "added_at": "2022-07-05 14:49:37",
-      "album": {
-        "name": "bootleg jordans",
-        "url": "https://open.spotify.com/album/7fa2Uqk9DzkZySS50VBxmS"
-      },
-      "artists": [
-        {
-          "name": "Saint Lane",
-          "url": "https://open.spotify.com/artist/4M0vvoQACWxLNrLVrx3MWX"
-        },
-        {
-          "name": "Lily Papas",
-          "url": "https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "bootleg jordans",
-      "url": "https://open.spotify.com/track/6zTAR03lZyin6kUopphnX6"
     },
     {
       "added_at": "2022-07-05 14:49:37",

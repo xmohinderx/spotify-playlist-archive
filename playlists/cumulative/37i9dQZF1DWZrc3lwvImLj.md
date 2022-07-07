@@ -2,9 +2,9 @@
 
 ### [Melancholy Instrumentals](https://open.spotify.com/playlist/37i9dQZF1DWZrc3lwvImLj)
 
-> Beautifully sad instrumentals.
+> Beautifully sad piano music
 
-201 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/0bGmdUzxwndch2yv1y7eLw)
+209 songs - 9 hr 28 min - [published](https://open.spotify.com/playlist/0bGmdUzxwndch2yv1y7eLw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,11 +22,13 @@
 | [Answer With Light](https://open.spotify.com/track/51bCmUlVILY4qBFkm2t0Km) | [Warble](https://open.spotify.com/artist/6c97PAHbxfwJuLjV7gpwUb) | [Answer With Light](https://open.spotify.com/album/73ONbpwmVtKFKWFPkPq2dE) | 2:21 | 2022-05-04 |  |
 | [Au lecteur curieux](https://open.spotify.com/track/4pKj48uAM0lhxKdg74zJBw) | [Meara Meloquin](https://open.spotify.com/artist/2r3IU74miMmV4b9Qm9kp37) | [Au lecteur curieux](https://open.spotify.com/album/3I68HnQ0IGVaJ6qvXhWeSu) | 2:23 | 2022-06-06 |  |
 | [Autumn Leaf](https://open.spotify.com/track/79q3lBKpjZLlfgfybAIRaO) | [Esperanza](https://open.spotify.com/artist/24T5i2cT1QSUxliOi5KeJa) | [Autumn Leaf](https://open.spotify.com/album/7bvRmwCxFVH5AntdH5j6H7) | 2:27 | 2021-12-14 |  |
+| [Avec un sourire](https://open.spotify.com/track/4PyMaTZJUWcSOhxK4cQQao) | [Tyra Lindqvist](https://open.spotify.com/artist/0i0eyDR8HC7sY4eUNKIAtI) | [Avec un sourire](https://open.spotify.com/album/1OH6bBfilcRBUOZDupZFQm) | 2:30 | 2022-07-06 |  |
 | [Bells](https://open.spotify.com/track/698afgx5ev4sqwZBTqHpoW) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Bells](https://open.spotify.com/album/22blhd4TSXEcQCJ13UmToB) | 3:21 | 2022-03-30 |  |
 | [Beneath the Crystal Veil](https://open.spotify.com/track/6BCLePB0VnQFPJzywUI5NA) | [Luke Faulkner](https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3) | [Beneath the Crystal Veil](https://open.spotify.com/album/5I8aud98hM9NxJbHTAp3yB) | 2:33 | 2021-12-14 |  |
 | [Beyond Imagination](https://open.spotify.com/track/5z40PeXEmVwWes8PQI7oZq) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Beyond Imagination](https://open.spotify.com/album/0se06XbSZrjmsMLnuSFnrt) | 4:31 | 2021-12-14 | 2022-06-07 |
 | [Blazing](https://open.spotify.com/track/4a4xMLfNR4gNYBOdqXJafV) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Blazing](https://open.spotify.com/album/3xZZ9V4l1VjBDvpDUxnynu) | 2:07 | 2022-05-04 |  |
-| [Bloem / Λουλούδι / Virág](https://open.spotify.com/track/750Jl3yiwbpx0HgF2hjGH5) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Bloem / Λουλούδι / Virág](https://open.spotify.com/album/3vp1uDgjLgsN1J6jQbTWkW) | 1:46 | 2022-05-20 |  |
+| [Bloem / Λουλούδι / Virág](https://open.spotify.com/track/2OCtvYBrpZkM7J5w02DEVm) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [PACE](https://open.spotify.com/album/1ZWV1cpZ8FXdo15VFPAU1s) | 1:46 | 2022-07-06 |  |
+| [Bloem / Λουλούδι / Virág](https://open.spotify.com/track/750Jl3yiwbpx0HgF2hjGH5) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Bloem / Λουλούδι / Virág](https://open.spotify.com/album/3vp1uDgjLgsN1J6jQbTWkW) | 1:46 | 2022-05-20 | 2022-07-07 |
 | [Bolero Chiquito](https://open.spotify.com/track/0WIGmqsYeC6i5NLVAvFZzx) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Bolero Chiquito](https://open.spotify.com/album/4l4qChOYQE11ACMWwekFJs) | 2:20 | 2021-12-14 |  |
 | [Breath \(Grá II\)](https://open.spotify.com/track/5v6ulqOooaywlNs3RgpVRd) | [Jonny Colgan](https://open.spotify.com/artist/6LfM1oqPkRMSylbEKjmOvA) | [Breath \(Grá II\)](https://open.spotify.com/album/3G77IE3Sk30ZmOj8redRiH) | 2:53 | 2022-05-20 |  |
 | [Brian's Song](https://open.spotify.com/track/5NT2QCIgDzhHeYG1dI1gIA) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Brian's Song](https://open.spotify.com/album/4SgqN5nEzsvsJrpcQbPGGx) | 3:39 | 2022-06-06 |  |
@@ -97,6 +99,7 @@
 | [Melts Into Air](https://open.spotify.com/track/0N2rkPnpGdWSP9xotxYl2F) | [Jill Corazina](https://open.spotify.com/artist/0j5SBGx8jGWDdJM4Cmth83) | [Melts Into Air](https://open.spotify.com/album/1uRrdwGzAyPUmiS3RRaFDi) | 2:46 | 2021-12-14 |  |
 | [Minuit](https://open.spotify.com/track/7GzMpKkrr5zwsmtTIQk2EC) | [Clémentine Poirier](https://open.spotify.com/artist/0v781ChRVv7d2YR1zDUQOQ) | [Minuit](https://open.spotify.com/album/5gdYsIHo29QR7eX30KZosN) | 2:16 | 2021-12-14 | 2022-03-04 |
 | [Minute by Minute](https://open.spotify.com/track/4KY3pCGa542Qf4giD3su9I) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Longing For Yesterday](https://open.spotify.com/album/05JFGW1xgW0McGf9EiQl0v) | 3:29 | 2021-12-14 | 2022-03-18 |
+| [Mmmm Mmmm Mmmm Mmmm](https://open.spotify.com/track/18mZP4bRr7X32gy0YoD4oe) | [Korina Bedoya](https://open.spotify.com/artist/4NGAeafqorkBEwYlBZHnpt) | [Mmmm Mmmm Mmmm Mmmm](https://open.spotify.com/album/6UIEYLhTfMIHcKjlisFbZw) | 3:12 | 2022-07-06 |  |
 | [Mol allena](https://open.spotify.com/track/7J1KmTQJFGhkyKHNZBbmc0) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Apelblom](https://open.spotify.com/album/6uJkw3rmz4nuIcoMxVRBY1) | 2:26 | 2021-12-14 |  |
 | [Moments and Secrets](https://open.spotify.com/track/76bSdzagqHxEZwoDmC6g7I) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Moments and Secrets](https://open.spotify.com/album/7yw5lAeCAgWo2CnDEXjy9w) | 2:13 | 2022-03-03 |  |
 | [Montmarte](https://open.spotify.com/track/0I4fEtucjFVQcwNvMCgqoL) | [Amandine Moulin](https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j) | [Waltzes from Paris](https://open.spotify.com/album/5QNjTrkjRD32KWQZywf17x) | 2:03 | 2021-12-14 |  |
@@ -115,6 +118,7 @@
 | [Nocturne](https://open.spotify.com/track/14sKAbkXofaqoVmEP52Ire) | [Muriël Bostdorp](https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq) | [Nocturne](https://open.spotify.com/album/2cW49A7JOvYRYQj5gNCBKi) | 2:32 | 2021-12-14 |  |
 | [Nocturne I](https://open.spotify.com/track/6f9DfXmjSQ7u2D9AzwA6l2) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Somnio Novo](https://open.spotify.com/album/0BlgO0ukeZGE8VM3VaTaGk) | 2:53 | 2022-06-06 |  |
 | [Norwegian Beauty](https://open.spotify.com/track/0zohGfpuv878yJ36B0NCBm) | [Evelyn Stein](https://open.spotify.com/artist/4rygF1Cuu6aehFfLcK8ZjN) | [Norweigan beauty](https://open.spotify.com/album/16EPYvzRC6WuSR8oY5QN2e) | 2:07 | 2021-12-14 | 2022-05-05 |
+| [Nostalgia](https://open.spotify.com/track/1zj98YuXYeQP02d4kqoSEE) | [Portia Price](https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7) | [Nostalgia](https://open.spotify.com/album/2tPUS5tvDkuKL66bLk5CYN) | 2:23 | 2022-07-06 |  |
 | [Ocean Heart](https://open.spotify.com/track/4TXzJ0L5gMumCwrlEgyRZL) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Ocean Heart](https://open.spotify.com/album/7ogcQaTj5cbsbDdmo6REqL) | 2:52 | 2021-12-14 |  |
 | [October stroll](https://open.spotify.com/track/0djBbURQR8Zu4SD4K48lzJ) | [Jutila](https://open.spotify.com/artist/58Rq5hbLIcvGAlFeMAQFWn) | [October stroll](https://open.spotify.com/album/7dnDyRoLFwV6HSSiZ3L1AP) | 2:09 | 2021-12-14 |  |
 | [Old Summer Romance](https://open.spotify.com/track/0PsVxQjMyJSNYo9R3zZnNR) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Old Summer Romance](https://open.spotify.com/album/1mG03oOljZ3ynqzhuWVKah) | 2:36 | 2021-12-14 | 2022-04-15 |
@@ -122,6 +126,7 @@
 | [Once I saw the northern lights](https://open.spotify.com/track/5F0xQGBmdcmcm3bpvHNIt9) | [Bruno Engel](https://open.spotify.com/artist/0Sb2aOfzhbp5opi1w083TP) | [Once I saw the northern lights](https://open.spotify.com/album/4PxukojNA6yqMB3rB17Sda) | 3:34 | 2021-12-14 |  |
 | [Ornaments](https://open.spotify.com/track/4LgzLdKvlp9PxacJFVdwNI) | [John Crome](https://open.spotify.com/artist/5HCXtWcqdFJhJQYgevKCA5) | [Ornaments](https://open.spotify.com/album/34yhdzESZ5n9tyWLgJVo6j) | 3:34 | 2022-02-16 |  |
 | [Overcast](https://open.spotify.com/track/5ACLrTERL7b7JQd2ZTfMjz) | [Sylvio](https://open.spotify.com/artist/3xi1oLL4AB1BfQBN9eZA8O) | [Overcast](https://open.spotify.com/album/6UcJJ2rPauLCJLaEzqFvCR) | 2:33 | 2021-12-14 |  |
+| [Paragon](https://open.spotify.com/track/7r2oQgswotJG7uxMvvomc6) | [Anton Lebedev](https://open.spotify.com/artist/1QCX4RcJeAWUjciKRD7bug) | [Paragon](https://open.spotify.com/album/2UizTfQJHP9iS8GTCrlgHe) | 2:40 | 2022-07-06 |  |
 | [Parisienne](https://open.spotify.com/track/1epvt6Gm4OjEu1SjuSf1sr) | [Erik Sigurd](https://open.spotify.com/artist/71OSrLPABmMazSjgFaeDoQ) | [Parisienne](https://open.spotify.com/album/6SESsSqhmLi80C8l3NoTOY) | 6:25 | 2022-04-22 | 2022-06-07 |
 | [Persistence](https://open.spotify.com/track/0axAOvyLwfINcKe3tw7U2f) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Persistence](https://open.spotify.com/album/7hihzMSbAIsrcRtSGjebl8) | 2:19 | 2021-12-14 |  |
 | [Porcelain Hands](https://open.spotify.com/track/7KX4G8l2FvaTom3K21Xw5E) | [Pablo Jean Baptiste](https://open.spotify.com/artist/5gtl7HjPLF8fDkzHiAyfnV) | [Porcelain Hands](https://open.spotify.com/album/2r70QxdddM0IU6gy6zJHOC) | 2:14 | 2022-05-04 |  |
@@ -160,6 +165,7 @@
 | [Survivor](https://open.spotify.com/track/1u1aXnuFIFr5rm3Z1h7NWK) | [Mikael Sapin](https://open.spotify.com/artist/1WhZafhbkuYM3mJTIMEbAo) | [Wild Life](https://open.spotify.com/album/2cpFdGNeFHT99X4oHmDQe0) | 2:15 | 2021-12-14 |  |
 | [Sværmer](https://open.spotify.com/track/3rcULbCqrlDWDyKPL9OHkh) | [Mark Jubel](https://open.spotify.com/artist/6QhnbblQwendc1TdZMj6qd) | [Sværmer](https://open.spotify.com/album/5VRsA8TwmgXTgTgDBuHnP6) | 2:18 | 2021-12-14 |  |
 | [Swamp](https://open.spotify.com/track/1s8esXu1jTNJ49RwotQLSc) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Swamp](https://open.spotify.com/album/6JWJL7LDHzUVknPtZIxv71) | 2:01 | 2021-12-14 | 2022-04-15 |
+| [Take 5 \- Solips \- Klaus Sahm Rework](https://open.spotify.com/track/6pcjJAP1f8RHRvfW5kLmEm) | [Kevin Imbrechts](https://open.spotify.com/artist/4IEPEjmBa0rkMZQhv5gYNu), [Klaus Sahm](https://open.spotify.com/artist/4QXX28RTVLhnQmHTfQNnHK), [Illuminine](https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5) | [Take 5 \- Solips \(Klaus Sahm Rework\)](https://open.spotify.com/album/5q6uytSRIIvNQdk9crGS96) | 2:55 | 2022-07-06 |  |
 | [Tenderly](https://open.spotify.com/track/7JMcuZdww7k1eQIRPbpRoG) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Tenderly](https://open.spotify.com/album/27y3rhrFPJOAIVMDJKE47t) | 2:25 | 2022-06-06 |  |
 | [Téli](https://open.spotify.com/track/22epH1mP5fU4Bg5fGVbnuc) | [Pataki Gisella](https://open.spotify.com/artist/7ylwShecuuRLzZP81XRqzC) | [Téli](https://open.spotify.com/album/6smhLShr1DjFPuxW7EtB4d) | 2:30 | 2021-12-14 |  |
 | [The Other Place](https://open.spotify.com/track/6RXyFqmnqRyVR7hAHSDCnD) | [Lucile Garett](https://open.spotify.com/artist/6VcRNGf7V9o2TJSW6leoCZ) | [The Other Place](https://open.spotify.com/album/1HKXs6ACrqDbWb7RjE6rE8) | 2:46 | 2022-05-04 |  |
@@ -171,6 +177,7 @@
 | [Through My Eyes](https://open.spotify.com/track/1qPf5T5XSCkBKDOCtLI6X9) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Through My Eyes](https://open.spotify.com/album/0B02Uvb9zJ0kw1fENyd0CN) | 2:53 | 2021-12-14 |  |
 | [Tient qu'à un fil](https://open.spotify.com/track/1DXbUPygEVCQXOOOO9bIhO) | [Gaspar Parentau](https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ) | [Tient qu'à un fil](https://open.spotify.com/album/23AhF6hK4a1bAONNOz37qr) | 2:47 | 2021-12-14 |  |
 | [Time Of Loneliness](https://open.spotify.com/track/4QMnY8yCam7Gjuo3DdRMA7) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Time Of Loneliness](https://open.spotify.com/album/7piDZM7pVnkIa5B8o3jL4g) | 2:50 | 2021-12-14 |  |
+| [Time of the Season](https://open.spotify.com/track/1pQkECzXZXYef46QwzKU8z) | [Hannah Sugar](https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB) | [Stand By Me](https://open.spotify.com/album/0VFco39u9Q1HnS5adiknEP) | 3:22 | 2022-07-06 |  |
 | [Tout Doucement](https://open.spotify.com/track/3q3LCzKr47um4mipbkIplC) | [Marianna Zsuska](https://open.spotify.com/artist/3xUOva5IZhjyBHYJrgM8wJ) | [Tout Doucement](https://open.spotify.com/album/7rUlpRcwrhFkCWUotNDn6a) | 2:22 | 2022-03-30 |  |
 | [Translucency](https://open.spotify.com/track/6SsnBkri7GaVza5JovLs4W) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Translucency](https://open.spotify.com/album/1ZGgON2VfHVFro56xDJINn) | 2:35 | 2021-12-14 | 2022-01-20 |
 | [Trinité](https://open.spotify.com/track/4mj4DJxJCBZjbUdA5qMvxE) | [Elena Miguel](https://open.spotify.com/artist/5gK5I1IIdNR5gZNGhYuJLD) | [Trinité](https://open.spotify.com/album/5dfnZVMMnSHXI2Ihws6wgE) | 2:46 | 2022-04-14 |  |
@@ -184,6 +191,7 @@
 | [Unsaid](https://open.spotify.com/track/6DOjomPB7sCFUSx96x6bSc) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Unsaid](https://open.spotify.com/album/0jjcbJZ3TJUtcumgWefAhD) | 2:16 | 2021-12-14 |  |
 | [Vale of Tears](https://open.spotify.com/track/64u8GamjVXCuKtjbPl0oIG) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Vale Of Tears](https://open.spotify.com/album/1t1VwebAkrX58MEDCi6ZLf) | 2:22 | 2021-12-14 |  |
 | [Valse Lente](https://open.spotify.com/track/7mu0xMw6sH2EZXl7rknVYN) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Valse Lente](https://open.spotify.com/album/0hT69ykQ29rpDL5ai2NxZ8) | 2:35 | 2021-12-14 | 2022-03-18 |
+| [Varazdin](https://open.spotify.com/track/4MbjcL460D3UHueKiREBPZ) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Varazdin](https://open.spotify.com/album/4vYwpkP10mwLThSSeYpsoV) | 1:46 | 2022-07-06 |  |
 | [Vaults](https://open.spotify.com/track/53EoWPKv7FO9uTu6a7UPR2) | [Reginald Easter](https://open.spotify.com/artist/6iUeBAwdvdJ6jB3iVNPYAL) | [Vaults](https://open.spotify.com/album/1u7QPnbzTFfJngypn0BBVB) | 3:05 | 2021-12-14 | 2022-06-07 |
 | [Včeraj](https://open.spotify.com/track/6o71Foef4Jf2LMFnHuvQo4) | [Zemfira Mironova](https://open.spotify.com/artist/7HdmWISDuEN6CX1zXXaK8H) | [Včeraj](https://open.spotify.com/album/5gR375qQkGA51v1fB4euT9) | 2:05 | 2021-12-14 |  |
 | [Vento leggero](https://open.spotify.com/track/6ksVNrLijeVZjx4zmWKzQQ) | [Aglisia](https://open.spotify.com/artist/1wkWfJO2iWD4TL4tCag8Sh) | [Vento leggero](https://open.spotify.com/album/36CdDJmXetrsM84GKsQGwB) | 3:00 | 2022-02-16 |  |

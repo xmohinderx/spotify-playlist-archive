@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 
 ### [Written By Jessie Reyez](https://open.spotify.com/playlist/37i9dQZF1EFDdN3ZRC5EmY)
 
-> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/20GjXoOdMhodfDMvSdh6mm">Jessie Reyez</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
+> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/20GjXoOdMhodfDMvSdh6mm">Jessie Reyez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,660 likes - 61 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,673 likes - 61 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 | 60 | [Coffin](https://open.spotify.com/track/2CWZ7nG31mNqWyvM2RcdLr) | [Yaielle Golden](https://open.spotify.com/artist/79nlaaiSCwAMxb3PlsjVvV) | [Bedroom Studio Covers](https://open.spotify.com/album/4N6b3CWuyGjsG2DaMfw4RP) | 2:59 |
 | 61 | [Rain](https://open.spotify.com/track/23ytV3kbb4LHaAyPOzP0v7) | [J\-Benji3](https://open.spotify.com/artist/6ywzkeo5qo0eG2MjT6UeVP) | [Blue Benji](https://open.spotify.com/album/5MpZCA7sjUbJBxnSEyCdD3) | 2:49 |
 
-Snapshot ID: `Mjc2MTUwMDIsMDAwMDAwMDA3ZDU1Yzk0ODBjNmNlYWZmZDczZmE0MDkwNjc1ZjE1MA==`
+Snapshot ID: `Mjc2MTkyNjIsMDAwMDAwMDBmYTA0ZDAyMjlhNWZlYzc2ZDczMWVmNjU4N2E2MDUxYg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4DdBWbLDpG.md) - [plain]
 
 > Revive las mejores batallas, y descubre música original de los participantes\. Foto: Aczino
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,656 likes - 77 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,702 likes - 77 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

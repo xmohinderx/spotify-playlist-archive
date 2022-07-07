@@ -4,7 +4,7 @@
 
 > This week's essential new pop tracks\. Cover: Lauv
 
-1,044 songs - 2 day 3 hr 54 min - [published](https://open.spotify.com/playlist/0i2CIZhMTlGvQFu8b20aHi)
+1,046 songs - 2 day 4 hr 0 min - [published](https://open.spotify.com/playlist/0i2CIZhMTlGvQFu8b20aHi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -627,6 +627,7 @@
 | [Might as Well](https://open.spotify.com/track/7sgFIERLa5s8K4DnXlKStc) | [Fran Vasilić](https://open.spotify.com/artist/08xR1XU2SWgC2K0yx6lEYm) | [Might as Well](https://open.spotify.com/album/1K3ZdHD2DDxLyq3SZj41vO) | 3:27 | 2022-04-29 | 2022-05-07 |
 | [Million Dollar Smoothies \(From “American Song Contest”\)](https://open.spotify.com/track/2Z5ULnygqgHABynfoFxODk) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8), [American Song Contest](https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh) | [Million Dollar Smoothies \(From “American Song Contest”\)](https://open.spotify.com/album/23iE5xCgge6qsC0Ixi4tkp) | 2:43 | 2022-03-28 | 2022-04-23 |
 | [minnesota is a place that exists](https://open.spotify.com/track/6uiaiopJ4h8jqmDZySnMmE) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [minnesota is a place that exists](https://open.spotify.com/album/5NnsC01LT1Z79Sw0QQf46Q) | 2:18 | 2022-06-24 |  |
+| [Miss America](https://open.spotify.com/track/5MuTVJ2ShxMA96buyVCEpP) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Miss America](https://open.spotify.com/album/61Es52Ztb8rT01ai0PEo8W) | 2:52 | 2022-07-06 |  |
 | [Missing Somebody](https://open.spotify.com/track/7sdBSpr1CRXtPE6yjKLDk2) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [This Is How The World Made Me](https://open.spotify.com/album/3ttrsJgrYIHhpbk1p85TGs) | 3:19 | 2022-06-24 |  |
 | [Missing You](https://open.spotify.com/track/4yfSSCOrcAcgzcGAtc9LCW) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [Missing You](https://open.spotify.com/album/7AFjkjnNLLn6LIDJJls1lK) | 3:03 | 2022-03-18 | 2022-04-09 |
 | [mona lisa](https://open.spotify.com/track/5O7TgofxqSQh31TiRcKXzo) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [mona lisa](https://open.spotify.com/album/3wVcBPUDJrmInLD0G1W1r2) | 3:10 | 2022-02-11 | 2022-02-26 |
@@ -660,6 +661,7 @@
 | [Never Worth Saving](https://open.spotify.com/track/7IRxQWz3bdQ0QDqdWjBavc) | [Connor Kauffman](https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe) | [Never Worth Saving](https://open.spotify.com/album/5kviOAwk1F8QWHoQzZTf6Z) | 2:14 | 2022-05-20 | 2022-06-04 |
 | [neverletyougo](https://open.spotify.com/track/6ps0RcnIrPoiMd9vfcA9KB) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [neverletyougo](https://open.spotify.com/album/2oNeFeW7cRXefZVwQA4eFf) | 2:58 | 2022-03-25 | 2022-04-09 |
 | [new ground](https://open.spotify.com/track/4wq4nZrqN8i4dRz3Wlj1OX) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [new ground](https://open.spotify.com/album/3Fph5JhkVM91EjzCLAxUsV) | 2:52 | 2022-02-11 | 2022-02-26 |
+| [New Money \(feat\. 21 Savage\)](https://open.spotify.com/track/5ycvEFxPeQqqkdOUgWhrJl) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [New Money \(feat\. 21 Savage\)](https://open.spotify.com/album/1aRWXKL4e4pFg6Z3ObHKKw) | 2:50 | 2022-07-06 |  |
 | [New Moon](https://open.spotify.com/track/2WQUdOtqdAZm3qf5esD6x6) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Motordrome](https://open.spotify.com/album/5PYtz6P7n4V5ryGlRIambH) | 3:14 | 2022-02-04 | 2022-02-12 |
 | [New Normal](https://open.spotify.com/track/62sWTVzpcujJtb4E5B3K07) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [New Normal](https://open.spotify.com/album/2Gpdm0FDnFWxvI9oB6emOB) | 3:07 | 2022-04-29 | 2022-05-14 |
 | [new year](https://open.spotify.com/track/0uqc00wyYU4ikXuVFDaqux) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [new year](https://open.spotify.com/album/4qPaD8Ab0uIFXL24s1ypgc) | 2:15 | 2022-02-18 | 2022-03-05 |

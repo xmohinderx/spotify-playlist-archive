@@ -1357,7 +1357,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 218853,
       "name": "CHAMPIONS LEAGUE",
       "url": "https://open.spotify.com/track/4iozpxYS1GPH7wVLIY91o8"
@@ -5627,7 +5627,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 175840,
       "name": "Samurai",
       "url": "https://open.spotify.com/track/7dTgSeAVu9EWJusdCsRyTo"
@@ -7767,10 +7767,32 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 87954,
       "name": "\u0639\u0637\u0634\u0627\u0646 \u0648\u0628\u0633\u062a\u0646\u0649 \u062a\u063a\u064a\u064a\u0631",
       "url": "https://open.spotify.com/track/1rbwwRQqDe3hBAoFUqwpFu"
+    },
+    {
+      "album": {
+        "name": "\u0639\u0637\u0634\u0627\u0646 \u0648\u0628\u0633\u062a\u0646\u0649 \u062a\u063a\u064a\u064a\u0631 | \u0628\u064a\u0628\u0633\u0649",
+        "url": "https://open.spotify.com/album/1A8W5ePeAAyhp5AyugIyVz"
+      },
+      "artists": [
+        {
+          "name": "Dar El-Salam",
+          "url": "https://open.spotify.com/artist/3if09cF9yYwphLILD8bnh8"
+        },
+        {
+          "name": "Wegz",
+          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88006,
+      "name": "\u0639\u0637\u0634\u0627\u0646 \u0648\u0628\u0633\u062a\u0646\u0649 \u062a\u063a\u064a\u064a\u0631 | \u0628\u064a\u0628\u0633\u0649",
+      "url": "https://open.spotify.com/track/0KnywDnEmEjN6Ul2bOng5v"
     },
     {
       "album": {

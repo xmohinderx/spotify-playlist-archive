@@ -265,7 +265,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 229426,
       "name": "breathe again",
       "url": "https://open.spotify.com/track/55psabEKwg0E4jEHBfezTr"
@@ -373,7 +373,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 148773,
       "name": "Collar of Fur",
       "url": "https://open.spotify.com/track/4W5gTdnD0ONxtRaKunsGlI"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 211798,
       "name": "Fields of Gold",
       "url": "https://open.spotify.com/track/72EsFNeQy959UicF9Q6H4i"
@@ -943,7 +943,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 213127,
       "name": "Love Is Everywhere (Beware)",
       "url": "https://open.spotify.com/track/7sxr5Pvovng4ECTiCqeSWm"
@@ -1363,7 +1363,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 211940,
       "name": "Shine",
       "url": "https://open.spotify.com/track/00r8JL55INeWH0qQfiEhsl"
@@ -1529,7 +1529,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 210206,
       "name": "The Only Thing I Fear",
       "url": "https://open.spotify.com/track/1BZuKdpvP8Q8P8ea0hKwzK"
@@ -1756,6 +1756,24 @@
     },
     {
       "album": {
+        "name": "Young In All The Wrong Ways",
+        "url": "https://open.spotify.com/album/5O41sFLk5rKN2S4eT8GgQR"
+      },
+      "artists": [
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238560,
+      "name": "Without A Word",
+      "url": "https://open.spotify.com/track/6NTIKfyWCP3Nm2zWB16o88"
+    },
+    {
+      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/6hrJk6bOTnQ6dbD7WKcVoq"
       },
@@ -1825,7 +1843,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 213252,
       "name": "You're Smiling (But I Don't Believe You)",
       "url": "https://open.spotify.com/track/7ajY0y3joEbeL1gZW4ujmR"

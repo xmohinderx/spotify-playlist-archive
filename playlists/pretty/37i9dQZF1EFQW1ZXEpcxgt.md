@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 
 ### [Written By Alex Eskeerdo Izquierdo](https://open.spotify.com/playlist/37i9dQZF1EFQW1ZXEpcxgt)
 
-> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6S5xTXudxisQUeWkyU4H74">Alex Eskeerdo Izquierdo</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
+> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6S5xTXudxisQUeWkyU4H74">Alex Eskeerdo Izquierdo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213 likes - 108 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 215 likes - 108 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 6 | [Clique](https://open.spotify.com/track/65rRB2mspD309xE6YimZTl) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Kanye West Presents Good Music Cruel Summer](https://open.spotify.com/album/0bcOGgwJpwBjfFBTApoqSn) | 4:53 |
 | 7 | [Beware](https://open.spotify.com/track/6bxUnsSGZCmoHHU5auwtps) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Hall Of Fame \(Deluxe\)](https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54) | 3:55 |
 | 8 | [I Would Like](https://open.spotify.com/track/4Q4jmPHwu0wrJvqrld0FQ6) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:46 |
-| 9 | [Dangerously](https://open.spotify.com/track/4BLpd6QINAs4UXd1lVtdhj) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Nine Track Mind](https://open.spotify.com/album/6E0p38TjcK490itZ1Ns7bD) | 3:19 |
-| 10 | [Black And White](https://open.spotify.com/track/7rpNuuoMbid56XkDsx2FjE) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:13 |
+| 9 | [Black And White](https://open.spotify.com/track/7rpNuuoMbid56XkDsx2FjE) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:13 |
+| 10 | [Dangerously](https://open.spotify.com/track/4BLpd6QINAs4UXd1lVtdhj) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Nine Track Mind](https://open.spotify.com/album/6E0p38TjcK490itZ1Ns7bD) | 3:19 |
 | 11 | [Scared of the Dark \(feat\. XXXTENTACION\)](https://open.spotify.com/track/3vWzyGTu6Ovo1GdrcJqH6e) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 3:53 |
 | 12 | [Fun \(feat\. Chris Brown\)](https://open.spotify.com/track/6Zo3wgDE076K2AuiGZF3CS) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:22 |
 | 13 | [No Judgement](https://open.spotify.com/track/2sGF7DBXvL2GjkbG606m1G) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 2:56 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 26 | [Love You Different \(feat\. BEAM\)](https://open.spotify.com/track/27UcQ6dAvQrgH9C880rCM3) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:06 |
 | 27 | [Pull\-Up](https://open.spotify.com/track/1SYqEFrLotYNBTJbNXKEa5) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Everything Is 4](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) | 3:06 |
 | 28 | [Here It Is \(feat\. Chris Brown\)](https://open.spotify.com/track/0lQ08hbjK1umHjCYvUrmCp) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [My House](https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH) | 3:12 |
-| 29 | [Burn \(feat\. Big Sean\)](https://open.spotify.com/track/1tv6IvWoOilhj0XbBoVVMo) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Dreams and Nightmares \(Deluxe Edition\)](https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7) | 3:36 |
-| 30 | [imagine](https://open.spotify.com/track/4PMZyXssvisK5IxLnnl9r7) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 2:44 |
+| 29 | [imagine](https://open.spotify.com/track/4PMZyXssvisK5IxLnnl9r7) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 2:44 |
+| 30 | [Burn \(feat\. Big Sean\)](https://open.spotify.com/track/1tv6IvWoOilhj0XbBoVVMo) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Dreams and Nightmares \(Deluxe Edition\)](https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7) | 3:36 |
 | 31 | [Dancer](https://open.spotify.com/track/62McdrVJELUVywVeDk59r0) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Dancer](https://open.spotify.com/album/4AgennmKnwGzpY8usQKM4J) | 3:02 |
 | 32 | [No Love Allowed](https://open.spotify.com/track/2fv47VVvysXZPpT7xsdg7b) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 4:09 |
 | 33 | [Dirty Work](https://open.spotify.com/track/49brugMHYob4zfpKhHDhR9) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z) | [Dirty Work](https://open.spotify.com/album/6jSAT6lkW1CoUBA6ifHSIM) | 3:07 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 107 | [Nothing In Common](https://open.spotify.com/track/4FPt0UqiphP1eiDCX9pxGO) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 2:48 |
 | 108 | [Outro](https://open.spotify.com/track/0cM6hV1yTWwaG7KaELa4wg) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 0:57 |
 
-Snapshot ID: `Mjc2MTQ5NDYsMDAwMDAwMDBkN2E5MTVhMGVkZTc5YWI3YjI5N2UyMjkwYWNhM2ZkNg==`
+Snapshot ID: `Mjc2MTkyNjYsMDAwMDAwMDBhM2JhN2JhYTQ2MzQ2ZmE1ZDNiODA3NWRmM2IxNDcxNA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Photo : Adé
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,476 likes - 35 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,716 likes - 35 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

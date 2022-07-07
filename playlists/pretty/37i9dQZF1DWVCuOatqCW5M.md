@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Emiway Bantai & Celina Sharma
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,344 likes - 53 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,363 likes - 53 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 2 | [Shringaar \(feat\. Milind Soman\)](https://open.spotify.com/track/5Fx04tkVKaLwM6TVAqArx5) | [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s), [Milind Soman](https://open.spotify.com/artist/7Kg31wd1ybxvp7RVlHArxJ) | [Shringaar \(feat\. Milind Soman\)](https://open.spotify.com/album/3515DB1ynK7YXiZqABue6p) | 3:30 |
 | 3 | [Main Jee Raha](https://open.spotify.com/track/1GGejID0BKNqOZu70pqMaB) | [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Ana Rehman](https://open.spotify.com/artist/3GeB4PeRfwhRaI1Xtu7FIH) | [Main Jee Raha](https://open.spotify.com/album/6V3YDKWUsw02tBuCLgdJUX) | 4:53 |
 | 4 | [Kiss You](https://open.spotify.com/track/0valk4SlQMT3OXUthOO3OA) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Kiss You](https://open.spotify.com/album/1z1ja5KHQbap790rQob2sd) | 2:01 |
-| 5 | [Tere Bin](https://open.spotify.com/track/0azRt3q5MRjNwitKAubROZ) | [Meghdeep Bose](https://open.spotify.com/artist/1e3Yx1PLC5EP8lz0OFOHda), [Aditya Narayan](https://open.spotify.com/artist/4Z0t0LHjOjFRiv0mjBw206), [Nasśra](https://open.spotify.com/artist/0XBDjromUQaoI8MQovVQta) | [Tere Bin](https://open.spotify.com/album/3DvmutNw6f1fE1ZQbtaLAg) | 4:59 |
+| 5 | [Tere Bin](https://open.spotify.com/track/0azRt3q5MRjNwitKAubROZ) | [Meghdeep Bose](https://open.spotify.com/artist/1e3Yx1PLC5EP8lz0OFOHda), [Aditya Narayan](https://open.spotify.com/artist/4Z0t0LHjOjFRiv0mjBw206), [Nasśra](https://open.spotify.com/artist/6ADFBdS7oh7ZHkXzQy7cWS) | [Tere Bin](https://open.spotify.com/album/3DvmutNw6f1fE1ZQbtaLAg) | 4:59 |
 | 6 | [Asar](https://open.spotify.com/track/4Cl13lnGGhHmNpO4tTi3az) | [Anand Bhaskar](https://open.spotify.com/artist/4aykldlxvwj6cRQfhbfNMO), [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE) | [Asar](https://open.spotify.com/album/4NAqO60ilbYjOULTBgf9Mc) | 3:10 |
 | 7 | [Behosh](https://open.spotify.com/track/5b4liCyMaLHS2qMUYsZTXp) | [Shivai Vyas](https://open.spotify.com/artist/37q4Yd87zFhJmXx5Xn7v35) | [Behosh](https://open.spotify.com/album/5vm07tPLS9GneWP2TPO5YU) | 3:40 |
 | 8 | [Khabar](https://open.spotify.com/track/56dhkwFTzbq3AS54dguEEH) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Khabar](https://open.spotify.com/album/4nPqoBnVFAWcjDcWGpijBq) | 3:38 |

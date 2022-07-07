@@ -1,12 +1,12 @@
 {
   "description": "The biggest Armada tracks of the moment! | Updated weekly on Friday | Including Dance, Dance-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! Cover: ARTY",
-  "num_followers": 285932,
+  "num_followers": 285888,
   "original_name": "Armada Today",
   "owner": {
     "name": "Armada Music ",
     "url": "https://open.spotify.com/user/armadamusicofficial"
   },
-  "snapshot_id": "NTE5NTYsY2FkNzIxNWRiZDNlYWRhMDE1NzBmZmFjY2E0N2ExNDQyYWMzMGJlZQ==",
+  "snapshot_id": "NTE5NzcsOGRkNjI1MDBmOGRhODNkNzA5MWQwMTAxZDBiMjhhZDc0ZDRjOWRiYw==",
   "tracks": [
     {
       "added_at": "2022-06-30 22:06:27",
@@ -75,66 +75,6 @@
     {
       "added_at": "2022-06-30 22:06:27",
       "album": {
-        "name": "Feel Again",
-        "url": "https://open.spotify.com/album/0TTJ1Qk8jND6NF4TlSAJNA"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 178750,
-      "name": "Feel Again",
-      "url": "https://open.spotify.com/track/4I6JwM7pS6Uo705qqyM2su"
-    },
-    {
-      "added_at": "2022-06-30 22:06:27",
-      "album": {
-        "name": "Typical Love",
-        "url": "https://open.spotify.com/album/1q3fMhvN1FYfWeVOEb6ny0"
-      },
-      "artists": [
-        {
-          "name": "NIIKO X SWAE",
-          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
-        }
-      ],
-      "duration_ms": 175609,
-      "name": "Typical Love",
-      "url": "https://open.spotify.com/track/5aFCPiMAXl7htQm6Yv5l4I"
-    },
-    {
-      "added_at": "2022-06-30 22:06:27",
-      "album": {
-        "name": "Come Around Again",
-        "url": "https://open.spotify.com/album/312M1zzN7C2Vqd0VeORTMC"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Billen Ted",
-          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
-        },
-        {
-          "name": "JC Stewart",
-          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
-        }
-      ],
-      "duration_ms": 169108,
-      "name": "Come Around Again",
-      "url": "https://open.spotify.com/track/55Y4oE6oE6XBT2e71vK2yA"
-    },
-    {
-      "added_at": "2022-06-30 22:06:27",
-      "album": {
         "name": "Antibodies",
         "url": "https://open.spotify.com/album/4hAoKf5xkhdK0myoWXKQgS"
       },
@@ -155,6 +95,62 @@
       "duration_ms": 312226,
       "name": "Antibodies - LP Giobbi Remix",
       "url": "https://open.spotify.com/track/6a8LfgC5aAaHNhsQcGQY1r"
+    },
+    {
+      "added_at": "2022-06-30 22:06:27",
+      "album": {
+        "name": "Typical Love",
+        "url": "https://open.spotify.com/album/1q3fMhvN1FYfWeVOEb6ny0"
+      },
+      "artists": [
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        }
+      ],
+      "duration_ms": 175609,
+      "name": "Typical Love",
+      "url": "https://open.spotify.com/track/5aFCPiMAXl7htQm6Yv5l4I"
+    },
+    {
+      "added_at": "2022-06-30 22:06:27",
+      "album": {
+        "name": "Those Eyes",
+        "url": "https://open.spotify.com/album/58RPXRvxMszS1tfbeBjht0"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        },
+        {
+          "name": "Griff Clawson",
+          "url": "https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7"
+        }
+      ],
+      "duration_ms": 162786,
+      "name": "Those Eyes",
+      "url": "https://open.spotify.com/track/4KqA0GwEKbc96WyfIZn3SV"
+    },
+    {
+      "added_at": "2022-06-30 22:06:27",
+      "album": {
+        "name": "Feel Again",
+        "url": "https://open.spotify.com/album/0TTJ1Qk8jND6NF4TlSAJNA"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 178750,
+      "name": "Feel Again",
+      "url": "https://open.spotify.com/track/4I6JwM7pS6Uo705qqyM2su"
     },
     {
       "added_at": "2022-06-30 22:06:27",
@@ -199,26 +195,6 @@
     {
       "added_at": "2022-06-30 22:06:27",
       "album": {
-        "name": "Those Eyes",
-        "url": "https://open.spotify.com/album/58RPXRvxMszS1tfbeBjht0"
-      },
-      "artists": [
-        {
-          "name": "ARTY",
-          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
-        },
-        {
-          "name": "Griff Clawson",
-          "url": "https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7"
-        }
-      ],
-      "duration_ms": 162786,
-      "name": "Those Eyes",
-      "url": "https://open.spotify.com/track/4KqA0GwEKbc96WyfIZn3SV"
-    },
-    {
-      "added_at": "2022-06-30 22:06:27",
-      "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/4WLkmuc0lGCBJLtj1yxJI0"
       },
@@ -239,8 +215,8 @@
     {
       "added_at": "2022-06-30 22:06:27",
       "album": {
-        "name": "Human Touch",
-        "url": "https://open.spotify.com/album/2SY4apBowOVRSG3WtrALWm"
+        "name": "Come Around Again",
+        "url": "https://open.spotify.com/album/312M1zzN7C2Vqd0VeORTMC"
       },
       "artists": [
         {
@@ -248,13 +224,17 @@
           "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
         },
         {
-          "name": "Sam Gray",
-          "url": "https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18"
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+        },
+        {
+          "name": "JC Stewart",
+          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
         }
       ],
-      "duration_ms": 145748,
-      "name": "Human Touch",
-      "url": "https://open.spotify.com/track/4IOK3PjSHrQm6dgYZdHZkE"
+      "duration_ms": 169108,
+      "name": "Come Around Again",
+      "url": "https://open.spotify.com/track/55Y4oE6oE6XBT2e71vK2yA"
     },
     {
       "added_at": "2022-06-30 22:06:27",
@@ -295,26 +275,6 @@
       "duration_ms": 166004,
       "name": "Love Runs Deep",
       "url": "https://open.spotify.com/track/33oQaDZex8PFThfgpCpOdH"
-    },
-    {
-      "added_at": "2022-06-30 22:06:27",
-      "album": {
-        "name": "Feel Again Part 1",
-        "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Lucky Lou",
-          "url": "https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2"
-        }
-      ],
-      "duration_ms": 141071,
-      "name": "Pas de Bourree",
-      "url": "https://open.spotify.com/track/2jlBmHo2o5fKpPFob62EsH"
     },
     {
       "added_at": "2022-06-30 22:06:27",
@@ -375,22 +335,6 @@
     {
       "added_at": "2022-06-30 22:06:27",
       "album": {
-        "name": "Feel Again Part 1",
-        "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 325884,
-      "name": "Oumuamua",
-      "url": "https://open.spotify.com/track/5Jzmp4VSCccJVsLTyjADYQ"
-    },
-    {
-      "added_at": "2022-06-30 22:06:27",
-      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/2bzr5gCAFG5fTt2ypK06pf"
       },
@@ -403,6 +347,26 @@
       "duration_ms": 142380,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/4Q56uPgwSvIUsKpozEGVGl"
+    },
+    {
+      "added_at": "2022-06-30 22:06:27",
+      "album": {
+        "name": "Human Touch",
+        "url": "https://open.spotify.com/album/2SY4apBowOVRSG3WtrALWm"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Sam Gray",
+          "url": "https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18"
+        }
+      ],
+      "duration_ms": 145748,
+      "name": "Human Touch",
+      "url": "https://open.spotify.com/track/4IOK3PjSHrQm6dgYZdHZkE"
     },
     {
       "added_at": "2022-06-30 22:06:27",
@@ -463,26 +427,6 @@
       "duration_ms": 177560,
       "name": "Take Me To The Sunshine (feat. BullySongs)",
       "url": "https://open.spotify.com/track/4peF3yGZAZfeOFDahi6Ig5"
-    },
-    {
-      "added_at": "2022-06-30 22:06:27",
-      "album": {
-        "name": "Feel Again Part 1",
-        "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Jesse Fink",
-          "url": "https://open.spotify.com/artist/7tMI1lr95LzkzRPElGDAlJ"
-        }
-      ],
-      "duration_ms": 167441,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/5WXcsy3zukT71jjQwA9sfE"
     },
     {
       "added_at": "2022-06-30 22:06:27",
@@ -551,22 +495,6 @@
     {
       "added_at": "2022-06-30 22:06:27",
       "album": {
-        "name": "Feel Again Part 1",
-        "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 210476,
-      "name": "Let You Down",
-      "url": "https://open.spotify.com/track/6SrwmS9G3gI3cGNUqv6QzV"
-    },
-    {
-      "added_at": "2022-06-30 22:06:27",
-      "album": {
         "name": "You Got Me Calling",
         "url": "https://open.spotify.com/album/63IP36b0gsQzP3S8hAUvY4"
       },
@@ -611,6 +539,22 @@
     {
       "added_at": "2022-06-30 22:06:27",
       "album": {
+        "name": "Feel Again Part 1",
+        "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "duration_ms": 210476,
+      "name": "Let You Down",
+      "url": "https://open.spotify.com/track/6SrwmS9G3gI3cGNUqv6QzV"
+    },
+    {
+      "added_at": "2022-06-30 22:06:27",
+      "album": {
         "name": "So Good To Me",
         "url": "https://open.spotify.com/album/3qFfusBUAlH5hfZfm5Kq38"
       },
@@ -623,6 +567,34 @@
       "duration_ms": 216257,
       "name": "So Good To Me",
       "url": "https://open.spotify.com/track/3Qt4d1IoO5yhQFAUFsTXSK"
+    },
+    {
+      "added_at": "2022-07-06 10:48:48",
+      "album": {
+        "name": "The Drop",
+        "url": "https://open.spotify.com/album/3R69AWht6e2vZq7Cg3XGPH"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Nicole Scherzinger",
+          "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
+        },
+        {
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        }
+      ],
+      "duration_ms": 121987,
+      "name": "The Drop",
+      "url": "https://open.spotify.com/track/013PVeWEFQio3XHFH9rIC6"
     },
     {
       "added_at": "2022-06-30 22:06:27",
@@ -725,10 +697,10 @@
       "url": "https://open.spotify.com/track/4s4odJtCP8YlXssj1VYrp6"
     },
     {
-      "added_at": "2022-06-30 22:06:27",
+      "added_at": "2022-07-04 12:29:23",
       "album": {
-        "name": "Silence (AVIRA Remix)",
-        "url": "https://open.spotify.com/album/6cJysGEm7en9Lg6Cxvb8Sa"
+        "name": "Armada Electronic Elements - Ibiza 2022",
+        "url": "https://open.spotify.com/album/6U9PO4D4bzErgGG2B8eCL1"
       },
       "artists": [
         {
@@ -746,7 +718,7 @@
       ],
       "duration_ms": 280645,
       "name": "Silence - AVIRA Remix",
-      "url": "https://open.spotify.com/track/4Yv1HD4KahtoTBnYyO2EeX"
+      "url": "https://open.spotify.com/track/3HLCOthcpNZteCJ3j2IOfF"
     },
     {
       "added_at": "2022-06-30 22:06:27",
@@ -791,6 +763,26 @@
       "duration_ms": 213543,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/0yPa8O3zDNrrja8ifc6DXi"
+    },
+    {
+      "added_at": "2022-06-30 22:06:27",
+      "album": {
+        "name": "Feel Again Part 1",
+        "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Lucky Lou",
+          "url": "https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2"
+        }
+      ],
+      "duration_ms": 141071,
+      "name": "Pas de Bourree",
+      "url": "https://open.spotify.com/track/2jlBmHo2o5fKpPFob62EsH"
     },
     {
       "added_at": "2022-06-30 22:06:27",
@@ -1127,6 +1119,22 @@
       "duration_ms": 189047,
       "name": "Funkatron",
       "url": "https://open.spotify.com/track/5JohYODxZkqfPFC3UWSrMj"
+    },
+    {
+      "added_at": "2022-06-30 22:06:27",
+      "album": {
+        "name": "Feel Again Part 1",
+        "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "duration_ms": 325884,
+      "name": "Oumuamua",
+      "url": "https://open.spotify.com/track/5Jzmp4VSCccJVsLTyjADYQ"
     },
     {
       "added_at": "2022-06-30 22:06:27",
@@ -1679,6 +1687,26 @@
       "duration_ms": 244513,
       "name": "Paradise - \u00c2me Remix",
       "url": "https://open.spotify.com/track/6m1p8pNdASucv2yWqYeMOs"
+    },
+    {
+      "added_at": "2022-06-30 22:06:27",
+      "album": {
+        "name": "Feel Again Part 1",
+        "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Jesse Fink",
+          "url": "https://open.spotify.com/artist/7tMI1lr95LzkzRPElGDAlJ"
+        }
+      ],
+      "duration_ms": 167441,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/5WXcsy3zukT71jjQwA9sfE"
     },
     {
       "added_at": "2022-06-30 22:06:27",

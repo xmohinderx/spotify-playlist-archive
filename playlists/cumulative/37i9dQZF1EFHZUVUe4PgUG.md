@@ -2,7 +2,7 @@
 
 ### [Written By JonTheProducer](https://open.spotify.com/playlist/37i9dQZF1EFHZUVUe4PgUG)
 
-> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3HEOMXFtAAadlud1rklphC">JonTheProducer</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
+> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3HEOMXFtAAadlud1rklphC">JonTheProducer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
 73 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/3nLRwtPCNrDqChh2HtzKxE)
 

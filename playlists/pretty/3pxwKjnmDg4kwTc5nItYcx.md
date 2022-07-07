@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 
 > Let your mind float away with these down\-tempo low key tracks\. Cover: Bri Clark
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 5,530 likes - 258 songs - 13 hr 57 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 5,533 likes - 258 songs - 13 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

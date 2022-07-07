@@ -446,6 +446,28 @@
     },
     {
       "album": {
+        "name": "Good Love (feat. Usher)",
+        "url": "https://open.spotify.com/album/0OhW9KGuhEaWt5kt9s5qKf"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232787,
+      "name": "Good Love (feat. Usher)",
+      "url": "https://open.spotify.com/track/52JFc40b28XJDROR3c4uAr"
+    },
+    {
+      "album": {
         "name": "Up 2 M\u00eb",
         "url": "https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs"
       },

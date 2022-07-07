@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fQhfyVRsHW.md) - [plain]
 
 > Lie back to chilled ambient with the sounds of nature.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,635 likes - 105 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,689 likes - 105 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

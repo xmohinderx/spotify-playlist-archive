@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI?si=EO3h\-hzvQuGjOxGn5Pyltw">Mlindo The Vocalist</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,128 likes - 70 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,189 likes - 70 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

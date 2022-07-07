@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 240224,
       "name": "Cassette Beat",
       "url": "https://open.spotify.com/track/7j2SWDroCSG18H46NWvpW4"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 143966,
       "name": "Dancing in the Moonlight (It's Caught Me in Its Spotlight) - Live from Spotify Studios, New York City, NY",
       "url": "https://open.spotify.com/track/2fpfApt0LZiOWybYfRVXTB"
@@ -947,7 +947,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 278991,
       "name": "Juliet",
       "url": "https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF"
@@ -1431,7 +1431,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 246506,
       "name": "Racing Stripes",
       "url": "https://open.spotify.com/track/3mOlGrCrh3rJYbjmhfMTiQ"
@@ -1503,7 +1503,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 87272,
       "name": "Same Way",
       "url": "https://open.spotify.com/track/6RgLvP8QbbgX81koDnNAcI"
@@ -1615,7 +1615,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 230146,
       "name": "So Good At Being in Trouble",
       "url": "https://open.spotify.com/track/5VarZFY00sO54HErJ3TPCI"
@@ -1875,7 +1875,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 226582,
       "name": "Unfortunate Love (feat. Harrison Storm)",
       "url": "https://open.spotify.com/track/4flzJidayFMx0GwsnBII53"
@@ -1983,7 +1983,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 257133,
       "name": "What's On Your Mind",
       "url": "https://open.spotify.com/track/5Krfy7LnfQSR3sJyIfXZay"
@@ -2019,7 +2019,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 233773,
       "name": "Where The Rocks Are",
       "url": "https://open.spotify.com/track/0XzVFPCmBmQuNjshP49T1R"
@@ -2070,6 +2070,24 @@
     },
     {
       "album": {
+        "name": "Made of Stone",
+        "url": "https://open.spotify.com/album/6CnA0WkHIEKZJwX7wjaDgX"
+      },
+      "artists": [
+        {
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220026,
+      "name": "Winter",
+      "url": "https://open.spotify.com/track/0121cQrltj3XwySaYpNxfD"
+    },
+    {
+      "album": {
         "name": "Snowfall",
         "url": "https://open.spotify.com/album/1NWnNK50HLjM19nqkISue4"
       },
@@ -2085,7 +2103,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 267266,
       "name": "Winter Song",
       "url": "https://open.spotify.com/track/3dSKTUE46UbfYaEjDWhiCg"
@@ -2139,7 +2157,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 205657,
       "name": "You Needed Love, I Needed You",
       "url": "https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0623\u0642\u0648\u0649 \u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0631\u0627\u0628 \u0627\u0644\u0645\u0635\u0631\u064a! \u063a\u0644\u0627\u0641: \u0645\u0631\u0648\u0627\u0646 \u0645\u0648\u0633\u0649",
+  "description": "\u0623\u0642\u0648\u0649 \u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0631\u0627\u0628 \u0627\u0644\u0645\u0635\u0631\u064a! \u063a\u0644\u0627\u0641: \u0627\u0628\u064a\u0648\u0633\u0641",
   "name": "\u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646",
   "published_playlist_ids": [
     "6yEdqmm0KWZqYgvxTRioiU"
@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 181392,
       "name": "Adriana Lima",
       "url": "https://open.spotify.com/track/615yIBsABjpxbMLVXqYQgt"
@@ -490,6 +490,24 @@
     },
     {
       "album": {
+        "name": "Ras Shitan",
+        "url": "https://open.spotify.com/album/5xs1hPBH7vjLHf8UY7TxDY"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218725,
+      "name": "Maged El Masry",
+      "url": "https://open.spotify.com/track/29AFznq7V8b5C5w5fAaQTx"
+    },
+    {
+      "album": {
         "name": "El Hob Ebn Wes5a",
         "url": "https://open.spotify.com/album/1ihjowlX2eqrd1SakZzqqu"
       },
@@ -523,7 +541,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 163120,
       "name": "Malyan",
       "url": "https://open.spotify.com/track/0Z8F28QfH9fApYKHdqlaqH"
@@ -677,6 +695,24 @@
       "duration_ms": 240000,
       "name": "Msh Ha7el",
       "url": "https://open.spotify.com/track/225Xi790QAtTbuMfjW6fyR"
+    },
+    {
+      "album": {
+        "name": "SAN STEFANO",
+        "url": "https://open.spotify.com/album/0u5zDTS7Rj4xt7gocRJ8KO"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144793,
+      "name": "NAPALM",
+      "url": "https://open.spotify.com/track/4EG5yjXnXCDcjBxOfKXNez"
     },
     {
       "album": {
@@ -973,7 +1009,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 312857,
       "name": "TOTLOB AMA TOTLOB",
       "url": "https://open.spotify.com/track/48Tb5rkF6XzPuHFtVem5lS"
@@ -1104,6 +1140,24 @@
     },
     {
       "album": {
+        "name": "\u0639\u0642\u062f \u0627\u062d\u062a\u0631\u0627\u0641",
+        "url": "https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "\u0628\u0637\u0644 \u0639\u0627\u0644\u0645",
+      "url": "https://open.spotify.com/track/2E2ZmCeuHrHOECN01QhN0A"
+    },
+    {
+      "album": {
         "name": "\u0628\u0639\u0648\u062f\u0629 \u064a\u0627 \u0628\u0644\u0627\u062f\u0649 ( \u0645\u0646 \u0641\u064a\u0644\u0645 \" \u0643\u0628\u0627\u062a\u0646 \u0627\u0644\u0632\u0639\u062a\u0631\u064a \")",
         "url": "https://open.spotify.com/album/6bAqBBFbmNi3ixH2B1F7b8"
       },
@@ -1151,7 +1205,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 166227,
       "name": "\u062a\u0627\u0646\u064a",
       "url": "https://open.spotify.com/track/5MYvIwOpXVzWToptTJbZR4"

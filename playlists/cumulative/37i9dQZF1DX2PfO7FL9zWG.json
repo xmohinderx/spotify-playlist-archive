@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 282213,
       "name": "Annie",
       "url": "https://open.spotify.com/track/5Tn7NEoIBMT19aLV32f796"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 221842,
       "name": "B61",
       "url": "https://open.spotify.com/track/24jpjPR3hZ1VAQOWr9sd0t"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 220891,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/1uCXs6iF4VnDOCxyYbPw2P"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 244186,
       "name": "Can I Believe You",
       "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
@@ -527,7 +527,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 190129,
       "name": "Cold",
       "url": "https://open.spotify.com/track/6drMkkht8gSXMUkyNIuUcN"
@@ -545,7 +545,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 224520,
       "name": "Cold World",
       "url": "https://open.spotify.com/track/2WxZsGInatsAG5Z2NCgCHN"
@@ -855,7 +855,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 207346,
       "name": "For You",
       "url": "https://open.spotify.com/track/4HVP9LguwC1S5VzkMhzhqW"
@@ -1143,7 +1143,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 285386,
       "name": "Head On",
       "url": "https://open.spotify.com/track/2ku71f9zbPxkykS1cySXyL"
@@ -1233,7 +1233,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 192733,
       "name": "Hold Me Like A Fire",
       "url": "https://open.spotify.com/track/6Ps0fZMwBZQZdEtRUqAcSe"
@@ -1533,7 +1533,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 182805,
       "name": "It'll Work Itself Out",
       "url": "https://open.spotify.com/track/2u6SXgdzFNTQLc4LcSi3Vd"
@@ -1623,7 +1623,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 186156,
       "name": "Keep a Light On",
       "url": "https://open.spotify.com/track/5SMBlrCVXZeV4A4Yr7FPDP"
@@ -1735,7 +1735,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 222333,
       "name": "Let It Be",
       "url": "https://open.spotify.com/track/1xflb6sCgJjMqbdtakgONq"
@@ -1890,6 +1890,24 @@
     },
     {
       "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/1T0IZd7xKscW1ujnmJrwFV"
+      },
+      "artists": [
+        {
+          "name": "Genevi\u00e8ve Racette",
+          "url": "https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213953,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/2E3cOBSZuyqQ3yZBH78pXV"
+    },
+    {
+      "album": {
         "name": "Middle Of Nowhere",
         "url": "https://open.spotify.com/album/2G7vGmlxwNxKWbjyK3otZb"
       },
@@ -1901,7 +1919,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 402654,
       "name": "Middle Of Nowhere",
       "url": "https://open.spotify.com/track/7gUpHwmxXyJ4JVra6UHpKA"
@@ -2205,7 +2223,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 253868,
       "name": "pictures (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/6bt1R3HFqITysmy3W88M3c"
@@ -2227,7 +2245,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 223344,
       "name": "Reach Out",
       "url": "https://open.spotify.com/track/5hVKXeJg1R9qGbrGW5eHNl"
@@ -2263,7 +2281,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 202808,
       "name": "Rising Sun",
       "url": "https://open.spotify.com/track/4CQgSmxceVrNEpMT75aAkY"
@@ -2591,7 +2609,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 279000,
       "name": "Stubborn Love",
       "url": "https://open.spotify.com/track/4MoiNtMeGRzQ3KjdETmogz"
@@ -2739,7 +2757,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 218011,
       "name": "The Lullaby (My Oldest Love)",
       "url": "https://open.spotify.com/track/7kLmS1sVZJTzvHYdurvNyy"
@@ -2811,7 +2829,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 196566,
       "name": "The Way It Would Be",
       "url": "https://open.spotify.com/track/21zGHj2ZNYkfJqslTDK1zd"
@@ -2851,7 +2869,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 209813,
       "name": "The Worst Of You",
       "url": "https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U"
@@ -2923,7 +2941,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 240586,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/47KDDZgFiX1w6RFOuLXsSn"
@@ -3017,7 +3035,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 259180,
       "name": "Watch You Shine",
       "url": "https://open.spotify.com/track/2BL1FgdIdPjNDc2C5UlPzP"
@@ -3053,7 +3071,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 189424,
       "name": "What I Came Here For",
       "url": "https://open.spotify.com/track/73WvySq47nvcUvS6IONQ5z"
@@ -3071,7 +3089,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 193965,
       "name": "When I Say You Are Killing Me",
       "url": "https://open.spotify.com/track/2uTasYs7GtJ7lZCx5ttnwe"
@@ -3183,7 +3201,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 158117,
       "name": "Wolves Don't Live by the Rules (feat Joe Grass)",
       "url": "https://open.spotify.com/track/61z2qry5ZoEHwuSZ17V63k"

@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128454,
+  "num_followers": 128462,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzUwMCxkMjQ1NDRlZTBjOTcwODE1Mzg0OTI4MThhN2Q3N2E3OTg4MWE1N2I2",
+  "snapshot_id": "MzUwNCxlMmJhM2M5M2M2NjUzNWZhYjM1MjgxMDA2ZmNiMjAwYTkxYzk5MzZh",
   "tracks": [
+    {
+      "added_at": "2022-07-05 14:52:49",
+      "album": {
+        "name": "Daisies",
+        "url": "https://open.spotify.com/album/37kDHVg9VwJgW5fbKkwzls"
+      },
+      "artists": [
+        {
+          "name": "yetep",
+          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
+        },
+        {
+          "name": "Olmos",
+          "url": "https://open.spotify.com/artist/60cVbnHVILVFAO7tl3crPV"
+        }
+      ],
+      "duration_ms": 219870,
+      "name": "Daisies",
+      "url": "https://open.spotify.com/track/67k9neQm9nlnMnejMpRXSN"
+    },
+    {
+      "added_at": "2022-07-04 17:16:28",
+      "album": {
+        "name": "Grimoire",
+        "url": "https://open.spotify.com/album/5PnPerL51mnpKq9HOo7vS0"
+      },
+      "artists": [
+        {
+          "name": "Caster",
+          "url": "https://open.spotify.com/artist/4z7OnrBHTHdfpjNKl7NGox"
+        }
+      ],
+      "duration_ms": 231017,
+      "name": "Grimoire",
+      "url": "https://open.spotify.com/track/7fa5wc6BKbAvEHrV2muKGx"
+    },
     {
       "added_at": "2022-07-01 05:06:36",
       "album": {
@@ -1079,42 +1115,6 @@
       "duration_ms": 229000,
       "name": "Silk Road",
       "url": "https://open.spotify.com/track/545nphHUuiPLuiPIGT3Inn"
-    },
-    {
-      "added_at": "2022-04-26 16:06:49",
-      "album": {
-        "name": "Remedy",
-        "url": "https://open.spotify.com/album/2RfxoMmdN94qeqmbfSGsaz"
-      },
-      "artists": [
-        {
-          "name": "Maliboux",
-          "url": "https://open.spotify.com/artist/157IWDnr2hC9SFL5OJF8j7"
-        }
-      ],
-      "duration_ms": 155625,
-      "name": "Remedy",
-      "url": "https://open.spotify.com/track/1A7abr0cUK9WZRO4AjT0UQ"
-    },
-    {
-      "added_at": "2022-04-25 14:46:37",
-      "album": {
-        "name": "Space Boy",
-        "url": "https://open.spotify.com/album/4Qa2yBO6R4r5g9mhSu4TVN"
-      },
-      "artists": [
-        {
-          "name": "Rameses B",
-          "url": "https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO"
-        },
-        {
-          "name": "Laura Brehm",
-          "url": "https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Looking for the Light",
-      "url": "https://open.spotify.com/track/4uatHMHq0tGTCUglWAUZOx"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

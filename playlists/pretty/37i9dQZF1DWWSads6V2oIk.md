@@ -2,31 +2,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSads6V2oIk.md) - [plain]
 
 ### [Sleep in the Rainforest](https://open.spotify.com/playlist/37i9dQZF1DWWSads6V2oIk)
 
-> Let the sounds of the rainforest calm you.
+> Tropical nature sounds for bedtime.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,291 likes - 66 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,301 likes - 66 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rain In The Rainforest](https://open.spotify.com/track/7709cD193A9ASewVfJ849M) | [Peter Graham](https://open.spotify.com/artist/0z6S9Vu5DzgaYlPfa4t9lv) | [Nature Living](https://open.spotify.com/album/7v6f0Qzdn4U2kLXX43D0fW) | 2:23 |
-| 2 | [Pluie Nocturne](https://open.spotify.com/track/5PcMDn9rYtXjebDSYpkHeh) | [Birdieu](https://open.spotify.com/artist/1nXNa1ENIdB7fGKeqSAyjr) | [Pluie Nocturne](https://open.spotify.com/album/1lduLJdv1PQOwxnVdwVbJC) | 2:08 |
-| 3 | [Rain with Distant Birds](https://open.spotify.com/track/4Mx3Zc9sXgZVGpdGwnkqWT) | [Summer Showers](https://open.spotify.com/artist/5WaXjTT6fmL7qkGEIHPNAX) | [Rain is Beautiful](https://open.spotify.com/album/1y3pf7GrykIehQ2oIUy0Aq) | 1:32 |
-| 4 | [Magical Rain](https://open.spotify.com/track/6ad7H8vGnSLx7O2se8EDEl) | [Wood Elf](https://open.spotify.com/artist/4kkcDrzb0b9TU5NEyKhqfK) | [Enchanted Forest Rain](https://open.spotify.com/album/4GGP7zbdr9Seo4tTj3IWDQ) | 2:29 |
-| 5 | [Monsun Thunderstorm](https://open.spotify.com/track/63qps2UseM4TTaciTdeK59) | [Thunderstorm Sound Bank](https://open.spotify.com/artist/6xQDyC92UEZQCySBNTdkyx) | [Thunder & Rain Relaxation](https://open.spotify.com/album/5Y6fIPchbFHAtc3BaBC9am) | 3:11 |
-| 6 | [April Rain](https://open.spotify.com/track/7KB9VZg79SNkaBesrOOJMT) | [Beatrice Birds](https://open.spotify.com/artist/3hNMJQgn87uH4qAjdbkjUL) | [April Rain](https://open.spotify.com/album/5Dgk3JIGt2uzlxaxmNMBdY) | 2:06 |
-| 7 | [Florida Rain Storm](https://open.spotify.com/track/41ngfIhPv1DkwHozVjH5Yc) | [Mother Nature Sound FX](https://open.spotify.com/artist/4lrOh2SR7H3guHky2lAYOk) | [Thunderstorms](https://open.spotify.com/album/47aFId4LZv1BI9UZEpzbpx) | 2:55 |
-| 8 | [Jungle & Rainforest Sounds](https://open.spotify.com/track/31FarzWQVD2ZAYTq9qhVlp) | [Rainforest Sounds](https://open.spotify.com/artist/4WQqqTMX3CdIZQgfzctQmy) | [Sounds of Rainforests](https://open.spotify.com/album/2eJJu5XufieNWuvONkP6rg) | 1:03 |
-| 9 | [Creek Rain With Brids And Thunder \- Seamless](https://open.spotify.com/track/5cbC6ObMsFLXW9co3vlUMk) | [Nature Trudge](https://open.spotify.com/artist/7x0t1q7YipVEBMRHIltHGK) | [When It Pours It Rains](https://open.spotify.com/album/20BqShqyjjbjVXMIRVGwyB) | 2:06 |
-| 10 | [Sounds of Congo](https://open.spotify.com/track/55IAZKoY31CjxxGCgCMmo8) | [Wildazon](https://open.spotify.com/artist/3MDGo9gMugtZGrB0oyQ69G) | [Sounds of Congo](https://open.spotify.com/album/0Ul7eYB4hKLvKzODqRe8k0) | 3:28 |
-| 11 | [Rainbirds In The Night](https://open.spotify.com/track/6NBsSdXls9zmJ4VeBAY30x) | [Wide Noises](https://open.spotify.com/artist/7eKxML2Je6bPrWXH80s8as) | [Rainbirds In The Night](https://open.spotify.com/album/0XqWwqOOTEHZA8xUWDY7tp) | 2:23 |
-| 12 | [Birds song forest rain](https://open.spotify.com/track/0NNomsoZvS34EyTZ8ph1xz) | [Sound Of The Woods](https://open.spotify.com/artist/3fRd8qPNSLClRFaxvFFLPL) | [Birds song forest rain](https://open.spotify.com/album/0rIdJAjdSjd8cePzPzrUOk) | 3:20 |
-| 13 | [L'oiseau Aime La Pluie](https://open.spotify.com/track/4Pvq68Y0K9k6dYkyP4HBcv) | [Collectes De Pluie](https://open.spotify.com/artist/1O6c8WWoJVPu47KaW85RD6) | [L'oiseau Aime La Pluie](https://open.spotify.com/album/2Vf6f8vExOISe6piYtOeNd) | 2:16 |
-| 14 | [Healing Rain](https://open.spotify.com/track/3MeV1PeFOCjgwXOnADJtE5) | [R\. Guru](https://open.spotify.com/artist/1J6XFH9yaFImOmbaAWAx48) | [Healing Rain](https://open.spotify.com/album/3q6h5lns25xvocifvgsXv8) | 3:28 |
-| 15 | [Evening Drizzle](https://open.spotify.com/track/6cT7dRMHzgURq44rPtFHUB) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Sounds of the Jungle](https://open.spotify.com/album/6KR8ekx3goy7PjLYhINlgQ) | 3:00 |
-| 16 | [Tropical Forest \- Rain and Birds](https://open.spotify.com/track/5MtCZdGKspLCFrnh0Gp2oB) | [Epic Nature Sounds](https://open.spotify.com/artist/3KCBnJE0Ww7kT7Z7CXlS7h) | [Rain Forest Birds](https://open.spotify.com/album/5JXFMCZS0auQFVWOrM1RIu) | 2:39 |
-| 17 | [Nature Night\-time](https://open.spotify.com/track/0qjA7VzJyneuisZRNATzWp) | [mahogany](https://open.spotify.com/artist/4DUwhWpSYNXUbSbuvtrjeA) | [Nature Hideout](https://open.spotify.com/album/5Ad8mClENx1NQfnFkA4Mv6) | 3:12 |
-| 18 | [Storm in the Distance](https://open.spotify.com/track/0SlsmPh8FGXhfdR3fCb14g) | [Nature Field Recordings](https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD) | [Lost in the Rainforest](https://open.spotify.com/album/2xpTsNAzRb56XKfQbvx9Z8) | 3:30 |
-| 19 | [Rain Forest Meditation](https://open.spotify.com/track/1uBwQtsJkaMNcr8uNLsKMF) | [Pinetree Way](https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67) | [Rainmaker](https://open.spotify.com/album/6HnBgCITUNtLIO5flO1ex5) | 3:50 |
+| 2 | [April Rain](https://open.spotify.com/track/7KB9VZg79SNkaBesrOOJMT) | [Beatrice Birds](https://open.spotify.com/artist/3hNMJQgn87uH4qAjdbkjUL) | [April Rain](https://open.spotify.com/album/5Dgk3JIGt2uzlxaxmNMBdY) | 2:06 |
+| 3 | [Pluie Nocturne](https://open.spotify.com/track/5PcMDn9rYtXjebDSYpkHeh) | [Birdieu](https://open.spotify.com/artist/1nXNa1ENIdB7fGKeqSAyjr) | [Pluie Nocturne](https://open.spotify.com/album/1lduLJdv1PQOwxnVdwVbJC) | 2:08 |
+| 4 | [Birds song forest rain](https://open.spotify.com/track/0NNomsoZvS34EyTZ8ph1xz) | [Sound Of The Woods](https://open.spotify.com/artist/3fRd8qPNSLClRFaxvFFLPL) | [Birds song forest rain](https://open.spotify.com/album/0rIdJAjdSjd8cePzPzrUOk) | 3:20 |
+| 5 | [Rain with Distant Birds](https://open.spotify.com/track/4Mx3Zc9sXgZVGpdGwnkqWT) | [Summer Showers](https://open.spotify.com/artist/5WaXjTT6fmL7qkGEIHPNAX) | [Rain is Beautiful](https://open.spotify.com/album/1y3pf7GrykIehQ2oIUy0Aq) | 1:32 |
+| 6 | [Magical Rain](https://open.spotify.com/track/6ad7H8vGnSLx7O2se8EDEl) | [Wood Elf](https://open.spotify.com/artist/4kkcDrzb0b9TU5NEyKhqfK) | [Enchanted Forest Rain](https://open.spotify.com/album/4GGP7zbdr9Seo4tTj3IWDQ) | 2:29 |
+| 7 | [Evening Drizzle](https://open.spotify.com/track/6cT7dRMHzgURq44rPtFHUB) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Sounds of the Jungle](https://open.spotify.com/album/6KR8ekx3goy7PjLYhINlgQ) | 3:00 |
+| 8 | [L'oiseau Aime La Pluie](https://open.spotify.com/track/4Pvq68Y0K9k6dYkyP4HBcv) | [Collectes De Pluie](https://open.spotify.com/artist/1O6c8WWoJVPu47KaW85RD6) | [L'oiseau Aime La Pluie](https://open.spotify.com/album/2Vf6f8vExOISe6piYtOeNd) | 2:16 |
+| 9 | [Healing Rain](https://open.spotify.com/track/3MeV1PeFOCjgwXOnADJtE5) | [R\. Guru](https://open.spotify.com/artist/1J6XFH9yaFImOmbaAWAx48) | [Healing Rain](https://open.spotify.com/album/3q6h5lns25xvocifvgsXv8) | 3:28 |
+| 10 | [Monsun Thunderstorm](https://open.spotify.com/track/63qps2UseM4TTaciTdeK59) | [Thunderstorm Sound Bank](https://open.spotify.com/artist/6xQDyC92UEZQCySBNTdkyx) | [Thunder & Rain Relaxation](https://open.spotify.com/album/5Y6fIPchbFHAtc3BaBC9am) | 3:11 |
+| 11 | [Florida Rain Storm](https://open.spotify.com/track/41ngfIhPv1DkwHozVjH5Yc) | [Mother Nature Sound FX](https://open.spotify.com/artist/4lrOh2SR7H3guHky2lAYOk) | [Thunderstorms](https://open.spotify.com/album/47aFId4LZv1BI9UZEpzbpx) | 2:55 |
+| 12 | [Jungle & Rainforest Sounds](https://open.spotify.com/track/31FarzWQVD2ZAYTq9qhVlp) | [Rainforest Sounds](https://open.spotify.com/artist/4WQqqTMX3CdIZQgfzctQmy) | [Sounds of Rainforests](https://open.spotify.com/album/2eJJu5XufieNWuvONkP6rg) | 1:03 |
+| 13 | [Creek Rain With Brids And Thunder \- Seamless](https://open.spotify.com/track/5cbC6ObMsFLXW9co3vlUMk) | [Nature Trudge](https://open.spotify.com/artist/7x0t1q7YipVEBMRHIltHGK) | [When It Pours It Rains](https://open.spotify.com/album/20BqShqyjjbjVXMIRVGwyB) | 2:06 |
+| 14 | [Rain Forest Meditation](https://open.spotify.com/track/1uBwQtsJkaMNcr8uNLsKMF) | [Pinetree Way](https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67) | [Rainmaker](https://open.spotify.com/album/6HnBgCITUNtLIO5flO1ex5) | 3:50 |
+| 15 | [Sounds of Congo](https://open.spotify.com/track/55IAZKoY31CjxxGCgCMmo8) | [Wildazon](https://open.spotify.com/artist/3MDGo9gMugtZGrB0oyQ69G) | [Sounds of Congo](https://open.spotify.com/album/0Ul7eYB4hKLvKzODqRe8k0) | 3:28 |
+| 16 | [Rainbirds In The Night](https://open.spotify.com/track/6NBsSdXls9zmJ4VeBAY30x) | [Wide Noises](https://open.spotify.com/artist/7eKxML2Je6bPrWXH80s8as) | [Rainbirds In The Night](https://open.spotify.com/album/0XqWwqOOTEHZA8xUWDY7tp) | 2:23 |
+| 17 | [Tropical Forest \- Rain and Birds](https://open.spotify.com/track/5MtCZdGKspLCFrnh0Gp2oB) | [Epic Nature Sounds](https://open.spotify.com/artist/3KCBnJE0Ww7kT7Z7CXlS7h) | [Rain Forest Birds](https://open.spotify.com/album/5JXFMCZS0auQFVWOrM1RIu) | 2:39 |
+| 18 | [Nature Night\-time](https://open.spotify.com/track/0qjA7VzJyneuisZRNATzWp) | [mahogany](https://open.spotify.com/artist/4DUwhWpSYNXUbSbuvtrjeA) | [Nature Hideout](https://open.spotify.com/album/5Ad8mClENx1NQfnFkA4Mv6) | 3:12 |
+| 19 | [Storm in the Distance](https://open.spotify.com/track/0SlsmPh8FGXhfdR3fCb14g) | [Nature Field Recordings](https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD) | [Lost in the Rainforest](https://open.spotify.com/album/2xpTsNAzRb56XKfQbvx9Z8) | 3:30 |
 | 20 | [Under a Waterfall \(Relaxing Sounds\)](https://open.spotify.com/track/4NlsctTVxrTknjeiOKAdsr) | [Sleep Sounds of Nature](https://open.spotify.com/artist/59FRAcMcsHQupc8lupy5uH) | [Sleep Sounds of Nature \(Sound Healing from Nature Music: How to Deal with Stress, How to Meditate: Help Yourself with Musik\)](https://open.spotify.com/album/1hnITnE98zsV3NUBb9umhi) | 3:57 |
 | 21 | [Djungle Rain](https://open.spotify.com/track/6OYu0UZHuVYtJb9px1dKwi) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Humid Drops](https://open.spotify.com/album/0Rlwlp5Q0PkDgXnlcKGBad) | 3:28 |
 | 22 | [River Rain](https://open.spotify.com/track/1XGH1AZ0JONwKKkYuNEPdE) | [Out & About](https://open.spotify.com/artist/0asBrm3wPU6SWrI7OzrnFX) | [When It Rains...](https://open.spotify.com/album/5nKNpp7Rax9q5yyQITZhyF) | 5:55 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSads6V2oIk.md) - [plain]
 | 65 | [Forest Therapy](https://open.spotify.com/track/1o5wI9xAk3n5SVXBbdAEf3) | [INDAYA](https://open.spotify.com/artist/3UzYsKmyzyiSLGVC7RXlvw) | [Nature Heritage](https://open.spotify.com/album/3i29jHWl0L3sa276ySSsos) | 3:16 |
 | 66 | [Forest Rain With Peaceful Insects](https://open.spotify.com/track/049WKlz7iZ8zfEoFverXS5) | [Cloudburst Forest](https://open.spotify.com/artist/0h9lHXI4UngNxtjICMRXmq) | [Cloudburst Forest Rain](https://open.spotify.com/album/45GkTb5MDmeNQfKS5g6RuZ) | 3:12 |
 
-Snapshot ID: `MTY1MzM5MjgzNiwwMDAwMDA0YjAwMDAwMTgwZjVlNDg2NDIwMDAwMDE3ZDRkYjFjYWNl`
+Snapshot ID: `MTY1NzEyMTMxNywwMDAwMDA0ZDAwMDAwMTgxZDQyMGEzNjAwMDAwMDE4MWQ0MGZhZTU5`

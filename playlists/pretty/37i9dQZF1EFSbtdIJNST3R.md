@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSbtdIJNST3R.md) - [plain]
 
 ### [Written By Sigourney Korper](https://open.spotify.com/playlist/37i9dQZF1EFSbtdIJNST3R)
 
-> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7jxyICEEsUhq8zyP6jPGzM">Sigourney Korper</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
+> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7jxyICEEsUhq8zyP6jPGzM">Sigourney Korper</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40 likes - 31 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 42 likes - 31 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSbtdIJNST3R.md) - [plain]
 | 30 | [Blockparty](https://open.spotify.com/track/41BMZK6aq3ZoDrRybQgxd5) | [Zirkus Zirkus](https://open.spotify.com/artist/746vTXKIR6HcTpyrdmQGPS) | [In De Tent](https://open.spotify.com/album/6x4ps0SwAk1EAxtJTFb3Yy) | 3:36 |
 | 31 | [Babyboy](https://open.spotify.com/track/7xnpYakvJ9lnaragKULefR) | [Zirkus Zirkus](https://open.spotify.com/artist/746vTXKIR6HcTpyrdmQGPS) | [Kids Top 100 2015](https://open.spotify.com/album/1WcWgv7JX6LLYJEZVYVEmh) | 3:20 |
 
-Snapshot ID: `Mjc2MTQ5NjIsMDAwMDAwMDA2MWQ4MWM3OWQwYjVlNjk3ZmQ0MTkzNTQxYTdlMmY5Zg==`
+Snapshot ID: `Mjc2MTkyODIsMDAwMDAwMDA0MTQzOGRlNWZiMzYxNTRiZDQzYzI2MjFjMTMzNDc1Yg==`

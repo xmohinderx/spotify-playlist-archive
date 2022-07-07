@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 239199,
       "name": "Aeroplanos",
       "url": "https://open.spotify.com/track/1ujis0ZrwUNGVXgjvu4uCU"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 197793,
       "name": "Al Final",
       "url": "https://open.spotify.com/track/1fZofOT5ZxvQGvSPRGDHZ6"
@@ -911,7 +911,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 242450,
       "name": "Hoy No",
       "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
@@ -1429,7 +1429,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 193654,
       "name": "No Soy Yo",
       "url": "https://open.spotify.com/track/2WsqNbvR2Ej6e6ae5t62eX"
@@ -1476,6 +1476,24 @@
     },
     {
       "album": {
+        "name": "Ausente",
+        "url": "https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202391,
+      "name": "Nunca me encontr\u00e9 ;(",
+      "url": "https://open.spotify.com/track/1jlFpN2QVjsEGF8FcopjaQ"
+    },
+    {
+      "album": {
         "name": "Nunca Sabr\u00e1s",
         "url": "https://open.spotify.com/album/6ova79lcaiV9HgZN3qVrMX"
       },
@@ -1487,7 +1505,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 216017,
       "name": "Nunca Sabr\u00e1s",
       "url": "https://open.spotify.com/track/4PgbgWa4umBGYbJfy10U8e"
@@ -1509,7 +1527,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 231275,
       "name": "Nunca Te Olvido",
       "url": "https://open.spotify.com/track/3XXZerYu2j34Z7eUh56F6K"
@@ -1673,7 +1691,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 157263,
       "name": "Por Ti Me Quedo en San Luis",
       "url": "https://open.spotify.com/track/6kA8g4I3KAqcyIfCFBPNtr"
@@ -1713,7 +1731,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 244253,
       "name": "Quiero",
       "url": "https://open.spotify.com/track/34gzxIVoKXsFQPiiT6rUX4"
@@ -1753,7 +1771,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 293098,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/1DH0Cg447H2wioWGvW4S3z"
@@ -1829,7 +1847,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 189885,
       "name": "QUN",
       "url": "https://open.spotify.com/track/2MMIvXUnusZ0gdqJIZmyMC"
@@ -2111,7 +2129,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 209013,
       "name": "Sonre\u00edr - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/6Vk8greV4Rn5a1RDCHtydm"
@@ -2129,7 +2147,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 213999,
       "name": "Soy El Unico",
       "url": "https://open.spotify.com/track/6HJIZUOiZDE814XMhRGSZN"
@@ -2191,7 +2209,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 211935,
       "name": "So\u00f1\u00e9 Contigo",
       "url": "https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU"
@@ -2209,7 +2227,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 236301,
       "name": "Te Lo Debo Contar",
       "url": "https://open.spotify.com/track/6kyqvHEWqcSlWObg2bQj6M"
@@ -2353,7 +2371,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 187666,
       "name": "Vete a la Chingada",
       "url": "https://open.spotify.com/track/4RYxRVqc2vaKvRjwAX4FQK"

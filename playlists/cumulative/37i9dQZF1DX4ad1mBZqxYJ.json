@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "10 PM (Popular)",
+        "url": "https://open.spotify.com/album/0UKMqy1QBgwAgfwIsWmOsR"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213180,
+      "name": "10 PM - Popular",
+      "url": "https://open.spotify.com/track/5Wa3cRSjVUeQm5zhwAFUao"
+    },
+    {
+      "album": {
         "name": "2/Catorce",
         "url": "https://open.spotify.com/album/23ceOvjypWsCUj9ZrW8Fno"
       },
@@ -45,7 +63,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 167504,
       "name": "23 (With Ape Drums)",
       "url": "https://open.spotify.com/track/1G7vCwBCxeTe8fB0EGMDdq"
@@ -115,7 +133,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 208631,
       "name": "911 - Remix",
       "url": "https://open.spotify.com/track/27RSJHEA99Y0Vsow7nA37A"
@@ -233,7 +251,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 270740,
       "name": "Adicto (with Anuel AA & Ozuna)",
       "url": "https://open.spotify.com/track/3jbT1Y5MoPwEIpZndDDwVq"
@@ -355,7 +373,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 188604,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/3T0DeQvOtdqd7Yo3t2Ig3N"
@@ -373,7 +391,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 137183,
       "name": "Andamos Mejor",
       "url": "https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD"
@@ -457,7 +475,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 250440,
       "name": "As\u00ed Toc\u00f3 Mi Vida",
       "url": "https://open.spotify.com/track/2YekzGSNDRlEvRLmvfRZfb"
@@ -617,7 +635,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 154760,
       "name": "Brillo",
       "url": "https://open.spotify.com/track/5gS11pL9yQcnKrzbmliOwh"
@@ -701,7 +719,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 250533,
       "name": "Callaita",
       "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
@@ -753,7 +771,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 229125,
       "name": "Caramelo (feat. DJ Esli, Michael G & B&B)",
       "url": "https://open.spotify.com/track/6P84crmqVzt4685QoMnjb0"
@@ -1253,7 +1271,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 146839,
       "name": "Desde Morro",
       "url": "https://open.spotify.com/track/5u6lAvdS8mmHHTHQlC3TtN"
@@ -1315,7 +1333,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 211352,
       "name": "Diamantes",
       "url": "https://open.spotify.com/track/0JDrG1g5HXbfgGtRKT0ofH"
@@ -1585,7 +1603,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 183953,
       "name": "El Roto",
       "url": "https://open.spotify.com/track/2GrHWsu8r3N8WEQAiiTSlg"
@@ -1725,7 +1743,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 227750,
       "name": "En El Avi\u00f3n",
       "url": "https://open.spotify.com/track/42u9e0pWIPYcaPERtBSJda"
@@ -1929,7 +1947,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 190843,
       "name": "Fuma Fuma",
       "url": "https://open.spotify.com/track/0zvzpiY7OJFRrkAIYfoOLJ"
@@ -2061,7 +2079,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 240000,
       "name": "Grandes Ligas",
       "url": "https://open.spotify.com/track/06IceO7e9isF3nX3y7dOTe"
@@ -2163,7 +2181,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 255000,
       "name": "Hurac\u00e1n",
       "url": "https://open.spotify.com/track/1QSxLf1ldQnoBqOoLKQT9e"
@@ -2355,7 +2373,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -2437,7 +2455,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 307435,
       "name": "La Forma en Que Me Miras",
       "url": "https://open.spotify.com/track/57Ba26w9eoXx8BBUNgRNLV"
@@ -2559,7 +2577,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 216107,
       "name": "La Nota",
       "url": "https://open.spotify.com/track/5VzNsUnLmYcRfRfxpQsusa"
@@ -3049,7 +3067,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 174985,
       "name": "Me Met\u00ed En El Ruedo (En Vivo)",
       "url": "https://open.spotify.com/track/69fR39dr6KuJhBr6C9y7Vn"
@@ -3107,7 +3125,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 205714,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
@@ -3261,7 +3279,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 203946,
       "name": "Mi T\u00edo Snoop",
       "url": "https://open.spotify.com/track/48XgkAh1fkcZqA2EZWCDX6"
@@ -3497,7 +3515,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 307546,
       "name": "No Me Conoce - Remix",
       "url": "https://open.spotify.com/track/7rknFhrVDyxzTJkPSf7LoW"
@@ -3725,7 +3743,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 151666,
       "name": "Pa' Que Retozen",
       "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
@@ -3795,7 +3813,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 248345,
       "name": "Parce (feat. Justin Quiles)",
       "url": "https://open.spotify.com/track/4RJz8NfIe09gpKMiRUWKhJ"
@@ -3967,7 +3985,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 393280,
       "name": "Poblado - Remix",
       "url": "https://open.spotify.com/track/1WedZeiezCmCEOzLwhx0hV"
@@ -4047,7 +4065,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 218250,
       "name": "Por Mi M\u00e9xico",
       "url": "https://open.spotify.com/track/6f3ISIn47Wyg6X0V8eHMjm"
@@ -4227,7 +4245,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 175903,
       "name": "PSL",
       "url": "https://open.spotify.com/track/6o4Gciys1ZIOQ2kDGnvKdm"
@@ -4249,7 +4267,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 162475,
       "name": "Que Esta Pasando",
       "url": "https://open.spotify.com/track/26xQbFpVg8JCT5NKQFJXg8"
@@ -4371,7 +4389,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 200741,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/5RBSfEU71gXJ7jxfqSbYiR"
@@ -4415,7 +4433,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 231594,
       "name": "Reloj",
       "url": "https://open.spotify.com/track/4loQgPwJHocL3dFwLfjb1J"
@@ -4677,7 +4695,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 170496,
       "name": "Si Fuera F\u00e1cil",
       "url": "https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3"
@@ -4755,7 +4773,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 219573,
       "name": "Si Te Vienen a Contar",
       "url": "https://open.spotify.com/track/4058DPUoC7sLPQ05pr3e4C"
@@ -4887,7 +4905,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 243000,
       "name": "Socios",
       "url": "https://open.spotify.com/track/7d8TPVWQLeW5PKrAb76V3N"
@@ -4905,7 +4923,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 222669,
       "name": "Soy El Rat\u00f3n",
       "url": "https://open.spotify.com/track/4NQa7zNbJtY2QvnGpzM8Gz"
@@ -4945,7 +4963,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 144545,
       "name": "Tan Solo Morro",
       "url": "https://open.spotify.com/track/5eBzDfTG7m8NUWf14YYQcU"
@@ -5063,7 +5081,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 234402,
       "name": "Tendencia Global",
       "url": "https://open.spotify.com/track/2iLegn1UOmpNpQAxcQoGJW"
@@ -5243,7 +5261,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 203478,
       "name": "Toketeo",
       "url": "https://open.spotify.com/track/0pRgURvgp75RPKjTGQodau"
@@ -5327,7 +5345,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "Tra Tra Tra Remix - Remix",
       "url": "https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm"
@@ -5561,7 +5579,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 185236,
       "name": "Vaya Vaya",
       "url": "https://open.spotify.com/track/2kTYr1MEn7lzybRudQpmWx"
@@ -5675,7 +5693,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 203546,
       "name": "Yo No Me Quiero Morir",
       "url": "https://open.spotify.com/track/5xXaJHNtyBghk2F6AnP2PI"
@@ -5733,7 +5751,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 174285,
       "name": "Yoss Bones - LQRA Session #3",
       "url": "https://open.spotify.com/track/65jUseB3hi312R6Sdg2eon"
@@ -5777,7 +5795,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 258100,
       "name": "\u00daltimo Adi\u00f3s",
       "url": "https://open.spotify.com/track/0RGcJ6VaN0UlC91o3xqJBB"

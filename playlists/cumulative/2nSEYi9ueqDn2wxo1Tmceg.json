@@ -66,6 +66,24 @@
     },
     {
       "album": {
+        "name": "Tresor",
+        "url": "https://open.spotify.com/album/78lZv9dM7CBDIblhnVAXH7"
+      },
+      "artists": [
+        {
+          "name": "Gwenno",
+          "url": "https://open.spotify.com/artist/44mRrrRjaV8iu1VLIKuwty"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198138,
+      "name": "Anima",
+      "url": "https://open.spotify.com/track/2wrGTAittO2Kh4DI1H5kX1"
+    },
+    {
+      "album": {
         "name": "Bad Faith",
         "url": "https://open.spotify.com/album/15IAPEq7DhIb7EXeIbY7VK"
       },
@@ -390,6 +408,24 @@
     },
     {
       "album": {
+        "name": "Double Lucifer",
+        "url": "https://open.spotify.com/album/2fligHhCBdYefRBXkvqjsK"
+      },
+      "artists": [
+        {
+          "name": "TVAM",
+          "url": "https://open.spotify.com/artist/7aKv42QgcrCLQg37J4CkTM"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214186,
+      "name": "Double Lucifer",
+      "url": "https://open.spotify.com/track/07GpYVF5N8XcX6rVO1oKD3"
+    },
+    {
+      "album": {
         "name": "Down (Remixes)",
         "url": "https://open.spotify.com/album/3KXygHEZInk8tR7tGDUTh5"
       },
@@ -569,6 +605,24 @@
       "duration_ms": 260200,
       "name": "Ghost On",
       "url": "https://open.spotify.com/track/512vqW0xDLcWjWD2tc46xd"
+    },
+    {
+      "album": {
+        "name": "Icons",
+        "url": "https://open.spotify.com/album/5sJJC4UoKTfJaW0jO6YYCG"
+      },
+      "artists": [
+        {
+          "name": "Two Shell",
+          "url": "https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353398,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/045EJUy4tNHrB3lgvpSdND"
     },
     {
       "album": {
@@ -910,6 +964,24 @@
     },
     {
       "album": {
+        "name": "Nattens Sista Strimma Ljus",
+        "url": "https://open.spotify.com/album/0j3nf6D8d8ZvhgibltRWL5"
+      },
+      "artists": [
+        {
+          "name": "Dungen",
+          "url": "https://open.spotify.com/artist/5d7hcYqz8bVY6Kt3bhjd3d"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268384,
+      "name": "Nattens Sista Strimma Ljus",
+      "url": "https://open.spotify.com/track/2WY8hy60bH6y1cxTMurysV"
+    },
+    {
+      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/41HC7KwuNr5PxEtyYxgYQm"
       },
@@ -957,7 +1029,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 229920,
       "name": "Our Love Remains",
       "url": "https://open.spotify.com/track/27fhKlrPdZ2V3ifyyM6DiV"
@@ -1011,7 +1083,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 303893,
       "name": "Relegate",
       "url": "https://open.spotify.com/track/19CbAutaoNdC6M7edFdzWO"
@@ -1145,7 +1217,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 288600,
       "name": "Seed",
       "url": "https://open.spotify.com/track/2taAXpP5azRBLZxOCJGC3U"
@@ -1189,7 +1261,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 170778,
       "name": "Sold Me a Dream - Terry Tracksuit Edit",
       "url": "https://open.spotify.com/track/05n521uk7tzOpvuQZMtQag"
@@ -1207,7 +1279,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 238463,
       "name": "Space Song",
       "url": "https://open.spotify.com/track/7sB9BkfzR1SsuHqjU3jtt1"
@@ -1319,7 +1391,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 162176,
       "name": "The Signs",
       "url": "https://open.spotify.com/track/7Mv0LtBlIFHYF8wTGzn69d"
@@ -1362,6 +1434,24 @@
     },
     {
       "album": {
+        "name": "Giant Palm",
+        "url": "https://open.spotify.com/album/6ovv5BhFVVHOusujVm5LIf"
+      },
+      "artists": [
+        {
+          "name": "Naima Bock",
+          "url": "https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305413,
+      "name": "Toll",
+      "url": "https://open.spotify.com/track/5NkB0cYXhhyX0ErtkhK1k1"
+    },
+    {
+      "album": {
         "name": "Cruel Country",
         "url": "https://open.spotify.com/album/67GC6lWDvJ0lUc1aVBXTcT"
       },
@@ -1377,6 +1467,28 @@
       "duration_ms": 206320,
       "name": "Tonight's the Day",
       "url": "https://open.spotify.com/track/50qWe1O9wEHGl7WHSngOqc"
+    },
+    {
+      "album": {
+        "name": "Too Late Now (Soulwax Remix)",
+        "url": "https://open.spotify.com/album/2kV9ScIQHMVQs1XLWQetEz"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        },
+        {
+          "name": "Soulwax",
+          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398768,
+      "name": "Too Late Now - Soulwax Remix",
+      "url": "https://open.spotify.com/track/5NY8FqMU71tJbuz6qiZ69C"
     },
     {
       "album": {

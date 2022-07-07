@@ -866,6 +866,28 @@
     },
     {
       "album": {
+        "name": "Daisies",
+        "url": "https://open.spotify.com/album/37kDHVg9VwJgW5fbKkwzls"
+      },
+      "artists": [
+        {
+          "name": "yetep",
+          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
+        },
+        {
+          "name": "Olmos",
+          "url": "https://open.spotify.com/artist/60cVbnHVILVFAO7tl3crPV"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219870,
+      "name": "Daisies",
+      "url": "https://open.spotify.com/track/67k9neQm9nlnMnejMpRXSN"
+    },
+    {
+      "album": {
         "name": "Dance",
         "url": "https://open.spotify.com/album/0CySejF1LV9VLTwvLR39F4"
       },
@@ -1602,6 +1624,24 @@
     },
     {
       "album": {
+        "name": "Grimoire",
+        "url": "https://open.spotify.com/album/5PnPerL51mnpKq9HOo7vS0"
+      },
+      "artists": [
+        {
+          "name": "Caster",
+          "url": "https://open.spotify.com/artist/4z7OnrBHTHdfpjNKl7NGox"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231017,
+      "name": "Grimoire",
+      "url": "https://open.spotify.com/track/7fa5wc6BKbAvEHrV2muKGx"
+    },
+    {
+      "album": {
         "name": "Grit",
         "url": "https://open.spotify.com/album/1sb0N6xaPvu2mX0BLhMnmU"
       },
@@ -2047,7 +2087,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 215172,
       "name": "Looking for the Light",
       "url": "https://open.spotify.com/track/4uatHMHq0tGTCUglWAUZOx"
@@ -2761,7 +2801,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 155625,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/1A7abr0cUK9WZRO4AjT0UQ"

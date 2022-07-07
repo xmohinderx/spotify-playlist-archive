@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas aconchegantes para aquecer a alma nos dias frios.",
-  "num_followers": 333457,
+  "num_followers": 333495,
   "original_name": "Friozinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA3MjA2MiwwMDAwMDAwMGM1YTJhZDNlNzAzMWY4MDBlYTkwYTRmMTVjZmZkNWU0",
+  "snapshot_id": "MTY1NzE1NzI1NywwMDAwMDAwMDlkMDBkNTg3Mjk5ZjVlM2I2YzMwOTdiMzU5NTkzZGE2",
   "tracks": [
     {
       "added_at": "2022-06-24 03:00:00",
@@ -99,6 +99,22 @@
     {
       "added_at": "2022-06-24 03:00:00",
       "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 156467,
+      "name": "Off My Face",
+      "url": "https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U"
+    },
+    {
+      "added_at": "2022-06-24 03:00:00",
+      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
       },
@@ -115,34 +131,18 @@
     {
       "added_at": "2022-06-24 03:00:00",
       "album": {
-        "name": "A Star Is Born Soundtrack",
-        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
+        "name": "drivers license",
+        "url": "https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 210200,
-      "name": "Always Remember Us This Way",
-      "url": "https://open.spotify.com/track/74iZuPGwyL33VlTr6jTnab"
-    },
-    {
-      "added_at": "2022-06-24 03:00:00",
-      "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 156467,
-      "name": "Off My Face",
-      "url": "https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U"
+      "duration_ms": 242013,
+      "name": "drivers license",
+      "url": "https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS"
     },
     {
       "added_at": "2022-06-24 03:00:00",
@@ -167,54 +167,18 @@
     {
       "added_at": "2022-06-24 03:00:00",
       "album": {
-        "name": "drivers license",
-        "url": "https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr"
+        "name": "A Star Is Born Soundtrack",
+        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 242013,
-      "name": "drivers license",
-      "url": "https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS"
-    },
-    {
-      "added_at": "2022-06-24 03:00:00",
-      "album": {
-        "name": "You Will Be Found (with Summer Walker) [From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack]",
-        "url": "https://open.spotify.com/album/6Anzto8x93tfDjDghGqHQf"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 237814,
-      "name": "You Will Be Found (with Summer Walker) - From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/2URXzpbSUwOjltvpgtzXua"
-    },
-    {
-      "added_at": "2022-06-24 03:00:00",
-      "album": {
-        "name": "Jealous",
-        "url": "https://open.spotify.com/album/5r1DgUZlvQtt0R5JRZBOBo"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 233422,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/72LSM9qFFXFkTaz91tBGHp"
+      "duration_ms": 210200,
+      "name": "Always Remember Us This Way",
+      "url": "https://open.spotify.com/track/74iZuPGwyL33VlTr6jTnab"
     },
     {
       "added_at": "2022-06-24 03:00:00",
@@ -255,6 +219,26 @@
     {
       "added_at": "2022-06-24 03:00:00",
       "album": {
+        "name": "You Will Be Found (with Summer Walker) [From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/6Anzto8x93tfDjDghGqHQf"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 237814,
+      "name": "You Will Be Found (with Summer Walker) - From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/2URXzpbSUwOjltvpgtzXua"
+    },
+    {
+      "added_at": "2022-06-24 03:00:00",
+      "album": {
         "name": "Conversations in the Dark",
         "url": "https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb"
       },
@@ -267,22 +251,6 @@
       "duration_ms": 237426,
       "name": "Conversations in the Dark",
       "url": "https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI"
-    },
-    {
-      "added_at": "2022-06-24 03:00:00",
-      "album": {
-        "name": "= (Tour Edition)",
-        "url": "https://open.spotify.com/album/2CIOGAByaHyjQ1EO55JSzC"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 231546,
-      "name": "One Life",
-      "url": "https://open.spotify.com/track/5DXKvETa1xppOmd4CDxs9S"
     },
     {
       "added_at": "2022-06-24 03:00:00",
@@ -339,26 +307,6 @@
     {
       "added_at": "2022-06-24 03:00:00",
       "album": {
-        "name": "I Was / I Am",
-        "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 186552,
-      "name": "Someone Like You (feat. Joy Oladokun)",
-      "url": "https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK"
-    },
-    {
-      "added_at": "2022-06-24 03:00:00",
-      "album": {
         "name": "Divinely Uninspired To A Hellish Extent",
         "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
       },
@@ -375,70 +323,18 @@
     {
       "added_at": "2022-06-24 03:00:00",
       "album": {
-        "name": "Still Have Me",
-        "url": "https://open.spotify.com/album/5mbrUlvluQ5kVKYKj0aRNc"
+        "name": "= (Tour Edition)",
+        "url": "https://open.spotify.com/album/2CIOGAByaHyjQ1EO55JSzC"
       },
       "artists": [
         {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 203139,
-      "name": "Still Have Me",
-      "url": "https://open.spotify.com/track/6SBJ2XHc4jm6Abqt7zocMz"
-    },
-    {
-      "added_at": "2022-06-24 03:00:00",
-      "album": {
-        "name": "Until She's Gone / Tu Luz Qued\u00f3",
-        "url": "https://open.spotify.com/album/4lRwzMaCoSZgkTUnTandBz"
-      },
-      "artists": [
-        {
-          "name": "Matteo Bocelli",
-          "url": "https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 213995,
-      "name": "Until She\u2019s Gone (with Sebastian Yatra)",
-      "url": "https://open.spotify.com/track/0onGEXtVcTkj8j24w5jD92"
-    },
-    {
-      "added_at": "2022-06-24 03:00:00",
-      "album": {
-        "name": "Put A Little Love On Me",
-        "url": "https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 224585,
-      "name": "Put A Little Love On Me",
-      "url": "https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT"
-    },
-    {
-      "added_at": "2022-06-24 03:00:00",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/1K5R5JjqMQnT9wFFCGMGnw"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 194141,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/4hpGHoJuJTtAqq9pkevLp6"
+      "duration_ms": 231546,
+      "name": "One Life",
+      "url": "https://open.spotify.com/track/5DXKvETa1xppOmd4CDxs9S"
     },
     {
       "added_at": "2022-06-24 03:00:00",
@@ -463,6 +359,90 @@
     {
       "added_at": "2022-06-24 03:00:00",
       "album": {
+        "name": "Jealous",
+        "url": "https://open.spotify.com/album/5r1DgUZlvQtt0R5JRZBOBo"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 233422,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/72LSM9qFFXFkTaz91tBGHp"
+    },
+    {
+      "added_at": "2022-06-24 03:00:00",
+      "album": {
+        "name": "Put A Little Love On Me",
+        "url": "https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 224585,
+      "name": "Put A Little Love On Me",
+      "url": "https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT"
+    },
+    {
+      "added_at": "2022-06-24 03:00:00",
+      "album": {
+        "name": "Still Have Me",
+        "url": "https://open.spotify.com/album/5mbrUlvluQ5kVKYKj0aRNc"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 203139,
+      "name": "Still Have Me",
+      "url": "https://open.spotify.com/track/6SBJ2XHc4jm6Abqt7zocMz"
+    },
+    {
+      "added_at": "2022-06-24 03:00:00",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/1K5R5JjqMQnT9wFFCGMGnw"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 194141,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4hpGHoJuJTtAqq9pkevLp6"
+    },
+    {
+      "added_at": "2022-06-24 03:00:00",
+      "album": {
+        "name": "I Was / I Am",
+        "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 186552,
+      "name": "Someone Like You (feat. Joy Oladokun)",
+      "url": "https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK"
+    },
+    {
+      "added_at": "2022-06-24 03:00:00",
+      "album": {
         "name": "Heaven in a World so Cold",
         "url": "https://open.spotify.com/album/6Mu28q2JNIpShD39DO2coj"
       },
@@ -479,34 +459,54 @@
     {
       "added_at": "2022-06-24 03:00:00",
       "album": {
-        "name": "Coup de Foudre (\u00e0 primeira vista)",
-        "url": "https://open.spotify.com/album/10ZFuMZL7L54HnXMPT4JE2"
+        "name": "Until She's Gone / Tu Luz Qued\u00f3",
+        "url": "https://open.spotify.com/album/4lRwzMaCoSZgkTUnTandBz"
       },
       "artists": [
         {
-          "name": "Amanda Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
+          "name": "Matteo Bocelli",
+          "url": "https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 236311,
-      "name": "Coup de Foudre (\u00e0 primeira vista)",
-      "url": "https://open.spotify.com/track/0CHj08Sf9PLFjvLIv6b6AY"
+      "duration_ms": 213995,
+      "name": "Until She\u2019s Gone (with Sebastian Yatra)",
+      "url": "https://open.spotify.com/track/0onGEXtVcTkj8j24w5jD92"
     },
     {
       "added_at": "2022-06-24 03:00:00",
       "album": {
-        "name": "Elizabeth Taylor",
-        "url": "https://open.spotify.com/album/6h3KFWNgqUpJ7eq0uL3gsb"
+        "name": "For Now",
+        "url": "https://open.spotify.com/album/6OvECyR3eoMORZcXc2sptA"
       },
       "artists": [
         {
-          "name": "Will Young",
-          "url": "https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7"
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
         }
       ],
-      "duration_ms": 256133,
-      "name": "Elizabeth Taylor",
-      "url": "https://open.spotify.com/track/7ihkFXA004RnGionFuYpv5"
+      "duration_ms": 211812,
+      "name": "For Now",
+      "url": "https://open.spotify.com/track/5wV2TAUTKHcKgaEB6XnWDI"
+    },
+    {
+      "added_at": "2022-06-24 03:00:00",
+      "album": {
+        "name": "Bitter Pill (Deluxe Version)",
+        "url": "https://open.spotify.com/album/36eyR9EO74my5HDrUUPytn"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 216200,
+      "name": "Nervous",
+      "url": "https://open.spotify.com/track/26KfOGyEApSDoSro8WsvNZ"
     },
     {
       "added_at": "2022-06-24 03:00:00",
@@ -523,6 +523,58 @@
       "duration_ms": 159134,
       "name": "Carry Me Away",
       "url": "https://open.spotify.com/track/6TL3MOcVW8i1UiJkvhpDbR"
+    },
+    {
+      "added_at": "2022-06-24 03:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        },
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 239076,
+      "name": "Lover - Recorded at Air Studios, London",
+      "url": "https://open.spotify.com/track/3PgxWUQc4HJoQMj5Kp5Mcd"
+    },
+    {
+      "added_at": "2022-06-24 03:00:00",
+      "album": {
+        "name": "All The Little Lights",
+        "url": "https://open.spotify.com/album/2mylGx7w2Q3yhUyN8iEWOF"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 266746,
+      "name": "Let Her Go - Acoustic",
+      "url": "https://open.spotify.com/track/7CzVAhQeZfTLqNnzdAiqrH"
+    },
+    {
+      "added_at": "2022-06-24 03:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 176652,
+      "name": "you broke me first - Spotify Singles",
+      "url": "https://open.spotify.com/track/4SBahN5KfX1RLG9XLNIlJA"
     },
     {
       "added_at": "2022-06-24 03:00:00",
@@ -559,38 +611,34 @@
     {
       "added_at": "2022-06-24 03:00:00",
       "album": {
-        "name": "All The Little Lights",
-        "url": "https://open.spotify.com/album/2mylGx7w2Q3yhUyN8iEWOF"
+        "name": "Coup de Foudre (\u00e0 primeira vista)",
+        "url": "https://open.spotify.com/album/10ZFuMZL7L54HnXMPT4JE2"
       },
       "artists": [
         {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+          "name": "Amanda Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
         }
       ],
-      "duration_ms": 266746,
-      "name": "Let Her Go - Acoustic",
-      "url": "https://open.spotify.com/track/7CzVAhQeZfTLqNnzdAiqrH"
+      "duration_ms": 236311,
+      "name": "Coup de Foudre (\u00e0 primeira vista)",
+      "url": "https://open.spotify.com/track/0CHj08Sf9PLFjvLIv6b6AY"
     },
     {
       "added_at": "2022-06-24 03:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui"
+        "name": "Elizabeth Taylor",
+        "url": "https://open.spotify.com/album/6h3KFWNgqUpJ7eq0uL3gsb"
       },
       "artists": [
         {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        },
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+          "name": "Will Young",
+          "url": "https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7"
         }
       ],
-      "duration_ms": 239076,
-      "name": "Lover - Recorded at Air Studios, London",
-      "url": "https://open.spotify.com/track/3PgxWUQc4HJoQMj5Kp5Mcd"
+      "duration_ms": 256133,
+      "name": "Elizabeth Taylor",
+      "url": "https://open.spotify.com/track/7ihkFXA004RnGionFuYpv5"
     },
     {
       "added_at": "2022-06-24 03:00:00",
@@ -611,66 +659,18 @@
     {
       "added_at": "2022-06-24 03:00:00",
       "album": {
-        "name": "Bitter Pill (Deluxe Version)",
-        "url": "https://open.spotify.com/album/36eyR9EO74my5HDrUUPytn"
+        "name": "Happy For You",
+        "url": "https://open.spotify.com/album/20cXMWG0KcvCA2N6O5ixbY"
       },
       "artists": [
         {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
         }
       ],
-      "duration_ms": 216200,
-      "name": "Nervous",
-      "url": "https://open.spotify.com/track/26KfOGyEApSDoSro8WsvNZ"
-    },
-    {
-      "added_at": "2022-06-24 03:00:00",
-      "album": {
-        "name": "The One and Only Ivan (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0FHQxkiMUGGJ160ZMzBhnV"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/1pgnjcM4HhB9bRIAbh3lne"
-    },
-    {
-      "added_at": "2022-06-24 03:00:00",
-      "album": {
-        "name": "For Now",
-        "url": "https://open.spotify.com/album/6OvECyR3eoMORZcXc2sptA"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 211812,
-      "name": "For Now",
-      "url": "https://open.spotify.com/track/5wV2TAUTKHcKgaEB6XnWDI"
-    },
-    {
-      "added_at": "2022-06-24 03:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 176652,
-      "name": "you broke me first - Spotify Singles",
-      "url": "https://open.spotify.com/track/4SBahN5KfX1RLG9XLNIlJA"
+      "duration_ms": 226402,
+      "name": "Happy For You",
+      "url": "https://open.spotify.com/track/68z9t6zihQgqzBGtexjTRG"
     },
     {
       "added_at": "2022-06-24 03:00:00",
@@ -691,34 +691,50 @@
     {
       "added_at": "2022-06-24 03:00:00",
       "album": {
-        "name": "Like Strangers Do",
-        "url": "https://open.spotify.com/album/3fFTDPRQZRpbH5pgqvepFZ"
+        "name": "The One and Only Ivan (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0FHQxkiMUGGJ160ZMzBhnV"
       },
       "artists": [
         {
-          "name": "AJ Mitchell",
-          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
         }
       ],
-      "duration_ms": 160790,
-      "name": "Like Strangers Do",
-      "url": "https://open.spotify.com/track/0Wc6cbF38a90b8wov9V63F"
+      "duration_ms": 228840,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/1pgnjcM4HhB9bRIAbh3lne"
     },
     {
       "added_at": "2022-06-24 03:00:00",
       "album": {
-        "name": "The Way That I Love You",
-        "url": "https://open.spotify.com/album/2brd4GZO66lqqlAWgNiIkK"
+        "name": "What They'll Say About Us",
+        "url": "https://open.spotify.com/album/7AnQ4YEDYHaeirVTMx6jNp"
       },
       "artists": [
         {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
         }
       ],
-      "duration_ms": 159761,
-      "name": "The Way That I Love You - single version",
-      "url": "https://open.spotify.com/track/7DZ8n63a46dU6iUyN9OeRl"
+      "duration_ms": 187601,
+      "name": "What They'll Say About Us",
+      "url": "https://open.spotify.com/track/27Y1N4Q4U3EfDU5Ubw8ws2"
+    },
+    {
+      "added_at": "2022-06-24 03:00:00",
+      "album": {
+        "name": "Finally // beautiful stranger",
+        "url": "https://open.spotify.com/album/30MFzDqEWHe5v0XUsGGUJF"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 221095,
+      "name": "Finally // beautiful stranger",
+      "url": "https://open.spotify.com/track/5YvcUK2eXJ2OllqDuEg18S"
     },
     {
       "added_at": "2022-06-24 03:00:00",
@@ -739,6 +755,26 @@
       "duration_ms": 180707,
       "name": "Bed I Made",
       "url": "https://open.spotify.com/track/0YL1bs7CYi7mhG0FuctgcO"
+    },
+    {
+      "added_at": "2022-06-24 03:00:00",
+      "album": {
+        "name": "when was it over? (feat. Sam Hunt)",
+        "url": "https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        },
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 218093,
+      "name": "when was it over? (feat. Sam Hunt)",
+      "url": "https://open.spotify.com/track/779UN3kabApm2zfqX549vf"
     },
     {
       "added_at": "2022-06-24 03:00:00",
@@ -783,18 +819,18 @@
     {
       "added_at": "2022-06-24 03:00:00",
       "album": {
-        "name": "Hypochondriac",
-        "url": "https://open.spotify.com/album/1YFqzrSFmL8WdhQ79eLKJe"
+        "name": "Like Strangers Do",
+        "url": "https://open.spotify.com/album/3fFTDPRQZRpbH5pgqvepFZ"
       },
       "artists": [
         {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+          "name": "AJ Mitchell",
+          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
         }
       ],
-      "duration_ms": 202453,
-      "name": "Hypochondriac",
-      "url": "https://open.spotify.com/track/3GXQOlfK0oPdsW6Y5ptII6"
+      "duration_ms": 160790,
+      "name": "Like Strangers Do",
+      "url": "https://open.spotify.com/track/0Wc6cbF38a90b8wov9V63F"
     },
     {
       "added_at": "2022-06-24 03:00:00",
@@ -811,102 +847,6 @@
       "duration_ms": 242412,
       "name": "A Little Closer (FINNEAS Version) - From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/3tcquFqOHmSIDmhW4rH2Pn"
-    },
-    {
-      "added_at": "2022-06-24 03:00:00",
-      "album": {
-        "name": "Hurtless",
-        "url": "https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 180274,
-      "name": "Hurtless",
-      "url": "https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z"
-    },
-    {
-      "added_at": "2022-06-24 03:00:00",
-      "album": {
-        "name": "Finally // beautiful stranger",
-        "url": "https://open.spotify.com/album/30MFzDqEWHe5v0XUsGGUJF"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 221095,
-      "name": "Finally // beautiful stranger",
-      "url": "https://open.spotify.com/track/5YvcUK2eXJ2OllqDuEg18S"
-    },
-    {
-      "added_at": "2022-06-24 03:00:00",
-      "album": {
-        "name": "Happy For You",
-        "url": "https://open.spotify.com/album/20cXMWG0KcvCA2N6O5ixbY"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 226402,
-      "name": "Happy For You",
-      "url": "https://open.spotify.com/track/68z9t6zihQgqzBGtexjTRG"
-    },
-    {
-      "added_at": "2022-06-24 03:00:00",
-      "album": {
-        "name": "Best Kept Secret",
-        "url": "https://open.spotify.com/album/2Rz4fn3jF3sH0WrtJwPzzm"
-      },
-      "artists": [
-        {
-          "name": "Moons",
-          "url": "https://open.spotify.com/artist/5KokGIQH9RETtCjw72hAt0"
-        }
-      ],
-      "duration_ms": 156485,
-      "name": "Best Kept Secret",
-      "url": "https://open.spotify.com/track/7apSGYv3h29CBfwLgL13Pi"
-    },
-    {
-      "added_at": "2022-06-24 03:00:00",
-      "album": {
-        "name": "Somewhere Only We Know",
-        "url": "https://open.spotify.com/album/2BWTPrj9yBBC79fCByZ2Tv"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 208154,
-      "name": "Somewhere Only We Know",
-      "url": "https://open.spotify.com/track/3DDGhkxq3FeUorZppSgeLE"
-    },
-    {
-      "added_at": "2022-06-24 03:00:00",
-      "album": {
-        "name": "What They'll Say About Us",
-        "url": "https://open.spotify.com/album/7AnQ4YEDYHaeirVTMx6jNp"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 187601,
-      "name": "What They'll Say About Us",
-      "url": "https://open.spotify.com/track/27Y1N4Q4U3EfDU5Ubw8ws2"
     },
     {
       "added_at": "2022-06-24 03:00:00",
@@ -931,54 +871,34 @@
     {
       "added_at": "2022-06-24 03:00:00",
       "album": {
-        "name": "YOU",
-        "url": "https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z"
+        "name": "When You Lose Someone",
+        "url": "https://open.spotify.com/album/20l8unGyqrFecTjrSYgaSq"
       },
       "artists": [
         {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
         }
       ],
-      "duration_ms": 243186,
-      "name": "Quite Miss Home",
-      "url": "https://open.spotify.com/track/2deFH5zveEBEUuURpqTN3C"
+      "duration_ms": 200282,
+      "name": "When You Lose Someone",
+      "url": "https://open.spotify.com/track/3ECh9S9MgoL9SrpZFh0Y5Z"
     },
     {
       "added_at": "2022-06-24 03:00:00",
       "album": {
-        "name": "when was it over? (feat. Sam Hunt)",
-        "url": "https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG"
+        "name": "Best Kept Secret",
+        "url": "https://open.spotify.com/album/2Rz4fn3jF3sH0WrtJwPzzm"
       },
       "artists": [
         {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        },
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+          "name": "Moons",
+          "url": "https://open.spotify.com/artist/5KokGIQH9RETtCjw72hAt0"
         }
       ],
-      "duration_ms": 218093,
-      "name": "when was it over? (feat. Sam Hunt)",
-      "url": "https://open.spotify.com/track/779UN3kabApm2zfqX549vf"
-    },
-    {
-      "added_at": "2022-06-24 03:00:00",
-      "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/0DtFQfEdnLy29pxYoizSgn"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 201178,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/3RUi4rBDYospTGr92P7Xin"
+      "duration_ms": 156485,
+      "name": "Best Kept Secret",
+      "url": "https://open.spotify.com/track/7apSGYv3h29CBfwLgL13Pi"
     },
     {
       "added_at": "2022-06-24 03:00:00",
@@ -999,50 +919,66 @@
     {
       "added_at": "2022-06-24 03:00:00",
       "album": {
-        "name": "When You Lose Someone",
-        "url": "https://open.spotify.com/album/20l8unGyqrFecTjrSYgaSq"
+        "name": "The Way That I Love You",
+        "url": "https://open.spotify.com/album/2brd4GZO66lqqlAWgNiIkK"
       },
       "artists": [
         {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
         }
       ],
-      "duration_ms": 200282,
-      "name": "When You Lose Someone",
-      "url": "https://open.spotify.com/track/3ECh9S9MgoL9SrpZFh0Y5Z"
+      "duration_ms": 159761,
+      "name": "The Way That I Love You - single version",
+      "url": "https://open.spotify.com/track/7DZ8n63a46dU6iUyN9OeRl"
     },
     {
       "added_at": "2022-06-24 03:00:00",
       "album": {
-        "name": "No Right To Love You",
-        "url": "https://open.spotify.com/album/2PHYCXNyJ7PHMa2GriKzUW"
+        "name": "Hypochondriac",
+        "url": "https://open.spotify.com/album/1YFqzrSFmL8WdhQ79eLKJe"
       },
       "artists": [
         {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
         }
       ],
-      "duration_ms": 238066,
-      "name": "No Right To Love You",
-      "url": "https://open.spotify.com/track/4SHJLxcRicQyT42jG95Y5u"
+      "duration_ms": 202453,
+      "name": "Hypochondriac",
+      "url": "https://open.spotify.com/track/3GXQOlfK0oPdsW6Y5ptII6"
     },
     {
       "added_at": "2022-06-24 03:00:00",
       "album": {
-        "name": "A Concert Six Months From Now",
-        "url": "https://open.spotify.com/album/0tivTdbZdEUeC4NvXnle3J"
+        "name": "Somewhere Only We Know",
+        "url": "https://open.spotify.com/album/2BWTPrj9yBBC79fCByZ2Tv"
       },
       "artists": [
         {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
         }
       ],
-      "duration_ms": 205286,
-      "name": "A Concert Six Months From Now",
-      "url": "https://open.spotify.com/track/1FaXNkTPTe6k8mCCi6OVbh"
+      "duration_ms": 208154,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/3DDGhkxq3FeUorZppSgeLE"
+    },
+    {
+      "added_at": "2022-06-24 03:00:00",
+      "album": {
+        "name": "Hurtless",
+        "url": "https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 180274,
+      "name": "Hurtless",
+      "url": "https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z"
     },
     {
       "added_at": "2022-06-24 03:00:00",
@@ -1103,38 +1039,18 @@
     {
       "added_at": "2022-06-24 03:00:00",
       "album": {
-        "name": "All Fall Down",
-        "url": "https://open.spotify.com/album/0p6mdiaKAjYCS3uX4VL1rT"
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/0DtFQfEdnLy29pxYoizSgn"
       },
       "artists": [
         {
-          "name": "Travis",
-          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
         }
       ],
-      "duration_ms": 207533,
-      "name": "All Fall Down",
-      "url": "https://open.spotify.com/track/2vl3iQZmJZ2Ztz3USIUHCH"
-    },
-    {
-      "added_at": "2022-06-24 03:00:00",
-      "album": {
-        "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
-        "url": "https://open.spotify.com/album/5xd9LleY1wqsgKVTwLoXYI"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 220839,
-      "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/5pcjystBtalYeqaiXCcgEY"
+      "duration_ms": 201178,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/3RUi4rBDYospTGr92P7Xin"
     },
     {
       "added_at": "2022-06-24 03:00:00",
@@ -1159,50 +1075,22 @@
     {
       "added_at": "2022-06-24 03:00:00",
       "album": {
-        "name": "Love Is Weird",
-        "url": "https://open.spotify.com/album/1T8KRFCNKdGg1E9BSbBDwq"
+        "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
+        "url": "https://open.spotify.com/album/5xd9LleY1wqsgKVTwLoXYI"
       },
       "artists": [
         {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 150393,
-      "name": "Love Is Weird",
-      "url": "https://open.spotify.com/track/4vBeG83Hjl2qJspRcTLiz5"
-    },
-    {
-      "added_at": "2022-06-24 03:00:00",
-      "album": {
-        "name": "Let Me Love You Like A Woman",
-        "url": "https://open.spotify.com/album/6yEZH1HexM9sqOX34qUE4u"
-      },
-      "artists": [
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 200661,
-      "name": "Let Me Love You Like A Woman",
-      "url": "https://open.spotify.com/track/4HvE2E9rXJDcQhE4YfeNuG"
-    },
-    {
-      "added_at": "2022-06-24 03:00:00",
-      "album": {
-        "name": "~how i'm feeling~ (the extras)",
-        "url": "https://open.spotify.com/album/0j7Q3C3tCmIMWypKRNJLHn"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 252681,
-      "name": "Modern Loneliness - acoustic",
-      "url": "https://open.spotify.com/track/4VXjf6WI5kVVE7DpUcy85p"
+      "duration_ms": 220839,
+      "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/5pcjystBtalYeqaiXCcgEY"
     },
     {
       "added_at": "2022-06-24 03:00:00",
@@ -1223,34 +1111,114 @@
     {
       "added_at": "2022-06-24 03:00:00",
       "album": {
-        "name": "Homework Part 1",
-        "url": "https://open.spotify.com/album/1oeQryPTvkNIr90wRPrkaZ"
+        "name": "Love Is Weird",
+        "url": "https://open.spotify.com/album/1T8KRFCNKdGg1E9BSbBDwq"
       },
       "artists": [
         {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
         }
       ],
-      "duration_ms": 212953,
-      "name": "The Usual",
-      "url": "https://open.spotify.com/track/2BypOWlak6LbJ2raGGzukY"
+      "duration_ms": 150393,
+      "name": "Love Is Weird",
+      "url": "https://open.spotify.com/track/4vBeG83Hjl2qJspRcTLiz5"
     },
     {
       "added_at": "2022-06-24 03:00:00",
       "album": {
-        "name": "London Is Lonely",
-        "url": "https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG"
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z"
       },
       "artists": [
         {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
         }
       ],
-      "duration_ms": 234760,
-      "name": "London Is Lonely",
-      "url": "https://open.spotify.com/track/5dXiKFepHXZktud7z5635H"
+      "duration_ms": 243186,
+      "name": "Quite Miss Home",
+      "url": "https://open.spotify.com/track/2deFH5zveEBEUuURpqTN3C"
+    },
+    {
+      "added_at": "2022-06-24 03:00:00",
+      "album": {
+        "name": "A Concert Six Months From Now",
+        "url": "https://open.spotify.com/album/0tivTdbZdEUeC4NvXnle3J"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 205286,
+      "name": "A Concert Six Months From Now",
+      "url": "https://open.spotify.com/track/1FaXNkTPTe6k8mCCi6OVbh"
+    },
+    {
+      "added_at": "2022-06-24 03:00:00",
+      "album": {
+        "name": "All Fall Down",
+        "url": "https://open.spotify.com/album/0p6mdiaKAjYCS3uX4VL1rT"
+      },
+      "artists": [
+        {
+          "name": "Travis",
+          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+        }
+      ],
+      "duration_ms": 207533,
+      "name": "All Fall Down",
+      "url": "https://open.spotify.com/track/2vl3iQZmJZ2Ztz3USIUHCH"
+    },
+    {
+      "added_at": "2022-06-24 03:00:00",
+      "album": {
+        "name": "Unloving You",
+        "url": "https://open.spotify.com/album/0eljMEeLbmyj77sh2fzo4j"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 153863,
+      "name": "Unloving You",
+      "url": "https://open.spotify.com/track/2w9nvs1ByWUGkED4M0ug34"
+    },
+    {
+      "added_at": "2022-06-24 03:00:00",
+      "album": {
+        "name": "Let Me Love You Like A Woman",
+        "url": "https://open.spotify.com/album/6yEZH1HexM9sqOX34qUE4u"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 200661,
+      "name": "Let Me Love You Like A Woman",
+      "url": "https://open.spotify.com/track/4HvE2E9rXJDcQhE4YfeNuG"
+    },
+    {
+      "added_at": "2022-06-24 03:00:00",
+      "album": {
+        "name": "No Right To Love You",
+        "url": "https://open.spotify.com/album/2PHYCXNyJ7PHMa2GriKzUW"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 238066,
+      "name": "No Right To Love You",
+      "url": "https://open.spotify.com/track/4SHJLxcRicQyT42jG95Y5u"
     },
     {
       "added_at": "2022-06-24 03:00:00",
@@ -1271,18 +1239,66 @@
     {
       "added_at": "2022-06-24 03:00:00",
       "album": {
-        "name": "Unloving You",
-        "url": "https://open.spotify.com/album/0eljMEeLbmyj77sh2fzo4j"
+        "name": "~how i'm feeling~ (the extras)",
+        "url": "https://open.spotify.com/album/0j7Q3C3tCmIMWypKRNJLHn"
       },
       "artists": [
         {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
         }
       ],
-      "duration_ms": 153863,
-      "name": "Unloving You",
-      "url": "https://open.spotify.com/track/2w9nvs1ByWUGkED4M0ug34"
+      "duration_ms": 252681,
+      "name": "Modern Loneliness - acoustic",
+      "url": "https://open.spotify.com/track/4VXjf6WI5kVVE7DpUcy85p"
+    },
+    {
+      "added_at": "2022-06-24 03:00:00",
+      "album": {
+        "name": "Crocodiles",
+        "url": "https://open.spotify.com/album/6cLS5tRoyiw8U6lH1Zc4UX"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "duration_ms": 240065,
+      "name": "Crocodiles",
+      "url": "https://open.spotify.com/track/03pMITmL4qouGlrfTAhX9W"
+    },
+    {
+      "added_at": "2022-06-24 03:00:00",
+      "album": {
+        "name": "Homework Part 1",
+        "url": "https://open.spotify.com/album/1oeQryPTvkNIr90wRPrkaZ"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "duration_ms": 212953,
+      "name": "The Usual",
+      "url": "https://open.spotify.com/track/2BypOWlak6LbJ2raGGzukY"
+    },
+    {
+      "added_at": "2022-06-24 03:00:00",
+      "album": {
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
     },
     {
       "added_at": "2022-06-24 03:00:00",
@@ -1319,18 +1335,18 @@
     {
       "added_at": "2022-06-24 03:00:00",
       "album": {
-        "name": "Glimpse of Us",
-        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
+        "name": "London Is Lonely",
+        "url": "https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG"
       },
       "artists": [
         {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         }
       ],
-      "duration_ms": 233456,
-      "name": "Glimpse of Us",
-      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
+      "duration_ms": 234760,
+      "name": "London Is Lonely",
+      "url": "https://open.spotify.com/track/5dXiKFepHXZktud7z5635H"
     },
     {
       "added_at": "2022-06-24 03:00:00",
@@ -1351,22 +1367,6 @@
       "duration_ms": 198171,
       "name": "Blessed & Free",
       "url": "https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l"
-    },
-    {
-      "added_at": "2022-06-24 03:00:00",
-      "album": {
-        "name": "Crocodiles",
-        "url": "https://open.spotify.com/album/6cLS5tRoyiw8U6lH1Zc4UX"
-      },
-      "artists": [
-        {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
-        }
-      ],
-      "duration_ms": 240065,
-      "name": "Crocodiles",
-      "url": "https://open.spotify.com/track/03pMITmL4qouGlrfTAhX9W"
     },
     {
       "added_at": "2022-06-24 03:00:00",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2022-06-24 03:00:00",
       "album": {
-        "name": "My Eyes Only",
-        "url": "https://open.spotify.com/album/1VChtX56VENbyIyKw0NP19"
+        "name": "Green",
+        "url": "https://open.spotify.com/album/2sUvtzlszdzLwOfr0JNzbr"
       },
       "artists": [
         {
-          "name": "Precious Pepala",
-          "url": "https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1"
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
         }
       ],
-      "duration_ms": 194545,
-      "name": "My Eyes Only",
-      "url": "https://open.spotify.com/track/2iD1Ogu3Mck9MuMKIgIBVG"
+      "duration_ms": 180719,
+      "name": "Green",
+      "url": "https://open.spotify.com/track/5zRaUIOZy6XMrdcDPkCZSX"
     },
     {
       "added_at": "2022-06-24 03:00:00",
@@ -1479,82 +1479,18 @@
     {
       "added_at": "2022-06-24 03:00:00",
       "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/2sUvtzlszdzLwOfr0JNzbr"
+        "name": "My Eyes Only",
+        "url": "https://open.spotify.com/album/1VChtX56VENbyIyKw0NP19"
       },
       "artists": [
         {
-          "name": "MAY-A",
-          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+          "name": "Precious Pepala",
+          "url": "https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1"
         }
       ],
-      "duration_ms": 180719,
-      "name": "Green",
-      "url": "https://open.spotify.com/track/5zRaUIOZy6XMrdcDPkCZSX"
-    },
-    {
-      "added_at": "2022-06-24 03:00:00",
-      "album": {
-        "name": "All Love Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/2PKQcwEl6dvMbu4mfz8yUF"
-      },
-      "artists": [
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Other Side",
-      "url": "https://open.spotify.com/track/20LfGhxnRtlpfaYKv0hhs2"
-    },
-    {
-      "added_at": "2022-06-24 03:00:00",
-      "album": {
-        "name": "Lost Without You",
-        "url": "https://open.spotify.com/album/0GNvEDf1HoEeYk6RBXxpn7"
-      },
-      "artists": [
-        {
-          "name": "Freya Ridings",
-          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
-        }
-      ],
-      "duration_ms": 225076,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/3QlF2ExmrRP0RM7ffv7y0Q"
-    },
-    {
-      "added_at": "2022-06-24 03:00:00",
-      "album": {
-        "name": "Devil On My Shoulder",
-        "url": "https://open.spotify.com/album/1ZSDwevftMUQ8SqGx6clvZ"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
-        }
-      ],
-      "duration_ms": 212493,
-      "name": "Devil On My Shoulder",
-      "url": "https://open.spotify.com/track/1jLUaPGjk5zwV9kXUt4Jt1"
-    },
-    {
-      "added_at": "2022-06-24 03:00:00",
-      "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 197453,
-      "name": "Petrified",
-      "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
+      "duration_ms": 194545,
+      "name": "My Eyes Only",
+      "url": "https://open.spotify.com/track/2iD1Ogu3Mck9MuMKIgIBVG"
     },
     {
       "added_at": "2022-06-24 03:00:00",
@@ -1575,6 +1511,54 @@
     {
       "added_at": "2022-06-24 03:00:00",
       "album": {
+        "name": "All Love Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/2PKQcwEl6dvMbu4mfz8yUF"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Other Side",
+      "url": "https://open.spotify.com/track/20LfGhxnRtlpfaYKv0hhs2"
+    },
+    {
+      "added_at": "2022-06-24 03:00:00",
+      "album": {
+        "name": "Devil On My Shoulder",
+        "url": "https://open.spotify.com/album/1ZSDwevftMUQ8SqGx6clvZ"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "duration_ms": 212493,
+      "name": "Devil On My Shoulder",
+      "url": "https://open.spotify.com/track/1jLUaPGjk5zwV9kXUt4Jt1"
+    },
+    {
+      "added_at": "2022-06-24 03:00:00",
+      "album": {
+        "name": "Lost Without You",
+        "url": "https://open.spotify.com/album/0GNvEDf1HoEeYk6RBXxpn7"
+      },
+      "artists": [
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        }
+      ],
+      "duration_ms": 225076,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/3QlF2ExmrRP0RM7ffv7y0Q"
+    },
+    {
+      "added_at": "2022-06-24 03:00:00",
+      "album": {
         "name": "Better Than We Found It",
         "url": "https://open.spotify.com/album/4DI81D0NrKjNh88p7qusbC"
       },
@@ -1591,18 +1575,18 @@
     {
       "added_at": "2022-06-24 03:00:00",
       "album": {
-        "name": "Self Sabotage",
-        "url": "https://open.spotify.com/album/1lGuRcwJrSPtneek0Vz7W1"
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
       "artists": [
         {
-          "name": "Abe Parker",
-          "url": "https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES"
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
         }
       ],
-      "duration_ms": 183300,
-      "name": "Self Sabotage",
-      "url": "https://open.spotify.com/track/60YeZiwow3kKAPvfyolXn6"
+      "duration_ms": 197453,
+      "name": "Petrified",
+      "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
     },
     {
       "added_at": "2022-06-24 03:00:00",
@@ -1619,6 +1603,22 @@
       "duration_ms": 302894,
       "name": "Hindenburg Lover",
       "url": "https://open.spotify.com/track/7c1oZvy31JERjS66gsmdQA"
+    },
+    {
+      "added_at": "2022-06-24 03:00:00",
+      "album": {
+        "name": "Self Sabotage",
+        "url": "https://open.spotify.com/album/1lGuRcwJrSPtneek0Vz7W1"
+      },
+      "artists": [
+        {
+          "name": "Abe Parker",
+          "url": "https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES"
+        }
+      ],
+      "duration_ms": 183300,
+      "name": "Self Sabotage",
+      "url": "https://open.spotify.com/track/60YeZiwow3kKAPvfyolXn6"
     },
     {
       "added_at": "2022-06-24 03:00:00",

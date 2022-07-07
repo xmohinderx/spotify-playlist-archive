@@ -2,7 +2,7 @@
 
 ### [Written By Hananiel Eduardo](https://open.spotify.com/playlist/37i9dQZF1EFFhg9UVfjzNc)
 
-> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2JRW3jis8XpwJlqecAV4Id">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
+> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2JRW3jis8XpwJlqecAV4Id">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
 48 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/4WudXIoTmjglNeW2dnfr06)
 

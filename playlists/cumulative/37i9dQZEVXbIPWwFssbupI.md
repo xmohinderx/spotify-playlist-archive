@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-866 songs - 1 day 22 hr 53 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
+867 songs - 1 day 22 hr 56 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,7 +319,7 @@
 | [Girls Like Us](https://open.spotify.com/track/5SFXOMJJ334Wn2PwBHeRZN) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Girls Like Us](https://open.spotify.com/album/5boy0Dm6JWz7YP8yIWdiyg) | 3:09 | 2021-04-17 | 2021-06-27 |
 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 | 2021-09-05 | 2021-09-19 |
 | [GJS \(feat\. Jul & SCH\)](https://open.spotify.com/track/4kfjlrD1hs7VE1dXVM091S) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [LE FLÉAU](https://open.spotify.com/album/60Lzu25iIgDBuLDETdzjIh) | 4:07 | 2021-04-07 | 2021-04-16 |
-| [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-21 |  |
+| [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-21 | 2022-07-07 |
 | [God Breathed](https://open.spotify.com/track/1dPNJDYuW9QAtkOpK3eBvO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:33 | 2021-08-31 | 2021-09-02 |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2021-05-23 | 2021-10-20 |
 | [Goosebumps \(feat\. Hamza\)](https://open.spotify.com/track/1G59Rj6KVUQcI0zaLn5Vqr) | [Larry](https://open.spotify.com/artist/0YqeL4iGLLNiwRXZvew1TM), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Petit Prince](https://open.spotify.com/album/3EaqLTaWfbOcsztJg8DluS) | 3:09 | 2021-10-31 | 2021-10-31 |
@@ -605,6 +605,7 @@
 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-10 |
 | [Outro](https://open.spotify.com/track/0rLLENEBErAJjcTFTnQxhq) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:35 | 2021-12-05 | 2022-01-14 |
 | [P A S C O M M E Ç A](https://open.spotify.com/track/2t5YWn2kJJqJDOihrvxXiq) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/07z16PvEuSgcw5wIlYgeon) | 2:58 | 2021-11-21 | 2021-11-22 |
+| [Pablo](https://open.spotify.com/track/0KifVydMFjrwl53BPjhS0o) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Pablo](https://open.spotify.com/album/1pU0VS9klvCOCdoEkjQfOW) | 3:07 | 2022-07-06 |  |
 | [Pandémie](https://open.spotify.com/track/5FHewCm87pZHevn3wc1zDp) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 2:34 | 2022-02-05 | 2022-02-18 |
 | [Panorama](https://open.spotify.com/track/5ZoDjOBNGlXo6X66mm9TeQ) | [Jazzy Bazz](https://open.spotify.com/artist/0cMsSWXCY2Wag16luxN6fL), [Alpha Wann](https://open.spotify.com/artist/7yeFMUrYTY5cAZx0GKXnti) | [Memoria](https://open.spotify.com/album/4ocMBARU5In7WQpVoT9OPv) | 2:41 | 2022-01-22 | 2022-01-27 |
 | [Papi’s Home](https://open.spotify.com/track/6jy9yJfgCsMHdu2Oz4BGKX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 2:58 | 2021-09-05 | 2021-09-09 |

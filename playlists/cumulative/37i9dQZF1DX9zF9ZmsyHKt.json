@@ -107,7 +107,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 277677,
       "name": "A Mulher do Fim do Mundo",
       "url": "https://open.spotify.com/track/6sbT0r4zqYl0FTK0YcmmWq"
@@ -165,7 +165,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 179987,
       "name": "Acabou",
       "url": "https://open.spotify.com/track/0kyrKozPm9P5jbQhSvr9Ir"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 151304,
       "name": "Amor e Paz",
       "url": "https://open.spotify.com/track/0LHKT3P0wMRL8zD4V7BAEb"
@@ -751,7 +751,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 170933,
       "name": "Clareana",
       "url": "https://open.spotify.com/track/6QhseSwPVZ4QEusjnrCx9C"
@@ -803,7 +803,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 248946,
       "name": "Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3oIe9L4v2pHOnk5wUJECZG"
@@ -839,10 +839,32 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 187986,
       "name": "Cunhataipor\u00e3",
       "url": "https://open.spotify.com/track/3TzN21WzwMq73UdAwM8SaT"
+    },
+    {
+      "album": {
+        "name": "Setenta Vezes Sete",
+        "url": "https://open.spotify.com/album/2Mxe3iJpNa7pjcTG3e3gED"
+      },
+      "artists": [
+        {
+          "name": "NaBrisa",
+          "url": "https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c"
+        },
+        {
+          "name": "Samantha Machado",
+          "url": "https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191033,
+      "name": "C\u00e9u Azul",
+      "url": "https://open.spotify.com/track/6vujCNtjd9nJoj4xbEN7cR"
     },
     {
       "album": {
@@ -1197,7 +1219,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 172920,
       "name": "Escalafob\u00e9tica",
       "url": "https://open.spotify.com/track/019mxjbmWqoWHrBG2hiyG0"
@@ -1219,7 +1241,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Espia Escuta (Badsista Remix)",
       "url": "https://open.spotify.com/track/1TDNfarLxPCLVe7Qjm8YQ6"
@@ -1237,7 +1259,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 161966,
       "name": "Esquema",
       "url": "https://open.spotify.com/track/3ys5QgBxPRSIthnJOVw05m"
@@ -1309,7 +1331,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 217756,
       "name": "Eu Me Lembro",
       "url": "https://open.spotify.com/track/5V5yANPr6BTgo11cztb1YQ"
@@ -1505,7 +1527,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 178304,
       "name": "Garota Ligeira",
       "url": "https://open.spotify.com/track/1ceOQ6Xoy2Pt08CF88G4ef"
@@ -1589,7 +1611,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 201904,
       "name": "Infiel - Ao Vivo",
       "url": "https://open.spotify.com/track/38MpAndIjGAyVdcC6npX95"
@@ -1705,7 +1727,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 181413,
       "name": "Lisboa",
       "url": "https://open.spotify.com/track/49eJct0XAKWtl0Cicj64Xg"
@@ -1723,7 +1745,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 159000,
       "name": "Louca",
       "url": "https://open.spotify.com/track/40taoSSjzKnymwcc5NJVOj"
@@ -1799,7 +1821,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 242826,
       "name": "Mansa F\u00faria",
       "url": "https://open.spotify.com/track/1VFJEWFWqEXxScCboBMpBu"
@@ -1853,7 +1875,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 186042,
       "name": "Me Toca",
       "url": "https://open.spotify.com/track/2uSeVS09DW8FnBgc61eHDW"
@@ -1871,7 +1893,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 174920,
       "name": "Medo Bobo - Ao Vivo",
       "url": "https://open.spotify.com/track/2CW04trIoYMbroZWDzPAjs"
@@ -1889,7 +1911,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 150026,
       "name": "menina solta",
       "url": "https://open.spotify.com/track/2MOq63fxuFLYQM3CsDcFs1"
@@ -2027,7 +2049,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 251135,
       "name": "Muito Tempo \u00c9 Pouco",
       "url": "https://open.spotify.com/track/36Jj3HligzIUyAjdYKdojp"
@@ -2085,7 +2107,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 216493,
       "name": "Musa da Babilo\u0302nia",
       "url": "https://open.spotify.com/track/6RiNKcMoJlHVPrRag1bL5F"
@@ -2125,7 +2147,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 188613,
       "name": "Nan\u00e3",
       "url": "https://open.spotify.com/track/3VAWBQtMV10ImXFG3AxH42"
@@ -2161,7 +2183,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 412653,
       "name": "Negra\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3DHnnCFza1q78OWl5uSNG9"
@@ -2215,7 +2237,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 250226,
       "name": "Nuvem de L\u00e1grimas",
       "url": "https://open.spotify.com/track/5VRNQc6Z0YNemIvOrD1h2e"
@@ -2233,7 +2255,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 205880,
       "name": "Nuvens no Jardim",
       "url": "https://open.spotify.com/track/5Q2khrcPlrhXKeGTSQbDsX"
@@ -2305,7 +2327,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 147266,
       "name": "O Sangue N\u00e3o Nega",
       "url": "https://open.spotify.com/track/0ZO4z16mEUHjDOSP2xbcva"
@@ -2387,7 +2409,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 239669,
       "name": "Ora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2OuCkfX39Geg49wLwjsQ9z"
@@ -2477,7 +2499,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 212400,
       "name": "Para Ver As Meninas",
       "url": "https://open.spotify.com/track/28EjuwJtnVkjYswHp9QYWl"
@@ -2633,7 +2655,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 218751,
       "name": "Pra Te Lembrar",
       "url": "https://open.spotify.com/track/3Qa4kqmlMWQystxuGSuCLu"
@@ -2651,7 +2673,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 194435,
       "name": "Preta D+",
       "url": "https://open.spotify.com/track/6B4JJDWsi2ZidPnJdnI34j"
@@ -2687,7 +2709,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 179984,
       "name": "Preta Yay\u00e1",
       "url": "https://open.spotify.com/track/03qTAMPItMT28HKF3n1Dqa"
@@ -2705,7 +2727,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 142688,
       "name": "Pretinha",
       "url": "https://open.spotify.com/track/7je9C6BHE0INoq8sXYnp4g"
@@ -2879,7 +2901,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 142875,
       "name": "Revolu\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/7BTez0nqibDfjSJsIBBEJj"
@@ -2973,7 +2995,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 181099,
       "name": "Se Eu Pudesse Escolher",
       "url": "https://open.spotify.com/track/7fQvuW1oK3yVrcms3N6Jgf"
@@ -3027,7 +3049,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 212401,
       "name": "Sem Mentir",
       "url": "https://open.spotify.com/track/29o3BuxMMGbAxDJ9xsFOoF"
@@ -3081,7 +3103,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 178000,
       "name": "Suave Veneno",
       "url": "https://open.spotify.com/track/2k2BtYRni9BvDHXAMUFABR"
@@ -3165,7 +3187,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 221253,
       "name": "S\u00f3 Sei Dan\u00e7ar Com Voc\u00ea",
       "url": "https://open.spotify.com/track/5Y1mguQcl8TbHgS12atuVy"
@@ -3205,7 +3227,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 140357,
       "name": "Tara",
       "url": "https://open.spotify.com/track/3L2jWpewWy9hikCHeawbJW"
@@ -3241,7 +3263,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 238973,
       "name": "Toda Humanidade Nasceu de uma Mulher",
       "url": "https://open.spotify.com/track/5EttHhNNQuQTbW6I8OPZC9"
@@ -3429,7 +3451,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 155328,
       "name": "Voc\u00ea N\u00e3o Vai Passar",
       "url": "https://open.spotify.com/track/3oPcOAOpAPMaC86TqYHRWI"
@@ -3505,7 +3527,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 226243,
       "name": "X",
       "url": "https://open.spotify.com/track/0yxu73Lfmnu96II1VxvpfQ"
@@ -3523,7 +3545,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 201840,
       "name": "\u00c9 Isso A\u00ed",
       "url": "https://open.spotify.com/track/47djwMo5LjilxB20Aix1M2"

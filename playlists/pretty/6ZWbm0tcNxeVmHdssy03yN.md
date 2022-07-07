@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 32,413 likes - 100 songs - 5 hr 27 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 32,443 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 20 | [1\-2 many](https://open.spotify.com/track/3PJ0DfFRIR024NdCcLsqhz) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu), [Skeez](https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG) | [1\-2 many](https://open.spotify.com/album/4IUxwesBp887oEfXKHwIRa) | 2:12 |
 | 21 | [Sarava Ogum](https://open.spotify.com/track/5A32Mdfm18PuTxGOgSzTZ9) | [Prettos](https://open.spotify.com/artist/7htTHUkgfSZeRhK6pqMLHB), [Maurilio de Oliveira](https://open.spotify.com/artist/5DM4yO0oJhBI392KIInTu6), [Magnu Sousá](https://open.spotify.com/artist/2eN5C7mT6TLPTxdIG9DiRP) | [Axé, Fogo](https://open.spotify.com/album/3FdvjlGwl23sYruS06tBCv) | 4:16 |
 | 22 | [All Love, No Hate](https://open.spotify.com/track/7B40Wyl3xMf9FpU6jUkDWT) | [Jiya Noina](https://open.spotify.com/artist/5rmYAIq4ong7rSgH6XKtQs) | [All Love, No Hate](https://open.spotify.com/album/1zdVTiNSTT1tsyDvaqXFxX) | 3:00 |
-| 23 | [Sindi](https://open.spotify.com/track/1IhSCwz4W6xlUz3CWDrlr2) | [Gracenote](https://open.spotify.com/artist/4mrrcDjpjUq27YEGwlisgs) | [Sindi](https://open.spotify.com/album/4J2hRAnes2qSnPu1f2UI8x) | 4:38 |
+| 23 | [Sindi](https://open.spotify.com/track/1IhSCwz4W6xlUz3CWDrlr2) | [Gracenote](https://open.spotify.com/artist/4mrrcDjpjUq27YEGwlisgs) | [Sindi](https://open.spotify.com/album/4J2hRAnes2qSnPu1f2UI8x) | 4:39 |
 | 24 | [Kailan Magiging Isa](https://open.spotify.com/track/40UCyXt4DoWMOo7OtyOVHa) | [Jilla](https://open.spotify.com/artist/04XH34KBet1mZhlaklTnoc), [Crack Thy Sound](https://open.spotify.com/artist/4mB9kP8OxJ3kmpNUJM6aQO) | [Kailan Magiging Isa](https://open.spotify.com/album/1g6inZkElwrTmHFNwh8UVl) | 4:11 |
 | 25 | [Heist](https://open.spotify.com/track/2HTmvgJFvvjxwThEZNokUT) | [December Streets](https://open.spotify.com/artist/60oeRht0NXwELSxJNhQw7v) | [Heist](https://open.spotify.com/album/3bGSFsl256V64GFl5FyTAt) | 2:26 |
 | 26 | [Hard Feelings](https://open.spotify.com/track/2ECtHKXqVGcvgNcjJ0OwYE) | [loyalties](https://open.spotify.com/artist/4bKUAe1VLjBB1W0SmfHjhG), [Mr\. Carter Davis](https://open.spotify.com/artist/6Vp9Q8MOsG9bntHeyW8y22) | [Hard Feelings](https://open.spotify.com/album/4H9fegM1nJ0Gpotwgn0VUS) | 3:14 |

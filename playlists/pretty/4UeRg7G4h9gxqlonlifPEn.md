@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4UeRg7G4h9gxqlonlifPEn.md) - [plain]
 
 > From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. Cover: Skillibeing, Fivio Foreign, French Montana
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 40,855 likes - 100 songs - 4 hr 47 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 40,851 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/4UeRg7G4h9gxqlonlifPEn.md) - [plain]
 | 29 | [Riot](https://open.spotify.com/track/3WjZJKJGwO4xNAbTXdy5jS) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Riot](https://open.spotify.com/album/6JzElRQ0MHpuZ4UrzH1Poc) | 2:24 |
 | 30 | [Booty \(feat\. Latto\)](https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Booty \(feat\. Latto\)](https://open.spotify.com/album/3JLGu56kAsK7LO8fZ1vCwF) | 2:26 |
 | 31 | [Gravity](https://open.spotify.com/track/59QZZyiKJmpEqrOJMDtejn) | [Day Sulan](https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk) | [Gravity](https://open.spotify.com/album/2C5UwRPN346EZUaChnKmYu) | 2:14 |
-| 32 | [DRIP \(feat\. E\-40 & OHGEESY\)](https://open.spotify.com/track/6b6jyIRJra0eLwy7NnAo3u) | [D3szn](https://open.spotify.com/artist/3XUSSPMccIhcVTQ2kOHJPn), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [DRIP \(feat\. E\-40 & OHGEESY\)](https://open.spotify.com/album/55jywlPHXDY7BPQtEL2tbZ) | 2:57 |
+| 32 | [DRIP \(feat\. E\-40 & OHGEESY\)](https://open.spotify.com/track/6b6jyIRJra0eLwy7NnAo3u) | [D3szn](https://open.spotify.com/artist/3XUSSPMccIhcVTQ2kOHJPn), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF) | [DRIP \(feat\. E\-40 & OHGEESY\)](https://open.spotify.com/album/55jywlPHXDY7BPQtEL2tbZ) | 2:57 |
 | 33 | [Dog Eat Dog \(feat\. Duke Deuce\) \- DJ Snake Remix](https://open.spotify.com/track/49uT6cp7GWk8GKnGOdPA1Q) | [YehMe2](https://open.spotify.com/artist/3kvnhwUU4VSXQqr2r9j6OO), [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Dog Eat Dog \(feat\. Duke Deuce\) \[DJ Snake Remix\]](https://open.spotify.com/album/2bw7vBbFofWHpK4nhGbTqu) | 2:36 |
 | 34 | [For Nothin](https://open.spotify.com/track/1xkWTMhUSaeS4Zv9AhKhIn) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [B.I.B.L.E.](https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP) | 2:07 |
 | 35 | [Wheelie \(feat\. 21 Savage\)](https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Wheelie \(feat\. 21 Savage\)](https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag) | 2:50 |

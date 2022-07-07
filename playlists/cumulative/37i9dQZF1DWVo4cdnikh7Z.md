@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Vikram
 
-119 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/3lJTsYcdZXxaz1Tx9gEyN0)
+120 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/3lJTsYcdZXxaz1Tx9gEyN0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Kurumugil \(From "Sita Ramam \(Tamil\)"\)](https://open.spotify.com/track/5e2eJl3qNNGWllzSFCYrad) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Sai Vignesh](https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS) | [Kurumugil \[From "Sita Ramam \(Tamil\)"\]](https://open.spotify.com/album/3QbblpY2hZM0cEhAs3baV7) | 3:38 | 2022-07-05 |  |
 | [Liger Hunt Teaser \(Tamil\) \[From "Liger \(Tamil\)"\]](https://open.spotify.com/track/3EUkkg4BjP6cIvtnqq8o5D) | [Vikram Montrose](https://open.spotify.com/artist/0aXLGxJ65wok0y1bVG6flg), [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [Liger Hunt Teaser \(Tamil\) \[From "Liger \(Tamil\)"\]](https://open.spotify.com/album/4XlGrUz9B0jECsmyq4OQjL) | 1:31 | 2022-05-09 | 2022-05-31 |
 | [Little Little](https://open.spotify.com/track/6Crs0KY6mHL9e1YEKNYUAl) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Sharanya Srinivas](https://open.spotify.com/artist/26tzHBE89rz5MSLeSi3qsB) | [Galatta Kalyaanam](https://open.spotify.com/album/4gAUrEjPH7kC6Hwtnx5uhj) | 4:17 | 2022-02-08 | 2022-06-07 |
+| [Lullaby Song \- Rajkumari \(From "Vikrant Rona"\)](https://open.spotify.com/track/1DAAajIAiljAmVstVAoCQa) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Lullaby Song \- Rajkumari \(From "Vikrant Rona"\)](https://open.spotify.com/album/2H7d1c7VjXwxriGbs8KRvN) | 3:25 | 2022-07-06 |  |
 | [Maarum Uravae](https://open.spotify.com/track/2nS0jol49JSjlzfnSA63P9) | [Jhanu Chanthar](https://open.spotify.com/artist/2d1GlRGkn54i5fu2zI5rnc), [Deepika Karthik Kumar](https://open.spotify.com/artist/2sfp5peTjnYirVH3PJQIlM) | [Vezham \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0SD4vZliEXuuBk6RpMZbqr) | 4:00 | 2022-06-15 | 2022-06-29 |
 | [Maaya Ganga \(From "Banaras"\)](https://open.spotify.com/track/01rlztQ3XDNmUaSW4Wo94x) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Maaya Ganga \(From "Banaras"\)](https://open.spotify.com/album/4C9GKDMaIPSTWT446rKffN) | 4:35 | 2022-06-30 |  |
 | [Maayakari](https://open.spotify.com/track/7sKeH5mCZs8JhHA22PHqfD) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144), [Bombay Jayashri](https://open.spotify.com/artist/5OTt6O4Q22YsqZDaWV6FqC) | [The Legend \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0xndkcSdl91YAkkA1BK80N) | 4:42 | 2022-05-31 | 2022-06-10 |

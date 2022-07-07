@@ -2,7 +2,7 @@
 
 ### [Sleep in the Rainforest](https://open.spotify.com/playlist/37i9dQZF1DWWSads6V2oIk)
 
-> Let the sounds of the rainforest calm you.
+> Tropical nature sounds for bedtime.
 
 69 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/5qGOCPTUCmrfcxabhbrBSK)
 

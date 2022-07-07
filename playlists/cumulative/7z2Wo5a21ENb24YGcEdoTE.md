@@ -4,7 +4,7 @@
 
 > 
 
-50 songs - 3 hr 3 min - [published](https://open.spotify.com/playlist/5HOobu9gCDZ9Vx1bgYJ7g1)
+50 songs - 3 hr 9 min - [published](https://open.spotify.com/playlist/5HOobu9gCDZ9Vx1bgYJ7g1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Everybody Talks](https://open.spotify.com/track/5JGxJFdgOQdJZdmyEzDtTj) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Everybody Talks](https://open.spotify.com/album/1YcrOSpxttHMER7xHivryA) | 2:59 | 2013-06-27 |  |
 | [Feel So Close \- Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:26 | 2013-06-27 |  |
 | [Gangnam Style \(강남스타일\)](https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Gangnam Style \(강남스타일\)](https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99) | 3:39 | 2013-06-27 |  |
-| [Give Your Heart a Break](https://open.spotify.com/track/3sP3c86WFjOzHHnbhhZcLA) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Unbroken](https://open.spotify.com/album/1ypH0eU9RcE6wngSGSqmeY) | 0:29 | 2013-06-27 |  |
+| [Give Your Heart a Break](https://open.spotify.com/track/3sP3c86WFjOzHHnbhhZcLA) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Unbroken](https://open.spotify.com/album/1ypH0eU9RcE6wngSGSqmeY) | 3:25 | 2013-06-27 |  |
 | [Glad You Came](https://open.spotify.com/track/1OXfWI3FQMdsKKC6lkvzSx) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [Glad You Came](https://open.spotify.com/album/2ZmXUoLcHfK4Y7WctcYk60) | 3:18 | 2013-06-27 |  |
 | [Good Feeling](https://open.spotify.com/track/3NcO4jGK1Opb5ea0mYLpxb) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Good Feeling](https://open.spotify.com/album/19JqA8H10co29VVwazL2Gw) | 4:08 | 2013-06-27 |  |
 | [Good Time](https://open.spotify.com/track/02GjIfCpwttPAikjm5Hwcb) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Good Time](https://open.spotify.com/album/6eTUdRcRan6CLK6s3g5YlH) | 3:26 | 2013-06-27 |  |
@@ -43,7 +43,7 @@
 | [Starships](https://open.spotify.com/track/59RSrxkSKSixEWBAIvE5Wa) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday ..\. Roman Reloaded \(Deluxe\)](https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8) | 3:30 | 2013-06-27 |  |
 | [Stronger \(What Doesn't Kill You\)](https://open.spotify.com/track/6D60klaHqbCl9ySc8VcRss) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stronger \(Deluxe Version\)](https://open.spotify.com/album/1MNvMtEmMMdBXZBDcFNcWj) | 3:41 | 2013-06-27 |  |
 | [Take Care](https://open.spotify.com/track/4wTMBYRE6xVTIUQ6fEudsJ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Take Care \(Deluxe\)](https://open.spotify.com/album/63WdJvk8G9hxJn8u5rswNh) | 4:37 | 2013-06-27 |  |
-| [The Motto](https://open.spotify.com/track/49ySwzAyvxcNXOkOP6ZB1L) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [The Motto \(Explicit Version\)](https://open.spotify.com/album/4yyKZOy1Nq9DPfzf5O4Hpg) | 0:29 | 2013-06-27 |  |
+| [The Motto](https://open.spotify.com/track/49ySwzAyvxcNXOkOP6ZB1L) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [The Motto \(Explicit Version\)](https://open.spotify.com/album/4yyKZOy1Nq9DPfzf5O4Hpg) | 3:01 | 2013-06-27 |  |
 | [The One That Got Away](https://open.spotify.com/track/3oL3XRtkP1WVbMxf7dtTdu) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:47 | 2013-06-27 |  |
 | [Titanium \(feat\. Sia\)](https://open.spotify.com/track/77TT8Xvx637TpzV8kKGkUw) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Nothing but the Beat](https://open.spotify.com/album/08DAekBeqPRCsn3XHDwj6b) | 4:05 | 2013-06-27 |  |
 | [Too Close](https://open.spotify.com/track/4sK96UnGx3NjBaqvfTG2dm) | [Alex Clare](https://open.spotify.com/artist/5Tf4EH8tDvznnjULcFxkIl) | [The Lateness Of The Hour](https://open.spotify.com/album/074KCx8WkMnCKCpfaRiRlt) | 4:16 | 2013-06-27 |  |

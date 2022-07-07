@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-424 songs - 1 day 2 hr 2 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
+425 songs - 1 day 2 hr 6 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [better off without you](https://open.spotify.com/track/0ksFEsKtqtLPxIHC1wCAXi) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv), [瘦子E.SO](https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd) | [2622](https://open.spotify.com/album/4FsfJ4W3zxBFfkiBNUpdo6) | 3:12 | 2021-08-29 | 2021-10-21 |
 | [better off without you](https://open.spotify.com/track/1UT0LAyqX1t1ZQgNMpzseN) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv), [瘦子E.SO](https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd) | [better off without you](https://open.spotify.com/album/0gAANNaVhyaqc442mpsBGW) | 3:12 | 2021-07-04 | 2021-08-29 |
 | [Bluebirds](https://open.spotify.com/track/0eWMEFVZbjzFBELQf6yHT1) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [Bluebirds](https://open.spotify.com/album/2tvC3DVgiNasoVyIrnwmpi) | 5:35 | 2021-08-07 | 2021-08-15 |
-| [Bluebirds](https://open.spotify.com/track/72OKwsv9LDbvZ6D871W5cD) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [DEPART](https://open.spotify.com/album/14irQNOtPlopyjODP2SH8R) | 5:35 | 2021-08-15 |  |
+| [Bluebirds](https://open.spotify.com/track/72OKwsv9LDbvZ6D871W5cD) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [DEPART](https://open.spotify.com/album/14irQNOtPlopyjODP2SH8R) | 5:35 | 2021-08-15 | 2022-07-07 |
 | [Born Singer](https://open.spotify.com/track/1IthE5GNiRzFN5CVaCa445) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:58 | 2022-06-11 | 2022-06-13 |
 | [Breakdown](https://open.spotify.com/track/4JLeksr03qL1tugJ5x3Z0s) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [DEPART](https://open.spotify.com/album/14irQNOtPlopyjODP2SH8R) | 3:53 | 2022-07-04 | 2022-07-06 |
 | [Butter](https://open.spotify.com/track/2bgTY4UwhfBYhGT4HUYStN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Hotter, Sweeter, Cooler\)](https://open.spotify.com/album/1HnJKmB4P6Z8RBdLMWx18w) | 2:44 | 2021-06-10 | 2021-10-23 |
@@ -342,6 +342,7 @@
 | [我就想你](https://open.spotify.com/track/0Q35umX7SPX9perjjMfzCg) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [我就想你](https://open.spotify.com/album/7iDi0WJ1pZkwf35d6yjtAk) | 3:25 | 2021-09-09 | 2021-10-16 |
 | [我很好騙](https://open.spotify.com/track/5VJV7hZSVV81OrQN3VDmfM) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [我很好騙](https://open.spotify.com/album/7f0TsfTwdRaujau4u25Jsq) | 5:13 | 2021-04-16 | 2021-04-26 |
 | [我很好騙](https://open.spotify.com/track/69AvckyixY1AIGRYDZ1QnO) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [都是因為愛](https://open.spotify.com/album/642Wu4osR9HAqIC08z1YUg) | 5:13 | 2021-04-26 |  |
+| [我會在你身邊](https://open.spotify.com/track/6kplVLOTiWjNzYmAUvIh9F) | [Miu Chu](https://open.spotify.com/artist/06KOetaeFEz0gabCnqvCxz) | [女神Miu朱俐靜 存在的力量](https://open.spotify.com/album/2JhPdMVOASpHZ6ODdszwZy) | 4:41 | 2022-07-06 |  |
 | [我的癮](https://open.spotify.com/track/4YwM25LCXJserRoG8HYkuw) | [瘦子E.SO](https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd) | [我的癮](https://open.spotify.com/album/2HTA03q6dOdv9kTEvBYvIR) | 3:53 | 2022-02-09 | 2022-02-18 |
 | [我的癮](https://open.spotify.com/track/7Lq0fecuz5c86UbxQvjEua) | [瘦子E.SO](https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd) | [EARTHBOUND](https://open.spotify.com/album/3lHtaWlEUfb7unlRMyVx23) | 3:53 | 2022-02-17 | 2022-03-03 |
 | [我的菜](https://open.spotify.com/track/4MEppzv2w453mxG5ot8und) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y), [影子計劃 Shadow Project](https://open.spotify.com/artist/4uvymNV7TTy0q47wUKislL) | [Have A Nice Day](https://open.spotify.com/album/0JN2lwS7ZIwFWBgPSs23gF) | 4:00 | 2021-07-01 | 2021-07-15 |

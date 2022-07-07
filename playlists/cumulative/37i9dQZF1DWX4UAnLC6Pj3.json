@@ -376,6 +376,24 @@
     },
     {
       "album": {
+        "name": "Las Preferidas, Vol. 5 (En vivo)",
+        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245183,
+      "name": "Due\u00f1o De Ti - En vivo",
+      "url": "https://open.spotify.com/track/0QAxYBIRvhno4Fiv47pKDU"
+    },
+    {
+      "album": {
         "name": "Carteles",
         "url": "https://open.spotify.com/album/1c53AOH8tvbZb1mY3jpAHq"
       },
@@ -547,7 +565,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 253053,
       "name": "Esta Vez Soy Yo",
       "url": "https://open.spotify.com/track/6D9q9JuF13LSpuXE2U4Yar"
@@ -823,7 +841,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 177631,
       "name": "Me equivoqu\u00e9 en amarte",
       "url": "https://open.spotify.com/track/6qa5GVhxSmDsoJF5o8dnrt"
@@ -995,7 +1013,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 202160,
       "name": "No Es Lo Que Dices",
       "url": "https://open.spotify.com/track/2YGOwVow3IMJAOwVGAZeQW"
@@ -1013,7 +1031,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 143133,
       "name": "No Se Lo Deseo a Nadie",
       "url": "https://open.spotify.com/track/6KXVabUACAY7Z2GYpKTn8g"
@@ -1258,7 +1276,7 @@
     },
     {
       "album": {
-        "name": "Soldado Caido",
+        "name": "Soldado Ca\u00eddo",
         "url": "https://open.spotify.com/album/4dUfwpxtL9UyaZiNld8sSm"
       },
       "artists": [
@@ -1271,7 +1289,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 182686,
-      "name": "Soldado Caido",
+      "name": "Soldado Ca\u00eddo",
       "url": "https://open.spotify.com/track/2R0XLhQjJWkAz6kOniuyOs"
     },
     {
@@ -1490,6 +1508,24 @@
     },
     {
       "album": {
+        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182480,
+      "name": "Y Me Da Verg\u00fcenza",
+      "url": "https://open.spotify.com/track/3FR3GIiCGl3NzBYgbbpLJe"
+    },
+    {
+      "album": {
         "name": "Y Si Se Quiere Ir",
         "url": "https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc"
       },
@@ -1508,6 +1544,24 @@
     },
     {
       "album": {
+        "name": "Con Banda",
+        "url": "https://open.spotify.com/album/2525QjTlcuO1zaYoBCl1Z9"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171266,
+      "name": "Y T\u00fa - Ranchera",
+      "url": "https://open.spotify.com/track/5Pljff877u2k9o9lwoFUoL"
+    },
+    {
+      "album": {
         "name": "Ya Lo Pens\u00e9 Mejor",
         "url": "https://open.spotify.com/album/2P7P9QhqpOm961o6ptWUxc"
       },
@@ -1519,7 +1573,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 186305,
       "name": "Ya Lo Pens\u00e9 Mejor",
       "url": "https://open.spotify.com/track/3JNSvYlS3VnGJaaYbRmj2J"

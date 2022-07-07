@@ -237,7 +237,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 215356,
       "name": "Back In The Day",
       "url": "https://open.spotify.com/track/1SgUfsEz18JLCIlnvIhmFE"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 151188,
       "name": "Beat 100",
       "url": "https://open.spotify.com/track/5EA7xln4PDR0MMjVdg6gX5"
@@ -537,7 +537,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 180000,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/5TtScuQyPfQcuMZLTPMoj8"
@@ -581,7 +581,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 208000,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/53aDfowVZKHLzAzoT0iNPS"
@@ -833,7 +833,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 189858,
       "name": "Cycle",
       "url": "https://open.spotify.com/track/56Uah45lBpN5CcUtksDv8o"
@@ -1011,7 +1011,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 303160,
       "name": "Everybody Love",
       "url": "https://open.spotify.com/track/6iVl0KVT87kMRqYxAMstSN"
@@ -1453,7 +1453,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 248700,
       "name": "Happy Hour (feat. T-Pain)",
       "url": "https://open.spotify.com/track/39O9qxLezqqrmre1TPGRVu"
@@ -1547,7 +1547,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 203214,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/0zcRUprLKw7LtndkBurb3S"
@@ -1823,7 +1823,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 201868,
       "name": "Illusions",
       "url": "https://open.spotify.com/track/7KbAnSIxjZb8AXkMM1EfTG"
@@ -2461,7 +2461,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 328988,
       "name": "No BS",
       "url": "https://open.spotify.com/track/4evaB44maldA4OML15SHQk"
@@ -2639,7 +2639,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 183453,
       "name": "Paris, Texas",
       "url": "https://open.spotify.com/track/4HNeLKW804ajGc5h41GtHE"
@@ -2945,7 +2945,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 158048,
       "name": "Rise",
       "url": "https://open.spotify.com/track/6ZKs0LHSpN5fA17tA3lqIT"
@@ -3180,6 +3180,24 @@
     },
     {
       "album": {
+        "name": "Sock It 2 Me",
+        "url": "https://open.spotify.com/album/3SkBB3iH6FtsIx2PxqtO35"
+      },
+      "artists": [
+        {
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201802,
+      "name": "Sock It 2 Me",
+      "url": "https://open.spotify.com/track/50djZgba5gDPdYp7aJG57w"
+    },
+    {
+      "album": {
         "name": "Somebody Told Me",
         "url": "https://open.spotify.com/album/5nJ1fosTWsfTfkHKFbDHfk"
       },
@@ -3355,7 +3373,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 203000,
       "name": "Stop Calling",
       "url": "https://open.spotify.com/track/3iuU4Jg2XftluSKfSv22KL"
@@ -3413,7 +3431,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 177673,
       "name": "Summer Moon (feat. Kevin Kaarl)",
       "url": "https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE"
@@ -3453,7 +3471,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 198230,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/76VbFUE4gxXiaMd1uWwJCv"
@@ -3567,7 +3585,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 173754,
       "name": "Talking Outta My",
       "url": "https://open.spotify.com/track/7khNEOIElWPWojn3RkoLl8"
@@ -3705,7 +3723,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 222626,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/2MTe95GoaN9QjuWiud4uVx"
@@ -3745,6 +3763,24 @@
       "duration_ms": 208240,
       "name": "Turn Me On (Live From London)",
       "url": "https://open.spotify.com/track/1MBeQV0la3466Kr2tFQfTY"
+    },
+    {
+      "album": {
+        "name": "Uncomplicated",
+        "url": "https://open.spotify.com/album/4TjOZMU3Npr6rAiqAy5UW0"
+      },
+      "artists": [
+        {
+          "name": "Dana Williams",
+          "url": "https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216089,
+      "name": "Uncomplicated",
+      "url": "https://open.spotify.com/track/0X9mvqR44xcw6oLo89kn92"
     },
     {
       "album": {
@@ -4039,7 +4075,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 185316,
       "name": "YoYo",
       "url": "https://open.spotify.com/track/04fM1KOXn3p5hbPwNtDSaG"

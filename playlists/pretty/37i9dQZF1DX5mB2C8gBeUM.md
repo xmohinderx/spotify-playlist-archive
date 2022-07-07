@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Artist: Jillian Jacqueline
 
-[Spotify](https://open.spotify.com/user/spotify) - 856,578 likes - 151 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 856,680 likes - 151 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

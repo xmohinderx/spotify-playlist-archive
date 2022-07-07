@@ -2,7 +2,7 @@
 
 ### [Written By Biff Stannard](https://open.spotify.com/playlist/37i9dQZF1EFAu0bePhLMSX)
 
-> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/12uAjdmOrs4u60afEwz5zk">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
+> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/12uAjdmOrs4u60afEwz5zk">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
 135 songs - 8 hr 40 min - [published](https://open.spotify.com/playlist/1vO472V3XfC0C1yYfOuExo)
 

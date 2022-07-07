@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Paulo Londra
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,966 likes - 67 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,034 likes - 67 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 11 | [Luka](https://open.spotify.com/track/0HOMEZoKV1y70FxcLmVEfX) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Luka](https://open.spotify.com/album/53nHorAyot2oj5yEjoMS3g) | 4:05 |
 | 12 | [Adicto \(feat\. Gigolo y La Exce\)](https://open.spotify.com/track/2L6rsP2nThuVySclwSUkBT) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 3:20 |
 | 13 | [Medley Lud Session \- Tudo porque você mentiu / penhasco / De rolê / CAFÉ DA MANHÃ ;P / Doutora 3](https://open.spotify.com/track/3JFB72hbbt3zy30puJTc3q) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Medley Lud Session \- Tudo porque você mentiu / penhasco / De rolê / CAFÉ DA MANHÃ ;P / Doutora 3](https://open.spotify.com/album/4rQEAhGCxPJFlkJGymvmyz) | 9:39 |
-| 14 | [Soldado Caido](https://open.spotify.com/track/2R0XLhQjJWkAz6kOniuyOs) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Soldado Caido](https://open.spotify.com/album/4dUfwpxtL9UyaZiNld8sSm) | 3:02 |
+| 14 | [Soldado Caído](https://open.spotify.com/track/2R0XLhQjJWkAz6kOniuyOs) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Soldado Caído](https://open.spotify.com/album/4dUfwpxtL9UyaZiNld8sSm) | 3:02 |
 | 15 | [Vente Al Party](https://open.spotify.com/track/17ig894RClkWBNaVtENDrb) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Vente Al Party](https://open.spotify.com/album/341LvImqrdzts52GlxRFfE) | 2:24 |
 | 16 | [Q\-Lito](https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Q\-Lito](https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7) | 3:08 |
 | 17 | [LALALA](https://open.spotify.com/track/0vjqOn8iw1jQygL4KK2JCu) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [LALALA](https://open.spotify.com/album/1oOiiAylUiGg1ccIvP5wha) | 2:42 |

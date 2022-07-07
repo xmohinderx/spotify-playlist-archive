@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F?si=\-RfkUrS5QnWvdiZdKMTbAg">DJ Bongz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,831 likes - 70 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,843 likes - 70 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

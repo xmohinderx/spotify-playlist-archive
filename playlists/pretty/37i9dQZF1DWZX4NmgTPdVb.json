@@ -1,12 +1,12 @@
 {
   "description": "The songs of the 1970s that will make you dance all summer long!",
-  "num_followers": 107920,
+  "num_followers": 108044,
   "original_name": "Summer Hits of the 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA3MDk0NSwwMDAwMDAwMGM0MDRiOTU4NmQ2NDBhZTkyZDAwOGM4ODVhMTRlZTEy",
+  "snapshot_id": "MTY1NzE1NjYzNSwwMDAwMDAwMGZjNWYwNDYzN2MyNjI1MjkzMjVmNDhhM2QzMmM0NThj",
   "tracks": [
     {
       "added_at": "2022-04-18 23:11:58",
@@ -43,18 +43,18 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Goodbye Yellow Brick Road (Remastered / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6g9uPPHtnxQLSUd6d9xK8n"
+        "name": "December, 1963 (Oh, What a Night) / Slip Away",
+        "url": "https://open.spotify.com/album/1cpPUXM8H8059n6B9Nm46c"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
         }
       ],
-      "duration_ms": 322548,
-      "name": "Bennie And The Jets - Remastered 2014",
-      "url": "https://open.spotify.com/track/0dBatXn1vVUl0jLgXRClwD"
+      "duration_ms": 201093,
+      "name": "December, 1963 (Oh, What a Night)",
+      "url": "https://open.spotify.com/track/4nuPrKithHbRJXuA9spwu4"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -75,18 +75,18 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "December, 1963 (Oh, What a Night) / Slip Away",
-        "url": "https://open.spotify.com/album/1cpPUXM8H8059n6B9Nm46c"
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
       },
       "artists": [
         {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 201093,
-      "name": "December, 1963 (Oh, What a Night)",
-      "url": "https://open.spotify.com/track/4nuPrKithHbRJXuA9spwu4"
+      "duration_ms": 174826,
+      "name": "Cecilia",
+      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -139,34 +139,18 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Paul Simon",
-        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
+        "name": "Goodbye Yellow Brick Road (Remastered / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6g9uPPHtnxQLSUd6d9xK8n"
       },
       "artists": [
         {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 164813,
-      "name": "Me and Julio Down by the Schoolyard",
-      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
-        "name": "Tom Petty & The Heartbreakers",
-        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "American Girl",
-      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
+      "duration_ms": 322548,
+      "name": "Bennie And The Jets - Remastered 2014",
+      "url": "https://open.spotify.com/track/0dBatXn1vVUl0jLgXRClwD"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -187,6 +171,38 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
+        "name": "Tom Petty & The Heartbreakers",
+        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "There Goes Rhymin' Simon",
+        "url": "https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Kodachrome",
+      "url": "https://open.spotify.com/track/3f0U5NaD1bCk8nmKpn2ZJY"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
         "name": "The Essential Daryl Hall & John Oates",
         "url": "https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI"
       },
@@ -199,6 +215,38 @@
       "duration_ms": 144333,
       "name": "Rich Girl",
       "url": "https://open.spotify.com/track/5E3P9e1hvjyIOlFyqNB5eD"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Ladies of the Canyon",
+        "url": "https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "duration_ms": 134800,
+      "name": "Big Yellow Taxi",
+      "url": "https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "American Pie",
+        "url": "https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS"
+      },
+      "artists": [
+        {
+          "name": "Don McLean",
+          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
+        }
+      ],
+      "duration_ms": 516893,
+      "name": "American Pie",
+      "url": "https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -235,18 +283,34 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Signed Sealed And Delivered",
-        "url": "https://open.spotify.com/album/4QxPK644Vy4FQrtMF90CMe"
+        "name": "Looking Glass",
+        "url": "https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Looking Glass",
+          "url": "https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI"
         }
       ],
-      "duration_ms": 160500,
-      "name": "Signed, Sealed, Delivered (I'm Yours)",
-      "url": "https://open.spotify.com/track/3M5eeHXgG4VplKNcsBC8Dj"
+      "duration_ms": 186826,
+      "name": "Brandy (You're a Fine Girl)",
+      "url": "https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Paul Simon",
+        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 164813,
+      "name": "Me and Julio Down by the Schoolyard",
+      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -267,82 +331,18 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Bellamy Brothers",
-        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
+        "name": "Chicago V (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/2oSXXINsWGuEsc4udgWxh8"
       },
       "artists": [
         {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
         }
       ],
-      "duration_ms": 198760,
-      "name": "Let Your Love Flow",
-      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
-        "name": "There Goes Rhymin' Simon",
-        "url": "https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "Kodachrome",
-      "url": "https://open.spotify.com/track/3f0U5NaD1bCk8nmKpn2ZJY"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 174826,
-      "name": "Cecilia",
-      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
-        "name": "Lola Versus Powerman and the Moneygoround, Pt. One",
-        "url": "https://open.spotify.com/album/4jaLfcNpIrOgcPyXuuiHTi"
-      },
-      "artists": [
-        {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
-        }
-      ],
-      "duration_ms": 241040,
-      "name": "Lola",
-      "url": "https://open.spotify.com/track/0UAJH0k4k3slcE83a9UGCe"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
-        "name": "American Pie",
-        "url": "https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS"
-      },
-      "artists": [
-        {
-          "name": "Don McLean",
-          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
-        }
-      ],
-      "duration_ms": 516893,
-      "name": "American Pie",
-      "url": "https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X"
+      "duration_ms": 235666,
+      "name": "Saturday in the Park - 2002 Remaster",
+      "url": "https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -363,66 +363,18 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Looking Glass",
-        "url": "https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs"
+        "name": "Lola Versus Powerman and the Moneygoround, Pt. One",
+        "url": "https://open.spotify.com/album/4jaLfcNpIrOgcPyXuuiHTi"
       },
       "artists": [
         {
-          "name": "Looking Glass",
-          "url": "https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI"
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
         }
       ],
-      "duration_ms": 186826,
-      "name": "Brandy (You're a Fine Girl)",
-      "url": "https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "I Feel the Earth Move",
-      "url": "https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
-        "name": "Starland Vocal Band",
-        "url": "https://open.spotify.com/album/5DDpGgEdJKpH99oD4jlvQ8"
-      },
-      "artists": [
-        {
-          "name": "Starland Vocal Band",
-          "url": "https://open.spotify.com/artist/66QeIFuFJDNCImNHlFzrY1"
-        }
-      ],
-      "duration_ms": 193040,
-      "name": "Afternoon Delight",
-      "url": "https://open.spotify.com/track/5Yq58BC5k14EVUJ63cmg8g"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
-        "name": "Chicago V (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/2oSXXINsWGuEsc4udgWxh8"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 235666,
-      "name": "Saturday in the Park - 2002 Remaster",
-      "url": "https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4"
+      "duration_ms": 241040,
+      "name": "Lola",
+      "url": "https://open.spotify.com/track/0UAJH0k4k3slcE83a9UGCe"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -443,18 +395,18 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/2v8XEhOPoKX7iVWq5mWWBM"
+        "name": "Signed Sealed And Delivered",
+        "url": "https://open.spotify.com/album/4QxPK644Vy4FQrtMF90CMe"
       },
       "artists": [
         {
-          "name": "Three Dog Night",
-          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 220573,
-      "name": "Joy To The World",
-      "url": "https://open.spotify.com/track/2ymeOsYijJz09LfKw3yM2x"
+      "duration_ms": 160500,
+      "name": "Signed, Sealed, Delivered (I'm Yours)",
+      "url": "https://open.spotify.com/track/3M5eeHXgG4VplKNcsBC8Dj"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -475,50 +427,86 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Ladies of the Canyon",
-        "url": "https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9"
+        "name": "Starland Vocal Band",
+        "url": "https://open.spotify.com/album/5DDpGgEdJKpH99oD4jlvQ8"
       },
       "artists": [
         {
-          "name": "Joni Mitchell",
-          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+          "name": "Starland Vocal Band",
+          "url": "https://open.spotify.com/artist/66QeIFuFJDNCImNHlFzrY1"
         }
       ],
-      "duration_ms": 134800,
-      "name": "Big Yellow Taxi",
-      "url": "https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2"
+      "duration_ms": 193040,
+      "name": "Afternoon Delight",
+      "url": "https://open.spotify.com/track/5Yq58BC5k14EVUJ63cmg8g"
     },
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "The Joker",
-        "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/2v8XEhOPoKX7iVWq5mWWBM"
       },
       "artists": [
         {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+          "name": "Three Dog Night",
+          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
         }
       ],
-      "duration_ms": 264503,
-      "name": "The Joker",
-      "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
+      "duration_ms": 220573,
+      "name": "Joy To The World",
+      "url": "https://open.spotify.com/track/2ymeOsYijJz09LfKw3yM2x"
     },
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Eat A Peach",
-        "url": "https://open.spotify.com/album/6D9I7GZsqc3pwDg3DFrtjs"
+        "name": "Bellamy Brothers",
+        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
       },
       "artists": [
         {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
         }
       ],
-      "duration_ms": 235223,
-      "name": "Melissa",
-      "url": "https://open.spotify.com/track/30St98Bok3jJmXdkkHVPQe"
+      "duration_ms": 198760,
+      "name": "Let Your Love Flow",
+      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Back Stabbers",
+        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 178400,
+      "name": "Love Train",
+      "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/7eqBAR9pblivMBOI70q2um"
+      },
+      "artists": [
+        {
+          "name": "America",
+          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
+        },
+        {
+          "name": "George Martin",
+          "url": "https://open.spotify.com/artist/0tcbedGX7n5UHrMhVsGmIU"
+        }
+      ],
+      "duration_ms": 211386,
+      "name": "Ventura Highway",
+      "url": "https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -555,22 +543,82 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Homecoming",
-        "url": "https://open.spotify.com/album/7eqBAR9pblivMBOI70q2um"
+        "name": "Life & Times",
+        "url": "https://open.spotify.com/album/3q7L4mosMmOcmQNE1d0H4s"
       },
       "artists": [
         {
-          "name": "America",
-          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
-        },
-        {
-          "name": "George Martin",
-          "url": "https://open.spotify.com/artist/0tcbedGX7n5UHrMhVsGmIU"
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
         }
       ],
-      "duration_ms": 211386,
-      "name": "Ventura Highway",
-      "url": "https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW"
+      "duration_ms": 182240,
+      "name": "Bad, Bad Leroy Brown",
+      "url": "https://open.spotify.com/track/1O0xeZrBDbq7HPREdmYUYK"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "The Joker",
+        "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "duration_ms": 264503,
+      "name": "The Joker",
+      "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Rejoice",
+        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
+      },
+      "artists": [
+        {
+          "name": "The Emotions",
+          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
+        }
+      ],
+      "duration_ms": 220560,
+      "name": "Best of My Love",
+      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "The Best: Loggins & Messina Sittin' In Again",
+        "url": "https://open.spotify.com/album/5BWgJaesMjpJWCTU9sgUPf"
+      },
+      "artists": [
+        {
+          "name": "Loggins & Messina",
+          "url": "https://open.spotify.com/artist/7emRV8AluG3d4e5T0DZiK9"
+        }
+      ],
+      "duration_ms": 167520,
+      "name": "Your Mama Don't Dance",
+      "url": "https://open.spotify.com/track/6rxUq1D3nrvJnipbtb1oMG"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "I Feel the Earth Move",
+      "url": "https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -623,146 +671,18 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Changes In Latitudes, Changes In Attitudes",
-        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
+        "name": "Eat A Peach",
+        "url": "https://open.spotify.com/album/6D9I7GZsqc3pwDg3DFrtjs"
       },
       "artists": [
         {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
         }
       ],
-      "duration_ms": 250933,
-      "name": "Margaritaville",
-      "url": "https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
-        "name": "Love Will Keep Us Together",
-        "url": "https://open.spotify.com/album/3GUxesVyOehInaxJyCTh6d"
-      },
-      "artists": [
-        {
-          "name": "Captain & Tennille",
-          "url": "https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm"
-        }
-      ],
-      "duration_ms": 205493,
-      "name": "Love Will Keep Us Together",
-      "url": "https://open.spotify.com/track/4pCNJwixy2ImFncaPY2yE2"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
-        "name": "Rumours (Super Deluxe)",
-        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 257800,
-      "name": "Dreams - 2004 Remaster",
-      "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
-        "name": "Radio Hits Of the '70s",
-        "url": "https://open.spotify.com/album/2JcwQwy2KY3CEIzHUC30wG"
-      },
-      "artists": [
-        {
-          "name": "B.W. Stevenson",
-          "url": "https://open.spotify.com/artist/1asN4HM089PlqWPJRkHvLA"
-        }
-      ],
-      "duration_ms": 152706,
-      "name": "My Maria",
-      "url": "https://open.spotify.com/track/1ISpRMqSGcX3d4L3aETPT9"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
-        "name": "The Best: Loggins & Messina Sittin' In Again",
-        "url": "https://open.spotify.com/album/5BWgJaesMjpJWCTU9sgUPf"
-      },
-      "artists": [
-        {
-          "name": "Loggins & Messina",
-          "url": "https://open.spotify.com/artist/7emRV8AluG3d4e5T0DZiK9"
-        }
-      ],
-      "duration_ms": 167520,
-      "name": "Your Mama Don't Dance",
-      "url": "https://open.spotify.com/track/6rxUq1D3nrvJnipbtb1oMG"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
-        "name": "Back Stabbers",
-        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 178400,
-      "name": "Love Train",
-      "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
-        "name": "Rejoice",
-        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
-      },
-      "artists": [
-        {
-          "name": "The Emotions",
-          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Best of My Love",
-      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
-        "name": "Jazz",
-        "url": "https://open.spotify.com/album/5X3rA8To5GDOeIWdQyMEcE"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 255533,
-      "name": "Fat Bottomed Girls",
-      "url": "https://open.spotify.com/track/39sH8Fl415P7O8GRP1Td6Z"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
-        "name": "Menagerie",
-        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 254560,
-      "name": "Lovely Day",
-      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
+      "duration_ms": 235223,
+      "name": "Melissa",
+      "url": "https://open.spotify.com/track/30St98Bok3jJmXdkkHVPQe"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -783,34 +703,82 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Life & Times",
-        "url": "https://open.spotify.com/album/3q7L4mosMmOcmQNE1d0H4s"
+        "name": "Menagerie",
+        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
       },
       "artists": [
         {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
         }
       ],
-      "duration_ms": 182240,
-      "name": "Bad, Bad Leroy Brown",
-      "url": "https://open.spotify.com/track/1O0xeZrBDbq7HPREdmYUYK"
+      "duration_ms": 254560,
+      "name": "Lovely Day",
+      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
     },
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT"
+        "name": "Love Will Keep Us Together",
+        "url": "https://open.spotify.com/album/3GUxesVyOehInaxJyCTh6d"
       },
       "artists": [
         {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+          "name": "Captain & Tennille",
+          "url": "https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm"
         }
       ],
-      "duration_ms": 157040,
-      "name": "Hot Fun in the Summertime",
-      "url": "https://open.spotify.com/track/4t6NQkpUmvpvLDCkl3XuwA"
+      "duration_ms": 205493,
+      "name": "Love Will Keep Us Together",
+      "url": "https://open.spotify.com/track/4pCNJwixy2ImFncaPY2yE2"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Jazz",
+        "url": "https://open.spotify.com/album/5X3rA8To5GDOeIWdQyMEcE"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 255533,
+      "name": "Fat Bottomed Girls",
+      "url": "https://open.spotify.com/track/39sH8Fl415P7O8GRP1Td6Z"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Radio Hits Of the '70s",
+        "url": "https://open.spotify.com/album/2JcwQwy2KY3CEIzHUC30wG"
+      },
+      "artists": [
+        {
+          "name": "B.W. Stevenson",
+          "url": "https://open.spotify.com/artist/1asN4HM089PlqWPJRkHvLA"
+        }
+      ],
+      "duration_ms": 152706,
+      "name": "My Maria",
+      "url": "https://open.spotify.com/track/1ISpRMqSGcX3d4L3aETPT9"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Changes In Latitudes, Changes In Attitudes",
+        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 250933,
+      "name": "Margaritaville",
+      "url": "https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -831,50 +799,18 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Greatest Hits 1974-78",
-        "url": "https://open.spotify.com/album/5hLazW5a3Ysgy3dncwGgUn"
+        "name": "Chicago II",
+        "url": "https://open.spotify.com/album/0PRgsdDXQ8QPaDUetVF7yN"
       },
       "artists": [
         {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
         }
       ],
-      "duration_ms": 215666,
-      "name": "Jet Airliner",
-      "url": "https://open.spotify.com/track/2zI3bUYn2pcF27of6i2oqK"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 245493,
-      "name": "Superstition - Single Version",
-      "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
-        "name": "It Ain't Easy",
-        "url": "https://open.spotify.com/album/0tJT9ZnxnlElGa34DRj59l"
-      },
-      "artists": [
-        {
-          "name": "Three Dog Night",
-          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
-        }
-      ],
-      "duration_ms": 198933,
-      "name": "Mama Told Me (Not To Come) - Single Version",
-      "url": "https://open.spotify.com/track/1CAO7hiNOxJRPW4nFv2aRO"
+      "duration_ms": 289800,
+      "name": "25 or 6 to 4 - 2002 Remaster",
+      "url": "https://open.spotify.com/track/7GqIDx2QVGOpd4r1fZaUUW"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -895,38 +831,6 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Freedom for the Stallion (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH"
-      },
-      "artists": [
-        {
-          "name": "Hues Corporation",
-          "url": "https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts"
-        }
-      ],
-      "duration_ms": 202573,
-      "name": "Rock the Boat",
-      "url": "https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
-        "name": "We Are Family (1995 Remaster)",
-        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
-      },
-      "artists": [
-        {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
-        }
-      ],
-      "duration_ms": 216733,
-      "name": "We Are Family - 1995 Remaster",
-      "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
         "name": "Bachman-Turner Overdrive II",
         "url": "https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH"
       },
@@ -943,66 +847,98 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Chicago II",
-        "url": "https://open.spotify.com/album/0PRgsdDXQ8QPaDUetVF7yN"
+        "name": "Greatest Hits 1974-78",
+        "url": "https://open.spotify.com/album/5hLazW5a3Ysgy3dncwGgUn"
       },
       "artists": [
         {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
         }
       ],
-      "duration_ms": 289800,
-      "name": "25 or 6 to 4 - 2002 Remaster",
-      "url": "https://open.spotify.com/track/7GqIDx2QVGOpd4r1fZaUUW"
+      "duration_ms": 215666,
+      "name": "Jet Airliner",
+      "url": "https://open.spotify.com/track/2zI3bUYn2pcF27of6i2oqK"
     },
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "KC & the Sunshine Band",
-        "url": "https://open.spotify.com/album/2ogOjq2sGndRddcHXfne1l"
+        "name": "Freedom for the Stallion (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH"
       },
       "artists": [
         {
-          "name": "KC & The Sunshine Band",
-          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+          "name": "Hues Corporation",
+          "url": "https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts"
         }
       ],
-      "duration_ms": 317160,
-      "name": "Get Down Tonight - 2004 Remaster",
-      "url": "https://open.spotify.com/track/6zbFTYeqNvZdms60HouEFT"
+      "duration_ms": 202573,
+      "name": "Rock the Boat",
+      "url": "https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW"
     },
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "I Can See Clearly Now",
-        "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
+        "name": "Rumours (Super Deluxe)",
+        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
       },
       "artists": [
         {
-          "name": "Johnny Nash",
-          "url": "https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 164733,
-      "name": "I Can See Clearly Now - Edit",
-      "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
+      "duration_ms": 257800,
+      "name": "Dreams - 2004 Remaster",
+      "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
     },
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Commodores",
-        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq"
       },
       "artists": [
         {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 256426,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
+      "duration_ms": 245493,
+      "name": "Superstition - Single Version",
+      "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "The Captain and Me",
+        "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "duration_ms": 207266,
+      "name": "Long Train Runnin'",
+      "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 157040,
+      "name": "Hot Fun in the Summertime",
+      "url": "https://open.spotify.com/track/4t6NQkpUmvpvLDCkl3XuwA"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -1023,18 +959,18 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Moondance",
-        "url": "https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam"
+        "name": "I Can See Clearly Now",
+        "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
       },
       "artists": [
         {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+          "name": "Johnny Nash",
+          "url": "https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a"
         }
       ],
-      "duration_ms": 272160,
-      "name": "And It Stoned Me - 2013 Remaster",
-      "url": "https://open.spotify.com/track/0pLt4z90EzbN7lY9lky1Z9"
+      "duration_ms": 164733,
+      "name": "I Can See Clearly Now - Edit",
+      "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -1055,18 +991,18 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "The Gambler",
-        "url": "https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ"
+        "name": "Waterloo",
+        "url": "https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av"
       },
       "artists": [
         {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 214880,
-      "name": "The Gambler",
-      "url": "https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0"
+      "duration_ms": 168960,
+      "name": "Waterloo",
+      "url": "https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -1083,6 +1019,38 @@
       "duration_ms": 200173,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/6Xz7FeyE8HTP90HecgHV57"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Car Wash",
+        "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
+      },
+      "artists": [
+        {
+          "name": "Rose Royce",
+          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
+        }
+      ],
+      "duration_ms": 307573,
+      "name": "Car Wash - Long Version",
+      "url": "https://open.spotify.com/track/2pbWkjtGtjkzBdZ95GFINm"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Five-A-Side",
+        "url": "https://open.spotify.com/album/5hC1ciYNtewV8gncsKHt1F"
+      },
+      "artists": [
+        {
+          "name": "Ace",
+          "url": "https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP"
+        }
+      ],
+      "duration_ms": 204226,
+      "name": "How Long",
+      "url": "https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -1119,18 +1087,18 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Five-A-Side",
-        "url": "https://open.spotify.com/album/5hC1ciYNtewV8gncsKHt1F"
+        "name": "Freedom At Point Zero",
+        "url": "https://open.spotify.com/album/5CO9jh4JWDPSBwu4FPgLEW"
       },
       "artists": [
         {
-          "name": "Ace",
-          "url": "https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP"
+          "name": "Jefferson Starship",
+          "url": "https://open.spotify.com/artist/3HC7NcxQx2Yk0fWoRKJ0xF"
         }
       ],
-      "duration_ms": 204226,
-      "name": "How Long",
-      "url": "https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD"
+      "duration_ms": 252200,
+      "name": "Jane",
+      "url": "https://open.spotify.com/track/2RNd6VgxG19db0zs0M1C4Z"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -1151,66 +1119,98 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "The Captain and Me",
-        "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
+        "name": "We Are Family (1995 Remaster)",
+        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
       },
       "artists": [
         {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
         }
       ],
-      "duration_ms": 207266,
-      "name": "Long Train Runnin'",
-      "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
+      "duration_ms": 216733,
+      "name": "We Are Family - 1995 Remaster",
+      "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
     },
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Freedom At Point Zero",
-        "url": "https://open.spotify.com/album/5CO9jh4JWDPSBwu4FPgLEW"
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/2d5cE0rNwRTKSqOOuzEAXq"
       },
       "artists": [
         {
-          "name": "Jefferson Starship",
-          "url": "https://open.spotify.com/artist/3HC7NcxQx2Yk0fWoRKJ0xF"
+          "name": "Tony Orlando & Dawn",
+          "url": "https://open.spotify.com/artist/72NXpYBIaTfEeAAsxXLs0P"
         }
       ],
-      "duration_ms": 252200,
-      "name": "Jane",
-      "url": "https://open.spotify.com/track/2RNd6VgxG19db0zs0M1C4Z"
+      "duration_ms": 180360,
+      "name": "Knock Three Times",
+      "url": "https://open.spotify.com/track/6gvfXd7pEUSPuNEMWwOJUH"
     },
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Fly Like An Eagle",
-        "url": "https://open.spotify.com/album/3iqReiy2IaPI2N9sdLywER"
+        "name": "It Ain't Easy",
+        "url": "https://open.spotify.com/album/0tJT9ZnxnlElGa34DRj59l"
       },
       "artists": [
         {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+          "name": "Three Dog Night",
+          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
         }
       ],
-      "duration_ms": 282693,
-      "name": "Fly Like An Eagle",
-      "url": "https://open.spotify.com/track/0BTYL86ryKRHvAndNeoiuP"
+      "duration_ms": 198933,
+      "name": "Mama Told Me (Not To Come) - Single Version",
+      "url": "https://open.spotify.com/track/1CAO7hiNOxJRPW4nFv2aRO"
     },
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Waterloo",
-        "url": "https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av"
+        "name": "KC & the Sunshine Band",
+        "url": "https://open.spotify.com/album/2ogOjq2sGndRddcHXfne1l"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "KC & The Sunshine Band",
+          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
         }
       ],
-      "duration_ms": 168960,
-      "name": "Waterloo",
-      "url": "https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk"
+      "duration_ms": 317160,
+      "name": "Get Down Tonight - 2004 Remaster",
+      "url": "https://open.spotify.com/track/6zbFTYeqNvZdms60HouEFT"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Hot Rocks (1964-1971)",
+        "url": "https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 229173,
+      "name": "Brown Sugar",
+      "url": "https://open.spotify.com/track/34K7nU8EWQIRI93RfqhdRJ"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Commodores",
+        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 256426,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
     }
   ],
   "unique_name": "Summer Hits of the 70s",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Imagine Dragons
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,514 likes - 95 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,589 likes - 95 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 36 | [All Summer](https://open.spotify.com/track/4MA8WJAhL0P3hbD5SrZUUv) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [All Summer](https://open.spotify.com/album/4lcvwRXul0pIJAM8XXU8QS) | 2:51 |
 | 37 | [i'm too pretty for this](https://open.spotify.com/track/4shULiz3P7luscRsQobtDN) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [i’m too pretty for this](https://open.spotify.com/album/50hj2kKggCkXqSIX2c1rxF) | 2:46 |
 | 38 | [How I Am \(feat\. Jay Millz\)](https://open.spotify.com/track/7AZbFMT8zbbUpDBWMbOg0y) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS), [JAY Millz](https://open.spotify.com/artist/5dWJNN0Zs30p6w74LVsCeZ) | [No Recognition](https://open.spotify.com/album/3ifWcPzyVDRIWejXzSVsKU) | 2:14 |
-| 39 | [Hard out Here](https://open.spotify.com/track/4cjJzTza5lCcSuFOKOzZ4U) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Hard out Here](https://open.spotify.com/album/3CoftMaewRZt7oW4cTMlv7) | 3:11 |
+| 39 | [Hard Out Here](https://open.spotify.com/track/4cjJzTza5lCcSuFOKOzZ4U) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Hard Out Here](https://open.spotify.com/album/3CoftMaewRZt7oW4cTMlv7) | 3:11 |
 | 40 | [touch tank](https://open.spotify.com/track/7DrzZN5jaDyE0a0tVuVWnj) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4cH0G6g1NcPguHQ8aOk1h6) | 2:59 |
 | 41 | [Leave It](https://open.spotify.com/track/4d53iJvfGbPyQGRnbtmtiW) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [What If? / Leave It](https://open.spotify.com/album/6hCOlqAGTtU9dhQ7nhi1U8) | 3:52 |
 | 42 | [Yeah, I Like You](https://open.spotify.com/track/6kNOYOpdMy0w67fC4XPc0q) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Yeah, I Like You](https://open.spotify.com/album/0vlDeWXsRPN0GZkdIoykfT) | 4:24 |

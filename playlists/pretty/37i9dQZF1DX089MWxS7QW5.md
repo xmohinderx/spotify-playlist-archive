@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The hottest K\-R&B is here\. \(Cover: VVON\(본\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,281 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,330 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Why \(Feat\. Hoody\)](https://open.spotify.com/track/0cIEQ9hmlk2qJFvjZGgS82) | [VVON](https://open.spotify.com/artist/6CJEP3Ma2sqPIl1c9ppZby), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Why](https://open.spotify.com/album/00nRSfDSImQs5Y3K0xDO8s) | 2:20 |
+| 1 | [Why \(Feat\. Hoody\)](https://open.spotify.com/track/0cIEQ9hmlk2qJFvjZGgS82) | [VVON](https://open.spotify.com/artist/6CJEP3Ma2sqPIl1c9ppZby), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Why \(Feat\. Hoody\)](https://open.spotify.com/album/00nRSfDSImQs5Y3K0xDO8s) | 2:20 |
 | 2 | [Love is alone](https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:22 |
 | 3 | [Remained scent](https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Remained scent](https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu) | 3:06 |
 | 4 | [pado ballad](https://open.spotify.com/track/7sKi4MTWJJIPXCik8yLmRV) | [Lahne](https://open.spotify.com/artist/2f6UH261iYhBitmwklLAlH) | [Blue Interior](https://open.spotify.com/album/5laWpGYSMaZiscOja0W4u1) | 3:42 |

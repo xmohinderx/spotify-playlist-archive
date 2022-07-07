@@ -426,6 +426,24 @@
     },
     {
       "album": {
+        "name": "Barely Miss",
+        "url": "https://open.spotify.com/album/4wHVHXSasHh2aq0D4g5NRA"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193656,
+      "name": "Barely Miss",
+      "url": "https://open.spotify.com/track/4QPtyUkP2ysNjZDF5AuZMC"
+    },
+    {
+      "album": {
         "name": "Never Land II",
         "url": "https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL"
       },
@@ -783,7 +801,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 230170,
       "name": "Channel Zero",
       "url": "https://open.spotify.com/track/5yPOxCrlFlNuNnv8OYA50h"
@@ -907,7 +925,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 269418,
       "name": "Contact",
       "url": "https://open.spotify.com/track/7ypuC93uVLeCbU58TtKQg9"
@@ -925,7 +943,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 155200,
       "name": "COUNT ON ME",
       "url": "https://open.spotify.com/track/1kdixtbMh0JUWlvSDmfM9I"
@@ -979,7 +997,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 185344,
       "name": "Credit (Can I?)",
       "url": "https://open.spotify.com/track/03FzQCFcXav5HVYg7T7Gug"
@@ -2103,7 +2121,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 210125,
       "name": "Legal Sins",
       "url": "https://open.spotify.com/track/513IPuqvC7V8XHTbIe6EWw"
@@ -2527,7 +2545,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 111844,
       "name": "Mrs Parker",
       "url": "https://open.spotify.com/track/0YJedBqfrg6FtuDvidOvZO"
@@ -2625,7 +2643,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 123983,
       "name": "NEO",
       "url": "https://open.spotify.com/track/7onHzHeOVE3M9p0tNKQbXc"
@@ -2963,7 +2981,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 140470,
       "name": "Plead The .45th",
       "url": "https://open.spotify.com/track/2iY7S7JW6JCh0N6qZIFWWL"
@@ -3047,7 +3065,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 174239,
       "name": "Popeye",
       "url": "https://open.spotify.com/track/2dQkCBUasJzLfNjSumrRDd"
@@ -3157,7 +3175,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 155573,
       "name": "Raindrops (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/29M1mAkW4VlxJ4noKN0RxY"
@@ -3281,7 +3299,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 178536,
       "name": "RUN THE WORLD",
       "url": "https://open.spotify.com/track/24O46adSE5SxxOthWe28AC"
@@ -3325,7 +3343,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 263720,
       "name": "SIERRA NIGHTS (feat. Ryan Beatty)",
       "url": "https://open.spotify.com/track/1CsLmXktvD3Cj04dPCtJNI"
@@ -3525,7 +3543,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 181483,
       "name": "Strange Love - Single Edit",
       "url": "https://open.spotify.com/track/0dgehlr08kKoyl2nG7Dhv4"
@@ -3653,7 +3671,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 144868,
       "name": "Taco",
       "url": "https://open.spotify.com/track/1wg19chzByanxCC8mKc8SI"
@@ -3701,7 +3719,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 192733,
       "name": "terms (feat. Dominic Fike & Denzel Curry)",
       "url": "https://open.spotify.com/track/2iwLygOHE2YStc23isxS3b"

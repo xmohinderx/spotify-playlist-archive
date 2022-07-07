@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-389 songs - 22 hr 55 min - [published](https://open.spotify.com/playlist/5k364REG40DwdRwVFYopYc)
+390 songs - 22 hr 58 min - [published](https://open.spotify.com/playlist/5k364REG40DwdRwVFYopYc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,7 @@
 | [Rose](https://open.spotify.com/track/2bk43y1inDfHx8fFdXar3l) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:33 | 2021-07-28 | 2021-07-30 |
 | [Rose \- English Version](https://open.spotify.com/track/2shyarF21wZvWew00TdaP3) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:33 | 2021-07-28 | 2021-07-30 |
 | [Roses](https://open.spotify.com/track/7h5JV2j5wEwMP2hQE12Nk4) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Roses](https://open.spotify.com/album/0il47h32ClRlSCgLthPaQ5) | 3:21 | 2021-03-27\* | 2021-04-30 |
-| [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 | 2022-06-11 |  |
+| [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 | 2022-06-11 | 2022-07-07 |
 | [Runaway](https://open.spotify.com/track/238Ra1ggmx3wUkHyZ8EjST) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON'T FIGHT THE FEELING \- Special Album](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) | 3:27 | 2021-06-09 | 2021-06-11 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-06-02 |  |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-10 | 2022-01-19 |
@@ -375,6 +375,7 @@
 | [เลือกคนที่เขารักเรา](https://open.spotify.com/track/62cOB2rHLifRe73H85MhNz) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [This City Won’t Be Lonely Anymore](https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU) | 3:46 | 2021-03-27\* | 2021-03-27 |
 | [เสแสร้ง \(Pretend\)](https://open.spotify.com/track/3imt8APLtyXVGsLZM362nA) | [Paper Planes](https://open.spotify.com/artist/52VcFYcq5kJEaRYgy58ouW), [Moon](https://open.spotify.com/artist/0AEFDYdJjix0o8cZ1lnrNb) | [เสแสร้ง \(Pretend\) \[Feat\. MOON\]](https://open.spotify.com/album/6X0fYVQVcGJmu7SaKJMzYR) | 3:43 | 2022-03-20 |  |
 | [เอาปากกามาวง](https://open.spotify.com/track/4aDz9NTsLULSvewSLg8lih) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [เอาปากกามาวง](https://open.spotify.com/album/7HadcYAjeZGgkiCg0WnPnm) | 3:24 | 2021-12-01 | 2022-06-10 |
+| [เฮอร์ไมโอน้อง \- Hermionong](https://open.spotify.com/track/6YArEquYF9TDuqofFO9CY7) | [TheChanisara](https://open.spotify.com/artist/5h3gT12qsHsSQhWo2mRqox) | [เฮอร์ไมโอน้อง \(Hermionong\)](https://open.spotify.com/album/4jEtlQzKbQhriwj494khVj) | 3:36 | 2022-07-06 |  |
 | [แค่ฝันไป](https://open.spotify.com/track/1JU4ZiABEUdYEONLwmbLQd) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [WILLISHMARA \(วิลิศมาหรา\)](https://open.spotify.com/album/7nNAJmV2ohLa1DZsqsC9Jw) | 4:44 | 2021-04-02 | 2021-04-20 |
 | [แค่ฝันไป](https://open.spotify.com/track/6odrQWsbCEeOZ8gptITc2i) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [แค่ฝันไป](https://open.spotify.com/album/6gW5lIWIAgJEv0gl8mwPVV) | 4:44 | 2021-03-27\* | 2021-04-02 |
 | [แค่มีเธอไปเดินเตะคลื่นทะเลด้วยกัน](https://open.spotify.com/track/4vLs8BDqK1JtpJdrgrriX6) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [แค่มีเธอไปเดินเตะคลื่นทะเลด้วยกัน](https://open.spotify.com/album/63NVvlLlMqR1vfycvmEfpm) | 3:53 | 2022-05-14 |  |

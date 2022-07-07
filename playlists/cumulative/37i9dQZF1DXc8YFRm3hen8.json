@@ -183,7 +183,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 250762,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/6xMEpjqkxXaxu8jC7HjdTe"
@@ -389,7 +389,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 289760,
       "name": "Creo",
       "url": "https://open.spotify.com/track/5Bi9Cq5oVFy1OtUgecbegZ"
@@ -537,7 +537,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 256255,
       "name": "Del Olvido",
       "url": "https://open.spotify.com/track/6w7EejAq22cFNV5Yo4Vrlt"
@@ -555,7 +555,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 135973,
       "name": "Demoliendo Hoteles",
       "url": "https://open.spotify.com/track/29iIRrSuANyjnwag69PHOJ"
@@ -577,6 +577,24 @@
       "duration_ms": 158815,
       "name": "Desconf\u00edo",
       "url": "https://open.spotify.com/track/4EcL6qWjlXADH370vm1X9G"
+    },
+    {
+      "album": {
+        "name": "Vicio",
+        "url": "https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3venes Pordioseros",
+          "url": "https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174626,
+      "name": "Descontrolado",
+      "url": "https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7"
     },
     {
       "album": {
@@ -753,7 +771,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 258866,
       "name": "El Tesoro de los Inocentes",
       "url": "https://open.spotify.com/track/7qGn9WweEDJw8KZwJqB1KN"
@@ -880,6 +898,24 @@
     },
     {
       "album": {
+        "name": "Las Lunas",
+        "url": "https://open.spotify.com/album/4iCgdNm7iU0GDegH0hEnVJ"
+      },
+      "artists": [
+        {
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262640,
+      "name": "Este Misterio",
+      "url": "https://open.spotify.com/track/0Na1RP9HDaKPaU90cCF5ra"
+    },
+    {
+      "album": {
         "name": "Alta Suciedad",
         "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
       },
@@ -957,7 +993,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 255266,
       "name": "Hablando a Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3k9dGCm2R2Y70e87aMHYC3"
@@ -1047,7 +1083,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 161133,
       "name": "Juntos a la Par",
       "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
@@ -1065,7 +1101,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 333125,
       "name": "La Balada del Diablo y la Muerte",
       "url": "https://open.spotify.com/track/46hGh2ZdORn4We1nsbkPK8"
@@ -1101,7 +1137,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 266786,
       "name": "La Calle Es Su Lugar",
       "url": "https://open.spotify.com/track/0u5w3ehyNtTgSPvKVMU2xv"
@@ -1173,7 +1209,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 253505,
       "name": "La Rama",
       "url": "https://open.spotify.com/track/0JWOMrDJ3oizqvlV1HZd5v"
@@ -1249,7 +1285,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 217373,
       "name": "Loco",
       "url": "https://open.spotify.com/track/0jePqZlutXGa8xz6NNyKAy"
@@ -1499,7 +1535,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 251996,
       "name": "Mundo de Cristal",
       "url": "https://open.spotify.com/track/6vV1TLBRd8IeOpQMZNw1ZH"
@@ -1535,7 +1571,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 230954,
       "name": "Ni Siquiera",
       "url": "https://open.spotify.com/track/3Bm1HGtE8GdHI9wp6U0O8P"
@@ -1553,7 +1589,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 206720,
       "name": "Nos Siguen Pegando Abajo",
       "url": "https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB"
@@ -1589,7 +1625,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 257600,
       "name": "Ojos de Drag\u00f3n!",
       "url": "https://open.spotify.com/track/1wLYrmTo3HtsoTzfQnRZUY"
@@ -1615,7 +1651,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 210986,
       "name": "Oro",
       "url": "https://open.spotify.com/track/29c0OXo0x1xYt6MMBXFmTn"
@@ -1847,7 +1883,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 330428,
       "name": "Rezando Solo (En Vivo)",
       "url": "https://open.spotify.com/track/0XSQ9yqkQ3Kx8U44QhkJ4b"
@@ -1973,7 +2009,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 339440,
       "name": "Suerte",
       "url": "https://open.spotify.com/track/0lntiOJwWI3yF3LDP8CG2P"
@@ -2143,7 +2179,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 220162,
       "name": "Te Robaste Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4rz1uz4tBkNIQzLqse6w9D"
@@ -2165,7 +2201,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 246023,
       "name": "Todav\u00eda No Puedo Olvidarte - En Vivo",
       "url": "https://open.spotify.com/track/5gDt7Z2AY4Ft0qZVZ51X6y"
@@ -2325,7 +2361,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 240218,
       "name": "T\u00fanel de la Vida",
       "url": "https://open.spotify.com/track/4bnGyB5G0Kau4rQB4Vnz0x"
@@ -2419,6 +2455,24 @@
       "duration_ms": 202656,
       "name": "Una Gran Verdad",
       "url": "https://open.spotify.com/track/30Z1wBhNJaxDl6vqUkVxTT"
+    },
+    {
+      "album": {
+        "name": "Hija del Rigor",
+        "url": "https://open.spotify.com/album/3q4AvWqFjeQRtR8zj1A5QO"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210426,
+      "name": "Una Tregua",
+      "url": "https://open.spotify.com/track/7bZ8erPLv4zulyDVL66dJQ"
     },
     {
       "album": {

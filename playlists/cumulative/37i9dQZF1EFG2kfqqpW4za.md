@@ -2,7 +2,7 @@
 
 ### [Written By Helio Bentes](https://open.spotify.com/playlist/37i9dQZF1EFG2kfqqpW4za)
 
-> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/30ynYqxh9XyqxQgvUHjYBG">Helio Bentes</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
+> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/30ynYqxh9XyqxQgvUHjYBG">Helio Bentes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
 58 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/7MWHzcohDZje49scMSTfF2)
 

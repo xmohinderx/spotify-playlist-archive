@@ -1,13 +1,29 @@
 {
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
-  "num_followers": 42258,
+  "num_followers": 42271,
   "original_name": "Kitsun\u00e9's New, Hot & Fresh",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "Mjg2MyxkNTEzZDU3OTg3MjZiMjMwMDgzNjExMTk1NmY0YWYwMDBmYWZmYjFm",
+  "snapshot_id": "Mjg2NixmODJhMDM2NjEzYjE5MGY3NGU0ZjA0MjI0NTdmODY2NjQ3NGNmYWQx",
   "tracks": [
+    {
+      "added_at": "2022-07-06 08:26:41",
+      "album": {
+        "name": "Be Grateful",
+        "url": "https://open.spotify.com/album/1rX527XeBVn4tkNwVgUXu9"
+      },
+      "artists": [
+        {
+          "name": "Hans.",
+          "url": "https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A"
+        }
+      ],
+      "duration_ms": 167812,
+      "name": "Be Grateful",
+      "url": "https://open.spotify.com/track/1wzmKX0ppikXpAdA7O5BRp"
+    },
     {
       "added_at": "2022-07-04 10:12:31",
       "album": {
@@ -423,22 +439,6 @@
       "duration_ms": 180800,
       "name": "IDHAGF",
       "url": "https://open.spotify.com/track/6prn5rtliYnT0BntPBErk3"
-    },
-    {
-      "added_at": "2022-04-27 08:23:55",
-      "album": {
-        "name": "Shy",
-        "url": "https://open.spotify.com/album/4JZHZRLlXUs15fOzj9FumQ"
-      },
-      "artists": [
-        {
-          "name": "Harrison Lipton",
-          "url": "https://open.spotify.com/artist/7q6t9qQSTlcUpHLqTyCSLP"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Shy",
-      "url": "https://open.spotify.com/track/37rholV7FQmDvCNV64ydkh"
     },
     {
       "added_at": "2021-11-05 15:47:43",

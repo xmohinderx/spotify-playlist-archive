@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 190567,
       "name": "Bendecidos",
       "url": "https://open.spotify.com/track/7pk0dEO7AArCL34gHSpXxK"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 182070,
       "name": "BILLETES EN EL AIRE",
       "url": "https://open.spotify.com/track/5k0e2dhXqfqCg50JwRY31Y"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 185699,
       "name": "Buen Rato",
       "url": "https://open.spotify.com/track/7AqMSwTJIYgEzmYpRjTWX3"
@@ -151,7 +151,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 195470,
       "name": "Buena Que Est\u00e1",
       "url": "https://open.spotify.com/track/33PNzjr5j4Ues4M5cbLwmS"
@@ -213,10 +213,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 161493,
       "name": "Casualidad",
       "url": "https://open.spotify.com/track/67ii9wXrKQpBjfKS3u1iw1"
+    },
+    {
+      "album": {
+        "name": "Cocco",
+        "url": "https://open.spotify.com/album/1QHELUBylohKxXjvZEk7zH"
+      },
+      "artists": [
+        {
+          "name": "\u00f5ndas",
+          "url": "https://open.spotify.com/artist/2C5bspfGva39DUPg5ZYJ4p"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177531,
+      "name": "Cocco",
+      "url": "https://open.spotify.com/track/6nLaJqDyVmn4TucKxQSIcN"
     },
     {
       "album": {
@@ -301,7 +319,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 170494,
       "name": "Como Antes",
       "url": "https://open.spotify.com/track/1zX8ub9Zy31pkCgb2xBr4E"
@@ -457,7 +475,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 125500,
       "name": "CTNOTA",
       "url": "https://open.spotify.com/track/39yE5D9XuAL2Bn3PP4GyyO"
@@ -479,7 +497,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "Cu\u00e1ndo Ser\u00e1",
       "url": "https://open.spotify.com/track/68Oy57uVLa2uZdWcYNi6M4"
@@ -667,7 +685,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 185333,
       "name": "Frontiar",
       "url": "https://open.spotify.com/track/6uU1pbqT24J4zqIGPAP3kn"
@@ -733,7 +751,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 222857,
       "name": "Hace Rato",
       "url": "https://open.spotify.com/track/5MLM8Bnonrc3HlZ7OBU09C"
@@ -821,7 +839,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 168682,
       "name": "Hola, \u00bfQu\u00e9 Tal?",
       "url": "https://open.spotify.com/track/3oVLT7aggBe2JOReCPrabx"
@@ -901,7 +919,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 162901,
       "name": "In\u00e9dito",
       "url": "https://open.spotify.com/track/0vaPZCDqKhX09VwFruiRVl"
@@ -955,7 +973,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 131731,
       "name": "Kiki",
       "url": "https://open.spotify.com/track/5qd9O3TogUZ6WTgyhpak1M"
@@ -1069,7 +1087,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 165000,
       "name": "La Playita",
       "url": "https://open.spotify.com/track/21nc7VSDCHaYFqi8XlMEJL"
@@ -1109,7 +1127,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 146303,
       "name": "Las Gatas",
       "url": "https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH"
@@ -1149,7 +1167,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 182586,
       "name": "lo peor",
       "url": "https://open.spotify.com/track/0w6rYYEf5FrT6plPg6UhxW"
@@ -1273,7 +1291,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 173936,
       "name": "Manzana",
       "url": "https://open.spotify.com/track/1BMoI40IIeE8hUtjSy8jQz"
@@ -1291,7 +1309,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 182236,
       "name": "Marbella",
       "url": "https://open.spotify.com/track/4xO41pEVV9wV4oEgM0abX3"
@@ -1309,7 +1327,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 128416,
       "name": "MARGARITA",
       "url": "https://open.spotify.com/track/308riuOIFK07a1PV34B0rt"
@@ -1345,7 +1363,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 158000,
       "name": "Me Juquie",
       "url": "https://open.spotify.com/track/7jIcZC9pSpkAuokhCZOtLn"
@@ -1371,7 +1389,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 196595,
       "name": "Me Pone Mal - Remix",
       "url": "https://open.spotify.com/track/00i9bEJQVjHAoAxOQNcbzY"
@@ -1603,7 +1621,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 166037,
       "name": "Otra Botella",
       "url": "https://open.spotify.com/track/7B6aEwgsjVLGrXn11mbyRe"
@@ -1769,7 +1787,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 167441,
       "name": "Perriando Te Voy A Olvidar",
       "url": "https://open.spotify.com/track/4iXdpI6sYybC1mbkJlwoRk"
@@ -1897,7 +1915,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 125923,
       "name": "Que a Pasao",
       "url": "https://open.spotify.com/track/5s2SRpPmDiYFf0Qu17r9Uk"
@@ -1973,7 +1991,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 220284,
       "name": "Qu\u00e9 Te Est\u00e1 Pasando",
       "url": "https://open.spotify.com/track/1R4GtCpgZ9T0GQyHPsJVEW"
@@ -1991,7 +2009,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 191075,
       "name": "Reset",
       "url": "https://open.spotify.com/track/4fARBgcUy0qN2Pq2XHo36P"
@@ -2101,7 +2119,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 193750,
       "name": "Si Nos Pillan Perreando",
       "url": "https://open.spotify.com/track/2UQwiZw5k1FVzluoGQejiy"
@@ -2119,7 +2137,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 165679,
       "name": "Siempre Fine",
       "url": "https://open.spotify.com/track/1C91EF0FrgTMat91LnsiUh"
@@ -2175,7 +2193,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 168875,
       "name": "Sin Maquillaje",
       "url": "https://open.spotify.com/track/6PsucEjVsPVm7MkgCVYdFR"
@@ -2241,7 +2259,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 191680,
       "name": "Sinceros",
       "url": "https://open.spotify.com/track/2es06qgevxcS9Su0wTg35c"
@@ -2263,7 +2281,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 211040,
       "name": "Solita",
       "url": "https://open.spotify.com/track/6oEs0qf6YpUD83rmjzm7Uh"
@@ -2285,7 +2303,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 168896,
       "name": "Solo",
       "url": "https://open.spotify.com/track/7j7rEOVp98oIz6ZV45jWCf"
@@ -2519,7 +2537,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 166050,
       "name": "Un Poquito",
       "url": "https://open.spotify.com/track/1nU4sOQqqhFUqS0TiRlD0V"
@@ -2633,7 +2651,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 162322,
       "name": "Vatos Locos",
       "url": "https://open.spotify.com/track/3xmMwWOMLhtTLVrZpihJDN"
@@ -2651,7 +2669,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 204216,
       "name": "Venti47",
       "url": "https://open.spotify.com/track/50YrZo8rIzof3SeNnW9ulV"
@@ -2669,7 +2687,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 158144,
       "name": "Verificada",
       "url": "https://open.spotify.com/track/6wIByDvOQvyjqR3hBtOECG"
@@ -2695,7 +2713,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 176146,
       "name": "Vete Pal Carajo",
       "url": "https://open.spotify.com/track/1mrQYY0NATPCe7WOYcCKf1"
@@ -2747,7 +2765,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 244666,
       "name": "Vitamina (Remix)",
       "url": "https://open.spotify.com/track/6xBBOrrKiALoAN8twug4Cq"
@@ -2795,7 +2813,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 193043,
       "name": "YO SE QUE TU (feat. Rusherking)",
       "url": "https://open.spotify.com/track/4M4DTyLupKvbJKlE4I4EYq"

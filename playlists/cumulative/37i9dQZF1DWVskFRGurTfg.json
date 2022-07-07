@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00c9xitos urbanos de Latinoam\u00e9rica: Foto: Natti Natasha, Daddy Yankee, Wisin & Yandel.",
+  "description": "\u00c9xitos urbanos de Latinoam\u00e9rica: Foto: Bizarrap & Quevedo.",
   "name": "Hits Urbanos",
   "published_playlist_ids": [
     "2GQMqIHn6mzjfv4YUbCfpS"
@@ -4510,6 +4510,28 @@
     },
     {
       "album": {
+        "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+        "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198937,
+      "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+      "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
+    },
+    {
+      "album": {
         "name": "Hecho En Medell\u00edn",
         "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
       },
@@ -4653,7 +4675,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 519289,
       "name": "Residente: Bzrp Music Sessions, Vol. 49",
       "url": "https://open.spotify.com/track/2dG9k8jtnkjzJjUToz9i9i"

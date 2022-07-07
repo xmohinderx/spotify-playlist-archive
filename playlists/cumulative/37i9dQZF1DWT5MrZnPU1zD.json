@@ -369,7 +369,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 147204,
       "name": "Ain\u2019t No Fun",
       "url": "https://open.spotify.com/track/7hUpFUXJsDXMKopFz3Q2AP"
@@ -1069,7 +1069,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 123651,
       "name": "BOOK IT",
       "url": "https://open.spotify.com/track/0tJQdCQmrhviw9qfbDOlVC"
@@ -1729,7 +1729,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 199500,
       "name": "Come On, Let's Go (with Nigo)",
       "url": "https://open.spotify.com/track/6f44p3Kc4ayD9VtbC9Clkr"
@@ -1887,7 +1887,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 280500,
       "name": "CULT",
       "url": "https://open.spotify.com/track/1P5pnfWEcH0qUICxrCF4Kl"
@@ -2381,7 +2381,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 199111,
       "name": "ESCAPE YOUR LOVE (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/2dXQJ3cCBmaeX2QZVVh3cI"
@@ -2535,7 +2535,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 121877,
       "name": "Fallin",
       "url": "https://open.spotify.com/track/4v3W97RqEN0kgaLAre1pbJ"
@@ -2677,7 +2677,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 206837,
       "name": "Flights",
       "url": "https://open.spotify.com/track/4ZbK9nc9EOYDCPtGhOCYQc"
@@ -2849,7 +2849,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 179148,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/19n0UZuW8AArMVWNztoXu9"
@@ -3067,7 +3067,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 202036,
       "name": "GOTW",
       "url": "https://open.spotify.com/track/4OvA3f027ZoTm3RIlBzrYB"
@@ -4059,7 +4059,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 207213,
       "name": "KEEP IT BURNIN (feat. Kanye West)",
       "url": "https://open.spotify.com/track/7rWCWzPRftzZTZtIyQtaDU"
@@ -4241,7 +4241,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 202331,
       "name": "Lay Wit Ya (feat. Duke Deuce)",
       "url": "https://open.spotify.com/track/0RlsFYqkOzlg4ZxVQs9YJA"
@@ -4739,7 +4739,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 177840,
       "name": "Look Ma I Did It",
       "url": "https://open.spotify.com/track/11AfL8OrGWV8KYNSzuRDsr"
@@ -4983,7 +4983,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 131704,
       "name": "MHM",
       "url": "https://open.spotify.com/track/2SBt41LTnZcKlcnknUgcvF"
@@ -5333,7 +5333,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 185234,
       "name": "My Bruddas (feat. Yung Bans)",
       "url": "https://open.spotify.com/track/4eafVkuOMZXeSxndufbVdK"
@@ -5922,6 +5922,28 @@
     },
     {
       "album": {
+        "name": "Mention My Name",
+        "url": "https://open.spotify.com/album/2yepLQw2fOxkEMfU3gbsWB"
+      },
+      "artists": [
+        {
+          "name": "Tafia",
+          "url": "https://open.spotify.com/artist/75s3jBhtUyWmQLLqzhIub4"
+        },
+        {
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "Paper Route (ft. Young Dolph)",
+      "url": "https://open.spotify.com/track/5A5XZ49RusDpRHlltXB4f5"
+    },
+    {
+      "album": {
         "name": "Partments",
         "url": "https://open.spotify.com/album/3N9fb2RVAyW3O6DggVcKWo"
       },
@@ -6155,7 +6177,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 204528,
       "name": "Pose (feat. Wiz Khalifa & Curren$y)",
       "url": "https://open.spotify.com/track/1EaEXPXlb3Xp19Aj3Nw8v1"
@@ -6217,7 +6239,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 145897,
       "name": "PradadaBang",
       "url": "https://open.spotify.com/track/7zg97q1UQyQgIhhrAEke45"
@@ -6431,7 +6453,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 183186,
       "name": "Real Talk",
       "url": "https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy"
@@ -6815,7 +6837,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 161572,
       "name": "Santa Monica Blvd",
       "url": "https://open.spotify.com/track/4Po2ztD6OBxolnmDagEh8o"
@@ -7409,7 +7431,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 177731,
       "name": "Step 1 (with Offset)",
       "url": "https://open.spotify.com/track/5gcsJvWzuPMeJBQYdiO0RS"
@@ -7791,7 +7813,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 140373,
       "name": "TALK2ME",
       "url": "https://open.spotify.com/track/3argucLqn1gBoVSBe6M7Cz"
@@ -7849,7 +7871,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 124973,
       "name": "Tetris",
       "url": "https://open.spotify.com/track/5sqs99n1gCg2Ygg3eNz6rJ"
@@ -8683,7 +8705,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 188386,
       "name": "Where I Belong",
       "url": "https://open.spotify.com/track/1PwY8OpvFFt7CmnpnPAw7O"
@@ -9147,7 +9169,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-07",
       "duration_ms": 198960,
       "name": "Ziplock",
       "url": "https://open.spotify.com/track/2RmENPt0yPmU09BKjKC26M"

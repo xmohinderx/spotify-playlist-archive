@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > 😈 😈 😈  Cover: Freddie Dredd
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,670 likes - 100 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,048 likes - 100 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

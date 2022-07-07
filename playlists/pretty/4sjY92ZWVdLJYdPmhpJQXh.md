@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4sjY92ZWVdLJYdPmhpJQXh.md) - [plain]
 
 > Atlantic Records Presents the hottest tracks in hip\-hop, pop, rock, R&amp;B, indie and more! Updated every Friday.
 
-[Atlantic Records](https://open.spotify.com/user/atlanticrecords) - 1,772 likes - 104 songs - 5 hr 19 min
+[Atlantic Records](https://open.spotify.com/user/atlanticrecords) - 1,778 likes - 104 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

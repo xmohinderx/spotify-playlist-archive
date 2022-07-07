@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,549 likes - 58 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,965 likes - 58 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 26 | [五等分の軌跡](https://open.spotify.com/track/2x8LTwwFltPH8kjOThZaWu) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [五等分の軌跡](https://open.spotify.com/album/1LwNX4lCrDG1LJpFSMT11Z) | 4:09 |
 | 27 | [無自覚の天才](https://open.spotify.com/track/6xzThjUK6ZdDVsu73RtmoM) | [Non Stop Rabbit](https://open.spotify.com/artist/3BI27TxQPk2BVbiThvj1EV) | [無自覚の天才](https://open.spotify.com/album/2JXSLIzwcvF5jFiIhC8OPM) | 4:09 |
 | 28 | [悪魔の子 \- KOHTA YAMAMOTO Remix](https://open.spotify.com/track/3iGgTjzoA6tFUD1KPTbdJQ) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav), [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [Rearrangement Reaction](https://open.spotify.com/album/2vPvV6BqCafISrQFtYQ1gu) | 4:04 |
-| 29 | [Beyond Selves \(feat\. L\)](https://open.spotify.com/track/0yhDRfvMNnEzSTyGvfu5ds) | [Void\_Chords feat\. L](https://open.spotify.com/artist/1tuFCrRA1MxsuT9bfCroUR), [L](https://open.spotify.com/artist/5yf1IhykFumDFsiQmxwswU) | [Beyond Selves \(feat\. L\)](https://open.spotify.com/album/7bfbdV0sHCg8dlreqTYic5) | 5:33 |
+| 29 | [Beyond Selves \(feat\. L\)](https://open.spotify.com/track/0yhDRfvMNnEzSTyGvfu5ds) | [Void\_Chords](https://open.spotify.com/artist/7CHOrOaEA09yNN1PLPlibc), [L](https://open.spotify.com/artist/5yf1IhykFumDFsiQmxwswU) | [Beyond Selves \(feat\. L\)](https://open.spotify.com/album/7bfbdV0sHCg8dlreqTYic5) | 5:33 |
 | 30 | [SLEEPLESS](https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [SLEEPLESS](https://open.spotify.com/album/5qZBvVlYiHtz5jAfJDQp5k) | 3:38 |
 | 31 | [人芝居](https://open.spotify.com/track/74sYtRs4LCDIpdBP8xDMSP) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [人芝居](https://open.spotify.com/album/7vRJFhwnCxhkQnk9SnSg4U) | 4:07 |
 | 32 | [花の塔](https://open.spotify.com/track/1yt4wO7dKCwsfjch8SN9aU) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [花の塔](https://open.spotify.com/album/5N4WUOp0F0eUngAyPXJico) | 4:35 |

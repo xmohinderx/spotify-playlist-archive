@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! Cover: LEE MINHYUK \(HUTA\)
+> Future K\-Pop hits! Cover: ENHYPEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,264 likes - 51 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 690,715 likes - 51 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 50 | [C.I.T.T \(Cheese in the Trap\)](https://open.spotify.com/track/0wp8u1swtx3sVvJw3dxXmY) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [C.I.T.T \(Cheese in the Trap\)](https://open.spotify.com/album/0EE8K1IGciwDPMiURGtEBf) | 2:57 |
 | 51 | [SAVIOR](https://open.spotify.com/track/4Bk3bszU1CnHq9hS20s2qZ) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [A to B](https://open.spotify.com/album/3KuC2m80vVPinf5rYjZSch) | 3:01 |
 
-Snapshot ID: `MTY1NjkzMjY1MywwMDAwMDI2ZjAwMDAwMTgxYzhlMWQ4NjAwMDAwMDE4MWI1YTA0ZTE1`
+Snapshot ID: `MTY1NzA4MTMyNCwwMDAwMDI3MDAwMDAwMTgxZDFiZTYzMWQwMDAwMDE4MWQxYmI3MWY3`
